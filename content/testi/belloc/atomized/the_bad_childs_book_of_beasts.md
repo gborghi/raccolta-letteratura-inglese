@@ -493,6 +493,22 @@ I love you well.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dedica
+
+TO
+
+Maestro Evelyn Bell
+
+Dell’[[Oxford]]
+
+Evelyn Bell
+
+Ti amo molto.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_02_introduction" data-title="The Bad Child’s Book of Beasts — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story" data-tags="archetype/child"></span>
@@ -553,6 +569,63 @@ And as the Owl discreet.’
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Introduzione
+
+Ti chiamo cattivo, mio piccolo [[Child|bambino]],
+
+# In prima pagina
+
+#Perché un comportamento scortese e selvaggio
+
+È normale alla tua età.
+
+# Il messaggio morale di quest’opera inestimabile
+
+# (Se compreso correttamente)
+
+Ti trasformerà in… un piccolo turco.
+
+Incredibilmente buono.
+
+Non comportatevi come i bambini cattivi.
+
+# Chi, anche solo per un motivo insignificante…
+
+Titolo:  
+Imiterà
+
+Il Cangurro
+
+Con confini selvaggi e senza senso:
+
+Non comportatevi come bambini mal cresciuti.
+
+Chi mangia come piccoli maiali
+
+E quando devono andare a letto
+
+Piangerà come cuccioli…
+
+Chi imita i modi di comportamento delle scimmie
+
+# Le loro abitudini del Grifone
+
+# Goditi quelle risate rumorose e inappropriatamente schiette…
+
+E mai pettinarsi i capelli.
+
+Ma controlla bene le tue azioni, così…
+
+Tutti i tuoi amici possono ripetere.
+
+“Questo [[Child|>bambino]] è delicato come il Gatto, ”
+
+#E come la civetta, discreta…
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_03_the_yak" data-title="The Bad Child’s Book of Beasts — The Yak" data-chapter="The Yak" data-kind="story" data-tags="archetype/child,motif/animals,motif/childhood,form/comic_verse_song,setting/orient"></span>
@@ -597,6 +670,47 @@ he will not.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il yak
+
+Come amico dei bambini
+
+Consigliami il Yak.
+
+Lo troverai esattamente ciò che cerchi.
+
+Porterà e riporterà.
+
+Puoi cavalcarlo sul dorso.
+
+# Guidalo attraverso…
+
+Con una corda.
+
+Il tartaro che abita nelle pianure del Tibet
+
+Una regione desolata di neve
+
+Da secoli è considerato un animale domestico molto amato dalle famiglie.
+
+E sicuramente il Tartaro dovrebbe saperlo!
+
+Titolo:  
+Allora digli a tuo papà dove si può trovare quel “Yak”.
+
+E se fosse terribilmente ricco…
+
+#Ti comprerà quella creatura…
+
+Altrimenti…
+
+Non lo farà.
+
+Non posso essere sicuro di quale sia.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_04_the_polar_bear" data-title="The Bad Child’s Book of Beasts — The Polar Bear" data-chapter="The Polar Bear" data-kind="story" data-tags="archetype/child,motif/animals,form/comic_verse_song"></span>
@@ -615,6 +729,20 @@ I wish I had one too!
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#La tigre polare
+
+Il Grizzly polare non se ne rende conto
+
+# Di un freddo che mi penetra fino al cuore…
+
+Perché? Ha un ciuffo di capelli.
+
+Vorrei averne uno anch’io!
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_05_the_lion" data-title="The Bad Child’s Book of Beasts — The Lion" data-chapter="The Lion" data-kind="story" data-tags="archetype/child,motif/lion"></span>
@@ -632,6 +760,20 @@ And a good little [[Child|child]] will not play with him.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il [[Lion|Leone]]
+
+Il [[Lion|Leone]], il [[Lion|Leone]], abita nelle lande desolate.
+
+Ha una testa grande e una vita molto stretta.
+
+Ma le sue spalle sono rigide, e la sua mascella è cupa…
+
+E un bravo piccolo [[Child|bambino]] non giocherà con lui.
+
+* * *
 
 
 
@@ -653,6 +795,22 @@ Will find a Tiger well repay the trouble and expense.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Tigre
+
+Il tigre, d’altra parte…
+
+# Dolce e gentile come un gattino
+
+Sarebbe un ottimo compagno di giochi per qualsiasi piccolo [[Child|>bambino]];
+
+Madri di famiglie numerose (che si dichiarano dotate di buon senso)
+
+Troverete che un Tigre ripagherà ampiamente tutte le difficoltà e le spese sostenute.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_07_the_dromedary" data-title="The Bad Child’s Book of Beasts — The Dromedary" data-chapter="The Dromedary" data-kind="story" data-tags="motif/animals,concept/nonsense,form/comic_verse_song"></span>
@@ -666,6 +824,16 @@ I cannot say the same about the Kurd.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il dromedario
+
+Il dromedario è un uccello allegrissimo…
+
+Non posso dire lo stesso del curdo.
+
+* * *
 
 
 
@@ -705,6 +873,40 @@ Who wants to be a Don.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La Balena
+
+#La balena che vaga intorno al Polo
+
+# Non è
+
+Un pesce da tavola.
+
+Non si può cuocerlo intero, né arrostirlo né bollirlo.
+
+“Né servirlo in un piatto…”
+
+Ma potreste tagliare via tutta quella carne grassa…
+
+E fonderlo per ottenere olio.
+
+E così sostituire
+
+# Il fagiolo di colza
+
+(Un prodotto del suolo).
+
+# Da annotare tutti questi fatti
+
+E ci rifletté a lungo.
+
+Da ogni ragazzo della città di [[Oxford]].
+
+Chi vuole diventare un “Don”?
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_09_the_camel" data-title="The Bad Child’s Book of Beasts — The Camel" data-chapter="The Camel" data-kind="story" data-tags="motif/animals,motif/desert,form/comic_verse_song,form/comic_bestiary"></span>
@@ -716,6 +918,14 @@ The Camel
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Cammello
+
+“La nave del deserto”.
+
+* * *
 
 
 
@@ -759,6 +969,45 @@ All in the Mu-se-um.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Ilippopotamo
+
+# Sparo all’ippopotamo
+
+Con proiettili fatti di platino
+
+#Perché se uso quelle pesanti…
+
+La sua pelle è sicuramente in grado di schiacciarli tutti.
+
+* * *
+
+#Il, davvero
+
+# Dodo
+
+Titolo:  
+Il dodo utilizzato
+
+Girovagare.
+
+E prendi il sole e l’aria.
+
+Il sole riscalda ancora la sua terra natale…
+
+Il Dodo non c’è più!
+
+La voce che un tempo strillava e piagnucolava
+
+Ora è per sempre muto…
+
+# Ancora potrete vedere le sue ossa e il suo becco
+
+Tutto nel mu-se-o.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_11_the_marmozet" data-title="The Bad Child’s Book of Beasts — The Marmozet" data-chapter="The Marmozet" data-kind="story" data-tags="motif/animals,concept/nonsense,concept/misanthropy,form/comic_verse_song"></span>
@@ -776,6 +1025,20 @@ But Men are all extinct.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il marmosetto
+
+La specie Uomo e Martorecchio
+
+Titolo: Strettamente legati tra loro
+
+Il marmosetto sopravvive ancora oggi.
+
+Ma gli uomini sono tutti estinti.
+
+* * *
 
 
 
@@ -833,6 +1096,58 @@ With comfort from a parachute.)
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il Camelopard
+
+Il Camelopard, si dice…
+
+Da viaggiatori (che mai mentono)
+
+Non riesce a distendersi completamente a letto
+
+Perché è così alto.
+
+Le nuvole circondano la sua testa maestosa.
+
+I suoi piccoli corni toccano il cielo.
+
+#Come farà
+
+Caccio
+
+I
+
+Questo quadrupede?
+
+Non riesco a capirlo!
+
+No, io no, davvero!
+
+# Un ritratto di come le persone provino
+
+E non riuscire a colpire quella testa così in alto.
+
+Comprerò un piccolo paracadute
+
+# Un paracadute comune con ali
+
+# Riempirò tutto con l’arrowroot
+
+E altre cose necessarie…
+
+# E ucciderò questa terribile bestia
+
+Con pietre, bastoni, armi e fionde.
+
+# Una immagine di
+
+Come le persone sparano
+
+Con il conforto di un paracadute.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_13_the_learned_fish" data-title="The Bad Child’s Book of Beasts — The Learned Fish" data-chapter="The Learned Fish" data-kind="story" data-tags="motif/animals,concept/nonsense,form/comic_verse_song"></span>
@@ -846,6 +1161,16 @@ To go into the water when it rains.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il pesce erudito
+
+# Questo “pescio” erudito non possiede abbastanza cervello
+
+Entrare in acqua quando piove.
+
+* * *
 
 
 
@@ -866,6 +1191,22 @@ So LARGE a trunk before.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Elefante
+
+# Quando le persone pensano a questa bestia…
+
+# Si meravigliano sempre di più
+
+# In una situazione del genere…
+
+# Piccola coda dietro
+
+Avevo un tronco molto grande prima.
+
+* * *
 
 
 
@@ -897,6 +1238,33 @@ To Mister So-and-so!
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il grande babuino
+
+#Il grande babuino viene trovato…
+
+Le pianure di Cariboo:
+
+# Si muove per la città
+
+Senza nulla addosso
+
+(Cosa davvero scioccante da fare).
+
+Ma se lui…
+
+Vestito in modo rispettabile
+
+E lasciate che i suoi baffi crescano…
+
+Titolo:  
+Come potrebbe essere questo grande babuino…
+
+Per il signor tal-de-tale!
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_16_the_rhinoceros" data-title="The Bad Child’s Book of Beasts — The Rhinoceros" data-chapter="The Rhinoceros" data-kind="story" data-tags="motif/animals,concept/nonsense,form/comic_verse_song"></span>
@@ -914,6 +1282,20 @@ Rhinoceros, you are an ugly beast.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il rinoceronte
+
+#Rhinoceros, la tua pelle sembra completamente lacerata…
+
+Non mi piaci affatto.
+
+# Hai un corno dove altre bestie non ne hanno alcuno
+
+Rinoceronte, sei una bestia brutta.
+
+* * *
 
 
 
@@ -949,5 +1331,41 @@ so lonely people say
 Who keep a frog (and, by the way,
 
 They are extremely rare).
+
+Oh! My!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Rana
+
+# Sii gentile e premuroso con la rana
+
+E non chiamatelo con nomi offensivi.
+
+Titolo:  
+“Pelle viscida” o “Polly-wog”
+
+“O, altrimenti, ‘Il brutto James’.”
+
+“O ‘Gap-a-grin’, o ‘Toad-gone-wrong’”
+
+# “O Bill Bandy-knees”:
+
+Il rospo ha tutte le ragioni di essere sensibile
+
+A questi epiteti.
+
+"Nessun animale ripagherà mai di più..."
+
+Un trattamento gentile e equo;
+
+Almeno
+
+# Persone così solitarie dicono
+
+# Chi tiene una rana…
+
+Sono estremamente rari.
 
 Oh! My!

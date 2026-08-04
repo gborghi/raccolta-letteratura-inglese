@@ -7993,7 +7993,7 @@ PARTE TERZA:  PENSIERO E FEDE
 
 IL PENSIERO ANTIRELIGIOSO NEL SECOLO DICIOTTESIMO
 
-Di G.K. Chesterton
+Di G.K. Chesterton 
 
 In origine un contributo a An Outline of Christianity; the Story of our Civilization.  Vol.  IV.  Christianity and Modern Thought, 1926. The Waverley Book Co., Londra
 
@@ -8764,7 +8764,7 @@ Non sarebbero riusciti a comprendere come un vago darwiniano quale Cecil Rhodes,
 
 LO SCOPO RELIGIOSO DELL'[[Education|EDUCAZIONE]]
 
-Di G.K. Chesterton
+Di G.K. Chesterton 
 
 Da The Torchbearer, 1925
 
@@ -10653,6 +10653,31 @@ or his coat-tails and blazed through black fantastic tempests;
 a strange star of the [[Storm|storm]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Senza dubbio, essere un agente di polizia è un compito nobile e dignitoso; allo stesso modo, essere membro di una giuria lo è anch'esso: infatti, far parte di una giuria significa svolgere il ruolo di giudice. Tuttavia, nel sistema giudiziario, nulla rivela con maggiore chiarezza l’aspetto medievale (e quindi umano) di tale istituzione, quanto il fatto che si presuppone automaticamente che ogni persona onesta dia priorità ai propri figli o alle proprie responsabilità familiari rispetto ai codici e ai poteri legali; per questo motivo, essa deve essere chiamata a far parte di una giuria. Forse è proprio ciò che [[Christ|Cristo]] intendeva quando descrisse il Regno dei Cieli come qualcosa che “invia le persone lungo le strade e nei sentieri, costringendole ad entrare”; forse voleva dire che, se si desidera una persona semplice e modesta, bisogna chiamarla. Qualunque sia il caso riguardo al Regno dei Cieli, questo è certamente vero anche per il Regno della Terra. L’altro approccio, invece, ci lascia esposti a quella classe offensiva che arriva senza essere stata invitata: persone volgari e meschine, animate da ambizioni basse e disoneste, che già oggi stanno distruggendo l’Inghilterra.
+
+L’altro elemento in questo caso è così lungo che lo riassumerò brevemente qui. Il Poliziotto di Quartiere, nominato da un Consiglio Distrettuale, rappresenta uno dei pochi rimanenti esempi di quella certa concezione naturale di [[Self|autosogestione]] e [[government|_governamento]] che la scienza moderna e le discipline moderne hanno reso molto difficile da mantenere. Per il momento, lo dirò semplicemente in questo modo: cosa darebbero sei strade di Hoxton o Whitechapel se potessero eleggere (anche in modo indiretto) il poliziotto che dovrebbe stare all’angolo della strada?
+
+# Il compagno di Capone
+
+A volte ho turbato le convenzioni del nostro [[Time|tempo]] difendendo la Proprietà Privata; e ho sottolineato che, in realtà, la Proprietà Privata è stata distrutta proprio dall’Impresa Privata. In relazione a questo [[Paradox|paradosso]], ovvero al fatto che la nostra comune [[Conscience|conscienza]] disapprova davvero un ladro, l’altro giorno mi sono imbattuto in un caso molto curioso: un episodio concreto che lascerò parlare da solo. A mio parere, questo caso combinava divertimento e insegnamento.
+
+Ero uscito da un famoso porto spagnolo e mi ritrovai in una sorta di sobborgo marittimo. Non conoscevo la lingua locale; ma i latini sono così intelligenti che riescono a comunicare anche senza parole. Come avevo già fatto venti volte, entrai in un piccolo caffè vuoto, tranne che per un uomo robusto seduto su uno sgabello, con le spalle rivolte verso di me; lui si alzò all’improvviso, con una sorta di vivacità che non sembrava né spagnola né inglese. Era chiaramente il proprietario del locale e parlava inglese fluentemente, ma con un accento misto che non riuscivo a identificare; finché non capii che non era uno spagnolo che parlava inglese, ma uno spagnolo che parlava americano. Durante la conversazione, confessai di dedicarmi al mestiere letterario; allora lui si entusiasmò e dichiarò di aver scritto anche lui un libro. Mi mostrò il libro: a prima vista sembrava davvero una buona opera, scritta con spirito e umorismo; in realtà erano semplicemente le sue memorie da pistolero e gangster sotto la guida di Al Capone. Era un resoconto assolutamente onesto delle sue attività disoneste, che descriveva furti e attività illegali senza alcuna giustificazione del capitalismo. Tuttavia, per uno spirito incline al melodramma, essere “da solo” con un pistolero aveva il suo fascino. Era un uomo scuro, cupo; all’improvviso disse: “Non scriverò più altri libri”.
+
+“No,” dissi applaudendo calorosamente, “mantenere un pub è molto meglio che scrivere un libro. Molti inglesi avrebbero voluto mantenere un pub invece di una casa editrice.”
+
+E in quel momento, si trasformò in una vitalità immensa e vibrante. Gridava così forte che la taverna tremava per i “crimini” compiuti dal suo editore. Diceva che il suo editore lo aveva ingannato in ogni occasione; affermava di dover viaggiare in tutto il mondo per assicurarsi che tutti i suoi editori e traduttori non gli sottraessero i soldi guadagnati con fatica. Penso sia molto probabile che lo facessero. E non ho alcuna illusione riguardo al mondo editoriale o ad altre manifestazioni della plutocrazia moderna. Ma mi sembrava una sorta di ironia. Gli ricordai anche le parole di Byron, secondo cui Barrabas era un editore.
+
+“In breve,” dissi con fermezza, “è stato un vero e proprio furto.”
+
+“Certo,” disse con enfasi esplosiva; e ci separammo come ottimi amici.  
+“Era solo una rapina!”
+
+# Perdere la testa
+
+Quando ero un bambino, avevo una grande [[Imagination|immaginazione]], anche se da tempo essa è stata cancellata dalle astrazioni verbali della politica e del giornalismo. L’[[Imagination|immaginazione]] vera, infatti, non consiste mai in vaghe visioni; è sempre concreta, materialistica. È fatta di immagini, solitamente immagini “incise” nella mente. C’è un letteralismo estremo nell’[[Imagination|immaginazione]]: quando la possedevo, trasformavo in cose concrete tutto ciò che le persone dicevano. Sentivo gli adulti usare proverbi e figure retoriche banali. Ma per me ognuna di quelle frasi assumeva un significato vivido e violento, come uno slogan scritto con i fuochi d’artificio. In particolare, le metafore marine mi suscitavano immagini estremamente realistiche: quando sentivo dire che mio zio “aveva preso confidenza in mare”, immaginavo per lui trasformazioni corporee orribili. Gli erano spuntate quattro gambe? O i suoi due piedi originali erano stati amputati dal medico di bordo? Le nuove gambe gli erano arrivate come bagagli supplementari, o crescevano su di lui in modo disgustoso, come peli o funghi. Immaginavo che quelle “gambe marine” fossero due appendici verdi e scintillanti, coperte di scaglie, simili alle code dei pesci. E quando sentivo dire che il capitano “teneva l’occhio attento al tempo”, pensavo che tenesse l’altro occhio completamente chiuso. In alcuni sogni, immaginavo addirittura che quell’“occhio del tempo” fosse un organo strano e eccentrico, come quello di un Ciclope. Un occhio di cielo azzurro o di lampo, che si apriva improvvisamente nel suo cappello o nella sua sciarpa, brillando attraverso tempeste oscure e fantastiche. Una strana stella della tempesta.
+
 
 
 <span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_03" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 3)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/clock,motif/death,motif/home,motif/leaves,motif/soul,concept/body,concept/doubt,concept/history,concept/pride,concept/truth,form/allegory,form/history,form/parable,setting/egypt,character/arthur"></span>
@@ -11301,7 +11326,7 @@ THE SPICE OF LIFE
 
 by
 
-G. K. Chesterton  
+G. K. Chesterton
 
 Sul [[Essay|Saggio]] Un estratto dall'ultimo paragrafo di un [[Essay|saggio]] introduttivo
 agli Essays of the Year 1931-32. Pubblicato da The Argonaut Press, 1932

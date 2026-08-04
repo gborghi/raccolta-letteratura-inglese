@@ -1212,6 +1212,43 @@ And cheat me with thy false delight,
 Most holy [[Night]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VERSI.
+LA [[Night|NOTTE]].
+
+Santissima [[Night|Notte]], tu che ancora custodisci
+
+Le chiavi di tutte le porte del sonno,
+
+A me, quando le mie stanche palpebre si chiudono,
+
+Concedi tu riposo.
+
+E fa' che il lontano lamento di coloro
+
+Che cantano il requiem del giorno morto
+
+Diventi, alle mie orecchie che vegliano insonni,
+
+Dolce ninnananna.
+
+Ordina a coloro che vegliano la sacra [[Moon|luna]]
+
+di sussurrare al mio capezzale le loro memorie;
+
+così avrò sogni strani e beati
+
+Nel mio breve riposo.
+
+Ripiega le tue grandi ali intorno al mio volto,
+
+nascondi l’[[Dawn|alba]] del giorno al mio giaciglio,
+
+e ingannami con la tua falsa delizia,
+
+santissima [[Night|Notte]].
+
 
 
 <span class="atom-split" data-atom="story_02_homage" data-title="Verses and Sonnets — HOMAGE." data-chapter="HOMAGE" data-kind="story" data-tags="motif/dawn"></span>
@@ -1247,6 +1284,38 @@ In his surcease the hours,
 
 The early hours of all their happy circuit take.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+OMAGGIO.
+
+I.
+
+# Una luce intorno alla tua testa
+
+Solo i santi di Dio possono indossarlo.
+
+E tutte le fioriture su cui calpesti…
+
+"In pleasance more than ours have fed..."
+
+#Avevano bevuto l’aria essenziale
+
+Di chi è un’estate in cui la musica risuona ovunque.
+
+II.
+
+Perché sei più giovane delle mattine stesse
+
+# Che si spezza tra le montagne;
+
+# Quando i pastori delle colline vedono la loro unica stella
+
+Sbiancare all’[[Dawn|'alba]], e fare.
+
+#Nel silenzio delle ore…
+
+Le prime ore di tutto il loro felice percorso.
 
 
 
@@ -1294,6 +1363,48 @@ Cuckoo!
 In woods so long time bare.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cuco!
+
+Nelle foreste desolate da così tanto tempo.
+
+Cuco!
+
+Nelle foreste di Mortain, chissà dove…
+
+Due note cadono.
+
+#Non gli invidio affatto
+
+La sua fantasia.
+
+Cuco!
+
+Anch’io…
+
+Da qualche parte…
+
+#Ho cantato con la stessa allegria di lui
+
+Chi osa?
+
+Amante piccolo e negligente, per deridere la premura…
+
+E chi…
+
+#Può chiamare
+
+Cuco!
+
+#Nelle foreste invernali stanche…
+
+#Nei boschi profumati, stanchi d’inverno… chiamate
+
+Cuco!
+
+Nelle foreste desolate da così tanto tempo.
+
 
 
 <span class="atom-split" data-atom="story_04_sonnets" data-title="Verses and Sonnets — SONNETS." data-chapter="SONNETS" data-kind="story" data-tags="motif/night"></span>
@@ -1331,6 +1442,41 @@ I am like one that brings his merchandise
 To Californian skies.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sonetti.  
+Il porto.
+
+Ero come qualcuno che si aggrappa al ponte di una nave di notte.
+
+Tenendo il timone premuto contro il petto…
+
+Titolo:  
+Ero come colui che si impegna con tutte le sue forze
+
+#Per mantenere la rotta, anche quando è così difficile…
+
+Chi cambia direzione bruscamente, ora a est, ora a ovest…
+
+#Si sforza ancora di mantenere la presa e continua a tentare…
+
+#Di piegare le travi fino alla luce sacra
+
+Gli mostra le terre lontane e annuncia l’arrivo del giorno.
+
+Ma ora che tutta questa frenetica attività bellica è finita…
+
+# Sono come colui il cui vascello finalmente raggiunge la riva
+
+# Appena inizia a placarsi la brezza avventurosa…
+
+# Entrando in acque più tranquille
+
+Titolo:  
+Sono come colui che porta con sé le proprie merci
+
+Verso i cieli della California.
+
 
 
 <span class="atom-split" data-atom="story_05_her_youth" data-title="Verses and Sonnets — HER YOUTH." data-chapter="HER YOUTH" data-kind="story" data-tags="topos/tempus_fugit,motif/time,concept/love_romantic,concept/transience,form/sonnet"></span>
@@ -1366,6 +1512,39 @@ So with your quite young arms do you me hold,
 
 And I will still be young when all the world’s grown old.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La sua giovinezza.
+
+Gli anni della giovinezza mi sono stati donati da te, ma non intendo crederci.
+
+Quel giovane, con la sua agilità, ti porterà via.
+
+La gioventù è tutta la nostra verità; non può essere ingannata così facilmente.
+
+Possiede le nostre grazie, ma non anche noi stessi.
+
+# Confronto con il tempo che ancora dovrà trascorrere…
+
+# Perfezionando ciò che siamo attraverso il destino umano
+
+# Ci arricchisce con preziosi esperimenti
+
+Fornisce armi all’età legata alle alleanze in questa dura guerra del tempo.
+
+Titolo:  
+“Guarda… questo giovane dentro di noi è in realtà un vecchio che si nasconde.”
+
+Un ragazzo che lo rendesse più saggio dei suoi anni.
+
+“Così come la nostra giovinezza è il risultato delle nostre esperienze passate…”
+
+Ricco di tempo, paga infine il suo ultimo debito.
+
+Con le tue braccia ancora così giovani, mi tieni stretto…
+
+E io sarò ancora giovane quando tutto il mondo sarà invecchiato.
 
 
 
@@ -1403,6 +1582,38 @@ So Love can conquer Honour; when that’s past,
 Dead Honour risen outdoes Love at last.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Amore e [[Honour|onore]].
+
+Amore che corteggiava [[Honour|Onore]], l’amore di [[Honour|Onore]] alla fine vinse.
+
+E si divertì per tutta la giornata estiva.
+
+Non capisco come inizino i destini…
+
+L’amore corteggiò Honor, consumando la sua vita in quel corteggiamento.
+
+# Poi vagabondò per ben cinque anni di inquietudine.
+
+Fino a quando, una [[Night|notte]], quest’Onore che era morto.
+
+# Arrivò mentre si svegliava, nella giovinezza trasformata in qualcosa di splendido
+
+E sorrideva come quei santi che Dio ha benedetto.
+
+Ma quando la vide nella dolce luce della [[Night|notte]].
+
+Serena, avvolta da una luce più splendente di quella terrena…
+
+Il ragazzo che disprezzava le cose divine
+
+Piccolo Amore, divenne pentito e iniziò a venerare l’Onore.
+
+“Così l’amore può vincere l’onore; ma quando ciò accade…”
+
+La “Onore Morto” alla fine prevale sulla “Love”.
+
 
 
 <span class="atom-split" data-atom="story_07_her_music" data-title="Verses and Sonnets — HER MUSIC." data-chapter="HER MUSIC" data-kind="story" data-tags="motif/night"></span>
@@ -1438,6 +1649,38 @@ Should stop my fancy, hold my heart in prize,
 
 And make me dreamer more than dreams are wise.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La sua musica.
+
+# Non suonarmi più musica
+
+# Perché tra noi mortali possa esistere qualche incantesimo che non appartiene al regno della morte
+
+# Destinato a suscitare strane speranze e a lasciare una storia da raccontare
+
+Di due amati portati dalla musica sacra…
+
+Attraverso sussurri nella [[Night|notte]] e attraverso i mari incerti del dubbio.
+
+# Alla deriva lungo una riva senza alba
+
+L’ultimo tragico episodio delle armonie umane.
+
+Guarda! Non suonarmi più musica.
+
+# Sei sia la mia musica che la mia amante
+
+Allora, perché permettere alla musica di avere il ruolo principale in questo contesto?
+
+# Make silent melody, Melodie. I am loath
+
+# Trovare quella musica, così potente nelle orecchie della mia anima…
+
+# Tenere a freno le fantasie, custodire con cura il proprio cuore
+
+E rendimi ancora più un sognatore, più di quanto i sogni stessi possano essere saggi.
 
 
 
@@ -1475,6 +1718,38 @@ Oh! tell me more than yet was hoped of men,
 Swear that’s true now, and I’ll believe it then.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La sua [[Faith|>fede]].
+
+# Perché i miei passi incerti non oseranno mai proseguire
+
+# Il declino degli infiniti gradini dell’Inferno
+
+Dammi in tempo la parola che rappresenta il trionfo lì.
+
+Anch’io devo entrare in quell’orribile vuoto…
+
+Lì dove tutto il nostro riso umano si ferma. E ascoltate!
+
+Le minuscole voci silenziose dell’oscurità
+
+Mi hai chiamato, mi hai chiamato fino a quando non ho dovuto seguirti.
+
+Dammi l’ordine, e ci proverò al meglio.
+
+# Un battito di ciglia…
+
+Il quale, in quella pubblicazione, non è affatto velato o nascosto.
+
+#Un breve riposo che aiuta per un momento
+
+Tra l’alba tenue e la luce intensa del giorno.
+
+“Oh! Ditemi qualcosa di più di quanto gli uomini abbiano mai sperato…”
+
+Giura che è vero, e allora ci crederò.
+
 
 
 <span class="atom-split" data-atom="story_09_her_gift_in_a_garden" data-title="Verses and Sonnets — HER GIFT IN A GARDEN." data-chapter="HER GIFT IN A GARDEN" data-kind="story" data-tags="concept/mortality"></span>
@@ -1510,6 +1785,38 @@ And knowing living gift was life for me,
 
 In narrow room of rhyme, I fixed it certainly.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il suo dono in un giardino.
+
+# Non per i sfortunati… le nostre radici potrebbero portare frutto.
+
+Ora completamente fiorito, ora bruciato e marcito giace…
+
+#Ti prego, affinché non vengano fatti paragoni…
+
+La mia triste [[Mortality|mortalità]] con il cadere dei fiori.
+
+Ma aspetta un attimo… la tua casta e rara comunione…
+
+E donare vita a questa nostra condizione mortale.
+
+Perché sei nato al di là del potere della morte…
+
+Moriamo come tutte le cose finite muoiono ovunque.
+
+#"Compagnia per te, solitudine per me"...
+
+Tu sei sostanza, io sono vuoto; tu vivi, io decadgo.
+
+# Il tramonto di un pensiero
+
+Sollevi, lo so, verso un giorno senza fine.
+
+# E sapendo che il dono della vita era proprio la vita stessa per me…
+
+Nella stretta dimensione della rima, l’ho sistemato senza dubbio.
 
 
 
@@ -1547,6 +1854,39 @@ Made my square ship within a league of shore,
 Alas! to be entombed in seas and seen no more.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il controllo.
+
+Titolo:  
+Potrà mai esistere un uomo, per il cui amore prezioso un altro…
+
+Ha gettato via tutta la sua ricchezza e il suo nome in un solo gesto…
+
+# Diventerà forse uno che disprezza qualcuno più di un semplice fratello?
+
+Per prendersi gioco delle sue necessità quando i suoi desideri sono già stati soddisfatti?
+
+#O forse un ragazzo di umili origini, il cui destino fu deciso dalla madre…
+
+"In grandi uomini, le loro preoccupazioni riguardano sempre anche il proprio piccolo ruolo o posto nel mondo."
+
+# Quando arriveranno le sue ricompense…
+
+Per notare il suo atteggiamento deciso e la sua grazia consapevole?
+
+“Poi deridetemi pure, come fate con la mia limitata visione del mondo…”
+
+Per te è stata accesa questa mia luce.
+
+# Tradita la mia nuova speranza avventurosa
+
+# Sprecato il mio ricco patrimonio di parole, versato il mio vino pregiato…
+
+# La mia nave quadrata, lontana una lega dalla riva…
+
+Ahimè, essere sepolto nei mari e non essere più visto mai.
+
 
 
 <span class="atom-split" data-atom="story_11_the_poor_of_london" data-title="Verses and Sonnets — THE POOR OF LONDON." data-chapter="THE POOR OF LONDON" data-kind="story" data-tags="motif/prayer,concept/poverty,concept/social_injustice,concept/justice,form/sonnet,setting/london,character/god,character/jesus"></span>
@@ -1582,6 +1922,38 @@ That thy rude hammer battering this rude wrong
 
 Ring down the abyss of twice ten thousand years.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I poveri di Londra.
+
+# Dio Onnipotente, la cui Giustizia è come il sole
+
+“Scintillerà lungo i pavimenti del cielo…”
+
+Elevare ciò che è basso, perfezionare ciò che è incompleto.
+
+Rompere ciò che è orgoglioso e rendere le cose strane uguali.
+
+I poveri di Gesù Cristo per le strade
+
+Nella tua pioggia bagnata, nei tuoi nevai senza scarpe…
+
+Non hanno né focolare, né tetto, né carne da mangiare ogni giorno.
+
+Nemmeno il pane degli uomini. Dio Onnipotente.
+
+I poveri di Gesù Cristo, che nessuno ascolta
+
+Ho chiesto la tua vendetta per troppo tempo.
+
+cancella via non le lacrime, ma il sangue: i nostri occhi versano sangue…
+
+#"Colpisci con forza le nostre maledette sofisticazioni"...
+
+#Che il tuo ruvido martello colpisca questa ingiustizia crudele
+
+Chiudete l’abisso di ventimila anni, due volte ventimila anni.
 
 
 
@@ -1664,6 +2036,83 @@ Give us to sup by the warm firelight.
 And the small child Jesus smile on you.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Grotteschi.  
+Natale.
+
+I.
+
+In una notte invernale, molto tempo fa.
+
+“I campane suonano forte e le campane suonano basso”
+
+# Quando il vento soffiava forte e la neve cadeva copiosa
+
+(Carillon, Carilla).
+
+# San Giuseppe e Nostra Signora
+
+#"In sella a un asino, stanco morto arrivai"
+
+Da Nazaret a Betlemme.
+
+E il piccolo bambino Gesù sorride su di te.
+
+II.
+
+#Alla locanda di Betlemme si fermarono
+
+# I campanelli suonano meno… e poi di nuovo più forte
+
+Il proprietario li congedò ordinando loro di andarsene dalla sua porta.
+
+(Carillon, Carilla).
+
+“I poveri”, dice lui, “devono dormire dove possono”.
+
+# Per il Duca di Giudea arriva da questa parte
+
+“Con tutto il suo treno, in una giornata di Natale…”
+
+E il piccolo bambino Gesù sorride su di te.
+
+III.
+
+Poveri gente, che possano ascoltare la mia canzone natalizia
+
+“I campane suonano una per una, e i loro suoni sono chiari e distinti”.
+
+Vedete! L’Unico Figlio di Dio ricevette l’acclamazione più calorosa!
+
+(Carillon, Carilla).
+
+Uomini induriti in una mattina di Natale;
+
+Quella bestia stupida, e un bambino abbandonato.
+
+Faceva molto, molto freddo quando il nostro Signore nacque.
+
+E il piccolo bambino Gesù sorride su di te.
+
+IV.
+
+Ora questi erano ebrei, proprio come devono essere gli ebrei.
+
+“I campane suonano selvaggiamente… e libere!”
+
+Ma siamo un gruppo di uomini cristiani.
+
+(Carillon, Carilla).
+
+# Senza nulla andremo a letto, avvolti nel buio…
+
+Cantando “Noël” in una notte d’inverno.
+
+Portateci a cena accanto al caldo bagliore del fuoco.
+
+E il piccolo bambino Gesù sorride su di te.
+
 
 
 <span class="atom-split" data-atom="story_13_the_early_morning" data-title="Verses and Sonnets — THE EARLY MORNING." data-chapter="THE EARLY MORNING" data-kind="story" data-tags="motif/dawn,motif/moon,motif/night"></span>
@@ -1679,6 +2128,18 @@ The [[Moon]] on my left, and the [[Dawn]] on my right;
 
 My Brother, good morning; my Sister, good [[Night|night]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La mattina presto.
+
+Da un lato la [[Moon|)Luna]], dall'altro l'alba.
+
+La [[Moon|)Luna]] è mia sorella, l’[[Dawn|>Aurora]] è mio fratello.
+
+La [[Moon|>Luna]] a sinistra, e l’[[Dawn|>Aurora]] a destra.
+
+Mio fratello, buongiorno; mia sorella, buona [[Night|notte]].
 
 
 
@@ -1719,6 +2180,42 @@ He broke his heart in Clermont Town,
 
 At Pontgibaud they mended it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Auvergnat.
+
+C'era un uomo che sembrava mezzo clown
+
+(#Mio padre ne parla spesso)
+
+# Vide la chiesa nella città di Clermont
+
+E rise al suono delle campane che provenivano da esso.
+
+Rise in risate al suono delle campane che suonano
+
+# In Clermont Church e dintorni
+
+Sentì la figlia del custode cantare.
+
+E la amò proprio per quel suono.
+
+La figlia del sagrestano gli disse di no
+
+# Lei aveva il diritto di scegliere.
+
+#Partì dalla città all’alba
+
+(Nessuna voce c’era dentro di esso).
+
+La strada saliva, la strada scendeva.
+
+E lì la questione finì.
+
+# Il suo cuore si spezzò a Clermont Town
+
+A Pontgibaud lo ripararono.
 
 
 
@@ -1768,6 +2265,50 @@ I’ll just be sitting at home, my own,
 The world’s a weary way.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La fine del mondo.
+
+Le nuvole sono alte e il cielo è vasto
+
+(È un lungo e faticoso cammino verso la fine del mondo.)
+
+#Il suono del vento sulla collina
+
+(Dietro le colline, lontano.)
+
+Oltre le colline e oltre il mare
+
+(È un lungo e faticoso cammino verso la fine del mondo.)
+
+La donna sola mi chiama…
+
+(Dietro le colline, lontano.)
+
+Oltre il bordo della nascente [[Moon|luna]]
+
+(È un lungo e faticoso cammino verso la fine del mondo.)
+
+# Troppo tardi per tornare… troppo presto per iniziare
+
+(Dietro le colline, lontano.)
+
+# Chi ama vagabondare è saggio… e ride.
+
+# Un cammino faticoso verso la fine del mondo
+
+# Lui è saggio… e piange quando torna a casa
+
+(Dietro le colline, lontano.)
+
+Donna sola, e completamente sola
+
+(È un lungo e faticoso cammino verso la fine del mondo.)
+
+# Sarò solo seduto a casa mia…
+
+Il mondo è un cammino lungo e faticoso.
+
 
 
 <span class="atom-split" data-atom="story_16_fille_la_haine" data-title="Verses and Sonnets — FILLE-LA-HAINE." data-chapter="FILLE LA HAINE" data-kind="story" data-tags="archetype/death_personified,motif/death,motif/bells,motif/river,concept/death,form/ballad,setting/france"></span>
@@ -1811,6 +2352,46 @@ Death went up the hill in a cart;
 
 Fille-la-Haine was my sweetheart.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+FILLE-LA-HAINE.
+
+#"La Morte entrò nella torre per suonare la campana"
+
+E tirò la corda, facendo suonare una campana a morto.
+
+Fille-la-Haine, quanto bene canti!
+
+Perché stanno suonando la Campana del Commiato?
+
+# La morte salì sulla guglia per suonare…
+
+Fille-la-Haine, quanto bene canti!
+
+La Morte scese lungo il fiume su una barca.
+
+#Giù per il fiume Sena se ne andò
+
+# Mal di gola della Figlia dell’Odio
+
+Fille-la-Haine non significava nulla per me.
+
+La Morte scese lungo il fiume su una barca.
+
+Fille-la-Haine aveva mal di gola.
+
+#"La Morte salì la collina in carrozza"
+
+Ho dimenticato le sue labbra e il suo riso.
+
+# Amore e odio nella mia vita
+
+(E tutto il villaggio lo seguiva.)
+
+La Morte salì la collina in una carriola;
+
+Fille-la-Haine era la mia amata.
 
 
 
@@ -1872,6 +2453,62 @@ For why?
 The Moon is dead. I saw her die.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il funerale della [[Moon|Luna]].
+
+La [[Moon|>Luna]] è morta. L’ho vista morire.
+
+#Avvolta in una nuvola errante…
+
+# Lungo l’incerto confine occidentale…
+
+Un sogno da vedere.
+
+E con voce molto bassa mi parlò:
+
+"#Vado dove nessuno può comprendere"
+
+# Scompaio nella terra senza nome
+
+“E deve rimanere lì per sempre.”
+
+E quindi io…
+
+#E quindi ad alta voce, molto ad alta voce… Io
+
+E in alto
+
+E con grande compassione inizia a piangere:
+
+“La [[Moon|)Luna]] è morta. L’ho vista morire.”
+
+E non si risveglierà mai più?
+
+La Luna Sacra? Oh, mai più!
+
+Forse lungo quella riva inumana…
+
+# Dove gli spettri pallidi sono
+
+# Oltre la palude eterna di Lethe
+
+# Lei e quella stella infernale…
+
+Per noi che l’amavamo e ora non possiamo più amarla…
+
+La Luna non sorgerà mai più.
+
+Oh! mai più nel cielo notturno
+
+# Occhio troppo alto per non curiosare
+
+Per vedere il grande mondo scorrere via davanti ai propri occhi.
+
+Perché?
+
+La Luna è morta. L’ho vista morire.
+
 
 
 <span class="atom-split" data-atom="story_18_the_justice_of_the_peace" data-title="Verses and Sonnets — THE JUSTICE OF THE PEACE." data-chapter="THE JUSTICE OF THE PEACE" data-kind="story" data-tags="concept/class_conflict,concept/social_injustice,concept/economics,concept/power_and_corruption,form/satire"></span>
@@ -1916,6 +2553,46 @@ Moreover, I have got the upper hand,
 And mean to keep it. Do you understand?
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Giudice di Pace.
+
+# Distingui attentamente tra questi due
+
+Questa cosa è tua, quell’altra cosa è mia.
+
+# Hai una camicia, un cappello senza bordo, una scarpa…
+
+# E mezzo cappotto… Io sono il Signore benevolo
+
+Cinquecento acri di terra fertile
+
+Ho il diritto di farlo. Capisci?
+
+# Ho il diritto perché lo possiedo…
+
+Perché ne ho il diritto.
+
+Ora sii calmo e obbediente, rispetta le leggi.
+
+# Ricorda sempre la tua condizione inferiore, non lottare
+
+#Sotto la spinta, perché… sai, pungge
+
+Ogni volta che i “demos” sporchi attaccano.
+
+Non invidio né il tuo cappello né la tua scarpa.
+
+Perché dovresti invidiarmi la mia piccola proprietà?
+
+“È terribilmente illogico da parte tua…”
+
+Combattere con la forza economica e contro il destino.
+
+Inoltre, ho il vantaggio.
+
+E intendo tenerla. Capisci?
+
 
 
 <span class="atom-split" data-atom="story_19_epigrams" data-title="Verses and Sonnets — EPIGRAMS." data-chapter="EPIGRAMS" data-kind="story" data-tags="concept/wit,concept/hypocrisy,concept/satire_of_society,form/epigram"></span>
@@ -1937,6 +2614,23 @@ And yet, the model is not far to seek —
 Perkins was visiting at home last week.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+EPIGRAFI.  
+SU PERKINS – UN ATTORE.
+
+#Le duchesse di Perkins hanno lasciato un segno indelebile
+
+Un miglioramento nella sua scena con Coster negli ultimi tempi.
+
+# Il giuramento, il barcollio dell’ubriaco, il ruggito…
+
+Come nessuno aveva mai fatto prima, nemmeno Perkins.
+
+Eppure, il modello non è difficile da trovare…
+
+La scorsa settimana Perkins era in visita a casa nostra.
+
 
 
 <span class="atom-split" data-atom="story_20_on_slop_a_poet" data-title="Verses and Sonnets — ON SLOP — A POET." data-chapter="ON SLOP A POET" data-kind="story" data-tags="concept/wit,concept/literary_criticism,concept/satire_of_society,form/epigram"></span>
@@ -1953,6 +2647,18 @@ Perhaps where he is less successful is
 In all the other verses. These are his.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+SUL PARETE – UN POETA.
+
+# Dove il signor Sporcizia brilla particolarmente
+
+È racchiuso nelle sue sei sonore righe.
+
+Forse dove ha meno successo è…
+
+In tutti gli altri versetti. Questi sono suoi.
+
 
 
 <span class="atom-split" data-atom="story_21_on_torture_a_singer" data-title="Verses and Sonnets — ON TORTURE — A SINGER." data-chapter="ON TORTURE A SINGER" data-kind="story" data-tags="motif/music_and_song,concept/wit,concept/satire_of_society,form/epigram"></span>
@@ -1968,6 +2674,18 @@ The public taste is quite a different thing,
 
 Torture is positively paid to sing.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sotto tortura — un cantante.
+
+#La tortura ha un orecchio così acuto… lo capisco
+
+Paga somme ingenti per impedire l’attività di un gruppo musicale tedesco.
+
+Il gusto del pubblico è davvero qualcosa di diverso…
+
+Per cantare si riceve addirittura un compenso.
 
 
 
@@ -1989,6 +2707,22 @@ A Pound should therefore buy your praise; well, then,
 Why should the Author have to pay you ten?
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In modo sottile, – A un recensore.
+
+# Sottile – la tua acuta analisi e il tuo modo gentile…
+
+Come tutto ciò che ti riguarda, anche questo ha il suo prezzo.
+
+# Quando esprimi l’odio privato del tuo padrone
+
+Un “Pound” premia la violenza che si esprime nelle tue parole.
+
+“Una sterlina dovrebbe quindi meritarsi la vostra lode… Beh, allora…”
+
+Perché l’Autore dovrebbe pagarti dieci?
+
 
 
 <span class="atom-split" data-atom="story_23_on_paunch_a_parasite" data-title="Verses and Sonnets — ON PAUNCH — A PARASITE." data-chapter="ON PAUNCH A PARASITE" data-kind="story" data-tags="concept/wit,concept/vanity,form/epigram"></span>
@@ -2005,6 +2739,18 @@ And then he talks about himself, and then
 We turn the conversation on to men.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+SU UN PANCIO ROSSO – UN PARASSITA.
+
+#Parla troppo della sua signora…
+
+E poi, riguardo alla sua curiosa protettrice…
+
+E poi parla di sé stesso… e poi…
+
+Passiamo ora a parlare degli uomini.
+
 
 
 <span class="atom-split" data-atom="story_24_on_pugley_a_don" data-title="Verses and Sonnets — ON PUGLEY — A DON." data-chapter="ON PUGLEY A DON" data-kind="story" data-tags="motif/soul,concept/wit,form/epigram,setting/oxford"></span>
@@ -2016,6 +2762,14 @@ Pugley denies the soul? Why, so do I
 
 The soul, of Pugley, heartily deny.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Su Pugley — A Don.
+
+# Pugley nega l’esistenza dell’anima? Anche io lo faccio
+
+L'anima di Pugley la nega con forza.
 
 
 
@@ -2054,6 +2808,38 @@ It freezes. Every friendly stream is fast.
 It freezes; and the graven twigs are still.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sonetti dei dodici mesi. Gennaio.
+
+# Si congela… In tutto un cielo silenzioso
+
+# Gli uccelli tornano a casa… È iniziata l’oscurità terribile.
+
+# L’oscurità congelata che non spera nel sole
+
+L’oscurità definitiva in cui la nostra razza morirà.
+
+"Morte, con il dito malvagio sulle labbra..."
+
+#"Spia che osserva attraverso le finestre umane"
+
+Imparare il paese dove dovrà esercitare il suo potere
+
+Quando raggiungerà la carica di generale a vita.
+
+L'avversario invincibile: il freddo.
+
+#Che cosa infine renderà silenziosa questa terra piena di suoni…
+
+# Il padrone del nostro momento, e ci ha legati a lui
+
+Il vento stesso, invisibile. Non c’è alcun suono.
+
+Si blocca. Ogni trasmissione amichevole va velocemente.
+
+Si congela; i rami intagliati rimangono immobili.
+
 
 
 <span class="atom-split" data-atom="story_26_february" data-title="Verses and Sonnets — FEBRUARY." data-chapter="FEBRUARY" data-kind="story" data-tags="motif/dawn,motif/moon"></span>
@@ -2089,6 +2875,38 @@ With living murmurs more than dreams are deep.
 
 Silence is dead, my [[Dawn]]; the morning’s here.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+FEBBRAIO.
+
+La luna invernale ha un fascino così tranquillo.
+
+“Tutte le notti invernali sono silenziose e tranquille…”
+
+#Il crepuscolo si avvicina lentamente…
+
+E i sogni vagano lontano dalla sua stella addormentata.
+
+#Perché la sua stella tace, non svegliarti…
+
+Ma tutta la terra tremerà…
+
+E sopra di te, un accelerare e una nascita…
+
+Per il tuo bene, il sole è vicino alle cime delle colline.
+
+Il più recente nato tra tutti i giorni si muoverà furtivamente…
+
+# Baciare le tenere palpebre dell’anno
+
+E ti risveglierai, ringiovanito dal sonno perfetto.
+
+E sorridi al nuovo mondo, e rendilo tuo caro.
+
+Con mormori vivi, più profondi dei sogni stessi.
+
+Il silenzio è morto, mia [[Dawn|_Alba]]; l’alba è arrivata.
 
 
 
@@ -2126,6 +2944,39 @@ Then wheels he for him, glorying in his goal,
 And gives him challenge, bellowing battle-songs.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+MARZO.
+
+Il vento di nord-est soffia da Norroway.
+
+Ruggendo, emerse sopra le creste delle onde bianche!
+
+La schiuma del mare tumultuoso era sulle sue labbra.
+
+E tutti i suoi capelli erano bagnati dalla schiuma spruzzata dall’acqua.
+
+#Sopra la luce intensa dei giorni settentrionali
+
+“Scatenò l’orribile oscurità delle sue nuvole di neve…”
+
+Oltre le nostre rive, colpì improvvisamente le navi…
+
+E li lasciò continuare a lavorare lungo il suo cammino verso l’interno.
+
+Il percorso certo che corrisponde alle sue forze
+
+Lo spinge avanti con una determinazione e un controllo sempre maggiori.
+
+Titolo:  
+Fino a quando non vede oltre le pianure della Vandea…
+
+Ocean, il più anziano dei suoi nemici.
+
+# E poi si avvia verso il suo obiettivo, orgoglioso di ciò che ha raggiunto.
+
+E gli lancia la sfida, cantando grida di battaglia.
+
 
 
 <span class="atom-split" data-atom="story_28_april" data-title="Verses and Sonnets — APRIL." data-chapter="APRIL" data-kind="story" data-tags="motif/spring,motif/flowers,concept/love_romantic,concept/nature,form/sonnet"></span>
@@ -2161,6 +3012,38 @@ So great a look that even April’s grace
 
 Makes only marvel at her only face.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+APRILE.
+
+La caldazza insolita del giovane sole…
+
+# Guarda! cominciano ad apparire piccole teste verdi…
+
+E i fiori nascosti hanno osato mostrare la loro testa…
+
+Là dove un tempo tali polveri aridi si agitavano selvaggiamente.
+
+Non è ancora quel mese, ma tutto il mondo sembra in festa!
+
+“Allora vieni con me, ti porterò via, perché lo so.”
+
+# Dove fioriscono i primi corni di siepe e i gigli del vento bianchi:
+
+Noi due soltanto. Questo va da sé.
+
+Il mese è pieno di nuvole pericolose e si muove tra timori.
+
+Questo aprile imbarazza il mese stesso con i suoi sorrisi…
+
+Nelle nuove occhi di chi non conosce più il cielo delle lacrime…
+
+Ma ancora, un desiderio sereno… e, di tanto in tanto,
+
+Un aspetto così incantevole da far sembrare la grazia di aprile ancora più splendida…
+
+Si può solo meravigliarsi del suo unico volto.
 
 
 
@@ -2198,6 +3081,39 @@ Of those small birds that pipe it all day long
 Not far from Marly by the memoried Seine.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Maggio.
+
+# L’occhio che ride tra tutti loro
+
+Il mese del mio signora. Una stagione piena di giovinezza.
+
+#Regna sull’armonia della luce e la porta con sé…
+
+Il primo verde dell’anno sui grandi faggi.
+
+Quante volte, per quanto tempo, i rampicanti si avvolgono e cadono…
+
+Nel profondo bosco, durante le escursioni a mezzogiorno…
+
+#Il mese in cui lei canta all’unisono con l’eco…
+
+Ho sentito dire che quel mese è pieno di madrigali gioiosi.
+
+## Quante volte, abbracciati nel respiro vigoroso…
+
+Titolo:  
+Tra muschi e giovani fiori, ho riposato…
+
+# E osservava le nuvole, ascoltando quella melodia protetta…
+
+# Qualcosa che sarebbe più prezioso della vita stessa ascoltare di nuovo…
+
+Di quei piccoli uccelli che cantano tutto il giorno
+
+Non lontano da Marly, lungo il ricordato fiume Sena.
+
 
 
 <span class="atom-split" data-atom="story_30_june" data-title="Verses and Sonnets — JUNE." data-chapter="JUNE" data-kind="story" data-tags="motif/dawn"></span>
@@ -2233,6 +3149,38 @@ Lux tua via mea. Your light’s my way:
 
 Oh, do rise up and make it perfect day.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+GIUGNO.
+
+#Alzati e inizia a decorare la giornata…
+
+L’oscurità estiva non è altro che l’[[Dawn|'alba]] del giorno.
+
+#L’ultima luce del tramonto si trasforma nella mattina
+
+La mattina ti chiama lontano dalle tenebre.
+
+La nebbia sacra, la bianca nebbia del mattino…
+
+Si snodava verso l’alto lungo il mio solitario cammino.
+
+Il mio cammino attendeva il tuo stesso abbellimento.
+
+Questo dovrebbe completare la giornata, così ricca di decorazioni.
+
+#Alzati e inizia a decorare la giornata…
+
+“I piccoli nuvoli orientali sono di colore grigio-maculato.”
+
+Oggi ci sarà vento tra le foglie…
+
+È proprio la promessa della mattina stessa.
+
+“Lux tua via mea. La tua luce è la mia strada.”
+
+Oh, alziamoci e rendiamo questo giorno perfetto.
 
 
 
@@ -2270,6 +3218,38 @@ And Godfrey led the foremost of the Franks,
 And young Lord Raymond stormed Jerusalem.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+LUGLIO.
+
+I re tornano in sella dalla Crociata
+
+I Re Magli e tutti i loro cavalieri;
+
+#Una processione chiassosa riempie la strada;
+
+I Re hanno sconfitto i Saraceni.
+
+Cantando una grande canzone delle guerre orientali
+
+“In crimson ships across the sea they came”
+
+Con vele cremisi e remi neri incastonati di diamanti,
+
+Quello fece sì che il Mediterraneo brillasse di fiamme.
+
+# E leggendo come, in quel lungo mese, le file…
+
+Formato ai confini del deserto, completamente corazzato…
+
+# Vorrei con tutto il cuore di essere stato con loro
+
+# Quando il primo normanno saltò sul muro
+
+#Godfrey guidò le truppe franche in prima linea
+
+E il giovane Lord Raymond invase Gerusalemme.
+
 
 
 <span class="atom-split" data-atom="story_32_august" data-title="Verses and Sonnets — AUGUST." data-chapter="AUGUST" data-kind="story" data-tags="motif/seasons"></span>
@@ -2305,6 +3285,38 @@ Of bivouac wine-cups on the Lombard plain,
 
 What time he swept to grasp the world at Rome.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+AGOSTO.
+
+Il mese del soldato, la difesa dell’anno.
+
+#Che mai più ascolterà narrate tali vittorie;
+
+#In piedi, con la sua lancia alta quanto il cielo…
+
+E con un elmo ricoperto d’oro etrusco pregiato.
+
+Il nostro raccolto è la ricompensa che lui ha conquistato.
+
+Il bottino viene conquistato con la forza, grazie al suo temperamento irascibile.
+
+Oh! Paladino del Sole Imperiale!
+
+Oh! La corona di tutte le [[Seasons|stagioni]], finalmente è arrivata!
+
+# Questo è vero spirito maschile; questo è Carlo Magno
+
+# Quando con il suo vasto esercito tornò in patria per la vittoria
+
+Dalla vendetta presa a Roncesvales.
+
+O quando la sua barba folta si imbiancava di schiuma rossa…
+
+## Coppe di vino da bivacco nella pianura lombarda
+
+A che ora si mosse per conquistare il mondo a Roma.
 
 
 
@@ -2342,6 +3354,38 @@ Saw the Republic splendid in the sky,
 And round her terrible head the morning [[Stars|stars]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+SETTEMBRE.
+
+# Io, da una finestra dove il Mosa è ampio…
+
+Guardò verso est nella notte di settembre.
+
+Gli uomini che morirono nella battaglia disperata
+
+# In battaglia
+
+Un esercito nebbioso, vasto e ordinato
+
+“Per miglia e miglia, sotto il comando di un generale pallido…”
+
+Li ho visti avanzare in gruppo verso l’attacco.
+
+Ma nessun uomo vivente udì quel suono di tromba.
+
+E ancora morendo, indicando le loro cicatrici…
+
+#Si rifugiarono tra le nuvole che si assottigliavano, lì dove il cielo era grigio e alto
+
+[[Dawn|Alba]] si stendeva sul cielo sotto strisce di nebbia.
+
+Ma osservando da quella finestra orientale…
+
+#La Repubblica splendente nel cielo
+
+E intorno alla sua terribile testa brillavano le stelle del mattino.
+
 
 
 <span class="atom-split" data-atom="story_34_october" data-title="Verses and Sonnets — OCTOBER." data-chapter="OCTOBER" data-kind="story" data-tags="motif/autumn,motif/seasons,motif/wine_and_drink,motif/wind,concept/transience,form/sonnet,setting/france"></span>
@@ -2377,6 +3421,38 @@ Swell your tough lungs, north wind, no whit care we,
 
 Singing old songs and drinking wine together.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+OTTOBRE.
+
+#"Guarda, quei boschi scoscesi sul versante della montagna..."
+
+#Brucia, brucia contro il tramonto… Ora arriva il freddo
+
+invade il nostro mezzogiorno: l’anno ormai invecchiato…
+
+Le mattine sono oscure, e le sere arrivano in fretta.
+
+Le viti laggiù hanno perso il loro fascino viola…
+
+#E a Forrèze, i resti bianchi rotolarono all’indietro…
+
+# Si attacca alle colline tempestose, ripiegato su se stesso…
+
+E i soffi lamentosi rendono tutto il luogo desolato.
+
+# Il mio ospite per questo mese, nella tua accogliente locanda…
+
+# Membri stanchi li allungherò, la bestia fumante la legherò…
+
+#"Su grandi tronchi, con mano gascona e liberamente..."
+
+#Il liquido gascogno che ride del tempo…
+
+#Rafforza i tuoi potenti polmoni, vento del nord… A noi non importa nulla.
+
+Cantare vecchie canzoni e bere vino insieme.
 
 
 
@@ -2414,6 +3490,38 @@ But in my garden all the trees have shed
 Their legacies of the light, and all the flowers are dead.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+NOVEMBRE.
+
+# Novembre: un imperatore dalle molte storie
+
+Conquistata nell’età, ma al fianco del destino…
+
+Chi, dal suo rifugio nascosto, ha colto quel ruggito?
+
+Di squadroni all’inseguimento… e ora, ormai troppo tardi…
+
+Scatena la tempesta e chiama i venti in battaglia.
+
+“E armi la guarnigione del suo ultimo ereditario…”
+
+#Scuote il cielo fino alle sue estreme rive
+
+Con la battaglia contro un destino irreversibile.
+
+#Scacciato e gettato lontano dalle sue fortezze invincibili…
+
+#Volando tra nuvole veloci; e incitandolo ad andare avanti
+
+Senza rimpianti, senza addii
+
+E infine le benedizioni finali, ed è sparito.
+
+Ma nel mio giardino tutti gli alberi hanno perso le foglie
+
+I loro lasciti di luce, e tutti i fiori sono morti.
+
 
 
 <span class="atom-split" data-atom="story_36_december" data-title="Verses and Sonnets — DECEMBER." data-chapter="DECEMBER" data-kind="story" data-tags="motif/moon,motif/night"></span>
@@ -2448,3 +3556,36 @@ And with mad, trembling hand still interweaves
 The dank sear flower-stalks tangled in his hair,
 
 While round about him whirl the rotten leaves.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+DICEMBRE.
+
+# Il tempo grigio lo avvolge lentamente…
+
+#Cercando un modo per alleviare la propria stanchezza
+
+E in quella terribile compagnia… Distress
+
+E la triste [[Night|Notte]] passa, con passi silenziosi.
+
+# Sul mio povero focolare, le braci ardono appena.
+
+#Nessuno si aggira solitario nei boschi…
+
+# Dove, sempre più sfumata tra i pini…
+
+Il misterioso [[Moon|luna]] con le sue corna si abbassa lentamente nel cielo.
+
+Per ora è dicembre, un mese dedicato alle cure per anziani.
+
+#"Entrando nell'anno, piange debolmente..."
+
+Borbottando i suoi desideri perduti e la sua disperazione…
+
+# E con mano tremante e folle, ancora intrecciando…
+
+“Il gambo appassito dei fiori si intrecciava nei suoi capelli…”
+
+Mentre intorno a lui vorticano le foglie marce.

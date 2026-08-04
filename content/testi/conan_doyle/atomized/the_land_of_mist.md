@@ -2294,6 +2294,70 @@ Challenger shook his head sadly.
 “Four buckets of water and a bagful of salts,” said Challenger as he smilingly detached his daughter’s grip. “That’s your daddy, my lass, and you may as well reconcile your mind to it. Well, it’s twenty to eight. — Come back, if you can, Malone, and let me hear your adventures among the insane.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+1. In Which Our Special Commissioners Make A Start  
+Il grande [[Professor Challenger|Professore Challenger]] è stato utilizzato nella narrativa in modo piuttosto improprio e imperfetto. Un autore audace lo ha messo in situazioni impossibili e romantiche per vedere come avrebbe reagito; le sue reazioni hanno portato a un processo per diffamazione, a tentativi falliti di far vietare tali pubblicazioni, a disordini in Sloane Street, a due aggressioni personali e alla perdita della sua posizione di docente di fisiologia presso la [[London|Scuola di Igiene Subtropicale di Londra]]. In ogni caso, le cose sono andate più pacificamente del previsto.  
+Ma lui stava perdendo parte della sua vitalità: le sue spalle sembravano un po’ incurvate, la sua barba assira a forma di spada presentava fili grigi tra i neri, il suo sguardo era meno aggressivo, il suo sorriso meno compiaciuto di sé, e la sua voce, sebbene ancora potente, non era più pronta a soffocare qualsiasi opposizione. Tuttavia rimaneva pericoloso, e tutti intorno a lui lo sapevano bene. Il “volcano” interno non era estinto, e continui segnali di minaccia facevano presagire nuove esplosioni. La vita aveva ancora molto da insegnargli, ma ora era un po’ meno intollerante nell’apprendere.  
+La data precisa in cui avvenne questo cambiamento in lui fu la morte di sua moglie. Quella donna dolce e gentile si era insediata nel cuore di quell’uomo forte; lui possedeva tutta la tenerezza e il cavallerismo che un uomo potente può avere verso una persona più debole. Lei aveva conquistato tutto ciò che voleva, come solo una donna dolce e astuta sa fare. Quando lei morì improvvisamente a causa di una polmonite virulenta scatenata dall’influenza, lui vacillò, ma poi si rialzò, con un sorriso malinconico, pronto a continuare la sua battaglia contro il destino. Tuttavia non era più lo stesso. E se non fosse stato per l’aiuto e la compagnia di sua figlia Enid, forse non sarebbe mai riuscito a superare quel colpo. Fu lei ad attirarlo verso argomenti che stimolavano la sua natura combattiva e infastidivano la sua mente, facendogli rivivere il presente anziché il passato. Solo quando lo vedeva coinvolto in discussioni accese, aggressivo con i giornalisti e offensivo verso chi gli stava intorno, lei era certa che stesse davvero facendo progressi nella sua guarigione.
+Enid Challenger era una ragazza straordinaria e meritava davvero un paragrafo tutto suo. Con i capelli neri come quelli di suo padre, gli occhi blu e il colorito fresco di sua madre, era piuttosto attraente, se non addirittura bella. Era silenziosa, ma molto forte. Fin da piccola aveva dovuto o opporsi a suo padre o accettare di essere schiacciata e trasformata in un semplice automa controllato dalle sue forti mani. Era abbastanza forte da resistere in modo gentile ed elastico: si adattava ai suoi umori e ritrovava la sua forza quando questi passavano. Negli ultimi tempi, però, quella pressione costante le sembrava insopportabile, quindi aveva cercato di trovare una strada tutta sua nella vita. Faceva occasionalmente piccoli lavori per la stampa londinese e li svolgeva in modo tale che il suo nome iniziava a farsi conoscere in Fleet Street. Nella ricerca di questa opportunità, le era stato di grande aiuto un vecchio amico di suo padre, e forse anche del lettore: il signor Edward Malone del Daily Gazette.  
+Malone era ancora lo stesso irlandese atletico che una volta aveva vinto la maglia della nazionale di rugby, ma la vita lo aveva reso più riflessivo e moderato. Aveva accumulato una notevole fortuna quando aveva smesso definitivamente con il calcio. I suoi muscoli forse si erano atrofizzati e le sue articolazioni si erano indurite, ma la sua mente era diventata più profonda e attiva. Il ragazzo era morto, e l’uomo era nato. In apparenza non era cambiato molto, ma il suo mustacchio era più folto, la schiena un po’ più curva, e sul suo volto si leggevano le tracce di riflessioni profonde. Le condizioni del dopoguerra e i nuovi problemi mondiali avevano lasciato il loro segno su di lui. Nel frattempo, si era fatto un nome nel giornalismo, e anche in letteratura, sebbene in misura limitata. Era ancora single, anche se alcuni pensavano che quella situazione potesse cambiare presto, e che le piccole mani bianche di Miss Enid Challenger potessero “liberarlo” da quel stato. Di certo erano molto amici.  
+Era una domenica sera di ottobre, e le luci iniziavano appena a brillare attraverso la nebbia che avvolgeva Londra fin dall’alba. L’appartamento del professor Challenger, situato nei Victoria West Gardens al terzo piano, era avvolto da una fitta foschia; dal basso si udiva il rumore sommesso del traffico domenicale. Il professor Challenger sedeva davanti al fuoco, con le gambe larghe distese e le mani infilate nelle tasche dei pantaloni. Il suo abbigliamento aveva un certo carattere eccentrico tipico di un genio: indossava una camicia con colletto largo, una cravatta di seta marrone annodata e un soprabito di velluto nero; insieme alla sua barba folta, sembrava un anziano artista bohémien. Accanto a lui, pronta per uscire, c’era sua figlia, con cappello a cupola, abito nero corto e tutti gli altri accessori alla moda che le donne utilizzano per “deformare” la bellezza naturale. Mentre Malone, con il cappello in mano, aspettava vicino alla finestra.
+“Credo che dovremmo andare ora, Enid. Sono quasi le sette,” disse lui.  
+Stavano scrivendo articoli congiunti sulle diverse denominazioni religiose di Londra; ogni domenica sera uscivano insieme per esplorarne una nuova e raccogliere informazioni per il numero successivo del “Gazette”.  
+“Sono solo le otto, Ted. Abbiamo ancora molto tempo,” rispose lei.  
+“Si sieda, signore! Si sieda!” tuonò Challenger, tirandosi la barba come faceva sempre quando si arrabbiava. “Niente mi infastidisce di più che qualcuno che stia in piedi dietro di me. Un retaggio dell’atavismo e della paura dei coltelli, ma persiste ancora. Per l’amor del cielo, metta giù il cappello! Ha sempre quell’aria di chi sta per perdere un treno, ”  
+“È la vita del giornalista,” disse Malone. “Se non riusciamo a ‘prendere quel treno’, resteremo indietro. Anche Enid inizia a capirlo. Ma comunque, come dici tu, abbiamo ancora abbastanza tempo.”  
+“A che punto siete arrivati?” chiese Challenger.  
+Enid consultò il suo taccuino da giornalista. “Ne abbiamo trattate sette: la Westminster Abbey per la Chiesa anglicana, Santa Agata per l’High Church, Tudor Place per la Low Church. Poi c’è stata la Cattedrale di Westminster per i cattolici, Endell Street per i presbiteriani e Gloucester Square per gli unitariani. Stasera proveremo a cambiare argomento. Ci occuperemo degli spiritisti.”  
+Challenger emise un ringhio furioso.  
+“La settimana prossima parleremo degli ospedali psichiatrici, immagino, ” disse. “Non vorrai mica dirmi che questi ‘spiritisti’ hanno anche le loro chiese, ”  
+“Sto indagando su questo,” rispose Malone. “Prima di iniziare un lavoro, mi assicuro sempre di conoscere i fatti con precisione. In Gran Bretagna ci sono più di quattrocento chiese registrate appartenenti a questi gruppi.”  
+Challenger ringhiò ancora più forte.  
+“Mi sembra che non esista alcun limite all’assurdità e alla credulità dell’umanità. Homo Sapiens. Homo idioticus! A chi pregano, poi? Ai ‘fantasmi’, ”  
+“Beh, è proprio questo che vogliamo scoprire. Dobbiamo raccogliere informazioni su di loro. Non devo certo dire di condividere del tutto il tuo punto di vista, ma ho incontrato di recente Atkinson dell’Ospedale St. Mary’s. È un chirurgo promettente, ”  
+“Ne ho sentito parlare. Si occupa di problemi cerebro-spinali, ”  
+“Esatto. È una persona equilibrata e riconosciuta come autorità nella ricerca sui fenomeni psichici, ”  
+“Scienza, davvero, ”  
+“Beh, così la chiamano. Lui sembra prendere queste cose sul serio. Lo consulto sempre quando ho bisogno di informazioni. Ha una vasta bibliografia a disposizione, ‘I pionieri dell’umanità’. È così che li definisce, ”  
+“Pionieri verso il manicomio, più che altro, ” borbottò Challenger. “E bibliografia. Quale bibliografia hanno?”  
+“Beh, è stata un’altra sorpresa. Atkinson possiede cinquecento volumi, ma si lamenta che la sua collezione di testi sui fenomeni psichici sia ancora molto incompleta. Ci sono opere in francese, tedesco, italiano, e anche in inglese, naturalmente, ”  
+“Beh, almeno non tutta questa follia è confinata solo in povera vecchia Inghilterra. Assurdità pestilenziali!”
+“L’hai letto davvero, padre?” chiese Enid.  
+“Leggerlo? Io, con tutti i miei interessi e senza tempo nemmeno per la metà di essi! Enid, sei troppo assurda.”  
+“Scusi, padre. Hai parlato con tale sicurezza che ho pensato tu sapesse qualcosa al riguardo.”  
+La enorme testa di Challenger si girò di scatto; il suo sguardo fiero si posò sulla figlia.  
+“Pensi davvero che un cervello logico, un cervello di prim’ordine, abbia bisogno di leggere e studiare per riconoscere una palese assurdità? Devo studiare matematica solo per confutare chi afferma che due più due fanno cinque? Devo ripetere i corsi di fisica perché qualche sciocco insiste nel dire che un tavolo possa levitare contro la legge di gravità? Servono davvero cinquecento volumi per spiegare qualcosa che può essere dimostrato in qualsiasi tribunale quando viene smascherato un impostore? Enid, mi vergogno di te!”  
+Sua figlia rise allegramente.  
+“Beh, papà, non c’è bisogno di urlarmi addosso. Mi arrendo. Anzi, provo esattamente le stesse sensazioni che provi tu.”  
+“Tuttavia,” disse Malone, “alcuni uomini onesti li sostengono. Non credo che si possa ridere di Lodge, Crookes e degli altri.”  
+“Sii serio, Malone. Ogni grande mente ha i suoi punti deboli. È una sorta di reazione contro tutto il buon senso. A volte ci si imbatte semplicemente in assurdità. Ed è proprio questo che succede con queste persone. No, Enid. Non ho letto le loro argomentazioni, e non intendo farlo. Alcune cose vanno al di là di ogni limite. Se riapriamo tutte le vecchie questioni, come potremo progredire con quelle nuove? Questa faccenda è risolta dal buon senso, dalla legge inglese, e dall’unanime consenso di tutti gli europei sani di mente.”  
+“E basta così, ” disse Enid.  
+“Comunque,” continuò lui, “devo ammettere che a volte ci possono essere scuse per degli malintesi su questo argomento, ” Abbassò la voce; i suoi grandi occhi grigi sembrarono fissare il vuoto con tristezza. “Ho conosciuto casi in cui anche l’intelligenza più equilibrata, persino la mia, poteva essere scossa, per un momento, ”  
+Malone colse al volo l’occasione di approfittarne.  
+“Sì, signore?”  
+Challenger esitò. Sembrava lottare con se stesso. Voleva parlare, ma le parole gli risultavano dolorose. Alla fine, con un gesto brusco e impaziente, iniziò a raccontare:  
+“Non te l’ho mai detto, Enid. Era troppo, troppo intimo. Forse anche troppo assurdo. Mi vergognavo di essere stato così scosso. Ma questo dimostra quanto anche le persone più equilibrate possano essere colte alla sprovvista, ”  
+“Sì, signore?”  
+“È successo dopo la morte di mia moglie. La conoscevi, Malone. Puoi immaginare cosa significasse per me. Era la notte dopo la cremazione. Orribile, Malone. Vidi il suo piccolo corpo scivolare giù, e poi le fiamme, e la porta che si chiudeva, ” Il suo grande corpo tremò; si passò una mano pelosa sugli occhi.
+“Non so perché vi dica questo; la conversazione sembrava portare proprio a questo argomento. Forse è un avvertimento per voi. Quella notte – la notte dopo la cremazione – ero seduto nel salone. Lei c’era,” disse, annuendo verso Enid. “Si era addormentata su una sedia, povera ragazza. Conoscete quella casa a Rotherfield, Malone. Era nel grande salone. Ero seduto accanto al camino; la stanza era avvolta nell’oscurità, e anche i miei pensieri erano immersi nell’ombra. Avrei dovuto farla andare a letto, ma lei era così rilassata sulla sedia che non ho voluto svegliarla. Forse era l’una di notte. Ricordo la luna che brillava attraverso la vetrata colorata. Ero seduto lì, perso nei miei pensieri. Poi, all’improvviso, si udì un rumore.”  
+“Sì, signore?”
+“All’inizio era un suono debole, solo un ticchettio. Poi è diventato più forte e più chiaro: era proprio quel familiare ritmo di ‘rat-tat-tat’. Ora arriva la strana coincidenza, il tipo di cosa da cui nascono le leggende quando la gente credulona le dà forma. Dovete sapere che mia moglie aveva un modo particolare di bussare alla porta: in realtà suonava una piccola melodia con le dita. Sono riuscito in qualche modo a capire quando uno dei due bussava. Beh, a me sembrava che quel ritmo corrispondesse esattamente al modo in cui lei bussava. Certo, la mia mente era tesa e confusa. Non riuscivo a individuare con precisione da dove provenisse quel suono. Ho provato con tutte le mie forze. Proveniva dall’alto, da qualche parte nel legno. Ho perso la nozione del tempo. Credo che si sia ripetuto almeno una dozzina di volte, ”  
+“Oh, papà, non me l’avevi mai detto!”  
+“No, ma ti ho svegliato e ti ho chiesto di stare in silenzio con me per un po’.”  
+“Sì, me lo ricordo, ”  
+“Beh, siamo rimasti seduti, ma non è successo nulla. Nessun altro suono. Ovviamente era solo un’illusione. Qualche insetto nel legno. L’edera sul muro esterno. Forse era il mio stesso cervello a creare quel ritmo. Ecco come possiamo prendere in giro noi stessi. Ma quella esperienza mi ha insegnato qualcosa: ho capito come anche un uomo intelligente possa essere ingannato dalle proprie emozioni.”
+“Ma come fa a saperlo, signore, che non era sua moglie?”  
+“Assurdo, Malone! Assurdo, dico io! Le assicuro che l’ho vista tra le fiamme. Cosa poteva esserci ancora?”  
+“La sua anima, il suo spirito, ”  
+Challenger scosse la testa tristemente.  
+“Quando quel caro corpo si dissolse nei suoi elementi – quando i suoi gas si dispersero nell’aria e i suoi resti solidi divennero polvere grigia – tutto finì. Non c’era più nulla. Aveva svolto il suo ruolo, l’aveva fatto in modo meraviglioso, nobile. Era finita. La morte mette fine a tutto, Malone. Queste discussioni sull’anima sono solo superstizioni e miti. Come fisiologo, posso garantire che crimini o virtù possano essere creati attraverso il controllo dei vasi sanguigni o la stimolazione cerebrale. Posso trasformare un Jekyll in un Hyde con un intervento chirurgico. Un altro può farlo tramite suggestioni psicologiche. L’alcol, le droghe, possono fare lo stesso. Assurdo, Malone. Quando un albero cade, rimane a terra. Non c’è più un domani mattina. Solo notte, eterna notte, e un lungo riposo per chi ha lavorato sodo, ”  
+“Beh, è una filosofia triste.”  
+“Meglio triste che falsa, ”  
+“Forse. C’è qualcosa di virile e nobile nel confrontarsi con il peggio. Non voglio contraddirti. La mia ragione è dalla tua parte.”
+“Ma i miei istinti mi dicono di no!” gridò Enid. “No, no, non posso mai crederci.” Gettò le braccia intorno al collo robusto di suo padre. “Non dirmi, papà, che tu, con tutto il tuo cervello complesso e la tua meravigliosa personalità, sei una creatura priva di vita futura, proprio come un orologio rotto, ”  
+“Quattro secchi d’acqua e un sacco di sale,” disse Challenger, sorridendo mentre si liberava dall’abbraccio di sua figlia. “Ecco com’è tuo padre, mia piccola. Meglio che ti rassegni ad accettarlo. Bene, sono le venti e otto. Torna qui, se puoi, Malone, e raccontami delle tue avventure tra i pazzi.”
+
 
 
 <span class="atom-split" data-atom="story_02_which_describes_an_evening_in_strange_co" data-title="THE LAND OF MIST — Which Describes an Evening in Strange Company" data-chapter="Which Describes an Evening in Strange Co" data-kind="story" data-tags="concept/doubt,concept/spiritualism"></span>
@@ -2474,6 +2538,178 @@ The medium shook her head. “No, sir, no. They always think I know them. I know
 And so they found themselves in the street once more inhaling long draughts of the night air. It was sweet after that crowded hall. A minute later they were in the rush of the Edgware Road and Malone had hailed a cab to carry them back to Victoria Gardens.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un taxi portò gli avventurieri lungo Edgware Road fino a una strada laterale chiamata “Helbeck Terrace”. A metà strada, la monotona fila di case in mattoni venne interrotta da un’apertura luminosa: un arco aperto proiettava una luce intensa nella strada. Il taxi si fermò e il conducente aprì la portiera.  
+“Questa è la Chiesa Spiritista, signore,” disse. Poi, mentre ringraziava per la mancia, aggiunse con la sua voce rauca: “Che peccato, davvero.” Dopo essersi assicurato di aver compiuto il proprio dovere, tornò al suo posto e poco dopo la sua lucina posteriore scomparve nell’oscurità. Malone rise.  
+“È l’opinione pubblica, Enid. Per ora è solo questo che la gente pensa.”  
+“Beh, per noi è lo stesso.”  
+“Sì, ma siamo pronti a offrire loro uno spettacolo. Non credo che il conducente lo sia. Accidenti, sarà davvero un peccato se non riusciamo ad entrare!”  
+C’era una folla davanti all’ingresso; un uomo stava bloccando l’accesso, agitando le braccia per tenere indietro la gente.  
+“Non è possibile, amici. Mi dispiace molto, ma non possiamo fare nulla. Siamo stati minacciati due volte di denunce per affollamento eccessivo.” Poi aggiunse scherzando: “Non ho mai sentito parlare di una Chiesa Ortodossa che abbia problemi a causa dell’affollamento. No, signori, non è possibile.”  
+“Sono venuta fin da ‘Ammersmith’,” disse una voce angosciata. La luce illuminava il viso ansioso e determinato di quella donna in nero con un bambino in braccio.  
+“È venuta per la chiaroveggenza, signora,” disse l’usciere. “Dica pure il suo nome e indirizzo; le scriverò e la signora Debbs le offrirà una seduta gratuita. È meglio di provare a entrare nella folla: con tutta la volontà del mondo, non riuscireste comunque ad avere la possibilità di parlare con lei. Potrà riceverla tutta per sé. No, signori, non c’è modo di forzare l’ingresso, ”
+“Il signore ha detto ‘La stampa’? La stampa ci boicotta, signore. Se ne dubita, guardi l’elenco settimanale delle riunioni pubblicate dal Saturday’s Times. Non si direbbe mai che esista una cosa come lo [[Spiritualism|spiritualismo]]. Quale giornale, signore?, ‘The Daily Gazette’. Bene, bene, stiamo facendo progressi. E la signora? Un articolo speciale. Davvero! Segua me, signore, e vedrò cosa posso fare. Chiudete le porte, Joe. Non serve, amici. Quando il fondo per la costruzione avrà raccolto abbastanza fondi, avremo più spazio per voi. Ora, signorina, da questa parte, per favore.”  
+Quella direzione li portò lungo la strada e poi in un vicolo laterale, fino a una piccola porta sopra cui brillava una luce rossa.  
+“Dovrà salire sul palco. Non c’è spazio in piedi nel corpo principale della sala.”  
+“Oh mio Dio!” esclamò Enid.  
+“Avrà una bella vista, signorina. E forse potrà anche leggere qualcosa se ha fortuna. Spesso quelle che sono più vicine al medium hanno le migliori opportunità. Ora, signore, entri qui.”  
+L’interno era una piccola stanza disordinata, con cappelli e cappotti appesi alle pareti bianche e sporche. Una donna magra e austera, con gli occhi che brillavano dietro le lenti degli occhiali, scaldava le sue mani magre davanti a un piccolo fuoco. Dietro al fuoco, con la schiena rivolta verso di esso, c’era un uomo grosso e grasso, dal viso pallido, con un mustacchio rosso e occhi blu chiaro. Gli occhi di un marinaio di mare profondo. Un uomo calvo con grandi occhiali a montatura di corno, e un giovane atletico in abito da soggiorno blu completavano il gruppo.  
+“Gli altri sono già saliti sul palco. Ci restano solo cinque posti, ” disse l’uomo grasso.  
+“Lo so, lo so, ” rispose l’uomo chiamato Peeble. Una persona nervosa, magra e secca, “Ma questa è la stampa. Un articolo speciale sul ‘Daily Gazette’. Malone. Il nome. E Challenger. Questo è il signor Bolsover, il nostro presidente. Questa è la signora Debbs di Liverpool, la famosa chiaroveggente. Qui c’è il signor James. E questo giovane alto è il signor Hardy Williams, il nostro energico segretario. Il signor Williams contribuisce al fondo per la costruzione. Stia attento ai suoi pantaloni se il signor Williams è nei paraggi, ”  
+Risero tutti.  
+“Il denaro verrà raccolto più tardi,” disse il signor Williams, sorridendo.  
+“Un buon articolo appassionante è la nostra migliore fonte di fondi,” disse il presidente robusto. “È mai stato a una riunione del genere prima, signore?”  
+“No, ” rispose Malone.  
+“Immagino che non ne sappia molto, ”  
+“Esatto.”  
+“Beh. Ci aspettiamo sicuramente delle critiche. All’inizio cercano di approcciarsi al tema dal punto di vista umoristico. Le farò scrivere un resoconto molto comico. Personalmente non vedo nulla di divertente nell’ascoltare i messaggi dello spirito della propria moglie defunta. Ma è una questione di gusto e conoscenza. Se non ne sanno niente, come possono prenderla sul serio? Non li biasimo. Anche noi eravamo così una volta. Ero uno dei seguaci di Bradlaugh. E ho ascoltato Joseph MacCabe fino a quando mio padre non mi ha fatto uscire da quella situazione, ”  
+“Bene fatto!” disse la medium di Liverpool.  
+“È stato allora che per la prima volta ho scoperto di avere dei poteri miei. Lo vedevo esattamente come vedo lei adesso, ”
+“Era uno di noi sotto quella forma?”  
+“Non sapeva più di quanto sapessi io. Ma dall’altra parte, se le persone giuste si occupano di loro, riescono a fare cose straordinarie.”  
+“È finito il tempo!” disse il signor Peeble, facendo scattare l’orologio. “Siete seduti sul lato destro della sedia, signora Debbs. Volete iniziare voi per prima? Poi voi, signor Presidente. E poi voi due e io. Signor Hardy Williams, mettetevi sul lato sinistro e guidate il canto. Vogliono scaldarsi un po’, e voi potete farlo. Allora, per favore!”  
+La piattaforma era già affollata, ma i nuovi arrivati si fecero strada verso il davanti tra mormori cortesi di benvenuto. Il signor Peeble spingeva e incoraggiava, e alla fine due posti in fondo si liberarono; Enid e Malone vi si sedettero. Quell’organizzazione gli andava bene, perché potevano usare liberamente i loro quaderni, protetti dalla folla davanti a loro.  
+“Qual è la tua reazione?” sussurrò Enid.  
+“Per ora non sono affatto colpito.”  
+“Nemmeno io,” disse Enid, “ma comunque è molto interessante.”
+Le persone sincere sono sempre interessanti, che si concordi con loro o meno, e era impossibile [[Doubt|mettere in dubbio]] che queste persone fossero estremamente sincere. La sala era piena zeppa; guardando in basso si vedevano file e file di volti rivolti verso l’alto, tutti più o meno simili tra loro: prevalevano le donne, ma anche gli uomini erano numerosi. Quel tipo di persone non era certo distinto né intellettuale, ma indubbiamente sani, onesti e razionali. Piccoli commercianti, venditori ambulanti, artigiani di ceto medio-basso, donne della classe media inferiore assillate dalle faccende domestiche, occasionalmente giovani in cerca di emozioni. Queste erano le impressioni che il pubblico trasmetteva all’attenta osservazione di Malone.  
+Il presidente grasso si alzò e alzò la mano.  
+“Amici miei,” disse, “abbiamo dovuto nuovamente escludere un gran numero di persone che desideravano essere con noi stasera. Tutto dipende dal fondo per la costruzione del edificio. Il signor Williams, qui a sinistra, sarà felice di sentire da qualcuno di voi che la scorsa settimana ero in hotel e che avevano appeso un avviso alla reception: ‘Non si accettano assegni’. Ma questo non è certo lo stile del fratello Williams. Provateci voi stessi.”
+Il pubblico rise. L’atmosfera era chiaramente quella di un auditorium, piuttosto che di una chiesa.  
+“C’è ancora una cosa che voglio dire prima di sedermi. Non sono qui per parlare. Sono qui per ‘tenere ferma’ questa sedia, e intendo farlo davvero. È una richiesta difficile. Voglio che i sensitivi si tengano lontani le domeniche sera: occupano lo spazio che dovrebbe essere riservato a coloro che cercano la verità. Potete tenere il servizio mattutino. Ma per la causa stessa, è meglio lasciare spazio agli estranei. L’avete già avuto. Grazie a Dio per questo. Dategli un’altra possibilità.” Il presidente si appoggiò di nuovo allo schienale della sedia.  
+Il signor Peeble balzò in piedi. Era chiaramente quel tipo di persona che appare in ogni società e probabilmente ne diventa l’autocrate. Con il suo viso magro, ansioso, e le mani frenetiche, sembrava più che un filo elettrico. Era un intero insieme di fili elettrici! Sembrava che l’elettricità scaturisse dalle sue dita.  
+“Inno Uno!” gridò.
+Il pianoforte a mantice ronzava e il pubblico si alzò in piedi. Era un bell’inno, cantato con grande entusiasmo:  
+“Il mondo ha sentito un soffio di rinascita  
+Dalla riva eterna del Cielo;  
+Le anime vittoriose sulla morte  
+Tornano ancora sulla Terra.”  
+C’era un’atmosfera di esultanza nelle voci mentre si ripeteva il ritornello:  
+“Per questo celebriamo il nostro Giubileo,  
+Per questo cantiamo con gioia;  
+Oh Tomba, dove è la tua vittoria?  
+Oh Morte, dove è il tuo pungiglione?”  
+Sì, quelle persone erano sincere. E non sembravano affatto meno intelligenti dei loro simili. Eppure, sia Enid che Malone provarono una grande compassione guardandole. Che tristezza essere ingannati su una questione così intima, essere raggirati da impostori che utilizzavano i loro sentimenti più sacri e i loro cari defunti come strumento per ingannarli. Cosa sapevano loro delle leggi della prova, dei freddi e immutabili dettami della scienza? Poveri esseri sinceri, onesti, ma ingannati!  
+“Ora!” gridò il signor Peeble. “Chiederemo al signor Munro, dall’Australia, di recitare l’invocazione.”  
+Un vecchio dall’aspetto selvaggio, con una barba folta e uno sguardo vuoto negli occhi, si alzò in piedi e rimase immobile per qualche secondo, con lo sguardo fisso a terra. Poi iniziò a pregare, in modo molto semplice, senza alcuna preparazione. Malone trascrisse la prima frase: “Oh Padre, siamo gente ignorante e non sappiamo bene come rivolgerci a Te, ma pregheremo nel modo migliore che conosciamo.” Tutto era espresso con estrema umiltà. Enid e Malone si scambiarono uno sguardo di apprezzamento.  
+Seguì un altro inno, meno efficace del primo; poi il presidente annunciò che il signor James Jones, del Galles del Nord, avrebbe tenuto un discorso che rappresentasse le idee della sua famosa “guida spirituale”, Alasha l’Atlantidea.  
+Il signor James Jones, un uomo piccolo e deciso, vestito con un abito a quadri sbiadito, si avvicinò al podio e, dopo essere rimasto fermo per qualche minuto come se fosse immerso in profonde riflessioni, ebbe un brivido improvviso e iniziò a parlare. Bisogna ammettere che, a parte uno sguardo fisso e uno sguardo vuoto negli occhi, non c’era nulla che potesse far pensare che non fosse davvero il signor James Jones del Galles del Nord. E anche se ebbe un altro brivido all’inizio del suo discorso, fu il pubblico a tremare dopo di lui. Se ci si doveva credere alle sue affermazioni, allora uno spirito atlantideo poteva essere davvero noioso e insopportabile. Continuò a parlare di banalità e inezie, mentre Malone sussurrava a Enid che, se Alasha era davvero un esempio rappresentativo della sua gente, allora era meglio che il suo paese natale fosse “sicuramente sommerso nell’Oceano Atlantico”. Quando, con un altro brivido melodrammatico, terminò il suo discorso, il presidente si alzò in piedi con grande fretta, per evitare che lo “spirito atlantideo” tornasse.
+“Stasera abbiamo con noi,” gridò, “la signora Debbs, la famosa veggente di Liverpool. Come molti di voi sanno, la signora Debbs è dotata in modo straordinario di alcune di quelle facoltà spirituali di cui parla San Paolo, e tra queste c’è anche quella di riconoscere gli spiriti. Queste cose dipendono da leggi al di fuori del nostro controllo, ma un’atmosfera favorevole è essenziale; la signora Debbs chiederà i vostri buoni desideri e le vostre preghiere mentre cerca di entrare in contatto con alcune di quelle entità luminose dall’altra parte che forse saranno onorate dalla loro presenza stasera.”  
+Il presidente si sedette e la signora Debbs, tra un discreto applauso, si alzò. Molto alta, molto pallida, molto magra, con il viso affilato e gli occhi che brillavano dietro le lenti da vista dorate, si mise di fronte al suo pubblico attento. Teneva la testa china, come se stesse ascoltando attentamente.  
+“Vibrazioni!” esclamò finalmente. “Ho bisogno di vibrazioni positive. Per favore, suonatemi un versetto all’armonium.”  
+L’instrumento emise le note di “Jesu, Lover of my soul”. Il pubblico rimase in silenzio, pieno di aspettativa e un po’ intimidito. La sala non era molto ben illuminata e ombre scure si addensavano negli angoli; la medium continuava a tenere la testa china, come se stesse cercando di captare qualche segnale. Poi alzò la mano e la musica cessò.  
+“Tra poco! Tutto arriverà nel momento giusto,” disse, rivolgendosi a un compagno invisibile. Poi aggiunse: “Non credo che le condizioni siano molto favorevoli stasera. Farò del mio meglio, e anche loro lo faranno. Ma prima devo parlare con voi.”  
+E iniziò a parlare. Quello che disse sembrava un insieme di parole senza senso; tuttavia, di tanto in tanto qualche frase attirava l’attenzione degli ascoltatori. Malone mise via il suo taccuino: non aveva senso riportare le parole di una persona folle. Il medium accanto a lui notò la sua perplessità e si avvicinò a lui sussurrando:  
+“Sta entrando in contatto. Sta trovando la frequenza giusta. È tutto una questione di vibrazioni. Ah, ecco!”  
+Si era fermata a metà frase; il suo braccio lungo e il dito tremante indicarono una donna anziana seduta nella seconda fila.  
+“Voi! Sì, voi. Quella con la piuma rossa. No, non voi. La signora robusta davanti a voi. Sì, voi! C’è uno spirito che si sta manifestando dietro di voi. È un uomo. Un uomo alto, forse sei piedi. Fronte alta, occhi grigi o blu, baffi marroni, linee sul viso. Lo riconoscete, amica mia?”  
+La donna robusta sembrò allarmata, ma scosse la testa.  
+“Bene. Vediamo se posso aiutarvi. Sta tenendo in mano un libro. Un libro marrone con una copertina rigida. È un registro, come quelli che si usano negli uffici. Riesco a leggere le parole ‘Caledonian Insurance’. Vi è di qualche aiuto?”  
+La donna robusta strinse le labbra e scosse di nuovo la testa.  
+“Bene. Posso darvi un’altra informazione. È morto dopo una lunga malattia. Riesco a capire che soffriva di problemi ai polmoni. Asma, ”  
+La donna robusta rimase ostinata. Ma una donna piccola, con il viso rosso per l’ira, seduta due posti più in là, si alzò di scatto e disse:  
+“È mio ‘marito’, signora. Dicagli che non voglio avere più nulla a che fare con lui, ” Si risedette, decisa.
+“Sì, esatto. Ora si sta avvicinando a te. Prima era più vicino all’altro. Vuole scusarsi. Non ha senso tenere rancore verso i morti. Perdonare e dimenticare. È tutto finito. Ho un messaggio per te: ‘Fallo, e la mia benedizione sarà con te’. Ti dice qualcosa?”  
+La donna arrabbiata sembrò soddisfatta e annuì.  
+“Molto bene, ” La veggente all’improvviso puntò il dito verso la folla all’ingresso: “È per quel soldato.”  
+Un soldato in khaki, molto sorpreso, si trovava davanti al gruppo di persone.  
+“Per me?” chiese.  
+“È un soldato. Ha le strisce da caporale. È un uomo alto con i capelli grigi. Ha una spilla gialla sulle spalle. Le iniziali sono J.H. Lo conosci?”  
+“Sì, ma è morto,” rispose il soldato.  
+Non aveva capito che si trattava di una chiesa spiritista, e tutto ciò che era accaduto gli sembrava un mistero. I suoi vicini gli spiegarono rapidamente la situazione. “Mio Dio!” esclamò il soldato, per poi scomparire tra le risate generali. Nel silenzio che seguì, Malone poté sentire il medium parlare con qualcuno invisibile.
+“Sì, sì, aspetta il tuo turno! Parla, donna. Bene, mettiti vicino a lui. Come dovrei saperlo? Beh, lo scoprirò se posso, ” Era come una bigliettaia teatrale che organizzava la fila.
+Il suo tentativo successivo fallì completamente: un uomo robusto con baffi folti rifiutò categoricamente di avere qualsiasi rapporto con un anziano signore che sosteneva di essere suo parente. La medium continuò a lavorare con grande pazienza, fornendo nuovi dettagli, ma non si ottenne alcun risultato.
+“Sei una persona spiritista, amico?”  
+“Sì, da dieci anni, ”  
+“Beh, sai che ci sono delle difficoltà, ”  
+“Sì, lo so, ”  
+“Riflettici bene. Forse ti verrà in mente più tardi. Dobbiamo lasciar perdere. Mi dispiace solo per il tuo amico, ”  
+Ci fu una pausa; Enid e Malone si scambiarono sussurri.
+“Cosa ne pensi, Enid?”  
+“Non lo so. Mi confonde, ”  
+“Credo che sia metà intuizione e metà complicità tra persone della stessa chiesa. Si conoscono bene le vicende l’uno dell’altro. Se non sanno qualcosa, possono semplicemente informarsi, ”  
+“Qualcuno ha detto che è la prima visita di Mrs. Debbs, ”  
+“Sì, ma potrebbero averla istruita loro. È tutto truffa e bluff. Deve esserlo. Pensaci: cosa significherebbe altrimenti?”  
+“Forse telepatia, ”  
+“Sì, anche in questo c’è qualcosa. Ascolta! Sta ricominciando, ”  
+Il suo tentativo successivo ebbe più fortuna: un uomo cupo, in fondo alla sala, riconobbe immediatamente le descrizioni fornite riguardo a sua moglie defunta.
+“Ricevo il nome Walter, ”  
+“Sì, sono io, ”  
+“Ti chiamava ‘Wat’?”  
+“No, ”  
+“Beh, ora ti chiama ‘Wat’, ‘Digli di portare i miei saluti ai bambini’. È così che lo capisco. Si preoccupa per i bambini, ”  
+“Sempre, ”  
+“Beh, le persone non cambiano. Mobili. C’entra qualcosa con i mobili. Dice che li hai dati via. È vero?”  
+“Beh, forse sì, ”
+Il pubblico ridacchiò. Era strano come le cose più solenni e quelle più comiche si mescolassero per sempre. Strano, ma al contempo molto naturale e umano.  
+“Ha un messaggio: ‘L’uomo pagherà e tutto andrà bene. Sii una brava persona, Wat, e saremo più felici qui di quanto lo siamo mai stati sulla terra’.”  
+L’uomo si coprì gli occhi con la mano. Mentre la veggente esitava, il giovane segretario alto si alzò a metà e le sussurrò qualcosa all’orecchio. La donna gettò un rapido sguardo alle sue spalle, nella direzione dei visitatori.  
+“Ne riparlerò più tardi,” disse.  
+Fornì ancora due descrizioni al pubblico, entrambe piuttosto vaghe, e queste furono accolte con qualche riserva. Era curioso il fatto che i dettagli che forniva sembrassero impossibili da notare da quella distanza. Quindi, parlando di una figura che si trovava all’estremità della sala, riusciva comunque a descrivere il colore degli occhi e alcuni tratti del viso. Malone notò questo aspetto come qualcosa che poteva utilizzare per criticarla duramente. Stava appunto prendendo appunti quando la voce della donna si alzò di nuovo; alzando lo sguardo, vide che lei aveva girato la testa e i suoi occhiali lampeggiavano nella sua direzione.  
+“Non è frequente che io faccia letture dal palco stasera,” disse, “ma abbiamo degli amici qui. Forse troveranno interessante entrare in contatto con queste ‘persone spirituali’. C’è una presenza che si sta manifestando dietro il signore con la barba. Quello seduto accanto alla giovane donna. Sì, proprio dietro di voi. È un uomo di media statura, piuttosto basso. Ha più di sessant’anni, i capelli bianchi, il naso curvo e una piccola barba bianca. Non è un parente, credo. Ma un amico. Vi suggerisce qualcuno?”  
+Malone scosse la testa con disprezzo. “Potrebbe corrispondere a quasi qualsiasi vecchio,” sussurrò a Enid.  
+“Cercheremo di avvicinarci di più. Ha delle rughe profonde sul viso. Direi che fosse una persona irritabile in vita sua. Rapida e nervosa nei suoi comportamenti. Vi aiuta questo?”  
+Malone scosse di nuovo la testa.  
+“Maledizione. Perfetto,” mormorò.  
+“Beh, sembra molto ansioso. Quindi dobbiamo fare del nostro meglio per lui. Regge un libro. Un libro erudito. Lo apre e ci sono dei disegni all’interno. Forse l’ha scritto lui. O forse ne ha insegnato il contenuto. Sì, annuisce. Ne ha insegnato il contenuto. Era un insegnante, ”  
+Malone rimase silenzioso.  
+“Non so se riesca davvero ad aiutarlo. Ah! C’è una cosa. Ha un neo sopra l’arcobaleno destro, ”  
+Malone sussultò, come se fosse stato pungito.  
+“Un neo?” esclamò.  
+Gli occhiali lampeggiarono di nuovo nella sua direzione.  
+“Due nei. Uno grande, uno piccolo, ”  
+“Mio Dio!” esclamò Malone. “È il Professor Summerlee!”  
+“Ah, l’avete capito. C’è un messaggio: ‘Saluti al vecchio, ’ È un nome lungo. Inizia con la lettera C. Non riesco a ricordarlo. Significa qualcosa?”  
+“Sì, ”  
+In un istante si girò e iniziò a descrivere qualcos’altro. Ma lasciò dietro di sé un uomo profondamente scosso sul palco.
+Fu in questo momento che il normale svolgimento degli eventi subì un’interruzione notevole, che sorprese tanto il pubblico quanto i due visitatori. Accanto al presidente comparve improvvisamente un uomo alto, dal viso pallido e barbuto, vestito come un artigiano di rango superiore; sollevò la mano con un gesto deciso, tipico di chi è abituato ad esercitare autorità, e poi si rivolse a Mr. Bolsover.  
+“Questo è il signor Miromar di Dalston,” disse il presidente. “Il signor Miromar ha un messaggio da comunicare. Siamo sempre felici di ricevere notizie dal signor Miromar.”  
+I giornalisti riuscirono a vedere solo in parte il volto del nuovo arrivato, ma entrambi rimasero colpiti dal suo portamento nobile e dalle dimensioni imponenti della sua testa, che suggerivano una grande intelligenza. La sua voce risuonava chiaramente e piacevolmente nella sala.  
+“Mi è stato ordinato di diffondere questo messaggio ovunque ci siano persone disposte ad ascoltarlo. Alcuni qui sono pronti ad accoglierlo, ed è per questo che sono venuto. Desiderano che l’umanità comprenda gradualmente la situazione, in modo da evitare shock o panico. Io sono uno dei pochi scelti per portare questa notizia.”  
+“Un pazzo, temo,” sussurrò Malone, scrivendo freneticamente sulle ginocchia. Tra il pubblico si diffuse un’atmosfera di sorrisi; tuttavia, c’era qualcosa nel modo e nella voce di quell’uomo che li spingeva ad ascoltare ogni sua parola con attenzione.  
+“Le cose hanno ora raggiunto un punto critico. L’idea stessa di progresso è diventata concreta: progredire significa muoversi rapidamente, inviare messaggi veloci, costruire nuove macchine. Ma tutto ciò rappresenta solo una distrazione dall’unica vera strada del progresso: il progresso spirituale. L’umanità ne riconosce l’importanza a parole, ma continua ad inseguire la falsa via della scienza materiale.”  
+“La Central Intelligence ha riconosciuto che, nonostante l’apatia generale, esisteva ancora molta sincera [[Doubt|dubbio]] tra le persone; dubbi che avevano superato le vecchie credenze e avevano bisogno di nuove prove. Per questo sono state inviate nuove prove, prove che rendevano l’idea della vita dopo la morte altrettanto chiara quanto il sole nel cielo. Gli scienziati le hanno derise, le chiese le hanno condannate, i giornali ne hanno fatto bersaglio. E queste prove sono state gettate via con disprezzo. Quello è stato l’ultimo e più grave errore dell’umanità.”  
+Ora il pubblico ascoltava attentamente. Le speculazioni generali andavano oltre la loro capacità di comprensione. Ma quelle parole erano chiare e comprensibili per tutti. Si levò un mormorio di simpatia, seguito da applausi.
+“La situazione ormai era senza speranza. Era completamente fuori controllo. Pertanto era necessario un intervento più deciso, poiché il dono del Cielo era stato ignorato. Il colpo arrivò: dieci milioni di giovani uomini morirono sul campo; il doppio di loro rimase mutilato. Quello fu il primo avvertimento di Dio all’umanità. Ma fu vano. Lo stesso torpido materialismo prevalse come prima. Furono concessi anni di grazia, ma a parte i segni di risveglio spirituale in chiese come queste, non si notò alcun cambiamento. Le nazioni accumularono nuovi peccati. E il peccato deve sempre essere espiato. La Russia divenne un luogo di corruzione; la Germania non si pentì del suo terribile materialismo, che era stata la principale causa della guerra; Spagna e Italia sprofondarono nell’ateismo e nella superstizione; la Francia non aveva alcun ideale religioso; la Gran Bretagna era confusa e divisa da sette prive di vera vitalità; l’America aveva sprecato le sue splendide opportunità. Invece di essere il fratello minore amorevole per un’Europa in difficoltà, ostacolò ogni tentativo di ricostruzione economica con le sue richieste finanziarie; disonorò persino la firma del proprio presidente e rifiutò di aderire alla Lega della Pace, che rappresentava l’unica speranza per il futuro.”
+Tutti hanno peccato, ma alcuni più di altri, e la loro punizione sarà proporzionata esattamente ai loro peccati.
+“E quella punizione arriverà presto. Queste sono esattamente le parole che mi è stato chiesto di comunicarvi. Le ho lette per non alterarle in alcun modo.”  
+Tirò fuori un foglietto di carta dalla tasca e lesse:  
+“‘Quello che vogliamo non è che la gente abbia paura, ma che inizi a cambiare se stessa, a svilupparsi su binari più spirituali. Non cerchiamo di farle agitare, ma di prepararci finché c’è ancora tempo. Il mondo non può continuare come ha fatto fino ad ora; altrimenti si distruggerà. Soprattutto dobbiamo eliminare quella nube oscura della teologia che si è frapposta tra l’umanità e Dio.’”  
+Ripiegò il foglietto e lo rimise in tasca. “Ecco ciò che mi è stato chiesto di dirvi. Diffondete questa notizia ovunque sembri esserci una possibilità di raggiungere le persone nel profondo del loro cuore. Dite loro: ‘Ripentite! Riformatevi! Il momento è giunto.’”  
+Fece una pausa, come se stesse per andarsene. Ma il “incantesimo” era rotto. Il pubblico iniziò a muoversi e ad appoggiarsi allo schienale delle sedie. Poi una voce dal fondo:  
+“È forse la fine del mondo, signore?”  
+“No,” rispose l’estraneo, brevemente.  
+“È la Seconda Venuta?” chiese un’altra voce.  
+“Sì.”
+Con passi leggeri e veloci si fece strada tra le sedie presenti sulla piattaforma e si fermò vicino alla porta. Quando Malone guardò di nuovo intorno, lui era già scomparso.  
+“È uno di quei fanatici del ‘Ritorno’,” mormorò a Enid. “Ne ci sono molti: i Christadelphians, i Russellites, gli Studenti della Bibbia e simili. Ma lui era davvero impressionante.”  
+“Molto,” disse Enid.
+“Siamo sicuramente molto interessati a ciò che il nostro amico ci ha raccontato”, disse il presidente. “Il signor Miromar condivide appieno i nostri ideali, anche se non si può dire che appartenga effettivamente al nostro movimento. Sono certo che sarà sempre benvenuto nelle nostre riunioni. Per quanto riguarda la sua profezia, a mio parere il mondo ha già abbastanza problemi senza doverne aspettare altri. Se è vero ciò che dice il nostro amico, non possiamo fare molto per risolverli. Possiamo solo svolgere le nostre attività quotidiane al meglio e attendere con piena fiducia l’aiuto che verrà dall’alto. E se domani dovesse arrivare il Giorno del Giudizio, ”, aggiunse sorridendo, “intanto mi occuperò della mia bottega di Hammersmith. Ora continueremo con la cerimonia.”
+Ci fu un appello energico per raccogliere fondi, e il giovane segretario parlò molto del fondo per la costruzione. “È una vergogna pensare che, di domenica sera, ci siano più soldi per le strade che nell’edificio stesso. Tutti noi diamo il nostro contributo. Nessuno riceve nemmeno un penny. La signora Debbs è qui soltanto per coprire le sue spese essenziali. Ma abbiamo bisogno di altri mille sterline prima di poter iniziare. C’è addirittura un fratello che ha ipotecato la sua casa per aiutarci. È questo lo spirito che vince. Ora vediamo cosa possiate fare per noi stasera.”  
+Dodici piatti da zuppa furono passati in giro, e si cantò un inno accompagnati dal suono delle monete che venivano messe dentro. Enid e Malone conversavano a bassa voce.
+“Il professor Summerlee è morto, sa, a Napoli l’anno scorso.”  
+“Sì, me lo ricordo bene.”  
+“E ‘il vecchio C’ era, naturalmente, suo padre, ”  
+“È stato davvero straordinario, ”  
+“Povero vecchio Summerlee. Pensava che la sopravvivenza fosse un’assurdità. Eppure eccolo qui, ”
+Le scodelle per la zuppa furono restituite; purtroppo contenevano principalmente zuppa marrone, e vennero posate sul tavolo dove lo sguardo attento della segretaria ne valutò il valore. Poi quell’uomo piccolo e peloso dall’Australia pronunciò una benedizione, nello stesso modo semplice con cui aveva recitato la preghiera iniziale. Non c’era bisogno di successione apostolica né di riti particolari per far sentire che le sue parole provenivano da un cuore umano e potevano facilmente raggiungere anche quello divino. Allora il pubblico si alzò e cantò l’inno d’addio finale: un inno con una melodia incantevole e un ritornello triste ma dolce che recitava “Dio ti protegga fino al nostro prossimo incontro”. Enid rimase sorpresa nel sentire le lacrime scorrerle sulle guance. Queste persone sincere e semplici, con i loro metodi diretti, avevano avuto su di lei un effetto maggiore di tutte le solennità e la musica maestosa della cattedrale.  
+Il signor Bolsover, il presidente robusto, si trovava nell’atrio, così come la signora Debbs.  
+“Beh, immagino che ora ci dirai cosa ne pensi,” disse ridendo. “Siamo abituati, signor Malone. Non ci dispiace. Ma vedrai tu stesso cosa succederà: questi articoli potrebbero rivelarsi contro di te.”  
+“Vi assicuro che li tratterò con equità,” rispose lui.
+“Bene, non chiediamo altro,” disse la medium appoggiandosi con il gomito al caminetto, con un'espressione austera e distaccata.  
+“Temo che siate stanca,” osservò Enid.  
+“No, signorina. Non mi stanco mai nel compiere il lavoro del popolo degli spiriti. Loro si occupano di tutto.”
+“Posso chiedervi,” osò dire Malone, “se avete mai conosciuto il professor Summerlee?”  
+La medium scosse la testa. “No, signore, no. Tutti pensano sempre che io li conosca. In realtà non ne conosco nessuno; vengono da me e io li descrivo.”  
+“Come ricevete i messaggi?”  
+“Per chiaroveggenza. Li sento continuamente. Quei poveretti vogliono tutti comunicare con noi. Mi tirano, mi tormentano, ‘Io per primo! Io!’ È quello che sento. Faccio del mio meglio, ma non riesco a gestirli tutti.”  
+“Potete dirmi qualcosa su quella persona profetica?” chiese Malone al presidente. Il signor Bolsover alzò le spalle con un sorriso scettico.  
+“È un individuo indipendente. Lo vediamo di tanto in tanto, come una sorta di cometa che passa nel nostro cielo. A proposito, mi viene in mente che abbia predetto la guerra. Io sono una persona pragmatica: basta il male del presente. Abbiamo abbastanza denaro contante, senza bisogno di prevedere il futuro. Bene, buonanotte! Trattateci nel miglior modo possibile.”  
+“Buonanotte,” disse Enid.  
+“Buonanotte,” disse la signora Debbs. “A proposito, giovane signorina, anche voi siete una medium. Buonanotte!”  
+E così si ritrovarono di nuovo in strada, respirando a pieni polmoni l’aria fresca della notte. Era deliziosa, dopo quella sala affollata. Un minuto dopo si trovarono nel traffico intenso di Edgware Road; Malone chiamò un taxi per tornare ai Victoria Gardens.
+
 
 
 <span class="atom-split" data-atom="story_03_in_which_professor_challenger_gives_his" data-title="THE LAND OF MIST — In Which Professor Challenger Gives His Opinion" data-chapter="In Which Professor Challenger Gives His" data-kind="story" data-tags="character/professor_challenger"></span>
@@ -2524,6 +2760,53 @@ Atkinson shrugged his shoulders.
 “I daresay they all take the line of least resistance. I can only say that I have never detected him in fraud. You must judge for yourself.”
 “I will,” said Malone. “I am getting hot on this trail. And there is copy in it, too. When things are more easy I’ll write to you, Atkinson, and we can go more deeply into the matter.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+3. In cui il [[Professor Challenger|Professore Challenger]] esprime la sua opinione  
+Enid era già salita in taxi e Malone stava per seguirla quando qualcuno chiamò il suo nome; un uomo corse giù per la strada. Era alto, di mezza età, attraente e ben vestito, con il viso rasato e l’aria sicura di sé tipica di un chirurgo di successo.  
+“Ehi, Malone! Fermati!”  
+“Ma è Atkinson! Enid, lascia che ti presenti: questo è il signor Atkinson di St. Mary’s, di cui ho parlato a tuo padre. Possiamo darvi un passaggio? Stiamo andando verso Victoria.”  
+“Fantastico!” Il chirurgo li seguì nel taxi. “Sono rimasto sorpreso di vedervi a una riunione di spiritisti, ”  
+“Eravamo lì per motivi professionali. Sia io che la signorina Challenger lavoriamo nel campo della stampa.”  
+“Oh, davvero! Immagino al Daily Gazette, come prima. Beh, avrete un nuovo lettore: vorrò sicuramente leggere cosa ne pensate dello spettacolo di stasera.”  
+“Dovrete aspettare fino a domenica prossima. È solo l’inizio di una serie.”  
+“Oh, non posso aspettare così a lungo. Cosa ne avete pensato?”  
+“Onestamente non lo so ancora. Dovrò leggere attentamente le mie note e rifletterci sopra, confrontando le mie impressioni con quelle della mia collega qui presente. Lei ha un’intuizione particolare, che è molto importante in questioni religiose, ”  
+“E qual è la sua intuizione, signorina Challenger?”  
+“Buona, davvero buona! Ma, mio Dio, che miscela straordinaria, ”  
+“Sì, proprio. Sono stato lì diverse volte e ogni volta ho avuto le stesse impressioni contrastanti: alcune cose sono ridicole, altre potrebbero essere disoneste. Eppure altre ancora sono chiaramente meravigliose.”  
+“Ma lei non lavora nel campo della stampa. Perché era lì?”  
+“Perché mi interessa molto. Sono uno studioso di fenomeni psichici da diversi anni. Non sono convinto al cento percento, ma sono interessato. E ho abbastanza buon senso per capire che, anche se sembro giudicare questi argomenti, in realtà è forse loro a “giudicarmi”, ”  
+Malone annuì in segno di approvazione.  
+“È davvero un fenomeno enorme. Ne renderete conto man mano che ne studierete più a fondo. Sono praticamente una serie di argomenti importanti racchiusi in uno solo. E tutto questo è nelle mani di queste persone semplici e umili, che, nonostante ogni tipo di scoraggiamento e perdita personale, hanno continuato a perseguire questa causa per più di settant’anni. È davvero molto simile all’ascesa del Cristianesimo: inizialmente era gestito da schiavi e subordinati, ma poi si è gradualmente diffuso. Ci sono voluti trecento anni tra il momento in cui Cesare era uno schiavo e quello in cui ottenne la libertà, ”  
+“Ma il predicatore!” esclamò Enid in protesta.  
+Il signor Atkinson rise.  
+“Intendi il nostro amico dall’Atlantide. Che noia terribile quell’uomo! Ammetto di non capire cosa si possa pensare di spettacoli del genere. Penso sia solo autoinganno, o l’emergere temporaneo di tratti della personalità che vengono espressi in questo modo. L’unica cosa di cui sono sicuro è che non si tratta davvero di un abitante dell’Atlantide. Bene, siamo arrivati!”
+“Devo consegnare questa giovane donna sana e salva a suo padre,” disse Malone. “Ascolta bene, Atkinson: non lasciarci. Il Professor vorrebbe davvero incontrarti.”  
+“A quest’ora? Ma mi getterebbe giù dalle scale, ”  
+“Hai sentito solo storie,” disse Enid. “In realtà non è così grave. Alcune persone lo infastidiscono, ma sono sicura che tu non sei una di loro. Non vuoi provare?”  
+“Con un incoraggiamento del genere, certamente.” E i tre scesero il corridoio illuminato verso l’ascensore. Challenger, ora vestito con una veste da camera blu brillante, li aspettava con impazienza. Guardò Atkinson come un bulldog pronto a combattere. Ma dopo averlo esaminato attentamente, ringhiò dicendo di essere felice di incontrarlo.  
+“Ho sentito parlare di te, signore. E della tua crescente reputazione. La tua operazione dello scorso anno ha suscitato molta attenzione, mi pare. Ma hai anche studiato quegli individui considerati ‘pazzi’?”  
+“Beh, se li chiami così, ” rispose Atkinson ridendo.  
+“Mio Dio. Che altro potrei chiamarli? Ricordo che il mio giovane amico qui, ” (Challenger alludeva sempre a Malone come se fosse un ragazzo promettente di dieci anni, ) “mi ha detto che stavi studiando l’argomento, ” Rise in modo offensivo. “‘Lo studio vero dell’umanità sono gli spettri’, eh, signor Atkinson?”  
+“Mio padre non ne sa davvero nulla. Quindi non offendersi con lui,” disse Enid. “Ma ti assicuro che sarebbe interessato, ” E iniziò a raccontare le loro avventure, interrotta di tanto in tanto dai gemiti, dai grugniti e dalle risate derisorie degli altri presenti. Solo quando arrivò al racconto dell’episodio con Summerlee, l’indignazione e il disprezzo di Challenger non poterono più essere trattenuti. Un fiume di parole velenose si riversò sui suoi ascoltatori.  
+“Quei maledetti furfanti!” gridò. “Pensare che non permettano al povero vecchio Summerlee di riposare in pace nella sua tomba. Avevamo delle divergenze ai suoi tempi, e devo ammettere che ero costretto ad avere una visione moderata della sua intelligenza. Ma se tornasse dalla tomba, sicuramente avrebbe qualcosa di interessante da dirci. È assurdo. Un’assurdità malvagia e indecente. Mi oppongo che un mio amico venga usato come burattino per il divertimento di una folla di idioti. Non hanno riso! Devono aver riso quando hanno sentito un uomo istruito, un uomo con cui ho avuto rapporti paritari, parlare simili sciocchezze. Dico che erano sciocchezze. Non contraddirmi, Malone. Non lo permetterò! Il suo messaggio potrebbe essere stato solo l’epilogo di una lettera scritta da una studentessa. Non è forse assurdo, provenendo da una fonte del genere? Non sei d’accordo anche tu, signor Atkinson? No. Mi aspettavo di meglio da te, ”  
+“Ma quella descrizione, ”
+“Mio Dio, dove avete la testa? Non è forse vero che i nomi di Summerlee e Malone sono stati associati al mio in qualche assurda e debole finzione che ha ottenuto una certa notorietà? Non è anche noto che voi due innocenti partecipavate settimana dopo settimana alle riunioni dei spiritualisti? Era evidente che, prima o poi, sareste arrivati a una di queste riunioni. Ecco qui l’occasione perfetta per farvi convertire! Hanno messo in atto un trucco e povero vecchio Malone ci è cascato dentro. Eccolo qui, con l’amo ancora conficcato nella bocca. Oh sì, Malone: bisogna parlare chiaro, e lo faremo.” La folta barba nera del Professor si agitava mentre i suoi occhi lampeggiavano, passando da un membro del gruppo all’altro.  
+“Beh, vogliamo che venga espressa ogni opinione,” disse Atkinson.  
+“Sembra proprio che lei sia molto qualificato, signore, per esprimere quelle negative. Allo stesso tempo, vorrei ripetere le parole di Thackeray: a un oppositore, egli disse: ‘Quello che dici è naturale, ma se avessi visto ciò che ho visto io, forse cambieresti opinione’. Forse un giorno avrete l’opportunità di esaminare la questione da vicino. La vostra alta posizione nel mondo scientifico darebbe grande peso alle vostre parole.”
+“Se ho raggiunto una posizione elevata nel mondo scientifico, come dite voi, è perché mi sono concentrato su ciò che è utile e ho scartato tutto ciò che è vago o assurdo. Il mio cervello, signore, non si sofferma sulle cose superflue; va direttamente al cuore del problema. Ed è proprio così che ha individuato le frodi e le follie.”  
+“Entrambe le cose esistono, a volte,” disse Atkinson, “eppure, eppure! Ah, beh, Malone, sono ancora lontano da casa e è tardi. Vi scuso, Professore. È un onore avervi conosciuto.”  
+Anche Malone stava per andarsene; i due amici chiacchierarono ancora qualche minuto prima di separarsi: Atkinson si diresse verso Wimpole Street, mentre Malone tornò a South Norwood, dove ora viveva.  
+“Che bravo vecchio!” disse Malone ridendo. “Non dovreste mai offendervi con lui. Non intende far del male; è davvero meraviglioso.”  
+“Certo che lo è. Ma se c’è qualcosa che potrebbe convincermi definitivamente ad essere uno Spiritualista, è proprio questo tipo di intolleranza. È molto comune, anche se di solito si esprime più attraverso un sorriso ironico che con grida rumorose. A me piace di più il secondo modo. Comunque, Malone, se desiderate approfondire l’argomento, forse posso aiutarvi. Avete mai sentito parlare di Linden?”
+“Linden, il medium professionista. Sì, mi è stato detto che sia il più grande farabutto mai esistito.”  
+“Ah, beh, di solito si parla di loro in questo modo. Dovrai giudicarlo tu stesso. L’ultima inverno gli ho rotto il ginocchio e io l’ho rimesso a posto; da allora c’è un legame di amicizia tra noi. Non è sempre facile trovarlo. E naturalmente, una piccola tariffa – credo una ghinea – è abituale. Ma se volessi un colloquio con lui, potrei organizzarlo.”  
+“Pensi che sia sincero?”  
+Atkinson alzò le spalle.  
+“Beh, suppongo che tutti scelgano la strada più facile. Posso solo dire che non ho mai notato nulla di fraudolento in lui. Dovrai giudicarlo tu stesso.”
+“Lo farò,” disse Malone. “Sto iniziando a intravedere qualcosa su questa pista. E ci sono anche informazioni concrete. Quando le cose saranno più semplici, ti scriverò, Atkinson, e potremo approfondire ulteriormente la questione.”
 
 
 
@@ -2979,6 +3262,186 @@ Mr. Atkinson found himself near the psychic researchers.
 “Of course they are. It’s quite physiological. They are are a body of elderly men, and the elderly brain is sclerosed and cannot record new impressions. It’s not their fault, but the fact remains. You are very silent, Malone.” But Malone was thinking of a little, squat, dark figure which waved its hands in joy when he spoke to it. It was with that image in his mind that he turned from this room of wonders and passed down into the street.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+5. Dove i nostri commissari hanno un’esperienza notevole  
+Malone sedeva al tavolino laterale della sala fumatori del Literary Club. Aveva davanti a sé le impressioni di Enid riguardo alla seduta spiritica: molto sottili e osservatrici. E cercava di integrarle nella propria esperienza personale. Un gruppo di uomini chiacchierava e fumava intorno al fuoco; questo non disturbava il giornalista, che, come molti altri, trovava che la sua mente e la sua penna funzionassero meglio quando erano stimolate dal fatto di far parte di un mondo dinamico. Tuttavia, qualcuno, notando la sua presenza, iniziò a parlare di argomenti legati al mondo psichico. E allora divenne più difficile per lui rimanere distaccato. Si appoggiò allo schienale della sedia e ascoltò.  
+C’era lì anche Polter, il famoso romanziere: un uomo brillante, ma con una mente troppo sofisticata che spesso lo portava ad evitare la verità evidente o a difendere posizioni impossibili solo per il gusto della dialettica vuota. In quel momento stava parlando davanti a un pubblico ammirativo, ma non del tutto sottomesso.
+“La scienza,” disse, “sta gradualmente liberando il mondo da tutte queste vecchie ragnatele di superstizione. Il mondo era come un vecchio attico polveroso. E il sole della scienza sta inondandolo di luce, mentre la polvere si deposita lentamente sul pavimento.”  
+“Con la scienza,” disse qualcuno in tono malizioso, “intendete sicuramente persone come Sir William Crookes, Sir Oliver Lodge, Sir William Barrett, Lombroso, Richet, e così via.”  
+Polter non era abituato a essere contraddetto. E di solito diventava scortese.  
+“No, signore. Non intendo nulla di così assurdo,” rispose, con uno sguardo minaccioso. “Nessun nome, per quanto eminente, può considerarsi rappresentante della scienza, finché appartiene a una minoranza insignificante di scienziati.”  
+“Allora è solo un pazzo,” disse Pollifex, l’artista che di solito prendeva le parti di Polter contro gli oppositori.
+L’oppositore, un certo Millworthy, giornalista freelance, non era facile da zittire.  
+“Allora Galileo era un pazzo ai suoi tempi. E Harvey era considerato un pazzo quando veniva deriso per la sua teoria sulla circolazione del sangue, ”  
+“Quello che è in gioco, in realtà, è il potere di certi giornali,” disse Marible, l’umorista del club. “Se riescono a realizzare i loro piani, non gliene importa nulla della verità, ”  
+“Non capisco proprio perché queste cose debbano essere esaminate, se non in un tribunale di polizia. È solo uno spreco di energie, una distrazione del pensiero umano verso direzioni senza senso. Abbiamo già abbastanza cose concrete e importanti da studiare. Lasciateci concentrarci sul nostro lavoro.”  
+Atkinson, il chirurgo, faceva parte del gruppo. E aveva ascoltato in silenzio. Ora parlò:  
+“Penso che le autorità accademiche dovrebbero dedicare più tempo allo studio dei fenomeni psichici, ”  
+“Meno,” disse Polter.
+“Il ‘nulla’ non può essere ancora ridotto di più. Loro li ignorano completamente. Qualche tempo fa ho avuto una serie di casi riguardanti rapporti telepatici che volevo presentare alla Royal Society. Anche il mio collega Wilson, lo zoologo, aveva un articolo che intendeva leggere. Sono entrati insieme nella sala delle riunioni: il suo articolo è stato accettato, il mio rifiutato. Il titolo del suo lavoro era ‘Il sistema riproduttivo del coleottero dung-beetle’.”  
+Ci fu un generale risate.  
+“Esattamente,” disse Polter. “Almeno il modesto coleottero dung-beetle esiste davvero. Tutta questa roba psichica, invece, non è che fantasia.”  
+“Non ho alcun [[Doubt|dubbio]] che le vostre opinioni siano basate su fondamenti solidi,” disse il malizioso Millworthy, un giovane gentile dal modo di parlare affabile. “Non ho molto tempo per la lettura seria. Quindi mi chiedevo quale dei tre libri del dottor Crawford riteniate il migliore.”  
+“Non ho mai sentito parlare di quell’uomo, ”  
+Millworthy simulò grande sorpresa.  
+“Mio Dio, ma è un’autorità in materia! Se cercate esperimenti scientifici rigorosi, quei libri sono proprio ciò che fa al caso vostro. Potreste anche stabilire delle leggi sulla zoologia, e ammettere di non aver mai sentito parlare di Darwin, ”  
+“Questo non è scienza,” disse Polter con fermezza.  
+“Quello che davvero non è scienza,” aggiunse Atkinson, con qualche calore, “è stabilire leggi su argomenti che non si sono nemmeno studiati. È proprio questo tipo di presunzione dogmatica che mi ha portato sull’orlo del [[Spiritualism|spiritualismo]]. Quando confronto questa ignoranza dogmatica con la ricerca sincera della verità condotta dai grandi spiritualisti. Molti di loro hanno impiegato vent’anni per giungere alle loro conclusioni, ”  
+“Ma quelle conclusioni sono inutili, perché si basano su opinioni preconcette, ”  
+“Ognuno di loro, invece, ha combattuto una lunga battaglia prima di formarsi quelle opinioni. Conosco alcuni di loro. E non c’è uno solo che non sia stato convinto con molta fatica, ” Polter alzò le spalle.  
+“Beh, possono tenersi i loro fantasmi, se questo li rende felici, purché lascino me a restare con i piedi per terra, ”  
+“O intrappolato nel fango,” disse Atkinson.  
+“Preferirei essere nel fango, tra persone sane, piuttosto che fluttuare nell’aria insieme ai pazzi,” rispose Polter. “Conosco alcuni di questi spiritualisti. E credo che si possano dividere equamente in idioti e truffatori, ”  
+Malone aveva ascoltato con interesse, poi, sempre più indignato, intervenne:  
+“Ascoltatemi bene, Polter. Sono proprio persone come voi a ostacolare il progresso del mondo. Ammettete di non aver letto nulla su queste questioni, e giuro che non ne avete nemmeno visto nulla. Eppure utilizzate la posizione e il nome che vi siete guadagnati in altri ambiti per diffamare persone che, qualunque cosa siano, sono sicuramente molto serie e molto riflessive, ”  
+“Oh, ” disse Polter. “Non immaginavo che arrivaste a questo punto. Non osate dire queste cose nei vostri articoli. Allora siete uno spiritualista. Il che, in un certo senso, scredita le vostre opinioni, non è vero?”
+“Non sono uno spiritualista, ma sono un investigatore onesto. E questo è più di quanto tu sia mai stato. Li chiami furfanti e sciocchi, ma, per quel poco che so, sono sicuro che alcuni di loro siano uomini e donne di cui non sei nemmeno degno di pulire le scarpe.”  
+“Oh, andiamo, Malone!” gridarono una o due voci, ma il offeso Polter si alzò in piedi. “Sono uomini come te a svuotare questo club,” esclamò mentre usciva. “Di certo non tornerò mai più qui ad essere insultato.”  
+“Bravo, Malone!”  
+“Avevo voglia di dargli un calcio. Perché dovrebbe calpestare i sentimenti e le credenze degli altri? Lui ha avuto successo, mentre la maggior parte di noi no. Quindi pensa di essere superiore venendo tra di noi.”  
+“Caro vecchio irlandese, ” disse Atkinson, dandogli una pacca sulla spalla. “Riposa, anima turbata. Ma volevo parlarti. In effetti, stavo aspettando qui perché non volevo interromperti.”  
+“Ne ho già avute abbastanza di interruzioni!” esclamò Malone. “Come posso lavorare con quel maledetto asino che grida continuamente nelle mie orecchie?”  
+“Beh, ho solo una cosa da dirti. Stasera ho un incontro al Psychic College con Linden, il famoso medium di cui ti ho parlato. Ho un biglietto in più. Vuoi venire con me?”
+“Come? Certo che dovrei!”  
+“Ho un altro biglietto. Avrei dovuto chiedere a Polter se non fosse stato così offensivo. A Linden non dispiacciono i scettici, ma detesta chi si burla delle persone. A chi dovrei chiederlo?”  
+“Faccia venire la signorina Enid Challenger. Lavoriamo insieme, sai.”  
+“Certo che sì. Le dirà lei?”  
+“Certamente.”  
+“È alle sette di stasera. Al Psychic College, laggiù a Holland Park.”  
+“Sì, conosco l’indirizzo. Bene, io e la signorina Challenger ci saremo sicuramente.”
+Ecco dunque la coppia impegnata in una nuova avventura psichica. Presero Atkinson in Wimpole Street e poi attraversarono quella lunga, frenetica e caotica strada della grande città che si estende da Oxford Street fino a Bayswater, passando per Notting Hill e le imponenti case vittoriane di Holland Park. Fu davanti a una di queste case che il taxi si fermò: un edificio grande e maestoso, leggermente ritirato rispetto alla strada. Una cameriera elegante li fece entrare; la luce soffusa dell’abat-jour illuminava il linoleum lucido, i mobili levigati e le statue di marmo bianco nell’angolo. Le percezioni sensoriali di Enid le rivelarono che si trattava di un luogo ben gestito e arredato con cura, sotto la guida di una persona competente. Questa persona era una gentile signora scozzese che li accolse nell’atrio e salutò Mr. Atkinson come un vecchio amico. A sua volta, lei fu presentata ai giornalisti come Mrs. Ogilvy. Malone aveva già sentito parlare di come lei e suo marito avessero fondato e gestito questo straordinario istituto, che rappresentava il centro principale degli esperimenti psichici a [[London|Londra]], a un costo enorme, sia in termini di lavoro che di denaro.
+“Linden e sua moglie sono andati di sopra,” disse la signora Ogilvy. “Sembra che ritengano le condizioni favorevoli. Gli altri sono in salotto. Non vuoi unirti a loro per qualche minuto?”
+Un numero considerevole di persone si era radunato per la seduta spiritica: alcuni erano vecchi studenti di fenomeni psichici, interessati solo in modo superficiale; altri erano principianti che guardavano intorno con occhi sorpresi, chiedendosi cosa sarebbe successo dopo. Vicino alla porta c’era un uomo alto; si girò e mostrarono la sua barba castana e il suo viso aperto: era Algernon Mailey. Strinse la mano ai nuovi arrivati.  
+“Un’altra esperienza, signor Malone? Beh, pensavo che avesse descritto molto chiaramente l’ultima volta. È ancora un neofita, ma è già sulla soglia del tempio dello spirito. È spaventata, signorina Challenger?”  
+“Non credo che possa esserlo, con lei presente,” rispose lei.  
+Lui rise. “Certo. Una seduta di materializzazione spiritica è un po’ diversa dalle altre. In un certo senso, più impressionante. Troverà molto istruttiva, Malone: riguarda infatti la fotografia psichica e altri argomenti simili. A proposito, dovrebbe provare a realizzare una foto spiritica. La famosa Hope lavora al piano di sopra.”  
+“Ho sempre pensato che si trattasse di truffe, ”  
+“Al contrario. Direi che sia uno dei fenomeni più concreti e verificabili. Quello che lascia le prove più permanenti. Sono stato presente una dozzina di volte, in tutte le condizioni possibili. Il vero problema non è che possa essere sfruttato a fini fraudolenti. Ma che possa essere manipolato da quel giornalismo meschino e interessato solo alle sensazioni, ”  
+“Conosce qualcuno qui?”  
+“No. Non conosciamo nessuno.”  
+“Quella donna alta e bella è la Duchessa di Rossland. Poi ci sono Lord e Lady Montnoir, quella coppia di mezza età vicino al camino. Persone genuine e tra le poche dell’aristocrazia che hanno dimostrato sincerità e coraggio in questa materia. Quella donna loquace è la signorina Badley. Vive per le sedute spiritiche. Una donna del bel mondo stancata delle solite cose, alla ricerca di nuove emozioni. Non sa nulla. L’uomo con gli occhiali a cerchio è un individuo presuntuoso di nome Weatherby. Si aggira ai margini dei movimenti massonici, parlando di misteri che in realtà non lo sono affatto. Lo spiritualismo, con i suoi misteri veri e terribili, per lui è qualcosa di volgare. Perché offre conforto alla gente comune. Ma a lui piace leggere articoli sui riti antichi scozzesi e su figure come Bafometto. Eliphas Levi è il suo profeta, ”  
+“Sembra davvero molto erudito,” disse Enid.
+“Il tutto è piuttosto assurdo. Ma ehi! Ecco qui degli amici in comune.” I due Bolsover erano arrivati, molto accaldati e sorridenti. Non esiste nulla di meglio dello [[Spiritualism|spiritualismo]] per eliminare le barriere sociali: la donna con poteri psichici è superiore al milionario che ne è privo. I Bolsover e gli aristocratici si intesero immediatamente. La duchessa stava appena chiedendo di essere ammessa nel circolo dei commercianti, quando entrò di fretta la signora Ogilvy.  
+“Penso che ora tutti siano qui,” disse. “È tempo di salire al piano di sopra.”  
+La sala per le sedute spiritiche era una stanza ampia e confortevole al primo piano, con un cerchio di poltrone e un divano coperto da tende che fungeva da armadio. Il medium e sua moglie li aspettavano lì. Il signor Linden era un uomo gentile, dall’aspetto robusto, con occhi azzurri sognanti e capelli biondi ricciuti; aveva una corporatura media. Sua moglie era più giovane, con un’espressione stanca tipica di chi si occupa delle faccende domestiche, ma i suoi occhi diventavano dolci quando guardava il marito. Il suo compito era spiegare tutto e proteggere gli interessi del medium quando questi era in stato di trance.  
+“È meglio che ognuno si sieda al proprio posto,” disse il medium. “Se possibile, mescolate i sessi. Non incrociate le ginocchia: romperebbe la corrente energetica. Se dovesse verificarsi una materializzazione, non cercate di afferrarla: potreste ferirmi.”  
+I due investigatori della Società di Ricerca si scambiarono uno sguardo complice. Mailey osservò: “Esatto. Ho visto due casi in cui il medium ha subito emorragie gravi proprio a causa di questo.”  
+“Perché?” chiese Malone.  
+“Perché l’ectoplasma utilizzato proviene dal medium stesso; quando si ritira, si riprende su di lui come una molla che si spezza. Se passa attraverso la pelle, lascia dei lividi; se attraversa le mucose, causa sanguinamenti.”  
+“E se non proviene da nessuna parte, niente succede,” disse il ricercatore con un sorriso.  
+“Spiegherò brevemente la procedura,” disse la signora Ogilvy quando tutti si furono seduti. “Il signor Linden non entra affatto nell’armadio; rimane fuori e, poiché tollera la luce rossa, potrete constatare che non lascia mai il suo posto. La signora Linden è dall’altra parte: lei regola le procedure e fornisce spiegazioni. Prima di tutto, vi invitiamo a esaminare l’armadio. Uno di voi dovrebbe anche chiudere la porta dall’interno e tenerne la chiave.”  
+L’armadio si rivelò essere semplicemente una struttura fatta di tende appese, separata dal muro e posizionata su un piedistallo solido. I ricercatori lo esaminarono attentamente; tutto sembrava solido.  
+“A che scopo serve?” sussurrò Malone a Mailey.  
+“Serve da serbatoio e luogo di condensazione per il vapore ectoplasmatico emesso dal medium; altrimenti si diffonderebbe per tutta la stanza.”  
+“È noto che possa avere anche altri usi,” aggiunse uno dei ricercatori, che aveva sentito la conversazione.
+“È vero,” disse Mailey in tono filosofico. “Sono assolutamente a favore della prudenza e della supervisione.”  
+“Beh, sembra davvero impossibile che ci siano truffe in questa occasione, se il medium si trova fuori dalla tenda,” concordarono entrambi i ricercatori.  
+Il medium era seduto da un lato della piccola tenda, sua moglie dall’altro. La luce era spenta; solo una piccola lampada rossa appesa al soffitto bastava a permettere di vedere chiaramente le sagome delle persone presenti. Man mano che gli occhi si abituavano all’oscurità, si riuscivano anche a notare alcuni dettagli.  
+“Il signor Linden inizierà con alcune letture di chiaroveggenza,” disse la signora Linden. Il suo atteggiamento – seduta accanto al tavolo con le mani in grembo, con l’aria di chi si sente padrona della situazione – fece sorridere Enid, che pensò alla signora Jarley e alle sue sculture di cera.  
+Linden, che non era in stato di trance, iniziò a fornire informazioni attraverso la chiaroveggenza. Ma i risultati non erano molto buoni. Forse l’influenza combinata di tante persone diverse presenti nelle vicinanze era troppo perturbante. Questa fu l’excusa che si diede quando alcune delle sue descrizioni non furono riconosciute. Tuttavia, Malone rimase ancora più scioccato da quelle descrizioni che invece vennero riconosciute, poiché era evidente che qualcuno stava “imponendo” le parole al medium. Era la follia dei partecipanti, non colpa del medium, ma comunque molto inquietante.  
+“Vedo un giovane con occhi marroni e una barba piuttosto cascante, ”  
+“Oh, caro, sei tornato!” esclamò la signorina Badley. “Ha qualche messaggio per noi?”  
+“Ci manda il suo affetto, e non ci ha dimenticati.”  
+“Oh, quanto è evidente! È proprio quello che quel caro ragazzo avrebbe detto. Il mio primo amore, sapete, ” aggiunse lei, con voce civettuosa.  
+Linden continuò con altre descrizioni. Ma Malone ed Enid erano entrambi piuttosto scossi. Anche Mailey sembrava a disagio.  
+“Non è buono, ”, sussurrò a Enid. “Aspetta un attimo, probabilmente arriverà qualcosa di meglio.”  
+Ci furono ancora alcune descrizioni corrette. Poi qualcuno che assomigliava a Summerlee fu descritto da Linden. Ma Malone decise saggiamente di ignorare questa informazione, poiché forse Linden si trovava tra il pubblico durante quella precedente sessione. A suo parere, l’esibizione della signora Debbs era molto più convincente di quella di Linden.  
+“Aspettate un attimo!” ripeté Mailey.  
+“Ora il medium proverà a ottenere manifestazioni fisiche,” disse la signora Linden. “Se le figure appariranno, vi chiedo di non toccarle, a meno che non vi venga chiesto esplicitamente. Victor vi dirà se potete farlo. Victor è colui che controlla il medium.”  
+Il medium si sistemò sulla sedia e iniziò a respirare profondamente, emettendo suoni simili a fischi attraverso le labbra. Alla fine sembrò cadere in un sonno profondo. Poi improvvisamente parlò. La sua voce era più chiara e modulata di prima.  
+“Buonasera a tutti!” disse.
+C’era un mormorio generale di “Buonasera, Victor”.  
+“Temo che le vibrazioni non siano molto armoniose. C’è un certo elemento scettico, ma penso che non sia predominante; quindi possiamo sperare in risultati positivi. Martin Lightfoot sta facendo del suo meglio”.  
+“Quello è il controllo indiano”, sussurrò Mailey.  
+“Penso che se mettessimo in funzione il grammofono sarebbe utile. Un inno è sempre la scelta migliore, anche se non ci sono obiezioni alla musica secolare. Dica lei cosa ritiene più appropriato, signora Ogilvy”.  
+Si udì il rumore stridulo di un ago che ancora non aveva trovato le sue scanalature. Poi iniziò a suonare “Lead, Kindly Light”; il pubblico si unì al canto in modo sommesso. La signora Ogilvy cambiò poi la registrazione in “O, God, our help in ages past”.  
+“Spesso cambiano loro stessi i dischi”, disse la signora Ogilvy, “ma stasera non c’è abbastanza energia. Oh sì, c’è abbastanza energia, signora Ogilvy. Ma vogliamo risparmiarla tutta per le prossime manifestazioni. Martin dice che stanno andando molto bene”.  
+In quel momento la tenda davanti al cabinet iniziò a muoversi; sembrava che ci fosse un forte vento dietro di essa. Tutti coloro che erano nel cerchio sentirono una brezza fresca, “Fa davvero freddo”, sussurrò Enid, rabbrividendo.  
+“Non è una sensazione soggettiva”, rispose Mailey. “Il signor Harry Price l’ha verificato con misurazioni termometriche. Anche il professor Crawford lo ha fatto”.  
+“Oh mio Dio!”, esclamò qualcuno, sorpreso. La tenda si era aperta e una figura umana era uscita silenziosamente. Si vedeva chiaramente la sagoma di una donna anziana. E accanto a lei, la signora Linden. E tra loro, quella piccola figura nera, esitante, che sembrava terrorizzata. La signora Linden la rassicurò: “Non avere paura, cara. Va tutto bene. Nessuno ti farà del male”.  
+“È qualcuno che non ha mai vissuto questa esperienza prima. Naturalmente le sembra molto strana. Proprio come se noi fossimo entrati nel loro mondo. Bene, cara. Stai prendendo forza. Ottimo lavoro!”  
+La figura iniziò a muoversi verso di loro. Tutti rimasero immobili, con gli occhi fissi. La signorina Badley iniziò a ridere istericamente. Weatherby si appoggiò allo schienale della sedia, ansimando per l’orrore. Nessuno dei presenti provava paura. Ma erano tutti pieni di curiosità. Che meraviglia ascoltare il rumore quotidiano della vita fuori e trovarsi di fronte a una scena del genere.
+La figura si avvicinò lentamente a Enid. Si chinò, e la sua silhouette divenne ancora più chiara. Era quella di una donna anziana, con lineamenti netti e decisi, “È Susan!”, esclamò la signora Bolsover. “Oh, Susan. Non mi riconosci?”  
+La figura si girò e annuì.
+“Sì, è tua sorella Susie. Non l’avevo mai vista vestita altro che di nero. Susan, parla con noi!”
+La testa fu scossa.  
+“Raramente parlano la prima volta che vengono,” disse la signora Linden; il suo tono piuttosto distaccato e pratico contrastava con l’intensa emozione che regnava nella stanza. “Temo che non riesca a resistere a lungo. Ah, eccola! È scomparsa!”  
+La figura era svanita. C’era stata una sorta di movimento verso il mobile, ma agli osservatori sembrò che si fosse dissolta nel nulla prima ancora di raggiungerlo. Comunque, era sparita.  
+“Gramofono, per favore!” disse la signora Linden. Tutti si rilassarono e si appoggiarono allo schienale con un sospiro di sollievo. Il grammofono iniziò a suonare una melodia vivace. All’improvviso le tende si aprirono e apparve un’altra figura.  
+Era una giovane ragazza, con i capelli lunghi che le scendevano lungo la schiena. Si avvicinò rapidamente e con grande sicurezza al centro del cerchio.  
+La signora Linden sorrise soddisfatta.  
+“Ora vedrete qualcosa di interessante,” disse. “Ecco Lucille.”  
+“Buonasera, Lucille!” esclamò la duchessa. “Ci siamo incontrate lo scorso mese, ricorderete, quando il vostro medium è venuto a Maltraver Towers.”
+“Sì, sì, signora, mi ricordo di voi. Avete un bambino piccolo, Tommy, nel nostro mondo. No, no, non è morto! Siamo molto più vivi di voi. Tutta la gioia e i divertimenti sono con noi!” Parlava con una voce alta e chiara, in perfetto inglese. “Volete che vi mostri cosa facciamo qui?” Iniziò a ballare con grazia, mentre suonava il flauto con una melodia così dolce da sembrare quella di un uccello, “Povera Susan. Lei non aveva mai avuto l’occasione di imparare. Lucille, invece, sa come utilizzare il proprio corpo, ” “Vi ricordate di me, Lucille?” chiese Mailey. “Mi ricordo di voi, signor Mailey. Quell’uomo alto con la barba gialla, ”
+Per la seconda volta nella sua vita, Enid dovette pizzicarsi forte per convincersi di non stare sognando. Quella creatura aggraziata, che ora si era seduta al centro del cerchio, era davvero una materializzazione di ectoplasma utilizzata in quel momento come strumento di espressione da un’anima defunta, o era solo un’illusione dei sensi, o addirittura una truffa? Esistevano queste tre possibilità. Un’illusione sembrava assurda quando tutti avevano la stessa impressione. Era forse una truffa? Ma quella non poteva certo essere la vecchietta di sempre: era molto più alta e aveva i capelli biondi, non scuri. Inoltre, il “cassone” in cui si trovava era impossibile da falsificare; era stato esaminato con attenzione. Quindi doveva essere vero. Ma se era vero, quali possibilità si aprivano davanti a loro. Non era forse la cosa più straordinaria che il mondo potesse mai conoscere?  
+Nel frattempo, Lucille si comportava in modo così naturale e la situazione sembrava così normale che anche i più nervosi si erano rilassati. La ragazza rispondeva alle domande con grande allegria, “Dove hai vissuto, Lucille?”
+“Forse sarebbe meglio che rispondessi io,” intervenne la signora Linden. “Così si risparmierà energia. Lucille è nata nel South Dakota, negli Stati Uniti, ed è morta all’età di quattordici anni. Abbiamo verificato alcune delle sue affermazioni.”  
+“Sei contenta di essere morta, Lucille?”  
+“Contenta per me stessa. Mi dispiace per mia madre.”  
+“Tua madre ti ha vista da allora?”  
+“Povera mamma. È come una scatola chiusa. Lucille non può aprirne il coperchio, ”  
+“Sei felice?”
+“Oh, sì, sono così felice, ”  
+“È davvero possibile tornare indietro?”  
+“Dio lo permetterebbe se non fosse giusto. Che uomo malvagio sei a chiederlo!”  
+“A quale religione appartenevi?”  
+“Eravamo cattolici romani.”  
+“È quella la religione giusta?”  
+“Tutte le religioni sono giuste se ti fanno diventare migliore.”  
+“Allora non importa, ”  
+“Ciò che conta è ciò che le persone fanno nella loro vita quotidiana, non ciò in cui credono, ”  
+“Raccontaci di più, Lucille, ”  
+“Lucille non ha molto tempo. Ci sono altre persone che desiderano venire qui. Se Lucille utilizza troppa energia, le altre ne avranno meno. Oh, Dio è così buono e gentile! Voi poveri sulla terra non sapete quanto sia buono e gentile. Ma questa oscurità esiste per il vostro bene. È un modo per darvi la possibilità di guadagnare tutte le cose meravigliose che vi aspettano. Solo quando venite qui potete capire quanto sia straordinario, ”  
+“L’hai visto?”  
+“Vederlo? Come si potrebbe vedere Dio. No, no. Lui è dappertutto intorno a noi, in noi e in tutto. Ma non lo vediamo. Tuttavia ho visto il Cristo. Oh, era così glorioso. Ora, addio, ” Si allontanò verso l’armadio e scomparve nell’oscurità.  
+In quel momento, per Malone ebbe inizio un’esperienza straordinaria: una donna piccola, scura e dall’aspetto robusto emerse lentamente dall’armadio. La signora Linden la incoraggiò, poi si avvicinò al giornalista.  
+“È per te. Puoi rompere il cerchio. Avvicinati a lei.”  
+Malone avanzò, sbalordito, e fissò il volto dell’apparizione. Non c’era nemmeno un piede di distanza tra loro. Quella testa grande, quel profilo squadrato gli sembravano familiari. Avvicinò ancora di più il viso. Sembrava che i tratti del suo volto fossero fluidi, si stessero plasmando in una forma precisa. Come se qualcuno invisibile li stesse modellando con la creta, “Mamma!” gridò.  
+All’istante, la figura alzò entrambe le mani in un gesto di gioia selvaggia. Quel movimento sembrò farle perdere l’equilibrio. E scomparve.
+“Non era mai stata qui prima. Non riusciva a parlare,” disse la signora Linden, con il suo tono pratico. “Era tua madre, ”  
+Malone tornò al suo posto, stordito. Solo quando queste cose accadono direttamente a noi possiamo comprendere tutta la loro portata. Sua madre. Era morta da dieci anni. Eppure era lì davanti a lui. Poteva giurare che fosse sua madre? No. Non poteva. Ma era moralmente certo che lo fosse. Era sconvolto fino al profondo dell’anima.
+Ma altri eventi straordinari distolsero la sua attenzione. Un giovane era uscito dall’armadio e si era avvicinato a Mailey.
+“Ehi, Jock! Caro vecchio Jock!” disse Mailey. “Mio nipote,” spiegò agli altri presenti. “Viene sempre quando sono con la signora Linden, ”  
+“L’energia sta diminuendo. Non posso restare a lungo. Sono così felice di vederti, zio. Sai. In questa luce possiamo vedere tutto chiaramente. Anche se tu non riesci, ”  
+“Sì, lo so. Jock. Volevo dirti che ho raccontato a tua madre di averti visto. Lei ha detto che la sua religione le insegna che è sbagliato, ”
+“Lo so. E so anche di essere stato un demone. Oh, è tutto così corrotto. Cose orribili stanno per accadere!” La sua voce si ruppe in un pianto.
+“Non incolparla, Jock. Lei ci crede davvero.”
+“No, non la biasimo affatto! Un giorno capirà meglio. Arriverà presto il giorno in cui tutta la verità verrà rivelata e tutte queste chiese corrotte saranno spazzate via dalla faccia della terra insieme alle loro dottrine crudeli e alle loro caricature di Dio.”
+“Ma Jock. Stai diventando davvero un eretico!”
+“L’amore, zio. L’amore è l’unica cosa che conta. Che importanza ha ciò in cui credi, se sei gentile, buono e altruista come Cristo un tempo?”
+“Hai mai visto Cristo?” chiese qualcuno.
+“Non ancora. Forse un giorno accadrà.”
+“Allora non è in Cielo?”
+“Ci sono molti cieli. Io mi trovo in uno molto umile. Ma è comunque glorioso.”
+Durante questo dialogo, Enid aveva spinto in avanti la testa; i suoi occhi ormai si erano abituati alla luce e riusciva a vedere più chiaramente di prima. L’uomo che si trovava a pochi passi da lei non era umano. Di questo non aveva alcun [[Doubt|dubbio]], anche se i segni erano molto sottili: qualcosa nel suo strano colore giallo-biancastro, in contrasto con il viso dei suoi vicini; qualcosa anche nella sua strana rigidità nell’andare in giro, come se indossasse un corsetto molto stretto.  
+“Ora, Jock,” disse Mailey, “dai loro un messaggio. Racconta loro qualcosa della tua vita.”  
+L’uomo abbassò la testa, proprio come avrebbe fatto un giovane timido nella vita reale.  
+“Oh, zio, non posso.”  
+“Su, Jock, ci piace ascoltarti.”  
+“Insegna alla gente cos’è la morte,” cominciò l’uomo. “Dio vuole che lo sappiano. Ecco perché ci permette di tornare indietro. Non è niente. Non sei cambiato affatto, come se fossi andato nella stanza accanto. Non riesci nemmeno a credere di essere morto. Io non ci riuscivo. Solo quando ho visto il vecchio Sam ho capito, perché ero certo che fosse morto. Poi sono tornato da mia madre. E, ” La sua voce si spezzò. “Lei non ha voluto ricevermi.”  
+“Non importa, caro vecchio Jock,” disse Mailey. “Imparerà la saggezza.”
+“Insegnate loro la verità! Ditegliela! Oh, è molto più importante di tutte le cose di cui parlano gli uomini. Se i giornali dedicassero anche solo una settimana alle questioni spirituali quanto ne dedicano al calcio, tutti lo saprebbero. È l’ignoranza che prevale, ”  
+Gli osservatori notarono un lampo improvviso verso il cabinet, ma il giovane era già scomparso.  
+“L’energia si è esaurita,” disse Mailey. “Povero ragazzo. Si è aggrappato all’ultima possibilità. Lo faceva sempre. Ed è morto così.”  
+Ci fu un lungo silenzio. Il grammofono riprese a suonare; poi le tende si mossero. Qualcosa stava emergendo. La signora Linden balzò in piedi e fece segno alla figura di tornare indietro. Per la prima volta, il medium si mosse sulla sedia e gemette.  
+“Che c’è, signora Linden?”  
+“È solo parzialmente materializzato. Il viso inferiore non è ancora apparso. Alcuni di voi sarebbero rimasti spaventati. Penso che stasera non avremo altre manifestazioni. L’energia è davvero molto bassa.”
+Si dimostrò vero. Le luci si accesero gradualmente. Il medium giaceva sulla sedia con il viso pallido e la fronte sudata, mentre sua moglie lo curava con attenzione, slacciandogli il colletto e bagnandogli il viso con un bicchiere d’acqua. I presenti si divisero in piccoli gruppi per discutere ciò che avevano visto.  
+“Oh, non è stato emozionante?” esclamò Miss Badley. “Davvero molto avvincente. Peccato che non abbiamo potuto vedere quella figura con il viso semimaterializzato.”  
+“Grazie, ne ho già visto abbastanza,” disse il mistico pomposo, ormai privo di ogni traccia di arroganza. “Confesso che tutto questo è stato davvero troppo per i miei nervi.”  
+Mr. Atkinson si trovò vicino ai ricercatori di fenomeni psichici.  
+“Beh, cosa ne pensate?” chiese.  
+“L’ho visto fare meglio a Maskelyne’s Hall,” rispose uno di loro.  
+“Oh, andiamo. Scott, non dovresti dire così! Hai ammesso che lo spettacolo era privo di trucchi.”  
+“Beh, anche i comitati che partecipano agli spettacoli di Maskelyne’s Hall lo sostengono, ”  
+“Sì, ma è lo stesso palco di Maskelyne. Questo non è il palco di Linden: lui non dispone di alcun meccanismo per creare questi effetti.”  
+“‘Il popolo vuole essere ingannato’,” rispose l’altro, alzando le spalle. “Comunque, preferisco rimanere scettico, ” Si allontanò con la dignità di chi non si lascia facilmente ingannare, mentre il suo compagno più razionale continuava a discutere con lui.  
+“L’avete sentito?” disse Atkinson. “C’è una certa categoria di ricercatori psichici che è completamente incapace di accettare le prove. Usano il proprio cervello in modo errato, cercando soluzioni complicate quando invece la strada è chiara davanti a loro. Quando l’umanità entrerà nel suo nuovo regno, questi intellettuali saranno sicuramente tra gli ultimi ad arrivare alla verità spirituale.”  
+“No, no, ” disse Mailey ridendo. “I vescovi sono destinati a fare da retroguardia. Li immagino tutti marciare in fila, con le loro calzamaglie e le loro vesti. Gli ultimi al mondo ad arrivare alla verità spirituale.”  
+“Oh, andiamo, ” disse Enid. “È troppo severo. Sono tutti brave persone.”  
+“Certo che lo sono. È una questione fisiologica: si tratta di uomini anziani, e il cervello degli anziani è sclerosato, incapace di registrare nuove informazioni. Non è colpa loro. Ma il fatto rimane, ” Malone, intanto, pensava a quella piccola figura tozza e scura che aveva agitato le mani felicemente quando gli aveva parlato. Con quell’immagine in mente, lasciò quella stanza piena di meraviglie e uscì in strada.
+
 
 
 <span class="atom-split" data-atom="story_06_in_which_the_reader_is_shown_the_habits--part_01" data-title="THE LAND OF MIST — In Which The Reader Is Shown The Habits Of A Notorious Criminal (part 1)" data-chapter="In Which The Reader Is Shown The Habits" data-kind="excerpt" data-tags="character/professor_challenger"></span>
@@ -3173,6 +3636,192 @@ Linden shrugged his shoulders.
 “I can do nothing until this horrible affair is over. It will take a month or two.”
 “Well, I will keep in touch with you till then. When all is well again we shall make our plans and see if we can bring these facts before him, as they have been brought before me. Meanwhile, let me say how much I sympathize. We will form a committee of your friends and all that can will surely be done.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+6. In cui viene mostrato al lettore il comportamento di un noto criminale  
+Ora lasceremo quel piccolo gruppo con il quale abbiamo iniziato ad esplorare queste zone grigie e poco definite, ma estremamente importanti del pensiero umano e delle esperienze umane. Dai ricercatori passeremo ai soggetti oggetto di ricerca. Seguitemi e andremo a visitare il signor Linden a casa sua, per osservare le dinamiche quotidiane che caratterizzano la vita di un medium professionista.  
+Per raggiungerlo attraverseremo la affollata Tottenham Court Road, dove enormi negozi di mobili si affacciano su entrambi i lati della strada; poi svoltiamo in una piccola via piena di case monotone che conduce verso est, in direzione del British Museum. La strada si chiama Tullis Street, numero 40: eccola lì, una casa come tante altre, dal colore scialbo e dall’aspetto ordinario; le scale sono protette da ringhiere e la porta è di un colore sbiadito; dalla finestra del soggiorno si vede una grande Bibbia dorata su un piccolo tavolo rotondo, che sembra rassicurare i visitatori timidi. Con la “chiave universale” dell’immaginazione apriamo quella porta squallida, percorriamo un corridoio buio e saliamo una stretta scala. Sono quasi le dieci del mattino, ma è nella sua camera da letto che dobbiamo cercare questo famoso “operatore di miracoli”. Come abbiamo visto, la sera prima ha avuto una seduta estenuante e quindi deve conservare le sue forze al mattino.  
+Al momento della nostra visita inopportuna, ma invisibile, lui era seduto sul letto, sostenuto dai cuscini, con un vassoio del breakfast sulle ginocchia. La scena che presentava avrebbe divertito coloro che avevano pregato insieme a lui nei templi spiritualisti, o che avevano assistito alle sedute in cui dimostrava i cosiddetti “doni dello Spirito”. Sembrava pallido e malaticcio nella luce tenue del mattino; i suoi capelli ricci si arricciavano disordinatamente sopra la fronte ampia e intellettualmente spaziosa. Lo scollo aperto della sua camicia da notte rivelava un collo robusto; la profondità del suo torace e l’ampiezza delle sue spalle dimostravano che era un uomo di notevole forza fisica. Mangiava con avidità mentre conversava con la moglie, piccola, ansiosa e dai capelli scuri, seduta accanto al letto.  
+“E tu cosa ne pensi, Mary? È stata una buona seduta?”  
+“Piuttosto discreta, Tom. C’erano due ricercatori che si muovevano in giro per la stanza, disturbando tutti. Pensi che quelle persone della Bibbia avrebbero ottenuto i loro “fenomeni” se avessero avuto individui del genere nei loro ambienti? ‘Con un solo cuore’, dice il libro, ”  
+“Certo!” esclamò Linden con entusiasmo. “La duchessa è stata soddisfatta?”  
+“Sì, credo di sì. Anche il dottor Atkinson era molto contento. C’era anche un nuovo giornalista di nome Malone. Inoltre, Lord e Lady Montnoir hanno ottenuto prove concrete, così come Sir James Smith e il signor Mailey.”  
+“Non sono stato soddisfatto delle manifestazioni di chiaroveggenza. Quegli idioti continuavano a immettere informazioni nella mia mente: ‘Quello è sicuramente mio zio Sam’, e via dicendo. Questo mi confonde completamente, impedendomi di vedere chiaramente ciò che accade.”
+“I sì, e pensano di essere d’aiuto! Aiutando solo a confonderti e a ingannarsi loro stessi. Conosco quel tipo di persone.”  
+“Ma sono entrato nel regno delle ombre senza problemi, e sono contento che ci siano state alcune esperienze positive. Anche se mi hanno lasciato completamente esausto. Questa mattina sono davvero uno straccio, ”  
+“Ti stanno facendo lavorare troppo duramente, caro. Ti porterò a Margate e ti aiuterò a riprenderti.”  
+“Forse a Pasqua potremmo trascorrere una settimana lì. Sarebbe bello. Non mi dispiacciono le letture spiritiche o le visioni, ma quelle esperienze fisiche sono davvero estenuanti. Non sono come Hallows. Dicono che lui si limiti a giacere a terra, bianco in volto e senza fiato, dopo queste esperienze, ”  
+“Sì,” esclamò la donna con amarezza. “E poi corrono da lui con il whisky. Così gli insegnano ad affidarsi alla bottiglia. E si ottiene un altro caso di medium ubriaco. Li conosco bene. Stai lontano dal whisky, Tom!”  
+“Sì. Uno del nostro mestiere dovrebbe limitarsi a bere bevande analcoliche. Se riuscisse anche a mangiare verdure, sarebbe ancora meglio. Ma non posso predicare queste cose mentre sto preparando prosciutto e uova. Per Dio, Mary. Sono già passate le dieci. Questa mattina ne arriveranno molti. Farò qualcosa oggi, ”  
+“Lo spendi via così in fretta come lo guadagni, Tom, ”  
+“Beh. Alcuni casi sono davvero difficili. Finché riusciamo a tirare avanti entrambi, di cosa possiamo ancora avere bisogno? Immagino che si prenderanno cura di noi, ”  
+“Hanno deluso molti altri poveri medium che hanno fatto del buon lavoro nei loro tempi, ”  
+“Sono i ricchi la causa di tutto. Non le persone “spirituali”,” disse Tom Linden con rabbia. “Mi fa venire il sangue in testa quando penso a queste persone. Lady Questo e Contessa Quello, che parlano di tutte le comodità che hanno avuto. E poi lasciano che coloro che gliele hanno fornite muoiano nella miseria o marciscano nelle case di accoglienza. Poveri vecchi come Tweedy e Soames. Vivono solo delle pensioni di anzianità, mentre i giornali parlano dei soldi che guadagnano i medium. Mentre qualche maledetto ciarlatano ne guadagna più di tutti noi, con le sue imitazioni ridicole e un sacco di macchinari, ”  
+“Non preoccuparti, caro, ” disse la moglie del medium, posando dolcemente la sua mano sottile sulla folta barba di suo marito. “Tutto si sistemerà al momento giusto. E tutti dovranno pagare il prezzo delle loro azioni, ”  
+Linden rise ad alta voce. “È il mio lato gallese che emerge quando mi arrabbio. Che prendano i loro soldi sporchi e che i ricchi tengano ben chiusi i loro portafogli. Mi chiedo a cosa pensino che serva il denaro. Pagare le tasse funebri è probabilmente l’unica cosa che alcuni di loro trovino divertente in tutto questo. Se avessi i loro soldi, ”  
+Bussarono alla porta.  
+“Per favore, signore. Suo fratello Silas è giù, ” I due si guardarono con preoccupazione.  
+“Altri guai,” disse tristemente la signora Linden.  
+Linden alzò le spalle. “Va bene, Susan. Digli che scenderò tra un quarto d’ora. Ora, cara, tienilo occupato. Arriverò da te tra poco.”
+In meno tempo di quanto avesse previsto, si trovò nella sala d’ingresso – la sua stanza da lavoro – dove sua moglie evidentemente faticava a mantenere una conversazione piacevole con il loro ospite. Era un uomo alto e robusto, non molto diverso dal fratello maggiore, ma tutta quella generosità e rotondità tipiche della sua corporatura erano state trasformate in pura brutalità. Aveva lo stesso ciuffo di capelli ricci, ma la faccia era rasata a zero, con una mascella spessa e ostinata. Sedeva vicino alla finestra, con le sue enormi mani piene di lentiggini appoggiate sulle ginocchia. Una parte molto importante della personalità di Mr. Silas Linden risiedeva proprio in quelle mani: un tempo era stato un pugile professionista e per un certo periodo si era considerato tra i migliori lottatori dei pesi welter d’Inghilterra. Ora, come evidenziavano il suo abito di tweed logoro e gli stivali consumati, aveva attraversato momenti difficili, e cercava di alleviare la sua situazione approfittando della generosità del fratello.  
+“Buongiorno, Tom,” disse con voce rauca. Poi, quando sua moglie uscì dalla stanza: “Hai un po’ di scotch? Stamattina ho mal di testa. Ieri sera ho incontrato alcuni vecchi amici al ‘The Admiral Vernon’. È stata davvero una riunione, uomini che non vedevo dai tempi in cui ero il miglior pugile d’Inghilterra.”  
+“Mi dispiace, Silas,” rispose l’uomo sedendosi dietro la scrivania. “Non ho niente in casa.”
+“Abbastanza spirito, ma non del tipo giusto,” disse Silas.  
+“Beh, anche il prezzo di una bevanda andrà bene. Se hai con te un libro di Bradbury, mi farebbe comodo. Non mi arriva proprio nulla.”  
+Torn Linden tirò fuori una banconota da una sterlina dal suo tavolo.  
+“Ecco qui, Silas. Finché ne ho, anche tu avrai la tua parte. Ma la scorsa settimana ne avevi già due. Sono finite?”  
+“Finite! Proprio così!” mise la banconota in tasca. “Ora ascolta bene, Tom: voglio parlarti seriamente, da uomo a uomo.”  
+“Sì, Silas. Di cosa si tratta?”  
+“Vedi questa, ” indicò un nodulo sul dorso della sua mano. “È un osso. Non tornerà mai più come prima. È successo quando ho battuto Curly Jenkins al terzo round, eliminandolo alle competizioni N.S.C. Quella notte ho rovinato la mia carriera per sempre. Posso ancora partecipare a qualche incontro amichevole o dimostrativo, ma per il combattimento vero e proprio è finita. La mia mano destra non funziona più.”  
+“È davvero una situazione difficile, Silas, ”  
+“Maledettamente difficile. Ma questo non è il punto. Quello che conta è trovare un modo per guadagnarmi da vivere. Un vecchio lottatore come me non trova molte opportunità. Lavorare in un pub con bevande gratuite? Niente da fare. Quello che voglio sapere, Tom, è: cosa ne pensi se diventassi un medium?”  
+“Un medium, ”
+“Perché diavolo devi fissarmi in quel modo! Se è abbastanza buono per te, è abbastanza buono anche per me.”  
+“Ma tu non sei un medium, ”  
+“Oh, andiamo! Lascia queste storie per i giornali. È una cosa di famiglia. Tra te e me, come fai a farlo?”  
+“Non lo faccio. Non faccio nulla.”  
+“Eppure guadagni quattro o cinque sterline a settimana per questo. È davvero incredibile. Ora non puoi più ingannarmi. Tom, io non sono uno di quegli sciocchi che ti pagano una fortuna per un’ora al buio. Siamo sulla stessa lunghezza d’onda, tu e io. Come fai a farlo?”  
+“Fare cosa?”
+“Beh, ad esempio quei rap. Ti ho visto seduto lì al tuo tavolo, e quei rap sembrano rispondere alle domande presenti sugli scaffali dei libri. È davvero ingegnoso. Ogni volta riescono a confonderli. Come fai a farlo?”  
+“Te lo dico io: non lo so. Viene da qualcosa al di fuori di me.”  
+“Mascalzoni! Puoi dirmelo, Tom. Sono Griffiths, l’uomo affidabile. Se riuscissi a capirlo, mi renderebbe ricco per tutta la vita, ”  
+Per la seconda volta in quella mattina, l’accento gallese del medium prese il sopravvento.  
+“Sei un impudente, blasfemo furfante, Silas Linden. Sono uomini come te a rovinare la nostra causa. Dovresti conoscermi meglio per pensare che io sia un truffatore. Vattene dalla mia casa, ingrato!”  
+“Non esagerare,” ringhiò il malvivente.  
+“Vattene, o ti caccio io stesso. Fratello o no che tu sia, ” Silas strinse i pugni e sembrò davvero minaccioso per un momento. Poi, l’idea di poter ottenere qualcosa in cambio gli addolcì l’umore.  
+“Beh, non volevo offenderti. Immagino che possa riuscirci anche senza il tuo aiuto, ” Mentre si dirigeva verso la porta, la sua rabbia prevalse sulla prudenza: “Non credere che io sia uno stupido. Ci vedremo ancora, ” La porta si chiuse con forza dietro di lui.  
+La signora Linden corse dal marito:  
+“Quel brutto ceffo nero. L’ho sentito. Cosa voleva?”  
+“Voleva che gli spiegassi cosa significa essere un medium. Pensa che sia qualche trucco che posso insegnargli, ”  
+“Quel povero sciocco. Meglio così. Non oserà più farsi vedere qui, ”  
+“Oh, davvero?”  
+“Se lo fa, gli darò una lezione. Pensare che ti abbia turbata in questo modo. Sei tutta tremante, ”  
+“Forse non sarei una medium se non fossi così nervosa. Qualcuno ha detto che siamo poeti, solo più intensi. Ma è terribile quando il lavoro sta appena iniziando, ”  
+“Ti darò qualcosa che ti aiuterà, ” Le mise le mani sulla fronte e rimase in silenzio per un momento.  
+“Meglio così. Bene fatto, Mary. Andrò in cucina a fumarmi una sigaretta. Quello basterà, ”  
+“No. C’è qualcuno qui fuori, ” Guardò fuori dalla finestra. “Sei in grado di riceverla? È una donna, ”  
+“Sì. Ora sto bene. Falla entrare, ” Un attimo dopo, una donna entrò nella stanza: pallida, con abiti neri. Il suo aspetto parlava da solo. Linden le fece sedere lontano dalla luce. Poi continuò a leggere i suoi documenti.  
+“Siete la signora Blount, vero? Avevate un appuntamento, ”  
+“Sì. Volevo chiedervi, ”  
+“Per favore, non chiedetemi nulla. Mi confonde, ” La guardava con lo sguardo tipico di un medium, quel tipo di sguardo che sembra vedere tutto intorno e attraverso le cose, piuttosto che fissarle direttamente.  
+“È stato saggio da parte vostra venire. Molto saggio. C’è qualcuno al vostro fianco che ha un messaggio urgente. Un messaggio che non poteva aspettare. Ricordo il nome. Francis. Sì, Francis, ” La donna si strinse le mani.  
+“Sì. È proprio quel nome, ”  
+“Un uomo scuro, molto triste, molto sincero. Oh, così sincero. Parlerà. Deve parlare! È urgente. Dice: ‘Tink-a-bell’. Chi è Tink-a-bell?”
+“Sì, sì, mi ha chiamato proprio così. Oh, Frank, Frank, parla con me! Parla!”  
+“Sta parlando. La sua mano è sulla tua testa. Dice: ‘Tink-a-bell. Se farai ciò che hai intenzione di fare, si creerà un vuoto che richiederà molti anni per essere colmato’. Cosa significa questo?”  
+Lei balzò in piedi dalla sedia. “Significa tutto. Oh, signor Linden, questa era la mia ultima possibilità. Se fosse fallita, se avessi scoperto di averlo davvero perso, avrei deciso di andarlo a cercare. Questa notte avrei preso il veleno.”  
+“Grazie a Dio che sono riuscito a salvarvi. È una cosa terribile, signora, togliersi la vita. Viola le leggi della Natura, e le leggi della Natura non possono essere violate senza punizione. Sono felice che sia riuscito a salvarvi. Ha ancora qualcosa da dirvi. Il suo messaggio è: ‘Se vivrete e compierete il vostro dovere, sarò per sempre al vostro fianco, più vicino a voi di quanto non lo fossi mai stato in vita. La mia presenza vi circonderà e proteggerà sia voi che le nostre tre bambine.’”
+Che cambiamento meraviglioso! Quella donna pallida e stanca che era entrata nella stanza ora stava lì con le guance arrossate e le labbra sorridenti. È vero, le lacrime scorrevano lungo il suo viso, ma erano lacrime di gioia. Batteva le mani, faceva piccoli movimenti convulsi, come se volesse ballare.  
+“Non è morto! Non può essere morto. Se riesce a parlarmi e ad essere più vicino a me che mai, come potrebbe essere morto? Oh, è meraviglioso! Oh, signor Linden, cosa posso fare per voi? Mi avete salvata da una morte vergognosa. Mi avete restituito mio marito! Oh, quale potere divino possedete!”  
+Il medium era un uomo molto emotivo; anche le sue guance erano umide di lacrime.  
+“Mia cara signora, non dite altro. Non sono stato io. Non ho fatto nulla. Potete ringraziare Dio, che per la Sua misericordia permette a alcuni dei Suoi mortali di percepire gli spiriti o di portare messaggi. Bene, la mia tariffa è una ghinea, se potete permettervela. Tornate da me se mai doveste avere bisogno.”  
+“Ora sono soddisfatta,” gridò lei asciugandosi le lacrime, “di attendere la volontà di Dio e di adempiere al mio dovere in questo mondo, fino a quando non verrà il momento in cui potremo riunirci nuovamente.”
+La vedova uscì di casa come se camminasse sospesa tra le nuvole. Anche Tom Linden sentì che le “nuvole” lasciate dalla visita di suo fratello erano state spazzate via da questo evento gioioso, perché non esiste felicità più grande di quella di donare felicità e vedere i benefici effetti del proprio potere. Tuttavia, appena si fu sistemato nella sua sedia, un altro cliente fu fatto entrare. Questa volta si trattava di un uomo ben vestito, con guanti bianchi e abito da sera, dall’aspetto impegnato, come se ogni minuto fosse prezioso per lui.  
+“Signor Linden, giusto? Ho sentito parlare delle sue capacità. Mi dicono che, toccando un oggetto, spesso si possano ottenere informazioni sulla persona che lo possedeva, ”  
+“A volte succede. Ma non posso controllarlo a piacimento.”  
+“Vorrei metterla alla prova. Ho qui una lettera ricevuta stamattina. Potrebbe provare con quella?”  
+Il medium prese la lettera piegata, si appoggiò allo schienale della sedia e se la premette sulla fronte. Rimase con gli occhi chiusi per un minuto o più, poi restituì il foglio.
+“A me non piace,” disse. “Ho una sensazione di male. Vedo un uomo vestito tutto di bianco, con il viso scuro; scrive su un tavolo di bambù. Percepisco calore. La lettera proviene dai tropici, ”  
+“Sì, dall’America Centrale.”  
+“Non posso dirvi di più.”  
+“Gli spiriti sono davvero così limitati? Pensavo che sapessero tutto, ”  
+“Non sanno tutto. Il loro potere e la loro conoscenza sono altrettanto limitati dei nostri. Ma questa non è una questione per gli esperti di spiritualità. Quello che ho fatto era psicometria, un potere dell’anima umana, per quanto ne sappiamo.”  
+“Beh, in questo hai ragione. Quest’uomo, il mio corrispondente, vuole che investa i soldi per metà di una trivellazione petrolifera. Dovrei farlo?”  
+Tom Linden scosse la testa.  
+“Questi poteri ci vengono dati a alcuni di noi, signore, per consolare l’umanità e come prova dell’immortalità. Non sono mai stati destinati all’uso mondano. Usarli porta sempre problemi: sia per chi li utilizza che per chi ne è coinvolto. Non voglio occuparmene.”  
+“Il denaro non è un problema,” disse l’uomo, tirando fuori il portafoglio dalla tasca interna.  
+“No, signore. Nemmeno per me. Sono povero, ma non ho mai abusato del mio dono, ”  
+“Allora a che serve tutto questo?” disse l’ospite, alzandosi dalla sedia. “Posso ottenere tutto ciò che voglio dai preti autorizzati. E tu no. Ecco la tua sterlina. Ma non ne vale nemmeno la pena, ”  
+“Mi dispiace, signore. Non posso infrangere le regole. C’è una signora accanto a voi. Vicino alla vostra spalla sinistra. Una donna anziana, ”  
+“Tut! Tut!” disse il finanziere, dirigendosi verso la porta.  
+“Porta un grande medaglione d’oro con una croce di smeraldo sul petto, ”  
+L’uomo si fermò, si girò e fissò l’altro.  
+“Dove l’hai visto?”  
+“Ora lo vedo davanti a me, ”  
+“Ma, è proprio il medaglione che mia madre portava sempre! Stai dicendo che la vedi?”  
+“No. È già andata, ”  
+“Com’era? Cosa stava facendo?”  
+“Era tua madre. Lo ha detto lei stessa. Piangeva, ”  
+“Piangeva! Mia madre. Ma lei è in cielo. Le donne non piangono in cielo, ”  
+“Non nel cielo immaginario. Ma nel cielo reale. Siamo solo noi a farle piangere. Ha lasciato un messaggio, ”  
+“Dammelo!”  
+“Il messaggio era: ‘Oh, Jack! Stai allontanandoti sempre di più da me, ””  
+L’uomo fece un gesto di disprezzo.  
+“Sono stato uno stupido a darti il mio nome quando abbiamo fatto l’appuntamento. Hai fatto domande. Non mi ingannerai con le tue trucchi. Ne ho abbastanza. Davvero!”  
+Per la seconda volta quella mattina, la porta fu sbattuta con rabbia da un visitatore arrabbiato.  
+“Non gli è piaciuto il messaggio,” spiegò Linden a sua moglie. “Era sua madre. Si preoccupa per lui. Signore. Se solo la gente sapesse queste cose. Le farebbero più bene di tutte le cerimonie e i riti, ”  
+“Beh, Tom. Non è colpa tua se non lo sanno,” rispose sua moglie. “Ci sono due donne che vogliono vederti. Non hanno presentazioni, ma sembrano essere in grande difficoltà, ”
+“I ho un po’ di mal di testa. Non mi sono ancora ripresa da ieri sera. Anche Silas è lo stesso: il lavoro notturno ci lascia esausti il giorno dopo. Prenderò solo queste cose, nient’altro. Non è giusto far soffrire nessuno se si può evitarlo.”  
+Le due donne entrarono; entrambe figure austere, vestite di nero: una donna di cinquant’anni dall’aspetto severo, l’altra circa la metà della sua età.  
+“Credo che la vostra tariffa sia una ghinea,” disse la più anziana, posando quella somma sul tavolo.  
+“Per coloro che possono permettersela,” rispose Linden. In realtà, spesso era proprio lui a dover pagare.
+“Oh sì, io posso permettermelo,” disse la donna. “Sono in grandi difficoltà e mi hanno detto che forse potreste aiutarmi.”  
+“Beh, ci proverò se posso. È per questo che sono qui.”  
+“Ho perso mio marito in guerra. È stato ucciso a Ypres. Potrei mettermi in contatto con lui?”  
+“Non sembrate avere alcun ascendente. Non ne ho la minima idea. Mi dispiace, ma non possiamo fare nulla al riguardo. Il nome era Edmund, giusto?”  
+“No.”  
+“O Albert?”  
+“No.”  
+“Mi dispiace. Forse ci sono stati errori nella comunicazione, ”  
+“Il nome Pedro vi aiuta?”  
+“Pedro! No. Non ricordo nulla. Era un uomo anziano?”  
+“No, non molto.”  
+“Non riesco proprio a ricordare nulla, ”  
+“In realtà, quello di cui avevo davvero bisogno era un consiglio riguardo a mia figlia. Mio marito mi avrebbe saputo dire cosa fare. È fidanzata con un giovane falegname. Ma ci sono alcuni problemi. Vorrei sapere cosa dovrei fare.”  
+“Diteci pure il vostro parere,” disse la giovane donna, guardando la medium con occhi duri.  
+“Lo farei se potessi. La amate davvero?”  
+“Oh sì. È un bravo ragazzo, ”  
+“Beh, se non provate qualcosa di più per lui, forse sarebbe meglio lasciarla stare. Un matrimonio del genere porterebbe solo sfortuna, ”  
+“Allora pensate che le aspetti la sfortuna?”  
+“Credo sia molto probabile. Dovrebbe essere cauta, ”  
+“Ci sarà qualcun altro nella sua vita, in futuro?”  
+“Ogni persona, uomo o donna, incontra il proprio compagno prima o poi, ”  
+“Allora troverà qualcuno, ”  
+“Certamente sì, ”  
+“Mi chiedo se dovrei avere figli, ” chiese la ragazza.  
+“Beh. Non posso dirvelo con certezza, ”  
+“E i soldi. Avrà abbastanza soldi? Siamo in difficoltà, signor Linden. Ne avremmo bisogno, ”  
+In quel momento arrivò un’interruzione sorprendente: la porta si aprì di scatto e la piccola signora Linden entrò nella stanza con il viso pallido e gli occhi lampeggianti.  
+“Sono poliziotte, Tom. Ho ricevuto un avvertimento riguardo a loro. Andatevene da questa casa. Voi due ipocriti piagnucoloni. Oh, che sciocca. Come ho fatto a non capire chi eravate, ” Le due donne si alzarono immediatamente.  
+“Sì. Siete un po’ in ritardo, signora Linden,” disse la più anziana. “I soldi sono già stati dati.”  
+“Toglieteli indietro! Sono ancora sul tavolo, ”  
+“No. I soldi sono stati dati. Abbiamo ricevuto una previsione del futuro. Ne sentirete parlare ancora, signor Linden, ”  
+“Voi due truffatori! Parlate di truffe, ma siete voi i veri truffatori. Lui non vi avrebbe mai incontrate se non fosse stato per la compassione, ”
+“Il rimproverarci non serve a nulla,” rispose la donna. “Noi facciamo il nostro dovere e non siamo stati noi ad approvare quella legge. Finché è stata inserita nel Codice di Leggi, dobbiamo attuarla. Dobbiamo segnalare il caso alla sede centrale.”  
+Tom Linden sembrava sconvolto da questa notizia, ma quando le poliziotte se ne furono andate, mise un braccio intorno a sua moglie che piangeva e cercò di consolarla nel miglior modo possibile.  
+“La dattilografa dell’ufficio di polizia ha inviato quell’avvertimento,” disse lei. “Oh, Tom, è la seconda volta! Significa prigione e lavori forzati per te.”  
+“Beh, cara, finché siamo convinti di non aver fatto nulla di sbagliato e di aver compiuto il dovere verso Dio con tutte le nostre forze, dobbiamo accettare ciò che ci tocca con coraggio.”  
+“Ma dove erano? Come hanno potuto abbandonarti in quel modo. Dove era il tuo guida?”  
+“Sì, Victor, ” disse Tom Linden scuotendo la testa. “Dove eri tu? Ho qualcosa da dirti. Sai, cara,” aggiunse, “proprio come un medico non può curare i propri casi, un medium è completamente impotente quando si tratta di questioni che riguardano lui stesso. È la legge. Eppure avrei dovuto saperlo. Mi muovevo nel buio. Non avevo alcuna ispirazione. È stata solo una stupida compassione a guidarmi, quando in realtà non avevo nessun messaggio vero da trasmettere. Beh, cara Mary, affronteremo ciò che ci tocca con coraggio. Forse non hanno abbastanza prove per incriminarci. E forse quel “guida” non è così ignorante come la maggior parte di loro. Speriamo nel meglio.”  
+Nonostante le sue parole coraggiose, il medium tremava ancora per lo shock. Sua moglie cercava di sostenerlo, quando Susan, la domestica che non sapeva nulla della situazione, fece entrare un nuovo visitatore nella stanza. Era Edward Malone.  
+“Non può vedervi,” disse la signora Linden. “Il medium è malato. Questa mattina non riceverà nessuno.”  
+Ma Tom Linden aveva riconosciuto il suo visitatore.  
+“Questo è il signor Malone, del Daily Gazette. Era con noi ieri sera. È stato un buon incontro, vero, signore?”  
+“Meraviglioso!” disse Malone. “Ma cosa c’è che non va?”  
+Sia il marito che la moglie raccontarono tutto ciò che li angosciava.  
+“Che vergogna, ” esclamò Malone, disgustato.  
+“Sono sicuro che il pubblico non si renda conto di come venga applicata questa legge. Altrimenti ci sarebbero molte proteste. Questi agenti provocatori sono completamente estranei alla giustizia britannica. Comunque sia, Linden, lei è davvero un medium autentico. La legge è stata creata proprio per reprimere quelli falsi.”  
+“Nella legge britannica non esistono veri medium,” disse Linden con rammarico. “Più si è autentici, più si rischia. Se si è davvero un medium e si accettano soldi, ci si rende colpevoli. Ma come può un medium vivere senza soldi? È il suo lavoro principale. Gli serve tutta la sua forza. Non si può essere carpentieri tutto il giorno e, allo stesso tempo, un medium di prim’ordine la sera, ”  
+“Che legge ingiusta. Sembra voler soffocare ogni prova concreta del potere spirituale, ”
+“Sì, è proprio così. Se anche il Diavolo emanasse una legge, sarebbe esattamente la stessa cosa. Queste regole dovrebbero servire a proteggere il pubblico, eppure nessuno si è mai lamentato. Ogni caso è in realtà una trappola della polizia. Eppure anche la polizia sa, proprio come te o me, che ogni evento benefico organizzato dalle chiese include sempre una veggente o un indovino.”  
+“Sembra davvero orribile. Cosa succederà ora?”  
+“Beh, immagino arriverà una convocazione. Poi un processo in tribunale. E infine una multa o la prigione. È già la seconda volta, ”  
+“Ma i tuoi amici testimonieranno a tuo favore. E avremo un bravo avvocato che ti difenderà.”  
+Linden alzò le spalle. “Non si sa mai chi siano veramente gli amici. Si allontanano tutti quando arriva il momento difficile, ”  
+“Io, però, non lo farò,” disse Malone con determinazione. “Tienimi informato su tutto ciò che succede. Ma ho chiamato perché volevo farti una domanda.”  
+“Mi dispiace, ma in questo momento non sto bene affatto, ” Linden tese una mano tremante.  
+“No, niente di soprannaturale. Volevo solo sapere se la presenza di un forte scettico potrebbe fermare tutti questi fenomeni, ”  
+“Non necessariamente. Ma certo renderebbe tutto molto più difficile. Se quelle persone rimanessero tranquille e ragionevoli, potremmo ottenere risultati. Ma loro non sanno nulla, violano ogni regola e rovinano da soli le proprie sessioni. L’altro giorno c’era quel vecchio dottor Sherbank: quando i rumori iniziarono sul tavolo, lui balzò in piedi, si appoggiò al muro e disse: ‘Allora, fai sentire un rumore sulla mia palma della mano entro cinque secondi, ’ Poiché non accadde nulla, dichiarò che tutto era una farsa e se ne andò. Loro non ammetteranno mai che esistono leggi precise in questo campo, proprio come in ogni altro, ”  
+“Beh, devo confessare che la persona a cui penso potrebbe essere altrettanto irragionevole. Si tratta del famoso [[Professor Challenger|Professore Challenger]].”  
+“Oh, sì. Ho sentito dire che sia molto difficile da convincere, ”  
+“Gli permetteresti di partecipare a una sessione?”  
+“Sì, se lo desideri, ”  
+“Ma non verrà da te, né in nessun posto che tu indichi. Immagina ogni sorta di trucchi e inganni. Forse dovresti andare tu nella sua casa di campagna, ”  
+“Non rifiuterei, se questo potesse aiutarlo a cambiare idea, ”  
+“E quando?”  
+“Non posso fare nulla finché questa orribile situazione non sarà risolta. Ci vorranno un mese o due, ”  
+“Bene, ti terrò in contatto fino ad allora. Quando tutto sarà tornato normale, pianificheremo insieme come presentare questi fatti davanti a lui. Nel frattempo, lascia che ti esprima tutta la mia solidarietà. Formeremo un comitato di tuoi amici e faremo tutto il possibile, ”
 
 
 

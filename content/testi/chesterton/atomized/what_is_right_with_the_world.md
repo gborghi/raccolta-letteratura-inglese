@@ -832,16 +832,16 @@ should sound unceasingly, like the sea.
 
 <span class="qlang-split" data-lang="it"></span>
 
-D'altra parte, i nostri tentativi di raddrizzare lo squilibrio estremo
-della ricchezza dovranno pur avere presto qualche esito; qualcosa si farà
-per alleviare la tortura perpetua di una compassione incompetente;
-a questa nostra anarchia malevola si sostituirà un qualche disegno,
-foss'anche soltanto quello di una servitù benevola. E man mano che queste due
-inquietudini particolari, quella intorno all'universo e quella intorno allo Stato,
-si acquieteranno in un ordine più silenzioso e più durevole, emergeranno sempre più
-quelle verità primarie e arcaiche che la [[Dust|polvere]] di questi due conflitti aveva velato.
-Risolte in via relativa le questioni secondarie, ci ritroveremo
-tanto più alla presenza delle questioni primarie dell'Uomo.
+D'altro canto, i nostri tentativi di raddrizzare l'estremo squilibrio
+della ricchezza dovranno presto avere qualche esito; qualcosa si farà
+per diminuire il perpetuo tormento dell'incompetente compassione;
+qualche schema sarà sostituito alla nostra malevola anarchia,
+non fosse che uno di benevola servitù.  E quando queste due particolari
+inquietudini circa l'universo e lo Stato si placheranno in un sistema più silenzioso
+e duraturo, emergeranno sempre più quelle verità primarie
+e arcaiche che la [[Dust|polvere]] di questi due conflitti ha velato.
+Risolte relativamente le questioni secondarie, ci troveremo
+tanto più in presenza delle questioni primarie dell'Uomo.
 
 Perché al presente siamo tutti inclini a un medesimo errore: tendiamo a dare
 alla politica troppa importanza. Tendiamo a dimenticare quanto grande parte

@@ -37635,6 +37635,215 @@ silk stockings on state occasions. He was a man of fixed principles,
 strong prejudices, and regular habits, intolerant of dissent in any
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Interessante.”
+
+
+
+“Quindi preferisci i suoi difetti alle perfezioni degli altri?”
+
+
+
+“Giusto così… per rispettare la presenza di mia madre.”
+
+
+
+“Oh, mio caro Gilbert, che sciocchezze stai dicendo! So che non le pensi davvero…”
+
+“È assolutamente fuori discussione“, disse mia madre alzandosi in piedi.
+
+#uscendo di corsa dalla stanza, con la scusa di occuparsi di faccende domestiche…
+
+Per evitare la contraddizione che tremava sulle mie labbra.
+
+
+
+Dopo quella volta, la [[Rose|Rosetta]] mi fornì ulteriori dettagli riguardo alla signora.
+
+Graham: il suo aspetto, i suoi modi, i suoi abiti… e persino i mobili della sua casa.
+
+La stanza in cui viveva… tutto mi fu mostrato davanti agli occhi, insieme ad altro ancora.
+
+“Chiarezza e precisione superiori a quanto avrei voluto vedere… ma poiché non ero…”
+
+Ascoltatore molto attento, non sarei in grado di ripetere quella descrizione nemmeno se volessi.
+
+
+
+Il giorno dopo era sabato; e, di [[Sunday|domenica]], tutti si chiesero se.
+
+O forse no… L’ignota bellezza avrebbe tratto beneficio dalle raccomandazioni del vicario…
+
+“Vieni in chiesa… Devo ammettere che anch’io l’ho considerato con un certo interesse…”
+
+Il vecchio banco di famiglia appartenente a Wildfell Hall, dove i colori sono ormai sbiaditi…
+
+Cuscini e rivestimenti di colore cremisi erano ormai vecchi e non più aggiornati da molto tempo…
+
+## Anni… e quei cupi stemmi, con i loro tristi bordi arrugginiti
+
+Stoffa nera. Il volto severo appariva sul muro sopra di loro.
+
+
+
+# E lì vidi una figura alta e dignitosa, vestita di nero… Il suo viso…
+
+# Era diretto verso di me, e c’era qualcosa in esso che, una volta visto, invitava…
+
+# Capelli neri e lucidi
+
+# Riccioli, uno stile di acconciatura piuttosto insolito a quei tempi, ma sempre apprezzato
+
+Elegante e appropriata… La sua pelle era chiara e pallida; i suoi occhi…
+
+Non riuscivano a vedere, perché erano concentrate sul loro libro di [[prayer|preghiere]].
+
+Nascosti dalle loro palpebre abbassate e dalle lunghe ciglia nere… ma le sopracciglia…
+
+Quelli sopra descritti erano espressivi e ben definiti; la fronte era alta e.
+
+# Intelligente, il naso perfettamente dritto e i tratti del viso…
+
+# Generale, impeccabile… solo che c’era una leggera vuotezza in esso.
+
+Guance, occhi e labbra, sebbene ben formate, erano un po’ troppo…
+
+Sottile, leggermente compressa in modo eccessivo… e c’era qualcosa in esse che…
+
+“Betokened, pensai, un temperamento certo non molto mite né affabile; e così dissi…”
+
+#Da lontano… preferisco ammirarti, bella signora, piuttosto che essere vicino a te.
+
+Il compagno della tua [[Home|>famiglia]].
+
+
+
+Proprio in quel momento lei alzò lo sguardo e i suoi occhi incrociarono i miei; io non…
+
+# Distogliere lo sguardo e lei tornò a leggere il suo libro…
+
+Un’espressione fugace e indescrivibile di disprezzo silenzioso…
+
+Indescrivibilmente provocatorio per me.
+
+
+
+“Pensa che io sia un cucciolo impertinente”, pensai. “ Humph!… Vedremo se cambierà idea”.
+
+“Prima o poi, se ritengo che ne valga la pena…”
+
+
+
+Ma poi mi resi conto che erano pensieri davvero inappropriati…
+
+Un luogo di culto… e il mio comportamento, in questa occasione, fu…
+
+Qualsiasi cosa tranne ciò che dovrebbe essere… Prima però di iniziare a dirigere…
+
+“Con la mente concentrata sul compito da svolgere, guardai intorno nella chiesa per vedere se qualcuno…”
+
+#Qualcuno mi stava osservando… ma no, tutti coloro che non erano impegnati nelle loro faccende…
+
+I libri di [[prayer|preghiere]], mentre si prendevano cura di quella signora strana, mia buona madre e.
+
+Sorella tra le altre, insieme a Mrs. Wilson e sua figlia… E persino Eliza.
+
+# Millward lanciava occhiate furtive con l’angolo degli occhi…
+
+# Oggetto di grande attirazione… Poi mi guardò e sorrise.
+
+Piccola com'era, arrossì e guardò timidamente il suo libro di [[prayer|preghiere]], poi.
+
+Cercò di controllare i propri lineamenti facciali.
+
+
+
+Ero di nuovo a commettere un errore; e questa volta me ne resi conto.
+
+Con un improvviso colpo alle costole, sferrato dal gomito di mio fratello impertinente… Perché…
+
+# Presente… potevo solo rispondere all’insulto premendo il piede su di lui.
+
+Le dita dei piedi, rinviando ulteriora vendetta fino a quando non fossimo usciti dalla chiesa.
+
+
+
+Ora, Halford, prima di concludere questa lettera, ti dirò chi sia Eliza…
+
+# Millward era… la figlia minore del vicario, e davvero molto attraente.
+
+“Quella piccola creatura per la quale provavo una notevole affetto… e lei…”
+
+Lo sapevo, anche se non avevo mai ricevuto alcuna spiegazione diretta, e non ne possedevo nessuna.
+
+# Intenzione ferma di farlo, per mia madre, che sosteneva che…
+
+“Nessuno abbastanza buono per me nei venti chilometri intorno… non riusciva nemmeno a sopportarlo.”
+
+# Pensieri su sposare quella insignificante creatura… che, in realtà…
+
+Titolo:  
+Oltre alle molteplici altre inadeguatezze che possedeva, non aveva nemmeno venti sterline…
+
+“Per poterla considerare davvero propria… La figura di Eliza era al contempo snella e formosa; il suo viso…”
+
+“Piccola, quasi rotonda come quella di mia sorella… La pelle… beh, qualcosa del genere.”
+
+Simile al suo, ma più delicato e meno appariscente nel rigoglio… il naso.
+
+#Ritrattata_ – con tratti generalmente irregolari; e, nel complesso, lei era…
+
+# Piuttosto affascinante che bella… Ma i suoi occhi… Non devo dimenticarli.
+
+# Caratteristiche notevoli: in esse risiedeva il suo principale fascino… nell’aspetto esteriore.
+
+Aspetto almeno… Erano lunghi e stretti nella forma, le iridi nere.
+
+O di un marrone molto scuro; l’espressione varia e cambia continuamente… ma…
+
+Sempre di una malvagità straordinaria… quasi avrei detto “demoniaca”.
+
+# Una voce dolce e incantevole… spesso entrambe le cose.
+
+Childish… il suo passo leggero e morbido come quello di un gatto… ma i suoi modi…
+
+Più spesso assomigliava a quello di un gattino molto giocoso… che ora…
+
+# Capricciosa e birichina, ora timida e riservata… secondo i suoi stessi desideri dolci.
+
+voglia.
+
+
+
+Sua sorella Mary era più anziana di alcuni anni, più alta di qualche centimetro… e…
+
+Di statura più alta e corporatura più robusta… una ragazza semplice, tranquilla e sensata.
+
+Con pazienza si presero cura di loro madre durante la sua lunga e tormentosa malattia.
+
+E da allora fino ad oggi ha svolto il ruolo di domestica e lavoratrice domestica per la famiglia.
+
+Nel [[Time|tempo]] passato, lei era stimata e affidabile ai suoi occhi; suo padre l’amava e cercava di conquistarla.
+
+Ai cani, ai gatti, ai bambini e alle persone povere; venivano trascurati e ignorati.
+
+da tutti gli altri.
+
+
+
+Il reverendo [[Michael]] Millward stesso era un anziano alto e imponente.
+
+#Il gentiluomo che si mise un cappello a forma di pala sopra la sua testa grande e quadrata
+
+Un volto imponente; teneva in mano un robusto bastone da passeggio…
+
+Indossò calzoni corti e gambiere sui suoi ancora forti arti… o neri.
+
+Calze di seta nelle occasioni ufficiali… Era un uomo dalle principie ferme.
+
+Pregiudizi forti e abitudini consolidate, intolleranti verso qualsiasi forma di dissenso
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_04" data-title="The Tenant of Wildfell Hall — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/childhood,motif/desire,motif/well,concept/ambition,concept/beauty,concept/education,form/hymn,character/gilbert_markham,character/richard"></span>
@@ -37792,6 +38001,166 @@ Yours immutably,
 
 [[Gilbert Markham|GILBERT MARKHAM]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Titolo:  
+Formare, agire con la ferma convinzione che le proprie opinioni siano sempre…
+
+“Giusto… e chiunque si discostasse da loro doveva essere considerato, in modo davvero deplorevole…”
+
+Ignorante, o deliberatamente cieco.
+
+
+
+Nella mia [[Childhood|infanzia]], ero sempre abituata a guardarlo con un certo sentimento.
+
+# Di un timore reverenziale… ma ultimamente, anche in questo momento, tale sentimento è stato sopraffatto, perché, nonostante tutto…
+
+Una gentilezza paterna verso coloro che si comportavano bene; tuttavia, era rigoroso.
+
+“Un educatore rigoroso, che spesso ci rimproverava aspramente per i nostri errori infantili”
+
+E piccoli peccati… E inoltre, in quei tempi, ogni volta che andava a far visita…
+
+#Dovemmo alzarci davanti a lui e recitare il nostro catechismo…
+
+Ripeti: “Come fa la piccola ape laboriosa, ”, o qualche altro [[Hymn|-inno]], o, peggio ancora.
+
+Più di ogni altra cosa, è necessario che venga interrogato riguardo al suo ultimo messaggio… e anche i responsabili delle varie strutture coinvolte devono essere ascoltati.
+
+# Discorso che non riuscimmo mai a ricordare… A volte, il nobile…
+
+Un gentiluomo rimprovererebbe mia madre per essere troppo indulgente con i suoi figli.
+
+Con riferimento all’antico Eli, o a Davide e Absalomo… che era
+
+#Particolarmente offensivo per i suoi sentimenti; e, nonostante la grande stima che provava…
+
+“Lui, e tutte le sue parole… Una volta l’ho sentita esclamare: ‘Dio mio, quanto vorrei!’”
+
+Aveva anche lui un figlio… Non sarebbe stato così pronto a dare consigli agli altri, se fosse stato al loro posto.
+
+“Allora avrebbe capito cosa significa avere un paio di ragazzi da tenere sotto controllo…”
+
+#"Ordine."
+
+
+
+# Una sollecitudine encomiabile per la propria salute fisica: andava a letto molto presto
+
+Faceva regolarmente una passeggiata prima di colazione e era estremamente attento alle…
+
+Indumenti caldi e asciutti… mai si era visto che potessero “tenere un sermone” senza…
+
+In precedenza aveva mangiato un uovo crudo… anche se possedeva polmoni particolarmente robusti.
+
+#E una voce potente…—in generale, estremamente precisa e dettagliata nel suo modo di esprimersi.
+
+Cosa mangiava e beveva… anche se per niente astemio, e con un certo modo di fare…
+
+# Abitudini alimentari particolari… un grande disprezzatore del tè e simili
+
+#"Soppi e un appassionato di bevande al malto, pancetta e uova, prosciutto, manzo essiccato..."
+
+E altre carni magre, che si adattavano abbastanza bene al suo sistema digestivo.
+
+Organi, e quindi erano considerati da lui buoni e salutari.
+
+# Per tutti, e consigliato con fiducia anche ai più sensibili
+
+# Convalescenti o digestivi difficili… che, se non riescono ad ottenere ciò che promesso…
+
+Titolo:  
+Grazie alle sue prescrizioni, venne loro detto che ciò era possibile perché non le avevano seguite.
+
+Persistette, e se si lamentavano dei risultati sgradevoli che ne derivavano…
+
+Fu loro assicurato che si trattasse soltanto di cose decorative.
+
+
+
+Titolo:  
+Farò solo riferimento ad altre due persone di cui ho parlato…
+
+# Concludiamo questa lunga lettera. Queste sono la signora Wilson e…
+
+Figlia… La prima era la vedova di un agricoltore benestante.
+
+Mente ristretta, pettegole e vecchia chiacchierona… una persona il cui carattere non merita alcun rispetto.
+
+# Due figli
+
+[[Richard]], un giovane studioso sul punto di concludere i suoi studi, si dedicava allo studio dei classici.
+
+Con l’aiuto del vicario, si prepara per l’università, con l’intento di…
+
+Entrare nella chiesa.
+
+
+
+Sua sorella Jane era una giovane signorina dotata di alcuni talenti, e soprattutto piena di [[Ambition|ambizione]].
+
+Su sua stessa [[Desire|volontà]], aveva accettato di frequentare una scuola internata regolare.
+
+Un'[[Education|istruzione]] superiore a quella che qualsiasi altro membro della famiglia avesse mai ricevuto.
+
+Prima. Aveva applicato lo smalto con cura, ottenendo così un’effetto di grande eleganza.
+
+#Di buone maniere, aveva completamente perso il suo accento provinciale e poteva vantarsi di possederne molte altre…
+
+Aveva più realizzazioni delle figlie del vicario; era considerata una [[Beauty|bellezza]].
+
+Titolo:  
+Oltre… ma per nessun momento avrebbe potuto considerarmi tra i suoi.
+
+Ammiratori… Aveva circa ventisei anni, era piuttosto alta e molto snella.
+
+“Il suo capello non era né castano né rossastro, ma di un colore vivido e deciso…”
+
+# Rosso chiaro; la sua pelle era straordinariamente chiara e luminosa, la sua testa…
+
+Piccolo, con il collo lungo; il mento era ben definito, ma molto corto; le labbra sottili e rosse.
+
+Titolo:  
+Occhi chiari, castani, veloci e penetranti… ma completamente privi di…
+
+Poesia o sentimento… Aveva, o forse avrebbe potuto avere, molti corteggiatori…
+
+Titolo:  
+Rango sociale… ma tutti venivano scartati con disprezzo; perché nessuno…
+
+Solo un gentiluomo avrebbe potuto soddisfare i suoi gusti raffinati… e solo uno ricco.
+
+Avrebbe potuto soddisfare la sua ambizione smisurata. C'era un certo signore.
+
+Recentemente aveva ricevuto alcune attenzioni piuttosto insistenti da parte di…
+
+Cuore, nome e fortuna, si mormorava che avesse grandi ambizioni.
+
+#Questo era il signor Lawrence, il giovane gentiluomo la cui famiglia in passato…
+
+Wildfell Hall era occupata, ma era stata abbandonata circa quindici anni fa.
+
+per una residenza più moderna e comoda nel vicino distretto parrocchiale.
+
+
+
+Ora, Halford, addio per il momento… Questo è solo l’inizio.
+
+# Pagamento del mio debito. Se la moneta vi soddisfa, ditemelo e ve la manderò.
+
+“Vi racconterò il resto quando ne avrò il tempo… Se preferite rimanere i miei creditori, va bene…”
+
+“Riempite la vostra borsa con pezzi così ingombranti e pesanti… Ditemelo ancora.”
+
+Perdonerò il tuo cattivo gusto e terrò volentieri il tesoro per me.
+
+
+
+Il tuo fedele e invariabile,
+
+[[Gilbert Markham|GILBERT MARKHAM]].
 
 
 
@@ -41553,6 +41922,284 @@ declined my proffered aid in so kind and friendly a manner that I
 almost forgave her.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un po’ di arrampicata attiva mi portò presto nel luogo in cui si trovava lei.
+
+#"In posizione stabile": una stretta sporgenza di roccia proprio sul bordo del dirupo..."
+
+# Discende con un pendio ripido e scosceso, fino alle rocce sottostanti
+
+Sulla riva.
+
+
+
+Non mi sentì arrivare: l’ombra della mia [[Shadow|ombra]] cadde sul suo foglio di carta.
+
+Le diede una spinta improvvisa; lei si guardò intorno in fretta, cercando un’altra signora…
+
+Qualsiasi persona che conosco avrebbe urlato di fronte a un allarme così improvviso.
+
+
+
+“Oh! Non sapevo che fossi tu… Perché mi hai spaventata così?” disse lei.
+
+“Con un certo tono irritato: ‘Odio quando qualcuno mi sorprende in questo modo.’”
+
+
+
+“Ma che cosa pensavate di me?”, dissi: “Se avessi saputo che eravate così…”
+
+Nervoso… Avrei dovuto essere più cauto; ma…
+
+
+
+“Beh, non importa. Perché sei venuto? Verranno tutti?”
+
+
+
+“No; questa piccola sporgenza a malapena potrebbe contenerli tutti.”
+
+
+
+“Sono contento, perché sono stanco di parlare.”
+
+
+
+“Allora, non parlerò. Mi limiterò a sedermi e guardare il tuo disegno.”
+
+
+
+“Ah, ma sai che a me non piace affatto.”
+
+
+
+“Allora mi accontenterò di ammirare questa magnifica vista.”
+
+
+
+Non ebbe alcuna obiezione al riguardo; e, per un po', continuò a disegnare tranquillamente.
+
+[[Silence|silenzio]]. Ma non riuscivo a fare a meno di gettare occhiate di tanto in tanto.
+
+#Una vista magnifica ai nostri piedi… quella mano elegante e bianca che la reggeva
+
+# Pennello, e il grazioso collo con le lucide onde di capelli neri che pendevano…
+
+Il foglio di carta.
+
+
+
+“Ora”, pensai, “se solo avessi una penna e un pezzetto di carta, potrei…”
+
+Creare uno [[Sketch|schizzo]] più bello del suo, ammettendo di avere il potere per farlo.
+
+“Ritrarre fedelmente ciò che ho davanti agli occhi.”
+
+
+
+Ma anche se mi fu negata questa soddisfazione, ero comunque molto [[Well|soddisfatto]].
+
+Siediti accanto a lei e non dire nulla.
+
+
+
+“È ancora lì, signor Markham?”, chiese infine, guardandosi intorno.
+
+“Su di me… poiché ero seduto un po’ più indietro, su una sporgenza ricoperta di muschio…”
+
+# “Perché non vai a divertirti con i tuoi amici?”
+
+
+
+"#Perché ne ho abbastanza, proprio come te; ne avrò davvero finita."
+
+Domani, o in qualsiasi altro [[Time|momento]] a partire da ora, ma non avrò il piacere di.
+
+“Rivedere di nuovo… chissà per quanto tempo ancora.”
+
+
+
+“Cosa stava facendo [[Arthur]] quando sei andato via?”
+
+
+
+“Era con la signorina Millward, dove lo avete lasciato… Va bene, ma spero…”
+
+“Mamma non sarebbe stata lontana… A proposito, non mi hai affidato lui, vero?”
+
+Mormoravo: “Anche se ho avuto l’[[Honour|onore]] di conoscerlo da molto tempo, ”
+
+“La signorina Millward possiede davvero l’arte di conciliare e intrattenere i bambini”, dissi.
+
+Aggiunto senza pensarci: “se per nient’altro non è utile…”
+
+
+
+"#Miss Millward possiede molte qualità apprezzabili, qualità che persone come te non possono avere."
+
+Si prevede che possa percepire o apprezzare. Potresti dire a [[Arthur]] che io.
+
+“Arriverà tra pochi minuti?”
+
+
+
+“Se è così, aspetterò, con il vostro permesso, fino a quando quei pochi…”
+
+“Minuti sono passati… e poi potrò aiutarvi a scendere da questa situazione difficile.”
+
+“Sentiero.”
+
+
+
+# Grazie… In occasioni del genere, riesco sempre a cavarmela meglio senza…
+
+Aiuto.
+
+
+
+“Ma almeno posso portare il tuo sgabello e il tuo quaderno di [[Sketch|schizzi]].”
+
+
+
+Non mi rifiutò questo favore; tuttavia ne fui piuttosto offeso.
+
+Un evidente [[Desire|desiderio]] di liberarsi di me, e stava iniziando a pentirsi per ciò che aveva fatto.
+
+**Tenacia… quando, in qualche modo, mi placò ascoltando i miei gusti.**
+
+Giudizio su una questione dubbia riguardante il suo disegno… La mia opinione.
+
+Fortunatamente ottenne il suo consenso, e le modifiche che avevo proposto furono accettate.
+
+Adottato senza esitazione.
+
+
+
+“Spesso ho desiderato invano”, disse lei, “che qualcun altro potesse giudicare al mio posto…”
+
+#Un appello quando a malapena riuscivo a fidarmi della direzione del mio stesso sguardo
+
+# Testa… poiché erano da tempo immersi nella riflessione su…
+
+Un singolo oggetto che diventa quasi incapace di formare un’idea chiara e comprensibile
+
+“Riguardo ad esso…”
+
+
+
+“Quello”, risposi, “è soltanto uno dei tanti mali che comporta una vita solitaria…”
+
+“Ci espone al pericolo.”
+
+
+
+“Vero,” disse lei; e di nuovo cademmo nel [[Silence|silenzio]].
+
+
+
+Circa due minuti dopo, tuttavia, dichiarò che il suo [[Sketch|schizzo]] era completato.
+
+e chiuse il libro.
+
+
+
+Titolo:  
+Tornando sul luogo dove avevamo mangiato, trovammo che tutta la compagnia era…
+
+Lo abbandonarono tutti, ad eccezione di tre: Mary Millward, [[Richard]] Wilson.
+
+e [[Arthur]] Graham. Il giovane signore dormiva profondamente, con la testa.
+
+Posato sul grembo della signora; l’altro era seduto accanto a lei…
+
+Edizione tascabile di un autore classico… Lui non l’ha mai letta.
+
+Qualsiasi luogo, purché non ci sia un compagno con cui condividere il proprio tempo libero e migliorarlo…
+
+Momenti: in ogni [[Time|momento]] sembrava che tutto ciò che non veniva dedicato allo studio andasse perso, o forse no.
+
+Esigeva, per via della sua natura fisica, soltanto il minimo necessario per sopravvivere. Anche ora.
+
+Non poteva abbandonarsi al piacere di quell’aria pura…
+
+# Calda luce del sole… quella meravigliosa prospettiva, e quei suoni rilassanti…
+
+La musica delle onde e del dolce [[Wind|>vento]] tra gli alberi che offrono riparo.
+
+Lui… nemmeno con una donna al suo fianco (anche se non molto attraente, devo ammetterlo).
+
+Gli sarà permesso di farlo: dovrà tirare fuori il suo libro e sfruttare al massimo il proprio [[Time|tempo]].
+
+Mentre digeriva il suo pasto moderato e riposava le sue stanche membra…
+
+Non abituato a tanto esercizio fisico.
+
+
+
+Forse, tuttavia, si prese un momento per scambiare una parola o uno sguardo.
+
+Con il suo compagno, di tanto in tanto… Comunque, lei non si è mai fatta vedere affatto.
+
+Rimasta indignata dal suo comportamento; poiché i suoi tratti semplici e familiari esprimevano un’aria di disapprovazione…
+
+Un insolita allegria e serenità… Lei lo osservava, mentre lui aveva il viso pallido.
+
+Un viso pensieroso, con un grande senso di compiacimento quando siamo arrivati.
+
+
+
+Il [[Journey|viaggio]] di ritorno a casa non fu affatto altrettanto piacevole per me come il precedente.
+
+“Parte della giornata… Per il momento, la signora Graham si trovava nella carrozza, insieme a Eliza.”
+
+Millward fu la mia compagna durante quella passeggiata; lei aveva notato la mia preferenza…
+
+#Per la giovane vedova… e chiaramente si sentiva trascurata. Lei non…
+
+Manifesta il suo disappunto con aspre rimproveri, amare sarcasmi o atteggiamenti di broncio.
+
+Un cupo [[Silence|silenzio]]. Qualsiasi di queste cose avrei potuto facilmente sopportare, o.
+
+Rispose alle battute con un sorriso leggero; ma lo mostrava attraverso una sorta di dolce [[Melancholy|melancolia]].
+
+Un leggero dolore, carico di rimprovero, mi colpì profondamente nel cuore… Cercai di rallegrarmi.
+
+#"Alzatala in piedi, e apparentemente riuscì in qualche misura nel suo intento, prima che iniziasse la passeggiata..."
+
+Finì, ma proprio in quel momento la mia [[Conscience|coscienza]] mi rimproverò, poiché sapevo bene.
+
+Titolo:  
+Che, prima o poi, quel legame dovesse essere spezzato… e questo era l’unico modo per farlo.
+
+Nutrire false speranze e rimandare il giorno del male.
+
+
+
+Quando la carrozza a cavalli si avvicinò a Wildfell Hall il più possibile lungo la [[Road|strada]].
+
+# Non permetterebbe mai… a meno che non si procedesse lungo quel sentiero accidentato e lungo.
+
+“La signora Graham non lo permise: la giovane vedova e suo figlio scesero dalla carrozza.”
+
+Lasciando il posto di guida a [[Rose]], riuscii a convincere Eliza ad occuparlo.
+
+Il posto dell’ultima… Dopo averla sistemata comodamente, le dissi di prendersi cura di sé.
+
+L’aria serale. Le augurai una buona notte. Mi sentivo davvero bene.
+
+Sollevato, mi affrettai ad offrire il mio aiuto alla signora Graham per aiutarla…
+
+“Apparecchi sparsi per i campi… ma lei aveva già appeso la sua sedia da campeggio lì.”
+
+Armata e con il suo libro di [[Sketch|schizzi]] in mano, insistette per salutarmi.
+
+Addio, allora, lì stesso, insieme al resto del gruppo. Ma questa volta lei.
+
+Rifiutò l’aiuto che le offrivo in modo così gentile e cordiale che io…
+
+Quasi la perdonò.
+
 
 
 <span class="atom-split" data-atom="chapter_08" data-title="The Tenant of Wildfell Hall — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/artist,archetype/child,archetype/fool,motif/blood,motif/death,motif/garden,motif/grave,motif/home,motif/leaves,motif/marriage,motif/night,motif/rose,motif/time,motif/well,motif/window,concept/courage,concept/doubt,concept/fear,concept/friendship,concept/madness,concept/pride,concept/revenge,concept/vanity,form/sketch,setting/london,character/arthur"></span>
@@ -42972,6 +43619,302 @@ word.
 
 I had wounded him to the quick; and I was glad of it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Anche tua madre, se avessi incluso anche lei nelle tue critiche…”
+
+
+
+“Non intendevo mai criticare nessuno, e certamente non avevo alcuna intenzione del genere.”
+
+“Allusioni irrispettose verso tua madre… Ne conosco alcuni davvero insensati.”
+
+Personaggi grandi esperti di quel tipo di conversazione quando le circostanze lo richiedono…
+
+Li spinse ad farlo; ma è un dono di cui non posso vantarmi di possederlo.
+
+# Ho mantenuto l’attenzione su questo argomento per tutto il tempo possibile, ma quando…
+
+# Le energie erano esaurite… Mi allontanai per cercare qualche minuto di riposo
+
+# Questa tranquilla passeggiata… Odio parlare quando non c’è alcuno scambio di idee.
+
+“Sentimenti… e nulla di buono viene dato o ricevuto.”
+
+
+
+“Beh,” dissi, “se mai dovessi disturbarvi con la mia loquacità, ditemelo pure.”
+
+# Una volta… e prometto di non offendermi; poiché possiedo questa capacità.
+
+Godendomi la compagnia di coloro che sono, dei miei amici, sia nella [[Silence|silenzio]] che in ogni altro modo.
+
+“Conversazione”.
+
+
+
+#"Non credo del tutto in te… Ma se fosse vero, saresti proprio la persona adatta per me."
+
+“Per un compagno…”
+
+
+
+“Sono dunque tutto ciò che desideri in altri aspetti?”
+
+
+
+"No, non intendo quello… Che bellezza quelle piccole grappoli di foglie…"
+
+“Guarda, da dove entra il sole dietro di loro!”, disse lei, apposta per…
+
+Cambiare argomento.
+
+
+
+# E davvero sembravano bellissimi, con quei raggi luminosi che apparivano a intervalli regolari…
+
+#Il sole che penetra attraverso la fitta vegetazione dall’altra parte
+
+#Della strada davanti a noi, il cui verde scuro veniva mitigato da…
+
+Foglie semitransparenti di un brillante colore verde dorato.
+
+
+
+“Quasi desiderassi non essere un pittore,” osservò il mio compagno.
+
+
+
+“Perché mai? Si potrebbe pensare che, in un momento del genere, tu dovresti essere il più felice, ”
+
+# Il privilegio di poter imitare le varie caratteristiche brillanti e deliziose
+
+Elementi della [[Nature|>natura]].
+
+
+
+“No; perché invece di consegnarmi completamente al piacere che mi offrivano…”
+
+Come fanno gli altri, anch’io mi chiedo sempre come potrei riuscire a…
+
+Lo stesso effetto sul telaio… E poiché questo è impossibile da realizzare, tutto ciò non è altro che…
+
+“Vanità” e “angoscia nello spirito”.
+
+
+
+“Forse non riesci a farlo per soddisfare le tue esigenze, ma puoi e lo fai.”
+
+Riuscire a compiacere gli altri con i risultati dei propri sforzi.
+
+
+
+“Beh”, dopotutto, non dovrei lamentarmi: forse poche persone riescono a ottenere ciò che desiderano.
+
+#Un mezzo di sussistenza… con tanto piacere nel proprio lavoro, come faccio io. Ecco alcuni esempi…
+
+“Qualcuno sta arrivando.”
+
+
+
+Sembrava infastidita dall'interruzione.
+
+
+
+“Sono solo il signor Lawrence e la signorina Wilson,” dissi, “che sono venuti a… godersi qualcosa.”
+
+Passeggiata tranquilla… Non ci disturberanno.
+
+
+
+Non riuscivo proprio a decifrare l’espressione sul suo viso… ma…
+
+Soddisfatto che non vi fosse alcuna [[Jealousy|invidia]] in ciò, quale motivo avrei avuto di guardare oltre?
+
+Per questo?
+
+
+
+“Che tipo di persona è la signorina Wilson?” chiese lei.
+
+
+
+#Elegante e colta, al di sopra delle aspettative della sua condizione sociale…
+
+“Stazione… e alcuni dicono che sia gentile e piacevole da frequentare.”
+
+
+
+“Mi è sembrata piuttosto fredda e altezzosa nel suo comportamento.”
+
+“Oggi stesso.”
+
+
+
+“È molto probabile che lei possa comportarsi allo stesso modo con te… È possibile che abbia già sviluppato un pregiudizio nei tuoi confronti.”
+
+“Contro di te… perché penso che lei ti consideri una rivale.”
+
+
+
+“Me? Impossibile, signor Markham!” disse lei, chiaramente sorpresa.
+
+arrabbiato.
+
+
+
+“Beh, non ne so nulla,” risposi in modo piuttosto testardo; perché io.
+
+Pensai che il suo fastidio fosse rivolto principalmente verso di me.
+
+
+
+Il duo si era ormai avvicinato a pochi passi da noi; il nostro padiglione…
+
+Posizionato comodamente in un angolo, di fronte al quale l’avenue termina…
+
+Si diresse verso il sentiero più arioso, che si estendeva lungo la [[Bottom|parte inferiore]] del [[Garden|giardino]].
+
+# Il modo in cui affrontarono la questione, a giudicare dall’atteggiamento di Jane Wilson, indicava chiaramente…
+
+Attirando l’attenzione del suo compagno verso di noi; e, come era tipico della sua freddezza.
+
+Sorriso sarcastico, come quelle poche parole isolate del suo discorso…
+
+Quando mi raggiunse, sapevo molto bene che stava cercando di impressionarlo con quell’idea.
+
+#Noi eravamo profondamente legati l’uno all’altro… Notai che lui…
+
+Il viso arrossito fino alle tempie, ci lanciò uno sguardo furtivo mentre passava…
+
+Proseguì camminando, con un'espressione [[Grave|seria]], ma apparentemente senza intenzione di risponderle.
+
+Osservazioni.
+
+
+
+Era vero, dunque, che aveva certi progetti riguardo alla signora Graham…
+
+# Se fossero onesti, non avrebbe tanta fretta di nasconderli. _Lei_
+
+Era certamente senza colpa, ma era odioso in modo indescrivibile.
+
+
+
+Mentre questi pensieri mi attraversavano la mente, il mio compagno improvvisamente…
+
+La [[Rose|rosa]], e chiamando suo figlio, disse che ora avrebbero proseguito nella [[Quest|ricerca]] di.
+
+#Si allontanò in compagnia di qualcuno, lungo la strada… Senza dubbio aveva sentito o intuito qualcosa.
+
+Qualcosa delle osservazioni della signorina Wilson… quindi era del tutto naturale.
+
+# Non dovrebbe più scegliere di proseguire con quel “tête-à-tête”, soprattutto…
+
+In quel momento le mie guance ardevano di indignazione verso di lui…
+
+#Ex vecchia amica… il cui segno potrebbe essere scambiato per un rossore…
+
+# Una stupida umiliazione… Per questo dovevo accumulare un altro rancore nei confronti della signorina Wilson.
+
+E più ci pensavo sul suo comportamento, più la odiavo.
+
+
+
+Era già tardi nella serata quando mi unii al gruppo. Trovai la signora.
+
+Graham era già pronto per la partenza e si congedò dagli altri.
+
+Coloro che erano stati riportati nella [[house|>casa]], io offrii, anzi supplicai di poterli accompagnare.
+
+La sua [[Home|>casa]]. A quell’[[Time|ora]], il signor Lawrence stava lì, chiacchierando con alcune persone.
+
+Un altro… Non ci guardò, ma, dopo aver sentito la mia sincera richiesta, lui…
+
+Si fermò a metà frase per ascoltare la sua risposta, e poi…
+
+Con un’espressione di tranquilla soddisfazione, nel momento in cui si rese conto che era così…
+
+Un diniego.
+
+
+
+# Una negazione, deciso… anche se non priva di gentilezza. Non fu possibile convincerla.
+
+Pensare che attraversando quei luoghi ci fosse pericolo per lei o per suo [[Child|bambino]].
+
+Strade desolate e campi solitari, senza alcuna presenza umana. Era ancora giorno…
+
+# Non dovrebbe incontrare nessuno; o, se lo facesse, le persone sarebbero silenziose…
+
+Era innocua, ne era assolutamente certa. Anzi, non avrebbe mai preso in considerazione l’idea che qualcuno potesse farle del male.
+
+#Offrendosi di accompagnarla, nonostante Fergus...
+
+Disponibile per offrire i propri servizi, nel caso possano risultare più accettabili.
+
+Più di quanto fosse il mio, e mia madre pregò che le permettessero di inviare uno dei contadini…
+
+Per scortarla.
+
+
+
+# Quando se ne andò, tutto il resto divenne vuoto… o peggio. Lawrence provò…
+
+Per attirarmi nella conversazione, ma l’ho ignorato e sono andata da un altro.
+
+“Una parte della stanza… Poco dopo la fine della festa, lui stesso…”
+
+# Lascia andare. Quando si avvicinò a me, fui cieca alla sua mano tesa e sorda alle sue parole…
+
+Trascorse tutta la sua buona [[Night|notte]] ripetendolo una seconda volta; e poi, per liberarsene.
+
+Riguardo a lui, mormorai una risposta inarticolata, accompagnandola con un cenno del capo scontroso.
+
+
+
+“Che c’è che non va, Markham?” sussurrò.
+
+
+
+Risposi con uno sguardo pieno di rabbia e disprezzo.
+
+
+
+“Sei arrabbiato perché la signora Graham non ti ha lasciato andare a [[Home|casa]] con lei?”
+
+Chiese, con un debole sorriso che quasi mi esasperava oltre ogni limite.
+
+
+
+Ma, trattenendo tutte le risposte più accese, chiesi semplicemente: “Che…”
+
+“È affar tuo?”
+
+
+
+“Beh, nessuno,” rispose lui con una calma provocatoria; “solo…” e alzò…
+
+# I suoi occhi fissi sul mio viso, parlò con una solennità insolita: “Lasciami solo…”
+
+#"Ti dico una cosa, Markham: se hai qualche intenzione del genere, lasciala perdere."
+
+Certo che fallirà… E mi addolora vedere che tu coltivi illusioni.
+
+“Speranze vane e lo spreco delle proprie forze in sforzi inutili…”
+
+
+
+“Ipocrita!”, esclamai; e lui trattenne il respiro, guardandomi con aria molto…
+
+# Il pesce, il cui ventre era diventato bianco intorno alle branchie, se ne andò senza dire altro
+
+Parola.
+
+
+
+Lo avevo ferito gravemente; ed ero felice di questo.
 
 
 
@@ -44713,6 +45656,132 @@ severer the better—it would help to account for the sullen moods and
 moping [[Melancholy|melancholy]] likely to cloud my brow for long enough.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quello che teneva in mano.
+
+
+
+“Oh, Gilbert, come come tremi così!” esclamò mia madre ansiosa. “Sei così pallido…”
+
+“Guarda un po’! Dimmi cosa è… È successo qualcosa?”
+
+
+
+“Niente di grave,” esclamai, pronto a sbuffare per l’irritazione…
+
+“La candela non si accendeva… Allora, reprimendo la mia irritazione, aggiunsi: ‘Ho…’”
+
+Ho camminato troppo velocemente, nient'altro. Buona [[Night|notte]],» e si diresse verso il letto.
+
+“Nonostante le domande del tipo ‘Cammini troppo velocemente… dove sei stata?’…”
+
+Mi chiamarono dal basso.
+
+
+
+#Mia madre mi seguì fino alla porta della mia stanza, continuando a pormi domande
+
+# Consigli riguardo alla mia salute e al mio comportamento; ma la pregai ardentemente…
+
+Lasciami [[Alone|da solo]] fino al mattino; poi se ne andò, e alla fine riuscii ad avere.
+
+Un senso di soddisfazione nel sentirla chiudere la sua porta. Non riuscivo a dormire.
+
+Tuttavia, quella [[Night|notte]], come pensavo io; invece di provare a chiedere.
+
+# Camminavo avanti e indietro nella stanza, con passi rapidi…
+
+#Ho tolto le mie scarpe per non far sentire mia madre… Ma quelle assi…
+
+“Crackò… e lei rimase all’erta. Non avevo percorso nemmeno un quarto di…”
+
+Un’ora prima, era già di nuovo alla porta.
+
+
+
+“Gilbert, perché non sei a letto? Hai detto che volevi andare a dormire…”
+
+
+
+“Maledizione! Me ne vado,” dissi io.
+
+
+
+“Ma perché ci metti così tanto tempo? Deve esserci qualcosa che ti trattiene…”
+
+# Mente…
+
+
+
+“Per l’amor del cielo, lasciami [[Alone|da solo]] e vai a letto tu stesso.”
+
+
+
+“Può davvero essere la signora Graham a causarti tanta angoscia?”
+
+
+
+"No, no, vi dico… non è nulla."
+
+
+
+“Spero davvero che non accada”, mormorò lei, sospirando.
+
+Tornata nel suo appartamento, io mi gettai sul letto, sentendomi…
+
+“Most undutifully disaffected towards her… for having deprived me of what…”
+
+Sembrava l’unica [[Shadow|ombra]] di consolazione che mi rimanesse, e mi incatenò.
+
+su quel maledetto letto di spine.
+
+
+
+Non ho mai sopportato una [[Night|notte]] così lunga e così miserabile. Eppure.
+
+Non ero del tutto sveglio; verso l’alba, i miei pensieri distragenti iniziarono a manifestarsi…
+
+# Perdere ogni pretesa di coerenza e assumere una forma diversa
+
+Sogni confusi e febbrili. E infine, ne seguì uno.
+
+Un intervallo di sonno profondo e incosciente. Ma poi arrivava l’alba di un momento amaro.
+
+# Ricordo che sopravvenne… il risveglio per scoprire che la vita era vuota, e peggio ancora
+
+Più di un vuoto spazio pieno di tormento e miseria… non semplicemente un terreno sterile.
+
+Deserto… ma pieno di spine e rovi: per scoprire di essere stato ingannato.
+
+Ingannato, senza speranza… i miei sentimenti calpestati… il mio “angelo” non è affatto un angelo…
+
+# E il mio amico, un vero demonio in carne e ossa… Era peggio di non aver dormito affatto.
+
+tutti.
+
+
+
+#Una mattina triste e cupa; il tempo era cambiato, proprio come me…
+
+Prospettive, e la pioggia batteva contro la [[Window|finestra]]. Mi sono alzato.
+
+Comunque sia, uscì… ma non per prendersi cura della fattoria, anche se avrebbe dovuto farlo.
+
+“Sarebbe una scusa perfetta… ma in realtà serve solo per raffreddarmi la testa e riprendermi, se possibile…”
+
+# Una sufficiente calma per incontrare la famiglia…
+
+“Colazione senza commenti noiosi o scomodi… Se solo riuscissi a non bagnarmi…”
+
+“Che, unito a una finta eccessiva attività fisica prima di colazione…”
+
+“Potrebbe scusare la mia improvvisa perdita di appetito… E se fosse seguita da un raffreddore…”
+
+“Meglio tagliare via ciò che è superfluo… Questo potrebbe spiegare quegli umori cupi…”
+
+La mia costante [[Melancholy|malinconia]] probabilmente continuerà ad offuscarmi il viso per molto tempo ancora.
+
 
 
 <span class="atom-split" data-atom="chapter_13" data-title="The Tenant of Wildfell Hall — Chapter 13" data-chapter="Chapter 13" data-kind="chapter" data-tags="archetype/ghost,motif/fire,motif/hill,motif/home,motif/horse,motif/love,motif/nature,motif/pain,motif/rose,motif/time,motif/wheel,motif/window,concept/nature,concept/pride,concept/resignation,concept/truth,concept/wonder,character/arthur"></span>
@@ -45859,6 +46928,240 @@ about her. The interview may be serviceable to her, or it may not. At
 any rate, it will give a breath of excitement to the life she has
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XV
+
+
+
+
+
+Quel giorno pioveva, proprio come il giorno precedente; ma verso sera iniziò a…
+
+Per schiarire un po’ le cose… La mattina seguente il tempo era sereno e promettente. Io…
+
+Era fuori sulla [[Hill|collina]] con i mietitori. Una leggera [[Wind|>brezza]] soffiava sul grano.
+
+E tutta la [[Nature|natura]] rideva sotto il sole. Il cuculo si rallegrava tra.
+
+“I nuvole argentee che galleggiano nel cielo… La pioggia appena finita aveva reso l’aria così fresca e dolce…”
+
+#Rinfrescò l’aria, pulì il cielo e lasciò dietro di sé gemme scintillanti…
+
+# Ramo e foglia… che nemmeno i contadini avrebbero il cuore di distruggere
+
+“Colpa di questo e di quello… Ma nessun raggio di sole riusciva a raggiungere il mio cuore, nessuna brezza poteva…”
+
+Rinfrescarlo. Niente poteva colmare il vuoto lasciato dalla mia [[Faith|>fede]], dalla mia [[Hope|>speranza]] e dalla mia gioia.
+
+[[Helen]] Graham se n'era andata, o forse aveva cercato di allontanare quei profondi rimpianti e quelle amare sensazioni di rancore.
+
+Di un amore persistente che continuava a opprimerlo.
+
+
+
+#Mentre stavo lì con le braccia incrociate, assorto a fissare le onde che si muovevano lentamente…
+
+“Ondata di grano, ancora intatta dai mietitori… qualcosa di dolce e tranquillo…”
+
+“Mi tirò su la gonna… e una voce sommessa, ormai non più gradita alle mie orecchie…”
+
+“Signor Markham, mamma la cerca,” queste parole sorprendenti mi hanno destato.
+
+
+
+“Vuole me, [[Arthur]]?”
+
+
+
+“Sì… Perché sembri così strano?” disse lui, metà ridendo, metà…
+
+#Spaventato dall’aspetto inaspettato del mio viso, che è apparso all’improvviso…
+
+Verso di lui: “E perché sei stato via così a lungo? Vieni, non vuoi…”
+
+“Come?”
+
+
+
+“Adesso sono occupato,” risposi, senza sapere bene cosa dire.
+
+
+
+Alzò lo sguardo con un’espressione di infantile perplessità; ma prima che potessi parlare di nuovo…
+
+La stessa signora era al mio fianco.
+
+
+
+“Gilbert, devo assolutamente parlarti!” disse lei, con un tono trattenuto.
+
+Veemenza.
+
+
+
+Guardai il suo viso pallido e i suoi occhi scintillanti, ma non risposi nulla.
+
+
+
+“Solo per un momento“, pregò lei. “Mettiti da parte, solo per un attimo…”
+
+“Campo…” Lanciò un’occhiata ai mietitori, alcuni dei quali le rivolgevano sguardi.
+
+“Una curiosità impertinente nei suoi confronti… ‘Non vi tratterrò nemmeno un minuto.’”
+
+
+
+L’accompagnai attraverso quell’apertura.
+
+
+
+“[[Arthur]], caro, vai a raccogliere quelle viole blu,” disse lei, indicando.
+
+Per alcuni che brillavano in lontananza, sotto la siepe lungo cui…
+
+Camminammo. Il [[Child|bambino]] esitò, come se non volesse allontanarsi da me. “Vai, ”
+
+“[[Love|amore]]!”, ripeté lei con maggiore urgenza, e con un tono che, sebbene non.
+
+Spietato, esigeva obbedienza immediata e la otteneva.
+
+
+
+“Beh, signora Graham?”, dissi con calma e freddezza; perché, anche se vedevo che.
+
+# Era misera… e provavo compassione per lei; ero felice di poter fare qualcosa al riguardo.
+
+Tormentarla.
+
+
+
+Mi fissò con uno sguardo che mi penetrò fino al cuore.
+
+Eppure, questo mi fece sorridere.
+
+
+
+“Non chiedo il motivo di questo cambiamento, Gilbert”, disse lei, con amarezza.
+
+Calmità: “Lo so anch’io molto bene; ma anche se potrei essere sospettato, ”
+
+# Condannato da tutti gli altri… e lo sopporto con calma… ma non posso…
+
+#Sopportalo da te… Perché non sei venuto ad ascoltare la mia spiegazione?
+
+“Il giorno che avevo fissato per farlo?”
+
+
+
+#Perché nel frattempo ho imparato tutto ciò che avresti potuto dirmi
+
+“Me… e forse qualcos’altro in più, immagino.”
+
+
+
+“Impossibile… perché vi avrei detto tutto!” gridò lei.
+
+Con passione… “Ma ora non lo farò, perché vedo che non ne sei degno!”
+
+
+
+E le sue labbra pallide tremavano per l’agitazione.
+
+
+
+“Perché no, posso chiedere?”
+
+
+
+Con uno sguardo pieno di disprezzo e indignazione, respinse il mio sorriso beffardo.
+
+
+
+#"Perché non mi hai mai capito, altrimenti avresti ascoltato molto prima"
+
+“Alle mie traduttrici… la mia fiducia in voi sarebbe del tutto infondata: voi non siete quelle giuste.”
+
+“Amico, pensavo fossi tu… Vai pure! Non mi interessa affatto cosa penserai di me.”
+
+
+
+Si allontanò, e io la seguii; perché pensavo che questo l’avrebbe tormentata ancora di più…
+
+“Più di qualsiasi altra cosa… E credo di aver avuto ragione; perché, ripensandoci ora…”
+
+Dopo, la vidi girarsi di scatto, come se sperasse o si aspettasse di trovarmi lì.
+
+Ancora accanto a lei; poi si fermò e gettò uno sguardo indietro.
+
+# Un sguardo che esprimeva meno rabbia che amara angoscia
+
+[[Despair|disperazione]]; ma immediatamente assunsi un'aria di indifferenza.
+
+# Fingendo di guardarsi intorno distrattamente…
+
+Dopo essermi soffermato un po’ per vedere se sarebbe tornata o avrebbe chiamato…
+
+Gettò un’altra occhiata e la vide lontana, in movimento rapido verso l’alto.
+
+Il campo, con il piccolo [[Arthur]] che correva al suo fianco, apparentemente.
+
+Mentre parlava, lei teneva il viso girato lontano da lui, come se volesse evitare di guardarlo…
+
+Nascondere qualche emozione incontrollabile. E poi tornai alle mie faccende.
+
+
+
+Ma presto iniziai a pentirmi della mia fretta nel lasciarla così in fretta.
+
+Era evidente che mi amasse… Probabilmente si era stancata di Mr. Lawrence.
+
+Voleva scambiarlo con me… E se l’avessi amata e rispettata…
+
+Innanzitutto, quella preferenza avrebbe potuto soddisfarmi e divertirmi…
+
+Ma ora il contrasto tra ciò che appare esteriormente e ciò che realmente pensa…
+
+Come mi aspettavo… c’era davvero una grande differenza tra la mia opinione precedente e quella attuale su di lei.
+
+# Straziante… così doloroso per i miei sentimenti, che tutto venne sommerso da esso
+
+Una considerazione più superficiale.
+
+
+
+Ma comunque ero curioso di sapere quale tipo di spiegazione avrebbe dato.
+
+# Quanto mi ha dato… o mi darebbe ora, se glielo chiedessi…
+
+# Confesserebbe, e come si sforzerebbe di scusarsi… Desideravo ardentemente che accadesse.
+
+“Per sapere cosa disprezzare e cosa ammirare in lei… quanto pietà provare…”
+
+# E quanto sia necessario odiare… E, cosa ancora più importante, lo avrei saputo. Lo avrei capito.
+
+Ancora una volta… e finalmente riuscire a capire esattamente come considerarla.
+
+Prima che ci separassimo… Perduta per me, ovviamente, per sempre; ma comunque…
+
+Non riuscivo a sopportare l’idea che ci fossimo separati, per l’ultima volta, in modo così.
+
+Molta crudeltà e sofferenza da entrambe le parti… Quello sguardo finale di lei…
+
+Si insediò nel mio cuore; non riuscivo a dimenticarlo. Ma che [[Fool|idiota]] ero. Avrei dovuto.
+
+Non mi ha ingannata, ma mi ha ferita, distruggendo la mia felicità per tutta la vita. “Beh, ”
+
+“La vedrò comunque”, fu la mia decisione finale, “ma non oggi”.
+
+Oggi e di notte potrà riflettere sui suoi peccati e sentirsi altrettanto infelice.
+
+Domani la rivedrò ancora una volta e scoprirò qualcosa in più su di lei.
+
+#Sull’argomento… L’intervista potrebbe esserle utile, o forse no. Comunque sia…
+
+Comunque sia, porterà un pizzico di emozione nella sua vita monotona.
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_02" data-title="The Tenant of Wildfell Hall — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/dreams,motif/fire,motif/garden,motif/love,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/self,concept/temptation,concept/truth,character/helen"></span>
@@ -46973,6 +48276,290 @@ my reasons afterwards.”
 is in no particular hurry, for he has little [[Doubt|doubt]] of your acceptance;
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il resto del mio soggiorno, che non fu lungo, trascorse, come al solito, dalla mia zia.
+
+Insistette per partire presto.
+
+
+
+Mi dispiaceva andarmene, perché avevo trovato il mio nuovo conoscente davvero molto piacevole…
+
+Compagno piacevole e divertente… C’era una certa grazia naturale e disinvoltura in lui.
+
+La [[Freedom|libertà]] in tutto ciò che diceva e faceva gli conferiva un senso di serenità.
+
+Titolo:  
+L’espansione della mente, dopo tante restrizioni e formalità…
+
+# Destinati a soffrire… Forse, è vero, un po’ troppo.
+
+“Una spavalderia noncurante nel suo modo di comportarsi e nel suo modo di parlare… ma io ero in una situazione così favorevole…”
+
+[[Humour|Umorismo]]; ero così grato per la mia tardiva liberazione dal signor Boarham, che.
+
+Non mi ha arrabbiato.
+
+
+
+“Beh, Helen, che ne pensi ora di Mr. Boarham?” disse mia zia mentre eravamo.
+
+Ci sedemmo nei nostri posti nel vagone e partimmo.
+
+
+
+“Peggio che mai,” risposi.
+
+
+
+Sembrava scontenta, ma non disse più nulla al riguardo.
+
+
+
+“Chi era il gentiluomo con cui hai ballato l’altro ieri?” riprese lei, dopo un po’.
+
+# Una pausa… “Ma che invadente aiutarti con il tuo scialle…”
+
+
+
+“Non era affatto invadente, zia: non ha mai cercato di aiutarmi.”
+
+#Fino a quando non vide arrivare il signor Boarham per farlo; e allora rise, avvicinandosi…
+
+“Avanti,” disse, “ti salverò da quella sofferenza.”
+
+
+
+“Chi era, vi chiedo?”, disse lei con un tono freddo e solenne.
+
+
+
+“Era il signor Huntingdon, figlio di un vecchio amico di mio zio.”
+
+
+
+“Ho sentito vostro zio parlare del giovane signor Huntingdon… Ho sentito lui…”
+
+"Diciamo che quel giovane Huntingdon è un bravo ragazzo, ma un po’ selvaggio, eh..."
+
+“Fai attenzione… potrebbe essere pericoloso.”
+
+
+
+“Cosa significa ‘un po’ selvaggio’?”, chiesi.
+
+
+
+“Significa essere privi di principi morali e propensi a ogni sorta di vizio…”
+
+“Comune tra i giovani.”
+
+
+
+“Ma ho sentito zio dire che anche lui, da giovane, era un tipo strano e selvaggio…”
+
+“Giovane”.
+
+
+
+Scosse la testa con decisione.
+
+
+
+“Allora stava scherzando, immagino”, dissi, “eppure parlava seriamente…”
+
+#Casuale… Almeno, non riesco a credere che ridere possa fare del male a qualcuno
+
+“Occhi blu”.
+
+
+
+“Ragionamenti errati, [[Helen]]!”, disse lei, sospirando.
+
+
+
+“Beh, dovremmo essere caritatevoli, sai zia, inoltre, non credo che, ”
+
+# È falso: sono un eccellente fisiognomo, e giudico sempre in base…
+
+I caratteri delle persone si giudicano dal loro aspetto, non dal fatto che siano attraenti o meno…
+
+Bello, ma… a giudicare dall’aspetto generale del viso. Ad esempio, io…
+
+# Non si può mai capire dal viso di una persona se sia di natura allegra…
+
+Disposizione sanguinaria… E dovrei saperlo, visto il signor Wilmot… che era una persona di quel tipo.
+
+“Un vecchio disprezzabile e senza valore… E secondo il signor Boarham, non era nemmeno…”
+
+Compagno piacevole… e, secondo il signor Huntingdon, non era nemmeno…
+
+Né un idiota né un furfante; forse nemmeno un saggio o un santo, ma piuttosto.
+
+“Non mi interessa affatto, visto che probabilmente non lo rivedrò mai più… a meno che non sia per caso…”
+
+“Compagno occasionale nella sala da ballo.”
+
+
+
+Non fu così, invece: lo rividi la mattina seguente. Lui venne…
+
+Chiamare mio zio e scusarmi per non averlo fatto prima…
+
+Titolo:  
+Affermando di essere appena tornato dal Continente e di non aver…
+
+Fino alla precedente [[Night|notte]], non sapevo dell’arrivo di mio zio in città; e.
+
+Dopo quello, lo incontravo spesso: a volte in pubblico, a volte a [[Home|>casa]]; perché.
+
+Era molto sollecito nel rendere omaggio al suo vecchio amico…
+
+Tuttavia, non si sentiva particolarmente in debito per quell’attenzione.
+
+
+
+“Mi chiedo davvero cosa intenda quel ragazzo venendo qui così spesso,” diceva.
+
+Diciamo, “Puoi capirlo, [[Helen]]? Ehi? Lui non vuole la mia compagnia, e nemmeno io.”
+
+“Sì, è certo.”
+
+
+
+“Vorrei che glielo dicessi tu stesso, allora,” disse mia zia.
+
+
+
+“Perché, a che scopo? Se io non lo voglio, qualcun altro forse sì…” (con un occhiolino)
+
+“Oltre a questo, possiede anche una notevole fortuna, Peggy… non è certo poco.”
+
+Chiamalo pure Wilmot, ma allora [[Helen]] non accetterà mai quel matrimonio: perché, in qualche modo.
+
+# Questi vecchi signori non se la cavano bene con le ragazze… nonostante abbiano tutto quel denaro.
+
+#E la loro esperienza, per di più… Scommetto che preferirebbe senz’altro questa opzione.
+
+Un giovane senza un centesimo, rispetto a Wilmot, il cui [[house|casa]] era piena d’oro.
+
+“Non lo faresti anche tu, Nell?”
+
+
+
+“Sì, zio… ma questo non dice molto di Mr. Huntingdon, visto che io…”
+
+“Meglio rimanere zitella e povera che diventare la signora Wilmot.”
+
+
+
+“E la signora Huntingdon? Cosa preferireste essere, piuttosto che la signora Huntingdon?”
+
+“Huntingdon… eh?”
+
+
+
+“Te lo dirò quando avrò riflettuto sulla questione.”
+
+
+
+“Ah! Allora serve rifletterci sopra… Ma dimmi: preferiresti essere…”
+
+Donna anziana, lasciare che il povero rimanga [[Alone|solo]]?
+
+
+
+“Non lo so finché non me lo chiedono.”
+
+
+
+E me ne andai immediatamente dalla stanza, per evitare ulteriori indagini. Ma…
+
+Cinque minuti dopo, guardando fuori dalla mia [[Window|finestra]], vidi il signor Boarham.
+
+Arrivato alla porta… Ho aspettato quasi mezz’ora in una situazione molto scomoda.
+
+Sospensione, aspettando che da un momento all’altro venisse chiamato, e desiderando invano.
+
+Ascoltai i suoi passi allontanarsi… Poi si sentirono dei passi sulle scale, e mia zia…
+
+Entrò nella stanza con un’espressione solenne e chiuse la porta alle sue spalle.
+
+lei.
+
+
+
+“Ecco il signor Boarham, [[Helen]],” disse lei. “Desidera vederti.”
+
+
+
+“Oh, zia! Non potreste dirgli che non mi sento bene? Sono sicura di essere malata… Voglio assolutamente evitarlo.”
+
+“Lui”.
+
+
+
+"Nonsensate, mia cara! Non si tratta di una questione da poco… È venuto qui per una ragione molto importante."
+
+Un importante incarico, chiederti di sposare tuo zio e me.
+
+
+
+“Spero che mio zio e tu gli abbiate detto che non era nelle vostre possibilità darglielo.”
+
+“Che diritto aveva di chiederlo a chiunque prima che a me?”
+
+
+
+“[[Helen]]!”
+
+
+
+“Cosa ha detto mio zio?”
+
+
+
+Disse che non avrebbe interferito in quella questione; se volevi accettare…
+
+“L’offerta gentile del signor Boarham… voi…”
+
+
+
+“Ha detto un’offerta così gentile?”
+
+
+
+“No; disse che se volevi prenderlo potevi farlo, e se no, anche no.”
+
+"Fai pure come vuoi."
+
+
+
+“Ha ragione lui… E tu cosa hai detto?”
+
+
+
+“Non importa quello che ho detto io… Cosa dirai tu? Questo è ciò che conta.”
+
+Domanda: Ora sta aspettando di chiedertelo personalmente; ma rifletti bene.
+
+“Prima di andartene… e se intendi rifiutarlo, dammi le tue ragioni.”
+
+
+
+“Certo che rifiuterò, ma devi dirmi come farlo, perché voglio saperlo.”
+
+“Essere cortesi, ma decisi… E una volta che me ne sarò sbarazzato, te lo darò.”
+
+“I miei motivi in seguito…”
+
+
+
+“Ma resta, [[Helen]]; siediti un attimo e riprendi fiato. Il signor Boarham, ”
+
+Non ha alcuna fretta, poiché non nutre molte [[Doubt|>dubbi]] riguardo al tuo consenso.
+
 
 
 <span class="atom-split" data-atom="chapter_16--part_04" data-title="The Tenant of Wildfell Hall — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/lover,archetype/shadow,motif/desire,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/nature,concept/truth,concept/wonder,character/helen"></span>
@@ -47508,6 +49095,207 @@ disgusting; but greatly as I abhorred him at that moment, I did not
 
 like to treat him with rudeness, as I was now his guest, and had just
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XVII
+
+
+
+
+
+Il giorno dopo accompagnai mio zio e mia zia a una cena organizzata dal signor.
+
+Wilmot… Aveva due signore che soggiornavano con lui: sua nipote Annabella…
+
+Una giovane donna affascinante e vivace, all’incirca di ventiquattro anni…
+
+“Una persona troppo incline ai flirt per poter sposarsi, secondo le sue stesse parole…”
+
+#Ammirata profondamente dai gentiluomini, i quali unanimemente la definirono…
+
+Donna splendida… e sua gentile cugina, Milicent Hargrave, che aveva preso…
+
+“Per me è stata un’illusione violenta: mi hanno scambiato per qualcosa di molto migliore di ciò che sono realmente.”
+
+#Ero… E anch’io, in cambio, le volevo molto bene. Dovrei escluderlo del tutto.
+
+“Povera Milicent… nelle mie generali critiche alle donne della mia epoca.”
+
+Conoscenza… Ma non era per lei, né per sua cugina, che lo facevo.
+
+Hanno menzionato la festa: è stata organizzata in onore di un altro dei signori.
+
+I ospiti di Wilmot, in particolare il signor Huntingdon… Ho buone ragioni per ricordarmi di loro.
+
+La sua presenza lì, perché quella fu l’ultima [[Time|volta]] che lo vidi.
+
+
+
+# Non si sedette vicino a me a cena; poiché era suo destino consegnare…
+
+“Una vecchia dama generosa… e quella che dovrò consegnare sarà quella di Mr. Grimsby.”
+
+“Amico suo… ma un uomo che non mi piaceva affatto: c’era qualcosa di sinistro in lui.”
+
+# Un’espressione piena di ferocia e disprezzo
+
+“L’insincerità nel suo comportamento… Non riuscivo proprio a tollerarla.” Che cosa orribile.
+
+“Una consuetudine noiosa, tra le molte cause di…”
+
+# Un fastidio artificiale in questa vita estremamente civilizzata… Se i signori…
+
+“Deve accompagnare le signore in sala da pranzo… Perché non possono semplicemente prendere quelle cose da sole?”
+
+A loro piace di più cosa?
+
+
+
+Non sono sicuro, tuttavia, che il signor Huntingdon mi avrebbe accettato, se…
+
+#Avrebbe potuto fare la sua scelta liberamente. È del tutto possibile.
+
+Avrebbe potuto scegliere la signorina Wilmot… poiché sembrava decisa a conquistare completamente il suo cuore.
+
+La sua attenzione verso di sé… e sembrava non disprezzare affatto il compito di renderle omaggio.
+
+“Lo esigeva lei… Almeno così pensavo, vedendo come parlavano.”
+
+Rispose sorridendo e lanciò un’occhiata dall’altra parte del tavolo, verso quella persona che veniva trascurata in modo evidente…
+
+L’irritazione causata dai rispettivi vicini… e in seguito, come quei signori…
+
+Ci raggiunse nel salotto non appena lui entrò.
+
+Lo esortarono ad alta voce a fungere da arbitro in una disputa tra lei e un’altra persona.
+
+E un’altra signora… Lui rispose prontamente alla chiamata.
+
+Decise la questione senza un attimo di esitazione.
+
+Favore… anche se, a mio parere, lei aveva chiaramente torto… e poi…
+
+# Chiacchierava amichevolmente con lei e un gruppo di altre signore; intanto io…
+
+# Seduto all’altro capo della stanza con Milicent Hargrave, lo sguardo fisso…
+
+Sopra i disegni di quest’ultima, e aiutandola con le mie osservazioni critiche…
+
+Osservazioni e consigli, secondo il suo particolare [[Desire|desiderio]]. Ma nonostante ciò.
+
+“Gli sforzi per rimanere composto… la mia attenzione si allontanò dai disegni…”
+
+Il gruppo allegro. E, contro ogni buon senso, la mia rabbia aumentò.
+
+Senza dubbio il mio volto assunse un’espressione triste; perché Milicent, notando che dovevo…
+
+# Stanco delle sue macchie e dei suoi graffi, mi pregò di unirmi a loro
+
+Ora, rinviare l’esame del resto a un’altra opportunità.
+
+Ma mentre le assicuravo che non avevo alcun desiderio di unirmi a loro…
+
+# Non stanco affatto, il signor Huntingdon stesso si avvicinò al piccolo tavolo rotondo…
+
+dove ci sedemmo.
+
+
+
+“Sono tuoi questi?” disse lui, prendendo distrattamente uno dei disegni.
+
+
+
+"No, sono di Miss Hargrave."
+
+
+
+“Ah! Bene, diamo un’occhiata.”
+
+
+
+E, nonostante le proteste della signorina Hargrave secondo cui non fosse così…
+
+“Vale la pena dare un’occhiata”, disse, avvicinando una sedia al mio fianco e prendendo ciò che mi aveva portato.
+
+Disegni, uno dopo l’altro tracciati dalla mia mano… li ho scansionati tutti uno dopo l’altro.
+
+Li gettò sul tavolo, ma non disse una parola al riguardo, sebbene…
+
+Parlando continuamente. Non so cosa pensasse Milicent Hargrave.
+
+Un comportamento del genere… ma io ho trovato la sua conversazione estremamente interessante.
+
+Titolo:  
+Anche se, come scoprii in seguito analizzandolo, era…
+
+Principalmente limitato a mettere alla prova i diversi membri della compagnia
+
+Presente… e sebbene abbia fatto alcune osservazioni intelligenti, e anche alcune un po’ eccessive…
+
+“Droll ones… Non credo che l’insieme appaia davvero molto…”
+
+# Particolare, se scritto qui, senza l’aiuto esterno dell’aspetto…
+
+Titolo:  
+Tonos, gesti e quell’incantevole fascino indescrivibile ma indefinito… che trasmetteva tutto ciò.
+
+Un alone su tutto ciò che faceva e diceva, un alone che avrebbe reso ogni sua azione davvero deliziosa.
+
+# Guardarlo negli occhi e ascoltare la melodia della sua voce, se solo fosse stato…
+
+Parlare di cose positive senza senso… e che, per di più, mi hanno fatto sentire così amareggiato.
+
+#Contro mia zia quando lei pose fine a questo piacere, intervenendo…
+
+Avanzando con calma, sotto pretesto di voler vedere i disegni…
+
+Titolo:  
+Lei si preoccupava, ma non sapeva nulla… e mentre fingeva di esaminare…
+
+“Loro”, rivolgendosi al signor Huntingdon con uno dei suoi toni più freddi e distaccati…
+
+# Gli aspetti più repellenti… e l’inizio di una serie su ciò che è più banale
+
+# Domande e osservazioni estremamente formali, poste apposta per ottenere risposte
+
+Attirare la sua attenzione su di me… apposta, per infastidirmi, pensai. E dopo averlo fatto…
+
+Dopo aver esaminato il portafoglio, li ho lasciati a loro due, da soli…
+
+Mi sedetti su un divano, lontano da tutti gli altri… mai.
+
+Pensando quanto strano potesse sembrare un comportamento del genere… ma semplicemente per soddisfare una propria voglia.
+
+All’inizio, solo l’irritazione del momento… e poi, finalmente, il piacere di godermelo.
+
+Pensieri privati.
+
+
+
+Ma non rimasi solo a lungo, perché il signor Wilmot, proprio lui, tra tutte le persone possibili.
+
+Benvenuti… hanno approfittato della mia posizione isolata per venire e insediarsi qui.
+
+“Lui stesso al mio fianco… Mi ero lusingata di essere riuscita così efficacemente…”
+
+In tutte le occasioni precedenti, aveva sempre respinto i suoi approcci; quindi, non c’era più nulla da fare.
+
+Non riesco a comprendere a causa della sua sfortunata preferenza… Ma sembra che io abbia sbagliato.
+
+#In errore: tale era la sua fiducia, sia nella propria ricchezza che…
+
+# Le ultime forze d’attrazione… e la sua ferma convinzione riguardo alle donne
+
+Debozione… quella debolezza che gli fece credere di avere il diritto di tornare all’assedio.
+
+Con rinnovato entusiasmo, alimentato dalla quantità di vino consumata…
+
+Aveva bevuto… Una circostanza che lo rendeva ancora più…
+
+Disgustoso… Ma per quanto lo odiasse in quel momento, non feci nulla.
+
+Come ospite che ero in quel momento, preferivo trattarlo con cortesia, piuttosto che con scortesia.
 
 
 
@@ -48418,6 +50206,219 @@ will.
 
 “The candle will keep,” returned he.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Un uomo alto, magro e dall’aspetto cupo, apparentemente tra i trenta e…
+
+Quaranta anni, e un aspetto piuttosto malaticcio e stanco.
+
+
+
+Finalmente, il leggero phaeton del signor Huntingdon arrivò sobbalzando lungo la strada…
+
+# Il prato… Ebbi solo un fugace istante per vederlo: in quel momento, tutto si fermò.
+
+# Saltò giù sulle scale del portico e scomparve
+
+all’interno della [[house|casa]].
+
+
+
+Ora mi sono sottomesso al compito di essere vestito per la cena… un dovere che Rachel aveva sempre svolto lei.
+
+#Che insistenza negli ultimi venti minuti… E quando quel momento importante finalmente arriva…
+
+Il lavoro era terminato; tornai nel salotto, dove trovai…
+
+Il signor e la signorina Wilmot, insieme a Milicent Hargrave, erano già riuniti. Presto…
+
+Dopo, entrò [[Lord Lowborough]], e poi il signor Boarham, che sembrava davvero.
+
+Desideroso di dimenticare e perdonare il mio comportamento passato, e di [[Hope|>sperare]] che.
+
+#"Un po' di compromessi e perseveranza da parte sua potrebbero ancora..."
+
+Riuscì a farmi ragionare. Mentre stavo davanti alla [[Window|finestra]],
+
+Parlando con Milicent, si avvicinò a me e iniziò a parlare.
+
+Nel suo solito tono, quasi sempre, quando il signor Huntingdon entrò nella stanza.
+
+
+
+“Come mi saluterà? Me lo chiedo, ” disse il mio cuore pieno di emozione; e invece.
+
+Mentre mi preparavo ad avanzare per incontrarlo, mi rivolsi verso la [[Window|finestra]] per nascondermi o calmarmi.
+
+# Emozione… Dopo aver salutato il padrone di casa e la padrona di casa, nonché gli altri presenti…
+
+#"Compania", mi si avvicinò, strinse con forza la mia mano e mormorò che..."
+
+“Felice di rivedermi ancora una volta… In quel momento fu annunciato il pasto serale: mia zia.”
+
+Voleva che portasse la signorina Hargrave in sala da pranzo, e quell’odioso signore.
+
+“Wilmot, con espressioni orribili sul viso, mi offrì il braccio; e io lo accettai.”
+
+Condannato a sedersi tra sé stesso e il signor Boarham… Ma dopo, quando…
+
+Titolo:  
+Tutti ci riunimmo di nuovo nel salotto; fui rimborsato per…
+
+Tanto [[Suffering|sofferimento]] per pochi meravigliosi minuti di conversazione con il signor.
+
+Huntingdon.
+
+
+
+Durante la serata, la signorina Wilmot fu invitata a cantare.
+
+“Suonare per intrattenere il gruppo, e io esporre i miei disegni”.
+
+Eppure, sebbene a lui piaccia la musica e lei sia una musicista talentuosa…
+
+Credo di avere ragione nell’affermare che prestò molta più attenzione a me…
+
+Le disegnazioni le piacevano di più della musica.
+
+
+
+“Finora tutto bene… ma ascoltarlo pronunciare quelle parole a bassa voce…”
+
+Titolo:  
+Un’enfasi particolare riguardo a uno dei brani: “Questo è meglio di…”
+
+“Tutti insieme!” Alzai lo sguardo, curioso di vedere di chi si trattasse… E, per mio orrore…
+
+Lo vide fissare compiaciuto la parte posteriore del dipinto… Era il suo.
+
+Il mio stesso volto che avevo disegnato lì e poi dimenticato di cancellare… Per farlo…
+
+Le cose peggiorano ancora: nel dolore di quel momento, ho cercato disperatamente di afferrarlo.
+
+“Non fatelo… per Dio, non lo permetterò!”
+
+“Tienilo bene!” se lo sistemò contro il gilet e si abbottonò il cappotto sopra di esso.
+
+Con una risata felice.
+
+
+
+#Poi, avvicinando una candela al gomito, raccolse tutti i disegni
+
+Per sé stesso, pensando a ciò che aveva visto esattamente come gli altri, mormorava: “Io, ”
+
+“Ora dobbiamo esaminare _entrambi_ i lati”, iniziò con entusiasmo l’ispezione.
+
+Titolo:  
+Che all’inizio osservai con una certa calma, nella fiducia…
+
+che la sua [[Vanity|vanità]] non sarebbe stata soddisfatta da ulteriori scoperte; perché.
+
+# Nonostante debba ammettere di aver rovinato l’aspetto di diverse…
+
+Con tentativi falliti di descrivere quel volto così affascinante…
+
+#Ero certo che, ad eccezione di quella singola e sfortunata circostanza, avessi agito con attenzione.
+
+“Obliterated tutti quei testimoni della mia infatuazione… Ma la penna…”
+
+Spesso, le [[Leaves|immagini]] lasciano un'impressione sul cartone che nessuna quantità di, può cancellare.
+
+#L’usura può cancellare tutto. Così sembrava essere il caso della maggior parte di questi oggetti.
+
+# E devo ammettere che tremavo quando lo vidi tenerle così vicine a sé…
+
+“Candela… e fissavo con tanta attenzione quelle apparenti pagine vuote… Ma ancora, non riuscivo…”
+
+Se fosse stato affidabile, non sarebbe riuscito a individuare queste deboli tracce che appartenevano a qualcun altro.
+
+Soddisfazione… Tuttavia, mi ero sbagliato. Dopo aver terminato la sua ispezione, lui…
+
+"#Silenziosamente osservò: ‘Noto che, nelle illustrazioni delle giovani signore, le parti posteriori vengono spesso raffigurate in modo…”"
+
+“I postumi dei loro lettere… sono i più importanti.”
+
+“La parte interessante della questione…”
+
+
+
+Poi, appoggiandosi allo schienale della sedia, rifletté per alcuni minuti in [[Silence|silenzio]].
+
+Sorridendo compiaciuto tra sé e sé, mentre io cercavo di inventare qualcosa…
+
+Con un discorso tagliente che aveva lo scopo di frenare la sua soddisfazione, si alzò in piedi e.
+
+# Passando dove Annabella Wilmot sedeva, flirtando con fervore…
+
+[[Lord Lowborough]] si sedette sul divano accanto a lei e.
+
+Si dedicò a lei per il resto della serata.
+
+
+
+“Allora,” pensai, “mi disprezza perché sa che lo [[Love|amo]].”
+
+
+
+# E quella riflessione mi rese così infelice che non sapevo cosa fare… Milicent
+
+“Venne e iniziò ad ammirare i miei disegni, facendo anche commenti al riguardo; ma io…”
+
+Non riuscivo a parlarle… Non riuscivo a parlare con nessuno.
+
+# Presentazione del tè: ne approfittai della porta aperta e…
+
+Distrazione causata dal suo ingresso… perché ero certo di non potercela fare.
+
+Prendi quello che vuoi, e rifugiati in biblioteca. Mia zia ha mandato Thomas qui dentro per [[Quest|QUESTO]].
+
+“Non mi chiese mai se sarei venuta a prendere il tè; ma gli dissi di dire che sì, sarei venuta.”
+
+Non uscì affatto di notte, e, fortunatamente, era troppo impegnata con le sue cose.
+
+Gli ospiti possono effettuare ulteriori domande in qualsiasi momento.
+
+
+
+Poiché la maggior parte dei dipendenti aveva percorso lunghe distanze quel giorno, si ritirarono presto.
+
+“Per riposare… E dopo averli ascoltati tutti, credo, sono salito al piano di sopra.”
+
+Sono uscito per prendere il candelabro dal comò del salotto.
+
+# Ma il signor Huntingdon si era trattenuto indietro rispetto agli altri. Era appena…
+
+# Alla base delle scale… quando aprii la porta, e sentii i miei passi risuonare…
+
+Il corridoio, anche se a malapena riuscivo a sentirlo io stesso, lui si girò immediatamente indietro.
+
+
+
+“[[Helen]], sei tu?” disse lui. “Perché te ne sei andata via da noi?”
+
+
+
+“Buona [[Night|notte]], signor Huntingdon,” dissi freddamente, preferendo non rispondere.
+
+La domanda. E mi allontanai per entrare nel salotto.
+
+
+
+“Ma vi stringerete la mano, vero?”, disse, mettendosi al loro fianco.
+
+“La soglia davanti a me… Lui afferrò la mia mano e la tenne stretta, contro la mia volontà…”
+
+voglia.
+
+
+
+“Lasciatemi andare, signor Huntingdon”, dissi. “Devo prendere una candela”.
+
+
+
+“La candela durerà,” rispose lui.
 
 
 
@@ -49739,6 +51740,241 @@ said: let me rather refer to what passed between my aunt and me, after
 breakfast, when Mr. Huntingdon called my uncle aside, no [[Doubt|doubt]] to make
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XX
+
+
+
+
+
+24 settembre. — La mattina mi sono alzato, leggero e allegra, anzi,
+
+# Estremamente felice… Le opinioni di mia zia mi hanno avvolto in una nuvola di gioia.
+
+E per la [[Fear|>paura]] di non ottenere il suo consenso, si perse nella luce abbagliante.
+
+# Splendore delle mie stesse speranze, e la deliziosa consapevolezza di…
+
+Ricambiare un [[Love|amore]]. Era una mattina meravigliosa; così sono uscito per godermela.
+
+In una tranquilla passeggiata, in compagnia dei miei pensieri felici… La rugiada.
+
+Sul prato c’erano diecimila fili di seta che ondeggiavano al vento.
+
+Il felice uccellino dal petto rosso riversava la sua piccola [[Soul|'anima]] attraverso il suo canto, e io.
+
+Il cuore si riempì di silenziosi inni di gratitudine e lode verso il cielo.
+
+
+
+Ma non avevo camminato molto quando la mia [[Solitude|solitudine]] fu interrotta da.
+
+L’unica persona che avrebbe potuto interrompere i miei pensieri, in quel momento…
+
+#Senza essere considerato un intruso indesiderato: il signor Huntingdon arrivò
+
+#Improvvisamente su di me… Quell’apparizione fu così inaspettata che avrei potuto…
+
+Pensava che si trattasse della creazione di un'[[Imagination|immaginazione]] troppo eccitata, aveva questa sensazione.
+
+Solo alla sua vista, [[Alone|da solo]], si poteva testimoniare della sua presenza; ma immediatamente io sentii.
+
+“Il suo braccio forte intorno alla mia vita e il suo bacio caldo sulla mia guancia…”
+
+Un saluto caloroso e gioioso: “La mia cara [[Helen]]!” risuonava nelle mie orecchie.
+
+
+
+“Non è ancora tuo!”, dissi, deviando rapidamente da quella direzione.
+
+# Un saluto presuntuoso. “Ricorda i miei guardiani… Non te la caverai facilmente.”
+
+Ottenere il consenso di mia zia… Non vedi che lei ha pregiudizi contro di te?
+
+
+
+“Sì, caro mio; e devi dirmi il motivo, così potrò capire meglio come comportarmi.”
+
+“Devo affrontare le sue obiezioni… Immagino che pensi che io sia un dissipatore”, proseguì.
+
+“Notando che non ero disposto a rispondere, concluse che…”
+
+Avrò forse pochi beni materiali con cui poter dotare la mia metà migliore?
+
+Se è così, devi dirle che la mia proprietà è per lo più vincolata da leggi ereditarie, e io…
+
+Non si riesce a liberarsene. Potrebbero esserci ancora alcuni mutui relativi al resto… pochi, forse.
+
+Debiti insignificanti e oneri sparsi qua e là, ma niente di rilevante.
+
+# Di e sebbene riconosca di non essere così ricco come potrei essere… o come avrei dovuto essere
+
+Anche se è rimasto poco, penso che riusciremmo comunque a cavarcela abbastanza bene con ciò che abbiamo.
+
+Mio padre, sai… era piuttosto avaro, soprattutto negli ultimi anni della sua vita.
+
+“Non trovava alcun piacere nella vita se non nell’accumulare ricchezze; ed è proprio così…”
+
+Lo [[Wonder|stupore]] che suo figlio trovasse nel spenderli il proprio principale piacere.
+
+# Che fu effettivamente così, fino al momento in cui ho conosciuto te, caro…
+
+[[Helen]] mi ha insegnato altre prospettive e obiettivi più nobile. E proprio l’idea stessa di.
+
+#Aver te sotto il mio tetto mi costringerebbe a moderare i miei comportamenti…
+
+Spese e vita da cristiano… per non parlare di tutta la prudenza necessaria.
+
+# Virtù che vorresti infondere nella mia mente attraverso i tuoi saggi consigli e le tue parole dolci…
+
+“Bontà attraente”.
+
+
+
+“Ma non è proprio così,” dissi; “non è il denaro di cui mia zia parla.”
+
+“Sa bene che non si dovrebbe dare valore alla ricchezza terrena più di quanto meriti.”
+
+
+
+“Che cos’è allora?”
+
+
+
+“Desidera che io sposi soltanto un uomo davvero buono.”
+
+
+
+“Che cosa, un uomo di ‘decisa pietà’?, ahem!. Beh, vedrò io come sistemare la questione.”
+
+Anche io! Oggi è [[Sunday|domenica]], vero? Andrò in chiesa questa mattina.
+
+Pomeriggio, sera… e mi comporto in modo così devoto…
+
+Mi guarderà con ammirazione e un affetto fraterno, come se fossi una marca.
+
+Raccolto dal fuoco ardente. Tornerò a [[Home|>casa]] sospirando come un forno in fiamme.
+
+“Ricco del sapore e dell’effetto persuasivo dei discorsi del caro signor Blatant…”
+
+
+
+“Signor Leighton,” dissi io, in tono secco.
+
+
+
+“Mr. Leighton è un ‘predicatore gentile’, [[Helen]], un ‘caro, delizioso’, ”
+
+“L’uomo dal cuore puro…”
+
+
+
+“È un uomo _buono_, il signor Huntingdon… Vorrei poter dire lo stesso di lui.”
+
+“Per te.”
+
+
+
+“Ah, me ne sono dimenticato… Anche tu sei un santo. Desidero ardentemente il tuo perdono, carissimo… ma…”
+
+“Non chiamatemi signor Huntingdon; il mio nome è [[Arthur]].”
+
+
+
+#"Non ti chiamerò nulla… perché non avrò assolutamente nulla a che fare con te."
+
+“Se continui a parlare in quel modo, se davvero vuoi ingannare mia zia…”
+
+"Dici che sei molto malvagio… E se non lo sei, allora stai facendo una grossa sciocchezza a scherzarci sopra."
+
+“Un argomento del genere…”
+
+
+
+“Mi correggo”, disse, concludendo la sua risata con un tono triste.
+
+Sospirò. “Ora”, riprese dopo una breve pausa, “parliamo di…”
+
+Qualcos'altro. E avvicinati a me, [[Helen]], e prendimi per il braccio; poi.
+
+Ti lascio [[Alone|da solo]]. Non riesco a stare in pace vedendoti camminare lì.
+
+
+
+Ho obbedito; ma ho detto che dobbiamo tornare presto in[[house|>casa]].
+
+
+
+“Nessuno sarà pronto per la colazione, almeno per un po’,” rispose lui.
+
+“Hai appena parlato dei tuoi guardiani, [[Helen]], ma non è forse tuo padre, ”
+
+“È ancora vivo?”
+
+
+
+"Sì, ma considero sempre mio zio e mia zia come i miei guardiani, perché..."
+
+“Sì, è proprio così: nonostante il nome, in realtà lo sono. Mio padre li ha completamente dati…”
+
+Messo sotto la loro cura… Non l’ho più visto da quando cara mamma è morta…
+
+Ero una bambina molto piccola, e mia zia, su sua richiesta, si offrì di prendersi cura di me.
+
+“Mi prese in carico e mi portò via a Staningley, dove sono rimasto da allora.”
+
+Da allora… e non credo che si opporrebbe a nulla per me.
+
+“Ritenne opportuno approvarlo.”
+
+
+
+“Ma approverebbe qualcosa di ciò che lei ritenesse giusto opporre obiezioni?”
+
+
+
+"No, non credo che si preoccupi abbastanza per me."
+
+
+
+“Lui ha molta colpa in tutto questo… ma non sa quanto angelo abbia al suo fianco.”
+
+#Sua figlia… il che è ancora meglio per me, perché se l’avesse fatto, lui…
+
+“Non saranno mai disposti a separarsi da un tesoro del genere.”
+
+
+
+“E il signor Huntingdon,” dissi, “immagino che sappia che io non sono…”
+
+“Ereditiera…”
+
+
+
+Protestò dicendo di non averci mai pensato e mi pregò di non farlo.
+
+#Disturbo il suo attuale piacere menzionando argomenti così noiosi
+
+Soggetti… Ero felice di questa dimostrazione di affetto disinteressato; perché…
+
+Annabella Wilmot è probabilmente l’ereditiera di tutta la fortuna di suo zio.
+
+Aggiunta al patrimonio di suo padre defunto, che lei possiede già…
+
+possesso.
+
+
+
+Ora insistevo nel ripercorrere i nostri passi fino alla [[house|>casa]]; ma camminammo.
+
+# Lentamente, e continuò a parlare man mano che procedevamo… Non c’è bisogno di ripetere tutto ciò che abbiamo detto.
+
+Titolo:  
+Diciamo piuttosto di ciò che accadde tra mia zia e me, in seguito…
+
+A colazione, quando il signor Huntingdon chiamò mio zio in disparte, non c’era alcun [[Doubt|>dubbio]] su ciò che avrebbe fatto.
+
 
 
 <span class="atom-split" data-atom="chapter_20--part_02" data-title="The Tenant of Wildfell Hall — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/innocent,motif/childhood,motif/death,motif/fire,motif/love,motif/rose,motif/time,motif/well,concept/conscience,concept/self,histref/bible,character/christ,character/helen,character/lord_lowborough,character/walter_hargrave"></span>
@@ -50140,6 +52376,184 @@ wedding, for I determined her counsels should not be utterly
 
 disregarded; and no conclusions on that particular are come to yet.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non lo cederò nemmeno per tutto l’oro del mondo!”
+
+
+
+Qui la nostra conferenza terminò, poiché era ormai arrivato il momento di prepararsi per.
+
+Chiesa. Tutti parteciparono alla funzione mattutina, tranne mio zio, che…
+
+Quasi mai va, e il signor Wilmot, che è rimasto a [[Home|>casa]] con lui per godersi.
+
+#Un tranquillo gioco di cribbage… Nel pomeriggio, la signorina Wilmot e il lord…
+
+Anche Lowborough si scusò per non poter partecipare; ma il signor.
+
+# Huntingdon si degnò di accompagnarci ancora una volta… Chissà se lo fece per…
+
+Non riesco a capire se si stia cercando di ingraziarsi mia zia, ma in tal caso, sicuramente…
+
+Avrei dovuto comportarmi meglio… Devo ammettere che non mi è piaciuta la sua condotta.
+
+Mai durante il servizio. Teneva il suo libro di [[prayer|preghiere]] capovolto, o aperto.
+
+“Qualsiasi posto tranne quello giusto… Lui non faceva altro che guardarsi intorno.”
+
+# Cadde per caso nell’occhio di mia zia o nel mio… e poi lui lasciava cadere il proprio.
+
+Sul suo libro, con un tono puritano e una sorta di solennità simulata che…
+
+#Assurdo fino al ridicolo… se solo non fosse stato così provocatorio. Una volta, durante…
+
+# Predica… dopo aver osservato attentamente il signor Leighton per alcuni minuti, egli…
+
+All'improvviso tirò fuori la sua custodia per matite d'oro e afferrò una [[Bible|Bibbia]].
+
+# Notando che lo stavo osservando, sussurrò che se ne andava
+
+“Per prendere appunti del sermone… ma invece, mentre ero seduto accanto a lui…”
+
+Non potei fare a meno di notare che stava creando una parodia del predicatore.
+
+# Donando all’onorevole, pio e anziano gentiluomo quell’aspetto e quell’atteggiamento tipici di una persona rispettabile
+
+Di un vecchio ipocrita assurdo e ridicolo… Eppure, al suo ritorno, parlò di…
+
+#La mia zia e il sermone… con un pizzico di modestia e serietà
+
+#Discriminazione che mi spinse a credere che si fosse davvero preso cura di…
+
+Trasse vantaggio dal discorso.
+
+
+
+# Prima di cena, mio zio mi chiamò in biblioteca…
+
+#Discussione su una questione di grande importanza, che è stata accantonata in pochi istanti
+
+Parole.
+
+
+
+“Ora, Nell,” le disse, “questo giovane Huntingdon ti ha cercata…
+
+Che cosa dovrei dire al riguardo? Tua zia risponderebbe “no”… ma che ne pensi tu?
+
+“Tu, davvero?”
+
+
+
+“Dico di sì, zio”, risposi senza esitare un attimo; perché lo volevo davvero.
+
+Ho preso una decisione definitiva al riguardo.
+
+
+
+“Molto bene!”, esclamò. “Questa sì che è una risposta onesta e sincera… meravigliosa davvero.”
+
+Ragazza! — Beh, scriverò a tuo padre domani. Sicuramente acconsentirà.
+
+Consenso; quindi si può considerare la questione risolta. Avresti fatto lo stesso…
+
+“Avresti fatto meglio ad assumere Wilmot, te lo dico io… ma probabilmente non lo farai.”
+
+Credimi. Alla tua età, è l’amore a dominare tutto; alla mia.
+
+“È oro solido, affidabile… Immagino che ora non vi passerebbe mai per la mente di…”
+
+# Esaminare la situazione finanziaria di vostro marito… o preoccuparvi per essa?
+
+“Si occupa di organizzare insediamenti o cose del genere?”
+
+
+
+“Non credo che dovrei farlo.”
+
+
+
+“Allora, sii grato per avere persone più sagge che pensano al posto tuo.”
+
+Non ho ancora avuto il [[Time|tempo]] di esaminare a fondo le cose riguardanti questo giovane birichino.
+
+Affari… ma vedo che una grande parte della bella proprietà di suo padre è stata…
+
+# È stato sprecato… ma comunque, penso che ci sia ancora una quota abbastanza consistente.
+
+Titolo:  
+Di ciò che ne è rimasto, un po’ di cura attenta può trasformarlo in qualcosa di davvero bello.
+
+Ancora non l’abbiamo fatto; e poi dobbiamo convincere tuo padre a darti qualcosa di decente.
+
+Fortuna… poiché oltre a te, ha solo un’altra persona a cui tiene; e se tu…
+
+Comportati bene, chi sa, forse un giorno mi verrà in mente di ricordarmi di te.
+
+“Voglio!” continuò, mettendosi le dita sul naso con un’espressione complice.
+
+Un battito di ciglia.
+
+
+
+“Grazie, zio, per questo e per tutta la tua gentilezza,” risposi io.
+
+
+
+“Beh, ho interrogato questo giovane riguardo alla questione degli insediamenti.”
+
+“E sembrava disposto ad essere abbastanza generoso in merito…” continuò.
+
+# Punto…
+
+
+
+“Lo sapevo che l’avrebbe fatto!”, dissi. “Ma per favore, non vi preoccupate né voi né lui…”
+
+“Mio è tutto ciò che ho; e tutto ciò che ha lui sarà mio.”
+
+“Mio… e cosa altro potremmo desiderare?”, stavo per dire.
+
+Avrei dovuto andarmene, ma lui mi chiamò indietro.
+
+
+
+“Fermatevi, fermatevi!” gridò; “non abbiamo ancora parlato dell’[[Time|orario]]. Quando deve succedere?”
+
+“Che ne dici? Tua zia lo rimanderebbe chissà quando… ma lui…”
+
+Ansioso di essere legato il prima possibile: non accetterà di attendere oltre.
+
+“Il mese prossimo… e immagino che anche tu la penserai allo stesso modo, quindi…”
+
+
+
+“Assolutamente no, zio; anzi, vorrei aspettare fino dopo…”
+
+“Almeno Natale…”
+
+
+
+“Ah no, ah no! Non dirmi mai quella storia… So già cosa c’è dentro,” esclamò.
+
+Continuò nella sua [[Incredulity|incredulità]]. Tuttavia, è davvero vero. Io sono.
+
+#Senza alcuna fretta… Come potrei averla, pensando a un cambiamento così importante?
+
+Ciò che mi aspetta, e tutto ciò che devo lasciare… È una felicità più che sufficiente.
+
+“Sapere che saremo uniti… e che lui mi ama davvero…”
+
+Amarlo con la stessa devozione e pensare a lui tutte le volte che desidero.
+
+Titolo:  
+Tuttavia, ho insistito per consultare mia zia riguardo al “momento” appropriato…
+
+Matrimonio… poiché decisi che i suoi consigli non dovessero essere del tutto ignorati.
+
+È stato ignorato; e al momento non sono state raggiunte alcune conclusioni a riguardo.
 
 
 

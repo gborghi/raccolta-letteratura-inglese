@@ -2,13 +2,13 @@
 title: "To Mrs. Joseph Sweetser, Autumn, 1879?"
 author: "Dickinson"
 unitType: work
-parentWork: "works/seasons-·-winter-·-autumn-(dickinson)"
+parentWork: "works/seasons-·-winter-·-autumn-(keats)"
 tags:
   - graph/excerpt
   - author/Dickinson
 ---
 
-<div class="atom-reader" data-work="testi/dickinson/atomized/seasons-winter-autumn" data-author="Dickinson" data-workhref="works/seasons-·-winter-·-autumn-(dickinson)"></div>
+<div class="atom-reader" data-work="testi/dickinson/atomized/seasons-winter-autumn" data-author="Dickinson" data-workhref="works/seasons-·-winter-·-autumn-(keats)"></div>
 
 
 <span class="atom-split" data-atom="0012_the_morns_are_meeker_than_they_were" data-title="12. The morns are meeker than they were —" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/seasons,motif/nature,motif/rose,concept/transience,form/lyric,cluster/seasons,cluster/winter,cluster/autumn"></span>

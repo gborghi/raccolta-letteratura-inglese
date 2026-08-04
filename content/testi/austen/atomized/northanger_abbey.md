@@ -16055,6 +16055,52 @@ that during that period, places, manners, books, and opinions have
 undergone considerable changes.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 31
+
+
+
+Nota sul testo
+
+
+
+
+
+
+
+
+
+Pubblicità dell'autrice, relativa a [[Northanger Abbey]]
+
+
+
+
+
+Questo piccolo lavoro fu completato nel 1803 e destinato a…
+
+Pubblicazione immediata. Fu venduto a un libraio…
+
+Il titolo non è stato fornito nell’input. Per tradurlo in italiano, è necessario conoscere il testo completo.
+
+#Non è mai stato in grado di imparare… E che un libraio possa anche solo pensarlo…
+
+Vale la pena acquistare ciò che non riteneva valesse la pena pubblicare
+
+#Sembra straordinario… Ma con questo, né l’autore né il pubblico…
+
+# Altre preoccupazioni oltre a quella di osservare attentamente queste cose?
+
+# Parti dell’opera che, nel corso di tredici anni, sono diventate relativamente…
+
+Obsoleto. Si prega il pubblico di tenere presente che tredici anni…
+
+Sono trascorsi molti anni da quando è stato completato; ancora di più da quando ne è stata iniziata la stesura.
+
+Durante quel periodo, luoghi, usanze, libri e opinioni hanno subito cambiamenti.
+
+Aveva subito notevoli cambiamenti.
+
 
 
 <span class="atom-split" data-atom="chapter_02" data-title="Northanger Abbey — Chapter 1" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/hero,archetype/lover,motif/desert,motif/flowers,motif/garden,motif/love,motif/nature,motif/rose,motif/time,motif/well,concept/beauty,concept/heroism,concept/nature,concept/poverty,form/fable,form/sketch,setting/desert,character/catherine_morland,character/richard"></span>
@@ -16369,6 +16415,316 @@ invited her to go with them. Mr. and Mrs. Morland were all compliance,
 and Catherine all happiness.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO 1
+
+
+
+
+
+Nessuno che avesse mai visto [[Catherine Morland]] nella sua infanzia avrebbe
+
+supposto che fosse nata per essere un'eroina. La sua condizione nella vita, il
+
+carattere di suo padre e di sua madre, la sua persona e la sua indole,
+
+erano tutti ugualmente contrari a lei. Suo padre era un ecclesiastico, senza essere
+
+trascurato né povero, e un uomo molto rispettabile, benché si chiamasse
+
+[[Richard]]—e non era mai stato bello. Aveva una considerevole
+
+indipendenza oltre a due buoni benefici—e non era minimamente
+
+incline a rinchiudere le figlie. Sua madre era una donna di utile
+
+buon senso, di buon carattere e, cosa più notevole, di
+
+buona costituzione. Ebbe tre figli maschi prima che nascesse Catherine; e
+
+invece di morire nel mettere quest'ultima al mondo, come chiunque
+
+potrebbe aspettarsi, continuò a vivere—visse per avere altri sei figli—per vederli
+
+crescere intorno a sé, e per godere lei stessa di ottima salute. Una
+
+famiglia di dieci figli sarà sempre chiamata una bella famiglia, dove ci
+
+sono teste e braccia e gambe a sufficienza per il numero; ma i Morland avevano
+
+poco altro diritto a quella parola, perché erano in generale molto insignificanti,
+
+e Catherine, per molti anni della sua vita, insignificante quanto gli altri. Aveva una
+
+figura magra e goffa, una pelle olivastra e senza colore, capelli scuri e lisci, e
+
+lineamenti marcati—questo quanto alla sua persona; e non meno sfavorevole
+
+all'[[Heroism|eroismo]] appariva la sua mente. Amava tutti i giochi da maschio, e
+
+preferiva di gran lunga il cricket non solo alle bambole, ma anche ai più eroici
+
+svaghi dell'infanzia: allevare un ghiro, dar da mangiare a un canarino, o
+
+annaffiare un cespuglio di [[Rose|rose]]. In verità non aveva alcun gusto per il [[Garden|giardino]]; e se
+
+coglieva [[Flowers|fiori]], era soprattutto per il piacere di fare dispetti—o
+
+almeno così si supponeva dal fatto che preferiva sempre quelli che le
+
+era proibito prendere. Tali erano le sue inclinazioni—le sue capacità erano
+
+altrettanto straordinarie. Non riusciva mai a imparare o a capire nulla
+
+prima che le venisse insegnato; e talvolta nemmeno allora, perché era spesso
+
+distratta, e di quando in quando ottusa. Sua madre impiegò tre mesi
+
+soltanto per insegnarle a ripetere la «Beggar's Petition»; e alla fine, la
+
+sorella che veniva dopo di lei, Sally, sapeva recitarla meglio. Non che
+
+Catherine fosse sempre ottusa—niente affatto; imparò la [[Fable|favola]] di «The
+
+Hare and Many Friends» rapidamente quanto qualsiasi ragazza d'Inghilterra. Sua madre
+
+desiderava che imparasse la musica; e Catherine era certa che le sarebbe piaciuta,
+
+perché amava molto tintinnare i tasti della vecchia spinetta sgangherata;
+
+così, a otto anni cominciò. Studiò un anno, e non riuscì a sopportarlo;
+
+e la signora Morland, che non insisteva perché le figlie fossero
+
+esperte nelle arti a dispetto dell'incapacità o della ripugnanza, le permise di
+
+smettere. Il giorno che congedò il maestro di musica fu uno dei più felici
+
+della vita di Catherine. Il suo gusto per il disegno non era superiore; benché
+
+ogni volta che poteva ottenere il retro di una lettera di sua madre o
+
+impadronirsi di qualche altro pezzo di carta, facesse quel che poteva in quel
+
+modo, disegnando case e alberi, galline e pulcini, tutti molto simili
+
+l'uno all'altro. Scrittura e conti glieli insegnò suo padre; il francese
+
+sua madre: la sua abilità nell'uno e nell'altro non era notevole, ed
+
+evitava le lezioni di entrambi ogni volta che poteva. Che carattere strano
+
+e inspiegabile!—perché con tutti questi sintomi di sregolatezza a
+
+dieci anni, non aveva né un cuore cattivo né un cattivo carattere, era di rado
+
+testarda, quasi mai litigiosa, e molto gentile con i piccoli,
+
+con poche interruzioni di tirannia; era inoltre chiassosa e selvatica,
+
+odiava la costrizione e la pulizia, e non amava nulla così [[Well|bene]] al
+
+mondo come [[rolling|rotolare]] giù per il pendio verde dietro [[house|casa]].
+
+
+
+Tale era [[Catherine Morland]] a dieci anni. A quindici, le apparenze
+
+[[mending|miglioravano]]; cominciò ad arricciarsi i capelli e a sospirare per i balli; la sua carnagione
+
+migliorò, i suoi lineamenti si addolcirono per la rotondità e il colore, i suoi occhi
+
+acquistarono più vivacità, e la sua figura più rilievo. Il suo [[Love|amore]] per
+
+la sporcizia cedette il posto a un'inclinazione per l'eleganza, e divenne pulita mentre
+
+diventava graziosa; ora aveva il piacere di sentire talvolta suo padre
+
+e sua madre commentare il suo miglioramento personale. «Catherine sta diventando una
+
+ragazza di bell'aspetto—oggi è quasi graziosa», erano parole che le giungevano
+
+alle orecchie di tanto in tanto; e come erano gradite quelle parole! sembrare
+
+_quasi_ graziosa è una conquista di gioia ben più alta per una ragazza che è
+
+sembrata insignificante nei primi quindici anni della sua vita di quanto una [[Beauty|bellezza]]
+
+sin dalla culla possa mai riceverne.
+
+
+
+La signora Morland era una donna molto buona, e desiderava vedere i suoi figli
+
+tutto ciò che dovevano essere; ma il suo [[Time|tempo]] era talmente occupato dai
+
+parti e dall'istruire i piccoli, che le figlie maggiori erano
+
+inevitabilmente lasciate ad arrangiarsi da sole; e non era molto sorprendente
+
+che Catherine, che per [[Nature|natura]] non aveva nulla di eroico, preferisse
+
+il cricket, il baseball, andare a cavallo e correre per
+
+la campagna all'età di quattordici anni, ai libri—o almeno ai libri di
+
+informazione—perché, purché da essi non si potesse ricavare nulla che somigliasse a una conoscenza utile,
+
+purché fossero tutti racconto e nessuna riflessione, non
+
+aveva mai nulla da obiettare ai libri. Ma dai quindici ai diciassette anni
+
+si allenò per diventare un'eroina; lesse tutte quelle opere che le eroine
+
+devono leggere per fornire alla memoria quelle citazioni che sono così
+
+utili e così consolanti nelle vicissitudini delle loro movimentate
+
+vite.
+
+
+
+Da Pope imparò a biasimare coloro che
+
+
+
+«recano attorno la beffa del dolore».
+
+
+
+
+
+Da Gray, che
+
+
+
+«Più di un fiore nasce per arrossire non visto,
+
+«E sprecare la sua fragranza nell'aria del [[Desert|deserto]]».
+
+
+
+
+
+Da Thomson, che—
+
+
+
+«È un compito delizioso
+
+«insegnare al giovane pensiero come germogliare».
+
+
+
+
+
+E da Shakespeare ricavò un gran patrimonio di informazioni—tra
+
+le altre, che—
+
+
+
+«Inezie lievi come l'aria
+
+«sono, per il geloso, conferme forti
+
+«quanto prove della Sacra Scrittura».
+
+
+
+
+
+Che
+
+
+
+«Il povero scarabeo che calpestiamo
+
+«prova, nella sofferenza del corpo, una fitta grande
+
+«quanto quella di un gigante che muore».
+
+
+
+
+
+E che una giovane donna presa d'[[Love|amore]] ha sempre l'aria—
+
+
+
+«della Pazienza su un monumento
+
+«che sorride al Dolore».
+
+
+
+
+
+Fin qui il suo perfezionamento era sufficiente—e in molti altri punti se la
+
+cavava straordinariamente [[Well|bene]]; perché sebbene non sapesse scrivere sonetti, si
+
+indusse a leggerli; e sebbene non ci fosse alcuna probabilità che
+
+mandasse in estasi un'intera compagnia con un preludio al pianoforte di
+
+sua composizione, sapeva ascoltare l'esecuzione degli altri
+
+con pochissima fatica. La sua più grande carenza era nella matita—non
+
+aveva alcuna nozione di disegno—nemmeno quanto bastava per tentare uno [[Sketch|schizzo]] del
+
+profilo del suo [[Lover|innamorato]], così da poter essere sorpresa nell'impresa. Lì
+
+restava miseramente al di sotto della vera altezza eroica. Per il momento non
+
+conosceva la propria [[Poverty|povertà]], perché non aveva alcun [[Lover|innamorato]] da ritrarre. Aveva raggiunto
+
+l'età di diciassette anni senza aver visto un solo giovane amabile che potesse
+
+risvegliare la sua sensibilità, senza aver ispirato una sola vera passione,
+
+e senza aver suscitato nemmeno un'ammirazione che non fosse molto
+
+moderata e molto passeggera. Questo era davvero strano! ma le cose strane
+
+possono in genere essere spiegate se se ne cerca onestamente
+
+la causa. Non c'era un solo lord nel vicinato; no—nemmeno un
+
+baronetto. Non c'era una sola famiglia tra le loro conoscenze che avesse
+
+allevato e mantenuto un bambino trovato per caso alla loro porta—non un solo
+
+giovane di origini ignote. Suo padre non aveva pupilli, e il
+
+signorotto della parrocchia non aveva figli.
+
+
+
+Ma quando una giovane donna deve diventare un'eroina, la perversità di quaranta
+
+famiglie circostanti non può impedirglielo. Qualcosa deve accadere e accadrà
+
+per mettere un [[Hero|eroe]] sul suo cammino.
+
+
+
+Il signor Allen, che possedeva la maggior parte delle terre intorno a Fullerton, il
+
+villaggio del Wiltshire dove vivevano i Morland, fu mandato a Bath per
+
+il beneficio di una costituzione gottosa—e la sua signora, una donna di buon umore,
+
+affezionata alla signorina Morland, e probabilmente consapevole che se le avventure non
+
+capitano a una giovane donna nel suo villaggio, ella deve cercarle altrove,
+
+la invitò ad andare con loro. Il signore e la signora Morland furono tutti condiscendenza,
+
+e Catherine tutta felicità.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="Northanger Abbey — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,motif/journey,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/beauty,concept/fear,concept/jealousy,concept/nature,character/catherine_morland"></span>
@@ -16568,6 +16924,202 @@ directly to the card-room, and left them to enjoy a mob by themselves.
 
 With more care for the safety of her new gown than for the comfort of
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO 2
+
+
+
+
+
+Oltre a quanto si è già detto delle doti fisiche e mentali di [[Catherine Morland]],
+
+ora che sta per essere lanciata in tutte le
+
+difficoltà e i pericoli di un soggiorno di sei settimane a Bath, si può
+
+aggiungere, per la più sicura informazione del lettore, affinché le pagine
+
+seguenti non manchino di dare un’idea di quale debba essere
+
+il suo carattere: che il suo cuore era affettuoso; la sua indole allegra
+
+e aperta, senza presunzione né affettazione di sorta; i suoi modi appena
+
+liberi dalla goffaggine e dalla timidezza di una ragazzina; la sua persona
+
+gradevole e, nei giorni buoni, graziosa; e la sua mente
+
+ignorante e disinformata press’a poco quanto lo è di solito una mente femminile a diciassette anni.
+
+
+
+Quando l’ora della partenza si avvicinò, l’ansia materna della signora
+
+Morland si supporrà naturalmente essere stata acutissima. Mille
+
+allarmanti presentimenti di sventure per la sua amata Catherine, dovuti a questa
+
+tremenda separazione, dovettero opprimerle il cuore di tristezza e annegarla
+
+in [[Tears|lacrime]] negli ultimi giorni che passarono insieme; e consigli della
+
+[[Nature|natura]] più importante e pertinente dovettero certo sgorgare dalle sue
+
+labbra sagge nel colloquio d’addio nel suo salottino. Ammonimenti contro
+
+la violenza di quei nobili e baronetti che si dilettano a trascinare via le giovani
+
+signore verso qualche remota [[house|casa]] colonica dovettero, in un simile momento, alleviare
+
+la pienezza del suo cuore. Chi non lo penserebbe? Ma la signora Morland sapeva
+
+così poco di lord e baronetti che non aveva alcuna nozione della
+
+loro generale malvagità, e non sospettava minimamente un pericolo per
+
+la figlia dalle loro macchinazioni. Le sue raccomandazioni si limitarono ai
+
+punti seguenti. «Ti prego, Catherine, di coprirti sempre
+
+ben bene la gola quando esci dalle Sale di [[Night|notte]]; e
+
+vorrei che cercassi di tenere un po’ il conto dei soldi che spendi;
+
+ti do questo libretto apposta.»
+
+
+
+Sally, o piuttosto Sarah (ché quale signorina di comune buona famiglia
+
+arriva ai sedici anni senza cambiare il proprio nome per quanto le è possibile?),
+
+doveva per forza di cose essere in questo [[Time|tempo]] l’amica intima e la confidente
+
+della sorella. È notevole, però, che non insistette perché
+
+Catherine scrivesse a ogni corriere, né le estorse la promessa di
+
+trasmetterle il carattere di ogni nuova conoscenza, né il resoconto di
+
+ogni conversazione interessante che Bath potesse offrire. Tutto
+
+infatti, riguardo a questo importante [[Journey|viaggio]], fu fatto, da parte dei
+
+Morland, con un grado di moderazione e compostezza che pareva
+
+più consono ai sentimenti comuni della vita comune che
+
+alle raffinate suscettibilità, alle tenere emozioni che la prima
+
+separazione di un’eroina dalla famiglia dovrebbe sempre suscitare. Il
+
+padre, invece di darle un credito illimitato presso il suo banchiere, o anche solo
+
+di metterle in mano una banconota da cento sterline, le diede appena dieci
+
+ghinee, promettendole il resto quando ne avesse avuto bisogno.
+
+
+
+Sotto questi auspici poco promettenti avvenne il commiato, e il
+
+[[Journey|viaggio]] cominciò. Si svolse con conveniente tranquillità e senza incidenti,
+
+in piena sicurezza. Né briganti né tempeste vennero loro in soccorso, né un fortunato
+
+ribaltamento a presentare loro l’[[Hero|eroe]]. Non accadde nulla di più allarmante
+
+del [[Fear|timore]], da parte della signora Allen, di aver dimenticato i propri zoccoli
+
+in una locanda: timore che fortunatamente si rivelò infondato.
+
+
+
+Arrivarono a Bath. Catherine era tutta gioiosa impazienza: i suoi occhi erano
+
+qui, là, dappertutto, mentre si avvicinavano ai suoi dintorni belli e
+
+notevoli, e poi mentre percorrevano in carrozza le strade che le condussero
+
+all’albergo. Era venuta per essere felice, e si sentiva già
+
+felice.
+
+
+
+Si sistemarono presto in un comodo alloggio in Pulteney Street.
+
+
+
+Conviene ora dare qualche descrizione della signora Allen, affinché il
+
+lettore possa giudicare in che modo le sue azioni tenderanno d’ora in poi
+
+a promuovere l’angoscia generale dell’opera, e come, probabilmente,
+
+contribuirà a ridurre la povera Catherine a tutta la disperata
+
+infelicità di cui è capace un ultimo volume: se per la sua
+
+imprudenza, volgarità o [[Jealousy|gelosia]]; se intercettandone le lettere,
+
+rovinandone la reputazione o cacciandola di casa.
+
+
+
+La signora Allen apparteneva a quella numerosa categoria di donne la cui compagnia non può
+
+suscitare altra emozione che la sorpresa che al mondo vi sia stato un uomo
+
+capace di gradirle abbastanza [[Well|bene]] da sposarle. Non aveva né
+
+[[Beauty|bellezza]], né ingegno, né talenti, né maniere. L’aria di una gentildonna, una
+
+gran dose di buon umore quieto e inerte, e un’indole frivola
+
+erano tutto ciò che poteva spiegare come fosse stata la scelta di un uomo assennato e
+
+intelligente come il signor Allen. Sotto un aspetto era mirabilmente adatta
+
+a introdurre in società una giovane, essendo amante di andare
+
+dappertutto e di vedere ogni cosa quanto potesse esserlo qualsiasi ragazza.
+
+Il vestire era la sua passione. Provava un piacere del tutto innocuo nell’essere elegante;
+
+e l’ingresso nel mondo della nostra eroina non poté aver luogo se non dopo
+
+che tre o quattro giorni furono spesi a informarsi su ciò che più si portava, e
+
+la sua accompagnatrice fu provvista di un abito all’ultima moda.
+
+Anche Catherine fece per conto suo qualche acquisto, e quando tutte queste faccende
+
+furono sistemate, giunse l’importante serata che doveva introdurla
+
+nelle Upper Rooms. I capelli le furono tagliati e acconciati dalla mano migliore, gli
+
+abiti indossati con cura, e sia la signora Allen sia la sua cameriera dichiararono che
+
+aveva proprio l’aspetto che doveva avere. Con tale incoraggiamento, Catherine sperò
+
+almeno di attraversare la folla senza biasimo. Quanto all’ammirazione,
+
+era sempre molto gradita quando arrivava, ma lei non ci contava.
+
+
+
+La signora Allen impiegò tanto tempo a vestirsi che non entrarono nella sala da ballo
+
+se non tardi. La stagione era al culmine, la sala affollata, e le due signore
+
+si infilarono dentro il [[Well|meglio]] che poterono. Quanto al signor Allen, si ritirò
+
+direttamente nella sala da gioco, lasciandole a godersi la calca da sole.
+
+Con più cura per l’incolumità del suo abito nuovo che per il benessere di
 
 
 
@@ -16820,6 +17372,254 @@ of her charms, and went to her chair in good [[Humour|humour]] with everybody, a
 
 perfectly satisfied with her share of public attention.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+la sua protetta, la signora Allen si fece strada tra la calca di uomini presso la
+
+porta, con tutta la rapidità che la necessaria prudenza consentiva; Catherine,
+
+però, le rimase stretta accanto e tenne il proprio braccio troppo saldamente allacciato a quello
+
+dell'amica per poterne essere staccata da un qualsiasi sforzo ordinario di un'assemblea che
+
+si accalcava. Ma con suo grandissimo stupore scoprì che avanzare lungo
+
+la sala non era affatto il modo di districarsi dalla
+
+folla; anzi, questa sembrava crescere man mano che procedevano, mentre lei aveva
+
+immaginato che, una volta ben dentro la porta, avrebbero facilmente trovato
+
+posti a sedere e potuto osservare le danze con tutta comodità. Ma
+
+le cose andarono ben diversamente, e sebbene con instancabile diligenza
+
+raggiungessero perfino il fondo della sala, la loro situazione rimase la
+
+stessa; dei danzatori non vedevano nulla se non le alte piume di alcune
+
+delle signore. Eppure andarono avanti: qualcosa di meglio era ancora in vista; e
+
+a forza di continui sforzi di vigore e d'ingegno si trovarono
+
+infine nel passaggio dietro la panca più alta. Qui c'era
+
+un po' meno calca che di sotto; e di lì la signorina Morland ebbe una
+
+veduta completa di tutta la compagnia sotto di lei, e di tutti i
+
+pericoli del passaggio che vi aveva poco prima compiuto. Era uno spettacolo splendido, e
+
+cominciò, per la prima [[Time|volta]] quella sera, a sentirsi davvero a un ballo:
+
+desiderava ardentemente [[Dance|ballare]], ma non aveva una sola conoscenza nella sala. La signora
+
+Allen fece tutto ciò che si poteva fare in un caso simile, dicendo con gran placidità,
+
+di tanto in tanto: «Vorrei tanto che tu potessi [[Dance|ballare]], mia cara; vorrei che potessi
+
+trovare un cavaliere». Per qualche [[Time|tempo]] la sua giovane amica le fu grata di
+
+questi auguri; ma furono ripetuti così spesso, e si rivelarono così del tutto
+
+inutili, che alla fine Catherine se ne stancò e non volle ringraziarla
+
+più.
+
+
+
+Non poterono tuttavia godere a lungo del riposo dell'altura
+
+conquistata con tanta fatica. Ben presto tutti si mossero per
+
+il tè, ed esse dovettero farsi largo verso l'uscita come gli altri. Catherine cominciò a provare
+
+una certa delusione: era stanca di essere continuamente premuta
+
+dalla gente, i cui volti, per lo più, non avevano nulla che
+
+interessasse, e con la quale era tanto totalmente priva di conoscenza che
+
+non poteva alleviare la noia di quella [[Imprisonment|prigionia]] scambiando una
+
+sillaba con nessuno dei suoi compagni di cattività; e quando finalmente giunse
+
+nella sala da tè, sentì ancor più l'imbarazzo di non avere una compagnia cui
+
+unirsi, né una conoscenza da rivendicare, né un signore che le assistesse. Non videro
+
+traccia del signor Allen; e dopo aver cercato invano attorno a sé una sistemazione
+
+più conveniente, furono costrette a sedersi in fondo a un tavolo, al
+
+quale era già collocata una numerosa comitiva, senza avere nulla da fare
+
+lì, né alcuno con cui parlare, se non l'una con l'altra.
+
+
+
+La signora Allen si congratulò con sé stessa, non appena furono sedute, per
+
+aver preservato il suo abito da ogni danno. «Sarebbe stato davvero
+
+terribile che si strappasse», disse, «non è vero? È una mussola così
+
+delicata. Da parte mia non ho visto nulla che mi piaccia altrettanto [[Well|bene]] in
+
+tutta la sala, te l'assicuro».
+
+
+
+«Com'è spiacevole», sussurrò Catherine, «non avere una sola
+
+conoscenza qui!»
+
+
+
+«Sì, mia cara», rispose la signora Allen con perfetta serenità, «è davvero molto
+
+spiacevole».
+
+
+
+«Che cosa faremo? I signori e le signore a questo tavolo hanno l'aria di
+
+chiedersi perché siamo venute qui: sembra che ci imponiamo alla loro
+
+compagnia».
+
+
+
+«Eh sì, è proprio così. È molto sgradevole. Vorrei che avessimo molte
+
+conoscenze qui».
+
+
+
+«Vorrei che ne avessimo _una qualsiasi;_—sarebbe pur sempre qualcuno a cui rivolgersi».
+
+
+
+«Verissimo, mia cara; e se conoscessimo qualcuno ci uniremmo a lui
+
+immediatamente. Gli Skinner erano qui l'anno scorso: vorrei che ci fossero adesso».
+
+
+
+«Non faremmo meglio ad andarcene, stando così le cose? Qui non c'è servizio da tè per noi,
+
+vedi».
+
+
+
+«Proprio non ce n'è, in effetti. Che cosa irritante! ma credo che faremmo
+
+meglio a restare sedute, perché in una tale calca si viene tanto sballottati! com'è la mia
+
+pettinatura, mia cara? Qualcuno mi ha dato uno spintone che temo l'abbia guastata».
+
+
+
+«No davvero, sta benissimo. Ma, cara signora Allen, siete sicura
+
+che non vi sia nessuno che conoscete in tutta questa moltitudine di gente? Penso che
+
+_dobbiate_ conoscere qualcuno».
+
+
+
+«Non ne conosco, parola mia; vorrei tanto di sì. Vorrei con tutto il cuore avere molte conoscenze
+
+qui, e allora ti troverei un cavaliere. Sarei
+
+così felice di vederti [[Dance|ballare]]. Ecco là una donna dall'aria stranissima! che
+
+abito bizzarro indossa! com'è fuori moda! guarda il dietro».
+
+
+
+Dopo qualche [[Time|tempo]] ricevettero un'offerta di tè da uno dei loro
+
+vicini; fu accettata con gratitudine, e ciò diede avvio a una breve
+
+conversazione con il signore che l'aveva offerta, la quale fu l'unica [[Time|volta]]
+
+in cui qualcuno rivolse loro la parola durante la serata, finché non furono
+
+scoperte e raggiunte dal signor Allen quando la [[Dance|danza]] fu finita.
+
+
+
+«[[Well|Bene]], signorina Morland», disse subito, «[[Hope|spero]] che abbiate avuto un
+
+ballo piacevole».
+
+
+
+«Piacevolissimo davvero», rispose, sforzandosi invano di nascondere un
+
+grande sbadiglio.
+
+
+
+«Vorrei che avesse potuto [[Dance|ballare]]», disse sua moglie; «vorrei che avessimo potuto
+
+trovarle un cavaliere. Stavo appunto dicendo quanto sarei contenta se
+
+gli Skinner fossero qui quest'[[Winter|inverno]] invece che l'anno scorso; o se i Parry
+
+fossero venuti, come una volta dicevano, avrebbe potuto ballare con George
+
+Parry. Mi dispiace tanto che non abbia avuto un cavaliere!»
+
+
+
+«Faremo meglio un'altra sera, lo [[Hope|spero]]», fu la consolazione
+
+del signor Allen.
+
+
+
+La compagnia cominciò a disperdersi quando le danze finirono: abbastanza da lasciare
+
+spazio ai rimanenti per passeggiare con una certa comodità; ed era ora giunto il
+
+[[Time|momento]] per un'eroina, che non aveva ancora avuto una parte molto cospicua
+
+negli eventi della serata, di essere notata e ammirata. Ogni cinque
+
+minuti, portando via un po' di folla, aprivano maggiori varchi ai suoi
+
+incanti. Fu vista allora da molti giovanotti che prima non le erano stati
+
+vicini. Nessuno, tuttavia, sussultò per estatica [[Wonder|meraviglia]] nello
+
+scorgerla, nessun sussurro d'ansiosa curiosità corse per la sala, né fu mai
+
+chiamata divinità da alcuno. Eppure Catherine era assai in bellezza, e
+
+se solo la compagnia l'avesse vista tre anni prima, l'avrebbe _ora_
+
+giudicata straordinariamente avvenente.
+
+
+
+Fu _comunque_ guardata, e con una certa ammirazione; poiché, a portata del suo stesso
+
+orecchio, due signori la dichiararono una bella ragazza. Tali parole
+
+ebbero il loro debito effetto; subito le parve la serata più gradevole
+
+di quanto l'avesse trovata prima: la sua umile [[Vanity|vanità]] era appagata; si sentì
+
+più obbligata verso i due giovani per questa semplice lode di quanto
+
+un'eroina di vero rango lo sarebbe stata per quindici sonetti in celebrazione
+
+dei suoi incanti, e andò alla sua portantina di buon [[Humour|umore]] con tutti, e
+
+perfettamente soddisfatta della sua parte di pubblica attenzione.
 
 
 
@@ -17257,6 +18057,438 @@ respectable family in Gloucestershire.
 [1] Vide a letter from Mr. Richardson, No. 97, Vol. ii, Rambler.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO 3
+
+
+
+
+
+Ogni mattina portava ormai i suoi doveri consueti: c'erano negozi da visitare;
+
+qualche nuova parte della città da vedere; e la Pump-room da
+
+frequentare, dove passeggiavano avanti e indietro per un'ora, guardando
+
+tutti e non parlando con nessuno. Il desiderio di conoscere molta gente
+
+a Bath restava il pensiero dominante della signora Allen, che lo ripeteva dopo
+
+ogni nuova prova, che ogni mattina portava, di non conoscere proprio
+
+nessuno.
+
+
+
+Fecero la loro comparsa alle Lower Rooms; e qui la sorte fu
+
+più propizia alla nostra eroina. Il maestro delle cerimonie le presentò
+
+come cavaliere un giovane dai modi molto signorili; si chiamava
+
+Tilney. Dimostrava ventiquattro o venticinque anni, era piuttosto alto,
+
+aveva un volto gradevole, un occhio molto intelligente e vivace e, se
+
+non proprio bello, ci andava molto vicino. I suoi modi erano garbati, e
+
+Catherine si sentì assai fortunata. Mentre ballavano ci fu poco agio per
+
+parlare; ma quando si sedettero per il tè, lo trovò
+
+gradevole quanto già gli aveva attribuito di essere. Parlava
+
+con scioltezza e brio, e c'era nei suoi modi una malizia e un'arguzia
+
+che la interessavano, benché lei le comprendesse a stento.
+
+Dopo aver chiacchierato per un po' di [[Time|tempo]] su argomenti che sorgevano naturalmente dagli
+
+oggetti intorno a loro, egli le si rivolse all'improvviso: «Finora sono
+
+stato molto negligente, signora, nelle attenzioni che qui si devono a una dama; non
+
+le ho ancora chiesto da quanto tempo si trova a Bath; se ci fosse
+
+mai stata prima; se sia andata alle Upper Rooms, a
+
+teatro e al concerto; e come le sembri il luogo nel complesso. Sono
+
+stato molto trascurato: ma ha ora il tempo di soddisfarmi su questi
+
+particolari? Se sì, comincerò subito».
+
+
+
+«Non deve darsi questo disturbo, signore».
+
+
+
+«Nessun disturbo, glielo assicuro, signora». Poi, atteggiando il volto a un sorriso
+
+di circostanza e addolcendo con affettazione la voce, aggiunse, con aria
+
+lezosa: «È molto che si trova a Bath, signora?»
+
+
+
+«Da circa una settimana, signore», rispose Catherine, cercando di non ridere.
+
+
+
+«Davvero!» con stupore affettato.
+
+
+
+«Perché dovrebbe stupirsi, signore?»
+
+
+
+«Già, perché mai!» disse lui, con il suo tono naturale. «Ma bisogna pur mostrare che
+
+la sua risposta susciti qualche emozione, e lo stupore è il più facile da simulare,
+
+e non meno ragionevole di ogni altro. Ora proseguiamo. Non era
+
+mai stata qui prima, signora?»
+
+
+
+«Mai, signore».
+
+
+
+«Davvero! E ha già onorato le Upper Rooms?»
+
+
+
+«Sì, signore, ci sono stata lunedì scorso».
+
+
+
+«È stata a teatro?»
+
+
+
+«Sì, signore, sono stata allo spettacolo martedì».
+
+
+
+«E al concerto?»
+
+
+
+«Sì, signore, mercoledì».
+
+
+
+«E Bath la soddisfa nel complesso?»
+
+
+
+«Sì, mi ci trovo molto [[Well|bene]]».
+
+
+
+«Ora devo fare un sorrisetto compiaciuto, e poi potremo tornare a essere ragionevoli».
+
+Catherine voltò il capo, non sapendo se potesse azzardarsi
+
+a ridere.
+
+
+
+«Vedo che cosa pensa di me», disse lui con gravità; «domani farò
+
+una ben misera figura nel suo diario».
+
+
+
+«Il mio diario!»
+
+
+
+«Sì, so esattamente che cosa scriverà: venerdì, andata alle Lower
+
+Rooms; indossato l'abito di mussola a ramoscelli con guarnizioni azzurre, scarpe nere
+
+semplici; ottima figura; ma stranamente tormentata da un
+
+uomo bizzarro e mezzo scemo, che ha voluto a tutti i costi farmi [[Dance|ballare]] con lui, e
+
+mi ha angustiata con le sue sciocchezze».
+
+
+
+«Non scriverò affatto una cosa simile».
+
+
+
+«Vuole che le dica che cosa dovrebbe scrivere?»
+
+
+
+«Se le fa piacere».
+
+
+
+«Ho ballato con un giovanotto molto gradevole, presentatomi dal signor [[King]]; ho avuto
+
+con lui una lunga conversazione; sembra un ingegno del tutto
+
+straordinario; [[Hope|spero]] di poterlo conoscere meglio. _Questo_, signora, è ciò che _desidero_ che lei
+
+scriva».
+
+
+
+«Ma forse io non tengo alcun diario».
+
+
+
+«Forse lei non è seduta in questa sala, e io non sono seduto accanto a lei.
+
+Sono punti sui quali un [[Doubt|dubbio]] è ugualmente possibile. Non tenere un
+
+diario! Come faranno le sue cugine lontane a capire l'andamento della sua
+
+vita a Bath senza di esso? Come si potranno riferire come si deve le cortesie e i complimenti
+
+di ogni giorno, se non vengono annotati ogni
+
+sera in un diario? Come si potranno ricordare i suoi vari abiti,
+
+e lo stato particolare della sua carnagione, e i riccioli dei suoi capelli,
+
+e descriverli in tutte le loro varietà, senza ricorrere di continuo
+
+a un diario? Mia cara signora, non sono così ignaro delle abitudini delle signorine
+
+come lei vorrebbe credermi; è questa deliziosa abitudine di tenere un diario
+
+che contribuisce in gran parte a formare quello stile scorrevole per cui
+
+le signore sono così universalmente celebrate. Tutti ammettono che il talento di
+
+scrivere lettere piacevoli sia tipicamente femminile. La [[Nature|natura]] avrà pur fatto
+
+qualcosa, ma sono certo che dev'essere aiutata in modo essenziale dalla
+
+pratica di tenere un diario».
+
+
+
+«Talvolta mi sono chiesta», disse Catherine, esitante, «se davvero le signore
+
+scrivano lettere tanto migliori dei signori! Cioè, non
+
+credo che la superiorità sia sempre dalla nostra parte».
+
+
+
+«Per quanto ho avuto occasione di giudicare, mi pare che lo
+
+stile epistolare abituale delle donne sia impeccabile, tranne che in tre
+
+particolari».
+
+
+
+«E quali sono?»
+
+
+
+«Una generale mancanza di argomento, una totale disattenzione alla punteggiatura e una
+
+assai frequente ignoranza della grammatica».
+
+
+
+«Parola mia! Non avevo bisogno di temere di rifiutare il
+
+complimento. Non ha di noi un'opinione troppo alta in questo campo».
+
+
+
+«Non stabilirei come regola generale che le donne scrivano lettere migliori
+
+degli uomini, più di quanto direi che cantino meglio i duetti o disegnino meglio i
+
+paesaggi. In ogni facoltà che abbia il gusto per fondamento,
+
+l'eccellenza è divisa abbastanza equamente fra i due sessi».
+
+
+
+Furono interrotti dalla signora Allen: «Mia cara Catherine», disse, «per favore
+
+togli questo spillo dalla mia manica; temo che abbia già fatto uno strappo;
+
+mi dispiacerebbe molto, perché questo è un abito a cui tengo, benché
+
+sia costato solo nove scellini a iarda».
+
+
+
+«È esattamente quanto avrei indovinato, signora», disse il signor
+
+Tilney, guardando la mussola.
+
+
+
+«Se ne intende di mussole, signore?»
+
+
+
+«Particolarmente [[Well|bene]]; compro sempre da me le mie cravatte, e mi si riconosce di essere
+
+un giudice eccellente; e mia sorella si è spesso affidata a me nella scelta di
+
+un abito. Gliene ho comprato uno l'altro giorno, e fu dichiarato
+
+un affare prodigioso da ogni signora che lo vide. L'ho pagato solo cinque
+
+scellini a iarda, ed era vera mussola indiana».
+
+
+
+La signora Allen restò colpitissima dal suo talento. «Di solito gli uomini fanno così poca
+
+attenzione a queste cose», disse; «non riesco mai a far distinguere al signor Allen
+
+un mio abito dall'altro. Lei dev'essere un gran conforto per sua
+
+sorella, signore».
+
+
+
+«Lo [[Hope|spero]], signora».
+
+
+
+«E mi dica, signore, che cosa pensa dell'abito della signorina Morland?»
+
+
+
+«È molto grazioso, signora», disse lui, esaminandolo con gravità; «ma non
+
+credo che regga [[Well|bene]] il lavaggio; temo che si sfilacci».
+
+
+
+«Come può», disse Catherine ridendo, «essere così...» Aveva quasi detto
+
+«strano».
+
+
+
+«Sono proprio del suo parere, signore», rispose la signora Allen; «e così dissi alla
+
+signorina Morland quando lo comprò».
+
+
+
+«Ma d'altronde, signora, la mussola serve sempre a qualcosa, in un modo o
+
+nell'altro; la signorina Morland ne ricaverà abbastanza per un fazzoletto, o una
+
+cuffia, o una mantellina. Non si può mai dire che la mussola vada sprecata. L'ho sentito dire da mia
+
+sorella quaranta volte, quando ha esagerato comprandone più
+
+di quanta le servisse, o è stata sbadata nel tagliarla a pezzi».
+
+
+
+«Bath è un posto incantevole, signore; ci sono tanti bei negozi. In campagna
+
+siamo messi proprio male; non che non ci siano ottimi negozi a
+
+Salisbury, ma è così lontano: otto miglia sono una bella distanza; il signor Allen
+
+dice che sono nove, nove misurate; ma sono certa che non possano essere più di
+
+otto; ed è una tale fatica: torno stanca da [[Death|morire]]. Qui, invece, si
+
+può uscire di casa e trovare una cosa in cinque minuti».
+
+
+
+Il signor Tilney fu abbastanza cortese da sembrare interessato a ciò che diceva; e
+
+lei lo tenne sull'argomento delle mussole finché non ripresero le danze.
+
+Catherine temette, ascoltando il loro discorso, che egli si compiacesse
+
+un po' troppo delle debolezze altrui. «A che cosa sta
+
+pensando con tanta intensità?» disse lui, mentre tornavano verso la
+
+sala da ballo; «non al suo cavaliere, [[Hope|spero]], perché, a giudicare da quel cenno del capo,
+
+le sue meditazioni non sono soddisfacenti».
+
+
+
+Catherine arrossì e disse: «Non stavo pensando a nulla».
+
+
+
+«Ecco una risposta astuta e profonda, senza dubbio; ma preferirei che mi si dicesse subito
+
+che non me lo vuole dire».
+
+
+
+«[[Well|Bene]], allora non glielo dirò».
+
+
+
+«Grazie; perché ora faremo presto conoscenza, giacché sono autorizzato a
+
+stuzzicarla su questo argomento ogni volta che ci incontreremo, e nulla al mondo
+
+fa progredire tanto l'intimità».
+
+
+
+Ballarono di nuovo; e, quando il ricevimento si chiuse, si separarono, almeno da parte
+
+della signorina, con una forte inclinazione a proseguire la
+
+conoscenza. Se abbia pensato a lui tanto, mentre beveva il suo
+
+vino caldo allungato con l'[[Water|acqua]] e si preparava per la notte, da sognarlo poi
+
+a letto, non si può accertare; ma [[Hope|spero]] che non sia stato più che in un
+
+sonno leggero, o tutt'al più in un dormiveglia mattutino; perché se è vero, come ha
+
+sostenuto un celebre scrittore, che nessuna signorina può essere giustificata
+
+se si innamora d'[[Love|amore]] prima che l'[[Love|amore]] del gentiluomo sia dichiarato,[1] dev'essere
+
+assai sconveniente che una signorina sogni un gentiluomo prima
+
+che si sappia che il gentiluomo ha sognato lei per primo. Quanto il signor
+
+Tilney potesse essere adatto come sognatore o come [[Lover|innamorato]] forse non era ancora passato per la testa del signor
+
+Allen, ma che non fosse discutibile come semplice
+
+conoscenza per la sua giovane protetta se ne accertò informandosi; poiché
+
+già all'inizio della serata si era premurato di sapere chi fosse il suo cavaliere, ed
+
+era stato assicurato che il signor Tilney era un ecclesiastico, e apparteneva a una
+
+famiglia molto rispettabile del Gloucestershire.
+
+
+
+[1] Vedi una lettera del signor Richardson, n. 97, vol. ii, Rambler.
+
 
 
 <span class="atom-split" data-atom="chapter_05" data-title="Northanger Abbey — Chapter 4" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/clock,motif/love,motif/night,motif/time,motif/well,motif/window,concept/beauty,concept/despair,concept/friendship,concept/history,concept/hope,form/history,setting/london,setting/oxford,character/isabella"></span>
@@ -17509,6 +18741,260 @@ lords and attorneys might be set forth, and conversations, which had
 passed twenty years before, be minutely repeated.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 4
+
+
+
+
+
+Con una fretta maggiore del solito, Catherine si affrettò verso la sala delle pompe.
+
+Il giorno dopo, convinta che il signor Tilney sarebbe stato lì…
+
+La mattina era finita, e lei era pronta ad accoglierlo con un sorriso… ma non c’era alcun sorriso.
+
+#Fu richiesto… ma il signor Tilney non si presentò. Tutti a Bath, tranne…
+
+Lo stesso individuo si poteva vedere nella stanza in diversi momenti del giorno.
+
+Ore di moda; folla di persone che continuavano ad entrare in quel luogo…
+
+“Fuori, su per le scale e giù… persone di cui a nessuno importava nulla, e nessuno…”
+
+Volevo vederlo… ed è stato l’unico ad assentarsi. “Che posto delizioso, Bath…”
+
+“È così,” disse la signora Allen mentre si sedevano vicino all’imponente [[Clock|orologio]], dopo.
+
+“Camminavano avanti e indietro per la stanza fino a quando non si stancavano… E che piacevole sarebbe stato…”
+
+“Se solo conoscessimo qualcuno qui…”
+
+
+
+#Questo sentimento era stato espresso così spesso e invano che la signora Allen non ne aveva più…
+
+Non esiste alcuna ragione particolare per sperare che ora venga seguito con maggiore successo.
+
+Ma ci viene detto di “[[Despair|disperare]] di nulla di ciò che potremmo ottenere”, poiché “senza sforzo, ”
+
+“La diligenza è ciò che ci permetterà di raggiungere il nostro obiettivo”; e con quella instancabile diligenza…
+
+#Finalmente, ciò che desiderava ogni giorno era diventato realtà
+
+# Giusta ricompensa… poiché non era ancora trascorso nemmeno un quarto d’ora da quando si era seduta, che una signora…
+
+Di una ragazza più o meno della sua età, che sedeva accanto a lei e la stava osservando…
+
+# Con grande attenzione, le parlò per diversi minuti…
+
+“Credo, signora, che non possa sbagliarmi…”.
+
+È passato molto tempo da quando ho avuto il piacere di vederti, ma non è, tuo.
+
+“Nome Allen?”, fu la domanda che il forestiero pose, e naturalmente ricevette risposta immediata.
+
+#Thorpe: il nome che lei dichiarò essere proprio di Thorpe; e la signora Allen lo riconobbe immediatamente
+
+Titolo:  
+Caratteristiche di un ex compagno di scuola e intimo, che lei aveva visto solo…
+
+Da quando si erano sposati, molti anni fa…
+
+La gioia per questo incontro fu davvero grande, come era del resto prevedibile, visto che loro avevano.
+
+# Non siamo mai stati interessati ad conoscerci l’uno dell’altro negli ultimi quindici anni
+
+Anni… I complimenti sulla bellezza ormai sono passati; e, dopo aver osservato come…
+
+Il [[Time|tempo]] era trascorso da quando si erano visti l’ultima volta; quanto poco avevano.
+
+#Avevo pensato di incontrarci a Bath… Che piacere è stato rivedersi!
+
+# Vecchio amico… procedettero con delle indagini e fornirono informazioni utili.
+
+A le loro famiglie, sorelle e cugini, parlando insieme, lontano…
+
+#Più disposti a dare che a ricevere informazioni, e ogni ascolto è molto…
+
+“Poco di ciò che gli altri dissero… Tuttavia, la signora Thorpe aveva qualcosa di molto importante da dire.”
+
+#Il vantaggio di essere un buon oratore, rispetto alla signora Allen, in una famiglia con bambini…
+
+Quando descrisse in dettaglio i talenti dei suoi figli e la loro [[Beauty|bellezza]],
+
+Le figlie, quando le raccontò delle loro diverse situazioni e punti di vista…
+
+John si trovava a [[Oxford]], Edward alla Merchant Taylors’, mentre William era in mare, e
+
+Tutti loro più amati e rispettati nella loro rispettiva posizione sociale di quanto…
+
+# Altre tre creature esistite mai… La signora Allen non ne aveva alcuna informazione
+
+# Dare, senza ottenere trionfi simili su coloro che sono riluttanti e increduli
+
+# Ascoltando in silenzio…
+
+# Questi sentimenti materni… con cui si consola comunque.
+
+Titolo:  
+La scoperta che i suoi occhi acuti riuscirono rapidamente a fare… riguardo al pizzo della signora Thorpe…
+
+Il mantello non era nemmeno lontanamente così bello quanto quello che lei indossava da sola.
+
+
+
+“Ecco arrivare le mie care ragazze,” esclamò la signora Thorpe, indicando tre persone.
+
+Donne dall'aspetto attraente che, a braccetto, si stavano avvicinando a lei.
+
+“Mia cara signora Allen, desidero tantissimo presentarglieli… Saranno davvero meravigliosi.”
+
+È un piacere vederti: la più alta è [[Isabella]], mia figlia maggiore. Non è davvero bellissima?
+
+“Una giovane donna eccellente… Anche le altre sono molto ammirate, ma credo…”
+
+[[Isabella]] è la più bella.
+
+
+
+Le signorine Thorpes furono presentate; e anche la signorina Morland, che era stata…
+
+Dimenticato in breve [[Time|tempo]], fu introdotto allo stesso modo. Il nome sembrava.
+
+“Colpiscili tutti; e dopo averle parlato con grande cortesia…”
+
+“Che somiglianza eccessiva con lei…”, osservò ad alta voce la più anziana delle giovani signore rivolgendosi alle altre.
+
+“Mia sorella, la signorina Morland…”
+
+
+
+“Proprio la sua immagine!”, esclamò la madre… “Avrei dovuto indovinare…”
+
+“Non l’abbiamo mai conosciuta da nessuna parte come sua sorella!” ripeterono tutti quanti.
+
+Tre volte… Per un momento Catherine rimase sorpresa; ma la signora Thorpe…
+
+E le sue figlie avevano appena iniziato a raccontare la storia del loro incontro.
+
+Con il signor James Morland, prima che si ricordasse di suo fratello maggiore…
+
+Recentemente aveva instaurato una certa intimità con un giovane della sua stessa università…
+
+Titolo:  
+Il nome di Thorpe; e che aveva trascorso l’ultima settimana…
+
+Vacanze natalizie con la sua famiglia, vicino a [[London|Londra]].
+
+
+
+“La completa spiegazione di tutto: molte parole gentili e premurose furono pronunciate dalla signorina…”
+
+#Desiderio di conoscerla meglio
+
+Considerati già amici, grazie alla [[Friendship|amicizia]] che li legava.
+
+“Fratelli, ecc.” – cose che Catherine ascoltò con piacere e rispose…
+
+Tutte le espressioni affascinanti di cui era capace; e, come prima dimostrazione…
+
+Per dimostrare la sua amicizia, fu presto invitata ad accettare il braccio del figlio maggiore della signorina…
+
+“Thorpe… e fare un giro insieme per la stanza. Catherine era…”
+
+Felice di questa estensione delle sue conoscenze a Bath, e quasi…
+
+Mentre parlava con la signorina Thorpe, dimenticò del signor Tilney. L’[[Friendship|amicizia]] è.
+
+Senza dubbio, il miglior lenitivo per i dolori dell’amore deluso.
+
+
+
+La loro conversazione si concentrò su quegli argomenti…
+
+La discussione, in generale, svolge un ruolo fondamentale nel perfezionare una intimità improvvisa.
+
+#Tra due giovani signore: abiti, balli, flirtazioni… e altro ancora
+
+Quiz… Ma la signorina Thorpe era di quattro anni più grande della signorina…
+
+#Morland, con una conoscenza almeno quattro anni più approfondita, era decisamente in vantaggio
+
+# Vantaggio nel discutere tali argomenti: avrebbe potuto confrontare le varie possibilità…
+
+I costumi di Bath seguono quelli di Tunbridge, e le sue mode sono uguali a quelle di [[London|Londra]].
+
+#Potrebbe correggere le opinioni della sua nuova amica attraverso molti articoli…
+
+Abbigliamento raffinato; si potrebbe notare una certa intimità tra qualsiasi gentiluomo e…
+
+#Donne che si sorridevano solo l’una all’altra; e indicavano una strada attraverso il quiz
+
+# La densità di una folla. Questi poteri suscitarono ammirazione dovuta…
+
+#Catherine, per lei del tutto nuova… e il rispetto che le veniva rivolto
+
+Titolo:  
+“Naturalmente ispirato” avrebbe potuto risultare troppo audace per essere facilmente accettato, se non fosse stato…
+
+La spensierata allegria nel comportamento di Miss Thorpe, e le sue frequenti espressioni gioiose
+
+# Una gioia immensa nell’incontrarla di nuovo: ogni sentimento si addolcì.
+
+# Un sentimento di ammirazione e rispetto, lasciando solo affetto tenero… Il loro legame cresceva giorno dopo giorno…
+
+Titolo:  
+L’attaccamento non poteva essere soddisfatto con soltanto mezza dozzina di girate…
+
+“Pump-room… ma necessario quando tutti ne uscirono insieme… quella signorina…”
+
+# Thorpe dovrebbe accompagnare la signorina Morland fino alla stessa porta di casa del signor Allen
+
+[[house|casa]]; e che lì dovessero separarsi con grande affetto e.
+
+Una stretta di mano più lunga, dopo aver scoperto, con reciproco sollievo, che…
+
+Dovrebbero incontrarsi nel teatro di notte e dirsi.
+
+Preghiere nella stessa cappella la mattina seguente… Poi Catherine corse via.
+
+Direttamente al piano di sopra… e osservai i movimenti di Miss Thorpe lungo la strada.
+
+Dalla finestra del salotto, ammirava l’eleganza e la grazia dei suoi passi.
+
+L’aspetto elegante della sua figura e del suo abito; e si sentì grato, come [[Well|certamente]].
+
+Forse lo avrebbe fatto, per la possibilità che le aveva permesso di ottenere un amico del genere.
+
+
+
+# La signora Thorpe era una vedova, e non molto ricca…
+
+Una donna di buon umore, dal cuore gentile, e una madre molto indulgente. Lei.
+
+La figlia maggiore possedeva una grande bellezza personale; le più giovani, invece.
+
+#Imitando l’aspetto e il comportamento della sorella, fingendo di essere altrettanto attraenti…
+
+Abbigliato nello stesso stile, se l'è cavata molto bene.
+
+
+
+# Breve descrizione della famiglia  
+Questa breve descrizione della famiglia ha lo scopo di eliminare la necessità di ulteriori spiegazioni.
+
+Un lungo e minuzioso resoconto fornito dalla stessa signora Thorpe riguardo al suo passato
+
+Avventure e sofferenze che, altrimenti, si potrebbero aspettare che occupassero…
+
+I tre o quattro capitoli successivi; nei quali si dimostra l’inutilità di…
+
+Lordi e avvocati potrebbero essere menzionati, così come alcune conversazioni che ebbero luogo…
+
+Vent’anni erano trascorsi; tutto veniva ripetuto nei minimi dettagli.
+
 
 
 <span class="atom-split" data-atom="chapter_06" data-title="Northanger Abbey — Chapter 5" data-chapter="Chapter 06" data-kind="chapter" data-tags="archetype/hero,motif/dance,motif/desert,motif/love,motif/nature,motif/well,concept/body,concept/doubt,concept/friendship,concept/history,concept/hope,concept/imagination,concept/nature,concept/pride,form/history,form/novel,histref/milton,setting/desert,character/isabella,character/milton,character/sunday"></span>
@@ -17738,6 +19224,237 @@ language, too, frequently so coarse as to give no very favourable idea
 
 of the age that could endure it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 5
+
+
+
+
+
+Catherine quella sera non era affatto concentrata sul teatro…
+
+Rispondendo con cenni del capo e sorrisi alla signorina Thorpe, anche se certamente…
+
+Prendeva gran parte del suo tempo libero, al punto di dimenticare di osservare le cose con uno sguardo curioso.
+
+“Per il signor Tilney… in ogni scatola che i suoi occhi riuscivano a vedere; ma lei guardava…”
+
+Inutile. Il signor Tilney non amava affatto quella commedia, proprio come non apprezzava la sala da bagno… Lei.
+
+Sperava di essere più fortunata il giorno dopo; e quando i suoi desideri di avere qualcosa di bello…
+
+#Una bella mattina rispose alle sue domande… quasi non provava nulla.
+
+Nessun [[Doubt|>dubbio]] al riguardo; perché una bella [[Sunday|)domenica]] a Bath fa sì che ogni [[house|>casa]] si svuoti.
+
+Abitanti… e in quelle occasioni, tutto il mondo sembra muoversi insieme.
+
+Parlate con i vostri conoscenti e raccontate loro quanto sia stato una giornata incantevole.
+
+
+
+Non appena la cerimonia religiosa terminò, i Thorpe e gli Allen furono immediatamente…
+
+Si unirono l’uno all’altro; e dopo essere rimasti abbastanza a lungo nella sala delle pompe…
+
+Titolo: Scoprì che la folla era insopportabile, e che non c’era alcuna via d’uscita…
+
+Un volto distinto, che tutti notano ogni [[Sunday|domenica]].
+
+Durante tutta la stagione, si affrettavano verso il Crescent per respirare…
+
+L’aria fresca di buona compagnia. Qui, Catherine e [[Isabella]], unite nel loro impegno.
+
+Arm, ancora una volta assaporò i piaceri della [[Friendship|amicizia]] in modo sincero e senza riserve.
+
+Conversazione: parlarono molto, e con grande piacere… ma ancora una volta…
+
+Catherine rimase delusa nella sua [[Hope|>speranza]] di rivedere il suo compagno. Lui non c’era.
+
+Non si riusciva a trovarlo da nessuna parte; ogni ricerca a suo riguardo risultò infruttuosa.
+
+#Nei salotti mattutini né nelle riunioni serali; né all’Upper né…
+
+# Stanze inferiori… nelle feste in abito o in costume, era possibile vederlo; né…
+
+# Tra i camminatori, i cavalieri o coloro che guidano le carrozze…
+
+Mattina… Il suo nome non figurava nell’elenco della sala da bagno; la curiosità, dunque, ebbe la meglio…
+
+“Non più… Deve essersene andato da Bath. Eppure non ha mai menzionato che…”
+
+#Un mistero che sembra così semplice…
+
+Diventando un [[Hero|eroe]], aggiunse una nuova nota di grazia all’immaginazione di Catherine.
+
+Attorno a lui e nel suo comportamento c’era qualcosa che aumentava ancora di più la sua ansia di sapere di più.
+
+Di lui… Dalle persone del villaggio non poté ottenere alcuna informazione, perché loro non sapevano nulla.
+
+Solo due giorni a Bath prima che incontrassero la signora Allen…
+
+Titolo:  
+Un argomento su cui spesso indulgeva con la sua cara amica…
+
+# Da chi ha ricevuto ogni possibile incoraggiamento per continuare
+
+# Pensate a lui… E l’impressione che ha lasciato nella sua immaginazione non è affatto svanita.
+
+Pertanto, per indebolirlo. [[Isabella]] era molto sicura che dovesse essere un uomo affascinante.
+
+giovane uomo, e ero altrettanto sicuro che dovesse essere stato molto felice
+
+“Mia cara Catherine… e quindi tornerà presto. Le piaceva.”
+
+“Meglio essere un clero… perché deve ammettere di essere davvero…”
+
+“Parzialmente devota alla professione…”; e qualcosa come un sospiro le sfuggì mentre…
+
+# Lei lo disse… Forse Catherine aveva torto a non chiedere le ragioni dietro quella decisione.
+
+Quell’emozione delicata… ma lei non aveva ancora abbastanza esperienza nella sua manifestazione raffinata.
+
+A causa dell’[[Love|amore]] o dei doveri dell’[[Friendship|amicizia]], è importante saper riconoscere quando le parole scherzose possono diventare offensive.
+
+Quando era davvero necessario farlo, o quando si doveva costringere qualcuno a rivelare la verità.
+
+
+
+La signora Allen era ora molto felice, davvero soddisfatta di Bath. Aveva trovato…
+
+Un certo conoscente aveva avuto la stessa fortuna: anche lui aveva trovato in loro qualcosa di familiare…
+
+Di un caro e meritevole vecchio amico; e, come completamento di una fortuna davvero buona…
+
+Si era resa conto che questi amici non erano affatto vestiti in modo così elegante come lei stessa.
+
+Le sue espressioni quotidiane non erano più: “Vorrei che conoscessimo qualcuno…”
+
+“A Bath!” Fu sostituito con: “Che felicità che abbiamo incontrato la signora, ”
+
+“Thorpe!” esclamò, ansiosa di favorire il loro incontro.
+
+Famiglie, proprio come la sua giovane protetta e [[Isabella]] stesse potevano essere, mai.
+
+#Soddisfatta della giornata… a meno che non l’abbia trascorsa al fianco di…
+
+#Signora Thorpe: ciò che chiamavano “conversazione”, ma che in realtà…
+
+# Raramente si ha alcuno scambio di opinioni, e ancor meno alcuna somiglianza tra esse.
+
+Titolo:  
+Sull’argomento… poiché la signora Thorpe parlava principalmente dei suoi figli, e la signora Allen…
+
+dei suoi abiti.
+
+
+
+Il progresso dell’[[Friendship|amicizia]] tra Catherine e [[Isabella]] fu rapido.
+
+Come era iniziato in modo caloroso, così anche procedettero rapidamente…
+
+# Ogni gradazione di crescente tenerezza… finché non ne rimase più alcuna
+
+Una nuova prova di ciò può essere mostrata ai loro amici o a se stessi. Loro…
+
+Si chiamavano a vicenda con i loro nomi di battesimo e erano sempre mano nella mano…
+
+Camminavano tenendosi per mano durante la [[Dance|danza]], e non.
+
+# Diviso nel set… e se una mattina piovosa li privava di altro…
+
+Godimenti… ma erano comunque determinati a incontrarsi nonostante la pioggia.
+
+“Polvere e silenzio… per leggere romanzi insieme.” Sì, romanzi.
+
+#Non adotterò quella pratica ingiusta e scortese così diffusa
+
+Gli scrittori di [[Novel|romanzi]], con la loro condanna sprezzante, umiliano addirittura.
+
+#Performance, che aumentano ulteriormente grazie alle loro stesse contribuzioni…
+
+Con i loro peggiori nemici, attribuiscono gli epiteti più duri a coloro…
+
+Titolo:  
+Funziona… ma raramente permette loro di leggerlo da soli.
+
+Un'eroina che, se per caso inizia a leggere un [[Novel|racconto]], di certo ne sarà completamente assorbita.
+
+Con disgusto, sfogliava quelle pagine insipide. Ahimè, se solo l’eroina di uno di quei [[Novel|romanzi]] fosse.
+
+Titolo:  
+Non protetta dall’eroina di un altro… Da chi può dunque aspettarsi protezione?
+
+# Protezione e considerazione? Non posso approvarlo. Lasciamo che se ne occupino loro.
+
+I recensori possono concedersi il lusso di indulgere in simili espressioni di fantasia quando ne hanno voglia… e anche di più.
+
+Ogni nuovo [[Novel|romanzo]] utilizza sempre le stesse, banali espressioni tipiche del genere di letteratura scadente.
+
+La stampa ora si lamenta. Non abbandoniamoci a vicenda; siamo una comunità ferita.
+
+[[Body|corpo]]. Sebbene le nostre produzioni abbiano offerto opportunità più ampie e.
+
+Un piacere genuino e sincero, come nessun’altra corporazione letteraria al mondo…
+
+Nel mondo, nessuna forma di composizione è stata così spesso criticata. A causa dell’[[Pride|orgoglio]].
+
+Ignoranza… o moda: i nostri nemici sono quasi tantissimi quanto i nostri lettori. E…
+
+Mentre le capacità del novecentesimo riassuntore della [[history|Storia]] di.
+
+#Inghilterra, o dell’uomo che raccoglie e pubblica in un volume alcune…
+
+Dodici versi di [[Milton]], del Papa e di Prior, insieme a un foglio di.
+
+“Spettatore… e un capitolo di Sterne vengono lodati da mille persone.”
+
+# Penne: sembra esserci un desiderio generale di denunciare la capacità…
+
+#Sottovalutare il lavoro dello scrittore di romanzi e disprezzarne l’impegno
+
+Esibizioni che possono essere apprezzate soltanto per il genio, l’ingegno e il gusto che le caratterizzano.
+
+“Non sono un lettore di romanzi; raramente leggo romanzi. Non pensate che io, ”
+
+Legge spesso romanzi. È davvero molto [[Well|buono]] per un [[Novel|romanzo]]. Proprio così.
+
+Titolo:  
+“E cosa state leggendo, signorina…?“ “Oh, è solo…”
+
+“Un [[Novel|romanzo]]!”, risponde la giovane signora, mentre posa il suo libro.
+
+# Indifferenza affettata, o vergogna momentanea… “È solo Cecilia, o…”
+
+# Camilla, ovvero Belinda; o, in breve, un semplice racconto…
+
+#Le più grandi potenze dell’intelletto vengono messe in mostra, in questo testo che offre un’analisi approfondita…
+
+La conoscenza della [[Nature|>natura]] umana, la rappresentazione più felice delle sue varietà.
+
+Le più vivaci manifestazioni di ingegno e [[Humour|umorismo]] vengono comunicate al mondo attraverso.
+
+#La lingua più adatta… Ora, se quella stessa giovane donna fosse stata fidanzata…
+
+“Con un numero del ‘Spectator’, invece di un simile lavoro… con quanta fierezza.”
+
+#Avrebbe mai pubblicato quel libro e ne avrebbe indicato il titolo? Nonostante le probabilità…
+
+#Non deve permettersi che alcuna parte di quella vasta quantità la occupi…
+
+#Pubblicazione la cui materia o il suo modo di essere non susciterebbero disgusto in nessuno
+
+giovane di gusto: la sostanza dei suoi scritti, spesso costituita…
+
+# In una narrazione di circostanze improbabili e personaggi innaturali…
+
+Argomenti di conversazione che ormai non interessano più nessuno; e…
+
+La lingua, anch’essa, spesso è così volgare da non dare affatto un’impressione positiva.
+
+Di quell’età in cui si poteva sopportarlo.
 
 
 
@@ -18611,6 +20328,259 @@ younger sisters he then bestowed an equal portion of his fraternal
 tenderness, for he asked each of them how they did, and observed that
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Odio trattare, e povero Freeman voleva solo contanti.
+
+
+
+“È stato molto gentile da parte tua,” disse Catherine, molto soddisfatta.
+
+
+
+“Ah… quando si hanno i mezzi per fare qualcosa di gentile per un amico…”
+
+“Odio essere considerato patetico.”
+
+
+
+Fu condotta un’indagine sui probabili spostamenti del giovane.
+
+Signore e signori… e, una volta scoperto dove stavano andando, si decise che…
+
+I signori dovrebbero accompagnarli presso gli edifici di [[Edgar]] e pagare per loro.
+
+I miei rispetti alla signora Thorpe. James e [[Isabella]] presero l’iniziativa; e così, tutto [[Well|benissimo]].
+
+L’ultima era soddisfatta della sua sorte, davvero molto felice.
+
+Si sforzava di garantire un piacevole passeggiato a colui che aveva portato il [[Double|>doppio]].
+
+Consiglio di diventare l’amico del fratello di lei e il fratello dell’amica di lei.
+
+Titolo:  
+Tali erano puri e innocenti i suoi sentimenti, che, nonostante fossero intensi…
+
+# E mentre superava i due giovani che avevano commesso l’offesa in Milsom Street, era così…
+
+# Solo per attirare la loro attenzione, lei si girò a guardarli…
+
+Tre volte.
+
+
+
+[[John Thorpe]] rimase naturalmente con Catherine, e dopo alcuni minuti.
+
+Il [[Silence|silenzio]] permise di riprendere la conversazione sul suo lavoro. “Scoprirai, ”
+
+Comunque, signorina Morland, alcuni lo considererebbero un gesto meschino.
+
+“Gente… perché il giorno dopo avrei potuto venderlo per dieci ghinee in più.”
+
+# Jackson, dell’Oriel, mi offrì subito sessanta; Morland era con me in quel momento.
+
+“[[Time|tempo]]”.
+
+
+
+“Sì”, disse Morland, che aveva sentito tutto ciò; “ma dimentichi che…”
+
+Il [[Horse|cavallo]] era incluso.
+
+
+
+“Il mio [[Horse|cavallo]]! Oh, maledizione. Non venderei mai il mio [[Horse|cavallo]] nemmeno per cento volte tanto. Tu, ”
+
+“Le piacciono le carrozze scoperte, signorina Morland?”
+
+
+
+“Sì, proprio; quasi mai ho l’opportunità di trovarmi in una situazione del genere… ma sono…”
+
+“Mi piace particolarmente.”
+
+
+
+“Sono felice di questo; ti porterò fuori con la mia ogni giorno.”
+
+
+
+“Grazie,” disse Catherine, con un certo imbarazzo, a causa di una certa [[Doubt|>dubbio]] riguardo alla.
+
+La convenienza o l’opportunità di accettare un tale invito.
+
+
+
+“Domani ti porterò su Lansdown Hill.”
+
+
+
+“Grazie; ma non avrà bisogno di riposare il tuo [[Horse|cavallo]]?”
+
+
+
+“Fermati! Oggi ha percorso soltanto trentadue miglia… Tutta sciocchezza.”
+
+Niente rovina i cavalli quanto il riposo; niente li rende incinti così in fretta.
+
+“No, no; eserciterò le mie attività per una media di quattro ore al giorno.”
+
+“Mentre sono qui…”
+
+
+
+“Davvero lo farai?” disse Catherine con grande serietà. “Saranno quaranta…”
+
+“Miglia al giorno.”
+
+
+
+“Quaranta! Sì, anche cinquanta, non mi interessa. Bene, vi porterò su Lansdown, ”
+
+“Domani… Ascolta, sono già impegnato.”
+
+
+
+“Che delizioso sarà!” esclamò [[Isabella]], girandosi. “Il mio, ”
+
+#Cara Catherine, ti invidio davvero… Ma temo che tu, fratello mio, non sarai d’accordo.
+
+“Non c’è spazio per un terzo.”
+
+
+
+“Una terza parte… No, no; non sono venuto a Bath per tormentare le mie sorelle…”
+
+Circa, sarebbe davvero una buona battuta, [[Faith|fede]]! Morland deve occuparsene.
+
+“Tu, davvero.”
+
+
+
+#Un dialogo di cortesia nacque tra gli altri due; ma…
+
+Catherine non sentì né i dettagli né il risultato… Quello del suo compagno.
+
+Il discorso, un tempo così animato, ora è ridotto al silenzio.
+
+# Una breve e decisa frase di lode o condanna sul viso…
+
+Ogni donna che incontravano… E Catherine, dopo aver ascoltato e concordato…
+
+“Finché ne aveva la forza, con tutta la cortesia e il rispetto tipici di una giovane…”
+
+"Mente femminile, timorosa di esprimere un’opinione propria che possa essere in contrasto con gli altri"
+
+A quello di un uomo pieno di fiducia in sé stesso, soprattutto considerando la [[Beauty|bellezza]] di lei stessa.
+
+In materia di sesso, si è osato cambiare argomento ponendo una domanda.
+
+Il titolo che occupava da tempo i primi posti nei suoi pensieri era: “Hai mai…”
+
+“Ha letto ‘Udolpho’, signor Thorpe?”
+
+
+
+“Udolpho… Oh, Signore… Non sono io; non leggo mai romanzi… Ho qualcos’altro da fare.”
+
+to do.”
+
+
+
+Catherine, umiliata e imbarazzata, stava per scusarsi per il suo…
+
+“Una domanda… ma lui la fermò dicendo: ‘I romanzi sono sempre pieni di…’”
+
+Nonsensate e simili… Non ne è uscita nemmeno una che possa essere considerata decente.
+
+Da quando c'è stato Tom [[Jones]], tranne che per “The Monk”; l'ho letto quel giorno. Ma per quanto riguarda.
+
+“Tutti gli altri… sono le cose più stupide che esistano al mondo.”
+
+
+
+“Credo che ti piacerebbe molto Udolpho, se lo leggessi… È davvero un libro straordinario.”
+
+“Interessante.”
+
+
+
+“No, io no, [[Faith|fede]]. No, se leggo qualcosa, sarà sicuramente di Mrs. Radcliffe; lei, ”
+
+I romanzi sono abbastanza divertenti; meritano di essere letti; un po’ di intrattenimento e la descrizione della [[Nature|>natura]], insomma.
+
+“Nel loro interno.”
+
+
+
+“‘Udolpho’ è stato scritto dalla signora Radcliffe”, disse Catherine, con un certo tono…
+
+Esitazione, dovuta alla [[Fear|>paura]] di umiliarlo.
+
+
+
+"No, certo; era così? Sì, me ne ricordo, era proprio così; stavo pensando a quello."
+
+Un altro libro stupido, scritto da quella donna di cui fanno tanto chiasso…
+
+“Quella che sposò l’esule francese”.
+
+
+
+“Immagino tu intenda Camilla…”
+
+
+
+“Sì, è proprio quel libro… Roba così innaturale! Un vecchio che si comporta in modo strano…”
+
+“See-Saw… L’ho preso una volta e l’ho letto velocemente, ma poi ho smesso subito.”
+
+Non mi sembrava appropriato; in effetti, riuscii a indovinare di che genere di cosa si trattasse.
+
+#Prima ancora di vederlo… Non appena ho saputo che si era sposata con un emigrato, ho pensato…
+
+“Certo, non dovrei mai riuscire a superarlo…”
+
+
+
+“Non l’ho mai letto.”
+
+
+
+“Non avete subito alcuna perdita, ve lo assicuro; è la più assurda sciocchezza che si possa immaginare…”
+
+# Immagina: in quel luogo non c’è nulla se non un vecchio che suona…
+
+A giocare sul dondolo e a studiare il latino. Per la mia [[Soul|'anima]], non c’è nient’altro.
+
+
+
+#Questa critica, la cui giustezza purtroppo è rimasta incompresa da chi ne è stato vittima…
+
+# Catherine li accompagnò fino alla porta dell’appartamento della signora Thorpe
+
+Il sentimento del lettore attento e imparziale di Camilla venne sopraffatto…
+
+I sentimenti di quel figlio devoto e affettuoso si manifestarono quando incontrò la signora.
+
+Thorpe, che li aveva descritti dall’alto, nel passaggio, “Ah, mamma!”
+
+“Come sta?” le disse, stringendole calorosamente la mano. “Dove...”
+
+Hai preso quel cappello a forma di quiz? Ti fa sembrare una vecchia [[Witch|strega]].
+
+#"Ecco Morland e io… veniamo a stare da voi per qualche giorno, quindi dovete…"
+
+“Cerca un paio di letti buoni da qualche parte nelle vicinanze… E questa è l’indirizzo.”
+
+Sembrava soddisfare tutti i desideri più profondi del cuore di quella madre…
+
+Lo accolsero con la massima gioia e felicità. Nei suoi due…
+
+#Le sue sorelle minori ricevettero ciascuna una porzione uguale di ciò che egli aveva condiviso con loro
+
+Tenerezza… poiché chiese a ciascuno di loro come stesse e osservò…
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="Northanger Abbey — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/time,motif/well,concept/beauty,concept/conscience,concept/friendship,concept/hope,concept/imagination,character/edgar,character/isabella,character/isabella_thorpe"></span>
@@ -18770,6 +20740,163 @@ bestow even on the reflection of her own felicity, in being already
 
 engaged for the evening.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Entrambi sembravano molto brutti.
+
+
+
+Questi modi di comportarsi non piacquero a Catherine; ma lui era un amico di James…
+
+Il fratello di [[Isabella]]; inoltre, il suo giudizio venne ulteriormente comprato con.
+
+[[Isabella]], mentre si ritiravano per ammirare il nuovo cappello, le disse con sicurezza che.
+
+John la considerava la ragazza più affascinante del mondo… e secondo John…
+
+Avrebbe dovuto incontrarsi con lui prima di separarsi per [[Dance|danzare]] insieme quella sera. Se lo avesse fatto.
+
+Se fossero stati più anziani o più vanitosi, simili attacchi probabilmente non avrebbero avuto grande effetto; ma in questo caso…
+
+# Gioventù e insicurezza unite richiedono una stabilità insolita
+
+#Motivo per resistere alla tentazione di essere definita la ragazza più affascinante
+
+"Nel mondo intero, e soprattutto per essere stata impegnata così giovane come compagna… e per tutto questo."
+
+La conseguenza fu che, dopo aver trascorso un’ora insieme, i due Morland…
+
+“Il clan dei Thorpe si incammina insieme verso la casa del signor Allen, e James…”
+
+La porta si chiuse alle loro spalle; lei disse: “Beh, Catherine, che ne pensi della mia, ”
+
+“Amica Thorpe?” invece di rispondere, come probabilmente avrebbe fatto…
+
+Se non ci fosse stata alcuna [[Friendship|amicizia]] né alcun complimento in quel caso, “Non lo farei”.
+
+“Non mi piace affatto,” rispose lei direttamente, “Mi piace molto invece; sembra…”
+
+“Molto gradevole.”
+
+
+
+“È un uomo dal carattere davvero gentile, uno dei migliori che siano mai esistiti… Solo un po’ chiacchierone, forse.”
+
+Ma credo che questo lo consiglierà alla tua stessa specie… E a te, come ti sembra?
+
+“E il resto della famiglia?”
+
+
+
+“Molto, molto davvero: soprattutto [[Isabella]].”
+
+
+
+“Sono molto felice di sentirti dire questo; è proprio il tipo di giovane donna che…
+
+#Potrei voler che fossi legato a lei… Ha davvero tanto buon senso.
+
+“Così completamente indifferente e affabile… Volevo sempre che la conoscessi.”
+
+#E sembra che ti apprezzi molto… Ha detto cose davvero lusinghiere su di te.
+
+Elogi che non potrebbero essere più alti… E gli elogi di una ragazza come la signorina…
+
+“Anche tu, Catherine…”, disse prendendole la mano con affetto, “potresti essere…”
+
+“Orgoglioso di…”
+
+
+
+“Infatti sì,” rispose lei; “la [[Love|amo]] moltissimo ed sono felice.”
+
+Scoprire di piacerle anche tu… Non ne hai quasi mai parlato.
+
+“Quando mi hai scritto dopo la tua visita lì…”
+
+
+
+“Perché pensavo che presto avrei potuto vederti di persona. Spero che tu sia, ”
+
+Molto tempo insieme mentre si trova a Bath… È una ragazza davvero deliziosa.
+
+Che profonda comprensione… Quanto la ami tutta la famiglia; lei…
+
+# È evidentemente la preferita di tutti; e quanto si debba ammirarla…
+
+“Un posto come questo… non è forse lei?”
+
+
+
+“Sì, senz’altro; il signor Allen la ritiene la più bella.”
+
+“La ragazza di Bath”.
+
+
+
+Titolo:  
+“Oserei dire di sì; e non conosco nessun uomo che sia un giudice migliore di lui in questo campo.”
+
+Una [[Beauty|bellezza]] superiore a quella del signor Allen. Non c’è bisogno di chiedervi se siate felici qui.
+
+Mia cara Catherine, con un compagna e amica come [[Isabella Thorpe]],
+
+“Sarebbe impossibile per te essere diverso; e gli Allen… beh, loro…”
+
+“Certo, siete davvero molto gentili con me…”
+
+
+
+“Sì, molto gentile… Non sono mai stato così felice prima… E ora che sei arrivato…”
+
+Sarà ancora più delizioso di sempre… Che gentile da parte tua esserti spinto fin qui.
+
+“Per vedermi apposta.”
+
+
+
+James accettò questo segno di gratitudine, e si rassicurò riguardo alla propria [[Conscience|coscienza]].
+
+“Per averlo accettato anche tu, dicendo con perfetta sincerità: ‘Infatti…’”
+
+Catherine, ti [[Love|amo]] profondamente.
+
+
+
+# Indagini e comunicazioni riguardanti fratelli e sorelle
+
+La situazione di alcuni, la crescita degli altri e altre questioni familiari in questo momento
+
+Passò tra loro e continuò, con soltanto una breve digressione…
+
+Il ruolo di James nel lodare la signorina Thorpe, fino a quando non raggiunsero Pulteney
+
+In quella strada, fu accolto con grande gentilezza dal signore e dalla signora.
+
+Allen, invitato dall’ex per cenare con loro, e chiamato dal…
+
+# Chi arriva dopo deve indovinare il prezzo e valutare i meriti di una nuova tazza da caffè…
+
+Un impegno preliminare con le imprese di [[Edgar]] gli impedì di accettare.
+
+L’invito di un amico… e lui fu costretto ad andarsene subito dopo.
+
+Aveva soddisfatto le richieste dell'altro. Il momento in cui entrambe le parti.
+
+“Uniting in the Octagon Room… being correctly adjusted, Catherine was…”
+
+#Lasciato alla voluttà di un stato di agitazione e paura…
+
+L’[[Imagination|immaginazione]], tra le pagine di “Udolpho”, lontana da ogni preoccupazione terrena.
+
+# Cibo e cena, incapaci di placare le paure della signora Allen
+
+# Ritardo della sarta attesa… e con soltanto un minuto su sessanta…
+
+#Donare anche solo la riflessione della propria felicità, nel fatto di essere già…
+
+Prenotato per la serata.
 
 
 
@@ -19184,6 +21311,216 @@ partners.”
 
 “Upon my [[Honour|honour]],” said James, “in these public assemblies, it is as
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Lui… Questo complimento, per quanto delizioso, ebbe l’effetto di renderlo molto serio.
+
+# Umiliazione per la signora; e nel negarlo, espresse il suo…
+
+# Dolore nell’occasione, come se davvero lo provasse…
+
+“Thorpe, che le si è unito subito dopo, era arrivato mezzo minuto prima di lei…”
+
+#Avrebbero potuto pensare che i suoi dolori fossero davvero eccessivi… Troppo facili da sopportare, in realtà.
+
+Il modo in cui le disse poi di averla fatta aspettare…
+
+In nessun modo si riuscì a farle accettare meglio la sua sorte; né le circostanze particolari contribuirono in alcun modo.
+
+Titolo:  
+Di cui entrò in discussione mentre loro si alzavano, riguardo ai cavalli…
+
+I [[dogs|>cani]] dell’amico che aveva appena lasciato, e riguardo a un possibile scambio.
+
+Titolo:  
+Terrieri tra loro… un interesse così grande da impedirle di guardare altrove.
+
+Molto spesso si dirigeva verso quella parte della stanza dove aveva lasciato il signor Tilney.
+
+Di sua cara [[Isabella]], a cui voleva particolarmente far notare che.
+
+“Signore, non riusciva a vedere nulla… Erano in ambienti diversi.”
+
+Separata da tutta la sua compagnia, lontana da tutti i suoi conoscenti… sola.
+
+# Una dopo l’altra, le umiliazioni si susseguirono… E da tutto ciò lei trasse questa conclusione
+
+Lezione utile: non è affatto una buona idea impegnarsi in un ballo prima di…
+
+Deve necessariamente aumentare sia la dignità che il piacere di una giovane signora.
+
+#Da un simile tono moralizzante, lei fu improvvisamente risvegliata da…
+
+# Una carezza sulla spalla… e, girandosi, lei vide la signora Hughes
+
+Direttamente dietro di lei, accompagnata da Miss Tilney e un gentiluomo… “Vi prego…”
+
+“Scusi, signorina Morland,” disse lei, “per questa libertà… ma non posso farne a meno.”
+
+“Comunque, cerca di parlare con la signorina Thorpe… La signora Thorpe ha detto che era sicura che tu ci riuscissi.”
+
+“Non ho assolutamente nulla in contrario al fatto che tu lasci entrare questa giovane signora.”
+
+#La signora Hughes non avrebbe potuto chiedere aiuto a nessuna creatura presente nella stanza…
+
+Felice di accontentarla più di Catherine… Le giovani signore furono presentate l’una all’altra.
+
+L’una verso l’altra, la signorina Tilney dimostrava un vero senso di tale bontà.
+
+Titolo:  
+La signorina Morland, con la vera delicatezza di una mente generosa, prende le cose con leggerezza…
+
+#L’obbligo… e la signora Hughes, soddisfatta di aver agito in modo così rispettabile
+
+Si prese cura della sua giovane protetta e tornò al suo gruppo.
+
+
+
+# Miss Tilney aveva una figura snella, un viso grazioso e un carattere davvero piacevole
+
+Espressione del viso… e il suo atteggiamento, sebbene non avesse un’aria particolarmente affettata o presuntuosa…
+
+La risoluta eleganza di Miss Thorpe possedeva una vera raffinatezza…
+
+I modi di comportamento dimostravano buon senso e buone maniere; né timidi, né…
+
+Aperta in modo affettato… Sembrava davvero capace di essere giovane, attraente… e…
+
+Al ballo, senza voler attirare l’attenzione di ogni uomo nei suoi paraggi…
+
+# E senza eccessivi sentimenti di estatica gioia o cose inimmaginabili…
+
+#Vexazione per ogni piccola sciocchezza… Catherine, interessata…
+
+Titolo:  
+A causa del suo aspetto e della sua relazione con il signor Tilney, era desiderata…
+
+Titolo:  
+Essendo in conoscenza con lei, spesso conversavo facilmente quando ci incontravamo…
+
+Non riuscivo a pensare a nulla da dire, ma avevo il [[Courage|coraggio]] e il tempo necessario per farlo.
+
+Titolo:  
+Ma gli ostacoli che si frappongono a una intimità così rapida…
+
+La frequente mancanza di uno o più di questi requisiti impedì loro…
+
+# Andare oltre le prime fasi di un’amicizia
+
+Informatandosi nel modo più dettagliato possibile su quanto l’altra apprezzasse Bath, su quanto.
+
+Ammirava i suoi edifici e il paesaggio circostante, che fosse mentre disegnava o in qualsiasi altro momento…
+
+Se suonava o cantava, e se le piaceva cavalcare a cavallo.
+
+
+
+# Le due danze erano appena terminate quando Catherine sentì qualcuno afferrare il suo braccio
+
+Fu afferrata dolcemente dalla sua fedele [[Isabella]], la quale esclamò con grande entusiasmo.
+
+“Finalmente ti ho trovata… Mia adorata creatura, ti cercavo da tanto…”
+
+#In questo momento… Che cosa potrebbe avervi spinto ad entrare in questo luogo?
+
+“Sapevo di essere nell’altro mondo… Senza di te, sono stato davvero infelice.”
+
+
+
+“Mia cara [[Isabella]], come è stato possibile che io ti raggiungessi? Non avrei mai potuto, ”
+
+“Non riesci nemmeno a capire dove ti trovi.”
+
+
+
+“Gliel’ho detto sempre a tuo fratello, ma non voleva credermi. Vai pure.”
+
+“E provi tu a convincerlo, signor Morland…”, dissi – ma invano: lui non voleva saperne nulla.
+
+“Un pollice… Non è vero, signor Morland? Ma voi uomini siete davvero tutti così…”
+
+# Immoderatamente pigro! L’ho rimproverato così tanto… mio caro.
+
+#Catherine, rimarresti davvero sorpresa… Sai che io non mi attengo mai alle regole stabilite.
+
+“Una cerimonia con persone del genere…”
+
+
+
+“Guardate quella giovane signora con i perle bianche intorno alla testa…”
+
+“Sss, ”, sussurrò Catherine, staccando la sua amica da James. “È il signor, ”
+
+“La sorella di Tilney”.
+
+
+
+“Oh! mio Dio… davvero? Lasciami vederla subito… Che bella…”
+
+“Che ragazza deliziosa! Non ho mai visto nulla di così bello… Ma dove si trova?”
+
+#Il suo fratello invincibile… È nella stanza? Indicatemelo.
+
+#In un attimo, se possibile… Muoio dalla voglia di vederlo. Signor Morland, non deve…
+
+“Ascolta… Non stiamo parlando di te.”
+
+
+
+“Ma di cosa si sta sussurrando? Cosa sta succedendo?”
+
+
+
+“Ora capisco come andrà a finire… Voi uomini siete davvero inquieti, incapaci di stare fermi…”
+
+Curiosità… Parliamo davvero della curiosità delle donne… Niente di che. Ma…
+
+“Soddisfatto… perché tu non devi sapere assolutamente nulla di questa faccenda.”
+
+
+
+“E pensi davvero che questo possa soddisfarmi?”
+
+
+
+“Beh, devo ammettere che non ho mai conosciuto nessuno come te. Cosa può significare questo?”
+
+Tu… di te stiamo parlando. Forse stiamo proprio parlando di te.
+
+# Pertanto vi consiglio di non ascoltare, altrimenti potreste finire per sentire qualcosa che non vorreste.
+
+“Qualcosa che non è affatto piacevole…”
+
+
+
+In queste chiacchiere banali, che durarono per un certo [[Time|tempo]], l’originale.
+
+L’argomento sembrava essere stato completamente dimenticato; e sebbene Catherine stesse molto bene.
+
+“Felice di poterlo mettere da parte per un po’… non riusciva proprio a evitarlo.”
+
+Sospetto riguardo alla totale sospensione di ogni impaziente desiderio di [[Isabella]].
+
+Vedete il signor Tilney. Quando l’orchestra iniziava un nuovo [[Dance|ballo]], James.
+
+Ha portato via la sua bella compagna, ma lei si è ribellata. “Glielo dico io, signore, ”
+
+“Morland,” gridò, “non farei mai una cosa del genere per niente al mondo.”
+
+# Come puoi essere così provocante… Immagina solo, mia cara Catherine, cosa significhi…
+
+Mio fratello vuole che lo faccia. Vuole che io danzi di nuovo con lui, anche se io.
+
+"Digli che è una cosa assolutamente inappropriata e del tutto contraria alle regole."
+
+# Regole… Ci farebbero parlare di noi in tutto il posto, se non le cambiassimo.
+
+“Partners.”
+
+
+
+“Per la mia [[Honour|onore]],” disse James, “in queste assemblee pubbliche, è così, ”
 
 
 
@@ -20453,6 +22790,224 @@ the lobby for your cloak. And here have I been telling all my
 acquaintance that I was going to [[Dance|dance]] with the prettiest girl in the
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Per un paio di giorni… È venuto soltanto per trovarci un alloggio.
+
+
+
+“Non mi è mai venuto in mente; e naturalmente, non vedendolo da nessuna parte…”
+
+Pensò che dovesse essere andato via… Non era forse la giovane signora con cui aveva ballato?
+
+“Lunedì, dalla signorina [[smith|Smith]]?”
+
+
+
+"Sì, un conoscente della signora Hughes."
+
+
+
+“Oserei dire che fosse molto felice di [[Dance|danzare]]. Pensi che sia bella?”
+
+
+
+"Niente di che."
+
+
+
+“Non va mai nella sala delle pompe, immagino…”
+
+
+
+“Sì, a volte; ma stamattina è andato via con mio padre.”
+
+
+
+# La signora Hughes si unì a loro e chiese alla signorina Tilney se fosse pronta…
+
+Vai. “Spero di avere il piacere di rivederti presto,” disse.
+
+# Catherine. “Parteciperai al ballo di domani?”
+
+
+
+“Forse noi… Sì, credo che sicuramente lo faremo.”
+
+
+
+“Sono felice che sia così, perché ci saremo tutti lì.” Questa cortesia fu debitamente…
+
+Ritornarono indietro; e si separarono… Da parte di Miss Tilney, con una certa consapevolezza…
+
+Titolo:  
+I sentimenti del suo nuovo conoscente, e quelli di Catherine… senza ulteriori dettagli.
+
+La minima consapevolezza di averli spiegati.
+
+
+
+Tornò a [[Home|casa]] molto felice. La mattina aveva realizzato tutti i suoi desideri.
+
+La sera del giorno seguente era ormai oggetto di attesa…
+
+# Buon futuro… Che abito e che acconciatura dovrebbe indossare per l’occasione?
+
+L’occasione divenne la sua principale preoccupazione… Non può esserci alcuna giustificazione per questo comportamento. L’abbigliamento, insomma, era l’elemento più
+
+Titolo:  
+È sempre una distinzione frivola, e un’eccessiva preoccupazione al riguardo…
+
+Spesso distrugge lo stesso obiettivo che si voleva raggiungere. Catherine lo sapeva molto bene; lei.
+
+“La mia prozia le aveva letto un discorso sull’argomento proprio a Natale…”
+
+Prima. Eppure, mercoledì sera, rimase sveglia per dieci minuti a riflettere.
+
+“Tra la sua stoffa a pois e quella trasparente, nient’altro che…”
+
+La scarsità di [[Time|tempo]] le impedì di comprare uno nuovo per la serata.
+
+# Un errore di valutazione… anche se non così raro.
+
+Titolo:  
+“Da cui uno dell’altro sesso piuttosto che del proprio… un fratello, piuttosto…”
+
+Più di una grande zia avrebbe potuto avvertirla… perché solo l’uomo può rendersene conto.
+
+“L’insensibilità dell’uomo verso un abito nuovo… Sarebbe mortificante…”
+
+“I sentimenti di molte signore… potrebbero essere fatti comprendere?”
+
+“Poco il cuore dell’uomo viene influenzato da ciò che è costoso o nuovo…”
+
+Attrarre… Quanto poco sia influenzato dal tipo di tessuto utilizzato, e come…
+
+# Insensibile a una particolare tenerezza verso ciò che è maculato o striato
+
+# Il mantello… o il giubbotto da cavaliere. La donna è sufficiente per la propria soddisfazione.
+
+[[Alone|sola]]. Nessun uomo la ammirerà di più, nessuna donna le piacerà.
+
+Meglio così… Per alcuni, basta la pulizia e la moda; per altri, qualcos’altro…
+
+“Qualcosa di trasandato o inappropriato potrebbe risultare particolarmente affascinante…”
+
+Quest'ultimo. Ma nessuna di queste riflessioni [[Grave|serie]] lo turbò minimamente.
+
+La tranquillità di Catherine.
+
+
+
+Entrò nelle stanze giovedì sera, con sentimenti molto diversi.
+
+Da ciò che le era accaduto lì lunedì precedente… Allora lei era stata…
+
+Titolo:  
+Esultante per il suo fidanzamento con Thorpe, era ora soprattutto ansiosa di…
+
+Evitare il suo sguardo, per non rischiare che la cercasse di nuovo; perché anche se lei avrebbe potuto…
+
+No, non avrebbe mai osato aspettarsi che il signor Tilney le chiedesse per la terza volta.
+
+La [[Dance|danza]]; i suoi desideri, le sue speranze e i suoi piani, tutto ruotava attorno a questo. Ogni cosa.
+
+“La giovane signora potrà immedesimarsi nella mia eroina in questo momento critico… perché ogni…”
+
+La giovane signora, in un momento o nell’altro, ha conosciuto lo stesso stato di agitazione. Tutti hanno.
+
+Titolo:  
+Che siano stati, o almeno tutti si siano creduti di essere, in pericolo…
+
+La ricerca di qualcuno che si vorrebbe evitare… e tutto ciò è stato fatto.
+
+Desideroso di attirare l’attenzione di qualcuno che vuole compiacere…
+
+Non appena furono raggiunti dai Thorpe, l’agonia di Catherine iniziò…
+
+Si agitava nervosamente, chiedendosi se [[John Thorpe]] sarebbe venuto da lei; si nascose il più possibile.
+
+Da quel punto di vista, era possibile… E quando le parlava, fingeva di non sentire.
+
+Lui… I balli formali erano finiti, avevano iniziato i balli campestri, e lei…
+
+Non vide nessuno dei Tilney.
+
+
+
+“Non avere paura, mia cara Catherine,” sussurrò [[Isabella]], “ma io, ”
+
+Davvero danzerò di nuovo con tuo fratello. Lo dichiaro con certezza.
+
+# È davvero scioccante. Gli dico che dovrebbe vergognarsi di se stesso, ma…
+
+“Tu e John dovete assicurarvi che noi non veniamo dimenticati… Affrettatevi, mia cara.”
+
+#E vieni da noi… John è appena andato via, ma tornerà presto.
+
+“Un momento.”
+
+
+
+Catherine non aveva né il [[Time|tempo]] né la voglia di rispondere; gli altri continuarono a camminare.
+
+Lontano, [[John Thorpe]] era ancora visibile, quindi lei si rassegnò al fatto di essere persa.
+
+Per evitare che sembrasse che lo stesse osservando o aspettando, lei rimase in disparte.
+
+I suoi occhi erano fissi con attenzione sul suo ventaglio; e provava un senso di [[Self|autocondanna]] per se stessa.
+
+Titolo:  
+La follia di pensare che, in mezzo a una folla del genere, possano anche incontrarsi…
+
+I Tilney, in qualsiasi momento ragionevole, le erano appena passati per la mente.
+
+quando all'improvviso si trovò di nuovo interpellata e invitata a [[Dance|danzare]],
+
+Scritto personalmente dal signor Tilney. Con quegli occhi scintillanti e quei movimenti rapidi…
+
+Accettò la sua richiesta, e con quale piacevole palpito del cuore lo fece…
+
+Portarlo con sé sul set… Si può facilmente immaginare. Per fuggire, e… come lei…
+
+Credeva in ciò, quindi riuscì a sfuggire per un soffio a [[John Thorpe]], e poi gli fu chiesto, così.
+
+Non appena le si avvicinò, il signor Tilney gli chiese, come se…
+
+L’ho cercata apposta! — Non le sembrava che la vita potesse offrirle qualcosa del genere…
+
+Nessuna felicità più grande di questa.
+
+
+
+# Appena riuscirono ad assumere il controllo silenzioso di…
+
+Tuttavia, in quel momento la sua attenzione fu attratta da [[John Thorpe]], che.
+
+“Ero al suo fianco”, disse. “Ehi, signorina Morland! Cosa significa tutto questo?”
+
+Di questo? Pensavo che tu ed io dovessimo [[Dance|danzare]] insieme.
+
+
+
+“Mi [[Wonder|meraviglio]] che tu possa pensarlo, visto che non mi hai mai chiesto nulla.”
+
+
+
+“Che bella questa… Per Giove! Te l’avevo chiesto non appena sono entrato…”
+
+# Camera… E stavo proprio per chiedertelo di nuovo, ma quando mi sono girato…
+
+#Sei sparito! È un trucco maledetto e meschino… Sono venuto solo per…
+
+# Danzare con te… e credo fermamente che tu fossi già promessa a me.
+
+Da lunedì… Sì, me ne ricordo: te l’ho chiesto mentre aspettavi…
+
+#La lobby per il tuo mantello… E qui sono stato a raccontare tutto questo a tutti.
+
+Un conoscente mi disse che avrei ballato con la ragazza più bella della serata.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_03" data-title="Northanger Abbey — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/dance,motif/home,motif/horse,motif/marriage,motif/road,motif/time,motif/water,motif/well,motif/winter,concept/courage,concept/fear,concept/honour,setting/london"></span>
@@ -21106,6 +23661,256 @@ see.”
 
 “But now really—are there towers and long galleries?”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 11
+
+
+
+
+
+Il giorno seguente iniziò con una mattina molto serena; il sole splendeva debolmente…
+
+Poche erano le tentativi di mostrarsi interessati, e Catherine ne dedusse tutto ciò che poteva significare…
+
+Un mattino sereno e luminoso, così presto nell’anno… Lei…
+
+Se permesso, di solito si trasformerebbe in pioggia… ma una nuvola scura presagiva il suo arrivo.
+
+Con il passare delle ore, le cose miglioravano sempre di più. Lei chiese a Mr. Allen…
+
+La conferma dei suoi speranze… ma il signor Allen, che non possedeva i propri “cieli”…
+
+Il barometro intorno a lui indicava un peggioramento delle condizioni meteorologiche; non c'erano promesse certe di bel tempo.
+
+Lei fece domanda a Madame Allen, e l’opinione di Madame Allen fu più positiva.
+
+“Non aveva alcun [[Doubt|>dubbio]] al mondo che fosse una giornata davvero meravigliosa, ”
+
+“Le nuvole si sarebbero solo disperse, lasciando spazio al sole.”
+
+
+
+Intorno alle undici in punto, tuttavia, alcune gocce di pioggia leggera cominciarono a cadere.
+
+“Le finestre attirarono l’attenzione attenta di Catherine, e ‘Oh! mio Dio, ne sono sicura…’”
+
+“Sarà bagnato, ”, disse lei con un tono estremamente scoraggiato.
+
+
+
+“Pensavo a come sarebbe stato,” disse la signora Allen.
+
+
+
+“Oggi non posso andare a fare una passeggiata“, sospirò Catherine; “ma forse, un giorno… potrà succedere“.
+
+“Niente… altrimenti potrebbe non essere pronto prima delle dodici.”
+
+
+
+“Forse sì, ma allora… caro mio, diventerà davvero molto sporco.”
+
+
+
+“Ah! Non significa nulla… Non mi importa affatto la sporcizia.”
+
+
+
+“Mai”, rispose la sua amica con grande calma, “so che a te non importa affatto la sporcizia”.
+
+
+
+Dopo una breve pausa, “Si fa sempre più veloce!”, disse Catherine.
+
+Mentre stava in piedi a guardare fuori dalla [[Window|finestra]].
+
+
+
+“Infatti. Se continua a piovere, le strade diventeranno molto bagnate.”
+
+
+
+“Ci sono già quattro ombrelli aperti… Come odio quella vista.”
+
+“Ombrello!”
+
+
+
+“Sono cose sgradevoli da portare con sé… Preferirei di gran lunga…”
+
+“Posso assumere la carica di presidente in qualsiasi momento.”
+
+
+
+“Che bella mattina… Ero sicura che sarebbe stata davvero una giornata meravigliosa.”
+
+“Secco!”
+
+
+
+“Chiunque avrebbe potuto pensarlo davvero… Saranno poche le persone che…”
+
+La sala delle pompe, se piove tutto il mattino. Spero che il signor Allen la utilizzi.
+
+Sulla sua giacca quando se ne va, ma oserei dire che non lo farà, perché…
+
+Preferirei fare qualsiasi cosa al mondo piuttosto che uscire indossando un grande cappotto. Mi chiedo davvero perché.
+
+“Deve proprio non piacergli… Dev’essere davvero troppo comodo.”
+
+
+
+La pioggia continuava… intensa, ma non troppo forte. Catherine usciva ogni cinque minuti…
+
+Minuti mancavano all’[[Clock|orologio]]; ad ogni ritorno minacciava che, se continuava a funzionare così.
+
+Se avesse piovuto ancora per cinque minuti, avrebbe rinunciato all’idea.
+
+Senza speranza. L’[[Clock|orologio]] suonò le dodici, ma la pioggia continuava. “Non ce la farai, ”
+
+“Potrai andare, mia cara.”
+
+
+
+“Non sono ancora del tutto [[Despair|disperato]]. Non mi arrenderò fino a che non sia trascorso un quarto, ”
+
+Dopo le dodici. È proprio in questo momento della giornata che il tempo si schiarisce, e io lo so bene.
+
+Titolo:  
+“Pare un po’ più chiaro, vero? Ecco… sono passati venti minuti.”
+
+Dodici… e ora lo abbandonerò del tutto. Oh! Se solo potessimo…
+
+#Il tempo qui è simile a quello di Udolpho… o almeno in Toscana e nelle zone circostanti.
+
+A sud della Francia, quella [[Night|notte]] in cui povero San Aubin morì, così bello.
+
+“Tempo incerto…”
+
+
+
+Alle dodici e mezza, mentre l’ansiosa attenzione di Catherine era rivolta al tempo…
+
+La fase era terminata e lei non poteva più attribuirsi alcun merito per le modifiche apportate.
+
+Il cielo iniziò spontaneamente a schiarirsi; un raggio di sole la illuminò completamente.
+
+#All’improvviso; si guardò intorno; le nuvole si stavano aprendo… e lei…
+
+Tornò immediatamente alla [[Window|finestra]] per vegliare su di loro e incoraggiarli in quel momento felice.
+
+Aspetto… Dieci minuti in più furono sufficienti per confermare che si trattava di un pomeriggio luminoso e sereno.
+
+Sarebbe riuscito, e avrebbe confermato l’opinione della signora Allen, che “sempre…”
+
+“Pensavo che si schiarisse tutto…” Ma chissà se Catherine possa ancora aspettarselo…
+
+I suoi amici… anche se forse pioveva troppo per la signorina Tilney
+
+Per osare, bisogna ancora prendere in considerazione questa possibilità.
+
+
+
+# Era troppo sporco perché la signora Allen potesse accompagnare suo marito…
+
+# Bagno degli uomini; così si avviò da solo, e Catherine appena…
+
+Lo ha seguito per tutta la strada, mentre qualcuno veniva a ritirare il suo avviso…
+
+Titolo:  
+Dei due stessi vagoni aperti, con le stesse tre persone a bordo…
+
+Qualche mattina fa l’aveva sorpresa così tanto.
+
+
+
+“[[Isabella]], mio fratello e il signor Thorpe, li dichiaro: stanno arrivando!”
+
+“Forse io… ma non andrò; davvero non posso andare, perché voi sapete, signorina…”
+
+“Tilney potrebbe ancora chiamare,” concordò la signora Allen. Presto, [[John Thorpe]].
+
+Con loro… e la sua voce era già con loro, ancora prima: perché sulle scale…
+
+“Presto, signorina Morland… affrettatevi!”
+
+“Mentre spalancava la porta, disse: ‘Metti subito il cappello… non c’è tempo da perdere.’”
+
+Non c’è tempo da perdere; andiamo a Bristol. Come sta, signora Allen?
+
+
+
+“Verso Bristol… non è una distanza troppo lunga? Comunque, non posso andare.”
+
+Oggi non posso essere con te, perché sono impegnato; aspetto alcuni amici tra poco…
+
+“Un momento…”, ma naturalmente questa richiesta fu immediatamente respinta come del tutto infondata.
+
+# La signora Allen fu invitata ad appoggiarlo, e gli altri due entrarono insieme.
+
+“Per offrire il loro aiuto… Mia adorata Catherine, non è forse questo…”
+
+Delizioso… Avremo un viaggio davvero meraviglioso. Dovete ringraziare voi stessi…
+
+“Me e mio fratello: l’idea ci è venuta all’improvviso…”
+
+Alle ore del breakfast, credo davvero che sia esattamente lo stesso istante. E dovremmo.
+
+# Se non fosse stato per questa cosa odiosa… sarei già tornato da due ore.
+
+Pioggia… Ma questo non significa che le notti siano illuminate dalla luna, e che quindi…
+
+# Deliziosamente… Ah! Sono in estasi al solo pensiero di qualcosa di così piccolo e meraviglioso…
+
+Aria di campagna e tranquillità… molto meglio che andare nelle “Lower Rooms”. Noi…
+
+Si dirigerà direttamente a Clifton per cenare lì; e non appena finita la cena…
+
+È finito; se c’è ancora [[Time|tempo]], andiamo avanti verso Kingsweston.
+
+
+
+“Dubito che riusciremo a fare tanto,” disse Morland.
+
+
+
+“Maledetto vecchio!” gridò Thorpe. “Riusciremo a farne dieci volte di più…”
+
+Di più. Kingsweston! Sì, anche Blaize [[Castle|Castello]], e qualsiasi altra cosa possiamo ottenere.
+
+“Ne ho sentito parlare, ma tua sorella dice che non vuole andare.”
+
+
+
+“Blaize [[Castle]]!”, gridò Catherine. “Che cos’è quello?”
+
+
+
+“Il posto più bello d’Inghilterra: vale la pena percorrere cinquanta miglia in qualsiasi momento per, ”
+
+vedi».
+
+
+
+“Che cosa, è davvero un [[Castle|castello]], un vecchio [[Castle|castello]]?”
+
+
+
+“Il più anziano del regno.”
+
+
+
+“Ma è davvero come si legge nei libri?”
+
+
+
+Esattamente… proprio lo stesso.
+
+
+
+“Ma ora davvero… esistono torri e lunghi corridoi?”
 
 
 
@@ -22139,6 +24944,210 @@ distressed, but always steady.
 “you were not used to be so hard to persuade; you once were the
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 13
+
+
+
+
+
+Lunedì, martedì, mercoledì, [[thursday|giovedì]], venerdì e sabato, ora sono così.
+
+# Presentato alla revisione prima di essere letto: gli eventi di ogni giorno, le speranze…
+
+# Paura e gioia, umiliazioni e piaceri… sono stati elencati separatamente.
+
+E i tormenti del [[Sunday|Domenica]] rimangono ancora da descrivere, e poi tutto sarà finito.
+
+Settimana. Il progetto Clifton era stato rinviato, non abbandonato, e…
+
+Il “Crescente pomeridiano di questo giorno” fu nuovamente portato avanti.
+
+Una consultazione privata tra [[Isabella]] e James, la prima dei due.
+
+In particolare, lei era molto desiderosa di andare, e lo stesso valeva per l’altro.
+
+Con ansia, lo pose lì per compiacerla; fu concordato che, a condizione che…
+
+Il tempo era bello, quindi la festa si sarebbe tenuta il giorno dopo.
+
+Mattina. E dovevano partire molto presto, per arrivare a [[Home|>casa]] entro.
+
+Buon [[Time|tempo]]. L’affare fu così deciso, con l’approvazione di Thorpe.
+
+Titolo:  
+Una volta tutto sistemato, a Catherine non restò altro da fare se non essere informata al riguardo… Lei se n’era già andata.
+
+“Per qualche minuto li lasciò parlare con la signorina Tilney… Nel frattempo…”
+
+Il piano fu completato, e non appena lei tornò, acconsentì senza esitazioni.
+
+chiese; ma al posto dell’approvazione felice che [[Isabella]] si aspettava,
+
+Catherine sembrava molto [[Grave|seria]], si dispiaceva molto, ma non poteva andare.
+
+Impegno che avrebbe dovuto impedirle di partecipare alla prima occasione.
+
+Un tentativo in questo momento le renderebbe impossibile accompagnarli. Lei aveva…
+
+In quel momento fu deciso che Miss Tilney e lui avrebbero fatto la passeggiata prevista.
+
+Domani… Era una decisione irrevocabile: lei non avrebbe cambiato idea per nessuna ragione al mondo.
+
+# Ritrattare. Ma che dovesse e dovessimo ritrattare, fu immediatamente…
+
+“Grido eccitato da entrambe le famiglie Thorpe: devono andare a Clifton domani…”
+
+Non potrei farlo senza di lei; nemmeno una semplice passeggiata potrebbe essere rimandata.
+
+“Per un altro giorno soltanto… e non avrebbero accettato alcuna rifiutazione. Catherine era…”
+
+Distesa, ma non sottomessa, “Non insistere, [[Isabella]]. Sono fidanzata, ”
+
+“Miss Tilney… Non posso andare.” Ma nulla servì; gli stessi argomenti vennero ripetuti ancora e ancora.
+
+La assalì di nuovo; doveva andarsene, doveva proprio farlo, ma loro non avrebbero ascoltato.
+
+Titolo:  
+Di un rifiuto. “Sarebbe così facile dire alla signorina Tilney che…”
+
+# Solo ora mi sono ricordato di un impegno precedente; devo quindi chiedere scusa e rimandare.
+
+“La passeggiata fino a martedì.”
+
+
+
+"No, non sarebbe facile. Non potrei farlo… Non c’è mai stato nulla del genere prima.”
+
+“Un impegno, ” Ma [[Isabella]] diventava sempre più insistente, chiamandolo ripetutamente.
+
+Con il modo più affettuoso possibile, chiamandola con il nome più…
+
+**Nome affettuoso… Era certa che la sua più cara e dolce Catherine non avrebbe mai…**
+
+Rifiutare decisamente una richiesta così insignificante da parte di un amico che l’amava tanto…
+
+Cara… Sapeva che la sua amata Catherine aveva un cuore così pieno di sentimenti…
+
+Che dolce carattere… essere così facilmente persuasa da coloro che ama… Ma tutto ciò…
+
+In vano; Catherine sentiva di avere ragione, e nonostante il dolore…
+
+Con preghiere così dolci e lusinghiere, non poteva certo rifiutarle.
+
+Influenzarla. Allora [[Isabella]] provò un altro metodo: la rimproverò.
+
+Con un affetto maggiore per la signorina Tilney, anche se la conosceva da tempo…
+
+Dopo poco tempo, per le sue migliori e più anziane amiche, arrivò il momento di crescere…
+
+“Fredda e indifferente, insomma, verso se stessa… Non posso fare a meno di…”
+
+“Jealous, Catherine… Quando vedo che vengo trascurata a favore di estranei, io, che…”
+
+Ti amo così profondamente! Una volta che i miei sentimenti sono stati rivolti verso di te, non è più possibile.
+
+"Nella forza di nulla può cambiarli… Ma credo che i miei sentimenti siano…”
+
+Più forte di chiunque altro… Sono sicuro che siano troppo forti anche per me.
+
+Pace. E vedere me sostituito nella tua [[Friendship|amicizia]] da estranei.
+
+Mi ferisce davvero profondamente. Quei Tilney sembrano essere capaci di “inghiottire” tutto ciò che incontrano sul loro cammino.
+
+“Tutto il resto…”
+
+
+
+Catherine trovava quest’accusa altrettanto strana e ingiusta. Era forse…
+
+Rivelare i sentimenti di un’amica in questo modo, per farli conoscere agli altri?
+
+[[Isabella]] le sembrava ingiusta e egoista, indipendentemente da tutto.
+
+Tutto tranne la propria soddisfazione… Questi pensieri dolorosi le attraversavano la mente.
+
+Nessuno disse nulla, ma. [[Isabella]], nel frattempo, aveva già fatto la sua richiesta.
+
+Si prese il fazzoletto e se lo portò agli occhi; mentre Morland, profondamente addolorato da quella scena…
+
+“Non potevo fare a meno di dire: ‘No, Catherine… Penso che tu non possa davvero distinguerti.’”
+
+#Ora non più. Il sacrificio non è grande… E per compiacere una persona del genere…
+
+“Amico mio… ti considererò davvero scortese se continuerai a rifiutare.”
+
+
+
+Questa fu la prima volta che suo fratello si schierò apertamente contro di lei.
+
+Desiderosa di evitare la sua disapprovazione, propose un compromesso. Se loro…
+
+Titolo:  
+Avrebbero semplicemente rinviato il loro piano a martedì, cosa che avrebbero potuto fare facilmente.
+
+Se dipendesse solo da loro, lei potrebbe andare con loro…
+
+“Ma no, no, no!”, fu la risposta immediata.
+
+Titolo:  
+“Non è possibile… perché Thorpe non sapeva che potesse non essere così.”
+
+“Vai pure all’attacco martedì,” disse Catherine, dispiaciuta, ma senza poter fare di più.
+
+Seguì un breve [[Silence|silenzio]], interrotto da [[Isabella]], che con voce.
+
+Un rancore freddo disse: “Molto bene, allora la festa è finita.”
+
+“Catherine non può andare… Io non posso. Non posso essere l’unica donna… Non lo permetterò.”
+
+“Per nessun motivo al mondo, si dovrebbe fare una cosa del genere.”
+
+
+
+“Catherine, devi andare,” disse James.
+
+
+
+“Ma perché il signor Thorpe non può guidare una delle altre auto delle sue sorelle? Oserei dire…”
+
+“Qualsiasi di loro due vorrebbe andare.”
+
+
+
+“Grazie mille,” esclamò Thorpe, “ma non sono venuto a Bath per… fare qualcosa del genere.”
+
+Le sorelle parlano di te, e sembri davvero un [[Fool|idiota]]. No, se non vai, dì pure che sono io il problema.
+
+“Vado solo per il gusto di farti arrabbiare.”
+
+
+
+“È un complimento che non mi dà alcuna gioia…” Ma le sue parole…
+
+Perso di vista Thorpe, che si era improvvisamente allontanato.
+
+
+
+Gli altri tre continuarono insieme, camminando in modo molto…
+
+Un modo scomodo per la povera Catherine… A volte non si diceva nemmeno una parola.
+
+A volte veniva di nuovo assalita da suppliche o rimproveri…
+
+Il suo braccio era ancora unito a quello di [[Isabella]], anche se i loro cuori erano lontani.
+
+Guerra. Un momento era commossa, un altro irritata… sempre.
+
+Disteso, ma sempre fermo.
+
+
+
+“Non pensavo che fossi così testarda, Catherine”, disse James.
+
+“Non eri abituato ad essere così difficile da convincere… Una volta lo eri.”
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_02" data-title="Northanger Abbey — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/soul,motif/time,motif/well,concept/conscience,concept/hope,setting/castle,character/general_tilney,character/isabella,character/john_thorpe"></span>
@@ -22365,6 +25374,228 @@ her extraordinary swiftness in entering the [[house]], he was quite angry
 with the servant whose neglect had reduced her to open the door of the
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“La più gentile e la più mite delle mie sorelle.”
+
+
+
+“Spero di non essere meno così ora,” rispose lei con grande emozione; “ma davvero, ”
+
+Non posso andare. Se mi sbaglio, sto facendo ciò che ritengo giusto.
+
+
+
+“Sospetto,” disse [[Isabella]] a bassa voce, “che non ci sia nulla di grave, ”
+
+“Lotta”.
+
+
+
+Il cuore di Catherine si riempì di emozione; ritirò il suo braccio, e [[Isabella]] non fece nulla.
+
+#Opposizione. Così trascorsero dieci minuti interminabili, fino a quando non si riunirono di nuovo.
+
+Di Thorpe, che si avvicinò a loro con un'espressione più allegra e disse: “Beh, ho, ”
+
+“Risolto la questione, ora possiamo tutti andare domani con tranquillità…”
+
+La mia [[Conscience|coscienza]]. Sono stato da Miss Tilney e ho fornito le tue scuse.
+
+
+
+“Non l’hai fatto!” gridò Catherine.
+
+
+
+“Ho, sulla mia [[Soul|'anima]], lasciato tutto a lei in questo momento. Le ho detto che sei stato tu a mandarmi.”
+
+Per dire che, appena ricordato di avere un impegno precedente…
+
+“Clifton sarà con noi domani… Non avrai quindi l’opportunità di fare questa passeggiata.”
+
+Con lei fino a martedì. Disse che andava tutto molto bene, martedì sarebbe arrivato comunque.
+
+“Conveniente per lei… e così tutte le nostre difficoltà finiscono. Una situazione davvero piacevole.”
+
+“Una bella idea da parte mia… eh?”
+
+
+
+Il volto di [[Isabella]] era nuovamente pieno di sorrisi e buon [[Humour|umore]], e.
+
+Anche James sembrava felice di nuovo.
+
+
+
+“Che pensiero davvero divino! Ora, mia cara Catherine, tutto il nostro…”
+
+“Le difficoltà sono finite; sei stato assolto onorevolmente e ora potremo…”
+
+“La festa più deliziosa di sempre.”
+
+
+
+“Non va affatto così“, disse Catherine; “non posso accettarlo. Devo fare qualcosa“.
+
+"Correre direttamente da Miss Tilney e chiarire la situazione con lei."
+
+
+
+[[Isabella]], tuttavia, afferrò una mano di lui e Thorpe l'altra, e.
+
+Arrivarono proteste da tutti e tre. Anche James era molto arrabbiato.
+
+Quando tutto fu sistemato, quando stessa la signorina Tilney dichiarò che sarebbe stato martedì…
+
+Le sarebbe andato benissimo, ma era davvero ridicolo, assolutamente assurdo farlo.
+
+Nessuna ulteriore obiezione.
+
+
+
+“Non mi interessa. Il signor Thorpe non avrebbe dovuto inventare un messaggio del genere.”
+
+# Se avessi ritenuto giusto rimandare, avrei potuto parlare con la signorina…
+
+“Tilney stesso… Solo che lo faccio in un modo più rozzo; e come posso saperlo?”
+
+#Che il signor Thorpe abbia… Forse si sbaglia di nuovo; è stato lui a portarmi in quella situazione.
+
+# Un atto di scortesia per colpa sua venerdì… Lasciatemi andare, signor Thorpe.
+
+“[[Isabella]], non tenermi così.”
+
+
+
+“Thorpe le disse che sarebbe stato inutile inseguire i Tilney: erano…”
+
+#Entrando in Brock Street, dopo averli superati…
+
+A quell’[[Time|ora]] erano già a [[Home|casa]].
+
+
+
+“Allora andrò a inseguirli,” disse Catherine; “ovunque si trovino, li raggiungerò.”
+
+“Cacciali… Non significa parlare con loro. Se non potessi essere convinto…”
+
+“Non permetterò mai che mi inducano a fare ciò che ritengo sbagliato.” E
+
+Con queste parole si allontanò di corsa. Thorpe avrebbe voluto…
+
+Lo inseguì di corsa, ma Morland lo trattenne. “Lasciala andare, lasciala andare…”
+
+“Se ne andrà.”
+
+
+
+“È testarda quanto…”
+
+
+
+#Thorpe non riuscì mai a concludere quella metafora, poiché difficilmente avrebbe potuto essere considerata valida…
+
+Quello giusto.
+
+
+
+#Via andò Catherine, molto agitata, il più velocemente possibile tra la folla
+
+Permettetelo… spaventata all’idea di essere inseguita, ma decisa a perseverare.
+
+# Camminava, riflettendo su ciò che era accaduto… Le risultava doloroso.
+
+Deluderli e contrariarli, soprattutto per far arrabbiare suo fratello.
+
+Ma non riuscì a pentirsi della sua resistenza… Seguendo soltanto la propria volontà.
+
+Inoltre, aveva fallito per la seconda volta nel suo fidanzamento con la signorina Tilney.
+
+Aver ritratto volontariamente una promessa fatta appena cinque minuti prima…
+
+#E anche sotto una falsa pretesa… doveva essere sbagliato. Lei non lo era stata.
+
+Nonostante li seguisse basandosi esclusivamente su principi egoistici, non aveva consultato nessuno.
+
+Solo la sua stessa soddisfazione… Quella forse avrebbe potuto essere garantita in qualche modo.
+
+Il grado di interesse derivava dalla stessa escursione, dal vedere il castello di Blaize; no, lei aveva.
+
+Si preoccupava di ciò che era dovuto agli altri, e anche del proprio comportamento rispetto a loro.
+
+Opinione… Tuttavia, la sua convinzione di avere ragione non era sufficiente per…
+
+#Ristabilire la sua calma; finché non avesse parlato con la signorina Tilney, non sarebbe stata in grado di farlo.
+
+“Non preoccuparti; e accelerò il passo non appena si allontanò dalla zona di Crescent.”
+
+# Quasi corse per tutta la distanza rimanente fino a raggiungere la cima
+
+# Milsom Street. I suoi movimenti erano stati così rapidi che, nonostante…
+
+# Il vantaggio iniziale dei Tilney…
+
+Appena le furono visibili, vide gli alloggi… e il servitore era ancora lì.
+
+Restando sulla soglia aperta, si limitò a pronunciare quelle parole di rito.
+
+Deve parlare subito con la signorina Tilney, e così si affretta a passargli accanto.
+
+Salì al piano di sopra. Poi, aprì la prima porta che le capitò davanti…
+
+#Si trovava proprio nella direzione giusta; immediatamente si ritrovò lì.
+
+Un salotto con il [[General Tilney|Generale Tilney]], suo figlio e sua figlia. Lei.
+
+Spiegazione: difettosa soltanto per via dell’irritazione dei suoi nervi…
+
+#Respiro affannoso… senza alcuna spiegazione, fu immediatamente risposto: “Sono…”
+
+“Arrivo con grande fretta… È stato tutto un errore… Non ho mai promesso di andare…”
+
+# Ho detto loro fin dall’inizio che non potevo andare… Sono scappato via di fretta.
+
+#Spiegamelo… Non mi importava cosa pensaste di me… Non sarei rimasto.
+
+“Il servitore”.
+
+
+
+Il business, tuttavia, sebbene non venga del tutto spiegato in questo discorso…
+
+Presto smise di essere un mistero. Catherine scoprì che [[John Thorpe]] _aveva_.
+
+Data la situazione, e senza alcun rimorso, la signorina Tilney ammise apertamente ciò che era.
+
+Molto sorpresa da questo… Ma se suo fratello avesse ancora superato lei…
+
+In rancore, Catherine, sebbene istintivamente si rivolgesse a sé stessa come…
+
+Per alcuni, come per altri, nella sua difesa, non esisteva alcun mezzo…
+
+#Conoscenza. Qualunque cosa fosse stata provata prima del suo arrivo, la sua ansia…
+
+# Dichiarazioni immediate che rendono ogni sguardo e frase estremamente amichevoli
+
+Poteva desiderarlo.
+
+
+
+Il problema essendo stato felicemente risolto, lei fu presentata da Miss Tilney a…
+
+#Il padre di lei… e l’accoglienza che le riservò, così pronta, così premurosa…
+
+#La cortesia… mentre ricordava le informazioni che Thorpe le aveva fornito, la spinse ad agire in quel modo.
+
+Si può essere felici di pensare che, a volte, si possa fare affidamento su di lui. Per persone del genere…
+
+L’attenzione ansiosa del Generale era una sorta di cortesia… che nessuno però sembrava notare.
+
+La sua straordinaria velocità nell’entrare nella [[house|casa]] lo fece arrabbiare molto.
+
+#Con la serva la cui negligenza l’aveva costretta ad aprire lei stessa la porta…
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_03" data-title="Northanger Abbey — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/home,motif/rose,motif/well,motif/wind,concept/doubt,concept/honour,concept/wonder,character/general_tilney,character/isabella"></span>
@@ -22572,6 +25803,213 @@ order to do what was wrong in itself, if she had been guilty of one
 
 breach of propriety, only to enable her to be guilty of another?
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Si sistemò in un appartamento. “Cosa intendeva William con quelle parole? Dovrebbe spiegarsi meglio…”
+
+“Di indagare sulla questione… E se solo Catherine non fosse stata così calorosamente…”
+
+Affermando la propria [[innocence|innocenza]], sembrava probabile che William avrebbe perso.
+
+A favore del suo padrone per sempre, se non fosse stato per la sua velocità, avrebbe potuto anche prendere il suo posto.
+
+
+
+Dopo essere rimasta con loro per un quarto d'ora, si alzò per congedarsi.
+
+E fu allora molto felicemente sorpresa quando [[General Tilney|Generale Tilney]] le chiese.
+
+Lei avrebbe reso onore alla figlia di lui, invitandola a cena e trascorrendo con lei il resto della serata.
+
+Il giorno trascorso con lei… La signorina Tilney esprimeva anche i suoi desideri personali; Catherine, intanto…
+
+Molto grato; ma era completamente al di fuori del suo potere. Il signor e la signora Allen
+
+Si aspettava di rivederla da un momento all’altro… Il generale dichiarò di poterlo affermare con certezza.
+
+“Non più; le rivendicazioni del signor e della signora Allen non avrebbero potuto essere ignorate o sostituite.”
+
+Ma un altro giorno, quando ci sarebbe stato più tempo per prepararsi, lui decise di fidarsi.
+
+“Non avrebbero mai rifiutato di risparmiarla per suo amico… Oh, no; Catherine.”
+
+Era certa che non avrebbero avuto la minima obiezione… e lei avrebbe dovuto saperlo.
+
+“È un grande piacere essere qui”, disse il Generale, accompagnandola personalmente fino…
+
+“Street-door…”, dicevano tutti con aria galante mentre scendevano le scale.
+
+#Ammirando l’elasticità del suo passo, che corrispondeva esattamente…
+
+Lo spirito del suo ballo la rende una delle ballerine più aggraziate.
+
+Quello era il volto che aveva mai visto quando si erano separati.
+
+
+
+Catherine, felice di tutto ciò che era accaduto, proseguì allegramente…
+
+“Pulteney Street… camminando, con grande agilità”, concluse lei.
+
+Anche se non ci aveva mai pensato prima, arrivò a [[Home|>casa]] senza.
+
+# Non si vede più nulla della parte offesa; e ora che lei…
+
+Titolo:  
+Vittoriosa in tutto, aveva ottenuto ciò che voleva ed era certa di aver raggiunto il suo obiettivo.
+
+Camminando, iniziò a [[Doubt|dubitare]] (man mano che l’agitazione del suo spirito si placava).
+
+#Se avesse avuto perfettamente ragione… Un sacrificio è sempre nobile; e…
+
+Se avesse ceduto alle loro suppliche, sarebbe stata risparmiata.
+
+# L’angosciante pensiero di un amico deluso, di un fratello arrabbiato… e di…
+
+Un piano di grande felicità per entrambi venne distrutto, forse proprio a causa dei suoi mezzi.
+
+Per tranquillizzarla e ottenere un parere imparziale…
+
+# Quando la persona si rese conto di quale fosse realmente stata la sua condotta, ne approfittò per…
+
+# Menzionare prima del signor Allen il piano ancora incompleto di suo fratello…
+
+Thorpes per il giorno seguente. Il signor Allen affrontò l’argomento direttamente: “[[Well|Beh]],”
+
+“E tu pensi di andarci anche?” disse.
+
+
+
+"No; avevo appena accettato di passeggiare con la signorina Tilney prima che…”
+
+Mi ne hanno parlato; quindi sai che non potevo andare con loro, vero?
+
+I?”
+
+
+
+"No, certamente no; e sono felice che tu non ci pensi nemmeno. Questi piani…”
+
+Non sono affatto ciò che sembrano… Giovani uomini e donne che viaggiano per il paese…
+
+In vagoni scoperti! A volte è davvero molto piacevole, ma andare nelle locande e.
+
+Non è giusto frequentare i luoghi pubblici insieme. E mi chiedo, signora Thorpe.
+
+Dovrebbe essere possibile. Sono contento che tu non pensi di andare; sono sicuro che la signora.
+
+“Morland non ne sarebbe felice… Signora Allen, non è forse lei della mia stessa opinione?”
+
+“Pensi davvero che questo tipo di progetti non sia inappropriato?”
+
+
+
+“Sì, assolutamente. I vagoni aperti sono davvero terribili… Una situazione molto spiacevole.”
+
+“L’abito non resiste nemmeno cinque minuti indossato… Si bagni subito appena lo si mette.”
+
+Uscendo, il [[Wind|vento]] ti porta via i capelli e il cappello, in ogni occasione.
+
+“Direzione… Anch’io odio i carri aperti.”
+
+
+
+“Lo so che lo pensi; ma non è questo il punto. Non credi che…”
+
+Un aspetto bizzarro… soprattutto quando le giovani signore vengono spesso trasportate con mezzi del genere.
+
+“Scritti da giovani uomini, di cui non sono nemmeno imparentati…”
+
+
+
+“Sì, caro mio, davvero un aspetto molto strano… Non riesco proprio a sopportarlo.”
+
+
+
+“Carissima signora,” gridò Catherine, “allora perché non me l’avevate detto prima?”
+
+# Non avrei mai accettato se avessi saputo che era inappropriato
+
+# Mai avrei pensato… Ma speravo sempre che mi dicessi, se lo ritenevi necessario.
+
+“Stavo facendo qualcosa di sbagliato.”
+
+
+
+“E così dovrei fare, caro mio, puoi starne certo; perché come ho detto alla signora, ”
+
+“Morland, al momento dell’addio… farò sempre del mio meglio per te, nella misura delle mie possibilità.”
+
+Non si deve essere eccessivamente esigenti. I giovani… beh, sono pur sempre giovani.
+
+Come dice sempre tua madre… Sai, ti volevo già da quando abbiamo iniziato…
+
+Titolo:  
+Non sono venuto per comprare quella mussola a fiori… ma tu l’avresti fatto lo stesso. I giovani sono così.
+
+“Non mi piace essere sempre ostacolato.”
+
+
+
+“Ma questa era una questione di vera importanza… E non credo che tu…”
+
+“Avreste trovato difficile convincermi.”
+
+
+
+“Finora, non è stato causato alcun danno,” disse il signor.
+
+Allen: “E tutto ciò che posso consigliarti, mia cara, è di non uscire con il signor, ”
+
+“Non più Thorpe…”
+
+
+
+“Proprio quello che stavo per dire,” aggiunse sua moglie.
+
+
+
+Catherine, sollevata per sé stessa, si sentiva inquieta per [[Isabella]], e dopo un po'.
+
+“Un attimo di riflessione…”, chiese il signor Allen, “non sarebbe forse più appropriato…”
+
+E stata gentile a scrivere alla signorina Thorpe per spiegare l’indecorosità di quella situazione.
+
+#Che debba essere altrettanto insensibile quanto lei stessa; perché pensava che…
+
+Altrimenti, forse l'indomani [[Isabella]] sarebbe andata a Clifton.
+
+Nonostante tutto ciò che era accaduto, il signor Allen la dissuase dal farlo.
+
+Non fare mai una cosa del genere. “È meglio che la lasci [[Alone|in pace]], caro mio; lei è, ”
+
+Titolo:  
+Abbastanza grande da sapere cosa sta facendo… e se non lo sa, ha comunque una madre che può aiutarla.
+
+Consigliaglielo. La signora Thorpe è troppo indulgente, senza alcun dubbio; comunque.
+
+Meglio che tu non ti intrometta. Sono lei e tuo fratello a decidere di andare…
+
+“Otterrete soltanto inimicizia.”
+
+
+
+Catherine presentò la sua richiesta, e sebbene le dispiacesse pensare che [[Isabella]] dovesse.
+
+# Sentirsi in colpa, ma sollevata dall’approvazione del signor Allen
+
+# Proprio comportamento… e fu davvero felice di essere stato salvato dai suoi consigli.
+
+Il pericolo di commettere lo stesso errore… La sua fuga dal diventare una di loro.
+
+Per Clifton, partecipare a quella festa rappresentava davvero una via di fuga… perché, altrimenti, cosa avrebbe potuto fare?
+
+I Tilney hanno pensato a lei, nel caso in cui avesse infranto la promessa fatta loro…
+
+Ordine di compiere qualcosa che di per sé è sbagliato… se lei fosse stata colpevole di qualche reato.
+
+Una violazione delle regole della decenza, solo per permetterle di commettere un altro errore?
 
 
 
@@ -22813,6 +26251,244 @@ flights of fancy. They display [[Imagination|imagination]] without raising inter
 am fond of [[history]]—and am very [[Well|well]] contented to take the false with
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 14
+
+
+
+
+
+Il giorno seguente, al mattino, il tempo era sereno; Catherine quasi si aspettava un altro attacco.
+
+Dalla compagnia riunita… Con il sostegno del signor Allen al suo fianco, lei non si sentiva affatto…
+
+Il terrore di quell’evento… Ma sarebbe stata felice se le fosse stato risparmiato quel confronto.
+
+La vittoria stessa fu dolorosa… ma per questo motivo fu accolta con grande gioia.
+
+Né vedendoli né sentendone parlare, i Tilney chiamarono per lei.
+
+All’ora stabilita; e poiché non sorsero nuove difficoltà, nulla di improvviso.
+
+# Ricordo… Nessuna chiamata inaspettata, nessuna intrusione indesiderata.
+
+“Disorientando le loro strategie, la mia eroina dimostrò di possedere capacità davvero insolite…”
+
+Rispettare il suo impegno, anche se era stato preso con lo stesso [[Hero|eroe]]. Loro.
+
+Deciso a fare un giro attorno al Beechen Cliff, quel nobile [[Hill|colline]] il cui.
+
+Belle piante verdi e boschetti penduli lo rendono un oggetto davvero straordinario.
+
+Dalla quasi ogni vetrina aperta a Bath.
+
+
+
+“Non lo guardo mai”, disse Catherine, mentre camminavano lungo il bordo…
+
+Il [[River|fiume]], “senza pensare al sud della Francia”.
+
+
+
+“Quindi sei stato all’estero?” disse Henry, un po’ sorpreso.
+
+
+
+“Oh! No, intendo solo ciò che ho letto al riguardo… Quello mi viene sempre in mente…”
+
+Del paese attraverso cui Emily e suo padre viaggiarono, in “The…”
+
+# Misteri di Udolfo… Ma dubito che tu legga mai romanzi, vero?
+
+
+
+# Perché no?
+
+
+
+“Perché non sono abbastanza intelligenti per te… Gli uomini leggono cose migliori.”
+
+“Libri”.
+
+
+
+“La persona, sia un gentiluomo che una signora, che non trova piacere in qualcosa di buono…”
+
+Questo [[Novel|romanzo]] deve essere terribilmente stupido. Ho letto tutti i libri della signora Radcliffe.
+
+Titolo:  
+I “Misteri di Udolfo”, e la maggior parte di essi vengono letti con grande piacere.
+
+# Quando una volta l’ho iniziato, non sono più riuscito a smettere; me lo ricordo…
+
+Ho finito in due giorni, i miei capelli erano dritti in piedi per tutto il tempo.
+
+
+
+“Sì”, aggiunse la signorina Tilney, “e ricordo che avevi promesso di leggerlo”.
+
+“Mentre venivo chiamato via per soli cinque minuti…”
+
+“Rispondi alla mia nota… Invece di aspettarmi, hai portato quel libro via.”
+
+“Hermitage Walk… e sono stato costretto ad aspettare che lo finissi.”
+
+
+
+“Grazie, [[Eleanor]], un testimonezo davvero onorevole. Vede, signorina Morland, ”
+
+“L’ingiustizia delle tue sospetti… Ecco me, nella mia fretta di…”
+
+#Non aspettare nemmeno cinque minuti per mia sorella… rompendo ogni regola.
+
+Promessa che avevo fatto di leggerlo ad alta voce, tenendola nel suspense…
+
+“Una parte davvero interessante… ma scappando con l’intero volume, che…”
+
+“Da osservare… era proprio suo, soltanto suo. Sono orgoglioso quando…”
+
+“Riflettendoci bene, credo che questo possa contribuire a farmi guadagnare la vostra stima.”
+
+
+
+“Sono davvero molto felice di saperlo, e ora non mi sentirò mai più in imbarazzo…”
+
+#Amavo anch’io Udolpho… Ma in realtà pensavo che i giovani lo disprezzassero.
+
+“Romanzi straordinari.”
+
+
+
+“È _incredibilmente_; potrebbe certamente suggerire _stupore_ se lo facessero, perché, ”
+
+Ho letto quasi lo stesso numero di libri delle donne; personalmente ne ho letti centinaia e centinaia.
+
+Non pensare nemmeno di poter affrontarmi conoscendo solo le storie di Giulia…
+
+#Louisas. Se procediamo nei dettagli e ci impegniamo in quel discorso interminabile…
+
+“Indagine su ‘Hai letto questo?’ e ‘Hai letto quello?’… Presto lo scoprirò.”
+
+#Lasciarti ben indietro… come posso esprimermi? Voglio trovare le parole giuste…
+
+Simile… proprio come fece la tua amica Emily stessa quando lasciò povero Valancourt…
+
+Andò con sua zia in [[Italy|Italia]]. Pensate a quanti anni ho trascorso.
+
+L’inizio della tua vita. Io avevo iniziato i miei studi a [[Oxford]], mentre tu eri ancora.
+
+“Una brava bambina che lavora al suo sampler a casa, ”
+
+
+
+“Non molto buono, temo… Ma ora davvero, non pensi che Udolpho…”
+
+“Il libro più bello del mondo?”
+
+
+
+Titolo:  
+“Quello più ordinato… Intendete dire quello più pulito, vero? Ma questo dipenderà sicuramente…”
+
+“Sul dorso del libro.”
+
+
+
+“Henry,” disse la signorina Tilney, “sei davvero molto scortese. Signorina Morland…”
+
+# Ti tratta esattamente come tratta sua sorella… Sempre cerca di…
+
+“Colpa mia… per qualche errore di linguaggio… e ora lui se ne approfitta.”
+
+“La stessa libertà anche per voi… La parola ‘più gentile’, così come l’avete usata, non…”
+
+“Non gli piacerà… E sarebbe meglio che lo cambiaste il prima possibile, altrimenti…”
+
+“Dominato completamente da Johnson e Blair per tutto il resto del percorso…”
+
+
+
+“Ne sono sicura”, esclamò Catherine, “non volevo dire nulla di sbagliato”.
+
+“Ma è davvero un bel libro… Perché non dovrei chiamarlo così?”
+
+
+
+“Molto vero,” disse Henry, “e oggi è davvero una bella giornata; siamo…”
+
+“Camminando insieme in modo molto piacevole… e siete due giovani donne davvero gentili.” Ah!
+
+“‘Molto bello’ è davvero una parola meravigliosa… Si adatta a tutto. Forse, in origine…”
+
+# Fu utilizzato esclusivamente per esprimere ordine, decoro, raffinatezza o…
+
+Raffinatezza: le persone erano gentili nel loro modo di vestirsi, nei loro sentimenti…
+
+La loro scelta… Ma ora ogni lode, su qualsiasi argomento, è basata su questo principio.
+
+“Con quella sola parola.”
+
+
+
+“Mentre, in realtà,” esclamò sua sorella, “dovrebbe essere applicato soltanto…”
+
+Tu, senza alcuna vera e propria lode. Sei più gentile che saggio.
+
+“Vieni, signorina Morland, lasciamolo riflettere sulle nostre colpe…”
+
+La massima correttezza nel linguaggio, mentre lodiamo Udolpho con qualsiasi termine si voglia usare…
+
+Ci piace molto. È un’opera davvero interessante… A te piacciono proprio quel genere di cose, vero?
+
+“Di cosa si tratta nel libro? Qual è l’argomento principale della lettura?”
+
+
+
+“A dire la [[Truth|verità]], non mi piace molto nessun altro.”
+
+
+
+“Certamente!”
+
+
+
+"#Leggere poesie e drammi, insomma, cose del genere..."
+
+Non disprezzo i viaggi. Ma la [[history|storia]], quella vera, solenne, non posso affatto.
+
+“Interessato… Puoi farlo?”
+
+
+
+“Sì, mi piace molto la [[history|storia]].”
+
+
+
+“Vorrei anch’io essere così… L’ho letto più che altro per dovere, ma mi ha fatto riflettere molto.”
+
+"Niente che non mi infastidisca o mi stanchi… Le liti dei papi e…"
+
+Re, con guerre o pestilenze… su ogni pagina; tutti questi uomini così meritevoli…
+
+"Niente, e quasi nessuna donna affatto… È davvero molto noioso; eppure io…”
+
+Spesso mi chiedo come possa essere così noioso, considerando che ne contiene molto…
+
+# Deve essere un’invenzione… I discorsi che vengono fatti pronunciare dagli eroi…
+
+I loro pensieri e i loro piani: la componente principale di tutto ciò deve essere l’invenzione…
+
+“L’invenzione è ciò che mi delizia nelle altre opere.”
+
+
+
+“Gli storici, secondo voi”, disse la signorina Tilney, “non sono felici nel loro lavoro…”
+
+Voli di fantasia. Mostrano [[Imagination|immaginazione]] senza suscitare alcun interesse. Io.
+
+Mi piace molto la [[history|storia]]. E sono più che soddisfatto di accettare anche le versioni errate.
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_02" data-title="Northanger Abbey — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/city,motif/crown,motif/desire,motif/hill,motif/home,motif/nature,motif/time,motif/well,concept/beauty,concept/courage,concept/history,concept/nature,concept/vanity,form/fragment,form/history"></span>
@@ -23002,6 +26678,199 @@ to forests, the enclosure of them, waste lands, [[Crown|crown]] lands and
 
 [[government]], he shortly found himself arrived at politics; and from
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Titolo:  
+La verità… Nei fatti principali, esistono fonti di informazioni che possono fornire indicazioni utili.
+
+# Antiche storie e documenti, su cui si può fare altrettanta affidamento…
+
+Concludere, poiché qualsiasi cosa che non venga effettivamente sottoposta al proprio controllo…
+
+Osservazione… E per quanto riguarda quei piccoli ornamenti di cui parli, beh…
+
+Sono semplici ornamenti, e mi piacciono proprio per questo. Se un discorso è ben strutturato.
+
+#"Leggendolo con piacere, non importa chi l’abbia scritto… probabilmente è davvero ottimo."
+
+Con un livello di qualità molto superiore, se parliamo della produzione del signor Hume o del signor Robertson…
+
+“Se le parole autentiche di Caratteraco, Agricola o Alfredo il Grande…”
+
+
+
+“Ti piace molto la [[history|storia]]! Lo stesso vale per il signor Allen e mio padre; e anch’io, ”
+
+Titolo:  
+Ho due fratelli che non lo disprezzano affatto… Ci sono così tanti esempi nel mio caso…
+
+“Un piccolo cerchio di amici è davvero straordinario… A questo ritmo, non proverò alcuna compassione.”
+
+Gli autori di [[history|storia]] non sono più quelli di una volta. Se la gente vuole ancora leggere i loro libri.
+
+Tutto è molto [[Well|bene]], ma fare tanta fatica solo per riempire qualcosa di così grande.
+
+Volumi che, come pensavo una volta, nessuno avrebbe mai voluto leggere volontariamente
+
+“Per lavorare soltanto al tormento di bambini e bambine…”
+
+Sempre mi è sembrato un destino crudele… E anche se so che in realtà va tutto bene.
+
+E, quando necessario, mi sono spesso chiesto quale fosse il [[Courage|coraggio]] di quella persona che riusciva a farlo.
+
+“Si siede apposta per farlo.”
+
+
+
+“Che quei bambini dovrebbero essere tormentati…”, disse Henry, “è proprio questo che…”
+
+Nessuno che conosca davvero la [[Nature|>natura]] umana in uno stato civile può.
+
+#Negare… ma a nome dei nostri più illustri storici, devo dire…
+
+Si noti che potrebbero offendersi molto se si pensasse che non abbiano nulla.
+
+Un obiettivo più alto; inoltre, con il loro metodo e stile, sono perfettamente [[Well|adatti]] a raggiungerlo.
+
+#Destinato a tormentare anche i lettori più razionali e maturi
+
+Quel momento della vita. Utilizzo il verbo “tormentare”, perché ho notato che è proprio ciò che tu stesso fai.
+
+Metodo, invece di “istruire”, presupponendo che ora siano stati ammessi…
+
+“Sinonimi”.
+
+
+
+Titolo:  
+“Pensi che io sia sciocco a definire l’insegnamento una tortura, ma se tu…”
+
+# Abituati quanto me ad ascoltare i poveri bambini che imparano per la prima volta…
+
+Le loro lettere… e poi imparare a scrivere correttamente: se solo aveste mai visto come…
+
+“Stupidi… possono passare un’intera mattina insieme… E quanto sono stanco io…”
+
+“Madre è al limite… proprio come me, che ho l’abitudine di vedere quasi tutto…”
+
+Nel giorno più bello della mia vita, a casa, avresti permesso che tutto ciò mi tormentasse e.
+
+“‘Insegnare’ e ‘guidare’ a volte possono essere usati come sinonimi.”
+
+
+
+“Molto probabilmente. Ma gli storici non sono responsabili delle difficoltà che possono sorgere nel loro lavoro.”
+
+#Imparare a leggere; e anche tu stesso, che non sembri del tutto…
+
+# Particolarmente adatto per applicazioni estremamente intensive e impegnative
+
+Forse si arriverà a riconoscere che vale davvero la pena.
+
+Essere tormentati per due o tre anni della propria vita, al solo fine di…
+
+# Essere in grado di leggere il resto… Pensateci: se leggere non fosse mai esistito…
+
+“Se la signora Radcliffe avesse scritto, tutto sarebbe stato inutile… o forse no.”
+
+“Non ho mai scritto nulla.”
+
+
+
+Catherine acconsentì – e pronunciò un elogio molto caloroso su quella signora.
+
+Il titolo si conclude qui; i Tilney furono presto coinvolti in un’altra vicenda…
+
+#Che non aveva nulla da dire… Guardavano il paesaggio insieme.
+
+Titolo:  
+Gli occhi di coloro abituati al disegno, e la valutazione della sua capacità…
+
+Si formano immagini, con tutta la passione e il vero gusto di chi le crea. Qui.
+
+# Catherine era completamente perduta… Non sapeva nulla di disegno, né di gusto.
+
+# E lei li ascoltava con un’attenzione tale che la rendeva… quasi silenziosa.
+
+Titolo:  
+“Profit… poiché parlavano usando frasi che in realtà trasmettevano ben poco significato.”
+
+#La piccola cosa che riusciva a capire…
+
+Contraddire le poche idee che lei aveva riguardo a questa questione
+
+#Prima… Sembrava che non si potesse più godere di una bella vista da lì.
+
+Sulla cima di un alto [[Hill|colline]], il cielo blu chiaro non era più una prova di.
+
+“Una bella giornata… Provava un profondo imbarazzo per la propria ignoranza.”
+
+# Vergogna… Quando le persone desiderano attaccarsi a qualcosa, dovrebbero sempre rimanere ignoranti.
+
+Avere una mente ben informata significa allo stesso tempo non essere in grado di.
+
+Coltivare la [[Vanity|vanità]] degli altri, qualcosa che una persona sensata non farebbe mai.
+
+Titolo:  
+Qualcosa che si vorrebbe sempre evitare… Soprattutto per una donna, se ha la sfortuna di…
+
+Se sa qualcosa, deve nasconderlo nel modo migliore possibile.
+
+
+
+# I vantaggi della follia naturale in una bella ragazza sono stati già evidenziati…
+
+Scritto con la penna maestra di un’altra autrice… e il suo modo di affrontare l’argomento
+
+Titolo:  
+A proposito di questo argomento, vorrei aggiungere, per giustizia verso gli uomini, che sebbene…
+
+“La maggior parte delle donne… l’imbecillità nelle femmine è…”
+
+# Un notevole miglioramento del loro fascino personale… in alcuni di loro c’è davvero qualcosa di speciale.
+
+Troppo ragionevoli e troppo ben informati per desiderare qualcosa in più.
+
+“Nella donna, più che l’ignoranza… Ma Catherine non conosceva se stessa.”
+
+# Vantaggi… Non avrei mai immaginato che una ragazza attraente, con un atteggiamento affettuoso…
+
+# Cuore e mente molto ignoranti non possono fare a meno di attirare qualcuno intelligente
+
+giovane uomo, a meno che le circostanze non siano particolarmente sfavorevoli. In tal caso…
+
+Nella presente circostanza, lei ammise e si lamentò della propria mancanza di conoscenze.
+
+Disse che avrebbe dato qualsiasi cosa al mondo pur di poter disegnare.
+
+E subito dopo seguì una lezione sul pittoresco, nella quale…
+
+Le istruzioni erano così chiare che lei iniziò presto a vedere la [[Beauty|bellezza]] in.
+
+Tutto ciò che lui ammirava… e la sua attenzione era così sincera che lui…
+
+Rimase pienamente soddisfatta del fatto che lei possedesse un ottimo gusto naturale.
+
+# Scene e prospettive: gli sfondi secondari
+
+# Luci e ombre: speranze e prospettive di Catherine
+
+#Lo studiosa che, una volta raggiunto la cima di Beechen Cliff, si offrì volontariamente…
+
+Rifiutò l'intera città di Bath, ritenendola indegna di far parte di.
+
+#Paesaggio. Compiaciuta dei suoi progressi, ma temendo di stancarla…
+
+#Con troppa saggezza tutte insieme, Henry vide il soggetto declinare…
+
+E, attraverso un passaggio naturale da un pezzo di roccia frantumata.
+
+Il rovere appassito che aveva piantato vicino alla sua cima… e, più in generale, i rovi.
+
+foreste, i loro terreni recintati, terre incolte, terreni della [[Crown|corona]] e.
+
+[[government|governo]], in breve si trovò coinvolto nella politica; e da lì.
 
 
 
@@ -23712,6 +27581,217 @@ satisfaction. Her heart was overflowing with tenderness. It was “dear
 
 John” and “dear Catherine” at every word; “dear Anne and dear [[Maria]]”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Di mia preferenza per la chiesa… ma il mio segreto, ne ero sempre sicura, sarebbe rimasto…”
+
+“Sii al sicuro con te.”
+
+
+
+#Catherine sentiva che non ci potesse essere nulla di più sicuro… ma si vergognava di…
+
+#Ignoranza poco prevista… Non osò più contestare quel punto, né…
+
+#Rifiutare di essere stato così pieno di penetrazione e affetto
+
+La simpatia, così come [[Isabella]] decise di vederla. Suo fratello, scoprì lei, era.
+
+Pronto a partire il prima possibile verso Fullerton, per far conoscere la sua.
+
+Situazione e richiesta di consenso: ed ecco una fonte di reale agitazione.
+
+Nella mente di [[Isabella]], Catherine cercò di convincerla, così come aveva fatto prima.
+
+Riuscì a convincersi che suo padre e sua madre non avrebbero mai opposto resistenza.
+
+“Il desiderio di loro figlio… È impossibile“, disse lei, “che i genitori possano…”
+
+“Più gentili, o più desiderosi della felicità dei propri figli… Non ne ho idea.”
+
+“[[Doubt|Dubbi]] riguardo al loro consenso immediato, ”
+
+
+
+“Morland dice esattamente la stessa cosa,” rispose [[Isabella]]; “eppure non oso, ”
+
+Aspettatevelo: la mia fortuna sarà così scarsa che loro non potranno mai acconsentire.
+
+“Tuo fratello… che potrebbe sposare chiunque!”
+
+
+
+Ancora una volta, qui, Caterina percepì la forza dell’[[Love|amore]].
+
+
+
+“Davvero, [[Isabella]], siete troppo umile. La differenza di fortuna può essere, ”
+
+“Niente di significativo.”
+
+
+
+“Oh, mia cara Catherine… so nel tuo cuore generoso so che lo faresti…”
+
+Non significa nulla; ma non dobbiamo aspettarci un tale disinteresse da parte di molte persone.
+
+Per quanto mi riguarda, sono sicuro che desidererei solo che le nostre situazioni fossero invertite.
+
+# A disposizione di milioni… se fossi padrona del mondo intero, tu…
+
+“Mio fratello sarebbe la mia unica scelta.”
+
+
+
+Questo affascinante sentimento, raccomandato sia per il suo senso che per la sua novità, ha riscosso grande successo.
+
+#Catherine: un ricordo davvero piacevole tra tutte le eroine della sua epoca
+
+Conoscenza… E pensò che sua amica non fosse mai stata più bella di così.
+
+“Esprimendo questa grande idea… Sono sicura che acconsentiranno”, disse lei.
+
+# Frequent dichiarazione: “Sono sicuro che saranno felici di conoscerti”.
+
+
+
+“Per quanto mi riguarda,” disse [[Isabella]], “i miei desideri sono così moderati che, ”
+
+Il minimo reddito che si possa trovare nella [[Nature|>natura]] mi basterebbe. Lì, dove vivono le persone.
+
+Essere veramente legati a qualcosa. La stessa [[Poverty|povertà]] può essere considerata una forma di ricchezza; la grandezza la detesto. Io preferirei.
+
+Non stabilirsi a [[London|Londra]]. Un piccolo cottage, in qualche luogo tranquillo.
+
+Il villaggio sarebbe un vero paradiso… Ci sono alcune deliziose piccole ville in quella zona.
+
+“Richmond.”
+
+
+
+“Richmond!”, gridò Catherine. “Devi stabilirti vicino a Fullerton… Devi assolutamente farlo.”
+
+“È vicino a noi.”
+
+
+
+“Sono sicura che sarò infelice se non lo facciamo… Se solo potessi essere vicina…”
+
+#Non mi accontenterò di nulla… Ma sono solo chiacchiere inutili! Non lo permetterò.
+
+Non dovrei nemmeno pensare a queste cose, finché non avremo la risposta di vostro padre.
+
+Morland dice che inviandolo a Salisbury di [[Night|notte]], potremmo averlo entro breve.
+
+Domani. Domani? So che non avrò mai il [[Courage|coraggio]] di aprirlo.
+
+Letteralmente. So che sarà la mia [[Death|morte]].
+
+
+
+Dopo questa convinzione seguì un momento di rêverie; e quando [[Isabella]] parlò di nuovo.
+
+Doveva decidere quale fosse la qualità migliore per il suo abito da sposa.
+
+
+
+La loro conversazione fu interrotta dallo stesso ansioso giovane [[Lover|innamorato]].
+
+Che venne a emettere il suo ultimo sospiro di addio prima di partire per il Wiltshire.
+
+Catherine avrebbe voluto congratularsi con lui, ma non sapeva cosa dire… e così rimase in silenzio.
+
+L’eloquenza era presente soltanto nei suoi occhi… Ma da quegli occhi emanavano tutte le otto parti dell’essenza umana.
+
+Il discorso risaltava per la sua espressività particolare; James riuscì a combinarlo con…
+
+Con facilità. Impaziente di realizzare tutto ciò che sperava a [[Home|casa]], lui.
+
+Addio non durò a lungo; e sarebbe stato ancora più breve, se lui non avesse…
+
+#Spesso trattenuto dalle insistenti suppliche della sua amata…
+
+#Andrà via. Due volte fu chiamato quasi alla porta dalla sua impazienza…
+
+“Devo assolutamente farvi andare via… Davvero, Morland, devo costringervi ad andarvene. Pensateci bene…”
+
+“Che lungo cammino dovete ancora percorrere… Non riesco a sopportare di vedervi indugiare così. Per l’amor del cielo…”
+
+Per amor del cielo, non sprecare più tempo. Vai, vai, insisto.
+
+
+
+I due amici, i cui cuori erano ora più uniti che mai, erano…
+
+“Indivisibili per quel giorno… e nelle gioie fraterne di un legame speciale, le ore trascorrono…”
+
+Volò via… La signora Thorpe e suo figlio, che la conoscevano bene, erano presenti…
+
+"Tutto, e sembrava che volessero soltanto il consenso del signor Morland..."
+
+Considerare l’impegno di [[Isabella]] come la circostanza più fortunata.
+
+Per le loro famiglie, era possibile che partecipassero ai loro consigli…
+
+Aggiungono la loro quota di sguardi significativi ed espressioni misteriose per rendere il tutto più intenso…
+
+# Al di sopra della curiosità che può nascere nelle giovani persone prive di privilegi
+
+Sorelle… Per i semplici sentimenti di Catherine, questo strano tipo di riservatezza…
+
+Sembrava né voler dire nulla di gentile, né essere sostenuto in modo coerente; e il suo…
+
+#La scortesia che a malapena avrebbe trattenuto dal rimarcare…
+
+L’incostanza non era certo loro amica; ma Anne e [[Maria]] presto la misero in ordine.
+
+#Cuore in pace grazie alla saggezza dei loro “So cosa fare”; e la sera…
+
+Il tempo trascorso fu caratterizzato da una sorta di guerra di astuzia, da dimostrazioni di ingegnosità familiare…
+
+# Una parte del mistero di un segreto nascosto… e dall’altra…
+
+Una scoperta indefinita, tutti quanti ugualmente intensi.
+
+
+
+Il giorno dopo, Catherine era di nuovo con la sua amica, cercando di…
+
+# Alleviare il suo spirito e far passare quelle interminabili ore…
+
+La consegna delle lettere richiedeva uno sforzo necessario, poiché nel momento in cui.
+
+La ragionevole aspettativa si avvicinava, e [[Isabella]] diventava sempre più.
+
+Disperata… e prima ancora che arrivasse la lettera, si era già messa in uno stato di profonda angoscia.
+
+#Stato di vera angoscia… Ma quando arrivava, dove poter trovare conforto?
+
+Titolo:  
+Trovato? “Non ho avuto alcuna difficoltà nel ottenere il consenso dei miei simili”
+
+Genitori… e mi è stato promesso che verrà fatto tutto ciò che è in loro potere.
+
+“Per trasmettere la mia felicità…”, erano le prime tre righe; in un istante…
+
+# Tutto era gioia e sicurezza… Il bagliore più intenso si diffuse immediatamente su tutto.
+
+I tratti del viso di [[Isabella]], ogni preoccupazione e ansia sembravano essere scomparsi; il suo spirito.
+
+Il titolo divenne quasi troppo elevato da controllare… e lei chiamò se stessa senza…
+
+Anche i più felici tra gli esseri umani possono essere tormentati dai rimorsi.
+
+
+
+La signora Thorpe, con [[Tears|lagrime]] di gioia, abbracciò sua figlia, suo figlio, e tutti gli altri.
+
+Visitatore… e avrebbe potuto abbracciare metà degli abitanti di Bath…
+
+Soddisfazione… Il suo cuore traboccava di tenerezza… Era davvero “caro”.
+
+“John” e “carissima Catherine” in ogni frase; “carissima Anne e carissima [[Maria]]”.
 
 
 
@@ -24564,6 +28644,142 @@ minute thought otherwise. James soon followed his letter, and was
 
 received with the most gratifying kindness.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le buone intenzioni di suo padre venivano spiegate appieno. Una persona viva, di cui il signor.
+
+Il signor Morland era sia il protettore che il detentore di un titolo che gli fruttava circa quattrocento sterline all’anno.
+
+Il valore annuale doveva essere trasferito a suo figlio non appena questi avesse raggiunto l’età adeguata.
+
+“Abbastanza per farcela… Nessuna riduzione insignificante del reddito familiare, assolutamente.”
+
+# Una misera porzione per uno dei dieci bambini… Un patrimonio che potrebbe essere molto di più
+
+Inoltre, gli veniva garantita un'uguale valutazione anche come futura eredità.
+
+
+
+James esprimeva la sua gratitudine in modo appropriato nell’occasione; e…
+
+#La necessità di attendere tra due e tre anni prima che possano…
+
+Sposarsi, nonostante fosse una cosa del tutto inaspettata e indesiderata, non risultò diverso da ciò che aveva previsto.
+
+#Portato da lui senza rimpianti… Catherine, la cui aspettativa era stata…
+
+Altrettanto incerte quanto le sue idee riguardo al reddito di suo padre, e la cui capacità di giudizio era…
+
+Ora completamente guidata dal fratello, si sentiva altrettanto [[Well|benissima]] soddisfatta, e
+
+Congratulai sinceramente [[Isabella]] per aver ottenuto tutto in modo così piacevole.
+
+Risolto.
+
+
+
+“È davvero molto affascinante,” disse [[Isabella]] con un’espressione [[Grave|seria]]. “Il signor, ”
+
+“Morland si è comportato davvero in modo molto nobile,” disse la gentile signora.
+
+“Thorpe, che guarda ansiosamente sua figlia… ‘Vorrei solo poter fare lo stesso’.”
+
+“Much… Non si poteva certo aspettarsi di più da lui, capisci? Se scopre…”
+
+#Potrà fare di più col tempo, oserei dire che lo farà, perché sono sicuro che debba riuscirci.
+
+Un uomo eccellente e dal cuore gentile… Quattrocento sono soltanto un piccolo reddito…
+
+In effetti, possiamo iniziare. Ma i tuoi desideri, mia cara [[Isabella]], sono davvero moderati.
+
+“Non pensi mai a quanto poco in realtà desideri, carissima…”
+
+
+
+“Non è per mio interesse personale che desidero di più; ma semplicemente non riesco a sopportare…”
+
+# I metodi per ferire il mio caro Morland, facendolo sedere su…
+
+Un reddito appena sufficiente per soddisfare le esigenze di base della vita.
+
+“Me stesso… non è nulla; non penso mai a me stesso.”
+
+
+
+“Lo so bene che tu non lo fai mai, carissima… E sicuramente troverai la tua ricompensa.”
+
+#L’affetto che tutti provano per te… Non c’è mai stata una giovane donna come lei.
+
+Donna tanto amata da tutti coloro che ti conoscono… E oserei dire…
+
+Quando il signor Morland ti vedrà, mio caro [[Child|>bambino]], ma non dobbiamo angosciarlo.
+
+Cara Catherine… parlando di queste cose. Il signor Morland si è comportato in modo davvero…
+
+Molto attraente, sai… Ho sempre sentito dire che fosse un uomo davvero eccezionale.
+
+# E sai, cara… non dobbiamo nemmeno supporre cosa sarebbe potuto accadere se tu avessi avuto…
+
+Se avesse avuto una fortuna adeguata, sarebbe riuscito ad ottenere qualcosa di meglio… perché io sono…
+
+“Di certo deve essere una persona dal pensiero molto liberale.”
+
+
+
+“Nessuno può pensare bene di Mr. Morland quanto me, ne sono sicura. Ma…”
+
+Ognuno ha i propri difetti, sai… e ognuno ha il diritto di farli.
+
+“Ciò che vogliono spendere con i loro soldi…”
+
+
+
+“Catherine è stata ferita da queste insinuazioni. ‘Ne sono molto sicura’, ha detto.”
+
+“Mio padre ha promesso di fare tutto ciò che è in suo potere.”
+
+
+
+[[Isabella]] si riprese. “Per quanto riguarda questo, mia cara Catherine, c’è, ”
+
+Non può esserci alcun [[Doubt|>dubbio]], e tu mi conosci abbastanza bene da essere sicuro che.
+
+Un reddito più basso mi basterebbe. Non è la mancanza di denaro il problema…
+
+# Mi deprime un po’ in questo momento… Odio i soldi… E se…
+
+La nostra [[Union|unione]] potrebbe realizzarsi ora con soli cinquanta sterline all’anno. Io credo che.
+
+Non avere alcun desiderio insoddisfatto. Ah, mia Catherine, mi hai scoperto.
+
+# Due anni e mezzo interminabili…
+
+“Per non lasciare che tuo fratello possa ereditare tutto prima ancora che tu abbia avuto la possibilità di godertelo.”
+
+
+
+“Sì, sì, mia cara [[Isabella]],” disse la signora Thorpe, “capiamo perfettamente.”
+
+#Nel profondo del tuo cuore… Non hai alcun modo di nasconderti; noi ti comprendiamo perfettamente.
+
+La presente irritazione. E tutti sicuramente ti ameranno ancora di più per questo.
+
+“Un nobile e onesto affetto”.
+
+
+
+I sentimenti sgradevoli di Catherine iniziarono ad attenuarsi. Lei cercò di…
+
+Credo che il ritardo del [[Marriage|matrimonio]] fosse l’unica causa di.
+
+Il rimorso di [[Isabella]]; e quando la rivide al loro successivo incontro.
+
+Sempre allegra e affabile come sempre, cercava di dimenticare che…
+
+Un attimo di riflessione diversa… Presto James seguì le indicazioni della sua lettera e agì di conseguenza.
+
+Fu accolto con la più gradita gentilezza.
 
 
 
@@ -25805,6 +30021,199 @@ the chaise and four wheeled off with some grandeur, to be sure, but it
 was a heavy and troublesome business, and she could not easily forget
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 20
+
+
+
+
+
+Il signor e la signora Allen erano molto tristi per aver perso il loro giovane amico, il cui carattere era davvero meritevole…
+
+Il suo [[Humour|umorismo]] e la sua allegria avevano reso lei una compagna preziosa, e nella.
+
+# Il piacere di chi, in modo delicato, è stato aumentato… Il suo.
+
+Tuttavia, la felicità di accompagnare la signorina Tilney impedì loro di desiderarlo.
+
+Altrimenti… e poiché avrebbero trascorso solo un’altra settimana a Bath…
+
+“Themselves… Her decision to leave them now would hardly be noticed for a while. Mr. Allen.”
+
+L'accompagnò in Milsom Street, dove avrebbe pranzato, e la vide lì.
+
+Accolta con la più calorosa delle benvenute tra i suoi nuovi amici… ma era così grande…
+
+La sua agitazione nel rendersi conto di far parte della famiglia… e la sua paura.
+
+# Non era mai sicura di fare esattamente ciò che era giusto, e di non riuscire mai a…
+
+# Mantenere la loro buona opinione… nel momento dell’imbarazzo iniziale
+
+Cinque minuti… Avrebbe quasi desiderato tornare con lui.
+
+Via Pulteney.
+
+
+
+“Le maniere di Miss Tilney e il sorriso di Henry contribuirono presto a mitigare in parte le sue…”
+
+# Sensazioni sgradevoli… ma comunque non si sentiva affatto a suo agio; né…
+
+#Potrebbero davvero le continue attenzioni del Generale stesso garantire totale sicurezza?
+
+# Mai dubitare… anche se sembrava perverso
+
+#Sentiva di meno… se le fosse stata dedicata meno attenzione. La sua ansia per lei…
+
+#Il suo insistente incoraggiamento affinché mangiasse… e le sue premure costanti
+
+Titolo:  
+Le paure spesso espresse riguardo al fatto che lei non trovasse nulla di suo gusto… anche se mai realmente.
+
+Nella sua vita, prima d’allora, non aveva mai visto una tale varietà…
+
+#Tavola-da-pranzo… che le impediva per un momento anche solo di dimenticarlo
+
+#Era solo una visitatrice… Si sentiva assolutamente indegna di tale rispetto, e lo sapeva.
+
+# Non so come rispondere… La sua tranquillità non sembra migliorare affatto.
+
+# L’impazienza del generale per l’apparizione di suo figlio maggiore
+
+# Il disappunto espresso dal Capitano Tilney di fronte alla sua pigrizia
+
+#Cadde a terra… Fu profondamente addolorata dalla durezza delle parole di suo padre.
+
+# Rimproveri che sembravano sproporzionati rispetto all’offesa commessa… E molto di più…
+
+Il suo preoccupazione aumentò quando si rese conto di essere la principale causa di…
+
+#Lezione… e il suo ritardo fu soprattutto motivo di risentimento per…
+
+#Indispettoso nei suoi confronti. Questo la metteva in una situazione molto scomoda.
+
+La situazione… e provò grande compassione per il Capitano Tilney.
+
+Potendo sperare nella sua buona volontà.
+
+
+
+Ascoltò suo padre in [[Silence|silenzio]] e non cercò affatto di difendersi.
+
+#Che confermò la sua paura che l’ansia nella sua mente…
+
+Il racconto di [[Isabella]], forse, tenendolo sveglio tutta la notte, avrebbe potuto essere.
+
+La vera ragione del suo ritardo quella sera. Era la prima volta che lei.
+
+# Decisamente nella sua compagnia… e lei aveva sperato di poter finalmente stabilire un legame con lui.
+
+L’opinione di lui… ma lei quasi non sentiva la sua voce mentre suo padre…
+
+Rimase nella stanza; e anche dopo, il suo spirito era ancora così elevato…
+
+“Con voce affettata, riusciva a distinguere soltanto queste parole, sussurrate…”
+
+A [[Eleanor]], “Che felice sarò quando sarete tutti andati via.”
+
+
+
+Il trambusto del viaggio non era affatto piacevole. L’[[Clock|orologio]] suonò le dieci mentre.
+
+# Carriaggi in movimento… e il Generale era deciso ad uscire
+
+“Milsom Street… A quell’ora. Il suo cappotto, invece di essere portato via…”
+
+#Da indossare immediatamente, era disteso nella carrozzina su cui viaggiava
+
+Per accompagnare suo figlio… Il sedile centrale della carrozza non era stato esteso.
+
+“Sebbene ci fossero tre persone a bordo, e anche la cameriera di sua figlia…”
+
+#Così affollato di pacchi che la signorina Morland non avrebbe avuto spazio per…
+
+#Siedi… E fu proprio questa preoccupazione ad influenzarlo profondamente quando consegnò…
+
+“Her In: Some Difficulties Saving Her New Writing Desk”
+
+“Dalla condizione di essere gettati per strada… Alla fine, tuttavia, la porta si aprì.”
+
+“Chiuso intorno alle tre donne, si misero in cammino a un passo sobrio…”
+
+Titolo:  
+I quattro bei cavalli ben nutriti di un gentiluomo…
+
+Percorrere un [[Journey|viaggio]] di trenta miglia: tale era la distanza di Northanger.
+
+Titolo:  
+Da Bath… ora diviso in due fasi uguali. Lo spirito di Catherine
+
+Rinvenuta mentre usciva di casa… perché con la signorina Tilney non provava più nulla.
+
+Rispetto; e, considerando l’interesse che rappresentava una [[Road|strada]] del tutto nuova per lei.
+
+#Davanti l’abbazia, dietro il calesino… vide per l’ultima volta Bath
+
+Senza alcun rimpianto, e superando ogni ostacolo prima ancora che se lo aspettasse…
+
+Titolo:  
+La noia di un’attesa di due ore a Petty France…
+
+Non c’era nulla da fare se non mangiare, anche quando non si aveva fame…
+
+Oziare senza nulla da vedere… e poi, seguiva la sua ammirazione.
+
+Titolo:  
+Del tipo di veicoli utilizzati per i viaggi, delle eleganti carrozze all’epoca…
+
+#Quattro postiglioni, abbigliati con eleganza, si alzano regolarmente…
+
+“Stivali da cavaliere e numerosi cavalieri ben montati… si immersero leggermente…”
+
+# Questo inevitabile disagio… Se la loro festa fosse stata perfettamente organizzata…
+
+Aveva senso, quel ritardo non avrebbe rappresentato alcun problema; ma [[General Tilney|Generale Tilney]].
+
+“Sebbene fosse un uomo così affascinante, sembrava sempre rappresentare un ostacolo per i suoi figli…”
+
+“Spiriti… e quasi nessuno parlava, tranne lui stesso; quell’osservazione…”
+
+Di cui, a causa del suo disappunto riguardo a ciò che l’ostello poteva offrire, e…
+
+# Rabbia e impazienza verso i camerieri… rendevano Catherine sempre più irritata di minuto in minuto
+
+In ammirazione di lui, quelle due ore sembrarono allungarsi fino a diventare quattro.
+
+Infine, fu comunicato l’ordine di pubblicazione; e molto dipendeva da Catherine…
+
+#Allora sorpresa dalla proposta del generale di sostituirlo nel suo ruolo…
+
+Il carretto del figlio per il resto dell’[[Journey|viaggio]]: “Il giorno era bello, e lui, ”
+
+“Voleva disperatamente che lei potesse vedere il maggior numero possibile di luoghi del paese.”
+
+
+
+#Il ricordo dell’opinione del signor Allen riguardo ai giovani uomini…
+
+“Carriaggi… Il solo menzionare un simile piano la fece arrossire; e fu la prima volta…”
+
+L’idea iniziale era rifiutarlo; ma la sua seconda considerazione dimostrava un maggiore rispetto…
+
+Il giudizio di [[General Tilney|Generale Tilney]]; non avrebbe potuto proporre nulla di inappropriato.
+
+# Lei e, nel corso di pochi minuti, si ritrovò con Henry
+
+Nel carretto, l’essere più felice che sia mai esistito… Un breve viaggio molto felice.
+
+Le fece credere che una carrozza a due ruote fosse il mezzo di trasporto più bello al mondo.
+
+La carrozza a quattro ruote si allontanò con una certa maestosità, senza dubbio…
+
+Era un affare pesante e complicato; non riusciva facilmente a dimenticarlo.
+
 
 
 <span class="atom-split" data-atom="chapter_21--part_02" data-title="Northanger Abbey — Chapter 20 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/storm,motif/time,motif/well,motif/wind,concept/friendship,setting/mountains,character/eleanor"></span>
@@ -26425,6 +30834,198 @@ General’s complacent smiles, and a good appetite of her own, restored
 her to peace. The dining-parlour was a noble room, suitable in its
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 21
+
+
+
+
+
+Un’occhiata rapida fu sufficiente per convincere Catherine che il suo appartamento…
+
+Non assomigliava affatto a quella che Henry aveva cercato di usarle per spaventarla…
+
+Titolo:  
+Descrizione… Non era affatto eccessivamente grande, e conteneva…
+
+“Né tappezzeria né velluto: le pareti erano rivestite di carta, il pavimento…”
+
+Titolo:  
+“Vestito di tappeti; le finestre non erano né meno perfette né più scure di quelle…”
+
+Il soggiorno al piano di sotto: i mobili, sebbene non dei più moderni…
+
+Moderno, elegante e confortevole… l’atmosfera di quella stanza era davvero piacevole.
+
+Assolutamente non triste… Il suo cuore si rilassò all’istante.
+
+A questo punto, decise di non perdere alcun [[Time|tempo]] nell’esaminare attentamente.
+
+Qualsiasi cosa, poiché temeva molto di contrariare il Generale con qualsiasi ritardo.
+
+La sua abitudine fu quindi abbandonata il prima possibile, e lei…
+
+#Preparandosi ad aprire il pacco di stoffe che era stato fissato al sedile della poltrona a dondolo
+
+#Trovata un alloggio immediato, il suo sguardo si posò improvvisamente su…
+
+# Un grande armadio alto, posizionato in un angolo nascosto su un lato…
+
+Caminetto… Quella vista la fece sobbalzare; e, dimenticando tutto il resto…
+
+Altrimenti, rimaneva lì a fissarlo con uno sguardo di immobile [[Wonder|stupore]], mentre questi pensieri.
+
+La colpì nel segno…
+
+
+
+“Che strano davvero… Non mi aspettavo di vedere una cosa del genere!”
+
+Un petto enorme e pesante. Cosa può contenere? Perché dovrebbe essere posizionato qui?
+
+#Spinto indietro anch’esso, come se dovesse restare nascosto alla vista… Ne farò delle ricerche.
+
+# A qualunque costo, farò delle indagini… e subito.
+
+“Luce di giorno… Se resto fino a sera, la mia candela potrebbe spegnersi.” Proseguì.
+
+# E lo esaminò attentamente: era fatto di cedro, e stranamente intagliato con alcuni elementi…
+
+# Legno più scuro, sollevato a circa un piede dal suolo, su un intaglio…
+
+Lo stesso vale per questo lucchetto: era d’argento, anche se annerito dal tempo.
+
+Ciascuna estremità presentava i resti imperfetti di maniglie anch’esse d’argento, rotte.
+
+#Forse prematuramente, a causa di una violenza strana… E, al centro di tutto,
+
+Il coperchio era un misterioso codice, realizzato nello stesso metallo. Catherine si chinò su di esso.
+
+Con attenzione, ma senza riuscire a distinguere nulla con chiarezza.
+
+Certezza… Non riusciva, in nessuna direzione che prendesse, a crederci davvero.
+
+L’ultima lettera che dovrebbe essere una “T”; eppure potrebbe essere qualcos’altro…
+
+Quella [[house|casa]] rappresentava una situazione che non poteva suscitare alcun tipo di reazione comune.
+
+# Sorpresa… Se non era originariamente loro, attraverso quali strani eventi potrebbe essere finito nelle loro mani?
+
+È entrato a far parte della famiglia Tilney?
+
+
+
+La sua curiosità timorosa cresceva di momento in momento; e, afferrando l’occasione…
+
+Con mani tremanti, afferrò la serratura e decise di procedere a tutti i rischi.
+
+Per potersi almeno assicurare di conoscere il contenuto… Con difficoltà, però.
+
+Qualcosa sembrava opporsi ai suoi sforzi; sollevò il coperchio un po’…
+
+“Centimetri… ma in quel momento si sentì improvvisamente bussare alla porta della stanza.”
+
+“La fece allentare la presa, e il coperchio si chiuse con un rumore inquietante…”
+
+Violenza… Questo intruso inopportuno era la cameriera di Miss Tilney, inviata da lei.
+
+#La padrona di casa che possa essere d’aiuto alla signorina Morland… e sebbene Catherine, immediatamente…
+
+La liquidò, ma quel gesto la riportò alla consapevolezza di ciò che doveva essere.
+
+Facendolo, la costrinse, nonostante il suo ansioso [[Desire|desiderio]] di comprendere tutto ciò.
+
+#Mistero… per proseguire con i suoi vestiti senza ulteriori ritardi. Il suo procedimento…
+
+Non fu veloce, perché i suoi pensieri e i suoi occhi erano ancora fissi su…
+
+Un oggetto così ben calcolato per suscitare interesse e allarme. Eppure, sebbene osasse.
+
+Non sprecare nemmeno un momento per un secondo tentativo: non le restava molto tempo.
+
+“Con passi decisi… Alla fine, però, dopo aver infilato un braccio…”
+
+Il suo abito, il suo trucco sembravano quasi pronti… L’impazienza era evidente.
+
+La sua curiosità poteva essere soddisfatta senza problemi… Sicuramente ci sarebbe stato un momento adatto per farlo.
+
+“Salvata… eppure lo sforzo richiesto per esercitare tutta la sua forza dovrebbe essere estremamente disperato…”
+
+A meno che non sia protetta con mezzi [[Supernatural|sovrannaturali]], quel coperchio potrebbe aprirsi da un momento all'altro.
+
+Rinviata indietro… Con questo spirito si lanciò in avanti, piena di fiducia.
+
+Non l’ha ingannata. Il suo sforzo risoluto è riuscito ad alzare il coperchio e a far vedere ciò che c’era sotto.
+
+Ai suoi occhi stupiti apparve una coperta bianca di cotone…
+
+Ripiegata, riposta all'estremità dell’armadio, in possesso indiscusso di qualcuno!
+
+
+
+# Lei lo stava fissando con un primo sorriso di stupore quando la signorina Tilney…
+
+“Ansiosa che la sua amica fosse pronta, entrò nella stanza…”
+
+# La vergogna crescente di aver ospitato, per qualche minuto, qualcosa di assurdo
+
+# Aspettativa… e poi la vergogna di essere scoperti in un’attività così futile.
+
+“Che strano vecchio baule… vero?” disse la signorina Tilney.
+
+“Lo chiuse in fretta e si voltò verso il bicchiere. ‘È…’”
+
+È impossibile dire quante generazioni siano passate da quando si trova qui… Come sia arrivato…
+
+Non so quando sia stato messo per la prima volta in questa stanza, ma non l’ho mai fatto spostare da allora.
+
+#Perché pensavo che a volte potesse essere utile per tenere i cappelli…
+
+Cappelli. Il peggio è che il loro peso rende difficile aprirli.
+
+“In quel angolo, per lo meno non dà fastidio.”
+
+
+
+“Catherine non aveva tempo per parlare: arrossiva immediatamente e si affrettava a…”
+
+Abito da sera… e prendere decisioni sagge con la massima determinazione. Signorina…
+
+Tilney le accennò dolcemente al suo [[Fear|timore]] di arrivare in ritardo; e in mezzo minuto.
+
+Corsero insieme giù per le scale, con un allarme non del tutto infondato… per il generale.
+
+# Tilney camminava avanti e indietro nel salotto, con l’orologio in mano…
+
+Nel preciso istante in cui entrarono, suonarono il campanello con forza.
+
+“La cena deve essere pronta immediatamente!”
+
+
+
+#Catherine tremava per l’intonazione decisa con cui lui parlava; sedeva pallida…
+
+Senza fiato, con un atteggiamento estremamente umile, preoccupato per i suoi figli…
+
+“Detestando gli antichi armadi… E il Generale, riprendendo la sua cortesia…”
+
+La guardò e trascorse il resto del suo [[Time|tempo]] rimproverando sua figlia per.
+
+“Così sciocamente affrettandosi per aiutare la sua cara amica, che era completamente senza fiato…”
+
+#In fretta, quando non c’era alcun motivo di affrettarsi
+
+Mondo, ma Catherine non riusciva affatto a superare quella doppia sofferenza.
+
+#Essersi immischiata nella vita della sua amica e essersi comportata come una vera sciocca
+
+#Se stessa, fino a quando non si furono seduti felicemente intorno al tavolo da pranzo…
+
+Il sorriso compiaciuto del generale… e il suo stesso appetito robusto… tutto tornò alla normalità.
+
+“Portarla alla pace… La sala da pranzo era una stanza nobile, adatta per…”
+
 
 
 <span class="atom-split" data-atom="chapter_22--part_02" data-title="Northanger Abbey — Chapter 21 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/fire,motif/journey,motif/night,motif/sleep,motif/time,motif/wind,motif/window,concept/courage,concept/honour,character/general_tilney"></span>
@@ -26771,6 +31372,167 @@ had heard three proclaimed by all the clocks in the [[house]] before the
 tempest subsided or she unknowingly fell fast asleep.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Stupore senza fiato. Il [[Wind|vento]] ruggiva giù per la canna fumaria, la pioggia batteva forte.
+
+“Torrenti che battevano contro le finestre… e tutto sembrava parlare…”
+
+La terribilità della sua situazione… Tuttavia, andare a letto senza essere soddisfatta…
+
+Un simile tentativo sarebbe vano, poiché il [[Sleep|sonno]] diventerebbe impossibile in quelle circostanze.
+
+#La consapevolezza di un armadio chiuso misteriosamente così vicino a lei
+
+Nelle vicinanze. Di nuovo, quindi, si concentrò sulla chiave e, dopo…
+
+#Muovendolo in ogni modo possibile, per alcuni istanti, con determinazione…
+
+Con la velocità dell’ultimo sforzo della [[Hope|>speranza]], la porta si aprì improvvisamente al suo tocco.
+
+Il suo cuore si gonfiò di gioia per una vittoria del genere… e dopo averlo fatto, continuò…
+
+#Aprire ogni porta pieghevole… la seconda è fissata soltanto da bulloni poco resistenti…
+
+Una costruzione meravigliosa… sebbene, con i suoi occhi, non potesse vederla chiaramente.
+
+Non notando nulla di insolito, apparve una [[Double|>doppia]] serie di piccoli cassetti.
+
+# Armadietto con cassetti più grandi sopra e sotto; al centro…
+
+Una piccola porta, chiusa anch’essa con una serratura e una chiave, completamente sicura.
+
+Probabilità di sviluppare una carie di rilevanza.
+
+
+
+Il cuore di Catherine batteva velocemente, ma il suo [[Courage|coraggio]] non la tradì. Con un.
+
+Le guance arrossite dalla [[Hope|>speranza]], e uno sguardo pieno di curiosità. Le sue dita.
+
+# Afferrò la maniglia di un cassetto e lo tirò fuori. Era completamente…
+
+“Empty… Con minore allarme e maggiore impazienza, afferrò un secondo oggetto…”
+
+Terzo, quarto… ognuno era ugualmente vuoto. Nessuno di essi fu lasciato inesplorato.
+
+E in nessuno di essi fu trovato nulla. [[Well|Beh]], si legge nell’arte del nascondere.
+
+Titolo:  
+“Tesoro… la possibilità che le tasche interne dei cassetti fossero finte…”
+
+“Non riusciva a sfuggirle; la sua presenza era ovunque, percepita con un’ansiosa acutezza… ma invano.”
+
+Il luogo situato al centro, [[Alone|solo]], rimaneva ancora inesplorato; e nonostante lei avesse.
+
+# Mai, fin dall’inizio, ho avuto la minima idea di poter trovare qualcosa…
+
+“Parte del gabinetto… e non fu affatto delusa dal suo comportamento.”
+
+Considerando il [[success|successo]] ottenuto finora, sarebbe sciocco non analizzarlo attentamente.
+
+Mentre lo stava facendo. Tuttavia, trascorse un po’ di [[Time|tempo]] prima che riuscisse a farlo.
+
+#Aprire la porta… La stessa difficoltà si presenta nella gestione di…
+
+# Questo lucchetto interno, proprio come quello esterno… ma alla fine si aprì comunque; e non…
+
+Inutile, come sempre, fu la sua ricerca; i suoi occhi acuti individuarono immediatamente…
+
+# Un rotolo di carta spinto nella parte più remota della cavità
+
+A quanto pare, lo faceva per nascondere qualcosa… E i suoi sentimenti in quel momento erano…
+
+Indescrivibile… Il suo cuore batteva all’impazzata, le ginocchia le tremavano e le guance…
+
+Il suo viso impallidì. Con una mano tremante, afferrò il prezioso manoscritto.
+
+Bastava un’occhiata per leggere chiaramente i caratteri scritti; e mentre…
+
+# Riconobbe con terribili sensazioni questa straordinaria dimostrazione…
+
+Come aveva previsto Henry, decise immediatamente di leggere ogni singola riga di quel testo.
+
+Cercò di riposare.
+
+
+
+La debole luce emessa dalla sua candela la spinse ad avvicinarsi ancora di più…
+
+“Allarme… ma non c’era alcun pericolo che si estinguesse improvvisamente: era ancora lì.”
+
+Alcune ore da trascorrere… e affinché non incontrasse ulteriori difficoltà
+
+# Nel distinguere lo stile di scrittura da quanto possa indicare la sua data antica…
+
+Durante quell’occasione, lo spense in fretta. Ahimè… fu spento e estinto.
+
+In un istante. Nessuna lampada avrebbe potuto spegnersi con un effetto più terribile.
+
+# Catherine, per alcuni momenti, rimase immobile per lo spavento… Era finito.
+
+Del tutto; nemmeno un residuo di luce nella stoppina poteva offrire [[Hope|>speranza]].
+
+Riacquistando il respiro. Oscurità impenetrabile e immobile riempiva la stanza.
+
+Un violento soffio di [[Wind|vento]], che si alzò improvvisamente con furia, aggiunse un nuovo elemento di terrore alla situazione.
+
+Il momento… Catherine tremava dalla testa ai piedi. Nel silenzio che seguì…
+
+#"Risultato ottenuto… Un suono simile al rumore di passi che si allontanano e al chiudersi di qualcosa lontano…"
+
+La porta le batté contro l’orecchio spaventato. La natura umana non poteva sopportare oltre.
+
+Una fredda goccia di sudore le apparve sulla fronte; il manoscritto le cadde di mano.
+
+“E, barcollando verso il letto, vi saltò dentro di fretta, cercando qualcosa…”
+
+#Il sollievo dall’agonia: nascondersi completamente sotto i vestiti. Per chiudere…
+
+I suoi occhi, nel [[Sleep|sonno]] di quella [[Night|notte]], sembravano essere completamente fuori dal mondo.
+
+#Domanda… Con una curiosità così giustamente suscitata, e sentimenti in ogni…
+
+Così agitato, il riposo deve essere assolutamente impossibile. Anche la [[Storm|tempesta]] lo è.
+
+All’estero, era così terribile. Non era abituata a provare paura per il [[Wind|>vento]], ma.
+
+Ora ogni esplosione sembrava essere carica di una terribile intelligenza… Il manoscritto
+
+“Trovato in modo meraviglioso… e che realizza perfettamente gli obiettivi della mattina.”
+
+# Predizione: come poteva essere spiegata? Cosa poteva contenere?
+
+A chi potrebbe riferirsi? Con quali mezzi è stato possibile che durasse così a lungo?
+
+Nascosto… E quanto strano che sia toccato proprio a lei trovarlo.
+
+Scopritelo! Finché non avrà imparato a conoscere appieno il suo contenuto…
+
+Tuttavia, non riusciva né a riposare né a trovare conforto; e con l’arrivo del sole…
+
+#Prime luci… decise di leggerlo attentamente. Ma ce n’erano molte, davvero noiose…
+
+“Le ore che ancora devono trascorrere… Lei rabbrividì, agitandosi nel letto.”
+
+E invidiava ogni persona che dormiva serenamente. La [[Storm|tempesta]] continuava a imperversare, e le conseguenze erano molteplici.
+
+Quei rumori, ancora più terribili del [[Wind|vento]] che soffiava a intervalli regolari.
+
+“Sul suo orecchio sorpreso… Per un attimo, persino le tende del suo letto sembrarono…”
+
+In movimento… e in un altro momento, la serratura della sua porta si muoveva, come se qualcuno stesse cercando di aprirla.
+
+#Il tentativo di qualcuno di entrare… Mormori vuoti sembravano diffondersi intorno
+
+La galleria. E più di una volta il suono di quel rumore le fece gelare il sangue.
+
+Lamenti lontani… Ora dopo ora trascorrevano, e la stremata Catherine…
+
+Aveva sentito tre suoni annunciati da tutti gli orologi della [[house|>casa]] prima che.
+
+La tempesta si placò o lei, senza accorgersene, cadde profondamente addormentata.
+
 
 
 <span class="atom-split" data-atom="chapter_23--part_01" data-title="Northanger Abbey — Chapter 22 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/clock,motif/dust,motif/fire,motif/flowers,motif/love,motif/night,motif/rose,motif/time,motif/well,motif/wind,motif/window,concept/hope,character/speed"></span>
@@ -26974,6 +31736,210 @@ my sister a pleasant mode of instruction?”
 
 Catherine was saved the embarrassment of attempting an answer by the
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 22
+
+
+
+
+
+La cameriera stava richiudendo le persiane della finestra alle otto in [[Clock|ora]].
+
+Il giorno seguente, fu un suono a svegliare per prima cosa Catherine; lei aprì…
+
+# Occhi che si chiedono come abbiano mai potuto essere chiusi, fissi su oggetti…
+
+Allegria; il suo [[Fire|entusiasmo]] era già vivo, e una splendida mattina aveva iniziato.
+
+Seguì la tempesta della [[Night|notte]]. In un istante, con.
+
+# Consapevolezza dell’esistenza: il ritorno dei suoi ricordi
+
+# Manoscritto… e che si alza dal letto nel preciso istante in cui la cameriera…
+
+Mentre se ne andava, raccolse con impazienza ogni foglio sparpagliato che si era staccato…
+
+# Dal rumore che fa cadendo a terra… e poi torna indietro per godersi di nuovo il momento.
+
+Il piacere di leggere, sdraiata sul proprio cuscino… Ora capiva chiaramente che…
+
+Non si può certo aspettarsi un manoscritto della stessa lunghezza data la natura generale del contenuto…
+
+Titolo:  
+Quello di cui aveva tremato leggendo nei libri… quel ruolo che sembrava essere composto da…
+
+Composto interamente da piccoli fogli disconnessi, era del tutto insignificante.
+
+Dimensioni molto più piccole di quanto avesse immaginato all’inizio.
+
+
+
+Il suo sguardo avido scorreva rapidamente su una pagina; iniziò dalla parte più importante.
+
+“Potrebbe essere possibile… o forse i suoi sensi l’hanno ingannata?”
+
+Elenco della biancheria, scritto in caratteri grossolani e moderni… sembrava essere tutto ciò che c’era.
+
+# Era davanti a lei! Se si potesse fidare della testimonianza dei propri occhi, allora…
+
+Titolo:  
+Con il conto del lavaggio in mano, ne prese un altro e vide la stessa cosa…
+
+# Articoli con poca variazione: un terzo, un quarto e un quinto
+
+Non presentava nulla di nuovo: camicie, calze, cravatte e gilet… tutti elementi già esistenti.
+
+“Her in each… Altre due, scritte dalla stessa mano, indicavano delle spese.”
+
+# A malapena più interessante… in lettere, cipria per capelli, stringhe da scarpe e…
+
+“Breeches-ball… E la grande carta che racchiudeva il resto.”
+
+“Sembrava, dalla prima riga scritta, trattarsi di un consiglio per applicare un impacco di castagne sul petto dei cavalli: un suggerimento tipico di un ferratore…”
+
+“Bill! Ecco l’insieme di quei documenti… Lasciati forse lì, perché lei non è riuscita a…”
+
+Titolo:  
+Allora supponiamo che, a causa della negligenza di una domestica nel luogo dove si trovava…
+
+# Avevano preso quelle cose… Cose che avevano riempito il suo cuore di aspettative e preoccupazioni.
+
+Le ha rubato metà del riposo della sua [[Night|notte]]. Si sentiva umiliata fino al fondo dell’anima.
+
+#Non avrebbe forse l’avventura di quel baule potuto insegnarle saggezza? Un angolo…
+
+“Di esso, qualcosa che attirò il suo sguardo mentre giaceva, sembrava ergersi come un giudizio su di lei…”
+
+Contro di lei… Ora non c’era nulla di più chiaro dell’assurdità della sua situazione.
+
+Recenti fantasie… Supporre che un manoscritto risalente a molte generazioni fa possa ancora contenere informazioni utili…
+
+#Avrebbe potuto rimanere sconosciuto in una stanza del genere, così moderna…
+
+Abitabile! – O forse lei sarà la prima ad acquisire questa abilità…
+
+Aprire un armadio la cui chiave era accessibile a tutti.
+
+
+
+Come ha potuto imporsi una cosa del genere? Per l’amor di Dio, che non succeda a Henry…
+
+“Che Tilney possa mai conoscere la sua follia… E in gran parte, questa follia fu causata da lui.”
+
+Colpa sua, perché se il gabinetto non avesse espresso un parere così totalmente in linea…
+
+#La sua descrizione delle sue avventure… Non avrebbe mai dovuto sentirsi così.
+
+Nessuna curiosità, nemmeno la più piccola, al riguardo. Questo era l’unico conforto che mi veniva in mente.
+
+Impaziente di sbarazzarsi di quelle odiose prove della sua follia, quelle…
+
+Quei fogli orribili sparsi sul letto, lei li raccolse immediatamente e.
+
+Ripiegarli il più possibile nella stessa forma di prima.
+
+Li rimise nello stesso posto all’interno dell’armadio, con grande soddisfazione.
+
+#Che nessun incidente sfortunato li riporti mai di nuovo l’uno davanti all’altro…
+
+Macchiarla di disonore anche ai suoi occhi stessi.
+
+
+
+Perché le serrature fossero così difficili da aprire, comunque…
+
+Qualcosa di straordinario: ora riusciva a gestirli con estrema facilità.
+
+# In questo c’era sicuramente qualcosa di misterioso… e lei si lasciò trasportare da quel fascino.
+
+# Una proposta lusinghiera… per mezzo minuto, fino al momento in cui diventa possibile…
+
+La porta era stata lasciata aperta fin dall’inizio… e lei stessa ne era la causa.
+
+Un fermaglio le balenò nella mente, facendola arrossire di nuovo.
+
+
+
+#Se ne andò non appena poté, da una stanza nella quale il suo comportamento…
+
+Produceva riflessioni così sgradevoli, e si diresse verso la sua meta con tutta la [[Speed|velocità]] possibile.
+
+“Nella sala da pranzo, come le era stato indicato dalla signorina…”
+
+La sera prima, Tilney era lì dentro da solo; e i suoi immediati.
+
+Con la speranza che lei non fosse stata disturbata dalla tempesta, con un arco.
+
+Titolo:  
+La riferenza al carattere dell’edificio in cui vivevano era piuttosto…
+
+Distressante… Perché non vorrebbe affatto che qualcuno sospettasse della sua debolezza?
+
+Eppure, inferiore anche a una falsità assoluta, fu costretto a…
+
+Ammise che il [[Wind|>vento]] l’aveva tenuta sveglia per un po’. “Ma abbiamo, ”
+
+“Una mattina incantevole, dopo tutto…”, aggiunse, desiderosa di liberarsi di quel pensiero.
+
+Soggetto: “E tempeste e insonnie non sono nulla quando sono passate.”
+
+Che bei iris! Ho appena imparato ad [[Love|amare]] l’iris.
+
+
+
+“E come potresti imparare? Per caso o attraverso il ragionamento?”
+
+
+
+“Tua sorella me l’ha insegnato… Non so proprio come abbia fatto. La signora Allen aveva l’abitudine di…”
+
+“Ci provano anno dopo anno, a farmi che li apprezzi… Ma non ci sono mai riusciti, fino a quando…”
+
+Li ho visti l’altro giorno in Milsom Street… Naturalmente, non mi interessa affatto.
+
+riguardo alle [[Flowers|>fiori]].”
+
+
+
+“Ma ora ami un iris. Meglio ancora così: hai acquisito qualcosa di nuovo.”
+
+Fonte di gioia, ed è davvero bene disporre di quante più opportunità possibili.
+
+La felicità possibile. Inoltre, avere un debole per le [[Flowers|>fiori]] è sempre desiderabile.
+
+#In tuo sesso, come mezzo per farti uscire di casa e tentarti…
+
+#Ad un esercizio fisico più frequente di quanto altrimenti facciamo… E sebbene…
+
+L’amore per un iris potrebbe essere piuttosto “domestico”; chi può dirlo, quel sentimento.
+
+Una volta piantata, forse col tempo si arriverà ad amare una [[Rose|rosa]]?
+
+
+
+“Ma non voglio che nessuna di queste attività mi costringa ad uscire di casa.”
+
+Il piacere di camminare e respirare aria fresca è sufficiente per me… e basta.
+
+Con il bel tempo, passo più della metà del mio [[Time|tempo]] all’aperto. Mia madre dice che non sono mai.
+
+“All’interno”.
+
+
+
+“In ogni caso, sono felice che tu abbia imparato ad [[Love|amare]], ”
+
+Iside. Il semplice atto di imparare ad [[Love|amare]] è ciò che conta; e.
+
+La docilità di carattere in una giovane signorina è davvero una grande benedizione.
+
+“Mia sorella… un modo piacevole di insegnare?”
+
+
+
+# Catherine fu risparmiata dall’imbarazzo di dover cercare una risposta…
 
 
 
@@ -27459,6 +32425,292 @@ instance of his anxiety to delay what she so much wished for struck
 Catherine as very remarkable.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Anche nel mese di marzo, privo di foglie… Catherine non aveva visto nulla che potesse indicare…
+
+“Non c’è niente di paragonabile; e i suoi sentimenti di gioia erano così intensi…”
+
+Senza aspettare alcuna autorizzazione superiore, si lanciò coraggiosamente nella…
+
+Stupore e lodi. Il generale ascoltava con gratitudine e approvazione; e.
+
+Sembrava che la sua stessa valutazione di Northanger fosse rimasta in attesa, senza una conclusione definitiva.
+
+fino a quell’ora.
+
+
+
+Il giardino-cucina era il prossimo da ammirare; lui ci guidò.
+
+Attraverso una piccola parte del parco.
+
+
+
+Il numero di acri contenuti in questo [[Garden|giardino]] era tale che, come disse Catherine.
+
+Non riuscivo ad ascoltare senza disperazione, poiché la durata era più del doppio.
+
+Di tutte le proprietà del signor Allen, così come quelle di suo padre, compresi il cimitero e.
+
+#Orto frutteto. Le mura sembravano innumerevoli, interminabili nella loro lunghezza…
+
+Il villaggio delle serra sembrava emergere tra di loro, insieme a un’intera parrocchia…
+
+“Al lavoro all’interno della recinzione… Il Generale era lusingato dal suo aspetto.”
+
+# Una sorpresa che gli disse, in modo altrettanto chiaro, quanto lui stesso riuscì presto a farle capire
+
+"Digli chiaramente che non ha mai visto giardini paragonabili a quello."
+
+Li aveva già conosciuti prima; e poi ammise modestamente che, “senza alcuna [[Ambition|ambizione]] di, ”
+
+Si comportava in quel modo senza alcuna preoccupazione al riguardo… Credeva davvero in quelle cose.
+
+Ineguagliabile nel regno. Se avesse avuto un hobby, sarebbe stato quello di cavalcare i cavalli.
+
+_Lui_ amava un [[Garden|giardino]]. Anche se, nella maggior parte delle cose, era abbastanza negligente.
+
+# Mangiando, amava i frutti buoni… o forse no, ma i suoi amici e i suoi figli sì.
+
+C'erano però grandi difficoltà e problemi legati alla cura di un giardino del genere.
+
+Anche la massima cura non riesce sempre a garantire i frutti più preziosi.
+
+Il pino aveva prodotto soltanto cento frutti nell’ultimo anno… Il signor Allen, lui…
+
+Si presume che debba provare questi inconvenienti tanto quanto lui stesso.
+
+
+
+“No, affatto. A Mr. Allen non importava nulla del [[Garden|giardino]], e mai, ”.
+
+“Ci si è immischiati.”
+
+
+
+Con un sorriso trionfante di [[Self|auto-soddisfazione]], il Generale desiderò.
+
+# Potrebbe fare lo stesso… perché lui non entrava mai nella sua stanza senza sentirsi infastidito.
+
+In qualche modo, perché non riusciva a realizzare il suo piano.
+
+
+
+“Come funzionavano le case di successione del signor Allen?” descrivendo la loro [[Nature|natura]]
+
+Della propria volontà, mentre le entravano.
+
+
+
+Il signor Allen aveva soltanto una piccola casa riscaldata, che la signora Allen poteva utilizzare a piacimento.
+
+Per prendersi cura delle sue piante durante l’[[Winter|inverno]], ogni tanto vi accendeva un [[Fire|fuoco]].
+
+
+
+“È un uomo felice!”, disse il generale, con un’espressione di grande gioia.
+
+Disprezzo.
+
+
+
+# Portandola in ogni angolo, guidandola dietro ogni muro…
+
+#Fino a quando lei non ne ebbe abbastanza di guardare e chiedersi… Lui continuò a soffrire.
+
+Le ragazze, finalmente, approfittano di una porta esterna… e poi…
+
+Esprimendo il desiderio di esaminare gli effetti di alcune modifiche recenti
+
+Riguardo alla casa del tè, fu proposta come un’espansione positiva delle loro attività.
+
+“Camminerei, se la signorina Morland non fosse stanca… Ma dove stai andando?”
+
+[[Eleanor]]? Perché scegli quel sentiero freddo e umido per raggiungerlo? Signorina Morland.
+
+“Si bagnerà… Il modo migliore per attraversare è passando dal parco.”
+
+
+
+“Questa è una passeggiata che mi piace molto,” disse la signorina Tilney, “che faccio sempre…”
+
+“Consideralo il modo migliore e più appropriato… Ma forse potrebbe risultare un po’ umido.”
+
+
+
+# Un sentiero stretto e tortuoso attraverso un fitto bosco di vecchi abeti scozzesi
+
+#E Catherine, colpite dal suo aspetto cupo e desiderose di entrarvi…
+
+Non poté, nemmeno di fronte all’opposizione del Generale, trattenersi dal fare ciò che voleva.
+
+Avanti… Percepì la sua inclinazione e, dopo aver nuovamente sollecitato quella richiesta, procedette.
+
+#Di una salute vana… troppo educato per opporsi ulteriormente. Lui
+
+Si scusò, tuttavia, di non poter partecipare: “I raggi del sole…”
+
+Il titolo non sembra essere molto allegro… Lui li avrebbe incontrati in un altro modo.
+
+“Corso…” Si allontanò; e Catherine rimase scioccata nel rendersi conto di quanto…
+
+Il distacco riuscì a sollevare gli animi… Tuttavia, lo shock rimase comunque minore.
+
+#Più reale della realtà… non le causò alcun danno; e lei iniziò a parlare con…
+
+La facile allegria della deliziosa [[Melancholy|melancolia]] che un simile giardino ispirava.
+
+
+
+“Mi piace particolarmente questo posto,” disse il suo compagno, sospirando.
+
+“Era il sentiero preferito di mia madre.”
+
+
+
+# Catherine non aveva mai sentito parlare della signora Tilney in famiglia prima d’allora.
+
+E l’interesse suscitato da questo tenero ricordo si fece evidente
+
+Direttamente nel suo volto alterato, e nella pausa attenta che seguì…
+
+di cui lei aspettava qualcosa in più.
+
+
+
+“Camminavo spesso qui con lei!” aggiunse [[Eleanor]]; “anche se mai, ”
+
+Me ne sono innamorato allora, e me ne sono innamorato ancora da allora. In quel [[Time|momento]], infatti, lo usavo spesso.
+
+Stupore per la sua scelta. Ma ora, grazie alla sua [[Memory|memoria]], quel ricordo le è diventato caro.
+
+
+
+“E non dovrebbe forse,” rifletté Catherine, “farglielo amare ancora di più dal marito?”
+
+“Eppure il generale non volle entrarvi”, continuò Miss Tilney in silenzio.
+
+Osò dire: “La sua [[Death|morte]] deve essere stata una grande sofferenza, ”
+
+
+
+“Un numero grande e in continuo aumento”, rispose l’altro a bassa voce. “Io ero…”
+
+Avevo solo tredici anni quando è successo; e sebbene sentissi la mia perdita in modo particolare…
+
+Con tutta la forza che un ragazzo così giovane potesse provare, io non ci riuscii… Non potevo farlo.
+
+“Che perdita terribile…” Si fermò per un momento, poi aggiunse:
+
+Con grande fermezza: “Non ho sorelle, lo sai… e anche se…”
+
+#Henry… sebbene i miei fratelli siano molto affettuosi, e Henry sia davvero un bravo ragazzo…
+
+Titolo:  
+“Un aiuto che apprezzo molto; non posso certo non ringraziarlo.”
+
+“Spesso si trova solo.”
+
+
+
+“Di certo devi sentirti molto mancare…”
+
+
+
+“Una madre sarebbe stata sempre presente… Una madre avrebbe rappresentato una guida sicura.”
+
+“Un’amica fedele: la sua influenza sarebbe stata senza pari.”
+
+
+
+“Era davvero una donna molto affascinante? Era bella? Esisteva qualche sua foto?”
+
+“Di lei nell’abbazia… E perché provava un tale affetto per quel boschetto?”
+
+“È dovuto alla disperazione d’animo?”, erano domande che ora venivano poste con grande interesse.
+
+I primi tre ricevettero un immediato assenso; gli altri due, invece…
+
+Passato… e l’interesse di Catherine per la defunta signora Tilney
+
+Aumentato da ogni domanda, risposta o meno… Di lei.
+
+Infelicità nel [[Marriage|matrimonio]]. Lei si sentì convinta. Il Generale, di certo, aveva.
+
+È stato un marito crudele. Non gli piaceva il modo in cui camminava. Quindi, forse.
+
+#L’ho mai amata davvero? E poi, nonostante fosse attraente, c’era qualcosa…
+
+Dai tratti del suo viso si capiva chiaramente che non si era comportato bene.
+
+lei.
+
+
+
+“La sua immagine, suppongo…”, arrossendo di fronte all’arte raffinata che lei stessa aveva realizzato.
+
+“La domanda… è appesa nella stanza di tuo padre?”
+
+
+
+"No; era destinato al salotto… ma mio padre…”
+
+Insoddisfatto di quel dipinto, per un certo [[Time|periodo]] non ebbe nessun posto dove essere esposto. Presto.
+
+Dopo la sua [[Death|morte]], l’ho preso per me e l’ho appeso nel mio.
+
+#Camera da letto… dove sarò felice di mostrarvela; assomiglia molto a quella descritta.
+
+Ecco un’altra prova: un ritratto… molto simile… di una moglie defunta.
+
+Apprezzata dal marito. Deve essere stato terribilmente crudele con lei!
+
+
+
+Catherine non cercò più di nascondersi la vera natura della situazione.
+
+Titolo:  
+Sentimenti che, nonostante tutte le sue attenzioni, lei aveva comunque…
+
+# Eccitato; ciò che prima era terrore e avversione, ora era assoluto.
+
+Avversione… Sì, avversione! La sua crudeltà verso una donna così incantevole lo portò…
+
+Odioso per lei… Aveva spesso letto di personaggi del genere, personaggi che…
+
+# Mr. Allen era abituato a considerare tali espressioni artificiali e eccessive; ma in questo caso…
+
+Una prova concreta del contrario.
+
+
+
+# Appena avevano chiarito questa questione, la fine del sentiero li portò…
+
+# Direttamente addosso al Generale; e nonostante tutta la sua virtù…
+
+#Indignazione… si ritrovò di nuovo costretta a camminare con lui, ad ascoltare…
+
+A lui, e persino sorridere quando lui sorrideva… Non essendo più in grado di farlo.
+
+Tuttavia, per trarre piacere dagli oggetti che la circondavano, presto…
+
+Iniziò a camminare con aria stanca; il Generale se ne accorse e…
+
+#Preoccupazione per la sua salute, che sembrava rimproverarla per il suo punto di vista
+
+Per lui, era estremamente urgente tornare con sua figlia nella [[house|>casa]]. Lui.
+
+Li avrebbe seguiti tra un quarto d’ora. Di nuovo si separarono… ma
+
+[[Eleanor]] fu richiamata dopo mezzo minuto per ricevere un severo rimprovero.
+
+“Contro il fatto di portare la sua amica in giro per l’abbazia fino al suo ritorno… Questo secondo aspetto…”
+
+# Un esempio della sua ansia nel voler ritardare ciò che lei desiderava ardentemente
+
+Catherine era davvero straordinaria.
+
 
 
 <span class="atom-split" data-atom="chapter_24--part_01" data-title="Northanger Abbey — Chapter 23 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/clock,motif/spring,motif/time,motif/well,concept/conscience,concept/pride,concept/vanity,setting/court"></span>
@@ -27648,6 +32900,196 @@ the utmost. How they could get through it all had often amazed Mrs.
 
 Allen; and, when Catherine saw what was necessary here, she began to be
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 23
+
+
+
+
+
+Trascorse un’ora prima che il generale entrasse; nel frattempo…
+
+Il suo giovane ospite, considerando il suo carattere, non era affatto una persona positiva.
+
+“Questa lunga assenza, queste solitarie escursioni, non riflettevano alcun pensiero concreto…”
+
+In pace, o con una [[Conscience|coscienza]] priva di rimorsi. Alla fine apparve; e.
+
+Qualunque fosse la tristezza delle sue riflessioni, lui riusciva comunque…
+
+# Sorridi con loro… La signorina Tilney, comprendendo in parte le intenzioni della sua amica…
+
+La curiosità di vedere quella [[house|casa]] fece presto rivivere l’argomento; e suo padre.
+
+#Senza nulla, contrariamente alle aspettative di Catherine
+
+Titolo:  
+Falsa scusa per ulteriori ritardi, oltre a quella di fermarsi per cinque minuti…
+
+Finalmente pronto: ordinare che i rinfreschi siano pronti nella stanza al loro ritorno.
+
+per scortarli.
+
+
+
+Partirono; e con un portamento maestoso, con passi dignitosi…
+
+Attirò l’attenzione, ma non riuscì a dissipare i dubbi di chi era ben informato.
+
+#Catherine: lo guidò attraverso il corridoio, oltre la sala comune
+
+#Una sala maestosa e un’anticamera inutile… trasformate in una stanza davvero magnifica
+
+In termini di dimensioni e arredi… la vera sala da pranzo, utilizzata soltanto in presenza di ospiti.
+
+Conseguenza… Era molto nobile, molto maestoso, molto affascinante… Tutto ciò.
+
+"Catherine dovette ammettere che, con il suo sguardo poco selettivo, faticava a distinguere le differenze..."
+
+Il colore del raso… e tutta la delicatezza delle lodi, tutte le lodi che…
+
+Il titolo aveva molto significato; fu fornito dal Generale: il costo elevato…
+
+L’eleganza dell’arredamento di una stanza non le importava affatto; a lei interessava solo…
+
+Senza alcun mobile più moderno del XV secolo… Quando
+
+Il generale aveva soddisfatto la propria curiosità attraverso un’attenta ispezione…
+
+Ogni ornamento ben noto, proseguirono verso la biblioteca.
+
+Appartamento, a suo modo, di uguale maestosità, che espone una collezione…
+
+Di libri, su cui un uomo umile avrebbe potuto guardare con [[Pride|orgoglio]].
+
+Catherine ascoltava, ammirava e rifletteva con sentimenti davvero sinceri… più di quanto qualsiasi altro avesse mai fatto.
+
+# Raccogliendo tutto ciò che poteva da questo tesoro di conoscenze
+
+Dopo aver scorso i titoli di metà dello scaffale, era pronto a proseguire.
+
+Ma le suite di appartamenti non comparvero certo secondo i suoi desideri. Per quanto grandi fossero.
+
+#Quella era l’edificio: aveva già visitato la maggior parte delle sue parti; tuttavia…
+
+#Essendo stato detto che, con l’aggiunta della cucina, i sei o sette…
+
+Le stanze che aveva visto ora circondavano tre lati del [[Court|cortile]]; poteva.
+
+#A fatica ci credo, o riesco a superare il sospetto che ce ne siano molti
+
+# Segreti nascosti nelle stanze… Tuttavia, fu un certo sollievo sapere che sarebbero stati rivelati.
+
+"Tornare alle stanze di uso comune, passando attraverso alcune meno frequentate..."
+
+L’importanza, osservando la [[Court|>corte]], che, con alcuni passaggi occasionali.
+
+Non del tutto complicato… collegava i vari aspetti tra loro; e lei…
+
+Ancora più rassicurata nel suo percorso, le fu detto che stava procedendo nella giusta direzione.
+
+# Quello che un tempo era stato un chiostro, con tracce di celle ancora visibili…
+
+# Osservando diverse porte che né erano aperte né avevano alcuna spiegazione
+
+# In una sala da biliardo… e poi in un’altra…
+
+Appartamento privato del generale… senza comprendere il loro legame… o
+
+Essere in grado di prendere la direzione giusta quando li ha lasciati; e infine, proseguendo per la propria strada…
+
+# Attraverso una piccola stanza buia, con l’autorità di Henry… e disseminata di…
+
+Il suo mucchio di libri, pistole e cappotti pesanti.
+
+
+
+Dalla sala da pranzo, che, sebbene già vista, rimarrà sempre…
+
+Visto alle cinque in punto, il Generale non poté rinunciare al piacere di.
+
+Calcolare con precisione la distanza, per ottenere informazioni più sicure su Miss…
+
+Morland… riguardo a ciò di cui lei non dubitava né le importava, continuarono il loro percorso.
+
+# Rapida comunicazione con la cucina… la vecchia cucina di…
+
+# Convento, ricco delle imponenti mura e dell’atmosfera di tempi passati…
+
+"Caminetti e armadi riscaldati del presente… La mano del generale, che migliorava sempre di più…"
+
+Non si sofferma qui: ogni invenzione moderna finalizzata a semplificare il lavoro…
+
+I cuochi erano stati “adottati” da questo loro ampio ambiente lavorativo…
+
+# Quando l’ingegno degli altri falliva, il suo riusciva spesso a produrre risultati positivi.
+
+Si cercava la perfezione. Le sue doti, proprio in questo aspetto, avrebbero potuto, in qualsiasi momento.
+
+Lo hanno inserito tra i principali benefattori del convento.
+
+
+
+Con le pareti della cucina finiva tutta l’antichità dell’abbazia;
+
+# Quarta faccia del quadrangolo, in stato di decadenza
+
+Il titolo originale è stato rimosso dal padre del Generale, e quello attuale è stato eretto al suo posto.
+
+Titolo:  
+Tutto ciò che era degno di rispetto finiva qui… L’edificio nuovo, invece, non lo era affatto.
+
+Solo nuovo, ma dichiarato tale; destinato esclusivamente ad uffici.
+
+Titolo:  
+Rinchiuso tra cortili stalle, l’architettura non presentava alcuna uniformità…
+
+Ritenuto necessario… Catherine avrebbe potuto esultare per quella mano che…
+
+#Travolto via ciò che doveva avere un valore ben superiore a tutto il resto…
+
+#Gli scopi di una semplice economia domestica; e avrei volentieri…
+
+# Risparmiato l’umiliazione di dover attraversare luoghi così decaduti…
+
+Il generale lo permise; ma se aveva qualche vana pretesa, riguardava proprio quell’organizzazione.
+
+Titolo:  
+Delle sue funzioni; e poiché era convinto che, per una mente come quella di Miss…
+
+# Morland’s: un’immagine delle strutture e dei comfort offerti…
+
+Il lavoro dei suoi subordinati doveva essere reso più agevole e, in ogni caso, sempre gratificante…
+
+#Non dovrebbero scusarsi per averla illusa… Hanno fatto un rapido esame della situazione.
+
+“Tutti quanti; e Catherine ne rimase colpita, molto più di quanto si aspettasse, dal loro…”
+
+# Molteplicità e le sue utilità: gli scopi per cui alcune cose sono necessarie
+
+“Cucine disordinate e lavanderie scomode erano ritenute sufficienti…”
+
+# Fullerton: diviso in sezioni appropriate e comode
+
+Spazioso e confortevole… Il continuo apparire dei servitori non sembrava destare particolare attenzione.
+
+Ovunque andassero, alcuni di loro…
+
+La ragazza con i tacchi bassi si fermò per fare una riverenza… oppure qualche servitore in abiti casual si intrufolò furtivamente…
+
+Off… Eppure si trattava di un’abbazia! Quanto diversa, in modo indescrivibile…
+
+Titolo: Gli accordi domestici di cui aveva letto parlare… come quelli descritti nelle abbazie.
+
+#Castelli… nei quali, sebbene certamente più grandi di Northanger, tutto è…
+
+Il lavoro sporco della [[house|casa]] doveva essere svolto da due coppie di mani femminili.
+
+Il massimo. Il modo in cui fossero riusciti a superare tutto ciò aveva spesso stupito la signora.
+
+#Allen; e quando Catherine vide cosa fosse necessario fare, iniziò a…
 
 
 
@@ -28367,6 +33809,217 @@ detained, though her dread of further questions made her, for the first
 the gallery. “Have you had any letter from Bath since I saw you?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ufficio di un amico… L’ira più profonda del generale non poteva essere diretta contro di lei.
+
+#Cosa potrebbe significare per una figlia… E, inoltre, pensava che…
+
+L’esame stesso sarebbe più soddisfacente se si svolgesse senza alcun…
+
+Compagno. Sarebbe impossibile spiegare a [[Eleanor]] queste sospetti.
+
+Da cui l’altro, con ogni probabilità, aveva tratto fino ad allora felicità.
+
+Esente; pertanto, nemmeno in sua presenza avrebbe potuto cercarle.
+
+Titolo:  
+Le prove della crudeltà del generale… qualunque esse possano essere.
+
+Riuscita a sfuggire alla scoperta, era certa di poter trovare, da qualche parte, il modo per…
+
+# La forma di un diario frammentato, continuato fino all’ultimo respiro.
+
+Il cammino verso l’appartamento che ormai lei controllava completamente… e mentre vi si dirigeva…
+
+Voleva concludere tutto prima del ritorno di Henry, che era previsto per…
+
+Il giorno dopo, non c'era tempo da perdere. Il cielo era sereno, il suo [[Courage|coraggio]].
+
+Alto; alle quattro di [[Clock|ore]], il sole si trovava già a due ore sopra l’orizzonte.
+
+Sarebbe bastato che lei si ritirasse per vestirsi mezz'ora prima del solito.
+
+
+
+Era fatta; e Catherine si trovò [[Alone|sola]] nella galleria, prima che.
+
+Gli orologi avevano smesso di battere le ore. Non era il momento per pensare, lei.
+
+# Affrettandosi, scivolò via il più silenziosamente possibile attraverso le pieghe…
+
+# porte… e senza fermarsi nemmeno per guardare o respirare, corse avanti verso di esse.
+
+“Una in discussione… La serratura si aprì facilmente al suo tocco, e per fortuna senza problemi.”
+
+Un suono cupo e minaccioso che avrebbe potuto allarmare un essere umano… In punta di piedi, entrò…
+
+La stanza le si parava davanti; ma ci vollero alcuni minuti prima che riuscisse ad avvicinarsi.
+
+Un altro passo… Vide ciò che la fece immobilizzare sul posto e la turbò profondamente.
+
+Caratteristica principale: vide un appartamento di grandi dimensioni, ben proporzionato, davvero bello.
+
+"#Letto piccolo e ordinato, finto di essere vuoto grazie alle cure della cameriera… tutto così luminoso."
+
+#"Caminetto in bagno, armadi in mogano e sedie ben dipinte..."
+
+Caldi raggi del sole al tramonto filtravano gioiosamente attraverso due finestre con inferriate!
+
+Catherine si aspettava che i suoi sentimenti venissero manipolati… E così fu.
+
+Erano. Prima di tutto, li assalirono lo stupore e il [[Doubt|>dubbio]]; e poco dopo.
+
+Un altro barlume di buon senso suscitò in lei profonde emozioni di vergogna. Lei…
+
+Non si poteva sbagliare riguardo alla stanza… ma quanto fosse grave l’errore nella valutazione successiva…
+
+Tutto il resto… nel senso di Miss Tilney, secondo i suoi calcoli personali!
+
+Appartamento… al quale aveva assegnato una data così remota, una posizione così…
+
+Terribile, si rivelò essere soltanto un’estremità di ciò che il padre del generale aveva costruito.
+
+C’erano altre due porte nella stanza, che probabilmente conducevano dentro…
+
+Armadietti per abiti… ma non aveva alcuna voglia di aprirli nemmeno. Forse…
+
+“Il velo sotto cui la signora Tilney è apparsa l’ultima volta, o il libro in cui lei…”
+
+Ciò che ho letto l’ultima volta. Cosa resta da dire se non che nulla altro era permesso sussurrare?
+
+“No: qualunque fossero stati i crimini del generale, di certo…”
+
+“Molta astuzia… per far sì che cercassero di incastrarla con accuse false. Ne aveva abbastanza di tutte quelle indagini e ricerche…”
+
+#Desiderata… ma al sicuro nella propria stanza, con il proprio cuore soltanto per sé.
+
+“Verso la sua follia… E lei stava per ritirarsi il più silenziosamente possibile…”
+
+# Quando era appena entrata, il suono di passi… lei faticava a capire da dove provenisse.
+
+La fece esitare e tremare… Essere trovata lì, anche solo da un servitore, sarebbe stato terribile.
+
+“Non è affatto piacevole… ma grazie al Generale – che sembrava sempre essere lì quando c’era bisogno…”
+
+“Meno desiderata… molto peggio ancora! Ascoltò: il suono era cessato.”
+
+Decisa a non perdere un istante, entrò e chiuse la porta.
+
+In quell’istante, una porta situata in basso fu aperta in fretta; sembrava che qualcuno…
+
+Con passi veloci sale le scale, proprio davanti alle quali si era ancora fermata…
+
+Per raggiungere l’uscita prima che lei potesse arrivarci. Non aveva la forza di muoversi.
+
+# Con un senso di terrore difficile da descrivere, fissò lo sguardo su…
+
+La scala. E dopo pochi momenti, Henry apparve davanti ai suoi occhi. “Signor, ”
+
+“Tilney!”, esclamò con una voce piena di sorpresa insolita. Lui…
+
+Anche lei sembrava stupita. “Dio mio!”, continuò, senza prestargli attenzione.
+
+# Indirizzo: “Come sei arrivato qui? Come hai fatto ad salire quella scala?”
+
+
+
+“Come mai sono salito su quella scala?” rispose, molto sorpreso. “Perché…”
+
+È il percorso più breve dal cortile delle stalle alla mia stanza… E perché no?
+
+“Non dovrei forse avvicinarmi di più?”
+
+
+
+Catherine si riprese, arrossì profondamente e non riuscì a dire altro.
+
+Sembrava cercare nel suo volto quella spiegazione che…
+
+“Il suo viso non rivelava alcuna emozione… Proseguì verso la galleria. ‘E posso?’”
+
+“Non è il mio turno”, disse lui, spingendo indietro le porte pieghevoli, “di chiedere…”
+
+Come sei arrivato qui? Questo percorso è almeno altrettanto straordinario, una vera e propria “strada” unica nel suo genere.
+
+Dalla sala da pranzo al tuo appartamento… perché quella scala può portarti lì.
+
+“Dai stalli alla mia miniera.”
+
+
+
+“Sono stata,” disse Catherine, guardando verso il basso, “a trovare tua madre…”
+
+“Una stanza…”
+
+
+
+“La stanza di mia madre… c’è qualcosa di straordinario lì dentro?”
+
+
+
+"No, nulla affatto. Pensavo che non avessi intenzione di tornare…”
+
+“Domani.”
+
+
+
+“Non mi aspettavo di poter tornare così presto quando me ne sono andato…”
+
+Tre ore fa ho avuto la fortuna di non trovare nulla che mi trattenesse…
+
+#Sembri pallido… Temo di averti spaventato correndo così velocemente su quelle scale.
+
+#Scale. Forse non lo sapevi… Non eri consapevole del loro ruolo fondamentale.
+
+“Dagli uffici comunemente utilizzati…”
+
+
+
+"No, non lo ero. Hai avuto davvero una bella giornata per la tua cavalcata."
+
+
+
+“Certo; e [[Eleanor]] ti lascia libero di esplorare tutte le stanze?”
+
+“Da solo, in quella [[house|casa]]?”
+
+
+
+“Oh no! Mi ha mostrato la parte più importante sabato… e noi…”
+
+“Vienendo in queste stanze… ma solo,” disse sussurrando, “per via di tuo padre.”
+
+“Era con noi.”
+
+
+
+“E questo ti ha impedito di farlo,” disse Henry, guardandola con serietà. “Hai…”
+
+“Hai controllato tutte le stanze in quel corridoio?”
+
+
+
+“No, volevo solo dare un’occhiata… Non è troppo tardi? Devo andare a vestirmi.”
+
+
+
+“Sono solo le quattro e un quarto”, mostrò l’orologio; “e tu non sei ancora…”
+
+“In Bath… Nessun teatro, nessuna stanza da preparare… Mezz’ora soltanto…”
+
+“Northanger basterà.”
+
+
+
+Non poteva contraddirlo, quindi si arrese e lo accettò.
+
+Trattenuta, sebbene la sua paura di ulteriori domande la spingesse, per la prima volta…
+
+Durante il periodo della loro conoscenza, desideravano lasciarlo. Camminarono lentamente verso.
+
+#La galleria. "Hai ricevuto qualche lettera da Bath da quando ci siamo visti?"
+
 
 
 <span class="atom-split" data-atom="chapter_25--part_03" data-title="Northanger Abbey — Chapter 24 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/death,motif/home,motif/memory,motif/nature,motif/pain,motif/silence,motif/spring,motif/tears,motif/time,motif/well,concept/education,concept/honour,concept/nature,concept/wonder,character/eleanor,character/isabella"></span>
@@ -28530,6 +34183,166 @@ They had reached the end of the gallery, and with [[Tears|tears]] of shame she
 
 ran off to her own room.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“No, e sono davvero molto sorpreso. [[Isabella]] aveva promesso con tanta fedeltà, ”
+
+Scrivi direttamente.
+
+
+
+“Promesso con tanta fedeltà… una promessa sincera… ma questo mi lascia perplesso. Ho…”
+
+Ho sentito parlare di un’esecuzione fedele… Ma una promessa fedele… La fedeltà stessa…
+
+Promettente… Ma è un potere di cui poco vale conoscere, visto che può…
+
+Ingannarti e farti soffrire. La stanza di mia madre è molto comoda, vero?
+
+Grandi e dall’aspetto allegra; inoltre, gli armadietti erano disposti in modo davvero ottimale!
+
+Sempre mi sembra l’appartamento più confortevole di tutta la [[house|>casa]].
+
+E io mi chiedo davvero perché [[Eleanor|>Eleanor]] non dovrebbe prenderla per sé. Lei.
+
+“Ti ho mandato a darci un’occhiata, immagino…”
+
+
+
+“No.”
+
+
+
+“È stata tutta colpa tua?” Catherine non disse nulla. Dopo un po’…
+
+Un breve [[Silence|silenzio]], durante il quale l'aveva osservata attentamente, lo interruppe; poi aggiunse: “Poiché, ”
+
+# Non c’è nulla nella stanza che possa suscitare curiosità…
+
+Il titolo si riferisce a un atteggiamento basato sul rispetto per il carattere di mia madre.
+
+Come descritto da [[Eleanor]], il che rende onore alla sua [[Memory|memoria]]. Il mondo.
+
+#Credimi, non ho mai visto una donna migliore… Ma non è frequente che la virtù possa essere così evidente.
+
+# Possied un interesse del genere: i pregi semplici e senza fronzoli di qualcosa…
+
+Una persona mai conosciuta di solito non suscita un tale entusiasmo e rispetto…
+
+Una tenerezza tale da spingere qualcuno a compiere una visita come la tua. Immagino che si tratti di [[Eleanor]].
+
+“Ha parlato molto di lei?”
+
+
+
+“Sì, molto. Cioè… no, non molto, ma quello che ha detto è stato davvero importante.”
+
+“Interessante… Morire in modo così improvviso…” (Disse lentamente, con esitazione.)
+
+“E voi, nessuno di voi era a [[Home|casa]], e vostro padre, ”
+
+“Probabilmente non la stimava molto…”
+
+
+
+“E da queste circostanze,” rispose lui, con lo sguardo attento fisso su…
+
+#La probabilità di qualcosa…
+
+Negligenza… forse… (scosse la testa involontariamente)… o forse è qualcos’altro…
+
+“Qualcosa ancora meno perdonabile…” Alzò lo sguardo verso di lui.
+
+“La malattia di mia madre”, disse lui, con più emozione di qualsiasi altra volta.
+
+Continuò: “L’attacco che portò alla sua [[Death|morte]] è stato improvviso.”
+
+#"Malattia stessa… una di quelle da cui soffriva spesso: una malattia biliare."
+
+#Febbre: la sua causa è quindi costituzionale. Nel terzo giorno, in breve…
+
+Non appena riuscirono a convincerla, un medico si prese cura di lei… un medico molto competente.
+
+Un uomo rispettabile, e uno di cui lei aveva sempre avuto grande stima…
+
+Confidenza: Sulla base della sua valutazione del pericolo che lei rappresentava, furono chiamati altri due individui.
+
+Il giorno seguente, e continuò ad essere presente quasi costantemente per quattro giorni…
+
+Ventiquattro ore… Al quinto giorno morì. Nel corso del suo…
+
+In quel periodo di disordine, sia io che Frederick (eravamo entrambi a [[Home|>casa]]) la vedevamo spesso.
+
+E dalle nostre stesse osservazioni possiamo attestare che lei l’abbia ricevuto.
+
+Tutta l’attenzione possibile che potesse derivare dall'affetto di quelle persone.
+
+Nessuno parlava di lei, né si considerava cosa la sua situazione nella vita potesse richiedere. Povera [[Eleanor]].
+
+Era assente, e si trovava a una tale distanza da tornare soltanto per vedere sua madre.
+
+“Nel suo feretro.”
+
+
+
+“Ma tuo padre”, disse Catherine, “era lui ad essere afflitto?”
+
+
+
+“Per un certo periodo, sì, molto di più. Hai sbagliato a pensare che non fosse affezionato.”
+
+Per lei. Ero convinto che la amasse, nel modo più profondo possibile.
+
+#A lui… Non tutti, sapete, possediamo la stessa tenerezza…
+
+Disposizione… e non pretenderò di dire che, durante la sua vita, lei…
+
+Probabilmente non doveva spesso sopportare molte cose, ma nonostante il suo carattere fosse difficile…
+
+Il suo giudizio su di lei non fu mai errato. Il suo apprezzamento per lei era sincero; e, se non altro…
+
+Per sempre, fu davvero colpito dalla sua [[Death|morte]].
+
+
+
+“Sono molto felice per questo”, disse Catherine; “sarebbe stato davvero…”.
+
+“Shocking!”
+
+
+
+“Se ho capito bene, avevi fatto una supposizione di un orrore del genere…”
+
+#Come potrei trovare le parole giuste… Cara signorina Morland, pensi solo a quanto sia terribile…
+
+La natura delle sospetti che avete nutrito. Cosa avete fatto?
+
+A giudicare da. Ricordiamo il paese e l’epoca in cui viviamo.
+
+# Ricorda che siamo inglesi, che siamo cristiani… Consulta le tue convinzioni personali.
+
+# Comprendere, il proprio senso della probabilità, le proprie osservazioni…
+
+Cosa sta accadendo intorno a voi? La nostra [[Education|educazione]] ci prepara davvero per qualcosa del genere?
+
+Atrocità… I nostri leggi le tollerano forse? È possibile che vengano commesse…
+
+“Senza essere conosciuti, in un paese come questo, dove le relazioni sociali e la cultura letteraria…”
+
+#Un rapporto basato su tali principi: ogni uomo è circondato da…
+
+**Quartiere di spie volontarie… e dove si trovano strade e giornali**
+
+“Tutto aperto? Cara signorina Morland, quali idee avete avuto…”
+
+“Ammetterlo?”
+
+
+
+Avevano raggiunto la fine della galleria, e con [[Tears|lacrime]] di vergogna lei.
+
+Corse via nella sua stanza.
 
 
 
@@ -28722,6 +34535,199 @@ so particularly strange!
 
 For nine successive mornings, Catherine wondered over the repetition of
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 25
+
+
+
+
+
+Le visioni di [[Romance|romanzo]] erano finite. Catherine si era completamente svegliata.
+
+L’indirizzo di Henry, per quanto breve fosse, le aveva aperto completamente nuove possibilità.
+
+# Occhi rivolti all’eccesso delle sue ultime fantasie… più di ogni altra cosa.
+
+Le delusioni avevano avuto il loro effetto… Ma ciò che la colpì di più fu essere umiliata. Molto.
+
+# Piangeva amaramente… Non era solo per se stessa che piangeva.
+
+Affondata… ma con Henry. La sua follia, che ora sembrava persino criminale, era tutta…
+
+“Esposta a lui… e lui deve disprezzarla per sempre. Quella libertà che lei…”
+
+[[Imagination|l'immaginazione]] aveva osato modificare il carattere di suo padre, poteva farlo?
+
+#Potrà mai perdonarlo? L’assurdità della sua curiosità e delle sue paure… potrà davvero farlo?
+
+Potranno mai essere dimenticati? Odiava se stessa più di quanto potesse esprimere.
+
+“Lui aveva… pensava che lui avesse, una o due volte prima di quella mattina fatale…”
+
+#Ha mostrato qualcosa di simile all’affetto per lei… Ma ora, in breve, lei ha fatto…
+
+Si rendeva miserabile da sola per circa mezz’ora… Poi si sdraiò a terra.
+
+L’[[Clock|orologio]] suonò le cinque; con il cuore spezzato, a malapena riusciva a emettere un suono.
+
+Una risposta comprensibile alla domanda di [[Eleanor]] su come stesse. La.
+
+#Il temibile Henry la seguì subito nella stanza… e l’unica cosa che rimase…
+
+La differenza nel suo comportamento verso di lei stava nel fatto che le pagava molto di più.
+
+Più attenzione del solito… Catherine non desiderava nulla di più che conforto in quel momento… e lui…
+
+Sembrava che ne fosse a conoscenza.
+
+
+
+Il crepuscolo trascorse senza che quella gentilezza rassicurante diminuisse mai.
+
+E il suo spirito gradualmente tornò alla calma e alla serenità. Lei fece…
+
+Non imparò né a dimenticare né a difendere il passato; ma imparò ad [[Hope|>sperare]].
+
+Che nulla di tutto ciò venisse mai a sapere in giro, e che forse questo le avrebbe risparmiato dei problemi…
+
+L’intero interesse di Henry… I suoi pensieri erano ancora prevalentemente fissi su ciò…
+
+#Con un terrore così senza motivo, aveva provato e fatto cose… Niente poteva alleviare quella situazione in breve tempo.
+
+Era chiaro come il sole che tutto fosse stato un atto volontario, creato dallo stesso individuo.
+
+# Illusione: ogni piccola circostanza assume importanza agli occhi di…
+
+La [[Imagination|immaginazione]], allarmata, si imponeva su tutto; ogni cosa doveva piegarsi al suo volere.
+
+#Scopo perseguito da una mente che, prima di entrare nell’abbazia, anelava ardentemente…
+
+Non c’era motivo di aver paura. Ricordava con quanta determinazione si fosse preparata…
+
+#Per conoscere meglio Northanger… Vide che quell’infatuazione era stata…
+
+Creata… la situazione disastrosa risolta… molto prima che lasciasse Bath… e poi…
+
+Sembrava che tutto potesse essere attribuito all’influenza di quel tipo…
+
+Leggendo ciò a cui si era abbandonata in quei momenti.
+
+
+
+Altrettanto affascinanti come tutte le opere della signora Radcliffe…
+
+“Le opere di tutti i suoi imitatori… Forse non era proprio lì che risiedeva quella umanità…”
+
+La [[Nature|natura]], almeno nelle contee centrali dell’Inghilterra, doveva essere osservata attentamente.
+
+# Tra gli Alpi e i Pirenei, tra le loro foreste di pini… e i loro vizi.
+
+Potrebbero fornire una descrizione fedele; e l’[[Italy|Italia]], la Svizzera e.
+
+Il sud della Francia potrebbe essere altrettanto ricco di orrori quanto lo è in altre regioni…
+
+Rappresentata così com'era. Catherine non osava [[Doubt|dubitare]] di nulla al di fuori del proprio paese, e nemmeno.
+
+Titolo:  
+Di ciò, se messo alle strette, avrebbe potuto fornire informazioni riguardanti le regioni settentrionali e occidentali…
+
+# Estremità… Ma nella parte centrale dell’Inghilterra, sicuramente c’era qualcosa di diverso.
+
+Titolo:  
+La sicurezza dell’esistenza stessa di una moglie non amata, nelle leggi…
+
+Il paese e i costumi di quell’epoca: l’omicidio non era tollerato.
+
+I servitori non erano schiavi, né c'era bisogno di [[Poison|veleno]] né di pozioni sonnifere.
+
+Ottenuto, come il rabarbaro, da ogni farmacista… Tra gli Alpi e…
+
+Titolo:  
+Forse nei Pirenei non esistevano personaggi misti… Lì, invece, sì.
+
+Non è così immacolato come un angelo… ma ha le inclinazioni di un demone.
+
+In Inghilterra non era così; tra gli inglesi, credeva lei, nelle loro…
+
+Cuori e abitudini: c’era una miscela generale, sebbene disomogenea, di elementi positivi.
+
+# Male e brutto. Con questa convinzione, non si sarebbe sorpresa nemmeno se…
+
+Henry ed Eleanor Tilney: anche se in futuro potessero esserci alcune piccole imperfezioni.
+
+Apparire. E sulla base di questa convinzione, non ha bisogno di [[Fear|temere]] ad ammetterlo.
+
+“Veri e propri difetti nel carattere di loro padre… che, nonostante sia stato scagionato…”
+
+Titolo:  
+Dalle orribili e offensive supposizioni che lei dovrebbe sempre arrossire al solo pensiero di aver avuto…
+
+#Convinta, dopo un attento esame, che non fosse…
+
+perfettamente amichevole.
+
+
+
+Con la mente fissa su questi punti, prese la sua decisione.
+
+Sempre giudicando e agendo nel futuro con il massimo senso del bene…
+
+Non le restava altro da fare se non perdonarsi e essere più felice che mai…
+
+La mano misericordiosa del [[Time|tempo]] fece molto per lei, attraverso graduazioni impercettibili.
+
+Il corso di un altro giorno… La straordinaria generosità e nobiltà di Henry
+
+Comportamento tale da non menzionare mai, nemmeno per un attimo, ciò che era accaduto.
+
+Fu di grande aiuto per lei; e prima ancora che potesse rendersene conto…
+
+All'inizio della sua angoscia, pensava fosse possibile… il suo spirito, però…
+
+Divenne assolutamente a suo agio e, come prima, in grado di procedere senza interruzioni.
+
+Miglioramento, per quanto potesse dire… C’erano ancora alcuni argomenti…
+
+Certo, sotto quel nome che, secondo lei, doveva sempre farli tremare… il semplice menzionarlo…
+
+Di un armadio o di un comò, ad esempio. E lei non amava affatto quell’aspetto.
+
+# Giappone in qualsiasi forma… ma anche lei avrebbe potuto ammettere che, di tanto in tanto…
+
+Un ricordo del passato folle, per quanto doloroso, potrebbe non essere del tutto inutile.
+
+
+
+#Le ansie della vita quotidiana iniziarono presto a sostituire le preoccupazioni precedenti
+
+[[Romance|Romanzo]]. Il suo [[Desire|desiderio]] di ricevere notizie da [[Isabella]] cresceva ogni giorno di più.
+
+Non vedeva l’ora di scoprire come procedesse la vita nel “mondo di Bath” e cosa stesse accadendo…
+
+Le stanze venivano curate con attenzione; in particolare, lei desiderava assicurarsi che tutto fosse in ordine.
+
+[[Isabella]] aveva trovato del buon cotone per la rete; su di esso aveva iniziato a lavorare.
+
+Lei mantenne la sua intenzione; inoltre, continuò a mantenere buoni rapporti con James.
+
+La sua unica fonte di informazioni, di qualsiasi tipo fossero, era [[Isabella]]. James
+
+aveva protestato contro l’idea di scriverle fino al suo ritorno a [[Oxford]]; e
+
+Titolo:  
+La signora Allen non le aveva dato alcuna speranza di ricevere una lettera fino a quando non fosse tornata…
+
+Fullerton. Ma [[Isabella]] aveva promesso, e ripromesso ancora; e quando lei.
+
+#Così scrupolosa nel mantenerla…
+
+È davvero stranissimo!
+
+
+
+Per nove mattine consecutive, Catherine si chiese il motivo di questa ripetizione…
 
 
 
@@ -29668,6 +35674,105 @@ wishes of his son, Catherine would have quitted Woodston with little
 
 anxiety as to the How or the When she might return to it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il suo ammiramento in quel momento, con tutta quella sincera semplicità…
+
+“Lo sentiva… Oh! Perché non arreda questa stanza, signor Tilney? Che bell’idea…”
+
+Che peccato non averlo arredato… È la stanza più bella che abbia mai visto.
+
+“È la stanza più bella del mondo!”
+
+
+
+“Spero”, disse il generale con un sorriso di grande soddisfazione, “che tutto vada come previsto”.
+
+“Viene fornito molto rapidamente: aspetta soltanto il gusto di una signora…”
+
+
+
+“Beh, se fosse la mia [[house|>casa]], non mi sederei mai da nessun’altra parte. Oh, che, ”
+
+# Una deliziosa casetta tra gli alberi… anche meli!
+
+“La casetta più bella!”
+
+
+
+“Ti piace… lo approvi come oggetto… questo basta. Henry, ricorda…”
+
+“Che Robinson venga parlato al riguardo… La capanna rimane.”
+
+
+
+“Un complimento del genere riportò alla mente di Catherine tutto ciò che ricordava, e la fece tacere…”
+
+# Direttamente a lei; e sebbene il Generale lo facesse esplicitamente per lei…
+
+Scelta del colore predominante della carta da parati e delle tende: niente di simile…
+
+Un’opinione al riguardo potrebbe essere ricavata da lei… L’influenza di…
+
+“Oggetti freschi e aria fresca, tuttavia, erano di grande aiuto nel disperdere…”
+
+# Queste associazioni imbarazzanti… e, una volta raggiunto lo stadio ornamentale…
+
+"Una parte delle strutture, costituita da un percorso che circonda due lati di un prato."
+
+Su cui il genio di Henry aveva iniziato a operare circa mezzo anno fa… lei era
+
+#A sufficienza ripresa per considerarla più bella di qualsiasi luogo di piacere
+
+# Mai era stata lì prima, anche se non c’era nemmeno un cespuglio più alto di lei…
+
+più del banco verde nell’angolo.
+
+
+
+"Un passeggiata in altri prati, e attraverso parte del villaggio..."
+
+Visita alle scuderie per esaminare alcuni miglioramenti… e un gioco incantevole.
+
+Titolo:  
+Un gioco con una cucciolata di cagnolini appena in grado di rotolare… li ho portati con me.
+
+Alle quattro di [[Clock|ore]], mentre Catherine pensava appena che potesse essere le tre.
+
+Quattro erano quelli che avrebbero pranzato insieme, e alle sei sarebbero partiti per il ritorno. Mai.
+
+Non avevo mai immaginato che un giorno potesse trascorrere così velocemente!
+
+
+
+Non poteva fare a meno di osservare che la abbondanza del cibo servito non sembrava…
+
+# Provocare la minima sorpresa nel Generale… anzi, far sì che lui stesso rimanesse…
+
+#Non c’era nemmeno la carne fredda sul tavolino…
+
+Le osservazioni del figlio e della figlia erano di tipo diverso. Loro avevano…
+
+#Raramente lo si vedeva mangiare con tale appetito in un altro tavolo se non nel proprio… e mai.
+
+#Così poco turbato dal fatto che il burro si fosse sciolto…
+
+Unto.
+
+
+
+Alle sei in punto, dopo aver bevuto il caffè, il generale salì di nuovo nella carrozza.
+
+Li ho ricevuti; e il tono del suo comportamento è stato davvero molto soddisfacente.
+
+Durante l’intera visita, la sua mente era davvero molto concentrata sull’argomento.
+
+Come previsto… Se solo lei avesse potuto essere altrettanto sicura di sé…
+
+#Desideri di suo figlio… Catherine avrebbe lasciato Woodston molto volentieri.
+
+Ansia riguardo al “come” o al “quando” lei potesse tornarci.
 
 
 
@@ -30817,6 +36922,197 @@ disgrace; and no sweet elation of spirits can lead me into minuteness.
 A heroine in a hack post-chaise is such a blow upon sentiment, as no
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO 29
+
+
+
+
+
+Catherine era troppo sconvolta per provare paura. Il [[Journey|Viaggio]] di per sé non presentava alcun pericolo.
+
+Terrore per lei… e iniziò senza temere né la lunghezza né le conseguenze.
+
+Sentendo la propria solitudine… Appoggiato in un angolo del vagone,
+
+In un impeto violento di [[Tears|lacrime]], fu portata via per diverse miglia oltre.
+
+“Le mura dell’abbazia prima che alzasse lo sguardo… e il punto più alto…”
+
+#La zona del parco davanti ai suoi occhi era ormai quasi completamente oscurata prima che lei…
+
+In grado di rivolgere lo sguardo verso di esso. Purtroppo, la [[Road|strada]] su cui si trova ora.
+
+Viaggiò esattamente come aveva fatto dieci giorni prima, con la stessa felicità.
+
+Trasmesso lungo il percorso tra Woodston e le località adiacenti; per un tratto di quattordici miglia…
+
+Ogni sentimento amaro divenne ancora più intenso a causa dell’analisi di quegli oggetti.
+
+Su cui aveva guardato per la prima volta con impressioni così diverse… Ogni volta.
+
+Ogni miglio che la avvicinava a Woodston aumentava i suoi tormenti…
+
+#Quando era a soli cinque passi di distanza, superò l’incrocio che conduceva…
+
+“Lo pensò e pensò a Henry, così vicino eppure così ignaro della sua presenza… Il suo dolore…”
+
+L’agitazione era eccessiva.
+
+
+
+Il giorno che aveva trascorso in quel luogo era stato uno dei più felici della sua vita.
+
+Il momento più importante della sua vita… Fu proprio in quel giorno che il Generale…
+
+Usava espressioni del genere quando parlava di Henry e di sé stessa…
+
+Titolo:  
+Le sue parole e il suo comportamento le diedero la più totale certezza della sua sincerità.
+
+In realtà desiderava ardentemente il loro [[Marriage|matrimonio]]. Sì, solo dieci giorni prima era stato così felice.
+
+Con il suo sguardo intenso… Forse l’aveva persino confusa con quel suo modo di guardare così fisso…
+
+# Un riferimento significativo… E ora… cosa aveva fatto?
+
+Perché è stato omesso qualcosa che potesse giustificare un tale cambiamento?
+
+
+
+L’unica colpa che lei poteva attribuirsi nei suoi confronti era…
+
+# Tali informazioni erano difficilmente accessibili alla sua conoscenza… Henry e lei stessa.
+
+Solo il suo cuore conosceva quelle sorprendenti sospetti che lei nutriva, senza alcun motivo apparente…
+
+Divertita. E altrettanto sicura era che il suo segreto fosse al sicuro con ognuno di loro.
+
+Per motivi ben precisi, almeno, Henry non avrebbe potuto tradirla. Se davvero…
+
+# Qualsiasi strana sfortuna di cui suo padre potesse essere venuto a conoscenza
+
+# Ciò a cui aveva osato pensare e cercare… quelle sue fantasie senza motivo…
+
+Di fronte a quegli esami offensivi, non poteva fare a meno di meravigliarsi di qualsiasi livello di crudeltà da lui dimostrato.
+
+#Indignazione… Se si rendesse conto che lei lo considerava un assassino, cosa potrebbe fare?
+
+Non si doveva [[Wonder|meravigliarsi]] del fatto che l’avesse persino allontanata dalla sua [[house|>casa]]. Ma c’era una giustificazione.
+
+Ricoperta da tanta sofferenza interiore, lei credeva che non sarebbe mai stata sotto il suo controllo.
+
+
+
+Anche se tutte le sue congetture su questo punto erano piene di ansia, in realtà non era così…
+
+#Quella su cui rifletteva di più… C’era un’altra idea, ancora più vicina…
+
+Prevalente e impulsiva… Come penserebbe e come si sentirebbe Henry?
+
+E guarda, quando il giorno dopo tornò a Northanger e seppe di lei…
+
+#La sua assenza rappresentava una questione di forza e interesse che doveva emergere in ogni situazione…
+
+Altro… qualcosa che non smette mai di alternare momenti irritanti a momenti rassicuranti…
+
+A volte sembrava suggerire la paura della sua calma accettazione; altre volte, invece…
+
+Fu risposto dalla più dolce fiducia nel suo rimorso e nel suo risentimento.
+
+A quel generale, ovviamente, non avrebbe mai osato parlare; ma con…
+
+[[Eleanor]], cosa non potrebbe dire a [[Eleanor]] su di lei?
+
+
+
+In questa incessante ricorrenza di dubbi e domande, su qualsiasi argomento…
+
+Un argomento su cui la sua mente non riusciva a soffermarsi che per un istante.
+
+Le ore passavano, e il suo [[Journey|viaggio]] procedeva molto più velocemente di quanto lei si aspettasse.
+
+Cercato disperatamente… Le angosie opprimenti che le impedivano di…
+
+Notando nulla prima di lei, non appena si fu allontanata dal quartiere…
+
+Woodston la salvò, nello stesso [[Time|momento]], dal dover assistere al suo declino; e.
+
+Sebbene nessun oggetto presente sulla [[Road|strada]] potesse attirare il suo interesse per un momento, lei.
+
+Non trovò mai nessuna fase di quel processo noiosa. Grazie a questo, riuscì anche lei a salvarsi…
+
+Un altro motivo era il fatto che non provava alcun desiderio di vedere concludersi il suo [[Journey|viaggio]].
+
+Titolo:  
+Tornare a Fullerton in quel modo equivaleva quasi a distruggerlo…
+
+Il piacere di rivedere le persone che si amano di più, anche dopo una lunga assenza
+
+Come la sua: un’assenza di undici settimane. Cosa avrebbe potuto dire per giustificare…
+
+Non umiliarsi e non causare sofferenza alla propria famiglia. Questo non aumenterebbe affatto il suo valore o la sua felicità.
+
+# Dolore che, confessandolo, si amplia solo in un rancore inutile…
+
+Forse coinvolgere l’[[Innocent|innocente]] insieme al colpevole, senza riuscire a distinguere il male dall’innocenza.
+
+Voleva davvero farlo? Non avrebbe mai potuto rendere giustizia ai meriti di Henry e [[Eleanor]]; se ne rendeva conto.
+
+Troppo intensa per poter essere espressa a parole… E se qualcuno dovesse prendersela a male…
+
+Titolo:  
+Se dovessero essere considerati in modo negativo, riguardo al loro padre…
+
+Se ne rendesse conto, le spezzerebbe il cuore.
+
+
+
+Con questi sentimenti, lei temeva più che desiderasse vedere quella scena per la prima volta.
+
+Di quella famosa guglia che avrebbe permesso di individuarla entro venti miglia.
+
+Di [[Home|>casa]]. Sapeva che Salisbury sarebbe stato il suo punto di riferimento dopo aver lasciato Northanger.
+
+Ma dopo la prima fase, era rimasta in debito con i maestri successivi…
+
+“I nomi dei luoghi che in seguito l’avrebbero condotta lì; così tanti…”
+
+A causa della sua ignoranza riguardo al percorso da seguire, non incontrò nulla che potesse aiutarla…
+
+“Non spaventarla né angosciarla… La sua giovane età, i suoi modi gentili e lo stipendio generoso…”
+
+Ottenne tutta l’attenzione che una viaggiatrice come lei poteva desiderare.
+
+#Non si fermò mai se non per cambiare cavallo; proseguì il suo viaggio per circa…
+
+Undici ore senza incidenti né allarmi, tra le sei e le sette…
+
+Quell’[[Clock|orologio]] della sera segnò l’ingresso di Fullerton.
+
+
+
+Una eroina che, alla fine della sua carriera, torna nel suo villaggio natale
+
+# Nella piena vittoria della reputazione riconquistata, e nella dignità che ne consegue…
+
+Contessa… con una lunga serie di nobili parenti…
+
+“Fetoni e tre ancelle in una carrozza da viaggio… e quattro…”
+
+Dietro di lei, c’è un evento su cui la penna dell’autore può scrivere con grande abilità.
+
+#Un piacere per la lettura: conferisce credibilità a ogni conclusione e all’autore stesso.
+
+“Devo condividere la gloria che lei dona così generosamente… Ma la mia questione è…”
+
+Ampiamente diverso. Riporto la mia eroina a casa sua, nella solitudine.
+
+Disgrazia. E nessuna dolce esaltazione dello spirito può spingermi a compiere azioni meschine o insignificanti.
+
+“Una eroina su una vecchia carrozza da viaggio… Che colpo al sentimento, davvero.”
+
 
 
 <span class="atom-split" data-atom="chapter_30--part_02" data-title="Northanger Abbey — Chapter 29 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/love,motif/nature,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/nature,concept/suffering,concept/wonder,character/eleanor,character/general_tilney,character/sunday"></span>
@@ -31274,6 +37570,269 @@ heard of her departure; and _now_, perhaps, they were all setting off
 
 for Hereford.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[Eleanor Tilney]]. Per scrivere una lettera che potesse, al contempo, rendere giustizia a.
+
+# I suoi sentimenti e la sua situazione esprimono gratitudine, ma senza sottomissione.
+
+# Rimpianto… da esprimere con cautela, senza freddezza; onestà… senza risentimento.
+
+Una lettera che [[Eleanor]] potrebbe non trovare doloroso leggere, e, soprattutto.
+
+"Tutto ciò di cui forse non arrossirebbe se Henry dovesse vederlo..."
+
+Un tentativo di sovvertire tutte le sue capacità artistiche… e,
+
+Dopo lunga riflessione e molta perplessità… in breve, era tutto ciò che restava da fare.
+
+#Poteva procedere con assoluta sicurezza… Quel denaro
+
+Pertanto, ciò che [[Eleanor]] aveva avanzato fu circondato da poco più di.
+
+# Un ringraziamento sincero e i migliori auguri di una persona davvero affettuosa
+
+Cuore.
+
+
+
+“Questa è stata una strana conoscenza…”, osservò la signora Morland.
+
+La lettera fu scritta in fretta; “completata e finita in un attimo. Mi dispiace che sia successo”.
+
+Beh, la signora Allen li considerava giovani molto gentili e premurosi…
+
+Purtroppo anche tu sei stato sfortunato con la tua [[Isabella]]. Ah! Povero James. [[Well|Beh]],
+
+Dobbiamo vivere e imparare; e spero che i prossimi nuovi amici che farai siano.
+
+“Meglio tenerlo, ne varrà la pena.”
+
+
+
+“Nessun amico può essere migliore di così”, rispose Catherine arrossendo.
+
+Vale la pena tenerlo piuttosto che [[Eleanor]].
+
+
+
+“Se è così, mio caro, oserei dire che vi rivedrete in un altro [[Time|momento]]; vero?”
+
+Non preoccuparti: è molto probabile che vi riuniate di nuovo.
+
+“Nel corso di pochi anni… che piacere sarà allora!”
+
+
+
+La signora Morland non fu felice nel suo tentativo di consolare la persona interessata. L’[[Hope|>speranza]] che.
+
+Rivedersi di nuovo dopo alcuni anni poteva solo portare a…
+
+Catherine si chiedeva cosa potesse accadere in quel [[Time|lasso di tempo]] per rendere possibile quell’incontro.
+
+Terribile per lei. Non avrebbe mai potuto dimenticare [[Henry Tilney]] né pensare a lui.
+
+Con meno tenerezza di quanto avesse fatto in quel momento… ma forse lui avrebbe dimenticato.
+
+Lei. E in quel momento, quando si incontrarono. I suoi occhi si riempirono di [[Tears|lacrime]] mentre lei.
+
+Il titolo descrive come l’immagine della sua conoscente appaia completamente rinnovata; e sua madre, notandola così cambiata…
+
+Proposte di soluzioni apparentemente semplici e confortevoli, che in realtà non hanno avuto alcun effetto positivo…
+
+Un altro modo per rallegrarla: farle fare una visita…
+
+Signora Allen.
+
+
+
+Le due case distavano soltanto un quarto di miglio l’una dall’altra; e, come…
+
+# Camminò velocemente… La signora Morland si liberò rapidamente di tutto ciò che provava in merito.
+
+“La delusione di James… ‘Ci dispiace per lui,’ disse lei; ‘ma’…”
+
+Altrimenti, non ci sarà alcun danno se la partita si svolgerà comunque; perché potrebbe…
+
+Non sarebbe affatto desiderabile farlo fidanzare con una ragazza che non conosciamo…
+
+# Una conoscenza appena superficiale, e che era del tutto priva di…
+
+Fortuna. E ora, dopo un comportamento del genere, non possiamo assolutamente pensare nulla di buono su di loro.
+
+#Her… Al momento, la situazione è difficile per povero James; ma questo non durerà…
+
+# Per sempre… e oserei dire che sarà sempre un uomo riservato.
+
+“Per la follia della sua prima scelta.”
+
+
+
+# Una semplice panoramica dell’intera vicenda, proprio come poteva farla Catherine
+
+Ascolta… Un’altra frase avrebbe potuto mettere a rischio la sua sottomissione…
+
+Il titolo rende la sua risposta meno razionale; poiché in breve tutte le sue capacità di pensiero vennero sopraffatte…
+
+Inghiottita dal riflesso dei propri cambiamenti d’umore…
+
+Spirituali, da quando aveva percorso quella ben nota [[Road|strada]]. Non era più lo stesso.
+
+Tre mesi fa, piena di gioiosa aspettativa, lei corse lì…
+
+Avanti e indietro, circa dieci volte al giorno, con un cuore leggero e gioioso…
+
+Indipendente e libera; desiderosa di godere di piaceri nuovi e puri.
+
+e libero sia dall’angoscia del male che dalla sua conoscenza.
+
+Tre mesi fa l’avevo vista in questo stato; e ora… quanto è cambiata!
+
+È tornata!
+
+
+
+Fu accolta dagli Allen con tutta la gentilezza che meritava…
+
+Un’apparizione inaspettata, nata da un affetto sincero e duraturo, naturalmente…
+
+“Chiamarli fuori… E la loro sorpresa fu grande; il loro disappunto ancora maggiore.”
+
+All’udire come fosse stata trattata… nonostante il resoconto di Mrs. Morland al riguardo
+
+Non si trattava di rappresentazioni esagerate, né di un tentativo calcolato di suscitare le loro passioni.
+
+“Catherine ci ha colto completamente di sorpresa ieri sera,” disse lei. “Lei…”
+
+# Viaggiò da sola per tutta la strada, senza sapere nulla dell’arrivo imminente…
+
+Sabato sera; per [[General Tilney|Generale Tilney]], per qualche strana idea o motivo simile, tutto.
+
+All’improvviso si stancò di averla lì e quasi la cacciò via.
+
+Della [[house|casa]]. Assolutamente poco ospitale, senza dubbio; e deve essere davvero una persona molto strana.
+
+“Uomo… ma siamo davvero felici che sia di nuovo tra noi! Ed è una cosa meravigliosa.”
+
+Titolo:  
+Il conforto di scoprire che non è una creatura povera e indifesa, ma può cambiare le cose.
+
+Molto bene, per lei.
+
+
+
+#Il signor Allen si espresse in quell’occasione con ragionevolezza
+
+#Rancore di un amico sensato; e la signora Allen pensava alle sue espressioni
+
+“Abbastanza buono da poter essere immediatamente utilizzato di nuovo da lei stessa.”
+
+Lo [[Wonder|stupore]], le sue congetture e le sue spiegazioni arrivarono uno dopo l'altro.
+
+# “Della sua, con l’aggiunta di questa sola osservazione: ‘Davvero non ho…’”
+
+“Pazienza con il Generale” – per colmare ogni pausa casuale… E, “Io”.
+
+“Non ho davvero pazienza con il Generale”, queste parole furono ripetute due volte dopo che il signor.
+
+Allen lasciò la stanza, senza che il suo odio si placasse minimamente, né che le sue emozioni si calmassero in alcun modo.
+
+# Digressione del pensiero: un grado considerevole di deviazione nel corso dei ragionamenti
+
+La terza ripetizione; e, dopo aver completato la quarta, immediatamente…
+
+"Aggiunse: 'Pensa solo, cara mia, a quanto sia alto quell’orribile affitto che devo pagare...'
+
+“Nel mio miglior stile Mechlin, riparato con tanta cura… prima di lasciare Bath…”
+
+#A malapena si riesce a vedere dove si trova… Devo mostrarvelo un giorno o l’altro, Bath.
+
+“È un bel posto, Catherine… Dopo tutto, ve lo assicuro: non ho fatto nulla di più.”
+
+#A metà strada tra la partenza e il rimanere… La presenza della signora Thorpe rappresentava davvero un grande conforto.
+
+“Non è vero? Sai, all’inizio eravamo davvero molto soli…”
+
+
+
+“Sì, ma quella situazione non è durata a lungo,” disse Catherine, con lo sguardo…
+
+#Rinfrescata dal ricordo di ciò che per primo le aveva infuso energia
+
+Esistenza lì.
+
+
+
+“Molto vero: presto incontrammo la signora Thorpe, e poi… ci mancò qualcosa.”
+
+Niente. Caro, non pensi che questi guanti di seta stiano molto bene su di me? Io.
+
+Mettilele nuove la prima [[Time|volta]] che andiamo nelle Stanze Sottostanti, tu.
+
+“Lo so, e da allora le ho indossate spesso. Te ne ricordi?”
+
+“Serata?”
+
+
+
+"#Perfettamente!"
+
+
+
+“È stato davvero piacevole, non è vero? Il signor Tilney ha bevuto il tè con noi, e io…”
+
+#Sempre l’ho considerato un ottimo acquisto: è davvero molto piacevole in compagnia. Ne ho uno…
+
+# Non sono sicura… Ricordo di aver ballato con lui, ma non ne sono del tutto certa.
+
+“La mia gonna preferita…”
+
+
+
+Catherine non riuscì a rispondere; e, dopo aver provato ad affrontare altri argomenti,
+
+#Di nuovo la signora Allen… “Davvero non ho più pazienza con…”
+
+Generale… Che uomo piacevole e degno, sembrava davvero! Non posso…
+
+“Supponiamo, signora Morland, che nella sua vita abbia mai incontrato un uomo di maggior educazione… Lui…”
+
+#Gli alloggi furono presi il giorno stesso dopo che lui li aveva lasciati, Catherine… Ma no.
+
+Lo stupore. Milsom Street, capisci.
+
+
+
+Mentre tornavano a [[Home|>casa]], la signora Morland cercò di far capire a suo figlio.
+
+Nella mente della figlia, la felicità di avere degli amici così fedeli e desiderosi del suo bene, come il signor.
+
+#E la signora Allen… e quella scarsissima considerazione che deriva dalla negligenza o dall’indifferenza altrui.
+
+Il disprezzo di persone appena conosciute, come i Tilney, dovrebbe essere…
+
+#Mentre poteva ancora mantenere la buona opinione e l'affetto di…
+
+I primi amici… C’era molto buon senso in tutto ciò; ma…
+
+# Alcune situazioni della mente umana in cui il buon senso…
+
+#Poca forza… e i sentimenti di Catherine contraddicevano quasi tutto
+
+#La posizione avanzata di sua madre… Fu proprio il comportamento di queste persone a determinare tutto.
+
+Una conoscenza superficiale da cui dipendeva tutta la sua felicità attuale… eppure…
+
+#La signora Morland confermava con successo le proprie opinioni
+
+“La correttezza delle proprie rappresentazioni…”, rifletteva in silenzio Catherine.
+
+“Ora Henry deve essere arrivato a Northanger… Ora sicuramente è lì.”
+
+Avevo sentito parlare della sua partenza; e ora, forse, tutti stavano per mettersi in viaggio.
+
+Per Hereford.
 
 
 
@@ -31822,6 +38381,178 @@ and, on the afternoon of the following day, had begun his [[Journey|journey]] to
 
 Fullerton.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La loro cura… e – non appena la sua conoscenza gli permise di giudicare – anche di…
+
+#Il loro trattamento gentile verso di lei… La sua decisione arrivò presto.
+
+#Formato. Già allora aveva notato di provare un certo interesse per la signorina Morland…
+
+Lo sguardo di suo figlio; e grato per la comunicazione ricevuta dal signor Thorpe, lui…
+
+#Deciso quasi all’istante a non risparmiare sforzi per indebolire ciò di cui andava fiero…
+
+# Interesse e distruzione delle sue speranze più care… Nemmeno Catherine avrebbe potuto farlo.
+
+Più ignorante, al momento di tutto ciò, dei suoi stessi figli. Henry e.
+
+[[Eleanor]], non vedendo nulla nella sua situazione che potesse interessarli.
+
+Con profondo stupore, colui che godeva della particolare stima di suo padre aveva assistito a tale improvvisità…
+
+Titolo:  
+La durata e l’entità della sua attenzione; e sebbene in seguito…
+
+Alcuni suggerimenti che accompagnavano un ordine quasi perentorio rivolto a suo figlio
+
+#Henry era convinto di dover fare tutto il possibile per attirarla a sé.
+
+Il padre riteneva che fosse un legame vantaggioso, ma non era così.
+
+Fino alla spiegazione fornita in Northanger, nessuno aveva la minima idea…
+
+# Dei falsi calcoli che lo avevano spinto ad agire in fretta… Quelli calcoli erano errati.
+
+#Falso: il Generale aveva appreso questa informazione direttamente dalla persona che l’aveva suggerita
+
+#Loro, da Thorpe stesso, che aveva avuto l’occasione di incontrare di nuovo in città…
+
+E chi, sotto l’influenza di sentimenti esattamente opposti, irritato da…
+
+#Il rifiuto di Catherine, e soprattutto a causa del fallimento di un evento molto recente
+
+Si sforza di realizzare una [[Reconciliation|riconciliazione]] tra Morland e [[Isabella]].
+
+Convinti che fossero separati per sempre, rifiutarono qualsiasi forma di [[Friendship|amicizia]].
+
+Che ormai non poteva più essere utilizzato, si affrettò a contraddire tutto ciò…
+
+Aveva già detto in precedenza qualcosa a favore dei Morland… e poi se ne è pentito.
+
+# Essersi completamente sbagliato nella sua valutazione delle loro circostanze
+
+Titolo:  
+Un personaggio, ingannato dalle parole vuote di un amico, crede…
+
+#Un padre che coltiva onore e rispetto, mentre le transazioni…
+
+Le ultime due o tre settimane hanno dimostrato che non era nessuno dei due; perché, dopo essere arrivato…
+
+Con grande entusiasmo, al primo segnale di un [[Marriage|matrimonio]] tra i.
+
+Titolo:  
+Famiglie… con le proposte più liberali che avesse mai avanzato, quando vennero portate alla luce…
+
+Titolo:  
+A causa dell’astuzia del narratore, si è trovati costretti…
+
+#Riconoscere di essere incapace di offrire ai giovani anche solo qualcosa di decente
+
+Supporto… In realtà, erano una famiglia in difficoltà, e per di più numerosa.
+
+#Quasi senza esempio; assolutamente disprezzati da coloro che li appartengono
+
+# Quartiere, poiché di recente ne aveva avuto particolari opportunità
+
+Scoprendo… un stile di vita che il loro patrimonio non potrebbe permettersi.
+
+"Warrant; cercare di migliorare la propria situazione attraverso contatti influenti; un..."
+
+Una corsa in cui ci si affretta, si vanta e si tramano strategie.
+
+
+
+#Il generale terrorizzato pronunciò il nome di Allen con tono interrogativo
+
+“Guarda… E anche in questo caso, Thorpe aveva compreso il proprio errore. Gli Allen…”
+
+Si credeva che vivesse da loro da troppo tempo, e conosceva bene quel giovane…
+
+A cui l'eredità dei Fullerton dovrà essere trasferita. Il generale non aveva bisogno di altro.
+
+#"Arrabbiato con quasi tutti al mondo tranne che con se stesso, si mise in viaggio..."
+
+Il giorno dopo, all’abbazia, dove le sue esibizioni erano state viste da tutti.
+
+
+
+“Lascio che sia la saggezza del mio lettore a stabilire quanto di tutto ciò sia vero…”
+
+Era possibile che Henry potesse comunicare in quel momento con Catherine, come?
+
+Gran parte di ciò che sapeva avrebbe potuto impararlo dal padre… in quei particolari aspetti, appunto, in cui le sue opinioni corrispondevano a quelle del genitore
+
+# Congetture potrebbero aiutarlo… ma quale parte dovrà ancora rimanere irrisolta?
+
+Intitolato: “Raccontato in una lettera di James”. Ho riunito, per comodità loro, quanto è stato detto…
+
+“Devo prendere ciò che è mio… Comunque, Catherine aveva sentito abbastanza da capirlo.”
+
+sospettando che il [[General Tilney|Generale Tilney]] avesse ucciso o fatto tacere qualcuno.
+
+# Moglie: non aveva quasi mai offeso il suo carattere, né esagerato le sue qualità.
+
+crudeltà.
+
+
+
+#Henry, nel raccontare queste cose riguardo a suo padre, era quasi…
+
+#Pietoso come nel suo primo confesso a se stesso… Arrossì per quella confessione.
+
+Consigli ristretti di mentalità, che dovette smascherare… La conversazione
+
+Il loro rapporto a Northanger era stato di natura estremamente ostile.
+
+L’indignazione di Henry nel sentire come fosse stata trattata Catherine…
+
+Capendo i punti di vista di suo padre, gli fu ordinato di acconsentire.
+
+#Un atteggiamento aperto e deciso. Il Generale, abituato in ogni situazione ordinaria…
+
+Occasione per imporre la propria autorità nella famiglia, senza alcuna esitazione…
+
+Di sentimenti, nessun desiderio opposto che osasse manifestarsi.
+
+# parole che non avrebbero potuto sopportare l’opposizione di suo figlio, così fermo e deciso…
+
+La sanzione della ragione e il dictato della [[Conscience|coscienza]] avrebbero potuto farlo possibile. Ma, in.
+
+#Una causa così grande… La sua rabbia, per quanto scioccante, non poteva intimidire nessuno
+
+Henry, il quale era determinato nella sua decisione dalla convinzione della giustizia di essa.
+
+Si sentiva legato sia dall’onore che dal sentimento verso la signorina.
+
+Titolo:  
+Morland, convinto che quel cuore fosse suo…
+
+# Diretto al guadagno… senza alcun ritiro indegno di un consenso tacito.
+
+# Contrarrestare un impulso di rabbia ingiustificata potrebbe mettere in discussione la sua lealtà…
+
+Influenzano le decisioni che ne derivano.
+
+
+
+#Si rifiutava ostinatamente di accompagnare suo padre nel Herefordshire
+
+Titolo:  
+Un accordo stretto quasi immediatamente al fine di promuovere il licenziamento…
+
+#Catherine: e con fermezza dichiarò la sua intenzione di offrirle…
+
+#Rabbia feroce
+
+Disaccordo… Henry, nel tumulto della sua mente, durante molte ore di solitudine…
+
+Erano stati costretti a comporre qualcosa; tuttavia erano tornati quasi immediatamente a Woodston.
+
+E, nel pomeriggio del giorno seguente, iniziò il suo [[Journey|Viaggio]] verso.
+
+Fullerton.
 
 
 

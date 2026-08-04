@@ -2788,9 +2788,9 @@ BY
 
 GILBERT KEITH CHESTERTON  
 
-[[London|LONDRA]]  
+[[London|LONDRA]]
 
-CECIL PALMER  
+CECIL PALMER
 
 OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
 
@@ -2868,9 +2868,9 @@ siamo divenuti più saggi senza perdere lo [[Wonder|stupore]];
 
 e abbiamo veduto Gerusalemme.  
 
-INDICE  
+INDICE
 
-PAG.  
+PAGINA
 
 A F. C. In Memoriam Palestina, '19             vii  
 
@@ -6088,9 +6088,9 @@ BY
 
 GILBERT KEITH CHESTERTON  
 
-[[London|LONDRA]]  
+[[London|LONDRA]]
 
-CECIL PALMER  
+CECIL PALMER
 
 OAKLEY [[house|HOUSE]] BLOOMSBURY STREET W.C.1.  
 
@@ -6168,9 +6168,9 @@ siamo divenuti più saggi senza perdere lo [[Wonder|stupore]];
 
 e abbiamo veduto Gerusalemme.  
 
-INDICE  
+INDICE
 
-PAG.  
+PAGINA
 
 A F. C. In Memoriam Palestina, '19             vii  
 

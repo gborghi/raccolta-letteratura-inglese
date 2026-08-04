@@ -171,7 +171,7 @@ for one generation.
 
 L'uguaglianza dell'[[sexlessness|assenza di sesso]]
 
-G. K. Chesterton  
+G. K. Chesterton
 
 ----------------------------------------------------------------------------
 

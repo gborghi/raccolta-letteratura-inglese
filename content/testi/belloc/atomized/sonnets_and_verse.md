@@ -5463,6 +5463,11 @@ SONNETS
 LYRICAL, DIDACTIC AND GROTESQUE
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sonetti  
+Lirici, didattici e grotteschi
+
 
 
 <span class="atom-split" data-atom="story_02_to_dives" data-title="Sonnets and Verse — To Dives" data-chapter="To Dives" data-kind="story" data-tags="form/poem"></span>
@@ -5473,6 +5478,12 @@ TO DIVES
 STANZAS WRITTEN ON BATTERSEA BRIDGE DURING A SOUTH-WESTERLY GALE
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Tuffare nelle profondità
+
+# Stanze scritte sul ponte di Battersea durante una tempesta da sud-ovest
+
 
 
 <span class="atom-split" data-atom="story_03_the_south_country" data-title="Sonnets and Verse — The South Country" data-chapter="The South Country" data-kind="story" data-tags="form/poem"></span>
@@ -5482,6 +5493,12 @@ THE SOUTH COUNTRY
 THE FANATIC
 THE EARLY MORNING
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Sud  
+Il fanatico  
+La mattina presto
 
 
 
@@ -5494,6 +5511,11 @@ THE NIGHT
 THE LEADER
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il nostro Signore e la nostra Signora  
+La cortesia… La notte… Il leader
+
 
 
 <span class="atom-split" data-atom="story_05_a_bivouac" data-title="Sonnets and Verse — A Bivouac" data-chapter="A Bivouac" data-kind="story" data-tags="form/poem"></span>
@@ -5502,6 +5524,11 @@ THE LEADER
 A BIVOUAC
 TO THE BALLIOL MEN STILL IN AFRICA
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un bivacco  
+Per i soldati Balliol ancora in Africa
 
 
 
@@ -5514,6 +5541,13 @@ THE PROPHET LOST IN THE HILLS AT EVENING
 THE END OF THE ROAD
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il ribelle  
+Il profeta perduto tra le colline al tramonto
+
+# La fine della strada
+
 
 
 <span class="atom-split" data-atom="story_07_an_oracle" data-title="Sonnets and Verse — An Oracle" data-chapter="An Oracle" data-kind="story" data-tags="form/poem"></span>
@@ -5522,6 +5556,10 @@ THE END OF THE ROAD
 AN ORACLE
 THAT WARNED THE WRITER WHEN ON PILGRIMAGE
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un oracolo che avvertì lo scrittore durante il suo pellegrinaggio
 
 
 
@@ -5533,6 +5571,12 @@ DEDICATORY ODE
 DEDICATION ON THE GIFT OF A BOOK TO A CHILD
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La morte e l’ultima confessione di Peter il Vagabondo  
+Ode dedicata  
+Dedica al dono di un libro a un bambino
+
 
 
 <span class="atom-split" data-atom="story_09_dedication_of_a_childs_book_of_imaginary" data-title="Sonnets and Verse — Dedication Of A Child’S Book Of Imaginary Tales" data-chapter="Dedication Of A ChildS Book Of Imaginary" data-kind="story" data-tags="form/poem"></span>
@@ -5541,6 +5585,11 @@ DEDICATION ON THE GIFT OF A BOOK TO A CHILD
 DEDICATION OF A CHILD’S BOOK OF IMAGINARY TALES
 WHEREIN WRONG-DOERS SUFFER
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dedica di un libro per bambini di storie immaginarie  
+in cui i malviventi soffrono
 
 
 
@@ -5552,6 +5601,10 @@ THE MOON’S FUNERAL
 THE HAPPY JOURNALIST
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Omaggio: Il funerale della luna, il giornalista felice
+
 
 
 <span class="atom-split" data-atom="story_11_lines_to_a_don" data-title="Sonnets and Verse — Lines To A Don" data-chapter="Lines To A Don" data-kind="story" data-tags="form/poem"></span>
@@ -5561,6 +5614,10 @@ LINES TO A DON
 NEWDIGATE POEM
 THE YELLOW MUSTARD
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#"Linee a un Don" – Poesia di genere "Newdigate" – "Il Senape Giallo"
 
 
 
@@ -5575,6 +5632,15 @@ NOËL
 THE BIRDS
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il politico o il ducato irlandese  
+Il perdente  
+Canti
+
+# Natale  
+Gli uccelli
+
 
 
 <span class="atom-split" data-atom="story_13_in_a_boat" data-title="Sonnets and Verse — In A Boat" data-chapter="In A Boat" data-kind="story" data-tags="form/poem"></span>
@@ -5588,6 +5654,15 @@ CUCKOO!
 THE LITTLE SERVING MAID
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In una barca
+
+Canto  
+L’anello  
+Cuco!  
+La piccola cameriera
+
 
 
 <span class="atom-split" data-atom="story_14_auvergnat" data-title="Sonnets and Verse — Auvergnat" data-chapter="Auvergnat" data-kind="story" data-tags="motif/wine_and_drink,form/poem"></span>
@@ -5597,6 +5672,12 @@ AUVERGNAT
 DRINKING SONG
 ON THE EXCELLENCE OF BURGUNDY WINE
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# AUVERGNATE  
+CANZONE DEL BEVERE  
+SULL’ECCELLENZA DEL VINO DI BURGUNDO
 
 
 
@@ -5608,6 +5689,10 @@ ENVOI
 WEST SUSSEX DRINKING SONG
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#"Canzone del bere di West Sussex"
+
 
 
 <span class="atom-split" data-atom="story_16_a_ballad_on_sociological_economics" data-title="Sonnets and Verse — A Ballad On Sociological Economics" data-chapter="A Ballad On Sociological Economics" data-kind="story" data-tags="form/ballad"></span>
@@ -5618,6 +5703,12 @@ HERETICS ALL
 HA’NACKER MILL
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Una ballata sull’economia sociologica  
+Eretici tutti,  
+avete il colpevole…
+
 
 
 <span class="atom-split" data-atom="story_17_tarantella" data-title="Sonnets and Verse — Tarantella" data-chapter="Tarantella" data-kind="story" data-tags="form/poem"></span>
@@ -5627,6 +5718,12 @@ TARANTELLA
 
 THE CHAUNTY OF THE “NONA”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tarantella
+
+# La grazia della “nonna”
 
 
 
@@ -5639,6 +5736,13 @@ BALLADES
 SHORT BALLADE AND POSTSCRIPT ON CONSOLS AND BOERS
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il cavallo alato  
+La canzone di Strephon  
+Ballate  
+Breve ballata e postfazione su consoli e boeri
+
 
 
 <span class="atom-split" data-atom="story_19_ballade_of_the_unanswered_question" data-title="Sonnets and Verse — Ballade Of The Unanswered Question" data-chapter="Ballade Of The Unanswered Question" data-kind="story" data-tags="form/ballad"></span>
@@ -5648,6 +5752,11 @@ BALLADE OF THE UNANSWERED QUESTION
 BALLADE TO OUR LADY OF CZESTOCHOWA
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ballata della domanda senza risposta  
+Ballata alla nostra Signora di Częstochowa
+
 
 
 <span class="atom-split" data-atom="story_20_ballade_of_hell_and_of_mrs_roebeck" data-title="Sonnets and Verse — Ballade Of Hell And Of Mrs Roebeck" data-chapter="Ballade Of Hell And Of Mrs Roebeck" data-kind="story" data-tags="form/ballad"></span>
@@ -5656,6 +5765,11 @@ BALLADE TO OUR LADY OF CZESTOCHOWA
 BALLADE OF HELL AND OF MRS ROEBECK
 BALLADE OF UNSUCCESSFUL MEN
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ballata dell’inferno e di Mrs Roebek  
+Ballata degli uomini falliti
 
 
 
@@ -5669,6 +5783,15 @@ THE BALLAD OF VAL-ÈS-DUNES
 
 To
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ballata degli eresiarchi  
+Epigrammi
+
+La ballata di Val-Es-Dunes
+
+To
 
 
 
@@ -5695,6 +5818,28 @@ Take these imperfect toys, till in your heart
 
 They too attain the form of perfect things.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# John Swinerton Phillimore  
+Una dedica  
+Con questo libro di poesie
+
+# Quando tu ed io eravamo piccoli ragazzi
+
+# Una gioia davvero irrispettosa
+
+In giocattoli sciocchi, dipinti e deformi
+
+Quali madri nascoste ci le hanno portate di notte.
+
+# Hai quella parte profetica che appartiene ai bambini?
+
+Il caro contenuto che un amore familiare porta con sé…
+
+# Prendi questi giocattoli imperfetti, e portali nel tuo cuore
+
+Anche loro raggiungono la forma delle cose perfette.
 
 
 
@@ -5995,6 +6140,308 @@ To mock her yeoman air and conscious grace?
 Then mock me as you do my narrow scope,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sonetti
+
+I
+
+# Sollevate i vostri cuori a Gumber, ridete nella foresta di Weald
+
+E tu, mia madre, canta della Valle di Arun.
+
+#Eccomi qui, di ritorno a casa dopo tanto vagabondaggio
+
+Eccomi qui, sulla via del ritorno a casa, e il mio cuore è guarito.
+
+# Compagni miei, stanchi dal mondo…
+
+#Vieni fuori ad accogliermi… Ho trovato un volto che mi appartiene
+
+Più bello dei giardini… più desiderato.
+
+Anche i ragazzi in esilio amano la loro terra natale.
+
+# Sollevate i vostri cuori a Gumber, ridete nella foresta di Weald
+
+E tu, antichissima Valle di Arun, canta.
+
+Eccomi qui, di ritorno a casa dopo tanto vagabondaggio.
+
+Eccomi qui, sulla via del ritorno a casa, e il mio cuore è guarito.
+
+Se avessi sete, avrei sentito il suono di una sorgente.
+
+Se fossi polvere, avrei trovato un campo.
+
+II
+
+Titolo:  
+Ero come colui che custodisce il mazzo di carte durante la notte
+
+Tenendo il timone premuto contro il petto…
+
+# Come se l’anima di una persona fosse perfettamente in equilibrio…
+
+#Tenendo il passo nonostante le difficoltà
+
+# Cambia direzione con un movimento improvviso e inaspettato, ora a sinistra, ora a destra.
+
+#Si sforza sempre di rafforzare la propria presa
+
+#Di piegare le travi fino alla luce sacra
+
+Gli mostra le terre lontane e annuncia l’arrivo del giorno.
+
+Ma ora tutto quel frenetico andirivieni della battaglia è finito…
+
+# Sono come colui il cui vascello finalmente raggiunge la riva
+
+# Appena inizia a placarsi la brezza avventurosa…
+
+# Entrando in acque più tranquille
+
+Titolo:  
+Sono come colui che porta con sé le proprie merci
+
+Verso i cieli della California.
+
+# III
+
+#Alzati e inizia a decorare la giornata…
+
+L’oscurità estiva non è altro che l’alba del giorno.
+
+L’ultimo bagliore del tramonto si dissolve nella mattina.
+
+La mattina ti chiama lontano dalle tenebre.
+
+La nebbia sacra, la bianca nebbia del mattino
+
+Si snodava verso l’alto lungo il mio solitario cammino.
+
+Il cammino ti aspettava, pronto per essere adornato dal tuo tocco…
+
+Questo dovrebbe completare la giornata, così ricca di decorazioni.
+
+#Alzati e inizia a decorare la giornata…
+
+Le piccole nuvole orientali sono di un grigio maculato…
+
+Oggi ci sarà vento tra le foglie…
+
+È proprio la promessa della mattina stessa.
+
+# La tua luce è la mia strada
+
+Allora alzatevi e rendete questo giorno perfetto.
+
+IV
+
+Il Mese Invernale ha una luce così tranquilla…
+
+Che tutte le notti invernali siano piene di silenzio e riposo.
+
+#Il crepuscolo si avvicina lentamente…
+
+# Sogni che vagano lontano dalla sua stella addormentata
+
+Titolo:  
+Perché le notti sono silenziose, non svegliarti
+
+Ma un tremito scuoterà tutta la terra…
+
+E sopra di te, un accelerare dei battiti, e la nascita di qualcosa.
+
+Per il vostro bene, il Sole si trova vicino alla cima delle colline.
+
+#L’ultimo nato di tutti i giorni si avvicinerà furtivamente
+
+# Baciare le tenere palpebre dell’anno…
+
+E ti risveglierai, ringiovanito dal sonno perfetto.
+
+E sorridi al nuovo mondo, e rendilo tuo caro.
+
+Con mormori vivi, più profondi dei sogni…
+
+Il silenzio è morto, il mio alba, l’alba è arrivata.
+
+V
+
+Qualsiasi umidità nutra la Rosa
+
+# La Rosa del Mondo nel giardino fiorito delle risate
+
+Lì dove le anime degli uomini, sulla base della [[Faith|>fede]], trovano nutrimento sicuro.
+
+E gli spiriti immortali custodiscono il loro piacere gelosamente.
+
+Qualsiasi umidità nutra la Rosa…
+
+# La Rosa ardente del mondo… per me è la stessa cosa
+
+Titolo:  
+Oggi, per me, è la primavera senza nome…
+
+Contenuto, Grazia o Risate traboccano fuori.
+
+# Quell’acqua della Fonte d’Oro
+
+#Acqua della giovinezza e rimedio alle preoccupazioni
+
+#Qual Raymond di Saragozza cercava un tempo
+
+E trovando, inaspettatamente, nella montagna…
+
+Titolo:  
+Tornato per ascoltare una storia antica raccontata
+
+A Bramimond, il suo amore, accanto alle scale di marmo.
+
+VI
+
+Gli anni della giovinezza mi sono stati donati da te, ma non intendo crederci.
+
+Quel giovane, con la sua agilità, ti porterà via.
+
+La gioventù è la nostra verità: non può essere ingannata in questo modo.
+
+Ha le nostre grazie, ma non anche noi stessi.
+
+# Confronto con il tempo che ancora dovrà trascorrere…
+
+# Perfezionando ciò che siamo attraverso la sorte umana
+
+# Ci arricchisce con esperimenti rari
+
+Fornisce armi all’Alleanza dell’Era nel crudele conflitto del tempo.
+
+Titolo:  
+Guarda! Questo giovane che è in noi è in realtà un vecchio…
+
+Un ragazzo, per renderlo più saggio dei suoi anni.
+
+“Anche la nostra vecchia giovinezza è frutto delle scelte fatte nella nostra giovane età…”
+
+So che, con il passare del tempo, pagherà il nostro ultimo debito.
+
+# Con le tue braccia ancora così giovani, mi tieni stretto…
+
+E io sarò ancora giovane quando tutto il mondo sarà invecchiato.
+
+# VII
+
+La [[Mortality|mortalità]] non è altro che quella “veste” che indossiamo.
+
+Per far risaltare il meglio anche con una vista imperfetta.
+
+Il tuo rifugio è sicuramente avvolto da una luce immutabile.
+
+Di cui tu sei la figlia ed l’erede.
+
+Mentre ci si avvicina, la vita naturale delle cose…
+
+Titolo:
+Proclama la Risurrezione: mentre ti avvicini…
+
+#Un’estate ricordata splende sull’erba
+
+E in qualche modo, dentro di me, canta qualcosa di immortale.
+
+#Non sei stato creato per essere ricordato…
+
+# Un incidente giovanile… ma forse qualcosa di più divino.
+
+#"Modellandosi sul significato, la penna incerta lascia tracce imperfette"
+
+#E aprendo a tutta larghezza quella porta così a lungo proibita
+
+Dove si trova la Madre di Dio, il vostro esempio?
+
+Quanto sei bella, quanto sei incantevole!
+
+# VIII
+
+# Non per i sfortunati… le nostre radici potrebbero portare fortuna
+
+Ora tutto fiorito, ora bruciato e devastato…
+
+#Ti prego, affinché non vengano fatti paragoni…
+
+L’umanità era condannata con il declino dei fiori.
+
+# Mantieni con me questa rara e casta comunione
+
+E toccare con la vita questo nostro caso mortale…
+
+# Elevato al di sopra del potere della morte
+
+Moriamo, come tutte le cose finite muoiono ovunque.
+
+Compagnia di voci, solitudine di silenzio…
+
+Tu sei sostanza, io sono vuoto; tu vivi, io decadgo.
+
+# Cado, penso, stasera… e non c’è fine.
+
+Ti alzi, lo so, nel corso della giornata che continua ad avanzare.
+
+# E sapendo che il dono della vita è la stessa vita per me
+
+Nella stretta stanza della rima, l’ho sistemato senza dubbio.
+
+IX
+
+Quello che è uno, lo tagliano in due.
+
+Chi distinguerà mai tra la luce e l’oscurità dell’amore?
+
+Il suo piacere è una cosa unica con il suo dolore.
+
+Anche il fratello gemello del suo desiderio divenne oggetto del suo odio.
+
+Con lui, quel tentativo fallito diventa in parte realtà…
+
+#Dominato e armato, diventi un signore.
+
+# E dubitare di ogni possibilità significa comunque credere.
+
+E perdere tutto ciò che si possiede è l’unica vera ricompensa.
+
+Conosco la fortuna della sfortuna.
+
+E meglio di lei stessa conosce il proprio dote…
+
+Per lei che è sia la mia fortuna che la mia sfortuna…
+
+#Rendendomi sfortunato… mi rende più felice
+
+#In quale presunzione…
+
+Le menzogne rivelano proprio il nucleo stesso dell’Amore.
+
+X
+
+Titolo:  
+Potrà mai esistere un uomo il cui forte amore per un altro…
+
+Ha gettato via tutta la sua ricchezza e il suo nome in un solo gesto…
+
+# Diventerà forse uno che deride qualcuno più di un semplice fratello?
+
+Negliggere il suo bisogno quando la sua avventura sarà finita?
+
+#Un ragazzo senza progenitori… il cui destino è stato deciso dalla madre
+
+"In grandi uomini, le grandi preoccupazioni occupano anche il loro piccolo spazio personale"
+
+# Quando arriveranno i suoi onori effimeri
+
+Per prendersi gioco del suo atteggiamento semplice e della sua grazia naturale?
+
+“Poi deridetemi pure, come fate con la mia limitata visione del mondo…”
+
 
 
 <span class="atom-split" data-atom="story_23_sonnets--part_02" data-title="Sonnets and Verse — Sonnets (part 2)" data-chapter="Sonnets" data-kind="excerpt" data-tags="concept/faith,concept/mortality"></span>
@@ -6292,6 +6739,304 @@ Whereon the bounds of our redemption lie.
 
 And there, beyond, a radiance rose to take
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per te è stata accesa questa mia luce…
+
+“Hanno distrutto ingiustamente la mia nuova speranza di avventura…”
+
+# Sprecato il mio ricco patrimonio di parole, versato il mio vino pregiato…
+
+#Nella rada di casa
+
+Ahimè, essere sepolto nei mari e non essere più visto mai.
+
+XI
+
+#Coloro che hanno ricevuto denaro in cambio di ciò che hanno fatto
+
+# Quando il senso, abusato, blocca le porte del vero senso
+
+Coloro che hanno perso la loro eredità solare
+
+Il loro riso e la loro sacra innocenza;
+
+# Passano da una cosa all’altra…
+
+Per ancorarsi contro il corso veloce del tempo…
+
+“Alcuni verso quel pezzo di terra che era la loro madre…”
+
+Alcuni cercano la fama clamorosa, altri la poesia.
+
+Ma in quella mattina, fino al punto in cui tu eri lì…
+
+"In piena forma fisica, con le tue mani"
+
+Appoggiati alle tue mura, davanti ai tuoi territori…
+
+E tutto insieme, forma un grande bene.
+
+Allora piansi: “È per questo che sono nato.”
+
+“Questi sono i miei usi, e questo il mio sacramento!”
+
+# XII
+
+Bellezza che è come la rima eterna per i genitori
+
+# Il creatore della mascolinità: porterai un figlio
+
+#Fino a quando le figlie si uniranno ammirando il tempo che passa
+
+Rispetta la volontà della madre, consegnando Belle a lei.
+
+#La vita risponderà attraverso l’evoluzione
+
+Nonostante il tempo e le sue derisioni sul fatto che gli uomini scompaiano…
+
+Il tuo sigillo celeste sarà impresso in modo ancora più evidente
+
+Più della mia unica gioia, centomila volte più apprezzata.
+
+Le glorie del nostro stato e i suoi successi
+
+Quelli che attendono la propria fine, non passeranno mai davvero.
+
+# Oltre il lutto, prolungherò il nostro tempo insieme
+
+E facciamo iniziare la nostra data in un giorno senza fine.
+
+# Perché fisserai un record, e quando sarà sigillato…
+
+Nella Bellezza resa immortale, tutto viene guarito.
+
+# XIII
+
+Titolo:  
+Quali sono i nomi della Bellezza? Chi la loderà?
+
+La promessa di Dio: può davvero soddisfare le esigenze degli occhi delle sue creature?
+
+O quali parole forti, o quale frase creativa…
+
+Determinare il titolo della Bellezza tra le stelle?
+
+Ma ti chiamerò “La Bella Incarnata”.
+
+Bellezza ambasciatrice… e ancora una volta
+
+La bellezza trionfante, La bellezza alla porta
+
+La bellezza è la salvezza delle anime degli uomini.
+
+Titolo:  
+“Perché la bellezza non è davvero bella finché non arrivi tu…”
+
+E ora, “Bellezza” dovrà significare ciò che realmente sei…
+
+# Una luce che brilla all’alba, una fiamma
+
+Come il sacro Lucifero, la Stella del Mattino…
+
+#Chi è l’ultimo ad essere rimasto in Cielo… e quale è la “pietra preziosa”?
+
+Sulla corona piena di aspettativa della Notte Vedova.
+
+# XIV
+
+Titolo:  
+L’amore che corteggia l’onore… e l’amore dell’onore che vince.
+
+E si divertì per tutta la giornata estiva.
+
+Non capisco come inizino i destini…
+
+L’amore corteggiò Honor, consumando la sua vita in quel corteggiamento.
+
+# Poi vagabondò per ben cinque anni senza pace
+
+Titolo:  
+Fino a quando, una notte, quell’onore che era morto…
+
+# Venne mentre dormiva, nella giovinezza resa gloriosa
+
+E sorrideva come i Santi che Dio ha benedetto.
+
+Ma quando la vide brillare nella notte chiara…
+
+Serena, avvolta da una luce più splendente di quella mortale…
+
+Il ragazzo che disprezzava le cose divine
+
+Piccolo Amore, divenne pentito e iniziò a venerare l’Onore.
+
+# Quando l’amore può sconfiggere l’onore
+
+La “Onore Morto” alla fine prevale sulla “Love”.
+
+XV
+
+La tua vita è come una breve giornata invernale
+
+# Il sole triste di chi sorge tardi e tramonta presto
+
+Appena sei arrivato… perché dovresti andartene?
+
+Trasformare la sera in ciò che dovrebbe essere mezzogiorno.
+
+La tua vita è come una piccola flauta che si lamenta…
+
+Lontano, oltre gli alberi di salice…
+
+Lontano da qui, e nulla è rimasto.
+
+Ma il ricordo di una musica portata dalla brezza.
+
+La tua vita è come un addio patetico
+
+# Piansa in un sogno prima che l’uomo si svegliasse
+
+Una chiamata con solo ombre ad ascoltare…
+
+# Una benedizione sussurrata e in ritardo
+
+“Quello che non porta frutto se non nella forma di una consacrazione…”
+
+Una silenzio sacro alla fine.
+
+# XVI
+
+Ora sarà realizzato lo scopo certo della mia anima
+
+# Controllati da cose cieche e vuote
+
+E la mia audace corsa verso quel lontano obiettivo
+
+Rimani al di sotto delle aspettative, ammettendo soltanto la propria [[Mortality|mortalità]].
+
+# Arti che si muovono, ignorando la vita che portano dentro
+
+Intelligenza mentale, ma la sua rapidità può essere negata.
+
+# La speranza promessa tradisce nel momento del dono
+
+Il tempo mi consuma e trasforma le mie parole in menzogne.
+
+# Il mio sogno senza limiti ha incontrato un ostacolo
+
+E devo sopportare l’inganno più grande riguardo alle cose migliori.
+
+# Ora è solo l’alba, i mari sono soltanto acque…
+
+Solo la notte e l’oscurità; tutto il vasto cielo è soltanto aria…
+
+E voi, a cui rivolgo queste quattordici righe…
+
+La mia bellezza, il mio desiderio, ma non anche il mio amore.
+
+# XVII
+
+# Perché i miei passi incerti potrebbero non avere il coraggio di procedere
+
+Il primo discendente dei gradini dell’inferno
+
+Dammi la Parola che vi trionfa in tempo.
+
+anch'io devo entrare in quella valle nebbiosa
+
+Lì dove tutto il nostro riso si ferma. E ascoltate!
+
+Le minuscole voci silenziose dell’oscurità
+
+Mi avete chiamato, mi avete chiamato, finché non ho dovuto seguirvi…
+
+Dammi la Parola e ci proverò al meglio.
+
+# Un battito di ciglia…
+
+#Senza veli
+
+#Un breve riposo che aiuta per un momento
+
+Tra l’alba tenue e la luce intensa del giorno.
+
+Ah! Raccontami qualcosa di più di quanto gli uomini abbiano mai sperato…
+
+Giura che è vero, e allora ci crederò.
+
+# XVIII
+
+# Quando si giunge alle brutte acque di Acheron
+
+# Dove regna l’oscurità e i lamentatori senza forma si aggirano
+
+E giù, lungo gli scaffali di quell’orribile inondazione…
+
+Esamina la gerarchia umana in ordine di stupidità.
+
+# Quando i morti pallidi avanzano, tormentati ancora di più
+
+# Nullità e desiderio… attraverso il fuoco.
+
+# Che tendono le mani nella supplica del desiderio
+
+Con un desiderio ardente di raggiungere la riva lontana.
+
+#Come avanti davanti a loro come un fantasma reale
+
+# E camminare come l’Egitto… o come la corona di Cartagine
+
+Perché nella tua [[Mortality|Mortalità]] ciò che conta di più.
+
+# Di tutto ciò che possiamo ereditare… è stato trovato.
+
+Bambini per la memoria: la [[Faith|>Fede]] come simbolo dell'orgoglio.
+
+Terreno ottimo da lasciare, e un giovane amore appagato.
+
+# XIX
+
+Non sussurreremo più… Abbiamo trovato il posto giusto.
+
+Di silenzio e delle infinite sale del sonno.
+
+E ciò che respira da solo nelle profondità…
+
+# La fine e l’inizio: e il volto
+
+# Tra le sopracciglia dritte di occhi ciechi
+
+# Mai provare una vera soddisfazione, mai trovare pace assoluta
+
+# Di violenza e di una lunga pace senza passione
+
+Nel luogo in cui perdiamo le nostre ninne nanne umane.
+
+# Guarda in alto e descrivi l’altezza immensa
+
+# Tra il cielo e la tua testa dolce…
+
+# Quella è la morte, mia piccola sorella… e la notte
+
+“Mia madre ci chiama a letto…”
+
+# Dove riposa l’oblio immenso nella sua casa
+
+Per noi bambini stanchi, ora i nostri giochi possono essere giocati.
+
+XX
+
+#Alle prime luci in Toscana
+
+Sotto una roccia, sognò un sogno mattutino.
+
+# Pensavo di essere fermo accanto a quel ruscello battesimale
+
+Ed è lì che si trovano i confini della nostra redenzione.
+
+E lì, oltre, una luce splendente si levò…
 
 
 
@@ -6649,6 +7394,360 @@ On with my coat and out into the night.
 II
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# L'anima mia al momento della morte… negli occhi tuoi si riflette quella luce
+
+Ero così pieno, come se fossi ubriaco di Paradiso.
+
+Poi il giorno si fece chiaro, ma io non mi svegliai.
+
+# L’ultima estremità della mia lunga pelliccia di pergamena
+
+E tutto fu scritto proprio affinché tu potessi leggerlo così come è stato scritto.
+
+#Un sonno che durerà tutta la giornata…
+
+Né rumore, né casualità potranno scacciare questo sogno…
+
+Non è ancora il momento… né tradimento, né fortuna… No.
+
+Non tutto il peso di tutti i vestiti del mondo.
+
+# XXI
+
+# Dio Onnipotente, la cui giustizia è come il sole
+
+“Scintillerà lungo i pavimenti del Cielo…”
+
+Elevare ciò che è basso, perfezionare ciò che è incompleto.
+
+Rompere ciò che è orgoglioso e rendere le cose strane uguali.
+
+I poveri di Gesù Cristo per le strade
+
+Nella tua pioggia bagnata, nei tuoi nevai senza scarpe…
+
+# Non hanno focolare, né spada, né carne umana
+
+Nemmeno il pane degli uomini. Dio Onnipotente.
+
+I poveri di Gesù Cristo, che nessuno ascolta
+
+Ho atteso la tua vendetta per troppo tempo.
+
+Non cancellare le lacrime, ma il sangue. I nostri occhi versano sangue invece di lacrime.
+
+# Come colpiscono con tanta forza le nostre maledette sofisticazioni
+
+#Che il tuo ruvido martello colpisca questa ingiustizia crudele
+
+Chiudete l’abisso di ventimila anni, due volte ventimila anni.
+
+# XXII
+
+# Madre di tutte le mie città… un tempo lì sorgeva
+
+Titolo:  
+Sulle vostre rive desolate, una pioggia orientale…
+
+# Di spezie, seta morbida e tutti i doni nuziali
+
+Quell’Oceano te lo diede nel suo giorno nuziale.
+
+E ora sia la giovinezza che la vecchiaia sono passate.
+
+“E tutte le vele spiegate al massimo, e tutta la potenza disponibile…”
+
+Il tuo tempo è un momento di memoria, proprio come quell’ora…
+
+Appena dopo il tramonto, un paesaggio meraviglioso e grigio.
+
+Troppo stanco per alzarmi e troppo triste per piangere…
+
+# Con un braccio forte e una gamba senza forza…
+
+Ancora inascoltati dai tuoi orecchi addormentati, risuonano i suoni profondi dell’amore coniugale…
+
+# Sussurra per sempre i suoi pensieri d’eternità…
+
+Ma la tua anima non si risveglia dal suo sacro sonno
+
+Sognare delizie passate accanto a un mare senza onde.
+
+# XXIII
+
+# Novembre: quell’imperatore narrato dalla storia
+
+Conquistato nell’età, ma faccia a faccia con il destino
+
+#Chi, dal suo rifugio nascosto, ha udito quel ruggito?
+
+Di squadroni all’inseguimento… e ora, ormai troppo tardi…
+
+Scatena la tempesta e chiama i venti in battaglia.
+
+“E armi la guarnigione del suo ultimo ereditario…”
+
+#Scuote il cielo fino alle sue estreme rive
+
+Con la battaglia contro un destino irreversibile.
+
+#Scacciato e gettato lontano dalle sue fortezze invincibili…
+
+#Volando tra nuvole veloci, lo sprona ad andare avanti…
+
+Senza rimpianti, senza addii
+
+E poi le ultime benedizioni, ed è sparito.
+
+Ma nel mio giardino tutti gli alberi hanno perso le foglie
+
+Le loro eredità di luce e di tutte quelle fioriture sono ormai morte.
+
+# XXIV
+
+# Il tempo grigio lo avvolge lentamente
+
+Cercando un modo per esprimere la propria stanchezza.
+
+E in quella terribile compagnia… angoscia.
+
+E quella triste notte, con i suoi passi silenziosi, se ne va.
+
+#Le fiamme della mia misera stufa brillano debolmente
+
+E nei boschi, senza quei ricordi che opprimono…
+
+# Dove, sempre più lontano tra gli alberi…
+
+Il misterioso astro a forma di corno si abbassa nel cielo.
+
+Per ora… dicembre, pieno di preoccupazioni.
+
+#"Entrando nell'anno, piange debolmente..."
+
+Borbottando i suoi desideri perduti e la sua disperazione
+
+# E con mano tremante e folle, ancora intrecciando…
+
+“Il gambo appassito dei fiori si intrecciava nei suoi capelli…”
+
+Mentre intorno a lui vorticano le foglie marce.
+
+# XXV
+
+# Si congela: in tutto un cielo silenzioso
+
+Gli uccelli tornano a casa. È iniziato il dominio dell’oscurità.
+
+# L'oscurità ferma e immutabile che non attende il sole
+
+L’oscurità definitiva in cui la razza perirà.
+
+#Morte con il dito malvagio sulle labbra
+
+#"Spia che osserva attraverso le finestre umane"
+
+Imparare il paese dove dovrà esercitare il suo potere
+
+Quando assumerà il comando perpetuo delle forze armate.
+
+L'avversario invincibile, il freddo gelido
+
+“Che infine renderà silenziosa questa terra piena di suoni…”
+
+# Il padrone del nostro momento, e ci ha legati a lui
+
+Il vento stesso, invisibile. Non c’è alcun suono.
+
+Si blocca. Ogni trasmissione amichevole va velocemente.
+
+Si congela, e i rami intagliati rimangono immobili.
+
+# XXVI
+
+“O mio compagno, o mia sorella Sonno…”
+
+La valle è proprio davanti a noi, portami con te.
+
+# Alto nel cielo del tramonto, appena svanito…
+
+Oltre le luci del porto, oltre il pendio ripido…
+
+Oltre la terra e la sua benedizione perduta
+
+“Verso dove, maestoso sulle tenebre profonde…”
+
+La notte si avvicina dal Monte Aurion.
+
+Oh mio compagno, oh mia sorella Sonno.
+
+Al di sopra della linea di schiuma, nella brezza notturna…
+
+#Sopra i mari che sussurrano incessantemente…
+
+Attraverso l’aria calda, senza più bisogno di fare la guardia.
+
+La mia giornata è finita e tutti i suoi destini sono già scritti.
+
+Oh caro precursore della Morte e promessa di un rifugio.
+
+Oh mio compagno, oh mia sorella Sonno.
+
+# XXVII
+
+# Sei la fine, Disperazione, o il più sfortunato tra tutti?
+
+Di quelli che proiettano grandi ombre e sono solo menzogne.
+
+Quei che temono la semplicità e distruggono i saggi
+
+Fallire alla tomba e trionfare alla festa?
+
+#Non sei stato trovato sull’Oliveto, stupido animale…
+
+"Né a Tebe, durante le agonie della notte..."
+
+# Dissolto nella gloria dell’oriente splendente
+
+E Gesù Cristo era nei cieli del mattino.
+
+#Non hai mai domato quella cresta indomabile
+
+Titolo:  
+Di Tzerna-Gora, quando il falco fu allevato…
+
+Gridava sopra l’Adriatico… e il loro Signore
+
+#Andato a cavalcare, ancora più arrabbiato degli altri…
+
+# Convocare i vivi e i morti
+
+E distruggere i musulmani con la spada che colpisce ripetutamente.
+
+# XXVIII
+
+Ma oh… né la adorabile Helen, né l’orgoglio.
+
+Di quell’antichissimo Ilio, unito alla sorte funesta.
+
+Uomini assassinarono Priamo nella sua stanza reale
+
+E Troia fu distrutta dal fuoco e Ettore morì.
+
+Perché anche il terribile giorno di Ettore fu ancora peggio…
+
+#Più di tutto il coraggio che aveva nel respiro osava difendere
+
+#L’armatura luminosa e la difesa della guerra
+
+Concluse la sua grande storia con il solito finale.
+
+#Il figlio di Priamo, il baluardo della città
+
+Il soldato nato nel campo militare esalta il grande…
+
+E le corna, disposte davanti alla battaglia, garantirono la vittoria.
+
+Eppure scese giù… quando dimenticò il proprio destino.
+
+Lo abbatterono finalmente, nonostante indossasse tutta l’armatura.
+
+Ettore: il cavaliere, alla Porta Scæana.
+
+# XXIX
+
+Il mondo è un palcoscenico; la luce si trova negli occhi di ognuno.
+
+L’Auditorium è estremamente buio.
+
+Chi è meno onesto ottiene una crescita maggiore.
+
+Quelle offese più gravi lasciano un segno più profondo.
+
+Le donne che ne fanno uso traggono beneficio dalla loro forma fisica.
+
+Alcuni, per la loro vivacità… Gli uomini.
+
+Conbraccianti pantaloni e cappotti su misura.
+
+Il mondo è un palcoscenico. Lo dico ancora una volta.
+
+Il paesaggio è davvero il meglio in assoluto.
+
+Di ciò che quella misera tragedia deve mostrare…
+
+Inoltre, quel “prompter” è proprio stupido.
+
+# Beviamo dietro le quinte e facciamo qualche battuta
+
+#Su tutta la nostra follia… prima di andarcene
+
+Grida sonore chiamano l’“Autore”, ma lui non arriva.
+
+# Mai scrivere una frase su questo argomento.
+
+Il mondo è un palcoscenico… e io sono il Superuomo.
+
+E nessuno sembra essere responsabile per gli stipendi.
+
+#Ruggisco la mia parte il più forte che posso
+
+E tutto ciò che dico lo rivolgo soltanto al pubblico presente in sala.
+
+# Non ho altre rime per “allergia”
+
+#Avrebbe potuto fare di meglio, senza dubbio
+
+# Se avessi rinunciato a provare a comporre versi in rima…
+
+Proprio come Alfred Tennyson che adattò le opere di Malory.
+
+Il mondo è un teatro, e tutti ne sono attori.
+
+# Poco talento e ancora meno letture
+
+# Molte sono le streghe pagane che barcollano…
+
+E molti di quei individui spregevoli, nati nelle fogne della miseria.
+
+Imparare non è mai facile… per tutti i sacrifici che richiede.
+
+Noi ce ne andiamo. Solo il “Chucker-out” rimane.
+
+# XXXI
+
+Il mondo è un teatro… La modesta tariffa d’ingresso
+
+Viene pagato (in nome del titolare) al registratore.
+
+L'orchestra suona molto forte e liberamente.
+
+Ma non suona nessuna musica in particolare.
+
+Per quanto ne so, non stampano alcun programma.
+
+La casta è numerosa; non c’è alcuna trama.
+
+La rappresentazione di quest’opera è decisamente inferiore…
+
+La peggiore forma di decadimento modernista.
+
+# L’unica cosa che mi piace in tutto questo
+
+Era ciò che in inglese veniva chiamato Foyay.
+
+#Rimarrò da parte per un po’ e mi divertirò…
+
+Con attenzione, accendo la mia sigaretta…
+
+E poi… senza tornare al dramma…
+
+Indossai il mio cappotto e uscii nella notte.
+
+II
+
 
 
 <span class="atom-split" data-atom="story_24_lyrical_didactic_and_grotesque" data-title="Sonnets and Verse — Lyrical, Didactic And Grotesque" data-chapter="Lyrical Didactic And Grotesque" data-kind="story" data-tags="topos/katabasis_descent,motif/sea,motif/wind,concept/money_and_avarice,concept/nostalgia,concept/mortality,form/poem,setting/the_underworld,character/king_dives"></span>
@@ -6846,6 +7945,202 @@ Nor even in my rightful garden lingered: —
 What have you not refused?
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lirico, didattico e grottesco  
+Per i subacquei
+
+"Dive, quando tu ed io scenderemo all’Inferno"
+
+# Dove finiscono gli scribacchini e anche i milionari
+
+# Continueremo ognuno per la propria strada
+
+Due gruppi molto grandi, ma molto diversi tra loro.
+
+E mentre vacilli sotto il peso dei tuoi fardelli, mio amico…
+
+# Lungo la spiaggia monotona dove tutte le nostre avventure finiscono
+
+E precedimi (come richiede il tuo rango).
+
+Verso gli infiniti bassopiani sotterranei
+
+E quel caro fiume dell’oblio…
+
+# Charon, un uomo di squisita educazione
+
+#Perché, come avrebbero potuto spiegare i antenati di tua moglie…
+
+# Etichetta rigorosa all’inferno
+
+Titolo:  
+“Visto che sei un signore, osserva, ‘Mio signore…’”
+
+“Non possiamo portare con noi queste cose pesanti a bordo!”
+
+“Allora scendono giù, i miei poveri tuffatori… giù.”
+
+# I quindici tipi di stivali che tenevi per le occasioni cittadine
+
+#Il cappello adatto per incontrare il Diavolo… il semplice
+
+Ma cravatte costose… le confezioni di champagne…
+
+L'orologio solido, il sigillo, la catena e il ciondolo…
+
+# Il modello operativo di una fattoria a combustione
+
+# A tutti e tre i piccoli Belial…
+
+"Biscotti per Cerbero: la garanzia"
+
+Da Lambeth, dove i ricchi non potranno mai bruciare…
+
+E anche promettendo un ritorno sicuro…
+
+Il meraviglioso cappotto, progettato con cura
+
+# Attraversare il Cocito – con grande calore e affetto…
+
+# Dolci tuffate… li lascerai tutti indietro
+
+E entrare all’Inferno in condizioni di estrema povertà e nudità
+
+Come era vostro padre quando andava in campagna…
+
+Dietro un carico di roba, in Leicester Square.
+
+Poi si rivolse a me, notando qualcosa che…
+
+Con passi negligenti, una nebbia di ombre…
+
+Risate e ricordi… e qualche rimpianto.
+
+# Un po’ di onore… e un sacco di debiti
+
+Un dubbio o due… e una fiducia in Dio.
+
+E (ciò che vi sembrerà estremamente strano)
+
+Il nome del nonno del nonno del padre di suo padre
+
+Inalterato, senza titolo, persino scritto allo stesso modo…
+
+#Charon, che ventimila volte prima…
+
+# Ha condotto i poeti verso rive più lontane
+
+# Calcolerà il peso che porto… e piangerò
+
+“Compagno!” (Si sa che anche lui abbia provato…)
+
+La sua abilità con la poesia in latino e italiano
+
+# Molto nel stile di Virgilio… solo peggio
+
+“Lasciamo che tali vani fantasmi passino…”
+
+# Allora dimmi, Dives, quale delle due sembrerà più stupida…
+
+Tu, o io? O Charon? Chi può saperlo?
+
+In Inferno ordinano le cose in un modo davvero assurdo.
+
+# Stanze scritte sul ponte di Battersea durante una tempesta da sud-ovest
+
+“I boschi e le colline sono avvolti dal clima tipico di metà dicembre…”
+
+I boschi rumorosi e le valli marine lontane di casa…
+
+Il vento mi ha trovato e io ricordo davvero
+
+Il forte profumo della schiuma.
+
+“Foreste, amate del mio cammino errante… un’altra volta.”
+
+# Ti possiede… mentre un altro percorre la Strada del Basso.
+
+Titolo:  
+Il vento del sud-ovest… che era come mio fratello maggiore
+
+È arrivato in città da me.
+
+#Il vento urla dalle colline dell’alba
+
+Me ne ricordo bene e non intendo restare.
+
+# Prenderò la strada di Hampton senza alcun avviso
+
+E portami via, lontano da qui.
+
+Il canale è aperto, i piccoli mari stanno saltando…
+
+#La marea sta sommergendo Arun Bar;
+
+E lì c’è la mia barca, mentre tutti gli altri dormono…
+
+E anche i miei compagni lo sono.
+
+#"La vestirò e la monterò"...
+
+Il mio battello… è stato il mio più forte amico.
+
+# Quell’incontro segnò l’inizio della mia infanzia
+
+E mi insegnò il vasto mare.
+
+#Ora la guiderò, sfrecciando contro ogni tempesta…
+
+“Metterli tutti da parte…”
+
+Dimenticheremo insieme quelle strade pericolose
+
+E trovarla, o forse la troveremo insieme?
+
+# Non c’è alcuna guida in cui la mia anima possa riporre fiducia
+
+# Dove posso catturare ciò che si trova sotto la mia mano piegata
+
+# Debole e amata lungo l’orizzonte estremo
+
+Quella terra indimenticabile.
+
+# Non circonderemo mai i piloni di granito né pavimeremo il terreno intorno ad essi
+
+Per mentire, ci servono banchine con la vela ammainata.
+
+#Il mio piccolo battello… non raggiungeremo il rifugio.
+
+Non appartiene a questo mondo.
+
+Titolo:  
+In qualche angolo delle vaste terre inglesi, protetto con maestosità
+
+# Rimane in piedi, ma non per gli esiliati… marcato e pulito.
+
+“Oh! Non per noi… Una nebbia si è alzata e l’ha rovinato…”
+
+La mia giovinezza si trova in quel periodo intermedio.
+
+Così, in questa trappola che mi intrappola e mi spaventa…
+
+# Dove l'onore fatica a sopravvivere e l'amore non esiste più
+
+Il mare mi chiama, e la mia terra mi invita…
+
+Ma ci sono cose ancora più forti che riescono a contenerle.
+
+. . . . . .
+
+#Inghilterra, per me che mai mi sono lamentato…
+
+Né parole false, né lusinghe vostre…
+
+Nemmeno nel mio giardino, che mi spetta di diritto, si soffermò…
+
+Cosa non hai mai rifiutato?
+
 
 
 <span class="atom-split" data-atom="story_25_the_south_country" data-title="Sonnets and Verse — The South Country" data-chapter="The South Country" data-kind="story" data-tags="concept/faith"></span>
@@ -6973,6 +8268,131 @@ And the men that were boys when I was a boy
 
 Shall sit and drink with me.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Paese del Sud
+
+# Quando vivo nelle Midlands
+
+“Che siano bagnati e crudeli…”
+
+Accendo la mia lampada alla sera:
+
+Il mio lavoro è rimasto indietro…
+
+E le grandi colline della regione del Sud
+
+Tornano di nuovo nella mia mente.
+
+Le grandi colline della regione del Sud
+
+# In piedi lungo il mare
+
+E là è, che cammina nella fitta foresta…
+
+# Quello che vorrei diventare
+
+#Gli uomini che erano ragazzi quando io ero ragazzo
+
+Camminando insieme a me.
+
+Gli uomini che vivono nel Nord dell’Inghilterra
+
+Li ho visti per un giorno:
+
+I loro cuori sono fissi su quelle terre desolate e incolte.
+
+“Il loro cielo è veloce e grigio…”
+
+Dai muri del loro castello, un uomo può vedere…
+
+Le montagne lontane.
+
+Gli uomini che vivono nell’Inghilterra occidentale
+
+#Il Severn è potente
+
+#Un treno che rolla sulle acque agitate, marrone
+
+Foglie di pioppo leggere che si muovono al vento.
+
+# Il segreto delle rocce
+
+E il tipo di canzone più antico.
+
+Ma gli uomini che vivono nella regione del Sud…
+
+# I più gentili e i più saggi
+
+#Il riso loro viene dal fragore delle onde
+
+E la [[Faith|>fede]] nei loro occhi felici.
+
+Titolo:  
+Certamente proviene dalla nostra Sorella, la Primavera
+
+#Quando vola sopra il mare;
+
+I violacci fioriscono all’improvviso ai suoi piedi.
+
+Ci benedice con le sorprese.
+
+# Mai riesco ad insinuarmi tra quegli alberi di pino
+
+# Ma sento l’aria del Sussex…
+
+# Nemmeno io cammino mai su una striscia di sabbia
+
+Ma la mia casa è lì.
+
+# Lungo il cielo, la linea delle colline…
+
+Così nobile, e così nudo.
+
+Una cosa perduta… che forse non riuscirò mai a trovare.
+
+Né una cosa rotta può essere riparata…
+
+# E temo di rimanere completamente solo
+
+Quando arrivo verso la fine.
+
+Chi sarà lì ad consolarmi?
+
+O chi sarà il mio amico?
+
+# Raccoglierò e curerò attentamente i miei amici
+
+Degli uomini della foresta del Sussex
+
+# Osservano le stelle tra silenziose pieghe
+
+Lavorano duramente nel campo.
+
+# Da loro e dal Dio della Piana Meridionale
+
+La mia povera anima sarà guarita.
+
+Se mai diventerò un uomo ricco…
+
+O se mai dovessi invecchiare…
+
+# Costruirò una casa con un tetto coperto di paglia spessa
+
+Per ripararmi dal freddo…
+
+E lì verranno cantate le canzoni del Sussex
+
+E così fu raccontata la storia del Sussex.
+
+# Terrò la mia casa nella foresta alta
+
+A pochi passi dal mare
+
+#Gli uomini che erano ragazzi quando io ero ragazzo
+
+Vieni a sederti e bere con me.
 
 
 
@@ -7130,6 +8550,159 @@ A moment loud, a moment strong,
 But foul forever, rolled along.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il fanatico
+
+Ieri notte in Compton Street, Soho…
+
+Un uomo che molti di voi conoscono
+
+È morto alle nove e mezza.
+
+Quella sera era andato a cena.
+
+# A Gressington’s – un atto sconsiderato
+
+Ma non la causa della sua morte.
+
+#Tutti i medici concordano sul fatto che…
+
+#Affetto da atrofia cardiaca
+
+Accelerato (più o meno)
+
+# Per mancanza di cibo adeguato, sofferenza…
+
+Sporcizia e mancanza di sonno.
+
+#Un uomo che non riusciva a trattenere nulla
+
+Il suo denaro (quando ne aveva)
+
+#A causa dei creditori che sono arrivati
+
+# Prese e se ne andò; lui la diede via
+
+So con certezza che non era in grado di salvarla.
+
+Ma in tutto quel tempo, una sorta di capriccio…
+
+Restò costantemente al suo fianco.
+
+Metà ammirevole, metà assurdo:
+
+Per mantenere la sua parola, per mantenere la sua promessa.
+
+#Con cui non intendeva ciò che pensi tu
+
+E intendevo dire… (riguardo ai pagamenti dovuti)
+
+# Prenota il tuo appartamento in tempo!
+
+# Era davvero troppo pazzo per farlo
+
+Ma – come egli stesso lo esprimeva con grande eleganza…
+
+Abbandonare, sciocco o divino…
+
+Ma “Quella grande parola che ogni uomo…”
+
+“Donato a Dio prima ancora che la sua vita iniziasse.”
+
+“Era una parola sacra”, disse.
+
+# I morti senza via d’uscita trovavano conforto in questo
+
+E fece sorridere Dio quando fu mostrato
+
+Intatto, davanti al Trono.
+
+E questo… (disse)… intendeva tenerlo per sé.
+
+Nonostante debiti, odio e freddo…
+
+E questo… (disse) era ciò che voleva mostrare.
+
+Come passaporto per accedere ai piani sottostanti.
+
+Si vantava di questo e ne faceva lodi.
+
+Per se stesso, per tutta la sua vita.
+
+# Un resoconto per preservare la memoria
+
+Come rimase fedele e inalterato nelle sue decisioni
+
+#In piedi rigido, tenendolo stretto
+
+Il suo custode lo curava con grande attenzione.
+
+Aveva due testimoni pronti a giurare
+
+L’ha tenuto per un po’ a Berkeley Square.
+
+# Dove quasi nulla sopravvive
+
+E, attraverso la vita più solitaria di tutte
+
+# Mantenne tutto pulito, mantenne tutto immobile
+
+Fino alle ultime estremità della malattia.
+
+Quindi, quando morì, molti dei suoi amici…
+
+#Chi arrivò in folla da tutte le direzioni
+
+Di Londra, affinché si possa conoscerla
+
+Conoscevano quell’uomo che è morto da solo.
+
+Alcuni, che ritenevano il suo umore nobile e elevato…
+
+E di tanto in tanto gli mandava della zuppa.
+
+Titolo:  
+“Beh, non si possono costringerli ad adattarsi…”
+
+“Il mondo… e ha una fine!”
+
+Ma altri, osservandolo con curiosità, dicevano:
+
+“L’uomo che mantenne la sua parola è morto!”
+
+# Con rabbia, allora, un certo terzo…
+
+Gridò: “Signori, ha mantenuto la sua parola.”
+
+E come un uomo circondato da bestie…
+
+Caotico, su un piccolo tumulo
+
+# Archer in Peril per un’ora terribile
+
+# Perché un uomo è nato per il potere
+
+Eppure, per sfidare il gruppo che seguiva…
+
+“Tende con forza l’arco, perseguendo il proprio chiaro scopo…”
+
+Fino a quando non sarà sopraffatto al punto di osare cadere…
+
+Ecco dunque questo baluardo formato da tutti noi.
+
+Tenne la sua parola, come solo lui avrebbe potuto fare.
+
+Avremmo potuto tenerlo, e infatti non l’abbiamo fatto.
+
+E intorno a lui, mentre manteneva la sua parola…
+
+Gli uomini di oggi, malati e infedeli…
+
+Un momento forte, un momento deciso…
+
+“Ma per sempre contaminato, rotolando via…”
+
 
 
 <span class="atom-split" data-atom="story_27_the_early_morning" data-title="Sonnets and Verse — The Early Morning" data-chapter="The Early Morning" data-kind="story" data-tags="motif/moon,motif/dawn,form/poem"></span>
@@ -7145,6 +8718,18 @@ The moon on my left and the dawn on my right.
 
 My brother, good morning: my sister, good night.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# La mattina presto
+
+La luna da un lato, l’alba dall’altro:
+
+La luna è mia sorella, l’alba è mio fratello.
+
+La luna a sinistra e l’alba a destra.
+
+Mio fratello, buongiorno; mia sorella, buonanotte.
 
 
 
@@ -7201,6 +8786,58 @@ But Our Lady stands above the world
 
 With the white Moon at Her feet.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Nostro Signore e Nossa Signora
+
+#Avvertirono la Nostra Signora per il Bambino
+
+# Era il nostro benedetto Signore
+
+# E lo portò nel deserto selvaggio
+
+Attraverso il guado del cammello.
+
+# Una lunga canzone che lei gli cantò
+
+E una breve storia raccontata…
+
+E lo avvolse in un mantello di lana.
+
+Per proteggerlo dal freddo.
+
+Ma quando Nostro Signore divenne adulto
+
+#I ricchi lo trascinarono giù con loro
+
+E lo crocifissero a Golgota.
+
+Oltre i confini della Città.
+
+Lo crocifissero sul Calvario.
+
+In una giornata di aprile…
+
+E perché era stato il suo piccolo figlio…
+
+Lo seguì per tutto il cammino.
+
+# La Madonna accanto alla Croce
+
+Un piccolo spazio di distanza
+
+E quando lei udì il nostro Signore gridare
+
+Una spada le penetrò nel cuore.
+
+#Nel mausoleo di marmo fu sepolto il nostro Signore
+
+Morto, avvolto in un lenzuolo funebre.
+
+Ma Nostra Signora si erge al di sopra del mondo
+
+Con la Luna bianca ai suoi piedi.
 
 
 
@@ -7264,6 +8901,64 @@ Go bless you, People, one by one;
 My Rhyme is written, my work is done.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Cortesia
+
+# Per cortesia… molto meno
+
+Più del coraggio o della santità…
+
+#"Nei miei vagabondaggi, mi sembra..."
+
+Che la Grazia di Dio risieda nella Cortesia.
+
+# Su i monaci… a Storrington l’autunno scorso
+
+Mi portarono subito nel loro Salone.
+
+# Tre quadri su un muro
+
+E nella loro natura c'era sempre la cortesia.
+
+#La prima annunciazione
+
+#Il momento della visita
+
+# La terza consolazione
+
+Dio, che era il Figlio di Nostra Signora.
+
+Il primo era di San Gabriele;
+
+# Cadde dalle nuvole, infuocato come le fiamme del cielo;
+
+E mentre si metteva in ginocchio…
+
+Rifulgeva di vera e propria nobiltà d’animo.
+
+#La Madonna di Nazareth cavalcò…
+
+#Il suo mese di pesanti responsabilità
+
+Il suo volto era grande e gentile al contempo.
+
+Perché nella sua mente c'era solo la cortesia.
+
+Il terzo era il nostro Piccolo Signore.
+
+Chi era amato da tutti i re in armi…
+
+# Era così piccolo che non si riusciva nemmeno a vederlo
+
+La sua grande intenzione di cortesia.
+
+# Il Figlio di Nostra Signora
+
+Va', beneditevi tutti, uno per uno.
+
+La mia rima è stata scritta, il mio lavoro è terminato.
+
 
 
 <span class="atom-split" data-atom="story_30_the_night" data-title="Sonnets and Verse — The Night" data-chapter="The Night" data-kind="story" data-tags="motif/night,motif/sleep,motif/dreams,motif/moon,form/poem"></span>
@@ -7303,6 +8998,42 @@ And cheat me with your false delight,
 
 Most Holy Night.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La Notte
+
+# La Notte Santissima, che ancora veglia
+
+Le chiavi di tutte le porte del sonno,
+
+A me, quando le mie stanche palpebre si chiudono,
+
+Concedi tu riposo.
+
+E fa' che il lontano lamento di coloro
+
+Che cantano il requiem del giorno morto
+
+Diventi, alle mie orecchie che vegliano insonni,
+
+Dolce ninnananna.
+
+Fa' che coloro che custodiscono la luna cornuta
+
+Sussurrino al mio capezzale le loro memorie.
+
+Così avrò sogni nuovi e benedetti
+
+Nel mio breve riposo.
+
+Distendi le tue grandi ali sul mio volto,
+
+Nascondi l'aurora al mio giaciglio,
+
+E ingannami con la tua falsa delizia,
+
+Notte Santa.
 
 
 
@@ -7384,6 +9115,82 @@ She led us to the endless plains.
 We lost her in the dawn.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il leader
+
+# La spada cadde: sentii un rintocco di campana
+
+# Pensavo che la facilità fosse la cosa migliore
+
+Uomini cupi che comprano e vendono
+
+Noi eravamo gli ospiti; io ero l’invitato.
+
+# Insieme ai porci, senza alcuna vergogna…
+
+#Abbiamo gettato i dadi per la guerra
+
+La notte era inebriata da un vino malvagio…
+
+Ma lei continuò a parlare.
+
+# Cavalcò un cavallo della razza delle schiume marine
+
+# Tutta la sua magia risiedeva nella sua lama
+
+# E l’armatura sulle sue tenere membra
+
+Era fatto con la grappa illegale prodotta illegalmente.
+
+# Per Dio che manda le cameriere maggiore…
+
+Non so da dove sia venuta.
+
+Ma la spada che portava per salvare l’anima
+
+# Si è alzato come una fiamma su un altare
+
+# Dove una razza spezzata, in un luogo desolato…
+
+Chiamate il Santo Nome.
+
+# Strappammo gli occhi nella penombra dell’alba
+
+Non riuscivamo a vederli chiaramente.
+
+Ma due uomini morti dalle paludi di Valmy
+
+Cavalcò tenendo saldamente le redini.
+
+# Li sento tutti, i richiami dei miei padri
+
+# Li vedo come cavalcano…
+
+#E dove era finita quella vergogna indecente?
+
+Era un esercito pieno di orgoglio.
+
+Centomila uomini in marcia
+
+Di venti squadroni…
+
+E dopo di loro… tutte quelle armi, tutte quelle armi.
+
+Ma lei continuò a parlare.
+
+Il suo viso era come un ordine reale
+
+Quando tutte le spade sono sguainate.
+
+# Allungò le braccia e ci sorrise.
+
+La sua testa era più alta delle colline.
+
+Ci portò nelle vaste pianure senza fine.
+
+L’abbiamo persa all’alba.
+
 
 
 <span class="atom-split" data-atom="story_32_a_bivouac" data-title="Sonnets and Verse — A Bivouac" data-chapter="A Bivouac" data-kind="story" data-tags="motif/cross,motif/night,motif/supernatural,form/poem,setting/military_camp,setting/france"></span>
@@ -7427,6 +9234,48 @@ Mysterious as the moons that rise
 
 At midnight, in the Pines of Var.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un bivacco
+
+I
+
+# Senza un suono umano
+
+#Mi hai portato la mia anima…
+
+# Solo allora mi sono svegliato, e intorno a me…
+
+Dormivano sul terreno illuminato dal fuoco.
+
+Accanto alle armi in Borgogna.
+
+II
+
+#Il gesto delle tue mani
+
+#Con la Croce hai segnato la mia fronte;
+
+Il gesto delle tue mani sacre
+
+Era generoso… come le terre avvolte nella nebbia.
+
+Lungo le colline del Calvados.
+
+# III
+
+Ma quando dormivo, vedevo i tuoi occhi.
+
+Affamato a morte, e molto lontano.
+
+Titolo:  
+Ho visto la domanda nei tuoi occhi scuri…
+
+Titolo:  
+Misterioso come le lune che sorgono
+
+A mezzanotte, nelle Pinete di Var.
 
 
 
@@ -7560,6 +9409,138 @@ And now by all the gods of scorn
 We mean to rub them in.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ai membri della Balliol ancora in Africa
+
+Titolo:  
+Anni fa, quando studiavo al Balliol…
+
+Gli uomini di Balliol… e anch’io ne facevo parte.
+
+Nuvole che galleggiano insieme nei fiumi invernali.
+
+Lottarono insieme sotto il sole.
+
+E ancora nel cuore di noi, Balliol, Balliol…
+
+Amata già, ma quasi sconosciuta
+
+Ci ha uniti tutti insieme, indissolubilmente.
+
+Chiamata a prestare servizio militare, scelse lei stessa la destinazione.
+
+Titolo:  
+Ecco una casa in grado di proteggere un uomo…
+
+Con gli occhi di un ragazzo e il cuore di un guardiacaccia
+
+# E una risata che sfida il mondo intero
+
+# Una sacra sete e fame di pericolo
+
+“Balliol mi ha creato, Balliol mi ha nutrito.”
+
+Qualsiasi cosa avessi, lei me la restituiva sempre…
+
+E il migliore tra i membri del gruppo di Balliol mi amò e mi guidò.
+
+Che Dio sia con voi, uomini di Balliol.
+
+L'ho detto prima, e lo dico di nuovo.
+
+# Tradimento e menzogne
+
+#In Inghilterra, sotto il dominio degli uomini più vili…
+
+E tangenti dappertutto, e un trattato infranto…
+
+Ma arrabbiato, solo, e ancora odiandolo…
+
+Volevo essere lì, nonostante tutto ciò che era sbagliato.
+
+Il mio cuore era pesante per Cumnor [[Hill]]
+
+E il martello che batte senza sosta per tutto il giorno.
+
+#"Correndo verso l’esterno, tra il maltempo..."
+
+Pronti alla battaglia e sempre pronti ad agire…
+
+# Insieme alle parole, insieme al vino
+
+E cantavano insieme nella Sala Balliol.
+
+Rari e unici! Nobile e scarsi!.
+
+Oh! Vi hanno sprecati laggiù, in mare.
+
+I soli fratelli che abbia mai conosciuto
+
+Gli uomini che ridevano e litigavano con me.
+
+. . . . . .
+
+“Balliol mi ha creato, Balliol mi ha nutrito.”
+
+Qualsiasi cosa avessi, lei me la restituiva sempre.
+
+E il migliore tra i membri del Balliol mi amò e mi guidò.
+
+Che Dio sia con voi, uomini di Balliol.
+
+Versi dedicati a colui che, nella Casa del Signore, disse che coloro che si opponevano all’avventura in Sudafrica confondevano i soldati con gli speculatori.
+
+Titolo:  
+Pensavate che, poiché ci eravamo tenuti insieme, mio signore…
+
+# Un antico motivo e una forza potente
+
+# Maledicemmo quindi la spada
+
+Mio signore, ci avete trattato ingiustamente.
+
+# Anche noi conosciamo l’altezza sacra
+
+Titolo:  
+Sul versante di Tugela,
+
+# Dove quei trecento combatterono contro Beit
+
+E il giovane e bello Wernher morì.
+
+#L'alba della forza che declina
+
+L'ultima sfida armata:
+
+"Tall Goltman, silenzioso in sella"
+
+Magnifico all’alba.
+
+Il piccolo tumulo su cui stava Eckstein
+
+E il nobile Albu cadde…
+
+E Oppenheim, mezzo cieco per il sangue
+
+# Attraverso le acque in aumento…
+
+Mio Signore, li conosciamo bene.
+
+Le piccole case vuote e abbandonate…
+
+Le sinagoghe in rovina che piangono
+
+# A Francoforte e Berlino
+
+#Li conoscevamo quando la pace fu distrutta…
+
+#Nati di nobile stirpe…
+
+E ora, per tutti gli dèi del disprezzo…
+
+Vogliamo proprio far loro notare quanto sia successo.
+
 
 
 <span class="atom-split" data-atom="story_34_the_rebel" data-title="Sonnets and Verse — The Rebel" data-chapter="The Rebel" data-kind="story" data-tags="topos/combat_strife,archetype/rebel,motif/horse,concept/justice,concept/social_injustice,concept/distributism,concept/class_conflict,form/poem"></span>
@@ -7637,6 +9618,80 @@ For fear perhaps my little son
 
 Should break his hands, as I have done.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il ribelle
+
+# C’è un muro il cui materiale di costruzione sono le pietre…
+
+Sono bugie, tangenti e ossa di morti.
+
+# E ingiustamente, questo muro malvagio…
+
+# Nega ciò che tutti gli uomini hanno creato per tutti.
+
+#E senza alcun rimorso, questo muro ci circonda
+
+I nostri insediamenti e le nostre terre natie.
+
+Ma mi radunerò e partirò.
+
+# E chiamerò una campagna…
+
+E molti uomini udiranno il mio grido di saluto
+
+Chi mai avrebbe pensato che la tromba dovesse seguirne le orme…
+
+E molti uomini cavalcheranno con me
+
+#Chi mai avrebbe pensato di poterlo vedere
+
+La Alta Giustizia nella sua armatura.
+
+# Quando li troviamo dove si trovano
+
+# Una fila di uomini su entrambi i lati
+
+#Intendo iniziare subito ad agire
+
+# E sfondare i fianchi della loro formazione di battaglia
+
+#E spingerli verso l’interno dalle pianure…
+
+#E guidarli verso il caos lungo le strade…
+
+Cacciarli e inseguirli senza sosta, fino a catturarli.
+
+E custodisci le porte e difendi la città.
+
+#Allora potrò riposarmi dopo il mio viaggio
+
+Con la mia grande rabbia soddisfatta.
+
+Solo… prima di mangiare e bere.
+
+# Quando avrò ucciso tutti loro…
+
+“Che distruggerò i loro nomi scolpiti…”
+
+“E tagliò le immagini nei loro telai…”
+
+“E bruciano i loro portoni di cedro per il profumo che ne emana…”
+
+E fonderanno l’oro che indossavano le loro donne…
+
+# E colpiscano i cavalli alle ginocchia
+
+#E abbattete fino alla morte i loro alberi da legno
+
+#E arano profondamente i loro giardini—
+
+E tutte queste cose che intendo fare
+
+“For fear perhaps my little son…”
+
+Dovrei rompergli le mani, proprio come ho fatto io.
 
 
 
@@ -7774,6 +9829,140 @@ Nor ever turned my face to home
 Till I had slaked my heart at Rome.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il profeta perduto tra le colline al tramonto
+
+# Dio Potente che ha creato le stelle più lontane
+
+Per circolare e mantenere la loro traiettoria…
+
+# Ricordami… colui che tutte le prigioni hanno rinchiuso
+
+Il senso e il terribile destino impongono.
+
+#Al di sopra di me, nelle tue altezze…
+
+Inaccessibili: le cime sono congelate.
+
+Titolo:  
+Sotto le acque infestate chiamano…
+
+Intransitabile al di là degli alberi.
+
+Ho fame e non ho pane.
+
+La mia zucca è vuota, non c’è più vino dentro.
+
+Certo, i passi dei morti…
+
+Si stanno avvicinando silenziosamente a me.
+
+Si fa buio. Ho perso il guado.
+
+C’è un cambiamento in tutto ciò che è stato creato.
+
+# Le rocce hanno volti malvagi, Signore
+
+E ho terribile paura.
+
+# Ricordami: i vuoti dell’inferno
+
+Si espande enormemente in ogni direzione.
+
+Amico forte delle anime, Emmanuel,
+
+Riscattami da questa terra maledetta.
+
+# La lunga discesa dei giorni sprecati
+
+“Quei che alla fine mi hanno condotto qui…”
+
+# Ricorda che ero pieno di lodi
+
+I metodi senza senso e dubbiosi
+
+Ciò portò alla nascita di una città eterna.
+
+Ho affrontato le difficoltà e ho mantenuto la mia [[Faith|>Fede]].
+
+Solo il sentiero di sangue ho percorso…
+
+# Si fa buio… Sta’ accanto alla mia ombra.
+
+E accoglimi tu, Dio onnipotente.
+
+# La fine della strada
+
+Con queste scarpe e questo bastone
+
+Duecento guerrieri e mezzo
+
+Camminai, andai, misuravo i passi, inciampai…
+
+# Inciampai, camminai, avanzai…
+
+Spinto avanti, ansimando, oscillando e correndo…
+
+#Navigato, attraversato, nuotato… e schizzato d’acqua.
+
+# Arrampicato, strisciato e inerpicato…
+
+# Perduto e smarrito, vagabondai senza meta…
+
+# Barcollando e faticando…
+
+# In solitudine e silenzio mi accampavo
+
+# Dormii nelle pinete infestate di fantasmi
+
+#Mi soffermai, indugiai, zoppicai e strisciai…
+
+Salii, mi fermai, mossi un passo e saltai…
+
+# Camminavo lentamente, con passi decisi…
+
+#E… (Oh! Santi patroni e angeli)
+
+Che proteggano i quattro Vangeli!
+
+E voi profeti e maestri…
+
+# Incerti e minori
+
+Virgini e Confessori
+
+Capo di quelle glorie particolari
+
+Titolo:  
+"Essere nella sala del re"
+
+# Atque orare et exorare
+
+# Et clamare et conclamare
+
+# Clamanti cum clamoribus
+
+“Per noi peccatori, ”
+
+Lasciate che non lo nasconda. Fu io a cavalcare.
+
+#Per chi, se non i critici, potrebbe lamentarsi?
+
+Riguardo al fatto di “viaggiare” su un treno ferroviario,?
+
+Attraverso la valle e le terre alte…
+
+# Con tutto il mondo ai miei lati
+
+Bevendo quando ne avevo voglia
+
+Cantare quando ne avevo voglia;
+
+# Mai ho voltato le spalle alla mia casa
+
+Fino a quando non ebbi placato i miei desideri a Roma.
+
 
 
 <span class="atom-split" data-atom="story_36_an_oracle" data-title="Sonnets and Verse — An Oracle" data-chapter="An Oracle" data-kind="story" data-tags="archetype/pilgrim"></span>
@@ -7816,6 +10005,47 @@ For when the road attains the rail
 
 The [[Pilgrim]]’s great attempt shall fail.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un oracolo che avvertì lo scrittore durante il suo pellegrinaggio
+
+#"Al mattino arriva ciò che al tramonto ti raggiunge, e ti accoglie..."
+
+# Il padrone di casa comprende spesso le voci che vengono rifiutate
+
+# Note ignorate del rustico e i fiumi che scavano la terra
+
+Titolo:  
+Ocupato – Nella sacra dimora, si trova il tempio nascosto
+
+"Tonsuram Hirsuti Capitis, via namque pedestrem"
+
+#"Prevenire il corso con fermezza, o viaggiatore, affronta il lavoro con determinazione."
+
+# Per pietà tua, il progetto fallirà… per amore
+
+Antichi Riti elevati sotto il nome di Roma.
+
+Titolo:  
+Traduzione del testo precedente: —
+
+Titolo:  
+Quando l’alba sembra essere solo il tramonto…
+
+E coloro che continuano a rifiutare… ricevono comunque.
+
+# Quando parole sconosciute vengono comprese da persone ignote
+
+E le inondazioni vengono attraversate anche su terraferma.
+
+All'interno delle mura sacre, fate attenzione
+
+# La testa rasata che si vanta di avere i capelli
+
+# Quando la strada incontra i binari
+
+Il grande tentativo del [[Pilgrim|>Pellegrino]] fallirà.
 
 
 
@@ -7906,6 +10136,92 @@ He spoke it with a failing zest,
 
 And having spoken it, he died.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La morte e l’ultima confessione di Peter lo Zingaro
+
+# Quando Peter Wanderwide era giovane
+
+Vagabondò ovunque desiderasse andare.
+
+E tutto ciò che egli approvava veniva cantato.
+
+E la maggior parte di ciò che vide era bello.
+
+# Quando Peter Wanderwide fu gettato via
+
+# Oltre Auxerre, per mano della morte stessa
+
+# Cantava con tono eroico
+
+A sacerdoti e alla gente riunita lì:
+
+“Se tutto ciò che ho amato e visto…”
+
+# Con me il Giorno del Giudizio
+
+#Salvato tra la folla
+
+Dai demoni e dalle loro schiere malvagie.
+
+“Dio Onnipotente sicuramente griderà…”
+
+“San Michele! Chi è quest’uomo che sta lì…”
+
+Con l’Irlanda nello sguardo scettico…
+
+E il Perigord tra le sue mani
+
+"#Sulle sue braccia i lacci delle staffe..."
+
+# E nel suo passo, i mari stretti…
+
+E dalle sue labbra escono canzoni del Borgogna…
+
+Ma nel suo cuore… i Pirenei?
+
+“Allora San Michele risponderà correttamente”
+
+# E non senza un senso di vergogna angelica…
+
+“Sembra che riconosca il suo volto a prima vista…”
+
+Non riesco a ricordarmi il suo nome…?
+
+“Allora San Pietro mi sarà amico…”
+
+#Perché anche il mio nome è Peter
+
+“Lo conosco come una delle migliori persone.”
+
+Quella birra di orzo davvero eccezionale.
+
+“E sebbene non lo conoscessi bene…”
+
+E sebbene la sua anima fosse intrisa di peccato…
+
+Ho in mio possesso le chiavi del Cielo e dell’Inferno.
+
+Benvenuto, nobile Peterkin.
+
+#Allora spiegherò le ali della mia patria
+
+#Cammina con sicurezza sul pavimento celeste
+
+# E racconta alle Beate cose incerte…
+
+“Di Val d’Aran e Perigord”.
+
+—— —
+
+# L’ultima e solenne battuta
+
+Di stanco Peter Wanderwide.
+
+Lo disse con un entusiasmo che andava affievolendosi.
+
+E dopo averlo detto, morì.
 
 
 
@@ -8227,6 +10543,324 @@ I give the toast across the world,
 And drink it, “Gentlemen: the Club.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ode dedicata
+
+#Scrivere con tutta la mia forza
+
+#In declino da tempo…
+
+Una ballata di enorme lunghezza…
+
+# Alcune parti di cui sarà necessario fornire spiegazioni. [A]
+
+#Perché (a differenza della maggior parte degli uomini)
+
+Chi scrive per la fama o per scopi pubblici…
+
+# Una penna sciolta e fluida
+
+# Di miei amici intimi
+
+Per nessuno, nel nostro lungo declino…
+
+Così polveroso, malvagio e diviso…
+
+Avevo amici così piacevoli come i miei…
+
+O li amava almeno la metà di quanto li amassi io.
+
+—— —
+
+# Il matricolato si avvia lentamente lungo il viale principale
+
+# Folle d’amore per tutto ciò che vede
+
+Osserva il cielo autunnale pieno di stelle che lampeggiano velocemente.
+
+Assapora la brezza autunnale vivace.
+
+“Può davvero essere Oxford? È questo il posto?”
+
+“Di cui mio padre disse…”
+
+L’insegnamento privato era una vera e propria vergogna.
+
+Un credo che non è altro che una mascherata, pieno di vuote parole e privo di vita reale?
+
+#Può essere proprio qui che zio Paul…
+
+Guidato da un eccessivo cupore…
+
+“To drink and debt, e infine…”
+
+Fumare oppio nella sua stanza?
+
+“È da qui che vengono le persone?”
+
+Chi parla così ad alta voce e rotea gli occhi…
+
+E balbettare? Che cosa estremamente strana!
+
+Che curioso! Che grande sorpresa.
+
+“Un influsso di tempi più nobili”
+
+Più di quelli di loro… intendo, più di quelli dello zio Paul.
+
+#Ha risvegliato il sonno della loro decadenza
+
+E le loro mura in rovina erano macchiate di segni della vita.
+
+“O, cari e intrepidi ragazzi di un tempo…”
+
+# Che i vostri nomi fossero incisi qui…
+
+Per tutto il mondo, in francobolli d’oro…
+
+Per poterli leggere e rispettarli.
+
+# Chi lo creò e me lo tramandò
+
+# Questo “Oxford” dell’immensità del cielo…
+
+Ridendo, pieno di [[Faith|>fede]] e libero.
+
+“Con la gioventù che splende ovunque…”
+
+“Allora impara: tu, ignorante e cieco…”
+
+Uomo giovane, inesperto e ignorante…
+
+I loro nomi privati erano… [C]
+
+Il loro club si chiamava REPUBLICAN.
+
+. . . . . .
+
+# Dove giacciono sulle loro rive di luce
+
+# Le felici colline del Cielo tra loro
+
+#Gli dèi che dominano il cielo del mattino
+
+Non sono più giovani, né più sereni
+
+“Il coraggio dei quattro indomabili che rimangono…”
+
+Il primo che osò realizzare il proprio sogno.
+
+E in questa terra sgradevole…
+
+Per fondare l’Abbazia di Telemo.
+
+# Abbiamo mantenuto il piano rabelaesco: [D]
+
+#I delicati chiostri ricevettero la nostra dignità
+
+Con la legge naturale e i diritti dell’uomo
+
+Canzoni, stoicismo, vino e ostriche.
+
+La biblioteca era davvero accogliente…
+
+I libri sugli scaffali affollati
+
+Titolo: Erano principalmente scritti privati nostri.
+
+Abbiamo mantenuto una scuola e ci siamo insegnati da soli.
+
+#Insegnammo l’arte di scrivere
+
+# Uomini che ancora vorremmo soffocare…
+
+E dove trovare il Sangue dei Re
+
+Solo mezza corona a bottiglia.
+
+. . . . . .
+
+Eheu, fugaci, postumi!
+
+#Un vecchio detto ormai obsoleto
+
+Il mio mantello di sogni è stato rubato
+
+La mia giovinezza sta passando lungo la strada.
+
+. . . . . .
+
+La ricchezza della giovinezza… l’abbiamo spesa bene.
+
+E in modo dignitoso, come pochi riescono a fare.
+
+#È andato perduto? Non lo so…
+
+E inoltre, dubito che tu sia in grado di farlo.
+
+La domanda è davvero troppo vaga.
+
+E troppo profondo… e troppo vuoto.
+
+Titolo:  
+E gli uomini eruditi da entrambe le parti
+
+Usare argomenti che non riesco a comprendere.
+
+Dicono che in quel luogo immutabile…
+
+Ovunque ciò che amiamo rimane sempre caro
+
+Ci incontriamo faccia a faccia al mattino
+
+E finalmente arriviamo al nostro ventesimo anno.
+
+Dicono… e sono felice che lo dicano.
+
+È così; e potrebbe anche essere così.
+
+# Potrebbe essere proprio il contrario
+
+Non posso dirlo con certezza… Ma una cosa so:
+
+Dalle case tranquille e dai primi inizi…
+
+Verso le estremità ancora inesplorate
+
+"Niente vale la fatica e il sacrificio necessari per vincere."
+
+Ma c'è la risata e l'amore degli amici.
+
+. . . . . .
+
+Ma qualcosa si assottiglia… oh, miei compagni!
+
+# Qualcosa inganna il cuore e poi passa…
+
+E Tom… che voleva scuotere via gli anni.
+
+È diventato soltanto un rumore prodotto dallo sbattere di bicchieri.
+
+E Lui, il Pastore del Gregge
+
+#"Tenere i birmanesi sotto controllo"...
+
+Un esiliato su una roccia desolata
+
+Quello si affaccia sul confine cinese.
+
+# E Uno (Intendo dire me stesso, nientemeno che così)
+
+Ah! — riuscirà la posterità a crederci?
+
+Non solo non meritano il successo…
+
+Ma non è riuscito a realizzarlo.
+
+Non nemmeno questa strana città
+
+# Ha mai reso un’amicizia più solida?
+
+Ma… uno è sposato, un altro se n’è andato…
+
+Uno è un Don, e l’altro si trova in Birmania.
+
+. . . . . .
+
+# E oh… quei giorni, quei giorni…
+
+# Quando tutti e quattro se ne andarono insieme:
+
+# L’infinita profondità della nebbia estiva
+
+Il fragoroso orgoglio del clima autunnale!
+
+. . . . . .
+
+Non proverò più ad arrivare lì.
+
+Non salperò da solo.
+
+Ancorare una barca priva di uomini
+
+Nei piccoli moli di pietra di Yarnton.
+
+Ma mi siederò accanto al fuoco.
+
+# E mi porto la mano davanti agli occhi
+
+E seguire, per soddisfare il desiderio del mio cuore…
+
+L’ultima delle nostre “Odissee”.
+
+La tranquilla serata le permise di mantenere il loro appuntamento…
+
+Sotto un cielo aperto viaggiavamo.
+
+# E si dissolse in una nebbia vaga
+
+Lungo il perfetto fiume Evenlode.
+
+Titolo:  
+La tenera Evenlode che…
+
+Le sue praterie tacciono per ascoltare quel suono
+
+# Delle acque che si mescolano nelle frenate
+
+E lega il mio cuore alla terra inglese.
+
+Un bel fiume, tutto solo…
+
+#Rimane tra le colline… e tiene stretto qualcosa
+
+Cento piccole città di pietra
+
+Dimenticato nelle lande occidentali.
+
+. . . . . .
+
+# Osso di dubio (sebbene ci siano forze più malvagie)
+
+#"Dominate i nostri troni… e anche le menti più semplici."
+
+Bevono vini peggiori dei nostri.
+
+“In quello che non è più Austerlitz”
+
+“Quello sicuramente è uno spettro terribile…”
+
+Il temerario, il presuntuoso…
+
+Ancora canta per un brindisi immortale.
+
+Le avventure disastrose del mugnaio.
+
+#I mari senza fine sono appena una barriera
+
+Per coloro che sono così presi da tale convinzione…
+
+#Eravamo? Allora, per Dio, siamo ancora…
+
+Ordine! Chiamo il Club a riunione!
+
+# Tu conservi ancora quella canzone che abbiamo scelto insieme
+
+E come si alza, inciampa e osserva intorno?
+
+# Conservi ancora quel ricordo sacro
+
+Repubblicani? Repubblicani?
+
+# Come venivano scagliate quelle parole…
+
+Per sfuggire al peggio della sfortuna?
+
+# Un brindisi per il mondo intero
+
+# Bevilo, signori: il Club.
+
 
 
 <span class="atom-split" data-atom="story_39_dedication_on_the_gift_of_a_book_to_a_ch" data-title="Sonnets and Verse — Dedication On The Gift Of A Book To A Child" data-chapter="Dedication On The Gift Of A Book To A Ch" data-kind="story" data-tags="archetype/child,motif/childhood,motif/book_reading,motif/prayer,motif/hands,concept/childhood_and_growth,form/poem"></span>
@@ -8267,6 +10901,45 @@ Were also made, I think, to pray
 For men that lose their fairylands.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dedica al dono di un libro a un bambino
+
+Bambino! Non gettare via questo libro in giro!
+
+# Astenersi da piaceri profani
+
+Di ritagliare tutte le immagini.
+
+Conservalo come il tuo tesoro più prezioso.
+
+Titolo:  
+Figliolo, non l’hai mai sentito dire?
+
+Che tu sia l’erede di tutte le epoche?
+
+# Perché mai le tue mani non sono state create per questo scopo?
+
+Strappare queste bellissime pagine spesse.
+
+Titolo:  
+Le tue piccole mani sono state create per prendere…
+
+Le cose migliori… e lasciare quelle peggiori.
+
+# Possono anche essere utilizzati per scuotere
+
+Le enormi mani delle persone anziane.
+
+E quando le tue preghiere completano la giornata…
+
+Caro, le tue piccole manine…
+
+Titolo:  
+Credo che siano stati creati anche per pregare.
+
+Per gli uomini che perdono i loro regni incantati.
+
 
 
 <span class="atom-split" data-atom="story_40_dedication_of_a_childs_book_of_imaginary" data-title="Sonnets and Verse — Dedication Of A Child’S Book Of Imaginary Tales" data-chapter="Dedication Of A ChildS Book Of Imaginary" data-kind="story" data-tags="archetype/child,motif/childhood,concept/imagination,form/poem"></span>
@@ -8285,6 +10958,21 @@ Who very nearly all day long
 
 Are doing something rather wrong.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dedica di un libro per bambini di storie immaginarie  
+in cui i malviventi soffrono
+
+E è vero? Non è vero!
+
+E anche se lo fosse, non andrebbe bene.
+
+Per persone come me e te
+
+#Chi per quasi tutto il giorno…
+
+Stanno facendo qualcosa di piuttosto sbagliato.
 
 
 
@@ -8321,6 +11009,39 @@ In his surcease the hours,
 
 The early hours of all their happy circuit take.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Omaggio
+
+I
+
+# Una luce intorno alla tua testa
+
+Solo i santi di Dio possono indossarlo.
+
+E tutte le fioriture su cui calpesti…
+
+"In pleasance more than ours have fed..."
+
+#Avevano bevuto l’aria essenziale
+
+Di chi è un’estate in cui la musica risuona ovunque.
+
+II
+
+Perché sei più giovane delle mattine stesse
+
+# Che si spezza tra le montagne;
+
+# Quando i pastori delle colline vedono la loro unica stella
+
+Titolo:  
+“Pallido all’alba… e creare”
+
+#Nel silenzio delle ore…
+
+Le prime ore di tutto il loro felice percorso.
 
 
 
@@ -8386,6 +11107,66 @@ For why?
 The Moon is dead. I saw her die.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il funerale della luna
+
+I
+
+La Luna è morta. L’ho vista morire.
+
+#Avvolta in una nuvola errante…
+
+# Lungo l’incerto confine occidentale…
+
+Un sogno da vedere.
+
+E con voce molto bassa mi parlò:
+
+"#Vado dove nessuno può comprendere"
+
+# Scompaio nella terra senza nome
+
+“E deve rimanere lì per sempre.”
+
+E quindi io…
+
+#E quindi ad alta voce, molto ad alta voce… Io
+
+E in alto
+
+E con grande compassione inizia a piangere:
+
+“La Luna è morta… L’ho vista morire.”
+
+II
+
+E non si risveglierà mai più?
+
+La Luna Sacra? Oh, mai più!
+
+Forse lungo quella riva inumana…
+
+# Dove gli spettri pallidi sono
+
+Oltre la palude di Lethe
+
+Lei e qualche stella infernale e vasta.
+
+Per noi che l’amavamo e ora non possiamo più amarla…
+
+La Luna non sorgerà mai più.
+
+Oh! mai più nel cielo notturno
+
+# Occhio troppo alto per non curiosare
+
+Per vedere il grande mondo scorrere via davanti ai propri occhi.
+
+Perché?
+
+La Luna è morta. L’ho vista morire.
+
 
 
 <span class="atom-split" data-atom="story_43_the_happy_journalist" data-title="Sonnets and Verse — The Happy Journalist" data-chapter="The Happy Journalist" data-kind="story" data-tags="motif/city,motif/night,concept/satire_of_society,concept/deception,concept/vulgarity,form/satire"></span>
@@ -8449,6 +11230,67 @@ I ring for breakfast after lunch.
 
 I am as happy as a lord!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il giornalista felice
+
+# Cammino volentieri di notte
+
+# Per strade e angoli sporchi e pericolosi
+
+Tutti protetti dalla luce ostile
+
+E indipendente come un gufo.
+
+# Dietro le sbarre sporche mi piace nascondermi…
+
+# Spesso mi abbasso per guardare meglio
+
+Alle stampanti che lavoravano silenziosamente nel loro compito.
+
+Rifletto sulla decomposizione che causano.
+
+“I mendicanti mi supplicano… e anche il fango…”
+
+I redattori sotto le loro lampade
+
+# Assegnazione del sangue da parte del signor Howl
+
+# E il signor Retender che ruba le timbrature
+
+# Insegnamenti di un bugiardo
+
+Il figlio maggiore compone robaccia…
+
+# Beaufort (il cui vero nome è Meyers)
+
+Rifiutano qualsiasi cosa tranne il denaro contante.
+
+Mi piace pensare al signor Meyers…
+
+Mi piace pensare a Mr Bing.
+
+Mi piace pensare ai bugiardi…
+
+Mi piace, quel genere di cose.
+
+#Poliziotti parlano con me, ma io…
+
+# Ricordando i miei diritti civili
+
+Ignorali e non rispondere.
+
+Adoro passeggiare di notte.
+
+Titolo:  
+Dalle ventiquattro alle quattro… mi raggruppo
+
+Dall’altra parte della strada c’è un taxi che non posso permettermi.
+
+Suono il campanello per la colazione dopo pranzo.
+
+Sono felice come un re!
 
 
 
@@ -8579,6 +11421,135 @@ To write some more about the Don
 
 That dared attack my Chesterton.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Titolo:  
+Versi per un signore
+
+Don lontano e inefficace
+
+# Quello che osò attaccare il mio Chesterton
+
+Con quell’arma inadeguata, spinta a metà strada…
+
+Never learned, unstable, barely in control…
+
+#Inadatto a competere con gli uomini—
+
+La tua penna tremolante e corrosa…
+
+# Don povero a letto e ancora peggiore a tavola
+
+Don stretto, Don affamato, Don miserabile;
+
+Don balbuziente, Don dagli occhi erranti
+
+# Don Nervoso, Don delle Crudezze
+
+Don clericale, Don ordinario
+
+# Don autosufficiente e solitario
+
+Don qua e là, Don epilettico;
+
+Don affannato e vuoto, Don dal mal di stomaco…
+
+Don della media borghesia, Don ipocrita…
+
+# Don noioso, Don brutale, Don pedante
+
+# Ipocrita e malvagio
+
+Don furto, Don quasi pazzo…
+
+# Don (poiché un uomo deve pur concludere qualcosa)
+
+Colui che non sarà mai mio amico.
+
+. . . . . .
+
+Un Don diverso da quei Dons regali.
+
+Con cuori d’oro e polmoni di bronzo,
+
+# Chi grida, batte, ruggisce e urla
+
+# Dall’altra parte del corridoio…
+
+#Navigare avvolto in un abito sonoro e maestoso
+
+# Enorme attraverso la Città Sacra
+
+Titolo:  
+Dalla università alle loro case
+
+#"Carichi pesanti di volumi giganteschi";"
+
+Signori ammirevoli! Signori del Potere!
+
+# Ribellione nella mia visione interiore
+
+#Raccolta di antiche storie e viaggi
+
+E dormire, e in un certo senso anche imparare.
+
+#Doni l'inglese, degno di questa terra;
+
+Doni radicati. Doni che comprendono.
+
+Buoni signori per sempre… che rimangono tali.
+
+# Un punto di riferimento che delimita la pianura
+
+Il confine dei miei ricordi
+
+Come grandi e confortevoli alberi.
+
+. . . . . .
+
+# Molto diverso da tutto ciò
+
+# Il capro espiatorio, Don… il devoto Don
+
+“Donare alla propria dannazione…” citato.
+
+# Perplesso nel trovare il tuo nome banale
+
+Cresciuto nella mia poesia, verso un’umiliazione eterna.
+
+# Don terribile, roco e logoro
+
+Don repellente, un Don al di là di ogni limite.
+
+Il signore del respiro freddo e incerto
+
+# Signore spregevole, Signore della morte
+
+# Don Nasty, Skimpy, Silente e Livello
+
+Donna il male; donna ciò che serve il diavolo.
+
+Don brutto. Questo fa cinquanta righe.
+
+# C’è un canone che delimita
+
+"Maledizione ottosillabica in rima"
+
+Se scritto in versi iambici
+
+# Cinquanta righe… Non taglio mai nulla.
+
+# Preferisco di gran lunga porre fine a tutto…
+
+Credimi, tornerò presto.
+
+Titolo:  
+I miei fuochi sono spenti, ma continuano ad ardere…
+
+Scrivere ancora qualcosa sul Don
+
+Chi osava attaccare il mio Chesterton.
 
 
 
@@ -8794,6 +11765,220 @@ As thou exultest in Imperial Might
 The Benefits of the Electric Light.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Poema di Newdigate
+
+Poesia vincitrice inviata dal signor Lambkin, all’epoca studente e in seguito membro del Burford College, agli esaminatori dell’Università di Oxford sul tema poetico proposto nel 1893: “I benefici della luce elettrica”.
+
+Salve, felice Musa, e tocca quella corda melodiosa!
+
+Canto dei benefici che la Scienza conferisce.
+
+# Sotto la gentile guida degli esaminatori
+
+#Solo ne scrivo quando sono collegati a qualcos’altro
+
+Titolo:  
+Con i vantaggi offerti dalla luce elettrica…
+
+Ci dona qualcosa; soprattutto di notte.
+
+Questi sono i miei temi; su di essi sorgerà la mia canzone.
+
+# La mia testa orgogliosa si gonfierà fino a toccare il cielo. [G]
+
+E lacrime d’amore disperato bagnano gli occhi della fanciulla.
+
+Scendi, o Musa, dalla tua divina dimora.
+
+A Osney, sulla strada delle Sette Ponti;
+
+#Sotto l’ombra solitaria di Osney
+
+La maggior parte della lampada elettrica è già stata prodotta.
+
+Ecco le opere; da qui nasce il corso del flusso.
+
+# Quale… (così recita il prospetto aziendale)
+
+Titolo: Fornisce agli iscritti informazioni orarie per orario
+
+Non meno di sedicimila candele… [H]
+
+# Tutti a mille volt… (È essenziale)
+
+# Mantenere il livello attuale a questo alto potenziale
+
+Nonostante le notevoli spese.
+
+# L’energia sviluppata rappresenta…
+
+In termini di piedotoni, le forze unite…
+
+Quindici elefanti e quaranta cavalli.
+
+Ma dovranno forse i miei dettagli scientifici essere esposti in questo modo?
+
+Tagliare via le adorabili ali del leggero Pegaso?
+
+# Statistiche puramente statistiche… possono forse risultare sgradevoli all’orecchio?
+
+Quelle pantaloni accentuano chiaramente il tono melodioso di Lyric, vero?
+
+# Devo descrivere il complesso Dynamo?
+
+O forse scrivere qualcosa sul suo Commutatore? No!
+
+# Verso campi più felici conduco la mia penna libera e spensierata
+
+Lo studio approfondito dell’umanità riguarda gli esseri umani stessi.
+
+# Risvegliati, mia Musa! Raffigura questa piacevole scena
+
+Questo ci porta nel luogo in cui producono la luce elettrica.
+
+Ecco il elettricista dove si trova…
+
+Polvere di carbone, olio e ruggine sulle sue mani…
+
+Grandi macchie di grasso sporcano i suoi vestiti luridi.
+
+Mentre la sua conversazione è piena di imprecazioni.
+
+Dovrebbe davvero un essere del genere perire nella sua giovinezza?
+
+Ahimè, è davvero la tragica verità.
+
+“In quel cervello apatico, sotto quei capelli disordinati…”
+
+La familiarità ha generato disprezzo.
+
+Lo avvertiamo troppo tardi riguardo a quel gesto…
+
+Oh, crudele Giove! Oh, inflessibile Destino!
+
+Un tocco casuale… un movimento imprudente della mano…
+
+I Terminali – un lampo – un suono simile a “Zip!”
+
+Un odore di bruciato riempie l’aria…
+
+L’elettricista non c’è più!
+
+Ma torniamo, con un vero disprezzo artistico…
+
+Da fatti funebri e da visioni desolate
+
+# Nato da Erebo e dalla notte più oscura. [I]
+
+# Risvegliati, Musa! e canta con accenti ricchi e vibranti
+
+Titolo:  
+I processi interessanti attraverso i quali…
+
+L'elettricità viene trasmessa lungo il circuito…
+
+Questi sono i miei temi: su di essi modulo la mia canzone.
+
+# Incapsulato nel legno o nella malta porosa
+
+Attraverso fili di rame spessi due millimetri
+
+E isolati nella loro pericolosa missione
+
+In gomma indiana, seta o materiali sintetici.
+
+Titolo:  
+Qui si può operare con grande abilità critica
+
+La seguente domanda: “Che cos’è l’elettricità?”
+
+“Attività molecolare”, dicono alcuni.
+
+Altri, quando interrogati, non dicono nulla e sono semplicemente stupidi.
+
+Qualunque ne sia la natura, una cosa è certa…
+
+Il rapido corso d’acqua si arrestò nel suo percorso.
+
+Bloccato nella sua corsa e fermato nel suo percorso[J]
+
+Si trasforma in calore e luce attraverso la sua forza latente:
+
+# Non c’è bisogno di un pedante sul podio dell’oratore
+
+Per dimostrare che lì sono presenti luce e calore.
+
+Il globo di vetro a forma di pera… capisco.
+
+Fa troppo caldo per poter toccare qualcosa con le mani.
+
+# Mentre, come è evidente anche al più semplice osservatore…
+
+Il filamento di carbonio è molto luminoso.
+
+Per quanto riguarda le luci che pendono per la città…
+
+Alcuni li lodano molto, altri li criticano aspramente.
+
+Titolo:  
+Questo sistema (chiamato tecnicamente “Arc”)
+
+Rende alcuni passaggi troppo leggeri, altri troppo cupi.
+
+Ma nella casa, i raggi dolci e costanti…
+
+Ha sempre ricevuto consensi universali.
+
+Ad esempio: se vuoi leggere a letto
+
+Nessuna candela brilla accanto alla tua testiera.
+
+Lontano da qualche angolo remoto della stanza
+
+La lampada ad incandescenza scaccia l’oscurità.
+
+#E con la maggiore richiesta di stampa, non c’è nemmeno bisogno di provare
+
+Le capacità visive di qualsiasi giovane occhio pieno di vigore.
+
+Arointa te, Musa! Ispira il poeta a cantare!
+
+Non posso fare a meno di osservare le cose che accadranno in futuro!
+
+La vita è una valle: i suoi sentieri sono oscuri e accidentati.
+
+Solo perché non sappiamo abbastanza…
+
+# Quando la scienza ha scoperto qualcosa di ancora più grande
+
+Saremo più felici di quanto fossimo prima.
+
+# Salve, Britannia, padrona degli oceani azzurri
+
+Diecimila flotte ti assalgono invano!
+
+Salve, potente Madre dei Coraggiosi e Liberi!
+
+Quel ritmo sconfisse Napoleone, e mi diede alla luce!
+
+#Colui che può avvolgersi nel suo manto decorato di simboli
+
+Un quarto del globo abitabile.
+
+Le tue montagne, accarezzate da una brezza favorevole…
+
+Come poderose rocce che resistono ai mari tempestosi.
+
+# Tu sei una comunità cristiana… eppure
+
+# Non essere del tutto ingrato… né dimenticare
+
+Come esulti nella maestà imperiale…
+
+I benefici della luce elettrica.
+
 
 
 <span class="atom-split" data-atom="story_46_the_yellow_mustard" data-title="Sonnets and Verse — The Yellow Mustard" data-chapter="The Yellow Mustard" data-kind="story" data-tags="motif/flowers,motif/nature,motif/pain,motif/rain,motif/summer,concept/loneliness,form/lyric"></span>
@@ -8843,6 +12028,53 @@ Beyond the purple houses, oh!
 
 To see the yellow mustard grow!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Il senape giallo
+
+“Oh! voi che lo agitate avanti e indietro…”
+
+"In punti e fronzoli"
+
+Che cosa avete conosciuto, che cosa potete conoscere?
+
+Chi non ha mai visto crescere la senape?
+
+Il senape giallo non è da meno
+
+# Il dono divino della solitudine
+
+#E fu inviato con una stampa magnifica
+
+Per far tintinnare le chiavi nel mio dolore.
+
+Ho sentito di nuovo il canto del cuculo.
+
+Vieni qui, Dolore! vieni qui, Dolore!
+
+Titolo:  
+Fino a quando i miei piedi senza vergogna non furono soddisfatti…
+
+Vagare sotto la pioggia estiva.
+
+Lontano dal luogo degli uomini…
+
+#E ardendo come un enorme disonore…
+
+# Mi colpì con violenza in faccia
+
+Il simbolo della razza dei senape.
+
+. . . . . .
+
+# Vedere crescere il senape giallo
+
+Oltre la città, sopra, sotto…
+
+Oltre le case viola, oh!
+
+Vedere crescere il senape giallo.
 
 
 
@@ -8942,6 +12174,103 @@ It gave them both an opportunity
 To know each other’s value more.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il politico o il ducato irlandese
+
+Una personalità forte e decisa
+
+Vale diverse centinaia di migliaia di sterline —
+
+# Della rigorosa morale politica
+
+Camminava nei suoi terreni simili a un parco…
+
+Titolo:  
+Quando, proprio mentre tutto questo iniziava a perdere il suo fascino per lui…
+
+# Gli alberi e simili
+
+# Una persona venuta a fargli visita
+
+Gli si avvicinò e si tolse il cappello.
+
+Disse, con assoluta sincerità:
+
+"#Madre-Nazione del Mare"
+
+In nessun ruolo particolarmente evidente.
+
+#Sono soltanto un avvocato; e…
+
+# Un po' di elementare
+
+Negoziazione, di tanto in tanto
+
+# Come agente di un parlamentare
+
+Divisione della città di N.
+
+“Meramente come uno degli Elettori…”
+
+Un membro del Comune Bene…
+
+# Prima di completare il mio incarico
+
+# Vorrei sapere cosa provi
+
+Su questioni più o meno dibattibili…
+
+# As – se sia il nostro orgoglio imperiale…
+
+# Può essere considerato imponibile o soggetto a tassazione
+
+“Le Giardini di...” rispose il suo ospite.
+
+“Il flagello dell’ubriachezza”
+
+(Ahimè, aumenta giorno dopo giorno, )
+
+Stanno minando l’intera società.
+
+# Non esito affatto a dire
+
+Il mio paese spreca le sue capacità.
+
+#Come il Montenegro tratta…
+
+Le sue strutture educative.
+
+… Per quanto riguarda le sconfitte in Africa…
+
+“Deploravo amaramente la loro frequenza…”
+
+# In Canada siamo d’accordo
+
+Le leggi che proteggono la decenza pubblica
+
+Sono davvero molto, molto lassisti!
+
+Titolo:  
+Le opinioni della maggior parte della nobiltà
+
+Titolo:  
+“Sono molto simili ai miei.”
+
+Sulla qualificazione di Thingumbob.
+
+“Spero che rimani per cena…”
+
+#Insistenza insistente da parte di Sua Signoria
+
+Raramente come quella volta aveva premuto prima.
+
+. . . . . .
+
+# Diede loro entrambi l’opportunità di…
+
+Per conoscere meglio il valore l’uno dell’altro.
+
 
 
 <span class="atom-split" data-atom="story_48_the_loser" data-title="Sonnets and Verse — The Loser" data-chapter="The Loser" data-kind="story" data-tags="topos/fortune_s_wheel,motif/money_and_gold,concept/despair,concept/grief_and_loss,concept/disillusionment,form/poem"></span>
@@ -8991,6 +12320,52 @@ And lastly his immortal soul.
 
 III
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il perdente
+
+#Ha perso i suoi soldi prima di tutto
+
+# E perdere quella cosa è già metà della storia…
+
+E in seguito provò a fingere di cadere.
+
+Con il Fato, in cose meno effimere.
+
+# Ha perso il suo cuore… e l’ha trovato morto
+
+# La sua unica e vera scoperta
+
+E dopo quello, perse la testa.
+
+E perse così le sue possibilità di guarigione.
+
+#Ha perso onore poco alla volta
+
+Fino a quando la questione non fu più dibattibile.
+
+#Si preoccupava tantissimo all’idea di perderlo.
+
+Perdeva il sonno e aveva problemi digestivi.
+
+# Perdette la pazienza… per sempre
+
+I resti della sua reputazione
+
+Il suo gusto per il vino, la sua scelta di cibo…
+
+E poi, in una rapida conclusione…
+
+Le sue certezze, il suo senso della verità
+
+La sua memoria, il suo autocontrollo
+
+L'amore che illuminò la sua giovinezza
+
+E infine, la sua anima immortale.
+
+# III
 
 
 
@@ -9074,6 +12449,84 @@ Give us to sup by the warm firelight,
 And the small child Jesus smile on you.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Canti
+
+# Natale
+
+I
+
+# In una notte invernale di molto tempo fa
+
+(I [[Bells|campane]] suonano forte, le altre [[Bells|campane]] suonano piano.)
+
+# Quando il vento soffiava forte e la neve cadeva copiosa
+
+(Carillon, Carilla).
+
+# San Giuseppe e Nostra Signora
+
+#"In sella a un asino, stanco morto arrivai"
+
+Da Nazaret a Betlemme.
+
+E il piccolo bambino Gesù sorride su di te.
+
+II
+
+#Alla locanda di Betlemme si fermarono
+
+(I [[Bells|campane]] suonano meno, e poi suonano di più.)
+
+Il proprietario li congedò ordinando loro di andarsene dalla sua porta.
+
+(Carillon, Carilla).
+
+“I poveri”, dice lui, “devono dormire dove possono”.
+
+# Per il Duca di Giudea arriva da questa parte
+
+“Con tutto il suo treno, in una giornata di Natale…”
+
+E il piccolo bambino Gesù sorride su di te.
+
+# III
+
+Poveri gente, che possano ascoltare la mia canzone natalizia
+
+“I campane suonano una per una, e i loro suoni sono chiari e distinti”.
+
+Vedete! L’unico figlio di Dio ricevette l’acclamazione più calorosa!
+
+(Carillon, Carilla).
+
+Uomini induriti in una mattina di Natale;
+
+Quella bestia stupida, e un bambino abbandonato.
+
+Faceva molto, molto freddo quando il nostro Signore nacque.
+
+E il piccolo bambino Gesù sorride su di te.
+
+IV
+
+Ora questi erano ebrei, proprio come devono essere gli ebrei.
+
+(I campanelli suonano allegramente, i campanelli suonano liberamente.)
+
+Ma siamo un gruppo di uomini cristiani.
+
+(Carillon, Carilla).
+
+#"Andiamo vuoti, e saremo nei guai..."
+
+Cantando “Noël” in una notte d’inverno.
+
+"Daici da mangiare accanto al caldo fuoco."
+
+E il piccolo bambino Gesù sorride su di te.
+
 
 
 <span class="atom-split" data-atom="story_50_the_birds" data-title="Sonnets and Verse — The Birds" data-chapter="The Birds" data-kind="story" data-tags="archetype/child,motif/birds,motif/prayer,motif/supernatural,concept/incarnation,form/hymn,character/jesus"></span>
@@ -9101,6 +12554,30 @@ Bless mine hands and fill mine eyes,
 
 And bring my soul to Paradise.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I UCCELLI
+
+# Quando Gesù Cristo aveva quattro anni
+
+Gli angeli Gli portarono giocattoli d’oro.
+
+Che nessuno aveva mai comprato o venduto.
+
+Eppure, non voleva giocare con queste cose.
+
+Lo plasmò da argilla in un piccolo uccello.
+
+E li benedisse fino a quando non volarono via…
+
+Tu hai creato il Signore.
+
+# Gesù Cristo, tu bambino così saggio
+
+# Benedici le mie mani e riempimi gli occhi…
+
+E porti la mia anima in Paradiso.
 
 
 
@@ -9206,6 +12683,108 @@ With all her royal nymphs in train
 Could so lead on the Spring.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In una barca
+
+Signora! Signora!
+
+# Sulle vette del cielo
+
+Al di sopra della fredda alba
+
+Nella semplice luce.
+
+# Al di sopra della schiuma
+
+E sopra la neve…
+
+# Dove non si infrangono i mari
+
+E nessun vento soffia.
+
+# Le maree contorte
+
+E le pericolose sabbie
+
+Da tutte le parti
+
+Sono nelle vostre sacre mani.
+
+#Il vento tormenta
+
+# E il freddo uccide
+
+Ma vedo la tua cappella…
+
+Oltre lontane colline.
+
+Il mio corpo è congelato.
+
+# Il mio spirito ha paura
+
+# Tendi le tue mani verso di me
+
+Madre e cameriera.
+
+Madre di Cristo
+
+# Madre mia…
+
+Salvami in vita
+
+Dall’ululo del mare.
+
+Titolo:  
+Se vuoi, considerami tua madre…
+
+Fino a quando invecchierò
+
+# Rimarrò nella tua cappella
+
+Una nave fatta interamente d’oro puro.
+
+Canto
+
+Invitando l’influenza di una giovane signora sull’anno che inizia
+
+I
+
+# Indossi la mattina come il tuo abito
+
+E vengono incoronati con maestria…
+
+# Quando cammini nella tua bellezza
+
+Brilla intensamente in ogni direzione.
+
+# Sul tuo segreto sorriso
+
+# Furono scoperti contenuti del tutto nuovi
+
+#Le danze d’amore durante le feste
+
+In quel delizioso luogo.
+
+II
+
+# Chiamate allora aprile e inviate…
+
+#Comandamento attraverso i fiori;
+
+Titolo:  
+Sulle nostre foreste, Vostra Grazia estende il proprio dominio
+
+Una regina degli istanti spensierati.
+
+# Per oh, non Vera avvolta nella pioggia…
+
+Il sacro anello di Nor Dian
+
+Con tutte le sue ninfe reali al seguito
+
+Potrebbe portare così alla primavera.
+
 
 
 <span class="atom-split" data-atom="story_52_the_ring" data-title="Sonnets and Verse — The Ring" data-chapter="The Ring" data-kind="story" data-tags="motif/gems_jewels,motif/sea,motif/supernatural,concept/unrequited_love,concept/love_romantic,form/ballad,setting/france"></span>
@@ -9249,6 +12828,46 @@ And we clipt each other knee to knee.
 
 But what I had was lost to me.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il anello
+
+# Quando volavo davanti al Re
+
+Nel bosco di Valognes, nel mio nascondiglio…
+
+# Non avevo nulla
+
+Ho regalato a una donna un anello d’oro.
+
+# Un anello dei moori al di là di Leon
+
+Con smeraldo e diamante.
+
+# Una scrittura sconosciuta a tutti
+
+E un opale, lì da solo.
+
+# La forma dell’anello che lega i cuori
+
+L'ambra si trasforma da fredda in gentile:
+
+#La scrittura le permette di trovare con certezza…
+
+Ma l’opale malvagio le cambiò idea.
+
+Ora che il Re era morto…
+
+#Tornai in fretta attraverso il mare
+
+Dai lunghi scogli della Normandia
+
+A Bosham, che si trova vicino a Selsey.
+
+E ci siamo messi in ginocchio l’uno di fronte all’altro.
+
+Ma ciò che avevo mi era stato tolto.
 
 
 
@@ -9295,6 +12914,49 @@ Cuckoo!
 
 In woods so long time bare.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cuco!
+
+Nelle foreste desolate da così tanto tempo.
+
+Cuco!
+
+Nella foresta, lontano da qui… non so dove esattamente.
+
+Due note cadono.
+
+#Non gli invidio affatto
+
+La sua fantasia.
+
+Cuco!
+
+Anch’io…
+
+Da qualche parte…
+
+Titolo:  
+Ho cantato con la stessa allegria di lui
+
+Chi osa?
+
+Amante piccolo e negligente, per deridere la premura…
+
+E chi…
+
+#Può chiamare
+
+Cuco!
+
+#Nelle foreste invernali stanche…
+
+#Nei boschi profumati, stanchi d’inverno… chiamate
+
+Cuco!
+
+Nelle foreste desolate da così tanto tempo.
 
 
 
@@ -9412,6 +13074,120 @@ And that was the end
 Of the Little Serving Maid.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La piccola cameriera
+
+I
+
+C'era una regina d'Inghilterra.
+
+E anche una buona regina.
+
+# Aveva una casa nella regione di Powis
+
+Con il fiume Severn che scorre attraverso…
+
+Uomini e donne
+
+Imparato un mestiere;
+
+Ma la più bella di tutte
+
+Era una piccola serva.
+
+II
+
+“Oh Signora, Regina d’Inghilterra!”
+
+Oh, lasciami andare!
+
+# C’è un ragazzo a Londra
+
+E lui fece in modo che fosse così.
+
+# Anch’io lo vorrei, signora.
+
+E con lui resterei.
+
+#E lui sarà lo sposo, signora…
+
+"E sarò la sposa!"
+
+# III
+
+“Ahimè per te… e vergogna su di te…”
+
+Tu piccola serva!
+
+E non siete sorpresi?
+
+E non hai paura?
+
+Titolo:  
+Poiché mai fu noto…
+
+Titolo:  
+Da quando Yngelonde iniziò…
+
+# Quella giovane serva
+
+Devo andare a una riunione, di uomini!
+
+IV
+
+# Allora la piccola serva
+
+Si sdraiò lì.
+
+Con la sua croce e il suo rosario…
+
+Nel suo nuovo abito da corteggiante.
+
+E chiamò il nome di Maria Madre.
+
+E con un profondo sospiro…
+
+“Penso di aver causato vergogna…”
+
+E dopo quello morì.
+
+V
+
+La buona regina d’Inghilterra
+
+Le sue donne arrivarono e poi se ne andarono…
+
+#La piccola serva è morta
+
+“Dall’amore per un uomo…”
+
+Disse la buona Regina d’Inghilterra
+
+“È davvero una cattiva notizia da ascoltare!”
+
+# Coprila e seppelliscila
+
+“E adagiarla su un lettino da morto.”
+
+VI
+
+La adagiarono su un lettino da morto.
+
+#Nel cortile, tutti…
+
+Titolo: Alcuni provenivano da Foresting
+
+E alcuni provenivano da Hall.
+
+# E i grandi signori la portarono via
+
+E gli orgogliosi sacerdoti pregavano.
+
+# E così finì tutto
+
+Della piccola serva.
+
 
 
 <span class="atom-split" data-atom="story_55_auvergnat" data-title="Sonnets and Verse — Auvergnat" data-chapter="Auvergnat" data-kind="story" data-tags="motif/bells"></span>
@@ -9451,6 +13227,42 @@ He broke his heart in Clermont town,
 
 At Pontgibaud they mended it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# AUVERGNAT
+
+C'era un uomo che sembrava mezzo clown
+
+(Mio padre ne parla spesso).
+
+# Vide la chiesa nella città di Clermont
+
+E rise al suono delle sue [[Bells|campane]].
+
+Rise sentendo suonare le [[Bells|campane]].
+
+# In Clermont Church e dintorni
+
+Sentì la figlia del custode cantare.
+
+E la amò proprio per quel suono.
+
+La figlia del sagrestano gli disse di no.
+
+Aveva il diritto di scegliere in quella situazione.
+
+Partì dalla città all’alba.
+
+Non aveva avuto voce in capitolo in quella decisione.
+
+La strada saliva, la strada scendeva.
+
+E lì la faccenda finì.
+
+# Il suo cuore si spezzò nella città di Clermont
+
+A Pontgibaud lo ripararono.
 
 
 
@@ -9502,6 +13314,53 @@ Pass it around,
 
 Burgundy’s Burgundy all the year round.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Canto del vino  
+Sull’eccellenza del vino di Borgogna
+
+Il mio allegro e grasso ospite, con quel sorriso stampato in faccia…
+
+Apri la porta per noi, lasciaci entrare.
+
+Una ventina di uomini robusti che non ritengono peccato farlo
+
+Se continuano a brindare fino a diventare rauchi, e a bere fino a perdere l’equilibrio…
+
+# Via al galoppo
+
+Pioggia o non pioggia,
+
+Per ascoltare le tue vecchie barzellette, e per far svuotare le tue bottiglie.
+
+# Una calore così profonda nel ventre che genera delizie infinite
+
+Non appena il suo umorismo inizia a “inumidirsi”…
+
+Il tirchio e il suo oro, lo studente e i suoi debiti
+
+E il mendicante dimentica i suoi stracci e la sua fame.
+
+# Mai esiste un vino perfetto
+
+Come questo tuo bicchiere di vino…
+
+Dalla grande [[Hill|collina]] di Nuits fino al Fiume Reno.
+
+Fuori si possono sentire i forti venti soffiare…
+
+# Tra Foy, Duerne e le colline di Lerraulx
+
+Ma che piova forte o che soffi il vento…
+
+Se in cielo c’è il Diavolo, allora giù sulla terra deve esserci del buon liquore.
+
+# Abbondano davvero
+
+Passalo in giro.
+
+Il Borgogna del Borgogna, tutto l’anno.
 
 
 
@@ -9559,6 +13418,60 @@ I stand at home and slip the anchor-line.
 I put my pleasure in a pint of ale.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Dirge del bere
+
+#Mille anni fa avevo l’abitudine di cenare…
+
+Titolo:  
+Nelle case dove mi trattavano con tanta dignità…
+
+# Della cara compagnia e dei veri compagni
+
+#Oltre i limiti… da solo.
+
+E cavalcando, ridevano e sfidavano il cielo minaccioso.
+
+“Per mostrarmi tutte le storie ancora inedite…”
+
+Ma la mia filosofia non è più divina…
+
+Il mio piacere risiede in una pinta di birra.
+
+E voi, miei amici, oh! cari amici miei…
+
+Chi mi lascia ora solo, senza alcun aiuto…
+
+Sulle colline della California mi hai offerto vino.
+
+#Mi hai offerto sidro a Longuevaille;
+
+Titolo:  
+Se dopo molti anni inizi a sentire la mancanza…
+
+Per l’[[Comradeship|amicizia]], questa è una storia antica.
+
+Mi troverete a bere birra nella zona di Dead Man’s Chine.
+
+Il mio piacere risiede in una pinta di birra.
+
+#In molte imbarcazioni salate ho provato il sale…
+
+Da molti porti nascosti ho preso il largo.
+
+#Verso il tramonto, dove brillano…
+
+Le lontane isole color ametista impallidiscono.
+
+Non ci sono porti al di là della linea marittima lontana.
+
+Nessun saluto in risposta al grido del marinaio…
+
+Sto in casa e infilo la cima dell’ancora.
+
+Il mio piacere risiede in una pinta di birra.
+
 
 
 <span class="atom-split" data-atom="story_58_envoi" data-title="Sonnets and Verse — Envoi" data-chapter="Envoi" data-kind="story" data-tags="motif/wine_and_drink,concept/friendship,form/epigram"></span>
@@ -9574,6 +13487,18 @@ Why then you cannot be a friend of mine.
 
 I put my pleasure in a pint of ale.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Addio
+
+Principe… È vero quello che si dice quando esci a cena?
+
+Porti la tua bottiglia dentro un secchio ghiacciato?
+
+Allora perché non puoi essere mio amico?
+
+Il mio piacere risiede in una pinta di birra.
 
 
 
@@ -9643,6 +13568,71 @@ I am singing the best song ever was sung
 And it has a rousing Chorus.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Canzone da bere del West Sussex
+
+# Vendono birra buona ad Haslemere
+
+E sotto la collina di Guildford.
+
+# A Little Cowfold, come mi è stato detto
+
+Un mendicante può saziarsi quanto vuole.
+
+Anche ad Amberley c’è una buona birra…
+
+E anche vicino al ponte…
+
+Ma le “swipe” che ricevono al Washington Inn…
+
+È la migliore birra che conosca.
+
+Coro.
+
+#Via che parte…
+
+Tutta la divertenza ci aspetta davanti…
+
+# Il bicchiere è pieno e la notte è ancora giovane
+
+La porta è socchiusa e il barile è aperto…
+
+# Canto la canzone più bella mai cantata
+
+E ha un ritornello davvero commovente.
+
+Se fossi ciò che non potrò mai essere…
+
+Il maestro o lo scudiero:
+
+# Se mi dessi i cento metri che ci sono da qui al mare…
+
+Più di quanto desideri…
+
+“Allora tutte le mie colture dovrebbero essere orzo e luppolo.”
+
+#E fallì la mia raccolta?
+
+Titolo:  
+Venderei ogni singola iarda dei miei terreni…
+
+Per un ventre pieno di ottimo birra.
+
+Coro.
+
+#Via che parte…
+
+Tutta la divertenza ci aspetta davanti…
+
+# Il vino scorre a fiumi e la notte è ancora giovane
+
+La porta è socchiusa e il barile è aperto…
+
+# Canto la canzone più bella mai cantata
+
+E ha un coro davvero commovente.
+
 
 
 <span class="atom-split" data-atom="story_60_a_ballad_on_sociological_economics" data-title="Sonnets and Verse — A Ballad On Sociological Economics" data-chapter="A Ballad On Sociological Economics" data-kind="story" data-tags="topos/carpe_diem,motif/wine_and_drink,motif/tobacco_and_cigars,motif/animals,concept/joy,form/ballad"></span>
@@ -9691,6 +13681,50 @@ The moke in the ditch and the man on the floor
 Remarkable artifice).
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Una ballata sull’economia sociologica
+
+Circa un po’ di tempo fa…
+
+#"Felici canzoni per tutto il giorno")
+
+C'era un uomo seduto in cima a un asino.
+
+# Felicità nel cuore e canti gioiosi
+
+Nonostante il prezzo dell’erba secca.
+
+E via così, galopparono giù per la discesa…
+
+# Fortuna ai più audaci
+
+L’uomo lassù e la bestia quaggiù
+
+#E cantando dimentichiamo tutti di preoccuparci
+
+Un uomo può ridere, se osa.
+
+#Sopra i resti e attorno al raccolto
+
+La vita è breve e il mondo è rotondo.
+
+Il burro sotto e l’uomo sopra
+
+#"Oh! che possa essere trovata della buona birra..."
+
+Buona birra e buona musica.
+
+È successo di nuovo, proprio come era già successo prima.
+
+“Il tabacco è un dono, ma la birra è una vera beatitudine”.
+
+Il maiale nel fossato e l’uomo a terra
+
+# E questa è la morale della storia…
+
+Un’artificiosità notevole.
+
 
 
 <span class="atom-split" data-atom="story_61_heretics_all" data-title="Sonnets and Verse — Heretics All" data-chapter="Heretics All" data-kind="story" data-tags="motif/wine_and_drink,motif/prayer,concept/faith,concept/heresy_and_schism,form/song,histref/catholic_church"></span>
@@ -9731,6 +13765,42 @@ Because of the love that I bore them,
 Dona Eis Requiem.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Eretici tutti
+
+Eretici tutti voi, chiunque siate.
+
+A Tarbes o a Nîmes, o oltre il mare…
+
+Non otterrai mai parole gentili da parte mia.
+
+“Caritas, non turbarmi.”
+
+Uomini cattolici che vivono di vino
+
+Nel profondo dell’acqua, sinceri e belli…
+
+Ovunque viaggi, è sempre così.
+
+Benedicamus Domino.
+
+# Sul destino delle donne abbandonate che diventano madri
+
+#Uomini che sudano solo per disprezzo…
+
+# Tutti coloro che sono mai nati…
+
+Misericordia, Signore.
+
+A me stesso, povero e morente,
+
+E tutti i miei cari compagni morti…
+
+Per amore di loro
+
+Dona Eis Requiem.
+
 
 
 <span class="atom-split" data-atom="story_62_hanacker_mill" data-title="Sonnets and Verse — Ha’Nacker Mill" data-chapter="HaNacker Mill" data-kind="story" data-tags="motif/hill"></span>
@@ -9768,6 +13838,40 @@ And never a ploughman under the Sun.
 
 Never a ploughman. Never a one.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Ha’nacker Mill
+
+“Sally se n’è andata… Che persona così gentile…”
+
+Sally se n’è andata da Ha’nacker [[Hill|Collina]].
+
+E da allora il roveto continua a crescere, sempre più selvaggiamente…
+
+# E da allora il battitore è rimasto fermo…
+
+# E le raffiche sono cadute dalla fabbrica di Ha’nacker
+
+Ha’nacker [[Hill]] si trova nella Desolazione.
+
+Rovina in cima e un campo non arato.
+
+# Spiriti che invocano una nazione caduta
+
+# Spiriti che amavano il suo richiamo…
+
+Spiriti lontani, in un nuvolo ventoso.
+
+#Voci che chiamano e nessuno risponde
+
+Ha’nacker è caduto e l’Inghilterra è finita.
+
+# Vento e cardo per flauti e danzatori
+
+E mai un contadino sotto il Sole.
+
+Nessun contadino. Mai uno solo.
 
 
 
@@ -9931,6 +14035,165 @@ The Long Bridge of Bideford is the end of the World —
 The Long Bridge of Bideford is the end of the World.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tarantella
+
+# Ricordi una locanda?
+
+Miranda?
+
+Ricordi un’osteria?
+
+# E il distendere e lo spargere
+
+Di paglia come materasso…
+
+E le pulci che infastidiscono nelle alte Pyrenee…
+
+E quel vino che aveva il sapore del catrame?
+
+E gli applausi e le grida dei giovani mulattieri
+
+(Sotto la vite del portico buio?)
+
+# Ricordi quella locanda, Miranda?
+
+Ricordi un’osteria?
+
+E gli applausi e le grida dei giovani mulattieri
+
+Chi non aveva nemmeno un centesimo…
+
+E chi non pagava affatto…
+
+E il martello che bussava alle porte, e quel rumore assordante?
+
+E poi c’è il Hip! Hop! Hap!
+
+# Del battito di mani
+
+# Delle mani che girano e vorticano
+
+# Di quella ragazza che andò a cercare avventure…
+
+# Glancing
+
+"Dancing"
+
+Avanzando e retrocedendo…
+
+# Il colpo secco del battitore nella rotazione
+
+Fuori e dentro
+
+E il suono tintinnante della chitarra.
+
+# Ricordi una locanda?
+
+Miranda?
+
+Ricordi un’osteria?
+
+Mai più.
+
+Miranda
+
+Mai più.
+
+Solo le vette più alte emettono suoni cupi…
+
+E l’Aragona, un fiume in piena alla porta.
+
+# Nessun suono
+
+Titolo:  
+Nelle pareti delle sale dove cade…
+
+# La suola
+
+Dai piedi dei morti al suolo
+
+Nessun suono:
+
+Ma il boom…
+
+Del lontano Cascata, simile alla Distruzione.
+
+# La grazia della “nonna”
+
+I
+
+# Elenco tutti voi, cari Cullies e Doxies
+
+#La storia del coraggioso marinaio
+
+#Partì da Holyhead e la spinse con forza…
+
+# Lungo le coste di Bardsey, Pwlheli, Port Madoc e Fishguard…
+
+Oltre a Bardsey, Pwlheli, Port Madoc e Fishguard.
+
+II
+
+# Poi abbandonò Fishguard in una calma giornata estiva
+
+# Lungo le rive di St David’s e Strumbles, attraverso la baia di St Bride’s…
+
+Circondare l’isola di Skomer…
+
+Con il cuore di un leone, attraversò lo stretto di Jack…
+
+Con il cuore di un leone, attraversò lo stretto di Jack Sound.
+
+# III
+
+Ma dal Grande Oceano si levò una grande nuvola…
+
+“Così si fece strada verso Milford Haven tra il fragore assordante della tempesta di nebbia…”
+
+Fino a quando non gettò l’ancora in una baia boscosa e profonda…
+
+# Dove giacque tutta la notte tra il sonno profondo e una triste quiete…
+
+Dove per tutta la notte giaceva tra il sonno profondo e una tristezza silenziosa.
+
+IV
+
+Il giorno seguente fu una giornata noiosa; lui suonò la fisarmonica nella speranza di attirare una brezza.
+
+#Da nord-ovest, attraverso i mari aperti…
+
+E passando vicino alla nave luce di San Govan, li salutò con un buonanotte.
+
+Ma prima che sorgesse il giorno, accese la lanterna di Lundy…
+
+Prima che sorgesse il giorno, aveva già acceso la Lanterna di Lundy.
+
+V
+
+# Poi rimase intrappolato in quel luogo orribile per dodici ore intere
+
+Il cui nome è noto ai marinai come la “Grande Corsa del Cavallo Bianco”.
+
+Fino a quando, con un angolo di circa tre [[Bells|campane]], o forse quasi quattro.
+
+# Le onde bianche si schiantavano su Loud Appledore
+
+Vide le onde bianche schiantarsi su Loud Appledore.
+
+VI
+
+I pirati di Appledore, i vini di Instow;
+
+Ma il suo cuore è rivolto a Bideford, seguendo la direzione della marea.
+
+Ammainate l’ancora, chiudete le botole di accesso e lasciate i cavi arrotolati.
+
+#Il lungo ponte di Bideford è la fine del mondo—
+
+Il Lungo Ponte di Bideford rappresenta la fine del Mondo.
+
 
 
 <span class="atom-split" data-atom="story_64_the_winged_horse" data-title="Sonnets and Verse — The Winged Horse" data-chapter="The Winged Horse" data-kind="story" data-tags="motif/hill"></span>
@@ -9991,6 +14254,62 @@ And a spouting well of joy within that never yet was dried!
 And I ride.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il cavallo alato
+
+I
+
+# Oggi fa dieci anni da quando mi hai cacciato via di casa
+
+# Su terreni accidentati e lungo le rive…
+
+E ho pensato a tutto questo, oh, più di quanto possa esprimere a parole!
+
+Ma ho trovato un cavallo su cui montare e l’ho cavalcato molto bene.
+
+Aveva il fuoco negli occhi e ali sui fianchi.
+
+E io continuo a cavalcare, e io continuo a cavalcare!
+
+II
+
+Lo portai fuori da Wantage e lo condussi su per la [[Hill|collina]].
+
+E lì vidi il Faro, immobile al mattino…
+
+# Inkpen e Hackpen… e verso sud, lontano
+
+# Alto tra le nuvole, con il crescere del giorno…
+
+E lì vidi quel bagliore scintillante del fiume e l’Inghilterra nel suo orgoglio.
+
+E io continuo a cavalcare, e io continuo a cavalcare!
+
+# III
+
+E una volta in cima al Lambourne, verso la [[Hill|collina]] di Clere.
+
+#Ho visto l’esercito del Cielo schierato in formazione, e Michele con la sua lancia.
+
+#E Turpin dalla Guascogna e Carlo Magno il Grande
+
+#Roland delle Marche, con la mano sulla spada
+
+Per il periodo in cui ne avrebbe avuto bisogno, e altri quaranta in più.
+
+E io continuo a cavalcare, e io continuo a cavalcare!
+
+IV
+
+Per te, in definitiva, le cose che hai lasciato sono state tre.
+
+Una voce forte per cantare e occhi acuti per vedere.
+
+E una sorgente inesauribile di gioia, che ancora oggi non si è mai prosciugata!
+
+E io cavalco.
+
 
 
 <span class="atom-split" data-atom="story_65_strephons_song" data-title="Sonnets and Verse — Strephon’S Song" data-chapter="StrephonS Song" data-kind="story" data-tags="motif/flowers,concept/love_romantic,concept/desire,concept/unrequited_love,form/song,character/venus"></span>
@@ -10044,6 +14363,58 @@ To implore for that delicate, delicate flower!
 
 IV
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# La canzone di Strephon
+
+#La spietata pastora
+
+# Quando non ero molto più grande
+
+Più audace di Cupido…
+
+Titolo:  
+Chiesi alla sua madre di passare dal suo padiglione.
+
+# Cosa c’era nella loro cecità
+
+Uomini chiedevano la sua gentilezza
+
+E lei disse che non era altro che un delicato fiore…
+
+Un fiore così delicato, così squisito.
+
+# Questa mattina mi hai baciato
+
+“Entro mezzogiorno mi hai congedato.”
+
+Come se cose così grandi fossero solo scherzi di un’ora…
+
+E mi hai lasciato ancora a chiedermi…
+
+Se non fossi così goffo…
+
+Come gestire quel fiore così delicato…
+
+È un fiore così delicato, davvero molto delicato!
+
+Titolo:  
+Perché se è così la situazione…
+
+# Della passione delle signore
+
+Devo essere davvero un idiota ad rimanere sotto il loro controllo…
+
+Ma c’è qualcosa dentro di me che brucia…
+
+#Il ritorno che mi porta indietro
+
+Per chiedere quella delicata, fragrante fiore…
+
+Per implorare in cambio di quel fiore così delicato.
+
+IV
 
 
 
@@ -10162,6 +14533,123 @@ That you were you and I myself was me,
 And 3 per cents were really 82!
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ballate  
+Breve ballata e postfazione su consoli e boeri
+
+I
+
+Figlia gigante dell’Ovest
+
+#Un tono tennisoniano… chi?
+
+Titolo:  
+Dalla questa corazza invincibile
+
+#Il vigoroso latte della Libertà
+
+# Libero dono – possa il simbolo rimanere tale
+
+# Fedele all’impero che ti è stato affidato
+
+# Mai scrivere una frase su questo argomento…
+
+Ma i Consoli sono al 82%.
+
+II
+
+Ora, perché mai qualcuno dovrebbe investire?
+
+Titolo:  
+Anche la gente della città…
+
+“Sua Signoria, tra gli altri…”
+
+Quando le azioni, ma cosa significa tutto questo per te?
+
+E poi… chi avrebbe mai potuto indovinare?
+
+# Di armi e cavalli…
+
+Inoltre, conoscevano molto bene il loro mestiere.
+
+E i “Consols” sono a 82.
+
+# III
+
+Non ha alcun senso protestare.
+
+# Non è educato salutare in quel modo
+
+# Come le cose sono andate storte…
+
+O chiamare vagamente un uomo ebreo.
+
+Un gentiluomo che non sa scherzare
+
+Si è osservato che dovremmo cavarcela come possiamo.
+
+#Il continente ne rimase profondamente colpito
+
+E i “Consols” sono a 82.
+
+Conclusione.
+
+E Botha riposava a [[Pilgrim|Pilgrim’s Rest]].
+
+# E Myberg nel Grande Karroo
+
+# A sud e a ovest, un deserto
+
+E i “Consols” sono a 82.
+
+Postfazione.
+
+# Permitemi… se non vi dispiace.
+
+Titolo:  
+Aggiungerlo sarebbe davvero divertentissimo!
+
+Titolo:  
+Se, dopo aver stampato questo, dovrei scoprire…
+
+Dopo tutto, avevano 81 anni.
+
+Or 70 or 63,
+
+Or 55 or 44,
+
+O 39 e poi gratis…
+
+O 28, o addirittura di più.
+
+Non importa… non accettare più consigli.
+
+Da uomini dubbi e affascinanti.
+
+Rifiuta quelle cose a qualsiasi prezzo.
+
+E osserva lentamente come scendano a 10.
+
+Mentre ciò accade, provo una certa vivacità…
+
+Di nuovo alla scrittura del nuovo…
+
+# Non dire mai che tutto sia per il meglio
+
+E i “Consols” sono a 82.
+
+Ultimo addio.
+
+Principe, tu ed io avevamo appena trentatré anni…
+
+E ora rifletto e mi chiedo se sia vero…
+
+Che tu fossi te stesso e io fossi io stesso.
+
+E il 3 percento, in realtà, era pari all’82%!
+
 
 
 <span class="atom-split" data-atom="story_67_ballade_of_the_unanswered_question" data-title="Sonnets and Verse — Ballade Of The Unanswered Question" data-chapter="Ballade Of The Unanswered Question" data-kind="story" data-tags="topos/ubi_sunt,motif/death,motif/prayer,concept/mortality,form/ballad_ballade"></span>
@@ -10233,6 +14721,75 @@ You miserable waxwork? Nay!
 
 But where are the unanswering dead?
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ballata della domanda senza risposta
+
+I
+
+Titolo:  
+In quale dimora risiede Sir Harland Pott?
+
+È morto per aver bevuto a Bungay?
+
+"Nathaniel Goacher che fu colpito a colpi di arma da fuoco"
+
+Verso la fine della battaglia di Malplaquet?
+
+L’unica cosa che possiamo dire…
+
+L’unica cosa che è stata detta
+
+Riguardo a questi signori si dice: “No!”
+
+“Ma dove sono i morti che non rispondono?”
+
+II
+
+# Lord Bumplepuppy, anch’esso…
+
+Il colpo proveniente dal carretto dei signori Dawkins?
+
+#E Jonas, che il Cachalot…
+
+Ingannati nella baia di Esdraelon?
+
+# Il calvinista John McKay
+
+Chi discuteva fino a quando non gli sanguinavano le narici
+
+E è morto per un attacco di apoplessia? No!
+
+Ma dove sono i morti che non rispondono?
+
+# III
+
+#E anche Elio-doro, quel caldo…
+
+Protettore dell’egemonia romana;
+
+#E lui, l’autore di “Tot”
+
+“Mercedes dant Victoriæ”
+
+E tutte le squadre corazzate, splendenti…
+
+# Quella gloria che un tempo fu alimentata
+
+Tra tutte le spese esorbitanti del mondo? No!
+
+Ma dove sono i morti che non rispondono?
+
+# Envoi
+
+Principe, hai mai imparato a pregare?
+
+In ginocchio accanto al tuo letto?
+
+Tu misero pezzo di cera. No!
+
+Ma dove sono i morti che non rispondono?
 
 
 
@@ -10306,6 +14863,74 @@ Proclaim the faith that I have held and hold
 And publish that in which I mean to die.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ballata alla nostra Signora di Częstochowa
+
+I
+
+# Lady, regina e misteri innumerevoli
+
+# Sovrano indiscusso del cielo sereno
+
+Chi, in un sogno, vide Santa Hildegarda
+
+#Ascoltai una musica silvestre che passava accanto…
+
+#Mi riceverai quando le nuvole saranno alte
+
+Con il calare della sera, le pecore raggiungono il recinto.
+
+Questa è la [[Faith|>fede]] che ho sempre avuto e continuo ad avere.
+
+E questo è ciò per cui intendo morire.
+
+II
+
+“I mari sono profondi, feroci e gelidi”
+
+Nelle acque agitate e pericolose da attraversare…
+
+# E vasto contro la notte invernale il mondo…
+
+E senza rifugio per alcuna vela che possa riposare.
+
+Ma tu mi guiderai verso le luci, e io…
+
+Canterò di te attraverso una storia raccontata in un porto.
+
+Questa è la [[Faith|>fede]] che ho sempre avuto e continuo ad avere.
+
+E questo è ciò per cui intendo morire.
+
+# III
+
+Aiuto per i semi-sconfitti, Casa d’oro
+
+# Santuario della Spada e Torre d’Avorio
+
+# Splendore separato, supremo e avvolto nell’aurora
+
+La visione del Combattente e la risposta del Mondo.
+
+# Tu mi restituirai, o mio ultimo alleato…
+
+Per vendetta e per le glorie dei coraggiosi.
+
+Questa è la [[Faith|>fede]] che ho sempre avuto e continuo ad avere.
+
+E questo è ciò per cui intendo morire.
+
+# Envoi
+
+Principe delle degradazioni, comprato e venduto
+
+# Questi versi, scritti nella tua calligrafia incerta…
+
+#Proclama la fede che ho sempre avuto e continuo ad avere
+
+E pubblicare ciò in cui intendo morire.
+
 
 
 <span class="atom-split" data-atom="story_69_ballade_of_hell_and_of_mrs_roebeck" data-title="Sonnets and Verse — Ballade Of Hell And Of Mrs Roebeck" data-chapter="Ballade Of Hell And Of Mrs Roebeck" data-kind="story" data-tags="motif/wine_and_drink,concept/satire_of_society,concept/spiritual_emptiness,concept/heaven_and_the_afterlife,form/ballad_ballade,setting/london"></span>
@@ -10378,6 +15003,76 @@ The dreadful Guardians of the Pit: —
 And Mrs Roebeck will be there.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ballata dell’inferno e di Mrs Roebek
+
+I
+
+Titolo:  
+Vado a cena da Gray’s
+
+Con Bertie Morden, Charles e Kit
+
+E Manderly, che non paga mai…
+
+E Jane… che vince nonostante tutto.
+
+#E Algernon, che non vuole ammetterlo
+
+La verità sui suoi capelli strani
+
+# Denti che quasi si incastrano perfettamente…
+
+E anche la signora Roebeck sarà lì.
+
+II
+
+E poi domani qualcuno dirà…
+
+Titolo:  
+Che qualcun altro abbia già avuto successo
+
+In uno dei drammi del signor Twister.
+
+E via che ci mettiamo a sbadigliarci davanti a quella roba…
+
+# E quando tutto si sarà esaurito, ci arrenderemo
+
+Per il numero 20 di Taunton Square,
+
+# Fumo, alcol e un po’ di danza…
+
+E anche la signora Roebeck sarà lì.
+
+# III
+
+E così, attraverso ogni fase di declino…
+
+# Sforzi vani, umor stanco
+
+# Giorno dopo giorno… a Londra
+
+# Oscuramente, ancora più oscuramente, illuminato…
+
+#Fino a quando le ombre incerte si muovono
+
+# Annunciando al vento tremante
+
+# Un oscuramento… e la sua fine
+
+E anche la signora Roebeck sarà lì.
+
+# Envoi
+
+Principi… seduti sui loro troni di ferro.
+
+Indifferente alla nostra disperazione…
+
+I terribili Guardiani della fossa: —
+
+E anche la signora Roebeck sarà lì.
+
 
 
 <span class="atom-split" data-atom="story_70_ballade_of_unsuccessful_men" data-title="Sonnets and Verse — Ballade Of Unsuccessful Men" data-chapter="Ballade Of Unsuccessful Men" data-kind="story" data-tags="concept/heroism,concept/death,form/ballad_ballade,histref/the_french_revolution,character/napoleon,character/nelson,character/joan_of_arc,character/christ"></span>
@@ -10449,6 +15144,75 @@ He was extremely unsuccessful too:
 
 The Devil didn’t like Him, and He died.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ballata degli uomini senza successo
+
+I
+
+La causa di tutti i poveri nel ’93:
+
+La causa di tutto ciò che accadde a Waterloo…
+
+I gridi di ciò che era terribile e libero
+
+Dietro le armi di Vengeance e della sua ciurma:
+
+La serva che cavalcava così dritta e con tanta fedeltà
+
+“E frantumò quella linea in mille pezzi, a causa del suo orgoglio…”
+
+#Dovevano arrendersi; non funzionava.
+
+Il Diavolo non li voleva, e loro morirono.
+
+II
+
+#Cesare e Alessandro si troveranno d’accordo
+
+“Che suonassero le loro trombe proprio attraverso il mondo…”
+
+E tutti i ragazzi che marciarono in Lombardia
+
+Dietro il giovane Napoleone che carica…
+
+Tutti coloro che erano abili spadaccini, tutti coloro che uccidevano…
+
+I mostri… e coloro che servirono il nostro Dio
+
+Il carattere di questo mondo, hanno perso la chiave per comprenderlo.
+
+Il Diavolo non li voleva, e loro morirono.
+
+# III
+
+Voi, i forti figli della rabbia e del mare…
+
+Quanta oscurità volava sulle ali della battaglia.
+
+“Allora i grandi defunti risposero: ‘Anche noi’”.
+
+#Nelson, dimenticato… Nelson, che…
+
+Titolo:  
+Quando l’entusiasmo aumentava mentre si lasciava il porto…
+
+Essere in armonia con il vento e la marea.
+
+“I nostri corpi senza nome sono affondati e in decomposizione…”
+
+“Al Diavolo non piacevamo e quindi siamo morti.”
+
+# Envoi
+
+Principe, posso osare… poiché si tratta solo di te.
+
+Parlare in modo discreto di “Il Crocifisso”?
+
+Anche lui ebbe un completo insuccesso.
+
+Il Diavolo non lo voleva bene, e lui morì.
 
 
 
@@ -10523,6 +15287,77 @@ The wind has blown them all away.
 
 V
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ballata degli eresiarchi
+
+I
+
+# John Calvin e la sua strana passione
+
+# Chiamare Dio un assassino
+
+# Che cosa portò ulteriormente a quel comportamento febbrile…
+
+Bruciare vivo Serveto.
+
+# Il terribile bohémio Huss
+
+Il noioso Wycliffe, dove sono finiti?
+
+Ma dove è finito il vecchio Nestorio?
+
+Il vento li ha portati via tutti.
+
+II
+
+Il Cohen di Novdograd
+
+# Chi argomentò secondo il diritto romano
+
+Titolo:  
+"Nessuna privazione può essere completa..."
+
+“Rem nisi sint de sacribus.”
+
+E Hume, che fece un gran trambusto…
+
+# Sul Giorno della Risurrezione
+
+E disse che era ridicolo.
+
+Il vento li ha portati via tutti.
+
+# III
+
+# Di Smith, il coraggioso giovane mormone
+
+#Che prese più mogli del dovuto:
+
+Johanna Southcott, la donna che era pazza
+
+E poi c'era quel disgustoso Nietzsche, che era ancora peggio.
+
+# Di Tolstoj, lo stravagante russo
+
+“Il nostro nobile futuro dirà…”
+
+“Signore Gesù! Cosa significano queste cose per noi?”
+
+“Il vento li ha portati via tutti…”
+
+# Envoi
+
+Principe, se vi incontraste su un autobus…
+
+Un uomo che fa grandi sfoggi
+
+# Di Dr Haeckel, si arguisca così: —
+
+Il vento li ha portati via tutti.
+
+V
 
 
 
@@ -10875,6 +15710,359 @@ Sit silently before them all,
 
 They weave upon their loom;
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Epigrammi
+
+I
+
+# Nei suoi libri
+
+# Quando sarò morto, spero che si possa dire…
+
+“I suoi peccati erano rossi sangue, ma i suoi libri venivano letti.”
+
+II
+
+# Su Noman, un ospite
+
+# Caro signor Noman, le è mai capitato di pensare…
+
+Più vi vediamo, meno ci piacete?
+
+# III
+
+Una Trinità
+
+Tre in uno e uno in tre
+
+# La mia mente ristretta avrebbe sempre dubitato
+
+#Finché Bellezza, Grazia e Bontà non si incontrarono
+
+# E all’improvviso… furono tutti Giulietta
+
+IV
+
+# Sulla tortura, un cantante pubblico
+
+# Tortura darà una dozzina di penny o di più
+
+Per impedire a un bambino di piangere davanti alla sua porta.
+
+Il gusto del pubblico è davvero qualcosa di diverso…
+
+Per cantare si riceve addirittura un compenso.
+
+V
+
+# Sulla pancia, un parassita
+
+“Pancia parla contro l’abuso di buoni alcolici”
+
+E poi, riguardo alla sua stravagante protettrice…
+
+E poi parla di sé stesso… E poi…
+
+Passiamo ora a parlare degli uomini.
+
+VI
+
+# Sulla igiene
+
+Titolo:  
+Un tempo, quando le persone si ammalavano e soffrivano molto…
+
+I medici gli somministrarono medicine, ma morirono comunque.
+
+Ma ecco un’epoca più felice: per ora lo sappiamo.
+
+Sia il modo per far ammalare gli uomini che quello per mantenerli in tale stato.
+
+# VII
+
+# Sulla signora Poltagrue, un pericolo pubblico
+
+Il Diavolo, non avendo altro da fare…
+
+Se n'è andato per tentare mia signora Poltagrue.
+
+#La mia signora, tentata da un capriccio improvviso
+
+A suo grande fastidio, quella cosa lo tentava.
+
+# VIII
+
+Il Miraggio
+
+Il riflesso mostrava la tua bellezza, mia bella…
+
+Nel breve spazio di un momento incostante.
+
+# Hai guardato nei miei occhi, e lì…
+
+Il tuo volto, per sempre immobile.
+
+Titolo:  
+Meglio guardarsi nello specchio…
+
+Più dei miei occhi fedeli…
+
+# Racconta la verità… Ahimè, mia fanciulla!
+
+Il mio ricordo costante rimane lì.
+
+IX
+
+Il Frassino
+
+Questo è il luogo dove Dorothea sorrise.
+
+Non conoscevo il motivo, né lei lo sapeva.
+
+Ma eccola lì, si girò e mi sorrise.
+
+Un improvviso splendore aveva incantato il bambino.
+
+Il mais al momento del raccolto, e un solo albero.
+
+Questo è il luogo dove Dorothea sorrise.
+
+X
+
+Il telefono
+
+Stasera, nella Londra piena di milioni di voci… io
+
+# Solitudine come il cielo pieno di milioni di stelle
+
+#Fino alla tua unica voce… Ah! Così il Sole
+
+Popoli di tutto il cielo, anche se lui è solo uno.
+
+XI
+
+La Statua
+
+Titolo:  
+Quando saremo morti, qualche ragazzo cacciatore passerà di lì…
+
+E trova una pietra半nascosta nell’erba alta
+
+E grigio per l’età… ma dopo aver visto quella pietra
+
+(Era la tua immagine, ), continua a muoverti più lentamente.
+
+# XII
+
+# Epitaffo per il cane preferito di un politico
+
+Qui giace un cane: possa ogni cane che muore…
+
+Giaccia al sicuro, proprio come giace questo cane.
+
+# XIII
+
+# Epitaffo per il politico stesso
+
+Qui, in modo sfarzoso e ridicolo…
+
+Il cadavere del politico fu sepolto.
+
+Mentre tutti i suoi conoscenti lo deridevano e lo insultavano…
+
+Piansi: perché desideravo ardentemente vederlo impiccato.
+
+# XIV
+
+# Un altro nella stessa situazione
+
+# L’ultimo ornamento tra i pari
+
+Corrotto, intimidato, truffato e ricattato per anni:
+
+Titolo:  
+Ma è proprio la morte ciò che anche i politici non riescono a comprendere…
+
+Corrompere o truffare, intimidire o ricattare.
+
+XV
+
+# Conoscenze banali
+
+Buongiorno, Algernon; buongiorno, Percy.
+
+Buongiorno, signora Roebeck. Cristo abbia pietà!
+
+# XVI
+
+# Una rosa per il suo seno
+
+Va', bella rosa, e racconta di quella ancora più incantevole bellezza…
+
+Colui che l'amava di più non era mai stato lì.
+
+# XVII
+
+# Sul piccolo dio
+
+Di tutti gli dèi che mi hanno donato tutta la loro gloria
+
+Oggi solo una persona si degna di camminare con me.
+
+Gli prendo la mano e gli racconto storie.
+
+È il figlio minore della Regina di Cipro.
+
+# XVIII
+
+# Su un profeta
+
+Un tempo Samuele cercava il Signore… Oggi
+
+Si dice che il Signore corra dietro a Samuele.
+
+# XIX
+
+# Su una padrona di casa defunta
+
+Dell’orribile mondo questo è il più bello e il migliore
+
+Ha sorriso e detto “Buonanotte”, poi si è addormentata.
+
+XX
+
+# In una grande elezione
+
+# Il potere che si basa sul privilegio
+
+# Donne, champagne e ponti
+
+#"Broke – e la democrazia riprese il suo dominio":"
+
+(Che va d’accordo con “Bridge”, “Women” e “Champagne”).
+
+# XXI
+
+# Su un marinaio che si è perso
+
+# Tre fischi per superare la Stella del Mattino
+
+Pensando che ciò che era così vicino in realtà fosse molto lontano.
+
+# Quando incontro la mia più cara…
+
+Penso ancora a quella distanza che in realtà è così vicina.
+
+# XXII
+
+# Su un amico che dorme
+
+"#Lady, quando la tua adorabile testa..."
+
+# Tra i morti si abbassa e affonda
+
+Titolo:  
+E i luoghi silenziosi rimangono…
+
+#Tu che dormi in modo così divino…
+
+Titolo: Allora i morti saranno benedetti
+
+Con una nuova solennità,
+
+Per una tale bellezza, così discendente…
+
+Promettete loro che la Morte sta per finire.
+
+Dormi a sazietà… ma quando ti sveglierai
+
+L’alba sorgerà e Lethe sarà infranta.
+
+# XXIII
+
+Stanco
+
+Sono stanco d’amore. Sono ancora più stanco delle rime.
+
+Ma i soldi mi procurano piacere in ogni momento.
+
+# XXIV
+
+#Su Benicia, che gli augurò buona fortuna
+
+Benicia mi augurò il meglio; anch'io le augurai il meglio.
+
+E ciò che desideravo per lei, forse non posso dirlo.
+
+# XXV
+
+Il cuore falso
+
+“Ho chiesto a Cuore: ‘Come va?’ E Cuore ha risposto…”
+
+“Esattamente come un Ribstone Pippin!” Ma mentiva.
+
+# XXVI
+
+In parte dal greco
+
+# Come le stelle nel tuo cielo
+
+# Quel giro nell’abisso senza fine;
+
+#Quel tremito… e che ci segue sempre
+
+Le silenziose ruote della Notte.
+
+VI
+
+La ballata di Val-Es-Dunes
+
+La vittoria di Guglielmo il Conquistatore, da giovane, sui ribelli a Val-Es-Dunes nell’anno 1047.
+
+Questo brano di poesia è totalmente privo di fondamento storico. Val-ès-Dunes non si trova sul mare, ma nell’entroterra. Nessun normanno avrebbe inciso un simbolo su uno scudo o su una finestra di chiesa a metà dell’XI secolo, tantomeno l’avrebbe fatto in argento; dubito anche che esistessero speroni dorati. Non fu il giovane Bastardo di Falaise ad vincere realmente la battaglia, ma gli uomini del Re a Parigi. In Normandia non era rimasto nulla di scandinavo; ciò che poteva esserci cinque generazioni prima era ormai quasi scomparso. I Colentin non avevano più sangue scandinavo di chiunque altro. Non esiste alcun posto chiamato Longuevaile; c’è una località chiamata Hauteville, ma non ha nessuna baia e non ha nulla a che fare con i Harcourt. E i Harcourt non appartenevano alla casata reale. E così via.
+
+I
+
+Gli uomini che vissero a Longuevaile
+
+Uscirono a combattere in gruppi.
+
+# Armature tintinnanti
+
+I loro scudi erano bordati d’argento pallido
+
+E dipinto come un vetro colorato di una chiesa:
+
+Le loro spade erano nelle loro mani.
+
+Ma il cupo corvo degli Antichi Dei
+
+Si trovava sulle sabbie marine della riva.
+
+#Sorse un vento tra brughiere e tane…
+
+Il cielo divenne rapidamente grigio.
+
+Il bastardo e il suo muro di uomini
+
+Erano a soli pochi passi dal caricabatterie.
+
+II
+
+I vecchi dei del Salone Settentrionale
+
+Sono nella loro piccola stanza.
+
+“I loro troni sono circondati da guerrieri alti e armati di lancia.”
+
+# I tre che li hanno sotto il loro dominio
+
+Siedi in silenzio davanti a tutti loro.
+
+# Intrecciano sul loro telaio…
 
 
 
@@ -11294,3 +16482,425 @@ A-grumbling as they go:
 My lord is William of Falaise.
 
 Haro!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+E intorno a loro, mentre si muovono…
+
+I poeti cantano la distruzione.
+
+# III
+
+Il bastardo di Normandia
+
+Era arrabbiato per il proprio errore.
+
+“I suoi occhi erano puri e innocenti nel loro sguardo.”
+
+Titolo:  
+Nel suo cuore non c’era nulla…
+
+Ma una sete ardente per il suo grande successo…
+
+E la sua schiena era larga e forte.
+
+Come gli buoi nei campi…
+
+Quelli che trainano i aratri avanti.
+
+IV
+
+# Vide quella colonna di cavalleria girare su se stessa
+
+Dividetevi in direzioni opposte e dispiegatevi.
+
+Sentì, sentì il suono potente dell’olifante.
+
+# Si piegò la gamba, arrabbiato, per controllare…
+
+La guaina contro il suo tacco dorato.
+
+# Grande gioia per lui
+
+E si alzò dritto nella staffa di acciaio.
+
+Perché era un ragazzo.
+
+. . . . . .
+
+#Fronteggiammo la loro forza, tutta quanta.
+
+# Poco rumore c’era…
+
+Ma il cavallo di Haribert-Le-Marshall
+
+Colpì pesantemente il terreno con le zampe.
+
+V
+
+Titolo:  
+Mentre le grandi navi lasciano la Barberia…
+
+# Come guidare partendo da qualcosa di grande…
+
+#"Con corsie libere e deviazioni strategiche"...
+
+# E cadendo giù dai loro ponti…
+
+Il grido di gioia del mare esultante
+
+Li spinse quindi all’attacco.
+
+Ma il cupo corvo degli Antichi Dei
+
+Si trovava sulla riva del mare.
+
+VI
+
+I vecchi dei del Salone Settentrionale
+
+Vengono incoronati per la tomba.
+
+# Le loro birre sono circondate da alte torce
+
+E tra le fiamme che si levano e cadono…
+
+# Un ronzio e una chiamata
+
+Nella notte che tutto accoglie…
+
+Come la marea dietro le mura di un castello
+
+Suona il tamburo nella penombra.
+
+# VII
+
+#Mi rasarono la testa, ma nell’anno di Pasqua…
+
+Ho giurato su Cristo e su Roma.
+
+Il mio nome non è più il nome che avevo in passato.
+
+Ma ah… vederli così come sono arrivati…
+
+Con tuoni fragorosi e punte infuocate…
+
+Sentivo l’odore della schiuma.
+
+Il mio cuore era come quello di un uomo smarrito…
+
+Chi imbarca la sua barca sulle sabbie di Moorna
+
+# E serve un schiavo in terre straniere
+
+E poi, sotto le mani di un arpaio…
+
+Sente parlare improvvisamente di casa sua.
+
+. . . . . .
+
+# Come la foglia che vortica…
+
+# Gridavano mentre spingevano avanti.
+
+# E la discendenza di quel bastardo fu come un corallo morto
+
+Ma il loro era come un’onda.
+
+# VIII
+
+Titolo:  
+Mentre le grandi navi lasciano la Barberia…
+
+Colpisci la roccia.
+
+# E il gambo si frantuma, e la vela sventola…
+
+# Verso il mare… e il lutto stretto si spezza
+
+# E il blocco
+
+clangori sul ponte della nave naufragata.
+
+Titolo:  
+Anche gli uomini di Longuevaile lo fecero
+
+Accetta questo shock.
+
+IX
+
+La nostra lunga fila tremolò, ma non si spezzò.
+
+Rispose con forza e tenacia.
+
+# Il primo fulmine si levò nel vento con un ululato
+
+#Un altro e molti ancora… con quel rumore sordo proveniente dalla posta;
+
+“Pattered all the arrows in an April hail”;
+
+# Suonò la palla e il laccio…
+
+#E io, il sacerdote, iniziavo così
+
+La canzone che canto io.
+
+X
+
+# Pressa verso l’interno, Normandia…
+
+# Press inward, Cleres e Vaux
+
+# Press inward, Mons e Valery
+
+Spingi verso l’interno, Yvetot.
+
+#"Resistete con forza, uomini di Beechen Ford!"
+
+(Oh! Guglielmo di Falaise, mio signore!)
+
+La battaglia è una rete, ed è anche uno sforzo combattivo condotto con determinazione.
+
+La “battle” è un lancio utilizzato dai lottatori.
+
+# Il mezzo che funge da ali
+
+Le ali esterne si chiudevano mentre la parte centrale rimaneva aperta.
+
+#"La battaglia è una nebbia… e la battaglia è anche un bosco."
+
+E così si vince la battaglia.
+
+XI
+
+I pescatori pescano nel fiume Senna.
+
+Trasportano le lunghe reti all’interno.
+
+# Li trascinano dentro e poi li trascinano di nuovo fuori
+
+I pescatori pescano nel fiume Senna
+
+# Li trascinano dentro e poi li trascinano di nuovo fuori
+
+# Un milione di pinne scintillanti
+
+#"Con il ritiro delle nostre estremità stanche..."
+
+Quella vittoria ebbe davvero inizio.
+
+# XII
+
+Il figlio alto dei Sette Venti
+
+Partì al galoppo, senza indugiare, dalla regione di Hither Hithe.
+
+# Con grande forza si precipitò verso il basso…
+
+#Quasi ci riuscì quel giorno
+
+Con il suo aiuto e la sua tenacia…
+
+#La sua spada era come una falce
+
+"In Arques quando l'erba è alta"
+
+# E tutti i giurati sono seduti al loro posto
+
+E lì c’è il baile che aspetta…
+
+Una raccolta delle decime.
+
+# XIII
+
+E ora, avanti, Normandia…
+
+Avanza tutto insieme.
+
+La stampa fu colpita e calpestata, fino a spezzarsi.
+
+Dalla spada e dal suo portatore, dal colpo dell’ascia…
+
+#"Verso la fessura, tra vortici di fumo"...
+
+Come un gregge cieco che corre senza meta.
+
+E così molti fuggirono… e pochi rimasero.
+
+Con tutti i cavalli esauriti, avrebbero proseguito barcollando…
+
+Ma con l’avanzare della sera, la folla si disperse.
+
+La battaglia era finita.
+
+. . . . . .
+
+Come uccelli contro il cielo che si arrossa…
+
+Scomparvero uno dopo l’altro.
+
+# E ho sentito una tromba in lontananza
+
+Al tramonto.
+
+. . . . . .
+
+# XIV
+
+Le stelle erano nel Cielo Eterno.
+
+# Calma a Massared
+
+Richard, Abate di Leclair, e io
+
+E un prete Picard che rimase fedele fino alla fine
+
+Una torcia sopra la sua testa;
+
+# Attraverso la terra che si oscurava
+
+#Profanando con la mano unta
+
+I morenti e i morti.
+
+XV
+
+# Quanti nel prato fiorito…
+
+Quanti morti giacevano lì.
+
+Titolo:  
+Lì fu trovato il Fortenbras
+
+E il giovane Garain di Hault, ahimè!
+
+E i guardiani del Passo di Bretagna
+
+Chi erano i signori della sua schiera?
+
+E Hugh, che confidava nel suo bicchiere…
+
+Ma quel giorno non tornò a casa.
+
+# XVI
+
+# Ho visto il mulino di Martindall
+
+Vidi morire quel arciere.
+
+# La lite accesa lo colse vicino al muro bianco basso
+
+E lanciò la sua freccia verso il Signore Dio di tutti.
+
+Ma molto prima che il primo potesse cadere
+
+La sua anima era nel cielo.
+
+# XVII
+
+#L’ultimo tra tutti i signori che emersero…
+
+# Dal Tribunale della Corona
+
+“Parò con lo scudo e il suono argenteo risuonò…”
+
+# Il colpo dell’ascia fu violento e sonoro
+
+# E i bordi si separarono, e la sella oscillò…
+
+#E scese giù
+
+#Non cantò mai più canzoni d’inverno
+
+Nella sua città alta.
+
+# XVIII
+
+“In suo alto borgo fatato…”
+
+E sorge sulla baia di Harcourt,
+
+Il pescatore che si muove nella notte
+
+#Si orienta in base all’altezza di quel castello
+
+# E lo confina nel rifugio della baia
+
+E aspetta quel giorno.
+
+Ma con l’espandersi della luce…
+
+Scompare senza lasciare traccia.
+
+# XIX
+
+“In suo alto borgo fatato…”
+
+E si trova su Harcourt Lea.
+
+#"Richiamarlo dal suo esilio..."
+
+#Oltre le montagne il suo potere si estendeva…
+
+# Il mio padre era il suo servitore
+
+Anche se la fattoria era libera.
+
+# Prima che iniziassero le guerre furiose
+
+Era un amico mio.
+
+XX
+
+La notte prima della nascita del ragazzo
+
+# Arrivò un prete che disse
+
+# Aver visto Aldeborn in fiamme
+
+# La stella dell’odio nel corno del Toro
+
+“Che si ergeva sopra un campo di mais…”
+
+E lo avvolse nel terrore.
+
+# Vorrei con tutto il cuore di non averlo mai tenuto
+
+Il tessuto su cui ha versato il proprio sangue.
+
+. . . . . .
+
+# XXI
+
+Il cavallo di Cleres e Valery
+
+# A un passo da Yvetot
+
+E tutti gli uomini delle Città Portuali
+
+Quelli che vivono seguendo il cambiamento delle stagioni.
+
+E tutti gli uomini di Beechen Ford
+
+# Oh! Guglielmo di Falaise, mio signore!
+
+“E tutte le vele nel reparto di Michael…”
+
+# E tutti gli scudi di Caux
+
+Ti seguirò ovunque nel mondo.
+
+Con spada, lancia e arco
+
+# A Beachy e a Pevensey Bar
+
+# Attraverso la neve verso Chester
+
+Con sacco, bagagli e tenda da campeggio,
+
+Mormorando mentre vanno…
+
+Il mio signore è Guglielmo di Falaise.
+
+Guai!

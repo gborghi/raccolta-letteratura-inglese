@@ -2,13 +2,13 @@
 title: "To Mr. Theodore Holland"
 author: "Dickinson"
 unitType: work
-parentWork: "works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(dickinson)"
+parentWork: "works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(keats)"
 tags:
   - graph/excerpt
   - author/Dickinson
 ---
 
-<div class="atom-reader" data-work="testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan" data-author="Dickinson" data-workhref="works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(dickinson)"></div>
+<div class="atom-reader" data-work="testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan" data-author="Dickinson" data-workhref="works/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet-(keats)"></div>
 
 
 <span class="atom-split" data-atom="0001_awake_ye_muses_nine_sing_me_a_strain_divine" data-title="1. Awake ye muses nine, sing me a strain divine" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,archetype/lover,motif/nature,concept/love_romantic,concept/marriage_and_fidelity,form/lyric,histref/classical_antiquity,histref/the_bible,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>

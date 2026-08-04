@@ -48,7 +48,7 @@ Unless you give him wine.
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'Inglese  
+L'inglese
 
 San Giorgio era per l'Inghilterra,  
 e prima di uccidere il drago  
@@ -118,7 +118,7 @@ Unless you give him wine.
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'Inglese  
+L'inglese
 
 San Giorgio era per l'Inghilterra,  
 e prima di uccidere il drago  

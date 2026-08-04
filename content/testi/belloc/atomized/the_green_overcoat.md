@@ -3331,6 +3331,44 @@ Now, Maurice, I end this preface, for I cannot think of anything more to write.
 H. BELLOC.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XVIII.
+
+Pagina di titolo della prima edizione
+
+Dedicato
+
+TO
+
+MAURICE BARING.
+
+Dedica.
+
+Mio caro Maurice, tu hai scritto un libro intitolato “L’Elefante Verde”, e io ho scritto uno intitolato “Il Cappotto Verde”.
+
+È per questo motivo che vi dedico il mio lavoro “Il cappotto verde”, anche se (e approfitto di questa occasione per rimproverarvi per questo) voi non mi avete dedicato il vostro lavoro “L’elefante verde”.
+
+Un cappotto e un elefante hanno molte cose in comune, ma anche, ahimè, molte differenze. Un elefante può essere tolto, così come un cappotto; tuttavia, un cappotto può essere indossato, mentre un elefante no. Capisco che il vostro elefante non fosse un vero elefante, allo stesso modo, il mio cappotto non è un vero cappotto, ma soltanto un cappotto descritto in un libro. Un cappotto è il tipo di indumento più grande; un elefante è la specie di animale più grande, a meno che non si consideri la balena, che è ancora più grande dell’elefante, proprio come una vestaglia è più grande di un cappotto; ma questo mi porterebbe troppo lontano! Inoltre, un elefante non mangia carne né morde, così come un cappotto. L’elefante è molto utile all’uomo, lo stesso vale per il cappotto. Tuttavia, ci sono elefanti “cattivi” che sono peggio che inutili, e non portano alcun beneficio al loro proprietario, proprio come se non ne avesse affatto uno. Lo stesso vale per i cappotti, soprattutto quelli la cui fodera sul lato sinistro è strappata; quando il cittadino ci infila il braccio sinistro, finisce in una sorta di vicolo cieco, il che, in francese, si chiama “blind-alley”.
+
+L’elefante è costoso, così come il cappotto. L’elefante ha un’espressione seria e composta, proprio come un cappotto. Un cappotto appeso da solo su un gancio è un oggetto serio e razionale; per dirla con le parole del filosofo, “né ride né è causa di risate”. Lo stesso vale per un elefante in gabbia.
+
+Ancora una volta, l’uomo, in combinazione con l’elefante, ne viene nobilitato da tale unione, sia che viaggi sul suo dorso, sul suo collo o cammini al suo fianco, proprio come fa il custode dello zoo. Lo stesso vale per i cappotti: indossarli o portarli sulle braccia aggiunge qualcosa al nostro aspetto. Potrei elencare molti altri punti in comune, se solo questa parte del mio lavoro fosse redditizia, e potesse essere considerata un vero “affare”; ma non lo è, quindi devo concludere. Vi ricordo che gli elefanti probabilmente invecchiano (anche se nessuno ha mai visto accadere), così come i cappotti; inoltre, gli elefanti hanno diversi sessi, proprio come i cappotti. D’altra parte, un cappotto non ha piedi e può avere due code o nessuna, mentre l’elefante ha quattro piedi e soltanto una coda, e per di più molto corta.
+
+# Devo concludere spiegandovi perché ho parlato di un “cappotto” e non di un “grande cappotto”.
+
+“Greatcoat” è un termine più colloquiale; “overcoat”, invece, mi sembra avere un tono più “imperiale”. Ma non è stato questo il motivo per cui ho scritto “overcoat”. L’ho fatto perché questa parola presenta una struttura sillabica simile e quasi lo stesso schema di accentazione (“wow!”) della parola “elephant”. Ovviamente, se avessi considerato la lunghezza delle sillabe e il valore vocalico, le cose sarebbero state diverse: “elephant” è composto da tre sillabe brevi, mentre “overcoat” da una breve, una lunga e una breve. La prima sillaba di “overcoat” è, beh, potremmo chiamarla una sorta di “um”, mentre la seconda è, una specie di “thingumbob”.
+
+Ma non ho tenuto conto dei suoni vocalici, e non mi interessava la distinzione tra vocali lunghe e corte. Il mio obiettivo era quello di imitarti e di creare un titolo che potesse confondere le persone, in modo che quelle grandi folle di uomini e donne colti desiderosi di vedere la tua opera parlassero per errore di “Il cappotto verde”.
+
+E poi le loro zie, o forse qualche visitatrice rigida e moralista, dicevano: “Oh, no, è proprio quel libro!” E in questo modo il libro veniva lodato. Era il mio gioco.
+
+Se le persone avessero fatto cose del genere in passato, ora non funzionerebbe più; ma non l’hanno mai fatto.
+
+Ora, Maurice, concludo questa prefazione, perché non mi viene in mente nulla altro da scrivere.
+
+H. Belloc.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="The Green Overcoat — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/rain"></span>
@@ -3374,6 +3412,46 @@ His way down the road to his lodgings would be a matter of a mile or more. The r
 
 He had hardly shut the door, and as he was doing so, felt, or thought he felt, some obstacle before him, when the engine was let out at full speed. The cab whirled suddenly round in the opposite direction from that which he had ordered, and as Professor Higginson was jolted back by the jerk into his seat, his left arm clutched at what was certainly a human form; at the same moment his struggling right arm clutched another, crouched apparently in the corner of the cab.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I.
+
+In cui il Cappotto Verde intraprende un viaggio.
+
+Il professor Higginson – per usare il suo vero nome – era uno psicologo celebre in tutta Europa; di recente era stato assunto dall’Università Guelph, un istituto moderno e sempre più importante situato nella grande città industriale di Ormeston. Il suo stipendio ammontava a 800 sterline all’anno.
+
+Era un uomo alto e magro, estremamente timido e nervoso, con occhi stanchi e segnati dal tempo, che quasi sempre sembravano soffrire leggermente; di solito li fissava a terra, in modo incerto. Non si curava molto dell’aspetto. Non era più giovane; aveva l’abitudine di tenere entrambe le mani nelle tasche dei pantaloni. Era un po’ curvo e portava una lunga barba grigia. Era scapolo; per natura era affettuoso, ma poteva diventare selvaggio quando provocato dal terrore. I suoi piedi erano molto grandi, e la sua mente era quasi sempre occupata dall’argomento a cui si dedicava professionalmente.
+
+Quest'uomo eccellente, con il suo abito da sera che non gli donava affatto, aveva appena detto addio dopo una serata estenuante, lunedì 2 maggio, nella casa di Sir John Perkin, un mercante locale dalla fortuna considerevole ma del tutto meritata.
+
+Non era ancora mezzanotte; le stanze erano piene, e lui sperava di poter uscire presto, quasi inosservato.
+
+Il professor Higginson entrò senza scopo preciso nello studio che fungeva da armadietto, poi uscì di nuovo ricordandosi di non aver lasciato lì le sue cose. Poi fissò quasi casualmente una serie di ganci, nella speranza di trovare un cappello slouch familiare, piuttosto unto, e un giubbotto Inverness grigio altrettanto familiare. Il cappello c’era; il giubbotto invece era sparito.
+
+Se n'era andato davvero? Il Professore di Psicologia era un uomo colto, ma la sua percezione della realtà non era sempre accurata. Era davvero arrivato a Inverness, dopo tutto? —, —. Più ci pensava, meno ne era sicuro.
+
+Ricordava che quella notte di maggio, sebbene molto fredda, era stata serena quando era arrivato. Non aveva un ricordo preciso di aver tolto quel cappotto Inverness o di averlo appeso da qualche parte. Camminava lentamente, riflettendo su quel grande problema, verso la porta dell’ingresso; si compiacque in cuor suo che non ci fosse nessun domestico nei paraggi, così avrebbe potuto affrontare quella terribile situazione di lasciare la casa senza essere osservato da nessuno. Nessuna carrozza era ancora arrivata. Aprì la porta e rimase sbalordito dal violento vento e dalla pioggia fredda e battente che lo investì all’istante.
+
+Ora il Professore di Psicologia aveva gusti semplici, proprio come un gatto domestico, ma odiava la [[Rain|pioggia]] ancora di più di quel animale. La pioggia gli causava grande disagio; peggio ancora, l’idea di dover camminare per le strade in abiti da sera sotto una pioggia battente, con la camicia bianca completamente bagnata, era qualcosa che i suoi nervi non riuscivano a sopportare.
+
+Stava per voltarsi di nuovo, indeciso, nella speranza di ritrovare quell’Inverness che ora era ancora più convinto non esistesse affatto, quando il Diavolo, che ha grande potere in queste faccende, gli fece vedere, gettato negligentemente su una sedia, un cappotto verde di straordinaria magnificenza.
+
+Il suo colore verde era un verde sobrio, caldo e incantevole; il tessuto era morbido e spesso, flessibile e liscio; la folta pelliccia presente sul colletto e sui polsini prometteva lusso nell’imbottitura. —
+
+Finora, durante tutta la vita del professor Higginson, il Diavolo aveva solo scherzato un po’ con lui, fino a quel momento memorabile. L’opportunità, come il lettore scoprirà presto, era (dal punto di vista del Diavolo) straordinaria e rara. Inoltre, in questa questione erano coinvolte molte più cose di quanto la piuttosto sterile anima del professor Higginson potesse comprendere.
+
+Il Cappotto Verde apparve per qualche secondo in modo seducente, poi in modo violentemente allettante; e subito dopo – in pochissimi secondi – divenne irresistibile.
+
+Il professor Higginson lanciò uno sguardo pieno di timore e perplessità verso la luce, il rumore e la musica che provenivano dall’interno della stanza. Non c’era nessuno in vista. Attraverso la porta aperta, da dove provenivano i suoni della festa, sentiva il rumore crescente, ma nessun volto si girava verso di lui. L’intero corridoio era deserto. Poi sentì un soffio di vento e le gocce di [[Rain|pioggia]] battere contro la finestra del corridoio. Con una rapidità degna di un gioco più importante, e per lui assolutamente insolita, afferrò il cappotto dalla sedia, si nascose nell’ombra della porta e, con movimenti frenetici che gli sembrarono durare cinque settimane, indossò il cappotto verde! Il Diavolo stesso si era assicurato che gli andasse a pennello.
+
+Non c’era alcun problema. Avrebbe finto di aver commesso un errore e l’avrebbe restituita la mattina seguente; anzi, sarebbe stato onesto e l’avrebbe inviata subito via messaggero non appena si fosse reso conto dell’errore arrivando al suo alloggio. Un cappotto così costoso poteva appartenere solo a una persona importante, a qualcuno che rimaneva fuori fino a tardi, molto tardi. Ebbene, il “Cappotto Verde” sarebbe tornato in quella casa prima ancora che il suo proprietario decidesse di traslocare. Lui non avrebbe capito nulla! Non era stato fatto alcun danno, e comunque non poteva certo camminare sotto la pioggia così come era.
+
+Ahimè! Quegli argomenti plausibili proseguivano. Se solo il Professore lo avesse saputo, avrebbe capito che provenivano dall’Avversario delle Anime! Lui, l’arcangelo caduto, aveva previsto quella rovina imminente di cui la sua vittima, magra e riflessiva, era sfortunatamente all’oscuro. Gli studiosi sono carne facile per i Diavoli. La porta si chiuse alle spalle di quell’uomo colto; egli uscì nella tempesta battente, lungo il vialetto verso la strada pubblica. E mentre camminava, portava con sé una sensazione di ricchezza che era davvero piacevole. Non aveva mai posseduto abiti del genere!
+
+Il tragitto verso il suo alloggio durava circa un miglio o di più. La pioggia era insopportabile. Mentre raggiungeva il cancello, si chiedeva se fosse possibile trovare un taxi a quell’ora tarda; quando sentì il ronzio di un taxi che si avvicinava lentamente da dietro, ne fu estremamente felice. Si girò immediatamente e lo fermò. Il taxi si fermò poco prima di un lampione stradale, così che il viso del conducente rimase nell’ombra. Gli diede l’indirizzo, aprì la porta e si chinò per entrare nel veicolo.
+
+Aveva appena chiuso la porta quando, mentre lo faceva, sentì, o pensò di sentire, un ostacolo davanti a sé; in quel momento il motore si avviò a piena velocità. La cabina ruotò improvvisamente nella direzione opposta a quella che aveva ordinato; il professor Higginson fu scosso violentemente e ritrovò se stesso sul sedile, mentre il suo braccio sinistro afferrava qualcosa che sicuramente era una forma umana; nello stesso istante, il suo braccio destro, che si dibatteva, afferrò un’altra figura, apparentemente accovacciata nell’angolo della cabina.
 
 
 
@@ -3426,6 +3504,54 @@ Jimmy, opening the door of a room on the ground floor that gave into this desert
 
 Melba was a stout, rather pasty-faced young man, with fat cheeks and blue, protuberant eyes, not ill-natured. He had very light, straight hair, and his face in repose seemed to clothe itself with a half smile which was permanent. It was surprising that such a figure should have that strength of forearm which the Philosopher had unfortunately experienced. But there is no telling a man till he strips, and Melba, who might very well have been a young lounger of the French Boulevards, was, as a matter of fact, an oarsman of an English University. He rowed. It was his chief recreation. He also read French novels, and was a fair hand at writing mechanical verse. But that is by the way, nor could the Professor as yet guess anything of this. He glared at the youth over his gag and took him in.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non ebbe nemmeno il tempo di iniziare: “Vi supplico, ” quando sentì entrambi i polsi afferrati da mani forti e un scialle o un pezzo di stoffa che gli stringeva la bocca. Tutto ciò che cercò di dire dopo andò perduto, sia per lui stesso che per il mondo intero. Tentò di dare un calcio con le sue lunghe gambe; ma prima che potesse riprovarci, anche i suoi piedi furono immobilizzati altrettanto saldamente dei polsi. Sentì poi qualcosa che sembrava un fazzoletto essere legato troppo strettamente intorno ai suoi polpacci, mentre le sue mani rimanevano prigioniere di una presa che suggeriva l’intervento di qualcuno con esperienza in quel genere di situazioni.
+
+I pensieri del professor Higginson uscirono dal loro solito flusso quotidiano. Il suo cervello lavorava freneticamente, poi si fermò, lasciando emergere una decisione chiara: rimanere tranquillo e non fare nulla.
+
+La schiena del conducente appariva come un quadrato nero contro la luce della pioggia. Non sentiva nulla, o forse non avrebbe sentito nulla. Non prestava attenzione a ciò che accadeva all’interno dell’auto, ma guidava con furia attraverso la tempesta. Per ben dieci minuti, nulla cambiò.
+
+La pioggia battente all’esterno offuscava i vetri delle finestre, e la velocità con cui viaggiavano impediva al Filosofo di fare altro che ipotesi molto vaghe riguardo alla strada e alla loro posizione.
+
+Le luci pubbliche della città erano da tempo state abbandonate; dopo alcune curve rapide che sembravano condurre su strade di campagna, l’[[Machine|veicolo]] fece una curva improvvisa attraverso un cancello, entrando in un sentiero stretto. I freni furono azionati bruscamente, il cambio lasciato libero e la cabina si fermò completamente. Il veicolo si trovava ora in un giardino, il cui stato di povertà e abbandono era evidente sotto le luci ad acetilene. Il terreno accidentato e ricoperto di erbacce, insieme ai rami spezzati degli allori, spiccavano in modo innaturale nell’oscurità densa. Il raggio di luce raggiungeva appena l’angolo in mattoni sbiaditi di una vecchia casa.
+
+Il professor Higginson ebbe appena il tempo di notare una serie di quattro gradini di pietra sporchi che conducevano a una porta nell’ombra, quando i suoi rapitori parlarono per la prima volta.
+
+“Andrai via in silenzio?” disse colui che si accovacciava davanti a lui, colui che gli aveva legato i polsi.
+
+Il Professore annuì con il suo bavaglio, emettendo una voce simile al lontano muggito di una mucca. La stretta ferrea che gli teneva i polsi lo tirò indietro; la porta del taxi si aprì e lui fu spinto fuori, ancora tenuto per le mani. Si rialzò in piedi, e colui che aveva parlato – una voce giovane e forte, un uomo robusto e imponente nella semioscurità dietro i lampioni – iniziò a slacciare il fazzoletto attorno ai suoi polpacci. Il Professore Higginson non era un soldato. Apparteneva alle accademie. Aveva infranto la sua parola d’onore.
+
+Non appena i suoi piedi furono liberi, sferrò un calcio violento contro colui che lo teneva prigioniero (che a malapena riuscì a schivarlo), emise attraverso il bavaglio un suono cupo e pieno di rabbia; nello stesso istante fu scaraventato a terra con violenza, le gambe che si agitavano in tutte le direzioni. L’autore di questa manovra era proprio il gentiluomo che gli teneva i polsi dietro la schiena; e mentre lo faceva, emise una strana voce acuta, che contrastava stranamente con la forza che aveva appena dimostrato.
+
+#"Colpiscilo, Jimmy! Colpiscilo in faccia!"
+
+“Non ancora,” disse Jimmy con un tono minaccioso. “Sollevalo su, Melba!”
+
+A discapito dei nervi del Professore, Melba obbedì, e il dotto pragmatista si trovò di nuovo in piedi. Colpì con forza alle sue spalle, ma non colpì nulla. Era esattamente ciò che temeva! Doveva affrontare degli esperti!
+
+“Va bene, Jimmy?” disse il conducente con un tono giovane, chiaramente inglese e piuttosto stanco.
+
+Il motore continuava ancora a emettere leggeri suoni.
+
+“Sì, Charlie”, disse Jimmy con entusiasmo. “Vai pure!”
+
+“Buonanotte,” disse di nuovo quel giovane dal forte accento inglese e piuttosto stanco.
+
+Il cambio entrò in funzione, il motore iniziò a ronzare più velocemente; i sassolini disordinati sotto la ruota scricchiolavano mentre l’auto descriveva un semicerchio per raggiungere il cancello. In quel momento, una luce intensa illuminò la porta macchiata e sporca della casa.
+
+La vittima, con la bocca imbavagliata, notò che la porta era aperta: qualcuno aveva preparato tutto in anticipo, e quei segni non lo rassicurarono affatto.
+
+Il suo rapitore lo spinse contro quella porta, facendolo entrare nel buio corridoio all’interno. L’altro, quello che aveva sentito chiamare “Jimmy”, lo seguì, chiuse la porta e accese un fiammifero.
+
+Nella luce improvvisa si rivelò un passaggio tra pareti completamente nude, assi del pavimento polverosi e senza tappeti, ancora segnati da deboli macchie ai bordi; inoltre, c’era una scala con ringhiere fragili, molte delle quali rotte. Per il resto, nulla.
+
+“Melba” (se posso chiamare quel signore con il nome che il suo compagno gli aveva dato) era impegnato intorno ai polsi del professore con qualcosa di molto più pratico di un fazzoletto. Stava legandoli in modo abbastanza scientifico (e molto stretti) utilizzando un pezzo di corda.
+
+Jimmy aprì la porta di una stanza al piano terra che dava su quel corridoio deserto e accese una candela all’interno. Il signor Higginson si trovò spinto attraverso quella porta e seduto su una sedia nella stanza successiva. Un attimo dopo fu legato a quella sedia, con corde fissate in modo così stretto intorno alle gambe, ai gomiti e alle ginocchia da rendergli impossibile muoversi liberamente. Fu Melba ad eseguire quell’operazione. Jimmy, entrando dopo di lui, girò la chiave nella serratura e si unì al suo compagno. Poi i due rimasero in piedi a fissare la loro vittima per qualche momento; fu in quel momento che il professore ebbe finalmente l’opportunità, in tutta quella notte confusa, di scoprire con chi aveva a che fare.
+
+Melba era un giovane robusto, dal viso piuttosto pallido, con guance paffute e occhi blu e sporgenti; non era certo di cattivo carattere. Aveva i capelli molto biondi e lisci, e quando stava fermo sembrava sempre avere un mezzo sorriso stampato sul viso. Era sorprendente che una persona del genere possedesse quella forza nei bicipiti che il Filosofo aveva purtroppo sperimentato. Ma non si può mai dire cosa nasconde un uomo finché non si spoglia; Melba, che avrebbe potuto benissimo essere uno dei giovani oziosi delle strade parigine, in realtà era un rematore di un’università inglese. Remare era il suo principale passatempo; leggeva anche romanzi francesi e sapeva scrivere versi in stile meccanico. Ma questo è un dettaglio secondario. E il Professore, per ora, non poteva ancora saperne nulla. Guardava quel giovane con aria minacciosa, ma alla fine lo assunse.
 
 
 
@@ -3486,6 +3612,62 @@ So it was all going to end happily after all? The Professor almost felt himself 
 
 “Of course, you will have to sign the letter?”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Jimmy era tutta un’altra storia. Anche lui era alto, ma ben curato nell’aspetto e di pelle molto scura; aveva occhi e capelli neri, e una carnagione chiara tipica dei Gael. Non gli rimaneva traccia dell’accento del suo paese d’origine. Infatti, era nato a sud del confine, ma la sua forza agile e l’equilibrio del suo corpo erano quelli tipici delle montagne. Aveva davvero il temperamento adatto per quelle attività. A differenza del suo collega, sembrava davvero forte quanto lo era in realtà. Jimmy, se vi interessa saperlo, non remava; nuotava e faceva immersioni. Nuotava e faceva immersioni con eccezionale abilità, ed era il campione, o comunque si chiami quel titolo, di una certa regione piuttosto estesa. Inoltre, frequentava l’università che aveva formato Melba: Cambridge.
+
+Questi due giovani, un po' eccitati e forse anche un po' turbati, ma che nascondevano con coraggio le proprie emozioni dietro un'apparente indifferenza da gentiluomini, si sedettero ai lati di un tavolo, davanti al quale il Professor era stato imbavagliato e legato alla sedia. Seduti così, osservarono la loro “preda”.
+
+Melba riempì lentamente un’enorme pipa con del tabacco tratto da una enorme borsa, tenendo i suoi occhi rotondi e blu fissi su qualsiasi movimento potesse fare il Professore.
+
+Jimmy accese una sigaretta nera con un certo atteggiamento teatrale, soffiò fuori una nuvola di fumo sottile e blu, poi si rivolse al prigioniero.
+
+“Prima di passare alle cose serie, Brassington”, disse, “come vi comporterete se vi liberassimo dalle restrizioni che vi sono imposte?”
+
+Dalla morsa provenne un muggito pieno di apprezzamento e spirito pacifista.
+
+“Va bene così,” intervenne Melba con la sua voce affettata, “l’ultima volta hai detto di aver mantenuto la tua promessa, ”
+
+“Mmmmmm!” rispose il Professore, scuotendo la testa in un netto diniego.
+
+“Sì, ma l’hai fatto,” continuò Melba con voce stridula. “Hai provato a calciare Jimmy, e hai provato anche a calciarmi dopo che ti ho lasciato.”
+
+Jimmy fece un gesto con la mano verso Melba, chiedendo il silenzio.
+
+“Guardi qui, signore,” disse, “dovevamo farlo. Non ci piace, e in un certo senso ci dispiace; ma dovevamo.”
+
+Il Professore ricordò tutto ciò che aveva letto sulla follia nelle sue varie forme (e questa lettura non era affatto salutare per lui), ma non riuscì a scorgere traccia di pazzia in nessuno dei due volti davanti a sé. Anzi, l’innocenza tipica della giovinezza che entrambi tradivano, unita a una determinazione chiaramente forzata e innaturale, sembrava indicare proprio il contrario.
+
+“Melba intervenne di nuovo con la sua voce acuta…”
+
+"E fortunato che non ti sia capitato niente di peggio!"
+
+“Non farlo, Melba!”, disse Jimmy in tono autoritario.
+
+Evidentemente, lui era l’uomo moderato dei due; un uomo di giudizio, e istintivamente una vittima colta decisa a fare affidamento su di lui in qualsiasi avventura bizzarra o imprevista potesse presentarsi.
+
+“Dovevamo farlo,” continuò Jimmy, “perché non esisteva alcuna legge. Ovviamente, non l’abbiamo fatto senza chiedere il permesso! Ma quando non c’è nessuna legge, devi prendere tu stesso in mano la situazione, no, Melba?” disse, rivolgendosi al suo complice.
+
+“Sì,” disse Melba, “ sia in ambito civile che penale… Dovrebbe davvero essere punito severamente.”
+
+I suoi occhi blu e prominenti brillavano di ferocia; nel suo cuore, il professor Higginson lo odiava.
+
+Di nuovo, Jimmy prese il controllo.
+
+“Se ci fosse stata una legge, signore, vi avremmo citato in giudizio. Ci dispiace” (questa ripetizione suona un po’ pomposa) “e non vogliamo mettervi nei guai. Personalmente,” aggiunse, scuotendo via la cenere dalla sigaretta e assumendo l’atteggiamento di un uomo d’affari, “ritengo che sia ingratitudine costringere un anziano. Ma tutto finirà presto, e inoltre lo faremo in modo decente, se pagherete come un vero gentiluomo.”
+
+Alla parola “pagare”, l’inesperienza del mondo del Professor Higginson lo convinse che si trovava nelle mani di criminali. Aveva letto in alcune storie poliziesche che i criminali non erano, come alcuni immaginavano, uomini universalmente privi di colletti, vestiti con cappelli di lana e armati di mazze; né appartenevano necessariamente alle classi meno istruite. Ricordava molti casi (nella finzione) di criminali “gentiluomini”, anzi, di criminali “gentiluomini” precoci. E apparentemente questi rientravano proprio in quella categoria.
+
+Per la seconda volta quella sera prese una decisione rapida e decise di pagare.
+
+Aveva con sé trenta scellini d’oro: un sovrano e mezzo sovrano, nascosti nella tasca del gilet destro dei suoi abiti da sera. Pensava anche di avere, nella tasca dei pantaloni destri, qualche scellino e qualche moneta di rame. Era una somma considerevole da sacrificare. Forse stava commettendo un reato grave; ma era disposto a correre quel rischio. L’avrebbe considerata semplicemente una bolletta troppo alta per l’hotel, e sarebbe stato libero! Annuì con la testa, muggì felicemente e sembrò acconsentire con lo sguardo.
+
+“Esatto!” disse Jimmy, molto sollevato (perché nel suo cuore non aveva mai osato sperare in una soluzione così semplice). “Esatto!” e sospirò soddisfatto. “Esatto,” ripeté per la terza volta. “Ci dispiace davvero molto, signore! Ma dopo andrà tutto bene. Quando avrete mantenuto la vostra parte dell’accordo, noi certamente manterremo la nostra.” Lo disse con cortesia. “Tutto ciò che vogliamo è il denaro; e quando avremo il denaro e voi sarete libero, beh, signore, spero che non vi dispiacerà per quello che abbiamo fatto.”
+
+Quindi alla fine tutto sarebbe finito felicemente? Il Professore si sentì quasi libero di nuovo, correndo verso casa nella notte. Correndo ovunque volesse, liberato da quel maledetto posto. Quando poi Jimmy aggiunse.
+
+“Certo, dovrai firmare la lettera, no?”
 
 
 
@@ -3573,6 +3755,88 @@ Jimmy by this time was in a mood to stand no nonsense.
 “Mr. Brassington,” he said, “you broke your word to us once this evening when you kicked out at Melba, and that ought to have been a lesson to me. I was foolish enough to believe you when you gave your word a second time. I certainly believed it when you gave it a third time after we released you.” (It was a very partial release, but no matter.) “Now,” said he, setting his lips firmly, “if you try to shuffle out of the main matter, I warn you it will be the worse for you, very much the worse for you, indeed. You will be good enough to sign us a cheque for two thousand pounds, and to sign the type-written acknowledgment in front of you.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II.
+
+In cui un filosofo affronta il problema dell’identità.
+
+Il professore si trovava in una situazione ancora più difficile di prima. All’inizio di questa conversazione qualcuno lo aveva chiamato con un certo nome. Ma non riusciva a ricordarlo. Non capiva nemmeno cosa intendesse con “una lettera” quella delle due persone coinvolte nella discussione, fino a quando Jimmy non gli spiegò meglio la situazione.
+
+Dovrete firmare la breve nota che abbiamo redatto per accompagnare il vostro pagamento. È ovvio.
+
+Il professor Higginson intuì vagamente che fosse stato chiamato per proteggerli in qualche modo dalle conseguenze del suo rapimento.
+
+Beh, aveva preso una decisione e non avrebbe cambiato idea. Annuì di nuovo con aria allegra, e i suoi occhi erano come sempre pieni di consenso.
+
+Jimmy si sporse in avanti e, con toni seri e solenni, disse formalmente:
+
+“Capiamo entrambi, io e questo signore, che riconosciete di doverci il pagamento dovuto; e se rimuoviamo quell’ostacolo che siamo stati costretti ad imporvi, vi attuerete alla vostra promessa e ci pagherete, vero?”
+
+Per la terza volta il Professore annuì vigorosamente.
+
+“E firmerai quella nota?”
+
+Annuì ancora più vigorosamente.
+
+“Molto bene,” disse Jimmy con il tono di un grande arbitro che è riuscito a risolvere la questione senza inconvenienti. “Melba, per favore sciogli il scialle di tua zia; al momento, questo impedisce al signore di mantenere la sua promessa verbale.”
+
+Melba fece ciò che gli era stato ordinato; secondo il signor Higginson, strappò il nodo del tessuto in modo piuttosto brusco. Lo conservò poi con cura.
+
+Il scialle era stato tolto; Melba si era nuovamente seduta, e il professor Higginson respirò l’aria notturna, priva del profumo di un antico indumento umano, per di più, di una sorta di “scialle da zia”.
+
+“Non c’è bisogno che ripeta tutto ciò che ho appena detto,” disse Jimmy, “ma dovete confermarlo prima di andare avanti.”
+
+“Sì,” disse il Professore, con una strana ma efficace simulazione di allegria per uno attore così inesperto. “Sì, certamente, signori, lo confermo.”
+
+C'era, se così si può dire, una certa fretta nel suo modo di agire; sembrava desideroso di pagare, proprio come lo era di liberarsi di quelle corde intorno ai braccia e alle gambe.
+
+C'era un'altra cosa che disturbava il Pragmatista: il Cappotto Verde, che ancora lo avvolgeva completamente, stava subendo ritardi terribili. Se il ritardo fosse continuato ancora a lungo, il proprietario avrebbe potuto perderlo. Inoltre, i lacci stretti ai gomiti non facevano affatto bene al cappotto; anzi, sembravano addirittura danneggiarlo. Questa idea rendeva il Professor Higginson davvero molto a disagio. Non aveva idea di chi fosse il proprietario, ma di certo apparteneva a qualcuno di importante. Avrebbe voluto non averlo mai visto.
+
+Non fu certo l’ultimo ad augurarselo, ma l’inferno è un severo padrone e il Professore fu catturato.
+
+“Pensiamo, ”, disse Jimmy con un po’ di presunzione, “almeno, io penso, ” (dopo aver lanciato uno sguardo a Melba).
+
+“Non lo faccio,” disse Melba.
+
+“Beh, penso,” continuò Jimmy, “e credo che dovremmo pensare che tu stia facendo la cosa giusta. E beh, mi piace dirtelo apertamente.”
+
+Le relazioni tra Jimmy e il suo prigioniero stavano diventando quasi cordiali. Spostò il tavolo in modo che, una volta slegato, il prigioniero potesse scrivervi sopra. Gli mise davanti un foglio di carta da lettere battuto a macchina, una busta, una bottiglia d'inchiostro e una penna; questi oggetti, insieme ai banchi su cui lui e il suo compagno sedevano, al tavolo e alla sedia, costituivano l’intero arredamento di quel luogo.
+
+“E ora, signore,” aggiunse Jimmy, avvicinandosi al Psicologo e liberandogli i gomiti, “ora, signore” (in quel momento avvolse la corda intorno alla vita del Professor, la fissò bene e lasciò le sue gambe ancora legate ai gradini della sedia), “ora, signore, forse possiamo passare alle cose serie!”
+
+Povero signor Higginson. Non era mai stato così stretto in vita sua. Non era più giovane; la circolazione nelle sue braccia inferiori era quasi completamente cessata. Con grande fatica e lentezza, portò le braccia avanti e le appoggiò sul tavolo. Poi, con movimenti lenti, la sua mano destra cercò nella tasca del gilet. Lì si trovavano il sovrano d’oro e mezzo sovrano necessari per pagare il riscatto.
+
+“Certo,” iniziò, intenzionato a spiegare quanto fosse modesta quella somma, poiché non poteva fare a meno di ritenere che quei pochi soldi d’oro fossero davvero insufficienti per affrontare una situazione così complessa, piena di formalità burocratiche e violenza, “certo, ”, quando Jimmy lo interruppe.
+
+“Non c’è bisogno che vi dica la somma,” disse quel giovane in tono piuttosto freddo.
+
+“Oh, no,” esclamò Melba, “lo sa benissimo!” Poi aggiunse: “Grrr!” con rabbia, come se si stesse rivolgendo a un cane.
+
+“Beh, ehm, signori, confesso, ” iniziò il signor Higginson, esitando. “A dire la verità,” intervenne Jimmy in tono piuttosto deciso, “noi tre sappiamo perfettamente di quale somma si tratta; forse voi, signore, con le vostre abitudini lavorative e le vostre particolari concezioni dell’onore, la conoscete ancora meglio. Sono due migliaia di sterline,” concluse calmo.
+
+“Duemila sterline?” gridò il Professore.
+
+“Cosa ti aspettavi?” intervenne Melba, alzando la voce di un’ottava. “Un bonus e un orologio d’oro come regalo?”
+
+“Duemila sterline!” ripeté il filosofo, confuso, con un tono affannoso.
+
+“Sì,” rispose prontamente Jimmy, “due migliaia di sterline! —. —. —. Davvero!”
+
+Dopo tutto ciò che è accaduto…
+
+“Ma,” gridò il Professore in preda al panico, pronunciando le prime parole che gli vennero in mente, “non ho nemmeno una somma del genere in tutto il mondo. Non so cosa intendiate, ”
+
+Il viso di Jimmy assunse un'espressione molto seria e spaventosa.
+
+“Signor Brassington,” cominciò lui con un tono lento e modulato.
+
+“Non sono il signor Brassington, qualunque cosa sia questo signor Brassington,” protestò la sfortunata vittima, comprendendo solo in parte l’errore grave che aveva commesso. “Ma per chi mi prendete, in nome del cielo?”
+
+A quel punto, Jimmy non aveva più intenzione di tollerare sciocchezze.
+
+“Signor Brassington,” disse, “questa sera ha infranto la sua parola nei nostri confronti quando ha cacciato via Melba, e questo avrebbe dovuto essere una lezione per me. Sono stato abbastanza sciocco da credervi anche la seconda volta che ci ha dato la sua parola. E certamente l’ho creduta anche la terza volta, dopo che vi abbiamo rilasciato.” (Il rilascio, in realtà, era molto limitato, ma questo non contava.) “Ora,” proseguì, stringendo le labbra con determinazione, “se cercherete di eludere l’argomento principale, vi avverto che le conseguenze saranno molto peggiori per voi. Sarà sufficiente che firmiate un assegno da duemila sterline e che firmiate anche la ricevuta preparata in anticipo.”
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="The Green Overcoat — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/money_and_gold,motif/clothing,concept/identity,concept/appearance_vs_reality,concept/crime_and_punishment,concept/deception,form/novel"></span>
@@ -3627,6 +3891,56 @@ His resolution sank and sank. The process of his thought continued. The eyes of 
 If the money of this ridiculous John Brassington, whoever he might be, was there in his pocket, he would stand firm. He hoped he would stand firm. But after all, it was not money. It was only a bit of paper. He would be able to make the thing right.... He was very ignorant of such things, but he knew it took some little time to clear a cheque.... He remembered someone telling him that it took three days, and incidentally he grotesquely remembered the same authority telling him that every cheque cost the bank sevenpence.. — . — . The rope hurt damnably, and he was a man who could not bear to miss his sleep, it made him ill.... And he was feeling very ill already. He could carefully note the number of the cheque, anyhow. Yes, he could do that. He had this man Brassington’s address. He had the name of the bank. It was on the cheques. He would have the courage to expose the whole business in the morning. He would stop that cheque. He clearly remembered the Senate of the University having made a. mistake two years before and how the cheque was stopped.... It was a perfectly easy business.... Of course, the actual signing of another man’s name is an unpleasant thing for the fingers to do, but that is only nervousness — next door to superstition. One must be guided by reason. Ultimately it would do no harm at all, for the cheque would never be cleared.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Gli uomini, quando sono confusi, fanno cose stupide anche se sono persone capaci di giudizio; il professor Higginson certamente non lo era. Le sue parole successive furono fatali.
+
+“Pensi davvero che io abbia con me un libretto degli assegni?” gridò.
+
+“Melba,” disse Jimmy in tono sommesso, con l’intonazione di un ufficiale generale che dà ordini, “fagli il test.”
+
+Dopo aver detto una parola sciocca, il Professore ne seguì subito un'altra ancora più stupida. Con un gesto puramente istintivo, infilò la mano nella tasca destra del cappotto verde. Melba gli fu addosso come un falco grasso, quasi strappandogli il braccio dall’articolazione, e ne estrasse dalla tasca destra un elegante libretto degli assegni di un rosso brillante, con una copertina in pelle che pochi libretti degli assegni possiedono; su di esso erano stampate, in caratteri grossi e pretenziosi.
+
+“John Brassington, Esq.”
+
+“Lauderdale”
+
+# Crampton Park, Ormeston
+
+Melba consegnò con solennità il libretto degli assegni a Jimmy, e i due giovani si sedettero di nuovo di fronte al loro “creditore involontario”, dispiegando il libretto davanti a loro in modo molto imponente.
+
+“Signor Brassington,” disse Jimmy, “cosa vedo qui? Tutto ciò che avrei potuto aspettarmi da un uomo della sua importanza nel mondo degli affari e delle sue note abitudini meticolose. Sul foglietto di guardia leggo chiaramente ‘Conto Privato’, e anche i pochi duplicati dei assegni già emessi sono stati attentamente annotati. Noto,” continuò Jimmy, riassumendo con decisione, “una somma di 50 sterline contrassegnata con la dicitura ‘Per me’ il secondo di questo mese. L’oggetto della sua generosità non mi sorprende. Sul prossimo duplicato leggo 173 sterline e 10 scellini: si tratta del pagamento di una fattura, quella di un garage. Sono felice che riconosca e paghi alcune delle sue debiti. Il terzo duplicato,” aggiunse, osservandolo più da vicino, “riguarda un assegno emesso soltanto ieri: è per 5 sterline ed sembra essere stato inviato a suo figlio, che, come sa, è il nostro onorato amico.”
+
+“Protesto, ” interruppe ad alta voce il Professore Higginson.
+
+“A vostro rischio!” ribatté Melba.
+
+“Farà meglio, signor Brassington, a lasciarmi finire ciò che ho da dire,” continuò Jimmy. “Dico che suo figlio, il nostro onorevole amico, come lei sa bene, troppo bene! Questi tre assegni riguardano lei, non noi. Nessun altro assegno è stato emesso, e sul quarto modulo di assegno, signor Brassington, le basterà firmare il suo nome. Lo indirizzerà a James McAuley: una piccola ‘c’ e una grande ‘A’, se le va bene. Una ‘e’, non una ‘a’: nelle sue lettere non si è preso la briga di scrivere il mio nome come lo scrivo io stesso. Poi mi consegnerà l’assegno, e io me ne occuperò con il mio amico.”
+
+All’udire le parole “il mio amico”, fece un gesto cortese verso Melba e eseguì una ridicola piccola riverenza, che nella sua giovane follia riteneva fosse degna di un nobile.
+
+Il Professore sedeva immobile senza dire una parola. I suoi pensieri si agitavano confusamente dentro di lui, e quello che emergeva più chiaramente era: “Sono in trappola!”
+
+“Vi assicuro sinceramente, signori,” disse infine, “che c’è un grande errore. Non ho dubbi che, che un certo signor Brassington vi debba quei soldi, senza dubbio alcuno. E forse avete avuto tutte le ragioni di intraprendere misure così drastiche per recuperarli. Sarei l’ultimo a biasimarvi.” (Il bugiardo!) “Ma poiché non sono il signor Brassington, bensì, se volete saperlo, il professor Higginson dell’Università di Guelph, non posso aiutarvi in questo.”
+
+Quando il Professore ebbe finito di parlare, calò un altro silenzio, interrotto solo quando Melba gli rivolse un epiteto molto offensivo. “Maiale!”, disse lui.
+
+“Dobbiamo quindi intendere, signor Brassington,” disse Jimmy dopo aver riflettuto sulla questione, “che nonostante tutto ciò che ha detto si rifiuta di firmare? Si aspettava” (con un tono sempre più arrabbiato) “che noi accettassimo una somma inferiore?”
+
+“Vi dico che non sono il signor Brassington!” rispose la psicologa in tono acido.
+
+“Oh!” rispose Jimmy, ormai completamente sveglio e con la massima naturalezza possibile, “e non indossi mica i vestiti di Mr. Brassington, vero, Brassington? E questa non è nemmeno la sua agenda degli assegni, giusto, Brassington? E non sei anche tu quel dannato vecchio bugiardo e ladro puritano. Ora ascolta: se non firmi subito, resterai qui fino a quando lo farai. Sarai rinchiuso senza cibo, solo pane e acqua per sopravvivere; e se pensi che qualcuno possa accorgersi della tua assenza, beh, ti dico che non succederà. Lo sappiamo tutto. Dovevi andare in Belgio per una settimana, giusto? Con il treno notturno per Londra. Non hai preso bagagli, perché avresti ritirato una borsa nel tuo ufficio di Londra, come fai sempre per questi viaggi d’affari. Dicevi che era un viaggio d’affari. Spero solo che quell’affare possa aspettarti. Oh, lo sappiamo tutto, Brassington! Abbiamo tutta una settimana davanti a noi. E in quella settimana non avrai certo altro che pane e acqua. E credo che a nessuno importerebbe nemmeno se ne facessimo dieci, ”
+
+Ho già menzionato nel corso di questa dolorosa narrazione il nome di quella Potenza Infernale. Il mio lettore sarà meno sorpreso nel seguire il processo mentale del Professor Higginson in questo terribile momento. Era seduto lì, interamente distrutto interiormente; esteriormente, nulla di particolarmente significativo accadeva. I suoi due “maestri”, severi e immutabili, lo osservavano da oltre il tavolo, illuminato solo da una singola candela. Era notte fonda; non si udiva alcun suono, se non il fragore della tempesta che batteva contro i vetri delle finestre.
+
+Prima di tutto pensò alla sua cara casa, che consisteva in due stanze in un alloggio situato in Tugela Street, molto vicino al suo lavoro. Poi gli venne in mente l’idea di notti insonni in una stanza spoglia, di dover vivere con solo pane e acqua, o anche di peggio.
+
+Cosa significava “peggio”?
+
+La sua determinazione svaniva sempre di più. Il flusso dei suoi pensieri continuava. Gli occhi di quei due giovani, pieni di odio e risolutezza, quasi lo ipnotizzavano.
+
+Se i soldi di quel ridicolo John Brassington, chiunque egli fosse, fossero stati davvero nei suoi pantaloni, lui avrebbe mantenuto la sua posizione con fermezza. Sperava di riuscirci. Ma dopotutto, non si trattava di denaro vero e proprio: era solo un pezzo di carta. Avrebbe potuto risolvere tutto. Non ne sapeva molto in proposito, ma sapeva che occorreva del tempo per autorizzare l’incasso di un assegno. Ricordava che qualcuno gli aveva detto che ci volevano tre giorni; inoltre, ricordava anche che lo stesso responsabile gli aveva detto che ogni assegno costava alla banca sette penny. La corda gli faceva un male terribile. E lui non poteva permettersi di perdere sonno: gli causava davvero molto dolore. Ormai si sentiva molto male. Comunque, avrebbe potuto annotare con cura il numero dell’assegno. Sì, poteva farlo. Aveva l’indirizzo di quel John Brassington, sapeva anche il nome della banca. Erano tutti indicati sugli assegni. Avrebbe avuto il coraggio di denunciare tutta la faccenda la mattina seguente. Avrebbe bloccato quell’assegno. Ricordava chiaramente che due anni prima il Senato dell’università aveva commesso un errore e che l’assegno era stato bloccato. Era una questione del tutto semplice. Certo, firmare con la firma di un altro è una cosa sgradevole per le dita. Ma si tratta solo di nervosismo. O quasi di superstizione. Bisogna affidarsi alla ragione. Alla fine, non ci sarebbero stati alcun problema. L’assegno non sarebbe mai stato incassato.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="The Green Overcoat — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/serpent_snake,motif/money_and_gold,motif/imprisonment,concept/deception,concept/crime_and_punishment,concept/temptation,concept/good_vs_evil,form/novel"></span>
@@ -3673,6 +3987,48 @@ They blew out the candle, left the room with a curse, turning the key in the loc
 Nature had done what virtue could not do and the Professor was stumped.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il professor Higginson si appoggiò con affetto su quella parola: “cleared”. Aveva un suono tecnico, positivo. Era il suo rifugio sicuro. I assegni dovevano essere inviati a Londra, giusto? E andavano in un posto chiamato Clearing House. Lo sapeva, anche se l’economia non rientrava nei suoi ambiti di conoscenza. Lo sapeva, e ne era piuttosto orgoglioso. Come fanno gli insegnanti quando scoprono di sapere qualcosa al di fuori della loro materia di specializzazione.
+
+Mentre il “Mistero del Male” sferrava così il suo attacco frontale contro l’anima povera del professor Higginson, quella stessa anima fu improvvisamente colpita sul fianco da un’idea geniale: quel assegno gli avrebbe permesso di rintracciare i suoi tormentatori!
+
+Davvero, è stata un’idea geniale! Si sentiva più orgoglioso di sé che mai: firmando, avrebbe effettivamente contribuito alla giustizia. La polizia poteva sempre rintracciare qualcuno quando c’erano documenti coinvolti. Nessuno poteva sfuggire alle mani della legge britannica se si fosse tradito in un documento scritto!
+
+Questo attacco di flanco da parte del Male decise il destino del Filosofo. Con voce sommessa, ruppe il lungo silenzio e disse:
+
+#"Dammi la penna!"
+
+Jimmy immerse solennemente la penna nell'inchiostro e gliela porse, senza lasciare andare il libretto degli assegni, ma strappando invece il modulo dell’assegno affinché potesse firmarlo; e mentre lo faceva, il “Serpente” invisibile sorrise. Con una mano quanto più decisa possibile, il Professor Higginson scrisse deliberatamente nell’angolo in basso a destra le parole fatale: “JOHN BRASSINGTON”.
+
+Stava appena iniziando a compilare l’importo, quando, con sua grande sorpresa, il assegno gli fu strappato di mano, mentre Jimmy esclamò: “Lei pensa davvero di poterci ingannare in un modo così infantile? Un uomo firmerebbe mai il proprio assegno in quel modo, come se fosse una copia da libro di testo?” Lo fissò con sguardo minaccioso.
+
+“È falso! Quella non è affatto la tua firma, vecchio Brassington, proprio come non è la mia!”, gridò. “Così scrivi tu.”
+
+Con queste parole tirò fuori un biglietto dalla tasca e lo gettò all’uomo scontento.
+
+“Melba si rilassò con un’esclamazione…”
+
+“Che orribile vecchio imbroglione!” disse.
+
+“E il signor Higginson vide scritto sul biglietto, datato di una settimana prima…”
+
+“James Macaulay, Esq., ‘Signore’, non intendo proseguire alcuna ulteriore corrispondenza con voi su questa questione.”
+
+“Sono, ‘Il vostro obbediente servitore’, J. Brassington.”
+
+Era una mano forte, decisa ma veloce; la mano di un uomo che da giovane aveva svolto molti lavori d’ufficio. Quella mano non assomigliava affatto alla firma che lo psicologo aveva apposto sul modulo del assegno; quel modulo ora giaceva strappato in venti pezzi per colpa dell’arrabbiato Jimmy, il quale aveva anche strappato la controparte del documento e gli aveva presentato un altro assegno.
+
+“Non ce la faccio, signori!” disse con fermezza; era davvero vero… “Non ce la faccio!”
+
+Melba balzò in piedi all'improvviso.
+
+“Non perderò più tempo con quel vecchio maledetto!” disse lui in tono acuto. “Andiamo, Jimmy!” e Jimmy cedette.
+
+Spensero la candela, lasciarono la stanza imprecando, girarono la chiave nella serratura dall’esterno; il sfortunato signor Higginson rimase quindi legato strettamente alla sua sedia, immerso nel buio totale. E devo dire che era sull’orlo delle lacrime.
+
+La natura aveva fatto ciò che la virtù non era riuscita a fare, e il professore rimase perplesso.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="The Green Overcoat — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="concept/virtue,concept/grief_and_loss,concept/temperance_and_teetotalism,form/novel,setting/england,character/leo_tolstoy"></span>
@@ -3706,6 +4062,36 @@ It was Mr. Kirby’s way to listen to anything his friends might have to say —
 
 Mr. Brassington was at it again — the old, familiar story! How, properly speaking, the Queen should have knighted him when she came to Ormeston during his mayoralty; how, anyhow, King Edward might have given him a baronetcy, considering all he had done during the war. How he didn’t want it for himself, but he thought it would steady his son. How he would have nothing to do with paying for such things; how he had heard that the usual price was £25,000; how that was robbing his son! Robbing his son, sir! Robbing his son of a thousand pounds a year, sir! How Mr. Brassington would have that baronetcy given him for the sake of his son, of hearty goodwill, or not at all.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO III.
+
+In cui il “Cappotto Verde” appare come un simbolo di religione, proprio perché non c’è davvero.
+
+Nella sala fumosa della casa di Sir John Perkin, nella stessa sera di lunedì 2 maggio, sedevano insieme a conversare un mercante e il suo amico Charles Kirby, avvocato. Il nome del mercante era Mr. John Brassington: uomo ricco che si occupava di commercio della pelle, figura di spicco nella città di Ormeston e suo ex sindaco. Era una persona onesta, il che equivale a dire che rappresentava la più nobile qualità umana.
+
+Il signor John Brassington, in questo mese di maggio, aveva sessant’anni. Era alto, ma con spalle larghe, sebbene non particolarmente robusto. Portava quelle basette grigie e quadrate tipiche di un’epoca ormai dimenticata nella storia sociale. Aveva ereditato dal padre, anch’egli sindaco di Ormeston, quell’attività commerciale nel settore della pelle; un’attività che aveva notevolmente ampliato. In tutta la sua vita non aveva mai commesso atti di meschinità o tradimento nei confronti dei concorrenti, né alcun comportamento crudele nei rapporti con i suoi subordinati. Il suo volto mostrava da un lato una determinazione decisa, dall’altro un’espressione piuttosto preoccupata e incerta; le linee marcate intorno alla bocca evidenziavano la sua capacità di prendere decisioni con fermezza negli affari, il suo autocontrollo e una vita ordinata. Tuttavia, le sue labbra erano mobili, e questo tradiva un certo grado di sofferenza. Qualche comportamento estremo, che i suoi amici ritenevano affascinante, ma che i suoi critici (poiché non aveva nemici) disprezzavano.
+
+Il signor Brassington si era sposato all’età di trentuno anni con una donna dal comportamento tranquillo, che in nessun modo si distingueva per alcun talento particolare o fascino. Era la figlia di un clérigo della città. Gli portò una felicità completa che durò per quattro anni; gli diede un figlio, e poco dopo la nascita di quel bambino, un maschio, lei morì.
+
+Ora, il signor Brassington, come la maggior parte della sua gente, era un uomo dalle emozioni forti e nascoste. Amava il suo paese, era affezionato alle immagini che la stampa gli forniva del suo leader politico, e adorava sua moglie. La sua morte fu così improvvisa che l’abitudine alla vita coniugale, sebbene breve, aveva radicato in lui un impatto profondo; dal momento della sua scomparsa iniziò a cambiare interiormente, e cominciarono ad apparire in lui quegli eccessi di cui ho parlato. Il peggiore di questi era un attaccamento eccessivo al figlio che avrebbe ereditato la sua fortuna; il secondo più grave era l’abitudine di donare somme di denaro piuttosto ingenti e inaspettate a cause che, all’improvviso, gli sembravano meritevoli di tali donazioni. A queste abitudini mentali si aggiungevano anche comportamenti particolari in ambito morale: per un certo periodo era stato un assolutista nel rifiutare qualsiasi alcol; ne uscì solo per cadere nell’ossessione contro le atrocità straniere. Per un anno lesse Tolstoj, e poi passò da questa emozione a una curiosa fase di nazionalizzazione delle terre. Infine, si stabilì definitivamente nella posizione contraria al gioco d’azzardo.
+
+Quando quest'ultima avventura spirituale capitò al signor Brassington, aveva ormai più di cinquanta che quarant'anni, e l'avversione per i giochi d'azzardo gli fornì, per il resto della sua vita, un'attività morale adeguata al suo temperamento.
+
+Alcune caratteristiche insignificanti ma ben evidenti nel suo modo di vestire accompagnavano questa intensità di emozioni morali. Per qualche motivo noto soltanto a lui, non portava mai ombrello né bastone da passeggio. Indossava guanti da guidatore in ogni occasione possibile, sia che fosse appropriata o meno; in particolare, in tutte le condizioni meteorologiche che non fossero eccessivamente calde, indossava un tipo particolare di cappotto verde, con il quale il lettore è ormai sufficientemente familiare. I giovani irriverenti che lo conoscevano gli avevano dato diversi soprannomi e avevano persino stabilito una sorta di “linea di successione” per questi capi d’abbigliamento: ogni volta che un cappotto invecchiava, veniva regolarmente sostituito con uno nuovo, realizzato esattamente con lo stesso tessuto e la stessa tintura, e foderato con lo stesso pellicame costoso.
+
+Non ne parlò con nessuno; solo il suo migliore amico e, naturalmente, i suoi servitori se n'erano accorti. Ma il signor Brassington nutriva per quel “Giaccone Verde” un tipo di devozione segreta, simile a quella che le persone ignoranti riservano ai loro dèi. Era una strana e segreta mania: attribuiva a quell’oggetto il potere di portare fortuna o sfortuna, a seconda delle circostanze. Senza di esso, temeva la bancarotta o la malattia; nelle mani di altri, invece, pensava che potesse rappresentare una maledizione.
+
+Il figlio a cui erano dedicate tutte le sue affezioni portava i tre nomi di Algernon Sawby Leonidas (Sawby era il cognome della madre) ed ormai era diventato un uomo adulto. Aveva studiato a Cambridge e aveva conseguito la laurea l’anno prima, ma aveva continuato a rimanere lì per dedicarsi alla canottaggio, ritardando così il completamento del suo quinto anno di studi. Divideva il proprio tempo tra un alloggio a Londra e gli ultimi impegni legati al suo corso universitario.
+
+In quel giorno di maggio, il motivo per cui mi trovavo lì era per discutere di questo figlio di cui il signor Brassington aveva lasciato la folla presso Sir John Perkin e si era chiuso nella sala fumatori con Charles Kirby.
+
+Il signor Kirby ascoltava, per la quindicesima o ventesima volta, le opinioni del suo amico su Algernon Sawby Leonidas: quel ragazzo, lontano a Cambridge, in quel momento stava esattamente facendo ciò che facevano suo padre e l’avvocato di suo padre, ovvero bere porto, ma senza disporre di una vita lunga e onesta come la loro.
+
+Era nel carattere di Mr. Kirby ascoltare qualsiasi cosa i suoi amici avessero da dire: questo li rilassava e non gli causava alcun disagio. Di solito non gli importava affatto se stesse ascoltando la storia di un amico per la prima volta o per la centesima; riguardo all’amicizia, lui non aveva pregiudizi, anzi l’amicizia era il suo vero hobby. Ma quella sera, ascoltando ancora una volta nei dettagli i piani per la vita di Algernon, esposti nel loro solito ordine, come se si trattasse di questioni che richiedessero consigli specifici, provò un senso di irritazione.
+
+Il signor Brassington ci riprovava ancora, quella vecchia storia familiare! Come, per dirlo in modo corretto, la Regina avrebbe dovuto farlo cavaliere quando era venuta a Ormeston durante il suo mandato da sindaco; come, comunque fosse, re Edoardo avrebbe potuto conferirgli il titolo di barone, considerando tutto ciò che aveva fatto in guerra. Come lui stesso non volesse quel titolo per sé, ma pensava che avrebbe aiutato suo figlio. Come non voleva assolutamente occuparsi dei costi legati a cose del genere; come aveva sentito dire che il prezzo abituale fossero 25.000 sterline. Come questo significasse derubare suo figlio! Derubarlo di mille sterline all’anno, signore! Come il signor Brassington avrebbe voluto ottenere quel titolo di barone per il bene di suo figlio, per pura gentilezza, o anche no.
 
 
 
@@ -3801,6 +4187,96 @@ Mr. Brassington looked at the fire and thought, without much result.
 “I can’t pay it, Charles, and I won’t,” he said at last. “I’ve said I wouldn’t, and that’s enough. I have written and said I wouldn’t, and that’s more. But even if I had said nothing and had written nothing, I wouldn’t pay. He must learn his lesson.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Kirby ascoltava, sempre più annoiato.
+
+«Te l'ho detto venti volte, Brassington! Vennero da me per quella faccenda e tu perdesti le staffe. Sono tornati da me l'altro giorno, ed è tua se solo la chiedi; soltanto, accidenti! devi fare di nuovo qualcosa in pubblico, bisogna pure che abbiano un gancio a cui appenderla.» Al che l'amico più intimo e più antico del signor Kirby tornò all'assalto, recitò per esteso ancora una volta la lagnanza del titolo di baronetto, e concluse ancora una volta con le sue idee su Algernon Sawby Leonidas.
+
+Quando il signor Brassington giunse alla fine di una frase e fece una specie di pausa, il signor Kirby disse —
+
+«Credevo che dovessi andare in Belgio?» Il signor Brassington ne fu un poco addolorato.
+
+«Ho stabilito di prendere il postale della notte» disse gravemente. «Ci andrò a piedi. Vuoi venire con me alla stazione?»
+
+«Oh, sì!» disse il signor Kirby con vivacità. «Mi farà fare una bella camminata di ritorno sotto la [[Rain|pioggia]]. Se pensi tutto questo di Algernon, non avresti dovuto mandarlo a Cambridge.»
+
+«L'ho mandato a Cambridge su tuo consiglio, Kirby» disse il signor Brassington con dignità.
+
+«E te lo darei di nuovo» disse il signor Kirby, accavallando le gambe. «È una cosa straordinaria che un uomo ricco come Perkin abbia del buon porto un giorno e del porto cattivo un altro. . — . — .
+
+Deve andare a Cambridge. Ho una teoria: che a Cambridge debba andare chiunque possa permetterselo, a sud-est di una linea tracciata da—»
+
+«Non farlo, Charles, non farlo» disse il signor Brassington, un poco addolorato, «è una cosa molto seria!»
+
+Il signor Kirby parve più arzillo che mai.
+
+«Io non ho detto che le tue idee fossero giuste; non credo che lo siano. Ho detto che, se avevi quelle idee, era un'assurdità mandarlo a Cambridge. Perché non dovrebbe bere? Perché non dovrebbe giocare d'azzardo? Che male c'è?»
+
+«Che male —?» cominciò John Brassington, con un lampo negli occhi.
+
+«Via, via» disse Kirby in tono conciliante, «non dico che sia la cosa migliore del mondo. Voglio dire che tu ci calchi troppo la mano. Lo sai bene che è così. Comunque, John, non ha poi grande importanza; si aggiusterà tutto.»
+
+Fissò il fuoco, poi aggiunse —
+
+«Ecco, perché io non riesco a procurarmi del carbone che bruci a quel modo? Nient'altro che pura cenere bianca!»
+
+Si sporse in avanti con un grugnito, attizzò il fuoco senza fretta, e guardò con ammirazione la cenere mentre cadeva.
+
+«Kirby» disse John Brassington, «mi spezzerà il cuore!»
+
+«Ma no che non te lo spezzerà!» disse allegramente il signor Kirby.
+
+«Ti dico di sì!» replicò l'altro con irritazione, come se lo spezzarsi del cuore fosse una faccenda esasperante. «E su una cosa sono deciso — deciso—»
+
+Il mercante esitò, poi proruppe bruscamente ad alta voce: «Lo sai che ho pagato i suoi debiti di gioco quattro volte, regolarmente? Regolarmente, a ogni trimestre estivo?»
+
+«Ti fa onore, John» disse il signor Kirby.
+
+«Ah, però» disse il signor Brassington, con un curioso e improvviso misto di astuzia e di fermezza nella voce, «l'ultimo però non l'ho pagato!»
+
+«Oh, non l'hai pagato?» disse il signor Kirby, alzando lo sguardo. Fiutava complicazioni.
+
+«No, non l'ho pagato...! L'avevo avvertito lealmente» disse l'anziano mercante, atteggiando la bocca nel modo più squadrato possibile, ma quasi singhiozzando in cuor suo. «E poi è una rovina.»
+
+«Chissà se lui l'avvertimento leale lo diede a quei giovani signorini» rifletté il signor Kirby. «L'ultimo Grand National—»
+
+«Oh, Signore, Charles!» esplose il signor Brassington, incontenibile. «Lo sai, lo sai di quanto mi ha salassato quel cucciolo? Maledizione, Kirby, duemila sterline!»
+
+«Il diavolo!» disse Charles Kirby.
+
+«È il Diavolo» disse John Brassington con enfasi.
+
+E lo era davvero, benché egli non lo sospettasse affatto, perché fu proprio in quel momento che il Nemico del Genere Umano stava lavorando là fuori, nell'ingresso, sulla materia docile del professor Higginson. Fu proprio in quel momento che il Cappotto Verde avvolgeva il corpo del Filosofo e si metteva in viaggio verso le sue avventure di sotto il tetto di sir John Perkin. Proprio mentre il signor Brassington pronunciava queste parole, la porta esterna sbatté. Kirby, alzando gli occhi, disse d'un tratto —
+
+«Senti un po', se ne vanno! E il tuo treno?»
+
+«C'è tempo in abbondanza» disse Brassington stancamente, «sono appena le dodici. Ascolta piuttosto quello che ti sto dicendo.»
+
+«Ti ascolto» disse Kirby rispettosamente.
+
+«Ebbene» proseguì il signor Brassington, «il fatto in due parole è questo: non pagherò.»
+
+Il signor Kirby attizzò il fuoco.
+
+«La cosa da fare» disse infine con un tono meditabondo «è scendere laggiù e far passare un brutto quarto d'ora a quei giovani cuccioli!»
+
+«Non ti capisco, Charles» disse il signor Brassington con calma; «proprio non ti capisco. Mi hanno scritto e spero di aver risposto con dignità. Mi hanno scritto di nuovo, e ho risposto in modo definitivo. Non pagherò.»
+
+«Non ne dubito affatto» disse il signor Kirby. «È una cosa curiosa con quanta avidità un giovane si attacchi alle aspettative!»
+
+«Proprio non sai quello che dici, Charles» rispose il signor Brassington; «e se non ti conoscessi bene come ti conosco, uscirei da questa stanza.»
+
+«So esattamente quello che dico» ribatté il signor Kirby con tutto il calore che il suo volto beffardo gli consentiva. «E stavo per proseguire, se non mi avessi interrotto. Dico che è una cosa curiosa quanto un giovane si lasci muovere dalle aspettative. È per questo che giocano d'azzardo. Grazie a Dio, io non mi sono mai sposato! A loro piace vedere qualcosa e lavorare per averla. È per questo che giocano. Tu non mi capirai, John» disse, alzando una mano per prevenire l'interruzione; «ma è per questo che, quando ero ragazzo, mio padre mi mise in ufficio e mi disse che, se avessi lavorato sodo, sarebbe successo qualcosa, qualcosa di generico e di vago — la stima, la buona coscienza, o qualche fesseria chiamata successo.»
+
+«Vorrei che non dicessi “fesseria”» s'intromise gravemente John Brassington.
+
+«Non l'ho detto io» rispose il signor Kirby senza muovere un muscolo, «è una parola orribile. Comunque, se il mio babbo mi avesse detto: “Charles, ragazzo mio, in marzo ci sono cento sterline per te se rispetti l'orario, ma se arrivi tardi una sola volta non un centesimo”, perdio, John, avrei lavorato come un mulo!»
+
+Il signor Brassington guardò il fuoco e pensò, senza gran risultato.
+
+«Non posso pagare, Charles, e non pagherò» disse infine. «Ho detto che non l'avrei fatto, e questo basta. L'ho anche scritto e dichiarato, e questo è anche di più. Ma perfino se non avessi detto nulla e non avessi scritto nulla, non pagherei. Deve imparare la lezione.»
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="The Green Overcoat — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/rain"></span>
@@ -3895,6 +4371,96 @@ The two men went out into the night and the storm. Charles Kirby enjoyed bad wea
 “Of course it does,” said Mr. Kirby, with the fullest sympathy. “That is why so many people are afraid of death. They ‘re afraid of the change of habit.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Oh, imparerà senz’altro!”, disse il signor Kirby con noncuranza. “Sta imparando molto velocemente, davvero. È una vera vergogna, e non mi dispiace dirlo apertamente. Sono quasi tentato di mandargli io stesso i soldi.”
+
+“Se lo fai, Charles”, disse John Brassington, con uno dei suoi sguardi minacciosi, “io… io…”
+
+“Sì, è proprio di questo che avevo paura,” disse il signor Kirby pensierosamente. “Sei davvero un uomo estremamente difficile da gestire. Non avrei dovuto chiedergli più del cinque percento. Perderai il treno, John.”
+
+John Brassington guardò di nuovo l’orologio. “Non mi sei stato molto d’aiuto, Charles,” disse, sospirando mentre si alzava.
+
+“Sì, ce l’ho,” disse il signor Kirby alzandosi a sua volta. “Cosa fai dei tuoi abiti da sera quando vieni in città con il treno notturno in questo modo?”
+
+“Quando arrivo in città, mi cambio nelle mie stanze,” disse seriamente il signor Brassington, “lo sai bene quanto me. E indosso il mio cappotto fino in città.”
+
+“Dicono che la indossi a letto,” fu la risposta cordiale del signor Kirby. “Verrò ad aiutarti a metterla, e poi inizieremo.”
+
+I due uomini uscirono dalla sala fumatori e entrarono nel corridoio. Trovarono numerosi ospiti che aspettavano impazientemente i loro cappotti e cappelli. Sentirono il rumore delle ruote sul vialetto esterno.
+
+“Te l’avevo detto com’era, John,” disse il signor Kirby. “Non riuscirai a passare attraverso quella folla. Non riuscirai a prendere il cappotto in tempo e perderai il treno.”
+
+“Ecco dove ti sbagli, Charles,” disse il signor Brassington, con un’espressione che denotava una grande capacità organizzativa. “Io lascio sempre il mio cappotto nello stesso posto in ogni casa che conosco.” Si diresse direttamente verso la porta, dove un servitore sonnolento montava la guardia; inciampò in un gancio situato all’ingresso e si rese conto che il cappotto era scomparso.
+
+Seguì una scena molto curiosa.
+
+L’ambiente era piuttosto buio; veniva illuminato soltanto dal corridoio alle spalle. Il signor Kirby, osservando il suo amico mentre questi si girava dopo essersi accorto della sua perdita, rimase sorpreso nel vedere il suo viso pallido – così pallido da essere quasi troppo visibile in quell’angolo buio – e pieno di un misto di paura improvvisa e rabbia improvvisa. Da quel viso provenne un debole grido, piuttosto che una frase compiuta.
+
+“È sparito, Charles!”
+
+Il servitore scortese iniziò a parlare. Fortunatamente, nessuno degli ospiti lo sentì. Il signor Kirby si avvicinò rapidamente e posò la mano sul braccio di Brassington.
+
+“Ora, sii responsabile di te stesso, John”, disse. “Che cosa è successo?”
+
+“Il mio cappotto verde!”, esclamò il signor Brassington con lo stesso tono basso e appassionato.
+
+“E allora?”
+
+“Beh! Dici ‘beh’, ma non capisci davvero!”
+
+“Sì, lo capisco, John,” disse il signor Kirby con una certa tenerezza nella voce. “Capisco perfettamente. Torna qui con me. Sii ragionevole.”
+
+“Non mi muoverò!” disse il signor Brassington in modo irrisoluto.
+
+Il signor Kirby posò affettuosamente una mano sulla spalla del suo vecchio amico e lo spinse verso la porta della sala fumatori che avevano appena lasciato. Chiuse quella porta dietro di sé. Nessuno degli ospiti se n’era accorto. E questo era proprio meglio così.
+
+“È sparito! È sparito!” disse John Brassington due volte.
+
+Teneva le mani giunte, intrecciando nervosamente le dita.
+
+Il signor Kirby non prestava alcuna attenzione; era accovacciato davanti a un mobile laterale e diceva.
+
+“È una fortuna che faccia gli affari di John Perkin per lui… Sto diventando davvero troppo intimo con lui.”
+
+Prese fuori un decantatore di brandy, gettò nel fuoco il fondo della bottiglia di Porto del signor Brassington e versò un bicchiere di quel liquore.
+
+“Sempre dimentico la tua ultima passione, John,” disse; “ma se fossi un medico ti consiglierei di berlo.”
+
+# John Brassington bevve un po’ di brandy, e il signor Kirby continuò…
+
+“Non preoccuparti del Belgio stasera, ragazzo mio. Prima di tutto, prendi il mio cappotto. Sono più astuto di te in queste situazioni: non lo appendo nemmeno a un gancio. Lo lascio qui,” disse, avvicinandosi dietro una tenda e tirandolo fuori.
+
+Non era altro che un semplice impermeabile senza maniche. Lo indossò sul suo amico inerme, il quale si limitò a dire.
+
+“Cosa farai, Charles?”
+
+“Andrò a prendere gli ordini,” disse Charles Kirby, estraendo improvvisamente dalla tasca un pezzo di seta nera fine e sistemandolo con cura sul davanti della camicia. “Non ho il collare da cane del prete, ma con questo si può camminare per le strade. Dopotutto, alcuni membri del clero indossano ancora quei colli alla moda vecchia e la cravatta bianca, no?”
+
+John Brassington sorrise pallidamente.
+
+“Oh, è in casa! Deve essere da qualche parte in casa…” disse.
+
+“Ora, John,” disse Charles Kirby con fermezza, “non fare la figura dello sciocco. Non chiedere quel cappotto. È l’unico modo per non ottenerlo. Resta dove sei, e ti porterò notizie.” Uscì e in cinque minuti tornò con delle novità.
+
+“Cinquanta persone se ne sono andate prima che ci alzassimo, John. Nessuno sa chi fossero. Quell’idiota alla porta ricorda solo quel gruppo di Quaker e, mio Dio, Perkin è così agitato che non riesce a fare altro che imprecare, ma questo non serve a nulla. Devi semplicemente venire con me e torneremo a casa sotto la [[Rain|pioggia]]. Prenditi tutto il tempo che vuoi per attraversare il Belgio.”
+
+“Non è il Belgio a preoccuparmi!” disse povero il signor Brassington.
+
+“No, lo so,” disse Charles Kirby con tono rassicurante. “Capisco.”
+
+I due uomini uscirono nella notte e nella tempesta. Charles Kirby amava il cattivo tempo; faceva parte della sua molteplice perversità. Mentre percorrevano la strada principale verso il sobborgo di Crampton Park, cercò di fischiare nonostante il vento forte. Brassington camminava al suo fianco.
+
+“Non hai ordinato una carrozza,” disse Kirby dopo un po’; “non sapevi che avrebbe piovuto. Immagino che quel tuo cappotto verde abbia davvero la fortuna nel suo interno, ”
+
+“Nel suo taschino c’è un libretto degli assegni mio,” disse John Brassington.
+
+“Sì, ma non è di questo che vi preoccupate,” disse il signor Kirby. “Vi preoccupa la fortuna. Per un uomo che odia le carte, John, siete davvero superstizioso.” Per qualche istante Brassington non disse nulla, poi aggiunse:
+
+“Una lunga abitudine influisce sugli uomini.”
+
+“Certo che sì,” disse il signor Kirby con la massima comprensione. “È per questo che molte persone hanno paura della morte. Hanno paura del cambiamento di abitudini.”
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_04" data-title="The Green Overcoat — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/rain"></span>
@@ -3940,6 +4506,48 @@ The man was so startled that he blurted out —
 
 “Was he?” said Mr. Kirby. “Well, all right,” and he turned to go down the drive. He reflected that it was a mile and a|half to his own home; but then, there was the storm still raging and he liked it, and, thank Heaven, he never got up earlier than he could help. He therefore proceeded to whistle, and as he whistled, to consider curiously the soul of that old friend of thirty years, whom he loved with all his heart. Next he made a picture of a young gentleman, a friend of his friend’s son, coming and asking to see the Green Overcoat, and learning it by heart. Why? Mr. Kirby didn’t know. He stacked the fact up on a shelf and left it there.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+E dopo di ciò non si disse più nulla fino a quando non arrivarono alle porte della baita di quella casa enorme, brutta, comoda e moderna che John Brassington aveva costruito, e senza alcun motivo l’aveva chiamata “Lauderdale”.
+
+“Devo venire con te fino alla porta, John?” chiese il signor Kirby.
+
+“Se non vi dispiace, ” rispose Brassington con esitazione.
+
+“Assolutamente no,” disse il signor Kirby con allegria. “Se avessi terreni grandi come i tuoi, non dovrei lavorarci da solo.”
+
+I due uomini percorsero il breve tragitto che conduceva alla porta principale. Quando questa fu aperta per loro, la prima cosa che il signor Brassington disse al suo servitore fu.
+
+#Qualcuno ha riportato il mio cappotto?
+
+Il servitore non aveva visto nulla di tutto ciò.
+
+“Non è qui”, disse il signor Brassington, girandosi verso il signor Kirby. “Entri”.
+
+“No, non lo farò, John,” disse il signor Kirby. “Ti chiamerò domattina. Farò di meglio che venire qui di persona; cercherò di trovarlo per te.”
+
+“Sei un buon amico, Charles,” disse John Brassington, con significato e semplicità. Aveva ricevuto un colpo duro.
+
+“Intanto, John,” disse Kirby, fermo fuori sotto la [[Rain|pioggia]], “ricorda che sta facendo un sacco di bene anche ad altre persone. Un vero e proprio mucchio di bene! Mi andrebbe un bicchiere.”
+
+“Entri pure,” disse di nuovo Brassington.
+
+“Molto bene,” disse Kirby entrando; “ma non mi toglierò il cappello.”
+
+Il signor Brassington fece portare del vino, e Charles Kirby lo bevve.
+
+“È troppo tardi per bere vino,” disse dopo averne bevuti tre o quattro bicchieri. “È una fortuna che non mi importi nulla dell’ufficio, vero? Buonanotte.”
+
+Il servitore tenne la porta aperta per lui, e Brassington se ne andò; ma quando il padrone di casa fu fuori portata di vista e udito, il signor Kirby si fermò improvvisamente sulle scale e, rivolgendosi al servitore proprio prima che la porta si chiudesse alle sue spalle, disse:
+
+"#Chi hai parlato oggi riguardo al cappotto del tuo padrone?"
+
+#L’uomo fu così sorpreso che balbettò…
+
+“Signore, non ho detto una parola! È stato il cocchiere a parlare con il giovane signore quando lui l’ha visto. Non l’ha preso in prestito, signore. Era un amico del signor Algernon.”
+
+“Davvero?” disse il signor Kirby. “Beh, va bene,” e si voltò per dirigersi verso casa sua. Pensò che ci fossero un miglio e mezzo fino a lì; ma poi c’era ancora la tempesta in corso, e a lui piaceva. E, grazie al cielo, non si alzava mai prima del dovuto. Così continuò a fischiare, mentre rifletteva curiosamente sulla natura di quell’antico amico di trent’anni, che amava con tutto il cuore. Poi immaginò un giovane gentiluomo, amico del figlio del suo amico, venire da lui per chiedere di vedere il “Cappotto Verde”, e impararne a memoria i dettagli. Perché? Il signor Kirby non lo sapeva. Decise semplicemente di mettere quel pensiero da parte e lasciarlo lì.
 
 
 
@@ -3991,6 +4599,52 @@ There was no sound in the great lonely house. The [[Rain|rain]] outside had ceas
 He first took up from the table that note-signed John Brassington in strong, swift English writing. He scanned it long and well.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV.
+
+Da ciò si evince che la formazione universitaria prepara le persone per una carriera nel mondo degli affari.
+
+L’alba nel mese di maggio arriva molto prima di quanto la maggior parte delle persone benestanti possa immaginare. Arriva anche prima di quanto sappiano la maggior parte delle persone appartenenti a quella classe che acquista e legge romanzi. E poiché a questo punto posso essere abbastanza certo che il lettore abbia acquistato, noleggiato, preso in prestito o addirittura rubato questa incantevole storia, mi sento autorizzato a rimproverarlo per la sua ignoranza.
+
+L'alba di maggio arriva incredibilmente presto; quindi l’uomo che decide di trascorrere la notte in qualche modo particolare non prova sonno fino a pieno giorno. Ora, anche coloro che conoscono solo superficialmente le avventure del professor Higginson ammetteranno che quella notte fu davvero unica. Una notte come quelle che nemmeno l’altissimo Montmartre e il vasto mondo di Londra possono offrire. La Provvidenza non gli aveva concesso molto tempo per maledire e disperare nell’oscurità, legato alla sua sedia a rotelle. Era già esausto, ma ancora in grado di pensare e agire, quando notò che una luce pallida stava inondando la stanza. Così arrivò l’alba: martedì 3 maggio, una data di terribile importanza per la sua anima.
+
+Fu in quel momento che lo Psicologo si ricordò che le sue braccia erano libere.
+
+In quella vasta lettura di cui ho fatto più volte riferimento, e che per lui sostituiva le esperienze più materiali della vita, il professor Higginson aveva appreso di uomini forti e capaci di costruire imperi, che, senza alcun altro strumento se non i loro forti denti, erano riusciti a spezzare i vincoli più terribili. Come avrebbe potuto quindi fallire lui, le cui mani erano libere?
+
+Si maledisse per essere stato uno stupido, in un monologo interiore modulato, per non essersi ricordato di quella cosa prima.
+
+Prima di tutto, esaminò attentamente tutto ciò che i suoi occhi riuscivano a vedere. Il laccio della scatola avvolgeva il Cappotto Verde in modo estremamente stretto; era continuo e si attorcigliava intorno alle scale e alle gambe della sedia, stringendo saldamente i suoi polpacci e le sue ginocchia. Da qualche parte doveva esserci un nodo. E lui doveva trovarlo.
+
+Il cielo, o, come preferiva credere il Professore, lo sviluppo umano, ha concesso al braccio e alla mano umana una vasta gamma di movimenti e possibilità di azione. Poiché il nodo non era visibile, doveva trovarsi dietro di lui. Provò ad esplorare delicatamente la corda con entrambe le mani, per quanto fosse possibile raggiungere, ma non lo trovò.
+
+Decise quindi che il nodo dovesse trovarsi sotto di lui. La sedia aveva bracci larghi, ai quali il suo corpo era strettamente legato. Si piegò quanto più poté da un lato e poi dall’altro, ma non riuscì a trovare alcun nodo sul sedile sottostante.
+
+Ancora una volta si appoggiò all'indietro (a scapito di notevoli dolori), e con la punta estrema del suo dito medio destro riuscì a toccare un gradino più basso sul retro della sedia; finalmente trovò quel maledetto groviglio di corde. Lì poteva stimolare il bordo esterno di quel dannato intreccio. Ecco il nodo! Proprio fuori dalla sua portata!
+
+Nel tentativo disperato e virile di allungare la propria portata di un pollice in quella direzione, rovesciò la sedia all’indietro e cadde, colpendosi violentemente la nuca contro il pavimento.
+
+Il Professore non era contento. Era stato gravemente ferito e, per un momento, pensò che tutto fosse finito. Ma l’istinto umano, ricco di risorse, si risvegliò in lui. Scosse la testa e le spalle con movimenti convulsi, nel disperato tentativo di rialzarsi. Rendendosi conto che questo non funzionava, girò deliberatamente su un lato, poi sulle ginocchia, fino a finire in posizione quadrupede; la sedia, ancora saldamente legata a lui, sembrava un “castello” che lo sosteneva.
+
+Avendo raggiunto quella nobile posizione – che, secondo tutti i dogmi di tutte le università, rappresenta l’atteggiamento originale dei nostri antenati remoti – fece una scoperta.
+
+In questa posizione naturale, era in grado di muoversi avanti: la sedia che gravava sul suo dorso, simile alla corazza di una tartaruga, e le gambe intorpidite che lo seguivano, nonostante tutto, gli permettevano di avanzare. Poteva infatti mettere una mano davanti all’altra, come farebbe un orso ferito, per trascinare il resto del proprio corpo dietro di sé.
+
+In questo modo, man mano che la luce iniziava a illuminare quell’appartamento sporco e deserto, il professor Higginson iniziò un viaggio lungo e doloroso per tutto il pavimento della sua prigione. Esaminò ogni angolo alla ricerca di qualcosa di affilato con cui poter tagliare la corda, ma non trovò nulla del genere.
+
+Era pieno giorno quando ebbe completato la sua circumnavigazione e il suo rilievo dettagliato. Nella semioscurità aveva sperato che quella finestra desse sul giardino; ora, però, che tutto era completamente illuminato dall’alba, rimase deluso. Quella singola finestra, guardandola in alto, non rivelava altro che il muro di mattoni di un cortile stretto e sporco. Ripercorse lentamente i suoi passi, o meglio, le tracce che aveva lasciato, fino al punto da cui era partito; poi, con grande sforzo, afferrando il bordo e le gambe del tavolo, inclinò la sedia capovolta e riprese la posizione originale, quella di “Uomo Intronizzato”.
+
+Era esausto.
+
+Era esausto; ma la nuova giornata portava sempre con sé qualche forma di energia, e il Professore iniziò nuovamente a pensare e a prendere decisioni, anche se l’anima dentro di lui era come un panno bagnato e il suo morale completamente distrutto. Era arrabbiato, nel senso in cui un uomo può essere veramente arrabbiato quando indebolito da estremi simili. Ora odiava non solo quei due giovani, ma tutti gli uomini. Voleva essere libero. Aveva il diritto alla libertà. Avrebbe recuperato la propria libertà con qualsiasi mezzo, e una volta riuscito in questo, avrebbe compiuto atti terribili!
+
+Non c'era alcun suono nella grande casa deserta. La [[Rain|pioggia]] all'esterno si era fermata. Quegli strani uccelli, completamente ignari delle sue sofferenze, strillavano disperatamente come ruote di carri non unte. Era un momento in cui il male aveva potere. E oh! Il professor Higginson, con un volto più deciso che mai, decise di liberarsi.
+
+. Una volta libero, avrebbe cancellato ogni male e vendicato se stesso.
+
+Prima di tutto prese dal tavolo quel biglietto firmato da John Brassington, scritto in inglese chiaro e veloce. Lo esaminò attentamente per un lungo momento.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="The Green Overcoat — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,motif/imprisonment,concept/deception,concept/crime_and_punishment,concept/temptation,concept/good_vs_evil,form/novel"></span>
@@ -4032,6 +4686,44 @@ Then, seeing the typewritten sheet unsigned, he said —
 
 Mr. Higginson, lowering and furtive like a caged cheetah, snarled and pulled the paper towards him. It was stamped with the business heading of the Brassington firm. It was brief and to the point:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poi prese in mano il modulo del assegno che gli era stato lasciato; lo sollevò con un gesto deliberatamente deciso, per uno come lui, e un gesto che poteva essere nato solo da una situazione finanziaria estremamente grave.
+
+Cercò nella tasca un po’ di gesso; poi – questa volta non strisciando sul pavimento, ma trascinandosi lungo i bordi del tavolo e portandosi dietro anche la sedia – si diresse verso la finestra.
+
+Angeli e demoni videro il Professor Higginson compiere questo atto terribile! Posizionò, proprio sopra la finestra più bassa che potesse raggiungere, il biglietto firmato da John Brassington. La luce pura del giorno filtrava chiaramente attraverso di esso. Con una delle mani libere tenne saldamente fermo il angolo in basso a sinistra del modulo assegnativo; poi, con estrema cura e abilità, tracciò con la matita la lettera “J”, la “o”, l’“h”, la “n”, la “B” maiuscola, la “r”, la “a”, la “s”, e tutte le altre lettere necessarie per completare il documento!
+
+Gli Angeli Buoni volarono via, disperati, verso il loro regno, abbandonando per il momento la sfortunata razza degli uomini. Gli Angeli Cattivi, credo, si ammassarono nella stanza fino a soffocare; ma, per usare termini umani, il Professor Higginson rimase da solo con il suo atto malvagio.
+
+Era troppo tardi per tornare indietro. Aveva indurito il proprio cuore. Con una serie di salti goffi, aiutandosi con il bordo del tavolo, riuscì a riprendere l’inchiostro e la penna, e coprì con una perfezione sicuramente innaturale i tracciati che aveva fatto con la matita. Il professor Higginson aveva falsificato!
+
+Tutto sarebbe andato bene. C’era quella “radura”, e poi c’era l’atto di “annullare un assegno”; comunque sia, maledizione, o meglio, al diavolo, un uomo non è utile per una buona causa finché non è libero. Sì, aveva fatto la cosa giusta. Prima doveva essere libero. Libero, nonostante le catene che lo legavano; con gli occhi chiusi e le mani appoggiate ai bracci della sedia, libero di respirare profondamente. Respirazioni regolari, anzi, un po’ più forti. Poi, proprio come i soldati addormentati in sella o i marinai che si addormentano alla barra per la stanchezza, anche il Professore di Psicologia e Specialista in Coscienza Subliminale dell’Università di Guelph a Ormeston, in Inghilterra, dormì, legato e stretto nelle sue catene.
+
+Quando il professor Higginson si svegliò, gli uccelli avevano smesso di cantare e se n'erano andati a cercare cibo. L’aria era calda; un sole splendente illuminava il muro del cortile sporco. Estrasse l’orologio: mancavano quindici minuti alle nove. Si sentì immediatamente più rilassato, ma anche più a disagio, più fresco, e allo stesso tempo più dolorante a causa delle corde che gli legavano gambe e torace; inoltre, la sedia dura su cui era seduto – un tempo il suo rifugio, ora invece una fonte di sofferenza – non era affatto confortevole. Guardando l’orologio, si ricordò di aver rotto il vetro qualche tempo prima; ricordava anche che un frammento di quel vetro gli aveva ferito la mano. E – meravigliosa forza creativa della necessità, persino nell’anima accademica! – si ricordò che quel vetro poteva tagliare.
+
+Si sentiva come un Colombo. Avrebbe voluto poter brevettare cose del genere. Iniziò con cautela ad alzare il bicchiere dal cassetto del suo orologio; si ruppe, e purtroppo fece ciò che aveva sempre fatto in passato: gli ferì un dito. Succhiò la ferita, ma era disposto a dimenticarla. Grazie alla sua nuova “chiave” per liberarsi. Con un piccolo frammento del bicchiere rotto, iniziò a tagliare dolorosamente una parte della corda che lo legava. Ma sarebbe stato come cercare di abbattere un quercio di quindici anni con un coltello da tasca. Alla fine, tutto può essere realizzato con impegno, ma la vita umana è breve.
+
+Guardò disperatamente verso la finestra, e un’altra idea brillante gli venne in mente. Sicuramente il suo cervello stava “fiorendo” sotto l’effetto di quelle avversità. Gli venne l’idea di rompere uno dei pannelli della finestra!
+
+Lo fece. Il vetro cadde verso l’esterno e si frantumò nel cortile sottostante. Con coraggio disperato ma infinite precauzioni, afferrò un pezzo tagliente che era rimasto; quell’oggetto assomigliava molto a un coltello! Con esultanza iniziò ad tagliare i lacci. E con immenso sollievo, il nodo si allentò rapidamente. In pochi secondi avrebbe spezzato del tutto quei legami; avrebbe avuto due estremità libere. E poi, seguendo l’ispirazione che gli era venuta in quel momento, avrebbe semplicemente srotolato i lacci e sarebbe stato libero. Ma proprio quando l’ultimo nodo stava per cedere, mentre i muscoli del suo braccio iniziavano a dolere per lo sforzo continuo, sentì delle voci odiose sulle scale. Il rumore pesante di quattro giovani piedi calzati di stivali sui gradini di legno. La chiave girò nella serratura. E Jimmy e Melba, se ancora posso chiamarli così, entrarono nella stanza.
+
+Con dita nervose e disperate, il professor Higginson cercava in tutti i modi di sciogliere il groviglio dei legami che ora gli erano stati tagliati; quando quei due giovani lo assalirono, devo dire con grande rammarico che quello dai modi più aggressivi pronunciò quella frase banale: “Ah! Voi vorreste davvero farlo, vero?” accompagnandola con un improvviso movimento forzato che gli fece incrociare i gomiti dietro la schiena. Un gesto così offensivo da essere ormai diventato quasi altrettanto banale e insopportabile, per il pragmatista dell’Università di Guelph.
+
+Anche per Melba, il Professore sembrava un uomo diverso rispetto alla vittima di poche ore prima. Si girò con violenza. Morse davvero. Nella sua rabbia disse:
+
+"Lasciami andare, tu piccolo diavolo!"
+
+Nello stesso istante, il signor James McAuley vide e prese quel assegno. Poi disse, con tono più grave.
+
+“Lascialo andare, Melba, non essere sciocca! Signor Brassington,” aggiunse, “sarebbe stato davvero più saggio da parte sua farlo ieri sera. Non avevamo alcuna intenzione di umiliarvi, ma sapete che avevamo diritto al nostro denaro. Dopotutto, vi abbiamo avvertiti, ”
+
+“Poi, vedendo che il foglio dattiloscritto non era firmato, disse…”
+
+“Senza questo non ci sarà di alcun aiuto, signor Brassington.”
+
+Il signor Higginson, con movimenti bassi e furtivi, come una gheparda in gabbia, ringhiò e tirò il foglio verso di sé. Era timbrato con la dicitura ufficiale della società Brassington. Il messaggio era breve e diretto:
 
 
 
@@ -4089,6 +4781,58 @@ With these words he gave some mysterious signal to Melba. The baize door was swu
 A hearty oath assured him that all was well. He tramped with his companion down the stairs, and Mr. Higginson was again a prisoner and alone.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“James McAuley, Avvocato.”
+
+“Caro Signore, dopo aver consultato coloro che sono più qualificati per darmi consigli, ho deciso, sebbene ritenga ancora che la pressione esercitata su di me sia una grave ingiustizia, di saldare il debito sciocco di mio figlio.”
+
+“In allegato invio il mio assegno da 2.000 sterline; vi prego di inviarmi una ricevuta in doppia copia. Vostro obbediente servitore.” Poi arrivò lo spazio per la firma. Il professor Higginson, con un viso molto brutto, ancora più orribile dopo le ore di tortura subite, si rivolse ai giovani uomini.
+
+“Devo firmare quello, giusto?”
+
+“Se le fa piacere, signor Brassington,” disse Jimmy con calma.
+
+“Bene, allora vi prego di lasciare questa stanza, voi giovani sciocchi, insieme al vostro amico.”
+
+Melba e Jimmy si guardarono l'un l'altro con esitazione.
+
+“Non posso, non lo farò”, ringhiò il povero scienziato, “se rimani qui!”
+
+“Dopotutto, signor Brassington, ne abbiamo già parlato ieri sera…”
+
+“Sì, e non lo farei fino a quando tu non te ne fossi andato, vero?” disse il Professore Higginson, aggiudicandosi un punto.
+
+“Dopotutto, non può fare nulla attraverso quella finestra, vero, Melba? Andiamo fuori ad aspettare. Ma vi avverto, signore,” aggiunse, rivolgendosi all’uomo caduto a terra, “sentiremo tutto ciò che farete e interverremo immediatamente appena fuori dalla porta.”
+
+“Vai all’inferno!”, disse il professor Higginson, utilizzando quella frase per la seconda volta nella sua vita, e dopo un intervallo di almeno ventitré anni.
+
+Allora i giovani se ne andarono, e quella anima ormai indurita proseguì nuovamente nel tracciare, nel disegnare con la matita e nel firmare.
+
+“È pronto!” gridò verso la porta mentre la sua penna lasciava il foglio di carta.
+
+I suoi tormentatori rientrarono e si impossessarono del documento; poi, anche se Melba rimase un nemico, il comportamento di Jimmy cambiò.
+
+“Signor Brassington,” disse, “le siamo davvero molto grati, moltissimo, in effetti.”
+
+“Quindi dovresti esserlo,” disse improvvisamente il Professore Higginson.
+
+“Da ora in poi vi prego di considerare queste proprietà come vostre,” disse Jimmy.
+
+Con queste parole, improvvisamente afferrarono il Professor e lo posizionarono sulla sedia; Melba ne prese un lato, mentre l’altro fu tenuto da qualcun altro. Lo portarono rapidamente attraverso la porta aperta, su tre piani di scale senza tappeti, fino a quando, assicurandogli dell’onestà delle loro intenzioni, lo depositarono su un pianerottolo di fronte a una porta verde e confortevole. Poi si fermarono per riprendere fiato, continuando a tenerlo saldamente stretto da entrambi i lati, mentre Jimmy, in qualità di portavoce, gli assicurava più volte che non avevano cattive intenzioni nei suoi confronti.
+
+“È solo una precauzione necessaria, signor Brassington, glielo assicuriamo,” disse lui con tono solenne. “Vede, il assegno deve essere accreditato. Non che dubitiamo minimamente della sua onestà! Troverà tutto ciò di cui ha bisogno lì dentro. Ora che ha tagliato la corda, può liberarsi. C’è davvero tutto ciò che un uomo possa desiderare. È una questione di onore tra noi, signor Brassington: vi lasceremo uscire non appena l’assegno sarà accreditato. E c’è anche abbondante cibo e ottimo vino, davvero ottimo vino, ”
+
+“E ginger-ale, se vi piacciono le bevande zuccherate…”, aggiunse Melba; “un uomo come voi sicuramente lo apprezzerebbe.”
+
+“Ci dispiace molto,” disse Jimmy nel tentativo di attenuare l’insulto, “ma dovete capire, proprio come noi, che è necessario farlo. Non è che dubitiamo della vostra onorabilità. Nemmeno per un momento!”
+
+Con queste parole diede un qualche segnale misterioso a Melba. La porta di velluto si aprì e una grande porta di quercia all’interno fu sbloccata; la sedia e l’uomo miserabile su di essa furono rapidamente fatti passare, il chiavistello venne richiuso e Jimmy, in piedi fuori, chiese, come se fosse suo dovere.
+
+“Non sei ferito? Stai bene?”
+
+Un giuramento solenne gli assicurò che tutto fosse a posto. Scese le scale insieme al suo compagno, e il signor Higginson divenne di nuovo prigioniero, e solo.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="The Green Overcoat — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/imprisonment,motif/food_and_feasting,concept/solitude,concept/crime_and_punishment,form/novel"></span>
@@ -4139,6 +4883,52 @@ With a strength he had not believed to be in him, he wheeled the iron bed out of
 It is a pity that too profound a study of Subliminal Consciousness destroys Faith, for if the Professor had but believed in God this would have been an admirable opportunity for prayer. Twice in the long ascent he thought the bed was down on the top of him; twice he felt a trembling that shook his unhappy soul — the floor seemed so far below! At last he stood triumphant like the first men who conquered the Matterhorn; he was ready to erect upon so firm a base the last structure he had planned.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO V.
+
+Nella quale solitudine non è possibile scoprire i fascini che gli saggi hanno visto nel suo volto.
+
+Il filosofo mormorò qualcosa dolcemente, poi ascoltò.
+
+I passi dei suoi tormentatori diventavano sempre più deboli man mano che si avvicinavano alla parte inferiore della casa. Poi sentì, o pensò di sentire, il rumore distante di stivali che calpestavano i ciottoli. Dopo di ciò, calò un silenzio totale.
+
+Quel gentiluomo maltrattato si rese conto di essere libero. Strappò con forza i lacci che lo legavano: riuscì a muovere prima una gamba e poi l’altra; gradualmente liberò completamente i lacci e cercò di alzarsi in piedi.
+
+All’inizio non riusciva a farlo. Nove ore di tale confinamento lo avevano intorpidito; inoltre provava un dolore acuto, che per fortuna non durò a lungo, nel punto in cui la circolazione sanguigna era stata parzialmente bloccata alle caviglie. Dopo pochi minuti riuscì ad alzarsi e camminare. Fu allora che iniziò ad osservare il suo nuovo ambiente circostante.
+
+Si trovava in una stanza grande e molto alta, con un tetto a padiglione, maestoso e cupo, situato a circa venti piedi sopra di lui. Le pareti erano prive di ornamenti, ma rivestite comunque da carta rossa scura; su alcune parti più chiare e pulite si potevano ancora vedere i segni lasciati dalle foto che un tempo vi erano appese. In alto, verso nord, c’era una grande finestra che illuminava l’intera stanza. C’era anche un ottimo scrittoio con cassetti su entrambi i lati; sopra di esso si trovavano una piccola pentola, un fornello a spirito, una bottiglia di alcol metilico, una lattina di cioccolato al latte in polvere, tre grandi pani, un pollo, carne in scatola, una scatola di biscotti. E, cosa che non era affatto da sottovalutare, un ottimo pezzo di formaggio Old Stilton. Chi aveva pensato con cura a tutto ciò aveva persino aggiunto un saleiere pieno di sale. Sul pavimento, accanto a queste provviste, c’era anche un grande vaso di pietra; aprendolo e annusandone il contenuto, scoprì che era pieno di sherry.
+
+La stanza aveva anche un caminetto con il fuoco acceso, una scatola piena di carbone, un ottimo divano, alcuni libri su uno scaffale. E basta.
+
+Dopo aver valutato la situazione, il Professore fece quella cosa stupida che tutti noi avremmo dovuto fare in quelle circostanze: andò alla grande porta di quercia, la colpì con forza, la scosse, la calciò e la insultò. Ma la porta rimase immobile.
+
+Quello che fece dopo fu anche qualcosa che qualsiasi di noi avrebbe fatto, anche se in quel caso aveva più senso: gridò a squarciagola. Continuò a gridare in modi spesso incongruenti, utilizzando la parola “Aiuto” con una frequenza tale da risultare irritante per chiunque lo ascoltasse, se solo ci fosse stato qualcuno ad ascoltarlo. Ma in realtà non aveva alcun pubblico.
+
+Batté con furia su entrambi i muri della lunga stanza. Alla fine, esausto, scoprì una porta bassa che inizialmente non aveva notato; si trovava nell’oscurità dell’angolo più lontano. Si diresse verso quella porta. Con sua grande sorpresa, si aprì facilmente, ma al di là non c’era altro che oscurità. C’erano delle candele sul caminetto; ne accese una e guardò all’interno. Vide un piccolo letto ordinato, probabilmente non fatto da donne esperte, ma piuttosto dai suoi stessi carcerieri. Attraverso un’altra porta vide ciò che sembrava essere un bagno, abbastanza confortevolmente arredato.
+
+Ecco com'era la prigione del Professor Higginson. Avrebbe potuto essere anche peggio, e per coloro il cui cuore è puro, la prigione non rappresenta certo un ostacolo per l’anima. Ma o il cuore del Professor Higginson non era puro, oppure c’era qualcos’altro che non andava in lui: perché, dopo aver elencato tutti i suoi piccoli lussi, li maledisse con parole così violente e dettagliate da sorprendere persino lui stesso se le avesse pronunciate in tempi normali.
+
+* * * *
+
+La necessità, che è più potente degli Dei, non conosce leggi ed è anche la madre dell’invenzione. È capace di stimolare l’istinto creativo, l’anima del costruttore, del inventore nell’uomo.
+
+La necessità risvegliò quella forza primordiale nell’anima affamata di Higginson. Quando il Professore della Coscienza Subliminale aveva camminato avanti e indietro nella stanza per circa venti volte, come una bestia carnivora in gabbia alla ricerca di un modo per sfogarsi, nutrendo pensieri disordinati, all’improvviso un’idea chiara gli illuminò la mente confusa.
+
+Era di vetro ancora! La finestra sul soffitto era fatta di vetro, e il vetro è una materia fragile!
+
+Stava lì, con le mani in tasca, guardando verso quella grande finestra inclinata sul soffitto e riflettendo. Era progettata per aprirsi, ma la barra di ferro che la sollevava e la abbassava era stata staccata e portata via. Gli sembrò di riconoscere, in quei piccoli puntini lontani sopra di lui, le teste dei viti appena inserite per fissare il bordo esterno della finestra e renderla sicura. Calcolò l’altezza: il suo Professor di Coscienza Subliminale, in generale, non era certo un esperto in queste cose; ma quella “grande governante degli dei”, la Necessità – a cui aveva già rivolto otto lodi ben meritate – lo fece tornare ai fondamenti primordiali della società. Il filosofo rimase sorpreso nel scoprire di dover utilizzare i metodi più antichi per risolvere quel problema. Calcolò l’altezza basandosi sulla propria statura: era un uomo alto sei piedi. La parte più bassa della finestra si trovava a circa dodici piedi dal pavimento; la sua sommità, invece, a altri sei o otto piedi.
+
+Allora il professor Higginson, per la prima volta nella sua vita, iniziò quella antica e dolorosa ma appassionante attività di costruire ciò che seguiva.
+
+È il più nobile degli artigianati umani! Aveva sentito da qualche parte che la distanza tra le braccia di un uomo corrisponde approssimativamente alla sua stessa altezza; così, assumendo quella posizione con le braccia aperte, misurò il letto, la scrivania, le sedie e gli scaffali.
+
+Posò con cura il cibo sul pavimento, poi inclinò la scrivania lungo un lato. Lo fece con grande sforzo, e si arrabbiò quando vide l’inchiostro sgorgare improvvisamente, rischiando quasi di bagnargli la gamba dei pantaloni.
+
+Con una forza di cui non si sarebbe mai creduto capace, spinse il letto di ferro fuori dalla stanza interna e riuscì a sollevarlo gradualmente sopra la scrivania, capovolta com'era. Poi sollevò anche la poltrona, infilando la testa sotto il suo sedile; provò un po' di dolore alla nuca prima di riuscire a posizionarla accanto al letto. Infine, fece salire anche le tre sedie di legno per completare l’allestimento. Con il cuore che tremava ma la volontà ferma, iniziò quindi ad arrampicarsi.
+
+È un peccato che uno studio troppo approfondito della Coscienza Subliminale distrugga la Fede, perché se il Professore avesse creduto in Dio, questa sarebbe stata un’opportunità meravigliosa per pregare. Due volte, durante l’ascesa lunga e faticosa, pensò che il letto fosse sopra di lui; due volte sentì un tremito che scuoteva la sua anima infelice. Il pavimento sembrava così lontano! Alla fine, si trovò in cima, trionfante come i primi uomini che conquistarono il Matterhorn; era pronto a erigere, su una base così solida, l’ultima struttura che aveva pianificato.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="The Green Overcoat — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/imprisonment,motif/book_reading,concept/solitude,concept/despair,form/novel,character/milton"></span>
@@ -4178,6 +4968,42 @@ It was, as I have said, in the first grey light of the third day — the Thursda
 
 As he turned round helplessly to discover whether some object might not suggest a further plan, he was astonished to see the great oaken door standing ajar. He pulled it open to its widest extent; the green baize door beyond swung to his touch, and he was a free man.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Strani ricordi della sua infanzia tornarono a lui mentre sistemava le sedie di legno una sopra l’altra e inseriva la più bassa tra i bracci del divano imbottito che avrebbe dovuto sostenerle tutte.
+
+Se la prima parte dell’ascesa si era rivelata pericolosa, questa ultima sezione – l’attenta salita su una scala fatta di gradini e gambe di sedie posizionate in modo precario su un sedile imbottito – era altrettanto rischiosa quanto qualsiasi altro esperimento umano avesse mai tentato. La fragile struttura scricchiolava e tremava sotto di lui; con estrema cautela, provò a sollevare una gamba dopo l’altra su quel precario supporto. Un’eccessiva impazienza accelerava i battiti del suo cuore quando raggiunse l’ultimo gradino della sedia in cima. Il vetro del lucernario era quasi a portata di mano. Avrebbe potuto toccarlo con la mano tesa, mentre tentava l’ultimo passo.
+
+Ma già, in modo sinistro, quel bambino di legno frutto della sua fantasia, quell’ingranaggio che aveva costruito, cominciava a tradirlo. Sentiva un movimento instabile nella “torre” formata dalle sedie. Tentò di compensarlo con un movimento improvviso del corpo, ma poi – CRASH! – in un decimo di secondo tutto andò in rovina.
+
+Sentì la testa colpire contro una trave di legno, un cuscino, una sbarra di ferro; le mani cercavano disperatamente di afferrarsi a mobili distrutti e sparsi ovunque. Alla fine, si ritrovò seduto per terra, circondato dalle gambe delle sedie di legno; il divano imbottito era capovolto a pochi piedi dalla sua testa; il letto di ferro pendeva in modo pericoloso sopra l’estremità della scrivania; il legno di quest’ultima presentava una grande crepa. Aveva sicuramente fallito.
+
+* * * *
+
+Non esiste alcuna anima così forte da non essere temporaneamente sconfitta. Per tutte le lunghe ore rimanenti di quella giornata, anche dopo aver mangiato e bevuto vino, continuava a disperare riguardo a qualsiasi problema si presentasse.
+
+Mentre l'oscurità lo avvolgeva, utilizzò quell’energia per riportare il letto a terra. Lo sistemò nel modo migliore possibile (le lenzuola erano pulite, i cuscini comodi) e poi si addormentò.
+
+Nel mercoledì mattina si svegliò. Ma ora devo giocare un trucco sul lettore, per evitare che gli accada qualcosa di peggio. Devo chiedergli di ignorare quelle quarantotto ore e di considerare il Professor come se si fosse alzato con l’alba di giovedì. Perché lo tenessero prigioniero in quel modo, per quanto tempo intendessero farlo, se quei giovani malvagi avessero davvero intenzione di farlo morire di fame lentamente. Che fine aveva fatto quel maledetto assegno, e quindi quale sarebbe stata la sua serenità futura per tutta la vita. Dove si trovava, con quali mezzi, se mai ce ne fossero stati, avrebbe potuto tornare tra i suoi simili. Tutti questi interrogativi il Professor li ripeté centinaia di volte, ma non riuscì a giungere a nessuna conclusione. Seguire un simile racconto sarebbe noioso per il lettore; e anche se desiderasse farlo, io non mi prenderei la briga di scriverlo per intero. Quindi eccoci qui, giovedì mattina, 5 maggio: quarantotto ore dopo che quel filosofo aveva compiuto l’atto e consegnato quella triste falsificazione ai suoi rapitori.
+
+Se si deve dire la verità, il riposo e l’isolamento avevano fatto bene al professor Higginson.
+
+Innanzitutto, aveva letto attentamente tutti i pochi libri che gli erano stati messi a disposizione, e così, per la prima volta in vita sua, si era completamente familiarizzato con il poeta Milton, il Nuovo Testamento e il libro di Goschen sugli scambi esteri; questa era infatti la biblioteca che gli era stata fornita.
+
+Mentre si alzava e si stiracchiava in quella mattina deludente, trovò la forza di compiere quella sua vuota cerimonia di urlare chiedendo aiuto, ma presto gli venne meno l’entusiasmo, e cominciò a sentirsi male alla gola.
+
+Alzò di nuovo lo sguardo verso quella finestra sul soffitto che si apriva chiaramente sopra la semioscurità della stanza, e all’improvviso gli venne in mente un piano davvero geniale. Ricordò con amarezza l’infortunio doloroso del suo primo tentativo, si massaggiò una parte del corpo che gli doleva e pregò il cielo che quella nuova idea gli fosse venuta prima.
+
+Procedette immediatamente ad attuare i piani del suo nuovo piano. Prese le lenzuola del suo letto e le legò una all’altra; collegò anche le federe alla estremità di queste, e per assicurarsi che tutto fosse pronto, legò anche la coperta. Le legò tutte saldamente insieme, poiché intendeva che quella corda potesse reggere il suo intero peso. Prese uno dei sedie rotti e lo fissò solidamente all’estremità della corda; scelse con cura la posizione sotto la finestra a lucernario, fece dondolare la sedia e, al terzo movimento, la lanciò verso il vetro sopra di lui. Il suo obiettivo era rompere quel vetro: la sedia si sarebbe impigliata sul bordo del tetto esterno, e lui, nella disperazione, avrebbe cercato di arrampicarsi lungo le lenzuole legate per raggiungere il tetto attraverso il vetro rotto. La sedia era pesante, e fallì circa venti volte; in due occasioni, la sedia lo colpì violentemente alla testa mentre ricadeva, ma lui continuò a provare.
+
+La perseveranza è l’unica virtù che gli Dei premiano; alla fine il Professore vide e sentì il suo razzo attraversare completamente la finestra del tetto. Era praticamente libero, tranne per un dettaglio: — tipico dell’ambiente accademico! — aveva dimenticato di afferrare l’altra estremità della corda.
+
+Sentì la sedia scivolare rumorosamente lungo il tetto fuori dalla finestra; vide la sua lunga coda di lenzuola annodate essere rapidamente tirata su attraverso la finestra rotta. Si alzò di scatto per afferrarla, ma era troppo tardi. Con disperazione osservò gli ultimi pezzi dei suoi indumenti da letto passargli sopra la testa come un serpente bianco, per poi scomparire attraverso la finestra rotta. Due secondi dopo sentì la sedia cadere nel giardino, a circa cinquanta piedi di distanza. E con disgusto notò che una quantità di vetri rotti gli era finita addosso sul cibo.
+
+Fu, come ho detto, all’alba del terzo giorno – il giovedì – che egli aveva così inutilmente perso la sua coperta. Per alcuni momenti dopo quell’insuccesso, si sedette e disperò; inoltre, sentì dolore alla testa dove era stata colpita dalla sedia.
+
+Mentre si girava impotente per vedere se qualche oggetto potesse suggerirgli un altro piano, rimase sorpreso nel scoprire che la grande porta di quercia era semiaperta. La spalancò del tutto; la porta interna di velluto verde si aprì al suo tocco, e lui fu libero.
 
 
 
@@ -4221,6 +5047,44 @@ If the mass of our people love a guileless simplicity in their superiors, when i
 His offer of no less than a shilling for a piece of bread and a cup of coffee was gratefully accepted. The word “Sir” was used at least eighteen times in the first three minutes of conversation.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Qualcuno aveva inserito quei bulloni durante la notte, e se quel qualcuno era Jimmy, allora Jimmy aveva mantenuto la sua promessa.
+
+Il professor Higginson discese le scale con cautela e timore, senza alcuna gratitudine. Conosceva così poco gli esseri umani da temere di essere catturato di nuovo da qualche giovane scellerato che potesse aggredirlo da una porta inaspettata. Superò tre piani: tutti disabitati, privi di mobili e completamente silenziosi, fino a quando non raggiunse l’atrio.
+
+La porta d’ingresso era spalancata. L’aria fresca e deliziosa della mattina di inizio estate entrava dentro, mescolandosi con il canto degli uccelli. Ancora incerto e per metà scettico riguardo alla propria fortuna, il professor Higginson stava per uscire quando si ricordò, cosa? Il Cappotto Verde. Avrebbe dovuto affrontare di nuovo quella salita faticosa. Era la cosa più coraggiosa che avesse mai fatto in vita sua, l’unica davvero coraggiosa. Ma la paura di cose peggiori lo costrinse a farlo. Se quel Cappotto Verde fosse stato trovato e lui rintracciato, non osava nemmeno pensare alle conseguenze.
+
+Quell’esperienza recente era troppo vivida perché potesse anche solo sognare di raccontarla. Portava con sé il peso enorme di ciò che aveva vissuto; nei primi passi che fece all’aperto, verso la capanna, sotto quel cielo puro in cui il sole non era ancora sorto, la sua intenzione sincera e ferma era quella di portare tutto direttamente a Crampton Park, per scoprire “Lauderdale”, restituirlo al suo proprietario e spiegargli tutto.
+
+Il rifugio che trovò era vuoto e persino in rovina. Un cancello marcio si ergeva con una delle sbarre rotte, appeso solo su un cardine, leggermente aperto. Svenne su un solitario sentiero di campagna. E fu felice che fosse così desolato. Un anziano, con una camicia estremamente sporca, vestito con abiti da sera che sembravano essere stati coinvolti in qualcosa di molto peggiore di un incontro pugilistico. Colletto stropicciato e sporco, senza cravatta, stivali mezzo sbottonati. Sarebbe stato sciocco da parte sua desiderare la compagnia di estranei in una mattina di maggio. Spettava a lui trovare la strada per tornare al suo rifugio e procurarsi abiti decenti. Poi, sperava, entro le sei al massimo, avrebbe potuto fare ciò che il dovere gli imponeva. Si tastò le tasche e fu sollevato nel constatare che la chiave di casa e i soldi erano al sicuro. Con queste due cose, un uomo può dominare il mondo. Ma mentre continuava a cercare nelle tasche, gli mancò qualcosa di familiare. Non riusciva a ricordare esattamente cosa fosse. Sapeva solo che qualcosa che si aspettava di trovare lì non c’era. Un promemoria, forse. Decise di attribuire quel mancato oggetto alla sua nervosità e proseguì per la sua strada.
+
+Il paesaggio ondulato delle Midlands si estendeva a destra e a sinistra di lui. Il sentiero seguiva una cresta che offriva una piccola vista su entrambi i lati; conduceva verso nord, e in quell’aria limpida, per il momento priva di fumo, egli riusciva a vedere le alte ciminiere di Ormeston. Erano probabilmente a cinque miglia di distanza, e il professore si preparò ad attraversare quella distanza. Il suo cuore era colmo di emozioni contrastanti: esultanza per la libertà appena ritrovata, terrore all’idea che i suoi atti malvagi potessero averlo già preceduto. Ma era determinato a compiere il proprio dovere sotto quella fredda alba. Proseguì dunque lungo il sentiero.
+
+L’oriente indossava i suoi colori sereni e senza nuvole; al di là dei campi, molto lontano oltre i confini del mondo, Febo Apollo sorse improvvisamente, illuminando con i suoi primi raggi quell’uomo smarrito.
+
+Ora, quasi come se Apollo si fosse risvegliato, sia a causa dell’influenza di Apollo stesso che di qualche Forza Oscura, esitazione e calcoli tornarono nuovamente nel cuore del Professore Higginson.
+
+Prima di tutto, si rese conto che quel modo di procedere iniziava a stancarlo: cinque miglia erano davvero una distanza lunga. Poi ricordò la sua determinazione ad abbandonare quel cappotto. Era troppo pesante. Perché portarlo per cinque miglia solo per poi fare la figura dello sciocco alla fine?
+
+Dopo aver percorso appena un miglio, arrivò alla conclusione che fosse assurdo tentare di introdursi nella casa di un probabile mercante benestante alle ore più insolite della notte (“Lauderdale” sembrava proprio il nome di una famiglia del genere, così come Crampton Park). Quell’uomo doveva essere sicuramente molto ricco: aveva visto il suo nome sui giornali quando aveva ricevuto quella sedia qualche mese prima.
+
+Nel terzo miglio, il signor Higginson decise di non portare a termine la sua difficile missione finché non si fosse presentato in modo adeguato e non avesse potuto incontrare questo importante personaggio locale in un orario ragionevole. Ricordava che uomini del genere avevano grande influenza nelle città provinciali.
+
+A metà del quarto miglio, vide davanti a sé il primo dei lunghi pali che segnalavano la fine di un tram elettrico; in quel punto c'era una piccola capanna, molto ordinata, costruita da qualche filantropo locale. Dalla capanna si alzava un filo di fumo, un promettente indizio della presenza di caffè.
+
+Il Professore si avvicinò alla porta del rifugio, girò timidamente la maniglia e guardò all’interno.
+
+C'erano tre uomini all’interno. Due sembravano essere i custodi di notte: uno stava preparando la bevanda, l’altro tagliava grandi fette di pane e burro. Il terzo uomo – basso, con la barba corta, e dall’espressione completamente vacua e malvagia – non indossava l’uniforme. Sembrava un uomo il cui lavoro fosse molto vago, e pareva stare lì soltanto per chiedere da bere ai suoi compagni. Non aveva nulla di particolare, tranne un naso rotto.
+
+Il Professore annusò il delizioso vapore. Entrò dalla porta, e tutti e tre gli uomini alzarono lo sguardo.
+
+È una bella caratteristica del nostro carattere nazionale il fatto che i poveri siano sempre pronti ad accogliere le classi più ricche, soprattutto quando queste mostrano su di sé quella sorta di ignoranza stupida della realtà e quella fiducia infantile nei truffatori che è comune a tutte le professioni liberali, tranne quella legale; tale atteggiamento è raro tra i commercianti ed è invece universale tra i preti.
+
+Se la maggior parte delle persone ama una semplicità onesta e sincera nei propri superiori, quando questa è accompagnata da comportamenti dissoluti, allora la amano ancora di più; l’ottimo accogliimento che il Professore ricevette al suo arrivo fu dovuto soprattutto alla convinzione dei suoi tre subordinati che un anziano in abiti da sera logori e con biancheria di cattiva qualità dovesse essersi ubriacato terribilmente la notte precedente.
+
+La sua offerta di non meno di un scellino per un pezzo di pane e una tazza di caffè fu accettata con gratitudine. La parola “Signore” fu utilizzata almeno diciotto volte nei primi tre minuti della conversazione.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_04" data-title="The Green Overcoat — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/clothing,concept/deception,concept/temptation,concept/good_vs_evil,concept/self_deception,form/novel,setting/england"></span>
@@ -4248,6 +5112,30 @@ Now here, most upright of readers, you will say that the Philosopher has fallen 
 
 You are in error. The depths of evil are infinite, and the Professor, as he walked down the long road which brought him to Ormeston, was but entering that long road of the spirit which leads to full damnation.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Professore si sentiva come se fosse tra amici, e la sua autodisciplina diminuiva sempre di più, gradatamente. Scomparve insieme al caffè e al pane; scomparve ancora di più con i toni rispettosi con cui veniva trattato. Poi, senza preavviso, svanì del tutto. Quell’anima, che già indulgeva nella falsità e nel linguaggio inappropriato, scese ancora più in basso, verso l’Inferno.
+
+Il Diavolo, che era stato assente negli ultimi due giorni impegnato in altre faccende, deve aver afferrato il Professor non appena questi passò davanti a quella porta della locanda e si è affrettato ad accostarglisi. Comunque sia, il signor Higginson osservò attentamente i tre uomini davanti a sé, giungendo alla conclusione che quello che se ne stava sdraiato, l’uomo con il naso rotto, fosse la persona più corruttibile e, allo stesso tempo, la meno pericolosa nel caso in cui qualcosa dovesse arrivare alle orecchie della polizia, (una parola terribile!).
+
+Avvicinò l’argomento con cautela. Disse che Crampton Park si trovava nelle vicinanze, vero? Aveva sentito dire che fosse da qualche parte a sinistra, in un sobborgo occidentale della città. Affermò di aver trovato il “Cappotto Verde” nell’atrio della casa dove, dove aveva trascorso la notte; mentre pronunciava queste parole, i tre lavoratori presenti sorrisero discretamente. Disse anche di aver promesso di restituirlo e di ricordare – con gratitudine e inaspettatamente – il nome della casa a cui aveva promesso di inviarlo: si chiamava “Lauderdale”. Affermò inoltre di non conoscere il nome del suo proprietario. Quella mattina, il Professore dichiarò molto di più di quanto il suo ruolo accademico gli permettesse di dire.
+
+Scoprì che il tipo seduto sulla poltrona (con il naso rotto) era piuttosto indifferente ai suoi motivi, ma molto attento alle implicazioni economiche della situazione; e quando venne raggiunto l’accordo, fu per mezza corona che quel povero proletario (con il naso rotto) accettò di prendere il cappotto verde, promettendo di consegnarlo a “Lauderdale” durante la mattinata.
+
+Un immenso peso fu sollevato dalla mente indegna del Professore Higginson. Devo raccontare tutta questa storia vergognosa?
+
+Professore, mentre si alzava per lasciare il Rifugio, aggiunse decisamente alle parole del suo concittadino di Broken Nose.
+
+“Oh! A proposito. Certo che chiederà da chi proviene quel cappotto. Dì che è di Mr. Hitchenbrook.” Fingeva di cercare nella tasca. “No, non ho la carta. Comunque, digli che è di Mr. Hitchenbrook. Mr. Hitchenbrook di Cashington,” aggiunse gentilmente, per rendere ancora più credibile quella bugia maliziosa.
+
+Così liberato dai suoi doveri e, di conseguenza, separato dal Cielo, il Professor Higginson annuì con autorità verso l’Uomo dal Naso Rotto, e con un sorriso verso gli altri due uomini (che in risposta si toccarono i capelli con le dita), per poi uscire di nuovo e seguire le linee del tram verso la città.
+
+* * * *
+
+Ora, voi lettori più onesti, direte sicuramente che il Filosofo è caduto nel punto più basso, e che nessun altro crimine che possa commettere potrebbe più interessarvi.
+
+Ti sbagli. Le profondità del male sono infinite, e il Professore, mentre percorreva quella lunga strada che lo portava a Ormeston, in realtà stava entrando su quel lungo cammino dello spirito che conduce alla completa dannazione.
 
 
 
@@ -4288,6 +5176,42 @@ The Professor was very glad to answer any questions that might be put to him, an
 
 Mr. Higginson looked blankly at these men, then his eyes lit with anger. He was upon the very point of pouring out the whole story of his woes, when with that cold wind upon the heart which the condemned feel when they awake to reality upon the morning of execution, he remembered the cheque and was suddenly silent.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI.
+
+In cui il professor Higginson inizia a farti assaporare i piaceri della fama.
+
+Quando il professor Higginson raggiunse la porta della sua stanza d’affitto, era già iniziato il giorno di Ormeston.
+
+Quella casa faceva parte di una serie di edifici del XVIII secolo: dignitosi, ma leggermente in rovina, rappresentavano nella struttura sociale della città gli strati delle prime fortune commerciali della zona. Fu qui che, quattro generazioni fa, iniziò a manifestarsi la prima divisione tra ricchi e poveri nell’ormeston industriale; quelle stanze spaziose e semi-deserte furono i primi frutti di quel cambiamento economico.
+
+Ma il professor Higginson non pensava a tutto questo mentre si avvicinava a quella porta così ben ricordata (di cui, nelle notti di disperazione, aveva a volte pensato che non l’avrebbe mai più rivista). Pensava invece a come apparisse con la sua camicia davanti orribilmente strappata e sporca, il colletto distrutto e i vestiti da sera in disordine, in quella luminosa mattina. In questa riflessione, veniva aiutato dagli sguardi fissi delle giovani cameriere che pulivano i gradini d’ingresso, nonché dai commenti spregiativi dei ragazzi che lo incrociavano mentre portavano il latte. Questi ultimi, con gli occhi o più apertamente con le parole, esprimevano l’opinione che ormai non fosse più nell’età adatta a godersi piaceri frivoli; lui si sentiva infastidito e imbarazzato nel sentirsi paragonato a animali di natura lussuriosa, in particolare alle capre.
+
+Non c'è da meravigliarsi: essendo ciò che era – un uomo che nella sua vita non aveva mai dovuto pensare o agire – l’unico desiderio del Professor Higginson era quello di mettere la porta della sua casa tra sé e simili tormentatori.
+
+Suonò il campanello con furia e bussò ancora più energicamente. Un ragazzo incaricato di commissioni, un apprendista idraulico diretto al lavoro, e un raccoglitore di rifiuti si unirono al lattivendolo e lo osservarono mentre compiva queste azioni, formando un piccolo gruppo.
+
+Era un gruppo che minacciava di diventare sempre più numeroso, poiché Ormeston è una città antica. Il professor Higginson, dimenticando che la signora Randle, la sua padrona di casa, potesse non essere ancora sveglia a quell’ora, colpì nuovamente con furia il battente della porta; poi si ricordò improvvisamente della sua chiave, la tirò fuori e iniziò ad armeggiare nervosamente nella serratura, mentre intorno a lui risuonavano commenti sarcastici sulla sua mira. In quel momento la porta si aprì all’improvviso e la robusta figura della signora Randle apparve nel corridoio.
+
+Per un momento sembrò proprio come si dice che appaiono le persone quando i fantasmi tornano dall’Inferno; poi, con un urlo che fece tremare gli echi di tutta la strada, cadde pesantemente addosso al Professor, rischiando di farlo cadere giù per le scale.
+
+Il signor Higginson ebbe un gesto nervoso di repulsione. Se solo avesse potuto, sarebbe riuscito a liberarsi di quella donna eccellente ma molto invadente che aveva così accolto il suo ritorno. Ma proprio in quel momento sentì gli odiosi commenti della “cavalleria” di Ormeston, soprattutto quelli del lattaio, che gli disse di non trattare sua moglie come una selvaggia. Anche il idraulico definì la sua azione crudele. Pertanto, il grande psicologo ebbe tutte le ragioni per spingere quella signora dentro casa e chiudere la porta con il tacco del piede.
+
+La signora Randle si era in parte ripresa, ma era ancora profondamente scossa. Lui la superò con violenza, entrò nella stanza al piano terra situata davanti alla casa e si sedette. Sentiva l’estrema stanchezza derivante da quella camminata e l’irritazione causata dalla scena appena vissuta; tutto questo era troppo per lui. La signora Randle, con grande affetto, si avvicinò al tavolo davanti a lui, appoggiandosi pesantemente ad esso con i pugni, e disse più volte “Oh, signore!”, fino a quando le sue emozioni non si calmarono abbastanza da permetterle di parlare in modo razionale. Poi gli chiese dove fosse stato.
+
+“È l’argomento di conversazione di tutta la città, signore! Oh, e anch’io! Non avrei mai pensato di rivedervi!” A quel punto, durante il suo interrogatorio, la signora Randle scoppiò improvvisamente in lacrime, interrotte da singhiozzi intensi e sinceri.
+
+Si sedette per godersi appieno quel momento di sollievo; anche quando l’emozione raggiunse il suo apice e il Professor iniziò a pronunciare esclamazioni sempre più violente, la campanella suonò e il martello batté in modo inequivocabile. L’uomo sfortunato riuscì a gettare uno sguardo dalla finestra e rimase inorridito nel vedere due agenti di polizia affiancati da una folla piuttosto numerosa; i membri più influenti di quella folla stavano fornendo informazioni precise su tutto ciò che era accaduto.
+
+Il Filosofo esortò l’uomo a aprire la porta e ad affrontare i suoi accusatori. Non erano così sbalorditi come la signora Randle, che ora arrivò con il viso rosso e rigato di lacrime, un po’ senza fiato (ma il suo pianto era in gran parte sovrastato dall’indignazione), per protestare contro la violazione della sua casa.
+
+Il primo dei poliziotti aveva appena iniziato il suo interrogatorio formale del Professor Higginson, quando il secondo, osservandolo più da vicino, riconobbe la sua preda. Quell’aria sottile che nessun civile può sperare di possedere, e con cui, come i selvaggi dell’Africa Centrale, la polizia britannica esprime i propri pensieri senza parole o messaggi, ebbe immediatamente effetto sul secondo uomo, il quale assunse un atteggiamento di estrema rispetto. Per dimostrare il proprio zelo, allontanò la folla dei curiosi, salutò il Professor Higginson e gli comunicò che era suo dovere porre alcune domande formali. Il suo collega – quello che aveva riconosciuto per primo quell’uomo importante – aggiunse con altrettanta umiltà che, poiché il Professor Higginson si era perso e l’università aveva chiesto l’intervento della polizia, il loro compito consisteva semplicemente nel chiedere cosa dovessero fare e quale aiuto il Professor Higginson potesse fornire in quella situazione. Si diffuse la notizia di una rissa. A questo, la signora Randle intervenne, senza alcun senso logico: “Una rissa? Ma che assurdità!”
+
+Il Professore era molto felice di rispondere a qualsiasi domanda gli venisse posta, e si rasserenò molto quando capì che queste domande non erano altro che quelle necessarie alla polizia per indagare sull’incidente accaduto a un cittadino così importante: chi ne era responsabile, o quale pericolo aveva corso; si trattava di omicidio? Ma sembrava di no. Inoltre, il Professore doveva decidere se ritirare la ricompensa offerta e quali informazioni potesse fornire.
+
+Il signor Higginson guardò questi uomini con espressione vuota, poi i suoi occhi si illuminarono di rabbia. Stava per raccontare tutta la storia delle sue sfortune quando, come colto da quel freddo vento nel cuore che i condannati provano al risveglio nella mattina dell’esecuzione, ricordò il assegno e improvvisamente tacque.
 
 
 
@@ -4362,6 +5286,76 @@ And having put the matter plainly and simply in such a fashion, Professor Higgin
 
 “We quite understand, sir,” said the senior of the two policemen gravely, sympathetically and respectfully. “There shan’t be a word from us, sir, except of course—”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“È meglio che tu mi lasci in pace!”, mormorò. “È davvero meglio che tu te ne vada, agente…”
+
+“Ci sono stati dati degli ordini, signore,” iniziò l’uomo più anziano con maggiore rispetto che mai, poi il professor Higginson corse a cercare rifugio.
+
+“Beh, ci vediamo tra un minuto; devo sistemarmi un po’. Sono tutto…”
+
+“Capiamo perfettamente, signore,” dissero i poliziotti, sistemandosi nella stanza al piano terra e tirando fuori delle sedie, con l’intenzione di sedersi e attendere le sue istruzioni.
+
+“Ci vedremo quando potrò. Signora Randle, per favore portatemi un po’ d’acqua calda.” E con queste parole, il poveruomo corse su per le scale verso la sua camera al primo piano.
+
+Esistono modi per spezzare la volontà di una donna quando ha superato i quarant’anni, e questi vengono descritti in libri che trattano di mondi immaginari della fantasia o di un passato remoto e irraggiungibile. Nessun uomo vivente ha mai praticato quest’arte, né gli stessi maghi possono mostrarne un esempio concreto.
+
+Pertanto, quando la signora Randle tornò con l’acqua calda, fu proprio lei a vincere.
+
+Il Professore mise la testa fuori dalla porta e allungò la mano per prendere la lattina. La signora Randle gli interruppe il discorso, si diresse verso il lavandino, versò il liquido contenuto nella lattina, lo raffreddò con dell’acqua fredda, verificò la temperatura con la sua grande mano rossa, e nel frattempo iniziò a bombardarlo di domande, pregandolo soprattutto di non dirle nulla finché non si fosse completamente riposato. Certo, c’era anche la polizia (disse lei); avrebbe dovuto raccontare anche la sua versione dei fatti. E oh, mio Dio, se solo lui sapesse cosa era successo in quei giorni! Con il sindaco stesso, e chissà cos’altro ancora. A ogni fase del suo “intervento”, faceva sempre in modo di minacciare di scoppiare in lacrime.
+
+Le tattiche del professor Higginson erano infantili.
+
+Erano persone del suo stesso sesso. Si tolse il cappotto da sera e la giacca per prepararsi a lavarsi. In passato, in occasioni minori, semplici questioni legate alle postazioni esterne, la signora Randle si ritirava sempre prima che lui compisse questo gesto; oggi, invece, l’occasione era decisiva e lei rimase ferma sulla sua posizione.
+
+“—E anche il rettore dell’università, signore! E la sua cara giovane signora! Oh, quando hanno pubblicato quella notizia sui giornali, che, per fortuna, non era vera, ”
+
+Ecco, mentre la signora Randle era di nuovo sull’orlo delle lacrime, il filosofo disperato si tolse le staffe dai denti, immerse il viso e le mani nell’acqua, sperando con tutto il cuore che, quando avesse rialzato la testa, l’avversario fosse già fuggito. Ma la signora Randle era una vedova. E il primo suono che sentì, non appena l’acqua gli uscì dalle orecchie, fu ancora quel continuo flusso di lamenti e domande.
+
+“Dove è la salvietta?” chiese bruscamente. “Da quando è scomparsa l’ultima lunedì, signore,” rispose la signora Randle. “Da quella maledetta lunedì in cui pensavamo di avervi perso per sempre! Non mi è mai venuto in mente di cambiarla. E non avrei mai immaginato di rivedervi tornare così, tutto intero!”
+
+“Lunedì scorso?” esitò sinceramente il signor Higginson. Il suo calendario era un po’ in disordine, “Che giorno è oggi?” chiese lui, con noncuranza. Poi notò l’espressione sul suo viso.
+
+Esiste una certa posizione sociale in cui dimenticare quale giorno della settimana sia ha un significato molto preciso: significa, significa che c’è qualcosa che non va nel cervello. Come un lampo, lo sguardo di Mrs. Randle suggerì all’uomo perseguitato una via di salvezza. Avrebbe potuto dimenticare quei pochi giorni. Scomparirebbero completamente dalla sua vita, insieme a quella maledetta faccenda del cappotto verde e del libretto degli assegni che nascondeva in sé i segni della sua rovina!
+
+Nei pochissimi secondi che il lavoro creativo richiedeva, sotto l’influenza della speranza e del terrore, quel piano iniziò a prendere forma nella mente ristretta di quel povero e perseguitato don. Si lasciò cadere su una sedia, smise improvvisamente di strofinarsi vigorosamente il viso con l’asciugamano, passò la mano sulla propria calvizie e mormorò qualcosa in modo vago.
+
+"#Dove mi trovo?"
+
+“Siete qui, signore! Oh, siete qui!” disse la gentile e buona signora Randle con un tono angosciato; si inginocchiò davvero (non è affatto facile quando la religione ha abbandonato la giovinezza) e posò una mano sul suo ginocchio.
+
+Il Professore posò la sua mano sinistra sulla sua, passò di nuovo la mano destra sul proprio viso e disse, con voce affannosa:
+
+“Dove si trova qui?”
+
+“In Quebec Street, nella tua stessa stanza, signore… Oh, signore, non mi riconosci? Sono Martha Randle!”
+
+Il Professore la guardò con occhi stanchi, ma indulgenti.
+
+“Ora lo so”, disse; “me ne sono ricordato proprio ora”.
+
+“Oh, Signore!” disse Martha Randle, “Manderò la ragazza dal farmacista!” e se ne andò.
+
+Le donne possono essere più forti di noi uomini, fratelli miei, ma noi siamo più astuti; e non appena lei se ne fu andata, il Professori, gettando via la maschera e vestendosi con estrema rapidità, si presentò in abiti da mattina. Il suo piano si era ulteriormente sviluppato nei pochi minuti che gli erano serviti per scendere le scale; quando entrò nella stanza dove i poliziotti lo aspettavano, era lui il padrone di sé stesso, e anche di loro.
+
+Si alzarono al suo ingresso. Lui li invitò cortesemente a sedersi di nuovo e, senza lasciare loro il tempo di trarre alcun vantaggio dalle prime parole che avevano detto, raccontò loro la verità in poche frasi semplici e chiare, capaci certamente di convincere qualsiasi funzionario mal pagato.
+
+“Penso sia opportuno, agente,” disse, rivolgendosi al più anziano dei due uomini, “parlarvi sinceramente in privato. Naturalmente, in seguito presenterò l’intera questione alle autorità competenti.”
+
+Gli agenti di polizia avevano un’espressione seria e comprensiva.
+
+“La verità è,” rispose rapidamente il Professore Higginson, “che avevo lavorato molto duramente alla mia conferenza, di cui forse avrete già sentito parlare.”
+
+I due uomini si guardarono contemporaneamente, come se avessero capito qualcosa insieme.
+
+“Era per la Società Bergson,” spiegò cortesemente, e l’agente più anziano annuì come se ne fosse anche lui membro.
+
+“Beh,” continuò il Professor Higginson con tono di chi finalmente deve confessare qualcosa, “il fatto è che, beh, purtroppo, sono successi alcuni episodi simili a un ictus, insomma, gravi problemi nervosi. Da diversi giorni soffro di una completa perdita di memoria.”
+
+E dopo aver esposto la questione in modo chiaro e semplice, il professor Higginson rimase in silenzio.
+
+“Capiamo perfettamente, signore,” disse seriamente, con simpatia e rispetto il più anziano dei due poliziotti. “Non diremo una parola, signore, tranne, naturalmente, ”
 
 
 
@@ -4441,6 +5435,80 @@ During the remainder of that day — the Thursday — Professor Higginson was pr
 One cross-questioned a little too closely about the sense of Time. Had he an idea of its flight during that singular vision? Yes. Yes... In a way. He remembered a conversation — a long one — and a flight: — a flight through space.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“No,” disse con fermezza il Professore Higginson, “sono deciso a adempiere al mio dovere in questa questione; coloro a cui è opportuno dirlo, ”
+
+In quel momento, la signora Randle, accompagnata da una domestica semivestita, con un cappello slegato e un po' senza fiato, si sentì parlare alla porta aperta con il riluttante e assonnato farmacista, che era anche il suo consulente medico.
+
+“E era così cattivo che pensava fossi sua povera vecchia madre, morta da vent’anni!” disse la voce di Mrs. Randle fuori dalla porta.
+
+Ma un attimo dopo, entrando nella stanza interna, vide il Professore seduto, vestito e completamente lucido di mente. Rifiutò la sua esuberanza.
+
+“Ora, signora Randle,” disse in tono piuttosto brusco, dimenticando per un momento la naturale debolezza nervosa che ci si potrebbe aspettare da una persona che aveva subito cose del genere, “ho già informato gli ufficiali qui presenti e desidero che anche lei ne sia a conoscenza.”
+
+Gettò un’occhiata al chimico, decise rapidamente che più persone conoscevano la sua storia, meglio sarebbe stato, e disse, usando un complimento deliberato.
+
+“Grazie mille per essere venuto, signore… Lei è un medico.”
+
+“Poi continuò, rivolgendosi di nuovo ai poliziotti…”
+
+“Capisci? Purtroppo non c’è molto da dire. L’ultima cosa che ricordo è di aver lasciato la casa di Sir John Perkin: stava dando una festa, aspetta un attimo, era lunedì. Ricordo di essere rimasto scioccato appena uscito dal suo cancello, e poi non ricordo più nulla fino a quando non sono arrivato vicino a questa casa. Oggi sarà martedì, giusto?”
+
+“No, signore,” disse il poliziotto, con profonda reverenza per una persona così erudita, così distinta e al contempo così sfortunata. Gli ricordava le storie meravigliose che leggeva nei giornali domenicali, e ci credeva davvero. “No, signore; oggi è giovedì.”
+
+“Giovedì?” disse il Professore, fingendo di essere perplesso con notevole abilità. “Giovedì?” ripeté, rivolgendosi al chimico, che rispose seriamente.
+
+“Giovedì, signore!”
+
+“Oh, povero caro!” esclamò immediatamente la signora Randle.
+
+“State zitti,” gridò il Professor Higginson in modo molto scortese. “Se è giovedì,” continuò rivolto agli altri, abbassando di nuovo la voce, “questo è qualcosa di più grave di quanto avessi immaginato. Tre intere giorni. Eppure, aspettate, ” (e qui allungò una mano e si coprì gli occhi con l’altra) “Sembra che abbia un ricordo, carne fredda, una stanza, voci. No, è svanito.”
+
+Il poliziotto più giovane tirò fuori un taccuino e una matita estremamente inadeguata: era corta, spessa e, “calva”.
+
+“Ha perso qualche oggetto di valore, signore?”, cominciò a chiedere.
+
+Il Professore si tastò le tasche, poi si ricordò all'improvviso di aver cambiato i vestiti.
+
+“No,” rifletté. “No, per quanto ne so. Avevo il mio orologio” (incominciò a contare sulle dita) “e qualche scellino. Ma non riuscivo proprio a decidere se dovesse perdere quegli oggetti di valore o meno. Alla fine, ho deciso di no.”
+
+“No,” (dopo averci pensato attentamente), “no, non ho perso nulla. Le mie scarpe erano molto bagnate quando le ho tolte. Forse questo può essere un indizio.”
+
+Il poliziotto più giovane stava rapidamente trascrivendo tutto usando la stenografia ufficiale. L’abitudine lo spingeva a delineare i punti principali: “Il prigioniero ha continuato a negare, ” Poi cancellò quelle parole e scrisse: “Il professore ci ha detto che non l’aveva fatto, ” E poi arrivò la seconda domanda.
+
+“In quale parte della città, signore, potrebbe essere che si sia riconosciuti di nuovo, per così dire?”
+
+“Ve l’ho detto, è proprio qui vicino,” disse il Professore Higginson.
+
+“Sì, ma da quale direzione arriverà?”
+
+Ecco un’inizio davvero magnifico! Non ci aveva mai pensato prima. Si chiese quale fosse il quartiere più centrale della città, quello che meno sembrasse un sobborgo. Ricordò una vecchia chiesa vittoriana, ormai trasformata in cattedrale, situata nel cuore della città, e disse:
+
+“St. Anne’s… era vicino a St. Anne’s.”
+
+Poi si ricordò, per sua grande fortuna, che c'erano testimoni del fatto che fosse arrivato in quella strada provenendo esattamente dal quartiere opposto, e aggiunse:
+
+“Almeno è lì che ho iniziato a ricordare qualcosa; ma ho girovagato senza saperlo, non riuscivo a ricordare il nome della strada per un’ora intera, e anche quando sono arrivato qui ero ancora confuso. La signora Randle vi spiegherà, ”
+
+“Ah,” iniziò la signora Randle, “Dio solo sa, ha gridato così forte quando mi ha visto, ” ma il poliziotto non voleva sentire nulla di tutto ciò.
+
+# Pose questa terza domanda
+
+“Che ora potrebbe essere?”
+
+“Circa,” disse il Professore, parlando lentamente ma pensando alla massima velocità possibile, “circa, circa tre ore fa. Era ancora buio; stava iniziando ad albeggiare. Ricordo di aver percorso le strade, e di capire gradualmente meglio cosa stavo facendo e dove mi trovavo.”
+
+Quella mossa non era priva di saggezza. Se avesse ridotto i tempi, sarebbero sorti degli interrogatori, e questi avrebbero potuto scoprire i tre uomini nello rifugio; in quel caso, quel detestabile individuo con il cappotto verde avrebbe potuto rovinargli di nuovo la vita. Comunque fosse, chiunque fosse quella persona di mezza età vestita con abiti vecchi e logori che era entrata nello rifugio quella mattina, non poteva essere lui. Il poliziotto riagganciò l’elastico al suo taccuino.
+
+“Va bene così, signore,” disse gentilmente.
+
+La signora Randle si affrettò a trovare un paio di bicchieri di birra; quella bevanda, infatti, nelle incerte ore del loro lavoro permette alla polizia di consumarla in qualsiasi momento della giornata o della notte. E così, ciò che potrei definire “Il grande caso della memoria perduta di Higginson” iniziò il suo viaggio intorno al mondo.
+
+Nel resto di quella giornata – il giovedì – il Professor Higginson condivise generosamente la propria esperienza. Per un professore di Psicologia Subliminale, era davvero un’opportunità straordinaria poter entrare in contatto diretto con uno dei fenomeni psichici più interessanti. Ogni persona che incontrò nelle ore successive aveva una domanda da porre, e il Professor Higginson rispondeva a ciascuna di esse con grande facilità, ma, ahimè, sempre con nuove e più complesse menzogne. Aveva qualche ricordo? Sì. C’erano dei volti. Volti disegnati. Avrebbe potuto dire di più (lo lasciò intendere), perché quell’esperienza rimaneva ancora sacra per lui.
+
+Qualcuno pose una domanda un po’ troppo approfondita riguardo al concetto di Tempo. Aveva qualche idea del suo “volo” durante quella singolare visione? Sì. In un certo senso. Ricordava una conversazione – lunga – e un viaggio: un viaggio nello spazio.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_04" data-title="The Green Overcoat — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/ghosts,motif/death,concept/deception,concept/spiritualism,concept/fame_and_publicity,form/novel"></span>
@@ -4509,6 +5577,70 @@ He had now for five years been conducting his classes at the absurdly low salary
 George Babcock remained after all his escapades and alarms — such as they may have been — a man of energy and of singular organising power, an Atheist of course, and one possessed both of clear mental vision and a sort of bodily determination that would not fail him until his body failed. His face and his shoulders were square, his jaw too was strong, the looseness of his thick mouth was what one would expect from what was known about him by those who knew. His eyes were fairly steady, occasionally sly; his brows and forehead handsomely clean; his hair thick and strongly grey.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Che cosa! Un viaggio nello spazio?
+
+Raccontò la storia con molti più dettagli, quella stessa mattina, verso mezzogiorno, al suo amico più intimo, l’editore del secondo giornale di Ormeston.
+
+Lo raccontò di nuovo al club, a pranzo, davanti a un piccolo pubblico, con l’entusiasmo di un uomo che descrive un duello che ha vissuto personalmente. Lo raccontò anche a un pubblico più numeroso, dopo pranzo, mentre bevevano il caffè. Poi tornò all’università per sistemare alcune questioni e comunicò che avrebbe potuto riprendere il suo lavoro il giorno seguente.
+
+Fu proprio al Decano (che era anche Professore di Chimica), al Vicedirettore e al Cappellano che dovette confidarsi in questa occasione ufficiale. Tutti erano curiosi, e quando finalmente lo applaudirono, la storia di quell’uomo disperato divenne uno dei racconti più straordinari e significativi tra le esperienze psichiche moderne che si possano immaginare. Tutte le funzioni del subconscio, in assenza di una coscienza coordinatrice, stavano prendendo il loro posto, e quel “Mondo al di là di questo Mondo” era stato visitato da uno degli uomini meno presunti.
+
+Man mano che un dettaglio ne suggeriva un altro, la necessità di una spiegazione coerente generò qualcosa che semplicemente l’esperienza diretta non avrebbe mai potuto produrre.
+
+Di tanto in tanto, durante queste conversazioni, il professor Higginson pensava di percepire una nota di dubbio nella voce di alcuni interlocutori. Questo lo spingeva a cercare nuove conferme, e nuove menzogne.
+
+Per il suo collega matematico giurò sull’esistenza della quarta dimensione; per quello storico, su un concetto complessivo del tempo. “Piccole finestre sul passato”, le chiamava, quel terribile uomo!
+
+Poi, poi, in un attimo di follia, fece quella cosa fatale. Fu un ricercatore di nome Garden ad incoraggiarlo a farlo.
+
+“Garden aveva detto…”
+
+# Quali erano quei volti? Quali erano quelle voci? In che modo si differenziavano dai sogni?
+
+Il professor Higginson sentì il punto critico.
+
+“Giardino,” disse, fissando quel materialista con uno sguardo straordinariamente solenne, “Giardino. Come fai a conoscere la realtà? Ho visto. Ho sentito.” Rabbrividì. “Giardino,” proseguì all'improvviso, “hai mai amato qualcuno che è morto?”
+
+“Che tu sia benedetto, sì!” rispose Garden felice.
+
+“Giardino, ”, continuò il Filosofo con voce profonda ma tremante, “anch'io ho perso ciò che amavo, e, ” (quasi sussurrò il resto) “, in quel breve periodo abbiamo condiviso qualcosa di importante.”
+
+“Cosa!” esclamò Garden. Guardava fissamente quel professore di psicologia alto e magro; non ci credeva, nemmeno una parola. Ma era la prima volta che si imbatteva in un simile comportamento folle, e questo lo scioccò profondamente. “Cosa! I morti?”
+
+Il signor Higginson annuì due volte, con le labbra serrate e lo sguardo distante.
+
+“Ci sono prove,” disse, e se ne andò.
+
+* * * *
+
+Garden lo guardò allontanarsi, poi alzò le spalle e mormorò: “Pazzo da legare!”, e se ne andò per la sua strada. Erano circa le cinque di sera.
+
+* * * *
+
+Tra le altre cose che il Diavolo fece in quel periodo di cui parla questa storia, vi fu l’insediamento a Ormeston di un suo servitore di nome George Babcock.
+
+George Babcock era arrivato a Ormeston dopo un episodio curioso e poco spiegabile, breve ma decisivo nella sua vita. Aveva iniziato come giovane teorico: una tesi che aveva scritto all’università straniera dove studiava aveva suscitato grande interesse in Europa, anche se oggi è stata dimenticata altrove; in Inghilterra, invece, la memoria di quella tesi sopravvive ancora.
+
+Era stata una confutazione sprezzante e trionfale dei “Ipnotisti di Nancy”.
+
+George Babcock aveva completamente sconfitto la scuola di Nancy; per ben cinque anni, quel giovane scrittore inglese, con la sua perfetta padronanza del tedesco, era stato il portavoce del buon senso. L’“ipnotismo”, come quella scuola chiamava le loro farsesche pratiche, era ormai finito: si trattava soltanto di una serie di truffe goffe, di illusioni, di apparecchiature speciali e di menzogne.
+
+Sfortunatamente per la civiltà, le superstizioni degli ipnotisti, come sappiamo, prevalsero, e la scienza europea da quel giorno si è vergognata della sua posizione precedente, più nobile e coraggiosa. Ha imparato a parlare di autosuggestione. È persino arrivata al punto di interessarsi a Lourdes.
+
+Molto prima del 1890, il libro di George Babcock era già stato rovinato all’estero. Ma George Babcock era un uomo che conosceva bene il mondo delle strade; sebbene la sua reputazione fosse ormai caduta in declino sul Continente, in Inghilterra raggiunse l’apice. All’improvviso ricomparve, non più come teorico, ma come medico praticante a Londra. Aveva ottenuto i fondi necessari grazie alla sua reputazione inglese, che gli permise di avere grande successo per dieci anni. Si diceva che avesse guadagnato una fortuna. Di certo ci riuscì. Poi, qualcosa accadde. Nessuno sa esattamente cosa. I professionisti meglio informati fecero insinuazioni su un conflitto con alcune nobildonne riguardo ai segreti del suo mestiere, e anche dei loro.
+
+Comunque, per altri tre anni dopo quell’episodio, il nome di George Babcock assunse una posizione nuova e inferiore nel “Daily Press”. Appariva nelle liste dei banchetti cittadini, nelle notizie sui meeting, in cima alle liste delle “leghe” e dei “movimenti” della classe media che fallivano. Quando veniva incluso nell’elenco di una festa in campagna, quella festa non era certo di prim'ordine. E, cosa terribilmente significativa per quei pochi che sanno guardare al mondo moderno con giudizio e compassione, iniziarono ad apparire un numero eccessivo di articoli firmati da quel poveretto nelle riviste. Pubblicò persino tre libri. Fu molto triste.
+
+Poi seguì l’integrazione dell’Università di Ormeston; o, come la gente preferiva chiamarla in quei primi tempi, l’Università Guelph, così chiamata in onore di un mecenate. Il segretario personale del Primo Ministro fu incaricato di proporre, nel ruolo di preside della Facoltà di Medicina, il nome di George Babcock.
+
+Né un cavaliere né un barone, ma Ormeston non se ne accorse. L’antico fascino del suo nome persisteva ancora in quella prospera città. Un cugino sposato con il sindaco di quell’anno, la cui moglie pranzava spesso a Londra, descriveva il suo potere politico. Mercanti e altri membri del neonato Senato dell’università si avvicinavano timidamente a quest’uomo importante, e lui ne approfittò immediatamente.
+
+Da cinque anni ormai teneva le sue lezioni con uno stipendio assurdamente basso, soltanto £goo all’anno.
+
+Nonostante tutte le sue avventure e i pericoli che aveva affrontato, George Babcock rimase comunque un uomo pieno di energia e dotato di una straordinaria capacità organizzativa. Era ovviamente ateo, ma possedeva sia una chiara visione mentale sia una determinazione fisica che non lo avrebbe mai abbandonato, fino a quando il suo corpo stesso non avesse ceduto. Il suo viso e le sue spalle erano quadrati; la mascella era robusta; l’apertura delle sue labbra carnose era proprio quella che ci si sarebbe aspettati, considerando ciò che sapevano di lui coloro che lo conoscevano bene. I suoi occhi erano piuttosto fermi, talvolta un po’ astuti; le sopracciglia e la fronte erano pulite e attraenti; i capelli erano folti e di un grigio intenso.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_05" data-title="The Green Overcoat — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/fame_and_publicity,concept/power_and_corruption,concept/vulgarity,concept/journalism,form/novel,form/satire,histref/alfred_harmsworth_lord_northcliffe,setting/england"></span>
@@ -4574,6 +5706,68 @@ Even the Socialist weekly paper which went to press on Friday was compelled to h
 
 And so, having dined well with his Vice Principal and had his fill, Professor Higginson set out by night to seek his lodgings.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questa era la figura che Garden vide avvicinarsi lungo la strada verso di lui, mentre il Professor Higginson si allontanava barcollando, ormai diventato una figura lontana, in prossimità dei cancelli del College (infatti era proprio in quella strada che il Filosofo aveva incontrato lo Scienziato e compiuto quel passo fatale).
+
+Dire che Garden fosse felice di incontrare Babcock sarebbe un'esagerazione; nessuno è mai stato felice di incontrare Babcock. Ma dire che fosse indifferente alla possibilità di rivelare qualcosa non sarebbe vero; nessuno è indifferente alla possibilità di rivelare qualcosa.
+
+“Dico, Babcock,” disse, osservando la figura che si avvicinava con la mano alzata, “il vecchio Higginson è impazzito.”
+
+Babcock sorrise in modo orribile.
+
+“Sì, l’ha fatto,” disse Garden, “e racconta ogni sorta di cose su quel piccolo problema che ha avuto. Ha visto fantasmi!”
+
+“Tutti lo fanno,” disse Babcock con espressione cupa.
+
+“Oh, sì, lo so,” rispose Garden, ansioso di far capire l’importanza della sua storia, “ma lui ha tutte le prove! Dice di poterla dimostrare!”
+
+Garden annuì in modo misterioso.
+
+“Mi ha fornito alcuni dettagli, sai, ”, continuò Garden in modo piuttosto irresponsabile; poi si alzò in piedi. Voleva dire qualcosa di importante, ma era un uomo nervoso quando si trattava di affrontare quei discorsi complicati che costituiscono la maggior parte delle conversazioni interessanti.
+
+Babcock sembrava scettico.
+
+“Che tipo di dettagli?” ringhiò lui.
+
+“Oh, non mi è permesso dirlo,” disse Garden con imbarazzo, “ma è stato davvero molto impressionante.”
+
+Poi all’improvviso si allontanò. Sentiva che qualcuno potesse stargli tendendo una trappola e non voleva fare la figura dello sciocco; avrebbe preferito di non aver parlato affatto. Babcock lo lasciò andare, e mentre Garden scompariva a sua volta, il Dottore iniziò a camminare più lentamente. Non era turbato, ma interessato.
+
+Tutti all’Università avevano sentito parlare dell’esperienza spirituale di Higginson; tutti ne discutevano già. Ma quella non era la parte strana. La parte davvero strana, rifletté, era che un uomo come Garden la prendesse sul serio.
+
+Più il signor Babcock ci pensava, più una certa possibilità gli sembrava plausibile.
+
+Si diresse verso la cabina telefonica situata presso il Porter’s Lodge, chiese loro di comporre un numero a Londra e aspettò pazientemente fino a quando non ottenne la comunicazione.
+
+Ci vollero esattamente sei minuti; sarà interessante per coloro che rispettano la nostra antica costituzione sapere che la persona con cui George Babcock stava parlando era un nobile, uno di quei pochi nobili che vivono in condizioni molto semplici, e non solo un nobile, ma anche il proprietario di molte cose.
+
+L’uomo all’altro capo del filo possedeva un numero innumerevole di azioni ferroviarie, nonché grandi quantità di grano (poiché vi aveva investito), e soprattutto molti giornali; tra questi, uno in particolare aveva spodestato tutti gli altri giornali più vecchi e meno influenti, diventando il principale mezzo di informazione in Inghilterra. Questo giornale principale si chiamava “The Howl”. L’autore di quella lettera non possedeva soltanto “The Howl”, ma circa ottanta altri giornali; inoltre, la sua influenza non si limitava a questo paese, anche se qui era temuto più che in qualsiasi altro.
+
+Era il suo vanto quello di poter creare e distruggere gli uomini; ogni politico, a turno, gli rendeva omaggio, lui nominava i giudici e talvolta decideva persino della pace o della guerra. Un uomo potente. Nel suo ambiente originario (prima di acquistare il titolo nobiliare) era conosciuto come “Mr. Cake”; un uomo flaccido, e volgare? Oh, mio Dio!
+
+Quest’uomo, all’altro capo della linea telefonica, sapeva molte cose su George Babcock, troppo. E George Babcock sapeva che quell’uomo ne era a conoscenza. Di tanto in tanto, George Babcock, disgustato al pensiero di tali informazioni riservate soltanto a lui e al suo padrone, veniva spinto a compiere azioni che, se fosse stato un uomo libero, non avrebbe mai intrapreso. Ora stava per compiere proprio una di queste azioni.
+
+Raccontò la storia in breve a quella persona all’altro capo del telefono. Insistette sull’importanza di ciò che stava dicendo. L’uomo dall’altra parte della linea era molto moderno: aveva davanti a sé un elenco dei treni espresso. Gli disse di aspettarsi una lettera che sarebbe arrivata entro le sei e mezza e giunta a Ormeston alle 8:50. George Babcock avrebbe ricevuto le sue istruzioni con quel treno. Alle 8:50, quindi, George Babcock, obbligato dal dovere ma non troppo desideroso di farlo, si trovava sul marciapiede; prese il pacco dalla guardia, lo aprì e lesse il contenuto.
+
+La lettera non era stata scritta a macchina. Era una lettera familiare, e naturalmente portava la firma di un nome senza iniziali. Dopotutto, il suo autore non era forse un nobile?
+
+* * * *
+
+Nel frattempo, il sfortunato Professore di Psicologia vagava per gli edifici del college, da una stanza all’altra, da un amico all’altro, diffondendo ovunque lungo il suo cammino una serie interminabile di menzogne e presagi di distruzione.
+
+Poco prima di cena, seduto nel salotto della moglie del vicepreside, aggiunse un dettaglio molto bello che in precedenza gli era sfuggito: durante quella strana trance, aveva sentito il canto più meraviglioso. Lui, che normalmente non riusciva nemmeno a distinguere una nota dall’altra! Il cappellano lo aveva già utilizzato prima delle dieci per dimostrare l’immortalità dell’anima nelle sue note per il sermone di domenica prossima; inoltre, un medico del posto era particolarmente interessato a sapere che, nonostante avesse mangiato e bevuto durante quel lungo periodo, l’unica cosa che ricordava era della carne fredda. E solo come qualcosa visto, non come qualcosa consumato.
+
+“Che tipo di carne fredda?” aveva chiesto il dottore; ma il professor Higginson, la cui mente non era del tipo di quella di un poeta, aveva risposto soltanto: “Oh, semplicemente carne fredda.”
+
+Così, entro la sera di quel giovedì, iniziò il terribile processo della divulgazione.
+
+Quella notte, mentre tutti dormivano, nelle due redazioni del giornale Ormeston, chiuse nei loro piccoli uffici, i principali redattori scrivevano a tutta velocità, affrontando argomenti come la Coscienza Subliminale e le Funzioni Non Coordinate da una Coordinazione Autocognitiva; uno dal punto di vista conservatore, l’altro da quello liberale.
+
+Anche il settimanale socialista, pubblicato venerdì, fu costretto a inserire un articolo sull’argomento; tuttavia, sapendo che doveva fare riferimento alla nazionalizzazione dei mezzi di produzione e al cosiddetto “truffa parsonica”, si limitò a dichiarare che il professor Higginson, come ogni altro sostenitore dello Stato borghese, era un presunto cristiano. In tale articolo, ovviamente, non c’era una sola parola di verità.
+
+E così, dopo aver mangiato bene con il suo vicepreside e essersi saziato a dovere, il professor Higginson partì di notte alla ricerca di un alloggio.
 
 
 
@@ -4649,6 +5843,76 @@ Babcock rose again and came and stood over the wretched Philosopher. The Philoso
 Professor Higginson thought. Detailed imaginative fiction had never been in his line, though he had dealt in it pretty freely all that day. He thought hard and confusedly; but what he said at the end of the process was startling enough.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII.
+
+In cui il professor Higginson continua a assaggiarle.
+
+Il professor Higginson fu felice di tornare alle sue stanze quella sera di giovedì; iniziava a sentire la stanchezza derivante dalle sue attività presso il “Lion”.
+
+Non negherò che in lui sia sorta un po’ di vanità, poiché sentiva avvicinarsi una piccola fama locale. Ora, la vanità, soprattutto quando è legata all’avvicinarsi di una piccola fama locale, non è affatto vantaggiosa per i Professori, nemmeno in questo mondo; poiché le loro possibilità nell’altro mondo sono fatali. È un difetto fin troppo adatto da utilizzare come strumento dal Lato Nemico delle Anime.
+
+Ricco di questa vaga sensazione di benessere, fu uno shock per il professor Higginson scoprire che George Babcock lo stava aspettando nelle sue stanze.
+
+Nella tasca destra del cappotto di George Babcock era nascosta quella lettera. Non era stata scritta a macchina; si trattava di una lettera familiare, firmata con un solo nome senza iniziali, perché il suo autore era un nobiluomo.
+
+Higginson entrò nella stanza con nervosismo; man mano che vedeva chi fosse il suo visitatore, la sua soddisfazione diminuiva sempre di più. Ma quel visitatore aveva qualcosa di molto importante da fare.
+
+“Dico io, Higginson,” esclamò all'improvviso, alzandosi altrettanto rapidamente non appena il suo collega entrò nella stanza, “tu sai che non credo nemmeno una parola di tutto questo!”
+
+“Una parola su cosa?” chiese Higginson in tono acido.
+
+“Oh, sai,” disse Babcock, sedendosi di nuovo, proprio come fece anche Higginson, e fissando il psicologo con i suoi occhi intensi. “L’hai detto a tutti, e ora tutti ne parlano. Tutte queste ‘esperienze psichiche’, Higginson. Accidenti, perché stai parlando di fantasmi adesso?”
+
+Si appoggiò allo schienale e aspettò.
+
+“Babcock,” disse Higginson, usando esattamente lo stesso tono di quando aveva sparato contro il poco difeso signor Garden, “Babcock, non crederai a una storia vera raccontata da un essere umano? Alla testimonianza di un testimone? A prove autentiche, Babcock?”
+
+“Oh, credo che tu abbia avuto qualche, beh, diciamo qualche esperienza mentale, va bene; ma non credo in tutte queste sciocchezze.”
+
+. No!. Sono interessato, Higginson. È per questo che sono venuto. Si sporse in avanti. “Sono davvero molto interessato.”
+
+“Non credete che abbia visto, quello che dico di aver visto?” disse Higginson con solennità.
+
+“Ma caro Higginson, sai… a volte si vedono cose anche quando si dorme. Semplice, no?”
+
+“Non ci credi,” ripeté Higginson, “che abbia davvero sentito quello che dico di aver sentito?”
+
+“Oh, credo proprio di sì,” rispose Babcock impazientemente. “Di cosa si tratta? Caro mio, per ogni caso di suggestione ottica ce ne sono dieci di suggestione uditiva!”
+
+“La proposta è,!” gridò improvvisamente il Professore Higginson.
+
+“È una cosa strana, Higginson,” disse Babcock, guardandolo con curiosità e fissando il suo collega con quello sguardo, “è davvero strano che quei tizi di Johnnies non sembrino nemmeno sapere cos’è una prova. Hai mai sentito parlare di un avvocato brillante che ha presentato un’argomentazione legata al veleno? Io sì.”
+
+“‘Io’, ” iniziò il professor Higginson, ma Babcock lo interruppe.
+
+“Conoscevo una volta un tizio in Italia, non come te, caro Higginson, nemmeno lontanamente così onesto, ma lui sapeva come convincere le persone. Non importa se ciò che dice è vero o no, l’importante è che convinca.”
+
+Babcock sorrise in modo strano mentre lo diceva.
+
+“Non lo pubblicò, —, e” (questo più lentamente) “vi dirò di cosa si trattava, perché mi colpì molto. Una mattina presto entrò nella mia stanza – lo conoscevo abbastanza bene – e mi raccontò tutta la storia di Adowa. Il telegrafo non l’aveva ancora trasmessa; Higginson, ” (scuotendo un dito). “Non ne sapevamo nulla. Nessuno in Europa, nessuno in Egitto. La battaglia era appena iniziata, meno di dodici ore prima. E, badate bene, non fece alcuna allusione; non cercò nemmeno di sfruttare qualche trucco telepatico.” Babcock cominciò ad enfatizzare. “Descrisse tutto con estrema chiarezza: i piccoli uomini, gli arbusti, la sabbia rovente, sembravano tre o quattro piccole immagini colorate. Eh? Colorate. Si poteva quasi sentire il calore. Vide anche una sorta di tempesta nella boscaglia della valle. Lo disse lui stesso! Vide i soldati rimasti indietro, i feriti, vide i volti dei torturatori.” Babcock fece una pausa e cambiò tono; sembrava improvvisamente molto serio. “Mi disse che avrei potuto guadagnare un sacco di soldi con quella storia,” continuò. “Ero in contatto con un giornale inglese. Ma, come uno sciocco, non gli credetti. Poi arrivarono i telegrammi, ”
+
+Il professor Higginson stava osservando il suo collega; la sua testa sporgeva in avanti sul lungo collo. Era affascinato, e un po’ spaventato.
+
+“Beh,” disse Babcock, sedendosi di nuovo e parlando con un tono meno deciso, “è tutto qui. Penso che fosse un ciarlatano. Non so come abbia ottenuto quell’oggetto. So che in Africa, tra i selvaggi, le notizie possono diffondersi in migliaia di chilometri in mezza giornata. Comunque, quel genere di cose potrebbe convincere qualcuno. A dire la verità, Higginson, la tua storia non mi convince affatto.”
+
+Povero signor Higginson, arrossì. Non gli piaceva che gli si parlasse in quel modo. Babcock aspettò la sua risposta; finalmente arrivò, e fu nella forma che ci si aspettava.
+
+“Posso dirtelo, Babcock,” iniziò Higginson lentamente, “qualcosa che non ho mai raccontato a nessun altro. Sei stato tu a spingermi a farlo. Sai, hai sentito parlare di ciò che ho visto: non solo ho sentito cantare, ma ho anche visto. Ho visto molte persone, uomini e donne, Babcock.”
+
+Si passò la mano sul viso, augurandosi di uscire presto da quella situazione. Ma il Peccato è un padrone severo.
+
+“E allora?” chiese Babcock, con un’espressione del viso completamente immutata.
+
+“Bene,” proseguì il Professor Higginson, ancora più lentamente, “ecco ciò che devo dirvi. Molti di quei volti, e ricordate, mi hanno parlato, Babcock, mi hanno davvero parlato” (il Professor si stava appassionando sempre di più al suo racconto), “Non li conoscevo. Ma ne conoscevo uno, Babcock, ” E a questo punto la voce di Higginson si abbassò (come ormai era diventata abitudine durante queste narrazioni) in un tono più profondo. “Sapete chi fosse?. Era povero Morris!”
+
+Babcock si alzò di nuovo e si avvicinò al povero Filosofo. Il Filosofo alzò lo sguardo, come un bambino, un bambino che aveva commesso un errore.
+
+“Mio Dio!” sospirò Babcock. “Che idee straordinarie avete! Non è certo quello che la gente nota. Anzi, le persone possono fare cose del genere anche nel sonno.” Poi, con improvvisa energia: “Cos’altro avete visto, Higginson? Qualcosa che non potevate sapere. Qualcosa che nessuno sapeva?”
+
+Il professor Higginson pensò. La narrativa immaginativa dettagliata non era mai stata nel suo campo di competenza, anche se quel giorno ne aveva scritto abbastanza liberamente. Pensò a lungo e confusamente; ma ciò che disse alla fine fu piuttosto sorprendente.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="The Green Overcoat — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/machine"></span>
@@ -4718,6 +5982,72 @@ A timid, fair-haired girl to the rear of the left centre asked whether they need
 
 “But, Professor Higginson, it deals with the Subliminal Phenomena of a Loss of Mem—”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Benissimo, Babcock, ascolta questo. C’era nella folla quella figura così diversa dalle altre, una figura folle, direste voi. Occhi molto tristi, Babcock, e beh, non è piacevole da descrivere, ma emanava l’odore delle alghe marine.”
+
+“Oh!”, esclamò Babcock. “Era vestita?”
+
+Il signor Higginson ci pensò un attimo.
+
+“Sì, era vestito,” osò dire, tastando intorno nel buio. “Sì, era vestito. Ma in modo molto strano. Sai, —, vedi. Indossava abiti completamente bagnati, di colore blu scuro. Ma, Babcock” (in quel momento Higginson ebbe un’ispirazione, e ne fu molto orgoglioso), “non aveva braccia!”
+
+“Ah,” disse Babcock, meditando, “non aveva braccia.”
+
+C’era un vuoto nella loro conversazione: fine alle pressioni di Babcock, fine alle menzogne di Higginson. Un momento di tregua, un intervallo di riposo.
+
+È stato Babcock a romperlo.
+
+“Beh,” sospirò, “non riesco proprio a capire nulla di tutto questo, Higginson! Comunque, devo andare ora. È interessante. So che tu pensi di aver vissuto queste esperienze, ma, onestamente, tutto ciò che riguarda questo genere di cose mi è del tutto incomprensibile. Non credo che esista davvero; penso che siano solo illusioni, come i sogni,” e si alzò per andarsene.
+
+Ma per il resto di quella mezz’ora rimase di nuovo al telefono, parlando con Londra, con l’Antica Aristocrazia della Gran Bretagna e con The Howl.
+
+Quando uscì dalla [[Machine|macchina]], erano appena le undici. “Howl” pubblica le notizie fino alle due del pomeriggio. Che ottimo giornale!
+
+La mattina seguente (venerdì), quando scese al piano di sotto, il professor Higginson ricevette una scossa leggera ma molto sgradevole. Era un tipo di scossa che non si riceve spesso.
+
+Come tutti gli altri nel mondo, il professor Higginson lesse “The Howl” a colazione. “The Howl” è molto ben curato: offre emozioni intense in poco tempo, e ogni giorno presenta nuovi presagi o segnali premonitori.
+
+Quel giorno, a Londra, la “Malattia del Sonno” si diffondeva su larga scala: dieci milionari ne furono colpiti e un politico ricevette delle minacce. Non era vero, e c’era qualcuno che stava manipolando la situazione. Ma, vera o falsa che fosse, questa notizia aveva meno importanza per il signor Higginson rispetto a un altro articolo piuttosto importante ma di minor rilievo pubblicato in prima pagina. Non era l’articolo principale: quello principale riguardava qualcosa di assurdo su un uomo chiamato “l’Imperatore”. Forse era solo la seconda o la terza notizia più importante.
+
+Fine di una carriera misteriosa.
+
+Nobile trovato annegato sulla costa bretone.
+
+Storia romantica.
+
+BREST, giovedì 5 maggio.
+
+I pescatori del remoto e antico villaggio di Karamel riferiscono una scoperta macabra sulla loro costa rocciosa. Il Conte Michaelis de Quersaint, un noto personaggio eccentrico di questa zona, evidentemente è morto in naufragio alcuni giorni fa nelle vicinanze. Era abitudine del Conte navigare lungo questa costa durante i mesi estivi, sotto mentite spoglie, su una piccola barca da dieci tonnellate, accompagnato da due uomini d’equipaggio. L’infelice uomo in questione era nato senza braccia, proprio come un famoso proprietario terriero irlandese dell’ultima generazione, e ne soffriva molto. La barca non è stata trovata, ma i corpi di tre uomini, uno dei quali è senza dubbio il Conte, sono stati spinti sulla riva dalle onde. Le sembianze sono irriconoscibili, ma l’identità del Conte Michaelis non può essere messa in dubbio. Il cadavere indossava il costume da yacht in serge blu che il Conte portava abitualmente durante queste spedizioni, e si trattava effettivamente di un uomo senza braccia. Secondo il parere del Dottor Relebecque, inviato dal governo a Karamel, il disastro deve essere avvenuto circa quattro giorni fa, molto probabilmente durante la tempesta di lunedì notte scorsa.
+
+Il cadavere era vestito di blu. Era annegato. Non aveva braccia, una sorta di mostro.
+
+Il professor Higginson era scontento, molto scontento davvero. Si sentiva anche male.
+
+Ondate di paura travolsero la sua semplice anima. C'erano momenti in cui quasi riusciva a “sentire” l’odore della fossa, e gemeva dentro di sé.
+
+L’effetto su di lui fu così forte che iniziò a credere, anche se solo in parte, esistesse un legame tra la sua stupida menzogna e quelle presunte capacità sovrumane. Non gli piaceva affatto: quella situazione gli dava una sensazione di possesso su qualcosa che non era realmente suo. Lo rendeva incapace di essere se stesso.
+
+Non volle più prendere in mano quel foglio. Lo lasciò piegato sul tavolo e uscì, ancora un po’ stordito, per camminare lungo la strada verso il college e andare a lezione.
+
+Ma quando il professor Higginson entrò in aula, si rese conto, con nervosismo, che molti giovani occhi lo osservavano con tanto divertimento quanto interesse.
+
+Non che venisse fissato con attenzione. Gli abitanti delle province sono troppo educati per farlo; inoltre, quegli studenti provenienti dalle province che frequentano le università sono probabilmente la classe più cortese d’Inghilterra. Tuttavia, ogni volta che alzava lo sguardo dai suoi appunti, incrociava occhiate timide e improvvisamente distolte, ora da sinistra, ora da destra, occhiate che gli facevano capire che, tra quei cinquanta o sessanta studenti davanti a lui, nessuno ignorava quella “Grande Avventura”.
+
+Quella mattina il suo argomento di discussione era “La concatenazione ipergrafica dei principali criteri sensoriali e dei fenomeni psico-illuministici nel loro rapporto tra gli aspetti soggettivi e oggettivi delle azioni riflesse”: un tema affascinante! E in qualsiasi altro giorno, l’avrebbe analizzato con quella solita bravura che aveva coltivato negli anni.
+
+Ma quella mattina qualcosa attirò l’attenzione. L’interesse della classe era rivolto altrove, e il Professor Higginson sapeva fin troppo bene dove fosse! La sua sfortuna o incidente erano ormai diventati di dominio pubblico; tutti, giovani e anziani, dipendenti e servitori dell’Università, ne erano a conoscenza.
+
+Sentì nuovamente quel pizzico di vanità nel mezzo del suo imbarazzo.
+
+L’imponente orologio degli edifici universitari suonò mezzogiorno. Chiuse i suoi appunti, guardò con occhi stanchi i giovani volti davanti a sé, ora rivolti verso di lui, e disse:
+
+“La prossima volta utilizzeremo le Funzioni Automatizzate di Guest e Bunny. Si tratta di un argomento nuovo, e penso che vi interesserà.”
+
+Una ragazza timida, dai capelli biondi, che si trovava nella parte posteriore del centro sinistro, chiese se fosse necessario acquistare la terza edizione; lei ne possedeva solo la seconda. Lui, preoccupato per il suo portafoglio, rispose che non c’era alcuna necessità di farlo, al che lo studente aggiunse.
+
+“Ma, Professore Higginson, riguarda i fenomeni subliminali legati alla perdita di memoria…”
 
 
 
@@ -4793,6 +6123,76 @@ His colleague’s brother-in-law half shut a dripping umbrella, held out a huge 
 Then it was that Professor Higginson noticed, standing in the mean little hall humbly enough, a mean little man, short, wearing a threadbare coat, and a drenched bowler hat.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Basta così! Basta così!” esclamò bruscamente il Professore Higginson.
+
+Avrebbe potuto giurare di aver sentito una risatina! Alzò lo sguardo, stancamente, verso la finestra mentre i suoi compagni di classe uscivano uno dopo l’altro.
+
+Stava piovendo.
+
+Quando ebbe sostituito il suo cappello e la sua veste con il cappello a cilindro, l’ombrello e il mantello tipici della sua “civiltà”, uscì sotto l’arco e si avviò per strada, felice di essersi liberato delle sue responsabilità quotidiane e profondamente contento di essere solo. Come al solito, iniziò a conversare con se stesso ad alta voce, ignaro completamente degli sguardi sospettosi dei passanti, che avrebbe sicuramente attribuito alla sua fama, ormai in crescita. Quando all’improvviso ricevette un forte colpo sulla schiena da parte di una mano robusta; si girò di scatto e vide, nientemeno che Babcock. Di nuovo.
+
+Il professor Higginson girò sotto il suo ombrello per vedere chi fosse quella figura al suo fianco, e oltre di essa ne vide un'altra molto diversa: una figura avvolta interamente in un lungo impermeabile che quasi toccava il suolo; sopra l’orlo dell’impermeabile spuntava un colletto da impiegato, e ancora sopra quel colletto un viso lungo, i cui occhi sembravano sempre fissarsi in qualche punto lontano.
+
+“Beh, Higginson”, disse Babcock, “ora ce l’hai fatta!”
+
+“Cosa hai fatto?” chiese il professor Higginson, sapendo fin troppo bene cosa aveva fatto.
+
+“Ti sei fatto famoso,” disse brevemente George Babcock.
+
+“Non lo so!” disse il professor Higginson, chiedendosi nervosamente se la goccia che gli cadeva sulla schiena provenisse dal suo stesso ombrello o da quello del vicino. “Certo, una cosa del genere verrà sicuramente discussa.”
+
+“È stato quello che hai detto riguardo al canto celestiale, è stato questo a farlo,” disse brutalmente George Babcock; e mentre lo diceva, il professor Higginson, guardandolo di sguardo, notò chiaramente un leggero sollevamento verso il basso delle sue grandi labbra carnose.
+
+Mentre superavano la porta della sala comune dell’università, Babcock si fermò e disse: “Beh, io entro! Vieni con me, Higginson?”
+
+“No!”, disse il Professore Higginson con una determinazione straordinaria.
+
+“Va bene,” disse Babcock, senza insistere. “Charles ti accompagnerà a casa. Avrei dovuto dirtelo: è il fratello di mia moglie, Charles; è un pastore,” aggiunse in modo brusco, come se i segni esteriori di quella professione non esistessero affatto. “Vai con lui, Charles. È sulla tua strada. Dì a Clara che tornerò prima dell’una.”
+
+E George Babcock, quel forte uomo, entrò con forza attraverso le porte a battenti del club, lasciando suo cognato e il suo collega fuori, sotto la [[Rain|pioggia]].
+
+Il professor Higginson e la persona religiosa camminarono in silenzio per alcuni minuti. Innanzitutto, il filosofo non conosceva il nome del pastore, ed fu proprio il pastore ad essere il primo a rompere quel silenzio.
+
+“Hai sentito cantare!” disse improvvisamente, continuando a fissare qualcosa lontano, al di là di questo mondo, guidandosi con il suo grande naso. Non guardò il suo compagno e ripeté, con toni di profondo stupore: “Hai sentito cantare. L’ho letto oggi sul giornale Ormeston.”
+
+Il professor Higginson non aveva mai, in tutta la sua vita, comportato siché scortese con un uomo al primo incontro. Non sapeva proprio come si facesse.
+
+“Sì,” disse. — . — .— “in un certo senso.”
+
+“Ah!” disse il Reverendo Charles, e continuarono per altri cinquanta metri in silenzio sotto la [[Rain|pioggia]]. Le strade erano completamente deserte.
+
+Il professor Higginson rimase sconvolto nel vedere la mano del suo compagno posata fermamente sulla sua spalla; l’altra mano teneva l’ombrello sopra di loro. Il pastore lo guardò negli occhi con grande intensità.
+
+“Vorrei essere al tuo posto,” disse, “o meglio, no, non vorrei esserlo.” Poi allentò la presa e continuarono a camminare insieme.
+
+Il professor Higginson si sentiva profondamente a disagio. Era professore di Psicologia Subliminale, e non era certo sua intenzione cadere nei banali errori dei materialisti; tuttavia, quell’uomo gli sembrava davvero un po’ squilibrato. E quando per la terza volta sussurrò: “Avete sentito cantare!”, il professor Higginson si trovava in quella condizione in cui gli uomini deboli perdono il controllo di sé. Ora, il professor Higginson andava fiero del fatto che non fosse un uomo debole.
+
+Il reverendo Charles iniziò a parlare molto ad alta voce da solo, non con quei toni sommessi tipici di una riflessione solitaria comuni alle persone accademiche, ma piuttosto ad alta voce, quasi come se stesse tenendo un sermone.
+
+“Cantando!, ‘Voci incantevoli che cantano al suono delle arpe, e in quella luce che non muore, perché coloro che vi stanno sono gli eredi del mondo futuro’, —. Questo è tratto dalle opere di Pearson,” aggiunse improvvisamente, cambiando tono in uno perfettamente naturale. “Conosci le opere di Pearson?”
+
+“No,” disse il Professore Higginson, estremamente sollevato dal cambiamento nel tono di voce dell’altro. “No, a dire la verità, non lo faccio.”
+
+“Ha visto ciò che hai visto tu,” disse il gentiluomo reverendo, annuendo seriamente sotto il suo ombrello mentre avanzava a passi decisi; “ma non ha avuto la tua opportunità di convincere il mondo. No!”
+
+E qui scosse la testa con la stessa serietà con cui l'aveva fatta oscillare in segno di assenso.
+
+La [[Rain|pioggia]] continuava a cadere. La strada bagnata si estendeva ancora davanti a loro.
+
+“Molti uomini hanno avuto questa opportunità,” riprese il reverendo Charles con un tono completamente diverso, questa volta un tono intellettuale e interrogativo, “di vedere quei luoghi nascosti. Ma tu? Hai avuto questa possibilità?”
+
+Il professor Higginson non disse nulla; stava iniziando di nuovo a sentirsi a disagio. Non era un materialista, che uomo, con i suoi grandi successi, potrebbe esserlo? D’altra parte, però, esisteva anche il rischio di esagerare nell’altro senso. Allora si ragionò: il reverendo Charles non aveva alcuna arma; lui, invece, era un uomo alto, e, accidenti, non aveva alcun motivo per essere certo che quell’uomo fosse pazzo.
+
+Erano arrivati alla porta del professor Higginson. Lì, sotto la pioggia battente, il professor Higginson inserì la chiave nella serratura, aprì la porta e, per pura cortesia, chiese se il cognato del suo collega volesse entrare.
+
+Il cognato del suo collega chiuse a metà un ombrello che gocciolava, tese una mano enorme e ossuta, fissò con occhi luminosi e distanti il imbarazzato Don, strinse la mano che questi gli porgeva nervosamente in risposta, e disse tristemente, con un significato profondo.
+
+"No! Non entrerò! Vi lascio alle Voci della Grande Pace!"
+
+Fu allora che il professor Higginson notò, in piedi nel piccolo e modesto corridoio, un uomo di statura bassa, vestito con un cappotto logoro e un cappello a cilindro bagnato.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_04" data-title="The Green Overcoat — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/machine,motif/rain"></span>
@@ -4853,6 +6253,62 @@ Professor Higginson, who holds the Chair of Subliminal Psychology in the Univers
 What followed, and what his pained eyes most wearily discerned, was the nature of the proof: the impossibility that anyone in Ormeston should have heard of that drowned thing upon the French coast; the hour in which Professor Higginson had told a colleague of the experience — fully four hours before the discovery itself was made — five hours before the belated Breton telegram had reached The Howl from its Paris office. The whole thing was a convincing chain. And with that dreadful knowledge men have that they are in for it, Professor Higginson laid the paper down, and wondered how much must be endured before the blessed touch of death.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Professore Higginson”, disse questa apparizione con dolcezza, “Professore Higginson, presumo?”
+
+“Cosa?” esclamò il Professore, ancora tenendo la mano del Pastore, come se fosse il manico di una pompa.
+
+“Posso parlarle un attimo? Rappresento ‘The Sunday Machine’.”
+
+“No,” tuonò il professor Higginson, lasciando cadere la mano del reverendo per l’emozione. “Sono stanco, non è ancora ora di pranzo, non capisco cosa intendi!”
+
+Quel piccolo uomo rimase contemporaneamente sbalordito e ferito. Il reverendo Charles sorrise con un sorriso “cadaverico”, ma uno che era altrettanto luminoso quanto i suoi occhi.
+
+“Posso occuparmi io di questo posto?” disse con una voce che aveva due tonalità melodiose.
+
+Stava lì, con aria trionfante, nell’ingresso aperto; il suo ombrello gocciolava, e la sua enorme mano destra, ancora libera, era tesa in avanti.
+
+Il piccolo giornalista, non essendo del tutto sicuro di cosa dovesse fare, afferrò quella grande mano, proprio come l’aveva fatto il professor Higginson, e poi rimase impotente.
+
+“Il professor Higginson aveva perso la pazienza. Disse bruscamente…”
+
+“Devi tornare ancora! Devi tornare ancora… Non è il momento giusto.”
+
+In un altro minuto avrebbe sicuramente chiesto scusa per la sua bruschezza, ma quel piccolo giornalista aveva troppo orgoglio e se n’era già andato, senza ombrello, infilando il suo misero taccuino nella tasca logora dei suoi vestiti; anche il reverendo cognato, dopo aver gettato uno sguardo nel buio del corridoio, se n’era andato a sua volta. Il professor Higginson sentì la porta chiudersi alle sue spalle: la curiosità lo spinse a guardarli da una finestra. Stavano andando via insieme, sotto la [[Rain|pioggia]], verso il centro della città, e al filosofo sembrò che il pastore fosse più animato del solito. Si girava continuamente verso il suo compagno, e i suoi gesti erano eloquenti. Una grande fama stava per arrivare!
+
+Quel venerdì pomeriggio, rimase tutto il tempo nella sua stanza.
+
+Lei proibì alla signora Randle di far entrare nessuno. Andò a letto presto e dormì male. Il prezzo del peccato è la morte.
+
+Il professor Higginson scese la mattina seguente in uno stato d’animo molto cupo. Accanto al suo piatto c’era un enorme mucchio di lettere; lì vide anche “The Howl”, ripiegato e custodendo il suo terribile segreto. Era sicuro che ci fosse una lettera anche per lui.
+
+Quel foglio, con la sua inoffensiva copertina esterna, le pubblicità di veleni brevettati e quel titolo audace, lo minacciava. Ma allo stesso tempo lo affascinava. Esitò, allungò la mano per prenderlo, lo aprì. E il colpo arrivò.
+
+Con suo orrore, vide davanti a sé due grandi righe, anzi, tre, scritte in caratteri enormi tipici dei titoli di prima pagina; quel giorno, quelle righe occupavano più spazio sui giornali della malaria, del potere della Germania o delle nefandezze di Kalmazoo.
+
+Corsero così…
+
+Prove di una vita futura! Rivelazioni di un grande psicologo.
+
+Il professor Higginson testimonia su esperienze soprannaturali.
+
+Riconoscimento dei morti.
+
+Ci sono parti del corpo che si raffreddano quando si prova un tipo di eccitazione sgradevole. Tra queste si possono menzionare la fronte, alcuni muscoli situati su entrambi i lati delle vertebre e l’area dei ginocchi.
+
+Se il Professor Higginson avesse potuto osservare personalmente questi interessanti fenomeni, ciò sarebbe stato vantaggioso per la scienza. Tutto quello che sapeva era di sentirsi estremamente malato. Allontanò dal proprio piatto la colazione, piegò il foglio in due parti, si alzò da tavola e si appoggiò al caminetto, tenendosi la testa tra le mani. Poi si riprese, si sedette e iniziò a leggere quel documento.
+
+Ormeston, venerdì 5 maggio.
+
+(Dal nostro Corrispondente Speciale.)
+
+Sono autorizzato a pubblicare un'esperienza assolutamente unica che è capitata a uno dei membri più rispettati dell’Università Guelph, Ormeston; inoltre, le sue particolari funzioni all’interno dell’università gli conferiscono un’autorità indiscutibile su questa questione.
+
+Il professor Higginson, che ricopre la cattedra di Psicologia Sottile presso l’università, possiede, grazie a un’esperienza recente, prove indubbi dell’esistenza dell’anima degli esseri umani in uno stato di coscienza diverso da quello terrestre.
+
+Quello che seguì, e che i suoi occhi pieni di dolore riuscirono a comprendere con estrema fatica, fu la natura della prova: l’impossibilità che qualcuno a Ormeston potesse essere al corrente di quell’incidente avvenuto sulla costa francese; l’ora in cui il professor Higginson aveva raccontato l’esperienza a un collega, esattamente quattro ore prima che venisse effettivamente fatta la scoperta, cinque ore prima che il telegramma del Bretone arrivasse finalmente a The Howl. Tutto ciò formava una catena inconfutabile di prove. E con quella terribile consapevolezza di essere ormai intrappolati in quella situazione, il professor Higginson posò il foglio e si chiese quanta ancora sofferenza fosse necessario sopportare prima che arrivasse finalmente la benedetta morte.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_01" data-title="The Green Overcoat — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/fame_and_publicity,concept/vanity,concept/deception,concept/satire_of_society,form/novel,setting/england"></span>
@@ -4912,6 +6368,62 @@ Babcock never looked bewildered. He nodded his head determinedly and said —
 
 The heavy Babcock rapidly diagnosed the case within his mind. He forbore to exasperate the patient.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VIII.
+
+In questo racconto, il professor Higginson ottiene quei dolci in grandi quantità, e scopre anche come vengono creati gli esseri umani.
+
+Il professor Higginson fissò quel mucchio di lettere. Si ricordò che era sabato, una giornata libera! Sospirò all’idea di quella libertà.
+
+La fame è come la tromba che porta con sé: per il civile, quel suono è eccitante; per la casa vicino ai casermi, ormai troppo abituata ad esso, è solo un suono meccanico e monotono; per il soldato a cavallo durante l’alba, non è altro che un rumore orribile e assordante.
+
+La fama aveva assunto il suo aspetto meno piacevole per il Professor Higginson. Si meravigliava che tanta fama fosse già arrivata fino a lui. Tremava al pensiero di ciò che “The Howl” potesse scatenare ora. Un semplice errore di memoria. Qualcosa che poteva accadere a chiunque. E ora, tutto questo.
+
+Il professor Higginson aveva sottovalutato la sua posizione nel mondo scientifico, dominato dalle congetture e dagli indovinelli.
+
+Non ci sono molti Professori di Psicologia; solo tre di loro hanno scritto libri. Il fatto che il suo libro fosse stato tradotto in diverse lingue avrebbe dovuto dargli piacere in passato, perché era un uomo di provincia. E in quella strana combinazione che rende i nostri colleghi accademici ciò che sono, l’enormità di un falso orgoglio si scontra con una semplicità molto reale.
+
+Aprì una lettera, poi un’altra, e ancora un’altra: intendeva rispondere a ciascuna di esse personalmente e con cura. Non aveva mai confidato nulla a nessuno riguardo ai suoi sentimenti o alla sua vita privata, e queste lettere rappresentavano i primi frutti di ciò che poteva ancora accadere in futuro!
+
+“L’Ululato” viene letto in tutta l’Inghilterra prima delle nove di sera. Alle tre del pomeriggio arriva una posta a Ormeston; tra un mucchio di materiale che lo disgustò profondamente – e che includeva ogni tipo di pubblicità proveniente da ogni sorta di venditore ambulante – c’erano più di duecento lettere di natura simile indirizzate al Filosofo.
+
+Progettò di tentare di rispondere anche a queste domande con la stessa meticolosità e con le sue stesse mani come aveva fatto per il primo gruppo di questioni. La sua “Grande Avventura” iniziava a suscitare in lui un notevole interesse; in alcuni momenti, riusciva persino a superare la propria ansia e paura. Ci furono dei momenti, mentre quella sera apriva una busta dopo l’altra e prendeva appunti per le risposte, in cui si sentiva davvero come se ciò che stava scrivendo fosse vero, e come se potesse descrivere con estrema precisione tutta quell’insolita fase psichica in cui l’inconscio si scatena in giochi casuali, senza essere vincolato dal peso dell’oggettività.
+
+Due lettere in particolare le scrisse con estrema cura. Una a un Ministro del Gabinetto – un individuo inveterato nel mettersi nei affari altrui, che si occupava di queste cose negli intervalli tra le sue molteplici impegni – l’altra a un ex Ministro del Gabinetto – un altro individuo altrettanto inveterato nel medesimo comportamento.
+
+Il professor Higginson non aveva mai scritto prima a persone così importanti. Lavorò sodo e compose due capolavori. Per compilare gli indirizzi delle prime dieci buste, impiegò quasi venti minuti, consultando libri di riferimento. Scrisse in modo cortese e con grande lunghezza a una Gran Dama la cui corona appariva sul foglio come una montagna; il suo nome, per lui, sembrava quasi irreale. Gli pareva impossibile che una persona del genere potesse entrare nella sua vita.
+
+Scrisse in un francese eccezionale al grande specialista di Nancy che gli aveva scritto in inglese; scrisse anche in inglese al grande specialista di Lipsia che gli aveva inviato una lettera in tedesco che non capiva, ma la cui firma e il nome europeo giustificavano la natura della risposta da inviare. Così trascorse tutto il tempo libero di sabato.
+
+Poi arrivò la domenica mattina, e un’infinità di messaggi!
+
+Si trattava di una quantità enorme di corrispondenza che nessun paio di segretari avrebbe potuto gestire in trentasei ore; la lasciò quindi disperatamente sul suo tavolo, in attesa che qualche amico esperto gli spiegasse come fosse possibile sistemare tutta quella montagna di documenti.
+
+Il suo immenso impegno, sia di giorno che di notte, nel rispondere alle domande del “Grande” lo aveva lasciato stanco e ormai disgustato dalla sua nuova posizione pubblica. I suoi terrori erano tornati.
+
+Si era sforzato troppo. La stanza gli appariva sfocata davanti agli occhi. Si alzò dopo colazione e pensò di uscire a prendere aria, ma le deserte strade del Sabato non gli portarono alcun sollievo.
+
+I “Sunday Popular Papers” lo stavano inseguendo senza sosta. I loro grandi cartelli pubblicitari erano esposti fuori dalle edicole.
+
+“Esiste un Paradiso?” scritto in lettere lunghe un piede, e sotto: “Il professor Higginson dice ‘Sì’”, quasi lo fece cadere quando lo videro su uno scaffale. Fuori da una cappella, su un cartello gigante, vide il proprio nome indicato come “argomento del discorso”; prima ancora di distogliere lo sguardo, lesse la frase: “Il Primo Testimone”. Tutti erano benvenuti. Lui era il Primo Testimone! Oh, Dio.
+
+Non riusciva più a proseguire il suo cammino. Sentiva, in modo del tutto ingiustificato, che tutte le persone che incrociava lo notassero e ne parlassero tra loro come dell’Autore della Grande Rivelazione. Per la centesima volta desiderò di non essersi mai immischiato in menzogne. Poi Satana tirò forte sulla briglia: il professor Higginson ricordò ciò che la verità gli avrebbe portato. Pensò al molo. E allora smise del tutto di desiderare qualsiasi cosa.
+
+Proprio mentre stava per tornare indietro da quel cammino doloroso fatto di cartelli pubblicitari e avvisi sermonosi per le strade, si ricordò della montagna di corrispondenza che lo aspettava. In quel momento, il Cielo gli inviò un amico: era Babcock. Quel volto rigido e quegli occhi gonfi sembravano brillare su di lui come un presagio di sventura; quella bocca larga e aperta pareva ansiosa e desiderosa di “divorare” una vittima così eminente.
+
+Il professor Higginson non gli permise di attaccare per primo.
+
+“Babcock…”, gridò quasi per il dolore, “tu conosci qualcosa riguardo alle lettere e simili, vero?”
+
+“Babcock non sembrò mai perplesso. Annuì con decisione e disse…”
+
+“Go on.”
+
+“Beh,” continuò il Professor Higginson, deciso a tutti i costi a evitare di parlare di quell’argomento importante, e parlando con tale fretta che sembrava quasi urlasse, “lettere, sapete cosa sono le lettere? Centinaia e centinaia di lettere. Devo occuparmene questa mattina, subito!”
+
+Il competente dottor Babcock diagnosticò rapidamente la situazione nella sua mente. Decise di non innervosire il paziente.
 
 
 
@@ -5019,6 +6531,108 @@ Professor Higginson dared not say he didn’t. But he still looked helpless.
 “Good God, man!” Babcock went at him again, “he’s in the very middle of it. I’ve known invitations from the R.C. sent by lots of people, but never by him!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Va tutto bene,” disse lui nel modo più rassicurante possibile, considerando che si trattava di un orco. “Va tutto bene. Quello di cui hai bisogno è uno stenografo.”
+
+“Due!” gridò Higginson, continuando a trascinare il suo compagno con sé.
+
+Ma il potente Babcock possedeva un forte potere organizzativo.
+
+“Di che utilità sono due?” disse con disprezzo. “Non avete nemmeno due bocche, né due cervelli,” aggiunse inutilmente.
+
+“Ho bisogno di aiuto!”, gridò disperatamente il professor Higginson. “Aiuto!”
+
+“Quello che vuoi,” disse il robusto Babcock, con una forte presa mentale che dominava completamente la sua vittima, “è qualcuno che apra tutte quelle lettere, le sistemi in ordine e decida cosa si debba dire. Qualcosa di appropriato, insomma. Hai un telefono?”
+
+“No, sì, no,” disse il Professore Higginson mentre si avvicinava alla sua porta.
+
+“Dovresti averlo, uno nella tua posizione,” disse Babcock. Erano arrivati alla porta. “Entrerò ad aiutarti,” aggiunse.
+
+Lo fece subito. Babcock si mise all’opera immediatamente, con energia e efficacia. Rimproverò di nuovo il suo sfortunato collega per non avere un telefono, mandò un servitore in taxi con l’indirizzo di una stenografa e di una dattilografa, persone disponibili anche di domenica, e ordinò una [[Machine|macchina]] per scrivere. Poi procedette con estrema rapidità a tagliare quel enorme mucchio di buste usando un coltello da burro.
+
+Organizzò i loro contenuti con una velocità che, sebbene spaventosa, affascinava profondamente il Professore di Psicologia. Quando arrivarono gli assistenti, lui li aveva già divisi in quattro mucchi: ——
+
+(1) Grandi personaggi, denaro, rifiuti, e, soprattutto, spazzatura.
+
+“Allora prese l’iniziativa senza autorizzazione e chiamò la stenografa…”
+
+“Prima frase: spero che mi perdonerete se detto questa lettera a voce alta. La quantità di corrispondenza che ho dovuto gestire negli ultimi giorni è stata, come potete immaginare, davvero eccessiva, ecc.”
+
+Era una frase nobile, semplice e efficace; aveva svolto il suo compito nel corso del tempo. Higginson ascoltava, affascinato più che mai.
+
+“Trenta copie di quello, per favore,” disse Babcock in tono secco. Poi si degnò di spiegare.
+
+“Si scrive dopo ‘Caro Signore o Cara Signora’.”
+
+“Higginson annuì e aggiunse in tono sommesso…”
+
+“O ‘Mia Signora’, o qualunque altro nome si voglia usare.”
+
+“Sì,” disse Babcock, guardandolo all'improvviso con uno sguardo penetrante, “dopo quella introduzione, qualunque essa sia, ‘Mio Signore Duca, o Mio Signore Cardinale, Eccellenza, o Mio Signore Inferno.’”
+
+Si occupò di nuovo dei documenti.
+
+“Quelli,” disse, spostando rapidamente un gruppo di oltre quaranta persone e poi separandole all’improvviso, “sono solo rifiuti; per lo più pazzi. Li riconosco dalle loro mani.”
+
+Higginson guardava impotente; pensava che un tale distruzione fosse imprudente, ma non disse nulla.
+
+“Questi,” continuò Babcock, gemendo per l’interesse che provava, e leccandosi il dito indice mentre maneggiava i documenti, “questi sono rifiuti.”
+
+Voltò pagina dopo pagina, come se stesse contando banconote, e alla fine scelse quella giusta.
+
+“Sì: tutti rifiuti.”
+
+“Posso dare un’occhiata?” chiese il professor Higginson con voce un po’ debole.
+
+“Sì, se vuoi,” disse Babcock, gettando il mucchio di fogli senza alzare lo sguardo e rivolgendosi al prossimo documento.
+
+Il Professore scoprì che il suo collega aveva ragione: si trattava tutti di inviti, e non di inviti a cui fosse necessario rispondere sì o no. Più di un terzo di questi inviti proveniva da prestatori di denaro. Fece quindi un appello disperato per poter conservare alcuni di quegli ultimi, i cui eleganti sigilli, antichi nomi e carta profumata lo affascinavano molto. Babcock, invece, si limitò a grugnire e prese in mano un altro mucchietto, molto più piccolo.
+
+“Questi sono soldi, Higginson… soldi.”
+
+Le lesse ad alta voce: un’offerta per scrivere su una rivista; un’offerta ancora più allettante per lavorare su “The Only Daily Paper”, ma esclusivamente per quel giornale, e così via.
+
+“È proprio quella che dobbiamo prendere,” disse Babcock. Estrasse un biglietto con intestazione americana, lo segnò e lo gettò al professore, dicendo:
+
+"#Devo rispondere al posto tuo?"
+
+“No,” disse Higginson, cercando di essere deciso.
+
+“Beh, allora va bene,” disse Babcock, “dittalo tu stesso.”
+
+E il Professore, con un linguaggio infinitamente prolisso, accettò con gratitudine un articolo esclusivo di tremila parole in cambio della somma di 250 sterline.
+
+Fu il turno dei grandi personaggi; l’erudito Babcock, con occhio infallibile, ignorò un attore e una duchessa altrettanto importanti, e individuò immediatamente “La Grande Invitazione”.
+
+Era il primo documento su cui si fosse degnato di soffermarsi; sebbene fosse breve, ci dedicò alcuni momenti. Il suo viso assunse un'espressione seria.
+
+“È qualcosa di molto importante!”, disse solennemente, porgendoglielo quasi con reverenza al Professore di Psicologia.
+
+Il Professore lesse un indirizzo londinese scritto chiaramente su un bel foglio di carta da lettere. Vide una firma: “Leonard Barclay”, che ricordava vagamente in qualche contesto. Lesse anche un invito a tenere un discorso per il Research Club nel giorno che preferiva, ma se possibile entro la settimana successiva. Il Research Club avrebbe utilizzato per l’occasione la grande sala di Gorton’s. Era tutto.
+
+“Che fortunato animale, ” mormorò Babcock, a voce abbastanza bassa perché la dattilografa non potesse sentire, mentre fissava Higginson con lo sguardo.
+
+“La lettura… Higginson posò la lettera, annuì stupidamente e disse…”
+
+“Beh, dovrei prenderlo, Babcock? Chi sono i membri del Research Club?”
+
+“Chi sono i membri del Research Club? Uff. Che tipo di persone! Sono proprio loro a plasmare gli uomini!” disse Babcock con amarezza, “È proprio questo il loro scopo! Vuoi davvero dire che non ne hai mai sentito parlare?” continuò, chinandosi in avanti e parlando a bassa voce con serietà. “Non hai mai sentito nulla riguardo al Research Club?”
+
+“Da qualche parte, oserei dire,” disse il professor Higginson in modo confuso.
+
+Ma non l’aveva fatto. Fu un momento importante per Babcock. Non era stato incluso tra i “pazzi” per niente.
+
+“Come,” disse lui, come se stesse per annunciare qualcosa di importante, “sapete chi sia Leonard Barclay?”
+
+“No, sì,” disse il Professore Higginson.
+
+“Proprio come il tuo telefono,” sogghignò Babcock. “Non ne hai idea. Beh, te lo spiego io. Leonard Barclay è il segretario privato di Mrs. Camp; è lui che ha fondato ‘The Connoisseurs’ in Bond Street e ha scritto quel libro su Colombo. Ora capisci?”
+
+Il professor Higginson non osava dire di no. Tuttavia, sembrava comunque impotente.
+
+“Mio Dio, amico!” Babcock gli disse di nuovo, “è proprio nel mezzo della faccenda. So che molte persone hanno ricevuto inviti dal R.C., ma mai da lui!”
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="The Green Overcoat — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/fame_and_publicity,concept/hypocrisy,concept/materialism,form/novel,form/satire,setting/england"></span>
@@ -5082,6 +6696,66 @@ With which words Babcock, the fallen angel, stared before him in reverie, and sa
 
 Thus it was that there fell upon this worthy, stilted and hitherto rather obscure provincial pedant the Great Chance of English life: to receive a note from the private secretary of the widow of Mr. Camp, of Chicago, and to speak before the Research Club, where, as it seems, Men are Made!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Oh!”, disse Higginson, con un’aria di comprensione, anche se in realtà i misteri della nostra plutocrazia rimanevano per lui davvero inspiegabili. “È nel Parlamento?”
+
+“Parlamento!” ringhiò Babcock. “Adesso mi chiederete se sarà il prossimo Lord Mayor. È Leonard Barclay. Oh, maledizione! È proprio lui! È proprio al centro di tutto questo. Perbacco, è stato lui a diventare” (e Babcock, con una totale indiscrezione, citò letteralmente) “il Sottosegretario per le Poste, il comandante del 5° Corpo d’Armata, il Commissario Permanente delle Belle Arti, e un Vescovo, un Vescovo davvero importante.”
+
+Si fermò per riprendere fiato e, appoggiandosi di nuovo all’indietro, pronunciò lentamente le parole, dando loro maggiore enfasi.
+
+“Sai, Higginson, che Leonard Barclay è stato l’uomo che ha permesso a Lord Cowfold di lasciare il paese?”
+
+“Che cosa!” esclamò il professor, stupito e di mentalità ristretta. “Cosa intendi dire? —. —. —.”
+
+“Lord Cowfold? Ma è stato proprio a Ormeston lo scorso maggio per inaugurare il Bulldog Club…”
+
+“Beh, ora si trova ad Assisi,” disse Babcock con un tono cupo, “ad Assisi, in Italia. E può ringraziare Leonard Barclay se non si trova a Dartmoor – Dartmoor, nel Devonshire. Signore, davvero sei fortunato!”
+
+“Ma non capisco,” iniziò il professor Higginson, poi rimase in silenzio.
+
+“Bene, allora ve lo dirò,” disse Babcock, trionfante, “anche se è difficile da credere! Il Club di Ricerca è formato da Bake-well, il Primo Ministro, Fittleworth, Capley e circa altre venti persone del genere; quando parlate davanti a loro, non parlate semplicemente davanti a loro, Higginson, parlate davanti a tutto ciò che conta in Europa e che, per coincidenza, si trova in Inghilterra in quel momento.”
+
+“Ma non ne ho mai sentito parlare,” disse il suo collega in modo impotente, con la sensazione che quelle parole non costituissero alcuna prova significativa.
+
+“Mai”, rispose Babcock con aria cupa, “non si sente parlare spesso di queste cose”.
+
+Scrisse qualche parola a matita su un pezzo di carta e lo spinse verso il Professore.
+
+“Ecco,” disse, “copialo tu stesso con la tua mano. Se fossi al tuo posto, non scriverei mai nulla del genere a macchina, e lo scriverei su carta dell’Università.”
+
+#Il professor Higginson esaminò la nota e lesse…
+
+“Mio caro signor Barclay, sarò davvero molto felice. Penso che mercoledì sia una buona notte. Lo fissiamo per mercoledì? A meno che non riceva mie notizie, considererò la cosa decisa; e naturalmente, al solito orario, da Gorton, ”
+
+Il professor Higginson trase un respiro affannoso.
+
+“Ma non è forse molto familiare, Babcock?”, disse lui con esitazione.
+
+“Sì, è proprio questo il punto,” disse Babcock.
+
+“E non so nemmeno che ora sia,” disse Higginson, ancora esitante.
+
+“Ma sì che lo faccio,” disse Babcock. “Sono le cinque e mezza. Ascolta, Higginson, e non essere sciocco. È così che vengono fatti gli uomini in questo paese. Fai come ti dico io.”
+
+Il professor Higginson, chiedendosi vagamente come fosse possibile “essere manipolati” in quel modo e cosa accadesse quando un uomo veniva trattato così da coloro che ci governano, prese un foglio della carta universitaria e scrisse con cura quella nota orribilmente familiare. Esitò però riguardo alla firma.
+
+“Chi è?” chiese.
+
+“Chi?” disse Babcock.
+
+“Ma insomma, questo signor… questo certo Barclay…”
+
+“Ce l’hai proprio lì, idiota,” disse Babcock senza alcun riguardo. “Leonard Barclay, Leonard Barclay, Esq. Davvero semplice, no?”
+
+“Pensavo, ”, mormorò il Professore Higginson, “Non sapevo. Forse era possibile che avesse avuto un, ”
+
+“Padre?”, esclamò Babcock. “Per quel che ne so, no. Nessuno sa da dove venga, tranne la signora Camp, e lei viene da Chicago.”
+
+Con quali parole Babcock, l’angelo caduto, fissava davanti a sé in meditazione, rivedendo emergere sullo sfondo di quella monotona stanza provinciale tutto il suo vecchio paradiso perduto: le glorie della casa dei Merschauer in Capon Street, quel grande giorno a Cowfold House, le folle, le luci che circondavano i nostri padroni, e anche lui.
+
+Ed è così che questo degno, impacciato e fino ad allora piuttosto oscuro pedante provinciale ricevette la Grande Opportunità della vita inglese: ricevere una lettera dal segretario privato della vedova del signor Camp di Chicago, e parlare davanti al Research Club, dove, a quanto pare, si formano le persone veramente importanti!
 
 
 
@@ -5177,6 +6851,96 @@ The sums that stood therein called to him like great heralds; they made his puny
 He was in the midst of the tale when his whole being fainted within him, as it were — stopped dead at the noise of a violent [[Rain|rain]] of blows upon his outer door.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IX.
+
+In quel momento, il Cappotto Verde inizia a farsi valere.
+
+“E ALLORA,” dite voi (molto giustamente), “che fine ha fatto il Cappotto Verde in tutto questo tempo? Dopotutto, è il titolo del libro, e ho diritto di sapere di più su di esso. Non ho comprato questo libro per leggere storie su un insieme casuale di persone, l’ho comprato per leggere della storia del Cappotto Verde. Che fine ha fatto il Cappotto Verde?”
+
+Con delicatezza. Lo terrò a mente.
+
+Le avventure del Cappotto Verde in quei giorni, quando si vendicò degli esseri umani che lo avevano separato dal suo amato padrone, possono essere raccontate in modo semplice.
+
+La polizia in questo paese sa, ora dopo ora, cosa facciamo e come lo facciamo; se fosse meglio informata, sarebbe anche in grado di capire il motivo per cui lo facciamo. I movimenti di qualsiasi oggetto che non provenga in modo onesto – soprattutto se rimane almeno nelle mani dei poveri – possono essere rintracciati tempestivamente (da un storico coscienzioso che abbia accesso a Scotland Yard) con la stessa precisione con cui si può localizzare una volpe del North Hants dopo che è stata tenuta in un’officina meccanica per tre giorni prima di essere messa all’inseguimento.
+
+Quando il professor Higginson incaricò l’uomo dal naso rotto di restituire il cappotto verde al suo proprietario, e prepagò generosamente i suoi servizi in quell’occasione, devo purtroppo dire che il cittadino a cui era stato affidato tale compito lo trascurò in modo vergognoso.
+
+Effettivamente, proseguì per una certa distanza nella direzione di Crampton Park, sotto il sole mattutino, fischiettando lungo la strada, con l’intento di convincere i suoi compagni, probabilmente sospettosi e sicuramente gelosi, della sua integrità. Ma quando raggiunse un gruppo di casette, quell’azione insolita che intraprese rivelò la bassezza dei suoi principi morali.
+
+Non continuò più nella direzione di Crampton Park: no, lui! Si muoveva velocemente, con quell’oggetto pesante sul braccio, zigzagando avanti e indietro per le strade di quel sobborgo povero. Presto lasciò le case e si diresse verso un campo deserto, nascosto da un muro alto che impediva alla luce di filtrare dalle finestre vicine. Immagino che in varie occasioni si rifugiasse lì quando desiderava la privacy necessaria per intraprendere qualche avventura.
+
+Seduto su un mucchio di rifiuti che adornava quel pezzo di terreno, l’Uomo dal Naso Rotto esaminò con molta attenzione entrambe le tasche dei suoi vestiti, ma trovò soltanto un libretto degli assegni.
+
+Lo tirò fuori e lo tenne in mano, esitando per alcuni momenti, con la sua corta mano destra.
+
+L’Uomo con il Naso Rotto non era privo di superstizioni – superstizioni comuni, temo, per la sua classe – e una di queste riguardava i libri degli assegni. Sapeva davvero che con un libro degli assegni si potevano compiere grandi cose, ma non sapeva come farlo. Non possedeva la “parola magica” né il trucco grazie al quale questo potente strumento governa il mondo moderno. Per un momento, nella sua mente ancora assonnata, si chiese se per simili cose ci fosse un prezzo da pagare. Per sé stesso, concluse con rammarico che si trattasse di un mistero. Riportò quindi il libro degli assegni al suo posto. Ma proprio mentre lo faceva, qualcosa nel mucchio di rifiuti cedette; lui scivolò e all’improvviso sentì una sensazione calda e umida sulla gamba destra: proveniva da una bottiglia rotta.
+
+La sua gamba, nel momento in cui scivolava tra le macerie, aveva urtato un pezzo di vetro, e quel vetro aveva vinto. Nemmeno quell’imponente cappotto verde, ricoperto con lussuosa pelliccia, lasciò trapelare alcun segno del suo terribile divertimento.
+
+Il sangue usciva copiosamente dalla ferita. L’Uomo con il Naso Rotto aveva già subito incidenti in passato; sapeva che questa volta poteva essere grave. Alzò la gamba dei pantaloni, vide la profonda ferita e, per un momento, premette delicatamente le labbra della ferita l’una contro l’altra.
+
+“È un giudizio, ”, disse. “È un giudizio, ”, ripeté tra sé.
+
+Ma nonostante ciò, nemmeno un segno proveniente dal Cielo avrebbe potuto fermarlo nel suo intento. Strappò una striscia dalla propria camicia per legarsi la gamba e, zoppicando a causa del dolore crescente, tornò verso le strade della città.
+
+Stava cercando una casa che non gli era sconosciuta, perché era un luogo dove coloro che hanno pochi amici possono sempre trovarne uno: la residenza di un certo signor Montague, finanziere e padrone di quelle strade misere. Mentre zoppicava, portando con sé il proprio bottino, imprecava.
+
+Il sole del mattino non gli portò alcuna gioia. Il “Cappotto Verde” sembrava diventare sempre più pesante ad ogni passo che faceva, fino a quando finalmente si trovò di fronte a una casa come tante altre di quelle piccole case sfortunate in cui le nostre città industriali marciscono. Solo che la sua vetrata era un po’ più sporca, il suo portone d’ingresso un po’ più trascurato, e la sua vernice un po’ più sbiadita rispetto a quella delle case vicine.
+
+Per un momento l’Uomo con il Naso Rotto esitò. Era ancora molto presto; forse al signor Montague non sarebbe dispiaciuto essere svegliato. Per lui, e per molti come lui, era importante mantenere la buona volontà del signor Montague. Poi si ricordò che tra poco il “Risvegliatore” avrebbe fatto il suo giro, e che quella misera strada piena di schiavi si sarebbe svegliata per lavorare al servizio dei ricchi della città.
+
+Quel pensiero lo decise. Bussò delicatamente con le nocche alla finestra del piano terra. Non ci fu risposta. Bussò una seconda volta. Una breve ma sgradevole imprecazione gli confermò che aveva svegliato chiunque dormisse lì dentro. Un minuto o due dopo, sentì delle pantofole muoversi con cautela nel corridoio. La porta si aprì leggermente, e apparve un uomo molto basso, molto vecchio, quasi gobbo, con una barba folta e disordinata che spuntava da una vestaglia ancora più untuosa della stessa barba. Stava nell’oscurità, dietro la porta semiaperta.
+
+“Chiedo umilmente scusa,” iniziò l’Uomo dal Naso Rotto, usando il cappotto verde come una sorta di scudo e offrendosi immediatamente in scuse. “Chiedo umilmente scusa, signor Montague, ma pensavo, ”
+
+“Curth, cosa pensavi?”, disse colui che portava quel nome antico legato alle crociate, con una voce così rauca da essere appena percettibile. “Curth, cosa pensavi? Entra!”
+
+L’Uomo con il Naso Rotto si intrufolò portando con sé qualcosa che un povero cacciatore potesse mostrare a chi avesse bisogno di rifugiarsi da un orso nel nido di un serpente.
+
+“Chiedo umilmente scusa,” ricominciò di nuovo nell’oscurità del corridoio, e l’antica figura barbuta con quel nome da crociato rispose.
+
+"#Zitti e state zitti!"
+
+L’Uomo con il Naso Rotto obbedì. Le pantofole caute e strascicanti presero la via. Si accese un fiammifero. Quella piccola figura pericolosa si alzò in punta di piedi e accese una fiamma di gas scoperto e senza protezioni. L’unica finestra che dava su quel passaggio era stata chiusa con assi.
+
+“Prendetelo alla luce, signor Montague, prendetelo alla luce!” disse con impazienza il visitatore, come se volesse aprire la porta di una stanza ancora più lontana, dove avrebbe potuto entrare la luce del sole mattutino.
+
+La sua mano era sulla maniglia. Con un ringhio strano, appena percettibile, il signor Montague colpì quella mano con un forte pugno al polso; il fatto che quell’uomo dal naso rotto non si offese dimostrava molto la grande stima di cui il signor Montague godeva tra i poveri della famiglia Ormeston.
+
+Sotto il getto di gas ardente, il signor Montague girava e rigirava il cappotto verde.
+
+“Dammi una sterlina,” disse dopo circa tre minuti di attenta ispezione.
+
+“Perché, signor Montague, signore!”, aveva appena iniziato l’altro, quando sentì un sibilo che formava le parole: “Che possiate morire!”, e avvertì sulla propria spalla una presa che non assomigliava affatto alla stretta di una mano umana, ma piuttosto a quella di un artiglio.
+
+L’Uomo con il Naso Rotto non era disposto a discutere. C'erano state una o due cose nella sua lunga e varia vita che, se il signor Montague le avesse menzionate anche solo sussurrando, lo avrebbero reso ancora meno propenso a discutere; inoltre sapeva che il signor Montague aveva un modo particolare di sussurrare all’orecchio della Memoria cose che una persona con maggior educazione avrebbe rispettato.
+
+Il signor Montague conosceva il valore del tempo.
+
+Lungo la strada si udirono i primi suoni del “Knocker-up”.
+
+L’Uomo con il Naso Rotto si ritrovò poco dopo in strada, con un sovrano in mano per acquistare un abito che costava venti ghinee; guardava la porta chiusa e le finestre sporche e prive di significato, all’interno delle quali si trovava ciò che desiderava.
+
+Desiderava che il nuovo proprietario trovasse gioia all’Inferno; lo esprimeva ad alta voce, con quella straordinaria amarezza che i poveri delle nostre grandi città riescono a provare in misura maggiore di qualsiasi altro essere umano sulla terra: perché tra tutti gli uomini, sono proprio loro i più infelici.
+
+Prese fuori la moneta d'oro che aveva appena ricevuto e il suo umore cambiò. La sputò per portare fortuna; si sentì stranamente leggero, poi si ricordò di quale peso si fosse liberato. Camminava senza difficoltà. Solo dopo aver percorso una cinquantina di metri si ricordò della sua ferita: sembrava essersi rimarginata rapidamente; non si era riaperta. Quasi avesse già guarito del tutto. Ora non doveva più preoccuparsi di lui. Il “Cappotto Verde” non era più nelle sue mani, e non aveva alcuna intenzione di tornarci.
+
+Ma in quella piccola, sporca stanza di quella casa lurida, quel piccolo portatore di quel vecchio nome legato alle crociate, il signor Montague, sedeva rannicchiato sul suo letto – un letto che aveva fatto lui stesso, o meglio, che lasciava sempre sfatto da una settimana all’altra – e esaminava attentamente, sulle sue ginocchia, la pelliccia, il tessuto, la qualità di quegli abiti magnifici.
+
+Sorrise, ma nel sorridere c'era anche un sogghigno. Perché Dio aveva creato il signor Montague in modo che quel sogghigno e quel sorriso facessero parte di lui stesso.
+
+C'era valore in quel pezzo di stoffa che aveva sulle ginocchia, ma era un valore di due tipi: uno per chiunque fosse disposto a comprarlo, e forse un valore ancora maggiore per il proprietario che avesse potuto recuperarlo. Considerò entrambe le possibilità; mentre ci pensava, seduto a fissare quella vasta distesa di stoffa verde, accadde qualcosa di strano. Non nel mondo esterno, né all’interno delle mura di quella stanza, ma nella mente dell’uomo anziano. All’improvviso, pensò alla Morte!
+
+Un tremito attraversò l’intera superficie della sua pelle, dalla nuca fino ai piedi. Tossì e sputò sul pavimento, senza traccia del “Cappotto Verde”; per un momento imprecò in una lingua che non era l’inglese. Poi quel pensiero svanì altrettanto rapidamente come era apparso, e lui tornò ad essere se stesso, anche se più debole di prima. La sua mano tremava mentre cercava di fare ciò che ogni mano sembrava incline a fare quando il “Cappotto Verde” si avvicinava: mise quella mano tremante nella tasca sinistra, ma non trovò nulla. Se l’aspettava. Era possibile che il suo visitatore avesse lasciato qualcosa? Per pura formalità, provò anche nella tasca destra, e, con sua grande sorpresa, estrasse il Libro degli Assegni!
+
+Lo guardò per un momento in modo stupido, senza capire come una tale ricompensa potesse essere stata abbandonata. Poi sorrise di nuovo, ma non con un sorriso felice. Lentamente, consultò il nome della banca e del proprietario, nonché i documenti relativi uno per uno.
+
+Le somme riportate lì dentro lo chiamavano come grandi messaggeri; facevano sollevare il suo esile vecchio petto e rendevano rigidi alcuni muscoli del suo corpo.
+
+Era nel bel mezzo del racconto quando, per così dire, tutto il suo essere sembrò svenire all’improvviso, bloccato dal rumore di una violenta pioggia di colpi contro la sua porta esterna.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="The Green Overcoat — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/clothing,concept/crime_and_punishment,concept/deception,form/novel,histref/the_crusades,setting/england"></span>
@@ -5259,6 +7023,84 @@ Mr. Montague knew all the ropes.
 “I understand,” said Mr. Ferguson genially, putting a reassuring hand upon Mr. Montague’s shoulder. “ Bless you! We wouldn’t lose you, Sam, not for di’monds, we wouldn’t! But we ‘re bound to go the bank, you know,” he added in his duty tone, “ and we ‘re bound to prosecute if we find who did the pinching!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO X.
+
+In cui un discendente dei Crociati rifiuta di nascondere merci rubate.
+
+Per quel solo momento – per quanto lungo o breve possa essere, nessuno che l’abbia provato può dirlo con certezza – per il tempo necessario affinché il corpo si riprenda dopo un’interruzione del flusso sanguigno, l’uomo anziano rimase immobile, i suoi occhi stranamente luminosi e fissi, come quelli di un uccello.
+
+Allora gli tornò la capacità di muoversi, e lo fece con la stessa velocità di un lucertola.
+
+Il suo vecchio e unto pigiama era stato tolto; addosso a quella misera, raggrinzita figura di anziano con quel nome “cristiano” c'era il pesante, solido cappotto verde inglese. Le sue braccia magre si sforzavano disperatamente di infilarsi nelle ampie maniche del cappotto, quando improvvisamente si sentì di nuovo bussare alla porta, accompagnato da un ordine deciso e autoritario, una voce che lui conosceva bene.
+
+Il signor Montague insistette, usando gesti del tutto diversi, per fargli indossare quel vasto e untuoso pigiama con cui, per tanti anni, si era muovuto nelle solitarie stanze della sua casa di quattro locali. Si trovava nel corridoio e cercava di gridare, forzando la propria voce a diventare rauca.
+
+“Romperai la porta! Romperai la porta!”
+
+Lo aprì. Fuori c'erano due uomini che conosceva; entrambi erano robusti e forti, con volti grandi e carnosi. Ognuno di loro aveva l’aria di un uomo addestrato e disciplinato. Quello che stava leggermente in avanti, essendo il superiore, aveva negli occhi intelligenti qualcosa che assomigliava alla gentilezza; entrambi, però, avevano lo sguardo di uomini coraggiosi, anche se non necessariamente leali.
+
+“Beh, Sammy?” disse quello che aveva il comando.
+
+“Oh, signor Ferguson! Signor Ferguson!” si udì la voce sommessa del signor Montague.
+
+“Beh, Sammy,” disse di nuovo il signor Ferguson, “quella volta per poco non hai perso tutta la tua vernice. Non eri addormentato, Sam,” aggiunse, facendo l’occhiolino; “tu, mai lo sei! Credo che dorma solo a cena, come gli uccelli notturni.”
+
+Il più giovane dei due visitatori sorrise, come se fosse suo dovere farlo di fronte a quella battuta eccezionale. Il signor Montague sorrise con il sorriso di un idolo anziano.
+
+“Signor Ferguson! Signor Ferguson!” disse con quella sua voce roca, “si divertirà sicuramente!”
+
+Li guidò dentro insieme ai due uomini più robusti. Era curioso notare come questi inglesi delle Midlands mostrassero una sorta di rispetto nel loro gesto, qualcosa di antico e ereditato, quando entravano nella casa di un altro uomo. Il più giovane di loro cercò di pulirsi le scarpe, ma non c'era nessun tappetino. Il signor Montague annusò e sorrise, o forse sogghignò e sorrise.
+
+“Signore”, disse al secondo dei due, “non so come si chiama…”
+
+Non lo disse in modo molto piacevole. “Lascia perdere, Samuel,” disse cordialmente il signor Ferguson, “è appena entrato a far parte della squadra. Lo conoscerai presto.” E rise ad alta voce, in un modo molto diverso da quello del signor Montague.
+
+“E ora, Samuel,” aggiunse, “non abbiamo molto tempo da perdere.”
+
+Si tirò su in piedi (dopo tutto era stato un soldato) e guidò meccanicamente verso la seconda stanza al piano terra, quella sul retro: una stanza che aveva visitato molte volte in passato, nel suo ruolo di agente della polizia di Ormeston, l’uomo che conosceva meglio di chiunque altro quei ricevitori e sapeva come gestirli al meglio. Il signor Ferguson, insomma, era la “providenza” di questi finanziatori: li gestiva, li salvava, e solo quando era assolutamente necessario li puniva, ma nel complesso li teneva sotto controllo (per motivi strategici) e attraverso di loro monitorava tutte le strade attraverso cui i più avventurosi tra i poveri cercavano di approfittare delle classi benestanti.
+
+Il signor Montague mescolò le carte come aveva fatto molte volte in passato; lo fece con cautela, seguendo quell’uomo robusto. Mentre le mescolava, protestava soltanto per il gusto del rituale, e intanto ridacchiava tra sé, come se stesse parlando ad alta voce.
+
+“Me! Proprio io tra tutti gli uomini… Aiuto!”
+
+Il signor Ferguson entrò. Non c'era molto lì dentro: cinque o sei mobili appena venduti all’asta, che il poliziotto riconobbe come acquistati legalmente; un dipinto a olio estremamente sporco, in un quadro ancora più lurido, che i suoi occhi ingenui pensavano potesse essere opera di un grande maestro. Lo calciò con il piede.
+
+“Cos’è quello?” disse.
+
+Il signor Montague era allarmato.
+
+“Non calciare quella con il piede adesso. Per favore, non farlo!” sussurrò lui con voce roca e supplicante. “Per favore, no. È tutto a posto, proprio come dice Rechts. Forse dovrei morire. Sicuramente.”
+
+Alzò lo sguardo con ansia e posò una mano protettiva su di esso.
+
+Il poliziotto lo spostò bruscamente in avanti e vide un’etichetta sul retro. Si ricordò della promozione e lo lasciò andare.
+
+“Sì,” disse, “va bene così, Samuel.”
+
+Un libro polveroso, la rilegatura della cui metà era stata strappata, giaceva su uno scaffale; praticamente senza alcun valore. Il signor Ferguson lo prese in mano meccanicamente, quasi senza sapere cosa stesse facendo; ma proprio in quel momento sentì un suono quasi impercettibile provenire dalla bocca dell’antico ricevitore: una sorta di rantolo. Era un suono che tradiva ansia, e lo avvertì. Prese il libro e lo aprì: era una copia della “Storia di Ormeston” di Halidon. Girò le pagine meccanicamente, poi stava per richiuderlo quando notò qualcosa di insolito tra quelle pagine: un angolo di carta molto più bianca, rigida e croccante, inequivocabile. Il signor Ferguson tirò fuori una banconota da cinque sterline.
+
+“Vorrei tanto poter, ” iniziò quella voce vecchia e rauca, quasi inudibile, per poi interrompersi.
+
+Il signor Ferguson si girò e fece un enorme occhiolino.
+
+“Al contrario, Sammy! Spero che non accada. Lunga vita a te,” disse.
+
+Tornò di nuovo al libro, sfogliò attentamente le pagine e ne estrasse una dopo l’altra dieci banconote da cinque sterline; poi scosse il libro con forza e concluse che non ce n’erano più.
+
+“Abile!” disse, ammirandola.
+
+Il signor Montague conosceva tutte le insidie del mestiere.
+
+“Posso dirtelo, sei davvero intelligente!” sussurrò con entusiasmo.
+
+“Ah, so tu lo saresti capace!”, disse il grande uomo del Midland ridendo bonariamente. “Non sono certo merci di lusso, vero?”
+
+“No, signor Ferguson, no,” sussurrò di nuovo quella voce, con un’ansia patetica, “né i miei risparmi personali. Non vi mentirò, signor Ferguson. Non lo farò! L’ho fatto per aiutare una vedova!”
+
+“Capisco,” disse gentilmente il signor Ferguson, posando una mano rassicurante sulla spalla del signor Montague. “Dio ti benedica! Non ti perderemmo mai, Sam, per nulla al mondo! Ma dobbiamo andare in banca, sai, ” aggiunse con tono ufficiale, “e dobbiamo assolutamente scoprire chi ha commesso questo furto!”
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_02" data-title="The Green Overcoat — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/corrupt_official,motif/money_and_gold,motif/clothing,motif/prison,concept/crime_and_punishment,concept/superstition_and_omen,concept/greed_and_money,concept/poverty,concept/deception,form/novel,form/satire"></span>
@@ -5317,6 +7159,60 @@ In his old head, so clear, so narrow and so keen, there ran in spite of reason t
 For a moment he fingered (and felt sacrilegious as he did so) the right-hand pocket. He touched within it the cheque book. There arose in him almost simultaneously a vision of what one could do with the cheque book of a really wealthy man, a man with a large balance for his private whims, a man known to be generously careless; and as he had that vision there came with it another vision — the vision of the inside of a British prison, the nearest thing to Hell which God permits on earth It was the second vision that conquered. The old man drew his fingers from that cheque book as a man in cold weather draws, his fingers reluctantly from the fire.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Montague fu rassicurato.
+
+“Sono una sorta di banchiere, signor Ferguson”, sussurrò tristemente. “Ho davvero fatto tutto questo per essere d’aiuto”.
+
+“Lo sappiamo, Sammy,” disse l’uomo grosso, sbattendo di nuovo le palpebre in modo ponderoso, “è stato solo un colpo di sfortuna. Non ne subirai le conseguenze, a meno che non scopriamo che quella vedova, il signor Montague, fosse stata rassicurata e abbia sorriso davvero. E anche quel poliziotto di grado inferiore ha sorriso, un sorriso sincero. Era lì per imparare i trucchi del mestiere, ma ne ha capiti solo metà.”
+
+“Guarda qui, Samuel,” disse l’uomo grosso, girandosi improvvisamente e guardandolo dritto negli occhi, “non si tratta di quello, capisci? Nemmeno questa volta vogliamo fare un'ispezione generale.” (Mentre parlava, piegò con cura le banconote, le legò e se le mise in tasca, annotando i loro numeri uno per uno con una penna sul suo portafoglio.) “Stiamo cercando qualcosa di più importante. Ora capirai: se qualcuno lo trova, non ti succederà nulla, Samuel. Quindi pensaci bene! Hai mai sentito parlare del signor Brassington?”
+
+Il signor Montague stava per scuotere la testa, quando all’improvviso si ricordò che tutti a Ormeston conoscevano il signor Brassington; quindi, invece di scuotere la testa, annuì, in modo distratto. Tutta la sua mente acuta e ossessiva era concentrata sul nome “Brassington”: quel nome, infatti, era stato scritto in caratteri grandi e evidenti sulla copertina del suo costoso libretto degli assegni, un pensiero che gli procurava una sensazione di calore, proprio nel taschino situato sotto il suo pigiama, sul lato destro.
+
+Il signor Ferguson non disse più nulla, ma guidò il cammino di ritorno verso quella piccola camera da letto sporca e disordinata. Si sedette sull’unica sedia traballante, assumendo una posizione quasi militare, consapevole che quel momento fosse solenne. Il signor Montague si sedette sul letto sporco e accovacciato, osservando i due inglesi con un distacco stanco e indifferente.
+
+“Samuel,” disse il signor Ferguson con un tono nuovo e più serio, “tu conosci tutte le storie e i racconti che circolano da queste parti, vero?”
+
+Il signor Montague non rispose; cercò di sorridere, ma interruppe quel sorriso con un colpo di tosse.
+
+“Beh, adesso c’è il cappotto verde del signor Brassington. Forse lo conosci tu; la maggior parte delle persone lo conosce. Lui è dentro quel cappotto.”
+
+Il signor Montague scosse la testa con aria disperata, ma continuò ad ascoltare.
+
+“Comunque, non è qui,” continuò il signor Ferguson. “Non saresti mai riuscito a falsificarlo, Sammy. Non ne vale la pena, altrimenti avremmo già controllato di sopra,” aggiunse con aria saputa.
+
+Il signor Montague sorrise in risposta, un sorriso sincero. Gli agenti di polizia sapevano quando dovevano salire al piano di sopra e quando no.
+
+“Non vale nemmeno venti sterline,” continuò seriamente il signor Ferguson, “se solo lo vedeste. Non vale, ” (cercò nella sua mente un paragone, ) “Perdio, non vale nemmeno sei mesi di lavoro!” concluse con enfasi.
+
+Il signor Montague accompagnò questo discorso con un continuo e lento scuotimento della testa e uno sguardo vago e confuso nei suoi piccoli occhi luminosi, come se stesse cercando di ricordare qualcosa riguardo a quell’argomento, come se volesse individuarne qualche traccia tra le molte persone che conosceva.
+
+“Non è qui,” disse per l’ultima volta il signor Ferguson alzandosi, “lo vedo chiaramente, e vi conosco bene. Ma se doveste trovarne traccia, ”
+
+Il sussurro dell’uomo anziano era vicino all’orecchio del poliziotto, che anch’egli si era alzato in piedi. Era un suono rassicurante e roco.
+
+“So quali sono i modi in cui mi sdraio a letto!”, disse. Poi fece un battito di ciglia, rapidamente, come un uccello, e il signor Ferguson fu completamente soddisfatto.
+
+C'era ancora un ultimo rituale da compiere prima che questo ingranaggio del nostro vasto e ammirevole sistema amministrativo potesse finalmente entrare in funzione e svolgere il proprio compito. Il vecchietto barbuto si diresse verso un angolo, prese una bottiglia e tre bicchieri, versò generosamente il liquido nei loro bicchieri e ne versò anche un po' nel proprio. Poi tutti e tre – i due inglesi e il crociato – bevvero insieme.
+
+Il signor Montague aveva visto l’interno di una prigione una volta: era stato trent’anni prima, e per sole poche settimane. Allora era nuovo in questo paese. Il signor Ferguson sapeva che il signor Montague non provava alcun desiderio ardente di rivedere quelle scene, quindi il poliziotto anziano uscì sotto il sole del mattino e si incamminò per strada insieme al suo subordinato. Indossavano quegli assurdi abiti identici, con scarpe uguali e stivali regolamentari; quando la polizia si camuffa in abiti civili, quell’aspetto attira l’attenzione di tutti i poveri che li vedono passare.
+
+* * * *
+
+Il signor Montague, dal suo piccolo studio, sbirciò attraverso le tende.
+
+Il suo viso non era più lo stesso. Era il viso di un uomo più giovane, ma al contempo ancora più malvagio.
+
+Si tolse quella vestaglia untuosa, fatta di pelle simile a quella di una lucertola, come se si stesse preparando deliberatamente a compiere qualche attto malvagio. Strappò via quel tessuto malefico, rivestito di pelliccia verde; lo sputò addosso, poi pulì con cura il punto in cui aveva sputato e lo maledisse a lungo, con una voce disgustosa, in una lingua che non è la nostra. Di tanto in tanto, le sue mani, simili ad artigli, sembravano voler strappare quel tessuto; ringhiava contro di esso e ci graffiava sopra due volte, ma non riusciva a danneggiarlo; quell’indumento avrebbe valso ben venti sterline.
+
+Se ne stava seduto lì, un’effigie scheletrica con la testa barbuta e troppo grande, avvolto soltanto nella vecchia camicia da notte della sua solitudine. Per qualche motivo misterioso legato alla sua mente, ora si allontanava da quei pezzi di stoffa verde distesi sul letto, ora li guardava come se fossero esseri viventi. Poi iniziò a mormorare qualcosa riguardo alle sue dieci banconote da cinque sterline ciascuna. Ne dava dei nomi, trasformandole in strane valute straniere. C’era dell’altro in banca. Oh, sì, c’era dell’altro! Ma per tutti quei giorni le aveva tenute nascoste, aspettando che tutto si sistemasse. E quanto aveva pagato poco per quel denaro. E come aveva pensato bene a nasconderlo. Che piano ingegnoso, davvero, per evitare occhi curiosi. Quei cinque pezzi di carta fragile, nascosti tra le pagine di un libro. E quelle visite regolari della “Forza”. Regolari come il passaggio dei mesi. Mai una perdita prima d’allora.
+
+Nella sua vecchia mente, così chiara, così ristretta e così acuta, nonostante la ragione, scorrevano le abilità di secoli passati e storie di demoni che abitavano nelle cose umane. Non aveva mangiato. Era stato svegliato troppo presto dal sonno. Aveva sofferto atroci dolori e perdite. Era tutta colpa del Cappotto Verde, di quella maledetta cosa davanti a lui! Ma quella cosa valeva venti sterline.
+
+Per un momento accarezzò con le dita la tasca destra; sentì che farlo fosse quasi un atto sacrilego. All’interno toccò il libretto degli assegni. Quasi contemporaneamente gli balenò in mente l’idea di ciò che si potesse fare con il libretto degli assegni di un uomo davvero ricco, un uomo con un cospicuo conto a disposizione per i propri capricci personali, un uomo noto per la sua generosità, e insieme a quell’immagine ne emerse un’altra: l’immagine dell’interno di una prigione britannica, la cosa più simile all’inferno che Dio permetta sulla terra. Fu questa seconda immagine ad avere la meglio. L’uomo anziano ritirò le dita dal libretto degli assegni, proprio come qualcuno in tempo freddo si stacca a malincuore dalle fiamme del fuoco.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_03" data-title="The Green Overcoat — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/money_and_gold,motif/clothing,motif/prayer,concept/crime_and_punishment,concept/superstition_and_omen,concept/greed_and_money,concept/poverty,concept/deception,form/novel,form/satire"></span>
@@ -5358,6 +7254,44 @@ He was off, was Mr. Montague, shuffling out of the little shop hurriedly across 
 
 An odd relief filled him as he walked, and an odd lightness as he entered. He had got rid of an accursed thing. And it so happened that when he reached that filthy little room of his, as sleep was overpowering him, he knelt and prayed to a God of the Hills, a strange and vengeful but triumphant God, who had saved his servant Montague.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poi, con improvvisa fretta e mormorando continuamente quelle strane maledizioni in una lingua che non è la nostra, ripiegò quel oggetto, prese da sotto il letto fatiscente (dove ne aveva una grande quantità) un grosso foglio di carta sporca e spessa, e uno dei tanti pezzi di corda lì arrotolati.
+
+Lui avvolse il cappotto verde in un fagottino, in fretta e in modo disordinato. Si infilò un paio di pantaloni, si coprì il torace con un grande mantello, assolutamente inadatto a quella stagione, cercò a tentoni un cappello che aveva tenuto per dieci anni; indossò i suoi stivali sottili, appuntiti e elastici, e uscì sotto il sole, portando il fagottino sotto il braccio. Non fu libero finché non se ne liberò davvero. Ma quel cappotto valeva venti sterline!
+
+Mentre l’uomo anziano zoppicava per la strada, occhi lo osservavano da una finestra all’altra. Per i poveri e disperati di Ormeston, lui rappresentava ciò che alcune grandi banche rappresentano per i “Maestri d’Europa”: li spaventava, li odiavano, ma gli obbedivano; e quando lo incontravano, pochi avrebbero osato contrariare i suoi ordini, se fossero stati da soli con lui.
+
+Dio del signor Montague gli inviò un uomo che stava da solo, o meglio, che se ne stava sdraiato da solo, appoggiato al muro angolare di una casa chiamata, con rammarico devo dire, “The Pork Pie”; un uomo già condannato agli occhi dei rigidi magistrati di Ormeston. Condannato a un prezzo che doveva essere pagato in oro pubblico, e questo prezzo era rappresentato da uno dei loro stessi membri, il proprietario di quella casa.
+
+La transazione tra il destinatario e il “passeggiatore pigro” fu rapida. Il signor Montague si avvicinò a lui con quell’aria inconfondibile di padrone, che noterete anche quando, in un altro mondo, un finanziere si avvicina a un politico. E con quell’aria inequivocabile di servo, che notereste ancora quando, nello stesso mondo, il politico riceve il finanziere, il “passeggiatore pigro” accolse il signor Montague.
+
+Il pigro non si raddrizzò né si mise sull’attenti per dimostrare la propria inferiorità rispetto all’uomo anziano. Nelle loro relazioni non c’era nulla di militare. Ma, mentre se ne stava sdraiato, cercò in ogni modo di apparire ancora più miserabile e decadente del solito. Quando l’anziano ricevente, con poche parole rauche e a bassa voce, gli consegnò il pacco, il pigro lo prese. Gli fece piacere sentire l’ordine di Mr. Montague – anche se espresso attraverso un osceno giuramento – che gli permetteva di vendere liberamente il contenuto di quel pacco dove voleva; tuttavia, Mr. Montague (che sapeva cosa accadeva a ogni uomo) esigeva la metà dei profitti, e poi se ne andò. Dopo che queste parole furono pronunciate, l’anziano si allontanò zoppicando, e il pigro smise di pensare a lui, tranne come a un padrone terribile al quale avrebbe sicuramente obbedito e al quale avrebbe pagato senza esitazione la propria debita. E in un certo senso, anche come a un benefattore.
+
+Ma quando si liberò di quella cosa violenta e terribile, diede le sue istruzioni e reclamò ciò che gli spettava, quello che fece il signor Montague fu questo: prese un tram in una strada parallela vicina, pagò la sua mezza penna e andò direttamente al Lydgate, un vecchio quartiere della città ormai pieno di baraccopoli, dove viveva un certo polacco di nome Lipsky.
+
+Aveva utilizzato i mezzi più veloci a sua disposizione, ma comunque guardava nervosamente alle sue spalle, temendo che qualcuno che portasse un pacco potesse seguirlo.
+
+Cosa potrebbe significare Lipsky, un polacco con quel nome strano e distante, per un uomo che porta quel vecchio nome legato alle crociate, quel nome occidentale di Montague che nessuno ha mai conosciuto?
+
+Alcuni dicono che fosse un figlio loro, il che è certamente impossibile; altri che fosse un cugino, il che sembra improbabile. Infatti, i Montague si sposano mai con i Lipsky?
+
+Il tram passò davanti alla porta di quel piccolo negozio di abbigliamento – un intero fronte pieno di etichette con grandi prezzi bianchi scritti sopra – e sopra la parola “Lipsky” c'erano lettere dorate grandi, su sfondo marrone. Il signor Montague scese dal tram e si diresse verso l’ingresso di quel negozio.
+
+Lo trovò da solo al bancone all’interno del negozio.
+
+Il signor Montague non aveva un attimo da perdere, e proprio in quel momento diffuse la notizia riguardo al cappotto verde.
+
+Il signor Lipsky era incredulo. Non c'era nessun altro in quel piccolo negozietto. L’uomo più anziano si chinò sul bancone e sussurrò qualcosa all’orecchio del giovane. E quella parola non era inglese. Il viso del giovane assunse un colore diverso; sembrava formaggio che diventasse gesso.
+
+“Vah!” disse il Polacco. “Non tenerla? Davvero non vuoi? Tienila, vendila. Questo è fare affari! Tienila per tutto il tempo necessario e vendila al prezzo più alto possibile. Non tenerla? Che sciocca superstizione, ”
+
+Il signor Montague non disse più nulla. Aveva adempiuto al proprio dovere. Qualunque cosa potesse accadere al polacco, se per caso quel “Grande Cappotto Verde” dovesse finire nelle sue mani, la sua coscienza sarebbe stata pulita. Il debito che i crociati hanno verso i polacchi era stato ripagato: non aveva derubato i suoi fratelli.
+
+Se n'era andato, il signor Montague. Uscì di fretta dal piccolo negozio, attraversò in tutta fretta la linea del tram di Lydgate, e poi tornò a casa sua, per strade tortuose e strette.
+
+Un insolito senso di sollievo lo invase mentre camminava, e una strana leggerezza lo avvolse quando entrò nella stanza. Si era liberato di qualcosa di maledetto. E proprio mentre stava per addormentarsi in quella squallida stanzetta, si inginocchiò e pregò un Dio delle Colline: un dio strano, vendicativo, ma anche trionfante. Il dio che aveva salvato il suo servo Montague.
 
 
 
@@ -5427,6 +7361,70 @@ So Monday passed, and what happened on the Tuesday and why, a return to others w
 The voice you will find, Readerkin, was that of Mr. Kirby, and Mr. Kirby was asking in the most direct fashion possible for the coat, for the Green Overcoat; he made no bones about it, he put it square. Very hurriedly did Lippy dress, and very hurriedly, weak as he was, did he totter down the stairs that Tuesday Morning.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XI.
+
+In cui un polacco è meno scrupoloso.
+
+Il nome di quell’uomo era James; quello era il suo nome cristiano. Quale fosse il suo cognome è impossibile scoprire, data questa distanza nel tempo: era nato nel 1868, cresciuto nell’ospizio per i poveri, apprendista di un fabbricante di corde, aveva trascorso diverso tempo in prigione con vari pseudonimi, poi era andato per mare, si era naturalizzato cittadino americano, era tornato in Inghilterra come valletto al servizio di un turista, era stato licenziato pochi anni prima per furto. E in quel momento faceva parte della “Nuova Burocrazia”: cioè era uno dei controllori incaricati di vigilare sull’Ormeston Labour Exchange. Gli veniva pagato (2 scellini e 6 pence per ogni condanna) affinché si assicurasse che i poveri non ingannassero gli alti funzionari di quell’inestimabile istituzione pubblica, affinché rivelasse la vera storia dei richiedenti e fornisse prove segrete contro di loro, in modo che questi potessero essere imprigionati e inseriti nella lista nera se nascondevano il proprio passato al Segretario, un “Valente Servitore dello Stato”.
+
+Quella mattina felice, James uscì nel grande mondo di Dio con un fagotto sotto il braccio. Due pensieri contrastanti lo turbavano: da un lato, dove potesse vendere quel contenuto al prezzo più alto; dall’altro, dove potesse farlo in modo sicuro. Problemi del genere turbano tanto gli uomini importanti dei nostri tempi quanto coloro che vagano indossando abiti stranieri; sono alla radice delle questioni moderne.
+
+Più ci pensava, più James era sicuro che quel pacco contenesse vestiti; quindi, il mercato ideale per venderlo doveva essere un negozio nel quartiere di Lydgate, una zona vecchia della città ormai piena di baraccopoli, dove viveva un certo polacco di nome Lipsky. Quest’uomo, secondo quanto si diceva in giro, aveva buone relazioni con la polizia, e nelle nostre città inglesi questo è davvero tutto ciò che conta quando si tratta dei poveri. Lippy non gli avrebbe dato il giusto prezzo, ma gli avrebbe garantito totale sicurezza nell’affare. Forse gli avrebbe offerto solo un quarto del valore reale, ma almeno gli avrebbe permesso di utilizzare i soldi liberamente, senza che la polizia ponesse domande scomode.
+
+Che vantaggio rappresenta assicurare alla polizia la propria integrità!
+
+Tuttavia, riteneva vantaggioso scoprire di quale valore potesse essere quel pacco. Anche se avesse ottenuto solo un quarto del suo valore dal Polo, avrebbe voluto sapere esattamente di cosa si trattasse.
+
+Si trascinò pigramente per la strada. Il suo tempo apparteneva solo a lui. Guardò attraverso una porta d’ingresso trascurata in un cortile vuoto, vi entrò e, dietro uno schermo di oggetti ammucchiati, si guardò intorno per vedere se ci fossero dei “tiranni” nei paraggi. Non vedendo alcun elmo, e quindi nessun “tiranno”, sciolse il pacco e ne tirò fuori il cappotto. Fu piacevolmente sorpreso: si aspettava qualcosa di rovinato, ma invece no. Non era un esperto in materia, ma avrebbe rischiato per sempre la vera essenza dell’anima umana e sarebbe stato costretto a condividere l’eternità con i demoni, se non fosse stato per quei due scellini; magari, se giocato con abilità, ne avrebbero guadagnati anche tre.
+
+Aspetta un momento, forse ci è qualcosa nelle tasche. Provò nella tasca sinistra, niente; nella tasca destra, solo quel libretto degli assegni di forma oblunga, con quattro assegni già staccati. All’inizio pensò di buttarlo via, perché indicava chi possedeva quei vestiti. Poi si ricordò di cos’erano le “indagini” e decise di gettare via proprio l’idea che gli era venuta in mente, invece del libretto stesso. Provò a decifrare il nome scritto sopra, ma non ci riuscì. James sapeva leggere e scrivere quando aveva lasciato la scuola, ma era passato molto tempo da allora. Da allora aveva svolto lavori molto più utili.
+
+Poi ricordò l’urgenza sospetta del signor Montague. Cominciò a chiedersi se il pacco fosse davvero al sicuro. Decise di affrettarsi; e per quanto riguardava il prezzo, beh, avrebbe accettato qualsiasi somma riuscisse a ottenere.
+
+Rimise di nuovo il pacco insieme e, con una serenità mentale nuova per lui e non del tutto piacevole, si incamminò verso Lydgate. Il signor Montague avrebbe potuto risparmiargli quelle paure. Era ancora presto; James non aveva nemmeno un penny e quindi non poteva prendere il tram. Ma in qualche modo quel pacco risultava insolitamente ingombrante o insolitamente pesante.
+
+Provava disgusto per quella cosa. Quel disgusto cresceva sempre di più, qualcosa non andava. Mentre camminava da solo lungo quella strada al mattino, avanzando con determinazione, sentì dentro di sé gli echi di una voce che non voleva ascoltare. Era la voce di una donna, non sobria, ma ancora legata a lui. Pensò che dopo dieci anni, e in un mattino d’estate, non potesse ricordarsi una cosa del genere. È strano che anche i poveri possano detestare simili ricordi. James li odiava profondamente. Forse, in quel momento, era più sensibile della maggior parte dei poveri.
+
+Sì! Come beveva. Maledetta. Perché diavolo pensava a cose del genere? E quanto era chiara la sua voce. Poi vide il nome “Lipsky” laggiù in lontananza. Era già arrivato al Lydgate. Può un uomo essere ubriaco nel tepore dell’alba, senza aver bevuto nulla? No. L’alcol attenua simili sensazioni. Eppure aveva sentito quella voce con estrema chiarezza dentro di sé.
+
+Entrò a fatica nel negozio, cercando di scacciare quei pensieri dalla sua mente, e pensava al sovrano, o almeno a due sovrani.
+
+Il gentiluomo incaricato – ce n’era solo uno – scambiò saluti con James. Uno era polacco e l’altro inglese; ma entrambi erano esseri umani, e quindi fratelli. Allora James sciolse il pacco. Ma quando lo aprì, divenne evidente che, sebbene fossero entrambi umani, Lipsky era polacco e non proveniva dalle Midlands: lo allontanò da sé con i palmi rivolti verso l’esterno, facendo scivolare i polsi sul bancone e muovendo le dita come piccoli serpenti nell’aria. Lippy, invece, non voleva accettarlo affatto.
+
+James lo guardò, ma non capì.
+
+“L’ho capito bene, l’ho fatto davvero!” disse.
+
+A Lippy non piaceva nemmeno guardarla.
+
+“Non lo voglio, no!” esclamò James (non avrebbe mai potuto spiegarvi il perché), e Lippy, chinandosi su di lui con un atteggiamento familiare ma insolente, gli disse (in inglese polacco) che se provava a venderlo non sarebbe rimasto libero a lungo. James considerò questa una vera e propria tradizione, e nel suo cuore decise di vendicarsi. Cosa aveva fatto per meritare una tale minaccia? L’atmosfera che regnava tra quegli uomini, mentre quel pezzo di stoffa giaceva tra loro, era irreale e fantastica. Ognuno la percepiva a modo suo, nel proprio modo completamente diverso. Cose del genere, se volete scusarmi, possono accadere anche ai poveri, proprio come accadono ai ricchi. Che sia a causa dell’alcol o di altro, non lo so. Ma c’è il destino, c’è la costrizione. E c’è quella profonda inquietudine dell’anima che aleggia sopra quei banchi sporchi nei quartieri poveri, proprio come aleggia sopra i tavoli dei politici quando si negoziano affari simili in un mondo più grande. James legò di nuovo il suo fagotto e se ne andò senza dire una parola.
+
+Una parte di lui suggeriva che i poliziotti fossero troppo vicini nella loro indagine e che Lippy lo sapesse; ma un’altra parte di lui, più permanente, più reale, più profonda, percepiva la verità. Anche lui aveva provato terrore; sentiva vagamente che Lippy conoscesse la causa di quel terrore, e che per entrambi ci fosse qualcosa di strano legato a quella “Cosa”. L’anima di Lippy era in pericolo.
+
+Oh! James lo sapeva molto bene. Quel grosso fagotto sotto il suo braccio sinistro pesava terribilmente su quella parte primordiale di noi stessi, quella che risiede dentro di noi; a causa sua, tutte le cose meno desiderate e più attentamente dimenticate della sua vita tornavano ad assalirlo, facendolo impazzire. Con la semplicità tipica della sua classe, pensava che il male derivasse dal fatto stesso che quel cappotto fosse stato rubato. A differenza delle persone più istruite, non aveva mai nemmeno immaginato che rubare potesse essere giusto; sapeva sempre che era sbagliato. Aveva voglia di lasciare quel cappotto in mezzo alla strada, senza curarsi dei rischi. L’avrebbe fatto subito, se non avesse sentito dei passi affrettati alle sue spalle e percepito una mano morbida che gli toccava la spalla. Era Lippy.
+
+I polacchi, quando entrano nel settore del commercio di abiti di seconda mano, dimostrano di avere spiccate capacità commerciali. La loro antica cavalleria sembra abbandonarli in questo tipo di attività, e qualcosa di materiale prende il posto dei loro sentimenti nobili. Lippy si era rimproverato; aveva sofferto nel vedere la figura di quel individuo allontanarsi lentamente e con esitazione, carico di un oggetto così prezioso.
+
+Con la scomparsa del Cappotto Verde, anche gli avvertimenti soprannaturali (per i quali si disprezzava) erano svaniti; ricordava soltanto il loro valore assolutamente banale. Non riusciva a sopportare quella perdita, quindi li aveva seguiti.
+
+Il pigro James si girò di scatto, sorpreso, e istintivamente spinse il fagotto verso l’uomo che, ne era certo, aveva cambiato idea riguardo alla sua prima decisione. Lippy lo afferrò, con sensi di colpa, in modo furtivo e violento, e senza dire una parola tornò immediatamente al suo negozio. Quanto a James, continuò per la sua strada, notando improvvisamente quanto fosse piacevole quella mattina. Quell’ottimo “osservatore” e “controllore” presso l’Ufficio Lavoro di Ormeston, quel simbolo del libero lavoro, quel fedele servitore dello Stato, quel membro della nostra nuova burocrazia per la riforma sociale. Era di nuovo se stesso. Proseguì camminando e fischiettando; in pochi momenti gli risultò facile dimenticare tutta quella situazione e i ricordi legati ad essa. Aveva consegnato il fagotto, e ora era Lippy a prendersi cura del bambino.
+
+Nei pochi passi che lo separavano dal suo negozio, il Polacco non ebbe il tempo di pentirsi, anche se si sentiva a disagio. Il signor Montague era un uomo strano. Aveva una saggezza insolita, leggeva libri strani. E se il signor Montague era venuto ad avvertirlo, beh.
+
+Lippy scartò quella paura superstiziosa. Aprì il pacchetto, osservò quell’oggetto di colore verde sacro, controllò le tasche (naturalmente), vide il libretto degli assegni e quel nome illustre. Rabbrividì – ma ne fu anche compiaciuto. Poi riavvolse tutto, mise il pacchetto in un grande cassetto sotto il bancone, emise un sospiro di sollievo meccanico e iniziò a occuparsi dell’organizzazione delle merci da vendere quel giorno.
+
+Ma man mano che quel giorno proseguiva, il “Polo” non era più se stesso. Era troppo nervoso, troppo scattoso con i clienti; veniva influenzato anche dai suoni più lievi alla sera, e per tutta la notte riusciva a dormire solo a tratti, svegliandosi continuamente a causa di sogni confusi riguardanti vendette inspiegabili.
+
+Il giorno dopo, di venerdì, Lippy era molto malato. Nessun rimorso lo tormentava; non aveva fatto del male a nessuno. Eppure, nella febbre, soffriva terribilmente a causa di una sorta di senso irrazionale del male.
+
+La vecchia donna che si prendeva cura di lui aveva chiamato un medico. Per tutto il lunedì, Lippy, indebolito nel suo letto di malato, lottò contro le spese mediche. Infatti, era stato costretto a pagare un ragazzo poco affidabile – non polacco e quindi inadatto al commercio – affinché si occupasse del negozio; due volte lasciò il letto, a rischio della propria vita, per verificare che nulla danneggiasse la sua attività. Ogni volta che si avvicinava a quel bancone con il cassetto e il pacchetto nascosto al suo interno, i suoi sintomi peggioravano; doveva essere aiutato a tornare, barcollante e tremante, nel suo misero letto e nella sua stanza di sopra.
+
+Passò lunedì, e ciò che accadde martedì – e il motivo per cui – lo spiegheranno altre persone che si erano intromesse nella faccenda del “Cappotto Verde”: Perché, la mattina di martedì, Lippy si svegliò riposato, ma molto debole; perché ebbe la strana sensazione che le cose stessero migliorando, anche se non riusciva a spiegarne il motivo; e perché, nel tardo pomeriggio dello stesso giorno, sentì nella bottega sottostante una voce che si rivolgeva alla sua assistente con un accento molto insolito per quel tipo di luogo. Perché Lippy ascoltò attentamente alla porta e pensò di riconoscere quella voce.
+
+La voce che sentirai, Readerkin, era quella del signor Kirby, il quale chiedeva in modo molto diretto quel cappotto, quel “Cappotto Verde”; non girava intorno alle parole, andava dritto al punto. Lippy si vestì molto in fretta e, nonostante fosse debole, scese le scale con grande precipitazione quella mattina di martedì.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_01" data-title="The Green Overcoat — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/trickster,motif/house_mansion,motif/money_and_gold,concept/greed_and_money,concept/deception,concept/crime_and_punishment,form/novel,form/satire"></span>
@@ -5482,6 +7480,58 @@ Mr. Postlethwaite, like most of his kind, was rather relieved by insults than fi
 
 “You needn’t laugh, Kirby!” thundered the aged Postlethwaite. “Oh, you’ll laugh the other side of your mouth before I’ve done! Ruined, Kirby! Smashed! Destroyed! And no clue!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XII.
+
+In cui il Lettore, se possiede anche solo un briciolo di buon senso, inizierà a comprendere l’inevitabile conclusione di questo intrigo.
+
+Lunedì è il primo giorno lavorativo della settimana: e di lunedì – almeno in alcuni lunedì – il signor Kirby andava davvero in ufficio.
+
+Finora, il signor Kirby aveva sempre rispettato i propri doveri, le abitudini consolidate o le tradizioni secolari; insomma, faceva tutto ciò che riteneva giusto. Ogni lunedì mattina, andava nel proprio ufficio. Era una sorta di superstizione da cui non riusciva a liberarsi, anche se avrebbe dovuto farlo. Il suo reddito, ampio e in aumento, proveniva principalmente dagli investimenti; era del tutto privo di avarizia, non aveva famiglia né eredi. Gli piaceva che fossero i suoi soci più giovani a svolgere il lavoro, e condivideva volentieri i risultati finanziari ottenuti. Tuttavia, l’azienda si chiamava “Kirby e Blake”, e il suo nome era Kirby. Penso che avesse un senso interno, inespresso, del fatto che, mantenendo quell’apparenza di frequentare regolarmente l’ufficio ogni lunedì mattina, si comportasse meglio sia nei confronti dei suoi concittadini di Ormeston che dei suoi numerosi amici.
+
+Comunque sia, ci andava sempre; di solito dopo le undici, finché osava; e se ne andava sempre; di solito prima dell’una, finché la sua coscienza glielo permetteva. Invariabilmente diceva che sarebbe tornato nel pomeriggio, ma quasi sempre non lo faceva. A meno che non entrasse solo per guardare intorno con aria vaga, porre qualche domanda irrilevante, dare un’occhiata all’orologio e dire di essere in ritardo per un appuntamento. Poi se ne andava di nuovo.
+
+C'erano davvero occasioni in cui i consigli abituali su cui il capo dei suoi conoscenti faceva affidamento richiedevano un colloquio formale in ufficio; di solito, tuttavia, preferiva svolgere tali discussioni nelle loro case private o nella sua. La fortuna lo aiutò in questo senso: il breve tempo che trascorreva nel suo luogo di lavoro di solito non comportava ansie né l’arrivo di clienti che richiedessero un incontro personale. Ma proprio quel lunedì, per qualche motivo, la sua fortuna gli voltò le spalle.
+
+Erano le dodici e quindici quando entrò con passo deciso, indossando quel sorriso cordiale ma alquanto misterioso; salutò i impiegati, entrò nella sua stanza e iniziò a svolgere il proprio compito di avvocato: prese il telefono per prenotare un tavolo al ristorante del club per pranzo. Mentre era impegnato in questa attività professionale, un impiegato, con suo grande fastidio, lo pregò di ricevere urgentemente il signor Postlethwaite. Il nome gli risultava familiare, e Mr. Kirby sospirò dentro di sé.
+
+“Oh, il signor Blake può vederlo!” disse impazientemente. “No, non può; no, ricordo bene, non può.”
+
+Si grattò il mento e riuscì a fare la faccia seria, senza però smettere quel piccolo sorriso costante.
+
+“Fatelo entrare qui,” sospirò; “e ascolta, Thurston: ha qualcosa con sé?”
+
+“Non che io possa vederlo, signore,” rispose il impiegato con rispetto.
+
+“Oh, non intendo un cane o una cognata,” rispose il signor Kirby in modo poco dignitoso e piuttosto impaziente. “Intendo un dannatissimo rotolo di carta enorme.”
+
+“Beh, signore,” disse Thurston, il impiegato, con continuo rispetto, “certamente aveva qualcosa del genere in mano.”
+
+“Fai entrare lui, Thurston, fai entrare lui,” disse il signor Kirby più ad alta voce che mai, appoggiandosi allo schienale della sedia.
+
+Conosceva bene quel vecchio Postlethwaite: un uomo pieno di rancori, un individuo dal quale era compito dell’avvocato dissuaderlo dall’approfittare della legge; un uomo che non si poteva certo definire pazzo, ma di cui il signor Kirby certamente non si fidava affatto per affidargli nessun incarico legato alla sua azienda. Quell’uomo possedeva diverse proprietà sparse nei dintorni di Ormeston; in totale, circa venti, e quasi tutte rappresentavano investimenti fallimentari. In un momento di generosità, o forse di follia, il signor Kirby aveva deciso che la sua azienda si occupasse della locazione, vendita e valutazione di quelle proprietà; ora, però, si pentiva amaramente di quella decisione.
+
+Man mano che il signor Postlethwaite invecchiava, diventava sempre più spaventoso; ormai aveva quasi settant’anni. Tuttavia, gli anni non avevano affatto diminuito la sua forza quasi epilettica. Il signor Kirby poteva sentire il terribile rumore dei suoi stivali pesanti e le grida della sua voce potente nel corridoio. La porta si aprì e lui entrò. Si fermò davanti all’ingresso, alto e minaccioso, poi richiuse la porta dietro di sé. I suoi folti capelli bianchi gli ricadevano in grandi ciocche sulla testa; la sua barba trascurata si arricciava su tutti i lati del viso; i suoi occhi, di colore rossastro (un pensiero orribile!), brillavano come carbone ardente. Il suo saluto non fu affatto cordiale, ma almeno diretto.
+
+“Sei stato tu a trascinarmi in questa situazione, Kirby,” gridò lui come saluto mattutino, “e ora devi aiutarmi ad uscirne!”
+
+Se al signor Kirby non piacevano gli affari, di certo adorava le avventure. Il suo sorriso costante diventava ancora più vivace; il suo collo snello sembrava accorciarsi leggermente, e lui spingeva in avanti il mento con decisione, dicendo poi con un gesto della mano.
+
+#"Si sieda pure, signor Postlethwaite, sono completamente a sua disposizione."
+
+“Non mi siederò,” ruggì il temibile Postlethwaite. “Sei stato tu a mettermi in questa situazione, quindi devi essere tu ad aiutarmi ad uscirne!”
+
+“E di quale di queste,” disse il signor Kirby con un tono di cortesia intelligente, “di quali delle vostre sciocchezze state parlando?”
+
+Il signor Postlethwaite, come la maggior parte delle persone della sua specie, si sentiva piuttosto sollevato quando veniva insultato, piuttosto che offeso da tali insulti.
+
+“Te lo mostrerò,” disse con fermezza, ma in un tono più professionale rispetto a prima. “Vedrai!. E quando avrai visto, ti prego di pensarci bene prima di mettermi in una situazione ancora peggiore di prima.” Mentre pronunciava queste parole, distese sul tavolo del signor Kirby un foglio piuttosto grande di carta da cartucce: ordinato, ma segnato dal tempo; su di esso l’architetto aveva disegnato in vari colori la pianta e i progetti di una casa situata su un piccolo terreno. Erano indicate una dépendance, un piano terra, un primo piano e un secondo piano; sul retro c’era un piccolo cortile chiuso, mentre nella vista laterale si poteva vedere che nel tetto spiovente dell’ultimo piano era stata inserita una grande finestra a lucernario, colorata in modo bellissimo di blu.
+
+“Gli architetti imitano molto bene la natura!”, disse il signor Kirby, quasi tra sé e sé. “Sono mattoni di pietra grigia, ”, e ridacchiò.
+
+“Non c’è bisogno di ridere, Kirby!” tuonò l’anziano Postlethwaite. “Oh, riderete fino a quando non avrò finito! Distrutto, Kirby, distrutto completamente, e senza alcuna idea su come sia successo!”
 
 
 
@@ -5561,6 +7611,80 @@ Mr. Postlethwaite was agreeable. Mr. Kirby called at the cottage and sent the ma
 “By the way, what would you take for Grey-stones, Postlethwaite?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Kirby alzò la mano.
+
+“Per favore, signor Postlethwaite, per favore,” disse. “Se quel posto dovesse bruciare, le faccio i complimenti.”
+
+“No!” esclamò seccamente Postlethwaite.
+
+“Beh, se è parzialmente bruciato, tanto meglio. Saranno più disposti a pagare quando vedranno che non è affatto distrutto!” ringhiò ad alta voce il signor Postle-thwaite. “Rotto! Distrutto! Schiacciato! Sono andato lì stamattina. Non ho trovato nessuno!”
+
+“Sono usciti?” disse il signor Kirby, con uno sguardo astuto e acuto come quello di un’aquila.
+
+“Nessuno da nessuna parte! Niente da nessuna parte! Nessuno al piano terra! Nessuno al primo piano! Nessuno all’ultimo piano! Nessuno nello studio! Ma lì. Frantumato! Rotto! Distrutto!”
+
+“Cos'è stato?” disse il signor Kirby, iniziando a irritarsi al pensiero del possibile ritardo per il suo pranzo.
+
+“Cosa?” gridò il signor Postlethwaite, “tutto quello che vi sto dicendo! La finestra sul tetto, le sedie, tutto. Una sedia rotta nel giardino, con tante lenzuola legate attorno. Che assurdità! Sedie rotte, vetri rotti, una bottiglia vuota, un disastro disgustoso di cibo. Ora,” aggiunse, con crescente passione, “farò in modo che la legge intervenga, e sei stato tu, Kirby, sei stato tu a convincermi!”
+
+“Signor Postlethwaite,” disse tranquillamente il signor Kirby, “quello che ho cercato di convincervi a fare era spendere un po’ di soldi per quella proprietà. Poiché voi non volevate farlo, e poiché nessuno interessato avrebbe preso in considerazione l’offerta, vi ho suggerito di affittarla per un mese a quei giovani ragazzi. Conoscevo bene uno di loro, almeno: James McAuley. È una persona assolutamente affidabile; ha detto di voler dipingere insieme al suo amico. Conosco anche suo padre, un importante medico a Londra. Il ragazzo studiava a Cambridge. Sono persone davvero oneste e affidabili, Postlethwaite. Se hanno danneggiato la vostra proprietà, possiamo ottenere un risarcimento. Il mese non è ancora finito. E, per l’amor del cielo, vi ho anche fatto pagare in anticipo!”
+
+“Non possiamo ottenere alcuna compensazione?”, esclamò indignato il signor Postlethwaite. “Allora la otterrò io stesso!”
+
+“Sì, certamente che lo farai,” corresse gentilmente il signor Kirby. “Per favore, crea una qualche storia coerente per me. Quando sei andato a Grey Stones?”
+
+“Appena arrivato”, disse l’anziano Postlethwaite con uno sguardo furioso, “tutto distrutto! Rotto! Raso al suolo!”
+
+# Hai trovato qualche lettera, o biglietto, o qualcosa del genere?
+
+“Niente. Ve l’avevo detto, completamente vuoto. E c’è anche un pezzo di corda sporca gettato tra le travi,” aggiunse, come se quella fosse la cosa peggiore e ultima delle sue lamentele. “Dove sono quei giovani mascalzoni?”
+
+“Mio caro signor Postlethwaite,” disse l’avvocato con dolcezza, “qui, tra queste quattro mura, non si può procedere legalmente contro di voi. Ma se pronunciate simili parole fuori da qui, potreste finire in Queer Street. Quei giovani eccellenti – quel meraviglioso James McAuley – vi hanno pagato l’intero mese in anticipo. Non avete prove che siano stati loro a causare i danni.”
+
+“Sono loro i responsabili,” disse ostinatamente il signor Postlethwaite, “e lo siete anche voi. L’ultimo che è stato qui sei mesi fa era un vegetariano; cercava di sollevare l’umore della gente in quel posto. E ci è riuscito. Ora forse è posseduto. È tutta colpa vostra.”
+
+“Ora, signor Postlethwaite,” disse con fermezza il signor Kirby, “una cosa alla volta. Se avete permesso che Greystones finisse in quella condizione contro il mio parere, allora siete stati estremamente fortunati ad aver trovato due inquilini, sia pazzi che sani, anche solo per poche settimane nell’arco di un anno. Per la mia anima, ne ho abbastanza di Greystones e di tutti gli altri. Sono davvero sul punto, ”
+
+In realtà, il signor Kirby non aveva alcuna intenzione di rinunciare al suo legame con Greystones, né con qualsiasi altra delle stravaganze del vecchio signor Postle-thwaite. Queste cose rappresentavano quasi l’unica parte della sua professione che lo divertisse.
+
+“Beh, cosa pensi di fare?” chiese di nuovo il vecchio signore con impazienza.
+
+“Dovresti andare a dare un’occhiata, penso”, disse il signor Kirby, “e vieni con me”.
+
+Il signor Postlethwaite si sentì un po’ placato. Il suo avvocato stava facendo un po’ di sforzi. Era proprio come doveva essere.
+
+Presero un taxi e si trovarono a circa venti minuti di distanza dalla città, oltrepassando la capanna deserta e il burattino di paglia, il cancello marcio, fino ad arrivare davanti ai gradini di pietra di quella casa abbandonata, spoglia e fatiscente che per tre lunghi giorni era stata il “purgatorio” del professor Higginson. I due uomini entrarono insieme, e il signor Kirby notò che l’anziano Postlethwaite aveva descritto la situazione con precisione: c'erano le finestre sporche, la scala senza tappeti, il banco e il tavolo nella stanza al piano terra. Questi erano gli unici mobili presenti nella parte inferiore della casa; e lì, quando salirono al piano di sopra, trovarono i resti del disastro nel studio: il lucernario rotto, i frammenti di cibo, le sedie di legno distrutte sul pavimento.
+
+“Dove hai trovato la terza sedia? Che strana casa. È stato sciocco da parte tua non ripararla!” disse, tornando alla sua abitudine di dire cose irrilevanti.
+
+“Ve l’avevo detto!” disse il signor Postlethwaite. “Fuori, per terra. C’erano tante lenzuola legate insieme, come la coda di una mongolfiera.”
+
+“Le aquiloni a scatola non hanno coda”, mormorò il signor Kirby, “deve averlo gettato via”.
+
+“Chi?” chiese con impazienza il signor Postlethwaite. “Non lo so,” rispose il signor Kirby con una innocenza incantevole.
+
+“Stai facendo il ridicolo di me!”, disse con rabbia il vecchio signor Postlethwaite.
+
+“No, non è così,” rispose il signor Kirby con un tono rassicurante. “Dai, non c’è più nulla da fare qui. Scriverò a quei giovani. Lo farò subito. Ascolterò la loro risposta dopodomani e vi informerò.”
+
+“Domani dopo!” gridò il vecchio signor Postlethwaite. “E la casa completamente aperta. Chiunque potrebbe entrare da quella finestra sul soffitto, ”
+
+“Sarebbe una buona azione di carità”, disse l’avvocato. “Protetterebbe quei piccoli uccellini”.
+
+Il signor Kirby si preparò ad infilare il braccio sotto quello del vecchio gentiluomo arrabbiato per guidarlo giù per le scale, quando notò qualcosa sul pavimento: era un pezzo di carta. Lo raccolse, lo guardò rapidamente e se lo mise in tasca. Poi – l’intero gesto era durato solo un attimo – stava già tenendo il braccio del signor Postlethwaite e scendeva le scale con lui.
+
+“Dovresti comunque assumere qualcuno che si occupi di questo posto per un giorno o due, Postlethwaite,” disse il signor.
+
+“Quando arriveremo alla porta… Conosco un uomo in una capanna qui vicino; lo manderò da lui.”
+
+Il signor Postlethwaite era piacevole da parlare. Il signor Kirby andò al capanno e fece chiamare quell’uomo; poi tornò nella carrozza.
+
+“Proverò a mettermi in contatto con McAuley oggi stesso”, continuò l’avvocato mentre salivano di nuovo sul taxi e tornavano a Ormeston.
+
+“Ah, a proposito… quanto chiederesti per le pietre grigie di Postlethwaite?”
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_03" data-title="The Green Overcoat — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/detective,motif/clothing,motif/letters_and_writing,motif/secrets,concept/ratiocination_detection,concept/superstition_and_omen,concept/deception,form/novel,form/satire"></span>
@@ -5638,6 +7762,80 @@ Then he bethought him which of these comic things the enfranchised and cultured 
 
 If it were either of those two men who had been larking with younger men that night when old Postlethwaite’s house was turned upside down, why, he thought it would probably be Gaunt. —
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sapeva cosa stava per succedere. Il viso di Mr. Postlethwaite divenne scuro e deciso; poi vi passò un sorriso piuttosto inquietante. Gli diede una spallata sul fianco.
+
+“Venticinque mila,” disse, “nessun centesimo in meno.”
+
+“Facciamolo costare pochi penny,” disse il signor Kirby con più serietà del solito.
+
+Il vecchio signor Postlethwaite rifiutò ostentatamente di rispondere.
+
+“La città sta crescendo da quella parte,” disse con un tono di grande astuzia. “Nemmeno un centesimo in meno.”
+
+“Beh,” disse il signor Kirby con tono stanco, “se non vuoi dargli fuoco, non so proprio come riuscirai a farlo. E onestamente, non mi interessa nemmeno.”
+
+Il taxi si era fermato davanti all’ingresso del club di Mr. Kirby. Lui rifiutò decisamente di proseguire ulteriormente le trattative con quel vecchio speculatore nel settore degli immobili.
+
+“Postlethwaite,” disse, “se siete saggi, potete credermi… Aspettate…”
+
+“Poi aggiunse, in modo molto poco professionale…”
+
+“Se avessi trentamila, mi dareste metà della differenza come commissione?”
+
+Il vecchio Postlethwaite alzò lo sguardo all'improvviso, con vivacità, come un uccello.
+
+“Cosa! Cinquemila?” disse, scettico.
+
+Scosse la testa. Sapeva che non era molto professionale da parte sua. Guardò intorno per assicurarsi che nessuno stesse uscendo dal club, poi sussurrò.
+
+“Tre migliaia, Kirby, tre migliaia! E questo rappresenta il dieci percento,” aggiunse lui, con un certo rimpianto.
+
+“Bene,” disse il signor Kirby con grande solennità, “aspetta un attimo!” e, con un sorriso rassicurante, congedò quel povero vecchio, lasciandolo sognare di somme impossibili da realizzare.
+
+Che il signor Kirby pensasse che la casa potesse valere cinquecento sterline, o niente affatto, non ha davvero importanza per la mia storia, perché senza dubbio lui non aveva alcuna speranza né intenzione di vendere quel misero posto, a meno che qualche pazzo non ne facessse richiesta.
+
+Entrò nel club come se fosse una città di rifugio, e si preparò ad analizzare una serie di piccoli eventi apparentemente disconnessi che, in realtà, stavano prendendo forma in un piano molto interessante. Le cose iniziavano davvero a divertirlo molto; era proprio il tipo di lavoro che gli piaceva.
+
+Prima di tutto annullò il suo pranzo: voleva pensare, non mangiare. Poi tirò fuori dalla tasca quel piccolo pezzo di carta che aveva raccolto a Greystones e lo lesse attentamente. Non gli diceva molto, ma ciò che c'era scritto era piuttosto curioso.
+
+Il foglio era un documento universitario; recava lo stemma dell’università ed sembravano essere appunti scritti in fretta.
+
+Lo posò per un momento e considerò uno o due altri argomenti inspiegabili e disconnessi: il Mantello di Brassington, il “Dio Segreto” di Brassington, il Mantello Verde. Il feticismo di Brassington. Scomparso. Scomparso senza alcuna spiegazione, e scomparso, beh, proprio una settimana fa. Era assente quella lunedì sera a Purcell’s. Un giovane gentiluomo, “un amico del giovane padrone”, che quel giorno era stato da “Lauderdale” e aveva fatto troppe domande sui movimenti di Mr. Brassington. Mr. Kirby sorrise ampiamente, e all’improvviso ricordò l’affitto di Greystones qualche giorno prima. Il figlio di Jock McAuley – Jimmy, si chiamava – era arrivato con l’arroganza tipica della gioventù e aveva voluto affittare Greystones per un mese, “Per dipingere”, aveva detto. “Per dipingere insieme a un amico, ” Sì. Per dipingere tutto di rosso! Mr. Kirby sorrise ancora. Non vedeva nulla di chiaro. Vedeva solo un intrigo che si stava formando. E ne andava fiero!
+
+Sembrava proprio che quel giovane e il suo amico avessero dipinto con grande impegno! —. —. —.
+
+Si erano divertiti un mondo, e che divertimento! Beh, ora devono pagare le conseguenze. Si sono comportati in modo molto scatenato. Con chi?
+
+Il signor Kirby si sdraiò comodamente nella sua sedia nel salotto fumatori del club e rifletté. Qualcuno che aveva assistito alle lezioni all’Università di Guelph, qui a Ormeston, doveva essere stato coinvolto in quei disordini a Greystones. Immaginò si trattasse di una rissa tra studenti.
+
+Prese di nuovo quel foglio di carta accartocciato e lo aprì con cura. Mentre cercava di collegare le frasi sparse che erano state scritte su di esso, iniziò a sentirsi perplesso.
+
+Quale studente vorrebbe prendere appunti del genere?
+
+“Memorandum: Horne non è d’accordo con Latouche. Menzionalo domani nella prima ora. Restituisca entrambi i saggi.”
+
+“Il lavoro del secondo anno dovrà essere integrato con il corso di Medicina. Annunciate questo alla fine della prima ora.”
+
+Il signor Kirby serrò le labbra e rifletté su quelle parole. Era un promemoria di un professore. E non era certo il tipo di appunto che un professore avrebbe consegnato a uno studente.
+
+C'era qualcos'altro scritto nello stesso stile di calligrafia, ma in caratteri più piccoli, nell'angolo. Lo guardò attentamente e riuscì finalmente a decifrarlo; sembrava essere stato scritto in fretta, come se fosse un pensiero aggiunto successivamente: —
+
+“Chiedete al Senato di cancellare l’orario del sabato pomeriggio. È un momento difficile. Ricordate il numero di Garden: chiamate il 637 Ormeston Central.”
+
+Il signor Kirby ripiegò il foglio seguendo le pieghe originali, lo rimise nel portafoglio e allungò la mano verso il Calendario Universitario, che si trovava tra i libri di riferimento su un tavolo accanto a lui.
+
+Ci furono più di una di queste lezioni pomeridiane del sabato. Il Senato le aveva organizzate per corsi popolari, ma gli studenti dell’Università le consideravano piuttosto sgradite. C’era una lezione sulla storia, un intero ciclo intitolato “Arte Romana del Primo Secolo” (e il signor Kirby sorrideva), un corso sulla formazione geologica delle aree petrolifere, uno di psicologia e uno di letteratura francese.
+
+Storia, Arte, Geologia, Psicologia, Francese.
+
+Metodicamente, ma con tutto il piacere che derivava dalla caccia, il signor Kirby si rivolse ai professori seduti sulle cinque diverse poltrone: Poison, Gaunt, Baker, Higginson, Rolls.
+
+Poi si chiese quale di queste cose ridicole il proletariato emancipato e colto potesse sopportare meno facilmente. Decise, con grande saggezza, che la risposta stesse tra l’Arte romana e la Psicologia. L’uomo dell’Arte, era un ciarlatano; lo conosceva bene e ricordava di aver fatto del suo meglio per impedire la sua nomina. Quanto all’uomo della Psicologia, Higginson, l’aveva incontrato qua e là, come tutti incontravano gli universitari a Ormeston, ma non riusciva a ricordarlo chiaramente: la sua nomina era avvenuta di recente, e la città non conosceva ancora bene il nuovo professore.
+
+Se fossero stati uno di quei due uomini a comportarsi in modo inappropriato con ragazzi più giovani quella notte, quando la casa del vecchio Postlethwaite fu messa sottosopra, beh, probabilmente sarebbe stato Gaunt, pensò.
 
 
 
@@ -5745,6 +7943,108 @@ Mr. Brassington started.
 “Oh, I know you ‘re superstitious, Brassington. All you hard-headed, business men, or whatever you call yourselves, those that have got any brains at least (and there aren’t many) show their brains by a little superstition. That’s my experience. I don’t blame you. Only look here. If I get it for you...” and he began musing.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il problema che iniziava a affascinare e incantare il signor Kirby sarebbe probabilmente arrivato un passo più vicino alla sua soluzione se non fosse stato per l’apertura improvvisa della porta a battente del fumoir. E se non fosse stato per l’apparizione, come una “testa di serpente” fuori dalla bocca di quel portale, dell’eccitato e arrabbiato signor Brassington.
+
+Il signor Kirby odiava gli affari: odiava le preoccupazioni. Il suo piacere consisteva nel riflettere attentamente su tutto. Ed è per questo che la Provvidenza, che punisce coloro che ama, lo disturbò con l’apparizione improvvisa e molto inquietante del suo caro amico. I solitamente curati abiti del signor Brassington erano sgualciti, il suo viso era coperto di sudore, e la cravatta era storta da un lato, quasi sotto l’orecchio.
+
+Il mercante si avvicinò barcollando all’avvocato, gli mise una mano sulla spalla e disse con voce rauca…
+
+“Falsificazione!”
+
+Il signor Kirby spinse con forza il suo amico dentro una sedia.
+
+“Falsificazione?”, chiese con tono interessato, guardando il signor Brassington dritto negli occhi.
+
+Il signor Brassington annuì.
+
+“Beh, mio caro Brassington,” continuò il signor Kirby, “farò del mio meglio per aiutarvi, ma vi avverto che difendere un uomo per un crimine del genere è davvero molto difficile.”
+
+“Cosa intendi dire?”, chiese il signor Brassington, confuso.
+
+“Oltre a ciò,” proseguì il signor Kirby con tono solenne, “a meno che non dichiariate di essere pazzi…”
+
+“Non capisco una parola di quello che stai dicendo, Kirby,” gridò il signor Brassington. “C’è stata falsificazione! Capisci? Falsificazione! Qualcuno ha usato il mio nome in modo fraudolento!”
+
+“Oh — oh — accidenti!” disse il signor Kirby con tono ragionevole. “Qualcuno ha falsificato il tuo nome? Molto più sensato. Ce l’hai fatta?” aggiunse allegramente.
+
+“Se non ti conoscessi così bene, Kirby, ”, cominciò brutalmente il signor Brassington, poi tirò fuori da una tasca interna un assegno già sporco e, presentandolo con mano tremante, disse:
+
+“Ehi, guarda lì!”
+
+Il signor Kirby lo guardò davanti, poi lo guardò dietro. Vide che un certo signor James McAuley aveva firmato per due migliaia di unità. Guardò di nuovo davanti, girò l’oggetto e osservò la firma. Esaminò attentamente ogni dettaglio della scrittura.
+
+“No,” disse, avvicinando il foglietto di carta ai suoi occhi, “quella non è la tua firma, come dici tu, ma, ” (pensieroso) “è molto, molto simile!”
+
+“Kirby,” disse il signor Brassington con toni del tutto nuovi e terribilmente solenni, “anch'io ho un figlio, ma quel giovane dovrà subire tutta la severità della legge!”
+
+Il signor Kirby stava guardando fuori dalla finestra.
+
+“Quale giovane uomo?” chiese lui in modo innocente.
+
+“James McAuley,” disse il signor Brassington con un tono lento e profondo, sfruttando appieno quella vocale lunga.
+
+“Come fai a sapere che sia un giovane uomo?” chiese il signor Kirby, guardandosi intorno con interesse.
+
+“Come posso saperlo?” gridò il signor Brassington, ricominciando a infuriarsi. “Ma è quel maledetto furfante che ha derubato mio povero figlio, signore! Lo ha derubato giocando a carte! E vi dico una cosa, Kirby,” aggiunse, la voce sempre più arrabbiata, “vi dico una cosa: lui ci conta sopra, è proprio questo che sta facendo. Spera che io voglia tenere tutto sotto silenzio. Che io voglia nascondere la terribile debolezza di mio figlio.”
+
+“Fatale, cosa?” disse il signor Kirby. “Debolezza,” rispose il signor Brassington, fermandosi all’improvviso.
+
+“Ah,” disse il signor Kirby con estrema calma. “Quindi è lui il tipo che ha falsificato quel assegno, eh?”
+
+“Certo che sì!” disse indignato il signor Brassington.
+
+“Beh,” rispose il signor Kirby, “spero che abbiate delle prove, nient’altro! E spero anche che, se non le avete, non abbiate parlato con nessun altro. Perché se non riuscite a dimostrare che è stato lui ad averlo fatto, si tratta di diffamazione, capite? Siete un uomo ricco, Brassington. Il tipo di persona che questi gentiluomini preferiscono avvicinare, eh?”
+
+Il signor Brassington, come la maggior parte delle altre persone, provava un terrore panico nei confronti degli avvocati e delle loro pratiche legali. Era visibilmente più pallido quando rispose, usando un tono molto più sommesso.
+
+“Non dico esattamente che sia stato lui a farlo, non direi nulla di più di ciò che posso provare, giusto? Solo che, ”, e qui la sua voce si alzò di nuovo, “in qualche modo è riuscito a farmi dare i soldi, e, ”
+
+“Ora ascolta bene, Brassington,” disse il signor Kirby in tono calmo, “potresti lasciarmelo per un po’?”
+
+“
+
+Mentre il signor Kirby diceva queste cose, inclinò leggermente la testa da un lato, infilò le mani in tasca e fissò lo sguardo sul signor Brassington seduto lì davanti a lui.
+
+“N-no… sì… se vi piace,” disse il signor Brassington. “Per quanto tempo?”
+
+Il signor Kirby si mise la mano davanti al viso e appoggiò il gomito sul caminetto.
+
+“Non lo so,” disse dopo alcuni momenti. “Potrebbero essere tre o quattro giorni, o anche di più. O forse meno. Ascolta,” aggiunse, “mi permetterai di chiamarti se dovrei scoprire qualche indizio? Penso che ne troverò uno. Che enorme responsabilità devi portare sulle tue spalle.”
+
+“Se quel giovane mascalzone, ” iniziò il signor.
+
+Di nuovo Brassington.
+
+“Ora, mio caro Brassington,” disse il signor Kirby con voce rassicurante, “mio caro Brassington, quell’uomo potrebbe essere altrettanto innocente, ”
+
+“Non sospetta di mio figlio, vero?”, intervenne con fermezza il signor Brassington.
+
+“Ahah,” rise piacevolmente il signor Kirby.
+
+“Dio mio, no!”, disse. “Non capisci, Brassington? La vita è un posto complicato. Immagina che un uomo sapesse che tuo figlio deve questo a McAuley, ”
+
+“Lo dovete!” tuonò il signor Brassington. “E come diavolo può questa maledetta attività di gioco d’azzardo, ”
+
+“Ora! Ora! Ora!” disse il signor Kirby. “Non entreremo in questo argomento! L’importante è: supponiamo che qualcuno sappia che questo ragazzo, McAuley, comunque sia, pensi di averne diritto, ”
+
+“Non avrebbe mai potuto pensarlo,” disse ostinatamente il signor Brassington.
+
+“Oh, sciocchezze!” disse il signor Kirby, ormai al limite della pazienza. “Se qualcuno sapesse che McAuley avrebbe preso i soldi, ”
+
+“E allora?” disse il signor Brassington.
+
+“Beh, allora non capite che potrebbe fare da intermediario e intascare una commissione?”
+
+“Se riesco a catturare quell’uomo, ” iniziò di nuovo il signor Brassington.
+
+“Sì, sì, lo so,” disse il signor Kirby, “ma l’hai lasciato a me, ed è molto saggio da parte tua. C’è un’altra cosa che avresti dovuto lasciarmi: sono bravo in queste cose. E quella è il tuo cappotto verde.”
+
+Il signor Brassington iniziò.
+
+“Oh, so che siete superstiziosi, Brassington. Tutti voi uomini d’affari, o come vi chiamiate voi, quelli che almeno hanno un po’ di cervello (e non ne sono molti), dimostrate di averne avuto mostrandone un po’ attraverso le superstizioni. È la mia esperienza. Non vi biasimo. Guardate solo qui: se ve lo procuro, ” e iniziò a riflettere ad alta voce.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_05" data-title="The Green Overcoat — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/detective,motif/clothing,motif/money_and_gold,concept/ratiocination_detection,concept/deception,concept/crime_and_punishment,concept/power_and_corruption,form/novel,form/satire"></span>
@@ -5825,6 +8125,82 @@ Strange! But there are quite unofficial people, not even dressed up in blue clot
 Now that he was fairly in cry, he did what no dog does — not even the dogs that boast they are hounds — he slacked off. He lunched well. He smoked half through the afternoon. With the evening he lounged off to his office before it should close to see if anything new awaited him there: and something did.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Non sono superstizioso, Kirby,” disse il signor Brassington in modo imbarazzato.
+
+Si alzò come se solo il menzionare quel capo di abbigliamento lo avesse disturbato.
+
+“È solo una coincidenza. A volte le cose vanno storte,” aggiunse.
+
+Dopo aver detto questo, si preparò ad andarsene.
+
+“Mi dispiace,” disse Kirby, “non sapevo che la pensassi in questo modo. O meglio, lo sapevo, e non avrei dovuto parlare.”
+
+Il signor Brassington era ancora confuso. Non rispose nulla e fece per uscire.
+
+#Il signor Kirby non lo trattenne, ma proprio mentre il suo amico stava aprendo la porta, disse…
+
+“Brassington, potrebbe mostrarmi la controfaccia di quel assegno?”
+
+“No, non posso,” disse Brassington. “Il libro è sparito… Era nell’overcoat.”
+
+“Oh, anche il libro è sparito!” disse il signor Kirby. “Beh, spero che abbiate bloccato tutti gli altri numeri rimasti nel Libro degli Assegni, ”
+
+“Sì,” disse il signor Brassington con determinazione. Il signor Kirby ci pensò per un momento.
+
+“Brassington,” disse, “devo essere a Londra mercoledì. Andrò al Rockingham per dare una cena. Verrai? Potresti venire presto, e portare anche tuo figlio, Algernon. Vieni alle cinque: ti aspetterò.”
+
+“Verrò,” disse il signor Brassington, come se stesse chiedendo il motivo.
+
+“Potrei avere delle notizie per te,” disse il signor Kirby. Brassington lo guardò con scetticismo e poi se ne andò.
+
+Appena il suo amico fu uscito dalla stanza, il signor Kirby, con un gesto simile a quello di un cane dal naso fino quando è interessato a qualcosa, si avvicinò alla scrivania e annotò l’appuntamento.
+
+“Prima che me ne dimentichi,” mormorò. “Mercoledì, il Rockingham, alle cinque, e la cena alle sette. Vorrei non aver dovuto organizzare tutto in così poco tempo, ma andrà bene. Posso sempre cambiare i piani,” pensò.
+
+Poi osservò attentamente e chiaramente il giovane McAuley. Riusciva a fare queste cose meglio quando i suoi occhi erano fissi su qualcosa. Così, guardò con attenzione un muro bianco illuminato dal sole, situato in un cortile di fronte alla finestra del club; e mentre lo faceva, vide di nuovo McAuley con chiarezza: quel viso giovane, energico e celtico, con quegli occhi scuri e sinceri.
+
+E si chiese chi mai potesse aver preso con sé quel giovane. Poi sospirò leggermente e disse a se stesso, ad alta voce:
+
+“Ma per duemila sterline si è disposti a credere qualsiasi cosa…”
+
+Il signor Kirby lasciò la sala fumatori. Lungo il corridoio, mentre usciva, fece qualcosa che avrebbe sorpreso quei molti milioni di innocenti che ingoiano quotidianamente i nostri giornali.
+
+Andò al telefono e compose il numero 246. 246 rispose in modo molto brusco; poi, improvvisamente rendendosi conto che era il signor Kirby all’altro capo della linea, rispose con estrema cortesia.
+
+Poiché posso riferire soltanto ciò che è accaduto dalla mia parte, lascio che sia il lettore a scoprire cosa abbia detto il signor Kirby.
+
+Disse:
+
+“Sei tu, Robinson?”
+
+Successivamente disse:
+
+# C’è qualche altro ispettore lì?
+
+La terza cosa che disse fu…
+
+“No! No! Il cappotto del signor Brassington… Lo avevate annunciato, stupido!”
+
+La quarta cosa che disse fu…
+
+“Non si tratta di sapere se il destinatario l’abbia ammesso o meno, ma di quale destinatario si sia risaliti.”
+
+La quinta cosa fu detta con molta impazienza: “Oh, sì, certo, so che il signor Brass-ington deve averlo chiesto. Il punto è, quale. Cosa? Pronuncialo!”
+
+M — O — N — T. —. —. Oh, sì, davvero. —. —.
+
+“Vecchio Sammy!” Poi ci fu una pausa. “Cosa?”
+
+. Non è andato oltre?. Non ha fatto nulla in questi giorni?, — Mio Dio. Un breve silenzio. Poi: “Bene. Ah, lascia perdere quello che non hai trovato!” e riattaccò.
+
+E così il signor Kirby scoprì tutto ciò che voleva sapere.
+
+Strano! Ma esistono persone piuttosto informali, che nemmeno indossano abiti blu o caschi, le quali sono in contatto con individui che ricevono merci rubate, con i finanziatori dei poveri e con organizzazioni locali legate al crimine. Uomini che possono promuovere o respingere direttamente le decisioni del potente Perlice. E spesso questi individui sono avvocati.
+
+Ora che aveva pianto a sazietà, fece qualcosa che nessun cane fa, nemmeno quelli che si vantano di essere cani da caccia: si rilassò completamente. Pranzò bene, fumò per metà pomeriggio, e poi andò nel suo ufficio prima che chiudesse, per vedere se ci fosse qualcosa di nuovo ad aspettarlo. E infatti c’era.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_01" data-title="The Green Overcoat — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/house_mansion,motif/letters_and_writing,motif/secrets,concept/perception_and_consciousness,concept/crime_and_punishment,concept/deception,concept/self_deception,form/novel,form/satire"></span>
@@ -5890,6 +8266,68 @@ Now a “twofer” is an insignificant cigar, of which two are sold for a penny;
 
 Professor Higginson felt in his trouser pocket and produced a florin. The caretaker took it, though it only confirmed his suspicions.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIII.
+
+In cui la Coscienza Sottile si rivela.
+
+Il lavoro del giorno domenicale aveva stancato il professor Higginson. Non sapeva che la gloria potesse stancare un uomo a tal punto.
+
+Si alzò molto tardi, quella mattina di lunedì: si alzò certamente senza ambizioni, e quasi senza paura. Era completamente disinteressato a qualsiasi cosa. Quando finì di fare colazione era già mezzogiorno. Lunedì non aveva lezioni. All’inizio del pomeriggio doveva presentarsi al Consiglio dell’Università. Ricordava più o meno l’ordine del giorno: doveva parlare in particolare di quelle lezioni del sabato. Le odiava, ma prima di tutto doveva chiamare il suo collega Garden, che era coinvolto anche lui in quella questione.
+
+Garden aveva il telefono. Un uomo sensato! Ma non voleva che il suo numero fosse inserito nell’elenco. Era 37 qualcosa, vero? Aspetta un attimo. Il professor Higginson si ricordò di un pezzo di carta su cui aveva scritto quel numero. L’aveva annotato lunedì scorso, dopo la riunione del Senato, proprio per chiamare Garden prima del Consiglio.
+
+Aveva una buona memoria; ne andava fiero. Ricordava chiaramente di aver annotato quel numero su un pezzo di carta dell’Università, nella sala del Senato. Era la riunione prima che andasse da Perkin’s. Proprio poco prima che iniziassero i suoi problemi!
+
+Il professor Higginson percepì, in modo istintivo, la presenza di quel pezzo di carta nella tasca dell’orologio del suo gilet. Poteva portare cose del genere lì dentro per giorni. Ma in realtà non c’era.
+
+Cercò in tutte le tasche dell’abito che indossava. Le persone abituate a portare certe cose con sé le mettono istintivamente nelle tasche, e spesso non si ricordano nemmeno quando l’hanno fatto, soprattutto se sono soggette a perdite di coscienza o a influenze subliminali!
+
+Attraverso un processo fin troppo familiare ai membri meno fortunati delle classi professionali, esaminò con attenzione ogni angolo della fodera della tasca fino a trovare un grosso foro; all’interno di quell’apertura esplorò con cura tutta l’oscurità che vi si trovava, e iniziò ad preoccuparsi: non c’era nulla. Allora il Professore di Psicologia Subliminale si ricordò improvvisamente! L’aveva preso quella sera mentre si vestiva per andare da Perkin’s; l’aveva messo sul comodino. Ricordava il foglio bianco sopra il tessuto bianco, e ricordava di essersi detto di non dimenticarlo. L’aveva infilato nella tasca – la tasca del gilet – del suo unico abito da sera.
+
+Esaminò quel completo con molta attenzione. Non trovò nulla. Pensò che forse l’avesse perso durante l’ultima volta che si era cambiato. Si stese a terra e, con grande difficoltà, accese delle candele per guardare sotto il letto e sotto l’armadio, esaminando ogni centimetro di quel logoro tappeto di Bruxelles. Non apparve nemmeno un pezzo di carta.
+
+Poi – all’improvviso – provò un senso di nausea. Gli divenne sempre più chiaro che l’ultima volta in cui aveva portato quel memorandum e indossato quell’abito era stata alla festa di Perkin, e nei giorni e nelle notti successivi. Quel pezzo di carta doveva essersi perso durante uno dei suoi sforzi o delle sue “imprese atletiche” in quella maledetta Casa. Questo dava alla situazione un’importanza completamente nuova.
+
+Se quel maledetto pezzo di carta fosse ancora nella casa vuota. Peggio ancora, se qualcuno lo avesse trovato. Era un indizio.
+
+Il professor Higginson non perse tempo. Prese il tram e, una volta arrivato alla sua destinazione, con infinite precauzioni – guardando a destra e a sinistra, fingendo di entrare in strade secondarie, soffermandosi davanti ai cancelli – riuscì finalmente a convincersi che nessuno lo stesse osservando. E infatti, nessuno lo faceva. Ogni angolo sembrava pieno di spie per lui; esagerava l’importanza dei suoi movimenti, perché era un “Don”.
+
+Circa un’ora dopo essere uscito dalla città, vide i cespugli trascurati, il cancello in rovina, il sentiero di ghiaia invaso dalle erbacce; e, ergersi davanti a lui, spettrale e terribile, la Casa Maledetta all’interno dei suoi terreni incolti.
+
+Si avvicinò furtivamente alla porta; era chiusa a chiave. Continuando a guardarsi intorno con nervosismo, cercò invano qualche ingresso secondario: il muro alto era liscio su tutti i lati e il cortile sul retro era completamente recintato.
+
+Con un ricordo confuso ma terribile di qualche regola che ci dice che nessun uomo cade immediatamente nelle più profonde abissi della turpitudine, e con un sospiro per l’ultimo resto della sua onore, provò ad aprire una delle grandi finestre frontali. Era chiusa a chiave.
+
+Allora Lucifero ispirò ancora una volta quell’uomo sfortunato con astuzie superiori alle sue stesse. Estrasse un coltello da tasca, aprì la lama sottile, la inserì nella fessura della cintura e iniziò a manipolare quel meccanismo di chiusura. Sentì che cominciava ad allentarsi; spingeva con delicatezza e estrema attenzione, per evitare che qualsiasi suono lo tradisse. Quando il suo cuore improvvisamente smise di battere e il sangue gli si raffreddò completamente, udì una voce alle sue spalle che lo chiamava.
+
+“Che stai facendo?”
+
+Lasciò cadere il coltello e si girò di scatto. Un uomo robusto, basso e tozzo, vestito con vecchi pantaloni da barca e un giubbotto, con quel viso tipico dei lavoratori che la polizia definisce “minaccioso” nei suoi rapporti, lo stava osservando senza battere ciglio.
+
+“Cosa stai facendo?”, ripeterono quelle labbra mal rasate.
+
+“Stavo facendo un esperimento, ”, disse casualmente il professor Higginson.
+
+“C’era,” disse l’uomo robusto, e sputò. “E ora taglierai.”
+
+Il professor Higginson era dignitoso.
+
+“Mio buon uomo,” disse…
+
+“Niente del genere,” disse l’uomo buono, avvicinando il viso in modo sgradevole; “Vi faccio sapere che sono il custode di questo posto. Oook. Se ci fosse anche solo un penny in questo deserto del Sahara, ve lo darei subito.”
+
+Ora, un “dueper” è un sigaro insignificante, di cui due vengono venduti per un penny; ma sebbene il professor Higginson non lo sapesse, capì il senso generale del commento e iniziò lentamente ad allontanarsi.
+
+“Ho un'idea,” disse quello con il giubbotto di piselli, seguendolo mentre ringhiava verso la porta, “di dirlo al signor Kirby.”
+
+“Mr Who?”, chiese con impazienza il professor Higginson.
+
+“Mr. Kirby…”, ripeté l’uomo in tono cupo. “È lui il responsabile di questa casa.”
+
+Il professor Higginson frugò nella tasca dei suoi pantaloni e ne tirò fuori un fiorino. Il custode lo prese, anche se questo non fece altro che confermare i suoi sospetti.
 
 
 
@@ -5961,6 +8399,72 @@ The Professor shook his head impatiently. “You don’t understand,” he said.
 “It was a vision — a high vision,” said the Philosopher. “I recollect some things clearly. A sort of studio roof. A big sort of skylight window. I remember that. Now of course I never can have been in such a house,” continued Professor Higginson. “It’s one of the first laws of subliminal consciousness that impressions are conveyed from one centre to another, transversely as it were, and not either directly or in the ordinary line from a superior to an inferior plane. To put it conversationally, not from above to below, nor from below to above. Hum!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“È questo il nome dell’agente di questa casa? Potrei prendere un ordine da lui? Voglio dare un’occhiata. Voglio entrare!”
+
+“Sì! Devi farlo!” disse l’uomo. Poi aggiunse: “Quello è il nome del signor Kirby; se hai un po’ di buon senso, arriverai ai suoi uffici prima di me.”
+
+Era un semplice indizio, ma il Professor Higginson non fu grato. Stava valutando quale vantaggio potesse derivargli da quell’informazione, e dopo averci pensato a lungo finalmente ne comprese chiaramente l’utilità. Sarebbe tornato in quella casa entro tre ore: con la chiave e l’autorizzazione di ispezionarla. E gli sarebbero venuti grandi guai se non avesse trovato quel pericoloso pezzo di carta. Non aveva certo sprecato il suo fiorino.
+
+“Grazie,” disse rapidamente, poi se ne andò.
+
+Riuscì ad arrivare di nuovo al tram prima che fosse metà pomeriggio. Una volta in città, cercò un indirizzario in un negozio, trovò l’indirizzo di Kirby e Blake e si diresse immediatamente verso quell’ufficio.
+
+Il signor Kirby era arrivato solo un’ora prima. Era seduto a disegnare caricature su carta assorbente con i gommini delle matite, o fissava il soffitto. Aveva scritto lettere private di suo pugno, indirizzate a persone che non avevano alcun legame con l’azienda; sembrava essersi attaccato a quegli uffici proprio in quel pomeriggio straordinario, più per godere della solitudine e del telefono che per qualsiasi altra ragione. Inoltre, aveva chiesto, in tono irritato, un paio di volte se qualcuno lo avesse cercato o telefonato.
+
+Quindi, quando il professor Higginson entrò nell’ufficio e chiese se potesse vedere il signor Kirby, l’impiegato gli rispose: “Certo, signore”, e lo accompagnò in una stanza dove copie rilegate di “Punch” e di “Graphic” vecchi di tre anni, insieme a un elenco dei falliti, occupavano il tempo degli clienti mentre aspettavano il loro turno.
+
+“Manderà su la sua carta, vero?”, chiese l’impiegato in modo innocente.
+
+“No,” disse il Filosofo, preoccupato e debole; non aveva alcuna carta, “Dica che è il Professore Higginson, e che vuole vedere soprattutto il signor Kirby.”
+
+“Il signor Kirby la sta aspettando?” continuò il commesso.
+
+“Come potrei saperlo?” disse il signor Higginson con un tono quasi furioso. E il giovane, ormai completamente perplesso, rimase ancora più confuso quando, dopo aver menzionato il nome del suo datore di lavoro, quest’ultimo balzò in piedi e sorrise radioso, come se avesse ricevuto un eredità o avesse appreso della guarigione di un caro amico.
+
+“Oh, fatemolo venire subito!”, disse allegramente. “Fatelo venire immediatamente!”. E il capo di quell’importante azienda andò fino a metà strada verso la porta per incontrare il suo visitatore.
+
+Gli prese entrambe le mani con calore e lo invitò a sedersi. Chiese con grande premura della sua salute attuale, dopo quell’orribile avventura che ormai era oggetto di conversazione per migliaia di persone. Sperava che il calore della stanza, con il fuoco ardente, non fosse dannoso per la convalescenza del professore.
+
+Il professor Higginson fu piuttosto laconico, considerando che si trattava di un ospite così gentile.
+
+“Non vi tratterrò a lungo, signor Kirby,” disse, “è davvero gentile da parte vostra avermi concesso un momento del vostro prezioso tempo.” Rifletté per un istante. Non era bravo nelle strategie, anzi, negli ultimi tempi aveva dovuto idearne troppe in troppo poco tempo. Alla fine iniziò timidamente:
+
+“Forse lo sa già, signor Kirby, temo che sia noto a tutti. In effetti, lei lo sa, perché mi ha appena detto proprio questo: che io, beh, ho avuto un incidente sfortunato, ”
+
+Il signor Kirby annuì con simpatia.
+
+“Per favore, non insista, mio caro Professore,” mormorò; “è davvero commovente, molto interessante. Ora, con la sua vasta conoscenza dei fenomeni della coscienza, ”
+
+Il professor Higginson intervenne interrompendo.
+
+“Il punto è, signor Kirby, che so che lei ha contatti con, come dovrei dire, il settore delle residenze, ”
+
+“Sì?”, disse il signor Kirby con un tono educato.
+
+“Beh, il fatto è,” esclamò il Filosofo, “che la mia questione presenta un aspetto di estremo interesse, di altissimo valore scientifico; potreste aiutarmi in questo. Si tratta di una casa, ” E a questo punto il Professore si fermò di colpo.
+
+Il signor Kirby lo osservava con le gambe incrociate, le punte delle dita unite, e un'espressione molto hierarchica.
+
+Professore Higginson continuò…
+
+“Ho un istinto, puramente subliminale, si intenda” (il signor Kirby annuì, ma non distolse mai lo sguardo dal viso del Professor, e gli occhi del Professor non lasciarono mai il pavimento), “un istinto forte, che mi fa pensare che in quei giorni io fossi, spiritualmente presente in una Casa, una sorta di, beh, una Casa!” Il signor Kirby annuì di nuovo.
+
+“Ho fatto un sogno… tipo…”
+
+“Un attimo, Professore,” disse rispettosamente il signor Kirby, “dobbiamo chiarire bene tutto questo. All’inizio ho capito che la sua completa perdita di memoria fosse dovuta a una interruzione nella continuità della coscienza, in altre parole, a un vuoto nel suo ricordo. Ho letto tutti i rapporti, naturalmente” (il suo tono era profondamente reverente), “e non intendo violare argomenti sacri. Ma all’inizio c’era davvero quel vuoto, vero?”
+
+Il professor Higginson assunse il tono tipico dei suoi discorsi. “Stiamo utilizzando termini tecnici, mio caro signore,” disse in modo piuttosto presuntuoso, “termini davvero molto tecnici. Certo, ho perso ogni consapevolezza di tipo primario; anzi, potrei addirittura affermare di non essere consapevole di alcuna attività della coscienza secondaria.” Il signor Kirby continuava ad annuire seriamente, seguendo attentamente ogni parola. “Ma la coscienza subliminale è tutta un’altra questione! Questo, mio caro signore,” proseguì il professor Higginson con un sorriso imbarazzato, “è quasi direttamente di mia competenza. La coscienza subliminale è particolarmente attiva nei sogni, e io ho sicuramente fatto un sogno molto vivido.”
+
+“Ma se la tua memoria fosse sbagliata, ”, disse il signor Kirby con un’espressione di finta perplessità, “voglio dire, se ti fossi dimenticato, ”
+
+Il professore scosse la testa con impazienza. “Non capite,” disse. “Per favore, cerchiamo di essere chiari: non c’entra affatto la memoria in tutto questo.”
+
+“No affatto, no affatto,” disse cortesemente il signor Kirby, “solo un sogno.”
+
+“Era una visione, una visione elevata,” disse il Filosofo. “Ricordo alcune cose con chiarezza: un tipo di tetto da studio, una grande finestra a lucernario. Me ne ricordo bene. Ovviamente non ho mai potuto trovarmi in una casa del genere,” continuò il Professor Higginson. “Uno dei primi principi della coscienza subliminale è che le impressioni vengono trasmesse da un centro all’altro, in modo trasversale, e non direttamente né lungo la linea ordinaria, da un livello superiore a uno inferiore. Per dirla in termini semplici, non dall’alto verso il basso, né dal basso verso l’alto. Hmm, ”
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_03" data-title="The Green Overcoat — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/trickster,motif/house_mansion,concept/perception_and_consciousness,concept/self_deception,concept/deception,concept/appearance_vs_reality,form/novel,form/satire"></span>
@@ -6023,6 +8527,64 @@ Mr. Kirby said nothing and looked nothing, and the Professor eagerly went on to 
 “I’ve told you already,” snapped Higginson. “In these visions one has connotations of atmosphere, and so on.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Certo!” disse il signor Kirby. “Naturalmente. Del tutto chiaro.”
+
+“Tutta la teoria della telepatia si basa su questo”, continuò il professor Higginson, alzando lo sguardo con cautela verso l’avvocato per poi riabbassarlo subito.
+
+“Potrebbe dipendere da nulla altro,” disse il signor Kirby con grazia.
+
+“Beh, vede,” disse lo Psicologo, “non ero in casa, di questo sono assolutamente certo; non avevo e non ho alcuna conoscenza oggettiva della casa. Ogni psicologo di riguardo potrà confermarlo. È semplicemente il fondamento base di questa scienza.”
+
+“La tua reputazione,” disse il signor Kirby, “avrebbe più peso di quella di qualsiasi altro collega,” e il professore ne fu compiaciuto.
+
+“Capisce chiaramente,” continuò il signor Higginson. “Non sono mai stato in quella casa. Eppure sono certo che esista davvero, e – beh – per motivi molto privati, mi interessa moltissimo scoprire dove si trovi. Anche se la mia scienza mi assicura che non ho avuto alcun tipo di legame fisico con essa durante quell’esperienza straordinaria, sono convinto che le sue connessioni, i suoi abitanti o i suoi proprietari possano fornirmi indizi su ciò che oggi rappresenta l’interesse principale della mia vita. E posso aggiungere, senza vantarmi, che si tratta anche di uno dei temi più importanti per la scienza europea. Per il bene della Scienza, devo vedere quella casa. Devo visitarla. Presto.”
+
+Infatti, oggi. Mi chiedo se tu possa aiutarmi, —, La casa si affacciava a nord, continuò improvvisamente, chiudendo gli occhi e cercando intorno con le mani per dare un effetto “magico” a quelle frasi spezzettate. “C’era un vialetto d’accesso costeggiato da cespugli di alloro. Un vialetto piuttosto incolto. C’erano quattro gradini di pietra per entrare. Ricordo bene quei gradini. E, oh! c’era una stanza al piano terra, con una finestra che dava sul giardino posteriore, ”
+
+Se riesco a trovare quella casa e ad ottenere l’autorizzazione del suo proprietario per visitarla, sarò profondamente grato. Pensavo che forse potreste aiutarmi.
+
+“Tutto è annotato qui,” disse il signor Kirby, scrivendo in fretta, “e sicuramente lo troverò per voi. La causa della Scienza, Professore Higginson, è una causa sacra.”
+
+“Se solo potessi! – oh, se solo riuscissi ad ottenere un ordine per me ora, oggi stesso!” esclamò il Professor, aprendo improvvisamente gli occhi e interrompendosi nel suo disperato appello. “Vorrei dare un’occhiata a quella casa. Sarebbe di estremo interesse scientifico. Puoi, ” aggiunse nervosamente, come se avesse fretta di prendere un treno o qualcosa del genere, “puoi darmi le chiavi, ora?”
+
+“Mio caro signore,” disse il signor Kirby alzando lo sguardo con gentilezza, “mio caro signore, onestamente non posso ancora essere certo di quale casa si tratti, né se la nostra ditta ne sia l’agente, né tantomeno se sia in affitto. Anche se penso che possa trattarsi di quella che ho in mente.”
+
+Guardò di nuovo le sue note.
+
+“Ah sì, la vostra azienda è l’intermediario,” disse il Professore con entusiasmo, poi aggiunse, rendendosi improvvisamente conto di aver rivelato troppo: “Ricordo che durante quella strana visione ho ricevuto in modo estremamente vivido l’impressione spirituale che fosse proprio la vostra azienda ad agire come intermediario.”
+
+Il signor Kirby non disse nulla e non mostrò alcuna reazione; il professore, intanto, si affrettò a cancellare le tracce lasciate.
+
+“Dovete sapere che in questi fenomeni puramente subliminali esiste una straordinaria capacità di percepire l’atmosfera, le – ehm – connotazioni specifiche del luogo, il luogo del sogno, insomma.”
+
+“Beh,” cominciò lentamente il signor Kirby, “certamente non potevamo rifiutarvi, Professore Higginson, in una questione di tale importanza scientifica. Forse avremmo dovuto ottenere il permesso del proprietario, ma normalmente avremmo potuto permettervi di esaminarlo. Solo che, vedete, ” proseguì con un'espressione perplessa, “non mi avete ancora detto abbastanza per capire di quale casa si tratti. Ne abbiamo così tante da ricordare, ” rifletté. “È una casa piuttosto particolare. Disabitata, giusto?” continuò, guardando i suoi appunti. “Tranne al piano di sopra, dove c’era uno studio. Ora, Professore,” aggiunse improvvisamente, fissando il suo visitatore, “non riuscite a ricordare qualche altro dettaglio, qualche vaga impressione?”
+
+“No — no,” disse timidamente il Professore Higginson.
+
+“Dovete ricordare che le circostanze erano straordinarie…”
+
+“Ad esempio,” disse il signor Kirby con un certo imbarazzo, “vi ricordate dove si trovava quel letto? Era in una specie di piccola stanza buia, oltre lo studio? È davvero strano,” continuò, tirandosi su la calza mentre parlava, “che non si riesca a tenere la calza ferma sulla gamba senza quelle orribili calzestrine. Io personalmente non le indosserò mai.”
+
+“Ora che lo suggerisci tu,” disse il Professor Higginson lentamente, con un tono che ricordava quello di un mulo che sente la resistenza della corda, “ora che lo suggerisci tu, mi viene in mente qualcosa del genere. E a proposito, sembra anche che ricordi una deliziosa musica celestiale.”
+
+“Ah!” disse il signor Kirby, fissando un punto sul tappeto situato a circa undici piedi di distanza. “Che cosa meravigliosa sia la musica. Solo sette note, e guardate quante cose si possono ottenere da esse! Fumerò un sigaro, se non vi dispiace, ” E accese uno. “Ora, se nella stanza ci fossero tre sedie, e ricordaste qualcosa riguardo a una corda, ” disse il signor Kirby.
+
+“Non sono del tutto sicuro riguardo alla corda,” mentì il Professore Higginson, facendo una pausa dopo ogni parola, “ma le sedie? Sì, credo di aver visto delle sedie, sedie di legno.”
+
+“E la finestra sul soffitto era rotta?”
+
+“No, sì, forse, molto probabilmente,” balbettò il Filosofo.
+
+“Allora l’ho capito,” disse il signor Kirby con decisione, “l’ho individuato! Avevi perfettamente ragione quando hai detto di non essere mai stato lì di persona. Almeno, non credo che tu possa esserci mai stato. Non si trova affatto in questa città, né in Inghilterra. È un posto di cui si occupa la mia azienda nelle Ebridi. Un meraviglioso vecchio luogo, sai. Abbandonato. Era una casa signorile. Ora, la storia di quella casa, ” continuò a raccontare animatamente, quando il professore lo interruppe.
+
+“Assolutamente no! Assolutamente no!” disse arrabbiato, “Vi dico che è da qualche parte qui vicino. A Ormeston!”
+
+“Mio caro signore!”, disse il signor Kirby, spalancando gli occhi, “come può sapere che esista una copia della casa di cui sto parlando,?”
+
+“Te l’ho già detto,” sbottò Higginson. “In queste visioni ci sono elementi legati all’atmosfera e simili.”
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_04" data-title="The Green Overcoat — Chapter 13 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/trickster,motif/house_mansion,concept/perception_and_consciousness,concept/deception,concept/self_deception,form/novel,form/satire"></span>
@@ -6056,6 +8618,36 @@ He was actually at the door, when Mr Kirby added —
 
 The great Psychologist slowly paced the street outside, then despair gave him relief, and he went home to bed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Beh,” disse il signor Kirby, dopo quell’esplosione di emozioni, scuotendo lentamente la testa da una parte all’altra, “allora non sono utile affatto, per niente. So per caso dove si trova quel posto nelle Ebridi; l’ho visto solo l’anno scorso. Farlo per aiutare un cugino. Sarebbe stato molto interessante, davvero molto interessante, se fosse stato per quello. Non pensi che possa essere così? In quelle zone la gente ha spesso premonizioni.”
+
+“No,” disse il Professore Higginson, alzandosi con determinazione e con un certo senso di rabbia, “no, non credo che possa essere così.”
+
+“Beh, allora,” disse il signor Kirby in modo disperato, “non vedo proprio come possa aiutarvi. Non pensate che possano essersi confuse due diverse connotazioni?”
+
+“No, non credo,” rispose brevemente il Professore; sempre più convinto che qualcosa stesse andando storto. “Non penso proprio. È impossibile. Queste cose hanno le loro leggi, signore, proprio come la natura, intendo dire la natura ordinaria, quella comune, quelle che noi chiamiamo Leggi della Natura.”
+
+Il signor Kirby annuì in segno di accordo. “Non credo che dovrei rubarvi ancora del tempo”, proseguì il professor Higginson.
+
+“Ah, ma vorrei davvero sapere di più,” disse il signor Kirby con entusiasmo.
+
+“Temo che non serva a nulla,” disse il professor Higginson, e fece per uscire.
+
+# Era già alla porta quando il signor Kirby aggiunse…
+
+“Professore Higginson, ho promesso a alcuni amici di chiederle di venire a cena a Londra dopo la sua lezione. È stato un po’ audace da parte mia, ma sapevano che vivevo a Ormeston. Mi chiedo se possa permettermelo. Devo scriverle? Sarò al Rockingham; forse potrò dirle qualcosa di più, magari scoprire qualcosa.”
+
+“Sì,” disse il Professore Higginson senza entusiasmo, ma desiderava davvero molto vedere quella casa e cercare in essa quel pezzo di carta inquietante; inoltre, non voleva perdere i contatti con l’Ordine per poter continuare le sue ricerche. “Sì, certamente.”
+
+“Vede,” aggiunse il signor Kirby con scusa, “quando verrà a cena da me a Londra mercoledì, forse sarò in grado di suggerirle molte cose: una stanza al piano di sotto quasi completamente spoglia, con un grande tavolo al centro, delle scale in quercia senza tappeti, insomma, tutte quelle cose che ci si aspetterebbe in una casa del genere.”
+
+“Sì,” disse il professor Higginson, sbalordito.
+
+“Beh, beh,” disse il signor Kirby con maggiore allegria, stringendogli cordialmente la mano, “non vi tratterrò oltre; mercoledì prossimo in città! Vi scriverò!” e si allontanò con passo tranquillo verso la sua stanza.
+
+Il grande psicologo camminava lentamente per la strada fuori; poi il disperazione gli portò un senso di sollievo, e tornò a casa a dormire.
 
 
 
@@ -6150,6 +8742,96 @@ There stood in Mr. Kirby’s study a large Ottoman. He lifted the lid of that Vi
 
 Mr. Kirby was wholly devoid of superstition. None the less, he went out of the house shortly after, and during the hour or two at his disposal he took the Midland air. Of course, there was nothing in Mr. Brassington’s private twist about Green Overcoats, but why should a sensible man run any risks at all?
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIV.
+
+In cui, per quanto incredibile possa sembrare, un non-polacco ha la meglio su un polacco.
+
+Martedì mattina, il signor Kirby si svegliò pieno di desiderio di agire. Tutto stava andando nel verso giusto. Era davvero molto divertente.
+
+A Mr. Kirby piaceva sistemare le cose nei loro posti. Avrebbe dovuto fare il soldato.
+
+Calcolò con una precisione piacevole: quella mattina – grazie alla stupida polizia e al telefono – avrebbe trovato il Cappotto Verde; quel pomeriggio e quella sera avrebbe invitato gli ospiti che desiderava a pranzare con lui il giorno dopo, mercoledì, a Londra, dopo la grande lezione del professor Higginson sull’Immortalità dell’anima. Era un argomento interessante, l’Immortalità dell’anima.
+
+Per assicurarsi che tutti i suoi ospiti fossero presenti, quella sera provò a parlare con uno di loro al telefono da Ormeston. Uno di loro chiamò James McAuley. Gli piaceva quel ragazzo; mentre parlava, pensò anche di invitare un amico di McAuley ad accompagnarlo. Non conosceva il nome di quell’amico, ma non importava: si dovrebbe sempre chiedere agli amici degli altri se possono venire.
+
+Dopo aver preso la sua decisione, il signor Kirby, felice per la bellezza di quella giornata, si incamminò allegramente verso una zona di Ormeston che avevamo già visitato in precedenza, e che certamente non era la scelta preferita dai ricchi. Percorse quelle strade sporche e strette, vestito con eleganza nel suo abbigliamento impeccabile, curatissimo nell’aspetto. Era abbastanza all’antica da portare un fiore all’occhiello del colletto, e si era preso molta cura del proprio cappello. Stava andando a incontrare qualcuno che conosceva, qualcuno che in passato aveva avuto rapporti professionali con lui, e con il quale alcuni anni prima avevano intrattenuto affari molto interessanti. Stava andando a incontrare un certo signor Montague.
+
+Batté alla porta in modo deciso e autoritario. La porta si aprì subito, e apparve quella piccola figura anziana, piena di insolenza. Quando i suoi occhi riconobbero il signor Kirby, il suo viso cambiò immediatamente: dall’insolenza alla sottomissione.
+
+“Buongiorno, Samuel,” disse il signor Kirby con decisione. “No, non entrerò, grazie. Voglio solo che mi dica una cosa. Mi dispiace disturbarla. Dove si trova quel cappotto verde del signor Brassington? L’ha perso qualche giorno fa, e un mio amico mi ha detto che molto probabilmente lei ne sapeva qualcosa.”
+
+Non sprecherò né il mio tempo né quello del lettore descrivendo l’espressione del viso di Mr. Montague quando sentì questa domanda; dirò soltanto che sembrava uno di quei volti scolpiti nella pietra dura, lasciati a noi dall’antichità: completamente bianchi, non privi di espressione, ma con un’espressione nascosta, e, si potrebbe giurare, muta. Tuttavia quel viso “parlava”. Diceva, con una voce molto innaturale, una voce priva di respiro.
+
+“Giuro su Dio che non lo so, signor Kirby. Se lo sapessi, giuro su Dio che ve lo direi.”
+
+“Ditemi semplicemente cosa ne avete fatto,” disse il signor Kirby con calma e rapidità, guardando l’orologio. “Devo occuparmi di molte altre cose.”
+
+“Giuro su Dio, signore,” disse quella voce, “l’ho dato via.”
+
+Il sorriso del signor Kirby divenne sempre più intenso, poi improvvisamente scomparve. Gli credeva.
+
+“È tutto qui, Samuel?”, chiese, voltandosi per andarsene. C’era un serio accenno di pericolo nella sua voce.
+
+Il volto diceva soltanto…
+
+“Beh, dovevo avvertire le persone a me care, signor Kirby; dovevo avvertire mio nipote, signore. Dovevo anche avvertire Lipsky di non toccarlo, assolutamente di non toccarlo, signor Kirby!”
+
+“Lipsky a Lydgate? Allora l’ha ottenuto! Buongiorno, Samuel,” disse il avvocato, poi se ne andò a grandi passi.
+
+Gli dispiaceva di essersi preso la briga di percorrere un quarto di miglio, ma era felice di aver ottenuto le informazioni che desiderava.
+
+Quel piccolo negozio chiuso in Lydgate sembrava davvero abbandonato mentre lui si avvicinava. Il signor Kirby conosceva bene quei vecchi abiti appoggiati all’esterno, i grandi cartelli con i prezzi, e le occasionali annunci di sconti. Quel giorno, però, tutto sembrava meno attraente e meno vivace, come se la guida del proprietario mancasse. Il signor Kirby lo aveva conosciuto in passato, solo per motivi legati al lavoro. E se gli fosse successo qualcosa, ne avrebbe sentito molto la mancanza, come se si fosse persa una figura importante nella sua vita professionale. Entrò nel negozio e, invece di trovare Pole Lipsky, vide un giovane del Midland inepto, con i capelli biondi, che balbettava e non sapeva affatto come vendere i prodotti.
+
+Il signor Kirby si rivolse al suo giovane connazionale in modo rapido ma cortese.
+
+“Le dispiacerebbe darmi il cappotto verde del signor Brassington?” disse lui. “C-cosa?”, rispose l’uomo che non era polacco, completamente confuso.
+
+Nel mondo moderno esiste un certo tipo di cose che non sono destinate al successo commerciale, e alcune forme di questo tipo non polacco rappresentano esempi estremi di ciò.
+
+“Il cappotto verde del signor Brassington”, ripeté il signor Kirby con voce ferma e chiara.
+
+Di sopra, Lipsky, alzandosi dal suo letto di malato, sentì tutto. Sentì quella voce insolita, sentì quel nome. E, come ho scritto qualche pagina fa, scese giù.
+
+C'è sempre un legame comune tra le intelligenze, anche se l'intelligenza di una persona è quella di un inglese e quella dell'altra quella di un polacco; quando Lipsky entrò nel negozio, il signor Kirby e lui iniziarono immediatamente a comunicare, mentre l'assistente venne subito escluso da quell’interazione.
+
+“Oh, signor Lipsky,” disse cortesemente il signor Kirby, “temo che lei sia stato malato. Mi dispiace molto! Ma la verità è che sono piuttosto di fretta e sono venuto a prendere il cappotto verde del signor Brassington.”
+
+“Sì, signor Kirby, certamente,” disse il proprietario del negozio.
+
+Non capiva questa razza che non era la sua, ma sapeva perfettamente che il signor Kirby non lo avrebbe tradito.
+
+“Sono molto felice che abbia chiamato, signor Kirby. L’ho appena preparato per inviarlo immediatamente al signor Brassington. Mia assistente se ne è occupata, signore.”
+
+“Iniziarono il ‘non-Polo’.”
+
+“Silenzio!” tuonò il signor Kirby verso il suo connazionale, e il signor Lipsky ne fu molto grato.
+
+# Mr. Lipsky continuò con impazienza —
+
+“Va tutto bene, signor Kirby. C’è il libretto degli assegni nella tasca. È per questo che lo sapevo!”
+
+“Certo, senz’altro,” disse il signor Kirby con noncuranza, “va tutto bene.”
+
+“Non lo accetterà, signor Kirby”, disse rispettosamente il signor Lipsky; “lo farò inviare a lei”.
+
+“Sì, certamente,” annuì il signor Kirby uscendo dal negozio. “Nessuna fretta, in qualsiasi momento questo pomeriggio. A casa mia privata, non in ufficio, capisce?”
+
+Il signor Lipsky arrivò alla porta e lo salutò con un sorriso. Un sorriso davvero speciale! Sì, il signor Lipsky conosceva molto bene quella casa privata del signor Kirby: gli era stato concesso l’accesso per due o tre colloqui. La conosceva davvero molto bene.
+
+L’avvocato percorreva di nuovo le strade illuminate dal sole, con il tempo libero che gli rimaneva. Si sentiva insolitamente rilassato, anche se di solito lo era già. Come il personaggio mitologico del poema, anche lui aveva completato la sua missione.
+
+Trascorse tutta quella giornata in tranquillità. Chiamò l’hotel Rockingham a Londra per prenotare una stanza e ordinare la cena per il giorno seguente. Telefonò di nuovo al suo amico Brassington per confermare l’appuntamento e assicurarsi che portasse anche suo figlio. Poi, quando arrivò la sera, aprì l’elenco telefonico di Londra e cercò il numero di Sir Alexander McAuley, quel grande medico. Erano passati molti anni da quando il signor Kirby lo aveva visto; ma in passato si conoscevano bene, quindi non gli dispiaceva chiamarlo. Inoltre, quello che il signor Kirby voleva parlare con lui, quella sera di martedì dopo cena, non era Sir Alexander, ma suo figlio, il signor James. Il tempo stringeva, e il signor Kirby aveva molta urgenza di parlare con il signor James McAuley.
+
+Ottenne l’indirizzo di casa di Sir Alexander. Scoprì che il signor James McAuley non era in casa. Conobbe anche il nome del ristorante dove il giovane stava pranzando con alcuni amici. Chiamò quel ristorante, e finalmente, poco dopo le nove e mezza, ebbe la gioia di sentire la voce fresca di Jimmy all’altro capo della linea.
+
+Di cosa fosse quella conversazione dovrò, nel prossimo capitolo, portare il lettore dall’altra parte della situazione per informarlo; ma appena ebbe posato il ricevitore, suonò il campanello e l’uomo non appartenente al personale, portando un pacco per il signor Kirby, apparve nell’ingresso. Evidentemente il signor Lipsky era un buon uomo d’affari: non disturbava la routine del suo negozio; le cose che non riguardavano gli orari di lavoro le svolgeva al di fuori di essi, e sapeva come sfruttare al massimo il tempo del proprio assistente.
+
+Nello studio del signor Kirby c'era un grande divano ottomano. Sollevò il coperchio di quel pezzo di mobili vittoriano e ordinò al ragazzo di mettere lì il pacco.
+
+Il signor Kirby era completamente privo di superstizioni. Tuttavia, poco dopo uscì di casa e, nell’ora o due a sua disposizione, prese il volo verso Midland. Ovviamente, non c’era nulla di vero nella strana teoria del signor Brassington riguardo ai “Cappotti Verdi”, ma perché mai un uomo sensato dovrebbe correre dei rischi?
 
 
 
@@ -6311,6 +8993,162 @@ Booby was concerned.
 He thrust himself into his coat, looked over his shoulder as he ran down the stairs, and with the very disconcerting cry, “Keep Booby!” hurled at his companion, he sought the street and a taxi, and was half-way to King’s Cross before he remembered that Melba must pay for the dinner. But the thought was small comfort compared with the trial that was before him. And for an hour and three-quarters as the train raced up north to the Midlands he comforted himself less and less at the prospect.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XV.
+
+In cui tre giovani uomini mangiano, e non solo mangiano, ma bevono anche.
+
+A Londra rimangono pochi ristoranti dove gli uomini possano incontrarsi in un certo grado di privacy e godere di cibo decente. Forse sarebbe più accurato dire che non ne rimane nessuno. Ma, indipendentemente dal fatto che ce ne siano ancora o meno, inventerò uno per i bisogni di questa storia, e vi dirò che proprio in quella stessa sera di martedì, mentre il signor Kirby telefonava al sir Alexander McAuley, Jimmy e Melba stavano ospitando con grande gentilezza Algernon Sawby Leonidas Brassington – per brevità, il signor Brassington Jr. – a cena in una stanza privata del ristorante Bolter’s.
+
+Il ristorante Bolter’s è, a mio parere, l’unico posto rimasto a Londra dove un uomo possa mangiare bene e allo stesso tempo sentirsi a proprio agio. Si trova in una piccola strada laterale di Regent Street, verso est, ed è stato fortunatamente all’altezza della sua reputazione per settant’anni. O forse nessuno ha mai pagato il conto al ristorante Bolter’s, oppure Bolter’s stesso è sempre stato troppo orgoglioso. Comunque sia, i “figli del leone” non hanno la minima idea di cosa sia Bolter’s, così come i parenti di quella nobile bestia. E certamente anche la maggior parte di quegli abitanti degradati del continente europeo che permettiamo di visitare la nostra Metropoli e di ammirare la nostra popolazione imperiale.
+
+Anche la maggior parte dei giovani non ha mai sentito parlare di Bolter; poiché questa azienda non spende nemmeno un centesimo in pubblicità, il suo nome, nelle rare occasioni in cui compare in un articolo o in una lettera, viene spietatamente cancellato dal redattore con la sua penna blu.
+
+Bolter’s è conosciuto e apprezzato da circa duecento famiglie. Si tratta di una tradizione, e, come potete facilmente immaginare, estremamente costosa. Se siete in due a cena da Bolter’s, potreste spendere fino a 7 sterline; se siete in tre, fino a 10 sterline. Se siete molto ricchi, vale davvero la pena cenare lì; anche se siete solo moderatamente ricchi, ne vale la pena comunque. E se siete poveri, beh, vale la pena finire in prigione per non riuscire a pagare: il cibo è semplicemente eccezionale.
+
+Tutto ciò racconto al lettore affinché possa comprendere come e perché Jimmy e Melba intrattenessero il loro amico. Quell’amico, sebbene suo padre fosse un uomo molto ricco, si sentiva un po’ intimidito dall’ambiente circostante. Aveva sentito parlare di Bolter’s una o due volte al massimo, dai margini di quel mondo dirigente in cui vivevano alcuni dei suoi amici universitari. Ricordava che il figlio di un Ministro del Gabinetto si era lamentato di Bolter’s, e che un nobile del regno (ex commerciante di mobili e mercante d’arte, e per di più usuraio) aveva detto che Bolter’s fosse sporco. Un tale complimento, in realtà, significava proprio il contrario. Ricordava anche che le signore non andavano a Bolter’s. Ricordava parlare di una cena a Bolter’s poco prima che un piccolo gruppo di uomini partisse per l’India nel suo primo anno di università; ora, seduto lì dentro, si sentiva davvero impressionato. Sapeva che le persone di Jimmy appartenevano a quel “mondo” in cui lui non avrebbe mai potuto entrare. Melba, invece, rappresentava per lui un vero mistero. Comunque fosse, Melba era strettamente legata a Jimmy e al suo ambiente. In altre parole, sapeva che sia Jimmy che Melba appartenevano a quel certo “lato” della società inglese, ma allo stesso tempo sapeva – e aveva tutte le ragioni per saperlo – che non erano esattamente nella posizione sociale che avrebbero dovuto avere. Sapeva che non potevano esserlo, perché mentre lui, Leonidas, in passato aveva vinto 1.800 sterline a carte con loro, e le aveva spese, loro, Jimmy e Melba, avevano vinto 2.000 sterline da qualcun altro, ma non le avevano mai ricevute! Perché suo padre (a differenza dei loro padri) si era rifiutato di pagare. Ma il signor Brassington Jr. non era certo il tipo di persona che avrebbe affrontato un argomento del genere. È un argomento che mette a disagio le persone “importanti”, a meno che non siano loro stessi ad introdurlo. E in quella particolare occasione, lo fecero proprio.
+
+Il signor Brassington Jr. aveva bevuto in modo moderato; Jimmy, invece, molto; Melba, eccessivamente. Erano arrivati a quel piatto, uno dei tanti che consistevano in un piccolissimo uccello congelato, quando Jimmy, scherzando, lanciò un osso verso il suo ospite (che si abbassò ma non lo colpì), e aggiunse poi queste parole.
+
+“Non pensavi davvero che dovessimo finire in questa situazione, vero, Booby?”
+
+“Beh,” disse Algernon Sawby Leonidas Brassington con delicatezza, “ovviamente sapevo che volevate che mi sistemassi, e Dio sa quanto abbia provato a farlo.”
+
+“Va tutto bene,” disse Melba, con una voce ancora chiara e articolata. “Tuo padre ha ricevuto i soldi.”
+
+Dopo aver detto questo, scoppiò in una risata piuttosto irrazionale, si soffocò e bevve un intero bicchiere di vino per alleviare il senso di soffocamento.
+
+Booby era confuso.
+
+“Mio, padre, ha pagato?”, disse lentamente.
+
+Jimmy annuì per confermare quella grande verità.
+
+“Colpito la scorsa settimana, Booby,” disse.
+
+“Dove?”, si chiese stupito Booby.
+
+“Alla banca”, disse Melba, e Jimmy aggiunse: “Stranamente”.
+
+“Non tutta la cosa?” disse Booby, il suo viso cambiando espressione mentre lo diceva.
+
+Con la bocca piena in quel momento, Melba non fece altro che alzare lo sguardo, annuire e grugnire. Jimmy, impegnato a bere, posò il liquore, prese un respiro profondo e disse:
+
+"Tutta la baracca!"
+
+Forse fu un bene per quei due giovani che iniziarono a ubriacarsi rapidamente, perché nella giovinezza l’abitudine all’alcol, così fatale negli anni successivi, spesso porta a comportamenti sorprendentemente virtuosi. Molto prima di arrivare al punto cruciale, Jimmy e Melba avevano già capito che dovevano affrontare la questione seriamente. Infatti, man mano che l’momento si avvicinava, Jimmy tendeva verso atteggiamenti sentimentali, mentre Melba diventava stupidamente presuntuosa. Fu davanti a un caffè che affrontarono l’argomento, con il brandy come aiuto.
+
+“Guarda qui, Booby,” disse Jimmy, dopo che lui e Melba avevano trascorso cinque minuti in silenzio, incoraggiandosi a vicenda mentalmente, “dovresti sapere la verità, è solo giusto. Siamo stati noi a far firmare tuo padre.”
+
+Algernon Sawby Leonidas Brassington ebbe all'improvviso una visione retrospettiva di suo padre, ma non riuscì a dare alcun senso alle parole che quest'ultimo aveva detto.
+
+“L’hai fatto tu?” disse, arrossendo leggermente. “Maledetto se è vero… Lui ti avrebbe reso ancora più simile a lui!”
+
+Una frase abbastanza illogica, ma sufficientemente ricca di significato.
+
+“Forse,” disse Jimmy, con la dignità offesa di una persona che ha appena cenato. “Se non vuoi sentirne parlare, non è necessario.”
+
+“Stai zitto, Jimmy,” disse Melba in modo diplomatico.
+
+Cercò di rendere la sua voce, alta e ora incerta, più gentile mentre continuava a parlare con il giovane signor Brassington.
+
+“Vedi, Booby, è così. C’è stata una specie di compulsione, capisci? Ci è stata quella scena, vero, Jimmy?”
+
+“Ah sì, scene a sufficienza!” disse Jimmy.
+
+“Beh, comunque sia, ci ha dato il assegno, e poi, sai, abbiamo dovuto impedire che venisse divulgato, intendo dire, che lui venisse scoperto.”
+
+“Non capisco nemmeno una parola di quello che dici,” disse Booby.
+
+“No“, disse Jimmy con aria pensierosa, fissando il fuoco. “Avevamo paura proprio di quello.“
+
+“Se dovesse scoppiare una lite, Booby,” disse Melba con affetto, “se davvero dovesse succedere qualcosa, dovresti essere avvertito. È quello che pensiamo noi.”
+
+“È finito,” disse Jimmy.
+
+Allora, convinti che la loro prova fosse finita e il loro dovere compiuto, i due congiurati piombarono nel silenzio. Un silenzio che avrebbe potuto durare diversi minuti.
+
+Fu interrotto dal suono di una campanella elettrica nel corridoio fuori; il rumore era attutito dalla porta. Il riservista tedesco, che il suo governo senza scrupoli pagava segretamente per servire ai tavoli al ristorante Bolter’s, entrò per comunicare a Mr. McAuley che lo cercavano al telefono.
+
+Il dio Bacco, quando uscì dall’Asia con quelle sue pantere, arrivò in Europa come padrone di molte emozioni e stati d’animo. Jimmy era un giovane spensierato e soddisfatto quando sollevò il ricevitore. Sentì una voce chiara e piuttosto acuta chiedergli se fosse il signor.
+
+McAuley. Era una voce che sembrava di ricordare. Era la voce del signor Kirby.
+
+“Ho chiesto loro a casa dove fossi,” disse la voce, “e mi hanno detto che avrei potuto trovarti se avessi chiamato Bolter’s.”
+
+“Grazie,” disse Jimmy ad alta voce, ma non aveva alcun motivo per essere grato.
+
+“Parlo da Ormeston”, disse la voce; “mi chiamo Kirby”.
+
+L’umore di Jimmy iniziò a cambiare.
+
+“Ho chiesto sei minuti,” continuò la voce, “ma tanto vale che ve lo dica subito. Si tratta di quella casa che avete preso. Greystones. Ora, signor McAuley, per il vostro stesso interesse, vi sareste così gentile da prendere il treno delle 10:15 da King’s Cross? Ci incontreremo alla stazione di Ormeston.”
+
+Quel breve momento di spirito eroico, non sconosciuto al dio Bacco, invase improvvisamente Jimmy.
+
+“Per la mia parola, signore!”, cominciò. Poi, in un batter d’occhio, un altro stato d’animo – uno di allarme – lo spinse ad aggiungere: “È davvero qualcosa di urgente?”. E il suo terzo stato d’animo fu il panico.
+
+Mio Dio! Poteva immaginare uno o due problemi terribilmente urgenti legati a Greystones. E se il vecchio Brassington fosse morto lì? E se fosse esploso e avesse denunciato tutto alla polizia, nonostante la propria vergogna?
+
+“Signor Kirby!”, gridò con voce cambiata nella piccola coppa nera, “Signor Kirby!” Il filo rimase muto; si udivano soltanto i ronzii, i suoni striduli e quei piccoli ringhi malvagi che questa meravigliosa invenzione ha aggiunto alla vita moderna. “Signor Kirby!”, disse Jimmy ancora più forte, per la terza volta. Ma a rispondere fu una voce di donna.
+
+“Altri tre minuti?”, disse in tono brusco, e poi la linea telefonica si interruppe.
+
+Ancora due volte e ancora una volta il povero Jimmy implorò quella voce, ma il signor Kirby conosceva la natura umana, soprattutto quella dei giovani. Non aveva cercato di convincerlo. Nella sua stanza da studio a Ormeston aveva già sostituito il ricevitore e stava prendendo dallo scaffale un volume di Molière. Amava quell’autore, e mancavano ancora almeno due ore prima che dovesse andare alla stazione a ritirare la posta della sera.
+
+Dopo una lite con il responsabile del negozio e varie altre situazioni ridicole, Jimmy abbandonò la [[Machine|macchina]]. Tornò dai suoi due compagni, che erano immersi in qualche stupida discussione a proposito di vino o altro. Alzando lo sguardo al suo arrivo, notarono che era cambiato.
+
+“Che c’è, Jimmy?” chiese Melba.
+
+“Voglio parlarti,” disse Jimmy con nervosismo, ma stranamente sobrio. Guardò Booby.
+
+“Ah, non badate a me,” disse Booby.
+
+“Beh, sì che lo facciamo,” disse Jimmy con rammarico, poi trascinò Melba nel corridoio esterno.
+
+“C’è un problema lassù,” disse.
+
+“E poi?” chiese Melba.
+
+“Vecchio Brassington,” disse Jimmy sottovoce, con nervosismo.
+
+“Rosa di pesco? Non oserebbe mai,” sussurrò Melba, incredula.
+
+“Perché no?” disse Jimmy, angosciato. “Mi hanno chiamato, sai. Mi hanno convocato urgentemente da Ormeston, dall’avvocato. Esiste una norma legale, Melba, si chiama ‘coercizione’.”
+
+“Oh, dannazione! Non riesce a provare nulla!”
+
+“Maledizione!” esclamò Jimmy, “non lo sappiamo proprio.”
+
+“Non si metterebbe mai in imbarazzo,” continuò Melba, con un certo disagio.
+
+“Con questi vecchi imbroglioni non si può mai sapere cosa aspettarsi. Comunque, quel avvocato che conosce mio padre, l’uomo da cui abbiamo comprato la casa, mi ha chiamato e devo andare a incontrarlo stasera alle 10:15 a Ormeston.”
+
+Melba non disse nulla.
+
+“Vai con me?” continuò Jimmy, cercando di mostrare coraggio davanti al suo amico.
+
+“No,” disse Melba con fermezza.
+
+“Non sei tu quello che deve farlo,” disse Jimmy con amarezza. “È stato lui a chiamarmi. Ho firmato, sai. Melba. È il mio nome che hanno usato.”
+
+“Se fossi io, ” iniziò Melba.
+
+“Non sei tu,” disse Jimmy in modo scortese, e proprio mentre lo diceva, Booby uscì fuori.
+
+“Se voi due avete intenzione di parlare di affari,” disse lui con sospetto, “io me ne torno nelle mie stanze.”
+
+“La verità è, Booby,” disse Jimmy, “che ho appena saputo che mia zia sta per morire.”
+
+Booby era preoccupato.
+
+“Oh, mio Dio!”, disse.
+
+“Sì,” continuò Jimmy rapidamente, tirando fuori l’orologio e vedendo che mancavano solo sette minuti alle dieci, “è grave, molto grave! Non riesco ad aspettare.”
+
+Si infilò il cappotto, guardò indietro mentre scendeva le scale e, con un grido davvero inquietante, “Tieni Booby!”, gridò al suo compagno. Poi corse in strada alla ricerca di un taxi; era già a metà strada verso King’s Cross quando si ricordò che Melba doveva pagare la cena. Ma quel pensiero rappresentava ben poco conforto rispetto alle difficoltà che lo aspettavano. Per un’ora e tre quarti, mentre il treno viaggiava verso nord, verso le Midlands, il suo ottimismo diminuiva sempre di più.
+
 
 
 <span class="atom-split" data-atom="chapter_17" data-title="The Green Overcoat — Chapter 16" data-chapter="Chapter 17" data-kind="chapter" data-tags="archetype/trickster,motif/money_and_gold,concept/crime_and_punishment,concept/deception,concept/greed_and_money,concept/guilt,concept/justice_right_and_wrong,form/novel,form/satire"></span>
@@ -6461,6 +9299,152 @@ Mr. Kirby got up a little shakily. He was a man of imagination, and he winced in
 With that he switched off the light and made his way to bed, maturing his plans for tomorrow. But he rather wished he had some outhouse or other in which to hide the garment. He felt a little afraid of all sorts of things — for instance, fire.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XVI.
+
+In quale tipo di controinterrogatorio si procede “in formazione a gradini”? Se non sai cosa significa, non posso aiutarti.
+
+Allegrissimo, più che allegro, con un sorriso stampato sul volto, il signor Kirby stava in piedi alla mezzanotte sulla banchina di arrivo della grande stazione di Ormeston mentre arrivava la posta notturna. Vide la figura snella di un giovane il cui ogni gesto rivelava un'ansia assurda; il ragazzo avanzava confuso verso l’estremità del treno, guardandosi intorno come se cercasse qualcuno.
+
+Un caloroso e gentile benvenuto accolse James McAuley, completamente diverso da ciò che si aspettava. Si sentì immensamente sollevato.
+
+“Mio caro signor McAuley,” disse l’avvocato, con grande generosità e nel tono più cordiale possibile, “che gentile da parte sua essere venuto! Devo ammettere che ero molto incerto se avrebbe compreso l’urgenza del mio messaggio, data la brevità del preavviso. Vede,” aggiunse, spiegando con calore, “ci hanno tagliato fuori.”
+
+“Sì,” disse Jimmy, pensando che questo spiegasse tutto.
+
+“È stato un vero fastidio,” continuava a lamentarsi il signor Kirby mentre conduceva il ragazzo fuori verso una cabina telefonica; “il telefono ha i suoi vantaggi, certo, ma, perché non hai portato una borsa?”
+
+“No”, disse Jimmy. “Tornerò con il treno notturno”.
+
+“Come desiderate, mio caro signore,” disse l’avvocato.
+
+Gli diede l'indirizzo di casa sua e loro partirono.
+
+Quando entrarono nello studio e venne loro offerta da bere, Jimmy ricordò le sue ansie. Ripensò a quel messaggio urgente e a quel viaggio affrettato. L’affare doveva essere davvero molto importante. Ne fu ancora più convinto quando notò che l’espressione sul volto di Mr. Kirby era diventata più seria e meno familiare. Poiché Mr. Kirby non disse nulla, Jimmy aggiunse un altro commento.
+
+“Stavo dando una cena al giovane Brassington,” disse. “Forse lo conosciete? Era con me alla King’s School.” Il signor Kirby non rispose nulla. “Appartiene a questa città,” aggiunse Jimmy.
+
+Il signor Kirby aprì il fuoco con voce grave e misurata.
+
+“Signor McAuley”, disse, “so che conosce il giovane signor Brassington”.
+
+Le parole sembravano avere un significato un po’ più profondo di quanto a Jimmy piacesse.
+
+“Sono un caro amico del signor Brassington, il più anziano. Lo stimiamo molto a Ormeston, signor McAuley.”
+
+Jimmy incrociò le gambe, si appoggiò allo schienale della sedia, sorseggiò il vino e assunse un'espressione indifferente, da vero uomo di mondo, proprio come quella di un criminale sul punto di essere impiccato.
+
+Il signor Kirby, con la testa appoggiata pensierosamente sui pollici della mano destra e guardando lontano dal viso di Jimmy, disse:
+
+“Sì, conosciamo il signor Brassington e lo rispettiamo molto.”
+
+Jimmy non riusciva più a sopportare quella tensione.
+
+“Cosa vuoi dirmi riguardo a Greystones?” chiese all’improvviso.
+
+“Ah sì, Greystones,” disse il signor Kirby, “certamente! Ma il vostro accenno ai Brassington mi ha fatto pensare a quella triste perdita che il signor Brassington ha subito. Immagino che suo figlio vi abbia raccontato. Temo che non riesca a riprendersi; ma la banca ammette che si è trattato di una falsificazione.”
+
+“Falsificazione!”, gridò Jimmy.
+
+Gli venne improvvisamente in mente che il padre malvagio di Booby aveva scoperto un metodo d’attacco estremamente efficace.
+
+“Beh, beh,” disse il signor Kirby, “questo non riguarda gli affari. Certo, non avrei dovuto disturbarvi per questioni che riguardano gli altri. Ma riguardo a Greystones, signore, ”
+
+McAuley, il problema è, naturalmente non ti biasimo, ma dovrai renderti conto di essere legalmente responsabile. Dopo che te ne sei andato da lì – stavi dipingendo, giusto? – abbiamo trovato lo studio in, beh, in condizioni piuttosto strane; e, vedi,” continuò, cambiando posizione mentre proseguiva la conversazione, “tra noi due, il proprietario di casa è un po’, beh, quasi un po’ strano.” Il signor Kirby sorrise mentre continuava. “Non spetta a me parlare di uno cliente con un altro,” disse, “ma capirai cosa intendo. La verità è che la situazione sembra davvero ridicola. Ho fatto del mio meglio per impedire che accadesse qualcosa; ma capirai perché ti ho telefonato. Ha detto che ti convocherà domani, e che si tratta di ventuno sterline.”
+
+Jimmy non sentì una parola; stava pensando a cose molto più importanti.
+
+# Mr. Kirby continuò —
+
+“Certo che avrei pagato e mi sarei poi messo in contatto con voi, signore.”
+
+“McAuley,” disse il signor Kirby ridendo in modo professionale. “Sei legalmente responsabile, chiunque sia stato ad entrare e causare quel danno. Il termine per presentarsi non è ancora scaduto, e sai quanto sia assurdo tutto questo? Un uomo può davvero emettere un mandato del genere! Per l’amor del cielo, potresti anche andare a comprarti un paio di stivali a credito, e trovare il mandato ad aspettarti già a casa tua! È ridicolo, ma è la legge.”
+
+Il viso di Jimmy era rosso e i suoi occhi troppo luminosi.
+
+“Non era una falsificazione, signor Kirby!” disse lui. “Non una cosa?” replicò il signor Kirby, alzando lo sguardo con un’affettata aria confusa. “Non intendo quello, signor McAuley. Davvero, la perdita del povero Brassington non ci riguarda affatto. Ma se le interessa, e se andrà a trovare il giovane Brassington, potrebbe dirgli che suo padre ha affidato tutto a me, e che domani stesso invierò per posta dal mio ufficio i dettagli sul assegno e a chi era indirizzato.”
+
+“Signor Kirby,” disse Jimmy con voce estremamente agitata, “giuro solennemente su Dio che quel assegno non è stato falsificato!”
+
+“Davvero, signor McAuley”, disse il signor Kirby, “non capisco quale sia il suo rapporto con…”
+
+“Sì, ma vedrete…”, interruppe Jimmy con amarezza, “vedrete domani mattina!”
+
+“Ma come, ma come,” disse il signor Kirby, “non posso accettare tutte queste informazioni non ufficiali. Non è giusto, capisce. Non è affatto giusto per la mia posizione di avvocato. Se solo mi facesse sapere qualcosa riguardo a quella piccola somma di risarcimento danni a Greystones, visto che il proprietario è così, ”
+
+“Signor Kirby,” esclamò il sfortunato James, “la situazione non può permettersi alcun ritardo! Quel assegno, l’assegno del signor Brassington, quell’assegno che secondo voi è falso, è stato emesso a mio nome!”
+
+“Che cosa!” gridò il signor Kirby, alzandosi di scatto in piedi.
+
+“Quel assegno, signor Kirby,” continuò James con fermezza, “era intestato a me. L’ho fatto accreditare sul mio conto in banca, e ora ho quel denaro lì, almeno una buona parte di esso. L’ho già utilizzato per pagare i miei creditori.”
+
+Poi si ricordò di nuovo che sarebbe stata Melba a pagare la cena, ma questo non gli fu di grande conforto.
+
+Il signor Kirby trasse un lungo respiro.
+
+“Davvero, mio caro signore!”, disse.
+
+“Sì, signor Kirby,” continuò Jimmy, “è stato versato sul mio conto e io ho speso quei soldi. Non ne ho vergogna; sono disposto ad assumermene la responsabilità di fronte a chiunque. Si trattava del pagamento di un debito legittimo, e mi è stato consegnato personalmente dal signor Brassington, proprio lì!”
+
+“Mio caro signor McAuley,” iniziò di nuovo Kirby.
+
+“Vi sto dicendo la pura verità, e ho testimoni che possono salire sul banco dei testimoni e giurare. Quel povero vecchio piagnucolone non può fare nulla al riguardo, ”
+
+“Un vecchio amico, il signor McAuley”, disse gentilmente il signor Kirby, “un vero vecchio amico!”
+
+“Beh,” acconsentì Jimmy, “dirò ‘puritano’. Ma nemmeno tutto il denaro di quei vecchi puritani può nascondere i fatti evidenti. Possiamo giurarlo entrambi: il luogo e l’ora. È stato la mattina seguente, a Greystones.”
+
+“La mattina dopo cosa?”, chiese il signor Kirby.
+
+“Martedì, la mattina dopo quella festa. Esattamente una settimana fa. La data è indicata sul assegno; inoltre, signor Kirby, ho anche la lettera di Mr. Brassington firmata proprio in quell’occasione, nella quale ammette il debito e ne conferma il pagamento.”
+
+“Davvero,” disse il signor Kirby, “assolutamente! È davvero sorprendente.”
+
+“Era lì,” disse Jimmy, “con quel ridicolo cappotto verde addosso, e tirò fuori il libretto degli assegni dalla tasca. Almeno, era nella sua tasca,” si corresse Jimmy, con estrema attenzione a non commettere errori verbali che potessero avere conseguenze legali. “Cercò di svignarsela, ma noi non glielo permettemmo, signor Kirby. E così, pagò.”
+
+“È assolutamente certo che si trattasse del signor Brassington?” chiese il signor Kirby.
+
+“Non c’è alcun dubbio al mondo,” disse Jimmy con calma. “Lo abbiamo convinto ad accompagnarci quando ha lasciato la festa e gli abbiamo presentato la situazione; devo dire che ha esitato, ma alla fine ha pagato, e si trattava di un debito giusto. Posso anche dirvi, signor Kirby, che era il debito di suo figlio. In passato avevamo perso molto per colpa di quel nostro amico, e abbiamo sempre pagato onestamente. Non avevamo intenzione di tirarci indietro.”
+
+“Dopotutto, signor McAuley,” disse il signor Kirby dopo un attimo di riflessione, “vi ho chiesto se eravate sicuro che si trattasse del signor Brassington, e la questione è importante. Era un uomo alto, piuttosto magro, con modi nervosi e vestito in modo informale? Metteva le mani nelle tasche? Tentava di parlare di filosofia o di essere un filosofo, o qualcosa del genere? Aveva i piedi molto grandi?”
+
+“Sì, penso di sì,” disse Jimmy con aria nostalgica. “Sì, era alto e snello, e molto nervoso, anzi, si potrebbe dire addirittura violento. Sì, aveva piedi molto grandi, e diceva qualcosa riguardo alla filosofia. All’inizio teneva le mani in tasca, ma poi, beh, ”
+
+“Beh, guardate qui,” disse il signor Kirby pensierosamente, “era proprio il signor Brassington, come dite voi: alto, magro e molto nervoso; indossava quella giacca verde. Oh, sicuramente era lui! Ma perché non siete andati a casa sua per chiedergli i soldi? Di cosa si tratta esattamente questa storia dei Greystones?”
+
+Jimmy rimase in silenzio. Alla fine disse:
+
+“È affar suo, signor Kirby… Lui può raccontarvi tutta la storia fino alla fine.”
+
+“Beh, guardate qui,” disse il signor Kirby, “non ho davvero alcun diritto di chiedervi qualcosa del genere.”
+
+“È la verità,” disse Jimmy.
+
+“Sì, lo so,” disse il signor Kirby; “ma dovete partire per la posta di quella notte, e, ” (rifletté un attimo) “sapete una cosa? Domani mattina sistemerò quella ridicola faccenda riguardante Greystones. Devo andare in città. Credete che potreste incontrarmi lì domani? Visto il ruolo pubblico di vostro padre e quello del signor Brassington, è molto meglio risolvere tutta questa questione in privato. Non potreste venire presto e fermarvi a pranzo con me?”
+
+“Sì,” disse Jimmy alzandosi per andarsene, “potrei farlo; ma aspetta un minuto. Ho promesso a mio padre di andare a una conferenza importante, vuole che porti anche mia sorella.”
+
+“Dove?” disse il signor Kirby con noncuranza.
+
+“Al Club di Ricerca,” disse Jimmy. “Non so chi lo organizzerà. Parlerà di fantasmi. Finirà intorno alle sei. Dove ti fermerai tu?”
+
+“Sarò all’Hotel Rockingham,” disse il signor Kirby, aiutando il giovane a indossare il cappotto mentre stavano davanti alla porta. “È vicino al luogo dove si riunisce il Club di Ricerca; ti aspetto da qualsiasi ora dopo le sei. Non uscirò stasera. Buonanotte,” disse con calore, stringendo la mano a Jimmy con tutta la fiducia del mondo. “Non capisco ancora tutto, ma voi due siete uomini onesti. Immagino che ci sia stato qualche errore.”
+
+Jimmy si tenne per sé il suo parere e andò sul suo treno.
+
+L’avvocato tornò nel suo studio, si inginocchiò sul pavimento, sollevò con la destra il coperchio del divano e posizionò le dita della sinistra sulla parte inferiore aperta di quel mobile per mantenersi in equilibrio; poi guardò con aria interrogativa e triste il “Cappotto Verde”.
+
+“Una bestia!”, disse. “Una bestia infame, portatrice di sventura!”
+
+Ma proprio mentre lo diceva, il pesante coperchio scivolò via dalla palma della sua mano destra. Riuscì appena in tempo a ritirare la mano sinistra prima che il coperchio cadesse a terra.
+
+Il signor Kirby si alzò un po’ barcollando. Era un uomo di immaginazione, e dentro di sé trasalì al pensiero delle dita schiacciate.
+
+“Prova di nuovo!” mormorò, scuotendo violentemente la testa verso il Cappotto Verde nascosto all’interno del divano; “prova ancora una volta, e ti distruggerò!”
+
+Con questo, spense la luce e andò a letto, mettendo a punto i suoi piani per il giorno seguente. Ma avrebbe preferito disporre di un capanno o di qualche altro posto dove nascondere quel vestito. Si sentiva un po’ spaventato da molte cose, ad esempio, dal fuoco.
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_01" data-title="The Green Overcoat — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/grave,concept/satire_of_society,concept/heaven_and_the_afterlife,concept/immortality_of_the_soul,concept/fear,concept/perception_and_consciousness,form/novel,form/satire"></span>
@@ -6515,6 +9499,56 @@ The young man had looked up and had seen the Professor’s face! The Professor h
 That day he read no more. With a curious unformed cry, such as a hunted animal will give when it is too suddenly roused from its retreat, he snatched his papers up, stumbled down the three steps of the platform, bolted through the curtain and the door — and was off!
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XVII.
+
+In cui un Professore non insegna nulla, una Lezione non viene tenuta, eppure qualcosa accade.
+
+Era mercoledì mattina a Londra, nelle stanze di Galton, quasi alle cinque in punto.
+
+Il professor Higginson si sentiva estremamente nervoso. Entrò nella piccola stanza dove di solito si riceveva il relatore quando il Club di Ricerca organizzava una delle sue grandi riunioni al Galton’s, e non fu affatto contento di vedere tre signori che lo aspettavano. Sperava che ci fosse solo un servitore, o al massimo il segretario. Teneva in mano una piccola borsa marrone; dentro c’erano i suoi manoscritti, oltre a un cappello e un abito da relatore. Chiese se dovesse indossare quel cappello e quell’abito.
+
+“O — O — ah! Immagino di sì, ma cosa?” disse uno dei gentiluomini, che era molto curato nell’aspetto, aveva i capelli di un grigio ferro e, inoltre, portava un solo occhiale.
+
+“Va bene così, Biggleton, vero?”
+
+Si rivolse a un uomo molto grasso, quasi calvo, che teneva gli occhi così stretti che si sarebbe potuto pensare fosse cieco; ma il professor Higginson, sentendo quel nome, capì immediatamente di trovarsi di fronte al lord Biggleton, e provò quella miscela di piacere e apprensione che spesso colpisce gli studiosi quando si trovano in presenza di persone importanti.
+
+Si chiedeva chi potesse essere il primo oratore. Se quell’uomo calvo con gli occhi ben chiusi come un maiale era Lord Biggleton, allora perché quell’uomo curatissimo, con i capelli di colore grigio ferro e un solo occhialino, che gli sembrava così familiare, potesse essere il più importante della terra?
+
+Non doveva essere informato. Tutto ciò che disse il vecchio Biggleton fu…
+
+“Che cos’è, Jack? Sì, ”, e rifiutò ostinatamente di aprire gli occhi; ma il professor Higginson, nonostante la sua mancanza di attenzione, notò che i suoi occhi non erano completamente chiusi: tra le palpebre superiori e inferiori si intravedeva una astuzia intensa e pericolosa.
+
+Si diceva sempre che Lord Biggleton avrebbe potuto vincere il campionato se lo avesse voluto, ma certamente un uomo con quegli occhi avrebbe raggiunto qualsiasi livello di eccellenza desiderasse. Quegli occhi non si mostravano mai apertamente; erano nascosti dietro palpebre pesanti e svolgevano il loro “lavoro” attraverso le fessure presenti sotto di esse.
+
+Tutto ciò non riuscì a tranquillizzare il Professor. Prese i suoi documenti e li lasciò cadere; un terzo uomo li raccolse e glieli restituì con un sorriso cordiale. Quando il Professor Higginson era entrato nella stanza per la prima volta, l’aveva scambiato per un giovane, poiché aveva i tratti e le linee facciali tipici della gioventù; ma quando la luce della finestra illuminò il suo volto mentre raccoglieva i documenti, si rese conto che quell’uomo doveva avere ben oltre cinquant’anni, forse addirittura sessanta. Il Professor Higginson rimase piuttosto sorpreso nel vedere quel sorriso apparire e scomparire più volte sul volto dell’uomo, senza alcun motivo apparente e rivolto a nessuno in particolare. Un po’ più di esperienza nel mondo gli avrebbe permesso di riconoscere quei tratti facciali, quel sorriso, infatti, apparteneva a qualcuno che lavorava nel campo delle Belle Arti. E davanti a lui c’era proprio Sir John Hooker. Ma il Professor Higginson conosceva solo Lord Biggleton. E questo gli bastava!
+
+Si vestì con difficoltà e si chiese se l’uomo che lo aiutò fosse un Ministro dell’Interno, un Maresciallo di Campo o qualcos’altro ancora.
+
+Formarono una piccola processione: Biggleton, per incoraggiare il Professor, gli mise una mano potente sulla schiena; l’uomo ben curato con gli occhiali disse “Cosa?” due volte, in modo assurdo; il Ministro delle Belle Arti guidava la processione con un passo simile a quello di un dromedario.
+
+Passarono attraverso una porta e una tenda sollevata, ed entrarono nella grande sala. C'era una piccola piattaforma rialzata verso cui il Professor fu accompagnato; i tre uomini tornarono poi nel corpo principale del salone, e il Professor si trovò solo, senza amici, vestito con la sua toga, con tutti i suoi manoscritti davanti a sé su un tavolo, e con lo sguardo rivolto verso tre o quattrocento delle persone più ricche e quindi più potenti d’Inghilterra – insieme a molti dei loro seguaci.
+
+Nei momenti di tensione, le impressioni subconscie sono le più forti; e nessuno dovrebbe saperlo meglio di un Professore di Psicologia. Il Professor Higginson, negli anni successivi, ammise liberamente che nei primi momenti di angoscia nervosa che provò osservando quella folla di ministri del gabinetto, signore eleganti, attrici, usurai, estortori, cortigiane e intermediari, ciò che lo colpì di più fu la dimensione enorme dei cappelli delle donne!
+
+Afferrò saldamente la scrivania, si schiarì la voce e iniziò a leggere.
+
+“La speranza di una vita oltre la tomba…”
+
+In quel momento, il professor Higginson alzò la testa e si mise a giocherellare con il bottone del colletto per un attimo. Fu un gesto sfortunato, un gesto tragico! Perché, nel preciso istante in cui sollevò lo sguardo, vide qualcosa che gli fece gelare il sangue. Nella folla radunata all’estremità e sui lati della grande sala c’era un giovane gentiluomo ben vestito, dall’aspetto atletico, con tratti scuri del viso. E quei tratti, li riconobbe immediatamente!
+
+Quella figura si muoveva con estrema grazia, portando con sé, con straordinaria abilità, un cappello a cilindro capovolto. Si dirigeva verso la prima fila di sedie, dove ancora uno o due posti erano riservati e inutilizzati. Mentre quella figura avanzava, una paura subliminale – la più antica delle divinità – si alzava come un’ombra minacciosa sopra l’anima del professor Higginson. Era Jimmy!
+
+Il giovane si era fatto strada fino alla prima fila di sedie; si era seduto e aveva posizionato con cura il proprio cappello sotto di sé. Il gruppo di persone che ci governano iniziava a girare lo sguardo verso di lui: alcuni con fastidio, altri con divertimento. Le due duchesse, le quattro attrici, le otto cortigiane avevano già sollevato gli occhiali dal manico lungo, pieni di disprezzo. Quando quel terribile silenzio fu finalmente interrotto: il professore mormorò nuovamente, meccanicamente, con lo sguardo fisso davanti a sé, la sua prima frase del discorso.
+
+“La speranza di una vita oltre la tomba…”
+
+Il giovane alzò lo sguardo e vide il volto del Professore! Il Professore notò immediatamente quell’istantaneo riconoscimento negli occhi del ragazzo.
+
+Quel giorno non lesse più nulla. Con un grido strano e inarticolato, simile a quello che emette un animale braccato quando viene svegliato all’improvviso dal suo rifugio, afferrò i suoi documenti, scese barcollando i tre gradini della piattaforma, corse attraverso la tenda e la porta, e se ne andò!
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_02" data-title="The Green Overcoat — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="concept/fear,concept/perception_and_consciousness,concept/deception,form/novel,form/satire,setting/london"></span>
@@ -6556,6 +9590,44 @@ She had already seized the handle of the pump and drawn him his glass, when the 
 
 “That’s what I was asking myself,” said the woman with the false hair vigorously. “Come in here all of a blow, muttering, with something wicked in his eyes, as you can see. I was ordering of him out when you came in!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se n'era andato, correndo attraverso il piccolo corridoio, scendendo le scale di pietra a tre gradini alla volta. L’“Io Sottocosciente” era in vacanza, funzionava al massimo delle sue possibilità, e mio Dio, come guidava quell’uomo!
+
+Nella stanza così improvvisamente abbandonata dalla sua figura principale regnava il caos, e non c'era affatto quella sorta di gioia sommessa che i ricchi provano sempre quando la monotonia delle loro vite viene interrotta.
+
+La maggior parte degli uomini si era alzata in piedi; anche alcune donne, meno robuste, avevano seguito il loro esempio. Forse un centinaio di persone stavano parlando contemporaneamente, quando, non trenta secondi dopo che il professore aveva compiuto quel singolare gesto acrobatico, qualcuno tra il pubblico collegò i vari elementi della scena e fu colpito da un’ispirazione. Gli abiti eleganti, i cappotti, i pantaloni, i cilindri, le lorgnette e gli occhiali subirono un altro forte shock quando videro Jimmy, appena arrivato, saltare sulla piattaforma con la grazia e l’agilità di un atleta, attraversarla velocemente come una lepre e scomparire a sua volta dietro la tenda e la porta.
+
+Lo stava inseguendo! —, —. Lungo il corridoio che si estendeva per tutto il seminterrato dell’edificio di Galton, fino alla porta laterale da cui entravano i professionisti. Lo afferrò. Aveva raggiunto la fine del corridoio quando, gettando uno sguardo alle sue spalle, vide quel volto che non avrebbe mai più voluto vedere. Passando accanto al portiere, gridò con un urlo disperato: “Fermatelo!” e si precipitò in strada.
+
+Il portiere di casa era un padre di famiglia, un uomo che beveva molto e una persona pacifica. Ma, nonostante sapesse poco o nulla, pensava che dentro quella porta ci fosse sicuramente uno scellino. E così si alzò – ah, quanto imprudentemente! – per affrontare quel giovane di Cambridge, forte e veloce, che stava correndo verso di lui lungo il corridoio.
+
+Allargò goffamente le braccia per far capire che c'era un ritardo, e prima ancora di rendersi conto di ciò che stava succedendo, si trovò a terra sul pavimento di pietra, aggrappandosi disperatamente a qualcosa di vivo che si dibatteva sopra di lui, senza però ricordare il proprio nome né dove si trovasse. Quando riprese i sensi, la prima cosa che notò fu un forte dolore al braccio destro su cui giaceva. Poi gli tornò in mente l’epoca in cui giocava a calcio da giovane, e infine vide un giovane ben vestito che stringeva in mano un cappello a cilindro e correva verso la fine della strada.
+
+Il ritardo era stato di soli pochi secondi, ma dieci secondi equivalgono a cento metri.
+
+Jimmy vide un piccolo gruppo di persone correre davanti a lui. Svoltarono un angolo e scomparvero dalla sua vista; ma Jimmy era troppo desideroso di scoprire la verità. O Brassington non era affatto Brassington, o c'erano due persone di nome Brassington, o non esisteva alcun Brassington. Oppure quei vecchi mercanti erano in realtà dei nobili, o forse il mondo intero era capovolto! Comunque fosse, una sola persona conosceva la verità. E quella persona doveva essere fermata a tutti i costi. La verità doveva essere scoperta al più presto.
+
+Mentre correva, nella mente di Jimmy si affacciarono alternative dolorose: prigione, suicidio, arruolamento nell’esercito, perché è proprio in questo ordine che il lusso condanna l’esercito britannico. Ma un obiettivo chiaro gli divenne immediatamente evidente: doveva trovare quell’uomo a tutti i costi, in modo discreto e sicuro, e fargli raccontare tutto, e doveva farlo il prima possibile. Riconobbe di nuovo la sua traccia vicino a un signore appoggiato alla ringhiera (che lo vendette per una somma irrisoria) e lo inseguì senza perdere tempo, rimanendogli a meno di due minuti di distanza.
+
+A tutta velocità, senza cappello e con addosso la toga, stringendo le sue note in mano, il alto e magro Don correva come potrebbe correre un cammello inseguito da un enorme leone nei deserti dell’Oriente. Non è frequente che le strade di Londra assistano a uno spettacolo del genere: un Filosofo, coperto di fango, con la toga addosso e senza cappello, con gambe lunghe e scomposte e la testa alzata verso il cielo, che corre inseguito da una folla.
+
+Quei londinesi che, per caso, erano sia liberi che non vincolati dalle convenzioni – ragazzi che portavano notizie o lucidavano scarpe, oziosi individui, ladri che vagabondavano – lo inseguirono in un piccolo gruppo, ma il numero di loro aumentava progressivamente. Il signor Higginson sentì i loro passi e, cosa ancora peggiore, vide tra loro un poliziotto. Si precipitò in una stradina che si apriva a sinistra, girò in un cortile e corse via con una velocità sorprendente. Nel piccolo cortile, sotto un arco scuro, aveva notato la porta a battenti di un pub basso e dall’aspetto molto poco attraente.
+
+Una volta all’interno del rifugio, si sedette ansimando. Una donna anziana, con i capelli posticci, lo osservava con severità dietro al bancone mentre lui si appoggiava alla parete di legno, con la testa reclinata all’indietro, cercando di riprendersi. Fuori, con immenso sollievo, sentì i passi pesanti allontanarsi. Lo avevano mancato!
+
+La mente parla alla mente nei momenti di forte emozione, senza l’ausilio delle parole. Il professor Higginson si rese conto che, se non avesse bevuto qualcosa, sarebbe finito nei guai. Non era mai stato in un pub in vita sua e non aveva la minima idea dei comportamenti tipici di quei luoghi. Ma lo sguardo insistente della donna lo costrinse a dare un ordine. Lo diede proprio in questo modo.
+
+“Credo che mi piacerebbe, no, anzi, penso che in generale preferirei un bicchiere di, diciamo, birra.”
+
+“Quattro birre?” disse la donna con severità. “No, una sola,” rispose il professor Higginson; allora lei sparò improvvisamente e disse.
+
+“Niente scherzi, giovanotto!” (Il professor Higginson aveva cinquantasette anni e ne dimostrava ogni anno.) “Nessuna sciocchezza! Chi sei tu, in fondo? Stavo quasi per, ” ma il pensiero al denaro la fece desistere.
+
+Aveva già afferrato il manico della pompa e versato il bicchiere per lui, quando il rumore di passi tornò, meno tumultuoso questa volta; una voce estremamente sgradevole dichiarò che non c'era alcun passaggio possibile. Una voce dall’aspetto ufficiale rispose con dignità. E il Professor Higginson andò in pezzi – dentro completamente, fuori anche un po’ – quando vide entrare dalla porta a battenti un poliziotto che, dopo averlo esaminato attentamente da capo a piedi, gli chiese: “Che cos’è questo?”, senza ricevere alcuna risposta coerente.
+
+“Ecco cosa mi stavo chiedendo,” disse con forza la donna dai capelli falsi. “Entra qui all’improvviso, mormorando, con qualcosa di malvagio negli occhi, come potete vedere. Stavo proprio ordinandogli di andarsene quando siete entrati voi!”
 
 
 
@@ -6629,6 +9701,74 @@ The Professor, with a confused memory of a recent experience, muttered, “ A li
 “Is it?” answered the Philosopher sullenly. “Then I told the truth. Damn it all, man,” he said, exploding, “isn’t it plain who I am? Didn’t you see the people in that room? And don’t you” (here a recollection of his own importance swelled him), “don’t you know what my position is in the Guelph University?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il professor Higginson aveva esaurito quella fonte di inventiva che fino ad allora il “Male” gli aveva fornito così generosamente. Si lasciò cadere sulla piccola sedia sporca e macchiata di birra dietro di sé, e iniziò a balbettare contro l’“avventatore della legge”.
+
+“Ho perso la memoria,” disse.
+
+“Hai perso cosa?” disse il poliziotto, metà minaccioso e metà incerto, esitando nella sua mente corrotta tra il ruolo di un buon poliziotto e le conseguenze disastrose che avrebbe potuto avere interferire con uno dei personaggi importanti della città; quando, prima ancora che si potesse rispondere a una domanda così semplice, si udì una voce autoritaria e il passo deciso di qualcuno che si faceva strada tra la folla all’esterno. E apparve in quel luogo squallido la figura ben vestita e il volto giovane e robusto di Jimmy.
+
+Si dice che i generali più giovani siano i migliori tattici, anche se a volte diventino i peggiori strateghi. Jimmy agì con la velocità del fulmine.
+
+“Eccoti qua!” disse gentilmente al signor Higginson. Ma un piccolo strillo si interruppe immediatamente nella gola del professore, trasformandosi in un borbottio.
+
+“Eccoti qua!” disse di nuovo, posando una mano forte sulla spalla del signor Higginson; era davvero pietoso vedere il pragmatista ritrarsi in quel modo.
+
+Jimmy si girò e guardò il poliziotto con un’espressione di dolore ma autoritaria; quest’ultimo, istintivamente, toccò il proprio casco, riconoscendo chiaramente che si trattava di una situazione in cui doveva seguire le indicazioni di Jimmy.
+
+“È mio padre, agente,” disse Jimmy, con voce dolce e triste.
+
+“Ne sono sicuro,” disse il poliziotto, trovando una piccola moneta grande quanto un sei pence, ma molto più preziosa, che era apparsa all’improvviso nella sua grande palma, “Sono contento che siate venuti, signore! Mi stavo chiedendo cosa fare, ”
+
+“Oh, non c’è bisogno di preoccuparsi!” disse di nuovo Jimmy con gentilezza; poi, con un’espressione addolorata, aggiunse: “Non è così grave come sembra!”
+
+Quasi crollò, ma si sforzò con coraggio; il poliziotto lo seguì con profondo rispetto, dicendo: “Andrà tutto bene. È solo troppo lavoro.”
+
+Si rivolse a Higginson e disse con un reverenziale pathos: “Vieni, papà”, e strinse il braccio del professore con tale forza che, istintivamente, quel filosofo si alzò in piedi.
+
+Dubbi e paure contrastanti agitavano quella mente accademica; quando tali dubbi e paure non seguono una direzione comune, la mente diventa così confusa da risultare incapace di agire. Se avesse cercato di resistere o lottare, sarebbe stato arrestato. Se fosse stato arrestato e finito nelle mani della legge, qualsiasi cosa poteva accadere, oh, Signore! E se invece avesse acconsentito, che cosa avrebbe fatto quel giovane demonio? Dove lo avrebbe portato? Di fronte a queste alternative, non fece nulla; rimase semplicemente lì, impotente, odiando Jimmy, odiando tutta l’organizzazione del sistema creditizio britannico, odiando i suoi libri contabili e le sue firme, odiando la maestosa struttura della legge del suo paese, odiando i milioni di persone che vivevano nella povertà, aspettando con ansia, e che ogni tanto sbirciavano attraverso le porte a zanzariera.
+
+Mentre Jimmy guidava l’uomo più anziano fuori, tenendolo saldamente per il braccio, la piccola folla avrebbe voluto seguirli. Ma un poliziotto che ha ricevuto una tangente è qualcosa di completamente diverso da un poliziotto prima dell’ora di mangiare. Colpì selvaggiamente quei ragazzi sporchi e quelle donne trasandate che componevano quella piccola assemblea, allontanandoli con toni decisi; sferrò anche un calcio violento che per poco non colpì il bambino, che riuscì a schivarlo. Quei signori dovevano essere lasciati in pace. Si toccò di nuovo il casco, rivolto a quei signori, e poi si allontanò lentamente, mentre Jimmy portava via rapidamente la sua “preda” lungo il vicolo, fino alla strada principale.
+
+A un quarto di miglio di distanza, o forse un po’ di più, la folla numerosa stava uscendo dal locale di Galton. Cinque minuti in strada aperta con una figura vestita in abito ma senza cappello avrebbero attirato un’altra folla. Jimmy decise nuovamente, con una rapidità ammirevole.
+
+“Vieni con me a Rockingham,” disse, tenendo ancora saldamente il braccio del Professore.
+
+“Dove?” disse il signor Higginson, riconoscendo quel nome. “Cosa vuoi da me?” Non stava esattamente opponendosi apertamente, ma inviava segnali di resistenza attraverso i gesti nervosi che faceva.
+
+“Solo per parlare con lei, signor Brassington… solo dieci minuti.”
+
+“Non sono Brassington.”
+
+“Sì. Lo so. Almeno, devo vederti per dieci minuti,” disse Jimmy, dirigendosi rapidamente verso il maestoso portale di Rockingham. Quel grande portale significava sicurezza e rifugio; si trovava a non più di cento metri di distanza lungo la larga strada.
+
+Il professor Higginson cedette. Passarono davanti al magnifico portiere, attraverso il salotto; furono osservati per un momento, ma poi più nulla.
+
+Jimmy portò il prigioniero in un angolo del salotto fumatori, lo fece sedere comodamente e gli chiese cosa bevesse.
+
+Il Professore, con un ricordo confuso di un'esperienza recente, mormorò: “Un po’ di birra, ”, ma quando gliela portarono non la bevve, perché la birra era qualcosa che non poteva assolutamente toccare. Jimmy, che stava bevendo brandy, parlò con lui a bassa voce e con grande serietà.
+
+“Professore Higginson”, iniziò, “è successo un grave errore… un errore molto grave.”
+
+“Non capisco cosa intendi,” disse ostinatamente il professor Higginson.
+
+“Mio Dio!” esclamò Jimmy, davvero spaventato, guardandolo dritto negli occhi. “Vuoi dire che non, ”
+
+“Ho perso la memoria,” mormorò il professor Higginson con voce cupa, guardando il pavimento. “Avrei dovuto immaginare che tu ne fossi a conoscenza. L’ho persa,” disse, alzando la voce e con crescente passione, “dopo quel trattamento brutale, ”
+
+“Ah, allora te ne ricordi!” disse Jimmy con calma.
+
+“Vagamente,” rispose il Professore, stringendo i denti. Stava iniziando a sentirsi brutto, “Molto vagamente. E dopo di ciò la mia memoria svanisce del tutto.”
+
+“Beh,” disse Jimmy, appoggiandosi comodamente allo schienale e bevendo il suo brandy, “ve lo rinfrescherò io stesso. Vi abbiamo dato il vostro libretto degli assegni, signor Brassington, ”
+
+“Vi dico che il mio nome non è Brassington,” sussurrò il Professore, con un misto di rabbia e paura. “Se continuate a parlare così ad alta voce, qualcuno vi sentirà!”
+
+“Non è lei il signor Brassington, vero?” disse Jimmy, guardandolo fisso negli occhi. “È quello che ha detto quella notte, quando, quando ha perso la memoria.”
+
+“Davvero?” rispose il Filosofo con malumore. “Allora ho detto la verità. Maledizione,” esclamò, “non è forse evidente chi sono? Non hai visto le persone in quella stanza? E non sai” (in quel momento il ricordo della propria importanza lo gonfiò di orgoglio), “non sai quale sia la mia posizione all’Università Guelph?”
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_04" data-title="The Green Overcoat — Chapter 17 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,concept/crime_and_punishment,concept/deception,concept/self_deception,form/novel,form/satire"></span>
@@ -6676,6 +9816,50 @@ Jimmy winced. There was an interval of silence, during which all three men were 
 
 “Mr. Brassington and his son are in the hotel now. I’ll go and fetch them.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Certamente, Professore Higginson,” disse Jimmy, usando esattamente lo stesso tono con cui aveva detto “Signor Brassington” un minuto prima. “Capisco perfettamente. Purtroppo, durante quel terribile periodo di difficoltà mentale che avete attraversato, avete firmato qualcosa, ”
+
+“Allora non conta,” disse il Professor Higginson, scuotendo la testa molto rapidamente da una parte all’altra come un cane che esce da uno stagno, “non conta affatto!” ripeté ancora con un tono ancora più alto, “non conta! Non lo accetterò! Non capisco nemmeno una parola di quello che dite!” e si lasciò andare, mostrando tutti i segni dell’esaurimento.
+
+“Non c’è nulla di cui preoccuparsi, Professore Higginson,” disse Jimmy in tono calmo, inclinandosi in avanti per sottolineare le sue parole.
+
+“Anche se firmassi qualcosa, non ci sarebbe alcun danno, vero? In realtà, hai firmato un assegno, ”
+
+“Non conta!”, disse il Professore Higginson, fissando ciò che aveva davanti a sé e cominciando ad arrossire leggermente.
+
+“No, certo che no,” disse Jimmy in tono rassicurante, “ma era un assegno del signor Brassington.”
+
+“Non ci credo!” disse il Professore Higginson, ancora più pallido, “e comunque non conta nulla! Ho consultato un avvocato e so che non ha alcun valore legale!”
+
+“Oh, hai chiesto consiglio legale riguardo a qualcosa di cui non ti ricordi?” disse Jimmy con un sorriso curioso. “Comunque, è sciocco continuare così. Il punto è,” aggiunse con serietà, “che quel assegno era intestato a me.”
+
+“Allora, ti ho catturato!” disse il nobile Don con trionfo, anche se in realtà aveva solo una vaga idea di come e perché fosse riuscito a farlo; voleva comunque mantenere un certo prestigio davanti agli altri, e pensava che quella frase fosse adatta per l’occasione.
+
+“Sì,” disse Jimmy, con uno sguardo pieno di affetto e controllo, “e ti ho preso in trappola; per di più, ho anche un testimone. La tua sfortunata perdita di memoria ti impedisce di saperlo, Professore Higginson.”
+
+Le labbra del Professore ripeterono ancora una volta la formula rituale: “Non conta”, quando i suoi occhi si fissarono con uno sguardo orribile sulla figura bassa ma piacevole di Mr. Kirby, che entrò nella stanza, gli fece un cenno cordiale e poi lo stesso anche a Jimmy.
+
+Lo avvocato tirò fuori una sedia e si sedette di fronte ai due uomini.
+
+“Non sapevo che vi conosceste,” disse con la sua voce allegra e un po’ incerta.
+
+“Non lo facciamo”, quelle parole erano quasi uscite dalle labbra del professore, quando improvvisamente ci ripensò. E con orrore sentì Jimmy dire che lui e il professore si erano incontrati a bordo di una nave nel Mediterraneo alcuni anni prima. E quanto fosse felice di rivederlo.
+
+“È strano come il mondo sia così piccolo,” disse semplicemente il signor Kirby. “Incerte circostanze incontri una persona e impari a conoscerla molto bene, al punto da ricordarla per tutta la vita. Poi pensi di non rivederla mai più, e invece lei riappare inaspettatamente, vero?. Conosci il signor Brassington?” aggiunse cordialmente, guardando il professore.
+
+“Lo so, lo so il nome,” disse l’uomo sventurato.
+
+“Oh, dovete assolutamente conoscerlo di persona,” disse il signor Kirby con grande entusiasmo. “È una delle migliori persone della vostra città, e ha un particolare interesse per le cose intellettuali. Lo conoscete, vero?” continuò, rivolgendosi all’uomo più giovane.
+
+“Sì,” disse Jimmy con solennità, “sì; almeno, non so di aver mai incontrato il signor Brassington, ma ero all’università con suo figlio, lo sa, signor Kirby.”
+
+“Non lo conosci?” disse il signor Kirby, con un leggero stupore. “Beh, sarai contento di incontrarlo: gli piacciono i giovani uomini; e tra noi, è una persona utile da conoscere. Conosci suo figlio? Sono sicuro che abbia parlato molto di te. Dovrei ricordarmelo!”
+
+Jimmy fece una smorfia. Passò un momento di silenzio, durante il quale i tre uomini sembravano immersi in pensieri casuali. Il silenzio fu rotto quando il signor Kirby, guardando alternativamente entrambi i suoi conoscenti, disse.
+
+“Il signor Brassington e suo figlio sono ora nell’hotel. Vado a prenderli.”
 
 
 
@@ -6763,6 +9947,88 @@ And at that dread word from a lawyer the Professor sat down defeated.
 “Well, there you are,” said Mr. Kirby with the utmost simplicity. “It’s all quite natural. Just a misunderstanding. Always happening. They thought he was you. Eh?
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XVIII.
+
+In cui il Cappotto Verde trionfa e torna a casa.
+
+In pochi minuti il signor Kirby tornò. Teneva il signor Brassington stretto per il braccio destro e lo portava dentro la stanza con facilità. Booby lo seguiva timidamente.
+
+“Signor McAuley,” disse gentilmente il signor Kirby, “questo è il signor Brassington.”
+
+I giovani non riescono a controllare bene i propri volti (a meno che non siano figli di individui disonesti e abbiano ereditato i talenti dei loro padri). Jimmy sembrava proprio un uomo che non sa nulla del mare e che fosse appena arrivato lì.
+
+Il signor Brassington fece un movimento molto violento, ma il signor Kirby, con il braccio saldamente legato a quello del suo amico, lo fermò con una leva di ferro.
+
+“Non conosci il professor Higginson, vero, Brassington?”
+
+Presentò i due uomini, e il Filosofo conosceva il Mercante meglio di quanto il Mercante conoscesse il Filosofo.
+
+“E ora,” continuò il signor Kirby in tono piacevole, ma con un certo atteggiamento pomposo (non era nella sua natura essere presuntuoso, ma l’occasione lo richiedeva), “ora andremo tutti di sopra. Ho invitato a cena uno degli amici del signor McAuley. Anche lui è un vostro amico, signor Algernon,” disse, rivolgendosi gentilmente a Booby. “Io personalmente non lo conosco, ma il signor McAuley garantisce per lui. E questo dovrebbe bastare, no? A proposito, prima di cena, vi dispiacerebbe venire nel mio salotto? C’è qualcosa di cui voglio parlare. Qualcosa che sicuramente tutti voi vorrete ascoltare. Qualcosa di politico,” aggiunse, per evitare che i più colpevoli tra loro provassero panico.
+
+Condusse la processione al piano di sopra. Melba lo stava aspettando nell’atrio. Jimmy lo raggiunse lungo la strada e gli strinse la mano per dargli coraggio.
+
+Tutti entrarono nella sala da pranzo privata del signor Kirby e la trovarono abbastanza grande.
+
+Per quanto riguarda il loro ospite, iniziò a fare le cose con grande cura, come se stesse organizzando una riunione di dirigenti, e infine si sedette a capo del grande tavolo.
+
+“Penso che sia meglio che vi sediate qui, Brassington,” disse, indicando una sedia a destra. “E voi, Professor Higginson, volete venire qui?” aggiunse, indicando la sedia a sinistra. “Gli altri,” concluse bruscamente, “possono sedersi dove vogliono. Mio signore, sta iniziando a [[Rain|>piovere]]!”
+
+Si sedettero intorno a lui in modo imbarazzato. Almeno il signor Brassington era abbastanza abituato alla propria irrilevanza da non notare l’ultima osservazione, ma il professor Higginson fissava la scena con attenzione. Negli ultimi giorni aveva già avuto a che fare a sufficienza con le anomalie mentali; non ne voleva più sentire parlare.
+
+“Sta iniziando a [[Rain|>piovere]],” continuò il signor Kirby, rivolgendosi al signor Brassington, “e sono sicuro che non avete portato il vostro cappotto. È maggio. Non pensavate certo di averne bisogno. Beh, ho preso l’iniziativa su suggerimento di un vecchio amico: l’ho qui; è appeso lì.” Fece un gesto con la testa indicando il punto in cui si trovava il cappotto.
+
+Seguirono con lo sguardo il suo gesto, e infatti il Cappotto Verde era lì, appeso pesantemente e in silenzio su un gancio. Aveva una volontà e uno scopo, e li aveva realizzati: aveva trovato il suo padrone.
+
+“Sei davvero un tipo negligente, Brassington,” disse Kirby, dandogli una pacca affettuosa sulla spalla. “Non sai che hai lasciato il tuo libretto degli assegni in tasca?”
+
+“Sì”, disse il signor Brassington non molto piacevolmente, “lo ho fatto”.
+
+Il signor Kirby non si concesse nemmeno un attimo per riflettere.
+
+“Beh, signori, non sono venuto per parlare di questo. Sono venuto a darvi delle buone notizie. Questa mattina ho visto Hogg. Conoscete tutti Hogg, vero? È l’uomo incaricato dei diritti d’accesso a Westminster. È davvero una brava persona: colleziona rane impagliate, ne ha centinaia! Beh, finalmente hanno fatto la cosa giusta, e, ” (si rivolge a Mr. Brassington) “vi hanno incluso nell’elenco dei premi per il compleanno, Brassington!”
+
+Il signor Brassington saltò in aria.
+
+“È un titolo di baronetto!”
+
+Alla fine, il signor Kirby rimase in silenzio.
+
+Diventava sempre più evidente per il signor Brassington che non era necessaria la presenza di tutti questi gentiluomini intorno al tavolo; ma nel corso dei minuti successivi ebbe motivo di cambiare idea.
+
+Professore Higginson, essendo l’unico anziano presente, ritenne fosse suo dovere dire: “Le faccio i miei complimenti, signore”, a cui Brassington rispose brevemente: “Sì”.
+
+Il signor Kirby si accarezzò il mento.
+
+“Professore Higginson”, disse in tono cordiale, “perché ha falsificato quel assegno?”
+
+“Che, ” esclamò il Filosofo, a metà tra un sussurro e un ruggito, poi emise un forte suono gutturale.
+
+L'orologio sul caminetto faceva ticchettare rumorosamente. Jimmy cercava di stare fermo; il signor Brassington, invece, non provava nemmeno a farlo. Si era appena alzato in piedi quando il signor Kirby, con una mano decisa, lo spinse di nuovo sulla sedia.
+
+Per un minuto nessuno parlò. Il signor Kirby passò quel tempo battendo lentamente, a intervalli regolari, la sua penna stilografica sul tavolo. Alla fine di quell’intervallo, il professor Higginson riuscì a rompere il silenzio parlando.
+
+Spinse indietro la sedia e si alzò, come fanno gli uomini quando devono parlare davanti alle folle in una riunione politica.
+
+“Signor Brassington,” disse, ignorando tutti gli altri, “sono stato io a falsificare il suo nome. Sono stato imprigionato, torturato, costretto da questi, ” (la sua voce tremò mentre indicava Jimmy e Melba), “da questi due giovani furfanti, signore, ”
+
+“Basta così, Professore Higginson”, disse il signor Kirby, “è sufficiente per procedere”.
+
+E all’udire quella terribile parola pronunciata dall’avvocato, il Professore si sedette sconfitto.
+
+“Kirby,” disse il signor Brassington, rivolgendosi al suo amico e parlando solo con lui, cercando di mantenere un tono calmo e senza eccitazione, “Non capisco.”
+
+“No, Brassington, non lo faresti,” disse Kirby con gentilezza, girandosi verso di lui in modo molto familiare. “Vedi, il professor Higginson qui ha preso in prestito il tuo cappotto.”
+
+“Lui,?” esclamò il signor Brassington con tono eccitato.
+
+“Sì, sì,” continuò il signor Kirby, “non confondere le cose grandi con quelle piccole; è esattamente quello che ha fatto lui. Qualsiasi uomo avrebbe fatto lo stesso. Era una notte terribile, e qualcuno gli aveva preso il mantello; lui si è semplicemente preso in prestito il tuo cappotto. È stata quella notte da Perkin’s, ricordi? La notte in cui stavi per andare in Belgio, ma non ci sei andato, dieci giorni fa.”
+
+“Ah sì, me ne ricordo benissimo,” disse amaramente il signor Brassington.
+
+“Beh, eccovi qua,” disse il signor Kirby con estrema semplicità. “È tutto del tutto naturale. Solo un malinteso. Succede sempre. Pensavano che fosse voi. Eh?”
+
 
 
 <span class="atom-split" data-atom="chapter_19--part_02" data-title="The Green Overcoat — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,motif/clothing,concept/deception,concept/greed_and_money,concept/superstition_and_omen,concept/spiritualism,concept/immortality_of_the_soul,form/novel,form/satire"></span>
@@ -6841,3 +10107,80 @@ How the miserable Professor was deluged with begging letters; how he nearly went
 How the Guelph University looked when it found there was no Ten Thousand Pounds at all after Professor Higginson’s death none of us know, for the old idiot is not yet dead. How they will look does not matter in the least, for the whole boiling of them are only people in a story, and there is an end of them.
 
 THE END
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ma perché? L’hanno semplicemente portato via e sequestrato… Nient’altro!”
+
+Tutta questa spiegazione, il signor Kirby la fornì con quel tono disinvolto tipico di un uomo che sa come sistemare le cose e impedire a persone isteriche di strapparsi gli occhi a vicenda.
+
+“Eccolo qui,” continuò il signor Kirby, muovendo dolcemente le mani davanti a sé, “ecco qui! Il signor McAuley non è riuscito a recuperare i suoi soldi. Pensava di avervi incastrato. Libretto degli assegni. Nessun reato intenzionale, ”
+
+A quel punto, il signor Brassington non poteva più essere controllato. Spinse indietro la sedia, si chinò sopra il tavolo, guardò povero Jimmy con un’espressione simile a quella del Giorno del Giudizio, e disse con intensa determinazione:
+
+“Ne dovrà rispondere lei, signore… Non ascolterò né suo padre né i suoi amici.”
+
+Il signor Kirby alzò lo sguardo verso il soffitto, poi lo abbassò dritto sul tavolo, e infine guardò il signor Brassington; in quel momento il signor Brassington si sedette.
+
+“Brassington,” disse Kirby, una volta attirata l’attenzione dell’ascoltatore, “non avete alcuna prova contro il signor McAuley; la vostra accusa riguarda invece il professor Higginson. Se la portate avanti, il professor Higginson sarà rovinato, vostro figlio verrà disonorato, voi sembrerete un idiota e il governo vi ignorerà completamente. E ricordate, Brassington: quel denaro ve lo dovevate.”
+
+“Non ho fatto nulla del genere,” disse il mercante con fermezza.
+
+“Padre,” disse il povero Booby, “avrei potuto guadagnare di più con Jimmy, davvero! E se avessi perso di nuovo, a meno che non mi avesse pagato, non so cosa sarebbe successo. Mi sarei tagliato la gola, padre,” disse Booby.
+
+Lo intendeva davvero, ma era estremamente improbabile.
+
+Per la prima volta, James McAuley difese il proprio onore.
+
+“Per la mia anima, signore… Pensavo di trattare con voi, e, mio Dio, se solo si trattasse di un debito…”
+
+Il signor Kirby intervenne.
+
+“Stia zitto, signor McAuley,” disse con autorità, “lei è ancora giovane, e io sto cercando di salvarla. Brassington,” continuò, rivolgendosi al suo amico sempre con tono severo e autorevole, “i soldi sono irrecuperabili. Suo figlio li aveva vinti, ma i suoi guadagni sono stati utilizzati per pagare debiti universitari. So bene di cosa si tratta. Il suo amico ha recuperato quei soldi, ma lui, comunque, rimaneva un perdente. E con quei soldi ha saldato i propri debiti, che altrimenti non avrebbe mai potuto pagare. Non le resta nulla da recuperare se non la vendetta. Ma se la compie, distruggerà pubblicamente suo figlio, si renderà oggetto di derisione, perderà sia il proprio futuro che quello di lui. E umilierà un uomo di grande prestigio accademico, che, come sa bene lei, ha agito soltanto in modo debole e sciocco. Anche io o lei avremmo potuto comportarci esattamente allo stesso modo. Lui non ha mai ricevuto nemmeno un centesimo dei suoi soldi.”
+
+“Sono il perdente,” disse tranquillamente il signor Brassington. “Ho perso a causa del ridicolo e ho perso anche in termini materiali. Ho perso duemila sterline.”
+
+“Il Governo,” disse il signor Kirby, cambiando improvvisamente tono e passando a un discorso più banale, “mi ha informato, Brassington, che avete pianificato un gesto molto generoso. Mi hanno detto, comunque, stamattina è stato Hogg a informarmi, o per essere più precisi, sono stato io ad informare Hogg, che, in qualità di cittadino più illustre di Ormeston, avete messo a disposizione del professor Higginson diecimila sterline. La sua fama attuale in tutto il mondo, ” (fece un inchino cordiale al professore, che ebbe la sfortuna di ricambiare l’inchino) “non richiede certo ulteriori commenti. Insomma, avete messo a disposizione diecimila sterline per i suoi lavori di ricerca nel meraviglioso campo delle ‘indicazioni subliminali riguardanti una vita futura’, in cui al momento è il nostro principale pioniere.”
+
+“Cosa?”, disse il confuso Brassington, afferrando il bordo del tavolo. “Ho promesso al professor Higginson 10.000 sterline per i suoi lavori di ricerca?”
+
+“Sì, proprio voi,” disse con fermezza il signor Kirby; “domani ne parleranno i giornali, e è assolutamente giusto che il governo abbia riconosciuto una generosità del genere conferendo un titolo nobiliare! Hogg mi ha detto di aver sentito che si trattasse solo di mille o duemila sterline, ma io gli ho fornito le cifre esatte.”
+
+“Ma io non l’ho mai fatto, ” iniziò il signor Brassington.
+
+“Beh, eccovi qua,” interruppe il signor Kirby con tono disinvolto. “Loro lo pensano, e questo è l’importante. Voi, naturalmente,” aggiunse rivolgendosi al professor Higginson, “non vedrete mai quei soldi. Non esistono.”
+
+“No,” disse il Professore umilmente.
+
+Un tedesco, vestito con l’uniforme dei cocchieri di Cenerentola, entrò solennemente nella stanza e, parlando un inglese stentato, comunicò loro che la cena era pronta.
+
+Il signor Kirby si alzò rapidamente, e tutti gli altri si alzarono insieme a lui.
+
+Andò al “Green Overcoat”, lo sollevò davanti a sé con entrambe le mani e disse al signor Brassington.
+
+“Ora, Brassington, quale scegli?”
+
+Il mercante, senza sapere ciò che stava facendo, indossò quell’abito familiare.
+
+Quanto caldo era il suo pelo. Quanto antico e confortevole quel modo tradizionale di proteggerlo. Che compagno meraviglioso!
+
+“Te lo lascio fare, Kirby,” disse con una voce diversa. “Se mi muovo, farò del male a tutti; se resto fermo, salverò ottomila sterline, e vincerò.”
+
+# Mentre si stavano avvicinando alla porta, all’improvviso il signor Brassington aggiunse…
+
+# Mio Dio! Cosa sto facendo con questo cappotto? Pensavo di uscire…
+
+“Non importa,” disse il signor Kirby, “toglitela di nuovo. Le cose familiari rimangono. Sono le uniche cose che veramente esistono.”
+
+E infatti, l’accordo tenne.
+
+* * * *
+
+Per quanto riguarda ciò che è successo dopo, Lettore, o, come spero, lettori (sarebbe un peccato averne solo uno), sono troppo stanco per raccontarvi molto; inoltre, c’è una regola eccellente che dice che, una volta finito di raccontare una storia, non si dovrebbe aggiungere nulla.
+
+Come il povero Professore fu sommerso da lettere di supplica; come quasi impazzì finché Babcock non gli suggerì un piano; come quel piano consisteva nel fingere di aver lasciato tutti e diecimila i pound all’Università al momento della sua morte e quindi di non poterli toccare; come i suoi colleghi si meravigliarono che, con questa nuova fortuna, continuasse a lavorare con lo stesso impegno di sempre; come Sir John Brassington godette segretamente ma appieno del suo titolo di baronetto; come il signor Kirby tenne tre discorsi gratuiti sui problemi razziali, due a Ormeston e uno nell’East End di Londra; come il Professore Higginson fu costretto per molti anni a recensire i libri più assurdi sull’argomento dei fantasmi, e a tenere lezioni su lo stesso tema fino a diventare estremamente magro (spesso senza alcun compenso). Tutte queste cose dovrete leggerle in un altro libro, che di certo non ho intenzione di scrivere, e non credo che nessun altro lo scriverà per voi.
+
+Come appariva l’Università Guelph quando scoprì che, dopo la morte del Professor Higginson, non c’erano affatto diecimila sterline, nessuno di noi lo sa, perché quel vecchio idiota non è ancora morto. Come appariranno in futuro non ha alcuna importanza: in fondo, tutto ciò che li riguarda non sono altro che personaggi di una storia, e anche loro hanno la loro fine.
+
+La fine

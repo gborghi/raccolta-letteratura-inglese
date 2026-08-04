@@ -1672,9 +1672,9 @@ through the [[Garden]] of Eden or opening a railway station at the New
 
 Prodotto da Irma Spehar e dall'Online Distributed
 
-Proofreading Team all'indirizzo http://www.pgdp.net (Questo file è stato
+Proofreading Team at http://www.pgdp.net (This file was
 
-prodotto da immagini generosamente rese disponibili da The
+#Realizzato grazie alle immagini gentilmente concesse da The
 
 Internet Archive/Canadian Libraries)
 
@@ -1684,7 +1684,7 @@ BY
 
 G. K. CHESTERTON
 
-[[London|LONDRA]]  
+[[London|LONDRA]]
 
 1917
 

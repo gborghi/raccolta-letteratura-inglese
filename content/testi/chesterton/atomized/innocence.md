@@ -18893,6 +18893,88 @@ pocket just as there came a loud peal at the gate bell, and the wet
 waterproofs of several policemen gleamed in the [[Road|road]] outside.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+fossero scritte in cima a un foglio nuovo.
+Lasciai la stanza,
+
+e uscii nel [[Garden|giardino]] ebbro di una spaventosa
+
+opportunità.
+
+Facemmo il giro della [[house|casa]]; e altre due cose accaddero a mio
+
+favore. Voi sospettaste un indiano, e trovaste un pugnale che l'
+
+indiano avrebbe con ogni probabilità usato. Cogliendo l'occasione per cacciarlo
+
+in tasca, tornai nello studio di Quinton, chiusi la porta a chiave,
+
+e gli somministrai la pozione soporifera. Era contrario a rispondere
+
+ad Atkinson, ma lo spinsi a gridare per far tacere quel tale,
+
+perché volevo una prova chiara che Quinton fosse vivo quando lasciai
+
+la stanza per la seconda [[Time|volta]]. Quinton si sdraiò nella serra,
+ed io tornai attraverso lo studio. Sono un uomo svelto di mano, e
+
+in un minuto e mezzo avevo fatto ciò che volevo fare. Avevo
+
+gettato tutta la prima parte del [[Romance|romanzo]] di Quinton nel caminetto,
+
+dove bruciò fino a ridursi in cenere. Poi mi accorsi che le virgolette
+
+non andavano bene, così le ritagliai, e per rendere la cosa più verosimile,
+
+ritagliai allo stesso modo l'intero fascicolo. Poi uscii con la
+
+consapevolezza che la confessione di [[suicide|suicidio]] di Quinton giaceva sul tavolo
+
+d'ingresso, mentre Quinton giaceva vivo ma addormentato nella serra
+
+più in là.
+
+L'ultimo atto fu disperato; potete indovinarlo: finsi
+
+di aver visto Quinton morto e mi precipitai nella sua stanza.
+Vi trattenni
+
+col foglio e, essendo svelto di mano, uccisi
+
+Quinton mentre voi guardavate la sua confessione di [[suicide|suicidio]].
+Lui
+
+era mezzo addormentato, drogato com'era, e gli posi la sua stessa mano sul
+
+coltello e glielo affondai nel [[Body|corpo]]. Il coltello era di forma tanto bizzarra
+
+che nessuno se non un operatore avrebbe potuto calcolare l'angolo
+
+che raggiungesse il cuore. Mi [[Wonder|domando]] se ve ne siate accorto.
+
+Quando l'ebbi fatto, accadde la cosa straordinaria. La [[Nature|Natura]]
+
+mi abbandonò. Mi sentii male. Mi sentii esattamente come se avessi fatto qualcosa
+
+di sbagliato. Credo che il mio cervello stia andando in pezzi; provo una sorta di
+
+disperato piacere al pensiero di aver raccontato la cosa a qualcuno;
+
+che non dovrò restare [[Alone|solo]] con essa se mi sposerò e avrò
+
+dei figli. Che cos'ho che non va? ... [[Madness|Follia]] ... o è possibile
+
+provare rimorso, proprio come se ci si trovasse nei [[Poems|poemi]] di Byron! Non riesco
+
+a scrivere altro.
+
+James [[Erskine]] Harris.            
+
+[[Father Brown|Padre Brown]] ripiegò con cura la lettera, e se la mise nel taschino
+del petto proprio mentre giungeva un forte scampanellìo al cancello, e i bagnati
+impermeabili di parecchi poliziotti luccicavano nella [[Road|strada]], là fuori.
+
 
 
 <span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_01" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 1)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,archetype/king,motif/childhood,motif/crown,motif/dawn,motif/flowers,motif/gold_and_grey,motif/love,motif/memory,motif/moon,motif/night,motif/river,motif/rose,motif/sleep,motif/time,concept/exile,concept/history,concept/suicide,form/history,form/tragedy,setting/italy,setting/paris,character/father_brown,character/flambeau,character/hamlet"></span>
@@ -23703,7 +23785,7 @@ Il prete pareva davvero incerto su dove cominciare, e alla fine disse ancora:
 
 «Dove nasconderebbe un uomo saggio una foglia? Nella foresta.»
 
-L'altro non rispose.
+L’altro non rispose.
 
 «Se non ci fosse foresta, ne farebbe una. E se volesse nascondere una foglia morta, farebbe una foresta morta.»
 

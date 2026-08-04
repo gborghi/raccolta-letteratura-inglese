@@ -265,10 +265,10 @@ They have changed the password.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Mi venite a dire che ormai non mangiano più gli [[asparagus|asparagi]] con le dita?
-Non so forse che in certe fra le case migliori tengono, per ciascun
-commensale, delle graziose pincette?  Non ho forse sentito
-che ormai l'[[asparagus|asparago]] lo si cala nella bocca aperta con uno spago,
-o lo si spara in bocca con un piccolo fucile, o lo si mangia con le dita dei piedi, oppure non
-lo si mangia affatto?  No; non lo so: è proprio questo che voglio far notare.
+Mi dite che ora non mangiano l'[[asparagus|asparago]] con le dita?
+Non so forse che in alcune delle case migliori hanno delle piccole
+pinze per ciascuno, che sono deliziose?  Non ho forse sentito
+che l'[[asparagus|asparago]] ora viene calato nella bocca aperta con uno spago,
+o sparato in bocca con un piccolo fucile, o mangiato con le dita dei piedi, o non
+mangiato affatto?  No; non lo so, ed è questo che desidero far notare.
 Hanno cambiato la parola d'ordine.

@@ -391,7 +391,7 @@ its State Church", but which did mean in the [[Renaissance]] epoch,
 
 Il pensiero antireligioso nel diciottesimo secolo
 
-Di G.K. Chesterton
+Di G.K. Chesterton 
 
 In origine un contributo a «An Outline of [[Christianity|Cristianesimo]]; the Story of our Civilization», Vol. IV. [[Christianity|Cristianesimo]] and Modern Thought, 1926. The Waverley Book Co., [[London|Londra]]
 

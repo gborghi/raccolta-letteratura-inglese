@@ -3371,6 +3371,34 @@ Careless, however, as Sir Charles Repton might be of a fringe of income obtainab
 The Wardenship of the Court of Dowry carried with it something regal in that great world of affairs in which he moved, and bitter as had been the attacks upon his colleagues in the Nationalist Cabinet, — especially during the futile attempt to pass the Broadening of the Streets Bill — Sir Charles had always been treated with peculiar and exceptional respect, though he would never have used methods so underhand as to foreclose upon any newspaper with whom he might have a political difference or to embarrass by official action any considerable advertiser of patent medicines whose manufacture came under the purview of his Department.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO I
+
+Sir – o, per essere più precisi, il Nobile Sir T. Charles Repton, Bart., M.V.O., O.M., Sovrintendente della Corte dei Dote, un uomo ormai oltre la mezza età ma ancora pieno di energia e impegno, stava pranzando nella sua casa: una grande residenza che si affacciava su Hyde Park dal lato nord, situata vicino all’angolo di Edgware Road, e quindi distante almeno cento metri dalla posizione indicata sulla mappa che segnava il luogo dove un tempo sorgeva la vecchia forca permanente di Tyburn.
+
+Ho detto che era il Sovrintendente della Corte dei Dote; chiunque abbia una conoscenza delle questioni parlamentari ricorderà che, nel mese di marzo 1915, quella carica comportava normalmente anche lo status di membro del Gabinetto. Chi ha esperienza in ambito politico capirà certamente che doveva essere anche membro della Camera dei Comuni. Vi sedeva per il collegio elettorale di Pailton, l’ultimo ad eleggerlo dopo le sue precedenti esperienze nei collegi di Merionethshire, Kirkby, Bruton, Powkeley e nella divisione Wymp del Dorset; in quest’ultima circoscrizione, forse a causa del suo modo un po’ freddo e distaccato, aveva subito una sconfitta.
+
+Non era la sua prima esperienza in un incarico ufficiale, ma mai aveva raggiunto una posizione così elevata nei Consigli della Nazione, né la sua presenza nel Gabinetto aveva mai avuto un peso così significativo come in quel momento, soprattutto per il giovane e popolare Primo Ministro (che soffriva leggermente di problemi al polmone sinistro). Infatti, sebbene Charles Repton non appartenesse per nascita al gruppo di famiglie da cui proveniva il Primo Ministro, egli faceva parte di quelle persone che, man mano che avanzano nella vita, accumulano un numero sempre maggiore di clienti, dipendenti e amici i quali non oserebbero mai mettere in discussione tali relazioni.
+
+In apparenza era alto e piuttosto snello; aveva la barba rasata; i suoi capelli bianchi brillanti erano ben curati; i suoi occhi marroni erano straordinariamente penetranti. A differenza del resto del viso, due sopracciglia folte, molto scure e fortemente arcuate accentuavano il suo sguardo. In quel periodo della sua vita, era convinto seguace delle idee di Wyclif; anzi, aveva dichiarato apertamente la propria adesione a quella corrente almeno dal proprio quarantesimo anno. Prima di allora, aveva vissuto stabilmente in un sobborgo di Leicester, dove si era trasferito da Newcastle.
+
+Per professione era, o meglio, era stato, un avvocato; in questa veste consigliava sempre a quei clienti che avevano la saggezza di accumulare ricchezze di affidargli l’investimento di essa, e questi non rimanevano mai delusi nell ricevere regolarmente un reddito moderato ma sicuro, calcolato su una percentuale ragionevole; mentre per coloro che, per qualsiasi motivo, avevano bisogno di prendere in prestito denaro, era sempre pronto a prestare somme di denaro, ad un tasso leggermente più alto, quelle che aveva a disposizione.
+
+Ma questa routine monotona della vita professionale non avrebbe mai potuto soddisfare le capacità di un uomo del suo calibro. Poco dopo essere entrato nella vita politica, si era assunto la gestione di numerosi progetti industriali; alcuni di questi ebbero un successo straordinario, mentre quelli meno fortunati fallirono a causa delle azioni altrui, e non sue: anzi, spesso si verificava che, quando arrivava l’ordine di liquidazione, tali rischi avevano attirato ben poco del suo denaro personale.
+
+Quella mattina di marzo 1915 stava mangiando un uovo. Davanti a lui c'era un esemplare del “Times”; le notizie pubblicate da quel giornale rientravano tra i suoi interessi principali. Gli istanti che gli rimanevano dopo averlo letto li dedicava al metodoico aprire le buste e dare un’occhiata al loro contenuto: era sua abitudine procedere in modo sistematico prima di affidare alle sue segretarie il compito di rispondere alle lettere. Anzi, alcune di queste missive le metteva in tasca per occuparsene più tardi, con calma e tranquillità.
+
+Era solo, perché sua moglie – Maria, Lady Repton – di solito fingeva di scendere al piano dopo che lui aveva lasciato la casa; e questo, non importava quanto tardi fosse rimasto fuori la sera precedente, lui lo faceva sempre alle nove e mezza. Devo aggiungere che non aveva figli, ma poteva vantare ben cinque cavalli in città e sedici in campagna, tutti di sua proprietà; in campagna utilizzava chissà quanti veicoli. A [[London|Londra]] ne aveva tre, ciascuno adatto alle proprie esigenze. Per quanto riguarda le automobili, ne possedeva solo una, ma molto grande e di un colore azzurro cielo intenso. Poiché non era abile a cavalcare, non si dedicava a questa attività; invece amava il golf e conosceva tutti i termini tecnici del gioco.
+
+Per essere giusti con lui, non mancavano certo i mezzi; anzi, si potrebbe dire che fosse ricco, e lo stipendio di 5000 sterline, aumentato recentemente con gli entusiasti applausi dell’Assemblea Legislativa per il ruolo di Sovrintendente del Tribunale delle Dote, non influenzava in modo significativo la sua situazione economica.
+
+Per un altro, ahimè! nella vasta e spietata [[City|città]], un simile stipendio avrebbe significato molto di più. E George Mulross Demaine, di cui per il momento non intendo soffermarmi, ne avrebbe tratto maggior beneficio in termini economici che di status.
+
+Incurante, tuttavia, per quanto Sir Charles Repton potesse essere riguardo a quei piccoli introiti che gli derivavano soltanto quando il suo partito era al potere, si riteneva che fosse piuttosto attaccato ad altri vantaggi legati alla sua carica di Sovrintendente. È dubbia la possibilità che un uomo dal carattere così deciso, riservato e dominante potesse davvero apprezzare cose del genere: portare una modella di nave in testa nuda durante le grandi processioni del Giorno dell’Impero, indossare in occasioni ufficiali scarpe con i tacchi arricciati che si fissavano alle caviglie con piccole catene d’argento, o avere su tali accessori diversi campanellini che tintinnavano mentre camminava. Questi anacronismi non potevano che causare disagio in una persona dal suo temperamento rigido, soprattutto nelle rare occasioni in cui era costretto a indossare l’uniforme ufficiale durante le cerimonie di corte. Ma c’era dell’altro.
+
+La carica di Sovrintendente del Tribunale delle Dote comportava in sé qualcosa di regale in quel vasto ambito di affari in cui operava; nonostante gli attacchi subiti dai suoi colleghi nel Gabinetto Nazionalista – soprattutto durante il vano tentativo di far approvare la Legge sull’Ampliamento delle Strade – Sir Charles era sempre stato trattato con un rispetto particolare ed eccezionale. Tuttavia, egli non avrebbe mai adottato metodi sleali per soffocare qualsiasi giornale con cui potesse avere divergenze politiche, né avrebbe mai umiliato con azioni ufficiali importanti inserzionisti di medicinali brevettati il cui settore rientrava nella giurisdizione del suo dipartimento.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="A Change in the Cabinet — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
@@ -3417,6 +3445,48 @@ He was a man of such character, who conducted his household so firmly, that the 
 From her room Maria, Lady Repton, when she was quite sure that her husband was gone, slunk downstairs. With a cunning that was now a trifle threadbare, she discovered from Parker the housekeeper, from the secretary, from the butler, by methods which she fondly believed to be indirect, what plans her husband had formed for the day. She sighed to learn that she might not have the car, for she had designed to go and see her dear old friend widow, Mrs. Hulker, formerly of Newcastle, now of Ealing, a woman of great culture and refinement and one who gave Maria, Lady Repton, nearly all her information upon books and life. Of course there was always the Tube and the Underground, but they greatly wearied this elderly lady, and it was too far to drive. She sighed a little at her husband’s order.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sarebbe un'esagerazione dire che avesse elevato uno dei ruoli minori del governo al livello del Ministero degli Esteri, ma comunque, sotto la sua guida, quel ruolo divenne quasi altrettanto importante di quando GHERKIN lo aveva reso una funzione principale dello Stato. Si trattava di uno dei dipartimenti con le spese più ingenti; Repton si assicurava che tutto fosse fatto nel modo dovuto.
+
+Sir Charles Repton si preparava ad uscire di casa, verso le nove e mezza; la sua mente era concentrata sugli affari del mattino, ovvero su una riunione del consiglio della Compagnia Van Diemens. Non è ancora necessario che il lettore conosca i dettagli di questa riunione; basta sapere (e questa informazione è in linea con il carattere di Repton) che la compagnia intendeva sviluppare tutta quella parte costiera del nord-est del continente australiano per cui aveva ottenuto le autorizzazioni necessarie, ma nessuna impresa era ancora riuscita a sfruttare appieno le enormi risorse dell’Impero a tal fine.
+
+Dei vantaggi strategici che una tale posizione può offrire, non c’è bisogno di parlare. Fortunatamente erano nelle mani di patrioti.
+
+La somma relativamente piccola di 4.000.000 sterline, che secondo lo statuto della società le era permessa raccogliere, sarebbe stata sottoscritta venti volte di più se l’offerta delle azioni fosse avvenuta sette anni prima. È noto a tutti che in un determinato momento, in cui i valori delle azioni dovevano essersi certamente inflazionati, il loro prezzo raggiunse un sovrapprezzo compreso tra l’800 e il 900%. Tuttavia, il processo razionale di riflessione che segue spesso questi errori aveva ormai portato i loro valori a livelli troppo bassi: l’originale azione da una sterlina, che in precedenza aveva quasi raggiunto i 9 penny, da molti mesi non veniva più venduta al suo prezzo nominale di 16/3 sterline.
+
+Esiste una regola fondamentale nell’amministrazione pubblica di questo paese – introdotta, credo, dal signor Gladstone – che vieta a un ministro del gabinetto di ricoprire contemporaneamente alcuna carica dirigenziale in ambito pubblico. È proprio questa regola che rende abituale che due persone appartenenti a fazioni opposte all’interno del Parlamento raggiungano un accordo secondo cui uno di loro assume la carica di direttore mentre l’altro è in carica, al fine di evitare che questioni commerciali importanti vengano trascurate a causa dell’applicazione troppo rigida di una regola, in sé eccellente. Tuttavia, nel caso di un affare imperiale di tale rilevanza come quello delle isole Van Diemen, non c’era alcuna necessità di un simile accordo: l’interesse nazionale era troppo diretto perché la connessione di questo progetto con un ministro del gabinetto potesse risultare significativa. Pertanto, tutti coloro che avevano sentimenti patriottici furono sinceramente felici quando, nel gennaio precedente, Sir Charles Repton acconsentì ad acquistare alcune migliaia di azioni senza procedere a un’acquisto diretto e ad impegnarsi attivamente per il successo del progetto.
+
+Fu riconosciuto da tutti che quell'atto rappresentava un esempio di autosacrificio tipico di uno statista; forse solo due giornali di [[London|Londra]] (due quotidiani serali a grande diffusione ma senza particolare prestigio) menzionarono in qualche modo gli sforzi di Sir Charles in questo campo.
+
+Di questi, la Luna si rivolgeva particolarmente a quel vasto pubblico che desiderava che [[England|Inghilterra]] dominasse i mari, che era interessato ai risultati delle corse ippiche stampati, che in passato aveva con successo sostenuto richieste di protezioni, e che si sentiva un po’ deluso dopo tanti anni in cui il Partito Nazionalista non aveva fatto altro che aumentare le tasse su parti dei motori automobilistici, prugne straniere non zuccherate, letame di muschio, e quantità minuscole di acido solforico importato utilizzato nella produzione della birra.
+
+L’altro, il Capon – per dargli il nome completo – era di qualità molto superiore. Tutti i giovani appassionati lo leggevano; veniva acquistato in grandi quantità grazie alle sue Note di Giardinaggio, alle sue caricature, ai suoi titoli accattivanti e ai suoi brevi articoli, non lunghi nemmeno venti righe. Grazie a un’invenzione innovativa, tutti i testi erano stampati in lettere maiuscole e con inchiostro rosso, che risaltava perfettamente sul bianco e nero del resto del contenuto.
+
+Entrambi questi giornali avevano attaccato in modo continuo e violento il legame tra uno dei nostri pochi grandi statisti e l’ultimo di quei vasti progetti imperialistici. Il “Capon”, il cui editore era un giovane con occhi molto selvaggi e capelli simili a quelli di un salice piangente, attaccava tale legame per principio. Il “Moon”, il cui proprietario era un intimo amico dello stesso Sir Charles, adottava un approccio più pratico: attaccava il rapporto tra Repton e la Compagnia utilizzando personaggi tipici di un’epoca più virile.
+
+Bene, allora, alle nove e mezza di quel giorno di marzo del 1915, Charles Repton si alzò dopo colazione. Si sistemò le briciole sulla giacca affinché cadessero, così come quelle sui pantaloni. Guardò con severità il maggiordomo nell’atrio; quest’ultimo tremò un po’ sotto quel suo sguardo. Charles si infilò rapidamente il cappotto da solo e chiese brevemente di parlare con il maggiordomo.
+
+Il maggiordomo arrivò.
+
+#"Vado a pranzo."
+
+“Sì, signor Charles.”
+
+“Dite a Parker che se mai una delle mie lettere dovesse rimanere sul tavolo dopo la mia partenza, parlerò con Lady Repton.”
+
+“Sì, signor Charles.”
+
+“Per nessun motivo il veicolo deve essere utilizzato.”
+
+“No, Signor Charles.”
+
+Si girò bruscamente e scese le scale per uscire in strada; uno dei suoi servitori chiuse la grande porta con estrema delicatezza alle sue spalle.
+
+Era un uomo di tale carattere che gestiva la sua casa con tale fermezza, che quell’uomo, nonostante fosse ormai da cinque mesi al suo servizio, non osava mai scherzare con il maggiordomo, il quale se ne andava silenziosamente nella propria parte della casa. Era una prova straordinaria di ciò che un governo domestico rigoroso può realizzare.
+
+Dalla sua stanza, Maria, Lady Repton, una volta certa che suo marito se n’era andato, scese al piano di sotto. Con un astuzia ormai un po’ logora, riuscì a scoprire, tramite Parker la cameriera, il segretario e il maggiordomo – utilizzando metodi che lei stessa riteneva indiretti – quali fossero i piani di suo marito per quella giornata. Sospirò nel sapere che forse non avrebbe potuto usare l’auto, poiché aveva intenzione di andare a trovare la sua cara vecchia amica vedova, la signora Hulker, un tempo di Newcastle e ora di Ealing: una donna di grande cultura e raffinatezza che forniva a Maria, Lady Repton, quasi tutte le informazioni riguardanti libri e vita. Certo, c’erano sempre la metropolitana e il sotterraneo, ma questi mezzi stancavano molto questa signora anziana, inoltre la distanza era troppo grande per andarci in auto. Sospirò ancora una volta per l’ordine di suo marito.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_03" data-title="A Change in the Cabinet — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/london"></span>
@@ -3436,6 +3506,22 @@ At six he must order with particular care a dinner upon which (in his opinion) t
 
 Let the reader leave him there walking in Oxford Street and turn her attention to George Mulross Demaine, or rather, to Mount Popocatapetl.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Intanto, lui si trovava in Oxford Street e, con la rapidità che contraddistingue gli uomini di successo, aveva deciso di non prendere l’autobus ma di camminare a piedi. Era un giorno di marzo freddo, sereno e ventoso; procedeva verso est con passo spedito. Non doveva presentarsi al lavoro prima delle undici, e sapeva anche che per almeno uno dei suoi colleghi – il più stupido tra tutti i direttori, un certo Bingham – la sua arrivata sarebbe stata comunque anticipata. Infatti, l’insopportabile noia di dover discutere con una persona che invariabilmente prendeva le decisioni più sciocche era uno dei pochi motivi che facevano sì che Sir Charles mostrasse segni di impazienza.
+
+Quel giorno lo rese felice; del resto, piacque anche alla maggior parte di [[London|Londra]], per la sua bellezza e il suo clima gradevole. Camminava sul lato soleggiato della strada, e il suo sorriso, sebbene contenuto e leggermente malinconico, sembrava ancora più cordiale grazie al bel tempo. Durante quel breve spazio di tempo, la sua mente non era occupata, come potrebbero pensare coloro che ignorano le grandi capacità delle persone straordinarie, né dalle questioni di Stato, né nemmeno dalla scelta degli investimenti su cui doveva prendere una decisione in così poco tempo. Era piuttosto impegnato a pianificare – poiché la sua abilità nell’organizzazione era nota – come svolgere esattamente tutti gli impegni previsti per quella giornata.
+
+In una riunione del consiglio, soprattutto se c’è la possibilità di lunghe discussioni con qualcuno che si alza tardi e è eccezionalmente stupido, l’incontro può durare per un tempo indeterminato. Lui ha previsto che sarebbe durata un’ora e mezza.
+
+Poi doveva pranzare, e quell’ora era riservata a un certo straniero che non riusciva ancora a decidere se costruire o meno un certo ponte su un certo fiume per un certo governo.
+
+Entro le tre e un quarto deve essere nella Camera dei Comuni per rispondere alle domande; quelle che spettavano a lui erano tra le prime della lista, e per questo uomo preciso ed efficiente era fondamentale non far aspettare nessuno. Prima delle quattro deve incontrarsi con il direttore di una banca: la questione era urgente, quindi preferì non scrivere né telefonare. Alle cinque deve essere di nuovo nella sua stanza in Camera dei Comuni per ricevere un gruppo di gentiluomini provenienti dal suo collegio elettorale lontano; questi gli chiedevano con insistenza, ma anche timore, di ottenere determinati vantaggi commerciali per la loro città, a scapito di un comune vicino il cui rappresentante raramente si occupava dei affari del Parlamento.
+
+Alle sei doveva ordinare con particolare attenzione una cena di cui, secondo lui, dipendevano in gran parte le possibilità di successo del progetto Saltoon Development. Alle sette doveva vestirsi, alle otto doveva pranzare. I suoi ospiti (molti dei quali, a suo sapere, bevevano eccessivamente) sicuramente lo avrebbero trattenuto fino a molto dopo le dieci. Doveva tornare in ufficio alle undici per votare; circa mezz’ora dopo le undici doveva partecipare a una breve discussione (o almeno così sperava) riguardante il suo stesso dipartimento. Sarebbe stato fortunato se fosse riuscito ad andare a letto entro le dodici.
+
+Lasciamo che il lettore lo immagini mentre cammina per Oxford Street e rivolgiamo la sua attenzione a George Mulross Demaine, o, meglio ancora, al Monte Popocatapetl.
 
 
 
@@ -3477,6 +3563,42 @@ Some two years before, in [[London]], one George Mulross Demaine had lain langui
 He was of good birth, and doubtless had he possessed a secure and flowing fortune, his natural diffidence would have been less pronounced, and the strange fatality by which he could hardly place his hands and feet in any position without causing some slight accident to the furniture, would have passed unnoticed, or would have been put down to good nature. But George Mulross was wholly devoid of means.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO II
+
+Si ammetterà generalmente che un fiume sotterraneo che scorre con grande forza attraverso una regione costantemente infuocata debba, per sua natura, rappresentare una base estremamente instabile per qualsiasi grande struttura in muratura; il pericolo legato alla costruzione su un simile terreno diventa ancora più evidente se i materiali utilizzati non vengono adeguatamente consolidati, a causa della mancanza di professionalità da parte di un appaltatore indifferente al giudizio della propria coscienza.
+
+Eppure, tali erano le condizioni sui fianchi del Monte Popocatapetl quando, nell’autunno del 1914, si decise di costruire sul quel sito la diga di Popocatapetl, al fine di contenere il lago formatosi e utilizzarlo per l’irrigazione della regione di El Plan.
+
+Il Monte Popocatapetl si erge in forma di cono elegante, raggiungendo un'altezza di 22.130 piedi sul livello del mare. La sua cima è incoronata da nevi eternhe, mentre intorno alla sua base, nonostante i numerosi terremoti e le continue eruzioni di enormi fontane d’acqua bollente, si trovano una ventina di città e villaggi, alcuni con nomi spagnoli, altri con nomi incomprensibili. Grazie al lungo e benefico governo del generale Porfirio Diaz, questi luoghi godono di una stabilità politica che la natura stessa dovrebbe imitare; questo ha spinto gli abitanti a cercare i loro “tesori” sulla terra, e ha permesso loro di disporre dell’inestimabile vantaggio rappresentato dalla grande diga di Popocatapetl.
+
+Dico “un vantaggio inestimabile”, perché sebbene la costruzione di questa straordinaria diga abbia completamente interrotto l’insufficiente approvvigionamento idrico di questa regione, ha portato nella zona somme considerevoli di denaro americano, una forte domanda di manodopera e anche una linea ferroviaria la cui estremità permette di acquistare i giornali più progressisti del Nuovo Mondo. Anche il giornalista più semplice – purché disponga dei mezzi per viaggiare in queste regioni remote – potrebbe informare gli abitanti, se questi fossero disposti ad ascoltarlo con pazienza, che l’irrigazione di El Plan, pur essendo situata a 150 miglia dalle loro attuali case aride, non può che giovare loro e creare un mercato per i loro prodotti.
+
+Misteriosi disegni della Provvidenza. Questa montagna, tra i più nobili fenomeni vulcanici, era destinata a minacciare di rovina una grande famiglia inglese, a far salire su una poltrona del Tesoro un giovane dall’aspetto modesto e dalle capacità insufficienti, a scuotere metà delle finanze mondiali. E a conferire titoli nobiliari a un uomo per il quale simili onori non erano altro che ornamenti senza valore!
+
+Per comprendere attraverso quale catena di circostanze la testa canuta di Popocatapetl possa, con il suo movimento, causare una conseguenza così lontana, è necessario che il lettore si concentri nuovamente con determinazione sulla verità secondo cui un fiume sotterraneo che scorre con grande forza attraverso una regione di fuoco perpetuo deve, per sua natura, costituire una base estremamente instabile per qualsiasi costruzione in muratura. Inoltre, il pericolo legato alla costruzione su un simile terreno diventa ancora più evidente se si considerano i materiali utilizzati, ecc.
+
+Alla luce di questa conoscenza, che (come la maggior parte degli esseri razionali) possedeva Ole Man Benson, un investimento nelle azioni di una società i cui dividendi dipendevano dalla sicurezza di un simile edificio avrebbe potuto sembrare, a coloro che non conoscono bene i nostri moderni imprenditori, una follia imperdonabile.
+
+È comunque vero che Ole Man Benson portava sulle spalle un pesante carico di “Popocatapetli”, nudo e senza alcuna vergogna.
+
+Lui non aveva il controllo effettivo su Popocatapetls. Per l’amor del cielo! Ma, oltre a una considerevole quota di cui era effettivamente proprietario, una notevole parte apparteneva alla Durango Investment Company; la maggioranza delle azioni di questa società, essendo di proprietà del Texas and Western Equalisation Syndicate, conferiva a Ole Man Benson, nella sua veste di Chief Equaliser, un controllo distante ma efficace sulla seconda quota di Popocatapetls in questione. Inoltre, l’enorme investimento effettuato dalla N.N.O. e dalla S.L. Line utilizzando i loro fondi riservati nella stessa società gli dava, nella sua veste di Chief Terroriser, un terzo controllo su quell’impresa.
+
+In un modo o nell'altro, Ole Man Benson sostituiva Popocatapetls in modo tanto evidente quanto efficace. E stranamente, più intensi diventavano gli incendi e più forte il rumore del fiume sotterraneo, più inesorabilmente Popocatapetls continuava a “sorgere”; più Wall Street spingeva verso l’alto questi processi, e più vigorosamente gli investitori americani (gli unici realmente interessati) acquistavano azioni, fino a quando, un certo giorno, fu annunciato che un grande statista repubblicano di indubbia integrità ma forse con un idealismo troppo elevato avrebbe tenuto un discorso su questa importante iniziativa nazionale.
+
+Ole Man Benson amava, fidava e rispettava questo statista, sostenendolo in ogni modo possibile; il suo nome mi sfugge, ma sulla sua decisione dipendeva senza dubbio il futuro dell’impresa. Il legame tra i due uomini era tale che il politico non esitò a ricevere dal capitalista alcune appunti scritti in fretta in ufficio, utilizzati per formulare la decisione finale da comunicare al popolo.
+
+Doveva essere consegnato a Washington in una certa mercoledì (la data è memorabile), all’ora insolita delle dieci, affinché un resoconto completo potesse raggiungere sia i saggi che gli ignoranti di [[City]] di New York in tempo utile perché le sue conseguenze si facessero pienamente sentire sui mercati; e Ole Man Benson aveva dato istruzioni di vendere non più tardi delle tre e mezza di quella stessa fatidica mercoledì.
+
+Ma cosa c'entra tutto questo, se vi piace piangere (se è davvero questa la vostra abitudine), con le antiche case di questa terra? Con il Gabinetto? Con i titoli nobiliari e il resto?
+
+Tut! Non avete mai sentito quanto il mondo moderno sia sensibile a ogni notizia commerciale, e come tutto il mondo moderno sia ormai un tutt’uno? Beh, allora devo spiegare.
+
+Circa due anni prima, a [[London|Londra]], un certo George Mulross Demaine giaceva in condizioni di povertà estrema a causa della mancanza di denaro.
+
+Proveniva da una buona famiglia; senza dubbio, se avesse posseduto una fortuna stabile e abbondante, la sua naturale timidezza sarebbe stata meno evidente, e quella strana tendenza a causare piccoli incidenti ogni volta che muoveva le mani o i piedi avrebbe potuto passare inosservata, o essere attribuita semplicemente alla sua indole. Ma George Mulross era completamente privo di mezzi.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="A Change in the Cabinet — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
@@ -3510,6 +3632,36 @@ The moment was opportune: he was twenty-five, he had lost his father, he was pen
 
 No profession naturally proposed itself to a man of his talents, and he had not the initiative to live as a free lance. His marriage, therefore, was one of these providential things which seemed to fit almost too exactly into the general scheme of life to be true. He met his wife when Mary Smith (after making all her inquiries at the Petheringtons’) had caught and branded that heiress: and the wife so branded was Sudie Benson, the daughter of so wealthy an American as made the traffic of [[London]] not infrequently halt for his convenience, and who rather more than two years before my story bursts open, had seen fit to bring the radiant girl to [[London]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+George Mulross Demaine, come molti della sua stessa classe sociale, era imparentato con Mary Smith.
+
+Ora Mary Smith, con la sua personalità piacevole ed energica, i suoi occhi vivaci e il suo cuore gentile. Il lettore non potrà mai comprenderla appieno se non avrà letto o, meglio ancora, imparato a memoria quell’opera incantevole: “L’elezione di Mr. Clutterbuck”. In essa, come una vera fata, appare in ogni scena e sembra essere l’amica, la confidente, la cugina, la cognata o la zia di almeno tre quarti delle persone importanti d’[[England|Inghilterra]].
+
+Non proverà nulla, dico io, a meno che non abbia reso quel lavoro la sua “bibbia”; solo allora capirà come Mary Smith, da St. James’s Place, abbia benedetto quella società con le sue manine gioiose, e come si sia divertita in compagnia di personaggi così diversi tra loro come il Peabody Yid e Victoria Mosel.
+
+Che donna! Quel suo piccolo “cassone da tiro” in Scozia. La sua casa nel West Country. Quella tenuta di campagna che raramente visitava nelle Midlands, ma che prestava con estrema generosità. La sua vivacità, il suo fascino, le sue frasi in francese. Tutti questi erano eredità del suo defunto marito, anch'egli americano e di cognome Smith, come è facile intuire!
+
+Il lettore che non conosce l’opera di cui parlo dovrebbe essersi già informato, nel luogo appropriato, sulla notevole figura del cugino William Bailey; non occorre certo dire quanto ciò abbia comportato ripetizioni da parte mia. Anche lui faceva parte di quel gruppo; anche lui era stato eletto dal popolo. Ma strane eccentricità lo tenevano ormai lontano dal suo vero mondo. Affermava quindi di avere un grande interesse per gli Ebrei, presentandoli come i veri padroni segreti dell’[[England|Inghilterra]]. Quanto fosse sincero quel fanatismo, nemmeno lui stesso avrebbe potuto dirlo con certezza. Gli procurava enorme divertimento scoprire ogni sorta di “nidi di vespe”; non era mai più felice che quando individuava le relazioni tra le famiglie al potere, o il legame tra qualche politico irreprensibile e qualche avventura finanziaria losca. C’era però una sola scusa per le sue manie: nonostante le sue più appassionate ricerche, rimaneva comunque un cinico gentile. Lo incontreremo di nuovo.
+
+Quindi, Mary Smith era imparentata con tutti loro, e loro erano tutti imparentati tra loro; nel loro rapporto c'era anche amicizia, e erano loro a governare [[England|Inghilterra]], ed erano loro ad assumersi l'onere delle tasse.
+
+Che il leader dell’Opposizione fosse un caro amico di Mary Smith è ovvio; ancora più stretta e affezionata a lei era un’altra sua cugina, il giovane e popolare Primo Ministro. Per i suoi amici era chiamato Dolly, ma per il mondo conosceva un nome più dignitoso. Soffriva leggermente di problemi al polmone sinistro; aveva raggiunto quella posizione elevata prima ancora di compiere cinquant’anni. Per oltre quattro anni aveva guidato con grande abilità le sorti del Partito Nazionalista, e proprio in quel momento, mentre Popocatapetl covava la sua rabbia interna, lui stava a Westminster facendo approvare il “Progetto per l’Ampliamento delle Strade” durante una sessione parlamentare molto animata.
+
+Ma tra tutti i suoi parenti, vicini o lontani, tra tutti gli amici che chiamava per nome cristiano, né il Cancelliere dello Scacchiere, né il Primo Lord del Mare, né i sei principali membri dell’opposizione in parlamento, né gli otto o nove uomini delusi che occupavano posti di rilievo, né le una ventina di grandi banchieri che onorava alle sue cene, né il Segretario di Stato per le Colonie (una carica ormai meno importante da quando era avvenuta la vicenda di Sarawatta), né lo stesso giovane e popolare Primo Ministro, che soffriva leggermente di un problema al polmone sinistro, nessuno di loro le era così caro quanto quel nipote, George Mulross Demaine.
+
+La relazione tra loro era distaccata, e ciò non derivava tanto dai legami di sangue quanto dalla forte amicizia che aveva sempre esistito tra il padre di Demaine e lei stessa. Fu proprio per questa ragione che Mary Smith decise di fare amicizia con quel ragazzo, così come aveva già fatto con tanti altri. Il padre di Demaine, infatti, anche se considerato un fallito dal mondo e separato dalla moglie da molti anni, esercitava sempre su di lei un particolare fascino.
+
+Le opinioni su diversi episodi della sua vita erano profondamente divise; tanto che verso la fine della sua vita preferì vivere all’estero. L’infanzia di George trascorse quindi in circostanze molto instabili: a volte con suo padre in Irlanda, altre volte con sua madre nei dintorni di Costantinopoli, e occasionalmente sotto il tetto di Mary Smith durante la breve durata del suo matrimonio.
+
+Era cresciuta fino al punto di fare per lui ciò che non avrebbe fatto per nessun altro – ad esempio, per Charlie Fitzgerald – perché lui non era un uomo disordinato né uno che spendeva soldi senza ottenere nulla in cambio. Era semplicemente un giovane inglese tranquillo e modesto, un po’ goffo (come sappiamo) nel movimento delle mani e dei piedi, ma con un cuore d’oro. E destinato a non ereditare nulla. Non aveva ancora raggiunto l’età adulta quando sua madre morì; nei primi anni della sua vita da uomo trascorse sempre più tempo sotto il tetto di questa donna gentile e potente, che si era impegnata affinché le sfortune o i difetti dei suoi genitori non colpissero lui.
+
+Lo portava ovunque con sé, gli dava sempre dei soldi da spendere e, cosa più importante di tutte, due anni fa aveva organizzato il suo matrimonio.
+
+Il momento era propizio: aveva venticinque anni, aveva perso suo padre, era senza un soldo; il titolo di Grinstead che sicuramente avrebbe ereditato sembrava lontano e privo di qualsiasi garanzia concreta. Non aveva scelto, o meglio non gli era stata data, l’opportunità di arruolarsi nell’esercito; inoltre, per colpa di alcuni errori commessi, aveva anche perso l’occasione di frequentare l’università. Era così inadatto alla diplomazia che persino William Bailey, abituato a consigliare per quella professione i suoi giovani amici meno brillanti, scosse la testa quando gliene fu proposto l’ingresso; dopo una breve esperienza a Parigi, fu quindi costretto ad abbandonare anche quel campo.
+
+Nessuna professione si presentò naturalmente a un uomo dai suoi talenti, e lui non aveva l’iniziativa di lavorare come freelance. Pertanto, il suo matrimonio fu uno di quegli eventi “provvidenziali” che sembravano adattarsi troppo perfettamente al disegno generale della sua vita per poter essere veri. Conobbe sua moglie quando Mary Smith, dopo aver fatto tutte le sue indagini presso i Petherington, aveva individuato e “etichettato” quella ereditiera. Quella moglie, appunto, era Sudie Benson, figlia di un americano così ricco che il traffico di [[London|Londra]] si fermava spesso per comodità sua; inoltre, poco più di due anni prima che la mia storia iniziasse, aveva deciso di portare quella ragazza radiosa a [[London|Londra]].
 
 
 
@@ -3556,6 +3708,48 @@ But from the name of Charles Repton let me rapidly slew off to the sombre pyrami
 
 It was a Wednesday in that March of 1915 that the Statesman was to speak in Washington at ten: (for two years Demaine House had thriven, it slept that Tuesday night unconscious of its fate). It was for the Wednesday at 3.30 that the order to sell stood in Ole Man Benson’s name.... Well ...
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I due furono costretti ad incontrarsi: intendo dire il ragazzo e la ragazza. Fin dal primo momento capirono quale sarebbe stato il loro destino. Lei non riusciva a trovare alcun difetto nella società che li circondava, e in cui un matrimonio del genere avrebbe inserito le loro attività; lui non vedeva alcun svantaggio in quell’unione, tranne per uno o due comportamenti del futuro suocero, che forse con il tempo sarebbero cambiati, oppure no.
+
+Ole Man Benson, per usare ancora una volta il nome con cui era conosciuto e odiato in un altro ambito. Dei primi diecimila dollari che, all’età di quarantatré anni, aveva accumulato con grande sforzo grazie al commercio del merluzzo essiccato, non si occupava delle cose, come fanno le persone comuni, ma dei numeri. Si era avventurato coraggiosamente, come un giovane Napoleone. E bisogna ricordare che utilizzava non solo i soldi degli altri, ma spesso anche i propri.
+
+Era nato da genitori scozzesi-irlandesi, probabilmente di cognome Benson, e certamente si era sposato nella Prima Chiesa Battista di Cincinnati poco più di settant’anni fa. Era il figlio minore di una famiglia numerosa; fu battezzato o chiamato così in onore del poeta Teocrito, e il suo secondo nome era Chepstow; nelle sue firme, però, solitamente abbreviava quel nome con la sua lettera iniziale.
+
+Theocritus C. Benson, ormai conosciuto da tutta la comunità anglo-sassone, indipendentemente dalla razza o dall’ambiente in cui vive, appartiene a quel tipo di persone che, sebbene rari, sono particolarmente capaci di organizzare e guidare le azioni altrui in modo da creare ordine dal caos, e di accumulare o distribuire ricchezze in modi fino ad allora senza precedenti nella storia del mondo.
+
+Era abituato (nei colloqui che con orgoglio concedeva ai giornali dell’[[England|Inghilterra]], dell’America e delle Colonie) a attribuire la sua grande posizione a un impegno instancabile e a un profondo disprezzo per ogni forma di eccesso, in particolare nel consumo di alcolici fermentati e soprattutto nella terribile pratica del gioco d’azzardo. La sua educazione puritana, che gli aveva insegnato a considerare le carte come un “libro illustrato del Diavolo” e le corse come qualcosa di simile al teatro, ma con effetti dannosi dal punto di vista spirituale, era, secondo quanto sosteneva costantemente, la chiave di tutto ciò che aveva realizzato da quando aveva lasciato la casa di suo padre. Tuttavia, in questa autocritica così mascolina, il signor Benson si rendeva ingiusto verso se stesso. Queste qualità positive si trovano in molti milioni dei suoi concittadini; avrebbe potuto altrettanto bene indicare, con orgoglio, il numero di membri della sua loggia o la propria ignoranza delle lingue straniere come le cause dei suoi continui successi.
+
+C'era dell'altro: Oltre al suo odio per il rischio e al suo rigido senso del dovere e alla sua instancabile diligenza, possedeva anche quella sorta di audacia che ha reso grande quel popolo in tutte le sue avventure all'estero, soprattutto nel caso dei scozzesi-irlandesi.
+
+Sapeva investire somme ingenti con una fiducia cieca nel futuro, una cifra che avrebbe spaventato un uomo meno coraggioso; allo stesso modo, era altrettanto deciso a ritirarle anche quando ciò avrebbe significato la rovina di imprese fiorenti, mentre un altro si sarebbe accontentato di lasciare che le cose andassero per il loro verso. Questo straordinario controllo sul denaro e sui crediti, che egli utilizzava come un generale che comanda un esercito, rifletteva anche una certa dose di coraggio personale; infatti, nella fase finale della sua vita, quando aveva ormai sotto il suo controllo una vasta fortuna privata, era indispensabile che fosse lui stesso a correre i rischi legati alle sue decisioni audaci.
+
+Nel momento in cui sua unica figlia lasciò il suo felice convento belga per essere presentata alla Corte di San Giacomo, lui, sebbene fosse all’apice della sua fortuna, era un uomo solo e, in qualche modo, amareggiato.
+
+Sua moglie si era sposata con un altro; il loro unico figlio non lo vedeva da tre anni. Sebbene sapesse che il suo buon senso l’avrebbe aiutata a resistere all’influenza dell’ambiente religioso delle gentili suore incaricate della sua educazione, non poteva fare a meno di pensare che avesse trascorso gli anni più importanti della sua vita in un ambiente estraneo, sotto influenze molto diverse da quelle del Ohio Valley.
+
+Era quindi deciso a rifiutare numerose e vantaggiose offerte e ad recarsi personalmente a [[London|Londra]] durante la stagione in cui lei fu presentata al mondo. Lì, nonostante la sua ignoranza delle usanze inglesi, capì rapidamente l’importanza cruciale di Mary Smith; del resto, aveva già incontrato il suo defunto marito un quarto di secolo prima, quando si occupava di congelare i prodotti provenienti dalle regioni dei Topeka.
+
+Theocritus C. Benson aveva visto il giovane Demaine e ne era rimasto soddisfatto; inoltre, desiderava naturalmente incontrare l’anziano Lord Grinstead, se possibile, per poter valutare da solo quanto tempo sua figlia avrebbe dovuto aspettare per ottenere il suo titolo. Infatti, non avrebbe permesso che il matrimonio avvenisse finché quell’uomo non gli fosse stato mostrato: un uomo ormai ridotto quasi a nulla, che doveva essere trasportato con estrema cautela e attenzione in una sedia a rotelle attraverso i giardini privati di Bayton House.
+
+Se avesse saputo che la figura che gli veniva mostrata non era affatto quella di un anziano nobile, ma piuttosto il cadavere di un dipendente rovinato, forse questo non avrebbe cambiato minimamente la sua decisione. Infatti, sebbene Lord Grinstead fosse di statura gigantesca, con il viso viola e una voce tuonante, la sua abitudine di bere in modo eccessivo gli garantiva una vita almeno altrettanto precaria di quella della figura debole su cui il finanziere aveva fissato lo sguardo. Inoltre, sebbene Lord Grinstead fosse un pessimo cavaliere, aveva improvvisamente iniziato a cacciare usando cavalli noleggiati con una spensieratezza e tenacia tali da garantirgli rapidamente una morte violenta, anche solo per quel motivo.
+
+Quando tutto fu sistemato felicemente, quando Demaine fu ceduto dal suo principale creditore e Sudie da suo padre onesto e affascinante, quando gli ultimi regali di nozze furono scambiati con lo sconto abituale e la giovane coppia si recò al Castello di Honiton che le era stato prestato per 2000 sterline durante il viaggio di luna di miele, bisognava considerare un altro aspetto della vita.
+
+Un punto su cui Mary Smith aveva fatto del suo meglio ma senza successo erano le somme di denaro destinate a garantire che il figlio non morisse di fame o peggio: 1500 sterline all’anno, una cifra che Theocritus stesso aveva proposto prima dell’inizio delle trattative. Ma man mano che queste proseguivano, Theocritus rifiutò categoricamente di modificarla anche di un penny, e alla fine la discussione fu abbandonata in preda al dispero. Tutti i bisogni dei giovani avrebbero dovuto essere soddisfatti. Lei era l’unica figlia di Theocritus; si poteva quindi fidare che fosse più che generoso. Somme considerevoli, quando necessarie per scopi diversi dall’investimento diretto, dovevano sempre essere a loro disposizione. Ma lui si rifiutò con fermezza di cedere il controllo su quelle risorse, tranne che per quella piccolissima somma destinata a proteggere Sudie dalla tirannia del marito o dalle difficoltà della vita.
+
+Le minacce velate e i complimenti espliciti di Mary Smith risultarono entrambi inutili. Si arrese, disse alla giovane donna di riservare la sua piccola rendita per i viaggi, e ottenne da Theocritus Chepstow soltanto questo: che avrebbe comprato loro una proprietà immobiliare, costruendola e arredandola. Theocritus era molto diligente; e la deliziosa casetta che oggi [[London|Londra]] conosce come Demaine House, con i suoi curiosi giardini formali, gli strani stalli olandesi e il galletto di bronzo greco situato nel luogo delle vecchie viette, ora Benson Street, è la prova che mantenne la sua promessa.
+
+Per un anno, Ole Man Benson non solo aveva mantenuto la sua promessa riguardo alla costruzione e all’arredamento per quei giovani: aveva fatto di più. Li aveva fatti arrivare a [[London|Londra]] con tutti i proventi che era stato possibile ottenere da quell’impresa nuova, grazie alla quale intendeva raddoppiare le enormi somme che gli appartenevano, direttamente o indirettamente. Ogni centesimo che poteva risparmiare dalle sue prime spese per l’acquisto di Popocatapetl veniva investito nel benessere e nella futura posizione sociale di sua figlia. Ora, dopo due anni, la diga di Popocatapetl era stata completata, ma c’erano ancora cose più grandi in serbo per loro.
+
+Demaine fu inserito nel Parlamento grazie a una maggioranza paragonabile soltanto ai vantaggi finanziari che ne avevano garantito l’ingresso. La sua nascita, la sua voce e il suo timbro racchiudevano in Casa Demaine tutto ciò che una così piccola famiglia nobile poteva offrire.
+
+So che tutto era giunto a meno di una settimana dal giorno di marzo in cui vedemmo quell’uomo molto diverso, Charles Repton, entrare nella [[City|>Città]] di Londra.
+
+Ma dal nome di Charles Repton, lasciate che mi soffermi rapidamente sulla cupa piramide situata su quel picco nei pressi di Darien, e ricordi il capriccio di Popocatapetl da cui dipendeva così tanto.
+
+Era un mercoledì di quel marzo del 1915 quando lo statista avrebbe dovuto parlare a Washington alle dieci: (per due anni la Demaine House aveva prosperato; quella notte di martedì dormiva ignara del proprio destino). Era per il mercoledì alle 3:30 che l’ordine di vendita era stato emesso a nome di Ole Man Benson. Beh.
 
 
 
@@ -3611,6 +3805,56 @@ As they were driving to Demaine House he spoke: “Any o’ your folk to supper?
 His daughter with filial gaiety assured him that she had waited his orders, to which he replied, “Good girl Sudie.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO III
+
+Tardi, quella sera di martedì, Ole Man Benson salì a bordo del Louis XV. Rosewood Express de Luxe mentre questo lasciava la stazione ferroviaria di Chicago della M.N. & C.: era diretto alla sua proprietà in montagna, nell’Idaho, e nella privacy della sua cabina, Ole Man Benson si addormentò.
+
+Non così le forze della Natura, spesso distruttive dei piani dell’uomo meschino.
+
+Un terribile sconvolgimento, che superava di gran lunga tutto ciò che si fosse mai sentito o sognato sin dall’inizio dei tempi, distrusse completamente il paesaggio di Popocatapetle nelle prime ore di quella stessa mattina; e mentre, a mille miglia a nord, il treno Louis XV. Rosewood Express de Luxe si schiantava in modo spaventoso sui suoi insufficienti materiali di sostegno roccioso, il fiume sotterraneo, i fuochi perpetui e l’imponente diga costruita senza alcuna cura venivano distrutti, lasciando al loro posto una voragine larga circa un quarto di miglio e profonda in modo inimmaginabile. Era marzo; marzo 1915. In Iowa, a marzo, nevica. La locomotiva e due vagoni del treno Louis XV. Rosewood Express de Luxe furono sepolti poco oltre Blucher da una valanga di neve la cui altezza e dimensioni superavano qualsiasi esperienza avesse mai avuto il più anziano abitante di quella incantevole città delle praterie. Lo stesso temporale che aveva causato quel disastro aveva anche interrotto i fili elettrici per molte miglia intorno.
+
+Ole Man Benson si svegliò quindi in mezzo a una situazione molto sgradevole, ma considerando la data e la prospettiva di un aumento considerevole della sua fortuna proprio quel giorno, era il più allegro di tutti; nonostante l’età, si comportava come il tipico esempio di mascolinità anglo-sassone.
+
+Alle una di quel pomeriggio il telegrafo finalmente funzionò, e i primi messaggi arrivarono alla piccola stazione; riguardavano un tumulto in un istituto per paralizzati locale. Poi, prima delle due, giunse la notizia di un’epidemia di mania religiosa nella città di Omaha. Fu solo a tarda sera che Ole Man Benson, in attesa con ansia della notizia sul grande discorso, venne a sapere della burla che il destino – nonostante il governo equilibrato e abile del generale Porfirio Diaz – gli aveva giocato nelle lontane regioni tropicali.
+
+La stessa rapidità di pensiero che aveva permesso a Teocrito di accumulare una vasta fortuna gli permise in quel momento di rendersi conto di essere rovinato. Non necessariamente per sempre, – cose del genere gli erano già capitate prima – ma comunque in modo abbastanza grave da causargli il crollo immediato.
+
+Quando, la mattina seguente, riuscì a costringersi a leggere i giornali, il disastro gli apparve davanti agli occhi nelle sue esatte proporzioni e nella sua enorme portata.
+
+Quel discorso, quel discorso da vero statista, non era mai stato pronunciato, e per ragioni più che valide: Popocatapetl aveva agito prima di tutti! Nel crollo selvaggio dei prezzi, nulla aveva contribuito di più a distruggere il mercato delle massicce vendite operate dai suoi agenti su ordine di Theocritus C. Benson. Ci furono decine di questi agenti all’interno degli edifici di Wall Street, migliaia per le strade ansiose intorno ad essi: tutti vedevano in quelle vendite un altro esempio della astuzia demoniaca di quell’uomo, paragonabile a quella di Napoleone. I suoi agenti avevano svolto il loro compito con estrema efficacia; avevano agito così rapidamente che nessuna azione rimase invenduta nelle loro mani. E quando, prima della fine di quel giorno terribile, anche gli oggetti più inutili vennero offerti a prezzi stracciati, poterono dire con orgoglio che ogni interesse del loro cliente nell’azienda fallita era stato liquidato. Theocritus C. Benson, da quel momento noto come il “Re del Terremoto”, non aveva più nessun titolo azionario invenduto; al contrario, possedeva una somma in contanti equivalente ad almeno tre centesimi su ogni dollaro della sua fortuna di un tempo. Ecco a cosa serve davvero servire fedelmente le complesse dinamiche della speculazione moderna.
+
+Tregua per Ole Man Benson! Se ho descritto così dettagliatamente le sue misere avventure commerciali, è solo per spiegare l’effetto profondo che esse ebbero sulle sorti di un importante statista britannico.
+
+Lontano, a [[London|Londra]] (Inghilterra), George Mulross Demaine non trovò nulla nel suo giornale del mattino se non quella notizia (che per lui era molto importante): Pink Eye sarebbe stato iscritto alla gara Grand National. Sua moglie, che suo padre aveva protetto dallo spirito volgare del mondo degli affari, notò effettivamente quella notizia proveniente dall’emisfero occidentale e per un momento ne fu preoccupata; ma Ole Man Benson non inviò alcun telegramma, perché non aveva mosche addosso. E nemmeno scrisse, per la stessa ragione entomologica.
+
+Oh! no. Ole Man Benson proseguì verso New York, ebbe alcune interviste con certe persone, assunse determinati farmaci, seguì un certo trattamento e, come sperava, gettò le basi per un altro piano. Solo il 30 marzo, una settimana dopo l’episodio che ho descritto, Theocritus dettò una breve nota alla sua figlia, che qui trascrivo:
+
+# Se non viene consegnato, per favore restituirlo.
+
+Titolo: Entro tre giorni…
+
+(Theocritus, a cura di C. Benson.)
+
+“2909 Kanaka Building”
+
+La città di New York
+
+30/3/’15
+
+Incontriamoci su Potassic. Partenza il 4°; arrivo probabile a Plymouth l’11°. Invierò un telegramma.
+
+“Fratello, firmato…”
+
+Con vero istinto imprenditoriale, il grande organizzatore inviò il cablogramma il 4 aprile, così che sua figlia ricevette lo stesso giorno, alla sera, nella sua casa di [[London|Londra]], la rassicurante parola “undicesimo”, che le permise di comprendere facilmente il contenuto della lettera ricevuta pochi giorni dopo; e infatti, l’11 aprile, Ole Man Benson abbracciò sua figlia in modo solenne e sobrio alla banchina di Plymouth. C’era anche George Mulross Demaine, che stava un po’ indietro rispetto al gruppo affettuoso, vestito con un grande ulster verde e un cappello dello stesso tessuto e colore, con una cresta enorme.
+
+Salirono sul treno insieme e, per tutto il tragitto fino a [[London|Londra]], quell’uomo ricco di soldi non disse una parola.
+
+Mentre si dirigevano verso la casa di Demaine, lui disse: “C’è qualcuno della tua famiglia a cena stasera?”
+
+Sua figlia, con gioia filiale, gli assicurò di aver atteso i suoi ordini; lui le rispose: “Brava ragazza, Sudie.”
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="A Change in the Cabinet — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/london"></span>
@@ -3657,6 +3901,48 @@ She came in at twelve; she brought a party with her, and she insisted upon suppe
 The first thing she did was to tell him that he could not let his house that season and that he must make up his mind to it. The second was to discover what balance there was at the bank — and to hear that it was pitifully small. The third was to offer him a short loan that would carry him over at least a few weeks of necessary expense, and the fourth to tell him that, not upon the morrow but upon the day after, she would have decided.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Durante il pasto rimase silenzioso proprio come durante il viaggio; alla fine fece capire a suo genero che desiderava parlare d'affari con sua figlia e preferiva essere da solo con lei. George Mulross uscì, portando con sé il vino: infatti il suocero di sua moglie non beveva altro che Toxine.
+
+Il messaggio che Ole Man Benson doveva portare a Sudie era abbastanza semplice: per un periodo di tempo ancora indefinito, non ci sarebbero stati più soldi disponibili. Sperava che la situazione potesse essere risolta; era convinto che ciò avverrebbe entro l’autunno, al massimo entro il Ringraziamento. Fino ad allora, niente da fare!
+
+Sudie possedeva tutta la prontezza di suo padre; gli spiegò immediatamente che, nelle condizioni della politica inglese, la cessazione totale di un reddito il cui provenire era noto agli amici di suo marito avrebbe influenzato negativamente la credibilità di suo padre in future transazioni. Gli dimostrò chiaramente anche che nessun investimento avrebbe potuto essere più vantaggioso per lui di quello di mettere a sua disposizione somme di denaro per garantire il corretto mantenimento della posizione sociale di sua figlia nella società di [[London|Londra]].
+
+Di fronte a questo argomento convincente, Teocrito rispose immediatamente che coloro che cercano denti di gallina rischiano di essere pungiti; che sigari contenenti sostanze esplosive gli erano stati offerti troppo spesso in passato per poter ora anche solo considerare l’idea di consumarli; e che, quando si trattava di affrontare problemi legati a [[London|Londra]], lui era sempre pronto a dare consigli. Con queste metafore intendeva, e infatti riuscì, a comunicare alla figlia la sua ferma convinzione: spettava a lei affrontare il futuro. E per assicurarsi che avesse compreso appieno il messaggio, le disse in termini semplici e chiari che erano necessarie tutte le risorse disponibili per contrastare qualcosa di molto più importante di ciò che esisteva a Mayfair.
+
+Con ciò terminò il loro breve dialogo.
+
+Dopo questa breve conversazione, a Demaine fu fatto capire che poteva rientrare nella stanza. Era un po’ timido nel farlo, perché interviste di questo tipo di solito significavano l’arrivo di qualche nuovo regalo o sovvenzione; tuttavia si trattava di una timidezza piacevole, e non aveva dubbi che in breve avrebbe saputo l’entità, o almeno la natura, della nuova ricompensa che la sua giovane famiglia avrebbe ricevuto. Fu quindi solo sorpreso dal modo un po’ insolito in cui suo suocero glielo comunicò, osservandolo con uno sguardo piuttosto umoristico che serio.
+
+“Beh, ho avuto una relazione con Sudie, e forse lei ne avrà una anche con te.” Poi, con tono più gentile, aggiunse: “Capisci cosa intendo?”
+
+“Sì, signore,” disse George in modo mendace.
+
+“Allora, non c’è più nulla da dire,” concluse il Capitano dell’Industria, e con grande attenzione iniziò a pulirsi i denti con un lungo stuzzicadenti d’argento sottile che portava sempre con sé nel gilet per quel preciso scopo. “Non durerà a lungo,” mormorò, metà tra sé e sé e metà al confuso Demaine; “comunque la pompa sta funzionando, e non c’è più olio.” Per spiegare questo fraseggio piuttosto enigmatico, Sudie pregò il marito di smettere di stare lì a bocca aperta come uno sciocco, e di sedersi per cercare di capirne il significato.
+
+E così, con il linguaggio più chiaro possibile e accompagnata dai decisi e approvanti cenni del capo di suo padre, tradusse in termini più antichi esattamente ciò che era accaduto e cosa significasse tutto ciò. Da quel giorno in poi, quei beni rappresentarono un reddito annuo di soli 1500 sterline per loro, be', almeno fino a quando non cambiò qualcosa.
+
+Non fu mancanza di tatto, ma nervosismo a impedire a George, alla fine di questo terribile episodio, di suggerire che suo suocero potesse ripetere ciò che aveva fatto in precedenza, che la situazione fosse temporanea e che lui personalmente sperasse nel meglio; ma sua moglie, ormai abituata a seguire i suoi pensieri, fece attenzione a sottolineare che, qualunque cosa il futuro potesse riservare loro, il presente era davvero terribile, e che il presente significava almeno due anni di difficoltà.
+
+“Almeno due anni?” (disse a suo padre).
+
+“Sì”, le rispose semplicemente e chiaramente suo padre.
+
+In Sudie scorreva molto del nobile sangue di Teocrito; infatti si osserva spesso che il genio del padre possa trasmettersi alla figlia – e viceversa. Quindi, la prima frase che Sudie disse al suo sposo disperato fu proprio una richiesta di un elenco di persone disposte ad acquistare immediatamente la casa Demaine, già arredata, per un periodo annuale e non solo temporaneamente; inoltre, tali persone dovevano essere pronte a pagare subito dopo l’acquisto.
+
+Demaine suggerì immediatamente i nomi di alcune persone che conosceva e che molto probabilmente avrebbero desiderato occupare una tale posizione a [[London|Londra]], ma allo stesso tempo erano le meno in grado di farlo. Tuttavia, aggiungeva sempre dopo ogni nome commenti del tipo “Ma ovviamente non sarebbero adatti”, o “Non credo che possano permetterselo, ”, fino a quando suo suocero, con una comprensibile stanchezza, decise di andarsene.
+
+“La cosa migliore che puoi fare,” disse sua moglie con nuova determinazione quando furono soli, “è alzarti subito e andare da Mary.” Infatti, una caratteristica distintiva nelle relazioni tra Sudie e la signora Smith era che, sebbene quest'ultima le usasse il titolo completo, lei la chiamava sempre con il nome di battesimo, in modo più affettuoso.
+
+Demaine acconsentì. Trovò suo suocero alla porta; uscirono insieme nella notte. Quando Demaine ammise timidamente di essere diretto a sud, verso St. James’s, il finanziere, prendendo una decisione rapida, annunciò che lui sarebbe andato a nord, verso Marylebone. E così si separarono.
+
+Mary Smith non c'era. Erano appena le undici e il teatro la teneva trattenuta. George aspettava. Si consultò con alcune foto molto belle, fece attenzione a non toccare nulla sulle sue scrivanie (perché sapeva che lei odiava gli incidenti e, con una perspicacia quasi canina, avrebbe sicuramente notato la sua interferenza), e rimase lì, a disagio.
+
+Arrivò alle dodici; portò con sé degli amici e insistette per cenare. Fu solo dopo le undici che riuscì a parlare con lui da sola, e continuò a conversare fino alle due.
+
+La prima cosa che fece fu dirgli che non poteva lasciare la sua casa in quella stagione e che doveva prendere una decisione al riguardo. La seconda cosa fu controllare quanto denaro avesse in banca, e scoprire che era davvero molto poco. La terza cosa fu offrirgli un prestito breve che gli avrebbe permesso di coprire almeno alcune settimane di spese necessarie. La quarta cosa fu dirgli che, non il giorno dopo, ma il giorno successivo, avrebbe preso una decisione definitiva.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="A Change in the Cabinet — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/london"></span>
@@ -3694,6 +3980,40 @@ Now from the moment that such thoughts as these entered Mary Smith’s head abou
 
 For the moment she thought of warning him not to come, then, remembering certain indiscretions of his in the past, she thought it best to say nothing, but to trust to chance.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nel frattempo doveva imbucare una lettera per lei.
+
+Si sedette e scrisse immediatamente a William Bailey.
+
+«Quando sarai fuori, George,» disse porgendogli la lettera, «vedrai una cassetta delle lettere molto grande. È molto più grande della maggior parte delle cassette; ha due fessure invece di una. Mi segui?»
+
+«Sì,» disse umilmente.
+
+«Non metterai questa lettera in tasca, George,» proseguì con fermezza e con dolcezza, come fanno certi professionisti quando si propongono di ipnotizzare i loro pazienti. «La porterai davanti a te, così.» Gliela mise nella mano destra, gli piegò il braccio, gli tenne il polso ritto, in modo che i suoi occhi non potessero fare a meno di cadere sulla missiva. «Appena sarai fuori la infilerai nella fessura di destra della cassetta, vero?»
+
+Disse di nuovo «sì», umilmente come prima. E uscendo fece tutto quello che lei gli aveva chiesto, benché, per rendere la cosa più sicura, lei lo sorvegliasse per un momento dalla finestra.
+
+Quando William Bailey ricevette la lettera il mattino seguente era del più bell'umore. Anzitutto stava per lasciare [[London|Londra]] per tre settimane, — una prospettiva che lo rallegrava sempre. Poi si accingeva a un po' di pesca in mare, uno sport per il quale aveva una passione ardente. In terzo luogo, un usuraio austriaco, e per giunta barone, si era sparato — la notizia era stata naturalmente tenuta fuori dai giornali inglesi, ma lui ne aveva letto tutti i particolari in uno di quei fogliacci antisemiti che sono la vergogna di Vienna, e a quella notizia il suo umore si era sollevato, esultante. Infine, e questo era forse ciò che più contava per un celibe eccentrico e di mezza età, la casa che aveva preso in affitto per un mese sapeva bene che gli si addiceva alla perfezione. Era la casa di Merry, l'architetto, e sorgeva abbastanza lontano da Parham Town da concedergli l'isolamento che adorava, e tuttavia abbastanza vicino al porto di Parham da metterlo in contatto con il mare.
+
+Per tutte queste ragioni lesse il biglietto di Mary Smith con grande allegria di cuore, e in quello stato d'animo in cui gli uomini influenti sono disposti a fare per il prossimo tutto quello che possono.
+
+Come molti uomini ricchi e capaci che l'occasione ha reso eccentrici, William Bailey non sopportava di maneggiare la penna. Esitò qualche istante tra la noia estrema dello scrivere e la faccenda allettante del telefono, si decise per la prima, scrisse su un modulo —
+
+«Convinci Dolly a fargli posto.
+
+(Firmato) Bill» —
+
+e mandò fuori il messaggio perché fosse telegrafato a suo cugino.
+
+Mary Smith, ricevendolo, ricevette insieme a esso una gran luce.
+
+Non le era sempre facile seguire i mutamenti che avvenivano nelle nomine politiche, ma di questo era certa: che il governo in carica conteneva più nomi sconosciuti di quanti le piacesse pensare, e che in una simile folla doveva pur esserci posto per un uomo della levatura del povero George.
+
+Ora, dal momento in cui pensieri di questo genere entravano nella testa di Mary Smith a proposito della nomina di un uomo, quell'uomo era al sicuro: l'avvenire del povero George era dunque, in ultima analisi, garantito. Ma non c'era tempo da perdere. Doveva arrivare ai banchi del governo, e doveva arrivarci con uno stipendio, e lo stipendio doveva essere sufficiente, e la promozione doveva essere rapida. Si ricordò che quella sera Dolly avrebbe partecipato al ricevimento dei Petherington, e decise di andarci anche lei. Sperava e pregava che nulla portasse là George, benché, dato che George era dappertutto, le probabilità fossero contro l'esaudimento della sua preghiera.
+
+Per un momento pensò di avvertirlo di non venire, poi, ricordando certe sue indiscrezioni del passato, giudicò meglio non dire nulla e affidarsi al caso.
 
 
 
@@ -3735,6 +4055,42 @@ Had not Sir Charles possessed an iron control of his face, the strong set smile 
 For his colleague Bingham added to a native idiocy of solid texture and formidable dimensions, the experience of extensive travel; and he was in particular well acquainted with the district with regard to which the Board must that day make its decision. It was certain, therefore, that his fellow-Directors would listen to him with peculiar respect, not only on account of his stupidity which necessarily commanded a certain attention, but also on account of his intimacy with plain matters of fact: he had been upon the spot: he was the man who knew.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IV
+
+Charles Repton, con i suoi interessi finanziari così diversificati, non sapeva nulla dei Popocatapetl e gliene importava ancora meno.
+
+Il modo in cui la sua vita sarebbe stata influenzata da quel lontano cataclisma gli era sconosciuto; e lo stesso sarebbe accaduto anche al lettore, se questo libro non fosse stato pubblicato con tale audacia.
+
+Un’altra cosa la cui vera portata potrebbe sfuggire al lettore è il fatto che Sir Charles Repton fosse estremamente sensibile proprio dietro le orecchie; ma in questo caso la colpa ricade soltanto sul lettore, e non sull’autore, perché se il lettore conoscesse “Caryll’s Ganglia”, avrebbe potuto indovinare molte cose. Ma non importa: “Caryll’s Ganglia” e il loro effetto sul controllo di sé interrompono notevolmente la sequenza di quelle avventure appassionanti che, se il lettore vorrà continuare a leggerle, potrà presto scoprire.
+
+Comunque, quelle parti della testa situate dietro ciascun orecchio erano, per qualche motivo, molto sensibili al tatto, di dimensioni maggiori del normale e particolarmente reattive alla pressione; in Sir Charles Repton, queste caratteristiche presentavano un certo grado di anomalia.
+
+Quindi, quando, all’angolo di Tottenham Court Road (in quel giorno di marzo in cui lo vedemmo camminare verso la riunione del consiglio), il suo cappello volò via; quando corse ad inseguirlo; quando, nel farlo, si scompigliò quella bella chioma bianca; e quando, per sistemarlo, entrò in un barbiere di seconda categoria, è facile immaginare che diede precise istruzioni al ragazzo che lo serviva affinché il sedile della sedia su cui appoggiava la testa fosse ben confortevole. E così fu. Su quel sedile, Sir Charles Repton appoggiò con cura la testa di colui il cui operato avrebbe determinato il futuro di Van Diemen.
+
+L’uomo, mentre si pettinava con un apparecchio di straordinaria potenza, continuò il suo monologo parlando delle banalità del momento: tra queste, menzionò la bestialità del governo e la natura odiosa del popolo italiano; in quel particolare istante del 1915, il popolo di [[London|Londra]] provava un terrore profondo.
+
+Sia a causa della pressione esercitata dalla spazzola che ruotava violentemente, sia per qualche problema di fissità del viti che sostenevano il supporto alle sue spalle, con un urto improvviso e un clangore quel supporto si staccò, facendo cadere la testa di Sir Charles Repton: prima nel vuoto, poi su due viti di ferro che corrispondevano esattamente alle zone del cranio situate dietro ciascun orecchio, zone in cui, come ho già sottolineato, era particolarmente sensibile; queste aree, infatti, erano particolarmente sviluppate in lui e sembrava che venissero nutrite da un flusso sanguigno insolitamente intenso.
+
+Nonostante il dolore fosse intenso, Charles Repton riuscì a controllarsi, ascoltò le spiegazioni e le scuse del barbiere, e si sottopose di nuovo alle cure per cui era venuto lì.
+
+Quando uscì di nuovo in strada, aveva quasi dimenticato l’incidente. I due punti in cui la sua testa era stata colpita erano leggermente gonfi e li toccava di tanto in tanto, ma presto quei ricordi svanirono dalla sua mente; entro dieci minuti non provava più dolore. Tuttavia, da quel momento in poi, in quei punti si era creato un’irritazione che avrebbe avuto conseguenze notevoli.
+
+Entrò nella [[City|Città]], ordinò una o due cose che aveva annotato nel suo promemoria prima di iniziare, fece un salto al [[City|Club della Città]] dove sapeva che lo aspettavano una o due notizie importanti, e poi si diresse lentamente verso gli uffici della Van Diemens Company. Aveva pianificato attentamente tutto il lavoro da svolgere quella mattina; non aveva bisogno di ripassare i dettagli nella sua mente, ma, come suo solito, proprio prima di aprire la porta dell’ufficio del consiglio di amministrazione, nei pochi secondi trascorsi salendo le scale, riassunse brevemente il piano d’azione che aveva in mente.
+
+I dirigenti devono chiedere ai soci un capitale aggiuntivo: un milione nominale, ovvero un aumento del 25% rispetto al valore nominale delle azioni. Questo era il primo punto da considerare.
+
+Il secondo punto riguardava l’oggetto per cui questa tassa avrebbe dovuto essere richiesta nominalmente; anche su questo aveva già preso una decisione. Paton, quasi inconsciamente, gli aveva suggerito l’idea principale: un piccolo tratto di territorio inesplorato e sconosciuto (localmente noto come “Out and Out”), dove i decaduti Kawangas – così gli aveva detto Paton, e dopotutto Paton c’era stato – tenevano le loro orge durante il periodo Mutchi. Quel tratto di territorio avrebbe potuto eliminare il lungo giro obbligatorio che tutti i viaggiatori dovevano compiere attualmente tra la stazione di carburante e la strada principale verso est, permettendo così di abbreviare notevolmente il percorso. Paton gli aveva assicurato con grande entusiasmo che una tale linea avrebbe dato al suo possessore il controllo strategico su tutto ciò che si trovava a est della Baia del Bengala; e, cosa ancora più importante agli occhi di Sir Charles rispetto all’opinione stessa di Paton, un gran numero di persone nei sobborghi di [[London|Londra]] – e probabilmente cinque-sei settimi dei giornalisti di Fleet Street – erano pronte a sostenere questa idea. L’argomento era stato ampiamente dibattuto e diffuso.
+
+Questi due punti erano chiari: dovevano chiedere un milione e lo dovevano fare allo scopo di costruire una ferrovia che finalmente potesse proteggere l’Impero dal terrore dei rivali stranieri.
+
+C'era un terzo punto: gli azionisti non volevano o non potevano sottoscrivere un milione di azioni, ma questa situazione si poteva facilmente risolvere. Si sarebbe potuto chiedere loro di versare in contanti al massimo 200.000 sterline, uno scellino per azione; il resto avrebbe dovuto essere pagato in seguito, e così via.
+
+Se Sir Charles non avesse avuto un controllo ferreo sul proprio volto, quel sorriso deciso che indossava entrando nella sala del consiglio si sarebbe allargato al ricordo di quell’ultimo dettaglio. D'altra parte, se non avesse posseduto tale autocontrollo, forse gli sarebbe sfuggito qualche gesto di irritazione nel vedere, tra i suoi colleghi presenti alla tavola, quel Bingham che si alzava sempre in ritardo e che sembrava insensibile a tutto. Quella vista sarebbe stata sufficiente ad esasperare un uomo meno equilibrato. L’ora era stata scelta con cura proprio per evitare un simile incidente. E quell’incidente avrebbe potuto significare altri mezz’ore, o più, di discussioni intense e sforzi delicati.
+
+Per quanto riguarda il suo collega Bingham, oltre all’idiozia innata e alla consistenza solida, nonché alle dimensioni imponenti, egli possedeva anche una vasta esperienza di viaggi; in particolare, conosceva molto bene la zona su cui il Consiglio doveva prendere una decisione quel giorno. Era quindi certo che i suoi colleghi direttori lo ascoltassero con particolare attenzione, non solo a causa della sua idiozia che inevitabilmente richiedeva considerazione, ma anche per la sua familiarità con i fatti concreti: lui era stato sul posto; lui era l’uomo che sapeva.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_02" data-title="A Change in the Cabinet — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/greed_and_money,concept/deception,concept/power_and_corruption,concept/ambition,concept/satire_of_society,concept/empire_and_imperialism,form/satire,form/novel"></span>
@@ -3759,6 +4115,26 @@ It was half-past one. He had just time to meet and to convince yet another fool 
 The foreigner was as wax in his hands: not as good warm wax, adulterated wax, candle wax, but rather as beeswax, very ancient and hard. It was a full hour before that wax was pliable, but once again the unceasing, managed, strict watchfulness, the set face which had always in it something stern but never anything aggressive, the balance of judgment, conquered. Down to the smallest detail of that conversation Repton was the artist, his host at the lunch was the public, accepting and gradually convinced, and the bridge was ordered for the Foreign Government, though it was a useless bridge leading from nowhere to nowhere, and though it could have been built much more solidly and much better by the people of the place than by the English firm.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Era esattamente come Repton temeva: un affare che avrebbe potuto essere risolto in quindici minuti, e una decisione che riguardava soltanto la questione di alcuni fogli di carta, si trasformarono in una lunga e noiosa discussione a causa dell’insopportabile lentezza di Bingham, il quale aspettava che tutti avessero espresso il loro parere prima di sollevare qualche banale dettaglio tecnico riguardante paludi, stagioni piovose o mosche. Si premurava inoltre di utilizzare termini locali decisamente più complessi e poco comprensibili rispetto a quelli conosciuti da Kawanga e Mutchi; in ogni modo possibile, cercava di ostacolare il corso degli affari.
+
+L’effetto prodotto dal temibile Bingham a quel tavolo fu tale che, se il cesarismo fosse stata una teoria politica comune tra gli uomini anziani, l’intero comportamento di Van Diemen in futuro sarebbe stato affidato a lui. Fortunatamente per la Compagnia, le sue pratiche non erano così democratiche.
+
+Charles Repton attendeva pazientemente. Quando parlò, il suo punto era estremamente semplice: ciò che si desiderava non era una ferrovia in sé, ma un nuovo flusso di capitale. Gli era del tutto indifferente quale etichetta venisse attribuita a questo progetto, purché fosse sufficientemente convincente da attirare gli azionisti originali. Il pubblico, comunque, non avrebbe mai partecipato a tale iniziativa: la sua timidezza era ulteriormente accentuata dal fatto che l’azienda esisteva ormai da undici anni senza aver mai pagato alcun dividendo. Dopo qualche riflessione, insieme ad uno o due altri membri del consiglio di amministrazione, aveva deciso che una ferrovia che attraversasse una determinata zona della concessione – conosciuta localmente come “The Out and Out”, e caratterizzata dal fatto che nessun uomo bianco vi fosse mai stato – sarebbe stata l’attrattiva più efficace da offrire. Era pronto a dimostrare, attraverso mappe su cui erano indicate tutte le caratteristiche positive di quella zona, che una linea ferroviaria che la attraversasse avrebbe collegato due province ricche di risorse inesauribili e dal clima ideale, finora isolate a causa della presenza di quella regione. Inoltre, avrebbe dimostrato che tale linea avrebbe concesso al suo amato paese un vantaggio strategico decisivo su tutte le altre nazioni, garantendogli il successo immediato in qualsiasi campagna militare, indipendentemente dalla qualità delle truppe impiegate. A tutto ciò si aggiungevano i piaceri offerti dal viaggiare nelle zone tropicali e la possibilità di cacciare animali selvatici per quei gentiluomini facoltosi che, nel nuovo prospetto, venivano definiti “Shikaris”.
+
+Con il nuovo capitale versato e molto prima che la linea venisse tracciata, non c’erano dubbi che le azioni, che erano scese da oltre 9 sterline a un prezzo relativamente basso – ma oh! non si trattava di un vero e proprio “prezzo” – ovvero 16/3 (al quale aveva inizialmente accettato di offrire i propri servizi alla Compagnia), sarebbero sicuramente aumentate a oltre 1 sterlina, forse anche vicine alle 2 sterline, e soprattutto sarebbero state facilmente vendibili. In tal caso, era pronto a trasferire le proprie quote ad altri; sperava sinceramente che anche gli altri azionisti seguissero la stessa strada, anche se ovviamente non avrebbe mai avuto l’audacia di dare consigli a nessuno di loro.
+
+Bingham, essendo un uomo pratico, si attaccò saldamente alla ferrovia. Conosceva quella regione molto bene; non perché ci fosse mai stato personalmente – nessun bianco c’era mai stato – ma perché aveva parlato con diversi membri del popolo Kawanga durante il periodo di Mutchi. Scosse la testa con scoraggiamento: c’era una catena ininterrotta di precipizi profondi 3000 piedi; c’era un fiume che ora era un ruscello largo cinque miglia, ora uno stagno, altre volte completamente asciutto, a volte per anni interi. C’era anche una fitta foresta; inoltre, c’era quella zona ancora più difficile da attraversare: una fascia di dune di sabbia in movimento. Per quasi 300 miglia non c’era acqua. Era pronto a parlare per giorni interi delle difficoltà legate alla costruzione di una ferrovia che, a parte i meno intelligenti, nessuno aveva mai pensato di realizzare.
+
+Sir Charles Repton era in grado di fare qualsiasi cosa; più di ogni altra cosa, questa abilità gli aveva permesso di raggiungere la sua attuale posizione elevata. Ma quel giorno dovette mettere a dura prova la propria volontà. E nel farlo, sentì dei lievi dolori dietro l’orecchio, dove il rasoio del barbiere lo aveva colpito. Riuscì a malapena a trattenersi dal battere le mani sul tavolo o dall’intervenire in modo inappropriato. Comportamenti che, invece, avrebbero solo alimentato le lente e noiose critiche dei mediocri.
+
+Finalmente — e chissà con quanta sottigliezza e pazienza — riuscì a ottenere ciò che voleva. Si tenne un voto (cosa che aveva cercato di evitare), ma vinse con due voti di vantaggio; si decise quindi di procedere con l’emissione di nuovo capitale, di convocare una riunione generale degli azionisti per martedì 2 giugno, e a lui, Repton, fu affidato il compito di presentare loro il progetto. Il nuovo prospectus, che aveva già redatto in precedenza, venne distribuito e accettato con poche modifiche. Infine, dopo uno sforzo considerevole nel campo della persuasione, il cervello principale di quella società poté finalmente dedicarsi ad altre cose.
+
+Erano le una e mezza. Aveva appena il tempo di incontrare e convincere un altro stupido su un altro argomento: quel straniero che agiva come agente del suo governo, riguardo alla questione del ponte. Un ponte che il governo straniero poteva decidere di costruire o meno, e, nel caso decidesse di farlo, poteva anche scegliere di commissionarlo a un’azienda con cui Repton aveva motivi per collaborare. Repton doveva pranzare con quell’uomo straniero: doveva convincerlo a costruire il ponte, ottenere l’ordine di costruzione. E poi doveva essere presente in aula in tempo per le domande.
+
+Quel straniero era come la cera nelle mani di Repton: non una cera calda e pura, né una cera adulterata o quella utilizzata per le candele, ma piuttosto cera d’api, molto antica e dura. Ci volle un’intera ora prima che quella cera diventasse malleabile; tuttavia, grazie alla costante e attenta vigilanza di Repton, al suo atteggiamento serio ma mai aggressivo, e alla sua equilibrata capacità di giudizio, tutto riuscì. Fino al più piccolo dettaglio di quella conversazione, Repton fu l’artista che guidò il processo; il suo ospite a pranzo fu il “pubblico”, che accettò gradualmente le sue argomentazioni e ne rimase convinto. Alla fine, quel “ponte” fu costruito per il governo straniero, anche se si trattava di un ponte inutile, che non conduceva da nessuna parte, e che avrebbe potuto essere realizzato molto meglio e più solidamente dalle persone del posto piuttosto che dall’azienda inglese.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="A Change in the Cabinet — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="setting/london"></span>
@@ -3782,6 +4158,26 @@ The wealthy, but as yet only the wealthy; it is as fatal to be too early as to b
 
 So Repton stood in the middle of May, 1915, when he became aware that an obscure member (obscure at least in the House of Commons — and Repton noticed little of, and cared nothing for, the merely luxurious world of [[London]]), an aristocrat of sorts, one of the Demaine, — George Demaine it seemed, was being talked about. He was being pushed somehow. Repton hardly heeded so commonplace a phenomenon, save perhaps to wonder what job was on: — he continued to push Van Diemens.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poi Repton si recò alla Camera dei Comuni, e lì, come in ogni sua attività quotidiana, il peso del suo carattere fu evidente.
+
+Le domande erano semplici; non ce n’era nemmeno una dozzina che riguardasse il suo Dipartimento, ma le rispose tutte con quel tono stranamente contenuto che rendeva difficile metterlo sotto pressione. Affrontò l’assemblea con tale equilibrio e compostezza che, guardandolo, si poteva quasi chiedersi da quale parte stesse realmente prendendo posizione, o se, forse, nel suo cervello esistesse davvero solo quel gioco di “sì” e “no”.
+
+Sembra essere completamente al di sopra delle divisioni partitiche. Sembrava una sorta di ambasciatore degli ufficiali permanenti, capace di portare nella Camera dei Comuni un’atmosfera allo stesso tempo giudiziaria ed esperta, alla quale nessuno poteva resistere. Quando aveva accettato per la prima volta l’incarico di Sovrintendente della Corte delle Dote, si era chiesto perché avesse scelto una posizione così secondaria. Ora, dopo questi quattro anni, ci si chiedeva invece perché nessuno avesse mai notato le possibilità nascoste in quel ruolo.
+
+Dopo quel giorno tipico e decisivo, Repton si astenne dal partecipare a dibattiti per più di un mese.
+
+Quei due giorni della settimana in cui spettava a lui rispondere alle domande, era sempre presente al suo posto; non permetteva mai che il suo assistente intervenisse al suo posto. Per un intero quindicinale rimase costantemente lì, osservando gli sviluppi di una certa proposta di legge davanti a una commissione selezionata. Al pubblico quella proposta non interessava affatto, ma lui sapeva che poteva influenzare in modo significativo la situazione economica del Paese. In generale, però, sembrava essere in pensione. Stava pianificando con attenzione.
+
+Un misto di sentimento imperiale e orgoglio personale lo spinse a far sì che Van Diemens si rimettesse in piedi; per tutto aprile, durante l’intervallo pasquale, rimase a [[London|Londra]] a lavorare. Continuò a lavorare anche nel mese di maggio; nella prima settimana dopo la riapertura del Parlamento lo si vide poco in giro. L’unica cosa che lo preoccupava era un dolore sgradevole che gli compariva di tanto in tanto alle orecchie – a volte ogni dieci giorni – causato da quell’incidente quasi dimenticato. Con l’avanzare di maggio, questi dolori diventarono più frequenti; dopo l’ultimo episodio si sentì un po’ stordito, ma nient’altro. E continuò comunque a lavorare, tenendo in mano venti redini contemporaneamente.
+
+Prima della fine di maggio, i frutti di tutto questo lavoro iniziarono ad apparire. I campeggi furono ricostruiti; l’arbitrato fu imposto sulla combinazione dei porti del Nord proprio in tempo per impedire il trasferimento su larga scala delle attività navali all’estero. E, forse più importante di tutto, iniziò a comparire ovunque sui giornali menzioni – e menzioni lusinghiere – di Van Diemens; i ricchi erano già a conoscenza dell’idea di costruire una certa ferrovia nel territorio soggetto alla concessione di Van Diemens.
+
+I ricchi, ma per ora solo i ricchi; è altrettanto fatale essere troppo presto quanto essere troppo tardi. Quel cervello che sapeva come guidare e imporre, conosceva anche molto bene come frenare; di conseguenza, le azioni rimanevano ancora invendute, con quella quotazione senza significato di sedici scellini e qualche penny fluttuante ancora indicata nei listini di borsa.
+
+So che Repton si trovava nel mezzo di maggio 1915 quando si rese conto che un membro poco noto – almeno alla Camera dei Comuni; Repton non prestava molta attenzione, né gli importava nulla, al mondo soltanto lussuoso di [[London|Londra]] – un aristocratico di sorta, uno dei Demaine, sembrava fosse George Demaine, veniva discusso in quel momento. Qualcuno lo stava spingendo verso qualcosa. Repton quasi non prestò attenzione a questo fenomeno così comune; forse si chiese soltanto quale fosse il compito che gli era stato assegnato. Continuò comunque a “spingere” Van Diemens.
 
 
 
@@ -3891,6 +4287,110 @@ When every one had gone, one hat and coat remained. The footman pawned them: the
 He, poor fellow, saw in all this nothing but that eternity of bad luck to which he was born. When his wife asked him next day why he had left the Petheringtons’ so early, he told some ordinary lie: he had left indeed because one wiser than he had told him to leave, but he could make neither head nor tail of the whole affair: and his foot hurt him where the Bear had crushed it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO V
+
+La casa dei Petherington, verso cui Mary Smith si diresse la sera del 12 aprile, illuminata dalle due graziose luci elettriche della sua auto – una su ciascun lato del viso – era una delle centinaia di case simili che si trovano a [[London|Londra]], un enorme cubo marrone situato nel mezzo di Grosvenor Square.
+
+Non veniva più chiamata Casa Petherington; aveva ripreso il suo nome più conosciuto: numero 89. Era famosa per l’assoluta assenza di qualsiasi forma di intrattenimento che avesse caratterizzato la sua breve esistenza nel 1912. Poi era morto il vecchio Hooker, erano avvenuti i cambiamenti nel Gabinetto, la moglie di Hooker aveva sposato il vescovo ed era morta subito dopo; infine i Petherington si erano trasferiti lì. Per qualche mese avevano stupidamente continuato a chiamarla con il loro nome, ma vedendo che né i tassisti né gli autisti dei loro amici la conoscevano con quel nome, avevano gradualmente ripreso ad usarne l’originale.
+
+Se l’ospitalità può rivelarsi un difetto quando portata all’estremo, i Petherington ne furono un esempio lampante. Tuttavia, grazie alle loro eccellenti organizzazioni – poiché anche gli affari richiedono attenzione persino nei dettagli più banali della vita domestica – nessuno ebbe difficoltà durante quell’affollamento, e fu del tutto possibile, nel lasso di tempo che un ospite normalmente dedica a una simile occasione, salire e scendere le scale, anche se forse si perse troppo tempo all’ingresso, necessariamente stretto, dove tutti dovevano cercare cappelli e cappotti.
+
+In questo caso specifico, il movimento della Società risultò ancora più agevole a causa del vuoto della sala: tutto era stato rimosso tranne che per l’immensa orsa imbottita, che era stata venduta dal servitore di un cacciatore a un corrispondente del commerciante di pellicce di Lady Petherington. Ora quell’orsa stava lì, con un’espressione estremamente feroce, tenendo in mano un vassoio; sul suo dorso era scritto “Il Caucaso, 17 giugno 1910”: infatti in quelle montagne il signor Petherington aveva viaggiato in passato.
+
+Mary Smith non rimase delusa. Muovendosi senza meta nelle stanze affollate al piano di sopra, in un'atmosfera pervasa dalla musica morava dal tono violaceo – la più intensa del suo genere – Dolly, la giovane e popolare Prima Ministra, si muoveva con passi incerti e leggermente curvi.
+
+Un estraneo avrebbe potuto pensare che avesse pochi amici; procedeva così lentamente e con uno sguardo così curioso da un gruppo all’altro, sembrando quasi sbalordito dall’energia della banda e affascinato dalle movimenti vigorosi del signor Arthur Worth, che la dirigeva con tutta la sua capacità di gesti ed espressione. Quell’estraneo si sarebbe illuso: il Primo Ministro era perfettamente riconoscibile in volto e figura da tutti coloro che erano nella stanza; pochi non speravano di trarre qualche vantaggio dalla sua presenza, ma ancora meno cercavano davvero di ottenerlo. Naturalmente, devo escludere il professor Kahn.
+
+Dolly conosceva bene Mary Smith e si rassegnò ad affrontare quella sofferenza. Non era certo venuta lì quella notte per niente. Si avvicinò a lui in meno di mezzo minuto, dopo averlo individuato tra la folla di persone ricche, e lo portò via silenziosamente. Lo fece sedere su una grande sedia situata in un angolo appartato, dove la luce era soffusa. Approfittando di un fragoroso rumore prodotto dall’orchestra – che, rispetto ai successi precedenti, sembrava davvero poco impressionante – gridò:
+
+#Quando farai il tuo prossimo passo?
+
+Il Primo Ministro la pregò di non parlare di lavoro. Poi, in modo piuttosto contraddittorio, aggiunse, indebolendo il proprio tono: “Perché vuoi saperlo?”
+
+La musica ora suonava con un tono lamentoso; parte di essa sembrava “prendere fiato” per riprendere poi a suonare. Fu quindi in un tono piuttosto basso, ma estremamente deciso, che Mary Smith osservò:
+
+“Perché voglio che tu faccia qualcosa per Dimmy.”
+
+Il nome suggerito al Primo Ministro faceva pensare a uno di quei piccoli incarichi. Ne immaginò uno divertente, da svolgere in Irlanda. Ma lei aggiunse: “Sai cosa è successo?”
+
+Non lo fece.
+
+Gli disse brevemente: Ole Man Benson era al verde.
+
+Il Primo Ministro ricordò l’esplosione del Popocatapetl: in quel momento aveva collegato vagamente quella notizia a qualcosa che era accaduto, ma ora sapeva di cosa si trattava. Sembrava estremamente serio. E quando Mary gli raccontò che la signora Demaine aveva soltanto 1500 sterline, il suo viso divenne ancora più grave.
+
+“Al momento non sta succedendo nulla di particolarmente importante, Mary,” disse con un tono completamente diverso. Ma in realtà stava pensando con chiarezza. “Non lo conosco bene come fai tu,” aggiunse. “Riuscirà a fare qualcosa?”
+
+“Mai”, disse decisamente Mary Smith, “non può farlo. Ma sarebbe perfetto se lo provasse”.
+
+Il Primo Ministro sembrava vivere in modo più attivo mentre rifletteva sul problema. L’aria calda, il profumo dei vestiti e dei fiori gli si addicevano molto.
+
+Il problema legato al suo polmone sinistro, che tanto lo aveva reso amato dai suoi concittadini, si faceva sentire molto meno all’inizio di una calda primavera rispetto ad altri periodi dell’anno; serate come questa compensavano appieno il sacrificio che egli compiva ogni inverno per il proprio dovere e per [[England|Inghilterra]]. Dei quattro anni in cui aveva ricoperto la più alta carica umana, ne aveva trascorsi soltanto uno sulla Riviera; inoltre, sebbene in un anno fosse stato necessario rinunciare a una sessione autunnale, negli altri tre anni tale rinuncia non aveva mai ritardato l’apertura del Parlamento oltre la fine di febbraio. La sua giovane età gli fu di grande aiuto durante questa prova; tuttavia c’erano coloro (e erano proprio quelli che lo amavano di più) che osservavano con preoccupazione il suo fisico fragile, pensando – anche se non osavano dirlo apertamente – che gli anni passassero in fretta e che ciò che un uomo poteva fare impunemente prima dei cinquanta diventasse molto diverso dopo. C’era ovviamente sempre la possibilità di incontrare opposizione. La proposta di “Ampliamento delle Strade” aveva scatenato una tempesta di passioni politiche. Già in Nord era stato pubblicamente lapidato. Ma non importava: al momento il Primo Ministro era pieno di apprezzamento, e nei confronti dei desideri del suo cugino si mostrava estremamente disponibile.
+
+Tuttavia, pensò (e suo cugino lesse nei suoi pensieri) che lei stesse chiedendo l’impossibile. Gli venne in mente un’idea.
+
+“È stato chiamato al Bar Dimmy?” chiese.
+
+Alzò lo sguardo, confusa. “Non credo. No, so che non l’ha fatto. Nel 1908 ho messo cento sterline per lui e lui le ha accettate. Sicuramente avrei saputo se avesse fatto qualcos’altro prima del matrimonio. Naturalmente, da allora, ”
+
+“Sì, naturalmente,” disse il Primo Ministro con simpatia. Poi rifletté: “Non andrà all’estero, vero?” chiese, guardandosi intorno.
+
+“Ma a che scopo serve tutto questo, in fondo?” disse Mary Smith con un tono leggermente irritato.
+
+“Beh,” rispose vagamente il Primo Ministro, mentre ripassava alcune informazioni nella sua mente, “. No. Non c’è molto da dire al riguardo. Qualsiasi cosa potesse essere utile richiederebbe ulteriori indagini.” E si immerse di nuovo nei suoi pensieri.
+
+Poi, con un gesto che molti avevano notato in lui e che avevano considerato semplicemente una sciocca trovata, ma che in realtà era parte di un calcolo preciso, posò le dieci dita sulle ginocchia e le sollevò lentamente, una dopo l’altra. Quando ne ebbe sollevate nove (era il dito anulare della mano sinistra), un barlume di vita gli apparve sul viso; un’espressione che suo cugino riuscì a notare anche in quella luce fioca.
+
+“Per quanto tempo vuole tenerlo?” chiese.
+
+Mary Smith era propensa a dire “Per sempre”, ma si trattenne; ricordò il volto e l’atteggiamento di Theocritus C. Benson, credeva nella sua futura fortuna, e così disse:
+
+“Penso che anche solo un breve lasso di tempo possa fare la differenza.”
+
+Entrambi pensavano alla stessa cosa. Ma il Primo Ministro capiva ciò che forse lei non comprendeva: non esiste alcuna possibilità di intervento autocratico nella nostra vita pubblica, ogni innovazione richiede del tempo, e chi guida deve anche seguire le regole stabilite. Mentre lei parlava, lui valutava i pregiudizi e le ambizioni di forse venti uomini, nonché il potere che ognuno di loro esercitava. Quando riprese a parlare, sembrava che la sua decisione fosse ormai irrevocabile:
+
+“Non vedo proprio come potrei fare qualcosa per lui alla Camera. Raramente parla, e quando lo fa, si mette sempre in imbarazzo.”
+
+“Certo,” disse Mary con simpatia.
+
+“È l’unico uomo,” continuò Dolly riflettendo, “che abbia mai visto cadere giù da un banco alla Camera dei Comuni, ”
+
+“Vuoi dire che è fisicamente goffo?”, rispose Mary con tono da donna che sa come disprezzare simili banalità, ma percepiva un pericolo. “Non ho mai saputo che Dimmy tradisse una parola confidata a lui”, continuò seriamente.
+
+“Se si potesse ricominciare da capo,” disse Dolly, come se stesse pensando ad alta voce. “Ma poi,” aggiunse, alzandosi dalla sedia e facendo finta di voler andarsene, “è impossibile, c’è Repton.”
+
+Si dice che le donne siano incoerenti nel loro modo di conversare e che, se desiderano ottenere qualcosa, lo facciano attraverso allusioni poco chiare che gli uomini non riescono a comprendere. Forse è vero. Ma forse proprio per questo motivo riescono nel loro scopo. Comunque sia, non appena il Primo Ministro pronunciò la frase “c’è Repton”, il piano di Mary Smith prese forma. Non le piaceva affatto Sir Charles Repton, soprattutto perché non lo conosceva bene. Lo aveva quasi dimenticato; ora capiva che, in qualche modo, rappresentasse un ostacolo al suo desiderio per povero George. E da quel momento decise che Repton dovesse essere fatto entrare nella Camera dei Lord. Tutto ciò che disse fu:
+
+“Sì, ho dimenticato Repton.”
+
+E poi tornò nelle stanze affollate, spingendo scherzosamente davanti a sé l’amica d’infanzia con il dito indice premuto sulla parte bassa della sua schiena, fino a quando non raggiunsero la porta aperta e entrarono nelle stanze principali.
+
+La musica della banda del signor Arthur Worth risuonava, sovrastando con la sua forza il clamore circostante; proprio in un momento di pausa improvvisa e calcolata nel vortice dei violini, si udì il forte e inaspettato rumore di un oggetto pesante che cadeva violentemente al piano di sotto. Mary Smith si mosse rapidamente e silenziosamente verso quel suono.
+
+Era esattamente come si aspettava: George Mulross era arrivato! Un po' arrossito e molto infastidito, aveva rovinato l’Enorme Orso di Peluche che stava vicino alla porta di casa. George fissava quell’orso con uno sguardo pieno di rabbia e sfida, ma solo la sua dignità gli impediva di provare a rialzarlo. Quell’incidente fu sufficiente per convincere Mary. Temeva che Dolly potesse avere una cattiva impressione se quel povero ragazzo cercasse di ripararlo adesso e si agitasse di nuovo. Così andò da lui e gli mise una mano sulla spalla mentre stava lì fermo. Lui si girò di scatto e la vide.
+
+“Oh Signore!”, disse.
+
+“Dimmy,” ordinò lei con fermezza, “vai via immediatamente. Molto dipende da questo. Vai subito, non aspettare!”
+
+Iniziò a parlare di sua moglie e di una carrozza.
+
+“Vai via immediatamente!” disse Mary Smith.
+
+Cercò di dire qualcosa riguardo al suo cappello e al suo cappotto.
+
+A qualche metro da loro, davanti alla porta aperta, si sentiva il rumore di una carrozza; c'erano servitori in attesa. Dietro di loro, altri servitori ancora. Ma Mary Smith conosceva bene il suo mondo.
+
+Era una scelta tra due mali. George Mulross Demaine uscì nella notte, senza cappello né cappotto. I poliziotti furono soddisfatti di vedere tale “familiarità” tra le persone importanti; non dubitavano che il signore stesse semplicemente facendo una passeggiata, ma si chiedevano perché camminasse così velocemente verso est, attraverso Mayfair.
+
+Nel frattempo, dalla carrozza uscì la figlia di Theocritus C. Benson; si muoveva con decisione e, in poco tempo, le stanze di quella casa furono piene della sua presenza. Anche la musica morava che vi risuonava veniva sovrastata dall’acutezza del suo riso e dal passo deciso con cui camminava.
+
+Quando tutti se ne furono andati, rimase un cappello e un cappotto. Il valletto li impegnò: appartenevano a George Mulross Demaine.
+
+Lui, povero diavolo, non vedeva in tutto questo altro che quell’eternità di sfortuna con cui era nato. Il giorno dopo, quando sua moglie gli chiese perché se ne fosse andato così presto dai Petherington, inventò una bugia banale: disse che se n’era andato perché qualcuno più saggio di lui gli aveva consigliato di farlo, ma non riusciva affatto a capire tutta la situazione; inoltre, il punto del piede dove l’orso lo aveva calpestato gli faceva ancora male.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="A Change in the Cabinet — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
@@ -3941,6 +4441,52 @@ At first this Court sat for one full day in each year — St. Luke’s — but l
 During the eighteenth century the fixed yearly salary of £2000 hereditarily enjoyed by the Heygate family steadily grew, till, by the time of the Reform Bill, it had reached the very considerable sum of £15,000, still payable to the Heygates though now all vestige of activity in the office had disappeared.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VI
+
+La Pasqua, come coloro che sopravvissero avranno modo di sapere, arrivò presto nel 1915: per essere precisi, il 4 aprile. Ole Man Benson era tornato l’11; il 12 Mary aveva visto Dolly; e la settimana dopo il ritorno di Ole Man Benson in queste terre, la settimana dopo che aveva comunicato quella notizia importante ma alquanto deprimente alla giovane famiglia, la settimana dopo che Mary e Dolly si erano incontrate dai Petherington, fu proprio quella settimana che il Parlamento riunì dopo la pausa estiva, la terza settimana di aprile.
+
+Quella settimana, proprio come i fiori di primavera che spuntano improvvisamente ovunque, iniziarono ad apparire qua e là, in modo bellissimo, brevi articoli sui giornali riguardanti George Mulross Demaine.
+
+Erano appunti su dove fosse stato, se ci fosse mai stato o meno. Almeno all’inizio erano di quel tipo. Ne trovavano sempre alcuni sui giornali riguardo a lui, ma sembravano diventare sempre più numerosi.
+
+Il pubblico venne a sapere che George Mulross amava molto il suo grande cagnolino poodle; successivamente si seppe che a causa delle sue impegni non gli era possibile aprire un’Istituzione enorme dedicata alla ricerca e allo studio delle malattie virulente. In relazione a questa notizia, l’istituto fu descritto in dettaglio, e i profondi rimpianti per l’assenza di George Mulross Demaine risuonavano come un lamento lieve ma percettibile nei giornali quotidiani.
+
+Fu attaccato in modo gentile ma astuto in un articolo riguardante il suo stesso orientamento politico; brevi note biografiche, solo alcune tra molte altre, fornivano dettagli sui suoi piccoli e felici vizi. Gli piaceva andare a cavallo, scriveva un autore che probabilmente non aveva avuto molta intimità con lui; gli piacevano i bambini, diceva un altro autore che ancora meno lo conosceva. Aveva “un occhio particolare per la caccia alla selvaggina”, affermava un terzo autore il cui scarso interesse non riguardava soltanto George stesso, ma sicuramente anche la caccia alla selvaggina.
+
+In seguito emersero aneddoti sulla sua bontà d’animo: di come avesse investito un ragazzo nel parco con la sua motocicletta per poi aiutarlo; e di come, durante l’incidente ferroviario, avesse gentilmente evitato di rivelare chi fosse, permettendo che i feriti venissero portati in ospedale prima di prendere lui stesso un mezzo di trasporto.
+
+Finalmente, con la fine del mese e l’arrivo della stagione estiva a [[London|Londra]], George Mulross iniziò a sentirsi in modo sgradevole sotto i riflettori. Infatti, odiava sinceramente e profondamente la fama. Non riusciva nemmeno a rovesciare un bicchiere di vino o a inciampare su una scala pubblica senza che qualcuno sussurrasse il suo nome; una volta, quando aveva bussato al numero sbagliato, il domestico, riconoscendolo da una caricatura apparsa sui giornali, gli aveva rivolto la parola con rispetto, anche se si trattava della porta di una casa la cui gente non conosceva affatto.
+
+Nel frattempo, quel misero risparmio in banca era scomparso. Il debito in eccesso era molto alto e, da un momento all'altro, poteva arrivare quella nota che temeva tanto. Inoltre, Mary Smith lo aveva costretto a cercare una piccola casa a Westminster e a prepararsi completamente per lasciare la casa di Demaine. Lui cercò debolmente di opporsi, ma lei insistette. E persino Sudie cedette alle sue pressioni.
+
+“Non avete abbastanza risorse per mantenere la casa asciutta,” disse Mary. E riuscì a far sì che entrambi assumessero un atteggiamento serio e responsabile, qualcosa che persino Teocrito stesso non sarebbe riuscito a farli provare.
+
+Tutta questa attività era già ben avviata quando Mary Smith passò alla fase successiva della campagna.
+
+Esaminò con attenzione la natura della Corte del Dote, e quando ebbe appreso tutto ciò che poteva dalle sue letture (ci vollero mezza giornata; nonostante fosse una donna di eccezionale intelligenza e ottima istruzione), decise di cercare di sapere anche tutto ciò che era possibile attraverso l’esperienza diretta con gli uomini.
+
+La Corte della Dote, con la sua stessa esistenza e ancora di più forse con le funzioni che oggi svolge, rappresenta un esempio straordinario del valore delle istituzioni stabilite nella vita di un popolo.
+
+Fu istituito originariamente per giudicare cause che rientravano nella giurisdizione di quella Regina Madre del Medioevo a cui il poeta Gray fa un’allusione così commovente nelle sue straordinarie righe.
+
+#Lupa mannara di Francia con zanne implacabili
+
+“Strappando le viscere”, ecc.
+
+Aveva giurisdizione su tutti gli espropri, i nuovi regolamenti e le azioni per negligenza che riguardavano la contea di Ponthieu e il territorio di Lucq. Tuttavia, quando la giurisdizione attiva su questi territori continentali fu interrotta durante il regno di Re Enrico VI, alla Corte non rimase altro compito se non quello di giudicare i casi che si verificavano, sia all’interno che al di fuori dei porti stranieri, su imbarcazioni soggette al dominio della Corona d’[[England|Inghilterra]].
+
+Rimase in questo stato fino all'inizio del XVI secolo, quando venne ridotto a un funzionario chiamato “Mangeur” e a un custode; entrambi ricoprivano incarichi praticamente onorifici (e per di più non molto ben retribuiti) all’interno del Palazzo.
+
+Enrico VIII, che non possiamo definire un uomo buono, ma certamente un grande uomo, soppressò in modo brutale la carica di Mangeur, facendo uno scherzo crudele a scapito dell’esecutore, e permise soltanto che la stessa carica di Guardiano continuasse ad esistere, con l’unica condizione che lo stipendio venisse pagato direttamente a lui. Tuttavia, il titolo rimase in uso, rappresentando una distinzione minore tra le numerose onorificenze dell’epoca; e, per così dire, fu “resuscitato dall’oblio” dalla grande famiglia Heygate al momento della Restaurazione di Carlo II.
+
+Nella loro gioia per il recupero di un sovrano legittimo, questa famiglia dominante (ora rappresentata dai Parrell) si lasciò travolgere da ogni espressione di felicità; tra le altre cariche, nel 1661 fu deciso che il ruolo di Sovrintendente del Tribunale delle Dote avrebbe comportato uno stipendio annuo di 2000 sterline. Questo diritto, considerato ereditario secondo lo stesso atto legale, permise al capo della famiglia Heygate di concedere l’esercizio di tale incarico all’interno del maniero reale e delle aree soggette alla giurisdizione regia di Tooting.
+
+Inizialmente, questa Corte si riuniva per un intero giorno ogni anno – presso la chiesa di San Luca – ma in seguito, a partire dal 1731, tali sessioni vennero mantenute soltanto a fini fittizi. All’inizio di ogni periodo legale, un annunciatore nella Sala di Westminster leggeva rapidamente l’elenco di tre casi immaginari che venivano trattati per abitudine; tali casi richiedevano un compenso di diciassette scellini e sei pence, e da quel momento in poi non si verificavano ulteriori riunioni della Corte.
+
+Nel diciottesimo secolo, lo stipendio annuo fisso di 2000 sterline, goduto ereditariamente dalla famiglia Heygate, aumentò costantemente, fino a raggiungere la somma considerevole di 15.000 sterline al momento della legge sulla riforma; tale importo continuava ad essere pagato alla famiglia Heygate, anche se ormai ogni attività legata a quell’ufficio era scomparsa.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="A Change in the Cabinet — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/satire_of_society,concept/tradition,concept/authority,concept/hypocrisy,concept/ambition,concept/power_and_corruption,concept/bureaucracy,form/satire,form/novel"></span>
@@ -3978,6 +4524,40 @@ He was still gazing at the May morning and gloomily considering the buds in the 
 
 A note in the firm hand of Mary Smith was always a pleasant thing to get; for a bewildered man it had something in it of salvation.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I nostri nonni, nel fervore di quel momento piuttosto iconoclasta, eliminarono quella concezione corrotta. Gli emolumenti legati a quell’incarico furono ridotti drasticamente a soli 2000 sterline; inoltre, il suo carattere ereditario fu abolito, dopo un acceso dibattito alla Camera dei Lord, grazie a una maggioranza di oltre cinquanta voti, una decisione, come molte altre grandi riforme di quel periodo, influenzata dal parere di Eldon. Il detentore dell’incarico (questo il suo titolo ufficiale) ricevette in compenso soltanto mezzo milione di sterline in un’unica somma, non abbastanza nemmeno per vent’anni di stipendio. Inoltre, ad alcuni compiti apparentemente insignificanti fu attribuito quel ruolo, che da quel giorno in poi divenne un incarico soggetto a cambiamenti in base alle variazioni della politica governativa.
+
+Osservate qui la virtù silenziosa della crescita costituzionale naturale, e come una nobiltà possa riuscire a creare ciò che i demagoghi distruggerebbero.
+
+Punto per punto e funzione per funzione, uno dopo l’altro, gli interessi marittimi si legarono al Tribunale delle Dote, proprio come i bellissimi organismi del mare si attaccano alle navi che solcano le sue acque. Entro la fine del XIX secolo, intorno a tale tribunale si era accumulata una quantità considerevole di precedenti e usanze; inoltre, con l’enorme espansione del nostro commercio marittimo, erano emerse molteplici responsabilità di grande importanza per la nazione. Così, dopo sei secoli di oblio, tale istituto riemergette come un organo di fondamentale rilevanza nel funzionamento del governo inglese.
+
+Come deve essere il caso in qualsiasi Stato vecchio e sicuro, ad esso venivano aggiunti alcuni compiti anomali: l’ispezione dei medicinali patentati, l’emissione di contratti per boe e razzi, nonché la stampa ufficiale delle licenze per vendere sarsaparilla. Nonostante ciò, lo miserore e insufficiente stipendio di 2000 sterline rimaneva l’unica retribuzione del Sovrintendente; tuttavia, il grande nome di GHERKIN aveva reso questa posizione tra le più importanti del Gabinetto, e in seguito vi erano stati insediati personaggi di spicco come Dibley, Powker e Hump. Entro il 1912, il suo stretto controllo sulle grandi compagnie di navigazione a vapore, nonché la sua supervisione dei relitti navali, delle imbarcazioni abbandonate e dei porti ad essi correlati, ne facevano il secondo organo più importante in termini di interesse pubblico, dopo il Ministero degli Esteri; inoltre, proprio come il Ministero degli Esteri, rimaneva in gran parte al di fuori delle lotte partitiche.
+
+Alcuni mesi dopo lo stipendio fu aumentato, tra gli applausi (come ho detto) di un’assemblea unita, a 5000 sterline all’anno, con un ulteriore contributo di 5000 sterline per le spese di intrattenimento e viaggio, che colpiscono in modo particolarmente grave questo importante dipartimento; e nelle mani di Charles Repton lo stipendio era diventato ancora più alto, se ciò fosse stato possibile.
+
+Mary Smith scoprì molte cose: in parte grazie a ciò che già sapeva, in parte attraverso la lettura. Le voci vive degli uomini le rivelarono altri dettagli.
+
+Sembra che, negli uffici squallidi che ospitano questo importante dipartimento – situati tra Parliament Street e New Scotland Yard – un certo signor Sorrel abbia esercitato, da ormai sette anni, i suoi straordinari e nascosti poteri. Mentre tutti erano disposti ad ammettere il genio di Charles Repton, coloro che conoscevano meglio il funzionamento di un grande ufficio governativo parlavano quasi come se il signor Sorrel stesso rappresentasse, in qualche modo, l’equivalente del “Consiglio di Dote”.
+
+Le strane usanze legate alla carica di Warden, i piccoli campanellini sui tacchi, il portare modellini di navi a testa scoperta nel Giorno dell’Impero (una recente innovazione che risultava scomoda soltanto per le persone calve o cieche): se per alcuni rappresentavano un svantaggio, per altri costituivano semplicemente un ulteriore elemento di attrattiva. Inoltre, la cerimonia di avanzare a quattro zampe all’indietro davanti al Sovrano durante l’insediamento era stata, forse con una saggezza discutibile, abolita per adattarsi all’eccentrico radicalismo di GHERKIN, il quale si rifiutava di assumere l’incarico sotto qualsiasi altra condizione.
+
+Tuttavia, l’Accolade, o colpo cerimoniale, che veniva eseguito con un bastone di ebano applicato sulla schiena del detenuto ricevente, è stato mantenuto e spesso ha costituito oggetto di studi illustrativi e ricerche archeologiche.
+
+Mary Smith scoprì ancora molto. Scoprì che, sebbene la decenza vietasse di utilizzare i restanti 5000 sterline destinati al divertimento e ai viaggi, la consuetudine permetteva invece di spenderli per ogni tipo di ospitalità, e che i viaggi potevano includere anche visite sociali necessarie a chi ricopriva una posizione così elevata. Quando lo seppe, fu ancora più determinata nel suo proposito: Charles Repton, che al momento ricopriva la carica di Warden, doveva assolutamente accettare un titolo nobiliare, e il prima possibile; perché vedeva già iniziare l’agonia della famiglia Demaine. Una certa mattina, a metà maggio, l’ultimo passo del suo piano venne portato a termine.
+
+Nel suo studio quella stessa mattina, Charles Repton, un po' stanco ma con tutti i suoi piani ben definiti, provò di nuovo quel leggero dolore sordo alle spalle, proprio dove si trovano i gangli di Caryll. Fu come se gli mancasse l’equilibrio. Uscì e cercò sua moglie; lei rimase sorpresa nel vedere, quando lui le pose alcune semplici domande riguardo alla gestione della casa, uno sguardo di innocenza nei suoi occhi. Quell’espressione svanì rapidamente, così come il dolore. Lui tornò quindi nello studio.
+
+Mary Smith inviò un biglietto alla casa di Demaine.
+
+La nota di Mary trovò George Mulross Demaine seduto dopo un pranzo solitario, mentre si chiedeva, come faceva ogni giorno, cosa sarebbe saltato fuori.
+
+La sua meraviglia era anche mista di perplessità. Sapeva che qualcosa stava per venire alla luce, le persone lo notavano infatti. Solo la scorsa sera aveva subito un attacco violento: gli si diceva che avesse dilaniato i conigli con le sue mani puzzolenti e ucciso un cervo con un coltello smusso; mentre il Caprone, più veritiero, aveva sottolineato la bellezza delle armi da cavaliere presenti nella sua casa, ma aveva erroneamente suggerito che fossero oggetti di famiglia.
+
+Era ancora intento a osservare la mattina di maggio e a riflettere con malinconia sui boccioli nel giardino formale, quando un enorme “Dipendente” gli mise davanti la nota di Mary.
+
+Una nota scritta con la ferma mano di Mary Smith era sempre qualcosa di piacevole da ricevere; per un uomo confuso, rappresentava quasi una forma di salvezza.
 
 
 
@@ -4040,6 +4620,64 @@ It need not be long: she would write it out for him herself. He must learn it ab
 
 Morning and afternoon, a patient governess, Mary Smith heard him recite that speech; but as day succeeded day she slowly determined that it wouldn’t do. One slip might be his ruin. Upon the tenth rehearsal he still said “very precious” for “meretricious.” He was still unable to restrain a sharp forward movement at the words “I will go a step further”; and he could never get in its right order the simple phrase: “I yield to no one in my admiration for the right honourable gentleman.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+George Mulross si diresse verso la casa di sua cugina in uno stato d’animo più sereno di quanto non lo fosse da molte settimane. La trovò, naturalmente, da sola.
+
+“Dimmy,” disse lei, sollevando dolcemente la sua mano dalla mensola del camino dove la stava muovendo senza meta tra vari oggetti fragili e preziosi, — “Dimmy, quando è stata l’ultima volta che hai posto una domanda in Aula?”
+
+Sembrava spaventato e disse:
+
+“Ah… tanto tempo fa.”
+
+“Ora ascolta bene, Dimmy,” disse lei con calma, “voglio che tu vada e lo chieda oggi stesso, ” e gli porse un pezzo di carta.
+
+“Ci sono dei soldi dentro?” chiese lui, innocentemente.
+
+“No, assolutamente no,” rispose lei. “Sei stupido! Cosa potrebbe avere a che fare con questa storia? Leggilo.”
+
+Lesse: “Signor G. M. Demaine: chiedere al Primo Ministro se sia stato attirato l’attenzione sul fatto che la Van Huren Company non è registrata a [[London|Londra]] come previsto dalla legge, e quali misure intende adottare di fronte a questa elusione di una norma di tutela pubblica.”
+
+“Che cosa c’entro io in tutto questo?” chiese, alzando lo sguardo su di lei, un po’ infastidito e chiaramente riluttante ad assumersi qualsiasi rischio. “Di che si tratta, comunque?”
+
+“Ora ascolta bene, Dimmy,” disse lei, “sii un bravo ragazzo: tutto questo è per il tuo bene.”
+
+“Comunque sia,” disse, “non riesco ad ottenere una risposta da due giorni.”
+
+“Sì, puoi farlo,” disse lei. “Ho inviato a Dolly una breve nota dattiloscritta, firmata a tuo nome; puoi definirla una ‘questione di cui gli hai già dato informazione in privato’.”
+
+“Oh, ce l’hai!” disse Demaine, quasi commosso dall’emozione.
+
+“Sì, ce l’ho,” disse Mary Smith con fermezza. “Oggi ci sono centootto domande da rispondere; sono le tre e mezza e hai ancora abbastanza tempo per arrivare tranquillamente alla Camera. Ti accompagnerò lì.”
+
+Lo fece davvero: e nonostante l’indifferenza generale della maggior parte dei membri presenti in quell’aula affollata, l’ilarità di forse una dozzina di persone, e la furia silenziosa e intensa di almeno altre due, G. M. Demaine, con voce appena percettibile, mormorò la sua domanda.
+
+Il Primo Ministro ricevette più di un mormorio di applausi quando rispose, con voce chiara e piuttosto alta, che in una questione di tale importanza e in un momento come questo, non fosse nell’interesse del paese dare una risposta pubblica.
+
+Se c'era una cosa che George Mulross Demaine temeva più di ogni altra, era essere interrogato, e ancora di più essere ringraziato per cose che non capiva affatto. Fortunatamente, un episodio di violenza legato alle differenze religiose degli scozzesi impedì che la discussione iniziasse subito dopo le domande, e lui ebbe l’opportunità di allontanarsi. Ma con suo terrore scoprì che l’auto lo aspettava già e che Mary Smith lo chiamava dall’interno; come il uccello affascinato della leggenda, fu catturato. Sperava che lo portasse in un luogo più adatto. Ma no: lei tirò fuori, da una grande borsa da viaggio che usava soltanto nei momenti più importanti, due domande da porre il giorno dopo.
+
+Le prese con un gemito e le posò, come doveva fare per obbedire al suo ordine. Non avevano alcuna importanza: una era destinata a suo zio, ottenuta attraverso un secondo matrimonio; si trattava del Primo Lord Civile, a cui voleva chiedere il nome di una compagnia che si era rivelata meno efficace del previsto nella produzione di piastre corazzate; l’altra era destinata a suo cugino, Cancelliere del Tesoro, per sapere se l’azione di un oscuro funzionario del Tesoro in un tranquillo villaggio del Buckinghamshire avesse ricevuto l’attenzione che sembravano richiedere i suoi recenti servizi.
+
+Il giorno e l’ora arrivarono. Quando fu il suo turno, George Mulross disse, con una voce forse un po’ più sicura di quella di due giorni prima: “Ventinove.”
+
+A sua sorpresa, il Cancelliere dello Scacchiere rispose con una certa asprezza, dichiarando di non avere nulla da aggiungere alla risposta del suo predecessore del 9 luglio dieci anni prima, e aggiunse, tra l’approvazione generale, che insinuazioni del genere contenute nella domanda erano davvero deplorabili.
+
+Un uomo dal temperamento eccitabile si era già alzato in piedi per porre una domanda supplementare, quando fu bruscamente fermato dal presidente e quell’incidente curioso terminò lì.
+
+Trascorsero circa dieci minuti e, di nuovo, sudando per la paura, Demaine sentì il proprio nome chiamato; rispose con una voce ancora chiara: “Cinquantaquattro. Voglio dire, Quarantacinque.”
+
+Il Primo Lord dell’Ammiragliato si alzò solennemente, con tutta la dignità della sua lunga barba bianca, sistemò gli occhiali, guardò attentamente l’intruso che disturbava la sua tranquillità e disse, con il suo inconfondibile accento, che il nome di quella Compagnia poteva essere scoperto attraverso un normale processo di indagine.
+
+Il gioco continuò per dieci giorni. Inutilmente i suoi amici cercarono di rassicurarlo, dicendogli che con quella sua costante attitudine da puritano e da investigatore, stava perdendo posizioni all’interno della “Casa”. Mary Smith era una donna a cui bisognava obbedire; su ventitré domande che le fece, almeno una venne effettivamente posta. E il Primo Lord dell’Ammiragliato, con la stessa dignità, la stessa barba bianca e lo stesso accento marcato, aveva ammesso l’illegalità di cercare di ottenere informazioni violando i termini di un contratto, riguardo alla società di cui, fino a quel momento, il sfortunato George Mulross non aveva mai nemmeno sentito parlare.
+
+Sapeva, sentiva che lui, l’uomo più innocente di tutti, stava facendosi nemici da tutte le parti. Le allusioni al suo spirito pubblico che ora occasionalmente comparivano nei giornali dell’Opposizione, quelle piccole frasi amarevoli presenti invece nei giornali del suo stesso partito, lo riempivano di uguale terrore.
+
+Non aveva affatto voglia di andare avanti, quando, per di sopra tutto questo, Mary Smith insistette silenziosamente affinché tenesse un discorso.
+
+Non dovrà durare molto: lei stessa glielo scriverà. Deve impararlo a memoria e fare molta attenzione a pronunciare le parole correttamente. Ha scelto un argomento di dibattito in cui potrà esprimersi liberamente, e gli ha fornito un testo di saggezza così gentile, ragionevole, conciso e aperto che la Camera avrebbe potuto ascoltarlo per molti mesi.
+
+Mattina e pomeriggio, una governante paziente, Mary Smith, lo ascoltava recitare quel discorso; ma giorno dopo giorno, capì gradualmente che non andava bene. Un errore avrebbe potuto rovinarlo. Alla decima prova, continuava ancora a dire “very precious” al posto di “meretricious”. Non riusciva ancora a trattenersi dal fare un movimento improvviso quando pronunciava le parole “I will go a step further”; inoltre, non riusciva mai a pronunciare correttamente la semplice frase: “I yield to no one in my admiration for the right honourable gentleman”.
 
 
 
@@ -4123,6 +4761,84 @@ The full absurdity of it grew increasingly upon Demaine’s imagination. “The 
 “No,” said Demaine, “only once three years ago, the time I fell down, you know; an’ that was quite short.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prima si sarebbe arreso davanti a un vero gentiluomo onorevole; poi nessuno si sarebbe arreso davanti a lui; dopo non avrebbe più accettato alcun tipo di ammirazione. E alla fine, lei ne ha rinunciato disperata.
+
+Una donna meno tenace avrebbe abbandonato il suo progetto; non così Mary Smith. Scoprì, con grande attenzione e astuzia, che non c’era alcun motivo per cui un Sovrintendente della Corte dei Dote dovesse parlare in aula; avrebbe potuto ricoprire quella carica per tre anni senza fare altro che rispondere alle domande, lasciando ai suoi subordinati il compito di intervenire su quei rari progetti pubblici che, per quanto remotamente, riguardassero le sue funzioni.
+
+Gli aveva già dato un nome; era determinata a non distruggerlo seguendo questa falsa strada di addestrarlo all’oratoria in pubblico. Alla fine, quando il mese di maggio stava per concludersi, decise di metterlo sulla giusta strada.
+
+Dolly e lei erano d’accordo. Forse sarebbe stato necessario convincere Dimmy; era naturalmente modesto, e inoltre sicuramente avrebbe avuto paura, ma ancora di più desiderava disperatamente i soldi.
+
+Quando arrivò il giorno in cui avrebbe ricevuto la sua grande illuminazione, lei lo chiamò di nuovo, e ancora una volta lo trovò da solo. Prima gli preparò il pranzo e gli offrì un vino che sapeva potesse bere con moderazione, perché sentiva che avrebbe avuto bisogno di coraggio; gli permise di bere il caffè, accese il suo piccolo sigaro, e infine disse:
+
+“Dimmy, di cosa hai bisogno per vivere?”
+
+“Non lo so,” disse Dimmy con un certo terrore negli occhi.
+
+Mary Smith lo guardò con un po’ di perplessità. A lui non piacevano quegli sguardi, anche se le era affezionato. Gli facevano sentire come un animale.
+
+“Dimmy,” disse lei, “potresti tu e Sudie farcela con settemila all’anno, o magari con seimila?”
+
+Dimmy rifletté a lungo e con dolore. Per lui esistevano soltanto due categorie di reddito: i poveri e i ricchi. Nei tempi in cui guadagnare anche solo una sterlina era estremamente difficile, lui apparteneva alla categoria dei poveri. Ora, però, con un capitale illimitato a disposizione e circa ventimila sterline all’anno da far spendere a sua moglie, si considerava decisamente tra i ricchi. Si sentiva a suo agio: aveva spazio sufficiente per muoversi liberamente. Seimila sterline, invece, lo lasciavano perplesso. Non rientravano in nessuna delle due categorie. Poi gli venne un’idea geniale.
+
+“Puoi dirmi, Mary,” disse dolcemente, “di qualcuno che abbia circa sei migliaia. Penso che allora riuscirei a capire.”
+
+“Posso dirvi una cosa con certezza,” disse Mary Smith. “Charlie Fitzgerald e sua moglie. Finché quell’ebreo non muore, avranno esattamente sei migliaia di dollari. Dovrei saperlo bene, visto che ho controllato ogni singolo documento per assicurarmi che Charlie mi ripagasse.”
+
+“Oh!” disse Demaine in tono giudiziario. “Charlie Fitzgerald e sua moglie, ” Pensò per un po’. “Beh, sono abbastanza agiati,” disse improvvisamente. “Certo, non hanno una casa né terreni; immagino che se ne avessero, non potrebbero farlo.”
+
+“No,” disse Mary, “ma la casa a Westminster è molto grande una volta che ci si entra passando per quella parte stretta. Quando andrai a Westminster, Dimmy?”
+
+“Non lo so,” disse Dimmy disperatamente. “Sudie ha capito tutto sbagliato. Ha visto scritto ‘[[City|Città]] di Westminster’ su uno di quei cappelli kaki che indossano i netturbini, e poi ha visto un uomo che caricava qualcosa in un carretto proprio vicino a casa nostra. Ha detto che comunque noi ci trovavamo a Westminster. E quando ho cercato di spiegarle, mi ha spinto contro la finestra e ha indicato di nuovo quel cappello. È stata davvero brutale, ” George Mulross sospirò.
+
+Mary Smith si arrabbiò. “Non dire sciocchezze,” disse, “e non disturbarmi con tua moglie. Hai guardato qualcosa a Westminster, almeno?”
+
+“Non lo so,” disse umilmente Demaine.
+
+“Devi saperlo,” disse Mary con durezza, con una forte voglia di schiaffeggiarlo. “Hai per esempio controllato nel cortile di Dean’s Yard?”
+
+“Sì,” disse Demaine, ripensando lentamente ai suoi spostamenti degli ultimi giorni. “Sì, ho visitato Dean’s Yard. Non c’è nulla lì. Tutto il resto sembra davvero molto degradato, Mary.”
+
+“Ci sono alcune case nuove davvero molto belle,” disse Mary con serietà, “e tutti stanno andando lì; inoltre, le case vecchie sono anche molto piacevoli da vivere. Comunque sia, Westminster è il posto giusto. E vi dico un’altra cosa: dovete assolutamente assumervi le vostre responsabilità!”
+
+George Mulross, come sempre preoccupato quando lei iniziava a rimproverarlo, sentendo la parola “ufficio” disse semplicemente:
+
+“Beh, non lo farò di certo, punto e basta. Non ci credo affatto. Ho visto molti uomini comportarsi in quel modo: arrivano nella [[City|>Città]] pensando di imparare a fare affari, ma finiscono per essere truffati, ”
+
+“Ho detto ‘Assumi l’incarico!’” gridò Mary Smith, “Assumi l’incarico, trova una posizione. Dolly ti aiuterà a trovarne una. Ora capisci?”
+
+“Cosa?”, disse Demaine in modo vago.
+
+“Dimmy”, disse lei più dolcemente, ma con grande fermezza, “guardami”.
+
+La guardò. Gli costava uno sforzo notevole mantenere lo sguardo fisso su di lei, sotto la sua volontà dominante.
+
+“Esatto. Ora ascolta attentamente. Lo stipendio del ruolo di Guardiano della Corte dei Dote è di cinquemila all’anno, e per l’ex.”
+
+“Sì,” disse Demaine.
+
+“Quando la carica di Custode della Corte dei Dote diventa vacante, se dimostri di essere degno di essa, sarà tua al prezzo che chiederai. Capisci,?”
+
+“Non lo so,” ripeté George Demaine.
+
+Era come se gli fosse stato detto che aveva dormito per tutti questi anni, che il suo vero nome era Jones e che viveva in Australia, o come se avesse scoperto di essere coperto di piume. Era completamente confuso. Poi disse lentamente:
+
+“Guardiano della Corte dei Dote di Repton.” Era orgoglioso di saperlo, perché spesso commetteva errori riguardo ai membri del Gabinetto.
+
+“Deciderai o no di prestare attenzione a ciò che ho detto?” disse Mary Smith.
+
+L’assurdità totale di quella situazione diventava sempre più evidente nella mente di Demaine. “La Casa penserebbe che Dolly sia pazza”, osservò con una vera e propria umiltà.
+
+“Sciocchezze!” disse Mary Smith con disgusto, “la Camera non saprà nulla comunque. La Camera non si immischia negli affari del governo. Grazie al cielo! Immagino che tu sia abbastanza popolare, ”
+
+“Oh sì,” disse Demaine.
+
+“E tu non parli mai, vero?”
+
+“No,” disse Demaine, “solo una volta, tre anni fa, quando sono caduto. Sai, è stato solo per un attimo.”
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_05" data-title="A Change in the Cabinet — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
@@ -4185,6 +4901,64 @@ She put both hands on his awkward shoulders to stop him, and she kissed him anyw
 “It won’t rain, Dolly,” she said, “I’ve seen to that.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Quante persone conosci nella Camera?” chiese lei.
+
+“Non lo so,” disse Demaine.
+
+“Oh, assurdità. Voglio dire, quante persone ti scriverebbero, per esempio, per farti i complimenti?”
+
+Demaine si arrese. Ma dal suo comportamento si poteva intuire ciò che lei aveva già dedotto da sue stesse osservazioni sui dibattiti e dalla sua vasta conoscenza di [[London|Londra]]: un mese prima la gente sapeva soltanto che Demaine era presente in Aula, e nient'altro. Ora lo conoscevano come un uomo il cui nome avevano sentito menzionare cinquanta volte e che poneva domande durante le discussioni. Non si poteva immaginare una candidatura migliore; inoltre, i suoi stretti legami familiari con molti dei membri di entrambi gli schieramenti rendevano la sua nomina del tutto ragionevole agli occhi di tutti.
+
+Tutti i tipi di pensieri si affollavano nella mente di George Mulross. Si chiedeva se fosse necessario sapere qualcosa, o cosa si dovesse fare esattamente, e come venissero pagati i soldi; se l’imposta sul reddito venisse detratta direttamente dalla retribuzione; e per quanto tempo il governo avrebbe continuato a esistere. Poi gli tornò in mente l’assurdità di tutta quella situazione.
+
+“Certo che c'era Pitson,” mormorò, “e tutti ridevano dicendo che fosse un idiota. Ma lui era comunque tra di loro, nonostante fosse un idiota.”
+
+“Anche tu lo sei,” disse Mary.
+
+“Sì, ma io non rido e non mi comporto come lui.”
+
+“Ridere troppo non è da una donna,” disse Mary, “e in realtà, quando si tratta di comportarsi in modo appropriato, anche un cane può farlo. Basta semplicemente andare in giro e annusare intorno alle persone.”
+
+La conversazione non poteva proseguire in modo produttivo. Demaine aveva già ricevuto spiegazioni sull’argomento, e questo era tutto ciò che Mary desiderava.
+
+Lo mandò a casa e si invitò lei stessa quel fine settimana in una casa dove avrebbe trovato Dolly: quella dei Kahn. Ma non importava. Dolly c'era.
+
+Quando il Primo Ministro vide quella cara figura di lei, piena di promesse e insistenze, sospirò dentro di sé. Durante una lunga passeggiata domenica pomeriggio, lei lo portò davanti al punto cruciale della questione, e lui le promise che almeno avrebbe provato a fare qualcosa.
+
+“Ma non lo so, Mary,” disse lui, cercando in parte di ritirarsi, “Repton non è il tipo di persona che parla se non lo desidera; è come un muro di pietra contro cui non si può fare nulla, a meno che anche lui non decida di ascoltare.”
+
+“Portalo a spasso, proprio come sto facendo con te,” disse Mary.
+
+Era domenica, il 31 maggio. Il tempo aveva iniziato a diventare più aperto e caldo. Pensò che ci fosse del vero in quello che lei aveva detto.
+
+“Incontralo domani quando esce di casa. Sai a che ora uscirà?”
+
+“Sì”, disse il Primo Ministro con un po’ di imbarazzo, “È sempre mezzanotte e mezza”.
+
+“Beh,” disse Mary, “non capisco davvero qual sia il tuo problema.”
+
+“È un’ora assurda per cercare una persona: sono le nove e mezza. E dovrei alzarmi chissà quando, per di più domani è una giornata difficile,” disse il Primo Ministro, stringendo le labbra dopo aver parlato. “È un momento sbagliato. È una settimana importante per lui: domani sera ha un incontro legato alle sue società idriche. Lo so bene. E poi martedì c’è quella importante riunione a [[City|Città]] con Van Diemen. E prima della fine della settimana, dovrà partecipare alla grande conferenza Wycliffite. Non ricordo esattamente il giorno, ma Pottle me ne ha parlato.”
+
+Avevano iniziato a tornare a casa, e per i primi cento metri circa, Mary Smith si chiedeva sinceramente perché agli uomini risultasse così difficile ciò che alle donne sembrava così facile.
+
+“Ti ho detto cosa fare,” disse lei. “Incontralo per caso fuori dalla sua casa quando esce dopo colazione, così verrà con te. Dì che state facendo una passeggiata. Qualsiasi scusa va bene quando si è in movimento.”
+
+“Sei sicuro che verrà con me?” chiese il Primo Ministro.
+
+“Positive!” disse Mary Smith con un tono molto tranquillo.
+
+L’aria sopra di loro era serena; un allodola si era innalzato così in alto che a malapena si riusciva a sentire il suo canto. Il Primo Ministro desiderava con tutto il cuore poter vivere in quel campo per una settimana. Si alzò, pronto a partecipare a un comizio disperato.
+
+“Mary,” disse lui, “e se piovesse?”
+
+“Oh Dolly, Dolly, Dolly!” rispose lei, fermandosi di colpo e piazzandosi davanti a lui. “È come se tu fossi appena tornato da scuola per l’ultima volta, e io fossi una bambina che è stata invitata a prendere il tè in questa importante occasione.”
+
+Posò entrambe le mani sulle sue spalle goffe per fermarlo, e lo baciò in qualsiasi parte del viso.
+
+“Non pioverà, Dolly”, disse lei, “me ne sono assicurata”.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="A Change in the Cabinet — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
@@ -4233,6 +5007,50 @@ He came in at that instant loosened: he was walking ill: he made towards her as 
 The mood was of no long duration. She could have wished it had been longer. He slept with a sort of deep lethargy that was not his way, and twice in the night she rose to watch him; but with the morning all his powers and, alas! all that difference had returned.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VII
+
+Charles Repton non aveva mai trascorso nessun fine settimana; era rimasto sempre a [[London|Londra]].
+
+La fine di quel maggio non lo spinse ad agire; continuò tranquillamente con le sue occupazioni, e la sua vita silenziosa divenne ancora più silenziosa, proprio come Maria, Lady Repton, si sentì ancora più sola. Tuttavia obbedì alle istruzioni ricevute e rimase immobile nella sua casa a [[London|Londra]], incontrando solo di tanto in tanto i suoi pochi cari amici (nessuno particolarmente noto) e, un paio di volte, presiedendo ai grandi banchetti organizzati da suo marito.
+
+Oltre a tutte le altre preoccupazioni, una questione principale assillava la mente di Charles Repton: si chiedeva esattamente dove si collocasse tra commercio e politica.
+
+Questi momenti, non certo casuali ma necessari per prendere decisioni, rappresentano la prova del proprio potere interiore. Alcuni di questi momenti decisivi avevano segnato la carriera della sua anima rigida e determinata: uno quando decise di correre il rischio di trasferirsi dalla sua città natale a Newcastle, calcolando con precisione i capitali dei suoi clienti e quanto potesse essere prestato con successo in quel luogo; un altro quando investì le sue risorse nella sua prima campagna elettorale; ancora uno quando decise di assumere l’incarico. E ce n'erano altri.
+
+Ora che maggio stava per concludersi, mentre le discussioni sul Bilancio erano al loro apice e l’attenzione del pubblico verso Van Diemen era pronta a riempire i giornali, lui si chiedeva se la notevole quantità di tempo che dedicava alla Camera dei Comuni non stesse assorbendo troppa della sua energia.
+
+Calcolò con estrema precisione – come un uomo calcola qualcosa di misurabile, come una superficie in acri o il peso di un metallo – quali dovessero essere le proporzioni future.
+
+Deve rimanere in contatto con tutto ciò che è accaduto a Westminster; su questo punto era deciso. Ma sapeva che c’era una crescente critica nei suoi confronti per la combinazione tra il suo alto idealismo politico e le sue attività nella [[City]]. La “Luna” aveva detto qualcosa di estremamente sgradevole riguardo alla Concessione Petrolifera in Birmania. Era solo un giornale, ma aveva dovuto occuparsene. Inoltre, il “Caprone” stava prestando un’attenzione maggiore del dovuto alla sua posizione nella Camera dei Comuni.
+
+Pensò a lungo, e nel corso di quel processo il suo cervello iniziò gradualmente a schiarirsi. Tuttavia, non era ancora giunto a una decisione quando, nella tarda notte di domenica, il 31 maggio, radunò i documenti sulla sua scrivania, si sforzò deliberatamente di allontanare dalla mente i problemi che lo assillavano e stilò un elenco delle sue prossime impegni.
+
+Il giorno seguente, lunedì 1° giugno, dopo essere uscito di casa puntualmente alle nove e mezza, avrebbe dedicato metà della mattina al lavoro per l’Ente di Sorveglianza. Avrebbe dovuto tornare a casa a mezzogiorno; da mezzogiorno fino all’ora di pranzo avrebbe dovuto occuparsi dei suoi conti. Era particolarmente importante, visto che era lunedì e il primo del mese. Avrebbe pranzato, preferibilmente da solo, poiché sarebbe stato stanco, e avrebbe fatto capire a Maria che non voleva essere disturbato.
+
+Martedì 2, ebbe luogo il discorso alla Riunione Generale dei Van Diemens. Diede un’occhiata alle sue note per quel discorso; erano tutte in perfetta sequenza, e provò, per quanto possano provarlo persone dal temperamento così severo, un leggero senso di orgoglio nel notare l’organizzazione logica dei suoi argomenti. Nella sua mente, vide prima la convinzione, poi l’entusiasmo delle persone che doveva convincere: la descrizione vivida del bisogno dell’Impero per quella ferrovia, la facilità con cui poteva essere costruita. E infine, utilizzò una metafora potente per spiegare come quella nuova linea di ferro trasformasse energia elettrica potenziale e inutile in forza reale e efficace.
+
+Rilesse quella frase nella quale l'aveva definita “completare il circuito”; non ebbe alcun dubbio che l'incontro lo avrebbe seguito. Parola dopo parola gli passarono davanti alla mente (poiché aveva imparato a memoria quel discorso con attenzione); nel corso di quelle parole apparvero il nome di Nelson, quello di Rhodes, poi quello di Joel, fino a quando l'importante discorso si concluse con un’immagine breve, concisa, ma quanto vivida! L’immagine della Porta dell’Est e della mano d’[[England|Inghilterra]] posata su di essa.
+
+"... le chiavi"
+
+“Di destini così numerosi e intrecciati…”
+
+Attraverso di loro: attraverso di loro!
+
+È stato un ottimo discorso.
+
+Si voltò con maggiore noncuranza verso il materiale già battuto a macchina che doveva consegnare giovedì alla Conferenza Wycliffita. Andava bene, e, al momento, era importante. Gli ricordava, con un certo disprezzo, le riunioni del “High Meat Tea” nel Nord dell’[[England|Inghilterra]] e la sua giovinezza; inoltre gli rievocava quella guerra confusa tra Chiesa e Setta che allora aveva una grande importanza per lui, e che ora doveva ancora combattere, almeno in pubblico.
+
+Che questo breve periodo di studio fosse stato troppo faticoso per un uomo che aveva già trascorso un intero mese immerso nel suo lavoro, o che ci fosse qualche altra ragione, fatto sta che, con l’avvicinarsi della mezzanotte, si sentì leggermente stordito. Appoggiò la testa sulla mano e gli sembrò – sperava fosse solo un’illusione, poiché la sensazione era ancora vaga – che il dolore dietro le orecchie, o almeno una sorta di oppressione in quella zona, stesse iniziando. Mormorò un’esclamazione così intensa da sorprendere chiunque lo avesse visto sotto pressione. Poi salì rapidamente al piano di sopra, nel soggiorno, e trovò sua moglie seduta da sola con il suo libro.
+
+Alzò lo sguardo quando lui entrò, e di nuovo fu colpita da quella strana innocenza nei suoi occhi. Strani, (ma che vita intensa!) ricordi di trent'anni, di quarant'anni prima la colpirono nel cuore. La giovinezza è presente in ogni angolo della vita. Quei due, appena sposati, poco prima del primo prestito che aveva contratto, erano ancora giovani. Il ricordo di quei momenti era per lei come un gioiello prezioso.
+
+Entrò in quel momento, apparentemente rilassato; camminava con difficoltà; si avvicinò a lei come se cercasse rifugio. Eppure quella persistente innocenza brillava ancora nei suoi occhi. Si sedette accanto a lei, respirando affannosamente, allungò la mano e le prese la sua. Non aveva mai fatto un gesto del genere da, in quale anno? Prima che quel primo momento di durezza la spaventasse. Quanti anni, quanto tempo fa?
+
+Quell’atmosfera di serenità non durò a lungo. Avrebbe voluto che continuasse. Lui dormiva in un sonno profondo e letargico, cosa insolita per lui; lei si alzò due volte durante la notte per controllare come stesse. Ma con l’arrivo della mattina, tutte le sue energie, e, purtroppo, anche quella diversità che c’era stata tra loro, erano tornate.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="A Change in the Cabinet — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4280,6 +5098,50 @@ At this unexpected solution the Prime Minister was in duty bound to propose a hu
 
 But Charles Repton was firm. These solid masters of finance are glad to think out their world; in a sense nothing comes to them that is unexpected when it comes. Their brains may be compared to the great new War Office in Whitehall, where a hundred minutely detailed plans for the invasion of Germany, France, Russia, Spain, Italy and the Baltic States, lie pigeonholed, in perfect order, ready to be put into immediate execution at the pronouncement of the stern words Krieg-mobil.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non doveva vederlo affatto mentre lui, per tutta la settimana e il mese, discuteva ogni dettaglio delle sue faccende con il suo assistente; non le era nemmeno permesso incontrarlo durante il pranzo. Lo osservava mentre, all’ora solita, usciva di casa per recarsi in ufficio presso la Corte del Dote. E mentre lo guardava con sentimenti nuovi nel cuore, vide un altro uomo avvicinarsi a lui: l’auto si allontanò e i due proseguirono insieme verso il Parco. Riconobbe quella figura, nonostante partecipasse così poco alla vita di [[London|Londra]]; nei vestiti trasandati e nel modo curvo di camminare, riconobbe il Primo Ministro.
+
+Se sei un membro delle classi dirigenti di questo grande Impero, non è affatto facile raggiungere una casa situata tra Edgware Road e Hyde Park da nord; alle nove e mezza del mattino, inoltre, diventa estremamente difficile se ti stai dirigendo verso Westminster.
+
+Presuppone che si venga trasportati in un luogo nel Nord-Ovest a un’ora impossibile, poi si venga lasciati lì e si corra verso casa. E perché mai un uomo di posizione dovrebbe essere portato in qualche parte del Nord-Ovest all’alba? In generale, la scusa migliore è quella legata alla stazione di Paddington. Eton è un buon luogo da cui provenire, perché gli bugiardi arrivano sempre a Paddington. Quindi fu proprio da Eton che il Primo Ministro arrivò quella mattina, comunque, prima delle nove si trovava nel Nord-Ovest del Parco. Camminava lentamente verso l’Arco di Marmo; avvicinandosi alla casa di Charles Repton rallentò ancora di più, ma aveva calcolato bene i tempi.
+
+Quella figura alta e dritta uscì e chiamò un taxi.
+
+Il Primo Ministro gli passò davanti, si girò con un sorriso cordiale e disse: “Mio caro Repton!”
+
+E Repton salutò il Primo Ministro con un po’ meno entusiasmo.
+
+“Stavo camminando da Paddington,” disse il Primo Ministro.
+
+“Hai già mangiato?” chiese Sir Charles, mentre pagava al tassista un penny senza alcun motivo.
+
+“Sì, ho fatto colazione prima di iniziare. Stavo camminando verso Westminster. Non puoi venire con me?”
+
+A Sir Charles sembrò tutto estremamente semplice; i due uomini camminarono insieme attraverso il Parco in direzione di Hyde Park Corner e Constitution Hill.
+
+Per la maggior parte degli uomini, il passaggio dalla conversazione quotidiana alle questioni importanti è così difficile che tendono a rimandarlo fino alla fine dell’intervista. Il Primo Ministro non era di questo tipo. Non avevano ancora percorso nemmeno duecento metri oltre quella grande arena vicino al Marble Arch, dove ogni domenica la gente sassone discute e decide definitivamente questioni relative all’antinomia tra predestinazione e libero arbitrio – per non parlare di altri misteri della religione cristiana – quando il Primo Ministro ricordò a Charles Repton l’assoluta necessità che nel Gabinetto del Lordo Consiglio ci fosse una nuova figura.
+
+Charles Repton fu pienamente d'accordo e, per dieci minuti, espresse le sue ragioni. Disse, in un tono piuttosto serio, di sperare che ciò che stava dicendo avesse senso e che non si stesse immischiando in questioni che non lo riguardavano. Gli fu chiesto con calore di continuare, e lui descrisse in dettaglio il tipo di uomo che riteneva fosse necessario per quel ruolo. Avevano già troppi uomini d’affari, e anche troppi individui appena usciti dalla Camera dei Comuni; inoltre, i membri del governo presenti nell’Alta Camera avevano formato una sorta di gruppo chiuso: la metà di loro era molto intelligente, ma talvolta, soprattutto durante le grandi discussioni, perdevano contatto con i colleghi. Non sarebbe stato possibile trovare qualcuno con una posizione reale, un uomo con un titolo prestigioso, ricco e ben conosciuto anche se solo in un ambiente ristretto, che si interessasse al programma di governo? Un uomo come Pulborough, ad esempio. Se Pulborough avesse dovuto guadagnarsi da vivere, sarebbe sicuramente diventato il miglior allevatore di pollame del mondo. E poi, guardate i suoi talenti: era stato lui stesso a progettare tutti i nuovi lavori a Harberry, e così via.
+
+Mentre attraversavano davanti alla statua di Wellington, il Primo Ministro, nei brevi momenti in cui riusciva ad evitare il traffico, spiegò che quella non era affatto l’intenzione che aveva avuto. Doveva esserci qualcuno nel Gabinetto che aveva ascoltato tutto negli ultimi due anni, “Repton,” disse, (mentre lasciavano il marciapiede protetto – un taxi lo aveva quasi investito), “Repton, hai mai pensato a, ” Due enormi autobus svoltarono improvvisamente, separando i politici. Il Primo Ministro vide Repton lontano davanti a sé: un uomo di successo, che aveva raggiunto la riva opposta. Si mise davanti a una bicicletta, si aggrappò al bordo del marciapiede e concluse la sua frase: “, di ottenere tu stesso un titolo nobiliare?”
+
+Avevano superato tutti i pericoli di quel luogo e ora camminavano silenziosamente lungo Constitution Hill; Dolly poté esprimere il proprio pensiero più liberamente, e nel modo più naturale possibile disse che non potevano fare a meno di Charles Repton.
+
+Era molto attento a non forzare la situazione. Charles Repton era assolutamente indispensabile: dovevano averlo, altrimenti non avrebbero avuto nessuno.
+
+Un sorriso egizio, un sorriso di granito, si poteva intuire più che vedere sulle labbra serrate di Charles Repton.
+
+“Vi proponete che io diventi il Capo Cavalleria?” disse.
+
+“No,” disse il Primo Ministro, sorridendo molto più facilmente, “né tantomeno Direttore dello Stallone da Corse Reale. Ma so che Abenford è mortalmente stanco della Casa Reale; anche se, ”, aggiunse, “, ci sia davvero qualcosa di noioso in tutto ciò.”
+
+Con grande sorpresa del Primo Ministro, Charles Repton rispose semplicemente: “Se andassi alla Camera dei Lord, lo farei senza alcuna carica ufficiale.”
+
+Di fronte a questa soluzione inaspettata, il Primo Ministro era obbligato per dovere a proporre cento ragioni contro di essa. Implorò Repton di ricordare la sua importante posizione e il valore particolare che aveva per lui, il Primo Ministro stesso. “Sono sempre al massimo tre uomini a svolgere il lavoro, Repton, che si tratti di dieci persone in un comitato o di mezzo migliaio. Lo sai bene.”
+
+Ma Charles Repton era irremovibile. Questi esperti finanziari, con la loro grande capacità di pianificazione, sono felici di creare il proprio mondo secondo le proprie idee; in un certo senso, nulla di inaspettato può colpirli quando arriva. I loro cervelli possono essere paragonati al nuovo e imponente Ufficio della Guerra a Whitehall: lì ci sono centinaia di piani dettagliatissimi per l’invasione della Germania, della Francia, della Russia, della Spagna, dell’Italia e degli Stati baltici, tutti ordinatamente archiviati e pronti ad essere attuati non appena vengono pronunciate le parole “Krieg-mobil”.
 
 
 
@@ -4365,6 +5227,86 @@ Demaine walked undeterminedly towards the Dowry Offices behind Scotland Yard; hi
 Past him, as he so stood, strode, full of vigour and of will, the fixed form of Sir Charles Repton, walking towards Trafalgar Square. The younger man followed him with his eyes and felt in his heart what a gulf there was between them. He was by no means of those who dare, and the thought of office appalled him. Then suddenly he remembered the salary. His legs straightened beneath him and he forced himself up the stairs to where he might ask to see Mr. Sorrel.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Molto prima che le semplici intrighi delle sale da ricevimento prendessero forma, Charles Repton aveva già osservato attentamente l’intero paesaggio con il suo sguardo interiore. Conosceva ogni piega del terreno, aveva misurato ogni distanza. Aveva capito che, nel complesso, possedere un titolo nobiliare ne valeva la pena: proprio ora, al culmine della sua fortuna.
+
+Avere un posto permanente, libero da vincoli burocratici, con il prestigio di un titolo nobiliare, con comitati aperti a lui e tutte le fonti ufficiali a sua disposizione in modo permanente, valeva la pena. Valeva la pena recarsi alla Camera dei Lord se fosse stata una scelta libera da parte sua; e se ci andava, doveva farlo come uomo libero. Questo avrebbe salvato Van Diemens più di qualsiasi altro provvedimento, e quella grande Compagnia valeva venti posti nel Gabinetto. Van Diemens era il padrone di quel Gabinetto, e anche l’ultimo.
+
+A quel punto aveva deciso che ottenere un titolo nobiliare ne valeva la pena, anche se dipendesse interamente dalla sua scelta. Ora che poteva considerarlo un favore da chiedere, ne valeva ancora di più la pena. L’alternativa significava solo inutili conflitti. Sì, avrebbe accettato quel titolo nobiliare; ma c’era una cosa che doveva capire chiaramente: ——
+
+I due uomini camminarono insieme in silenzio oltre il Palazzo; attraversarono l’imponente nuova entrata di St. James’s Park, superarono il ponte e si diressero verso Westminster.
+
+È stato uno shock. Il sollievo del Primo Ministro era un po’ troppo grande, e l’ultima cosa che Repton disse fu imbarazzante; ma era abituato a superare simili difficoltà con disinvoltura. Cominciò quindi con decisione:
+
+“Per caso sai cosa ho riservato per gli scopi ordinari del Partito?”, chiese.
+
+Il Primo Ministro scosse la testa. Se c'era una cosa che odiava, era proprio l’aspetto legato alla cucina della politica.
+
+“Beh, vi spiego,” disse Repton. “Per quindici anni di seguito, ogni anno ho messo da parte esattamente la stessa somma, sia che fossimo al potere o no. Non una somma grande, solo cinquecento sterline. Pottle ve lo confermerà.”
+
+Il Primo Ministro fece un gesto con la testa che dimostrava quanto non gli importasse nulla.
+
+“Solo cinquecento sterline, esattamente cinquecento sterline,” continuò Repton con fermezza. “Ora Pottle deve capire molto chiaramente che quella quota di abbonamento non verrà né aumentata né ridotta.” Parlava nel modo in cui gli uomini parlano in un negozio, e in un negozio di cui hanno il pieno controllo.
+
+“È una questione tra te e Pottle,” disse il Primo Ministro con tono chiaramente volto a evitare di approfondire l’argomento.
+
+“Sì,” disse Repton, guardando dritto davanti a sé, “deve essere compreso molto chiaramente. L’ho reso un ordine permanente: Pottle non mi ha mai dato fastidio, ma può infastidirmi terribilmente. E ho preso una decisione definitiva.”
+
+“Certo, certo,” disse il Primo Ministro. “Penso che sia saggio,” continuò, “non è affar mio, ma ritengo davvero opportuno mantenere i contatti con l’Ufficio Centrale. Ma è una decisione tra te e Pottle.”
+
+Ci fu un altro lungo silenzio mentre percorrevano Great George Street.
+
+“Tutto qui,” disse Repton, di fronte alla fontana realizzata da Pugin. I due uomini continuarono a camminare. Le statue di grandi uomini ormai defunti li osservavano dall’alto; quelle statue non erano abituate a simili conversazioni. Una di quelle statue doveva aver considerato Charles Repton un uomo senza tatto, ma Charles Repton aveva calcolato tutto, anche le sue possibilità di vita e il numero degli anni ancora disponibili davanti a lui. E nulla avrebbe potuto offenderlo o disturbarlo di più di qualsiasi ambiguità riguardante gli aspetti pratici di quella transazione.
+
+Si separarono: uno andò alla Corte della Dote, l’altro a Downing Street, e così la questione fu risolta.
+
+Quel pomeriggio il Primo Ministro chiese a Demaine di venire a bere una tazza di tè con lui. Disse che preferiva farlo nella sua stanza; prese il braccio di Demaine e lo accompagnò lì dentro.
+
+“Hai qualcosa in programma stasera, Dimmy?” chiese lui.
+
+Un pensiero vago, “Non lo so”, rispose dopo aver attentamente valutato tutte le possibili opzioni.
+
+“Beh, in ogni caso devi essere qui per questa riunione…”
+
+“Oh sì,” disse Dimmy. Il suo alto numero di divisioni era la “ancora di salvezza” della sua anima: aveva passato tutta la notte in piedi, sedici volte.
+
+“Beh,” disse il Primo Ministro esitando, come se in realtà non volesse bere una tazza di tè, “allora potresti vedermi, no, vieni con me ora.”
+
+Mentre bevevano il loro tè, lui disse al suo compagno che ci sarebbero stati cambiamenti nel Gabinetto.
+
+“Ora,” disse, “voglio lasciarti completamente libero.” Sembrava soffrire un po’ mentre lo diceva, ma continuò con determinazione: “Voglio lasciarti completamente libero. Ma ovviamente sai che il tuo nome è stato menzionato davanti a me.”
+
+“Non lo so,” iniziò Demaine.
+
+Il Primo Ministro lo fermò con la mano. “Beh, comunque sia, è così.” Fece una pausa e rifletté. “Non so se ti sarebbe adatto, ma credo di poter capire come tu saresti adatto a quel lavoro. Su questo punto sono soddisfatto, Dimmy. Conosci il tipo di lavoro di cui parlo, vero?”
+
+Ma Demaine non lo sapeva.
+
+“Beh,” disse il Primo Ministro, appoggiandosi allo schienale con noncuranza e incrociando le mani, “è come tutte queste cose: hai il tuo staff, in un certo senso il lavoro è già fatto. Si tratta di un lavoro molto vario; non si può pretendere che una persona riesca a comprenderlo completamente. Ma,” (inclinandosi in avanti) “come tutte queste cose, richiede anche una sorta di visione d’insieme, capisci?”
+
+Dimmy non osò scuotere la testa.
+
+“Vuole una sorta di, ”, il Primo Ministro fece un gesto con la mano sopra il tavolo, “una sorta di, come potrei dire, buon senso comune, soprattutto quando si tratta di situazioni impreviste. A volte bisogna prendere decisioni rapidamente. Ma ci abituerete presto”, aggiunse con un tono di sollievo. “Nei primi giorni avrete al vostro fianco Sorrel; è estremamente facile da lavorare con; ci lavora da anni. Cioè, naturalmente, se lo accettate.”
+
+“Sì,” disse Demaine con fervore, “sì, se lo prendo, avrò Sorrel.”
+
+“Allora, naturalmente,” proseguì rapidamente il Primo Ministro, “è un posto dove si può ottenere qualsiasi cosa. Può avere un’importanza enorme; ha avuto un’immensa rilevanza sotto Gherkin fino alla sua morte. E Repton, ovviamente, ha fatto molto rumore in questo ambito.”
+
+Demaine tremò leggermente.
+
+“Ma non c’è alcuna necessità,” continuò l’altro rapidamente, “è davvero meglio senza troppi clamori. È una sorta di attenzione meticolosa e silenziosa quella che ci serve,” concluse stancamente; poi, ripensandoci, aggiunse: “Perché non andiamo da Sorrel ora?”
+
+“Non potresti darmi un biglietto?” chiese Demaine, nervoso.
+
+“Sciocchezze,” rispose suo cugino, che cominciava a mostrare i segni dello stress. “Vai semplicemente da lui in ufficio. È l’uomo più mite che esista.”
+
+“Bene,” disse Demaine sospirando. Finì il suo tè e uscì; mentre stava per andarsene, il Primo Ministro lo chiamò: “Non dimenticare di venire da me dopo la riunione di stasera. Allora potrò dirti se c’è qualcosa stato deciso.”
+
+Demaine camminava senza una direzione precisa verso gli uffici incaricati delle doti, situati dietro Scotland Yard; il suo cuore sembrava non voler più battere. Non entrò. Rimase fermo in Whitehall, a fissare il traffico; le sue ginocchia non erano del tutto dritte e la bocca gli era semiaperta.
+
+Passandogli accanto, mentre lui stava lì fermo, camminava con passo deciso e pieno di vigore e volontà la figura imponente di Sir Charles Repton, diretto verso Trafalgar Square. L’uomo più giovane lo seguiva con lo sguardo e sentiva nel proprio cuore quanto fosse grande il divario tra loro: lui non apparteneva affatto a coloro che osano prendere iniziative, e l’idea di ricoprire una carica pubblica lo spaventava. Poi, all’improvviso, si ricordò dello stipendio. I suoi passi divennero più decisi e salì le scale per andare a chiedere di parlare con il signor Sorrel.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="A Change in the Cabinet — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/madness,concept/madness,concept/satire_of_society,concept/appearance_vs_reality,form/satire,form/novel,setting/london"></span>
@@ -4416,6 +5358,54 @@ And just at that point the traffic was stopped to allow a cross current from ano
 
 Yet again his mood changed and he burst into an explosion of laughter as he remembered the sentries. Then the name over a shop which recalled to him certain mortgages tickled his fancy. He almost stopped the taxi to get out and have a bout of fun with the proprietors of that shop but he was going swiftly through the streets and he preferred his ease.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VIII
+
+Sir Charles Repton camminava a grandi passi per Whitehall. Il lavoro di quella giornata era stato intenso, soprattutto nelle ore successive a quella conversazione mattutina, e lui ne soffriva.
+
+Non era alcun dolore spirituale a colpire quel carattere forte: la sua vita era già decisa; la decisione che aveva preso era irrevocabile. Anzi, ogni circostanza legata a quella decisione lo rendeva felice. Il titolo nobiliare gli era stato offerto nel momento perfetto; lui stesso non avrebbe potuto scegliere meglio. Era proprio in quel momento che desiderava ardentemente essere ancora più potente, se ciò fosse stato possibile, e al contempo libero; avere una posizione politica più stabile, ma allo stesso tempo essere libero di cogliere le opportunità che si presentavano. Tutta la sua strategia era infatti incentrata sulla Compagnia che era determinato a salvare.
+
+Quello che ora soffriva era di natura fisica; provava dolore nella parte posteriore della testa: quel dolore aveva un’intensità particolare; non era esattamente un mal di testa, ma piuttosto una sorta di peso, di oppressione. Man mano che proseguiva verso nord, quella sensazione di pressione peggiorava e si concentrava sempre più proprio dietro ciascun orecchio.
+
+Non rallentava mai il passo. Vide un taxi che aveva appena lasciato un passeggero a Cox’s Bank; nonostante i problemi nella sua testa che aumentavano rapidamente, riuscì comunque a notare che la bandierina sul tetto del taxi era alzata, che l’autista era libero e stava per partire. Gli fece segno di avvicinarsi, salì sul taxi e gli diede l’indirizzo della sua casa, chiedendogli di passare anche dal Club lungo la strada.
+
+Si ricordò che, nonostante il dolore stesse peggiorando, quella sera ci sarebbe stata una grande cena; cercò di ricordare i nomi delle persone coinvolte. Poi, all’improvviso, un forte dolore alle spalle dell’orecchio destro quasi lo fece gridare. Ma Repton era indomabile e soffocò il grido. Appena si fu controllato, sentì un altro attacco simile di dolore alle spalle dell’orecchio sinistro: un uomo meno forte di lui sarebbe svenuto. Tutto finì in un istante. Ma era pallido e quasi incerto sulle gambe quando uscì dal Club e andò alla cabina del portiere per chiedere lettere e messaggi. Non ce n’era nessuna.
+
+“Sei sicuro che non ne sia rimasta nessuna?” chiese con voce debole.
+
+Quella domanda era così insolita da parte di quell’uomo che il portiere alzò lo sguardo, sorpreso.
+
+“Non guardatemi come se fossi un pezzo di carne,” disse Sir Charles in tono brusco, “non sapete forse quanto valga il mio posto?”
+
+L’uomo borbottò qualcosa sottovoce.
+
+Con la ferocia più indegna, ma forse il dolore può scusarlo. Sir Charles si chinò verso la piccola finestra di vetro e sibilò: “Questo tipo di cose è già successo prima. Metti semplicemente in ordine i documenti che hai davanti a te e assicurati che tutto sia a posto.”
+
+Le sue mani tremavano per la rabbia repressa; il portiere frugò tra i pacchi e trovò una carta.
+
+“Te l’avevo detto, idiota!”, esclamò il baronetto ormai fuori controllo. Poi, riprendendosi, disse senza alcuna vergogna ma con un po’ di confusione: “Ne ho abbastanza.” Guardò la cartolina: era un annuncio che lo invitava a trascorrere una settimana a Lucerna per undici ghinee, e c’era anche una foto del Rigi Kulm. Strappò la cartolina con rabbia, la gettò nel cestino della spazzatura, scese di fretta le scale del suo club, salì sul taxi e sbatté la porta alle sue spalle.
+
+Il conducente aveva spento il motore. Sir Charles sedeva battendo un piede dopo l’altro, con gli occhi brillanti e le mani che si muovevano nervosamente. L’uomo stava suonando l’organo a canne davanti alla macchina; il pistone si muoveva una o due volte con forza, poi si fermava di nuovo. Sir Charles scese dalla macchina.
+
+“Se non riesci nemmeno a far funzionare quella maledetta pentola,” disse, poi all'improvviso sorrise. “Che faccia così gentile hai, ” osservò, cambiando tono bruscamente. “È davvero crudele per persone come me, con redditi enormi, bullizzare gente che deve lavorare in ogni condizione meteorologica. Anche se devo dire che voi tassisti siete davvero privilegiati! Avete sempre intorno a voi un sacco di poveracci che vi portano messaggi e cose del genere. Sai, ” continuò, assumendo un tono ancora più confidenziale, “se non sembrassi così gentile e simpatico, non salirei mai più su un taxi. Ma ora lo farò. Ora sì,” disse, annuendo rassicurante per dimostrare che non c’erano cattive intenzioni, e poi salì di nuovo sul taxi, che finalmente partì per la sua destinazione.
+
+Sir Charles, all’interno di quel veicolo, mantenne per alcuni momenti quell’espressione di profondo silenzio che rappresentava almeno metà della sua “fortuna”. Improvvisamente quell’espressione cambiò: qualcosa lo fece ridere molto. Negli occhi gli apparve un sorriso così felice che forse non lo vedevano da quando era bambino. Se mai lo fosse stato. Gli venne in mente di guardare fuori dalla finestra. Il fatto che la finestra fosse chiusa non lo disturbò affatto: ci infilò semplicemente la testa e poi, molto cautamente, la ritirò dentro.
+
+“È pericoloso…”, mormorò, “avrei potuto tagliarmi”.
+
+Il tassista non sentì nulla. Sir Charles guardò attraverso il vetro rotto per un momento, poi abbassò con cautela la finestra. Tornò a sporgersi fuori, sorridendo quasi fino alle lacrime, e chiese al tassista se avesse notato l’assurda pompa dei due sentinelle e degli agenti di polizia davanti a Marlborough House. Il tassista rispose semplicemente “Sì, signore”, e continuò a guidare.
+
+Per alcuni minuti Sir Charles rimase in silenzio, riflettendo e sorridendo tra sé. Poi riportò la testa fuori.
+
+“Sì, ma l’hai fatto davvero?” chiese lui.
+
+E proprio in quel momento il traffico si fermò per permettere il passaggio di un flusso veicolare proveniente da un'altra strada.
+
+“Che sciocco può diventare un uomo,” disse improvvisamente Sir Charles, senza rivolgersi a nessuno, parlando quasi ad alta voce con se stesso. “È davvero incredibile. Non riesco a capire perché abbia dovuto sporgere la testa fuori dalla finestra in quel modo per indicargli la strada. Immagino che stessi cercando di aiutarlo, ma la mia testa. Che sciocco può diventare un uomo!” Il suo volto tornò serio. Si ricordò che il tassista conosceva il suo indirizzo e pensò a come evitare l’umiliazione. Quando fossero arrivati a casa sua, avrebbe finto che si trattasse di un errore e sarebbe andato da qualche altra parte.
+
+Ancora una volta il suo umore cambiò e scoppiò in una risata quando ricordò le sentinelle. Poi il nome di un negozio, che gli fece pensare a certi mutui, lo divertì molto. Sarebbe quasi sceso dal taxi per scherzare con i proprietari di quel negozio, ma stava viaggiando velocemente per le strade e preferiva la comodità della sua situazione attuale.
 
 
 
@@ -4491,6 +5481,76 @@ His eyes changed again. “You’ve got what?”
 For the first time since her husband had decided to enter Parliament and had entered it, twenty years before, while their child was still alive, Lady Repton had to take a decision of importance. She decided in favour of the dinner. It was too late to change it, and she must trust to chance, but evidently some terrible thing had befallen the Warden of the Court of Dowry.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Molto prima di arrivare al Marble Arch, aveva già dimenticato completamente l’intenzione di mantenere il segreto. Anzi, aveva dimenticato anche della cena; sapeva solo che stava andando a casa. E quando uscì, vide sulla piccola macchina la scritta “1/10”.
+
+“Il contatore indica uno e dieci penny,” disse lentamente e seriamente al conducente, il cui viso onesto e felice rivelava chiaramente una notevole sorpresa. “Ora, non credo che queste macchine siano infallibili. Lontanamente da ciò. Ma non vale la pena discuterne, capisce? Quindi sono uno e dieci penny.” Contò con cura i soldi. “Aspetti un attimo,” aggiunse, “restituisca mi tre penny.”
+
+L’uomo esitò.
+
+“Restituitemi tre penny,” esclamò Sir Charles con irritazione, “devo sbarazzarmi di questa moneta fastidiosa, ” e consegnò la monetina offensiva.
+
+“Aspetta un attimo, aspetta,” aggiunse, “non avere fretta. Io di solito do una mancia ai tassisti. Non so davvero perché,” disse con un improvviso cambiamento d’espressione, “non c’è nessun motivo particolare, e loro guadagnano comunque molto denaro. Ma bisogna farlo. Immagino che se non lo si facesse, ” continuò in tono meditabondo, “loro troverebbero un modo per ‘marcare’ la persona, proprio come fanno con le valigie negli hotel o con l’orologio quando lo si paga in pegno.” Finì ridendo a crepapelle e dandogli una forte pacca sulle costole. “Eh?” Prese due penny, ne aggiunse un altro, poi ancora uno; tirò fuori sei penny, li rimise dentro, e alla fine gli diede i tre penny, dirigendosi verso la sua porta.
+
+Il tassista, mentre si allontanava, fece un cenno di saluto familiare a un poliziotto; piegando da un lato il viso e lasciando l’altro immobile, voleva far capire che nutriva seri dubbi riguardo al equilibrio mentale del signore che aveva appena accompagnato alla sua residenza.
+
+Ahimè, per gli uomini semplici. Il poliziotto si avvicinò a lui, lo rimproverò severamente, gli chiese cosa intendesse con quel comportamento e in generale gli fece capire che non stava trattando con una famiglia ordinaria. Quanto al tassista, appena sbarcato dal mare, continuò a riflettere, nel limite permesso dal traffico intenso, sui misteri di [[London|Londra]].
+
+Il poliziotto tornò solennemente al suo dovere: quello di vigilare sulla residenza di un cittadino così importante. Sir Charles, posando il cappello sul tavolo nell’ingresso, passò accanto ai due servitori la cui presenza in quel vestibolo aveva insistito per far sì che fossero presenti, e salì maestosamente le scale, come se l’ultima mezz’ora non fosse mai esistita.
+
+Ma durante questo percorso provava desideri inspiegabili. Prima ancora di aver raggiunto metà strada, questi desideri divennero troppo forti per lui. Si fermò, si appoggiò alla ringhiera e guardò i due domestici ben addestrati che stavano immobili sotto di lui, poi disse: “Henry!”
+
+“Sì, Signor Charles”, rispose Henry con un perfetto movimento della testa.
+
+“William!”
+
+“Sì, Signor Charles”, disse William, cambiando esattamente lo stesso atteggiamento.
+
+“Che sensazione si prova a stare lì in quel modo mentre un altro uomo, che per caso è più ricco di te, passa accanto?”
+
+I domestici ben addestrati non risposero nulla.
+
+“Sei stupido o cosa?” gridò arrabbiato. “Che sensazione provi, eh?. Idioti maledetti!” borbottò dopo aver sopportato per qualche secondo il loro silenzio continuo. Salì le scale, parlando a metà tra sé e loro: “Provate solo a dimostrarmi il contrario. C’è più denaro in un negozietto che vende vongole!”
+
+Lo trovò mentre leggeva. Lei posò il libro e gli chiese timidamente cosa fosse successo in quella casa.
+
+La sua unica risposta fu portarsi la mano alla testa e dire che stava soffrendo.
+
+E così era: a causa del dolore, sebbene meno violento, era tornato. Lei suggerì, con molta esitazione, che si sdraiasse. Lui non rispose. Si mise una mano davanti agli occhi e aspettò, con i denti stretti, finché il primo attacco di dolore non fosse passato; poi le disse dolcemente: “Perdonami, cara, cosa hai detto?”
+
+Erano passati quasi vent'anni da quando aveva sentito quel tono da parte sua. Era spaventata.
+
+“Hai chiesto cosa stesse succedendo in quella stanza?” sospirò. “Beh, posso dirtelo.” Appoggiò le mani sul camino e guardò verso il basso. “Lì dentro sta succedendo qualcosa,” disse con decisione, “di così volgare, stupido e ipocrita quanto Dio permetta, anzi, quanto l’Onnipotente Dio permetta!”
+
+“Oh Charles!” gridò lei, “Charles… c’è qualche problema?”
+
+“No,” disse, guardandola con un leggero stupore, “solo le solite cose. Nessuno ha la minima idea di cosa stia parlando, e a nessuno importa.”
+
+“Charles!” disse lei, rendendosi conto della gravità del momento, perché lui chiaramente stava soffrendo in qualche modo misterioso. “Hai lasciato tutto a posto nella tua stanza? Non hai nessun appuntamento o nulla del genere?”
+
+“Non ci avevo mai pensato,” rispose. Nei suoi occhi c'era un'espressione davvero infantile e all'improvviso aggiunse: “Si può ancora vedere com'eri quando ti ho sposata, Maria. Girati un po’.”
+
+Lo fece, con il viso pieno di colore.
+
+“Sì,” disse, “i loro profili sono davvero i migliori. Si possono ricordarli facilmente grazie ai loro profili.”
+
+“Caro Charles,” disse Lady Repton alzandosi; i suoi capelli bianchi brillavano contro il rossore della sua fronte. “Lascia che mi prenda cura di te.” Non usava un tono del genere da molti, molti anni, e non aveva mai nemmeno pensato a una tale tenerezza nei suoi confronti.
+
+“Non mi dispiace, vecchia mia,” disse lui, “non mi dispiace,” e l’innocenza nei suoi occhi continuava ad essere evidente. Poi, come se qualcos’altro stesse lottando dentro di lui, iniziò improvvisamente: “Maria, hai una lista completa delle persone che verranno stasera? Penso di no. Mi dispiace doverne parlare di nuovo. Te l’ho detto quando siamo arrivati in città per la prima volta, e te l’ho ripetuto cinquanta volte da allora: senza una lista del genere, non posso fare nulla.”
+
+“Ma l’ho trovato,” disse lei, con grande sofferenza, “l’ho trovato, Charles.”
+
+“I suoi occhi cambiarono di nuovo. ‘Cosa hai?’”
+
+“L’elenco delle persone che stanno arrivando, Charles.”
+
+“Oh. Non ho capito. L’elenco delle persone che stanno arrivando, ” ripeté lentamente. “Beh, mostramelo tra un attimo.” Si diresse verso la porta.
+
+“Verrò con te,” disse lei.
+
+Per la prima volta da quando suo marito aveva deciso di entrare in Parlamento – e ci era riuscito vent’anni prima, quando ancora loro avevano un figlio – Lady Repton dovette prendere una decisione importante. Decise di organizzare quella cena. Ormai era troppo tardi per cambiare idea, e doveva affidarsi alla fortuna. Ma evidentemente qualcosa di terribile era accaduto al Sovrintendente della Corte dei Dote.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="A Change in the Cabinet — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
@@ -4539,6 +5599,50 @@ He came back again. He remembered something: “Of course,” he said a little a
 “Oh no,” she said with the terrified look coming back again upon her face.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Mentre si vestiva, lei lo sentì di tanto in tanto canticchiare qualche melodia casuale (cosa che, nella sua normalità, non avrebbe mai osato fare, proprio come non avrebbe mai pensato di passeggiare per le strade senza cappello), e di tanto in tanto commentare il carattere e le qualità della cantante d’opera che aveva ascoltato l’ultima volta. Lo sentì anche intraprendere un lungo monologo, descrivendo in dettaglio la carriera della nuova soprano al Covent Garden, i nomi di suo padre e di sua madre, il nome del Gran Duca russo, il nome di una ricca signora inglese che li aveva invitati a cena. E poi, oh orrore! il nome di un politico inglese. Seguì una risata fragorosa che Lady Repton faticò a sopportare; dopo, silenzio.
+
+Quando si incontrarono di nuovo e gli ospiti iniziarono ad arrivare, sembrava tutto a posto, tranne che di tanto in tanto diceva cose che tutti nella stanza sapevano benissimo essere vere, ma che di certo non erano adatte all’occasione.
+
+Si riteneva eccentrico da parte sua, soprattutto da coloro che lo conoscevano meglio, il fatto che non commentasse minimamente su quale uomo fosse accoppiato a quale donna nella processione; inoltre, alla sua compagna sembrava estremamente volgare il fatto che spiegasse che l’intenso prurito al suo polpaccio destro non era causato da una pulce – poiché lui era molto attento a queste cose – ma da qualche piccolo problema cutaneo.
+
+Il rumore delle conversazioni durante la cena sovrastava qualsiasi altra indiscrezione; quando gli uomini rimasero da soli con lui davanti al vino, lui sedeva con un'aria molto cupa, chiaramente cambiato d’umore, ma senza aver commesso nulla di eccezionale, se non una totale ignoranza riguardo alla provenienza o alla natura di quel vino.
+
+Iniziarono dei disaccordi con un membro del suo stesso partito, un individuo presuntuoso e poco conosciuto, che cercava di parlare in modo erudito di vino. Repton esordì dicendo: “Ma cosa ne sai tu del vino? Diamine, tuo padre non ti avrebbe nemmeno permesso di berne quando andavi a prendere la birra per la cena!” Così aveva iniziato a ricordare le umili origini di quel politico, quando aggiunse: “Ma insomma, a che serve litigare? Siete tutti uguali, ” La sua evidente malattia lo scusava. Li riportò quindi dalle donne; erano un gruppo cupo e deprimente. Se ne andarono insolitamente presto.
+
+L’ultimo ad andarsene era un uomo molto onesto: stupido, diretto e ricco. Amava Charles Repton semplicemente perché quest’ultimo gli aveva una volta reso un grande servizio in una questione legale, impedendo che venisse intentata una causa contro di lui. Da allora – ormai erano passati cinque anni – quell’uomo era sempre stato pronto a servire quella famiglia. Il suo nome era Withers; era un cittadino comune e rappresentava la circoscrizione di Ashington in parlamento. Non solo provava questo sentimento di lealtà verso Charles Repton, forse l’unico uomo a [[London|Londra]] ad averlo; ma provava anche una semplice ammirazione per lui: per la sua carriera, per i suoi discorsi, per la sua capacità di inserire, in modo spontaneo, frasi come “bene”, “ora” o “chiedo alla Camera di prestare attenzione” nelle sue argomentazioni ben confezionate. Lady Repton aveva fiducia in lui e le piaceva vederlo rimanere lì, da solo, dopo che gli altri se n’erano andati. Charles Repton sedeva in un angolo della stanza, fissando il nulla.
+
+Withers sussurrò velocemente alla signora Repton per chiederle cosa fosse accaduto. Lei non poteva dirgli nulla, ma i suoi occhi si riempirono di lacrime.
+
+“Non sarebbe meglio,” disse Withers in fretta, a bassa voce, “se lo facessi tornare indietro per votare stasera? Alle undici ci saranno tre divisioni. Sicuramente scoppierebbe uno scandalo se non si presentasse.”
+
+“Sì, no, molto bene,” disse Lady Repton. “Non capisco. Non capisco nulla.” Stava per scoppiare in lacrime.
+
+“Repton,” disse Withers, “non verrai con me? Sono le dieci e mezza, ci saranno tre divisioni.”
+
+Repton li spaventò a morte entrambi. “Divisioni?” gridò, alzandosi di scatto. “Andare laggiù e rincorrere quelle scatole verdi in gruppi numerosi senza alcun motivo? Assolutamente no! Posso già indovinare che siete in maggioranza. E anche se non ci fosse una maggioranza, mi piacerebbe davvero sapere quale differenza farebbe! Divisioni. Ah, andatevene!” E dopo aver detto questo, si sedette di nuovo.
+
+Withers non sapeva se restare o andarsene, ma prima che potesse rispondere, Charles Repton continuò con tono del tutto normale: “Non riesco a capire come un uomo come te, Withers, possa sopportare una situazione del genere. Sei ricco, sei nato gentiluomo, il che io non sono; in Buckinghamshire saresti ugualmente rispettato, soprattutto oggi che la contea è piena di ebrei. Se solo non fossi membro del Parlamento: saresti infinitamente più libero. Sai benissimo che il paese andrà avanti sia con queste sciocchezze che senza. E che nulla, né questo né altro, potrà impedire il suo declino. Perché non vai a vivere la tua vita da gentiluomo, come farebbe una persona sensata? E prega solo di morire prima che tutta questa follia finisca.”
+
+“Vieni con noi, Charles”, disse Withers in tono gentile, “per favore, vieni.”
+
+“No, io no!” disse Repton, “Vado a letto. Sono stanco e mi fa male la testa!” E se ne andò via come un bruto.
+
+“Lady Repton,” disse Withers molto gentilmente dopo che se ne fu andato, “che cosa deve fare Charles domani?”
+
+“Non mi dice mai nulla,” disse la povera donna. “Suppongo che andrà in città, come al solito.”
+
+“È molto imprudente,” disse Withers, “ma in fondo non ne sono sicuro. Forse essere impegnato in qualche attività potrebbe essergli d’aiuto, e inoltre lo avrete lontano da casa mentre pianificate le vostre cose. Farò del mio meglio, Lady Repton. Domani è la riunione della Van Diemens Company, vero?”
+
+“Non riesco a capire,” disse Lady Repton con disperazione. Non vedeva l’ora di prendersi cura di suo marito. Negli ultimi ore, mentre lui non era al suo fianco, aveva iniziato ad avere terribili paure.
+
+“Sì, lo è,” disse Withers. “Oh, andrà tutto bene. Gli farà un gran bene. Ne sono sicuro. Buonanotte.”
+
+Tornò di nuovo. Si ricordò di qualcosa: “Certo,” disse un po' imbarazzato, “non so nulla di queste cose, ma ho letto sul giornale che avrebbe dovuto parlare al grande raduno dei Wycliffiti. Non lasciatelo andare lì, Lady Repton, finché non siete completamente sicura, va bene?”
+
+“Oh no,” disse lei, con quell'espressione di terrore che le riapparve sul viso.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_04" data-title="A Change in the Cabinet — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/satire_of_society,concept/fame_and_publicity,concept/hypocrisy,concept/ambition,form/satire,form/novel,setting/london"></span>
@@ -4564,6 +5668,28 @@ His interview with Sorrel had been exceedingly satisfactory, and never in his li
 
 So ended for George Mulross Demaine that Monday, June 1st, 1915.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non è come fare affari,” disse Withers. “Ci sarebbe emozione, sai. Buonanotte.” E se ne andò.
+
+Tra gli ospiti di Charles Repton che erano membri della Camera dei Comuni, alcuni avevano già fatto ritorno al loro ruolo parlamentare. Uno o due di loro avevano accennato al fatto che qualcosa non andasse del tutto bene con Repton, ma Wheners, tornato appena in tempo per le votazioni, non trovò alcun pettegolezzo e ne fu profondamente grato. Solo un uomo, che era stato presente alla cena, lo prese da parte nel corridoio e gli chiese se Charles Repton avesse incontrato qualche problema.
+
+Withers liquidò la domanda con una risata e spiegò che conosceva Repton da molti anni e che di tanto in tanto questi sciocchi accessi d'ira gli capitavano. Disse che era dovuto alla digestione; forse l'ospite aveva notato che non c'erano cipolle.
+
+C'era qualcosa di molto più interessante su cui spettegolare in quella casa, perché dopo le divisioni interne, si vide Demaine entrare nel suo ufficio con il Primo Ministro, tenendosi per mano, per un momento. Ultimamente c'erano state molte voci riguardo a Demaine; quell’incontro ne aumentò ulteriormente il numero.
+
+Alcuni membri, più curiosi o esigenti degli altri, interrogarono i giornalisti nelle lobby: avevano delle notizie da condividere.
+
+Tutto era stato sistemato. I paragrafi erano stati inviati ai giornali. Ogni corrispondente presente in lobby disponeva di metodi particolari e unici per venire a conoscenza del fatto che si prevedevano alcune modifiche nel Gabinetto nei prossimi tempi; inoltre, si sapeva che la Camera dei Lord avrebbe ricevuto il rafforzamento grazie all’aggiunta di personalità universalmente rispettate. Erano stati menzionati diversi nomi per quella posizione vacante; forse il signor Demaine, con la sua formazione speciale e l’esperienza maturata nei suoi viaggi, rappresentava la scelta più appropriata.
+
+Ecco quindi come l’annuncio era stato dato, nella sua forma più vaga, dal segretario del Primo Ministro; a due o tre giornali selezionati era stato permesso di dichiarare senza alcun dubbio che Charles Repton aveva rassegnato le dimissioni; veniva suggerito anche il titolo esatto con cui avrebbe accettato un titolo nobiliare, e Demaine veniva indicato in modo chiaro e preciso come suo successore.
+
+Tutto ciò fu detto a Demaine quella sera nella stanza del Primo Ministro.
+
+Il suo colloquio con Sorrel era stato estremamente soddisfacente; mai in vita sua, nemmeno nei momenti in cui avrebbe potuto spendere la maggior parte del denaro di suo suocero, Demaine aveva provato un rispetto così totale e un servizio così attento. Si sentiva già come il Warden. E, cosa ancora più importante, si riteneva perfettamente adatto a ricoprire quella carica. Il suo umore migliorava di minuto in minuto; dimenticò completamente Sudie. Non le aveva nemmeno detto quando sarebbe tornato a casa. Strinse la mano a suo cugino con calore, come avrebbe fatto un provinciale, e uscì dall’ingresso situato sotto Big Ben, per calmare l’euforia della sua gioia respirando l’aria fresca della notte lungo il Embankment. Erano quasi le dodici.
+
+Così finì la vita di George Mulross Demaine quel lunedì, 1° giugno 1915.
 
 
 
@@ -4606,6 +5732,44 @@ With that he wormed his way through the increasing mob and disappeared into a ta
 
 The driver, now convinced that he had to do with something quite out of the ordinary, touched his cap in a manner almost military, and fled through the streets of [[London]]. At a Boy Messenger’s office Sir Charles sent home for clothes and for a change, got to his Club, informed the astonished porter that it was a very fine day, that he had just had a fight on the top of a bus, that by God the Johnnie didn’t know who he was tackling! He, Sir Charles, was no longer a young man, but he would have shown him what an upper cut was if he could have got a free swing! He proceeded to illustrate the nature of this fence — then suddenly asked for his letters, and for a dressing-room.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IX
+
+Quando Sir Charles Repton si svegliò quella mattina di martedì, si sentì meglio di quanto non si fosse mai sentito da quando aveva perso la sua giovinezza. C'era qualcosa di leggero nell’aria intorno a lui, e nella sua mente una mancanza di preoccupazioni e di conflitti che all’epoca non riuscì a spiegare, ma che forse, in modo vago, attribuì alla purezza dell’aria e alla bellezza di quella giornata.
+
+Il sole filtrava attraverso le sue finestre, proveniente dal parco. Faceva già caldo, e mentre si vestiva e si radeva, lasciò che i suoi pensieri vagassero, con una libertà insolita, su quelle cose semplici della vita. Notò il colore degli alberi; gli fece piacere vedere la felicità delle persone che passavano per strada; provò un’inspiegabile simpatia verso l’umanità. E persino un senso di disprezzo quando osservò quella lunga fila di case ricche che delimitavano il percorso di Park Lane.
+
+A colazione mangiò con appetito, anche se era solo; guardò la piccola pila di lettere che lo aspettavano e, quando aprì il giornale, scoppiò davvero a ridere alle opinioni espresse nell’articolo di prima pagina. Rischiò di ridere di nuovo leggendo le notizie dall’America; poi, con un gesto che spaventò i due servitori solenni che avevano osservato quel cambiamento improvviso nel comportamento del loro padrone, strappò rapidamente il giornale in quattro pezzi e lo gettò a terra. Dopo aver fatto questo, si alzò allegramente, salutò i servitori e, senza alcun scopo preciso ma solo per abitudine, salì su un autobus diretto verso est.
+
+Il direttore d’orchestra, che rispettava molto l’abbigliamento di Sir Charles Repton, soprattutto i suoi stivali, e sembrava riconoscere anche il suo volto, gli chiese gentilmente quanto fosse disposto a spendere per un biglietto; a cui lui rispose in tono spensierato: “Certo, un penny. Mai spendere di più di un penny; così, se quel maledetto aggeggio si rompe, non ci rimetti nulla. Anzi,” proseguì come se parlasse da solo, “se ti dimenticano, con lo stesso denaro puoi ottenere qualcosa che vale anche due o tre penny!” E rise.
+
+Il direttore lo guardò prima con terrore, poi sorrise e si avvicinò per aiutare le persone meno fortunate; intanto Sir Charles canticchiava sommessamente tra sé, un po’ stonato, ma comunque allegramente, una melodia che evocava immagini piuttosto audaci.
+
+Il tetto dell’autobus era piuttosto pieno; un operaio che doveva viaggiare nella stessa direzione degli altri passeggeri decise di sedersi nell’unica postazione libera, accanto al baronetto. Sarebbe stato difficile stabilire a quale attività questo onesto uomo si dedicasse ultimamente. Ma sicuramente c’erano tracce di olio, fango umido, probabilmente fuliggine, e anche notevoli quantità di rame ossidato. Non sorprendeva quindi che, con un compagno del genere – soprattutto considerando che si trattava di un uomo robusto – Sir Charles si trovasse in condizioni piuttosto scomode. Ciò che invece era davvero notevole era il modo in cui il baronetto esprimeva la sua irritazione: si girò verso l’operaio con un’espressione infastidita e disse.
+
+“Non capisco proprio perché permettano a persone come te di salire sugli autobus…”
+
+“Non sei abbastanza bravo?” disse il capofamiglia con voce minacciosa.
+
+“Dico che non riesco a capirlo,” rispose Sir Charles, scegliendo attentamente ogni parola: “Non riesco a capire perché permettano a persone come te di salire sugli autobus. Bestie sporche, per così dire. Perché diavolo, ”
+
+In quel momento, il lavoratore afferrò Sir Charles per il colletto. Sir Charles, sebbene fosse un uomo più anziano, non era affatto debole; il suo corpo alto e snello era ancora agile e forte, e quella mattina si sentiva stranamente in forma. Infilò il pollice e l’indice della mano sinistra sotto il mento del suo avversario, e così iniziò una rissa che prometteva di essere molto intensa. Tutti coloro che si trovavano sul pullman si alzarono in piedi; una donna scoppiò a ridere, mentre un uomo robusto che cercò di intervenire ricevette un violento schiaffo dalla mano sinistra del lavoratore. Il polso di quest’ultimo era infatti stretto saldamente nella mano destra del politico, che lo strattonava con forza.
+
+L’autobus si fermò, si radunò una folla; il lavoratore, come è consueto nelle persone laboriose, fu facilmente placato. Sir Charles, piuttosto turbato, scese dall’autobus e, porgendo due scellini a un poliziotto che stava per prendere appunti, disse ad alta voce:
+
+“Va bene così! Non puoi fare nulla contro di me, e ovviamente posso impedire che la cosa venga pubblicata sui giornali; ma è sempre meglio dare dei soldi a un poliziotto, una regola infallibile!”
+
+Così facendo, si fece strada tra la folla sempre più numerosa e scomparve dentro un taxi; il conducente, con una saggezza davvero notevole, partì immediatamente senza chiedere alcuna indicazione. Una volta lontano dal luogo, Repton sporse la testa fuori dal finestrino e disse al conducente le seguenti parole straordinarie:
+
+“Non so davvero dove sia meglio che tu vada: certo, se vieni al mio Club potrei sistemarti lì” (il suo colletto era strappato e il cappello molto danneggiato) “ma in generale sarebbe meglio portarmi da Guy. No, aspetta, vai prima al Club. Fermati lungo la strada da un ragazzo messaggero.”
+
+“Quale club, signore?”, chiese il conducente con il rispetto dovuto a un uomo allo stesso tempo ricco e pazzo.
+
+“Non te ne accorgerai,” disse Sir Charles con gentilezza, continuando comunque a sporgersi fuori dalla finestra in modo goffo. “A proposito, perché non hanno un tubo per la comunicazione o qualcosa del genere dall’interno verso di voi? È davvero scomodo dover girare la testa fuori come un serpente. Non te ne accorgerai, ma ti griderò quando arriveremo in fondo a St. James’s Street.”
+
+Il conducente, ormai convinto che si trattasse di qualcosa di davvero insolito, si toccò il cappello in un modo quasi militare e fuggì per le strade di [[London|Londra]]. In un ufficio di messaggeri, Sir Charles mandò a prendere i vestiti a casa e, finalmente, arrivò al suo club. Informò l’assonnato portiere che era una giornata meravigliosa, che aveva appena avuto una rissa su un autobus. E che, per Dio, quel tizio non sapeva nemmeno con chi stesse litigando! Lui, Sir Charles, ormai non era più un giovane, ma gli avrebbe dimostrato cosa significasse un colpo efficace se solo avesse potuto sferrarlo liberamente. Poi chiese di vedere le sue lettere e di essere accompagnato in bagno.
 
 
 
@@ -4651,6 +5815,46 @@ He paused a moment, more for breath than for anything else, for he had been spea
 “The question is, ladies and gentlemen, at what price have you bought ... on the average? Many of you are country parsons, many of you ladies with far more money than you have knowledge what to do with it. Not a few of you stock-brokers — an exceptionally inexperienced class of men — you are a fair average lot of British investors, and I ask at what price did you buy?” He looked at them fixedly for a few moments, then pulling out a scrap of paper he read it briefly:
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo tutto ciò, che era avvenuto in modo estremamente rapido e violento, salì le scale, rimase fermo per qualche momento con le mani in tasca a fissare i telegrammi, dimenticando completamente di non avere il colletto, che il suo cappotto fosse strappato, che avesse del sangue sulle mani e che metà della sua giacca fosse aperta, con due bottoni mancanti. Trovò alcuni telegrammi interessanti; non notò gli sguardi delle persone che entravano e uscivano dall’edificio, né l’atto di un paggio che, passando accanto alla cabina del portiere, gli batté due volte la fronte con il dito indice.
+
+Rimase fermo per un momento a riflettere, poi gli venne improvvisamente in mente che sarebbe stato più saggio tornare direttamente a casa. Prese un altro taxi e si diresse verso la sua abitazione. Lì, dopo una breve discussione con il maggiordomo nella quale ripeté tutto ciò che aveva già detto loro al Club, ordinò che gli preparassero i vestiti e si fece un bagno molto rilassante.
+
+Per sua fortuna, al suo ritorno trovò sul tavolo una nota che aveva lasciato lì la sera prima riguardo all’incontro con i Van Diemen.
+
+“Me n’ero dimenticato,” disse, con un tono piuttosto serio. “Per fortuna l’ho trovato.”
+
+Lo prese in mano, lo piegò una o due volte, poi lo aprì e lo rilesse forse tre volte; mentre era impegnato in queste attività, sentì la voce seria della sua segretaria che lo pregava di andare in città in macchina.
+
+Repton, per il momento, non vedeva alcuna connessione tra le sue recenti avventure e questa richiesta, ma era completamente disposto ad obbedire; annuì allegramente e aspettò che la macchina arrivasse. Quando arrivò, la esaminò attentamente per un momento, confidò al conducente che gli dispiaceva moltissimo il suo colore, ma che si trattava comunque di una buona affare e non avrebbe speso soldi per cambiarla, poiché aveva intenzione di venderla a qualche sciocco alla fine della stagione. Poi salì in macchina e fu portato all’Hotel Cannon Street.
+
+Arrivò un po’ in ritardo. La piattaforma era già occupata, e la sua sedia vuota lo aspettava lì.
+
+Al suo arrivo ci furono alcuni applausi, quelli che naturalmente si riservano all’uomo riconosciuto come il cervello direttivo di tutto quel progetto. Nessuno notò alcun cambiamento in lui: i suoi abiti forse erano un po’ meno impeccabili del solito; era insolito vederlo stiracchiarsi due o tre volte prima di sedersi, e coloro che lo conoscevano meglio, presenti nelle immediate vicinanze della piattaforma, rimasero sorpresi nel vederlo sorridere e salutare affabilmente alcuni dei direttori meno importanti. Nel complesso, si comportò in modo abbastanza normale; e se sussurrò a un collega alla sua destra che sembrava aver bevuto un po’ troppo durante la notte, quel commento insolito fu lasciato passare senza commenti.
+
+Quando arrivò il momento di parlare, si alzò in piedi, forse un po’ troppo rapidamente, si rivolse al suo pubblico con meno della solita solennità, anzi, con un sorriso quasi impercettibile, e intonò la prima nota del suo grande discorso in un modo che nessuno aveva mai sentito dalle sue labbra fino ad allora.
+
+Certamente era un gesto calcolato per attirare la loro attenzione, se non per convincerli; le prime parole che gridò nella sala furono proprio queste:
+
+# “Perché siamo qui?”
+
+Dopo quella domanda retorica, pronunciata con un urlo che avrebbe riempito la più grande stazione ferroviaria di [[London|Londra]], la ripeté con un tono leggermente più basso, strinse i pugni e li batté con forza sul tavolo, rispondendo come se stesse emettendo una sentenza definitiva:
+
+“Denaro!, ”
+
+“Signore e signori,” continuò, alzando la mano destra e agitando il dito indice verso di loro, “siamo qui per i soldi! E non dimentichiatevelo!”
+
+“Trasse un lungo respiro, li osservò per un momento con aria perplessa e poi continuò…”
+
+“Quello che la maggior parte di voi manca di più è la capacità di pensare chiaramente. Lo si vede sui vostri volti, lo si nota nel modo in cui vi sedete. Le persone che non sanno pensare con chiarezza non riescono a guadagnare denaro. Nessuno può pensare con chiarezza se non ha una buona comprensione dei propri principi fondamentali e se non sa prima di tutto cosa vuole, prima ancora di cercare di ottenerlo. Bene, lo ripeto: quello che vogliamo è denaro! Diciamolo chiaramente, fissiamoci su questo obiettivo. E una volta che l’avremo ben chiaro nella nostra mente, potremo passare a considerare come ottenerlo.”
+
+“Ora, signore e signori,” proseguì in tono più colloquiale, strofinandosi le mani e sorridendo loro con eccessiva naturalezza, “diamo prima un’occhiata alla situazione attuale. Qui davanti a me, e intorno a questa piattaforma (fece un ampio gesto con il braccio destro), ci sono quattro milioni di sterline in azioni della Van Diemen’s Land Company. Quattro milioni di sterline, signore e signori! Ma aspettate un attimo. A quale prezzo sono state acquistate queste azioni? Non sto chiedendo a quale prezzo le ho comprate io,” – guardò intorno, osservando i volti delle centinaia di persone presenti – “non mi interessa il prezzo con cui le ho acquistate: la mia posizione è diversa dalla vostra; io sono al centro della situazione e la mia funzione ufficiale mi permette di ottenere informazioni che non potrei mai raccogliere con i miei soliti, eccellenti mezzi di osservazione. Ho trascorso tutta la mia vita a seguire i mercati finanziari. E non mi è mai importato nulla, ripeto, NULLA, se non il profitto. Non ho mai prestato attenzione a discorsi sul ‘sviluppo di un paese’, sulle ‘possibilità’ o sul ‘futuro’: ho semplicemente comprato e venduto azioni. E ci sono riuscito molto bene.”
+
+Si fermò per un momento, più per riprendere fiato che per altro, poiché aveva parlato molto velocemente; e nel silenzio terrorizzato che lo circondava si udì Bingham mormorare, come se rispondesse a qualche domanda sussurrata: “Lasciatelo in pace! Forse non è convenzionale, ma, ”
+
+“La domanda è, signore e signori, a quale prezzo avete acquistato, in media? Molti di voi sono preti di campagna, molti di voi donne con molto più denaro di quanto sappiano come gestirlo. Non pochi di voi sono broker azionisti – una classe di uomini estremamente inesperta – insomma, rappresentate la media degli investitori britannici. Vi chiedo quindi: a quale prezzo avete acquistato?” Li fissò per alcuni momenti, poi tirò fuori un pezzetto di carta e lo lesse brevemente.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="A Change in the Cabinet — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/greed_and_money,concept/deception,concept/satire_of_society,concept/empire_and_imperialism,concept/power_and_corruption,form/satire,form/novel"></span>
@@ -4691,6 +5895,42 @@ He drank from a glass of water on the table, turned round angrily and said: “G
 Two or three voices rose in protest at the back of the hall. Sir Charles leaned forward and put out his hand appealingly: —
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Dai dati che mi sono stati forniti, risulta che il prezzo medio con cui gli attuali azionisti hanno acquistato le azioni sia stato di otto sterline sedici scellini e qualche penny,” e poi aggiunse: “Chiamiamolo otto sterline. È sempre meglio essere dalla parte dei conservatori.”
+
+Di fronte a questo commento che avrebbe dovuto contenere una battuta politica, due anziane signore sedute nella seconda fila iniziarono a ridacchiare, ma quando si resero conto di essere sole, smisero di ridere.
+
+“Dico che si calcoli otto libbre. Beh, quei quattro milioni di azioni equivalgono a trentadue milioni di libbre. Trentadue milioni di libbre!” disse alzando la voce; “TRENTADUE MILIONI DI LIBRE!” gridò, battendo il pugno sul tavolo e chinandosi in avanti con decisione, “E cosa ne resta? Niente!”
+
+Alla fine di questa frase straordinaria calò di nuovo un silenzio tombale, e si sentì Bingham mormorare nuovamente: “Lasciatelo in pace; lui sa quello che fa!” Un certo movimento nervoso dei piedi dietro di lui fece sì che Repton girasse bruscamente la testa; poi guardò intorno ancora una volta e riprese il suo lungo discorso.
+
+“Non dico nulla. Oh! So che ci sono alcuni di voi abbastanza stupidi da pensare di avere ancora sedici sterline e tre penny a testa. Era quella la cifra riportata sul giornale stamattina. Eugh!” disse con sarcasmo, “Provate pure a venderla a quel prezzo e vedrete subito cosa avete in realtà! No. Non avete nemmeno quelle sedici sterline e tre penny. Non avete nemmeno due scellini per ogni sterlina che avete investito. Non avete niente! Niente! Niente!! Mettetevelo in testa e, fumatelo, ”
+
+“E così, signori,” aggiunse, appoggiandosi all’indietro e infilando i pollici nella giacca, “la questione che abbiamo davanti è come uscire da questa situazione difficile. Forse alcuni di voi,” proseguì, aggrottando la fronte in segno di riflessione, “pensano che il Governo sia disposto ad intervenire. Beh, io faccio parte del Governo e posso dirvi che non è così.”
+
+Di fronte a questa affermazione orribile, tutti i sostenitori della rivoluzione presenti sul palco quasi esplodettero di indignazione, ma il peso considerevole di Bingham rimase inalterato; e, se posso usare una frase con cui il lettore sarà già familiare, egli suggerì che Sir Charles sapesse bene ciò che stava facendo e che quindi bisognasse lasciarlo in pace.
+
+“Anche se decidessero di acquistare,” proseguì Repton con serietà e argomentazione, “difficilmente potrebbero offrire di più del valore nominale. Sono l’ultimo ad occuparmi di opinione pubblica o simili questioni. Il vero motivo per cui non compreranno è dovuto agli irlandesi. Ma anche se lo facessero, difficilmente pagherebbero di più del valore nominale. E qual è il valore nominale?” chiese con grande disprezzo. “No, quel gallo non combatterà. Ovviamente, non sto dicendo che in passato non si sarebbe potuto convincere il governo ad acquistarlo per guadagnare un po’ di tempo. Penso di sì. Ma ora è impossibile.”
+
+“Non credo che ci sia nemmeno un uomo su entrambi i banchi frontali, ” disse meditativamente, battendo il dito indice di una mano contro quello dell’altra, “che abbia un interesse personale in questa questione; inoltre, non credo esista alcun legame diretto tra il Gabinetto e chiunque possa averne – tranne me. No, quella non è la soluzione. Quello che dovete fare, signore e signori, è usare un’esca piccola per catturare una balena.”
+
+“Un sgombro, ”, ripeté meditativamente, “per catturare una balena. Una grande balena piena di grasso. E come pensi di farlo?”
+
+“Ora ascoltate” – il suo tono era diventato molto serio; si sporse in avanti, fissandoli con i suoi occhi grandi e intensi – “ascoltate: ci sono tre fasi. Prima di tutto, dovete dimostrare al pubblico che credete nel futuro dell’azienda; poi dovete trovare un modo per far credere a tutti che voi, gli azionisti, crediate davvero in quel futuro. Qual è la terza fase? Far aumentare il prezzo – il prezzo reale, cioè l’importo offerto in denaro – e solo allora potrete vendere. Questa è la mia opinione”, concluse, battendo le mani e appoggiandole sul tavolo davanti a sé; poi lasciò che quelle parole facessero effetto.
+
+“Ora noterete,” proseguì, “nel prospetto che avete ricevuto, alcune menzioni riguardanti una ferrovia. Vi chiediamo denaro per costruire questa ferrovia. Ma perché lo facciamo? Per favore, seguite attentamente le mie spiegazioni.”
+
+Le centinaia di teste si piegarono in avanti; le intelligenze che esse racchiudevano erano pronte ad seguirlo attentamente. Era un grande uomo.
+
+“Vi abbiamo chiesto di costruire una ferrovia,” disse, lasciando un po’ di tempo tra ogni parola, “perché le ferrovie continuano ad avere successo. Non so perché, ma è così. Le miniere invece no. Potreste trovare minerali ovunque, ma non servirebbero a nulla: ho due miei uomini, ingegneri, esperti, che sarebbero in grado di trovarne tonnellate entro le tre del pomeriggio. Potreste giurare su tutto ciò che avete di più caro, ma il pubblico non vi crederebbe. Per quanto riguarda l’agricoltura. Piff! E il clima. Boo! Ma le ferrovie funzionano comunque.”
+
+“Molto bene. Lei raccolga i fondi necessari per costruire la sua ferrovia. Quello che questa ferrovia potrà realizzare è descritto in dettaglio davanti a noi, e non mi soffermerò su questo argomento. Tuttavia, le chiedo di prestare particolare attenzione al passaggio in cui si afferma che essa conferirà all’Impero una supremazia strategica. Lei sa cos’è l’Impero. Alcuni di voi forse sanno anche cosa significhi ‘strategia’. Sembra proprio che tra di voi ci siano alcuni generali capaci. Ma lasciamo perdere: si tratta semplicemente di notare questa frase. Si tratta della sicurezza! Niente rischi, niente pericoli legati a battaglie o conflitti in qualsiasi luogo. Ottimo!”, “Inoltre,” rifletté, “si potrebbe anche fare qualcosa riguardo al lato turistico. Ci sono cascate, montagne e altre attrazioni. Ma non importa: l’essenziale è la ferrovia.”
+
+Bevve dall’acqua in un bicchiere sul tavolo, si girò arrabbiato e disse: “Dio mio, che acqua! È già abbastanza spiacevole dover bere acqua in pubblico per uno spettacolo, ma non dovrebbe nemmeno essere tiepida! Se questo posto non fosse così pubblico, la sputerei di nuovo!” Poi, rivolgendosi di nuovo al pubblico: “Comunque, riguardo a quella ferrovia. Prima di tutto, signore e signori, capite bene che quella ferrovia non verrà costruita! Non c’è alcuna intenzione di costruirla. Non c’è nemmeno l’intenzione di effettuare i rilievi necessari.”
+
+Due o tre voci si alzarono in protesta nella parte posteriore del salone. Sir Charles si sporse in avanti e tese la mano con un gesto supplichevole: —
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_04" data-title="A Change in the Cabinet — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
@@ -4730,6 +5970,42 @@ An angry fanatic hearing the word “gin” rose at once and put the supplementa
 
 “Yes,” said the Warden of the Court of Dowry politely, “Yes sir, you may: but they will never get it. However, several thousand tons of gin I am glad to say have gone out to the negroes of our colonies since the ship was lost, to the no small advantage,” he added, “of my friend Mr. Garey; whom, by the way,” he continued with conversational ease, “we all hope to see in this House shortly, for old Southwick who’s up against him hasn’t got a dog’s chance, and you probably know that we are forcing Pipps to resign. Bound to be an election!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Un attimo, un attimo solo. Ascoltatemi! Non intendo dire che nessuno lo costruirà; non è quella la nostra fine. Intendo dire che noi non lo faremo. La ‘Compagnia’ forse sì, ma voi e io, le persone che siamo finite in questa situazione, noi no. Non saranno i nostri soldi a finanziarlo. Capite? Questo è la chiave di tutto.”
+
+Piccoli sospiri e un profondo sospiro, ma nessuna interruzione seguì questa spiegazione; Sir Charles continuò con perfetta calma.
+
+“Quello che vogliamo sono cinque scellini per azione, solo cinque scellini per azione. Cinque scellini, mentre la maggior parte di voi ne ha già dati centosessanta! Cinque scellini per azione, quattro milioni di azioni, quindi un milione in totale. E state attenti: si tratta solo di un milione nominale. Non vogliamo le vostre due mezzo-crown; no, grazie mille. Quello che vogliamo in contanti è soltanto uno scellino. Per il resto, vedrete tra un momento. Ebbene, eccovi qui: uno scellino, un misero scellino. Ora vediamo cosa riuscirà a fare questo scellino, ”
+
+“Prima di tutto, ci darà molta pubblicità. Un elemento fondamentale della vita pubblica, e anche un ottimo strumento per gli affari! Avremo quella ferrovia segnata con una linea tratteggiata su tutti i mappe: quelle scolastiche, quelle degli uffici. Ci saranno leader che ne parleranno, discorsi al riguardo, e anche critiche severe. E poi, ”, abbassò la voce in un tono molto confidenziale, “il prezzo inizierà ad aumentare. Oh, il vero prezzo, cari soci miei, il prezzo a cui si potrà davvero vendere quel prodotto, il prezzo con cui si potranno realizzare buoni affari.”
+
+Emise un profondo sospiro di soddisfazione. “Ora capite? Venderà subito per quaranta scellini, dovrebbe vendere per quarantacinque, forse anche per sessanta. E poi,” disse con decisione, cambiando improvvisamente tono, “allora, miei cari, vendete pure tutte le vostre merci: sbarazzatevene. Ci sono molti altri sciocchi là dove venite voi. Non vi consiglio di vendere soltanto perché vi sembra opportuno. Ognuno per sé, e anche ogni donna,” aggiunse, inchinandosi educatamente alle due anziane signore sedute nella seconda fila, “e che il diavolo prenda chi rimane indietro. Ma tutti voi otterrete qualcosa; nessuno perderà tutto come sembrava la scorsa settimana. La maggior parte di voi perderà al prezzo iniziale. Chi arriva tardi perderà meno. Alcuni di voi guadagneranno se avranno comprato a meno di due sterline. Comunque, io farò la mia parte. Ecco! Se questo non è fare affari, allora non so cosa lo sia!”
+
+E con un grande sorriso felice, finale, soddisfacente e conclusivo, il Costruttore di Imperi, per la meraviglia di tutti, guardò l’orologio, chiamò il proprio Creatore a testimoniare dell’ora tarda, e poi uscì all’improvviso.
+
+Sarebbe delizioso descrivere ciò che accadde nella vasta sala dopo che il Presidente l’aveva lasciata: come gli azionisti iniziarono a fare un rumore assordante, simile al ronzio di api arrabbiate; come un curato che non aveva mai fatto del male a nessuno fu spinto contro un muro e si ruppe due costole; come cinque o sei uomini eccitati e quasi in lacrime circondarono i giornalisti lottando per le loro agende; come Bingham continuò a ripetere che Charles Repton sapeva esattamente ciò che stava facendo; e come un certo uomo tranquillo, dal viso abbronzato e dagli occhi molto umoristici, vendette rapidamente tutte le sue azioni a un giovane e robusto gentiluomo coloniale, ricco e venuto a [[London|Londra]] per imparare i metodi di affari della nostra [[City]].
+
+Ma devo seguire Sir Charles nel suo rapido viaggio verso la Camera dei Comuni. Devo menzionare il suo commento poco convenzionale rivolto al poliziotto, secondo cui sperava che quel vecchio sciocco Pottle non fosse ancora arrivato; e il modo in cui prese il suo posto nella prima fila subito dopo le preghiere, con un'espressione così allegra e spensierata da illuminare i volti di coloro seduti di fronte a lui come se fosse il sole.
+
+Le domande a cui doveva rispondere erano poste piuttosto verso la fine del documento, e causò non poco scandalo suggerendo ai suoi colleghi, con voce bassa, risposte che a lui sembravano al contempo umoristiche e appropriate alle loro domande.
+
+Il vecchio Segretario dell’Interno gli offrì particolari opportunità per praticare sport; quando fu posta una domanda riguardo ai nuovi moli dell’Ammiragliato a Bosham, arrivò persino al punto di lanciare un biglietto al principale appaltatore, che sedeva seriamente sulle panche dietro di lui, annuendo allegramente e sussurrando ad alta voce: “È tutto a posto!”
+
+Tutto ciò presagiva qualcosa di negativo per quando sarebbe arrivato il suo turno; e infatti, la scena che seguì fu del tutto nuova nella lunga storia della Camera dei Comuni.
+
+Era una domanda semplice; la Domanda 63. Non erano rimasti che dieci minuti di tempo per le domande quando fu posta. Fu formulata da un uomo gentile e tranquillo, che l’aveva proposta per conto di un amico che viveva sulla Costa Sud, e consisteva semplicemente nel chiedere al rispettabile Baronetto, Sovrintendente della Corte dei Dote, se avesse notato la presenza su quelle secche reali di un relitto che rappresentava un pericolo per la navigazione, e cosa intendesse fare al riguardo.
+
+Charles Repton balzò in piedi come un uccello; lesse con allegria e rapidità la risposta scritta a macchina che i suoi funzionari gli avevano inviato: si trattava di una conferma del fatto che non avesse nulla da aggiungere alla risposta data tre anni prima riguardo allo stesso relitto, il quale, precisavano con cura, all’epoca era molto più pericoloso di quanto lo sia oggi.
+
+Ma quando ebbe finito di leggere la risposta ufficiale, alzò lo sguardo con cordialità verso il suo interlocutore e disse:
+
+“Non vogliamo interferire con quel relitto: è pieno di gin!”
+
+Un fanatico arrabbiato, sentendo la parola “gin”, si alzò immediatamente e pose questa domanda aggiuntiva: “Posso chiedere se quella gin era destinata ai sfortunati abitanti delle zone interne di Lagos?”
+
+“Sì,” disse educatamente il Sovrintendente della Corte dei Dote, “Sì signore, potete farlo; ma loro non lo otterranno mai. Tuttavia, devo dire con piacere che da quando la nave è andata persa, diverse migliaia di tonnellate di gin sono state inviate ai neri delle nostre colonie, il che rappresenta un notevole vantaggio,” aggiunse, “per mio amico il signor Garey; del quale, tra l’altro,” proseguì con disinvoltura, “speriamo tutti di vederlo presto in questa Aula, perché il vecchio Southwick che si è messo contro di lui non ha alcuna possibilità. E probabilmente sapete anche che stiamo costringendo Pipps a dimettersi. Sarà sicuramente un’elezione interessante!”
 
 
 
@@ -4772,6 +6048,44 @@ The more he thought of his choice of Demaine the more pleased he was, and he had
 
 The colleague didn’t know. “I have my back turned to the benches behind us you know,” he explained elaborately.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Si sedette. Erano le quattro meno un quarto e la Camera era stata salvata. Ma sebbene il decoro di quella grande assemblea impedisse che venisse pronunciata una parola su ciò che era accaduto, i corridoi erano pieni di voci al riguardo; quando si procedette alla prima divisione dei voti, gli uomini che normalmente passavano davanti al banco del Tesoro evitarono quel punto, mentre da angoli lontani e oscuri, dove nessuno poteva osservarli, sguardi lunghi e attenti venivano rivolti verso il felice Sovrintendente della Corte delle Dote.
+
+Se ne stava lì, felice e del tutto ignaro dell’impatto che aveva suscitato; insieme al suo gruppo entrò nelle aule per la divisione dei voti, salutando con gioia quelli che sembravano voler evitare il suo sguardo, e, purtroppo devo dire, faceva battute indecorose sul sistema partitico, come non si erano mai sentite prima in quei luoghi.
+
+Il giovane Primo Ministro, sebbene soffrisse gravemente per un problema al polmone sinistro, non si trovava mai impreparato quando era necessario dimostrare tatto, soprattutto quando questo doveva essere abbinato ad azioni rapide. Un servitore spaventato lo chiamò dalla sua stanza e gli descrisse ciò che stava accadendo. Lui non si fermò nemmeno a chiedere il motivo o come fosse potuto succedere; entrò rapidamente dalla porta dietro la sedia del Presidente del Parlamento e chiamò Sir Charles Repton, che in quel momento era impegnato a disegnare una grande caricatura del leader dell’Opposizione. Nella vignetta, il leader dell’Opposizione aveva le mani infilate nelle tasche di un gentiluomo dall’aspetto cordiale, simile a un contadino, con stivali alti e baffi; l’immagine risultava così da rappresentare in modo appropriato John Bull.
+
+Charles Repton si alzò immediatamente e andò dal suo capo. “Che ne pensi di questa?” disse, mostrandogli la sua foto.
+
+Il giovane Primo Ministro sorrise come sorride la morte. “È molto bello, molto bello,” disse in fretta. “Coloratelo, fatelo voi stessi. Oh, fate pure ciò che volete. Venite con me. Entrate nella mia stanza, per favore. No, aspettate: voglio parlare con voi. Andiamo fuori, all’aperto.”
+
+Condusse rapidamente il suo subordinato, tenendolo per mano, attraverso Parliament Square verso St. James’s Park, parlando di mille cose senza mai dare a Repton l’opportunità di dire una parola. Poi, all’improvviso, disse: “Quello che voglio davvero dirti, Repton, è, ” Si interruppe bruscamente. “Lady Repton è in casa?”
+
+“Sì,” disse Repton, un po' perplesso, “o altrimenti ormai sarebbe già arrivata. Le ho chiesto di mostrarmi il suo piano per il pomeriggio a pranzo, e deve assolutamente soddisfare le mie esigenze, altrimenti ci saranno problemi.”
+
+“Bene, ora,” disse il Primo Ministro, “mi fareste un grande favore?” Posò la mano sulla spalla di Repton e lo guardò negli occhi con sincerità.
+
+“Certamente, mio caro amico,” rispose il Sovrintendente della Corte delle Dote con estrema gentilezza. “Dopo tutto, la mia posizione dipende da te, e anche una buona parte dei miei introiti deriva da essa. Non sarebbe certo nel mio interesse metterti in difficoltà, anche se non mi piacessi, il che ovviamente non è vero. Devo però ammettere che non ritengo tu sia un uomo di particolare talento; penso che la tua posizione dipenda soprattutto dal tuo lignaggio.”
+
+“Sì, sì,” disse il Primo Ministro in fretta, “capisco. Ora quello che voglio che tu faccia è questo: sali sul primo mezzo di trasporto che vedi e vai direttamente a casa. Capirai il perché quando arriverai lì. È assolutamente urgente. Va bene?”
+
+“Certo,” disse Repton, più perplesso che mai. “Voi politici siete tutti bugiardi, quindi faccio apposta a credere esattamente il contrario di quello che dite. Ma se mi dite che questo vi è utile, certamente non mi fa alcun danno.” E, fischiando allegramente, si avviò verso un taxi che stava attraversando la piazza.
+
+Quando il Primo Ministro lo vide in buone condizioni, si recò a Downing Street il più rapidamente possibile, senza perdere la dignità; prese il telefono dalla sua segretaria e, nell’angoscia di temere di essere troppo tardi, finalmente sentì la voce di Lady Repton. Le spiegò che suo marito era vittima di una malattia molto grave; lei avrebbe capito tutto non appena lo avesse visto. La supplicò di salvare un uomo così prezioso per il paese, facendo in modo che rimanesse in casa fino a quando non fosse stato esaminato medicamente.
+
+Per quel giovane fu un grande sollievo aver portato a termine questo compito. I suoi cinquantaquattro anni sembravano pesargli di meno: nei dieci minuti trascorsi tra il momento in cui aveva lasciato la Camera e quello in cui aveva accompagnato Repton, era stato sotto una grande pressione; c'era ancora dell’ironia da affrontare, ma provava la sensazione di aver raggiunto il suo obiettivo e di essere riuscito a risolvere una situazione estremamente difficile, come mai prima un capo di Stato si era trovato ad affrontare.
+
+Fu un momento di ansia, ma molti momenti nella vita di una persona che ha nelle sue mani il destino della Gran Bretagna sono inevitabilmente pieni di ansia. Il giovane e popolare Primo Ministro aveva la forza necessaria per affrontare situazioni ancora più difficili di quella, ma era esausto e leggermente turbato. Le conseguenze complete di quell’incidente terribile non si erano ancora del tutto manifestate nella sua mente.
+
+Tornò nella sua stanza alla Camera dei Comuni, riflettendo in quei pochi passi su quali conseguenze potesse derivare dall’orribile incidente di Repton, e iniziò a pianificare come gestire la situazione con Demaine. Avrebbe dovuto essere cauto, perché Demaine era lento a comprendere, ma c’era anche un vantaggio in questo: come tutti gli uomini lenti, Dimmy sapeva tenere la bocca chiusa. Anzi, non riusciva proprio a farne a meno.
+
+Il Primo Ministro era soddisfatto al pensiero di disporre di quella seconda risorsa, e riteneva che tale opzione fosse stata adeguatamente preparata per affrontare eventuali cambiamenti. Naturalmente, Repton avrebbe dovuto essere certificato il prima possibile: questo avrebbe evitato la necessità di conferirgli un titolo nobiliare. Che Demaine assumesse quel ruolo sembrava più naturale, e quei pettegoli, come Moon e Capon, non avrebbero iniziato a fare storie riguardo alla nomina. Forse, alla fine, tutta questa faccenda legata a Repton si sarebbe rivelata vantaggiosa a lungo termine!
+
+Più ci pensava alla sua scelta di Demaine, più ne era soddisfatto; quasi si era convinto che quell’incarico fosse il risultato di una sua grande astuzia, quando, uscendo dalla sua stanza e entrando nell’atrio, chiese casualmente a un collega dove si trovasse in quel momento Demaine.
+
+Il collega non lo sapeva. “Ho le spalle rivolte verso i banchi dietro di noi, capisci?” spiegò in modo dettagliato.
 
 
 
@@ -4818,6 +6132,48 @@ With too little comprehension of the social forces that build up the society of 
 
 It was perfectly damnable! As though the cares of his office were not enough, the Prime Minister found himself upon this Tuesday afternoon with a doubtful and anxious division awaiting him in the evening, with one of his Ministers gone mad, and his successor the subject at the best of a vulgar mystery, and at the worst of a hopeless disappearance.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Primo Ministro lo guardò con disprezzo e chiese al portiere se avesse visto il signor Demaine.
+
+“G. M. Demaine,” disse il portiere con solennità, facendo scorrere il dito su un elenco.
+
+Il Primo Ministro stava quasi per rimproverarlo, ma la dignità glielo impedì.
+
+“Non è possibile nella Camera!” disse l’uomo in modo brusco, rivolgendosi come a un pari al potere supremo di [[England|Inghilterra]]; poiché il suo incarico era sicuro, quello del Primo Ministro invece era precario.
+
+“Voi intendete dire che non sui banchi. Me ne rendo conto da solo!”, disse il Primo Ministro in tono secco.
+
+“Voglio dire, signore, che non è ancora passato da questa porta,” disse l’ufficiale con tranquilla dignità. Dolly se ne andò piuttosto irritata, guardò dentro la sala da tè e le biblioteche, e persino perse un po’ di tempo passeggiando per la sala fumatori. Gli agenti di polizia nell’atrio centrale non avevano visto Demaine; anzi, un cittadino con una lunga barba nera e occhi feroci era stato lì ad aspettarlo da due ore, ma Demaine non si era fatto trovare. Il Primo Ministro si degnò persino di parlare con quest’uomo, il quale, non sapendo a chi stesse rivolgendosi, gli disse chiaramente: “Se il signor Demaine interpreta i suoi doveri in questo modo, non può garantire di mantenere la sua posizione. E basta!”
+
+Il Primo Ministro si prese anche la briga di uscire dall’edificio in modo normale; l’agente di polizia che sorvegliava l’ingresso principale non aveva visto il signor Demaine.
+
+Era davvero molto imbarazzante e frustrante, anche se si trattava solo di un dettaglio. Quel pomeriggio doveva assolutamente incontrare Demaine: era indispensabile. Ma era altrettanto importante farlo il prima possibile. Voleva tenerlo lontano finché non avesse ricevuto le dovute istruzioni.
+
+Nella nostra felice vita inglese, non c’è nulla di più rilassante per la mente nei momenti di ansia della lettura di uno qualsiasi di quei grandi organi di opinione che sono caratteristici del nostro popolo e oggetto d’invidia per tutta Europa; tra questi, bisogna ammettere che nessuno raggiunge lo stesso livello intellettuale e morale dei migliori due o tre giornali serali di [[London|Londra]]. Uno di questi era particolarmente rilassante per il Primo Ministro: lo comprava dal giornalista all’angolo di Parliament Square e lo apriva mentre camminava con calma verso Downing Street.
+
+C'era un angolo di questa pagina che rappresentava sempre una fonte di divertimento per Dolly nei pochi momenti che riusciva a liberare dalla casa: era quell'angolo in cui venivano offerti premi per i migliori giochi di parole, naturalmente a condizione che i concorrenti non inviassero nulla di volgare o offensivo. Fino ad allora aveva ignorato questa attività, ma quella volta, per la seconda volta nel corso della giornata, ricevette uno shock quasi paragonabile a un pugno in faccia.
+
+Lì, in caratteri grandi, con una sfarzosità certamente indegna di un giornale che si proclamava sostenitore del proprio partito, c'era il titolo:
+
+“La scomparsa di un ministro eletto”
+
+E i suoi presentimenti non lo ingannarono. Era, era, quel sfortunato per natura, Demaine!
+
+Imprecò contro quella grossolana stupidità che aveva permesso che una cosa del genere finisse sui giornali. Si diresse verso casa sua, nella sua stanza, strappò in mille pezzi il foglio che ancora teneva in mano, lo riaprì e rilesse la notizia. Erano soltanto poche righe: Demaine era scomparso, e tutte le forze investigative di [[London|Londra]] stavano cercando di risolvere il mistero della sua scomparsa.
+
+Che follia permettere che cose del genere vengano rese pubbliche!
+
+Dio mio, potevano essere successe venti cose diverse! Forse si era semplicemente fermato a casa di un amico e non aveva nemmeno pensato di dire a sua moglie che non sarebbe tornato a casa; forse si era ammalato ed era stato portato in ospedale o in albergo. Che idiozia davvero pubblicare una cosa del genere sui giornali!
+
+Nonostante odiasse quel compito, chiamò per essere messo in contatto con la casa di Demaine e parlò direttamente con Sudie, che conosceva solo superficialmente; lei gli spiegò che erano stati proprio i suoi timori a causare tutto ciò.
+
+Era rimasta sveglia per George fino quasi alle cinque del mattino; forse sottovalutando i talenti di suo marito, e in particolare la sua capacità di trovare la strada di casa, pensava che fosse possibile che fosse diventato vittima di un tassista senza scrupoli, o che gli fossero accadute mille altre cose.
+
+Con una comprensione troppo limitata delle forze sociali che costituiscono la società della Madre Patria, Sudie aveva immediatamente contattato Scotland Yard; appresa che suo marito era stato visto l’ultima volta uscire dalla Camera dei Comuni e dirigersi verso il fiume, aveva compiuto l’errore imperdonabile di inviare messaggi a tutti i giornali serali nella speranza che tale pubblicità potesse aiutare a risolvere il mistero.
+
+Era davvero una situazione maledettamente complicata! Come se le preoccupazioni legate al suo incarico non fossero già sufficienti, quel martedì pomeriggio il Primo Ministro si trovò ad affrontare una situazione ancora più problematica: uno dei suoi ministri era impazzito, mentre il suo successore era coinvolto in un mistero volgare, nel migliore dei casi, o in una scomparsa senza speranza, nel peggiore.
 
 
 
@@ -4867,6 +6223,50 @@ He asked with the utmost courtesy of the man who took the tickets what he should
 Alas, for the various locutions of various ranks in our society! he did turn sharp to the right; he went right round the corner into Middlesex Street, and to the right again into Wentworth Street, but not a station could be seen. The summer night was of a glimmering sort of darkness. It was hot, and many of the local families were still seated upon their steps, speaking to each other in a dialect of the Lithuanian Ghetto which George Mulross erroneously took for an accent native to the London poor.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO X
+
+L’espressione “intossicato di piacere”, troppo comune nella nostra letteratura, descriverebbe in modo assai impreciso lo stato d’animo di George Mulross Demaine quando uscì dalla stanza del Primo Ministro quella notte di lunedì.
+
+In primo luogo, non era mai stato né sarebbe mai stato ubriaco; anche quando superava i limiti (come spesso faceva da giovane) nel consumo di vino, alcolici, liquori e altre bevande particolari, l’effetto di tali eccessi era più quello dell’atrofia che dell’intossicazione. Inoltre, non aveva mai provato quella sensazione che i poeti definiscono con delicatezza “la puntura della gioia”.
+
+Ma era soddisfatto: molto soddisfatto. Pensieri che in un cervello più volubile e meno solido avrebbero potuto affollarsi l’uno accanto all’altro, apparivano invece separati uno dall’altro, in una sorta di processione solenne. Lo confortavano, piuttosto che eccitarlo.
+
+Prima di tutto, c'erano quei 5000 sterline all’anno: rappresentavano davvero qualcosa.
+
+Ci rifletté a lungo, fino al punto in cui arrivò alla “Punta di Cleopatra”; lì, appoggiato al parapetto del lungofiume e guardando giù verso l’acqua, un altro pensiero emerse nella sua mente: quei 5000 sterline all’anno sarebbero stati suoi, non di Sudie.
+
+Nella prima tappa di questa sua passeggiata notturna, si era scontrato con due uomini: uno povero che aveva utilizzato l’incidente come scusa per ricevere del denaro; l’altro ricco, che lo aveva maledetto terribilmente, ma George era troppo di buon umore per darci peso. Ora, mentre lasciava alle sue spalle la “Punta di Cleopatra” e proseguiva verso est, riflettendo sul fatto che quei 5000 sterline all’anno sarebbero stati suoi e non di Sudie, ebbe la sfortuna di incappare in un terzo uomo, al quale si scusò, ma si trattava di un palo, non di una persona.
+
+Lo guardò con quei suoi occhi lenti e saggi per circa trenta secondi, e sotto la luce elettrica vide scritto in grandi lettere rosse: “Motori a destra di questo palo”.
+
+Ripeté quella frase meccanicamente, come faceva spesso quando leggeva qualcosa; quelle parole innescarono un nuovo flusso di pensieri. La posizione che gli veniva offerta non era permanente. Ma riflettendo sulle carriere dei suoi amici, non riuscì a ricordare nessuno che, dopo aver ricevuto una promozione del genere, non avesse continuato ad avanzare nella sua carriera: né Ted, né Johnny, né il vecchio Bill Curliss, né Fittleworth, né Glegg.
+
+Sempre significava qualcosa, anche quando una persona non era più in carica. E poi, chi sa? Forse un giorno sarebbe tornata al potere. Un partito poteva addirittura rimanere al governo per due mandati consecutivi! Erano già successe cose più strane. E comunque, anche se quelle persone non fossero state più in carica, a quel punto Ole Man Benson avrebbe sicuramente ottenuto qualcosa.
+
+Guardate come faceva. Il cielo sorrideva a lui, e lui, come se volesse ringraziare, sorrideva anche alla desolata facciata della stazione di Blackfriars, davanti alla quale si era ora fermato.
+
+Tra lui e l’oggetto desiderato c’era la strada; naturalmente era troppo cauto per tentare di attraversarla finché non aveva guardato attentamente davanti a sé e a destra. Ma a mezzanotte, nella [[City|>Città]] di [[London|>Londra]], non c’è alcun traffico intenso; dopo aver lasciato che un carretto e una pressa a vapore lo superassero con calma, attraversò rapidamente la strada, con l’intenzione vaga di prendere il treno.
+
+Come molti uomini delle classi dirigenti, i cui pensieri sono naturalmente lontani dai piccoli dettagli della vita quotidiana di [[London|Londra]] e che non sono coinvolti in quel ciclo quotidiano che rende le persone meno fortunate fin troppo familiari con i nostri mezzi di comunicazione, George Mulross Demaine non era del tutto sicuro di dove andasse la metropolitana, né di quale parte esatta di [[London|Londra]] servisse. Ma da bambino gli era stato insegnato che aveva una forma circolare e che, come l’Antico Oceano, vi scorrevano incessantemente treni in movimento. Entrandovi da qualsiasi punto si desiderasse, si poteva uscirne in qualche parte della sua periferia.
+
+Sapeva che la stazione di St. James’s Park era proprio davanti a lui. Chiese e ottenne il biglietto con quella rapidità che caratterizza il servizio della nostra principale linea metropolitana; per distrazione, lasciò sul bordo del bancone della biglietteria i sei penny di resto. E poi, come se fosse stato destino, svoltò verso le scale a sinistra.
+
+L’ufficiale il cui compito era esaminare e modificare i disegni presentati al pubblico sui biglietti, quella sera fu estremamente negligente, sotto la guida del Destino, forse.
+
+Avrebbe sicuramente dovuto capire che stava trattando con un “Uomo Raffinato” e avrebbe dovuto guidarlo gentilmente verso la piattaforma opposta. Invece, non fece altro che bucare appena la carta da imballaggio senza nemmeno darci un’occhiata; poi George Mulross Demaine (a cui era appena venuta in mente un’altra idea piacevole: esistevano davvero pensioni di governo, ) si avviò tranquillamente verso la piattaforma.
+
+Un treno entrò rombando nel binario; lui inciampò dentro proprio in tempo per salvare il suo cappotto dall’essere schiacciato dal cancello che si chiudeva, e rimase seduto tranquillamente fino a quando non sentì il conducente gridare “St. James’s Park!”. Ma quella parola che avrebbe dovuto farlo agire, lui non l’avrebbe mai sentita.
+
+La Mansion House passò davanti a lui, così come Cannon Street, ma poiché un’altra piacevole idea gli era venuta in mente, non le prestò attenzione.
+
+Un grido che diceva “Monument” lo spaventò: aveva sentito parlare del Monument in modo generico, ma esso non si trovava affatto vicino a casa sua. Quando arrivò in Mark Lane, fu seriamente allarmato; e quando udì il nome di Aldgate East, prese una decisione. Scese dalla macchina.
+
+Chiese con la massima cortesia all’uomo che aveva ritirato i biglietti cosa dovesse fare per raggiungere St. James’s Park; l’uomo rispose, meno cortese ma molto rapidamente, che avrebbe dovuto svoltare immediatamente a destra e che di lì avrebbe trovato la stazione di Aldgate, da dove c'erano ancora treni in movimento, nonostante fosse tardi.
+
+Ahimè, per le varie espressioni e i vari ranghi presenti nella nostra società. Lui svoltò bruscamente a destra; proseguì dritto lungo Middlesex Street, poi ancora a destra in Wentworth Street, ma non si vedeva nessuna stazione. La notte estiva era caratterizzata da una sorta di oscurità velata; faceva caldo, e molte famiglie del posto erano ancora sedute sui gradini delle loro case, parlando tra loro in un dialetto tipico del Ghetto lituano. Un dialetto che George Mulross scambiò erroneamente per un accento caratteristico della povertà londinese.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_02" data-title="A Change in the Cabinet — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/imprisonment,concept/satire_of_society,concept/class_conflict,concept/crime_and_punishment,form/satire,form/novel"></span>
@@ -4902,6 +6302,38 @@ He found himself seated upon a sort of narrow bench attached by iron clamps to t
 
 But for the moment other considerations occupied him to the exclusion of the condition of the room. A dirty paraffin lamp with no shade stood on the rickety table; the one window was blinded by a large old wooden shutter barred down against it; on the cracked, distempered walls, stained with a generation of grease and smoke, hung a paper upon which a few figures had been scrawled roughly in pencil, and most of them scratched out again, and here and there the same pencil or others had inscribed the surface of the plaster with sentiments and illustrations most uncongenial to his breeding.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Si avvicinò a uno di loro e chiese se fossero ancora vicini alla stazione. La risposta confusa e incomprensibile “Shriska beth haumelshee! Chragso! Yeh!” non lo aiutò affatto a capire la situazione; mentre proseguiva incerto lungo la strada, un fragore di risate aspre tendeva ad innervosirlo ancora di più.
+
+Non riusciva a sopportare quel fuoco incrociato: girò, con estrema imprudenza, in un cortile stretto e completamente buio; e all’inizio ne fu sorpreso, ma quasi immediatamente dopo provò una profonda delusione quando sentì che qualcosa di voluminoso e estremamente sporco gli veniva stretto attorno al collo, torcendoglielo; il resto di quel materiale gli fu gettato sulla testa e un’estremità gli fu infilata in bocca per soffocarlo; quasi nello stesso istante i suoi polsi furono strattonati alle spalle; una corda, probabilmente impregnata di catrame, venne legata attorno a essi con estrema violenza, causandogli terribili dolori; i suoi piedi furono sollevati da terra, diverse mani afferrarono casualmente la sua testa e le sue spalle, altre gli presero le caviglie; fu girato di schiena e, nella posizione descritta dal Ministero dell’Interno come “La Marcia dei Rane”, venne trascinato per alcuni metri, poi di nuovo girato di schiena e messo a faccia in su su una superficie stretta e dura.
+
+Attraverso il lurido cotone che ancora gli avvolgeva il viso, e le cui macchie disgustose erano appena visibili, vide un barlume di luce e sentì intorno a sé parole il cui accento e molte delle quali erano così sconosciuti per lui da non riuscire a comprenderli. Si trovava in una condizione di disagio indescrivibile.
+
+Nonostante i suoi difetti, George Mulross Demaine non mancava di coraggio fisico; mormorando attraverso il bavaglio che gli copriva la bocca, li pregò di lasciarlo andare. Non ci fu alcuna risposta diretta, solo molti sussurri; per quanto riuscisse a capirne – e gran parte di quei sussurri era in lingue straniere – riguardavano più la sua persona che la sua richiesta.
+
+Un tentativo di muoversi rivelò che qualcosa di pesante era seduto sulle sue gambe; un altro tentativo di sollevare la parte superiore del suo corpo fu accompagnato da un dolore così intenso alla tempia che decise fosse meglio rimanere fermo per il momento.
+
+Ciò che seguì fu un esame dei suoi vestiti e del loro contenuto, il quale rivelò che i suoi nuovi vicini non erano affatto a conoscenza delle abitudini di vestire delle persone ricche. Le due fessure presenti nel suo mantello furono scambiate per tasche; il loro vuoto suscitò, tra gli altri commenti, anche un’imprecazione acuta da parte di una donna. Anche le tasche dei suoi pantaloni, nelle quali si sperava ardentemente che fossero nascosti oggetti metallici – e nei quali avrebbe preferito morire piuttosto che mettere qualsiasi cosa – risultarono vuote. A loro disappunto, delle due piccole linee presenti sul gilet, una era finta e l’altra conteneva soltanto un bottone di riserva. Tuttavia, quest’ultimo custodiva un piccolo e prezioso gioiello, e divenne immediatamente oggetto di una furiosa lite.
+
+Fu di nuovo messo al contrario, per la terza volta, in modo privo di dignità e con una violenza particolarmente offensiva; tuttavia nella tasca posteriore dei suoi pantaloni non c’era nulla se non un grande fazzoletto di seta nuovo, che, a quanto pare per abitudine (poiché non ci furono discussioni), veniva consegnato al capo della tribù.
+
+Non c'era alcuna borsa, il che li lasciò perplessi; nemmeno un portafoglio. Fino a quando, con loro grande sorpresa e gioia, qualcuno più attento degli altri scoprì, in mezzo a una serie di bottoncini sulla catena dell’orologio, un piccolo contenitore sferico che si apriva con una molla, e al suo interno c'erano ben quattro sovrani d’oro.
+
+Il bottino ottenuto fu scarso, ma i vestiti rimasero, per poco tempo. Furono tutti tolti via, e non con violenza, bensì, con sua soddisfazione, con delicatezza: forse meno per rispetto verso di lui che per considerare il valore dei tessuti stessi. Quanto alla tecnica precisa utilizzata per liberare i polsi e le caviglie, lascio che siano i miei lettori più esperti a occuparsene. So che esistono diversi metodi noti, grazie ai quali un uomo può far si che gli vengano tolti pantaloni e cappotto senza che le mani e i piedi vengano danneggiati.
+
+Le sue scarpe da montagna (notarono con sorpresa) avevano i lati elastici. Pensavano che durante la cena fossero ammesse soltanto le scarpe da montagna con i bottoni, e che tali regole continuassero in vigore fino alle ore in cui i ricchi andavano a riposare. Ma quelle erano davvero ottime scarpe da lavoro. In definitiva, tutto il suo abbigliamento – ogni singolo indumento – venne presto piegato e messo nel suo fagotto, diventando così la parte più preziosa del loro bottino.
+
+Poi ci fu un notevole movimento di piedi, un mormorio di voci intenzionalmente basse; sembrava che fosse rimasta solo una persona, agile e veloce nei suoi movimenti, forse due: comunque, dopo che questa o queste persone lo avevano trattenuto per circa trenta secondi, durante le quali lui ebbe la saggezza di restare fermo, si udì il rapido scivolare di piedi, il chiudersi veloce ma quasi silenzioso di una porta, e lui si rese conto di essere libero.
+
+Il suo primo gesto fu togliersi quel disgustoso equipaggiamento per la testa, ma i suoi catturatori avevano preparato la trappola con grande cura. Ed era proprio questo che gli avrebbe permesso di fuggire con calma. Il pezzo di stoffa era legato intorno alla sua testa con una serie di piccoli nodi duri; impiegò ben un quarto d’ora per scioglierli tutti.
+
+Finalmente era libero. Strappò via quella cosa sporca dalla propria testa e anche il resto dalla bocca con lo stesso gesto; riuscì a sopprimere un forte desiderio di vomitare e poi guardò intorno a sé.
+
+Si trovò seduto su una sorta di stretto banco fissato alle pareti di una piccola stanza estremamente rumorosa; anche in quel momento ebbe la prontezza di pensare che, se avesse assunto le responsabilità che gli erano state descritte, avrebbe sicuramente saputo come gestire quella situazione con l’ispettore locale.
+
+Ma per il momento altre considerazioni lo assorbivano completamente, al punto da fargli dimenticare lo stato in cui si trovava la stanza. Una lampada a paraffina sporca, senza schermo, era posata sul tavolo traballante; l’unica finestra era oscurata da una grande persiana di legno vecchia e chiusa a chiave; sulle pareti crepate e macchiate da anni di grasso e fumo, era appeso un foglio di carta su cui erano state scarabocchiate alcune cifre con la matita, molte delle quali poi cancellate. Qui e là, lo stesso pennarello o altri strumenti avevano inciso sul gesso frasi e disegni del tutto incompatibili con il suo rango sociale.
 
 
 
@@ -4948,6 +6380,48 @@ George prepared to slip over the side.
 
 Now to slip over the side in a book is one thing, but to do it on a real ship is another. The bulwarks were high and greasy and salt and slimy. Demaine was weakened by a night of terrors, and he came down on the hard iron deck of the tramp with a noise resembling distant thunder, and in a manner that hurt him very much indeed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La prima cosa che gli cadde sotto gli occhi fu un paio di pantaloni particolarmente sgradevoli da vedere, un vecchio cappotto verde-scuro strappato, e un paio di stivali da lavoro, crepati, ingrigiti dal tempo, senza lacci e chiaramente rigidi come il legno. Non aveva altra scelta: la sua priorità era trovare aiuto. Doveva indossarli, uscire da quel luogo il prima possibile e chiamare la Polizia.
+
+Non aveva mai indossato prima stivali del genere; era come camminare dentro scatole. Odiava sentire il grasso umido dei pantaloni e del cappotto contro la pelle.
+
+Lasciò la lampada accesa e si diresse verso la porta. Con sua sorpresa, il chiavistello era aperto. Ancora più sorpreso scoprì che si apriva su un passaggio buio, simile a un tunnel, senza porte, ma solo un arco che conduceva nel cortile alle sue spalle. Uscì di lì e fu sollevato dal fatto che non fosse ancora giorno. Fortunatamente non faceva freddo.
+
+Si girò, senza sapere dove andare, camminando per le strade senza una meta precisa, ma più o meno in una direzione determinata, fino a quando non vide, nella silhouette sfocata contro il buio dei muri, la figura familiare e rassicurante di un poliziotto. Era come tornare a casa. Come avvistare una luce di porto conosciuta dopo tre giorni di perdita e confusione.
+
+Si avvicinò all’uomo e cominciò a parlare con quel tono piacevole ma non condiscendente che aveva sempre usato quando si rivolgeva ai membri della squadra.
+
+“Poliziotto, potrebbe dirmi...”
+
+Non riuscì ad andare oltre. Quel custode dell’ordine, agile nonostante la sua stazza imponente, con un commento basso ma deciso – “Ti conosco!” – lo afferrò per le spalle, lo girò su se stesso e lo allontanò, facendolo cadere contro i gradini di una casa, ferito e leggermente stordito.
+
+George si arrabbiò. Aveva già iniziato a parlare di voler prendere parte alla gara quando vide il suo avversario fare un gesto deciso; seguì uno stridulo fischio, e subito dopo un altro fischio proveniente da circa cento metri di distanza. George Mulross Demaine, chiamatelo pure come volete, si tolse quelle maledette scarpe e corse via.
+
+Gli hanno permesso di andarsene, e non spetta a noi criticare. Comunque sia, ha lasciato il loro distretto.
+
+Aveva corso per soli pochi momenti, indossando quel suo assurdo e orribile cappotto e a piedi nudi, quando vide in fondo a una stradina un grande cancello, una luce su un lato di esso, e al di là di esso uno spazio vuoto illuminato dal cielo notturno. Ignaro di dove si trovasse o di cosa stesse facendo, ma deciso a mettersi in salvo, guardò intorno e, con orrore, vide la figura di un altro poliziotto che camminava lentamente verso il punto in cui si trovava accovacciato.
+
+Quello lo decise. Con un'agilità che nessuno dei suoi conoscenti, nemmeno sua moglie, avrebbe mai creduto possedesse, si avvicinò molto al suolo, nell’ombra del grande cancello, e entrò nello spazio aperto al di là di esso.
+
+Un tale spazio che non aveva mai visto prima. Sotto quella debole luce che iniziava appena a comparire all’est dell’orizzonte, intuì di trovarsi sul fiume: vedeva i alberi delle navi contro il cielo e quel particolare bagliore pallido dell’acqua che, anche di notte, permette di distinguere le imbarcazioni. Tutto ciò che cercava era l’ombra. E le grandi banchine dei porti – poiché si era ritrovato per caso lì – offrivano ampie opportunità in tal senso.
+
+Sentì dei passi lenti e misurati avvicinarsi lentamente a lui. Si insinuò lungo il bordo del molo, entrando in una sorta di stretto corridoio situato tra una fila di alti barili e le paratie di un grande piroscafo che spuntava appena sopra i gradini di pietra. Si appiattì contro quegli alti barili; se avesse conosciuto meglio i dettagli del commercio, avrebbe saputo che contenevano letame a base di ossa di pesce.
+
+La luce misurata si avvicinava; passava, raggiungeva un certo punto nella distanza, poi tornava indietro e superava di nuovo quel punto. Arrivava a un altro estremo del suo movimento, girava e ripassava. E tutto il tempo la luce continuava ad aumentare d’intensità; e man mano che cresceva, anche l’angoscia nervosa di George Mulross aumentava, anzi, in modo ancora più rapido.
+
+Ora riusciva a vedere chiaramente la figura del custode vicino al cancello, distingueva anche parte dell’attrezzatura più vicina; in mezz’ora sarebbe diventato visibile a qualsiasi occhio fosse alla ricerca di vagabondi. Sapeva cosa ciò significava: ulteriore umiliazione, forse altri pericoli. Non c’era nessun gentiluomo nelle vicinanze. E con quel pensiero, il cuore di questo sfortunatissimo gentiluomo iniziò a battere più lentamente.
+
+È stato sufficientemente detto al lettore che il signor Demaine, per quanto dotato di una mente equilibrata e pronta, non era un uomo dalle decisioni rapide. Tuttavia, l’agonia e il pericolo sono spinte efficaci; e mentre l’idea di comportarsi da gentiluomo gli attraversava la mente, si ricordò improvvisamente che anche le navi avevano i loro capitani.
+
+Non era del tutto chiaro quali fossero esattamente le funzioni di quel ruolo; senza dubbio avrebbe capito meglio una volta iniziato a svolgerlo presso la Corte dei Dote (quel pensiero lo riscaldò per un momento, anche in quella terribile alba!). Comunque, la parola “capitano” significava qualcosa, certo non come un capitano nell’esercito, ma ci sono diversi tipi di capitani, ovviamente la Royal Navy è superiore al Servizio Mercantile, ma si tratta comunque dello stesso tipo di ruolo, solo con gradi diversi, come quello di avvocato e procuratore. Ad esempio, c’era la Riserva Navale. E ricordava un capitano su una nave transatlantica: era davvero un uomo straordinario; era sicuro che sarebbe stato in grado di riconoscerlo immediatamente. Inoltre, il capitano della barca a vela di Billy era ancora migliore, perché conosceva bene i motori.
+
+Aveva appena raggiunto il punto di ricordare che, sulla P. e O., cenare con il capitano era considerata una cosa piuttosto importante, quando la sua mente giunse alla conclusione finale: avrebbe scivolato sul bordo della grande nave e, quando fosse arrivato il momento giusto, si sarebbe rivelato al capitano per quello che realmente era. Il capitano gli avrebbe riservato ogni cortesia, gli avrebbe fornito abiti puliti e decenti, gli avrebbe indicato dove trovare un telefono, avrebbe avuto l’autorità di parlare con il custode della nave e con gli altri addetti, avrebbe chiamato un taxi. E così i problemi di George sarebbero finiti.
+
+George si preparò a scivolare giù dal bordo.
+
+Ora, scivolare giù dal bordo di un libro è una cosa; farlo su una vera nave, invece, è tutta un’altra storia. I parapetti erano alti, untuosi, salati e vischiosi. Demaine, indebolito da una notte di terrore, cadde sul duro ponte di ferro della nave, con un rumore simile a quello di un tuono lontano, e in modo che gli causò davvero molto dolore.
 
 
 
@@ -4996,6 +6470,50 @@ One stammering attempt to make himself heard so dreadfully increased the power o
 
 For some little time, therefore, Demaine still stood a butt for the occasional but half-exhausted ribaldry of his two guardians, and not until the waterman’s boat had dropped away from alongside and the warping rope had splashed into the slime of the Thames, not until the donkey engine had clanked once more and got it aboard, horrible with all the horrors of that water, and not until the engine was going fairly and the Lily dropping swiftly down the tide, was the captain ready to sit in judgment.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era una nuova disavventura, e bisognava porvi rimedio. Sentì delle voci e si precipitò verso un grosso rotolo di gomena che giaceva nell'ombra del ponte a tartaruga. Qui il fetore, benché di qualità alquanto diversa da quello del concime di lische, non era meno nauseabondo, e portava con sé una reminiscenza di traversate della Manica che fiaccava l'anima stessa di George Mulross Demaine. Ma la sensazione fu presto soverchiata da un'altra assai più pungente: gliela suscitò l'avvicinarsi di due voci discordi, una delle quali gli giungeva strepitando senza posa:
+
+«Sì che l'ò vist!»
+
+Mentre l'altra ripeteva a mo' di antifona:
+
+«Ma no ch'un l'hai vist, stupidon d'un stupidon!»
+
+Esaurito questo dialogo, la prima voce, con tono più basso e assai più risoluto, sibilò: «Adess a lo tiro fora mi!» e un grosso bastone, che per quanto ne sapeva Demaine poteva essere una caviglia da impiombare o qualche altro orrendo arnese, cominciò a frugare dietro il rotolo di gomena.
+
+«El vecio el dis che se n'ciapo mia el prossim, el me scòrtica viv!»
+
+A questo la seconda voce ribadì la propria certezza che il compagno fosse uno sciocco, e che avesse il chiodo fisso dei clandestini da quando, l'ultima volta, l'avevano ritenuto responsabile della presenza di uno di quei passeggeri abusivi a bordo della Lily.
+
+Le voci si allontanarono e Demaine, pur respirando un po' più liberamente, ripiombò nel dubbio e nel terrore di prima.
+
+Si fece giorno pieno; udì lo sferragliare delle catene; la presenza di uomini da ogni parte non fece che renderlo più deciso a restare nel suo nascondiglio finché non avesse potuto avvicinare il capitano in un modo più conveniente che per il tramite di quegli insensibili e ignorantissimi uomini del Nord che parevano comporre l'equipaggio.
+
+Sentì la grande nave girare, vide la chiazza di nuvola nel lembo di cielo che intravedeva ruotare mentre lei ruotava, avvertì il lieve pulsare delle macchine; stava scendendo lungo il bacino, era fuori dalla chiusa — era quasi nel fiume quando, con suo orrore... il rotolo di gomena che era stato il suo baluardo contro un mondo senza cuore cominciò lentamente a svolgersi dall'alto, con il moto di un grande e malvagio serpente diretto verso la sua preda inerme.
+
+Se George Mulross avesse posseduto quella dimestichezza con i termini marinareschi che si addice a un amministratore di quest'isola cinta dal mare (e in special modo a un Custode della Corte di Dote), avrebbe saputo che la gomena che gli spariva rapidamente davanti veniva usata come cavo di tonneggio, e avrebbe collegato il regolare clangore della macchinetta ausiliaria che ne accompagnava la scomparsa con l'assorbimento di braccio dopo braccio di quello che era stato un riparo benevolo. Ma anche se avesse saputo queste cose, è dubbio che in quel momento gli sarebbero interessate.
+
+Si rannicchiava sempre più via via che il rotolo diminuiva, occupando il minimo spazio compatibile col tenere le gambe raccolte dietro ciò che restava del cavo: ma quella mattina gli dèi erano sordi a ogni preghiera. Si giunse agli ultimi quaranta centimetri d'altezza del rotolo e ancora la spietata macchinetta sferragliava, e ancora le spire scivolavano via, finché alla fine la sua schiena emerse al di sopra dell'elemento in cui viveva — l'inconfondibile schiena di un essere umano, coperta da una logora giacca verde-nera.
+
+All'occhio esperto e penetrante della gente di mare l'oggetto era inconfondibile, e come due gatti su un solo topo i suoi conoscenti di un'ora prima piombarono sulla sua figura tremante: lo scettico ormai convertito, e anzi protestando di essere stato convinto fin dal principio della presenza del clandestino, l'altro trascinandolo lungo il ponte in crudele trionfo e minacciandolo di conseguenze tali che neppure il peculiare idioma del Nord riusciva a velare del tutto.
+
+Con quel po' di energia che gli restava, George balzò in piedi alla prima occasione che gli lasciarono. Ebbe il buonsenso di non mettersi a correre su quei ponti affollati e angusti. Il bottone strappatogli dal colletto della giacca nella colluttazione gli lasciava scoperti il collo e il petto. Chiazze di sudiciume, catrame e polvere gli rigavano il volto; i capelli erano in gran disordine, e i piedi scalzi incrostati di fango.
+
+«Voglio vedere il capitano», disse tra un ansito e l'altro.
+
+«Tu vòi...!» cominciò il suo furente catturatore, — poi le parole chiare gli vennero meno, e si rifugiò in qualche bestemmia. L'altro disse più pacatamente:
+
+«Lo vedrai, fiolo; oh! se lo vedrai», — e annuì due volte con gravità, in un modo che George avrebbe trovato rassicurante se non avesse già cominciato a sospettare che le classi inferiori fossero capaci di sarcasmo.
+
+«Lo vedrai!» ripeté d'un tratto con estrema ferocia; e afferrando bruscamente Demaine per la collottola lo spinse di corsa nella penombra sotto il ponte di comando dove, per un caso fortunato, il primo ufficiale, d'umore piuttosto arcigno, stava scendendo dopo aver smontato dal turno.
+
+Appesantirei troppo queste pagine se solo tentassi di riferire il linguaggio del primo ufficiale quando posò gli occhi sulla sventurata figura che gli stava davanti. Un clandestino! Era la seconda volta che accadeva in tre mesi.
+
+Un balbettante tentativo di farsi ascoltare accrebbe così spaventosamente la furia di quell'uomo che George dovette per forza tacere. La collera del primo ufficiale montò in una sorta di tifone, e se la legge, o anche solo la consuetudine del mare, gli avessero permesso di fare un quarto di ciò di cui minacciava il povero vagabondo, una nave britannica non sarebbe certo stata un luogo adatto a viverci. In realtà, quando la tirata fu finita, si limitò a una maledizione generale sulla città di [[London|Londra]] e i suoi abitanti, a una particolare rivolta con minaccia contro il marinaio scelto che aveva catturato il clandestino, e infine a disporre che lo si conducesse dal capitano quando la nave fosse in canale e la trepidante faccenda di portarla fuori fosse conclusa.
+
+Per un certo tempo, dunque, Demaine rimase bersaglio delle occasionali ma ormai fiacche sguaiataggini dei suoi due guardiani, e soltanto quando la barca del barcaiolo si fu staccata dalla fiancata e il cavo di tonneggio ebbe sguazzato nella melma del Tamigi, soltanto quando la macchinetta ebbe sferragliato ancora una volta e l'ebbe tirato a bordo, orrendo di tutti gli orrori di quell'acqua, e soltanto quando le macchine andarono di buon passo e la Lily scendeva rapida con la marea, il capitano fu pronto a sedere in giudizio.
 
 
 
@@ -5048,6 +6566,54 @@ But George’s first attempts at this new trade were such that his overseer afte
 
 Doggedly and despairingly the poor fellow scrubbed away. He scrubbed perhaps too hard; at any rate he produced a patch of surpassing brilliance though of exiguous dimensions; and as the result of his efforts turned faint and ill with something worse than sea-sickness. He rose from his knees and tottered to his legs, and began aimlessly swabbing the odd patch of cleanliness with which he had diversified the beastly decks of the Lily.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Capitano Higgins era un uomo che aveva fatto del metodo e del controllo di sé le basi del proprio successo nella vita. I “Nervi” di Caryll erano a posto, senza problemi!
+
+L’accuratezza nei conti, la fedeltà verso i datori di lavoro e una disciplina rigorosa a bordo: queste erano, come era orgoglioso di ripetere, i suoi principi guida. E quando seppe che un altro clandestino aveva approfittato dell’ospitalità della nave “Lily”, non mostrò alcuna particolare agitazione; si sedette al suo piccolo scrittoio e ordinò di portare dentro il prigioniero.
+
+George, presentato in modo piuttosto affrettato dai suoi ora silenziosi catturatori, vide seduto a quel tavolo qualcosa di molto diverso da ciò che si aspettava. Vide un uomo molto piccolo e magro, con una piccola barba rossa appuntita e occhi simili a quelli di una donnola; indossava un cappello a punta, logoro e piuttosto sporco, sul davanti del quale era ricamato uno stemma ormai difficile da distinguere, circondato da una striscia di nastri dorati scoloriti e lisi.
+
+Era questa la persona su cui dipendevano le speranze di Demaine per un rapido recupero. Era deciso a non parlare per primo, anche se era certo che l’istruzione più elevata dell’ufficiale avrebbe permesso di attraversare qualsiasi tipo di mascheramento involontario da parte sua.
+
+Il Capitano Higgins tirò fuori un foglio grande, dall'aspetto ufficiale, diviso in diversi riquadri misteriosi, ciascuno intitolato da una dicitura stampata, e disse brevemente, senza alzare lo sguardo e con la penna pronta a scrivere:
+
+# “Nome?”
+
+“Demaine,” disse George, con tutta la dignità che riuscì a racimolare… “Ma…”
+
+“Silenzio!” ordinò bruscamente il Capitano Higgins, senza alzare lo sguardo dal foglio su cui scriveva rapidamente e in modo ufficiale: “Cognome.” “Nome di battesimo,” mormorò tra sé, con la penna sospesa pronta a continuare.
+
+“George Mulross”, disse quell’uomo, e “George Ross” fu annotato sul foglio.
+
+Iniziò di nuovo schiarendosi la gola, ma anche se non aveva ancora detto una parola, il Capitano Higgins alzò lo sguardo con un'espressione nei suoi piccoli e poco attraenti occhi che non tollerava assolutamente sciocchezze.
+
+“George Ross Mane,” disse lui, parlando attraverso il naso. “Siete stato scoperto sulla mia nave, la Lily, con una capacità di carico di mille trecentoventi tonnellate, classificata a [[London|Londra]], in viaggio da [[London|Londra]] a Portland con merci agricole e di vario genere.”
+
+Il Capitano Higgins amava queste formalità.
+
+“Non ho alcuna giurisdizione in questa materia, ” E qui iniziò a recitare meccanicamente da un piccolo libro sporco, nel quale erano elencati i principi fondamentali del suo mestiere: “Violazione di contratto, torto civile, rimborso dei danni, evitare la giuria o l’esecuzione, questioni relative a minori, assenza di autorità per intervenire, bisogna sempre agire in modo da mantenere l’ordine, il rispetto e la paura del Signore, tutto ciò che riguarda la corretta navigazione di questa nave, dal suo partenza al suo porto di destinazione. Pertanto, vi verrà fornito cibo sufficiente per sopravvivere fino al prossimo porto, dove questa nobile nave potrà attraccare e il prigioniero sarà consegnato allo Sceriffo o ai suoi ufficiali, ovvero ad altre autorità giudiziarie del nostro Sovrano, il Re. Portate via il prigioniero! Che Dio salvi il Re.”
+
+Questa frase, pronunciata d’un fiato e con la velocità di un esperto, verso la fine si trasformò in un flusso di sillabe che terminavano tutte con forza sulla parola “Re”, come se fossero campane, seguite da un silenzio tagliente.
+
+“Lo esigo!” gridò George con voce incontrollata, mentre lo trascinavano via.
+
+“Mettetelo in catene!”, gridò il Capitano Higgins con tutta la forza che le regole dell’ordine, della disciplina e del controllo di sé gli permettevano. “Mettete quel —— in catene!” Dopo questa naturale manifestazione di emozione (di cui in seguito si pentì), il navigatore tornò al ponte, sollevò il secondo ufficiale presente lì e continuò a guidare la sua nave lungo il canale navigabile.
+
+In uno piccolo spazio cubico, con pareti e soffitto fatti di lamine di ferro su tutti i lati, e una sporca finestra ancora striata dal sale del mare, il futuro Sovrintendente della Corte dei Dote sedeva a terra, in preda alla disperazione.
+
+Sul vascello c'era già un leggero gonfiore; la sua prigione si trovava molto avanti sulla nave e ne percepiva pienamente gli effetti. A mezzogiorno gli avevano portato qualche schifo disgustoso in una ciotola logora; l'aveva scartato senza nemmeno assaggiarlo. Dove lo stavano portando, quale sarebbe stata la sua sorte. Questi interrogativi da troppo tempo occupavano i suoi pensieri.
+
+Il movimento della nave iniziava a far svanire anche queste cupe considerazioni dalla sua mente. Aveva già scoperto due cose: innanzitutto, che il termine “ferri” era puramente convenzionale e non significava altro se non che il suo trattamento severo poteva diventare ancora più crudele in qualsiasi momento. In secondo luogo, gli era stato permesso di comunicare con un ragazzo dall’aspetto piuttosto strano, di circa quindici anni, che svolgeva il ruolo di aiutante generale a bordo e aveva il compito di portargli il cibo dalla cucina. Stava per scoprire una terza caratteristica della sua nuova vita.
+
+Una persona che chiaramente aveva sangue misto di razza caucasica e nera si avvicinò a lui mentre si trovava in stato di detenzione e, con un inglese stentato, gli ordinò di salire sul ponte.
+
+L’aria marina lo rinvigorì un po’, ma George non stava affatto bene quando quel mezzosangue gli lanciò contro qualcosa che, per il povero Demaine, assomigliava a un mattone malato, a un secchio d’acqua sporca e a una scopa grande e particolarmente malevola, ordinandogli di pulire.
+
+Ma i primi tentativi di George in questo nuovo mestiere furono talmente scarsi che il suo supervisore, dopo averlo guardato prima con stupore e poi con rabbia, gli assicurò che qualsiasi mancanza di buona volontà sarebbe inevitabilmente seguita da qualche forma di coercizione fisica; e, a giudicare dal torrente di parole incomprensibili pronunciate dal supervisore, tale coercizione probabilmente consisteva nel colpirlo con l’estremità della corda.
+
+Con tenacia e disperazione, quel poveretto continuò a pulire. Forse pulì troppo energicamente; comunque, riuscì a ottenere una zona estremamente lucida, anche se di dimensioni ridotte; ma a causa degli sforzi eccessivi iniziò a sentirsi debole e malato, per un motivo ancora peggiore del mal di mare. Si alzò in piedi barcollando e iniziò a pulire senza scopo quella piccola zona pulita che aveva creato sulle orribili superfici del “Lily”.
 
 
 
@@ -5135,6 +6701,88 @@ The June night fell gradually upon the sea, the slight swell dropped to somethin
 He fell into a profound sleep.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma l’amico e fratello (se posso chiamarlo così) non ne poté più; afferrando quell’uomo instabile per il braccio, lo spinse giù per le scale, facendolo inciampare, e lo rinchiuso di nuovo nella sua cella.
+
+L’esaurimento della natura aveva fatto sì che quel sfortunato politico cadesse in un sonno agitato; quando fu svegliato da un leggero calcio, vide davanti a sé il ragazzo, la vecchia pentola ammaccata, un pezzo di pane che per disgrazia era caduto sul ponte di poppa lungo il camino di fumo, e all’interno della lattina un composto liquido particolarmente disgustoso. Su di esso, proprio come sull’isola magica di Delo, galleggiava una considerevole quantità di grasso.
+
+“Non lo voglio”, disse George debolmente, “portatelo via”.
+
+A sua sorpresa – se “sorpresa” non è un termine troppo forte per descrivere quelle deboli emozioni che ancora lo agitavano – il ragazzo iniziò, per usare un’espressione convenzionale, ad avere un aspetto sgradevole.
+
+“Non l’hai fatto!” disse lui, “non mi hai messo nei guai, brutto idiota! Hai causato problemi a quei due uomini di Newcastle, e chissà se non avresti fatto lo stesso con me. E hai anche messo in pericolo Blacky. Non mi hai aiutato affatto! Sei davvero un disastro!”
+
+“Non ce la faccio!” disse di nuovo George, con voce debole.
+
+“Ti faranno a pezzi!”, ripeté il ragazzo, con quella testarda presunzione di autorità che non si addice affatto ai giovani. “Per Dio, se ti metti nei guai con i biscotti, starò di guardia la prossima volta e ti faranno a pezzi.”
+
+“Buttala via,” disse George, “bravo ragazzo. Getta quella roba in mare. A lungo andare sistemerò tutto,” aggiunse, annuendo incoraggiante.
+
+Il ragazzo sembrava scettico. “Non ce la farò,” disse in tono cupo. “Ma tu riuscirai a sistemare tutto, vero?”
+
+“Non importa,” sussurrò George in modo misterioso. “Lasciami il pane. Forse ci proverò, quella parte pulita,” aggiunse dopo un improvviso attacco di nausea, “ma getta via il resto. C’è un bravo ragazzo che lo prenderà. Non ce la faccio a sopportarlo.” Il suo sussurro rischiò quasi di trasformarsi in un grido, “Non riesco nemmeno a guardarlo.”
+
+Il ragazzo continuava a guardarlo con scetticismo e disprezzo.
+
+“Non puoi sistemare tutto per bene!”, disse, ma poi pensò che se quel povero prigioniero non riusciva a mangiare, avrebbe comunque potuto prendere il cibo dal cuoco, e che il suo stesso interesse consisteva nel disporre di quei rifiuti. Ne bevve una buona quantità lui stesso – non era certo sovralimentato a bordo della “Lily” – poi andò sul ponte per un momento. E George poté sentire lo schianto quando quel “mostro” finì in mare.
+
+In un attimo il ragazzo era tornato.
+
+“Dovresti essere riconoscente,” disse, “ti ho appena dato una lezione.”
+
+“Grazie,” disse George con calore, con la bocca piena di pane. Si era reso conto di essere in grado di masticare il pane, e questo gli faceva bene.
+
+Il ragazzo indugiò; mostrò lo stesso interesse per il clandestino che avrebbe dimostrato per un animale allo Zoo, e quell’episodio ruppe la monotonia del suo quarto viaggio.
+
+“Te la caverai bene a Parham!”, disse lui con tono allegro.
+
+George non capiva. “Perché Parham?”, chiese debolmente.
+
+“Perché è lì che vi porteranno. È lì che vi faranno sbarcare. Avranno la polizia ad aspettarvi proprio sul molo, e vi faranno salire su quella piccola barca. Non vi porteranno nemmeno il vostro bagaglio, perché non ne avete nessuno. Ma manderanno uno degli agenti e lui vi consegnerà alla polizia, dicendo: ‘È stato molto violento’. È quello che diranno; è quello che hanno detto anche dell’ultimo. E poi gli hanno messo le manette, ” continuò il ragazzo in modo assolutamente falso. Poi, non conoscendo bene la situazione e andando un po’ troppo oltre, aggiunse: “Era giovane. Era in prigione a Lewes, ” concluse, per dare un senso alla storia e farla finire.
+
+La povera pedanteria delle mappe non influisce affatto sulle classi dirigenti di questo paese; forse Demaine avrebbe avuto qualche difficoltà a rispondere con precisione dove si trovasse Parham durante un esame, ma sapeva che si trovava sulla costa meridionale, sapeva che ci si poteva arrivare facilmente in un’ora o due da [[London|Londra]], perché c’era andato a giocare a golf. Sapeva anche che esisteva una buona strada asfaltata tra il porto e Highcliff. In definitiva, Parham gli sembrava l’eco di tempi ormai dimenticati, più belli e lontani nel tempo. Fingeva indifferenza.
+
+“Beh,” disse, “per me non fa alcuna differenza.”
+
+“Ah,” disse il ragazzo, riluttante a rinunciare a quel delizioso boccone, “vedete? Non sarebbe lo stesso domani mattina, ”
+
+“Intendi dire,” disse George, con un tocco di astuzia che in un uomo del genere sembrava impossibile, un’astuzia acquisita attraverso le avversità, “che questa vecchia barca possa portare a Parham in ventiquattro ore?”
+
+“Non so niente degli archi,” disse il ragazzo in tono scortese, “e poi lei non è nemmeno una tinozza, ” (poiché provano una strana lealtà verso i loro rifugi temporanei), “ma è comunque un bel tentativo. Qualsiasi idiota lo capirebbe,” aggiunse educatamente.
+
+George non osava tradire la speranza che stava nascendo nel suo cuore. Fortunatamente per lui, il ragazzo fornì volontariamente le informazioni successive.
+
+“Ora siamo soltanto noi due, Long Nahse,” disse, “ma non so cosa ci aspetti là fuori.”
+
+“No?”, disse George, desiderando semplicemente prolungare questa conversazione così importante.
+
+“No: non l’ho fatto, ve lo giuro!”, disse il ragazzo in tono ribelle, “e nemmeno molte altre persone l’hanno fatto. Vi dico la verità, non l’ho fatto.”
+
+In questo momento della conversazione, proprio mentre un imbarazzante silenzio interruppe il dialogo, un nuovo terrore colpì il ragazzo.
+
+“Oh mio Dio!”, disse, “guarda quella tua scatola!”
+
+“Che c’è che non va?” chiese George guardando all’interno della lattina vuota.
+
+“È vuoto,” piagnucolò il ragazzo.
+
+“Beh,” disse George, il cui umore si era già migliorato alla notizia di Parham, “e allora?”
+
+“Perché,” disse il sguattero scontento, “perché non svuoti mai quella lattina. Mi troveranno!” aggiunse, cominciando a singhiozzare. “Non hai nemmeno un cucchiaio per svuotarla, stupido! Non sai fare nemmeno questo, ”
+
+“Dite che l’ho leccata,” disse George con un tentativo di umorismo.
+
+“Ci avrebbero rovinati tutti,” disse il ragazzo con rabbia, “non sei altro che una bestia inutile! Ci hai messi nei guai tutti quanti!” Soffocò un singhiozzo. “Sei una maledizione per questa nave. È proprio questo il tuo vero valore: credo che affonderà presto. Penso che andrà a schiantarsi nella notte e sparirà per sempre. Sarai distrutto, comunque!” aggiunse, trattenendo le lacrime al pensiero della rabbia imminente.
+
+Ma il pensiero alla sicurezza che il nome di Parham aveva suscitato rinvigorì George, e lui non provava alcun rancore. “Guarda qui,” disse, “lo pulirò con il mio pane e penseranno che l’abbia pulito io, ma a condizione che tu butti via il pane,” aggiunse.
+
+Il ragazzo accettò il patto e si sentì consolato. Era un atto di gentilezza poco significativo, ma sperava che potesse essergli d’aiuto qualche ora dopo.
+
+La notte di giugno calò lentamente sul mare; le leggere onde divennero quasi invisibili. Attraverso il suo misero oblò, George poteva vedere grandi strisce di luce lunare che si riflettevano sulla superficie dell’acqua; non c’era alcun rumore, se non il regolare rimbombo del motore.
+
+Cadde in un sonno profondo.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="A Change in the Cabinet — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
@@ -5201,6 +6849,68 @@ The Prime Minister almost forced him down into the chair from which he had risen
 “What else was there?” continued Sir Charles genially, interrogating the ceiling and twiddling his thumbs. “There was something, I know,” he continued, looking sideways at the carpet.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XI
+
+Quel martedì pomeriggio del 2 giugno, mentre George Mulross Demaine galleggiava lungo il fiume nella sua cella, Dolly sedeva immobile a Downing Street, con le acque della disperazione alle sue labbra.
+
+Il male genera altro male.
+
+Mentre rifletteva su quella cupa prospettiva, ne emersero nuovi aspetti davanti ai suoi occhi. Non solo si trovava personalmente stretto tra due difficoltà estreme: la follia improvvisa dell’ex direttore e la scomparsa del suo successore, ma anche il ritiro di Charles Repton era stato annunciato pubblicamente, e la nomina di Dimmy era apparsa insieme ad esso sui giornali del mattino. Queste due notizie si erano diffuse in tutta [[England|Inghilterra]].
+
+Un altro pensiero tormentoso gli venne in mente: come e quando doveva colmare quel vuoto? Cosa doveva fare?
+
+Repton era insopportabile. Grazie al cielo, il suo disastro non compariva sui giornali, e non avrebbe potuto comparire nemmeno secondo le regole decenti che governano la nostra stampa. Tuttavia, era già l’argomento principale di ogni pettegolezzo nelle case più importanti di [[London|Londra]]. Non poteva esserci alcun periodo di transizione mentre Repton continuava nominalmente a ricoprire quella posizione. Avrebbe potuto aspettare per tutto il tempo che si fosse sentito di osare, passarla a un terzo uomo, e poi Demaine sarebbe apparso, sorridente e desideroso di riprendere il controllo: e se ciò fosse accaduto, il Primo Ministro avrebbe ottenuto proprio ciò che temeva di più al mondo: l’inimicizia di coloro che un tempo erano stati suoi amici. Forse persino una rottura con Mary Smith stessa.
+
+Non era nelle condizioni di fare altro che osservare la sfortuna del momento; era ancora immerso nella sua perplessità quando sentì suonare il campanello nella stanza accanto e gli fu detto che lo chiamavano al telefono in modo personale ed urgente.
+
+Alzò la mano, ma la segretaria non accettò alcuna scusa; si trattava di una questione assolutamente personale. Da chi proveniva? Era da Lady Repton.
+
+Se si può dire che un uomo ricco e potente mostri, nei suoi tratti o nel suo modo di camminare, segni di un'ansia puramente mentale, allora lo stesso si può dire, in qualche misura, dell'infortunato Primo Ministro in quel momento. Soffriva così intensamente che il suo polmone sinistro, di cui non aveva mai completamente perso la sensazione, sembrava opprimerlo con un dolore fisico reale.
+
+Prese il telefono, temendo ciò che avrebbe potuto sentire.
+
+Fu un colpo meno grave di quanto si aspettasse. Tutto ciò che sentì fu la voce agitata di Lady Repton che gli assicurava di aver atteso il più a lungo possibile prima di disturbarlo, ma che ora era davvero preoccupata, perché Charles non era ancora tornato a casa. Era andato in taxi o in calesa? Erano passate più di mezz’ora da quando il Primo Ministro le aveva telefonato, e Charles era sempre così puntuale.
+
+Forse era stanchezza, o forse la consapevolezza di non poter fare nulla; il Primo Ministro rispose semplicemente che sarebbe arrivato subito.
+
+“Repton è stato molto impegnato oggi,” disse, “e ha avuto molte cose per la testa. È diventato un po’ turbato. Questa è tutta la verità, Lady Repton: nient’altro. Ma penso che debba essere curato con attenzione. Per favore, non si preoccupi.”
+
+Le parole tremolarono un po', perché lui stesso era più che ansioso. Solo il cielo sapeva di cosa Repton fosse capace, finché non lo avessero messo al sicuro dietro le quattro mura della sua casa. E poi c’erano i medici.
+
+Interruppe la conversazione in modo piuttosto brusco, approfittando di una lunga pausa per riattaccare il telefono. Mentre lo stava facendo, un servitore gli chiese, nel modo più naturale del mondo, se volesse ricevere Sir Charles Repton che lo aspettava al piano di sotto.
+
+Mi addoloro nel dover registrare che il giovane e popolare Primo Ministro pronunciò l’esclamazione “Buon Dio!”. Per un momento pensò di rifiutarsi di incontrarlo; poi sentì, provenire dalle profondità della residenza ufficiale, una voce allegra che diceva:
+
+“Sì, per te va tutto bene: sei un maggiordomo con un lavoro stabile; quando il governo esce, tu no. Sei una sorta di funzionario permanente. Ma noi,!”
+
+“Fatelo venire qui,” disse il Primo Ministro con ansia, “fatelo venire subito. Subito!” ripeté, perdendo tutta la sua dignità nella fretta, e fu tentato di spingere via quell’uomo solenne che si avvicinava con tanta maestosità, come se dovesse annunciare l’arrivo di un ambasciatore straniero o comunicare qualche importante notizia.
+
+In un attimo Charles Repton era entrato.
+
+Durante la sua breve avventura, aveva comprato un gigantesco giglio di Pasqua in un negozio di Bond Street che vendeva simili ornamenti. Questo fiore fioriva sul bavero del suo cappotto e il suo profumo riempiva l’intera stanza.
+
+“Mio caro amico,” gridò, correndo verso il terrorizzato Primo Ministro e prendendolo per entrambe le mani, “Mio caro amico! Su, non essere orgoglioso; sai benissimo quanto me che tutto questo è sciocchezza. Anzi, potrei comprarti e venderti in qualsiasi giorno della settimana. È vero,” rifletté, “che esiste la nascita, ma è un affare equo: la nascita ti dà il tuo posto nella società, mentre l’intelligenza mi dà il mio. Ti dispiace se fumo?”
+
+“Sì,” disse il Primo Ministro, poi aggiunse: “No. Non lo so. Non mi interessa. Perché non sei tornato a casa?”
+
+“Non sono tornato a casa,” disse Sir Charles con solennità, pensando al motivo, “non sono tornato a casa perché. Ah, capisco, perché volevo parlarti di quella questione legata alla nobiltà.”
+
+“Per l’amor di Dio, non parlare così ad alta voce,” disse Dolly con un tono davvero velenoso.
+
+“Allora va bene, non lo accetterò,” gridò Sir Charles, “anche se davvero non capisco cosa ci sia di cui vergognarsi. Mi offrite un titolo nobiliare e io lo accetterò. Sappiamo entrambi che non pensavate che l’avrei preso, e nemmeno io ne ero del tutto sicuro. State attenti: è gratuito,” aggiunse in tono brusco, “senza alcun costo.”
+
+“Mio caro amico,” disse il sfortunato Primo Ministro.
+
+“Ah sì, lo so. Quel trucco del doppio schivamento. Non chiederai niente tu, ma il vecchio Pottle sì. E poi, quando verrò da te a lamentarmi, dirai che non ne sai nulla. Certo che non pagherò! Non serve nemmeno chiedermelo. Quello che voglio è solo essere lasciato in pace.”
+
+Il Primo Ministro quasi lo costrinse a risedere sulla sedia da cui si era alzato, e disse di nuovo:
+
+“Parla più piano, Repton. Ricorda per un momento dove ti trovi. No, certamente non dovresti essere disturbato.”
+
+“C’era qualcos’altro?” continuò Sir Charles con gentilezza, guardando il soffitto e giocherellando con le dita. “C’era sicuramente qualcosa, lo so,” aggiunse, osservando di sguardo il tappeto.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_02" data-title="A Change in the Cabinet — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/london"></span>
@@ -5253,6 +6963,54 @@ At the door of Sir Charles Repton’s house was drawn up an exceedingly neat bro
 A few moments later there walked up to it the tall strong frame of a man a trifle over-dressed but redeeming such extravagances by a splendidly strong old face, and he was Sir Anthony Poole.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Si alzò e camminò lentamente verso la porta, continuando a mormorare: “C’era qualcos’altro, lo so.” Si toccò la fronte con la mano, rimase fermo per un momento come se cercasse di ricordare, poi scosse la testa e disse: “No, non serve a nulla. Era qualcosa legato a qualche concessione o roba del genere, ma oggi non sono in grado di occuparmene.”
+
+“Repton,” disse Dolly con un tono che lui raramente usava e che mai si era rivelato inefficace, “non dire nulla mentre esci, non dire nulla a nessuno. Prendi subito un taxi e vai dritto a casa. Mi avevi promesso che lo avresti fatto.”
+
+“Manterrò la mia promessa,” disse Sir Charles con grande onestà, “lo faccio sempre. Vedrete che lo farò. Ascoltate: per compiacervi, farò sì che lui guidi attraverso questa Piazza proprio sotto le vostre finestre. Ecco!”
+
+E mantenne la sua parola. Infatti, quando quel funzionario gli porse il cappello, il cane di malacca e i guanti, gli diede un pugno nello stomaco; voleva anche vedere se il maggiordomo sapesse lottare, e fece l’occhiolino a uno dei valletti, ma non disse una parola. Salì nella carrozza che lo aspettava e ordinò al conducente di prendere per Delahaye Street e poi dirigersi verso la Parade.
+
+Il Primo Ministro osservava con cautela da una finestra per assicurarsi che il nuovo “incubo” nella sua vita fosse effettivamente in viaggio verso la prigione, quando si rese conto di essere stato pienamente confermato nel suo timore: vide, infatti, una figura distante che si sporgeva da un calesse che procedeva a grande velocità verso il Mall, agitando selvaggiamente il cappello e gridando in toni chiari udibili per tutta l’area della parata.
+
+“Sto mantenendo la mia promessa, Dolly, sto mantenendo la mia promessa!”
+
+Così Sir Charles Repton tornò a casa, e un’oscurità profonda calò sul cuore del Primo Ministro.
+
+Sir Charles mantenne davvero la sua promessa.
+
+Guidò dritto verso casa sua, animando il percorso con occasionali esclamazioni e frammenti di informazioni segrete di grande valore per gli investitori, che rivolgeva a vari conoscenti che riconosceva lungo la strada. A un certo punto (durante un tratto in cima a St. James’s Street), insistette per scendere dall’auto per un momento; afferrò per mano il dignitoso Lord String, che aveva fornito consigli finanziari alle più alte autorità, e gli disse con un sorriso comico che se quel giorno avesse acquistato Mecca per conto del “Grande”, sarebbe stato estremamente imprudente, poiché in quei luoghi era in corso una rivolta araba e il grande viadotto era stato distrutto: la prima sfortuna che fino ad allora aveva colpito quella prospera linea di trasporto.
+
+Vicino al Marble Arch, qualcosa cambiò in lui. Sentì un dolore improvviso e violento dietro le orecchie, e si prese il viso tra le mani nel quel punto. Fece anche di più: quando lo spasmo passò, aprì la porticina laterale del taxi e confidò al tassista quanto fosse stato intenso il dolore.
+
+Il conducente, che non era affatto comprensivo, rispose in modo inappropriato; erano nel bel mezzo di una violenta lite quando, due o tre minuti dopo, il tassista, ostacolato dal traffico intenso, arrivò davanti alla casa.
+
+Lady Repton stava aspettando vicino alla porta; non chiamò nessun servitore, uscì lei stessa nella carrozza, zittì il conducente con un pezzo d’oro del tutto inaspettato, e poi rientrò in casa.
+
+Sir Charles stava riflettendo ad alta voce sui vantaggi e sugli svantaggi di quella striscia d’oro attorno al suo ombrello, facendo sì che i suoi domestici comprendessero appieno le caratteristiche di tale ornamento, quando lei lo prese dolcemente per il braccio e iniziò a guidarlo verso l’alto.
+
+Nel frattempo, in Downing Street, un segretario indispensabile di nome Edward stava ascoltando le istruzioni che gli venivano date.
+
+Edward aveva studiato alla King’s College, perché suo padre lo aveva mandato lì. Dopo aver completato i suoi studi presso il dipartimento del Tesoro, fu assunto dal Primo Ministro, il principale amico di suo padre all’università, e gli fu affidata la posizione di segretario personale; svolse le sue funzioni in modo eccellente.
+
+Era un silenzioso gallese, discendente di una linea di piccoli nobili di basso rango; comprendeva, in modo non del tutto naturale per un uomo sotto i trent’anni, le debolezze del cuore umano. Tuttavia, le istruzioni che riceveva dal suo capo erano delle più semplici possibili e, al momento, non richiedevano alcuna delle sue capacità eccezionali.
+
+Non era permesso scrivere né telefonare: doveva recarsi da Bowker, perché Bowker possedeva la più vasta esperienza specialistica nelle malattie nervose di tutta [[London|Londra]] e, di conseguenza, del mondo intero.
+
+Avrebbe dovuto presentarsi come se provenisse dai Reptons e fissare un appuntamento a casa loro, dicendo al dottore che avrebbe trovato lì Sir Anthony Poole. Avrebbe dovuto recarsi immediatamente da Sir Anthony Poole, la cui reputazione generale era superiore a quella di qualsiasi altro medico, avvicinarsi a lui presentandosi come se provenisse dai Reptons, fissargli un appuntamento simile e informarlo che lì avrebbe incontrato il dottor Bowker. Avrebbe dovuto raccontare loro tutta la triste verità e chiedere un certificato. In questo modo, quel povero signore avrebbe potuto beneficiare di un completo trattamento di riposo.
+
+Avrebbe dovuto recarsi immediatamente da Lady Repton e chiederle il permesso di visitare il dottor Bowker e Sir Anthony Poole. Lei glielo avrebbe concesso: il Primo Ministro ne era certo. Avrebbe dovuto suggerirle l’ora che aveva già indicato a quegli uomini eminenti. Quella stessa sera, Sir Charles sarebbe stato dichiarato pazzo, e almeno un peso si sarebbe sollevato dal cuore del Primo Ministro. E ricordate: un peso levato dal suo cuore significava anche meno preoccupazioni, il che a sua volta avrebbe prolungato la “scadenza” di una vita estremamente preziosa per lo Stato.
+
+In meno di tre quarti d’ora, Edward Evans aveva fatto tutto ciò. Aveva anche organizzato ogni cosa con tale precisione che i medici avrebbero dovuto arrivare alle sette, e Lady Repton avrebbe telefonato per comunicare il risultato: non si fidava di nessun altro per un compito del genere.
+
+Per quanto un uomo in preda all'ansia acuta possa essere soddisfatto, il giovane e popolare Primo Ministro lo era; tuttavia, almeno metà della sua essenza era rappresentata dal suo polmone sinistro, mentre l'altra metà era concentrata sul pensiero del suo cinquantesimo quinto compleanno.
+
+Alla porta di casa di Sir Charles Repton era fermo un bellissimo calesino, e il dottor Bowker era appena entrato.
+
+Pochi momenti dopo si avvicinò a esso la figura alta e robusta di un uomo leggermente troppo vestito in modo elegante, ma le cui stravaganze venivano compensate da un volto vecchio, ma splendidamente forte; quell’uomo era Sir Anthony Poole.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_03" data-title="A Change in the Cabinet — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/london"></span>
@@ -5292,6 +7050,42 @@ Sir Anthony asked him what he ate and drank, received very commonplace answers, 
 
 “Yes,” said Sir Anthony a little uneasily. “I really imagined that the matter would be rather worse than it seems to be. You know it is our custom sometimes to call in another....”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Due cose dominavano le concezioni di Sir Anthony: la prima era l’antichità della sua famiglia, che era considerevole; la seconda era un sano disprezzo per i capricci delle moderne scienze fisiche.
+
+Era un uomo estremamente erudito nella sua professione, più di quanto qualsiasi altro potesse desiderare essere; tuttavia, si compiaceva nel ritenere che il suo buon senso fosse molto superiore alle sue conoscenze. E lo diceva con sincerità. Era un devoto cristiano di tendenza anglicana; la sua famiglia comprendeva tredici figli maschi e una figlia femmina. Il suo reddito era enorme. Devo aggiungere che la sua esperienza di vita gli aveva insegnato quale fosse il vero valore di persone come Sir Charles Repton, che avevano affrontato con successo le pressioni della vita pubblica e riuscito a rendere un grande servizio al loro paese.
+
+La mente del dottor Bowker era dominata anche da due considerazioni: la prima era un'irritazione permanente verso la sopravvivenza di quelle forme sociali che permettevano agli uomini di godere di vantaggi puramente ereditari; la seconda era una convinzione, o meglio, una certezza derivante da un pensiero lucido, secondo cui l'organizzazione e il metodo potevano affrontare gli errori causati dalla semplice conoscenza generale, proprio come una macchina può gestire la materia inerte, o un esercito può gestire i civili.
+
+La nascita del dottor Bowker fu onorevole e normale: suo padre era stato medico in una piccola città di campagna e un predicatore devoto nella chiesa locale; suo nonno un minatore robusto, suo bisnonno il custode della prigione di Nottingham.
+
+Pertanto, apparteneva alla classe media della società; ma, dopotutto, il suo “vangelo sociale”, per quanto tale, esercitava su di lui meno influenza del suo credo scientifico. Non pensava: sapeva. Quello che non sapeva, non fingeva di saperlo. Del resto, in società era sempre un po’ nervoso e impacciato, e preferiva la compagnia dei suoi libri o una pedalata occasionale in bicicletta alle conversazioni con i ricchi.
+
+Dovrei aggiungere che rispettava Sir Charles Repton non solo perché tutti gli uomini del mondo devono rispettare un grande statista che è riuscito, nonostante gli anni di intensa attività pubblica, a servire il proprio paese, ma anche perché considerava Repton una persona di inestimabile valore nel dimostrare come i membri della comunità dei Nonconformisti, quando sceglievano di entrare nell’ambito dell’amministrazione, potessero realizzare ciò che avevano già dimostrato con successo nel campo del commercio.
+
+I due uomini furono fatti entrare in una enorme stanza al piano terra; era l’abitudine di Sir Charles (nei suoi giorni più felici, ) ricevere coloro che temeva o che intendeva ingannare. Lady Repton si unì immediatamente a loro.
+
+Era agitata; era persino angosciante osservare la sua agitazione. Raccontò loro il dolore violento che suo marito aveva provato due volte: la prima volta ieri sera, poco prima di cena, e la seconda in quel momento, mentre arrivavano a casa sua in taxi. Descrisse nel modo migliore possibile quelle crisi di sofferenza, e lasciò intendere chiaramente che esse erano collegate a un comportamento insolito e sorprendente da parte di suo marito; sperava che questo li avrebbe spinti, se necessario, ad autorizzarlo con pieno potere a recarsi in cura. Li avvertì che non gli aveva detto nulla di tutto ciò; sapeva soltanto che in casi del genere era saggio non informare il paziente. Lui pensava che fossero venuti semplicemente per consigliarlo riguardo ai dolori che provava all’orecchio, ma poche parole della sua conversazione sarebbero state sufficienti a convincerli dell’esistenza di un problema molto più grave.
+
+Li lasciò da soli per un momento e andò ad aiutare suo marito. Era una donna di straordinaria pazienza e forza d’animo. Suo padre, in passato, era stato un uomo timoroso di Dio e aveva acquisito una certa competenza nel settore della juta.
+
+Il dottor Bowker, si ricordi bene, era uno specialista in malattie nervose. Sir Anthony Poole, si ricordi anche questo, non lo era; tuttavia, secondo la sua stessa valutazione, rappresentava qualcosa di infinitamente migliore: era un uomo che aveva curato persone molto importanti e con maggiore successo di qualsiasi altro medico a [[London|Londra]]. La parola del dottor Bowker, in quanto specialista, non poteva essere messa in dubbio. Quando Sir Anthony Poole esprimeva un’opinione sulla salute di qualcuno, quella opinione diventava una verità assoluta per chiunque la ascoltasse.
+
+Il giudizio medico di due persone espresse contemporaneamente non potrebbe mai avere un peso maggiore di questo. Per un errore non infrequente in tutte le professioni, questi due grandi uomini, sebbene la loro rivalità non riguardasse esattamente lo stesso campo, sottovalutarono entrambi le capacità scientifiche dell’altro. Ognuno di loro sarebbe stato disposto a sacrificare tutto per il valore collettivo di quel piccolo anello a cui entrambi appartenevano, ma nessuno dei due avrebbe riconosciuto l’affermazione dell’altro riguardo a una precedenza speciale, anche se non ben definita.
+
+Nelle rare occasioni in cui si incontravano, tuttavia, osservavano tutte le formalità della vita sociale; e in quella particolare occasione, nella grande stanza al piano terra della casa di Sir Charles Repton, dopo che Lady Repton se n'era andata, sedettero uno di fronte all'altro scambiandosi frasi banali, di tipo molto raffinato e delicato, con un tono degno del loro comportamento impeccabile e del loro aspetto distinto. Per una singolare coincidenza, furono chiamati insieme nello stesso momento.
+
+“Signor Anthony,” disse il dottor Bowker, inchinandosi, sorridendo e facendo un gesto con la mano verso la porta.
+
+“Dottor Bowker,” disse Sir Anthony, imitando quel gesto cortese; ed è così che Sir Anthony Poole ebbe la precedenza e fu il primo a interrogare da solo Sir Charles Repton.
+
+La conversazione fu breve. Quando Sir Charles rispose alle prime domande in modo molto semplice, dicendo di aver avuto due o tre volte nelle ultime ventiquattro ore dolori lancinanti dietro l’orecchio, iniziò a parlare con entusiasmo di diverse cose e descrisse un episodio umoristico che aveva appena assistito nella Strand con tale vivacità da destare sospetti in un medico esperto come Sir Anthony Poole.
+
+Sir Anthony gli chiese cosa avesse mangiato e bevuto; ricevette risposte molto banali, e il baronetto, la cui moglie aveva utilizzato quel metodo semplice per ingannarlo, gli assicurò due volte che da settimane non provava più alcun sintomo della sua vecchia malattia, e si rammaricava soltanto che Lady Repton avesse costretto Sir Anthony a chiamarlo. Scoprì anche che il dottor Bowker era stato chiamato.
+
+“Sì,” disse Sir Anthony con un certo imbarazzo. “In realtà pensavo che la situazione fosse molto più grave di quanto sembri. Sapete, a volte è nostra abitudine chiamare qualcun altro, ”
 
 
 
@@ -5360,6 +7154,70 @@ The Prime Minister was not sympathetic. He did not desire further acquaintance w
 
 The Premier’s cup was full. His Warden of the Court of Dowry had resigned: the new Warden was appointed. The Warden who had resigned had gone mad; the Warden whom he had appointed had fled. At least — at least he might have been spared the madman! But no, he was not granted even this! the madman was still loose over [[London]] like a roaring lion, capable of doing infinite things within the next twenty-four hours. What was a peerage to a madman? What was a Wardenship of the Court of Dowry to a man who was not? The crumb of comfort that would have been afforded him by locking up the wretched lunatic who was the root of half his troubles was snatched from him.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Sì, lo so,” disse Repton con un leggero sorriso, “è un peccato che abbiate chiamato il vecchio Bowker. So che è molto bravo nel trattare problemi di nervi o dolori vari, ma è davvero un vecchio insopportabile. La verità è, Sir Anthony,” aggiunse, fissando con attenzione quel rinomato scienziato e abbassando leggermente la voce, “la verità è che il dottor Bowker non è proprio un gentiluomo.”
+
+“Sei un po’ troppo severo,” disse Sir Anthony sorridendo, “sei davvero un po’ troppo severo, Sir Charles!”
+
+“State attenti,” aggiunse Repton, “non dico nulla contro di lui per quanto riguarda la sua capacità professionale.”
+
+“Certamente no,” disse Sir Anthony.
+
+“Ma ci sono casi in cui i modi di un uomo fanno davvero la differenza, soprattutto nella tua professione.”
+
+Sir Anthony sorrise radioso. “Bene, Sir Charles,” disse, “sono molto contento di sapere che non è peggio, ” E mentre usciva mormorò tra sé: “Non più matto di me; ma non dovrebbe parlare così degli altri.” Il medico, intanto, rise di cuore.
+
+L’introduzione del dottor Bowker al paziente, nonché il suo soggiorno privato con lui, furono ancora più brevi rispetto a quelli di sir Anthony. Scelse di iniziare la conversazione con questa frase: “Credo che sir Anthony Poole vi abbia appena visitato, vero, signor Charles?”
+
+“Sì, ne ha uno,” rispose Charles Repton con tono piacevole e cordiale, “sì, ne ha uno, dottor Bowker, anche se non riesco proprio a capire il motivo,” aggiunse ridendo felicemente. “Dopotutto, se avessi bisogno di un medico per qualche motivo, naturalmente mi rivolgerei a uno specialista.”
+
+Quando Sir Charles rispose alle successive domande in modo molto semplice, dicendo di aver avuto due o tre volte nelle ultime ventiquattro ore dolori lancinanti dietro l’orecchio, tornò a lodare il specialista.
+
+“Se avessi qualche problema nervoso, ad esempio, dottor Bowker, vi chiamerei subito. Se avessi problemi con la tibia, chiamerei Felton.”
+
+Il dottor Bowker annuì con il più deciso approvamento. Era evidente che la notevole, sebbene superficiale, erudizione di Sir Charles Repton gli fosse di grande aiuto.
+
+“Se avessi problemi con i miei condotti uditivi, dovrei chiamare Durand. O,” continuò, con quel tono un po’ pomposo tipico di chi si dilunga nelle spiegazioni, “se fossero i miei linfatici a darmi fastidio, il primo nome che mi verrebbe in mente sarebbe Pigge.”
+
+L’entusiasmo del dottor Bowker non conosceva limiti. “Ha perfettamente ragione, signor Charles,” disse, “ha davvero ragione.” Quasi prese la mano del baronetto, nel calore della sua approvazione. “Se più persone – non parlo certo delle sue qualità e della sua posizione, ma semplicemente altre persone che possiamo definire le menti guida della nazione – condividessero il suo punto di vista, sarebbe davvero un giorno importante per la medicina.”
+
+“Ora, un uomo come Poole,” continuò Charles Repton con nonchalance, “cosa sa, cosa può sapere riguardo a qualche problema specifico? E ricordate: un uomo istruito sa sempre, in termini più o meno generali, di che tipo sia il proprio problema. Perché Poole, beh, ” Qui Sir Charles concluse con un sorriso pieno di comprensione.
+
+“Comunque,” disse il dottor Bowker, annuendo con forza, “so che quel vecchio problema non è ricomparso. E se fosse ricomparso, come hai detto tu stesso, sarebbe compito di Felton, non mio. Certo, c’è un aspetto legato al sistema nervoso; tutto ha questo aspetto, ma ogni specialista ha il proprio campo di competenza.”
+
+E il dottor Bowker uscì, immerso nei suoi pensieri, e concluse che l’ansia sciocca delle mogli potesse rivelarsi un vantaggio per la sua professione, ma che certamente non fosse affatto equa per le tasche dei loro mariti.
+
+“Beh, signor Anthony?” disse il dottor Bowker entrando nella stanza al piano terra.
+
+“Beh, dottor Bowker?” disse Sir Anthony con un sorriso cordiale.
+
+“Non capisco davvero perché ci abbiano chiamati,” disse il dottor Bowker.
+
+“Concordo pienamente”, disse Sir Anthony Poole.
+
+“Non c’è più nulla da fare, penso, ”, disse il dottor Bowker.
+
+“Niente,” disse Sir Anthony Poole.
+
+“Dovremmo parlare con la signora Repton?” chiese il dottor Bowker.
+
+“La scriveremo noi”, disse Sir Anthony Poole.
+
+Si congedarono da Lady Repton in modo solenne e comprensivo, assicurandola che fosse meglio esprimere le loro opinioni per iscritto e che lei le avrebbe ricevute quella stessa sera. E una volta adempiuta questa loro missione, questi due eminenti uomini se ne andarono insieme, con un rapporto migliore tra loro di quanto entrambi avessero pensato fosse possibile solo un’ora prima.
+
+“È un uomo straordinariamente intelligente,” disse Sir Anthony Poole mentre si separavano alla porta del Dr. Bowker’s Club, “un uomo davvero straordinariamente intelligente. Certo, ci si sarebbe aspettato questo data la sua posizione, ma solo oggi ho scoperto quanto fosse realmente eccezionalmente intelligente e colto.”
+
+“Concordo pienamente con te,” disse il dottor Bowker prima di congedarsi, “lui è ciò che io definisco, ”. Ci pensò un attimo prima di continuare: “Lui è ciò che io definisco un uomo davvero colto e intelligente.”
+
+Quella sera, Lady Repton ricevette un parere breve ma perfettamente chiaro, firmato da entrambe queste autorità di prim'ordine: suo marito possedeva pienamente le proprie facoltà mentali, e sarebbe stato estremamente imprudente attribuire qualsiasi comportamento eccentrico o zelo momentaneo riguardo a una questione specifica a un disturbo mentale, o collegarlo a un semplice mal di testa occasionale.
+
+Lady Repton, nel suo profondo stato di ansia (poiché nel momento stesso in cui lesse il messaggio sentì Sir Charles parlare con un poliziotto dalla finestra, dicendogli che era ridicolo cercare di apparire dignitoso indossando una simile uniforme), Lady Repton, insomma, disperata alla ricerca di consigli, ebbe il coraggio di chiamare il Primo Ministro, che conosceva appena, e di raccontargli tutto: non c’era alcuna possibilità di ottenere quel certificato; cosa, oh cosa doveva fare?
+
+Il Primo Ministro non era affatto comprensivo; non desiderava approfondire la conoscenza con quella signora.
+
+La coppa del Primo Ministro era piena. Il suo Sovrintendente della Corte dei Dote aveva rassegnato le dimissioni; il nuovo Sovrintendente era stato nominato. Quello che aveva rassegnato le dimissioni era impazzito; quello che lui stesso aveva nominato era fuggito. Almeno, almeno avrebbe potuto essere risparmiato da quel pazzo! Ma no, nemmeno questo gli fu concesso! Il pazzo era ancora a piede libero per [[London|Londra]], come una tigre ruggente, capace di compiere infinite cose nelle prossime ventiquattro ore. Che significato aveva un titolo nobiliare per un pazzo? E che significato aveva la carica di Sovrintendente della Corte dei Dote per un uomo che non lo era? Quel piccolo conforto che avrebbe potuto derivargli dal rinchiudere quel maledetto pazzo, responsabile di metà dei suoi problemi, gli fu strappato via.
 
 
 
@@ -5441,6 +7299,82 @@ Meanwhile his secretary, Edward, — to give him his full title, Teddy Evans —
 At the Treasury Evans had written regularly for a large evening paper, — he knew his way about such an organism. He betrayed no undue haste, well knowing the subtle delight the menials would have before such a display of retarding his every effort, and when the fat man, Mr. Cerberus, who keeps the door of the Capon offices, had pushed to him a dirty scrap of paper on which he was to write his name and business, he quietly asked for an envelope as well. It was given him with some grumbling.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sarebbe stato sufficiente per far sì che un uomo si tagliasse la gola.
+
+Così terminò quel terribile martedì a Downing Street; per tutta la notte, tra i suoi sonni agitati e pieni di orrore – nei quali il suo polmone sinistro e i suoi cinquantacinque anni rappresentavano i demoni maligni dei suoi sogni – il giovane e popolare Primo Ministro si svegliava coperto di sudore freddo, immaginando che qualche nuovo orrore stesse emergendo da Repton.
+
+La notte estiva è breve. Mercoledì sorse in modo particolarmente splendido; dopo due ore di tentativi di sonno sotto la luce appena sorta, il Primo Ministro si alzò, un uomo stanco e segnato dallo stress.
+
+Le linee ai lati della bocca del giovane Primo Ministro si erano approfondite durante le sofferenze di quella notte.
+
+Se fosse stato sposato e sua moglie avesse provato per lui quell'affetto che il suo carattere sicuramente avrebbe suscitato, lei sarebbe stata ansiosa di notare i cambiamenti in lui. Ma così è la pressione della vita politica e le ambizioni che essa suscita: le sue sofferenze sono passate inosservate dalla maggior parte delle persone, mentre per gli altri rappresentavano motivo di segreta soddisfazione.
+
+Si era ritirato molto presto. Prima ancora di aver mangiato, entrò rapidamente e nervosamente nella stanza della sua segretaria e disse:
+
+“Qualche novità, Edward?”
+
+“Sì,” disse la sua segretaria, cercando di sembrare ancora più nervosa del suo capo, “mi dispiace dirlo, ma c’è. L’Herald sta pubblicizzando un’intervista con Repton.”
+
+“‘Il Giornale’!”, disse il Primo Ministro stringendo i denti.
+
+“Sì, l’Herald,” rispose il segretario, “in realtà non fa molta differenza,” continuò stancamente, (aveva passato la maggior parte della notte in piedi), “se non fosse stato l’Herald, sarebbe stato qualcun altro.”
+
+“Dobbiamo eliminarli non appena arrivano,” rispose il Primo Ministro con aria cupa, “e comunque l’Herald non pubblicherà quell’intervista.”
+
+“Sì, lasciate che lo pubblichino,” disse il segretario… “Lo scriverò io, se volete.”
+
+“È proprio questo che intendo,” disse il Primo Ministro. “Voglio dire, non pubblicheranno ciò che la gente pensa che pubblicheranno.”
+
+“No,” disse Evans, “non lo faranno. Lui sta urlando da una finestra,” aggiunse la segretaria come se stesse riferendo delle novità.
+
+Il Primo Ministro emise un gemito.
+
+“Cosa stava urlando?” chiese con voce rauca.
+
+“Oh, solo insulti, niente di importante, ma la polizia si è lamentata. E ieri notte ha indicato Betswick, che era un po’ in carne, mentre barcollava per la strada, alcuni dicono che si sia anche seduto. Ha gridato dalla sua finestra a molte persone in strada che era proprio Betswick. Ora Betswick ha paura di andare ad aprire l’Ospizio delle Infermiere questo pomeriggio. È una vera vergogna!” concluse la segretaria, esplodendo in furia. “Ma che diavolo c’entrate voi con un uomo del genere, è come, è come un anarchico con dei pacchetti di dinamite addosso.”
+
+“Hai già letto i giornali, Edward?” chiese il Primo Ministro.
+
+“Alcuni di loro,” rispose cupamente la sua segretaria.
+
+"Niente nei “Times”?"
+
+“Oh no,” disse Edward, “niente in nessuno dei dodici giornali di [[London|Londra]] presenti nell’elenco ufficiale.”
+
+“Pensi che gli altri contino davvero?”
+
+“Beh,” rispose il segretario pensierosamente, “ci sono quei due giornali serali che stanno facendo tanto scalpore riguardo alle Concessioni in Birmania.”
+
+“Edward,” disse il Primo Ministro, “è una soluzione disperata, ma prendi il foglio che hai qui, scrivi un biglietto e invitali a pranzo. Non con me, con te. Verranno.”
+
+“Il pranzo non è niente di che,” disse Edward.
+
+# Perché no?
+
+I giornali serali vengono stampati la mattina.
+
+“Davvero è così?” disse il Primo Ministro, con lo sguardo più vivace che avesse mostrato da quando era iniziata questa terribile catastrofe. “È davvero importante saperlo! Non lo sapevo affatto, ” Rimase a fissare il vuoto per un momento, poi, come se si fosse improvvisamente reso conto di qualcosa, aggiunse: “Allora, Edward, non c’è tempo da perdere! Vai subito da loro. Vai tu stesso a parlarci, Edward.”
+
+“Non è molto utile”, disse Edward. “Conosco uno di loro, e l’altro è un po’ matto”.
+
+“Nessun problema,” disse il Primo Ministro, “nessun problema. Fai qualcosa in ogni caso. Se necessario, uccidili,” aggiunse scherzando, e la sua segretaria se ne andò.
+
+Il Primo Ministro uscì dalla stanza della sua segretaria e si avvicinò tristemente al suo pasto mattutino.
+
+Sul suo tavolo c'era un oggetto antico, realizzato in ottone e legno, progettato apposta per tenere il giornale mentre il proprietario di quella casa storica pranzava o cenava. Sopra di esso era aperta una copia del “Times”, con la prima pagina visibile. I titoli principali erano discretamente indicati; non c'era alcuna notizia importante, tranne una breve nota in caratteri piccoli che annunciava che Sir Charles Repton non avrebbe potuto partecipare al grande Congresso Wycliffita: era confinato in casa a causa dell'influenza. Era stato assicurato che una nota simile fosse apparsa in tutti e undici i giornali presenti nell'elenco ufficiale, e da lì sarebbe stata diffusa anche alla stampa provinciale; l’unica libertà lasciata alle redazioni era quella di decidere quale malattia affliggesse il famoso paziente: in un giornale si parlava di flebite, in un altro di tracheotomia, e in un terzo di un grave raffreddore.
+
+Nessuna parola su Demaine.
+
+Dolly ringraziò il Cielo per la disciplina che rende la stampa di [[London|Londra]] lo strumento più potente del governo al mondo.
+
+I suoi ringraziamenti erano prematuri; e l’ateismo gentile e un po’ malinconico che costituiva la sua unica credenza ricevette un ottimo sostegno quando, ogni mattina, tra le notizie che gli venivano portate, trovò due articoli tratti da giornali stranieri che descrivevano in dettaglio l’intera vicenda terribile accaduta nella [[City|>Città]], collegandola in modo esplicito allo scandalo avvenuto alla Camera dei Comuni. Si consolò pensando che le notizie che filtravano all’estero raramente, se mai, avevano l’opportunità di raggiungere l’Isola. Riconobbe inoltre che il tempo è un rimedio per tutti i mali e si preparò ad affrontare le incombenze della giornata.
+
+Nel frattempo, il suo segretario, Edward – per dargli il titolo completo, Teddy Evans – era arrivato nella prima delle due stanze che doveva visitare. Non erano ancora le nove e c’era ancora tempo per iniziare a lavorare.
+
+Alla Tesoreria, Evans scriveva regolarmente per un importante quotidiano serale; conosceva bene il funzionamento di un simile organismo. Non mostrò alcuna fretta eccessiva, ben consapevole del piacere che avrebbero provato i subordinati nel vedere come ogni suo tentativo venisse ostacolato. Quando l’uomo grasso, il signor Cerberus, incaricato di sorvegliare gli uffici della Tesoreria, gli porse un pezzo di carta sporco su cui doveva scrivere il proprio nome e l’oggetto della sua richiesta, lui chiese tranquillamente anche un involucro. Glielo diedero con qualche brontolio.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_06" data-title="A Change in the Cabinet — Chapter 11 (part 6)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/city"></span>
@@ -5513,6 +7447,74 @@ Mr. Price nodded and at the same time inwardly admired the omniscience of the Go
 “Now, Mr. Price,” continued Edward, still gazing at the street opposite, “there is the promise of a peerage. These things are hardly ever mentioned, and I tell it to you quite frankly. If that leader appears,” — turning round sharply— “the peerage will not be conferred, and your proprietor shall be told that that leader was the cause of it.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Scrisse il suo messaggio: “Se avete già iniziato a lavorare il metallo, fermatevi. Sono stato mandato qui con urgenza. — E. E.”
+
+Lo chiuse, lo sigillò con la gomma e attese. Non dovette aspettare nemmeno dieci secondi. Un giovane dall’aspetto magro e malnutrito, alto e snello, con i capelli lunghi e umidi come le erbacce che ondeggiavano sul mare, lo accolse con grande solennità. Non era frequente che questioni di Stato arrivassero fino a lui. Una di queste era già accaduta quell’anno stesso: all’epoca aveva pranzato con quella figura elevata che ora sedeva davanti a lui, e non l’avrebbe mai dimenticato.
+
+“Signor Evans,” disse con una certa pompa, alzando la mano sinistra e fissando il segretario con due grandi occhi ardenti e febbrili, “questo posto è un confessionale. Qualsiasi cosa dica sarà sacra, assolutamente sacra!”
+
+Ma Evans era abbastanza di buon umore.
+
+“Non è nulla di importante”, disse, “ma beh, sono un grande amico dei Repton”.
+
+“Lo so,” disse l’editore con simpatia, il che era strano, perché Evans conosceva appena l’indirizzo dei Repton solo perché aveva dovuto scrivere loro delle lettere, e i Repton conoscevano appena l’aspetto di Evans solo perché una volta lo avevano invitato a una cena di natura ufficiale.
+
+“Beh,” continuò Evans senza arrossire (quanto siano preziosi uomini di questo tipo!), “sono un grande amico, soprattutto della cara vecchia Lady Repton, grazie a mia madre,” aggiunse in tono spiegativo, “ma non voglio entrare nei dettagli. Il punto è questo: tutta la famiglia è davvero molto preoccupata.”
+
+“Lo so, lo so,” disse l’editore del “Capon”, ancora molto comprensivo e molto serio.
+
+“Beh,” disse Evans con un’aria di falsa disagio, “il fatto è che non vogliamo assolutamente che si parli di questa faccenda, niente. Dopotutto, è la soluzione più semplice. È un grosso problema. Mi fareste davvero un grande favore, e loro ne sarebbero molto grati.”
+
+“Certamente,” disse l’editore del “Capon”. Si rivolse verso un microfono situato a destra e stava per soffiare nel fischietto quando una violenta esplosione fece volare quell’strumento dritto verso il suo viso. L’editore esprimeva disgusto; quando quel sentimento si placò, chiese di ascoltare la dichiarazione richiesta. La dichiarazione gli fu portata subito dopo.
+
+“Stanno aspettando la macchina, signore.”
+
+L’editore tracciò con la sua penna blu l’elenco, segnò un piccolo ‘X’ accanto a uno degli elementi e disse: “Portatemi una prova di quello, per favore.”
+
+Emerse un documento di prova: vi si leggeva che Sir Charles Repton avrebbe tenuto un discorso al Congresso Wycliffita e, data la sua azione franca e decisa del giorno precedente, sia in aula che al di fuori di essa, si sperava che il suo intervento potesse rappresentare un forte appello nella attuale crisi religiosa. (“E così sarà!”, pensò Edward, rabbrividendo al solo pensiero).
+
+“Non c’è niente di male in questo,” disse. Poi, con un pensiero improvviso: “Ma dove è il capo?”
+
+“Le concessioni, ”, disse sorridendo il redattore di “Il Caprone”.
+
+“Beh,” disse Evans, “non siamo d’accordo su questo, vero?” E sorrise a sua volta.
+
+“Dovrei lasciare ordini generali riguardo agli oggetti di Repton durante il giorno?” chiese l’editore.
+
+“Certo,” disse Evans, poi, ricordandosi del suo piccolo stratagemma, aggiunse: “Non stampate nulla a meno che non provenga direttamente dalla famiglia. Capite cosa intendo?”
+
+“Capisco,” disse l’editore. “Dopo questo, sarà il vice-editore Riggles a occuparsene. Io vado a casa.”
+
+Scrisse con caratteri grandi su un foglio di carta: “Nessun articolo su Repton, nemmeno quelli delle agenzie di stampa, tranne quelli provenienti direttamente dalla casa stessa. F. D.” – il suo nome era infatti Francis Davis. “Porta questo a Mr. Riggles,” disse al diavolo, e i due uscirono insieme.
+
+Sapendo bene che la casa di Davis si trovava ai confini della periferia, mentre lui stesso stava dirigendosi verso il centro di Fleet Street, Evans si offrì di accompagnare il suo compagno. Con suo disgusto, l’offerta fu accettata e dovette portare l’editore del “Capon” fino alla stazione di St. Paul’s; questo gli costò dieci minuti, e quei dieci minuti furono quasi fatali. Quando infatti tornò a tutta velocità negli uffici del “Moon”, il giornale era già in fase di stampa. Le macchine ronzavano e tuonavano nel seminterrato, e migliaia di pagine di carta venivano prodotte a ritmo frenetico per soddisfare la “divina sete di conoscenza” dei lettori.
+
+Sembrava troppo tardi, ma Evans lo fece comunque con coraggio. L’editore se n’era già andato, ma inviò la sua carta al vice-editore, scrivendo sopra: “Dal Primo Ministro”. Era un momento che richiedeva misure eroiche.
+
+Chiese di vedere una copia anticipata del documento. Il leader era Repton. Solo Repton. Repton aveva rivelato la malvagità delle finanze moderne; per i propri scopi personali, Repton era disposto a smascherare l’assurdità della nostra politica; Repton avrebbe detto loro la verità sulle Concessioni. Avevano ricevuto la promessa di un incontro con Repton. Quali motivi potessero aver spinto Repton ad agire in quel modo, non riuscivano a capirlo. Per loro era sufficiente che Repton, eccetera.
+
+Il leader aveva un titolo, e il titolo di quel leader era Repton. Era stato coniato un nuovo termine: “reptonizzare”, seguendo lo stesso modello di “peptonizzare”. La Luna minacciava di reptonizzare l’intera nostra vita pubblica.
+
+Evans trascorse circa trenta secondi a guardare il pavimento.
+
+“Riusciranno a fermare le macchine, signor Price?”, chiese lui, poiché Price era il nome del vice-redattore.
+
+“Sì”, disse il vice-redattore, “Perché?”
+
+Evans si avvicinò alla finestra, guardò fuori nella strada della [[City|Città]] e disse, senza mostrare il viso:
+
+# “Il signor Price è un membro molto apprezzato del nostro gruppo.”
+
+Alla parola “proprietario”, il signor Price cambiò colore. Tuttavia, Evans non intendeva il proprietario del signor Price, ma semplicemente il proprietario della Luna.
+
+“Signor Price, le dirò tutto” (e gli raccontò davvero molto di più!). “Il suo proprietario è partito per il Canada durante le vacanze di Pasqua; si è ammalato a Montreal; ora sta tornando e arriverà a casa la prossima settimana.”
+
+Il signor Price annuì e, nel frattempo, ammirò in cuor suo l’onniscienza del governo.
+
+“Ora, signor Price,” continuò Edward, ancora fissando la strada di fronte, “ci è la promessa di un titolo nobiliare. Queste cose quasi mai vengono menzionate, e ve lo dico con assoluta franchezza. Se quel leader dovesse apparire, ” — si girò bruscamente — “il titolo nobiliare non verrà concesso, e al vostro proprietario verrà detto che è stato proprio quel leader a causarne l’impossibilità.”
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_07" data-title="A Change in the Cabinet — Chapter 11 (part 7)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/london"></span>
@@ -5554,6 +7556,44 @@ She was really fond of her cousin, and for his sake she comforted, and, what was
 
 As for Ole Man Benson, beyond a natural regret that such an asset as a son-in-law in the Cabinet was still held over as a contingent and that he could not for the moment close upon the option, he took the matter in a calm and philosophical spirit.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ma, signor Evans, ”, iniziò il vice-redattore con voce vuota.
+
+Evans divenne improvvisamente deciso. Era sorprendente osservare il cambiamento in quell’uomo. Il suo comportamento e l’atteggiamento che assumeva avrebbero potuto sembrare notevoli anche all’osservatore più indifferente; per chi sapeva che il proprietario della “Luna” non si era mai trovato, fino a quel momento, a meno di cinquecento miglia da un titolo nobiliare, sarebbe stato davvero incredibile.
+
+“Signor Price,” disse Evans rapidamente e molto chiaramente, “si trova in una situazione difficile. Se non pubblica questa edizione, se deve ritardarne la stampa, ciò costerà al suo proprietario una somma considerevole, sia direttamente che indirettamente. Lo so bene. Ma se la pubblica, invece, non gli costerà nulla, ma, ”
+
+Il signor Price pensò a quella piccola casa a Peckham; ai tre giovani Price, alla signora Price e a tutte quelle emozioni che spesso nascono nei contesti più aridi e inaspettati. Era nel tormento, chiedendosi quale decisione avrebbe causato il minor danno possibile. Fece un ultimo tentativo.
+
+“Posso averlo per iscritto?”
+
+“Assolutamente no!”, disse Evans.
+
+“Molto bene, signor Evans,” disse umilmente il vice-redattore, “fermerò le macchine”, e con il cuore pesante suonò la campanella.
+
+E così fu che la Luna apparve un’ora più tardi del solito; in quel momento particolare, il leader affrontò i vizi deleteri del Re di Boemia, nonché la sua gravissima cattiva amministrazione delle isole Spitzbergen, questioni che vennero portate all’attenzione dell’opinione pubblica europea.
+
+Coloro che si sono chiesti perché Edward, senza alcuna formazione precedente, sia stato subito nominato socio di quella grande banca dopo quell’incidente, avrebbero smesso di porsi questa domanda se fossero stati presenti a quell’intervista.
+
+La stampa era al sicuro.
+
+Che quelle agenzie fossero al sicuro era ovvio, senza bisogno di dirlo. Il Blocco A – un gruppo di otto giornali di proprietà di una stessa persona, come veniva comunemente chiamato dagli ufficiali permanenti – era stato messo sotto controllo il giorno prima. Il Blocco B, un altro gruppo di sei giornali di proprietà di un suo amico, per motivi personali non poteva pubblicare notizie di questo tipo. L’“Evening German” non avrebbe mai osato farlo, e il “Bird of Freedom” non ne sarebbe nemmeno stato a conoscenza. Per quanto riguardava Repton, la stampa era al sicuro.
+
+Ma che ne è di Demaine?
+
+Alla “Herald” era stato comunicato in modo piuttosto deciso che, per motivi inevitabili, doveva posticipare l’intervista con Sir Charles Repton. Quel paragrafo stesso era stato scritto da Edward, e la “Herald” aveva accettato senza obiezioni quella decisione.
+
+Ma che ne è di Demaine?
+
+Quello aveva preso il sopravvento su di loro, e non c'era nulla da fare se non aspettare che Demaine venisse trovato. Non appena fosse stato ritrovato, avrebbero potuto agire e fornire una spiegazione che avrebbe presto fatto dimenticare quel mistero. Ma un silenzio continuava a circondare quel nome sfortunato.
+
+Nessuna notizia era arrivata dai corridoi dell’edificio, né da Scotland Yard. Alla fine, e cosa più importante, nemmeno Mary Smith stessa poteva dire nulla a Dolly; e se lei non riusciva a farlo, di certo nessun altro a [[London|Londra]] avrebbe potuto.
+
+Lei aveva davvero un grande affetto per suo cugino, e per amor suo cercava di consolarlo e, cosa ancora più importante, di trattenere Sudie dal comportarsi in modo imprudente.
+
+Per quanto riguarda Ole Man Benson, oltre al naturale rammarico per il fatto che un elemento prezioso come un genero nel Gabinetto venisse ancora considerato una risorsa “eventuale” e non potesse quindi essere immediatamente utilizzato, affrontò la situazione con calma e filosofia.
 
 
 
@@ -5621,6 +7661,68 @@ But the boy’s information, as is common with the official statements of inferi
 A voice came bawling down from above, ordering him to tumble up with the prisoner.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XII
+
+“Oh Libertà!” esclama il poeta bulgaro Machinchose in un bellissimo apostrofo, troppo poco conosciuto in questo paese, “Oh Libertà”, ecc.
+
+Nessuno aveva mai fatto conoscere a George Mulross Demaine le dolcezze di quella parola nei giorni in cui ne godeva appieno il privilegio. Ora, mentre l’alba splendente di quel mercoledì lo risvegliava nel profondo del sonno, scoprì la bellezza della Libertà.
+
+Il suo significato permeava tutta la sua essenza quando si svegliò nella sua misera cella: riposato, ma molto debole, vide i raggi del sole mattutino che si alzavano all’altezza delle onde del mare, creando un insieme di luci e ombre che formavano una sorta di “rete” ritmica sull’area ovale illuminata dal portellone, contro lo sporco e il ruggine delle pareti.
+
+Toccò meccanicamente il proprio orologio e non trovò nulla se non pelle nuda; allora (che insegnante è la sfortuna!), lui che non aveva alcuna dimestichezza con i metodi di induzione, iniziò a procedere per induzione come qualsiasi altro essere naturale.
+
+La luce del sole era perfettamente orizzontale; l’immagine del portellino sul muro era infatti appena più bassa del portellino stesso: quindi il sole era appena sorto.
+
+Era giugno; quindi, se il sole fosse appena sorto, l’ora sarebbe stata molto presto. Quanto presto esattamente? Di certo non avrebbe potuto rispondere a questa domanda se gliel’aveste fatta una settimana prima. Ma l’avversità, quell’incredibile maestra, stava sviluppando la mente di George Mulross proprio come i boccioli di narciso sbocciano sotto i primi venti di primavera. Era in grado di ricordare il sorgere del sole dopo una festa a Buteleys, e un altro ancora dopo una grande cena a Granges. In entrambi i casi, andava a letto prima delle cinque e mezza. Quindi, l’ora doveva essere tra le quattro e le cinque.
+
+Il termine “solstizio” non era familiare a questo membro dell’esecutivo britannico, ma sembrava ricordare che in questa stagione le notti erano le più corte.
+
+Era pieno di un nuovo orgoglio mentre faceva queste scoperte. Poi due cose gli colpirono contemporaneamente: la prima era che aveva una fame terribile, la seconda era che ogni movimento della nave si era fermato. Non sentiva alcun suono, tranne il leggero rumore delle piccole onde che lambivano i fianchi della nave, perché faceva calmo, a parte quella brezza mattutina.
+
+Cercò di utilizzare le sue nuove capacità per indovinare la posizione della nave osservando la direzione della luce, ma poiché aveva dimenticato in quale parte della nave venisse calata l’ancora, e non conosceva affatto le condizioni delle maree nel Canale della Manica, né sapeva se queste durassero sei o dodici ore (era certo che fossero una di queste due cifre), inoltre ignorava completamente i dati necessari per effettuare un’analisi accurata, presto si stancò. Si accontentò quindi di appoggiarsi al muro e desiderare ardentemente del cibo.
+
+Sentì dei passi fuori; colpì la porta con il pugno. Con sua gioia, una chiave girò nella serratura e il volto cupo del ragazzo apparve di nuovo. Nonostante fosse ancora presto e il tempo fosse incantevole, il ragazzo rimaneva triste.
+
+“Ci stai causando solo altri problemi, maledetto sporco!” fu il suo saluto.
+
+“Sono sicuro di essere davvero molto dispiaciuto,” disse George. “Ho bussato solo perché ho una fame terribile. Non potresti procurarmi qualcosa da mangiare?”
+
+“Yus,” disse il ragazzo pensieroso, “Non ci avrei mai pensato! Mi faresti gettarla via. Sei davvero particolare, come una specie di ‘nana ospedaliera’, ” aggiunse, ricordando una donna audace in uniforme sgargiante che una gentile signora aveva fatto entrare nella umile casa di sua madre poco prima che lui salisse sulla nave.
+
+“Demaine aveva un bisogno urgente. ‘Guarda qui,’ disse, ‘portami del pane.’”
+
+“Perché?” chiese il ragazzo.
+
+Demaine annuì in modo misterioso; ancora una volta, il suo carceriere si trovava diviso tra il desiderio di ottenere un qualche vantaggio definitivo e la consapevolezza che al momento non fosse possibile alcun guadagno concreto.
+
+Era un ragazzo di [[London|Londra]], con tutti i vantaggi che una nascita a [[London|Londra]] comporta; gli era già venuto in mente che l’accento, il modo di fare e le abitudini di Demaine differivano in modo strano da quelli dei soliti clandestini. Era rimasto colpito dal cibo; ancora di più lo avevano colpito alcune particolari espressioni linguistiche che gli ricordavano quei persone odiose, ma, come gli era stato detto, ricche, che venivano nel quartiere East End dove viveva sua madre per fare del bene. Dopo averci pensato bene e aver “addomesticato” ulteriormente il suo prigioniero con un altro epiteto ben scelto, andò via e tornò con un pezzo di pane.
+
+“Sei fortunato,” disse tornando, “perché si tratta di un viaggio breve. Altrimenti saresti finito nei guai, ” Poi aggiunse: “E con dei vermi giganti dentro!”
+
+George non rispose. Mordicchiava il pane con estasi, e i suoi occhi, che i suoi conoscenti a [[London|Londra]] di solito consideravano privi di vita, brillavano davvero in quella mattina d’estate.
+
+“Riusciranno a comunicare con le vittime prima”, disse il ragazzo in tono pomposo.
+
+“Sì?”, disse George con la bocca piena.
+
+“Ho! sì, è vero!” ghignò il ragazzo, che pensava ci fosse qualcosa di elegante in quell’uso della semplice affermazione. “E poi vi faranno atterrare, e vi metteranno le manette prima ancora di colazione.” Questa volta non aggiunse nulla riguardo all’impiccagione. I dettagli di quel momento erano troppo avvincenti per poter pensare ad altro.
+
+“Come intendi dire ‘comunicare’?”, chiese George con noncuranza, ascoltando attentamente.
+
+“Ehi, che strana bandiera, quella non è giusta,” disse il ragazzo.
+
+A Demaine era stato spesso detto di quali messaggi lunghi e complicati potessero trasmettere quei piccoli pezzi di stoffa colorata, ed egli stesso aveva portato in una scuola rurale un intero insieme di bandiere che, disposte in un certo ordine, significavano che [[England|Inghilterra]] si aspettava che ogni uomo adempisse al proprio dovere. Ma non riusciva a capire come un messaggio così completo, come la presenza e l’arresto desiderato di un sfortunato clandestino a bordo, potesse essere trasmesso alle autorità a terra con mezzi così semplici. A meno che, forse, la presenza di clandestini non fosse un fenomeno così comune da rendere necessario l’uso di segnali in codice per lo sbarco di quel “carico”.
+
+Il ragazzo lo illuminò.
+
+“Hanno alzato la bandiera,” disse, “con scritto ‘Mandate un baht’, e quando la vedranno, verranno loro stessi ad avvicinarsi. Allora sarà il momento giusto per agire.”
+
+Ma le informazioni fornite dal ragazzo, come spesso accade nelle dichiarazioni ufficiali di persone di rango inferiore, erano gravemente errate.
+
+Una voce gridò dall'alto, ordinandogli di salire insieme al prigioniero.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_02" data-title="A Change in the Cabinet — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
@@ -5679,6 +7781,60 @@ There are serpents and serpents. Minds of Demaine’s type move commonly with th
 He was up, on to the bale, over the bulwark and down ten feet into the sea, before he had even had time to formulate a plan. He could swim, and that was enough for him.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+George ci riuscì davvero; cioè, strisciò su per quella scala ripida e rumorosa, e quando mise la testa fuori in quell’aria meravigliosa, pensò che non esistesse mai un contrasto più forte tra cielo ed inferno. Inspirò a fondo quell’aria fresca e si raddrizzò, rischiando di rovinare il suo abito verde scuro.
+
+George Mulross era uno di quei rari uomini che non hanno mai scritto versi, ma in quel momento fu capace, se non della loro esecuzione, almeno di esprimere i sentimenti di cui i miei lettori più classici sono ormai stanchi. Versi come quelli presenti in “Prom. Vinc. Chor. A. 1-19”: “Oh, l’aria divina! La profondità e l’immensità del cielo!”
+
+Il cielo, pieno di luce paterna, vedeva il sole sorgere; un vivido tratto di [[England|Inghilterra]] si estendeva, ancora addormentato, verde e tranquillo sotto quella benevolenza naturale; al suo centro, circondato da campi, sorgeva una deliziosa piccola città: era Parham.
+
+Demaine aveva già notato una o due volte quanto stranamente piacevoli appaiono le case degli uomini viste dal mare; tuttavia, essendo più familiare con Calais, Dover, Ostend, Folkestone e Boulogne che con altri porti, e avendole spesso viste in tempo invernale piuttosto che durante la stagione londinese, questa visione – l’[[England|Inghilterra]] vista dal mare estivo – gli sembrava qualcosa di miracolosamente nuovo.
+
+Lo spirito chiaro che ribolliva dentro di lui si scontrò con un’altra corrente, più torbida ma altrettanto potente, quando i suoi occhi incontrarono il primo ufficiale.
+
+Quell’individuo lo guardò con odio, ma non si degnò nemmeno di rivolgergli una parola. Ordinò al ragazzo di stare accanto a George in un luogo specifico sul ponte fino a quando non sarebbe stato chiamato; in seguito minacciò diversi organi vitali del ragazzo se il prigioniero non fosse stato tenuto sotto adeguata sorveglianza, e dopo aver pronunciato queste minacce, si allontanò barcollando.
+
+“Quell’uomo anziano ti vorrà presto, per farti fare il lavoro di pulire le lenzuola,” disse il ragazzo per rompere il silenzio. “Forse ti picchierà, forse no. L’ultima volta non l’ha fatto,” aggiunse poi, come se fosse consuetudine picchiare sette dei nove clandestini al momento della partenza, facendo eccezioni solo per alcuni preferiti.
+
+“Dovrai portare quella carta con te; almeno chi è responsabile di tutto la avrà, e se la darà alla polizia, e la polizia la consegnerà alle autorità competenti. Se non fai così, tutto andrà storto. Altrimenti potrebbero mandarti via. E hanno il diritto di farlo: non scherziamo!”
+
+Ma Demaine non prestava attenzione ai commenti sgradevoli del suo carceriere. Stava valutando le scarse possibilità offerte da quella mattina, e più ci pensava, meno sembravano promettenti.
+
+La riva era forse a mezzo miglio di distanza; erano circa le cinque, o forse poco dopo. Entro le sei, o al massimo le sei e mezza, le prime persone di Parham si sarebbero alzate.
+
+La speranza ostinata e radicata della classe dominante che un gentiluomo possa sempre uscire da ogni situazione difficile si era ridotta in lui a quella scintilla morente che sopravvive durante le invasioni e nell’ora della morte.
+
+Non si fidava del proprio accento, non si fidava della propria pelle, non si fidava delle proprie origini, non si fidava della propria ricchezza – ahimè, la sua ex ricchezza! – per essere più precisi, l’ex ricchezza del padre di sua moglie.
+
+Non si fidava di nulla se non della pura casualità, dei suoi muscoli e del suo volo.
+
+Odiava quell’immagine che gli si presentava chiaramente davanti agli occhi: quel piccolo capitano dal viso da donnola e la barba rossa appuntita, che recitava meccanicamente altre stupide frasi tratte da un manuale; odiava il pensiero di ciò che sarebbe successo dopo, quegli uomini in blu, con la loro violenza e i loro metodi brutali per farlo tacere. Non si soffermò nemmeno a chiedersi se avrebbe potuto convincere un magistrato; la strada da percorrere era troppo lunga, era un corridoio buio che conduceva alla Distruzione.
+
+Sentì una seconda voce che chiamava il ragazzo, accompagnata da giuramenti piuttosto insoliti e caratteristici, pronunciati con un tono alto che non aveva mai sentito prima; pensò quindi che fosse arrivato il suo momento.
+
+Ma la risposta del ragazzo non lo ingannò.
+
+“Non fatelo!”, gridò verso le piattaforme inferiori, “Dovete tenere d’occhio quel tipo… lo Skunk”.
+
+A quanto pare, pensò amaramente George, già a bordo del “Lily” aveva un nome tradizionale e fisso, come Blacky e l’Old Man.
+
+Il cuoco, poiché era proprio lui, uscì dalla cucina situata nella parte posteriore della nave, si fermò sotto il sole abbagliante e pronunciò oscenità a velocità incredibile e con precisione infallibile.
+
+Il ragazzo singhiozzava e era indeciso.
+
+Se le minacce del compagno fossero state meno concrete, quelle dello chef avrebbero potuto avere meno effetto. Ma di fronte alla prospettiva di avergli rimosso il fegato e allo stesso tempo di dover sopportare una serie di banchetti abbondanti e forti calci, quale giovane sano di mente esiterebbe in una civiltà come la nostra?
+
+Il ragazzo esitò visibilmente; poi, rivolgendosi allo Skunk, gli ricordò ancora una volta che continuava a mettere le persone nei guai. Anzi, minacciò di far pagare a degli innocenti il prezzo del suo disperato tentativo di svolgere due compiti diversi contemporaneamente.
+
+Il cuoco ricomparve; aveva preparato un nuovo carico di munizioni e iniziò a sparare in modo ancora più diretto, devastante e rapido rispetto al primo attacco. Il ragazzo, che dopotutto era più legato al cuoco che a chiunque altro a bordo, esitò per un momento. Ma dopo aver ricevuto una chiara minaccia riguardo alle conseguenze di qualsiasi movimento non autorizzato da parte di Demaine, e la promessa di tornare prima ancora che qualcuno potesse sputare verso poppa, corse immediatamente nella cucina. Per forse cinque o dieci secondi, il futuro Sovrintendente della Corte dei Dote rimase libero.
+
+Il movimento della mente umana, afferma Marco Aurelio (in questa frase, come nella maggior parte delle sue opere, si tratta di un’imitazione), assomiglia a quello di un serpente.
+
+Ci sono serpenti, e serpenti. Le menti di tipo Demaine si muovono spesso come quelle di una pitone saziata ma appena risvegliata dal sonno; ma anche la pitone, se costretta, scatterebbe. E in quei cinque secondi, non la ragione, ma un istinto animale guidava l’anima di quel politico.
+
+Era già in piedi, sul fascio di paglia, oltre la battigia, e poi era caduto dieci piedi nel mare, senza nemmeno aver avuto il tempo di pensare a un piano. Sapeva nuotare, ed era sufficiente.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_03" data-title="A Change in the Cabinet — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/england"></span>
@@ -5712,6 +7868,36 @@ They unlashed her and let her down. Two men tumbled into her, the second officer
 
 When Demaine heard the beat of the oars and again floated to look backwards, he estimated the distance between himself and the shore and gave himself up for lost. Now indeed there could be no doubt of the rope’s end! He could not disappear like a whale for any appreciable time beneath the surface; the tales he had read (and believed) of heroes in the Napoleonic and other wars, who themselves, single-handed and in the water, had fought a whole ship’s crew with success, he now dismissed as idle fables. There was nothing left for him but, somewhat doggedly, to continue the overhand stroke, for now that he was discovered there was no point in the slower breast stroke that had helped to conceal him. They were making (as they said in the days of the Clippers) perhaps three feet to his one, but freedom is dear to the human heart, and he pegged away.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo schizzo d’acqua prodotto dal notevole peso di Demaine, che spostò una quantità d’acqua pari al suo peso nel Canale della Manica, raggiunse le orecchie del guardiano di bordo, il quale si trovava comodamente appoggiato alla ringhiera opposta della nave, guardando verso il mare e riflettendo su un piccolo debito che aveva lasciato indietro nella parrocchia di Wapping. Senza perdere la dignità, il guardiano si avvicinò per vedere se fosse successo qualcosa. Lo schizzo d’acqua era stato piuttosto forte, ma poteva anche essere stato causato da qualcosa gettato dalla galera.
+
+Prima di tutto, osservò attentamente la zona a prua di dritta, verso il mare. Non c'era schiuma sull'acqua: tutto era immobile. Gli venne l'idea di attraversare il ponte; lo fece con calma e credette di notare, in lontananza lungo la fiancata della nave e già trascinato a poppa dalla corrente, un anello di schiuma che stava scomparendo rapidamente. Era un uomo stupido (sebbene non dovrei dirlo, visto che proveniva da Bosham, nobile e “fatale Signora del Mare”, ), e fissò quell'anello di schiuma con fascino, chiedendosi cosa potesse averne causato la formazione, fino a quando non fu riscosso dal tuono della voce dell’ufficiale di guardia che, dal ponte, gli chiese in termini assolutamente chiari cosa avesse fatto alla nave Skunk.
+
+Il senso di innocenza era così forte in quell’anima onesta e marittima che lui rispose con uno sguardo semplice, che quasi fece venire un attacco d’ilarità all’ufficiale anziano. E nel mezzo di tutto quel discorso, il ragazzo, pallido per la paura, corse fuori dalla cucina e trovò non il suo incarico, ma l’uomo di Bosham che fissava, come un maiale impalato, il proprio superiore, e il mondo intero.
+
+Il ritorno del ragazzo fu un vero sollievo per il capo ufficiale; alimentò ancora di più la sua rabbia. Per poco non saltò giù dal ponte in preda alle sue furie. Solo il cielo sa cosa avrebbe fatto a quel povero ragazzo, che considerava responsabile dell’incidente. Se in quel momento non avesse notato una piccola macchia sull’acqua illuminata dal sole, lontano dietro di loro: era la testa di George Mulross Demaine, che lottava contro il destino.
+
+Il futuro Sovrintendente del Tribunale delle Dote sapeva nuotare abbastanza bene; era solito fare il bagno in una piscina. Di tanto in tanto aveva nuotato anche vicino alla riva, ma non aveva idea di quanta acqua salata potesse finire nella bocca di un uomo durante una lunga nuotata in mare, soprattutto se ci si immergeva in modo goffo senza prepararsi adeguatamente. Inoltre, il fenomeno della marea lo sorprese molto: nella sua ingenuità, aveva pensato che anche il mare fosse una sorta di piscina e che potesse nuotare dritto verso la riva, la quale si trovava appena a est dell’ingresso del porto.
+
+Così com'era, [[England|Inghilterra]] sembrava passare via a una velocità terribile; il “Lily”, quando lui si girò sulla schiena e rimase sospeso per un momento ad osservarla, aveva l’aspetto esatto di una nave che viaggiava a tutta velocità attraverso la Manica, tanto rapidamente si allontanava.
+
+Nuotò troppo in fretta e si esaurì, perché la sua mente era piena di terrore: avrebbero potuto sparargli addosso. Non sapeva quali orribili armi potesse contenere quella “Liliana”!
+
+Ricordava di aver notato, sui transatlantici a vapore che attraversavano la Manica, delle piccole pistole di bronzo estremamente luminose; lo scopo e l’uso di quelle armi gli avevano spesso suscitato perplessità. Ora sapeva! E sperava, contro ogni probabilità, che nessun simile strumento di morte fosse montato sulla poppa della nave “Lily”.
+
+Temeva ogni momento che il lampo acuto delle fiamme si mescolasse con la luce del sole, che si formasse un filo di fumo, che si sentisse lo strillo della granata, che ci fosse uno sparo e poi quel boato cupo che risuonava nell’aria. E tutto il resto di ciò di cui aveva letto: il primo colpo per stabilire la distanza giusta; quel terribile secondo in cui sarebbe stato colpito.
+
+Si rasserenò man mano che i minuti passavano e nessun esperimento di balistica marina veniva tentato. Mentre veniva trascinato via dal corso incessante dell’Oceano, gli giunse all’orecchio un debole rumore che, sul posto stesso, sarebbe stato un fragoroso clamore; vide un gruppo di uomini che lottavano con i bracci di sollevamento, ma questi erano rigidi e l’uso dei bracci di sollevamento non era previsto nei piani del “Lily”. Infatti, tra tutta l’equipaggio, solo due persone avevano mai maneggiato un simile dispositivo prima d’allora, e uno di loro era italiano.
+
+Qualcun altro al posto del Capitano Higgins sarebbe stato profondamente grato di vedere il clandestino annegare; non così quel coscienzioso servitore dell’Azienda. Il clandestino ricevette cibo e alloggio sufficienti a mantenerlo in vita fino al momento in cui avrebbe potuto essere consegnato allo Sceriffo, ai suoi ufficiali o ad altri funzionari incaricati di far fronte a reati come violazione dei contratti, torti civili, recupero di beni e altre questioni legali. Il clandestino era responsabile davanti alla Legge, e il Capitano Higgins ne era il responsabile; quindi era necessario calare una barca per recuperarlo. E poiché c’era qualcosa di più significativo nel far uscire i paranchi sotto gli occhi di un intero porto britannico, piuttosto che gettare semplicemente la barca in acqua, decise comunque di procedere così, e per questo perse dieci minuti preziosi: in quel lasso di tempo, la marea aveva già spinto quella piccolissima figura che rappresentava George Mulross Demaine quasi al di fuori della portata del suo cannocchiale.
+
+Il Capitano Higgins si arrese; lasciò le corde di ormeggio così come erano: una bloccata saldamente, l'altra girata a metà in modo doloroso, uno spettacolo deplorevole per la città di Parham e vergognoso per la reputazione degli uomini di mare a bordo della “Lily”. Poi ordinò di far calare il piccolo canotto oltre il bordo.
+
+Le sciolsero i legami e la lasciarono scendere. Due uomini le caddero addosso; il secondo ufficiale prese il comando e loro iniziarono a remare controcorrente con tutta la forza che l’orribile disciplina del Capitano Higgins poteva ispirare, guidati dalle sue continue istruzioni, avanzando a una velocità tale da sicuramente raggiungere alla fine il fuggitivo.
+
+Quando Demaine sentì il rumore dei remi e si voltò di nuovo indietro, stimò la distanza tra sé e la riva e si arrese all’idea di essere perduto. Ora non c’era davvero più dubbio riguardo all’estremità della corda: non poteva scomparire sotto l’acqua come una balena per un periodo di tempo significativo; le storie che aveva letto (e in cui credeva) su eroi delle guerre napoleoniche e altre battaglie, che da soli e in acqua erano riusciti a sconfiggere intere squadre nemiche, ora le considerava semplici favole. Non gli restava altro che continuare, con determinazione, a remare; ormai che era stato scoperto, non aveva più senso utilizzare il ritmo più lento del crawl che prima lo aveva aiutato a nascondersi. Loro avanzavano probabilmente a un ritmo di tre piedi ogni dieci dei suoi, ma la libertà è qualcosa di prezioso per il cuore umano, e lui continuò a remare con tutte le sue forze.
 
 
 
@@ -5748,6 +7934,38 @@ To begin with, it was lined everywhere with books, and though he himself had rea
 
 Manuscripts were lying upon the table, manuscripts consisting of long double lists of names with a date between them. The Jewish Encyclopedia was ranged in awful solemnity before these manuscripts; the Court Guides, reference books and almanacs of [[London]], Berlin, New York, Frankfort, Paris, Rome and Vienna, were laid ready to hand, and sundry slips detailing the family origins and marital connections of most European statesmen, including of course our own, completed the work upon which the chief resident of the house appeared to be engaged.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le splendide dee del mare lo amavano più di quanto amassero gli orribili abitanti dei lillà; facevano sì che la marea si dirigesse verso riva, e la Dama del Mare, quella dalle gambe d’argento, guidava le piccole onde a suo favore.
+
+Aveva raggiunto una zona dove la marea si ritirava molto rapidamente lungo un canale o una depressione presente sulla riva. Fu una vera fortuna per lui, poiché i suoi inseguitori erano ancora nella parte esterna della marea. Ora si trovava a meno di un quarto di miglio dalla linea di risacca e continuava ad avanzare velocemente; tra la sua barca e loro c'erano probabilmente circa duecento metri. Non sentiva più il loro respiro affannoso sul proprio collo, ma riusciva a udire le grida ritmiche dell’ufficiale che gli stava alle spalle, mentre criticava con tono deciso e enfatico il comportamento della sua squadra. Quando il suo piede destro, freddo e intorpidito, colpì qualcosa; poi il sinistro toccò la sabbia. Era [[England|Inghilterra]]! E quel politico inglese, come Anteo, si sentì felice e rinvigorito.
+
+Barcollando, uscì da lì; l’acqua sulla sabbia non era profonda più di un metro e mezzo. Continuò a camminare in fretta attraverso le onde che si schiantavano contro i suoi piedi. L’acqua gli arrivava alle ginocchia, ai polpacci, agli ankle, ma finalmente raggiunse la terraferma!
+
+Un problema davvero interessante per il tattico amatoriale esperto nelle operazioni di sbarco si presentò in questo caso: la barca doveva arenarsi lontano dalla riva; non poteva essere abbandonata; si trattava di una gara alla pari, e i suoi inseguitori avrebbero dovuto lasciare qualcuno a bordo della barca che si era arenata troppo lontano per poter essere tirata sulla spiaggia.
+
+A Demaine sembrò che una qualche combinazione di eventi si fosse verificata in modo confuso, ma non ebbe il tempo di analizzarla. Fece ciò che aveva già fatto più volte negli ultimi giorni infelici: fuggì. I suoi piedi intorpiditi soffrirono terribilmente sulle pietre presenti sopra la sabbia, ma corse dritto verso l’interno della terraferma, attraversò una strada accidentata, inciampò in un campo salato e si diresse verso un boschetto spinoso situato a circa mezzo miglio dall’oceano, che resisteva con forza ai venti marini. Mentre si avvicinava a quel boschetto, vide due uomini della barca appena superare la cresta della strada costiera; quando entrò nel bosco, loro erano già nel campo dietro di esso.
+
+La boscaglia era fitta, ma Demaine ebbe la prudenza di procedere in coppia; strisciò con cautela ma rapidità, allontanando i rami più spessi il più silenziosamente possibile, e sopportò con coraggio le innumerevoli spine che gli laceravano la pelle. Si fermò per un momento per guardare attraverso una zona un po’ meno fitta verso il campo. E lì, con grande sorpresa, vide i due marinai camminare lentamente, chiacchierando amichevolmente e prendendosi tutto il tempo che volevano, come se fossero in vacanza piuttosto che alla ricerca di un criminale.
+
+A George divenne chiaro che c'era una ragione per tutto questo: l'ufficiale secondario non poteva lasciare la barca. La barca e il mare erano nascosti dalla cresta della strada marittima, e più a lungo quegli uomini potevano trascorrere sulla terraferma, maggiore sarebbe stato il loro sollievo dal lavoro e il piacere di godersi una giornata piacevole. Li vide dirigersi verso il boschetto; presero dei rami e iniziarono a batterli in modo casuale e superficiale, frugando distrattamente tra i cespugli, come se Demaine fosse stato una lepre che volevano stanare. Si allontanarono lungo il bordo del bosco in direzione opposta alla sua, e si fermarono un momento per accendere le loro pipe durante il cammino.
+
+Era una scena pacifica. Ma sarebbe arrivato il momento in cui quella situazione non potesse più continuare, e in cui la loro attività avrebbe dovuto riprendere. Per questo motivo, Demaine si fece strada tra i cespugli, cercando di fare il minor rumore possibile, fino a raggiungere il lato rivolto verso terra, dove trovò un prato abbandonato.
+
+L’erba era marrone, rigogliosa e calpestata; non era stata tagliata in quella stagione. Al centro c’era un vecchio orologio solare; su due lati era delimitata da un muro, e iniziava anche un sentiero di ghiaia. Lui seguì quel sentiero tra due file di allori arrugginiti, e dopo una curva improvvisa arrivò alla casa a cui apparteneva quella proprietà abbandonata. La scoprì all’improvviso.
+
+Era situato piuttosto basso e nascosto da una fila di alberi. Vide una piccola porta sul retro, e – nonostante tali ragionamenti avessero portato a conseguenze fatali nel suo passato recente – rifletté ancora una volta: dove c'era una casa con stanze per i servitori, ci doveva essere una differenza di rango sociale, ci dovevano essere opportunità educative, ci doveva esserci comprensione. E lui, sicuramente, avrebbe potuto realizzare i propri sogni.
+
+I suoi piedi sanguinanti, i stracci bagnati che gli aderivano addosso, i capelli appesi in linee dritte e intrisi di sale. Se li avesse visti in uno specchio, forse si sarebbe fermato un attimo. Ma l’esaurimento causato da quelle terribili ore lo aveva ormai sopraffatto; il calore del sole aumentava sempre di più. Aveva assolutamente bisogno di cibo e riposo.
+
+Aprì la porta con decisione ed entrò.
+
+Si trovò in una piccola stanza la cui porta rappresentava evidentemente l’unico collegamento con il giardino; era una stanza che gli rallegrava il cuore.
+
+Innanzitutto, la stanza era piena di libri dappertutto; e sebbene lui stesso avesse letto forse soltanto diciotto volumi nel corso della sua giovinezza, una stanza tappezzata di libri gli suggeriva immediatamente cultura, tranquillità e una certa agiatezza. Un libro giaceva aperto sul tavolo; vi era attaccata una targhetta in stile moderno, con il nome di Carolus Merry Armiger. A quanto pare, il signor Armiger era il suo ospite ignaro delle sue intenzioni. Le occupazioni letterarie del signor Armiger non interessavano affatto George Mulross; tuttavia, le seguiva perché riteneva che avessero qualche legame con le “Dieci Tribù Perdute”.
+
+I manoscritti erano disposti sul tavolo; si trattava di lunghi elenchi doppi di nomi, ciascuno accompagnato da una data. L’Enciclopedia Ebraica era sistemata davanti a questi manoscritti con estrema solennità; inoltre, erano pronti all’uso i guide della città, i libri di riferimento e gli almanacchi di [[London|Londra]], Berlino, New York, Francoforte, Parigi, Roma e Vienna. In aggiunta, vi erano diversi foglietti che fornivano dettagli sulle origini familiari e sulle relazioni matrimoniali della maggior parte dei politici europei, compresi naturalmente anche i nostri connazionali; tutto ciò completava il lavoro a cui sembrava dedicarsi l’abitante principale di quella casa.
 
 
 
@@ -5790,6 +8008,44 @@ He could hear a startled exclamation from the wench, her decision that she didn�
 
 Hardly had she shut the garden door behind her when a key was heard turning in the lock in the other door opening into the house, and the Expected Stranger, the Unknown Host, entered. The moment of George’s salvation was at hand.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dimenticando la deplorevole condizione in cui si trovava – un grande spaventapasseri che emanava cattivo odore e dal quale gocciolava acqua salata attraverso i stracci neri bagnati che gli aderivano alla pelle nuda – George Mulross si lasciò cadere in una grande poltrona e emise un sospiro di profondo soddisfazione.
+
+Potevano cercarlo per quanto tempo volessero, pensò che avrebbero fatto tutto invano! I suoi inseguitori non sapevano chi fosse, né che fosse tornato alla sua precedente condizione di vita; sicuramente aveva già trovato persone che, sebbene lui non le conoscesse ancora, lo avrebbero certamente aiutato e protetto.
+
+Si immaginò la scena: — l’ proprietario di casa entrava. Indossava occhiali; era un uomo di lettere impegnato, forse un professore. Chi poteva saperlo? Forse anche un rabbino erudito! I fogli e i libri sul tavolo sembravano riguardare la razza ebrea. Comunque, un uomo di lettere. Un vero uomo di lettere. Entrava, assorto nei suoi pensieri, come è tipico della sua gente; cercava con aria distratta qualcosa che aveva dimenticato sul tavolo. I suoi occhi si posavano su George Mulross Demaine. Alla prima vista sarebbe rimasto sorpreso: un uomo semi-nudo, lucido per il sale del mare, i capelli appiccicati in strisce dritte e umide, il viso un misto di sporcizia e chiazze bianche lasciate dall’acqua. Le unghie nere, i piedi nudi sanguinanti. Ma quella strana figura avrebbe detto qualcosa. E tutto sarebbe andato bene. Avrebbe detto:
+
+“Signore, il mio nome è Demaine. Forse conoscete questo nome. Vi prego di ascoltarmi; vi racconterò brevemente, ” ecc. ecc.
+
+Man mano che la narrazione proseguiva, l’uomo di lettere ne mostrava un interesse sempre crescente; al suo termine, gli venivano offerti un bagno caldo e delizie squisite. Il modo in cui il suo ospite si comportava assumeva anche una certa deferenza, quando finalmente capiva di stare parlando con un Ministro del Gabinetto. Da quel momento in poi, quell’incidente spiacevole non era altro che un ricordo emozionante.
+
+Mentre George Mulross rifletteva su queste cose, si alzò dalla sedia e rimase inorridito nel notare che all’interno della sua poltrona c’erano piccole pozzanghere d’acqua salata; il sedile era completamente bagnato, e nei punti in cui i suoi piedi avevano poggiato sul tappeto Axminster erano visibili macchie umide, che ricordavano chiaramente la scoperta di “Man Friday”, ovvero le tracce lasciate da piedi umani.
+
+Anche se si rendeva conto che queste cose avrebbero potuto rappresentare un ostacolo per la sua spiegazione, sentì delle voci fuori dalla porta.
+
+Ahimè, non erano le voci delle classi dirigenti, non erano le voci della raffinatezza e del comfort. Oh no. Erano le voci di due domestici impegnati in una discussione: uno maschio, l’altra femmina; e quest’ultima, dopo aver affermato che non fosse affar suo, evidentemente si avvicinò alla porta della stanza in cui si trovava il suo compagno.
+
+Per un momento il suo cuore smise di battere. Sentì la sua mano sulla maniglia esterna della porta; con quale forma di saluto avrebbe potuto sciogliere quel cuore indurito? Quegli amari momenti appena trascorsi lo avevano riempito di terrore e odio verso quegli uomini e donne inglesi che vivevano lavorando. Li aveva sempre considerati come una specie diversa; ora li vedeva come lupi irragionevoli.
+
+Per grazia del cielo, la porta era chiusa a chiave. Sentì una parola volgare pronunciata da una donna, di tono estremamente aggressivo sebbene le parole stesse fossero moderate; quella parola riguardava gli abitudini domestiche del suo padrone, in particolare per quanto riguardava la privacy del suo studio. Poi sentì i suoi passi allontanarsi. Stava tornando dal lato del giardino; non c’era un attimo da perdere, e non c’era nessun posto dove nascondersi.
+
+Ho già descritto in dettaglio l’effetto della miseria e del terrore sul cervello di George; devo soltanto aggiungere che, per due secondi, egli fu davvero un “Napoleone” nella valutazione della situazione. Capì all’istante che, se si fosse ritirato dalla porta del giardino, sarebbe finito direttamente sulla linea di avanzata nemica, senza alcuna altra via d’uscita verso una qualsiasi base; e con la stessa determinazione che lo aveva portato alla vittoria a Jena, si diresse verso la ciminiera.
+
+Le eccentricità del padrone di casa (poiché ovviamente lo era) sembravano includere una passione per i camini vecchio stile; in ogni caso, non c’era alcun dispositivo che potesse ostacolare il passaggio della persona attraverso il camino. George, con una destrezza sorprendente considerando la sua corporatura massiccia, riuscì a salire nello spazio sopra la grata del camino. Lì, il condotto si restringeva rapidamente in un piccolo tubo; fu quindi costretto ad appoggiarsi con i piedi su un lato del muro e con le spalle scomode sull’altro, assumendo una posizione simile a quella di una persona rannicchiata sul fianco destro nel letto, ma senza alcun comfort, poiché al posto del materasso c’era soltanto aria.
+
+Non aveva trovato il suo rifugio un attimo troppo presto. Poteva osservare l’tappeto del camino, una piccola striscia di moquette, e le gambe di vari tavoli e sedie. Quando sentì la porta del giardino aprirsi, altre gambe – umane, ben curate – apparvero tra quelle degli oggetti inanimati. La testa che le apparteneva continuava a muoversi insieme alle gambe, osservando attentamente i movimenti del suo padrone. Puliva tutto, si spostava verso l’altra parte dell’appartamento. Poi le gambe scomparivano. Riapparivano improvvisamente nel suo campo visivo e si fermavano di colpo. Mentre la testa invisibile commentava con tono curioso.
+
+“Che cos’è mai quello?”
+
+Stava osservando l'impronta dei piedi. Poi la sentì battere sul divano umido e esclamare che non lo aveva mai fatto prima!
+
+La pressione che gravava su George Mulross Demaine stava aumentando, ma anche se fosse stata dieci volte più intensa, lui non avrebbe osato scendere. Un lieve movimento involontario, causato dal tentativo di allentare la pressione del proprio braccio contro un angolo di mattoni, provocò la caduta di della fuliggine che coprì il suo viso in modo particolarmente sgradevole.
+
+Riuscì a sentire un'esclamazione di sorpresa da parte della donna; lei decise che non capiva affatto quella casa e poi se ne andò all'improvviso.
+
+Appena ebbe chiuso la porta del giardino alle sue spalle, si sentì una chiave girare nella serratura dell’altra porta che conduceva in casa, e l’Indesiderato Visitatore, l’Ospite Sconosciuto, entrò. Il momento della salvezza di George era finalmente arrivato.
 
 
 
@@ -5848,6 +8104,60 @@ To which Demaine answered, with the solemnity the occasion demanded:
 
 William Bailey opened the door and peered cautiously into the corridor, listened for footsteps and heard none, and then, after locking the door of the study behind him, as was his ridiculous habit, he popped up a narrow pair of stairs, with Dimmy, whose old nature had sufficiently returned to cause him to stumble, following at his heels.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Due stivali piatti e molto grandi calpestarono lentamente quella stretta area che lui riusciva a vedere: sopra ogni nove pollici di gamba dei pantaloni grigi piegati si poteva intravedere qualcosa; gli stivali, le gambe dei pantaloni, non si avvicinavano alla poltrona; apparentemente prestavano poca attenzione alle cose intorno a loro. Il loro proprietario emise un grugnito di soddisfazione nel constatare che nessuno dei suoi documenti era stato portato via dalla domestica, a cui aveva rivolto un epiteto estremamente indiscreto; grugnì ancora di più soddisfatto nel rendersi conto che lei aveva preparato il fuoco senza accenderlo. A quanto pare, faceva parte delle sue strane abitudini tenere acceso il fuoco una mattina di giugno semplicemente perché la stanza era fredda, e lasciarlo spegnersi prima di mezzogiorno.
+
+L’Sconosciuto si avvicinò alla grata. George sentì grandi mani che frugavano sul caminetto, il caratteristico rumore di una scatola di fiammiferi; poi apparve un braccio che arrivava a metà della spalla, e all’estremità di esso c’era una mano con un fiammifero acceso. Lo Sconosciuto accese pensosamente il giornale su cui era posata la legna da ardere.
+
+Il fumo denso e acre prodotto dai nostri “grandi organi di opinione” quando vengono utilizzati a scopo domestico si alzò e avvolse il sfortunato George. Era il limite. Con un grido e con un ruggito, proprio come Macaulay descrive con precisione un'altra crisi, il futuro custode della Corte dei Dote scivolò giù nella grata, distruggendo l’attenta disposizione di carbone e legna. E si trovò di fronte a. A malapena riusciva a credere ai propri occhi: William Bailey!
+
+Quell’oligarca alto, con le basette e dal carattere affabile non mostrò alcuna particolare sorpresa. Purtroppo, è proprio una caratteristica degli eccentrici il fatto che, proprio come vedono il mondo in modo errato dove invece tutto è normale, allo stesso modo sono incapaci di esprimere emozioni appropriate di fronte a ciò che è anormale. Tutto ciò che disse fu, con un tono di voce pacato:
+
+“Beh! beh! beh!”
+
+“Al che Demaine rispose, con la solennità che l’occasione richiedeva…”
+
+“William, non mi riconosci?”
+
+“Sì, ti conosco,” disse William Bailey pensieroso, “Dimmy. Per Dio!. Dimmy, sai che offri uno spettacolo davvero straordinario?”
+
+“Non c’è bisogno che tu me lo dica,” disse Dimmy con amarezza, passandosi la mano sulla bocca e rivelando due labbra rosse che spuntavano tra i suoi tratti facciali, come quelle di un attore comico nero. “L’importante è: cosa puoi fare per me?”
+
+“Mio caro Dimmy,” disse William Bailey, il suo interesse crescendo man mano che la situazione gli diventava più chiara, “Sono molto felice di sentire quella frase! Non l’ho più sentita da quando ho lasciato la politica. Non l’ho più sentita da quando hanno cercato di farmi diventare Sottosegretario. Anzi, allora veniva formulata in modo leggermente diverso. Vecchi compagni di scuola con cui un tempo avevo litigato usando un bastone da cricket, ora venivano da me lavandosi le mani e mi chiedevano: ‘In che posso esserti d’aiuto?’ Ora, per la prima volta in vita mia, qualcuno mi ha chiesto cosa posso fare per lui. Caro Dimmy, tutto ciò che ho è a tua disposizione. Vorresti prendermi in prestito del denaro, o preferisci lavarti le mani?”
+
+“Vorrei che tu smettessi di fare cose del genere,” disse Demaine, arrabbiato e senza mostrare il dovuto rispetto verso un anziano. “Non siamo a [[London|Londra]] e non ho voglia di scherzi. Ho dei problemi.”
+
+“In guai?” chiese William Bailey con tono comprensivo. “Oh, non dite così! Forse un po’ sporco e vestito in modo molto strano, ma spero di no, in guai.”
+
+“Maledizione!” disse l’altro, “che ci fai in questa casa?”
+
+“Non ci capisco nulla,” disse William Bailey con allegria, “sono solo un eccentrico innocuo, con una piccola proprietà, alcune api nel mio cappello (la presente è un’ape antisemita), e un grande amante dei miei amici, soprattutto di quelli della mia stessa famiglia. Ora, cosa vuoi da me?”
+
+“Possiedi questa casa, o no?” chiese Dimmy.
+
+“Perché,” disse William Bailey, “è molto gentile da parte tua chiederlo. Io sono ciò che la legge definisce un locatore o un conduttore; forse sono anche un custode della casa. La casa stessa appartiene a Merry. Conosci Merry, l’architetto che costruisce le case di suo padre?”
+
+“Questi libri contengono la parola ‘Armiger’”, disse Dimmy con sospetto.
+
+“È un titolo,” rispose William Bailey, “ma non un titolo inglese,” aggiunse in fretta, “gli è stato concesso dal Papa.”
+
+“Comunque, sei tu il padrone qui, vero?” chiese Demaine con ansia.
+
+“Oh sì,” disse Bailey, “Sono diventato il padrone di casa fin dalla fine della prima settimana. All’inizio c’erano dubbi su chi fosse il vero padrone: se fosse Elise, lo sposo o Parrett, la governante. Ma ho vinto io, Dimmy,” aggiunse strofinandosi le mani soddisfatto, “Ho messo da parte il mio servitore Zachary e insieme abbiamo vinto. Ora sono tutti docili come fagiani.”
+
+“Allora molto bene,” disse Demaine, “devi fare due cose: devi purificarmi, vestirmi e nascondermi nelle prossime ore, nel caso ce ne fosse la necessità.”
+
+“Non capisco perché non dovresti pulirti,” disse William Bailey pensierosamente. “Non hai mai imparato un mestiere, Dimmy. Non sei mai stato abile né veloce nelle cose pratiche, ma ormai sei un uomo adulto. C’è molta acqua calda, sapone e tutto il necessario in bagno. C’era anche una specie di spazzola chiamata “loofah” che Merry aveva lasciato lì, ma l’ho bruciata, ”
+
+“Non essere sciocco, Bill!” supplicò Demaine, “non c’è tempo, davvero non ce n’è. Allora dimmi, quali vestiti hai con te?”
+
+“Le mie braghe sono troppo strette in vita per te,” disse William Bailey, pensando, “Zachary è davvero troppo magro. Tu sei robusto, Dimmy, anzi, non direi nemmeno grasso. Le braghe non ti starebbero bene e il cappotto non ti andrebbe addosso. Ma posso farti mettere a letto e far venire qualcuno con dei vestiti. Che intendi per nasconderti? Capisco che tu abbia bisogno di privacy. In effetti, se non ne avessi bisogno, arrampicarsi su quel camino sarebbe davvero una cosa da ragazzini della tua età. Hai forse fatto il bagno senza autorizzazione, e qualcuno ti ha rubato i vestiti? O forse c’è stata qualche battuta scherzosa dai Buteley. Abitano proprio vicino.”
+
+“Te lo dirò quando avrò finito di lavarmi,” disse Demaine con stanchezza, “lasciami ora andare in bagno come un bravo ragazzo. Per l’amor del cielo, sono davvero stanco!”
+
+William Bailey aprì la porta e sbirciò con cautela nel corridoio; ascoltò attentamente per captare eventuali passi, ma non ne sentì alcuno. Poi, come faceva sempre in modo ridicolo, chiuse a chiave la porta dello studio alle sue spalle e salì su una stretta scala; Dimmy, il cui vecchio carattere era ormai tornato a manifestarsi, lo seguì barcollando.
 
 
 
@@ -5946,6 +8256,100 @@ Nothing would suit them but ladders must be brought, and they must climb upon th
 
 “You’re used to that,” said Bailey unfeelingly. “Dry your feet. Never mind the rest. Quick!” He threw a dressing-gown in, and Dimmy, as clean as Sunday morning, emerged.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non erano ancora del tutto usciti dall’area raggiunta dalla porta d’ingresso quando il campanello suonò con violenza; Elise si avvicinò per aprirla.
+
+William Bailey spinse il suo ospite e cugino dentro il bagno e poi scese ad incontrare due poliziotti che stavano davanti alla sua porta, con un’aria terribilmente solenne, vestiti di sospetto e potere. Dalle profondità del suo rifugio, attraverso la fessura della finestra semiaperta, Demaine sentì una conversazione che non gli piacque affatto.
+
+“Mi dispiace molto dovervi chiedere questo, signore”, disse una voce profonda e baritonale, “ma dobbiamo farlo”.
+
+“Devi assolutamente farlo,” echeggiò la voce di un tenore.
+
+Demaine non sentì la risposta di suo cugino.
+
+“È sicuro che sia stato qui dentro, signore?”, chiese il primo poliziotto, che chiamerò “Basso Profondo”.
+
+“Positivo,” rispose la voce di William Bailey, allegra e forte. “Positivo!”
+
+“L’ha visto con i suoi occhi, signore?”, chiese il secondo poliziotto, che chiamerò “Tenore Stridente”.
+
+“Certo che l’ho fatto, altrimenti non te lo starei dicendo,” rispose di nuovo William Bailey, con un tono leggermente irritato.
+
+“Beh, signore, abbiamo il sospetto che sia ancora in quel luogo.”
+
+“Ti sbagli,” disse William Bailey, “è scappato lungo la strada di Parham non appena ha sentito il mio cane abbaiare.”
+
+“Non abbiamo incontrato nessuno sulla strada di Parham, signore,” disse la voce del poliziotto tenore; evidentemente, era un uomo meno sincero del poliziotto basso.
+
+“Non posso farci nulla,” disse William Bailey. “Potete tranquillamente ispezionare la casa.”
+
+Gli ringraziarono e entrarono tutti insieme come un esercito.
+
+“È per il vostro bene, signore,” disse il primo poliziotto, con la sua profonda voce baritonale.
+
+“Inoltre, è anche nostro dovere,” disse il secondo poliziotto con la sua voce acuta di tenore.
+
+“Certo,” disse William Bailey, “certo, e spero che mentre uno di voi compie queste buone azioni, l’altro si occupi delle proprie responsabilità. È proprio il genere di cose che a persone come me piace molto fare: nascondere i clandestini. Ne ho nascosti molti, anzi.”
+
+Il tenore rimase indifferente al suo sarcasmo, il basso invece ne fu commosso.
+
+“Lo sapete molto bene, signori,” disse, “cos’è che rappresentano le classi criminali. O meglio, voi signori non lo sapete affatto. Dopotutto, quegli individui avrebbero potuto tagliare la gola alle donne di notte e poi portare via i loro oggetti di valore.”
+
+“Taglierebbe anche la mia?” chiese William Bailey mentre li seguiva di stanza in stanza.
+
+“È capace di farlo,” disse il basso, annuendo misteriosamente. “Non è un semplice clandestino,” continuò, abbassando la voce quasi a un sussurro rauco, “la polizia lo conosce bene. Si chiama Stappy, ecco chi è: Stappy il Ladro! Ha già fatto questa cosa in passato, salendo su una nave e fingendosi un vagabondo; il capo della polizia sa tutto di lui. L’ultima volta l’ha fatto lunedì sera a [[London|Londra]]!”
+
+Per quell’uomo sfortunato in bagno ritornò con un orrore vivido il ricordo della prigione di Lewes; ma finché la mente di William Bailey non lo tradiva, sapeva che le probabilità a suo favore erano molto alte. Tuttavia, il suo umore cambiò improvvisamente quando la polizia, che aveva perquisito le stanze vicine al suo rifugio, bussò all’improvviso alla porta del bagno e disse:
+
+“Cosa c’è qui dentro?”
+
+“Vi prego davvero di fare attenzione, signori,” disse William Bailey con rabbia, “quella è il bagno, e se volete saperlo, mia nipote si trova lì dentro.”
+
+“Oh, mi scusi,” disse il baritono, “Ne sono sicuro.” Aveva la sensatezza di non mettere in dubbio il padrone di casa su una questione che riguardava direttamente i suoi interessi. Ma il tenore aggiunse:
+
+“Dobbiamo prendere nota di questo, signore.”
+
+“Certamente,” disse William Bailey, “certamente. Si chiama Rebecca.”
+
+George Mulross Demaine, godendo dell’acqua molto calda, si rilassò sentendoli camminare pesantemente giù per le scale una volta ancora.
+
+Esaminarono ogni stanza e angolo di quel posto fino a quando non arrivarono alla porta dello studio.
+
+“È il mio studio,” disse William Bailey scusandosi, “lo tengo sempre chiuso a chiave.”
+
+Lo aprì e loro entrarono. I loro occhi abituati non notarono nulla di insolito nell’aspetto della stanza, fino a quando il tenore, mettendo accidentalmente la mano sullo schienale del divano, si rese conto che era sia bagnato che salato al gusto. Aveva trovato una pista! Con voce eccitata, poco adatta alla sua posizione ufficiale, l’intelligente agente gridò:
+
+“L’abbiamo preso, signore, l’abbiamo preso! È stato qui! Guardate, acqua di mare. L’abbiamo preso!” Guardò intorno disperatamente, come se si aspettasse che il fuggitivo apparisse all’improvviso a mezz’aria tra il pavimento e il soffitto.
+
+“È certamente molto sconcertante,” disse William Bailey con evidente preoccupazione. “Ma aspettate un minuto. Forse è entrato qui dal giardino per vedere cosa poteva prendere, ha trovato la porta chiusa dall’esterno e se n’è andato di nuovo attraverso il giardino; questo spiegherebbe tutto.”
+
+“No, signore, non spiegherebbe nulla,” disse rispettosamente il basso. “Non spiegherebbe affatto quel fenomeno!” E la sua mente, sebbene più lenta di quella del suo collega, tendeva a trarre conclusioni affrettate; così indicò con la mano i resti dell’incendio, le pile di fuliggine che vi si trovavano sopra, e i danni causati alla protezione antincendio.
+
+“È salito nel camino, è proprio quello che ha fatto,” disse il tenore.
+
+“Ecco cosa ha fatto,” disse il basso, interpretando la situazione a modo suo, “è entrato dal camino.”
+
+William Bailey infilò la testa nel camino e guardò verso l’alto: in cima c’era un piccolo riquadro di luce blu del sole di giugno. “Non lo vedo,” disse.
+
+Gli agenti di polizia, uno dopo l’altro, eseguirono solennemente lo stesso gesto.
+
+“Un uomo non riuscirebbe mai a salirci,” disse Bailey con fermezza.
+
+“Ah, Stappy sì che potrebbe,” disse il basso con tono di chi parla di un vecchio conoscente, “Stappy riuscirebbe ad uscire da qualsiasi posto, o a passare attraverso qualsiasi cosa! È davvero un uomo meraviglioso, signore!”
+
+All'improvviso, il tenore risolse tutto il problema.
+
+“È sul tetto!”, disse.
+
+Niente sarebbe stato adatto per loro, ma bisognava portare delle scale; dovevano arrampicarsi sulle tegole. Intanto William Bailey, consolandosi con il pensiero che quella proprietà non fosse sua, ne approfittò per correre in bagno e bussare alla porta.
+
+“Dimmy, Dimmy!”, sussurrò ad alta voce, “Dimmy, esci fuori.”
+
+“Sono completamente bagnato,” disse Dimmy.
+
+“Ci sei abituato,” disse Bailey senza alcuna emozione. “Asciuga i piedi. Lascia perdere il resto. Sbrigati!” Gli gettò addosso una vestaglia, e Dimmy, pulito come se fosse domenica mattina, ne uscì fuori.
 
 
 
@@ -6051,6 +8455,106 @@ William Bailey took him to his own room and told him to sleep there. “I’ve e
 And thus, after so many and so great adventures, George Mulross Demaine slept once again between sheets, in a bed well aired, in a room with reasonable pictures upon the walls, and reasonable books upon the table, with blankets, with curtains, with pillows, with mahogany tallboys, with three kinds of looking-glasses, with an eider-down quilt, with a deep carpet, with a silver reading lamp, soothed by a complete cleanliness, and, in a word, amid all that the governing classes have very properly secured for themselves during their short pilgrimage through the wilderness of this world.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Hai le gambe davvero asciutte, Dimmy?”
+
+“Sì,” disse quel nobile cittadino, ancora un po' turbato.
+
+“Allora, lasciami pensare… Entra lì dentro.”
+
+Lo spinse dentro una piccola stanzetta per scrivere che si affacciava sul corridoio.
+
+“Allora, vai a quel piccolo tavolo e siediti perfettamente immobile. Fai esattamente come ti dico e sarai salvo. Se devi anche solo deviare di un millimetro dalle mie istruzioni precise, anche se alla fine i tuoi potenti parenti ti libereranno dall’umiliazione della prigione, non eviterai di diventare lo zimbello dei tuoi concittadini! Mi capisci, Dimmy?”
+
+Dimmy, che come tutti i membri della famiglia non era mai del tutto sicuro che l’ultima crisi di follia di William Bailey potesse verificarsi da un momento all’altro, si sedette improvvisamente nel posto indicatogli; suo cugino tornò entro trenta secondi con un mantello da donna e un cappello rispettabile, che, purtroppo, appartenevano proprio a Parrett. Bailey fece indossare il mantello al giovane, gli mise il cappello in testa, legò i nastri sotto il mento, lo sistemò con la schiena rivolta verso la porta, assumendo l’atteggiamento di chi sta scrivendo una nota, e disse:
+
+“Dimmy, potresti parlare più ad alta voce?”
+
+“No, non posso!” disse Dimmy.
+
+"#Prova. Di' 'Oh no, sono occupato.'"
+
+“Non riesco!” disse di nuovo Dimmy.
+
+“Mio Dio! Non esiste davvero alcun limite a ciò che non si riesce a fare?” disse William Bailey con esasperazione. “Prova pure.”
+
+A scapito di quel rispetto per se stesso che era il suo tesoro più prezioso, Dimmy pronunciò quelle parole grottesche con un debole falsetto.
+
+“Eccellente!” disse William Bailey. “Ora, quando sentite la parola ‘Rebecca’, è il vostro segnale: ripetetela.”
+
+Il secondo passo è più facile del primo, e questa volta Dimmy rispose subito, con un falsetto del tutto appropriato: “Oh no, sono occupato.” E William Bailey ne fu soddisfatto.
+
+A quel punto si potevano sentire i poliziotti scendere di corsa dal tetto; non avevano trovato nulla, il che, considerando che la forma del tetto era esattamente piramidale, non era affatto sorprendente.
+
+“Beh, se n’è andato, signore,” disse il basso, un po’ sollevato.
+
+“Dobbiamo comunque controllare il bagno prima di andarcene,” aggiunse con fermezza il tenore.
+
+“Certo che sì,” disse William Bailey; “se è vuoto, ” aggiunse poi con una certa cautela.
+
+“Salirono al piano di sopra e, mentre camminavano, lui aprì la porta dello studio e disse…”
+
+“Eccola lì… Rebecca!”
+
+“Oh, non preoccuparmi, sono occupato,” disse con voce mascolina la figura seduta.
+
+“Mi dispiace molto, signore,” disse il tenore, ora sinceramente pentito. “Non abbiamo alcuna intenzione di disturbare la signora, ma era nostro dovere.”
+
+“Certo,” disse William Bailey in fretta, “certo,” e chiuse la porta, rinnovando nella sua mente la sua profonda fiducia nell’idiozia della vita politica.
+
+Gli ufficiali di legge, attivi e intelligenti, guardarono meccanicamente intorno al bagno; erano troppo modesti per esaminare quel mucchio umido di stoffa nera gettato in un angolo. Uscirono convinti che non avrebbero disturbato il signor Bailey nemmeno per un momento, se non fossero stati costretti da quel senso del dovere verso il loro paese, al quale avevano già accennato molte volte.
+
+William Bailey li accompagnò fino al cancello, con il desiderio sincero di vederli lasciare quel luogo, e pregando nel silenzio che Parrett non entrasse nella stanza da scrivere finché lui non fosse tornato.
+
+Quando raggiunsero il cancello, il bassista, ricordandosi l’importanza di iscriversi a club locali, organizzazioni benefiche e eventi sociali, in particolare ai balli, alle iniziative benefiche e ai club dei poliziotti, disse ancora una volta che sperava il signor Bailey capisse che avevano semplicemente adempiuto al loro dovere.
+
+“Certo,” aggiunse, “conosciamo molto bene il signor Merry, e presumiamo che tu sia suo amico.”
+
+“Sì, signore,” disse il tenore con maggiore severità, “e sappiamo chi lei è. Conosciamo tutti quelli che si trovano in questo posto, signore. È nostro compito. Sappiamo cosa fanno, da dove vengono e dove vanno. Non possono sfuggirci.”
+
+Con queste parole rassicuranti e allegramente pronunciate, sia il basso che il tenore fecero un leggero inchino, dopodiché la porta si chiuse alle loro spalle.
+
+Fuori dal cancello, un piccolo gruppo composto dai due marinai, da un ufficiale della marina mercantile dall’aspetto trasandato, da tre ragazzi, da una ragazza di campagna con i capelli arruffati e da un spaniel aspettava il ritorno della polizia. Quando si seppe che non avevano trovato nulla, questo piccolo gruppo, paradossalmente, iniziò a gridare. Ora ognuno era altrettanto certo di aver visto il fuggitivo in una delle centinaia di direzioni opposte e impossibili, quanto lo era stato prima di essere convinto che si nascondesse ancora nella casa del signor Merry.
+
+William Bailey tornò indietro di fretta: andò direttamente nella stanza da scrivere. Ringraziò il cielo che nessuno avesse disturbato Rebecca. Senza scuse, sciolse rapidamente i nastri del cappello, si tolse il mantello e stava per portarli indietro nella stanza di Parrett quando sentì la voce di quella donna ammirevole alzarsi in un acceso rimprovero contro le malefatte di una domestica.
+
+Sia nella tattica che nella strategia esiste una disposizione conosciuta come offensiva-difensiva. William Bailey la conosceva bene; ora la adottò e, con una voce tale da zittire ogni altro rumore, esclamò ad alta voce il suo rimprovero: i domestici lasciavano continuamente i loro vestiti appesi in giro per tutta la casa, in modo disordinato.
+
+“Di chi sono questi?” chiese, indicando il mantello e il cappello che aveva gettato disordinatamente su una sedia.
+
+“È mio, signore,” disse Parrett con notevole dignità.
+
+“Ah, davvero?”, disse Bailey un po’ placato. “Mi dispiace, Parrett. Se avessi saputo che era tua, ti avrei parlato in privato.”
+
+“Non li ho mai lasciati lì, signore!” disse Parrett, agitato e indignato.
+
+“Non ho mai detto che l’hai fatto, non ho mai detto che l’hai fatto. Non è affar mio. Non mi interessa chi le abbia lasciate lì; ma voglio che questa casa sia in ordine, altrimenti non la vorrò affatto,” disse con quella frase enigmatica, allo scopo di mantenere ulteriormente l’ordine nella impossibile casa di Merry. Poi tornò da Demaine in pigiama e lo portò attraverso il corridoio nello studio.
+
+“Ora, caro mio”, disse, “hai freddo?”
+
+“Sì,” disse Dimmy.
+
+# Hai fame?
+
+“Sì,” disse Dimmy.
+
+# Hai sete?
+
+“Sono molto stanco,” disse Dimmy.
+
+“Allora va bene, mangerete e berrete. Cercherò di accendere il fuoco.”
+
+Lo fece e la stanza, che già era calda a causa del sole di giugno, divenne come un forno. Mentre si alzava dalla sedia, Demaine disse con ansia: “Per l’amor del cielo, non chiamare i servitori!”
+
+“Non ci andrò,” disse semplicemente William Bailey. Andò in un armadio e prese del prosciutto, un pane e una bottiglia di vino.
+
+Demaine mangiò e bevve. Dopo aver mangiato e bevuto, era così stanco che a malapena riusciva a reggersi in piedi.
+
+William Bailey lo portò nella propria stanza e gli disse di dormire lì. “Ho instaurato,” disse con tono cordiale, “un regime di terrore così efficace in questa casa che sicuramente non sarai disturbato se dormirai nel mio letto. Mi occuperò io dei vestiti.”
+
+E così, dopo tante e così grandi avventure, George Mulross Demaine dormì nuovamente tra le lenzuola, in un letto ben areato, in una stanza con quadri decenti alle pareti e libri decenti sul tavolo; aveva coperte, tende, cuscini, comodini di mogano, tre tipi di occhiali, una trapunta di piuma d’oca, un tappeto spesso, una lampada da lettura d’argento. Tutto ciò che le classi dirigenti si sono assicurate con grande cura per sé stesse durante il loro breve viaggio attraverso la “giungla” di questo mondo.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_01" data-title="A Change in the Cabinet — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/london"></span>
@@ -6112,6 +8616,64 @@ For half a minute Dolly couldn’t speak: then he gasped:
 
 A thousand horrid thoughts! Found dead? Found wandering and imbecile? Found —— ? He was faster bound than ever — and that just in the hour when he must act and decide. He said again:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIII
+
+Per tutto quel caldo pomeriggio e fino all’inizio del tramonto, George Mulross dormì profondamente; dormì come se fosse morto, a Parham.
+
+Dormì nella casa di Carolus Merry Armiger, sotto la protezione dello scudo e dell’affetto di William Bailey, un uomo eccentrico. E con la benedizione di Dio. I suoi problemi erano finiti.
+
+Nel frattempo, a [[London|Londra]], il giovane e popolare Primo Ministro aveva ricevuto il rapporto della sua segretaria. La Luna e il Caprone erano allineati perfettamente.
+
+Non era affatto interessato a indagare su come fossero stati sistemati. Non possedeva né oro né argento – almeno non per quei scopi – che non rispettassero le migliori tradizioni della nostra vita pubblica; ma tutto era stato sistemato a dovere: Edward gli assicurò che tutto fosse in ordine, e la questione fu chiusa lì.
+
+C'erano anche altre prove, oltre alla fermezza di Edward, che era comunque solida come il marmo; inoltre, gli erano state inviate due copie preliminari dei documenti stessi. Il capo del primo gruppo di documenti trattava di quelle “Concessioni Eterne” in Birmania, e lui sorrise: non c'era nemmeno una parola riguardante Repton. Il capo del secondo gruppo di documenti riguardava invece la questione di Fiddlededee, e il Primo Ministro provò un immenso sollievo.
+
+Ma c'era ancora Demaine, o meglio, non c'era ancora nessun Demaine. E c'era ancora Repton, pazzo, pazzo, pazzo!
+
+Tra Dolly e l’orribile equilibrio instabile del mondo moderno, tra lui e un’esplosione cosmica, non c’era nulla se non le quattro pareti che circondavano Repton, Lady Repton, che lo annoiava, e la saggezza di Edward. Erano le due e quarantacinque: un’ora in cui uomini più meschini si recavano alla Camera dei Comuni. Lui fece lo stesso. Era il pastore, e doveva prendersi cura delle sue pecore.
+
+Quell’augusta assemblea rimase sorpresa nel vedere il Primo Ministro presente in prima fila durante quella preghiera rivolta all’Onnipotente che precede l’inizio delle deliberazioni quotidiane. Ma questa informazione non finì sui giornali: ci sono dei limiti!
+
+Mentre era inginocchiato lì, sapeva che un uomo al quale non poteva disobbedire stava per porre una domanda di cui aveva già ricevuto informazioni in privato. Ne aveva molta paura; temeva soprattutto quelle domande aggiuntive che, sebbene inutili per lo svolgimento delle nostre istituzioni politiche, rappresentano come zanzare superflue intorno alla preparazione del “cibo nazionale”. E quando le preghiere finirono e iniziarono le domande, nessuna riguardava contratti navali, né richieste semplici di informazioni da parte del Ministro dell’Interno riguardo all’incarcerazione di un mendicante o alla tortura di qualche poveraccio insignificante. Ma il suo cuore sembrò volergli uscire dalla gola.
+
+L’interminabile controesame di Mr. Maloney riguardo alla questione della direttrice postale di Crosshaurigh gli concesse un po’ di respiro. Non potevano coinvolgere Repton o Demaine in quella faccenda! Tuttavia, c’era una domanda minacciosa riguardante un incidente, e chi avrebbe dovuto rispondere? In effetti, aveva organizzato affinché la risposta provenisse dal Ministero delle Finanze, ma le nuvole si stavano addensando.
+
+La domanda fu posta in modo molto gentile; riguardava il relitto che ancora si muoveva e sbatteva contro le scogliere di Sovereign Shoals; era stata sollevata giorni prima, e il principale consigliere legale della Corona si alzò solennemente per rispondere.
+
+“Il mio onorevole amico mi ha chiesto di rispondere a questa domanda. Non dispone di altre informazioni oltre a quelle che ha già fornito all’onorevole signore, ma si stanno conducendo tutte le indagini necessarie e i documenti saranno presto presentati in aula.”
+
+Il fanatico si alzò in piedi; quel fanatico inevitabile, che dominava su tutti gli altri, tuonò con la sua richiesta aggiuntiva: “Cosa ne è stato del gin?” Gli fu detto di comunicare quella domanda ufficialmente.
+
+Per tre terribili secondi il Primo Ministro temette che potessero verificarsi conseguenze gravi. Le sue paure erano ben fondate: un gentiluomo si alzò e parlò dall’oscurità sotto la galleria, chiedendo perché il Sovrintendente della Corte dei Dote non fosse presente per occuparsi delle questioni relative al suo dipartimento. Il Presidente avrebbe certamente rimproverato il gentiluomo se non fosse stato per il giovane e popolare Primo Ministro, che si alzò e rispose personalmente alla domanda.
+
+“È la prima volta,” disse, “e spero che sia anche l’ultima volta che sento una malattia di un collega essere usata come scusa per un’interruzione del genere.”
+
+Dai banchi dietro di lui, coloro che conoscevano la verità applaudirono, mentre quelli che non la conoscevano applaudirono ancora più forte.
+
+Con quale genio non aveva salvato la situazione! E le domande continuavano ad affiorare, e tutto sembrava andare bene, tranne quella terribile ultima domanda di cui era a conoscenza in anticipo.
+
+Fu posta alla fine dell’orario delle domande; stranamente, non fu il membro che desiderava ardentemente quella carica apparentemente vacante a porla, né tantomeno un parente di quel membro, né nemmeno un amico: si trattava sicuramente di una persona innocente di qualsiasi motivazione personale. Quel membro voleva sapere se le voci apparse sui giornali riguardo alla carica di Guardiano del Tribunale delle Dote avessero fondamento, se tale carica fosse effettivamente vacante in quel momento, e, nel caso affermativo, quali misure venissero prese per colmarla.
+
+La risposta fu breve e sufficiente: “Il nobile membro non deve credere a tutto ciò che legge sui giornali.”
+
+Non è frequente che un’intelligenza fulminea interrompa in modo deciso gli sforzi dell’anarchia nel Consiglio Nazionale. L’intelligenza, infatti, dovrebbe essere esclusa dall’esercizio del potere legislativo; ma quando appare – quando ci sono buone ragioni per la sua presenza – il suo successo è travolgente. Ed è grazie all’efficacia di questa singola frase brillante che quella che forse fu la crisi più pericolosa attraverso cui la Costituzione sia mai passata, dopo la fuga di Giacomo II, è stata superata con successo.
+
+L’ora delle domande era finita. Il giovane e popolare Primo Ministro, ormai del tutto ignaro della presenza di un polmone sinistro danneggiato, rispose a una o due domande di poco conto, fornì alcune rassicurazioni riguardo all’ordine dei lavori in programma e lasciò l’aula più soddisfatto di quando vi era entrato. Andò direttamente a Downing Street; quando arrivò nella sua stanza, Edward lo stava aspettando.
+
+“Hanno preso Demaine,” disse.
+
+La fortuna aveva cambiato direzione!
+
+“Per mezzo minuto Dolly non riuscì a parlare; poi esclamò…”
+
+“Dove?”
+
+“Non lo so,” disse Edward. “Penso che nessuno lo sappia. È stata inviata un messaggio telefonico alla stampa in tutto il mondo.”
+
+Mille orribili pensieri. Trovato morto? Trovato che vagava come un idiota? Trovato, cosa? Era più veloce che mai. E proprio nell’ora in cui doveva agire e prendere una decisione. Ripeté ancora:
 
 
 
@@ -6193,6 +8755,82 @@ It was Demaine!
 His clothes were indeed extraordinary. You could not say they fitted, and you could not say they did not fit. The trousers and the coat and the waistcoat were made of one cloth, a quiet yellow. The lines of the shoulders, the arms, the legs, the very stomach, were right lines: they were lines proceeding from point to point; they were lines taking the shortest route from point to point. They were straight: they were plumb straight. The creases upon the trousers were not those adumbrations of creases which the most vulgar of the smart permit to hint at the newness of their raiment: they were solid ridges resembling the roofs of new barns or the keels of racing ships. The lapels of the coat did not sit well upon it; rather they were glued to it. The waistcoat did not fit, it stuck. And above this strange accoutrement shone, with more fitness than Edward and Dolly could have imagined, the simple face of George Mulross Demaine.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Dove è venuto fuori?"
+
+“Non sono riuscito a scoprirlo.”
+
+“Edward,” disse il Primo Ministro con voce debole, mentre si sedeva e cominciava a piangere, “tu sai come fare queste cose. Soffia. Vai tu, da bravo ragazzo. Scopri, in silenzio, da dove viene, ”
+
+Edward entrò nella stanza accanto e chiamò il numero 009 della centrale. Gli fu risposto dal numero 1009; mantenne la calma e ripeté la sua chiamata. Una donna arrabbiata gli rispose e lo pregò di non urlare nel ricevitore.
+
+Chiese del responsabile del negozio e aspettò per dieci minuti. Niente accadde.
+
+Il Primo Ministro, nella sua stanza, non si sentiva a suo agio. Il suo umore era, se possibile, ancora più preoccupato a causa della consegna di un messaggio urgente che recitava: “Hanno trovato Dimmy. M. S.” La scrittura era quella di Mary Smith. Chiese con indifferenza al messaggero chi avesse inviato il messaggio e da dove provenisse.
+
+Nel frattempo, in assenza di Edward, entrò in una stanza esterna e li pregò di chiamare la casa della signora Smith. Quando tornò, sul suo tavolo c'era un telegramma proveniente da Charing Cross che recitava:
+
+“George trovato.”
+
+Non c'era alcuna firma. Aspettò pazientemente il ritorno di Edward o del messaggero, o qualcosa, insomma, qualsiasi cosa!
+
+Il piccolo segnale acustico sul suo tavolo emise un suono leggero e il telefono sussurrò nel suo orecchio: “La signora Demaine desidera che sappia che il signor Demaine è stato trovato.” Aveva già chiesto “Dove si trova?”, quando la comunicazione fu interrotta.
+
+Aveva ricevuto così tante informazioni, e poi più nulla. Quando Edward tornò con la notizia che i dati erano arrivati da “Trunk Seven”, non ci fu nient'altro da aggiungere.
+
+“Che cos’è il Trunk Sette?” chiese il Primo Ministro.
+
+“Non lo so,” disse Edward.
+
+Rimasero seduti insieme in silenzio per un momento. Il Primo Ministro, come era appropriato al suo ruolo, era un uomo pieno di risorse. Fuori dalla stazione della metropolitana di Westminster Bridge, uomini con scarse risorse finanziarie ma grande ambizione economica si dedicavano al commercio al dettaglio di notizie. Il Primo Ministro pensò di rassicurarsi guardando i loro cartelli pubblicitari; inoltre, da una stanza che dava su Westminster Bridge Road, la sua eccellente vista – poiché uno dei suoi punti di forza era proprio la vista ancora acuta a cinquantaquattro anni – gli permise di leggere attentamente i cartelli esposti di fronte.
+
+Erano abbastanza chiari.
+
+# Il ministro perduto ritrovato
+
+Disse la cosa più dignitosa.
+
+“Demaine Result”
+
+Disse il Caprone, che sembrava aver dimenticato le buone maniere.
+
+Non dovrebbe essere difficile ottenere il Capone senza perdere la dignità. Tornò nella sua stanza e, in circa cinque minuti, il Capone gli fu portato.
+
+Sotto la voce “Notizie urgenti”, vide “Risultato di Demaine”, e poi, più in basso, in termini meno formali: “Si ha notizia del signor Demaine”. Era stampato in caratteri leggeri e tremolanti in uno spazio vuoto molto ampio. E nient'altro.
+
+Edward, entrando in quel momento, gli disse che il punto esatto da cui era stata inviata la messaggio non poteva essere individuato fino a quando Brighton non fosse stato liberato.
+
+“Oh!”, disse il Primo Ministro.
+
+Stava per chiamare Mary Smith, ma Edward gli assicurò che risponderebbe soltanto una serva inadeguata e stupida. L’aveva già provato.
+
+Dolly sedeva lì, paziente, chiedendosi dove fosse stato scoperto Demaine. La questione era di grande importanza: senza dubbio, quel pomeriggio stesso avrebbe dovuto prendere una decisione riguardo alla successione in quell’incarico, e ormai erano quasi le cinque.
+
+Probabilmente Demaine sarebbe stato scoperto soffrendo di perdita di memoria (anche se non riusciva a ricordare nulla che Dolly potesse comprendere); avrebbe potuto essere trovato dalle forze dell’ordine; o ancora, avrebbe potuto essere sorpreso mentre, per qualche motivo sconosciuto, cercava di lasciare il paese. Fino a quando il Primo Ministro non avesse saputo di più, non poteva agire.
+
+Per ben mezz’ora si convinse che fosse meglio aspettare. Poi uscì e guidò fino a casa di Mary.
+
+E naturalmente Maria non era a casa.
+
+Andò quindi alla casa di Demaine e vi trovò soltanto un uomo che faceva un inventario molto accurato di tutte le foto, tutti i mobili e tutto il vetro. Tornò nella sua stanza, e finalmente il mistero fu risolto.
+
+Tutte le cose buone hanno una fine, così come tutti i ritardi e tutte le irritazioni, e lo stesso vale per la vita stessa. Attraverso un metodo meno rapido di alcuni di quelli che la civiltà moderna ci ha messo a disposizione, la verità completa gli fu rivelata.
+
+In quel momento (erano le sei di sera), nel pomeriggio di mercoledì 3 giugno, George Mulross Demaine si trovava all’hotel Liverpool Street, dove beveva grandi quantità di brandy e soda, rifiutando il tè. L’informazione proveniva da un messaggio gentile del direttore dell’hotel, e Edward – che non mai falliva nel ricevere queste notizie – era stato il primo ad ottenerla.
+
+Il messaggio aveva viaggiato avanti e indietro per tutta [[London|Londra]] prima di arrivare alla Camera dei Comuni; presso la Demaine House al Direttore era stato detto di provare a chiamare il numero di Mary Smith, e quest’ultima, dopo essere stata quasi uccisa dalla violenza ripetuta di Edward, suggerì molto sensatamente che il Direttore telefonasse direttamente alla Camera dei Comuni per porre fine a quella situazione caotica.
+
+Un istante dopo che Edward aveva chiesto esplicitamente a Demaine di recarsi personalmente all’ufficio per saldare il conto, seguì un lungo silenzio; infine gli fu detto che quel signore se n’era andato su una vettura a quattro ruote trainata da un cavallo zoppo, senza pagare il debito.
+
+Non c'era nulla da fare se non aspettare.
+
+Le sei e mezza suonarono, poi anche il quarto d’ora successivo. I loro timori si rinnovarono quando, appena alle sette, una figura vestita in modo strano ma curato entrò nella stanza, portata da un servitore che dimostrava una tale equilibrata combinazione di rimprovero e rispetto da mettere in difficoltà anche il drammaturgo più abile dei tempi moderni nel rappresentarla.
+
+Era Demaine!
+
+I suoi vestiti erano davvero straordinari. Non si poteva dire che gli stessero bene, né che non gli stessero bene. I pantaloni, il cappotto e la giacca erano fatti dello stesso tessuto, di un tranquillo colore giallo. Le linee delle spalle, dei bracci, delle gambe, persino dell’addome, erano perfette: linee che andavano da un punto all’altro seguendo il percorso più breve possibile. Erano dritte, perfettamente dritte. Le pieghe sui pantaloni non erano quelle vaghe crepe che anche i più banali individui eleganti permettono di mostrare per far capire che i loro vestiti sono nuovi; erano solide pieghe, simili ai tetti dei nuovi fienili o alle chiglie delle imbarcazioni da corsa. I colletti del cappotto non si adattavano bene al corpo, anzi, sembrava che fossero incollati direttamente sulla pelle. La giacca non gli stava bene, si attaccava addosso in modo strano. E sopra tutto questo abbigliamento bizzarro, con una naturalezza che Edward e Dolly non avrebbero mai potuto immaginare, splendeva il semplice viso di George Mulross Demaine.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_03" data-title="A Change in the Cabinet — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/flag,motif/sea,concept/satire_of_society,concept/nationalism_and_patriotism,concept/deception,form/satire,form/novel"></span>
@@ -6268,6 +8906,78 @@ George was given to understand with that method and insistence most proper to hi
 
 It was an understood matter. George did now and then like to row and fish; a friend had asked him to run down to Port Victoria — it was only an hour; the friend hadn’t turned up. George only meant to go out for a minute, put up the sprits’l like a fool, got blown right away in front of a so’wester into the Swin; then the wind going round a point-o’-two got blown, begad, right over the Gunfleet. High tide luckily, and the rest naturally followed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I suoi capelli, oh orrore! erano unti; si sarebbe potuto giurare che anche il suo viso fosse unto.
+
+Il colore della sua pelle assomigliava a quello del legno di cedro, tranne per il naso, che ricordava quello del vecchio quercio. Se mai esistette un uomo nel pieno delle sue forze, quel uomo era George Mulross; ma se mai esistette un uomo profondamente cambiato, anche George Mulross era quel uomo.
+
+“Siediti,” disse il Primo Ministro con gioia. “Oh mio caro George, siediti!”
+
+“Non posso,” disse George, forse per la ventesima volta nelle ultime quarantotto ore. “Sono già pronti,” spiegò, arrossendo (come Omero descrive bellamente Andromaca) nonostante il suo colore abbronzato. “Non mi sono seduto né sul treno né nell’auto.”
+
+“Dove sei stato, George?” chiese il Primo Ministro.
+
+“Ho vissuto un’avventura,” disse George in modo modesto.
+
+“Ma insomma, dove sei stato tutto questo tempo?”
+
+“Sono stato in mare,” disse George.
+
+“Ooohhh!” disse il Primo Ministro.
+
+“Che fortuna incredibile, vero?” disse semplicemente George.
+
+“È peggio di così,” disse Edward con espressione cupa.
+
+“Perché?” chiese George, con un'espressione di paura sul suo viso onesto, anche se un po’ servile.
+
+“Beh, non importa,” disse Dolly. “Deve essere stato davvero difficile. Siete stato spinto in mare dalla tempesta?”
+
+L’unica risposta di George Mulross Demaine fu quella di cercare all’interno del suo cappotto nel punto in cui di solito si trovano le tasche per i ricchi, ma lì non sembrava esserci nessuna tasca. Cercò cinque o sei volte, ma senza successo. Alzò lo sguardo e disse: “Aspettate un attimo.” Allora infilò la mano nel gilet. E nemmeno lì c’era nulla. Quello che avrebbe dovuto contenere il suo orologio. E persino il giovane idealismo del Primo Ministro gli permise di chiedersi perché non ci fosse alcun orologio lì dentro. Alla fine, George fece qualcosa che spero nessun membro della classe dirigente abbia mai fatto prima: cercò nella tasca dei suoi pantaloni. E da lì tirò fuori un pezzo di carta.
+
+“Sì,” disse, nascondendo loro il foglio di carta, “avete perfettamente ragione. Sono stato spinto in mare. Ho avuto una, ” – (qui guardò attentamente il foglio, ma apparentemente non riuscì a leggere nemmeno una parola.) “Oh sì,” continuò, “un momento terribile.” Il suo modo di parlare era estremamente monotono. “Pensavo davvero di non essere mai sopravvissuto a quella notte orribile. Una nave straniera mi ha superato, ma quei furfanti mi hanno abbandonato al mio destino. Sono stato quasi morto quando, sotto i primi raggi dell’alba, ho visto la bandiera britannica. E il mio cuore si è riempito di gioia.”
+
+Edward, sebbene di solito non fosse impulsivo, gli tolse il documento; nel farlo, il Primo Ministro vide quelle lettere quadrate e ben definite.
+
+“Mio Dio!”, esclamò il Primo Ministro, “È Bill!”
+
+Era la scrittura di William Bailey.
+
+“William è stato molto gentile con me, se è quello che intendi,” disse Demaine in tono di rimprovero.
+
+Il Primo Ministro scoppiò nella prima vera risata che provava da quindici anni. Dopotutto, uomini come Bailey avevano davvero il loro valore nel mondo!
+
+Nonostante l’evidente collera di Dimmy, con le lacrime di risate negli occhi e interrotto da piccoli gridolini di gioia, il Primo Ministro completò la lettura.
+
+“Mi morse il braccio, succhiò il sangue e gridai: ‘Una vela! Una vela!’; e in meno tempo di quanto ci voglia per leggere queste parole, mani forti e inglesihe presero a remare con energia.” (“Oh Edward, Edward!” ansimò l’uomo esausto; ripresosi, continuò:) “Con una tenerezza quasi da donna, mi sollevò, ” (“Chi ti ha sollevato?” chiese tra i suoi strilli, indicando George Demaine con il dito indice. “Oh George, chi ti ha sollevato?”) “, Mi mise a bordo della nave Lily; quando gli raccontai dell’azione traditrice dei foreigni, mormorò tra i denti: ‘Mascalzone’. Ma un uomo non ha nulla da temere quando i coraggiosi cuori dei suoi connazionali sono il suo scudo. Mi lasciarono a Lowestoft, mettendomi in mano le loro misere risparmi e augurandomi tre calorosi evvivi che mi fecero sentire quasi come se fossi di nuovo sul suolo britannico.”
+
+Il Primo Ministro appoggiò la testa sul tavolo, la scosse dolcemente da una parte all'altra, emise una serie di suoni strani e per poco non crollò.
+
+George Mulross Demaine era estremamente arrabbiato.
+
+“Potrebbe sembrarvi molto divertente”, iniziò, “ma…”
+
+“Non farlo, George!”, esclamò il Primo Ministro, riprendendo a dire, “Non farlo!”
+
+Ma George era furioso. “Come la vorresti, ”, cominciò a gridare. Quando la porta si aprì e fu annunciato con estrema solennità il signor Pickle, il signor Hogge, il signor Gracechurch, il signor Fuell, il signor Nydd, sir John Clegg, lord Cuthbertson, e infine, ma non meno importante di tutti, il signor Howll.
+
+Si sarebbe potuto dire che nulla fosse accaduto. C'erano tre porte nella stanza, come è normale in ogni ambiente dove si svolgono farse.
+
+Attraverso uno di questi passaggi, Edward guidò molto delicatamente George, che era rigido ma ancora in fiamme.
+
+Attraverso la seconda porta apparve un gentiluomo ufficiale, solitamente presente a questo tipo di colloqui.
+
+Attraverso la terza porta, la delegazione entrò; il giovane e popolare Primo Ministro, pieno di simpatia, attenzione e disponibilità, ascoltò un'accusa così severa contro la cattiva amministrazione delle Isole Spitzbergen da parte del famigerato Re di Boemia, che probabilmente non l’aveva mai sentita più di trentotto volte negli ultimi due anni.
+
+Edward prese George per il braccio e lo portò stanza dopo stanza, lungo un corridoio, fino in una sala; poi, come per magia, apparve un ottimo motore.
+
+Entrarono dentro; Edward continuava a comportarsi in modo estremamente affascinante, mentre Dimmy, con un atteggiamento teso e rigido, era seduto sul bordo del sedile. L’auto li portò per un lungo tratto di strada; durante quel viaggio Edward venne a conoscenza della trama principale: il rapina, il rifugio a bordo della nave, la fuga e la fortunata scoperta di William Bailey.
+
+A George fu fatto capire, con quel metodo e quell’insistenza tipici del suo carattere, che quella storia era meglio dimenticarla, e che soltanto ciò che gli era stato dato da leggere – e solo i punti essenziali di quel contenuto – poteva essere pubblicato per sua moglie e per il mondo intero.
+
+Era una cosa scontata: George, di tanto in tanto, amava remare e pescare; un amico gli aveva chiesto di recarsi a Port Victoria – ci voleva solo un’ora – ma l’amico non si era presentato. George aveva intenzione di andarci solo per un minuto, di issare la vela come uno sciocco, e invece il vento lo spinse immediatamente verso il fiume Swin; poi, cambiando direzione, lo portò addirittura sopra le isole Gunfleet. Fortunatamente c’era alta marea, e il resto, naturalmente, andò per il meglio.
 
 
 
@@ -6367,6 +9077,100 @@ But as the Premier had justly thought that afternoon, the tide had turned; and w
 Repton was at that very moment restored to his right mind — his Caryll’s Ganglia were restored to their normal function — and would never tell the truth again.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Queste esperienze marittime suscitarono in George molti dubbi.
+
+“Non c’era affatto nessun vento di sud-ovest,” disse con un tono critico e indifferente.
+
+“Idiota che non sei altro,” disse Edward, “chi si preoccuperebbe di una cosa del genere a [[London|Londra]]?”
+
+“Lo si noterebbe in mare,” disse George con profonda convinzione.
+
+“In ogni caso, a meno che non vogliate che una bella storia vi perseguiti per tutta la vita, dovete stare fuori per trentasei ore e dovrete atterrare lontano da Parham. Ve lo dico io!” disse Edward con fermezza.
+
+E George acconsentì.
+
+Si cenarono insieme a Richmond, quella cittadina suburbana a cui erano arrivati seguendo le indicazioni di Edward. George, ormai sollevato dopo tante sofferenze, divenne molto più gentile. Nel loro dialogo trapelò il fatto che Sudie potesse o meno conoscere la verità; non aveva osato comunicare con lei. William Bailey lo aveva fatto dopo aver ricevuto i suoi nuovi vestiti, ma in casa non c’era nessuno. C’era solo un uomo all’interno che stava facendo l’inventario, e il servitore pensò che quel messaggio avesse a che fare con lui. Non sapeva cosa Sudie potesse aver sentito da altre persone.
+
+“Da dove è arrivato quel messaggio telefonico?” chiese Edward, ricordando l’angoscia tormentosa del suo capo riguardo a quella questione che ora sembrava così inutile.
+
+“Non lo so,” balbettò George, se posso usare un termine così irrispettoso per un uomo che guadagna 100 sterline a settimana, “Davvero non lo so. So che ha noleggiato una macchina e che l’ha guidata lui stesso.”
+
+“Ah sì, davvero? Dove l’ha portata?”
+
+“Verso una stazione,” disse George con chiarezza.
+
+“Lontano?” chiese Edward.
+
+“Oh cara!” disse George, “Non chiedermelo… Subito, in ogni sorta di posto.”
+
+“Ora, Demaine, ascolta attentamente,” disse Evans, concentrato. “Riesci a vedere il mare?”
+
+“No,” disse George con un brivido.
+
+“Riuscivi a vedere il fiume… o qualcosa del genere?”
+
+“No”, disse George. “Siamo arrivati alle tre, e William ha telefonato dalla stazione.”
+
+“Ma dannazione!”, esclamò Edward, “come si chiamava quella stazione?”
+
+“Non lo so”, disse George, “non me ne sono accorto”.
+
+#Edward provò un altro approccio. “C’erano case intorno ad esso?”
+
+“Sì, moltissimi,” disse George, “moltissimi. C'erano allori, molte colonne di lampioni a gas, e anche un tram. Oh, era davvero un posto terribile!”
+
+Allora Evans capì: nella sua mente c'era il Giardino di [[England|Inghilterra]], Kent e una delle sue città dal cuore profondo, forse Chislehurst o St. Mary Cray. “Ma perché sei andato in Liverpool Street se eri entrato da Cannon Street?” chiese.
+
+“Come facevi a sapere che ero entrato in Cannon Street?”, chiese George con gli occhi spalancati, come un bambino che vede la carta segnalata in segreto uscire dal mazzo.
+
+#"Non importa… Perché sei andato in Liverpool Street?"
+
+“William mi ha detto di farlo,” rispose semplicemente George.
+
+“Diventerai un ottimo membro del gruppo dirigente,” disse Edward, quasi tra sé e sé. “Sai perché ti ha detto di andare in Liverpool Street?”
+
+“No”, disse George, “non lo so… Non ne sono certo”.
+
+“Beh,” disse Edward, come se stesse rivelando un segreto profondo, “se mai doveste trovarvi a Lowestoft, è così che potete arrivare a [[London|Londra]].”
+
+“Ah, è così?” disse George in tono vuoto.
+
+“Dove ha comprato i tuoi vestiti?”, chiese improvvisamente Edward. “In quale negozio?”
+
+“Oh, da qualche parte a Parham,” disse George, “non so esattamente dove. Le ho messe prima di iniziare, naturalmente. Non potevo certo restare in pigiama.”
+
+A Edward venne in mente un’idea. Sollevò il colletto del cappotto di Demaine e vide, attaccata con della nastro adesivo, la scritta “Harrington Brothers, Parham”. Senza nemmeno chiedere il permesso, tagliò via l’etichetta.
+
+“Cosa c’è scritto sulla maglietta?”, chiese in modo laconico.
+
+George aprì il suo gilet e guardò. “Seicentosessantasei,” disse.
+
+“È il segno della bestia”, disse Edward.
+
+“Di chi stai parlando?”, chiese George, confuso. “Me l’ha prestato William Bailey.”
+
+“Se me l’avessi detto,” disse Edward, “non ti avrei chiesto di cosa si trattasse; anzi, se mi avessi fornito quell’informazione, avrei potuto dirti chi ne era il proprietario. Mio Dio!” mormorò, “che altro uomo in [[England|Inghilterra]]. Avrebbe mai portato con sé la sua Enciclopedia Ebraica?” chiese all'improvviso, girandosi di scatto.
+
+“Sì,” disse George con entusiasmo, “come facevi a saperlo?”
+
+“Niente di importante,” disse Edward, “solo so che gli piace molto. Hai mangiato prosciutto?”
+
+“Sì,” disse George riflettendo attentamente, “lo ho fatto. Sì, me lo ricordo chiaramente, l’ho fatto.”
+
+L’espressione di Edward era piena di soddisfazione.
+
+Era arrivato il momento del loro ritorno. George, la cui negligenza verso i soldi aveva subito colpi molto duri negli ultimi mesi – anzi, negli ultimi giorni – insistette per pagare, e Edward, che sapeva più di quanto fosse opportuno, gli permise di farlo; inoltre lo consigliò di trascorrere il giorno seguente, giovedì, a letto. “Comunque,” concluse, “non in un posto dove i ‘squali’ possano raggiungerti. Aspetta che Dolly ti mandi qualcosa: sarà venerdì, ne sono sicuro.”
+
+Tornarono a casa di Demaine; Sudie, avendo sentito la notizia in tutta [[London|Londra]], dovette occuparsi del ragazzo assente senza scuola a suo piacimento.
+
+Per quanto riguarda Edward, tornò tardi di notte a Downing Street, dove le sue responsabilità quotidiane lo aspettavano. Tuttavia trovò il suo capo nel medesimo stato d’animo di quella felice giornata ormai lontana: avendo risolto un problema, ne era sorto uno ancora più grave. Il ricordo di Repton, di Repton che probabilmente in quel preciso momento stava rovinando uno qualsiasi dei venti accordi politici presi in precedenza, lo tormentava oltre ogni sopportazione.
+
+Ma come il Primo Ministro aveva giustamente pensato quel pomeriggio, la situazione era cambiata; e quando la marea cambia nel canale di un porto, anche se si muove avanti e indietro tra mulini d’acqua e incertezze, alla fine raggiunge il suo apice. Ed era proprio ciò che stava accadendo ora per le sorti della nostra amata nazione e del suo amatissimo Gabinetto.
+
+In quel preciso istante, Repton tornò in possesso della sua mente sana; i “Gangli di Caryll” ripresero la loro funzione normale, e lui non avrebbe mai più detto la verità.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_01" data-title="A Change in the Cabinet — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
@@ -6404,6 +9208,40 @@ She had persuaded him to an early dinner; she had even put it at the amazing hou
 
 Another attack of pain in the head seized him and passed. She sat doggedly, and endured. This admirable wife after her day-long watch was exhausted and heart-sick. She saw no issue anywhere. She sat by her husband’s side, starting nervously at the least sound from below, and listening to his impossible commentaries upon contemporary life, his hair-raising stories of his friends, his colleagues and even of her own religious pastors, and his bouts of self-revelations, or rather let us hope, of diseased imaginings, when there was put into her hand an express letter.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIV
+
+Per tutta la notte, Sir Charles Repton dormì agitato e inquieto; per tutta la notte sua fedele moglie Maria rimase sveglia a vegliarlo. Non osava affidarsi a una infermiera qualificata, né a nessun membro della famiglia. Mentre dormiva, mormorava cose strane riguardo al governo di [[England|Inghilterra]] e ancora più strane riguardo ai suoi stessi piani finanziari.
+
+Alle quattro e mezza di mattina, proprio nel momento in cui Demaine, a settanta miglia di distanza, sulle onde dell’oceano, si era svegliato per vedere sorgere il sole, il suo predecessore nella carica di Sovrintendente del Tribunale delle Dote (e che ancora ne deteneva il titolo) si alzò improvvisamente dal letto e accusò violentemente un uomo di nome austriaco di averlo ingannato ottenendo informazioni riservate sul bilancio. In preda alla follia, chiese ripetutamente perché i documenti relativi fossero stati inviati già nella prima settimana di aprile; solo quando sua moglie, con la delicatezza tipica dell’amore, assunse il ruolo di quella “sgradevole straniera” e confessò tutto, egli si calmò finalmente e poté godere del primo vero sonno da ventiquattro ore. Dormì fino alle undici; lei, donna coraggiosa, riuscì a riposare un po’ al suo fianco, ma solo in uno stato di semisveglio, pronta ad intervenire in qualsiasi momento per proteggerlo dalle conseguenze della sua malattia.
+
+Quando si svegliò, fu lei stessa ad assumersi il compito di scendere al piano di sotto per portargli la colazione; tuttavia, sebbene il riposo avesse ristabilito il suo corpo, la sua mente era ancora in preda al caos.
+
+Insisteva sul fatto che, quando la Famiglia Reale investiva in alcune imprese, non lo facesse usando i propri veri nomi; iniziò quindi un lungo e disordinato discorso riguardo alle tasse sulla successione e raccontò una nuova storia su un altro nome assurdo, sostenendo anche che le tasse ad esse correlate fossero insufficienti. Tutto ciò veniva descritto in modo così chiaro e logico da aumentare ulteriormente l’orrore derivante dal contrasto tra la sua sanità mentale e quell’altro terribile stato d’animo.
+
+A mezzogiorno, ancora a letto, le raccontava i costi dei tubi di Londra rispetto a quelli di Parigi, facendo battute sul “dover affondare nel fango londinese”. Poi chiese perché un suo amico avesse continuato a ricevere il suo stipendio da ministro per qualche tempo dopo la sua morte, e improvvisamente cambiò argomento parlando del nobile sacrificio di Lord Axton, che si era esiliato in una regione tropicale, minacciando quel sfortunato nobiluomo di bancarotta e prigione se il rapporto sulle paludi di Bitsu non fosse stato favorevole. Poi, per una benedetta mezz’ora, rimase in silenzio.
+
+Alla fine chiese una penna e del carta e scrisse diverse brevi note. Fortunatamente gliele diede perché le inviasse; ne lesse solo alcune e, con mani tremanti, le bruciò tutte, comprese le buste, anche se sapeva quanto fosse stato attento in passato a questo dettaglio.
+
+Si vestì e scese al piano di sotto. Lei lo persuase – con quanto amore! – ad accomodarsi nella sua stanza preferita, quella che si affacciava sul Parco. Dimenticò però che da quella finestra si poteva vedere la folla assiepata; per tutta la tarda mattinata e il pomeriggio, quell’angelo devoto rimase al suo fianco mentre lui esprimeva denunce prive di senso su tutto ciò che lo circondava. Di tanto in tanto, per un attimo di sollievo (solo per lui, non per lei), gettava qualcosa fuori dalla finestra e si rivolgeva ai passanti.
+
+Avvertì più di un autobus che passava del prossimo incontro tra diverse linee e incoraggiò gli azionisti a comprare le azioni finché c’era ancora tempo. In un momento particolarmente critico, iniziò eccitatamente a indicare una figura di vescovo sul marciapiede opposto e a raccontare la sua intera biografia; lei, ritenendo fosse suo dovere, chiuse immediatamente il finestrino, preferendo sopportare la sua rabbia piuttosto che permettere che quella scena continuasse.
+
+Piccoli gruppi di persone si radunarono fuori dalla casa, ma la polizia era stata avvisata e riuscì facilmente a disperderli, senza che fosse necessario ricorrere alla violenza; l’unica conseguenza per la folla fu la perdita di uno o due denti.
+
+Come se il suo compito non fosse già abbastanza, la casa era piena del rumore delle campane, di messaggi che continuavano ad arrivare chiedendo notizie e informazioni, ma lei aveva già ordinato al segretario di scrivere qualsiasi messaggio banale gli venisse in mente, e lui svolgeva fedelmente il suo dovere.
+
+Nella sua confusione, non vedeva altra soluzione se non provare a dormire ancora una notte; e quando lui si portava la mano alla testa, come faceva di tanto in tanto, quando quel dolore lo colpiva, si consolava pensando che un attacco così violento non potesse durare a lungo.
+
+Dico che un attacco di tale violenza, sebbene non ci fosse nulla di violento nel comportamento di quell’uomo, derivava dal contrasto netto tra il tono gentile e disinvolto con cui venivano pronunciate quelle parole e il contenuto stesso di quelle parole; la violenza stessa consisteva proprio in questo squilibrio tra le sue affermazioni assurde e il corso tranquillo della vita nazionale.
+
+La stampa di un decimo di quelle parole semplici e facilmente distribuibili avrebbe potuto distruggere il paese. Dobbiamo ringraziare Lady Repton – e spero che questo non venga mai dimenticato – per il fatto che nessuna di quelle parole sia stata stampata, e che la maggior parte di esse non sia mai stata ascoltata da alcun altro orecchio se non dal suo.
+
+Lo aveva convinto ad una cena anticipata; l’aveva persino fissata all’ora straordinaria delle sette e mezza. Aveva ordinato i piatti che sapeva gli piacessero di più, e il vino che lo rilassasse di più, che per caso era uno champagne normanno. Si era assicurata anche che ci fosse un servizio completo di assistenza, perché la sua esperienza le diceva che in ambienti del genere lui si comportava sempre al meglio.
+
+Un altro attacco di dolore alla testa lo colpì e poi passò. Lei rimase seduta, paziente e stoica, sopportando tutto. Questa meravigliosa moglie, dopo una giornata intera trascorsa in veglia, era esausta e profondamente angosciata. Non vedeva alcun problema. Sedeva accanto a suo marito, sobbalzando ogni volta che sentiva il minimo rumore provenire dal basso, ascoltando i suoi commenti assurdi sulla vita contemporanea, le sue storie inquietanti sui suoi amici, colleghi, e persino sui suoi stessi pastori religiosi. E poi, all’improvviso, le fu consegnata una lettera urgente.
 
 
 
@@ -6503,6 +9341,100 @@ Any doubts upon the matter were settled not only by his appearance but by his fi
 “Lady C. Repton? I am Scipio Knickerbocker, M.D. (Phillipsville), Ma’am,” — and he bowed. He was an exceedingly small man; he wore very long hair beautifully parted in the middle; his jaw was so square, deep and thrust forward as to be a positive malformation, but to convey at the same time an impression of indomitable will, not to say mulish obstinacy. His arms and legs were evidently too thin for health, and the development of his chest was deplorable. He was dressed in exceedingly good grey cloth, but his collar, oddly enough, was of celluloid. His buttoned boots were of patent leather, his tie had been tied once and for ever, and sewed into the shape it bore. He carried in his left hand an ominous little black leather bag.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La didascalia era particolare; recitava:
+
+Alla Nobile Onorabilità.
+
+# A, davvero
+
+La signora C. Repton, M.V.O.
+
+Lo aprì con meraviglia. Il suo contenuto era molto più semplice di quanto sembrasse dall’esterno; recitava quanto segue:
+
+“Signora, — Il caso di suo marito è descritto nella relazione allegata. So qual è il problema e posso curarlo. Il mio onorario è di cinquecento dollari ($500,00) o cento sterline (£100). L’intervento richiederà al massimo dieci minuti del suo prezioso tempo.”
+
+“Vi chiamerò quando avrete finito di bere il tè e lui si sarà riposato a sufficienza, verso le otto in punto.”
+
+“Yrs. etc., Scipio Knickerbocker”
+
+Nella busta di questo breve biglietto c'erano un paragrafo tratto dal giornale e una cartolina stampata con lettere dorate su carta simile all'avorio.
+
+Dottor Scipio Knickerbocker, Medico.
+
+415 Tenth Street
+
+[[London|Londra]], Ontario.
+
+E poi l’Hotel Savoy.
+
+Se fosse stata sola, avrebbe pregato per ricevere indicazioni.
+
+Le otto in punto, proprio in quel momento. E cos'era “Ont.”?
+
+Le donne che stanno per annegare si aggrappano a qualsiasi cosa possa salvarle. In nessuna altra circostanza imaginable Lady Repton avrebbe afferrato un’idea così disperata. Ma le sue facoltà mentali l’avevano abbandonata; non aveva alcun rimedio. Sapeva, tutti sapevano che suo marito era pazzo; intuiva, grazie a venti indizi e soprattutto alla repentinità del dolore, che quella follia derivasse da una semplice pressione meccanica. E se quell’uomo sapesse davvero come curarlo? Non osava chiedergli di anticipare l’ora dei pasti, dell’altro ieri già motivo di lamentele; inoltre, ormai era troppo tardi. L’incomprensibile Scipio sarebbe arrivato.
+
+Era ancora immersa nell’angoscia del dubbio quando accompagnò suo marito (che, scendendo le scale ed entrando in sala da pranzo, chiacchierava allegramente delle avventure di un importante membro dell’Opposizione). Mentre il loro pasto solitario proseguiva in presenza di quei servitori vestiti in modo eccessivamente elegante e silenziosi, a tutte le sue altre preoccupazioni si aggiunse l’incertezza riguardo alla decisione fondamentale: accettare o meno l’aiuto disperato di un uomo completamente sconosciuto, forse addirittura un avventuriero.
+
+Proprio mentre Sir Charles aveva finito la sua zuppa, e con essa anche la sua divertente storiella riguardo al titolo di baronetto che, sebbene fosse stato pagato dal figlio e erede (che era solvente), alla fine era apparso comunque nell’elenco dei nomi per il compleanno come un titolo di cavaliere. Proprio in quel momento, emise un grido acuto e si premette entrambe le mani sulla testa, proprio dietro le orecchie.
+
+“Accidenti, quanto fa male, William!”, disse al maggiordomo.
+
+“Sì, signor Charles,” disse il maggiordomo con lo stesso tono di un religioso che recita le sue preghiere.
+
+“Ora se n’è andata,” disse il baronetto, con un sospiro di sollievo, “ma fa davvero male quando arriva. Che tipo di pesce è questo?” e continuò a mangiare.
+
+Bevve un gran sorso di vino e si sentì meglio, “È secco,” disse con esitazione, “è troppo secco, ma ci sono anche dei vantaggi. Sai perché si fa il vino in modo che sia secco, William?”
+
+“Sì, signor Charles.”
+
+“Ah, davvero? Stai diventando troppo intelligente… Scommetto che non saresti riuscito a dirmelo, eh!”
+
+“No, Signor Charles.”
+
+“Perché,” disse Repton con un occhiolino allegro, “per salvarti la bocca il mattino dopo!” Poi di nuovo si prese la testa tra le mani e gemette.
+
+“Ti fa ancora male la testa, tesoro?” chiese Lady Repton quando vide che quel gesto si ripeteva.
+
+“Sì, maledettamente,” disse Sir Charles a voce alta. “Fa male proprio sotto entrambe le orecchie, esattamente nel punto in cui Sambo, ah! Ora va meglio, (un sospiro), gli ha dato quel colpo brutale durante quella grande battaglia che ho assistito la scorsa settimana. La notte in cui ho telefonato a casa per dire che sarei rimasto alla Casa,” aggiunse come spiegazione.
+
+I servitori stavano lì immobili come pali, mentre Lady Repton sopportava la sua sofferenza.
+
+“Credo che ciò che avrei apprezzato di più,” rifletté Sir Charles dopo questa rivelazione, “sarebbe stato incontrare quel vecchio Prout non appena uscito da quel club. Anche se lui non sa nulla di queste cose, comunque era un posto davvero orribile. Per non parlare delle persone con cui ero. Sarebbe stato divertente vedere quella faccia di Prout quando lo avessi sorpreso lì. Non mi stupirei affatto se dopo quello fosse rifiutato di lasciarmi parlare al Parson’s Show; e in quel caso, ” Sir Charles batté significativamente sulla tasca dei suoi pantaloni, “quelle risorse, sarebbero finite!” Sorrise gentilmente a sua moglie. “La situazione diventerebbe davvero difficile. Non credi, William?” chiese all’improvviso alla bellissima domestica che in quel momento gli stava versando del vino.
+
+“Sì, signor Charles,” disse l’assalitore con un tono di profondo rispetto.
+
+“È proprio questo che li spinge ad andare avanti, cara mia,” disse lui, “e brindiamo a te,” aggiunse alzando il bicchiere. “C’è qualcosa che ti preoccupa?” chiese, con vera gentilezza nella voce.
+
+“Niente, niente,” disse quella donna davvero cristiana, quasi scoppiando in lacrime.
+
+“Mi dispiace davvero molto se in qualche modo ho ferito i tuoi sentimenti, cara mia,” disse Charles Repton.
+
+Nessun sintomo della sua malattia era più angosciante di questa debolezza indegna di un uomo; era completamente diverso dal suo comportamento abituale.
+
+“Non mi passerebbe mai per la mente di ferire intenzionalmente Sua Signoria. Vero, William?” chiese di nuovo.
+
+“No, Signor Charles,” disse William.
+
+“Credo che sia meglio salire al piano di sopra, caro,” disse la sfortunata signora. “Oh mio Dio!” esclamò, mentre all'improvviso un suono forte risuonò in tutta la casa; poi, quando il rumore si attenuò, aggiunse: “Oh, è solo una campanella, ”
+
+“Stasera la sua signoria è molto nervosa, William”, disse Repton come avrebbe potuto farlo un uomo con un altro.
+
+“Sì, Signor Charles,” ripeté William con un tono grave e monotono.
+
+Una carta fu portata dentro su un vassoio di dimensioni enormi, realizzato con una tecnica artigianale notevole, sebbene orribile.
+
+Lady Repton riconobbe quel nome.
+
+“Devo uscire per un momento. Tornerò subito, Charles.” Lo guardò con occhi pieni di ansia e affetto, poi lo lasciò mentre chiacchierava allegramente con il servitore.
+
+Scipio Knickerbocker rimase fermo lì.
+
+Qualsiasi dubbio al riguardo venne dissipato non solo dal suo aspetto, ma anche dalla sua prima frase, pronunciata con un tono singolare.
+
+“Lady C. Repton? Sono Scipio Knickerbocker, Dottore in Medicina (Phillipsville), signora,” — e fece un inchino. Era un uomo estremamente piccolo; portava i capelli molto lunghi, divisi perfettamente a metà; la sua mandibola era così quadrata, profonda e sporgente da sembrare quasi una malformazione, ma al contempo trasmetteva l’impressione di una volontà indomabile, per non dire di una testardaggine irremovibile. Le sue braccia e le sue gambe erano chiaramente troppo sottili per essere considerate sane, e lo sviluppo del suo torace era davvero deplorevole. Era vestito con abiti in ottimo tessuto grigio, ma stranamente il colletto era di celluloide. Le sue scarpe con i bottoni erano di cuoio lucido; la cravatta era stata annodata una volta per tutte e poi cucita nella forma attuale. Nella mano sinistra portava una piccola borsa di pelle nera, dall’aspetto piuttosto inquietante.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_03" data-title="A Change in the Cabinet — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/madness,motif/disease_and_contagion,concept/satire_of_society,concept/madness,form/satire,form/novel,setting/london"></span>
@@ -6566,6 +9498,66 @@ If proof were wanted of the truth of Scipio’s contention, his demeanour at thi
 
 “Might we re-quest the Senator to be seated?” he politely suggested to the lady.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Entra in questa stanza,” disse precipitosamente Lady Repton. Lo portò in una piccola stanza situata accanto alla sala da pranzo, collegata a quest’ultima da una porta minuscola; accese la luce elettrica e, mentre gli chiedeva ansimando quali fossero le sue credenziali, rimase in piedi ad aspettare.
+
+“Signora,” disse il medico con un tono metallico e distaccato, “non ho alcuna qualifica ufficiale. Quello che propongo stasera sarà la mia unica garanzia.”
+
+Nel silenzio che precedette la sua risposta, nel corridoio accanto si poteva sentire il monologo allegro di Sir Charles, interrotto di tanto in tanto dall’approvazione seria del maggiordomo.
+
+“Cosa dici di essere in grado di fare?”, chiese lei.
+
+“Signora, lasciate che le spieghi subito di cosa si tratta. Nel 1914, a settembre, non ho potuto dirglielo; ma nel ottobre dello stesso anno sì: il vostro illustre fisico e biologo britannico, Henry Upton, aveva appena annunciato la sua scoperta rivoluzionaria. Avete mai sentito parlare dei Ganglia di Caryll?”
+
+“No”, disse Lady Repton con nervosismo e voce tremante, “non l’ho fatto”.
+
+“Signora”, disse l’autorità imperiale con perfetta compostezza, “li ho qui”.
+
+Si infilò nella borsa e ne tirò fuori una piccola cartolina sulla quale era perfettamente rappresentata la parte posteriore della testa umana, senza però pelle né capelli; su due protuberanze presenti ai lati del collo erano scritte in grandi caratteri rossi “I Gangli di Caryll”, mentre due linee bianche che partivano da esse indicavano, in caratteri più piccoli, “I Dotti di Caryll”.
+
+Le mise seriamente questa carta tra le mani. La guardò con un certo disgusto: le ricordava le visite ai macellai durante i periodi di povertà della sua giovane vita coniugale.
+
+Quando, come il Figlio dell’Impero immaginava con affetto, la sua ospite aveva completamente compreso le linee fondamentali dell’anatomia cerebrale, lui all’improvviso infilò di nuovo la mano nella borsa e ne tirò fuori un piccolo opuscolo. Poiché è stampato in modo accurato alla fine di questo libro e probabilmente il lettore lo ignorerà del tutto, non intendo affliggerla con esso in questa sede.
+
+Si trattava di una riproduzione, in formato portatile, del grande discorso tenuto nel gennaio di quell’anno al Royal Institute. In esso veniva esposta la scoperta di Henry Upton secondo cui i “Ganglia” di Caryll rappresentavano il centro della moderazione e della prudenza nell’uomo.
+
+La povera donna era troppo confusa per capirci nulla; che il lettore si prenda la briga di leggerlo o meno è del tutto irrilevante, poiché i suoi contenuti non influenzano affatto questa storia potente e commovente.
+
+“Madame,” disse lui quando lei alzò lo sguardo dal documento e lui, immaginando con affetto di averne compreso tutti i dettagli, continuò: “forse non vedete il collegamento tra queste cose”.
+
+Il suo viso gli assicurò che non lo era.
+
+“Né uno né l’altro,” aggiunse con enfasi, “poiché se davvero tali funzioni fossero legate ai gangli di Caryll, perché allora anche la minima ostruzione dei loro canali condannerebbe il malato a dolori violenti e alla totale incapacità di trattenersi dal manifestare ciò che potrebbe distruggere la sua carriera e rovinare irreparabilmente il suo corpo. Signora, ho riscontrato casi di tale ostruzione nei canali in questione. Ho scoperto, con un semplice tocco del bisturi, come eliminare immediatamente quei piccoli ostacoli. Signora,” proseguì, “i canali di Caryll nella testa di Sir Charles sono ostruiti; ecco perché soffre di continui dolori e dell’atroce malattia della VERACITITIS di cui soffre senza dubbio.”
+
+“Velossy, cosa?”, esclamò ansimando Lady Repton.
+
+“Veracititis, signora. Questa espressione è mia; sono stato io infatti ad individuare il legame tra i gangli e i sintomi dolorosi che avete osservato. Lui è qui davanti a voi. Signora, questa diagnosi è già documentata nelle prove fornite dall’Enciclopedia Columbia” – si immerse di nuovo nella sua borsa e le porse un altro documento – “con il nome di Veracititis Knickerbockeriensis. In Ontario, da quando è stato celebrato l’anniversario di Washington, abbiamo avuto tre casi; sono stato chiamato privatamente un mese fa per un caso particolarmente grave, che fortunatamente è stato risolto. Signora, questa informazione non è mai trapelata al di fuori della famiglia. Ho operato con successo. Signora, posso operare con successo anche su vostro marito.”
+
+In quel momento, un forte grido di dolore proveniente dalla stanza accanto, seguito da un sospiro di sollievo e dall’esclamazione “Lo spettro del grande Cesare!”, quasi convinsero la fedele consorte di Sir Charles. Un altro grido, che dimostrava che gli spasmi stavano diventando sempre più violenti, fu decisivo. Lei rientrò in fretta nel salone da pranzo, trovò Sir Charles pallido per la intensità del dolore e lo prese gentilmente per mano.
+
+“Caro”, disse lei, “ho un medico che può aiutarti. Ti sta aspettando”.
+
+“Ah,” sospirò Sir Charles quando il dolore svanì, “Sono davvero felice di sentire questo. Sono tutti dei furfanti, Maria, ma se è un chirurgo e sa come intervenire, allora gli darò fiducia.”
+
+“Non sarà così terribile,” disse Maria, aiutando dolcemente il baronetto ad uscire dalla porta piccola e dirigersi verso la stanza interna.
+
+Non appena posò lo sguardo su quel piccolo dottore, scoppiò in una risata sonora.
+
+“Che stupido piccolo idiota, Maria!” disse a voce alta. “Dio mio, che piccola serpe!”
+
+Se fosse stato necessario una prova della veridicità delle affermazioni di Scipio, il suo comportamento in quel momento doloroso ne era già una sufficiente dimostrazione. Era palesemente evidente, anche per la non trascurabile intelligenza di Lady Repton, che nessun uomo avrebbe potuto rimanere fermo di fronte a una situazione del genere senza aver già visto in precedenza le peggiori manifestazioni di quella terribile malattia.
+
+“Beh,” disse Sir Charles, “quindi mi taglierai a pezzi, giusto?”
+
+“Oh! No!” disse Scipio. “Lady Repton non avrebbe mai permesso un intervento serio senza il vostro pieno consenso. La mia proposta, senatore, consiste soltanto in due piccoli pungimenti nella zona del dolore. Quasi non li sentirete, ma cambieranno le cose,” aggiunse il risoluto Knickerbocker con un accenno di sorriso sulle sue mascelle ossute.
+
+“Con cosa?” disse Sir Charles un po' nervosamente. (“Ahi!” come digressione, perché provò un dolore improvviso.) “Sì, qualsiasi cosa, basta che tu possa farlo velocemente.”
+
+“Non ci vorrà che un momento,” disse Scipione. “Ma sarebbe meglio che qualcuno vi tenesse le mani. Non c’è dolore che valga la pena sopportarlo.”
+
+“Potremmo chiedere nuovamente al Senatore di prendere posto?” suggerì educatamente alla signora.
 
 
 
@@ -6637,6 +9629,72 @@ He put the matter from his mind and took a cab back to his hotel and to bed.
 Thus was Sir Charles Repton cured of Veracititis, late upon Wednesday night, the 3rd of June, 1915, and he slept his old sleep.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sir Charles commentò con gentilezza: “Non sono un senatore, tu piccolo sciocco impudente! Per l’amor del cielo, Maria, da dove vengono persone del genere?”
+
+E mentre parlava così, Scipione passò una mano forte e rigida sopra quella grande testa; con l’altra mano, proprio nel momento in cui Sir Charles, con il mento appoggiato al petto, era impegnato a spiegare a Maria le deficienze fisiche del suo assistente medico, posizionò la lama del bisturi esattamente nel punto dietro l’orecchio che la sua scienza aveva individuato.
+
+“È quel suo terribile accento yankee, o forse qualcosa di ancora peggiore: quell’accento australiano,” stava dicendo il grande imperialista quando, all’improvviso, la lancia colpì e altrettanto rapidamente fu ritratta.
+
+“Hai perfettamente ragione, monello,” disse Sir Charles con voce più debole, “è solo un piccolo fastidio. E penso che sia proprio grazie alla tua importante posizione nel mondo medico che debba esprimerti la mia sincera gratitudine per i tuoi servizi. Sono uomini come te, signore, a portare sollievo all’umanità sofferente, ” Sir Charles si interruppe improvvisamente; la sua voce divenne un po’ più forte. “Hai detto che era yankee o australiano, Maria? Gli australiani usano quella ‘a’ tipica del gergo cockney. Una cosa davvero disgustosa!”
+
+La mano scheletrica si posizionò di nuovo sulla testa di Sir Charles; sentì il mento premuto contro il petto; un altro colpo secco, questa volta dietro l’orecchio sinistro. E con un profondo sospiro sembrò sprofondare in sé stesso.
+
+Scipio toccò delicatamente la parte sensibile del suo strumento con della lana antisettica, lo ripose nella sua custodia e osservò il suo paziente con uno sguardo professionale.
+
+L’uomo era stordito. Stringeva la mano di sua moglie con tale forza da farle quasi male, e si potevano sentire le sue parole incoerenti e sconnesse.
+
+“La più alta apprezzazione possibile. Solo la mia posizione pubblica, è già una ricompensa sufficiente. In un certo senso, rappresenta un legame tra le province del nostro grande Impero, nostre figlie, ” Poi, quasi inudibilmente: “, le nazioni.”
+
+Per circa cinque minuti il grande statista rimase in silenzio; il suo respiro era così regolare da far pensare che stesse dormendo.
+
+“Riuscirà ad addormentarsi, dottore?”, sussurrò Lady Repton.
+
+Scipio Knickerbocker scosse la testa. “Ogni minuto che passa diventerà meno nervoso, signora”, fu la sua affermazione, e una volta ancora dimostrò la validità delle sue previsioni.
+
+Sir Charles si alzò, un po’ stordito; appoggiò una mano allo schienale di una sedia, prese un respiro profondo, si rialzò con più forza e finalmente disse, con una voce ancora debole ma chiara: —
+
+“Grazie, signore. Come posso ringraziarvi? Credo di ricordare, ” — si passò la mano sulla fronte— “credo di ricordare che qualcuno mi abbia detto che siete nato, anche se vi assicuro che per noi in [[England|Inghilterra]] è impossibile distinguerlo, in uno dei nostri territori d’oltremare. Signore, un atto come quello che avete appena compiuto, una buona azione, se così posso chiamarla, ” continuò ad alta voce, stringendo la mano destra di Scipio tra le sue, “è davvero il cemento dell’Impero! Non lo dimenticherò mai, mai! Potete scusarmi un momento, signore, mentre parlo con Lady Repton?”
+
+Con il suo sorriso più bello e vincente, Sir Charles pose questa domanda a Scipione, che, per la decima o undicesima volta quella sera, si inchinò con una deformazione alla quattordicesima vertebra.
+
+Trascinò sua moglie nel corridoio.
+
+“Immagino che voglia essere pagato subito, vero, Maria? Di solito questi specialisti lo fanno.”
+
+“Sì, caro,” disse Lady Repton; il suo vecchio timore ritornò di fronte al cambiamento nel suo umore. “Sì, caro, temo che lo abbia fatto, infatti, temo di averglielo promesso.”
+
+“Quanto?” chiese Sir Charles con severità.
+
+“Ma caro, non importa, vero? Io pagherò.”
+
+“Ma è importante. È molto importante, Maria. Alla fine, tutto costa i miei soldi. Quanto ha chiesto per farlo?”
+
+“Cento sterline,” disse Lady Repton.
+
+“Oh, che sollievo,” disse Sir Charles. “Cento! È davvero una bella quantità. Quante volte verrà a prenderle?”
+
+“Non vorrà più venire, caro,” disse Lady Repton.
+
+“Che cosa!”, esclamò Sir Charles, “cento sterline per quella roba?”
+
+“Mio caro, se solo sapessi la differenza!” disse Lady Repton.
+
+“Sì, sì, lo so,” disse impazientemente, “il dolore è passato. Non si può fare nulla al riguardo, e ovviamente novanta è una somma troppo alta. Avrebbe accettato anche cinquanta, Maria. Avrei dovuto occuparmene personalmente,” aggiunse.
+
+E così, una volta risolto il problema, tornò indietro.
+
+“Permettetemi di lasciarvi un momento da soli con la sua signoria,” disse con il suo modo più affascinante. Poi, all’improvviso: “Buonanotte”, e stringendo calorosamente la mano di Sir Charles, li lasciò.
+
+Lady Repton era profondamente commossa. Porse al giovane un pacchetto di banconote che aveva preparato con cura. “Non è nulla”, disse, “non è niente rispetto a ciò che hai fatto. Ma, oh dottore, basterà?”
+
+“Durerà per sempre, almeno,” si corresse in fretta, “tutti gli altri casi sono durati molto a lungo, e sono passati più di un anno da quando ne ho eseguito il primo. Non è quel tipo di cosa che possa ripetersi, non è una crescita naturale.” Stava quasi per dire di cosa si trattasse, quando si ricordò di essere lui il detentore del monopolio su quella pratica. Poi, temendo di trattenersi troppo in quella casa dove, dopotutto, non era altro che uno strumento pagato per svolgere quel compito, le augurò gentilmente la buonanotte. Mentre tornava a casa, portando con sé la sua piccola borsa, Scipio rifletté che Maria, Lady Repton, gli piaceva di più del suo marito. Ma si ricordò anche che le operazioni per il trattamento della Veracititis, per loro natura, spesso portavano a gravi delusioni.
+
+Lasciò perdere la questione, prese un taxi per tornare in albergo e andò a letto.
+
+Così Sir Charles Repton fu guarito dalla Veracititis, nella tarda serata di mercoledì 3 giugno 1915, e riprese a dormire tranquillamente come prima.
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_01" data-title="A Change in the Cabinet — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/madness,concept/satire_of_society,concept/tradition,concept/madness,concept/appearance_vs_reality,form/satire,form/novel"></span>
@@ -6707,6 +9765,72 @@ Yet another change of plan! More bother! He would have to go through with the pe
 Dolly came in nervously and shook hands with him.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XV
+
+Era venerdì mattina, il 5 giugno 1915: il giovane e popolare Primo Ministro era impegnato nella Cerimonia di Insediamento dei Guardiani della Corte del Dote.
+
+Che ci sia Repton o meno, quel posto deve essere riempito. Demaine è tornato e deve esserci sul banco dei leader prima che scoppi un’esplosione.
+
+La Cerimonia Inaugurale che introduce un statista alla carica di Guardiano del Tribunale delle Dote, tecnicamente denominata “Accettazione”, richiede, secondo le rigorose norme costituzionali, la presenza di almeno tre persone: il Guardiano uscente, il Guardiano entrante e il Sovrano. Tuttavia, poiché GHERKIN, nonostante il suo eccentrico radicalismo, aveva elevato tale carica alla posizione attuale, il Guardiano uscente poteva essere rappresentato da un procuratore; tuttavia, una tale sostituzione avveniva raramente, poiché eliminava l’antico rituale della “Donazione”: cento libbre, cento scellini, cento penny, oltre a una nuova moneta di bronzo coniata appositamente per l’occasione, tutto racchiuso in un astuccio d’argento dorato e consegnato al Guardiano uscente affinché fosse considerato con profondo rispetto storico; inoltre, una delle monete veniva conservata come ricordo di famiglia.
+
+Ma Dolly, riflettendo sulla situazione quella mattina di venerdì, il 5 giugno 1915, non riusciva a trovare alcuna soluzione; doveva semplicemente informare brevemente Lady Repton, e preferibilmente per telefono, che non doveva nemmeno pensare che suo marito potesse presentarsi in Court, nemmeno accompagnato da un custode, e che la famiglia Repton avrebbe dovuto rinunciare ai cento sovrani, ai cento scellini, ai cento pence e al nuovo penny di rame appositamente coniato per l’occasione (tutto conservato in una scatola d’argento dorato), piuttosto che rischiare uno scandalo.
+
+Era venerdì, e lui era felice di ricordarlo: era la Giornata dei Deputati Privati. Non ci sarebbero state domande. Aveva tutto il sabato e la domenica davanti a sé. Avrebbe organizzato l’insediamento proprio la settimana successiva. Gli avevano già comunicato che le autorità supreme avevano concesso il permesso, considerando le recenti difficoltà di Demaine: quando era stato gettato in mare su quella piccola barca, abbandonato traditoriamente dalla nave straniera e poi salvato da persone disposte ad aiutarlo. Quindi, l’ultimo rito che consisteva nell’utilizzare il bastone d’ébano, che per tante generazioni era stato l’elemento più caratteristico di quella cerimonia, sarebbe stato omesso.
+
+Prese il telefono e chiese che lo mettessero in contatto con i Reptons nella stanza accanto. Tenne il ricevitore mentre un domestico gli comunicava che il suo messaggio sarebbe stato immediatamente trasmesso; pochi secondi dopo, con grande sorpresa, non sentì le voci tremolanti di Maria, ma la voce decisa e diretta di Sir Charles, proprio come una volta: “Di cosa si tratta?”, con l’ tono di un uomo che deve subito passare alle cose pratiche e ha molte cose da fare.
+
+“Oh!”, esclamò Dolly rivolta alla macchina, completamente sorpresa. “Sei tu, Repton, vero?”
+
+“Sì, certo,” fu la risposta breve. “E allora?”
+
+“Niente, nulla… Ti senti meglio ora?”
+
+“Non so cosa intendi.” Fu detto con toni contenuti, ma inequivocabili. “Il mal di testa è passato, se è questo che volevi dire.”
+
+“Sì, sì,” disse il Primo Ministro, chiedendosi cosa diavolo dovesse dire. “Sì, oh, è sparito, vero?”
+
+“Sì, l’ha; te l’ho già detto.” Poi, dopo una pausa: “Ascolta, sono davvero molto impegnato. Ci sono tre persone qui per quella assurda questione della concessione. Mi hai dato totale libertà di agire, e non vedo l’ora di procedere. Spero di non essere scortese. È davvero gentile da parte tua chiedermi come sto. Sarai in Parlamento alle dodici?” E poi il telefono squillò all’improvviso.
+
+Dolly era in uno stato di stupore; fece ciò che faceva sempre quando le cose lo confondevano: chiamò Edward.
+
+“Edward,” disse, “quell’infido dissidente ha tre uomini in casa sua e sta discutendo con loro della concessione petrolifera. Oh mio Dio!”
+
+Il Primo Ministro era chiaramente spaventato e preoccupato, ma non sembrava essere meno spaventato o più preoccupato di quanto la situazione richiedesse. Non riusciva a riconoscere Repton: sembrava esserci un altro cambiamento.
+
+“Perché ora ci sono altri tre che lo sanno… nient’altro.” rispose Edward semplicemente.
+
+“Assicurati di prendere un taxi,” disse il Primo Ministro, “e vedi cosa puoi fare.” E aspettò con ansia che Edward tornasse.
+
+“E allora?” disse Dolly quando lui entrò.
+
+“Beh!”, disse Edward. “Non era molto educato, ma, sei davvero sicura di non essere stata preoccupata quando l’hai visto martedì?”
+
+“Preoccupata… Sì, direi proprio di sì!” disse Dolly.
+
+“Beh, è proprio questo che intendo,” disse Edward un po’ a disagio. “Non hai forse, esagerato un po’?”
+
+“Esagerato!” disse Dolly, alzandosi di scatto con tutta la sua giovane energia e, nell’agitazione, dimenticando che mancavano meno di quarantotto ore, “Perché, santo cielo, indossava un enorme giglio di Pasqua nel bottone del colletto e ha persino provato a lottare con il maggiordomo in corridoio!”
+
+“Sì, ma sai,” disse Edward, “in tutti c’è un lato gioioso, e ora emerge, ”
+
+“Che la gioia vada al diavolo!”, interruppe Dolly. “Quell’uomo stava delirando!”
+
+“Beh, comunque non lo avrebbero certificato,” disse Edward, “e ora non sta delirando affatto! È lucido come una statua di cera e sveglio come un chiodo pungente. Sono contento che oggi non stia facendo affari con lui.”
+
+“Guardate qui,” protestò il Primo Ministro. “Se non fosse stato assente, perché sarebbe rimasto a casa come un prigioniero per tutta la settimana, con Lady Repton che impediva a chiunque di vederlo? E cosa stava facendo ieri, giovedì? Perché non è sceso in Parlamento, eh?”
+
+“Non ho detto che non fosse malato,” disse Edward in tono indifferente. “Ho solo detto che forse c'era stata un po' di esagerazione.”
+
+“Molto bene, allora”, concluse il Primo Ministro con rassegnazione, “molto bene”.
+
+Edward prese una decisione rapida e chiamò prima la Luna, poi in privato il Capo, per dirgli che “con Repton andava tutto bene; c’era stato un errore”. Il suo capo uscì poi ad svolgere le sue mansioni quotidiane.
+
+Un altro cambiamento di piano. Altre complicazioni. Ora avrebbe dovuto procedere con l’assegnazione del titolo nobiliare! Scese tristemente alla Camera dei Comuni e scoprì che Charles Repton era già al suo posto, rigido, ben vestito e pronto a svolgere le sue funzioni al banco del Tesoro.
+
+Dolly entrò nervosamente e gli strinse la mano.
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_02" data-title="A Change in the Cabinet — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="setting/london"></span>
@@ -6773,6 +9897,68 @@ The Duke was profuse in his thanks.
 Charles Repton returned to the House of Commons. Another message!
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sir Charles le prese la mano in modo piuttosto freddo; non capiva perché un semplice mal di testa durato pochi giorni, di cui nessuno aveva parlato, dovesse diventare scusa per tanta attenzione da parte del pubblico. Quello comportamento accentuava ancora di più la situazione. Sedette per tutta la prima ora del dibattito, con l’aria di essere altrettanto contento se tutto quel trambusto fosse stato evitato. “Comunque,” si disse per consolarsi, “la settimana prossima ne sarò finalmente libero, ” E il suo pensiero si rivolse poi al momento in cui avrebbe preso posto nell’Alta Camera e a quali sarebbero state le sue prime attività lì.
+
+Mentre pensava a queste cose, George Mulross Demaine entrò silenziosamente da una delle porte laterali. Appena entrato, si udì un leggero applauso da parte di coloro che ricordavano l’annuncio della sua imminente nomina. Questo lo mise un po’ in agitazione. Si sedette e cercò di dimenticarsene, mentre il dibattito continuava.
+
+Nei salotti, Repton continuava ad essere disturbato da occasionali congratulazioni per il suo ritorno in salute. Non le capiva facilmente e rispondeva in modo piuttosto brusco. Stava per andare in biblioteca a cercare un po’ di tranquillità quando un messaggero gli porse un biglietto: era del Duca di Battersea.
+
+“Altra confusione!”, pensò, ma subito si diresse con il suo passo rigido e dritto verso il luogo dove quel grande finanziere lo stava aspettando, e lo salutò con sufficiente calore.
+
+Il Duca, essendo un uomo d’affari, era molto conciso e diretto. Congratulò Charles Repton non per aver “solo” liberato il Parlamento da quel fastidioso problema che sembrava occupare i pensieri di troppe persone, ma per l’enorme vantaggio che la Camera Alta avrebbe ottenuto grazie a questo cambiamento. Dopo aver detto questo, passò al vero motivo della sua visita: la sua pronuncia era infatti offuscata da quel leggero balbettio che voci malvagie tendevano sempre ad esagerare. Sir Charles Repton si sarebbe ricordato di quel caso molto vergognoso riguardante l’editore della “Islington Hebdomadal Review”, vero?
+
+Charles Repton cercò di ricordare, ma non ci riuscì.
+
+Beh, si trattava di una truffa ordita da un uomo che aveva ottenuto con ogni diritto vent’anni di indennità per aver dichiarato con certezza l’età alla quale Ballymulrock aveva ricevuto il suo titolo nobiliare. Una truffa davvero meschina! Dietro tutto ciò c’era ricatto.
+
+Sì, ora Charles Repton se ne ricordava, e sorrise con un sorriso amaro pensando all’incompetenza strana di quel particolare detenuto. Perché il vecchio Ballymulrock fosse il settimo nella lista dei titolari di quel titolo, lui non guadagnava nulla all’anno; era un anziano scapolo di ottantasette anni, l’aveva ottenuto per caso da un nipote acquisito, e inoltre si trattava solo di un titolo nobiliare irlandese! Il detenuto aveva sostenuto che si fosse trattato di un errore di stampa. Che sciocco! Sì, Sir Charles Repton ricordava bene quel caso. E allora? “Non intendo prendere alcuna misura per salvarlo,” disse seccamente, “se è questo che volete: se l’è meritato! Se volete che qualcuno si occupi di Birdwhistlethorpe, beh, c’è Isaac: conosce bene il Nord di [[London|Londra]].”
+
+“No, no, no,” disse allarmato il vecchio Duca di Battersea, “mi state confondendo completamente!” E continuò a spiegare al direttore uscente che erano decisi a portare questa questione davanti alla Camera dei Lord con una risoluzione ufficiale. Avrebbe appoggiato la loro iniziativa?
+
+“Non vedo quale rapporto io abbia con questa faccenda,” disse brevemente Repton.
+
+Il Duca sorrise, proprio come aveva sorriso anni prima, quando aveva presentato il documento di Lord Benthorpe e aveva costretto quel personaggio ormai dimenticato ad obbedire. Avrà visto Sir Charles ciò che la Luna stava dicendo quel giorno?
+
+No, Sir Charles non l’aveva fatto. Pensò che si trattasse delle concessioni petrolifere. Non prestava alcuna attenzione alla Luna. Ma la telefonata di Edward verso la Luna e il Capon avevano avuto conseguenze terribili: ogni editore credeva di aver riconquistato la propria libertà.
+
+Il sorriso del Duca di Battersea divenne sempre più minaccioso; trovò un biglietto nella tasca interna del suo cappotto, che per qualche motivo sembrava sempre essere unto. Mentre Sir Charles lo leggeva, il suo viso si oscurò.
+
+“È piuttosto scandaloso,” disse mentre lo posava giù. Il leader della Luna aveva fatto capire in modo molto chiaro che c'era stato un accordo riguardo al titolo nobiliare di Repton.
+
+“Il valore del Capone, davvero notevole!” insinuò il Duca di Battersea.
+
+“Davvero?” disse Sir Charles. “Certo!”
+
+“Sì, proprio così,” disse il vecchio Duca, porgendo il foglio come se si trovasse dietro un bancone; e Sir Charles Repton non poté fare a meno di leggerlo. Era davvero peggiore del previsto: diceva chiaramente che la concessione petrolifera in Birmania era il prezzo per la promozione di Repton alla Camera Alta. E il passaggio terminava con queste parole:
+
+“Non abbiamo alcun desiderio di aggravare una sofferenza nazionale che nessun sostenitore del governo rimpiange con maggiore sincerità di noi stessi. Siamo disposti a credere che il povero signore, che temiamo non possa mai più riprendere il suo posto nella vita pubblica, fosse in realtà completamente innocente di qualsiasi comportamento scorretto; tuttavia, altre ambizioni, diverse dalle sue, potrebbero essere state coinvolte in questa vicenda. Concedere un potere legislativo permanente a una persona che ormai, in modo notorio, non può più partecipare attivamente alla vita pubblica significa soltanto aumentare lo scandalo.”
+
+Questo decise per lui: avrebbe eliminato immediatamente, e in modo decisivo, quella “leggenda” dei mal di testa.
+
+“Sì,” disse, “mi trasferirò non appena vorrai tu, e prima sarà meglio. Non lo disse come se stesse facendo un favore; ed era facile vedere che il Duca aveva un po’ paura di lui, ”
+
+Dopo una pausa durante la quale i due uomini si alzarono per congedarsi, il vecchio signore suggerì che Methlinghamhurst parlasse dopo di lui.
+
+“Messlingham, chi?” disse Repton, perplesso. Il nome non gli era familiare.
+
+“No, non Methlinghamhurtht! Methlinghamhurtht,” disse il Duca di Battersea, piuttosto ad alta voce. “Methlinghamhurtht!”
+
+Sir Charles scosse la testa, ancora perplesso. “Credo che stia bene,” disse con aria seria.
+
+“Sai,” disse il Duca di Battersea, chinandosi in avanti con aria confidenziale, “quel Clutterbuck, ”
+
+“Oh! Clutterbuck… Sì, me lo ricordo. E allora? Sa parlare?”
+
+“Non molto bene”, esitò il Duca di Battersea, “ma sai che voleva…”
+
+“Non mi interessa davvero”, disse Sir Charles allontanandosi. “Comunque, lo farò”.
+
+Il Duca fu estremamente grato.
+
+Charles Repton tornò alla Camera dei Comuni. Un altro messaggio!
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_03" data-title="A Change in the Cabinet — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="setting/london"></span>
@@ -6824,6 +10010,54 @@ He heard a low mumbling noise some distance down the benches which he would neve
 
 “I have nothing to tell my right honourable gentleman — I mean my honourable gentleman....” Here there was a pause, painful to all present with the exception of one ribald fellow who cackled twice and then was silent.... “I have nothing to add,” George Mulross began again with a lump in his throat, “in reply to my honourable friend — to what my predecessor said in reply to a similar” (another pause) ... “Oh, — question — upon the tenth of this month.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Il Primo Ministro pregò di poter incontrare Sir Charles Repton”: davvero, quel giorno non c’era fine alla lista delle persone che volevano vederlo! Charles Repton si diresse verso la stanza di Dolly con un’espressione sul viso tale da far temere a chiunque di menzionare ancora il mal di testa. Ma in realtà, almeno non direttamente, non era il mal di testa l’argomento della conversazione che Dolly voleva affrontare.
+
+“Repton,” disse lui con scuse e un certo timore, “temo di aver già organizzato qualcuno che mi sostituisca la prossima settimana. Intendo per l’evento ‘L’Accettazione’, sai.”
+
+“Oh davvero l’hai fatto!” disse Sir Charles, piuttosto infastidito. “Avresti potuto chiedermelo prima, secondo me!”
+
+“Beh, vedi…” iniziò il suo sfortunato capo.
+
+“Onestamente non vedo nulla,” disse Repton in tono secco, “ma suppongo che tu abbia ragione. Ho scritto per dire che dovrei essere lì.”
+
+“Oh sì, certamente, certamente,” disse Dolly in fretta, “l’ho cambiato.” In realtà non aveva fatto nulla del genere e si chiedeva cosa dovesse dire al rappresentante legale. “Certamente!”
+
+“Bene,” disse Charles Repton dirigendosi verso la porta. “Suppongo che sia tutto…”
+
+“Sì, è tutto,” disse Dolly, anche se forse aveva ancora un centinaio di cose da dire. “Mi assicurerò che tu venga informato dell’ora esatta.”
+
+“Certo,” disse brevemente Charles Repton, poi chiuse la porta in silenzio ma con decisione.
+
+La cerimonia inaugurale, sebbene priva da alcuni anni dell’ingresso laterale che ne costituiva il tratto più pittoresco, e ora anche della tradizionale accoglienza con il bastone d’ebano (sebbene ciò non rappresentasse un precedente), fu comunque sufficientemente imponente. La scatola d’argento dorato contenente le Trecento e Una monete appositamente coniate era stata affidata a Charles Repton dal Simbolo della Bottiglia di Olio di Palma, ed era già in viaggio verso la sua casa; i sandali tintinnanti erano stati rapidamente indossati e tolti, e Demaine aveva giurato fedeltà per assumere il ruolo di sergente a Ponthieu e nel Seniory di Lucq. E così, tutto fu sistemato.
+
+Lord Repton (poiché si accontentava di quel semplice titolo, nel Maniero di Giggleswick) era presente per la prima volta sulle panche rosse, in attesa del momento in cui avrebbe avviato e guidato il dibattito sulla risoluzione.
+
+Nella Camera dei Comuni, George Mulross Demaine, che negli ultimi giorni si era dedicato con impegno all’apprendimento delle mansioni del proprio incarico, soprattutto delle complesse tecniche necessarie per rispondere alle domande, stava leggendo per l’ultima volta le proprie note nella comoda stanza assegnata al suo ufficio, ripetendosi a bassa voce le parole che aveva attentamente memorizzato. Edward era con lui per dargli coraggio; e gli serviva davvero quella compagnia in quel momento.
+
+Finalmente fu chiamato.
+
+L’Aula era molto affollata durante l’ora delle domande, poiché si sapeva o si sospettava che quel giorno avrebbe avuto luogo qualcosa di importante. La vera natura della crisi era nota a pochi, ma la scomparsa di Demaine e il suo ritorno, le sue terribili avventure sulla barca da pesca, la sua notte in mare, l’azione spregevole dell’equipaggio straniero e l’aiuto eroico che alla fine gli era stato prestato erano ormai di dominio pubblico.
+
+Quel giovane silenzioso e poco conosciuto, la cui scomparsa dai banchi sotto la galleria probabilmente non sarebbe mai stata notata, era già considerato quasi un eroe nella mente del pubblico. Era diventato particolarmente caro ai suoi colleghi durante quei momenti di ansia in cui si credeva che fosse perso, e quando i media di [[London|Londra]] avevano dedicato molte attenzioni a quella misteriosa scomparsa.
+
+La Camera dei Comuni conosce quell’uomo.
+
+Ci furono quindi grida di gioia sonore e calorose; e, secondo la bella tradizione della nostra vita pubblica, tali grida si diffusero in tutto l’assemblea. Quel felice venerdì, George Mulross entrò rapidamente da dietro la sedia del Presidente dell’Assemblea, inciampò nel piede teso dal suo secondo zio per matrimonio, il membro del Ministero della Marina, e si sedette per la prima volta tra i suoi nuovi colleghi sul banco del Tesoro.
+
+Il Primo Ministro lo accompagnò. Gesti di congratulazioni appropriati all’occasione si potevano notare nelle persone che gli erano immediatamente intorno, e lui stesso indossava quel sorriso beato ma malaticcio di chi sta per essere impiccato, ma che possiede una fede incrollabile in un’eternità felice.
+
+Gli fu posta solo una domanda; la lesse e la rilesse più volte; lesse anche più volte la risposta scritta a macchina che il signor Sorrel gli aveva fornito, e ora l’aveva imparata a memoria, nella speranza che non ci fossero possibilità di errore. Chi aveva posto la domanda si era gentilmente offerto di ritirarla, in segno di rispetto per le fatiche e le ansie attraverso cui il nuovo Sovrintendente della Corte dei Dote aveva appena passato; ma il Primo Ministro, sebbene apprezzasse quell’offerta, era deciso che il suo caro giovane parente dovesse riuscire nella sua impresa. E per quanto banale potesse sembrare l’argomento, la Domanda N. 31 era di gran lunga la più importante su quel foglio per la maggior parte delle persone presenti.
+
+Si trattava, naturalmente, del relitto che ancora si muoveva sotto l’effetto delle onde, di quel “sport” tra vento e mare sulle scogliere di Royal Sovereign. Questo “dente dolorante” dell’Impero era riapparso in un altro contesto. Il deputato per Harrowell, proprietario terriero su quella costa, voleva sapere se fosse vero che grandi assi, adornati, con suo imbarazzo doveva ammetterlo, da lunghi chiodi arrugginiti, non fossero spinti a riva dal relitto, graffiando gravemente coloro che si bagnavano in quelle acque poco lontano dalla popolare e in rapida crescita località balneare situata un po’ a est-nord di quel misero relitto abbandonato.
+
+La domanda numero 29 è stata risposta, la domanda numero 30 è stata risposta. L’agonia di Demaine era finalmente arrivata.
+
+Sentì un basso mormorio provenire da qualche parte lungo le panche; non avrebbe mai pensato che si trattasse della parola “Trentuno”, se non fosse stato per il fatto che il marito della sorellastra di sua madre, il Cancelliere dello Scacchiere, lo aveva colpito duramente alle costole con il gomito, facendolo alzare in piedi. Le sue mani tremavano mentre iniziava a rispondere.
+
+“Non ho nulla da dire al mio onorevole signore, intendo, al mio onorevole gentiluomo, ” Ci fu una pausa, dolorosa per tutti i presenti, ad eccezione di un individuo volgare che ridacchiò due volte e poi rimase in silenzio, “Non ho nulla da aggiungere,” riprese George Mulross con la gola stretta, “in risposta al mio onorevole amico, a ciò che il mio predecessore ha detto in risposta a una domanda simile, ” (un’altra pausa) “, Oh, riguardo alla domanda del decimo di questo mese.”
 
 
 
@@ -6879,6 +10113,56 @@ It was upon this very account that the general resolution of which he had spoken
 “This House, including the more recent creations, the Colonial Peers, and the ex-officio additions with which a recent — and in my opinion a beneficent reform — has recruited it, still numbers less than fifteen hundred men. Of these the ex-officio members, the lords spiritual” (and he bowed to the Bishop of Shoreham, who was deaf) “the elected members from the Britains Overseas (among whom I am glad to see present the Nerbuddah Yah) between them account for no less than forty-two. Two hundred and eighty” (he quoted from a paper in his hand) “are imbeciles, minors or permanent invalids; somewhat over fifty are for one reason or another incapacitated from attendance at their debates; ten are in gaol.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ad ogni modo, aveva letto tutto ad alta voce; poi si sedette, con qualche incertezza, cercando di trovare il punto giusto dove appoggiarsi.
+
+“Dobbiamo forse capire,” tuonò la voce di quel fanatico inevitabile, “che il carico del GIN è ancora a bordo,?”
+
+“Ehi! Cosa?” disse Demaine voltandosi di scatto, con un tono sorpreso.
+
+“Alzati e chiedi di essere concesso il tempo per riflettere,” sussurrò un collega in fretta. “Alzati e digli: ‘Devo chiedere del tempo per pensare a quella domanda.’ Fallo subito.”
+
+Demaine si alzò, prese la scatola, girò le spalle alla persona che gli aveva posto la domanda e, guardando dritto negli occhi l’innocente e sorpreso Oppositore, disse, non senza minaccia:
+
+“Devo chiedere un avviso riguardo a quella domanda” – e si sedette.
+
+Ci furono ancora alcuni applausi di simpatia e tutto andò bene. Il Sovrintendente della Corte dei Dote iniziò così la sua grande carriera.
+
+Nel frattempo, al di là della Sala Centrale, Lord Repton di Giggleswick si alzava per la prima volta tra i suoi pari.
+
+Quella casa era anch'essa piena di persone disposte ad ascoltare con comprensione quella figura imponente e dal volto stoico; il riconoscimento di un uomo che aveva servito il proprio paese con tanta fedeltà e abilità, e che recentemente aveva sofferto di una malattia temporanea così angosciante, era universale e sincero.
+
+La Camera dei Lord conosce quell’uomo.
+
+Lord Repton, anche quando era semplicemente Sir Charles, era sempre stato un oratore parlamentare ammirevole: non solo veloce nel dibattito, ma anche con un modo di esprimersi serio e chiaro; questo, unito alla sua profonda conoscenza dei dettagli e al senso di giudizio equilibrato che trasmetteva attraverso il suo tono, lo rendeva una delle voci più efficaci nella nostra vita pubblica.
+
+Sarebbe difficile dire con quale arte riuscì a creare, in quella vasta assemblea, l’impressione di parlare in modo così sommesso da sembrare essere in una stanza privata, eppure riuscendo comunque a far sì che ogni sua parola – ogni sillaba – fosse udita in ogni angolo dell’aula.
+
+Nella Galleria delle Dame, donne vestite di colori come il malva, l’eliotropo, l’eau-de-nil, il crapaud mort e il magenta creavano un magnifico insieme cromatico.
+
+I Lordi, che in occasioni di privilegio sono solitamente vestiti con abiti particolari, donarono a quell’ambiente sfarzoso un tono più intenso di rosso velluto e pellicce bianche con piccole code nere, colori riservati solitamente a grandi occasioni di stato come l’Apertura del Parlamento, la Coronazione, un Processo per Impeachment o una procedura legale di recupero dei beni. Alla barra, una folla di cittadini comuni si accalcava; molti di loro riconobbero nei volti davanti a sé i propri fratelli, padri, cugini, debitori, creditori e collaboratori d’affari. Era una scena vivace e imponente. E l’auditoria, sebbene numerosa, sarebbe stata ancora più grande se non fosse stato per un errore infortunato: quel pomeriggio stesso erano stati fissati sia la partita tra Eton e Harrow che una prova particolarmente interessante della danza “Mizraim”.
+
+Come stavano le cose, i duecento o più nobili presenti rappresentavano in modo eccellente tutto ciò che c'è di meglio e di peggio nella vita nazionale. Il vecchio Duca di Battersea si era assicurato non solo di partecipare, ma anche di intervenire in un’occasione del genere; i Vescovi erano presenti tutti quanti, e i nobili delle colonie, ormai felicemente integrati nella vecchia Camera dei Lord, si distinguevano non solo per la loro attenzione assoluta a questa questione storica, ma anche per le loro pose un po’ rigide: nessuno mancava al proprio posto.
+
+Un resoconto di un discorso, per quanto eccellente, non è altro che una riflessione monotona dell’originale; chiunque osservi il contrasto tra la retorica incantevole che ogni giorno affascina la Camera dei Comuni e la prosa semplice che appare sui giornali del mattino può rendersene conto.
+
+Sarebbe un vero spreco non ricompensare la cortesia e il fascino dimostrati dal lettore durante la lettura di queste pagine, se gli presentassi semplicemente una trascrizione letterale del famoso discorso di Lord Repton. Tuttavia, l’essenza di quel discorso merita senz’altro di essere ricordata: non solo perché contribuì in modo significativo a sradicare uno spirito nocivo che fino ad allora si stava diffondendo nel giornalismo inglese, ma anche perché rappresenta in sé un esempio tipico e straordinario di ciò che contribuisce a formare l’anima di un grande uomo.
+
+Iniziò nel modo più semplice, ripassando ciò che aveva spinto alcuni di loro a presentare questa Risoluzione. Non c’era bisogno che la ribadisse; anzi, l’argomento era così doloroso che ricordarlo doveva avvenire il più brevemente possibile.
+
+Si è ipotizzato che i luoghi presenti in quella Casa vengano acquisiti tramite acquisto.
+
+Ecco, in termini semplici e chiari, l’accusa.
+
+Osservava incidentalmente che i codardi e i calunniatori – non esitava ad usare parole forti – (e nemmeno la santità di quei luoghi riusciva a fermare un mormorio di approvazione), quei codardi e calunniatori che avevano lanciato quell’accusa generica, non osavano specificarne i dettagli.
+
+“In un caso,” disse, rivolgendosi con gravità verso il punto dove si aspettava di vedere – ma rimase deluso nel non trovarvi – l’anziano corpo di Lord Ballymulrock, “in un caso che riguarda un nobile la cui salute, purtroppo, gli impedisce di essere presente in questa occasione” (una protesta proveniente da un uomo estremamente anziano seduto in posizione accovacciata, era proprio Bally stesso!), “è stata fatta un’accusa diretta. Signori, conoscete la questione. C’è ancora una possibilità di appello, e non spetta a me occuparmi di una questione che è ancora sotto giudizio; ma a parte questo caso, questi anonimi individui che da tempo hanno cercato di corrompere o di influenzare negativamente l’opinione pubblica riguardo a questa Camera si limitano a formulare generalizzazioni su cui la legge non può intervenire.”
+
+Fu proprio per questa ragione che era stata redatta la risoluzione generale di cui aveva parlato; intendeva quindi passare immediatamente da quei ricordi sgradevoli legati a tali atti alla parte del suo argomento che, secondo lui, avrebbe avuto il maggior peso sui suoi interlocutori.
+
+“Questo Parlamento, comprese le creazioni più recenti come i ‘Colonial Peers’ e gli elementi aggiunti ex officio grazie a una riforma – che a mio parere è stata benefica – conta comunque meno di millecinquecento membri. Di questi, i membri nominati ex officio, ovvero i lord spirituali” (e fece un inchino al Vescovo di Shoreham, che era sordo), “insieme ai membri eletti dalle colonie britanniche (tra cui sono lieto di vedere presente anche Nerbuddah Yah), ammontano a ben quarantadue. Duecentottanta” (citò un documento che aveva in mano) “sono idioti, minorenni o invalidi permanenti; poco più di cinquanta, per un motivo o per un altro, non sono in grado di partecipare alle deliberazioni; dieci si trovano in prigione.”
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_05" data-title="A Change in the Cabinet — Chapter 15 (part 5)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/hypocrisy,concept/self_made_man_theme,concept/class_conflict,form/satire,form/novel"></span>
@@ -6920,6 +10204,44 @@ It was one of those rare moments when many hundreds of hearts, to quote a wild a
 
 Thus was destroyed, let us hope for ever, what was rapidly growing to be a formidable legend and one that would have undermined the security of the State and the honour of our public life in the eyes of rival nations.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ora, signori,” continuò, “dei millecentoventi che rimangono – sono più o meno millecentoventi – cosa troviamo? Scopriamo” – battendo con forza il pugno destro nel palmo della mano sinistra – “che non meno di cinquecentododici di loro sono figli legittimi dei propri padri, ovvero eredi diretti; novantotto hanno ereditato i titoli dai parenti di primo o secondo grado; sedici in modi più remoti; undici hanno ottenuto la propria posizione grazie al ripristino di antichi diritti feudali; le rivendicazioni di sei sono state recentemente confermate attraverso la linea femminile; e uno, tramite garanzie legali e nuovi titoli acquisiti in modo illegittimo. Cosa rimane?”
+
+Guardò intorno alla folla ansiosa davanti a sé con un atteggiamento del capo dignitoso ma straordinariamente impressionante.
+
+“Signori, vi chiedo ancora: cosa ci resta? Meno di quattrocento uomini, i rappresentanti di tutte le principali forze della nostra vita nazionale. Qui abbiamo i grandi campioni dell’industria, gli grandi ammiragli delle nostre flotte, i grandi generali dei nostri eserciti. E sono felice di includere anche l’Esercito della Salvezza: (il capo di quell’organizzazione alzò il suo berretto) uomini che si sono distinti in ogni ambito della vita pubblica, che hanno servito fedelmente il loro paese. E molti di loro, dopo tale servizio, sono ancora onorevolmente poveri.”
+
+A questa frase, che evidentemente segnava l’inizio della sua conclusione, molti nobili che fino ad allora avevano tenuto le gambe divaricate le incrociarono una sull’altra; alcuni, invece, che prima le avevano incrociate, le sciolsero e posero entrambi i piedi a terra; più di uno approfittò dell’occasione per appoggiare la testa sulla mano destra, mentre il membro più rispettabile della tribuna episcopale tossì in un modo tale da spezzare il cuore di chiunque.
+
+Quando queste lievi interruzioni furono concluse, Lord Repton di Giggleswick ritenne possibile proseguire. Attraverso un rigoroso processo di indagine dimostrò come coloro a cui quell’abominevole suggerimento potesse eventualmente applicarsi non potessero in alcun modo raggiungere la cifra di ottanta persone.
+
+“Meno di ottanta uomini, Signori, in mezzo a quindicimila! Appena il cinque per cento. O, per usare una metafora audace, poco più di tredici penny su una sterlina! È solo in base a questa proporzione che, anche se queste odiose menzogne contenessero – il che non è vero – un briciolo di verità, tutto il nostro organismo potrebbe essere giudicato. Ma, Signori, chi sono questi ottanta uomini? Non vorrei offenderli permettendo che il mio discorso menzioni i loro nomi, ”
+
+“Non intendo citare il mio caso personale; la mia carriera pubblica è a disposizione di chiunque voglia esaminarla, e credo di conoscere troppo bene il carattere della mia gente per perdere tempo in questo senso. Ma intorno a me ci possono essere altre persone (non lo so con certezza) più sensibili, o meno esperte nelle meschinità del mondo, di quanto lo sia io, che potrebbero ritenersi particolarmente designate per subire queste ingiustizie.”
+
+“Chiedo: contro quale di loro potrebbe essere rivolta un'accusa del genere in modo specifico, senza la certezza che tale accusa porti a un risultato concreto in qualsiasi tribunale, in modo da far tacere per molti anni chi l’ha mossa? È forse quell’uomo al quale dobbiamo il grande impianto di Sing Yan? È quel famoso inglese che, grazie alla sua capacità organizzativa, al suo instancabile lavoro e alla sua conoscenza delle persone, ha costruito i negozi della United Sausage Company in tutto il paese?”
+
+“Potrei allungare questa lista all’infinito: Signori del Consiglio, a nessuno di voi, a nessun membro di questa Camera oserei dire che si possano rivolgere parole del genere senza che la loro falsità diventi evidente, quasi senza bisogno di prove.”
+
+“Ripeto con le parole di Burke: ‘No, no, no, mille volte no.’ Non mi vergogno di ricordare quella frase gloriosa che dieci anni fa risuonò in queste stanze alle parole di Ephraim: ‘Datemi principi del genere e li calperò sotto i piedi!’”
+
+Dopo aver detto tutto ciò, Lord Repton si sedette; e un vero tributo al fuoco e alla convinzione di quell’uomo è il fatto che una giovane ereditiera di origine africana ma appena sposata, che aveva ascoltato attentamente tutta la seconda metà del discorso dalla galleria riservata alle dame nobili, emise un debole lamento e svenne completamente.
+
+La sua giovane figura fu portata giù, fino alla sala da pranzo, da un forte gruppo di servitori; l’aria della terrazza la rianimò presto. Menziono questo episodio soltanto come una prova concreta dei talenti oratori che hanno illuminato la grande carriera di Repton.
+
+Dopo uno sforzo del genere, Lord Methlinghamhurst inevitabilmente risultava un po’ noioso da ascoltare; in particolare, a causa di imperfezioni nel suo modo di esprimersi, della vista debole e di una certa perdita di memoria, era costretto a fare pause lunghe e scomode mentre leggeva il lungo testo stampato che teneva in mano. Alla fine, però, la lettura terminò, e il Duca di Battersea si alzò, tra l’ovvio interesse di coloro che erano rimasti ad ascoltarlo; tra questi, ben cinque avevano interessi legati a lui stesso nelle miniere di rubini di Anapootra.
+
+Il grande finanziere fece bene ad intervenire in una tale occasione. Il suo balbettio, ormai familiare a tutti nella sala, era l’unico ostacolo a un discorso sincero e appassionato in inglese. Non c’era una parola che il più entusiasta avrebbe osato aggiungere, né una che il più esigente avrebbe osato cancellare.
+
+I lavori avevano richiesto quasi tre quarti d’ora; il Senato, non abituato a tali ritardi, era impaziente di passare alla votazione. Quando, per lo sgomento generale della sala, Ballymulrock si alzò in piedi barcollando, scoppiò quasi una panica. Fortunatamente, le parole dell’uomo anziano furono brevi e incomprensibili: solo alcuni squittii, qualche mormorio, e poi il suo crollo. Alla fine decisero comunque di procedere con la votazione.
+
+I nobili tornarono numerosi ai loro posti; altri erano pronti nei corridoi, ma non ce n’era bisogno.
+
+Fu uno di quei rari momenti in cui, per citare una poesia selvaggia e meravigliosa, centinaia di cuori batterono all’unisono; e con un silenzioso consenso che i testimoni oculari hanno definito lo spettacolo più impressionante dai tempi della prima grande manifestazione a Salisbury Plain, la Risoluzione fu adottata.
+
+Così fu distrutto, si speri per sempre, ciò che stava rapidamente diventando una leggenda temibile e che avrebbe minato la sicurezza dello Stato e l’onore della nostra vita pubblica agli occhi delle nazioni rivali.
 
 
 
@@ -6981,6 +10303,62 @@ Extract from a lecture delivered, for a grossly insufficient fee, by a professor
 “But I need not detain this cultured audience with considerations quite unworthy of physical science. All the weight of real evidence pointed to the close relationship between the two types, and it was a commonplace of the classroom that in all fundamentals the two animals betrayed an ancestor less remote than that of the dog and the wolf. Now, since Henry Upton’s work appeared, we are certain that that ancestor is more remote than the ancestor of the hippopotamus and the Jersey cow, and probably more remote than that of the mongoose and the Great Auk.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Questo non era certo il minore dei servizi che Charles Repton aveva reso allo Stato; e mentre alziamo i nostri ringraziamenti verso la Provvidenza per quella guarigione che rese possibile il suo intervento, non dimentichiamo certo il genio di quel giovane medico canadese, autore di quell’istante miracoloso in una storia millenaria.
+
+Il tempo riservato ai deputati privati era terminato. La Camera continuò la discussione sul disegno di legge relativo all’allargamento delle strade; l’alta impopolarità di tale proposta rendeva la sua approvazione particolarmente urgente.
+
+Quando la Camera dei Comuni si riunì, verso mezzanotte, Dolly e Dimmy uscirono insieme dalla porta delle stanze private, immergendosi nell’aria fresca; nel cortile c'erano le luci brillanti dell’auto di Mary. Lei li chiamò e loro salirono a bordo.
+
+“Devi venire a cena stasera,” disse lei in modo misterioso. “Ci saranno tutti.”
+
+Dimmy era d'accordo. Dolly provò a supplicarlo, ma lui la zittì; poi, uno dopo l’altro, una mezza dozzina di taxi, automobili e carrozze sfrecciarono attraverso [[London|Londra]], diretti tutti verso St. James’s.
+
+Fu organizzata una festa serale del genere che solo Mary Smith, da sola a [[London|Londra]], avrebbe potuto mettere insieme!
+
+Sua cognata, insieme al leader dell’Opposizione e a suo fratello; il suo braccio destro che era stato Cancelliere nell’amministrazione precedente; suo nipote, il Ministro Postale Generale; Dolly stesso; il cognato di Dolly, il Segretario per l’India; il cugino della moglie di suo nipote presso la Camera di Commercio, e il fratello di sua matrigna presso l’Ammiragliato, tutti si sedettero. Lo fece anche Dimmy, che era lì senza sua moglie, e, purtroppo, anche senza un bottone sulla camicia; per qualche motivo, infatti, quel bottone si era staccato.
+
+Ma il lettore avrà solo un'immagine incompleta di quella allegra riunione, se pensa che si trattasse semplicemente di una normale festa familiare.
+
+La nostra vita pubblica è qualcosa di molto più importante di questo! Dei cinque membri dei due banchi frontali che non erano legati da matrimonio, due erano presenti: il Ministro dell’Istruzione, che riusciva a disegnare cose incredibilmente divertenti su carta assorbente, e Beagle, arrivato due giorni prima da Berlino, capace di imitare il rumore di un’auto con la bocca meglio di qualsiasi altro uomo in Europa. E c’era anche, per così dire con autorizzazione speciale, il Duca di Battersea, portato lì da Charlie Fitzgerald e sua moglie.
+
+Erano già seduti quando William Bailey, che nessuno aveva invitato, entrò con passo pesante ma di buon umore, fingendo di fissare il Duca e trovandosi un posto il più lontano possibile da quel “controllore dei emisferi”, che era nella sua solita sedia a destra di Mary Smith, con quegli occhi gonfi e rotondi rivolti esclusivamente a lei.
+
+Quella sera William Bailey sorrise spesso, soprattutto a Dimmy, ma rimase molto silenzioso; quando, poco prima delle due, iniziarono ad muoversi, non aveva detto nemmeno una dozzina di parole, e Dimmy ne fu estremamente grato.
+
+No, la sua amicizia andava ancora oltre: vedeva Demaine nel momento in cui tutti si alzarono dal tavolo, infilando nervosamente un angolo della tovaglia – scambiandola per il fazzoletto – nella tasca dei pantaloni.
+
+“Attenzione, Dimmy!” disse.
+
+Dimmy saltò in aria, e con lui saltò anche il tovagliolo; poi ci fu un gran rumore: vetro che si rompeva e candele che cadevano a terra.
+
+Mary Smith era quasi infastidita, ma in un’occasione del genere lo perdonò.
+
+A nord del Parco, per due ore consecutive, Lord Repton di Giggleswick aveva dormito serenamente.
+
+# Sulle funzioni pseudologiche della ganglia di Caryll
+
+Un opuscolo
+
+Qualcosa che il lettore non ha bisogno di leggere. È comunque facile comprendere il libro anche senza di esso.
+
+Estratto da una lezione tenuta, per un compenso assolutamente insufficiente, da un professore di grande reputazione presso la Royal Institution il 26 gennaio 1915: —
+
+La rivista “Review of Comparative Biology”, nel suo numero di ottobre, pubblicò un breve e modesto articolo scritto da Henry Upton; quest’articolo è destinato ad influenzare il pensiero moderno in modo più profondo di qualsiasi altro testo apparso dopo “Lux Mundi” o “L’Origine delle specie”. Henry Upton ci ha lasciati. O, per usare le parole che egli stesso ha citato con reverenza, è “passato oltre il velo”, ha attraversato la soglia della morte; ma nonostante il breve lasso di tempo trascorso dalla pubblicazione di questo articolo, il suo nome è già famoso.
+
+“Avrete sicuramente sentito parlare delle accese discussioni suscitate dalla sua famosa teoria; questo pomeriggio il mio compito sarà quello di spiegarvela in termini chiari e semplici, affinché possiate comprenderla facilmente. E sono certo che, una volta fatto ciò, capirete anche perché sia stata ritenuta così di fondamentale importanza.”
+
+“In breve, Henry Upton dichiarò di essere finalmente convinto che esistesse una differenza così marcata tra l’Uomo e il Simius Gabiensis da escludere qualsiasi possibilità di un’origine comune recente tra le due specie.”
+
+“Quando aggiungo che ‘Simius Gabiensis’ non è altro che il nome tecnico del Babbuino a Coda Anellata della nostra infanzia, allora capirete immediatamente quale rivoluzione possa rappresentare una tale dichiarazione, se solo riuscisse a rimanere valida. E infatti è rimasta valida!”
+
+“È di conoscenza comune, e sarà familiare anche al bambino più piccolo in questa stanza, che il Babuino a Coda Ringhiosa è la specie più evoluta tra gli Antropoidi, quella che si avvicina di più alla maestosità della specie umana – l’Homo Sapiens. E se il legame di affinità tra lui e noi dovesse rivelarsi molto lontano, sembrerebbe davvero che l’intero edificio della biologia moderna, nonché del pensiero contemporaneo, crollasse completamente.”
+
+“Le differenze superficiali che si possono riscontrare tra un gentiluomo pulito e ben educato e il Babbuino a Coda a Anelli sono caratteristiche comuni a entrambi: la barba dell’antropoide non è così ben definita come nell’organismo umano, ma copre l’intero viso; l’arco sopracciliare è più prominente, il diaframma presenta una struttura a scacchi e risulta più evidente, mentre le arterie cardiache sono più pallide e presentano una forma meno vascolarizzata. I anelli sulla coda sono ovviamente caratteristici dei primati e quasi assenti nell’uomo; inoltre, il linguaggio umano è molto più complesso e articolato rispetto a quello degli animali.”
+
+“Ma non devo trattenere questo pubblico colto con considerazioni del tutto indegne della scienza fisica. Tutti i fatti concreti indicavano una stretta relazione tra questi due tipi di animali, e era noto che, sotto molti aspetti fondamentali, entrambi condividevano un antenato non molto più remoto di quello del cane e del lupo. Ora, però, da quando sono apparse le ricerche di Henry Upton, sappiamo con certezza che tale antenato è ancora più remoto di quello dell’ippopotamo e della mucca Jersey, e probabilmente anche di quello del mangusta e del grande uccello marino.”
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_07" data-title="A Change in the Cabinet — Chapter 15 (part 7)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="setting/london"></span>
@@ -7023,3 +10401,45 @@ Antyga par pymatên sakeos pyka poiêtoio.}
 4 I refer to Mr. Bulge, and I refer to him both as an actor and as an author. Amen.
 
 5 There are two such farthings in the Heygate family to-day.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+“In ogni libro di testo che leggiamo (e in cui credevamo alle affermazioni contenute), si sostiene che esista un abisso più profondo tra un uomo davvero povero e gli esemplari più elevati della nostra razza, rispetto a quello che separa quest’ultimo dal Babuino a Coda Anellata, o persino dal Gorilla e dall’Scimmia Barbary. Oggi, tutto questo è svanito!”
+
+Ora passo alle prove. In breve, ancora una volta, Henry Upton dimostrò che i gangli di Caryl non erano, come si era immaginato, organi insignificanti o inutili, ma erano essenziali per il corretto funzionamento dell’organismo umano.
+
+“Naturalmente, fin da quando Caryll descrisse e mappò per la prima volta questi gangli, era noto che essi fossero presenti nell’uomo e assenti in tutti gli altri animali. Ma questo non li rendeva unici; il ruolo poco chiaro che sembravano svolgere nel nostro organismo attirava scarsa attenzione da parte degli studiosi. Improvvisamente, queste umili aggregazioni di materia organica furono portate alla ribalta da un inglese il cui nome non sarà dimenticato finché la nostra civiltà esisterà. Infatti, Henry Upton dimostrò che proprio in questi gangli risiedeva la differenza fondamentale tra l’uomo e gli altri animali; se io stesso, ad esempio, differisco in qualche modo da un ‘Pongo’ nel Regent’s Park, è ai gangli descritti da Caryll che devo questo privilegio.”
+
+“Henry Upton non era il tipo di persona che si affidasse ai ragionamenti a priori, né che presentasse come conclusione qualcosa che fosse ancora solo un'ipotesi. Aveva già sospettato la verità dieci anni prima di decidere di pubblicarla: quei dieci anni furono un periodo di ansia, anzi, di agonia; in quel lasso di tempo, una persona più audace o meno scrupolosa avrebbe potuto rubargli il merito della scoperta. Ma lui riteneva fosse suo dovere verso la Scienza proseguire con quel lavoro imponente e quelle ricerche pazienti, fino a quando non avesse potuto dichiarare definitivamente la verità.”
+
+“Upton registrò in dettaglio l’enorme numero di 57.752 esperimenti condotti. Prima di tutto osservò le dimensioni relative dei gangli nei bambini e negli adulti, nelle donne e negli uomini, riscontrando che questi erano più grandi negli uomini che nelle donne, e nei bambini ancora rudimentali prima del settimo anno d’età. Successivamente dimostrò che in alcune professioni, in particolare quelle dei prestatori di denaro, degli avvocati e dei politici, si riscontrava un’ipertrofia dei gangli. Le conclusioni a cui ciò portava sarebbero presto diventate evidenti. La sua teoria iniziava già a prendere forma. Fortunatamente per la scienza inglese, quest’uomo straordinario disponeva di mezzi personali sufficienti. Organizzò un team di giovani entusiasti che si dedicarono a compiere svariate attività: camminavano sui piedi delle persone negli autobus, sedevano sulle cilindrate, ponevano domande dirette a conoscenti su questioni finanziarie e, nei momenti più emozionanti degli spettacoli teatrali, tossivano violentemente per interminabili secondi. In ogni caso, i risultati venivano registrati in dettaglio; in oltre il 5,08% dei casi fu possibile individuare con precisione la posizione dei gangli nelle persone che reagivano agli stimoli. Senza alcuna eccezione, l’importanza dei gangli variava direttamente in base al grado di autocontrollo dimostrato di fronte a tali stimoli: coloro che reagivano con insulti o violenza immediata presentavano gangli piccoli e talvolta parzialmente atrofizzati; quelli che si limitavano a sguardi furiosi erano considerati normali; coloro che riuscivano a mantenere la calma, come se nulla fosse accaduto, avevano sempre gangli di dimensioni grandi e particolarmente sani; infine, coloro che esprimevano apertamente piacere o chiedevano che l’esperimento venisse ripetuto presentavano gangli di dimensioni così notevoli da causare protuberanze su entrambi i lati della testa. Poiché i gangli di Caryll si trovano, come probabilmente molti di voi sanno, un po’ a sud-est e a est della cavità auricolare.”
+
+“A questo punto, potrebbe sembrare sufficientemente dimostrato che i ‘Gangli di Caryll’ siano la fonte di tutta quella moderazione e equilibrio di cui dipende la società umana; ma Upton non si accontentò finché non riuscì a confermare questa teoria attraverso un esperimento negativo sugli animali. E qui vorrei sottolineare che, se certi fanatici benintenzionati avessero avuto la loro strada, questa importante scoperta non sarebbe mai stata fatta. Il cavallo, il maiale, la mosca domestica, l’ape, il cane e la oca selvatica: solo per citare alcuni esempi. Furono tutti sottoposti a test specifici, e in ogni caso si scoprì che un colpo, una percossa o qualsiasi altro stimolo semplice suscitava immediatamente una reazione. In nessun caso fu possibile trovare traccia dei ‘Gangli di Caryll’.”
+
+“Voi tutti conoscete la fine!”
+
+L’articolo fu pubblicato; il nome di Upton era già giunto in tutti gli angoli del mondo. Fu allora che lesse, in un racconto di viaggio poco conosciuto, che quel piccolo armadillo che può dormire senza cuscino, pur non possedendo gangli nervosi, è in grado di mantenere lo stesso equilibrio e la stessa capacità di autocontrollo dell’uomo: riesce a trattenersi di fronte a quasi tutti gli stimoli violenti, a nascondere le proprie necessità più urgenti e persino a sorridere di fronte alla morte.
+
+“Upton era uno scienziato tra gli scienziati. Un solo errore e avrebbe ritirato la sua posizione. Viaggiò verso l’Amazzonia, intervistò l’armadillo, ma non appena conficcò il primo chiodo nella parte carnosa del corpo dell’animale, poco sotto la cintura corazzata, quest’ultimo reagì con violenza: si girò di scatto e gli morse via la testa. I suoi resti furono rispettosamente riportati a [[London|Londra]]. Riposa ora nell’Abbazia di Westminster, l’ultimo e forse il più grande dei martiri della verità scientifica.”
+
+“Se l’impresa immortale di Henry Upton sembra, per un momento, aver distrutto il pilastro fondamentale sull’arco del progresso sociale e aver reso nulla l’intera struttura della verità biologica; se questo rende l’Uomo privo del sostegno fornito dalla conoscenza dei legami di parentela e fratellanza con gli animali selvatici, lasciandolo solo, un esiliato sulla terra, tuttavia dobbiamo trovare il coraggio. Il Vescovo di Shoreham ce l’ha detto (Etc., etc., etc.).”
+
+Note finali.
+
+1 dollari, non sterline.
+
+2 Lo fece.
+
+# 3... una debole madre dell’oceano
+
+“Con abiti fatti di fuoco, il poeta danzò.”
+
+Titolo:  
+{Greco: … mega sthenos Ôkeanoio}
+
+# L'antica legge e il nuovo diritto
+
+Mi riferisco a Mr. Bulge, sia come attore che come autore. Amen.
+
+Oggi nella famiglia Heygate ci sono ancora due di questi “farthing”.

@@ -2731,6 +2731,36 @@ Delgairn found his studio. He went with Pailey through the rusty iron gates whic
 A high, wild voice bade him enter. He saw before him something which made thirty years drop right off like a cloak. It was a man, very young, perhaps not more than twenty years of age, or a little less, with absurdly long hair, all shooting upwards on end, dressed in the holland smock of the trade, standing before an easel on which was a muddle — nothing describable — having on his left thumb a palette, and in his right hand a brush so big that you might think he was a painter of Walls rather than of Symbolist Art.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO I
+
+Alcuni anni dopo la Grande Guerra, il signor Henry Delgairn decise di recarsi a [[Paris|Parigi]] e chiese al suo vecchio amico, Sir John Pailey, di accompagnarlo. Non vi era tornato da più di vent’anni, ma provava un forte desiderio di rivedere i luoghi in cui, da giovane, aveva finto di studiare arte e dove aveva trascorso momenti molto piacevoli.
+
+Il signor Delgairn era il proprietario terriero di un piccolo villaggio chiamato North Merton, situato esattamente nel punto in cui si incontrano le contee di Sussex, Surrey e Hampshire, a breve distanza da White’s Selborne. Suo padre non era né povero né ricco per il proprio rango sociale, ma apparteneva alla categoria dei più abbienti; lui stesso, però, a causa delle nuove tasse e delle condizioni economiche del momento, non era né ricco né povero, ma piuttosto nella fascia più modesta. Nessuno dei suoi figli avrebbe potuto permettersi di trascorrere un anno intero ricevendo una rendita nel Quartiere Latino. Inoltre, gli era stato detto chiaramente che il Quartiere Latino non esisteva più. Nonostante ciò, il signor Delgairn andava ancora a visitarne le rovine, e suo amico Pailey, essendo periodo di vacanze, doveva accompagnarlo: infatti, Pailey era stato il suo compagno in quei giorni felici.
+
+Il Signore di North Merton era rimasto vedovo dopo la nascita del figlio minore, anch’egli chiamato Henry come lui; ora il ragazzo aveva diciotto anni e studiava a Harrow. L’altro figlio, John, che aveva due anni in più, non poteva frequentare una scuola pubblica: era un ragazzo disabile, con la schiena curva, il viso pallido e occhi estremamente sensibili. Suo padre lo compiangeva e lo amava, ma non poteva fare a meno di sperare che non fosse il suo erede. Il giovane, infatti, non era in grado di svolgere i compiti necessari per la gestione della tenuta né di seguire le orme del padre. Non riusciva nemmeno a cavalcare con facilità; nulla nei campi lo attirava. Delgairn si chiedeva spesso cosa sarebbe accaduto a North Merton quando lui se ne fosse andato. Harry, invece, era un altro tipo di ragazzo: si distingueva in tutto ciò che faceva e meritava davvero di possedere terre inglesi. Ma l’erede, che stava sempre per conto suo, ben istruito da un bravo tutore, sembrava non avere nulla in comune con quel luogo.
+
+Un grande talento possedeva quel povero giovane. E a volte Delgairn lo diceva con un po’ di amarezza, sostenendo che fosse l’unica cosa che John aveva ereditato da lui. Quel ragazzo sapeva disegnare e dipingere; cose che suo padre, da giovane, aveva soltanto desiderato comprendere senza mai riuscirci: aveva troppo goduto della vita studentesca per essere diligente. E nessuno può padroneggiare un’arte senza impegno.
+
+Anche l’unico talento che possedeva il giovane John Delgairn sembrava essere soggetto alle stesse restrizioni che avevano distorto il suo corpo. Non disegnava né dipingeva nulla di originale; non mostrava alcuna predisposizione per la percezione della bellezza. Quello che riusciva a fare era copiare, e lo faceva con un successo così completo da essere sorprendente e innaturale. Le persone deformi spesso sono ispirate dalla Provvidenza ad occuparsi di hobby; suo padre fu molto felice di vedere il ragazzo dedicarsi a questa attività: gli dava uno scopo nella vita, non faceva del male a nessuno e non sprechava nemmeno quella sostanza fisica ormai ridotta.
+
+“Così, continuò Harry, nella sua vita scolastica passò da un trionfo sportivo all’altro, mentre povero John si dedicava con assiduo impegno a quella che si potrebbe quasi definire una sua mania: la copiatura.”
+
+C'erano molte cose in quella casa su cui esercitare tale interesse. North Merton era la tipica dimora di un gentiluomo d’altri tempi: vantava mezza dozzina di bei dipinti, una ventina di quadri poco interessanti, oltre a numerosi acquerelli, disegni, incisioni e piccole curiosità di ogni forma e dimensione, ma tutte prive di vero valore culturale o storico.
+
+So come andranno le cose quando loro padre deciderà di partire con il suo vecchio amico per [[Paris|Parigi]], per vedere se lo studio dei vecchi tempi felici esista ancora.
+
+Avrebbero dovuto assentarsi solo per pochi giorni, e durante quel periodo Delgairn ebbe un momento di relax: la raccolta nei campi domestici era già stata completata e aveva anche terminato il primo volume del libro sulle piante selvatiche che stava scrivendo; voleva soltanto un po’ di varietà nella sua routine quotidiana. Poteva tornare entro una settimana. Pailey fu felice di andare con lui.
+
+Trovarono il posto senza problemi, anche se non riuscirono più a trovare il Quartiere Latino: si era spostato su per la collina verso Montparnasse, e aveva perso “l’anima” di sé lungo la strada.
+
+Parigi, finora, si distingue dalle altre grandi capitali europee in questo: vaste aree che sembrerebbero ideali per essere edificate – poiché sicuramente sono di grande valore – rimangono inutilizzate, a volte per anni interi. Gli antichi giardini situati dietro gli hotel aristocratici del Faubourg si distinguono chiaramente rispetto alla pressione delle costruzioni nuove, così come spazi vuoti e meno protetti. In tutto ciò, Parigi conserva ancora tracce di ciò che Londra era trent’anni fa. Poiché questa tradizione è valida, non potrà durare a lungo; ma per il momento, alcuni suoi frammenti continuano ad esistere.
+
+Delgairn trovò il suo studio. Entrò insieme a Pailey attraverso i cancelli di ferro arrugginiti che entrambi ricordavano così bene: non sembravano affatto più danneggiati rispetto a prima dell’Inondazione; avrebbe potuto giurare che nulla fosse cambiato nel sentiero di ghiaia in rovina, e persino le erbacce e l’erba ruvida sembravano essere sempre state lì, come se fossero state “conservate apposta” per accoglierlo di nuovo. Il suo umore migliorò in modo strano. Quella desolazione desolata, con i muri alti e grigi privi di finestre, e lo studio grande sul retro – con la sua struttura in legno sporca ancora in piedi, il tetto antico fatto di lastre di vetro macchiate e un pezzo di zinco posizionato su alcune parti – evocava i ricordi di quegli anni in cui avevano tutti ventun anni. Lo accolse nel suo cuore come non avrebbe mai accolto nulla di più nuovo. Mentre camminava lungo quel sentiero, chiese a Pailey, quasi sussurrando, chi avrebbero trovato lì dentro. I modi delle persone forse erano cambiati; forse lui non aveva nemmeno il diritto di essere lì. Avrebbe dovuto scusarsi nel modo migliore possibile. Ma era così desideroso di rientrare sotto quella luce fredda del nord che bussò timidamente alla porta cigolante.
+
+Una voce alta e selvaggia gli ordinò di entrare. Davanti a lui vide qualcosa che fece sì che trent’anni di esperienza svanissero all’istante, come se fossero stati un semplice mantello. Era un uomo molto giovane, forse non più di vent’anni, o addirittura un po’ meno; aveva i capelli incredibilmente lunghi, tutti dritti verso l’alto, e indossava la tipica divisa da lavoro del mestiere. Stava davanti a un cavalletto su cui c’era un disordine totale, qualcosa di impossibile da descrivere. Sul pollice sinistro teneva una palette, mentre nella mano destra impugnava un pennello così grande che si sarebbe potuto pensare che fosse un pittore di muri, piuttosto che di arte simbolista.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="The Missing Masterpiece — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,setting/paris"></span>
@@ -2764,6 +2794,36 @@ He heard — he could hardly believe his ears, so true was it to type — the ol
 
 Then the Englishman came back to the simple suffering of the thing, and did something natural to him. Bourrot, humiliated by such a treble meeting, and white with anger (while she whom I will call for the moment Madame Bourrot stood with clenched fists and angry tears ready to start) had turned to the shabby and much too thin coat which hung upon its nail (the winter clothes had been pawned long ago) and fumbled for what he could find; there might be half the amount, or a sop at any rate to stop the humiliation. While he was so turned, Delgairn paid the account, got the receipt, and the Wicked Bourgeois, to whom Delgairn had given that rent, had bowed stiffly to the two backs, to the coat, and to the two Englishmen whose fixed faces concealed so much heart and humour. The Wicked Bourgeois had shut the door behind him with a sufficient discretion, and was off to suck more blood, not indeed from a follower of the Muses this time, but from an elderly lady who kept far too much money in an iron box under her bed, and from whom it always took him twenty minutes of hard fighting to get his due.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ai piedi di questa figura, su un piccolo sgabello, sedeva una giovane ragazza dai capelli scuri: molto brutta, ma molto affettuosa; entrambe accolsero i loro visitatori con uno sguardo sfidante. Pensavano che si trattasse del “canone di affitto”. Infatti, era il Giorno Fatale dopo il quale quel famigerato proprietario non avrebbe più aspettato.
+
+Ora vi presenterò qualcosa che forse non conoscete. È una verità divina che a [[Paris|Parigi]] esistessero, o esistono ancora oggi, studi che gli artisti affamati potevano utilizzare praticamente gratuitamente, anche lì dove le proprietà intorno valgono milioni. Così è [[Paris|Parigi]].
+
+Non so esattamente il motivo: forse hanno un sistema di affitti ancora più assurdo del nostro, oppure i proprietari guadagnano di più lasciando gli immobili in stato di abbandono e facendo sì che gli acquirenti si contendano le proprietà per anni. Ripeto, non lo so. Uno degli elementi che hanno contribuito a questa situazione sono stati probabilmente le leggi del dopoguerra che limitavano gli affitti ai livelli precedenti alla guerra, espressi in franchi, anche se questi avevano perso quattro quinti del loro valore. Comunque sia, quel povero vecchio studio (più che uno studio, sembrava una capanna, anzi, una capanna ormai in rovina) costava al genio dai capelli selvaggi, con il pennello troppo grande e l’abito macchiato. A lui e alla sua compagna (che, con vergogna devo ammetterlo, si chiamava “La Mome Bouillotte”) costava sedici sterline all’anno, ovvero duemila di quei nuovi franchi del dopoguerra.
+
+Erano duemila franchi degli antichi franchi prebellici, il che equivaleva a ottanta sterline all’anno: una somma abbastanza economica, per quanto ne so. Ma la legge aveva ridotto quelle ottanta sterline a sedici. Una cifra insignificante per voi, ma molto importante per quel genio ribelle, con i capelli troppo lunghi sulla penna e sulla testa. Inoltre, c’era anche un quarto di stipendio arretrato: cinquecento franchi. Cinquecento franchi equivalgono a quattro sterline inglesi. E quel genio non li aveva. Né lui, né La Mome Bouillotte. Aveva un letto di ferro traballante in un angolo, con un materasso di paglia e tre coperte marroni, oltre a due lenzuola di cotone. Il letto non era nemmeno fatto. Erano solo le due del pomeriggio. C’era qualcosa che stava cuocendo sul fornello; il tubo arrugginito si snodava zigzagando attraverso i mattoni del muro. Il fuoco rendeva l’ambiente troppo caldo in quella giornata estiva. C’era una sedia completamente rotta, e un’altra che non lo era del tutto. C’era anche lo sgabello su cui sedeva la signora. Sul pavimento c’era un mucchio di stuoie giapponesi distrutte. In un angolo erano ammucchiati vari oggetti: sembravano tele, rivolte con la faccia al muro per vergogna. C’erano due barili, una bottiglia e una scopa. E in mezzo a tutto ciò, stava il Servo delle Muse e di Apollo, il dio del talento e della creatività.
+
+Mentre fissava i suoi due visitatori, che si inchinarono con grande cortesia, si sentì molto sollevato. Non avevano l’aspetto di persone malvagie; sembravano non essere agenti di proprietari ebrei, individui avidi di affitti. Ma se ne aspettava proprio questo, sapeva che la tregua non sarebbe durata a lungo, e ancora una volta dubitava.
+
+Delgairn, con quel modo di esprimersi riservato tipico degli inglesi, che i francesi trovano fantastico ma che per coloro che lo usano è diventato seconda natura, spiegò il motivo della sua visita: come da giovane avesse utilizzato quel luogo per dipingere e quanto fosse stato bello rivederlo. Disse anche che non voleva trattenere il suo ospite nemmeno un attimo, desiderava soltanto dare un’occhiata in giro per rivivere vecchi ricordi.
+
+Ma il giovane genio Bourrot rispose con un simile saluto e fece a sua volta un inchino; persino quel strano e sospettoso esserino sul piedistallo mosse goffamente la testa in segno di rispetto.
+
+In un attimo divennero amici. Bourrot aveva già, con un ampio movimento del suo pennello, chiesto loro di guardarsi intorno (non c’era nulla da vedere), quando si sentì un altro colpo secco alla porta: questa volta non discreto, privo delle tradizioni della nobiltà. Era senza dubbio l’assalto di quel mostro abominabile che era il Borghese.
+
+Il borghese non ha cuore né anima. Vive sul sangue degli [[Artist|artisti]]. Non è in grado di distinguere le cose del Cielo da quelle della Terra, e raccoglie l’affitto. Il borghese, tra tutti i borghesi; quel borghese che il vecchio Quartiere Latino giurò di maledire, prima che i comunisti arrivassero in questo paese per “rubargli il tuono”; quel borghese contro cui il nuovo Montparnasse nutre rancore, non esiste modo più spaventoso di presentarsi di quello di un proprietario terriero: con occhi rossi e denti snudati, ringhiando e urlando per ottenere il proprio affitto.
+
+Sì, era proprio lui!
+
+Per il signor Delgairn e sir John Pailey, K.C. (e anche membro del Parlamento – me n’ero dimenticato – oltre che insignito dell’O.B.E., per quel che ne so). Lui sembrava soltanto un piccolo francese piuttosto grassoccio e ben vestito, di circa quarant’anni, con abiti grigi. Ma per il Servo delle Muse e di Apollo, e per l’Adoratore di quel Servo, lui era un Presagio sorto dall’Inferno.
+
+Allora il signor Delgairn ascoltò quella conversazione che gli riportò alla mente la sua giovinezza e i suoi compagni di allora; cose che sono state descritte in mille libri: le richieste di pagamento degli affitti arretrati da parte di chi non li possedeva; le proteste, l’insistenza. Ascoltò l’ironia francese, lo sprezzo francese, la tenacia francese, l’avarizia francese, e quella visione francese delle cose al di là di questo mondo. E vide anche la determinazione francese di ottenere i soldi immediatamente, dopo aver aspettato abbastanza a lungo. Senza alcuna sciocchezza.
+
+Sentì, quasi non riusciva a credere alle sue orecchie; era così vero, così fedele alla realtà. Quell’offerta vecchia, antica, di pagare in natura al posto dei soldi. E quel gesto regale verso i dipinti appoggiati al muro, come se volesse dire: “Prendeteli tutti! E diventate milionari tra vent’anni!”
+
+Poi l’inglese tornò alla semplice sofferenza della situazione e fece ciò che era naturale per lui. Bourrot, umiliato da quell’incontro imprevisto e pallido di rabbia (mentre lei, che per ora chiameremo Madame Bourrot, stava lì con i pugni stretti e le lacrime di furia pronte a scorrere), si rivolse al vecchio e troppo sottile cappotto appeso al chiodo (i vestiti invernali erano stati impegnati da tempo) e cercò disperatamente qualcosa che potesse servire; forse ci sarebbe stata abbastanza roba, o almeno qualcosa che potesse alleviare quell’umiliazione. Mentre lui era così occupato, Delgairn pagò il conto, prese la ricevuta. E quel malvagio borghese, a cui Delgairn aveva pagato l’affitto, fece un rigido inchino verso le due figure alle sue spalle, verso il cappotto e verso quei due inglesi i cui volti impassibili nascondevano tanto cuore quanto umorismo. Il malvagio borghese chiuse la porta con sufficiente discrezione e se ne andò a “suggerire altro sangue”. Questa volta non a un seguace delle Muse, ma a una signora anziana che teneva troppi soldi in una scatola di ferro sotto il letto; per ottenerli, gli ci volevano sempre venti minuti di sforzi.
 
 
 
@@ -2817,6 +2877,54 @@ She answered: “We shall never forget his name!” And then added, pensively, �
 Thus was it that Mr. Delgairn found himself saddled with something which seemed to him very astonishing, but which he did not like to leave behind — it would have been a caddish thing to do. Besides which, it reminded him of a happy and amusing hour. Therefore it was that, a few days later, the Masterpiece, the Bourgeois Soul, was in North Merton House, trying to get hung; but in his heart Mr. Delgairn did not know what to do with it. He did not even know which way up to put it — it was in a plain white frame, with nothing on earth to show whether it ought to hang sideways or lengthways nor whether the famous Eye (which might be that of God’s Justice or of Bourgeois Avarice, or a mere Eye, pur et simple) should menace from the top left-hand corner (if the picture were hung up lengthwise) or shoot glances upwards from the bottom left-hand corner (if the picture were hung sideways). He could not decide. He hung it lengthwise, and then for very shame slung it from a nail of a dark corner of the billiard-room, where a screen near the door cast a shadow over it and where it could disturb no one. There it awaited its day of glory.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il volto bianco e furioso del Genio si girò; allo stesso momento anche il volto scuro e furioso del suo compagno molto basso si girò; si resero conto che il loro nemico se n'era andato. Non capirono subito cosa fosse accaduto, ma quando finalmente compresero e superarono un'altra ondata di rabbia, provarono una profonda gratitudine. Bourrot trovò le parole adatte a onorare il suo antenato, che aveva detto qualcosa di meraviglioso riguardo al momento di consegnare la spada a Lipsia. Comunque sia, ciò che Bourrot disse con tranquilla dignità fu:
+
+“Signore, posso ripagarla solo con qualcosa che non è oro.”
+
+Convenne con Delgairn e il suo compagno per il giorno seguente, alla stessa ora, e disse semplicemente, come avrebbe potuto fare il Creatore al Sesto Giorno: “Allora vedrete ciò che ho creato, e sarà vostro.”
+
+Quel pomeriggio d'estate, ispirato da quegli occhi adoranti posizionati a circa due piedi dal suolo, il grato Servo di Apollo creò febbrilmente ordine e bellezza dal nulla; sotto il suo pennello, troppo grande per le sue mani, l’Immortale emerse dal vuoto nel mondo delle cose meravigliose, o, almeno, di quelle cose che è impossibile non notare.
+
+Dopo il breve riposo di una notte estiva, piena di grandi sogni di fortuna realizzata e di arte trionfante, quei due amanti si alzarono, lavarono i resti della zuppa dalla pentola, vi prepararono del caffè, tagliarono un po’ di pane stantio. E il Creatore si affrettò a continuare la sua opera attraverso quella mattina estiva; mentre l’Adoratore, dal suo piedistallo, continuava ad ammirarlo e mormorava frasi strane man mano che quell’opera prendeva forma: “Per questo sono nato!”, “È l’ora più importante della mia vita, ”, “Non farò mai più un lavoro del genere!”
+
+Nacque sotto le sue mani; mentre veniva portata verso l’immortalità, la Gratitudine e l’Odio divennero i suoi padrini.
+
+“La gratitudine,” disse Bourrot dopo una breve pausa, tenendo il pennello come una spada, come se volesse salutare la donna che lo aveva ispirato, “la gratitudine sarà eterna, e degna di questo lord inglese; l’odio, invece, sarà ancora più eterno.”
+
+Poi si mise di nuovo al lavoro con grande impegno, e La Môme apprezzò molto le sue parole: pensava che dovessero essere altrettanto immortali quanto la stessa tela.
+
+Si allontanò da esso man mano che si avvicinava l’ora dell’incontro. L’opera era completata, e vide che era molto bella, o, come alcuni avrebbero detto, molto brutta. Disse semplicemente al suo compagno: “La chiamerò ‘L’anima borghese’, e così, ” (alzando la voce, tremante di rabbia e disprezzo) “perpetuerò questo ‘crimine’ su una tela tale da ripagare mille volte il mio benefattore”.
+
+Il lavoro era stato completato. Sedevano incantati davanti ad esso: lui sulla sedia che ancora reggeva in piedi, lei sullo sgabello, in attesa dell’arrivo del destinatario di tanta meraviglia, il nobile inglese, e del suo amico.
+
+Per dimensioni, l’Opera Maestra (così fu chiamata in seguito) seguiva le ultime tendenze dell’epoca: aveva circa un piede di diametro e diciotto pollici di lunghezza. Lui ne realizzò un semplice telaio per mettere in risalto i suoi pregi. In un angolo c’era una sorta di occhio umano che sembrava fissare qualcosa; sotto di esso, incrociate, si trovavano delle strisce di colore rosso vivo, mentre ad angolo rispetto a queste ce n’erano altre di colore giallo intenso. Sotto ancora, come un campo uniforme, c’era un colore viola scuro, molto inquietante; infine, sul bordo esterno, c’era qualcosa che poteva assomigliare a un frutto tropicale o a un pallone sgonfiato per metà, di un tenue colore grigio.
+
+Dopo aver ammirato a lungo il risultato finale, Bourrot mormorò due volte “L’Ame Bourgeoise”, e digrignò i denti per la rabbia, anche se i suoi occhi brillavano di orgoglio.
+
+“In pratica,” disse l’Adoratore annuendo profondamente, “l’Amore Borghese.”
+
+Si udì il solito bussare alla porta, e poi seguì la solenne presentazione: da entrambe le parti furono pronunciate le consuete parole di rito; Delgairn, così come il perplesso Sir John Pailey, K.C., M.P. (e forse anche O.B.E.), dimostrarono profonda riverenza e soddisfazione.
+
+“Si asciugherà,” disse il Maestro al termine di queste formalità. “Viene verniciato, verrà portato personalmente dal mio pugno al vostro hotel. Sarà tutto vostro.”
+
+Dopo un po', il Creatore lo presentò con maestosità al suo benefattore. Tornò trionfante dall’Adoratore.
+
+“È stato concesso!”, disse.
+
+Rispose: “Non dimenticheremo mai il suo nome!” E poi aggiunse, pensierosa: “Come si chiama?”
+
+“Ho chiesto il suo biglietto da visita,” rispose il Genio. “Lui non ne aveva uno. Sembra che questi abitanti delle isole non utilizzino biglietti da visita. Ma mi ha detto che il suo nome era de la Game.”
+
+“Ma quel nome, è un nome francese?” chiese timidamente l’Adoratore.
+
+“Tutte le antiche famiglie d’Inghilterra hanno nomi francesi,” rispose con orgoglio il suo amante. “Lui è un Lord; è naturale che abbia un nome francese. Non ho chiesto dove abiti, per non sembrare importuno.” Poi si fece pensieroso e aggiunse: “Quel lavoro era la mia opera maggiore. Riuscirò a eguagliarlo? Mai! Lo invidio? Assolutamente no! Grazie alle sue buone azioni, ha arricchito il mondo.” E l’amante concordò pienamente con lui.
+
+* * * * *
+
+E così fu che il signor Delgairn si trovò ad avere in mano qualcosa che gli sembrava davvero sorprendente, ma di cui non voleva sbarazzarsi. Sarebbe stato un comportamento meschino da parte sua. Inoltre, quel oggetto gli ricordava un momento felice e divertente. Per questo motivo, pochi giorni dopo, l’“Capolavoro”, ovvero l’“Anima Borghese”, si trovò nella casa di North Merton, ma il signor Delgairn non sapeva proprio cosa farne. Non sapeva nemmeno in quale direzione appenderlo: era racchiuso in un semplice quadro bianco, senza alcun indizio che indicasse se dovesse essere appeso di lato o di lunghezza; inoltre, non sapeva nemmeno dove posizionare quel famoso “occhio” raffigurato nell’opera, se nel angolo in alto a sinistra (se il quadro fosse stato appeso di lunghezza) oppure se dovesse lanciare sguardi verso l’alto dall’angolo in basso a sinistra (se fosse stato appeso di lato). Non riusciva a decidere. Alla fine lo appese di lunghezza, ma poi, per vergogna, lo legò a un chiodo in un angolo buio della sala da biliardo, dove una tenda vicino alla porta proiettava ombra su di esso, e lì rimase, in attesa del suo giorno di gloria.
+
 
 
 <span class="atom-split" data-atom="chapter_02" data-title="The Missing Masterpiece — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="topos/the_double,archetype/double_doppelganger,motif/the_mirror,motif/great_house,concept/appearance_vs_reality,concept/deception,concept/creativity_and_artistic_labor,concept/satire_of_society,concept/forgery,form/satire,setting/rural_england"></span>
@@ -2854,6 +2962,40 @@ As for the elder brother’s poor toys and instruments, no one remembered them o
 
 The Masterpiece was ten years old.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO II
+
+A nord di Merton, come in tutto il resto del mondo, trascorse un anno. Il sfortunato erede disabile aveva raggiunto l’età adulta, ma per suo padre quella festività era apparsa assolutamente vuota e priva di significato. Il figlio minore stava per lasciare la scuola. John Delgairn trascorreva sempre più tempo da solo e, come spesso accade alle persone malate e isolate, si rifugiò nell’ambito del suo hobby. Sviluppò il proprio straordinario talento segreto nella riproduzione.
+
+Quel talento gli era stato rivelato per caso. Un giorno, mentre disegnava i lontani olmi che poteva vedere dalla sua finestra, all’angolo del parco, si ricordò dei ritratti di alberi realizzati a matita da Harding, e di quanto si potesse imparare da essi. Un secolo prima, proprio in quella casa, Harding aveva insegnato il disegno alla nonna di suo padre; se avesse esaminato il portfolio, senza dubbio avrebbe trovato qualcosa che lo avrebbe aiutato. Non ci volle molto per trovarlo, e con estrema precisione riprodusse fedelmente lo stile del maestro, davanti a lui c’era la copia perfetta dell’originale. Fu sorpreso lui stesso dall’incredibile accuratezza di quella replica.
+
+Gli sembrava qualcosa di così eccezionale che si alzò per prendere un quadro vuoto con cui provare l’esperimento, per verificare se ogni quadro avrebbe prodotto lo stesso effetto. Nel frattempo, appoggiò il disegno originale di Harding contro una pila di libri e mise il proprio accanto a esso, come due gemelli. Frugò tra i quadri nel suo armadio nell’altra stanza; gli ci volle un po’ di tempo per trovarne uno adatto. Quando finalmente lo trovò, tornando nel punto in cui stava disegnando e vedendo quei fogli di carta su cui aveva tracciato i suoi schizzi, a qualche metro di distanza da lui, rimase sorpreso nello scoprire che, da quella distanza, non riusciva a distinguere quali fossero i disegni di Harding e quali i suoi. È vero che era piuttosto miope, come la maggior parte dei copisti molto precisi. Comunque, fu una sorpresa notevole. Naturalmente, avvicinandosi di più, riconobbe subito quale fosse cosa grazie all’età della carta; ma quell’episodio lo colpì profondamente. Aveva trovato un’occupazione adatta alla sua vita solitaria: avrebbe realizzato delle copie di questo e di quello, con l’unica intenzione di riprodurle fedelmente. In quei tempi, con la fotografia e i mezzi meccanici a disposizione, tutto ciò non aveva alcuna utilità pratica. E nemmeno avrebbe portato a qualche reputazione. Ma lui, in fondo, non ne desiderava nessuna. Tutto ciò che voleva era qualcosa che lo distogliesse da se stesso e riempisse la sua mente.
+
+Scelse deliberatamente i modelli più diversi tra loro, e lo fece senza curarsi della bellezza o di altre qualità, ma soltanto della difficoltà con cui fosse possibile creare un’illusione dell’originale.
+
+Iniziò con un vecchio acquerello sbiadito di North Merton House com'era stato due generazioni prima: una piccola immagine senza alcun valore, se non per il suo significato familiare. La prese dal muro dell’aula dove era appesa, la sistemò in posizione stabile e studiò il proprio lavoro. Ci volle un’intera settimana; si immerse così profondamente nella sua attività che ritenne il proprio successo davvero notevole, tanto da non poter smettere di lavorarci, per ore intere, senza essere interrotto se non da due viaggi a Londra necessari per procurarsi alcuni materiali essenziali. L’acquerello vecchio presentava macchie, il telaio dorato era sbiadito e leggermente scheggiato, con zone di colore bianco sporco. Tutto ciò doveva essere riprodotto esattamente così; nient’altro avrebbe funzionato. E quando diede l’ultimo tocco, provò una sorta di trionfo: aveva scoperto un talento insolito, forse addirittura geniale. Ricordava come, anni prima, da bambino, Piazza avesse riprodotto alcuni manoscritti per suo padre. Il famoso incisore aveva preso due grandi cuscini dal divano, nascosto l’originale dietro uno e la copia dietro l’altro, poi aveva chiesto a Mr. Delgairn di prenderli e dire quale fosse l’originale e quale la copia. Era stato come un trucco di magia. E ricordava quanto fosse rimasto stupito dal suo successo. Forse perché allora era solo un bambino. Ma ora, forse, quel test non avrebbe avuto lo stesso esito.
+
+Non fallì. Nessun mortale avrebbe potuto distinguere quale fosse la piccola foto originale appesa al muro della aula e quale quella realizzata dalle sue stesse mani. Era così soddisfatto che pensò di riuscire, per una volta, ad attirare l’attenzione e l’interesse di suo padre sul suo lavoro; ma quando gliela mostrò, ricevette soltanto un complimento di circostanza. Era evidente che dovesse tenersi il proprio hobby per sé. Questo lo rendeva, agli occhi di suo padre, ancora più distante dal ruolo che avrebbe dovuto assumere una volta ereditato la proprietà.
+
+Quando Harry tornò a casa per le vacanze, suo fratello maggiore non gli raccontò nulla di questo nuovo interesse che aveva sviluppato. Aveva paura di essere preso in giro e, nonostante fosse una persona gentile, provava un po' di amara invidia per la felicità che suo padre mostrava verso quel giovane atleta forte, che sicuramente avrebbe dovuto ereditare tutta quella bella terra.
+
+Il giovane John Delgairn, con la salute che continuava a peggiorare, trascorreva il suo tempo provando ogni tipo di esperimento di riproduzione, ciascuno scelto appositamente per la difficoltà del tema. Finché non ricordò il quadro di Bourrot appeso nell’angolo buio della sala da biliardo.
+
+John non sapeva nulla riguardo a quel dipinto (poiché in quegli ultimi giorni cercava di disturbare il meno possibile suo padre). Anche il nome dell’uomo che lo aveva dipinto gli era noto soltanto attraverso quella firma. Ma era strano e assurdo, non significava nulla, e proprio per questo rappresentava una vera e propria prova di abilità. Dopo un lavoro estremamente laborioso, ottenne un risultato così perfetto da superare qualsiasi cosa avesse tentato in precedenza.
+
+Gli venne in mente di sottoporsi a un altro test. Si sentiva più malato che mai, ma era ancora più determinato a dimostrare a se stesso di cosa fosse capace. Il test che aveva proposto per proprio soddisfazione era questo: avrebbe realizzato un'altra replica esatta di quell’assurdità mostruosa. Per rendere il test ancora più impegnativo, avrebbe costruito la seconda replica non partendo dalla prima, ma dall’originale stesso. Poi avrebbe confrontato quella seconda replica con l’originale, per verificare se, nel corso di quel doppio processo, non avesse perso qualche dettaglio.
+
+Ma no! In quel test estremamente rigoroso riuscì come sempre. Riprese il Bourrot originale dal muro dove era appeso, lo posizionò sotto la luce piena della sua finestra, con le due copie ai lati; esaminandolo attentamente, analizzando ogni segno, ogni macchia, ogni traccia presente sia sulla superficie dipinta che sul retro della tela – persino il nome dell’uomo che aveva fornito quella tela, il colore utilizzato per i listelli di sostegno del quadro, e persino un piccolissimo pezzo di legno mancante dal retro del telaio. Non c’era nulla che potesse indicare quale delle due copie provenisse dall’estraneo e quale dalla sua stessa mano: c’era solo la posizione centrale dell’originale, esattamente come l’aveva sistemato lui. Lo ripose al suo posto, nel angolo buio della sala da biliardo dove nessuno andava mai; le due copie le arrotolò con cura in fagotti di carta spessa e le mise da parte.
+
+Il suo successo gli aveva dato una strana sensazione di completamento, come se avesse portato a termine un compito vitale. Ed era proprio così; infatti non dipinse mai più. Quello che aveva rimandato troppo a lungo non fu sufficiente a ripristinare le cose nel loro ordine; e alla fine dell’estate, prima dell’inizio del semestre universitario e prima che Harry andasse al Magdalen College, l’erede malaticcio di North Merton morì.
+
+È una cosa crudele da dire, ma è vero: Delgairn provò un senso di sollievo quasi inconscio. Quando guardò suo figlio rimasto e pensò a quanto bene avrebbe potuto occupare il posto che ora gli spettava per diritto, tutto il suo modo di pensare cambiò; per la prima volta in vent’anni, l’anziano signore si sentì soddisfatto. Quella soddisfazione lo portò alla morte, quattro anni dopo, quando Harry aveva ventidue anni, aveva terminato gli studi e stava per partire per la sua ultima destinazione.
+
+Per quanto riguarda i poveri giocattoli e strumenti del fratello maggiore, nessuno se ne ricordava né si curava di loro, tranne una vecchia signora in pensione che era stata la tata di entrambi i bambini e che fu l’unica a piangerlo veramente. Si era presa cura di mettere tutte le cose del povero ragazzo: i suoi pennelli, le matite, i colori, oltre a due o tre dozzine di schizzi e pacchetti, in un vecchio baule di quercia, aperto, che si trovava insieme ad altri mobili abbandonati e a mucchi di vecchi documenti polverosi e dimenticati, nella piccola stanza sotto il tetto che nessuno visitava mai, da un anno all’altro. Poi anche lei morì, quando il giovane Delgairn, che da sei anni era il padrone di quella casa, stava per compiere ventotto anni.
+
+Quel capolavoro aveva dieci anni.
 
 
 
@@ -2913,6 +3055,60 @@ The incident may seem a slight one, but it is characteristic of the man, and cau
 Such was the man to whose powerful mind that early Bourrot, the “A me Bourgeoise,” was to owe its perils, its high fame, its incredible career, its final refuge in the noblest of London’s private collections.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO III
+
+Sir Henry Bensington era uno di quegli uomini che hanno reso l’Inghilterra ciò che è oggi.
+
+Aveva proprio quel tipo di forza di cui sembriamo possedere il segreto, e che rappresenta la disperazione dei nostri rivali gelosi. Era una forza che si manifestava nei tratti del suo viso piuttosto marcati, nella testa ben proporzionata e nello sguardo fermo; ma veniva espressa ancora più pienamente nel suo giudizio infallibile. Era tipico di un uomo del genere il fatto che, una volta intrapresa un’attività, non dissipasse le sue energie provando a fare qualcos’altro al di fuori di essa. A ventitré anni – e ora ne aveva appena cinquanta – aveva iniziato a trafficare in quadri. Niente in lui avrebbe fatto pensare a un critico, figuriamoci a un esperto. Forse era proprio la sua forte volontà, l’energia decisa e la continuità nelle sue azioni ad avergli gradualmente insegnato il mestiere. Ma in meno di trent’anni di lavoro era arrivato ai massimi livelli nel suo settore, diventando la figura principale in Inghilterra, e forse anche nel mondo.
+
+Nella scoperta, nell’acquisto e nella vendita, persino nella manipolazione, era indubbiamente il maestro; e aveva certamente meritato e guadagnato quella enorme fortuna che nessuno osava stimare, ma che ammontava a una cifra composta da sette zeri, molto più alta di quanto i suoi maggiori ammiratori avrebbero potuto immaginare.
+
+Non era partito da zero. Disponeva fin dall’inizio di un certo capitale, fornito dai suoi genitori in Germania e da una zia anziana a Milano; inoltre, cosa di inestimabile valore per le attività del suo genere, possedeva una notevole esperienza nel continente europeo. Era nato a Colonia, dove i suoi genitori risiedevano, e aveva ricevuto la sua educazione primaria in quella città, il che gli permise fin da giovane di padroneggiare perfettamente la lingua tedesca. Tuttavia, arrivò a Londra in un’età molto giovane e aprì quel piccolo negozio che divenne poi il nucleo della sua attività in King Street. Era tipico di lui affrontare il mondo da solo, senza alcun sostegno, in un momento in cui la maggior parte dei suoi futuri concorrenti stava ancora sprecando le proprie opportunità tra divertimenti e piaceri personali.
+
+Fin dal primo momento in cui iniziò a dedicarsi a questo mestiere, dimostrò, oltre ad eccezionali capacità lavorative e una straordinaria lucidità nel valutare i beni, di possedere un dono ancora più raro, quasi unico. Si trattava di una capacità miracolosa: quella di modificare improvvisamente il proprio gusto estetico e le proprie preferenze. Niente distingue in modo più netto un commerciante nato da coloro che seguono ciecamente le abitudini comuni. Molti rimangono intrappolati nell’affetto e nell’abitudine verso quegli artisti che hanno conosciuto fin dall’inizio. Quel cervello eccezionale, in grado di soddisfare i bisogni dei clienti più esigenti, può, in un istante, disprezzare ciò che prima ammirava e ammirare ciò che prima disprezzava, a seconda dei cambiamenti della moda o delle esigenze di un nuovo mercato.
+
+Durante il periodo di grande popolarità di Fragonard, all’inizio della sua carriera, Henry Bensington provava un profondo affetto per l’artista. Quando la fama di Fragonard iniziò a declinare, per una strana forma di empatia verso le forze invisibili che lo circondavano, anche il suo interesse per lui diminuì. Lo stesso accadde molto più tardi, durante il periodo di successo di Romney. Ma forse il dettaglio più sorprendente di questa sua particolare capacità era la sua improvvisa ondata di ammirazione per qualsiasi grande artista moderno non appena questi moriva.
+
+Proprio quando il nome era al centro dell'attenzione del pubblico e della stampa, Henry Bensington ne trasse la massima ispirazione.
+
+E tutto ciò non fu dovuto all’influenza del pensiero altrui sul suo: piuttosto il contrario. Possedeva i misteriosi poteri di un precursore. Si poteva vederlo acquistare le opere di maestri dimenticati da tempo, lodandole solo dopo averne accumulato una notevole quantità; poi riempiva i giornali e quindi le menti dell’Elite con la loro gloria. Questo gli riusciva ancora meglio grazie alla lunga amicizia con due dei pochi uomini che controllano i nostri organi di opinione: Lord Borstal e Sir Charles Holloway. Sarebbe difficile dire con quale dei due avesse un rapporto più stretto. E sebbene seguissero la nobile tradizione dei nostri leader nazionali nel non permettere che rivalità pubbliche interferissero con l’amicizia privata, il loro comune affetto per Henry Bensington creò sicuramente un legame tra di loro; questo legame fu ulteriormente rafforzato dal fatto che l’intelligenza più acuta dei due (quella di Sir Charles) era riuscita, sotto vari nomi, ad acquistare il cinquantuno per cento delle azioni del principale giornale di Lord Borstal.
+
+Nei primi dieci anni della sua carriera imprenditoriale, Henry Bensington, sebbene accumulasse progressivamente successo, non raggiunse mai la posizione di grande rilievo che occupa oggi. Per lui arrivò un momento decisivo, proprio come accade nella vita di ogni genio.
+
+Fino a quel momento decisivo, la sua reputazione, sebbene elevata, si basava principalmente su abilità comuni: individuare opere di valore nelle mani di persone inadeguate, acquistarle con astuzia da coloro che non ne comprendevano il vero valore, e trovare il compratore giusto tra coloro che, sia su sua raccomandazione che (più raramente) per propria scelta, desideravano acquistarle.
+
+Aveva anche una crescente reputazione per la sua abilità nel procurare l’esportazione di opere italiane del XV e inizio del XVI secolo, nonostante le leggi che vietassero tale esportazione. Ma ciò che causò il grande cambiamento nella sua fortuna e lo portò alla vetta dove si trova ancora oggi fu quel famoso incidente alla dogana di New York, che lo rese immediatamente riconosciuto come una persona completamente diversa dal resto della sua categoria.
+
+Era un trucco degno di Napoleone o di Washington.
+
+Il Rembrandt che Meyer aveva scoperto a Budapest passò per le sue mani (solo in qualità di intermediario: all’epoca non disponeva del capitale necessario per acquistarlo), lungo il suo percorso verso la collezione del signor Fagdon, presidente della Mannawatta Corporation. Mentre il dipinto era ancora nelle mani di Henry Bensington, fece coprire la firma originale e sovrapporre il nome “Chas. Biggs” in caratteri rossi vivaci e ben visibili. Quando questa nuova firma si fu completamente asciugata, la ricoprì nuovamente con estrema abilità (e dietro porte chiuse), e utilizzando una sua fotografia della firma originale dipinse sopra il famoso carattere “R”. Tutto ciò per motivi che verranno presto rivelati.
+
+Il suo prossimo passo fu quello di consigliare in privato il signor Carlos G. Pucker, il “Re dei Hot-Dog”, su ciò che aveva fatto, e di aggiungere alla sua lettera alcune raccomandazioni; i motivi di queste raccomandazioni saranno anch'essi evidenti.
+
+Quando il dipinto arrivò a New York e finì nelle mani delle autorità doganali, ricevettero una lettera anonima inviata nello stesso pacco: l’autore era Bensington. La lettera avvertiva che il presunto Rembrandt in realtà non lo era affatto. Se volevano esserne certi, non esitassero a raschiare via la firma; sotto di essa avrebbero scoperto che si trattava di una frode, opera di un noto falsario operante nell’Europa continentale, che realizzava simili opere in quantità: si trattava di Chas. Biggs. Quegli onesti funzionari decisero comunque di correre il rischio; raschiarono via la firma superficiale e scoprirono sotto di essa le eleganti lettere rosse in grassetto del nome di Chas. Biggs. E l’intera America rise di cuore.
+
+Quando il dipinto arrivò in mano al signor Fagdon, era ormai quasi senza valore, e lui lo vendette a un prezzo molto basso al signor Carlos G. Pucker, il “Re dei Hot-Dog”. Quel magnate dell’industria fece rimuovere la vernice dal dipinto per la seconda volta. E ecco che, sotto il nome di Chas. Biggs, apparve la firma originale di Rembrandt! Ancora oggi, quel dipinto è considerato la gemma della collezione del signor Pucker. Il signor Fagdon maledisse la cattiva valutazione fatta da Bensington nel suo ruolo di agente. Ma Bensington si scusò generosamente; tuttavia, il vero cliente migliore era comunque il signor Pucker.
+
+Il signor Pucker era davvero grato, perché sono proprio gli uomini ricchi a comprendere meglio il valore del denaro; ricompensò l’agente europeo con nuove commissioni e lo raccomandò in tutto il suo mondo. Così Henry Bensington ottenne ciò che desiderava.
+
+Da quel momento in poi, come si suol dire, non ha mai più guardato indietro.
+
+Fu nominato cavaliere all’età di trentacinque anni; tre anni dopo, acquistò la Collezione Longworth dopo la morte per suicidio del suo proprietario. Continuò a consigliare l’acquisto della collezione alla National Gallery. In questa veste compì un secondo atto significativo, molto più sottile, che lasciò una profonda impressione sui suoi contemporanei.
+
+Dimostrò, con calma ma con insistenza, che la Gelée appena acquisita (che i nostri antenati ignoranti conoscevano solo come Claude Lorraine) era in realtà una falsificazione. Riuscì a convincere non solo le autorità, ma anche la stampa; devo ammettere che la stampa lo aiutò molto nel suo sforzo. Non era degno dell’Inghilterra che un dipinto falso, per quanto bello, potesse essere esposto nella grande collezione nazionale.
+
+Fece di più. Si avvicinò a quelle autorità, ammise che il suo gesto, dettato dalla coscienza, aveva gravemente ridotto il valore di ciò che era stato considerato un capolavoro, e generosamente si offrì di pagare una somma di ben 250 sterline per riparare il danno; anche se, ora che la truffa era stata scoperta, quell’opera non avrebbe mai valso nemmeno duecentocinquanta scellini. Andò ancora oltre in questa sua azione quasi quixotica: chiese addirittura che l’opera rimanesse esposta sulle pareti per alcune settimane, affinché il pubblico, molto interessato a quella controversia, potesse soddisfare la propria curiosità.
+
+Stranamente, nel corso di queste settimane, un amico poco conosciuto di Sir Henry, pur protestando di non voler compiere nulla di sleale nei confronti di quell’uomo grande, presentò prove finora trascurate che dimostravano l’autenticità del dipinto. Queste prove erano ancora più convincenti di quelle che lo stesso Bensington aveva fornito per dimostrarne la falsità.
+
+Bensington non era il tipo da ostinarsi su un'opinione sbagliata per un falso senso dell'onore. Ammise francamente di essersi sbagliato: dopotutto si trattava di un dipinto di Claude (cioè, di una “Gelée”), e consigliò che venisse acquistato nuovamente a beneficio della Nazione; il processo fu semplificato dal fatto che il quadro non era ancora stato rimosso dalle pareti. Lui stesso, ovviamente, si rifiutò di ricevere qualsiasi somma oltre al rimborso delle sue 250 sterline originali. Tuttavia riteneva giusto che a colui che aveva contribuito in modo decisivo a ristabilire il valore del dipinto venisse offerta una somma sostanziosa. Così fu fatto: la cifra versata ammontava a cinquemila sterline. L’amico poco conosciuto esprimebbe pubblicamente la sua gratitudine, e l’affare si concluse così.
+
+L’incidente potrebbe sembrare insignificante, ma è tipico di quell’uomo; per questo uno dei direttori, che conosceva bene il grande mondo degli affari, commentò che Henry Bensington probabilmente finirebbe nella Camera dei Lord. Una profezia sorprendente. Poiché, anche mentre leggo le bozze di questo libro, so che è stato raccomandato per un titolo nobiliare.
+
+Ecco l’uomo il cui potente ingegno fece sì che quel giovane Bourrot, il “Bourgeois a me”, dovesse la sua sorte avventurosa, la sua grande fama, la sua incredibile carriera, e anche il suo rifugio finale nelle più nobili collezioni private di Londra.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="The Missing Masterpiece — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="setting/paris"></span>
@@ -2958,6 +3154,48 @@ He would show them to Sir Henry. He was choosing the subject for his next to sen
 
 Then the story of the Masterpiece was told, and Bourrot shook his head as he recalled it. And the Adorer sighed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IV
+
+Circa due anni prima della morte del signor Delgairn il maggiore, e mentre Harry era ancora all’Oxford, l’orecchio unico e sensibile di Sir Henry Bensington riuscì a captare, nel frastuono confuso del mondo, il nome “Bourrot”.
+
+C'era una buona ragione per la sua attenzione. Il giovane aveva fatto il suo debutto artistico con un dipinto che aveva vissuto avventure straordinarie, culminando in un vero trionfo. Aveva inviato (e lui stesso si vergognava di aver fatto qualcosa di così convenzionale), ma aveva inviato al Salon di quell’anno un dipinto dal significato profondamente simbolico, che affrontava il mistero del destino umano dopo la morte. Aveva chiamato quel dipinto “Le Néant”. Era qualcosa di completamente nuovo nella storia dell’arte europea. Piccolo (come tutti i suoi dipinti), misurava meno di due piedi quadrati, eppure, come tutte le opere grandi, era straordinariamente semplice. Si trattava di una superficie nera, nulla di più; racchiuso in uno di quei stretti telai bianchi in cui questo pittore presentava sempre i suoi lavori.
+
+Il Salone, naturalmente, lo rifiutò. Un'ispirazione di quel calibro viene raramente scoperta: piuttosto, si impone da sé. Non solo fu rifiutato dal Comitato del Salone, ma anche dal “Indipendente”, dal “Nouvel Indépendant”, dal “Décadant” e persino dall’“Eccentrique”.
+
+Finalmente, con molta fatica, Bourrot riuscì a farla esporre all’Absolu.
+
+A [[Paris|Parigi]], per fortuna della reputazione dell’Arte, c'era un uomo dotato di una visione sufficientemente profonda. Si trattava di quel piccolo e delicato critico dal timbro di voce sensibile che Mont Parnasse chiamava “Il Profeta Slavo”; era sua abitudine firmare i suoi articoli con lo pseudonimo CRSK, finché il suo editore non riuscì a convincerlo, con qualche difficoltà, ad aggiungere una vocale e a modificare il nome in CRESK. Quel pseudonimo dettava le tendenze del gusto dell’epoca. La sua capacità di influenzare ogni opinione era ancora più sorprendente se si consideravano le sue origini: i suoi genitori, ancora vivi e in buona salute, erano semplici contadini della Champagne, molto più orgogliosi della fama del loro figlio nella capitale di quanto lo fosse lui stesso.
+
+Questa misteriosa figura era naturalmente molto richiesta tra le persone importanti; ma CRESK era altrettanto raffinato e selettivo nel scegliere gli amici quanto lo fosse nella valutazione dei dipinti. Tra tante conoscenze mondane, ce n'erano solo due che poteva considerare veri amici: la Duchessa di Creil e il venerabile e distinto Charles de Mallencourt, accademico. Questi erano i suoi unici due veri intimi tra le persone importanti, ma attraverso di loro controllava il mercato dell’arte di [[Paris|Parigi]].
+
+Quando “Le Néant” gli apparvero davanti agli occhi per la prima volta, era solo. Infatti, era entrato nell’Absolu soltanto per sfuggire a una violenta tempesta. Non prestava alcuna attenzione a queste manifestazioni poco alla moda. Ma “Le Néant” lo colpì come un fulmine. Uscì da quel luogo in uno stato di trance e, nel primo caffè che trovò, scrisse, scrisse, scrisse senza sosta. Il giorno dopo, l’articolo apparve sul giornale “Petr One”; un nome che fino ad allora nessuno aveva mai sentito emerse improvvisamente come una meteora e rimase luminoso sopra tutta la città: il nome di Bourrot.
+
+Crescendo, avrebbe passato ore ad adorarlo, portando al santuario coloro che governava e che a loro volta controllavano il gruppo che gestisce il mercato. E, con la chiusura del “Absolu”, l’opera “Le Néant” fu acquistata per la Nazione da M. Machabée, il cui matrimonio lo legava strettamente a M. Bernard, Ministro delle Belle Arti. L’opera finì al Luxembourg.
+
+Se ci sono artisti i quali vedono il proprio successo improvviso rovinare tutto, Bourrot non era uno di loro. Nel corso dell’anno seguente superò le glorie di “Le Néant” con il ancora più grande trionfo di “Amour Perdu”, il cui profondo significato toccò direttamente l’anima moderna.
+
+Il fratello di M. Machabée, Charles Grant McCabe di Chicago, lo acquistò per cinquemila dollari e lo portò in giro per gli Stati Uniti con il titolo “Ah me, the Years!”, facendolo spiegare in ogni città del Midwest da un esperto francese assunto appositamente per l’occasione a dieci dollari a spiegazione. Questo “oracolo” riuscì a catturare l’interesse di quel tipo di pubblico che probabilmente non avrebbe compreso appieno la profondità dell’arte contemporanea.
+
+Sapevo che per dodici mesi Sir Henry Bensington aveva osservato questa nuova stella, quando arrivò un messaggio telefonico dal suo osservatorio oltre l’Atlantico, che gli comunicava che era giunto il momento di agire. Carlos
+
+Pucker aveva comprato il “Amour Perdu” e ne aveva pagato venticinque migliaia di dollari.
+
+Non c’era tempo da perdere. Il messaggio telefonico era stato lasciato a New York poco dopo le dieci del mattino, pochi minuti dopo che il mittente aveva ricevuto la notizia. A Londra erano appena passate le tre. Prima delle quattro, tutti gli accordi erano stati presi e Henry Bensington stava volando verso sud, verso [[Paris|Parigi]], in condizioni meteorologiche ottimali e in assoluta calma, a circa duemila piedi sopra la costa del Kent. Prima di cena aveva chiamato la famiglia Bourrot e, durante il cocktail, si trovava già nell’appartamento loro.
+
+Bourrot era veramente “a suo agio” (scusate, intendo dire che viveva in modo elegante). La povertà se n'era andata, ma non la sua semplicità. E tantomeno la persona che lo amava. Sapeva di essere famoso; le somme che aveva già ricevuto – 500 sterline per il suo primo quadro, 1.000 sterline per il secondo – lo lasciavano ancora sbalordito. Quando sentì il nome e la voce di Henry Bensington al telefono, fu commosso come se quel grande collezionista fosse venuto a trovarlo venti mesi prima, quando nessuno conosceva ancora il suo nome. E ricevette quell’uomo, considerato il “Maestro di Tutti i Compratori d’Arte”, come se si trattasse di una figura reale. E non rimase deluso.
+
+Nei primi cinque minuti, Bensington aveva già compreso i punti principali della situazione. Bourrot, era evidente a prima vista, era un uomo alla fine dei suoi giorni; e si poteva leggere sul viso di quella donna che lei ne era consapevole.
+
+Bourrot, con la schiettezza di un creatore, parlava apertamente, come un bambino. Sì, aveva davvero molti dipinti con sé.
+
+Avrebbe mostrato quelle cose a Sir Henry. Stava scegliendo l’argomento per il suo prossimo lavoro da inviare tra poche settimane, ma ultimamente non aveva fatto molto; si sentiva stranamente malato e non era in grado di concentrarsi. Si sarebbe ripreso. Nel frattempo, quanto avrebbe voluto poter mostrare a Sir Henry ciò che considerava il suo capolavoro! E l’Adoratore disse:
+
+“Ah, sì! Signor Henry, era giovane, ” e alzò lo sguardo.
+
+Poi fu raccontata la storia di quel capolavoro; Bourrot scosse la testa ricordandola. E l’Adoratore sospirò.
 
 
 
@@ -3013,6 +3251,56 @@ And once more did Sir Henry Bensington control his face and leave it as impassiv
 “Hampshire,” corrected Lord Birmingham, and he hasn’t got it any longer, poor fellow. He died years ago, after his eldest son, the one who was a cripple. Good lad, but never got on with his father. I ought not to say it, of a dead man too, but I always blamed Delgairn for that. The poor boy couldn’t help his hump. And Delgairn never forgave him for not being up to the part. The young man who has got it now — Harry, they call him — he’s a regular Drury Lane Squire. He’s the thing itself. And I think poor old Delgairn died the happier for knowing in whose hands the place would be.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Eppure non è andato perso, dopotutto,” aggiunse, i suoi occhi febbrili brillanti. “È stato un atto di omaggio, e qualcosa del genere non si perde mai. Comunque, se solo riuscissi a trovarlo, se solo potessi sapere dove si trova!”
+
+Sir Henry fu invitato ad restare e a mangiare con loro. Accettò volentieri e ascoltò con ancora maggiore attenzione le informazioni riguardanti quel “Capolavoro”. Scoprì che veniva chiamato “L’Ame Bourgeoise” e perché; seppe anche dell’occasione in cui quel nobile inglese aveva compiuto un atto così generoso, nonché il suo nome: de la Game. Bensington, nella sua mente, collegò immediatamente quel titolo inesistente con quanto gli era stato raccontato, ma sul suo viso non si notò alcuna reazione. Si limitò ad annuire con aria comprensiva, come se ne sapesse già tutto.
+
+“Riusciresti a scoprirlo, secondo te?”, chiese Bourrot con ansia. “Non che debba lasciare le generose mani che lo tengono, ma vorrei rivederlo, o almeno sapere dove si trova.”
+
+Bensington annuì di nuovo con noncuranza, come se la cosa fosse sicura, e poi passò a un altro argomento che interessava entrambi. Era venuto lì come acquirente. Come al solito, senza perdere tempo e in modo molto semplice, fece quella proposta che avrebbe fatto impazzire di gioia tutta la famiglia Bourrot. Era disposto ad acquistare tutti i lavori di Bourrot che gli erano stati mostrati, nonché quelli futuri, al prezzo di 1.200 sterline a tela; inoltre, Bourrot poteva limitare il contratto a un certo numero di anni, diciamo dieci. O preferiva qualcosa di ancora più breve? Ma Bensington sapeva bene che in quel viso non c’era nemmeno la vita di dieci anni, né tantomeno quella di dieci mesi.
+
+Questo, detto sottovoce mentre bevevamo il caffè, rappresentava qualcosa di più della semplice fama. Era un’enorme quantità di capitale immediatamente disponibile. Gli occhi febbrili brillarono ancora di più, e la padrona di casa sorrise con un’espressione estatica.
+
+Sir Henry si rese conto che avrebbero potuto prendere di meno; ma secondo i calcoli che stava facendo rapidamente, era abbastanza sicuro. Non aveva mai cercato cose di poco valore, aveva sempre puntato direttamente alle prede più importanti. Non c'erano nemmeno sei oggetti da ottenere. Forse ne sarebbe stato uno in più prima della fine, al massimo due. E i prezzi, dopo la morte delle persone coinvolte, avrebbero potuto aumentare all’infinito.
+
+Così fu concluso l’accordo, e tre persone, ognuna a modo suo, furono molto felici di quella tazza di caffè. Bensington, mentre si alzava per andarsene presto, era diventato un vero amico; nel corridoio, mentre prendeva il cappello, si girò verso i suoi ospiti che lo avevano accompagnato fino alla porta e disse:
+
+“Ah, a proposito…” – il suo francese colloquiale era davvero buono.
+
+“Devo assolutamente trovare quella tua opera precedente, quella che chiami il Capolavoro, ‘L’Amore Borghese’, giusto?”
+
+Entrambi risposero con entusiasmo: “Sì, oh sì!” E l’Adoratrice si strinse le mani.
+
+“Beh,” disse Bensington, tornando verso la stanza, “guarda qui: non sarebbe altrettanto efficace se mi scrivessi una breve nota, indicando ciò che ricordi del nome? Farò del mio meglio. Qualsiasi cosa va bene, anche solo scritta a matita.”
+
+Bensington strappò un foglio dal suo taccuino e glielo porse.
+
+“Basterà così”, disse. E su questo il giovane genio scrisse:
+
+“Il mio capolavoro: ‘L’Amore borghese’. È davvero il mio capolavoro…”
+
+“Ecco, se vuoi firmare questo,” disse Bensington con noncuranza, “mi ricorderà di farlo, e lo metterò in un posto sicuro.”
+
+La penna stava solo per scrivere il nome del gioco a titolo di promemoria, ma Bensington cambiò idea.
+
+“No,” disse, “non scrivere più nulla su quel pezzo di carta. Andrà benissimo così. Ho una memoria molto buona.”
+
+E così si separarono: il giorno dopo i contratti furono redatti regolarmente e vennero presi tutti gli accordi necessari per l’imballaggio e l’assicurazione di quei preziosissimi telai destinati a King Street. Il grande commerciante strinse nuovamente le mani. Prima quella della ragazza, forte, giovane e sana; poi, nonostante la sua equilibrio, provò un brivido nel stringere quella che sapeva, ora più che mai, essere la mano di un uomo morente.
+
+Tornato in Inghilterra, Bensington continuò le sue ricerche. De la Game risultava impossibile da rintracciare. Provò allora con Lord de la Garenne, scrivendo personalmente a Hampton Warren, ma ricevette solo una lettera scortese nella quale il segretario gli comunicava che il suo signore non sapeva nulla riguardo alla questione. Tentò poi con Sir James Dilligan, che in passato aveva lavorato negli studi di Parigi; dopo aver ricevuto una risposta vaga, decise di recarsi personalmente in Cornovaglia a incontrarlo, a sue spese. Fu molto deluso nello scoprire che Sir James non solo non possedeva alcuna informazione su Bourrot, ma gli aveva anche proposto di vendergli robaccia di scarsa qualità. Alla fine, pensò di aver trovato la persona giusta: si trattava di Dalziel Locharne. Dopotutto, il nome “Deel-Locarn” assomigliava in qualche modo a “de la Garne”, e Dalziel Locharne aveva un carattere piuttosto bohémien. Ma Dalziel Locharne, uomo irascibile, gli disse chiaramente che, se avesse posseduto anche solo una briciola di quelle informazioni moderne, le avrebbe bruciate da tempo.
+
+Quella pista sembrò arrivare per pura fortuna, ma in fondo, è la perseveranza instancabile che porta alla fortuna. Arrivò una sera (non era tornato da [[Paris|Parigi]] da più di una settimana), mentre pranzava con Lord Birmingham, riguardo alla visita di Pailey K.C. di Delgairn a [[Paris|Parigi]].
+
+“By the way,” disse, “tu sei un uomo di immagini, Bensington. E che ne dici di questo tizio, Bourrot, di cui tutti parlano? È una cosa strana, sai. L’ho incontrato anni fa quando lavoravo con Delgairn. Lavorava nello stesso studio di Delgairn.”
+
+E ancora una volta Sir Henry Bensington riuscì a controllare il proprio volto, mantenendolo altrettanto impassibile quanto un pezzo di legno. Aveva scoperto il nome!
+
+“Delgairn”, disse con noncuranza. “Quel tizio che possiede quella tenuta nel Warwickshire?”
+
+“Hampshire,” corresse Lord Birmingham. “E ormai non ce l’ha più, povero ragazzo. È morto anni fa, dopo la morte di suo figlio maggiore, quello che era paralizzato. Un bravo ragazzo, ma non andava d’accordo con suo padre. Non dovrei dirlo, soprattutto per un uomo morto. Ma ho sempre incolpato Delgairn per questo. Il povero ragazzo non poteva fare nulla per quella gobba. E Delgairn non glielo perdonò mai, perché non riusciva a soddisfare le sue aspettative. Il giovane che ora possiede la tenuta. Harry, lo chiamano, è davvero un vero gentiluomo. Penso che il povero vecchio Delgairn sia morto più sereno, sapendo in chi sarebbe finita quella proprietà.”
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="The Missing Masterpiece — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,motif/great_house,concept/greed,concept/money_and_avarice,concept/deception,concept/appearance_vs_reality,concept/satire_of_society,form/satire,setting/rural_england"></span>
@@ -3063,6 +3351,52 @@ The older man and the younger man stood before the Masterpiece of which the elde
 “It’s a Barrett — Burrott I mean. I am told they’re worth something, you know.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ah, sì, certo,” disse Bensington. “La casa di Delgairn giù nel Hampshire, ” Aspettò per vedere se dovesse aggiungere qualcosa, ma Lord Birmingham lo fece al suo posto.
+
+“North Merton… si trova in quel angolo dove si incontrano i tre contee.”
+
+“Non l’ho mai visto,” disse Bensington, come se la questione non lo interessasse molto, e continuarono a parlare di altre cose; prima del povero Bourrot stesso, poi, il più rapidamente possibile, il milionario passò ad argomenti che lo interessavano di più.
+
+Mentre tornava a casa – poiché la notte era serena e la sua abitazione si trovava vicina – rifletté su se fosse opportuno chiamare a quell’ora. Avrebbe potuto facilmente trovare il numero nell’elenco telefonico del suo club. Da un lato, non sarebbe stato giusto perdere l’occasione di vedere quella foto per un’ora; dall’altro, non sarebbe stato corretto disturbare Delgairn con una chiamata da parte di uno sconosciuto a tarda notte. Valutò i pro e i contro. No: quel tipo di giovane robusto e rustico (così lo immaginava) di solito era più disponibile al mattino, e inoltre avrebbe potuto spiegare tutto correttamente. Di notte, invece, quei tipi sembravano sempre stanchi. Dopo tutto, trascorrevano metà della giornata all’aperto.
+
+Quindi fu la mattina seguente, ma abbastanza presto – intorno alle nove – che a North Merton House venne chiamato Sir Henry Bensington e lui fece il suo primo passo.
+
+Era molto attento, lucido e paziente. Riuscì ad interessare il giovane all’altro capo del telefono parlando di conoscenti comuni immaginari, del suo college, e di come avesse sentito parlare di alcuni dipinti a North Merton, tra cui quelli di Hardings. Gli chiese se potesse venire a vederli; gli domandò anche se fosse opportuno che scendesse personalmente. E così via. Riuscì in questo modo a far capire al giovane Delgairn chi fosse lui, Henry Bensington, e quali fossero le sue intenzioni, anche se lo fece in modo indiretto. Sapeva bene quanto una grande fortuna significasse agli occhi di uomini del genere. La telefonata durò meno di dieci minuti; prima che finisse, aveva già ottenuto l’invito e avrebbe dovuto recarsi a North Merton quella stessa sera. E questo è ciò che gli sciocchi chiamano fortuna. Ma i saggi lo definiscono impegno instancabile e organizzazione meticolosa.
+
+* * * * *
+
+Nella North Merton House, il giovane signor Delgairn aspettava il suo ospite.
+
+Quella notte, a North Merton, c'era un maiale da premi. Intendo dire che non era presente in carne e ossa, ma esisteva “in spirito”. Era davvero un bellissimo esemplare, ma si era rivelato inutile per lo scopo per cui era stato acquistato. Un fallimento dal punto di vista eugenetico. Il giovane signore l’aveva comprato, spinto da una mania per le razze pure, da un uomo persuasivo che aveva fatto fortuna in questo settore. E, ahimè, quell’uomo ne sapeva più lui di Delgairn sull’argomento. Quattrocentocinquanta ghinee sprecate, senza nemmeno alcun discendente che potesse onorare il nome di quell’animale. Il signore aveva pensato di intentare una causa legale, ma si era astenuto per saggezza. Il veterinario gli aveva detto che simili sfortune possono accadere anche ai più nobili esemplari, almeno tra i maiali. In tre importanti casi giudiziari, tali eventi erano stati definiti “atti di Dio”. E ora c’era anche da pagare la parcella del veterinario. Quindi, in totale, erano state sprecate almeno 485 sterline. E Delgairn non poteva permetterselo.
+
+Inoltre, prima ancora che potessero accertarsi se si trattasse soltanto di un malessere passeggero, quell’animale virtuoso aveva già esalato l’ultimo respiro, tanto che non era nemmeno possibile trasformarlo in pancetta. Il Maiale era furioso, furioso da morire. Il suo ex proprietario e attuale piangente non riusciva a dimenticare Samson III, (Scusate, ho dimenticato di dirvi il nome del Campione Morto); soprattutto perché non gli aveva ancora pagato, e già gli avevano fatto due richieste di pagamento.
+
+Pertanto, quando arrivò Sir Henry Bensington, sentì un gelo intorno a sé; il suo ospite era cupo e triste.
+
+Ma il giovane Delgairn si sforzò di accoglierlo adeguatamente e intrattenne una sorta di conversazione a cena. In cambio, sentì parlare di incisioni e collezionisti, ma non di alcuna persona specifica. Rifletté su ciò che poteva succedere: sarebbe stata menzionata in seguito la somma di venti sterline? Trenta? Qualsiasi cosa sarebbe stata ben accetta.
+
+Dopo cena i due passeggiarono tranquillamente, da una stanza all’altra.
+
+Il giovane si sentì lusingato nel vedere l’interesse che quell’uomo importante mostrava per i dipinti appesi alle sue pareti. C’erano una mezza dozzina di ritratti di buona famiglia, uno dei quali era un lavoro di Reynolds e costituiva un bene di famiglia; Bensington lo esaminò con attenzione. C’era anche un altro dipinto realizzato da un artista locale dell’Hampshire, il cui nome purtroppo è stato dimenticato, ma che non mancava di talento. Inoltre, c’erano molte acquerelle, per lo più di scarsa qualità, alcuni disegni, un’eccellente incisione, numerose xilografie, principalmente opere vittoriane in acciaio, e una quantità di altri oggetti che interessavano soltanto la famiglia stessa.
+
+Ma Bensington si fermò un momento davanti a un disegno a matita di Harding: uno dei pochi incorniciati e che presentava l’interesse di essere datato. Mormorò: “Credo di conoscere qualcuno che potrebbe interessarsi a questo. Devo parlargliene? Spero di non starmi prendendo troppe libertà. Sa, signor Delgairn, mi sono permesso di pensare che potesse prendere in considerazione la mia offerta per una o due cose, ”
+
+“Assolutamente no,” disse Delgairn. “Assolutamente no.”
+
+“Gli Hardings sono in buone condizioni,” continuò Bensington, osservandoli attentamente e mettendosi davanti agli occhi un solo bicchiere per esaminare i dettagli, “E questi sono davvero in ottimo stato. Oggi giorni, con i prezzi attuali, non si tratta di somme enormi, ma penso che quest’uomo sarebbe disposto a pagare 50 sterline per loro. Naturalmente, non ci sarebbero problemi riguardo alla commissione.”
+
+Poi continuarono a camminare. Cinquanta libbre. La rigidità dell’ospite si era notevolmente attenuata.
+
+Proseguirono ancora senza fretta. Arrivarono nella sala da biliardo – e lì Sir Henry vide improvvisamente (e subito distolse lo sguardo), il Bourrot!
+
+Tornò deliberatamente indietro per rivedere un'incisione che aveva già superato. Poi si diresse lentamente verso il punto in cui era appesa la tela di Bourrot.
+
+L’uomo più anziano e quello più giovane si trovavano di fronte a quell’opera d’arte la cui vera valore l’anziano conosceva molto bene, mentre il giovane ne sapeva ben poco. La tenda era stata spostata da parte, in modo che la luce delle vecchie lampade a olio posizionate sopra il tavolo da biliardo illuminasse completamente la tela. Regnò un lungo silenzio; poi fu Delgairn ad parlare per primo.
+
+“È un Barrett… intendo dire un Burrott. Mi hanno detto che abbiano un certo valore, sai.”
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_04" data-title="The Missing Masterpiece — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_and_avarice,concept/deception,concept/appearance_vs_reality,concept/value_and_scarcity,concept/satire_of_society,concept/the_art_market,form/satire,setting/rural_england"></span>
@@ -3099,6 +3433,38 @@ He leaned over the billiard-table, took out the fountain-pen from his evening wa
 He had made good over the prize boar!
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“I Bourrots avranno sempre un certo valore,” disse con cautela Sir Henry. “Ma è giusto che vi dica che il loro valore sta diminuendo. Bourrot è ancora giovane, e produce una quantità davvero notevole.”
+
+“Sì. Ma comunque, sai, ” esitò il giovane scudiero, con quella semplice astuzia tipica delle transazioni legate ai cavalli di razza.
+
+“Non c’è alcun motivo per cui non dovrebbe vivere altri cinquanta anni,” rispose il grande commerciante d’arte in tono tranquillo. “È in ottima salute e estremamente produttivo.”
+
+“Beh, tu lo sai meglio di chiunque altro.”
+
+Un altro momento critico era arrivato nella sorte di quel commerciante d’arte. La sua ricchezza non aveva attenuato i segni dell’età. Nella sua lunga e gloriosa carriera, Sir Henry Bensington non aveva mai mancato un simile momento. Disse, ancora più in silenzio del solito:
+
+“Temo di non potervi offrire più di 500 sterline per questo.” Alla menzione di quelle parole – “cinquecento sterline” – l’intera essenza di Delgairn fu scossa come se fosse stata colpita dall’esplosione di un proiettile; ma la sua formazione nelle scuole pubbliche gli venne in grande aiuto. Non batté ciglio. Esteriormente, il suo volto impassibile sembrava dire: “Cinquecento? Beh, lasciate che ci pensi un attimo.” Internamente, tutta la sua essenza gridava: “Samson III. Affare fatto! Niente più pressioni! Concludiamo, ragazzo! È troppo bello per essere vero. Quell’uomo è pazzo. Concludiamo! Non mollare! Tieni duro, ragazzo!” Dopo un’altra breve pausa, disse quindi con fermezza:
+
+“Molto bene, signor Henry – ma a due condizioni, se non le dispiace. Potreste trovarmi strano, ma non pretendo di essere un uomo ricco. E poi, chi sa mai cosa può accadere nella vita, vero?”
+
+“No, nessuno lo fa,” rispose l’altro in silenzio, mettendosi le mani in tasca e appoggiandosi leggermente all’indietro. “Sì, qualsiasi condizione, purché ragionevole.”
+
+“Perché, signor Henry, le mie uniche condizioni sono queste: voglio che portiate via quell’oggetto con voi quando ve ne andrete, domani mattina,” aggiunse con una goffa cortesia. “Perché anch’io devo andare a sparare con Tommy Menzies alle dieci; è un viaggio lungo, e non voglio che dopo la mia partenza ci siano problemi riguardo a quell’immagine tra i domestici.”
+
+“Certamente,” disse il suo visitatore, senza sorridere. “Anch’io prenderò il treno delle 9:20 per la città.” Capiva perfettamente lo scopo reale di Delgairn nel voler tenere l’oggetto in sua custodia. Era il timore che, se quella importante figura del mondo degli affari avesse libertà di muoversi nella sua casa mentre lui era assente, potessero verificarsi altri problemi, oltre a quello legato all’immagine stessa. “Certamente, signor Delgairn. Lo porterò nella mia stanza stasera e lo terrò con me domani mattina. E quale è la prossima condizione?”
+
+Costò a Delgairn uno sforzo notevole. Ma quella cosa doveva essere fatta.
+
+“La prossima condizione, signor Henry,” disse, guardandolo dritto negli occhi, “è che mi dia il suo assegno stasera stesso.”
+
+“Certo,” disse Henry Bensington nel modo più naturale del mondo. “Sarà più semplice se te lo do ora, non credi? Ho un libretto degli assegni con me.” Con ammirevole disciplina, si impedì nuovamente di mostrare anche solo l’ombra di un sorriso.
+
+Si chinò sul tavolo da biliardo, tirò fuori la penna stilografica dal suo gilet da sera e aggiunse altri cinquecentocinquanta guinee; nemmeno i cinquecentocinquantacinque scellini in più andarono persi per il destinatario. C'era qualcosa di simile alla gratitudine nelle parole prive di emozione di Delgairn mentre li riceveva, li agitò un attimo in aria per farli asciugare e poi, con una falsa noncuranza, li infilò nella tasca del suo abito da sera.
+
+Aveva catturato con successo quel maiale selvatico!
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="The Missing Masterpiece — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,setting/paris"></span>
@@ -3132,6 +3498,36 @@ Something as near a smile as Death could allow appeared on the fallen features o
 
 On his way out from the Clinique, which was near the Observatory, he passed the telegraph office of the Senate, opposite the Luxembourg. He sent a couple of telegrams to make sure, and then from his hotel telephoned at length to Lord Borstal. He repeated the exact words: “Mark me!... for untold years.” He gave as close a description as he could of the scene, so that Lord Borstal’s chief draughtsman could depict it with that vigorous pencil so familiar to us all — or at least to those of us who read any one or all of Lord Borstal’s three Sunday papers.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO V
+
+HENRY BENSINGTON era sempre puntuale, ma in quella occasione era arrivato appena in tempo. La prima notizia che lesse sul giornale, la mattina seguente mentre si recava a Londra con Bourrot al suo fianco, era un paragrafo pubblicato sul Daily Telegraph: non molto evidenziato, ma sicuramente progettato per attirare immediatamente la sua attenzione. Diceva che “Monsieur Bourrot, il noto [[Artist|artista]] francese” (non è una mia frase, ma quella del giornale) si trovava in condizioni gravi alla Clinique Sarrel di [[Paris|Parigi]]. Quel paragrafo aveva attirato la sua attenzione già prima che il treno si fermasse a Guildford. Prima ancora che arrivasse a Waterloo, aveva già fatto la sua decisione.
+
+Bourrot non sarebbe morto così facilmente. Sulla base della sua esperienza, sapeva che questi geni, anche se morivano giovani, di solito impiegavano alcuni giorni prima di esalare l’ultimo respiro. Decise quindi di rimanere a [[Paris|Parigi]] il giorno dopo, e non quella stessa notte. Trascorse il pomeriggio in stretti colloqui con Lord Borstal e Sir Charles Holloway, che erano stati chiamati per partecipare alle discussioni.
+
+I titoli dei giornali furono decisi e vennero definiti i passaggi principali di questa iniziativa. Sir Henry avrebbe fatto ritornare o inviato per via aerea una fotografia dell’uomo morente, dello studio famoso di [[Paris|Parigi]], e, se possibile, anche uno schizzo di Bourrot stesso sul suo letto di malattia. Nel frattempo, avrebbe fornito il negativo del foglio su cui Bourrot aveva parlato con tanta passione del “suo capolavoro, il suo capolavoro perduto”! Lo teneva con sé, ora, a Londra. C’era anche una vecchia fotografia del Maestro. Per quanto riguardava il capolavoro stesso, Sir Henry propose con grande cortesia di non riprodurlo ancora. Se avessero inviato uno dei loro fotografi a casa sua, munito di tutto l’occorrente per le riprese, avrebbero potuto ottenere le immagini prima di cena.
+
+Si preoccupava persino di dare consigli riguardo ai testi delle didascalie; il suo prestigio era tale che anche questi esperti della pubblicità accettavano umilmente le sue frasi al posto delle loro.
+
+I dettagli del piano di campagna li lasciò a loro decidere; ma le linee generali erano già state organizzate e stabilite prima delle sei di sera. Il giorno seguente, sarebbe stata pubblicata su “The Howl” un’articolo in cui il grande [[Artist|artista]] veniva descritto come una figura di primaria importanza nel mondo, minacciato dalla morte imminente. Era più facile farlo, visto che meno di uno su cento dei londinesi aveva mai sentito parlare di lui. Le parole di Bourrot sul “Capolavoro” sarebbero apparse anch’esse su “The Howl”.
+
+Per “The Roar” fu utilizzata l’antica fotografia di Bourrot. Era prevista una forte protesta contro il rispetto eccessivo tributato al talento straniero. L’opera di Bourrot veniva descritta in due colonne, riconosciute come di altissimo livello, ma non paragonabili a quelle di Mr. Byng, il simbolista di Tite Street e autore delle affresche nel nuovo terminal ferroviario, né a quelle di Mr. Mangus, la nuova voce dell’Africa del Sud. Sarebbe davvero un giorno tragico se il nostro potente impero non fosse in grado di produrre opere d’arte paragonabili a quelle dell’Europa morente.
+
+Tutti i grandi generali studiano l’imprevedibilità del futuro, poiché esso non può mai essere previsto con assoluta precisione. L’elemento incerto era il momento esatto in cui Bourrot sarebbe morto; inoltre, l’azione non doveva iniziare troppo presto. Ma già prima che iniziasse la loro conversazione, Sir Henry Bensington aveva organizzato una telefonata a Parigi. Che uomo! Aveva ricevuto la notizia che tutto sarebbe finito entro quarantotto ore; il giorno di domenica avrebbe giocato un ruolo fondamentale. Lord Borstal si sarebbe assicurato che venissero pubblicati grandi articoli sui suoi tre giornali domenicali: il “Dirty One”, il “Conservative One” e il “Liberal One”. Sir Charles Holloway avrebbe fatto in modo che nei giornali “Labour One”, “Sporting One” e “Pious One” venisse dedicata un’intera pagina a denunciare tutte quelle esagerazioni riguardo agli artisti stranieri; inoltre, sarebbero stati pubblicati i ritratti del signor Pucker, che aveva acquistato quel dipinto, e del signor Grant McCabe, che lo aveva venduto. Avrebbe anche fatto scrivere un articolo nel “Sporting One” dal suo miglior giornalista; spinto dalla competizione, Lord Borstal promise che il suo articolo principale, in cui Bourrot veniva descritto come una figura sovrumana, sarebbe stato scritto dal suo vescovo più famoso, il quale avrebbe affrontato l’argomento sia dal punto di vista morale che estetico nel “Dirty One”. Sarebbero state discusse anche le possibili sorti future dell’anima di Bourrot, nonché la questione molto interessante se le anime abbiano davvero un futuro. In tutti questi aspetti, il Reverendo Padre in Dio avrebbe potuto sostenere argomentazioni eccellenti da entrambe le parti.
+
+Una volta compiute queste cose, Henry Bensington prese il treno notturno e, all’alba del giorno seguente, arrivò alla clinica dove si trovava Bourrot.
+
+A questo punto avrete sicuramente capito che il nostro grande mecenate dell’arte moderna non possedeva alcun sentimento scioccamente sentimentale; tuttavia rimase scioccato nel vedere quanto fosse cambiato l’autore di “Le Néant” e del Grande Capolavoro. Sul volto orribilmente ridotto e negli occhi straordinariamente luminosi c’era ancora gratitudine, e il pittore riuscì, con la mano umida della morte, a esprimere con una pressione quanto fosse intensa quella gratitudine. Sussurrò:
+
+"Il capolavoro? Il mio capolavoro?"
+
+“L’ho trovato,” disse Henry Bensington, dicendo la verità con quella semplicità che è sempre così significativa quando la verità non viene sprecata, ma utilizzata solo nelle occasioni giuste.
+
+Qualcosa che assomigliava a un sorriso, per quanto possibile per la Morte, apparve sul volto dell’[[Artist|artista]] caduto. Tese la mano come se volesse profetizzare, dicendo con voce rauca: “Ricordatevi di me, per anni innumerevoli, ”. Poi la sua voce si affievolì, si udì solo un mormorio; le sue palpebre si chiusero e non fu più in grado di parlare. L’infermiera fece segno; Sir Henry uscì dalla stanza in punta di piedi.
+
+Uscendo dalla Clinica, che si trovava vicino all’Osservatorio, passò davanti all’ufficio telegrafico del Senato, di fronte al Luxembourg. Inviò un paio di telegrammi per accertarsi delle informazioni necessarie, e poi telefonò a lungo da hotel a Lord Borstal. Ripeté esattamente le stesse parole: “Ricordatevi di me, per anni interminabili.” Descrisse con la massima precisione possibile la scena, in modo che il principale disegnatore di Lord Borstal potesse raffigurarla con quel pennello vigoroso così familiare a tutti noi – o almeno a coloro che leggono uno o tutti e tre i giornali domenicali pubblicati da Lord Borstal.
 
 
 
@@ -3169,6 +3565,38 @@ He is careless about his clothes — and his boots were the worst part of him; h
 And the two together, I say, are Lothario, half and half. Between them they furnish those paragraphs by which we are kept in touch with our Betters. Both enjoy the munificence of Lord Borstal. The Golders Green half, on the one hand, has a weekly salary of £7 10s. 0d., which is given to him in a little square called a “pay envelope” on Friday afternoons. The Fleet Street or public-house half, on the other hand (his employer having long ago despaired of anything regular about him), is on piece work, wherewith I have known him to net as much as twelve solid pounds in three short days: for he is capable of enormities, and he also does find out some things. What is more, he has a cunning trick of holding them up until he knows what the sub-editor will pay.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La mattina seguente tutto andò come Henry Bensington si aspettava: la notizia gli arrivò presto, portata al suo hotel da un messaggero rispettabile. Bourrot era morto; e lui conosceva abbastanza bene le rigide convenzioni continentali per non tornare subito a Londra, ma per attendere il funerale, parteciparvi a capo scoperto e ascoltare, con la testa bassa, non meno di quattordici discorsi interminabili sul dolore che [[France|Francia]] aveva provato perdendo il suo figlio immortale, che era passato nell’Ignoto, (non nel Néant, questa volta).
+
+Aveva tutto il diritto di essere lì: era Henry Bensington. Avrebbe potuto quasi essere considerato il principale dolente, invece di quel povero piccolo adoratore, che, tra l’altro, era stato regolarmente sposato – sì, in chiesa – e veniva accolto ovunque. Del resto, era stato lui a fornire, in totale, circa sedicimila sterline: grazie a quelle somme, il ricordo di Bourrot è rimasto vivo per quasi un decennio. E quella piccola donna che lo amava tanto è sopravvissuta per più di quarantasette anni, in una molto piccola villetta vicino al fiume, nei pressi di St. Germains.
+
+Ma per quanto riguarda Bourrot, lui si trova a Père la Chaise e ci rimarrà.
+
+* * * *
+
+Henry Bensington tornò a Londra il giorno dopo il funerale; mentre volava nel cielo, quell’uomo dalle molteplici facce rifletté sulla fama umana, sul destino sconosciuto dell’anima e su simili questioni. Ma una volta arrivato a Londra, si dedicò alle sue faccende.
+
+Trovò un mazzo di giornali che lo aspettavano: i giornali domenicali dei “Great Twins”, Borstal e Holloway, i giornali mattutini dello stesso editore, quelli serali, i giornali provinciali dello stesso gruppo editoriale, nonché le riviste d’alta cultura dello stesso editore (un po’ in ritardo con le notizie, visto che erano andate in stampa solo poche ore dopo la sua partenza da Londra). E trovò tutto molto buono.
+
+Il boato continuava a crescere, gorgogliando e ruggendo. Il popolo britannico era inebriato dal nome di Bourrot, dalle allusioni a quel capolavoro misterioso, dalle riproduzioni effettive delle opere “Néant” e “Amour Perdu”, nonché dall’immagine del signor Pucker, il loro acquirente. C’erano anche foto non solo dell’esterno della casa di Bourrot, ma anche del carro funebre e dei sei cavalli neri, oltre a un discorso del Presidente della Repubblica (o di qualche altro politico) sopra la tomba. E poi c’era una notizia davvero ingegnosa: uno dei “servi” di Lord Borstal aveva scoperto dove Bourrot non era nato; si trattava infatti di una splendida tenuta nella regione della Champagne. Sotto l’immagine veniva scritto: “Umile dimora in cui nacque il grande [[Artist|artista]] – tipica rappresentazione del contadino francese”. Nella colonna accanto erano riprodotte le opere “Angélus” di Millais e “L’uomo con la zappa”. A quel servo era stato anche chiesto di scattare foto dei genitori di Bourrot durante il funerale, ma essendo rimasto troppo a lungo impegnato nelle sue attività, le aveva perse. Al loro posto furono pubblicate due foto di abitanti dell’Auvergne in costume, acquistate in Rue de Rivoli, con la didascalia: “Genitori del grande [[Artist|artista]] – tipici contadini francesi”.
+
+Ecco fatto, tutto è pronto. Il campo è stato arato, tagliato trasversalmente e rastrellato; ora deve essere seminato in attesa del raccolto.
+
+* * * *
+
+A Golders Green, sotto le stelle del Nord, vive un piccolo uomo di quasi cinquant’anni che si veste con cura, ma con grande sforzo, perché è molto povero: ha il viso triste, la barba rasata, tranne per un piccolo mustacchio pendulo; astemio fin da giovane, possiede una piccola biblioteca. Ha pochi capelli, ma quelli che ha sono ben divisi e oliati. La sua biblioteca è composta da “Chi è chi”, dal “Libro della nobiltà”, dal “Libro di etichetta di Lady Bohun”, dall’“Elenco telefonico” e dall’“Almanacco Whitaker”; inoltre possiede anche il “Libro delle lacrime” de “The Howl” – di cui è coautore. Questo libro rappresenta per lui una fonte di guadagno aggiuntivo; che Dio lo benedica!
+
+Lavora sodo sotto il controllo ferreo di una moglie spietata: meschina, parsimoniosa e con “aceto nel sangue”. Anche se non gli ha dato figli, insiste sul fatto che debba guadagnare. E ha perfettamente ragione. Quel denaro serve a pagare l’affitto della casa a Garden City, le spese settimanali comuni e lo stipendio della domestica (la cui famiglia appartiene anch’essa al quartiere, ma non ci interessa affatto la sua professione).
+
+Eppure quest’uomo, per quanto lavoratore e docile – per non dire addirittura ubbidiente – non è altro che metà di un uomo. Infatti, rappresenta soltanto la metà del famoso “Lothario”, colui che firma quei meravigliosi articoli sociali sul giornale di Lord Borstal, “The Howl”, sotto il titolo quotidiano “Among the Smart”.
+
+L’altra metà di Lothario è tutta un’altra storia. È un personaggio barbuto, di circa trentacinque anni, ma che sembra avere qualsiasi età; vestito in modo assolutamente trasandato. Ha una barba molto corta, simile a quella di una capra; i suoi capelli sono, beh, comunque così; il suo naso è già grande, e diventa ancora più grande verso la fine, ed è rotondo, anche quello è rosso.
+
+È negligente nel curare i suoi vestiti; le sue scarpe da montagna erano davvero la parte peggiore di lui. Le ginocchia gli cedevano facilmente; beveva in modo eccessivo, possedendo una capacità enorme di tollerare ogni tipo di alcolico. Per quanto riguarda il matrimonio, aveva una moglie che lo aveva lasciato quindici anni fa; un’altra da cui se n’era andato subito dopo; una terza lo aveva abbandonato con il suo migliore amico, e la vedeva di tanto in tanto a cena. Ma nessuna quarta moglie. Aveva completamente smesso di occuparsi delle faccende domestiche. Viveva in una stanza situata in alto, in un cortile sul retro di Fleet Street; invece di frequentare sempre lo stesso pub, come fanno la maggior parte delle persone che un tempo facevano parte della “società”, andava in giro in una dozzina di locali diversi. A suo merito va detto che, nel complesso, preferiva la birra agli alcolici forti. Ma nulla gli impediva di bere qualsiasi cosa.
+
+E questi due, insieme, sono, direi, Lothario, metà e metà. Insieme forniscono quei contenuti grazie ai quali restiamo in contatto con le “persone migliori” di noi. Entrambi godono della generosità di Lord Borstal. La parte che lavora a Golders Green riceve uno stipendio settimanale di 7 sterline, 10 scellini e 0 pence, che le viene consegnato ogni venerdì pomeriggio in una bustina chiamata “busta pagamenti”. Quella che lavora in Fleet Street, invece (poiché il suo datore di lavoro ha da tempo perso ogni speranza di ottenere qualcosa di regolare da lui), riceve un compenso a cottimo; in tre brevi giorni è riuscito a guadagnare addirittura dodici sterline nette, perché è capace di fare cose incredibili, e inoltre riesce davvero a scoprire alcune informazioni utili. In più, possiede un trucco astuto: aspetta fino a sapere quanto pagherà il redattore responsabile per presentare i risultati del suo lavoro.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="The Missing Masterpiece — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="setting/paris"></span>
@@ -3205,6 +3633,38 @@ These things have got to be very nicely calculated. If you carry them too far in
 This second dig of the spur did more even than was expected of it. Chelsea went mad over the “Ame Bourgeoise,” and fought and squeezed against it in the private view. If it had not been protected by a brass rail the invaluable thing might have suffered damage — and the tragedy will not bear thinking upon. By the time it was staged at Martin’s, two days later, all wealthy London and the parasites of wealthy London, and all the artists, and all the writers (poor fellows!), and a good third of the suburbs, were raving about the Masterpiece. Bond Street is not a good street for queues, but Sir Henry was a man of power, and the police permitted one. It stretched outside Martin’s all the way down to the corner, and round the corner into Bruton Street, and almost to Berkeley Square. And it waddled in like a worm being swallowed by a bird, hour after hour, although it was two shillings and sixpence per head to see the Masterpiece.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, la parte di Lothario legata a Golders Green aveva ricevuto ordini severi direttamente dal Capo stesso (era un grande onore): doveva scrivere due paragrafi su Bourrot. Il Capo conosceva bene il proprio uomo; Lothario di Golders Green era il tipo di persona coscienziosa che avrebbe cercato tutte le informazioni possibili su quel genio immortale, appena morto e sepolto. Ma Lothario legato ai pub (di cui il vice-redattore aveva un po’ paura) aveva incarichi diversi: doveva rivelare il grande segreto che Bourrot aveva dipinto molto tempo prima un capolavoro, che amava più di qualsiasi altra sua opera; quel capolavoro era stato acquistato dal grande Sir Henry Bensington e si intitolava “L’Anima Borghese”: un’opera che, con satira simbolica ma incisiva, smascherava la vergogna di quell’abstrazione vile. Spettava a lui spiegare a quei due milioni di persone che leggevano “The Howl” perché gli artisti odiano i borghesi, cosa significhi essere borghesi, e così via.
+
+E il libertino di Golders Green doveva fare tutto questo nel corso della sua normale giornata lavorativa; ma il libertino di Fleet Street aveva concordato un compenso di dieci scellini a volta. E così ottenne ciò che voleva.
+
+Ecco quindi ciò che fece Henry Bensington il giorno seguente, quando aprì “The Howl” a colazione; con grande soddisfazione lesse nella sezione “Among the Smart” i seguenti passaggi:
+
+“Un Leonardo moderno.”
+
+“Oggi si sente spesso parlare del declino dell’arte e della civiltà in generale, da persone che a loro volta sono incapaci di compiere alcun lavoro. Chissà cosa diranno, tra dieci anni, di questo grande francese, Bourrot. Un mio conoscente, un importante critico che per anni è stato una figura di spicco su ‘Civilta’ di Firenze, mi disse anni fa, quando ci incontrammo al Palazzo Amerigo a Venezia alla tavola di quel affascinante ospite – ora purtroppo defunto – il principe Giovanni Amerigo, che in quel momento a [[Paris|Parigi]] c’era un uomo che aveva oscurato persino Leonardo. Confesso di non aver mai sentito quel nome prima, ma da allora ho avuto buone ragioni per ricordarmelo. Era Bourrot.”
+
+“Anche se è francese, ”
+
+“Oggigiorno non siamo abituati ad aspettarci molto dai francesi, soprattutto dopo il loro deplorevole fallimento durante la Grande Guerra (come è stato ben detto, sono stati salvati una volta e anche due volte, ma non possiamo essere certi che vengano salvati per la terza volta); tuttavia, anche il loro critico più spietato ammetterà che Bourrot è stato un’eccezione. Quella definizione di ‘il moderno Leonardo’, per quanto forte, non è affatto esagerata. Eppure lui era soltanto il figlio di un contadino, nato meno di trentadue anni fa in un piccolo villaggio della regione della Champagne (dove si produce quel vino), e si è fatto da solo. Negli ultimi anni ha acquisito una vasta cerchia di conoscenze a [[Paris|Parigi]] e Londra. È triste pensare che non vedremo più alcuna sua opera.”
+
+Ecco quindi la parte di Lothario ambientata a Golders Green. Poi venne la parte ambientata a Fleet Street, ma nulla indicava una differenza nella paternità dell’opera.
+
+“Un grande conoscitore.”
+
+“Ieri ho incontrato Sir Henry Bensington mentre passeggiava nel Parco. Mi ha detto di essere stato fortunato ad ottenere diversi dipinti di Bourrot; il più famoso di tutti, quello che il Grande Maestro definì ‘la sua opera magistrale’, realizzato con estrema maestria e abilità ineguagliabili quando l’artista era ancora giovane, be’, quel dipinto è finito nelle sue mani quasi per caso, solo qualche giorno fa. Ma se c’è qualcuno degno di possederlo, quello è sicuramente Sir Henry: sia sull’Atlantico orientale che su quello occidentale è riconosciuto non solo come il più grande mecenate dell’arte, ma anche come il critico più acuto del mondo artistico. Tra l’altro, Sir Henry Bensington compirà cinquantadue anni giovedì prossimo, congratulazioni!”
+
+“L’opera maestra.”
+
+“Per quanto riguarda l’opera magistrale, ho avuto il privilegio di vederla, anche se nemmeno i cavalli selvaggi riuscirebbero a strapparmi informazioni su di essa. Ma posso dirvi il suo titolo: si chiama ‘Ame Bourgeoise’, che in Inghilterra potremmo tradurre come ‘L’anima della classe media’. Sapete, nei circoli artistici di [[Paris|Parigi]] la parola ‘Bourgeois’ indica un gusto banale e volgare, e non (come avviene in altri paesi continentali, come la Russia) il Capitalismo in generale. Ma questa è un’altra storia, come dice il signor Kipling.”
+
+Henry Bensington posò il foglio di carta, molto soddisfatto. Quello era proprio ciò che avrebbe dovuto usare per colpirli! Prese il telefono, chiese un appuntamento con Lord Borstal e lo ottenne per quel giorno stesso; durante il pranzo fece ulteriori progressi nella trattativa. La settimanale di scarso valore pubblicata da quel nobile attaccava duramente Bourrot, suscitando una pioggia di lettere sia di protesta che di accordo. L’editore Holloway pubblicò in qualche modo delle scuse per l’atteggiamento assunto, riconoscendo la grandezza di Bourrot, ma continuando a protestare contro le esagerazioni riguardanti il suo genio straniero, sostenendo anche che avevano sentito dire che il movimento “Vieni in Gran Bretagna”, – il resto del testo parlava dei nostri hotel provinciali come dei migliori al mondo.
+
+Queste cose devono essere calcolate con molta attenzione. Se si va troppo oltre nel semplice clamore, senza offrire al pubblico qualcosa di più concreto e sostanzioso, si rischia di incorrere in un calo di interesse prima ancora di rendersene conto. Così Lothario ricevette l’ordine di annunciare che Sir Henry Bensington avrebbe esposto quel capolavoro scomparso – il giovane trionfo di Bourrot, a lungo nascosto dal mondo – al Martin’s di Bond Street. Inizialmente pensò di organizzare una visione privata su invito, inviando gli inviti principalmente a Chelsea. Fu quella parte di Lothario che viveva a Golders Green ad essere incaricata dal suo rigido finanziatore di organizzare i dettagli riguardanti l’orario, il luogo e le tariffe d’ingresso per la visione privata e tutto il resto. Fu invece quella parte più vivace e creativa di Lothario che, piuttosto che essere ordinata a farlo, fu invitata a preparare un resoconto pittoresco di quell’evento che stava per essere offerto al pubblico, nonché ai grandi artigiani e mestri di Chelsea durante la visione privata.
+
+Questa seconda rappresentazione dell’opera ottenne risultati ancora migliori di quanto ci si aspettasse. La gente di Chelsea impazzì per “L’Ame Bourgeoise”; durante le anteprime private, la folla lottava e si accalcava intorno al palco. Se non fosse stata protetta da una ringhiera di ottone, quell’opera inestimabile avrebbe potuto subire danni. E la tragedia che ne sarebbe derivata è davvero insopportabile da immaginare. Quando l’opera fu finalmente messa in scena al Martin’s, due giorni dopo, tutta la Londra benestante, tutti gli artisti, tutti gli scrittori (poveretti, ) e quasi un terzo degli abitanti dei sobborghi ne parlavano con entusiasmo. La Bond Street non è certo il posto adatto per le code. Ma Sir Henry era una persona influente, quindi la polizia permise che si formasse una coda. Si estendeva fino all’angolo della strada, proseguiva lungo la Bruton Street e arrivava quasi fino al Berkeley Square. La gente si accalcava lì, come un verme inghiottito da un uccello. Ore dopo ore. Anche se il prezzo del biglietto era di due scellini e sei pence a testa.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_04" data-title="The Missing Masterpiece — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,concept/vanity,concept/decadence_and_aestheticism,concept/fame_and_publicity,concept/appearance_vs_reality,concept/value_and_scarcity,form/satire,setting/london"></span>
@@ -3224,6 +3684,22 @@ In vain do you tell me that ladies do not announce themselves as the nth Marchio
 
 But Verecundia merits a full introduction, and I will proceed to give it you.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Certamente Henry Bensington aveva organizzato tutto alla perfezione, come faceva sempre con tutte le cose che intraprendeva. La grande stanza interna di Martin era avvolta interamente nel buio più totale: tende nere nascondevano il soffitto, il tappeto era nero, così come i rivestimenti delle ringhiere. Tutto era nero, tranne che per la finestra sul soffitto. E in fondo, completamente isolato in quell’immensa oscurità, pendeva quel piccolo frammento di immortalità: “L’Amore Bourgeoise”, a dimostrazione del fatto che l’Arte può sopravvivere, anche nei tempi moderni. Sotto di esso, all’interno di un grande quadro nero in ebano, c’era quella patetica frase scritta a mano dal defunto: “Il mio capolavoro! Il mio capolavoro!”
+
+L’umile amico di Sir Henry Bensington – lo stesso che aveva avuto il coraggio di criticare le sue opinioni sui lavori di Claude anni prima – scrisse il quinto giorno dell’esposizione, mentre migliaia di persone continuavano ad affollarsi lì, al “The Times”, per dire che, a suo modesto parere, la tela “Ame Bourgeoise” era stata appesa nel modo sbagliato. L’“occhio” – o meglio, ciò che il pubblico, nella sua ingenuità, riteneva fosse un occhio – non doveva trovarsi nell’angolo in alto a sinistra, ma in quello in basso a sinistra: in altre parole, la tela “Ame Bourgeoise” avrebbe dovuto essere appesa di lato, e non su e giù.
+
+Henry Bensington scrisse una lettera calorosa in difesa della propria decisione in quella questione, in qualità di fervente sostenitore del metodo Side-ways; i maggiori nomi d’Inghilterra, o quanto meno quelli più importanti in quel campo (poiché gli appassionati di corse evitavano di prendere posizione al riguardo, così come il National Sporting Club), si schierarono dalla sua parte. Lord Stagger, un’autorità riconosciuta, era un convinto sostenitore del metodo End-on; Philip Bilk, lo scrittore, era un moderato sostenitore del metodo Side-ways; ma Rosa Gabble, che ha influenza sulla nuova generazione, affermò che quel metodo dovrebbe essere completamente abbandonato.
+
+Fu in questo momento, quando l’entusiasmo era al suo apice, che accadde l’inevitabile.
+
+Verecundia, Quindicesima Marchesa di Norbolt, Ventunesima Contessa di Pulborough, Trentatreesima Baronessa Workup nella contea del Northumberland e Lady Paramount dell’Isola di Puffin, si avvicinò al Gran Maestro del Mondo dell’Arte e presentò la sua offerta.
+
+Inutile che tu mi dica che le donne non si presentano come la “n-esima marchesa”, la “contessa tal-de-tale”, e così via; è solo il sesso maschile ad avere il privilegio di poter elencare quei titoli sulle dita. Tutto ciò che posso dirti è che Verecundia si presentava proprio in quel modo. E ne andava fiera.
+
+Ma Verecundia merita un'introduzione completa, e procederò a darvela.
 
 
 
@@ -3274,6 +3750,52 @@ There was one phrase of hers which had been repeated to him when first he had tr
 
 At any rate, there things stood; and Verecundia queened it over London, while poor Hardham roamed in the outer darkness, trailing his millions among jockeys and croupiers, and card experts, and the exiles of this world. But still, all the time, with a dull revenge in his heart.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VI
+
+VERECUNDIA, quindicesima marchesa, ecc., come suggerisce il suo nome, proveniva da regioni esotiche. Era effettivamente di sangue nobile; apparteneva alla razza nordica e all’etnia insulare, per quanto lei stessa, io o chiunque altro sappiamo. Il nome del suo defunto padre – o quello con cui era conosciuto in vita sua – era Wugg. L’origine di sua madre è andata perduta, ma dall’aspetto della figlia alcuni ritengono che quella signora debba aver avuto nelle vene qualche traccia di sangue meridionale. Tuttavia, Verecundia non ricevette un’educazione britannica. Suo padre aveva accumulato una fortuna enorme sfruttando, piuttosto che scoprendo, i giacimenti di Manium nelle isole Paramooka del Pacifico; in quel periodo si faceva chiamare Wonks, anche se alcuni suoi amici lo conoscevano con un altro nome, più simile a Malchedo. Ma il mondo in cui continuò a vivere non era certo quello adatto per porre domande.
+
+Basta che tu sappia che, dopo la sua morte avvenuta con un patrimonio di venti milioni, e dopo che sua figlia unica ed erede era arrivata a Londra, [[Paris|Parigi]], sulla Riviera e a Deauville, nessuna domanda fu posta. Lei possedeva le due cose essenziali: la seconda delle quali è una mente eccezionale. Anche se forse dovrei aggiungere una terza per una donna della sua età: la buona salute. Era forte come un cavallo.
+
+Per quanto riguarda il Marchese, non c’è bisogno di preoccuparsi per lui: è morto dieci anni fa, e suo figlio ed erede era ancora a Eton. Nonostante fosse una donna energica, decisa e talvolta anche autoritaria, non era affatto crudele; meritava davvero i suoi amici, tanto quanto ne aveva conquistati.
+
+Le sue due amiche fedeli, per così dire i “sostenitori” del suo stemma araldico, avevano motivo di conoscere quella gentilezza. Si manifestava soltanto sotto forma di regali capricciosi; non c'erano accordi finanziari né somme sostanziose in gioco. Ma loro venivano ampiamente ricompensate per ciò che facevano, e lei aveva la saggezza di sceglierle tra le persone più vicine a suo marito defunto.
+
+La più giovane, che aveva al massimo trentatré anni e aveva un aspetto ancora da ragazza, era conosciuta tra i suoi pari – cioè tra le persone ricche – con il nome di Ardee. Quel carino soprannome le era stato dato in seguito a una semplice battuta: una volta, durante una festa, aveva firmato un assegno poco prima dell’arrivo di Lady Norbolt, o forse addirittura prima che lei arrivasse in Inghilterra. L’assegno fu restituito con la dicitura “Si rivolga al cassiere”. Tuttavia, non importava: in un anno si abituò a quella enorme fortuna e riuscì a restituire i soldi. Bisogna ammettere che Verecundia era felice dell’aiuto di Ardee, perché il nonno di quest’ultima, il vescovo, era stato il fratello minore del padre di Lord Norbolt; inoltre, ad Ardee era permesso chiamare la vedova del defunto conte “Nonna”, il che rappresentava un grande privilegio, anche se in realtà lei non era altro che una prozia. Tuttavia, apparteneva davvero al vero sangue dei Norbolt, o meglio, dei Walburton. (Non c’è bisogno, cara lettrice, di spiegare a una donna con la tua conoscenza del mondo che il cognome Norbolt deriva in realtà da Walburton.)
+
+La compagna più anziana era conosciuta da molti anni come Elless; alcuni la chiamavano “Una di Noi”, o comunque volessero definirla nel mondo dei ricchi. Non possedeva nemmeno un centesimo, ed è proprio per questo che le venne affibbiato quel soprannome scherzoso. Donna anziana e dall’aspetto rigido, aveva trascorso gran parte della sua giovinezza parlando incessantemente di L.S.D., tanto da farsi dare quel nomignolo; tuttavia la chiamavano semplicemente L.S. o Elless, perché non possedeva un soldo. Era un peccato, poiché apparteneva alla nobile famiglia Bailey: era infatti nipote di quella vecchia e ancora vigorosa Lady Norbolt, che aveva sopravvissuto a suo figlio anziano per dieci anni e sembrava destinata a vivere ancora altri quindici. I Bailey, pur essendo nobili di nascita, non erano mai stati ricchi; povera Elless, dunque, iniziava la sua vita con soltanto 10.000 sterline, somma che perse immediatamente a Rotheim Deeps, su consiglio di Billy Dagg, durante l’epoca della corsa all’oro in Sudafrica, prima ancora dell’inondazione.
+
+Eccola lì, che sosteneva Verecundia, la Quindicesima Marchesa, e a sua volta riceveva il loro sostegno; lo stesso valeva per la piccola Ardee, e insieme venivano chiamate “Le Due Dee”. Le seguivano ovunque andasse, svolgendo ogni sorta di compiti noiosi, ognuna a modo suo.
+
+La vita di Verecundia, Fifteenth Thingumbob, avrebbe dovuto essere perfetta: almeno venti milioni di dollari (alcuni ne parlavano di dodici, ma si sbagliavano), salute, molta determinazione (se mi permettete l’espressione), un cuore gentile e una passione per la vita che la spingeva ad inseguire i suoi obiettivi con grande energia. Ma c’era una “mosca” nel suo miele. Una mosca particolarmente fastidiosa; eppure, sentendo il suo nome, nessuno avrebbe mai immaginato che potesse rappresentare un problema. Si trattava di Hardham, Duca de Emonsillado y Palomar y Manuada y Bo. Viveva in modo disonorevole nel peggiore ambiente possibile: nell’“Under-Parigi”, nell’“Under-Monte Carlo”, nell’“Under-Biarritz”. Immerso ogni sera nell’atmosfera di whisky, feste e lussi viziati.
+
+E come mai finì per avere a che fare con Verecundia, o viceversa?
+
+Ahimè! È troppo semplice. Suo padre, di cui si sa così poco da non potervi nemmeno dire il nome (ma comunque proveniva dal mondo anglofono e probabilmente era un emigrato proveniente da qualche parte del Pacifico), era stato socio del padre di Verecundia, il defunto Wugg (alias, ecc.), nelle loro avventure audaci: prima nei Mari del Sud, poi nel commercio delle azioni, e infine, chissà dove, ora che si sa che questi finanziatori così potenti e improvvisi finiscono sempre in luoghi del genere.
+
+E perché, vi chiederete, il figlio di questa altra metà dei milioni portava quel nome così sonoro?
+
+Vi presenterò qualcosa che forse non conoscete, ma che è assolutamente vero. Se siete un uomo e sposate una donna con un titolo spagnolo, diventate dello stesso rango e godete degli stessi privilegi di lei. Se sposate una duchessa spagnola, diventate un duca spagnolo. Ed è esattamente ciò che aveva fatto Hardham. Hardham, beh, come vi ho detto, nessuno lo sapeva mai: ma Hardham, figlio del socio di Wugg e compagno di giochi da ragazzo di Verecundia da ragazza, nelle Isole Coralline degli oceani occidentali.
+
+Quando la vecchia signora lo incontrò (era in un luogo simile a un inferno del gioco d’azzardo, piuttosto che in un vero casinò), ritenne opportuno organizzare quel matrimonio. In Inghilterra l’avremmo definito una “Storia d’amore dell’aristocrazia”. Per Hardham, allora non ancora trentenne e che stava sprecando i suoi milioni, era ancora presente quell’aria furtiva acquisita nei giorni più difficili della vita di suo padre; la Duchessa, invece, aveva settantadue anni. Morì lasciandolo solo: Grande di Spagna e introduttore ereditario degli ambasciatori presso la corte reale.
+
+Con noi, dico io, quel matrimonio sarebbe stato un esempio di nobiltà e romanticismo. Ma in Spagna, dove le usanze sono più tradizionali, ebbe l’effetto contrario: impedì alla donna di tornare a casa. Le circostanze diventarono troppo difficili per entrambi. E così eccolo lì: vent’anni prima che inizi questa meravigliosa storia, già Duca de Emonsillado e via dicendo, con il diritto di portare il cappello davanti al Re dei Due Mondi, sia nel Palazzo che nell’Escorial. Ma con questo spiacevole inconveniente: esistevano ordini di arrestarlo qualora avesse attraversato la frontiera. La Corte non tollerava scherzi, e avevano prove contro quel poveretto.
+
+Tuttavia, non potevano toccare i suoi soldi, ed era questo il punto principale. Così aveva tutto ciò che desiderava: un splendido hotel a [[Paris|Parigi]], un piccolo palazzo in marmo situato sul lato destro di Nizza, lontano dal rumore; e una enorme casa in Belgrave Square. Ma raramente andava in quella casa, perché quando arrivava a Londra preferiva affittare un intero blocco di stanze nell’hotel più rumoroso e costoso del momento.
+
+E il motivo per cui si lamentava di dover venire a Londra, e perché, una volta arrivato lì, si ostinava a soggiornare negli hotel, era questo:
+
+Verecundia, o Vurry, come lui la chiamava ostinatamente, lo aveva tradito. Era stato orribile da parte sua, e questo gli bruciava nel profondo del cuore.
+
+Non si conoscevano fin da quando erano bambini? Non era stato proprio suo padre ad aiutare il povero idiota di Vurry quando questi era uscito di prigione, salvandolo dal rischio di essere rinchiuso di nuovo? Anche se lei non voleva incontrarlo, avrebbe potuto lasciarlo in pace. Ma era stata spietata, e, come fanno gli esseri umani, si giustificava con se stessa fino a quando quasi trasformò la propria crudeltà in una sorta di virtù. Quell’uomo era impossibile. Se lo avesse riconosciuto solo perché avevano trascorso l’adolescenza insieme, le avrebbe reso la vita insopportabile. Forse proveniva davvero da ambienti molto difficili. Aveva addosso uno strato di durezza così spesso che, nelle loro intimità, Verecundia lo esprimeva con un gesto indignato delle dita.
+
+Avrebbe dovuto arricchirsi a Londra grazie a Vurry; invece, Vurry lo aveva spinto giù dalla scala, e lui ne era profondamente offeso. Forse il lettore non mi crederà, se non conosce bene quanto me l’essenza corrotta dell’animo umano. Ma è una verità sacra che esistono uomini i quali, per quanto ricchi, non riescono nemmeno ad entrare a Londra: sono semplicemente “troppo” per quella società. Temo che il Duca de Emonsillado fosse uno di questi. Vi assicuro che persone del genere esistono davvero; potrei menzionarne una ancora in vita, di cui tutti avete sentito parlare. Ma non oso farlo, per paura di finire in prigione. Tuttavia, non sono sicuro che, agli occhi del suo Creatore, l’anima povera di Hardham non fosse anche lei un po’ più nobile di quella di Vurry. Anche se, naturalmente, essendo un uomo, Hardham non aveva affinato il proprio accento come aveva fatto lei (anche se in modo imperfetto). Non fingeva raffinatezza. Non fingeva nulla, non si aspettava nulla. Semplicemente si prendeva cura dei propri soldi. E sapeva quando veniva trattato ingiustamente. E se mai una fortuna potesse essere usata contro un’altra, la sua sarebbe stata utilizzata proprio contro quel testardo e spietato Vurry.
+
+C'era una frase di lei che gli era stata ripetuta la prima volta che aveva cercato di integrarsi a Londra, e che non aveva mai dimenticato. Era quella in cui lo aveva definito “Rastaquouère”, avvertendo così il mondo riguardo a lui. Oh. Quella parola gli aveva fatto molto male! Era una delle poche parole francesi che conoscesse, e conteneva una terribile verità. Aveva ribattuto (con i suoi intimi) chiamando quella stessa signora “Canaille”, ma questo non aveva sortito alcun effetto. L’unica volta in cui aveva sentito quella parola era stata quando sua moglie defunta l’aveva usata contro di lui poco prima di morire, lanciandogli un piatto. E quindi pensava che significasse sicuramente qualcosa di spiacevole.
+
+Comunque fosse, le cose stavano così: Verecundia dominava Londra, mentre povero Hardham vagava nell’oscurità esterna, perdendo i suoi milioni tra fantini, croupier, esperti di carte e gli esiliati di questo mondo. Ma nel suo cuore, c’era sempre una vendetta silenziosa.
 
 
 
@@ -3327,6 +3849,54 @@ There was a good deal more to the same effect. Sir Henry read it thoughtfully th
 “MY DEAR YOUNG MR. DELGAIRN, “I am old enough to be your father, and if you will take my advice, you will never write letters of that sort. Boys do it, I know, and perhaps if I were vindictive enough to drag you into Court your youth might get you off with a light sentence. But in a very few years it would be a most serious thing for you.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VII
+
+Quando Verecundia fece la sua proposta, lo fece, come faceva per la maggior parte delle cose, in modo completo e accurato. Non era così sciocca da scrivere: chiamò al telefono; poi, accompagnata da quella piccola donna impegnata, andò a casa di Bensington insieme alla più giovane delle Due Dee.
+
+Era poco prima dell’ora in cui le persone della sua condizione sociale si alzano dal letto per dedicare l’ora o due necessarie a lavarsi, vestirsi parzialmente, truccarsi, prepararsi e poi completare il proprio abbigliamento. Aveva detto che doveva assolutamente possedere quel “Capolavoro”. E Bensington le aveva risposto che non aveva alcuna intenzione di venderlo. Si era espresso in modo molto educato, sostenendo di provare un vero affetto per la tela scelta da Bourrot. Dopotutto, era stato presente al suo letto di morte. La sua risposta fu che evidentemente lui non aveva idea di quanto fosse disposta a pagare. E lei dichiarò senza esitazione: “10.000 sterline, quando vuoi.”
+
+“E poi,” aggiunse in fretta, prima che lui potesse interromperla, “puoi tenerti quell’oggetto, se vuoi, per mostrarlo nelle province ancora per un mese o due.”
+
+Gli avrebbe dato qualsiasi quantità di corda; se ne volesse di più, certo. Ma quella foto doveva assolutamente averla.
+
+“Non ve lo dicevo?”, esclamò Ardee, annuendo con forza e aggiungendo:
+
+“Dovrà lasciarla fare, signor Henry.”
+
+Ma Henry Bensington scosse lentamente la testa.
+
+“Beh,” disse la signora, un po’ a corto di tempo e senza voglia che venisse sprecato, “non intendo trattare. Tornerò e vi farò dare quella cosa. Forse potrei anche andare oltre, ” Ma Henry Bensington la interruppe, senza essere scortese.
+
+“Non va davvero bene, Lady Norbolt. Comunque,” (poiché sapeva come fare queste cose), “non è il momento adatto. In questo momento ne sono troppo coinvolto emotivamente. Venga a darci un’occhiata insieme, e vorrei che venisse anche questa giovane signora. Lo spettacolo si è chiuso ieri, e me l’hanno subito restituito.”
+
+Lo seguì con impazienza nella stanza accanto, e da lì in un piccolo locale adiacente; notò con curiosità che quest’ultimo era chiuso da una porta di ferro, la cui chiave si trovava sulla sua catena dell’orologio. All’interno c’era una cassaforte; lui la aprì, e non appena le enormi serrature di acciaio si aprirono, una piccola lampada a luce soffusa illuminò l’interno. Lì c’era il “A me Bourgeoise”.
+
+Lo guardò in silenzio, con uno sguardo profondo e infinito negli occhi. Quanto alla sua ospite, il suo appetito stava aumentando sempre di più; gli afferrò il braccio.
+
+“Oh, Signor Henry, devo assolutamente averlo! Devo assolutamente averlo!” Era meraviglioso il modo in cui gli angoli della sua bocca si contraevano, come se faticasse a resistere al suo invito.
+
+“Sai, davvero sarei disposto a farlo, beh, quasi qualsiasi cosa. Non sai quanto significhi per me!”
+
+Lentamente e tristemente, Sir Henry scosse la testa.
+
+“Devi lasciarmi aspettare,” disse. “Devi darmi un giorno o due.” Abbassò il mento sul petto e rimase fermo immobile; poi, riprendendosi, chiuse la cassaforte, li accompagnò attraverso la porta di ferro esterna, la chiuse anch'essa, e li scortò fino al corridoio (e per tutto il tempo lei continuava a supplicarlo con insistenza); infine disse:
+
+“Sì, è sbagliato farvi aspettare. Vi dispiacerebbe venire voi stessi domani, e anche questa signorina, la signorina Walburton?” (voleva un testimone). “Se sarete qui entro le tre e mezza, e non più tardi delle quattro (perché ho una giornata molto impegnativa), potrò darvi la mia risposta.”
+
+Non disse altro, e lei ne fu più che grata. Li congedò con un inchino.
+
+Durante quell’ breve colloquio, tre cose si impressero rapidamente nella mente di Sir Henry Bensington: queste rappresentavano la sostanza del suo successo. Primo: la marchesa Verecundia di Norbolt aveva in mente l’idea di ottenere circa 15.000 sterline. Secondo: se le cose venivano gestite con attenzione, avrebbe potuto guadagnare almeno 20.000 sterline. Non ne aveva bisogno, Dio lo sa. Ma comprare a buon mercato e vendere a un prezzo vantaggioso faceva parte del suo mestiere e del suo entusiasmo; era la sua vita. Terzo: era necessario un altro sforzo per mantenere l’andamento positivo delle cose. Quella sera, prima di andare a vestirsi, avrebbe dovuto decidere quale fosse il prossimo passo da compiere. E quella notte stessa aveva già iniziato a prepararsi.
+
+Mentre rifletteva su tutte le carte che aveva sulla scrivania, i suoi occhi si posarono su due lettere arrivate con una posta successiva. Le prese in mano per distrarsi, e per fortuna esse lo aiutarono a prendere una decisione, poiché riguardavano l’importante affare del momento. Le tenne entrambe tra le dita e le lesse una dopo l’altra alla luce di una lampada elettrica appesa al muro.
+
+Il primo era molto semplice, breve e diretto. Era scritto con una grafia infantile, le parole non erano troppo ben scritte; la data era indicata in modo completo, e il titolo del foglio recitava “North Merton House”. Il contenuto del foglio era un insieme di insulti. Delgairn si era lasciato andare. Come osava Bensington raccontargli quelle bugie su Bourrot’s salute eccellente e sulla sua capacità di produrre in grandi quantità! Come osava impossessarsi di quella cosa preziosa con un trucco, in cambio di una canzone! Come osava approfittare di un uomo onesto che non fingeva di sapere nulla su quei prezzi. Ora lo sapeva dai giornali: tutti ne parlavano. Non l’avrebbe tollerato. Tutti i suoi vicini erano d’accordo con lui. Anche il generale Sir Arthur Kenley aveva detto ieri stesso che si trattava di una truffa disgustosa. Era pura rapina, e peggio ancora: peggiore del barare a carte. Avrebbe smascherato Bensington. Aveva persino pensato di picchiarlo a dovere prima di denunciarlo. Aveva già fatto in modo che tutta Londra venisse a sapere della faccenda.
+
+C'erano molte altre cose dello stesso tenore. Sir Henry le lesse attentamente, le archiviò, poi si sedette alla sua scrivania e scrisse personalmente una breve risposta, senza nemmeno prendersi la briga di ne conservare una copia.
+
+“Mio caro giovane signor Delgairen, sono abbastanza vecchio da poter essere vostro padre, e se seguirete il mio consiglio, non scriverete mai più lettere di quel genere. So che i ragazzi lo fanno, e forse, se fossi abbastanza vendicativo da portarvi in tribunale, la vostra giovane età vi permetterebbe di evitare una punizione troppo severa. Ma tra pochi anni, questo comportamento diventerebbe davvero molto grave per voi.”
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="The Missing Masterpiece — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/imprisonment,concept/crime_and_punishment,concept/deception,concept/power_and_corruption,concept/satire_of_society,concept/imprisonment,form/satire"></span>
@@ -3366,6 +3936,42 @@ A novice in the art of Affairs might have blamed Bensington for using one so inf
 
 A novice, I say, would have wondered why Bensington chose a slave of this kind; but those who know their world will wonder less. It is exactly the right kind of slave for a certain plain, mechanical sort of secret job. The drink makes It (if I may so call the slave) incapable of revolt when It has slept the stuff off and is in the depths of depression again; but it does not make It incapable of fulfilling simple tasks before the regular drinking hour comes round. And, most important of all, the drink prevents anybody else from thinking of using him.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non posso dire di più. Ma se solo sapeste com'è realmente la vita nelle prigioni e come i nostri tribunali trattano i reati di diffamazione, non mi troverei nella dolorosa necessità di scrivere questa lettera. Spero che nessuno di noi debba più sentirne parlare; tuttavia devo avvertirvi che, se insistete, sarò costretto a prendere delle misure.”
+
+Sempre con grande sincerità vostro, e con molti ringraziamenti per la vostra ospitalità, a me, che sono praticamente uno sconosciuto: “HENRY BENSINGTON”.
+
+Era fatta. Dopo ventisette anni di lavoro nel settore dell’arte, ormai era abbastanza abituato a queste cose: in quel mestiere, infatti, capita spesso che le persone “esplodano”, o meglio, che alcune parti delle persone coinvolte reagiscano in modo estremo. Così decise di lasciar perdere la questione. Quel processo inconscio attraverso cui il genio elabora soluzioni per un problema mentre lavora su un altro aveva già risolto la situazione. Aveva trovato lo stimolo di cui aveva bisogno.
+
+Deve far rubare l’opera d’arte.
+
+Si trattava di un trucco abbastanza comune, ma ancora non del tutto usato fino alla noia; apprezzò molto la semplicità di pensiero di Verecundia.
+
+Prese il telefono (la sua segretaria era uscita per un incarico) e disse loro di metterlo in contatto con il numero 1469 Pulton. Era il numero al quale il suo “Jackal” doveva essere presente a quell’ora. E se “Jackal” suona troppo duro, vi spiegherò perché lo uso.
+
+* * * * *
+
+Allora, parliamo dei lupi.
+
+Ogni leone ha il suo sciacallo. Almeno, così leggevo nei libri di storia naturale della mia giovinezza. Forse ormai tutto questo è cambiato. Supponiamo che Henry Bensington sia un leone. Allora Chas. Goatcher era il suo sciacallo: pagava per la misera stanza in cui viveva, per i suoi biglietti dell’autobus e della metropolitana, nonché per occasionali spese di viaggio. Gli dava anche, come farebbe qualsiasi leone decente, un piccolo stipendio per vivere. Ma non gli dava alcuna commissione, né pagava mai per il lavoro svolto a cottimo.
+
+Ora che ci penso, non sono sicuro che “Jackal” sia il nome giusto. L’espressione francese “la sua dannata anima” è più appropriata. Chas. Goatcher era proprio quella “dannata anima” di Henry Bensington: doveva fare qualsiasi cosa Henry Bensington gli ordinasse, correre qualsiasi rischio gli venisse chiesto e svolgere qualsiasi compito sporco gli fosse affidato. È molto utile avere una persona del genere al proprio fianco. I grandi di questo mondo, soprattutto quelli che fanno soldi in fretta, ne hanno sempre avuta uno, a volte addirittura più di uno. Bensington ne aveva diversi, ognuno con gradi diversi di abilità e degradazione. Questo era il meno capace, ma anche il più fedele, e di gran lunga il più corrotto. Era perfetto per qualsiasi compito.
+
+Chas. Goatcher non era sempre stato Chas. Goatcher. Aveva iniziato la sua vita come Sir James Maltaine, godendo del beneficio di una lunga minoranza di età; così, quando raggiunse l’età adulta, spese rapidamente tutto il denaro accumulato durante quel periodo, con tale velocità da stupire persino coloro che, attratti dalla sua gentilezza, lo avevano aiutato in quella faccenda. Aveva già ventiquattro anni quando riuscì a liberarsi dell’ultimo penny che gli rimaneva; poco dopo il suo compleanno successivo, essendo pressato da uno di quei gentiluomini che, sebbene a malincuore, lo avevano aiutato in passato, commise l’errore di falsificare il nome di un altro uomo appartenente al loro stesso ambiente, fidandosi (come avrebbe fatto un giovane generoso) che un compagno così onesto non avrebbe sporto denuncia contro di lui.
+
+Ma un compagno così valido continuò la sua strada, essendo di quel tipo. Le autorità furono gentili con lui e gli inflissero soltanto cinque anni di carcere; tuttavia ne uscì cambiato. Il che dimostra quanto potente sia il sistema penale del nostro amato paese come strumento di rieducazione. Anche il suo nome fu cambiato: dopo essere stato ricercato per tre volte, Maltaine cessò di esistere e al suo posto prese il posto Chas. Goatcher.
+
+Henry Bensington aveva appreso della sua esistenza attraverso un agente in contatto con la polizia. Era il periodo in cui l’industria fotografica stava appena iniziando a svilupparsi, in King Street, mezzo secolo fa. Henry Bensington lo trovò, lo intervistò, lo acquistò e poi, in modo molto astuto, fece scomparire ogni traccia di lui. Non capita spesso che la polizia perda la pista di una persona una volta che l’ha catturata, ma questa volta dovettero ammettere di essere stati sconfitti. Il loro informatore era sparito senza lasciare traccia.
+
+Ma Bensington non era così sciocco da affidarsi soltanto ai precedenti penali di Chas. Goatcher. Trovò un modo migliore per controllarlo: si assicurò che Chas. Goatcher venisse correttamente tentato e che cadesse nella trappola, e aveva già preparato tutte le prove necessarie – fotografie e dischi – così che, quando quelle prove furono presentate a Chas. Goatcher nella privacy della stanza privata di Henry Bensington nel negozio di fotografia, questi si umiliò e accettò di essere legato dalle catene. Da quel giorno in poi, Chas. Goatcher divenne completamente il servo di Sir Henry Bensington, corpo e anima.
+
+Era davvero un notevole risultato per un giovane che aveva appena iniziato la sua carriera imprenditoriale e aveva ancora poco più di trent’anni; tuttavia, come ho già detto in precedenza, Bensington era un gigante tra gli uomini, il tipico esempio del miglior uomo d’affari di alto livello, e quel genere di genialità si manifesta fin da giovane.
+
+Un principiante nell’arte degli affari avrebbe potuto incolpare Bensington per aver scelto qualcuno così inferiore per talento e abitudini; bisogna infatti ammettere che Chas. Goatcher non era molto veloce, né molto intelligente, e che qualsiasi iniziativa avesse avuto nei tre anni tra il raggiungimento della maggiore età e il suo trasferimento a Portland l’aveva persa nel processo di diventare prima padre e poi detenuto. Inoltre, aveva preso l’abitudine di bere. Non solo beveva, ma era anche uno di quei casi in cui l’alcol cambia completamente una persona: lo rendeva irascibile e distruggeva quel poco di buon senso che gli rimaneva. Di solito, questo gli dava un momento di vigore che vi avrebbe sorpreso se lo aveste conosciuto nelle sue ore sobrie. Da un individuo debole, miserabile e prematuramente invecchiato, diventò qualcuno che sembrava avere delle capacità, ma per lo più senza alcun risultato concreto, solo conflitti inutili.
+
+Un principiante, direi, si sarebbe chiesto perché Bensington avesse scelto proprio questo tipo di schiavo; ma coloro che conoscono bene quel mondo se lo chiederanno meno. È esattamente il tipo di schiavo adatto per un certo genere di compiti semplici e meccanici, legati a segreti particolari. Quel liquido lo rende incapace di ribellarsi quando ha smaltito gli effetti dell’ubriachezza ed è di nuovo profondamente depresso; ma non lo impedisce di svolgere compiti semplici prima che arrivi l’ora regolare per bere. E, cosa più importante, quel liquido impedisce a chiunque altro di pensare di utilizzarlo.
 
 
 
@@ -3444,6 +4050,80 @@ And the last words that rang in his ears as he passed through the front door (to
 
 “Look as though it wasn’t important! Look cheerful — whistle! Hum!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il compito che Henry Bensington aveva in mente di affidare al suo schiavo era davvero semplice. Poteva essere assolutamente certo della sobrietà dell’uomo nella prima parte della serata, perché l’unica volta in cui aveva osato violare le regole, Bensington lo aveva terrorizzato a tal punto che non avrebbe mai più osato farlo. Dopo l’ora concordata, alle cinque e mezza, poteva ubriacarsi quanto voleva. E fino ad allora, Bensington non lo aveva mai fatto lavorare dopo quell’orario.
+
+Quando questo fedele servitore arrivò, alle quattro e mezza del pomeriggio, l’ora in cui era stato convocato, tirò fuori il suo quaderno unto e regolò la matita nella sua mano tremante, mentre il suo padrone gli dettagliava l’ordine da eseguire.
+
+Scrivi!
+
+Camminava avanti e indietro nella stanza. Poi ricominciò.
+
+“Scrivi quanto segue: Il pacco deve essere portato nella mia stanza e messo sotto il materasso, esattamente com’è, senza aprirlo. La porta deve essere chiusa a chiave ogni volta che esco, anche solo per un momento, e deve rimanere chiusa a chiave quando sono nella stanza.”
+
+“Lo tengo sempre chiuso a chiave, signor Henry,” disse con voce tremante quella persona che aveva mantenuto la sobrietà per troppo tempo.
+
+“Stai zitto!” ringhiò bruscamente Henry Bensington. Poi continuò: “Domani alle, lasciami pensare, alle cinque in punto esatte, chiama il numero privato di Sir Henry Bensington e digli che sei Percival. Se risponde la voce di Sir Henry, assicuragli che tutto è ancora a posto. Fai lo stesso il giorno dopo e così via, fino a quando non riceverò nuove istruzioni. Se qualcun altro risponderà al mio telefono invece di Sir Henry, lascia un messaggio dicendo che va tutto bene. In caso di problemi o intoppi, devo recarmi immediatamente nell’ufficio di Sir Henry di persona. Ulteriori indicazioni verranno fornite in seguito. Ora, leggi tutto questo ad alta voce per me.”
+
+Chas. Goatcher lo lesse ad alta voce, con una voce ancora più compassionevole del solito; la fatica dovuta alla sobrietà aumentava sempre di più, e si avvicinava l’ora abituale in cui poteva liberarsi da tutto ciò.
+
+Leggilo di nuovo tutto daccapo.
+
+Con un sospiro, immediatamente represso, lo Schiavo lo lesse di nuovo.
+
+#"Ora chiudi il tuo quaderno, mettilo da parte e ripeti quelle istruzioni a voce alta."
+
+Lo Schiavo le ripeté esattamente come gli erano state insegnate. Le aveva imparate alla perfezione.
+
+"Aspetta lì."
+
+Disse quelle parole “Aspetta lì!” in modo molto breve e deciso, come se ci fosse la minima possibilità che Chas. Goatcher potesse fare qualcos’altro! Passò attraverso la porta di ferro, e si sentì il rumore della chiave che girava nella serratura della cassaforte. Tornò indietro con il “A me Bourgeoise” e lo posò davanti al suo servitore.
+
+# Lo sai?
+
+Oh, sì, Chas. Goatcher lo sapeva molto bene. Durante lo spettacolo era stato due volte nelle stanze di Martin: una volta, se Sir Henry se ne ricordava, per tenere d’occhio alcune persone, e l’altra volta per contare le entrate orarie. Henry Bensington annuì.
+
+“Ricordatelo bene: ora lo chiuderò e non lo vedrete più per un po’, anche se ne avrete la custodia.”
+
+Lasciò l’opera d’arte appoggiata sul tavolo davanti agli occhi preoccupati di quell’uomo sfortunato, incrociò le braccia e lo osservò attentamente, per assicurarsi che quegli occhi non distogliessero mai lo sguardo dal dipinto. Era determinato a imprimere quell’immagine nella mente di quel uomo, come se si trattasse di una fotografia vivida.
+
+“Hai tutti i dettagli in mente?”
+
+“Ah sì, signore.”
+
+“Molto bene. Va bene così. Ora dammi quel taccuino!”
+
+Chas. Goatcher glielo porse docilmente. Il suo padrone sfogliò rapidamente le pagine appena scritte, le strappò via con violenza e le gettò nel fuoco, osservandole bruciare lentamente. Solo quando l’ultima traccia di bianco si era trasformata in cenere nera distolse lo sguardo da quel documento. Poi si rivolse al “Signore Decaduto” e disse:
+
+# Resta lì! Non muoverti finché non torno!
+
+Uscì, portando con sé l’opera d’arte; si potevano sentire i suoi movimenti, il rumore di fogli che venivano spostati e, dopo un po’, anche il fruscio di carta nell’ufficio esterno. Fu via per un bel po’ e tornò con qualcosa delle dimensioni di un libro piuttosto grande, avvolto in due copie de “The Howl”, ben protetto da ogni lato; non solo era legato con del cordone, ma anche sigillato.
+
+“Ecco,” disse, porgendoglielo con cura e solennità. “E sai bene cosa succederà se qualcosa va storto, ”
+
+“Sì, signore,” disse l’altro.
+
+Per vent’anni, fino ad ora, era riuscito a pronunciare facilmente quella parola “Signore”; all’inizio, però, gli causava grande fastidio.
+
+“Poiché lo stai portando tu,” disse Sir Henry, “vorrei che sembrassi indifferente, anzi, quasi felice, ”
+
+“Con nonchalance e piuttosto con aria allegra,” ripeté sottovoce il Fedele Cane.
+
+“Dovresti comportarti come se ciò che porti sotto il braccio non avesse alcuna importanza, e come se non ti preoccupasse assolutamente nulla, ”
+
+“… l’unica vera cura al mondo.”
+
+“Dovrai mantenere questo atteggiamento in diverse strade secondarie e prestare particolare attenzione se qualcuno sembra seguirti o osservare i tuoi movimenti. Se così fosse, sarebbe meglio che fischiasse o addirittura canticchiasse una canzone, ”
+
+“Cantare una canzone…”
+
+Chas. Goatcher raccolse il proprio corpo snello e ormai quasi privo di forze; era vicino all’ora abituale. Sentiva che gli muscoli erano tesi. Ma non ci sarebbero voluti più di quaranta minuti per tornare in camera sua, e poi avrebbe potuto rilassarsi, preferibilmente con un “Splash”. O forse, essendo molto stanco, avrebbe iniziato con un “Double Neat”.
+
+E le ultime parole che risuonarono nelle sue orecchie mentre attraversava la porta d’ingresso (dove Sir Henry lo aveva seguito attentamente per assicurarsi che quel prezioso fagotto fosse al sicuro) furono quelle minacciose:
+
+“Fai finta che non sia importante… Sii allegro, canta una canzone, mormora qualcosa…”
 
 
 
@@ -3525,6 +4205,82 @@ And Elless, who had command of the ear trumpet, supplemented the shock with a ne
 “Fifty thousand, perhaps! She’s raving mad about it!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VIII
+
+Al suo ritorno a Norbolt House dopo l’intervista con Bensington, Verecundia era esausta per l’emozione. Le Due Dees si comportavano in modo nobile e dignitoso: guadagnavano il loro cibo e alloggio come vere donne troiane, senza mai mostrare quella petulanza tipica delle figure euripidee.
+
+“Carissima Verecundia,” disse Ardee con rispetto, accarezzando la testa della capofamiglia, “non dovete lasciare che vi preoccupi così tanto!” Poi aggiunse, con quella timidezza affascinante tipica di una ragazza di poco più di trent’anni: “Posso dire ciò che penso?”
+
+“Corri, carino!” cinguettò la contessa.
+
+“Beh, caro mio, quello a cui pensavo tutto questo pomeriggio è proprio questo. Hai bisogno di preoccuparti? Sai, con uno come Harry Bensington, la questione riguarda soltanto quanto sei disposto a pagare. E dopotutto, ” (un sorriso radioso apparve nei suoi occhi), “puoi permetterti qualsiasi cosa, vero, caro?”
+
+La bocca di Verecundia divenne ostinata. Non solo aveva ereditato, ma aveva anche coltivato una vera e propria apprezzazione per i soldi. Ardee notò immediatamente quell’espressione e disse: “Oh, capisci cosa intendo. Voglio dire che davvero, cara, puoi esserne certa. È solo questione di indovinare la sua cifra e di raggiungerla.”
+
+“Cosa ne pensi, Elless?” mormorò il Grande, voltandosi verso l’altra parte, dove sedeva il Secondo Dee, rigido e pronto all’azione.
+
+“Concordo più o meno con Ardee.”
+
+“Perché meno?”, chiese Ardee, protestando con la sua impazienza, nonostante l’aspetto nobile dell’interlocutore.
+
+“Non intendevo dire quello,” disse L.S.D. con una certa asprezza. “Quello che voglio dire è, ” (rivolgendosi a Verecundia) “, che penso che una persona come te sappia meglio di chiunque altro cosa passi per la mente di quell’uomo odioso. Vedi, Verecundia, hai un’incredibile capacità di leggere nei pensieri delle persone, tutti lo dicono. E sono sicura che, se solo riuscirai a ‘esternalizzare’ quelle informazioni – come diciamo noi alla Seconda Chiesa di Cristo dei Psichici – ad immaginare davanti ai tuoi occhi il volto di Bensington, la sua scrivania e tutto il resto, allora apparirà la cifra giusta. Potrebbe essere inferiore a 20.000 sterline, o superiore; potrebbe essere, ad esempio, intorno alle 18.000 o alle 23.000 sterline. Non lo so, non pretendo di capire queste cose. Ma tu sì. E, a dire il vero, hai una sorta di seconda vista in merito. Non dico che sia il dono più prezioso, ma ce l’hai davvero. Ricordi quando abbiamo comprato quel pendente della donna assassinata a Cannes, l’anno scorso? Come sei riuscita a farlo ritirare prima dell’asta?” (Verecundia annuì.) “Beh, è proprio lo stesso ora. Nonostante tutti i tuoi difetti, hai quella straordinaria capacità di leggere nei pensieri altrui e di ‘vedere’ le cifre giuste. E quando riesci a individuarle, puoi sorprendere quell’uomo offrendoglie proprio quelle cifre. Penso che sia questo il modo giusto per risolvere la questione,” disse. Poi fece schioccare la lingua.
+
+Era un complimento sincero; i ricchi amano infatti essere lusingati con parole del genere, e Verecundia ne fu colpita. Trovò la forza di avvicinarsi leggermente, prendendo le mani di Ardee nelle sue. Poi disse ad Ardee, indicando Elless:
+
+“Ha perfettamente ragione.” Poi, a sua volta, disse a Elless: “Anche tu hai perfettamente ragione.” Lasciò andare le due mani, spinse il viso in avanti con uno sguardo stupido e rimase così per ben trenta secondi. Poi, con una voce lontana, terribile, profetica, non di questo mondo, mormorò: “Ah, vedo una nebbia che si avvolge, è rossa, fumosa. Ah, vedo delle figure che prendono forma, £20.000, ” Si abbandonò all’indietro con gli occhi chiusi. Un rispettovole silenzio la circondò. Poi si svegliò lentamente: “L’ho visto,” disse semplicemente, con il suo tono quotidiano. “Ho visto quelle figure. Devo dirvi cosa sono?”
+
+“Oh! Per favore!”
+
+“Oh! Do!”
+
+La loro umiltà li rese felici.
+
+“Nella sua mente ha nascosto una cifra importante: 20.000 sterline.”
+
+“Carissima, carissima Verecundia…”, iniziò Ardee – ma Elless lo interruppe:
+
+“Offri quei 20.000 sterline subito: domani mattina, non appena arrivi lì, devi essere pronto a darli immediatamente, e lui cadrà immediatamente nella trappola. È quello che dico io.”
+
+“Mi porterai con te, vero, caro?” disse la piccola Ardee.
+
+“Sì, ne abbiamo parlato e abbiamo deciso così, caro.”
+
+Non dissero nulla. Avrebbe dato molto (se ne avesse avuto, ma non ne aveva!) per essere presente a quell’intervista. Dopotutto, non era forse frutto della sua stessa creatività? Ma molta esperienza le aveva insegnato quando fosse il caso di tacere. Comunque, continuava a guardare Ardee con lo stesso affetto.
+
+* * * * *
+
+Verecundia era già a letto, anche se era ancora presto. Ardee la accompagnò nella sua stanza con profonda devozione filiale; e dopo che lei gli ebbe detto buonanotte, tornò da Elless con un’idea.
+
+“Non possiamo andare a letto a quest’ora, Elless. Andiamo a “riempire” la Vecchia Signora. È una causa benefica: non la smontano mai prima di mezzanotte, e anche allora faranno leggere a quel povero Smithson per ore. Sarebbe davvero un aiuto per Smithson se riuscissimo a farla addormentare con qualche storiella, ”
+
+“Quello che vuoi,” disse Elless. E così scesero nella deliziosa stanzetta dove la Lady Dowager Norbolt aveva vissuto negli ultimi dieci anni, da quando suo figlio era morto; ogni volta che veniva in città per visitare sua nuora e continuare le tradizioni della famiglia Norbolt.
+
+Era estremamente felice all’arrivo delle Due Dee. Le ringraziò con grande sincerità, utilizzando la convenzionale formula di gratitudine: “I giovani” (e in quel momento guardò affettuosamente Elless) “sono davvero gentili a prendersi il disturbo di venire a parlare con una vecchia donna come me!”
+
+Tese l’orecchio con grande attesa, e non rimase delusa.
+
+“Mille?” ridacchiò. “Beh, è davvero molto!”
+
+“No, ventimila, almeno, forse trentamila!” gridò Elless.
+
+“Niente di sporco in tutto questo?” disse la Vedova, un po’ sorpresa, ma con un sorriso serio.
+
+“No — TRENTA, ho detto!” urlò Elless.
+
+“Trenta!” gridarono tutti all’unisono. “Trentamila… o forse di più!”
+
+“Trentamila?” chiese la vecchia signora, inclinandosi in avanti quanto le permettevano le sue ossa anziane. Poi si rilassò di nuovo. “Oh, sciocchezze!” disse.
+
+Ardee annuì vigorosamente.
+
+“Sì, o forse quarantamila!”
+
+E Elless, che aveva il controllo della tromba acustica, rafforzò lo shock con un nuovo e potente ululato: —
+
+"Cinquanta migliaia, forse! Ne è completamente ossessionata!"
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="The Missing Masterpiece — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_and_avarice,concept/deception,concept/vanity,concept/satire_of_society,form/satire,setting/london"></span>
@@ -3597,6 +4353,74 @@ When all these things had passed between Henry Bensington and his own great soul
 “MY DEAR HARDY, “I’ve got your letter, but I have also got bad news for you. The thing has been stolen. The loss was discovered this morning — by me, when I opened the safe. It may be recovered — I don’t know. My experience is that in thefts of this kind, either it is traced at once, or never. But I will keep you in touch. Meanwhile, of course, I shall have to tell our Mutual Friend. I can see by your letter that you know she has been after it! Have I guessed right? I have.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Beh, è il suo denaro…”, mormorò la vecchia signora. “Ma davvero, sapete… cinquantamila!”
+
+Ardee ripeté e continuò:
+
+“Te lo dico io, nonna: è davvero arrabbiata per questa cosa. Abbiamo fatto di tutto per convincerla a desistere…”
+
+“Sì,” disse Elless, con una nota tragica nella voce. “Abbiamo fatto tutto ciò che era in nostro potere, cara Lady Norbolt. Apprezzo molto ciò che spetta alla nostra famiglia.”
+
+Alla parola “nostra”, la vecchissima signora sembrò ancora più sarcastica del solito. Ma tutto ciò che disse fu: “Cinquanta migliaia. Beh, è il suo denaro.”
+
+“È molto famoso, Nonna!” gridò Ardee.
+
+“No! È certamente ben conosciuta. Ma ‘famosa’ non è il termine giusto,” rispose la Vedova con dignità.
+
+Ma Elless, che utilizzava il megafono, capì subito: “No, non lei, cara Lady Norbolt. Lui, l’uomo che ha dipinto quel quadro. Bourrot.”
+
+“È gergo francese per indicare un asino,” disse Lady Norbolt, ricordando i giovani ufficiali con cui aveva ballato alle Tuileries quando era ragazza.
+
+“Beh, comunque sia,” disse Ardee, “è davvero molto popolare in questo momento. Ha dipinto ‘Amore Perduto’, sai…”
+
+“È in qualche modo simile a ‘Amore e Morte’ di Watts?”, chiese l’Antico.
+
+“Elless scosse la testa.”
+
+“È una specie di zigzag!” gridò lei.
+
+“Un ‘wigwag’”, sospirò soddisfatta la vecchia signora Norbolt. “Non capisco questi nuovi termini. Significa forse ‘amore’ in gergo yankee?”
+
+Poi chiuse gli occhi, come fanno a volte le persone molto anziane, perdendo la propria vitalità in un improvviso sonno profondo. Le Due Dee si guardarono l’una con l’altra. Ardee annuì e toccò con le labbra la fronte sotto la parrucca; Elless, non volendo essere da meno in cortesia, fece lo stesso su un’altra parte della fronte.
+
+“Buonanotte, cara Nonna”, gridò Ardee. “Devo mandare Smithson da te?”
+
+“Sì,” disse quella voce vecchia e assonnata; gli occhi si aprirono per un momento. Si posarono su Elless con riconoscimento, poi le palpebre si chiusero di nuovo. Quando Ardee portò Smithson fuori, entrambi se ne andarono, con la sensazione di aver compiuto una buona azione e di vedere l’Età rispettata dalla Gioventù. Ognuna di loro andò nella propria piccola stanza in cima alla casa a dormire: Ardee sognava di possedere ventimila sterline, come se fossero semplicemente sei penny nel proprio portafoglio; Elless, avendo imparato dall’esperienza, pregava per le briciole che cadevano dal tavolo e non sprecava energia in sogni.
+
+* * * * *
+
+Henry Bensington, una persona molto puntuale, si sedeva alla sua scrivania esattamente alle nove di mattina, come faceva sempre. Apriva personalmente tutta la sua corrispondenza e la leggeva attentamente prima di chiamare il suo segretario. Non era il tipo di persona che si mettesse nelle mani degli altri.
+
+Questa mattina non si trattava di un lote molto grande, ma su una busta molto grande, sulla quale era raffigurato in modo molto evidente lo stemma colorato dell’Hotel Plantagenet (tre leopardi d’oro su uno sfondo azzurro, con elementi bianchi disposti in modo inverso), e nell’angolo sinistro c’era scritto qualcosa a caratteri molto grandi che gli strappò un sorriso.
+
+Lo mise da parte fino a quando non ebbe esaminato tutti gli altri. Poi lo aprì. Riconobbe che era la mano stessa del Duca, la mano di quella antica dinastia che si estendeva verso l’alto (attraverso le donne) fino alle origini remote dell’Aragona.
+
+Erano passati cinque anni dalla sua ultima transazione con quel nobile potente: il Duca di Emonsillado, infatti, non era un mecenate delle arti. Il piccolo favore che Henry Bensington era riuscito a fargli riguardava non delle opere d’arte, ma una questione di ricatto che doveva essere risolta grazie all’intervento di un esperto.
+
+Mentre teneva la lettera tra le dita prima di leggerla, pensò che dovesse esserci una ragione molto speciale per cui Sua Grazia aveva deciso di scrivere personalmente. Non era un’abitudine a cui fosse abituato; preferiva sempre utilizzare delle macchine. E quando aprì la lettera, capì perfettamente quella ragione: Sua Grazia disdegnava ogni tipo di subterfugio e andava dritta al punto.
+
+# Caro Harry,
+
+“Non ti vedo da anni. Ma sono sicuro che tu sia ancora nel rosa. Guarda: devi tenerti quel Boujoys Arm per te, davvero. E non chiedermi il perché. Indica tu stesso la tua figura. Ma se non lo faccio, romperò tutto. Non telefonare: loro sentono tutto. Mandami semplicemente la tua ortografia.”
+
+“s l.
+
+“Hardy.”
+
+Henry Bensington sorrise ancora più ampiamente, anzi, nel modo più aperto che gli fosse possibile. Sì, davvero, sapeva perfettamente perché Sua Grazia stesse facendo quella proposta, e perché proprio in quel momento! Sarebbe stato davvero generoso da parte sua agire non appena l’oggetto in questione era tornato dall’esposizione, o addirittura prima ancora; ma lui aveva viaggiato, era arrivato a Londra solo la sera precedente e aveva appreso solo allora la notizia che Verecundia fosse interessata a quel “capolavoro”. Non aveva perso tempo: aveva scritto subito e spedito la lettera prima di mezzanotte.
+
+Quindi era quel vecchio gioco di “sputare addosso a Vurry”! Proprio quello che Hardham aveva fatto due anni fa con la Villa, e aveva cercato di fare anche con quel foglio all’asta di Christie’s. Henry Bensington si alzò in piedi, come faceva sempre quando il suo spirito si agitava, e iniziò a camminare avanti e indietro nella stanza.
+
+Era sbalorditivo, pensò, e quel sorriso tornò mentre rifletteva su quanto l’umanità fosse disposta a pagare per i propri vizi. Aveva già calcolato che Verecundia potesse essere “spremuta” per ottenere quasi ventimila, di certo più di quindici. E ora ecco quel miserabile individuo, Hardham, che entrava nel mercato con i suoi milioni. Davvero, poteva fare ciò che voleva!
+
+Suonava assurdo; era davvero assurdo. Ma giurò sulla propria anima che avrebbe potuto guadagnare 20.000 sterline per quella cosa orribile, se avesse giocato le sue carte nel modo giusto. E credetemi, lui sapeva come farlo!
+
+Dopo che tutte queste cose erano accadute tra Henry Bensington e la sua grande anima interiore, si sedette e scrisse, prima una bozza approssimativa a titolo di memoria, e poi, con la sua stessa mano e su carta di ottima qualità, la risposta estremamente breve che era necessaria.
+
+“Mio caro Hardy, ho ricevuto la tua lettera, ma ho anche cattive notizie per te. L’oggetto è stato rubato. La perdita è stata scoperta stamattina, da me, quando ho aperto la cassaforte. Forse potrà essere recuperato, non lo so. Secondo la mia esperienza, in furti di questo tipo o si trova subito, oppure mai. Ma ti terrò aggiornato. Nel frattempo, naturalmente, dovrò informare la nostra “Amica Comune”. Dal tuo messaggio capisco che sai già che lei è interessata a quell’oggetto. Ho indovinato? Sì.”
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="The Missing Masterpiece — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/greed,concept/money_and_avarice,concept/satire_of_society,form/satire,setting/london"></span>
@@ -3666,6 +4490,72 @@ It was a good half hour before Verecundia could be handed, with infinite pains, 
 
 After the long rest which such violent emotions needed, she did at last receive a note from Bensington which helped to support her spirit. It was very well put. It did not commit him, and it was friendly. It even went so far as to apologize for his apparent lack of sympathy: “He had trained himself not to show such things, but she must understand that he had been terribly hard hit. He had a devotion for that picture which went to the very roots of his soul — and she must remember that he had known Bourrot, and had sat by him while he was dying.” The missive ended with the assurance that if ever it were recovered, he would remember her figure, and discuss it with her. And he oddly used the words: “respectful assurances” before he signed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Il tuo.”
+
+“Harry”.
+
+Poi suonò la campanella e fece immediatamente distribuire la lettera, dando istruzioni al suo messaggero di consegnarla personalmente al Duca.
+
+Nessuna di queste istruzioni fu ignorata o eseguita in ritardo. Erano passati undici minuti alle dieci quando il messaggero di Henry Bensington consegnò l’oggetto, come gli era stato ordinato, nella splendida suite Caterina II del Palazzo Plantagenet, e vide che veniva preso in consegna da quella figura alta e piuttosto minacciosa che, al momento della ricezione, indossava soltanto le maniche della camicia. Quella persona non aveva ancora fatto colazione. Alle dieci meno dieci, la porta fu nuovamente chiusa a chiave.
+
+Erano circa nove minuti e mezzo alle dieci quando il messaggero di Bensington, che aspettava vicino all’ascensore nel corridoio, sentì una risata fragorosa, esultante, assordante, provenire dall’appartamento così opportunamente chiamato in onore della Semiramide del Nord. Quel rumore era il segno che il Duca de Emonsillado y Palomar y Manuada stava godendo di un’immensa gioia olimpica. Con il pugno destro stretto sulla lettera che aveva appena letto, e il braccio sinistro che sventolava trionfante nell’aria, continuò a gridare tra le sue esclamazioni di felicità.
+
+“Ah, bravo Vurry! Ah, davvero, davvero bravo per il piccolo Vurry… Perdita? Ah, troppo bello per essere vero…”
+
+E con l'altra mano, che ancora stringeva il messaggio accartocciato, si diede delle pacche di gioia. “Dio mio! Darei qualunque cosa per vedere la sua faccia, quando lo scoprirà, ”
+
+È davvero vero che piacere e dolore sono relativi, e ciò che causa sofferenza a uno può portare gioia a un altro (Marco Aurelio). Sua Grazia, senza alcuna esitazione, si sedette a colazione con una grazia insolita per lui. Era preoccupato fin dall’ora precedente, quando aveva saputo che quella calunniosa Verecundia era ansiosa di ottenere quel “Capolavoro”; si chiedeva se fosse riuscito ad entrare in contatto con lei in tempo. Ora la ragazza era al sicuro, e non gli era costato nemmeno un centesimo! Ma non c’era tempo da perdere: ogni minuto contava. Si alzò di scatto dal tavolo della colazione (sperando solo di potersi fidare del telefono) e scrisse velocemente questa frase:
+
+“Se lo trovo, lo compro al tuo prezzo. Inteso?”
+
+Lo mise dentro la busta e lo inviò immediatamente al Maestro dell’Arte Moderna; quest’ultimo, nella sua studio, lesse quella breve frase tre volte, sorrise di nuovo con lo stesso sorriso, e poi la chiuse insieme alle altre in un piccolo cassetto privato della sua scrivania.
+
+* * * * *
+
+Non erano ancora le venti e tre di quel pomeriggio quando gli dissero che Lady Norbolt e un'amica volevano vederlo. Guardò l'orologio. Sorrise, quel suo sorriso tipico. Erano dieci minuti prima dell’ora più presto che aveva suggerito. Che forza motrice doveva possedere una donna per essere così puntuale!
+
+Verecundia e Ardee entrarono. Lui si alzò per accoglierli, e poi, anche se loro erano ancora davanti a lui, si concesse il gesto insolito di sedersi di nuovo prima che lo facessero loro. Dispose alcuni fogli sulla sua scrivania, e su di essi tracciò con la penna alcune cifre e uno o due segni senza significato.
+
+Sapeva esattamente cosa stava facendo. L’atteggiamento influisce sulle trattative commerciali, e esiste un certo tipo di comportamento volgare che permette di ottenere il meglio in una negoziazione. Inoltre, l’idea che si possa dominare l’avversario semplicemente stando dritti in piedi è pura sciocchezza obsoleta. Se sei un’azienda importante, ti siedi alla tua scrivania, che rappresenta il tuo trono del potere.
+
+A Verecundia non piaceva, ma non era venuta per litigare, era venuta per affrontare la questione direttamente; e anche se il suo viso si arrossì per quella scortesia, ingoiò il proprio orgoglio, eliminò tutte le fronzoli e andò subito al dunque.
+
+“Sono venuto a farvi questa proposta, signor Henry, come sapete, e ho già preso una decisione al riguardo.”
+
+Continuò a scrivere senza scopo con la matita sul foglio davanti a lui, disegnando iniziali e annotando numeri. I suoi occhi, rivolti verso il basso, non incrociarono i suoi; così, la ferma determinazione che lei mostrava andò sprecata.
+
+“Non voglio perdere tempo,” disse con decisione. “E non voglio discutere. Non servirà a nulla discutere. Sono venuta per farti un’offerta seria: 20.000 sterline.” Fece segno ad Ardee di darle la borsa. “E per favore, lasciami pagare subito.”
+
+Henry Bensington continuò a disegnare sul foglio con la matita. Poi lasciò cadere la matita, appoggiò i gomiti sulla scrivania, incrociò le mani, alzò lo sguardo verso il suo viso e scosse la testa.
+
+“Non lo farai, ” iniziò lei, quasi con passione.
+
+“Non è per questo, Lady Norbolt,” rispose lui in silenzio. “È qualcosa di peggio. Il ‘Ame Bourgeois’ è scomparso. È stato rubato, ”
+
+Diventò molto pallida; emise un respiro affannoso, piuttosto scioccante. Non si rendeva nemmeno conto di quanto fosse sotto tensione in quel momento.
+
+“. E per quanto ne so riguardo a queste cose,” continuò, con la stessa voce ferma, “temo che non possiamo rivederla più.”
+
+Fu allora che, con un terribile gemito, Verecundia, Quindicesima Marchesa di Norbolt, Ventunesima Contessa di Pulborough, e chissà quale altra baronessa, svenne tra le braccia del suo caro protetto.
+
+“Oh, Signor Henry, come avete potuto?” singhiozzò povera Ardee, cercando in tutti i modi di sostenere quel notevole peso e barcollando verso una sedia vicina. “Verecundia, cara, adorata Verecundia, ”
+
+“Mi dispiace, signorina Walburton,” disse Henry Bensington, con decisione, a voce moderata e rimanendo seduto. “Non è colpa mia. Sono io ad avere qualcosa da perdere in questa situazione. E è meglio comunicare notizie del genere subito, senza indugi.”
+
+Poi si alzò, non troppo in fretta, andò da loro e li aiutò ad adagiare quella bellezza dei Mari del Sud, ormai appena rinvenuta, sul divano dell’Impero, sotto il piccolo dipinto di Corot. Gli occhi scuri e belli di Verecundia si aprirono lentamente; tutto le tornò in mente. Chiese del brandy. Le fu portato subito. E poi seguì un fiume di lacrime.
+
+“Ahimè, signor Henry…”, gridò lei, “Signor Henry!”
+
+“Non potete essere più tristi di me, Lady Norbolt,” disse il Maestro con amarezza. “È tutto finito.”
+
+* * * * *
+
+Passarono ben trenta minuti prima che Verecundia potesse essere fatta scendere, con infinite difficoltà: da un lato c'era Ardee, dall'altro Henry Bensington; la governante sosteneva la parte posteriore. Scesero i piuttosto ripidi gradini di quella famosa casetta, attraversarono il corridoio, evitarono il negozio e salirono nella sua auto, con quel grazioso stemma sul tetto. Lì fu fatta accomodare con tutta la cerimonia dovuta al suo rango, e anche molto di più, considerando i suoi milioni. E così l’operazione si concluse.
+
+Dopo il lungo riposo di cui avevano bisogno tali emozioni violente, finalmente ricevette una lettera da Bensington che le aiutò a rafforzare il suo spirito. Era scritta in modo molto appropriato: non lo impegnava in alcun modo e aveva un tono cordiale. Arrivava persino al punto di scusarsi per la sua apparente mancanza di compassione: “Si era allenato a non mostrare simili sentimenti, ma lei doveva capire che aveva subito un colpo terribile. Provava una devozione per quel dipinto che andava fino alle radici della sua anima. E doveva ricordare che aveva conosciuto Bourrot e gli era stato accanto mentre moriva.” La lettera terminava con l’assicurazione che, se mai il dipinto fosse stato ritrovato, lui si sarebbe ricordato di lei e ne avrebbe discusso con lei. Stranamente, prima di firmare aveva usato le parole: “affettuose scuse”.
 
 
 
@@ -3746,6 +4636,82 @@ He glared with glassy eyes for a full minute as he leant thus, propped up agains
 
 Bruised, weeping, in the last stages, he staggered up those dirty stone stairs, gripping the iron rail and remembering dully that it was his bounden duty to lock his door. He snapped the key, fell upon his dishevelled bed, and fell into oblivion. In that best of states I leave him, to return to a wealthier and therefore a better world.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IX
+
+Ricorderai, lettore, che se quella tua deliziosa testa coperta di tegole non è una “Tête Linotte”, allora, in quella sera in cui Verecundia stava consultandosi con le sue due devote amiche, Chas. Goatcher era uscito, con l’ordine perentorio di comportarsi allegramente, di fischiare e persino di canticchiare.
+
+Che fosse allegro o meno, il suo padrone non lo avrebbe mai saputo. Ma suonò un paio di note malinconiche e mormorò qualcosa, finché non raggiunse l’angolo della strada. Una volta libero, un solo pensiero dominava la sua mente: tornare nel suo misero abbaino, riporre l’oggetto sigillato che teneva sotto il braccio, e poi, per amor di Dio, bere qualcosa! Ricordava bene (poiché la sua mente era lucida) che entro le cinque del giorno seguente doveva telefonare al suo padrone per assicurargli che tutto fosse al sicuro, chiuso a chiave.
+
+È stato davvero un grande peccato da parte di Bensington tenerlo bloccato così a lungo! Era una violazione di un accordo implicito tra loro – un accordo non esplicitamente stipulato ma considerato scontato – secondo cui doveva sempre essere rilasciato prima che aprissero i pub. Eppure eccolo lì, con i pub aperti da ormai mezz’ora e più, e ancora in attesa, nella disperazione. Si affrettò ad andare avanti.
+
+Il pacco che aveva sotto il braccio non era molto pesante, ma sembrava diventare sempre più ingombrante ad ogni passo. A quel punto si trovava già a est di St. Martin’s Lane. Riuscì a mantenere il controllo per un po’ lungo Long Acre, poi perse la presa. Comunque fosse, era colpa di Bensington. Avrebbe potuto semplicemente prenderne uno solo. Uno solo non gli avrebbe fatto male! Poi sarebbe andato a chiudere a chiave quella cosa orribile, e dopo sarebbe uscito di nuovo per prendersi la sua solita dose.
+
+Ma perché dovrebbe aspettare proprio quell’“Uno Solo”?. Stava per svenire. Inoltre, doveva assolutamente averlo. Si diresse verso il primo bar che incontrò e lo prese. Ecco, così era meglio! Ne voleva un altro. No, non poteva indugiare. Non importava, uno valeva l’altro. Guardò il pacchetto sotto il braccio, poi lo toccò, stupidamente, per assicurarsi che fosse ancora lì, e continuò ad andare.
+
+Ma il problema era che quella prima bevanda non era stata affatto sufficiente; anzi, pensò, sarebbe stato meglio non berla affatto piuttosto che compromettersi in quel modo. Aveva bisogno di una vera bevanda forte. Poi avrebbe continuato con i suoi compiti e chiuso a chiave quella cosa orribile (il braccio cominciava a dolergli, e la spalla gli faceva sempre male da quando aveva avuto quell’episodio di febbre reumatica anni prima, ). Sì, ne avrebbe bevuta un’altra, una buona. E poi per un po’ non ne avrebbe più avuto bisogno. In questo modo sarebbe stato sicuro di averla chiusa al sicuro e di poter passare la serata liberamente. Ed era proprio quello che voleva.
+
+Andò verso il prossimo che apparve; ottenne due risultati piuttosto soddisfacenti nel doppio, e poi altri due ancora. Si sedette di nuovo a giocare. Gli fece sentire più rispettabile e sicuro di sé. E in fondo, non gli aveva mai fatto del male. La verità era (si disse Chas. Goatcher) che questo genere di cose non gli avevano mai causato alcun danno. Riusciva a gestirle. Si sentiva davvero più se stesso. Andiamo avanti.
+
+Si stiracchiò, tirò un po' fuori le sue basette su entrambi i lati, spostò leggermente il ciuffo di capelli verso un orecchio. Era meraviglioso sentirsi di nuovo se stesso! Non era del tutto sicuro del motivo per cui si era sentito diverso, ma ricordava Bensington e come fosse stato bullizzato.
+
+Poi la sua mente tornò improvvisamente alle istruzioni che aveva ricevuto. Afferrò nervosamente il pacco che aveva sotto il braccio e si assicurò che fosse ancora lì. Cosa c’entrasse lui con quel pacco? Beh, ovviamente doveva portarlo nella sua stanza e chiuderlo a chiave. Se lo ricordava tutto. E poi aveva ancora molto tempo davanti a sé; il giorno dopo avrebbe dovuto fare qualcos’altro. Non riusciva proprio a ricordare di cosa si trattasse, ma gli sarebbe venuto in mente dopo aver dormito un po’. Comunque, il pacco era al sicuro, anche se era maledettamente pesante. E tutto ciò che doveva fare era portarlo nella sua stanza, la sua stanza, insomma, sì, proprio la sua stanza. Quelle erano le istruzioni: chiuderlo a chiave, per paura che scappasse via. Rise da solo all’idea ridicola di un pacco che scappa. Ahah!
+
+Quando uscì da quel secondo pub, era diventato un vero diavolo, e riprese il cammino.
+
+Pensò che un piccolo vicolo a destra potesse essere una scorciatoia. Ma scoprì che era inaccessibile. Tornò indietro e prese un’altra direzione. Si perse completamente. Appoggiò le spalle a delle ringhiere di ferro e, in modo stupido, iniziò a pensare al suo pacco: doveva portarlo nella sua stanza. L’indirizzo? Lo conosceva bene: 5 Munning’s Rents, ultimo piano, sotto il tetto, che perdeva. Ma non stava piovendo, quindi andava tutto bene. Doveva trovare il modo di arrivare a Munning’s Rents. Non potevano essere molto lontani.
+
+Un piccolo ma ben attrezzato pub si trovava sotto un brillante lampione ad arco, di fronte all’ingresso del vicolo stretto da cui lui era uscito per immettersi nella strada principale. Sopra di esso, in caratteri eleganti e luminosi, era scritto il nome di quel locale ospitale: “The Butcher’s Arms”. Sicuramente in un posto così prestigioso avrebbero saputo tutto ciò che c’era da sapere su Londra, e avrebbero potuto indicargli facilmente dove trovare Munning’s Rents. O forse qualcuno all’interno poteva aiutarlo. Comunque fosse, sarebbe entrato. E così fece.
+
+C'era una folla piuttosto numerosa nel bar del quartiere; da molti anni le finanze di Chas Goatcher non gli permettevano di frequentare altri locali. Riuscì a infilarsi tra la folla e, per sua fortuna, trovò un banco proprio all'angolo del bar. Tutti gli altri erano in piedi, quindi quel banco era rimasto inutilizzato. Ed ecco perché ebbe questa fortuna.
+
+Il fardello gli cadde di sotto il braccio. E che sollievo per quel braccio, liberato da quel peso! Si strofinò la spalla. Poi gli venne in mente una necessità urgente. Barcollò in piedi, si fece strada tra la folla di uomini che bevevano e alcune donne che parlavano troppo ad alta voce, raggiunse il bancone e ordinò due drink. Dovette ripetere l’ordine due volte. Gli dispiaceva notare che quella donna sembrava sorda. Alla fine riuscì a ottenere ciò che voleva e iniziò a bere lentamente, con aria cupa. Era un’abitudine del povero Goatcher: quando ancora si chiamava Maltaine, durante le sue ubriachezze passava dall’euforia ai dubbi sulla bontà del mondo. E ora era proprio in quella fase di dubbio. Stava mettendo in discussione la virtù umana. Iniziava a detestare i suoi simili. Di solito questa era l’ultima fase prima che si addormentasse. La fase intermedia poteva essere rappresentata da lacrime sentimentali o da comportamenti gentili e premurosi. Ma lui, in quel momento, era immerso nella fase più aggressiva di quelle sue crisi, “Perché il mondo è mio nemico?”
+
+I suoi occhi incerti e acquosi si fissarono su un uomo che aveva un pacco quadrato sotto il braccio, avvolto nel giornale. Quell’uomo stava parlando con fervore; era un uomo di parole.
+
+Il signor Goatcher lo osservava con un vago sospetto. A volte sembrava dividersi in due persone, per poi ricomporsi di nuovo in una sola. Solo questo era già sospetto.
+
+L’uomo con il pacco sotto il braccio si rivolgeva davvero al proprio gruppo, ma anche all’universo intero; dalle sue labbra uscirono parole fatali. Erano queste:
+
+“E se un uomo avesse scontato una pena detentiva? Non dico che non ci siano persone che meritano di scontarla o altre che invece no. Quello che voglio chiedere è: e se un uomo avesse già scontato una pena?”
+
+La domanda era retorica e fu enfatizzata da un gesto della mano che non stava facendo nulla. Un sospetto più profondo iniziò a prendere forma nella mente confusa dell’agente personale di Sir Henry. Lui lanciò uno sguardo cupo all’oratore e si avvicinò lentamente a lui.
+
+Fate, sempre all’erta, aggiunse un altro piccolo elemento al suo dramma. Fece sì che il retore gettasse uno sguardo vago verso il signor Goatcher; e in quel momento, questi chiese ancora una volta alla giustizia universale e agli Dei: “E se un uomo avesse già scontato la sua pena?”
+
+Il signor Goatcher tremava; gli rimaneva abbastanza buon senso per ricordare che quella era la sua terza taverna. Ricordava anche, con estrema chiarezza, una commissione da svolgere, un pacco avvolto in giornali. Dovrebbe essere sotto il suo braccio, un pacco quadrato. Ma non c’era. E qualcuno lo stava insultando. Si premette il gomito sulle costole per assicurarsi che davvero non ci fosse nulla sotto il braccio; poi si batté il braccio sul lato esterno, per essere ancora più sicuro. Barcollò in avanti e notò il pacco sotto il braccio di quell’individuo odioso che aveva parlato di finire in prigione. E allora disse, improvvisamente e sorprendentemente ad alta voce: “Hai il mio pacco.”
+
+“Cosa stai dicendo?” esclamò l’oratore, sorpreso.
+
+“Mie. Non so nemmeno come si chiama. Quella cosa che hai sotto il braccio. È mia.” E il signor Goatcher cercò di afferrarla.
+
+#"Lascia stare quella cosa!"
+
+“Yus, lascialo in pace! Che cosa stai facendo?” disse una terza persona che non aveva nulla a che fare con quel problema.
+
+“Non ce la fai più, Bill,” disse un quarto, che voleva vedere dello spettacolo.
+
+Chas. Goatcher inclinò ulteriormente il cappello da un lato, gonfio di amore per la giustizia.
+
+“L’unica cosa che chiedo, è la mia pelle,” gridò. “Non spetta a te decidere, ma a me. Voglio indietro la mia pelle. L’ho ottenuta. Per ordine mio. Dammela immediatamente!”
+
+Un grande terrore aveva invaso lo spirito del suo avversario. Per dirvi la pura verità (e non c’è motivo che io non lo faccia), quel pacchetto che portava sotto il braccio, avvolto in giornale, era in realtà un vassoio d’argento, che gli era stato consegnato con cura da uno scaffale vicino a una finestra aperta. Fortunatamente, poco prima quella sera aveva avuto l’opportunità di passare da lì. Bill, quell’oratore che in una posizione sociale più elevata avrebbe potuto occupare un posto di rilievo nel mondo finanziario, non esitò un attimo: lo afferrò prima ancora che qualcuno potesse dire “Fermalo!”. Lo avvolse in un pezzo di giornale trovato per strada, se ne andò senza fretta, ma con decisione. Poi comprò un altro giornale e sistemò tutto in modo sicuro. Ora dovete sapere che Bill aveva tutte le condizioni favorevoli per gestire oggetti d’argento: suo cognato, a cui era molto legato (e l’affetto era reciproco), lavorava nel settore della fusione e possedeva un crogiolo personale. Quel vassoio gli avrebbe fruttato cinque fiorini. Cinque fiorini rappresentavano davvero una bella somma, in quel momento.
+
+Ma in quel momento non aveva alcun desiderio che quel vassoio venisse esaminato. Spinse via Chas. Goatcher.
+
+“Non spingermi”, disse Chas. Goatcher con ferocia. “Restituiscimi il pacco!”
+
+In risposta, Bill all’improvviso si infilò nella folla, attraversò le porte a battenti con il suo pacco di carta sotto il braccio e fuggì lungo la strada.
+
+Chas. Goatcher (che strani effetti ha il Dio di Lenea, ) avrebbe avuto difficoltà a seguirlo prima di quell’ultimo bicchiere, ma ora non ne aveva affatto. Proseguiva con entusiasmo. Un uomo ansioso lo precedeva, ma uno ancora più desideroso lo seguiva. Inutilmente la preda cercava di girarsi e cambiare direzione: la caccia la seguiva in ogni movimento. Quando, proprio mentre l’uomo carico cominciava a sentire il peso opprimente e la mano del inseguitore era quasi riuscita ad afferrare il colletto del fuggitivo, Chas. Goatcher inciampò e cadde dritto sulle spietate pietre di Londra.
+
+Si alzò barcollando, si accorse che il sangue usciva dal suo naso, imbrattava i suoi vestiti e alcune gocce cadevano sul marciapiede. Si appoggiò al muro e iniziò a piangere silenziosamente; era arrivato il momento del dolore più profondo. Piangeva tra sé, senza che nessuno potesse sentire. “Questa volta è omicidio! Omicidio. Non c’è fine a tutto questo, ”
+
+Rimase a fissare con occhi vitrei per un intero minuto, appoggiato al muro, di fronte a un grande annuncio illuminato da un arco elettrico che lo invitava ad iscriversi al fondo della Duchessa per i disoccupati. Quell’annuncio gli sembrava vagamente familiare. Eureka! Era arrivato all’angolo di Munning’s Rents.
+
+Con il corpo ammaccato e in lacrime, nelle fasi finali della sua vita, barcollò su quei gradini di pietra sporchi, aggrappandosi alla ringhiera di ferro e ricordando, con distacco, che era suo dovere assoluto chiudere a chiave la porta. Girò la chiave, cadde sul suo letto disordinato e perse i sensi. Lo lascio in questo stato, pronto a tornare in un mondo più ricco e quindi migliore.
 
 
 
@@ -3829,6 +4795,84 @@ Appleton would take with him the same painter’s kit as he had taken last time,
 It was a good plan of campaign. I can’t remember whether I have said it before, but if I did I can say it again — it will do no one any harm. There was something Napoleonic about Henry Bensington, and, as you shall hear, he brought it off; but like his great prototype the Corsican, not quite in the fashion he had intended.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO X
+
+Il giorno dopo aver dato ordini a Mr. Goatcher e aver provato quella triste delusione riguardo a Lady Norbolt, Sir Henry Bensington entrò nel suo ufficio molto tardi, dopo essersi trattenuto troppo a pranzo con Lord Birmingham al Ritz. Lord Birmingham aveva già sentito la notizia: infatti, il piccolo Ardee l’aveva raccontata a Elless, che a sua volta l’aveva riferita alla duchessa madre, che poi l’aveva detto a Smithson, che l’aveva comunicato al autista, che a sua volta ne aveva parlato all’autista di Lord Birmingham, il quale finalmente ne era venuto a conoscenza, perché Lord Birmingham amava sempre ascoltare queste piccole storie divertenti. Infatti, aveva già iniziato a parlarne.
+
+“Strana cosa, mio signore, riguardo al ritratto di Sir Henry, ” Lord Birmingham era davvero divertito e mormorò: “Che furbo diavolo!” Mentre tornava a casa dopo pranzo, si chiese se non dovesse provare a occuparsi del caso. E si divertì ancora di più che mai.
+
+Ma con Sir Henry Bensington era comprensivo e affascinante. Andò a un appuntamento pomeridiano, mentre Bensington tornò alle sue faccende, comprando lungo la strada il giornale serale di Holloway.
+
+Holloway aveva fatto molto bene. Aveva seguito esattamente le loro istruzioni. Tutto era andato come previsto. C'era stata la avvertenza, anch'essa concordata in anticipo, riguardo al fatto che purtroppo non esistesse alcuna fotografia dell’opera in questione, il che rendeva ancora più difficile rintracciarla. Si fermò un attimo per comprare il giornale serale di Borstal. Borstal era stato addirittura ancora più premuroso: aveva fatto in modo che la notizia sembrasse riguardare una guerra europea o un caso di omicidio. E poiché non c’era alcuna fotografia dell’opera, al suo posto era stata pubblicata una foto di Sir Henry Bensington, scattata trent’anni prima e che lo ritraeva con orgoglio.
+
+Aspettò nel suo ufficio fino alle cinque in punto. Tutto andava bene, e tutto sarebbe continuato ad andare bene. Con una puntualità tipica solo di persone ben addestrate e sfortunate, Chas Goatcher non lo avrebbe deluso. Non l’aveva mai fatto finora. Erano le cinque e dieci, nessuna chiamata telefonica. Henry Bensington iniziò a considerare varie possibilità: forse Goatcher era stato attaccato? Rapito? Forse aveva portato via il tesoro per puro capriccio? No, non poteva essere così stupido. Lo avrebbero catturato subito!
+
+* * * * *
+
+Le cinque e mezza, nessun messaggio. Questo era serio. In tutti questi anni, Chas. Goatcher non aveva mai mancato. Era sempre assolutamente certo del momento giusto, prima di quel suo “momento autorizzato” di indulgenza. Eppure, si sa mai.
+
+Henry Bensington aspettò fino a che non suonarono le sei e mezza. A quel punto prese una decisione: questa volta non avrebbe utilizzato l’auto. Si mise un cappello morbido che gli copriva bene gli occhi, si alzò il bavero del cappotto e andò alla stazione della metropolitana di Dover Street. Poi proseguì fino alla stazione di Holborn e da lì raggiunse Munning’s Rents. Salì quei gradini di pietra luridi. Conosceva bene la strada; l’aveva percorsa una o due volte in precedenza. Al sesto piano, davanti alla porta aperta di Goatcher – dalla quale si poteva vedere quel letto disfatto – c’era quella donna arrabbiata, la custode dell’appartamento.
+
+“Se state cercando quell’uomo, Goatcher, è già andato via,” fu tutto ciò che disse.
+
+“Come dici… sparito?”
+
+“Quello che dico… beh, non so chi tu possa essere; non ti ho mai visto da queste parti prima.”
+
+“Sono io l’uomo che vi invia l’affitto,” disse Henry Bensington in tono tranquillo. “Povero signor Goatcher, è una persona che dipende da me.”
+
+Questo non la consolò molto.
+
+“Beh, puoi darmi l’affitto adesso,” disse lei in tono di sfida. “Perché ‘e’ ha preso tutto quello che aveva, anche se non era molto! Deve averne guadagnato un sacco. C’era una camicia, due paia di calze, per quel che ne so, e un paio di scarpe. Oh, ‘e’ se l’è cavata davvero bene! Ma non ha preso nulla che non fosse suo.”
+
+Henry Bensington pagò l'affitto in silenzio, senza dire una parola.
+
+“Non riesci proprio a darmi nessuna indicazione?” disse, fissandola con i suoi occhi intensi. “Non conosci le sue abitudini? Non sai dove potrebbe essere?”
+
+Scosse la testa mentre avvolgeva con cura quei pochi scellini in un fazzoletto logoro, e infilò il pacchetto nella tasca del grembiule.
+
+Henry Bensington, per istinto, tirò fuori il portafoglio, ma poi, dopo un attimo di riflessione, lo rimise dentro. Non avrebbe mai funzionato!
+
+“Beh,” disse, “non vi chiedo di andare dalla polizia o nulla del genere.”
+
+“Non voglio avere nulla a che fare con quella perla!” disse la donna in tono cupo.
+
+Henry Bensington se ne andò senza dire una parola in più, scendendo quei gradini di pietra in silenzio; lei lo osservava mentre si chiedeva quale fosse il rischio maggiore: affrontare un uomo che sembrava così benestante, o correre il pericolo di essere sottoposta a indagini della polizia. Alla fine decise di non fare nulla. Aspettò fino a quando non sentì i suoi passi allontanarsi attraverso l’arco del cortile buio, poi tornò nella sua tana.
+
+* * * *
+
+A circa centocinquanta metri da “Munning’s Rents”, e forse duecento metri dalla stazione della metropolitana, il lavoro del cervello di Sir Henry Bensington raggiunse la sua conclusione.
+
+Ora tutto gli era chiaro: era stato Delgairn!
+
+C'era solo una persona al mondo che desiderava ardentemente possedere quella foto personale per sé stesso; non per mostrarla, né per venderla, ma semplicemente per tenerla con sé in segreto. Bensington conosceva abbastanza il cuore umano da capire con quanta violenza quel desiderio potesse essere frustrato.
+
+La sua opinione su Delgairn migliorò. Non avrebbe mai pensato che quel giovane ne avesse le capacità. Per Dio. Dev’essere stato lui ad aver fatto sorvegliare tutti! Nonostante la grave agitazione, il commerciante d’arte scoppiò davvero a ridere. La sua natura apprezza un avversario degno del suo spirito combattivo.
+
+Beh, ora che aveva risolto l’enigma – e quanto fosse semplice in realtà – sapeva che la risposta è sempre semplice quando finalmente si trova; se n’era sempre reso conto. Ora il suo cammino era chiaro. Non doveva affrettarsi troppo: doveva riflettere attentamente sulle sue strategie e pianificare tutto con cura.
+
+Invece di prendere la metropolitana, tornò a piedi per tutto il tragitto, lentamente, attraverso la sera, riflettendo attentamente su ogni dettaglio dei passi successivi da compiere.
+
+Deve trovare in qualche modo i dettagli riguardanti la North Merton House, oppure scoprire in quale luogo Delgairn potesse averla nascosta. Potrebbero esserci diversi nascondigli, probabilmente più di uno. Forse non si trova nemmeno nella North Merton House: potrebbe essere con un parente o un amico fedele al complotto.
+
+Poi a Bensington venne in mente un altro aspetto: se volevano portare a termine il lavoro in tempi ragionevoli, più persone fossero coinvolte, meglio sarebbe stato, ma allo stesso tempo, più persone fossero coinvolte, maggiori erano le possibilità che venissero tradite.
+
+Aveva due agenti su cui poteva fare affidamento per un lavoro del genere; li avrebbe messi all’opera e loro avrebbero dovuto approcciarsi a North Merton nel modo che lui stesso avrebbe stabilito.
+
+C'era Appleton, che aveva assunto dalle Forze Regolari con uno stipendio molto buono, e che soltanto sei mesi prima aveva svolto un lavoro eccellente nel caso della Miniatura Russa. Allora era stato ben retribuito, oltre allo stipendio regolare, e ora gli avrebbe offerto anche un ottimo bonus. Sarebbe stato compito suo occuparsi del villaggio e scoprire, con quell’approccio efficace, cosa si potesse ancora fare riguardo a quel Capolavoro.
+
+Poi c'era Ranford: non altrettanto abile, ma più bravo nel gestire le faccende domestiche di una casa. Aveva lavorato due volte, e entrambe le volte con successo. Anzi, aveva svolto il ruolo di valletto così bene che Henry Bensington non avrebbe mai dubitato che avesse iniziato la sua carriera proprio come valletto, prima di raggiungere le posizioni professionali più elevate in cui si trovava ora.
+
+Sì, era proprio quello! Ranford doveva entrare in casa, mentre Appleton doveva rimanere all’ostello. Appleton poteva diventare un pittore e soggiornare nell’ostello, mentre Ranford, in qualche modo, avrebbe dovuto trovare rifugio sotto il tetto del giovane signorotto. Era possibile farlo. Quello che avrebbe fatto subito era riunire Appleton e Ranford quella stessa notte e esporre loro il piano d’azione.
+
+E così fece: Appleton, tranquillo, gentiluomo, un uomo con un bel accento e modi raffinati e riservati; Ranford, elegante, onesto, ben curato. A entrambi furono dati gli ordini e tutta la situazione fu spiegata loro francamente e in modo completo. Gli vennero forniti fondi sufficienti, perché Henry Bensington sapeva, grazie alla sua lunga esperienza, di poter fidarsi ciecamente di entrambi. Dopo aver pranzato a North Merton, aveva notato un uomo molto utile: a volte lo assumevano quando avevano ospiti. Lo chiamavano Joseph, anche se il suo vero nome era Joe. Bisognava corromperlo affinché facesse ammalare improvvisamente un parente di Henry Bensington e consigliasse Ranford per qualche giorno al suo posto; inoltre, Joseph garantiva che Ranford fosse una persona molto affidabile, essendo un vecchio e conosciuto amico.
+
+Appleton avrebbe portato con sé lo stesso set di attrezzi da pittore che aveva usato l’ultima volta, quando aveva lavorato a Huntingdonshire, e avrebbe prenotato delle stanze all’albergo Delgairn Arms non appena avesse ricevuto notizie da Ranford riguardo al completamento dei preparativi per assumere il posto del manovale. Per evitare sospetti, sarebbe stato meglio che arrivasse all’albergo Delgairn Arms dopo che Ranford si fosse sistemato a dovere nella grande casa.
+
+Era un buon piano di campagna. Non ricordo se l’abbia già detto prima, ma se l’ho fatto posso ripeterlo: non farà del male a nessuno. C’era qualcosa di napoleonico in Henry Bensington, e, come sentirete, ci riuscì; ma, proprio come il suo grande modello, il corsoano, non esattamente nel modo che aveva previsto.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="The Missing Masterpiece — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/paris"></span>
@@ -3863,6 +4907,36 @@ Not so Signor Alessandria. He in his rooms, being of a lithe habit of body (and 
 The result was the same. For each of these gentlemen, though their methods of staff work differed, was already possessed of the elements of the situation, and each of them enjoyed a brain rapid and acute: M. Henri Caen the logical, vivid but restrained brain of the Gaul, Signor Alessandria the logical, vivid, but restrained brain for which the Maltese are famous.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XI
+
+Ci sono due uomini che lo stesso Charles Grant McCabe ha definito “i migliori fotografi del continente europeo”. Ha usato il termine “continente”, perché senza dubbio nelle Isole Britanniche Henry Bensington era il maestro di tutti. Questi due uomini sono il signor Henri Caen di [[Paris|Parigi]] e Mes Loisirs (una incantevole villa non lontano da Mentone), nonché il signor Carlo Alessandria, che, per quanto riguarda i luoghi in cui soggiorna, potrebbe essere ovunque; ma generalmente si trova all’Ritz Hotel di Madrid, all’Ritz Hotel di [[Paris|Parigi]], all’Ritz Hotel di Londra, all’Ritz Hotel di New York, e, forse, anche all’Ritz Hotel di Roma – se ne esiste uno; me lo sono dimenticato.
+
+Il signor Henri Caen è così benestante che possiede una proprietà in Inghilterra dove si ritira ogni volta che ci onora con la sua visita. Si tratta di una casetta chiamata “The Thatch”, situata vicino a Winchester. Non se ne vanta affatto; ci va semplicemente per riposare. La sua corrispondenza, invece, non lo segue lì.
+
+Anche il signor Alessandria possiede una proprietà in Inghilterra; si tratta di una piccola casa vicino a Battle, chiamata The Postern, la cui arredazione riproduce meravigliosamente gli stili del XV secolo. Lui non ne fa mai vanto; ci va soltanto per riposare. La sua corrispondenza, invece, non lo segue lì.
+
+È una testimonianza dell’universalità del genio il fatto che questi due grandi uomini siano nati da origini così completamente diverse. Monsieur Henri Caen, sebbene sia effettivamente nato a Vienna, dove i suoi genitori si trovavano in quel periodo (e dove, durante la sua infanzia, acquisì il vantaggio inestimabile di parlare il tedesco), fu cresciuto dai suoi genitori da quindici a ventidue anni a [[Paris|Parigi]]. A quell’età di ventidue anni intraprese con coraggio la carriera che lo rese, agli occhi di migliaia di persone oltre a Monsieur McCabe, meritatamente famoso.
+
+D'altra parte, il signor Alessandria nacque, tra tutti i luoghi del mondo, a Smirne, dove i suoi genitori risiedevano all’epoca. Sia sua madre che suo padre, di origine dubbia, parlavano tedesco come lingua comune; per questo il bambino ebbe l’inestimabile vantaggio di imparare quella lingua fin da giovane. All’età di diciotto anni (che dimostrazione di energia!), lasciò Malta, dove i suoi genitori erano diventati cittadini britannici da almeno tre anni, e intraprese quella carriera che lo ha reso, agli occhi di migliaia di persone, altrettanto famoso quanto il signor McCabe.
+
+Ho usato la parola “famosi” per entrambi questi grandi uomini. Forse non è del tutto giustificato. Non sono famosi al grande pubblico. Tuttavia, i loro nomi sono noti a tutti coloro che acquistano queste opere d’arte, che poi le vendono ad altri gruppi potenti i quali, a loro volta, le appendono alle proprie pareti, o le fanno acquistare da amici in relazione al governo, affinché possano essere esposte permanentemente nelle grandi gallerie d’Europa.
+
+Entrambi questi signori, il signor Caen e il signor Alessandria, avevano già notato, molto presto nel corso del processo, l’ascesa di Bourrot. Ognuno di loro aveva appreso troppo tardi della sua salute in declino. Entrambi gli avevano comunicato, tramite canali privati, la notizia piuttosto umiliante che Henry Bensington li aveva preceduti. Nessuno dei due era arrivato su queste coste “intatte” fino a quando l’opera magistrale non fu già esposta in Bond Street e Bourrot non fosse morto.
+
+È stato un peccato, ma è andata così. Il signor Henri Caen era arrivato a Folkestone e aveva presentato il proprio passaporto esattamente il giorno in cui le stanze Martin venivano aperte al pubblico. Il signor Alessandria, invece, ebbe la sfortuna di ritardare a Dover a causa di qualche formalità burocratica; arrivò un’ora o due prima del signor Caen. Per questo motivo il signor Alessandria dovette noleggiare un’auto. Avrebbe potuto risparmiare i soldi, perché, quella sera stessa, una volta raggiunto Londra, scoprì che il signor Caen era già arrivato lì, e che anche il signor Caen aveva appreso, tramite la solita agenzia, dell’imminente arrivo del signor Alessandria. Fortunatamente avevano scelto hotel diversi.
+
+Il signor Caen, nel quale l’amore per il bello aveva sopraffatto tutte le altre passioni, trascorse un’ora la mattina seguente, mentre le stanze Martin erano ancora piuttosto vuote, per assimilare completamente i contenuti del “Ame Bourgeois”. Il signor Alessandria (a cui continuava ad accadere sfortuna) arrivò nelle stanze Martin solo dopo che il signor Caen se n’era andato. Trascorse anche più di mezz’ora – la mente maltese è davvero molto rapida – a osservare e memorizzare ogni effetto, ogni dettaglio del “Ame Bourgeois”.
+
+Ecco come si trovarono quei due uomini: nessuno dei due aveva mai incontrato l’altro a Londra, ma entrambi sapevano che l’altro era presente nella stessa città. Ognuno di loro prendeva le dovute precauzioni per evitare di incappare nell’altro per qualche errore stupido. Infatti, il signor Alessandria, con la solita sensibilità tipica dell’anima artistica, si chiuse nelle sue stanze all’Ritz e vi consumò tutti i pasti; passava gran parte della giornata al telefono, ricevendo non solo i giornali quotidiani, ma anche varie note e consigli. Mentre il signor Henri Caen, forse a causa della stanchezza o di una strana abitudine di isolamento, rimaneva chiuso nelle sue stanze al Paramount, telefonando spesso e ricevendo numerosi consigli tramite messaggeri.
+
+Così i due si conoscerono; entro un’ora sapevano entrambi che il “A me Bourgeoise” era stato rubato. Il signor Henri Caen, piegandosi a fatica – essendo di quella corporatura tipica dei francesi di mezza età – tirò fuori dalla sua valigetta una grande carta da cartucce e iniziò a scrivere degli indici per chiarirsi le idee su ciò che doveva essere fatto.
+
+Non proprio, Signor Alessandria. Essendo di statura snella e in effetti più giovane del signor Henri Caen, avrebbe potuto facilmente chinarsi per prendere qualsiasi cosa dai suoi bauli, se lo avesse voluto. Preferì invece guardare fuori dalla finestra e riflettere.
+
+Il risultato fu lo stesso. Ognuno di questi signori, sebbene i loro metodi di lavoro differissero, possedeva già tutti gli elementi necessari per affrontare la situazione; inoltre, ognuno di loro disponeva di un’intelligenza rapida e acuta: il signor Henri Caen aveva una mente logica, vivida ma contenuta, tipica dei Galli; il signor Alessandria, invece, possedeva anch’egli una mente logica, vivida e contenuta, caratteristica tipica dei Maltesi.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_02" data-title="The Missing Masterpiece — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,concept/deception,concept/ratiocination_detection,concept/indirection_and_impersonal_systems,concept/greed,concept/satire_of_society,form/satire"></span>
@@ -3894,6 +4968,34 @@ His conclusion was subtler and better than that of M. Caen. He did not reserve r
 
 His letter to Harry Delgairn was simple, straight-forward, and couched (if I may use the expression) in the Italian tongue. It would be of more effect. It would be read through with difficulty; or if, as was more likely, the young squire had no Tuscan, there would be certainly some gentleman in touch who could make it out with a dictionary. Signor Alessandria knew his England. All the letter said was that M. Alessandria had been an intimate friend of M. Bourrot, that he had heard how the Masterpiece had been sold, how sad it was that a picture painted for a particular house and so long in its right surroundings should have left them. Might he respectfully, on the plea of his deep affection for the dead genius, call upon the son of the man but for whose generosity that genius would never have played its great part in the world?
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+M. Henri Caen non ne aveva alcun dubbio: Henry Bensington stava semplicemente facendo pubblicità. Quel trucco di furto utilizzato nella promozione fotografica era una cosa vecchia, banale. E il viso di M. Henri Caen esprimeva un’ironia severa mentre ci pensava. Gli bastava aspettare: quando la foto fosse tornata, sarebbe stato il momento giusto per intervenire.
+
+Signor Alessandria, in piedi davanti alle grandi finestre della sua stanza all’Ritz, ammirando l’elegante architettura del nuovo Devonshire House, non aveva alcun dubbio al riguardo. Era un trucco ridicolmente banale, ma Henry Bensington probabilmente conosceva bene il proprio ambiente e calcolava che avrebbe funzionato. Non restava altro da fare se non aspettare che la foto tornasse indietro e poi mettersi all’opera.
+
+Passarono trentasei ore, alle cinque del pomeriggio, quando quel signore che a Londra era in contatto con il signor Henri Caen riguardo a queste questioni telefonò per comunicare a quel principe del mondo dell’arte che “L’Ame Bourgeoise” era davvero scomparsa. Non aveva alcuna idea di cosa fosse successo, ma il comportamento di Sir Henry Bensington al suo ritorno a casa dopo un’escursione a piedi – qualcosa di insolito per lui – faceva pensare che qualcosa fosse andato storto.
+
+Il signor Caen impiegò circa mezz’ora per coordinare, su quella grande carta da cartucce che aveva preparato a proprio uso, tutti gli elementi della situazione.
+
+“L’Ame Bourgeoise” giaceva da anni nel Castello di North Merton. Aveva annotato la stazione ferroviaria e tutti gli altri dettagli rilevanti nel suo taccuino, settimane prima: si trattava della Stazione di Whitchell, situata a tre miglia dalla casa. Non c'erano taxi disponibili, ma era possibile noleggiarne uno all’hotel di fronte. L’ostello di North Merton era il Delgairn Arms; il suo Michelin non riportava alcun numero di telefono. Su quel foglio di carta per cartucce erano state annotate anche altre informazioni riguardo a una conversazione avuta dal giovane signor Delgairn su quella pratica disonesta e meschina a causa della quale stava soffrendo. La organizzazione, nel mondo di monsieur Caen, è davvero impeccabile. Tu ed io, caro lettore, siamo anch’ noi “indexati” in questo modo: non solo dalle banche e dalla polizia, ma da tutte quelle persone del mondo moderno che hanno interesse a seguire le nostre attività.
+
+La Paramount aveva un impianto audiovisivo completo in ogni stanza. C'era un treno per Whitchell alle sette di sera, che arrivava poco prima delle nove (terribilmente lento!). Sì, Whitchell era una piccola stazione di campagna, e quello era il primo treno disponibile.
+
+Nonostante il suo sangue francese (o forse la sua formazione?), il signor Henri Caen decise di saltare la cena e di nutrirsi solo di panini durante il viaggio. Rischiò di ottenere una stanza all’hotel Delgairn Arms, arrivò a Waterloo in tempo. E così iniziò tutto per lui.
+
+Mi dispiace molto dirlo, mio caro lettore, ma il signor Alessandria, con la sua solita sfortuna abominabile (non temete nulla!), non ha ritirato le sue comunicazioni per ben ventiquattro ore; solo quando il signor Henri Caen ha iniziato a cercare contatti nella zona di North Merton per tutta la mattina e metà pomeriggio del giorno successivo, il signor Alessandria è stato informato che la perdita della “Ame Bourgeoise” era effettivamente reale. D'altra parte, il suo agente gli aveva fornito dettagli molto più precisi, il che dimostra soltanto che la strategia dipende non solo dal tempo, ma anche dalle informazioni disponibili.
+
+Il dipartimento di intelligence del signor Alessandria gli fornì molti elementi utili per agire: aveva infatti messo in contatto almeno tre fonti, ognuna delle quali risiedeva sotto lo stesso tetto di Sir Henry Bensington, ricoprendo ruoli diversi e a prezzi variabili. Dispondeva di due elementi fondamentali: (1) L’invio nella quale era arrivata la lettera di Delgairn (con il timbro postale di North Merton e la data), recuperato con cura dal cestino della spazzatura di Bensington; (2) Quello che Bensington aveva mormorato tra sé a colazione, dopo che il servitore aveva chiuso la porta, per poi riaprirla saggiamente per un attimo, per ascoltare eventuali parole lasciate cadere casualmente.
+
+Sì, pensò Alessandria mentre si rivolgeva di nuovo a quella finestra e fissava ancora una volta, con le mani in tasca, la magnifica struttura della nuova Devonshire House. L’opera magistrale si trovava a North Merton House, o almeno era in viaggio verso lì. Il suo unico problema era la certezza assoluta che anche Sir Henry Bensington sarebbe giunto alla stessa conclusione. Per quanto riguardava il signor Henri Caen, non aveva saputo nulla della sua arrivata né dei suoi spostamenti, proprio come il signor Henri Caen, del resto, non sapeva nulla di lui. (E se voi, caro lettore, vi chiedete perché questi due grandi “capitani” abbiano subito queste limitazioni nella raccolta delle informazioni, lasciate che vi dica: proprio nel misura in cui uomini del genere riescono a ottenere le notizie di cui hanno bisogno, riescono anche a cancellare ogni traccia delle loro attività.)
+
+Signor Alessandria, non avendo carta per cartucce, seguì il metodo gallico – che consisteva nel pensare alle cose in modo più astratto e sofisticato – e dovette semplicemente mettere insieme gli elementi della situazione nella sua mente.
+
+La sua conclusione era più sottile e migliore di quella del signor Caen. Non prenotò stanze all’hotel Delgairn Arms, ma scrisse una lettera a Harry Delgairn. Proprio come Cesare nelle sue prime campagne militari! Esiste un certo genio che permette di fare queste cose in modo così efficace. Se me lo chiedeste, darei al solido intelletto francese del signor Henri Caen non più del sessanta per cento delle capacità necessarie per recuperare beni rubati; invece, al signor Alessandria attribuirei quasi l’ottanta per cento. Non che voglia in alcun modo sminuire il genio gallico rispetto a quello italiano. Ma in questa occasione non c’è dubbio che il signor Alessandria abbia scelto la strada più breve, anche se, senza saperlo, è arrivato con ventiquattro ore di ritardo.
+
+La sua lettera a Harry Delgairn era semplice, diretta e, per così dire, redatta nella lingua italiana. Sarebbe stata più efficace. Tuttavia, sarebbe stata difficile da leggere; oppure, il che era più probabile, poiché il giovane gentiluomo non conosceva il toscano, sicuramente esisteva qualche signore in grado di comprenderla con l’aiuto di un dizionario. Il signor Alessandria conosceva bene l’Inghilterra. Tutto ciò che la lettera diceva era che il signor Alessandria era stato un amico intimo del signor Bourrot, che aveva saputo come fosse stata venduta quella “opera d’arte”, e quanto fosse triste che un dipinto realizzato appositamente per una determinata casa e conservato in un ambiente adatto avesse dovuto lasciarla. Poteva forse chiedere, con tutto il rispetto e nel nome del profondo affetto che provava per quel genio defunto, di poter contattare il figlio dell’uomo grazie al cui generosità quel genio aveva potuto svolgere il proprio ruolo fondamentale nel mondo?
 
 
 
@@ -3954,6 +5056,62 @@ For her part, she turned abruptly from the room. But she took that garish sketch
 
 “There’s no ‘arm in it,” she was pleading, as she talked to the young lady from the big house next day. “It isn’t stealing. He only wants to look at it.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Alessandria non credeva nell’affrettarsi nelle cose; aveva ragione. Eppure, il giorno dopo ricevette la risposta: Harry Delgairn era profondamente colpito (il parroco studioso di North Merton gli aveva letto la lettera). Nonostante avesse un istintivo disgusto per gli stranieri, inviò una risposta formale, dicendo che se il signor Alessandria avesse l’onore di fargli visita, sarebbe stato felice di riceverlo.
+
+Durante il suo primo pasto del mattino al Delgairn Arms, il signor Caen leggeva un libro di guida e di tanto in tanto poneva domande alla servetta in inglese, un po’ stentato ma corretto e sommesso. Voleva sapere se le rovine dell’abbazia di Rayton fossero aperte nei giorni feriali, se ci fosse da pagare l’ingresso, a che distanza si trovassero dall’ostello, quanto ne fosse rimasto. La vivace ragazza rispondeva a caso, felice di fornire informazioni che in realtà non possedeva. Il signor Caen fu lieto di scoprire che lei aveva un animo ingenuo e amava conversare con gli altri, soprattutto con il sesso opposto; anche quando questi erano sconosciuti o di un’età diversa dalla sua. Accettava con affetto le sue confidenze e fu felice di apprendere che lei non sarebbe mai venuta in un posto così noioso se non fosse stato per il fatto che sua sorella lavorava come cameriera nella grande casa, il che rendeva i loro incontri più piacevoli. Al tutto il signor Caen annuiva gentilmente.
+
+“La vedi?” disse il signor Caen, quasi cominciando a credere in un Dio di fronte a una fortuna così straordinaria. La bambina scosse la testa e sollevò il naso verso l’alto.
+
+“‘Ardly!’ disse lei. “Se lo avessi saputo prima, non sarei venuta. Oh, lascia che Millie esca pure, ma lui è così presuntuoso che non vuole che nessuno del villaggio entri in casa sua. Non posso nemmeno andare da loro a prendere una tazza di tè il giorno in cui esco, se lui è presente, ” Scosse di nuovo la testa. “Forse non è colpa sua, ma è davvero noioso. Stupido, ecco cos’è! Lo chiamo ‘Mutton-Face’, ”
+
+“Ah sì, può venire qui, per quanto riguarda il Maestro. Lui è un bravo uomo, il Maestro. Ma poi, quel giovane Delgairn non gli piacciono le persone del villaggio, dice così.” E scosse di nuovo la testa.
+
+“Ma lei viene davvero, vero?” insistette il signor Caen.
+
+“Ah sì! Arriverà domani… Ma non resterà tutta la sera.”
+
+Ora ci sono due modi per affrontare qualsiasi compito difficile – come il furto, la falsificazione, l’omicidio, o qualsiasi altra attività che richieda segretezza. Uno è quello cauto e graduale, l’altro è quello diretto. Il vantaggio del metodo cauto consiste nel fatto che si può ritirare non appena si percepisce un minimo pericolo; il metodo diretto, invece, ha il vantaggio di permettere di portare a termine l’impresa in modo immediato e senza ritardi. Quando il tempo è un fattore essenziale, ogni abile stratega sceglierà il secondo metodo. E proprio questo fece Monsieur Henri Caen.
+
+Sapeva come farsi notare grazie a un modo di parlare lento e al tono della voce abbassato di quattro o cinque note. L’aveva già fatto in questa nostra Beata Isola, e aveva scoperto che questo metodo eliminava il ridicolo legato al suo accento straniero e alle sue parole mal pronunciate. Lo provò di nuovo, e con pieno successo.
+
+“Sto venendo qui,” disse lui, con quel tono più profondo, fissandola negli occhi, “per fare qualcosa di strano, ”
+
+Si alzò dalla sedia attorno al tavolo della colazione, chiuse il libro di viaggio e continuò a fissare la giovane donna incuriosita: lei era sia allarmata che attratta da quel mistero.
+
+“Non lo nascondo, no! Vi dico la verità: nella grande casa del signor Del Game c’è un dipinto. Un dipinto che voglio vedere. No,” aggiunse, vedendo apparire sul viso della ragazza uno sguardo di paura, “non vengo per rubarlo. Se volessi rubare ve lo direi. Vengo solo per guardarlo. Non è appeso al muro, ma è nascosto da qualche parte. Vi spiego il motivo per cui voglio vederlo: non è per rubarlo, ma per un’altra ragione. Ho davvero inviato quel dipinto al signor Del Game. È grande più o meno così.”
+
+Continuando a fissarla negli occhi, il signor Caen tirò fuori dalla tasca un pezzo di carta rigida e piegato. Lo aprì e lo mostrò davanti a lei. Su di esso c'era qualcosa di abbastanza semplice, i colori erano abbastanza chiari. Sembrava una sciocchezza, ma non si poteva sbagliare su quel grande occhio che spiccava in un angolo del disegno. Glielo diede.
+
+“È piccolo, dico. Si può facilmente portare con sé. Lo avvolgeremo, va bene? Non lo so. È un dipinto francese.”
+
+“Lor!”, disse lei, guardando il disegno. “È davvero divertente!”
+
+“È un dipinto, francese. L’ho inviato a Sir Del Game. È francese, proprio come me. Anch’io sono francese.”
+
+La cameriera si illuminò un po’ in viso e annuì. Aveva indovinato giusto: lui era francese. Era un altro successo per lei. Scoprì di essere davvero una ragazza intelligente!
+
+E mentre guardava il foglio che aveva in mano, la sua convinzione venne confermata in un altro modo. Aveva sempre creduto che gli stranieri fossero capaci di qualsiasi cosa!
+
+“Sir Del Game dice di non averla. Io dico che l’ha. Se io affermo di saperlo, e se lui sa che lo so, allora deve pagare. Devo vedere quella foto. Solo dopo averla vista, gliela restituirò.”
+
+Si fermò per un attimo, poi sparò con il suo grosso fucile, producendo un forte rumore. “Ci sono molti soldi in gioco se riesco a scoprire la verità. Vi pago, a te e a tua sorella, cento sterline.”
+
+Poi rimase in silenzio, fissandola con lo sguardo più intensamente che mai, e osservando come il suo sguardo vacillasse sotto quell’effetto.
+
+Prima che potesse rispondere, lui tirò fuori silenziosamente dalla tasca del petto un mazzo di banconote da venticinque sterline. “Le do queste,” disse. “E chiedo solo di poterle vedere per poi restituirle. Nient'altro.”
+
+“Non vedo quale sia il problema in farlo,” mormorò quella che era stata tentata. “Non è mica come rubare, ” Aveva esitato, e ora si sentiva persa. Lui scosse la testa.
+
+“Non c’è nessuna ‘arma’,” disse. “E ci sono cento sterline. Tirò fuori di nuovo il mazzo di banconote, poi lo rimise in tasca. ‘Non è semplice?’ E aprì le mani, continuando a fissarla con quegli occhi.”
+
+Per quanto la riguardava, lei uscì bruscamente dalla stanza, ma portò con sé quel disegno vistoso. Dopo che se ne fu andata, lui si sedette di nuovo e sorrise tra sé e sé.
+
+* * * * * * *
+
+“Non c’è nulla di male in questo,” insisteva lei il giorno dopo, parlando con la giovane signora della casa grande accanto. “Non è furto. Lui vuole solo darci un’occhiata.”
 
 
 
@@ -4035,6 +5193,82 @@ He gave a hearty laugh, sank back into his corner, twinkled his eyes merrily at 
 And there they were, together again.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Non è proprio quello,” disse Millie con aria pensierosa. “Va bene così. È il fatto che si trovi lì che mi preoccupa.” (La cameriera era la più realista dei due.) “In un certo senso, può esserci solo un posto dove potrebbe essere, e cioè la stanza dove si conservano le legna. Non è certo un posto adatto per nascondere qualcosa, ” C'era un leggero disprezzo nella sua voce mentre lo diceva.
+
+“Beh, eccolo lì,” rispose sua sorella con inquietudine. “Mi sono lavata le mani per quanto riguarda la tua parte.”
+
+“Ah, lasciami stare!” disse Millie. Poi rifletté di nuovo: “C’è un armadio nella stanza dove si conservano le assi, e due cassetti che non vengono mai chiusi a chiave. Sarà davvero difficile trovarlo. Ah, quanto hai detto?”
+
+“‘Arves!’”
+
+“‘Arves it is,’ rispose Millie con lealtà. Non erano una famiglia che litigava spesso. “Stai attenta,” aggiunse, “devi assicurarti di avere tutte le note nel tuo ‘e prima che io, ’ e di aver finito tutto questo lavoro – se ci riesco.”
+
+La cameriera annuì e porse a sua sorella lo schizzo a colori di M. Caen per confronto. Un’altra transazione era quindi conclusa.
+
+* * * * * * *
+
+Millie era di ottimo umore e ancora più desiderosa di avventure. Era di buon spirito perché il giovane che aveva sostituito l’uomo addetto ai lavori per alcune notti si era davvero rivelato molto affascinante. Avrebbe solo voluto che fosse un membro permanente del team. Aveva un modo di comportarsi decisamente superiore a quello dell’“Uomo Strano”, e si chiedeva come due uomini così diversi potessero essere amici così intimi.
+
+Ma sì! A volte si riusciva davvero a capirlo. C'era ad esempio suo zio Joe, il lavoratore del laboratorio chimico. Non sembrava affatto un cugino di padre. Ma lui aveva studiato, zio Joe; mentre padre non aveva fatto altro che bere alcol tutto il tempo. E quel giovane, con il suo abito elegante, sembrava davvero intelligente. Anche se lei non si lasciava influenzare dall’aspetto esteriore: non era quel tipo di ragazza. Lui aveva modi davvero impeccabili, e inoltre sapeva un sacco di cose!
+
+Sapeva, ad esempio, che il gentiluomo dall'aspetto scuro che era venuto a trovare il signor Delgairn quel pomeriggio era italiano. Non che conoscesse la lingua italiana, per così dire, ma riconosceva facilmente quel tipo di persone; ne aveva già incontrati alcuni in precedenza. Era sorprendente come il signor Delgairn si fosse affezionato a lui, considerando che di solito non gli piacevano gli stranieri.
+
+E così via. Ma non poteva lasciarsi andare a quei pensieri, quindi tornò alle cose urgenti da fare. Ci sarebbe stato tutto il tempo necessario per riprendere una piacevole conversazione con il “Temporaneo” quando tutto fosse stato sistemato, dopo cena, mentre erano tutti seduti insieme al piano di sotto a mangiare qualcosa.
+
+L’intuito di Millie era corretto – dopotutto, North Merton era la casa più semplice di tutte, anche nella categoria delle abitazioni dei gentiluomini di campagna. Per nascondere qualcosa non c’era bisogno di fare nulla di complicato: bastava semplicemente metterlo nel magazzino del legname, quel grande solaio sotto il tetto a spiovente. Lì non c’era molto, comunque. Non era come cercare qualcosa di davvero piccolo; lei conosceva bene le dimensioni e la forma di quell’oggetto.
+
+Quel pomeriggio stesso, prima che calasse la notte, Millie aveva ispezionato tutti gli armadi. Non aveva trovato nulla se non alcuni cappotti, un vecchio paio di ramponi da arrampicata, dei pattini arrugginiti e mezza dozzina di libri strappati. Aveva aperto anche quel grande baule pieno di polvere: al suo interno non c’era nulla se non tappeti gettati via e oggetti del genere. Poi aveva provato con quell’armadio alto, largo e pesante vicino alla finestra coperta di ragnatele. Era aperto, naturalmente: in quella casa non si chiudeva mai nulla a chiave. Sulla parte superiore c’erano una paletta da pittore ormai in disuso, pennelli rigidi trascurati da anni e mezza dozzina di tubetti di colore incrostati dal tempo. Sotto di questi, avvolto in un pezzo di giornale ingiallito su cui era indicata una data risalente a più di dieci anni prima, aveva trovato un pacchetto quadrato, e sotto di esso un altro pacchetto dello stesso identico formato. Aveva aperto quello in cima, rimosso le coperture. E sì, l’aveva trovata!
+
+Un pezzo di stoffa la proteggeva. Ripiegò la stoffa e vide ciò che cercava: era lì, inequivocabile, esattamente come aveva immaginato vedendolo nel disegno che teneva in mano, alla debole luce del giorno vicino alla finestra sporca. C'era quell’“Occhio”, quelle ridicole strisce rosse e gialle, quel frutto assurdo, tutto racchiuso nel loro bianco contesto.
+
+Ora che l'aveva, per la prima volta si sentì spaventata. Lasciò i vecchi documenti ammucchiati nella cassa, avvolse rapidamente il pacchetto nel panno e uscì in punta di piedi, giù per le scricchiolanti scale di quercia. Ma in realtà non aveva alcun bisogno di prendere tali precauzioni: stava semplicemente svolgendo i suoi compiti abituali. Stava calando la sera; bastava attraversare i giardini per raggiungere il villaggio. Il pacchetto era piccolo e facilmente nascibile sotto il suo cappotto.
+
+* * * * * * *
+
+Il signor Caen aveva noleggiato un’auto presso il Delgairn Arms e aveva trascorso un’ora o due tra le rovine dell’abbazia di Rayton. Era interessato a queste cose. Quando tornò, era eccitato e felice (ma non entusiasta) nello scoprire che la giovane donna che aveva conosciuto gli aveva preparato un piccolo pacco quadrato. Sua sorella l’aveva portato, ma non aveva potuto aspettare. Lui annuì cordialmente.
+
+“È già buio,” disse, scuotendo la testa. “Mangerò qualcosa, poi lo guarderò. Ma non è possibile valutare i oli alla luce artificiale. Nessuno può farlo!” Scosse di nuovo la testa.
+
+“Ma mia sorella non può aspettare, vuole tornare subito,” disse il suo infelice compagno, esitando.
+
+“Non serve a nulla finché non ho cenato,” ripeté con fermezza il signor Caen. “E anche allora non basta. Aspetto che faccia giorno. Dammelo, lo metterò nella mia stanza. Domani lo controllerò e poi lo restituirò. Ma aspetta. Devo mantenere la mia promessa, vero?” E sorrise in modo affascinante, porgendo il mazzo di banconote.
+
+Era andato a cena e, prima di sedersi, aveva gettato uno sguardo distratto per assicurarsi (sebbene ne fosse già certo, trattandosi di persone così semplici) di avere ciò che voleva. Proprio mentre lo faceva, un giovane [[Artist|artista]] che era arrivato in hotel quel pomeriggio e aveva continuato a dipingere finché c'era luce entrò nel ristorante e gli fece un inchino.
+
+Presumibilmente avrebbero dovuto cenare insieme, e il signor Caen acconsentì cortesemente.
+
+Si misero a tavola senza fretta eccessiva, ma il signor Caen era un po’ preoccupato perché l’ostello non aveva telefono. Arrivò persino ad affermare che un ostello dovrebbe disporre di un telefono. Il proprietario arrivò scusandosi e spiegò che il più vicino telefono si trovava nell’hotel di fronte alla stazione, a tre miglia di distanza; a meno che non andassero a chiedere l’autorizzazione per utilizzare quello della casa grande, ma lui non voleva farlo.
+
+“No,” disse il signor Caen, “non c’era bisogno di farlo. Dopo aver bevuto il caffè avrebbe preso l’auto per la stazione e avrebbe telefonato. Aspettate! Quanto aveva detto il proprietario? Tre miglia? Oh, avrebbe camminato. E il giovane [[Artist|Artista]] si offrì gentilmente di accompagnarlo.”
+
+Partirono insieme per quella piccola spedizione. M. Caen, mentre il suo amico era fuori a prendere cappello e cappotto, ebbe la presenza di spirito di mettere quel piccolo telo di canapa sotto il grande mantello nel quale si era infilato a fatica. Poi i due partirono nella bella notte.
+
+Quando arrivarono all' piccolo hotel di fronte alla stazione, il signor Caen entrò per fare una telefonata, mentre il suo giovane amico andò al bar a bere qualcosa. Il signor Caen uscì dalla cabina telefonica con un'espressione preoccupata.
+
+“È grave!”, disse scuotendo la testa. “Potresti fare qualcosa per me?”
+
+“Con grande piacere,” disse il giovane. “Farò tutto ciò che posso.”
+
+“Potresti dire al proprietario dell’hotel a North Merton che devo andarmene stasera, per una questione urgente, ma tornerò domani. Tornerò molto presto, domani, eh?”
+
+“Mi dispiace che tu te ne vada,” disse l’[[Artist|artista]], “ma sicuramente lo farò. Spero non siano cattive notizie, ”
+
+“Oh, no, non quello, ma è urgente,” rispose il signor Caen, con un’espressione preoccupata. “Devo andare a cercare il treno. Ci sarà sicuramente qualche treno stasera, ”
+
+“Molto bene – buonanotte,” disse il giovane artista, stringendo calorosamente la mano al francese e poi tornando al bancone.
+
+M. Caen uscì nella notte, attraversò la strada per raggiungere la stazione.
+
+Per una di quelle coincidenze che sono così frequenti nella vita degli uomini strategici, c'era un treno diretto a Winchester che partiva circa quattro minuti dopo l’arrivo del signor Caen in stazione. Lui acquistò un biglietto di prima classe per quella antica città e, non appena il treno si fermò, salì in una vettura vuota; portava con sé, sotto il mantello, un dipinto, ma comunque era al sicuro e nulla turbava i suoi pensieri.
+
+Proprio mentre il treno si muoveva bruscamente e accelerava per uscire dalla stazione, la porta del vagone si aprì e, proprio mentre stavano lasciando le luci della banchina, il giovane artista salì a bordo.
+
+Rispose con una risata sonora, si rilassò di nuovo nel suo angolo, gli occhi gli brillavano felici mentre guardava il signor Caen e disse: “L’ho appena afferrato!”
+
+E così erano di nuovo insieme.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_01" data-title="The Missing Masterpiece — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,motif/great_house,concept/deception,concept/appearance_vs_reality,concept/secrecy_and_concealment,concept/satire_of_society,form/satire,setting/rural_england"></span>
@@ -4089,6 +5323,56 @@ And Signor Alessandria, with all the subtlety of an ancient civilization, regist
 Said the picture dealer to himself (whether in German, Maltese or Smyrna Greek): “It’s there!” But aloud he repeated, as he turned his back on the oak stairs to return to the ground floor, with his host: “All is so wonderful, so utterly English!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XII
+
+Come due generali di altissimo genio che si muovono l’uno nelle vicinanze dell’altro, ognuno sospettando che il proprio rivale si trovi nei paraggi, così anche quei maestri della strategia commerciale, il signor Caen e il signor Alessandria, si trovavano in prossimità l’uno dell’altro quella piacevole serata estiva a North Merton. Infatti, mentre il signor Caen negoziava presso il Delgairn Arms per ottenere in prestito temporaneamente quel dipinto, il signor Alessandria (dopo aver telefonato al suo gentile ospite, il signor Delgairn) stava arrivando in auto a North Merton House per fare visita al giovane proprietario terriero. Proprio mentre Millie rifletteva su quella importante proposta, il signor Alessandria veniva fatto entrare nella casa di campagna dal gentile e disponibile “uomo strano” che, sebbene ateo (mi dispiace dirlo), ringraziò improvvisamente Dio, quasi con un sussurro, per la rapidità con cui i suoi piani stavano prendendo forma.
+
+Il giovane signor Delgairn provava quell’istintiva avversione per gli stranieri (ad eccezione, ovviamente, dei tedeschi, degli americani e forse anche degli olandesi; dovrei aggiungere anche svedesi e norvegesi, e naturalmente anche danesi) che è naturale ed inevitabile in tutti i giovani sani che hanno goduto dei privilegi dell’istruzione nelle scuole pubbliche.
+
+Tra gli stranieri, quelli che odiava di più erano i francesi, gli italiani o gli spagnoli (per non parlare dei belgi!), ma non avrebbe saputo dirlo con certezza, perché in realtà non riusciva a distinguerli tra loro.
+
+Tuttavia, accolse il signor Alessandria con cortesia, e questa cortesia divenne ancora più calorosa quando scoprì che quest’uomo dai capelli scuri e ben curato, dal volto deciso e caratteristico – un tipo di profilo che aveva già incontrato molte volte in Inghilterra – parlava fluentemente inglese. Era del tutto naturale, per un maltese devoto all’Impero; e anche se non era nato entro i suoi confini, almeno era cresciuto nell’adolescenza sotto la Bandiera della Libertà.
+
+Ma il giovane signor Delgairn, avendo ricevuto la lettera del suo visitatore in italiano fin dall’inizio, non si aspettava una tale padronanza dell’idioma di Shakespeare (e anche del proprio); e ne fu piacevole.
+
+All’inizio esitò per un momento se offrire da bere a quel distinto straniero, perché non sapeva quali bevande avrebbe gradito. Fu molto sollevato quando scoprì che il distinto straniero preferiva un whisky con soda. Man mano che bevevano insieme, il distinto straniero descriveva in modo così affascinante e deciso il paesaggio attraverso cui era passato, gli eleganti olmi lungo la strada, il fascino indescrivibile della campagna inglese e delle antiche case di campagna inglesi come quella in cui si trovavano, che il suo ospite finì per sentirsi quasi amichevole nei suoi confronti.
+
+“Posso mostrarle uno o due degli oggetti che ho qui, signor Alexander?” disse. “Immagino che volesse prima vedere qualcosa legato a Bourrot, ma purtroppo ho venduto quel quadro, come sa.” Tentò di assumere un'espressione seria mentre lo diceva, ma il termine “irascibile” descriverebbe molto meglio la sua espressione.
+
+“Sì, sì!” disse l’uomo del Sud con un piccolo gesto di comprensione, quasi impercettibile. “Lo so, ”
+
+“Credo che non abbiamo davvero nulla di Bourrot che possa interessarti, tranne una lettera che un tempo scrisse a mio padre.”
+
+“Ah, davvero!” rispose l’altro con gli occhi che lampeggiavano. “Posso vederlo?”
+
+"Certo, certo. L’ho preparato per te qui; pensavo che ti sarebbe piaciuto vederlo."
+
+Era solo quella breve nota lasciata per il signor Delgairn quando l’opera magistrale fu portata al suo hotel, ma il signor Alessandria la lesse con occhi pieni di ammirazione. Sospirò profondamente.
+
+“Ah! Quanto vi invidio!” disse, “E ancora di più vi invidio per vivere in una casa del genere! Nel nostro paese non abbiamo nulla del genere. Quando torno nella mia terra d’origine, quella di mio cugino in Emilia (Monte Acuto, sapete, )” (il giovane signor Delgairn annuì, come fanno i gentiluomini tra loro. Lui non lo sapeva; ma la gente comune è considerata una “casta” in tutta Europa). “Quando ci vado,” continuò l’ospite, scuotendo le spalle con rammarico, “cosa vedo? Marmi pregiati, giardini ben curati (mio cugino è il capofamiglia), cipressi, pianure fertili. Ma niente di ciò che vedo qui. C’è una sorta di comfort nelle vostre case di campagna inglesi. Come posso esprimerlo, un vero senso di “casa”.”
+
+Il signor Delgairn annuì. Aveva incontrato un’anima gemella.
+
+“Vuoi dare un’occhiata alla casa?” chiese lui.
+
+Il signor Alessandria fu felice che la proposta venisse fatta per primo dal suo ospite, anche se in realtà aveva intenzione di sollevarla lui stesso se necessario.
+
+“Ah, che privilegio!”
+
+Vagarono insieme; prima andarono alle stalle e videro Rascal e West Wind, poi accarezzarono la testa di Billy Boy – che però li morse. Non valeva la pena scendere in fattoria per grattare i maiali. Delgairn mostrò al suo illustre ospite il ritratto della sua bis-bisnonna realizzato da Reynolds, quel vecchio pezzo di pergamena redatto sotto il regno di Carlo II, la sala da biliardo. Insomma, quasi tutto tranne le camere da letto.
+
+Al piano di sopra gli mostrò la galleria e gli raccontò le storie di ciò che era accaduto lì durante le Guerre Civili. E il signor Alessandria ascoltava con tutte le sue orecchie e con tutto il suo cuore. Che avvincente! Che unico!
+
+“E cosa c’è qui sopra?” disse lui in tono leggero, mentre superavano l’unica parte che non aveva ancora visto (ad eccezione delle camere da letto): una breve rampa di scale in quercia che conduceva a un piccolo soffitto polveroso situato sopra il tetto.
+
+“Oh, niente di che,” disse Delgairn con noncuranza. “È solo una stanza dove teniamo vecchi bauli e pezzi di mobili rotti, insomma, ”
+
+E il signor Alessandria, con tutta la sottigliezza di una civiltà antica, notò il forte desiderio del giovane signor Delgairn di evitare quella stanza.
+
+Il commerciante di quadri pensò tra sé (che fosse in tedesco, maltese o greco di Smirne): “È lì!” Ma ad alta voce ripeté, mentre si girava per scendere le scale di quercia e tornare al piano terra insieme al suo ospite: “Tutto è così meraviglioso, così tipicamente inglese!”
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_02" data-title="The Missing Masterpiece — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/trickster,motif/serpent_snake,concept/deception,concept/secrecy_and_concealment,concept/crime_and_punishment,concept/satire_of_society,form/satire,setting/rural_england"></span>
@@ -4139,6 +5423,52 @@ With agonized care, holding his breath to save all sound, and sliding away the l
 Out went the little lamp, down the oak stairs went the cat-like feet — one would have sworn they were padded — down the main staircase, and then out by that French window which he had noted was not shuttered or bolted, and so out upon the lawn. It was pitch-dark, yet he still crept close to the wall.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+E per un'altra mezz’ora, mentre sedevano a bere il tè, lui riversò su di loro una quantità enorme di conoscenze riguardo alle cose d’Inghilterra e al loro contrasto con quelle d’Italia, la sua cara terra natale (o meglio, quella dei suoi antenati; perché Malta era la sua isola adorata, ammise lui stesso – e questo, sperava, lo rendesse inglese, con un sorriso). Insomma, fu un flusso così ricco di empatia e informazioni che il suo ospite si vergognò quasi di lasciarlo andare.
+
+“Davvero, signor Alexander,” disse, “Avrei dovuto chiedervelo prima. Ma non pensa che potrebbe fermarsi a cena da me? Posso ospitarla.”
+
+“Sei davvero troppo gentile!” disse il suo ospite con un misto di piacere e confusione. “Ma non posso assolutamente rifiutare. Ho la mia borsa in macchina, stavo tornando a Londra stasera. Non c’è nulla di più facile che prenderla e partire domani.”
+
+“È eccellente,” disse il giovane signor Delgairn. Suonò il campanello e diede ordini affinché tutto fosse preparato per il comfort dello sconosciuto; poi si scusò per un momento e discusse rapidamente con la cuoca riguardo al pasto, dando l’ordine che lo “Straniero Temporaneo” fosse vestito in abiti appropriati quella stessa sera.
+
+Il signor Alessandria scese vestito con una cura eppure con un certo abbandono che Delgairn riconobbe con ammirazione, considerandolo degno del Blue Posts Club stesso. Non avrebbe mai immaginato che Dagoes potesse arrivare a tanto! E mentre i due si sedettero insieme, il vino rafforzò ancora di più il legame tra loro.
+
+La lettrice, essendo una donna molto colta, ha sicuramente sentito parlare della fascinazione che il serpente prova per gli uccelli. Io non userei questa metafora: nulla potrebbe mai spingermi a paragonare il signor Alessandria a un serpente, e non esiste alcun uccello che possa essere paragonato al giovane Delgairn, a meno che non si tratti di una civetta bollita. Il maltese era magro, ma non sibilava; il suo ospite, invece, non era certo un uccellino canoro dagli occhi brillanti, bensì un giovane di buona famiglia, educato in una scuola pubblica di prestigio.
+
+Il lettore, se conosce i classici più letti e apprezzati, ricorderà anche le Sirene; ma non posso paragonare il signor Alessandria a una Sirena. Il signor Delgairn, invece, assomigliava a Ulisse quanto voi assomigliate a un mandarino cinese. È vero che sia Delgairn che Ulisse vivevano all’aperto, ma mentre uno di loro si considerava simile a un dio greco, l’altro no. Direi piuttosto che il fascino esercitato dal signor Alessandria derivasse da quello di un uomo di mondo molto viaggiato, che sembrava più giovane di quanto non fosse in realtà (poiché i suoi capelli e la sua barba erano stati opportunamente scuriti), su un giovane che conosceva il mondo tanto poco quanto una zucca.
+
+Né il signor Alessandria parlò di Smirne né di Malta, ma piuttosto delle sue proprietà ancestrali in Emilia, dell’eroismo di suo padre (allora un ragazzo) e di suo nonno (allora un anziano). E così la lunga notte proseguì.
+
+Erano le undici quando si presero un bicchiere di liquore per concludere la serata, separandosi come buoni amici, consapevoli che il giorno dopo li aspettava una lunga mattina; Delgairn provò sincera delusione nell’apprendere che il suo ospite avrebbe dovuto partire a metà giornata.
+
+* * * *
+
+Alle circa venti minuti prima di mezzanotte, tutto il rumore presente in casa sembrava essersi attenuato nelle orecchie del signor Alessandria – e le sue orecchie erano molto acute. Aveva lasciato la finestra aperta e la porta semiaperta; già due volte, in punta di piedi, si era avvicinato in silenzio lungo il muro buio del corridoio per ascoltare. Ma tutto era assolutamente immobile: nessun rumore di passi al piano di sopra, nessuna luce che riflettesse sull’erba del giardino. Non c’era nemmeno la luna.
+
+Non era certo un principiante nell’uso di Smart Touch e Get Away, anche se queste tecnologie occasionalmente rappresentavano un ostacolo nelle sue attività lavorative.
+
+Infatti, erano passati tre anni da quando aveva avuto successo, sebbene con qualche difficoltà, in quella piccola faccenda al Castello.
+
+Pensò di dar loro un’ora, e così fece.
+
+Era poco prima di mezzanotte (aveva passato tutto il tempo al buio) quando tirò fuori dalla tasca una piccolissima torcia elettrica, munita di un piccolo cappuccio nero per schermare la luce; posò la mano sulla fessura attraverso cui la luce sarebbe apparsa quando avesse premuto il pulsante, poi si avvicinò in punta di piedi alla lunga galleria.
+
+Mentre procedeva così, in silenzio e furtivamente, a una distanza di circa trenta piedi lo seguiva, sempre girando l’angolo successivo, la figura altrettanto cauta dell’“Uomo Strano Temporaneo”; ma ormai non più in divisa; vestito come una persona comune, con un cappello di feltro morbido infilato nella tasca laterale e una buona quantità di banconote nella tasca del gilet.
+
+Per un istante, un debole bagliore apparve quando il signor Alessandria esaminò i gradini di quercia. Poi scomparve. L’“uomo strano” si immerse nell’oscurità alla fine del corridoio. Nella stanza dove si trovavano le assi, il signor Alessandria si sentì al sicuro: non era in pericolo, nessuno poteva sentirlo, e la piccola lampadina gli forniva tutta la luce di cui aveva bisogno.
+
+Con un istinto sicuro, provò prima l’armadio di quercia che si trovava proprio davanti a lui. Alzò il coperchio e, con una spiacevole sorpresa, scoprì che alcuni documenti all’interno erano stati già alterati. Qualcuno era stato lì; qualcosa era stato preso, e probabilmente lo stesso giorno. C’era molta polvere sulla parte esterna dei documenti, mentre l’interno era pulito e il taglio nella corda sembrava fresco. Li spostò con estrema cautela.
+
+Sotto di loro vide qualcosa che lo colpì nuovamente, ma in modo più piacevole. Vide un piccolo pacco rettangolare, delle dimensioni e della forma giuste. Con estrema attenzione e silenzio, praticò un taglio con un coltellino a serramanico; non si sarebbe potuto sentire alcun rumore nemmeno a due metri di distanza. Poi illuminò con la luce minuscola il contenuto del pacco.
+
+Non c'era alcun dubbio: si trattava di pochi centimetri quadrati di quella tela immortale, unica nel suo genere: “L’Amore Borghese”.
+
+Con estrema attenzione, trattenendo il respiro per non fare rumore e spostando con delicatezza i fogli che erano intorno, come un chirurgo esperto, estrasse il “Ame Bourgeois” e se lo mise sotto il cappotto.
+
+La piccola lampada si spense; i piedi agili e silenziosi della gatta scesero le scale di quercia – si sarebbe potuti giurare che fossero foderati – poi lungo la scala principale, fino a quella finestra francese che aveva notato non essere chiusa né sbarrata. E così fu fuori, sul prato. Era buio pesto, ma lui continuò ad avanzare silenziosamente, attaccandosi al muro.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_03" data-title="The Missing Masterpiece — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/artist"></span>
@@ -4186,6 +5516,50 @@ He turned the key, swung the door open, motioned the Temporary Odd Man to enter 
 
 It was while young Mr. Delgairn had been enjoying those moments (alas! too brief) of brilliant conversation with Signor Alessandria at his own table that the Young [[Artist]], who had jumped into the carriage at Whitchell Station, was saying so genially to M. Caen, “Only just got it!” It was while young Mr. Delgairn and Signor Alessandria were taking their first sip of port that M. Caen was deciding, with the rapidity demanded by the occasion, how that occasion should be met. While he yet turned the problem over in his mind his companion met him half-way.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Alessandria aveva spesso motivo di ringraziare il regno della legge in Inghilterra e le abitudini di tranquilla serenità che ne derivavano. Quando era arrivato per la prima volta, aveva notato il garage aperto; raggiunse la sua auto, ma poi gli venne in mente qualcosa di così ovvio che avrebbe potuto pensare di averlo già previsto in anticipo, ma in realtà non l’aveva fatto. Partire con un’auto di notte è come innescare una sparatoria a raffica. E cosa avrebbe fatto per la porta del cancello? Non c’era altra soluzione: doveva occuparsene. Il cancello si trovava a un quarto di miglio di distanza, e nessuno doveva sentirlo.
+
+Tenendo il proprio bottino ben nascosto sotto il cappotto, si muoveva silenziosamente attraverso l’erba, evitando i pericoli rappresentati dai ciottoli; raggiunse poi la porta, la aprì con movimenti lunghi, agili e sinuosi, e fissò lentamente il meccanismo di chiusura in modo che la porta rimanesse aperta. Tutto avvenne senza alcun rumore. L’uscita era pronta per lui, aperta affinché potesse passare a tutta velocità.
+
+Tornò nel garage entro dieci minuti; era già seduto al volante, con il piede pronto sul pulsante di avviamento. Era una serata calda. Non ci sarebbero stati problemi. Aveva il serbatoio pieno; non avrebbe acceso i fari finché non fosse partito.
+
+Tutto andò bene. A una velocità mai raggiunta prima nella sua vita – e lui era un guidatore abile – attraversò rapidamente quella breve strada, superò il cancello e iniziò a correre lungo la strada verso Portsmouth Road.
+
+In punta di piedi sul carrello per i bagagli, aggrappato con tutte le sue forze al retro del cofano, si accovacciava quell’uomo strano e temporaneo.
+
+Così attraversarono la notte, con l’aiuto della benzina, molto più velocemente del previsto.
+
+Non avevano potuto percorrere più di tre miglia quando la prima persona che si era svegliata nel sonno a North Merton a causa del fragoroso rumore del motore che si avviava (era il conducente) fu completamente destata. Il fuggitivo doveva aver percorso circa otto miglia quando quel conducente pensò di vestirsi. Prima ancora che l’auto volante avanzasse altre dieci miglia, quel conducente stava già gridando chiamando il suo padrone alla porta principale. Con lui c’era il giovane signor Delgairn, ancora mezzo addormentato e in pigiama; tutto ciò accadeva prima che l’auto di Alessandria avesse preso un vantaggio di venti miglia. Il fuggitivo doveva trovarsi a circa trenta miglia di distanza quando la caccia si intensificò, le luci della casa si accesero tutte e il telefono continuò invano a chiamare senza ricevere alcuna risposta.
+
+Non è necessario seguire ulteriormente le sorti di quella famiglia. Trascorse circa un’ora prima che arrivasse la polizia; altre due ore furono necessarie perché la casa venisse perquisita a dovere e si potesse verificare che nulla mancava. Alla fine, l’alba di inizio giugno illuminò una situazione irrisolta. Nel frattempo, la potente Lancia si trovava ormai a ottanta-dieci miglia di distanza, sulla sua strada; annusando l’odore dello stallo, accelerò ulteriormente.
+
+L’Uomo Strano Temporaneo aveva compiuto miracoli. Ma era stato uno sforzo enorme per lui. Non sapeva dove lo stesse portando il suo autista. Pregava che quell’avventura finisse presto: un Uomo Strano Temporaneo, anche se vestito in abiti comuni e aggrappato al portabagagli o al parabrezza di una Lancia da corsa, è senz’altro una vista sospetta a pieno giorno.
+
+Il suo eroismo fu premiato. Attraversavano rapidamente la terra devastata della regione orientale del Weald, prima ancora che potesse essere definita giorno. Quando ormai una persona riusciva a distinguere i dettagli del proprio abito nella penombra, la Lancia aveva già svoltato bruscamente in una strada secondaria, poi su un sentiero ancora più stretto, fino a fermarsi con un frenata decisa davanti a una piccola e tranquilla casetta; esattamente il tipo di dimora che uno che si occupa di acquisti e vendite di oggetti preziosi potrebbe scegliere. Signor Alessandria, stirando il proprio corpo allungato e alzando le braccia per il sollievo dopo lo sforzo, era finalmente arrivato a casa.
+
+L’uomo strano e temporaneo si accovacciò in basso. Aveva paura che la Lancia finisse contro il muro del garage; corse il rischio, e fu salvato da pochi centimetri di distanza. Vide il suo “conduttore involontario” chinarsi nell’area posteriore dell’auto per prendere l’“opera d’arte”, poi alzare il corpo, tirare fuori una chiave dalla tasca e dirigersi verso la porta della capanna. Ormai era pieno giorno.
+
+L’Uomo Strano Temporaneo rimase sempre alle calcagna del suo ospite involontario. Quando quest’ultimo aveva una mano impegnata con la chiave e l’altra stringeva il pacco che conteneva il ritratto nel suo quadro, l’Uomo Strano Temporaneo gli mise improvvisamente una mano sulla spalla e disse, a voce abbastanza alta da essere sentita ma non troppo forte:
+
+“Una parola, e tutto è finito!”
+
+Il signor Alessandria, per istinto, lasciò andare la chiave nella serratura e mosse una mano verso una certa tasca. Quella mano fu afferrata dall’Uomo Strano Temporaneo.
+
+“Molto meglio di no!”, disse.
+
+Si guardarono negli occhi a vicenda.
+
+“Lasciami entrare con te e ne parleremo. Penso che scoprirai che possiamo fare affari insieme. Meglio che tu sappia che ne siamo a conoscenza in tutto.”
+
+Chi fosse “noi” – un ingenuo abitante di Smirne, un residente di Malta, un cittadino dell’Impero, un ospite della Gran Bretagna, un membro della classe nobiliare terriera, o ancora un pilota deciso e risoluto nelle gare notturne – non lo sapeva. Ma in un istante decise che quel consiglio era sensato: qualsiasi tipo di affari fossero, restavano comunque affari. E i colpi di rivoltella attiravano sicuramente l’attenzione.
+
+Girò la chiave, aprì la porta, fece segno al “Temporaneo Uomo Strano” di entrare prima di lui; in un attimo estrasse la sua pistola Browning e seguì il suo ospite, con quell’atteggiamento, non direi sospettoso, ma piuttosto di adeguata cautela, del tutto giustificata da parte di un uomo armato nei confronti di qualcuno che presumeva essere disarmato. Il “Temporaneo Uomo Strano”, come potete facilmente immaginare, aveva la mano sinistra infilata nella tasca del cappotto, dove giocava con un altro piccolo strumento dello stesso tipo. Infatti, saper sparare dalla tasca rappresenta il primo elemento fondamentale nell’addestramento per una vita “attiva”.
+
+* * * * * * *
+
+Fu mentre il giovane signor Delgairn stava godendo di quei momenti (ahimè! troppo brevi) di intima conversazione con il signor Alessandria al proprio tavolo, che il giovane [[Artist|Artista]], che era salito sul treno alla stazione di Whitchell, disse gentilmente a M. Caen: “L’ho appena capito!” Fu proprio mentre il giovane signor Delgairn e il signor Alessandria stavano assaporando il loro primo sorso di porto, che M. Caen decise, con la rapidità richiesta dalla situazione, come affrontarla. Mentre ancora rifletteva sulla questione, il suo compagno lo interruppe a metà strada.
 
 
 
@@ -4244,6 +5618,60 @@ At the other end of the wire, the Secretary had barely hung up the receiver when
 
 Before the bewildered Secretary could make a comment upon so astonishing a discrepancy the wire went dead again, and there was no number with which he could communicate.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Beh, signor Caen,” disse, “mi scuserà se uso il suo nome. È davvero famoso! Quindi stiamo viaggiando insieme?”
+
+Il signor Caen non rispose.
+
+“È proprio come dovrebbe essere,” disse il giovane [[Artist|Artista]], incrociando le gambe e appoggiandosi comodamente allo schienale. “Di solito non prendo il posto in prima classe, non me lo posso permettere; ma quando ho visto che avevi preso un biglietto di prima classe, ho pensato che sarebbe stato un peccato perderti compagnia. Dopo tutto, andiamo tutti nella stessa direzione.”
+
+M. Caen rimase ancora in silenzio. Il giovane [[Artist|Artista]] continuò a parlare, con la massima calma e compostezza possibile.
+
+“Dico,” disse lui, “potresti ospitarmi per la notte?”
+
+Allora finalmente M. Caen parlò, lentamente, con pause tra ogni parola.
+
+“Non ti conosco,” disse.
+
+“No? So che non lo sai. Ma, per la mia anima, non so dove potrò trovare un posto dove dormire stanotte. Entrambi scenderemo a Winchester, sarà molto tardi, e domani mattina devo andare in città presto. È molto probabile che non mi lascino entrare all’ostello, vedi, non ho bagagli con me.”
+
+Di nuovo il signor Caen rimase in silenzio. Stava pensando disperatamente. Ricordò storie di gentiluomini intrappolati nei treni che avevano tagliato i lacci per far uscire chi li aveva intrappolati dalla porta. Ma c'erano ben vent’anni di differenza tra lui e quel gioviale [[Artist|Artista]]; inoltre, l’Inghilterra è un paese affollato e fortemente sorvegliato dalla polizia. Si chinò in avanti e disse, con voce rauca e sempre nello stesso modo lento:
+
+“Cosa vuoi esattamente?”
+
+“Te l’ho detto,” disse il giovane artista con sempre maggiore cordialità. “Vorrei che mi ospitassi per la notte. Domani possiamo andare insieme in città, eh? Porta anche quella cosa con te,” aggiunse, indicando con un cenno del capo il pacco che il povero signor Caen aveva rischiato tanto per ottenere. “Andremo entrambi da quel vecchio Harry Bensington. Lui è un mio amico.”
+
+Il signor Caen si appoggiò allo schienale, tenendo lo sguardo fisso su questo inaspettato catturatore.
+
+“È tutto abbastanza chiaro,” continuò il suo compagno. “Lo sappiamo tutto. Tu vai a Bensington, come ti ho detto: è davvero la soluzione migliore. Allora posso prometterti con certezza che non ci sarà alcuna azione legale contro di te. Se tu facessi storie, invece, sì. Mentre eri via e io ero al pub, ho lasciato un messaggio in modo che potessero comunque rintracciarti. Ora sii ragionevole e fai come ti dico.”
+
+Il signor Caen riassunse rapidamente le varie possibili vie di fuga. Scoprì che tutte erano chiuse a chiave e sbarrate. L’uso della violenza era fuori discussione; la fuga era impossibile, dato che non c’era dubbio su chi fosse più veloce. Chiedere l’intervento delle autorità era altrettanto inutile: quell’uomo probabilmente aveva prove contro di lui e avrebbe potuto ribaltare la situazione; inoltre, poteva anche essere uno dei loro stessi agenti. Comunque fosse, il signor Caen stesso si trovava dalla parte sbagliata della legge penale, e lo sapeva bene: possedeva infatti merci rubate.
+
+“E ora cosa facciamo?” disse il giovane artista. E il signor Caen rispose: “Molto bene!” Non si scambiarono altre parole.
+
+A Winchester scesero dall’auto. Il signor Caen, tenendo convulsivamente il suo prezioso pacco, si diresse con passi sicuri verso il garage dove lo servivano sempre, giorno e notte. Fece segno al suo nuovo amico di salire per primo, e insieme percorsero i pochi chilometri che li separavano dal loro destinazione.
+
+Nella deliziosa casetta di King’s Worthy, dove si fermarono, il signor Caen propose che il giovane artista dormisse lì, e il giovane artista suggerì invece che fosse il signor Caen ad alloggiare lì. Entrambi desideravano avere con sé, o quanto meno stare costantemente in compagnia di, quel “capolavoro”.
+
+Finì con loro seduti su due sedie una di fronte all'altra, nel breve periodo di oscurità che rimase. Due volte povero M. Caen rischiò di addormentarsi, e l'altro provava compassione per quell’uomo più anziano; ma il dovere era il dovere, e una commissione, beh, sembrava proprio importante!
+
+M. Caen non sembrava mai stancarsi davvero; era esausto quando, verso le sette di sera, sentirono il vecchio servitore scendere pesantemente le scale. Il proprietario di casa ordinò del caffè e chiese gentilmente al suo ospite cosa desiderasse bere; lui stesso, seguendo la consuetudine continentale, si accontentò di un po’ di pane e caffè. Il giovane artista fu molto accomodante e altrettanto educato: avrebbe accettato qualsiasi cosa M. Caen fosse stato così gentile da offrirgli. Dopo il caffè, potrebbe chiamare al telefono? Probabilmente non ne valeva la pena prima delle nove. Ma forse poteva provare alle nove? Immaginava che M. Caen avesse un telefono. Sì, M. Caen rispose con tono freddo e senza enfasi. Il giovane poteva chiamare alle nove.
+
+Pertanto, alle 8:45 in punto, il giovane artista si recò nelle stanze di King Street. Conosceva bene le abitudini di Bensington: Sir Henry non doveva essere disturbato prima delle nove. Il messaggio poteva essere lasciato lì; il segretario arrivava sempre esattamente alle 8:30. Il messaggio era quello concordato in precedenza, con gli spazi vuoti già compilati. “Dite a Sir Henry che ciò che aspettava è stato ottenuto. Ditegli che sono qui con il signor Caen, a King’s Worthy; lui ed io verremo insieme, ” A Caen: “Avete un alfabeto?”
+
+La vittima allungò la mano verso lo scaffale e consegnò al suo carceriere l’orario locale. L’uomo al telefono lo guardò rapidamente, poi disse al telefono:
+
+“Lasciami pensare, sì, saremo a Waterloo entro le due e ci incontreremo con te prima delle tre. Ti va bene?” aggiunse, rivolgendosi a M. Caen da dietro la spalla. E M. Caen annuì in silenzio.
+
+* * * *
+
+All’altro capo del filo, il Segretario aveva appena riattaccato il ricevitore quando suonò di nuovo un campanello acuto. Rispose al telefono.
+
+“Per favore, trasmetta al signor Henry il seguente messaggio concordato” (il segretario prese la sua penna): “Quello che stava cercando è stato trovato. L’ho qui a Battle e sto per portarglielo; arriverò nel suo ufficio poco prima delle quattro di oggi, signor Alessandria.”
+
+Prima che il perplesso Segretario potesse fare un commento su una discrepanza così sorprendente, la linea telefonica si interruppe di nuovo, e non fu possibile comunicare con nessuno.
 
 
 
@@ -4311,6 +5739,68 @@ M. Caen neither took it nor left it — he stood silent, considering the matter 
 He also was in the trade; he also knew very well what was meant by these periodical “thefts” of pictures; he also knew a great deal about Henry Bensington’s earlier life. But then he knew also a good deal about the English judicial system, about the powers of money in our society, about the advantages of living in England after being born in Cologne, compared with living in [[France]] after being born in Vienna. He turned the whole thing over in his admirably sane judgment, and he came to his conclusion.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIII
+
+Quando Sir Henry Bensington entrò nella sua stanza all’ora esatta e puntuale, pronto a esaminare la sua corrispondenza, il suo segretario, quel prezioso collaboratore, gli mise davanti per primo i due messaggi telefonici. Egli giudicò correttamente che fossero necessari affrontarli immediatamente.
+
+Il grande Dealer prese il primo foglio e lo lesse rapidamente, il suo volto cambiando espressione man mano che leggeva.
+
+“Ah!” esclamò, davvero sollevato e soddisfatto. “Bravo lavoro! Ho sempre sospettato di quel tizio di Caen. Ma per quanto riguarda il modo in cui è stato rintracciato, non conoscevo nulla di più intelligente!” Guardò di nuovo il messaggio. “Arriveranno entro le due e mezza. Bene, questo mi dà il tempo di prepararmi. Penso di sapere cosa fare ora. Ottimo lavoro, vero?” disse, guardando l’uomo più giovane con una rara familiarità.
+
+“Sì, signore,” disse il segretario obbedientemente. “Ma, credo ci sia un secondo messaggio, signore, vorrebbe darci un’occhiata prima di passare alle lettere?”
+
+Henry Bensington lo prese in mano. “Pensavo fosse una copia,” disse. Poi aggrottò la fronte, mise il labbro inferiore tra i denti, rilesse il primo messaggio, poi il secondo; e disse con rabbia: “Guardate qui. Che cos’è questo?”
+
+“Li ho ricevuti esattamente come erano, signore,” disse l’altro con un appropriato senso del rispetto per se stesso. “Penso che possiate fidarvi di me, ”
+
+“Oh, sì, sì, sì” (con un po’ di rabbia). “Non ti sto incolpando. Sarebbe stupido. Certo che non ti sto incolpando. Ma, ” (esplodendo) “Dannazione, amico! Non ha senso! Hai sentito quelle voci?”
+
+“Piuttosto chiaramente, signore.”
+
+“Li hai riconosciuti?”
+
+“Sì, signore. Prima Appleton, poi Ranford.” Bensington aggrottò la fronte ancora di più e si immerse nei suoi pensieri. Non riusciva a capire nulla. Quell’indirizzo era stato scoperto nella tana di quel vecchio furfante, Caen, a King’s Worthy. Sì, ricordava di aver annotato quell’indirizzo nel suo indice cartaceo: la casetta di Caen in Inghilterra, dove viveva con il nome che aveva scelto per quella zona. Un luogo molto appartato, perfetto per riposare in tranquillità.
+
+“Allora, di cosa si trattava esattamente questo messaggio da parte di Rye?” Lo rilesse ancora una volta e si rese conto che, nella sua prima confusione, aveva tralasciato il nome essenziale: Alessandria.
+
+Alzò lo sguardo rapidamente verso la sua segretaria.
+
+“Potresti andare nel mio armadio con l’indice cartaceo? Ecco le due chiavi” (dandoglie), “e controllare se abbiamo qualche informazione sui movimenti del signor Alessandria. Ha preso parte a qualche battaglia nelle vicinanze?”
+
+Il segretario tornò. “Deve essere successo di recente, signore. L’abbiamo inserito nel registro meno di un mese fa; ci sono tutti i rapporti provenienti da Lyon e Rouen, nonché l’intervista che ha avuto con il curatore del museo locale e il passaporto falso. Non c’è nulla riguardo a Battle.”
+
+“Beh, è a Battle che lo hanno, quindi è a Battle che si trova, ” e di nuovo Bensington aggrottò la fronte, “È incredibile,” aggiunse. “A meno che uno di loro non sia impazzito. Entrambi conoscevano bene quella foto, e sono entrambi uomini addestrati.” Guardò di nuovo il secondo messaggio. “Hmph! Poco dopo le quattro? Mi portate subito l’A.B.C., per favore. Sì, è quello che serve. Ha tenuto conto del possibile ritardo e arriverà in treno. Beh, suppongo che tutto diventi più chiaro quando sarà il momento. Ma adesso non capisco assolutamente nulla.”
+
+* * * *
+
+A King’s Worthy, il vecchio e stanco signor Caen, privo di sonno per tutta la notte, partì con il suo rapitore in quella piccola auto noleggiata verso la stazione di Winchester. Ma su una cosa aveva insistito: voleva che il quadro fosse tenuto al guinzaglio. Il giovane [[Artist|Artista]] non aveva alcun potere su di esso. E se qualcuno, tranne lui stesso, avesse toccato il dipinto, lui si sarebbe ribellato, avrebbe considerato quel gesto un’aggressione e avrebbe chiamato aiuto.
+
+Era disposto ad agire in silenzio e a intervistare Bensington. Ma l’“Capolavoro” era lì, rappresentava un bene prezioso, e non aveva intenzione di lasciarlo andare.
+
+Prese la precauzione di infilare l’estremità della corda che legava il pacchetto attraverso una taschina del suo cappotto e di annodarla; poi se lo mise sotto il braccio, tenendolo saldamente fino a quando non arrivò in città e, successivamente, nella cabina dell’auto fino all’ufficio di Bensington in King Street.
+
+Fu fatto entrare proprio poco prima dell’ora indicata dal giovane [[Artist|Artista]] nel suo messaggio telefonico: le due e mezza. Il giovane [[Artist|Artista]], con una cortesia degna di cause più nobili, con l’onore cavalleresco di un mondo più antico, permise al commerciante d’arte francese di entrare da solo nell’ufficio e nella presenza di Bensington. Chiuse silenziosamente la porta e si recò in un altro locale attraverso un passaggio sul retro; quel locale era separato dallo studio dove avveniva l’incontro soltanto da una tenda.
+
+M. Caen e Henry Bensington si fronteggiarono. Caen, con la tela ancora avvolta sotto il braccio; Bensington, con le mani nelle tasche del cappotto, deciso e pronto all’azione.
+
+Erano soli, a parte, naturalmente, il signor Appleton dietro le tende.
+
+# Henry Bensington parlava tedesco – fortunatamente una lingua comune per entrambi.
+
+“Beh, signor Caen. Sarà così nobile da restituirmi le mie proprietà che tiene in suo possesso?”
+
+Fu il turno di Monsieur Caen di parlare. Parlò con dolcezza e con perfetta moderazione, come ci si aspettava da un uomo dal sangue gallico; inoltre, il fatto che la sua protesta fosse espressa anche in tedesco le conferiva una profondità ulteriore.
+
+“E se la tua proposta così diretta non potessi accettarla in modo appropriato?” disse lui.
+
+“Allora è semplice,” rispose Henry Bensington con decisione. “Vi processo per aver ricevuto merci rubate, sapendo benissimo che lo erano. Siete un noto commerciante d’arte; nessuno crederà che non foste a conoscenza dell’opera straordinaria di Bourrot. Significa prigione. Prendetelo o lasciatelo.” Conosceva anche in parte il passato del signor Caen.
+
+Il signor Caen né la prese né la lasciò; rimase in silenzio, riflettendo molto attentamente sulla questione.
+
+Anche lui era nel settore; sapeva molto bene cosa si intendesse con questi “furti” periodici di quadri; conosceva inoltre molti dettagli sulla vita precedente di Henry Bensington. Ma conosceva anche molto bene il sistema giudiziario inglese, il potere del denaro nella nostra società, nonché i vantaggi di vivere in Inghilterra dopo essere nato a Colonia, rispetto a vivere in [[France|Francia]] dopo essere nato a Vienna. Analizzò tutta la situazione con il suo giudizio straordinariamente lucido e ragionevole, e arrivò alla sua conclusione.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_02" data-title="The Missing Masterpiece — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/appearance_vs_reality,concept/money_and_avarice,concept/satire_of_society,form/satire"></span>
@@ -4371,6 +5861,62 @@ When in due course Signor Alessandria was thus ushered in, with that obsequiousn
 The well-groomed guest made no sign of understanding. He answered in the Italian tongue that he was not possessed of the English idiom. Luckily he had the inestimable advantage of having learnt German in youth. That tongue being equally familiar to Sir Henry, he, in the virile accents of the Teutonic forests, told Signor Alessandria without reserve what he thought of him. He repeated the remarks in French, and (what was really astonishing — but Sir Henry actually possessed a little Maltese) in Maltese. Perhaps he would have gone on in the Greek of Smyrna, but Signor Alessandria replied in German, without irritation, but also without the least subservience. He knew what Sir Henry Bensington demanded of him — he demanded the “Ame Bourgeoise,” which he, the Signor, had there on a chair beside him. But Signor Alessandria knew the value of that picture, which he had acquired with very great difficulty. He was not prepared to let it go, save, of course, after negotiation.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Accetterò le vostre condizioni,” disse.
+
+Sir Henry Bensington guardò il tavolo e le proprie mani posate su di esso. Chiese di vedere il retro della tela. M. Caen la sollevò. Bensington disse gentilmente:
+
+“Signor Caen, non desidero trattarla in modo scortese o disonorevole. Voglio dirle due cose. Prima di tutto, il dipinto che ha portato con sé non è l’originale: si tratta di una copia, e per di più piuttosto scadente. Sull’originale, che purtroppo ho perso a causa di un furto ma spero di recuperare, avevo dipinto sul retro del quadro un cerchio molto evidente e inconfondibile. L’avevo fatto personalmente. So quanto spesso questi oggetti preziosi vengano riprodotti, e volevo proteggermi. Mi scusi se non le dico di che colore fosse quel cerchio. Ora, sul dipinto che mi ha portato non c’è traccia alcuna di questo segno; anche se si trattasse di una buona copia – il che non è – non presenta nemmeno il minimo indizio di tale marca. E l’assenza di essa basterebbe già a dimostrare che non si tratta dell’originale. Questa è la prima cosa che devo dirle.”
+
+Il signor Caen rimase in silenzio; i suoi tratti non rivelavano né sorpresa né imbarazzo.
+
+“La prossima cosa che devo dirvi è questa: non intendo farvi perdere denaro in una transazione che, dopotutto, rientra più o meno nel nostro normale ambito di attività. Spero di avere abbastanza professionalità da non fare una cosa del genere. Anche se ciò che mi avete portato indietro è senza valore, riconosco che vi siano costati delle spese per trovarlo – tutti noi abbiamo queste spese – e sarò felice di darvi, subito adesso, non appena mi consegnerete la tela, un assegno da 500 sterline. Naturalmente, devo chiedervi una ricevuta conforme alle normative.”
+
+Il signor Caen, il cui giudizio era rapido, oltre che accurato e profondo, rispose senza esitazione.
+
+“La ricevuta… L’hai preparata per me nella forma corretta?”
+
+In risposta, Henry Bensington tirò fuori dalla tasca un lungo foglio di carta timbrato; il assegno era attaccato con una spilla. Il signor Caen firmò regolarmente, scrivendo la parola “Caen” in modo chiaro e leggibile, come avrebbe fatto un nobile inglese o un borghese francese (che in realtà era); dopo la firma, aggiunse anche alcuni piccoli ghirigori e ornamenti tipici dei borghesi francesi, piuttosto che dei nobili inglesi. Il documento costituiva una ricevuta per 500 sterline “per ricerche condotte allo scopo di rintracciare l’opera perduta di Bourrot; purtroppo, tali ricerche si erano rivelate infruttuose”.
+
+“Grazie!” disse Sir Henry, riponendo il foglio in tasca. Come onesto inglese che era, tese la mano. Purtroppo, M. Caen si limitò ad accarezzarla delicatamente con le unghie di due dita e se ne andò, sorridendo in modo molto sgradevole.
+
+Ma proprio mentre stava per uscire dalla porta, Sir Henry Bensington alzò la mano e lo chiamò indietro.
+
+“Un attimo, signor Caen,” disse educatamente.
+
+Il signore con cui il signor Caen era molto bene a conoscenza, a causa di un viaggio che avevano fatto insieme in treno, entrò dall’altra parte della stanza.
+
+“Hai sentito tutto ciò che è accaduto?” disse Sir Henry in tono tranquillo.
+
+“Sì, signore. Tutto è scritto qui, in tedesco, nelle mie note.”
+
+“Esatto!”, disse Sir Henry annuendo.
+
+E il signor Caen uscì di nuovo.
+
+* * * *
+
+Poco dopo che il signor Caen se n'era andato con la testa bassa, uno dei potenti treni della Southern Railway (precedentemente di proprietà della South Eastern) arrivò al suo capolinea londinese, con un ritardo di non più di mezz’ora; inoltre, da Battle a Londra erano stati effettuati soltanto tre cambi di treno.
+
+Il signor Alessandria aveva davvero suggerito all’Uomo Strano Temporaneo di andare in macchina (poiché era una bellissima mattina), sottolineando che sarebbe stato molto più comodo. A sua volta, l’Uomo Strano Temporaneo aveva osservato che il treno fosse molto più confortevole.
+
+Il signor Alessandria rimpiangeva questo errore di giudizio, perché la sua mente acuta e pronta aveva subito compreso la possibilità di un piccolo incidente: anche se il “Temporaneo Uomo Strano” potesse subire qualche danno, lui stesso avrebbe potuto intervenire immediatamente per chiamare aiuto. Il signor Alessandria era un guidatore abile; inoltre, l’incidente del “Temporaneo Uomo Strano”, seduto sul lato vicino alla strada, avrebbe potuto essere gestito facilmente in qualsiasi momento opportuno.
+
+Più o meno lo stesso filo di pensieri era passato per la mente di quell’uomo strano e temporaneo, nonostante la mancanza della velocità tipica dei processi mentali “in corsivo”. Lui preferiva quel modo di pensare.
+
+Il signor Alessandria non era padrone di sé; non insistette ulteriormente e accettò la decisione. E fu felice di notare che il “Temporaneo Straniero” non ebbe alcuna obiezione riguardo alla vera e propria gestione della tela. Il signor Alessandria tenne il piccolo quadro, ancora avvolto nella sua custodia, proprio dietro di sé, tra la schiena e il cuscino, per tutto il tragitto fino in città.
+
+Fu loro permesso di entrare insieme nella stanza di Sir Henry Bensington, ma il padrone di casa fece segno al “uomo strano” di allontanarsi; lui obbedì, passando per il corridoio e nascondendosi dietro quella tenda situata sul muro opposto, la stessa che poco prima aveva nascosto il suo collega.
+
+Henry Bensington si appoggiò di nuovo allo schienale della sedia e sospirò. Di solito non si sentiva stanco, ma quella doppia responsabilità, quel dover svolgere due ruoli contemporaneamente, lo trovava un po’ estenuante. Tuttavia, era necessario portare a termine quella situazione. Da quando M. Caen se n’era andato, secondo il piano previsto erano già trascorsi circa trenta minuti. Aveva bevuto un bicchiere di sherry, mangiato un biscotto e fumato una sigaretta; ora si sentiva rinfrescato.
+
+Quando finalmente il signor Alessandria fu introdotto con quella deferenza che il suo davvero distinto aspetto richiedeva da parte del personale ben addestrato, sir Henry si inchinò al suo collega, al suo confratello professionista, al suo fratello esperto, al suo compagno nell’amore per la bellezza pittorica, al suo associato nel culto di Apollo, e disse così:
+
+“Non desidero trattenervi, signor Alessandria; forse è meglio cominciare subito con l’argomento principale.”
+
+Il visitatore ben curato non diede alcun segno di aver capito. Rispose in italiano, spiegando di non conoscere l’idioma inglese. Fortunatamente aveva avuto la grande opportunità di imparare il tedesco da giovane; poiché anche Sir Henry conosceva bene quella lingua, questi, con gli accenti caratteristici delle foreste teutoniche, espose senza riserve ciò che pensava di lui. Ripeté le sue osservazioni in francese e, cosa davvero sorprendente – ma Sir Henry conosceva anche un po’ il maltese – anche in maltese. Forse avrebbe continuato anche in greco di Smirne, ma Signor Alessandria rispose in tedesco: senza irritazione, ma nemmeno la minima sottomissione. Sapeva bene ciò che Sir Henry Bensington gli chiedeva. Gli chiedeva il “Ame Bourgeois”, che lui stesso aveva lì, su una sedia accanto a sé. Ma Signor Alessandria conosceva perfettamente il valore di quel dipinto, ottenuto con grande difficoltà; non era disposto a rinunciarvi, a meno che non ci fosse stata una negoziazione.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_03" data-title="The Missing Masterpiece — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/appearance_vs_reality,concept/crime_and_punishment,concept/power_and_corruption,concept/satire_of_society,form/satire"></span>
@@ -4406,6 +5952,38 @@ Henry Bensington produced a receipt identical in form with that which M. Caen ha
 
 Signor Alessandria answered in German, that though he could not speak the language of Galsworthy, he could read it. And taking from his waistcoat pocket a very elegant gold fountain-pen he signed the two words “Carlo Alessandria,” and added without, a blush the five further words, “di Monte Acuto d’Emilia.” Then he took the cheque, bowed very low, and went out with a vigorous dignity which did honour to the blood of the Scipios, the Catos, and all the rest of them: but still more to the Monte Acutos d’Emilia.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non ci sarà nemmeno la semplice negoziazione tra mercanti o rozzi mandriani,” rispose il barone inglese, con una padronanza davvero eccezionale dell’idioma che stava utilizzando.
+
+Il signor Alessandria alzò la testa. Con una decisione ben controllata, mise una mano dietro la schiena, appoggiò il gomito sul tavolo e chiese educatamente, con accenti spezzettati insoliti per chi fa leva sulla propria conoscenza del tedesco, cosa gli sarebbe successo se avesse rifiutato.
+
+Sir Henry Bensington spiegò chiaramente la natura della situazione: il fatto che il dipinto fosse stato rubato, e che, indipendentemente dal modo in cui Signor Alessandria l’avesse ottenuto, quest’ultimo rimanesse comunque un destinatario di beni rubati, o, ora che i fatti erano stati chiaramente esposti, un loro detentore. Sir Henry riassunse brevemente alcuni recenti casi giudiziari che dimostravano cosa accadeva alle persone che si mettevano in questa falsa situazione.
+
+Il signor Alessandria esitò, ma era comunque disposto a provarci.
+
+Sir Henry Bensington schierò le sue riserve in un ordine diverso da quello in cui le aveva utilizzate contro il suo defunto avversario francese.
+
+“Inoltre, posso dirvi,” continuò, “che il vostro lavoro è stato vano. Il dipinto che avete non è l’originale. Per favore, mostratemelo. Sì. È una copia, e una copia molto scadente. Ma anche se fosse la migliore delle copie, posso dimostrare che non è l’originale. Prima di consegnarvi l’originale, ho dipinto una piccola croce, ma molto evidente, sul retro della tela. So quanto spesso queste cose vengano copiate, e l’ho fatto personalmente. Non vi dirò di che colore sia. Potreste gentilmente girare il quadro e mostrarmi il retro? È proprio come dico io: sul vostro dipinto non c’è alcun segno di cancellature; quella croce non c’era mai stata. E per quella croce ho dei testimoni.” Suonò un campanello, e il signore che aveva fatto quel viaggio notturno così veloce insieme al signor Alessandria apparve dietro le tende.
+
+“Ricordi che ho segnato l’originale?” disse Sir Henry.
+
+"Certo, signore. Fu con una croce..."
+
+Il signor Alessandria tese le orecchie – che, sebbene non fossero davvero appuntite, erano comunque acute. Avrebbe dato volentieri gli occhi per sapere se la parola mancante fosse “Vermilion” o “Veridium”; ma uno sguardo furioso da parte di Sir Henry lo fermò: un sguardo furioso, dico, anche se in quel suo sguardo c'era anche una certa ammirazione per la prontezza di Ranford nel aggiungere dettagli a una composizione fantasiosa.
+
+Il signor Alessandria esitava ancora. Sir Henry spiegò la situazione in poche parole. Posò la mano stretta a pugno sul tavolo, con le nocche rivolte all’esterno, e si avvicinò al forestiero.
+
+“Avete la scelta tra due opzioni,” disse. “Un'azione penale immediata, per la quale questo signore” (si rivolse al suo agente) “può fornire prove sufficienti, e su cui ho raccolto una grande quantità di dettagli confermanti; un'azione penale immediata per il reperimento di beni rubati. Posso aggiungere che agirò in questo senso insieme al signor Delgairn; oppure, ” (e qui cambiò tono) “una proposta che sono disposto a farvi. In cambio di un documento ufficiale che ho con me, vi darò un assegno scoperto da 500 sterline. Ora, signore,” disse, sedendosi bruscamente e fissando intensamente la figura ancora affabile e composta davanti a lui, “ecco la vostra scelta: la prigione, o 500 sterline. Questa volta parlo in inglese, quindi dovreste capirmi perfettamente.”
+
+Il signor Alessandria rispose in tedesco. Disse semplicemente di non riuscire a capire ciò che veniva detto, ma suppose che si stesse facendo un’offerta per il dipinto che aveva recuperato, nonché per i suoi sforzi nell’operazione di recupero stesso. Sarebbe stato felice di accettarla.
+
+Henry Bensington produsse una ricevuta identica per forma a quella che il signor Caen aveva firmato poco prima. Il signor Alessandria la lesse attentamente.
+
+“È scritto in inglese”, disse Sir Henry in tono ironico. “Riesci a leggerlo?”
+
+Il signor Alessandria rispose in tedesco, dicendo che sebbene non parlasse la lingua di Galsworthy, era in grado di leggerla. Poi, estraendo dalla tasca del gilet una molto elegante penna a sfera d’oro, scrisse le due parole “Carlo Alessandria” e aggiunse, senza arrossire, altre cinque parole: “di Monte Acuto d’Emilia”. Prese quindi il assegno, si inchinò profondamente e uscì con una dignità tale da onorare il sangue degli Scipioni, dei Cati e di tutti gli altri; ma ancora di più, quello dei Monti Acuti d’Emilia.
 
 
 
@@ -4446,6 +6024,42 @@ He bolted the outer door of the private study. He laid the two, small twin canva
 
 He had not long to wait. Twelve had but just struck when there came a knock at the study door. Bensington opened it himself, and himself bolted it behind old Mr. Gabriel, who shuffled in, alone, as he had been bidden to be in the message, and twisting his thin, clasped fingers, awaiting orders.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIV
+
+Henry Bensington aveva scoperto, attraverso una lunga e fruttuosa carriera professionale, che quando la mente si trovava di fronte a un problema apparentemente insolubile, il modo migliore per affrontarlo era ignorarlo per qualche ora e poi tornarci sopra con nuove energie, grazie anche all’aiuto dell’amicizia e di conversazioni varie.
+
+Chiamò uno dei suoi sei club dove poteva essere sicuro di trovare buona compagnia; fu felice di sentire i nomi di almeno tre persone che erano già lì. Vi si recò in auto per una cena lunga, piacevole e molto vivace; incontrò per la prima volta un uomo che stava per partire verso l’Artico e ne rimase interessato durante la conversazione.
+
+Le ore successive le trascorse deliberatamente in compagnia di altre persone, a casa di Peggy Ralton, l’abitazione con cui forse aveva i rapporti più stretti in tutta Londra; aspettò con calma, cercando di non pensare alla situazione incredibile che lo aspettava al suo ritorno. Ma anche durante quei pochi minuti trascorsi in macchina tra quella casa ospitale e le stanze familiari dove intendeva riflettere sulle sue prossime mosse, enigma continuò a tormentarlo con tutta la sua forza.
+
+Vide, per così dire, nell’oscurità davanti a sé quelle due identiche “Ames Bourgeoises”; quell’immagine mentale vivida lo fece rabbrividire. Era molto oltre mezzanotte quando mandò via l’auto, chiuse a chiave la porta esterna, salì i gradini stretti, accese le luci nello studio, andò nella stanza sul retro dove si trovava la cassaforte, prese fuori le due foto, una in ciascuna mano (maneggiandole con la stessa cura come se fossero davvero autentiche), e poi, tornato nello studio, chiuse a chiave entrambe le porte di quella stanza. Posizionò le foto una accanto all’altra davanti a sé, si avvicinò alla sedia e cercò ispirazione nella stessa presenza di quella enigmatica dualità.
+
+* * * * * * *
+
+Per la prima ora intera della notte, Henry Bensington rimase seduto con le braccia appoggiate sul tavolo, chinandosi in avanti nel tentativo di risolvere quell’enigma irrisolto: Che cos’era questo incubo? Chi erano quei mostruosi gemelli? Qual era il vero originale e quale la incredibile copia? E perché? Poi, ancora, lasciando da parte queste domande, che cosa doveva fare?
+
+Se avesse conservato entrambi, tenendo uno segreto e proclamando l’altro come il tesoro ritrovato, quello nascosto potrebbe essere rivelato per caso durante un secondo furto. E allora il valore del primo sarebbe distrutto.
+
+La soluzione ovvia era distruggere uno e vendere l’altro. Ma cosa succederebbe se distruggesse quello che, come avrebbero dimostrato prove successive, era in realtà l’originale? No, non doveva né sopprimerlo né distruggerlo!
+
+Ma allora, cosa si doveva fare?
+
+Li fissò per ore e ore, nel buio. Quei due dipinti lo possedevano completamente. Entrò in quello stato di trance che deriva da una concentrazione prolungata; tutti coloro che hanno affrontato un problema difficile, di notte e in completa solitudine, conoscono tale stato. È uno stato anormale: la percezione esterna cessa e il senso del tempo si interrompe. Sotto quell’influenza, anche la ragione sembra paralizzata. I due elementi del dilemma si ergono davanti a lui, immutabili come sfingi di ferro, permanenti, dominanti, senza alcuna possibilità di cambiamento.
+
+Nessuna soluzione sembrava possibile. Eppure, in modo invisibile e imprevedibile, la risposta stava arrivando. Fu proprio alla fine di quelle lunghe veglie che avvennero scoperte improvvisi. Le due, le tre, le quattro. Il grande orologio d’epoca continuava a battere sotto la sua vetrina dorata. Lui non sentiva nemmeno il suono. Fu un filo di luce grigia, all’angolo della persiana, a rompere il silenzio. Era l’alba. Henry Bensington sollevò la testa, ritrovandosi improvvisamente nel mondo reale. La stanchezza lo colpì con violenza; sentì un bisogno immediato e irresistibile di dormire. Si alzò barcollando, andò in camera sua, si spogliò e cadde in un sonno profondo. Ma nei pochi secondi tra l’oscurità e la rivelazione, qualcosa gli era stato comunicato. Qualcosa che, in quel momento di estrema stanchezza, non poteva ancora analizzare. Ma che lo aveva colpito profondamente. Quando si svegliò, il piano era già chiaro davanti a lui. Gli restava solo da agire.
+
+* * * *
+
+In una stradina secondaria di Chelsea c’è un piccolo e curioso negozio, squallido e pieno di oggetti raccolti casualmente durante vendite; la collezione sembra sempre più o meno la stessa: ora viene aggiunto questo oggetto strano, ora quello, ma molto raramente. Lì, sotto la scarsa luce di quella finestra sporca composta da piccoli pannelli rotondi, si muove con difficoltà tra oggetti polverosi, file di libri ancora più impolverati sul pavimento, specchi logori e orologi a molla, c’è anche la figura curva e anziana del vecchio signor Gabriel. I vicini non ricordano un momento in cui lui non fosse lì; immaginano, con ragione, che abbia qualche fonte di reddito privata sufficiente a mantenersi in quella vita molto semplice, perché di certo il suo negozio non gli basterebbe mai. È un pensionato di Sir Henry: ben trattato e sotto stretto controllo; al suo stipendio si aggiungono piccole commissioni per eventuali oggetti trovati, ma anche continui ricordi del suo dovere, e delle conseguenze di un fallimento. Tuttavia, ormai quasi non c’è più bisogno di tali controlli. L’abitudine e l’indifferenza dell’età hanno reso il signor Gabriel un agente fedele: gestirà questioni grandi o piccole con la massima puntualità, secondo gli ordini del suo padrone. È diventato affidabile quanto una macchina. Quel mattino, poco prima di mezzogiorno, quando Henry Bensington si svegliò dal coma, gli fu consegnata a mano un messaggio sigillato che lo convocava immediatamente nelle famose stanze di King Street, a Mayfair. Un taxi lo aspettava.
+
+Mentre intanto, in quelle famose stanze, ciò che faceva Henry Bensington era questo…
+
+Chiuse a chiave la porta esterna dello studio privato. Posizionò i due piccoli dipinti, identici tra loro, con il lato inferiore rivolto verso il basso sul tavolo centrale ricoperto di stoffa verde; accese una candela, prese il fermaglio per cravatte e arroventò la punta nel fuoco. Poi, utilizzando quel preciso strumento, praticò rapidamente un piccolissimo foro nell’angolo in alto a sinistra di uno dei dipinti e uno nell’angolo in alto a destra dell’altro. Il primo dipinto lo mise subito nella cassaforte e la chiuse a chiave; il secondo lo posizionò dritto sul tavolo, in attesa del suo servitore.
+
+Non dovette aspettare a lungo. Appena erano suonate le dodici, si sentì bussare alla porta dello studio. Bensington la aprì personalmente e la richiuse a chiave dietro il vecchio signor Gabriel, che entrò da solo, come gli era stato ordinato nel messaggio ricevuto, torcendo le sue dita sottili e intrecciate, in attesa di ordini.
 
 
 
@@ -4523,6 +6137,78 @@ But all the while he was aware of the clock — and at twenty-two minutes to eig
 It isn’t always easy to shepherd people, but Morning Coat never failed; and these two stood in the throng of the lounge together for a moment saying a few words more before parting, when a short man in White Waistcoat and Butterfly Tie, very glorious, showed in the offing. He was walking towards them but looking away to the right, when he bumped into them; apologies, brief introduction — a moment of small talk in which White Waistcoat said something to Morning Coat.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Gli ordini erano chiari e concisi. Riguardavano una certa somma di denaro – ma il signor Gabriel era abituato a questo genere di cose. Ne aveva gestiti molti simili; nessuno di loro così consistente, ma nel complesso, e dopo tanti anni, la somma totale era enorme. Le sue piccole commissioni, accumulate senza alcun scopo nel corso degli anni, rappresentavano il suo unico interesse reale. Scoprì quale sarebbe stata la sua commissione in questo caso e ne fu più che soddisfatto: sapeva che l’avrebbe ricevuta al momento della consegna, e i dettagli riguardanti questa consegna erano stati chiaramente definiti. Non aveva bisogno di affrettarsi; potevano trascorrere diversi giorni prima che il cliente si presentasse (il nome gli era stato fornito), ma non appena l’operazione fosse stata completata, sarebbe stato necessario agire con rapidità. Il denaro, una volta ricevuto da lui, avrebbe dovuto essere pagato entro un’ora in contanti, e non per posta, in King Street. A quel punto il signor Gabriel avrebbe ottenuto la sua piccola commissione in contanti, e tutto sarebbe stato a posto.
+
+Il signor Gabriel si avvicinò ai soliti due vagabondi della città, il giovane Belter e lo robusto Grahame, che erano sempre pronti a guadagnare qualche soldo facile. Ecco i soldi, oltre al denaro necessario per le spese di quel giorno.
+
+Con questo, Henry Bensington ricoprì la tela davanti a sé con uno strato spesso di cartone e un grande panno coperto, tutto avvolto in un pacchetto fatto di carta marrone, lo legò e lo consegnò. Il signor Gabriel lo portò nella cabina che aspettava fuori e da lì a Chelsea. Ecco come, spesso in modo privato, vengono risolti i principali affari di questo mondo.
+
+L’esca era stata posizionata; non restava altro da fare se non aspettare.
+
+* * * * * *
+
+Quella stessa sera, quella bella e calda serata di giugno, poco dopo le sette, i due disperati camminavano avanti e indietro per Little Rodney Street, dietro l’hotel Plantagenet. Quello più alto, Young Belter, indossava ancora il suo abito da mattina; avrebbe cenato più tardi e si sarebbe cambiato nelle sue stanze. Era un giovane dall’aspetto distinto: capelli corti e ordinati, tratti decisi, occhi fermi e voce piacevole.
+
+Quello più basso, Stocky Grahame, aveva forse dieci anni in più; meno “individualistico”, per usare quell'espressione all’epoca, ma con un aspetto più maturo e una certa sicurezza nel proprio comportamento. Era vestito come si addiceva a una cena, e in ogni occasione formale.
+
+Ognuno di loro aveva con sé, insieme a una somma di denaro molto più ridotta, un bel biglietto da cinque sterline nuovo di zecca che poco tempo prima era stato nelle mani del signor Gabriel e, prima ancora, in quelle di Sir Henry Bensington.
+
+Non era la prima volta che si riunivano in quel tranquillo angolo nascosto. Non sarebbe stata nemmeno l’ultima; molte delle persone su cui operavano soggiornavano presso il Plantagenet quando venivano a Londra, e c’era una porta segreta in Little Rodney Street molto comoda per entrare immediatamente non appena tutti i dettagli fossero stati concordati e il piano pronto per essere attuato.
+
+“Sei sicuro che il Duca sarà lì?” chiese il robusto Uomo con Giacca Bianca e Cravatta a Farfalla, alzando lo sguardo verso il suo alto giovane compagno.
+
+“Assolutamente,” rispose il giovane alto con il cappotto mattutino. “Ho chiesto a Percy in ufficio meno di cinque minuti fa. Inoltre, lui è sempre al bar a ordinare un cocktail. Non l’ho mai visto saltare nemmeno un giorno da quando è arrivato qui. E mi aspetta.”
+
+Compararono gli orologi.
+
+“Entra da noi esattamente alle venti e otto, nel salotto. Dopo, lui ed io andremo a vestirci entrambi.”
+
+“Non cenaresti con lui?”
+
+“Mai… è meglio lasciare che tutto si insedi nella mente.”
+
+“Bene. Alle venti in punto, nel salotto.” E il Gilet Bianco andò a passare il tempo da Buffles, mentre il Giubbotto del Mattino entrò dalla porta privata nella residenza dei Plantageneti.
+
+Al bar, come richiedevano il destino e la giustizia, trovò il Duca di Emonsillado che succhiava lentamente una “Sudden Glory” attraverso due cannucce. Conosceva quel giovane da circa due anni; si erano incontrati per caso quando lui era arrivato a Londra, e quel pomeriggio avevano concordato telefonicamente di vedersi per bere qualcosa e scambiare notizie. “Morning Coat” lo aveva chiamato alle cinque.
+
+Sua Grazia lo accolse con calore, poiché gli piaceva la sua compagnia. Questo incontro lo rendeva più saggio: Morning Coat sapeva davvero molto su Londra.
+
+Quella sera, nel Grandee di Castiglia e Aragon c'era meno della solita arroganza. Era in vena di chiacchierare amichevolmente e chiese al giovane quale fosse il suo nome. Dopo averlo saputo, impiegarono dieci minuti o un quarto d’ora per preparare i primi due cocktail, seduti uno accanto all’altro sulle loro grandi poltrone di pelle. Hardham ascoltò molte cose interessanti: riguardo all’irruzione della polizia a Crippins, al motivo per cui un altro magistrato aveva preso in carico il caso, al fatto che Biddy Barry aveva fornito il nome di sua zia, e anche a come il Ministro dell’Interno fosse riuscito a sfuggire alle conseguenze delle sue azioni. Alla fine, dopo un breve silenzio, durante il terzo cocktail, Morning Coat aggiunse:
+
+“Mi chiedo se ti interessino le foto…”
+
+“Mai più”, rispose El Duque. “Dall’avvento del cinema sonoro, no”.
+
+“Intendo i dipinti.”
+
+“Ah… Perché?”
+
+“Morning Coat si chinò in avanti e disse a voce più bassa…”
+
+“Qualcuno è stato trovato… Il Bourrot di Harry Bensington.”
+
+Il Duca mostrò poco interesse. Continuò Morning Coat:
+
+#Hai sentito parlare di quel furto?
+
+“Sì” – ancora senza alcun entusiasmo.
+
+“Beh,” e qui Morning Coat abbassò la voce a un sussurro, guardandosi intorno per assicurarsi che nessuno potesse sentire. “Harry Bensington non lo rivedrà mai più! La prima cosa che saprà è che sarà al sicuro altrove, e non verrà fuori fino a quando tutta questa situazione non si sarà calmata. Indovinate chi ce l’ha?”
+
+Sua Grazia scosse la testa, con un certo fastidio.
+
+“Vecchio Gabriel! Conosci dove si trova il nascondiglio di vecchio Gabriel?”
+
+“Nah.”
+
+“Morning Coat” descriveva con precisione la posizione, la strada e il numero di quel piccolo negozio trasandato nel Chelsea: la vetrina a bow-window, la figura anziana e grigia dell’uomo che lo gestiva, tutti quei trucchi utilizzati per attirare i clienti. Persino l’orario mattutino in cui il negozio apriva. Poi, rispettando con cortesia l’evidente noia del suo ospite, continuò a parlare delle possibilità di vittoria di Enrico II a Goodwood, successivamente del divorzio di Tillington, e infine del caso Steyning.
+
+Ma in tutto quel tempo era consapevole dell’orologio; alle ventidue e venti minuti si alzò e guidò l’uomo più anziano verso il salotto, dicendo che doveva andare a vestirsi.
+
+Non è sempre facile guidare le persone, ma Morning Coat non mai falliva; quei due stavano insieme nella folla del salotto, scambiando ancora qualche parola prima di separarsi, quando all’improvviso apparve un uomo basso, con giacca bianca e cravatta a farfalla, molto elegante. Si stava dirigendo verso di loro, ma guardava verso destra; per questo li urtò. Scuse, brevi presentazioni. Un momento di chiacchierata durante il quale l’uomo con la giacca bianca disse qualcosa a Morning Coat.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_03" data-title="The Missing Masterpiece — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/greed,concept/money_and_avarice,concept/vanity,concept/satire_of_society,form/satire,setting/london"></span>
@@ -4570,6 +6256,50 @@ The Inspiration was so sudden that Hardham was almost awed. In a moment he was v
 
 Once he had that canvas he was in command. Possession was everything. Even if Bensington wouldn’t sell (and Hardham guessed he would! Money talks!), there would be delays.... and (here he chuckled) it might be stolen again... there were all sorts of ways.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Hai sentito parlare di Bourrot?” Poi si fermò, rendendosi conto di aver detto troppo, lanciò un’occhiata al Duca e esitò.
+
+“Va tutto bene,” rise Morning Coat. “L’ha appena sentito… Gliel’ho detto io.”
+
+“Oh!” esclamò il Gilet Bianco, molto sollevato. “Beh, temo che entro domani sera la notizia si sarà diffusa in tutta Londra. Ma intanto, ” guardò intorno furtivamente; poi mormorò in fretta: “Qualcuno deve averlo detto a Vurry Norbolt, e lei sta già indagando!”
+
+Sorrise in modo misterioso e se ne andò.
+
+Il Duca pensò che fosse arrivato il momento di vestirsi, e lo stesso fece anche Morning Coat; se mi credete, mentre passava accanto a White Waistcoat nella folla, gli fece l’occhiolino. Ma il Duca proseguì da solo, più lentamente.
+
+Non aumentò la velocità finché non fu al sicuro dentro casa sua. Poi, con la rapidità di un grande terrier, saltò sulla sua scatola di emergenza, la aprì, prese ciò che chiamava scherzosamente “la Razione di Ferro” – un robusto involucro pieno di appunti – scese le scale posteriori a due gradini alla volta (disprezzando gli ascensori e tutta quella pubblicità), uscì dalla porta laterale in un vicolo dove nessuno lo vedeva, corse verso un taxi in quarantadue secondi, diede l’indirizzo di Gabriel a Chelsea e promise il doppio della tariffa.
+
+Mentre correva lungo il Lungomare, imprecando contro gli ostacoli rappresentati dai ponti, la sua mente eccitata non aveva ancora elaborato alcun piano. Il denaro poteva risolvere qualsiasi cosa. Il denaro aveva sempre potuto. Oh! Se solo il signor Gabriel fosse stato ancora vivo a quell’ora.
+
+In dodici minuti arrivò a Chelsea. Fermò il taxi duecento metri dal luogo dove gli avevano detto che Gabriel teneva il suo negozio. Pagò e vide l’auto allontanarsi senza problemi, poi corse lungo la stradina laterale verso la vetrina d’angolo descritta loro. Il negozio era chiuso, ma il proprietario poteva essere dentro. L’unica cosa importante era arrivare prima di tutti. Bussò alla porta con forza.
+
+Batté di nuovo. Non ci fu risposta. La terza volta continuò a battere senza curarsi delle conseguenze. Era deciso. In soffitta si aprì una finestra; una vecchia donna gli disse prima cosa pensava di lui, e poi, in risposta alle sue domande, che il signor Gabriel non sarebbe arrivato fino al mattino. A che ora? Mai prima delle otto! Dove si trovava il suo indirizzo privato? La finestra del soffitto si chiuse con forza.
+
+Non c’era altra scelta: doveva aspettare. Ma tornò in albergo febbricitante. E se Gabriel l’avesse portato con sé? E se fosse andato direttamente da Vurry? E se in quel momento Vurry lo avesse avuto a casa sua, al sicuro?
+
+Quella notte dormì molto poco: aveva delle razioni alimentari sotto il cuscino e, ogni volta che le assumeva, visioni confuse di sfortuna lo assillavano. Tuttavia, quel breve periodo di tempo gli fu utile. Poiché si svegliava molto presto nelle mattine estive, aveva il tempo di pianificare.
+
+Si alzò e si vestì alle sei; nella quiete della stanza, seduto al tavolo del soggiorno con la penna in mano e davanti a sé le bellissime pagine di carta da lettera con il motivo Plantagenet, ripassò i dettagli del caso.
+
+In primo luogo, Gabriel avrebbe potuto già sbarazzarsi di Bourrot, probabilmente per il bene di Verecundia. Scacciò quel pensiero orribile dalla sua mente.
+
+In secondo luogo, supponiamo che Gabriel l’abbia ancora: quella tela non apparteneva a lui, ma a Bensington. Se Gabriel l’avesse venduta, l’avrebbe fatto considerandola un bene rubato – perché chi si occupa di questo genere di affari non poteva fingere di non conoscere quel capolavoro – e ciò significava che doveva trattarsi di qualcosa di estremamente prezioso. Avrebbe dovuto esserci qualcosa di davvero enorme per spingere un uomo anziano a correre il rischio di finire in prigione per almeno tre anni, e forse fino a otto. Forse non l’avrebbe fatto nemmeno per una cifra enorme. Il Duca succhiò la matita e aggrottò la fronte: non gli era mai passato per la mente che il potere del denaro avesse dei limiti. Si appoggiò allo schienale della sedia e guardò il soffitto, come se cercasse lì un consiglio.
+
+Il soffitto gli ricordò qualcosa, facendolo tornare a riflettere seriamente.
+
+Anche se Gabriel fosse caduto (come il collega omonimo di Lucifero), anche se Gabriel “avesse ceduto alle pressioni” e avesse corso il rischio di consegnare l’Opera Maestra in cambio di denaro contante, cosa avrebbe potuto farne Hardham? Non poteva possederla pubblicamente. Era comunque merce rubata. Beh, in ogni caso, questo la teneva lontana dalle mani di Vurry.
+
+Ma aspetta un attimo. Comunque sia, avrebbe il peso di questo fatto per tutta la vita. Potrebbe distruggerlo?. Ma ha letto troppe storie poliziesche (non leggeva altro che notizie sulla Borsa, sui tribunali penali e sulle corse ippiche, visto che giocava d’azzardo). Un omicidio viene sempre scoperto. Se anneghi il cadavere, galleggia; se lo bruci, restano ossa carbonizzate; se lo seppellisci, la terra “rivela” i suoi segreti. In ogni caso, la sua vita sarebbe perseguitata dall’ansia per sempre. Era davvero un enigma terribile!
+
+Sua Grazia stava masticando con forza la matita, ma non aveva scritto nemmeno una parola riguardo al piano da seguire. Avrebbe aspettato che le cose prendessero una certa piega. No! Per Dio, non poteva permetterselo. Colpì il tavolo con forza. “No! Che cosa significa ‘che le cose prendano una certa piega’? Significa che Vurry se ne impossesserà sotto il mio naso!” Guardò con rabbia la statuetta di bronzo sul caminetto, come se fosse proprio la robusta Marchesa in persona, e ringhiò contro di essa: “Vurry non l’avrà! Stasera non suonerà il coprifuoco. No, Sur!”
+
+Era per questo che era venuto a Londra. Era per questo che si trovava lì. Non era ancora stato punito. E una volta di più cercò consiglio “dall’alto”, dal soffitto; e una volta di più il soffitto fu generoso e decise di rivelargli qualcosa.
+
+L’ispirazione arrivò così improvvisamente che Hardham ne rimase quasi sbalordito. In un attimo iniziò a buttare giù rapidamente i suoi piani. Certo! Era ovvio! Doveva prendere in prestito il Bourrot. Non comprarlo, ma prenderlo in prestito: solo per darci un’occhiata, per un breve periodo di tempo, con una ricevuta ufficiale e la promessa scritta di restituirlo. E anche la promessa scritta di informare Bensington del prestito. Ecco! Era la soluzione giusta! Nessun rischio di finire in prigione per il vecchio Gabriel. Solo una situazione sgradevole con Bensington, e forse la perdita di un rapporto commerciale. Oh sì! Avrebbe richiesto qualche sforzo; una somma abbastanza alta da convincere quel vecchio commerciante a compiere un’azione così irregolare. Sì, irregolare, ma dopotutto non criminale. Comunque, era un piano fattibile e con molte possibilità di successo.
+
+Non appena ebbe quel telo, fu lui a comandare. La proprietà era tutto. Anche se Bensington non avesse voluto venderlo (e Hardham sospettava che lo avrebbe fatto! Il denaro parla!), ci sarebbero stati ritardi, e (qui rise) poteva anche essere rubato di nuovo, c'erano infinite possibilità.
 
 
 
@@ -4621,6 +6351,52 @@ Mr. Gabriel sat down in great relief.
 “Naw! When Ah say Ah’ve a Proposition to put to ye, it’s the wrawng word p’raps.. — . — . All Ah want ye to do fer me’s this. I want yer to let me look at the picture jest fur two days — or mebbe three....” He put up his hand to check an interruption. “Now listen t’me. Ah’ve a reason. Ah’m a purchaser. Sir Harry’ll tell you that. Ah’ve made him a firm offer, and so he’ll tell ye himself when ye see him. And Ah said to him while it wurr still on show: ‘Ye let me have it a day or two, so my friends can see it private, and Ah’ll pay beforehand; now, if you like; only then it was still at Martin’s. Oh, he’ll tell ye! We’re old friends, and he’ll get no better price, and he knows it. Ef he were here in this room, he’d say, ‘Cern’ly!’ That’s what he’d say!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Afferrò con decisione la matita masticata e rapidamente scrisse una mezza dozzina di titoli nel suo taccuino. Poi prese due fogli di carta del tipo Plantagenet (con i tre leopardi d’Anjou dorati su uno sfondo azzurro, che dividevano il simbolo della rosa d’argento) e scrisse su di essi i due documenti decisivi.
+
+Uno di essi era un ricevuto relativo al dipinto “Ame Bourgeoise”, realizzato dal defunto M. Bourrot e prestatogli dal Duca di Emonsillado per un periodo di soli tre giorni, ovvero fino a mezzogiorno di giovedì 27 giugno; successivamente doveva essere restituito su richiesta al signor Gabriel, residente in 84 Cheyne Row, Chelsea.
+
+L’altra era una breve e chiara nota indirizzata a Sir Henry Bensington: lo congratulava per il recupero dell’opera d’arte, gli comunicava le proprie azioni, spiegando di aver tenuto il dipinto esclusivamente a scopo di ispezione e che, naturalmente, lo avrebbe restituito immediatamente se il proprietario lo desiderasse. Ammetteva di essersi preso la libertà di prenderlo in prestito e offriva di comprarlo subito per 20.000 sterline, come suggerito da Sir Henry. La nota era scritta male e formulata in modo goffo, ma il messaggio era chiaro. Firmò i documenti, li mise separatamente in due buste, indirizzandone una a Gabriel e l’altra a Bensington, le sigillò e le ripose con cura nella tasca del petto.
+
+Il Duca guardò l’orologio: erano quasi le sette. Aveva impiegato un’intera ora per prendere quella decisione. Ma il sospiro che emise fu un sospiro di profonda soddisfazione. Cominciò a considerarsi un genio. Oh! Erano astuti, e quell’inganno era stato difficile da realizzare; ma lui era all’altezza di tutti loro! Nel suo entusiasmo si mescolava anche un certo timore superstizioso per la fonte della sua ispirazione. Se non era il soffitto, allora sicuramente proveniva “Dall’Alto”.
+
+Allora non avrebbe aspettato oltre; nonostante fosse ancora presto, uscì per le strade deserte, trovò un taxi dopo appena mezzo miglio e lo fece dirigere verso Chelsea. Lì camminava avanti e indietro davanti alle finestre ben chiuse, in attesa della sua preda, congratulandosi con se stesso per aver recuperato l’Opera Maestra.
+
+Dall'altro capo della strada, un poliziotto osservava quell'uomo con sospetto. Nel modo in cui camminava, Hardham portava con sé quel segno inequivocabile per la polizia: l'impronta di chi aveva avuto dei problemi, di chi aveva attraversato momenti difficili. D'altra parte, molti anni di ricchezza avevano modificato quell'aspetto; inoltre, l'uomo era vestito da un sarto molto abile. Il suo cappello morbido era particolarmente costoso. L'agente decise di osservarlo, ma senza intervenire ulteriormente.
+
+Fu un'attesa lunga, ma Hardham era deciso a non correre il rischio di essere preceduto. Solo poco dopo le otto arrivò il signor Gabriel. Si inchinò al Duca mentre inseriva la chiave nella serratura. “Buongiorno, Vostra Grazia,” disse.
+
+“Ah. Mi conosci, vero?” disse il nobile, un po’ sorpreso e un po’ lusingato. Ma non importava: comunque avrebbe detto il suo nome tra poco.
+
+“Oh sì, Vostra Grazia!” disse con un sorriso rispettoso. “Temo che persone di tale rilievo come Vostra Grazia si aspettino di essere riconosciute. Prego, entrate pure. In cosa posso esservi d’aiuto?”
+
+“Siete davvero molto gentile,” rispose il Nobile entrando nel piccolo negozio e sedendosi su un divano dello stile Regina Anna. “Non vi siedete anche voi, signor Gabriel?”
+
+“Grazie, Vostra Grazia, ” Prese una sedia di stile Chippendale, la avvicinò e aggiunse: “In cosa posso esservi d’aiuto?”
+
+“Beh, non sono uno dei vostri uomini misteriosi, signor Gabriel. Parlerò chiaro. Avete quel Bourrot.
+
+“Non so come si pronunci esattamente, ma capite cosa intendo… Quello che chiamano un ‘capolavoro’.”
+
+“Avete perfettamente ragione, Vostra Grazia,” rispose tranquillamente il vecchio signor Gabriel. “È lì dentro, nella stanza segreta, nel mio armadio di sicurezza. Non mi sorprende che abbiate già sentito parlare della sua ricomparsa, anche se è ancora troppo presto. L’ho in custodia solo da ieri pomeriggio.” (Teneva sempre molto alla veridicità in dettagli del genere.) “Un uomo che non avevo mai visto prima me l’ha portato qui sotto il braccio, chiedendo cinque sterline in cambio. Purtroppo, mentre lo sistemavo, è entrato un cliente, e probabilmente è così che la notizia si è diffusa. Ma non importa. Gli ho dato le sue cinque sterline in monete spicciate, senza fare domande. È uscito subito dopo con i soldi, e da allora non l’ho più visto, e probabilmente non lo rivedrò mai.” (Il Duca annuì con un sorriso sagace e approvatorio.) “Siamo abituati a queste cose nel nostro mestiere, Vostra Grazia. Senza dubbio quell’uomo stava per essere licenziato dal Commissario Giudiziario, e ha pensato di vendicarsi e di guadagnare anche qualcosa per sé. Noi ci impegniamo sempre a non fare domande. È una regola necessaria. Lui non aveva la minima idea del suo valore. Non crediate che io abbia commesso un reato grave.”
+
+“No! No!” gridò il Duca incoraggiandolo, “Assolutamente no!. Ora, signor Gabriel,” e qui lo fissò con uno sguardo minaccioso, “sono venuto qui per farvi una proposta.”
+
+Il signor Gabriel si alzò in piedi.
+
+“Vostra Grazia,” disse, “dobbiamo capirci a vicenda. Sono in stretti rapporti d'affari con Sir Henry Bensington. È un amico di molti anni, se posso usare questo termine per qualcuno che è tanto mio superiore. Anche se non fosse così, il ‘Bourgeois’, ”
+
+“Quello è il nome!” gridò Hardham. “Non me la cavo molto con queste parole straniere, quindi non l’ho detto. Andiamo.”
+
+“, ‘A me Bourgeoise’ appartiene a Sir Henry Bensington. Non ho nemmeno l’autorità di occuparmene. Ho cercato di contattarlo non appena ho capito di cosa si trattasse, ma lui non era in città. Quando tornerà, tra un giorno o due, glielo farò sapere immediatamente.”
+
+“Non mi prenda in considerazione, signor Gabriel,” rispose il Duca con sincerità. “Non sono qui per suggerire nulla del genere. Per Dio, no!”
+
+Il signor Gabriel si sedette, profondamente sollevato.
+
+“Nah! Quando dico che ho una proposta da farti, forse uso la parola sbagliata. Tutto quello che voglio è che tu mi permetta di guardare quel quadro per due giorni, o forse tre, ” Alzò la mano per impedire un'interruzione. “Ascoltami bene: ho una ragione. Sono un acquirente. Sir Harry te lo confermerà. Gli ho fatto un’offerta seria, quindi lui stesso te lo dirà quando lo vedrai. E gli ho detto, mentre il quadro era ancora esposto: ‘Lasciami averlo per uno o due giorni, così i miei amici possono vederlo in privato, e pagherò in anticipo.’ Ora, se vuoi, ma all’epoca il quadro era ancora da Martin. Oh, lui te lo dirà! Siamo vecchi amici, e non otterrà un prezzo migliore. Lo sa bene. Se fosse qui in questa stanza, direbbe: ‘Certo!’ È proprio quello che direbbe!”
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_05" data-title="The Missing Masterpiece — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/greed,concept/money_and_avarice,concept/hypocrisy,concept/satire_of_society,form/satire,setting/london"></span>
@@ -4660,6 +6436,42 @@ Mr. Gabriel read them both carefully one after the other and his face lifted.
 
 Mr. Gabriel went away to his safe, came back with the Masterpiece, and carefully packed it before the Duke’s eager eyes. Then a cab was telephoned for, they bade courteous farewells, and the “Ame Bourgeoise” rolled safely off, and its triumphant possessor, having locked it safely away, ate ravenously, in the Plantagenet, a breakfast wickedly delayed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ci fu un lungo silenzio; alla fine, il vecchio signor Gabriel parlò con lo sguardo basso.
+
+“Certo, Vostra Grazia, tutti noi vi fidiamo. Non c’è alcun dubbio al riguardo. Quella proposta non comporta alcun pericolo. Assolutamente nessuno. È solo che non è una prassi comune. Credete implicitamente in ogni parola che dite. Ma se dovesse verificarsi qualche imprevisto, se non lo aveste compreso correttamente, o se Sir Henry preferisse che rimanesse con lui per il momento, prima del trasferimento, ” Esitò, poi continuò: “Onestamente, questa situazione mi mette in una posizione difficile. Non posso permettermi di offendere Sir Henry nemmeno in un dettaglio del genere. Non sono un uomo ricco, e i suoi contatti rappresentano per me la metà dei miei guadagni. Almeno la metà. E, come sapete, è molto autoritario.”
+
+Il Gran Duca vide che il signor Gabriel stava cedendo.
+
+“Ho considerato tutto questo,” disse generosamente, “e ho portato con me” (estrasse la busta di carta marrone) “quello che potete considerare denaro offerto da Ernest, se volete, oppure tenervi quella parte che ritenete giusta per il vostro impegno e i rischi che avete corso. È solo giusto. Solo il dieci percento di quanto, secondo me, ha accettato di dare. Non potrei essere più equo!. Contatelo,” concluse.
+
+“Oh! Non c’è bisogno.” Il signor Gabriel sembrava confuso.
+
+“Ah! Contalo pure, amico!”
+
+E il signor Gabriel le contò. Fece tremare la mano in modo abile prima di finire. Cinque biglietti da cento sterline ciascuno, dieci da cinquanta, ventiquattro da venti e cinquanta da dieci, duemila sterline. Le rimise dentro l’involtino.
+
+“Nah,” rispose, spingendolo indietro. “E Ah non vuole ricevute. Ah ti fida come tu mi fidi, e come fa Harry. Quindi prendi soltanto quello che ritieni giusto per il tuo disturbo; se dovesse esserci qualche errore o lui dovesse mancare di qualcosa, ti compenserà, ed è giusto così. Ma se non ci fosse (e non ci sarà), puoi dargli quanto vuoi, come se fosse Ernest a fare i conti. Lui deve solo dirmi quanto, —. —. Che Dio ti benedica!”
+
+“Ah, posso permettermelo!”
+
+“Sì, Vostra Grazia, certamente, certo, ovviamente potete farlo,” disse il signor Gabriel tenendo l’invito come se ancora esitasse. “Ma sarebbe più regolare, ”
+
+Il Duca sorrise di nuovo, con saggezza. “Anch’io ci ho pensato!” Estrasse i due documenti. “Questi sistemeranno tutto perfettamente, in modo che non ci siano più problemi,” disse.
+
+Il signor Gabriel lesse entrambi con attenzione, uno dopo l’altro, e il suo viso si illuminò di gioia.
+
+“Sì,” disse con un tono molto più sicuro, “questo fa tutta la differenza! Certo, è solo una formalità. Ma un riconoscimento scritto del prestito, e una scadenza precisa: soltanto tre giorni, e il debito può essere richiesto in qualsiasi momento. Questo fa davvero tutta la differenza! Sì, e anche la tua stessa lettera a Sir Henry. Gliela do quando lo vedo? Forse avrai finito di dipingere entro il suo ritorno, ”
+
+“Sì; dateglielo e mostrategli la ricevuta. Ora siamo pari, giusto?”
+
+“Sì, Vostra Grazia. Sì, certamente. —. Davvero, temo di essere sembrato un po’ troppo pignolo.”
+
+“Ecco! Ecco!” disse il milionario con buon umore, “Ora la prenderò così com’è, se solo mi aiutate a impacchettarla.”
+
+Il signor Gabriel andò nel suo armadio, tornò con l’opera d’arte e la impacchettò con cura davanti agli occhi ansiosi del Duca. Poi chiamarono un taxi, si scambiarono saluti cortesi e il “Ame Bourgeoise” partì sano e salvo; il suo possessor trionfante, dopo averlo chiuso a chiave in un posto sicuro, mangiò con grande appetito nel ristorante Plantagenet, un pasto che era stato terribilmente ritardato.
 
 
 
@@ -4728,6 +6540,70 @@ There was just that little interval of time without speech which separates the c
 
 “No cross-examination will shake them. It’s your reputation against mine. And it will be for the judge and jury to decide. You will be respectful to me, of course, and I to you — we each owe it to the other; but we differ as black and white in the matter of the authenticity of the two copies. There! That’s settled.” Mr. Gabriel saw that the interview was at an end, asked whether he should repeat the plan to show that he had it clearly, since of course nothing could be written. Bensington heard him accurately restate every point, and then before dismissing him thanked him again for his admirable discharge of duty.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XV
+
+Anche mentre il gentile Gran Duca di Spagna consumava la sua colazione al Plantagenet, con gesti e smorfie tipici dei grandi carnivori, il vecchio ma cortese e risoluto signor Gabriel si ritrovò in privato con il prestigioso capo della sua professione. Sir Henry fu estremamente soddisfatto; raramente mostrava emozioni, ma in questa occasione arrivò persino a prendere la mano del signor Gabriel e stringerla calorosamente.
+
+“Molto bene fatto, Gabriel!” disse. “Davvero molto bene!” Poi aggiunse ancora: “Molto bene! Non avrei potuto farlo meglio nemmeno io!” E queste parole da parte di Henry Bensington rappresentavano un grande complimento. Perché, proprio come Nelson, Gnatho, Nero e altri personaggi simili, anche lui conosceva appieno il proprio valore.
+
+“Vi dirò esattamente cosa avete fatto per me, perché penso che dovreste saperlo. Milleduecentocinquanta mi ripagheranno appieno delle spese, ed era tutto ciò che volevo. Il resto potrete tenerlo voi. Lo meritate. Non avrei chiesto di più; non credo sia giusto vendere entrambi al prezzo pieno, non è così?” chiese onestamente, da vero uomo d’onore.
+
+Il signor Gabriel tossì leggermente.
+
+“Beh,” disse, “certamente, ognuno deve essere il proprio giudice in queste cose. Sono sicuro che sia molto generoso da parte vostra, Signor Henry, davvero molto generoso.”
+
+“Allora, Gabriel,” disse Sir Henry, radioso per il suo eccezionale buon umore in quel momento, “avvicina la tua sedia e io mi siederò qui; poi faremo un piano d’azione, eh?”
+
+“Come desiderate, signor Henry; come desiderate.”
+
+Le sedie furono avvicinate, e il capo decise di affrontare il problema, proprio come un bravo lottatore che afferra il suo avversario per assicurarsi il successo del lancio. Ho visto alcuni comandanti della Grande Guerra analizzare tutti gli elementi di situazioni complesse senza utilizzare una mappa; riuscivano a “visualizzarla” così chiaramente nella loro mente. Lo stesso accadde con Henry Bensington: senza prendere nemmeno un appunto, riuscì a comprendere completamente la situazione.
+
+“La mia prima intenzione, Gabriel, è vendere l’ultimo esemplare a quella signora. È chiaro, probabilmente lo avevi già immaginato, no?”
+
+Il signor Gabriel annuì.
+
+“Beh, allora,” continuò Sir Henry Bensington, “inevitabilmente sorgerebbe un conflitto. Non c’è scappatoia. L’unica ragione per cui quel terribile individuo Hardy voleva quella cosa era per mettere in imbarazzo povera Lady Norbolt. Quando scoprirà che l’ha ottenuta (e farò in modo che tutti lo sappiano), protesterà sicuramente. Mi scriverà, e di certo creerà problemi con Lady Norbolt. Vi dico cosa penso che accadrà dopo?”
+
+“Cosa?” disse il signor Gabriel con rispetto, anche se sapeva esattamente quanto Bensington.
+
+“Una causa legale!” esclamò il Capo del Mercato d’Arte, battendo il pugno sul tavolo. “Beh, in ogni affare ci sono rischi. Ma senza rischi non ci sono guadagni. Ci sono due storie da raccontare. Voglio che le teniate bene a mente: non dobbiamo commettere alcun errore. Prima di tutto, dobbiamo chiarire cosa siano queste due opere d’arte e come ciascuno di noi le abbia ottenute. È la norma in questo tipo di affari.”
+
+Il signor Gabriel annuì.
+
+“Ma più tardi, ” — disse guardando fisso il suo compagno, con voce più grave e bassa — “sarà necessario fornire prove giurate in tribunale, se le cose dovessero arrivare a quel punto; e come ho detto, penso che ci arriveranno.”
+
+Il signor Gabriel annuì di nuovo.
+
+“Molto bene.” Bensington continuò con decisione, le dita di entrambe le mani strette forte sul tavolo davanti a lui. “Prima di tutto, riguardo al modo in cui abbiamo ottenuto queste foto. Mi hai raccontato la situazione tra te e questo duca. Un uomo è entrato di fretta, ha chiesto cinque sterline per esse, se n’è andato, e tu non hai alcun modo per rintracciarlo, giusto?”
+
+“Esatto,” disse il signor Gabriel.
+
+“Bene, ora vi dirò come ho ottenuto la mia copia. Stavo guardando casualmente un mucchio di pacchi nell’ufficio principale quando ne vidi uno piuttosto piccolo, il cui formato mi sembrava familiare. Lo aprii e, era il Capolavoro. Nessuno sembra sapere come sia finito lì. Forse qualcuno lo ha lasciato, o forse ho semplicemente dimenticato di metterlo in cassaforte, pensando invece di averlo fatto per abitudine. Comunque sia, eccolo qui.”
+
+Il signor Gabriel intervenne dolcemente.
+
+“Ma la mia copia, che il Duca ha preso in prestito, signor Henry, è l’opera originale. È stata rubata dal vostro armadietto. Scommetterei tutta la mia reputazione professionale su questo. È indubbiamente l’originale.”
+
+Henry Bensington, per la gioia provata nell’intelligenza del suo collega, quasi gridò di felicità. Solo il senso della dignità gli impedì di esprimere apertamente quella emozione.
+
+“Per Gad, Gabriel!” esclamò, “Credo davvero che tu sia l’unica persona il cui modo di pensare sia all’altezza del mio! Hai detto esattamente ciò che stavo per dire io. Proprio così! Appena te ne sei reso conto, grazie alla tua vasta conoscenza in materia e alla tua profonda familiarità con l’intera corrente letteraria, in particolare con le opere di Bourrot, hai capito immediatamente che ciò che era stato misteriosamente lasciato alla tua porta era l’originale.”
+
+Gabriel annuì.
+
+“Esatto!” continuò Sir Henry. “Ora, Gabriel, sono altrettanto convinto, grazie alla mia esperienza professionale e ad altre ragioni, ”, era così soddisfatto di sé che quasi rise, “scommetterei anche la mia reputazione professionale sull’autenticità della copia che ho in mano. La tua è una miserabile falsificazione; per quanto mi riguarda, il Duca può ben tenerla. È chiaro?”
+
+“Sì, signor Henry, sì, certamente… Molto chiaro.”
+
+C'era soltanto quel breve lasso di tempo senza parole, quel momento che separa ciò che è comune e quotidiano da ciò che è sacro e pericoloso. Poi Henry Bensington continuò con quel tono più grave.
+
+“Se o quando arriverà il momento di salire sul banco dei testimoni, Gabriel… queste storie devono essere credibili.”
+
+“Esattamente, signor Henry,” disse con fermezza il signor Gabriel.
+
+“Nessun controinterrogatorio riuscirà a scuoterli. Si tratta della tua reputazione contro la mia. E sarà il giudice e la giuria a decidere. Naturalmente dovrai rispettarmi, e anch’io rispetterò te; ognuno di noi lo deve all’altro. Ma siamo in disaccordo riguardo all’autenticità delle due copie. Ecco! La questione è risolta.” Il signor Gabriel capì che l’intervista era terminata e chiese se dovesse ripetere il piano per dimostrare di averlo ben compreso, visto che ovviamente nulla poteva essere scritto. Bensington ascoltò attentamente ogni punto ripetuto dal signor Gabriel, e poi, prima di congedarlo, gli ringraziò nuovamente per il suo impegno e la sua eccellente attuazione dei propri doveri.
 
 
 
@@ -4800,6 +6676,74 @@ The interview was short — shorter than Bensington himself had anticipated. She
 
 And so the thing ended, and you may think that with Verecundia in possession, my story also is coming to an end — if you do, you are wrong.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Come vi ho detto, avete appena recuperato per me quella somma. C'erano 500 sterline ciascuna per i miei distinti colleghi, francesi e italiani; ho anche pagato i miei agenti, e poi ci sono state varie altre spese minori, come sapete. Calcolerò tutto in millecinquecento sterline, e cinquecento di queste spettano a voi, Gabriel. Cinquecento per voi!”
+
+Il signor Gabriel si inchinò molto profondamente, come davanti alla royalty. Era molto di più di quanto avesse previsto, e iniziò a mormorare ringraziamenti.
+
+“Assolutamente no, assolutamente no, caro Gabriel,” disse Bensington, accompagnandolo verso la porta. “Te lo meriti.”
+
+Mentre tornava da solo al suo tavolo, affrontò da solo quella che era probabilmente la parte più grave di tutta la situazione: il cuore del pericolo stesso. Quattro persone avrebbero conosciuto il fatto che lui, Bensington e il suo collega Gabriel avevano mentito in qualsiasi dichiarazione o lettera riguardante queste questioni; e se tali dichiarazioni fossero apparse come prove in tribunale, quelle quattro persone avrebbero saputo con certezza che Bensington aveva commesso spergiuro. Ora, il spergiuro è punibile per legge. Queste quattro persone erano M. Caen, Signor Alessandria, il giovane e promettente [[Artist|artista]] e, l’uomo strano e temporaneo in quella situazione.
+
+Per un momento Henry Bensington esitò, chiedendosi se fosse stata la serva dell’ostello o sua sorella, a cui aveva raccontato tutta la storia, ad aver inventato altre versioni dei fatti; ma decise che entrambe potevano essere eliminate. Nessuno avrebbe mai saputo nulla di loro né avrebbe voluto denunciarle, e le persone di quella classe non si incriminavano mai: il loro unico desiderio era evitare di finire nelle mani della polizia.
+
+Ma che ne è dei Quattro?
+
+Si coprì gli occhi con la mano e lasciò che il suo giudizio si formasse. Sì, era certo riguardo ai due: Appleton e Ranford. Entrambi erano ancora giovani, entrambi ricevevano un ottimo stipendio, entrambi avevano già ricevuto ricompense abbondanti in altri ambiti, ambiti di cui non avrebbero voluto rivelare nulla; inoltre, entrambi dipendevano completamente da lui, sia per interesse che per paura.
+
+Ora parliamo di Caen e Alessandria. Bensington conosceva questi due personaggi a memoria, nei minimi dettagli, dalla loro nascita fino ad oggi. Li aveva archiviati in un indice come tutti gli altri, e possedeva un intero dossier riguardante i loro spostamenti e le loro piccole avventure: tutto ciò che avevano fatto nel corso delle loro interessanti vite.
+
+No! Poteva esserne assolutamente certo. L’unica possibilità che avessero di tradirlo era tradire se stessi, e non appena si fosse permesso che sospettassero, per non parlare del fatto che diventasse evidente, che avevano partecipato a un furto, nemmeno la scarsa memoria del pubblico né la naturale gentilezza dell’Amministrazione avrebbero potuto salvarli dal disastro. I loro ricchi clienti non avrebbero più avuto fiducia in loro. Esaminò rapidamente l’area intorno e, con la sua decisione confermata, si alzò in piedi: era al sicuro.
+
+Mentre era ancora in questo stato d’animo di fiducia, appena pochi minuti dopo essersi convinto che non fosse necessario alcun ulteriore rimprovero, pagamento o persino minaccia nei confronti di nessuno dei Quattro, gli fu consegnato un biglietto arrivato per mano.
+
+Ancora una volta si trattava di un involucro recante lo stemma dei Plantageneti splendidamente inciso, e la scrittura illeggibile della mano incolta del Duca de Emonsillado. C'era scritto: “Il portatore aspetti!” Lesse il contenuto con un sorriso appena visibile sulle sue labbra serrate.
+
+# Caro vecchio Harry,
+
+“Devo sistemare questa faccenda una volta per tutte. Quando ho saputo che la tua lettera era stata trovata, sono andato a prenderla, sai dove e da chi. Ora l’ho qui, al sicuro. Ma ascolta, Harry: prendi il mio suggerimento, lascialo con quella persona di cui parlo.” (I termini della lettera facevano chiaramente allusione a Bensington mentre lo leggeva.) “È una proposta seria e valida; puoi prenderla oggi stesso, se vuoi. Ho già organizzato tutto per l’arrivo del grosso assegno, ho informato la banca, quindi possono aspettarselo in qualsiasi momento. Ecco qui.”
+
+E infatti, guardando di nuovo all'interno dell'involucro con la cresta, Henry Bensington vide quel assegno, ancora aperto; l'importo indicato era di 20.000 sterline. Aprì la porta e gridò: “Chiedete a chi ha portato quel biglietto di aspettare un attimo”, poi scrisse velocemente queste poche parole:
+
+“My Dear Hardy,”
+
+“Non fare la figura dello sciocco. E non pensare che io sia un ladro. Ecco il tuo assegno indietro: la foto che hai non è quella di Bourrot. Non è affatto l’opera d’arte di cui parliamo. Ne ho sentito parlare molto. È una copia, e a mio parere, del tutto inutile.”
+
+“Il tuo.”
+
+“Harry”.
+
+Chiuse l’invio, lo indirizzò a Sua Grazia il Duca di Emonsillado; e lo inviò tramite lo stesso messaggero che aveva portato la prima lettera. In meno di un quarto d’ora, inviò con un proprio messaggero una nota a Lady Norbolt: breve, semplice e diretta al punto.
+
+“My Dear Lady Norbolt,”
+
+“Sarà felice di sapere che il dipinto che era andato perduto è stato ritrovato. Come avrà visto, il prezzo che ho indicato nelle pubblicità per la sua restituzione, nonché negli articoli apparsi in stampa, corrispondeva esattamente all’offerta da lei fatta: 20.000 sterline.”
+
+“Se mi chiamerete per dirmi quando verrete qui, l’operazione potrà essere completata immediatamente, a vostro e a mio soddisfazione.”
+
+“Il tuo.”
+
+“HENRY BENSINGTON.”
+
+“P.S. – Sarebbe più saggio, sotto ogni aspetto e per il bene di entrambi, che portaste con voi un testimone.”
+
+Quando questo proiettile, dopo aver disegnato una graziosa parabola, esplose nel cuore di Verecundia Norbolt, prima la scosse di gioia, poi di esitazione. Ma due emozioni si fusero e le fecero prendere una decisione. Chiamò Ardee con autorità, le comunicò la notizia in poche parole e aggiunse:
+
+“Ho deciso: mettiti i vestiti, chiama lui, fai venire l’auto. Il panettiere sarà il migliore, si muove meglio nel traffico. E poi vieni qui. Ah, sì, portami anche il libretto degli assegni, e lascia questo alla banca.”
+
+Si chinò, troppo affrettata per sedersi, e scrisse rapidamente un biglietto per avvertire quell’Istituto di ciò che stava per accadere loro. Durante il tragitto – che era molto breve – la Grande Signora comunicò ad Ardee la sua decisione con toni che non lasciavano spazio a obiezioni; e potete essere certi che Ardee fu assolutamente d’accordo.
+
+“Non sentirai alcun dolore per una somma del genere, tesoro,” disse lei, abbracciando la sua protettrice. “Pensa a quanto sarà meraviglioso averla al sicuro e intatta. Devi mostrarla, di tanto in tanto.”
+
+“Va tutto bene, caro mio,” rispose la capofamiglia, come si sarebbe chiamata lei stessa. “Ho un piano per questo. Ve lo dirò.”
+
+E si trovarono davanti alla porta di Henry Bensington.
+
+L’intervista fu breve: più breve di quanto Bensington stesso si aspettasse. Lei compilò il assegno lì stesso e ricevette la foto con dovuta solennità. Gli tese gentilmente la mano; Sir Henry la accettò con una grazia altrettanto evidente, se non addirittura maggiore. Era un uomo difficile da “patronizzare”.
+
+E così la cosa finì. E potreste pensare che, ora che Verecundia è in mio possesso, anche la mia storia stia per concludersi. Ma se lo credete, vi sbagliate.
 
 
 
@@ -4893,6 +6837,94 @@ Yes, Capstan had guessed right. It was the picture. It was thet bitch, thet... b
 Very pleased was Capstan to note that this essential friend was so far mollified. Eagerly did he accept. Clapping on their hats, and seizing their walking-sticks, the one with a deferential gesture, the other with a military grasp, as though to slay with it the arch-villainess of the Peerage, they strode forth on their way to Lincoln’s Inn.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XVI
+
+Quando il Duca de Emonsillado ricevette la nota breve ma cordiale e sufficiente di Sir Henry Bensington, ancora prima di leggerla, dal momento in cui aprì l’invio e vide il colore rosa del assegno restituito all’interno, il suo turbamento fu estremo. Dopo averla letta, il suo turbamento aumentò ancora di più. E si chiese, come aveva tutto il diritto di fare avendo esperienza dell’umanità in vari contesti e sotto diverse forme di comportamento, quale potesse essere questa grande idea.
+
+Sarebbe un complimento fingere che il Duca avesse la minima conoscenza di pittura, figuriamoci del simbolismo moderno. Prese la tela dalla sua custodia sicura, la pose davanti alla finestra sotto una luce intensa e la osservò attentamente, inclinando leggermente la testa; ma non gli rivelò nulla. E maledizione! Anche se Bensington non credeva che quell’opera fosse autentica, quale motivo avrebbe potuto avere per rifiutare ventimila sterline?. Forse qualcuno aveva offerto di più? Se si può usare un piccolo esca per catturare una balena, si può anche usare una balena per catturare il grande serpente marino. No, non regge. Se qualcun altro stesse cercando di ottenere quell’opera con mezzi illegali, lui non l’avrebbe rifiutata. Al contrario.
+
+Il Duca aggrottò la fronte, perplesso; non riusciva a capire nulla di quella situazione. Comunque, c’era una cosa che poteva fare: consolidare al massimo la propria posizione. Impiegò tra mezz’ora e un quarto d’ora per mettersi in contatto con Borstal, il cui tono di voce all’altro capo del telefono non era affatto cordiale; ma Hardy riuscì a calmarlo. Dopotutto, essendo entrambi milionari dello stesso tipo, Borstal non poté fare a meno di essere commosso da quel senso di “appartenenza reciproca”. Sì, Borstal si sarebbe occupato della cosa: l’articolo sarebbe sicuramente apparso nella sezione sociale dei giornali. Il Duca gli ringraziò sinceramente e propose di dare una piccola mancia al povero giornalista che aveva scritto quei paragrafi. Ma Borstal rifiutò categoricamente: “Li rovinerebbe”, disse. E in effetti è così. Cosa sarebbe successo a Borstal se, tra il suo staff, fosse emerso quel pericoloso sentimento di autostima?
+
+Pertanto, il giorno seguente, non appena i pub di Fleet Street aprirono, la parte più bohémienne di Lothario entrò nel locale “The Green Monkey” e nel suo bar, bevve la prima birra onesta della giornata da una enorme giara, e poi scribacchiò il proprio nome su un blocco di carta particolarmente sporco.
+
+“L’altro giorno ho incontrato il Duca de Emonsillado; mi ha detto che era venuto a Londra per vedere i suoi numerosi amici inglesi e per approfittare della stagione mondana, come fa ogni anno, perché, nonostante il suo alto rango in un paese straniero amichevole, nel profondo del cuore è un inglese.”
+
+“Mi ha detto, tra l’altro, che aveva appena acquistato il famoso capolavoro di Bourrot, ‘A me Bourgeoise’, di cui abbiamo tutti sentito parlare dopo la sua recente scomparsa. Non poteva rivelarmi come sia stato recuperato. Ma è una buona notizia per tutti gli amanti dell’arte. E credo di poter aggiungere, con rispetto, che è anche una buona notizia per tutti gli amici di Sua Grazia, e ne hanno moltissimi.”
+
+Lo rilesse: sembrava tutto a posto. Per festeggiare, ne bevve un’altra pinta. La barista, con un tono di altezzosa gentilezza, gli chiese quale nuova menzogna stesse raccontando; lui rispose: “Lascia stare, tesoro, non ha nulla a che fare con te!” E nemmeno quella “dea” si offese per quel modo di rivolgersi a lei: in tutto il mondo, quell’uomo gentile e affabile era davvero molto amato dalle donne.
+
+* * * * * * *
+
+Nel frattempo, lontano a Golders Green, in quella rispettabile villa, mentre sorseggiava la prima delle sue tre tazze di caffè quella mattina, l’altra metà di Lothario cercava disperatamente nella sua povera testolina qualcosa da scrivere. Un’idea gli venne (come spesso accadeva) non appena entrò la sua formidabile consorte.
+
+“Non sei ancora finito?”, esclamò lei seccamente, “e ti ho lasciato mezz’ora!”
+
+“Oh, mio caro, non sono nemmeno venti minuti!” mormorò il povero ragazzo.
+
+“Davvero, per la mia parola! Archibald, è un miracolo che riesca ancora a sopportarti! Sono sicura che ogni minuto in cui sono assente sembra un’ora intera, e tu passi il tempo a fare cose che dovresti essere tu a svolgere. Cerchi di convincere quella povera ragazza a. Accidenti, non hai nemmeno scritto una parola su quel foglio!”
+
+“Beh, caro mio, ho riflettuto molto…”
+
+“Pensando?” esclamò quella voce dura e sottile, carica di terribile minaccia. “Pensando davvero? Archibald, non so proprio come faccia a sopportarti, ”
+
+“Beh, caro mio, non riesco proprio a pensare a nulla da dire…”
+
+Ma fu interrotto.
+
+“Beh, innanzitutto, la Marchesa di Norbolt” (la signora lo pronunciò in modo molto chiaro e sonoro, come se ne possedesse qualche diritto) “ha comprato quel quadro. L’hanno trovato; l’ha ricevuto ieri. Lo sapevi, vero?”
+
+“Oh, mio caro,” rispose la sposa innocente, “non possiamo esserne sicuri, sai. L’abbiamo sentito solo dal parroco, e lui stesso ha detto di non essere certo, perché l’aveva sentito solo dalla signora Gatwick. E lui stesso non sapeva come lei fosse venuta a conoscenza di quelle notizie, perché, beh, sai, quel mondo non è il suo.”
+
+“Non dire sciocchezze, Archibald,” disse seccamente il suo comandante in capo. “Scrivi immediatamente quel paragrafo. Ormai è quasi troppo tardi, sai che ore sono?”
+
+“Oh, mio Dio, sì,” disse povero Archibald. “Ecco… va bene, lo farò.”
+
+“Tornerò tra dieci minuti,” disse la lingua implacabile. “E lo porterò giù io stesso, per assicurarmi che non lo perdiate con qualche vostro compagno ubriaco, ”
+
+“Oh, mio Dio…”, esclamò il padrone di casa, sconvolto e offeso. “Mio Dio…”
+
+“Non dirmi ‘caro mio’, per favore! Vai pure a lavorare!” disse la signora.
+
+Archibald iniziò il suo lavoro. Sospirò con tristezza: era un uomo molto meticoloso, e inoltre, commettere errori in un contesto del genere poteva essere pericoloso. Tuttavia, c'era un comportamento ancora più rischioso, ed era disobbedire agli ordini. Così fece.
+
+“Ieri ho pranzato con la Marchesa di Norbolt (che padrona di casa meravigliosa è!), e mi ha raccontato una notizia che porterà gioia non solo ai suoi innumerevoli amici, ma a tutti gli appassionati d’arte, in Italia e all’estero. L’opera maggiore di Bourrot è stata ritrovata, e come ci si poteva aspettare, questo grande giudice e appassionato d’arte ne è diventato il possessore. Temo di aver commesso un’imprudenza chiedendole sotto quali condizioni l’abbia ottenuta, ma lei mi ha risposto con un sorriso, ” (Era “lorgnette” o “lorgnon”?. Trascorse tre minuti in preda al dubbio: prima consultò il libro di buone maniere e poi il dizionario di Boulter, senza riuscire a trovare la risposta. Mentre ancora esitava, si udì sulle scale il passo deciso del destino. E concluse rapidamente:) “Mi ha detto di non fare domande, ma sono stato molto orgoglioso quando mi ha aggiunto che avrei potuto ammirare l’opera maggiore in un prossimo futuro. Sicuramente approfitterò di quell’invito. Spero che mi invidiate.”
+
+“L’hai finito, Archibald?” chiese la Voce dalla porta.
+
+“Sì, mio caro,” rispose umilmente la sua stessa voce.
+
+“Beh, dammelo. Non vedi che non riesco ad aprire la porta? Ho le mani piene. Grazie a tutte queste faccende domestiche!”
+
+Andò diligentemente e mise quel pezzo di carta in una busta, sopra il vassoio che la signora teneva in mano; il vassoio era pieno di stoviglie per il tavolo da pranzo.
+
+“Mi sta uccidendo dover fare ogni giorno il lavoro di tre donne,” disse. “Se fossi un uomo, non starei fermo a guardare mia moglie spezzarsi la schiena mentre tu passi il tempo a divertirti con quella gente sporca di Fleet Street!”
+
+“Oh, mio caro!” protestò di nuovo. Ma lei non ne poteva più sopportare. La sua “tazza” era piena, e lo stesso valeva per la sua, del resto; non aveva avuto il tempo di finire il caffè. Lasciò che quella figura maestosa, sebbene un po’ angolosa, si preparasse, sentì la porta chiudersi con un profondo senso di sollievo. E in questo almeno era certo, in un mondo difficile e pericoloso come quello, che Olivia (così si chiamava la compagna della sua vita) non sarebbe stata una donna capace di perdere qualcosa o di non riuscire a portare a termine ciò che aveva promesso. Sperava solo che le notizie contenute in quella lettera fossero buone.
+
+Tutti questi paragrafi furono accettati! Golders Green e Bohemia: entrambe le “metà” di “Lothario”, che socializzavano con i grandi della società. Si contraddicevano a vicenda e non avevano alcun senso. Presentavano la stessa immagine a due persone diverse. Ma il redattore responsabile, ubriaco e con poco materiale da pubblicare, li approvò comunque. Finì per essere licenziato; e i 2,5 milioni di lettori di “The Howl” scoprirono che non solo il Duca di Emonsillado aveva acquistato l’opera ma anche Lady Norbolt!
+
+* * * * * * *
+
+La mattina seguente, l’amico del Duca, il signor Capstan, quella figura ben nota di Tattersall’s, sedeva al tavolo della colazione del Duca nel castello Plantagenet, in attesa di uscire a fare una passeggiata tra i cavalli. Il suo ospite stava leggendo con un sorriso i primi due paragrafi che parlavano di lui stesso e dei Bourrot, quando Capstan alzò lo sguardo, sorpreso da un improvviso grido. Hardham, Duca de Emonsillado del Baroneaggio di Castile, nonché di Manuada e Aragona, teneva il libro “The Howl” nella mano sinistra e lo sbatteva con violenza sul tavolo; il suo pugno destro minacciava l’aria, il viso era contratto dalla passione, e dalla bocca spalancata uscivano i più strani urli di rabbia.
+
+“Ah! Che vada all’inferno! Che bruci! Ah, è così, vero? Ah, mio Dio, quando la prenderò. Quell’uomo Borstal è pazzo!” E con queste parole, le sue dita afferranti strapparono via il robusto e sottile foglio di carta dell’organo di opinione pubblica di Lord Borstal. Poi, trattandolo come se fosse la sfortunata Verecundia, lo strappò brutalmente in due, continuando a urlare le sue maledizioni di rabbia.
+
+“La farò imprigionare! La farò, ” Ringhiava selvaggiamente, digrignando i denti; e poi, alla fine dell’orgasmo, soffocò.
+
+Capstan gli diede una pacca sulla schiena con deferenza. Ma questo lo fece solo arrabbiare di più. Riprese fiato e iniziò a lanciare invettive contro tutti: Capstan stesso, tutti i popoli di queste isole, quei maledetti pittori francesi, quei ladri di Mayfair, e tutte quelle donne volgari che si consideravano tanto importanti. Continuò a parlare di varie umiliazioni subite durante la loro giovinezza, lui e Vurry vicino ai mari del Pacifico. Poi iniziò a bestemmiare senza sosta, fino a quando non fu completamente esaurito.
+
+“Ah’ll prorsecoot!” ripeté. Quella parola sembrò dargli un po’ di sollievo, come se stesse effettivamente impegnandosi attivamente nel distruggere quel detestabile Vurry. “Ah’ll insegnarle! Ah’ll farla capire!” E poi, per concludere, calpestò con forza quella potente voce dell’Inghilterra di cui Lord Borstal era responsabile; si fermò, la afferrò, la strappò in mille pezzi con le sue mani forti e la gettò fuori dalla finestra aperta. Dove cadde con violenza sulla testa di una pia signora missionaria che stava scendendo per quella stretta strada secondaria, intenta a compiere un atto di misericordia verso un povero e malvagio uomo di cui la polizia aveva bisogno.
+
+* * * *
+
+Finalmente, dopo ben venti minuti, quel grande appassionato d’arte moderna si fu ripreso del tutto (e lo sforzo compiuto per farlo ebbe sicuramente il suo peso in questo processo di recupero); riuscì così a rispondere consecutivamente alle domande che il signor Capstan riteneva opportuno porre, con una voce piena di simpatia e vecchia amicizia.
+
+Sì, Capstan aveva indovinato giusto. Era quella foto. Quella stronza, ma non voglio offendere le vostre orecchie, caro lettore, con gli epiteti che lui usò per descrivere una donna così distinta del vostro sesso. Lei aveva avuto il coraggio di mettersi davanti a tutti, vero? Beh, presto scoprirà che non resterà lì! Aveva ottenuto il “Bourrot”? — No! Lui l’aveva ottenuto! Quello che lei aveva ottenuto era solo una fottuta falsificazione! Gliel’avrebbe mostrata. Sì, gliel’avrebbe mostrata di sicuro! No, in quel momento non aveva alcuna voglia di pensare a cavalli. Andava dal suo avvocato, ecco cosa avrebbe fatto. E molto presto, anche. E forse Capstan l’avrebbe accompagnato.
+
+Capstan fu molto soddisfatto nel notare che questo amico così prezioso era finalmente placato. Accettò con entusiasmo. Si misero i cappelli e presero i loro bastoni da passeggio: l’uno con un gesto di rispetto, l’altro con una presa decisa, come se volessero uccidere con esso la più grande malvagia del Regno. E così si avviarono verso Lincoln’s Inn.
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_01" data-title="The Missing Masterpiece — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/the_court,concept/satire_of_society,concept/appearance_vs_reality,concept/hypocrisy,concept/value_and_scarcity,form/satire,setting/court,setting/london"></span>
@@ -4925,6 +6957,34 @@ With the long tapering fingers of his left hand pressed firmly but gently upon t
 A Parisian Master of the name of Bourrot (said Sir Anselm) — the Jury were well acquainted with that famous name — had left among other canvases of genius — alas! too few — one in particular which he deemed his Masterpiece. It represented that noblest of subjects for the inspiration of Genius, the Soul of that Middle Class, which is the backbone of every country; the painter’s own, be it remembered, as well as ours. Unfortunately, for the world, the great Bourrot had died at a comparatively early age rather less than a year ago, which tragic event (Sir Anselm’s voice remained firm throughout this passage, but was increasingly grave) gave very high value to the small number of canvases with which he had enriched the world. To none did it give higher value than to his Masterpiece, the “Ame Bourgeoise” — which term, as he need hardly inform them, was French for The Soul of the Middle Class. (Here most of the Jury, including Miss Wiseman, nodded, one — the horse-dealer — smiled cleverly, and the rest — but especially Mr. Balchin and Mrs. Large — looked solemn).
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XVII
+
+Tutto iniziò con un annuncio pubblico sui giornali, secondo cui Verecundia, marchesa di Norbolt, aveva acquistato l’opera famosa di Bourrot, “L’Amore Borghese”, che era finalmente stata ritrovata. Poi seguì una lettera di un avvocato pubblicata sui giornali, nella quale si protestava che “L’Ante Borghese” appartenesse in realtà a Sua Grazia il duca di Emonsillado, chiedendo quindi il ritiro di tale dichiarazione. La situazione proseguì con una controaffermazione pubblicata sui giornali dagli avvocati della marchesa di Norbolt.
+
+Si concluse con una richiesta di risarcimento danni e una controrichiesta; il caso Emonsillado contro Norbolt, in cui il convenuto presentava una controrichiesta, fu fissato per l’udienza dopo un ritardo incredibile.
+
+Gli avvocati incaricati dal Duca di Emonsillado ebbero la fortuna di poter contare, come loro consulente, per una retribuzione considerevole, nientemeno che il famoso Sir Anselm Atterleigh, K.C. Il reddito enorme di quest’ultimo era addirittura la metà di quello comunemente attribuitogli. Forse proprio questa ingente entrate gli impedì di assumere una posizione nella magistratura. Era un uomo di nobile origine, gentile e raffinato, appassionato di porcellane e profondamente religioso, con particolare devozione per la musica liturgica.
+
+L’azienda che, da oltre ottant’anni, proteggeva (e derubava) i beni e gli interessi della famiglia Walburton nonché del titolo nobiliare di Norbolt, era così abile da assumere, a un compenso davvero elevato, come consulente Sir Rory Hawlboy stesso: un giudice la cui immensa ricchezza superava di gran lunga quanto si credesse comunemente. Probabilmente fu il desiderio di non ridurre di tre quarti i propri introiti annuali a farlo rifiutare una carica di giudice. Non era un uomo di nobile origine, né dotato di grazia o raffinatezza; non era neppure influenzato dalla religione. Tuttavia possedeva una voce potente come quella di un toro arrabbiato, e mostrava una totale indifferenza riguardo alla qualità dell’alcol, purché ne avesse abbastanza in quantità.
+
+È un esempio di quel nobile distacco per cui la Bar è famosa: Sir Anselm, il consigliere del Duca, avrebbe tremato all’idea di avvicinarsi al mondo strano e complesso del suo cliente; invece era un ospite regolare a Norbolt House. Sir Rory, dal canto suo, era un frequentatore abituale del mondo del Duca, fatto di scommettitori, ubriaconi, pugili, giocatori d’azzardo e truffatori, sia in Inghilterra che sulla Riviera. Eppure era certo che gli interessi di Verecundia fossero altrettanto al sicuro nelle forti mani di Sir Rory, quanto quelli di Hardham nelle delicate ma decise dita di Sir Anselm. Infatti, sembrava impossibile che, con un tale genio da entrambe le parti, uno dei due non potesse trionfare.
+
+Insieme a questi grandi uomini operavano come junior i signori Pott e Smith (Sì? Perché no? Spero che non ci sia nulla di strano o vergognoso nel nome Smith, ). Essi svolsero un ruolo molto limitato in quell’affare, limitandosi a incassare le modeste tariffe indicate nei loro incarichi legali. In effetti, se non fosse stato per quella bella e commovente usanza secondo cui i clienti facoltosi dovrebbero sostenere i junior, probabilmente non sarebbero mai stati necessari. Tuttavia, fu un bene che ci fossero: il loro contributo fu fondamentale per lo sviluppo della professione che rappresentavano, e ognuno di loro portò con sé talenti particolari che, negli anni successivi, avrebbero portato a fama e ricchezza. Il signor Pott possedeva una serena fiducia in se stesso; il signor Smith, invece, aveva un aspetto di totale innocenza, qualità inestimabile per chiunque debba, a volte, ricorrere all’ipocrisia nel proprio lavoro.
+
+Il giudice davanti al quale doveva essere ascoltato il caso Emonsillado contro Norbolt (con la controcandidatura di Norbolt) non era altri che il giudice Dove, una figura ben conosciuta dal pubblico per la sua equità e il suo comportamento sereno e urbano. Erano infatti trascorsi dieci anni da quando era stato nominato giudice, dopo aver respinto la causa penale di diffamazione intentata contro il povero Bill Atkins riguardante il Ministro dell’Interno. Era stata una scelta saggia: il giudice Dove non guadagnava molto come avvocato, e quindi anche lo stipendio di un giudice rappresentava per lui una fortuna. Inoltre, era privo di passioni, e pertanto assolutamente imparziale in tutti i casi che non presentavano complicazioni sociali o politiche. Nessuno era più adatto a presiedere a un conflitto di interessi tra persone uguali.
+
+La giuria speciale convocata per l’occasione era perfettamente adatta al compito di valutare l’autenticità di un dipinto simbolista francese. Il presidente, il signor Balchin, era un commerciante di alimentari con un’attività molto prospera. La signorina Wiseman, zitella, aveva letto molti romanzi moderni e aveva persino dipinto lei stessa a acquerello. Il signor Richards era un contabile. Tra gli altri membri della giuria c’erano un veterinario per cavalli, un orticoltore, un gentiluomo che noleggiava barche da turismo sul Tamigi, un proprietario di pub ben avviato e la signora Large, una vedova.
+
+Sir Anselm (insieme a Mr. Pott) si alzò per iniziare la presentazione della causa a favore del Duca in un tribunale affollato. L’interesse pubblico, suscitato dalla prima esposizione dell’“Ame Bourgeoise”, dalla sua scomparsa, dal presunto ritrovamento di entrambe le copie e dalle violente controversie riguardanti questi due esempi rivali, era sopravvissuto anche alle lunghe vacanze estive; inoltre, Lord Borstal e Sir Charles Holloway si erano assicurati che questo interesse continuasse ad essere alimentato. Per ore, sotto la pioggia di novembre, c’era una lunga fila di persone in attesa dell’apertura delle aule pubbliche. L’aula principale era piena dei personaggi più influenti; “Peach” Daggetty, invece, aveva ottenuto il posto riservato solitamente alle dame di rango e di curiosità. Purtroppo, si annoiò molto e se ne andò presto, prima ancora dell’inizio della seconda parte dello spettacolo.
+
+Sir Anselm iniziò con quel tono basso e riservato che è così efficace davanti a una giuria. Conosceva bene il proprio mestiere, meglio di chiunque altro, e presto divenne udibile. Il suo modo di esprimersi suscitò un silenzio assoluto e attirò particolarmente l’attenzione di Mr. Balchin e Miss Wiseman; anche la signora Large ne fu influenzata. Per quanto riguarda il giudice, ormai ci era abituato.
+
+Con le lunghe dita della sua mano sinistra premute con forza ma dolcemente sui documenti davanti a lui, e la destra che di tanto in tanto effettuava i gesti più lievi per sottolineare un punto, il Grande Avvocato espose con ammirevole chiarezza le linee principali della questione.
+
+Un maestro parigino di nome Bourrot – che veniva chiamato Sir Anselm – aveva lasciato, tra le altre opere geniali, ahimè, troppo poche, una in particolare che considerava la sua capolavoro. Rappresentava quel soggetto nobile per l’ispirazione del genio: l’anima di quella classe media che costituisce la spina dorsale di ogni paese; l’anima dello stesso pittore, e anche della nostra società. Purtroppo, per il mondo intero, il grande Bourrot era morto in età relativamente giovane, meno di un anno fa. Un evento tragico che dava ancora più valore alle poche opere con cui aveva arricchito l’umanità. Per nessuno quel valore era maggiore del suo capolavoro: “L’anima della classe media”. (A questo punto, la maggior parte dei membri della giuria, compresa Miss Wiseman, annuì; uno di loro – il commerciante di cavalli – sorrise astutamente; gli altri, soprattutto il signor Balchin e la signora Large – apparvero molto seri).
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_02" data-title="The Missing Masterpiece — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="setting/france"></span>
@@ -4954,6 +7014,32 @@ For some weeks there was no trace of the picture, and hope of its recovery had b
 
 The learned Counsel secretly conveyed to his mouth a lozenge lovingly provided for him by Lady Utterleigh (like himself an Anglo-Catholic) and sat down — having spoken one hour and thirty-five minutes.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L’opera d’arte finì nelle mani del nostro grande conoscitore nel mondo dell’arte, Sir Henry Bensington, il quale, per patriottismo, la espose al pubblico in Bond Street prima di inserirla nella sua famosa collezione o di venderla a qualche ricco appassionato d’arte, a seconda della sua decisione. E qui Sir Anselm aggiunse (alzando lo sguardo verso la giuria con sincera stima): nulla dovrebbe mai far pensare che Sir Henry, in tutto ciò che fece in seguito, abbia agito per motivi diversi da quelli più nobili. Credeva semplicemente che Sir Henry si fosse sbagliato, nient’altro.
+
+Mentre l’opera d’arte veniva ancora esposta, il suo cliente, il Duca di Emonsillado, scrisse a Sir Henry esprimendo il proprio desiderio di acquistarla, molto prima che altri concorrenti entrassero in campo. Pregò la Giuria di ricordare questo punto e lo sottolineò con forza. Sir Henry rispose che non aveva ancora deciso se voleva o meno vendere, ma che avrebbe tenuto a mente l’offerta del Duca. Subito dopo – la Giuria senza dubbio ricordava la terribile notizia che si era diffusa in Inghilterra quella bella mattina di primavera – il dipinto scomparve! (La voce di Sir Anselm si abbassò fino alla profondità del dolore; rimase in silenzio per dieci secondi con la testa china. Poi, più vivacemente, riprese a parlare.)
+
+Fino a quel momento non c'era nulla di controverso; fu ciò che accadde dopo ad attirare la loro particolare attenzione.
+
+Per alcune settimane non ci fu traccia del dipinto, e la speranza di recuperarlo sembrava ormai persa. “Alle 18:45 di, ” (qui Sir Anselm consultò con precisione le sue note) “, sì, mercoledì 13 giugno, un individuo si presentò presso l’abitazione del signor Gabriel di Cheyne Row – una persona la cui conoscenza dell’arte moderna francese è più approfondita e vasta di quella di qualsiasi altro uomo vivente – e consegnò un piccolo pacco, dichiarando di essere in difficoltà finanziarie e di voler vendere il dipinto, chiedendo cinque sterline per esso. Il signor Gabriel, aprendo il pacco, riconobbe immediatamente il prezioso quadro scomparso. Senza esitazione, adempiette al proprio dovere verso la propria professione, verso il proprio stimato collega, verso il proprio paese e verso il mondo civile. Chiamerò il signor Gabriel,” disse Sir Anselm, “e potrete giudicare voi stessi la sua perfetta lealtà e integrità. Spero che in questo caso nessuno ne dubiti.”
+
+“Prima di pagare la somma necessaria per ottenere il possesso della proprietà, chiese al suo visitatore di aspettare mentre metteva da parte il pacco. Non ci impiegò molto, ma quando si girò scoprì che l’uomo era fuggito. Corse subito verso la porta. La strada era deserta. Nonostante fosse anziano, il signor Gabriel corse fino all’angolo, ma non c’era traccia di quella persona, ”
+
+Il primo atto del signor Gabriel fu chiamare immediatamente l’ufficio di sir Henry Bensington per informarlo, in privato, che il dipinto era stato trovato. Gli fu detto che sir Henry si trovava in viaggio e non sarebbe tornato per tre giorni.
+
+“Ora vi prego di prestare particolare attenzione a ciò che accadde dopo. Il mio cliente, il Duca di Emonsillado, appresa la notizia della scoperta, desiderava naturalmente giudicare personalmente, con l’aiuto di esperti, se si trattasse davvero dell’opera d’arte perduta per la quale aveva già contattato il suo proprietario. Sua Grazia possiede una vasta esperienza nell’arte coltivata in tutte le sue forme e, negli anni, ha dimostrato un acuto giudizio nell’acquisizione della sua inestimabile collezione presso la Villa Emonsillado, nel sud della [[France|Francia]]. Non è certo il tipo da agire in modo precipitoso: aspettò fino al giorno seguente per incontrare il signor Gabriel, che lo conosceva bene come distinto mecenate dell’arte. Esaminarono insieme il dipinto e, sebbene non rimanesse alcun dubbio, al Duca fu permesso di tenerlo per qualche ora nella sua suite all’Hotel Plantagenet, dove alcuni amici ed esperti poterono vederlo.”
+
+“Tutto è stato piuttosto semplice; anzi, se ho capito bene, non ci sono alcune lamentele da parte dell’altra parte. Il signor Gabriel, che sapeva quanto il Duca fosse un caro amico di Sir Henry Bensington, gli scrisse raccontandogli tutto ciò che era accaduto. Sua Grazia rilasciò una ricevuta; la tela poteva essere restituita in qualsiasi momento, e il signor Gabriel scrisse immediatamente a Sir Henry Bensington per informarlo del prestito, offrendosi nuovamente di acquistarla al prezzo ragionevole di 20.000 sterline, e naturalmente promettendo di restituirla immediatamente al suo proprietario se non si intendesse venderla.”
+
+“Poi accadde quella straordinaria serie di eventi che portò a questo caso. Al suo ritorno, Sir Henry scrisse gentilmente al suo vecchio amico, il mio cliente, assicurandogli che il dipinto (anche se non lo aveva visto!) era chiaramente una falsificazione e senza alcun valore. Gli disse che poteva tenerlo tranquillamente; che l’originale autentico era stato ritrovato (ma non specificò come) e che gli dispiaceva molto che il Duca fosse caduto in un errore così evidente.”
+
+“Sua Grazia avrebbe naturalmente desiderato vedere questo strano ‘originale’. Che il dipinto che gli era stato prestato fosse proprio quello ormai famoso in tutta Europa, non aveva alcun dubbio; lo stesso valeva per il signor Gabriel, con la sua unica esperienza in materia. Il dottor Edward Mowlem, curatore delle opere d’arte oleografiche al Museo Imperiale – di gran lunga il nostro esperto più autorevole – aveva confermato ciò che in realtà non avrebbe nemmeno avuto bisogno di essere confermato; lo stesso avevano fatto molti altri, sebbene meno illustri, che avevano visto il dipinto nella suite ducale a Plantagenet. Ma per quanto desiderasse incontrare questo presunto rivale, non gli fu data alcuna opportunità. Poco dopo seppe che il dipinto era stato acquistato dalla marchesa di Norbolt, la quale ne annunciò pubblicamente l’acquisto come autentico. Gli avvocati del mio cliente scrissero rispettosamente alla stampa per sottolineare l’errore della marchesa; lei, tuttavia, ribadì la sua posizione, causando gravi danni ai beni del duca (poiché ormai aveva regolato tutte le questioni con il signor Gabriel, sebbene fosse ancora disposto – essendo un uomo molto ricco – a compensare sir Henry Bensington).”
+
+“In queste circostanze, il mio cliente non ha avuto altra scelta se non intraprendere questa azione legale, e si è stupito nello scoprire che era stata presentata una controquerela. Chiamerò lui, così come il signor Gabriel e il dottor Mowlem; dopo averli ascoltati, non potrà più esserci alcun dubbio nella vostra mente.”
+
+L’avvocato colto mise in bocca segretamente un ciambellino che Lady Utterleigh gli aveva preparato con affetto (anch’essa anglo-cattolica come lui), e poi si sedette, dopo aver parlato per un’ora e trentacinque minuti.
 
 
 
@@ -5017,6 +7103,64 @@ Sir Anselm had an instinctive dread of all that world to which Hardham belonged;
 Of all moods which affect the atmosphere of Human Converse, and can be felt pervading it before a word is spoken, Fear and its opposite are the strongest in effect. One could feel at thirty feet off the indifference of the tall, dark man in the box to wigs, legal mumbo-jumbo, the impeccability-of-lawyers myth and all the rest of the rubbish: — Policemen were another matter. But Bench and Bar he mocked. He had millions and a tough constitution.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il primo testimone chiamato fu il signor Gabriel. Alle semplici domande di Sir Anselm, fornì risposte chiare, raccontando tutta la storia senza aggiungere dettagli noiosi, come ad esempio il primo pagamento effettuato dal Duca. Alla fine, riguardo al punto essenziale dell’autenticità del dipinto, fu assolutamente categorico: sì, aveva l’esperienza accumulata in una vita trascorsa per lo più nell’acquisto di opere d’arte moderne in Europa, soprattutto francesi. Sir Anselm fece notare che il signor Gabriel aveva apprezzato molto le opere di Bourrots anche per conto di Sir Henry Bensington (il cui nome fu pronunciato con grande rispetto dal testimone). Aveva venduto e rivenduto opere di quel maestro forse un centinaio di volte; conosceva molto bene il dipinto “L’Amore Bourgeoise” e lo aveva studiato attentamente. Non poteva esserci alcun dubbio: la copia del Duca era l’originale.
+
+“Nessun dubbio possibile o probabile. Nessuna ombra di dubbio!” affermò il suo Onorevole, suscitando l’ilarità generale di tutti gli avvocati presenti in tribunale che avevano più di quarant’anni, e soltanto un divertimento simulato da parte di quelli più giovani.
+
+Sir Rory Hawlboy si alzò per esaminare il testimone sotto contraddizione. Solo la sua imponente figura avrebbe potuto incutere terrore in qualcuno meno sicuro di sé di quanto lo fosse il signor Gabriel. La sua fronte corrugata, il suo cranio massiccio erano segni distintivi della sua forza. Ma se sir Anselm era il maestro delle tecniche di interruzione silenziosa, sir Rory era il re degli attacchi più decisi e sonori. Iniziò con un tono che, per lui, era già abbastanza aggressivo; essendo un buon tattico, sapeva infatti che il signor Gabriel non rappresentava il punto debole della difesa avversaria. Riservò i suoi attacchi più violenti per il momento decisivo.
+
+“Ora, signor Gabriel,” disse lui, con un tono non privo di autorità ma abbastanza cortese, “ci ha detto che il suo misterioso visitatore che ha portato il dipinto è stato con lei solo per pochi momenti.”
+
+“Ma solo cinque minuti.”
+
+“Oh!, ma solo per cinque minuti. —. —. Ora, tra cinque minuti, avresti avuto l’opportunità di osservarlo?”
+
+“Non molto. Era un giovane, vestito come l’ho descritto, piuttosto basso di statura, ma senza caratteristiche particolari.”
+
+“Ah. Nessun tratto distintivo,” disse Sir Rory guardando la Giuria, “Posso chiedervi se, dalla vostra esperienza, gli uomini piuttosto giovani e di statura bassa – indipendentemente dal loro abbigliamento – di solito portino con sé quadri del valore di migliaia di sterline e vi li offrano per cinque sterline?” Un altro sguardo alla Giuria.
+
+“Se intendete dire che gli Oggetti d’Arte vengono spesso offerti a una frazione del loro valore, sì,” rispose gentilmente il signor Gabriel. “Posso fornire alcuni esempi, mio Signore?”
+
+Il signor Gabriel fornì esempio dopo esempio tratti dalla sua lunga carriera, ma sir Rory, che sperava che questo testimone, come tanti altri, si contraddicesse esagerando nelle sue affermazioni, rimase deluso. L’elenco era preciso e schiacciante.
+
+“Potreste spiegarmi perché si comportano in questo modo?”
+
+“Non rientra nelle mie mansioni scoprire queste cose. Immagino che a volte si tratti di persone che hanno trovato quelle cose per caso; altre volte, invece, di individui che hanno mentito o ingannato qualcuno.”
+
+“Allora, signor Gabriel, non era forse suo dovere trattenere quell’uomo e avvisare la polizia?”
+
+“Ho informato la Polizia. Intendevo trattenerlo quando ne ha approfittato per scappare mentre io avevo le spalle voltate. Era mio dovere proteggere i beni di Sir Henry, e l’ho fatto. Sono profondamente felice di averlo fatto.”
+
+“Siete, profondamente, felici. E ora, signor Gabriel, potete dirci esattamente come e perché siate così certo che il dipinto posseduto dal Duca sia lo stesso che avete visto e studiato quando era in mostra?”
+
+In risposta, il signor Gabriel presentò una serie di dettagli tecnici così precisi, numerosi, innovativi e ineguagliabili che la giuria ne fu chiaramente commossa. Sir Rory decise quindi di arrendersi.
+
+“Quindi secondo voi questa copia è l’originale?”
+
+“Non è la mia impressione, signore… È la mia opinione inconfutabile.”
+
+“Ah! La sua opinione, signor Gabriel… Non la sua convinzione!”
+
+“Sì, ne sono convinto. Non può esserci alcun dubbio al riguardo.”
+
+“Beh, signor Gabriel” — guardando la giuria — “abbiamo avuto più di una forma di espressione, prima è stata la sua impressione, poi quell’impressione si è trasformata in opinione, successivamente in convinzione, e infine quella convinzione è diventata irrevocabile. E così via. Non ho altro da chiedervi, signor Gabriel.”
+
+La rievaluazione era superflua.
+
+E il signor Gabriel si ritirò. La sua azione, che già era molto apprezzata, aveva aumentato del trenta percento.
+
+Dopo che alcuni testimoni di poco conto avevano fornito testimonianze sull’arrivo del dipinto presso la famiglia Plantagenet, fu chiamato il Duca di Emonsillado; quel nome scatenò un certo fermento tra la gente. Tutti erano ansiosi di vedere con i propri occhi quell’uomo che da tempo compariva sui documenti ufficiali e che rappresentava una fortuna immensa. Il signor Balchin si aspettava di vedere un uomo avvolto in un mantello e con un cappello a tesa larga; la signora Large, invece, immaginava che indossasse pantaloni corti, fibbie e una spada da cortigiano. Ma ciò che si presentò davanti ai loro occhi fu soltanto una figura magra e giallastra, vestita con uniformi ufficiali, baffi folti e forse anche un colletto rigido intorno al collo.
+
+In tutto questo furono delusi, ma Sua Grazia ebbe un effetto sufficiente grazie alla sua alta e snella figura e ai suoi tratti decisi. Sembrava proprio il tipo, se non di un nobile, almeno di un pirata o di un predone delle Indie Occidentali, che era più o meno la stessa cosa. Inoltre, tutti quei milioni probabilmente non avrebbero ottenuto lo stesso effetto.
+
+Sir Anselm era un po’ nervoso all’inizio dell’interrogatorio del suo testimone, ma il testimone stesso non mostrava affatto alcuna tensione durante l’interrogatorio condotto da Sir Anselm.
+
+Sir Anselm provava un istintivo timore per tutto quel mondo a cui apparteneva Hardham; ma Hardham non aveva affatto paura degli avvocati nei casi civili, solo un persistente rifiuto verso la polizia, ereditato da tempi lontani, quando era stato trattato in modo sommario. Sir Anselm temeva che il modo di fare e l’accento di Sua Grazia potessero danneggiare la sua causa; Sua Grazia, però, non sospettava affatto che lui soffrisse a causa del proprio accento e del proprio modo di comportarsi, ma provava soltanto un profondo disprezzo per Pretty Fanny, per l’accento inglese e per quel maledetto tono strascicato.
+
+Di tutte le emozioni che influenzano l’atmosfera delle conversazioni umane e che si percepiscono già prima che venga pronunciata una parola, la Paura e il suo opposto sono quelle con l’effetto più forte. Si poteva percepire, a trenta piedi di distanza, l’indifferenza di quell’uomo alto e scuro verso parrucche, gergo legale, il mito dell’infallibilità degli avvocati e tutta quella roba inutile. Gli agenti di polizia, invece, erano un’altra questione. Ma lui derideva sia i giudici che gli avvocati: aveva milioni e una salute di ferro.
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_04" data-title="The Missing Masterpiece — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/the_court,concept/satire_of_society,concept/appearance_vs_reality,concept/vulgarity,concept/class_conflict,form/satire,setting/court"></span>
@@ -5079,6 +7223,64 @@ The Duke of Emonsillado stepped briskly out of the Box with the air of a man who
 A string of lesser witnesses followed, men who had in various degrees a claim to speak upon modern painting in general and Bourrot’s rare works in particular. One of them, a Frenchman, was rather difficult to follow, from talking English with an Elizabethan vocabulary and a strange accent. Also, as he did not understand our procedure and rules of evidence, he so modified and qualified with a view to exact truth that, as a witness, he was detrimental. Sir Anselm got fidgety; but he was relieved when the time came for the last and by far the most important name upon his list, and there was a craning of necks and movement throughout the Court when in loud tones the name of Dr. Mowlem was called.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Inoltre, Sir Anselm temeva molto l’effetto che l’accento e il modo di fare del Duca potessero avere sul Giurì. Lui stesso era estremamente sensibile a qualsiasi cosa avesse un retrogusto di eccezionalità – alle cose esteriori, in particolare a quelle legate ai simboli del potere, come Crown and Anchor, Double Cross, Morning Champagne, tabacco stantio. Tutto ciò che rappresentasse volgarità, comportamenti indegni o elementi inappropriati lo turbava profondamente; per questo esagerava nel valutare gli svantaggi di tali caratteristiche. Non prendeva sufficientemente in considerazione il peso dei dodici milioni e del titolo nobiliare, che avrebbero potuto compensarne gli effetti negativi.
+
+E infatti il Duca se la cavò molto bene. Anche se le sue risposte erano un po’ audaci, erano comunque chiare, e la corte ne rimase favorevolmente impressionata come testimone. Confermò esattamente quanto raccontato da Gabriel, aggiungendo i dettagli riguardo al modo in cui aveva portato il dipinto dai Plantagenet, alla lettera che aveva scritto a Bensington – a cui chiamava affettuosamente “Harry” ogni volta – e alle visite di amici ed esperti (in particolare del dottor Mowlem del Museo Imperiale) nelle sue stanze in hotel. Era disposto a ribadire davanti alla giuria la sua convinzione che possedesse l’originale? Certo! Conosceva molto bene le opere di Bourrot. Sì, Bourrot era il suo pittore preferito; lo aveva studiato per anni. Non c’era dubbio alcuno sull’identicità tra il dipinto esposto nelle stanze di Martin in primavera e quello che, dalla sua cassaforte presso i Plantagenet, era stato consegnato alla sua banca. Assolutamente no! Era la prova decisiva. Avrebbe potuto battere Otto Kahn con le sue stesse mani.
+
+Sir Rory iniziò il suo controesame con maggiore audacia rispetto a Gabriel, ma comunque con il rispetto dovuto a una tale fortuna. Era deciso e aggressivo nei suoi interrogatori, ma non arrivava ancora al punto di essere minaccioso. Lo riservava per un’occasione migliore, che sapeva sarebbe arrivata grazie a un altro testimone su cui aveva informazioni utili.
+
+“Ora, innanzitutto, Vostra Grazia, vorrebbe dire alla Giuria se ha qualche sospetto riguardo alla buona fede di Sir Henry Bensington in questa faccenda?”
+
+“Harry? Harry è un uomo bianco!” Con le mani nelle tasche del cappotto, un’espressione seria ma con un sorriso gentile.
+
+“Allora, come spiegate il suo disprezzo per ciò che voi definite senza dubbio il suo stesso ritratto: un capolavoro che ha acquistato a caro prezzo e che ha studiato più attentamente di chiunque altro?”
+
+“Ma insomma, Harry deve pur vendere le sue cose, no?”
+
+"#Vi sto suggerendo che, di fatto, state accusando Sir Henry Bensington di frode?"
+
+“Allora hai sbagliato.”
+
+“Qual altra interpretazione si può dare alle sue azioni?”
+
+“È la sua sepoltura.”
+
+# Qui il giudice Dove ritenne necessario intervenire:
+
+“Devo interrompere per un momento. Non sono del tutto chiaro sul preciso significato della tua espressione. Cosa intendi con ‘funerale’?”
+
+“Beh, Signore, è un’espressione vecchio stile, ‘Ah’llow’, ma l’ho imparata da giovane, quando correvo in giro con gli altri ragazzi. Voglio dire, è il suo orto, la sua gallinella, insomma, il suo piccolo cortile privato, capisce? La sua parte del recinto di legno.”
+
+“Volete dire che non siete responsabili delle decisioni di Sir Henry Bensington, che lui è libero di fornire la propria spiegazione al Tribunale in seguito, che dovete limitarvi a ciò che sapete voi stessi, e che non potete testimoniare sui motivi o sulle conclusioni di un altro uomo?”
+
+“Avete detto ‘un pezzo di carne’, mio signore”, rispose il Gran Duca con cortese assenso.
+
+“Ah! Ora credo che sia tutto chiaro!” (Dichiarato al Giurì) “Il Duca intendeva precisare di poter testimoniare soltanto su fatti rientranti nella sua competenza, e di non avere nulla a che fare con ciò che non aveva visto o sentito personalmente. Una riserva assolutamente appropriata.”
+
+Sir Rory Hawlboy cambiò schieramento.
+
+“Avete detto alla Giuria” (agitò un pezzo di carta in aria, come se volesse disinfettarli) “che conoscete bene l’opera di Bourrot?”
+
+“Sì, davvero.”
+
+“La tua esperienza in questo campo è così vasta e approfondita da permetterti di parlare con autorità?”
+
+“Ah, con questi occhi chiusi potrei raccontare una storia di Bourrot…”
+
+“Ah! Con gli occhi chiusi?” (Un lungo sguardo verso la Giuria.)
+
+“Sì! Anche dormendo si capirebbe che sono un Bourrot.”
+
+“Nel sonno,?” (Ancora sguardi curiosi da parte della Giuria.) “Beh, davvero, Duca, se il vostro giudizio su un dipinto viene espresso con gli occhi chiusi e mentre dormite, penso che la Giuria non abbia bisogno di nulla di più per apprezzarne il valore. Arriveranno loro stessi alle loro conclusioni.”
+
+Non c’era bisogno di riesaminare.
+
+Il Duca di Emonsillado uscì rapidamente dalla Scatola, con l’aria di un uomo che avrebbe potuto continuare per ore ancora.
+
+Seguì una serie di testimoni meno importanti, uomini che, in diversa misura, avevano il diritto di parlare della pittura moderna in generale e delle rare opere di Bourrot in particolare. Uno di loro, un francese, risultava piuttosto difficile da seguire: parlava inglese utilizzando un vocabolario tipico dell’epoca elisabettiana e con un accento strano. Inoltre, poiché non comprendeva le nostre procedure e regole di prova, modificava e qualificava continuamente le sue dichiarazioni nel tentativo di raggiungere la “verità assoluta”, il che lo rendeva un testimone poco affidabile. Sir Anselm iniziò ad agitarsi; ma si rilassò quando arrivò il turno dell’ultimo e, di gran lunga, più importante testimone della lista. Quando il nome del dottor Mowlem fu pronunciato ad alta voce, tutti nell’aula tesero il collo, in attesa delle sue dichiarazioni.
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_01" data-title="The Missing Masterpiece — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
@@ -5135,6 +7337,58 @@ Then that mighty voice replied, ah! manifestly wounded: “No, my Lord, I have n
 The stricken Monarch of the Herd faced his adversary: “No, Sir Rory,” he said in a voice from the depths. “But I don’t see…”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XVIII
+
+Edward Mowlem stava per compiere sessant’anni; il suo aspetto fisico, la voce e le sue conoscenze erano notevolmente migliorati rispetto all’età di diciotto anni, quando aveva lasciato una scuola secondaria poco conosciuta nella regione del West Riding per ottenere una borsa di studio presso il Fareham College, uno degli antichi atenei più prestigiosi.
+
+Durante gli anni di università non era stato particolarmente noto, quindi aveva la libertà di studiare a piacimento. Ottenne un risultato eccezionale nel primo esame, e successivamente ricevette una borsa di studio per proseguire i suoi studi in Italia e in [[France|Francia]], dedicandosi interamente all’arte. Tornò con una solida reputazione e una vasta conoscenza, tanto da essere immediatamente inserito tra i migliori esperti nel campo che aveva scelto di perseguire. Fu subito assunto dal servizio civile e, dopo aver ricoperto diverse posizioni minori, fu nominato, molto prima dei quarant’anni, curatore delle opere d’olio, degli arredi inglesi e del pizzo presso il Museo Imperiale. Quando gli arredi inglesi furono trasferiti in un dipartimento separato (per aiutare il figlio semi-intelligente di Jenny), il Dr. Mowlem poté dedicarsi interamente alla sua specializzazione: l’arte simbolista francese moderna, all’interno di una vasta gamma di conoscenze accurate nel campo della pittura ad olio.
+
+In quel periodo nessuno poteva toccarlo. Era membro corrispondente delle principali società straniere e fu riconosciuto come un pari, anche dal geloso e chiuso mondo accademico di [[Paris|Parigi]]. Stava scrivendo la biografia di Bourrot, avendo accesso a tutti i documenti relativi. Aveva già pubblicato uno studio più breve subito dopo la morte del Maestro; tale studio era riconosciuto come l’autorità ufficiale in tutta l’Inghilterra e l’America, nella Germania settentrionale, in Australasia e in tutte le regioni più progressiste del mondo; aveva anche una certa influenza a [[Paris|Parigi]], sebbene quella capitale non apprezzasse molto ciò che fosse approfondito e significativo.
+
+Era l’arma principale di Sir Anselm: un cannone da 17 pollici, perfettamente montato per l’occasione, carico e pronto a seminare distruzione e morte tra le file avversarie. Sembrava essere riempito di una pila di enormi volumi, opuscoli e fogli sparsi, tra cui anche il suo stesso broglietto sul Maestro; in cima a tutto, portava il grande Catalogo Raisonné di Andre, che da solo sarebbe stato sufficiente per soffocare qualsiasi opinione contraria.
+
+Mentre borbottava nella cabina dei testimoni, lasciando cadere un libro qua e là, raccogliendolo faticosamente dopo e fissando con i suoi enormi occhiali quelle umili creature intorno a lui, dava l’impressione di essere un primitivo Auroch, o un mostruoso animale selvaggio dell’Ucraina; e in contrasto con la prima domanda tranquilla di Sir Anselm, ne seguì un fragoroso urlo di affermazione che colpì le anime dei giurati come un violento vento di sud-ovest.
+
+Hawlboy, sentendolo, annusò l’odore della battaglia e si rallegrò all’idea di incontrare un nemico degno delle sue capacità. Inoltre, quel famoso Consigliere del Re sorrise con aria minacciosa, persino feroce, al pensiero di ciò che aveva in serbo contro quella “enorme arma”.
+
+Le prove principali affluirono in un flusso impetuoso; Sir Anselm guidò con abilità attraverso di esse, sebbene ogni momento fosse a rischio di essere sommerso da quel diluvio di informazioni. Era un tornado di argomentazioni convincenti, basate su documenti, citazioni ed esempi; tutto ciò distrusse qualsiasi dubbio esistente. Dire che quelle prove furono “convincenti” sarebbe un eufemismo: esse schiacciarono ogni opposizione e, una volta distrutte tutte le obiezioni, trasformarono quel caos di informazioni in un credo indiscutibile e immutabile.
+
+Ma Sir Rory non si lasciò turbare. Era già pronto e pronto ad intervenire.
+
+Si alzò. Non dirò che con maestosità, poiché era piuttosto basso di statura, ma con tutta la sua imponente forza. Il Giurì, già mezzo assordito dal potente protagonista dell’Emonsillado Bourrot, rimase sorpreso nel scoprire la forza che il laringe di Sir Rory aveva improvvisamente sviluppato.
+
+Lui non avrebbe tollerato sciocchezze; non si sarebbe lasciato intimidire; avrebbe fatto rispondere al testimone questa domanda, e poi un'altra; avrebbe fatto obbedire anche all'animale potente. Fu uno spettacolo magnifico di corna che si scontravano in lotta, e per un po' il risultato della battaglia rimase incerto.
+
+Già l'interrogatorio aveva causato danni: era stato scoperto che le dichiarazioni contraddicevano se stesse riguardo a una data, era avvenuta un’errore nella pronuncia di un nome straniero, e in un’occasione si era persino dimenticato completamente ciò che doveva dire, meritando così una rimprovera da parte della Corte. Fu allora che l’abile avvocato, riempiendo i polmoni fino al limite che il Duca avrebbe definito “capacità massima”, sferrò il colpo inaspettato e fatale.
+
+“Ora, signore, ascoltate me! Chrm! Ci avete detto, forse cinquanta volte, che questa tela è assolutamente l’originale esposto da Sir Henry Bensington, quella tela la cui autenticità non è mai stata messa in dubbio.”
+
+“Lo dico io! L’ho fatto! Sì, lo ripeto…”
+
+“Un momento!” La mano di Sir Rory si alzò nel gesto di colui che ferma una bestia impetuosa con le redini; la sua voce era cambiata improvvisamente. La Giuria notò in essa un'intensità del tutto nuova e contenuta. “Ora, rispondetemi: avete mai visto quell’originale?”
+
+"#Il Bourrot del Duca di Emonsillado."
+
+“Non scherzate con la Corte, signore,” gridò il suo avversario. “L’originale, intendo dire l’originale! Avete mai visto l’originale, sia quando è stato esposto in Bond Street, che nel negozio di Sir Henry Bensington, o nella sua prima dimora a North Merton, o in qualsiasi altro posto?”
+
+Regnava un silenzio terribile; durante quel silenzio si sarebbe potuto sentire cadere un ago, e infatti si udì un piccolo squittio provenire da Miss Wiseman.
+
+#"Ora, signore! Non faccia aspettare la Corte!"
+
+La risposta arrivò attutita, ma comunque potente.
+
+“E allora?”
+
+“Rispondi alla domanda,” disse severamente il giudice Dove.
+
+“Allora quella potente voce rispose, chiaramente offesa: ‘No, mio Signore, non l’ho fatto.’”
+
+“Rispondete al Consigliere”, fu l’ordine del Suo Onore, rigido e inalterabile proprio per quell’occasione; un comportamento molto raro da parte sua (a meno che non si trattasse di persone disprezzate o screditate).
+
+Il sovrano colpito dal flagello affrontò il suo avversario: “No, Signor Rory”, disse con una voce proveniente dalle profondità del suo essere. “Ma non capisco, ”
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_02" data-title="The Missing Masterpiece — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/the_court,concept/satire_of_society,concept/appearance_vs_reality,concept/deception,concept/jealousy,form/satire,setting/court"></span>
@@ -5164,6 +7418,32 @@ It was the same thing with Sir Henry’s two principal assistants, who followed,
 
 Lastly, young Mr. Delgairn was put into the box and sworn, told the story of the purchase, with not a few irrelevances, but still understandably enough. It was evident he had a grievance against Sir Henry, and his testimony was only the more valuable. This grievance he kept dragging in, though more than once checked from the Bench. In particular, when he was quoting the sympathy of a neighbour of his, no less a public figure than General Sir Arthur Kenley, Mr. Justice Dove put the Court in a roar by a new and happy jest— “What the soldier said is not evidence,” said the witty Judge — and all the Bar rocked with appreciative laughter.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non vedete niente!” tuonò Sir Rory. “Non vogliamo sentire quello che non vedete; abbiamo appena ascoltato ciò che non avete visto. Voi state lì, signore, e dite alla Giuria, ”
+
+“Certo che sono qui,” gemette l’uomo sconfitto, se “gemere” può descrivere l’agonia di una tempesta violenta; “dove pensavate che fossi?”
+
+“Basta così,” tuonò Sir Rory; “penso che sia abbastanza!” Lanciò uno sguardo autoritario alla giuria, poi lo rivolse con forza verso l’infelice esperto: “Nient'altro, signore!”
+
+Inutilmente Sir Anselm cercò di rimediare alla situazione rivedendo tutto da capo; anzi, le cose peggiorarono, e decise quindi di arrendersi.
+
+Quella enorme figura iniziò a scendere dal luogo dove soffriva; il volto che la coronava si girò con un'espressione di furia verso quel suono inequivocabile di una risatina proveniente dalla sala del cortile. Lui fissò quella direzione e vide, senza alcun dubbio, quella figura bassa e ben vestita, quel volto rasato, deciso e pieno di disprezzo: il suo odioso rivale esperto, Archibald Dacy (la cui madre era una Pimplehurst). Quell’“esperto”, quell’uomo che si aggirava nelle sale da ricevimento, che socializzava con gli ignoranti e che li manipolava come un ciarlatano. Non solo sentì quella risatina, ma anche una voce sussurrata provenire da quelle labbra sottili, rivolta a qualcuno vicino: “Mi ricorda l’affare Longworth, ”
+
+Fu un colpo abominabile! Solo una volta l’enorme erudizione di Mowlem si rivelò errata: quando consigliò all’acquisto, per la casa Longworth, un dipinto di Velasquez che in realtà era stato realizzato diciotto mesi prima a Marsiglia. Quello fu ventiquattro anni fa. La grande famiglia Longworth gli aveva da tempo perdonato quel errore; lui era rimasto il loro consigliere di fiducia per due generazioni. Oh! Fu un atto criminoso sussurrare quella parola “Longworth” mentre la sua anima ancora sanguinava. Fortunatamente, i due uomini erano separati da una folla densa di persone; tuttavia l’odio scorreva nell’aria tra l’uomo offeso e il suo insultatore.
+
+Si può immaginare con quale spirito trionfale Sir Rory Hawlboy si alzò per aprire il suo caso, e con quanta forza la sua voce risuonò nel dichiarare la propria vittoria. Non li trattenne a lungo; non ricorse né a argomentazioni persuasive né a lusinghe; presentò le prove, affrontò i fatti senza paura delle conseguenze. Quando la Giuria ebbe ascoltato le testimonianze delle uniche persone che avevano il minimo diritto di parlare a nome dell’opera d’arte che avevano personalmente posseduto e conosciuto a fondo – uno per anni, l’altro nel luogo senza dubbio più adatto in Europa per una valutazione accurata – la conclusione risultò inevitabile.
+
+Avrebbe chiamato Sir Henry Bensington, l’unico uomo al mondo meglio qualificato per giudicare su questioni del genere, e l’unico, oltre al proprietario originale, in grado di esprimersi con autorità su questa specifica questione. Avrebbe contattato anche alcuni dei collaboratori di Sir Henry, i quali avrebbero confermato la storia del recupero del dipinto. Ma – fece una pausa significativa – c’era qualcuno che avrebbe chiamato, le cui opinioni su quel valore unico non potevano essere contestate da alcuna critica. Si riferiva a Mr. Delgairn stesso, il proprietario originale del “Ame Bourgeoise”. Quel gentiluomo, ricordarono tutti (scosse con forza un dito tozzo), aveva vissuto con quel dipinto fin dall’infanzia; lo aveva studiato per tutta la sua vita attiva e dinamica. La sua valutazione, senza dubbio, superava di gran lunga quella di chiunque altro al mondo. Avrebbe giurato sull’autenticità di quel capolavoro che lui stesso aveva venduto a Sir Henry, e che ora apparteneva (Sir Rory abbassò rispettosamente la voce) alla nobile famiglia Walburton; adornava, come un gioiello inestimabile, le pareti tappezzate con ricchi arazzi della dimora Norbolt House.
+
+I testimoni si succedettero l’uno dopo l’altro in un ordine ben scelto e significativo. Primo fu Henry Bensington, il quale, oltre al suo immenso prestigio, impressionò molto la Corte per la tranquillità, la sicurezza profondamente radicata e la dignità con cui raccontò la sua storia chiara e convincente. Descrisse in dettaglio la sua conoscenza di Bourrot, del contratto, gli sforzi fatti per scoprire dove si trovasse l’opera d’arte, il modo in cui l’aveva acquistata da Mr. Delgairn, come l’avesse persa quando aveva controllato la sua cassaforte il giorno dopo la chiusura dell’esposizione, e come l’avesse ritrovata settimane dopo, tra altri pacchi contenenti quadri trascurati. Raccontò anche di averla mostrata ai suoi assistenti e infine di averla ceduta onestamente al suo attuale proprietario, Lady Norbolt; al nome di quest’ultima fece un leggero inchino.
+
+Sir Anselm non riuscì a confonderlo durante l’interrogatorio; ovviamente non poteva esserci alcun dubbio: si trattava soltanto di un malinteso. Come spiegava una guarigione così strana? Molto semplicemente! Spesso ci sbagliamo nel ricordare azioni automatiche; aveva molte occasioni per mettere piccoli telai nella grande cassaforte, dove di solito ce n’erano già alcuni riposti. Era convinto di aver messo lì il telo di Bourrot, ma evidentemente si era sbagliato: forse aveva preso un altro di dimensioni simili, visto che quei pacchi erano tutti confezionati e coperti; oppure forse non aveva nemmeno intenzione di aprire la cassaforte. Comunque fosse, non c’era alcun dubbio che il telo fosse stato ritrovato esattamente dove ci si aspettava, tra altri pacchi rimasti intatti per molto tempo. Sir Anselm suggerì che il telo potesse essere stato trovato sul lato esterno del mucchio di pacchi. Niente affatto: era stato trovato nel mezzo, esattamente dove sarebbe finito se, nel corso delle settimane, altri oggetti fossero stati messi sopra di esso. L’intera faccenda risultava molto chiara, coerente e convincente.
+
+Lo stesso accadde anche ai due principali assistenti di Sir Henry, che seguirono le sue indicazioni e che non vennero mai messi in difficoltà durante gli interrogatori su alcun dettaglio. Confermarono tutto ciò che il loro capo aveva raccontato in modo così calmo ed efficace; e nel frattempo, lui non distolse mai lo sguardo dai loro volti.
+
+Infine, il giovane signor Delgairn fu fatto salire sul banco dei testimoni e giurò; raccontò la storia dell’acquisto, includendo anche alcune informazioni irrilevanti, ma comunque comprensibili. Era evidente che avesse un rancore verso Sir Henry, e quindi la sua testimonianza risultava ancora più preziosa. Continuò a menzionare questo suo rancore, nonostante fosse stato più volte interrotto dal giudice. In particolare, quando citò l’approvazione di un suo vicino, nientemeno che il generale Sir Arthur Kenley, una figura pubblica di spicco, il giudice Dove fece ridere tutti con una battuta divertente: “Quello che ha detto il soldato non costituisce una prova”, disse il giudice spiritoso, e l’intera aula scoppiò in risate apprezzative.
 
 
 
@@ -5231,6 +7511,68 @@ When the twelve good bisexual specimens of humanity and true had had their fill 
 That master of our Common Law marshalled the evidence with that genius which — by a happy coincidence all judges whatsoever have possessed — at least within living memory. He disentangled the relevant from the irrelevant; he showed with benign patience how much might be said upon the one hand, leaning somewhat to the right as he did so and accompanying that part of his survey with a broad movement of the right arm; he then most impartially showed how much might be said upon the other hand, leaning somewhat to the left as he did so, and accompanying this second portion with a movement equally broad of the corresponding limb. He did not disdain to decorate the necessarily lengthy oration with flowers of humour and flashes of eloquence; he admitted towards its close one of those panegyrics upon his own corporation and all connected with it, which are at once so well deserved and so necessarily a part of our happy Commonwealth.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La copia del dipinto Bourrot di Sir Henry Bensington (ora appartenente a Lady Norbolt) fu mostrata al giovane affinché la esaminasse; egli, con un’espressione di dolore ma con fermezza, giurò che si trattava proprio del dipinto con cui aveva vissuto per tutta la sua vita, e che non avrebbe potuto confonderlo con nessun altro oggetto familiare della vecchia casa.
+
+Sir Anselm si alzò per fare il controinterrogatorio; era, se possibile, ancora più contenuto del solito, e la sua voce era particolarmente calma e incisiva, perché aveva appena mangiato un altro cioccolatino.
+
+“Ci ha detto, signor Delgairn, che il dipinto che ha appena identificato è senza alcun dubbio lo stesso che conosceva fin da ragazzo: l’originale acquistato dal suo defunto e ampiamente pianto padre.”
+
+La parola “scintilla” non è un termine del gergo comune, ma un termine legale; il giovane signor Delgairn non sapeva cosa significasse, ma ribadì con fermezza la sua assoluta certezza al riguardo.
+
+“Molto bene,” mormorò Sir Anselm. Fece un lieve gesto e una foto, insieme al suo quadro, vennero mostrate davanti al testimone.
+
+“Guardatelo attentamente, signor Delgairn; prendetevi il tempo che vi serve; non vogliamo affrettarvi o confondervi.”
+
+Mentre il giovane contemplava quel capolavoro, Sir Anselm Atterleigh si dedicava all’occupazione preferita della sua tribù: osservare attentamente la giuria; i suoi occhi dicevano, in modo più raffinato del mio, “Aspettate solo un attimo, miei cari. Ci sarà una sorpresa per voi!”
+
+Dopo un lungo intervallo sufficiente affinché l’effetto iniziale non si attenuasse, si rivolse alla sua vittima e le chiese gentilmente:
+
+“È davvero soddisfatto, signor Delgairn?”
+
+“Certamente, signore.” La voce era decisa e senza esitazioni.
+
+“Quella”, disse Sir Anselm alzando leggermente la voce, “è senza dubbio l’immagine con cui hai vissuto tutti questi anni, e di fronte alla quale puoi giurare con piena fiducia?”
+
+“It is.”
+
+La voce di Sir Anselm si abbassò di nuovo, ma divenne un po’ più distinta e chiara che mai.
+
+“Le sorprenderebbe scoprire, signor Delgairn, che questo dipinto su cui ha giurato non è l’originale che poco fa ha identificato alla giuria? Non è una copia di Lady Norbolt, ma del Duca.”
+
+Senza dubbio, una sensazione straordinaria.
+
+“Tienili entrambi in alto,” disse Sir Anselm.
+
+Le due tele furono tenute una accanto all'altra davanti agli occhi del giovane sorpreso.
+
+“Non, ” ansimò.
+
+“Penso che vada bene così,” disse Sir Anselm, giocherellando con la catena dell’orologio, e l’interrogatorio terminò.
+
+Sir Rory, saggiamente, si astenne dal riesaminare la situazione. Ma mormorando ad alta voce, condannò tutti quei giovani scudieri all’Inferno.
+
+Restava solo un testimone, e dopo una scena del genere, la sua testimonianza sembrava quasi un anticlimax. Archibald Dacy si presentò davanti al giudice e alla giuria con la sua figura bassa ma robusta e ben proporzionata, e giurò sulla fermezza della sua testimonianza. L’immagine che aveva visto venti volte – al momento dell’acquisto, durante l’esposizione e anche in privato nella casa di Norbolt House – era indubbiamente la stessa che aveva avuto l’onore di osservare quando era apparsa per la prima volta a Londra. L’interrogatorio che gli fu rivolto fu solo formale, ma durante esso fece una dichiarazione che avrebbe avuto importanti conseguenze. Con toni freddi e acidi, simili a quelli di un ghiacciolo al limone, smascherò l’assurdità delle affermazioni del dottor Mowlem, riuscendo anche a menzionare quel terribile errore commesso a Longworth.
+
+Sir Rory Hawlboy organizzò la sua ritirata in modo magnifico, affidandosi quasi interamente alla sua artiglieria; i suoi gridi, i suoni della tromba, i boati, i ruggiti e i colpi dei tamburi, il suo viso viola, la parrucca tumultuosa, il braccio destro che sembrava un mulino a vento e il pugno potente, tutto ciò, messo in azione al massimo, riuscì in qualche modo a oscurare la vista di povero Delgairn, che balbettava e fissava quei duplicati miracolosi, o forse demoniaci.
+
+Sfruttò al meglio la confessione assurda del dottor Mowlem e riaprì la ferita profonda, fino a quando quel grande esperto non divenne un groviglio di rabbia, alimentata ulteriormente dallo sguardo sprezzante del suo rivale Archibald.
+
+Sir Anselm concluse il suo discorso nel modo più chiaro e ordinato, esattamente nella lunghezza giusta; spettava ora alla Corte prendere una decisione.
+
+Il giudice Dove ordinò prima che la giuria esaminasse attentamente entrambi i dipinti. Fu un esempio eccellente di quel sistema legale che abbiamo portato alla massima perfezione conosciuta dall’uomo: vedere il commerciante generale impegnato nella sua attività con successo, le barche da piacere sul Tamigi, la signorina Wiseman (che aveva letto molti opere di fantasia), il venditore di cavalli, la signora Large e gli altri, esaminare con occhio critico l’opera controversa della scuola simbolista francese.
+
+Presumibilmente doveva essere, almeno in un caso, il suo più grande successo; e anche nell’altro caso rappresentava una copia ammirevole.
+
+Il signor Balchin esplorò le profondità di una composizione la cui enigmatica struttura avrebbe potuto incuriosire una mente meno brillante; la signora Large affrontò il problema con l’efficienza tipica di una donna di casa. La “Lettera proveniente dalle case galleggianti” rimase per un po’ tra le mani di uno, poi dell’altro; lo “Scambiatore di cavalli”, anch’esso, passò prima nelle mani di uno e poi nell’altre. Entrambi mostravano, nei loro tratti, l’incantesimo che il genio può esercitare e il potere dell’arte pittorica nel suo massimo espressione sull’anima umana.
+
+Per quanto riguarda la signorina Wiseman, con le sue indagini minuziose e appassionate su tutte quelle profondità inesplorate che solo il pennello ispirato di Bourrot poteva rivelare, quasi mise alla prova la pazienza del giudice.
+
+Quando i dodici esemplari bisessuali “buoni” dell’umanità ebbero saziato la loro sete di nutrimento estetico e di riflessione critica, il giudice Dove passò alla conclusione del processo.
+
+Quel maestro del nostro Diritto Comune ordinò le prove con quel genio che – per una felice coincidenza – tutti i giudici hanno posseduto, almeno nella memoria dei viventi. Separò ciò che era rilevante da ciò che non lo era; con pazienza e gentilezza mostrò quanto si potesse dire da un lato, inclinandosi leggermente a destra mentre lo faceva e accompagnando quella parte del suo discorso con un ampio movimento del braccio destro; poi, in modo assolutamente imparziale, mostrò quanto si potesse dire dall’altro lato, inclinandosi leggermente a sinistra e accompagnando questa seconda parte con un movimento altrettanto ampio del braccio sinistro. Non si astenne dal decorare il discorso, necessariamente lungo, con battute umoristiche e momenti di eloquenza; verso la fine, incluse anche uno di quei panegirici della propria istituzione e di tutto ciò che ad essa è collegato, panegirici che sono al contempo ampiamente meritati e inevitabili nella nostra felice Comunità.
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_04" data-title="The Missing Masterpiece — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/the_court,concept/satire_of_society,concept/justice,concept/appearance_vs_reality,form/satire,setting/court"></span>
@@ -5291,6 +7633,62 @@ Yes, he had: in the amount of Twenty thousand pounds.
 Mr. Justice Dove complimented the Jury on their answers, with which he thoroughly agreed, and costs would of course be divided.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Concluse presentando alla Giuria (che, tra l’altro, ricordò essere lì per giudicare i fatti, non la legge) i seguenti sei punti:
+
+1. La signora Norbolt aveva motivi validi e sufficienti per ritenere che la sua copia fosse l’originale?
+
+2. Ha agito in modo malizioso quando ha denunciato quella copia rivale come falsa?
+
+3. Aveva subito danni a causa delle pretese avanzate dal Duca di Emonsillado per la sua copia? In tal caso, di entità quale?
+
+4. Il Duca di Emonsillado aveva motivi validi e sufficienti per ritenere che la sua copia fosse l’originale?
+
+5. Ha agito con cattive intenzioni quando ha denunciato quella copia rivale come falsa?
+
+6. Aveva subito danni a causa delle pretese avanzate per la sua copia da parte di Lady Norbolt? In tal caso, di entità quale?
+
+La giuria si ritirò per deliberare.
+
+Il periodo in cui una giuria delibera è solitamente caratterizzato da una certa noia in aula: non c’è nulla che possa attirare l’attenzione dei membri della giuria. Ma questa occasione memorabile fu un’eccezione.
+
+Archibald Dacy uscì tranquillamente per fumare una sigaretta. Ma quella sigaretta non fu mai fumata. Fu seguito, con passi furtivi e silenziosi, dal mostruoso Mowlem; appena furono entrambi fuori dalla porta, nel corridoio pubblico, la “Montagna del Sapere” si abbatté su di lui con urla di rabbia.
+
+Fu l’Ufficiale Imperiale ad sferrare il primo attacco. Ma l’uomo parò il secondo e contrattaccò con un potente pugno diretto al petto, facendo barcollare l’avversario. Il Doctor riprese l’offensiva, infliggendo colpi sempre più duri; intanto, i passi eccitati risuonavano lungo le arcate dei tribunali spagnoli, e la folla intorno ai combattenti aumentava di numero. Iniziarono a essere fatte scommesse e a essere scelti i favoriti del pubblico, mentre i due avversari, il “Grande” e il “Piccolo”, si scaldavano sempre di più nel loro duello.
+
+Il sangue parlerà! E Archibald Dacy (la cui madre era una Pimplehurst) colpì il “Dottore” alla retina sinistra proprio nel momento in cui quel membro del Museo stava per commettere un fallo schiacciando la testa al suo avversario con una copia del Catalogo Raisonné di André. Un colpo alla retina sinistra, e il “Dottore” rimase fuori gioco. Ecco fatto, le Classi Medie!
+
+Il Curatore si accasciò a terra, coccolando il suo Peeper ferito e ringhiando come un Ciclope. Archibald trionfava in modo così palese che quel gigantesco funzionario pubblico, nonostante tutto il dolore, sferrò un calcio violento; ma proprio mentre questo colpo aveva effetto, due poliziotti, che avrebbero dovuto essere lì molto prima, si fecero strada tra la folla, afferrarono gli esperti per il collo e li portarono via, nonostante le loro violente proteste.
+
+Nel frattempo, in tribunale, la giuria era tornata. Il tuono e le grida si erano ormai placati nel corridoio esterno, e i guerrieri se n'erano andati; in un silenzio totale vennero poste domande al signor Balchin, presidente della giuria, non appena quest'ultima era rientrata e si era sistemata al suo posto.
+
+1. La signora Norbolt aveva motivi validi e sufficienti per ritenere che la sua copia fosse l’originale?
+
+Sì. La giuria decise che fosse così.
+
+2. Ha agito in modo malizioso quando ha denunciato quella copia rivale come falsa?
+
+Sì, lo fece.
+
+3. Aveva subito danni a causa delle pretese avanzate dal Duca di Emonsillado per la sua copia? In tal caso, di entità quale?
+
+Sì, ne aveva: ventimila sterline.
+
+4. Il Duca di Emonsillado aveva motivi validi e sufficienti per ritenere che la sua copia fosse l’originale?
+
+Sì, l’aveva fatto.
+
+5. Ha agito con cattive intenzioni quando ha denunciato quella copia rivale come falsa?
+
+Sì, lo fece.
+
+6. Aveva subito danni a causa delle pretese avanzate per la sua copia da parte di Lady Norbolt? In tal caso, di entità quantitativa quale?
+
+Sì, ne aveva: ventimila sterline.
+
+Il giudice Dove lodò la Giuria per le loro risposte, con cui era pienamente d’accordo, e ovviamente le spese sarebbero state divise equamente tra tutte le parti coinvolte.
+
 
 
 <span class="atom-split" data-atom="chapter_19--part_01" data-title="The Missing Masterpiece — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/wine_and_drink,motif/inn_tavern,concept/providence,concept/fate_and_free_will,concept/poverty,form/satire,setting/london,character/william_shakespeare"></span>
@@ -5334,6 +7732,46 @@ Mr. Chas. Goatcher did not always trust himself at the beginning of a third go. 
 
 She looked at him with a proper disdain, priced the squalor into which his recent dereliction had sunk him, and asked him what he wanted.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO DICIANNOVE
+
+Avrete sicuramente notato (se vi degnate di leggere questo libro) che anche durante quegli brevi anni felici trascorsi tra la vostra giovinezza e i giorni attuali in cui siete una giovane donna sposata, la vita umana non era caotica, ma seguiva un piano così regolare da far quasi credere nell’esistenza di una Provvidenza.
+
+L’unico uomo che conosca intimamente e che abbia negato questo scopo divino nella vita umana è William Shakespeare, ma non credo che lui ne dubitasse davvero: dopotutto, l’ha fatto parlare attraverso uno dei suoi personaggi, un individuo debole che veniva spinto dalla moglie a commettere omicidi, e il cui equilibrio mentale ne risultava completamente distrutto. No: le cose seguono sempre uno schema preciso, ed è davvero strano. Sembra non esserci alcun dettaglio lasciato irrisolto.
+
+Pertanto, potete aspettarvi con fiducia che due “Ames Bourgeoises”, ciascuna delle quali sostiene di essere la vera, autentica e originale “Ame Bourgeois”, ma nessuna delle due essendo effettivamente tale, non venga permesso loro (uso questa parola senza alcun significato antropomorfo) di agire casualmente in questo mondo, come due barche che si sono staccate dagli ormeggi durante una tempesta nel basso Tamigi. Una soluzione doveva necessariamente arrivare. Altrimenti, come potrebbe l’universo essere considerato razionale? E la soluzione è arrivata, grazie a uno di quegli eventi casuali che gli uomini irriverenti potrebbero definire coincidenze, ma che i saggi chiamano in modo più nobile.
+
+Prima di tutto, lasciate che attiri la vostra attenzione su un fenomeno che sicuramente non rientra nella vostra esperienza personale, ma il quale è stato attestato dall’eccellente autrice di “Alcohol and Human Organismic Synthesis” (una donna di fama europea), la signora Whortleberry.
+
+Il fenomeno è questo: una piccola quantità di alcol (anche se non è certo vero che non ci possa fare del male) agisce accelerando le facoltà percettive; molte quantità, invece, le intorpidiscono. Infatti, dosi eccessive possono portare addirittura all’oblio totale. (Come sappiamo dal caso di Sir Charles Gaddy durante il dibattito sui bilanci indiani.) In un esperimento significativo, furono somministrate dodici diverse dosi di alcol, che andavano da un singolo centimetro cubo fino a ventidue centimetri cubi, a dodici giovani donne. Ma, onestamente, non posso continuare così; devo tornare al punto.
+
+E quello che volevo dire, comunque, è che il signor Chas. Goatcher, quel disperato, quel sfortunato, quell’esiliato signor Goatcher, venuto ora dopo tanti giorni e settimane, quando ormai le sue risorse erano esaurite (nonostante fosse stato attento, nonostante avesse approfittato regolarmente del bel tempo estivo per godersi la notte l’aria fresca del Tamigi, nonostante fosse stato parsimonioso con il cibo, risparmiando pochi penny che poteva permettersi di spendere per le sue necessità quotidiane), si rivelò un esempio vivente delle verità riguardo all’alcol che vi ho appena esposto, in modo così noiosamente prolisso.
+
+Si ricorderà che in quella notte fatale, quando l’opera d’arte perduta scomparve davvero per sempre, questo cittadino angosciato non visitò più di tre osterie, il che è tutt’altro che un record.
+
+Ecco perché l’aspetto di “The Butcher’s Arms”, con il suo davanti rosso brillante e i vetri piatti illuminati dalla luce arcuata, si era impresso in quella parte della sua mente che si trova al di sotto del livello cosciente, (Ho capito bene?) E riemerge quando quella parte della mente desidera “prendere fiato”.
+
+Molto di ciò che era accaduto dopo che aveva attraversato i portali di The Butcher’s Arms rimaneva confuso; l’ultima parte di quell’episodio, quando si era trascinato a letto, era completamente dimenticata. Ma quella vernice rossa brillante, quei vetri trasparenti e quel nome sotto la lampada ad arco erano ancora lì, come una mina sepolta appena sotto la superficie, pronta a emergere e esplodere da quell’ambito subliminale, (Oh, che parola benedetta!).
+
+— Come queste parole continuano a inseguirsi a vicenda! Vorrei conoscere quella versione moderna. Sto usando il gergo della mia giovinezza. Quelle parole emergono dal subconscio, appaiono proprio quando meno ci si aspetta. Quel momento arrivò una notte: come vi ho già detto, povero signor Goatcher aveva ormai esaurito tutte le sue risorse; gli erano rimaste solo mezzo scellino. Si trovava all’angolo di una strada, nella parte sbagliata della città. E fu lì che inciampò nel pub “The Butcher’s Arms”. E tutto gli tornò in mente, come un boomerang nei racconti di viaggio delle nostre infanzie.
+
+Eccolo lì! Quel luogo da cui la “Donna Borghese” era stata rapita da qualche individuo senza scrupoli; per inseguirlo, lui era caduto e si era coperto di sangue, vergogna e disastro.
+
+Nonostante queste associazioni sgradevoli, entrò lo stesso. Dopotutto, era il pub più vicino. Era arrivato il momento del suo terzo tentativo, e gli restava ancora mezza corona.
+
+Quando entrò nel bar, provò una strana sensazione, come se avesse dimenticato di portare qualcosa sotto il braccio. Non stava forse portando qualcosa con sé? No. Era semplicemente l’effetto di un ambiente simile e il ricordo di quella notte fatale.
+
+La porta che collegava il bar con la stanza dove regnava il proprietario di quella locanda era aperta. Lì, nella sua maestosità, sedeva lui, intrattenendo due amici intimi; indossava le maniche della camicia, come era suo solito fare. Sopra di lui pendeva “Il Sonno Terribile di Stiggins”, meglio conosciuto nel mondo più ricco e parassitario come l’Opera Maestra dell’Immortale Bourrot.
+
+Poiché il signor Goatcher, per distrazione dovuta all’alcol, aveva lasciato quel bicchiere nel locanda, la figlia del proprietario lo trovò e lo portò al proprio padre. Questi, con un’espressione cupa, lo chiamò “Il incubo di Stiggins” e lo appese nella propria stanza come monito per tutti coloro che evitano di bere alcolici.
+
+All’inizio del terzo tentativo, il signor Chas. Goatcher non si fidava sempre di se stesso. Non si strofinava gli occhi, perché nessuno lo fa mai a meno che non abbia qualcosa dentro, ma fissava intensamente l’oggetto davanti a sé. Non si pizzicava nemmeno le guance, perché ciò avrebbe fatto male, e lentamente, temo anche in modo piuttosto confuso, verificò l’oggetto stesso, come si fa nelle università. Poi disse, con un tono un po’ troppo rozzo, alla giovane signora che aveva originariamente salvato quell’oggetto inestimabile:
+
+“Potrei parlare con il governatore per un minuto?”
+
+Lo guardò con autentico disprezzo, valutò lo stato di miseria in cui la sua recente negligenza lo aveva gettato, e gli chiese cosa volesse.
 
 
 
@@ -5381,6 +7819,48 @@ In due course the Duke came round: but in a forbidding mood. He was getting tire
 He listened carefully to Mr. Goatcher’s tale, how he had sought high and low for Sir Henry’s lost canvas, how a clue had been afforded him through a gentleman’s conversation, and how he had discovered the Masterpiece in a public-house near Seven Dials. Hardham listened with the same hard and unchanging eye to the arguments in favour of this last of the claimants — how it had all the appearance of stolen goods abandoned, and how it would not have been in such a place were it not of that character — and so on and so on.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Dica al Governatore,” sussurrò con voce rauca, “che posso far sì che quella foto valga la pena per lui, ” E fece un gesto vago con la testa. Lei si girò per capire cosa intendesse.
+
+“Ah, quello!” disse la figlia di casa. “A papà piace molto.”
+
+“Beh, forse sì!” disse il signor Goatcher in modo misterioso. Poi, a causa di un’involontaria esitazione dovuta alla sua età avanzata, aggiunse queste parole sorprendenti: “Potrei offrirgli dieci sterline per quella cosa!”
+
+“Quando lo vedo!” rispose la fanciulla con calma. “Bene, ora basta: ne hai avuto abbastanza.” E rifiutò di servirlo ancora.
+
+Più scosso dallo shock di quella rivelazione che dal conforto della voce di una donna, il signor Charles Goatcher capì cosa doveva fare. Era un po’ come quando un uomo si aggrappa a un lampione in momenti critici. Comunque, afferrò finalmente la situazione nella sua interezza.
+
+Ringraziò il Cielo (poiché aveva una mente semplice e credeva che il Cielo fosse la volontà degli sfortunati) per i pochi penny che ancora gli rimanevano nel suo misero portafoglio. Ne inserì due nella fessura di un telefono pubblico nelle vicinanze; dopo aver composto due numeri sbagliati, sentì la voce di Henry Bensington all’altro capo della linea.
+
+Sentì un misto di stupore e rabbia; poi, l’attenzione attenta degli ascoltatori. Ebbe la sensazione che per un servizio così importante fosse stato perdonato. Menzionò il nome della taverna, la strada in cui si trovava; accettò umilmente un appuntamento per la mattina seguente, non presso l’ufficio di King Street, ma in un certo luogo convenuto in una caffetteria frequentata sia da lui che dal suo padrone in passato.
+
+* * * *
+
+Un po' più di mezz'ora dopo che il signor Goatcher se n'era andato per quella che sarebbe stata l'ultima delle sue notti di digiuno e sofferenza, Henry Bensington, vestito in modo sobrio ma con chiari segni di ricchezza – non solo nei suoi gesti e nel suo modo di parlare, ma anche nei dettagli del suo abbigliamento – si presentò al “The Butcher’s Arms”, non in auto, ma in taxi: un chiaro segno di prestigio in quel quartiere. Fu accolto con rispetto. E la signora, sorpresa, scoprì (speriamo che ricordasse la lezione, ) che a volte gli uomini ubriachi dicono la verità. Evidentemente qualcuno aveva inviato un messaggio, e lì c'era un gentiluomo – non si poteva sbagliare! – che chiedeva se potesse parlare con il proprietario: aveva un’offerta da fare per un certo dipinto.
+
+Il padrone di The Butcher’s Arms, sentendo la notizia, indossò il cappotto, si sistemò i capelli con un piccolo pennello unto che teneva apposta su uno scaffale, e iniziò le trattative. Queste non durarono a lungo: già venivano menzionate le parole “dieci sterline”, come aveva sentito dire dalla sua stessa figlia. Bensington, saggiamente, propose quindici sterline, e naturalmente in contanti.
+
+Henry Bensington (come si può immaginare, considerando le sue capacità in simili questioni) non mancò di insinuare che quella proprietà dovesse essere stata ottenuta in qualche modo dubioso.
+
+Tutto finì in dieci minuti, mentre il taxi aspettava. Il proprietario di “The Butcher’s Arms” aveva infilato quindici banconote logore nella tasca del gilet (non consecutive, quindi impossibile rintracciarle), e l’originale, l’autentico, l’incontestabile “Ame Bourgeoise” era ben riposto sotto il braccio forte di Henry Bensington, proprio come i suoi “fratellini minori” erano stati in passato nelle mani dei suoi colleghi commercianti d’arte, Caen e Alessandria, uomini che lui aveva sconfitto in battaglia e le cui teste decoravano ora le sue pareti.
+
+Tali sono i padroni di questa terra.
+
+Era solo un quarto d’ora di macchina per tornare in ufficio (tutto era stato chiuso lì molto tempo prima che lui riuscisse ad entrare), e già sapeva cosa doveva fare: era l’ultima delle sue interminabili manovre. Aveva manipolato le cose per tutta la vita, e gli inganni lo avevano reso milionario; ma si può anche avere troppo di una cosa positiva. Davvero, tutte queste complicazioni degli ultimi mesi erano sufficienti a far girare la testa anche al più forte!
+
+La mattina seguente incontrò il signor Goatcher nella caffetteria dei lavoratori, lo portò in un negozio di abbigliamento dove gli procurò degli indumenti adatti, lo riportò in ufficio e gli ordinò severamente di rimanere in una stanza al piano superiore, dove avrebbe dovuto attendere fino a quando non sarebbe stato chiamato. Poi si sedette lui stesso a scrivere quella che sicuramente sarebbe stata l’ultima lettera tra tutte quelle inviate alla Sua Altezza il Duca de Emonsillado.
+
+Non era solo una nota. Era una lettera: una lunga lettera, attentamente redatta e in alcuni passaggi quasi eloquente.
+
+Informò il Duca che, contro ogni aspettativa, era stato trovato ciò che poteva essere – Bensington non osava esserne certo – l’originale di quella cosa che aveva causato tante controversie e, ahimè, un tale dispendio di denaro. Nessuno rimpiangeva più quelle controversie né quel dispendio di denaro di quanto lo facesse lo stesso autore.
+
+Per quanto potesse essere la causa di tali preoccupazioni, Bensington si scusò appieno; ma il fatto straordinario c’era, e non c’era modo di negarlo. Uno degli emissari che aveva inviato a cercare il dipinto quando era scomparso – e che ovviamente non lo aveva trovato – era tornato proprio quel giorno, quella stessa mattina. Aveva scoperto questa copia in un pub situato in una zona povera della città. Se le spiegazioni fornite su come fosse arrivata lì fossero vere o no, Bensington non poteva saperlo; poteva solo credere alle parole del proprietario, il quale era disposto a separarsene facilmente e gli aveva assicurato che un giorno era stata lasciata accidentalmente nel bar. Bensington suppose che il ladro avesse bevuto troppo e l’avesse dimenticata lì; non osava tornare a riprenderla. Il proprietario del pub l’aveva utilizzata come ornamento nella sua stanza privata, mostrarla a uno o due amici. Ed era stato attraverso queste conversazioni che il suo agente ne aveva appreso l’esistenza. Se Hardy riteneva che questa pista non fosse sufficiente, non poteva fare altro. Forse valeva la pena comprarla per porre fine a tutte queste confusioni. Se si fosse deciso ad andare da lui, il suo agente gli avrebbe raccontato tutta la storia e allora avrebbe potuto decidere.
+
+Dopo un po’ il Duca tornò, ma in vena di rimproveri. Si stava stancando di quella processione. Gli era venuta la nausea solo a pensarci.
+
+Ascoltò attentamente la storia raccontata dal signor Goatcher: di come avesse cercato ovunque il dipinto perduto di Sir Henry, di come un indizio gli fosse stato fornito grazie alla conversazione con un gentiluomo, e di come avesse finalmente scoperto l’opera d’arte in una taverna vicino a Seven Dials. Hardham ascoltò con lo stesso sguardo attento e imparziale tutti gli argomenti a favore di quest’ultimo dei pretendenti: di come quell’opera avesse tutte le caratteristiche di un bene rubato abbandonato, e di come non si sarebbe trovata in quel luogo se non fosse stata di tale natura. E così via.
+
 
 
 <span class="atom-split" data-atom="chapter_19--part_03" data-title="The Missing Masterpiece — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,concept/greed_and_money,concept/deception,form/satire,histref/the_bible"></span>
@@ -5422,6 +7902,44 @@ Verecundia, Lady Norbolt, told him a number of home truths which he listened to 
 
 Then she paid.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non ne stava prendendo nessuna.
+
+“Legge i giornali del giorno, signor Chissà-Come-Si-Chiami?”, chiese il Gran Duca al fervente sostenitore dell’arte.
+
+“Perché?” chiese umilmente il signor Goatcher.
+
+“Perché se lo fai, sembra strano che tu continui a cercare quella foto, dopo che hanno emesso la sentenza di Salomone e diviso il bambino in tribunale, eh? Ah! Smettila!”
+
+Il Duca di Emonsillado si alzò alla fine di questa conferenza, stiracchiò braccia e gambe in modo piuttosto volgare, strinse calorosamente la mano a Sir Henry, gli assicurò che tutto andava bene, fece l’occhiolino e se ne andò.
+
+Un altro uomo al posto di Bensington avrebbe potuto abbandonare la caccia. Dopo tutto, aveva guadagnato ben ventimila sterline in contanti, e non c’era nulla di più facile che distruggere ciò che ora sapeva essere l’originale autentico. Ma è proprio questa sorta di presunzione che spinge queste persone a sfruttare fino all’ultima goccia tutto ciò che questo mondo ha da offrire, prima di passare a un altro mondo che, però, non osano nemmeno immaginare. Si sedette immediatamente e scrisse a Lady Norbolt:
+
+“My Dear Lady Norbolt,”
+
+“La cosa che sto per dirvi potrebbe sorprendervi. Spero però che non vi allarmi. Potete verificare da soli tutto ciò che vi dico, e scoprirete che dico la verità. Qualche ora fa uno dei miei agenti, che mi ha servito fedelmente per molti anni e di cui non ho mai avuto motivo di lamentarmi, mi ha telefonato dicendo di aver trovato ciò che riteneva con certezza essere l’originale del ‘Ame Bourgeoise’.”
+
+“Prega, continua a leggere. Ti ho detto subito la cosa peggiore.”
+
+“È stato guidato da un indizio derivante da una conversazione casuale in uno dei quartieri più poveri di Londra. L’ha trovato appeso alle pareti della stanza privata di un oste, dove era rimasto da quando il ladro l’aveva lasciato lì, probabilmente per sbaglio, molti mesi prima. L’ho ottenuto senza difficoltà; ora lo ho con me nella mia stanza.”
+
+“Ora non posso più fingere che questa sia davvero l’originale, e che la copia che avete sia qualcos’altro. La vostra copia potrebbe essere una riproduzione fatta da Bourrot (come personalmente credo), oppure, in qualche modo inspiegabile, assomigliare così tanto all’originale da essere confusa con esso. Oppure potrebbe davvero essere l’originale stesso, e ciò che ho qui potrebbe essere invece una riproduzione fatta da Bourrot, o prodotto in qualche altro modo.”
+
+“È mio dovere informarvi che il Duca di Emonsillado, la cui fiducia nella sua senza dubbio inutile copia potrebbe essere stata scossa dalle prove presentate in tribunale, è venuto nel mio ufficio a seguito di questa nuova scoperta, ma non ha ancora fatto alcuna offerta concreta; pertanto ritengo sia ancora più mio dovere raccontarvi tutta la situazione e darvi l’opportunità di acquistare.”
+
+“Forse non dovrei chiedere meno di quanto onestamente ritenga di poter ottenere da uno qualsiasi dei dodici concorrenti; considerando infatti il dubbio che attualmente riguarda entrambi i dipinti, quello che vi ho venduto e quello che mi è appena arrivato. Ma poiché, anche se non esiste alcun obbligo legale, sento di dover tenere conto delle vostre difficoltà per motivi di onore, sono disposto a lasciarvelo subito e a consegnarlo direttamente dal mio ufficio, dove si trova davanti ai miei occhi, al prezzo esattamente pari a quello che ho ricevuto per l’esemplare attualmente in possesso della Norbolt House. Non so se la presenza di un altro concorrente per il titolo di ‘Capolavoro Originale di Bourrot’ possa causarvi ansia. Ma non dovrebbe, se siete convinti dell’unicità del vostro lavoro.”
+
+“Lascio la decisione a te; ma vorrei una risposta il prima possibile. Sicuramente sarebbe meglio per te venire qui in privato e vedere la foto con me.”
+
+* * * *
+
+Verecundia, Lady Norbolt, venne a trovarlo. Era molto arrabbiata, ma calma. Disse chiaramente a Bensington che l’aveva scoperta e che quello che aveva fatto era abominabile. Lui mantenne la sua calma e osservò, in modo del tutto ragionevole, che lei non era obbligata ad acquistare quel bene. Il suo prezzo, naturalmente, era lo stesso di prima: ventimila sterline. Se voleva lasciare che la cosa continuasse a essere oggetto di discussioni e articoli, beh, alzò semplicemente le spalle.
+
+Verecundia, Lady Norbolt, gli disse alcune verità spiacevoli, alle quali lui ascoltò con pazienza.
+
+Poi pagò.
 
 
 
@@ -5491,6 +8009,70 @@ But there was no mistaking the dreamy, soft, inspired voice which replied. Verec
 “They all tell me it doan matter being at night.... Yes, we’ve got that new light.... What, it doesn’t matter with symbolism what hour it is...?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XX
+
+Due di questi membri di questa enigmatica triade erano nelle mani della donna insistente. Il terzo, quello che il Duca teneva in mano, era irraggiungibile. Ma comunque, non c’era alcuna altra concorrenza; e se ne fosse presentata una, beh, allora che andasse tutto al diavolo!
+
+Nel frattempo, tutti dovevano utilizzare le proprie armi; l’arma di Verecundia era il “Mondo”. Lì aveva Hardy in una stretta mortale. Ma non fu accettato. Avrebbe potuto comprare l’intera Londra e farla arrivare a Norbolt House.
+
+Avrebbe organizzato una grande serata con l’opera d’arte originale, autentica, pura e incantevole; avrebbe tenuto una conferenza al riguardo e utilizzato tutti i possibili trucchi per presentarla al meglio. Questo avrebbe risolto ogni problema, per quanto fosse possibile risolverli in mezzo a un tale mare di falsificazioni!
+
+* * * * *
+
+Il grande giorno era finalmente arrivato. La solenne cerimonia e il trionfo di colui che era davvero l’unico, l’incontestabile, il vero “Ame Bourgeoise” avrebbero dovuto essere resi noti a tutti nell’aula più grande di quel grandioso Palazzo, modestamente chiamato “Norbolt House”. Restavano soltanto due giorni per prepararsi, ma c’era ancora una questione essenziale da risolvere: chi avrebbe dovuto assumere il ruolo di guida? Chi avrebbe proclamato l’“Idolo” e lo avrebbe avvolto nelle nuvole di incenso necessarie, nel caso in cui la loro principale forza di sostegno fallisse? Avevano puntato tutte le loro attenzioni su Vavassour, ma Vavassour era rimasto silenzioso, immobile come il destino stesso.
+
+Vavassour era l’uomo giusto per la situazione. Quello che diceva non solo veniva ascoltato, ma veniva anche attuato immediatamente. Le sue parole avevano un effetto concreto e decisivo. Era l’unica persona in Inghilterra il cui parere veniva riconosciuto da tutti in materia di arte moderna.
+
+Il modo in cui aveva ottenuto quella reputazione lasciava perplessi le persone semplici. Io, invece, non mi lascio perplesso.
+
+L’aveva fatto applicando tre regole: due positive e una negativa.
+
+La sua prima regola era scrivere e parlare d’Arte usando parole di cui nessuno aveva mai sentito parlare in quel contesto. Alcune le aveva importate; altre le aveva inventate lui stesso. La maggior parte di queste parole erano semplici aggettivi e nomi inglesi del tutto comuni, che non avevano alcuna relazione con la scultura, la pittura o qualsiasi altra forma d’arte. Così, nella sua breve ma straordinaria analisi della “Cavallo senza testa” di Williams (che, grazie all’articolo di Vavassour, fu scelta per l’Arco Trionfale del nuovo ponte di Charing Cross), la definì, tra le altre cose, “monosillabica”.
+
+“Come molte opere turche, o comunque quelle della Bessarabia,” termini come “lontano” e “vecchio”; inoltre, espressioni come “settima diminuita” e “accordata”.
+
+La seconda regola era quella di martellare, e martellare ancora, con costanza. Parlava, scriveva, teneva lezioni; pubblicava libretti, prefazioni, opuscoli, epigrammi, giudizi personali, dichiarazioni pubbliche e discorsi dopo cena, senza mai fermarsi, prendendosi grandissima cura di non prestare attenzione a nulla altro se non all’amata arte.
+
+Queste erano le sue due regole di condotta positive grazie alle quali, nonostante avesse ancora meno di quarant’anni, aveva accumulato una piccola fortuna piuttosto considerevole; con essa acquistò una casa a Putney. Dal cancello del giardino di quella casa comunicava con l’“Infinito”, nutrendosi della solitudine e rifiutando decisamente ogni contatto con mendicanti, vagabondi, cacciatori di autografi o milionari. Lì scriveva; in seguito, a un corrispondente compenso, teneva lezioni, discorsi o partecipava a banchetti privati.
+
+E la sua terza regola, negativa, era questa: mai comprare o vendere alcun oggetto d’arte, né per conto proprio né per altri; e mai, nemmeno con il minimo sforzo, tentare di creare qualche opera propria.
+
+In questa sua ultima risoluzione, fu potentemente aiutato dalla natura e dal Dio della natura, i quali, insieme, gli avevano privato qualsiasi capacità artistica. Non riusciva nemmeno a disegnare un uovo. E solo questo lo metteva ben al di sopra dei maestri del nostro tempo, che tutti, in qualche modo, riescono a produrre qualcosa, anche se loro stessi non hanno la minima idea di cosa sia.
+
+Ecco com'era Vavassour. Perdonatemi se mi soffermo troppo su di lui: mi affascina davvero.
+
+Verecundia gli aveva scritto giorni prima. Aveva scoperto l’importo più alto che avesse mai ricevuto (quello che cara Nellie gli aveva pagato lo scorso mese per cenare con lei). L’aveva raddoppiato e aveva inserito il assegno nella lettera, ma non aveva ricevuto alcuna risposta, e iniziava ad ansiosarsi!
+
+“È davvero difficile raggiungerlo,” sospirò lei rivolta ad Ardee ed Elless, tra una montagna di biglietti d’invito, piani, risposte, bollette e ordini. “Non ha nemmeno il suo nome nell’elenco telefonico, e vive a Putney.”
+
+“Beh, Putney non è poi così lontano,” disse seccamente Elless, che aveva una zia anziana e malata in quel delizioso sobborgo.
+
+“No, ma non si può andare fino a quel punto affidandosi solo alla fortuna,” disse Ardee.
+
+“Ah, credevo davvero che quel assegno gli avrebbe risolto tutti i problemi,” continuò la Nobile Vedova con voce triste, “non poteva desiderare di più.”
+
+“Oh, lui arriverà senz’altro,” disse Elless, e Ardee intervenne brillantemente dicendo che era come tutti coloro che possiedono un temperamento artistico.
+
+Come al solito, Elless aveva ragione. Non c’è nulla di meglio della povertà per affinare il giudizio; proprio mentre stava per aprire bocca per fare un altro commento sull’avidità dei residenti di Putney, il telefono squillò e Verecundia fu estremamente felice quando sentì la voce del suo maggiordomo che le annunciava rispettosamente che il signor Vavassour desiderava parlarle.
+
+La compostezza tipica delle caratteristiche fisiche di quella nobile signora si allentò in molti modi durante la breve conversazione che seguì; lei sedeva inclinata in avanti, completamente assorta, con l’strumento premuto contro l’orecchio.
+
+“Sei tu, caro Muster Vavvasour?”
+
+Ma non si poteva sbagliare quella voce sognante, dolce e ispirata che rispondeva. Negli occhi di Verecundia si leggevano ammirazione ed estasi. “Che cosa? Siete stata malata?” Le sue sopracciglia esprimevano compassione e preoccupazione.
+
+“Ah, non la gola. Il mignolo del piede. Di quale piede?” La bella maschera passò dall’ sollievo a uno sguardo affettuoso.
+
+“Cosa, distrutto?” Orrore.
+
+“Ma tutto a posto ora?” domanda gentile.
+
+“Ah, sì, può venire.” Una gloria futile, “Oh, grazie mille, caro signor Vavvasour, grazie davvero! Oh, no. Manderò una delle auto,” un generoso gesto di patronato (che si manifesta soprattutto negli angoli della bocca).
+
+“Tutti dicono a me che non importa se è di notte. Sì, abbiamo quella nuova luce. Cosa? Non ha importanza, dal punto di vista simbolico, a quale ora sia, ”
+
 
 
 <span class="atom-split" data-atom="chapter_20--part_02" data-title="The Missing Masterpiece — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="setting/france"></span>
@@ -5524,6 +8106,36 @@ A whisper came from the midst of that hushed audience; it was Anna Bogles. “He
 
 Then in lower, much lower, vibrating triumphant tones — once more the name of Power... “Bourrot... — !” — ... and once more silence.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Perplessità. “Esatto! E ora è davvero molto difficile trovare degli uomini durante il giorno, visto che tutti si trovano in Città.”
+
+“Grazie ancora, davvero mille volte!. Allora ci vediamo giovedì alle nove a casa tua; inizieremo alle dieci.” Ultima conferma della decisione e chiusura generale dell’incontro. Un altro profondo sospiro di soddisfazione, e il ricevitore venne nuovamente attivato.
+
+Le ultime liste furono rilette, i nomi verificati, il grande progetto relativo alle sedie e alla piattaforma esaminato attentamente; inoltre, il posto riservato alla famiglia reale nella prima fila fu contrassegnato da una piccola croce rossa.
+
+E ora, per due giorni di intenso lavoro di stampa, e poi azione!
+
+* * * * * * *
+
+Era un bel successo, e onorava davvero i venti milioni di Verecundia. “Pig” Hamilton era lì fin dall’inizio. I Barlton arrivarono presto, il che fu molto gentile da parte loro; anche i Bidderling, sia quelli indiani che quello del Tesoro, e Dolly portarono con sé Jane, che fu presentata alle autorità reali in qualche modo appropriato; c’era anche George. Poi c’erano Bailey Pott, Harry Crutch e “Horse”, che erano davvero grati a Verecundia perché aveva pagato per la loro promozione nella nobiltà, e facevano qualsiasi cosa lei gli chiedesse, anche se non riuscivano proprio a gestire quei pittori e scrittori stranieri. C’era anche Ganzer, il nuovo addetto diplomatico, e Morino, che quasi mai usciva di casa; gli occhi dell’ospite brillavano ogni volta che lo vedeva. C’erano anche Worsebeach, Jaggers e sua moglie, insieme a Jack Poole e Kinky Beale – che cercava disperatamente di non farlo vedere. E poi c’era Pirry, che aveva appena comprato Sir Edward. Una scommessa intelligente, perché le sue azioni stavano andando molto bene. Povero vecchio Lord Gunter. Era davvero gentile da parte sua venire. Sì! Verecundia lo voleva davvero così. La maggior parte di loro pensava che fosse morto. Dev’essere stato un grande sforzo per lui. Il Primo Ministro era da qualche parte, ma in mezzo a tutta quella folla era difficile trovarlo. E comunque non valeva la pena preoccuparsene. Ma Lady Sharp era un’altra storia. Verecundia si fece strada tra la folla per congratularsi con lei calorosamente per la sua elezione. E suo marito sorrideva felice. Il Duca di St. Ives fu particolarmente benvenuto. Aveva davvero voluto onorare il nome di Bourrot, disse Verecundia. Ed era così entusiasta che aveva portato con sé anche Peach. Verecundia fu molto gentile con lei per un momento. Lo stesso fece Archie. Ma al Duca non piacque. E Polly riuscì a catturare la sua attenzione. Il che fu saggio da parte sua. Perché a volte il Duca faceva scenate. C’erano anche Mrs. Roebeck, Anna Bogles con i suoi occhiali. E naturalmente Gaby Wyoming, insieme ad altre due star del cinema. E poi c’era vecchio Buster.
+
+Ma non dovrei disturbarvi con altri nomi loro: li conoscete tutti. Londra è un posto piccolo. Certo, c’era anche il caro Archibald; ma il curatore no, perché non era stato invitato. Inoltre, Elless aveva riferito, dopo accurate indagini, che quel vecchio ragazzo aveva ancora un occhio nero. È sorprendente quanto tempo ci voglia perché si guariscano, a sessant’anni. Monsieur Caen e Signor Alessandria erano in ottima forma. Si erano chiesti se questo metodo funzionasse sempre. Verecundia ne fu profondamente colpita quando Archibald le disse che Monsieur Caen era il più grande esperto di Bourrot in [[France|Francia]]; e ancora di più quando Lady Sharp le riferì in seguito che Signor Alessandria non aveva eguali in Italia. Così, durante la cerimonia, Monsieur Caen e Signor Alessandria furono posti in posizioni d’onore nella seconda fila, dietro alla famiglia reale, quando il pubblico fu fatto sedere nei saloni affollati del ballo.
+
+Tutto era stato fatto con tutta l’energia e la meticolosità di Lady Norbolt. Aveva compreso perfettamente lo schema cromatico scelto da Henry Bensington e lo aveva riprodotto dieci volte. L’intera stanza era tappezzata di nero: le finestre e tutte le pareti erano coperte da strati spessi di velluto nero, che si arricciavano sul pavimento per oltre un piede; il parquet lucido veniva così nascosto sotto quella morbida e profonda distesa di tessuto nero, simile all’amore di una madre o al muggito degli animali lontani alla sera. E tutte le sedie erano nere.
+
+Alla fine della stanza, separata dalla prima fila di sedie (dove si trovava la Famiglia Reale) da un ampio corridoio, sorgeva una piattaforma che andava da un muro all’altro; era rivestita di moquette nera, drappeggiata di stoffe nere e sul bordo c’era una fila di piccole lampade schermate, simili a luci da pavimento; su tutti i lati erano appese tende nere. Al centro della piattaforma c’era un tavolo coperto di stoffa nera; in fondo, isolata come una divinità da adorare, era appesa l’Opera Maestra. Verso quella piattaforma, salendo su un piccolo gradino nero sul lato, si avvicinò Verecundia. Si inchinò leggermente (come era la moda allora) davanti alla Famiglia Reale e poi iniziò a cantare con la sua voce luminosa e profonda.
+
+“Non vi darò alcuna spiegazione per impedirvi di godere di questo grande privilegio: ascoltare il giudizio più importante che possa essere espresso dal più grande genio vivente su un genio morto, straordinario per forma, colore e idee. Il signor Vavvasour.”
+
+Gettò uno sguardo veloce a sinistra, fece un gesto impercettibile con la mano sinistra, poi tornò tra il pubblico e si sedette sulla sedia accanto alla famiglia reale. Passò un intervallo impressionante – appena sufficiente – e, grazie a una piega nascosta delle tende sul lato del palco, The Vavassour fece il suo ingresso.
+
+Si appoggiò con noncuranza al tavolo, ispirato, il gomito sinistro posato su di esso, la mano destra che si muoveva nell’aria come se cercasse qualcosa, la nobile testa china. Poi, lentamente, sollevò quei tratti nobili del suo viso e fissò lo sguardo, assorto, in un punto situato a trentasette gradi di elevazione, nel settore nord-est, come se fosse attratto da qualche forza stellare. Alzò quella mano delicata e fece scorrere le sue dita sottili tra i suoi capelli; e ancora, quel silenzio imponente.
+
+Un sussurro provenne dal mezzo di quel pubblico in silenzio; era Anna Bogles. “Sta per ammalarsi!”, disse, e troppa gente la sentì. Ma il genio era immerso nella sua visione. Poi le labbra pronunciarono una parola: bassa ma intensa, carica di significato, “Bourrot”. Di nuovo calò il silenzio, per almeno un minuto e mezzo, che sembrò un’ora intera, ed era proprio quello che si voleva.
+
+Poi, con toni più bassi, molto più bassi, vibranti e trionfali, ancora una volta il nome del Potere, “Bourrot, —!”, e di nuovo il silenzio.
 
 
 
@@ -5586,6 +8198,64 @@ Other voices said fifty things in different ways. “That bounder?” cried Hors
 
 As for Vavassour, he had slipped back into the little side room off the stage, after cleverly switching off the footlights: there he munched sandwiches and drank champagne to his delight. In the main space of the ballroom, where all were straining their necks to see what passed at the door or (the more eager) to take part in the chase and capture, two alone lingered behind near the stage, with wider and wider belts of empty chairs between them, the ebbing tide of super-taxables. They were the twin connoisseurs, Monsieur Caen and Signor Alessandria.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il pubblico rimase immobile come morto, tranne il vecchio Lord Gunter che tossì terribilmente e iniziò a gridare: “Oh! Mio Dio! Oh! Mio Dio!” Finché Peach, che era proprio dietro di lui, gli diede una forte pacca sulla schiena e sussurrò: “Stai zitto, vecchio sciocco!” E immediatamente calò di nuovo il silenzio. Questo silenzio durò ancora un minuto e mezzo; in quel lasso di tempo si sarebbe potuta sentire persino la propria coscienza. Poi, per la terza volta, giunse quell’orribile richiamo, ma questa volta proveniva da una tromba; non c’era dubbio che Vavassour possedesse un vasto repertorio di note. E ancora una volta, con tono imperioso, fu pronunciato quel nome imperiale: “BOURROT!”. Cosa dobbiamo dire, (la voce si abbassò, la testa si piegò, ), di Bourrot. Che ne è dei morti, di coloro che sono scomparsi. Ah! L’umanità, prometeica, condannata, instancabile, invincibile. Bourrot è davvero morto?
+
+Ancora silenzio. Il signor Vavassour abbassò la testa, lasciando che i capelli gli coprissero il viso, appoggiò le mani inerti davanti a sé e scoppiò in singhiozzi. “Sì!. Bourrot è morto!”
+
+Quarto silenzio, questa volta ininterrotto, tranne che per la sostituta di Gaby Wyoming, che piangeva sommessamente e mormorava: “Oh! Non è meraviglioso?”
+
+“Bourrot è morto” — il Maestro si alzò in tutta la sua statura. “Morto?, eppure, non morto!, ” Il Maestro si girò di scatto e, con un braccio rigido e profetico, indicò l’Opera Maestra, “Quello sguardo, quel raggio luciferino, quel contrattacco pieno di vendetta. Tutto ciò che abbiamo davanti a noi, in un simbolismo senza pari dell’Odio, penetra nelle nostre anime addormentate e le risveglia alla lotta contro la borghesia!. Questo! Questo!” esclamò il veggente, ora illuminato dalla rivelazione, mentre si girava di nuovo verso quella folla di volti nell’oscurità di quella enorme sala, “Questo è l’Apocalisse, veicolata attraverso la forma, i colori, le idee, ”
+
+“Ah! Yus!, esclamò Verecundia dalla prima fila. Riconobbe quella frase.
+
+“Questo è ciò che l’Divino nell’Uomo – o l’Uomo nel Divino – o ciò che è sia umano che divino nella Divinità Umana o nella Divinità Umana, ”, disse lui, interrompendosi per l’emozione, “questo è ciò che, con un solo tratto di penna eseguito da una mano unica, potrebbe essere comunicato all’umanità.”
+
+Vavassour fece una pausa, giusto il tempo necessario per assumere la posizione finale. Con il braccio destro rigido come un cartello che indicava verso l’esterno, in direzione dell’“Capolavoro”, sollevò leggermente il braccio destro e completò il messaggio: “Eccolo qui, da solo. Bourrot!”
+
+“Sciocchezze!”
+
+Una voce roca, ancora impregnata delle tracce di un accento oxfordiano acquisito al Fareham College durante il regno della Regina Vittoria, lacerò l’oscurità circostante. Proveniva proprio dalla parte posteriore, vicino alla porta; il suo suono era disarmonioso e caotico, come se un bagno per le parti intime fosse stato versato giù dalle scale mentre veniva eseguito un quartetto di violini.
+
+“Protesto! È una truffa! No, non permetterò che mi zittiscano… Questa messinscena…”
+
+Le teste si girarono nell’oscurità. Il Duca, immensamente sollevato, gridò: “‘Orecchio! ‘Orecchio!’” Il vecchio Lord Gunter gracchiò: “Che cos’è?” e tossì terribilmente.
+
+La voce si alzò, diventando sempre più eccitata fino a raggiungere il parossismo.
+
+Con tutta la potenza che ho a disposizione, protesto contro questa menzogna! Lui non è affatto un Bourrot, proprio come io non sono.
+
+Ma non riuscì ad andare oltre! Verecundia, con la decisione che aveva preso (oltre a venti milioni), si alzò in piedi e cercò a tentoni l’interruttore principale dietro il velluto più vicino.
+
+La accese, e la luce intensa rivelò la figura imponente del dottor Mowlen: lottava disperatamente vicino alla porta, agitata tra le mani di due giovani forti, gridando “Non mi faranno tacere!”.
+
+“Non mi faranno tacere!” ruggì quella grande bocca posta su quella grande testa, mentre le due braccia tozze lottavano con violenza tra le mani dei suoi catturatori.
+
+“Quel dipinto è una falsificazione! L’originale…”
+
+“Zitta!” strillò Ardee.
+
+“… è in possesso di…”
+
+“Tappagli la bocca, Billy!, ” disse prontamente la stessa Verecundia, una vera e propria “imperatrice” nel momento di crisi. Ma Billy era lento ad obbedire; prima che riuscisse a infilare il suo grande fazzoletto di seta nella gola del professore, quelle parole fatali erano già state pronunciate.
+
+“, possesso del Duca de Emonsillado y Manuada y wa — Ow! wa — wough — wough. Ouf! Crwk — Crwk — G-ff-ff, ” E ora lui era effettivamente soffocato, ma il nome del Duca e la sua copia erano ormai andati perduti per sempre.
+
+“Chi?” chiese uno. “Ah, l’uomo del processo.”
+
+Altre voci dicevano cinquant cose in modi diversi. “Quel maledetto!” esclamò Horse. “Beh, che c’entrano le sue maniere con la questione,” disse Peach, “se ha davvero la vera immagine?” E Pig Hamilton continuava a ripetere: “Oh! Lo so! Il Rastaquouère!” Mentre Ganzer ripeteva dolcemente: “E allora? Chi? Anche il Duca di St. Ives?”
+
+“Duca di cosa?”, chiese la Famiglia Reale, alzandosi in mezzo al trambusto.
+
+“Ah! Duca di Niente!” gridò Verecundia, in preda al dolore, dimenticando ogni regola di etichetta. “Qualsiasi cosa. Lascia perdere!, ” Le sue mani erano giunte in preghiera; non pensava ad altro che a quella terribile crisi.
+
+“Caccialo via, Billy!” gridò lei sopra il rumore della folla. “Prendi un taxi! No. Mettilo nella macchina di Jenny. Chiama la polizia! Legalo. Oh!” (si accasciò sulla sedia) “Ah, non so nemmeno cosa sto dicendo, ” Archibald Dacy le fu subito al fianco.
+
+“Lasciate che me ne occupi io!” sibilò con aria minacciosa. In tutta la sua vita, aveva vinto una sola battaglia, ma il ricordo di quell’evento riempiva ora il suo cuore vecchio e stanco di coraggio. “Lasciate che me ne occupi io di quel tizio!” E si fece strada tra la folla, digrignando i suoi denti falsi, fino al punto in cui l’infortunato “Controesperto” del Museo Imperiale veniva spinto e affrettato verso l’auto che lo aspettava. Dopotutto, era abbastanza sicuro: quel vecchio sciocco era nelle mani di persone fidate. Ma sarebbe stato divertente dargli un calcio mentre veniva spinto dentro l’auto. Sarebbe servito a lenire il dolore alla sua caviglia. Così Archibald avanzò, con la rabbia che gli bruciava nel cuore; intorno a lui, quel flusso tumultuoso di ricchi e dei loro parassiti si muoveva verso la porta.
+
+Per quanto riguarda Vavassour, dopo aver spento abilmente le luci di scena, si era ritirato nella piccola stanza laterale adiacente al palco: lì mangiava sandwich e beveva champagne con grande piacere. Nella sala da ballo principale, dove tutti tendevano il collo per vedere cosa stesse accadendo alla porta o (quelli più desiderosi) per partecipare all’inseguimento e alla cattura, soltanto due persone rimanevano indietro, vicino al palco; tra di loro si estendeva un numero sempre maggiore di sedie vuote, segno del deflusso della folla. Erano i due intenditori d’arte: Monsieur Caen e Signor Alessandria.
 
 
 
@@ -5663,3 +8333,78 @@ I ALWAYS LIKE my books to have a happy ending. And in case you should miss it, I
 By the way, the policeman who watched the Duke so suspiciously in Chelsea is happy. He was warmly commended when they found out who the Duke was for not having done anything silly, and is now trusted on the most delicate work in the Parks.
 
 FAREWELL!
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Approfittando di un momento in cui Monsieur Caen stava osservando con eccessiva cautela la folla che si assottigliava, per verificare che l’occasione fosse giunta, Signor Alessandria, con agilità italiana, o meglio maltese, balzò sul palco e si diresse verso il “Capolavoro”. Voleva vedere quella Croce e conoscerne il colore. Non passò nemmeno un secondo che Monsieur Caen si assicurò che tutto fosse a posto; con acrobazie galliche, raggiunse lo stesso obiettivo, voleva vedere quel cerchio! Entrambi guardarono dietro la tela nello stesso istante, e fecero entrambi la “Grande Scoperta”: non c’era alcun cerchio, nessuna Croce, verde, blu, giallo, nero, o “Femme Enragée”. Non c’era nulla. Henry Bensington aveva dimostrato di essere il loro maestro.
+
+I loro sguardi si incrociarono dietro quel famoso dipinto, in quell’istante fugace di scoperta, e si scambiarono due parole dolci: “Ah! Il bugiardo, ” mormorò Monsieur Caen. “Che genio, ” mormorò Signor Alessandria.
+
+Con la velocità tipica dei felini più piccoli, ognuno di loro tornò sul bordo della piattaforma, saltò giù in silenzio sul pavimento coperto da tappeti spessi e si unì alla coda della folla che stava uscendo. Tutti i volti erano rivolti verso la porta; nessuno aveva notato la loro curiosità.
+
+Epilogo
+
+Nelle profondità dell’Hotel Plantagenet, il Duca di Emonsillado rifletteva. Le cose non erano andate come aveva previsto.
+
+Se la situazione fosse andata contro di lui, non ci sarebbe stato più nulla da dire o fare. Se fosse andata contro Verecundia, tutto sarebbe finito esattamente come lui voleva che finisse. Ma così com'era, c'era confusione e qualcosa non era stato risolto completamente.
+
+Il Duca di Emonsillado era infastidito. Verecundia poteva contare sul tempo, sulla sua presenza a Londra e sul suo ruolo di padrona di casa. Tra pochi anni, tutti in Inghilterra avrebbero dato per scontato che la sua copia fosse quella autentica. Alcuni, forse, avrebbero smesso gradualmente di menzionare quella controversa opera d’arte situata nel Sud della [[France|Francia]]. Ma a cosa sarebbe servito tutto ciò?
+
+Poi, ancora una volta, e spero non per l’ultima volta, nell’esistenza di quell’uomo arrivò l’ispirazione.
+
+Avrete sicuramente notato, gentile lettore, che la Fortuna non agisce mai a metà strada. Se dona a un uomo una vasta ricchezza, un antico titolo nobiliare, una robusta costituzione e l’inestimabile assenza di coscienza, onore e di ogni altro ostacolo, farà anche altre cose per lui. E questo è davvero molto gentile da parte sua. Così fu lei ad ispirare il Duca di Emonsillado: gli disse che, sebbene Verecundia potesse migliorare con il tempo, al momento l’arrivo del dottor Mowlem l’aveva messa in grande angoscia. Questo rappresentava un’opportunità per il Duca. Sorrise con quel sorriso cupo che preannunciava i suoi trionfi, scese le scale, andò direttamente a Norbolt House, fece chiamare Verecundia in suo nome. E riuscì nel suo intento. Lei lo ricevette: era pallida per l’emozione, ma lo ricevette comunque.
+
+Si sedette tranquillamente, mentre lei rimase in piedi per ancora mezzo minuto. Lui non parlò finché anche lei non si sedette.
+
+“Guarda qui, Vurry,” disse. “Ho iniziato a pensare che tutta questa lite sia assurda.”
+
+“Sì, certo,” fu la risposta soffocata.
+
+“Yus, Ah sì. Ah stavo pensando ieri sera a come, in tutti questi anni a venire, tu continuerai ad avere voglia di qualcos’altro solo perché io ce l’ho. Quell’Altro, ” E scosse la testa da una parte all’altra. “Non sembra giusto. Non sembra corretto.”
+
+Verecundia iniziò a meravigliarsi. Che tipo di nuovo atteggiamento era questo nel suo odioso nemico, un nemico ancora più odioso proprio perché era stato un amico d’infanzia?
+
+Il Duca incrociò le gambe, si appoggiò allo schienale della sedia e alzò lo sguardo verso il soffitto.
+
+“Eccoti qua, Vurry, mai fermo e immobile, sempre in movimento. Ah! Te lo farò riavere indietro!”
+
+“Tu, ” iniziò Verecundia, sorpresa, alzandosi a metà. Il Duca continuava a fissare il cielo.
+
+“Sì. Vi lascerò riavere quello che avete, al prezzo di costo soltanto. Non cercherei certo di trarre profitto da voi.”
+
+“Prezzo di costo”, disse Verecundia.
+
+“Venticimila,” disse il Duca, con la testa ancora piegata all’indietro e lo sguardo fisso sul soffitto.
+
+“Ma insomma, Hardham Emonsillado…”, cominciò Verecundia. “Non vi vergognate di voi stessi?”
+
+“Nah!” disse il Duca. “È tutto pulito e onesto. Non guadagno nemmeno un centesimo su di voi. E guarda qui, Vurry: sei completamente guarito. Niente più fantasmi, niente più pruriti. Non ci sarà mai un altro ‘Capolavoro’, solo il tuo Capolavoro!” Si raddrizzò di nuovo e guardò l’orologio. “Wow!” disse.
+
+“Quando, ”, iniziò Vurry. Vedeva il futuro con estrema chiarezza davanti ai suoi occhi, e ne comprendeva appieno l’enorme vantaggio.
+
+Il Duca parlò di nuovo.
+
+“L’ho portato con me… Ora è nell’ingresso.”
+
+Lo chiesero loro.
+
+Il Duca guardò di nuovo l’orologio.
+
+“Ora vado, Verry. Ho un appuntamento.”
+
+“Non andare, Hardy,” disse la Quindicesima Marchesa con un tono tenero, che le donne sanno come assumere.
+
+“Molto bene, molto bene.”
+
+Si sedette al tavolo, con la penna in mano e il libretto degli assegni davanti a sé. Lui si alzò al suo fianco. Lei compilò l’assegno con quella sua mano grande e decisa: ventimila sterline; glielo porse. Per un momento temette che potesse offrirle un bacio, dopo tutti questi anni. Ma non accadde nulla. Lui uscì, non così rapidamente quanto la cortesia avrebbe richiesto, ma comunque più in fretta del dovuto. Ora nel mondo esisteva soltanto Un Capolavoro. O meglio, ne esistevano Tre, ma i Tre erano Uno. Omne Trinum. E Verecundia li possedeva tutti, e ora riposava in pace.
+
+Fine.
+
+Super-Epilogo
+
+A ME PIACE SEMPRE CHE i miei libri abbiano una fine felice. E nel caso ve ne dimentichiate, ve lo farò notare, proprio come ho fatto in altri libri. Alla fine di questo libro tutti sono felici: Verecundia è felice perché, anche se ha pagato ventimila sterline tre volte, per lei non significa nulla di più che ventimila pence; inoltre ha ottenuto l’opera d’arte senza rivali. Il Duca è felice perché si è liberato da una situazione difficile. Mr. Gabriel è felice perché ha guadagnato cinquecento sterline. Henry Bensington è molto, molto felice: ha abbastanza denaro, una buona salute e riesce a fare del bene a tutti. Anche il giovane [[Artist|artista]] è felice, così come l’“uomo strano” che appare nel libro. Caen e Alessandria sono abbastanza felici (perché non sono finiti in prigione); Ardee ed Elless saranno felici anche loro, perché la cara Verecundia gli regalerà un bel dono ciascuno. La duchessa è felice, perché ha sentito parlare di uno scandalo ancora più orribile. Anche povero vecchio Goatcher è felice: dopotutto, ha trovato il dipinto, no?
+
+A proposito, il poliziotto che osservava con sospetto il Duca a Chelsea è molto contento. È stato calorosamente lodato quando hanno scoperto chi fosse il Duca, per non aver commesso alcun errore, e ora gli viene affidato il compito più delicato nei parchi.
+
+ADDIO!

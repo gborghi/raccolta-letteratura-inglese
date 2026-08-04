@@ -2527,6 +2527,40 @@ For a moment the ancient Captain of Industry paused with bent head in solemn med
 “‘Mahmoud, I wish you no ill. I have so far fed and clothed you because the Caliph (whom Allah preserve!) has caused those who neglect their younger offspring to be severely beaten upon the soles of their feet. It is now my intention to send you about your business. I propose’ — and here my dear father pulled out a small purse— ‘to give you the smallest sum compatible with my own interests, so that if any harm befall you, the vigilant officers of the Crown cannot ascribe your disaster to my neglect. I request that you will walk in any direction you choose so only that it be in a straight line away from my doors. If, when this your patrimony is spent, you make away with yourself I shall hold you to blame; I shall be better pleased to hear that you have sold yourself into slavery or in some other way provided for your continued sustenance. But what I should like best would be never to hear of you again.’ With those words my father (your grandfather, dear boys), seizing me by the shoulders, turned my back to his doors and thrust me forth with a hearty kick the better to emphasize his meaning.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo I. Intitolato “Al-Rafsat”, ovvero il calcio
+
+Nei tempi di Abd-er-Rahman, che era tra i più saggi e gloriosi comandanti dei Fedeli, nella città di Baghdad viveva un anziano mercante la cui immensa ricchezza faceva sì che anche le sue opinioni più banali causassero fluttuazioni nei mercati del fiume Eufrate, di estrema gravità.
+
+Questo mercante, il cui nome era Mahmoud, aveva un fratello che occupava una posizione di rilievo nella società; professionista come chirurgo, si chiamava El-Hakim. A questo fratello Mahmoud aveva spesso espresso la ferma intenzione di non lasciargli alcuna ricchezza. “Secondo me”, diceva, “il primo dovere di un uomo è verso i propri figli; e anche se io stesso non ne ho, devo comunque rispettare questa regola generale”. Amava discutere a lungo su questo argomento ogni volta che incontrava suo fratello, trovando sempre nuove e ancora più convincenti ragioni per confermare la sua decisione. Suo fratello accettò con grande cortesia l’offerta fatta dal ricco mercante; ma un giorno, trovando noiosa la centesima ripetizione di quella risoluzione devota ma alquanto fastidiosa, gli disse:
+
+“Mahmoud, anche se sarebbe meschino e persino irreligioso aspettarsi un'eredità da te per uno qualsiasi dei miei sette figli, forse permetterai comunque a questi ragazzi di ricevere dalle tue labbra qualche indizio su come tu abbia accumulato quella grande ricchezza che ora godi così meritatamente.”
+
+“Certamente,” disse Mahmoud, sempre pronto a descrivere i propri talenti e i propri successi. “Mandate quei ragazzi da me domani, più o meno all’ora in cui avvengono le esecuzioni pubbliche davanti al Palazzo; a quell’ora avrò già fatto colazione e sarò pronto ad accoglierli.”
+
+Il chirurgo, con profonda gratitudine, lasciò suo fratello e portò la buona notizia ai sette ragazzi, che stavano in fila davanti a lui con il rispetto dovuto ai genitori, come è consuetudine nell’[[Orient|>Oriente]]; ciascuno di loro era posizionato in base alla sua età, che andava da otto a sedici anni.
+
+Pertanto, il giorno seguente, i sette figli del chirurgo, seduti seriamente con le gambe incrociate, formarono un semicerchio ai piedi del loro rispettato parente. Dopo averli osservati per alcuni momenti in silenzio e mentre fumava la sua grande pipa, quest’ultimo aprì le labbra e disse quanto segue:
+
+“Vostro padre si è chiesto, miei cari nipoti, in che modo io abbia ottenuto la fortuna di cui dispongo; poiché nella sua onorevole ma tutt’altro che redditizia professione, somme che per me sono soltanto piccole cifre appaiono come riscatti di re. Per voi, la sua numerosa famiglia, sembra particolarmente vantaggioso scoprire il modo per arricchirsi rapidamente. Ora vi confesserò, miei cari ragazzi, che ignoro completamente qualsiasi regola o metodo con cui i beni effimeri di questo mondo possano essere accumulati rapidamente nelle mani dei Fedeli. Anzi, se tale regola esistesse, sono convinto che ormai sarebbe così diffusa da riguardare l’intera umanità. In tal caso,” aggiunse, soffiando pensierosamente nella sua pipa, “tutto si annullerebbe e non verrebbe ottenuto alcun risultato; poiché una grande fortuna, come ben sapete voi giovani saggi, difficilmente può essere accumulata senza danneggiare gli altri.”
+
+“Ma sebbene non possa darvi quelle regole che vostro padre cercava quando vi ha mandati qui, posso descrivervi in dettaglio i passaggi attraverso cui ho raggiunto la mia attuale prosperità; e ognuno di voi, a seconda delle proprie capacità, comprenderà quali circostanze possano contribuire ad aumentare la fortuna. Quando avrete acquisito questa conoscenza, vi sarà utile per il resto della vostra vita come fonte di divertimento e intrattenimento, anche se dubito molto che possa rendervi più ricchi. Infatti, non sono né il metodo né nemmeno l’opportunità di un acquisizione intelligente a portare alla grande ricchezza, ma due altre cose combinate: da un lato, l’insaziabile desiderio di afferrare e trattenere tutto ciò che si presenta in ogni momento; dall’altro, quel mistero profondo che è la Misericordia di Dio.”
+
+“Per Allah, nella sua scelta incomprensibile, alcuni sono messi da parte e altri favoriti. Ai primi infligge disprezzo, ansia, debiti, conti da pagare, tribunali, improvvisi cambi di residenza, persino prigioni; ai secondi dona veicoli lussuosi, deliziosi succhi e enormi case, come la mia. La sua volontà sarà fatta.”
+
+“Un caro amico mio, di nome Mashé, era un ricettatore di merci rubate a Bosra, fino a quando Dio lo prese con Sé, vent’anni fa. Lasciò due figli di uguale intelligenza e avidità: uno, dopo innumerevoli degradazioni, morì di fame in Armenia; l’altro, altrettanto spietato, oggi è governatore di tutta Algeirah e dispone a piacimento dei fondi pubblici. Mektub.”
+
+Per un momento, l’antico Capitano dell’Industria rimase immobile, con la testa china in solenne meditazione sui disegni del Cielo; poi alzò lo sguardo e protestò dicendo di aver ritardato troppo a lungo nel raccontare la storia della sua vita, che avrebbe iniziato subito.
+
+* * * * *
+
+“Da bambino, cari miei nipoti,” iniziò lo zio gentile, mentre i suoi diligenti nipoti lo guardavano con occhi grandi e curiosi, “ero timido, sporco, ignorante, pigro e capriccioso. I miei genitori e gli insegnanti bastavano a darmi un ordine perché subito io pensassi a un modo per disobbedirgli. Ogni forma di attività, tranne quelle legate al divertimento, mi era odiosa. Lontano dall’recitare insieme ad altri ragazzi della mia età, senza errori, i versetti del Corano, cresciuto fui completamente ignorante di quell’opera, del Nome più Sacro che ancora oggi pronuncio con un suono particolare, a causa della mia mancanza di familiarità con la sua forma scritta. Tuttavia sono felice di dire che non ho mai trascurato i miei doveri religiosi: pregavo con fervore e regolarità, e avevo una fede profonda nella bontà amorevole del mio Dio.”
+
+“Ero già arrivato ai diciassette anni quando mio padre, che aveva osservato attentamente la mia natura e il modo in cui utilizzavo le mie capacità, mi disse quanto segue:
+
+“‘Mahmoud, non desidero nulla di male per te. Finora ti ho nutrito e vestito perché il Califfo (che Allah lo protegga!) ha ordinato che coloro che trascurano i propri figli minori vengano severamente puniti. Ora intendo lasciarti andare per la tua strada. Ti propongo’ – e a questo punto mio caro padre tirò fuori una piccola borsa – ‘di darti una somma modesta, sufficiente affinché, qualora ti accadesse qualcosa di male, gli ufficiali della Corona non possano attribuire la tua sfortuna alla mia negligenza. Ti chiedo solo di allontanarti in qualsiasi direzione tu voglia, purché sia lontana dalle mie porte. Se, una volta spesa questa somma, tu sparissi senza lasciare traccia, ti considererei responsabile delle tue decisioni; sarei invece molto più sollevato se sapessi che ti sei venduto come schiavo o hai trovato un altro modo per provvederti. Ma la cosa che desidero di più è non sentire mai più parlare di te.’ Con queste parole, mio padre (vostro nonno, cari ragazzi) mi afferrò per le spalle, mi girò le spalle alle sue porte e mi spinse fuori con un forte calcio, per sottolineare ancora meglio il suo messaggio.”
+
 
 
 <span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_02" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 2)" data-chapter="ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt" data-tags="motif/journey,motif/ship,concept/providence,setting/ship"></span>
@@ -2564,6 +2598,40 @@ Having so expressed himself the worthy merchant resumed the thread of his tale:
 
 “To one of those wealthier houses which stood near the village I at once proceeded and sent in a message by a slave to its owner saying that my master, a wealthy dealer in carpets, solicited the custom of his lordship, and that if the great man would but accompany me to the quay I would there show him wares well worthy of his attention.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+E così, all’alba dell’età adulta, mi misi in viaggio per vivere le mie avventure nel mondo.
+
+“Mentre percorrevo le strade della città, ho trovato nella mia borsa la somma di 100 dinari, che il mio premuroso genitore mi aveva fornito in base a quella legale obbligazione di cui aveva parlato con tanta emozione. ‘Con una somma così cospicua,’ ho pensato, ‘posso sopravvivere per diversi giorni, concedermi i miei passatempi preferiti. E quando li avrò spesi tutti, sarà il momento giusto per pensare a un modo per sostituirli.’”
+
+Qui il nipote maggiore disse rispettosamente, inclinando la testa: “Per favore, zio, cosa è un dinaro?”
+
+“Mio caro ragazzo,” rispose il mercante ridendo allegramente, “confesso che per una persona nella mia posizione è impossibile rispondere alla tua domanda. Posso solo dirti che questa moneta ha un certo valore per le persone povere, ma per uno come me, la sua denominazione è così bassa da essere indistinguibile da tutte le altre monete.”
+
+Dopo essersi espresso in questo modo, il nobile mercante riprese il filo della sua storia:
+
+“Dunque, ero partito con grande entusiasmo, sentendo il tintinnio delle monete nella mia borsa, quando i miei passi mi portarono sul lungomare, dove vidi una [[Ship|nave]] pronta a salpare per il Golfo Persico. ‘Ecco,’ pensai, ‘un’ottima opportunità per viaggiare e vedere il mondo.’”
+
+Il calore del giorno aumentava. Non c'era nessuno intorno, tranne due barcaioli che dormicchiavano sulla riva. Salii silenziosamente a bordo e mi nascosi dietro uno dei sacchi di merci con cui il ponte era riempito. Quando il sole calò e il lavoro riprese, i marinai salirono a bordo, la vela fu issata e iniziammo il nostro [[Journey|viaggio]].
+
+“Avvolto nell’oscurità della notte, uscii silenziosamente dal mio nascondiglio e vidi un uomo che stava di guardia alla prua; a lui era stato incaricato di misurare la profondità dell’acqua di tanto in tanto con un lungo palo. Assunsi un tono autoritario e gli dissi che il Capitano mi aveva mandato per consegnargli i suoi ordini: doveva darmi una fiasca di vino, del frutto e un dolce (poiché immaginavo che, come tutti i marinai, avesse cose sia legali che illegali con sé). Gli dissi che avrei portato tutto questo al mio parente, il Capitano. Lui mi lasciò per un momento con il palo e presto tornò con le provviste; io me ne tornai silenziosamente nel mio nascondiglio e le consumai tutte con gusto.”
+
+“Per l’intera giornata successiva rimasi addormentato dietro i mucchi di merci. Con l’avanzare della seconda notte, ebbi bisogno di un secondo pasto. Non osavo ripetere il mio primo tentativo, quindi rimasi a riflettere fino a quando la fame, acuendo la mia intelligenza, mi fece venire in mente un piano che sicuramente anche [[Providence]] stessa avrebbe potuto ispirare a un povero ragazzo solo e indifeso, gettato in un mondo crudele senza alcun aiuto.”
+
+“Mi chiesi se il custode di una o dell’altra nave avesse preparato qualcosa per la notte. Ricordai un tipo di passaggio tra i grandi balle presenti sul ponte principale; quel corridoio conduceva fino sotto la poppa, nelle zone destinate al carico. Era stato progettato apposta per facilitare il caricamento e lo scarico del merci, permettendo ai lavoratori di spostarsi agevolmente mentre maneggiavano le merci. Unendo queste due informazioni (ma sia la gloria a Dio), ideai un piano da attuare immediatamente.”
+
+“Mi sono mosso furtivamente dal mio nascondiglio e ho camminato lungo il ponte buio fino a quando non ho incontrato il guardiano, accovacciato vicino alla ringhiera, intento ad ammirare le stelle nel cielo senza luna. Come avevo sospettato, aveva con sé un piatto; il bianco del cui contenuto si intravedeva appena sul ponte accanto a lui. Pensai anche di scorgere una zucca piena di vino. Mi sono avvicinato a lui fingendomi uno dei membri dell’equipaggio (poiché in realtà erano semplici sconosciuti assunti al molo). Abbiamo parlato a bassa voce delle ragazze di Baghdad, della polizia, delle opportunità per rubare, e di altri argomenti tipici dei poveri; naturalmente, alla fine abbiamo iniziato a bere vino. Lui ha lamentato la scarsa qualità di quello che aveva con sé; io, dopo aver creato un po’ di suspense, gli ho rivelato di possedere del vino eccellente. E, man mano che la nostra amicizia cresceva, gli ho confessato dove si trovava: nascosto sotto le coperte sul ponte posteriore, in quel passaggio stretto tra i grandi balle. Gli ho offerto di andare a prenderlo insieme, permettendogli di precedermi per la sua impazienza. Quando lui è stato impegnato a cercarlo nella parte posteriore della nave, io mi sono girato e sono tornato indietro silenziosamente; ho preso il pane e il formaggio che erano sul suo piatto, insieme alla zucca con il vino, e sono scomparso di nuovo nel mio nascondiglio.”
+
+“Ho mangiato a sazietà – anche se un po’ troppo in fretta – e ho notato quanto tempo il mio compagno di viaggio stesse passando a cercare in quel posto vuoto. Quando l’ho sentito tornare indietro sussurrando oscenità, ho visto che all’orizzonte era già spuntata l’alba; così ho deciso che la mia crociera dovesse finire.”
+
+“Eravamo già nelle vicinanze del mare; me ne resi conto assaggiando l’acqua dall’esterno della nave al buio e constatandone il sapore salmastro. Pensai che il mio povero compagno avesse ora un ottimo motivo per scoprire dove mi trovassi, che anche il Capitano avrebbe presto saputo di me e che, con l’alba, sicuramente sarei stato punito con bastonate o messo in catene e venduto. Così scivolai giù dalla nave (poiché ero un ottimo nuotatore) e mi diressi verso la riva. Lì mi sdraiai su una spiaggia calda e, attraverso i cespugli, osservai la grande vela della nave allontanarsi sempre di più lungo il fiume, nella luce che aumentava.”
+
+Quando sorse il sole, la nave era ormai sparita dalla vista; guardandomi intorno, scoprii un piccolo villaggio non lontano dalla riva, abitato da semplici pescatori, ma che conteneva anche alcune case piuttosto eleganti, le residenze di ricchi mercanti che venivano qui da Bosra nei loro momenti di svago per riposarsi dal frenetico andirivieni del commercio in quella città vicina.
+
+“La mia prima azione all’inizio di questa nuova giornata fu inginocchiarmi e aggiungere alla preghiera rituale un umile ringraziamento per i benefici che avevo già ricevuto, nonché una fervente richiesta di guida. Quella richiesta fu ascoltata. Mi alzai pieno di un nuovo piano da seguire.”
+
+“Verso una di quelle case più ricche situate vicino al villaggio mi diressi immediatamente e inviai un messaggio tramite uno schiavo al suo proprietario, dicendo che mio padrone, un ricco commerciante di tappeti, desiderava ottenere l’onore di fare affari con lui, e che se quell’uomo gentile avesse voluto accompagnarmi al molo, gli avrei mostrato merci davvero degne della sua attenzione.”
 
 
 
@@ -2609,6 +2677,46 @@ Upon hearing these words his seven nephews rose together, and crossed their arms
 “‘It is I!’ shouted the aged connoisseur eagerly, ‘it is I who will prove the highest bidder! Nay, my dear fellow, since such bargains are often concluded in private, would it not be better to tell your master forthwith that no possible competitor can stand against me in this place? Let him first discover the sum offered by my rival and I give you leave to suggest a sum larger by one-tenth, which shall decide his judgment. Meanwhile,’ he added, ‘two thousand dinars are but a small present for one in your position, and I shall willingly — joyfully — propose to give you that sum, not for a moment on account of the service which I am certain you design to do me, but purely as an expression of my esteem.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Accadde che (e qui intervenne di nuovo la [[Providence|Provvidenza]]) questo mercante avesse una grande passione per un particolare tipo di tappeto che viene prodotto esclusivamente dagli abitanti di El Kzar, poiché solo loro conoscono il segreto della sua realizzazione, che custodiscono con grande gelosia. Il servo mi riferì quindi che il suo padrone non si sarebbe preso la briga di accompagnarmi a meno che tali merci non fossero presenti per essere esaminate. Se i miei tappeti fossero stati quelli prodotti a El Kzar, li avrebbe esaminati volentieri; altrimenti, gli sarebbero stati indifferenti.”
+
+“E che questo vi insegni, miei cari nipoti, quanto siano semplici le menti dei ricchi.”
+
+“Ero così disposto che anche i tappeti potessero essere quelli di El Kzar, o addirittura di qualsiasi altro luogo sotto il cielo, poiché tutti erano a mia disposizione.”
+
+“Pertanto, mi affrettai a inviare un altro messaggio nel quale spiegavo che, per una curiosa coincidenza, in quel momento non avevamo nulla altro in magazzino se non tappeti Kzaran, e pregai lo schiavo di sottolineare questo punto importante al suo padrone.”
+
+La sua risposta fu di torcere la mano destra, con il palmo rivolto verso l’alto, mentre sorrideva in modo strano. Tirai fuori la mia borsa, gli mostrai i brillanti dinari e gli chiesi se preferisse riceverne uno subito come compenso o cinque al termine della transazione. Con occhi scintillanti – e anche, a mio parere, con un’aria di patetica gratitudine – lo schiavo accettò immediatamente la seconda opzione.
+
+“E che questo vi insegni, miei cari nipoti, quanto siano semplici le menti dei poveri.”
+
+“Si affrettò ad andare a portare il mio messaggio.”
+
+“In pochi momenti il padrone di casa apparve con grande fretta e, con aria febbrile, mi chiese di portarlo nel luogo stabilito.”
+
+In quel momento il mercante si fermò e, con uno sguardo pieno di malinconia e ricordi, rimase in silenzio per almeno il tempo necessario perché un abile borseggiatore potesse, con destrezza, sfilare una borsa dalla manica di un Santo. Il secondo nipote pensò che fosse arrivata l’occasione per sollevare un dubbio che da tempo lo tormentava. Disse quindi, con riverenza:
+
+“Venerabile zio, abbiamo ascoltato con ammirazione e rispetto i primi passi della tua carriera, ma ora siamo ancora più perplessi nel comprendere come tali inizi possano aver portato a un simile epilogo. Perché a nostro avviso tu hai seguito soltanto quella strada che conduce ai torturatori e alle corde degli archi.”
+
+“Proprio così,” rispose suo zio, con uno sguardo di profonda affetto, “è l’opinione comune che tutti gli uomini molto ricchi abbiano nei primi stadi delle loro carriere; ma spero che le conseguenze dimostrino a te e ai tuoi intelligenti fratellini quanto siano errate queste convinzioni popolari.”
+
+Mentre il mercante Mahmoud pronunciava queste parole, dalla torre vicina si udì la chiamata alla preghiera; lui concluse quindi in fretta:
+
+“Miei cari nipoti, siamo chiamati a pregare. Qui terminerò il mio discorso e domani continuerò a raccontare la storia di Me stesso e della [[Providence|Provvidenza]].”
+
+All’udire queste parole, i suoi sette nipoti si alzarono tutti insieme e incrociarono le braccia; dopo questo gesto, fecero tre profondi inchini mentre si allontanavano verso le tende dell’appartamento magnifico, lasciando così la presenza di loro zio.
+
+* * * * *
+
+“Ricorderete senz'altro, miei cari nipoti,” disse il mercante Mahmoud quando i ragazzi si riunirono di nuovo davanti a lui in semicerchio, con le gambe incrociate e un'espressione attenta, “che mi avete lasciato alle prese con il collezionista di tappeti Kzaran diretto verso il molo, dove avrebbe potuto ammirare la merce. Questo mercante era considerato dalla gente del posto un uomo estremamente astuto e riservato; una caratteristica che (forse vi sembrerà strano, ) loro ammiravano come se fosse l’apice della saggezza umana. Devo confessare che, almeno per quanto riguarda i tappeti Kzaran, si è rivelato molto diverso dalla sua reputazione. Non c’era mai stato un vecchio signore più loquace di lui. Parlava senza sosta, in preda all’eccitazione; e anche se facevo del mio meglio per guidarlo lungo strade più lunghe, così da dargli il tempo di calmarsi, ogni ritardo sembrava solo aumentare la sua agitazione.”
+
+“‘Vi supplico, signore,’ disse infine, come chi non riuscisse più a trattenere una passione violenta, ‘vi supplico, non prestate attenzione agli altri presenti qui che potrebbero aver cercato di ostacolarmi riguardo al vostro molto prezioso carico. So bene che la vostra onorabilità è sufficiente in questa materia. Sono certo che mi concederete un trattamento equo. Inoltre, quelle persone non conoscono nulla dei tappeti Kzaran in queste zone: sono soltanto compratori e venditori, e a quali profitti! Lasciate che vi dica in privato che, sebbene molti qui appaiano ricchi, la maggior parte è indebitata nei confronti dei Parsi della capitale. Solo io sono in una posizione indipendente. E’ per questo che potrei ricompensarvi privatamente, nel vostro interesse personale, per qualsiasi favore mi concediate.’”
+
+“Vedendolo così desideroso, fingetti un certo esitare e imbarazzo, e alla fine confessai che un mercante del posto mi aveva contattato; il nome di quell’uomo mi era stato vietato di menzionarlo. Lui aveva gentilmente inviato a mio nome, tramite uno schiavo, la somma di 1.000 dinari come regalo. Non aveva imposto alcuna condizione, ma aveva anche fatto sapere, in modo del tutto indipendente, che lui stesso aveva ordini per l’acquisto di tappeti che doveva assolutamente eseguire. Secondo lui, se gli avessi concesso la priorità nell’acquisto, il suo profitto sarebbe stato così considerevole da fargli offrire una generosa commissione al termine della transazione; senza contare i 1.000 dinari, che rappresentavano soltanto un piccolo dono tra persone fiduciose l’una nell’altra. ‘Questi mille dinari,’ aggiunsi, ‘ora che sono in mio possesso, li ho accettati. Un regalo è un atto gentile e può essere accettato con la coscienza pulita. Ma la commissione è un’altra questione. Devo considerare soprattutto gli interessi del mio padrone. Non menzionerò l’offerta che mi è stata fatta (poiché, nonostante la sua fiducia in me, lui stesso è un uomo d’affari e potrebbe fraintendere la mia posizione), ma ritengo mio dovere consigliargli di vendere al miglior offerente.’”
+
+“‘Sono io!’ gridò con impazienza il vecchio esperto, ‘sono io che dimostrerà di essere l’offerente più alto! No, caro mio, poiché spesso queste transazioni avvengono in privato, non sarebbe meglio dire subito al tuo padrone che nessun concorrente potrebbe competere con me in questo caso? Lascia che scopra prima l’importo offerto dal mio rivale, e poi ti autorizzo a proporre un importo superiore di un decimo: sarà questa la decisione definitiva. Nel frattempo,’ aggiunse, ‘duemila dinari sono solo un piccolo dono per qualcuno nella tua posizione. E sarò felice di offrirteli, non certo in cambio del servizio che sicuramente intendi rendermi, ma semplicemente come espressione della mia stima.’”
+
 
 
 <span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_04" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 4)" data-chapter="ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,motif/gems_jewels,concept/deception,concept/greed_and_money,concept/money_and_avarice,form/satire,setting/the_orient"></span>
@@ -2639,6 +2747,32 @@ Upon hearing these words his seven nephews rose together, and crossed their arms
 “When we were well away from the neighbourhood of the city I asked the fishermen whither they were bound; to which they answered that their business was only to cruise about outside and fish during the night, returning at dawn with their catch. ‘Would it not be better,’ I suggested, ‘seeing that these rapacious fellows will hang about for a day or so, to carry me to some town of your acquaintance along the coast where the reigning powers do not suffer from the tyranny of Bagdad? For my part I am free to travel where I will, and the prospect of a change pleases me. I shall be happy,’ said I, ‘to reward the sacrifice of your catch with fifty dinars.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La sua eccitazione era ormai così intensa che temo avesse perso la capacità di giudicare con lucidità. Nella sua mente immaginava già un mucchio dei più nobili tappeti Kzaran, pronti per essere caricati sulla carovana. Vedeva già un rivale acquistarli con calma al porto lontano, i testimoni apporre le loro firme, le procedure necessarie per completare l’acquisto.
+
+“Tremava mentre ancora una volta mi insisteva nel dare quel piccolo regalo, quel dono personale, quel misero regalo di 2.000 dinari.”
+
+“‘Signore,’ risposi io, un po’ rigido, ‘non sono abituato ad accettare commissioni segrete sotto alcun pretesto. Il mio dovere è chiaro: se non ricevo un’offerta concreta e superiore a quella che mi è già stata fatta, accompagnata da prove che confermino che lei sia davvero, come afferma, la persona più affidabile di questa città, allora dovrò accettare l’offerta del mio primo cliente. Se fossi certo di ricevere un pagamento immediato e in una somma maggiore, accetterei senz’altro la sua proposta. Ma come posso conoscere le condizioni di questo posto? I mille dinari di cui ho parlato sono già pronti e conservati nella mia borsa; li ho al sicuro. Con tutto il rispetto dovuto alla sua età, non dispongo di informazioni riguardo alla sua credibilità in questa città. E devo ammettere,’ aggiunsi con un altro tono, ‘che conosco anche la situazione del suo rivale, che forse è più solida di quanto lei pensi. Confesso che sarebbe più semplice e più vantaggioso per la nostra attività se andassi direttamente da lui adesso.’”
+
+“Mentre parlavo in questo modo, l’uomo anziano perse completamente il senno. Era davvero triste vedere una persona della sua età e con i suoi venerabili capelli tremare e balbettare per l’eccitazione. Scuoteva i pugni nell’aria, gridava verso il cielo con toni striduli, manifestando tutta la follia tipica di un collezionista. Confrontava gli scopi commerciali del concorrente sconosciuto con la propria passione per l’Arte Pura. Chiedeva al cielo di testimoniare sulla veridicità della sua ricchezza; infine, in preda a una sorta di furia, strappò i gioielli che adornavano i suoi abiti e me li mise tutti in mano, insieme all’intero denaro che aveva con sé (si trattava di un borsello di cuoio contenente al massimo 500 dinari). Inoltre, mi diede anche un broccio d’oro che tirò fuori dal proprio sciarpo, aggiungendo che, se questa somma non fosse stata una prova sufficiente della sua buona fede e del suo credito, non avrebbe saputo come convincermi.”
+
+“Alzai le spalle e suggerii che, invece di fare una protesta così violenta e correre un rischio così grande per la sua fortuna, avrebbe dovuto tornare tranquillamente a casa sua e portare con sé un documento di credito e due testimoni (come richiede la legge), mentre io lo aspettavo pazientemente in quel luogo. Almeno io non avevo alcuna fretta e sarei rimasto ad attenderlo onorevolmente. Lui, invece, se ne andò a una velocità che mai avrei pensato possibile per la sua età.”
+
+“Aspettai fino a quando non ebbe svoltato l’angolo di un lontano filare di peri spinosi; solo quando fu completamente sparito dalla mia vista raccolsi le gemme, le monete e gli ornamenti preziosi che, nella sua fretta, aveva gettato ai miei piedi, e subito dopo mi diressi nella direzione opposta.”
+
+“Mai la Misericordia di Allah si manifestò in modo più evidente. La pianura era desolata al di fuori della città; il fiume distava forse un miglio; la mia situazione sembrava disperata. Appesi il broccio d’oro al mio mantello e distribuii le gemme in varie parti del mio corpo, poi proseguii a passo veloce attraverso la pianura verso il fiume. Con grande gioia scoprii sul suo bordo due pescatori pronti a salpare e a dirigersi verso il mare. La loro presenza mi ispirò un piano per fuggire.”
+
+“Chiacchierai con loro in modo distaccato (tenendo sempre d’occhio la casa lontana del mio vecchio amico, un po’ irascibile). Alla fine, con una risata leggera, offrii a uno di loro un pezzo d’oro, dicendo che mi sarebbe piaciuto provare l’esperienza nuova di una piccola crociera. Il pescatore, del tutto ignaro di tanta ricchezza e visibilmente intimidito, mi diede qualche titolo nobiliare e promise che avremmo avuto ottimi risultati nella caccia ai pesci e divertimenti insoliti. Ma proprio mentre lui e il suo compagno si allontanavano dalla riva, mi girai sul mio sedile sul ponte e notai in lontananza una nuvola di polvere che annunciava l’arrivo del mercante con i suoi testimoni e un gruppo di schiavi.”
+
+“Improvvisamente, cambiando espressione da uno di soddisfazione e stanchezza in uno di profondo allarme, gridai ai miei nuovi compagni: ‘Allontanatevi il più possibile e spiegatemi le vele al massimo! Sono i Commissari inviati dal Califfo per rivalutare e tassare tutte le barche da pesca secondo un nuovo calcolo! Quando me ne sono andato, avevano già sequestrato tre barche sulla spiaggia; vi ho trovati qui!’”
+
+“A queste parole, quei bravi uomini furono colpiti da un terrore ancora maggiore del mio. Con coraggio si spinsero nella parte più rapida della corrente; nonostante soffiasse una brezza leggera, issarono le vele al massimo, tanto che la barca rimase con il bordo quasi a contatto con l’acqua, in una posizione davvero pericolosa. Tuttavia, ebbi la soddisfazione di vedere il mercante e il suo seguito scendere lungo la riva del fiume a una velocità probabilmente metà della nostra, maledicendoci, minacciandoci con i pugni, esibendo le loro autorità ufficiali e lanciando ogni sorta di minacce. Il tutto confermava, in modo inequivocabile, la veridicità della storia che avevo raccontato loro.”
+
+“Era davvero piacevole sdraiarsi sul ponte sotto il calore del giorno, giocare con quegli ornamenti preziosi che avevo appena acquistato e osservare con indolenza i miei compagni mentre sudavano sotto la fatica di manovrare le vele; oppure guardare verso riva, dove quel piccolo gruppo di persone deluse si allontanava sempre di più da noi man mano che procedevamo lungo la corrente. Presto i loro volti divennero indistinti, poi anche le loro figure furono quasi invisibili. L’ultima immagine che mi rimase fu quella di qualcuno lontano, che agitava disperatamente le braccia verso il cielo, esprimendo rabbia impotente. Non potevo fare a meno di deplorare un simile mancato rispetto della dignità in una persona così stimata.”
+
+“Quando fummo ben lontani dal quartiere della città, chiesi ai pescatori dove stavano andando; loro risposero che il loro compito era semplicemente quello di navigare al largo e pescare di notte, per poi tornare all’alba con la loro preda. ‘Non sarebbe meglio,’ suggerii, ‘visto che questi individui voraci rimarranno in giro per un giorno o due, portarmi in qualche città che conoscete lungo la costa, dove le autorità locali non soffrono della tirannia di Baghdad? Per quanto mi riguarda, sono libero di viaggiare dove voglio, e l’idea di cambiare ambiente mi piace molto. Sarò felice,’ dissi, ‘di ricompensare il vostro sacrificio offrendovi cinquanta dinari.’”
+
 
 
 <span class="atom-split" data-atom="chapter_01_entitled_al_rafsat_or_the_kick--part_05" data-title="The Mercy of Allah — Chapter 1: ENTITLED AL-RAFSAT, OR THE KICK (part 5)" data-chapter="ENTITLED AL RAFSAT OR THE KICK" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,concept/greed_and_money,concept/deception,concept/providence,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -2666,6 +2800,31 @@ That is:
 
 The Pearls
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Alla prospettiva di ottenere ancora più ricchezze, i pescatori furono immediatamente convinti: cantavano di gioia, e per tre giorni e tre notti navigammo lungo il Golfo, superando montagne desolate e promontori rocciosi, fino a quando, al quarto giorno, arrivammo in una città come non ne avevo mai vista prima.”
+
+“‘Dovremmo atterrare qui?’ dissi io.”
+
+“No,” dissero i pescatori, “poiché si trova all’interno dei domini del Califfo, e forse anche qui verrà imposta quella maledetta tassa di cui avete parlato.”
+
+“‘Lo sai meglio di me,’ pensai rispondendo, fermandomi per un momento con aria di falsa perplessità. ‘Ma lasciami salire sulla tua piccola barca. Ho una passione per i luoghi nuovi. Tornerò da te dopo l’ora delle preghiere di mezzogiorno, quando sarai in piedi al largo.’”
+
+“Accettarono facilmente questo accordo. Remai verso la riva, e quando arrivai sulla spiaggia fui felice di vedere i miei ‘ospiti’ spaventati a circa tre miglia di distanza, sul caldo e scintillante mare. Guardandoli con compassione – e certamente con interesse – lasciai che la piccola barca andasse alla deriva (poiché non avevo motivo di tornare da quelle povere persone) e proseguii verso l’interno del paese. Vendetti i miei gioielli a prezzi né troppo bassi né troppo alti ai commercianti locali. Conservai invece il vecchio broccio d’oro: immaginavo che potesse portarmi fortuna. Una volta concluse tutte le transazioni, calcolai il mio patrimonio totale e scoprii di possedere ben 1.500 dinari. Ormai era sceso il freddo della sera; mi riparai sotto un pergolato dove una deliziosa fontana gocciolava alla luce del tramonto che illuminava le acque del mare. Bevendo una bevanda locale di cui non conoscevo il nome, ma la cui consistenza e sapore erano piacevoli, riflettei sulla mia fortuna crescente.”
+
+“‘Sei partito da casa, Mahmoud,’ mi dissi, ‘con cento dinari; tuo padre, così premuroso e generoso, si è privato di quei soldi piuttosto che vederti affrontare il mondo senza mezzi, o che lui stesso subisse la punizione del bastinado. Sei via da una settimana; probabilmente ti trovi a circa 800 miglia dalla tua città natale; il valore dei tuoi beni è aumentato di quindici volte. Puoi quindi guardare con coraggio alle prossime avventure della tua vita, perché chiaramente la Misericordia di Allah è con te.’”
+
+In quel momento, un fischio acuto proveniente dalla torre del vicinato avvertì la compagnia di rivolgere i loro pensieri al cielo. I ragazzi, che avevano ascoltato affascinati il racconto dello zio, capirono che l’intrattenimento era finito. Il terzo figlio del chirurgo, quindi, non poté fare a meno di esclamare (con fretta): “Ma caro zio, anche se vediamo che una certa fortuna vi ha aiutato, oltre ai vostri talenti naturali, non riusciamo comunque a capire come tutto ciò abbia portato a una strada concreta verso la fortuna.”
+
+“Mio ragazzo,” disse il mercante Mahmoud, accarezzandosi pensierosamente la barba e guardando con aria vuota oltre le teste dei giovani. “Non pretendo di rivelarti alcun piano del genere. Non ti ho forse detto che, se un simile piano esistesse, tutti ne sarebbero a conoscenza? Io ti sto semplicemente raccontando, nel mio modo umile, i passi attraverso cui un mercante in questa città è stato elevato dalla Grazia Infinita del Misericordioso (che il suo nome sia lodato!) dalla povertà alla ricchezza. Ma la chiamata alla preghiera è già stata udita e dobbiamo separarci. Nello stesso giorno della prossima settimana, poco dopo che l’ultima delle esecuzioni pubbliche sarà terminata, tornerai ad ascoltarmi mentre racconto il prossimo capitolo della mia straordinaria storia.”
+
+# Al-Durar
+
+Titolo:  
+Cioè:
+
+Le Perle
 
 
 
@@ -2707,6 +2866,43 @@ Here the merchant coughed slightly, and addressing his nephews said: “You have
 “‘This is indeed well found!’ exclaimed the old man, with enthusiasm. ‘I am myself seeking for some one to whom I may sell a magnificent collection of pearls inherited from my great-grandmother, an Indian Begum. The old woman,’ he added nonchalantly enough, ‘was a miser; she kept the drops higgledy-piggledy in an old cedarwood box, and I confess myself quite ignorant of their value. Moreover, as I have taken a liking to you, I shall let you fix your own price, for I should much like to remember when my time comes that I had helped a friendless man in his first step to fortune; only, I am a little ashamed to appear to be making money out of an heirloom!’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Titolo:  
+CAPITOLO II. INTITOLATO “AL-DURAR”, O LE PERLE
+
+UNA SETTIMANA PIÙ TARDI, all’ora delle esecuzioni pubbliche e delle decapitazioni, i sette ragazzi furono nuovamente radunati in posizione seduta ai piedi del loro rispettato zio. Dopo averli rinfrescati con acqua fredda e essersi lui stesso nutrito di una strana miscela di orzo fermentato, il zio si rivolse a loro nel seguente modo:
+
+“Ricorderete tutti, miei ragazzi, come io fui lasciato lontano dalla mia cara casa e da tutti i miei compagni, in una terra straniera, con non più di 1.500 dinari a disposizione per affrontare le difficoltà della vita. Questa somma potrebbe sembrarvi considerevole, ma vi assicuro che, nel mondo degli affari, ” (e qui il mercante sbadigliò) “non è altro che una goccia nell’oceano. In soli sette giorni, nella mia veste di finanziere, avevo già fatto grandi progressi. Eppure, riflettevo con preoccupazione su quanto fosse insufficiente quella somma per contrastare l’inganno, la voracità e l’avidità di questo mondo. Ma un breve sonno – riposato sotto un albero Baobab per risparmiare sul vitto e sull’alloggio – mi rinvigorì immediatamente. Il mattino seguente ero pronto ad affrontare nuovamente le sfide della vita.”
+
+Qui il mercante tossì leggermente e, rivolgendosi ai suoi nipoti, disse: “Senza dubbio a scuola vi sono stati insegnati i caratteristiche del Baobab, vero?”
+
+“Ce l’abbiamo,” risposero i suoi nipoti, e recitarono all’unisono le descrizioni che avevano imparato a memoria dai libri di testo della loro Accademia.
+
+“Sono felice,” rispose loro lo zio sorridendo, “di scoprire che siete così informati. Capirete quanto sia spazioso il tetto che offre questa strana pianta.”
+
+“Beh, sotto il sole del mattino proseguii attraverso una regione piacevolmente boscosa e in via di sviluppo, pensando a quale stratagemma di usura o inganno potessi utilizzare per aumentare ulteriormente il mio capitale. Quando all’orizzonte vidi i boschi e gli edifici bianchi di una città senza mura, verso la quale mi dirigei (poiché le grandi città, soprattutto se non sono militaristiche, offrono il miglior terreno per intraprendere imprese commerciali, );, e lì, per la Misericordia di Allah, mi capitò un’avventura davvero straordinaria, come forse mai ne è toccata a nessuno prima d’ora.”
+
+Non ero ancora seduto nel mio posto presso il caravanserai locale da più di un’ora; non avevo incontrato nessuno che potesse sembrare uno sciocco, e i miei piani per il futuro erano ancora vaghi nella mia mente. Quando un anziano signore di grande dignità, seguito da un ufficiale ossequioso e da ben sei schiavi etiopi, si avvicinò a me con profondo rispetto e mi offrì una borsa di pelle di tipo straniero, del genere che non avevo mai visto prima, chiedendomi se fossi il giovane che l’aveva accidentalmente lasciata su una pietra di preghiera presso un santuario fuori città.
+
+“Afferrai la borsa con grande entusiasmo, la sollevai in segno di gioia e, baciandola più e più volte, dissi: ‘Oh! mio benefattore. Come posso ringraziarvi a sufficienza? È l’ultimo dono che mio padre mi ha fatto. Ed è anche tutto il mio viatico!’ Poi continuai a baciarla e ad accarezzarla, tenendola contro il mio cuore. E scoprii che era piena di monete. Esattamente come avevo sospettato.”
+
+“Ero così profondamente coinvolto in un'emozione intensa che gli occhi mi si riempirono di lacrime; anche quell'uomo buono e anziano ne fu molto commosso. ‘Devo avvertirti, giovane straniero,’ disse con affetto paterno, ‘di questa leggerezza così comune tra i giovani. Sarebbe stata una grande perdita per te se non fossimo stati fortunati a recuperare le tue proprietà.’”
+
+“Potete immaginare la mia confusione, cari nipoti, nel rendersi conto di aver commesso un errore così inaccettabile. Arrossii per l’imbarazzo; ringraziai sinceramente quell’anziano signore, non per la sua integrità (che sarebbe stato offensivo menzionare davanti a una persona così ricca), ma per le sue premure nel cercare quel giovane negligente e nel impedirgli di subire una perdita così grave.”
+
+“‘No,’ mi disse quel gentiluomo anziano con una risata bassa e piacevole, ‘non dovete ringraziarmi. Forse, se fossi stato io stesso a trovare quel tesoro, avrei potuto ritenere che non valesse la pena restituirlo. Ma dovete sapere che sono il Magistrato Capo di questa città, e ieri sera il mio ufficiale, da una certa distanza, notò un giovane – apparentemente uno straniero in questa città – che si alzava dal punto dove si recavano le persone per pregare, lasciando dietro di sé qualche oggetto che, nella semioscurità del crepuscolo, non riuscì a distinguere. Avvicinandosi, scoprì che si trattava della vostra borsa: alcuni ragazzi l’avevano già trovata e stavano litigandoci sopra, quando lui la prese loro dalle mani. Me la portò, fornendomi alcune descrizioni sul vostro aspetto; pensai che forse foste in questo caravanserrai, quindi la portai con me. E ho avuto il piacere di vedere il mio ufficiale, che ora mi accompagna, riconoscervi non appena ci siamo avvicinati.’ Quell’ufficiale mi fece un inchino, e anch’io glielo restituii in modo molto formale. Nel frattempo, nella mia testa passavano velocemente diversi pensieri su cosa fare se il vero proprietario dovesse comparire. Ero diviso tra due possibilità: denunciarlo come ladro prima che potesse parlare, o scappare a tutta velocità.”
+
+“Scacciai via questa preoccupazione, per non farla trasparire sul mio viso.”
+
+“Grazie ancora una volta, con grande calore, a questo buon vecchio uomo; iniziammo quindi una conversazione familiare. Quanto fui felice quando, alla fine, mi invitò senza cerimonie ad accettare la sua ospitalità e a venire a casa sua per mangiare insieme nel suo palazzo. Desideroso di nuove avventure, lo accompagnai con grande gioia.”
+
+“Disteso a tavola, dove veniva servito (e non ho certo bisogno di dirlo ai miei cari nipoti) agnello ripieno di pistacchi, l’uomo anziano mi chiese da dove provenissi, qual fosse la mia professione e dove stessi andando.”
+
+“Risposi (come ritenni opportuno e con prudenza) che provenivo da Aleppo, che mio padre mi aveva affidato la somma di denaro contenuta nella borsa che lui stesso mi aveva gentilmente restituito, al fine di acquistare perle; inoltre, una volta completata l’acquisto, avevo ricevuto istruzioni di venderle in India, in un mercato dove mio padre era certo che le perle fossero rare e quindi costassero i prezzi più alti.”
+
+“‘Questo è davvero un’ottima idea!’ esclamò l’uomo anziano con entusiasmo. ‘Anch’io sto cercando qualcuno a cui vendere una magnifica collezione di perle ereditate dalla mia bisnonna, una principessa indiana. Quella donna,’ aggiunse con noncuranza, ‘era molto avara; teneva le perle ammucchiate in una vecchia scatola di cedro, e devo confessare di ignorarne completamente il valore. Inoltre, poiché mi sono preso simpatia per te, ti lascio decidere tu stesso il prezzo. Vorrei ricordarmi, quando arriverà il mio momento, di aver aiutato un uomo senza amici nel suo primo passo verso la fortuna; solo che, mi vergogno un po’ all’idea di sembrare uno che trae profitto da un bene ereditario!’”
+
 
 
 <span class="atom-split" data-atom="chapter_02_entitled_al_durar_or_the_pearl--part_02" data-title="The Mercy of Allah — Chapter 2: ENTITLED AL-DURAR, OR THE PEARLS (part 2)" data-chapter="ENTITLED AL DURAR OR THE PEARL" data-kind="excerpt" data-tags="motif/desert,setting/desert"></span>
@@ -2744,6 +2940,40 @@ Here the merchant coughed slightly, and addressing his nephews said: “You have
 
 “As I rose from these devotions I heard upon my right a low wailing sound and was astonished to discover there, seated hopelessly beneath a small shrub and waving his hands in grief, a young man of much my own height and appearance: but I flatter myself that not even in my most careful assumptions of innocence have I ever worn such a booby face.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mentre il vecchio signore parlava in quel modo, io riflettevo rapidamente su quale potesse essere il motivo che lo spingesse ad mostrare tale indifferenza verso la ricchezza; poi mi ricordai che era il Magistrato Capo della città, e subito capii che quelle perle, essendo proprietà dei cittadini locali e ottenute da lui senza alcun costo attraverso tangenti e altri mezzi legali, lui desiderava sicuramente venderle lontano da lì e quindi le avrebbe offerte a basso prezzo.
+
+“‘No,’ continuò lui, vedendo che esitavo mentre questi pensieri mi venivano in mente, ‘non accetterò alcuna rifiutazione. Per me non è altro che una semplice liberazione, e per te un’ottima opportunità. Vieni, confido nel tuo viso onesto e nella tua schiettezza giovanile. Prendili al prezzo che desideri! E ti consiglierò persino la città d’India dove troverai il miglior mercato.’”
+
+“Devo ammettere che l’offerta mi ha attirato; ma avevo già imparato la malvagità dell’umanità (anche se, per fortuna, non a mie spese, cari nipoti), e così ho deciso di portare i gioielli da un mercante del posto, inventare una qualche storia, fingendo che fossero miei, e vedere quale somma mi avrebbero offerto. Solo dopo averne valutato il reale valore avrei potuto fare un’offerta onesta. Ho continuato a esprimere la mia umile incapacità di giudicare e la paura che il mio capitale non fosse sufficiente (cosa che lui ha liquidato con disprezzo). Ho inoltre stabilito, per una ragione che presto comprenderete, che uno schiavo suo mi accompagnasse, solo per formalità, ho detto, poiché ero molto gelosa della mia reputazione. Lui ha accettato, anche se ha definito la cosa pura formalità.”
+
+“Lasciai il vecchio magistrato con molte ringraziamenti e, accompagnato dal servo, portai le perle nel quartiere dei commercianti di gioielli nel Bazar. Mi fermai davanti a uno degli stand più ricchi e rispettati; disposi le perle davanti al mercante e gli spiegai che ero costretto a venderle su ordine delle autorità, a causa di una disputa familiare e per pagare la dote di mia sorella; quindi ero ansioso di concludere l’accordo il prima possibile e accettavo qualsiasi prezzo ragionevole mi proponesse. Aggiunsi che ero completamente nelle sue mani e che era urgente concludere l’affare, ma prima di ricevere i soldi dovevo conoscere la cifra più bassa che fosse disposto a offrire.”
+
+Mentre parlavo così, lo schiavo stava in piedi dietro di me, ascoltando attentamente la nostra conversazione. Il mercante di gioielli disse che nessun tipo di merce gli dispiacesse di più delle perle; al momento non esisteva alcun mercato per esse. Era impossibile acquistarle se non venivano montate con cura e in dimensioni regolari; inoltre, era ben noto che le perle fossero i gioielli più sfortunati. Gli risultava assolutamente impossibile offrire più di 10.000 dinari, e anche così, senza dubbio, avrebbe perso nell’affare.
+
+“Quando lo sentii, scrissi rapidamente su un foglietto di carta le seguenti parole:”
+
+“‘Mio Signore, — Il principale mercante di questa città stima che i vostri gioielli valgano 10.000 dinari. Purtroppo non sono in grado di fornire tale somma, e quindi non posso fare un’offerta onesta come speravo; se desiderate che vengano venduti qui, eseguirò fedelmente la vostra commissione, ma se preferite che ve li restituisca, fatemelo sapere. Nel frattempo, continuerò a trattare qui in attesa della vostra risposta.’”
+
+“Ho inviato questo biglietto tramite lo schiavo e gli ho chiesto di darlo al suo padrone e di portarmi una risposta. Lo schiavo se ne andò, e quando ho ritenuto che fosse abbastanza lontano da non potermi sentire, mi sono girato verso il mercante e, sospirando, ho detto: ‘Beh, poiché non offrite di più, dovrò accettare ciò che mi proponete; lo schiavo che avete visto andarsene ha portato la notizia alla mia famiglia. Brucio al pensiero del disprezzo con cui rideranno della mia umiliazione. Per questo non ho detto nulla di vero riguardo al prezzo. In realtà, l’ho indicato in quel biglietto come molto più alto. Ma mi arrendo: come vi ho detto, sono in difficoltà. Venite, contate i soldi e me ne andrò.’”
+
+“Dopo che gli avevo consegnato le perle, il mercante mi contò i soldi in un altro grande sacco di pelle; lo presi in spalla e, con passi veloci, lasciai il bazar e presto anche la città stessa, attraverso una porta chiamata Bab-el-Jaffur, cioè la porta dell’innocenza.”
+
+Oltre le mura della città si estendeva una lunga distesa di terreno in pendenza, coperto di polvere e qua e là interrotto da cespugli stenti; al di là di esso si innalzava una serie di alte colline deserte. Una strada sterrata attraversava quel territorio, allontanandosi dalla città.
+
+“Ho seguito questo sentiero per un’ora, poi mi sono seduto (poiché la mia nuova fortuna era pesante) e mi sono riposato.”
+
+“Poiché pensavo fosse probabile che il mio caro vecchio amico tornasse presto con la sua schiava al Bazar, e poiché la complessità della situazione avrebbe potuto coinvolgermi, nascosi per il resto della giornata, rintanandomi sotto un cumulo di terra. Prima del tramonto uscii e mi guardai intorno; lasciai nella stessa fossa la mia borsa originale, il mio guadagno inaspettato e il mio grande sacco di pelle contenente 10.000 dinari, mentre esaminavo le tracce lasciate.”
+
+“Era l’ora che amo più di tutte le altre.”
+
+Il sole era appena tramontato dietro l’oceano lontano verso cui ero rivolto; tra me e quel mare, sulla pianura sottostante – poiché mi trovavo all’inizio della salita della montagna – si estendeva la bellissima città che avevo appena lasciato. Con il calare della sera, dal tetto di alcune case si alzava il profumo del legno di cedro; nell’aria aleggiava ancora la polvere colorata sollevata dai viottoli d’ingresso, e in lontananza si udiva appena il richiamo del muezzin.
+
+“Non ero così incantato dalla bellezza naturale di quella scena da trascurare il dovere che quel suono mi ricordava. Mi gettai immediatamente in ginocchio e presi cura di aggiungere, alle preghiere abituali di quell’ora, i miei ringraziamenti sinceri per la Guida e la Grazia che avevano così straordinariamente migliorato la mia sorte nelle ultime ore.”
+
+“Mentre mi alzavo da queste devozioni, udii sulla mia destra un debole pianto; rimasi sorpreso nel scoprire lì, seduto disperatamente sotto un piccolo cespuglio e agitando le mani per il dolore, un giovane della mia stessa altezza e aspetto. Ma mi lusingo di dire che nemmeno nelle mie ipotesi più attente riguardo alla mia innocenza, avrei mai potuto avere un aspetto così ridicolo.”
 
 
 
@@ -2799,6 +3029,57 @@ That is:
 The Pipkins
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Si dondolava lentamente da una parte all'altra, emettendo continuamente lamenti che riuscii a comprendere e che mi toccarono profondamente il cuore. Ripeteva ancora e ancora la sua irreparabile perdita. Aveva soltanto quella piccola somma di denaro! Era tutto ciò che possedeva. La sua unica sicurezza. Come avrebbe dovuto far fronte a questa situazione? Chi lo avrebbe sostenuto ora? E cosa avrebbe dovuto fare?”
+
+“Quindi continuava a piangere da solo con un lamento monotono e desolato, fino a quando non ne potei più sopportare l’ascolto; perché capii che, per una strana coincidenza, mi ero imbattuto in quel povero giovane al quale il magistrato della città aveva accidentalmente dato la mia borsa.”
+
+“Mi inchinai davanti a lui. Lui mi notò, con sufficiente indifferenza, e mi chiese cosa volessi. Gli dissi che pensavo di potergli offrire conforto. Non era forse stato lui stesso, dissi, ad aver lasciato una certa borsa (la descrissi con cura) contenente diverse monete su una pietra di preghiera fuori dalla città, proprio in questo stesso momento del tramonto, il giorno prima? Il suo dispero fu sostituito da un’improvvisa avidità. Si alzò di scatto, afferrò il mio braccio, mi pregò con fervore di continuare a parlare.”
+
+“‘Ahimè’, dissi, ‘quello che ho da dirvi è molto poco. Temo di farvi nutrire troppe speranze. Ma comunque posso aiutarvi a ritrovare le vostre proprietà.’”
+
+“‘Signore,’ disse lui, riprendendo per un momento quel tono disperato, ‘ho già fatto del mio meglio. Sono andato dal Magistrato Capo della città per reclamarla, ma mi ha incontrato un suo ufficiale che mi ha detto che il borsello era già stato consegnato al suo proprietario, ha dubitato della mia rivendicazione e mi ha ordinato di tornare indietro. Ma come posso provare che è mio, o comunque riceverla, visto che quel maledetto ladro che se ne è impossessato ormai deve essere già lontano?’”
+
+“‘Gli state facendo un torto,’ dissi. ‘È proprio di lui che parlo con voi, di colui che chiamate ingiustamente ladro. Pensate che sia lontano, ma in realtà è sempre a vostra disposizione, ogni volta che decidete di agire. Questo è il messaggio che vi porto: vi aspetta proprio ora, e se vi presenterete a lui, vi restituirà i vostri beni.’”
+
+“‘Come fai a saperlo?’ disse il giovane, guardandomi con scetticismo. ‘Per quale coincidenza sei a conoscenza di questa faccenda?’”
+
+“‘È abbastanza semplice,’ dissi. ‘La persona a cui è stata data la tua borsa e io ci trovavamo nella stessa locanda. Abbiamo iniziato a raccontarci le nostre avventure lungo la strada, poiché entrambi eravamo estranei in quella città; lui mi ha raccontato una storia molto interessante: aveva recuperato dalle autorità una borsa che credeva sinceramente fosse sua, poiché assomigliava molto a quella che possedeva lui stesso. Tuttavia, quando più tardi ha trovato la propria borsa nel proprio portafoglio, è stato sopraffatto dal rimorso per la perdita che aveva causato; allo stesso tempo mi ha confidato che intendeva restituirla alle autorità quella stessa sera, al tramonto. Chiunque ne facesse richiesta dopo quell’ora e dimostrasse di essere il legittimo proprietario avrebbe potuto riprenderla presso gli uffici pubblici. Ma mi ha avvertito su una cosa: gli agenti (mi ha detto) erano convinti (forse a causa di qualche indizio, forse per la presenza di qualcosa all’interno della borsa, o forse per qualcosa che avevano sentito) che il proprietario si occupasse di commercio con le perle.’”
+
+“In quel momento il giovane mi interruppe, assicurandomi che in tutta la sua vita non aveva mai comprato o venduto perle, e nemmeno aveva mai pensato di farlo.”
+
+“Risposi che senza dubbio era così. Ma che quando le autorità avevano un capriccio, era meglio accontentarle. Pertanto, sarebbe stato saggio avvicinarsi all’ufficiale che custodiva l’ingresso della residenza del Procuratore Capo, dicendo semplicemente: ‘Sono il venditore di perle’. Al sentir pronunciare queste parole, gli sarebbero stati aperti tutti i passaggi e avrebbe ricevuto le sue proprietà.”
+
+“Quel giovane mi ringraziò con sincero calore; mi abbracciò persino affettuosamente per la buona notizia che gli avevo dato, e temo che pensasse già di aver riavuto indietro il proprio portafoglio e la propria piccola fortuna. Fu davvero commovente vederlo scendere lungo il versante della montagna, pieno di nuova speranza; mi dispiacque sinceramente profondamente dover mettere a rischio la sua libertà e la sua vita. Ma concorderete con me, miei cari nipoti, che non avrei potuto assolutamente permettermi di lasciarlo libero.”
+
+“Quando se ne fu andato e fu completamente notte, senza luna e solo le stelle nel caldo cielo buio, presi rapidamente i miei bagagli dal loro nascondiglio e proseguii, sebbene con qualche difficoltà, su per il versante della montagna, barcollando sotto un simile peso e deviando dal sentiero per ridurre le possibilità di essere interrotto.”
+
+“Ho dormito per alcune ore. Sono sveglio all’alba. Ho contato la mia fortuna totale e ho scoperto che ammontava a circa 12.000 dinari, la maggior parte dei quali in argento.”
+
+“Nascendolo di nuovo con cura, lasciai il suo nascondiglio e costeggiai la montagna fino a raggiungere un punto dove iniziava una nuova strada che conduceva a un villaggio vicino. Lì comprai un asino; tornato al mio nascondiglio, caricai il mio tesoro sul dorso dell’animale e partii, viaggiando il più velocemente possibile attraverso le zone più desolate per allontanarmi il più possibile da quella zona.”
+
+“Arrivai, poco prima del tramonto, presso la grotta di un eremita, dove fui ospitato con grande gentilezza; l’abitante della grotta rifiutò qualsiasi ricompensa, chiedendomi soltanto di pregare per lui, poiché era certo che le preghiere di una giovane persona innocente gli avrebbero garantito un posto elevato in Cielo.”
+
+“Con questo santo uomo rimasi per circa quattro o cinque giorni, trascorrendo il tempo in tranquillità nel suo eremo tra le montagne e nutrendo il mio asino con l’erba secca che raccoglievo a manciate al tramonto nei boschi. Al quinto giorno di questo nascondiglio, l’eremita entrò con aria pensierosa e triste e mi disse, ”
+
+“‘Mio figlio, ogni giorno che passa la malvagità di questo mondo aumenta, e il giudizio di Dio sicuramente si abbatterà su di esso con un fuoco distruttore! Ho appena sentito che il magistrato capo della nostra capitale, usando come vittima uno sconosciuto innocente, ha venduto a uno dei più importanti gioiellieri della città una quantità di perle per non meno di 10.000 dinari; si scopre ora che tutte queste perle sono false e senza valore! Anzi, mi è stato detto che le più grandi sono fatte soltanto di cera! E, cosa ancora peggiore, non contento di questo primo atto malvagio, il magistrato, con la scusa che lo sconosciuto fosse scomparso, ha confiscato di nuovo i gioielli e ha fatto picchiare brutalmente quel povero mercante! Ma, cosa ancora peggiore! La sera stessa in cui lo sfortunato giovane è tornato in città, è stato catturato dalla guardia e decapitato. Ya, ya,’ diceva il buon vecchio, alzando le mani, ‘i giorni passano, e con loro aumenta anche il male!’”
+
+In quel momento, la voce rauca e stonata del Portavoce Pubblico emise la sua prima nota dalla torre vicina; i nipoti, che avevano ascoltato incantati la storia dello zio, capirono che era arrivato il momento di disperdersi. Così il fratello maggiore disse:
+
+“Zio, prima di andarcene, lascia che esprima il ringraziamento di tutti noi per la tua avvincente storia. Ma permettimi anche di esprimere la nostra perplessità riguardo all’assenza di qualsiasi piano nelle tue straordinarie avventure. Perché, nonostante abbiamo ascoltato attentamente tutto ciò che hai detto, non riusciamo a capire quale abilità tu abbia utilizzato per raggiungere i tuoi obiettivi. Ad esempio, come facevi a sapere che quelle perle erano false?”
+
+“Non lo sapevo, mio caro nipote,” rispose il grande Mercante con semplicità incantevole, “e tutto ciò è stato opera della Misericordia di Allah. Ma venite, l’ora della preghiera è già vicina, e dobbiamo, seguendo la costante tradizione dei Fedeli, continuare questa mia straordinaria storia. Venite dunque, in questo giorno della settimana, poco dopo l’ultima delle esecuzioni pubbliche di quei plebei. Vi racconterò ciò che mi è accaduto dopo: dovete infatti sapere che i 12.000 dinari di cui ora dispongo sono, ” – e qui l’onesto vecchio sbadigliò di nuovo e fece un gesto con la mano – “solo una goccia nell’oceano, per uno come me.”
+
+I suoi sette piccoli nipoti si inchinarono più volte e, camminando all’indietro senza inciampare, scomparvero attraverso i costosi arazzi degli appartamenti di loro zio.
+
+# Al-Tawajin
+
+Titolo:  
+Cioè:
+
+I Pipkin
+
 
 
 <span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_01" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 1)" data-chapter="ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt" data-tags="archetype/trickster,concept/greed_and_money,concept/deception,form/satire,form/fable,setting/the_orient"></span>
@@ -2837,6 +3118,41 @@ Here the eldest of the nephews interrupted Mahmoud to ask, most respectfully, wh
 “The fame of my very cheap pipkins had spread, as was but natural, and secured me an increasing number of customers for my newly made wares. But I thought it wrong to debauch the peasants by selling them their pots under cost price any longer. I was constrained by the plainest rule of duty to raise my prices to the cost of manufacture — though no more, keeping Justice as my guiding star. For, depend upon it, my dear nephews, in business as in every other walk of life an exact rectitude alone can lead us to the most dazzling rewards.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Titolo:  
+CAPITOLO III. INTITOLATO “AL-TAWAJIN”, O I PIPIKIN
+
+Nel giorno stabilito della settimana successiva, quando, con l’ora delle esecuzioni pubbliche, le attività ludiche pomeridiane della città terminano e i cittadini si dedicano al riposo del tardo pomeriggio, i sette ragazzi si sedettero nuovamente di fronte a loro zio, che trovarono in un umore radioso.
+
+Li accolse con tale calore che per un momento pensarono potesse offrir loro dello sherbet, dei dolci o persino del denaro; tuttavia non furono ingannati quando quell’eccellente ma estremamente ricco anziano, accarezzando amorevolmente la sua borsa con le dita, ordinò che a ciascuno di loro venisse versata un’altra coppa di delizioso acqua fredda da parte di uno schiavo; poi si sistemò comodamente per raccontare una lunga storia e riprese il suo discorso.
+
+“Ricorderete senz'altro, miei adorabili nipoti,” disse, “come mi trovai nella capanna dell'eremita senza un amico al mondo, con un capitale di non più di dodicimila dinari che avevo portato con me in un sacco sul dorso di un asino. In verità, fu soltanto per la Misericordia di Allah che il mio piccolo patrimonio fosse così cospicuo: se infatti il mercante del bazaar avesse scoperto che le perle erano false, non solo mi avrebbe offerto molto meno, ma forse, dopo averle vendute, mi avrebbe anche consegnato alla polizia. Comunque sia, il Cielo fu gentile con me, sebbene non particolarmente generoso; dovevo ancora decidere cosa fare per aumentare quel mio piccolo tesoro.”
+
+Quindi, dopo aver preso congedo dal buon eremita, gli misi in mano una piccola moneta di bronzo la cui iscrizione mi era sconosciuta; temevo quindi che potessi incontrare difficoltà nel farla accettare. Assicurai al mio gentile ospite che si trattava di una moneta del secondo califfo Omar e che il suo valore era molto superiore a qualsiasi pezzo d’oro moderno delle stesse dimensioni. Poiché l’eremita, come molti altri uomini santi, era analfabeta, la sua gratitudine non conosceva limiti. Mi congedò con una benedizione così lunga e complessa che non posso fare a meno di attribuirle in parte la buona fortuna che mi capitò successivamente.
+
+“Perché dovete sapere che, dopo aver fatto rifornimento in un villaggio vicino, guidai il mio asino per quasi una settimana attraverso montagne desolate e disabitate; avevo quasi esaurito le mie scorte di biscotti secchi e vino (una bevanda che la nostra religione ci permette di consumare quando non c’è nessuno intorno). Fui quindi molto felice di scoprire una valle fertile, completamente circondata da alte e ripide scogliere, tranne in un unico punto dove un sentiero accidentato conduceva da questa regione incantata al mondo esterno. In quella valle, con mia grande sorpresa, notai che le usanze dei suoi abitanti erano così primitive e la loro intelligenza così limitata che l’intera pratica del commercio veniva completamente ignorata sia dagli stessi abitanti che dai governatori locali.”
+
+“Il Re (che, sono lieto di dire, era fedele alla fede) aveva effettivamente promulgato leggi contro alcune forme di frode che riteneva fossero condannate nel Corano; ma queste leggi erano così elementari da permettere a chiunque avesse buon senso di evitarle facilmente in qualsiasi piano intendesse elaborare per il bene del popolo e il proprio. La popolazione era composta interamente da soldati e contadini, tra i quali non c’era nessuno che fosse in grado di calcolare correttamente un interesse composto su dieci anni.”
+
+“In queste circostanze, l’unica difficoltà che incontravo era scegliere sotto quale forma avrebbe dovuto prendere la mia prima iniziativa. Dopo un po’ di riflessione, decisi che ciò che a Baghdad chiamiamo ‘Unione di Interessi Conflittanti’ sarebbe stato un buon punto di partenza.”
+
+“Iniziai con cautela, investendo qualche migliaio di dinari nella merce di un ceramista appena deceduto la cui vedova aveva bisogno di contanti per soddisfare le esigenze sacre del defunto. Lei spendette quei soldi nell’arredamento della sua tomba, e con tale spesa inutile quella donna sciocca si preoccupò non poco.”
+
+Qui il figlio maggiore dei nipoti interruppe Mahmoud chiedendogli, con grande rispetto, perché, disponendo di dodicimila dinari, ne avesse utilizzati soltanto due, e perché avesse iniziato il suo esperimento partendo da una questione così banale come quella di una povera vedova.
+
+“Mio figlio,” disse suo zio con affetto, “fai bene a porre queste domande. Dimostrano un interesse razionale per l’importante arte di ottenere ciò che si desidera. Ora, riguardo alle umili origini della mia fortuna, spero sia stato dovuto alla umiltà. L’ostentazione è infatti odiosa. Ma un buon gesto non va mai sprecato. E quanto possano rivelarsi utili diecimila dinari che, con umiltà, avevo tenuti da parte, lo scoprirai presto.”
+
+“Per quanto riguarda il motivo per cui ho iniziato le mie attività nella fornace di questa povera vedova, è perché ho sempre amato i più piccoli di questo mondo e ho cercato di aiutarli nel miglior modo possibile. Questo atto di carità si rivelò anche saggio, come spesso accade; in questo modo potei procedere inizialmente senza essere notato e iniziare le mie nuove avventure senza attirare alcuna attenzione imbarazzante.”
+
+“Continuai a vivere nella stessa piccola capanna che avevo affittato al mio arrivo; sotto il pavimento vi tenevo il mio modesto capitale. E lo investii, come richiedeva la mia umiltà, facendo in modo che sembrasse che fossi quasi senza nulla.”
+
+“Poiché, per il momento, non mi importava affatto se avrei ottenuto un ritorno su questo investimento insignificante o meno, riuscii a vendere le mie merci per esattamente la stessa somma che mi era costata; inoltre, poiché avevo acquistato l’intero stock a basso prezzo, quella somma era persino inferiore al costo di produzione. Negli vecchi magazzini c’era una notevole scorta di zucca; pur vendendola a prezzi molto convenienti (il che creò non poche difficoltà ad altri commercianti), ebbi il tempo di riflettere sul mio prossimo passo.”
+
+“Rapidamente decisi quale fosse il passo successivo da compiere. Dopo un certo ritardo, una volta venduti tutti i miei gusci d’aglio originali, acquistai una piccola quantità di argilla, riaccesi i forni, assunsi due ceramisti in difficoltà economica e iniziai a produrre.”
+
+“La fama dei miei molto economici vasi si era diffusa, come era del tutto naturale, e questo mi ha permesso di ottenere un numero sempre maggiore di clienti per i miei prodotti appena creati. Tuttavia, ho ritenuto sbagliato continuare a sfruttare i contadini vendendo loro i vasi a prezzi inferiori al costo di produzione. Sono stato costretto, dal più semplice senso del dovere, ad aumentare i prezzi fino a raggiungere il costo effettivo di produzione – ma non oltre, tenendo sempre la Giustizia come guida. Perché, credetemi, cari nipoti, sia nel commercio che in qualsiasi altro ambito della vita, solo l’assoluta rettitudine può portarci ai risultati più brillanti.”
+
 
 
 <span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_02" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 2)" data-chapter="ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt" data-tags="archetype/trickster,concept/capitalism,concept/economics,concept/greed_and_money,concept/deception,form/satire,setting/the_orient"></span>
@@ -2872,6 +3188,38 @@ Here the eldest of the nephews interrupted Mahmoud to ask, most respectfully, wh
 
 “I visited him at the hour agreed. The public notaries drew up an inventory of his whole stock, including his house and furniture, his prayer beads (which I was interested in, for they were of a costly Persian make), his dead wife’s jewels, all his clothes, his bed, and his pet cat — an animal of no recorded pedigree but reputed to be of the pure Kashmir breed. I carefully noted all flaws, however slight, in each pipkin of his warehouse and set all such damaged goods aside as a makeweight. The sound pipkins I made no bones of but accepted frankly at their market value, and when the whole was added up the valuation came to no less than 20,000 dinars. Yet so hide-bound in routine were the inhabitants of the place that Abdullah — if you will believe me! — had actually set his business stock down in his old books at four-fold that amount!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Il mio prezzo era comunque più basso rispetto a quello di tutti gli altri produttori di zucca, che da tempi immemorabili erano abituati all’idea stessa del profitto e continuavano a chiedersi quali segreti poteri possedessi per ottenere tali condizioni commerciali. Ma non feci mistero della cosa: permisi a tutti i miei amici di visitare la mia semplice fabbrica e spiegai loro, con soddisfazione loro, come l’organizzazione e una attenta gestione dei costi fossero sufficienti a giustificare il mio successo.”
+
+Tuttavia, man mano che le mie vendite continuavano ad aumentare, sorgevano nuove dubbi, ma, con loro, devo dire con piacere, anche un nuovo rispetto per la mia abilità nel gestire queste situazioni.
+
+“La gente semplice si chiedeva con quale arte fossi riuscito a realizzare un’operazione finanziaria così complessa, ma poiché tra di loro era tradizione considerare chi vendeva merci a buon prezzo un benefattore della comunità, le mie azioni furono lodate, la mia fama si diffuse e il numero dei miei clienti aumentò costantemente.”
+
+“Voi non avrete difficoltà a capire, miei cari ragazzi, che i miei concorrenti nel mercato, costretti a competere con prezzi così bassi da causarmi perdite, finirono tutti per trovarsi in difficoltà finanziarie. Tra questi, quelli che erano ritenuti i più astuti e abili nel commercio furono naturalmente i primi ad cadere nella trappola. Continuavano infatti a provare nuove strategie nel tentativo di scoprire o contrastare le mie mosse, ma finivano per diventare prede facili delle mie manipolazioni. Anche coloro che non conoscevano tecniche finanziarie più complesse di quelle basate su un sovrapprezzo del 10% sul costo dei prodotti, e che non caddero nelle mie trappole, iniziarono comunque ad essere coinvolti nei miei piani man mano che l’ambito delle mie attività si espandeva. Quando riuscii, a scapito di notevoli perdite, a conquistare la metà del mercato della ceramica in questa ‘paradiso isolato’, utilizzai le fluttuazioni di mercato per suscitare continue ondate di panico e speranza nei miei concorrenti, distruggendo così qualsiasi capacità di giudizio commerciale sano.”
+
+“Un giorno dichiarai che stava per arrivarmi un grande carico di ceramica, e quindi avrei potuto vendere i cocomeri alla metà del prezzo abituale. I prezzi dei cocomeri aumentarono notevolmente, e io acquistai attraverso il mio agente tutti i cocomeri che riuscii a procurarmi. Quel presunto carico, in realtà, era stato distrutto completamente da una valanga che aveva travolto il convoglio proprio ai confini dello Stato. I prezzi continuarono ad aumentare, e poiché ero stato io ad inventare quella notizia, fui anche il primo a trarne vantaggio. Ma nel momento stesso in cui i miei concorrenti tentarono di seguire il mio esempio, il mercato iniziò stranamente a scendere di nuovo.”
+
+“Una certa mattina, quando un certo Abdullah – che era il mio migliore compagno e il commerciante più importante dopo di me – decise di fissare il prezzo delle sue migliori cipolle a dieci dinari al dozzino, io, con grande saggezza, avevo già offerto le mie cipolle ai miei clienti preferiti a otto e mezzo dinari al dozzino.”
+
+“E tutto questo tempo io vivevo grazie al mio tesoro nascosto.”
+
+“Povero Abdullah venne da me, sudato fradicio, molto presto la mattina seguente. Dopo alcuni complimenti insensati e molte pause, mi chiese di entrare in partnership con lui. ‘Perché’, disse, ‘anche se ammetteva di non avere le mie capacità, aveva comunque molta esperienza nel settore, un’ampia rete di contatti e molti amici influenti nei settori correlati alla Pipkin Brokerage, alla Pipkin Insurance, alla Pipkin Discount. E – cosa molto importante – anche nell’acquisto e nella vendita di ‘Immaginari Pipkins’.”
+
+“Poteva – mi assicurò con ansia – essere di grande aiuto come alleato, ma ammetteva apertamente che, se avesse continuato così com'era, sarebbe andato in rovina; perché, a dire il vero, aveva già esaurito tutte le sue risorse e non aveva nemmeno un dinaro in casa.”
+
+“Lo ascoltai con un’espressione seria e comprensiva; emisi profondi sospiri quando parlava delle sue paure, annuii e sorrisi quando menzionava i suoi punti di forza, gli diedi una pacca affettuosa quando esprimeva la sua devozione verso di me, e assunsi un’espressione di angoscia quando parlava della propria imminente rovina.”
+
+“Ma quando ebbe finito di parlare – quasi in lacrime – gli dissi, con toni più lenti e seri del solito, che avevo un principio fondamentale nella vita, trasmesso a me dal mio caro padre, ora nel Paradiso: non entrare mai in società; no, nemmeno con le persone più vicine e care a me. Volevo sempre agire da solo nelle mie attività. Ammettevo apertamente che questo mi rendeva povero, e che mi avrebbe tenuto povero per sempre. Sarebbe stato molto vantaggioso, per i miseri beni di questo mondo, disporre dell’esperienza straordinaria di Abdullah, della sua vasta rete di contatti familiari e commerciali (di cui la mia umile origine non avrebbe mai potuto approfittare), e soprattutto del suo genio nel seguire le tendenze del mercato. Ma i beni di questo mondo sono effimeri, specialmente la ceramica. E l’impegno sacro preso nei confronti dei miei cari genitori contava per me più di tutto il resto.”
+
+Mentre parlavo in questo modo, il petto di Abdullah si sollevava con singhiozzi violenti, scatenati sia dall’esempio commovente della mia pietà filiale, che, temo, anche dalle cupe prospettive del suo stesso futuro.
+
+“Non riuscivo a sopportare di vedere la sua sofferenza; mi affrettai ad alleviarla. Anche se il mio voto mi vietava formalmente di entrare in partnership con lui, potevo comunque aiutarlo in un altro modo. Gli avrei prestato denaro a un tasso di interesse basso, per la metà del valore delle sue azioni, garantito dall’intera somma. Le circostanze potevano cambiare. Il prezzo attuale, disastroso, dei semi di zucca (da cui anch’io soffrivo molto) non poteva durare a lungo. Lui avrebbe potuto riprendersi e ripagarmi quando ne avesse avuto l’opportunità.”
+
+Mi ringraziò molto, baciò più volte la mia mano e fissò un appuntamento per il giorno dopo, così da poter esaminare i suoi prodotti e redigere il contratto.
+
+“Lo visitai all’ora concordata. I notai pubblici redassero un inventario di tutto il suo patrimonio: la casa e i mobili, le sue preghiere (di cui ero interessato, poiché erano di pregio, realizzate in Persia), i gioielli della sua defunta moglie, tutti i suoi vestiti, il letto e il gatto domestico – un animale senza documenti genealogici certificati, ma ritenuto appartenente alla pura razza del Kashmir. Notai con attenzione ogni imperfezione, anche la più lieve, in ogni singolo oggetto del suo inventario, e separai tutti quegli articoli danneggiati per calcolarne il valore come compensazione. Gli oggetti in buone condizioni li accettai senza problemi al loro valore di mercato; sommati tutti, il loro valore totale ammontava a non meno di 20.000 dinari. Eppure, gli abitanti di quel luogo erano così legati alle consuetudini tradizionali che Abdullah – se volete credermi! – aveva effettivamente registrato il valore del suo patrimonio nei suoi vecchi libri a un importo quattro volte superiore!”
 
 
 
@@ -2915,6 +3263,44 @@ There was an awkward pause, during which the old man restored his ruffled temper
 “I was in complete control of the pipkin trade, making all the pipkins that the nation needed, and free from any rival. The house which I had built for myself was the finest in the place, but covered, I humbly add, with many a sacred text. Above its vast horseshoe gate, ablaze with azure tiles, was inscribed in gold the sentence, ‘Wealth is of God alone.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Poiché dovevo continuare il mio viaggio, non avevo più con me l’intero tesoro di 10.000 dinari: ne erano rimasti solo 8.000. Eppure non incontrai alcuna difficoltà. La metà di 20.000 è comunque 10.000, anche se ci sarebbero state delle detrazioni, ”
+
+“I costi di tutto questo inventario e del mutuo furono, naturalmente, addebitati al mio caro amico Abdullah, ma poiché non disponeva della liquidità necessaria per pagare gli avvocati, i loro impiegati, le tasse di ritardo, i timbri, la licenza reale, le registrazioni, le copie, la commissione dell’agente, ”.
+
+“Prega, zio”, gridò il più giovane dei nipoti, “che cos’è tutto questo?”
+
+“Non devi interrompermi, mio ragazzo,” rispose il grande mercante, con un tono leggermente irritato, “quegli sono gli elementi necessari per una transazione del genere. Bene, come stavo dicendo: la commissione dell’intermediario, i salari dei portieri, le mance per i servitori degli avvocati, la pulizia del magazzino dopo che tutto era finito, e un centinaio di altre piccole spese. Ho generosamente permesso che venissero detratte dal prestito; infatti il nostro Profeta ha detto: ‘Beato colui che concede dilazioni al proprio debitore.’ Quella stessa sera, con ogni frase piena di buona volontà e speranze per il rapido recupero della sua fortuna, ho consegnato al mio caro amico Abdullah l’intero importo di 16.325 dinari e mezzo dinaro, lasciandolo estremamente felice di possedere così tanta ricchezza immediatamente.”
+
+“Ma, ahimè! nessuno può prevedere il domani, e tutto era già scritto fin dall’inizio affinché accadesse proprio come sarebbe avvenuto. Lontano dall’aumentare, il prezzo dei cocomeri diminuì lentamente e regolarmente per tre mesi; in quel periodo feci attenzione a ridurre un po’ la mia produzione, mentre mio povero caro amico, spinto dalla necessità, continuò a produrre ancora di più, contribuendo così ad abbassare ulteriormente il prezzo dei cocomeri, ormai davvero disonorevole.”
+
+“Finalmente si fermò del tutto, senza più essere in grado di procedere. Accettai volentieri che i primi, i secondi e persino i terzi interessi arretrati venissero aggiunti al capitale a un tasso composto molto moderato; ma qualcosa lo perseguitava inevitabilmente. E fui profondamente sconvolto quando, una mattina, appresi che Abdullah si era gettato nel lago in cui sua moglie, ormai da tempo defunta, aveva progettato di costruire un bel giardino per lui.”
+
+“Ahimè, poveruomo!” esclamarono tutti i nipoti all’unisono.
+
+“Poveruomo. Davvero un poveruomo!” esclamò il loro benevolo zio. “Io ero uno straniero in quel paese; lui era l’unica connessione che avevo con esso, e, in realtà, nella mia solitudine, l’unico compagno che avevo al mondo intero.” Qui il buon vecchio fece una pausa per pregare per il compagno della sua giovinezza ormai passata. Poi sospirò profondamente e continuò:
+
+“Utilizzai la notevole influenza che ormai avevo sul governo per organizzare per lui un funerale costoso a spese pubbliche: non aveva lasciato né beni né figli. Camminai dietro il feretro in qualità di principale dolente, e sebbene cercassi di controllare il mio dolore, tutta la folla radunata ne fu commossa; al termine delle cerimonie tristi, diversi persone mi parlarono in proposito.”
+
+“Ho lasciato trascorrere il lasso di tempo ragionevole di tre giorni, e poi ho fatto ciò che non avevo altra scelta se non farlo: ho preso in gestione la fabbrica di Abdullah dopo l’esecuzione della ipoteca e l’ho aggiunta alle mie proprietà.”
+
+“In questo modo, gli preziosi forni, le riserve di argilla, le ruote, i veicoli, ecc., divennero tutti mia proprietà. Li feci valutare e fui piacevolmente sorpreso nello scoprire che valevano almeno 25.000 dinari.”
+
+Erano trascorsi ben due anni da quando ero arrivato per la prima volta in questa felice e remota valle, dove Allah aveva riversato su di me le Sue benedizioni in modo davvero meraviglioso. Ero solo, come potete immaginare, ma affrontavo con coraggio i miei doveri. Continuavo a supervisionare e ampliare la mia fabbrica di zucca, che ormai forniva questi prodotti a più della metà delle famiglie dello Stato. Pertanto, potevo – e infatti lo facevo – fissare un prezzo per questi articoli utili; sebbene fosse leggermente più alto rispetto a quello a cui le persone erano abituate durante i miei precedenti interventi, aveva il vantaggio inestimabile della certezza: la casalinga sapeva sempre esattamente quanto spendere, e io sapevo quanto ricevere. Poiché producevo su larga scala, anche le mie spese.
+
+“Cosa sono gli oneri generali, ” iniziò a dire il nipote maggiore, quando suo zio, visibilmente turbato, gridò: “Silenzio!. Mi avete fatto dimenticare quello che stavo per dire!”
+
+Ci fu un imbarazzante silenzio; durante quel momento, l’uomo anziano riprese il controllo della propria irritazione e continuò a parlare.
+
+“Riuscii a comprare l’argilla più a buon mercato e di migliore qualità rispetto ai produttori privati (così venivano ora chiamati, con tutto il disprezzo che meritavano), i quali continuavano invano a cercare di competere con me. Di conseguenza, il mio business cresceva automaticamente, mentre quello di quegli imprenditori in declino diminuiva sempre di più.”
+
+“Non solo aumentavo continuamente la mia ricchezza con questi metodi piuttosto ovvi, ma acquisivo anche maggiore potere nel controllo dei beni; infatti, quando qualche altro sciocco tra i miei colleghi si trovava in difficoltà, era mia abitudine andare da lui di nascosto, consolarlo per quella che ritenevo fosse la sua imminente sfortuna e salvarlo dalla rovina assumendomi tutto il suo stock. Anzi! Facevo anche di più: lo salvavo dalla triste necessità di provare qualche nuovo mestiere sconosciuto, assumerlo nella mia azienda con uno stipendio generoso (ma su base mensile); e, concedendo un po’ alla sua sensibilità, gli permettevo persino di gestire il suo vecchio negozietto al mercato, a cui ormai era così abituato. Ripenso con piacere alle lacrime di gratitudine che si leggevano negli occhi di coloro a cui offrivo tali favori.”
+
+“Così le cose continuarono per un altro anno, e poi ancora uno, fino a quando il quinto anno del mio soggiorno tra queste persone semplici fu completato.”
+
+“Ero completamente in controllo del commercio dei meloni; producevo tutti i meloni di cui il paese aveva bisogno, senza alcun concorrente. La casa che mi ero costruito era la più bella della zona, ma, umilmente devo aggiungere, era ricoperta da molti testi sacri. Sopra il suo vasto cancello a forma di ferro di cavallo, decorato con piastrelle azzurre, era inciso in oro il motto: ‘La ricchezza appartiene soltanto a Dio.’”
+
 
 
 <span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_04" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 4)" data-chapter="ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt" data-tags="archetype/trickster,concept/economics,concept/greed_and_money,concept/power_and_corruption,concept/socialism,concept/renunciation,form/satire,setting/the_orient"></span>
@@ -2951,6 +3337,39 @@ That is:
 The Bridge
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ero conosciuto popolarmente come ‘Melek-al-Tawajin’, ovvero il Re dei Pipkin, ma ufficialmente mi veniva conferito il titolo locale di ‘Warzan Dahur’, che rappresentava il più alto riconoscimento disponibile e significava ‘Capo in battaglia’. Avevo il diritto di portare una spada con elsa d’argento e fodero incastonato di gioielli, un ornamento di cui andavo giustamente fiero; tuttavia, tenevo sempre la lama smussata, per evitare che il mio servitore si ferisse mentre la puliva, o che io stesso mi facessi male accidentalmente quando la sguainavo con gesti teatrali per mostrarla ai miei ospiti o per salutarla durante le parate. Ero diventato un compagno molto intimo della Corte e il consigliere più fidato del Re; spesso prestavo anche piccole somme di denaro alle sue mogli, senza mai chiedere rimborso.”
+
+“In una situazione del genere riflettei sulla mia condizione e sentii dentro di me strani impulsi verso una vita nuova e più ampia. Ormai ero entrato nella piena età adulta, e il mio animo era pieno di desideri di azione e imprese che quel limitato ambiente felice ma ristretto non poteva soddisfare. Anelavo ad avventure in un mondo più vasto.”
+
+“La produzione e il consumo di zucca dolce rimanevano a un livello esattamente costante; il reddito, invece, era fisso. Il profitto derivante da questo commercio ammontava a circa 20.000 dinari all’anno, mentre il costo totale per acquistare tutte le merci necessarie era di circa 200.000 dinari.”
+
+“Pregai con sincera devozione per ricevere indicazioni, e una notte, mentre continuavo a pregare, un’idea mi fu rivelata dal Creatore Supremo.”
+
+“Mi avvicinai al Re e gli spiegai come, per tutta la mia vita, avessi nutrito la convinzione segreta che un mestiere essenziale per l’intera comunità non dovesse, per motivi di giustizia, essere controllato da un individuo privato, ma dovesse piuttosto appartenere interamente allo Stato, di cui Sua Maestà era l’unico custode.”
+
+“Il Re ascoltò me con grande attenzione mentre, con un’eloquenza ispirata, esprimevo la mia convinzione che nessun singolo individuo dovesse appropriarsi dei profitti che spettavano al lavoro di tutti. ‘È Vostra Maestà,’ gridai, ‘che dovete essere l’unico a disporre di ciò che riguarda il corpo sociale del vostro popolo.’ Solo Voi dovreste sovrintendere all’acquisto dei meloni, regolamentarne la vendita, ricevere tutte le somme pagate per essi e utilizzare tali entrate nel modo che ritenete più opportuno per voi stesso e per il bene comune. ‘Mentre mi dibattevo nella polvere e nel caos della vita commerciale,’ conclusi, ‘non ho avuto il tempo di elaborare completamente il mio piano, né tantomeno di apprezzarne la giustizia. Ma ora, ora vedo, capisco, so!’”
+
+“Travolto dal fuoco della mia convinzione, il mio Sovrano Reale non poteva più tollerare ritardi. Mi ordinò di esporre subito i punti fondamentali dell’idea davanti a lui e mi assicurò che sarebbe stata attuata immediatamente.”
+
+“Pertanto estrassi un documento che dimostrava come, poiché ero pienamente disposto ad accettare soltanto il valore in contanti dell’affare, più il goodwill e alcuni probabili guadagni che mi si potevano aspettare in futuro, sarei stato ampiamente compensato se avessi ceduto tutto al Commonwealth per la somma nominale di mezzo milione di dinari – 500.000. ‘Una somma’, continuai, ‘che non rappresenta nulla di significativo per Vostra Maestà; soprattutto perché sarà coperta dalle tasse pagate dai vostri sudditi volonterosi e leali.’”
+
+“La questione fu risolta immediatamente. Il mio grande atto di rinuncia fu acclamato ovunque con grandi manifestazioni di gioia da parte del pubblico. Mi furono conferite tutte le onorificenze possibili. Lo stesso Re tenne un elogio in mio onore al banchetto d’addio organizzato per me, e si ordinò che una iscrizione venisse incisa sui piastrelle più splendide della porta principale della città: ‘Il decimo giorno del mese di Shaaban, nel trecento terzo anno dalla Fuga del Profeta, grazie all’atto di Mahmoud il Magnifico, tutti i cittadini divennero eredi comuni di Pipkins.’”
+
+Il Mercante era stato così commosso da questi vecchi ricordi che faticava a continuare. Rimase in silenzio per alcuni momenti, poi proseguì con un tono più sommesso.
+
+“La somma di 500.000 dinari, ben impacchettati, potrà caricare senza problemi una dozzina di cammelli. Questi animali e i loro conducenti mi sono stati forniti da una nazione riconoscente. Ho lasciato la città all’alba, accompagnato da una folla enorme di persone che mi circondavano emettendo grida di gratitudine; poi ho proseguito verso est, attraverso le montagne, per lasciare per sempre questa felice valle.”
+
+In quel momento si udì dal minareto vicino il detestabile falsetto del muezzin; i ragazzi, tutti storditi da quella descrizione di tali vittorie, lasciarono la presenza di loro zio come se fosse stata quella di un Dio.
+
+Al-Kantara
+
+Titolo:  
+Cioè:
+
+Il Ponte
+
 
 
 <span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_01" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 1)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt" data-tags="motif/journey"></span>
@@ -2980,6 +3399,32 @@ WHEN THE HOUR of public executions had arrived and the boys were assembled once 
 
 “I was in some little hesitation how to act. If I remained upon the hither bank until all had passed over I could not be certain that my servants who had gone ahead would not play me a trick. If I crossed first I could not overlook the doings of my servants who had yet to cross; and though I had no reason to doubt their perfect honesty, neither had I any reason to doubt their vile thievish character. At last I made the following plan: I discharged all the camels of their packs, putting the packs on board in one heap, being very careful to put on board all the food as well as the coin. With this and one camel which I attended myself and hobbled, I crossed alone. I then went back again with the ferryman and his crew, still keeping my provisions and my coin, and brought over another camel and his driver, and so on until the whole of my company was transferred. Not till all the camels and their drivers were assembled, clamouring with hunger, upon the further bank, did I allow the coin and food to be landed under my very eye.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IV. INTITOLATO AL-KANTARA, O IL PONTE
+
+Quando arrivò l’ora delle esecuzioni pubbliche e i ragazzi si riunirono nuovamente ai piedi di loro zio per ascoltare la storia dei suoi successi (le loro menti ancora piene del suo ultimo trionfo), l’uomo anziano, ancora immerso in quel piacevole ricordo, iniziò subito a raccontare il seguito della sua vita.
+
+“Ho lasciato la valle, come vi ho detto, cari nipoti miei; nutrito dal ricordo della gratitudine di un intero popolo e ringraziando Dio per avermi reso lo strumento umile di un bene così grande. Si sbagliano coloro che pensano che la grande ricchezza sia accompagnata dall’oppressione, o che il ricco abbia depredato il popolo. Al contrario, le fortune dei ricchi sono soltanto un indicatore del lavoro eccellente che hanno svolto a beneficio di tutti; e io, per parte mia, ho sempre ricordato con gratitudine tutti i benefici che avevo portato alla mia gente riguardo ai Pipkins, e provavo una profonda soddisfazione nel vedere i pesanti sacchi di monete appesi sul dorso dei miei cammelli.”
+
+“Giorno dopo giorno proseguimmo, io e la mia carovana, attraverso le alte colline; ogni sera ci accampavamo vicino a qualche ruscello boschivo, nutrendoci delle provviste che avevo abbondantemente preparato per il viaggio.”
+
+“Tali scene erano solenni e incitavano l’animo alla reverenza. Mai le mie preghiere furono più sincere e profonde di quelle che pronunciavo durante le lunghe notti trascorse in quelle montagne senza nuvole, nella solennità dei loro vasti boschi; i pensieri sacri di gratitudine si armonizzavano con i suoni incessanti della foresta.”
+
+“Durante questo lungo [[Journey|viaggio]] attraverso la catena di montagne, ho avuto poche opportunità per mettere in pratica quelle abilità nelle quali, con umiltà devo dire, eccello. Questi villaggi erano infatti pochi e poveri, e le occasioni per dimostrare il proprio talento erano rare. Era davvero mio dovere intervenire, come si suol dire, per evitare che la mia ricchezza diminuisse durante il viaggio. Così, solo per esercitarmi, di tanto in tanto concludevo piccoli affari: acquistavo armi obsolete da villaggi meno arretrati degli altri e le vendevo a montanari ignoranti che nemmeno avevano mai sentito parlare di simili strumenti antichi. Non esitavo nemmeno ad offrirmi di trasportare merci da un’azienda agricola all’altra, a un prezzo concordato; quelle che ritenevo più interessanti le consegnavo puntualmente ai rispettivi destinatari.”
+
+“Mi divertivo anche nel mio tempo libero, quando non avevo alcuna fretta, conducendo occasionalmente esperimenti di ingegneria adatti a un uomo più istruito tra i suoi simili. Così, quando passavo vicino a una diga, facevo scorrere l’acqua e poi, a un prezzo considerevole, riparavo i danni che quell’acqua aveva causato nella valle sottostante. Ero persino disposto a tornare indietro e sistemare i danni che la piena inevitabilmente provocava alla diga stessa: chiedendo un compenso adeguato per entrambe le operazioni.”
+
+“A volte – quando l’occasione lo permetteva – intraprendevo affari su scala più ampia. Ricordo di aver acquistato un intero treno di grano che era in viaggio verso uno dei villaggi più grandi; arrivato lì, mantenni la gente in uno stato di suspense (ma non al punto di una vera carestia), finché la loro necessità non fece sì che offrissero un prezzo eccellente per il grano. Di tanto in tanto negoziavo anche riscatti su commissione, quando mi trovavo in zone controllate da briganti, gente semplice, per lo più. Inoltre, riuscii ad acquistare alcune sculture e oggetti di metallo molto curiosi, a un prezzo che soddisfaceva i loro rozzi proprietari, ma che prometteva un enorme profitto non appena avessi raggiunto le pianure.”
+
+“Ma tutto ciò non era altro che scherzi e passatempi, l’occupazione di un ozio forzato mentre il mio lungo [[Journey|viaggio]] attraverso le colline proseguiva. Alla fine arrivai in un luogo che mi era stato descritto da un servitore fidato: dalla sommità di un passo vidi, a migliaia di piedi sotto di me, le pendici delle montagne scendere rapidamente verso una pianura uniforme, bruna e arsa dal sole, che si estendeva fino all’orizzonte. Non lontano dalla base delle montagne, sul bordo di questa pianura, un nobile fiume serpeggiava in molte diramazioni, separate da banchi di sabbia; poiché ero stato nelle colline per sette settimane e ormai era alta stagione estiva, la neve sui monti si era da tempo sciolta e il livello dell’acqua del fiume era molto basso.”
+
+“Ho montato il mio ultimo accampamento a un miglio o due dalla riva di questo grande fiume, e ho inviato alcuni dei miei servitori per scoprire quale fosse il modo migliore per attraversarlo. Sono tornati la mattina seguente e mi hanno detto che in alcune delle sue diramazioni l’acqua era troppo profonda per poter essere attraversata a piedi; tuttavia, nel punto in cui le rive sembravano avvicinarsi l’una all’altra (senza isole intermedie, ma un’unica distesa d’acqua larga circa quattro miglia), era stata allestita una barca a remi che operava regolarmente per trasportare mercanti, pellegrini e altri viaggiatori che da quelle colline raggiungevano il Regno della Pianura sull’altra riva. Ho fatto loro ritornare con l’ordine di prepararsi ad effettuare il traghetto non appena fosse sorto il sole, la mattina seguente. Abbiamo imballato tutte le nostre cose, smantellato l’accampamento al primo crepuscolo e siamo arrivati puntualmente alla banchina del traghetto, dove una grande barca piatta, con una dozzina di rematori e guidata dall’anziano gestore del servizio, ci aspettava su una sorta di molo.”
+
+Il passaggio era noioso e avrebbe richiesto l’intera giornata; il fiume era infatti molto rapido e solo un cammello alla volta poteva attraversarlo.
+
+“Ero un po’ incerto su come comportarmi. Se fossi rimasto sulla riva opposta fino a quando tutti non fossero passati, non avrei potuto essere certo che i miei servitori, che erano partiti prima di me, non mi giocassero qualche scherzo. Se invece fossi passato per primo, non avrei potuto controllare ciò che facevano; e anche se non avevo motivi per dubitare della loro onestà, allo stesso modo non avevo motivo per credere che non fossero persone disoneste e ladre. Alla fine ho deciso di seguire questo piano: ho fatto scaricare tutti i cammelli dei loro carichi, ammassando i bagagli su una sola pila a bordo, facendo attenzione a portare con me sia il cibo che le monete. Con questi oggetti e un cammello che ho guidato personalmente, sono passato dall’altra parte da solo. Poi sono tornato indietro con il barcaiolo e la sua squadra, tenendo sempre con me i miei provvisti e le monete, e ho fatto trasportare anche l’altro cammello insieme al suo conducente, e così via, fino a quando tutta la mia compagnia non è stata trasferita sull’altra riva. Solo quando tutti i cammelli e i loro conducenti si sono radunati, affamati, sulla riva opposta, ho permesso di scaricare le monete e il cibo sotto i miei occhi.”
 
 
 
@@ -3027,6 +3472,48 @@ WHEN THE HOUR of public executions had arrived and the boys were assembled once 
 “At the same time I pointed out to him who was now my partner something which that same stupidity of his had made him miss, to wit, that as he had a monopoly his charges were far too low. ‘Moreover,’ said I, ‘when you consider what fine new boats I have put into service and how, as a consequence, the stream of traffic is increasing, to neglect the opportunity of profit is a great sin for which you will be answerable on the Day of Resurrection. Why, it was but yesterday that you passed over twice as many people, you assured me, as ever you did in any other one day in your life!’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il tempo che tutto questo richiese fece sì che la mia scorta diventasse estremamente affamata; man mano che il giorno proseguiva, fui davvero commosso dalle loro sincere preghiere per avere un po’ di cibo, ma ero troppo saggio per cedere. Solo quando tutta la mia compagnia si riunì sulla riva opposta, insieme a me, permisi di scaricare le provviste e diedi loro tutti un pasto sostanzioso.
+
+“Era ormai quasi il tramonto. Abbiamo montato il campo e aspettato fino al mattino per trovare un luogo di soggiorno più stabile; avevo infatti notato, non molto lontano dalla riva opposta e un po’ a monte, alcune case sparse tra i giardini, ombreggiate da un boschetto di alberi.”
+
+“Non avevo ancora ideato in che modo potessi utilizzare le somme di denaro che possedevo. Aspettavo piuttosto che qualche opportunità mi capitasse, invece di cercarla attivamente io stesso. Fu una frase casuale del vecchio barcaiolo, mentre gli pagavo la tariffa (che avevo già concordato a un prezzo molto ridotto, data la nostra numerosità), ad aprirmi nuove possibilità.”
+
+“E ora, miei nipoti, vi supplico di capire che qualsiasi opportunità debba essere colta immediatamente. È così che si realizzano grandi cose.”
+
+“Quello che disse il traghettofoce fu: ‘Maledizione su coloro che arrivano carichi in questo modo’ (perché si lamentava e sosteneva che la sua vecchia e malandata imbarcazione potesse perdere acqua sotto una tale pressione di traffico).”
+
+“‘Tuttavia,’ risposi, ‘non vi mancano certo le abitudini. Poiché gli affari di oggi hanno deluso molti, vedo sulla riva opposta i fuochi di coloro che sono stati costretti ad aspettare per l’intera giornata. Entro la mattina, saranno almeno un centinaio a chiedervi i vostri servizi.’”
+
+“‘È vero,’ rispose, ‘ma fortunatamente pochi arrivano carichi come te o con così tanti animali. Comunque questo è un luogo molto frequentato, perché rappresenta l’unico passaggio attraverso l’acqua per molte miglia a monte e a valle, e serve anche la strada principale che attraversa il regno.’
+
+Gli chiesi perché non avesse pensato di affrontare questa pressione acquistando barche più grandi, o ne comprane di più, e assumendo più uomini; visto che era evidente che ci fosse profitto in quel settore, e che la domanda di viaggiatori fosse superiore a quella che lui riusciva ad soddisfare.
+
+“Rispose di nuovo con quel tono scontroso che le persone usano quando si vanta della fedeltà alle abitudini tradizionali, dicendo che la vecchia barca era stata sufficientemente buona per suo padre e gli aveva servito per tutta la vita; quindi doveva essere sufficientemente buona anche per lui. Da questa risposta capii che non disponeva dei fondi necessari per sostituire quella vecchia barca con una più nuova e migliore. Questa mia scoperta fu l’inizio di tutto ciò che è successo in seguito.”
+
+“Prima di lasciare il mio accampamento il giorno seguente, mi presi cura di mettere di buon umore l’anziano traghettatore, offrendogli cibo e bevande decenti e trattandolo con onestà nelle mie conversazioni. Quando vidi che era disposto ad ascoltarmi, gli proposi di stabilire una sorta di partnership.”
+
+“‘Sì,’ dissi, ‘ho tutto il tempo che desidero. Non ho alcuna fretta di proseguire finché non lo deciderò io stesso. Ho pensato di affittare una di quelle abitazioni che vedo in quel boschetto laggiù e di trascorrere qui un lungo periodo di tempo; infatti, il vedere tutto questo traffico che attraversa e ricrossa un grande fiume sotto le montagne è davvero delizioso.’”
+
+“Il vecchio traghettiere rispose che non aveva bisogno di un compagno, che guadagnava abbastanza con il suo lavoro e che preferiva stare da solo. Disse anche che il mio viso straniero gli risultava sgradevole, e che le persone importanti spesso sono meno affidabili di quanto sembrino.”
+
+“‘I tuoi sentimenti,’ risposi, ‘sono una prova della tua saggezza e onorano anche te. Ma non ti è mai venuto in mente che, al posto di questa vecchia barca, se ne fornissero mezza dozzina di nuove e migliori, molto più grandi e ben equipaggiate, molti più viaggiatori sarebbero tentati di passare di qui; ci sarebbero meno ritardi, sia il volume del traffico che la velocità aumenterebbero. Non posso fare a meno di considerarlo un’ottima proposta.’”
+
+“Ho scoperto, miei cari nipoti, che gli anziani testardi sono più facili da indirizzare verso schemi finanziari rispetto a qualsiasi altro tipo di persona; e in questo caso non sono stato deluso.”
+
+“Quel vecchio mulo ammise ciò che tutti questi uomini fanno dopo i primi ritardi convenzionali. Disse: ‘Va bene tutto questo, ma chi pagherà per queste cose?’”
+
+“Risposi tranquillamente che lo avrei fatto. ‘Sarò felice,’ dissi, ‘di fornire sei nuove barche e di pagare le persone che le remeranno fino all’inizio del nuovo periodo lavorativo. Tutto ciò che chiedo è che manteniate i vostri attuali guadagni, ma che condividiate con me in parti uguali i nuovi introiti che il mio piano produrrà quasi sicuramente.’”
+
+“Mi ci è voluto del tempo per fargli entrare in testa i termini della mia proposta molto vantaggiosa. Continuava a confondere la divisione dei futuri profitti con quella del suo reddito attuale. Non ho mai apprezzato tanto, come durante le mie conversazioni con questa stupida vecchia, la necessità di pazienza nel diffondere un’idea commerciale. Ho fatto di tutto per fargli capire. Non poteva essere più povero, visto che non chiedevo nulla dei suoi guadagni attuali; al contrario, avrebbe potuto diventare molto più ricco, poiché avrebbe ricevuto metà di eventuali profitti futuri. Gli avrei garantito il reddito che già guadagnava, a condizione che l’ingente somma che avrei ottenuto con i miei metodi venisse divisa equamente tra noi.”
+
+“Sembrava ancora convinto che ci fosse qualche difetto o insidia nascosta da qualche parte. Voleva che quella cosa, per quanto semplice fosse, gli venisse spiegata ancora e ancora. Alla fine capì perfettamente; se la memorizzò e ripeté più volte il ritornello: ‘Non può essere più povero, può essere più ricco.’ Non gli venne nemmeno in mente di chiedersi perché fossi così stranamente generoso.”
+
+“Fissammo il nostro contratto in due copie, le quali furono firmate e sigillate da testimoni. Successivamente feci costruire dai carpentieri locali quattro barche piatte di prima classe, lunghe circa dieci diram e larghe cinque. Mi assicurai che venissero dipinte in colori vivaci e che presentassero in generale quegli elementi di violenza “vulgare” così attraenti per le masse. Una volta completate, le aggiunsi al parco imbarcazioni già esistente della linea di traghetti.”
+
+“Nello stesso tempo gli feci notare qualcosa che, proprio a causa della sua stessa stupidità, lui aveva trascurato: ovvero che, avendo il monopolio, i suoi prezzi erano troppo bassi. ‘Inoltre,’ dissi, ‘se consideri quante nuove imbarcazioni ho messo in servizio e come di conseguenza il flusso di traffico sia aumentato, trascurare questa opportunità di guadagno è un grave peccato per cui dovrai rendere conto nel Giorno del Risorgimento. Diamine, solo ieri hai trasportato il doppio delle persone rispetto a qualsiasi altro giorno della tua vita!’”
+
 
 
 <span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_03" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 3)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt" data-tags="archetype/trickster,motif/river,concept/economics,concept/deception,concept/greed_and_money,form/satire,setting/the_orient"></span>
@@ -3063,6 +3550,38 @@ Here Mahmoud the great merchant, paused, shut his eyes for a few moments, and co
 “I then announced my intention of strengthening the bridge considerably and making it sufficient to support any kind of traffic. And so I did, at a very considerable expense. When I had completed the task it was a fine structure which would take every kind of beast of burden and vehicle, and a constant stream of foot-passengers. The only exception I made was for elephants, which animal (I said) I might allow later, but not until I had had the whole thing thoroughly tested. These beasts, therefore, still had to use the ferry: but as they were few in number and difficult to handle they only increased my partner’s troubles.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Quel vecchio signore era così legato alle abitudini tradizionali che esitava ancora, ma ricordando quanto avessi avuto ragione con la mia innovazione e non potendo contestare le prove offerte dai suoi stessi occhi – ovvero il fatto che il volume di traffico aumentasse giorno dopo giorno – alla fine acconsentì, sebbene con riluttanza. I biglietti furono raddoppiati, ma il numero delle persone desiderose di attraversare il fiume non diminuì affatto. Così si generò un profitto considerevole, che andava a sommarsi al reddito originale del vecchio traghettatore; questo profitto doveva essere diviso tra noi. A giudicare dal costo delle nuove barche che stavo costruendo, ottenni circa il dieci percento sul mio investimento. Un profitto davvero ragionevole, date le circostanze, ”
+
+Ecco Mahmoud, il grande mercante: fece una pausa, chiuse gli occhi per un momento e poi continuò sussurrando: “Un profitto molto ragionevole. Il dieci percento. Un profitto davvero conveniente.” Poi, all'improvviso, aprì gli occhi con forza, li fissò sui suoi nipoti spaventati e gridò.
+
+“Non era strano, per un uomo del mio temperamento, continuare a occuparsi di qualche barca e lasciare sacchi pieni di monete inutilizzati? Avete sentito solo l’inizio del piano a cui stavo lavorando!”
+
+“Avevo già acquistato una piccola proprietà molto bella, con una casa comoda; si trovava a qualche metro dalla riva del fiume e forse a circa cento metri sopra il traghetto.”
+
+“Successivamente acquistai un campo sull’altra riva del fiume, esattamente di fronte a questa casa e al suo giardino. A volte mi divertivo a remare attraverso il fiume, partendo dai gradini situati alla base della mia proprietà fino al campo che avevo comprato dall’altra parte. Seminai in quel campo dei fagioli di una particolare varietà; assicurai ai miei vicini che stavo sperimentando metodi agricoli innovativi. Loro ne furono molto interessati, perché in quella zona l’agricoltura è molto sviluppata, al punto che le arti più elevate, soprattutto quelle finanziarie, vengono vergognosamente trascurate.”
+
+Lasciai trascorrere alcuni mesi; durante questo periodo, l’utilizzo del traghetto con i metodi che avevo migliorato era aumentato di oltre tre volte. Ora che il transito era molto più agevole, attirava tipi di traffico che prima non esistevano. Aggiunsi persino alla flotta un enorme pontone appositamente utilizzato per trasportare un elefante, di cui avevamo ricevuto la notizia imminente del passaggio. Quando questa informazione venne diffusa, quegli enormi animali, che in precedenza utilizzavano un guado situato alcuni giorni a monte, furono attratti dal traghetto e preferirono il percorso più breve attraverso la montagna.
+
+“Quando tutto questo fu ben organizzato, informai alcuni degli amici che avevo fatto nel quartiere che volevo concedermi il lusso di comportarmi come un uomo ricco e divertirmi costruendo un ponte tra la mia casa e il campo che avevo comprato sull’altra riva. ‘Mi risparmierà,’ dissi, ‘il fastidio continuo di attraversare a remi con la mia piccola barca, e mi occuperà anche nel mio tempo libero; dopotutto, sono un po’ ingegnere.’”
+
+“In realtà non era necessario molto lavoro ingegneristico. Tutto ciò che dovevo fare era piantare dei pali robusti a distanza regolare nel corso d’acqua, posarci sopra delle impalcature e fissarle su entrambi i lati con grandi tronchi, in modo da creare un ponte utilizzabile. Non era adatto al passaggio di veicoli, ma per i nostri scopi era più che sufficiente.”
+
+Ora che avevo questa possibilità di comunicare, acquistai ulteriore terreno sulla sponda opposta e vi costruii una piccola fattoria modello molto bella. Devo ammettere che occasionalmente dei pedoni chiedevano il mio permesso per attraversare il ponte, al fine di evitare il noioso tragitto in barca. Tuttavia li rifiutavo sempre, per non danneggiare gli interessi del mio amico, il traghettatore; feci un’eccezione solo per uno o due vicini che desideravo favorire, e occasionalmente anche per persone davvero importanti con cui il traghettatore non avrebbe voluto avere problemi. Ma ho un cuore gentile. Alla fine iniziai ad autorizzare l’uso del ponte anche a altre persone. Soprattutto i bambini (poiché tengo molto ai giovani) non potevo certo costringerli a subire il fastidioso tragitto in barca, quindi ordinai alle mie persone di permetter loro di attraversare.
+
+“Finalmente fu istituito un percorso regolare attraverso la mia fattoria; non so se per pigrizia o generosità, ma permisi che il numero di persone che utilizzavano il mio ponte per attraversare il fiume aumentasse notevolmente. Quando quel flusso raggiunse un certo livello, il mio disgusto per il disordine mi spinse a stabilire alcune regole: installai delle porte su entrambe le estremità del ponte e addebitai una somma puramente simbolica, che, come spiegavo, veniva utilizzata per la manutenzione del ponte; ovviamente, quella somma non era nemmeno lontanamente sufficiente a coprire i costi effettivi.”
+
+“Per evitare la lunghezza e gli inconvenienti del viaggio via acqua, questa tassa veniva pagata volentieri; e con il progredire della stagione, il mio ponte veniva utilizzato sempre di più.”
+
+“Mio partner, l’anziano traghetto, osservò tutto questo con uno sguardo confuso. Aveva la capacità di capire che non avrei danneggiato il mio stesso investimento attraverso la concorrenza, ma non poteva fare a meno di notare che qui si stava sviluppando una rivalità sempre più forte nei confronti della sua rotta da tempo consolidata.”
+
+“Finalmente si avvicinò a me e mi chiese se non potessimo raggiungere qualche accordo; risposi che non vedevo alcun motivo per farlo. C’era abbastanza spazio per entrambi: ero un uomo ricco, e un atto di generosità rappresentava per me una sorta di lusso; difficilmente avrei potuto chiedere a persone ormai abituate a un trasporto così agevole di tornare al monopolio delle barche, con i loro metodi primitivi, lenti e goffi di imbarco e sbarco, nonché con i ritardi e le code inevitabili. Sottolineai al mio rispettato partner che le barche erano comunque necessarie per tutti i beni pesanti e per gli animali; inoltre gli feci notare con forza qualcosa che non poteva negare: difficilmente avrei fatto nulla che potesse danneggiarlo, poiché ciò avrebbe danneggiato anche me, essendo suo socio. Gli feci persino ridere per non aver compreso la forza di queste argomentazioni prima di venire da me, e per avermi disturbato con cose chiaramente assurde.”
+
+“Tuttavia, continuava a lamentarsi. Diceva di non essere uno studioso, che tutto sembrasse giusto, ma che non si sentisse a suo agio. Gli risposi che non potevo cambiare i suoi sentimenti, ma che si trattava semplicemente di buon senso comune, e così lo congedai.”
+
+“Poi annunciai la mia intenzione di rafforzare notevolmente il ponte, rendendolo sufficientemente capace di sopportare qualsiasi tipo di traffico. E così feci, a un costo molto elevato. Quando completai il lavoro, ottenni una struttura eccellente, in grado di reggere ogni tipo di animale da soma e veicolo, nonché un flusso costante di pedoni. L’unica eccezione la feci per gli elefanti: dissi che avrei potuto permetterne il passaggio in seguito, ma solo dopo aver sottoposto l’intera struttura a test completi. Pertanto, questi animali dovettero continuare ad utilizzare il traghetto; tuttavia, essendo pochi e difficili da gestire, non fecero altro che aumentare i problemi di mio socio.”
+
 
 
 <span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_04" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 4)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt" data-tags="archetype/trickster,motif/madness,motif/river,concept/greed_and_money,concept/deception,concept/madness,concept/economics,form/satire,setting/the_orient"></span>
@@ -3095,6 +3614,34 @@ Here Mahmoud the great merchant, paused, shut his eyes for a few moments, and co
 “The common folk of the town and the villages, the herdsmen and all the humbler multitude which used the bridge in less lucrative fashion were to pay a toll double the original, which, after all, was only fair when one considered that they were compelled to use the bridge as there was now no other passage across the stream. I should add that the local authorities which sat with us upon this Council, after drawing up the Ordinances, passed a local By-law full of common sense and the spirit of order. In this By-law they forbade the use of any boats whatsoever for the crossing of the water, under the excellent plea that men had in the past occasionally been drowned from these and that, anyhow, there was now a good bridge and no necessity for this old-fashioned and backward kind of travel.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nel frattempo, la fama del mio ponte si diffuse in tutti i paesi vicini; esso divenne il centro di tutto il commercio in quella regione.
+
+“L’anziano traghettatore si avvicinò a me con un misto di rabbia, panico e lamentele deliranti. Disse che i suoi introiti stavano diminuendo a una velocità allarmante, aggiunse (penso con un po’ di malizia) che la mia parte di quegli introiti non sarebbe stata nemmeno un quarto di quanto era stato nell’anno precedente, e dichiarò chiaramente che se non avessi modificato le mie regole, il mio profitto sarebbe scomparso del tutto: non sarebbe rimasto nulla se non il suo reddito originale, e anche questo ora era in dubbio. Poiché non risposi a tutte queste lamentele, ma lo lasciai parlare fino alla fine, alla fine mi chiese, con un certo sarcasmo, se fossi uno di quegli stupidi ricchi che amano buttare via i loro soldi.”
+
+“Allora fu quando gli risposi come meritava di essere risposto, poiché non tollero facilmente insulti. Gli dissi che avevo ipotecato la mia parte nell’impresa legata alle barche molto tempo prima, a un vicino per un prezzo molto buono, ancora prima che il ponte venisse costruito; che quell’uomo mi dava già abbastanza fastidio, attribuendomi la continua diminuzione dei ricavi che ricevevo e che gli consegnavo; e che non volevo aggiungere al suo continuo tormento anche le lamentele di quel mio partner inadeguato. Lo cacciai via dalla mia presenza e gli dissi che non volevo mai più rivederlo.”
+
+“Non ho dubbi che, se mi fossero stati fatti gli approcci giusti, avrei offerto qualche tipo di compensazione al vicino a cui avevo ipotecato la mia parte dei profitti del traghetto. Avevo tratto un notevole beneficio che lui ora non avrebbe mai potuto recuperare; avrei potuto anche restituirgli un quinto o un quarto di quella somma, semplicemente per gentilezza. Ma quando scoprii che aveva rivenduto la sua quota a uno ignorante che in quel momento cercava un acquirente per la sua proprietà, ormai in rapida decadenza, persi completamente la pazienza e smisi del tutto di pensare al traghetto. Il nuovo acquirente eseguì l’ipoteca e ottenne per il traghetto soltanto un terzo della somma che aveva prestato.”
+
+“Poco dopo questo episodio, l’anziano traghettatore impazzì. Inizialmente veniva ogni giorno a casa mia e faceva scenate fuori dalla porta; poi iniziò a rompere le finestre, e infine radunava folle per accusarmi di averlo perseguitato ingiustamente. Fui costretto a farlo rinchiudere per proteggermi, e sono felice che una febbre misericordiosa abbia presto liberato lui da quelle illusioni ormai incurabili. Tuttavia non riprese mai la ragione, come spesso accade anche nelle ultime ore di vita. Continuò a chiamarmi con i nomi più orribili e a delirare, gridando che era stato derubato e rovinato. Fu una fine tragica per una vita, sebbene poco nota, ma comunque utile.”
+
+“Poiché non potevo sopportare l’idea che gli uomini che lui aveva assunto morissero di fame, li presi sotto la mia ala per costruire una strada che portasse al ponte, per rafforzarlo ulteriormente, dipingerlo e così via. Inoltre, inviai tutte le barche da traghetto giù lungo il fiume, dove avrebbero potuto essere più utili che in questo tratto, dove grazie alla mia iniziativa e al mio spirito pubblico il ponte era stato costruito. Le acquistai dai loro proprietari come legname vecchio e ne trassi un profitto insignificante di qualche migliaio di dinari.”
+
+“È un bell’esempio di come i nomi rimangano legati ai luoghi: il punto sulla riva dove una volta navigava la ferrovia fluviale è ancora chiamato ‘La Tomba del Pazzo’. Infatti, ho sentito dire che quell’uomo fu sepolto, su sua stessa richiesta, vicino al luogo in cui la sua barca solitamente attraccava.”
+
+“Era ormai giunto il momento di prendere in considerazione l’intera questione del ponte e delle sue finanze. A causa della mia bontà d’animo e di una generosa disattenzione – difetti o amabili debolezze contro cui devo sempre stare in guardia – la situazione era diventata piuttosto disordinata. Le tasse riscosse non superavano i livelli consuetudinari, anche se di tanto in tanto le avevo aumentate. Non esisteva alcuna distinzione precisa tra i diversi tipi di traffico; né regole precise riguardo agli orari in cui il ponte poteva essere utilizzato, né sistemi efficaci per controllare le spese.
+
+“Il nuovo ponte aveva causato un notevole aumento della popolazione della città. I suoi governatori e quelli dei distretti limitrofi erano giustamente preoccupati per il suo corretto funzionamento.”
+
+Le autorità del quartiere erano completamente d'accordo con me sul fatto che fosse necessario dare a questa questione una base più regolare. Ho suggerito loro che, prima di procedere oltre, sarebbe stato un atto gentile e ragionevole consultare coloro che utilizzavano regolarmente il ponte su larga scala, in particolare i commercianti del luogo e di città più lontane situate sulla sponda opposta, che lo attraversavano con frequenza e con notevoli flussi di traffico. Pertanto, questi ultimi furono gentilmente convocati. Erano considerati rappresentanti della maggior parte delle persone comuni, e insieme abbiamo elaborato un ottimo accordo.
+
+“Innanzitutto ci siamo costituiti in un Consiglio. Poi abbiamo votato per concederci pieni poteri affinché potessimo fare ciò che volevamo nella gestione del Ponte.”
+
+“I commercianti che utilizzavano regolarmente il ponte e che lo attraversavano più volte al mese, in media una volta al mese, erano esentati dal pagamento del pedaggio a condizione di versare un abbonamento annuale per la manutenzione della struttura. In media, per ogni animale da soma utilizzato, il costo corrispondeva a circa un quarto del pedaggio pubblico; per ogni servitore, invece, era inferiore a metà.”
+
+“Il popolo comune della città e dei villaggi, i pastori e tutta quella gente più umile che utilizzava il ponte in modo meno redditizio doveva pagare un pedaggio doppio rispetto a prima; del resto, questo era giusto, considerando che erano costretti ad usarlo poiché non esisteva alcun altro passaggio attraverso il fiume. Devo aggiungere che le autorità locali, presenti con noi in questo consiglio, dopo aver redatto gli ordinanze, approvarono anche un regolamento pieno di buon senso e spirito di ordine. In questo regolamento vietavano l’uso di qualsiasi tipo di barca per attraversare il fiume, adducendo come motivo valido il fatto che in passato alcune persone erano annegate a causa di queste imbarcazioni, e che comunque ora esisteva un ponte efficace, quindi non c’era più bisogno di questo modo di viaggiare obsoleto e arretrato.”
+
 
 
 <span class="atom-split" data-atom="chapter_04_entitled_al_kantara_or_the_bri--part_05" data-title="The Mercy of Allah — Chapter 4: ENTITLED AL-KANTARA, OR THE BRIDGE (part 5)" data-chapter="ENTITLED AL KANTARA OR THE BRI" data-kind="excerpt" data-tags="archetype/trickster,motif/river,concept/economics,concept/deception,concept/power_and_corruption,concept/capitalism,concept/free_trade,form/satire,setting/the_orient"></span>
@@ -3120,6 +3667,28 @@ As the aged merchant described the last stage of his adventure his face took on 
 
 “The Sheik who, in the growing importance of the community was now confirmed in his office by his Sovereign under the title of Excellent, delivered an unforgettable harangue, saying that the Day when the tolls should be taken off the Bridge and the gates thrown down would stand in the annals of his country next to its historic Charter and its acceptance of the Truth Faith. Amid the deafening shouts of a vast concourse, composed, as I was amused to discover, of both parties indifferently, but all out for the occasion, this great official proceeded in state to the entrance of the bridge, cut symbolically the silken thread with which the gates upon either end had been tied and in loud tones declared the bridge open in the name of Allah and his Prophet. Women wept profusely and even strong men had difficulty in hiding their emotion; only the younger of the children and the animals accompanying the procession appeared indifferent. Of the four officials deputed for the watching of the tolls two were thrown into jail on the charge of malversation; the other two were, on my making an appeal for them, allowed to leave the country.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Alle persone era anche vietato nuotare nel fiume tra il tramonto e l’alba per motivi di sicurezza e controllo da parte della polizia; inoltre, era vietato nuotare tra l’alba e il tramonto per ragioni di decenza.
+
+Dopo l’approvazione delle nuove normative, i cancelli furono rafforzati e vennero nominati ufficiali incaricati di riscuotere il pedaggio. Fui abbastanza generoso da permettere che i miei servitori venissero sostituiti da questi nuovi funzionari, i quali sarebbero stati nominati (e retribuiti) dal nuovo Consiglio; a me rimase soltanto il diritto di ricevere il pedaggio e, naturalmente, l’onere dei costi di manutenzione, compensati dalle somme che ricevevo dai commercianti abituali. Mi riservai inoltre il diritto, ogni volta che il Consiglio o le autorità locali lo ritenessero necessario, di assumere l’incarico di rafforzare, riparare, verniciare, decorare il ponte, oppure coprirlo con un tendone durante i periodi più caldi dell’estate. Per tutti questi interventi, avrei concordato il prezzo con il Consiglio e le autorità locali, guidati dal mio caro vecchio amico lo Sheikh.
+
+“Quando tutti questi accordi furono presi, la cosa ebbe una base solida e, posso dire con gioia, costituì un precedente per molti altri progetti simili, nei quali venivano tenuti conto sia degli interessi del pubblico che di un adeguato ritorno sull’investimento. Il mio ‘Consiglio per i Ponti’, come veniva chiamato, fu replicato in molte altre imprese in quelle zone; in alcune di queste fui addirittura nominato direttore.”
+
+“Ma bisogna avanzare con i tempi. Non si può negare che questo metodo conservatore e consolidato di recuperare spese e interessi attraverso le tasse di pedaggio, senza dubbio eccellente per il suo tempo, presentasse anche dei svantaggi. In questi tempi progressisti (era questa la frase usata dal mio amico, lo sceicco del luogo – che ora, sotto l’influenza del mio ponte, stava diventando una città molto grande), c’era qualcosa di assurdo nel vedere delle porte erette proprio per bloccare quel passaggio che era stato creato esclusivamente al servizio della comunità! Cosa penserebbe la posterità di noi se scoprisse che abbiamo costruito un ponte e poi abbiamo messo su delle porte per ostacolare il suo uso costante e agevole? Inoltre, rappresentava anche un onere per la comunità dover assumere funzionari a entrambe le estremità del ponte per controllare i pagamenti, tenere i registri e occuparsi di tutte queste altre cose.”
+
+“Ciò che era ancora peggio è che sembrava esserci qualche perdita. Non si poteva sempre fidarsi degli ufficiali nel calcolare con precisione il costo del passaggio (poiché erano persone di scarso valore e ricevevano uno stipendio modesto). Si sospettava che ai loro parenti e amici venisse permesso di attraversare gratuitamente, poiché non era possibile sorvegliare attentamente la struttura di notte. E temo che vi fosse un notevole utilizzo illegale del ponte.”
+
+“Tutto ciò, a parte l’esempio negativo che rappresentava e il senso di disordine che creava, costituiva anche una fonte di ansia per coloro che si occupavano della finanza dell’impresa. Questo sentimento cresceva rapidamente – almeno in me cresceva molto forte, e feci ogni sforzo per diffonderlo negli altri – e cioè che il Progresso e altre virtù di cui la gente del Plain andava fiera (rispetto ai popoli semi-barbari delle montagne) richiedevano che tutte queste anomalie cessassero, e che la semplice politica della ‘PISTA LIBERA’ dovesse trionfare.”
+
+Mentre il vecchio mercante descriveva l’ultima fase della sua avventura, il suo viso assunse un’espressione vivace; parlava con decisione e i suoi gesti esprimevano una libertà che ricordava i suoi antichi trionfi oratori, quando da giovane combinava la pratica del commercio, degli investimenti e della finanza con i discorsi pubblici che lo avevano reso famoso. In quel momento, sembrava meno un mercante che un senatore, uno dei grandi leader di un tempo; i suoi nipoti non potevano fare a meno di ammirare quell’aria nobile, quello sguardo diretto e quella voce eloquente che accompagnavano il suo modo di esprimersi.
+
+“Per quanto mi riguarda,” continuò il vecchio gentiluomo, ora trasformato dal ricordo del proprio ruolo nella vita pubblica, “non ebbi paura di parlare apertamente nel Consiglio e (tanto era il mio amore per i miei concittadini) persino in piazza. Non mi stancai mai di spiegare i semplici principi economici alla base della politica del Ponte Libero. Fu per me un grande piacere osservare, man mano che i miei sforzi proseguivano, la formazione di due fazioni: da un lato i sostenitori del Ponte Libero, che avevano il favore dell’opinione pubblica e rispecchiavano lo spirito dei tempi; dall’altro una fazione che, per mancanza di un nome migliore, chiamerò ‘I Ribelli’, composta da individui malintenzionati, sciocchi, nemici pubblici. In breve, persone il cui unico argomento era che le cose stavano benissimo così com’erano e che sarebbe stato un peccato cambiarle.”
+
+“Non c’è quasi bisogno di dirvi quale di questi interessi in competizione abbia vinto. Intelligenza, spirito imprenditoriale, senso civico, buon senso, giustizia e altre diciotto o diciannove qualità che al momento mi sfuggono hanno sostenuto il glorioso trionfo del ‘The Free Bridge’. Finalmente, quando arrivò il momento di votare, abbiamo spazzato via i nostri avversari alle urne, ottenendo non meno di cinquantatré voti su cento a favore del nostro progetto.”
+
+Il sceicco, il cui ruolo nella comunità diventava sempre più importante e che ormai era stato confermato nel suo incarico dal proprio sovrano con il titolo di “Eccellente”, tenne un discorso indimenticabile, affermando che il giorno in cui i dazi sarebbero stati aboliti sul ponte e le porte rimosse sarebbe entrato negli annali del suo paese accanto alla sua Carta storica e all’adozione della Fede Veritiera. Tra gli applausi assordanti di una vasta folla, composta, come scoprii con divertimento, da persone appartenenti a entrambe le fazioni ma tutte unite dall’entusiasmo per l’occasione, questo importante funzionario si recò solennemente all’ingresso del ponte, tagliò simbolicamente il filo di seta con cui erano state legate le porte su entrambi i lati e dichiarò ad alta voce che il ponte era aperto nel nome di Allah e del suo Profeta. Le donne piansero copiosamente e anche gli uomini più forti ebbero difficoltà a nascondere la propria emozione; solo i bambini più piccoli e gli animali che accompagnavano la processione sembravano indifferenti. Dei quattro funzionari incaricati di controllare il riscatto dei dazi, due furono messi in prigione con l’accusa di corruzione; gli altri due, dopo che io intercessi per loro, poterono lasciare il paese.
 
 
 
@@ -3177,6 +3746,59 @@ That is:
 Salt
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il capo dell’opposizione che aveva fatto di tutto per impedire questa grande e necessaria riforma, ora, dopo aver ricevuto il compenso richiesto, ha ammesso apertamente di essersi convertito; qualsiasi affetto sentimentale potesse ancora provare per le sue vecchie idee, ora capiva chiaramente che non rappresentavano più una politica praticabile.
+
+“I giardini della città furono illuminati per tre notti consecutive; vennero sparati cannoni e, data l’eccezionale natura dell’occasione, molti criminali furono graziati, tra cui il giovane fratello di capo dell’opposizione che, sotto falso nome, aveva trascorso diversi mesi in prigione.”
+
+In tutto questo entusiasmo era più facile affrontare i dettagli pratici del cambiamento, poiché veniva eliminato l’ostacolo rappresentato dalle critiche meschine e dettagliate provenienti da un pubblico ignorante.
+
+“Una nuova Costituzione fu felicemente concordata al posto delle vecchie entrate derivanti dalle tasse di pedaggio. Queste entrate variavano annualmente tra i 15.000 e i 25.000 dinari. Per sostituirle e far fronte a eventuali imprevisti, fu stabilita una somma fissa di 30.000 dinari da riscuotere annualmente dalle tasse pubbliche e destinata al Servizio del Ponte. Naturalmente, questa somma avrebbe dovuto essere versata annualmente a me. Ma avevo altri piani.”
+
+Dopo che questa decisione di assegnare 30.000 dinari fu presa con voto unanime, feci una grande impressione quando mi alzai e dissi che non avrei mai occupato quella posizione privilegiata e, a mio parere, corrotta di cittadino che riceveva una pensione regolare dai miei colleghi. Per quanto grandi fossero stati i miei servizi in passato, ero felice che potessero essere a disposizione del mio paese – così lo chiamavo, essendoci vissuto ormai da più di due anni. Non riuscivo a sopportare l’idea di essere, in qualche modo, colui che sottraeva la “vita stessa” della comunità, portando nelle mie tasche denaro che, per lo più, proveniva dai più umili tra i miei cari connazionali.
+
+“Con questa dichiarazione, che proveniva dal profondo del mio cuore, era già stata dimostrata la mia disponibilità; il Consiglio fu quindi estremamente felice di sentire la mia decisione. Anzi, essa risultò ancora più sincera di quanto si potesse sperare. ‘Accetterò,’ dissi, ‘se proprio insistete, una somma di denaro che possa rappresentare il valore capitale dei proventi ottenuti; ma rifiuto assolutamente, sotto qualsiasi condizione, di rimanere un semplice burattino sostenuto da questa comunità commerciale attiva, che si approfitta delle tasse senza dare nulla in cambio e che mi considera un peso invece di una risorsa.’”
+
+“Gli applausi erano quasi sconosciuti nelle dignitose discussioni della nostra assemblea, ma in questa occasione non poterono essere trattenuti; per alcuni minuti consecutivi gli seri e sonori applausi dei miei colleghi mi assicurarono che avevo fatto la cosa giusta e mi compensarono ampiamente qualsiasi perdita potessi subire, anche nel caso (che del resto era improbabile) in futuro i proventi derivanti dal ponte aumentassero notevolmente.”
+
+“Tale è la debolezza della natura umana che forse il riconoscimento del mio buon gesto sarebbe stato meno sincero, o meno semplice, se anche i membri del Consiglio stessi fossero stati costretti a trovare i fondi con le loro tasche. Ma in questo caso non c’era alcun dubbio: il peso di tale spesa doveva ricadere, giustamente, su tutti i cittadini, poiché tutti utilizzavano quel ponte. Pertanto la mia proposta incontrò un entusiastico consenso da tutte le parti; durante il dibattito successivo, un amico che, a modo suo umile, era coinvolto in altre mie iniziative, fece notare qualcosa di cui non avrei potuto parlare per rispetto: anch’io ero un contribuente, e anzi uno dei più importanti; quindi una parte delle spese pubbliche veniva comunque sostenuta da me. Alla fine della discussione, dopo alcuni complimenti che la mia naturale modestia mi impedisce di ripetere, il Sheik dichiarò che non restava altro da fare se non effettuare un calcolo preciso – una semplice questione amministrativa – e che questo compito poteva essere affidato con fiducia a un piccolo comitato di tre persone nominato sul posto. Il loro lavoro, ovviamente, era di natura onorifica, poiché si trattava di persone di alto rango; tuttavia mi assicurai che tutte le loro spese venissero coperte e offrii loro ogni tipo di ospitalità. Il comitato si riunì più volte nelle tre settimane successive. Io stesso intervenni spesso davanti a loro in qualità di testimone, presentai tutti i miei documenti contabili e, con soddisfazione, lasciai che le cose seguissero il loro corso naturale, senza cercare di ottenere vantaggi personali, come se si fosse trattato di una semplice transazione commerciale. Alla fine dell’iterazione burocratica, gli arbitri mi assegnarono la somma di 1.400.000 dinari; dopo aver protestato contro quella che consideravo un’eccessiva generosità da parte dello Stato, aumentai ulteriormente la mia popolarità facendo costruire a mie spese un bellissimo cancello all’ingresso del ponte, per il quale pagai personalmente metà della somma totale; l’altra metà la donai privatamente ai membri del comitato, in segno di gratitudine per il loro impegno e il loro spirito pubblico.
+
+“Mi è rimasto un milione.”
+
+Ero completamente soddisfatto.
+
+“Non desideravo più nulla.”
+
+“Ma zio,” intervenne timidamente il figlio maggiore del nipote, “c'è una cosa che non capisco. Mi permettete di farvi una domanda al riguardo?”
+
+“Certo, mio caro ragazzo,” disse l’uomo anziano, accarezzandosi la barba e in attesa della domanda.
+
+“Perché, zio,” disse il ragazzo, ancora un po’ esitante, “è proprio questo. Non capisco davvero come tu abbia potuto avere un milione di dinari. Sei arrivato qui con mezzo milione, allora come mai ne hai avuti un milione?”
+
+La stupidità di quella domanda suscitò qualche risatina da parte dei suoi fratelli, che avevano sempre considerato il loro maggiore il meno brillante del loro clan. Ma loro zio fu più indulgente e fermò le loro risate (che erano particolarmente sonore tra i più giovani), dicendo:
+
+“Mio caro ragazzo, vedi forse qualcosa di straordinario nel fatto che una persona che ha servito così bene la comunità accumuli improvvisamente grandi ricchezze?”
+
+“No, non esattamente,” disse il nipote maggiore, ancora esitante, “molto lontano da ciò, caro zio; ma quello che non capisco del tutto è da dove sia venuta l’altra mezzo milione di sterline.”
+
+“Mio sciocco ragazzo!” rispose il suo parente, ora visibilmente infastidito. “È stato il risultato della mia instancabile dedizione al servizio pubblico, della mia lungimiranza nel costruire un ponte magnifico che, per tutti quegli anni, nessuno aveva mai tentato di realizzare; è stato anche il desiderio liberamente espresso dai miei concittadini attraverso i loro onorati rappresentanti. In effetti, si trattava soltanto di una piccola ricompensa per tutto il bene che avevo fatto e per tutti i vantaggi inestimabili che la mia energia aveva portato a questa città.”
+
+“Sì, caro zio, ma, ” continuò il ragazzo arrossito.
+
+“Oh, non dargli retta,” gridarono tutti i suoi fratelli all’unisono. “Non riuscirai mai a fargli capire! Nostro padre ha sempre detto che non sa nemmeno fare i calcoli matematici,” e alla fine della loro protesta si udì la risata stridula del più giovane.
+
+“Beh, beh…”, disse Mahmoud con buon umore, “non litigheremo per questo”.
+
+In quel momento si udì dal minareto vicino il grido insopportabile del muezzin che chiamava i fedeli alla preghiera, e la situazione un po’ tesa si rilassò.
+
+# Milh
+
+Titolo:  
+Cioè:
+
+Sale
+
 
 
 <span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_01" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 1)" data-chapter="ENTITLED MILH OR SALT" data-kind="excerpt" data-tags="archetype/trickster,concept/greed,concept/money_and_avarice,concept/indolence,concept/providence,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -3210,6 +3832,36 @@ Having said this the lad bowed once more in deep obeisance, while, at a signal f
 
 “You know, perhaps, my dear nephews, that there are some men so lost to all shame that on finding themselves possessed of a considerable sum they will not embark it in commerce nor even lend it out at interest to the widow and the orphan, to the teachers of our holy religion, or to districts struck by famine; indeed, they make no lucrative employment of it, but, yielding to a base appetite for repose, they draw upon it as they need until it is wholly exhausted.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO V. INTITOLATO “MILH, O SALE”
+
+Quando i suoi nipoti entrarono nuovamente davanti a Mahmoud all’ora delle esecuzioni pubbliche, il loro primo gesto fu mettersi in fila e salutare; poi fecero avanzare il più anziano, il quale, con toni umili e dopo essersi ripreso dallo shock, chiese scusa allo zio per l’interruzione che aveva causato durante l’ultima loro udienza.
+
+“Non è colpa mia, Onorevole Signore,” disse lui, “il fatto che sia nato un po’ lento di comprendimento quando si tratta di numeri. Tutto mi è stato spiegato molto chiaramente da mio padre, mia madre, miei fratelli e diversi ospiti che sono venuti ieri sera dopo la cena. Peccato che (ahimè!) non abbiamo potuto invitarli. Ora capisco molto bene dove e come un milione possa diventare due senza aumentare di numero; spero soltanto che, nella continuazione delle vostre avventure, vedremo miracolosamente crescere ogni anno la fortuna che il Creatore vi ha concesso in ricompensa dei vostri incessanti sforzi per beneficare l’umanità.”
+
+Dopo aver detto questo, il ragazzo si inchinò nuovamente in profondo rispetto; mentre, su un segnale di uno degli schiavi che accompagnavano i loro zii, tutti i fratelli si sedettero a gambe incrociate sul pavimento e assunsero espressioni di estrema attenzione e ammirazione.
+
+“Non c’era bisogno,” disse l’uomo anziano con gentilezza, “di tornare ancora su questa sfortunata vicenda; ma poiché l’avete fatto, sono davvero felice di sapere che le vostre difficoltà sono state risolte. Senza dubbio vostro eccellente padre, mio fratello, e i suoi ospiti vi hanno spiegato chiaramente che, se mai c’è stata una ricompensa per me, essa è stata ben inferiore a quella a cui moralmente avevo diritto. Un uomo che non solo costruisce per una città un bellissimo ponte, ma lo lascia anche aperto e accessibile a tutti, spinto da un puro spirito pubblico, merita davvero una ricompensa molto alta da parte della Comunità. Ma, a dire il vero, sebbene non sia indifferente al successo in qualsiasi compito intraprenda, non mi interessava tanto l’aspetto materiale di questa ricompensa, quanto il bene che avevo fatto e la consapevolezza che ciò avrebbe aumentato la mia gloria in paradiso. Poiché è scritto: ‘In cielo vengono ricordate tre opere: la costruzione di un ponte, la scavazione di un pozzo e la demolizione delle case dei poveri.’”
+
+“Nell’ultima parte di ciò che avete detto (cari nipoti miei), temo che rimarrete delusi; perché la storia che devo raccontare oggi” (e qui la sua voce assunse un tono più grave) “è una storia di strana sventura.”
+
+“Desidero che teniate le mie perdite in considerazione ancora più attentamente di quanto abbiate fatto con i resoconti precedenti riguardanti il mio successo o di quelli che seguiranno e mostreranno come abbia riacquistato la mia posizione nel mondo. Infatti, sarebbe davvero un pessimo servizio da parte mia verso di voi giovani se vi lasciassi credere che solo l’energia e l’avventura possano portare al successo: no, nemmeno l’astuzia basta. C’è anche la Volontà del Supremo.”
+
+“Che senso ha l’arte della destrezza delle mani o dell’occhio, senza di Lui?” chiese il vecchio mercante con entusiasmo (mentre suo nipote più giovane inghiottiva abilmente uno sbadiglio). “Pensi davvero di trarre profitto dall’ingenuità delle tue vittime o persino dalla tua stessa stupidità? Niente affatto!”
+
+“I nostri Libri Sacri ci offrono molti esempi di uomini buoni che la Misericordia Infinita ha ritenuto opportuno mettere alla prova. È il nostro comportamento di fronte a queste prove che costituisce il vero test del carattere e l’unica base per la nostra futura ricompensa eterna. Per quanto attribuisca alla Misericordia di Allah tutte le cose buone che mi sono accadute, altrettanto attribuisco alla Sua saggezza e bontà anche le avversità più dure di questa vita. Attraverso queste esperienze impariamo infatti che in ogni situazione c’è sempre un elemento di incertezza; che siamo circondati da rivali che non dovremmo mai disprezzare; che i nostri amici sono spesso pronti a ingannarci. Solo accettando umilmente queste lezioni possiamo diventare ancora più astuti nel rapporto con gli altri, rispetto a prima di aver subito perdite.”
+
+“Tuttavia, non indugerò e inizierò subito a raccontare questa storia dolorosa. Poiché ora dovete accompagnare vostro povero zio attraverso giorni bui e pieni di sofferenza.” Mentre pronunciava queste parole, i volti dei suoi giovani parenti rivelavano la massima preoccupazione; soprattutto quello del più piccolo, il cui espressione piena di pathos contrastava stranamente con l’innocenza delle sue anni.
+
+“Allora devi sapere,” cominciò l’uomo anziano, “che il mio più grande errore in questo momento della mia carriera è stato il desiderio di facilità. Pensavo (lo dico con vergogna!) di aver già fatto abbastanza. Per usare il linguaggio comune del mercato, consideravo la mia attuale fortuna di un milione di dinari come la mia ‘pila’ di ricchezze. Per usare un’altra espressione che incontrerai molto spesso negli anni a venire, ero pronto ad andarmene in pensione.”
+
+“Oh, errore fatale! Oh, profonda ingratitudine! Ero lì, ancora nel pieno vigore della giovinezza – avevo appena compiuto trent’anni, ero sulla cresta di un apparente successo, benedetto in tutto ciò che facevo – eppure, già con un misero milione in mano, ero così ingrato verso Dio da permettermi una vergognosa tentazione di dedicarmi al lusso! Spero che questo episodio possa servire da monito per te e per chiunque legga questa storia.”
+
+“Il veleno insidioso del conformismo si era, senza che io me ne rendessi conto, insinuato nel mio cuore. Avevo (almeno per il momento) smesso di cercare di superare gli altri – cosa che dovrebbe essere l’attività principale di un uomo; iniziavo invece a dedicarmi a cose frivole come la lettura di libri, l’esame di manoscritti rari, la progettazione di una casa per me stesso, la pianificazione di giardini, conversazioni vane con gli intellettuali. E, cosa peggiore di tutte, iniziai a interessarmi al passato. Oltre a questa stupida passione per l’apprendimento di cose morte, arrivai persino a prendere in mano la penna! Iniziai davvero a scrivere. Per quanto riguarda la scrittura di poesie, umilmente ringrazio Dio se non ci sono mai caduto dentro; ma se una severa punizione non mi avesse fatto tornare in me, forse l’avrei fatto comunque.”
+
+“Vedete, cari nipoti miei, forse alcuni uomini sono così privi di ogni senso di vergogna che, trovandosi in possesso di una somma considerevole, non la investono nel commercio né la prestano a interesse alle vedove e agli orfani, agli insegnanti della nostra sacra religione, o alle zone colpite dalla carestia; anzi, non ne fanno alcun uso proficuo, ma, cedendo a un basso desiderio di comodità, la spendono man mano che ne hanno bisogno, fino a quando non viene completamente esaurita.”
 
 
 
@@ -3247,6 +3899,38 @@ Having said this the lad bowed once more in deep obeisance, while, at a signal f
 “Our business was not long in concluding. The Grand Vizier, who stepped up and stood on the right hand of the throne, put me certain questions — Whether I had my treasure with me? Whether I could produce it by such a date? And so forth. I satisfied him by signalling to my attendants with their burdens. The packages were opened before the eyes of the Council and at that sitting all was arranged. For the terms which I proposed were discovered suitable enough. I have told you, my dear nephews (and I do confess it again to my shame), that desire for ease had now taken place in my mind, whereas further gain should have occupied it. I very modestly asked for no more than five dinars yearly on the hundred, I told the Council and his Majesty that for the million dinars which could here be counted I should ask annually but fifty thousand for revenue, and that paid on such dates as they thought fit.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Oh, che shock!” esclamò una voce stridula, interrompendo l’eloquenza del mercante. Quel grido proveniva dalla più giovane di loro.
+
+“Provi forti sentimenti, mio caro ragazzo,” disse suo zio, “e hai assolutamente ragione. Sono felice di scoprire che una persona così giovane abbia già una così chiara consapevolezza del nostro dovere nella lotta per la vita. Esistono, ripeto, uomini così spregevoli da mettere da parte tutto ciò di cui hanno bisogno, prendendo solo quanto necessario giorno dopo giorno, fino a quando non gli accade uno di questi due eventi: nel peggiore dei casi vivono troppo a lungo e trascorrono gli ultimi anni miserabili nella povertà; nel migliore dei casi (e si tratta comunque di un pessimo “migliore”), muoiono troppo giovani, e devono subire l’infinita umiliazione della morte scoprendo che avrebbero potuto guadagnare di più se avessero fatto calcoli più accurati.”
+
+“Vi parlo francamente, miei nipoti (nonostante la differenza d’età e il rispetto che dovete avere per me in quanto capofamiglia): quando ammetto una tale profondità di degradazione. Non ho messo da parte quel milione che avevo guadagnato; l’ho utilizzato al meglio. Ma la mia mente era occupata (anche dopo tanti anni mi vergogno ancora a ricordarlo, ) nella ricerca di un modo sicuro e permanente per generare entrate, in modo da non dover più affrontare il rischio di comprare a basso prezzo e vendere a alto prezzo, né la responsabilità di cercare persone ingannevoli o incompetenti da sfruttare.”
+
+Mentre riflettevo su come ottenere al meglio questo tempo libero, mi venne in mente la tentazione. Poiché un viaggiatore che arriva nella Città del Ponte dovrebbe far sapere ai commercianti del luogo che il Re di un'isola chiamata Izmar, situata a una giornata di vela dalla costa (un regno rinomato in tutta l’Asia per la sua fedeltà al Profeta, l’antichità delle sue usanze e la solidità delle sue istituzioni), aveva bisogno di un prestito.
+
+“‘A quale scopo?’ gli chiesi.”
+
+“Non lo so,” rispose, “ma penso che sia necessario per ripagare un altro prestito che ha contratto alcuni anni fa, nel tentativo di saldare un altro prestito che suo padre aveva contratto qualche anno prima, quando era stato costretto a restituire un prestito precedente.”
+
+“Ammiravo l’ansia scrupolosa di questo monarca e ne ero ancora più convinto riguardo al progetto che stava prendendo forma nella mia mente. Quella stessa notte, non senza tristezza, presi congedo dalla Città del Ponte. Vendetti i miei schiavi e la mia casa, subendo qualche perdita (tanta era la mia ossessione, ), e prima dell’alba partii su un buon cavallo, portando con me il mio milione di dinari ridotti a centomila pezzi d’oro; in questa forma, potevano facilmente essere trasportati da alcuni animali da soma che mi seguivano insieme ai loro conducenti.”
+
+“Il mio viaggio per mare è stato facile. Al sorgere del sole ho visto bellissime montagne a sud; poco dopo ho distinto, alla loro base sulla riva, le mura, i moli e i minareti di una grande città, i cui fianchi si affacciavano sul mare. Così sono sbarcato sotto un buon presagio.”
+
+“Tutto ciò che si trovava in quel luogo, mentre lo attraversavo, sembrava sorridere al mio progetto: la ricchezza delle grandi case, il movimento incessante del commercio nelle strade, il porto pieno di navi provenienti da ogni parte, i suoni di lingue straniere (uomini non solo provenienti da tutto l’Islam, ma anche da Nazaret, dai Kafir e dai mercanti cinesi), l’eccellente ordine che regnava ovunque. Tutto ciò mi prometteva la sicurezza di cui avevo bisogno.”
+
+“Mi vestii con i miei abiti migliori, adornati di frange fini, e indossai tutte le mie gioielli; poi mi presentai al Capo del Porto come se si trattasse di un affare di stato, consegnandogli, con aria solenne, un rotolo che chiesi fosse inviato ai Responsabili del Tesoro. Il Capo del Porto mi trattò con il rispetto che il mio patrimonio meritava. Mi riposai per un’ora nel cortile della sua residenza, ascoltando il piacevole suono di una fontana, in attesa delle decisioni delle autorità. Dopo un’ora, una dozzina di cavalieri, magnificamente bardati e recanti gli stemmi del Re, si presentarono davanti al portico della mia dimora. Il loro comandante scese da cavallo e mi pregò, con grande umiltà, di montare in sella; disse che per lui sarebbe stato un onore tenere le redini del mio cavallo.”
+
+“Era mio desiderio mantenere lo stato in cui mi trovavo; perciò, con grande pompa, fui condotto attraverso le affollate strade fino a raggiungere un vasto arco decorato interamente con testi sacri. Passando oltre, entrai in un cortile ancora più maestoso di quanto avessi mai immaginato che gli uomini potessero costruire in questo mondo. Infatti, la gente aveva raccontato storie secondo cui quel luogo non era frutto dell’opera umana, ma che i suoi delicati pilastri, le colonne di alabastro e gli incantevoli archi, sempre più leggeri man mano che si innalzavano verso il cielo, erano sorti all’improvviso per ordine degli spiriti ai tempi di Solimano, da cui i monarchi di quest’isola felice sostenevano di discendere.”
+
+“Il mio arrivo fu accolto dal suono delle trombe, come se fossi un qualche ambasciatore; le mie vesti, i miei gioielli e la mia lettera ebbero proprio quell’effetto. Senza indugio, fui accompagnato dai servitori del palazzo davanti al Consiglio.”
+
+“La mattina era ormai avanzata, il caldo aumentava, ma l’appartamento in cui mi trovavo (arredato con i piastrelli e gli arazzi più costosi delle Indie) era molto fresco; inoltre, il piacevole suono dell’acqua che scorreva da una fontana profumata rinfrescava l’aria.”
+
+Davanti al trono, in ordine rispettoso, stavano i dodici consiglieri del Re; e Lui stesso, su un trono di marmo, squisitamente lavorato e venerabile per l’età, vi sedeva: un giovane dal volto sognante, malinconico, ma piacevole da vedere. Mi inchinai molto leggermente al suo avvicinarsi, sorrise dolcemente mentre lo facevo e mi accolse con gentilezza. Ecco com’era il Re. A mia volta, m’inchinai profondamente davanti a Lui fino a quando non mi ordinò di alzarmi.
+
+“La nostra trattativa si concluse in poco tempo. Il Gran Vizier, che si era avvicinato e si era posto alla destra del trono, mi pose alcune domande: se avevo con me il mio tesoro, se fossi in grado di presentarlo entro una certa data, e così via. Risolsi le sue dubbi facendo segno ai miei attendenti di portare i pacchi. I pacchi furono aperti davanti agli occhi del Consiglio e, in quella seduta, tutto fu sistemato. Poiché le condizioni che proposi risultarono sufficientemente adeguate. Vi ho detto, cari nipoti miei (e lo confesso di nuovo con vergogna), che in quel momento il desiderio di comodità aveva preso il sopravvento nella mia mente, invece di pensare a ulteriori guadagni. Chiesi molto modestamente non più di cinque dinari all’anno su cento; dissi al Consiglio e a Sua Maestà che, per i milioni di dinari disponibili, avrei chiesto soltanto cinquantamila all’anno come reddito, da pagare nelle date che loro avrebbero stabilito.”
+
 
 
 <span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_03" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 3)" data-chapter="ENTITLED MILH OR SALT" data-kind="excerpt" data-tags="concept/satire_of_society,concept/class_conflict,concept/poverty,concept/hypocrisy,form/satire,form/fable,histref/islam,setting/island"></span>
@@ -3279,6 +3963,34 @@ ran the what is called among the mighty ‘The Operative Clause: the Words of Po
 “Thus, one would maintain the magnificent breed of horses by his devotion to the chase; another would support the industry of the goldsmith by his frequent purchase of ornaments; another would, as a local magistrate, condemn the poorest of his district to various terms of imprisonment; another, though in no way bound to do so, would write a book — the description, perhaps, of his tastes in food, or a recollection of those men and women of the wealthier sort whom he had met in the course of his useful life. Yet another would contribute to the health of the State by the continual practice of commerce, to which these people were very much devoted. There was hardly one of this rich class in which I now mixed, but had his chosen work thoroughly accomplished. The content of the poor, the public spirit of the rich, welded the whole of that society into a sort of paradise; but most noble of all and most worthy of this people was this young Tribune Tarib.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tutti annuirono seriamente; il Re mi lodò gentilmente per il mio spirito pubblico, poiché, per il momento (come ebbe la bontà di dire), mi considerava un suddito.
+
+“Guardò intorno i suoi consiglieri come se cercasse un suggerimento; quando uno di loro, di nome Tarib (che mi era già piaciuto per il suo bel viso intelligente), disse con voce ferma: ‘L’imposta sul sale’, tutti, incluso il re stesso, mormorarono in segno di approvazione.”
+
+“Fu allora che appresi che, per molte generazioni, il popolo di questo ricco e fortunato regno aveva pagato allo Stato una tassa fissa sul sale, la quale ammontava, in media, all’importo che io stesso avevo richiesto. Questa tassa veniva regolarmente riscossa; infatti tutto il sale di questa regione proveniva dal mare e la imposta veniva addebitata ai porti d’ingresso. Il Consiglio redasse un documento ufficiale in termini semplici. Su mia stessa richiesta, fu deciso di non rendere noto il mio nome al popolo, per evitare che l’odio derivante dall’accettare tributi potesse essere associato a qualcuno arrivato così di recente tra loro. Ma il Re, mentre firmava il documento, mi assicurò che non era odio, ma gratitudine ciò che mi spettava: da parte sua, non avrebbe mai smesso di credere che io fossi stato motivato a fare una proposta così generosa da un particolare affetto verso di lui e verso il suo popolo.”
+
+Le stanze del palazzo furono messe a mia disposizione finché non avessi avuto il tempo di scegliere una casa in città; data l’importanza delle mie relazioni con lo Stato, fui anche ammesso al Consiglio insieme agli altri.
+
+“Mentre leggevo da solo il mio Statuto, nella tranquillità della mia stanza, notai con piacere la formulazione breve e semplice di questo grande documento commerciale.”
+
+“A Mahmoud, ai suoi successori ed eredi per sempre, finché lo Stato esisterà e la tassa sul sale verrà riscossa.”
+
+Ricordavo quella che tra i potenti viene chiamata “La Clausola Operativa: Le Parole del Potere”. Riuscii a memorizzarla in un attimo. Non potei fare a meno di scriverla più volte con le mie stesse mani, per il piacere che mi dava.
+
+“Ecco dunque realizzati tutti i miei desideri! Qui c’era la migliore compagnia, la posizione più nobile, il clima più incantevole, un ambiente di ricchezza, lusso e comodità; la cultura di mille anni; tutto ciò che la nostra religione permette in termini di arte e intrattenimento. Libri di ogni lingua e regione del mondo; merci di ogni tipo provenienti da ogni popolo e epoca. Qui, davvero, avrei potuto vivere la mia vita senza ulteriori avventure o difficoltà. Quello che mi piaceva di più era il pensiero di poter evitare alcune piccole pressioni che, pur non riguardando la mia coscienza, avrei potuto subire nella dura lotta del mondo esterno. Nessuno qui conosceva le mie umili origini, né i particolari talenti grazie ai quali ero riuscito a arricchirmi così rapidamente.”
+
+“Ora ero uno dei grandi signori, ma molto presto le basi della mia fortuna sarebbero scomparse nelle nebbie del tempo. La gente avrebbe facilmente creduto che i miei antenati l’avessero conquistata con la spada in mano, quando per la prima volta la bandiera del Profeta fu vista su quelle colline trecento anni fa.”
+
+“Non vi tratterrò con descrizioni dei momenti felici che ho vissuto, né con dettagli riguardanti la mia grande gioia. Avevo raccolto in biblioteca rotoli provenienti da ogni parte del mondo; possedevo i materiali più preziosi e indossavo, insieme ai miei attendenti, le gemme più rare. La mia principale soddisfazione consisteva nel radunare intorno al mio tavolo un piccolo gruppo di persone fidate; tra queste c’era quel giovane serio e intelligente del Consiglio che avevo notato al mio arrivo. Il suo nome semplice era Tarib; appresi che suo padre non era altro che un rispettato mercante di carne. Alla sua morte gli lasciò un reddito sufficiente, e lui lo aumentò ulteriormente grazie alle sue funzioni pubbliche, fino a raggiungere uno dei più alti incarichi dello Stato. Il suo compito specifico nel Consiglio era quello di informare il Re su qualsiasi movimento popolare avvenisse all’estero, poiché conosceva tutte le classi sociali della città. Era l’intermediario tra il Re e il popolo; in un certo senso veniva considerato una sorta di tribuno. O, come si definiva ufficialmente, ‘Il Doppio’: un titolo che risaliva a secoli fa. Alcuni lo attribuivano alla doppia funzione che svolgeva, altri all’atteggiamento che l’etichetta richiedeva da lui verso il Monarca e i sudditi. Ancora altri pensavano che derivasse dagli emolimenti legati al suo incarico.”
+
+“Grazie a lui ho imparato a comprendere questa gente gentile, laboriosa e estremamente leale. Durante le mie passeggiate con lui e frequentando regolarmente i suoi discorsi pubblici, ho avuto modo di conoscere meglio quel tratto caratteristico del popolo di Izmat che aveva portato alla loro grande reputazione in tutto il mondo.”
+
+“Era il loro orgoglio quello che li impediva di scuotere lo Stato con cambiamenti violenti, ma piuttosto di adattarsi, generazione dopo generazione, al corso degli eventi attraverso riforme graduali e ben ponderate. Disprezzavano le nazionalità governate da tradizioni meno forti; per un uomo di grande fortuna come me, quindi, era un pensiero sempre piacevole – potrei dire la base della mia felicità – considerare la pace e la solidità che mi circondavano. Quella parte della popolazione (circa la metà) che viveva sull’orlo della fame si accontentava coraggiosamente della propria sorte; e se mostrava qualche segno di lamentela, veniva immediatamente placata quando le veniva ricordato il proprio vantaggio rispetto a quei miserabili stranieri del Continente. Quanto a coloro che, come me, disponevano di immense ricchezze e vivevano in grandi palazzi, erano troppo devoti alla Comunità per anche solo pensare di lamentarsi della propria sorte. Al contrario, esprimevano spesso la loro devozione allo Stato e al Re, dimostrandola con il fatto che dedicavano, gratuitamente, fino a tre ore al giorno al bene comune; o addirittura quattro, quando c’era molto da fare.”
+
+“Così, uno avrebbe mantenuto la magnifica razza di cavalli dedicandosi alla caccia; un altro avrebbe sostenuto l’attività dell’orefice acquistando spesso ornamenti; un altro, in qualità di magistrato locale, avrebbe condannato i più poveri della sua zona a varie pene detentive; un altro, anche se non era affatto obbligato a farlo, avrebbe scritto un libro: forse una descrizione dei suoi gusti alimentari, o un ricordo di quelle persone benestanti che aveva incontrato nel corso della sua vita. Ancora un altro avrebbe contribuito alla salute dello Stato praticando costantemente il commercio, attività a cui queste persone erano molto devote. Quasi nessuno di questa classe ricca, tra quelli con cui ora mi mescolavo, non svolgeva appieno la propria attività scelta. La povertà dei poveri e lo spirito pubblico dei ricchi univano l’intera società in una sorta di paradiso; ma il più nobile e degno di questo popolo era senza dubbio quel giovane tribuno Tarib.”
+
 
 
 <span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_04" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 4)" data-chapter="ENTITLED MILH OR SALT" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/democracy,concept/hypocrisy,concept/the_power_of_language,form/satire,form/fable,histref/islam,setting/island"></span>
@@ -3306,6 +4018,30 @@ ran the what is called among the mighty ‘The Operative Clause: the Words of Po
 
 “At this phrase the exultation of the Lord Chief Treasurer knew no bounds, and he led the stream of cheering which it so richly deserved. ‘How long are we to wait for that reform which our fathers — especially among the gentry — demanded and so nearly obtained?’ He looked round upon them for a moment in a dramatic pause, and then said in solemn tones, ‘A tax upon the worthless rich, and more especially’ (yet louder) ‘upon the alien rich and more especially still’ (his voice now booming like a hammering of drums) ‘upon the alien rich who stand idle fattening upon the revenues of the State, this I say....’ But the delirium of acquiescence aroused by this noble sentiment cut off the rest of his phrase and drowned his voice for the space in which a man might recite the prayer for the Caliph.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Era lui che parlava senza sosta e davanti alle più grandi assemblee, creando così un gusto per il dibattito pubblico. Era lui che discuteva di soluzioni pratiche ogni volta che sorgeva dissenso, e che analizzava nei dettagli i rapporti riguardanti la situazione delle persone affamate. Per migliaia di persone a cui si rivolgeva, il suo modo di parlare non mai diventava noioso. La sua eloquenza era sobria; i suoi discorsi contenevano lodi per Izmat e citazioni dai Libri Sacri, oltre a battute famose – cose che questa gente pratica preferiva di gran lunga alle vuote teorie del Continente. Tutto andava bene. E io (ignaro del futuro, ahimè!) seguivo quella strada della politica che il mio amico mi aveva indicato, senza sapere dove mi avrebbe portato.”
+
+“Non parlavo spesso nelle riunioni pubbliche che si tenevano così frequentemente (erano davvero un nobile passatempo per questo popolo patriottico), per non far perdere dignità al mio accento straniero. Infatti, non padroneggiavo ancora completamente la lingua, anche se erano già trascorsi due anni da quando ero diventato cittadino e suddito del Monarca a cui tutti noi eravamo così devoti. Ma mi sedevo accanto al mio amico Tarib e ad altri mentre esortavano la gente nelle piazze della città o, talvolta, anche nelle moschee. In tali occasioni, i miei sorrisi e gli applausi dimostravano il mio apprezzamento per tutto ciò che veniva detto a beneficio dei poveri o dei ricchi, a seconda del caso; ridevo sempre delle battute rituali, a volte anche prima ancora che venissero pronunciate. In questo modo, ho iniziato a conoscere molte persone della capitale e di molte città provinciali, sperando così di guadagnarmi la simpatia generale.”
+
+“Ero presente quando Ibn Rashn tenne il suo grande discorso davanti a una vasta folla, denunciando la pratica straniera di sposare una quinta moglie – una abominazione che rischiava di essere introdotta nella sua amata terra. Ero anche presente quando lo stesso uomo, grande ed eloquente, tenne il suo secondo discorso, sostenendo con forza l’importanza delle quinte mogli e facendo approvare questa riforma come legge. Seduto insieme ad altri sul podio che circondava l’oratore, applaudii il Gran Vizier per la sua solenne dichiarazione contro la rasatura, una pratica (disse lui) odiosa per ogni vero credente, e ascoltai i ragionamenti a favore e contro questa usanza; che, sono lieto di dire, fu in seguito repressa con la massima severità della legge. Ma i ricordi più felici per me rimangono quei numerosi giorni in cui il mio caro amico Tarib – che non poté mai essere accusato di nulla di meschino – esprimeva appassionatamente il suo sostegno alla povertà dei comuni cittadini, esaltandone l’orgoglio e la gloria nazionale nel non fare nulla per cambiarla; principi che furono accolti con entusiasmo da tutti. Questo spirito era tipico di questa felice terra, e nessuno lo espresse in termini più saggi o memorabili di lui, che ormai era il mio carissimo amico.”
+
+“Ma arrivò un momento – ero ormai a Izmat da circa tre anni – in cui divenne chiaramente necessario cambiare approccio.”
+
+“Nel momento di cui parlo, c'era un po' di agitazione in città a causa della carenza di riso, che rappresentava l'alimento principale delle classi più povere; o almeno, era così quando riuscivano ad ottenerlo. Infatti, in questa gente conservatrice era radicata l'abitudine che, quando le classi povere non riuscivano a procurarsi il riso, dovessero farne a meno.”
+
+“A questo punto, le difficoltà avevano colpito anche le classi medie, che si unirono al popolo. La situazione divenne sempre più difficile per tutti. Si diffusero lamentele riguardo alle restrizioni: da coloro che morivano di fame fino ai mercanti e ai signori stessi. Anche le persone moderatamente ricche non riuscivano più a permettersi i servizi di più di una dozzina di ballerine.”
+
+“L’intera isola era nel caos; la capitale era così turbata che a volte si poteva pensare di trovarsi tra le tribù degenerate della terraferma.”
+
+“Le processioni erano apparse per le strade, a volte accompagnate addirittura da strumenti musicali di suono forte e fastidioso. Venivano portati cartelli, e in un’occasione lo stesso Carnefice fu trattenuto per mezz’ora a causa della folla che si era radunata ad ascoltare un oratore molto popolare. Il Consiglio aveva preso atto di queste situazioni, e naturalmente il mio amico il Tribuno Tarib, il “Signore delle Doppie Manovre”, fu incaricato di intervenire a suo modo inimitabile.”
+
+“Si recò a piedi alla vasta assemblea convocata nella Moschea di Nasr-ed-din, fondatore della dinastia. Anche noi lo seguimmo, con umiltà, per compiacere maggiormente l’opinione pubblica. Insieme ad altre una dozzina di persone della mia stessa posizione, ci sedemmo su un tappeto proprio ai piedi dell’oratore e ascoltammo incantati le sue parole appassionate.”
+
+“Non l’avevo mai sentito così ispirato! Fu un discorso davvero straordinario: le parole si susseguivano rapidamente, spesso prive di senso ma mai pedanti; in tutto il suo discorso fece attenzione ad inserire brevi passaggi che anche l’intelligenza più semplice potesse comprendere facilmente e che corrispondevano esattamente ai desideri degli ascoltatori. ‘Perché dovreste morire di fame?’ gridava, ‘mentre intorno a voi c’è abbondanza? Di quella abbondanza i ricchi saranno i primi a privarsi.’ Mormori di applausi si alzarono dalle labbra del Tesoriere e del Gran Vizier; io stesso – non mi vergogno di ammetterlo – esultavo apertamente per quel messaggio. ‘Perché,’ continuava, ‘mancate della vostra misera razione di riso, mentre i ricchi’ – e guardò intorno alle gallerie come se li vedesse lì – ‘si saziano dei più deliziosi piatti, preparati con carne di agnello farcita di pistacchi? E chi può biasimarli?’ Un altro applauso scosse l’aula; anch’io partecipai con ancora maggiore entusiasmo, perché quelle parole mi ricordavano quel delizioso cibo che, appena un’ora prima, avevo gustato in abbondanza. ‘Perché,’ gridò ancora più forte, ‘vi lasciate opprimere da un onere fiscale insopportabile? Un onere che anche le nostre classi più ricche sopportano in modo eccessivo?’”
+
+“A queste parole, l’esultanza del Primo Tesoriere non conosceva limiti; egli guidò quel coro di acclamazioni che tali parole meritavano ampiamente. ‘Per quanto tempo dobbiamo ancora aspettare quella riforma che i nostri antenati – soprattutto tra la nobiltà – chiedevano con tanta insistenza e che quasi avevano ottenuto?’ Si guardò intorno per un momento, in un’effetto drammatico, poi disse con toni solenni: ‘Una tassa sui ricchi inutili. E soprattutto,’ aggiunse ancora più forte, ‘su quei ricchi stranieri che, senza lavorare, si arricchiscono a spese delle entrate dello Stato. Questo è ciò che propongo, ’ Ma l’euforia generale provocata da questo nobile sentimento interruppe il resto del suo discorso, soffocando le sue parole nel fragore delle acclamazioni.”
 
 
 
@@ -3335,6 +4071,30 @@ ran the what is called among the mighty ‘The Operative Clause: the Words of Po
 “These commonplaces fell mournfully upon my ears. I made no attempt to reply. His Majesty was pleased to say a few sympathetic words. The Tribune Tarib, who evidently felt embarrassed by my position and by his memories of our past friendship, most earnestly protested that his whole object had been to stem the growing dangerous demand — nay, he would go so far as to say perilous demand; nay more, a minatory demand; yea, a threatening demand. Had he not stemmed the demand as he had it would have had tremendous consequences in the way of demand. The great lord whose special function on the Council was solemnity and who was known by the title of His Impressiveness, opened his mouth in the midst of his prodigious beard to say that he thoroughly agreed with these sentiments.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Essendo abituato a questo stile di eloquenza pubblica e all’espressione di opinioni tipiche di questo popolo felice (che, pensavo, fossero strettamente legate all’atmosfera stessa della loro razza), mi aspettavo naturalmente che, quando il calare degli applausi gli avesse permesso di essere ascoltato, si sarebbe udita quella seconda parte che caratterizzava sempre i suoi discorsi: un appello agli istinti conservatori della nostra razza, alla loro nobile pazienza e alla loro tenace determinazione nel non compiere nulla che potesse farli invidiare dai loro vicini meno dotati.
+
+“Sono stato terribilmente ingannato!”
+
+“Quali furono le sue parole successive? Riuscivo a malapena a credere alle mie orecchie quando le udii. ‘Perché,’ disse lui con tono grave e tragico, articolando lentamente ogni sillaba, ‘perché continuate ad essere schiacciati da un'ingiustizia come quella delle tasse sul sale?’”
+
+“Il mio cuore si fermò. Mi avvicinai con cautela per toccargli il piede con il mio, che era il più vicino. Lui rispose calpestando con forza il mio dito del piede; interpretai questo gesto come un segno di amicizia segreta. Tuttavia, fui terribilmente preoccupato quando notai che i nobili locali, seduti sulla stessa piattaforma di me, scuotevano la testa all’unisono in segno di accordo, interrompendo così il terribile silenzio che seguì quel gesto.”
+
+“Quel silenzio non durò a lungo. Ancora una volta, ma con maggiore determinazione e speranza più grande, dall’immensa folla si levò lo stesso tumulto di applausi. Tutti si alzarono in piedi. Qualcuno iniziò a cantare, poi tutti cantarono all’unisono il loro famoso inno, che con parole e melodia commoventi chiede se un certo Hussein debba morire, e afferma con estrema veemenza che, qualora ciò dovesse accadere, non meno di ventimila abitanti della provincia peninsulare di Bar-el-sul richiederebbero una spiegazione completa di quanto accaduto. Queste parole potrebbero sembrare inappropriate a uno straniero, ma nell’atmosfera dignitosa e fortemente nazionalista di Izmat il loro significato è ben compreso. Possono adattarsi quasi a qualsiasi occasione di passione popolare, e in questo momento, senza dubbio, potrebbero essere interpretate come un grido che dice: ‘Via Satana con la tassa sul sale!’”
+
+A quel punto ero completamente congelato fino alle ossa. Ero confuso. Non potevo dubitare dell’amicizia tra Tarib e me: gli avevo reso così tanti favori. Anche ora, guardandolo, lo trovavo molto simpatico, e così familiare! Non potevo mettere in dubbio l’efficacia di una conversazione intima e frequente; né i miei ospiti e colleghi, i Consiglieri che per tre anni avevano partecipato con me alle riunioni del Divan al fianco di Sua Maestà, lavorando insieme come alcuni dei principali ministri.
+
+“Le parole successive, sebbene leggermente, mi rassicurarono. Erano nel solito stile che conoscevo così bene: in passato, la gloria nazionale derivante dall’agire senza fare nulla veniva espressa con particolare abilità. Il Signor Doubler assunse un’espressione compassionevole e aprì la bocca, la cui forma ora poteva essere paragonata a quella di una ferramenta da cavallo. ‘Non lasciate che vi susciti un’ira violenta, amici miei,’ disse, ‘lasciamo che la follia vendicativa appartenga ai miseri popoli del continente. Noi, ad Izmat, grazie ad Allah, non perderemo mai la nostra dignità in semplici liti. Limitiamoci agli strumenti costituzionali: sono gli unici attraverso i quali si possono ottenere risultati concreti.’ Anche questa volta ci furono applausi; più sommessi, certo, rispetto a quelli precedenti, ma sinceri. ‘I miei amici intorno a me,’ aggiunse, sorridendo a tutti i Consiglieri, compreso me, ‘delibereranno, come sempre, per il bene pubblico, e scoprirete che le nostre raccomandazioni, presentate al Suo Maestà con la relativa Proclamazione, saranno l’inizio di tempi migliori. Non possiamo dire che tutto questo male venga immediatamente rimediato. Siamo gente pragmatica, come ho già detto in precedenza. Avete davvero chiesto a me giustizia; ma siamo, lo ripeto, persone pragmatiche. Non tentiamo l’impossibile, né distruggiamo l’antico quadro istituzionale del nostro Stato. Passo dopo passo: questa è la nostra filosofia. Un problema alla volta. Il progresso dei sudditi del Suo Maestà verso la libertà e la felicità si è ampliato, in modo impercettibile, grazie a decisioni prese nel corso del tempo. Come ha detto così bene il nostro grande poeta. E ancora: non una volta sola, né due volte, nella sequenza tutt’altro che liscia delle nostre attività, l’esecuzione quotidiana dei nostri compiti si è rivelata un passo verso la distinzione.’ Queste parole – che nell’originale costituivano nobili versi poetici – furono il conclusivo appropriato di uno di quei grandi discorsi che, di tanto in tanto, determinavano il destino di Izmat.”
+
+“Tutti ci alzammo; il pubblico, i Consiglieri e lo stesso oratore si unirono nel recitare quella parte del Corano che descrive la visita di Maometto alla luna (un rito religioso molto caro a questo popolo). Poi cantammo una preghiera ad Allah affinché proteggesse Sua Maestà il Re e gettasse nel più totale disordine eventuali nemici di quel monarca. Infine uscimmo dalla Moschea, in migliaia, nella frescura della sera che calava. Quell’incontro grandioso, storico, e fatale, era durato quattro ore!”
+
+Il Consiglio fu immediatamente convocato e, dopo aver reso omaggio al Re sul suo trono, la loro prima azione fu assicurarmi, uno per uno, che non era mai stata presa in considerazione l’idea di attaccarmi, nemmeno per un istante.
+
+“‘Sì, mio caro Mahmoud,’ disse il Gran Vizier, posando la sua mano con familiarità sulla mia, che giaceva inerte sulle mie ginocchia, ‘è proprio il principio della questione che dobbiamo considerare. È questo l’importante.’ Premette ancora la mia mano. ‘Per quanto ti riguarda, Mahmoud, come sai, abbiamo per te un rispetto che va oltre ogni limite, ma dobbiamo muoverci in linea con i tempi. Le cose non sono più quelle di una volta. L’evoluzione è meglio della rivoluzione. Se non ci riformiamo noi stessi, saranno le circostanze a farlo al nostro posto. Riparare o distruggere. Cosa disse il Sultano Omar nel trentasettesimo anno dell’Egira del Profeta?’”
+
+“Queste banalità mi colpirono dolorosamente le orecchie. Non cercai nemmeno di rispondere. Sua Maestà ebbe la gentilezza di dire alcune parole di comprensione. Il Tribuno Tarib, che evidentemente si sentiva imbarazzato dalla mia situazione e dai ricordi della nostra vecchia amicizia, protestò con grande sincerità affermando che il suo unico scopo era stato quello di fermare quella richiesta sempre più pericolosa, anzi, addirittura minacciosa. Se non l’avesse fermata, ne sarebbero derivate conseguenze terribili. Il nobile signore il cui compito principale nel Consiglio era rappresentare la solennità, e che era conosciuto con il titolo di ‘Sua Imponenza’, aprì bocca tra la sua folta barba per dichiarare di essere completamente d’accordo con queste opinioni.”
+
 
 
 <span class="atom-split" data-atom="chapter_05_entitled_milh_or_salt--part_06" data-title="The Mercy of Allah — Chapter 5: ENTITLED MILH, OR SALT (part 6)" data-chapter="ENTITLED MILH OR SALT" data-kind="excerpt" data-tags="topos/fortunes_wheel,concept/money_and_avarice,concept/economics,concept/social_injustice,form/satire,form/fable,histref/islam,setting/island"></span>
@@ -3362,6 +4122,31 @@ That is:
 
 The Lawyers
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Per quanto mi riguarda, non dissi nulla; rimasi seduto in silenzio, rassegnato, senza vedere alcun problema nel fatto che coloro che volevano potessero fare ciò che desideravano con me e con le mie cose. Ascoltai il loro dibattito; mi chiesero di firmare le loro conclusioni. Lo feci con riluttanza, con mano incerta; e mentre scrivevo il mio nome e apponevo il mio sigillo, lessi il testo della Proclamazione e provai un certo sollievo nel scoprire che la tassa sul sale non era stata abolita, ma soltanto ridotta a metà; inoltre, la perdita derivante da questa riduzione sarebbe stata compensata con una nuova tassa pari a un dinaro su cento – una somma davvero moderata.”
+
+“Dopo questa terribile esperienza (la data rimarrà incisa nella mia anima per tutta la vita! Era l’anniversario del giorno in cui mio nonno, vostro bisnonno, cari ragazzi, fu impiccato) camminavo avanti e indietro da solo nel mio cortile; il continuo mormorio delle mie amate fontane non mi rasserenava più. Non avevo alcuna voglia di prendere in mano uno dei miei famosi rotoli, né tantomeno di giocare con i numerosi circassi che avevo fatto venire a caro prezzo nei mesi precedenti. Il mio petto e la mia fronte erano contratti. E io ero stanco della vita.”
+
+“Ma dopo alcune ore di queste tristi riflessioni, mi vennero in mente alcuni pensieri di speranza. ‘Dopotutto,’ mi dissi, ‘ci devono essere alti e bassi nella vita. Molti uomini hanno perso una fortuna per poi riacquistarla. Il mio reddito è diminuito della metà, ma ciò che rimane è comunque sufficiente.’ Potrei ancora considerarmi un uomo estremamente ricco, tra i più ricchi dello Stato. Quella piccola tassa imposta sul mio reddito non mi dispiaceva, poiché colpiva anche i redditi degli altri.”
+
+“Ma avrei dovuto scoprire quale amara verità si nascondeva dietro le continue lodi di queste persone, secondo cui procedevano passo dopo passo, lentamente, una cosa alla volta, e così via. Non era trascorso nemmeno un mese che venne emessa una modifica alla prima normativa: a causa di alcune voci circolanti in piazza, si decise che l’imposta sul reddito dovesse assumere una forma più complessa. Inizialmente doveva essere calcolata su una base di un dinaro ogni cento, ma poiché era troppo oneroso imporre anche questo piccolo carico ai cittadini più poveri, si decise che avrebbero dovuto pagarla soltanto coloro che guadagnavano almeno mille dinari; inoltre, questa percentuale doveva aumentare rapidamente con l’aumentare del reddito. Per una persona come me, arrivò addirittura a un quarto del totale! Ma c’era di peggio, ”
+
+“Cedendo alle forti pressioni del popolo, l’imposta fu raddoppiata per coloro di origine straniera. Per coloro il cui reddito proveniva in qualsiasi modo dalle entrate dello Stato, l’imposta fu raddoppiata ancora una volta. Fecero eccezione i Consiglieri: secondo la Proclamazione, infatti, i loro stipendi erano pagati dal Sovrano stesso, e ridurli significava semplicemente prendere denaro con una mano per restituirlo con l’altra. Per un momento ho sperato di rientrare in questa categoria. Ma no! In una clausola successiva si specificava chiaramente che tale disposizione si applicasse soltanto agli stipendi effettivamente pagati dal Tesoro, e non alle rendite garantite o derivanti direttamente dalle entrate pubbliche. E il mio stipendio era l’unico di questo tipo in tutto il Consiglio!”
+
+“C'era ancora di peggio. Apparve una nuova e infame regolamentazione secondo cui un uomo doveva pagare non in base a ciò che aveva effettivamente ricevuto, ma in base a ciò che aveva ricevuto nel corso di tre anni: un lasso di tempo esattamente corrispondente alla mia permanenza sull’isola e legato ai miei ingenti guadagni del passato. Era evidente che ero rovinato. La notte successiva alla pubblicazione dell’ultimo di questi decreti ufficiali, feci un rapido calcolo. Dopo aver valutato ciò che mi restava del mio patrimonio (avevo già venduto la maggior parte dei miei beni mobili e mi ero trasferito da un grande palazzo in una dimora modesta), scoprii di avere in mano, in totale, meno di mille dinari.”
+
+“Non sapevo come guardare il mondo intorno a me. Sembrava che tutta la mia essenza fosse svanita. Guardavo il giorno spegnersi, e insieme a esso svaniva anche il mio spirito. Tornai nella mia misera stanza e, molto tardi, perso o quasi perso in me stesso, lasciai che le mie sofferenze si dissolvessero in un sonno imperfetto.”
+
+L’uomo anziano concluse il suo discorso e chinò la testa in un silenzio solenne. I suoi giovani nipoti, rendendosi conto di quanto sia sacra la morte, soprattutto la morte di Money, uscirono dalla stanza in punta di piedi e scomparvero.
+
+# Al-Wukalá
+
+Titolo:  
+Cioè:
+
+I Avvocati
 
 
 
@@ -3402,6 +4187,42 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 
 “Half persuaded by such insistence, I followed my friend to a house where, seated in the midst of commentaries upon the law, of metal boxes containing the shameful secrets of great families and the record of their indebtedness, sat an elderly man, whose face reminded me, I know not why, of a vulture.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VI. INTITOLATO AL-WUKALÁ, O GLI AVVOCATI
+
+Quando i nipoti entrarono di nuovo nella presenza di loro zio all’ora delle esecuzioni pubbliche, lo fecero con grande tristezza, come si farebbe a un funerale, poiché i loro pensieri erano pieni di quel grande lutto di cui si stava raccontando la storia. Si sedettero sul pavimento davanti a lui in ordine, e Mahmoud iniziò:
+
+“All’alba che seguì quella notte disperata, le mie speranze si rialzarono, solo per subire nuove amarezze e delusioni. Mi ero alzato prima dell’alba ed ero uscito di casa. Un conoscente occasionale mi incrociò mentre camminavo senza meta per le strette strade della città, osservando le ombre accorciarsi sotto il sole nascente, ascoltando le voci chiare dei venditori d’acqua e i richiami dei marinai al loro lavoro.”
+
+“Questo conoscente era molto erudito in materia legale. Non che fosse lui stesso un avvocato o un procuratore, né tantomeno un giudice; al contrario, era nato nella ricchezza, e persone in tali condizioni a Izmat tendono molto a evitare la noia di una professione. Tuttavia, da giovane suo nonno lo aveva costretto a leggere intere biblioteche di libri sul sistema giuridico del suo amato paese, e inoltre lo aveva costretto a pagare somme considerevoli a uno dei più rinomati avvocati dell’epoca, presso il quale trascorse tre anni terribili. Vedendo quanto fosse istruito e conoscendo bene le mie sfortune, mi prese gentilmente per il braccio (non potei fare a meno di sospettare che ci fosse una sorta di protezione da parte sua) e disse, ”
+
+“‘Ahimè, povero Mahmoud! Quanto ci sentiamo in pena per te. E quanto rispettiamo il modo in cui hai affrontato questa inevitabile sfortuna! Ma anche se ti lodo tanto quanto chiunque altro per il tuo comportamento e la tua rassegnazione, non credi di esagerare un po’? Noi, i liberi abitanti di questo nostro amato Izmat, godiamo di un privilegio straordinario: nemmeno il Re stesso (la gloria di Allah sia su di lui) ha alcun vantaggio rispetto al più umile dei suoi sudditi quando si tratta di questioni legali. I nostri giudici, come sai, sono al di sopra di ogni debolezza mortale e, come crediamo con profonda convinzione, sono ispirati dello stesso spirito di Dio. Anche se Sua Maestà e i suoi ministri fossero i tuoi avversari in un processo, la decisione verrebbe presa con totale imparzialità, indipendentemente dalla posizione sociale, dalla ricchezza o dal potere delle parti coinvolte. Lo credi davvero?’ insistette con sincera preoccupazione, poiché dubbi su una dottrina religiosa così fondamentale sono qualcosa di terribile per la nobile stirpe imperiale di Izmat.”
+
+“Sì, lo credo,” dissi sospirando, anche se devo ammettere che la mia breve esperienza con la sfortuna aveva scosso in molti modi la mia lealtà verso il mio nuovo paese.
+
+“‘Allora,’ disse lui, ‘perché non vi presentate in tribunale con la vostra denuncia? I nostri avvocati sanno trovare un motivo legittimo per qualsiasi causa, e potete essere certi che tutto ciò che possa esservi a favore verrà preso in considerazione senza alcuna restrizione. Se esiste anche solo una piccola possibilità, l’intera o parte della vostra fortuna potrà essere restituita a qualunque costo. Poiché è un principio fondamentale del nostro diritto insulare: se una causa viene decisa a favore del querelante, allora il querelante vince davvero.’”
+
+“Confesso che la mia conoscenza dei modi e delle abitudini delle persone straniere tra cui ho avuto la sfortuna di nascere mi ha fatto ritenere davvero inutile rivolgersi agli augusti giudici in una questione che riguardava un re, o chiedere aiuto agli ufficiali di Stato per ciò che lo Stato stesso mi aveva fatto. Negò decisamente l’idea che i giudici fossero degli ufficiali di Stato. Disse: ‘Non avete mai letto il famoso giuramento che ogni giudice pronuncia al momento dell’insediamento? Non sapete come viene eletto?’”
+
+“‘Sì,’ dissi, con un tono che non tradiva alcun entusiasmo, ‘so davvero come vengono nominati i giudici e quale giuramento prestano. Vengono nominati, (quante volte non ho visto il Firman firmato in Consiglio! Quante volte non ho apposto anche io il mio povero nome sopra di esso, ) Vengono nominati, secondo la regola generale, “da Sua Sacra Maestà, cioè dai familiari, dalle mogli e dai segretari delle persone più ricche, in modo del tutto casuale.” Queste sono proprio le parole dello Statuto.’”
+
+“‘Rispondi correttamente,’ disse il mio amico, sollevando nobilmente la testa. ‘Certamente una fonte di potere così imparziale deve farti sentire al sicuro! Nel detestabile Continente, il re nomina i suoi stessi giudici: è una tirannia a cui noi, ad Izmat, abbiamo da tempo rifiutato di sottometterci. Il nostro Monarca è il sovrano di uomini liberi! Lui disdegnerebbe influenzare le nomine; lascia questo compito ai suoi nobili, e questi, a loro volta, lo affidano alle loro donne e ad altri dipendenti. Così, solo noi tra tutte le nazioni disponiamo di una Corte dei giudici completamente indipendente! Ma c’è dell’altro: hai dimenticato il giuramento che prestano, mio amico, il giuramento che pronunciano al momento della nomina?’
+
+“‘No,’ dissi ancora, con stanchezza. ‘Me ne ricordo abbastanza bene. Anzi, l’ho imparato a memoria, perché l’ho letto centinaia di volte: “Giuro sul Dio Onnipotente e sui contenuti di questo libro che non mi allontanerò mai dalla giustizia, né per ordini, né per favori, né per vantaggi personali, né per alcuna altra considerazione, tranne che per gli interessi politici della mia classe o famiglia, del Gilda degli Avvocati a cui appartengo, o per altre ragioni che possano venirmi in mente.”’
+
+“Esatto!” disse il mio amico con toni trionfanti. “Beh, potresti desiderare una garanzia migliore?”
+
+“‘No’, dissi, ‘immagino di no.’”
+
+“Allora,” esclamò alzandosi, “lasciate che vi porti da un mio amico tra i migliori scribi della città; potete essere certi che tutto ciò che è possibile fare per voi verrà fatto.”
+
+“Non mi è rimasto molto della mia fortuna,” dissi timidamente, alzandomi come fece lui, ma riluttante a seguirlo.
+
+“‘Non temete nulla,’ rispose con entusiasmo. ‘In Izmat la giustizia non si compra né si vende. Certo, ci sono alcune spese necessarie. Ma la legge vi obbliga a non assumere avvocati: potete presentarvi voi stessi in tribunale. Questa libertà è uno dei nostri grandi privilegi; e credetemi, verrete ascoltati con pazienza e guidati con onestà, come se foste tra gli avvocati più illustri della città.’”
+
+“Parzialmente convinto da tale insistenza, seguii il mio amico in una casa dove, seduto tra commenti sul diritto, scatole di metallo contenenti i segreti vergognosi delle grandi famiglie e i registri dei loro debiti, c'era un uomo anziano il cui volto, per qualche motivo, mi ricordava quello di un avvoltoio.”
 
 
 
@@ -3491,6 +4312,90 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 “‘No,’ said he. ‘We must wait for that. The first Pleader, by name the Most Noble Ghadder, is of the opinion that you have a case founded upon the great principle of our Common Law, of which you, perhaps, as a foreigner, have not heard — it is the principle that “The subjects of the King can suffer no wrong.” But he warns you against relying upon the Statute passed in the first year of His Majesty’s father’s reign, called “A Statute for the Prevention of the Loss of Money by the Rich.” For this has been the subject of so many contradictory decisions that it is a very poor ground. He says, further, that there are certain case precedents which are interesting, and two of which, at least, in his judgment, could be urged upon your side. In one of these it was decided that if a man had more than a certain income no Order or Proclamation should be regarded as capable of prejudicing him or reducing his wealth. The question would thus lie as to whether or no at the time when the first change took place you fell within these limits. The second Pleader is of an exactly opposite opinion. He says ...’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ho portato con me, Kazib”, disse, “un cliente… Penso che lo riconoscerai.”
+
+“‘Sì, certamente,’ disse lo Scrivano, alzandosi con solennità e inchinandosi davanti a me. ‘Non è altri che il mio signore, il Consigliere Mahmoud.’”
+
+“‘Il titolo ormai è superfluo,’ dissi con un po’ di tristezza.”
+
+“Tuttavia, lo Scrivano continuò a darmelo con grande cortesia; quando il mio amico ci lasciò soli, raccontai tutta la mia storia. Man mano che i dettagli più importanti uscivano dalle mie labbra, il mio ospite li annotava su un piccolo taccuino con una penna sottile che portava sempre con sé. Quando ebbi finito, disse quanto segue:
+
+“Un caso come il tuo verrebbe sicuramente portato davanti al Tribunale dei Delitti di Carne.”
+
+“‘Di dolci?’ dissi io.
+
+“È un termine antico“, disse. “Amiamo queste tradizioni storiche.“
+
+“Esattamente,” risposi umilmente.
+
+“Beh, sembra proprio che sia così, dico io, nella Corte dei Deliziosi Cibi.”
+
+“‘Sì,’ dissi io.”
+
+“Dopo essere finito presso la Corte dei Delizie, quasi certamente sarebbe stato trasferito alla Corte delle Navi Incagliate, dei Faraglioni e dei Divorzi, o al Dipartimento degli Testamenti.”
+
+“‘Davvero?’ dissi io.”
+
+“È proprio così,” disse lo Scrivano. “Qualunque di queste persone se ne occupasse, ovviamente si potrebbe presentare un ricorso presso un tribunale superiore, generalmente conosciuto come il Tribunale dei Muli.”
+
+“‘Perché è, ’ iniziai a dire.”
+
+“Oh, signore!” interruppe lo Scrivano con un po’ di impazienza, “queste cose non sono importanti! Dobbiamo utilizzare nomi storici. Naturalmente, l’appello verrebbe nuovamente presentato a Sua Maestà in Consiglio, che rappresenta l’autorità suprema del paese.”
+
+“‘Che cosa,’ dissi, ‘dovremmo fare nei confronti di Sua Maestà e del Consiglio… quegli stessi che hanno commesso quest’ingiustizia?’”
+
+“‘Certo,’ disse lo Scrivano.”
+
+“Ma,” dissi, “se la sentenza fosse a mio favore, quale motivo avrei per fare appello?”
+
+“Nessuno,” disse semplicemente. “Ma i tuoi avversari sì.”
+
+“‘I miei avversari sono il Re e il suo Consiglio,’ dissi.”
+
+“‘Da un altro punto di vista,’ disse lo Scrivano, guardando il suolo e poi tacendo. ‘In queste circostanze,’ aggiunse dopo una pausa, ‘farà molto bene ad andare avanti.’”
+
+“Ma,” dissi, “nel caso in cui queste richieste…”
+
+“Lui agitò le mani. ‘Per ora non parleremo di appelli,’ disse in fretta. ‘Dopotutto, non perdi nulla se procedi prima al tribunale ordinario. Hai con te il tuo atto costitutivo?’”
+
+“Ho detto di averlo, e l’ho portato fuori per lui. L’ha letto lentamente, ha consultato un libro per un momento, e poi ha detto, ”
+
+“‘Un caso eccellente!’ (Potete immaginare, cari nipoti miei, quanto il mio cuore abbia battuto forte alle queste parole, ) ‘Un caso eccellente!. Avete la vostra Carta e i suoi termini sono chiari. Secondo essa, a voi e ai vostri eredi sarà pagato per sempre il reddito derivante dalla Tassa sul Sale; l’importante sarà capire se tale clausola preveda un pagamento ininterrotto e perpetuo, o se le recenti Proclamazioni abbiano reso tutto più complicato.’”
+
+“‘A cosa?’, dissi io.”
+
+“‘È un termine legale,’ disse lui, con un po’ di stanchezza, ‘e significa una sorta di distorsione generale o di deformazione. Ma non dobbiamo entrare ora in dettagli tecnici del genere. Dobbiamo prima esporre il nostro punto di vista.’”
+
+“Esattamente,” dissi io.
+
+“‘La mia tariffa,’ disse lui, ‘è stabilita dalla legge; devo chiedervi dieci dinari, una somma nominale.’ Prima che potessi fermarlo, afferrò un grande disco di metallo, inumidì un angolo di un pergameno, posizionò il disco su di esso, lo colpì con un martello e poi mi tese la mano per ricevere il pagamento. Fortunatamente avevo con me il mio borsellino; così, molto riluttante com’era, pagai questa prima somma che avrebbe segnato l’inizio di una serie di perdite disastrose per me.”
+
+“Bene!”, disse lo Scrivano. “Dovremo ora chiedere l’opinione di due eminenti avvocati.”
+
+“‘Perché?’ dissi io.”
+
+“‘La legge lo richiede’, disse lo Scrivano.”
+
+“Ma tu mi hai già dato il tuo, e mi hai detto che vale la pena proseguire.”
+
+“‘La mia opinione,’ disse lo Scrivano scuotendo vigorosamente la testa, ‘può certamente aiutarvi a prendere una decisione; ma sarebbe assolutamente irregolare presentarsi in tribunale basandosi soltanto su di essa. Quindi redigerò un documento, come si fa in questi casi, e lo farò esaminare da due persone di grande autorevolezza. In queste situazioni è sempre meglio avvalersi delle competenze più elevate. A lungo andare ne varrà la pena.’”
+
+“Chiesi timidamente quanto sarebbe costato questo ulteriore passo, e fui un po’ sollevato nell’apprendere che cinquanta dinari per ciascuno di questi eminenti uomini sarebbero stati sufficienti. Mi chiese di tornare il terzo giorno, quando mi avrebbe dato le risposte; e mi ricordò in particolare di non dimenticare di portare con me almeno 150 dinari in quell’occasione.”
+
+“Ma perché gli altri cinquanta?” dissi io.
+
+“‘Timbri e tasse,’ disse brevemente lo Scrivano, e poi, con infinita cortesia, mi congedò dalla sua presenza.”
+
+“Al terzo giorno tornai, portando con me i 150 dinari della mia piccola riserva; li posai sul tavolo dello scrivano per evitare ulteriori complicazioni in questa faccenda. Lui versò i soldi con attenzione in una piccola scatola di metallo, bellamente incisa e, direi, risalente al secondo secolo dopo la “Fuga del Profeta”; probabilmente (per occhio esperto come il mio) era opera siriana.”
+
+“Ecco,” disse, “le risposte.”
+
+“‘Le hai già scritte?’ dissi io.
+
+“‘No,’ disse lui. ‘Dobbiamo aspettare. Il primo avvocato, di nome il Nobile Ghadder, ritiene che la vostra causa si fondi su un principio fondamentale del nostro Diritto Comune, di cui forse voi, essendo straniero, non avete mai sentito parlare: si tratta del principio secondo cui ‘i sudditi del Re non possono subire alcun torto’. Tuttavia vi avverte di non fare affidamento sullo Statuto emanato nel primo anno del regno del padre di Sua Maestà, chiamato ‘Statuto per la Prevenzione della Perdita di Denaro da Parte dei Ricchi’. Questo statuto è stato oggetto di decisioni contraddittorie, quindi rappresenta una base molto debole per sostenere la vostra causa. Aggiunge inoltre che esistono alcuni precedenti giuridici interessanti; almeno due di essi, a suo parere, potrebbero essere utilizzati a vostro favore. In uno di questi casi si è stabilito che, se una persona aveva un reddito superiore a una certa soglia, nessuna ordinanza o proclamazione avrebbe dovuto essere considerata in grado di danneggiarla o ridurre la sua ricchezza. Quindi, la questione principale sarebbe stabilire se, al momento della prima modifica, rientraste in questi limiti. Il secondo avvocato, invece, è dell’opinione esattamente opposta, ’”
+
 
 
 <span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_03" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 3)" data-chapter="ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/greed,concept/money_and_avarice,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -3561,6 +4466,72 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 “I rose on that eventful day long before dawn. I put on my raiment with the utmost care, after having cleansed it with my own hands to make it as presentable as possible, lest the poverty of my appearance should in some way prejudice me. I had already given notice that I would appear myself; for the fees asked by the Pleaders were quite beyond the poor remnant of my purse. I must confess that I had been strongly dissuaded from such action, but I had no choice. I found a great crowd assembled, for my name was familiar to all through the position I had enjoyed in the past; and it is ever of an absorbing interest to watch the miseries of another.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Basta!” dissi. “Il primo avvocato esperto sarà il mio guida. Mi basterà che mi dica che la mia causa è valida, e senza dubbio continuerà a rappresentarmi in tribunale.”
+
+“‘Cosa?’ disse lo Scrivano, stupito, ‘pensi davvero che persone del genere offrano i loro preziosi servizi in tribunale per soli cinquanta dinari?’”
+
+“‘Evidentemente’, dissi, ‘visto che sono stati così gentili da esprimere opinioni così precise e dettagliate!’”
+
+“Lo Scrivano rise con la stessa allegria di chi è abituato a farlo, e mi pregò di non credere a quelle parole. ‘Queste sono soltanto le fasi formali del processo. L’assunzione degli avvocati è tutta un’altra questione. Lasciate che vi illustri la seconda risposta ricevuta. Il secondo avvocato, il Nobile Makhar – che, forse vi interesserà sapere, è di origine nera – beh, ne abbiamo molti nel nostro studio legale. Quella strana razza possiede capacità meravigliose. Lui, comunque, la pensa esattamente al contrario dell’altro avvocato. Ritiene che le vostre possibilità secondo il diritto comune siano molto scarse. Ma sostiene che siate al sicuro sotto lo Statuto emanato per la Prevenzione della Crueltà verso le Persone Importanti. Questo è il suo nome ufficiale. Approvato nel primo anno del regno dell’ultimo padre di Sua Maestà. Secondo lui, tutti gli elementi a disposizione sono contro di voi. Ma i principi fondamentali dello Statuto rimangono validi.’”
+
+“Quando ho sentito tutto questo, ho detto: ‘Oh!’”
+
+“L’anziano scrivano fissava il pavimento sotto di sé, dove sedeva sul suo tappeto; anch’io guardavo il mio pavimento, senza sapere cosa dire dopo.”
+
+“‘La mia tariffa per questo secondo colloquio,’ disse lui in tono cordiale, dopo quello che riteneva fosse un intervallo sufficiente, ‘è la stessa della prima volta: dieci dinari.’”
+
+“‘Non li ho portati con me,’ dissi, avendo portato soltanto i 150 dinari richiesti in precedenza.”
+
+“‘Non è nulla, mio Signore,’ rispose lui, agitando la mano con maestosità (e di nuovo pensai, come nel caso del mio amico, che ci fosse un certo tono di paternalismo). ‘Tutti conosciamo e rispettiamo la vostra posizione di ex Consigliere, e io sarei l’ultimo a sollecitarvi.’”
+
+“Gli pregai di aspettare un attimo finché non fossi tornato. Corsi rapidamente nei miei miseri alloggi e tornai subito con la somma che gli serviva. La mise nella piccola scatola di metallo. Pensavo che stesse per congedarmi, e stavo per chiedergli in quale data avrebbe avuto luogo il primo processo, quando lui, a mia sorpresa, disse, ”
+
+“Ma prima dobbiamo ascoltare il parere del difensore.”
+
+“Ma, per tutti i cieli!”, dissi, “non l’abbiamo forse già ottenuto?”
+
+“‘No, affatto,’ disse lui. ‘Non abbiamo ancora l’opinione degli avvocati difensori. Finora abbiamo soltanto le opinioni dei singoli avvocati.’”
+
+“E in nome di Fatimeh e Katisha, qual è la differenza?”
+
+“‘Certo,’ disse lui, ‘avrete sicuramente sentito parlare di questa distinzione. L’Opinione del Legale rappresenta la risposta verbale al Segretario giudiziario, ma la legge richiede che venga aggiunta un’altra risposta scritta, e a questa noi diamo il nome di Opinione del Legale.’”
+
+“Una volta ancora non riuscii a trovare alcun commento se non un grido.”
+
+“‘E a quale prezzo?’ gemetti con voce spenta.”
+
+“Si rivolse a un elenco scritto delle tariffe, poi a un promemoria personale. Fece rapidamente un calcolo su un abaco e rispose: ‘trecento dinari.’”
+
+“Mi astenni dal pronunciare parole blasfeme e gli chiesi quando sarebbe stata necessaria quella somma.”
+
+“È solo una formalità,” disse, “questo parere scritto, ma dobbiamo averne traccia.”
+
+“‘Sì, sì,’ dissi io.”
+
+“‘E lo farò,’ disse, ‘approfitterò dell’occasione per ottenerlo prima che tu torni.’”
+
+“Una volta ancora tornai nelle mie orribili stanze, presi del denaro dal mio nascondiglio segreto e, tornando indietro, consegnai al scrivano un piccolo pacchetto contenente 300 dinari. Lui li fece scorrere pensierosamente tra le dita, in piccoli filamenti, fino a quando quasi riempirono la sua scatola di metallo.”
+
+“‘È una scatola davvero bella, non è vero?’ disse. ‘L’avevo considerata un debito impossibile da riscuotere da uno dei miei clienti, che, purtroppo, si è tolto la vita in un attacco di malinconia dopo aver subito delle delusioni terribili nelle sue cause legali.’”
+
+“E per quanto riguarda la data?” chiesi.
+
+“‘La data?’ Ancora una volta consultò un altro documento, poi batté le mani per chiamare lo schiavo che si trovava nella stanza esterna; dopo avergli posto una domanda in un gergo incomprensibile, ricevette una risposta altrettanto enigmatica. Poi si rivolse a me e disse: ‘Arriverà in una data successiva al prossimo Plenilunio, ma non immediatamente.’”
+
+“‘Non posso conoscere una data precisa?’ dissi, perché pensavo con ansia al mio capitale in diminuzione e mi chiedevo per quanto tempo avrei potuto continuare a condurre questa vita miserabile prima che i miei soldi si esaurissero del tutto.”
+
+“‘È ovviamente impossibile,’ rispose con un pizzico di indignazione, che evidentemente riteneva meritata. ‘Nessuno può sapere quanto dureranno le cause prima della tua, né in quale ordine Sua Santità il Giudice deciderà di esaminarle. Del resto,’ aggiunse, guardando un'altra lista, ‘è probabile che arrivi prima di Sua Santità Benshaitan.’”
+
+Con questo, lo lasciai e aspettai la chiamata del Tribunale.
+
+Il tempo trascorreva in modo estremamente lento e noioso. Mangiavo molto poco e non compravo né abiti né cacciagione per passare il tempo; così, le mie risorse diminuivano giorno dopo giorno. Trascorrevo le ore osservando la frenetica vita del porto, o a volte stando in piedi sul bordo del molo e fissando il mare, come se potessi leggere, nell’orizzonte lontano, qualche segno di una fortuna migliore e di una vita ripristinata. Con l’avvicinarsi della data in cui il mio caso sarebbe stato esaminato, e con ogni sera la seconda Luna Nuova diventare sempre più luminosa nel suo ultimo stadio di crescente, consultavo gli ufficiali del Tribunale. Scoprii che era consuetudine offrire loro una piccola somma, di cinque o sei dinari, prima che rispondessero alle mie domande. Fu il dodicesimo giorno, quando la Luna era quasi piena, che il mio caso – che riguardava la questione se un uomo senza mezzi dovesse pagare un debito o potesse rinviare il pagamento, e che aveva durato cinque giorni molto emozionanti – fu concluso. Appresi che il precedente giuridico stabilito era di grande importanza, ma che avrebbe potuto essere oggetto di appello.
+
+Il sole tramontò. Era il giorno dopo che il mio caso sarebbe stato esaminato.
+
+“Mi alzai quella giornata importante molto prima dell’alba. Indossai i miei abiti con estrema cura, dopo averli puliti personalmente per renderli il più presentabili possibile, affinché la povertà del mio aspetto non mi danneggiasse in alcun modo. Avevo già annunciato che sarei intervenuto di persona; infatti, le tariffe richieste dagli avvocati superavano di gran lunga quanto avevo ancora nel mio misero portafoglio. Devo ammettere che molti mi avevano sconsigliato vivamente di farlo, ma non avevo altra scelta. Trovai una grande folla radunata; il mio nome era infatti noto a tutti grazie alla posizione che avevo ricoperto in passato. E osservare le miserie altrui è sempre un argomento di grande interesse.”
+
 
 
 <span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_04" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 4)" data-chapter="ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/justice,concept/the_power_of_language,concept/nonsense,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -3586,6 +4557,28 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 
 “It was the word ‘and,’ said he, that made the difference in all these cases. He might call witnesses to show that the word was inserted in the Charter to render the phrase abortive, absurd, nonsensical and altogether of no effect. But, alternatively, supposing that the word ‘and’ but confirmed my case in the decision of His Holiness, then he pleaded that the Charter, having been obtained by a stranger, not a subject of the King, was null and void. Supposing that it were upheld in spite of this, then, alternatively, that I, Mahmoud, was a subject of the King, a native born, and therefore subject to the King’s decisions in Council. Finally, he concluded that in any case I must not win because, if I did, it would make His Majesty’s Council and members thereof look like a fool severally and collectively, than which no more deplorable thing could happen to the State. Further, even if His Holiness should decide that it mattered not a rusty nail whether the Council were made to look fools or no, there was, anyhow, no money to pay me. This established a default contumax and a discharge in alias of the second degree. I give his exact words, for I noted them at the time, and could guess vaguely that they must be of grave import. When he got so far I noticed a great commotion among his colleagues. Every man in court wore an expression of strained attention mixed with admiration, and the Judge himself could not withhold from his august features something of the same tribute to this Genius of Debate.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Mi sedetti nel posto riservatomi, proprio di fronte al banco. A destra vidi i Giuristi scelti dal Consiglio, e tra il pubblico c'erano anche molti dei miei ex colleghi.”
+
+“I Pleaders erano vestiti con gli abiti appropriati alla loro importante funzione, simili ai sacerdoti di una religione; notai che indossavano, su testa, un insolito copricapo realizzato in pelle di mulo, decorato con capelli intrecciati e lunghe orecchie pelose. Il Giudice, invece, era avvolto nel più magnifico tessuto d’oro, ricoperto di iscrizioni sacre e adornato con pellicce di animali rari come il Ratto Sacro, lo Sciacallo Bianco del Tibet e lo Skunk; portava in testa una corona che sollevò tre volte in segno di saluto alla Corte, mentre tutti si prostravano davanti a lui, mormorando preghiere e lodi per lui come rappresentante di Dio.”
+
+“Una volta terminate queste cerimonie, si verificò un certo trambusto: gli uomini si alzarono e presero posto sui tappeti del cortile; il giudice stesso si sistemò su una sorta di trono da cui poteva vedere tutto intorno, e poi iniziarono le procedure.”
+
+“Un uomo di statura bassa si trovava davanti al trono del giudice, il quale si alzò e disse con voce stridula: ‘Mahmoud presenta un reclamo contro il Re.’ Poi si sedette di nuovo; grazie ai vari spintoni e strattoni che ricevetti dai miei amici, compreso lo scrivano che gentilmente mi aveva accompagnato in tribunale, capii che dovevo alzarmi dal tappeto e esporre il mio caso.”
+
+“Dissei: ‘Vostra Santità e Voce di Dio’ (poiché tale è la formula richiesta, come un caro amico mi aveva avvertito; e se si omette anche una sola parola, il colpevole non solo viene vietato di presentare difese, ma viene gettato in una prigione delle più terribili). ‘Vostra Santità,’ esordii, ‘e Voce di Dio. Ho ricevuto dal Re e dai suoi Consiglieri un Atto Ufficiale. Mi è stato concesso in cambio di un milione di dinari d’oro che io avevo pagato loro in una data specifica. Vi mostrerò questo Atto Ufficiale, e vi troverete la promessa secondo cui dovrei ricevere, in cambio del pagamento effettuato, i proventi derivanti dalla Tassa sul Sale per sempre, finché lo Stato esisterà e tale tassa verrà riscossa. Questa tassa è stata in gran parte ridotta, e con ulteriori imposizioni il resto è stato completamente eliminato. Sostengo che questo Atto Ufficiale mi conferisca il diritto ai proventi originali dello Stato, in tutto il loro ammontare.’ E poi conclusi con la formula magica che i miei amici mi avevano gentilmente fornito: ‘E questa, Divino, è la mia richiesta.’ Una volta completata questa formalità, mi sedetti.”
+
+“Mi sono compiaciuto di aver fatto bene, poiché tutto era stato detto con estrema facilità e, dopotutto, non c’era nulla altro da aggiungere. Ma prima di prendere posto, seduto a gambe incrociate sul mio tappeto, ho consegnato a coloro che servivano la Corte la copia originale della Carta, firmata e sigillata, quella che avevo consultato in precedenza. Il Giudice si alzò dal trono su cui era seduto, posò con cura la Carta sul suo trono stesso, vi si sedette sopra e ordinò che il processo proseguisse.”
+
+“Nel capo degli avvocati dell’altra parte, fui lieto di riconoscere un vecchio mio cliente. Mi fece un cenno di saluto familiare, si alzò e iniziò il suo discorso, proprio come avevo fatto io, con la formula rituale: ‘Sua Santità e Voce di Dio’, disse, ‘Sua Maestà e il Consiglio mi hanno incaricato di questo caso. Ammetto che si tratti di una questione particolarmente complessa e difficile; non dubito che richiederà molti mesi di lavoro da parte dei miei colleghi, non solo in questa Corte ma anche in tribunali superiori. Anzi, per quanto ne so, uno di loro ha recentemente acquistato un meraviglioso veicolo che si muove rapidamente senza l’ausilio di cavalli: un’invenzione straniera. Non avrebbe mai investito in essa se non avesse previsto la lunghezza e i profitti che questo caso avrebbe comportato. Ma questa è una digressione. Menziono solo questo per far capire a Sua Santità che abbiamo qui di fronte a noi una questione che difficilmente potrebbe essere risolta da un giudice meno divino di Voi.”
+
+“Per circa un quarto d’ora seguì un discorso eccellente sulla maestosità della legge e sui particolari doni e virtù dei giudici. Tuttavia, in ogni frase sottolineava la gravità del caso e le sue difficoltà. Ero lusingato e sorpreso: non mi aspettavo che i miei avversari attribuissero tanta importanza alle mie parole; d’altra parte, ricordavo che il loro compenso veniva pagato dai contribuenti e che ogni giorno aumentava la somma che ricevevano. Poi passò a parlare dell’assurdità e dell’iniquità della tassa sul sale, della sua obsoletà. Dopo un’ora di questo discorso, fece una pausa per sistemarsi le lunghe orecchie pelose del suo copricapo.”
+
+“Nel secondo e nel quarto ore citò 150 esempi in cui questa parola modificava completamente il contenuto di un documento. Ad esempio, nel famoso caso noto come ‘Testamento di Abramo’, dove il testatore lasciava tutta la sua proprietà alla sua amata moglie Fatimah e il resto a sua madre. Successivamente citò anche il caso denominato ‘Grado di Dignità’, in cui si ordinava che tutti coloro che venivano arrestati per aver parlato con disprezzo del Gran Mufti fossero portati davanti a lui e decapitati. Inoltre (ciò mi interessò molto, poiché riguardava l’argomento del denaro), menzionò i termini dello statuto, ormai vecchio di oltre cento anni, secondo cui i Consiglieri del Re ricevevano un dinaro al giorno e qualsiasi altro importo venisse loro concesso per esentarsi dalle tasse.”
+
+“È la parola ‘e’, disse lui, che fa la differenza in tutti questi casi. Si potrebbero chiamare testimoni per dimostrare che questa parola è stata inserita nella Carta apposta a rendere quella frase priva di significato, assurda e del tutto inefficace. Ma, d’altra parte, supponendo che proprio la parola ‘e’ confermasse la mia tesi nella decisione di Sua Santità, allora egli sostenne che la Carta, essendo stata ottenuta da uno straniero e non da un suddito del Re, fosse nula e invalida. Anche ammesso che venisse riconosciuta come valida, io, Mahmoud, essendo un suddito del Re e quindi soggetto alle sue decisioni in Consiglio, non avrei comunque potuto vincere. Infine, concluse che in ogni caso non dovevo vincere, perché se ci fossi riuscito, ciò avrebbe fatto apparire il Consiglio di Sua Maestà e i suoi membri come degli idioti, sia individualmente che collettivamente, il che rappresentava la cosa più deplorevole che potesse accadere allo Stato. Inoltre, anche se Sua Santità avesse deciso che non importasse affatto che il Consiglio venisse messo in ridicolo o meno, comunque non ci sarebbe stato denaro per pagarmi. Queste argomentazioni costituivano una forma di rifiuto diretto e un diniego di secondo grado. Riporto esattamente le sue parole, perché le ho annotate all’epoca e ho intuito che dovevano avere grande importanza. Quando arrivò a questo punto, notai un gran trambusto tra i suoi colleghi: tutti presenti in tribunale mostravano un’espressione di attenzione intensa mescolata ad ammirazione, e anche il Giudice stesso non riuscì a nascondere nei propri lineamenti solenni un certo rispetto per questo genio del dibattito.”
 
 
 
@@ -3658,6 +4651,74 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 
 “‘Take great care, witness,’ said His Holiness in a menacing voice. ‘Take very great care!’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“‘Noti anche, Vostra Santità,’ continuò l’avvocato, agitando molto significativamente il suo dito indice arcuato (lungo e appuntito) nell’aria, ‘il comportamento oltraggioso volto a sovvertire, e lo stesso vale per quanto riguarda gli altri aspetti.’ Aggiunse con tono sarcastico: ‘Non intendo annoiare la Corte con queste dettagli’ (vidi che il giudice annuiva), ‘ma anche l’attore, per quanto esperto in legge sia, ammetterà, ’ E qui si girò verso di me con un’espressione di profondo disprezzo, ‘che una dichiarazione del genere non verrebbe accettata nel caso di cauzione, o comunque la sua mancata presentazione verrebbe registrata come un atto contrario alle norme. Un atto contrario alle norme sarebbe invalido,’ continuò, con tono sempre più interessato (ora aveva attirato l’attenzione febbrile dell’uditorio), ‘poiché ritengo che questo rappresenti proprio il fondamento stesso della nostra legge, e tale principio è stato sempre rispettato da tutti i predecessori di Vostra Santità sin dalle origini del nostro Ordine degli Avvocati Sacri.’”
+
+“Di nuovo pensai di aver notato un cenno incerto da parte della maestosa figura seduta sul banco. ‘Quindi,’ concluse quest’uomo eloquente, ‘si tratta semplicemente di questo: ci affidiamo ai termini generali e alle referenze particolari, entrambi interconnessi, e siamo certi che tale garanzia sia evidente.’ Si fermò lì, poi aggiunse in toni semplici e più sommessi: ‘Questo è il mio punto di vista.’ Poi si sedette. Mi è stato detto che fu uno dei tentativi più straordinari nella storia stessa della Gilda degli Avvocati.”
+
+“Anche nella Moschea o nei luoghi di culto più sacri è permesso applaudire, ma non alla presenza augusta della legge. Tuttavia, gli avvocati entusiasti presenti, i scrivani e i loro assistenti faticarono molto a trattenersi dal lodare apertamente il discorso. Un uomo che non conoscevo, seduto accanto a me con le gambe incrociate sul suo tappetino – credo fosse uno degli avvocati, poiché anche lui indossava un mantello di pelle di mulo con orecchie lunghe e pelose sulla testa – mi sussurrò che si trattava del miglior discorso che avesse mai ascoltato da quando Achmet aveva parlato in favore dello Sheik-ul-Musrim nell’“Oyster Case”, il che significava molto.”
+
+“Quando quel grande Avvocato si sedette, nella sala regnò un silenzio totale che durò per qualche momento e che mi sembrò piuttosto imbarazzante. Alla fine mi resi conto di essere, in qualche modo, l’oggetto di troppa attenzione; il mio amico, lo Scrivano, si chinò verso di me suggerendomi di chiamare i miei testimoni. ‘Ma non ne ho nessuno,’ sussurrai con grande timore. ‘Ho la mia Carta. Questo basta, vero?’”
+
+“Lo scrivano alzò le spalle, come se fosse disperato, e mi lasciò alla mia sorte.”
+
+“Fu allora che sentii la voce del grande Giudice rimbombarmi nelle orecchie: ‘Quali prove ha il querelante?’”
+
+“Mi alzai tremando. ‘Vi ho dato tutto ciò che avevo, Vostra Santità.’”
+
+“‘Non mi hai dato nulla,’ tuonò quella figura imponente. ‘Tutto ciò che hai fatto è stato presentare una richiesta iniziale.’”
+
+“‘Pensavo’, balbettai, ‘di aver detto tutto ciò che dovevo dire.’”
+
+“Il giudice guardò intorno ai suoi colleghi avvocati con un’espressione di disperazione, poi si chinò in avanti e, con un tono quasi tenero, disse: ‘Vi prego, salite sul Seggio Sacro riservato ai testimoni.’ Così, venne portato avanti un piccolo blocco di legno; io vi salii sopra e rimasi lì, consapevole ma in una situazione assurda davanti al tribunale.”
+
+“Sua Santità il Giudice si appoggiò allo scranno e mi osservò con quel disprezzo che meritavo; non trattenne nemmeno quella piccola risatina che si diffuse tra l’assemblea. Un funzionario si accovacciò davanti allo scranno, mi mise in mano un rotolo di pergamena, mi ordinò di posizionarlo sulla fronte e di ripetere dopo di lui alcune parole. Il loro significato, però, mi sfuggì a causa del mio turbamento. Ma obbedii comunque. Dopo quel gesto rimasi in silenzio. ‘Bene,’ disse infine Sua Santità con tono secco, dopo una lunga pausa, ‘per quanto tempo dobbiamo ancora aspettare?’”
+
+“‘Pregate, Vostra Altezza, cosa desiderate?’ dissi io.”
+
+“‘Avrei bisogno della tua testimonianza’, disse il Giudice.”
+
+“Non ho alcuna prova da fornire”, risposi tremando, “se non quella che avete già sentito”.
+
+“‘Non ne ho sentito parlare’, disse lui, e di nuovo risate echeggiarono per tutto il cortile.
+
+“Agendo immediatamente, ripetei esattamente ciò che avevo detto prima: le parole erano quelle scritte nella Carta, la clausola era quella stessa. La ripetei punto per punto.”
+
+“Il giudice si rivolse all’avvocato che aveva appena preso posto e disse: ‘Ora, fratello Selim, ’ Allora il mio ex amico e ospite si alzò, mi guardò dall’alto in basso in modo molto offensivo per tre o quattro volte e gridò, ”
+
+“‘Maledetto ubriacone! Continui ancora a sostenere quella orribile menzogna che hai avuto l’insolenza di presentare davanti al Tribunale?’”
+
+“Ho detto che non c’era alcuna menzogna, ma solo la verità.”
+
+“‘La verità!’, sogghignò. ‘Ricorda, per l’amor di Dio, che hai giurato nel nome dello Scritto; e anche se questa cosa può sembrare insignificante a uno come te, altri la prendono molto più seriamente.’”
+
+Rimasi in silenzio di fronte a quella rimprovera, aspettando le sue successive parole.
+
+“Beh, beh,” disse all'improvviso, “dove ti trovavi mezz’ora dopo l’alba del quarto giorno del digiuno di Ramadan, nel trecentosettimo anno dalla fuga del Profeta?”
+
+“Mentre stavo inorridito di fronte a quella domanda, lui toccò con il dito di una mano l'altra e disse: ‘Non voglio metterti sotto pressione.’”
+
+“Non ne ho la minima idea,” dissi io.
+
+“Il difensore lanciò uno sguardo significativo al giudice e poi continuò…”
+
+“Non ne hai la minima idea? Puoi dirmi, approssimativamente, dove ti trovavi in quel momento?”
+
+“‘No, non posso,’ dissi. ‘È successo molto tempo fa, e allora ero solo una bambina giovane e innocente.’”
+
+“In quel momento il giudice mi interruppe bruscamente: ‘Non ci interessano le tue giovani e innocenti esperienze infantili. Rispondi alla domanda, per favore, e evita di fare discorsi.’”
+
+“Lo avvocato consultò le sue note, poi mi guardò di nuovo e disse: ‘Ci ha detto che lo Statuto fu firmato alla sua presenza e gli fu consegnato.’”
+
+“‘Sì,’ dissi io.”
+
+“Non rispondere”, intervenne bruscamente Sua Santità, “finché non ti viene posta una domanda.”
+
+“No,” dissi io.
+
+“‘Fai molta attenzione, testimone,’ disse Sua Santità con voce minacciosa. ‘Fai davvero molta attenzione!’”
 
 
 
@@ -3743,6 +4804,86 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 “‘Now, witness, remember you are upon your oath; did you or did you not receive the Charter from the King and his Council in the terms you have mentioned?’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“‘Grazie, Vostra Santità,’ disse il supplicante. ‘E ora, signore,’ aggiunse, rivolgendosi a me con un tono molto deciso, come se avesse sorpreso un ladro mentre cercava di introdursi nella sua casa, ‘potrebbe dirci dove si trova adesso quel documento? Può presentarlo?’
+
+“‘Sua Santità è seduto lì sopra,’ dissi semplicemente.”
+
+“Qui il Giudice quasi si alzò dal suo trono, tanto era commosso.”
+
+“‘Se non fossi un laico e quindi naturalmente ignorante delle usanze della Corte, ti condannerei a una punizione molto severa’, disse lui. ‘Prendo in considerazione la tua mancanza di esperienza; ma ti avverto: potresti esagerare.’
+
+“‘Ignorerò l’ultima osservazione, testimone,’ continuò l’avvocato con toni dignitosi. ‘Penso che in quel momento non foste del tutto voi stesso. Sareste così gentile da rispondere alla mia domanda? Dove si trova ora lo Statuto?’”
+
+“Beh,” dissi io, completamente confuso, “l’ho consegnato a Sua Santità affinché vedesse quale fosse la mia situazione, e per quanto ne so io, lui, ”
+
+“‘Silenzio!’, tuonò il Giudice. ‘Fratello Selim, temo che non possiamo andare avanti su questa strada. Il testimone evidentemente non capisce, o non vuole capire, ciò che intendete. Lasciate che gli ponga una domanda.’ Poi, con un'espressione di falsa gentilezza sul viso, mi disse in toni misurati: ‘Quello che vogliamo sapere è, dove si trova la Carta di cui parlate?’”
+
+“‘L’ho portato in tribunale, ’ Ho iniziato a dire.”
+
+“A questo punto il Giudice fece un piccolo gesto di disperazione e sospirò. Poi parlò.”
+
+“‘È un principio fondamentale della legge di questo paese,’ disse Sua Santità, appoggiandosi all’indietro con aria apparentemente stanca, come se stesse istruendo un bambino, ‘Avrei dovuto pensare che fosse un principio noto anche al più umile dei sudditi di Sua Maestà: che un documento debba essere verificato. Avete provato la validità della Carta di cui parlate?’”
+
+“‘Non capisco cosa intenda, Vostra Santità,’ dissi, con un vero e proprio senso di paura.”
+
+“Il giudice si avvicinò a me e disse con toni misurati: ‘Ricorda che ti sto trattando con clemenza. Sto facendo del mio meglio per te, capisco la difficoltà della tua situazione. Stai attento. Sta’ molto attento! Fratello Selim, hai altre domande da porre?’”
+
+“Ho una o due questioni di qualche rilevanza, se posso permettermelo, Vostra Santità…”
+
+“Certamente, fratello Selim. Continua pure, siamo tutti attenti.”
+
+“Lo avvocato si schiarì la voce, consultò di nuovo le sue note, alzò lo sguardo su di me e disse: ‘Quali sono stati i tuoi guadagni nelle partite d’azzardo durante l’anno che si è concluso con l’inizio dell’ultima Festa del Ramadan?’”
+
+“Ho risposto che non avevo un calcolo esatto, ma che il mio appetito per quel genere di cose era piuttosto scarso; quindi avrei potuto vincere o perdere tra cento e duecento dinari.”
+
+“‘Stai attento, stai molto attento!’ disse Sua Santità, rivolgendosi di nuovo a me.”
+
+“‘Tra cento e duecento dinari,’ disse l’Avvocato con voce meditabonda, e notai che il Giudice stava prendendo appunti della mia risposta. ‘Ora, per favore, rispondetemi sinceramente. E ricordatevi di essere sotto giuramento: avete l’abitudine di barare a carte, di manipolare i dadi, di alterare le carte da gioco, di nascondere monete, o di usare altri metodi per truffare coloro che vi accompagnano in quello che pensano sia un semplice passatempo innocente?’”
+
+“Stavo per rispondere quando lui mi gridò di nuovo: ‘Ricorda che hai giurato’, e Sua Santità si commosse al punto di aggiungere, ”
+
+"#Presta attenzione, testimone… Presta molta, molta attenzione!"
+
+“No,” dissi io.
+
+“In quel momento fui sorpreso nel vedere tutti, compreso l’Avvocato, sedersi improvvisamente a gambe incrociate sul pavimento, mentre io stavo lì in piedi sul mio piccolo pezzo di legno, estremamente visibile. Tutto ciò era dovuto a un gesto del Giudice.”
+
+“‘Fino ad ora,’ disse lui in modo solenne e maestoso, ‘ho permesso che le cose seguissero il loro corso, perché, come ho detto, a chi è abbastanza sciocco da difendere da solo la propria causa deve essere concessa ogni libertà. Ma la dignità della Corte di Sua Maestà mi impone di non rimanere in silenzio di fronte a questa ultima risposta a una domanda di estrema importanza e profondità, che richiede una risposta adeguata. Il testimone ha risposto in modo insolente con un “No”.’ Poi si rivolse a me e disse, con una severità che mi fece tremare fino alle ossa: ‘Questa è una Corte Civile; ma ricordate, signore,’ e qui alzò la voce in modo terribile, ‘posso sequestrare i documenti e presentare tutto ciò che avete detto al Procuratore.’”
+
+“‘Sì, Vostra Santità,’ dissi io, ormai completamente perso nella confusione.”
+
+“Procedi,” disse il Giudice in modo semplice all’Avvocato.
+
+“‘Ho solo un'altra domanda da porre’, disse l’Avvocato.”
+
+“‘Prosegui, prosegui, fratello Selim,’ disse il giudice con gentilezza.”
+
+“Soffri di prurito o no?”
+
+“‘Mio signore’, dissi, ‘devo davvero rispondere a…’”
+
+“Sua Santità mi interruppe con una violenza che non mi aspettavo affatto da qualcuno che occupa una posizione così elevata. ‘Rispondi alla domanda!’, gridò, ‘rispondi subito!’”
+
+“Beh,” dissi, “a dire il vero, provo un certo affetto per la pianta del mio piede sinistro. Ma credo che con un po’ di attenzione e i giusti consigli medici, ”
+
+“Basta così,” disse l’Avvocato, alzando la mano. “Abbiamo sentito tutto ciò che dovevamo sentire,” e si sedette di nuovo sul suo tappetino.
+
+“‘Qualche ribellione?’ disse Sua Santità, guardandosi intorno con un sorriso gentile verso tutti i presenti.”
+
+“Non avevo la minima idea di cosa si intendesse, ma il mio amico lo Scrivano mi passò un biglietto, dicendo: ‘Rivedi attentamente le tue azioni per annullare gli effetti di questo terribile controinterrogatorio.’”
+
+“Per me era tutto incomprensibile, ma cercando disperatamente una soluzione, mi rivolsi alla Sua Santità e dissi…”
+
+“O Voce di Dio e della Giustizia sulla terra! Vorrei pormi alcune domande.”
+
+“‘Certo che sì,’ disse lui gentilmente. ‘Lasciate che vi spieghi quali sono le usanze di questa Corte. Prima dovete alzarvi e ponervi la domanda; poi dovrete alzarvi di nuovo e rispondervela.’”
+
+“In ginocchio, colpii tre volte con la fronte il selciato del cortile, come è consuetudine; poi alzandomi mi rivolsi verso lo spazio vuoto sopra quel piccolo pezzo di legno e dissi, ”
+
+“Ora, testimoni, ricordate che siete sotto giuramento: avete ricevuto o non avete ricevuto lo Statuto dal Re e dal suo Consiglio nei termini che avete menzionato?”
+
 
 
 <span class="atom-split" data-atom="chapter_06_entitled_al_wukala_or_the_lawy--part_07" data-title="The Mercy of Allah — Chapter 6: ENTITLED AL-WUKALÁ, OR THE LAWYERS (part 7)" data-chapter="ENTITLED AL WUKALA OR THE LAWY" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/justice,concept/the_power_of_language,concept/empire_and_imperialism,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -3796,6 +4937,56 @@ WHEN THE NEPHEWS next entered their uncle’s presence at the Hour of Public Exe
 
 “All heads nodded in unison, while a song in adoration of His Holiness was sung by an acolyte who entered at this stage of the proceedings (as is customary in courts of law), and a hidden chorus, distant, but just heard, added a short canticle of praise. His Holiness waited for the conclusion of these ceremonies, which are invariably interpolated during any important judgment, and then continued:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Poi saltai su quel piccolo pezzo di legno e, rivolgendomi al posto che avevo appena occupato, dissi:”
+
+“L’ho fatto.”
+
+“Poi saltai di nuovo giù (fortunatamente ero ancora un giovane uomo e quell’esercizio non mi influenzò né mi causò problemi respiratori) e chiesi, ”
+
+“Cosa ne hai fatto di quel documento?”
+
+“Rimontai di nuovo su quel piccolo pezzo di legno e mi rivolsi verso il punto in cui mi trovavo poco prima, rispondendo, ”
+
+“L’ho portato in tribunale.”
+
+“Una volta ancora mi misi a sedere per terra, in piedi sotto quel piccolo pezzo di legno.”
+
+“Una volta portato in tribunale, cosa ne hai fatto?”
+
+“Tornai al mio piccolo pezzo di legno, mi rivolsi verso il punto in cui poco prima mi trovavo e dissi…”
+
+“Gliel’ho consegnato alla Sua Santità.”
+
+“Allora il Giudice parlò: ‘Ne ho abbastanza; rifiuto di perdere ulteriore tempo del Tribunale. Ho il potere di condannarvi alle prigioni reali per l’eternità, e devo dire che nella mia lunga esperienza nei nostri augusti tribunali non ho mai incontrato nulla di paragonabile alla vostra ripetuta insolenza. Vi ho già detto che non avete dimostrato la validità del vostro documento; pertanto, ai fini di questo Tribunale, esso non esiste. Allontanatevi.’”
+
+“Le parole ‘smettete di fare ciò che state facendo’ significano, nel gergo tecnico di questo grande popolo, ‘sedetevi’, e possono essere disobbedite soltanto a fronte delle punizioni più terribili. Obbedii immediatamente e ripresi la mia posizione, seduto a gambe incrociate sul tappeto.”
+
+“Ora il Giudice poteva pronunciare la sua sentenza, ma prima si rivolse all’avvocato che si era opposto a me e disse, con toni estremamente cordiali:
+
+“‘Fratello Selim, suppongo tu abbia dimostrato la validità del tuo documento, in particolare il termine “e”?’”
+
+“‘Oh, sì, mio signore,’ rispose lui in tono soddisfatto. ‘Ho anche presentato ulteriori richieste e ho rimosso i quattro termini principali; tutti sono stati debitamente timbrati, approvati, archiviati, registrati, espressi, indicati, permutati, contaminati e riscattati.’ A ciascuna di queste parole il Giudice annuì con sempre maggiore soddisfazione, poi chiese:’
+
+“Chiamerai altri testimoni, fratello Selim?”
+
+“‘Non ne chiamo nessuno,’ rispose l’uomo eminente, ‘perché se lo facessi, il meschino querelante avrebbe l’opportunità di interrogarli e questo comprometterebbe completamente la mia causa.’”
+
+“‘Penso che abbiate agito saggiamente,’ disse Sua Santità, in modo casuale. ‘Quindi tutto dipenderà soltanto dalla Carta.’ Con queste parole percepii, dal fruscio intorno a me, che era arrivata la fase finale del processo e che il mio destino era ormai deciso. Pensai di aver notato, nel modo in cui il processo veniva condotto, non direi una prevenzione, ma un’atmosfera sfavorevole alle mie richieste; perché, sebbene fosse impossibile immaginare che qualche sentimento personale o altro potesse influenzare la decisione di Sua Santità, temevo comunque il suo verdetto. Tuttavia aspettavo quella decisione con un certo interesse, perché, dopotutto, nulla è certo fino a quando non viene emessa.”
+
+“Il giudice si tolse la corona e indossò un copricapo simile a quello dei procuratori speciali, ma dorato; inoltre, l’interno delle sue lunghe orecchie pelose era stato attentamente dipinto d’argento per creare un effetto di contrasto. È così che richiede la Tradizione Giuridica quando sta per pronunciare una sentenza.”
+
+“Lui parlò…”
+
+“Dai fatti che mi sono stati presentati è evidente che esiste, o è esistito, esisterà, potrebbe esistere, o in un altro momento è esistito, qualche atto legale in cui la parola ‘E’ rappresenta il punto controverso. Quella forma fu accettata dalla difesa, credo, ” Tutti i legali si alzarono e si inchinarono, per poi risedere sui loro tappeti. “Ma deduco” (e qui mi guardò con severità) “che la parte civile non abbia accettato tale forma legale. Abbiamo, a mio parere, una clausola fondamentale in cui la parola ‘E’ svolge un ruolo decisivo, ‘Finché durerà la tassa sul sale, ’ Molti argomenti addotti a difesa della Corona devo ignorarli. La gloria dei nostri tribunali sta nel fatto che applicano una giustizia assolutamente imparziale tra le persone, e che Sua Maestà stesso è vincolato dalle loro decisioni, ” (Si levò un mormorio di applausi che fu immediatamente soffocato.) “Perciò oso affermare che gli avvocati incaricati da Sua Maestà in questa occasione hanno detto molte cose con cui non sono d’accordo, e altre che non prenderò in considerazione. È altrettanto evidente che la causa presentata dalla parte civile, come lei stessa ha affermato, non rappresenta affatto una vera causa. E se dovessi affidarmi, cosa che non farò, alle rigide norme della legge, lui sarebbe già stato escluso dal processo.” A queste parole tutti mi guardarono con severità; sentii la mia posizione ridursi notevolmente e mi rannicchiai ancora di più sul mio tappeto. Sua Santità continuò:
+
+“Tratterò questa questione come se non avessi ascoltato alcuna argomentazione da entrambe le parti, perché ritengo che questo sia l’atteggiamento vero e proprio di un giudice interessato esclusivamente alla giustizia. Abbiamo quindi questa parola decisiva: ‘E, ’”. A quel punto Sua Santità si appoggiò allo schienale del trono, alzò lo sguardo verso i ricchi arabeschi del soffitto, sospirò e continuò:
+
+“La parola ‘e’ rientra tra le più significative della nostra antica e gloriosa lingua; è stata utilizzata innumerevoli volte. Le nostre classi industriali, la nobiltà, la media borghesia, così come i poveri nella loro umile condizione, sono costretti a farne uso continuamente. È, per così dire, parte del patrimonio della nostra razza. Chi non apprezzi la maestosità, l’importanza, la grandezza di questa parola, il suo pieno effetto e persino il suo terribile peso in determinate circostanze, be’, è davvero povero d’animo e debole nella sua lealtà alle tradizioni imperiali di quest’isola“, continuò Sua Santità, entusiasmandosi sempre di più per l’argomento. “‘E quindi, finché esisterà la tassa sul sale, ’ eccetera. Questo è il punto fondamentale. E, spero di essere stato chiaro.”
+
+“Tutti annuirono all’unisono, mentre un accolito entrò in questo momento della procedura (come è consuetudine nei tribunali) e intonò una canzone di adorazione per Sua Santità; un coro nascosto, lontano ma chiaramente udibile, aggiunse poi brevi canti di lode. Sua Santità attese la conclusione di queste cerimonie, che sono sempre incluse durante qualsiasi processo importante, e poi proseguì, ”
 
 
 
@@ -3857,6 +5048,63 @@ That is:
 The Sheep
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“‘Addio,’ ‘Qual è il significato della parola “E”? Penso che sia affettiva, negativa, congiuntiva e restrittiva; ma non solo. Credo anche che sia costruttiva, informativa e distruttiva. Solo utilizzandola in tutti questi modi possiamo apprezzare appieno la sua importanza fondamentale nella questione che ci stiamo occupando.’ Di nuovo, tutte le teste annuirono; anch’io fui costretto a seguire questa consuetudine, sebbene, nella mia ignoranza, non riuscissi affatto a comprendere quel discorso erudito. Gli avvocati presenti avevano un’espressione di tale attenzione che si sarebbe potuto pensare che le loro vite dipendessero da ciò che stava per accadere.”
+
+“‘Il querelante, nel recitare quella clausola,’ disse all'improvviso Sua Santità, ‘ha enfatizzato una frase molto particolare: “per sempre e per sempre”, nonché altre parole come “finché lo stato esisterà”, ma ho notato un curioso esitare da parte sua quando è arrivato a questa parola: E.’”
+
+“In fondo al campo, qualcuno sbadigliò in modo così sonoro che ci fu un’interruzione improvvisa, segnale dell’allontanamento di quella persona; in seguito appresi che quell’infelice era morto come meritava.”
+
+“Apprezzo pienamente,” continuò il Giudice, “che la mia decisione, soggetta a appello, determinerà in gran parte il futuro di questo antico Stato. Poiché siamo destinati presto ad acquisire e amministrare l’intero mondo, si può dire che le mie umili osservazioni in questa occasione influenzeranno addirittura la storia stessa dell’umanità. Nessuno può rimanere insensibile a una tale responsabilità. Il mio dovere è chiaro: la parola ‘E’, posta tra la prima e la seconda parte della frase su cui si basa la richiesta del querelante ai sensi dello Statuto, determina inequivocamente tale richiesta. Ma stabilire qualcosa significa anche porre fine a essa. Pertanto, il querelante non ha alcun diritto, nel senso in cui questa parola viene utilizzata dal nostro autorevole Statuto e Diritto Comune. È alla mercé della Corona, e la sua richiesta viene respinta. Può considerarsi fortunato che io non abbia esercitato appieno i miei poteri, facendolo frustare o gettando giù da un pozzo. Che tutto venga registrato e deciso definitivamente.” Con queste parole, Sua Santità si alzò maestosamente, benedisse la folla inginocchiata e stava per lasciare il tribunale quando l’avvocato Selim lo interruppe dicendo:
+
+“E i costi, Vostra Altezza?”
+
+“‘Con il Giudizio, ’, disse il giudice con stanchezza, e io, con disappunto, notai dieci penne che scrivevano freneticamente, chiedendomi cosa sarebbe successo dopo.
+
+“Davvero, ne avevo abbastanza di tutta questa situazione; non desideravo altro che nascondere la mia umile testa nella mia misera dimora e, il giorno dopo, con quello che rimaneva della mia misera riserva – al massimo 400 dinari – partire per la terraferma, dove, con questo piccolo capitale, avrei cercato di ricostruire la mia fortuna.”
+
+“Non sarebbe andata come immaginavo. Proprio mentre mi avvicinavo alla porta del tribunale, il procuratore Selim mi venne incontro e ripeté quella frase fino ad allora priva di significato: ‘E i costi?’ Scoprii che non avrei potuto lasciare l’edificio se non avessi pagato 350 dinari, lasciandomi esattamente cinquanta per affrontare il mondo. Fortunatamente avevo con me la mia borsa. Contai rapidamente quel misero resto del mio patrimonio; poi, temendo di tornare al mio alloggio (del quale non potevo più pagare l’affitto), camminai disperatamente lungo i moli, per tutta la sera e nell’oscurità. Fino a quando, verso mezzanotte, vidi un marinaio pronto a imbarcarsi sulla sua nave.”
+
+“Per quale somma,” gli chiesi, “mi porterai in coperta, verso la terraferma?”
+
+“‘Sono cento dinari,’ disse bruscamente.”
+
+“‘Non ce l’ho,’ risposi. Lo stomaco mi chiedeva già cibo. ‘Ho soltanto cinquanta dinari, e devo ne riservare una parte per nutrirmi, altrimenti morirò prima di raggiungere terra.’”
+
+“Beh,” disse lui con un tono meno brusco, ma privo di qualsiasi traccia di umanità, “puoi strisciare avanti tra le corde, se vuoi, e darmi quarantacinque delle tue monete; quelle cinque puoi tenerle per nutrirti quando sbarcherai.”
+
+“Gli ringraziai umilmente per la sua gentilezza inaspettata. Cercai di trovare un po’ di calore nella notte fredda, rannicchiato tra i rotoli di corda sul piccolo ponte davanti al veliero. All’alba l’ultimo membro dell’equipaggio salì a bordo; furono issate le due grandi vele e ci mettemmo in viaggio sul mare.”
+
+Prima ancora che il sole raggiungesse lo zenit, avevamo già superato l’orizzonte, lasciando alle nostre spalle i palazzi di quella terra dove pensavo di trovare sicurezza e riposo. Ero lì io, colui che poco tempo prima aveva tutto il mondo a sua disposizione, ora un mendicante, senza speranze per i giorni futuri, chiedendomi dove potessi trovare del cibo per sopravvivere almeno una settimana.
+
+Mentre Mahmoud stava per concludere, si levò un lamento forte, acuto e prolungato che lo spaventò; tutti i ragazzi presenti si sedettero a gambe incrociate davanti a lui sul pavimento. Quel lamento proveniva dal più giovane dei nipoti.
+
+“Che c’è, mio piccolo?” chiese suo zio, davvero preoccupato.
+
+“Ah! Ah!” singhiozzò il povero bambino. “Perduto! Perduto! Tutto perduto! Tutti quei bei soldi persi. Non ce la faccio, zio. Non ce la faccio!” e scoppiò in lacrime.
+
+“Per l’amor del cielo,” disse l’uomo anziano, rotolando sulla sua sedia per la preoccupazione che provava per il bambino, “non prendertela così! Non c’è motivo per tutta questa agitazione. Ne fai un problema troppo grande. È solo una parte di una storia. Non vedi forse come io sia stato riportato in grande fortuna? Non ti trovi forse in questo mio palazzo, circondato da tutti i miei schiavi e con bellissimi arazzi alle pareti? Guardati intorno. E non confondere queste parole del passato con le cose reali che puoi toccare e vedere oggi.”
+
+Il piccolo cercò di trattenere i suoi singhiozzi, ma questi tornarono ancora più intensi.
+
+“Oh, zio. Pensare che tu, che eri così ricco, possa diventare così povero; pensare che coloro che accumulano grandi ricchezze non possano tenerle per sempre! Guarda tutta la tua fortuna. Oh, è terribile. La sua distruzione e la sua scomparsa, ” Si gettò a terra sul pavimento di marmo, nascose il viso tra le braccia incrociate e iniziò a calciare alternativamente con entrambi i piedi, nel violento parossismo del suo dolore.
+
+Suo zio fu così commosso che si inginocchiò accanto al bambino per consolarlo.
+
+“Prega, prega, controllati,” disse. “Ti farai del male. Ti ammiro, mio caro ragazzo; percepisco i tuoi straordinari doni. Più di tutti i tuoi fratelli maggiori, sembri capire ciò che i giovani dovrebbero cercare nella vita. Infatti, tu comprendi ciò che gli altri non sempre comprendono: il vero significato del denaro. Ma è terribile vedere un ragazzo della tua età soffrire così tanto per la semplice menzione della sua perdita. Davvero, sono commosso dal desiderio di consolarti,” aggiunse l’uomo anziano, tentato di tirare fuori qualche moneta dalla tasca per confortarlo; poi si trattenne e continuò: “Ti consolerò offrendoti un bel bicchiere d’acqua fredda. Peccato che probabilmente me ne sia dimenticato l’ultima volta che vi ho visti.”
+
+Il piccolo si alzò a sedere, continuando a singhiozzare, ma cercava di asciugarsi gli occhi e di tanto in tanto mormorava: “Tutto quel denaro. Tutto quel bellissimo denaro, ”
+
+Acqua pura, fredda e cristallina fu portata loro; i ragazzi la bevvero con gratitudine. Dopo essersi rinfrescati a spese dello zio, lo ringraziarono calorosamente e se ne andarono con rispetto, proprio nel momento in cui si udì la voce del muezzin provenire da un minareto vicino, che con il suo ripetuto richiamo alla preghiera fece versare lacrime di devozione ai fedeli.
+
+# Al-Ghanamat
+
+Titolo:  
+Cioè:
+
+Le pecore
+
 
 
 <span class="atom-split" data-atom="chapter_07_entitled_al_ghanamat_or_the_sh--part_01" data-title="The Mercy of Allah — Chapter 7: ENTITLED AL-GHANAMAT, OR THE SHEEP (part 1)" data-chapter="ENTITLED AL GHANAMAT OR THE SH" data-kind="excerpt" data-tags="motif/journey,concept/providence"></span>
@@ -3886,6 +5134,32 @@ The aged merchant, a little concerned with their appearance, warned them that wh
 
 “As he thus spoke (his sadness seemed to relieve my own with a sense of our common dependence) the sun now near the horizon warned us of prayer and I was glad indeed to see that this new chance companion was as much alive as I to the duties we owe our Maker. He fell upon his knees and bowed to the evening prayer as I did beside him, and for some moments, as we recited the sacred formula, all worldly thoughts passed from my mind and I think from his also. We rose at the same moment from this exercise, each filled, I felt, with brotherhood. I was the first to break the consecrated silence.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+**Capitolo VII. Intitolato “Al-Ghanamat”, ovvero le pecore**
+
+Non appena i nipoti di Mahmoud si presentarono, poco dopo l’ora delle esecuzioni pubbliche, per ascoltare la continuazione della straordinaria storia di loro zio, il loro volto mostrava un’espressione diversa da quella che avevano avuto nei giorni precedenti. Il pensiero che quel grande uomo fosse stato soggetto a sfortune come tutti gli altri e avesse attraversato le prove della povertà reale aveva scosso le loro giovani e sensibili anime. Certo, anche nella loro breve esperienza, erano stati abituati all’idea che loro stessi e il loro povero padre dovessero subire disprezzo; ma il fatto che il capofamiglia avesse mai dovuto affrontare simili difficoltà aveva messo in dubbio la loro fiducia nel mondo.
+
+Il vecchio mercante, un po' preoccupato per il loro aspetto, li avvertì che ciò che aveva da dirgli, non solo quel giorno ma anche in seguito, non avrebbe portato a nulla di positivo. “Questi furono,” disse, “i giorni della mia rovina. Mi insegnarono umiltà; spesso, quando devo cacciare un povero dalla sua casa, perseguire una vedova affamata per i suoi debiti, o far imprigionare qualcuno che non ha rispettato un contratto che gli avevo imposto, sospiro e mi rimprovero, pensando che anch’io potrei trovarmi nella loro stessa situazione (se non fosse per la infinita bontà di Dio). Tuttavia, onestamente, considerando l’incompetenza di quelle persone, non riesco proprio a immaginarmele al mio posto.” Dopo aver introdotto così ciò che aveva da dire, il mercante proseguì:
+
+“Quella triste notte mi sedetti nella parte anteriore della barca, in attesa di scorgere la terraferma. Cercai di elaborare un piano, come è abitudine delle persone del mio carattere, ma nella mia mente stanca e sconvolta non riuscii a formulare alcuna idea. L’unica cosa che possedevo, l’unica davvero preziosa (oltre alle poche monete che a malapena mi sarebbero bastate per un giorno), era l’abito che indossavo; infatti, conservavo ancora i vestiti eleganti della mia precedente condizione sociale. Li avevo portati durante il processo. In realtà, non ne possedevo altri.”
+
+“Questo abbigliamento e quel certo atteggiamento orgoglioso che avevo acquisito negli anni di prosperità mi hanno salvato dall’essere insultato; anche se non sono sicuro che, se mi fosse stato chiesto di portare qualche pacco per i passeggeri più ricchi, non avrei accettato l’opportunità di guadagnare qualcosa. Ho speso circa metà dei miei pochi soldi in un pasto; con il resto ho comprato del cibo per la sera.”
+
+La città in cui mi trovavo era – fortunatamente – troppo affollata e movimentata per prestare attenzione a un viaggiatore occasionale. Senza alcuna direzione precisa, fidandomi, come avevo fatto molto tempo prima, della fortuna o meglio della [[Providence|Provvidenza]], mi diressi lungo un sentiero casuale che inizialmente seguiva la riva del fiume, sopra il porto, per poi attraversare i giardini della città e raggiungere le colline oltre.
+
+“La campagna qui era di una natura più fertile rispetto ai luoghi che avevo attraversato fino ad allora. Gli alberi fitti dei boschi offrivano un’ombra piacevole in quella tranquilla tarda pomeriggio; e quando superai quei boschi nel mio viaggio verso l’alto, arrivai in una vasta distesa di erba rada, ideale per il pascolo del bestiame.”
+
+“A quanto pare, era stato assunto per lavorare con i pastori; infatti vidi, a una certa distanza, un uomo che stava in piedi con l’atteggiamento tipico di un pastore, tenendo accanto al suo robusto corpo anziano il proprio bastone. Era una figura davvero notevole. Mi avvicinai senza alcuna idea precisa di cosa potesse portare questa mia iniziativa. Sapevo soltanto che le cose non potevano andare peggio. Forse avevo in mente, anche se solo vagamente, l’idea che potessi essere utile in qualche modo, per un compenso modesto. Comunque, gli mi avvicinai. Raramente ho visto un’espressione così arrogante e decisa. Eppure quell’uomo era soltanto un dipendente assunto a pagamento. Aveva circa sessant’anni, una postura imponente, occhi luminosi e quasi feroci; il suo viso aveva i tratti di un falco, anzi, di un’aquila. Lì in piedi, osservava un grande gregge di pecore: ben nutrite, grasse, di razza eccellente. Ce n’erano almeno mille. E sembrava che la religione di quella regione (poiché anche loro erano veri credenti) non vietasse l’uso delle campane. Sentivo infatti un continuo tintinnio provenire dal gregge mentre si muoveva. Lontano, il plateau confinava con il cielo; tra quell’orizzonte e la cima della montagna su cui mi trovavo, valli e stagni nascondevano le varie forme del paesaggio. Ma non c’erano alberi. Tutto era nudo e maestoso sotto il cielo, mentre la luce del tramonto si diffondeva ovunque, ”
+
+Il pastore ricambiò il mio saluto, accettò l’offerta di condividere il poco cibo che avevo comprato e così si sedette davanti a me per mangiare.
+
+“Mentre mangiavamo, iniziammo a conoscerci meglio. Gli raccontai francamente della mia sfortuna, anche se non nei dettagli. ‘Ieri ancora,’ dissi, ‘ero un uomo ricco; oggi sono ciò che vedete, e l’ultimo pezzo d’argento che avevo è sparito.’ Lui mi guardò seriamente e disse che c’è Colui che dona e Colui che toglie. Che il Suo nome sia esaltato. ‘Ad esempio, queste pecore,’ aggiunse, ‘appartengono a un uomo spregevole sotto ogni aspetto: stupido, irascibile, cattivo padrone di casa e, si potrebbe dire, mercante incauto. Eppure lui prospera, mentre io, il pastore, devo vivere con uno stipendio troppo misero per riuscire a sopravvivere. Ed è così da anni!’”
+
+“‘Non ne ho le capacità,’ aggiunse con un pizzico di amarezza, ‘per quel tipo di vita che mio padrone persegue. Comunque sono assolutamente certo di una cosa: secondo qualsiasi giudizio comune delle persone, lui è il subordinato e io il padrone. Eppure eccomi qui. Il mondo è crudele con i poveri.’ Mi guardò per vedere se le sue parole fossero state comprese.”
+
+“Mentre parlava in questo modo (la sua tristezza sembrava alleviare anche la mia, facendoci sentire entrambi legati da una comune dipendenza dal Creatore), il sole ormai vicino all’orizzonte ci ricordò di pregare. Ero davvero felice di vedere che questo nuovo compagno condivideva con me lo stesso senso del dovere verso il nostro Creatore. Si inginocchiò e recitò la preghiera serale insieme a me; per alcuni momenti, mentre ripetevamo quelle parole sacre, tutti i pensieri mondani svanirono dalla mia mente, e credo anche dalla sua. Ci alzammo nello stesso istante, entrambi pervasi da un senso di fratellanza. Fui io il primo a rompere quel silenzio sacro.”
 
 
 
@@ -3920,6 +5194,36 @@ The aged merchant, a little concerned with their appearance, warned them that wh
 
 “For the sake of a rough calculation I asked him what sheep were fetching, and he said that in the neighbouring Ksar, which might be called a straggling market town or a large village, there was to be held, it so happened, the very next day a sheep market, where we must find ourselves shortly after sunrise. It was distant less than an hour across the uplands. The purchasers came from all parts, and as the bidding was likely to be brisk we might expect for the flock as a whole not less than 1,800 or even 2,000 pieces of gold. As he spoke I already felt that capital in my possession, or, at least, half of it, and I thought things would go hard with me if after our first successful transaction I could not carry on my partner to another and another, until at last I had manipulated him out of his share also.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Lo feci chiedendogli se, nel corso dei suoi molti anni trascorsi come pastore, non avesse mai pensato a come poter guadagnare soldi rubando le pecore del suo padrone, o usando qualche trucco con esse. Se non avesse mai avuto l’opportunità di ricattarlo, o in qualche altro modo di aumentare la propria fortuna. Perché mi sembrava intollerabile che un uomo come quello descritto dal mio interlocutore potesse essere ricco mentre lui era povero. Lui alzò le spalle, come se fosse disperato, e rispose semplicemente, ”
+
+“Nel lontano passato ho spesso tentato cose del genere; ma ogni volta sono fallito. Infatti, i migliori allevatori di questa zona mi conoscono bene come uno che ha sempre provato a trarre vantaggio a loro spese con ogni sorta di stratagemmi audaci. E senza la mia abilità nel partorire agnelli e in tutti gli altri aspetti del mestiere, non avrei mai ottenuto lavoro da loro. Per questo mi tengono d’occhio costantemente; i loro spie sono ovunque. Temo che con nessuno dei metodi che proponi riuscirei a guadagnare anche un solo dinaro. Li ho provati tutti: ho falsificato ricevute, venduto agnelli per poi dichiararli morti in incidenti, alterato i registri relativi ai parti degli agnelli. A volte ho persino preso in prestito denaro sul gregge fingendo che fosse mio. La mia unica ricompensa sono state multe, prigioni e torture crudeli. Ma la verità è che semplicemente non possiedo le capacità necessarie per essere un commerciante. Credo che queste abilità siano concesse a alcuni e negate ad altri. Per quanto mi riguarda, ho ormai perso ogni speranza di poterle utilizzare. E non ricorrerò mai più a simili stratagemmi.”
+
+Le sue parole mi riempirono immediatamente di compassione e speranza; e (poiché l’ingegnosità non manca mai alle persone del mio carattere), all’improvviso mi venne in mente un piano.
+
+“‘Perché non dovremmo?’ dissi, dopo aver raccolto del legno e acceso un fuoco per affrontare l’avvicinarsi dell’oscurità, ‘entrare in partnership? Credo di poter dire, senza vantarmi, di possedere in misura eccezionale quelle capacità di cui voi affermate di essere privi. Dio mi ha creato apposta per essere un mercante: so nascondere, distorcere, anticipare le mosse altrui, superarli in astuzia, intimidirli, spaventarli, e persino afferrare ciò che desidero con audacia, molto meglio di qualsiasi altro uomo abbia incontrato. Solo una volta nella mia vita ho commesso l’errore di fidarmi degli altri, e, come vedete, ne ho pagato le conseguenze.’ Così parlai, senza rendermi conto che stavo commettendo di nuovo lo stesso errore: proponere una partnership a uno sconosciuto. Ma in realtà Allah mi aveva accecato; voleva che sperimentassi appieno la sfortuna, affinché potessi poi amare ancora di più le sue benedizioni future.”
+
+“‘Tutti questi talenti che ho in abbondanza, e anche di più,’ continuai, ‘perché Dio è stato molto buono con me. Tu, invece, possiedi ciò che a me manca: cioè una conoscenza delle città circostanti e dei loro mercati; la conoscenza del valore delle pecore; la conoscenza del sistema organizzato per catturare persone ingegnose; e anche il modo per evitarlo. Quindi, tra noi abbiamo tutto ciò che è necessario per avere successo. Venite, decidiamo di provare insieme non appena farà giorno.’”
+
+Dopo aver detto queste parole, il pastore mi guardò a lungo e con ansia, attraverso il riflesso del fuoco che brillava nei suoi occhi penetranti. Mi chiesi se stesse esitando e a quale conclusione sarebbe arrivato. Alla fine parlò, molto lentamente.
+
+“‘Non sono disposto,’ disse, ‘non lo sono, ma correrò il rischio. Il peggio che possa accadermi l’ho già sperimentato. Nel migliore dei casi’ – e indicò la vasta mandria di pecore, ora un’unica massa bianca scintillante nell’oscurità – ‘nel migliore dei casi ognuno di noi otterrà provviste sufficienti per molti anni.’”
+
+“‘Oh, sciocco!’ pensai, ‘Provviste per molti anni. Non sa forse che i soldi si moltiplicano?’ Ma a voce alta dissi: ‘Sì, divideremo il bottino e ognuno andrà per la sua strada. Io con la mia parte e tu con la tua.’”
+
+“Esattamente,” rispose lui con un sorriso curioso che, per quel momento, mi incuriosì. “Tu con la tua parte e io con la mia.”
+
+“Con il passare della notte, gli raccontai nei dettagli il mio piano. Poiché sarei stato io ad eseguire il lavoro mentre lui avrebbe dovuto dare le istruzioni (sulla base delle sue conoscenze nel settore), proposi che fosse lui a prendere l’iniziativa e io ad obbedire alle sue direttive. Accettò senza esitazione; inoltre, accettò anche la mia idea di indossare i miei abiti eleganti e lui i miei stracci, per meglio svolgere i nostri ruoli. ‘Questo potrebbe sembrare strano mentre tu guidi le pecore,’ gli dissi, ‘ma quando ci avvicineremo alla città e al mercato dove mi dirigerai – ammesso che ce ne sia uno nelle vicinanze – proverò a prendere il tuo posto e, sotto la tua guida, riuscirò comunque a portare il gregge al luogo di vendita. Parlerò di te come del proprietario; i miei abiti eleganti aiuteranno a creare l’illusione che si tratti di una transazione onesta. La somma concordata con l’acquirente verrà pagata a te, e solo quando tutta la procedura sarà terminata e saremo ben lontani da quel luogo, chiederò la mia parte, che ritengo debba essere divisa equamente a metà.’”
+
+“A tutto ciò acconsentì anche lui; chiese soltanto se non volessi che i soldi venissero pagati a entrambi, visto che, dopotutto, ci eravamo appena conosciuti.”
+
+“Gli ho consigliato di seguire il mio piano. Ricevere i soldi in qualità di padrone sembrerebbe del tutto naturale e non susciterebbe alcuna sorpresa. Potevamo dividere il denaro in privato, quando ne avessimo avuto l’occasione.”
+
+“Per mia sorpresa, in quel momento mi fece un inchino; ma attribuii la cosa alle usanze locali e proseguii con il mio piano.”
+
+“Per fare un calcolo approssimativo, gli chiesi di quale tipo di pecore si trattasse; mi rispose che nel vicino Ksar, che si potrebbe definire una piccola città mercantile o un grande villaggio, il giorno dopo si sarebbe tenuto un mercato delle pecore, e dovevamo recarci lì poco dopo l’alba. Si trovava a meno di un’ora di distanza, attraverso le colline. I compratori arrivavano da tutte le parti, e poiché gli offerenti erano probabilmente numerosi, ci aspettavamo di guadagnare non meno di 1.800, o addirittura 2.000 monete d’oro per l’intero gregge. Mentre lui parlava, già immaginavo di possedere tutta quella somma, o almeno la metà. E pensai che le cose sarebbero andate bene per me se, dopo il nostro primo successo commerciale, fossi riuscito a portare il mio socio in altre transazioni, fino a fargli perdere anche la sua parte.”
 
 
 
@@ -3958,6 +5262,40 @@ The aged merchant, a little concerned with their appearance, warned them that wh
 
 “He led me to where the Sheiks of the neighbourhood, the principal sheep owners and magistrates, sat in solemnity before the Mosque; an awe-inspiring company. Grand and splendid among them, in their very centre and clearly the most revered of them all, I perceived my late companion the shepherd, all dressed up in my own fine clothes, but having now added ornaments reserved for him, and looking for all the world like the king of the place.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Abbiamo discusso tutti i dettagli per tutta la notte, abbiamo provato le nostre parti, e tutto è stato perfetto quando il primo barlume dell’alba è apparso a est, oltre i bordi delle colline, sotto una luna calante.”
+
+“Ci alzammo; il gregge era già radunato; ci scambiammo i vestiti; e non potei fare a meno di ammirare il mio compagno, ora che era vestito in modo molto più adatto alla sua statura e ai suoi tratti. Sembrava davvero un signore, un nobile e prospero uomo. Gli feci i complimenti per l’effetto ottenuto: gli assicurai che questo avrebbe dissipato ogni sospetto, poiché tutti lo avrebbero scambiato per un vero e proprio nobiluomo.”
+
+“Di nuovo sorrise con quel sorriso enigmatico e si inchinò troppo profondamente. Ma mi infastidì un po’ il suo tentativo di interpretare il ruolo alla perfezione, rivolgendosi a me con toni duri e con l’aria di chi si considera superiore. Io, dal canto mio, tremavo all’alba, avvolto nei miseri stracci che gli avevo preso, e stringendo goffamente il suo bastone, continuavo a camminare nel ruolo del servo.”
+
+“Poco dopo, non appena sorse il sole, i cespugli polverosi e i muri giallastri crepati del Ksar apparvero in un avvallamento attraversato da un ruscello fangoso. Dalle recinzioni all’interno proveniva il belato di molte pecore che erano state condotte allo stesso mercato; osservammo anche, sulle colline più lontane, diverse greggi dirigersi verso lo stesso luogo.”
+
+“Mio compagno mi disse, mentre eravamo ancora fuori portata d’orecchio, che arrivare presto ci avrebbe permesso di osservare l’andamento dei prezzi e, cosa ancora più importante per noi, ci avrebbe potuto consentire di allontanarci prima che si presentasse l’opportunità di essere inseguiti.”
+
+“Mi diede le sue ultime istruzioni, ricordandomi tutto ciò che avevamo concordato quella notte. ‘Io, per quanto mi riguarda,’ disse, mentre la prima pecora del nostro grande gregge entrava nelle strade strette, ‘mi fermerò dietro di voi e andrò verso il luogo riservato ai principali mercanti fuori dalla Moschea; lì aspetterò con tutta la dovuta dignità il vostro resoconto, mentre voi proseguirete verso il mercato che si trova oltre la Moschea. Quando avrete trovato un acquirente, tornate da me. È così che va fatto qui: è lo servo a negoziare, il padrone a confermare l’accordo; lo servo conduce l’acquirente dal proprio superiore, e quest’ultimo paga il prezzo dell’acquisto. Voi, intanto, cercate di capire quale sia il prezzo offerto dai concorrenti, e assicuratevi di vendere a un importo non inferiore a 2.000 pezzi d’oro.’ Poi mi disse esattamente quanti erano le pecore del nostro gregge, facendomi ripetere il conto per ogni singola pecora e agnello. Dopo aver detto questo, si allontanò da me e prese una strada che conduceva alla Moschea; io, un po’ incerto riguardo alle mie capacità, ma cercando di mostrarmi il più sicuro possibile, proseguii dritto verso il mercato. Lì condussi tutto il gregge in un grande recinto, parte del quale era riservata ai venditori di quel mercato.”
+
+Il mercato si riempì presto di acquirenti. Arrivavano in piccoli gruppi, spingevano le pecore, controllavano la lana e a volte guardavano anche dentro le loro bocche; e il gregge che avevo l’onore di comandare era senz’altro il più ammirato di tutti. Alcuni mi chiesero se non volessi venderne alcune pecore singolarmente; ma, valutando l’entusiasmo degli acquirenti, scossi la testa e dissi che non potevo vendere a un prezzo inferiore a duemila pezzi d’oro, né potevo separare il gregge. Aggiunsi inoltre che sarebbe stato un peccato farlo, poiché si trattava di un gregge di razza pura: ogni singola pecora discendeva dal famoso ariete che, trecento anni fa, per ordine del Creatore, aveva parlato con voce umana al Santo Hassan. Ammisi che tale origine non influenzasse in alcun modo la qualità della carne di montone, ma sottolineai l’effetto straordinario che essa aveva sulla lana.
+
+“Con questo iniziarono le offerte e notai con grande piacere, tra gli altri partecipanti, un uomo alto, scuro di pelle e molto magro; i suoi gesti erano lenti, lo sguardo fisso, e non distoglieva mai gli occhi dal mio viso. Ogni volta che veniva fatta un’offerta, lui la aumentava di cinquanta monete d’oro. Nessuno riusciva a batterlo. Uno dopo l’altro, tutti i concorrenti si ritirarono. Alla fine, quando quell’uomo misterioso ebbe offerto la somma straordinaria di 2.832 monete d’oro, applaudii come segnale e pronunciai la formula ‘Il cielo ha deciso’. L’uomo si avvicinò a me, tirando dalla cintura un bastoncino e un piccolo corno per l’inchiostro. Pensai che stessimo per firmare il documento di trasferimento. Mi sembrava una formalità strana, visto che lui avrebbe dovuto semplicemente allontanare gli animali e lasciarmi il sacco d’oro. Ma mi sbagliavo: non mi presentò alcun documento ufficiale, ma un pezzo di carta strana che non avevo mai visto prima, chiedendomi dove fosse l’altro pezzo necessario per completarlo. Rimasi sorpreso e confuso, ‘Quale altro pezzo?’ domandai.”
+
+“‘Intendi dire,’ disse lui con voce chiara, affinché gli curiosi spettatori potessero sentire, ‘che non hai alcuna autorizzazione?’”
+
+A questo punto il pubblico iniziò a ridacchiare; altri, avvertendo l’atmosfera di divertimento, si affollarono intorno per guardare e seguire gli eventi che si sviluppavano.
+
+“‘Non hai il permesso?’ ripeté severamente.
+
+“Mi sentivo avvampare e confondere sotto quelle risate che seguirono; anzi, mi allarmai quando sentii uno degli acquirenti dire con disprezzo al suo vicino: ‘Ne hanno catturato un altro!’”
+
+“Ammisi di non aver mai nemmeno sentito parlare di un simile strumento.”
+
+“‘Seguimi,’ disse lo sconosciuto con espressione cupa. Sia per curiosità che perché cominciavo a credere che avesse autorità, lo seguii umilmente, lasciando il mio grande gregge a belare nella stalla.
+
+“Lo sconosciuto (poiché ora mostrava di possedere le chiavi del mercato) chiuse a chiave il cancello del recinto; designò inoltre un schiavo per stare lì e assicurarsi che nessuno interferisse con la proprietà che gli avevo trasferita, e fece segno agli altri di seguirci. Poi mi portò via, e più che mai ero attento a osservare i sorrisi strani delle persone che vedevano quella piccola processione: lui davanti con il suo grande bastone, io dietro.”
+
+“Mi portò nel luogo dove i capi della zona, i principali proprietari di pecore e i magistrati sedevano con solennità davanti alla moschea; un gruppo davvero imponente. Tra loro, maestoso e splendido, al centro del gruppo e chiaramente il più rispettato di tutti, riconobbi il mio defunto compagno, il pastore: era vestito con i miei stessi abiti eleganti, ma ora adornato anche con ornamenti riservati a lui, e sembrava davvero il re di quel luogo.”
 
 
 
@@ -4009,6 +5347,53 @@ That is:
 The Orchard
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Al nostro avvicinamento, mi lanciò uno sguardo indignato, si alzò in piedi e, rivolgendosi allo straniero che mi aveva catturato, gridò con una voce terribile:
+
+“Ufficiale! Mi ha portato un altro di questi malviventi? Di chi erano le pecore che ha scacciato? E si tratta forse di un permesso falsificato, o cosa?”
+
+“Già avevo visto com'era la situazione di quella terra, e rabbrividivo al pensiero di ciò che mi aspettava. I proprietari – come avevo indovinato correttamente – avevano sofferto per i furti di pecore; avevano quindi stabilito permessi, firmati da loro stessi, per contrastare le vendite fraudolente; avevano pianificato di catturare i ladri responsabili. E questo individuo perfido si era camuffato da servitore proprio per cogliere in flagrante simili individui, ed è riuscito a catturarmi. L’ufficiale che mi aveva arrestato disse, ”
+
+“‘Mio signore,’ disse, ‘abbiamo catturato questo furfante’ – indicandomi – ‘che vende le vostre pecore senza alcuna autorizzazione! Deve averle condotte attraverso la notte. Secondo la legge promulgata dal vostro Consiglio l’anno scorso, subito dopo il digiuno, la sua punizione spetta a voi. È il proprietario ad avere l’autorità di decidere.’”
+
+“Con mia sorpresa e orrore, il mio ex compagno mi guardò con un'espressione di disprezzo terribile e disse: ‘Raccontami tutto, così potrò decidere la punizione che merita. L’avevo assunto da poco tempo; non mi fidavo di lui fin dall’inizio. Raccontami tutto!’”
+
+“‘L’ho trovato mentre vendeva le pecore di Vostra Signoria. Hanno fruttato quasi 3.000 pezzi d’oro,’ rispose l’ufficiale con espressione cupa. ‘Diventerà un ottimo esempio per tutti, mio signore: è il primo che abbiamo catturato in questo mercato mentre cercava di vendere senza autorizzazione. Non può esserci dubbio (ho testimoni a sostegno) che intendesse prendere i soldi dell’acquisto e, forse con qualche complice che non abbiamo ancora individuato, fuggire.’”
+
+“Sentendo queste parole, il mio ex compagno strinse le mani e mostrò una passione intensa quanto la sua dignità gli permettesse; una figura maestosa in quegli abiti che erano i miei. Gridò: ‘Cosa? È possibile che colui che ho nutrito, curato e aiutato possa essere colpevole di un crimine così abominabile? Quanto siamo stati saggi ad istituire questa regola! Quanto sei eccellente e zelante nel tuo incarico, aver già individuato il primo colpevole che ha tentato di commettere furto in questo luogo! Quanto è ammirevole che sia stato portato davanti alla giustizia prima ancora di poter compiere il suo crimine! Quanto è evidente l’opera della [[Providence|Provvidenza]], ’, e alzò lo sguardo verso il cielo, ‘che ce l’ha consegnato come esempio da seguire! Andiamo, tagliamogli la testa con una sega smussata.’”
+
+“L’ufficiale che mi aveva catturato in modo traditore si inchinò profondamente e disse: ‘Ascolto e obbedisco! Ma se il mio signore desidera consultarsi, vorrei parlare.’”
+
+“‘Cosa vorresti dire?’ chiese il mio compagno, che tornò a sedersi lentamente, sembrando infastidito dall’interruzione.”
+
+“‘Mio signore,’ disse l’ufficiale, ‘vi propongo che, se tagliate via la sua misera testa con una sega smussata, anche se senza dubbio ciò avrebbe un buon effetto in quel momento e incuterebbe terrore in coloro che lo vedessero, impedendo così che in futuro vengano più rubate pecore da questo mercato o che noi subiamo le stesse sofferenze di prima, l’effetto sarebbe comunque inferiore a quello che vi propongo io. Infatti, ascoltare della condanna a morte di una persona è una cosa; ma ascoltarla mentre essa stessa racconta le proprie sofferenze è un’altra. Pertanto, propongo che venga frustato a lungo, ma non fino alla morte; quando la punizione sarà quasi terminata, lasciatelo andare libero affinché possa raccontare la sua storia in tutti i nostri paesi, a chiunque voglia ascoltare. Un esempio del genere sarebbe molto più utile per i proprietari di bestiame, mio signore, di quanto non lo sarebbe la sua morte. E vi prometto che verrà frustato nel modo più efficace possibile, a vantaggio di tutte le generazioni future.’”
+
+“Esattamente come lui aveva consigliato, così fu fatto. Fui punito con il bastinado senza pietà, fino a quando pensai di essere morto; poi, in condizioni di totale umiliazione, fui lasciato andare con una settimana di cibo grossolano in quella landa desolata, con l’incarico di diffondere terrore tra i servitori dei ricchi proprietari e di scoraggiarli dal tentare mai più di giocare scherzi con le loro proprietà.”
+
+“Io, che fin da giovane ho sempre detestato l’abuso verso i servitori, io che un tempo avevo creato una così grande fortuna e ero stato un padrone così gentile verso molte persone che dipendevano da me, con la mia ingenuità e il mio cuore semplice non avrei mai potuto credere che esistessero simili truffe al mondo! Sono stato completamente ingannato!”
+
+“Mentre zoppicavo di villaggio in villaggio chiedendo l’elemosina, ascoltai tutta la storia e questa confermò esattamente la conclusione a cui ero giunto quando per la prima volta mi trovai tremante davanti ai Sheikh nella moschea.”
+
+“Quel pastore, con i suoi poveri vestiti, era in realtà il proprietario di più pecore del paese. Lui e gli altri signori da alcuni anni soffrivano a causa di vendite illegali: avevano incaricato degli agenti di sorvegliare i mercati, ma non sempre riuscivano a recuperare i soldi pagati dai loro intermediari. Per questo motivo – come ho immaginato – avevano introdotto un sistema di permessi, in modo che nessuno potesse vendere al mercato senza le licenze firmate da loro e affinché ogni venditore potesse essere riconosciuto come ladro dagli agenti incaricati della sorveglianza. Ma come avrei io, povero straniero proveniente dall’altra parte del mare, potuto sapere qualcosa di tutto questo? L’orrore di quella tradizione mi ha ferito ancora di più delle sofferenze causate dalle bastonate. Sono quasi perso la fiducia nell’uomo; per la Misericordia Eterna, non ho perso la fiducia nel Cielo!. Niente, ragazzi miei,” disse l’anziano, con voce tremante, mentre ricordava quei terribili momenti del passato, “nient’altro che la Religione mi ha sostenuto nei giorni spaventosi che sono seguiti. Posso dire con umiltà che chi non avesse avuto una fede così salda nel proprio Creatore sarebbe diventato amareggiato. Forse sarei diventato uno di quegli inutili individui che, a causa della sfortuna, diventano persone ostili all’umanità. Ma la nostra Sacra Religione mi è stata di grande aiuto; man mano che le mie ferite guarivano e i miei vagabondaggi mi allontanavano sempre di più dal luogo dove avevo subito quelle torture, ho ritrovato il coraggio di provare ancora. Ho affrontato di nuovo il mondo. Sembra proprio che coloro per cui il Cielo ha grandi progetti, coloro a cui, come me, è destinata una posizione elevata tra gli uomini, debbano prima passare attraverso prove difficili e sofferenze. Fortunati quelli che, come me, traggono beneficio da tali esperienze e mantengono intatta la loro fiducia infantile in Dio, ”
+
+“Amén,” mormorò il più anziano dei nipoti.
+
+“Cosa hai detto?” chiese Mahmoud con tono brusco.
+
+“Ho detto ‘Amen’, zio”, rispose il ragazzo con voce umile. Suo zio lo osservò attentamente.
+
+“Beh…”, mormorò, “immagino che tu sia troppo stupido per averlo detto con cattive intenzioni…”
+
+In quel momento, le stridule voci del muezzin risuonarono all’improvviso dal minareto vicino, e i giovani ragazzi lasciarono immediatamente l’appartamento del grande mercante con una velocità insolita per loro.
+
+Al-Bustán
+
+Titolo:  
+Cioè:
+
+# Il frutteto
+
 
 
 <span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_01" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 1)" data-chapter="ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt" data-tags="archetype/trickster,concept/deception,concept/greed,concept/money_and_avarice,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -4047,6 +5432,40 @@ The old man began in a subdued voice of lamentable recollection:
 “‘But once again I was unfortunate! I carried through the negotiations with success and purchased the cargo upon very reasonable terms. I delayed to the last moment the payment of earnest money and then, when delay would no longer serve, I said carelessly, that full payment would follow by messenger within two days. The merchant’s face darkened. He told me that he had been led on by false pretences, roughly bade me begone and would hear no more of the transaction. He refused to sign, and indeed left me abruptly, saying that he was off to seek another purchaser and telling me at the same time that he was seriously considering whether or no to summon me before the magistrate for having thus lost him a whole day upon a false pretence.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VIII. INTITOLATO “AL-BUSTÁN”, O IL GIARDINO
+
+Quando i nipoti di Mahmoud ricomparvero davanti a lui all’ora delle esecuzioni pubbliche, erano pervasi da una certa stanchezza d’animo; poiché sebbene sapessero che la fortuna di loro zio sarebbe stata recuperata nel seguito della narrazione (poiché eccolo lì davanti a loro, “gonfio” di essa, per usare un’espressione tipica di Baghdad), gli colpi del destino lo avevano colpito con tale violenza nelle storie appena raccontate che una parte del suo dispero aveva contagiato anche le loro anime. Si sedettero quindi con la testa bassa, pronti ad ascoltare, temendo che ciò che avrebbero sentito non fosse altro che l’ulteriore aggravarsi di situazioni insopportabili.
+
+“L’uomo anziano iniziò con una voce sommessa, piena di tristi ricordi…”
+
+“Vagabondavo attraverso quelle terre desolate, miserabile, debole, senza un soldo e in stracci. La mia anima era caduta così in basso che, al settimo giorno, rischiavo di dimenticare di recitare la preghiera del tramonto. Ma ringrazio il Cielo per aver vinto questa tentazione! Mi inginocchiai dolorosamente su quel piccolo tappeto, l’ultima cosa che mi rimaneva, e mi sottomisi alla volontà di Allah.”
+
+“Come se fosse una risposta alla mia preghiera, e mentre ero ancora inginocchiato lì, vidi in lontananza la figura di qualcuno che si muoveva. Da quella distanza, sembrava viaggiare con comodità. Sperai. Ossia, osai sperare, che, in risposta alla mia preghiera, non mi sarebbe stata data vittima. Ma almeno, qualche cosa da mangiare, ”
+
+“Accelerai il passo per raggiungere lo sconosciuto; avvicinandomi, notai con piacere i suoi abiti eleganti e il suo portamento nobile. ‘Qui davanti ho,’ pensai, ‘un uomo importante, sicuramente abituato a non avere bisogno delle umili necessità della vita quotidiana; semplice, nobile d’animo, onesto, generoso, ben provvisto. Proprio il compagno che desideravo.’ Mentre rallentavo un attimo per non farlo notare, riflettei su diversi modi per giustificare la mia intrusione nella sua solitaria passeggiata. Alla fine trovai quello che mi sembrava più adatto alle sue presumibili condizioni e al mio aspetto. Mi avvicinai a lui, mi inchinai profondamente e gli chiesi se potesse indicarmi un certo villaggio di cui avevo sentito parlare, situato più o meno nella direzione in cui stavo andando.”
+
+“Lo sconosciuto si girò per salutarmi e in quel momento provai una gioia ancora maggiore. Perché era proprio ciò che avevo pregato di incontrare. Giovane, semplice nel comportamento, cortese. Probabilmente ricco, a giudicare dal suo abbigliamento; indipendente. E probabilmente, come dicono le nostre parole, ‘padrone di sé’.”
+
+“Indossava ornamenti rari; il suo mantello era fatto della lana più pregiata e la corda che legava il suo copricapo era intrecciata con fili d’argento.”
+
+“In risposta alla mia richiesta, mi disse con una voce piacevole e profonda, nel modo tipico dei ricchi, che stava proprio dirigendosi verso quel luogo, poiché la sua casa e la sua fattoria si trovavano lungo il percorso; lì mi avrebbe aiutato a proseguire il mio viaggio. Espressi la mia gratitudine e temevo che una compagnia così trasandata potesse dispiacergli. Lui sorrise e mi assicurò che non c’era nulla che gli piacesse di più del conversare. Quella mattina aveva visitato un vicino per chiedere consigli riguardo a alcuni alberi di pero i quali non stavano crescendo bene; aveva lasciato il suo servitore seguirmi con il cavallo, preferendo tornare a casa a piedi in questo momento fresco del tramonto.”
+
+“Mentre camminavamo, parlammo di molte cose e gli raccontai francamente la storia della mia vita; perché ho scoperto che nulla è più gradito a persone della sua posizione che ascoltare come un altro sia passato dalla ricchezza alla povertà.”
+
+“‘Non sono sempre stato,’ dissi mentre camminavo al suo fianco, ‘la persona deplorevole che ora vedete. Infatti, solo pochi mesi fa ero il responsabile di una grande piantagione di frutta situata a circa cento miglia a nord di questo posto. Ero arrivato grazie a ottime referenze dei miei precedenti datori di lavoro, anch’essi proprietari di piantagioni nella regione del Golfo. Avevo lasciato questi miei ex padroni con le migliori referenze e caratteristiche personali; tuttavia, poiché il figlio maggiore di uno dei soci doveva entrare a far parte dell’azienda e non c’era spazio per entrambi, fui costretto ad andarmene. Negli anni in cui avevo lavorato con impegno, ero riuscito a accumulare un piccolo capitale; i miei gentili ex datori di lavoro furono così generosi da raddoppiarlo per me, e io fui in grado di investire l’intera somma nell’attività nuova per cui ero stato raccomandato. Perché, dopotutto,’ aggiunsi, ‘è sempre meglio avere una parte nella gestione dell’azienda.’”
+
+“Hai ragione,” disse il mio nuovo amico con sincera approvazione. “Non esiste errore più grave che offrire a una persona cose intangibili come talento, onestà e simili. Per quanto preziose possano essere, se non sono accompagnate da risorse materiali, rimangono prive di sostanza e vuote.”
+
+Con un'espressione di grande umiltà applaudii la sua risposta e gli dissi quanto fossi lusingato nel constatare che il mio giudizio coincideva con il suo. “Ma, ahimè, signore!” continuai con deferenza, “non è possibile controllare il corso dei nostri destini! Poiché c’è Colui che sta al di sopra, ”
+
+“‘Lo so, lo so!’ concordò rapidamente il mio compagno, con un tono che tradiva sia la familiarità che il dubbio riguardo a quel sentimento; e io continuai:
+
+“‘Per quella Volontà Divina,’ proseguii, ‘fui colpito da questa sfortuna. Il Cielo decise di mettere alla prova il suo servo. Nel corso delle mie mansioni fui incaricato di negoziare l’acquisto di una partita di prodotto per la concimazione presso il porto più vicino, da utilizzare nella piantagione. Lungo la strada ebbi la sfortuna di essere derubato in una locanda della borsa d’oro che mi era stata affidata. Avrei dovuto naturalmente tornare immediatamente e riferire quanto accaduto ai miei soci e datori di lavoro, offrendomi forse di compensare con i miei risparmi eventuali danni causati dalla mia negligenza; ma temevo che non mi credessero, e inoltre che, anche se mi avessero creduto, questa perdita potesse far sì che mi considerassero incompetente. Quello che feci fu andare direttamente al porto quel stesso giorno, senza un soldo in tasca, confidando nella reputazione della mia ditta per portare a termine l’affare che avevo in corso.”
+
+“Ma ancora una volta sono stato sfortunato! Ho portato a termine le trattative con successo e ho acquistato la merce a condizioni molto ragionevoli. Ho rinviato il pagamento della cauzione fino all’ultimo momento, e poi, quando non era più possibile ritardare, ho detto in modo negligente che il pagamento completo avrebbe avuto luogo entro due giorni tramite un messaggero. Il mercante si è scurito in volto; mi ha detto di essere stato ingannato con false promesse, mi ha ordinato bruscamente di andarmene e ha rifiutato di continuare la transazione. Si è rifiutato anche di firmare il contratto ed è andato via all’improvviso, dicendo che avrebbe cercato un altro acquirente e aggiungendo che stava seriamente considerando l’idea di farmi comparire davanti al magistrato per avergli fatto perdere un intero giorno a causa delle mie false promesse.”
+
 
 
 <span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_02" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 2)" data-chapter="ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt" data-tags="archetype/trickster,motif/imprisonment,concept/deception,concept/money_and_avarice,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -4070,6 +5489,26 @@ The old man began in a subdued voice of lamentable recollection:
 
 “‘Come with me,’ he continued, ‘and pass the night in my house yonder’ (it already lay before us in the hollow); ‘the conversation on your past life, which is doubtless full of adventures, will entertain me at my meal. To-morrow I will see that you have occupation upon my farm, and after a short experiment I think we shall get along very well indeed together, particularly as I have recently planted by way of experiment a number of pear trees which — as I think I just told you — are not doing well. I thought myself able from my general knowledge to conduct this orchard, but I regret to say that some of the trees have died, and that the rest are in a poor way. I evidently lack the special experience required. Since plantations are your special line you may be of the greatest service to me in this little matter.’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Rimase fedele alla sua parola: quella stessa sera ricevetti una convocazione dal magistrato per presentarmi in tribunale il giorno seguente.”
+
+“È stato sfortunato che, durante la notte, avvenisse un altro furto nell’ostello dove soggiornavo. I bagagli di coloro che erano lì vennero perquisiti; solo il mio non conteneva alcun oggetto di valore. Si sarebbe potuto pensare che una situazione del genere mi favorisse, ma invece fu proprio il contrario. Si argomentò che un uomo che soggiorna in un ostello senza i mezzi per pagare dovesse necessariamente essere un ladro, e poiché la somma rubata non venne trovata da nessun’altra parte, probabilmente ero io il colpevole, quindi chiaramente sospettato di truffe. Spaventato, tentai di fuggire; fui catturato e trattato con violenza. Il risultato finale fu che mi presentai in tribunale coperto di sangue, i vestiti strappati, e sotto accusa sia dall’ostiere che dal mercante straniero che aveva presentato la denuncia originale.”
+
+“In tali difficoltà non avevo altra via d’uscita se non ricorrere alla mia rispettabile azienda; il nome di essa, sebbene poco noto, era comunque conosciuto dalla Corte. Il magistrato esprimeva dubbi sul fatto che io avessi qualche legame con persone così importanti e mi chiese se fossi disposto a correre il rischio di inviare un messaggero ai miei presunti soci. Risposi che lo avrei fatto volentieri, ma durante i due giorni in cui il messaggero fu assente fui tenuto sotto stretta custodia nella prigione pubblica. Lì, purtroppo, quel mercante straniero ebbe la crudeltà di venire a deridermi attraverso le sbarre; inoltre, non avendo denaro da dare ai miei carcerieri, fui trattato con estrema durezza.”
+
+“I miei mali non erano ancora finiti. Per sfortuna, l’azienda a cui appartenevo e di cui avevo l’unica responsabilità amministrativa decise di effettuare un controllo a sorpresa proprio il giorno della mia partenza, scoprendo un deficit molto grave in una voce contabile che i soci, per ignoranza, non riuscivano a spiegare. Se fossi stato presente, avrei potuto facilmente chiarire tutto: si trattava semplicemente di un acconto fatto a un cliente le cui transazioni con noi erano di grande valore. Era nel mio interesse, così come in quello dei miei soci, correre questo rischio. Forse ho agito stupidamente rifiutandomi di ricevere un ricevuto o di registrare l’operazione nei registri contabili, ma si trattava solo di una somma temporanea. Dopo tanti anni di successo, non avrei mai potuto immaginare che una cosa del genere potesse finire male. Comunque, i fatti erano questi: i miei soci mi avevano cercato disperatamente, ma scoprirono con orrore che avevo lasciato l’ostello sulla strada senza pagare e senza lasciare alcuna traccia delle mie intenzioni future. Avevano inviato un uomo a cavallo a tutta velocità; lui aveva percorso i dodici chilometri fino al porto in dodici ore, ma, (essendo ormai in prigione), non riuscì a trovarmi né nella città né presso alcuna merce che avessi acquistato. Tornò dai miei soci come gli era stato ordinato, su un altro cavallo altrettanto veloce. Proprio mentre i miei soci erano sempre più convinti della mia presunta colpevolezza, arrivò anche il messaggero del magistrato con l’accusa ufficiale. Loro non si presentarono di persona, ma inviarono una lettera estremamente offensiva, in cui mi definivano un ladro disonesto, esprimendo la loro soddisfazione per essere riusciti a catturarmi e chiedendo al magistrato di infliggermi qualsiasi punizione ritenesse opportuna. Nel frattempo, dicevano, non avrebbero disturbato il magistrato a richiedere il rimborso della somma che avevo preso, poiché l’avevano già reintegrata nel mio capitale aziendale, compensando così quasi completamente il deficit.”
+
+“Potete immaginare, mio Signore, quali conseguenze tutto questo abbia avuto! Il magistrato tenne in tribunale un discorso sulla giustizia della legge, che non risparmiò nessuno, indipendentemente dal suo rango o dalle sue attività commerciali, e concluse dicendo: ‘Davanti a voi si presenta il triste spettacolo di un uomo benestante caduto nella povertà e nel disonore a causa della tentazione.’ Il mercante straniero rinunciò con disprezzo alla sua azione legale; l’oste, altrettanto sprezzantemente, dichiarò di essere soddisfatto della punizione che avevo già subito, richiedendo in cambio soltanto i miei vestiti, e mi diede questi pochi stracci. Con un’altra ammonizione, il magistrato mi congedò. Uscii dal tribunale come un uomo distrutto, vagai senza meta verso sud, facendo piccoli lavori qua e là nelle fattorie, e ora sto cercando il prossimo villaggio per offrire i miei servizi.”
+
+“‘Ecco, signore,’ conclusi, ‘la mia storia. Sono qui, con tutte le capacità commerciali necessarie e una solida formazione nelle varie attività imprenditoriali (soprattutto nella gestione di piantagioni), eppure, senza alcuna colpa da parte mia, non riesco a sfruttare queste doti, a ristabilire la mia reputazione e a riprendere il mio posto nella società.’”
+
+“Il giovane ricco fu profondamente commosso dalla mia storia; devo dire che sembrò credere ogni singola parola di essa. Infatti, non mi ero sbagliata nel valutare il suo carattere: avevo indovinato correttamente che un uomo sotto i trent’anni, dall’aspetto onesto e chiaramente goditore di agi e ricchezza, sarebbe stato particolarmente incline ad accettare qualsiasi storia romantica gli venisse raccontata.”
+
+“‘È davvero fortunato,’ rispose, ‘che tu conosca bene le piantagioni. È un argomento che al momento mi interessa molto. Ho un orto che non va bene.’ Ovviamente aveva dimenticato la prima frase che ci eravamo scambiati al nostro incontro, quella che mi aveva dato una indicazione importante. Ma le nature ricche e generose sono spesso così nella giovinezza: ed è proprio per questo che sono cattive nei giochi che richiedono abilità.”
+
+“‘Vieni con me,’ continuò, ‘e trascorri la notte nella mia casa laggiù’ (che ci si trovava già davanti, nella valle); ‘la conversazione sulla tua vita passata, che sicuramente è piena di avventure, mi divertirà durante il pasto. Domani troverò qualcosa da farti fare nella mia fattoria, e dopo un breve periodo di prova credo che andremo molto d’accordo insieme, soprattutto perché di recente ho piantato, a titolo sperimentale, alcuni alberi di pero che, beh, a quanto pare non stanno andando bene. Pensavo di essere in grado, grazie alla mia conoscenza generale, di curare questo orto, ma purtroppo alcuni degli alberi sono morti e gli altri sono in cattive condizioni. Ovviamente mi manca l’esperienza specifica necessaria. Poiché la coltivazione delle piante è il tuo campo di competenza, potresti essermi di grande aiuto in questa faccenda.’”
 
 
 
@@ -4101,6 +5540,32 @@ The old man began in a subdued voice of lamentable recollection:
 “He was so keen upon the affair that he pressed me to start for the nearest nurseryman the very next morning. There was an excellent nursery plantation, he said, not more than half a day’s ride away to the West. It stood, with the owner’s house in the midst, just outside the gates of the town to which he would direct me, either going himself or sending his bailiff with me. He would also send a wagon for the conveyance of the young shoots. Indeed, as the meal progressed (for we were now dining), he grew more and more enthusiastic on the matter and could hardly bear the delay of the night. I saw which way the land lay and saw fit to increase his keenness. I therefore told him it was quite impossible to act with such speed. ‘The young shoots,’ said I, ‘must not be left to lie untended and unplanted. We must first of all prepare the ground. The old trees must be dug up, the pits enlarged. It is the narrowness of the earthing that has been half your trouble, for the smaller root tendrils which we call “trips” are easily estopped in hard groundings.’ ‘I see!’ said he, sapiently. ‘The ground must be well soaked,’ I continued, ‘and manured with a full dressing of lime, and only when all this has been completed could I think of advising you to plant.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ecco, cari nipoti miei. Mi trovavo in una certa difficoltà. Mi è stato detto che questo tipo di problema sia piuttosto comune per noi uomini d’affari nel corso delle nostre trattative. È nostro dovere, come certo non c’è bisogno di dirvi, aggiungere dettagli verificabili alle dichiarazioni che dobbiamo fare in queste circostanze. Omettere qualsiasi particolare potrebbe suscitare sospetti; d’altra parte, nessuno sa mai dove possano portarci le menzogne più necessarie. In questo caso, mi trovavo di fronte alla difficoltà di realizzare un orto, un orto di pere, e io non ne sapevo assolutamente nulla, né degli orti né delle pere.”
+
+“Risposi quindi con grande entusiasmo, dicendo che quell’opportunità era esattamente ciò che desideravo. Gli orti erano il tipo di coltivazione che avevo studiato con maggiore attenzione, e tra tutti i frutti, le pere erano quelle su cui mi ero specializzato. Una volta visto il tipo di albero piantato dal mio gentile ospite, sarei sicuramente stato in grado di dirgli cosa c’era che non andava.”
+
+“Era quasi buio quando arrivammo nel suo giardino, ma lui era così entusiasta della sua nuova idea che mi portò subito sul retro della casa, dove erano piantati gli alberi. I loro rami magri e secchi sembravano davvero molto malati, nella penombra. Un terzo di essi era già avvizzito e morto; gli altri pendevano in varie misure. Solo circa trecento steli mostravano qualche segno di vita, promettendo frutti. Il ricco osservò quel disastro e mi guardò con ansia mentre io mi tenevo il mento tra le mani, come se stessi riflettendo sul miglior piano da seguire. Ma in realtà stavo pensando solo a me stesso.”
+
+“E fu allora, miei cari signori, che ricevetti da Lassù una di quelle illuminazioni che, per me, sono sempre state precursori di grandi eventi. Finsi intenzionalmente che il giovane ricco attendesse per il tempo necessario a una lunga preghiera, e poi dissi improvvisamente e con decisione: ‘Buttate via quel lotto!. Scusatemi,’ aggiunsi, ‘ho usato un’espressione comune nelle città barbare del nord, che forse non è molto appropriata in questa circostanza. Il mio intento era esprimere a Vostra Altezza la mia convinzione, formatasi dopo questo rapido esame nella semioscurità: quell’orto ormai non può essere salvato. Sono certo che il mio giudizio verrà confermato quando domani mattina lo esaminerò più attentamente, alla luce del giorno. Vedo anche, già ora, che il tipo di alberi che avete piantato è completamente inadatto a questo clima. Posso osare chiedervi da dove avete acquistato queste piante?’”
+
+“‘Mi è stato assicurato’, rispose il mio nuovo amico con un po' di imbarazzo, ‘che si tratta di una varietà coltivata proprio in questa regione e particolarmente adatta al nostro clima secco: visto che la nostra zona è troppo elevata per disporre di vie d’acqua.’”
+
+“Scossi la testa. ‘Siete stati ingannati’, dissi. ‘Chi vi ha venduto queste azioni inadatte?’”
+
+“Mi ha detto che si trattava di un suo amico che era partito per un po’ in viaggio; era assolutamente certo di non aver intenzione di ingannarmi. ‘Forse c’è stato qualche errore nella spedizione inviata a te,’ risposi allegramente mentre ci dirigevamo verso casa. ‘Questo tipo di pere cresce molto bene nelle pianure, e probabilmente i servitori del tuo amico hanno spedito per sbaglio la tua merce a un cliente delle pianure, che poi l’ha inviata a te qui, nelle colline. Comunque sia, l’orto è chiaramente condannato, come puoi vedere. Personalmente non ho dubbi che il problema derivi dall’uso di una varietà sbagliata. Ora, quello di cui hai bisogno,’ continuai rapidamente, valutando attentamente le mie possibilità e usando termini tecnici, ‘è una pera che non sia né palatina né sublungata, né tantomeno perforata, ma piuttosto di tipo “daxullic”, o, come la chiamiamo a volte nel settore, “ritardata”, comunque nella seconda o terza generazione.’”
+
+“‘Capisco; comprendo; afferro il senso’, disse il giovane ricco. Perché è proprio in questo modo che ho scoperto che i giovani ricchi conducono le loro conversazioni, lasciandosi completamente confusi e senza capire nulla.”
+
+“‘No,’ mi affrettai ad aggiungere, ‘non insisto certo sulla varietà persiana, anche se è la migliore. Potrebbe essere difficile da reperire e inoltre molto costosa. Quello che intendo è qualcosa della stessa famiglia. Consiglierei, come varietà più facilmente reperibile nei mercati locali, la pera chiamata dai commercianti “La Gloria del Cielo”.”
+
+“È stato introdotto alcuni anni fa dal mio amico Nasredin ed è ora una coltura molto apprezzata sull’Altopiano di Reshed, dove il clima è molto simile al vostro. Dà frutti grandi e deliziosi, estremamente commercializzabili, che maturano in fretta; inoltre possono essere acquistati a un prezzo moderato. Se lo desiderate, posso andare dal venditore più vicino e vedere cosa posso fare per voi.”
+
+Il mio ospite mi ringraziò profusamente. Disse quanto fosse piccolo il mondo e al contempo quanto fossero evidenti gli interventi della [[Providence|Provvidenza]]. Benedisse il giorno in cui ci eravamo conosciuti. Poiché, disse, anche se la questione delle spese non lo preoccupava, aveva dedicato particolare attenzione al successo dei suoi alberi di pero, e senza il mio consiglio davvero non avrebbe saputo cosa fare.
+
+“Era così desideroso di procedere che mi esortò ad partire il giorno seguente stesso verso la più vicina piantagione di piante da orto. Disse che c’era una splendida piantagione, situata a non più di mezza giornata di viaggio verso ovest; si trovava proprio alle porte della città verso cui mi avrebbe indirizzato lui stesso, oppure avrebbe inviato il suo maggiordomo insieme a me. Avrebbe anche mandato un carro per trasportare i giovani germogli. Infatti, man mano che il pasto proseguiva (poiché eravamo ora a tavola), diventava sempre più entusiasta dell’idea e non poteva sopportare nemmeno il minimo ritardo. Io conoscevo la posizione della terra e decisi di rafforzare il suo desiderio; gli dissi quindi che era assolutamente impossibile agire con tale rapidità. ‘I giovani germogli’, aggiunsi, ‘non possono essere lasciati senza cure o piantati in modo improprio. Prima di tutto dobbiamo preparare il terreno: bisogna scavare via gli alberi vecchi e allargare le buche. È proprio la scarsità di terra che ha causato metà dei vostri problemi, poiché i piccoli rami radicoli, che chiamiamo “tendini”, si inaridiscono facilmente in terreni troppo duri.’ ‘Capisco!’ disse lui, con saggezza. ‘Il terreno deve essere ben innaffiato’, continuai, ‘e concimato con abbondante calce; solo dopo aver fatto tutto ciò potrei pensare di consigliarvi di procedere con la piantagione.’”
+
 
 
 <span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_04" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 4)" data-chapter="ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt" data-tags="archetype/trickster,motif/garden,concept/deception,concept/greed,concept/economics,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -4128,6 +5593,30 @@ The old man began in a subdued voice of lamentable recollection:
 
 “We spent the rest of the evening looking at the illuminations in his fine library. I expressed myself enthralled by them all. I lingered with especial care over every representation of an orchard in these pictures, and spoke in the most learned manner of the various fruits therein displayed. As luck would have it we came to one particularly fine painting in which were delineated the most enormous pears of a brilliant golden hue interspersed with soft leaves. ‘This,’ I cried delightedly, ’is the very fruit of which I have been speaking! How interesting! How exciting!’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Mi fermai per creare qualcosa di nuovo, e quel giovane gentile colmò il vuoto dicendo sottovoce: ‘Esattamente! Esattamente! Ora capisco.’”
+
+“Ripresi: ‘Inoltre, dobbiamo consolidare le fondamenta dei tronchi e sistemare la terra a strati. Poi c’è la questione della verniciatura. Sarà un lavoro che richiederà ben tre giorni. Il quarto giorno potrò partire prima dell’alba. Potete essere certi che tornerò entro sera, e allora, se vi va bene, pianteremo il giorno dopo mattina, cioè il quinto giorno. Per evitare che le piante soffrano; perché ho sempre constatato,’ aggiunsi con convinzione, ‘che piantarle immediatamente è la soluzione migliore. In passato, infatti, ho perso uno o due set di alberi molto preziosi – peri – proprio per aver ritardato di ventiquattro ore l’operazione in questa stagione dell’anno.’”
+
+Mentre parlavo così, annuiva spesso, ammirando il mio talento e la mia conoscenza di queste questioni; col passare della serata, ne approfittai per farlo immergere ancora più profondamente in questo argomento affascinante, che ormai sentivo appartenermi.
+
+Il giorno dopo, con l'alba, entrambi ci recammo nel frutteto. Lui chiamò i suoi lavoratori e per molte ore fummo impegnati nei lavori; in quel periodo raccontai a lui nuove storie meravigliose riguardo alla coltivazione dei frutti, soprattutto degli alberi di pero. Quel particolare tipo di pera, chiamato “La Gloria del Cielo”, cresceva incredibilmente bene; alla fine ogni singola pera raggiungeva le dimensioni della testa di un bambino, e mezza dozzina di esse avrebbero potuto fruttare una moneta d’oro, “Se”, aggiunsi con attenzione, “se vengono imballate correttamente! Purtroppo, nonostante sia una procedura semplice, la mancanza di un imballaggio adeguato è stata la rovina di molti speculatori in questo settore.”
+
+“Nel secondo giorno dei nostri lavori ho approfondito altri dettagli del mestiere che mi sono venuti in mente durante il corso delle operazioni. Ho insistito in particolare su ciò che chiamavo il ‘punto massimo’, e lui ascoltava attentamente.”
+
+“‘C’è un limite’, dissi, ‘per le dimensioni della tua piantagione: oltre quel limite, le spese di gestione iniziano a erodere i profitti ottenuti. Una piccola sperimentazione con 300 alberi, come quelli che hai qui, è certamente solo un gioco. Ti fornirebbe divertimento, ma non un reddito significativo. La dimensione più redditizia per un orto fruttifero è molto maggiore. In una situazione come la tua’, proseguii, guardandomi intorno con l’aria di uno esperto, ‘e con un terreno del genere, ’, e così dicendo presi un pezzo di terra e lo sminuzzai attentamente tra le dita, ‘che presenta proprietà acidule di questo tipo, ma corrette da una lenta eliminazione di sostanze porfiriche. Basterebbe applicare un leggero strato di fertilizzante e, di tanto in tanto, utilizzare carbone per migliorarne le caratteristiche. Con 3.000 alberi, si potrebbero ottenere profitti annuali non inferiori a 200 pezzi d’oro, con un investimento iniziale inferiore al doppio di quella somma. Stimo che il tuo ritorno economico possa raggiungere il cinquanta per cento, nel migliore dei casi il trenta. Ma più di 3.000 alberi, temo, sarebbe un errore: i profitti aumenterebbero, ma le spese crescerebbero di conseguenza.’”
+
+“Mi interruppe con queste parole ansiose: ‘Dovrei essere felice, ’ Alzai la mano per fermarlo e dissi: ‘No! Vi assicuro che anche una cifra come 3.500 sarebbe già troppo; avvicinandosi a 5.000, le spese assorbirebbero quasi tutto il vostro profitto. Commettere un errore nel sovradimensionare queste cose è altrettanto grave che trascurarle del tutto. Fissiamo quindi la cifra a 3.000 e la spesa capitale a 400 pezzi d’oro. Così, penso che non rimarrete delusi.’”
+
+“Il terzo giorno lo passai osservando il livellamento del terreno e le ultime preparazioni necessarie, oltre a tracciare segni misteriosi con piccoli pali e prendere appunti in un libro: tutto ciò eccitava enormemente il proprietario, che, per usare un’espressione comune, era letteralmente “con la lingua fuori” nell’attesa di vedere piantati i nuovi alberi.
+
+“Quella sera, il mio gentile ospite, dopo un po’ di imbarazzo, mi fece una proposta. Mi chiese se volessi condividere i profitti dell’impresa. Rifiutai immediatamente. La mia decisione lo sorprese; ma poiché insisteva nel proporre l’idea, gli spiegai che la gratitudine non era l’unica ragione della mia risposta. Gli dovevo tutto: mi aveva trovato, sembrava davvero un mese fa, anche se in realtà erano passati solo tre giorni; mi aveva vestito, nutrito e, cosa ancora più importante, mi aveva affidato la sua fiducia. Gli assicurai che non l’avrei delusa. ‘Mi accontenterò,’ conclusi, ‘dello stipendio adeguato alla mia posizione’ (subito menzionò una somma che ridussi della metà), ‘ma farò anche di più: se, al termine del quarto anno, i vostri profitti dovessero superare quelle stime, se in tre anni riuscirete a guadagnare più di 600 pezzi d’oro – a una media di 200 pezzi all’anno, che ritengo sia un risultato probabile – accetterò, anche se con riluttanza, la metà dell’eccedenza. Sono infatti convinto,’ dissi con particolare serietà, ‘che otterremo risultati migliori di quelli che ho previsto. Ho sempre ritenuto mio dovere fornire stime conservative per evitare delusioni da parte di coloro che mi assumono. A questo, tra le altre cose, devo il grande successo che ho avuto nei primi anni della mia carriera, successo che è andato perduto a causa degli spiacevoli incidenti di cui vi ho parlato durante il nostro primo incontro.’”
+
+Il mio ospite sembrava un po' confuso riguardo alla mia integrità, o meglio, ai miei scrupoli; ma mi disse che aveva sempre ritenuto che simili atteggiamenti fossero quelli giusti, e mi assicurò che non avrei perso nulla per la severità del mio comportamento. E infatti.
+
+“Trascorremmo il resto della serata ammirando le decorazioni presenti nella sua meravigliosa biblioteca. Espressi apertamente la mia ammirazione per esse. Mi soffermai in particolare su ogni rappresentazione di un orto presente in quelle immagini, e parlai con grande erudizione dei vari frutti raffigurati al loro interno. Per fortuna, trovammo un dipinto particolarmente bello in cui erano ritratte pere enormi, di un colore dorato brillante, mescolate a foglie morbide. ‘Queste,’ esclamai felice, ‘sono proprio i frutti di cui parlavo! Che interessanti, che emozionanti!’”
 
 
 
@@ -4161,6 +5650,34 @@ The old man began in a subdued voice of lamentable recollection:
 “It was while thus engaged during our careful drop into the second nullah that the inspiration from on high flashed into my brain. I perceived that the wheels of the wagon were fastened to the hub with wooden pins, one of which, at the off-hind wheel which I was holding back, looked a little loose. The slaves had their backs turned to me, holding back the front wheels, and checking the horses; at the other hind wheel, with the body of the front wagon between us and concealing his view from mine, strained and heaved the bailiff, a fat, elderly rogue, unaccustomed to such work. I pulled out the pin, threw it into the depths of the neighbouring scrub, and as I did so continued to cry, ‘Steady there! Steady! So! Hold hard! That’s better! Woa-oh! Stand by!’ and other words of the sort, which showed my interest in the operation. I could see the wheel wobbling as we crossed the flat bed of the nullah. At the foot of the far rise it was nearly off. The time had come. ‘Now!’ I cried suddenly, ‘All together! Whip up the horses and shove!’ The whips cracked, the slaves hauled at the traces, the horses strained, up went the wagon, off came the wheel and the whole collapsed upon one side with a great din and with a sharp cracking, as though something had given way.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“‘Davvero?’ disse il mio ospite, commosso da questa coincidenza, ‘Ancora una volta devo dirlo: quanto è piccolo il mondo!’”
+
+“‘Sì,’ dissi, ‘è proprio quella pera “Glory of Heaven” di cui ho parlato; potrete constatare, confrontandola con gli insetti raffigurati qui e con le strutture di sostegno utilizzate, che si tratta di un frutto davvero enorme. Per quanto riguarda la sua succosità, dovrete giudicarla voi stessi quando raccoglierete la vostra prima raccolta. Per quanto riguarda le sue ottime qualità commerciali nei mercati del nord, sono certo che presto ne avrete esperienze soddisfacenti.’”
+
+“‘Certamente che lo farò!’ disse il mio ospite, ormai completamente sopraffatto dalle emozioni combinate di un collezionista e di un uomo d’affari. Continuava a ringraziare il cielo per aver avuto la fortuna di incontrare una persona come me. Chiamò il suo maggiordomo e diede ordine che il carro fosse preparato entro la notte e i cavalli pronti all’alba. ‘No, no,’ dissi io, ‘un’ora prima dell’alba, se possibile! Sono deciso, a qualunque costo per me, ad avere queste piante qui, a casa sua, nella stessa sera. Non posso permettermi di fallire in questa importante faccenda!’ Lui mi ringraziò ancora una volta e, quando tutti se ne furono andati, mi portò da parte per contare i soldi necessari alle mie spese.”
+
+“‘Hai detto 400 pezzi d’oro,’ disse lui, disponendo le monete in piccoli mucchi da dieci su tavolo. ‘Meglio che siano 500: potrebbero esserci state fluttuazioni di mercato da quando le hai acquistate l’ultima volta, e è meglio avere un margine di sicurezza.’”
+
+Gli dissi che ritenevo quella disposizione saggia, ma che gli avrei spiegato come sarebbero stati utilizzati ogni singolo penny quando ci saremmo rivisti la prossima volta. Curiosamente, questa era davvero la mia intenzione, anche se non potevo fornirgli una data precisa per il nostro incontro successivo. Nonostante le sue obiezioni, gli scrissi un ricevuto ufficiale, sottolineando che gli affari andavano fatti con serietà; e per rispettare tutte le formalità, firmai il documento a nome di un mio vecchio amico, Daoud-ben-Yacoub. Gli dissi anche che avrei apposto il mio sigillo se ne possedessi uno, ma essendo nella mia situazione attuale, non ne avevo alcuno a disposizione.
+
+“‘Il pollice andrà benissimo,’ disse il giovane con noncuranza. Le sue parole mi colpirono profondamente, e non senza apprensione accettai questa richiesta improvvisa. Ma ancora una volta l’ispirazione del Cielo mi venne in aiuto: abilmente sostituii il pollice con l’anulare mentre premevo la cera sotto di esso. Questo metodo,” disse il vecchio mercante, incrociando i due dita davanti ai suoi nipoti a titolo illustrativo, “vi consiglio di utilizzarlo in ogni occasione della vita. È particolarmente utile in quei paesi tirannici dove la polizia preleva le impronte digitali dei viaggiatori innocenti. L’ho usato una dozzina di volte. Ma torniamo alla mia storia.”
+
+“Mentre premevo il dito sulla cera, continuai a chiacchierare con il mio gentile ospite, distogliendo così la sua attenzione dallo osservare troppo da vicino la mia mano. ‘Questo segno del pollice,’ dissi, liberando il dito medio dalla cera, ‘questo segno del pollice è altrettanto valido di una firma; infatti Allah l’ha reso il segno distintivo di tutti gli uomini onesti; non ce ne sono due uguali. Ricorda, per favore,’ aggiunsi ridendo, ‘che si tratta del pollice della mia mano destra.’”
+
+“‘Lo farò,’ disse lui, ridendo a sua volta. ‘Come dici tu, si tratta solo di formalità. Non penso che questo diminuisca in alcun modo il vostro valore per la vostra insistenza nel rispettarle.’”
+
+Con queste parole ci separammo, entrambi estremamente soddisfatti. Lui per sognare questa nuova e meravigliosa piantagione e la ricchezza che ne sarebbe derivata; io, invece, per riversare tutta la mia anima nella preghiera verso il mio Creatore, chiedendogli umilmente ulteriore guida.
+
+“La mattina seguente, mentre ancora era buio, mi alzai e montai a cavallo; il balivo era al mio fianco, mentre gli schiavi portavano dietro i carri. Molto presto, il mio gentile ospite si alzò; per la decima volta mi benedisse prima della mia partenza e pregò affinché tornassi sano e salvo. Appesi la borsa d’oro alla sella, fissandola bene; presi anche l’arma che mi aveva gentilmente fornito, nel caso si verificassero imprevisti lungo la strada, e lo lasciai sotto la benedizione di Dio. Mentre uscivamo in silenzio dal cancello e ci dirigevamo nuovamente verso le terre desolate, pensai con un po’ di tristezza a quanto siano effimere tutti gli affetti umani. Quanto breve è stata questa esperienza di amicizia e ospitalità! Quanto brevi, anche nel breve corso di una vita umana, questi momenti di completa fiducia e fratellanza. Quando ci rivedremo?”
+
+“Del mio [[Journey|viaggio]] non c’è molto da raccontare. Abbiamo proseguito lentamente, il nostro passo determinato inevitabilmente da quello del carro lento che ci seguiva, e la mia mente era ancora concentrata su quale dovesse essere la mia prossima mossa; perché, a dire la verità, cari nipoti miei, Allah non mi aveva concesso alcuna rivelazione, nonostante le mie fervide preghiere di notte. Stavo ancora riflettendo su quale strada intraprendere quando, una volta ancora, quella Misericordia Infinita che mai mi ha abbandonato (o almeno solo per pochi brevi giorni, e anche allora soltanto per castigare la mia arroganza) venne in mio aiuto.”
+
+“In questo paese ci sono profonde gole chiamate nullah: sono i corsi di ruscelli che scorrono raramente in queste zone elevate, ma quando lo fanno, scavano canali profondi nel terreno friabile. Attraversare queste gole con un veicolo a ruote rappresenta una vera e propria sfida. Quando ne incontrammo una (si trovavano a distanze di due o tre miglia l’una dall’altra), io e il magistrato ci preoccupammo di scendere dal veicolo per aiutare gli schiavi a spingere le ruote.”
+
+“Mentre eravamo impegnati in questa operazione, durante il nostro attento ingresso nel secondo canale, l’ispirazione venne a me all’improvviso. Notai che le ruote del carro erano fissate al mozzo con dei chiodi di legno; uno di questi, sulla ruota posteriore destra che stavo trattenendo, sembrava un po’ allentato. I schiavi avevano le spalle rivolte verso di me, tenevano ferme le ruote anteriori e controllavano i cavalli; dall’altra parte della ruota posteriore, con il corpo del carro anteriore tra noi che mi impediva la vista, il carceriere – un grasso vecchio furfante, non abituato a quel genere di lavoro – si sforzava invano di fissare la ruota. Estrassi il chiodo, lo gettai nelle profondità dei cespugli vicini e continuai a gridare: ‘Fermi! Così! Tenete forte! Meglio così. Woa-oh! State attenti!’ e altre frasi del genere, per mostrare il mio interesse per quella operazione. Vedevo la ruota oscillare mentre attraversavamo la pianura del canale; in fondo alla salita successiva, stava quasi per staccarsi. Era arrivato il momento, ‘Ora!’, gridai all’improvviso, ‘Tutti insieme! Frustate i cavalli e spingete!’ I frusti schioccarono, gli schiavi tirarono forte le redini, i cavalli si sforzarono. Il carro si sollevò, la ruota si staccò e l’intero carico crollò su un lato, con un gran rumore e uno scricchiolio acuto, come se qualcosa si fosse rotto.”
+
 
 
 <span class="atom-split" data-atom="chapter_08_entitled_al_bustan_or_the_orch--part_06" data-title="The Mercy of Allah — Chapter 8: ENTITLED AL-BUSTÁN, OR THE ORCHARD (part 6)" data-chapter="ENTITLED AL BUSTAN OR THE ORCH" data-kind="excerpt" data-tags="concept/providence"></span>
@@ -4192,6 +5709,34 @@ The old man began in a subdued voice of lamentable recollection:
 
 “I paid him ten pieces of gold for the beast. (It was more than it was worth). I humbly repeated his prayer which I felt did apply with peculiar force to me now, for I was conscious that I was once more under the beneficent guidance of Heaven — who could not be with that heavy pouch now hanging again on his saddle? I rode out therefore confidently, quite careless whether I killed the beast or no in my rapid progress and brought it into Taftah well within three hours in such a state that I was delighted to find a purchaser (to whom I gave my name as Abdurram, and my profession as that of a leather dresser), who offered but five pieces of gold: I was glad to be rid of the horse and him at that.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ed effettivamente era così: l’asse principale, sebbene non si fosse spezzato, si era diviso in due; così il carro rimase fuori uso per il momento, con l’asse in condizioni precarie, una ruota posteriore mancante, e l’intera struttura capovolta.”
+
+“Il balivo era profondamente turbato. Sembrava che il mio gentile ospite fosse un uomo deciso, con momenti di cattivo umore; il balivo si lamentava della sua sorte e pensava a ciò che lo aspettava al suo ritorno. Io risi bonariamente e lo rassicurai.”
+
+“‘Come, come,’ dissi, ‘non è nulla di grave! Capisco queste cose. Tu continua verso la città; io aiuterò gli schiavi a rimettere a posto la ruota. Faremo qualche tipo di pinza da fissare nell’albero della ruota, legheremo una corda attorno all’asse rotto, e tutto andrà bene. Siamo abbastanza uomini per riparare il carro, ma tu, come ho detto, continua pure avanti. Ti raggiungerò presto.’”
+
+Il cancelliere fu sollevato da questa dimostrazione della mia efficienza e buona volontà, e felice di potersi liberare dal lavoro al quale non era affatto abituato. Proseguì a un ritmo moderato, mentre io e i schiavi rialzavamo il carro in posizione verticale. Realizzai una sorta di pinza con un pezzo di legno rigoglioso del posto, facendo attenzione a renderla troppo debole per lo scopo per cui era destinata. Legammo una corda intorno all’asse del carro e, una volta fatto tutto ciò, li esortai ad andare avanti con cautela, per evitare ulteriori incidenti. Poi accelerai il passo per raggiungere il cancelliere, che ormai si trovava a circa un miglio davanti a me. Mentre mi avvicinavo, guardai indietro da una collina intermedia. Era esattamente come avevo previsto: la pinza si era rotta e il carro era di nuovo capovolto; tuttavia, una successiva salita lo nascose dalla mia vista. Quando lo raggiunsi, lui stava camminando tranquillamente. “Il carro è a posto,” dissi, “ma dovrà procedere piuttosto lentamente.” Lui emise un profondo sospiro di sollievo. “Grazie al cielo!” esclamò. “Davvero, sei un genio!”
+
+“‘Assolutamente no!’ dissi modestamente. ‘È solo un piccolo incidente a cui sono abituato; ma ora che tutto è a posto, non dovresti tornare indietro? Dopotutto, gli schiavi sono persone ignoranti’ (questo genere di lusinghe è come miele per i magistrati), ‘e avranno bisogno di qualcuno con autorevolezza per controllarli, regolare il passo dei cavalli e assicurarsi che il carro arrivi in buone condizioni. Fa' molta attenzione: l’asse è debole. Quando arriverai in città, troveremo un chiodo adatto e risolveremo tutto in un’ora o due. Nel frattempo, io andrò avanti e ci incontreremo dal giardiniere del mercato; penso che tu arrivi circa tre quarti d’ora dopo di me. Dopotutto, ora siamo a qualche ora di distanza dalla città.’”
+
+“‘Hai ragione,’ disse il baile, ‘basta seguire le tracce e noi ti seguiremo.’ Detto ciò si girò e se ne andò. Non appena lo vidi scomparire dietro la cresta della collina, piantai duramente gli speroni nel mio povero cavallo e partii a tutta velocità attraverso la brughiera.”
+
+“Sono un pessimo cavaliere; se non fosse stato per la sella comoda e le staffe robuste, sarei caduto. Ma ancora una volta [[Providence]] è stata al mio fianco. Sono passato attraverso uno spazio tra le rocce e ho visto, immediatamente davanti a me e sotto di me, le cupole bianche e i tetti piatti di una grande città; appena fuori dalle mura c’era un bell’orto pieno di giovani alberi da frutto, che ho riconosciuto come quelli del giardiniere.
+
+“Ero già passato davanti a casa sua e ai suoi terreni, ammirando in particolare quegli giovani pero (una bellissima collezione), quando mi venne in mente un’idea utile e la attuai immediatamente, ansioso com’ero di risparmiare tempo. Tornai indietro e dissi al servo alla porta della piantagione: ‘Ho un messaggio per il vostro padrone. Ditegli che, se qualcuno dovesse chiedere di Daoud-ben-Yacoub, lui mi ha incaricato di dire che è tornato per una strada più breve per aiutare i suoi compagni con un carretto rotto.’ Poi ripartii verso le mura della città.”
+
+“Mi avvicinai alla città e entrai attraverso il cancello con dignità, indossando i nuovi abiti eleganti che il giovane signore mi aveva dato. Salutai con aria sprezzante la guardia e mi diressi direttamente verso l’ingresso opposto della città. C’era in corso una fiera equina; sistemai il mio cavallo in una locanda, presi il sacco d’oro (che era pesante, ma non troppo da trasportare) e mi diressi verso il mercato per chiedere dove fosse possibile acquistare un cavallo al miglior prezzo. Mi fu fornito il nome di un venditore di cavalli. Mi avvicinai a lui, ma faticavo a credere a tutto ciò che mi raccontava riguardo all’animale che offriva; tuttavia dissi che sarebbe stato sufficiente per i miei scopi. Non avevo idea di dove andare, ma doveva pur esserci un posto dove fuggire, perché prima o poi il cancelliere o lo stesso mio defunto padrone mi avrebbero rintracciato. Non conoscevo nulla di quella regione: né i nomi delle sue città, né le strade. Decisi quindi di ricorrere alla diplomazia. Mentre pagavo il cavallo, dissi al venditore che dovevo raggiungere la casa di mia madre nella città successiva prima del tramonto, e speravo che il mio acquisto fosse sufficiente per portarmi lì nell’arco della mezza giornata rimanente.”
+
+“‘Mezza giornata di viaggio a cavallo?’ rispose il mercante, stupito. ‘Non so nemmeno come tu riesca a cavalcare! Se intendi la città di Taftah, non ci vorranno più di tre ore con un cavallo decente.’”
+
+“‘Davvero?’ dissi sorpreso. ‘Sono uno straniero e posso credere solo a ciò che mi è stato detto. Ma sapete quanto siano vaghi queste persone di campagna. Mi hanno assicurato che questa fosse la strada per Taftah,’ e qui indicai attraverso il cancello orientale.”
+
+“‘Sì! È questa la strada giusta,’ disse. ‘Con questo animale potrete raggiungere facilmente la casa di vostra madre prima di sera,’ aggiunse, battendo sul dorso dell’animale. ‘Senza dubbio arriverete lì molto prima della preghiera. E che Dio vi accompagni, Hassan!’ Del resto, era proprio con il nome di Hassan che avevo fatto affari con lui.”
+
+“Gli ho pagato dieci pezzi d’oro per quella bestia, (Era più di quanto valesse davvero). Ho ripetuto umilmente la sua preghiera, che sentivo si applicasse in modo particolare a me in quel momento; ero infatti consapevole di essere nuovamente sotto la benevola guida del Cielo. Chi altro, se non Lui, avrebbe potuto guidarmi con tanta sicurezza? Così sono partito con fiducia, senza curarmi affatto di riuscire a uccidere quella bestia o meno; in tre ore l’ho portata a Taftah, in uno stato tale che sono stato felice di trovare un acquirente, (Gli ho detto di chiamarmi Abdurram e di dichiarare la mia professione come quella di conciatore di pelli). Mi ha offerto soltanto cinque pezzi d’oro. Ero contento di liberarmi sia di quel cavallo che di lui.”
 
 
 
@@ -4235,6 +5780,45 @@ That is:
 Camels and Dates
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il tempo stringeva ancora. Potevo essere rintracciato. Non sapevo quali incidenti fossero accaduti lungo la strada alle mie spalle, se quei poveri idioti fossero riusciti a riparare il carro, o se il baile avrebbe avuto il coraggio di informare il suo padrone o di inseguirmi nella prima città che incontrava. Se lo avesse fatto, avrebbe potuto trovare prove della mia partenza, e forse anche (con maggiore incertezza) tracce del mio secondo cavallo e della sua acquisto.
+
+“Ma anche se il tempo stringeva, mostrare una velocità eccessiva sarebbe stato fatale. Perciò camminai molto lentamente, indossando i miei abiti eleganti, con la borsa nascosta sotto il lembo del mio vestito, fino a quando non raggiunsi un gruppo di mercanti situato fuori da una sorta di borsa valori. Una struttura di cui questa città di Taftah, come altre vicine, andava fiera, nei pressi del palazzo del governatore.”
+
+“Fu lì che, durante una conversazione che, nonostante la mia ansia, cercai di rendere lenta e dignitosa, appresi quanto i datteri fossero molto richiesti in una grande città chiamata Laknes, situata a circa due settimane di [[Journey|viaggio]] oltre le colline. Per un uomo d’affari come me, fu davvero una storia affascinante! La gente di quella lontana regione amava appassionatamente i datteri e offrivano per quel frutto i prezzi più elevati che si possa immaginare. Il loro appetito era diventato ancora maggiore da quando la nazione immediatamente adiacente aveva approvato una legge che vietava la coltivazione e la vendita di datteri, a causa dei dolori ai denti che talvolta quel frutto poteva causare. Con questa riduzione dell’offerta, Laknes diventò ancora più interessata all’acquisto di datteri di quanto mai prima. Venivano offerte grandi ricompense a chiunque fosse disposto a portare quel prodotto in quel mercato. Gli ultimi annunci, pubblicati meno di un mese fa, indicavano un prezzo di trenta dinari al kantar e i prezzi continuavano ad aumentare. I commercianti avevano deciso di partire con una carovana il giorno dopo l’indomani.”
+
+“Con la stessa calma e dignità, dopo questa breve conversazione, li lasciai e mi dedicai immediatamente, nell’arco di mezz’ora, ad acquistare con i fondi a mia disposizione diversi cammelli e un paio di balle di datteri per ciascuno, oltre a alcuni schiavi incaricati di guidare la carovana verso la sua destinazione; inoltre assunsi anche un uomo libero come guida, poiché conosceva bene la strada.”
+
+“A quel punto era quasi buio. Avevo dato ordini (per nascondere i miei movimenti) di non partire fino a tarda settimana, ma avevo anche dato a un bambino una piccola moneta affinché, al mio segnale, mi portasse un pezzo di carta piegato, su cui in realtà non c’era scritto nulla. Proprio mentre i cammelli venivano condotti verso il loro luogo di riposo, feci segno al bambino, che corse da me e mi consegnò il biglietto. Lo aprii davanti al capo del gruppo, assunsi un’aria molto preoccupata e dissi: ‘Questo messaggio cambia completamente i miei piani! Temo di disturbarvi, ma potreste partire stasera?’”
+
+“‘Volentieri,’ disse lui. ‘Abbiamo provviste, e conosco un buon posto lungo la strada dove possiamo acquistare altro domani. Il tempo è caldo, e se il vostro viaggio richiede fretta, potrebbe essere meglio marciare durante la notte.’ Gli schiavi (a cui non fu chiesto parere) probabilmente erano d’accordo. Partimmo e proseguimmo il nostro cammino per tutta la notte.”
+
+“Fu un viaggio monotono attraverso una terra arida, con poche città o villaggi, acqua a sufficienza, ma nient’altro. Anche se accelerammo il passo, non incontrammo alcuna bestia pericolosa; il dodicesimo giorno, con la frescura della sera, arrivammo a Laknes.”
+
+“I miei cammelli erano già parcheggiati; mi recai nella principale locanda della città (sotto il nome di Ishmaïl-of-Taftah, mercante), e la prima cosa che feci, prima ancora di ordinare da mangiare, fu, ancora una volta, con tutto il cuore, ringraziare Allah per le sue misericordie. Il mio capitale era davvero quasi esaurito: avevo solo pochi pezzi d’oro addosso e la borsa era vuota; ma avevo i miei cammelli e un ottimo carico di datteri. Ero certo che il giorno dopo avrei potuto venderli a buon profitto e che la mia attività commerciale sarebbe ripresa. Feci in modo che tutti sapessero della mia arrivo, accennai al mio patrimonio e presentai loro Ishmaïl-of-Taftah, un mercante di datteri che avrebbe messo in vendita il suo carico il giorno dopo al mercato. Perché, cari nipoti miei, ci sono momenti nel commercio in cui è assolutamente opportuno dire la verità, e persino diffonderla ovunque.”
+
+Con queste parole inaspettate, il mercante Mahmoud interruppe improvvisamente il suo racconto, poiché si udì il grido del muezzin che lacerava l’aria. I nipoti si alzarono e si inchinarono. “Speriamo”, disse il maggiore, “che la prossima volta che ci presenteremo, vi troveremo, mio caro zio, mentre salite sempre più in alto nella storia che ancora avete da raccontare”.
+
+“Ahimè, miei figli,” rispose il venerabile saggio, “temo che dovrete affrontare altre delusioni prima di raggiungere l’obiettivo!”
+
+A questo punto, il bambino più piccolo sporse le labbra inferiori, che iniziarono a tremare, e cominciò a strizzare gli occhi.
+
+“Basta!” esclamò il mercante con impazienza. “Basta, mio caro ragazzo… Ne ho abbastanza!”
+
+“Oh, zio,” singhiozzò il ragazzo, “non riesco a sopportare l’idea che tutta quella nuova ricchezza possa essere rubata a te.”
+
+“Basta, vi dico!” gridò Mahmoud arrabbiato, alzandosi a metà, “Vi assicuro che ne ho abbastanza! Apprezzo le vostre intenzioni. Ammiro il vostro giudizio. È meraviglioso in un bambino così giovane. Ma non posso permettermi di essere disturbato da lacrime inutili per cose accadute tanto tempo fa. Dimostrate troppa compassione. Siete troppo sensibile, carissimo.”
+
+Il bambino salutò, assunse un aspetto più sereno e seguì i suoi fratelli fuori dalla stanza; Mahmoud, il cui equilibrio interiore era stato leggermente turbato dall’incidente, ristabilì la calma semplicemente tirando fuori una manciata di monete da una manica e contandole lentamente nell’altra: un passatempo che gli permetteva sempre di tornare in uno stato d’animo ottimale.
+
+# Al-Jamal Wa’l-Nakhl
+
+Titolo:  
+Cioè:
+
+# Cammelli e datteri
+
 
 
 <span class="atom-split" data-atom="chapter_09_entitled_al_jamal_wal_nakhl_or--part_01" data-title="The Mercy of Allah — Chapter 9: ENTITLED AL-JAMAL WA’L-NAKHL, OR CAMELS AND DATES (part 1)" data-chapter="ENTITLED AL JAMAL WAL NAKHL OR" data-kind="excerpt" data-tags="concept/deception"></span>
@@ -4274,6 +5858,42 @@ Having so spoken the aged merchant bent for a moment in silent prayer and then p
 
 “During the progress of this divine repast I noted with pleasure that the distinguished master of the house never once introduced the subject of my affairs.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IX. INTITOLATO “AL-JAMAL WA’L-NAKHL”, O CAMMELLI E DATI
+
+Quando arrivò l’ora dell’esecuzione pubblica, i ragazzi entrarono timidamente nella presenza del loro ricco zio e si sedettero sul costoso tappeto ai piedi del suo divano, pronti ad ascoltare la continuazione delle sue avventure.
+
+“Quell’eccellente vecchio signore iniziò così…”
+
+“Vi avverto, miei figli, che il cammino verso la ricchezza, che (per la Misericordia di Allah) mi è stato concesso percorrere, è tortuoso e difficile. Trarre profitto dai miei insuccessi! Restate determinati a arricchirvi, anche dopo le peggiori sfortune! Sì! Dopo la ricchezza e la povertà (come le mie), quando la ricchezza ritorna, e ahimè! anche la povertà ritorna, non disperate mai. Continuate a puntare al denaro, continuate a decidere il vostro destino. Ma sempre, con grande reverenza, adorate Lui, il Supremo, l’Onnipotente, Colui che dona grandi somme di denaro. Nessun talento nel [[Deception|inganno]] delle persone o nell’ingannare la folla può da solo portare a grandi ricompense. L’acquisizione di quelle immense somme che rappresentano la principale gloria dell’uomo, è, come tutto il resto, nelle Mani di Dio.”
+
+“Mio fratello, tuo padre, sebbene povero, ti ha insegnato a dovere le nozioni fondamentali della nostra sacra religione. Non rimarrai deluso se alla fine della tua vita finirai tra i novantanove che muoiono nella miseria, invece di essere uno dei cento beati che, come me, possiedono un palazzo e innumerevoli schiavi, ”
+
+Dopo aver detto queste parole, il vecchio mercante si chinò per un momento in silenziosa preghiera, poi proseguì.
+
+“Ricorderete che alla fine della mia ultima avventura avevo raggiunto una condizione non certo di agi, ma almeno di una fortuna tollerabile. Possedevo un gruppo di cammelli, ognuno carico di due grandi cesti pieni di datteri, oltre a conducenti incaricati di guidarli.”
+
+“Ricorderete anche come, al mio arrivo a Laknes, desideroso di sfruttare al meglio il mio tempo, parlassi liberamente con tutti i miei prodotti, ne lodavo le qualità, spiegavo come intendevo venderli il giorno dopo nei mercati pubblici e diffondevo in tutto il mondo il nome di Ishmaïl-of-Taftah, che per quel momento era il mio.”
+
+“La voce si diffuse, proprio come avevo intenzione che accadesse. Dopo il tramonto, passeggiavo per le strette strade della città e mi compiaceva sentire parlare del mio arrivo e dei miei prodotti. Avevo ricevuto promesse per il giorno seguente. Tornai quindi dai miei uomini.”
+
+“Avevo già steso il mio letto nell’angolo del cortile, quando apparve un schiavo vestito con grande eleganza; si inchinò profondamente e, avvicinandosi a me, chiese se aveva l’onore e la fortuna di parlare con il rinomato mercante Ishmaïl. Portava con sé un invito da parte del più importante commerciante della città, il cui nome avevo già sentito menzionare molte volte a Taftah; tutti i mercanti del luogo lo rispettavano molto per la sua enorme ricchezza: si trattava di Yusouff ben Ahmed, conosciuto anche come ‘El-Zafari’, ovvero il Trionfante.”
+
+“Nonostante fosse tardi, acquistai abiti eleganti; con l’ultimo mio oro noleggiai un asino di straordinaria magnificenza e arrivai al palazzo di Yusouff, vestito in modo che non potevo permettermi, ma che consideravo una sorta di investimento.”
+
+“Mi aspettavo di trovare in questo palazzo quella meravigliosa semplicità nei modi che è inscindibile da una vera e propria grande ricchezza. E non fui deluso. La stanza interna in cui fui condotto, rivestita dappertutto di marmo nero, non presentava alcun ornamento se non tre vasi di alabastro bianco, alti quanto un uomo e di immensa antichità. Un tempo appartenevano a un giovane nobile che Yusouff aveva rovinato; questi li aveva poi ottenuti dal Sultano. Al centro della stanza brillava la sola fiamma pura di una enorme lampada d’argento, riflessa dalla tomba di un santo. Ora pendeva da una catena dello stesso metallo; l’altezza di questa catena si perdeva nell’oscurità della maestosa cupola.”
+
+“Una fontana d’acqua profumata. Non riuscivo a definire con precisione il suo odore, ma immaginai che fosse ‘Fior de Goyim’. L’acqua scorreva dolcemente in una bacinella di porfiro, all’estremità dell’appartamento.”
+
+“Yusouff e altri due ospiti (gli unici a cui era stato chiesto di incontrarmi) si alzarono dai costosissimi tappeti persiani su cui erano sdraiati e mi salutarono con rispetto. Dopo i primi saluti e dopo aver invocato sulla mia testa la Misericordia di Allah, il padrone di casa mi disse che il banchetto era pronto, ma che prima di chiamare tutti a tavola voleva che onorassi la sua casa e guardassi quali pochi ornamenti avesse potuto prepararmi per l’occasione.”
+
+“Ero davvero compiaciuto dal suo tono di voce: era proprio quello che avevo già sentito essere tipico dei principi del mondo degli affari. Nei pochi anni trascorsi da quando si guadagnava da vivere pulendo le strade, aveva già acquisito un modo di comportarsi raffinato e controllato; quando parlava, lo faceva con l’aria di chi considerasse insignificante tutto il mondo, compreso il suo ospite. Mentre seguivo i suoi passi tranquilli, pregavo fervidamente che, una volta raggiunto un simile successo, anch’io potessi acquisire rapidamente quel modo di comportarsi tipico dei grandi uomini. Lo osservavo attentamente, nel tentativo di imitare, al momento della sua partenza, quei piccoli dettagli che denotano la ricchezza e sono così utili nelle trattative. Spesso interrompeva le frasi degli altri con le proprie parole; gli piaceva non rispondere a domande ripetute e cambiava argomento a suo piacimento, senza troppo curarsi di ciò che avevo appena detto. Si rivolgeva anche ad un altro ospite mentre io gli parlavo, dimostrando in ogni modo la propria superiorità.”
+
+“Quando ci sedemmo a mangiare, fui ancora più colpito dalle varie informazioni e dalla vasta cultura del mio ospite. Lui iniziava sempre a parlare di un argomento che aveva appena appreso dai suoi numerosi segretari, e si soffermava su di esso per lunghi periodi, il che sarebbe stato noioso se provenisse da una persona di rango inferiore. Tuttavia, tutto ciò veniva detto con tale disinvoltura da non far mai sentire la minima noia; anzi, le sue descrizioni dettagliate di cose che tutti noi conoscevamo a memoria spesso duravano addirittura più di un quarto d’ora.”
+
+“Durante lo svolgimento di questo divino banchetto, notai con piacere che il distinto padrone di casa non menzionò mai l’argomento delle mie faccende.”
 
 
 
@@ -4316,6 +5936,44 @@ Having so spoken the aged merchant bent for a moment in silent prayer and then p
 
 “Great men have a sort of simplicity in their dealings. Hardly had Yusouff discovered my gratitude and my immediate acceptance of his gift (for I could call it by no other name), than the princely fellow clapped his hands, sent for his treasurer, and had counted to me upon the spot a hundred pieces of gold. I gave him my writing of delivery, which he handed to another slave with a few words in a low voice. Then he continued to talk to me, for he was determined to detain me far into the night. Indeed it was near dawn before he whom I will now call my friend, and to whom I felt bound for life by the greatest ties of grateful affection, allowed me to pass his gates and to return to my hostelry.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Vorrei che ricordaste, miei cari nipoti,” disse Mahmoud a questo punto, “che nulla è meno gradito in un commerciante, soprattutto in uno di successo affermato, dell’affrontare argomenti legati a profitti e perdite durante un pasto; poiché questi aspetti hanno una tale importanza che solo il menzionarli può distogliere l’attenzione dalle gioie legittime della tavola.”
+
+“Solo a un'ora tarda, quando gli altri due ospiti (i cui nomi insignificanti non ho nemmeno cercato di ricordare) si alzarono per andarsene, le cose iniziarono davvero.”
+
+“Con la sottile abilità tipica di un genio commerciale, il mio ospite mi trattenne, afferrandomi per il braccio. Approfittando dell’assenza di testimoni, osai dire alcune parole su ciò che mi stava più a cuore: gli chiesi ‘Come vanno i datteri?’”
+
+“A mio grande piacere, si rivelò affabile. Si sforzò in modo davvero insolito per un’occasione così semplice e ascoltò con grande attenzione la mia semplice storia. Gli dissi francamente che al momento avevo con me pochi cammelli (non c’era alcuna necessità di confessare che non possedessi altro al mondo). Con tono disinvolto, suggerii che un numero del genere difficilmente poteva essere considerato una carovana, e che rappresentava più che altro un passatempo durante i miei viaggi. Poi menzionai anche il fatto che avevo caricato quei cammelli, più per divertimento che per necessità, con alcune date.”
+
+“Al secondo menzionare della parola ‘date’, il volto di Yusouff-il-Benedetto cambiò improvvisamente. All’inizio abbassò lo sguardo con un’espressione di vera preoccupazione. Poi, alzando lo sguardo su di me con ansia e determinazione, disse, ”
+
+“Non è affar mio… Potreste risentirvi della mia interferenza.”
+
+“Gli assicurai che non desideravo nulla di più se non un suggerimento da parte di qualcuno così favorito dal Cielo. Come avrei dovuto disporre dei miei modesti beni? Ero ansioso di ascoltare la sua risposta, più di quanto si possa esprimere a parole!”
+
+“Sospirò profondamente, scosse la testa e rispose con una certa familiarità che non potevo biasimare, ”
+
+“Povero mio amico…”
+
+“Poi sospirò di nuovo e aggiunse:”
+
+“‘Davvero non so come possa consigliarvi. La verità è che da ora in poi i datteri saranno quasi impossibili da vendere qui. È accaduto qualcosa di straordinario: proprio la scorsa settimana, la madre del nostro Emiro – la vedova – ha lasciato in eredità tutti i suoi immensi uliveti di datteri al popolo, con l’ordine che venissero distribuiti gratuitamente ogni settimana a tutti i cittadini. Ci viene chiesto di lodare la sua generosità e, naturalmente, la gente ne è molto felice. Ma per i poveri commercianti rappresenta una rovina: le loro scorte di datteri ora non hanno alcun valore. Non possono venderli ai nostri vicini al confine, che considerano i datteri nocivi perché causano mal di denti. La nuova legge, chiamata ‘Legge sul Proibizionismo dei Datteri’, è estremamente rigida. Io stesso, per senso del dovere pubblico, ho acquistato la maggior parte delle scorte a un prezzo esorbitante, per evitare che i commercianti più piccoli fallissero e per prevenire panico. Mi sono sacrificato per il bene comune.’ Sospirò di nuovo profondamente e rimase in silenzio.”
+
+“Potete immaginare, cari nipoti miei, l’effetto di questa notizia su vostro sfortunato zio! I cestini pieni di datteri (due per ogni cammello) erano, insieme agli animali stessi, tutto ciò che possedevo al mondo. Avevo attraversato quelle terre desolate a costo di grandi fatiche, privazioni infinite e pericoli mortali, proprio perché questa regione era considerata la migliore mercato per i datteri. E ora mi trovavo lì, con un nemico alle mie spalle, solo al mondo, e tutto ciò che avevo rischiato andava distrutto. Ricordai la mia terribile povertà, ancora così recente. Rabbrividii al pensiero di quei datteri inutilizzabili e del mio futuro cupo. Davanti a me c’era una regione dove i datteri erano rigorosamente vietati dalla legge; dietro di me, un pandemonio. Il disperazione invase il mio cuore, ”
+
+“Anche se sono convinto di possedere una conoscenza sufficiente delle arti essenziali per la nostra professione, Yusouff deve aver intuito i miei pensieri. Ignorando la mia precedente affermazione secondo cui le merci che avevo con me non erano altro che un giocattolo e che non mi importava della loro sorte, esprimese la più profonda solidarietà per la mia situazione e mi pregò di avere pazienza mentre rifletteva su come potesse essermi d’aiuto.”
+
+Dopo aver detto questo, si coprì il viso con la mano destra, abbassò la testa, appoggiò il gomito sul ginocchio e per qualche momento rimase immerso in quella che i mercanti chiamano “riflessione”. Quando sollevò il viso, fui scioccato nel vedere quanto fosse diventato pallido; mi meravigliai che una persona nelle sue condizioni potesse preoccuparsi così tanto delle sfortune casuali di uno straniero. Ma avevo letto che questi Principi del Commercio spesso possedevano un cuore molto tenero, e quindi non doveva sorprendermi alcuna loro dimostrazione di generosità.
+
+“Quindi potete immaginare quanto fossi felice quando ho sentito Yusouff dire con voce decisa che aveva preso una decisione riguardo all’unica questione in discussione e che avrebbe comprato personalmente i miei datteri!”
+
+“‘Non posso’ (aggiunse francamente) ‘offrirti lo stesso prezzo di un giorno o due fa; l’idea della vecchia Regina di fornire i prodotti gratuitamente ha rovinato tutto. Ma pagherò comunque un quarto del prezzo abituale, il che è molto di più di quanto tu possa ottenere altrove. Sono molto ricco. Tu sei uno straniero, in un certo senso il nostro ospite in questa città. Un gesto di gentilezza non va mai sprecato. Forse un giorno avrò bisogno anch’io del tuo aiuto. Ti ho visto solo per poche ore, ma penso che ormai conosciamo i sentimenti l’uno dell’altro. Inoltre, non ti nascondo che potrei riuscire a limitare le perdite. Ho contatti in città lontane e opportunità di vendita che altri non hanno. Vieni! Accetto di offrirti questo prezzo del terzo. È poco, lo so, ma è molto meglio di niente.’”
+
+“Il mio sollievo era indescrivibile. Avevo temuto di dover lasciare la mia merce invenduta o di doverla sacrificare perdendo tutto. Quello che Yusouff mi offrì fu la differenza tra disperazione e un barlume di speranza; anche se la perdita era grave, almeno mi permise di conservare del capitale per un'altra impresa.”
+
+“I grandi uomini hanno una sorta di semplicità nel loro comportamento. Appena Yusouff si rese conto della mia gratitudine e dell’immediata accettazione del suo dono (poiché non potevo chiamarlo in altro modo), quel nobile signore batté le mani, chiamò il proprio tesoriere e mi contò subito cento pezzi d’oro. Gli diedi la mia ricevuta, che lui consegnò a un altro schiavo dicendogli qualcosa sottovoce. Poi continuò a parlare con me, perché era deciso a trattenermi fino a tarda notte. Infatti fu quasi l’alba quando colui che da quel momento chiamerò mio amico, e verso il quale provavo un legame profondo di gratitudine, mi permise di lasciare la sua residenza e tornare al mio alloggio.”
 
 
 
@@ -4371,6 +6029,56 @@ To my surprise the fruit-seller stared at me and said:
 “‘No, sir,’ they answered me together, ‘we are bound in all haste for our native place which is threatened with a great calamity. Its name is Mawur, but, alas, it is far distant from us — a matter of some twenty leagues — the [[Desert|desert]] lies between, and we shall hardly reach it within the day that remains. For we are poor men, and only with fast camels’ (at this word they glanced at each other and shuddered) ‘could the [[Journey|journey]] be accomplished in the time.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ecco, ho scoperto che i miei cestini erano già stati rimossi e il loro contenuto trasferito nel magazzino dell’acquirente. Ho apprezzato la prontezza nel lavoro che spesso accompagna un cuore generoso.”
+
+* * * * *
+
+“Nelle prime ore del giorno seguente, prima che il sole acquisisse troppa forza, passeggiavo per il bazaar; non ero così abbattuto dal pensiero della mia perdita, quanto invece sollevato al ricordo di possedere ancora cento buone monete d’oro massiccio.”
+
+Con un malvagio piacere mi avvicinai al banchetto di un venditore di frutta. Posando una piccola moneta di rame, gli chiesi un pugno di datteri.
+
+“Non ho bisogno di una quantità intera,” dissi, “solo un pugno, da masticare mentre cammino. Sapevo infatti che, considerando le condizioni del mercato, il mio penny avrebbe potuto comprarmi un gallone di qualcosa. Volevo dimostrare di non curarmi delle piccole somme.”
+
+Per mia sorpresa, il venditore di frutta mi fissò e disse:
+
+“Date? Da quale paese vieni per chiedere delle date nella nostra città?”
+
+“‘Perché!’, dissi, ‘non ne abbiamo abbastanza? Mi hanno detto che in quel posto ne abbondano.’”
+
+“‘C’è Colui che giudica,’ disse il venditore di frutta con rassegnazione. ‘Ma per quanto riguarda i datteri, non ne troverete nemmeno in tutta la città; quelli arrivati lo scorso mese sono stati saccheggiati dai banditi delle colline. Se solo riusciste a procurarmi un gallone, vi darei volentieri due pezzi d’oro. La domanda è così alta che non c’è assolutamente alcuna scorta disponibile, né, purtroppo, alcuna speranza che ne possa esserci.’”
+
+Ero così confuso che quasi non ricordo cosa dissi dopo, ma comunque, in risposta, il mio nuovo conoscente mi disse che effettivamente si sospettava che Yusouff-il-Trionfatore possedesse alcune date precise; aggiunse anche che si diceva che nelle ultime ore della notte i servi di Yusouff fossero stati visti avanzare in processione, con numerosi cesti caricati sui muli diretti verso il magazzino di Yusouff, e coloro che avevano portato questa notizia giurarono di aver sentito l’odore dei datteri.
+
+“Ma oltre a quell’odore,” concluse, “da tre settimane non abbiamo ricevuto alcun tipo di cibo in questo posto. E se capiste la nostra abitudine riguardo al cibo, vi impietosireste di noi!”
+
+“Vi ho già descritto, miei cari nipoti, la mia ammirazione per Yusouff-il-Trionfatore. Molto prima di conoscerlo, la sua fama lontana aveva già suscitato in me grande entusiasmo. La breve conoscenza che ebbi con lui elevò ancora di più quel sentimento al massimo livello che potessi immaginare. Ma ora ha superato ogni limite. Un uomo così abile nelle trattative, così pronto nell’affrontare le situazioni, così veloce e deciso nei negoziati. Con un controllo meraviglioso dei propri gesti e del proprio tono di voce. Un uomo, in breve, infinitamente superiore a me in quella professione commerciale alla quale Allah invita tutte le grandi anime, e nella quale anch’io mi dedicavo! Non avrei mai pensato di incontrare una persona del genere. Anzi, non avrei mai creduto che esistesse davvero su questa povera terra. Avrei voluto baciare il terreno su cui camminava, o portarmi con me per sempre, come reliquia, anche solo un filo della sua borsa, ”
+
+“‘Ecco,’ esclamai, ‘il vero mercante! Ecco l’esempio perfetto di ciò che un uomo d’affari dovrebbe essere! Oh, Mahmoud, pensavi di essere qualcosa nel tuo mestiere, ma hai incontrato il tuo padrone, anzi, qualcuno che per te è come il santo più sacro rispetto al più spregevole dei miscredenti. Non c’è nessuno al mondo come lui; Allah lo ha elevato al di sopra di tutti gli altri.’”
+
+“Ma non basta, miei cari nipoti,” continuò l’uomo anziano, i cui occhi ora brillavano di una sorta di luce sacra, “non basta semplicemente ammirare coloro che ci offrono grandi esempi. Dovremmo anche imitarli. Dopo un’esperienza così straordinaria, ho deciso di seguire, per quanto possibile, le orme di colui che si è dimostrato essere al di sopra del livello della mortalità.”
+
+“‘Lui,’ mi dissi, ‘lui sarà il mio modello! Sarà la mia guida! Il suo modo di comportarsi e il tono della sua voce, in quella serata indimenticabile, saranno il mio esempio perfetto! Forse, col tempo, riuscirò a fare ciò che ha fatto lui e ad accumulare una tale quantità di denaro da poter essere considerato tra le persone più grandi dell’umanità.’”
+
+“Mi affrettai a chiamare i miei schiavi; pagai il dovuto per l’alloggio dei miei animali e, mentre guardavo il mio misero patrimonio e controllavo le mie bestie, esitai su cosa fare. Grazie alla particolare protezione di Dio, Yusouff-il-Trionfatore si era impossessato di tutto ciò che possedevo; non mi rimanevano che i cammelli. In una situazione così disperata abbandonai ogni pensiero umano e rivolsi immediatamente al cielo. Sollevai il mio cuore verso il Creatore e pregai per ricevere indicazioni. Lui, che mai abbandona a lungo il proprio servo, rispose alla mia preghiera con straordinaria rapidità; mentre pregavo, infatti, sentii due uomini che passavano accanto a me mormorare tra loro.”
+
+“Il primo, mentre si affrettavano ad andare avanti, diceva con voce tremante di paura…”
+
+“Non hanno ancora nemmeno un cammello tra loro! Eppure devono averne uno, altrimenti la terribile sentenza verrà pronunciata!”
+
+“‘Sì!’ rispose il suo compagno sussurrando con orrore, ‘Temo molto per i miei parenti in quella città, e sto andando lì proprio per assicurarmi che almeno abbiano un cammello in un momento così terribile! Perché, se entro domani a mezzogiorno non ci saranno abbastanza cammelli, ho sentito dire che verranno tutti infilzati!’”
+
+“Parlando con voci sommerse piene di terrore, senza sapere che venivano ascoltati, continuarono a camminare mentre io li seguivo e annotavo ogni parola.”
+
+“Decisi immediatamente cosa fare. Proseguii, con passi furtivi, seguendo questi due esseri ansiosi, così immersi nei futuri disastri della loro città natale. Alla fine, quando arrivammo in un luogo aperto dove si incrociavano tre strade, li raggiunsi e mi misi di fronte a loro. Avvicinandomi, dissi, ”
+
+“‘Signori, state andando verso quel luogo?’ (menzionando una città di cui non avevano mai sentito parlare, perché in realtà non esisteva affatto).”
+
+Si fermarono e mi guardarono sorpresi.
+
+“‘No, signore,’ risposero tutti insieme, ‘dobbiamo partire immediatamente per il nostro paese natale, che è minacciato da una grande calamità. Si chiama Mawur, ma ahimè si trova molto lontano da noi, a circa venti leghe di distanza; il [[Desert|deserto]] ci separa, e difficilmente riusciremo ad arrivarvi entro oggi. Siamo infatti persone povere, e soltanto con cammelli veloci’ (a queste parole si scambiarono uno sguardo e rabbrividirono) ‘potremmo compiere il viaggio in tempo.’”
+
 
 
 <span class="atom-split" data-atom="chapter_09_entitled_al_jamal_wal_nakhl_or--part_04" data-title="The Mercy of Allah — Chapter 9: ENTITLED AL-JAMAL WA’L-NAKHL, OR CAMELS AND DATES (part 4)" data-chapter="ENTITLED AL JAMAL WAL NAKHL OR" data-kind="excerpt" data-tags="motif/desert,setting/desert"></span>
@@ -4419,6 +6127,51 @@ That is:
 The Horse
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Grazie loro in modo educato, mi dispiacque di averli disturbati per una cosa così insignificante, e proseguii immediatamente verso la mia carovana. Chiesi indicazioni sulla strada per Mawur; il sentiero era chiaro e diretto attraverso i cespugli e il deserto. Mi affrettai senza sosta per tutto quel giorno interminabile e per tutta la notte successiva, fino a quando, all’alba, non superai con la mia carovana esausta le porte della città. In venti ore avevo percorso il doppio della distanza prevista.”
+
+“Cinque delle mie bestie le ho lasciate lungo la strada; e alcuni dei miei schiavi – non so ancora quanti fossero – si erano separati da me e probabilmente moriranno nel [[Desert|deserto]]. Ma il resto è ancora con me.”
+
+“Purtroppo non ero solo in questa impresa, perché scoprii che già da molto tempo un altro uomo era arrivato con due cammelli e stava ad aspettare sotto il chiaro di luna nel mercato. Poveri animali, tutti segni di stanchezza evidenti. Ma io ero deciso a ottenere il monopolio su quel commercio. Dalle conversazioni che avevo sentito, speravo che non ci fosse nemmeno un altro cammello in quella zona. Volevo assicurarmi di non avere alcuna concorrenza. Mi avvicinai al proprietario di quei due poveri cammelli e gli chiesi subito quanto volesse per i suoi animali. Mi fissò per un momento. Ma, con mia sorpresa, quando gli offrii la ridicola somma di dieci monete d’oro, accettò immediatamente, mise le monete nella sua borsa, sorrise in modo sinistro e se ne andò a grandi passi.”
+
+“Con mio rammarico, dopo pochi momenti arrivò un altro contadino, che questa volta portava con sé soltanto una cammella, un animale piuttosto più bella delle altre. Speravo, credevo davvero, che fosse l’ultimo. Mi affrettai a seguire le stesse tattiche utilizzate con il primo: anche lui accettò i cinque pezzi d’oro senza nemmeno contrattare, ma mi guardò in modo strano prima di alzare le spalle e allontanarsi rapidamente lungo un sentiero secondario.”
+
+“E poi (mentre la gente iniziava ad affollare le strade con l’alba), apparve un uomo che guidava non meno di dieci cammelli in fila. Ero seriamente allarmato, ma mi ricordai di ciò che avevo letto: come tutte le grandi fortune fossero state ottenute attraverso la speculazione, come prudenza e altre virtù banali rappresentassero invece un ostacolo al vero commercio. Mi avvicinai coraggiosamente a lui e gli offrii tutto il mio oro in cambio di tutti quei cammelli. Invece di chiedere una somma più alta, volle esaminare attentamente le monete d’oro, poi osservò attentamente anche il mio viso. Prese una delle monete, la morse, la batté contro i ciottoli. Chiaramente si assicurò che fosse autentica; senza dire una parola, prese il mio oro, chiamò le persone intorno a noi come testimoni dell’affare, mi diede la corda con cui guidare i cammelli e, scoppiando a ridere, corse via a tutta velocità.”
+
+“Ecco quindi dove mi trovavo: con i miei tredici nuovi cammelli e ciò che era rimasto della mia carovana originale. Non nego di essere stato un po’ turbato; ma potevo fidarmi solo di Allah. Lo feci con la massima devozione, pregandolo di prendersi cura del suo servo e di far sì che nessun altro cammello arrivasse in città prima che iniziassi a vendere.”
+
+“Ma che cos'è l'uomo? Che cosa è, per poter comandare i movimenti del Supremo?”
+
+“Alzai lo sguardo e vidi avvicinarsi lungo il vicolo stretto una fila di cammelli, sicuramente non meno di cento, guidati da un gran numero di uomini in disordine; camminavano con quell’aria insolente e sciocca tipica di questi animali, che in quel momento mi provocò la rabbia.”
+
+“Allora un schiavo, tremando per paura di offendermi, mi invitò ad andare da lui in un luogo dove c'erano gradini che conducevano sulle mura della città. Salii quei gradini e, dalla cima, vidi una scena che mi spezzò il cuore.”
+
+“Lì, oltre la pianura che circondava la città, apparve una tale quantità di cammelli che quasi non credevo l’universo potesse contenerne così tanti. Arrivavano a gruppi di venti, cinquanta, duecento; stormi e greggi di cammelli, guidati, condotti, cavalcati, in ogni possibile formazione, da una direzione all’altra, attraverso il [[Desert|-deserto]] e le terre coltivate, lungo strade e sentieri. Una vera marea di cammelli. Era come se tutti i cammelli dell’Arabia, dell’India, della Battria e della Siria fossero stati radunati in quel luogo.”
+
+“E, ahimè, era proprio così! O almeno, quante ne poteva disporre il Re di quella regione, ”
+
+“Perché questa era la spiegazione...”
+
+Qui gli occhi dell’uomo anziano si riempirono di lacrime, la sua voce tremò, e nonostante la ricchezza che possedeva ora, crollò al ricordo delle sue passate sfortune.
+
+“Oh, miei cari nipoti,” disse con voce rotta, “difficilmente crederete alla gravità della mia sfortuna! Poiché, dopo aver interrogato con ansia la gente del posto, ho scoperto che era scoppiata una guerra contro il loro Re a causa di quel divieto sulle date di cui vi ho parlato. Quel monarca spietato aveva ordinato loro di raccogliere, in ogni modo possibile, migliaia di cammelli entro mezzogiorno di quella stessa giornata, altrimenti sarebbero stati massacrati. Se non fosse stato per l’intervento di alcune persone, tutti uomini, donne e bambini sarebbero morti. Poiché il Re era stato improvvisamente colto dal panico a causa di questa dichiarazione di guerra e si trovava con scarse risorse per trasportare le truppe. I suoi emiri gli avevano consigliato di confiscare, senza pagarli, tutti i cammelli nelle zone circostanti.”
+
+“Nella misura in cui la mia anima sprofondava, i cuori dei cittadini si sollevavano, vedendo che il numero previsto veniva gradualmente raggiunto. A mezzogiorno, per loro tutto andava bene, ma per me era terribile! Arrivarono gli ufficiali del re: le bestie furono contate e separate, senza nemmeno un’oncia di rame da spendere per nessuna di esse! Tutto fu confiscato. E il mio povero gregge, solo in quella vasta folla, subì lo stesso destino degli altri; cosa ancora peggiore: tutti i miei schiavi furono portati via per essere usati come conducenti.”
+
+“In una terra lontana, solo, mi trovavo: non avevo più nemmeno un pezzo d’oro nel mio borsello, né un animale da allevare; ero di nuovo completamente senza nulla.”
+
+“Trascorsi il resto di quella giornata a dibattere se impiccarmi a un trave o gettarmi da un minareto. Le argomentazioni a favore di entrambe le opzioni erano così equilibrate che il sole tramontò prima che riuscissi a decidere; e anche al tramonto, per la Misericordia di Allah, apparve una nuova via d’uscita.”
+
+“Davvero?” disse con impazienza il secondo dei nipoti, ma prima che suo zio potesse rispondere si udì il rumore insopportabile del muezzin; i ragazzi, alzatisi al segnale, fecero un profondo inchino a loro zio e se ne andarono.
+
+# Al-Hisān
+
+Titolo:  
+Cioè:
+
+Il cavallo
+
 
 
 <span class="atom-split" data-atom="chapter_10_entitled_al_hisan_or_the_horse--part_01" data-title="The Mercy of Allah — Chapter 10: ENTITLED AL-HISĀN, OR THE HORSE (part 1)" data-chapter="ENTITLED AL HISAN OR THE HORSE" data-kind="excerpt" data-tags="concept/providence"></span>
@@ -4456,6 +6209,40 @@ WHEN THE NEPHEWS of Mahmoud once again attended their uncle at the hour of publi
 
 “By evening my many hours’ acquaintanceship with my horse had increased my pride in his possession, and I turned my mind away from all morbid considerations of his former owner. My only anxiety was for the night. Judge therefore of my satisfaction when, a full hour before the setting of the sun, I found myself, on emerging from a considerable wood, facing the walls of a new city, the gates of which stood about a league away from the spot whence I had first caught sight of it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo X. Intitolato Al-Hisān, ovvero il cavallo
+
+Quando i nipoti di Mahmoud tornarono ancora una volta ad assistere il loro zio alle ore delle esecuzioni pubbliche, lui li guardò con quel suo sguardo benevolo, accarezzandosi nuovamente la lunga barba per far risaltare meglio le gemme che portava sulle dita, e continuò a raccontare la storia della sua fortuna.
+
+“Mi avete lasciato, mie cari figli, alla fine del mio ultimo recital in una condizione molto deplorevole. Ricorderete che, grazie alle eccezionali capacità commerciali di un mercante rinomato per la sua organizzazione, la sua attenzione ai dettagli e il suo senso degli affari, la mia fortuna era stata ridotta a pochi cammelli e ai loro attendenti; inoltre, anche questa misera rimanenza della mia ricchezza è andata persa a causa di un errore di calcolo riguardo al mercato dei cammelli alla vigilia della guerra.”
+
+“Il tuo affetto filiale mi farà anche ricordare quell’umore amaro in cui esitavo se gettarmi giù da un minareto o impiccarmi a una trave.”
+
+“I vantaggi e gli svantaggi di questi due percorsi sembravano essere equilibrati; e sebbene la mia lunga formazione nel settore commerciale mi avesse abituato a prendere decisioni rapide (poiché questo rappresentava il modo più sicuro per anticipare i concorrenti), devo ammettere che, in questa discussione, sono rimasto incerto per quasi mezz’ora.”
+
+“È stato bene che l’abbia fatto; perché in quei trenta minuti si manifestò, in modo trionfale, la Misericordia di Allah verso coloro che Lo temono.”
+
+Mentre stavo lì, tra estranei, senza nemmeno una moneta in tutto il mondo e completamente privo di credito, senza nemmeno sapere come avrei potuto procurarmi del cibo il giorno dopo, sentii grida e il rumore degli zoccoli dei cavalli; vidi poi un cavallo grigio di razza pregiata, con la criniera fluente e una briglia lenta, correre verso di me lungo la strada. Portava una sella nobile, realizzata in India, ma non c’era nessun cavaliere; qualche centinaia di metri dietro di esso, un uomo corpulento correva disperatamente e gesticolava, sembrando piuttosto ricco e influente a giudicare dal suo abbigliamento. Il mio primo impulso fu quello di catturare quel cavallo e restituirlo al suo padrone, nella speranza di ricevere una piccola ricompensa: qualche penny che mi avrebbero permesso di comprare del cibo per quella sera e un posto dove dormire.
+
+“Ma il benevolo Creatore presto insinuò altri pensieri nella mente del suo servo. Avevo davvero catturato il cavallo; il suo padrone, ansimante, aveva rallentato il passo e si stava avvicinando a me in modo più dignitoso. Quando mi resi conto che l’animale, essendo irrequieto, sarebbe stato meglio controllabile se fossi stato in sella.”
+
+“Cari nipoti miei, come vi ho già detto tre volte, non sono un cavaliere. Il mio mezzo di trasporto abituale è il asino; e anche se, da quando ho raggiunto una posizione elevata, ho partecipato a processioni cerimoniali e persino a caccie a cui Sua Maestà mi invita con tanta gentilezza, devo ammettere che ogni volta che devo cavalcare faccio in modo di disporre di un animale non solo addestrato nel modo più accurato possibile, ma anche precedentemente tranquillizzato con farmaci.”
+
+“Tuttavia, quando la necessità lo richiedeva, mi mettevo in sella, come avete visto. E in questa occasione, anche se l’animale era di gran lunga più irrequieto di qualsiasi altro avessi mai osato affrontare, ho comunque corso il rischio. Il coraggio mi è stato concesso dall’Alto. Sono salito in sella, ma ho scoperto che il mio controllo sull’animale non era migliore di quando stavo ancora davanti a lui.”
+
+“Non posso giurare che, nel caos di quel momento, fossi riuscito a mantenere un controllo sufficientemente stretto sulla situazione. Non oso nemmeno affermare che non mi sia reso conto dell’importanza di quell’opportunità. Ricordo certamente di aver sferrato diversi calci violenti con i tacchi contro le costole di quel brutto animale inquieto. Poi, per alcuni minuti (devo ammetterlo, sotto la mia direzione), sembrò allontanarsi sempre di più dal suo padrone originale, correndo a tutta velocità lungo la strada principale della città. Sentii urla provenire da tutte le parti alle mie spalle. E quando provai a guardarmi intorno (un’impresa difficile per qualcuno che non era abituato a cavalcare), notai una folla considerevole; al centro di essa vidi la figura lontana del ricco proprietario del cavallo, che gridava e gesticolava disperatamente.”
+
+“Niente, cari nipoti miei, è più sciocco che trattare con generosità, o anche razionalmente, una folla umana eccitata. Tutti gli storici e i filosofi vi diranno che l’uomo in questo stato non è altro che una bestia selvaggia, da cui bisogna fuggire o da cui bisogna imparare a dominare, a seconda delle nostre capacità.”
+
+“Poiché non avevo la capacità di dominarli, era chiaramente mio dovere fuggirne. Inoltre, anche mentre incitavo il cavallo a procedere più velocemente, mi resi conto con preoccupazione delle difficoltà che avrei incontrato nel tentativo di spiegare la mia situazione se avessi cercato di tornare indietro. Superammo a tutta velocità il cancello aperto e ci addentrammo nella campagna circostante; ormai non mi restava altra scelta se non quella di seguire dritto per la pianura, per liberarmi definitivamente dei miei inseguitori.”
+
+“Ammirate, miei cari nipoti, i passaggi attraverso cui [[Providence|Providenza]], quando desidera aiutare uno dei suoi preferiti, lo guida da un risultato all’altro fino a quando, infine, queste persone si trovano in possesso di una somma considerevole di denaro! Ero qui, meno di dieci minuti fa, convinto che la morte fosse l’unica conseguenza della mia povertà; e ora, invece, sono a cavallo di un bellissimo destriero, seduto su una sella pregiata, libero di intraprendere qualsiasi nuova avventura.”
+
+“Mantenni il mio bellissimo cavallo al galoppo finché le porte non furono lontane dietro di me e ogni eco dei gridi confusi dei miei inseguitori non scomparve. Poi rallentai a un trotto veloce fino a quando non superammo la prima bassa cresta del terreno ondulato che nascondeva i miei movimenti dalla città. A quel punto ritenni opportuno ridurre il passo per non stancare troppo quell’animale povero che mi aveva così fedelmente accompagnato. Notai che era ancora fresco, il che significava che doveva essere appena uscito dallo stallone. Senza esitazione, e facendo pause di riposo quando necessario, continuai a viaggiare per tutto il giorno, al fine di allontanarmi sempre di più da quell’infelice malinteso che avevo lasciato alle mie spalle.”
+
+“Entro la sera, le molte ore trascorse in compagnia del mio cavallo avevano aumentato il mio orgoglio nel possederlo; smisi quindi di pensare alle condizioni precarie in cui si trovava il suo precedente proprietario. La mia unica preoccupazione riguardava la notte che stava per arrivare. Immaginate dunque quanto fossi soddisfatto quando, un’ora prima del tramonto, uscendo da una fitta foresta, mi ritrovai di fronte alle mura di una nuova città, le cui porte si trovavano a circa una lega di distanza dal punto in cui l’avevo vista per la prima volta.”
 
 
 
@@ -4495,6 +6282,40 @@ WHEN THE NEPHEWS of Mahmoud once again attended their uncle at the hour of publi
 “Great was my surprise upon entering to find that I had come just in time to hear the last evidence given and sentence pronounced upon the same young man who had so imprudently bought my horse the night before! Did I say ‘imprudently’? — Well! The designs of [[Providence]] are hidden from us, and it is not for me to judge another!... While I pitied him, therefore, I had nothing to reproach myself with, for I had fulfilled in the most honourable fashion the only contract with which I was concerned in the matter. The pursuers had arrested him before he had left the city more than a mile. He stood accused of eating dates: a practice (you will remember) forbidden throughout all those dominions. He had been seen in the act by the Sultan’s officers a week before and his name and description had been sent round to every city. Indeed a troop was hot upon his trail at the moment he had come up the night before imploring for my mount. Sentence was pronounced, and the unfortunate young man was led out to execution.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Rimasi in questo piacevole pascolo ai margini del bosco, allentai le cinghie del mio cavallo, gli tolsi la morsa e lo lasciai pascolare liberamente sull’erba deliziosa.”
+
+“Mi adagiai, per riposare, su quella stessa erba e riflettei sulla vista lontana di cupole e minareti illuminati dalla luce soffusa; i miei pensieri naturalmente si rivolsero alla domanda di quanto denaro potessi guadagnare in contanti dai cittadini che vivevano al di là di quelle mura, durante il periodo in cui avrei goduto della loro ospitalità.”
+
+Il sole stava appena tramontando quando entrai in città; notai sulle mura l’abituale proclama che vietava il consumo dei datteri, e ricevetti, come era dovuto a chi viaggiava con abiti così eleganti e su un cavallo così magnifico, gli sguardi rispettosi dei passanti, nonché lo sguardo umile ma attento della guardia alla porta. Notando il loro comportamento, non potei fare a meno di ringraziare il cielo per un’altra grazia che mi veniva rivelata in quel momento. Se avessi trovato questo cavallo dopo alcuni giorni di sfortuna, il mio aspetto esteriore non sarebbe stato adatto al suo. Quanto evidente era l’intervento della [[Providence|Provvidenza]]: avevo incontrato quel cavallo appena un’ora dopo aver perso le altre mie proprietà, quindi ancora mentre indossavo i miei abiti dignitosi da mercante, pulito, rasato e curato!
+
+Nella piazza centrale di questa città c'era un canale appositamente predisposto per abbeverare gli animali da soma, e il mio cavallo (in tutta quella giornata di [[Journey|viaggio]] avevamo attraversato soltanto un ruscello) vi si avvicinò con entusiasmo. Gli accarezzai affettuosamente il collo e pensai con piacere a quanto nobile amico avessi trovato; infatti, come sicuramente avrete letto, esiste una sorta di affinità tra l’uomo e il cavallo che permette loro di diventare immediatamente intimi anche dopo un breve incontro, soprattutto se l’uomo è una persona con inclinazioni pratiche e il cavallo di notevole valore.
+
+Dalla disposizione d'animo in cui mi trovavo mentre il mio bellissimo cavallo si rinfrescava, potete immaginare l’agitazione che provai quando sentii accanto a me una voce ansiosa, intenzionalmente modulata in un tono basso affinché fosse udita solo da me. Quella voce era piena di urgenza appassionata e mi chiedeva se fosse possibile, in quel momento, lì, subito, liberare il mio cavallo per un uomo la cui vita dipendeva da esso.
+
+“Mi girai e ci baciammo nel crepuscolo, all’ombra del suo cappuccio (di cui aveva tirato giù una parte per coprirsi il viso, formando quasi un velo). Quel giovane era così agitato che istintivamente desiderai approfittare della situazione.”
+
+“‘Signore,’ sussurrò in fretta, ‘la mia richiesta non è solo irrispettosa, ma anche straordinaria. So che non la comprenderete. Posso soltanto implorare il Cielo di compiere un miracolo. Il mio tempo è molto limitato. Non so a quale distanza possano trovarsi i miei inseguitori. La mia vita mi è cara, ma ancora più preziosa è la mia onore. Sta calando la notte. Questa è la mia opportunità; se non la colgo, tutto sarà finito per me.’”
+
+“Mi porse allora un sacco di pelle; aprendolo, nella luce fioca vidi una certa quantità di monete d’oro. L’espressione del suo volto era così supplichevole che capii immediatamente la grandezza della sua offerta.”
+
+“Se avessi vissuto una serie di avventure meno straordinarie di quelle dell’ultima giornata e notte, non avrei nemmeno ascoltato per un momento la prima proposta che mi fosse stata fatta. Avrei cercato, come era del resto mio dovere, di far aumentare il prezzo richiesto, di ottenere immediatamente parte dei suoi vestiti e della sua borsa; e, se possibile, anche una promessa scritta riguardante ulteriori pagamenti. Poiché lui era sopraffatto dal terrore, e le persone in quelle condizioni sono facilmente sfruttate. Ma il modo in cui avevo vissuto fino ad allora, la successione continua di eventi sfortunati e poi fortunati, sembravano indicare chiaramente l’intervento di Dio in tutto ciò che mi era accaduto fino a quel momento; questo mi convinse profondamente. Senza dire una parola, presi il sacco d’oro e scesi da cavallo.”
+
+Il giovane, con un'espressione nuova che non avevo mai visto prima sul volto di nessuno, non disse una parola, no, nemmeno una parola di gratitudine verso il suo benefattore; girò il cavallo in direzione della strada principale della città, astenendosi saggiamente da una partenza troppo rapida per evitare che la sua uscita venisse ricordata, e proseguì al passo veloce oltre il cancello, immergendosi nell’oscurità. L’ultima cosa che vidi di lui fu la sua figura scura che si allontanava rapidamente contro il cielo sempre più buio, delineata dal profilo a forma di ferro di cavallo del Bab-El-Soued. Ma proprio mentre lo guardavo, un gruppo di cavalieri passò fragorosamente accanto a me e attraversò lo stesso cancello per scomparire nella notte.
+
+“Per quanto mi riguarda, non pensai più a lui e tornai nel centro della città. Lì avevo in tasca il triplo del prezzo del mio cavallo, e quindi disponevo di fondi sufficienti per affrontare il futuro con sicurezza.”
+
+“La mia prima preoccupazione fu preparare un pasto eccellente; la seconda fu trovare un buon posto dove pernottare. In entrambi i casi fui fortunato. Ma prima di recitare le mie ultime preghiere della sera, presi la precauzione di informare una pattuglia di passaggio che mi era stato rubato un cavallo; infatti, in affari non si dovrebbe trascurare alcuna opportunità. Dopodiché mi affidai alla protezione divina e mi addormentai serenamente.”
+
+“La mattina seguente, dopo aver recitato umilmente e devotamente le mie preghiere del mattino, pensai che, prima di intraprendere qualsiasi attività redditizia, avrei potuto divertirmi un po’, in modo da affrontare poi gli affari seri con una mente più aperta.”
+
+“È mia abitudine, quando ho bisogno di distrarmi dalle preoccupazioni del commercio, frequentare i tribunali penali e assistere alle sentenze emesse contro coloro che vi vengono portati davanti, nonché osservare le esecuzioni che ne conseguono. Nessun altro passatempo offre un sollievo maggiore dal noioso ritmo quotidiano delle compravendite; inoltre, il contrasto tra la mia comoda posizione e quella del povero che sta per essere decapitato aggiunge un interesse particolare a questa attività, che consiglio a tutti coloro che si occupano di affari.”
+
+“Quindi mi diressi verso il cortile dove avevo sentito dire che quella mattina alcuni criminali sarebbero stati brevemente interrogati e probabilmente giustiziati.”
+
+“Quanto fui sorpreso quando entrai e scoprii di essere arrivato proprio in tempo per ascoltare l’ultima testimonianza presentata e la sentenza emessa contro lo stesso giovane che, la notte precedente, aveva comprato il mio cavallo in modo così imprudente! Ho detto ‘imprudentemente’? Beh. I disegni della [[Providence|Provvidenza]] ci sono nascosti, e non spetta a me giudicare gli altri. Anche se provavo compassione per lui, non avevo nulla di cui rimproverarmi, poiché avevo adempiuto nel modo più onorevole all’unico impegno che mi riguardava in quella faccenda. I suoi inseguitori lo avevano arrestato prima ancora che lasciasse la città. Era accusato di aver mangiato datteri: una pratica proibita in tutti quei domini. Una settimana prima, gli ufficiali del Sultano lo avevano visto compiere tale atto, e il suo nome insieme alle sue descrizioni erano stati inviati in tutte le città. Infatti, al momento in cui era venuto da me la notte precedente per chiedere il mio cavallo, una squadra lo stava già inseguendo. La sentenza fu emessa, e quel povero giovane fu portato via per essere giustiziato.”
+
 
 
 <span class="atom-split" data-atom="chapter_10_entitled_al_hisan_or_the_horse--part_03" data-title="The Mercy of Allah — Chapter 10: ENTITLED AL-HISĀN, OR THE HORSE (part 3)" data-chapter="ENTITLED AL HISAN OR THE HORSE" data-kind="excerpt" data-tags="archetype/trickster,archetype/corrupt_official,motif/horse,concept/deception,concept/greed,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -4528,6 +6349,36 @@ WHEN THE NEPHEWS of Mahmoud once again attended their uncle at the hour of publi
 
 “It is a maxim of all sound business that a thing should be sold as often as possible, and it was clear that I now had an opportunity of selling this charming creature for the third time. It was equally clear that, if I delayed, the opportunity would pass; for the story of my appearance in court would spread through the city, the officers would talk with their friends about the saddle and the description of the animal; I might even get into a difficult tangle with the authorities.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“La mia naturale passione per simili spettacoli mi avrebbe spinto ad seguirlo, se non fosse stato per un altro intervento del Cielo (non oso attribuire tale ispirazione alla mia povera anima indifesa): improvvisamente, un’idea estremamente importante mi venne in mente. Mi rivolsi al giudice ad alta voce, lamentandomi riguardo al mio cavallo. All’inizio lui sembrò turbato e fu propenso a zittirmi, non capendo quale fosse il motivo della mia richiesta; ma io osai attirare la sua attenzione e gli dissi che le informazioni che avevo casualmente sentito provavano chiaramente che il cavallo su cui quel giovane sfortunato aveva cercato di fuggire era stato rubato a me poche ore prima. Ero pronto a fornire prove a sostegno di questa affermazione. Gli ufficiali del tribunale furono interrogati e confermarono che la mia descrizione del cavallo era esatta, così come i dettagli della sella, che loro stessi avevano notato. Questo rappresentava una prova decisiva.”
+
+“Ho informato ulteriormente il giudice che ero arrivato in città la sera precedente. Ero pronto a portare con me testimoni tra le guardie alla porta che mi avevano visto passare. Quando questi furono chiamati, concordarono sul fatto che fossi entrato a cavallo, secondo la descrizione che avevo appena fornito. Si vedeva chiaramente che il giudice era incline ad accettare la validità della mia dichiarazione; anche gli ufficiali di tribunale condividevano naturalmente questo punto di vista. Credo di averlo reso ancora più propenso a favore di me, assicurandogli che non avrei mai fatto richieste eccessive. Se solo l’animale mi fosse stato restituito, sarei stato soddisfatto; non avrei chiesto nulla in compensazione per eventuali danni o perdite di tempo. Anzi, ero più che felice (ho detto) di aver potuto essere d’aiuto, anche se in modo del tutto insignificante, alla giustizia.”
+
+“Il giudice ora mi sorrise con evidente approvazione, e la sua decisione fu ulteriormente confermata dal ricordo che, anche se avessi chiesto un qualche risarcimento, esso non sarebbe venuto dalle sue tasche ma dal denaro pubblico; e non ho dubbi che questo argomento, sebbene non espresso esplicitamente, fosse presente anche nella mente di tutti i funzionari del tribunale. Pertanto il giudice ordinò che l’animale mi venisse restituito, e fu lieto di utilizzare le seguenti parole. Non sono mie; non ne sono responsabile. Ma sono felice che le abbia usate.”
+
+“‘Questo onesto mercante,’ disse, ‘che ha fornito una descrizione molto chiara dei suoi spostamenti, ci è in qualche modo debitore, considerando la perdita temporanea che ha subito a causa del furto del suo animale da parte del criminale con cui abbiamo appena avuto a che fare. Indirettamente, è stato lui a contribuire all’arresto di quel criminale. Quindi, il minimo che possiamo fare è restituirgli i suoi beni il prima possibile. Ordino che l’animale, insieme a tutti i suoi accessori, venga restituito a lui dopo essere stato adeguatamente nutrito e curato.’”
+
+“Mi inchinai molto umilmente e ringraziai la corte per la sua giusta decisione. Ma emerse una nuova complicazione.”
+
+Il capo ufficiale del tribunale, il responsabile di coloro che avevano arrestato il giovane (che a quel punto aveva perso la testa, quindi non si temevano problemi da quella parte), consultò i suoi colleghi e poi si prostrò a terra davanti al giudice, chiedendo di poter fornire una spiegazione. Il giudice assunse un'espressione preoccupata e gli ordinò di essere breve. L’ufficiale si alzò e ammise, con evidente dolore, che il cavallo, a causa dell’eccitazione legata all’arresto e nell’oscurità di quella notte, si era liberato e si era perso.
+
+“Vedendo l’ira crescente del giudice, intervenni rapidamente. Dissi che non c’era nessuno al mondo che potesse superare la mia ammirazione per la Polizia a Cavallo delle forze anti-furto, la cui efficienza era nota anche nella mia lontana terra. Aggiunsi che sarei stato l’ultimo ad causare anche solo la minima ingiustizia o dolore. Pregai il loro “Importante” (così veniva semplicemente chiamato un giudice in quel paese) di perdonare l’infortunio che aveva causato la perdita del mio cavallo. Conclusi dicendo che sarei stato più che soddisfatto di una somma che noi commercianti definiamo ‘valutazione minima’, cioè di un pagamento pari al prezzo che il cavallo avrebbe potuto ottenere da un “venditore disposto”. Con una frase di cui confesso di essere segretamente orgoglioso, suggerii che l’applicazione della giustizia in questa faccenda non solo non avrebbe comportato alcun costo per la corte, ma le avrebbe persino portato qualche beneficio, considerando le tasse relative ai trasferimenti, alle registrazioni e simili. Essendo un laico, ignoravo esattamente l’entità di queste spese, ma sapevo che erano sempre associate a questo tipo di procedimenti, tutte derivanti dalle tasse.”
+
+“Il giudice, gli ufficiali del tribunale e tutti gli avvocati presenti furono commossi fino al punto di intervenire. Furono firmati diversi documenti (su uno dei quali scrissi il nome di Ali: fu il primo che mi venne in mente). Mi fu pagata la somma di trenta monete d’oro e, dopo aver reso profonde riverenze a tutti i presenti, soprattutto al mio benefattore, il giudice, lasciai il tribunale, più ricco di quanto ci fossi entrato.”
+
+* * * * *
+
+“Miei figli, cosa faremo adesso?”
+
+“Nel commercio è una regola universale seguire i propri profitti e limitare le perdite; le persone della mia professione possiedono un sorta di istinto che gli indica per quanto tempo la situazione sarà favorevole e quando cambierà direzione. Ho deciso che c’era ancora un passo da compiere.”
+
+L’arresto ebbe luogo non lontano dal margine del bosco da dove avevo per la prima volta scorto la città. Lì il mio cavallo, la sera precedente, aveva trovato ottimo pascolo; lì gli avevo allentato la sella; lì aveva goduto di un luogo eccellente per riposare. Presumetti saggiamente che anche il mio amico perduto si fosse recato lì. Uscii quindi dalla città come se fossi andato solo a fare una passeggiata, e infatti, a un miglio di distanza, sotto gli alberi che offrivano ombra fresca, trovai quel nobile animale sdraiato a riposare, ostacolato soltanto dalla sella.
+
+“Ho allentato le corde che lo legavano. Lui ne fu grato e la nostra amicizia si rinnovò. Ma anche se il mio affetto per lui aumentò dopo quella guarigione, ho deciso di prepararmi mentalmente a ciò che intendevo fare dopo.”
+
+“È un principio fondamentale di qualsiasi attività commerciale sana che un prodotto debba essere venduto il più spesso possibile, e era evidente che ora avevo l’opportunità di vendere questa incantevole creatura per la terza volta. Era altrettanto chiaro che, se avessi ritardato, quell’opportunità sarebbe svanita: infatti, la notizia della mia apparizione in tribunale si sarebbe diffusa in tutta la città, e le autorità ne avrebbero parlato con i loro amici riguardo alla sella e alle caratteristiche dell’animale; inoltre, avrei potuto anche finire nei guai con le autorità.”
 
 
 
@@ -4564,6 +6415,39 @@ That is:
 
 The Holy One
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ma l’intera giornata propizia era nelle mani del Cielo. Poiché il sole era ancora alto, nel pascolo apparve un pastore che conduceva le sue pecore; a lui raccontai che il mio padrone mi aveva incaricato di vendere il cavallo e la sella che portavo a un certo commerciante, che li aveva già visti e ne aveva fatto offerte. Mi era stato dato un documento con il nome del commerciante nella città vicina, ma l’avevo perso e non ricordavo né il nome né l’indirizzo.”
+
+“Il pastore mi disse che andava in quella città solo di tanto in tanto, ma la conosceva molto bene; l’acquirente non poteva essere altri che Abd-ul-Eblis.”
+
+“Non appena pronunciò quel nome, mi misi a battere le mani e dissi: ‘Abd-ul-Eblis! Era proprio quel nome!’ Ringraziai il pastore per avermi così rinfrescato la memoria, e camminai con attenzione accanto alla bestia, come un semplice servitore al fianco del prezioso possesso del suo padrone. Evitai il cancello principale (che avevo già attraversato due volte e dove avrei potuto essere riconosciuto troppo facilmente) e entrai in città da una piccola porta secondaria. Con l’aiuto di un uomo cieco – cosa che ritenni più prudente – trovai la strada per gli stalli di Abd-ul-Eblis.”
+
+“Non avevo fatto alcun piano su cosa dovesse essere fatto, perché in quei giorni in cui sono particolarmente favorito dal Supremo, lascio che Sua Potenza sia quella a guidarmi, e anche coloro con cui faccio affari. Non sono andato oltre il punto di dire al giovane sposo che ero venuto a cercare un acquirente per il cavallo; non certo in questa città, dove mi era stato detto che il mercato fosse poco attivo, ma in un luogo situato a due giorni di [[Journey|viaggio]] di distanza, dove la notizia dell’arrivo di quel famoso animale si era già diffusa. Poi sono uscito per le strade, per godermi l’aria fresca della sera. E tutto è andato come mi aspettavo. Quando sono tornato e ho visto che il mio cavallo era stato ben nutrito, Abd-ul-Eblis era già presente nella stalla, ansioso di concludere l’accordo.”
+
+“Mi spiegò i vantaggi che derivavano dal disporre di cavalli, i pericoli della lunga [[Journey|viaggio]] di cui avevo parlato al cocchiere, e la possibilità di ciò che, nel linguaggio di quel paese, si definisce ‘una proposta’. Mi fece notare, con la sua saggezza, ciò che io, nella mia ingenuità, avrei potuto dimenticare: ovvero che il cavallo non era mio, e che quindi potevo solo trarne vantaggio; inoltre, il mio padrone non ne sarebbe stato affatto a conoscenza. Mi disse anche di poter fingere che fosse accaduto qualche incidente (poiché, in effetti, un simile incidente era probabile se avessi continuato il viaggio). Si prese poi la briga di ripetermi ancora una volta che potevo tenere per me una parte del denaro pagato per il cavallo, assicurandomi che non avrebbe detto nulla al riguardo. Alla fine, promisi di consegnargli il cavallo in cambio di sessanta pezzi d’oro.”
+
+“Ci sono alcuni uomini, miei cari nipoti, che anche in queste circostanze avrebbero iniziato a trattare per ottenere un prezzo più alto. Sono persone che amano guadagnare piccole somme e che non comprendono l’enorme influenza del capriccio e della fortuna negli affari umani. Lontano dall’insistere per ottenere di più, ho espresso la mia gratitudine e ho detto che, da parte mia, ero più che disposto ad accettare meno, ma temevo l’ira del mio padrone e non potevo tornare da lui senza almeno cinquanta pezzi d’oro. Ho anche aggiunto che consideravo dieci pezzi una ricompensa sufficiente per me stesso. Allo stesso tempo ho consigliato ad Abdul di non vendere né la sella né il cavallo, e non ho dimenticato di ricordargli che i cavalli di colore chiaro sono più facili da tingere rispetto a quelli scuri.”
+
+“Di fronte a queste mie proposte, mi guardò con tristezza per alcuni momenti, poi contò lentamente sessanta pezzi d’oro. Mi congedai a lungo da quell’animale gentile, paziente e bellissimo che, in soli ventiquattro ore, mi aveva portato a questa fortuna; quindi uscii dalla città al calare della sera, preferendo correre il rischio di trovare un rifugio nella foresta piuttosto che continuare a mettere alla prova quella strana Fortuna che fino ad allora si era mostrata così favorevole verso di me.”
+
+“Il tempo era caldo; il bosco vicino, come sapevo per esperienza, era accogliente. Lì avrei trascorso le poche ore di oscurità, accendendo un piccolo fuoco per tenere lontane le bestie e riscaldarmi. Da lì, non ne dubitavo, il giorno dopo avrei potuto proseguire nella ricostruzione della mia fortuna, ora che disponevo di un capitale più che soddisfacente.”
+
+“Raggiunsi la collina boscosa che dominava la città. Recitai le mie preghiere serali. Prima di accendere il fuoco e prepararmi a dormire, osservai i contorni dei muri, delle cupole e degli eleganti minareti contro l’ultima luce del tramonto; nel mio cuore ripensai a quel pensiero che sarà sempre con me ogni volta che lascio una città. Che sia anche vostro, miei cari figli, in tutti i vostri viaggi.”
+
+“Proprio come quando arrivi in una nuova città al mattino, prima di entrarvi e dopo aver pregato Dio, dovresti riflettere su quante somme di denaro puoi sperare di ottenere dai suoi abitanti; allo stesso modo, quando lasci una città alla sera, non dimenticare mai (dopo esserti ringraziato a dovere del tuo Creatore!) di calcolare quanto denaro hai effettivamente sottratto a coloro con cui ti sei congedato.”
+
+Quando il vecchio mercante tacque, fu come se si concludesse un brano di musica solenne le cui eco continuavano a risuonare nella memoria. Le parole stranamente commoventi che aveva pronunciato avevano suscitato qualcosa di profondo nelle profondità delle loro giovani anime; rimasero seduti con la testa bassa, fino a quando l’orribile grido del muezzin distrusse quel sacro silenzio.
+
+Al segnale, i ragazzi si alzarono e uscirono in punta di piedi, lasciando il loro zio con gli occhi chiusi e le labbra che mormoravano preghiere.
+
+Al-Walī
+
+Titolo:  
+Cioè:
+
+Il Santo
 
 
 
@@ -4602,6 +6486,40 @@ WHEN THE HOUR of public executions had arrived (they were more numerous than usu
 
 “In every place largely frequented by pilgrims you will, my dear nephews (if your commercial pursuits lead you to such spots in after life), discover two kinds of men. There are those who have already spent their all under the influence of the Spirit and are about to depart. These, being in a necessity to raise a viaticum for their return, will eagerly convert into cash at a vile price such wretched objects as remain to them. On the other hand, those arriving are flush of money and eager to acquire holy relics and memorials of the blessed days before them.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XI. INTITOLATO “AL-WALI”, O IL SANTO
+
+Quando arrivò l’ora delle esecuzioni pubbliche (che quell’anno furono più numerose del solito), i suoi giovani nipoti si radunarono rispettosamente ai piedi dell’anziano milionario e ascoltarono il resoconto dettagliato sulle sue fortune.
+
+“Potreste immaginare, miei figli,” iniziò, “che, avendo ricevuto questa piccola somma di denaro così felicemente concessami dalla [[Providence|Provvidenza]] in soltanto un giorno, avrei nuovamente osato intraprendere un'attività commerciale. Quello sarebbe certamente stato il mio percorso naturale; ma dovete ricordare che non avrei potuto, senza grandi rischi, rientrare nella città che avevo appena lasciato, per timore che le mie attività commerciali mi mettessero in contatto con coloro a spese dei quali esse venivano svolte. Inoltre, mi trovavo in un paese straniero, senza conoscenza del cammino da seguire e senza nulla che potesse guidarmi, se non il fatto fortunato di trovarmi ancora entro i confini della nostra sacra religione. La maggior parte delle persone che avrei incontrato sarebbero state quindi Veri Credenti, le cui debolezze avrei potuto comprendere meglio di quelle dei Miscredenti; e per questo motivo avrei potuto (sotto la guida onnipotente del Cielo) approfittarne più facilmente.”
+
+Ricordando con devozione le grazie che Allah mi ha mostrato in questi ultimi giorni, ho deciso di seguire lo stesso percorso che avevo adottato quando la mia fortuna era stata dalla mia parte: rimanere passivo sotto la guida della Potente Manna e affidarmi alla sorte.
+
+“Ho dormito un po’ di notte accanto al mio fuoco, ma appena mi sono svegliato all’alba ho notato un gruppo di persone che si avvicinava a me lungo il sentiero nella foresta. Erano una dozzina circa: metà a piedi, metà a cavallo; non sembravano particolarmente pericolosi a giudicare dai loro abiti. Che, cari nipoti miei, sono spesso il segnale che ci indica se rispettare o disprezzare le persone. Sia gli animali che gli esseri umani di questo gruppo avevano l’aspetto stanco e logoro, come se provenissero da una lunga distanza.”
+
+“Poiché li vidi prima che loro mi vedessero, presi naturalmente la precauzione di avvicinarmi furtivamente da dietro, attraverso gli alberi, per ascoltare lo scopo della loro [[Journey|viaggio]]. Sembrava che stessero andando in pellegrinaggio al santuario di un Santo Uomo, per ottenere il suo oracolo riguardo a una questione che riguardava il loro misero villaggio.”
+
+“Decisi immediatamente cosa fare. Corsi indietro attraverso i boschi, raggiunsi un punto davanti al loro percorso e lì, stendendo il mio piccolo tappetino sull’erba, mi prostrai in preghiera. In questo modo riuscii davvero a ‘uccidere due uccelli con una pietra’, poiché non avevo ancora recitato le preghiere mattutine del vero credente, che non avevo mai trascurato in tutta la mia vita, tranne quando ero costretto a fuggire dalla giustizia e quindi privo di tempo libero.”
+
+“Quando li sentii avvicinarsi da dietro, alzai immediatamente la testa e alzai la voce; mi immersei in un’estasi di devozione che non mancò di impressionare quegli semplici montanari. Si fermarono rispettosamente finché non ritenni opportuno concludere la mia conversazione con il ‘Santissimo’. Finsi di essere così assorto nella contemplazione delle cose divine da non accorgermi della loro presenza: farli aspettare, infatti, significava garantire loro sia rispetto religioso che mondano. Si avvicinarono a me con deferenza e persino timore reverenziale. Dissi loro che ero diretto al santuario di un uomo estremamente santo, e fornii loro il suo nome. Furono felicissimi di scoprire di avere un compagno animato dagli stessi sentimenti loro.”
+
+“‘Anche noi,’ disse il loro leader, ‘siamo impegnati nella stessa sacra missione. Poiché un messaggero (che abbiamo inviato dal nostro villaggio un mese fa) ci ha informato che il Santo ci accoglierà con favore e ci darà una risposta riguardo a una questione controversa riguardante i maiali selvatici, che ha molto preoccupato la nostra tribù: si tratta davvero di maiale o no.’”
+
+“Lasciai che casualmente pronunciassero frasi che indicassero la direzione in cui dovevamo viaggiare e la distanza dal nostro obiettivo. Fui felice di scoprire che il nostro cammino non passava attraverso la città, e che forse avremmo potuto raggiungere il Santo prima di notte.”
+
+Il [[Journey|viaggio]] fu noioso: attraversammo terre bruciate, con pochi miseri villaggi lungo la strada; ma verso il tardo pomeriggio riuscimmo a vedere, in lontananza, illuminata dai raggi del sole al tramonto, una piccola costruzione con cupola bianca: la tomba di un grande santo ormai defunto. Intorno ad essa c’era un gran numero di tende e molte persone che preparavano la cena all’aperto; animali da soma e tutto il movimento tipico di un accampamento ci indicarono che stavamo raggiungendo la meta del nostro [[Journey|viaggio]] di quel giorno.
+
+“Quando arrivammo al campo, mi unii alla folla più densa, separandomi dal gruppo con cui avevo marciato. Recitai le mie preghiere serali in un posto il più visibile possibile, prolungandole notevolmente per fare una buona impressione sui miei nuovi vicini, e poi mi sdraiai, incerto su come sarebbe trascorso il giorno seguente.”
+
+“Mi è stato rivelato in un sogno.”
+
+“In quel sogno apparve un Essere luminoso e benefico che, con una mano, toglieva al pellegrino ignaro a sinistra la sua ricchezza superflua, mentre con l’altra concedeva esattamente lo stesso favore a un altro pellegrino a destra. Entrambi i pellegrini avevano il viso girato lontano da quell’Essere benevolo e sembravano ignari di ciò che stava accadendo. L’Eccelso Visitatore, senza interrompere la sua attività né smettere meccanicamente di immergere le sue mani nelle tasche dei suoi vicini ignari, mi guardò con espressione estremamente gentile, mi fece l’occhiolino e poi scomparve.”
+
+“Mi svegliai. Era ancora buio. Riflettei fino all’alba su ciò che quella rivelazione potesse significare. Con l’alba, sia la luce interiore che quella esterna mi colpirono. Interpretai così la visione che mi era stata concessa, e gli eventi successivi dimostrarono che avevo interpretato correttamente.”
+
+“In ogni luogo frequentato soprattutto dai pellegrini, voi, miei cari nipoti (se le vostre attività commerciali vi porteranno in tali luoghi in un’altra vita), incontrerete due tipi di persone. Ci sono coloro che hanno già speso tutto ciò che avevano sotto l’influenza dello Spirito e stanno per partire; costoro, avendo bisogno di racimolare fondi per il proprio viaggio di ritorno, saranno disposti a convertire a denaro, a un prezzo miserabile, gli oggetti miseri che ancora possiedono. Dall’altra parte, ci sono coloro che arrivano con parecchi soldi e desiderosi di acquistare reliquie sacre e ricordi dei giorni beati che li aspettano.”
 
 
 
@@ -4642,6 +6560,42 @@ WHEN THE HOUR of public executions had arrived (they were more numerous than usu
 
 “These words, which were chanted rather than said, I recognized to be from a totally different collection of popular sayings, formerly current in Arabia, and reduced to writing in the first century of Hegira by the learned of Rasht. It was clear that I was in the presence of a man unusually well-informed, and my conviction was confirmed when after yet another solemn pause the voice continued as though in conclusion:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Con due mercati del genere davanti ai propri occhi e pronti ad essere sfruttati, tutto ciò che serve è un po’ di buon giudizio per capire cosa sia cosa, chi sia chi, e quale sia quale. Un simile giudizio è essenziale per qualsiasi successo commerciale, ma soprattutto per avere successo con persone in uno stato di esaltazione religiosa. Poiché questo stato d’animo spesso conduce all’errore, a volte, invece, illumina in modo straordinario le facoltà intellettuali dei devoti, tanto da causare rifiuti particolarmente duri a chi tenta di sfruttarlo.”
+
+“Mi mescolai con i miei compagni di culto. Scelsi coloro che, a giudicare dall’espressione ansiosa e dalle loro preparazioni per un [[Journey|Viaggio]], sembravano desiderosi di vendere. Da questi acquistai, a prezzi sorprendentemente bassi, ogni sorta di oggetti: bastoni, ciondoli, sandali, borracce, stracci e corde. Nel frattempo, riuscii abilmente a evitare coloro che sembravano troppo propensi a contrattare, e i quali nemmeno una lunga permanenza presso il santuario erano riusciti a liberarsi completamente dall’avidità. Gli altri oggetti ottenuti furono più che sufficienti per le mie esigenze.”
+
+“Con un stock ottenuto spendendo meno di un decimo del mio capitale, proseguii poi nel mescolarmi con i nuovi arrivati più benestanti, offrendo loro ora questo oggetto ora quell’altro (sandali, pizzi, stracci, pezzi di osso e cuoio), presentandoli come oggetti di particolare sacralità, sia perché dedicati al santuario del Santo Morto che perché avevano toccato la persona del Vivente. Scoprii davvero un mercato molto fiorente, con prezzi che variavano da cento a mille volte il costo originale di quei rifiuti. A ogni pezzo di straccio, osso o simile, facevo attenzione ad affiggere una “genealogia” scritta in diverse mani e che ne provasse l’autenticità.”
+
+“In queste negoziazioni fui molto attento: di fronte anche al minimo sospetto, fingevo una totale indifferenza; e verso uno o due interlocutori particolarmente astuti, persino sacrificai un pezzo di corda usata o un sandalo ormai completamente logoro, osservando che le cose sacre non dovrebbero essere oggetto di scambio commerciale.”
+
+“In questo modo trascorsi quattro giorni completamente assorbito dall’interesse di questa attività, al punto di dimenticare completamente (è stato un mio errore) di presentarmi nella fila di coloro che ogni giorno chiedevano l’opportunità di prostrarsi davanti all’oggetto della nostra pellegrinazione e di rendergli omaggio. È stato un errore che per poco non mi è costato caro, poiché il Santo aveva i suoi osservatori incaricati di sorvegliare la folla.”
+
+“Nella sera del quarto giorno, mentre contavo in privato i miei guadagni sotto un cespuglio nascosto, nella speranza di non essere visto, fui disturbato da un leggero colpo sulla spalla e da un richiamo proveniente da un uomo anziano ma alto e ancora forte, armato di un poderoso bastone. Quest’uomo mi ordinò di seguirlo senza dire una parola e mi comunicò che mi era stato concesso il raro onore di poter accedere personalmente al Maestro.”
+
+“Con sentimenti contrastanti accompagnai il mio guida. Ci facemmo strada a spallate tra le prime file dei fedeli fino a raggiungere quel luogo segreto dove il Santo comunicava con il suo Creatore. Gli altri mi invidiavano e guardavano con ammirazione una persona così privilegiata; ma io, invece, sentivo il mio cuore affondare sempre di più nel terrore, aspettando con quasi panico quell’incontro che mi era stato così generosamente concesso.”
+
+“Fui introdotto, attraverso una tenda, in una piccola capanna completamente priva di ornamenti; costruita con fango essiccato e illuminata soltanto da due piccole lampade fumose posizionate sul pavimento. Nella semioscurità riuscii a intravedere davanti a me la figura di un uomo molto anziano, incredibilmente emaciato a causa di lunghi digiuni e veglie. Era in ginocchio, con un cimiero tra le mani; i suoi occhi erano fissi sul pavimento, che la sua lunga e rada barba bianca quasi toccava. Sembrava ignaro di tutto il mondo esterno, immerso in una profonda comunione con il suo Creatore.”
+
+“L'assistente, con voce bassa ma arrabbiata, mi ordinò di prostrarmi, e io non esitai a farlo; in quella posizione attesi per un lasso di tempo così noioso che mi sembrò durare quasi un’ora intera. Ma per tutto quel tempo non osai muovermi; perché, anche se non avevo mai visitato questo luogo in particolare, avevo sentito racconti di ciò che accadeva a coloro che sottovalutavano le Forze Invisibili. Finalmente fui sollevato da una voce chiara e cavernosa che mi ordinò, con toni misurati, di alzarmi. Mi alzai e scoprii che eravamo soli. Gli assistenti erano stati congedati con un gesto mentre il mio viso era ancora premuto a terra; e anche se non dubito affatto che fossero nelle vicinanze, provai un timore ancora maggiore a causa della solitudine.”
+
+“Il Santo mantenne ancora per un momento la sua impassibile posizione di preghiera, poi lentamente si girò sulle ginocchia, rivolse i suoi occhi luminosi verso di me e mi chiese severamente quale profitto avessi tratto dal mio infame commercio negli ultimi giorni. Sentii che tutto gli era noto. Non tentai (grazie al Cielo per le sue misericordie!) di ingannarlo, rischiando così la mia vita e la mia ragione. Gli raccontai tutta la verità e attesi la sua sentenza.”
+
+Ci fu una lunga pausa; durante quel lasso di tempo, ciò che rimaneva della mia coraggio svanì del tutto. Ero pronto ad ascoltare qualche breve frase di condanna e mi rassegnai al mio destino. Ma avevo mal calcolato la serena saggezza che accompagna la santità.
+
+“Dopo di ciò, il Santo parlò con voce più benevola e dolce; mi chiese di sedermi a gambe incrociate davanti a lui e, assumendo la stessa posizione, pronunciò le seguenti parole straordinarie:”
+
+“Il Giusto, il Misericordioso (la cui nome sia esaltato!), ha dato a diverse persone capacità diverse. Lo stolto tenta ciò di cui è incapace; l’uomo saggio riconosce i propri limiti.”
+
+Nel silenzio che seguì, ripensai attentamente a queste parole e riconobbi estratti dai “Proverbi di Mar-Hakim”, la cui saggezza fu raccolta dai Persiani e divenne famosa fin dai tempi del secondo Omar.
+
+Dopo un breve intervallo, la voce continuò:
+
+“Con apprezzamento reciproco e benefici condivisi, entrambe le parti traggono vantaggio. Chi è miope perde queste opportunità a causa di un attaccamento eccessivo.”
+
+“Queste parole, che venivano cantate piuttosto che pronunciate, riconobbi appartenere a una collezione completamente diversa di proverbi popolari, un tempo diffusi in Arabia e trascritti per la prima volta nel primo secolo dell’Egira dagli studiosi di Rasht. Era evidente che mi trovavo di fronte a un uomo straordinariamente ben informato; la mia convinzione fu ulteriormente confermata quando, dopo un’altra pausa solenne, la voce continuò come se volesse concludere, ”
 
 
 
@@ -4685,6 +6639,44 @@ WHEN THE HOUR of public executions had arrived (they were more numerous than usu
 “But no good endures for ever. The time came when this even tenor was threatened in a very unexpected way.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Nell’acquistare denaro c’è profitto, ma nel lasciarlo scivolare via non ce n’è affatto.”
+
+“Quest'ultimo gioiello di saggezza mi ricordò immediatamente un'altra collezione: i Libri Sacri degli Ebrei; e grazie a questo ulteriore esempio di immensa erudizione, la mia stima per colui che ne era posseduto raggiunse vette vertiginose.”
+
+Dopo un simile preambolo, avrei potuto aspettarmi ulteriori dichiarazioni di natura morale da parte del mio ospite; invece, all’improvviso notai un totale cambiamento nel tono della sua voce e nella sua atteggiatura. Abbandonò l’argomento religioso e assunse un tono più informale, adatto a discussioni su questioni mondane. Sorrise cordialmente e iniziò una conversazione del genere di quelle che si possono avere nel mercato di qualsiasi città o nell’ambiente privato di un commerciante.
+
+“‘Ci sono alcuni,’ disse, ‘che avrebbero biasimato il tuo comportamento; e in un certo senso lo faccio anch’io, perché non riesco a scusare il fatto che tu abbia trascorso quattro interi giorni senza pensare affatto al cielo. Ma d'altra parte, siamo tutti d’accordo sul fatto che svolgere un’attività commerciale, soprattutto se molto rapida e redditizia, sia un’occupazione assai degna; ed è uno dei miei rimpianti il fatto che la mia dedizione professionale al ‘Mondo Altro’ abbia limitato le mie stesse attività in questa direzione.”
+
+“Mi visitano migliaia di devoti e rispettosi fedeli. Le piccole somme di offerte che gentilmente lasciano presso il mio tesoriere potrebbero essere facilmente aumentate attraverso varie attività commerciali.”
+
+“Infatti, di tanto in tanto ho cercato di stabilire qualcosa del genere in questo campo, ma purtroppo senza successo. Ho aperto un ristorante qui, dove venivano offerti rinfreschi ai nuovi arrivati a prezzi tre o cinque volte superiori al loro valore reale. Ma quel malvagio individuo a cui avevo affidato la gestione dell’attività se l’è svignata con tutti i profitti. Sono stato soddisfatto quando un mio amico lontano lo ha fatto giustiziare, ma non sono mai riuscito a recuperare i guadagni illeciti che aveva ottenuto.”
+
+“Un'altra volta stipulai un accordo con alcuni briganti che controllavano i passi delle montagne. Fu chiaramente concordato tra di noi che avrebbero assaltato i fedeli in ritorno dal mio santuario e che metà dei riscatti raccolti sarebbe stata versata nelle mie casse. Ma da quel giorno ad oggi non ho ricevuto nemmeno un centesimo.”
+
+“In un’altra occasione mi venne in mente l’idea di istituire un tributo regolare al posto delle elemosine volontarie, che, sebbene considerevoli, lasciavano ancora spazio per miglioramenti. Tuttavia, il calo preoccupante delle entrate e la riduzione dei miei guadagni mi costrinsero a revocare l’ordine entro sei mesi dalla sua emissione.”
+
+“‘Tutte queste esperienze, caro Mahmoud,’ disse lui in tono confidenziale (dimostrando così di conoscere il mio vero nome e mettendomi un po’ a disagio), ‘mi hanno convinto che non possiedo quella che voi uomini d’affari chiamate “intuizione per gli affari”. Forse ho un talento nascosto, forse addirittura un genio per la religione. Quando vi dico che a volte passo tre giorni senza cambiare posizione durante la preghiera e senza mangiare né bere, mentre un gran numero di fedeli stupiti assiste a questa scena, dovreste ammettere che non sono privo di capacità. Ma sono costretto ad ammettere che quella che i gentili chiamano “intuizione per gli affari” non fa parte delle mie qualità.’”
+
+“Qui iniziai a interromperlo con i soliti complimenti, e stavo per assicurargli che qualsiasi uomo capace, se solo si impegnasse nell’apprendimento delle cose necessarie, avrebbe potuto fare altrettanto bene quanto un altro, quando lui, con gentilezza, mi fermò con un gesto e disse, ”
+
+“‘No, mio caro Mahmoud’ (di nuovo l’uso del mio nome mi disturbò), ‘per quanto altro possiamo essere, non siamo certo ipocriti. Dobbiamo ammettere apertamente le nostre limitazioni. Tu, ne sono ormai convinto, sai come vendere e comprare, e possiedi tutte le qualità necessarie per individuare i mercati più vantaggiosi. Nonostante io abbia sempre desiderato acquisire queste stesse capacità, non ci sono riuscito; e a questa età (che, anche se non raggiunge i 110 anni menzionati, è comunque ben oltre i sessanta) è ormai troppo tardi per cambiare. Pertanto, ti farò quella che, credo, nel tuo mondo si chiamerebbe un’offerta.’”
+
+“Con quale sollievo quelle parole mi raggiunsero le orecchie! In quel momento non mi rendevo conto di quanto fosse vantaggioso per lui aver iniziato spaventando vostro zio sfortunato, e di quanta opportunità questo gli avesse fornito per negoziare, ”
+
+“Vi faccio una proposta. Pensateci attentamente e, dopo un lasso di tempo ragionevole, comunicatemi la vostra decisione. Vi offro due alternative: la prima è che continuiate il vostro commercio sotto la supervisione dei miei agenti, ma al termine di 1.000 pezzi d’oro ottenuti, verrete impalati e i vostri soldi confiscati; l’altra alternativa è che continuiate a utilizzare i vostri talenti per sviluppare questo commercio, ma in tal caso io verrò considerato un socio passivo, ricevendo la metà dei profitti. La scelta spetta a voi. Vi prego, prendetevi il tempo necessario. Un’urgenza eccessiva ha rovinato molti ottimi accordi commerciali; non vorrei che vi perdeste queste opportunità. Non lasciate,” continuò, reprimendo la mia evidente ansia di accettare le sue condizioni, “che alcun senso di obbligo influenzasse la vostra decisione. Pensate attentamente alle due opzioni e poi fatemi sapere quale sceglierete. Prendetevi il tempo che vi serve.”
+
+Trattenendo un'evidente fretta, gli dissi che avevo già preso una decisione e che mi sarebbe stato un onore accettare la sua seconda proposta.
+
+“‘Credo, Mahmoud,’ disse lui alzandosi, ‘che tu abbia agito con saggezza, anche se forse un po’ affrettatamente. Allora consideriamo la questione risolta. Ogni sera i miei servitori verranno a prendere metà dei tuoi guadagni, e nel frattempo ti proteggeranno in ogni modo.’”
+
+“Mi prosternai ancora una volta, baciai il terreno ai suoi piedi e lasciai la capanna con un umore molto diverso da quello con cui vi ero entrato.”
+
+Rimasi nel campo per circa un mese. Ampliai le mie attività; ogni sera i servitori del Santo venivano da me e io consegnavo loro metà dei guadagni ottenuti. Durante tutto quel periodo, il mio capitale continuò ad aumentare in modo incredibile.
+
+“Ma nessun bene dura per sempre. Arrivò il momento in cui anche questo equilibrio fu minacciato in un modo del tutto inaspettato.”
+
 
 
 <span class="atom-split" data-atom="chapter_11_entitled_al_wali_or_the_holy_o--part_04" data-title="The Mercy of Allah — Chapter 11: ENTITLED AL-WALI, OR THE HOLY ONE (part 4)" data-chapter="ENTITLED AL WALI OR THE HOLY O" data-kind="excerpt" data-tags="archetype/trickster,concept/deception,concept/money_and_avarice,concept/economics,form/satire,form/fable,histref/islam,setting/the_desert"></span>
@@ -4708,6 +6700,27 @@ That is:
 
 The New Quarter of the City
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Il Santo fu visitato da alcuni ambasciatori provenienti dal Gran Qualcosa che risiedeva alla corte del Califfo; questi gli comunicarono che la sua posizione veniva debitamente riconosciuta dalle autorità e che portavano con sé un atto ufficiale che ne confermava il valore. Tuttavia, i vantaggi materiali derivanti dalle attività commerciali di Sua Santità erano altrettanto evidenti per il Califfo quanto quelli religiosi; pertanto, in futuro Sua Santità avrebbe dovuto consegnare la metà dei propri incassi al Tesoro Imperiale.”
+
+“Solo il cielo sa con quanta amarezza il Santo Uomo abbia accettato quella decisione; una volta fatto ciò, mi chiamò di nuovo e mi disse che ora era necessario che gli cedessi tre quarti dei miei incassi. Inutilmente gli feci notare che tutti i grandi imperi erano caduti a causa dell’aumento delle tasse. Fu irremovibile, quindi acconsentii riluttante a questo nuovo accordo, facendo un solenne giuramento di rispettarlo per almeno un anno. Gli chiesi, tuttavia, se, alla scadenza di quel periodo, nel caso in cui il nuovo accordo si rivelasse troppo oneroso per me, potessi lasciare la città. A questo acconsentì, confermando la sua promessa con un giuramento altrettanto solenne.”
+
+“Quella notte raccolsi tutto il mio patrimonio accumulato (che ora riempiva non meno di quattro grandi borse piene d’oro e d’argento), lo caricai sul mulo di un pellegrino particolarmente devoto, ma quindi anche poco attento e assorto nei suoi pensieri, e, trascinando via l’innocente animale nella oscurità tenendolo per la briglia, lasciai il campo il più lentamente e con il massimo di cautela possibile.”
+
+“Fu inviato degli emissari per uccidermi entro mezz’ora dal mio partire. Quando sentii che si avvicinavano, girai il mio mulo verso il campo, fingendo di essere appena arrivato. Mentre mi superavano, dissi di essere un pellegrino che si era perso nella notte e chiesi se fossi sulla strada giusta per la santuario. Questo semplice trucco li ingannò: continuarono per la loro strada e io rimasi di nuovo solo. Tuttavia, il loro passaggio mi allarmò a sufficienza; abbandonai quindi quella strada per un sentiero meno frequentato e vagabondai tutta la notte in una zona sconosciuta, poiché la mia povera bestia non riusciva ad andare più velocemente di un passo normale, a causa del peso enorme dei sacchi pieni di tesori che portava con sé.”
+
+“Al sorgere del giorno mi sentii al sicuro, e — —”
+
+Ma in quel momento il Vecchio Gentiluomo sentì la prima nota insopportabile del muezzin e si fermò immediatamente, facendo segno ai suoi nipoti di lasciarlo da solo; essi lo fecero con la loro solita umiltà, ognuno chiedendosi nel proprio cuore se in seguito lui potesse provare il desiderio di intraprendere una vita religiosa.
+
+# Al-Mahallat al-Jadida
+
+Titolo:  
+Cioè:
+
+Il nuovo quartiere della città
 
 
 
@@ -4743,6 +6756,36 @@ CHAPTER XII. ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY
 “I answered him with a mixture of sympathy, caution, and gravity, which I was glad to see impressed him. I praised his work vaguely but courteously enough. I asked the names of the river and the town, and also his own. All these he gave me; and then asked me whether I would not share the mid-day meal he was about to take. I said I should be overjoyed to do so: and so I was, for I saw the prospect of refreshment at the charges of another, an opportunity, which remember — my dear nephews — is never to be neglected by men of clear commercial judgment.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XII. INTITOLATO “AL-MAHALLAT AL-JADIDA”, O IL NUOVO QUARTiere DELLA CITTÀ
+
+“Mentre il giorno seguente proseguivo attraverso quella landa desolata” (continuò Mahmoud ai suoi nipoti durante la loro successiva visita) “riflettevo su come utilizzare al meglio quella considerevole somma di denaro che il mio onesto mulo portava pazientemente sul dorso. Quella somma avrebbe potuto bastare per nutrire cinquanta lavoratori, o anche di più, per un intero anno; inoltre, con così tanti soldi si poteva guadagnare ancora di più. Infatti, come è scritto nel Libro Sacro: ‘Il lavoratore merita la sua retribuzione, ma ciò che va oltre non gli appartiene.’ E ancora: ‘Beati i poveri.’”
+
+“Ci sono molte occasioni per impiegare gli uomini più poveri e raccogliere i frutti del loro lavoro per sé stesso. Tuttavia, in tutte queste situazioni esiste un problema principale: il giusto senso della misura.”
+
+“Voi ricorderete (cari nipoti miei) quante volte in passato un mio investimento molto attento è andato storto, e quante volte semplicemente una casualità, che non era nemmeno di mia scelta, mi ha portato improvvisamente fortuna. Come nel caso delle pecore: sono stato quasi picchiato a morte dalla polizia del mercato; mentre nel caso del cavallo che avevo venduto, ho guadagnato tre volte di più un animale che non mi era costato nulla e che mi era capitato per pura grazia di Dio. Come nel caso dei datteri: sono rimasto senza un soldo a causa di un uomo che possedeva maggiore senso degli affari, preveggenza, capacità organizzativa, conoscenza del mercato, intuizione sulle persone e tutte le altre virtù necessarie; mentre nel caso di quel Santo, beh, come ha dimostrato il mio stanco mulo, sono riuscito a ottenere grandi risultati grazie a un evento completamente inaspettato. Mentre questi ultimi pensieri mi attraversavano la mente, ricordai per la prima volta che anche quel mulo stesso rappresentava un’altra fonte di fortuna, oltre all’argento che trasportava. Non avevo infatti dovuto pagarlo; era un animale davvero pregevole e, nonostante la stanchezza, sembrava ancora ben allevato. Lo stimavo circa dieci pezzi d’oro e mentalmente aggiunsi quella somma al totale del mio patrimonio.”
+
+“Ero così immerso nei miei pensieri che mi ritrovai davanti a un alto groviglio di canne attraverso il quale si snodava un sentiero stretto e invisibile. Decisi di percorrerlo. Le canne su entrambi i lati erano così alte da nascondere tutto ciò che si trovava più lontano, e così fitte che si riusciva a vedere solo pochi metri all’interno del loro groviglio.”
+
+Dopo forse un'ora di questo viaggio, io e il mio mulo arrivammo improvvisamente sulla riva solida di un fiume ampio e poco profondo; il suo rumore, la sua freschezza, la corrente veloce e l’acqua limpida furono una vera delizia dopo tante ore di viaggio arido. Lì mi sedetti, scaricai il mio paziente compagno di viaggio e bevemmo quell’ottima acqua; il mulo, invece, mangiò abbondantemente erba fresca. Ma non preparai alcun pasto, perché i biscotti d’avena e il formaggio che avevo preso dalla mensa comune dei poveri nel campo dei pellegrini erano ormai finiti.
+
+“Fu questa circostanza che mi fece provare un po’ di ansia per quella giornata. Guardai intorno, mi alzai sul punto più alto della riva e vidi che la sponda opposta era stata artificialmente elevata per formare una diga o un terrapieno regolare; al di là di esso, il paesaggio pianeggiante era nascosto. Decisi quindi di approfittare di questa posizione vantaggiosa per avere una migliore visuale. Riempii nuovamente il mio mulo, attraversai con attenzione i vari corsi d’acqua e raggiunsi la sponda opposta.”
+
+“In cima alla diga, che evidentemente era di recente costruzione, i miei sforzi furono ampiamente ripagati, poiché vidi qualcosa che pose fine a ogni preoccupazione riguardo al cibo e al rifugio.”
+
+Il terrapieno su cui mi trovavo descriveva una forma a ferro di cavallo: non era ancora completato in tutti i punti, ma le sue linee erano già ben definite. In questo modo delimitava una penisola bagnata dal fiume, un’area paludosa piena di stagni e piante acquatiche. A tre o quattro miglia di distanza, attraversando l’intero perimetro di questa “penisola di fango”, si estendeva un solido muro in pietra che circondava una città fortificata; i suoi tetti piatti e le sue basse cupole (senza torri né minareti) formavano una linea bianca come la neve contro il cielo di un blu intenso. Lontano, oltre quella distesa, si profilavano montagne lontane, color porpora a causa del calore del sole.
+
+Dispersi nella palude stessa e nelle parti non ancora completate del terrapieno, c'erano gruppi di lavoratori che utilizzavano pale e carriole; poco lontano da me, a sorvegliarli, c'era un giovane dall’aspetto energico, ben vestito con un abito marrone: ricco, ma con abiti adatti al suo lavoro. Non indossava sandali, poiché questi avrebbero ostacolato i suoi movimenti su quel terreno; portava un bastone intagliato in ebano, con impugnatura d’avorio, e quando lo vidi per la prima volta stava gridando nuove istruzioni a un gruppo di scavatori lontani. Aveva le spalle rivolte verso di me; non aveva notato il mio arrivo.
+
+Mentre si girava per proseguire lungo la diga verso un altro gruppo, ci vide, me e il mio mulo, e immediatamente iniziò a correre; una volta raggiunti, ci riversò addosso una serie di saluti, avvertimenti e esclamazioni varie.
+
+“Dovevamo fare attenzione al terrapieno! Era appena stato costruito e non era ancora stabile. Non è stata un’opera meravigliosa? Semifinita, come la vedevamo noi, aveva richiesto soltanto tre mesi. Non ho notato quanto fosse efficace nel bloccare il corso del fiume? Non l’ho trovato solido mentre lo attraversavo dalla riva? Non sarei felice di procedere con cautela, per evitare che il bordo si danneggiasse. E così via.”
+
+“Da un simile saluto era evidente con che tipo di uomo dovevo avere a che fare: si trattava di un Entusiasta, una persona di estrema utilità per chi si occupa di affari. Apparteneva a quella categoria definita nei nostri registri come ‘Il Selvaggio Costruttivo’; ed è fortunato davvero il capo di un’impresa che incontra qualcuno del genere. Aveva forse trent’anni, era robusto, di statura bassa, con la pelle molto scura; aveva occhi decisi e pieni di entusiasmo, e un’espressione che denotava capacità di azione, risolutezza e prontezza nel prendere decisioni. Una persona in grado di portare fortuna, non necessariamente a se stesso, ma sicuramente a chi sapesse come sfruttarne le potenzialità. Era così appassionato dall’argomento che lo occupava da ignorare completamente tutto il resto.”
+
+Gli risposi con una miscela di simpatia, cautela e serietà; fui felice di vedere che queste parole lo avevano colpito. Piansi elusivamente ma con sufficiente cortesia il suo lavoro. Gli chiesi i nomi del fiume, della città, e anche il suo nome. Me li fornì tutti; poi mi chiese se volessi condividere il pranzo che stava per mangiare. Risposi che ne sarei stato molto felice. E infatti lo fui, perché quella era un’opportunità di rinfrescarmi a spese di qualcun altro. Un’occasione, cari nipoti miei, che chi possiede un buon senso degli affari non dovrebbe mai trascurare.
+
 
 
 <span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_02" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 2)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt" data-tags="archetype/trickster,concept/greed,concept/deception,concept/economics,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -4777,6 +6820,36 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 “I answered him with great deliberation and firmness. I said, first of all, that I had nothing. It was a pity, for I thoroughly understood his idea. I admired it. I believed in it. Indeed, it was obviously sound. If I had had the wherewithal (said I) I would at once have made the advance. If I had had even a portion I would have put that portion at his disposal if only to show my sincere appreciation of his genius. For it was the neglect of men like himself (I continued) that hindered the progress of the world. But so it was! I had but my trade as an itinerant merchant in grain to support myself and a very large family which I had left at home in the hills. I had nothing laid by.... However, my annual tour through this and neighbouring provinces brought me into contact (these were my very words) with many notables possessed of ample reserves. In this very town — now that he had told me its name — I remembered two or three correspondents with whom I had done business in the past, though I had never seen them. These I would approach. And if he would give me an appointment that evening after sunset I would tell him if I had been able to effect anything.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Mi guidò, seguito dal mulo, fino a un luogo ombreggiato dove alcuni alberi crescevano in una zona più asciutta della pianura recintata. Lì trovammo deliziosi cibi; ci riposammo per oltre un’ora, e durante tutto quel tempo lui non smise di descrivermi, lodarmi e parlarmi dell’imponente impresa a cui era completamente dedicato.”
+
+“Questo tornante a forma di ferro di cavallo,” mi disse, “fuori dalla sua città natale non era mai stato utilizzato. In primavera, quando la neve sui monti lontani si scioglieva, veniva inondata; per il resto dell’anno era un misto di fango secco e palude, che causava febbri, pullulava di insetti e emanava cattivi odori alla sera. Diventato orfano, fu messo a bottega da un fabbricante di ruote per mulini, quelle utilizzate nel torrente sopra la città. Un giorno gli venne in mente l’idea che tali strumenti potessero essere usati non solo per macinare il grano, ma anche per sollevare l’acqua dai fossati e quindi per drenarla.”
+
+“Con questo, il suo grande progetto gli balenò subito in mente: perché non trasformare quella palude, che fino ad allora rappresentava un grave problema per la città, in qualcosa di utile? Un argine avrebbe impedito le inondazioni, mentre i canali scavati attraverso la palude avrebbero raccolto l’acqua e reso l’intera area asciutta. Questi canali potevano essere puliti regolarmente utilizzando ruote azionate dall’acqua del fiume vicino, e così si sarebbe ottenuta un’ampia area di terreno fertile da aggiungere alla città affollata. Su quel territorio si sarebbero potuti costruire nuovi edifici e creare giardini, con grande beneficio per tutti i cittadini. La città, infatti, stava diventando sempre più importante; molte persone vi affluivano, ma c’era sovraffollamento, difficoltà di vita e affitti elevati. Eppure non esisteva alcuno spazio disponibile per espandersi, tra la palude e le colline.”
+
+Aveva presentato questo progetto al consiglio e ai capi della città. Hanno esitato a lungo, ma alla fine hanno acconsentito ad aumentare le tasse, anche se lui aveva avvertito che tale somma era insufficiente. Tuttavia, aveva comunque iniziato i lavori, e ora i risultati erano davanti ai miei occhi: la palude rimaneva tale, il terrapieno non era stato completato, meno di un sesto dei canali di drenaggio era stato scavato. Insomma, tutto sembrava un disastro, un caos di mucchi di fango e rovine. A prima vista, non c’era alcuna speranza che i lavori portassero a risultati concreti. Tutto aveva l’aspetto della follia e dello spreco. Eppure, una somma di denaro – piccola rispetto a molte risorse private e insignificante nel bilancio della città – sarebbe stata sufficiente per rendere tutto perfetto: trasformare quel luogo desolato in un’area verde, piena di giardini rigogliosi e nuove case. Ma i capi della città erano ormai disgustati e rifiutavano di continuare a finanziare il progetto; anzi, lo minacciavano di sanzioni per la spesa pubblica inutile.
+
+“Durante questo flusso ininterrotto di parole, ho inserito qua e là solo alcune domande, nient’altro. Ho parlato con cautela, senza però mancare di rispetto per il suo entusiasmo. Come diciamo noi mercanti, ho ‘valutato la situazione’. Alla fine gli ho chiesto quale somma riteneva necessaria per portare a termine il suo progetto. Ha menzionato 300 monete d’oro, circa un quarto di quella quantità che si trovava nei miei sacchi sul terreno; quei sacchi, come gli avevo detto casualmente, erano pieni di grano grezzo proveniente dalle colline.”
+
+“Udendo menzionare questa somma, una somma che rientrava perfettamente nelle mie possibilità, un’illuminazione interiore mi colpì. Non pregai per ricevere indicazioni, come faccio di solito in qualsiasi affare che presenti incertezze; fui invece ispirato immediatamente e direttamente. A tutto ciò devo la mia attuale posizione: è stata infatti la base di tutto ciò che è seguito. Avevo sofferto molte avversità. È il destino dell’uomo. Ma da quel momento in poi, la mia anima fu colmata da una ricchezza sempre crescente, fino a quando non potei considerarmi, come faccio ora, di gran lunga l’uomo più ricco di tutto il Califfato, e forse del mondo intero. Questo, miei cari nipoti, è stato il punto di svolta!”
+
+Gli occhi dell’uomo anziano erano pieni di lacrime, la sua voce tremava; i ragazzi, sbalorditi, non avrebbero mai immaginato che il loro zio, nella sua grandezza e serenità, potesse essere così commosso.
+
+“Oh, miei figli!” continuò con voce rotta, “mai dimenticate nella vostra vita questo principio fondamentale: tra tutte le persone che Allah ci mette davanti per sfruttarle, nessuna è più redditizia del Genio Appassionato di Creare; dell’uomo che sa creare e produrre, ma che allo stesso tempo può essere gestito, del genio privo di astuzia! Potete riconoscerlo, quel raro tesoro, dai suoi occhi.”
+
+L’uomo anziano si riprese con dignità, si asciugò gli occhi con un pezzo di seta ricamata inestimabile proveniente da Samarcanda, lo gettò dalla finestra e, con il suo solito tono, continuò a raccontare le sue avventure.
+
+“Quel giovane non avrebbe mai immaginato che uno straniero come me, con soltanto un mulo, potesse aiutarlo. Mi aveva raccontato la sua storia semplicemente perché voleva condividerla con chiunque fosse disposto ad ascoltarlo. Il fatto che ignorasse la vera entità della mia ricchezza mi ha dato un vantaggio ulteriore.”
+
+“Alla fine della sua storia, gli dissi seriamente che mi interessava molto, che la sua idea era chiaramente valida, ma che l’stupidità, l’ignoranza e i sospetti dei consiglieri comunali erano comuni non solo nella sua città, ma in tutte le altre – una cosa che io, avendo viaggiato molto, potevo giudicare con certezza. Gli assicurai, basandomi su un’ampia esperienza (che lui accettò con estrema semplicità), che non poteva aspettarsi nulla di più da una fonte del genere. Poi mi ritrovai in una sorta di stato di riflessione, come se stessi pensando a cosa fare dopo.”
+
+“Quel giovane, ora che le sue speranze si erano rivolte verso un nuovo percorso, e dopo una conoscenza così breve – poiché è proprio questa la natura di questi entusiasti – iniziò già a cercare il mio aiuto, osservando il mio viso con grande ansia. Io continuai a rimanere in silenzio.”
+
+“Finalmente non ne poté più sopportare. Mi chiese con impazienza cosa avrei consigliato: dove poteva rivolgersi? Cosa si poteva fare? Sarebbe stata una tragedia, un omicidio, se il suo grande piano fosse fallito soltanto perché il vantaggio evidente che offriva non sarebbe stato sufficiente per convincere nessuno a fornire i 300 pezzi d’oro necessari per pagare i lavoratori fino al completamento del progetto. Si alzò in piedi, camminava avanti e indietro con frenesia, mostrava tutti i segni tipici della sua condizione.”
+
+“Gli risposi con grande attenzione e fermezza. Prima di tutto, dissi che non possedevo nulla. Era un peccato, perché comprendevo perfettamente il suo ideale: lo ammiravo e ci credevo. Infatti, era chiaramente valido. Se avessi avuto i mezzi necessari (dissei), avrei agito immediatamente; anche solo una piccola somma l’avrei messa a sua disposizione, solo per dimostrargli la mia sincera apprezzazione per il suo genio. Era proprio l’ignoranza di persone come lui, continuai, che ostacolava il progresso del mondo. Ma così era! Avevo soltanto il mio mestiere di mercante itinerante di grano per mantenere me stesso e una famiglia molto numerosa che avevo lasciato nelle colline. Non possedevo nulla. Tuttavia, il mio giro annuale in queste province e nelle vicine mi metteva in contatto (esattamente queste furono le mie parole) con molte persone importanti che disponevano di ingenti risorse finanziarie. Proprio in questa città – ora che mi aveva detto il suo nome – ricordai due o tre clienti con cui avevo fatto affari in passato, anche se non li avevo mai incontrati di persona. Avrei cercato di contattarli. E se mi avesse dato un appuntamento quella sera, dopo il tramonto, gli avrei detto se ero riuscito a ottenere qualcosa.”
+
 
 
 <span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_03" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 3)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt" data-tags="motif/desert,setting/desert"></span>
@@ -4808,6 +6881,34 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 
 “I insisted. He gratefully yielded. We drew up the document in duplicate. He was especially gratified to find that I had left the whole direction to him. ‘I know nothing of such things,’ I said. ‘I am only the Business Man. You are the Creator, the Artist: I am but the base mercantile instrument, and I shall be proud to share in your triumph.’ As I said this I put into my eyes the expression of inspired admiration which we of the commercial world very properly assume when we are dealing with this kind of fodder.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Mi riempì di ringraziamenti, mi portò in una ottima locanda nella città e, lasciandomi lì con l’ora concordata per il nostro incontro la sera seguente, tornò alle sue occupazioni con il cuore più leggero.”
+
+“Per quanto mi riguarda, mi ritirai in una stanza che avevo affittato, sistemai i miei bagagli (dopo essermi assicurato che il mio onesto mulo fosse alloggiato e nutrito), e immediatamente mi gettai in ginocchio per ringraziare Allah con tutta la fervore di cui ero capace per la Sua immensa grazia. Davvero, il mio cuore traboccava di gratitudine quando pensavo a quell’opportunità davvero eccezionale. Guardavo a questo giovane come una carovana che, dopo una lunga marcia nel [[Desert|-deserto]], scorge finalmente un lago pulito a meno di mezz’ora di distanza. Quanto breve era il tempo che separava quel momento dall’inizio di negoziati splendidi!”
+
+Dopo aver pregato con la massima sincerità e umiltà, presi esattamente duecento pezzi d’oro dai miei sacchi, li legai in un fazzoletto da portare addosso, poi mi sdraiai su un tappeto per dormire, avvertendo prima i servitori di quel luogo di svegliarmi non appena il giovane fosse tornato. Dormii profondamente per molte ore.
+
+“Quando mi svegliarono, era già buio. Mi alzai subito, accesi la lampada e feci entrare il mio giovane amico nella stanza. Tutto era silenzioso. Eravamo soli, sotto quella luce soffusa della fiamma. Quell’ora era propizia per ciò che avevo intenzione di fare.”
+
+“Gli dissi che avevo trascorso il tempo, da quando mi aveva lasciato, cercando i miei corrispondenti ricchi e informandomi sulle loro opinioni riguardo alle condizioni della città e alle opportunità di investimento. Aggiunsi che avevo menzionato brevemente e con molta cautela i lavori in corso nella palude mentre mi avvicinavo alla loro città, e che avevo subito capito, dal loro disprezzo per quell’iniziativa, che non c’era alcuna possibilità di interessarli al suo svolgimento. Lo definivano – come facevano tutti i loro concittadini – una follia. Si rammaricavano profondamente del denaro pubblico già investito e decisero categoricamente di non fornire ulteriori finanziamenti. Parlavano apertamente di processarlo per lo spreco delle risorse pubbliche. Per quanto riguardava eventuali investimenti personali con i loro beni, era evidente che fosse fuori discussione.”
+
+“Mi fermai un attimo per far assorbire queste informazioni e fui felice di notare l’aumento della delusione sul suo volto. Ma prima che potesse esprimere il proprio disperazione – anche se me lo aspettavo – lo rassicurai con altre parole. Gli dissi che avevo raccolto una certa somma di denaro: in parte grazie alla sicurezza delle mie scorte di grano, di cui portavo con me dei campioni (indicando i sacchi sul pavimento che contenevano il mio denaro), e in parte grazie alla mia reputazione personale di commerciante onesto, povero ma sempre puntuale nei pagamenti. Avevo ottenuto un prestito che avevo detto loro fosse destinato ad ampliare la mia attività, ma in realtà intendevo metterlo a sua disposizione. Avevo tanta fiducia nel suo piano. Temevo che non fosse sufficiente, ma sarebbe stato comunque un inizio; più avanti avremmo potuto trovare altri mezzi.”
+
+Il suo viso sincero e desideroso cambiò mentre parlavo. Era delizioso sentire di poter portare tanta gioia, anche se breve, in un’anima così onesta. Tuttavia, aveva qualche esitazione: disse che non era affar suo, ma preferiva che non ci fossero dubbi e che i soldi venissero prestati per uno scopo noto ai prestatori.
+
+“Ho lodato la nobiltà di tale esitazione, ma ho sottolineato che il rischio spettava a me: avevo parlato soltanto di ‘un obiettivo generale legato all’espansione del mio business’, senza alcuna frase ambigua; ero così certo del nostro successo che il prestito era comunque sicuro. In ogni caso, gli affari (di cui lui conosceva poco) si svolgevano sempre in questo modo (glielo assicurai); inoltre, i miei finanziatori essendo anch’essi uomini d’affari, non avrebbero mai discusso su questioni di onore quando avrei restituito il loro prestito. Questo lo tranquillizzò e ora era completamente pronto per ciò che sarebbe seguito.”
+
+“Gli chiesi di nuovo quale somma gli fosse necessaria. Mi disse che aveva assunto cento lavoratori, che il loro stipendio ammontava a venti monete d’oro a settimana, e che stimava che almeno quindici settimane fossero necessarie per ripulire, asciugare e preparare tutto il terreno. In totale, ripeté, sarebbero servite trecento monete d’oro: esattamente quanto aveva detto. Ancora una volta pensai tra me che si trattasse di un quarto della mia riserva. E quando ebbe terminato i suoi calcoli, gli dissi così:”
+
+“‘È proprio come temevo! La somma che ho ottenuto è appena sufficiente. Ho raccolto soltanto duecento monete d’oro!’ Il suo viso si rabbuiò di nuovo. ‘Ma questo ci basterà quasi,’ continuai. ‘Con attenzione, potremo quasi completare il nostro lavoro, e il resto dovrebbe essere facile da trovare.’”
+
+“Mi ha sempre sorpreso quanto siano precisi questi uomini nel giudicare le cose, eppure quanto poco utilizzino il proprio talento a proprio vantaggio. Era ansioso. Era certo che iniziare con una somma troppo piccola fosse pericoloso. Ma lo ho convinto; perché non si poteva ottenere di più, dissi.”
+
+“Quello che rese tutto semplice fu la mia proposta riguardo agli accordi tra di noi. Proponevo generosamente che, anche se ero stato io ad ottenere i fondi, dividessimo equamente i profitti derivanti. ‘Propongo che il tuo stipendio durante il lavoro sia molto basso,’ dissi, ‘anzi, appena sufficiente a coprire le tue spese di mantenimento. Non abbiamo infatti alcun margine di profitto, anzi, ne abbiamo meno del necessario. Ma se non sei d’accordo, per favore indica tu quali siano i tuoi termini.’ Non riusciva a trovare parole per lodare la mia generosità! Naturalmente era disposto ad accettare il minimo indispensabile e a lavorare con impegno estremo. Non aveva alcun diritto, diceva, di pretendere la metà dei profitti! Quello che desiderava era il risultato delle sue fatiche, non la fortuna.”
+
+“Insistetti. Lui acconsentì con gratitudine. Redigemmo il documento in due copie. Fu particolarmente soddisfatto nel scoprire che avevo lasciato tutta la responsabilità a lui. ‘Non so nulla di queste cose,’ dissi. ‘Sono solo un uomo d’affari. Tu sei il creatore, l’artista; io sono soltanto lo strumento commerciale necessario, e sarò orgoglioso di partecipare al tuo trionfo.’ Mentre lo dicevo, misi negli occhi quell’espressione di ammirazione ispirata che noi del mondo degli affari assumiamo sempre quando abbiamo a che fare con questo genere di persone.”
 
 
 
@@ -4843,6 +6944,36 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 “‘Listen to me. I have considered your case. I think I can rescue you. I have myself saved a little from my trading operations of the last two months in this town. My credit also is somewhat extended. I will find what you need. For I respect genius and I do not judge by common standards — —’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“La mattina seguente, nella frescura, prima che il sole prendesse forza, le nostre azioni furono messe in atto. Gli dissi di mantenere assoluto silenzio sulla fonte di quel denaro. Promisi che avrei assunto io la responsabilità di eventuali voci riguardanti un piccolo risparmio personale da lui effettuato. Capì il mio punto di vista e, sebbene ancora esitante, acconsentì. Il lavoro proseguì.”
+
+“Il mio prossimo passo l’avevo già pianificato. Avevo riservato personalmente una somma di denaro apposta per questo scopo, equivalente a quella che avevo dato al mio partner. Affittai una graziosa casetta con giardino in città, nel cortile ombreggiato c’era una fontana d’acqua limpida. Comprai un po’ di abiti decenti e anche uno o due gioielli non troppo vistosi. E poi iniziai a ricevere ospiti.”
+
+“Ho comprato – a un prezzo che mi ha fatto esitare – una cuoca davvero meravigliosa; ho imparato anche i giochi d’azzardo a cui erano dedicati i più ricchi della zona. I capi delle varie zone della città, i principali consiglieri e magistrati si scambiavano commenti sull’eccellenza dei miei pasti e sull’interesse dei miei giochi d’azzardo. Sono diventato loro intimo. Di tanto in tanto parlavo della mia amicizia con l’Entusiasta e del mio rammarico per il fatto che lui sprecasse i suoi miseri risparmi in quella terribile situazione fuori dalle mura. Erano tutti d’accordo. E nel frattempo, quel giovane appassionato raddoppiava i propri sforzi: lavorava fianco a fianco con i suoi uomini, pianificava, li incoraggiava e compiva veri e propri miracoli di lavoro. In effetti, temevo per la sua salute. Una preoccupazione naturale per chi si trova nella mia situazione. Ma per la Misericordia di Allah, la sua salute è rimasta perfetta.”
+
+“Ora, tuttavia, veniva da me sempre più spesso e con un'ansia crescente. Erano rimaste soltanto cinquanta monete d’oro, quaranta, venti!. Mancavano solo pochi giorni. Già aveva dovuto trattenere i salari dei lavoratori, organizzare turni di lavoro ridotti, persino licenziare alcune persone. Non avrei potuto, oh, non avrei potuto raccogliere qualche altra somma?. Come aveva detto lui, i lavori richiedevano almeno un altro mese; in quel momento la situazione era terribile: nessuna garanzia per ottenere un prestito, solo fango e disordine ovunque. Potevo soltanto promettergli di fare del mio meglio, ma non ero ottimista. Il mio viso cupo aumentava ancora di più le sue paure.”
+
+Nonostante fosse turbato, ebbe la generosità di rammaricarsi per la mia sfortuna in quell’impresa infelice.
+
+“Mostrai una forte indifferenza e gli dissi che ero abituato alle difficoltà di questo triste mondo e che la mia fiducia era in Allah!”
+
+“Finalmente, quando il giorno in cui i suoi fondi sarebbero esauriti era ormai vicino, organizzai un banchetto di particolare importanza per il tesoriere e i magistrati della città; durante il banchetto portai il discorso sulle opere ancora in corso. Sentii le solite lamentele: che la somma inizialmente stanziata con i tributi era andata persa in spese inutili, che quel giovane aveva chiaramente fondi propri per continuare quelle sciocchezze, eppure la città non riusciva a recuperarne nulla. Approvai quindi una minaccia: che, per semplice irritazione, avrebbero potuto interrompere tutto e metterlo in prigione finché non avesse pagato, o comunque fatto fronte al proprio debito nei confronti dei concittadini.”
+
+“Fu allora che agii, poiché l’ora era giunta! Pregai per lui come per un amico; lasciai che sentissero la mia influenza, aspettai il momento opportuno, e non fui deluso. Dopo una breve esitazione solenne, il tesoriere mi disse: ‘Signore, poiché conoscete questo giovane e sembrate partecipare alle sue decisioni, non potreste scoprire cosa gli manca e forse far sì che restituisca le monete d’oro che deve al nostro fondo comunale? Saremmo in debito con voi.’ Risposi che la mia intimità con quel giovane non arrivava a tal punto, ma che avrei fatto del mio meglio. Chiesi loro soltanto un po’ di tempo: una settimana.”
+
+Il giorno dopo il giorno seguente a quella festa, il giovane venne da me in uno stato di estrema agitazione. Il fango del suo lavoro era ancora sui suoi palmi delle mani; mi preoccupò vederlo zoppicare a causa di un grosso carretto che si era ribaltato mentre lo spingeva, schiacciandogli il dito grande del piede. Ma, preso dal dolore mentale, ignorò il dolore fisico e mi disse che, dopo aver pagato lo stipendio di quella settimana, i suoi pezzi d’oro erano ora ridotti a dieci. Anche se per i prossimi giorni dovesse mangiare solo pane secco e vendesse tutte le sue poche cose, non sarebbe riuscito comunque a pagare il prossimo debito, che sarebbe scaduto tra soli sette giorni.
+
+“Posai lo sguardo a terra e rimasi in silenzio per un po’, proprio per impressionarlo di più. Poi gli dissi con voce grave e sommessa che avevo molto cattive notizie. Alzai lo sguardo per un attimo, per notare l’orrore nei suoi occhi dopo questa rivelazione, poi lo riabbassai a terra e continuai: ‘Ho ricevuto un consiglio confidenziale. Forse non avrei dovuto condividerlo con te, poiché mi è stato dato in segreto. Ma la mia preoccupazione e il mio affetto per te sono troppo forti. Il consiglio dice che questa stessa settimana intenderanno chiederti formalmente il rimborso di 100 monete d’oro, che secondo loro ti spettano per anticipi fatti molto tempo fa. E se non pagherai, verrai gettato nelle loro prigioni.’”
+
+“Il giovane balzò improvvisamente in piedi, emise un grido acuto e cercò di sbattere la testa contro il muro. Fu con difficoltà che riuscii a trattenerlo, tenendogli le mani.”
+
+“‘Oh! Maledetta sia la mia nascita!’ gridò in un parossismo di disperazione. ‘E maledetta sia anche la mia generazione. Il mio momento è finalmente arrivato!’ Delirava, chiedendo in modo incoerente dei miracoli e negando alternativamente la Giustizia di Allah. Ormai più calmo, ma ancora sconvolto, si lamentò delle sue difficoltà. Mi raccontò – cose che fino ad allora non sapevo e che mi interessavano molto poco – che aveva una sorellina orfana; se lo avessero mandato via, sarebbe morta di fame o diventata preda di estranei. ‘Cosa si può fare? Qual è il rifugio possibile? Maledetto sia il giorno in cui gli è apparso quel sogno fatale. Maledette siano le sue azioni. Maledetta sia la riviera. Maledetti siano i pantani. Maledetta sia la città!’”
+
+“E così via, la solita reazione degli appassionati. Era davvero angosciante. Ho tenuto saldamente le sue mani che si contorcevano fino a quando non si è calmato abbastanza da potermi ascoltare, e poi ho detto, ”
+
+“Ascoltami. Ho considerato la tua situazione. Penso di poterti salvare. Io stesso ho risparmiato qualcosa grazie alle mie attività commerciali degli ultimi due mesi in questa città; il mio credito è anche un po’ più ampio ora. Troverò ciò di cui hai bisogno. Perché rispetto il genio e non giudico secondo criteri comuni, ”
+
 
 
 <span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_05" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 5)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt" data-tags="concept/providence"></span>
@@ -4870,6 +7001,30 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 
 “In a few hours, therefore, the Head Mufti, the Chief of the Guard, and two very important councillors had in their various ways touched casually upon the wheat trade during short conversations in which each had separately engaged me under the shades of the Bazaar. A little later, as I took the air by the riverside at evening, the principal Ascetic of the district, who had come in to buy his few lentils for the week, spoke to me briefly of the same matter. I gave each of them a different answer, alluding to various cargoes of wheat, caravans of wheat and tumbrils of wheat — all in technical terms; to risks, to covering sums, to transfers from one district to another. In each case I refused anything but a pledge to stand in with a transaction somewhat beyond my unaided powers; in each case I ridiculed the smallness of the little adventure; in each case I paid, after the lapse of a few days, to one a single piece of gold as his profit, to another two, to another three. And each was very pleased.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Stavo proseguendo quando lui espresse una gratitudine eccessiva; mi chiamò suo benefattore, baciò più volte la mia mano e, in modo irrilevante, menzionò di nuovo quella sua sorellina che in realtà non aveva nulla a che fare con la questione. Lo interruppi e continuai, ”
+
+“‘Farò di più. Non conosci il tuo vero valore – intendo il tuo valore morale e intellettuale – né l’ammirazione che susciti nelle persone che, come me, ritengono tutto il resto inutile. La nostra impresa è chiaramente perduta’ — annuì in segno di accordo. ‘Si può dire che la mia investizione sia andata persa; o, comunque, devo considerarla per quello che vale: un oggetto半 abbandonato e gravemente minacciato dalle autorità. Ma tu non devi fallire. I tuoi grandi talenti non devono essere sprecati, finché ho credito nel commercio. Vieni. Il nostro accordo iniziale è ormai inutile. È solo carta straccia. Bene, lo strapperemo.’”
+
+“Oh, signore!” disse lui. “E voi? Tutta questa fiducia in me e nel mio lavoro, tutto questo denaro che avete investito in me. Tanta gentilezza e sostegno senza i quali io, “
+
+“‘Non dite altro,’ interruppi io, ‘ho già preso la mia decisione. Ho qui una bozza delle mie intenzioni, che spero coincideranno con le vostre.’ Così dicendo, tirai fuori due copie di documenti su cui erano scritti termini molto semplici. L’accordo originale (e ormai inutile), relativo a un profitto immaginario e irraggiungibile, venne annullato. Nella nuova bozza promettevo di occuparmi dei miseri lavori incompiti (che non valevano nulla), di risarcire quel poveretto da eventuali rivendicazioni pubbliche e di garantirgli uno stipendio adeguato per un anno a partire dalla data della firma. Aggiunsi anche altro: mi impegnavo, nel caso della sua morte o di una detenzione prolungata entro quell’anno, a pagare ai suoi eredi la somma di 100 monete d’oro. Gli spiegai che questo avrebbe provveduto a sua sorellina (di cui ormai sapevo abbastanza), mentre per me giustificavo questa generosità considerando la sua ottima salute e il fatto che la mia protezione l’avrebbe salvato dall’essere imprigionato.”
+
+“Non avrei mai creduto che un essere umano potesse provare sentimenti così intensi. Si gettò ai miei piedi, chiamandomi la sua [[Providence|providenza]], la sua tutto, il suo rifugio e la sua salvezza. Disse di non aver mai saputo esistesse tanta bontà tra gli uomini. Gli dissi di non esagerare; gli ricordai come menti nobili in tutti i tempi avessero sempre appoggiato le Arti, citando nomi come Yussouf-abd-Arham, Sulim-ben-Achab, Muswuf, Wawoo, Mah e altri illustri esempi. Alla fine, le nostre faccende furono concluse: i nuovi documenti furono firmati e autenticati dai miei servitori; quel nobile giovane, per il cui carattere sincero provo ancora profondo rispetto, si addormentò felicemente sui morbidi tappeti della mia stanza degli ospiti. Lo lasciai lì, a sognare la sua sorellina e i suoi piccoli “monticoli di fango”, mentre io mi dedicai a una breve revisione dei conti, seguita dalle mie preghiere serali al Misericordioso, che guida i suoi servitori verso luoghi felici.”
+
+“La mattina seguente rimandai l’Entusiasta alle sue mansioni (dandogli anche un po’ di denaro per proseguire nel suo lavoro) e riflettei molto attentamente sui miei piani.”
+
+“Prima di tutto, alla prossima cena che organizzai, dissi ai miei ospiti (che, come al solito, erano tra i principali uomini della città) che avevo proposto un affare legato al grano con i commercianti del Tambulistan: in realtà quel posto non esisteva, ma il nome era ben scelto e attraente. Dissevo che si trattava di persone lontane, ma in corrispondenza con me; poiché loro avevano un eccesso di grano mentre nel mio paese c’era carenza, avevo approfittato dell’occasione per negoziare attraverso terzi. Calcolavo di ottenere un profitto di circa 100 monete d’oro. Nient’altro, dissi. Ero una persona modesta e mi occupavo solo di affari di piccola entità. I miei ospiti negarono gentilmente questa affermazione e sorrisero con interesse educato, ma non aggiunsero nulla. Fino a quando, poco dopo, dichiarai che l’affare si era rivelato un po’ troppo oneroso per me e che stavo cercando qualcuno che potesse aiutarmi a regolarizzare la transazione e condividere il profitto. Dissi loro che quel guadagno era abbastanza certo, che non erano necessari fondi liquidi oltre a quelli che avevo già a disposizione. E che, poiché un paio di cambiali non avrebbero causato problemi, ne avevo ottenute alcune da un amico nel mio paese. Tutto questo, naturalmente, nel corso di una conversazione informale.”
+
+“Come ci si poteva aspettare, dopo cena il Procuratore Capo della città (il mio più onorato ospite) mi si avvicinò e mi disse in privato che sarebbe stato felice di aiutarmi. Gli dissi che non c’era alcuna necessità: potevo attingere alle somme ricevute dalle mie lettere dalla patria, o comunque a sufficienza per coprire le spese. Se davvero voleva condividere questa piccola avventura con me, gli chiesi di contribuire con circa il dieci percento del totale. Ma in realtà la somma in questione era troppo piccola perché valgesse la pena disturbarlo per essa. Accettai la sua promessa di darmi 100 monete d’oro, ma rifiutai categoricamente qualsiasi documento scritto: ‘Il suo nome è sufficiente,’ dissi, ‘gliene sarò molto grato e la mia gente crederà nella mia parola.’”
+
+“La mattina seguente dichiarai che sarei andato nelle colline per incontrare un messaggero. Effettivamente attraversai la porta della città e proseguii fino a quando non fui ben lontano dalla vista; ma poiché non aveva senso stancarmi inutilmente, dormii sotto il caldo di un bosco, osservando tutto durante quella notte tiepida, e tornai il secondo giorno, con i vestiti sporchi per il viaggio.”
+
+“La mattina del terzo giorno incontrai il Magistrato Capo nel Bazaar: lo fermai, chiacchierammo un po’, e lì stesso gli pagai undici pezzi d’oro. ‘Ho incontrato il mio messaggero proveniente dal Tambulistan’,” dissi, ‘abbiamo scambiato i pacchi, e ho scoperto di aver ottenuto poco più del dieci per cento di profitto. Questi undici pezzi sono la tua parte rispetto al tuo “gentile investimento” di 100.’ Naturalmente protestò, sostenendo che non si fosse trattato di un vero investimento, ma solo di alcune parole amichevoli di incoraggiamento; tuttavia prese i soldi, e si vedeva chiaramente che era soddisfatto. Anzi, così soddisfatto che, nonostante fosse una persona discreta, non riuscì a trattenersi dal parlarne con sua moglie. Gli uomini ricchi amano questi piccoli guadagni inaspettati.”
+
+“Quindi, in poche ore, il Mufti Capo, il Comandante della Guardia e due consiglieri molto importanti avevano, ciascuno a modo suo, accennato casualmente al commercio del grano durante brevi conversazioni avvenute all’ombra del bazaar. Poco dopo, mentre facevo una passeggiata lungo il fiume alla sera, l’asceta principale della zona, che era venuto a comprare le sue poche lenticchie per la settimana, mi parlò brevemente dello stesso argomento. Risposi loro ciascuno in modo diverso, facendo riferimento a varie carghe di grano, carovane di grano e carri pieni di grano – tutto in termini tecnici; parlando di rischi, di somme da coprire, di trasferimenti da un’area all’altra. In ogni caso, rifiutai loro qualsiasi offerta, limitandomi a promettere di aiutarli con transazioni che andavano al di là delle mie possibilità; in ogni caso, derisi l’importanza di quelle “piccole avventure”; e dopo alcuni giorni, pagai a uno un solo pezzo d’oro come profitto, a un altro due, a un altro ancora tre. E tutti furono molto soddisfatti.”
 
 
 
@@ -4905,6 +7060,36 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 “The public money so spent was very well worth while. The improvement in my property was immense; and when a fine road, bordered with trees, was laid down all along the embankment I obtained very heavy compensation from the city for the use of the ground and the cutting off of my approaches to the river.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Con il passare dei giorni variavo la procedura. A volte rimpiangevo i profitti inaspettatamente bassi ottenuti; una volta annunciai deliberatamente una perdita e raccolsi con fermezza contributi riluttanti dai miei soci; subito dopo, però, con un altro “trucco” immaginario, pagai generosi dividendi ai miei amici. Anzi, quell’operazione mi costò venticinque pezzi d’oro. Ma ne è valsa la pena: in meno di un mese riuscii così a liberarmi di 200 pezzi d’oro. Fu una prova crudele, ma alla fine si rivelò estremamente proficua. Perché, anche se non consiglierei mai investimenti su larga scala, con questo metodo semplice riuscii ad assicurarmi una reputazione di saggezza in ciò che le persone valutano di più: il denaro.”
+
+“Avevo riservato 250 pezzi per questo esperimento, e le mie scorte stavano per esaurirsi quando ho diretto la mia [[Ship|nave]] verso il porto.”
+
+“Prima di tutto, con quanto mi era rimasto, portai al consiglio comunale cinquanta pezzi d’oro, dicendo che li avevo ottenuti a fatica dal mio giovane amico, che ancora lavorava nei dintorni, ma che questi mi aveva promesso fedelmente di darmene altri cinquanta in due mesi. Poi, suscitando un certo stupore tra i miei amici, dichiarai pubblicamente e con decisione che iniziavo a intravedere qualche possibilità in questo progetto di bonifica delle paludi. Ricordai loro che l’Ingegnere era sempre stato mio amico, che avevo sempre riconosciuto in lui del talento, e che, nonostante la sua evidente mancanza di senso degli affari, non potevo fare a meno di ammirare le sue capacità nel suo campo.”
+
+“A quel punto il luogo era stato asciugato e livellato; le dighe erano tutte ben inclinate e lastricate, mentre i rifiuti e le montagne di terra erano scomparsi. Fu allora che portai un gruppo di questi miei importanti amici a visitare il posto alla sera, dalle mura della città, e loro non seppero mai che era mio.”
+
+“Eccola lì davanti a loro: una magnifica pianura, bonificata e ordinata, terreno solido diviso in file, con cartelli ben posizionati che indicavano le nuove strade, tutte già denominate.”
+
+“Vedete, cari nipoti miei, l’ammirazione che tutti coloro che si occupano di affari provano per chi li ha preceduti in qualche iniziativa. La mia stima presso i miei vicini è aumentata a un livello senza pari; già prima nutrivano grande rispetto per la mia acuta intuizione nel campo commerciale, dimostrata da tanti piccoli consigli – insignificanti nella quantità, ma, oh! così sempre accurati. Ora, davvero, quando hanno appreso di questo mio grande successo (o, come lo chiamavano nella lingua locale, ‘Koo’), sono rimasti sbalorditi e pieni di rispetto.”
+
+“Dopo il tramonto ho contato i miei soldi. Ne avevo esattamente cinquanta pezzi d’oro: un obiettivo preciso, un rischio calcolato. Ma, come dice il proverbio, ‘Il cacciatore audace uccide la leonessa; il timido viene ucciso dal cucciolo.’”
+
+“Era tardi quella stessa notte quando il Magistrato Capo bussò alla mia porta con la massima cautela, portando una lanterna coperta e camminando in punta di piedi. Mi pregò, come vecchio amico (ma sottovoce), di vendergli quanto terreno fosse necessario per costruire una bella casa con un giardino, adatta sia a suo figlio che a lui stesso. Gli dissi che non avrei mai intrattenuto affari loschi con un amico così eccellente. Non potevo certo rifiutargli un posto del genere.”
+
+“Presi fuori un piano (su cui l’Ingegnere aveva già disegnato strade e piazze pubbliche) e segnai sulla via principale il lotto che intendevo assegnargli. Lui se ne andò pieno di lodi e benedizioni. Appena era uscito, dei passi ancora più furtivi si avvicinarono alla mia porta: era il Mufti. Mi offrì cento pezzi d’oro per quel terreno. Io gliene diedi generosamente cinquanta per un lotto più grande di quello che aveva osato chiedere. Lo segnai un po’ più avanti, sempre sulla stessa via principale. Lui se ne andò lodando il mio nome e la mia bontà.”
+
+Era quasi mezzanotte quando un altro passo si fermò davanti alla mia porta: apparteneva a un consigliere. Per cinquanta monete, lui aveva anche un lotto il doppio più prezioso, situato nella stessa strada. Non era passata nemmeno un’ora; era la parte più buia della notte quando si poté percepire appena il rumore di piedi nudi che si avvicinavano, seguito dal tentativo di aprire la porta con delicatezza. La porta fu socchiusa leggermente e il volto magro e scarno dell’asceta apparve sulla soglia, guardando all’interno. Gli feci cenno di entrare. Lui si mise un dito sulle labbra, controllò con attenzione la serratura. Poi, chinandosi in avanti, sussurrò qualcosa all’orecchio. Fui un po’ sorpreso dall’entità dell’offerta che mi fece, ma naturalmente la accettai subito. Uomini del genere hanno grande influenza tra i fedeli. Mi propose di lasciarmi il suo proprietario o forse di tenerlo in attesa di un aumento di valore. Naturalmente avrebbe continuato a vivere nella sua umile cella, fuori dalla città, nelle lande desolate. Se ne andò rapidamente, come uno spettro. All’alba arrivò un altro consigliere, ancora più audace degli altri; mi fece una proposta concreta riguardo al lotto numero cinquantatré. E io la accettai immediatamente.
+
+“Per giorni interi la processione continuò; ogni uomo arrivava da solo e si assicurava di non essere osservato. Metà del consiglio aveva posti disponibili per poco o nulla, mentre l’altra metà aveva posti a tariffe davvero molto ragionevoli.”
+
+“E tutto il tempo, di fronte alla folla di acquirenti che mi assillavano e chiedevano informazioni su di me, ripetevo che sarebbero state possibili solo vendite molto limitate, e per di più solo in forma di leasing, e anche questo solo in un secondo momento.”
+
+Nel frattempo, l'intero consiglio comunale cambiò opinione. I consiglieri avevano completamente perso quell'avversione precedente nei confronti del progetto. Con entusiasmo e con voto unanime, decisero di istituire una tassa speciale per la realizzazione del nuovo quartiere: per piantare alberi, per installare condutture in modo che fontane d'acqua dolce potessero apparire nelle case private e nei luoghi pubblici. Anche se la tassa non era certo leggera, fu pagata con grande disponibilità da tutti i consiglieri, i quali ora provavano addirittura un certo orgoglio per il rinnovamento della loro città. Persino tra la massa dei contribuenti poveri non ci furono punizioni severe: si verificò soltanto un caso di tortura lieve e forse una dozzina di bastonate.
+
+“I soldi pubblici spesi in quel modo sono stati davvero ben investiti. Il miglioramento della mia proprietà è stato immenso; inoltre, quando lungo tutto il terrapieno è stata costruita una bella strada bordata di alberi, ho ricevuto un’importante compensazione dalla città per l’utilizzo del terreno e per la perdita dei miei accessi al fiume.”
+
 
 
 <span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_07" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 7)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt" data-tags="concept/providence"></span>
@@ -4932,6 +7117,30 @@ The old man recovered himself with dignity, wiped his eyes on a piece of pricele
 
 “A curious discussion arose. One party, composed mainly of wealthy but intelligent young men, of university professors and of jail-birds, were insistent that the Town Council should buy all my land and the city possess it for the future; for it was obviously wrong (they agreed) that improvements in land and houses should go to private individuals. The other party, which was made up almost entirely of builders and auctioneers, furiously opposed this scheme which (they said) struck at the roots of all morals and family life. These stoutly maintained that, in the natural scheme of [[Providence]], all should be parcelled out among the highest bidders.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Da parte mia, non sono stato avaro: ho promesso 100 monete d’oro per la costruzione di una nuova moschea nel centro della città, a condizione che altre novantanove persone facessero lo stesso. Ho inoltre istituito un salone per il tempo libero pubblico; il prezzo dell’ingresso bastava appena a coprire le spese di manutenzione, pulizia, tasse, riscaldamento e illuminazione, gli interessi sui debiti (ai quali anch’io stesso avevo contribuito in modo sostanziale), nonché le spese per servizi, letteratura, segreteria, decorazioni, accessi e ammortamento annuale. Ho inoltre fornito delle cucine dove i cittadini più poveri potevano acquistare cibo a un prezzo leggermente superiore al suo valore reale. Queste strutture sono state di grande aiuto per la polizia, che aveva qui un punto centrale da cui monitorare i movimenti dei miei vicini meno fortunati. Ho inoltre installato fontane pubbliche munitte di bicchieri di piombo robusti, fissati alle pareti con catene solide per evitare furti, e ho persino fornito gratuitamente mappe della nuova zona, indicando i terreni ancora disponibili e le condizioni per acquistarli.”
+
+“Ho stabilito come regola che chiunque costruisse una casa sulla mia terra dovesse promettere di cedermela gratuitamente dopo vent’anni; ma poiché molte persone erano troppo povere per costruirsi da sole le loro case, ho istituito un fondo dal quale potessero prendere in prestito i soldi ai tassi di interesse normali, oltre alle poche tasse, commissioni e detrazioni inevitabili in simili transazioni. In ogni modo, ho curato lo sviluppo di questa mia creazione: una nuova città.”
+
+“Ho ricevuto la mia ricompensa nel profondo rispetto e onore che i miei concittadini mi hanno dimostrato. Questi ultimi furono convocati dal Consiglio in una data appropriata per decidere quale riconoscimento dovesse essere attribuito ai miei servizi. Dopo lunghe discussioni e molti discorsi molto eloquenti, decisero finalmente di consegnarmi un rotolo di pergamena, presentato davanti alla piazza pubblica del nuovo quartiere tra acclamazioni e canti estremamente lusinghieri; la tenda di seta viola utilizzata per l’occasione fu in seguito rivendicata come proprietà dal mio maggiordomo.”
+
+“Risposi in modo appropriato alle acclamazioni della folla e ai complimenti gentili dei consiglieri; ma alla fine del mio discorso dissi loro che mi sarei sentito davvero ingrato se, in un’occasione del genere, un certo umile collega mio venisse trascurato nelle celebrazioni pubbliche. Allora tesi la mano verso quell’entusiasta, quel giovane ingegnere che avevo avuto la fortuna di incontrare alcuni mesi prima e per il quale avevo organizzato tutto affinché fosse presente nel momento giusto ai piedi del mio podio. Lo aiutai a salire, gli sorrisi gentilmente mentre arrossiva di gioia e imbarazzo. E lo misi persino al mio fianco.”
+
+“‘Va tutto bene, amici miei,’ dissi alla fine del mio breve discorso, ‘che voi parliate così della mia previdenza e della mia capacità organizzativa, del mio potere di gestione e di tutto il resto di ciò che – spero giustamente – attribuite a me quando dite come, come se possedessi una bacchetta magica, abbia fatto sorgere questa nuova città dal pantano che la precedeva. Ma a cosa servirebbero tali doti se non fossero affiancate e integrate da talenti altrettanto essenziali, come quelli che tutti ammiriamo in questo giovane amico al mio fianco? È lui infatti che ha svolto, a volte in senso letterale, il lavoro più duro e meno visibile; è stato lui ad impegnarsi con costanza e diligenza, senza di cui anche i miei sforzi più evidenti sarebbero stati vani!’”
+
+Dopo alcuni applausi sommessi da parte dell’assemblea – la maggior parte dei presenti non aveva mai sentito parlare di quel giovane, mentre gli altri se ne erano dimenticati – tutti si dispersero, e io potei finalmente riposarmi nella mia nuova e lussuosa casa.
+
+“Sono lieto di dire che questa menzione pubblica del mio stimato giovane collega non è stata l’unica cosa che ho fatto per lui. Poiché lo stipendio concordato nel nostro contratto stava per scadere, ho organizzato con il Consiglio affinché ottenesse un incarico permanente come custode delle piazze pubbliche, con uno stipendio più del doppio di quello dei giardinieri. Inoltre, a condizione di buona condotta, gli è stata concessa una pensione limitata al raggiungimento dei settant’anni; questa pensione veniva detratta settimanalmente dal suo stipendio: poiché all’epoca non aveva ancora trentadue anni, questi importi si sarebbero accumulati in somme molto superiori a quelle necessarie, lasciandogli un surplus che il Consiglio avrebbe potuto utilizzare a piacimento. Gli è stato inoltre prestato, a titolo gratuito, una piccola casa di quattro stanze con un bel giardino davanti e un capanno di legno sul lato. I suoi doveri lo impegnavano dal poco prima dell’alba fino al crepuscolo, con un’ora libera per i pasti e due settimane di vacanza in autunno.”
+
+“Anche sua sorellina non fu dimenticata. Riuscii ad ottenere per lei, grazie ai miei amici tra le autorità religiose (in particolare il Mufti, che si impegnò molto a favore di lei), il posto di addetta alla pulizia della nuova moschea. Lo stipendio che riceveva lì era inevitabilmente più basso di quello di suo fratello; inoltre, non aveva ferie e le sue ore di lavoro erano leggermente più lunghe. Tuttavia, d’altra parte, non aveva alcuna responsabilità.”
+
+Poco dopo tutto ciò, decisi di vendere la mia partecipazione in questa nuova attività e di intraprendere altre avventure commerciali in terre lontane. Ero rimasto in quel luogo per più di un anno; avevo fatto molti buoni amici. Quello era stato il teatro di un successo maggiore di qualsiasi altro avessi mai sperimentato. Tuttavia, sentivo che non potevo restare lì ancora a lungo: quel mercato era troppo ristretto per le mie crescenti opportunità. Non c’era più nulla da ottenere.
+
+“Pertanto, annunciai le mie intenzioni di realizzare tale progetto e concessi un certo lasso di tempo affinché il pubblico potesse prendere una decisione riguardo all’acquisto delle mie terre, dei contratti di locazione e degli altri interessi coinvolti.”
+
+“Sorse una discussione interessante. Un gruppo, composto principalmente da giovani ricchi ma intelligenti, da professori universitari e da ex detenuti, insisteva affinché il Consiglio Comunale acquistasse tutte le mie terre e che la città ne assumesse la proprietà per il futuro; infatti era chiaramente sbagliato (erano d’accordo su questo) che i miglioramenti delle terre e delle case andassero a privati individui. L’altro gruppo, formato quasi interamente da costruttori ed agenti di asta, si oppose con forza a questa proposta, sostenendo che essa minasse le basi della morale e della vita familiare. Questi ultimi sostenevano fermamente che, secondo il disegno naturale della [[Providence|Provvidenza]], tutto dovesse essere distribuito tra i migliori offerenti.”
 
 
 
@@ -4985,6 +7194,55 @@ The amiable old man opened his mouth and spoke:
 “It seemed that in this admirable region the Rich rule unquestioned to the immense profit of the State. The Sultan is kept on a strict allowance that he may be the puppet of the great merchants, bankers and landholders who are the masters of the Commonwealth and him. The middle classes are allowed a livelihood but no possessions, and are proud of their small incomes, which usually put them above the artizans; while the populace are content to swarm in hovels underground, to work hard all day and all the year round for a little food and to revere and acclaim the rich with frenzied cheers upon all public occasions. Laws and proclamations are purchased, and their administration is in the hands of the rich, of whom a select few sit upon the bench and condemn a fixed number of the populace, and a few of the middle classes, to imprisonment every year by way of discipline and example. No man possessing more than a hundred thousand gold pieces worth of land or stock can be punished, and if a poor man tell any unpleasing thing of such a one he is beaten till he admits his falsehood or, if he prove obstinate, slowly starved to death.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Per quanto mi riguarda, ero, come la grande maggioranza dei contribuenti, indifferente a entrambi gli argomenti. L’unica cosa che mi interessava era il fatto evidente che, nella competizione tra questi due gruppi in Consiglio, il valore della mia proprietà aumentasse inevitabilmente.”
+
+“Finalmente la prima fazione prevalse; la città mi comprò fuori (davvero un esperimento sociale molto interessante!), e ricevetti la somma di due milioni di pezzi d’oro.”
+
+“Due milioni di pezzi!” gridarono all’unisono i sorpresi nipoti.
+
+“Miei figli,” disse l’uomo anziano con un sorriso gentile, “per voi, che provenite da una famiglia come quella di vostro padre, mio caro fratello, questa somma deve sembrarvi enorme; tuttavia, per me oggi sembra abbastanza moderata. Comunque sia, avete ragione. Da quel momento in poi considero quel cambiamento radicale nella mia vita come la conferma di quella Misericordia Divina che fin allora mi aveva sempre accompagnato. Ora so con certezza che da allora essa è stata presente in ogni mio atto.”
+
+“Prima del giorno in cui vidi per la prima volta quel fiume e quella città, prima di incontrare quel giovane ingegnere entusiasta, prima di formulare il mio piano decisivo, ero un uomo soggetto a gravi ansie e sofferenze; ora sono precariamente agiato, ora muoio di fame; a volte dispongo di qualche soldo effimero. Poi arrivò quell’anno meraviglioso di cui ho appena parlato. Da allora ho goduto dei frutti di tanta perseveranza e abilità: ho continuato ad accumulare ricchezze, sempre maggiori.”
+
+“Oh, zio, cos’è questo?”
+
+“Sì,” disse il buon vecchio mercante con toni seri e rispettosi, “sono l’onore dei vicini, la devozione degli amici, l’ammirazione di tutta l’umanità, un autostima permanente. E, cosa più importante di tutte queste cose, la vera pace interiore dell’anima.”
+
+Il lamento insopportabile del muezzin impedì ai suoi nipoti di rispondere; loro, con gli occhi felici che brillavano come se fossero stati loro stessi i destinatari di quelle sette cifre, tornarono a casa immersi in un sogno d’oro.
+
+# Al-Fulús al-Masnú min al-Qirtás
+
+Titolo:  
+Cioè:
+
+#Il denaro fatto di carta
+
+#CAPITOLO XIII. INTITOLATO “AL-FULÚS AL-MASNÚ MIN AL-QIRTÁS”, O IL DENARO FATTO DI CARTA
+
+Nel giorno stabilito della settimana successiva, i bambini furono felici di notare che il numero delle esecuzioni pubbliche era sceso ben al di sotto della media, tanto che lo spettacolo offerto loro dallo zio poteva iniziare addirittura mezz’ora prima del solito. Erano molto curiosi di scoprire quale altra fortuna gli fosse capitata per grazia di Allah.
+
+Il gentile vecchio aprì bocca e parlò:
+
+“Due milioni di monete d’oro sono una somma considerevole. Pesano circa trenta tonnellate, sì,” calcolò rapidamente sulle sue dita incastonate di gioielli, “circa trenta tonnellate. La città potrebbe riuscire a produrle se setacciasse l’intera regione, cercando nelle case più umili e fondendo lampade antiche, anelli nuziali, santuari sacri e altre cose del genere.”
+
+“La completa rimozione di tutta quella quantità di metallo li lasciò un po’ imbarazzati quando si trattava di utilizzare le monete nelle faccende quotidiane, ma in realtà quella non era affar mio. Impaccai cento forti casse di ferro con l’oro e l’argento, tenendo da parte qualche migliaio di monete in un sacco di pelle; caricai tutto sui carri, aggiunsi alla mia scorta cento uomini armati, segnalai chiaramente le casse con grandi lettere bianche che dicevano ‘Oro inviato al Sultano’, e tutto era pronto per partire. Ma verso dove?”
+
+“Finché la ricchezza di un uomo non diventa così grande da permettergli di comandare l’intero stato, egli è sempre esposto a dei pericoli: viene invidiato e diventa bersaglio di tasse ingiuste, persino di confisca. Non avevo dimenticato la terribile lezione di quell’isola! Riflettevo su quanto avevo letto riguardo alle varie regioni del mondo, e le rifiutavo tutte come pericolose, quando casualmente sentii un uomo dire al suo vicino (con cui stava litigando): ‘Ricorda: questa non è la terra di Dirak, dove vigono leggi diverse per i ricchi e per i poveri.’ Come potete immaginare, riflettei a lungo su queste parole casuali. E nel giro di un’ora stavo offrendo una cena eccellente a un uomo di grande erudizione che insegnava all’università, famoso per la sua conoscenza delle costituzioni straniere. Parlammo dei Franchi, del Maghreb, di Roma. Su tutto lui era molto informato e dettagliato; parlò anche con disprezzo di alcune tribù selvagge che vivono sulle colline e hanno l’abitudine bizzarra di eleggere ogni anno un capo tra i membri meno abbienti, convinte, in modo barbaro, che mezzi modesti portino all’onestà e affinino il giudizio.”
+
+“‘Come nel caso di Dirac,’ dissi casualmente.”
+
+“‘A Dirak?’ esclamò sorpreso. ‘Ma come! Chi può avervi raccontato simili storie? Dirak è lo stato meglio amministrato, il più prospero e il più forte di tutti!’”
+
+“‘Senza dubbio’, risposi, ‘ma cosa c’entra questo con la questione?’”
+
+“‘Perché?’ disse lui, improvvisamente arrabbiato (poiché questo tipo di uomo colto di solito è mezzo pazzo) ‘ci ha tutto a che fare! Questi vantaggi possono derivare solo da un governo sicuro da parte dei ricchi. Anche uno sciocco se ne accorgerebbe!’”
+
+“Lo tranquillizzai accordandomi immediatamente con lui, espressi la mia ammirazione per la sua vasta conoscenza e passai l’intera pomeriggia a parlare con lui di Dirac.”
+
+“Sembra che in questa ammirevole regione i Ricchi governino senza alcuna opposizione, con enorme beneficio dello Stato. Al Sultano viene concesso un reddito limitato affinché possa essere soltanto una marionetta dei grandi mercanti, banchieri e proprietari terrieri che dominano effettivamente il Paese. Alle classi medie viene permesso di guadagnarsi da vivere, ma non di possedere beni materiali; esse sono orgogliose dei loro modesti introiti, che di solito le pongono al di sopra degli artigiani. Il popolo, invece, si accontenta di vivere in misere capanne sotterranee, lavorando duramente giorno e notte per ottenere appena il necessario per sopravvivere; in tutte le occasioni pubbliche esprime la propria venerazione per i Ricchi con frenetici applausi. Leggi e decreti vengono acquistati dai ricchi stessi, i quali ne gestiscono l’applicazione: un ristretto gruppo di loro si siede sui banchi dei tribunali e condanna ogni anno un certo numero di persone appartenenti al popolo o alle classi medie, come forma di disciplina e di esempio. Nessuno che possieda più di centomila monete d’oro in terreni o beni può essere punito; se un povero osa dire qualcosa contro uno di loro, viene picchiato fino a quando non ammette di aver mentito; in caso di resistenza, viene lentamente lasciato morire di fame.”
+
 
 
 <span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_09" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 9)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt" data-tags="motif/desert,motif/journey,setting/desert"></span>
@@ -5029,6 +7287,46 @@ The amiable old man opened his mouth and spoke:
 “My dear nephews, you will hear many harsh things said of those who prosper as I have done. They are vilified through a base envy and the most monstrous tales are told of them. But they are under the protection of Heaven, and that Guiding Power supplements their humble vows. None can deny their ready response to Inspiration. Hear what I did.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“È uno Stato modello. Tutto è in perfetto ordine. I palazzi dei governanti sono i più maestosi del mondo: tutti gli incarichi pubblici vengono svolti con fedeltà e puntualità. È l’invidia di ogni vicino, l’orgoglio e la gioia di ogni cittadino, per quanto umile; perché – ed è questa la base di tutto – in Dirak ognuno viene stimato soltanto in base alla grandezza delle sue proprietà; la scrittura, la musica, il lavoro con i metalli e le piastrelle dipinte vengono apprezzati per il loro valore estetico; la santità, infatti, è rispettata, ma solo da coloro che sono benestanti; e la virtù, il giudizio e l’intelligenza di una persona vengono giustamente valutati in base alla sua ricchezza.”
+
+“Le mie molte avventure avevano un po’ attenuato la mia sensibilità verso nuove emozioni. Ma confesso (cari nipoti miei) che, ascoltando questa storia, un’estasi invase la mia anima. Nascosi le mie emozioni e dissi semplicemente: ‘Un posto interessante!’”
+
+“Si può raggiungere tramite una strada pianeggiante da qui,” si offrì volontario l’Uomo di Lettere, “sebbene ciò comporti un lungo [[Journey|viaggio]]: infatti, una carovana impiega ben un mese per arrivare dalla capitale Dirak da questo luogo. Bisogna risalire il fiume fino alla sua sorgente nelle colline, percorrendo circa una settimana verso est; poi la strada ben segnalata conduce attraverso un passo fino a una sorta di coppa naturale o calderone, il cui fondo è piatto e ampiamente coltivato. In passato questo luogo era il letto di un lago ed è circondato su tutti i lati da ripide scogliere di calcare; la strada discende lungo queste scogliere attraverso tagli artificiali effettuati sulla loro superficie. Questo stranamente isolato luogo, famoso per i suoi giardini e per l’atmosfera di semplice felicità che vi regna, si chiama Skandir; nella sua principale località gli estranei vengono sempre accolti con grande ospitalità.”
+
+“L’unico problema in quella zona, dall’altra parte delle montagne, è rappresentato da una stretta gola che attraversa le montagne; al di là di essa si estendono vaste pianure erbose, luoghi di pascolo per i nomadi: queste aree sono ben irrigate e dotate di risorse alimentari, distribuite a distanze ragionevoli da semplici villaggi ma ben attrezzati. La grande strada attraversa tutto questo territorio, proseguendo sempre verso est.”
+
+“Queste praterie diventano sempre più aride man mano che ci si sposta verso est; l’ultimo giorno del vostro viaggio, presso le sorgenti di Ayn-ayoum, dovrete rifornirvi d’acqua, perché nelle ventiquattro ore successive incontrerete soltanto deserto. Raggiungendo la cima di questa lenta salita, potrete vedere sotto di voi, dalla sommità della strada, la magnifica capitale di Dirak, situata a circa mezza giornata di viaggio attraverso la pianura sottostante.”
+
+“Questa nobile città, chiamata Mawazan, fu fondata da persone estremamente ricche…”
+
+“‘Sì! Sì!’ interruppi con tono annoiato, perché sapevo già tutto ciò che volevo sapere: ‘Un giorno dovrò andarci. Senza dubbio un viaggio molto divertente. Ma per ora c’è il lavoro da fare: devo partire molto presto domani mattina per recarmi nel nord e occuparmi di alcune acquisti di grano che ho effettuato; non posso perdere altro del vostro tempo.’”
+
+“Gli intellettuali sono lenti a capire i suggerimenti, quindi ho preso gentilmente il suo braccio e l’ho accompagnato cordialmente verso la porta; lì ha cercato (senza successo) di trattenermi per fare altre osservazioni su un altro paese famoso per le sue enormi pipistrelli.”
+
+“Quando finalmente me ne liberai di lui – ormai era buio – mi affrettai a sistemarmi per la notte, allineai la mia carovana, aggiunsi alle etichette sui miei forzieri d’ironia le parole ‘di Dirak’ (così che ora dicevano ‘Sabbia per il Sultano di Dirak’), radunai le mie truppe armate e partii di notte lungo la strada settentrionale. Ma molto prima dell’alba ordinai una deviazione a destra, presi la grande strada lungo il fiume e proseguii verso est, attraverso le colline.”
+
+“Era esattamente come aveva detto lo studioso: una settimana di marcia verso le sorgenti del fiume ci portò a un passo di montagna; alla sera vedemmo uno spettacolo meraviglioso: quella piccola pianura ovale di Skandir, circondata da enormi precipizi, un giardino di alberi da frutto e coltivazioni di grano, con grandi villaggi prosperi al suo interno; la strada proseguiva lungo sentieri scavati nella roccia viva fino al fondo della valle, per poi dirigersi dritta verso la città principale.”
+
+“Lo raggiungemmo durante la fase di luna nuova, nella seconda ora del buio della notte. L’ospitalità che ci fu offerta non era affatto esagerata: i bravi contadini ci accolsero con ogni gentilezza e io fui alloggiato in una casa molto confortevole; i miei bagagli e il mio grano furono messi nel cortile, mentre la mia numerosa scorta trovò riparo sotto altri tetti nelle vicinanze.”
+
+“Il giorno dopo – per pura sfortuna – mi accadde un terribile incidente! Stavo prendendo aria davanti alla porta di casa mia, pronto ad ordinare la partenza della mia carovana, quando sentii il rumore di metallo che sbatteva contro le pietre del marciapiede: un bambino che correva aveva perso una piccola moneta d’argento. Notai subito il punto dove brillava la moneta mentre il bambino proseguiva ignaro della sua perdita, e naturalmente mi affrettai a calpestarla prima che qualcun altro se ne accorgesse, intenzionato a raccoglierla con grazia più tardi, quando fossi stato sicuro di non essere visto. Ma il Maligno, che è sempre all’erta per ostacolare i servitori del Creatore, fece sì che, nella mia fretta, scivolassi su un pezzo di fango viscido e cadessi pesantemente sulle pietre. Mi sono rotto una gamba!”
+
+“Nell’agonia che ho provato, ho completamente dimenticato quella moneta d’argento; il vuoto dentro di me continua a dolermi. Non so chi l’abbia presa. Non riesco nemmeno a sopportare l’idea che possa essere stata calpestata e persa per sempre.”
+
+“In ogni caso, fui portato sul mio divano quasi svenuto; la frattura fu sistemata con un dolore insopportabile, e rimasi a letto per molti giorni senza potermi alzare, angosciato dal pensiero dei costi aggiuntivi che questa situazione comportava per la mia grande compagnia, la quale stava esaurendo rapidamente le mie riserve di monete.
+
+“Il mio tesoro più prezioso, conservato in cento scatole di ferro, non osavo toccarlo; perché il Capo di Skandir (che ogni giorno veniva nella mia stanza da malato) mi aveva detto che aveva sigillato la sabbia inviata al Sultano di Dirak, il suo potente vicino, e l’aveva portata nel suo castello per tenerla al sicuro.”
+
+“Il medico mi assicurò che anche se osassi uscire in sedia a rotelle, sarebbe fatale, considerate alcune complicazioni che si erano verificate; quindi non dovrei nemmeno pensare di viaggiare.”
+
+Ecco mi trovavo: imprigionato in questa incantevole valle, senza alcuna possibilità di fare affari, con i miei risparmi che diminuivano rapidamente. E davanti a me c'erano ancora tre settimane di un viaggio estremamente costoso prima di poter raggiungere il mio amato Dirak!
+
+“Cosa dovevo fare!”
+
+“Miei cari nipoti, ascolterete molte cose dure dire su coloro che prosperano come ho fatto io. Vengono diffamati a causa di una meschina invidia e si raccontano di loro le storie più orribili. Ma sono sotto la protezione del Cielo, e quella Forza Guidante rafforza i loro umili voti. Nessuno può negare la loro pronta risposta all’Ispirazione. Ascoltate ciò che ho fatto io.”
+
 
 
 <span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_10" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 10)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt" data-tags="archetype/trickster,concept/economics,concept/capitalism,concept/deception,concept/money_and_avarice,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -5068,6 +7366,42 @@ As the merchant now puffed at his pipe in silence the fifth nephew begged leave 
 
 “Ask away, my little fellow,” said his uncle, kindly, “and I will attempt to explain any difficulty you have in simple terms suited to your age.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Prima di tutto, utilizzai l’oro che mi era rimasto per acquistare una bella casa che, per coincidenza, era vuota. Poi dipinsi la facciata con colori bellissimi e variopinti, scrivendo ‘La Banca di Mahmoud’. Successivamente spiegai al capo quale vantaggio potesse trarre da questa iniziativa durante il mio soggiorno forzato, come ringraziamento per la loro straordinaria gentilezza. Infine inviai lettere a tutte le persone più ricche (uomini e donne, mie cari nipoti), annunciando che avevo iniziato a fare affari nel commercio di prodotti agricoli e che qualsiasi capitale affidatomi avrebbe generato un profitto del 1% a settimana, pagato puntualmente ogni giorno alla stessa ora. Per rendere più credibile il mio piano, inviai il mio servitore più intelligente (abbondantemente ricompensato) a osservare i mercati della valle: doveva acquistare frutta e grano a prezzi elevati per poi rivenderli altrove nel modo migliore possibile.”
+
+“‘Non importa,’ gli dissi con benevolenza, ‘a quale prezzo tu le venda. Desidero fare un favore a queste persone oneste.’”
+
+“L’entità del mio commercio aumentò (a un costo elevato!), e persino io iniziai a pensare che ci potesse essere qualcosa di vero in tutto questo. Iniziai facendo depositare al mio confidente cento pezzi d’oro, che avevo fornito personalmente. Alla fine della settimana gli restituii centouno pezzi davanti a molte persone; e la notizia si diffuse rapidamente.”
+
+“Presto il Capo, suo zio e sua suocera iniziarono ad effettuare depositi e ricevevano regolarmente l’1% a settimana. La situazione iniziò a prendere slancio. Ma tenevo d’occhio con attenzione la mia sempre più ridotta riserva di denaro: era davvero un equilibrio precario!. Quando ritenni che fosse trascorso abbastanza tempo, decisi che fosse il momento giusto per avviare la mia nuova politica volta all’espansione degli scambi attraverso strumenti di credito.”
+
+“Caro zio, ” interruppe il nipote maggiore.
+
+“Sì, sì,” disse il mercante, impazientemente, “so che questo termine è nuovo per voi, ma presto imparerete il suo significato. Quando avevo bisogno di acquistare articoli per il mio uso personale o di effettuare un acquisto particolarmente importante dei miei prodotti all’ingrosso, spesso fingevo di essere imbarazzato e, avvicinandomi al venditore, gli chiedevo di accettare, al posto del pagamento immediato in contanti, una cambiale su cui avevo firmato promettendo il pagamento in oro alla vista. ‘Perché,’ gli dicevo, ‘con l’intenso ritmo delle mie attività commerciali, mi basta soltanto qualche ora per disporre di una somma considerevole di denaro contante.’”
+
+“All’inizio ho iniziato a lavorare con cautela. Non ho mai emesso nemmeno una singola banconota del valore di più di dieci monete, e ogni volta che una di queste veniva presentata per il pagamento – anche se ciò avveniva entro un’ora dall’emissione – la rimborsavo immediatamente utilizzando le riserve di metallo che avevo tenuto da parte per realizzare il mio piano. Facevo in modo che tutte queste banconote fossero identiche, le timbravo sempre nello stesso punto con il mio sigillo in metallo, e cercavo in ogni modo di farne una sorta di valuta. E naturalmente, come potete immaginare, ben presto diventarono effettivamente una valuta. Quando qualcuno che aveva una di queste banconote si trovava nella necessità di pagare, lontano dal mio negozio, inizialmente offriva la mia banconota al proprio creditore, forse a un piccolo sconto. Ma poiché la mia integrità ormai era conosciuta da tutti (e ricordate sempre, cari ragazzi, che l’integrità è l’anima del commercio), queste banconote venivano accettate sempre più facilmente col passare del tempo.”
+
+“La comodità di portare con sé tali documenti, rispetto al peso considerevole dei metalli che essi avrebbero potuto rappresentare, la facilità delle negoziazioni e altri fattori contribuirono rapidamente ad aumentarne la circolazione; in poco tempo riuscii a calcolare con certezza ciò che gli esperti di questa ‘scienza amabile’ definiscono ‘tasso di circolazione’, ovvero il grado di diffusione dei miei documenti. Scoprii che, in termini approssimativi, su ogni cinque documenti che emettevo, due erano sufficienti a soddisfare le richieste di coloro che li presentavano in qualsiasi momento. Questa proporzione è ancora oggi conosciuta in quella valle felice come ‘la percentuale di riserva metallica’ necessaria per sostenere qualsiasi emissione di documenti; tuttavia, ho sentito dire che da quando me ne sono andato le cose si sono messe molto male.”
+
+“Oh, mio Dio…”, disse il nipote maggiore. “Anch’io sto iniziando a confondermi, zio”.
+
+“Non ascoltarlo!” dissero i suoi fratelli all’unisono.
+
+“Sì! miei figli,” rispose l’uomo anziano con vivacità, “è davvero un argomento difficile. Solo pochi esperti lo comprendono veramente, e io ne faccio parte, comunque, vedete tutti che ora potrei guadagnare nuovo denaro, creandolo dal nulla, se lo volessi.”
+
+“Oh! sì, zio!” concordarono tutti, anche il più anziano. “Lo capiamo benissimo!”
+
+“Beh,” disse il loro rispettato parente con un tono sommesso, “questo rappresenta senza dubbio un grande vantaggio. Ma ora procediamo.”
+
+Dopo alcune settimane di queste pratiche, mi ritrovai padrone dei mercati di frutta e cereali; aggiunsi inoltre alcuni servizi che ne derivavano naturalmente, come la preparazione di pasti per il pubblico, la costruzione di moschee, l’organizzazione di matrimoni, funerali e divorzi, la messa in scena di spettacoli pirotecnici, nonché la riscossione di tariffe fisse per le previsioni del futuro. Quest’ultimo servizio divenne ben presto una branca molto fiorente della mia attività. Impiegavo a questo scopo, con il salario consueto, un certo numero di indovini esperti; insieme al resto del mio personale, costituivano probabilmente un quarto degli abitanti della città. E non erano affatto i meno soddisfatti o i meno prosperi tra la popolazione.
+
+“In breve, cari nipoti,” disse l’onorevole vecchio sorridendo, “quando ebbi terminato le mie operazioni, mi ritrovai in possesso di 200.000 pezzi d’oro; inoltre, le mie cambiali, accettate ovunque nello Stato, valevano altri 300.000 pezzi. Un semplice calcolo vi dimostrerà che la mia nuova fortuna ammontava a non meno di mezzo milione di pezzi. Tuttavia, i segni di esaurimento economico nel Paese e la completa guarigione della mia gamba mi spinsero a decidere che era giunto il momento di cercare nuove opportunità e altre terre ancora inesplorate.”
+
+Mentre il mercante fumava silenziosamente la sua pipa, il quinto nipote chiese il permesso di porre due domande che avevano confuso la sua giovane mente.
+
+“Chiedi pure, mio piccolo amico,” disse suo zio con gentilezza, “e cercherò di spiegarti qualsiasi difficoltà tu abbia usando termini semplici adatti alla tua età.”
 
 
 
@@ -5109,6 +7443,42 @@ The merchant with a benign air replied: “The science of political economy is a
 “Three weeks so passed in these monotonous grass lands among the nomad tribes, the road went forward to the east rising all the way, and the soil grew drier and drier. We reached the wells of Ayn-Ayoub and filled our skins with water, we traversed the [[Desert|desert]] belt and camped near the summit: at daybreak we came to the escarpment and saw the wooded slopes falling away in cascading forests at our feet to where, far below, lay the splendid plain of Dirak and in its midst, far off and dark in outline against the burning dawn, the battlements and mosques, the minarets and tapering cypress points of its capital Misawan.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Beh, zio,” disse umilmente il quinto nipote, “per prima cosa non riesco a capire come quelle 300.000 monete di cui parlate, e che, secondo voi, erano rappresentate soltanto da biglietti, potessero costituire un vero patrimonio.”
+
+“Mio caro piccolo,” rispose suo zio, chinandosi in avanti per dargli una pacca sulla testa, “avrai abbastanza intelligenza da capire che, doveunque esistesse un biglietto del genere, le persone lo considerassero come dieci monete d’oro, non è vero?”
+
+“Sì,” rispose suo nipote, sentendosi messo alle strette.
+
+“Molto bene,” continuò l’uomo anziano, allegramente, “poiché questo modo di pensare era comune in tutta la comunità, e tutti consideravano questi pezzi di carta come se fossero denaro vero, bastava che li accettassi in pagamento dei miei debiti per poi usarli per acquistare l’oro degli altri. Così tutto l’oro finì nelle mie mani. Eh? Quando me ne andai, si presentarono alla ditta le cambiali non saldate, e a quel punto non c’era più oro con cui coprirle. Una situazione triste. Molti fecero storie e scoppiarono ogni sorta di problemi. Ma ormai io ero già lontano.”
+
+Il piccolo sembrava ancora perplesso. “Ma, zio”, disse, “quando le persone hanno presentato quei biglietti dopo che te ne sei andato, forse pensavano di possedere del denaro, ma in realtà non ne avevano affatto, vero?”
+
+“Non lo so,” disse l’uomo anziano dopo una pausa. “È un punto davvero molto difficile nella discussione sulla moneta. Comunque, nel racconto che ho fatto ho agito con audacia e sono riuscito a ottenere il loro oro.”
+
+“Ma la ricchezza non c’era, zio“, insistette il bambino. “Non c’era affatto!“
+
+Il mercante, con un tono gentile, rispose: “La scienza dell’economia politica è abbastanza complessa anche per i più anziani ed esperti; sarà impossibile per me spiegarvi in dettaglio un argomento così intricato. Basti che vi dica che, per quanto mi riguarda, la ricchezza c’era, era lì, racchiusa in cinquanta grandi sacchi di pelle. Penso che aveste ancora una seconda domanda da porre, vero?”
+
+“Sì,” disse suo nipote con un leggero sospiro, “caro zio, è proprio questo il punto: Perché, in circostanze così favorevoli, hai ritenuto necessario andartene così presto, visto che il tuo nuovo lavoro stava andando così bene?”
+
+“Questo,” disse il vecchio Mahmoud con un tono di sollievo, “è molto più facile da spiegare. La mia gamba è guarita; le risorse di Skandir erano limitate. C’erano chiari segni del fatto che la gente, sebbene incapace di comprendere appieno la natura dei problemi sorti a causa delle mie azioni, ne era già gravemente colpita. Anche se sono riuscito a dimostrare con i dati statistici che la prosperità aveva aumentato notevolmente, e anche se il capo, ormai mio partner, ha pubblicato volantini a spese del pubblico per confermare lo stesso, molte persone che in precedenza vivevano bene ora si trovavano con solo poche manciate di grano crudo; le prigioni erano piene zepe, gran parte della terra veniva abbandonata alla coltivazione. E considerando sia le passioni ignoranti che questi periodi di transizione suscitano nelle persone comuni, sia l’impossibilità di ottenere ulteriore acqua da una spugna dopo averla strizzata a fondo, sono sicuro di aver fatto la scelta giusta decidendo di ritirarmi da questo campo d’azione.”
+
+“Prima di partire, proposi la vendita delle mie azioni al pubblico in generale. Con piacere devo dire che le azioni furono acquistate con grande entusiasmo. Poiché concessi la priorità nell’assegnazione delle azioni a coloro che avevano pagato con i miei stessi titoli, riuscii a recuperarli tutti, tranne una frazione insignificante, e fui in grado di rivenderli in cambio d’oro presso il mercato pubblico prima della mia partenza.”
+
+Nel frattempo, l’ansia senza scrupoli della folla caotica di partecipare a un’impresa commerciale così proficua come la mia mi permise di chiedere più del quattro (ma meno di cinque) volte la somma che io stesso sarei stato disposto a pagare per essa.
+
+“Caricai altri 300 cammelli con oggetti di valore di ogni tipo, inclusi quasi tutti i metalli preziosi reperibili in quella regione; acquistai un intero esercito di nuovi schiavi per la conduzione della carovana (pagandoli con nuove banconote emesse dalla nuova compagnia), e tra gli applausi e le benedizioni di una vasta folla – molti dei quali, purtroppo, si trovavano ormai nelle fasi finali della povertà – mi congedai con rammarico dalle semplici persone di Skandir, quel luogo incantevole e solitario al quale dovevo così tanto.”
+
+* * * * *
+
+“Partii dalle persone della valle che avevo introdotto al mondo della finanza, e attraversai la gola per raggiungere le praterie che si estendevano oltre le montagne. Per almeno quattro giorni di viaggio, il mio nome era conosciuto in tutte le villaggi che attraversavo; non solo riuscii a pagare tutti i beni emettendo ulteriori obbligazioni, ma offrii anche un compenso alle persone che mi dimostravano particolare gentilezza, vendendo loro in contanti alcune delle azioni della mia vecchia società che avevo conservato per il mio viaggio. Queste azioni, sono lieto di dirlo, vennero rapidamente scambiate a un prezzo superiore al loro valore nominale. Il prezzo di vendita diminuì gradualmente, e in pochi mesi divennero impossibili da vendere. Coloro che subirono perdite nelle ultime transazioni potevano incolpare soltanto se stessi; coloro invece che le avevano vendute a un prezzo elevato continuano ancora oggi a ricordare il mio nome con rispetto.”
+
+“Dopo aver proseguito il mio viaggio per alcuni giorni, scoprii che la luce e la civiltà che avevo portato al popolo della valle stavano gradualmente scomparendo; entro due settimane mi ritrovai tra quelle popolazioni nomadi estremamente primitive, le quali rifiutavano categoricamente di accettare il denaro cartaceo al posto delle monete, anche quando i miei stessi servitori me lo proponevano. D’altra parte, i metalli preziosi erano così scarsi in quella zona che i prezzi erano estremamente bassi; quindi riuscii a sfamare l’intero mio gruppo con una spesa molto ridotta in oro.”
+
+Trascorsero così tre settimane in queste monotone terre erbose, tra le tribù nomadi; la strada proseguiva verso est, diventando sempre più ripida, e il terreno diventava sempre più arido. Raggiungemmo i pozzi di Ayn-Ayoub e riempimmo le nostre borracce d’acqua; attraversammo la fascia del [[Desert|deserto]] e accampammo vicino alla cima della collina. All’alba arrivammo sulle scogliere e vedemmo i pendii boscosi che si estendevano a perdita d’occhio sotto di noi; lontano, in basso, si apriva la splendida pianura di Dirak, e al suo centro, appena visibili contro il chiarore dell’alba, si ergevano le mura, le moschee, i minareti e le cime appuntite dei cipressi della sua capitale, Misawan.
+
 
 
 <span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_12" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 12)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_and_avarice,concept/capitalism,concept/economics,concept/power_and_corruption,concept/slavery,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -5146,6 +7516,40 @@ The merchant with a benign air replied: “The science of political economy is a
 
 “This I did with becoming dignity. I informed him with the utmost reluctance that the enemy had already approached me for financial assistance. I would not be so hypocritical (I said) as to pretend that I had refused them, or indeed that I had any sentimental preference for one side or the other. As I thus expressed myself the Vizier constantly and gravely nodded, as who should say that he esteemed no man so much as one who showed himself indifference to the feelings of the vulgar. I next asked of what sum the Government was in immediate need, and on hearing that it amounted to about a quarter of my total capital I put on a very grave look and said that I feared the immediate provision of so large an amount was hardly possible, in view of the poverty and embarrassment of his unhappy country.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Che gioia fu per me scendere gradualmente lungo i sentieri di quei nobili boschi fino ai caldi campi dello Stato Fortunato! Ogni ora del mio cammino mi riservava nuove meraviglie: grandi case signorili situate in magnifici parchi con prati curatissimi intorno, poveri uomini che si inchinavano profondamente al mio passaggio, ricchi uomini che lanciavano occhiate di disprezzo, bei cavalli condotti da stallieri obbedienti. E ovunque cartelli che recitavano: ‘Chi calpesta questa terra del signore verrà impiccato’, ‘Vietato sputare’, ‘Una parola insolente e finirete in prigione con me!’ Ogni poche centinaia di metri c’era un uomo armato davanti al quale la gente povera si ritraeva timorosa; questi uomini guardavano con disprezzo gli schiavi che guidavano la mia colonna, ma poi, vedendo la mia scorta ben equipaggiata e il mio volto serio e i miei abiti lussuosi alle mie spalle, sorridevano, si inchinavano e mi offrivano qualche moneta. Che io accettavo.”
+
+“In realtà, l’Uomo di Scienza non mi aveva ingannato! Questa terra di Dirak era davvero un Paradiso!”
+
+“Entrai in città come un re (infatti lo ero, poiché la mia ricchezza mi rendeva tale in quel Paese) e per la notte mi fermai in un edificio enorme che si definiva caravanserai, ma che, rispetto ai caravanserai che conoscevo, era come il palazzo del Sultano rispetto a una semplice stalla.”
+
+“Lì, in un appartamento fatto di alabastro e argento battuto, consumo cibi di cui non avrei mai pensato esistessero su questa terra; mentre schiavi ben addestrati, abituati da anni di fame alla obbedienza, si muovono silenziosamente avanti e indietro o suonano musica dolce nascosta dietro schermi intagliati.”
+
+“Oh! Dirak! Dirak!, ma devo concludere. La faccenda non è durata a lungo. Con il mio oro ho comprato il mio palazzo nel mezzo di questa città di Misawan, ho intrattenuto ospiti che non hanno mai chiesto nulla riguardo alla mia origine, ho acquistato (dopo un attento confronto dei prezzi) l’ottimo incarico di Caposcuotatore per Sua Maestà (che includeva anche la gestione del Tesoro), e ho pagato per alcune leggi che si adattavano perfettamente alle mie esigenze: ad esempio, una che vietava i richiami dei venditori ambulanti e un’altra che prevedeva l’impiccagione dei poveri con i capelli rossi. Una tonalità di capelli che semplicemente non riesco a sopportare.”
+
+Di tanto in tanto rendevo omaggio a quella marionetta chiamata Sultano e mi inchinavo profondamente durante le Cerimonie di Corte.
+
+“Non ebbi mai l’occasione di nascondere la mia ricchezza, poiché qui essa era rispettata e considerata un criterio di onore. La mostravo apertamente; ne andavo fiero, anzi ne esageravo l’entità. In soli due anni divenni il capo dello Stato.”
+
+“Eppure (così è il cuore dell’uomo!) non ero del tutto soddisfatto. Della mia enorme fortuna, nemmeno un centesimo era stato speso. Eppure non riuscivo a sopportare l’idea di lasciarla inutilizzata. Ero deciso a riprendere a fare affari! — Grazie alla Misericordia Infinita di Allah, mi fu data l’opportunità.”
+
+Ai confini di Dirak esisteva un altro Stato, chiamato Har, molto diverso da Dirak. In quel regno, il Sultano era l’uomo più ricco della comunità e al contempo un tiranno. Inoltre, c’era una differenza fondamentale tra i due Stati: mentre a Dirak tutte le cariche politiche venivano acquistate con denaro, ad Har venivano ereditate. Questa distinzione generava continue e violente lotte tra inganni e orgoglio.
+
+“Un giorno – ormai da due anni ero l’uomo più potente di Dirak – il Sultano di Har, con malvagità e insolenza, senza alcun timore di Dio, chiese al Sultano di Dirak di risarcirlo per una perdita subita a dadi dal nipote del suo Gran Elemosiniere, a causa di quel nobile di Dirak chiamato il ‘Signore Perseguitatore dei Giochi d’Azzardo’, giochi che, a Dirak, sono severamente proibiti dalla legge.”
+
+“Inutilmente il Sultano di Dirak implorò l’aiuto dei suoi nobili: essi gli assicurarono che nessuno avrebbe osato attaccare il suo (e loro) Stato Onnipotente.”
+
+Il terzo giorno, il Sultano di Har attraversò il confine con un milione duecentomila cinquantasette uomini, novantasette elefanti e due catapulte. Il decimo giorno, si trovava a soli tre giorni di marcia da Misawan.
+
+“L’infortunato Sultano di Dirak, pressato dal suo nemico, era al limite delle sue risorse per reperire i fondi necessari a condurre la guerra. Aveva già tassato così gravemente i suoi sudditi poveri che questi erano sull’orlo della rivolta, mentre i ricchi preferivano di gran lunga negoziare con il nemico o fuggire, piuttosto che sostenere le sue folli idee di onore e patriottismo.”
+
+Riflettendo su questa opportunità che mi veniva offerta e riconoscendo ancora una volta quella Misericordia straordinaria che aveva tanto meravigliosamente aiutato ogni mio passo nella vita, uscii in strada a cavallo e vestito con i miei abiti più eleganti. Fui attento a distribuire generosamente denaro alla folla, spendendo una somma che avevo precedentemente annotato in un piccolo libro (spero vostro padre vi abbia insegnato, cari nipoti, a tenere i conti, ). Arrivato al Palazzo, annunciai alla guardia di essere venuto con notizie importanti per il Sultano e il suo Consiglio. Dopo alcune formalità (che, purtroppo, mi costarono ben quindici dinari in più rispetto a quanto avevo previsto), fui introdotto davanti al Vizier, il quale mi pregò di concludere rapidamente la mia missione, poiché il Sultano aspettava da un momento all’altro notizie riguardo a un’importante azione militare. Risposi con cortesia ma fermezza che il mio tempo era mio e che forse avevo frainteso le informazioni ricevute; tuttavia, le operazioni finanziarie che intendevo intraprendere richiedevano necessariamente un certo lasso di tempo per essere completate.
+
+Alla menzione delle “operazioni finanziarie”, l’atteggiamento del Visir cambiò completamente; si scusò profusamente, ammettendo con un certo imbarazzo di avermi scambiato per un soldato, un prete, un poeta o qualcosa del genere, e che se avesse anche solo intuito le mie intenzioni, non mi avrebbe mai fatto aspettare come invece è successo. Poi continuò a parlare in tono affrettato e convenzionale di tempo, dello scandalo più recente e di altre simili cose, fino a quando, nel momento che ritenni opportuno, proposi di affrontare l’argomento importante.
+
+“Questo l’ho fatto dimostrando dignità. Gli ho riferito con la massima riluttanza che il nemico mi aveva già chiesto aiuto finanziario. Non avrei mai potuto essere così ipocrita da fingere di aver rifiutato, né tantomeno di avere qualche preferenza sentimentale per una parte o l’altra. Mentre esprimevo queste idee, il Visir annuiva continuamente e seriamente, come se apprezzasse molto chi dimostrava indifferenza nei confronti dei sentimenti della gente comune. Poi ho chiesto di quale somma avesse bisogno immediatamente il governo; apprendendo che si trattava di circa un quarto del mio capitale totale, ho assunto un’espressione molto seria e ho detto che temevo fosse difficile reperire una somma così ingente, data la povertà e le difficoltà della sua sfortunata nazione.”
 
 
 
@@ -5189,6 +7593,44 @@ The merchant with a benign air replied: “The science of political economy is a
 “The war thus replenished at its sources raged with redoubled ardour, for ten more years, and....”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Quando mi alzai per andarmene, il Visir, in uno stato di estrema agitazione, mi supplicò di ripensare a una decisione così improvvisa. Era disposto (lo giurò) a pagare soltanto una parte del totale; denaro contante era assolutamente necessario. E se, con la mia profonda conoscenza delle finanze, fossi riuscito a trovare un modo per aiutare il suo padrone, mi sarebbero state offerte le prove più concrete di gratitudine.”
+
+“Udendo queste parole, dichiarai di essere immerso in profonde riflessioni per circa un quarto d’ora, e alla fine presentai lentamente davanti a lui la seguente proposta, come un piano originale e magistrale.”
+
+“I poveri (lo aveva ammesso lui stesso) venivano tassati al di là dei limiti della sopportazione e stavano persino sul punto di ribellarsi; i ricchi nascondevano le loro risorse, e molte forme di ricchezza mobili lasciavano il paese. Che abbandoni questi metodi rozzi e rapaci per raccogliere entrate, e chieda ai sudditi più abbienti del Sovrano di prestargli, a interesse, ciò che sicuramente gli rifiuterebbero di pagare in contanti. In questo modo, una somma annuale molto inferiore a quella attualmente raccolta per soddisfare le esigenze della guerra sarebbe sufficiente ad assolvere gli obblighi del governo. Il capitale così raccolto verrebbe utilizzato per le operazioni militari; la tassa imposta al popolo sarebbe, è vero, permanente; ma sarebbe molto più bassa rispetto alle attuali imposte e quindi sarebbe accettata ovunque.”
+
+“Purtroppo, il Visir rispose che, sebbene fosse molto disposto ad intraprendere tale iniziativa, temeva che gli abitanti ricchi non avrebbero mai prestato i fondi necessari (consapevoli del imbarazzo che ciò avrebbe causato al governo), a meno che non venissero offerte condizioni estremamente svantaggiose.”
+
+“Aspettavo da tempo questa confessione, e subito proposi di fare da intermediario. Dissi che avrei garantito l’accordo: la mia grande ricchezza avrebbe immediatamente ripristinato la fiducia delle persone, il prestito sarebbe stato sicuramente concesso, e io avrei addebitato soltanto una tassa nominale di cinque monete d’oro all’anno per ogni cento somme che avessi garantito.”
+
+“Il Visir rimase così sbalordito dalla mia generosità che quasi cadde all’indietro, ma riprendendosi immediatamente esprimebbe le più estreme ringraziamenti. Tuttavia, lo sguardo che scorsi nei suoi occhi tradiva chiaramente la convinzione che un’offerta del genere da parte di un uomo d’affari potesse difficilmente essere fatta in buona fede. Per rassicurarlo, adottai quello che nel mondo finanziario viene chiamato il ‘tono semplice e diretto’. Gli dissi senza riserve l’entità totale della mia ricchezza (che stimavo fosse solo un quinto del suo valore reale) e promisi di portare tutto in contanti negli uffici che avrebbe permesso di aprire in città.”
+
+“Entrando nel giorno successivo con un milione di pezzi d’oro trasportati su un treno di cammelli molto carichi, aprii la mia banca nella parte più affollata del bazar, annunciai pubblicamente la mia intenzione di sostenere il governo, invitando il pubblico a controllare personalmente l’oro prestato; allo stesso tempo proposi che chiunque desiderasse ottenere un interesse regolare, pari a quattro pezzi d’oro garantiti da me ogni cento pezzi presi in prestito, si presentasse per ricevere il denaro direttamente da me. Le riserve d’oro ancora presenti nel paese ricomparvero come per magia. È davvero molto più piacevole prestare volontariamente a interesse che dover pagare con dolore per sempre. Alla fine, alla mia banca si presentarono decine di volte più cittadini del numero necessario per ottenere i prestiti richiesti.”
+
+“I miei termini con il Governo erano semplici, e sono sicuro che moderati. Tutto ciò che chiedevo era che i riscuotitori delle tasse versassero in futuro le loro entrate nel mio forziere; da lì mi impegnavo a consegnare al Governo qualsiasi surplus rimanesse, dopo aver pagato ai prestatori gli interessi annuali – quattro pezzi – e di tenere per me un quinto pezzo, che costituiva la mia piccola e non del tutto meritata commissione.”
+
+“In questo modo riuscii rapidamente a ripagarmi e, inoltre, ottenni un profitto su ogni cento unità che altri avevano sottoscritto. Gli studiosi del luogo, che prima non avevano mai immaginato un piano così semplice e pratico, mi trattavano con una reverenza quasi soprannaturale. Mi consultavano per ogni operazione militare; la mia garanzia veniva cercata con grande interesse in altre imprese finanziarie, e devo dire con piacere che riuscii ad ottenere altri incarichi senza spendere nemmeno un centesimo del mio patrimonio: bastava semplicemente mostrarlo come prova di buona fede.”
+
+“L’ nemico fu respinto. Ma la vittoria non fu ottenuta. La guerra si trascinò per un anno senza alcuna soluzione. L’oro divenne sempre più scarso, e di nuovo il governo cadde nel disperazione.”
+
+“Li tranquillizzai facilmente. ‘Scrivete,’ dissi, ‘promesse scritte su carta che verranno ripagate in oro.’ Fecero come avevo consigliato loro, pagandomi (su mia richiesta) una somma modesta, mezzo milione, per il mio consiglio. Gestii l’intera faccenda ottenendo un profitto puramente nominale. Ogni anno, puntualmente, mi presentavano tutte le cambiali che venivano rimborsate. Ma ne arrivarono troppe: la guerra sembrava non avere fine e era entrata nel suo terzo anno.”
+
+“Allora mi venne in mente un'altra idea straordinaria. ‘Dite loro,’ dissi al Sultano, ‘di considerare queste note come denaro. Smettete di restituirle. Scrivete non “Pagherò una moneta d’oro alla consegna di questo documento”, ma “Questa è una moneta d’oro”.’”
+
+“Ha fatto esattamente come gli ho detto. Il giorno dopo il Visir venne da me con la storia di un individuo insolente a cui erano state offerte cinquanta di quelle note in cambio di una cammella per le necessità della guerra, ma lui non ha consegnato nessuna cammella, bensì un altro pezzo di carta su cui era scritto: ‘Questa è una cammella.’”
+
+“‘Tagliategli la testa!’, dissi io.”
+
+“Era stato fatto, e l’avvertimento era sufficiente. Il documento fu preso in carico e la guerra proseguì.”
+
+“Ero stato io a preparare quelle note, e su ogni lotto ho preteso la mia commissione necessaria, la mia piccola commissione, quello che mi spettava.”
+
+“Non era nella mia natura, cari nipoti, però, in quei giorni di duro e onesto lavoro, stare con le mani in mano. Dopo aver aiutato il Sultano ad alzarsi in piedi, mi venne in mente che anche il governo nemico si trovava probabilmente in situazioni simili. Così visitai la capitale del nemico attraverso un percorso indiretto e conclusi un accordo simile con il Vizier di quel paese ricco ma turbolento.”
+
+La guerra, così rifornita alle sue fonti, continuò con ancora maggiore intensità per altri dieci anni, e.
+
 
 
 <span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_14" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 14)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_and_avarice,concept/capitalism,concept/war_and_its_cost,concept/hypocrisy,form/satire,form/fable,histref/islam,setting/the_orient"></span>
@@ -5216,6 +7658,31 @@ That is:
 
 The Peace of the Soul
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ma zio,” disse il quarto nipote, che era un atleta e piuttosto stupido, e che aveva ascoltato parlare di questa doppia negoziazione con occhi spalancati, “sicuramente devono essere stati entrambi molto arrabbiati con te!”
+
+L'eccellente Mahmoud alzò la mano sinistra in segno di protesta. “Caro ragazzo!” esclamò, “quanto poco conosci il mondo! Arrabbiato? Ma tutti mi consideravano innanzitutto un genio i cui comportamenti erano impossibili da comprendere; in secondo luogo, una necessità per la società; in terzo luogo, un benefattore arrivato in un momento miracoloso. Per quanto riguarda il fatto che aiutassi entrambe le parti, devo solo dirvi che, nella gente di quella regione, si ritiene che sia proprio dovere di tutti i finanziatori agire in questo modo. Sarei stato trattato con meritato disprezzo se avessi mostrato anche il minimo scrupolo su una questione così semplice. Anzi, sono sicuro che entrambe le parti riponevano in me ancora maggiore fiducia proprio perché le mie operazioni erano così diffuse. Ma continuiamo, ”
+
+“La Misericordia di Allah non si è mai manifestata più chiaramente nella mia carriera di quanto lo abbia fatto nel modo in cui questi due Sultani e i loro sudditi si sono scatenati come cani furiosi per ottenere i profitti derivanti da quei prestiti forniti dai cittadini ricchi di entrambe le parti, nonché per impossessarsi di quelle montagne di documenti che impiegavo metà della giornata a firmare.”
+
+“Questi prestiti aumentarono di dieci, venti, trenta volte. Fu sempre io a garantirli; non dovetti correre rischi né spendere nemmeno un misero dinaro del mio patrimonio, eppure ogni anno la mia commissione arrivava, in quantità sempre maggiori. Fino a quando, infine, quelle ardue ma gloriose campagne militari si conclusero con l’esaurimento totale di uno dei due contendenti (a questo distanza di tempo ho dimenticato quale fosse) e il suo territorio e la sua capitale furono costretti a pagare un’enorme indennità. Che anch’essa finanziai io, senza dovermi nemmeno impegnare personalmente nella produzione di metallo. Poiché lo Stato sconfitto avrebbe potuto rifiutarsi di adempiere ai suoi obblighi, fui attento a soddisfare le richieste patriottiche della popolazione vincitrice e a far sì che il territorio del nemico venisse annesso. Capisci la situazione, caro mio?” disse l’anziano Mahmoud conversando con suo nipote maggiore.
+
+“Credo di sì, zio,” disse il ragazzo con esitazione, facendo una smorfia.
+
+“È piuttosto semplice,” disse il ricco anziano, schiarendosi la voce. “I popoli di entrambi gli Stati (ora felicemente uniti) venivano tassati al massimo delle loro possibilità; un governo forte e unito garantiva un reddito regolare; una parte di questo reddito veniva distribuita annualmente come rendita fissa ai pochi ricchi che avevano sottoscritto i miei prestiti; un’altra parte, che ormai ammontava ogni anno a una somma considerevolmente superiore al mio capitale iniziale, rimaneva nelle mie casse; e il meccanismo era ancora più semplice poiché tutti i redditi pubblici passavano attraverso le mie mani, in qualità di Banca di Stato, prima che qualsiasi surplus venisse consegnato alla Corona.”
+
+L’uomo anziano tacque. Le sue labbra benevole mormoravano una preghiera.
+
+In quel momento, il terribile richiamo alla preghiera proveniente dal minareto non avrebbe più potuto essere ignorato; i sette ragazzi, immersi in profonde riflessioni, tornarono lentamente nella misera dimora del loro padre, il medico. Lo trovarono stremo per aver passato tutta la notte al capezzale di un dervisco urlante che, nel suo ultimo sussurro rauco, aveva confessato di essere completamente incapace di pagare la solita tariffa.
+
+# ITMI’NÁN AL-NAFS
+
+Titolo:  
+Cioè:
+
+La pace dell'anima
 
 
 
@@ -5257,6 +7724,42 @@ The merchant was silent for a moment, and then began the category of his financi
 “Immediately after the wedding my wife, your dear aunt, asked me for money wherewith to travel, a request I readily granted. She traversed for her pleasure I knew not what foreign lands, always, and gladly, furnished with the wherewithal from my cash box; but on my returning later to Bagdad, my native place, she unexpectedly appeared at my door, and I was happy to build for her that country Palace of Dar-al-Beida to the charm of which I have alluded. Unfortunately its air suits me ill, while she (your dear aunt) suffocates in the atmosphere of Bagdad. It is often thus in old age....”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIV. INTITOLATO ITMI’NÁN AL-NAFS, O LA PACE DELL’ANIMA
+
+“Siamo arrivati,” disse l'eccellente vecchio mercante ai suoi nipoti quando questi si furono nuovamente seduti intorno a lui per ascoltare l’ultima di queste avvincenti storie. “Siamo arrivati, miei cari ragazzi, alla parte della mia vita in cui la mia fortuna è aumentata notevolmente grazie all’aiuto finanziario che ho fornito a due Stati; uno di questi, dopo una lunga e sanguinosa guerra, ha conquistato e annesso l’altro.”
+
+“La mia posizione, se la ricordate, alla fine di questa avventura era tale che, senza aver speso nemmeno un centesimo di tasca mia, ricevevo ora in modo permanente e per sempre un reddito annuo molto elevato, proveniente dalle tasse di entrambi gli Stati.”
+
+“Nessun uomo seminava, scavava o trasportava pesanti giare d’acqua sotto il sole cocente; nessun uomo curava un cavallo o si piegava sotto il peso di un carico; nessun uomo metteva mattoni uno sopra l’altro o mescolava malta; nessun uomo compiva alcuna attività utile da un capo all’altro dello Stato. Ma una parte del loro lavoro veniva dedicata a me. E questa situazione, come ho detto, era così stabile e permanente quanto possano esserlo le cose umane.”
+
+“Ero quindi ciò che anche i banchieri definiscono una persona benestante; in un modo o nell’altro, il mio patrimonio ammontava probabilmente a venti milioni di pezzi d’oro. Ma è solo un’ipotesi: forse erano addirittura venticinque.”
+
+“Si potrebbe pensare che, da quel giorno in poi, sarei stato soddisfatto di riposarmi nella mia ricchezza.”
+
+“Avrei ben potuto essere tentato di farlo, poiché a quella ricchezza si aggiungeva una popolarità straordinaria e appassionata. Venivo menzionato sia in pubblico che in privato come l’uomo che aveva salvato lo Stato grazie al proprio genio finanziario durante la Grande Guerra. Anche i conquistati mi ricordavano con gratitudine per l’aiuto che gli avevo fornito nei loro momenti di difficoltà; e poiché non potevo soddisfare i miei desideri personali senza almeno mantenere un gran numero di ballerini, portatori e artisti, la mia generosità nel fornire lavoro veniva universalmente riconosciuta. Inoltre (poiché tra queste persone la ricchezza rappresenta un segno di grandezza), fui ammesso al loro Senato senza le solite formalità legate al pagamento in denaro.”
+
+“Ora il mondo era davvero ai miei piedi. Ma dovete sapere,” continuò Mahmoud con un tono di tristezza nella voce, “dovete sapere, miei cari ragazzi innocenti, che la ricchezza non si ferma mai. Solo la gestione di una grande fortuna tende a farla aumentare, e quando uno ha passato anni interi ad accumulare denaro, diventa difficile, in età matura, abbandonare questa abitudine radicata. Pertanto, anche se ora possedevo tutto ciò che la vita poteva offrirmi, per molti anni continuai ad aumentare quella ricchezza di cui la Misericordia di Allah mi aveva dotato; e fin dall’inizio di questa nuova fase della mia vita scoprii che essere il finanziere che ero diventato, e disporre delle risorse che ora possedevo, rendeva i miei successivi successi non qualcosa di casuale, ma di certo. Vi racconterò brevemente i vari modi in cui proseguirono i miei sforzi?”
+
+“Prega, per favore prega,” dissero i suoi piccoli nipoti con gli occhi scintillanti, ognuno immaginando di trovarsi nella posizione lusinghiera del suo ricco cugino.
+
+“Molto bene,” sospirò Mahmond. “Probabilmente non sarà di alcuna utilità per nessuno di voi; ma anche se non farà altro che rafforzare la vostra fede, ciò che ho da dirvi non sarà stato detto invano.”
+
+Il mercante rimase in silenzio per un momento, poi iniziò a descrivere la categoria delle sue operazioni finanziarie.
+
+Gli Stati vicini, venuti a conoscenza dei potenti metodi che avevo introdotto, mi contattavano di tanto in tanto per chiedere assistenza finanziaria. A tutti rispondevo sempre allo stesso modo: sotto determinate condizioni, da me stabilite, ero disposto ad “affiancare i loro prestiti”; in altre parole, gli uomini ricchi del loro paese (o di qualsiasi altro) avrebbero dovuto versare nel mio ufficio le somme che erano disposti a prestare a quel determinato Stato, e io avrei restituito una parte, ma non l’intera, dell’importo accumulato per tale Stato. Il enorme servizio che rendevo, permettendo che il mio ufficio venisse utilizzato per queste transazioni, fu riconosciuto ovunque; grazie a queste operazioni, la mia fortuna continuò ad aumentare.
+
+“Fu in questo momento della mia carriera che sposai mia moglie, vostra cara zia, che di solito risiede, come sapete, in uno dei miei palazzi in campagna chiamato Dar-al-Beida, sulle rive del Tigri, a circa quattro giorni di [[Journey|viaggio]] da qui. È un posto incantevole che ricordo bene, anche se non lo vedo da molti anni. Forse un giorno ci tornerò, ma non per dormire.”
+
+“Vostra cara zia era, ed è ancora oggi, ragazzi miei, una donna davvero straordinaria: degna di competere con gli spiriti più grandi del nostro tempo. Sì! Persino con il mio stesso.”
+
+“Il suo nascere – non devo nasconderlo – fu umile. Era soltanto una lavoratrice occasionale nei miei uffici, incaricata di ordinare i miei documenti e di tenere gli indici relativi.”
+
+“Era tale il suo interesse per queste questioni che si prendeva la briga di trascrivere e copiare a mano molti passaggi particolarmente privati e importanti, conservandoli in un luogo segreto. Fui profondamente colpito da questa diligenza e da questa dedizione al lavoro da parte di una donna (e per di più così povera!). Provai un forte desiderio di possedere questi esempi della sua abilità; ma, con mia sorpresa e iniziale confusione, lei rispose umilmente che un profondo affetto, sebbene segreto, che provava per me le impediva di separarsi da questi preziosi ricordi di me. Ero così ossessionato dall’idea di ottenerli che, piuttosto che perderli, decisi di sposare questa ‘Regina delle Finanze’, riconoscendo in lei un genio pari al mio. Il nostro matrimonio fu molto semplice. Mi consolava il pensiero che questo dimostrasse la mia superiorità rispetto a tutti i nobili della corte e il mio disinteresse per qualsiasi alleanza con le loro famiglie.”
+
+“Immediatamente dopo il matrimonio mia moglie, la vostra cara zia, mi chiese del denaro per poter viaggiare; leelo concessi senza esitazione. Viaggiò, per suo piacere, in terre straniere che non conoscevo, e sempre ricevette generosamente i fondi necessari dal mio portafoglio; ma quando tornai più tardi a Baghdad, la mia città natale, lei apparve improvvisamente alla mia porta. Fui felice di costruirle quel palazzo in campagna, Dar-al-Beida, di cui ho già parlato. Purtroppo l’aria di quella regione non mi fa bene, mentre lei (la vostra cara zia) soffre nell’atmosfera di Baghdad. Spesso succede così nella vecchiaia, ”
+
 
 
 <span class="atom-split" data-atom="chapter_13_entitled_itminan_al_nafs_or_th--part_02" data-title="The Mercy of Allah — Chapter 14: ENTITLED ITMI’NÁN AL-NAFS, OR THE PEACE OF THE SOUL (part 2)" data-chapter="ENTITLED ITMINAN AL NAFS OR TH" data-kind="excerpt" data-tags="motif/desert,setting/desert"></span>
@@ -5292,6 +7795,38 @@ Mahmoud stroked his long white beard and looked up sideways towards the highly d
 
 “I erected, endowed and staffed an immense establishment, standing in its own park-like grounds, wherein was taught and proved the true doctrine that gold and silver are but dross and that learning is the sole good; and yet others in which it was proved with equal certitude that learning, like all mundane things, is dust and only an exact knowledge of the Sacred Text worth having. But the Professors of this last science demanded double pay, urging (with sense, I thought) first that any fool could talk at large but that it took hard work to study manuscripts; second that only half a dozen men knew the documents exhaustively and that if they were under-rated they would stand aside and wreck the enterprise with their savage critiques.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Mahmoud rifletté per un momento e poi continuò…”
+
+“Ma torniamo alle mie altre attività in quella lontana terra…”
+
+“Successivamente ideai un sistema secondo cui ogni forma di sfortuna umana – incendi, malattie, paralisi, pazzia e così via – potesse essere alleviata per il colpito attraverso il pagamento di somme regolari non appena si verificava l’incidente: somme settimanali per il suo sostentamento in caso di infermità, un importo fisso per compensare ciò che avesse perso completamente, e così via. Un semplice calcolo del numero medio di volte in cui tali incidenti accadevano mi permise di stabilire questo sistema. Chiesi 110 dinari per un’assicurazione del valore di 100 dinari, e la mia generosità fu lodata ancora di più della mia ingegnosità.”
+
+“Migliaia, e infine milioni di persone si riversarono verso di me, desiderose di proteggersi dall’incertezza della vita umana, offrendomi, con il loro libero arbitrio, somme di denaro regolari. Queste somme erano superiori a quelle che, per caso, avrei potuto essere costretto a pagare a chiunque di loro in caso di vecchiaia, incendio o malattia. Anzi, anche la morte finì per entrare in questo piano: essendo venuto a conoscenza del fatto che i giovani arrivati all’età adulta vivono in media quarant’anni, chiesi loro di versare somme annuali per i propri eredi, calcolate come se quel periodo fosse di trent’anni. Così, continuai ad accumulare ricchezza da una fonte perpetua.”
+
+“Ma perché,” iniziò uno dei suoi nipoti con entusiasmo.
+
+“Perché cosa?” chiese suo zio, con tono severo.
+
+“Perché,” disse il povero ragazzo, un po’ imbarazzato dal tono di suo zio, “perché vi hanno pagato di più per qualcosa che non valeva quella cifra?”
+
+Mahmoud si accarezzò la sua lunga barba bianca e alzò lo sguardo verso il soffitto decorato con grande eleganza dell’appartamento meraviglioso. Rimase immerso nei suoi pensieri per circa trenta secondi; quando finalmente ruppe il silenzio, disse di non saperlo. “Ma non importa, ”, aggiunse in fretta. “Ho pagato per un legge che obbliga tutti gli schiavi ad assicurarsi, quindi sono certo di ottenere un reddito fisso in questo modo.”
+
+“E avevo molti altri mezzi a disposizione,” continuò allegramente. “Se coloro che mi pagavano regolarmente per assicurarsi contro morte, vecchiaia, malattie e altro si trovavano in difficoltà e avevano bisogno di un prestito, ero sempre pronto a prestargli di nuovo i loro stessi soldi, con interessi. Inoltre, spingevo e tentavo molte persone a rimanere in arretrato, così da ottenere tutto ciò che avevano pagato. Le enormi somme che ricevevo in questi modi erano talvolta troppo grandi per essere investite all’interno dello Stato, quindi dovevo cercare altrove. Ma anche in questo caso, per la Misericordia di Allah, alla mia anima religiosa venivano continuamente suggerimenti dei tipi più redditizi.”
+
+“Non di rado investivo un milione o due milioni nell’acquisto di grandi proprietà situate a distanza; una volta le ottenute, dichiaravo che fossero piene di oro, argento, diamanti, rame, sale e argilla cinese sottoterra, mentre in superficie erano colme di peperoncino rosso e altri frutti estremamente preziosi. Non ho dubbi che molte di queste proprietà fossero effettivamente promettenti, anche se i viaggiatori mi hanno assicurato che alcune non fossero altro che [[Desert|deserti]]; in un caso, per quanto ne so, la proprietà non esisteva nemmeno. Ma in realtà non aveva molta importanza se dicessi la verità o mentissi riguardo a queste imprese, perché il mio modo di gestirle le rendeva, indipendentemente dal loro valore reale, sempre proficue per molti, oltre che per me stesso, e rappresentavano un vero beneficio per l’intero Stato.”
+
+“Ma zio”, intervenne un altro nipote, “come potrebbe essere?”
+
+“Lo vedrete facilmente,” disse Mahmoud con un sorriso di compassione, “quando ascolterete la continuazione della storia. Non sono stato così egoista da tenere queste proprietà per me stesso: le avrei offerte in vendita al pubblico. Essendo in grado di pagare molti poeti, scribi e narratori che avrebbero diffuso le lodi di tali proprietà, sarebbe scaturita una feroce concorrenza tra migliaia di persone desiderose di acquistarle. Di fronte a questa competizione, il prezzo delle singole quote o parti della proprietà sarebbe aumentato; coloro che avessero comprato per primi avrebbero poi rivenduto a profitto ad altri, e questi ancora a un profitto maggiore; così, l’attività di acquisto e vendita di queste proprietà è diventata una pratica abituale tra le persone intelligenti della zona. Coloro che alla fine sono rimasti in possesso delle proprietà in questione, reali o immaginarie, erano soltanto i più sciocchi e ignoranti della popolazione. Le loro lamentele angosciate riguardo alle mie decisioni (mentre cercavano disperatamente di sbarazzarsi degli investimenti fallimentari) venivano naturalmente ignorate da coloro che ricordavano i profitti ottenuti all’inizio dell’operazione. Per questo motivo, sono stato in grado di continuare all’infinito a offrire al pubblico ogni tipo di investimento che mi fosse venuto in mente: gli intelligenti e i successivi erano sempre i miei sostenitori; solo i sfortunati e disprezzati mi denunciavano. E questi, a causa delle mie attività, erano così poveri da avere scarso peso nello Stato; per questo raramente ritenevo necessario pagare le autorità perché mi imprigionassero o mi uccidessero.”
+
+“Nel giro di dieci anni, le mie possedimenti divennero illimitati. Si diceva che io stesso non avessi idea della loro entità, e devo ammettere che era vero. Di tanto in tanto spendevo somme enormi per finanziare istituti di istruzione, per aiutare i ministri della mia stessa religione (e anche i suoi oppositori), o per diffondere, attraverso un esercito di annunciatori pubblici, opinioni insignificanti proprie o di mia moglie, vostra cara zia. Le sue ferme posizioni riguardo al portare il turbante verde dai pellegrini e all’illuminare il Corano con inchiostro rosso sono senza dubbio note a voi.”
+
+“Costruirei anche grandi edifici per ospitare gli anziani poveri il cui nome inizia con la lettera ‘A’, o altri luoghi dove gli anziani poveri che sono ciechi da un occhio potrebbero svolgere lavori utili.”
+
+“Ho fondato, dotato e riempito di personale un enorme istituto, situato in un parco circondato da terreni verdi, dove si insegnava e si dimostrava la vera dottrina secondo cui l’oro e l’argento non sono altro che scorie, e che solo lo studio rappresenta il vero bene; tuttavia, in altri istituti si sosteneva con altrettanta certezza che anche lo studio, come tutte le cose terrene, è polvere, e che soltanto una conoscenza approfondita dei Testi Sacri ha valore. Ma i professori di questa ultima disciplina chiedevano uno stipendio doppio, sostenendo (a mio parere con ragione) prima di tutto che chiunque potesse parlare liberamente, ma che lo studio dei manoscritti richiedesse un impegno considerevole; in secondo luogo, che soltanto una mezza dozzina di persone conoscesse appieno quei documenti, e che se venissero sottostimate, si sarebbero ritirate e avrebbero distrutto l’intero progetto con le loro critiche feroci.”
 
 
 
@@ -5335,6 +7870,44 @@ His uncle was silent for a space and then replied in slow and measured words:
 “My dear nephews, I have no more to tell. You have now heard how industry in itself is nothing if it is not guided and sustained by [[Providence]], but you have doubtless also perceived that the best fortune which Heaven” (here the old man bowed his head reverently) “can bestow upon a mortal is useless indeed unless he supplement its grace by his own energy and self-discipline. I must warn you in closing that any efforts of your own to tread in the path I have described would very probably end in your suffering upon the market place of the city that ignominious death which furnishes in the public executions such entertainment to the vulgar. If, indeed, you can pass the first stages of your career without suffering anything more fatal than the bastinado you might reach at last some such great position as I occupy. Indeed,” mused the kindly old man, “Hareb, my junior partner, and Muktahr, whom you have heard called ‘The Camel King,’ have each been bastinadoed most severely in the past, when their operations were upon a smaller scale.... But we are content to forget such things.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nel mio tempo libero ideai un ingegnoso sistema per ottenere guadagni, chiamato “Il Separatore di Panna”. Pagai il mio miserabile Sultano e la sua corte affinché promulgassero una legge che obbligasse tutti, sotto pena di tortura, a rivelare i propri introiti derivanti dall’agricoltura o da qualsiasi altra attività onesta; tuttavia, gioco d’azzardo e trucchi furono esclusi da questa norma, considerati irrilevanti e troppo difficili da verificare. Pagai inoltre altri soldi a scrittori, oratori e altre persone disperate affinché denunciassero chiunque si opponesse a questa legge. Per meno della metà di quella somma, introdussi una nuova normativa che portò a far confluire tutti gli eccessivi guadagni dei contadini più abbienti e di altre persone rispettabili in un fondo comune; in parte questi fondi vennero distribuiti come piccole somme ai poverissimi, mentre in parte furono utilizzati per aumentare lo stipendio di coloro che occupavano posizioni di rilievo alla corte. In particolare, favorii molto il “Gran Mago” di corte. Così facendo, stabilii una solida alleanza sia con le masse che con i loro governanti, e devo dire con soddisfazione che eliminai quella classe media così noiosa, meschina e insignificante. Una classe che, a mio parere, meritava davvero il disprezzo sia dei più abbienti che di quelli più poveri.
+
+“E su tutto questo ho portato a termine la mia piccola commissione, ”
+
+“Miei figli. Miei figli, ” concluse l’uomo anziano, i suoi occhi ora pieni di lacrime gelide. “Avevo raggiunto la vetta della vita umana. Avevo tutto. E allora mi colpì ciò che solo la più grande delle ricchezze può donare: la profonda pace dell’anima.”
+
+Le sue lacrime ora scorrevano liberamente, e i suoi nipoti furono profondamente commossi nel vedere una tale emozione in una persona così nobile.
+
+“È proprio così,” continuò (con difficoltà, a causa dell’emozione che cresceva in lui), “è soltanto la ricchezza, e una ricchezza superiore a tutte quelle circostanti, che può fornire all’uomo quella visione equilibrata del mondo, quell’enorme tolleranza verso il male, quella speranza incrollabile nel domani, e quel profondo senso di appagamento che permette al cuore umano di trovare pace.”
+
+Qui il milionario scoppiò veramente in lacrime. Si coprì il viso con le mani e i suoi singhiozzi furono accompagnati da quelli dei suoi rispettabili nipoti, ad eccezione del terzo, per il quale quei singhiozzi si trasformarono in colpi di tosse.
+
+Mahmoud sollevò il suo volto forte, vecchio e segnato dalle lacrime, si asciugò gli occhi e chiese loro (poiché la sua storia era ormai finita) se avessero qualche domanda da porre.
+
+Dopo un lungo silenzio, il più anziano parlò:
+
+“Oh! Mio rispettato zio,” disse lui con voce piena di reverenza, “se posso osare chiedere, perché avete lasciato questo luogo del vostro potere per tornare a Baghdad?”
+
+“Suo zio rimase in silenzio per un po’, poi rispose con parole lente e misurate…”
+
+“Ecco come accadde. Una sorta di malattia morale, una misteriosa piaga interiore, colpì la gente tra cui vivevo. I poveri, nonostante i sussidi aumentati, sembravano diventare sempre meno disposti a lavorare. I ricchi – e soprattutto quelli al potere – presero l’abitudine di indulgersi in piaceri personali (non so perché!). La classe media, che avevo appena distrutto, era piena di odio e rancore dopo la propria rovina. Poiché ancora possedevano il potere di esprimersi attraverso la parola scritta o orale, contribuirono ulteriormente a diffondere quel grande malessere. Una sera accadde qualcosa di terribile: un grosso sasso fu lanciato attraverso le finestre aperte della mia sala da pranzo e mancò per poco il Vice Direttore Generale che si trovava dietro il divano su cui ero seduto insieme ai miei ospiti.”
+
+“Era un avvertimento del Cielo. Il giorno dopo iniziai ad agire con infinite precauzioni per capirne il significato. Sapevo che, per qualche motivo nascosto, il paese era stato avvelenato. Pezzo dopo pezzo, lotto dopo lotto, vendetti tutte le mie terre, le mie partecipazioni alle imprese, i miei documenti relativi a ipoteche e prestiti. Attraverso messaggeri trasferii tutto quel denaro per acquistare terreni nelle pianure vicino a Baghdad, la mia città natale; sul fiume Tigri; obbligazioni relative a case a Mosul e mulini nelle colonie agricole delle colline persiane; in promesse di pagamento firmate dal Califfo e in impegni ufficiali dei signori di Bosra e del fiume Eufrate.”
+
+“Una voce interiore mi disse: ‘Mahmoud, hai raggiunto la Pace dell’anima. Non rischiarla più qui.’, ”
+
+“Quando tutta la mia enorme fortuna fu trasferita in Mesopotamia, intrapresi un viaggio di un mese verso la costa marittima, presi una [[Ship|navica]] e salpai lungo il golfo diretti alla casa della mia infanzia, ”
+
+“Sono arrivato giusto in tempo! Entro una settimana dalla mia partenza, il Sultano del mio precedente regno ricevette un messaggio insolente da parte del ‘Re dei Ladri delle Montagne’, che chiedeva tributi. Inutilmente quell’infelice cercò di spiegare i progressi realizzati nel campo delle arti, l’enorme debito pubblico del suo paese, gli alti salari dei suoi artigiani e la loro serena vita, nonché il raffinamento e il lusso della sua nobiltà. Nemmeno i loro bagni caldi o il cambio di abiti tre volte al giorno poterono salvarli! Quel crudele conquistatore barbaro devastò tutto il paese, saccheggiò la capitale, confiscò le terre, annullò tutti gli atti legali e impose tributi spaventosi. Se avessi lasciato anche solo una moneta di rame in quel paese (fortunatamente non l’avevo fatto), sarebbe andata persa per sempre.”
+
+“Ma quando queste terribili cose stavano accadendo, io ero al sicuro qui a Baghdad. Era più o meno il momento in cui è nato il vostro fratello maggiore. Ho acquistato questo terreno, ho costruito il Palazzo dove voi mi onorate venendo a trovarmi (e anche quello di Dar-al-Beida per mia moglie, vostra cara zia, che si trova a quattro giorni di distanza), e da allora vivo serenamente nella vecchiaia, lodando e benedicendo Dio.”
+
+* * * * *
+
+“Miei cari nipoti, non ho più nulla da dire. Ora avete ascoltato come l’industria, di per sé, non sia nulla se non guidata e sostenuta dalla [[Providence|Provvidenza]], ma sicuramente avete anche compreso che la massima fortuna che il Cielo” (a questo punto l’anziano chinò rispettosamente la testa) “possa concedere a un mortale è inutile, se non viene integrata dalla propria energia e autodisciplina. Vorrei infine avvertirvi che qualsiasi tentativo da parte vostra di seguire il percorso che vi ho descritto finirebbe molto probabilmente con la sofferenza nel mercato della città, o addirittura con quella morte ignominiosa che le esecuzioni pubbliche offrono spesso al popolo comune come spettacolo. Tuttavia, se riusciste a superare le prime fasi della vostra carriera senza subire punizioni più gravi di quelle che ho ricevuto io, forse un giorno potreste raggiungere una posizione simile alla mia. Infatti,” rifletté l’anziano gentile, “Hareb, il mio socio minore, e Muktahr, che avete sentito chiamare ‘Il Re Cammello’, sono stati entrambi sottoposti a severe punizioni con la bastinada quando le loro attività erano ancora su piccola scala. Ma noi preferiamo dimenticare queste cose.”
+
 
 
 <span class="atom-split" data-atom="chapter_13_entitled_itminan_al_nafs_or_th--part_04" data-title="The Mercy of Allah — Chapter 14: ENTITLED ITMI’NÁN AL-NAFS, OR THE PEACE OF THE SOUL (part 4)" data-chapter="ENTITLED ITMINAN AL NAFS OR TH" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
@@ -5359,3 +7932,26 @@ It was in vain that Mahmoud searched his memory for the signature of any such in
 In every way he showed himself worthy of his uncle’s confirmed reliance on his commercial prowess. When the lad came of age, the Venerable Mahmoud gave a feast of unexampled splendour which foreshadowed his intentions.
 
 For, indeed, but a month later, the old man began to fail, and in a few weeks more was warned by his physicians of approaching death. He summoned scribes to his bed, dictated in a firm voice his Will, wherein (after reciting provision already made — under heavy pressure — for his wife) he left to the youngest nephew the whole of his wealth, saying with his last breath, “Allah! Creator and Lord! Lest the Talent should fall into unworthy hands!”
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non ho più nulla da dirvi. Lavorate sodo quanto possibile, vivete in modo sobrio e rispettando scrupolosamente le regole; finché avrete ancora un briciolo di forza, lottate per conservare almeno una piccola parte del frutto del vostro lavoro, affinché possiate sostentare voi stessi e le vostre famiglie. Il resto, seguendo il corso naturale delle cose, finirà nelle mani di persone come me. Ora andate, con la mia benedizione. Ma aspettate,” aggiunse, come se gli fosse venuta in mente un’idea, “non posso lasciarvi andare senza darvi un piccolo dono a testa.”
+
+Detto questo, il gentile vecchio andò verso un armadio decorato con bellissimi intarsi; ne prese sette fichi secchi, ormai in uno stato di estrema aridità ed emaciazione, e ne diede uno a ciascuno dei suoi nipoti, i quali accettarono il dono con profonda gratitudine e affetto.
+
+Proprio mentre stavano per congedarsi, il ragazzo più giovane (un bambino, va ricordato, di tenera età) si avvicinò a suo zio con un misto di umiltà e amore, e tirando fuori un foglio di carta nascosto nelle pieghe della sua tunica, pregò il mercante di firmarlo e datarlo anche, come ricordo di quelle deliziose mattine.
+
+“Con tutto il mio cuore, piccolo mio,” disse Mahmoud, dandogli una pacca sulla testa e pensando che azioni buone non costano nulla e portano solo gratitudine.
+
+Dopo aver fatto ciò, i ragazzi se ne andarono.
+
+* * * * *
+
+La mattina seguente, quando Mahmoud inviò un schiavo al proprio cassiere per chiedere la somma necessaria a pagare un gruppo di torturatori curdi che intendeva assumere per gestire la prigione dei suoi debitori, rimase irritato nello ricevere la risposta che non c’era contante disponibile immediatamente: quel stesso mattino era stato presentato e accettato un assegno di notevole importo firmato da lui. Poiché la somma in questione era considerevole, e il pagamento era stato effettuato solo pochi minuti prima, il cassiere pregò il suo padrone di attendere circa mezz’ora, fino a quando non fosse stato possibile reperire ulteriore denaro presso un deposito vicino.
+
+Inutile fu che Mahmoud cercasse nella sua memoria la firma di un simile documento: era perplesso e sospettava si trattasse di una falsificazione. Alla fine decise di far venire il foglio e di esaminarlo personalmente. Lì, effettivamente, c’era la sua firma; ma l’importo di 20.000 dinari menzionato era scritto con una grafia diversa, molto infantile. Fu allora che il grande imprenditore capì che quel bambino, suo nipote minore che gli aveva chiesto l’autografo come ricordo, non era affatto indegno del sangue che aveva ereditato. Scrisse al padre del ragazzo e ottenne che questi lo assumesse come impiegato senza alcun stipendio. Osservò il suo talento crescere e non rimase deluso: molto prima che il giovane raggiungesse la maggiore età, riuscì a far indebitare tutti i dipendenti della grande azienda e a trasferire segretamente i risparmi del portiere, del corriere e della vedova anziana che puliva l’ufficio ogni mattina. A diciassette anni aveva già organizzato un affare di schiavi fuggitivi, prendendo somme uguali sia dai colpevoli che li nascondevano sia dai loro padroni che li tradivano. A diciotto anni controllava una vasca pubblica dove i clienti venivano sorvegliati da spie, il che gli garantiva un reddito considerevole. Prima ancora di raggiungere l’età legale, aveva stupito e compiaciuto suo zio, ormai ottantenne, vendendogli, sotto falso nome e attraverso una persona di fiducia, una nave che avrebbe dovuto arrivare a Bosra, ma in realtà era affondata cinque giorni prima a Bushire.
+
+In ogni modo, dimostrò di essere degno della fiducia che suo zio riponeva nelle sue capacità commerciali. Quando il ragazzo raggiunse l’età adulta, il Venerabile Mahmoud organizzò un banchetto di splendore senza precedenti, che preannunciava le sue intenzioni future.
+
+Infatti, solo un mese dopo l’uomo anziano iniziò a declinare; in poche settimane i suoi medici gli comunicarono che la morte era imminente. Chiamò dei scribi al suo capezzale e, con voce ferma, redasse il proprio testamento. In esso, dopo aver previsto le disposizioni già prese – sotto forte pressione – per sua moglie, lasciò tutta la propria fortuna al nipote più giovane, dicendo con l’ultimo respiro: “Allah! Creatore e Signore, affinché questo patrimonio non cada in mani indegne!”

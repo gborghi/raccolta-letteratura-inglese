@@ -6692,7 +6692,7 @@ Speaker_.
 
 PUBBLICATO NEL SETTEMBRE 1905
 
-NOTA
+Nota
 
 Questi scritti, con alcune modifiche e aggiunte, sono qui ripubblicati
 
@@ -7050,9 +7050,9 @@ G.K.C.
 
 Kensington.
 
-INDICE  
+INDICE
 
-Pagina
+# Pagina
 
 Charlotte Brontë                         3
 
@@ -12593,6 +12593,179 @@ and Horace, Petrarch and Shakespeare were pessimists when they were
 
 to-day seems obliged to prove that gout and unrequited [[Love|love]] make him
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Dimentica che un processo logico è composto da due parti: la prima…
+
+Scelta di un’ipotesi, e subito dopo il dibattito su di essa…
+
+L'umanità, se si dedica troppo ostinatamente allo studio del suono…
+
+# Ragionamento: la tendenza a perdere la capacità di ascoltare con attenzione
+
+#Assunzione. È sorprendente quanto spesso si possa sentire, da persone razionali, parlare di assunzioni…
+
+# Persone anche razionaliste… frasi come “Non ha provato…”
+
+"Tutto ciò con cui aveva iniziato", o "L’intera base della sua argomentazione".
+
+#"Su una pura ipotesi", due particolarità che possono essere riscontrate..."
+
+Curioso riguardo alle opere di Euclide… È davvero sorprendente, ancora una volta, come…
+
+Si sente spesso i razionalisti discutere su argomenti profondi.
+
+apparentemente senza preoccuparsi delle profonde ipotesi sottostanti, aver…
+
+Persero, per così dire, la percezione del vero colore e della vera natura di qualcosa…
+
+# L'assunzione umana. Ad esempio, due uomini potrebbero discutere su quale sia…
+
+# Il patriottismo è una cosa positiva… ma si scopre soltanto alla fine, se mai si scopre davvero.
+
+Titolo:  
+Il cosmopolita fonda tutta la sua argomentazione sull’idea che l’uomo…
+
+“Dovrebbe, se possibile, diventare come Dio: con le stesse emozioni e senza limitazioni.”
+
+Pregiudizi… mentre il nazionalista nega categoricamente l’esistenza di tale dovere.
+
+Inizia considerando l’uomo un animale che ha preferenze, proprio come un uccello ne ha.
+
+piume.
+
+*       *       *       *       *
+
+Così fu per Carlyle: sorprendeva tutti attaccando non gli argomenti stessi, ma…
+
+# Solo supposizioni. Lui semplicemente ignorò completamente tutte quelle questioni che gli altri uomini sollevavano.
+
+Titolo:  
+Ritenuto indiscutibile nel XIX secolo e oggetto di appelli…
+
+# Direttamente verso quella categoria di questioni completamente diversa, che loro sapevano esistere…
+
+Vero. Indusse le persone a studiare meno la [[Truth|verità]] dei loro ragionamenti, e.
+
+Più ancora la [[Truth|verità]] delle ipotesi su cui basavano le loro ragionamenti. Anche in quei casi.
+
+La sua visione non rappresentava la più alta [[Truth|.verità]]; tuttavia, era sempre piacevole e.
+
+# Beneficente eresia. Negò ogni singola delle ipotesi su cui si basava…
+
+#Età della ragione… si basava su questo principio. Negò la teoria del progresso che…
+
+#Presumendo che dobbiamo essere in una situazione migliore rispetto alla gente del dodicesimo secolo…
+
+Se fossimo migliori delle persone del XII secolo…
+
+Secondo lui, tutto dipendeva interamente dal fatto che scegliessimo o meritassimo di farlo.
+
+be.
+
+Negò ogni tipo e forma di aiuto, associazione o sostegno che gli venisse offerto.
+
+Incolpare la civiltà, la società… o qualsiasi altra cosa, tranne se stessi.
+
+La coscienza individuale. Spesso è stato definito un [[Prophet|profeta]]. La vera.
+
+La base della [[Truth|verità]] di questa frase viene spesso trascurata. Dall’ultima volta.
+
+Un'epoca di letteratura puramente religiosa, l'epoca del [[Puritanism|Puritanesimo]] inglese, in quel periodo.
+
+Non c’è stato mai nessun scrittore per il quale l’[[Soul|'anima]] abbia avuto un tale valore, così assolutamente unico.
+
+Come abbiamo già suggerito, Carlyle era un mistico, e il misticismo faceva parte integrante della sua personalità.
+
+Come tutti i suoi veri professori, anche questa è una forma trascendente della normalità.
+
+# Sensazione. Sia il misticismo che il buon senso si basano su una certa sensazione…
+
+# Dominio di alcune verità e tendenze che non possono essere formalmente contestate
+
+#Misticismo e buon senso
+
+Titolo:  
+Attrae entrambi aspetti della realtà che sappiamo essere concreti… ma che spesso rimangono inespressi o ignorati.
+
+# Nessun ruolo nell’argomentazione se non come ipotesi. L’opera di Carlyle consisteva proprio in questo.
+
+#Superando formule vecchie e nuove, verso queste antiche e silenziose…
+
+Ironiche saggezze… I filosofi potrebbero abolire i re cento volte.
+
+“Over,” insisteva, “non si può cambiare il fatto che ogni uomo…”
+
+La donna sceglie un [[King|re]] e rinuncia a tutta la [[Pride|orgoglio]] della propria cittadinanza per.
+
+L’esultanza della [[Humility|umiltà]]. Se un’ineguaglianza di questo tipo fosse considerata una debolezza.
+
+# Una debolezza legata alla stessa forza dell’universo.
+
+Il culto dell’[[Hero|eroe]], in effetti, pochi critici sono riusciti a renderne giustizia anche solo minimamente.
+
+Carlyle… Ingannato da quei passaggi affrettati e irascibili…
+
+A volte si esprimeva una preferenza per la violenza pura e semplice… Passaggi che…
+
+# Molto più legato al suo temperamento che alle sue…
+
+La [[philosophy|filosofia]], hanno finalmente assorbito l’idea che la teoria di Carlyle.
+
+La venerazione dell’[[Hero|eroe]] era in realtà una teoria di sottomissione terrorizzata davanti a qualcosa di severo e.
+
+Uomini arroganti… In realtà, Carlyle è davvero crudele riguardo ad alcuni di loro.
+
+Domande, ma lui non è mai crudele quando si tratta di venerare gli [[Hero|eroi]]. La sua opinione, però.
+
+Quella natura umana è così volgare e sciocca che deve necessariamente essere guidata.
+
+E guidato. Al contrario, è proprio la natura umana a essere così cavalleresca.
+
+# Una qualità profondamente nobile, che persino le persone più meschine possiedono
+
+Per farli amare un leader più di se stessi, e per far loro preferire la lealtà.
+
+Rebellione. Quando parla di questo tratto della natura umana, il tono di Carlyle è.
+
+# Si ammorbidisce inevitabilmente… Riteniamo che, in questo momento, sia stato acceso da qualcosa.
+
+Ammirazione dell’umanità, e quasi raggiunge i confini della [[Christianity|Chiesa cristiana]].
+
+Qualunque altra cosa ci fosse di acido o pungente nelle affermazioni di Carlyle, il suo [[Hero|eroe]].
+
+#Il culto non era solo umano, ma quasi ottimista… Ammirava ciò che era grande.
+
+#Uomini principalmente, e forse correttamente, perché riteneva che fossero così.
+
+# Più umano degli altri uomini… Il lato oscuro dell’influenza di Carlyle
+
+La sua religione basata sull'adorazione degli [[Hero|eroi]] non consisteva nell'unzione emotiva.
+
+Di coraggio e [[success|successo]]; quella era una parte di lui, proprio come, in effetti, lo è sempre.
+
+# Di tutti i bambini sani… Fu proprio in questo che Carlyle causò davvero danno.
+
+#Che lui, più di qualsiasi altro uomo moderno, sia responsabile dell’aumento…
+
+Quella abitudine moderna, comunemente definita “andare fino in fondo”.
+
+Spesso, in questioni di passione e conquista, si comporta in modo particolarmente meschino.
+
+Questa straordinaria tendenza moderna di formulare la propria [[philosophy|filosofia]], religione.
+
+Politica e temperamento: l’importanza di cercare, in ogni situazione, un equilibrio tra le due cose.
+
+Opportunità per affermare e riaffermare alcuni atteggiamenti mentali preferiti
+
+“Una cosa che esisteva relativamente poco nelle altre epoche… Salomone”
+
+# E Orazio, Petrarca e Shakespeare erano pessimisti quando…
+
+Melanconici quando erano tristi, ottimisti quando erano felici. Ma l’ottimista.
+
+Oggi sembra che debba dimostrare che l’ gotta e un amore non ricambiato lo rendano.
 
 
 

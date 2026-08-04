@@ -83,7 +83,7 @@ Through the [[Snow|snow]] and rain.
 
 # i re magi
 
-I RE MAGI  
+I MAGI  
 
 di G.K. Chesterton
 
@@ -219,7 +219,7 @@ Through the [[Snow|snow]] and rain.
 
 # i re magi
 
-I RE MAGI  
+I MAGI  
 
 di G.K. Chesterton
 

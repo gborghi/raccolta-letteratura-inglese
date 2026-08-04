@@ -59,12 +59,25 @@ def prose_parts(body):
         out.append((p, part))
     return out
 
+def author_dir(author):
+    """Vault folder for a content-tree author slug: "conan_doyle" -> "Conan_Doyle".
+    capitalize() lowercases everything after the first letter, so two-word authors
+    resolved to a folder that does not exist and the cache came back empty."""
+    want = author.replace(" ", "_").lower()
+    for d in os.listdir(VAULT_AUTHORS):
+        if d.lower() == want:
+            return os.path.join(VAULT_AUTHORS, d)
+    return os.path.join(VAULT_AUTHORS, author.capitalize())
+
 def build_cache(author):
-    # scan both the atomized prose tree and the Long/ tree (long poems: Ballad, etc.)
-    vbases = [os.path.join(VAULT_AUTHORS, author.capitalize(), sub) for sub in ("Atomized", "Long")]
+    # every tree under the author except the _raw working dirs. Naming the subfolders
+    # by hand (Atomized, Long) silently lost Wilde's Plays/, whose atoms are translated
+    # but then never matched, leaving every play page "partial" and unpublished.
+    base = author_dir(author)
     cache = {}
     pairs = mism = 0
-    it_paths = [p for vb in vbases for p in glob.glob(os.path.join(vb, "**", "*.it.md"), recursive=True)]
+    it_paths = [p for p in glob.glob(os.path.join(base, "**", "*.it.md"), recursive=True)
+                if not any(seg.startswith("_") for seg in os.path.relpath(p, base).split(os.sep))]
     for it_path in it_paths:
         en_path = it_path[:-6] + ".md"
         if not os.path.exists(en_path):

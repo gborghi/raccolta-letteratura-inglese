@@ -194,6 +194,23 @@ XI. THE WINTER LULL OF 1914
 THE END
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VOLUME I.
+PREFAZIA
+I. LA ROVINA DELLA PACE
+II. INIZIO DELLA GUERRA
+III. BATTAGLIA DI MONS
+IV. BATTAGLIA DI LE CATEAU
+V. BATTAGLIA DELLA MARNE
+VI. BATTAGLIA DELL’AISNE
+VII. LA LAVA BASSEE – OPERAZIONI IN ARMENTIÈRES (dal 11 ottobre al 31 ottobre 1914)
+VIII. PRIMA BATTAGLIA DI YPRES (fino all’azione di Gheluvelt, 31 ottobre)
+IX. PRIMA BATTAGLIA DI YPRES (continuazione) (dall’azione di Gheluvelt alla tregua invernale)
+X. RIEPILOGO E SOMMARIO GENERALE
+XI. LA TREGUA INVERNALE DEL 1914
+Fine
+
 
 
 <span class="atom-split" data-atom="chapter_02" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
@@ -211,6 +228,20 @@ VII. THE BATTLE OF LOOS The First Day — September 25
 VIII. THE BATTLE OF LOOS The Second Day — September 26
 IX. THE BATTLE OF LOOS From September 27 to the End of the Year
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VOLUME II.
+PREFAZIA
+I. I primi mesi del 1915
+II. Neuve Chapelle e Hill 60
+III. La seconda battaglia di Ypres – Fase I: L’attacco al gas, 22-30 aprile
+IV. La seconda battaglia di Ypres – Fase II: Le linee di Bellewaarde
+V. La battaglia di Richbourg-Festubert, 9-24 maggio
+VI. Le trincee di Hooge
+VII. La battaglia di Loos – Primo giorno, 25 settembre
+VIII. La battaglia di Loos – Secondo giorno, 26 settembre
+IX. La battaglia di Loos: Dal 27 settembre alla fine dell’anno
 
 
 
@@ -234,6 +265,24 @@ XII. THE BATTLE OF THE SOMME From September 15 to the Battle of the Ancre
 XIII. THE BATTLE OF THE ANCRE November 13, 1916
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VOLUME III.
+PREFAZIA
+I. Gennaio a luglio 1916
+II. LA BATTAGLIA DEL SOMME: L’attacco dei Settimo e Ottavo Corpo su Gommecourt, Serre e Beaumont Hamel
+III. LA BATTAGLIA DEL SOMME: L’attacco del Decimo e Terzo Corpo, 1° luglio 1916
+IV. LA BATTAGLIA DEL SOMME: L’attacco del Quindicesimo e Tredicesimo Corpo, 1° luglio 1916
+V. LA BATTAGLIA DEL SOMME: Dal 2 al 14 luglio 1916
+VI. LA BATTAGLIA DEL SOMME: La rottura della seconda linea, 14 luglio 1916
+VII. LA BATTAGLIA DEL SOMME: Dal 14 al 31 luglio 1916
+VIII. LA BATTAGLIA DEL SOMME: Le operazioni dell’esercito di Gough sul fronte settentrionale fino al 15 settembre
+IX. LA BATTAGLIA DEL SOMME: Dal 1° agosto al 15 settembre 1916
+X. LA BATTAGLIA DEL SOMME: La rottura della terza linea, 15 settembre 1916
+XI. L’occupazione della cresta di Thiepval
+XII. LA BATTAGLIA DEL SOMME: Dal 15 settembre alla battaglia dell’Ancre
+XIII. LA BATTAGLIA DELL’ANCRE: 13 novembre 1916
+
 
 
 <span class="atom-split" data-atom="chapter_04" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
@@ -253,6 +302,22 @@ IX. THE THIRD BATTLE OF YPRES October 4 to November 10, 1917
 X. THE BATTLE OF CAMBRAI First Phase of Battle, November 20
 XI. THE BATTLE OF CAMBRAI Second Phase of Battle, November 30
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VOLUME IV.
+PREFAZIA
+I. LA RETRATTATA TERRITORIALE TEDESCA SUL Fronte di Arras-Soissons
+II. LA BATTAGLIA DI ARRAS – Dal 9 al 23 aprile 1917
+III OPERAZIONI NEL SETTORE DI ARRAS A PARTIRE DAL 23 APRILE
+IV. LA BATTAGLIA DI MESSINES – 7 giugno 1917
+V. OPERAZIONI DALL’10 GIUGNO AL 31 LUGLIO
+VI. LA TERZA BATTAGLIA DI YPRES – 31 luglio 1917
+VII. LA TERZA BATTAGLIA DI YPRES – Dal 1° agosto al 6 settembre 1917
+VIII. LA TERZA BATTAGLIA DI YPRES – Dal 6 settembre al 3 ottobre 1917
+IX. LA TERZA BATTAGLIA DI YPRES – Dal 4 ottobre al 10 novembre 1917
+X. LA BATTAGLIA DI CAMBRAI – Prima fase, 20 novembre
+XI. LA BATTAGLIA DI CAMBRAI – Seconda fase, 30 novembre
 
 
 
@@ -274,6 +339,22 @@ X. THE BATTLE OF THE LYS April 13 to May 8
 XI. THE BATTLES OF THE CHEMIN DES DAMES AND OF THE ARDRES May 27 to June 2
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VOLUME V.  
+PREFAZIA  
+I. AVVENIMENTI SUL Fronte Britannico Fino al 21 Marzo 1918  
+II. LA SECONDA BATTAGLIA DEL SOMME: L’Attacco ai Sedicesimo e Sesto Corpi d’Armata  
+III. LA SECONDA BATTAGLIA DEL SOMME: L’Attacco ai Quarto e Quinto Corpi d’Armata  
+IV. LA SECONDA BATTAGLIA DEL SOMME: L’Attacco all’Quinta Armata, 2 marzo  
+V. LA SECONDA BATTAGLIA DEL SOMME: La Ritirata del Settimo e Diciannovesimo Corpo d’Armata  
+VI. LA SECONDA BATTAGLIA DEL SOMME: La Ritirata dell’Ottavo Corpo d’Armata, 21-29 marzo  
+VII. LA SECONDA BATTAGLIA DEL SOMME: La Ritirata del Terzo Corpo d’Armata  
+VIII. IL FRONTE DEL SOMME DALL’1 APRILE IN POI  
+IX. LA BATTAGLIA DEL LYS, 9-12 aprile  
+X. LA BATTAGLIA DEL LYS, dal 13 aprile al 8 maggio  
+XI. LE BATTAGLIE DEL CHEMIN DES DAMES E DELL’ARDRES, dal 27 maggio al 2 giugno
+
 
 
 <span class="atom-split" data-atom="chapter_06" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
@@ -293,3 +374,21 @@ X. THE ADVANCE OF HORNE’S FIRST ARMY From September 27 to the end
 XI. OPERATIONS OF THE SECOND AND FIFTH ARMIES September 28 — November 11
 XII. THE END
 APPENDIX
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+VOLUME VI.
+I. LE OPERAZIONI INIZIALI Dal 1° luglio all’8 agosto 1918
+II. L’ATTACCO DELLA QUARTA ARMA DI RAWLINSON La battaglia di Amiens, dall’8 al 22 agosto
+III. PROSEGUIMENTO DELLLE OPERAZIONI DELLA QUARTA ARMA DI RAWLINSON Dal 22 agosto alla battaglia della Linea Hindenburg, il 29 settembre
+IV. L’ATTACCO DELLA TERZA ARMA DI BYNG Dal 21 agosto al 29 settembre 1918
+V. L’avanzata DELLA PRIMA ARMA DI HORNE Dal 26 agosto al 27 settembre
+VI. LE OPERAZIONI DELLA QUARTA ARMA DI RAWLINSON Dalla battaglia della Linea Hindenburg (29 settembre) alla battaglia del Selle, il 17 ottobre
+VII. LE OPERAZIONI DELLA QUARTA ARMA DI RAWLINSON Dalla battaglia del Selle (17 ottobre) fino alla fine
+VIII. LE OPERAZIONI DELLA TERZA ARMA DI BYNG Dalla battaglia della Linea Hindenburg (29 settembre) alla battaglia del Selle (17 ottobre)
+IX. LE OPERAZIONI DELLA TERZA ARMA DI BYNG Dalla battaglia del Selle (12 ottobre) fino alla fine
+X. L’avanzata DELLA PRIMA ARMA DI HORNE Dal 27 settembre fino alla fine
+XI. LE OPERAZIONI DELLA SECONDA E DELLA QUINTA ARMA Dal 28 settembre al 11 novembre
+XII. LA FINALE
+APPENDICE

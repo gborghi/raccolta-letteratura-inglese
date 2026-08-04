@@ -557,6 +557,550 @@ That scared away the meek ethereal hours
 And made their dove wings tremble. On he flared.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[[A Dream|Un sogno]]  
+
+CANTO I  
+
+I fanatici hanno i loro [[Dreams|sogni]], con cui tessono  
+un paradiso per una setta; anche il selvaggio,  
+dalla più alta foggia del suo [[Sleep|sonno]],  
+indovina il Cielo; peccato che costoro non abbiano  
+tracciato su pergamena o su selvatica foglia indiana  
+le ombre di una melodiosa parola.  
+Ma spogli d’alloro vivono, sognano e muoiono;  
+ché la Poesia [[Alone|sola]] sa dire i suoi [[Dreams|sogni]],  
+e col sottile incanto delle parole [[Alone|soltanto]] può salvare  
+l’[[Imagination|Immaginazione]] dal nero incantesimo  
+e dal muto sortilegio. Chi, vivo, può dire:  
+‘Non sei Poeta, non puoi dire i tuoi [[Dreams|sogni]]?’  
+Poiché ogni uomo la cui [[Soul|anima]] non sia una zolla  
+ha visioni, e parlerebbe, se avesse amato  
+e fosse stato [[Well|bene]] nutrito nella lingua materna.  
+Se il sogno che ora mi propongo di narrare  
+sia di poeta o di fanatico, si saprà  
+quando questo caldo scriba, la mia mano, sarà nella [[Grave|tomba]].  
+
+Mi parve di stare dove alberi d’ogni clima,  
+palma, mirto, quercia, sicomoro e faggio,  
+col platano e i fiori di spezie, facevano schermo;  
+vicino a fontane, per il rumore  
+che pioveva soave nei miei orecchi, e, al tocco  
+dell’odore, non lungi dalle rose. Voltandomi  
+vidi un pergolato dal tetto ricadente  
+di viti a graticcio, e [[Bells|campanule]], e fiori più larghi,  
+come turiboli floreali oscillanti lievi nell’aria;  
+davanti alla sua soglia inghirlandata, su un tumulo  
+di muschio, era imbandito un festino di frutti d’[[Summer|estate]],  
+che, visti più da presso, parevano avanzi d’un pasto  
+gustato da un angelo o dalla nostra Madre Eva;  
+ché gusci vuoti erano sparsi sull’erba,  
+e raspi d’uva solo a metà spogli, e altri resti,  
+dolci d’odore, le cui pure specie non sapevo.  
+Pure v’era più abbondanza di quanta il corno favoloso,  
+tre volte vuotato, potesse versarne al banchetto  
+per Proserpina tornata ai propri campi,  
+dove muggiscono le bianche giovenche. E un appetito  
+più bramoso di quanto in terra provassi mai  
+crescendomi dentro, mangiai deliziosamente;  
+e, non molto dopo, ebbi sete, ché lì presso  
+stava un fresco vaso di trasparente succo  
+sorseggiato dall’ape smarrita, e io lo presi,  
+e, brindando a tutti i mortali del mondo  
+e a tutti i morti i cui nomi sono sulle nostre labbra,  
+bevvi. Quel sorso pieno è padre del mio tema.  
+Nessun papavero d’Asia né elisir sottile  
+del geloso Califfato presto svanito,  
+nessun [[Poison|veleno]] generato in chiusa cella monacale  
+per diradare lo scarlatto conclave dei vecchi,  
+avrebbe potuto rapire così la vita riluttante.  
+Fra le fragranti bucce e le bacche schiacciate,  
+sull’erba lottai duramente contro  
+la pozione dominatrice; ma invano:  
+venne il nuvoloso deliquio, e giù caddi  
+come un Sileno su un vaso antico.  
+Quanto dormissi, è un azzardo indovinarlo.  
+Quando il senso della vita tornò, balzai in piedi  
+come se avessi ali; ma i begli alberi erano spariti,  
+il tumulo muscoso e il pergolato non erano più:  
+mi guardai attorno sui fianchi scolpiti  
+d’un antico santuario dal tetto augusto,  
+edificato sì alto, che pareva che nubi velate  
+potessero stendersi al di sotto, come sopra le [[Stars|stelle]] del cielo;  
+tanto antico era il luogo, che nulla ricordavo  
+di simile sulla terra: quanto avevo visto  
+di grigie cattedrali, mura contraffortate, torri squarciate,  
+le vetustà di regni sommersi,  
+o le rocce della [[Nature|Natura]] travagliate da onde e venti,  
+pareva solo il difetto di cose decrepite  
+accanto a quell’eterno monumento a cupola.  
+Sul marmo, ai miei piedi, giacevano  
+una dovizia di strani vasi e ampi drappeggi,  
+che dovevano essere tessuti d’amianto tinto,  
+o in quel luogo la tignola non poteva corrompere,  
+tanto bianco era il lino, e su alcuni, così distinte  
+correvano figure d’un telaio fosco.  
+Tutto in un mucchio mescolato là giaceva confuso:  
+vesti, molle d’oro, turibolo e braciere,  
+cinture, e [[Chains|catene]], e sacre oreficerie.  
+
+Distogliendomi con timore da queste, di nuovo levai  
+gli occhi a sondare lo spazio in ogni senso;  
+il tetto sbalzato, la silenziosa massiccia fila  
+di colonne a nord e a sud, che finiva in nebbia  
+di nulla, poi a oriente, dove porte nere  
+erano chiuse per sempre contro l’aurora.  
+Poi a occidente guardai, e vidi lontano  
+un’immagine, di lineamenti enormi come una nube,  
+al livello dei cui piedi dormiva un altare,  
+da accostarsi d’ambo i lati per gradini,  
+e balaustra di marmo, e paziente travaglio  
+di contare a fatica gli innumerevoli scalini.  
+Verso l’altare andai con passo sobrio,  
+reprimendo la fretta, troppo empia là;  
+e, avvicinandomi, vidi accanto al sacrario  
+una che officiava; e sorse una fiamma.  
+Quando a metà maggio il nauseante [[Wind|vento]] d’Oriente  
+vira d’un tratto a mezzogiorno, la piccola pioggia tiepida  
+scioglie l’incenso gelato da tutti i [[Flowers|fiori]],  
+e riempie l’aria di tanta piacevole salute  
+che perfino il morente dimentica il suo sudario;  
+così quell’alto [[Fire|fuoco]] sacrificale,  
+esalando incenso di Maia, sparse attorno  
+l’oblio d’ogni cosa tranne la beatitudine,  
+e annuvolò tutto l’altare di fumo molle,  
+dalle cui bianche fragranti cortine udii così  
+pronunciare parole: ‘Se non sai salire  
+‘questi gradini, muori sul marmo dove sei.  
+‘La tua carne, cugina prossima della comune [[Dust|polvere]],  
+‘inaridirà per mancanza di nutrimento; le tue ossa  
+‘appassiranno in pochi anni, e svaniranno tanto  
+‘che neppure l’occhio più acuto troverebbe un grano  
+‘di ciò che ora sei su quel pavimento freddo.  
+‘Le sabbie della tua breve vita sono esaurite in quest’ora,  
+‘e nessuna mano nell’universo può capovolgere  
+‘la tua clessidra, se queste [[Leaves|foglie]] resinose bruceranno  
+‘prima che tu possa salire questi gradini immortali.’  
+Udii, guardai: due sensi a un tempo,  
+così fini, così sottili, sentirono la tirannia  
+di quella fiera minaccia e del duro compito proposto.  
+Prodigiosa parve la fatica, le [[Leaves|foglie]] ancora  
+bruciavano quando d’un tratto un gelo paralitico  
+salì dal livello lastricato per le mie membra,  
+e montava rapido a stringere con presa fredda  
+quei rivi che pulsano accanto alla gola:  
+gridai; e l’acuta angoscia del mio grido  
+punse i miei stessi orecchi; lottai forte per sfuggire  
+al torpore; lottai per raggiungere il gradino più basso.  
+Lento, greve, mortale era il mio passo: il freddo  
+si fece opprimente, soffocante, al cuore;  
+e quando strinsi le mani non le sentii.  
+Un minuto prima della [[Death|morte]], il mio piede ghiacciato toccò  
+il gradino più basso; e al tocco, la vita parve  
+riversarsi dentro dalle dita: salii,  
+come un tempo i begli angeli volarono su una scala  
+dal verde tappeto erboso al Cielo. ‘Santa Potenza,’  
+gridai, accostandomi al sacrario cornuto,  
+‘che sono io, per essere così salvato dalla [[Death|morte]]?  
+‘che sono io, perché un’altra [[Death|morte]] non venga  
+‘a soffocare qui la mia parola sacrilega?’  
+Allora disse la velata [[Shadow|ombra]]: ‘Hai provato  
+‘che cos’è morire e rivivere prima  
+‘dell’ora fatale. Che tu abbia avuto il potere di farlo  
+‘è la tua salvezza; hai fissato la data  
+‘della tua condanna.’ ‘Alta Profetessa,’ dissi, ‘purga via,  
+‘benigna, se così ti piace, il velo della mia mente.’  
+‘Nessuno può usurpare quest’altezza,’ replicò quell’ombra,  
+‘se non coloro ai quali le miserie del mondo  
+‘sono miseria, e non li lasciano riposare.  
+‘Tutti gli altri, che trovano un rifugio nel mondo,  
+‘dove possono spensierati [[Sleep|dormire]] via i loro giorni,  
+‘se per caso giungono in questo tempio,  
+‘marciscono sul pavimento dove tu marcisti a metà.’  
+‘Non vi sono migliaia nel mondo,’ dissi io,  
+incoraggiato dalla voce veritiera dell’ombra,  
+‘che [[Love|amano]] i loro simili fino alla [[Death|morte]];  
+‘che sentono la gigantesca agonia del mondo;  
+‘e più ancora, come schiavi della povera umanità,  
+‘faticano per il bene mortale? Certo dovrei vedere  
+‘altri uomini qui; ma io qui sono [[Alone|solo]].’  
+‘Quelli di cui parlasti non sono visionari,’  
+ribatté quella voce; ‘non sono deboli sognatori;  
+‘non cercano altra [[Wonder|meraviglia]] che il volto umano,  
+‘altra musica che una voce dalle note liete;  
+‘non vengono qui, non pensano di venire;  
+‘e tu sei qui, perché sei meno di loro:  
+‘quale beneficio puoi fare tu, o tutta la tua tribù,  
+‘al grande mondo? Tu sei una cosa che sogna,  
+‘una febbre di te stesso; pensa alla Terra;  
+‘quale beatitudine v’è per te anche nella [[Hope|speranza]]?  
+‘quale rifugio? ogni creatura ha la sua [[Home|casa]];  
+‘ogni singolo uomo ha giorni di gioia e di [[Pain|pena]],  
+‘che le sue fatiche siano [[Sublime|sublimi]] o basse;  
+‘la [[Pain|pena]] [[Alone|sola]]; la gioia [[Alone|sola]]; distinte:  
+‘solo il sognatore avvelena tutti i suoi giorni,  
+‘portando più affanno di quanto i suoi peccati meritino.  
+‘Perciò, affinché la felicità sia in parte condivisa,  
+‘cose quali tu sei vengono spesso ammesse  
+‘in giardini simili a quello che poc’anzi attraversasti,  
+‘e tollerate in questi templi: per tale ragione  
+‘tu stai salvo sotto le ginocchia di questa statua.’  
+‘Che io sia favorito per indegnità,  
+‘medicato da così propizio colloquio  
+‘in un male non ignobile, me ne rallegro,  
+‘sì, e potrei piangere per [[Love|amore]] di tale dono.’  
+Così risposi, proseguendo: ‘Se ti piace,  
+‘maestosa [[Shadow|ombra]], dimmi: certo non tutte  
+‘quelle melodie cantate all’orecchio del mondo  
+‘sono inutili: certo un poeta è un saggio;  
+‘un umanista, medico di tutti gli uomini.  
+‘Di non esserlo lo sento, come gli avvoltoi sentono  
+‘di non essere [[Birds|uccelli]] quando le aquile sono in volo.  
+‘Che sono io dunque? Parlasti della mia tribù:  
+‘quale tribù?’ L’alta ombra velata di bianco cadente  
+parlò allora tanto più fervida, che il respiro  
+mosse le sottili pieghe di lino che pendevano  
+attorno a un turibolo d’oro sospeso dalla  
+mano. ‘Non sei tu della tribù dei sognatori?  
+‘Il poeta e il sognatore sono distinti,  
+‘diversi, del tutto opposti, antipodi.  
+‘L’uno versa un balsamo sul mondo,  
+‘l’altro lo tormenta.’ Allora gridai  
+mio malgrado, e con la bile d’una Pizia:  
+‘[[Apollo]]! svanito! O [[Apollo]] volato lontano!  
+‘Dov’è la tua nebbiosa pestilenza, che strisci  
+‘nelle dimore, per le fessure delle porte  
+‘di tutti i falsi lirici, grandi adoratori di [[Self|sé]],  
+‘e sbruffoni incuranti in superbo verso cattivo.  
+‘Anche se respiro [[Death|morte]] con loro, sarà vita  
+‘vederli stramazzare davanti a me nelle fosse.  
+‘Maestosa [[Shadow|ombra]], dimmi dove sono,  
+‘di chi è quest’altare; per chi si arriccia quest’incenso;  
+‘quale immagine è questa, di cui non vedo il volto  
+‘per le larghe ginocchia di marmo; e chi sei tu,  
+‘d’accento femminile così cortese?’  
+
+Allora l’alta ombra, velata di lini cadenti,  
+parlò, tanto più fervida, che il suo respiro  
+mosse le sottili pieghe di garza che pendevano  
+attorno a un turibolo d’oro sospeso dalla sua  
+mano; e dalla voce seppi che versava  
+[[Tears|lacrime]] a lungo custodite. ‘Questo tempio, triste e solo,  
+‘è quanto fu risparmiato dal tuono d’una guerra  
+‘combattuta assai tempo fa da gigantesca gerarchia  
+‘contro la ribellione: questa vecchia immagine qui,  
+‘i cui lineamenti scolpiti si corrugarono mentre cadeva,  
+‘è di [[Saturn|Saturno]]; io Moneta, rimasta suprema  
+‘e sola sacerdotessa di questa desolazione.’  
+Non avevo parole per rispondere, ché la mia lingua,  
+inutile, non trovava nella sua [[Home|casa]] a volta  
+sillaba d’una maestà degna  
+di replicare al lutto di Moneta.  
+Vi fu un [[Silence|silenzio]], mentre la vampa dell’altare  
+languiva per dolce cibo: la guardai,  
+e guardai il pavimento, dove presso erano ammucchiati  
+fastelli di cannella, e molti mucchi  
+d’altro crespo legno di spezie; poi di nuovo  
+guardai l’altare, e i suoi corni  
+imbiancati di cenere, e la sua languida fiamma,  
+e poi di nuovo le offerte;  
+e così a vicenda, finché la triste Moneta gridò:  
+‘Il sacrificio è compiuto, ma non per questo meno  
+‘sarò benigna con te per la tua buona volontà.  
+‘Il mio potere, che per me è ancora una maledizione,  
+‘sarà per te una [[Wonder|meraviglia]]; ché le scene  
+‘che ancora svengono vivide nel mio cervello globato  
+‘con una miseria mutevole d’elettro  
+‘tu le contemplerai con quegli occhi mortali ottusi,  
+‘libero da ogni [[Pain|pena]], se la [[Wonder|meraviglia]] non ti dà [[Pain|pena]].’  
+Quanto le parole sferiche d’un’immortale  
+potessero addolcirsi in quelle d’una madre, tali furono queste ultime:  
+eppure avevo terrore delle sue vesti,  
+e soprattutto dei veli, che dalla sua fronte  
+pendevano pallidi, e la cortinavano di misteri  
+che facevano il mio cuore troppo piccolo per contenere il suo [[Blood|sangue]].  
+Ciò vide quella Dea, e con mano sacra  
+scostò i veli. Allora vidi un volto smorto,  
+non consunto da dolori umani, ma sbiancato luminoso  
+da un male immortale che non uccide;  
+esso opera un mutamento costante, cui la felice [[Death|morte]]  
+non può por fine; procedendo verso la morte  
+e a nessuna [[Death|morte]] era quel viso; aveva oltrepassato  
+il giglio e la [[Snow|neve]]; e oltre questi  
+non devo pensare ora, benché vedessi quel volto;  
+se non fosse per i suoi occhi sarei fuggito via.  
+Mi trattennero, con una luce benigna  
+mitigata dolcemente da palpebre divine  
+semichiuse, e parevano interamente prive di vista  
+d’ogni cosa esterna; non mi vedevano,  
+ma in vuoto splendore raggiavano come la mite [[Moon|luna]],  
+che consola quelli che non vede, e non sa  
+quali occhi si levino in alto. Come se avessi trovato  
+un grano d’oro sul fianco d’una montagna,  
+e punto d’avarizia avessi sforzato gli occhi  
+a frugarne le viscere cupe, ricche di minerale,  
+così alla vista della fronte di Moneta dolente  
+ardevo di vedere quali cose il cavo cervello  
+dietro racchiudesse: quale alta [[Tragedy|tragedia]]  
+nelle oscure segrete camere del suo cranio  
+si recitasse, da dare un accento così tremendo  
+alle sue labbra fredde, e riempire di tale luce  
+i suoi occhi planetari, e toccare la sua voce  
+di tale dolore. ‘Ombra della [[Memory|Memoria]]!’  
+gridai, con atto adorante ai suoi piedi,  
+‘per tutta la tenebra sospesa attorno alla tua [[house|casa]] caduta,  
+‘per quest’ultimo tempio, per l’[[Golden Age|età dell’oro]],  
+‘per il grande [[Apollo]], tuo caro [[Child|Figlio]] adottivo,  
+‘e per te stessa, divinità derelitta,  
+‘il pallido Omega d’una stirpe inaridita,  
+‘lascia che io veda, come dicesti,  
+‘ciò che nel tuo cervello così fermenta avanti e indietro!’  
+Non appena questa scongiura ebbe varcato  
+le mie labbra devote, fummo fianco a fianco  
+(come un rovo stentato presso un pino solenne)  
+nel fondo dell’ombrosa tristezza d’una valle,  
+lungi sprofondata dal sano respiro del mattino,  
+lungi dall’infuocato [[Noon|meriggio]] e dall’unica stella della sera.  
+Guardai innanzi sotto i rami tetri,  
+e vidi ciò che dapprima credetti un’immagine enorme,  
+simile all’immagine posta su piedistallo così alto  
+nel tempio di [[Saturn|Saturno]]. Poi la voce di Moneta  
+giunse breve al mio orecchio: ‘Così sedeva [[Saturn|Saturno]]  
+quando ebbe perduto i suoi regni’; al che crebbe  
+dentro di me un potere d’enorme veduta,  
+di vedere come vede un dio, e cogliere la profondità  
+delle cose con la stessa agilità con cui l’occhio esterno  
+penetra misura e forma. L’alto tema  
+a quelle poche parole pendé vasto davanti alla mia mente,  
+con la trama a metà dipanata. Mi posi  
+alla veglia d’un’aquila, per poter vedere,  
+e vedendo mai più scordare. Nessun moto di vita  
+era in quella valle avvolta d’ombra, non tant’aria  
+quanta, nel cerchio d’un giorno d’[[Summer|estate]],  
+non ruba un solo lieve seme all’erba piumata,  
+ma dove cadde la foglia morta, là restò.  
+Un ruscello passava senza voce, ancor più smorzato  
+per cagione della divinità caduta  
+che spandeva più ombra; la Naiade fra le sue canne  
+premeva più stretto il dito freddo sulle labbra.  
+Lungo la sabbia della riva andavano larghe orme,  
+non oltre il luogo dove i piedi del vecchio [[Saturn|Saturno]]  
+si erano posati, e là dormivano: che lungo [[Sleep|sonno]]!  
+Degradata, fredda, sul suolo fradicio  
+la sua vecchia destra giaceva esangue, inerte, morta,  
+senza scettro; e i suoi occhi senza regno erano chiusi,  
+mentre il capo chino pareva ascoltare la Terra,  
+sua antica madre, in cerca ancora di qualche conforto.  
+
+Pareva che nessuna forza potesse destarlo dal suo posto;  
+ma venne una che con mano consanguinea  
+toccò le sue larghe spalle, dopo essersi chinata  
+con riverenza, benché verso uno che non lo sapeva.  
+Poi venne la voce dolente di Mnemosine,  
+e dolente ascoltai. ‘Quella divinità  
+‘che vedesti muovere da quel bosco desolatissimo,  
+‘e con passo lento accostarsi al nostro [[King|Re]] caduto,  
+‘è Tea, la più mite di natura della nostra stirpe.’  
+Notai la Dea, in bella statuaria  
+superare d’un capo la smorta Moneta,  
+e nel suo dolore più vicina alle [[Tears|lacrime]] di donna.  
+Vi era una [[Fear|paura]] in ascolto nel suo sguardo,  
+come se la sciagura fosse appena cominciata;  
+come se le nubi d’avanguardia dei giorni malvagi  
+avessero speso la loro malizia, e la cupa retroguardia  
+salisse faticando col suo tuono accumulato.  
+Una mano premeva su quel punto dolente  
+dove batte il cuore umano, come se proprio lì,  
+benché immortale, sentisse crudele [[Pain|dolore]];  
+l’altra sul collo piegato di [[Saturn|Saturno]]  
+posò, e al livello del suo orecchio cavo  
+chinandosi a labbra dischiuse, disse alcune parole  
+in tenore solenne e profondo tono d’organo;  
+parole di lutto, che nella nostra fioca lingua  
+suonerebbero con questo accento; quanto fragili  
+a paragone di quel vasto proferire dei primi Dèi!  
+‘[[Saturn|Saturno]]! alza gli occhi; e a che pro, povero [[King|Re]] perduto?  
+‘Non ho conforto per te; no, non uno;  
+‘non posso gridare: perché così dormi?  
+‘Ché il Cielo s’è staccato da te, e la Terra  
+‘non ti riconosce, così afflitto, per un Dio;  
+‘e anche l’Oceano, con tutto il suo solenne fragore,  
+‘è passato dal tuo scettro, e tutta l’aria  
+‘è vuota della tua canuta maestà:  
+‘il tuo tuono, ritroso al nuovo comando,  
+‘rimbomba riluttante sulla nostra [[house|casa]] caduta;  
+‘e il tuo acuto [[Lightning|fulmine]], in mani inesperte,  
+‘arde e brucia il nostro dominio un tempo sereno.  
+‘Con tale spietata [[Speed|rapidità]] vengono sempre nuovi mali,  
+‘che l’incredulità non ha spazio per respirare.  
+‘[[Saturn|Saturno]]! [[Sleep|dormi]] ancora: sconsiderata me, perché dovrei  
+‘violare così la tua sonnolenta [[Solitude|solitudine]]?  
+‘perché dovrei aprire i tuoi occhi [[Melancholy|malinconici]]?  
+‘[[Saturn|Saturno]], [[Sleep|dormi]] ancora, mentre ai tuoi piedi io piango.’  
+
+Come quando in una rapita [[Night|notte]] d’[[Summer|estate]]  
+le foreste, coi rami incantati dalle fervide [[Stars|stelle]],  
+sognano, e così sognano tutta la [[Night|notte]] senza un rumore,  
+salvo che per una graduale solitaria folata,  
+che gonfia sul [[Silence|silenzio]]; e si spegne;  
+come se l’aria in riflusso avesse una sola onda;  
+così vennero queste parole, e andarono; mentre in [[Tears|lacrime]]  
+ella premeva la bella ampia fronte contro la terra,  
+giusto dove i capelli sciolti potessero stendere in riccioli  
+una stuoia molle e serica per i piedi di [[Saturn|Saturno]].  
+A lungo, a lungo quei due stettero immoti in posa,  
+come scultura eretta sulla [[Grave|tomba]]  
+del loro stesso potere. Per un lungo tremendo [[Time|tempo]]  
+li guardai: erano sempre gli stessi;  
+il Dio gelato ancora piegato verso terra,  
+e la triste Dea piangente ai suoi piedi,  
+Moneta silenziosa. Senza sostegno né puntello  
+se non la mia debole [[Mortality|mortalità]], portai  
+il carico di questa quiete eterna,  
+della tenebra immutabile, e le tre forme fisse  
+pesanti sui miei sensi, per un’intera [[Moon|luna]].  
+Ché col mio cervello ardente misurai sicuro  
+le sue argentee [[Seasons|stagioni]] sparse sulla [[Night|notte]],  
+e sempre, giorno dopo giorno, mi parve di farmi  
+più scarno e spettrale. Spesso pregai  
+intensamente che la [[Death|Morte]] mi togliesse dalla valle  
+e da tutti i suoi pesi; ansimando di [[Despair|disperazione]]  
+per il mutamento, ora dopo ora maledissi me stesso;  
+finché il vecchio [[Saturn|Saturno]] levò gli occhi appassiti,  
+e si guardò attorno e vide il suo regno perduto,  
+e tutta la tenebra e il dolore del luogo,  
+e quella bella Dea inginocchiata ai suoi piedi.  
+Come l’umido profumo dei [[Flowers|fiori]], dell’erba e delle [[Leaves|foglie]]  
+riempie le conche del bosco d’un’aria pervadente,  
+nota alla narice silvestre, così le parole  
+di [[Saturn|Saturno]] riempirono le muscose tenebre intorno,  
+fino ai cavi delle querce corrose dal [[Time|tempo]]  
+e agli anfratti della tana delle volpi,  
+con toni bassi e tristi, mentre così parlava, e mandava  
+strane fantasie al solitario Pan.  
+‘Gemete, fratelli, gemete; ché siamo [[Swallow|inghiottiti]]  
+‘e sepolti lungi da ogni divino esercizio  
+‘d’influsso benigno sui pallidi pianeti,  
+‘e da pacifico dominio sulla messe dell’uomo,  
+‘e da tutti quegli atti in cui la Deità suprema  
+‘sgrava il suo cuore d’[[Love|amore]]. Gemete e piangete,  
+‘gemete, fratelli, gemete; ché ecco, le sfere [[Rebel|ribelli]]  
+‘girano, le [[Stars|stelle]] serbano i loro antichi corsi,  
+‘le nubi ancora con ombrosa umidità infestano la terra,  
+‘ancora suggono la loro sazietà di luce dal sole e dalla [[Moon|luna]],  
+‘ancora germoglia l’albero, e ancora mormorano le rive del mare;  
+‘non c’è [[Death|morte]] in tutto l’Universo,  
+‘nessun odore di [[Death|morte]]; vi sarà [[Death|morte]]. Gemete, gemete,  
+‘gemi, Cibele, gemi; ché i tuoi figli perniciosi  
+‘hanno mutato un Dio in una tremante Paralisi.  
+‘Gemete, fratelli, gemete, ché non mi resta forza,  
+‘debole come la canna, debole, fioco come la mia voce;  
+‘oh, oh, la [[Pain|pena]], la [[Pain|pena]] della fiacchezza.  
+‘Gemete, gemete, ché ancora mi disciolgo; o datemi aiuto;  
+‘abbattete quei folletti, e datemi la vittoria.  
+‘Ch’io oda altri gemiti, e trombe squillanti  
+‘di trionfo calmo, e inni di festa  
+‘dalle vette d’oro delle nubi alte ammassate del Cielo;  
+‘voci di dolce proclama, e argenteo fremito  
+‘di corde in cave conchiglie; e che vi siano  
+‘cose belle rifatte nuove, per la sorpresa  
+‘dei figli del cielo.’ Così debolmente tacque,  
+con una pausa dal suono così povero e malato,  
+che mi parve d’udire qualche vecchio della terra  
+lamentare una perdita terrena; né i miei occhi  
+e i miei orecchi poterono agire in quel piacevole unisono dei sensi  
+che sposa il suono dolce con la grazia della forma,  
+e l’accento doloroso d’un’arpa tragica  
+con visioni dalle larghe membra. Più a fondo scrutai:  
+sedeva ancora immobile sotto gli alberi neri,  
+le cui braccia si spandevano sparse in selvagge forme di serpe,  
+con le [[Leaves|foglie]] tutte zittite; la sua terribile presenza là  
+(ora tutto era silenzio) dava una mortale smentita  
+a ciò che poc’anzi udii; solo le sue labbra  
+tremavano fra i bianchi riccioli della barba.  
+Esse dicevano il [[Truth|vero]], benché, intorno, le ciocche nevose  
+pendessero nobilmente, come sul volto del cielo  
+un vello di nubi meridiano. Tea si levò,  
+e tese il bianco braccio nel cavo buio,  
+additando non so dove: al che anch’egli [[Rose|si levò]]  
+come un vasto gigante, visto dagli uomini in mare  
+impallidire dalle onde nella spenta mezzanotte.  
+Si dileguarono dalla mia vista nei boschi;  
+prima ch’io potessi voltarmi, Moneta gridò: ‘Questi due  
+‘si affrettano verso le famiglie del dolore,  
+‘dove, coperti da nere rocce, si consumano, in [[Pain|pena]]  
+‘e tenebra, senza [[Hope|speranza]].’ E continuò a parlare,  
+come potete leggere voi che sapete passare instancabili  
+oltre l’anticamera di questo sogno,  
+dove anche alle porte aperte per un poco  
+devo indugiare, e spigolare la mia [[Memory|memoria]]  
+della sua alta frase: forse non oso oltre.  
+
+CANTO II  
+
+‘Mortale, perché tu possa intendere rettamente,  
+‘umanizzo i miei detti al tuo orecchio,  
+‘traendo paragoni da cose terrene;  
+‘o meglio faresti ad ascoltare il [[Wind|vento]],  
+‘la cui lingua per te è sterile rumore,  
+‘benché soffi carico di leggenda tra gli alberi.  
+‘In regni di [[Melancholy|malinconia]] si versano grandi [[Tears|lacrime]],  
+‘dolore ancora simile a questo, e affanno tale,  
+‘troppo immane per lingua mortale, o penna di scriba.  
+‘I Titani feroci, in [[Self|sé]] nascosti o avvinti in [[Prison|prigione]],  
+‘gemono ancora per l’antica fedeltà,  
+‘tendendo nella loro condanna l’orecchio alla voce di [[Saturn|Saturno]].  
+‘Ma uno solo di tutta la nostra covata d’aquile serba ancora  
+‘la sua sovranità, e il dominio, e la maestà;  
+‘fiammeggiante [[Hyperion|Iperione]] sul suo [[Fire|fuoco]] orbicolare  
+‘ancora siede, ancora fiuta l’incenso che sale a fiotti  
+‘dall’uomo al Dio del sole: e pure insicuro,  
+‘ché come sulla terra prodigi funesti  
+‘atterriscono e sgomentano, così anch’egli rabbrividisce:  
+‘non all’ululo del cane o allo strido serale dell’uccello di tenebra,  
+‘o alle consuete apparizioni di chi ritorna  
+‘al primo rintocco della sua campana a morto:  
+‘ma orrori, commisurati a un nervo di gigante,  
+‘fanno dolere il grande [[Hyperion|Iperione]]. Il suo palazzo lucente,  
+‘bastionato di piramidi d’oro incandescente,  
+‘e sfiorato d’ombra da obelischi bronzei,  
+‘avvampa d’un rosso [[Blood|sangue]] per tutte le mille corti,  
+‘archi, e cupole, e gallerie di fuoco:  
+‘e tutte le sue cortine di nubi aurorali  
+‘s’accendono d’ira; e quando vorrebbe gustare le ghirlande  
+‘d’incenso esalate in alto dai colli sacri,  
+‘invece di dolcezze il suo ampio palato riceve  
+‘sapore di bronzo velenoso e di metalli malati.  
+‘Perciò, quando ha preso porto nell’Occidente sonnolento,  
+‘dopo il pieno compimento del bel giorno,  
+‘per il riposo divino su giaciglio sublime  
+‘e il sonno fra le braccia della melodia,  
+‘egli percorre le ore soavi dell’agio  
+‘con passi colossali, avanti di sala in sala;  
+‘mentre in fondo a ogni navata e a ogni profondo recesso  
+‘i suoi alati famigli stanno in fitti grappoli  
+‘attoniti, e pieni di [[Fear|paura]]; come uomini ansiosi,  
+‘che in una vasta pianura si adunano in mesti drappelli,  
+‘quando i terremoti scuotono i loro spalti e le torri.  
+‘Anche ora, mentre [[Saturn|Saturno]], destato dal gelido torpore,  
+‘muove passo a passo con Tea da quei boschi,  
+‘[[Hyperion|Iperione]], lasciandosi alle spalle il crepuscolo,  
+‘declina verso la soglia dell’Occidente.  
+‘Là siamo diretti.’ Ora stavo in chiara luce,  
+liberato dalla valle oscura. Mnemosine  
+sedeva su una pietra levigata dagli orli squadrati,  
+che nella sua lucida profondità rifletteva limpide  
+le sue vesti di sacerdotessa. I miei occhi rapidi corsero  
+da maestosa navata a navata, da volta a volta,  
+per pergole di luce fragrante e inghirlandata  
+e lunghe arcate lucenti lastricate di diamante.  
+D’un tratto passò come folgore il fulgido [[Hyperion|Iperione]];  
+le sue vesti fiammanti fluivano oltre i suoi talloni,  
+e davano un ruggito, come di [[Fire|fuoco]] terreno,  
+che fugò atterrite le miti ore eteree  
+e fece tremare le loro ali di colomba. E avvampando andò.
+
 
 
 <span class="atom-split" data-atom="section_01_canto_i" data-title="The Fall of Hyperion — Canto I" data-chapter="canto i" data-kind="section" data-tags="topos/golden_age,archetype/child,archetype/king,archetype/rebel,archetype/shadow,motif/bells,motif/birds,motif/blood,motif/chains,motif/death,motif/dreams,motif/dust,motif/fire,motif/flowers,motif/grave,motif/home,motif/leaves,motif/lightning,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/noon,motif/pain,motif/poison,motif/rose,motif/seasons,motif/silence,motif/sleep,motif/snow,motif/soul,motif/stars,motif/summer,motif/swallow,motif/tears,motif/time,motif/well,motif/wind,concept/despair,concept/fear,concept/hope,concept/imagination,concept/melancholy,concept/mortality,concept/nature,concept/self,concept/solitude,concept/sublime,concept/truth,concept/wonder,form/tragedy,character/apollo,character/hyperion,character/saturn,character/speed"></span>
@@ -1039,6 +1583,484 @@ I must delay, and glean my [[Memory|memory]]
 Of her high phrase: perhaps no further dare.  
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CANTO I  
+
+I fanatici hanno i loro [[Dreams|sogni]], con cui tessono  
+un paradiso per una setta; anche il selvaggio,  
+dalla più alta foggia del suo [[Sleep|sonno]],  
+indovina il Cielo; peccato che costoro non abbiano  
+tracciato su pergamena o su selvatica foglia indiana  
+le ombre di una melodiosa parola.  
+Ma spogli d’alloro vivono, sognano e muoiono;  
+ché la Poesia [[Alone|sola]] sa dire i suoi [[Dreams|sogni]],  
+e col sottile incanto delle parole [[Alone|soltanto]] può salvare  
+l’[[Imagination|Immaginazione]] dal nero incantesimo  
+e dal muto sortilegio. Chi, vivo, può dire:  
+‘Non sei Poeta, non puoi dire i tuoi [[Dreams|sogni]]?’  
+Poiché ogni uomo la cui [[Soul|anima]] non sia una zolla  
+ha visioni, e parlerebbe, se avesse amato  
+e fosse stato [[Well|bene]] nutrito nella lingua materna.  
+Se il sogno che ora mi propongo di narrare  
+sia di poeta o di fanatico, si saprà  
+quando questo caldo scriba, la mia mano, sarà nella [[Grave|tomba]].  
+
+Mi parve di stare dove alberi d’ogni clima,  
+palma, mirto, quercia, sicomoro e faggio,  
+col platano e i fiori di spezie, facevano schermo;  
+vicino a fontane, per il rumore  
+che pioveva soave nei miei orecchi, e, al tocco  
+dell’odore, non lungi dalle rose. Voltandomi  
+vidi un pergolato dal tetto ricadente  
+di viti a graticcio, e [[Bells|campanule]], e fiori più larghi,  
+come turiboli floreali oscillanti lievi nell’aria;  
+davanti alla sua soglia inghirlandata, su un tumulo  
+di muschio, era imbandito un festino di frutti d’[[Summer|estate]],  
+che, visti più da presso, parevano avanzi d’un pasto  
+gustato da un angelo o dalla nostra Madre Eva;  
+ché gusci vuoti erano sparsi sull’erba,  
+e raspi d’uva solo a metà spogli, e altri resti,  
+dolci d’odore, le cui pure specie non sapevo.  
+Pure v’era più abbondanza di quanta il corno favoloso,  
+tre volte vuotato, potesse versarne al banchetto  
+per Proserpina tornata ai propri campi,  
+dove muggiscono le bianche giovenche. E un appetito  
+più bramoso di quanto in terra provassi mai  
+crescendomi dentro, mangiai deliziosamente;  
+e, non molto dopo, ebbi sete, ché lì presso  
+stava un fresco vaso di trasparente succo  
+sorseggiato dall’ape smarrita, e io lo presi,  
+e, brindando a tutti i mortali del mondo  
+e a tutti i morti i cui nomi sono sulle nostre labbra,  
+bevvi. Quel sorso pieno è padre del mio tema.  
+Nessun papavero d’Asia né elisir sottile  
+del geloso Califfato presto svanito,  
+nessun [[Poison|veleno]] generato in chiusa cella monacale  
+per diradare lo scarlatto conclave dei vecchi,  
+avrebbe potuto rapire così la vita riluttante.  
+Fra le fragranti bucce e le bacche schiacciate,  
+sull’erba lottai duramente contro  
+la pozione dominatrice; ma invano:  
+venne il nuvoloso deliquio, e giù caddi  
+come un Sileno su un vaso antico.  
+Quanto dormissi, è un azzardo indovinarlo.  
+Quando il senso della vita tornò, balzai in piedi  
+come se avessi ali; ma i begli alberi erano spariti,  
+il tumulo muscoso e il pergolato non erano più:  
+mi guardai attorno sui fianchi scolpiti  
+d’un antico santuario dal tetto augusto,  
+edificato sì alto, che pareva che nubi velate  
+potessero stendersi al di sotto, come sopra le [[Stars|stelle]] del cielo;  
+tanto antico era il luogo, che nulla ricordavo  
+di simile sulla terra: quanto avevo visto  
+di grigie cattedrali, mura contraffortate, torri squarciate,  
+le vetustà di regni sommersi,  
+o le rocce della [[Nature|Natura]] travagliate da onde e venti,  
+pareva solo il difetto di cose decrepite  
+accanto a quell’eterno monumento a cupola.  
+Sul marmo, ai miei piedi, giacevano  
+una dovizia di strani vasi e ampi drappeggi,  
+che dovevano essere tessuti d’amianto tinto,  
+o in quel luogo la tignola non poteva corrompere,  
+tanto bianco era il lino, e su alcuni, così distinte  
+correvano figure d’un telaio fosco.  
+Tutto in un mucchio mescolato là giaceva confuso:  
+vesti, molle d’oro, turibolo e braciere,  
+cinture, e [[Chains|catene]], e sacre oreficerie.  
+
+Distogliendomi con timore da queste, di nuovo levai  
+gli occhi a sondare lo spazio in ogni senso;  
+il tetto sbalzato, la silenziosa massiccia fila  
+di colonne a nord e a sud, che finiva in nebbia  
+di nulla, poi a oriente, dove porte nere  
+erano chiuse per sempre contro l’aurora.  
+Poi a occidente guardai, e vidi lontano  
+un’immagine, di lineamenti enormi come una nube,  
+al livello dei cui piedi dormiva un altare,  
+da accostarsi d’ambo i lati per gradini,  
+e balaustra di marmo, e paziente travaglio  
+di contare a fatica gli innumerevoli scalini.  
+Verso l’altare andai con passo sobrio,  
+reprimendo la fretta, troppo empia là;  
+e, avvicinandomi, vidi accanto al sacrario  
+una che officiava; e sorse una fiamma.  
+Quando a metà maggio il nauseante [[Wind|vento]] d’Oriente  
+vira d’un tratto a mezzogiorno, la piccola pioggia tiepida  
+scioglie l’incenso gelato da tutti i [[Flowers|fiori]],  
+e riempie l’aria di tanta piacevole salute  
+che perfino il morente dimentica il suo sudario;  
+così quell’alto [[Fire|fuoco]] sacrificale,  
+esalando incenso di Maia, sparse attorno  
+l’oblio d’ogni cosa tranne la beatitudine,  
+e annuvolò tutto l’altare di fumo molle,  
+dalle cui bianche fragranti cortine udii così  
+pronunciare parole: ‘Se non sai salire  
+‘questi gradini, muori sul marmo dove sei.  
+‘La tua carne, cugina prossima della comune [[Dust|polvere]],  
+‘inaridirà per mancanza di nutrimento; le tue ossa  
+‘appassiranno in pochi anni, e svaniranno tanto  
+‘che neppure l’occhio più acuto troverebbe un grano  
+‘di ciò che ora sei su quel pavimento freddo.  
+‘Le sabbie della tua breve vita sono esaurite in quest’ora,  
+‘e nessuna mano nell’universo può capovolgere  
+‘la tua clessidra, se queste [[Leaves|foglie]] resinose bruceranno  
+‘prima che tu possa salire questi gradini immortali.’  
+Udii, guardai: due sensi a un tempo,  
+così fini, così sottili, sentirono la tirannia  
+di quella fiera minaccia e del duro compito proposto.  
+Prodigiosa parve la fatica, le [[Leaves|foglie]] ancora  
+bruciavano quando d’un tratto un gelo paralitico  
+salì dal livello lastricato per le mie membra,  
+e montava rapido a stringere con presa fredda  
+quei rivi che pulsano accanto alla gola:  
+gridai; e l’acuta angoscia del mio grido  
+punse i miei stessi orecchi; lottai forte per sfuggire  
+al torpore; lottai per raggiungere il gradino più basso.  
+Lento, greve, mortale era il mio passo: il freddo  
+si fece opprimente, soffocante, al cuore;  
+e quando strinsi le mani non le sentii.  
+Un minuto prima della [[Death|morte]], il mio piede ghiacciato toccò  
+il gradino più basso; e al tocco, la vita parve  
+riversarsi dentro dalle dita: salii,  
+come un tempo i begli angeli volarono su una scala  
+dal verde tappeto erboso al Cielo. ‘Santa Potenza,’  
+gridai, accostandomi al sacrario cornuto,  
+‘che sono io, per essere così salvato dalla [[Death|morte]]?  
+‘che sono io, perché un’altra [[Death|morte]] non venga  
+‘a soffocare qui la mia parola sacrilega?’  
+Allora disse la velata [[Shadow|ombra]]: ‘Hai provato  
+‘che cos’è morire e rivivere prima  
+‘dell’ora fatale. Che tu abbia avuto il potere di farlo  
+‘è la tua salvezza; hai fissato la data  
+‘della tua condanna.’ ‘Alta Profetessa,’ dissi, ‘purga via,  
+‘benigna, se così ti piace, il velo della mia mente.’  
+‘Nessuno può usurpare quest’altezza,’ replicò quell’ombra,  
+‘se non coloro ai quali le miserie del mondo  
+‘sono miseria, e non li lasciano riposare.  
+‘Tutti gli altri, che trovano un rifugio nel mondo,  
+‘dove possono spensierati [[Sleep|dormire]] via i loro giorni,  
+‘se per caso giungono in questo tempio,  
+‘marciscono sul pavimento dove tu marcisti a metà.’  
+‘Non vi sono migliaia nel mondo,’ dissi io,  
+incoraggiato dalla voce veritiera dell’ombra,  
+‘che [[Love|amano]] i loro simili fino alla [[Death|morte]];  
+‘che sentono la gigantesca agonia del mondo;  
+‘e più ancora, come schiavi della povera umanità,  
+‘faticano per il bene mortale? Certo dovrei vedere  
+‘altri uomini qui; ma io qui sono [[Alone|solo]].’  
+‘Quelli di cui parlasti non sono visionari,’  
+ribatté quella voce; ‘non sono deboli sognatori;  
+‘non cercano altra [[Wonder|meraviglia]] che il volto umano,  
+‘altra musica che una voce dalle note liete;  
+‘non vengono qui, non pensano di venire;  
+‘e tu sei qui, perché sei meno di loro:  
+‘quale beneficio puoi fare tu, o tutta la tua tribù,  
+‘al grande mondo? Tu sei una cosa che sogna,  
+‘una febbre di te stesso; pensa alla Terra;  
+‘quale beatitudine v’è per te anche nella [[Hope|speranza]]?  
+‘quale rifugio? ogni creatura ha la sua [[Home|casa]];  
+‘ogni singolo uomo ha giorni di gioia e di [[Pain|pena]],  
+‘che le sue fatiche siano [[Sublime|sublimi]] o basse;  
+‘la [[Pain|pena]] [[Alone|sola]]; la gioia [[Alone|sola]]; distinte:  
+‘solo il sognatore avvelena tutti i suoi giorni,  
+‘portando più affanno di quanto i suoi peccati meritino.  
+‘Perciò, affinché la felicità sia in parte condivisa,  
+‘cose quali tu sei vengono spesso ammesse  
+‘in giardini simili a quello che poc’anzi attraversasti,  
+‘e tollerate in questi templi: per tale ragione  
+‘tu stai salvo sotto le ginocchia di questa statua.’  
+‘Che io sia favorito per indegnità,  
+‘medicato da così propizio colloquio  
+‘in un male non ignobile, me ne rallegro,  
+‘sì, e potrei piangere per [[Love|amore]] di tale dono.’  
+Così risposi, proseguendo: ‘Se ti piace,  
+‘maestosa [[Shadow|ombra]], dimmi: certo non tutte  
+‘quelle melodie cantate all’orecchio del mondo  
+‘sono inutili: certo un poeta è un saggio;  
+‘un umanista, medico di tutti gli uomini.  
+‘Di non esserlo lo sento, come gli avvoltoi sentono  
+‘di non essere [[Birds|uccelli]] quando le aquile sono in volo.  
+‘Che sono io dunque? Parlasti della mia tribù:  
+‘quale tribù?’ L’alta ombra velata di bianco cadente  
+parlò allora tanto più fervida, che il respiro  
+mosse le sottili pieghe di lino che pendevano  
+attorno a un turibolo d’oro sospeso dalla  
+mano. ‘Non sei tu della tribù dei sognatori?  
+‘Il poeta e il sognatore sono distinti,  
+‘diversi, del tutto opposti, antipodi.  
+‘L’uno versa un balsamo sul mondo,  
+‘l’altro lo tormenta.’ Allora gridai  
+mio malgrado, e con la bile d’una Pizia:  
+‘[[Apollo]]! svanito! O [[Apollo]] volato lontano!  
+‘Dov’è la tua nebbiosa pestilenza, che strisci  
+‘nelle dimore, per le fessure delle porte  
+‘di tutti i falsi lirici, grandi adoratori di [[Self|sé]],  
+‘e sbruffoni incuranti in superbo verso cattivo.  
+‘Anche se respiro [[Death|morte]] con loro, sarà vita  
+‘vederli stramazzare davanti a me nelle fosse.  
+‘Maestosa [[Shadow|ombra]], dimmi dove sono,  
+‘di chi è quest’altare; per chi si arriccia quest’incenso;  
+‘quale immagine è questa, di cui non vedo il volto  
+‘per le larghe ginocchia di marmo; e chi sei tu,  
+‘d’accento femminile così cortese?’  
+
+Allora l’alta ombra, velata di lini cadenti,  
+parlò, tanto più fervida, che il suo respiro  
+mosse le sottili pieghe di garza che pendevano  
+attorno a un turibolo d’oro sospeso dalla sua  
+mano; e dalla voce seppi che versava  
+[[Tears|lacrime]] a lungo custodite. ‘Questo tempio, triste e solo,  
+‘è quanto fu risparmiato dal tuono d’una guerra  
+‘combattuta assai tempo fa da gigantesca gerarchia  
+‘contro la ribellione: questa vecchia immagine qui,  
+‘i cui lineamenti scolpiti si corrugarono mentre cadeva,  
+‘è di [[Saturn|Saturno]]; io Moneta, rimasta suprema  
+‘e sola sacerdotessa di questa desolazione.’  
+Non avevo parole per rispondere, ché la mia lingua,  
+inutile, non trovava nella sua [[Home|casa]] a volta  
+sillaba d’una maestà degna  
+di replicare al lutto di Moneta.  
+Vi fu un [[Silence|silenzio]], mentre la vampa dell’altare  
+languiva per dolce cibo: la guardai,  
+e guardai il pavimento, dove presso erano ammucchiati  
+fastelli di cannella, e molti mucchi  
+d’altro crespo legno di spezie; poi di nuovo  
+guardai l’altare, e i suoi corni  
+imbiancati di cenere, e la sua languida fiamma,  
+e poi di nuovo le offerte;  
+e così a vicenda, finché la triste Moneta gridò:  
+‘Il sacrificio è compiuto, ma non per questo meno  
+‘sarò benigna con te per la tua buona volontà.  
+‘Il mio potere, che per me è ancora una maledizione,  
+‘sarà per te una [[Wonder|meraviglia]]; ché le scene  
+‘che ancora svengono vivide nel mio cervello globato  
+‘con una miseria mutevole d’elettro  
+‘tu le contemplerai con quegli occhi mortali ottusi,  
+‘libero da ogni [[Pain|pena]], se la [[Wonder|meraviglia]] non ti dà [[Pain|pena]].’  
+Quanto le parole sferiche d’un’immortale  
+potessero addolcirsi in quelle d’una madre, tali furono queste ultime:  
+eppure avevo terrore delle sue vesti,  
+e soprattutto dei veli, che dalla sua fronte  
+pendevano pallidi, e la cortinavano di misteri  
+che facevano il mio cuore troppo piccolo per contenere il suo [[Blood|sangue]].  
+Ciò vide quella Dea, e con mano sacra  
+scostò i veli. Allora vidi un volto smorto,  
+non consunto da dolori umani, ma sbiancato luminoso  
+da un male immortale che non uccide;  
+esso opera un mutamento costante, cui la felice [[Death|morte]]  
+non può por fine; procedendo verso la morte  
+e a nessuna [[Death|morte]] era quel viso; aveva oltrepassato  
+il giglio e la [[Snow|neve]]; e oltre questi  
+non devo pensare ora, benché vedessi quel volto;  
+se non fosse per i suoi occhi sarei fuggito via.  
+Mi trattennero, con una luce benigna  
+mitigata dolcemente da palpebre divine  
+semichiuse, e parevano interamente prive di vista  
+d’ogni cosa esterna; non mi vedevano,  
+ma in vuoto splendore raggiavano come la mite [[Moon|luna]],  
+che consola quelli che non vede, e non sa  
+quali occhi si levino in alto. Come se avessi trovato  
+un grano d’oro sul fianco d’una montagna,  
+e punto d’avarizia avessi sforzato gli occhi  
+a frugarne le viscere cupe, ricche di minerale,  
+così alla vista della fronte di Moneta dolente  
+ardevo di vedere quali cose il cavo cervello  
+dietro racchiudesse: quale alta [[Tragedy|tragedia]]  
+nelle oscure segrete camere del suo cranio  
+si recitasse, da dare un accento così tremendo  
+alle sue labbra fredde, e riempire di tale luce  
+i suoi occhi planetari, e toccare la sua voce  
+di tale dolore. ‘Ombra della [[Memory|Memoria]]!’  
+gridai, con atto adorante ai suoi piedi,  
+‘per tutta la tenebra sospesa attorno alla tua [[house|casa]] caduta,  
+‘per quest’ultimo tempio, per l’[[Golden Age|età dell’oro]],  
+‘per il grande [[Apollo]], tuo caro [[Child|Figlio]] adottivo,  
+‘e per te stessa, divinità derelitta,  
+‘il pallido Omega d’una stirpe inaridita,  
+‘lascia che io veda, come dicesti,  
+‘ciò che nel tuo cervello così fermenta avanti e indietro!’  
+Non appena questa scongiura ebbe varcato  
+le mie labbra devote, fummo fianco a fianco  
+(come un rovo stentato presso un pino solenne)  
+nel fondo dell’ombrosa tristezza d’una valle,  
+lungi sprofondata dal sano respiro del mattino,  
+lungi dall’infuocato [[Noon|meriggio]] e dall’unica stella della sera.  
+Guardai innanzi sotto i rami tetri,  
+e vidi ciò che dapprima credetti un’immagine enorme,  
+simile all’immagine posta su piedistallo così alto  
+nel tempio di [[Saturn|Saturno]]. Poi la voce di Moneta  
+giunse breve al mio orecchio: ‘Così sedeva [[Saturn|Saturno]]  
+quando ebbe perduto i suoi regni’; al che crebbe  
+dentro di me un potere d’enorme veduta,  
+di vedere come vede un dio, e cogliere la profondità  
+delle cose con la stessa agilità con cui l’occhio esterno  
+penetra misura e forma. L’alto tema  
+a quelle poche parole pendé vasto davanti alla mia mente,  
+con la trama a metà dipanata. Mi posi  
+alla veglia d’un’aquila, per poter vedere,  
+e vedendo mai più scordare. Nessun moto di vita  
+era in quella valle avvolta d’ombra, non tant’aria  
+quanta, nel cerchio d’un giorno d’[[Summer|estate]],  
+non ruba un solo lieve seme all’erba piumata,  
+ma dove cadde la foglia morta, là restò.  
+Un ruscello passava senza voce, ancor più smorzato  
+per cagione della divinità caduta  
+che spandeva più ombra; la Naiade fra le sue canne  
+premeva più stretto il dito freddo sulle labbra.  
+Lungo la sabbia della riva andavano larghe orme,  
+non oltre il luogo dove i piedi del vecchio [[Saturn|Saturno]]  
+si erano posati, e là dormivano: che lungo [[Sleep|sonno]]!  
+Degradata, fredda, sul suolo fradicio  
+la sua vecchia destra giaceva esangue, inerte, morta,  
+senza scettro; e i suoi occhi senza regno erano chiusi,  
+mentre il capo chino pareva ascoltare la Terra,  
+sua antica madre, in cerca ancora di qualche conforto.  
+
+Pareva che nessuna forza potesse destarlo dal suo posto;  
+ma venne una che con mano consanguinea  
+toccò le sue larghe spalle, dopo essersi chinata  
+con riverenza, benché verso uno che non lo sapeva.  
+Poi venne la voce dolente di Mnemosine,  
+e dolente ascoltai. ‘Quella divinità  
+‘che vedesti muovere da quel bosco desolatissimo,  
+‘e con passo lento accostarsi al nostro [[King|Re]] caduto,  
+‘è Tea, la più mite di natura della nostra stirpe.’  
+Notai la Dea, in bella statuaria  
+superare d’un capo la smorta Moneta,  
+e nel suo dolore più vicina alle [[Tears|lacrime]] di donna.  
+Vi era una [[Fear|paura]] in ascolto nel suo sguardo,  
+come se la sciagura fosse appena cominciata;  
+come se le nubi d’avanguardia dei giorni malvagi  
+avessero speso la loro malizia, e la cupa retroguardia  
+salisse faticando col suo tuono accumulato.  
+Una mano premeva su quel punto dolente  
+dove batte il cuore umano, come se proprio lì,  
+benché immortale, sentisse crudele [[Pain|dolore]];  
+l’altra sul collo piegato di [[Saturn|Saturno]]  
+posò, e al livello del suo orecchio cavo  
+chinandosi a labbra dischiuse, disse alcune parole  
+in tenore solenne e profondo tono d’organo;  
+parole di lutto, che nella nostra fioca lingua  
+suonerebbero con questo accento; quanto fragili  
+a paragone di quel vasto proferire dei primi Dèi!  
+‘[[Saturn|Saturno]]! alza gli occhi; e a che pro, povero [[King|Re]] perduto?  
+‘Non ho conforto per te; no, non uno;  
+‘non posso gridare: perché così dormi?  
+‘Ché il Cielo s’è staccato da te, e la Terra  
+‘non ti riconosce, così afflitto, per un Dio;  
+‘e anche l’Oceano, con tutto il suo solenne fragore,  
+‘è passato dal tuo scettro, e tutta l’aria  
+‘è vuota della tua canuta maestà:  
+‘il tuo tuono, ritroso al nuovo comando,  
+‘rimbomba riluttante sulla nostra [[house|casa]] caduta;  
+‘e il tuo acuto [[Lightning|fulmine]], in mani inesperte,  
+‘arde e brucia il nostro dominio un tempo sereno.  
+‘Con tale spietata [[Speed|rapidità]] vengono sempre nuovi mali,  
+‘che l’incredulità non ha spazio per respirare.  
+‘[[Saturn|Saturno]]! [[Sleep|dormi]] ancora: sconsiderata me, perché dovrei  
+‘violare così la tua sonnolenta [[Solitude|solitudine]]?  
+‘perché dovrei aprire i tuoi occhi [[Melancholy|malinconici]]?  
+‘[[Saturn|Saturno]], [[Sleep|dormi]] ancora, mentre ai tuoi piedi io piango.’  
+
+Come quando in una rapita [[Night|notte]] d’[[Summer|estate]]  
+le foreste, coi rami incantati dalle fervide [[Stars|stelle]],  
+sognano, e così sognano tutta la [[Night|notte]] senza un rumore,  
+salvo che per una graduale solitaria folata,  
+che gonfia sul [[Silence|silenzio]]; e si spegne;  
+come se l’aria in riflusso avesse una sola onda;  
+così vennero queste parole, e andarono; mentre in [[Tears|lacrime]]  
+ella premeva la bella ampia fronte contro la terra,  
+giusto dove i capelli sciolti potessero stendere in riccioli  
+una stuoia molle e serica per i piedi di [[Saturn|Saturno]].  
+A lungo, a lungo quei due stettero immoti in posa,  
+come scultura eretta sulla [[Grave|tomba]]  
+del loro stesso potere. Per un lungo tremendo [[Time|tempo]]  
+li guardai: erano sempre gli stessi;  
+il Dio gelato ancora piegato verso terra,  
+e la triste Dea piangente ai suoi piedi,  
+Moneta silenziosa. Senza sostegno né puntello  
+se non la mia debole [[Mortality|mortalità]], portai  
+il carico di questa quiete eterna,  
+della tenebra immutabile, e le tre forme fisse  
+pesanti sui miei sensi, per un’intera [[Moon|luna]].  
+Ché col mio cervello ardente misurai sicuro  
+le sue argentee [[Seasons|stagioni]] sparse sulla [[Night|notte]],  
+e sempre, giorno dopo giorno, mi parve di farmi  
+più scarno e spettrale. Spesso pregai  
+intensamente che la [[Death|Morte]] mi togliesse dalla valle  
+e da tutti i suoi pesi; ansimando di [[Despair|disperazione]]  
+per il mutamento, ora dopo ora maledissi me stesso;  
+finché il vecchio [[Saturn|Saturno]] levò gli occhi appassiti,  
+e si guardò attorno e vide il suo regno perduto,  
+e tutta la tenebra e il dolore del luogo,  
+e quella bella Dea inginocchiata ai suoi piedi.  
+Come l’umido profumo dei [[Flowers|fiori]], dell’erba e delle [[Leaves|foglie]]  
+riempie le conche del bosco d’un’aria pervadente,  
+nota alla narice silvestre, così le parole  
+di [[Saturn|Saturno]] riempirono le muscose tenebre intorno,  
+fino ai cavi delle querce corrose dal [[Time|tempo]]  
+e agli anfratti della tana delle volpi,  
+con toni bassi e tristi, mentre così parlava, e mandava  
+strane fantasie al solitario Pan.  
+‘Gemete, fratelli, gemete; ché siamo [[Swallow|inghiottiti]]  
+‘e sepolti lungi da ogni divino esercizio  
+‘d’influsso benigno sui pallidi pianeti,  
+‘e da pacifico dominio sulla messe dell’uomo,  
+‘e da tutti quegli atti in cui la Deità suprema  
+‘sgrava il suo cuore d’[[Love|amore]]. Gemete e piangete,  
+‘gemete, fratelli, gemete; ché ecco, le sfere [[Rebel|ribelli]]  
+‘girano, le [[Stars|stelle]] serbano i loro antichi corsi,  
+‘le nubi ancora con ombrosa umidità infestano la terra,  
+‘ancora suggono la loro sazietà di luce dal sole e dalla [[Moon|luna]],  
+‘ancora germoglia l’albero, e ancora mormorano le rive del mare;  
+‘non c’è [[Death|morte]] in tutto l’Universo,  
+‘nessun odore di [[Death|morte]]; vi sarà [[Death|morte]]. Gemete, gemete,  
+‘gemi, Cibele, gemi; ché i tuoi figli perniciosi  
+‘hanno mutato un Dio in una tremante Paralisi.  
+‘Gemete, fratelli, gemete, ché non mi resta forza,  
+‘debole come la canna, debole, fioco come la mia voce;  
+‘oh, oh, la [[Pain|pena]], la [[Pain|pena]] della fiacchezza.  
+‘Gemete, gemete, ché ancora mi disciolgo; o datemi aiuto;  
+‘abbattete quei folletti, e datemi la vittoria.  
+‘Ch’io oda altri gemiti, e trombe squillanti  
+‘di trionfo calmo, e inni di festa  
+‘dalle vette d’oro delle nubi alte ammassate del Cielo;  
+‘voci di dolce proclama, e argenteo fremito  
+‘di corde in cave conchiglie; e che vi siano  
+‘cose belle rifatte nuove, per la sorpresa  
+‘dei figli del cielo.’ Così debolmente tacque,  
+con una pausa dal suono così povero e malato,  
+che mi parve d’udire qualche vecchio della terra  
+lamentare una perdita terrena; né i miei occhi  
+e i miei orecchi poterono agire in quel piacevole unisono dei sensi  
+che sposa il suono dolce con la grazia della forma,  
+e l’accento doloroso d’un’arpa tragica  
+con visioni dalle larghe membra. Più a fondo scrutai:  
+sedeva ancora immobile sotto gli alberi neri,  
+le cui braccia si spandevano sparse in selvagge forme di serpe,  
+con le [[Leaves|foglie]] tutte zittite; la sua terribile presenza là  
+(ora tutto era silenzio) dava una mortale smentita  
+a ciò che poc’anzi udii; solo le sue labbra  
+tremavano fra i bianchi riccioli della barba.  
+Esse dicevano il [[Truth|vero]], benché, intorno, le ciocche nevose  
+pendessero nobilmente, come sul volto del cielo  
+un vello di nubi meridiano. Tea si levò,  
+e tese il bianco braccio nel cavo buio,  
+additando non so dove: al che anch’egli [[Rose|si levò]]  
+come un vasto gigante, visto dagli uomini in mare  
+impallidire dalle onde nella spenta mezzanotte.  
+Si dileguarono dalla mia vista nei boschi;  
+prima ch’io potessi voltarmi, Moneta gridò: ‘Questi due  
+‘si affrettano verso le famiglie del dolore,  
+‘dove, coperti da nere rocce, si consumano, in [[Pain|pena]]  
+‘e tenebra, senza [[Hope|speranza]].’ E continuò a parlare,  
+come potete leggere voi che sapete passare instancabili  
+oltre l’anticamera di questo sogno,  
+dove anche alle porte aperte per un poco  
+devo indugiare, e spigolare la mia [[Memory|memoria]]  
+della sua alta frase: forse non oso oltre.
+
 
 
 <span class="atom-split" data-atom="section_02_canto_ii" data-title="The Fall of Hyperion — Canto II" data-chapter="canto II" data-kind="section" data-tags="motif/blood,motif/fire,motif/prison,motif/tears,motif/wind,concept/fear,concept/melancholy,concept/self,character/hyperion,character/saturn"></span>
@@ -1107,3 +2129,70 @@ His flaming robes stream’d out beyond his heels,
 And gave a roar, as if of earthly [[Fire|fire]],  
 That scared away the meek ethereal hours  
 And made their dove wings tremble. On he flared.  
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+CANTO II  
+
+‘Mortale, perché tu possa intendere rettamente,  
+‘umanizzo i miei detti al tuo orecchio,  
+‘traendo paragoni da cose terrene;  
+‘o meglio faresti ad ascoltare il [[Wind|vento]],  
+‘la cui lingua per te è sterile rumore,  
+‘benché soffi carico di leggenda tra gli alberi.  
+‘In regni di [[Melancholy|malinconia]] si versano grandi [[Tears|lacrime]],  
+‘dolore ancora simile a questo, e affanno tale,  
+‘troppo immane per lingua mortale, o penna di scriba.  
+‘I Titani feroci, in [[Self|sé]] nascosti o avvinti in [[Prison|prigione]],  
+‘gemono ancora per l’antica fedeltà,  
+‘tendendo nella loro condanna l’orecchio alla voce di [[Saturn|Saturno]].  
+‘Ma uno solo di tutta la nostra covata d’aquile serba ancora  
+‘la sua sovranità, e il dominio, e la maestà;  
+‘fiammeggiante [[Hyperion|Iperione]] sul suo [[Fire|fuoco]] orbicolare  
+‘ancora siede, ancora fiuta l’incenso che sale a fiotti  
+‘dall’uomo al Dio del sole: e pure insicuro,  
+‘ché come sulla terra prodigi funesti  
+‘atterriscono e sgomentano, così anch’egli rabbrividisce:  
+‘non all’ululo del cane o allo strido serale dell’uccello di tenebra,  
+‘o alle consuete apparizioni di chi ritorna  
+‘al primo rintocco della sua campana a morto:  
+‘ma orrori, commisurati a un nervo di gigante,  
+‘fanno dolere il grande [[Hyperion|Iperione]]. Il suo palazzo lucente,  
+‘bastionato di piramidi d’oro incandescente,  
+‘e sfiorato d’ombra da obelischi bronzei,  
+‘avvampa d’un rosso [[Blood|sangue]] per tutte le mille corti,  
+‘archi, e cupole, e gallerie di fuoco:  
+‘e tutte le sue cortine di nubi aurorali  
+‘s’accendono d’ira; e quando vorrebbe gustare le ghirlande  
+‘d’incenso esalate in alto dai colli sacri,  
+‘invece di dolcezze il suo ampio palato riceve  
+‘sapore di bronzo velenoso e di metalli malati.  
+‘Perciò, quando ha preso porto nell’Occidente sonnolento,  
+‘dopo il pieno compimento del bel giorno,  
+‘per il riposo divino su giaciglio sublime  
+‘e il sonno fra le braccia della melodia,  
+‘egli percorre le ore soavi dell’agio  
+‘con passi colossali, avanti di sala in sala;  
+‘mentre in fondo a ogni navata e a ogni profondo recesso  
+‘i suoi alati famigli stanno in fitti grappoli  
+‘attoniti, e pieni di [[Fear|paura]]; come uomini ansiosi,  
+‘che in una vasta pianura si adunano in mesti drappelli,  
+‘quando i terremoti scuotono i loro spalti e le torri.  
+‘Anche ora, mentre [[Saturn|Saturno]], destato dal gelido torpore,  
+‘muove passo a passo con Tea da quei boschi,  
+‘[[Hyperion|Iperione]], lasciandosi alle spalle il crepuscolo,  
+‘declina verso la soglia dell’Occidente.  
+‘Là siamo diretti.’ Ora stavo in chiara luce,  
+liberato dalla valle oscura. Mnemosine  
+sedeva su una pietra levigata dagli orli squadrati,  
+che nella sua lucida profondità rifletteva limpide  
+le sue vesti di sacerdotessa. I miei occhi rapidi corsero  
+da maestosa navata a navata, da volta a volta,  
+per pergole di luce fragrante e inghirlandata  
+e lunghe arcate lucenti lastricate di diamante.  
+D’un tratto passò come folgore il fulgido [[Hyperion|Iperione]];  
+le sue vesti fiammanti fluivano oltre i suoi talloni,  
+e davano un ruggito, come di [[Fire|fuoco]] terreno,  
+che fugò atterrite le miti ore eteree  
+e fece tremare le loro ali di colomba. E avvampando andò.

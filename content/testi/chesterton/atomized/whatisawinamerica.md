@@ -14994,7 +14994,7 @@ University Press
 
 _Indice_
 
-PAG.  
+PAGINA
 
 CHE COS'È L'[[America|AMERICA]]?                       1
 
@@ -21550,7 +21550,7 @@ titoli o i moderni film o i moderni macchinari. Ciò che c'è di sbagliato
 
 nel mondo moderno è il mondo moderno; e la cura verrà da
 
-un altro.
+altrove.
 
 _Alcune città americane_
 
@@ -34911,6 +34911,183 @@ in England, though the aristocracy is hardly one of them. There are
 
 buildings, there are institutions, there are even ideas in England which
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non è vissuta abbastanza a lungo da invecchiare… E se questo viene confuso con l’argomento secondo cui lei…
+
+#In un’epoca di chiarezza e scetticismo, priva di influenze obsolete…
+
+“Superstizioni: si potrebbe ancora ribattere che queste pratiche siano frutto di credenze superstiziose…”
+
+Sono sopravvissute alle critiche del scetticismo. Ma la [[Truth|verità]] è, naturalmente, che.
+
+La vera qualità dell’[[America]] è molto più sottile e complessa di così.
+
+# E non è composto soltanto da elementi buoni e cattivi, razionali e mistici…
+
+Anche antico e moderno… È proprio questo che rende arduo il compito di rintracciare la verità.
+
+Le proporzioni della vita americana sono così interessanti, e allo stesso tempo così impossibili da comprendere completamente.
+
+# Per cominciare, un simile paragone è sempre altrettanto distraggente quanto…
+
+Metafora. È uno strumento a doppio taglio che colpisce in entrambe le direzioni; e.
+
+Di conseguenza, in direzioni opposte… Utilizziamo la stessa parola “giovane” per indicare due cose diverse.
+
+# Estremi opposti. Ci riferiamo a qualcosa che si trova in una fase iniziale di crescita…
+
+“Qualcosa che rappresenti i frutti più recenti di una crescita… Potremmo chiamarlo…”
+
+#Se i giovani del Commonwealth conducessero tutte le loro conversazioni quotidiane in questo modo…
+
+#Telegrafia senza fili: un mezzo progressista… ma forse anche altro.
+
+Chiamatelo giovane, se svolge tutta la sua attività utilizzando selci scheggiate…
+
+“Questi due significati di ‘giovinezza’ indicano che si trattava di qualcosa di primitivo…”
+
+Incomprensibilmente confuso quando questo termine viene applicato all’[[America]]. Ma cosa è.
+
+Ancora più curioso è il fatto che questi due elementi siano davvero strettamente intrecciati in [[America]].
+
+In alcuni modi, l’[[America]] rappresenta ciò che si può definire “avanti rispetto ai tempi”, e.
+
+#In alcuni modi, si potrebbe definire “obsoleto”; ma sembra comunque…
+
+È confuso cercare di esprimere entrambe le nozioni con la stessa parola.
+
+Da un lato, gli americani spesso hanno successo nelle ultime invenzioni.
+
+E proprio per questo motivo spesso trascurano l’ultimo, ma non il penultimo.
+
+“È vero, in generale, per gli uomini e nel trattare con le cose in generale, che…”
+
+# Progresso in un campo, ma regresso in altro
+
+In un altro ambito, come l’arte… Quello che però viene meno pienamente compreso è che…
+
+# È vero anche tra i diversi metodi della scienza: la perfezione…
+
+La telegrafia senza fili potrebbe essere seguita dall’imperfezione grave di.
+
+#Cavi elettrici… L’entusiasmo stesso della scienza americana lo evidenzia chiaramente.
+
+Vividamente. Il telefono a [[New York]] compie miracoli tutto il giorno. Risponde sempre.
+
+Da luoghi lontani arrivano con la stessa rapidità di una conversazione privata; nessuno interrompe…
+
+# Nessuno si scusa… nessuno dice “Mi dispiace che tu abbia avuto problemi”. Ma poi…
+
+Il servizio postale di [[New York]] non funziona affatto. Almeno a me non è mai successo.
+
+Scopri come funziona… Le lettere vi rimanevano intrappolate per giorni e giorni…
+
+Un remoto villaggio dei Pirenei… Quando chiesi a un tassista di portarmici lì…
+
+Titolo:  
+Mentre mi dirigevo verso un ufficio postale, nei miei occhi apparve lo sguardo di chi sogna lontane avventure…
+
+“I suoi occhi… e disse di aver sentito parlare una volta di un ufficio postale situato da qualche parte nelle vicinanze…”
+
+# West Ninety-Seventh Street: Gli uomini non sono efficaci in tutto…
+
+Solo nelle cose alla moda… Questo potrebbe essere un segno del progresso…
+
+Scienza: in un certo senso, merita sicuramente questa definizione.
+
+Giovinezza… Possiamo immaginare una persona molto giovane che dimentichi quel vecchio giocattolo lì dentro…
+
+L’emozione legata all’inizio di qualcosa di nuovo.
+
+D'altra parte, i modi americani contengono molte cose che vengono definite…
+
+giovane nel senso opposto; nel senso di una fase più precoce dello sviluppo
+
+[[history|storia]]. Ci sono intere parti e aspetti specifici che, a mio parere.
+
+“Piuttosto all’inizio dell’epoca vittoriana… Non posso fare a meno di provare questa sensazione…”
+
+Ad esempio, riguardo all’organizzazione del fumo nei vagoni ferroviari.
+
+# Non ci sono vagoni fumatori, di norma; ma in ogni vagone c’è un angolo…
+
+“Great Cars: Nascosti in modo misterioso, così che un uomo possa andare dietro…”
+
+“Cortina e fumo… Nessuno pensa che una donna possa farlo. Si ritiene che…”
+
+# Un piacere oscuro, bohémien e quasi brutalmente maschile… esattamente così
+
+#Le vedove nei romanzi di Thackeray
+
+# Uno dei tanti casi in cui gli estremi si incontrano: gli estremi di…
+
+“Antichità soffocante e modernità capricciosa: la vedova americana si rammarica…”
+
+# Quando il tabacco fu introdotto… e la suffragista americana
+
+#Riformatore sociale considera se il tabacco non dovrebbe essere…
+
+#Abolito. Il tono della società americana suggerisce una sorta di…
+
+# Compromesso: donne autorizzate a fumare, uomini vietati di farlo
+
+to do so.
+
+Tuttavia, in un certo senso, [[America]] è davvero molto antica. In un certo modo.
+
+[[America]] è più storica dell’Inghilterra; potrei quasi dire che lo sia di più.
+
+#Archeologia più antica dell’Inghilterra: il resoconto di un periodo del passato
+
+“Moralmente distante e probabilmente irreversibile… ma forse ancora conservato in qualcosa di più…”
+
+La forma perfetta di una città pagana come Pompei è ben conservata. In senso più generale.
+
+#Il senso, ovviamente, è facile esagerare il contrasto, considerandolo semplicemente…
+
+# Contrasto tra il vecchio mondo e il nuovo… Una superficiale differenza
+
+[[Satire|Satira]] sulla figlia del milionario che è diventata moglie di recente
+
+Di un [[aristocrat|aristocratico]]; ma c'è una satira piuttosto sottile nella.
+
+La questione riguarda da quanto tempo l’[[aristocrat|aristocratico]] sia tale. Esiste.
+
+Spesso, molta derisione ingiustificata nei confronti di un [[Marriage|matrimonio]] tra la figlia di uno snob.
+
+e un relitto in decomposizione del feudalesimo; quando in realtà si tratta di un [[Marriage|matrimonio]] tra.
+
+"#Una figlia dell’arrivista e un nipote dell’arrivista. Il lato sentimentale"
+
+I socialisti sembrano spesso ammettere il “blu sangue” dei nobili, anche quando.
+
+# Vuole liberarsene… proprio come sembra ammettere l’esistenza di quei cervelli straordinari.
+
+Il milionario… anche quando vuole spendere tutti i suoi soldi. Purtroppo…
+
+“Il socialista sentimentale e gli interessi delle scienze sociali”
+
+# Mai arriva al punto di versare sangue o distruggere cervelli; altrimenti…
+
+Il colore e la qualità sia del [[Blood|sangue]] che del cervello probabilmente sarebbero.
+
+Delusione per lui… Certo, ci sono molte altre famiglie americane che…
+
+Il titolo originale in inglese è: “Really came over in the Mayflower than English families that really…”  
+La traduzione italiana potrebbe essere: “Arrivarono davvero con la Mayflower, più di mol
+
+Titolo:  
+Arrivò con il Conquistatore; e una famiglia nobiliare inglese, chiaramente…
+
+Che risalga al periodo del _Mayflower_ verrebbe considerato qualcosa di molto prezioso.
+
+Una tradizionale e storica [[house|casa]]. Tuttavia, al suo interno si trovano oggetti antichi.
+
+In Inghilterra, sebbene l’aristocrazia difficilmente rientri tra queste categorie… Ci sono.
+
+In Inghilterra, ci sono edifici, istituzioni… e persino idee.
 
 
 

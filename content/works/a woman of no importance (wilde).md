@@ -59,7 +59,7 @@ tags:
 
 ## Testo / Text
 
-- [Act 1 [1]](/testi/wilde/plays/a_woman_of_no_importance#act_1--scene_1--part_01(cf-2))
+- [A Woman of No Importance](/testi/wilde/plays/a_woman_of_no_importance#a_woman_of_no_importance)
 
 ## Parti / Parts
 

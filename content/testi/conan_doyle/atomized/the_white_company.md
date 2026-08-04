@@ -5642,6 +5642,11 @@ CHAPTER I.
 THE NIGHT OF THE BEACONS.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I.  
+LA NOTTE DEI FARI.
+
 
 
 <span class="atom-split" data-atom="chapter_40" data-title="THE WHITE COMPANY — Chapter 3" data-chapter="Chapter 40" data-kind="chapter" data-tags="motif/sea,form/historical_novel,setting/scotland"></span>
@@ -5653,6 +5658,13 @@ CHAPTER III.
 THE SHADOW ON THE WATERS.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II.  
+La cugina Edie di Eyemouth.  
+CAPITOLO III.  
+L’ombra sulle acque.
+
 
 
 <span class="atom-split" data-atom="chapter_41" data-title="THE WHITE COMPANY — Chapter 5" data-chapter="Chapter 41" data-kind="chapter" data-tags="motif/sea,form/historical_novel"></span>
@@ -5663,6 +5675,13 @@ THE CHOOSING OF JIM.
 CHAPTER V.
 THE MAN FROM THE SEA.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV.  
+LA SELEZIONE DI JIM.  
+CAPITOLO V.  
+L’UOMO DEL MARE.
 
 
 
@@ -5676,6 +5695,14 @@ LE ROI DE SUEDE,
 STOCKHOLM.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI.  
+UN AQUILA VAGABONDA.  
+A Sua Maestà,  
+il Re di Svezia,  
+Stoccolma.
+
 
 
 <span class="atom-split" data-atom="chapter_43" data-title="THE WHITE COMPANY — Chapter 7" data-chapter="Chapter 43" data-kind="chapter" data-tags="form/historical_novel,setting/scotland"></span>
@@ -5685,6 +5712,11 @@ CHAPTER VII.
 THE CORRIEMUIR PEEL TOWER.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII.  
+LA TORRE DI PEEL A CORRIEMUIR.
+
 
 
 <span class="atom-split" data-atom="chapter_44" data-title="THE WHITE COMPANY — Chapter 8" data-chapter="Chapter 44" data-kind="chapter" data-tags="motif/sea,motif/a_ship,form/historical_novel"></span>
@@ -5693,6 +5725,11 @@ THE CORRIEMUIR PEEL TOWER.
 CHAPTER VIII.
 THE COMING OF THE CUTTER.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VIII.  
+L’arrivo della nave da taglio.
 
 
 
@@ -5705,6 +5742,13 @@ CHAPTER X.
 THE RETURN OF THE SHADOW.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IX.  
+Le avventure a West Inch.  
+CAPITOLO X.  
+Il ritorno dell’ombra.
+
 
 
 <span class="atom-split" data-atom="chapter_46" data-title="THE WHITE COMPANY — Chapter 11" data-chapter="Chapter 46" data-kind="chapter" data-tags="form/historical_novel,histref/napoleonic_wars"></span>
@@ -5713,6 +5757,11 @@ THE RETURN OF THE SHADOW.
 CHAPTER XI.
 THE GATHERING OF THE NATIONS.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XI.  
+La riunione delle nazioni.
 
 
 
@@ -5724,6 +5773,13 @@ THE SHADOW ON THE LAND.
 CHAPTER XIII.
 THE END OF THE STORM.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XII.  
+L’OMBRA SULLA TERRA.  
+CAPITOLO XIII.  
+LA FINISCE DELLA TEMPESTA.
 
 
 

@@ -247,7 +247,7 @@ pay too much for idleness?
 
 L'Ideale di uno Stato dell'Ozio
 
-G. K. Chesterton  
+G. K. Chesterton
 
 ----------------------------------------------------------------------------
 

@@ -5782,15 +5782,15 @@ La Tirannia del Cattivo Giornalismo
 
 La Poesia della Rivoluzione
 
-UN [[Song|CANTO]] DI SPADE  
+UN [[Song|CANTO]] DI SPADE
 
 "Una mandria di bestiame entrò in un villaggio chiamato Swords;
 
 e fu fermata dai rivoltosi."--Foglio quotidiano.
 
-Nel luogo detto Swords sulla [[Road|strada]] irlandese  
+Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
 
-Si racconta per nuova fama  
+si narra, per una nuova rinomanza,
 
 come tenemmo le corna del bestiame, e come
 
@@ -5800,77 +5800,77 @@ prima che il signore d'inferno, col corno sulla fronte,
 
 sia incoronato nella città di Dublino.
 
-Luce a Oriente e luce a Occidente,  
+Luce a Oriente e luce a Occidente,
 
-E luce sui signori crudeli,  
+e luce sui signori crudeli,
 
-Sulle anime che d'un tratto tutti conobbero,  
+sulle anime che a un tratto ogni uomo conobbe,
 
-E la verde [[Flag|bandiera]] volò e la rossa [[Flag|bandiera]] volò,  
+e sventolò la [[Flag|bandiera]] verde e sventolò la [[Flag|bandiera]] rossa,
 
-E più d'una [[Wheel|ruota]] del mondo si fermò, anch'essa,  
+e più d'una [[Wheel|ruota]] del mondo si fermò anch'essa,
 
-Quando il bestiame fu fermato a Swords.  
+quando il bestiame fu fermato a Swords.
 
-Siano peccatori o meno che santi  
+Siano pure peccatori o meno che santi
 
-Quelli che colpiscono in strada per rabbia,  
+coloro che percuotono in strada per rabbia,
 
-Sappiamo dove la vergogna brilla chiara; conosciamo  
+noi sappiamo dove splende viva la vergogna; sappiamo
 
-Voi che essi colpiscono, voi loro nemici,  
+voi, che essi colpiscono, voi loro nemico,
 
 signori del salario iniquo e vile,
 
-Questo è il vostro legittimo salario.  
+questa è la vostra paga legittima.
 
-Avete stretto un [[Child|bimbo]] a un prezzo di tortura  
+Spremeste un [[Child|bambino]] a un prezzo di tortura
 
-Che non osaste nominare a parole;  
+che non osaste nominare a parole;
 
-Sì nero scherzo era la moneta d'argento  
+tanto nera beffa era la moneta d'argento
 
 che il vostro stesso dire tremò per la vergogna,
 
-E il codardo fu palese come una vacca colpita  
+e il codardo era palese come una vacca percossa
 
-Quando il bestiame si è sbandato a Swords.  
+quando il bestiame si smarrì a Swords.
 
 La [[Wheel|ruota]] del torrente delle mogli girò
 
-Per spezzare la fratellanza degli uomini;  
+per spezzare la fratellanza degli uomini;
 
-Deste il buon [[Blood|sangue]] irlandese a ungere  
+deste il buon [[Blood|sangue]] irlandese a ungere
 
-I randelli dei nemici del vostro paese;  
+i randelli dei nemici della vostra patria;
 
 vedeste l'uomo valoroso battuto in ginocchio:
 
-E vedeste che era cosa buona.  
+e vedeste che era cosa buona.
 
-La corda dei ricchi è lunga e lunga--  
+La fune dei ricchi è lunga, lunga--
 
-La più lunga delle corde di boia;  
+la più lunga fra le corde del boia;
 
 ma i re e le folle trattengono il fiato,
 
-In una gigantesca [[Shadow|ombra]] su tutto ciò che sta sotto  
+in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
 
-Dove Dio sta reggendo le bilance della [[Death]]  
+là dove Dio sta reggendo le bilance della [[Death|Morte]]
 
-Tra il bestiame e Swords.  
+tra il bestiame e Swords.
 
 Forse i signori che assoldano e prestano,
 
-I più bassi fra i signori degli uomini,  
+i più vili fra tutti i signori degli uomini,
 
 che vendono i loro simili come armenti a una fiera,
 
-Non vi troveranno capo del loro bestiame;  
+non troveranno là un solo capo del loro bestiame;
 
-Ma volti d'uomini dove era il bestiame:  
+ma volti di uomini dove c'era bestiame:
 
-Volti d'uomini--e Swords.  
+volti di uomini--e Spade.
 
 UTOPIA DEGLI USURAI
 
@@ -6906,6 +6906,187 @@ broken. I think that is exactly all that business men have now the sense
 to do.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III. Unaffari come si deve
+
+I racconti di fate che a tutti noi sono stati insegnati non erano, come la [[history|storia]] che a tutti noi è stata.
+
+# Una storia insegnata interamente di menzogne: alcune parti della favola de “Il gatto con gli stivali”
+
+“O ‘Jack e la Pianta di Fagioli’ potrebbe sembrare, a prima vista, un racconto piuttosto realistico…”
+
+Inusuali e insoliti, per così dire… ma contengono qualcosa di significativo.
+
+Verità molto solide e molto pratiche. Ad esempio, si può notare…
+
+Che sia sia in “Gatto con gli stivali” che in “Jack e la pianta di fagioli”, se ricordo bene…
+
+Beh, quell’orco non era solo un orco, ma anche un mago… E questo rendeva le cose ancora più interessanti.
+
+In generale, si può osservare che in tutte queste narrazioni popolari, il [[King|re]], se.
+
+È un malvagio [[King|re]], ed in genere è anche un mago. Ora c’è qualcosa di estremamente importante.
+
+La verità umana è incapsulata in questo. Un cattivo [[government|#governo]], come un buon [[government|<governo]],
+
+È qualcosa di spirituale. Anche il [[Tyrant|tiranno]] non governa mai solo con la forza; ma.
+
+Soprattutto attraverso i racconti di fate. E lo stesso vale per il moderno [[Tyrant|tiranno]], il grande.
+
+L’impiegatore… Veder un milionario è una cosa rara, nel senso comune del termine.
+
+Un spettacolo incantevole: tuttavia, lui stesso è un incantatore.
+
+“Dicono, nei lunghi e lusinghieri articoli che lo riguardano sui giornali, che sia…”
+
+Personaggio affascinante… Lo è anche un serpente. Almeno, lui è davvero affascinante.
+
+#Conigli… e lo stesso vale per il milionario agli occhi di certe persone sempliciotti
+
+“Quello in cui signore e signori si sono lasciati trasformare…” Lui lo fa.
+
+In un certo modo, come se lanciasse una sorta di incantesimo… simile a quello che imprigionava i principi.
+
+Principesse sotto le sembianze di falchi o cervi… Ha davvero trasformato gli uomini.
+
+In pecore, proprio come Circe li trasformò in maiali.
+
+Ora, il capo delle fiabe, grazie alle quali ottiene questa gloria…
+
+“Glamour: una certa associazione vaga che è riuscito a creare tra…”
+
+#L’idea della grandezza e l’idea della praticità. Numeri di…
+
+#Donne e signori di scarsa intelligenza pensano davvero che…
+
+#La loro esperienza e le loro conoscenze: finché un negozio dispone di centinaia…
+
+# Porte diverse e un sottosuolo caldo e malsano
+
+Dipartimenti… devono essere “caldi”; è molto importante… e molte altre persone.
+
+di più di quanto ne avrebbero bisogno una nave da guerra o una folla nella [[Cathedral|cattedrale]] per dire.
+
+“Da questa parte, signora,” e “Il prossimo articolo, signore,” ecco come procede la conversazione.
+
+“Il prodotto è di qualità. In breve, sostengono che le grandi imprese…”
+
+“Businesslike… ma non lo sono affatto. Qualsiasi cameriera, se onesta, lo saprebbe bene.”
+
+In altre parole, qualsiasi domestica di cattivo umore vi dirà che…
+
+# Non solo le domestiche… anche loro sono esseri umani, e quindi possono essere imprevedibili e incoerenti.
+
+Complessi. E non sempre si attengono alla [[Truth|verità]]; inoltre, hanno anche un cattivo carattere. Sono.
+
+Anche influenzato da questa strana idolatria per ciò che è enorme e complesso…
+
+Non posso fare a meno di pensare che qualcosa di così complicato debba funzionare alla perfezione, come se fosse regolato da un orologio.
+
+Ma la complessità non garantisce necessariamente l’accuratezza… né nei meccanismi a molla, né in nulla altro.
+
+Altrimenti. Un [[Clock|orologio]] può sbagliare tanto quanto la testa umana; inoltre, un [[Clock|orologio]] può anche fermarsi.
+
+Così all’improvviso come il cuore umano.
+
+#Ma questa strana poesia della plutocrazia prevale sulle persone contro la loro volontà
+
+Tutti i sensi sono coinvolti. Scrivi a uno dei grandi negozi o magazzini di [[London|Londra]].
+
+Chiedere, per esempio, un ombrello… Un mese o due dopo…
+
+# Ricevi un pacco molto ben confezionato, ma al suo interno c’è qualcosa che è rotto…
+
+“Ombrello… Siete molto soddisfatti, vero? Vi compiace riflettere su ciò…”
+
+Un gran numero di assistenti e dipendenti si era unito per infrangere quella regola.
+
+Ombrello. Vi godete la [[Memory|ricordo]] di tutte quelle lunghe stanze.
+
+Dipartimenti e [[Wonder|meraviglie]]; chissà in quale di essi si trovi quell’ombrello che non hai mai.
+
+Quello che era stato ordinato era andato distrutto. Oppure vuoi un elefante di peluche per il tuo [[Child|bambino]]?
+
+#Natale; da bambini, come tutte le persone buone e sane, siamo molto…
+
+Rituale. Circa una settimana dopo la [[Twelfth Night|Dodicesima Notte]], per esempio, si può.
+
+#Il piacere di rimuovere tre strati di cartone ondulato, cinque strati di…
+
+#Carta marrone, quindici strati di carta assorbente… e la scoperta
+
+Frammenti di un coccodrillo artificiale. Sorridi con grande entusiasmo.
+
+Sentisci che la tua [[Soul|'anima]] si è ampliata grazie alla visione dell'incompetenza.
+
+#Su così vasta scala… Il tutto appare ancora più imponente.
+
+# E il cervello onnipresente dell’organizzatore dell’industria, che, nonostante tutto…
+
+Innumerevoli preoccupazioni non dimenticarono mai il suo dovere: distruggere.
+
+Anche il giocattolo più piccolo del bambino più piccolo. O, supponendo che tu ne abbia uno.
+
+Gli chiesi di inviarvi due rotoli di materasso fatto con noci di cacao… E supponendo che…
+
+Dopo un breve intervallo di riflessione, vi consegna finalmente i cinque…
+
+“Rulli di rete metallica… Vi piace rifletterci sopra.”
+
+Mistero: ciò che alcune menti rozze avrebbero potuto definire un errore… Ma in realtà ti consola.
+
+Per capire quanto sia grande questa attività… e quante persone ne siano coinvolte.
+
+Erano necessarie delle circostanze particolari per commettere un simile errore.
+
+Quella è la [[Romance|storia romantica]] che si racconta riguardo ai grandi negozi, nella
+
+Letteratura e arte che hanno acquistato… e che, come ho detto prima,
+
+I miei articoli più recenti saranno presto del tutto indistinguibili da quelli degli altri…
+
+# Normali pubblicità… La letteratura è commerciale; e lo è anche questo genere di testi.
+
+Solo giusto dire che questo tipo di commercio è spesso davvero “letterario”. Non è affatto…
+
+Un [[Romance|romanzo]], ma solo robaccia.
+
+#Le grandi questioni commerciali di oggi sono davvero eccezionali
+
+Incompetenti… Saranno ancora più incompetenti quando…
+
+# Onnipotente. Infatti, è proprio questo il senso e lo scopo di sempre.
+
+#"Un monopolio: l’antico e valido argomento contro i monopoli". È solo questo."
+
+#Perché è incompetente, deve essere onnipotente… Quando uno è grande…
+
+Il negozio occupa l’intera facciata di un lato della strada (o a volte entrambi i lati).
+
+# Per impedire agli uomini di ottenere ciò che desiderano
+
+#Non possono scegliere ciò che desiderano; e potrebbero essere costretti ad acquistare ciò che non vogliono. In un contesto in rapida evoluzione…
+
+Il regno imminente dei capitalisti distruggerà l’arte e la letteratura, io
+
+Come ho già detto, affermo qui che, nell’unico senso in cui ciò può essere considerato…
+
+Uomo, distruggerà anche il commercio.
+
+#Non lascerò che Natale passi via, nemmeno mentre scrivo per una rivoluzione
+
+Titolo:  
+Un testo che inevitabilmente attirerà molti, ma che non riflette affatto le mie convinzioni religiose…
+
+# Simpatie, senza cercare di suscitare quelle stesse simpatie… Conoscevo un uomo che inviava…
+
+“Un grande negozio ricco ha ordinato una statua per un gruppo raffigurante Betlemme… L’opera è arrivata.”
+
+“Spezzati… Penso che sia proprio questo lo stato d’animo degli uomini d’affari oggi.”
+
+to do.
+
 
 
 <span class="atom-split" data-atom="story_08_the_war_on_holidays" data-title="UtopiaUsurers — The War on Holidays" data-chapter="The War on Holidays" data-kind="story" data-tags="topos/double,motif/blood,motif/dust,motif/leaves,motif/mirror,motif/night,motif/sleep,motif/soul,motif/time,motif/well,motif/wheel,motif/winter,concept/body,concept/history,concept/immortality,concept/resurrection,concept/truth,form/history"></span>
@@ -7111,6 +7292,210 @@ or factories might ask their employers for twelve days' holidays after
 
 Christmas. And they might let me know the reply.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IV. La guerra nei giorni festivi
+
+La proposizione generale, spesso difficile da definire in modo esaustivo, che…
+
+# Il regno del capitalista sarà il regno dei furfanti… cioè, di coloro che agiscono per interesse personale.
+
+Il tipo che non è né cittadino né gentiluomo… può?
+
+# Viene studiato in modo approfondito il suo atteggiamento nei confronti delle feste. Il particolare…
+
+Imprenditore emblematico di oggi, soprattutto il Modello Imprenditore (che è…)
+
+Il tipo peggiore, nel suo cuore affamato e malvagio, nutre un odio sincero…
+
+Feste… Non intendo dire che voglia necessariamente che tutti i suoi lavoratori…
+
+Lavorano fino allo sfinimento… il che accade soltanto quando sono davvero stupidi.
+
+Benissimo, anche se malvagio. Non intendo dire che sia necessariamente riluttante a farlo.
+
+#Garantire quelle che lui definiva “ore di lavoro decenti”. Può trattare le persone in questo modo…
+
+#Sporcizia… ma se vuoi guadagnare soldi, anche a partire dalla sporcizia, devi essere disposto a farlo.
+
+Rimane inutilizzato a causa di un certo ciclo di riposo. Può trattare gli uomini come [[dogs|cani]], ma.
+
+A meno che non sia pazzo, di certo in alcune occasioni lascerà che i cani dormienti.
+
+Mente.
+
+# Ore di lavoro umane e ragionevoli non hanno alcuna relazione con…
+
+Con l’idea delle vacanze… Non si tratta nemmeno di dieci ore al giorno.
+
+“Otto ore al giorno di lavoro… non si tratta certo di ridurre il tempo libero…”
+
+Lo spazio necessario per il cibo, il [[Sleep|sonno]] e l’esercizio fisico. Se l’imprenditore moderno.
+
+Arrivò alla conclusione, per qualche motivo o altro, che poteva ottenere di più…
+
+#"Sfruttando i suoi uomini facendoli lavorare solo due ore al giorno, tutto il suo..."
+
+L’atteggiamento mentale rimarrebbe comunque estraneo e ostile nei confronti delle feste. Per lui…
+
+L'intero atteggiamento mentale consiste nel considerare il tempo passivo e il tempo attivo come.
+
+“Tutti questi elementi sono utili sia per lui che per il suo lavoro. Davvero, tutto rappresenta materiale prezioso…”
+
+“Arriva al suo mulino… insieme ai mulinai stessi. I suoi schiavi continuano a servirlo.”
+
+Lo stato di incoscienza, proprio come i [[dogs|cani]] continuano a cacciare anche nel sonno. Il suo grano non viene macinato.
+
+Solo attraverso il rumore delle ruote di ferro, ma anche attraverso il silenzioso movimento della [[Wheel|Ruota]] del [[Blood|sangue]].
+
+# Mente e cervello. I suoi “sacchi” continuano a riempirsi in silenzio, anche quando le porte sono chiuse.
+
+Per le strade, il suono del fruscio prodotto dal movimento è debole.
+
+Il Grande Festivo
+
+Ora, una vacanza non ha alcuna connessione con l’uso di un uomo, né attraverso la violenza né in altro modo.
+
+Dandogli delle vacanze, in realtà gli restitui il suo [[Body|-corpo]].
+
+e l’[[Soul|'anima]]. È molto probabile che tu possa fargli del male (anche se, ).
+
+(#Raramente la pensa così, ma questo non influisce sulla domanda per coloro che…)
+
+Per chi una festività è sacra. L’[[Immortality|immortalità]] è la grande festività; e una festività.
+
+Come l’[[Immortality|immortalità]] nelle antiche teologie, anche questo privilegio presenta due facce.
+
+Ma ovunque sia autentico, si tratta semplicemente di una restaurazione e di un completamento.
+
+Il titolo dell’uomo… Se mai le persone avessero prestato attenzione alle parole stampate che hanno davanti agli occhi…
+
+La parola “ricreazione” sarebbe simile alla parola “[[Resurrection|risurrezione]]”, quel momento di esplosione.
+
+di un trombone.
+
+Un uomo, essendo soltanto utile, è necessariamente incompleto, soprattutto se…
+
+“Un uomo moderno è colui che si considera ‘utilitario’, cioè che ritiene di essere utile agli altri.”
+
+Entrare in un club moderno significa dover lasciare il cappello… Un uomo che entra in un ambiente del genere…
+
+La fabbrica perde la sua testa… Poi lui entra e lavora fedelmente per l’anziano.
+
+Titolo:  
+Deciso a costruire la grande struttura del commercio… il che è possibile senza…
+
+# Un uomo che, dopo aver svolto il proprio lavoro, va nel ripostiglio degli abiti…
+
+#L’uomo al club… e ritrova la sua testa; ecco l’inizio di tutto.
+
+Festa. Si potrebbe sostenere che un membro del club che spesso [[Leaves|lascia]] il proprio cappello.
+
+#Via un altro cappello… E forse lo stesso vale per la fabbrica
+
+# Una mano che ha perso la testa… Una mano del genere potrebbe influenzare…
+
+“Fastidioso come una metafora mista… Ma, che Dio ci perdoni tutti, quanto sia davvero ‘non mescolato’…”
+
+[[Truth|verità]]! Saremmo quasi riusciti a dimostrare tutto questo grazie all’abitudine di chiamarla così.
+
+“Gli esseri umani, quando lavorano, sono soltanto ‘mani’; come se la mano fosse…”.
+
+# Terribilmente mozzato, come la mano che ha offeso… come se, mentre…
+
+# Il peccatore entrò in cielo, menomato; la sua mano, ancora infelice, continuava a lavorare…
+
+“Arricchire i signori dell’inferno… Ma tornando all’uomo che abbiamo incontrato…”
+
+#In attesa che gli taglino la testa nell’armadietto degli abiti… Si potrebbe obiettare, diciamo noi, che lui…
+
+#Potrebbe prendere la direzione sbagliata, proprio come un cappello indossato al contrario… Ma in questo caso, la somiglianza è evidente.
+
+Cessa… Poiché è stato osservato da spettatori benevoli nel dramma della vita.
+
+# Quel cappello preso per errore è spesso migliore del vero
+
+#Cappello; mentre la testa, una volta tolta dopo ore di fatica, è certamente…
+
+Peggio ancora: intriso dalle ragnatele e dalla [[Dust|polvere]] di questo cestino della spazzatura, tra tutti.
+
+secoli.
+
+L'avventura suprema
+
+Tutte le parole dedicate ai luoghi dove si mangia e si beve sono purissime
+
+E parole poetiche. Anche la parola “hotel” deriva dalla parola “hospital”. E San.
+
+# Julien, il santo protettore di chi ha bevuto il suo vino rosso a Natale…
+
+Titolo:  
+I gestori di locande, perché (per quanto riesca a capire) era molto ospitale…
+
+Lebbrosi… Ora non sto dicendo che il normale gestore di un albergo a Piccadilly o…
+
+#La via dell’Opera accoglierebbe un lebbroso, gli darebbe una pacca sulla spalla e…
+
+Chiedigli di ordinare ciò che gli piace; ma devo dire che l’ospitalità è davvero la sua dote principale.
+
+Scambiare la virtù. E dico anche che è davvero [[Well|giusto]] tenere sempre a mente questo principio.
+
+# L’avventura suprema di una virtù. Se sei coraggioso, pensa all’uomo che…
+
+Era più coraggioso di te. Se sei gentile, pensa all’uomo che fu ancora più gentile.
+
+più di te.
+
+# Quello che si intendeva con l’idea di avere un santo protettore… Quella è la vera connessione.
+
+# Tra il povero santo che accoglieva i lebbrosi e il grande albergo
+
+Il proprietario che, di solito, accoglie i “lebbrosi spirituali”. Ma… ancora una parola.
+
+La parola “ristorante”, più debole di “hotel”, illustra lo stesso concetto.
+
+Ancora una volta si ammette l’esistenza di un edificio specifico…
+
+#"Statua da "restaurare": quell’immagine indelebile dell’uomo che alcuni chiamano..."
+
+# Immagine di Dio. Ed è proprio questa la festività: il ristorante, o il momento del recupero…
+
+Qualcosa che, con un attimo di [[Magic|magia]], trasforma un uomo in se stesso.
+
+Quest’uomo completo e ricostruito rappresenta l’[[nightmare|incubo]] della società moderna.
+
+capitalista. Tutto il suo piano sarebbe andato in frantumi, come uno specchio che riflette solo illusioni.
+
+“Shallot: se mai un uomo semplice fosse pronto ad adempiere alle sue due semplici responsabilità…”
+
+#Vivere, essere pronti a morire… E quell’orrore delle feste che segna…
+
+Il capitalista moderno rappresenta, in gran parte, l’incarnazione dell’orrore di una visione del mondo completamente diversa da quella originale.
+
+Essere umano: qualcosa che non è né una “mano” né un “intelligenza matematica”. Ma…
+
+# Una terribile creatura che si è incontrata con se stessa nella natura selvaggia… Gli datori di lavoro
+
+Darà loro il [[Time|tempo]] per mangiare, il [[Time|tempo]] per dormire; hanno terrore di un [[Sleep|momento]] in cui.
+
+pensare.
+
+Chiunque conosca anche solo un po' di [[history|storia]] sa perfettamente che non c’è alcun bisogno di dirlo.
+
+Le feste sono state distrutte… Come il signor Belloc, che ne sa molto di più.
+
+La [[history|storia]], più di quanto possiamo conoscere tu o io, è stata recentemente sottolineata sulla rivista “Pall Mall Magazine”.
+
+Il titolo di Shakespeare “[[Twelfth Night|La dodicesima notte]]: o come volete voi” significava semplicemente.
+
+Un carnevale invernale per tutti proseguì con grande entusiasmo fino al dodicesimo giorno.
+
+La [[Night|notte]] di Natale. Coloro tra i miei lettori che lavorano in uffici moderni.
+
+O le fabbriche potrebbero chiedere ai propri datori di lavoro dodici giorni di ferie dopo…
+
+Natale. Forse mi daranno notizie della risposta.
 
 
 
@@ -11721,6 +12106,195 @@ foreigners.
 
 Some days ago the Official Council of the Independent Labour Party, or
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La celebre dichiarazione secondo cui era una bella giornata.
+
+O forse potremmo provare un’emozione ancora più intensa leggendo qualcosa del genere…
+
+# “L’Astronomo Reale, rendendosi conto che la Terra…”
+
+Certamente verrebbe distrutto in mille pezzi da una cometa, a meno che le sue richieste…
+
+# La connessione con la telegrafia senza fili fu seriamente presa in considerazione
+
+Titolo:  
+Un discorso alla Royal Society che, in altre circostanze, sarebbe stato…
+
+# Sembrano eccessivamente dogmatici ed emotivi, e carenti di fondamenti scientifici
+
+Agnosticismo. Questo discorso (che tenne senza alcun tentativo di…).
+
+Titolo: “In piedi sulla testa” includeva una dichiarazione feroce, addirittura spietata…
+
+Di solito, di notte è più facile vedere le [[Stars|stelle]] rispetto a durante il giorno.
+
+Ora, non riesco a convincermi, con la mia coscienza e la mia ragione, che qualcuno dei miei.
+
+“Paragrafi immaginari sono ancora più ridicoli di quelli veri… Nessuno può crederci.”
+
+Credo che il signor Asquith consideri questi compromessi tardivi ma attenti…
+
+Riguardo alla [[Home|Regola di Autogoverno]], l'ha definita “la più grande battaglia della sua carriera”. Ed è davvero così.
+
+“È giusto dire che abbia affrontato battaglie ben più difficili di questa… Nessuno.”
+
+Non riesco a credere che qualsiasi gruppo di uomini, presenti fisicamente lì, abbia potuto tuonare o.
+
+Titolo:  
+Emozionato solo perché un uomo ha detto di voler sapere…
+
+Le proposte furono accettate. No: sarebbe molto meglio per il Parlamento se…
+
+Le porte furono chiuse di nuovo e i giornalisti vennero esclusi. In quel caso…
+
+Il pubblico esterno sentì davvero voci riguardo a un’eloquenza quasi gigantesca.
+
+Titolo:  
+Come quella che ha permesso a Pitt di replicare efficacemente alle accuse rivolte contro di lui
+
+Giovinezza… o come Fox distrugga l’idea della guerra come compromesso.
+
+Meglio seguire le vecchie abitudini e non lasciare entrare affatto i giornalisti.
+
+Meglio non seguire le nuove mode e non scegliere i giornalisti più stupidi…
+
+Si può trovare.
+
+# Il loro carico di menzogne
+
+#Perché le persone di Fleet-street parlano sempre sciocchezze?
+
+“Fleet-street non è composta da sciocchi: la maggior parte di loro ha già compreso la realtà…”
+
+Lavoro… Alcuni attraverso la fame; altri attraverso l’inferno, o qualcosa del genere.
+
+“Mi piace davvero molto. Penso che sia assolutamente vero, in modo semplice e serio…”
+
+Sono stanchi del loro lavoro. Come disse il generale nella pièce di M. Rostand, “la…”
+
+“Stanchezza!”
+
+#Credo davvero che questo sia uno dei modi in cui Dio…
+
+In modo frenetico, si potrebbe dire, l’[Natura], se così vi piace, si vendica inaspettatamente di quelle cose infamose.
+
+# Irrazionale e ingiusto. E questo metodo consiste nel mettere in discussione la morale, persino il fisico degli uomini.
+
+Tenacia che, in realtà, cede sotto un simile carico di menzogne… Continuano a scrivere.
+
+I loro articoli principali e i loro resoconti parlamentari… continuano a farlo.
+
+“Come un detenuto che continua a raccogliere lino per le reti… Ma il punto non è questo.”
+
+#Stanchi dei loro articoli… Il punto è proprio questo: il lavoro è già stato fatto.
+
+Peggio ancora quando viene eseguito in modo debolmente e senza entusiasmo umano. E così…
+
+È stato fatto in modo debole a causa della [[Truth|_verità]] che abbiamo ripetuto così tante volte in questa occasione.
+
+Titolo:  
+Che non sia fatto per la monarchia, per cui gli uomini sarebbero disposti a morire; né per…
+
+La [[democracy|democrazia]], per la quale gli uomini sono disposti a morire; o addirittura l’aristocrazia, per la quale.
+
+Molti uomini sono morti… Tutto questo avviene a causa di qualcosa chiamato Capitalismo.
+
+Si distingue molto chiaramente nella [[history|storia]] in molti modi curiosi. Ma il più.
+
+La cosa curiosa è che nessuno l’abbia mai amata… e nessuno sia morto per essa.
+
+it.
+
+#L’amnistia per l’aggressione
+
+Se da tutto questo caos e distruzione dovesse emergere qualcosa di simile a una repubblica…
+
+Per garantire la giustizia, è essenziale che le nostre opinioni siano basate su realtà concrete.
+
+“Sono squarci di vite e paesaggi al di fuori di noi stessi… È essenziale.”
+
+Titolo:  
+Che non siano semplici visioni effimere che iniziano e finiscono lì…
+
+Fumo… e spesso il fumo dei cannoni. Pertanto, non mi scuso affatto per questo.
+
+Tornando al punto pratico e realistico che ho sottolineato la scorsa settimana…
+
+Il fatto che perderemo tutto ciò che potremmo aver ottenuto se perdiamo…
+
+L’idea che la persona responsabile debba assumersi le proprie responsabilità.
+
+Ad esempio, è quasi sempre vero per quelle uno o due cose…
+
+Il comportamento effettivo del governo britannico o del pubblico britannico.
+
+# Terribilmente. Il primo e peggiore di tutti è il fatto che non venga estesa…
+
+Titolo:  
+Moratoria, ovvero tregua tra debitore e creditore… nel mondo intero dove…
+
+Ci sono i debitori più poveri e i creditori più crudeli. Questo è…
+
+Titolo:  
+Infame… e dovrebbe esserlo ancora di più per coloro che la pensano così.
+
+“Combattere per ciò che si ritiene giusto, anche contro coloro che lo considerano sbagliato… Questo lo sanno tutti.”
+
+#Coloro che hanno meno possibilità di pagare i loro debiti sono proprio quelli che…
+
+Cercando di farlo. Tra i poveri, un pagamento potrebbe rivelarsi altrettanto avventato quanto una speculazione.
+
+# Tra i ricchi, la bancarotta può essere altrettanto “sicura” di una banca… Considerando questo…
+
+# La classe da cui vengono reclutati i soldati semplici… una situazione atroce
+
+La meschinità nell’idea di comprare il loro [[Blood|sangue]] all’estero, mentre noi ne vendiamo.
+
+Si attacca a [[Home|casa]]. Del resto, la lingua inglese è piena di termini delicati e raffinati.
+
+#Paradosi: parliamo dei soldati privati perché in realtà…
+
+# Soldati del popolo; e parliamo delle scuole pubbliche perché…
+
+Scuole davvero private… Comunque, l’errore commesso è proprio di quel tipo che non dovrebbe accadere.
+
+Si può resistere, sia in guerra che in pace.
+
+#Deve essere battuto a martello
+
+Ma finché la consideriamo una conclusione vaga, raggiunta attraverso…
+
+Club anonimo chiamato Parlamento, o un tribunale mascherato chiamato…
+
+“Cabinetto… Non riusciremo mai a sistemare una cosa sbagliata in modo che sembri giusta. Qualcuno sta agendo ufficialmente…”
+
+Responsabile di tanta ingiustizia, e che qualcuno debba essere punito severamente.
+
+L’altro esempio, meno importante ma più ridicolo, è quello stupido…
+
+Boicott dei tedeschi in Inghilterra, che si estende anche alla musica tedesca. Io lo faccio.
+
+#Non credere nemmeno per un momento che il popolo inglese provi sentimenti del genere
+
+#Fastidiosità. Gli artisti inglesi che praticano questo particolare stile…
+
+L’arte inglese dei colori a olio su acqua dovrebbe essere proibita dall’uso del blu prussiano? Davvero?
+
+Fare sparare alle vecchie signore ai loro cani di razza Pomerania? Ma anche se l’Inghilterra lo volesse.
+
+# Rideteci pure… Lei ne otterrà il merito e continuerà così, fino in fondo.
+
+#Chi sono realmente quelle persone che sono sicure che dovremmo tremare?
+
+#Alla melodia di una ballata del Reno… È certo che scopriremo qualcosa.
+
+# Sono capitalisti… È molto probabile che scopriremo che lo sono davvero.
+
+Stranieri.
+
+Alcuni giorni fa, il Consiglio Ufficiale del Partito Laburista Indipendente…
 
 
 

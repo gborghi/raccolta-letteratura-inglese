@@ -13649,6 +13649,337 @@ Then Olive looked up and her face was ghastly. It might have been the
 face of Medea in the [[Garden|garden]], gathering the poisonous [[Flowers|flowers]].
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'ASSASSINO MODERATO
+I L'UOMO CON L'OMBRELLO VERDE
+
+IL nuovo Governatore era Lord Tallboys, comunemente detto Tallboys Cilindro,
+
+per via del suo attaccamento a quella [[Uncanny|inquietante]] costruzione, che continuava a
+
+portare in equilibrio sul capo con la stessa calma fra le palme d'[[Egypt|Egitto]] e
+
+fra i lampioni di Westminster. Certo la portava con calma
+
+sufficiente in terre dove poche corone erano al riparo dal cadere. Il distretto che
+
+era venuto a governare può essere qui descritto, con vaghezza diplomatica,
+
+come una striscia ai margini dell'[[Egypt|Egitto]], e chiamato per nostra comodità Polibia.
+
+È una vecchia storia, ormai, ma di quelle che molti ebbero ragione di ricordare
+
+per molti anni, e all'[[Time|epoca]] fu un evento imperiale. Un Governatore
+
+fu ucciso, un altro Governatore per poco non lo fu, ma in questa storia ci
+
+occupiamo di una sola catastrofe, e piuttosto personale e
+
+perfino privata.
+
+Tallboys Cilindro era scapolo, eppure portò con sé una famiglia.
+
+Aveva un nipote e due nipoti, delle quali una, per caso, aveva sposato il
+
+Vice Governatore di Polibia, l'uomo chiamato a reggere il potere durante
+
+l'interregno seguito all'assassinio del governante precedente. L'altra nipote
+
+non era sposata; si chiamava Barbara Traill, e può [[Well|bene]] essere la prima
+
+figura ad [[Cross|attraversare]] la scena di questa storia.
+
+Era infatti una figura piuttosto solitaria e notevole, scura come un corvo e
+
+ricca di colore, dal profilo bellissimo ma un po' imbronciato, mentre
+
+attraversava gli spazi sabbiosi e giungeva al riparo di un lungo muro basso
+
+che [[Alone|solo]] gettava una striscia d'[[Shadow|ombra]] contro il sole, il quale scendeva
+
+verso l'orizzonte del [[Desert|deserto]]. Il muro stesso era un curioso esempio del
+
+carattere raffazzonato di quella terra di confine fra Oriente e Occidente. Era in realtà
+
+una fila di villette, costruite per impiegati e piccoli funzionari, e buttate
+
+lì come da un costruttore speculatore le cui speculazioni si spingevano ai confini
+
+della terra. Era un lembo di Streatham fra le rovine di Eliopoli. Simili
+
+stranezze non sono ignote, quando i paesi più antichi vengono mutati nelle
+
+colonie più nuove. Ma in questo caso la giovane donna, che non era priva di
+
+[[Imagination|immaginazione]], aveva coscienza di un contrasto del tutto fantastico. Ognuna di queste
+
+case di bambola aveva i suoi arbusti e le sue piante in miniatura e il suo stretto rettangolo di
+
+[[Garden|giardino]] sul retro che scendeva fino al comune e continuo muro del [[Garden|giardino]]; ed era
+
+appena fuori da questo muro che correva il sentiero accidentato, orlato da pochi
+
+olivi canuti e grinzosi. Oltre quell'orlo si perdeva verso
+
+l'infinito la mostruosa [[Solitude|solitudine]] di sabbia. Solo là si poteva ancora
+
+scorgere, su quell'ultima linea di lontananza, una debole forma triangolare, una specie
+
+di simbolo matematico la cui innaturale semplicità ha commosso tutti i poeti e
+
+i pellegrini per cinquemila anni. Chiunque la veda davvero per la prima
+
+[[Time|volta]], come accadde alla ragazza, difficilmente trattiene un grido: «Le Piramidi!»
+
+Quasi nel momento in cui lo disse, una voce le disse all'orecchio, non forte ma con allarmante
+
+chiarezza e articolazione precisissima: «Le fondamenta furono tracciate nel
+
+[[Blood|sangue]] e nel [[Blood|sangue]] saranno tracciate di nuovo. Queste cose sono scritte
+
+per nostra istruzione.»
+
+Si è detto che Barbara Traill non era priva di [[Imagination|immaginazione]];
+
+sarebbe più esatto dire che ne aveva anzi troppa. Ma era del tutto
+
+certa di non aver immaginato la voce, benché non riuscisse davvero a
+
+immaginare da dove venisse. Sembrava assolutamente [[Alone|sola]] sul
+
+sentierino che correva lungo il muro e portava ai giardini attorno al
+
+Governatorato. Poi si ricordò del muro stesso, e voltandosi di scatto
+
+a guardare oltre la spalla, le parve di vedere per un istante una testa che sbucava
+
+dall'[[Shadow|ombra]] di un sicomoro, l'unico albero di qualche dimensione per un certo
+
+tratto, poiché aveva lasciato l'ultimo dei bassi olivi sparsi
+
+duecento metri indietro. Qualunque cosa fosse, era svanita all'istante, e
+
+in qualche modo si sentì d'un tratto spaventata, più spaventata dalla sua
+
+scomparsa che dalla sua comparsa. Cominciò ad affrettarsi lungo il sentiero verso
+
+la residenza dello zio a un passo che somigliava un poco a una corsa. Fu
+
+probabilmente per questa improvvisa accelerazione del movimento che le parve di
+
+accorgersi, piuttosto bruscamente, che un uomo marciava con passo fermo davanti
+
+a lei lungo la stessa pista verso i cancelli del Governatorato.
+
+Era un uomo molto grosso, e sembrava occupare tutto lo stretto
+
+sentiero. Provava un poco quella sensazione, che già
+
+conosceva un poco, di camminare dietro a un cammello per le strette e
+
+tortuose fenditure della città orientale. Ma quest'uomo posava i piedi
+
+con la fermezza di un elefante; camminava, si sarebbe detto, perfino con una certa
+
+pompa, come se fosse in processione. Indossava una lunga finanziera e il suo
+
+capo era sormontato da una torre scarlatta, un fez rosso altissimo, un poco
+
+più alto del cilindro di Lord Tallboys. L'accostamento del rosso
+
+copricapo orientale con i neri abiti occidentali è abbastanza comune fra la
+
+classe degli Effendi in quei paesi. Ma in qualche modo pareva [[Novel|inedito]] e
+
+incongruo in questo caso, perché l'uomo era chiarissimo di pelle e aveva una gran barba bionda
+
+scompigliata dalla brezza. Avrebbe potuto essere un modello per gli
+
+idioti che parlano del tipo nordico di europeo, ma in qualche modo non
+
+somigliava a un inglese. Portava agganciato a un dito un piuttosto
+
+[[Grotesque|grottesco]] ombrello verde, o parasole, che faceva roteare pigramente come un
+
+ninnolo. Poiché camminava sempre più adagio e Barbara camminava svelta
+
+e voleva camminare ancora più svelta, riuscì a stento a reprimere un'esclamazione di
+
+impazienza e qualcosa come la richiesta di lasciarle il passo. Il grosso uomo
+
+con la barba si voltò immediatamente e la fissò; poi sollevò
+
+un monocolo e se lo incastrò nell'occhio e subito sorrise le sue scuse. Lei
+
+capì che doveva essere miope e che per lui, un attimo prima, era stata una semplice
+
+macchia confusa, ma c'era qualcos'altro nel mutamento del suo
+
+volto e dei suoi modi, qualcosa che aveva già visto prima, ma a cui non
+
+sapeva dare un nome.
+
+Spiegò, con la più formale cortesia, che stava andando a lasciare un
+
+biglietto per un funzionario del Governatorato, e non c'era davvero ragione
+
+che lei gli negasse fiducia o conversazione. Camminarono un poco
+
+insieme, parlando di cose generali, e non aveva scambiato più
+
+di qualche frase prima di rendersi conto che stava parlando con un
+
+uomo notevole.
+
+Molto si sente dire di questi tempi sui pericoli dell'[[innocence|innocenza]], molto di
+
+falso e un poco di vero. Ma l'argomento è quasi esclusivamente
+
+applicato all'[[innocence|innocenza]] sessuale. C'è moltissimo che andrebbe detto
+
+sui pericoli dell'[[innocence|innocenza]] politica. Quella necessarissima e
+
+nobilissima virtù del patriottismo è molto spesso condotta alla [[Despair|disperazione]] e
+
+alla rovina, in modo del tutto inutile e prematuro, dalla follia di educare
+
+le classi agiate a un falso ottimismo sui trascorsi e sulla sicurezza
+
+dell'Impero. I giovani come Barbara Traill spesso non hanno mai udito una
+
+parola sull'altra faccia della storia, come la racconterebbero gli irlandesi
+
+o gli indiani o perfino i franco-canadesi, ed è colpa dei loro genitori
+
+e dei loro giornali se spesso passano di colpo da uno stupido britannicismo a
+
+un bolscevismo altrettanto stupido. L'ora di Barbara Traill era giunta, benché
+
+probabilmente lei non lo sapesse.
+
+«Se l'Inghilterra mantiene le sue promesse», disse l'uomo con la barba, aggrottando la fronte,
+
+«c'è ancora una possibilità che le cose restino tranquille.»
+
+E Barbara aveva risposto, come uno scolaretto: «L'Inghilterra mantiene sempre le sue
+
+promesse.»
+
+«I Waba non se ne sono accorti», rispose lui con aria di trionfo.
+
+Gli onniscienti sono spesso ignoranti. Sono spesso ignoranti soprattutto della
+
+propria ignoranza. Lo sconosciuto immaginava di pronunciare una schiacciante
+
+battuta, e forse lo era, per chiunque sapesse ciò che intendeva. Ma
+
+Barbara non aveva mai sentito parlare dei Waba. Ci avevano pensato i giornali.
+
+«Il [[government|Governo]] britannico», stava dicendo, «si è impegnato in modo esplicito due
+
+anni fa a un piano completo di autonomia locale. Se è un piano
+
+completo, andrà tutto [[Well|bene]]. Se Lord Tallboys è venuto quaggiù con un
+
+piano incompleto, un compromesso, sarà molto lontano dall'andare [[Well|bene]]. Mi
+
+dispiacerà molto per tutti, ma specialmente per i miei amici inglesi.»
+
+Lei rispose con un giovane e [[Innocent|innocente]] sogghigno: «Oh, sì… suppongo che lei sia un
+
+grande amico degli inglesi.»
+
+«Sì», replicò lui con calma. «Un amico: ma un amico sincero.»
+
+«Oh, so tutto di quella specie», disse lei con calda sincerità. «So
+
+che cosa intendono per amico sincero. Ho sempre scoperto che significava un amico odioso,
+
+beffardo, sornione, traditore.»
+
+Parve punto per un istante e rispose: «I vostri politici non hanno
+
+bisogno di imparare il tradimento dagli egiziani.» Poi aggiunse bruscamente: «Sa
+
+che durante l'incursione di Lord Jaffray hanno sparato a un [[Child|bambino]]? Sa qualcosa
+
+di qualunque cosa? Sa almeno come l'Inghilterra ha appiccicato l'[[Egypt|Egitto]] al suo Impero?»
+
+«L'Inghilterra ha un glorioso Impero», disse la patriota con fermezza.
+
+«L'Inghilterra aveva un glorioso Impero», disse lui. «E anche l'[[Egypt|Egitto]].»
+
+Erano giunti, un po' simbolicamente, alla fine del loro cammino comune e
+
+lei si voltò indignata verso il cancello che portava ai giardini privati
+
+del Governatore. Mentre lo faceva, lui sollevò il suo ombrello verde e indicò
+
+con un gesto fuggevole la linea scura del [[Desert|deserto]] e la lontana
+
+Piramide. Il pomeriggio si era già arrossato in sera, e il tramonto
+
+si stendeva in lunghe fasce di cremisi ardente sulla purpurea desolazione di quel
+
+arido mare interno.
+
+«Un glorioso Impero», disse. «Un Impero su cui il sole non tramonta mai.
+
+Guardi… il sole sta tramontando nel [[Blood|sangue]].»
+
+Attraversò il cancello di ferro come il [[Wind|vento]] e lo lasciò sbattere alle sue spalle.
+
+Mentre risaliva il viale verso i giardini interni, perse un poco del
+
+suo movimento impaziente e cominciò a trascinarsi in quel modo piuttosto
+
+cupo che le era più naturale. I colori e le ombre di quella
+
+scena più quieta parvero richiudersi attorno a lei; quel luogo era per il momento
+
+quanto di più simile a [[Home|casa]] avesse, e in fondo alla lunga prospettiva dei
+
+vialetti del [[Garden|giardino]] dai colori allegri, poteva vedere sua sorella Olive che coglieva
+
+[[Flowers|fiori]].
+
+La vista la rasserenò; ma era un po' perplessa sul perché avesse
+
+bisogno di rasserenarsi. Aveva la sensazione profondamente inquietante di aver toccato
+
+qualcosa di alieno e terribile, qualcosa di feroce e del tutto estraneo, come se
+
+avesse accarezzato una strana bestia selvaggia del [[Desert|deserto]]. Ma i giardini
+
+attorno a lei e la [[house|casa]] più in là avevano già assunto un tono o una sfumatura
+
+indescrivibilmente inglese, nonostante il recente insediamento e il cielo
+
+africano. E Olive stava così evidentemente scegliendo [[Flowers|fiori]] da mettere in
+
+vasi inglesi o da usare per decorare tavole inglesi, con caraffe e mandorle
+
+salate.
+
+Ma via via che si avvicinava a quella figura lontana, la cosa si faceva più sconcertante. I
+
+fiori stretti nella mano della sorella parevano semplici manciate stracciate e casuali,
+
+strappate come un uomo sdraiato sull'erba strappa oziosamente i fili,
+
+quando è distratto o adirato. Qualche stelo sciolto giaceva sparso sul
+
+sentiero; sembrava che le corolle fossero state semplicemente spezzate come da un
+
+[[Child|bambino]]. Barbara non sapeva perché registrasse tutti questi particolari con occhio lento
+
+e stordito, prima di guardare la figura centrale che essi circondavano.
+
+Poi Olive alzò lo sguardo e il suo volto era spettrale. Avrebbe potuto essere il
+
+volto di Medea nel [[Garden|giardino]], mentre coglieva i [[Flowers|fiori]] velenosi.
+
 
 
 <span class="atom-split" data-atom="story_03_ii_the_boy_who_made_a_scene--part_01" data-title="FourFaultlessFelons — II The Boy Who Made A Scene (part 1)" data-chapter="II The Boy Who Made A Scene" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/flowers,motif/garden,motif/nature,motif/snow,motif/soul,motif/time,motif/well,concept/doubt,concept/nature,form/tragedy,histref/bible,setting/egypt,character/arthur"></span>
@@ -14669,6 +15000,178 @@ almost as crudely as her brother: "I'm afraid Tom is very rude to you,"
 she said. "I'm very sorry. How do you think he is getting on?"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III L'UOMO CHE NON SAPEVA ODIARE
+
+SUBITO dopo aver lasciato il piccolo ricevimento in [[Garden|giardino]], Tom e il suo precettore
+
+si separarono per la sera, poiché il primo abitava al Governatorato, mentre
+
+il secondo aveva una specie di casetta o piccolo bungalow più in alto sulla [[Hill|collina]]
+
+alle spalle, tra gli alberi più alti. Il precettore disse in privato ciò che tutti
+
+si erano indignati aspettandosi che dicesse in pubblico, e rimproverò il
+
+ragazzo per la sua esibizione di teatro imitativo.
+
+«[[Well|Bene]], non mi piacerà,» disse Tom in tono di avvertimento. «Mi piacerebbe ucciderlo. Il suo
+
+naso sporge in fuori.»
+
+«Difficilmente ti puoi aspettare che sporga in dentro,» disse mitemente il signor Hume. «Mi [[Wonder|domando]]
+
+se esista una vecchia storia sull'uomo il cui naso sporgeva in dentro.»
+
+«Esiste?» chiese l'altro con lo spirito letterale dell'infanzia.
+
+«Potrebbe esistere domani,» rispose il precettore e cominciò a salire il ripido
+
+sentiero verso la sua dimora.
+
+Era una casetta costruita per lo più di bambù e legname leggero, con una veranda
+
+che correva tutt'intorno all'esterno, da cui si poteva vedere l'intero distretto steso
+
+come una mappa. I quadrati grigi e verdi dell'edificio del Governatorato
+
+e dei suoi terreni; il sentiero che correva dritto sotto il basso muro del [[Garden|giardino]] e
+
+parallelo alla fila delle ville; il sicomoro solitario che interrompeva la linea
+
+in un punto e più oltre la fila più fitta degli ulivi, come un
+
+chiostro spezzato, e poi un altro varco e poi l'angolo del muro,
+
+oltre il quale si stendevano pendii bruni di [[Desert|deserto]], chiazzati qua e là di
+
+verde, dove il terreno veniva inerbito come parte di qualche nuova opera pubblica
+
+o delle rapide riforme del Vicegovernatore nell'organizzazione militare. Il
+
+tutto pendeva sotto di lui come una vasta nuvola colorata nel breve riverbero del
+
+tramonto orientale; poi fu rapidamente avvolto nella penombra purpurea in
+
+cui le [[Stars|stelle]] intense spiccavano sopra il suo capo e sembravano più vicine delle
+
+cose della terra.
+
+Rimase per qualche momento sulla veranda a guardare dall'alto l'oscurarsi del
+
+paesaggio, i lineamenti tozzi annodati in un cipiglio di curiosa riflessione.
+
+Poi tornò nella stanza dove lui e il suo allievo avevano lavorato tutto il
+
+giorno, o dove lui aveva lavorato per indurre il suo allievo a considerare l'idea di
+
+lavorare. Era una stanza piuttosto spoglia e i pochi oggetti che conteneva piuttosto strani
+
+e disparati. Alcuni scaffali mostravano libri molto grandi e allegramente colorati
+
+contenenti i versi del signor Edward Lear, e libri molto piccoli e malandati
+
+contenenti i versi dei principali poeti francesi e latini. Una rastrelliera di
+
+pipe, tutte appese storte, dava l'inevitabile tocco da scapolo; una
+
+canna da pesca e un vecchio fucile a [[Double|doppia]] canna stavano appoggiati, polverosi e in disuso, in un
+
+angolo; perché era da molto tempo che quest'uomo, per altri versi così lontano dagli
+
+sport dei suoi connazionali, si era concesso quei due passatempi, soprattutto
+
+perché erano poco socievoli. Ma ciò che forse era più curioso di tutto,
+
+la scrivania e il pavimento erano ingombri di diagrammi geometrici trattati in
+
+un modo insolito tra i geometri, perché le figure erano ornate di
+
+facce assurde o di gambe saltellanti, come quelle che uno scolaro aggiunge ai quadrati
+
+e ai triangoli sulla lavagna. Ma i diagrammi erano tracciati con grande
+
+precisione, come se il disegnatore avesse un occhio esatto ed eccellesse in
+
+tutto ciò che dipendeva da quell'organo.
+
+John Hume si sedette alla scrivania e cominciò a disegnare altri diagrammi. Poco
+
+dopo accese una pipa, e cominciò a studiare quelli che aveva disegnato, ma non
+
+lasciò né la scrivania né i suoi pensieri. Così le ore passarono in un'
+
+immobilità insondabile attorno a quell'eremo sul fianco della collina, finché le lontane
+
+note di una banda più o meno vivace non salirono dal basso, come segnale
+
+che un [[Dance|ballo]] al Governatorato era già in corso. Sapeva che c'era
+
+un [[Dance|ballo]] quella [[Night|notte]] e non ci fece caso; non era sentimentale,
+
+ma alcune delle melodie smuovevano ricordi quasi meccanici. La famiglia Tallboys
+
+era un po' all'antica, perfino per quel [[Time|tempo]] piuttosto più remoto.
+
+Erano all'antica nel non fingere di essere più democratici di quanto
+
+fossero. I loro dipendenti erano dipendenti, trattati decorosamente; non
+
+si dicevano liberali perché trascinavano i propri adulatori in
+
+società. Non era quindi mai passato per la mente del segretario o del
+
+precettore che il [[Dance|ballo]] al Governatorato li riguardasse. Erano
+
+all'antica anche nell'organizzazione del [[Dance|ballo]] stesso, e bisogna
+
+tener conto anche della data. Le nuove danze avevano appena cominciato a
+
+penetrare, e nessuno aveva sognato la sfrenata e varia [[Freedom|libertà]] della nostra nuova
+
+moda, per cui si deve passeggiare tutta la [[Night|notte]] con lo stesso
+
+partner sulla stessa melodia. Tutto questo senso di distanza, materiale e morale,
+
+nei vecchi valzer ondeggianti si muoveva nel suo subconscio e va
+
+tenuto presente nel valutare ciò che d'un tratto, alzando gli occhi, vide.
+
+Per un istante sembra che, salendo attraverso la foschia, la melodia avesse
+
+preso contorno e colore e fosse irrotta nella sua stanza con la presenza corporea
+
+di un [[Song|canto]], perché gli azzurri e i verdi del suo abito fantasia erano come
+
+note di musica e il suo volto stupefacente gli giunse come un grido, un grido dalla
+
+vecchia giovinezza che aveva perduto o mai conosciuto. Una principessa in volo fuori dal
+
+regno delle fate non sarebbe sembrata più impossibile di quella ragazza uscita da quella
+
+sala da ballo, benché la conoscesse [[Well|bene]] come sorella minore del suo
+
+allievo, e il ballo fosse a poche centinaia di metri. Il suo volto era come un
+
+volto pallido che ardeva attraverso [[A Dream|un sogno]] ed esso stesso inconsapevole come quello di un
+
+sognatore, perché Barbara Traill era curiosamente inconsapevole di quella maschera di
+
+[[Beauty|bellezza]] fissata sulla sua [[Soul|anima]] fanciullesca e assorta. Era stata considerata meno
+
+attraente delle sorelle e i suoi musi l'avevano quasi segnata come il
+
+brutto anatroccolo. Nulla nell'uomo massiccio davanti a lei rivelava lo shock della
+
+consapevolezza nella sua mente. Non sorrise nemmeno. Era anche
+
+caratteristico di lei sbottare subito con ciò che aveva da dire,
+
+quasi con la stessa crudezza del fratello: «Temo che Tom sia molto scortese con lei,»
+
+disse. «Mi dispiace molto. Come pensa che stia andando?»
+
 
 
 <span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_02" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 2)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt" data-tags="archetype/child,motif/desert,motif/prison,motif/silence,motif/time,motif/well,concept/self,concept/truth,setting/desert,setting/germany"></span>
@@ -14863,6 +15366,198 @@ her strange reliance and felt like one who had dug in the [[Desert|desert]] and
 found a very deep [[Well|well]], and found it dry.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Credo che la maggior parte delle persone direbbe,” disse lentamente alla fine, “che dovrei…”
+
+“Chiedere scusa per la sua educazione più di quanto lo faccia tu per la sua famiglia… Mi dispiace davvero.”
+
+#Il suo zio… ma è sempre una scelta tra due mali. Tallboys è davvero…
+
+Uomo distinto… e in grado di badare alla propria dignità… ma io devo farlo lo stesso.
+
+"#Prenditi cura della mia responsabilità… So che è il modo giusto per gestirla."
+
+Non preoccuparti per lui: sta benissimo, se solo lo capisci.
+
+E ora è solo questione di recuperare il tempo perso.
+
+Ascoltava… o forse no, con quella sua tipica espressione corrucciata…
+
+# Astrazione… Aveva accettato la sedia che le aveva offerto, apparentemente senza pensarci troppo.
+
+Notandolo, fissava quei diagrammi comici, apparentemente senza capirne il significato.
+
+Vedendoli. In effetti, si poteva ben pensare che lei non fosse lì.
+
+# Non stava affatto ascoltando, perché il commento successivo che fece sembrava riguardare qualcos’altro…
+
+Argomento completamente diverso… Ma spesso aveva l’abitudine di comportarsi in questo modo.
+
+Titolo:  
+“Fragmenti della sua mente… E nel puzzle c’era molto di più di quanto sembrasse”.
+
+#Molte persone capirono. Comunque, disse all’improvviso, senza alzare lo sguardo…
+
+“Gli occhi di quel ridicolo disegno davanti a me… ‘Ho incontrato un uomo che stava andando…”
+
+#Il Governatorato oggi… Un uomo alto, con una lunga barba bionda e un solo…
+
+Occhialino… Sai chi è? Ha detto un sacco di cose orribili.
+
+Contro l’Inghilterra.
+
+# Hume si alzò, con le mani in tasca e un’espressione…
+
+“Uno che sta per fischiare… Guardò la ragazza e disse dolcemente: ‘Ciao!’”
+
+#È ricomparso di nuovo? Pensavo che ci sarebbero stati problemi… Sì, lo so.
+
+Lo chiamano dottor Gregory, ma credo che venga dalla [[Germany|Germania]].
+
+#Un uccello tempestoso
+
+Ovunque vada, succedono sempre problemi. Alcuni dicono che avremmo dovuto utilizzarlo…
+
+Noi stessi; credo che una volta abbia offerto i suoi talenti al nostro [[government|Governo]]. Lui è.
+
+#Un individuo davvero intelligente, che conosce un’infinità di fatti su queste cose
+
+“Parti.”
+
+“Volete dire,” disse lei in tono tagliente, “che dovrei credere che quell’uomo… e tutti gli altri…”
+
+Le cose che ha detto?
+
+“No,” disse Hume. “Non dovrei credere a quell’uomo; nemmeno se tu ci credi.”
+
+Tutte le cose che aveva detto.
+
+“Cosa intendi dire?” chiese lei.
+
+“Francamente, penso che sia una persona davvero spregevole,” disse l’insegnante. “Ha…”
+
+# Una reputazione piuttosto pessima riguardo alle donne… Non entrerò nei dettagli, ma…
+
+È stato messo in [[Prison|prigione]] due volte, ma solo per aver indotto testimoni a mentire sotto giuramento. Dico soltanto, qualunque cosa sia.
+
+Potresti finire per crederci, ma non credere davvero in lui.
+
+“Osò dire che il nostro [[government|Governo]] ha mancato alla sua parola,” disse Barbara.
+
+Con indignazione.
+
+John Hume rimase in silenzio. Qualcosa nel suo [[Silence|silenzio]] la colpì profondamente, come se.
+
+“Strain… e lei disse in modo del tutto irrazionale: ‘Oh, per l’amor del Signore, dì qualcosa’.”
+
+“Qualcosa! Sai che ha avuto il coraggio di dire che qualcuno, nella casa di Lord Jaffray…”
+
+Hanno sparato a un [[Child|>bambino]] durante l’espedizione? Non mi dispiace che dicano che in Inghilterra fa freddo.
+
+“Hard and all that… Immagino sia un pregiudizio naturale. Ma non possiamo smetterla?”
+
+“Queste bugie selvagge e malvagie, ”
+
+“Beh,” rispose Hume con un certo affaticamento, “nessuno può dire che Jaffray sia freddo.”
+
+E con forza. La scusa per tutto questo era che era completamente ubriaco.
+
+“Allora dovrò credere alle parole di quel bugiardo!” disse lei con rabbia.
+
+“È davvero un bugiardo,” disse il tutore con tono cupo. “E non è affatto una cosa da sottovalutare…”
+
+Condizione pericolosa della stampa e del pubblico, quando solo i bugiardi parlano
+
+la [[Truth|verità]].
+
+C’è qualcosa di estremamente potente nel suo cupo [[Humour|umore]] in questo momento.
+
+La sua rabbia soffocata prevalse, e lei disse con voce più calma:
+
+“Credi davvero in questa richiesta di [[Self|autosogestione]] e [[government|-governamento autonomo]]?”
+
+“Non sono molto bravo a credere,” disse. “Mi sembra davvero difficile farlo.”
+
+#Credono che queste persone non possano vivere o respirare senza voti…
+
+#Visse felicemente senza di loro per cinquecento secoli… quando invece avrebbero potuto averli.
+
+Tutta la nazione nelle loro mani. Un Parlamento può essere una cosa positiva…
+
+“Top Hat: For Some, Perhaps a Good Thing…”
+
+# O non apprezziate i nostri cappelli a cilindro… Ma se un turco selvaggio mi dicesse di possedere qualcosa di naturale…
+
+Titolo:  
+Nato con il diritto di indossare un cappello a cilindro… non posso fare a meno di chiedere: “Allora, per quale motivo diavolo…”
+
+“Non ne hai fatto uno per te stesso?”
+
+“Sembra che nemmeno tu tenga molto in considerazione i Nazionalisti,” disse lei.
+
+“I loro politici sono spesso truffatori, ma non sono gli unici in questo senso.”
+
+#Una posizione intermedia…
+
+Neutralità benevola… Sembra semplicemente una scelta tra molte possibili opzioni.
+
+# Maledetti furfanti e un sacco di idioti inutili.
+
+Vedete, sono una persona moderata.
+
+Rise per la prima [[Time|volta]], e il suo volto semplice, ordinario, d'un tratto.
+
+Modificata per il meglio. Disse con un tono più cordiale:
+
+“Beh, dobbiamo impedire che si verifichi un’epidemia vera e propria. Non vorremo certo che tutta la nostra gente, ”
+
+“Ucciso.”
+
+“Solo un po’ assassinato…”, disse ancora sorridendo. “Sì, credo che sia proprio così.”
+
+# Come alcuni di loro, forse sarebbe meglio ucciderli… Ma non troppo, ovviamente; è solo un’idea…
+
+Una questione di senso delle proporzioni.
+
+“Ora stai dicendo sciocchezze,” disse lei, “le persone nella nostra posizione…”
+
+Non sopporto assolutamente nessuna sciocchezza. Harry dice che forse dovremo dare un esempio.
+
+“Lo so,” disse. “Ne ha fatti diversi esempi quando era al comando qui.”
+
+Prima che Lord Tallboys comparisse… Era vigoroso… davvero molto vigoroso. Ma penso…
+
+So cosa sarebbe meglio che creare un esempio.
+
+«E che cosa?»
+
+“Dare l’esempio,” disse Hume. “E i nostri politici, invece?”
+
+Disse all'improvviso: “Beh, perché non fai qualcosa tu stesso?”
+
+C'era un [[Silence|silenzio]]. Poi fece un respiro profondo. “Ah, eccomi qui.”
+
+Non riesco a fare nulla da solo. Sono inutile; naturalmente e inevitabilmente inutile.
+
+Soffro di una debolezza fatale.
+
+# Improvvisamente si sentì spaventata; aveva incontrato il suo sguardo vuoto e…
+
+Occhi vuoti.
+
+“Non posso odiare,” disse. “Non posso arrabbiarmi.”
+
+#Qualcosa nella sua voce profonda sembrava denotare autenticità, come il suono di…
+
+“Una lastra di pietra su un sarcofago… Non protestò, e nel suo…”
+
+#Il subconscio esprimeva delusione… Lei ne comprese appena la profondità.
+
+La sua strana dipendenza, mi faceva sentire come qualcuno che si fosse scavato una vita nel [[Desert|-deserto]].
+
+Scoprì un [[Well|pozzo]] molto profondo, ma lo trovò asciutto.
+
 
 
 <span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_03" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 3)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/childhood,motif/flowers,motif/garden,motif/hill,motif/home,motif/leaves,motif/memory,motif/moon,motif/nature,motif/night,motif/prison,motif/silence,motif/time,motif/wheel,concept/fear,concept/grotesque,concept/hope,concept/nature"></span>
@@ -15036,6 +15731,176 @@ the utmost formality; and that [[Night|night]] neither of them slept.
 
 IV THE [[Detective|DETECTIVE]] AND THE PARSON
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando uscì sulla veranda, il ripido [[Garden|giardino]] e la piantagione erano
+
+grigi sotto la [[Moon|luna]], e un certo grigiore si stese anche sul suo animo, uno
+
+stato d'animo di fatalismo e di sorda [[Fear|paura]]. Per la prima [[Time|volta]] comprese
+
+qualcosa di ciò che colpisce un occhio occidentale nei luoghi orientali come
+
+l'innaturalezza della [[Nature|natura]]. La crescita tozza e senza rami del fico d'India
+
+non somigliava alle verzure di [[Home|casa]], che salgono su steli leggeri fino a
+
+[[Flowers|fiori]] deliziosi, simili a farfalle catturate nell'aria. Somigliava piuttosto al
+
+morto e cieco ribollire di una melma verde e squallida: un mondo di piante
+
+piatte e disadorne come pietre. Odiava la superficie pelosa di certi
+
+alberi tozzi e gonfi di quel [[Grotesque|grottesco]] [[Garden|giardino]]; i ciuffi qua e
+
+là le irritavano la fantasia come le avrebbero solleticato il viso. Sentiva
+
+che perfino i grandi [[Flowers|fiori]] ripiegati, se si fossero aperti, avrebbero avuto un
+
+profumo immondo. Aveva la sensazione latente di un sapore di vago orrore, steso
+
+su ogni cosa con la stessa levità del pallido chiarore lunare. Proprio quando l'aveva agghiacciata
+
+più profondamente, alzò lo sguardo e vide qualcosa che non era né pianta né
+
+albero, benché pendesse altrettanto immobile nell'immobilità, ma che aveva l'orrore
+
+singolare di un volto umano. Era un volto bianchissimo, ma barbuto d'oro
+
+come le statue greche d'oro e d'avorio, e alle tempie c'erano due
+
+riccioli dorati, che avrebbero potuto essere le corna di Pan.
+
+Per un istante quella testa immobile avrebbe potuto davvero essere quella di un
+
+dio confinario dei giardini. Ma l'istante dopo trovò le gambe e prese
+
+vita, balzando sul sentiero dietro di lei. Si era già allontanata
+
+di un buon tratto dalla capanna e non era lontana dai giardini illuminati
+
+del Governatorato, da cui la musica cresceva più forte via via che avanzava.
+
+Ciò nonostante, si voltò di scatto e prese la direzione opposta, guardando
+
+disperatamente la figura che aveva riconosciuto. Aveva abbandonato il fez rosso
+
+e la finanziera nera ed era vestito completamente di bianco, come molti villeggianti
+
+dei tropici, ma al chiaro di luna ciò gli dava qualcosa del tocco argenteo
+
+di un arlecchino spettrale. Mentre avanzava si incastrò il disco lucente
+
+nell'occhio, e questo rivelò in un lampo il vago [[Memory|ricordo]] che le era sempre
+
+sfuggito. Il suo volto in riposo era calmo e classico e avrebbe potuto essere
+
+la maschera di pietra di Giove più che di Pan. Ma il monocolo raccoglieva i suoi
+
+lineamenti in un ghigno e sembrava avvicinargli gli occhi fra loro; e
+
+improvvisamente lei vide che non era tedesco più di quanto fosse inglese. E
+
+benché non avesse pregiudizi antisemiti in particolare, sentì in qualche modo
+
+che in quella scena c'era qualcosa di sinistro in un ebreo biondo, come in un
+
+negro bianco.
+
+«Ci incontriamo sotto un cielo ancora più bello», disse; lei quasi non udì che
+
+altro dicesse. Frasi spezzate di ciò che aveva sentito poco prima le rotolavano
+
+per la mente, semplici parole come «reputazione» e «[[Prison|prigione]]», e lei
+
+indietreggiò per aumentare la distanza, muovendosi però nella direzione opposta
+
+a quella da cui era venuta. In seguito ricordò a stento che cosa
+
+fosse accaduto; lui aveva detto altre cose; aveva cercato di fermarla, e la sensazione
+
+istantanea di una forza schiacciante e sconvolgente, come quella di uno
+
+scimpanzé, la sorprese fino a strapparle un grido. Poi inciampò e corse, ma non
+
+in direzione della [[house|casa]] della sua gente.
+
+Il signor John Hume si alzò dalla sedia più in fretta del suo solito e
+
+andò incontro a qualcuno che saliva incespicando la scala di fuori.
+
+«Mia cara [[Child|bambina]]», disse, e le posò una mano sulla spalla tremante, dando
+
+e ricevendo uno strano fremito, come una sorda scossa elettrica. Poi si mosse,
+
+passandole rapidamente accanto. Aveva visto qualcosa nel chiaro di luna, più in là,
+
+e, senza scendere i gradini, scavalcò la ringhiera fino al terreno
+
+sottostante, restando immerso fino alla cintola nella vegetazione selvaggia e aggrovigliata. C'era
+
+uno schermo di grandi [[Leaves|foglie]] che ondeggiava avanti e indietro fra Barbara e il rapido
+
+dramma che seguì, ma lei vide, come in lampi di luna, il precettore
+
+guizzare sulla strada della figura in bianco e udì l'urto dei colpi
+
+e vide un calcio simile a una catapulta. Ci fu una [[Wheel|ruota]] di gambe d'argento come le
+
+braccia dell'Isola di Man, e poi, dal fitto profondo del basso
+
+roveto, un fiotto di imprecazioni in una lingua che non era inglese, né del tutto
+
+tedesca, ma che strideva e cianciava in tutti i ghetti del
+
+mondo. Ma una cosa strana le rimase perfino nella [[Memory|memoria]] sconvolta: che
+
+quando la figura in bianco si fu rialzata barcollando e si voltò per precipitarsi giù per
+
+la [[Hill|collina]], il volto bianco e il gesto furioso di maledizione erano
+
+rivolti non verso l'aggressore, ma verso la [[house|casa]] del Governatore.
+
+Il precettore aggrottava pesantemente la fronte mentre risaliva i gradini della veranda,
+
+come se rimuginasse su qualcuno dei suoi problemi di geometria. Lei gli chiese, piuttosto stravolta,
+
+che cosa avesse fatto, e lui rispose con la sua voce grave: «[[Hope|Spero]] di averlo mezzo
+
+ammazzato. Sa che sono favorevole alle mezze misure».
+
+Lei rise in modo piuttosto isterico ed esclamò: «Aveva detto che non sapeva
+
+arrabbiarsi».
+
+Poi diventarono all'improvviso rigidissimi e silenziosi, e fu con una formalità quasi
+
+fatua che lui la accompagnò giù per il pendio fino alle porte stesse
+
+delle sale da ballo. Il cielo dietro le verdi pergole di fogliame era di un
+
+violetto vivo, o di un azzurro che pareva più caldo di qualsiasi rosso; e
+
+i filamenti pelosi dei grandi tronchi sembravano le bizzarre
+
+bestie marine dell'[[Childhood|infanzia]], che si potevano accarezzare e che dispiegavano le loro
+
+dita. C'era qualcosa fra loro due al di là delle parole e perfino del
+
+[[Silence|silenzio]]. Arrivò persino a dire che era una bella [[Night|notte]].
+
+«Sì», rispose lei, «è una bella [[Night|notte]]»; e sentì subito di aver
+
+tradito un segreto.
+
+Attraversarono i giardini interni fino al cancello del vestibolo, che
+
+era affollato di gente in uniforme e in abito da sera. Si separarono con
+
+la massima formalità; e quella [[Night|notte]] nessuno dei due dormì.
+
+IV IL [[Detective|DETECTIVE]] E IL PASTORE
 
 
 
@@ -15223,6 +16088,188 @@ voice. "It's quite true Sir Harry has arrested the doctor, but he'd
 arrested him before he heard of the attempt on Lord Tallboys. He had just
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+FU soltanto la sera seguente, come già si è detto, che giunse la notizia
+
+che il Governatore era caduto colpito da una mano ignota. E
+
+Barbara Traill ricevette la notizia più tardi della maggior parte dei suoi amici, perché
+
+quella mattina era partita piuttosto bruscamente per una lunga passeggiata tra le
+
+rovine e le piantagioni di palme dei dintorni immediati. Portò con sé una
+
+specie di cesta da picnic, ma per quanto leggero fosse il suo bagaglio visibile,
+
+sarebbe vero dire che se ne andava a disfare i bagagli su vasta scala. Andava
+
+a dispiegare una sorta di impedimenta invisibile che si era accumulata nei
+
+suoi ricordi, e specialmente nei ricordi della [[Night|notte]] precedente. Questa sorta di
+
+impetuosa [[Solitude|solitudine]] le era caratteristica, ma ebbe un effetto immediato
+
+che nel suo caso fu piuttosto fortunato. Perché le prime notizie furono le
+
+peggiori, e quando tornò il peggio era stato molto attenuato. Dapprima
+
+si disse che suo zio era morto; poi che stava morendo; infine
+
+che era soltanto ferito e aveva ogni prospettiva di guarigione. Entrò
+
+con la sua cesta vuota dritta nel tumulto delle discussioni su
+
+queste cose, e scoprì presto che le operazioni di polizia per la scoperta
+
+e l'inseguimento del criminale erano già molto avanzate. L'indagine era nelle
+
+mani di un ufficiale dalla testa dura e dal viso affilato di nome Hayter, il capo
+
+della squadra [[Detective|investigativa]]; attivamente coadiuvato dal giovane Meade,
+
+il segretario del Governatore. Ma fu piuttosto più sorpresa di trovare
+
+il suo amico precettore proprio al centro del gruppo, interrogato
+
+sulle sue recenti esperienze.
+
+Un attimo dopo sentì salire in sé una strana ondata di fastidio
+
+inconscio, quando comprese l'oggetto delle domande. Gli
+
+interroganti erano Meade e Hayter; ma era significativo che avessero
+
+appena ricevuto la notizia che Sir Harry Smythe, con la sua caratteristica energia,
+
+aveva arrestato il dottor Paulus Gregory, il dubbio straniero dalla gran
+
+barba. Il precettore veniva interrogato sull'ultima volta che aveva visto quel
+
+discutibile personaggio pubblico, e Barbara provò una furia segreta nel trovare
+
+la faccenda della [[Night|notte]] precedente trasformata in un pubblico problema di polizia.
+
+Si sentiva come se fosse scesa al mattino per trovare tutta la
+
+tavola della colazione a parlare di un sogno intimissimo che aveva fatto nel
+
+cuore della [[Night|notte]]. Perché, benché avesse portato con sé quell'immagine mentre
+
+vagava tra le tombe e i verdi boschetti, l'aveva sentita come
+
+qualcosa di suo, di personale, come se avesse avuto una visione nel
+
+deserto. Il compìto signor Meade dai capelli neri era particolarmente insinuante
+
+nella sua curiosità. Si disse, in modo assai irragionevole,
+
+che aveva sempre odiato [[arthur|Arthur]] Meade.
+
+«Deduco», stava dicendo il segretario, «che lei abbia ottime ragioni
+
+personali per considerare quest'uomo un personaggio pericoloso.»
+
+«Lo considero un mascalzone, e l'ho sempre fatto», rispose Hume in modo piuttosto
+
+imbronciato e riluttante. «Ho avuto un po' di baruffa con lui ieri
+
+[[Night|notte]], ma questo non ha cambiato nulla nelle mie opinioni, né in quelle di lui,
+
+immagino.»
+
+«A me pare che potrebbe cambiare parecchio», insistette
+
+Meade. «Non è vero che se ne andò maledicendo non solo lei, ma
+
+soprattutto il Governatore? E se ne andò giù per la [[Hill|collina]] verso il luogo
+
+dove il Governatore è stato colpito. È vero che non fu colpito se non parecchio [[Time|tempo]]
+
+dopo, e nessuno pare abbia visto l'aggressore; ma potrebbe essersi
+
+attardato nei boschi e poi essere sgusciato fuori lungo il muro all'imbrunire.»
+
+«Dopo essersi servito di un fucile dall'albero dei fucili che cresce selvatico in
+
+questi boschi, suppongo», disse il precettore in tono sardonico. «Giuro che non aveva né
+
+fucile né [[Pistol|pistola]] addosso quando lo scaraventai tra i fichi d'India.»
+
+«Sembra che stia pronunciando l'arringa della difesa», disse il segretario
+
+con un lieve ghigno. «Ma è lei stesso ad aver detto che era un personaggio piuttosto
+
+dubbio.»
+
+«Non credo affatto che sia un personaggio dubbio», replicò il
+
+precettore col suo fare impassibile. «Io non ho il minimo [[Doubt|dubbio]] sul suo conto. Lo
+
+ritengo uno spaccone dissoluto, bugiardo e vizioso, un impostore; un ciarlatano egoista e
+
+sensuale. Perciò sono abbastanza certo che non sia stato lui a sparare al Governatore,
+
+chiunque altro sia stato.»
+
+Il colonnello Hayter volse un occhio scaltro verso chi parlava e prese la parola per
+
+la prima [[Time|volta]].
+
+«Ah... e che cosa intende esattamente con questo?»
+
+«Intendo quel che dico», rispose Hume. «È proprio perché è quel genere
+
+di furfante che non ha commesso quel genere di furfanteria. Gli agitatori del suo
+
+tipo non fanno mai le cose di persona; incitano gli altri; tengono
+
+comizi, fanno girare il cappello e poi spariscono, per fare la stessa cosa
+
+altrove. È tutt'altro genere di persona quello che resta a correre
+
+i rischi di fare il [[Brutus|Bruto]] o la Charlotte Corday. Ma confesso che ci sono
+
+altri due piccoli indizi che, a mio parere, scagionano quell'uomo
+
+completamente.»
+
+Infilò due dita nel taschino del panciotto e lentamente, pensosamente,
+
+ne estrasse un pezzo di vetro rotondo e piatto con un cordoncino spezzato.
+
+«L'ho raccolto sul posto dove ci azzuffammo», disse. «È
+
+il monocolo di Gregory; e se ci guardate attraverso non vedrete nulla,
+
+se non il fatto che un uomo che aveva bisogno di una lente così forte non poteva vedere
+
+quasi nulla senza di essa. Di certo non poteva vederci abbastanza per sparare fino
+
+all'estremità del muro dal sicomoro, che è all'incirca il punto da cui si pensa
+
+debba essere partito il colpo.»
+
+«Può esserci del vero», disse Hayter, «benché l'uomo potesse
+
+avere un'altra lente, naturalmente. Diceva di avere una seconda ragione per
+
+ritenerlo [[Innocent|innocente]].»
+
+«La seconda ragione», disse Hume, «è che Sir Harry Smythe l'ha appena
+
+arrestato.»
+
+«Che diamine vuol dire?» chiese Meade in tono tagliente. «Ma se ci ha portato lei
+
+stesso il messaggio di Sir Harry.»
+
+«Temo di averlo portato piuttosto imperfettamente», disse l'altro, con voce
+
+spenta. «È verissimo che Sir Harry ha arrestato il dottore, ma l'aveva
+
+arrestato prima di sapere dell'attentato a Lord Tallboys. Aveva appena
+
 
 
 <span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_05" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 5)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/flowers,motif/garden,motif/hill,motif/memory,motif/poison,motif/road,motif/time,motif/water,motif/well,concept/fear,concept/identity,form/tragedy"></span>
@@ -15400,6 +16447,185 @@ he's happy and fond of you and yet can't do the forty-eighth proposition
 
 of Euclid? Being a dog is not a disease. Being a [[Child|child]] is not a disease.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo arrestarono per aver organizzato un raduno sovversivo a cinque miglia di distanza.
+
+#Pentapolis: dove tenne un discorso eloquente che sicuramente toccò il cuore di tutti
+
+La sua bellissima conclusione riguardo al momento in cui Tallboys veniva bersagliato di colpi.
+
+Qui, all’angolo di questa [[Road|strada]].
+
+“Mio Dio!”, esclamò Meade, fissandolo, “sembrate sapere molte cose al riguardo…”
+
+“Affari.”
+
+Il tutore, piuttosto cupo, alzò lo sguardo e fissò dritto…
+
+Una segretaria con uno sguardo serio, ma piuttosto enigmatico.
+
+“Forse so qualcosa al riguardo,” disse. “Comunque, ne sono abbastanza sicuro.”
+
+Gregory ha un ottimo alibi.
+
+# Barbara aveva ascoltato questa strana conversazione con aria confusa e…
+
+Un’attenzione piuttosto dolorosa… ma poiché le prove contro Gregory sembravano essere…
+
+“Crumbling Away: Una nuova emozione iniziava a emergere in lei…”
+
+Titolo:  
+Iniziò a rendersi conto che in realtà desiderava che Gregory venisse… fatto qualcosa.
+
+# Responsabile… non per alcun particolare rancore nei suoi confronti, ma perché era necessario.
+
+Titolo: Spiegherebbe e risolverebbe l’intero episodio, allontanandolo dalla sua mente.
+
+“Ora che…” – un’altra idea inquietante, ma appena consapevole…
+
+Il criminale era nuovamente diventato un’anonima [[Shadow|ombra]]; iniziò a perseguitarla.
+
+Con terribili indizi riguardo alla sua [[Identity|identità]], lei provava attacchi di [[Fear|>paura]], durante i quali.
+
+Quella figura oscura all’improvviso assunse un volto.
+
+Come già accennato, Barbara Traill aveva una certa tendenza alla malinconia riguardo a…
+
+Il fratello e la [[Tragedy|tragedia]] dei Traills. Era una lettrice vorace; leggeva di tutto.
+
+Titolo:  
+Era il tipo di studentessa che si trovava sempre in un angolo, con…
+
+Libro… E questo significa, in generale e nelle condizioni moderne, che lei leggeva.
+
+C'erano molte cose che non riusciva a capire, finché un giorno non iniziò a leggere qualcosa.
+
+“Quanto più poteva… La sua mente era un miscuglio di informazioni tratte dalla divulgazione scientifica…”
+
+# Eredità e psicoanalisi: la tendenza complessiva della sua cultura
+
+Titolo:  
+Per farla diventare pessimista su tutto… Le persone in questo stato d’animo non hanno mai…
+
+# Difficoltà nell’individuare motivi per le proprie peggiori paure… E così era.
+
+“Abbastanza per lei era il fatto che, la mattina stessa prima che suo zio venisse ucciso…”
+
+È stata offesa pubblicamente e addirittura minacciata in modo folle dal suo fratello.
+
+Quel tipo di “veleno” psicologico si insinua sempre più profondamente nell’animo.
+
+# Pensieri oscuri  
+I pensieri di Barbara si intrecciavano e si approfondivano, come una fitta foresta buia…
+
+Non si fermò al pensiero che quel ragazzo noioso e poco sviluppato…
+
+# Un vero pazzo e un assassino… Le generalizzazioni innaturali di…
+
+I libri che aveva letto la spingevano sempre più avanti… E se fosse stato suo fratello?
+
+Non sua sorella? Se fosse sua sorella, perché non lei stessa? Qui la [[Memory|memoria]] ha esagerato.
+
+#E distorto l’atteggiamento distratto di sua sorella…
+
+Giardino pieno di fiori, fino a quando quasi non poté immaginare che Olive avesse strappato via tutto.
+
+[[Flowers|>fiori]] con i suoi denti. Come succede sempre in queste situazioni di preoccupazione squilibrata.
+
+Tutti i tipi di incidenti assunsero un significato terribile… Sua sorella aveva…
+
+“Non c’è forse qualcosa che non va in tutti noi?” Che cosa potrebbe essere?
+
+# Una maledizione familiare così terribile… Anche Hume aveva detto di non essere l’unico a soffrirne
+
+“Una persona pazza è presente… Cosa altro potrebbe significare? Anche il dottor Gregory lo aveva capito…”
+
+Dopo aver parlato con lei, dichiarò che la sua razza era degenerata… Intendeva davvero dire questo?
+
+#Che la sua famiglia fosse decadente? Dopotutto, era un medico… se lo era davvero.
+
+“La malvagia… Ogni una di queste odiose coincidenze le ha inflitto un dolore spirituale profondo.”
+
+# Shock, tanto che quasi gridò quando ci pensò. Nel frattempo…
+
+Il resto della sua mente continuava a girare in tondo, intrappolato in quel circolo vizioso di pensieri simili…
+
+[[logic|logica]] infernale. Si ripeteva continuamente che stava agendo in modo razionale.
+
+“Morbida… e poi si ripeteva ancora e ancora che era soltanto morbida.”
+
+#Perché era pazza… Ma in realtà non lo era affatto; era solo…
+
+giovani… e migliaia di giovani attraversano questa fase della loro vita.
+
+Un [[nightmare|incubo]], e nessuno lo sa né può aiutare.
+
+Ma fu spinta da un curioso impulso alla ricerca di aiuto… e così fece.
+
+Fu lo stesso impulso che l’aveva spinta di nuovo attraverso la radura illuminata dalla luna…
+
+La capanna di legno sulla [[Hill|collina]]. In realtà stava risalendo di nuovo quella [[Hill|collina]].
+
+Quando lo incontrò mentre scendeva.
+
+# Scoprì tutto il suo terrore e le sue sospetti domestici in un flusso inarrestabile…
+
+# Aveva espresso tutte le sue dubbi e proteste patriottiche, in modo confuso…
+
+Fiducia che non si basava su alcuna ragione o relazione definita, eppure era certa
+
+Di per sé stesso.
+
+“Ecco fatto,” disse alla fine del suo monologo impulsivo. “Io…”
+
+Inizialmente ero abbastanza sicuro che fosse stato quel povero Tom a farlo. Ma a questo [[Time|momento]].
+
+Mi sembra di aver potuto farlo anch'io.
+
+“Beh, questo è abbastanza logico,” concordò Hume. “È altrettanto sensato, ”
+
+# Affermare di essere colpevoli come lo è quel Tom… E altrettanto sensato dirlo?
+
+L’Arcivescovo di Canterbury è colpevole, proprio come uno di voi due.
+
+# Tentativi di spiegazione delle sue ipotesi scientifiche sull’ereditarietà
+
+#L’effetto fu ancora più evidente. Riuscirono almeno nel far sì che…
+
+Questa persona grande e lenta sembrava quasi animata.
+
+“Ora che il diavolo si porti via tutti i medici e gli scienziati,” gridò, “o meglio…”
+
+#Che il diavolo si prenda tutti i romanzi e i giornalisti che parlano di ciò che nemmeno…
+
+I medici non capiscono… Le persone sfruttano le vecchie infermiere per spaventare gli altri.
+
+“Bambini con carrellini… che ben presto divennero oggetto di scherzi. E il nuovo?”
+
+#Infermiere che lasciano che i bambini si spaventino da soli con tutti quegli orribili mostri
+
+#Dovrebbero prenderla sul serio? Mia cara ragazza, non c’è nulla…
+
+“Non ha problemi con tuo fratello, né più di quanto ne abbia con te… Lui è semplicemente…”
+
+Chiamarli “nevrotici protetti” è, in sostanza, il loro modo prolisso per dire… lui.
+
+Titolo:  
+Ha una “pelle” in più su cui lo smalto delle scuole pubbliche non riesce ad attaccarsi… ma continua comunque a funzionare.
+
+Se ne andò via velocemente come l’[[Water|acqua]] che scorre sul dorso di un’anatra. Meglio ancora per lui, probabilmente.
+
+# Nonostante tutto, a lungo andare… Ma anche ammettendo che rimanesse un po’ di più…
+
+Come un [[Child|bambino]], diversamente da noi tutti. C’è qualcosa di particolarmente orribile?
+
+Di un [[Child|bambino]]? Ti viene la paura quando pensi al tuo cane, solo perché.
+
+# Non riesce ad accettare la quarantottesima proposta…
+
+Di Euclide? Essere un cane non è una malattia. Essere un [[Child|>bambino]] non è una malattia.
 
 
 
@@ -15580,6 +16806,182 @@ same words, out of the [[Shadow|shadow]] of the sycamore, that sounded in her ea
 
 like a wild cry for [[Blood|blood]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Anche restare un [[Child|bambino]] non è una malattia; non desidera anche lei, a volte, che
+
+potessimo restare tutti bambini?"
+
+Era del genere di persone che afferrano le idee e i suggerimenti uno dopo
+
+l'altro, via via che arrivano, e rimase in silenzio, ma la sua mente lavorava come un
+
+mulino. Fu lui a riprendere la parola, con tono più leggero.
+
+"È come quello che dicevamo a proposito del dare l'esempio. Penso che il mondo
+
+sia fin troppo solenne e severo riguardo alle punizioni; sarebbe assai meglio
+
+se fosse governato come una stanza dei bambini. La gente non ha bisogno dei lavori forzati né
+
+dell'esecuzione capitale e di tutto il resto. Ciò che la maggior parte vuole è una tirata
+
+d'orecchie o di essere mandata a letto. Che spasso sarebbe prendere un milionario
+
+senza scrupoli e metterlo in castigo in un angolo! Una punizione
+
+davvero appropriata."
+
+Quando riprese a parlare c'era nel suo tono qualcosa come un sollievo e una
+
+curiosità rinnovata.
+
+"Che cosa fa con Tom?" chiese, "e che significato hanno tutti
+
+quei buffi triangoli?"
+
+"Faccio il [[Fool|buffone]]", rispose con gravità. "Ciò di cui ha bisogno è che la sua
+
+attenzione venga destata e fissata, e le buffonate lo ottengono sempre con i bambini;
+
+buffonate molto evidenti. Non sa quanto siano sempre piaciute loro
+
+immagini come quella della mucca che salta oltre la [[Moon|luna]]? È l'effetto educativo
+
+degli indovinelli. [[Well|Ebbene]], io devo essere l'[[Riddle|indovinello]]. Devo tenerlo sempre a chiedersi che cosa
+
+intendo o che cosa farò dopo. Significa fare la figura dell'asino, ma è l'unico
+
+modo."
+
+"Sì", rispose lentamente, "c'è qualcosa di terribilmente eccitante negli
+
+indovinelli .. in ogni sorta di indovinelli. Perfino quel vecchio pastore con i suoi indovinelli
+
+tratti dall'Apocalisse dà l'impressione di avere qualcosa per cui vivere .. a
+
+proposito, credo che avessimo promesso di andare da lui a prendere il tè questo pomeriggio; sono stata
+
+in uno stato tale da dimenticare tutto."
+
+Proprio mentre parlava vide la sorella Olive risalire il sentiero, agghindata con
+
+le inconfondibili insegne di chi va a far visita, e accompagnata dal
+
+robusto marito, il Vicegovernatore, che non partecipava spesso a questi
+
+impegni mondani.
+
+Percorsero tutti insieme la [[Road|strada]] e Barbara fu vagamente sorpresa di
+
+vedere davanti a loro, sulla stessa [[Road|strada]], non solo la figura lucida e
+
+impomatata del signor Meade, il segretario, ma anche il profilo più spigoloso del
+
+colonnello Hayter. L'invito del pastore era stato evidentemente
+
+molto esteso.
+
+Il reverendo Ernest [[Snow]] viveva in modo molto modesto in una delle piccole
+
+case che erano state costruite in fila per i funzionari minori del
+
+Governatorato. Era sul retro di questa fila di villette che il sentiero correva
+
+lungo il muro del [[Garden|giardino]] e oltre il sicomoro fino al gruppo di ulivi e
+
+infine fino all'angolo dove il Governatore era caduto colpito dal misterioso
+
+proiettile. Quel sentiero costeggiava il [[Desert|deserto]] aperto e aveva tutto il carattere di una
+
+pista rozza e battuta per i pellegrini del [[Desert|deserto]]. Ma camminando dall'altro lato,
+
+davanti alla fila di case, un viaggiatore avrebbe [[Well|ben]] potuto immaginare
+
+di trovarsi in un qualsiasi sobborgo di [[London|Londra]], tanto erano regolari le ringhiere ornamentali e
+
+tanto identici i portici e i piccoli [[Garden|giardini]] antistanti. Nulla se non un
+
+numero distingueva la [[house|casa]] del pastore, e l'ingresso era
+
+così compassato e stretto che il gruppo di ospiti del Governatorato ebbe
+
+qualche difficoltà a infilarcisi.
+
+Il signor [[Snow]] si inchinò sulla mano di Olive con una cerimoniosità che sembrava fare dei suoi
+
+capelli bianchi un [[Ghost|fantasma]] della cipria settecentesca, ma anche con qualcosa
+
+d'altro che a prima vista risultava un po' più difficile da definire. Era
+
+qualcosa che si accompagnava alla voce abbassata e alla mano levata della sua
+
+professione in certi momenti. Il suo volto era composto, ma sembrava quasi
+
+composto deliberatamente, e nonostante il tono afflitto i suoi occhi
+
+erano molto vivi e fermi. Barbara si rese conto all'improvviso che stava
+
+celebrando un funerale, e non andava lontano dal vero.
+
+"Non ho bisogno di dirle, Lady Smythe", disse con gli stessi accenti soavi,
+
+"quanta partecipazione proviamo tutti in questa ora terribile. Anche solo da un punto di vista
+
+pubblico, la [[Death|morte]] del suo illustre zio..."
+
+Olive Smythe lo interruppe con uno sguardo piuttosto sbarrato.
+
+"Ma mio zio non è morto, signor [[Snow]]. So che all'inizio l'avevano detto, ma ha
+
+solo preso un colpo alla gamba e sta già provando a zoppicare in giro."
+
+Una scossa di trasformazione attraversò il volto del pastore, troppo rapida perché
+
+la maggior parte degli occhi potesse seguirla; a Barbara parve che la mascella gli cadesse e che, quando
+
+si ricompose, fosse in un sorriso di congratulazione del tutto
+
+artificiale.
+
+"Mia cara signora", sussurrò, "per questo sollievo..."
+
+Si guardò intorno un po' assente osservando i mobili. Se il reverendo
+
+Ernest [[Snow]] si fosse ricordato di preparare il tè all'[[Time|ora]] del tè, non era ancora del tutto
+
+chiaro, ma i preparativi che aveva fatto sembravano di un genere meno
+
+rassicurante. I tavolini erano carichi di grossi libri, molti dei quali
+
+aperti, e per lo più tracciati di piante e disegni sparsi,
+
+per lo più architettonici o genericamente archeologici, in certi casi
+
+a quanto pareva astronomici o astrologici, ma che davano nell'insieme una vaga
+
+impressione di incantesimi da mago o di una biblioteca di arti nere.
+
+"Studi apocalittici", balbettò, "un mio passatempo. Credevo che i miei
+
+calcoli . . . Queste cose sono scritte per nostro ammaestramento."
+
+E allora Barbara sentì un'ultima fitta di stupore e di allarme. Perché due
+
+fatti divennero all'istante e simultaneamente vividi alla sua coscienza. Il
+
+primo era che il reverendo Ernest [[Snow]] si era adagiato sul fatto della
+
+[[Death|morte]] del Governatore con qualcosa di molto simile a una solenne soddisfazione, e
+
+aveva appreso della sua guarigione con qualcosa di ben diverso dal sollievo. E il
+
+secondo era che parlava con la stessa voce che un tempo aveva pronunciato le
+
+stesse parole, dall'[[Shadow|ombra]] del sicomoro, e che le risuonava nelle orecchie
+
+come un selvaggio grido di [[Blood|sangue]].
 
 
 
@@ -15766,6 +17168,188 @@ Governor rudely.
 
 "Ah, you are sceptical," replied the tutor in the same airy tone. "[[Well]],
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+V LA TEORIA DELL'OMICIDIO MODERATO
+
+IL COLONNELLO HAYTER, il capo della polizia, si stava dirigendo verso le stanze
+
+interne con un movimento disinvolto ma non casuale. Barbara, in effetti,
+
+si era piuttosto chiesta perché un funzionario simile li avesse accompagnati in una visita
+
+puramente mondana, e ora cominciava a nutrire possibilità vaghe e piuttosto
+
+incredibili. Il pastore si era voltato verso uno degli scaffali e
+
+sfogliava le [[Leaves|pagine]] di un volume con febbrile eccitazione;
+
+sembrava quasi che borbottasse tra sé. Assomigliava un po' a un
+
+uomo che cerca una citazione che gli è stata contestata.
+
+«Ho sentito che ha un bellissimo [[Garden|giardino]] qui, signor [[Snow]]», disse Hayter. «Mi
+
+piacerebbe piuttosto dare un'occhiata al suo [[Garden|giardino]]».
+
+[[Snow]] voltò di scatto un viso trasalito da sopra la spalla; dapprima parve incapace
+
+di staccare la mente dalla propria preoccupazione; poi disse in tono brusco ma un po'
+
+malfermo: «Non c'è niente da vedere nel mio [[Garden|giardino]]; proprio niente. Mi stavo
+
+solo domandando...»
+
+«Le dispiace se ci do una sbirciata?» chiese Hayter con indifferenza, e
+
+si fece largo verso la porta sul retro. C'era qualcosa di risoluto nel
+
+suo gesto che indusse gli altri a seguirlo alla rinfusa, senza sapere bene
+
+quello che facevano. Hume, che stava proprio dietro al [[Detective|detective]], gli disse a
+
+mezza voce: «Che cosa si aspetta di trovare che cresca nel [[Garden|giardino]] del vecchio?»
+
+Hayter si guardò alle spalle con arcigna cordialità.
+
+«Solo un tipo particolare di albero di cui parlavate di recente», disse.
+
+Ma quando uscirono nella striscia ordinata e stretta di [[Garden|giardino]] sul retro, l'unico
+
+albero in vista era il sicomoro che si allargava sul sentiero del [[Desert|deserto]], e
+
+Barbara ricordò con un altro brivido inconscio che quello era il
+
+punto dal quale, secondo i calcoli degli esperti, era stato sparato il proiettile.
+
+Hayter attraversò a grandi passi il prato e lo videro chinarsi su qualcosa nel
+
+groviglio di piante tropicali sotto il muro. Quando si raddrizzò
+
+di nuovo, si vide che teneva un oggetto cilindrico lungo e pesante.
+
+«Ecco qualcosa caduto dall'albero-fucile che secondo lei cresce da queste
+
+parti», disse cupamente. «Curioso che il fucile si trovi proprio dal signor [[Snow]],
+
+nel [[Garden|giardino]] sul retro, non trova? Tanto più che è un fucile a canne [[Double|doppie]] con una
+
+canna scarica».
+
+Hume fissava il grosso fucile nella mano del [[Detective|detective]], e per la
+
+prima [[Time|volta]] il suo viso di solito impassibile mostrò un'espressione di stupore e
+
+persino di costernazione.
+
+«Maledizione!» disse piano, «me n'ero dimenticato. Che razza di [[Fool|sciocco]] sono
+
+am!"
+
+Pochi, tranne Barbara, udirono quel suo strano sussurro, e nessuno riuscì a
+
+cavarne un senso. All'improvviso si voltò di scatto e si rivolse a tutta la compagnia
+
+ad alta voce, quasi fossero un pubblico comizio.
+
+«Sentite», disse, «lo sapete che cosa significa questo? Significa che il povero
+
+vecchio [[Snow]], che probabilmente sta ancora armeggiando con i suoi geroglifici, sarà
+
+accusato di tentato omicidio».
+
+«È un po' prematuro», disse Hayter, «e qualcuno direbbe che lei si sta
+
+intromettendo nel nostro lavoro, signor Hume. Ma le devo qualcosa per averci messo
+
+sulla strada giusta riguardo all'altro tizio, quando ammetto che sbagliavamo».
+
+«Vi sbagliavate sull'altro tizio e vi sbagliate su questo
+
+tizio», disse Hume, aggrottando ferocemente la fronte. «Ma nell'altro caso mi trovavo in grado di
+
+offrirvi delle prove. Che prove posso dare adesso?»
+
+«E perché mai dovrebbe avere prove da dare?» chiese l'altro, molto
+
+perplesso.
+
+«[[Well|Beh]], le ho», disse Hume, «e non voglio [[Well|affatto]] darle». Rimase
+
+in silenzio per un momento, poi esplose in una specie di furia: «Accidenti
+
+a tutto, non vedete quanto è sciocco tirare in ballo quel povero vecchio? Non
+
+capite che si era soltanto [[Love|innamorato]] delle proprie profezie di sciagura, e
+
+che ci era rimasto un po' male quando poi non si erano avverate?»
+
+«Ci sono parecchie altre circostanze sospette», tagliò corto Smythe
+
+seccamente. «C'è il fucile nel [[Garden|giardino]] e la posizione del sicomoro».
+
+Ci fu un lungo [[Silence|silenzio]] durante il quale Hume rimase con le enormi spalle curve
+
+a fissare accigliato e risentito i propri stivali. Poi di colpo alzò
+
+la testa e parlò con una sorta di leggerezza esplosiva.
+
+«Oh, [[Well|beh]], allora dovrò dare la mia testimonianza», disse, con un sorriso quasi
+
+allegro: «al Governatore ho sparato io».
+
+Ci fu un'immobilità come se il luogo fosse pieno di statue, e per
+
+qualche secondo nessuno si mosse né parlò. Poi Barbara sentì la propria voce nel
+
+[[Silence|silenzio]], che gridava: «Oh, non è vero!»
+
+Un attimo dopo il capo della polizia parlava con una voce nuova e molto più
+
+ufficiale: «Vorrei sapere se sta scherzando», disse,
+
+«oppure se intende davvero costituirsi per il tentato omicidio
+
+di Lord Tallboys».
+
+Hume alzò una mano in un gesto perentorio, quasi da oratore
+
+pubblico. Sorrideva ancora leggermente, ma il suo contegno si era fatto più
+
+[[Grave|grave]].
+
+«Mi perdoni», disse. «Mi perdoni. Distinguiamo. La distinzione è
+
+di grande valore per la mia [[Self|auto]]stima. Non ho cercato di uccidere il Governatore. Ho
+
+cercato di sparargli alla gamba e gli ho sparato alla gamba».
+
+«Che senso ha tutto questo?» gridò Smythe con impazienza.
+
+«Mi spiace apparire puntiglioso», disse Hume con calma. «Le imputazioni sulla mia
+
+moralità devo sopportarle, come gli altri membri della classe criminale. Ma
+
+le imputazioni sulla mia mira non posso tollerarle; è l'unico sport in cui
+
+eccello». Raccolse il fucile a canne [[Double|doppie]] prima che potessero
+
+fermarlo e proseguì rapidamente: «E posso richiamare l'attenzione su un dettaglio
+
+tecnico? Questo fucile ha due canne e una è ancora carica. Se uno
+
+[[Fool|sciocco]] qualunque avesse sparato a Tallboys a quella distanza senza ucciderlo, non
+
+credete che perfino uno [[Fool|sciocco]] avrebbe sparato di nuovo, se era quello che voleva
+
+fare? Solo che, vedete, non era quello che volevo fare io».
+
+«Sembra che si consideri parecchio come tiratore», disse sgarbatamente il Vice
+
+Governatore.
+
+«Ah, lei è scettico», replicò il precettore con lo stesso tono disinvolto. «[[Well|Beh]],
 
 
 
@@ -15979,6 +17563,214 @@ half a murderer. I suppose you have hanged people sometimes?"
 with interest.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sir Harry, siete voi stesso ad aver fornito l'apparato della dimostrazione, e
+
+non ci vorrà che un istante. I bersagli che dobbiamo alla vostra patriottica
+
+efficienza sono già collocati, mi pare, sul pendio subito oltre l'estremità
+
+del muro." Prima che qualcuno potesse muoversi, era balzato sul basso
+
+muro del [[Garden|giardino]], proprio sotto l'[[Shadow|ombra]] del sicomoro. Da quel trespolo
+
+poteva vedere la lunga fila dei bersagli che si stendeva lungo il margine del
+
+[[Desert|deserto]].
+
+"Mettiamo, per dire," disse affabilmente, col tono di un conferenziere divulgativo,
+
+"che io metta questa pallottola circa un pollice dentro il bianco del secondo
+
+bersaglio."
+
+Il gruppo si riscosse dalla sua paralisi di sorpresa; Hayter corse avanti e
+
+Smythe sbottò: "Ma che maledetta buffonata..."
+
+La sua frase fu sommersa dall'esplosione assordante, e tra gli echi
+
+di essa il precettore scese serenamente dal muro.
+
+"Se qualcuno ha voglia di andare a guardare," disse, "credo che troverà la
+
+dimostrazione della mia [[innocence|innocenza]]: non certo di aver sparato al Governatore, ma di
+
+aver voluto colpirlo in un punto diverso da quello in cui l'ho colpito."
+
+Ci fu un altro [[Silence|silenzio]], e poi questa [[Comedy|commedia]] di avvenimenti inattesi
+
+fu coronata da un altro ancora più inatteso, proveniente dall'
+
+unica persona che tutti avevano naturalmente dimenticato.
+
+La voce acuta e squillante di Tom si levò all'improvviso sopra il gruppo.
+
+"Chi va a guardare?" gridò. "[[Well|Beh]], perché non andate a guardare?"
+
+Fu quasi come se avesse parlato un albero del [[Garden|giardino]]. E in effetti
+
+l'eccitazione degli eventi aveva lavorato su quel cervello vegetante finché
+
+si dischiuse rapidamente, come fanno certi vegetali al tocco della chimica. Né
+
+fu tutto, ché un attimo dopo il vegetale aveva assunto un'energia altamente
+
+animale e si era slanciato attraverso il [[Garden|giardino]]. Videro un turbinio di
+
+membra allampanate contro il cielo mentre Tom Traill superava il muro del [[Garden|giardino]] e
+
+si tuffava via attraverso la sabbia verso i bersagli.
+
+"Questo posto è un manicomio?" gridò Sir Harry Smythe, il volto ancora
+
+più congestionato di colore e una luce sinistra negli occhi, come se una grande
+
+ma sepolta collera si stesse facendo strada verso la superficie.
+
+"Suvvia, signor Hume," disse Hayter con tono più freddo, "tutti la considerano
+
+un uomo assai sensato. Vuole davvero dirmi sul serio che ha messo una
+
+pallottola nella gamba del Governatore senza alcuna ragione, nemmeno l'omicidio?"
+
+"L'ho fatto per un'ottima ragione," rispose il precettore, sempre sorridendogli
+
+in modo piuttosto sconcertante. "L'ho fatto perché sono un uomo sensato.
+
+Anzi, sono un Assassino Moderato."
+
+"E che diamine sarebbe mai?"
+
+"La [[philosophy|filosofia]] della moderazione nell'omicidio," proseguì blandamente il precettore,
+
+"è una a cui ho dedicato una certa attenzione. Dicevo proprio
+
+l'altro giorno che ciò di cui la maggior parte della gente ha bisogno è di essere un po' assassinata,
+
+specialmente le persone in posizioni politiche di responsabilità. Così come stanno le cose, le
+
+punizioni da entrambe le parti sono troppo severe. Il minimo tocco, un soupçon
+
+di omicidio è tutto ciò che serve a fini di [[Reform|riforma]]. Un poco di più
+
+ed è tanto; un poco di meno e il Governatore della Polibia se la
+
+cava del tutto, come diceva Browning."
+
+"Mi chiede davvero di credere," sbuffò il Capo della Polizia, "che lei
+
+abbia l'abitudine di sparare a ogni uomo pubblico nella gamba sinistra?"
+
+"No, no," disse Hume, con una sorta di frettolosa solennità. "Il trattamento, le
+
+assicuro, è improntato a un'attenzione ben più individuale. Se si fosse trattato
+
+del Cancelliere dello Scacchiere, avrei forse scelto una porzione
+
+dell'orecchio sinistro. Nel caso del Primo Ministro sarebbe indicata la punta
+
+del naso. Ma il punto è il principio generale che qualcosa
+
+debba accadere a queste persone, per risvegliare le loro facoltà sopite con un
+
+piccolo problema personale. Ora, se mai c'è stato un uomo," proseguì con
+
+delicata enfasi, come se fosse una dimostrazione scientifica, "se mai
+
+c'è stato un uomo destinato e segnato dalla [[Nature|natura]] a essere un po' assassinato, è
+
+Lord Tallboys. Altri uomini eminenti, molto spesso, vengono semplicemente assassinati, e
+
+tutti sentono che la situazione è stata adeguatamente affrontata, che
+
+l'incidente è chiuso. Li si assassina e basta, e non ci si pensa
+
+più. Ma Tallboys è un caso notevole; è il mio datore di lavoro e lo conosco
+
+piuttosto [[Well|bene]]. È un brav'uomo, davvero. È un gentiluomo, è un
+
+patriota; per di più, è realmente un uomo liberale e ragionevole. Ma a forza
+
+di stare perpetuamente in carica ha lasciato che quel fare pomposo peggiorasse sempre
+
+di più, finché pare crescergli addosso, come il suo maledetto cilindro. Che cosa
+
+occorre in un caso simile? Qualche giorno a letto, decisi. Qualche salutare
+
+settimana in piedi su una gamba sola a meditare su quella sottile sfumatura di
+
+distinzione fra se stessi e Dio Onnipotente, che con tanta facilità si
+
+trascura."
+
+"Non stia più a sentire queste sciocchezze," gridò il Vice-Governatore.
+
+"Se dice di aver sparato a Tallboys, immagino che dobbiamo arrestarlo per questo.
+
+Lui dovrebbe saperlo."
+
+"Finalmente ci ha azzeccato, Sir Harry," disse Hume cordialmente, "sto risvegliando
+
+un mucchio di intelletti sopiti, questo pomeriggio."
+
+"Basta con i suoi scherzi," gridò Smythe con improvviso furore;
+
+"la arresto per tentato omicidio."
+
+"Lo so," rispose il precettore sorridente, "è proprio questo lo scherzo."
+
+In quel momento ci fu un altro balzo e uno scalpiccio presso il sicomoro e il
+
+ragazzo Tom si gettò di nuovo nel [[Garden|giardino]], ansimando forte: "È proprio
+
+giusto. È esattamente dove aveva detto."
+
+Per il resto del colloquio, e finché quello strano gruppo non si sciolse
+
+sul prato, il ragazzo continuò a fissare Hume come solo un ragazzo può fissare
+
+qualcuno che ha compiuto qualcosa di piuttosto notevole in un gioco. Ma mentre lui
+
+e Barbara tornavano insieme al Governatorato, lei
+
+indescrivibilmente frastornata e sconcertata, ella trovò il suo compagno curiosamente
+
+convinto di una sua propria idea, che però non era in grado di
+
+descrivere. Non era esattamente che non credesse a Hume o alla sua storia.
+
+Era piuttosto come se credesse a ciò che Hume non aveva detto, più che a ciò che
+
+aveva detto.
+
+"È un [[Riddle|indovinello]]," ripeté Tom con ostinata solennità. "Va terribilmente matto
+
+per gli indovinelli. Dice cose sciocche solo per farti pensare. È quello che
+
+dobbiamo fare noi. Non gli piace che ci si arrenda."
+
+"Quello che dobbiamo fare?" ripeté Barbara.
+
+"Pensare a che cosa significa davvero," disse Tom.
+
+C'era forse qualche [[Truth|verità]] nell'idea che il signor John Hume fosse
+
+appassionato di indovinelli, perché ne sparò un altro al Capo della
+
+Polizia, proprio mentre quel funzionario lo prendeva in custodia.
+
+"[[Well|Beh]]," disse allegramente, "potete impiccarmi solo a metà, perché sono solo
+
+mezzo assassino. Immagino che qualche volta abbiate impiccato della gente?"
+
+"Di tanto in tanto, mi spiace dirlo," rispose il colonnello Hayter.
+
+"Avete mai impiccato qualcuno per impedire che venisse impiccato?" chiese il precettore
+
+con interesse.
+
 
 
 <span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_01" data-title="FourFaultlessFelons — VI The Thing That Really Happened (part 1)" data-chapter="VI The Thing That Really Happened" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/prison,motif/silence,motif/storm,motif/time,motif/well,concept/body,concept/fear,concept/history,concept/imprisonment,concept/solitude,concept/truth,form/history"></span>
@@ -16156,6 +17948,180 @@ seemed to himself that, like a hermit in his cell, he was seeing visions.
 
 voice. "Didn't St. Paul say something? . . . Wherefore, O [[King]] Agrippa, I
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VI CIÒ CHE ACCADDE DAVVERO
+
+NON è vero che Lord Tallboys portasse il cilindro a letto, durante la sua
+
+breve indisposizione. Né è vero, come si sosteneva più moderatamente, che
+
+lo facesse portare appena riuscì a reggersi in piedi e lo indossasse come
+
+tocco finale di una tenuta composta da una vestaglia verde e pantofole
+
+rosse. Ma era proprio vero che riprese il cappello e le sue alte
+
+funzioni ufficiali alla prima occasione possibile; con un certo
+
+fastidio, si diceva, del suo subordinato il Vicegovernatore, che si trovò
+
+per la seconda [[Time|volta]] bloccato in alcune di quelle vigorose misure militari
+
+che è sempre più facile attuare dopo lo shock di un
+
+oltraggio politico. In parole povere, il Vicegovernatore era piuttosto imbronciato.
+
+Era ricaduto in un [[Silence|silenzio]] paonazzo e irritabile, e quando lo ruppe
+
+i suoi amici desiderarono piuttosto che vi ricadesse dentro. Alla
+
+menzione dell'eccentrico precettore, che il suo dipartimento aveva messo in
+
+custodia, esplose con speciale impazienza e disgusto. «Oh, per
+
+amor di Dio, non parlatemi di quel bestiale pazzo e ciarlatano!»
+
+gridò, quasi con la voce di chi è torturato e non tollera un
+
+momento di più di follia umana. «Perché mai siamo maledetti da simili
+
+luridi imbecilli. . sparargli alla gamba .. assassino moderato . . porco
+
+ammuffito!»
+
+«Non è un porco ammuffito», disse Barbara Traill con enfasi, come se
+
+fosse un punto esatto di [[history|storia]] naturale. «Non credo una parola di quello che
+
+voialtri dite contro di lui.»
+
+«E credi a quello che lui dice contro se stesso?» chiese lo zio,
+
+guardandola con gli occhi socchiusi e un'espressione beffarda. Tallboys
+
+si appoggiava a una stampella; in netto contrasto con il broncio di Sir
+
+Harry Smythe, portava la propria invalidità in modo assai coraggioso e
+
+piacevole. La necessità di badare al ritmo interrotto delle sue gambe
+
+aveva a quanto pare arrestato la rotazione oratoria delle mani. La sua famiglia
+
+sentiva di non averlo mai amato tanto prima d'allora. Sembrava quasi che
+
+ci fosse un po' di [[Truth|verità]] nella teoria dell'Assassino Moderato.
+
+D'altra parte Sir Harry Smythe, di solito tanto più affabile
+
+con la famiglia, sembrava di [[Humour|umore]] sempre peggiore. Il rosso scuro
+
+della sua carnagione si fece più intenso, finché per contrasto ci fu qualcosa di quasi
+
+allarmante nella luce dei suoi occhi chiari.
+
+«Vi dico che di tutti questi miserabili ficcanaso», cominciò.
+
+«E io ti dico che non ne sai nulla», ribatté la cognata.
+
+«Non è affatto così; lui...»
+
+A questo punto, per una ragione o per l'altra, fu Olive a intervenire
+
+in fretta e sottovoce: appariva un po' pallida e preoccupata.
+
+«Non parliamone adesso», disse in fretta. «Harry ha
+
+tantissime cose da fare. . . .»
+
+«Io so che cosa farò», disse Barbara ostinata. «Chiederò a
+
+Lord Tallboys, in quanto Governatore di questo posto, se mi lascerà visitare il signor
+
+Hume e vedere se riesco a scoprire che cosa significa.»
+
+Per qualche motivo si era eccitata violentemente e la sua stessa voce
+
+le suonava strana alle orecchie. Ebbe la vertiginosa impressione degli occhi di Harry
+
+Smythe che gli schizzavano fuori dalla testa per la collera apoplettica e del viso di Olive
+
+sullo sfondo che si faceva sempre più innaturalmente pallido e
+
+fisso, e su tutto aleggiava, con qualcosa che rasentava una
+
+beffa da folletto, il benevolo divertimento dello zio. Le parve che si fosse
+
+lasciato sfuggire troppo, o che avesse acquistato una nuova sottigliezza di percezione.
+
+Intanto John Hume sedeva nel suo luogo di detenzione, fissando un
+
+muro spoglio con una faccia altrettanto vuota. Per quanto abituato alla [[Solitude|solitudine]],
+
+trovò presto qualcosa di logorante in due o tre giorni e notti della
+
+[[Solitude|solitudine]] disumanizzata della [[Imprisonment|prigionia]]. Forse il fatto più vivo per
+
+i suoi sensi immediati era l'essere privato del tabacco. Ma aveva altri motivi di
+
+sconforto, e alcuni li direbbero più gravi. Non sapeva che
+
+genere di condanna gli sarebbe probabilmente toccata per aver confessato un tentativo
+
+di ferire il Governatore. Ma conosceva abbastanza le condizioni politiche e
+
+gli espedienti legali da sapere che sarebbe stato facile infliggere una pena
+
+pesante subito dopo il pubblico scandalo del delitto. Aveva
+
+vissuto in quell'avamposto della civiltà negli ultimi dieci anni, finché
+
+Tallboys non lo aveva raccolto al Cairo; ricordava la violenta reazione
+
+dopo l'assassinio del Governatore precedente, il modo in cui il
+
+Vicegovernatore era riuscito a trasformarsi in despota e a spazzare il
+
+paese con leggi coercitive e spedizioni punitive, finché il suo impulsivo
+
+militarismo non era stato un poco moderato dall'arrivo di Tallboys con un
+
+compromesso del [[government|Governo]] della [[Home|madrepatria]]. Tallboys era ancora vivo e perfino,
+
+in maniera attenuata, scalpitante. Ma probabilmente era ancora agli ordini del
+
+medico e difficilmente poteva essere giudice in causa propria; sicché l'autocratico
+
+Smythe avrebbe probabilmente avuto un'altra occasione di cavalcare il turbine e
+
+dirigere la [[Storm|tempesta]]. Ma la [[Truth|verità]] è che in fondo alla
+
+mente del prigioniero c'era qualcosa che temeva assai più della [[Prison|prigione]]. Il minuscolo
+
+punto di panico, che aveva cominciato a rodere e corrodere perfino la sua rocciosa
+
+impassibilità di mente e di [[Body|corpo]], era il [[Fear|timore]] che la sua fantastica spiegazione
+
+avesse dato ai suoi nemici un altro genere di occasione. Ciò che davvero temeva
+
+era che lo dicessero pazzo e lo sottoponessero a un trattamento più umano e
+
+igienico.
+
+E in effetti chiunque avesse osservato il suo contegno nell'ora successiva potrebbe
+
+essere scusato per aver nutrito dubbi e fantasie in proposito. Continuava a
+
+fissare davanti a sé in modo piuttosto strano. Ma non fissava più
+
+come se non vedesse nulla, bensì come se vedesse qualcosa. Gli
+
+sembrava che, come un eremita nella sua cella, stesse avendo delle visioni.
+
+«[[Well|Beh]], suppongo di sì, dopotutto», disse ad alta voce con voce spenta e
+
+distinta. «Non disse qualcosa san Paolo? . . . Perciò, o [[King|Re]] Agrippa, io
 
 
 
@@ -16335,6 +18301,180 @@ came to the corner.
 "I felt a rage against the [[Fool|fool]] which a man looks against the background
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+non fui disobbediente alla visione celeste. ... Ho visto quella celeste
+
+figura entrare dalla porta in quel modo parecchie volte, e speravo piuttosto che
+
+fosse reale. Ma le persone reali non possono attraversare così le porte della [[Prison|prigione]]. . .
+
+. Una volta venne come se la stanza fosse piena di trombe e una volta
+
+con un grido simile al [[Wind|vento]] e ci fu una lotta e scoprii che
+
+potevo odiare e che potevo [[Love|amare]]. Due miracoli in una sola [[Night|notte]]. Non
+
+pensi che debba essere stato [[A Dream|un sogno]]—sempre che tu non fossi [[A Dream|un sogno]]
+
+e potessi pensare qualcosa? Ma allora [[Hope|speravo]] davvero che tu fossi reale."
+
+"Non dirlo!" disse Barbara Trail, "adesso sono reale."
+
+"Vuoi dirmi a [[Blood|sangue]] freddo che non sono pazzo," chiese Hume,
+
+continuando a fissarla, "e che tu sei qui?"
+
+"Sei l'unica persona sana di mente che io abbia mai conosciuto," rispose lei.
+
+"Buon Dio," disse lui, "allora ho appena detto un mucchio di cose che
+
+andrebbero dette solo nei manicomi—o nelle visioni celesti."
+
+"Hai detto tanto," disse lei a bassa voce, "che voglio che tu dica
+
+molto di più. Intendo su tutta questa faccenda. Dopo quello che hai
+
+detto . . non pensi che mi si possa permettere di sapere?"
+
+Lui guardò accigliato il tavolo e poi disse in modo più brusco: "Il guaio
+
+era che ti credevo l'ultima persona che dovesse sapere. Vedi,
+
+c'è la tua famiglia, e potresti esservi coinvolta, e uno potrebbe
+
+dover tacere per il bene di qualcuno a cui tieni."
+
+"[[Well|Ebbene]]," disse lei con fermezza, "sono stata coinvolta per il bene di
+
+qualcuno a cui tengo."
+
+Si fermò un momento e proseguì: "Gli altri non hanno mai fatto nulla per me.
+
+Mi avrebbero lasciata impazzire del tutto in un appartamento rispettabile, e purché
+
+avessi finito gli studi in una scuola alla moda, non gliene sarebbe importato se
+
+avessi finito me stessa col laudano. Non ho mai parlato davvero con nessuno
+
+prima d'ora. E adesso non voglio parlare con nessun altro."
+
+Balzò in piedi; qualcosa di simile a un terremoto lo aveva scosso
+
+finalmente fuori dalla sua lunga, pietrificata [[Incredulity|incredulità]] sulla felicità. Le prese
+
+entrambe le mani e da lui uscirono parole che non aveva mai sognato di avere dentro.
+
+E lei, che era più giovane d'anni, si limitò a fissarlo con un sorriso fermo
+
+e occhi di stelle, come se fosse più vecchia e più saggia; e alla fine solo
+
+disse: "Adesso me lo racconterai."
+
+"Devi capire," disse infine più pacatamente, "che quello che ho detto
+
+era vero. Non stavo inventando favole per proteggere il mio fratello perduto da tempo
+
+venuto dall'Australia, o una di quelle faccende dei romanzi. Ho davvero messo una
+
+pallottola in tuo zio, e volevo metterla proprio lì."
+
+"Lo so," disse lei, "ma nonostante questo sono sicura di non sapere tutto.
+
+Sono sicura che dietro tutto questo c'è una storia straordinaria."
+
+"No," rispose lui. "Non è una storia straordinaria, se non una
+
+storia straordinariamente ordinaria."
+
+Si fermò un momento pensieroso e poi proseguì: "È davvero una
+
+storia particolarmente piana e semplice. Mi [[Wonder|meraviglia]] che non sia accaduta centinaia
+
+di volte prima d'ora. Mi [[Wonder|meraviglia]] che non sia stata raccontata in centinaia di storie
+
+prima d'ora. Potrebbe accadere così facilmente ovunque, date certe condizioni.
+
+"In questo caso tu conosci alcune delle condizioni. Conosci quella specie di
+
+balcone che gira intorno al mio bungalow, e come da lì si guardi in basso e
+
+si veda tutto il paesaggio come una mappa. [[Well|Ebbene]], guardavo in basso e vedevo tutta
+
+quella pianta piatta del luogo; la fila di ville e il muro e il sentiero
+
+che gli corre dietro e il sicomoro, e più in là gli ulivi e la fine
+
+del muro, e poi fuori sui pendii aperti che venivano sistemati a prato e
+
+tutto il resto. Ma vidi una cosa che mi sorprese; che il poligono di tiro era
+
+già allestito. Dev'essere stato un ordine urgente; devono aver lavorato
+
+tutta la [[Night|notte]]. E proprio mentre guardavo, vidi in lontananza un punto che era un
+
+uomo in piedi accanto al bersaglio più vicino, come se desse gli ultimi ritocchi. Poi
+
+fece una specie di segnale a qualcuno lontano dall'altra parte e si allontanò
+
+molto rapidamente dal posto. Per quanto minuscola apparisse la figura, ogni
+
+gesto mi diceva qualcosa; con ogni evidenza se ne stava andando proprio
+
+prima che cominciasse il tiro al bersaglio. E quasi nello stesso
+
+momento vidi qualcos'altro. [[Well|Ebbene]], vidi una cosa, in ogni caso. Vidi perché
+
+Lady Smythe è preoccupata, e vagava sconvolta nel [[Garden|giardino]]."
+
+Barbara lo fissò, ma lui proseguì: "Lungo il sentiero che viene dal
+
+Governatorato e va verso il sicomoro avanzava una sagoma familiare. Spuntava appena
+
+sopra il lungo muro del [[Garden|giardino]], con un profilo netto come una figura nel teatro d'[[Shadow|ombre]]
+
+cinesi. Era il cilindro di Lord Tallboys. Poi ricordai che lui
+
+faceva sempre la sua passeggiata igienica lungo quel sentiero e poi fuori sui pendii
+
+al di là; e mi assalì un sospetto schiacciante che non sapesse che
+
+lo spazio là oltre era già un campo di tiro. Sai che è molto sordo,
+
+e a volte [[Doubt|dubito]] che senta tutte le cose che ufficialmente gli si
+
+dicono; a volte [[Fear|temo]] che gliele dicano in modo che non possa sentirle. Comunque,
+
+aveva tutta l'aria di marciare dritto attraverso come al solito, e mi venne
+
+addosso come una cateratta una solida, schiacciante e sconvolgente
+
+certezza.
+
+"Non dirò molto di questo adesso. Ne dirò il meno possibile per
+
+il resto della mia vita. Ma c'erano cose che io sapevo e tu probabilmente no
+
+sulla politica di qui e su ciò che aveva portato a quel momento terribile.
+
+Basti dire che avevo buone ragioni per il mio terrore. Sentendo vagamente che se
+
+le cose fossero state interrotte ci sarebbe potuta essere una rissa, afferrai il mio fucile
+
+e mi precipitai giù per il pendio verso il sentiero, agitando le braccia all'impazzata e cercando di
+
+chiamarlo o di tagliargli la strada. Non mi vide e non poteva sentirmi. Corsi pesantemente
+
+dietro di lui lungo il sentiero, ma aveva troppo vantaggio. Al [[Time|momento]] in cui
+
+raggiunsi il sicomoro, seppi che era troppo tardi. Era già a metà
+
+dell'uliveto e nessun corridore mortale avrebbe potuto raggiungerlo prima che
+
+arrivasse all'angolo.
+
+"Provai contro lo [[Fool|sciocco]] una rabbia quale un uomo guarda contro lo sfondo
+
 
 
 <span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_03" data-title="FourFaultlessFelons — VI The Thing That Really Happened (part 3)" data-chapter="VI The Thing That Really Happened" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/dreams,motif/fire,motif/garden,motif/home,motif/well,concept/grotesque,concept/history,concept/imagination,concept/resignation,form/history,setting/london"></span>
@@ -16464,6 +18604,132 @@ protest. She said she did not believe that he could really be a Moderate
 
 after all.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+del destino. Vedevo la sua figura magra e pomposa con l'assurdo cilindro che le troneggiava
+
+sopra; e le grandi orecchie sporgenti dalla testa . . le grandi,
+
+inutili orecchie. C'era qualcosa di straziantemente [[Grotesque|grottesco]] in quella
+
+schiena ignara stagliata contro le pianure della [[Death|morte]]. Perché ero certo
+
+che nel momento in cui avesse svoltato l'angolo quel campo sarebbe stato spazzato dal
+
+[[Fire|fuoco]], che avrebbe tagliato ad angolo retto il suo cammino. Riuscii a
+
+pensare a una sola cosa da fare e la feci. Hayter mi credette pazzo quando
+
+gli chiesi se avesse mai impiccato un uomo per impedire che venisse impiccato. Quello
+
+è il genere di scherzo che feci. Sparai a un uomo per impedire che gli
+
+sparassero.
+
+«Gli piantai una pallottola nel polpaccio e lui cadde, a un paio di metri dall'
+
+angolo. Attesi un momento e vidi che la gente usciva dalle ultime
+
+case per raccoglierlo. Feci l'unica cosa di cui mi pento davvero. Avevo la
+
+vaga idea che la [[house|casa]] presso il sicomoro fosse vuota, così gettai la pistola oltre
+
+il muro nel [[Garden|giardino]], e per poco non misi nei guai quel povero vecchio somaro di un
+
+parroco. Poi tornai a [[Home|casa]] e attesi che mi convocassero a deporre
+
+su Gregory.»
+
+Concluse con tutta la sua consueta compostezza, ma la ragazza continuava a
+
+fissarlo con un'attenzione anomala e persino con allarme.
+
+«Ma di che si trattava?» chiese. «Chi poteva--?»
+
+«Fu una delle cose meglio congegnate che io abbia mai conosciuto», disse. «Non
+
+credo che avrei potuto provare nulla. Sarebbe sembrato proprio un
+
+incidente.»
+
+«Vuoi dire», disse lei, «che non lo sarebbe stato.»
+
+«Come ho già detto, non voglio dire molto su questo adesso, ma . . .
+
+Senti, tu sei il genere di persona a cui piace riflettere sulle cose.
+
+Ti chiederò soltanto di prendere due cose e di rifletterci, e poi
+
+potrai farti l'idea a modo tuo.
+
+«La prima è questa. Io sono un Moderato, come ti ho detto; sono davvero
+
+contro tutti gli Estremisti. Ma quando i giornalisti e i bravi ragazzi dei
+
+club lo dicono, di solito dimenticano che esistono davvero diverse
+
+specie di Estremisti. In pratica pensano solo agli Estremisti
+
+rivoluzionari.
+
+Credimi, gli Estremisti reazionari sono altrettanto propensi agli
+
+eccessi. La [[history|storia]] delle lotte di fazione mostrerà atti di violenza da parte dei
+
+Patrizi [[Well|così]] come dei Plebei, dei Ghibellini [[Well|così]] come dei Guelfi, degli
+
+Orangisti [[Well|così]] come dei Feniani, dei Fascisti [[Well|così]] come dei Bolscevichi, del
+
+Ku-Klux-Klan [[Well|così]] come della Mano Nera. E quando un politico arriva da
+
+[[London|Londra]] con un compromesso in tasca, non sono solo i Nazionalisti a
+
+vedere frustrati i propri piani.
+
+«L'altro punto è più personale, soprattutto per te. Una volta mi dicesti
+
+che temevi per la [[Sanity|sanità]] mentale della famiglia, solo perché facevi brutti [[Dreams|sogni]] e
+
+rimuginavi su cose della tua stessa [[Imagination|immaginazione]]. Credimi, non sono le
+
+persone immaginative a impazzire. Non sono loro i pazzi, nemmeno
+
+quando sono morbose. Possono sempre essere destate dai brutti [[Dreams|sogni]] da
+
+prospettive più ampie e visioni più luminose, perché sono immaginative. Gli
+
+uomini che impazziscono sono privi di immaginazione. Gli uomini ostinati e stoici che avevano posto
+
+per una sola idea e la prendono alla lettera. Il tipo d'uomo che sembra
+
+silenzioso ma è stipato fino a scoppiare, congestionato--»
+
+«Lo so», disse lei in fretta; «non c'è bisogno che tu lo dica, perché credo di
+
+capire tutto ormai. Lascia che ti dica anch'io due cose; sono più
+
+brevi, ma c'entrano. Mio zio mi ha mandata qui con un
+
+ufficiale che ha un ordine di scarcerazione per te . . e il Vice-Governatore
+
+torna a [[Home|casa]] . . [[Resignation|dimissioni]] per motivi di salute.»
+
+«Tallboys non è uno [[Fool|sciocco]]», disse John Hume; «ha indovinato.»
+
+Lei rise con una piccola aria di imbarazzo. «Temo che abbia
+
+indovinato parecchie cose», disse.
+
+Quali fossero le altre cose non è parte necessaria di questa storia, ma Hume
+
+proseguì a parlarne piuttosto a lungo per tutto il resto del
+
+colloquio, finché la signorina stessa non fu spinta a una protesta alquanto
+
+tardiva. Disse che non credeva che egli potesse essere davvero un Moderato
+
+dopo tutto.
 
 
 
@@ -17559,7 +19825,7 @@ sorprende un [[Child|bambino]] a inventare frottole. «Quale automobile?» Si vo
 
 signorile e scrutò la strada. «Dov'è questa automobile?» disse
 
-sarcasticamente.
+In modo sarcastico.
 
 «Dalla velocità a cui andava, direi che ormai è a una decina di chilometri
 
@@ -21193,6 +23459,200 @@ business was also a part of the disease or aberration of Windrush--"
 Harrington calmly; "I do say I am certain now."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+le cose con la mano sinistra tanto [[Well|bene]] quanto con la destra."
+
+"Proprio così," replicò l'ispettore. "[[Well|Bene]], dottor Judson, io l'ho accontentata
+
+e le ho detto praticamente tutto quello che so al momento. Se c'è qualcos'altro
+
+che lei sa e noi non sappiamo, sono in dovere di avvertirla in ogni caso che
+
+lei è tenuto a ricambiare il favore. Questa è una faccenda maledettamente seria. È
+
+una faccenda da forca."
+
+"No," disse il dottor Judson pensieroso; "non è una faccenda da forca."
+
+Poiché l'altro si limitava a fissarlo, aggiunse, sempre in tono meditativo: "Non
+
+impiccherete mai Walter Windrush."
+
+"Che cosa vuol dire?" domandò l'ufficiale, con voce improvvisamente tagliente.
+
+"Perché," disse il dottore, raggiante, "Walter Windrush è stato in
+
+un manicomio per un certo [[Time|tempo]]. È stato certificato nella regolare
+
+vecchia maniera ufficiale"--ne parlava come di qualcosa accaduto
+
+cento anni prima--"e le autorità mediche che lo certificarono
+
+notarono il sintomo dell'azione ambidestra e uno sviluppo alquanto eccessivo
+
+della forza nella mano sinistra."
+
+L'ispettore Brandon fissava come stordito quel dottore svelto e sorridente,
+
+che si [[Rose|alzò]] in piedi come se il colloquio fosse finito. Ma proprio mentre
+
+si dirigeva verso la porta, trovò l'uscita bloccata dalla presenza di
+
+un nuovo venuto, e si ritrovò a guardare ancora una volta i lunghi capelli e
+
+il lungo volto sorridente del signore che tanto cordialmente aveva detestato sotto
+
+il nome di signor Wilmot.
+
+"Di nuovo qui," disse Wilmot, o Harrington, allargando il sorriso in un ghigno,
+
+"e a quanto pare giusto in [[Time|tempo]]."
+
+L'ispettore si era ripreso dallo stupore e i suoi sensi e
+
+le sue percezioni erano abbastanza pronti. Si alzò rapidamente in piedi e disse: "C'è
+
+qualcosa che non va?"
+
+"No," disse il grande [[Detective|investigatore]]; "non c'è nulla che non vada. Salvo che
+
+stiamo dando la caccia all'uomo sbagliato."
+
+E si accomodò comodamente su una poltrona e sorrise
+
+all'ispettore.
+
+"L'uomo sbagliato!" ripeté Brandon. "Non vorrà dire che Windrush è l'uomo
+
+sbagliato! Mi sono appena preso la libertà di raccontare al dottor Judson la
+
+storia vera--"
+
+"Nella convinzione," disse Harrington, "di conoscere la storia vera.
+
+Quanto a me, non l'ho saputa fino a una ventina di minuti fa."
+
+Il suo viso e i suoi modi erano eminentemente allegri; ma quando si voltò a parlare
+
+al dottore, assunsero una sorta di gravità professionale ed egli parve
+
+scegliere e soppesare le parole.
+
+"Dottore," disse, "lei è un uomo di scienza e capisce ciò che
+
+quasi nessuno a questo mondo capisce davvero. Lei capisce che cosa
+
+si intenda realmente per un'ipotesi che tiene il campo. Come uomo di scienza,
+
+deve aver fatto l'esperienza di costruire una teoria molto elaborata, molto
+
+completa e persino molto convincente."
+
+"Ma certo," disse John Judson, con un sorriso torvo; "ho senz'altro fatto
+
+l'esperienza di costruire una teoria molto elaborata, molto completa e persino
+
+convincente."
+
+"Ma," proseguì l'[[Detective|investigatore]] pensieroso, "come uomo di scienza, lei era
+
+tuttavia pronto ad ammettere la possibilità, sia pure la
+
+remota possibilità, che la sua teoria fosse dopotutto falsa."
+
+"Ha ragione di nuovo," disse Judson, e il sorriso si fece più torvo. "Ero
+
+pronto ad ammettere la remota possibilità che la mia teoria fosse del tutto
+
+falsa."
+
+"[[Well|Bene]], mi assumo tutta la responsabilità dell'inatteso crollo della mia
+
+teoria," disse il grande [[Detective|investigatore]], col suo sorriso affabile. "Non deve
+
+prendersela con l'ispettore; tutta quella storia del criminale [[Artist|artista]]
+
+e del suo originale piano di occultamento era una mia idea, e per giunta un'idea infernalmente
+
+intelligente e interessante, anche se non dovrei dirlo io.
+
+Non c'è davvero nulla da obiettare, se non che non può essere
+
+vera. Ogni cosa ha da qualche parte un piccolo punto debole."
+
+"Ma perché non può essere vera?" chiese Brandon stupefatto.
+
+"Solo," rispose il suo superiore, "perché ho appena scoperto
+
+il vero assassino."
+
+Nel [[Silence|silenzio]] sgomento che seguì aggiunse, come in una piacevole
+
+astrazione: "Quel delitto artistico grandioso e ardito che abbiamo sognato era, come
+
+molte cose grandi, troppo grande per questo mondo. Forse in Utopia, forse
+
+in Paradiso, potremo avere delitti di quella specie perfetta e poetica. Ma
+
+il vero assassino si comporta in modo molto più ordinario. . . . Brandon,
+
+ho trovato l'altro studente. Naturalmente, lei sa piuttosto meno a proposito dell'altro
+
+studente."
+
+"Mi perdoni," disse l'ispettore rigidamente; "naturalmente abbiamo ricostruito i
+
+movimenti dell'altro studente, e di chiunque potesse essere coinvolto.
+
+Quella sera prese il treno per [[London|Londra]] e, un mese dopo, andò a New
+
+York per affari e di lì in Argentina, dove si costruì uno
+
+studio medico avviato e assai rispettabile."
+
+"Esattamente," disse Harrington. "Ha fatto la cosa banale e ordinaria che fa il
+
+vero criminale. È scappato."
+
+Il dottor Judson parve ritrovare la voce per la prima [[Time|volta]] dall'ultima
+
+svolta degli eventi, ed era come la voce di un altro uomo.
+
+"È proprio certo," disse infine, "che Windrush sia [[Innocent|innocente]]
+
+dopotutto?"
+
+"Ne sono assolutamente certo," disse Harrington con serietà. "Non si tratta di un'ipotesi
+
+ma di una prova. Ci sono cento prove convergenti; gliene
+
+darò soltanto alcune. La ferita al cranio fu inferta con uno strumento
+
+chirurgico assai insolito, e ho ritrovato quello strumento presso l'uomo
+
+che se ne servì. Il punto prescelto sarebbe stato scelto così soltanto da un
+
+uomo con conoscenze specifiche. L'uomo chiamato Duveen, che sappiamo essere
+
+stato presente e aver avuto un movente più forte di Windrush (perché era
+
+rovinato e nel [[Fear|timore]] di essere smascherato), era ed è un uomo esattamente con quelle
+
+conoscenze specifiche. È un chirurgo e un uomo abile. È anche un
+
+mancino."
+
+"Se lei è certo, signore, la faccenda è chiusa," disse l'ispettore
+
+piuttosto a malincuore. "Come ha spiegato il dottor Judson, anche la faccenda
+
+della mano sinistra faceva parte della malattia o dell'aberrazione di Windrush--"
+
+"Converrà che non ho mai detto di essere certo riguardo a Windrush," disse
+
+Harrington con calma; "dico che ora ne sono certo."
+
 
 
 <span class="atom-split" data-atom="story_11_an_hour_harrington--part_03" data-title="FourFaultlessFelons — An Hour. Harrington. (part 3)" data-chapter="An Hour Harrington" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/detective,archetype/monster,motif/birds,motif/garden,motif/leaves,motif/spring,motif/well"></span>
@@ -21378,6 +23838,191 @@ thinking you a murderer. But there are murderers and murderers; all I
 
 knew was that I had found a murdered man you had hidden in your [[Garden|garden]]. I
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Il dottor Judson dice, ” iniziò l’ispettore.
+
+“Dice il dottor Judson…”, disse lo stesso medico, alzandosi all’improvviso come se…
+
+La [[spring|primavera]] è arrivata; “Il dottor Judson dice che tutto ciò che il dottor Judson ha, ”
+
+Negli ultimi quarantotto ore, tutto ciò che è stato detto non è altro che una serie di bugie! Afferma il dottor Judson.
+
+# Che Walter Windrush non sia più pazzo di noi… Il dottor Judson lo supplica
+
+Titolo:  
+Annuncia che la sua celebre teoria sull’ambidestria arborea è…
+
+Un mucchio di sciocchezze assurde che non avrebbe mai dovuto contenere un bambino!
+
+“Duodiapsychosis! Huh!” E sbuffò con violenza, in modo indescrivibile.
+
+Rumore.
+
+“È davvero straordinario,” disse l’ispettore Brandon.
+
+“Credo di sì,” disse il dottore. “Sembra che tutti noi abbiamo commesso degli errori davvero gravi…”
+
+#Idioti di noi stessi per essere troppo intelligenti… Ma io ero davvero il peggiore di tutti. Guarda.
+
+# Qui, questa cosa deve essere sistemata immediatamente! È già abbastanza grave per la signorina…
+
+#Una giornata in prigione per quel padre… Devo scoprire la verità
+
+Un qualche tipo di documento che ammette un errore o annuncia una correzione…
+
+“Un po’ di sciocchezze, e poi portatelo fuori di nuovo.”
+
+“Ma,” disse seriamente Harrington, “ho capito che anche una persona di tale rilievo…”
+
+# Il dottor Doone firmò anche l’ordine di emergenza; la sua autorità…
+
+“Doone!”, gridò Judson con una frenesia di disprezzo davvero indescrivibile.
+
+“Doone! Firmerebbe qualsiasi cosa! Direbbe qualsiasi cosa… Doone è davvero…”
+
+“Quel vecchio truffatore indeciso… Ha scritto un libro che è diventato molto popolare quando io ero ancora un bambino.”
+
+E da allora non ha mai più aperto un libro… Ho visto tutti i nuovi libri sul suo tavolo.
+
+Senza che nessuna delle [[Leaves|foglie]] fosse stata tagliata. E il modo in cui parlava dell’uomo preistorico.
+
+# Antico quanto i fossili… Come se oggi esistesse ancora qualcuno che si occupi seriamente di queste cose.
+
+Credeva davvero in tutte le sue storie sull’Uomo Arboricolo… Oddio, io no di certo.
+
+Titolo:  
+Difficoltà con Doone… All’inizio ho dovuto semplicemente lusingarlo, facendo in modo che…
+
+Tutto molto arboreo… e poi parlava di ciò che non capiva.
+
+Non osavo mettere in dubbio nulla… Mi sono divertito molto con qualcosa di più moderno e innovativo.
+
+“Psicoanalisi.”
+
+“Comunque,” disse Harrington, “poiché il dottor Doone ha firmato l’ordine…”
+
+Dovrà firmare l’annullamento di quella decisione.
+
+“Oh, molto bene,” esclamò il impulsivo Judson, che aveva già iniziato a scrivere.
+
+“Qualcosa su una pagina… e poi se ne è già andato di corsa dalla stanza: ‘Me ne occupo io’.”
+
+Raggiungilo e fai sì che lo firmi anche lui.
+
+“Penso che preferirei andare con te,” disse Harrington.
+
+#Alla ricerca del precipitoso Judson, lo seguirono con relativa calma…
+
+La rapidità con cui si raggiunse quella maestosa casa con le colonne nel West End, quella casa.
+
+Con quelle tende scure, che il dottore aveva visitato una volta [[Alone|da solo]]. Le.
+
+La scena tra lui e il maestoso Dottor Doone fu piuttosto curiosa… Ora che…
+
+# Avevano una certa intuizione su questa questione, erano in grado di comprenderla appieno.
+
+L’evasività del grande uomo e la tenacia di quello più piccolo.
+
+Tuttavia, il dottor Doone evidentemente ritenne più saggio unirsi ai suoi colleghi…
+
+#Riconciliazione e, afferrando distrattamente una penna d’oca, firmò il documento
+
+Con la sua mano sinistra.
+
+Ecco l’epilogo del [[Garden|Giardino]].
+
+Circa quattordici giorni dopo, il signor Walter Windrush stava passeggiando per la sua proprietà…
+
+Il suo giardino preferito. Sorrideva e fumava, come se nulla fosse accaduto. Lui era.
+
+#Fumando una piccola sigaretta in un lunghissimo portasigarette… e lui davvero…
+
+# Continuava come se nulla fosse accaduto… Perché quella era davvero la vera misteria.
+
+"Walter Windrush, un caso che né esperti medici né giuridici riuscirono mai a risolvere"
+
+La cosa meno probabile da comprendere. Quello era il vero Segreto, che nessun [[Detective|detektive]] avrebbe mai potuto scoprire.
+
+Non sarebbe mai stato possibile scoprirlo.
+
+# Era diventato una mostruosità agli occhi delle persone più vicine a lui
+
+Carissimo. A suo stesso [[Child|bambino]] era stato descritto come uno scimpanzé, e anche in altri modi.
+
+“Maniaco chiacchierone; fu descritto ancora una volta come un individuo spietato e paziente”.
+
+# Assassino che ha dedicato tutta la sua vita a nascondere un crimine
+
+#Trascinato attraverso ogni umiliazione e orrore
+
+# Esperienza: aveva scoperto che il suo paradiso privato preferito era…
+
+# Scena di un omicidio e il modo in cui il suo amico riuscì a credergli
+
+# Un assassino… Aveva trascorso del tempo in un manicomio… Era stato vicino al…
+
+“Gallows… E tutte queste cose avevano per lui meno importanza di…”
+
+# Forma della grande nuvola colorata del mattino che si alzava lentamente nel cielo…
+
+L’oriente, o il fatto che gli [[Birds|uccelli]] avevano già iniziato a cantare sui rami degli alberi.
+
+Il tragico albero. Alcuni avrebbero detto che il suo umore fosse troppo superficiale per qualcosa del genere…
+
+Tragedie… Alcuni, che vedevano più in profondità, avrebbero potuto dire che fosse troppo profonda per essere compresa.
+
+“Loro… Ma viveva e camminava su tali profonde sorgenti di leggerezza.”
+
+Titolo:  
+Se in un altro mondo… È possibile che l’ispettore Brandon non abbia fatto…
+
+Comprendere appieno il [[Monster|mostro]] chiamato “Uomo di Genio”.
+
+Infatti, lui era molto meno colpito da quei ricordi angosciosi rispetto all’uomo…
+
+Buon senso. Dopo essersi aggirato da solo per qualche momento, lui.
+
+Intervenuto anche il suo giovane amico, il dottore… ma il dottore sembrava…
+
+Piuttosto cupo ed imbarazzato, tanto che l’[[Artist|artista]] riuscì a riprendersi.
+
+Parlargliene.
+
+“Beh,” disse il dottor Judson, con quel suo solito tono cupo.
+
+Onestà, “Dovrei vergognarmene, suppongo, tanto quanto di, ”
+
+# Tutto il resto… Ma devo ammettere che non riesco a capire come tu possa sopportare l’idea di appenderti.
+
+Più o meno nel posto stesso.
+
+“Mio caro amico, tu che sei un uomo freddo e razionale della scienza…” disse
+
+#Windrush leggermente… “In quali superstizioni vi immergete! In quale medioevo…”
+
+“Oscurità, in cui ti crogi tutto il giorno… Io sono solo un povero, impraticabile poeta.”
+
+"Sognatore… ma vi assicuro che siamo nel pieno giorno. Anzi, non l’ho mai fatto prima."
+
+#Fuori dal gioco, nemmeno quando mi hai messo in quella situazione piacevole…
+
+Sanatorio per un giorno o due… Ero abbastanza felice lì.
+
+Pazzi. Beh, sono giunto alla conclusione che in realtà fossero piuttosto sani di mente rispetto ad altri.
+
+I miei amici sono fuori.
+
+“Non c’è bisogno di insistere,” disse Judson con un gemito. “Non lo farò.”
+
+Mi scuso per aver pensato che fossi pazzo, perché in realtà non l’ho mai creduto. Ma…
+
+# Supponiamo che, data una notevole sensibilità e delicatezza, dovessi scusarmi…
+
+“Pensando che tu fossi un assassino… Ma ci sono assassini di ogni tipo; tutto quello che posso dire…”
+
+Sapevo che avevo trovato un uomo assassinato che tu avevi nascosto nel tuo [[Garden|giardino]]. Io.
 
 
 
@@ -21617,6 +24262,240 @@ net of some resisting Nothing that obstructs creation, and God had made a
 new [[Garden|garden]] and they stood alive on the first foundations of the world.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+non sapevo fino a che punto tu fossi stato provocato o giustificato. Anzi,
+
+da tutto quel che sento del compianto signor Morse, era di quelli
+
+di cui nessuno sentirà la mancanza. Ma sapevo che Wilmot era un [[Detective|detective]] e andava frugando
+
+intorno all'albero, e sapevo che questo significava il tuo arresto in pochissimo [[Time|tempo]].
+
+Anch'io dovevo agire piuttosto in fretta; di solito agisco fin troppo
+
+in fretta, del resto. Un'infermità mentale invocata dopo l'arresto è sempre
+
+debole, specialmente quando non è vera. Ma se eri già stato certificato non
+
+potevi nemmeno essere arrestato. Dovetti inventare una malattia immaginaria, tutta
+
+di mia testa, in circa cinque minuti. La misi insieme alla meglio con
+
+pezzi di quel discorso che avevamo fatto sull'ambidestrismo e pezzi delle
+
+vecchie fandonie marce di Doone sugli antropoidi. Ci misi anche quello, in parte perché
+
+prevedevo che avrei dovuto in qualche modo neutralizzare Doone, e in parte perché
+
+si adattava così [[Well|bene]] alla storia dell'albero. Ma ancora adesso detesto pensare
+
+agli orrori che inventai, benché fossero orrori mai accaduti.
+
+Ma che cosa si deve provare per gli orrori che sono davvero accaduti?"
+
+"[[Well|Ebbene]]", rispose allegramente l'[[Artist|artista]], "e lei che cosa prova per essi?"
+
+"Non posso fare a meno di pensare", disse Judson, "che gli uomini potrebbero evitare questo posto come
+
+un focolaio di peste."
+
+"Gli [[Birds|uccelli]] si posano sull'albero", disse Windrush, "come se fosse la spalla
+
+di san Francesco."
+
+Ci fu un [[Silence|silenzio]] e poi Judson, meditabondo, disse: "Dopo tutto, signore,
+
+è maledettamente straordinario che lei sia vissuto [[Alone|solo]] con quest'albero per vent'
+
+anni senza mai scoprire che cosa ci fosse dentro. So che si ridusse a ossa
+
+abbastanza in fretta, perché il ruscello portava via la decomposizione, ma
+
+lei avrebbe potuto rimestare intorno a quell'albero un giorno qualunque."
+
+Walter Windrush lo guardò fisso con i suoi occhi chiari e vitrei.
+
+"Non ho mai nemmeno toccato quell'albero", disse. "Non sono mai stato a meno di
+
+due iarde da esso."
+
+Qualcosa nei suoi modi suggerì al giovane che erano giunti
+
+vicino al nervo scoperto dell'eccentricità: tacque e l'[[Artist|artista]] proseguì:
+
+"Lei ci racconta moltissimo sull'Evoluzione e sull'Ascesa dell'Uomo. Voi
+
+uomini di scienza siete molto superiori, naturalmente, e non c'è nulla
+
+di leggendario in voi. Non credete nel [[Garden|Giardino]] dell'Eden. Non
+
+credete in Adamo ed Eva. Soprattutto, non credete nell'Albero
+
+Proibito."
+
+Il dottore scosse il capo con un dissenso semischerzoso, ma l'altro
+
+proseguì con la stessa [[Grave|grave]] fissità dello sguardo.
+
+"Ma io le dico: abbia sempre nel suo [[Garden|giardino]] un Albero Proibito. Abbia
+
+sempre nella vita qualcosa che non le sia lecito toccare. Questo è il segreto
+
+per essere giovani e felici per sempre. Non ci fu mai storia tanto vera quanto quella
+
+storia che voi chiamate [[Fable|favola]]. Ma voi vi evolverete, esplorerete e mangerete
+
+dell'albero della conoscenza: e che cosa ne verrà?"
+
+"[[Well|Ebbene]]", disse il dottore sulla difensiva, "ne sono venute parecchie cose
+
+che non sono poi così male."
+
+"Amico mio", disse il poeta. "Una volta mi domandò a che cosa Servisse questo
+
+albero. Le risposi che non desideravo che Servisse a nulla. E avevo torto? Non ne ho
+
+tratto altro che bene, proprio perché per me era inutile. Che cosa ne hanno
+
+tratto coloro per i quali era utile? Che cosa ottennero quelli che
+
+chiesero, secondo il modo di quell'antica follia, il Frutto dell'albero?
+
+Fu utile a Duveen, o Doone, o comunque lo si voglia chiamare, e quale
+
+frutto raccolse se non il frutto del peccato e della [[Death|morte]]? Ne ricavò omicidio e
+
+[[suicide|suicidio]]; stamattina mi hanno detto che aveva preso del [[Poison|veleno]],
+
+lasciando una confessione dell'omicidio di Morse. Fu utile a Wilmot, in un certo
+
+senso, naturalmente; ma che cosa ne ricavarono perfino Wilmot e Brandon, se non
+
+il terribile dovere di trascinare un proprio simile alla forca? Fu
+
+utile a lei, quando le occorreva un [[nightmare|incubo]] insensato di qualche specie, con
+
+cui rinchiudermi a vita e terrorizzare la mia famiglia. Ma era un
+
+[[nightmare|incubo]], e lei stesso sembra ancora un poco perseguitato da quel
+
+[[nightmare|incubo]]. Ma ripeto che a me fu inutile, e io sono ancora nella
+
+piena luce del giorno."
+
+Mentre parlava, Judson alzò lo sguardo oltre il prato e vide Enid Windrush uscire
+
+dall'[[Shadow|ombra]] della [[house|casa]] nel sole. Qualcosa nell'aureo
+
+equilibrio della sua figura, col volto acceso e l'irradiazione fiammeggiante
+
+dei suoi capelli, la faceva sembrare uscita davvero da un
+
+quadro allegorico dell'[[Dawn|alba]]; e per quanto rapidamente si muovesse, i suoi movimenti
+
+avevano sempre le curve ampie e graduali delle grandi forze inconsapevoli, delle
+
+acque che cadono e del [[Wind|vento]]. Qualcosa di questa congruenza con la deriva quasi
+
+cosmica della conversazione [[Rose|salì]] senza dubbio nella mente del poeta, mentre
+
+diceva con sufficiente noncuranza: "[[Well|Ebbene]], Enid, ho di nuovo esaltato la vecchia
+
+proprietà. Ho modestamente paragonato il mio cortile al [[Garden|Giardino]]
+
+dell'Eden. Ma è inutile parlare con questo deplorevole giovane
+
+materialista. Non crede in Adamo ed Eva né in nulla di quel che ti raccontano
+
+la domenica."
+
+Il giovane non disse nulla; in quel momento era tutto occupato a
+
+guardare.
+
+"Non so se ci siano serpenti in giro", disse lei ridendo.
+
+"Alcuni di noi", disse Judson, "sono stati in quella specie di delirio in cui
+
+si vedono serpenti. Ma credo che ormai siamo tutti guariti, e ci sono altre
+
+cose da vedere."
+
+"Immagino che lei direbbe", disse Windrush sognante, "che ci siamo evoluti
+
+in una condizione superiore e sappiamo vedere qualcosa di più bello. [[Well|Ebbene]], non
+
+mi fraintenda: non ho nulla contro chi si evolve, purché lo faccia
+
+in silenzio, da gentiluomo, e senza tutto questo baccano. Non avrebbe
+
+molta importanza, se avessimo cominciato arrampicandoci sugli alberi. Ma continuo a
+
+pensare che perfino le scimmie avrebbero fatto bene a lasciare un albero tabù: un
+
+albero sacro su cui non arrampicarsi. Ma l'evoluzione significa soltanto... accidenti, la mia
+
+sigaretta si è spenta. Credo che dovrò andare a fumare in biblioteca
+
+d'ora in avanti."
+
+"Perché dice d'ora in avanti?"
+
+Non udirono la sua risposta mentre si allontanava, ma disse: "Perché questo
+
+è Il [[Garden|Giardino]] dell'Eden."
+
+Un improvviso [[Silence|silenzio]] cadde tra i due rimasti l'uno di fronte all'altra sul
+
+prato. Poi John Judson attraversò fino alla ragazza e, affrontandola
+
+con grande gravità, disse: "Sotto un aspetto suo padre sottovaluta la mia
+
+ortodossia."
+
+Il sorriso di lei si fece un poco più grave mentre gli chiedeva perché lo dicesse.
+
+"Perché io credo davvero in Adamo ed Eva", rispose l'uomo di scienza, e
+
+d'un tratto le afferrò entrambe le mani.
+
+Lei le lasciò dov'erano e continuò a fissarlo con assoluta
+
+immobilità e fermezza. Solo i suoi occhi erano mutati.
+
+"Io credo in Adamo", disse, "benché un tempo fossi fermamente convinta
+
+che egli fosse il Serpente."
+
+"Non ho mai pensato che lei fosse il Serpente", rispose lui con lo stesso tono nuovo
+
+di fantasticheria, quasi mistico, "ma pensavo che lei fosse l'Angelo della
+
+[[Sword|Spada]] Fiammeggiante."
+
+"Ho gettato via la [[Sword|spada]]", disse Enid Windrush.
+
+"E ha lasciato soltanto l'angelo", rispose lui, e lei ribatté: "Lasciato soltanto la
+
+donna."
+
+In cima all'albero un tempo maledetto un piccolo uccello proruppe in [[Song|canto]], e nello
+
+stesso istante un grande [[Wind|vento]] mattutino da sud si riversò sul
+
+[[Garden|giardino]], piegando tutti i suoi cespugli e i suoi arbusti e sembrando, come fa l'aria
+
+quando passa sopra il fogliame soleggiato, spingere il sole davanti a sé in
+
+onde possenti. E parve a entrambi che qualcosa si fosse spezzato o
+
+allentato, un ultimo legame col caos e con la [[Night|notte]], un ultimo filo della
+
+rete di un Nulla resistente che ostacola la creazione, e che Dio avesse fatto un
+
+nuovo [[Garden|giardino]] ed essi stessero vivi sulle prime fondamenta del mondo.
+
 
 
 <span class="atom-split" data-atom="story_12_the_ecstatic_thief--part_01" data-title="FourFaultlessFelons — The Ecstatic Thief (part 1)" data-chapter="The Ecstatic Thief" data-kind="excerpt" data-tags="archetype/innocent,motif/dreams,motif/machine,motif/spring,motif/time,motif/well,concept/body,concept/education,concept/reform,concept/sublime,histref/milton,character/milton"></span>
@@ -21791,6 +24670,177 @@ Jacob's wrath, to Nadoway's the direful [[spring]]. Norman had begun by
 
 shaking the brown brick chapel to its foundations by announcing his
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL LADRO ESTATICO
+I IL NOME DI NADOWAY
+
+IL nome di Nadoway era in un certo senso famoso, e persino, a suo modo,
+
+ispiratore e [[Sublime|sublime]]. Alfredo il Grande lo aveva portato dinanzi a sé come un
+
+dono o beneficio, mentre errava nei boschi e attendeva la liberazione del
+
+Wessex. Così almeno si dedurrebbe dal manifesto in cui era
+
+raffigurato, a colori sgargianti, mentre riparava al disastro delle Focacce
+
+Bruciate offrendo i Nub di Nadoway, una qualità superiore di biscottino.
+
+Shakespeare aveva udito quel nome come uno squillo di tromba; almeno se si può
+
+prestar fede al vistoso quadro con la scritta «Anne Hathaway ci sapeva fare con
+
+Nadoway», in cui il poeta leva un raggiante volto mattutino alla
+
+comparsa di questi ristori. Nelson, nell'ora suprema della battaglia,
+
+lo aveva visto scritto nel cielo; almeno così sta scritto su tutti gli
+
+enormi cartelloni della Battaglia di Trafalgar, che ci sono tanto
+
+familiari per le strade; il quadro cui sono acconciamente apposti i
+
+nobili versi di Campbell: «Di Nelson e dei Nub, cantate del glorioso giorno
+
+la fama.» Altrettanto familiare è il più moderno manifesto patriottico
+
+che raffigura un Marinaio Britannico alla [[Machine|mitragliatrice]], dalla quale una pioggia
+
+di Nub si riversa perpetuamente sul pubblico. Il che esagera alquanto
+
+ingiustamente il carattere letale dei Nub. Chi ha avuto il privilegio
+
+di accostare un Nub alle labbra si è certo trovato piuttosto in imbarazzo nel
+
+distinguerlo da altri e minori biscotti. Ma avere un Nub conficcato
+
+nel [[Body|corpo]], per l'ordinario processo della digestione, non risulta sia mai
+
+stato davvero fatale come una pallottola. E, tutto sommato, molti hanno teso
+
+a sospettare che la differenza principale, tra i Nub di Nadoway e quelli di chiunque
+
+altro, stesse nell'onnipresenza di questa superba pinacoteca di
+
+réclame, che pareva circondare Nadoway di sfarzose
+
+fastosità e di splendidi cortei araldici e storici.
+
+In mezzo a tutto questo blasone avvolgente e a questo squillare di trombe,
+
+non c'era altro che un ometto scialbo, dal volto duro, con una grigia
+
+barbetta caprina e gli occhiali, che non andava mai in nessun luogo se non agli affari
+
+e a una Cappella Battista di mattoni bruni. Era il signor Jacob Nadoway, poi
+
+naturalmente Sir Jacob Nadoway, e più tardi ancora Lord Normandale, il primo
+
+fondatore della ditta e fonte di tutti i Nub. Viveva ancora molto
+
+semplicemente, ma poteva permettersi ogni lusso. Poteva permettersi il
+
+lusso di avere l'onorevole Millicent [[Milton]] come segretaria privata.
+
+Era figlia di una decaduta [[house|casata]] aristocratica, con la quale egli era
+
+in rapporti superficialmente cordiali, poiché abitavano nello stesso
+
+vicinato, ed era naturale che l'importanza relativa dei due
+
+fosse a poco a poco mutata. Il signor Nadoway poteva permettersi il lusso di
+
+essere il protettore dell'onorevole Millicent. L'onorevole Millicent non
+
+poteva permettersi il lusso di non essere la segretaria del signor Nadoway.
+
+Era però un lusso su cui talvolta faceva [[Dreams|sogni]] dorati. Non
+
+che il vecchio Nadoway la trattasse male, o la pagasse male, o si sarebbe
+
+azzardato a esserle scortese sotto alcun riguardo. Il vecchio Radicale frequentatore di cappelle
+
+era troppo scaltro per questo. Capiva [[Well|bene]] che esisteva ancora
+
+qualcosa come un patto e un equilibrio tra i Nuovi Ricchi e i Nuovi
+
+Poveri. Lei aveva più o meno frequentato la casa Nadoway molto
+
+prima di avervi un incarico ufficiale, e non poteva essere trattata
+
+altrimenti che come un'amica di famiglia, anche se non era esattamente il
+
+genere di famiglia in cui avrebbe cercato le proprie amicizie. Eppure
+
+vi aveva trovato degli amici, e aveva persino corso una volta il rischio di
+
+trovarvi non solo degli amici ma un amico. Forse, a un certo [[Time|tempo]], non solo un
+
+amico.
+
+Nadoway aveva due figli, che frequentarono la scuola e l'università e, secondo il
+
+riconosciuto costume moderno, furono discretamente fabbricati gentiluomini.
+
+Il modo della modellatura fu invero alquanto diverso nei due
+
+casi, e in entrambi lei lo osservò con un certo curioso interesse. Era
+
+forse simbolico che il maggiore fosse John Nadoway, e risalisse ai giorni
+
+in cui il padre conservava il gusto dei nomi semplici o preferibilmente
+
+scritturali. Il minore era Norman Nadoway, e il nome segnava un certo
+
+ammorbidirsi verso nozioni di eleganza, preannunciando la terribile
+
+possibilità di Normandale. C'era stato un [[Time|tempo]] felice, in cui John poteva
+
+davvero essere chiamato Jack. Era un ragazzo assai ragazzesco, giocava a
+
+cricket e si arrampicava sugli alberi con una certa grazia naturale, come quella di un
+
+giovane animale vivo e [[Innocent|innocente]] al sole. Non era privo di attrattiva
+
+e lei non ne era rimasta indifferente. Eppure ogni [[Time|volta]] che ricompariva, a
+
+diversi stadi della sua carriera universitaria e dei primi affari, lei era
+
+consapevole che qualcosa sbiadiva mentre qualcosa si irrigidiva. Stava
+
+attraversando quel misterioso processo per cui tanti ragazzi radiosi e
+
+simili a dèi finiscono per diventare uomini d'affari. Non poteva fare a meno di sentire
+
+che ci dovesse essere qualcosa di sbagliato nell'[[Education|educazione]] — o forse qualcosa
+
+di sbagliato nella vita. Pareva in qualche modo che egli crescesse sempre più grande e
+
+sempre più piccolo.
+
+Norman Nadoway, d'altra parte, cominciò a diventare interessante proprio nel
+
+momento in cui Jack Nadoway cominciava a non esserlo più. Era uno di quelli che
+
+fioriscono tardi; se l'immagine del fiore si può usare per chi
+
+(per tutti i primi anni) somigliava piuttosto a una rapa pallida. Aveva una
+
+testa grossa e grandi orecchie e un viso e un'espressione incolori, e per un
+
+[[Time|tempo]] passò per una specie di sciocco lunatico. Ma quando era a scuola
+
+lavorò sodo di matematica, e quando fu a Cambridge di economia.
+
+Di lì fu un solo balzo temerario allo studio della politica e della
+
+[[Reform|riforma]] sociale; e di qui venne il gran finimondo nella [[house|Casa]] dei Nub e
+
+l'ira di Giacobbe, per i Nadoway funesta [[spring|primavera]]. Norman aveva cominciato
+
+scuotendo fin dalle fondamenta la cappella di mattoni bruni annunciando il suo
 
 
 
@@ -22046,6 +25096,257 @@ moonshine and darkness, and she wondered for the first [[Time|time]] if it held 
 secret.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Intenzione di diventare curato nella Chiesa d’Inghilterra… anzi, nella Chiesa Alta
+
+Festa parrocchiale della Chiesa d’Inghilterra… Ma suo padre non ne era affatto turbato.
+
+Più di quanto gli fossero arrivati i resoconti riguardanti le grandi imprese compiute da suo figlio…
+
+#Lezioni di successo sull’Economia Politica. Un approccio del tutto diverso…
+
+# Economia politica: basata su ciò che suo padre aveva predicato con successo
+
+#E così diverso che suo padre, in un momento indimenticabile…
+
+Un’esplosione al tavolo della colazione, la descrisse come Socialismo.
+
+“Qualcuno deve andare a Cambridge e fermarlo!” disse il signor più anziano.
+
+"Nadoway si agitava sulla sedia, battendo nervosamente sul tavolo. ‘Tu…’”
+
+Devi andare a parlare con lui, John… oppure devi portarlo qui e parlerò io.
+
+A lui. Altrimenti, l’affare andrà semplicemente in fumo.
+
+Entrambe le parti del programma alternativo dovevano evidentemente essere attuate.
+
+# John, il socio junior di Nadoway e Figli, andò davvero a Cambridge
+
+# Parlò con lui, ma apparentemente non riuscì a fermarlo. Alla fine, John lo portò via comunque.
+
+#Tornare da Jacob Nadoway, affinché Jacob potesse parlargli… Ma Jacob non era lì.
+
+Con grande riluttanza, eppure l’intervista non è andata esattamente come lui si aspettava…
+
+Aveva intenzione di farlo. In effetti, è stata un'intervista piuttosto enigmatica.
+
+#Si svolse nello studio di vecchio Jacob, da cui si poteva ammirare il panorama attraverso una finestra rotonda
+
+Le finestre ad arco di “The Lawns”; è così che ancora oggi il [[house|casa]] viene chiamata. Era.
+
+In una casa molto vittoriana, di quel tipo che si sarebbe potuto descrivere all’epoca.
+
+[[Time|Il tempo]], così come costruito dai Filistei per i Filistei. C’era molta.
+
+#Vetro curvo intorno ad esso, nei suoi serra e nei suoi ambienti semicircolari
+
+#Finestre. C’erano molte cupole, padiglioni e sovrapporti intorno ad esse.
+
+Con tutti i portici coperti come se fossero ombrelli di legno a gradini… Lì.
+
+# Una quantità considerevole di vetro colorato piuttosto brutto… e anche una buona quantità di cose che non erano affatto tali.
+
+Del tutto brutti, ma molto artificiali: siepi tagliate in modo irregolare e giardini all’olandese.
+
+In breve, si trattava di quel tipo di confortevole casa vittoriana che veniva considerata.
+
+“Ritenuto estremamente volgare dagli esteti di quel periodo… Il signor Matthew Arnold lo definiva…”
+
+È passata davanti alla [[house|casa]] con un sospiro dolce. Il signor John Ruskin l’avrebbe apprezzato molto.
+
+# Ritrassesi inorridito e maledisse quell’oggetto con tutte le forze del cielo.
+
+La vicina [[Hill|collina]]. Anche il signor William Morris si sarebbe lamentato se l'avesse vista.
+
+Titolo:  
+Architettura che consisteva soltanto in imbottiture… Ma io…
+
+Non sono molto sicuro riguardo al signor Sacheverall Sitwell. Abbiamo raggiunto un [[Time|momento]] in cui.
+
+Le finestre curve e i portici coperti di quel [[house|casa]] hanno iniziato a.
+
+“Assume una sorta di fascino sognante, legato alla distanza… E non sono sicuro che…”
+
+#Il signor Sitwell forse non sarebbe stato trovato a vagare nelle sue stanze interne…
+
+#Componendo una poesia sui suoi incanti polverosi… anche se sicuramente avrebbe dovuto essere diversa.
+
+# Sorpreso, il signor Jacob Nadoway lo trovò così impegnato… Dopo tutto…
+
+Intervista: anche il signor Sitwell potrebbe scrivere una poesia sul signor Nadoway…
+
+Non mi impegno a prendere una decisione.
+
+Millicent [[Milton]] era entrata nel [[Garden|giardino]] e si stava dirigendo verso lo studio, più o meno alle.
+
+Nello stesso istante in cui il socio junior arrivò lì, lei era alta e bionda.
+
+# E il suo mento sollevato e puntato conferiva al suo profilo una bellezza unica
+
+#Belli solo in apparenza. A prima vista, i suoi occhi sembravano un po’ assonnati…
+
+# E in un attimo, con un’aria un po’ sprezzante… ma in realtà non era affatto né l’una né l’altra.
+
+L’altra… ma solo rassegnata in modo ragionevole. Si sedette al suo solito posto.
+
+Si sedette alla scrivania per svolgere il suo lavoro abituale, ma molto presto si alzò di nuovo, come se.
+
+Con un silenzioso invito a ritirarsi, poiché la discussione familiare era in corso…
+
+“Diventando sempre più domestica… Ma la vecchia Nadoway le fece segno di tornare indietro, con aria irritata.”
+
+Rassicurazioni, ma lei rimase semplicemente spettatrice di tutta la scena.
+
+“Old Nadoway aveva abbaiato piuttosto bruscamente, come se fosse stato disturbato…”
+
+La prima volta: “Ma pensavo che voi due aveste già parlato.”
+
+“Sì, padre,” disse John Nadoway, guardando il tappeto, “abbiamo avuto…”
+
+“Parlare.”
+
+“Spero che tu abbia fatto vedere Norman a qualcuno,” continuò l’uomo anziano con un tono più dolce.
+
+“Che semplicemente non dovrebbe buttare via tutti questi progetti folli, finché, ”
+
+# Tutti siamo davvero coinvolti in questa situazione… La mia attività andrebbe in rovina in un mese.
+
+# Se provassi ad attuare quei pazzeschi progetti ideali riguardo ai bonus…
+
+#Co-partnership… E come posso far sì che mio figlio utilizzi il mio nome e lo gridi?
+
+Dappertutto dove i miei metodi non sono adatti per un cane. È ragionevole?
+
+Non ti ha spiegato John che non è ragionevole?
+
+Il volto grande e pallido del curato, per la sorpresa di tutti…
+
+Con un sorriso stanco, disse: “Sì, Jack mi ha spiegato molte cose.”
+
+“Di ciò, a me… ma ho anche fornito qualche spiegazione. Ho spiegato, cioè…”
+
+Ad esempio, anch'io ho un'attività.
+
+“E l’attività di tuo padre?” chiese Jacob.
+
+“Sto occupandomi degli affari di mio padre,” disse il prete con voce dura.
+
+C'era un silenzio opprimente, rotto in modo piuttosto nervoso.
+
+“La verità è, padre, che non funzionerà,” disse John Nadoway con voce grave, e ancora…
+
+#"Studiando il tappeto… Credo di aver detto tutto ciò che potessi dirvi."
+
+Lo hai detto tu stesso. Ma Norman conosce le nuove condizioni, e non andrà bene.”
+
+“Il vecchio signor Nadoway fece un gesto come se stesse ingoiando qualcosa, poi disse…”
+
+#"Anche tu sei contro di me?"
+
+E tutta questa faccenda?
+
+“Sono a favore di tutta questa iniziativa, ed è proprio questo il punto fondamentale,” disse
+
+John: “Immagino che dovrò assumermene la responsabilità, beh, prima o poi. Ma io, ”
+
+Mai e poi mai sarò responsabile di tutte quelle vecchie modalità di fare le cose.
+
+#"Contento abbastanza dei soldi ottenuti con quei metodi vecchi..."
+
+“Cose del genere,” disse suo padre con rabbia, “e ora vieni da me con questa…”
+
+“Socialismo pieno di sciocchezze e frasi senza senso.”
+
+“Mio caro papà,” disse John Nadoway, fissandolo con uno sguardo serio. “Sembro forse…?”
+
+“Socialista?”
+
+# Millicent, da spettatrice, osservava tutto di lui: il suo aspetto imponente e attraente…
+
+“Figura, dai suoi stivali neri e lucidi al suo capello ben oliato…”
+
+E faticava quasi a trattenere una risata.
+
+# La voce di Norman Nadoway si fece sentire all’improvviso, con una intensità particolare…
+
+Senza violenza.
+
+Dobbiamo ripristinare l'onore del nome Nadoway.
+
+“Osi dirmi,” gridò l’uomo anziano con furia, “che il mio nome abbia bisogno…”
+
+“Qualche radura?”
+
+“Secondo i nuovi standard, sì,” disse John dopo un po’ di [[Silence|silenzio]].
+
+Il vecchio mercante si sedette improvvisamente e in silenzio sulla sua sedia e si girò…
+
+Al suo segretario, come se l'intervista fosse già finita.
+
+“Credo che stasera non avrò bisogno di te,” disse. “È meglio che tu vada…”
+
+“Un po’ di tempo libero.”
+
+Lei si alzò, piuttosto incerta, e si diresse verso le finestre che davano sul giardino.
+
+Sul [[Garden|giardino]]. Il pallido cielo serale era stato improvvisamente trasformato in [[Night|notte]].
+
+Per il contrasto tra la grande luce della [[Moon|luna]] che sorgeva dietro gli alberi scuri.
+
+“Strappando le aiuole di colore verde-grigio con ombre scure… Lei era sempre stata così.”
+
+“Perplesso dal fatto che sembrasse esserci qualcosa di romantico in tutto ciò…”
+
+Il [[Garden|giardino]] e persino la [[Grotesque|grottesca]] [[house|casa]], abitata da persone così strane.
+
+Persone prosaiche… Lei era già fuori dalle porte di vetro, nel…
+
+Nel [[Garden|giardino]], quando sentì il vecchio Nadoway parlare di nuovo.
+
+“La mano del Signore è pesante su di me“, disse. “Sembra difficile che io…”
+
+Ho avuto tre figli maschi e tutti si sono rivoltati contro di me.
+
+“Non c’è alcun dubbio che io possa voltarmi contro di te, padre”, disse John in fretta.
+
+E in modo fluido. “È solo una questione di ricostruire l’attività in modo che…”
+
+Per adattarsi alle nuove condizioni e a un’opinione pubblica piuttosto diversa… Ne sono sicuro.
+
+Che nessuno dei vostri figli intenda mostrare ingratitudine o mancanza di rispetto.
+
+“Se uno dei vostri figli avesse fatto una cosa del genere,” disse Norman con la sua voce profonda, “...”
+
+Sarebbe altrettanto malvagio quanto fare le cose nel vecchio modo.
+
+“Beh,” disse suo padre con un certo affaticamento, “limiteremo le cose a questo.”
+
+Ora, non continuerò molto a lungo.
+
+Ma Millicent [[Milton]] stava fissando quella casa buia, colta da un nuovo attacco di.
+
+[[Mystification|mistero]]. I due fratelli avevano ignorato e tralasciato completamente quel dettaglio.
+
+Qualcosa che assomiglia alla abilità… una certa frase utilizzata da loro padre. Ma…
+
+Aveva sentito chiaramente l’uomo anziano dire: “Tre figli.”
+
+#Non aveva mai sentito parlare di alcun altro figlio… Continuava a fissare quel stile architettonico in stile rococò.
+
+# Descrizione di quella villa piuttosto ridicola, ma al contempo romantica, con le sue cupole
+
+E le verande decorative, scure contro la luce della [[Moon|luna]]; con i loro finestri a forma di bulbo.
+
+e piante in vasi gonfiati; le sue statue goffe e i suoi giardini pieni di piante ammassate.
+
+E tutto quel contorno ingrossato rendeva la cosa quasi mostruosa…
+
+Luce lunare e oscurità. E per la prima volta si chiese se in tutto ciò ci fosse qualcosa di reale.
+
+Segreto.
+
 
 
 <span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_01" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 1)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/horse,motif/love,motif/silence,motif/time,motif/well,concept/courage,form/inscription,histref/milton,character/milton,character/mowbray"></span>
@@ -22225,6 +25526,182 @@ that he wasn't exactly a real burglar, or that it was "Quite Different",
 
 or that there was "some mistake". What she really meant (to the [[Grave|grave]]
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+II IL LADRO E LA SPILLA
+
+FU lo spavento del furto con scasso ad avviare davvero la storia verso
+
+la scoperta di cose piuttosto strane. Come furto fu abbastanza
+
+insignificante, nel senso che il ladro a quanto pare non riuscì a portar via
+
+nulla, essendo stato sorpreso prima di poterlo fare. Ma non fu certo
+
+soltanto il ladro a essere sorpreso.
+
+Jacob Nadoway aveva provveduto la sua segretaria di un eccellente appartamento
+
+che dava sull'atrio centrale e non lontano dal proprio. Aveva corredato
+
+quelle stanze di ogni elegante comodità, compresa una zia. Era
+
+invero dubbio, a volte, se la zia dovesse essere classificata come una
+
+comodità o una scomodità. Si supponeva, in modo vago, che dovesse
+
+regolarizzare la casa vittoriana e aggiungere perfino alla segretaria un tocco
+
+in più di distinzione. Ma c'era una differenza, perché la zia, che era
+
+una certa signora [[Milton]]-[[Mowbray]], era incline a risalire all'improvviso sul suo
+
+alto [[Horse|cavallo]] per poi scivolarne giù di nuovo, mentre la nipote, con una
+
+dignità più negativa, batteva il polveroso sentiero del dovere da fiera pedone. In
+
+quell'occasione Millicent [[Milton]] era stata impegnata tutta la sera a
+
+placare la zia, e dopo quell'esperienza sentì che le sarebbe piaciuto
+
+passare un po' di [[Time|tempo]] a placare se stessa. Invece di andare a letto,
+
+prese un libro e cominciò a leggere accanto al [[Fire|fuoco]] morente. Lesse finché non
+
+si fece molto tardi, senza rendersi conto che tutti gli altri si erano presumibilmente
+
+ritirati a riposare, quando udì nell'assoluta immobilità un suono nuovo e
+
+inconfondibile venire dall'atrio centrale là fuori, che conduceva allo
+
+studio del suo datore di lavoro. Era una specie di ronzio stridente, come quello
+
+prodotto dal metallo che si fa strada nel metallo. E si ricordò che
+
+nell'angolo tra le due stanze stava la cassaforte.
+
+Possedeva la specie migliore di [[Courage|coraggio]], quello del tutto inconsapevole, e semplicemente uscì
+
+nell'atrio e guardò. Ciò che vide la stupì per quanto era
+
+ordinario. L'aveva visto in tanti film e ne aveva letto in tanti
+
+romanzi, che stentava a credere che avesse davvero quell'aspetto.
+
+La cassaforte era aperta e un uomo malandato stava inginocchiato davanti ad essa, con
+
+le spalle rivolte a lei, così che di lui non poteva vedere altro che la sciatteria, la
+
+testa coperta da un cappello a tesa larga ammaccato e informe. Da un
+
+lato, sul pavimento, luccicava l'acciaio di un succhiello e di alcuni
+
+altri arnesi della sua arte; dall'altro lato luccicavano ancor più brillanti
+
+l'argento e le pietre di un ornamento, che pareva una catenella con fermaglio,
+
+presumibilmente una parte del suo bottino. In qualche modo non sembrava esserci nulla
+
+di acuto o di inatteso in quell'esperienza; era quasi convenzionale, nell'
+
+essere così simile a ciò che avrebbe dovuto essere. Parlò solo come sentiva, con
+
+un tono del tutto freddo e banale, quando disse: «Che cosa sta facendo
+
+qui?»
+
+«[[Well|Beh]], non sto scalando il Cervino né suonando il trombone, per il
+
+momento», borbottò l'uomo con voce rauca e distante. «Suppongo sia
+
+abbastanza chiaro quello che sto facendo.»
+
+Poi, dopo un [[Silence|silenzio]], riprese in tono di avvertimento: «Non stia a dire
+
+che quella spilla lì è sua, perché non lo è. Non l'ho nemmeno tirata fuori
+
+da questa cassaforte; diciamo che l'ho sfilata a un'altra famiglia più presto, in
+
+serata. È una cosa graziosa, una specie di [[Imitation|imitazione]] del Trecento, con
+
+sopra Amor Vincit Omnia. Sta molto [[Well|bene]] dire che l'[[Love|amore]] vince
+
+tutto, e che la forza non è un rimedio e via dicendo. Ma io ho forzato questa
+
+cassaforte: non ho mai trovato una cassaforte che si aprisse solo amando ciò che c'era dentro.»
+
+C'era qualcosa di piuttosto paralizzante nel modo in cui il ladro
+
+seguitava placidamente a parlare senza nemmeno voltarsi; e le parve un po'
+
+strano che conoscesse il significato dell'[[Inscription|iscrizione]] latina,
+
+per quanto semplice fosse. Né riuscì a indursi a gridare o a fuggire o a fermarlo
+
+in alcun modo, mentre lui proseguiva con la stessa compostezza conversevole.
+
+«Dev'essere fatta sul modello del grande fermaglio che portava la Priora di Chaucer;
+
+aveva sopra lo stesso motto. Non trova che Chaucer fosse un fenomeno nel
+
+modo in cui coglieva i tipi sociali, perfino tipi sociali che ci sono ancora?
+
+Ma sì, la Priora è un ritratto immortale, in poche righe, di una
+
+creatura quanto mai straordinaria chiamata la Signora Inglese. La si riconosce
+
+negli alberghi e nelle pensioni all'estero. La Priora era più simpatica di gran parte di quelle,
+
+ma ne ha tutti i segni: si affanna intorno ai suoi [[dogs|cagnolini]]; è
+
+pignola sulle maniere a tavola; non le piace che si uccidano i topi; tutta la benedetta
+
+faccenda, fino a parlare francese, ma a parlarlo in modo che i francesi non possano
+
+capire.»
+
+Si voltò molto lentamente e la fissò.
+
+«Ma guarda, lei è una Signora Inglese!» esclamò come stupito. «Lo sa che
+
+stanno diventando rare?»
+
+La signorina Millicent [[Milton]] possedeva probabilmente davvero, come la Priora di Chaucer,
+
+le virtù più graziose della Signora Inglese. Ma bisogna onestamente
+
+ammettere che possedeva anche alcuni dei vizi del tipo. Uno dei
+
+delitti della Signora Inglese è un'inconsapevole coscienza di classe.
+
+Nulla poteva mutare il fatto che, nel momento in cui il malandato criminale aveva
+
+cominciato a parlare di letteratura inglese col tono della sua stessa classe, il
+
+suo giudizio si era capovolto per intero, e le era venuta l'idea caotica che
+
+quello non potesse essere affatto un criminale. In astratta [[logic|logica]], sarebbe
+
+stata costretta ad ammettere che ciò non avrebbe dovuto fare alcuna differenza. In
+
+teoria, avrebbe concesso che uno studioso di inglese medievale non ha più
+
+diritto di scassinare le casseforti altrui di chiunque altro. In
+
+linea di principio poteva confessare che un uomo non si compra il diritto di rubare
+
+spille d'argento, neppure mostrando un intelligente interesse per i
+
+Racconti di Canterbury. Ma un che di consuetudine incontrollabile nella sua mente le
+
+fece sentire che il caso era mutato. Il suo sentimento avrebbe potuto essere
+
+espresso solo con quei vaghissimi modi di dire che simili persone impiegano; come
+
+che non era proprio un vero ladro, o che era «Tutta un'Altra Cosa»,
+
+o che c'era «qualche errore». Ciò che intendeva davvero (con [[Grave|grave]]
 
 
 
@@ -22411,6 +25888,188 @@ of me. Good Lord, my dear Dad! Haven't you discovered yet that both your
 
 other sons are ashamed of you? Look at their faces!"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo svantaggio di tutta la sua cultura e del suo mondo era che esistevano alcune…
+
+Persone, criminali o meno, che lei poteva vedere dall’interno… e tutte quante.
+
+Altre persone che vedeva dall’esterno, che fossero ladri o altro…
+
+Muratori.
+
+Il giovane che la fissava aveva i capelli scuri e disordinati, non si era rasato… ma…
+
+#La trascuratezza nell’rasarsi aveva superato la fase più ripugnante del suo sviluppo
+
+#Una barba piuttosto imperfetta… e dalla distribuzione irregolare.
+
+Le ricordava le barbe stranamente divise di alcuni stranieri…
+
+Gli dava un aspetto tipico di un italiano colto.
+
+# Organ-grinder… C’era qualcos’altro di anomalo nel suo viso.
+
+Un fatto che non riusciva immediatamente a definire, ma che pensava fosse proprio questo…
+
+Il suo viso era sempre contorto in un’espressione di derisione, come se…
+
+“Imparò da solo ad insultare e deridere gli altri, ma i suoi occhi scuri e infossati non riflettevano affatto questo comportamento…”
+
+[[Grave|Gravissimo]], ma in un certo senso in modo folle, entusiasta. Se quella barba [[Grotesque|grottesca]].
+
+#Avrebbero potuto coprire completamente la bocca come una maschera…
+
+Gli occhi di un fanatico nel [[Desert|-deserto]] che gridava il grido di battaglia della propria fede. Lui.
+
+# Profondamente indignato con la società per aver reso necessario questo comportamento illegale
+
+La vita. O forse aveva vissuto una [[Tragedy|tragedia]] con una donna o qualcosa del genere. Lei.
+
+Si chiedeva quale fosse la vera storia e com'era quella donna.
+
+Mentre lei formava queste impressioni confuse, il notevole ladro…
+
+Continuò a parlare; non so cosa provasse altrimenti, ma sembrava che nulla lo turbasse.
+
+Imbarazzo nel parlare.
+
+“È davvero gentile da parte tua stare lì fermo in quel modo, beh, questo è un altro aspetto della questione.”
+
+Tratto caratteristico: la signora inglese è coraggiosa; Edith Cavell apparteneva proprio a questo tipo di persone.
+
+Ma ora ci sono altre tribù, e quel tipo di spilla generalmente appartiene…
+
+Per l'ultimo tipo di persona per cui era stato creato. Quello, da solo, sarebbe già sufficiente.
+
+#Giustificazione del commercio dei furti con scasso, che mantiene le cose in movimento…
+
+La circolazione non permette che si stagnino in ambienti incompatibili con loro.
+
+Se quel broccio fosse davvero stato indossato dalla Priora di Chaucer in quel momento…
+
+#Non avresti mai pensato che l’avrei accettata, vero? Anzi, se davvero…
+
+#Nessuno è così gentile come la Badessa… Forse dovrei darle questo titolo.
+
+Subito, anche a scapito dei miei profitti professionali… Ma perché dovrei?
+
+“Una qualche volgare contessa fingente possiede davvero una cosa del genere? Vogliamo saperlo…”
+
+Ancora furti, intrusioni in abitazioni e rapine su strada, tutto per spostare e riorganizzare le cose.
+
+"Il mobilio della società: riorganizzando, per così dire, i suoi beni e le sue proprietà."
+
+Come se dopo una pulizia primaverile, verso–“
+
+In questo momento importante del programma sociale, tutto fu interrotto da…
+
+“Gasp e sbuffi sorprendenti, come il suono di una tromba… E Millicent, che guarda…”
+
+# Dietro di lei, vide il suo datore di lavoro, l’anziano Nadoway, fermo nel riquadro della finestra…
+
+#Porta d’ingresso… e una figura molto piccola e rimpicciolita, all’interno di uno spazio enorme…
+
+Vestaglia viola… Fu solo in quel momento che si rese conto della realtà.
+
+Stupore per il proprio [[Silence|silenzio]] e compostezza. O forse notò qualcosa di strano nel.
+
+Il fatto che fosse rimasta lì ad ascoltare il criminale davanti alla cassaforte…
+
+Come se stesse parlando con lei attorno al tavolo da tè.
+
+“Che cosa! Un ladro?” esclamò il signor Nadoway.
+
+# In quel preciso istante si udì il rumore di persone che correvano… e il grande…
+
+# La figura affannata del socio junior, John Nadoway, vestito con…
+
+#Camicia e pantaloni, anche lui irruppe nella stanza, con una rivoltella in mano
+
+“Ma quasi immediatamente abbassò l’arma che aveva alzato e disse…”
+
+“Maledizione! Ah…”
+
+“ Ladro!”
+
+Il reverendo Norman Nadoway non tardò ad imitare i comportamenti di suo fratello…
+
+Avvolto dignitosamente in un cappotto pesante, sembrava molto pallido e solenne… Ma
+
+Forse la cosa più curiosa riguardo a lui era che si limitava anche…
+
+Si disse, con la stessa intensità enigmatica: “Un ladro!”
+
+Millicent pensava che, a prima vista, ci fosse qualcosa di davvero particolare in quella situazione…
+
+“#Inepto riguardo a questo triplo enfasi… Era altrettanto ovvio che…”
+
+Il ladro era pur sempre un ladro… e la cassaforte era pur sempre una cassaforte. Non riusciva proprio a immaginare nient’altro.
+
+# Perché quei tre uomini parlano tutti come se un ladro fosse un grifone…
+
+Qualcosa di cui non avevano mai sentito parlare prima… fino a quando, all’improvviso, le venne in mente.
+
+Il loro stupore non derivava certo dal fatto che un ladro fosse andato a far loro visita…
+
+Ma piuttosto perché quel visitatore in particolare era un ladro.
+
+“Sì,” disse il visitatore, guardandoli tutti con un sorriso, “è proprio così.”
+
+“Veramente… ora sono un ladro. Credo che prima fossi solo uno che scriveva lettere di mendicanza…”
+
+L’ultima volta che ci siamo visti… Ed è così che, dalle nostre “ceneri”, rialziamo le teste verso cose più grandi; era…
+
+Un piccolo reato insignificante, rispetto a questo… vero?
+
+“Mio padre è stato il primo ad abbandonarmi, ”
+
+“Alan,” disse Norman Nadoway con grande serietà, “perché torni qui in questo modo?”
+
+Questo? Perché proprio qui, tra tutti i posti possibili?
+
+“Perché, a dire la [[Truth|verità]],” disse l’altro, “pensavo che il nostro, ”
+
+Il rispettato Papa potrebbe aver bisogno di un po' di sostegno morale.
+
+“Cosa diavolo intendi?” chiese John Nadoway con irritazione. “Che tipo gentile…”
+
+“Di un sostegno morale, insomma!”
+
+“Sono un grande sostegno morale,” osservò lo sconosciuto con sincera [[Pride|orgoglio]].
+
+“Non te ne rendi conto? Sono l’unico vero figlio e erede… Sono l’unico uomo.”
+
+# Chi è davvero a gestire l’affare… Io sono un esempio di atavismo; io sono…
+
+Un ritorno al tipo originale.
+
+“Non so di cosa stai parlando,” gridò il vecchio Nadoway all’improvviso.
+
+Furia.
+
+“Jack e Norman lo sanno,” disse il ladro con un’espressione cupa. “Sanno cosa sto facendo.”
+
+“Parlando di questo… Loro capiscono cosa intendo quando dico che sono io il vero…”
+
+# Rappresentante di Nadoway e Figli. Il fatto è che hanno continuato a provare…
+
+“Nascondere le cose, poveri vecchi, negli ultimi cinque o sei anni.”
+
+“Sei nato per disonorarmi”, disse l’uomo anziano, tremando di rabbia.
+
+#"Se non ti avessi mandato via..."
+
+L’Australia si è liberata di te, e ora torni indietro solo per comportarti come un comune ladro.
+
+“E il vero rappresentante,” disse l’altro, “di quei metodi che…”
+
+“Nadoway’s Nubs…”, disse poi con improvvisa disprezzosità, “Dite di vergognarvi…”
+
+#Di me… Mio caro Dio, papà mio! Non hai ancora capito che entrambi…
+
+Gli altri figli si vergognano di te? Guarda i loro volti!
 
 
 
@@ -22955,6 +26614,182 @@ and managed to make a bargain to work my passage with the master of a
 
 small craft. He wasn't a particularly nice man and I wasn't particularly
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+conferenziere popolare, "è scavalcare il muro del [[Garden|giardino]]. Sembra semplice, ma
+
+rubare è in genere semplice. Solo che, in questo caso, non riesco proprio
+
+a decidere che cosa rubare. Credo," aggiunse con calma, "che comincerò
+
+col rubarle un po' del suo [[Time|tempo]]. Ma non si allarmi, in nessun
+
+senso segretariale. Le assicuro che ho un appuntamento."
+
+Saltò giù dal muro e atterrò sull'erba accanto a lei, ma senza
+
+interrompere in alcun modo il flusso delle sue osservazioni.
+
+"Sì; è proprio vero che sono convocato a un vero e proprio consiglio di famiglia; un'indagine
+
+sulla possibilità di risanare i miei affari. Ma, grazie
+
+a Dio, non potrò essere risanato prima di un'ora o giù di lì. Finché mi trovo ancora in
+
+uno stato d'animo del tutto criminale, mi piacerebbe piuttosto fare due chiacchiere
+
+con lei."
+
+Lei non disse nulla, ma guardò la lontana fila di palme piuttosto [[Grotesque|grottesche]]
+
+piantate come frontiera nel [[Garden|giardino]] e sentì tornare su di
+
+lei quella sensazione irrazionale che quel luogo fosse sempre stato piuttosto
+
+romantico, malgrado le persone che vi abitavano.
+
+"Immagino che lei sappia," disse Alan Nadoway, "che mio padre andò su tutte
+
+le furie con me quando avevo appena diciotto anni, e mi scaraventò di peso fin
+
+in Australia. Ripensandoci adesso, capisco che qualcosa
+
+si poteva dire a favore dei suoi criteri d'affari in quella faccenda. Avevo
+
+dato a uno dei miei allegri compagni una manciata di denaro che io consideravo
+
+davvero mia, ma che mio padre considerava rigidamente appartenente
+
+alla ditta. Dal suo punto di vista, era un furto. Ma allora non sapevo
+
+granché di furti, in confronto allo studio attento e coscienzioso
+
+che vi ho dedicato da allora. Ma quello che voglio raccontarle è ciò che
+
+mi accadde durante il viaggio di ritorno dall'Australia."
+
+"Non piacerebbe alla sua famiglia sentirlo?" non poté fare a meno di chiedere,
+
+con un tocco di ironia sperimentale.
+
+"Direi di sì," rispose. "Ma non sono sicuro che capirebbero
+
+la storia, anche se la sentissero." Poi, dopo un breve e riflessivo
+
+[[Silence|silenzio]], disse: "Vede, la mia storia è troppo semplice per essere capita. Troppo
+
+semplice per essere creduta. Suona esattamente come una [[Parable|parabola]]; cioè,
+
+suona come una [[Fable|favola]] e non come un fatto. Prenda mio fratello Norman: è un
+
+uomo sincero e molto serio. Legge le parabole del Nuovo Testamento
+
+ogni [[Sunday|domenica]]. Ma difficilmente potrebbe credere a qualcosa di così semplice come una di
+
+quelle parabole, se accadesse nella vita reale."
+
+"Vuol dire che lei è il Figliol Prodigo?" chiese, "e che lui è il
+
+Fratello Maggiore?"
+
+"Sarebbe piuttosto duro se gli australiani dovessero fare i Porci," disse Alan Nadoway.
+
+"Ma non intendo affatto questo. Da un lato, sottovaluta la
+
+magnanimità di mio fratello Norman. Dall'altro, forse esagera un poco
+
+l'ospitalità saltellante ed estatica di mio padre."
+
+Lei non riuscì a reprimere un sorriso, ma, colma delle più alte
+
+tradizioni segretariali, si astenne da ogni commento.
+
+"No; quello che voglio dire," riprese, "è che le storie raccontate in quel modo semplice, a
+
+scopo d'esempio, sembrano sempre non essere vere. È proprio
+
+lo stesso con le parabole dell'economia politica. Anche Norman ha letto molta
+
+economia politica, se è per questo. Avrà letto spesso quei
+
+manuali che cominciano con l'affermazione: 'C'è un uomo su un'isola.'
+
+In qualche modo lo studente o lo scolaro si sente sempre incline a dire che non
+
+c'è mai stato nessun uomo su nessuna isola. Eppure c'era."
+
+Lei cominciò a sentirsi un po' disorientata. "C'era che cosa?" chiese.
+
+"C'ero io," disse Alan. "Lei non può credere a questa storia perché dentro c'è
+
+un'isola [[Desert|deserta]]. È come raccontare una storia con dentro un drago. Eppure,
+
+anche il drago ha la sua morale."
+
+"Vuol dire," chiese, spazientendosi un poco, "che lei è stato
+
+su un'isola [[Desert|deserta]]?"
+
+"Sì, e su una o due altre cose strane. Ma la cosa straordinaria fu
+
+che tutto andò bene finché non arrivai a un'isola abitata. [[Well|Ebbene]],
+
+tanto per cominciare, passai diversi anni in una parte piuttosto disabitata di un'isola
+
+più o meno abitata. Intendo, naturalmente, quella segnata sulla
+
+carta come Australia. Cercavo di coltivare in una zona molto remota del bush,
+
+finché una serie di rovesci mi costrinse a trascinarmi come potevo di nuovo verso le
+
+città. Stavo per dire verso la civiltà, ma suona strano, se
+
+si conoscono quelle città. Per un ultimo colpo di fortuna i miei [[Animals|animali]] da soma si
+
+ammalarono e morirono in una landa desolata e io rimasi come se fossi dall'
+
+altra parte della [[Moon|luna]]. Nessuno in questi paesi storici, naturalmente,
+
+ha idea di come sia fatta la terra, o di come gran parte di essa potrebbe
+
+altrettanto [[Well|bene]] essere la [[Moon|luna]]. Non sembrava esserci più speranza di attraversare
+
+quelle infinità di suolo sterile chiazzato di acacie, che di persuadere una
+
+cometa che ti avesse scagliato nello spazio a riportarti a [[Home|casa]]. Arrancai
+
+avanti in modo del tutto insensato, finché vidi qualcosa come un alto cespuglio
+
+azzurro che non apparteneva alla monotona massa di cespugli grigio-azzurri, e
+
+vidi che era fumo. È un buon proverbio, per Dio, che dove c'è fumo
+
+c'è [[Fire|fuoco]]. È un proverbio più grande, e troppo vicino a Dio per essere
+
+scritto spesso, che dove c'è [[Fire|fuoco]] c'è l'uomo, e nessuno sa
+
+quale dei due sia il miracolo maggiore.
+
+"[[Well|Ebbene]], trovai qualcuno; non era nessuno in particolare; oso dire che lei
+
+gli avrebbe trovato ogni sorta di manchevolezze se fosse stato nel
+
+villaggio o al circolo. Ma era senza dubbio un mago; per me aveva poteri
+
+non concessi a bestia o uccello o albero, e mi diede del cibo cotto e
+
+mi mise sulla [[Road|strada]] giusta verso un insediamento. All'insediamento, un piccolo
+
+avamposto nelle terre selvagge, fu lo stesso. Non fecero molto per me; non
+
+potevano; ma fecero qualcosa e non trovarono particolarmente strano
+
+che glielo si chiedesse. Il fatto è che alla fine arrivai a un porto di mare
+
+e riuscii a combinare di pagarmi il viaggio lavorando con il padrone di una
+
+piccola imbarcazione. Non era un uomo particolarmente simpatico e io non ero particolarmente
 
 
 
@@ -25316,6 +29151,198 @@ defence."
 There was no official difficulty, of course, about the prisoner appearing
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+faranno bene a chiamare i loro testimoni al più presto possibile.»
+
+Il signor Harry Hamble portava una cravatta molto sportiva e quell'espressione di contegnosa
+
+giovialità che si nota in coloro che tengono alla propria rispettabilità perfino nel
+
+Saloon Bar. Non era però incapace di calorosi scatti, e
+
+ammise di aver preso a pugni la testa dell'individuo che aveva tentato di alleggerirgli
+
+la tasca. Rispondendo all'accusa, raccontò la storia press'a poco come
+
+aveva fatto il poliziotto, non senza una lieve esagerazione della propria
+
+combattività. Rispondendo all'imputato, ammise di essersi subito
+
+trasferito al Pig and Whistle all'angolo.
+
+L'avvocato dell'accusa, balzando in piedi con teatrale indignazione,
+
+chiese che cosa significasse quell'insinuazione.
+
+«Immagino,» disse il giudice con una certa severità, «che l'imputato voglia dire
+
+che il testimone non sapeva esattamente che cosa avesse perduto.»
+
+«Sì,» disse Alan Nadoway, e c'era qualcosa di strano e di avvincente nel
+
+rullo della sua voce profonda; «intendo proprio dire che non sapeva
+
+esattamente che cosa avesse perduto.»
+
+Poi, voltandosi verso il testimone, disse spedito: «È andato al Pig and
+
+Whistle a offrire da bere a tutti, in perfetto stile festaiolo?»
+
+«Vostro onore,» esplose l'avvocato dell'accusa, «devo protestare con la massima energia
+
+contro l'imputato che getta gratuitamente discredito sul carattere del testimone.»
+
+«Gettare discredito sul suo carattere! Ma io sto glorificando il suo carattere!» gridò
+
+Nadoway con calore. «Lo sto esaltando e quasi divinizzando! Sto
+
+facendo notare che egli ha esercitato su nobile scala l'antica virtù
+
+dell'ospitalità. Se dico che lei offre ottimi pranzi, sto gettando discredito sul suo
+
+carattere? Se invita a colazione altri sei avvocati, e li tratta [[Well|bene]], lo
+
+nasconde forse come un delitto? Si vergogna della sua generosa
+
+ospitalità, signor Hamble? È forse un avaro e un misantropo?»
+
+«Oh, no, signore,» disse il signor Hamble, che appariva leggermente stordito.
+
+«È lei un nemico del genere umano, signor Hamble?»
+
+«[[Well|Beh]], no, signore,» disse il signor Hamble, quasi con modestia. «No, certamente no,
+
+signore,» aggiunse con maggior fermezza.
+
+«Lei, immagino,» proseguì l'imputato, «prova sempre sentimenti amichevoli verso i suoi
+
+simili, e specialmente verso i compagni che si è scelto. Sarebbe sempre pronto a
+
+far loro un favore o a offrir loro da bere, se potesse.»
+
+«Lo [[Hope|spero]], signore,» disse il virtuoso allibratore.
+
+«Naturalmente non lo fa sempre,» proseguì Alan con scorrevolezza, «perché
+
+non sempre è in condizione di farlo. Perché lo fece in quella
+
+occasione?»
+
+«[[Well|Beh]],» ammise il signor Hamble, un po' perplesso, «suppongo di essere stato
+
+piuttosto in fondi quella sera.»
+
+«Subito dopo essere stato derubato?» disse Nadoway. «Grazie, è tutto ciò che
+
+volevo chiederle.»
+
+Il signor Isidor Green, insegnante di violino di professione, con lunghi capelli
+
+stopposi e una giacca sbiadita fino al verde bottiglia, era senz'altro vago quanto il
+
+poliziotto lo aveva descritto. Durante l'interrogatorio principale se la
+
+cavò abbastanza [[Well|bene]] dicendo che aveva certamente avuto una specie di sensazione
+
+come se gli stessero frugando nelle tasche; ma perfino sotto il relativamente
+
+mite e comprensivo [[Cross|contro]]interrogatorio di Nadoway divenne straordinariamente nebuloso.
+
+Pareva che alla fine, con l'aiuto di due o tre
+
+amici di sommo talento matematico, fosse giunto alla ferma conclusione
+
+di possedere ancora 4 scellini e 7 pence dopo essere stato derubato. Ma la luce
+
+così gettata sul furto era un po' offuscata dal fatto che egli si era
+
+allora reso conto, per la prima [[Time|volta]], di non aver mai avuto la minima idea di
+
+quanto possedesse prima di essere derubato.
+
+«I miei pensieri sono assai concentrati sul mio lavoro artistico,» disse,
+
+con non poca dignità. «È possibile che mia moglie lo sappia.»
+
+«Idea ammirevole, signor Green,» disse Alan Nadoway di cuore. «A dire
+
+il vero, chiamo proprio sua moglie come testimone della difesa.»
+
+Tutti lo fissarono, ma era evidente che Nadoway faceva sul serio, e con una
+
+gravità venata di cortesia procedette a convocare i propri testimoni,
+
+che in realtà non erano altri che le due mogli dei due testimoni
+
+dell'accusa.
+
+La moglie del violinista era una testimone schietta e, salvo su un punto,
+
+semplice. Era una donna solida, dall'aria gioviale, simile a
+
+una cuoca di riguardo; probabilmente proprio la donna adatta a occuparsi
+
+del poco matematico signor Green. Disse con voce tranquilla che sapeva
+
+tutto del denaro di Isidor — quel poco che ce n'era; che era un buon marito
+
+senza gusti dispendiosi e che aveva certamente 2 scellini e 8 pence in tasca
+
+quel pomeriggio.
+
+«In tal caso, signora Green,» disse Alan, «parrebbe che il gusto di suo marito
+
+in fatto di amici matematici sia eccentrico quanto il suo gusto in fatto di
+
+matematica. Lui e i suoi amici alla fine hanno fatto la somma e ne hanno tirato fuori
+
+4s. 7d."
+
+«[[Well|Beh]], è un genio,» disse con un certo [[Pride|orgoglio]]. «Lui sapeva tirar fuori
+
+qualunque cosa da qualunque cosa.»
+
+La signora Harry Hamble era un tipo assai diverso; e, in confronto al signor
+
+Harry Hamble, piuttosto deprimente. Aveva i lineamenti lunghi e giallastri
+
+e la bocca acida non ignoti nelle mogli di coloro che trovano rifugio
+
+nel Pig and Whistle. Quando Nadoway le chiese se quella data
+
+contasse qualcosa nei suoi ricordi domestici, rispose torva: «Avrebbe
+
+dovuto contare, se me l'avesse detto. Gli avranno aumentato la paga e non
+
+me l'ha detto.»
+
+«Mi risulta,» chiese Nadoway, «che quel pomeriggio abbia offerto da bere a
+
+diversi suoi amici. È così?»
+
+«Offerto!» gridò l'amabile signora, con voce sferzante. «Offerto da
+
+bere! Scroccato da bere, piuttosto! Si sarà fatto offrire tutto quello che poteva
+
+gratis, immagino. Ma da bere agli altri non ha pagato di certo.»
+
+«E come fa a saperlo?» chiese l'imputato.
+
+«Perché ha riportato a casa la paga solita e anche un po' di più,» disse la signora Hamble,
+
+come se questo [[Alone|solo]] fosse motivo sufficiente di lamentela.
+
+«Tutto ciò è molto sconcertante,» disse il giudice, e si appoggiò allo schienale della poltrona.
+
+«Credo di poterlo spiegare io,» disse Alan Nadoway, «se vostro onore vorrà
+
+permettermi di salire sul banco dei testimoni per due minuti, prima che [[Wind|concluda]] l'arringa per la
+
+difesa.»
+
+Non vi fu naturalmente alcuna difficoltà ufficiale perché l'imputato comparisse
+
 
 
 <span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_03" data-title="FourFaultlessFelons — V The Thief On Trial (part 3)" data-chapter="V The Thief On Trial" data-kind="excerpt" data-tags="motif/silence,motif/well,concept/doubt,setting/court"></span>
@@ -25734,7 +29761,7 @@ Ed egli aveva risposto: «È proprio perché è ingiusto verso di me che è gius
 
 Questa è tutta la storia; benché suppongo che voi la definireste una storia
 
-strana».
+“Storia.”
 
 «Non m'importa che parliate per enigmi», rispose Millicent [[Milton]]
 
@@ -27490,6 +31517,186 @@ returning with a basket containing bottles of wine and other provisions;
 the sudden lighting-up of the dark [[house]] from within, or rather of the
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+tanto malvisto quanto certi ebrei del suo mestiere, e tante migliaia di persone
+
+trattano affari con lui che siamo stati piuttosto indotti a esaminare la cosa. Il
+
+risultato delle nostre indagini indica che quell'uomo è incredibilmente ricco,
+
+tanto più perché vive come un poveraccio. La credenza generale è che
+
+sia un avaro.»
+
+Il banchiere si era messo gli occhialoni che gli facevano parere gli occhi due volte più grandi,
+
+e mentre scrutavano di là dal tavolo parevano succhielli.
+
+«Non è un avaro», disse Simon, «e se è un milionario, allora la mia
+
+domanda ha già una risposta.»
+
+«Lo conoscete?» chiese il [[King|Re]], parlando per la prima [[Time|volta]]. «Perché
+
+dite che non è un avaro?»
+
+«Perché nessun ebreo fu mai avaro», rispose il banchiere. «L'avarizia non è un
+
+vizio ebraico; è un vizio contadino, un vizio di gente che vuole proteggere
+
+se stessa con beni personali in perpetuo. L'[[Greed|avidità]] è il vizio
+
+ebraico: [[Greed|avidità]] di lusso; [[Greed|avidità]] di volgarità; [[Greed|avidità]] di gioco; avidità
+
+di sperperare il denaro altrui e il proprio in un harem o in un
+
+teatro o in un grande albergo o in qualche baldoria-o magari in una grande
+
+rivoluzione. Ma non nell'accumularlo. Quella è la [[Madness|follia]] degli uomini sani; degli uomini
+
+che hanno una terra.»
+
+«Come lo sapete?» chiese il [[King|Re]] con blanda curiosità. «Come siete arrivato
+
+a fare uno studio degli ebrei?»
+
+«Semplicemente essendolo io stesso», rispose il banchiere.
+
+Ci fu un breve [[Silence|silenzio]], poi il [[King|Re]] proseguì con un sorriso
+
+rassicurante: «E dunque pensate che possa spendere i suoi milioni per finanziare una
+
+rivoluzione.»
+
+«Dev'essere quello, o un super-cinema, o qualcosa del genere», convenne
+
+Simon, «e questo spiegherebbe gli opuscoli e le [[songs|canzoni]] stampate, e può
+
+spiegare anche altre cose.»
+
+«La cosa più difficile da spiegare», osservò il [[King|Re]] pensieroso,
+
+«sembra essere dove queste persone si trovino davvero in un dato momento.
+
+Il professor Phocus è abbastanza regolare nel suo giro al Museo, ma
+
+[[Doubt|dubito]] che alcuno di noi conosca il suo indirizzo privato. Mia nipote mi dice che
+
+ha visto davvero [[Sebastian]], il poeta, arringare per le pubbliche vie,
+
+ma io non l'ho mai visto, e nessuno che io conosca sembra avere idea di
+
+dove abiti. E, da quanto posso capire, benché un gran numero di persone
+
+frequenti il banco dei pegni di Lobb, ben pochi vedono mai Lobb. Mi hanno detto che era
+
+morto: ma anche questo può far parte del complotto, naturalmente.»
+
+«È proprio su quel punto», disse gravemente il Capo della Polizia, «che
+
+ho un'ulteriore informazione di grande importanza da sottoporre a Vostra
+
+Maestà. Attraverso una serie di indagini lunghe e piuttosto difficili, ho
+
+scoperto che Lobb, il prestatore su pegno, circa due anni fa
+
+acquistò, sotto altro nome, una piccola ma comoda [[house|casa]] in Peacock
+
+Crescent. Ho messo alcuni dei miei uomini a sorvegliarla e, secondo il loro
+
+rapporto, c'è ogni ragione di supporre che sia usata, non regolarmente
+
+ma a intermittenza, come luogo d'incontro per tre o quattro persone che
+
+arrivano in gran riserbo e generalmente dopo il buio, vi cenano comodamente,
+
+ma con notevole segretezza, e non paiono tornarvi fino alla successiva
+
+cenetta del genere. Non sembra esserci un servizio regolare di
+
+domestici, e la [[house|casa]] è di solito sprangata e deserta, ma un servitore
+
+dell'una o dell'altra di queste persone esce di solito circa un'ora prima
+
+di cena e provvede a vino e vettovaglie e presumibilmente resta a servire a
+
+tavola. I bottegai del vicinato riferiscono che sembra provvedere
+
+per tre o quattro persone, ma oltre a ciò dichiarano di non sapere
+
+nulla. Il [[Detective|detective]], uno dei miei uomini migliori, che ho incaricato di sorvegliare la
+
+[[house|casa]], dice che gli ospiti arrivano sempre verso l'imbrunire e molto
+
+imbacuccati in mantelli e cappotti, ma dice che potrebbe giurare su tre di
+
+loro.»
+
+«Sentite», disse il banchiere dopo un [[Grave|grave]] [[Silence|silenzio]], «meno persone lo
+
+sanno, meglio è. Penso che sarebbe [[Well|bene]] che uno o due di noi
+
+andassero di persona, appostandosi in quella strada in
+
+una di queste sere di festa. Non mi dispiace andarci io stesso, se
+
+vorrete darmi la protezione della vostra presenza, colonnello Grimm. Conosco di vista il
+
+professore e il prestatore su pegno, e oserei dire che potremmo tirare a
+
+indovinare quanto al poeta.»
+
+Il [[King|Re]] Clovis, con voce asciutta e piuttosto riluttante, fornì i particolari dell'
+
+aspetto purpureo e verde-pavone del poeta, quale gli era stato riferito dalla
+
+nipote indignata.
+
+«[[Well|Bene]], anche quello può essere una guida, signore», disse il banchiere spiccio. Ed è
+
+così che accadde che il più potente finanziere di Pavonia, e
+
+l'ufficiale a capo dell'intero sistema di polizia di quel paese, batterono
+
+i tacchi con pazienza o con impazienza per parecchie ore, poco
+
+oltre il cerchio di luce gettato dall'ultimo lampione nel silenzioso e
+
+deserto Crescent.
+
+Peacock Crescent si chiamava così non perché la sua pallida e classica
+
+facciata fosse mai stata rallegrata da qualche pavone, ma in omaggio
+
+all'uccello che era l'insegna reale di Pavonia, e presumibilmente l'
+
+origine del suo nome, e che era raffigurato in bassissimo rilievo, con la
+
+coda spiegata, su un medaglione a un capo del semicerchio di case.
+
+Attorno all'intero semicerchio correva una fila di colonne classiche, alla
+
+maniera di molte terrazze di Bath o della vecchia Brighton; l'intera curva classica
+
+appariva assai fredda e marmorea sotto la [[Moon|luna]] che sorgeva sopra il
+
+boschetto di alberi di fronte, e ai due osservatori pareva che ogni suono
+
+da loro prodotto echeggiasse e riecheggiasse come dentro una cava conchiglia d'argento.
+
+La loro veglia era già stata lunga. Avevano visto, all'incirca dal
+
+[[Time|momento]] del crepuscolo in poi, la consueta trafila dei preliminari che la
+
+polizia aveva già annotato come segno dei rari risvegli della [[house|casa]];
+
+il servitore nella sua sobria livrea che usciva all'ora consueta e
+
+tornava con un cesto contenente bottiglie di vino e altre provviste;
+
+l'improvviso illuminarsi dall'interno della [[house|casa]] buia, o piuttosto della
+
 
 
 <span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_03" data-title="FourFaultlessFelons — II The Procession Of The Plotters (part 3)" data-chapter="II The Procession Of The Plotters" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/city,motif/dawn,motif/garden,motif/horse,motif/moon,motif/road,motif/stars,motif/time,motif/well,character/sebastian"></span>
@@ -27688,6 +31895,200 @@ that are the highlights on the African complexion, and Grimm knew that
 the man was General Case, the Dictator from beyond the frontier.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+una stanza probabilmente riservata al banchetto; l'abbassarsi della
+
+tendina perché il banchetto fosse più riservato; ma nessuno degli ospiti
+
+era ancora arrivato. Indagini più accurate presso i commercianti del posto avevano confermato
+
+il fatto che il domestico stava facendo i preparativi per quattro commensali;
+
+il numero esatto gli era sfuggito nel corso delle sue richieste secche. I
+
+due illustri spioni per strada non erano, naturalmente, così completamente
+
+isolati come sembravano. Altri agenti dei servizi segreti erano a portata di voce e
+
+il capo della polizia poteva senza troppa difficoltà mettere in moto la macchina
+
+dei suoi uomini. Proprio davanti alla mezzaluna di case c'era
+
+uno di quei brandelli di boscaglia ornamentale, pittoreschi ma senza senso,
+
+circondati da una ringhiera, che si trovano in molte piazze di [[City|città]] e
+
+in molte terrazze appartate. Quel gruppo di cespugli gettava una grande [[Shadow|ombra]] al
+
+chiaro di luna, e a un angolo della ringhiera se ne stava appostato in borghese un
+
+agente con una motocicletta, pronto a partire per qualunque incarico.
+
+All'improvviso, e in un silenzio assoluto, una piccola [[Shadow|ombra]] parve staccarsi
+
+dalla grande [[Shadow|ombra]] e sembrò scivolare attraverso la [[Road|strada]] leggera come una
+
+foglia secca. Aveva davvero qualcosa dell'aspetto di una foglia secca, perché, benché
+
+la figura non fosse anormalmente piccola, era tutta ripiegata come rattrappita o
+
+avvizzita; la testa era affondata così profondamente tra le spalle alte e un logoro
+
+impermeabile che nell'aria vagavano solo pochi ciuffi ispidi, che potevano essere
+
+barba o basette o perfino, come suggeriva una fantasia più ardita, sopracciglia; le gambe
+
+erano piuttosto lunghe che no, ma si muovevano in modo piegato e storto
+
+come quelle di una cavalletta. Il suo passaggio attraverso la [[Road|strada]] fu così rapido e
+
+sorprendente che la porta della [[house|casa]] gli si era aperta e richiusa alle spalle
+
+prima che gli osservatori si fossero ripresi del tutto dalla prima sorpresa.
+
+Poi Simon guardò Grimm e disse, con un debole sorriso: «La fretta è
+
+ospitalità. Quello è il padrone della [[house|casa]]».
+
+«Sì, immagino che quello sia il prestatore su pegno».
+
+«Quella è la Rivoluzione», osservò il banchiere. «O almeno, quella è la
+
+vera base di ogni rivoluzione. Non potrebbero far nulla senza i suoi soldi.
+
+Parlano di una sollevazione dei poveri, ma non possono nemmeno sollevarsi finché
+
+sono poveri. Ma pensi, questi quattro uomini non avrebbero dove riunirsi
+
+così, se Lobb non avesse comprato la [[house|casa]] per loro».
+
+«Sarei l'ultimo a negare che il denaro sia utile», rispose Grimm, «ma
+
+il denaro da [[Alone|solo]] non farà né una rivoluzione né un regno».
+
+«Mio caro Grimm», disse Simon, «so che lei è un ufficiale e un gentiluomo;
+
+non può farci nulla, ma davvero sta diventando romantico».
+
+«Ho l'aria di un romantico?», chiese il bilioso ufficiale e gentiluomo. «Nessun
+
+soldato è mai romantico, non riguardo al mestiere delle armi, almeno. Ma quel che dico è
+
+buon senso da [[Horse|cavallo]], nonostante tutto. Non c'è mestiere delle armi senza soldati, e
+
+il denaro non fa i soldati. Potete dare a una folla una montagna di munizioni,
+
+e non serve a nulla se non vogliono usarle o non sanno usarle».
+
+«[[Well|Beh]], direi... Attenzione, ecco qualcun altro».
+
+L'altro si era già accorto di un sordo clangore di cui
+
+non sapeva subito darsi ragione, e un attimo dopo un'altra [[Shadow|ombra]] era
+
+passata sulla scena di quella pantomima d'[[Shadow|ombre]]. Quest'[[Shadow|ombra]] aveva
+
+un cappello nero altissimo e dal profilo netto, come un comignolo allungato,
+
+e la [[Moon|luna]] brillò per un attimo sugli occhiali verdi del professor
+
+Phocus del Museo Nazionale. Anche lui scomparve rapidamente nell'ospitale
+
+[[house|casa]].
+
+«Ecco [[The Professor|il Professore]]», disse Simon. «Forse, dato che è così dotto, terrà
+
+loro una conferenza sulle munizioni».
+
+«Sì», rispose Grimm, «ho visto chi era... Ma è un'altra cosa
+
+che mi preoccupa. Ha sentito una specie di cigolio e clangore di ferro appena prima
+
+che comparisse? Dev'essere stato il cancello di quella ringhiera laggiù. Credo
+
+che siano usciti entrambi da quel piccolo [[Garden|giardino]] squallido. Che cosa
+
+potevano farci là dentro?»
+
+«Fare il nido sugli alberi, forse; sembrano [[Birds|uccelli]] abbastanza strani per
+
+qualunque cosa», rispose l'altro.
+
+«[[Well|Beh]], la ringhiera non è alta», disse infine il capo della polizia. «Possono
+
+essersi semplicemente arrampicati dentro e fuori per confondere le tracce, ma è strano
+
+che il mio uomo laggiù non li abbia visti».
+
+Seguì un lungo intervallo, e i due compagni, camminando avanti e indietro per
+
+passare il [[Time|tempo]], ripresero la loro discussione. «Quel che voglio dire», disse
+
+Grimm, «è che è un brutto errore contare sul materiale senza il morale.
+
+Il denaro non combatte. Combattono gli uomini. Se verrà il [[Time|tempo]] in cui gli uomini non vorranno combattere,
+
+nemmeno il denaro li farà combattere. E qualcuno deve insegnare loro come. Come
+
+verranno addestrati i suoi eserciti rivoluzionari? Il signor [[Sebastian]]
+
+li addestrerà a recitare [[Poems|poesie]]? Il signor Lobb li addestrerà a compilare
+
+polizze di pegno?»
+
+«[[Well|Beh]]», disse Simon, facendo un cenno d'avvertimento, «ecco il signor [[Sebastian]]; così
+
+farà meglio a chiederlo a lui».
+
+Questa [[Time|volta]] fu inequivocabile che il nuovo venuto spalancò il cancello
+
+del piccolo [[Garden|giardino]] e attraversò la [[Road|strada]] verso la [[house|casa]]. Perché [[Sebastian]] dalla
+
+barba viola e dalla sciarpa di pavone camminava con una certa spavalderia, anche da
+
+cospiratore apparentemente [[Alone|solo]] sotto la [[Moon|luna]]; il cancello si chiuse dietro di lui
+
+con uno schianto sonoro e persino la porta della [[house|casa]] parve aprirsi e
+
+richiudersi con una sfumatura di maggiore pomposità.
+
+«Questi sono tutti quelli di cui sappiamo», disse Simon pensieroso.
+
+«L'uomo ha detto che erano quattro», rispose Grimm.
+
+Gli intervalli fra queste apparizioni fuggevoli parevano farsi più lunghi
+
+e più tediosi, e poiché l'ultimo si prolungò particolarmente, il banchiere, avendo
+
+meno della pazienza professionale di un poliziotto, cominciò a farsi sempre
+
+più scettico sull'ospite ignoto, e a manifestare una franca disponibilità verso
+
+il proprio letto. Ma Grimm restò fermo nella sua teoria del consiglio
+
+quadrilatero, e dopo un lungo intervallo, così lungo che quasi cercarono
+
+l'[[Dawn|alba]] a oriente, sentirono il cancello muoversi ancora una volta e una figura alta
+
+si avvicinò alla [[house|casa]]. Era avvolto in una mantella o un mantello grigio che appariva
+
+argenteo al chiaro di luna; e quando si aprì mostrò un barlume, e quasi
+
+una vampata, di argento più splendente; perché sembrava essere una sorta di uniforme bianca
+
+e abbagliante, con [[Stars|stelle]] e fermagli. Poi l'uomo volse il viso
+
+per un istante verso la [[Moon|luna]], e il viso fu lo shock finale; perché
+
+era più scuro delle vesti scintillanti. Sotto la [[Moon|luna]] appariva
+
+quasi azzurro, o almeno assumeva quelle varie sfumature di grigio e violetto
+
+che sono i riflessi di luce sulla carnagione africana, e Grimm capì che
+
+quell'uomo era il generale Case, il Dittatore d'oltre frontiera.
+
 
 
 <span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_01" data-title="FourFaultlessFelons — III The Princess Intervenes (part 1)" data-chapter="III The Princess Intervenes" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/moon,motif/stars,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/self"></span>
@@ -27861,6 +32262,176 @@ bolting for some other exit. Send the men down to the basement at once,
 
 and see that Hart is watching the [[house]] at the back. They can't be far
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+III LA PRINCIPESSA INTERVIENE
+
+NEL momento in cui il colonnello Grimm della Polizia Pavoniana vide quel volto nero
+
+rivolto come una maschera azzurra alla [[Moon|luna]], capì che l'intero apparato dello
+
+Stato doveva scattare compatto come una sola tagliola per catturare un solo uomo. Voleva
+
+catturare anche gli altri tre uomini che erano suoi compagni di congiura, naturalmente,
+
+e ringraziò le sue [[Stars|stelle]] per l'occasione di prenderli tutti insieme in
+
+una sola stanza, ma era il quarto uomo la cui presenza faceva l'enorme e
+
+sconvolgente differenza. Prima che il suo compagno potesse anche solo parlare, o fare
+
+altro che restare a fissare, Grimm aveva lanciato il suo motociclista giù per la strada come
+
+una pietra scagliata dalla fionda, e sapeva che polizia e soldati stavano stringendo
+
+il cerchio e chiudendo gli sbocchi di tutte le strade.
+
+Perché Grimm aveva un conto speciale da regolare con il grande generale Case. Aveva
+
+sospettato mesi prima che potessero esserci movimenti alla frontiera
+
+e tentativi del rivoluzionario [[government|governo]] straniero di mandare segnali
+
+alle classi scontente della Pavonia. Aveva ripetutamente sollecitato per via diplomatica
+
+indagini e richieste attraverso il Primo Ministro e altri accreditati
+
+rappresentanti degli interessi pavoniani, e la risposta era sempre stata
+
+rassicurante ed era sempre stata la stessa. Il generale Case dava la sua parola d'
+
+[[Honour|onore]] di non avere la più pallida intenzione di immischiarsi negli
+
+affari interni della Pavonia. Il generale Case era un semplice soldato e non un
+
+politico. Il generale Case era avanti con gli anni, e aveva ogni intenzione
+
+di ritirarsi dalla Presidenza e da ogni affare pubblico. Il generale Case
+
+era gravemente malato, e si era praticamente già ritirato. Tutte queste
+
+rassicurazioni diplomatiche erano state spedite una dopo l'altra, cullando in
+
+larga misura l'indolente amabilità del [[King|Re]], impressionando favorevolmente
+
+la pignola importanza di [[Self|sé]] del Primo Ministro, e lasciando soltanto un molto
+
+vago e morente [[Doubt|dubbio]] persino nella mente più cinica del Capo della
+
+Polizia. E ora ecco il seguito, e il segreto di ciò che stava davvero
+
+accadendo. Ecco come l'anziano e più o meno morente africano si ritirava
+
+a vita privata. Il generale Case era gravemente malato, ma stava abbastanza [[Well|bene]] da
+
+uscire a cena. Per una curiosa coincidenza, cenava con i tre
+
+uomini che avevano giurato di distruggere il [[government|Governo]] con cui professava di essere in
+
+pace. Il Capo della Polizia digrignò i denti e guardò lungo la strada
+
+con ansia le due o tre file di gendarmi che già avanzavano lungo
+
+it.
+
+Era assai probabile che ci fosse poco [[Time|tempo]] da perdere. La presenza del
+
+capo militare straniero poteva significare ogni sorta di cose. Poteva significare
+
+tonnellate di dinamite sotto la strada dove si trovavano; poteva almeno
+
+significare depositi di munizioni in ogni angolo buio della [[City|città]], accessibili
+
+ai capi della folla. Nel peggiore dei casi, c'era una cosa che poteva ancora
+
+salvarli. Ed era l'arresto immediato, improvviso e simultaneo dei quattro
+
+uomini in quella [[house|casa]], lasciando l'intera rivoluzione senza capi.
+
+Grimm attese finché la sua piccola truppa di uomini armati si fu schierata davanti alla
+
+[[house|casa]] e poi avanzò cautamente su per i gradini fino alla porta. Si era
+
+già assicurato che gruppi simili fossero appostati dietro e su tutti
+
+i lati della fila di case, così che non vi potesse essere fuga a meno che non ci
+
+fosse un'uscita sotterranea. Aveva perfino messo uomini con scale più avanti lungo
+
+il Crescent, nel caso ci fosse una fuga precipitosa lungo il tetto. Poi,
+
+dopo un attimo di esitazione, batté una volta e pesantemente sulla porta,
+
+e la luce nella sala da pranzo illuminata si spense all'istante.
+
+Per un po' di [[Time|tempo]] non ci fu altra risposta; poi tempestò di colpi la porta
+
+di nuovo, gridando con la sua voce forte in nome del [[King|Re]] e minacciando
+
+che la porta sarebbe stata sfondata immediatamente. Poi finalmente la porta fu
+
+aperta dal pallido domestico in livrea, che aveva evidentemente ricevuto ordine
+
+di ritardare l'ingresso della polizia con ogni esibizione di stupidità e
+
+impotenza. Con un'assenza quasi inconcepibile di [[Humour|umorismo]], disse che
+
+il suo padrone e la compagnia erano occupati e non potevano ricevere visitatori.
+
+Ma Grimm non prestò attenzione a quella che immaginò essere una consegna ripetuta a
+
+memoria. Senza ulteriori cerimonie spinse da parte il domestico, dicendo soltanto
+
+al subalterno dietro di lui: «Tieni stretto questo tale; possiamo [[Well|bene]] acciuffare
+
+anche lui insieme agli altri». Poi si fece largo lungo il corridoio buio e
+
+spalancò la porta della sala da pranzo.
+
+Era senza dubbio la sala da pranzo, perché offriva un quadro convincente
+
+di una cena non finita, o appena finita. Dei quattro coperti apparecchiati, uno almeno
+
+era occupato dall'armamentario del caffè, mentre altri sembravano
+
+segnare vari stadi di gingillamento con stuzzichini e dolci. Accanto al
+
+caffè nero c'era una piccola e ormai vuota bottiglia di champagne; di fronte a
+
+essa una grande bottiglia mezza vuota di Borgogna; alla sinistra di quella, un
+
+oggetto ancora più formidabile, c'era una grande e tutt'altro che intatta bottiglia
+
+di brandy, e di fronte a quella, per una sorta di mite fantasia di contrasto,
+
+stava un bicchiere di latte non assaggiato.
+
+Sigari e sigarette della migliore qualità erano posati su un piccolo tavolino
+
+laterale, in modo da essere subito a portata di mano, e c'era ogni segno di una
+
+riuscita cena tra amici, che era stata evidentemente lussuosa senza essere
+
+del tutto convenzionale. Almeno, c'era ogni segno della riuscita
+
+cena tranne i commensali. Le loro sedie stavano intorno al tavolo, alcune
+
+di esse spinte un po' indietro come se gli occupanti si fossero alzati in
+
+modo naturale e senza fretta; una almeno era ancora accostata al tavolo
+
+come se il commensale non fosse così facile da staccare dalla sua cena. Ma lui
+
+e tutti gli altri erano svaniti; improvvisamente, silenziosamente e completamente, come la
+
+luce era svanita dalla [[Window|finestra]] al primo colpo sulla porta.
+
+«Lavoro piuttosto rapido», disse il Capo della Polizia, «ma suppongo che stiano
+
+scappando da qualche altra uscita. Mandate subito gli uomini giù nel seminterrato,
+
+e badate che Hart sorvegli la [[house|casa]] sul retro. Non possono essere lontani
 
 
 
@@ -28039,6 +32610,186 @@ with the word "Now" in gigantic letters, followed by the assertion "The
 
 Word will be spoken to-[[Night|night]]". The brief paragraphs that followed were to
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ancora non è pronto… Questo caffè è ancora molto caldo, e penso che stesse proprio per iniziare.
+
+“Prenda pure lo zucchero che vuole.”
+
+“Chi erano?” chiese Simon con voce un po’ incerta. “Pensi che fossero tutti…”
+
+qui?»
+
+“Ovviamente lo erano,” rispose Grimm. “Non è necessario essere molto…
+
+Il [[Detective|detective]] doveva individuare i luoghi in cui si trovavano tutti e quattro; anche le loro targhe erano importanti per scoprirlo.
+
+Titolo:  
+Sono come ritratti… Si potrebbe quasi vederli tutti lì, seduti. Guarda…
+
+“Quel bicchiere di latte… Non penserai mica che quel pazzo poeta o quel negro…”
+
+Molte persone bevono latte, vero? Ma quello è proprio il professor Phocus in persona…
+
+#Puoi chiamarlo vita… Lui è uno di quei vecchi malinconici, sempre lamentosi dei loro problemi digestivi…
+
+# Solo salute… eppure diventa sempre più malato facendolo. Lui
+
+"#Full di tutte le mode alimentari del momento… Deve essere davvero una persona deprimente da avere a cena."
+
+Tuttavia, gli altri si sono fortificati abbastanza bene contro.
+
+Tristezza. Il nostro romantico [[Sebastian]], che colora tutto di rosso sangue.
+
+#Porpora… persino i suoi capelli sono di quel colore… Che altro potrebbe bere se non del Borgogna? Ma quello…
+
+Titolo:  
+Il vecchio selvaggio testardo… Case ha fatto ancora di meglio, capite? Brandy per…
+
+Eroi, come disse il dottor Johnson. Eppure l’ultimo di questi è senz’altro il più tipico di tutti.
+
+“Come è tipico di quel piccolo ebreo… avere qualcosa del genere.”
+
+#Campionato di champagne… ma molto costoso; e poi c’è il caffè nero, quello vero.
+
+# Digestivo… dopo di tutto. Ah, lui capisce la salute meglio della gente comune.
+
+I seguaci delle mode effimere lo fanno senz'altro. Ma c’è qualcosa di davvero inquietante, che fa venire i brividi, in queste pratiche culturali artificiali.
+
+#Gli Ebrei e la loro raffinata e cauta arte del piacere. Alcuni dicono che…
+
+Perché non credono nella vita futura.
+
+Mentre parlava in questo modo, apparentemente in modo casuale, in realtà stava riflettendo attentamente su tutto ciò che diceva.
+
+# Frugando la stanza, lasciando ai suoi subordinati il compito di continuare a rovistare
+
+[[house|>Casa]], e la sua espressione era cupa, anche se il tono della voce era leggero.
+
+La perquisizione della stanza al momento può essere solo superficiale, ma…
+
+“Per quel che ne so, non c’erano tende… o nulla del genere.”
+
+Cupboardi, nessun mobile per i libri; di certo non c’era alcuna altra porta…
+
+“È assurdo pensare che, sotto gli occhi di tutti quei gendarmi, quattro persone…”
+
+Gli uomini avrebbero potuto fuggire dalla [[Window|finestra]]. Grimm aveva fatto un piano preliminare.
+
+Esame del pavimento, che sembrava piuttosto solido… una sorta di cemento.
+
+Intitolato con un motivo scuro e ondulato, di tipo vecchio stile.
+
+In ogni caso, quei quattro uomini avrebbero potuto uscire dalla porta della stanza prima…
+
+Il loro servitore aveva aperto la porta della [[house|casa]], ma comunque, non era ancora sufficiente.
+
+“Facile dire dove fossero andati… Infatti, il saccheggio della…”
+
+La [[house|casa]] si era rivelata ancora più desolata di quanto non lo fosse stata dopo il saccheggio della stanza; e.
+
+# Furono piuttosto sorpresi nello scoprire che ce n’era così poco
+
+Una [[house|casa]] da saccheggiare. Non c’era seminterrato; c’era solo un angusto retro.
+
+Titolo:  
+C’era solo un’altra piccola stanza, simile a una sala fumatori…
+
+Dietro la sala da pranzo, guardando attraverso le finestre aperte verso la strada
+
+Dietro… c’erano una camera da letto grande e una più piccola, entrambe di dimensioni simili.
+
+“Al piano di sopra… e basta.” Grimm ne fu piuttosto sorpreso.
+
+Ammobiliamento scarno, in confronto alla maestosità aristocratica…
+
+La facciata… Esaltava una certa percezione dell’intero quartiere della Luna Crescente.
+
+#Qualcosa di vuoto al suo interno… come una maschera di pietra, fredda e classica
+
+[[Comedy|commedia]]. Forse anche la [[Moon|luna]] contribuiva a dare all’insieme un aspetto un po’ spettrale, ma lui.
+
+#Non potei fare a meno di pensare, per un istante, a quella luce pallida… e all’assurdità della situazione.
+
+Immagina che la stessa strada fosse stata utilizzata come parte della trama…
+
+[[Comedy|commedia]], e sembrava un palazzo di cartone in una pantomima. La sua.
+
+“Buon senso… Gli disse che quell’inganno risaliva a tempi più remoti…”
+
+Un tipo assolutamente ordinario, che testimoniava soltanto la normale snobberia tipica di…
+
+#Uomini che si accontentano di spazi ristretti, purché siano in un luogo alla moda
+
+#Quartiere… Quella fila di lussuose e poco profonde residenze, con colonne e…
+
+Titolo: Finestre ad arco… probabilmente solo una serie di uomini che amavano far credere di essere più ricchi di quanto in realtà fossero.
+
+#Erano… Tuttavia, c’era qualcosa di strano in tutto ciò.
+
+# La sede di una vasta cospirazione e il luogo di riunione dei quattro
+
+Tribuni di una rivoluzione. Non c’era molto spazio per conservare dinamite…
+
+“Lasciate pure che le munizioni vengano gettate qui… Ma un’altra idea assurda mi passò per la mente…”
+
+La sua mente. Forse stavano davvero accumulando un tipo di informazioni completamente nuovo.
+
+Titolo:  
+Gas chimico che faceva scomparire i corpi umani solidi come fumo… o li trasformava in qualcos’altro.
+
+Trasparente come il vetro.
+
+Un esame approfondito e scientifico, che durò giorni e settimane, portò…
+
+#Non oltre quei primi osservazioni iniziali
+
+Momenti… Se esisteva qualche crepa nel pavimento in cemento, essa non seguiva alcun schema preciso.
+
+Titolo:  
+La linea o la direzione che avrebbero potuto scoprire… se qualcuno fosse riuscito a fuggire…
+
+“Ovunque, tranne che nelle profondità della terra… deve esserci riuscito.”
+
+Cento occhi che fissavano, e la luna che brillava intensamente. Quella gigantesca trappola umana aveva.
+
+Chiuso con la massima precisione e perfezione scientifica… Solo la trappola.
+
+Il titolo era vuoto. Fu con questa notizia cupa e persino allarmistica che il Capo…
+
+Il poliziotto e il finanziere, che si comportavano come dilettanti [[Detective|detektivi]], tornarono indietro.
+
+Rapportare al Primo Ministro e al [[King|Re]].
+
+Nonostante la rapidità con cui il Colonnello Grimm si fosse precipitato fuori dalla retrovia…
+
+Della [[house|>casa]] che inseguiva i fuggitivi, fu cresciuto in piedi tutto il tempo.
+
+#All’angolo della strada successiva… un’esposizione che lo colpì profondamente
+
+#Esplosione. L’intera parete vuota era coperta di nuovi cartelli.
+
+Titolo:  
+Così nuovi che quasi sembrano essere stati messi lì dopo l’incursione…
+
+[[house|casa]]; forse persino gettata via come ultimo gesto di insolenza.
+
+“I ribelli in fuga, come i fogli di carta sparsi dai conigli…”
+
+#Inseguimento di carte
+
+Applicalo mentre è ancora umido.
+
+Ma erano proprio le dichiarazioni stesse ad essere le più sorprendenti.
+
+I testi erano per lo più scritti con vernice rossa o inchiostro; alcuni di questi avevano persino iniziato a sbiadire.
+
+Lì, forse con un accenno melodrammatico al [[Blood|sangue]], tutti iniziarono.
+
+#"Ora, con la parola “Ora” scritta in caratteri giganteschi, segue l’affermazione “Il…”"
+
+La parola verrà pronunciata di [[Night|notte]]. I brevi paragrafi che seguivano erano destinati a.
 
 
 
@@ -28220,6 +32971,184 @@ We have got to be dull and genteel and die of good taste behind the drawn
 blinds of the palace. But the conspirators may be flamboyant. The
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L’effetto derivante dal fatto che ormai tutto fosse pronto per colpire la [[government|Governo]], il quale.
+
+#L’ultimo disperato tentativo di catturare quegli uomini è fallito…
+
+Domani saranno i governanti di quella [[City|>città]]. Era evidente che la gente.
+
+Titolo:  
+“Giurato specialmente di ‘guardare verso le frontiere’… e non solo si intendeva questo”
+
+Titolo:  
+Che la misteriosa “Parola” stava per essere pronunciata… ma lasciava intendere che…
+
+Le labbra spesse e sonore di quel sinistro africano l’avrebbero pronunciato.
+
+# Lungo la Poplar Avenue, diretti verso il palazzo georgiano in mattoni rossi…
+
+Trovarono il [[King|Re]] di Pavonia in un’altra stanza, con un altro abito addosso.
+
+In un altro stato d’animo. Non indossava più l’uniforme, ma…
+
+Un abito da soggiorno di colore grigio chiaro; ovviamente, si trattava di un uomo che amava rilassarsi. Il [[King|Re]] Clovis era.
+
+Un vero [[Paradox|paradosso]] sotto molti aspetti: odiava le formalità eppure era estremamente formale nel suo comportamento.
+
+Occasioni formali; nonostante il [[Paradox|paradosso]], si potrebbe dire che lo odiava.
+
+Occasioni formali… perché lo rendevano troppo formale. Ma in questa situazione, invece…
+
+Appartamento confortevole, con tutto il necessario per il tè sul tavolo… Lui era nel suo ambiente ideale.
+
+# Di sua famiglia, fino al punto in cui c’è una nipote seduta sul divano…
+
+Guardare fuori da una [[Window|finestra]] costituiva, nel senso tradizionale, un modo di esprimere i propri sentimenti più profondi.
+
+Principessa… chiamata Aurelia dalle fonti storiche, e la cui zia…
+
+Chiamata Mary, era piuttosto distratta e silenziosa, ma il [[King|Re]] non se ne accorse.
+
+Obiezione al [[Silence|silenzio]]. Il Primo Ministro non era presente; lui, infatti, è sempre.
+
+Dava vita a una sottile nota di frivolezza; il [[King|Re]] ne era molto colpito.
+
+Obiezione contro tutta questa agitazione.
+
+Il Capo della Polizia raccontò la storia della sua profonda delusione…
+
+Il [[King|Re]] ascoltò con un leggero [[Wonder|stupore]], ma senza mostrare alcun segno di.
+
+Irritazione.
+
+“Immagino,” disse, “che se quel vecchio ebreo ha davvero comprato quella [[house|casa]], ”
+
+Soprattutto per loro, deve aver preparato qualche trucco all’interno di esso.
+
+“Quindi avevo supposto, signore,” concordò Grimm. “Ma per il momento non possiamo procedere.”
+
+# La più tenue traccia di quel trucco… E non posso fare a meno di sentirmi un po’ turbato.
+
+# Che cosa staranno combinando questi quattro furfanti… Le loro dichiarazioni lo fanno pensare…
+
+È abbastanza evidente che stiano preparando un grande passo avanti.
+
+“Se non riesci a catturarli,” intervenne Simon, “non puoi almeno arresterne altri?”
+
+Di certo il Partito deve avere altri leader.
+
+Il capo della polizia scosse la testa. “È proprio la cosa più strana…”
+
+“Mai ho sentito parlare di un movimento del genere”, disse. “È davvero l’iniziativa più straordinaria di cui abbia mai avuto notizia.”
+
+In quel modo in cui è disciplinato e organizzato, e soprattutto…
+
+“Silenziate… Devono essercene centinaia lì dentro, ma per sentirli parlare…”
+
+# Preferirebbe non parlare… sembrerebbe che non ci fosse nessuno dentro.
+
+#La Fratellanza della Parola… ma a mio parere sembra qualcosa di molto più profondo.
+
+La Fratellanza del [[Silence|Silenzio]]. Tutti ti fissano ciecamente negli occhi, e.
+
+# Sorridi, o parla del tempo… e non riuscirai mai a catturarli
+
+Qualsiasi tipo di controinterrogatorio. È evidente che questa sia la politica adottata in tutta questa faccenda.
+
+La folla è, per così dire, ancora più “invisibile” dei congiuratori stessi. Solo…
+
+# Questi quattro famosi cospiratori vengono esibiti davanti a noi… I loro segreti personali…
+
+#Incontri pubblici, ma la mente della folla rimane…
+
+“Privato… e si scioglie al contatto. Non possiamo condannare nessuno tranne questi quattro.”
+
+E le uniche persone che possiamo condannare sono proprio quelle che non riusciamo a catturare.
+
+“Allora, in realtà non abbiamo nessuno in custodia,” disse Simon.
+
+Grimm fece una smorfia. “Ci siamo attaccati a un stupido valletto che aveva aperto…”
+
+“La porta che ci conduce…”, disse. “Non certo un motivo di grande orgoglio, quando si considera…”
+
+“Superare in termini di armamenti il Generale Case.”
+
+“Dobbiamo essere grati per le piccole cose,” disse il [[King|Re]]. “Cosa significa, ”
+
+“Che cosa dice quel stupido valletto?”
+
+“Non dice nulla… È possibile che non sappia nulla davvero.”
+
+Penso che sia più che possibile che quell’uomo sia troppo stupido per capirlo.
+
+“Qualsiasi cosa… Un tizio robusto, probabilmente scelto per le sue lunghe gambe…”
+
+# Mai scegliere qualcuno inadatto per compiti semplici…
+
+L’idea di essere fedele al proprio padrone.
+
+La principessa girò la testa per la prima [[Time|volta]] e disse: “C’è qualcuno, ”
+
+Ha suggerito l’idea, piuttosto più brillante, di essere fedele al proprio [[King|Re]]?
+
+“Temo,” disse Clovis, in modo nervoso e ansioso, “che il [[Time|tempo]], ”
+
+“Mary… Questo nome è stato utilizzato da cavalieri e cortigiani galanti nel passato. Non puoi risolvere questa questione…”
+
+Affrontare i problemi politici moderni dicendo alle persone di essere fedeli al [[King|Re]].
+
+“Perché si dice loro di essere fedeli a tutto tranne che al [[King|Re]]?”
+
+Chiese la giovane signora con un certo calore: “Quando c’è uno sciopero o…”
+
+“Qualcosa nel processo di produzione del sapone funziona… Il vostro giornale li esorta ad essere fedeli a questa pratica.”
+
+#I “bollitori di sapone”, accusati di essere truffatori… Cosa dicono i giornalisti?
+
+“Essere fedeli al proprio Partito e ai propri leader di fiducia…”
+
+Resta… Ma se parlo di un leader che non è un capo del partito, che almeno…
+
+Se si dovrebbe rappresentare l’intera nazione e tutti i cittadini patriottici, allora…
+
+"Ditemi che sono all’antica… Oppure ditemi che sono giovane. Sembra essere così."
+
+Considerato la stessa cosa.
+
+Sua Maestà il [[King|Re]] di Pavonia fissava sua nipote con uno sguardo vago.
+
+#Allarme… come se un gattino si fosse trasformato in una tigre-gatto sul tappeto del camino. Ma…
+
+# Continuò come chi fosse deciso a liberarsi di un accumulo di…
+
+Impazienza.
+
+“Perché il [[King|Re]] deve essere l’unico gentiluomo privato a Pavonia? Tutti gli altri, ”
+
+Altri sono gentiluomini estremamente pubblici, o parodie pubbliche di gentiluomini.
+
+#Perché solo noi possiamo parlare con la folla? Lo sai cosa significa?
+
+# Quando vidi quel poeta dai baffi viola che si esibiva su un tavolo…
+
+#La strada… Certo, all’inizio avevo l’impressione che qualcosa di terribile stesse per accadere…
+
+Artificiale. Era come una bambola dipinta e dorata, o una mummia che ballava.
+
+Ma ciò che mi infastidiva di più era quel fazzoletto color pavone che svolazzava dappertutto…
+
+Il suo collo, e mi fece ricordare l’antica bandiera dei Pavoniani.
+
+E si dice che le piume del pavone venissero portate davanti al [[King|Re]] prima ancora.
+
+In battaglia. Che motivo ha di indossare colori del genere, se a noi non è permesso farlo?
+
+#Dovremmo essere noiosi e raffinati, e morire di buon gusto dietro le porte chiuse…
+
+“Le finestre del palazzo… Ma i congiuratori possono essere molto appariscenti.”
+
 
 
 <span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_04" data-title="FourFaultlessFelons — III The Princess Intervenes (part 4)" data-chapter="III The Princess Intervenes" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/innocent,archetype/king,motif/time,concept/wonder"></span>
@@ -28325,6 +33254,108 @@ flunkey, as if there were something in her of that great peasant girl
 
 from Domremy when she demanded audience of a [[King]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I repubblicani possono essere “reali”. Ecco perché attirano il popolo… perché.
+
+Fanno esattamente ciò che facevano i re, quando i re avevano ancora un minimo di buon senso…
+
+# Documenti e politici discutono della terribile diffusione della propaganda rossa
+
+E si chiedevano come potesse essere così popolare. Perché, ovviamente, è rosso. I re.
+
+# E cardinali, nobili e giudici erano tutti rossi… quando non lo eravamo noi.
+
+Imbarazzati dal fatto che nelle nostre vite ci sia un po' di colore.
+
+Il monarca costituzionale sembrava sempre più imbarazzato. “Forse…”
+
+Disse: “Ci siamo un po’ allontanati dall’argomento principale… Era un argomento molto semplice, in realtà.”
+
+Stavamo parlando, in quel momento, della questione relativa al valletto…
+
+# E poi…
+
+“Ho tutte le intenzioni di arrivare al dunque,” disse la principessa.
+
+"#Firmamente. ‘Ho tutte le intenzioni di restare al fianco del maggiordomo anch’io.’"
+
+Impedire a qualsiasi [[Fool|idiota]] di lasciarlo andare. Non capisci che lui è semplicemente.
+
+# Una sorta di assurdità, insomma… Tutte quelle sciocchezze che si dicono contro il patriottismo…
+
+#Il militarismo ha semplicemente abbandonato il povero comune, lasciandolo cadere sempre più in basso…
+
+Servitore di qualche avventuriero disonesto… Viene messo in un abito ufficiale per dimostrare la sua lealtà.
+
+“Per un congiurato… perché avevamo paura di farlo indossare l’uniforme.”
+
+Chiedigli di essere fedele a un [[King|re]].
+
+“Personalmente,” disse Grimm, “provo grande simpatia per voi…”
+
+Il punto di vista della Sua Altezza Reale. Ma temo che ormai sia troppo tardi per farlo.
+
+“Come fai a saperlo?”, chiese la signora con tono irritato. “L’hai mai provato tu stesso?”
+
+#Qual è il vero scopo di una persona del genere? Gli hai mai chiesto cosa prova?
+
+Riguardo alle sue lealtà, al suo paese e al [[King|re]] di cui aveva sentito parlare.
+
+Era un [[Child|bambino]]? Non tu; sei solo stato insistente con lui come se fossi un avvocato.
+
+Dettagli su[[Time|orario]] e luogo che nessun essere umano sano potrebbe mai ricordare, e
+
+È ridotto a sembrare lo scemo del villaggio, e non mi [[Wonder|mira]] se ciò sia davvero così.
+
+Vorrei parlare con lui personalmente.
+
+“Mia cara Mary…”, cominciò suo zio, ormai completamente sconvolto.
+
+E in quel stesso istante, scorse il volto che gli apparve davanti agli occhi.
+
+“Over her shoulder… e la sua voce sembrava allontanarsi…” Signor Simon…
+
+“Bancaio… anch’egli aveva iniziato a parlare, dopo un colpo di tosse garbato, e stava dicendo…”
+
+"#Se Vostra Altezza mi permette di dirlo, sicuramente dovremmo..."
+
+“Mantenere un senso di proporzione: il valletto non è altro che un individuo comune…”
+
+“Immagino che sia piuttosto analfabeta; in quel senso, come dice Sua Altezza Reale…”
+
+Uomo del popolo… ma solo uno tra una moltitudine enorme di persone. Come un…
+
+#Un esperimento nelle scienze sociali: potrebbe essere molto interessante provarli
+
+Teorie su di lui, ma in realtà è soltanto un esempio del materiale sociale nel suo insieme…
+
+Rondi. Nel frattempo, non dovremmo certamente perdere alcun [[Time|tempo]] concentrandoci su.
+
+Personaggi pubblici davvero eccezionali… ma anche pericolosi: li stiamo inseguendo.
+
+Il professore è un uomo di rinomanza mondiale; il generale è un militare.
+
+Un [[Hero|eroe]] alla guida di eserciti. Eppure, in realtà, si trovavano lì a litigare per questioni del genere.
+
+# Ignoranza di un servitore insignificante
+
+Mentre parlava, si trovò a esitare tra la porta e quella figura che avanzava verso di lui.
+
+Principessa… E anche nella sua gola sembravano essersi secche le parole. Per entrambi gli uomini…
+
+Aveva improvvisamente visto il volto di qualcosa che era intollerante e allo stesso tempo [[Innocent|innocente]].
+
+#E non del tutto di questo mondo… La completezza di quella convinzione…
+
+Giovani che ancora non riescono a credere nella complessità della vita… e loro.
+
+Si ritirò davanti a lei quando la grande principessa chiese di essere ricevuta.
+
+“Flunkey… come se dentro di lei ci fosse qualcosa di quella grande ragazza contadina…”
+
+Da Domremy, quando chiese di essere ricevuta dal [[King|Re]].
 
 
 
@@ -28507,6 +33538,184 @@ tray of hot cakes or a pile of ham sandwiches. Suppose it began to [[Snow|snow]]
 
 when I had hardly a rag on my back; I suppose the [[Flag]] of Pavonia, flying
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IV L'IRRAGIONEVOLEZZA DELLA DONNA
+
+QUANDO la grande retata della polizia a Peacock Crescent ebbe una conclusione pour rire
+
+nello sfondamento di stanze vuote e nell'arresto di uno sbigottito
+
+valletto, il funzionario fu portato via insieme ai pochi altri pezzi di
+
+mobilio che parevano vagamente odorare di indizi, e con quel modo impersonale
+
+di uomini che sgomberano sedie e tavoli con un furgone. Non c'era certo
+
+nulla in lui che indicasse un'importanza superiore a quella di un mobile.
+
+Aveva la statura e la corporatura consuete dei domestici di discreta imponenza. Il suo volto
+
+possedeva quella solida avvenenza, insieme lignea e cerea, che si accompagnava
+
+[[Well|bene]] alla cipria dell'antico regime della servitù; non c'era nulla
+
+di notevole, se non forse che, mentre i suoi occhi azzurri e vacui esprimevano
+
+qualcosa di più perfino della fatuità richiesta dal suo mestiere, la
+
+deprimente regolarità dei suoi lineamenti era in qualche modo attenuata da un
+
+mento allungato che suggeriva una sorta di oscura ostinazione. E infatti i
+
+poliziotti che lo avevano interrogato e [[Cross|contro]]-interrogato giunsero alla conclusione
+
+di trovarsi davanti a un caso di testardaggine [[Well|nonché]] di stupidità.
+
+Naturalmente era stato maltrattato e tormentato, e minacciato con ogni
+
+sorta di espedienti del tutto illegali, secondo il metodo che la
+
+polizia di tutti i paesi moderni e civili applica per principio a tutti i
+
+domestici, vetturini, ambulanti e altre persone che per la loro [[Poverty|povertà]] si presume
+
+siano una provincia periferica delle classi criminali; benché di tanto in
+
+tanto quei metodi scandalizzino tutta l'Europa e vengano esibiti in fiammanti
+
+titoli d'orrore al mondo civile intero, quando càpiti che siano stati
+
+applicati, da un qualche [[Fool|sciocco]], a un ricco ebreo o a un giornalista lautamente
+
+finanziato. Ma la polizia non aveva cavato da lui nulla che gettasse
+
+la minima luce sul significato delle riunioni e dei progetti del suo padrone, e
+
+gli inquirenti spossati cominciavano ad attribuire il suo [[Silence|silenzio]]
+
+all'ignoranza o all'idiozia. Soltanto il Capo della Polizia in persona, uomo non
+
+del tutto privo di comprensione e di finezza, sospettava ancora che quella
+
+taciturnità fosse venata di fedeltà.
+
+Comunque sia, il domestico nella sua qualità di prigioniero era tristemente abituato
+
+[[Time|ormai]] a vedere la porta della cella aprirsi e qualche funzionario in divisa
+
+entrare con un taccuino o un indice minaccioso, cercando di raccogliere altri
+
+fatti dal terreno sterile del suo discorso. Era pronto a che ciò
+
+accadesse ancora e ancora, un numero qualsiasi di volte, ma non era pronto a
+
+vedere la stessa porta aprirsi e introdurre, non un poliziotto in uniforme, ma una
+
+bella signora ingioiellata e in una fiammante combinazione di colori alla moda, che
+
+entrò nella sua [[Prison|prigione]] come se fosse la cosa più naturale del mondo.
+
+Solo confusamente scorse il volto arcigno e goffo di un poliziotto
+
+nell'ombra alle sue spalle, e la signora stessa pareva ben decisa che
+
+il poliziotto restasse nell'ombra. Si chiuse la porta alle spalle
+
+con un fragore risoluto e affrontò lo sbalordito lacchè con un sorriso altrettanto
+
+risoluto.
+
+Sapeva chi fosse, naturalmente; l'aveva vista sui giornali illustrati
+
+e perfino girare per la [[City|città]] in automobile. In risposta alla sua prima
+
+domanda tentò qualche impacciata espressione di rispetto, ma lei
+
+le scacciò da parte con una schiettezza familiare che lo paralizzò ancora
+
+di più.
+
+«Non stiamo a preoccuparci di tutto questo», disse. «Siamo entrambi sudditi
+
+del [[King|Re]] e patrioti della Pavonia. Almeno sono certa che lei debba essere davvero un
+
+patriota, e voglio sapere perché non si comporta come tale».
+
+Ci fu un lungo [[Silence|silenzio]], poi lui disse, guardando il pavimento e con
+
+un'aria piuttosto mortificata: «Non voglio equivoci, Vostra
+
+Altezza. Non pretendo di essere un gran patriota, e quella gente è stata
+
+sempre buona con me».
+
+«Ma che cosa hanno fatto per lei?» incalzò lei. «Le davano qualche mancia di [[Time|tanto]]
+
+in [[Time|tanto]], suppongo. Le pagavano una specie di stipendio, probabilmente troppo
+
+piccolo. Che cos'è mai, in confronto a quel che il paese ha fatto per tutti noi?
+
+Non può mangiare pane senza mangiare il grano della Pavonia; non può bere
+
+[[Water|acqua]] senza berla dai fiumi della sua stessa terra; non può
+
+camminare per strada sicuro e libero senza contare sulla legge
+
+che difende i cittadini dello Stato».
+
+D'improvviso alzò la testa, e proprio la vacuità dei suoi occhi azzurri
+
+la colpì con qualcosa di vertiginoso e perfino abbagliante.
+
+«Vede», disse senza sorridere, «in questo momento non sto camminando libero per
+
+la strada».
+
+«Lo so», disse lei ostinata, «ma è colpa sua, no? Sono
+
+certa che lei sappia di qualcosa che questi uomini stanno tramando, qualcosa che incombe
+
+su tutti noi come una nube di tempesta, e non vuole dire una parola per salvarci,
+
+dicendoci dove cadrà il fulmine».
+
+Continuò a fissare con aria assente, poi ripeté come un
+
+automa: «Quegli uomini sono sempre stati buoni con me».
+
+Lei si torse una mano in un gesto di esasperazione, e disse piuttosto
+
+irragionevolmente: «Non credo che abbiano fatto proprio nulla. Scommetto che l'hanno
+
+trattata malissimo, in realtà».
+
+Parve meditare a modo suo, pesantemente, e poi disse esitando, ma con
+
+un crescente accenno di un parlare più colto — che affiorava, per così dire, in
+
+superficie attraverso la compostezza professionale della sua intonazione da domestico
+
+di rango: «Vede, queste cose vanno un po' per confronto. Nell'unica
+
+scuola in cui mi abbiano mai mandato non c'erano quasi pasti; la mia famiglia
+
+non ebbe mai denaro e io ero spesso affamato tutta la [[Night|notte]], e per giunta al freddo
+
+[[Well|anche]]. Vede, è tutto molto [[Well|bello]] parlare dello Stato e
+
+del patriottismo e di tutto il resto. Mettiamo che, mentre gelavo nel rigagnolo, mi
+
+fossi messo in ginocchio davanti alla grande statua della Pavonia Victrix nella
+
+Piazza della Fontana e avessi detto: “Pavonia, dammi da mangiare”; immagino che la grande
+
+statua sarebbe scesa subito dal suo piedistallo e mi avrebbe portato un
+
+vassoio di focaccine calde o una pila di panini al prosciutto. Mettiamo che si fosse messo a [[Snow|nevicare]]
+
+quando non avevo quasi uno straccio addosso; immagino che la [[Flag|Bandiera]] della Pavonia, che sventola
 
 
 
@@ -28694,6 +33903,188 @@ she had received a personal insult.
 "What's all this mean?" she cried. "The footman hasn't spoken. He refuses
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sul tetto del palazzo, sarebbe sceso dal suo palo per avvolgermi…
+
+Come un mantello… Almeno, suppongo che alcune persone lo pensino. Tu…
+
+Per scoprire che in realtà non è così, è meglio vivere delle esperienze sgradevoli.
+
+La sua figura rimase immobile e pesante, ma la sua voce assunse un tono diverso…
+
+Un cambiamento o una svolta piuttosto difficile da descrivere.
+
+“Ma ho davvero trovato del cibo a Peacock Crescent… Quei terribili rivoluzionari…”
+
+Quelli che, secondo voi, stanno distruggendo l’intera [[City|>città]], almeno mi hanno impedito di.
+
+Essere distrutto… Supponiamo che vi piaccia l’idea che mi abbiano trattato come un cane…
+
+Ancora così, ero un cane randagio e affamato… e loro mi hanno dato da mangiare e un rifugio.
+
+“Mi piaci come un cane… Sai cosa proverebbe un cane se li tradisse, vero?”
+
+Abbandonandoli… È forse il tuo servo meno di un cane, da meritare un trattamento del genere?
+
+“Cosa?”
+
+#Qualcosa nel tono della sua voce, riguardo a quella frase tratta dalle Scritture, la sorprese
+
+e la fece fissarlo con una nuova curiosità.
+
+“Come ti chiami?” disse lei.
+
+“Mi chiamo John Conrad,” disse senza esitazione. “Ora non ho più famiglia…”
+
+Ah, proprio di questo si parlava… Ma una volta eravamo davvero in condizioni migliori rispetto a ora.
+
+“Attualmente… Ma Vi assicuro, Vostra Altezza Reale, che non c’è alcun mistero particolare.”
+
+A proposito. Cadere in difficoltà nella vita è abbastanza comune al giorno d’oggi.
+
+Più umile di chi nasce in condizioni privilegiate, il che è ancora peggio.
+
+# Parlò a voce bassa. “Se davvero sei un uomo colto e…”
+
+#Signore, dovreste vergognarvi ancora di più per collaborare con questa banda di…
+
+Distruttori. È facile parlare di un cane, ma non è giusto. Un.
+
+Il cane ha soltanto un padrone, e naturalmente si attiene al solo dovere che gli spetta.
+
+#Richiesto da lui… Un cane non ha una nazione, una causa, una religione…
+
+# Qualche senso generale di giustizia… Ma puoi, come uomo istruito, armonizzarlo con…?
+
+Con qualsiasi pretesa di avere il diritto di definirsi un “cane”, e basandosi su tale scusa…
+
+Riempire l’intera città di cani pazzi?
+
+La fissava con uno sguardo intenso e doloroso; in qualche modo strano…
+
+La stridente e sorprendente disparità sociale tra di loro era davvero scomparsa.
+
+#Sul filo dell’incompatibilità intellettuale, proprio come aveva cercato di fare…
+
+“Scacciarlo via con un gesto quando lei fece il suo ingresso straordinario…”
+
+[[Prison|carcere]]. Mentre la guardava, sembrò avvenire un lento e straordinario cambiamento in lei.
+
+# Sul suo viso si leggeva chiaramente che sembrava aver compreso il significato di quella situazione.
+
+Era ancora troppo sbalordito per riuscire a vedere.
+
+#"È al di là di ogni possibile bontà che tu ti prenda la briga di parlarmi..."
+
+“Così,” disse. “Almeno tu sei più generoso con me di quegli uomini.”
+
+# Chi mi ha dato solo cibo… Tu, devo ammetterlo, hai fatto di più di quanto loro potessero mai fare.
+
+# Che cosa potrebbero fare per un uomo come me… Ma non riesco a riconoscerlo in quel povero vecchio…
+
+# Pavonia con i suoi pavoni, i palazzi e i tribunali di polizia… E io no.
+
+“Abbandonare anche solo un briciolo delle mie remore per loro, ”
+
+“Se vuoi metterla così,” disse lei con molta calma, “fallo per me.”
+
+“Certo che non lo farei per gli altri,” disse, “ma vedi…”
+
+“Ecco proprio dove sorge il mio problema: obbedirti significherebbe…”
+
+# Piacere… ma non credo nemmeno una parola di quello che dici riguardo al fatto che sia…
+
+#Dovere… E che tipo di cane è mai quello che non lo fa per dovere, ma solo perché vuole farlo?
+
+Lo faceva per piacere.
+
+“Oh, quanto odio quell’espressione testarda che hai!” esclamò lei.
+
+Una curiosità irrefrenabile, un’irascibilità incontrollata, “Non ho niente contro i [[dogs|>cani]], ma li odio.”
+
+“Bulldog… Sempre così brutti.” Poi, improvvisamente cambiando tono, lei…
+
+Principessa aggiunse: “Non capisco perché si debba continuare a permetterti di fare ciò che vuoi”.
+
+Questo [[Prison|carcere]], tutto per via dei vostri stupidi pregiudizi. Sicuramente vi causerà molti problemi.
+
+# Una lunga condanna per tradimento… se non fanno nulla altro, se vogliono davvero proteggere…
+
+Questi diavoli che vogliono farci esplodere tutti domani.
+
+“Molto bene,” disse con voce dura. “Allora devo decidermi a, ”
+
+Punito per tradimento, perché io non sarò mai un traditore.
+
+Qualcosa di essenziale, contenuto nel suo breve e conciso [[Epigram|epigrafo]], sembrava trasmettere quasi un senso di.
+
+Disprezzo. E il suo [[Self|autocontrollo]] cedette improvvisamente di fronte a un’onda di vera e propria.
+
+La furia reale.
+
+“Allora, molto bene,” gridò lei, voltandosi con rabbia verso la porta, “tu, ”
+
+“Può marcire lì per tradimento, perché non vuoi ascoltare la ragione…”
+
+“Per noi è lo stesso, ovviamente… tranne per il fatto che la tua follia, la tua malumore e la tua testardaggine potrebbero…”
+
+# Ci distruggerà tutti in ventiquattro ore… Solo Dio lo sa.
+
+# Che cosa faranno questi bruti blasfemi a noi
+
+“Tutto… E forse a Dio importa, ma a te no. Non ti interessa nulla.”
+
+Chiunque tranne che il tuo stesso orgoglio brutale. Basta con te.
+
+#E lei spalancò la porta, offrendo ancora una volta uno sguardo…
+
+Poliziotto con il viso rotondo fuori… poi scomparve attraverso quell’apertura.
+
+E la porta si chiuse di nuovo, lasciando il prigioniero [[Alone|da solo]] nella sua cella.
+
+Si sedette sul letto di assi e si prese la testa tra le mani, rimanendo lì.
+
+Questa posizione rigida e assorta per un lungo [[Time|tempo]]. Poi si alzò, sospirando.
+
+#E si avvicinò di nuovo alla porta, perché sentì dall’esterno dei passi pesanti…
+
+Movimenti a cui era già troppo abituato, e ne era consapevole.
+
+Un altro visitatore, che di certo non era una signora bella…
+
+“Tornerà a disturbarlo una volta ancora… Ma questa volta l’ufficiale…”
+
+L’intervista è stata un po’ più lunga del solito e di natura diversa…
+
+Carattere.
+
+Alcune ore dopo, quando la Principessa stava peggiorando e il [[King|Re]].
+
+# Accettando un bicchiere di vermouth italiano da un valletto…
+
+Un personaggio molto meno inquietante era il Primo Ministro, che era seduto lì…
+
+Nella stanza privata di quel palazzo, osservavano attentamente…
+
+Casualmente: “Sembra proprio che alla fine possano essere frustrati… Io pensavo…”
+
+# Terribilmente nervoso fino a un’ora fa… Giuro che avevano scoperto qualcosa di importante.
+
+“Che stava per esplodere… Tutte le loro ultime dichiarazioni erano come…”
+
+#Il caricamento del fucile prima dello sparo… Ma visto che questo sciocco valletto…
+
+# Ci diranno dove sono nascosti, ma immagino che saremo troppo veloci per loro…
+
+Li inseguono comunque… Grimm dice: ““
+
+La principessa Aurelia Augusta, conosciuta anche come Mary, si era alzata in piedi, come se…
+
+Aveva ricevuto un insulto personale.
+
+“Cosa significa tutto questo?”, gridò lei. “Il valletto non ha detto una parola… Si rifiuta di parlare”.
+
 
 
 <span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_03" data-title="FourFaultlessFelons — IV The Unreasonableness Of Woman (part 3)" data-chapter="IV The Unreasonableness Of Woman" data-kind="excerpt" data-tags="motif/lightning,motif/prison,motif/well,concept/beauty"></span>
@@ -28787,6 +34178,97 @@ For she had in that instant become aware of an amazing possibility, and
 
 the rest of their interview was too wonderful to be believed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per essere precisi, assolutamente no.
+
+“Vostra Altezza Reale mi perdonerà,” disse il Primo Ministro in tono rigido. “Io…”
+
+Titolo:  
+Le notizie direttamente dal Capo della Polizia… Il valletto ha…
+
+Certamente confessò i fatti.
+
+“Non è vero!” disse testardamente Sua Altezza Reale. “Non ci credo.”
+
+Per un minuto.
+
+#Sembrava davvero indignata al riguardo… e infatti, coloro che conservano ancora qualche sentimento…
+
+#La capacità di meravigliarsi di fronte ai misteri della psicologia femminile
+
+# Sorpresa di scoprire che, durante il suo prossimo colloquio con il prigioniero…
+
+Nella [[Prison|prigione]], lei era molto dura e sprezzante nei suoi confronti per aver preso quella decisione.
+
+Dopo aver tradito tutto ciò che gli aveva chiesto di non tradire.
+
+#"Fine, allora… è la fine di tutta questa tua eroicità, testardaggine e propensione a metterti in mezzo…"
+
+“La tua mascella…”, disse lei. “Alla fine riuscirai a salvarti da solo, e…”
+
+Verso tutte queste povere creature ingannate che si nascondono.
+
+Alzò la testa in quel modo piuttosto sorprendente e fissò…
+
+Con quei suoi occhi vuoti ma di un blu scintillante, che sempre sembravano racchiudere qualcosa…
+
+Quelli che provocano vertigini e un senso di vuoto nell’aria, lasciando lo spettatore stordito.
+
+“Beh,” disse, “certamente non pensavo che li considerassi in quel modo, ”
+
+Molta simpatia.
+
+“Provo grande simpatia per loro, perché sono costretti a avere a che fare con te,” disse.
+
+“Certo, non sono d’accordo con loro, ma…”
+
+Mi dispiace molto per loro: vengono inseguiti e devono affidarsi a persone del genere…
+
+Nascondili. Immagino che sia stato tu a spingerli a compiere quelle sciocchezze.
+
+L’ultima frase sembrava essere stata aggiunta in un secondo momento. L’ha detta con quel tono deciso…
+
+# Principi femminili generali, che alcune menti maschili, nei momenti di…
+
+# Irritazione… Un comportamento forse poco principesco. Ma mai come in quel momento…
+
+Più di qualsiasi altra cosa nella sua vita, lei rimase sorpresa quando lui sorrise e disse: “Sì, forse è così”.
+
+Esatto. Sono stato io a portarli nei guai.
+
+Mentre lo guardava con una curiosità piena di dolore, lui aggiunse: “Ma ricorda…”
+
+Quello che hai detto. Se le ho fatte male, l’ho fatto per te.
+
+Subito dopo, esclamò con una voce nuova e intensa… che lei…
+
+Non avevo mai sentito parlare di lui, né di alcun altro uomo prima d'allora.
+
+#"Pensi davvero che non sappia quanto tutto questo sia assolutamente ingiusto? Perché dovresti..."
+
+Avere quel potere, proprio come tutti gli altri tipi di poteri. Perché dovresti essere tu ad averlo?
+
+# L’unica cosa irrispondibile: il volto, irrispondibile come Dio…
+
+Giorno del Giudizio? Possiamo invocare l’ignoranza contro la scienza e l’impotenza…
+
+Contro il potere, ma chi sarà mai in grado di opporre la bruttezza alla [[Beauty|bellezza]]?
+
+Chi–?
+
+Aveva fatto un passo avanti, ma… cosa ancora più strana, lei aveva fatto lo stesso.
+
+#Si mosse lei stessa, avanzando in risposta. Stava fissandolo negli occhi…
+
+Sembrava fosse stato distrutto da un lampo di [[Lightning|fulmine]].
+
+“Oh, mio Dio!” gridò. “Non può essere vero!”
+
+Perché in quell’istante aveva preso coscienza di una possibilità straordinaria…
+
+Il resto del loro colloquio era troppo meraviglioso per poter essere creduto.
 
 
 
@@ -28966,6 +34448,180 @@ though there will be no revolution, there will be a very drastic [[Reform|reform
 The Prime Minister [[Rose|rose]] to his feet in uncontrollable agitation, for
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+V LE CONDIZIONI DI UN TRADITORE
+
+UN unico pensiero, come una nube di tempesta, incombeva su Pavonia, sul suo palazzo
+
+e sulla sua [[City|città]] principale; quel genere di concentrazione che di solito
+
+s'impadronisce soltanto di qualche villaggio ignorante dove un [[Prophet|profeta]] o un fanatico ha predetto
+
+la fine immediata del mondo. Gli ultimi proclami avevano avuto il loro
+
+effetto; perfino i più noncuranti erano ormai convinti che da un momento all'altro una
+
+enorme invasione su tutte le frontiere, o una spaventosa esplosione nel cuore
+
+della [[City|città]], sarebbe giunta a un segnale che essi non conoscevano, e per un
+
+gesto che non potevano fermare. L'invasione straniera era forse sentita come
+
+la più esasperante delle due, ma erano tanto più sconcertati
+
+perché su tutto questo movimento misterioso era gravata l'[[Shadow|ombra]] o
+
+il sapore di qualcosa di straniero. Si ammetteva che la fama del
+
+professor Phocus fosse ancora più grande in altri paesi che nel suo; la gente
+
+cominciò a chiedersi con una certa irritazione da dove fosse venuto il ricco
+
+prestatore su pegno e, con un'esitazione un po' maggiore, come avesse fatto la sua ricchezza.
+
+Ma nessuno dubitava che quegli uomini avessero costruito un ordigno che stava
+
+per agire con orribile energia. Fu in mezzo a tutta questa agitata
+
+insicurezza che giunse il messaggio: il valletto prigioniero avrebbe parlato. Aveva
+
+addirittura firmato un [[Grave|grave]] documento, che diceva: «Posso dire La Parola e
+
+fermare per sempre l'opera dei Quattro Distruttori e metterli d'ora innanzi in
+
+vostro potere. Ma devo porre le mie condizioni.»
+
+Quali che fossero i fatti storici riguardo alla decaduta famiglia di
+
+John Conrad, non c'è [[Doubt|dubbio]] che egli entrasse in scena davanti a un
+
+Comitato di Stato, che era anche un'udienza con il [[King|Re]], con
+
+quel genere di dignità che di solito non compare nella sussiegosità dei
+
+valletti. Si avvicinò al tavolino del palazzo, attorno al quale sedevano
+
+i quattro principali governanti di Pavonia, con un giusto gesto di rispetto
+
+ma senza la minima apparenza di imbarazzo o servilismo. S'inchinò
+
+al [[King|Re]] e accettò la sedia sulla quale il [[King|Re]] lo invitò a
+
+sedersi, ed era il [[King|Re]] a essere più imbarazzato del suddito.
+
+Clovis di Pavonia si schiarì la gola, abbassò lo sguardo pensieroso
+
+per un momento e poi disse: «[[Hope|Spero]] che non sia necessario che io aggiunga la mia
+
+parola personale agli accordi che siano stati presi. Ma sono del tutto
+
+pronto ad aggiungerla, per evitare ogni malinteso. È ben inteso
+
+che voi avete acconsentito a rivelare ciò che sapete soltanto a certe
+
+condizioni, e io certamente farò in modo che tali condizioni siano soddisfatte. È
+
+solo ragionevole, in considerazione di ciò che ritenete di
+
+sacrificare, che riceviate un compenso davvero cospicuo.»
+
+«Posso rispettosamente chiedere,» s'informò Conrad, «chi debba decidere esattamente che cosa
+
+sia un compenso equivalente?»
+
+«Vostra Maestà,» intervenne il colonnello Grimm, «non credo che convenga menare
+
+il can per l'aia. Abbiamo pochissimo [[Time|tempo]] a disposizione, se questi congiurati stanno
+
+davvero per far [[spring|scoppiare]] una mina. Non vedo come si possa negare che il
+
+prigioniero debba essere lui il giudice del compenso. Ho cercato di cavargli la
+
+[[Truth|verità]] con altri metodi che egli può ritenere o no di avere il
+
+diritto di risentire; in parole povere, con l'intimidazione. È giusto dire
+
+che hanno fallito. Ed è altrettanto giusto dire che quando l'intimidazione
+
+fallisce, non resta altro che la corruzione. E il semplice buon senso
+
+vuole che sia lui a fissare il prezzo.»
+
+Il Primo Ministro tossì e disse con voce un po' roca: «È un'affermazione
+
+piuttosto categorica, ma se il signor Conrad volesse darci un'idea di ciò che
+
+considererebbe un accordo ragionevole. ...»
+
+«Esigerò,» disse John Conrad, «niente meno che diecimila l'
+
+anno.»
+
+«Davvero,» disse il Primo Ministro, con quel suo modo alquanto agitato, «questo
+
+genere di cose mi pare del tutto stravagante. Potreste fare tutto ciò che
+
+volete, nella vostra condizione sociale, con molto meno.»
+
+«Vi sbagliate,» replicò Conrad con calma. «La mia condizione sociale è molto più
+
+esigente di quanto supponiate. Non vedo come potrei sostenere la posizione
+
+di Granduca di Pavonia con meno.»
+
+«Di Gran . . .» cominciò il signor Valence, e la sua voce parve venir meno e
+
+spegnersi.
+
+«Evidentemente,» disse Conrad in tono ragionevole. «Sarebbe una grave
+
+mancanza di rispetto verso Sua Maestà, e verso il lignaggio di una delle più antiche
+
+Case Reali d'Europa, chiedere a Sua Maestà di permettere che la propria nipote sposi
+
+qualcuno di rango inferiore a quello di Granduca di Pavonia.»
+
+Il resto della compagnia guardava l'affabile valletto press'a poco come il [[King|Re]] e
+
+la [[Court|Corte]] possono aver guardato Perseo quando li tramutò tutti in pietra. Ma
+
+Grimm ritrovò per primo la voce con una bella e grossolana imprecazione militare, seguita
+
+dalla pretesa di sapere che diavolo significasse tutto ciò.
+
+«Non chiederò alcuna carica politica formale nel [[government|governo]] dello
+
+Stato,» proseguì il valletto pensosamente. «Ma è più che ragionevole
+
+aspettarsi che un Granduca di Pavonia sposato a una Principessa Reale abbia
+
+una certa influenza sulla politica del paese. Insisterò
+
+certamente su una serie di riforme essenziali, dirette in particolare a
+
+un trattamento più giusto dei poveri di questa [[City|città]]. Vostra Maestà e signori,
+
+se in questo momento siete minacciati da un fulmine che non sapete da
+
+dove venga, e forse dal rovesciamento dell'intera nazione per invasione
+
+straniera e rivolta interna, dovete ringraziare in gran parte voi stessi.
+
+Vi consegnerò questi capi rivoluzionari di cui parlate tanto.
+
+Vi aiuterò a catturare il dottor Phocus e [[Sebastian]] e Loeb e,
+
+se possibile, perfino il generale Case. Consegnerò i miei compagni, ma non
+
+rinuncerò alle mie convinzioni. E quando occuperò l'alta posizione nazionale
+
+della quale fra poco mi [[Honour|onorerete]], posso promettervi che
+
+benché non vi sarà alcuna rivoluzione, vi sarà una [[Reform|riforma]] assai drastica.»
+
+Il Primo Ministro [[Rose|balzò]] in piedi in preda a un'agitazione incontrollabile, poiché
+
 
 
 <span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_02" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 2)" data-chapter="V The Terms Of A Traitor" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/fire,motif/grave,motif/mirror,motif/prison,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/reform,concept/self,setting/court,setting/mountains,character/sebastian"></span>
@@ -29140,6 +34796,176 @@ He joined John Conrad outside the palace and said to him with military
 brevity: "[[Well]], I suppose we had better leave the next step to you."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+i riformatori di professione non amano sentir parlare di [[Reform|riforme]] drastiche.
+
+«Queste proposte sono intollerabili», gridò. «Sono fantastiche. Non
+
+vanno ascoltate nemmeno per un istante».
+
+«Sono le mie condizioni», disse Conrad gravemente. «Sono prontissimo a tornare in
+
+[[Prison|prigione]] se non le accetterete. Posso dire, per quanto mi sia lecito toccare
+
+simili argomenti, che la Dama principalmente coinvolta le ha già
+
+accettate. Ma sono prontissimo che voi le respingiate, e io tornerò ad
+
+aspettare nella mia [[Prison|prigione]], e voi resterete qui ad aspettare nel vostro palazzo, senza
+
+sapere che cosa».
+
+Ci fu un lungo [[Silence|silenzio]], poi il colonnello Grimm disse pianissimo: «Oh,
+
+dieci milioni di diavoli urlanti all'inferno!»
+
+Il crepuscolo calava lentamente sulla lunga sala tappezzata di arazzi, in cui
+
+l'oro antico era tanto sbiadito da aver perduto il semplice sfolgorio
+
+della vanagloria e da assumere la grandiosità di una fiamma ricca ma riflessa,
+
+come riflessa di [[Mirror|specchio]] in [[Mirror|specchio]] lungo le infinite memorie degli uomini.
+
+Nel grande arazzo dispiegato e coperto di giganti, che faceva sembrare
+
+così piccolo ai loro piedi il gruppetto di uomini moderni, si poteva scorgere
+
+la possente figura di Clodoveo I che andava alla sua ultima grande vittoria
+
+con i ventagli di penne di pavone portati davanti a lui e i granduchi di Pavonia
+
+che levavano dietro di lui una selva di spade. Non c'era nulla in quella stanza
+
+che non richiamasse in qualche modo l'insostituibile opera di una
+
+civiltà particolare; i busti dei poeti pavoniani, che avrebbero potuto scrivere
+
+solo nella lingua pavoniana, riempivano le nicchie e gli angoli della stanza;
+
+il barlume scuro delle librerie parlava di una letteratura nazionale da non
+
+perdere alla leggera né forse rimpiazzabile, e qua e là un quadro come una
+
+piccola [[Window|finestra]] lasciava intravedere i lontani ma amati paesaggi della
+
+loro terra natale. Perfino il cane sdraiato davanti al [[Fire|fuoco]] era della razza
+
+delle loro [[Mountains|montagne]], e non c'era lì un uomo tanto meschino - no, nemmeno
+
+il politico - da non sapere che di tutte queste cose viveva e
+
+con tutte queste cose sarebbe morto. E sotto tutte queste cose, credevano
+
+di poter udire qualcosa come il ticchettio costante di una bomba e
+
+aspettavano lo scatto che precede la [[Death|morte]] assordante.
+
+Alla fine, in quel [[Silence|silenzio]] come dei secoli, Clodoveo III parlò per
+
+la Pavonia e per tutto il suo popolo, come nei giorni antichi. Non sapeva
+
+se ciò andasse chiamato una resa o un colpo di vittoria, ma
+
+sapeva che era necessario, e parlò con una pienezza e una fermezza di voce
+
+che da lungo tempo erano rare in lui.
+
+«Il [[Time|tempo]] è poco», disse, «e non c'è altra via, credo, se non
+
+accettare le vostre condizioni. In cambio, intendo che voi seriamente
+
+proponiate e promettiate di far cessare le attività dell'uomo chiamato [[Sebastian]],
+
+del professor Phocus, di Case e Loeb, come nemici di questo Stato, e di
+
+consegnarli a noi, perché ne facciamo ciò che vorremo».
+
+«Prometto», disse John Conrad, e il [[King|Re]] si [[Rose|alzò]] improvvisamente in piedi,
+
+come chi scioglie un'udienza.
+
+Tuttavia, la maggior parte della compagnia che aveva formato il Consiglio si sciolse in
+
+una curiosa condizione di [[Mystification|smarrimento]] e disagio. Stranamente, forse,
+
+ciò non riguardava gli elementi del caso che erano davvero
+
+stravaganti e perfino assurdi. Le parti incredibili della storia sembravano
+
+averli tutti storditi in una sorta di sobrietà, così che non potevano più
+
+sentirle come incredibili. Non era l'idea di un lacchè uscito da
+
+una villa di Peacock Crescent che diventava granduca di Pavonia o sposava
+
+una principessa pavoniana. Non riguardava il contrasto tra la sua
+
+figura e il suo destino. Curiosamente, riguardava proprio il
+
+contrario. Dopo essersi seduti alla stessa tavola con il misterioso signor Conrad,
+
+nessuno di loro sentiva più alcuna particolare incongruenza tra lui e
+
+ambizioni così alte. Dava piuttosto l'impressione di un uomo familiare non
+
+solo con alte ambizioni, ma con alte aspirazioni.
+
+Si muoveva con l'indescrivibile compostezza di chi non ha mai davvero perduto
+
+il rispetto sociale del proprio [[Self|sé]], e i suoi modi sembravano adatti tanto a
+
+una [[Court|Corte]] quanto quelli del rude ufficiale di polizia o del piuttosto prosaico
+
+politico. Aveva dato la sua parola proprio come l'aveva data il [[King|Re]], come
+
+se fosse una parola di qualche valore. Ed era esattamente lì che il
+
+sedimento di [[Mystification|smarrimento]] rimaneva nella mente di molti della compagnia,
+
+ed era lo stesso genere di [[Doubt|dubbio]] che aveva turbato più profondamente la mente
+
+della Principessa. Non era che quell'uomo non sembrasse un granduca,
+
+ma che non sembrava un delatore. Per quanto convenzionali fossero le loro
+
+idee sui doveri di un cittadino, non riuscivano, in qualche modo, a
+
+capire che un uomo di quella sorta non conservasse le virtù più oscure del
+
+cospiratore, o, in frase più popolare, l'[[Honour|onore]] che si suppone
+
+esista tra i ladri. Il colonnello Grimm era un poliziotto, ma era anche un
+
+soldato, e c'erano in lui elementi che non si adattavano facilmente
+
+a un gentiluomo - specialmente quando era un gentiluomo - che testimoniava per il
+
+[[King|Re]] contro i propri complici. Mentre guardava il volto [[Grave|grave]] e la figura piuttosto aggraziata
+
+dell'ex domestico, lui, che si riteneva un intenditore di uomini, pensò
+
+che poteva immaginare Conrad più facilmente come un uomo che faceva saltare la città
+
+con la dinamite che come un uomo che tradiva i suoi complici.
+
+Tuttavia, la parola dell'uomo era stata data, e Grimm era certo che l'avrebbe
+
+mantenuta, e trasse un enorme sospiro di sollievo pensando che probabilmente
+
+avevano visto la fine del potere di Case e Phocus e [[Sebastian]]
+
+sul popolo di quella terra. E benché il degno colonnello, in un certo
+
+senso, si sbagliasse clamorosamente in tutti i suoi calcoli sul caso, aveva
+
+in effetti perfettamente ragione su quello.
+
+Raggiunse John Conrad fuori dal palazzo e gli disse con brevità
+
+militare: «[[Well|Bene]], suppongo che faremmo meglio a lasciare a lei il prossimo passo».
+
 
 
 <span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_03" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 3)" data-chapter="V The Terms Of A Traitor" data-kind="excerpt" data-tags="archetype/shadow,motif/dust,motif/garden,motif/lion,motif/moon,motif/night,motif/road,motif/time,motif/well,concept/courage,concept/fear"></span>
@@ -29301,6 +35127,167 @@ of perils or horrors might be below. But whatever he thought of it, it
 
 was nothing so extraordinary as what he found.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il passo successivo li portò insieme lungo la lunga alameda di pioppi, oltre…
+
+# Porte esterne del palazzo, di fronte alla Piazza della Fontana dove si trovava…
+
+# La statua di Pavonia la Vittoriosa, in posizione simbolica…
+
+Numerose strade eleganti si diramano dalla piazza…
+
+Finalmente, si entra nella familiare e maestosa curva di Peacock Crescent…
+
+Una coincidenza: era di nuovo una [[Night|notte]] di luce lunare abbondante e cielo pallido.
+
+La facciata di quella terrazza gli provocò nuovamente una certa sensazione di freddo…
+
+Mistero, come quando si osserva una maschera di marmo… Ma non era affatto così semplice.
+
+Di quelle case familiari, o davanti alla porta di quella familiare [[house|>casa]], che.
+
+Il colonnello Grimm fu accompagnato dal suo guida. Si trovava dall’altra parte della [[Road|strada]], verso.
+
+Un piccolo giardino o aiuola, delimitata da una ringhiera; e, passandoci attraverso…
+
+#La porta tra le ringhiere… camminarono nella profonda erba buia e sotto di essa.
+
+Nell’ombra dei grandi cespugli. In un luogo dove l’erba era più bassa.
+
+Più liscio, proprio sotto l’[[Shadow|ombra]] di uno dei cespugli, Conrad.
+
+# Si chinò e sembrava muovere il dito come se stesse scrivendo qualcosa…
+
+[[Dust|polvere]].
+
+“Forse non lo sai,” disse, senza alzare la testa, “che la maggior parte…”
+
+# Quasi tutte le dichiarazioni e le frasi utilizzate in questa rivoluzione sono solo scherzi.
+
+# Scherzi pratici… o scherzi privati, comunque sia.
+
+“Una sorta di portella segreta o coperchio che si solleva in questo punto… e di cui nessuno conosce mai l’esistenza.”
+
+Titolo:  
+Trovato… perché le aperture ordinarie sono solitamente rotonde, quadrate o allungate…
+
+Titolo:  
+“Forma triangolare, o qualcosa del genere… Ma non puoi sollevarlo finché…”
+
+# Hai tracciato ogni curva di un contorno estremamente complicato… Solo questo.
+
+Dovrebbe essere uno schema familiare. Solo che non lo è.
+
+Mentre parlava, sembrò sollevare con forza una certa parte dell’erba.
+
+Sembrava in realtà un tavolo su cui cresceva l’erba, come se…
+
+#Un cappello piatto grande coperto di piume verdi… Ma quando lo alzò, quelle piume…
+
+La palpebra era così scura che, contro la luce della [[Moon|luna]], non si riusciva a distinguerla; l'altra, invece, poteva essere vista chiaramente.
+
+# Un progetto molto dettagliato, con sottolineature e variazioni, come se…
+
+Capi e baie.
+
+“Dovresti saperlo,” disse. “Devi averlo studiato abbastanza spesso.”
+
+Nell’Atlante, soprattutto nell’Atlante militare. Quello è il mappamondo di Pavonia.
+
+E questo, se volete scusare la nostra piccola battuta, è esattamente ciò che intendevamo quando…
+
+Disse che dovevamo cercare sicurezza al confine.
+
+Prima che il capo della polizia potesse rispondere, la sua fonte informativa aveva interrotto bruscamente…
+
+Scomparve con un tipo di tuffo… Sembrava che la terra lo avesse inghiottito.
+
+# Su. Ma Grimm sentì la sua voce rassicurante provenire da…
+
+“Abisso appena scoperto… e dicendo allegramente: ‘Vieni giù con me. C’è…”
+
+“Una scala davvero semplice… Seguimi e vedrai tutto.”
+
+Ma tu non hai paura.
+
+Il colonnello Grimm rimase fermo per un momento, immobile come una statua sotto la luce della luna. Poi…
+
+Si gettò nell’oscura [[Well|pozza]] davanti a sé. E infatti, facendolo, lui.
+
+“Merita davvero una statua, non solo alla luce della luna, ma…”
+
+Il sole e la vista degli uomini… come la statua di Pavonia Victrix. Perché lui aveva…
+
+Raramente si era compiuto un atto più coraggioso in una vita e in una professione che richiedevano non poco [[Courage|coraggio]].
+
+Era disarmato; era [[Alone|solo]]; aveva davvero motivi molto scarsi, quando.
+
+# Critica ragionevole… ma fidarsi di quel misterioso ciarlatano?
+
+Avventuriero… o forse si potrebbe pensare che un uomo del genere mantenga la sua promessa. Ma anche così…
+
+Se davvero avesse mantenuto la sua promessa… ma di cosa si trattava esattamente quella promessa? Che… attraverso…
+
+# Questo oscuro ingresso… L’ufficiale solitario dovrebbe essere condotto proprio nel covo di…
+
+Il [[Lion|leone]], di fronte all’invincibile Case e al suo triumvirato.
+
+Di anarchici e di chissà quali forme di violenza militare…
+
+A quanto pare, era stabilito in un impero sotterraneo sotto la terra…
+
+# Un vero e proprio inferno…
+
+# Grimm, sebbene non fosse incline alle emozioni, faticava a trattenersi dal provare qualcosa
+
+Titolo:  
+Triste e simbolico… poiché l’apertura sopra la sua testa continua ad aumentare di dimensioni.
+
+#Sempre più piccolo con la distanza, visibile sul buio quel bagliore…
+
+# Contorno del suo stesso paese. L’ultima luce tenue del cielo si posava sulla terra…
+
+# Sulla sua pelle, sotto forma di Pavonia, poi divenne scuro… Era quasi come se…
+
+“Cadevano attraverso lo spazio distruttore… e Pavonia era lontana…”
+
+“Stella… E infatti, quando cercò di ripensare a quei vagabondaggi innaturali…”
+
+Di quella [[Night|notte]], fu perseguitato da una sorta di contraddizione nel [[Time|tempo]].
+
+Soprattutto nello spazio; con una sensazione di aver effettivamente viaggiato per migliaia di chilometri…
+
+# Di migliaia di chilometri, continenti interi e persino mondi interi… uniti da una logica coerente.
+
+#Certezza, come quella di alcuni fatti matematici che apparentemente sfuggono alla comprensione…
+
+# Enigma matematico: su quale problema stava davvero lavorando
+
+Un’area relativamente piccola e vicina a luoghi che conosceva… o, come lui stesso disse…
+
+“Si rimproverava, in modo piuttosto amaro, di non averlo saputo… Senz’dubbio…”
+
+In gran parte a causa della sua stanchezza e dell’ultima sensazione di confusione che provava…
+
+Affrontò l’ultimo mistero… ma questo è necessario se vogliamo comprenderlo davvero.
+
+#Comprendere lo spirito confuso e quasi stordito della disciplina…
+
+#Portò a termine le fasi finali di quell’affare… Aveva lasciato qualcosa alle sue spalle…
+
+Nell’aria fresca del piccolo [[Garden|giardino]], a volte, in seguito, si immaginava.
+
+Era il potere di ridere.
+
+La luce, simile a una stella lontana sopra di lui, scomparve, e lui continuò…
+
+Scendere la scala, gradino dopo gradino, immaginando solo vagamente di cosa si tratti…
+
+# Di pericoli e orrori che potessero attendere… Ma qualunque cosa pensasse al riguardo, lui…
+
+Niente era così straordinario come ciò che trovò.
 
 
 
@@ -29479,6 +35466,180 @@ promise you they shall not escape."
 
 Then after a pause he added: "But before we seek them out in their
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+VI LA PRONUNCIA DELLA PAROLA
+
+IL COLONNELLO GRIMM della Polizia Pavoniana era stato descritto con grande esattezza come un
+
+uomo dalla testa dura, e non facilmente separabile dalla realtà. Fu forse
+
+tanto più intensamente per questo che ricordò quella [[Night|notte]] come un [[nightmare|incubo]]. Aveva
+
+davvero le qualità indescrivibili di [[A Dream|un sogno]]: le ripetizioni e
+
+le incoerenze; i brandelli di esperienza passata che apparivano come improvvise
+
+immagini in mezzo al caos dell'informe e dello sconosciuto; la sensazione generale
+
+di avere una mente [[Double|doppia]], una sana e l'altra folle. E lo fu tanto più
+
+quando i suoi vagabondaggi sotterranei, cominciati nel pozzo affondato nel
+
+[[Garden|giardino]], lo riportarono in quelle che normalmente si sarebbero dette
+
+scene normali. Rivide davvero i barlumi della [[Moon|luna]], ma questo
+
+lo fece sentire ancor più simile al [[Ghost|fantasma]] del padre di [[Hamlet|Amleto]]. Non poteva
+
+fare a meno di sentire che stava rivedendo i barlumi dell'altra faccia della
+
+[[Moon|luna]] ed era sbucato dall'altra parte del mondo. Non poteva essere
+
+certo di non aver trovato uno sbocco sotto qualche cielo straniero, con
+
+[[Stars|stelle]] e lune proprie, e che tuttavia presentava oggetti di una beffarda
+
+familiarità. La sua prima rivelazione, o piuttosto minaccia di cose ancora
+
+non rivelate, gli giunse quando, dopo aver brancolato lungo un tunnel orizzontale,
+
+cominciò a salire quella che sembrava una scala corrispondente in un
+
+camino corrispondente dall'altra parte. Quando fu a metà di questo
+
+tunnel verticale, l'uomo che lo precedeva si voltò e disse con tono basso e
+
+roco: «Resta dove sei un momento. Vado avanti a dare un'occhiata; con me
+
+non si allarmeranno».
+
+Rimase appeso alla scala guardando in alto verso un pallido disco di luce
+
+simile alla [[Moon|luna]] stessa, che mostrava l'apertura del [[Well|pozzo]]. Un momento
+
+dopo il disco si oscurò, cancellato come dal coperchio che aveva chiuso
+
+il foro corrispondente, ma scrutando in su attraverso la penombra gli parve che
+
+ci fosse qualcosa di curioso in quel particolare tappo. Accese di scatto la
+
+torcia elettrica e per poco non cadde dalla scala. Perché l'apertura era
+
+riempita da un volto che lo fissava dall'alto e ghignava come un folletto: un
+
+volto a forma di rapa con occhiali verdi che riconobbe all'istante come
+
+quello del professor Phocus. E il professor Phocus disse, con l'orribile
+
+nitidezza con cui a volte si dicono le cose in [[A Dream|un sogno]]: «Non ci
+
+prenderete così facilmente. Ci basta dire La Parola e il mondo sarà
+
+distrutto».
+
+Poi il tappo [[Grotesque|grottesco]] fu tolto dalla strana bottiglia; il disco
+
+di luce fioca riapparve; e dopo qualche istante di attesa sconcertata,
+
+udì la voce della sua guida che sussurrava dall'orlo.
+
+«Se n'è andato», disse Conrad. «Ora potete salire». Quando salì, fu
+
+per ritrovarsi di nuovo al chiaro di luna e apparentemente da qualche parte
+
+sul retro di Peacock Crescent. Esprime bene lo stordito distacco
+
+dalla vita quotidiana che quelle esperienze avevano in qualche modo prodotto in lui il fatto che
+
+fosse assai sorpreso di vedere i poliziotti, che lui stesso aveva appostato
+
+a sorvegliare il luogo, starsene lì intorno rispondendo compostamente ai segnali
+
+alquanto cospiratori di Conrad.
+
+«Potete entrare in [[house|casa]] tra un minuto», disse Conrad con la stessa voce
+
+bassa. «Faccio solo un salto dentro a vedere che sia tutto a posto, ma sono
+
+sicuro che sono tutti chiusi lì dentro. Portate con voi i vostri uomini, naturalmente».
+
+Si infilò sul retro di una [[house|casa]], che a Grimm parve fosse la [[house|casa]]
+
+accanto alla scena originaria dell'irruzione, e per un po' di [[Time|tempo]] i
+
+poliziotti e il loro capo attesero pazientemente fuori. Avevano appena cominciato a
+
+considerare l'opportunità di seguire il loro solitario condottiero nella tana
+
+dei criminali, quando trattennero il fiato e restarono immobili, fissando
+
+la [[house|casa]].
+
+Una delle tende della [[Window|finestra]] fu tirata su di scatto e alla [[Window|finestra]] apparve
+
+l'inconfondibile volto e figura che la Principessa aveva contemplato sul
+
+tavolino del caffè. Il poeta, [[Sebastian]], stava fissando la [[Moon|luna]], in quello che
+
+si suppone sia il modo dei poeti, con un'aria più florida del solito, con
+
+i suoi fiammanti baffi e basette rossi e una cravatta di un'altra
+
+sfumatura ancora, ardente e romantica. Poi tese il braccio verso la [[Moon|luna]],
+
+con gesto teatrale, e parve mettersi a cantare, o almeno a
+
+parlare in una sorta di [[Song|cantilena]]. Era impossibile concepire qualcosa di più
+
+operistico; nel senso in cui quella parola è quasi sinonimo di
+
+idiota. Ma le parole che salmodiava erano familiari: «Come il serpente di [[Aaron|Aronne]]
+
+inghiottì serpi e verghe, come Dio [[Alone|solo]] è più grande degli dèi, come tutte
+
+le [[Stars|stelle]] si spengono nell'unico sole, le parole sono molte, ma La Parola è
+
+una».
+
+Poi abbassò di scatto la tenda e svanì, mentre la stanza dietro di lui
+
+si faceva buia. Stentavano a credere che l'episodio, e per giunta un episodio
+
+così insensato, fosse davvero accaduto.
+
+Un attimo dopo si accorsero che il loro inquietante amico
+
+cospiratore si era di nuovo avvicinato a loro in completo [[Silence|silenzio]] e stava
+
+sussurrando: «Ora potete entrare e acciuffarli tutti».
+
+Grimm, alla testa dei suoi flemmatici poliziotti, salì pesantemente alcune scale e
+
+percorse uno o due corridoi, arrivando infine in una grande stanza vuota.
+
+Era una stanza piuttosto curiosa, con un tavolo al centro, quattro
+
+sedie e quattro blocchi di carta assorbente, come disposti per un regolare
+
+comitato. Ma ciò che era assai più curioso era questo: che in ciascuna delle
+
+quattro pareti della stanza era incassata una porta, con un vecchio battente
+
+d'ottone, come se fossero i quattro portoni d'ingresso di case separate. Ciascuna di
+
+esse recava una scritta a grandi lettere; una diceva «Professor
+
+Phocus», un'altra «Generale Case», una terza «Mr. Loeb», e una quarta semplicemente
+
+«[[Sebastian]]», con quel magnifico svolazzo con cui i poeti stranieri
+
+firmano un solo nome. «È qui che vivono», disse John Conrad, «e vi
+
+prometto che non scapperanno».
+
+Poi dopo una pausa aggiunse: «Ma prima di andarli a stanare nelle loro
 
 
 
@@ -29668,6 +35829,191 @@ it is to bamboozle a really enlightened, educated modern town, used to
 newspapers and all that. It was only necessary for each person to have a
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Suite separate, ho qualcosa da dirti.
+
+Vorrei parlarti di “La Parola”.
+
+“Suppongo,” disse l’ufficiale con aria cupa, “che ci verrà permesso di ascoltare…”
+
+“The Word too… anche se qualcuno mi ha appena detto che distruggerà tutto.”
+
+“Mondo.”
+
+“Non credo che distruggerà il mondo”, rispose Conrad con serietà. “Io…”
+
+Si spera che possa piuttosto ricrearlo.
+
+“Allora,” disse Grimm, “posso dedurre che quando conosceremo davvero quella Parola…”
+
+“Non troverò nemmeno questo uno scherzo.”
+
+“In un certo senso è una barzelletta,” rispose l’altro. “In un certo senso, quando…”
+
+#Lo sai, capirai che è solo uno scherzo… Ma l’ironia sta nel fatto che tu lo sai già.
+
+Già.”
+
+“Sono sicuro di non capire cosa intendi dire,” rispose l’altro.
+
+“Avete ascoltato la Parola venti volte,” disse Conrad.
+
+“L’hai sentito solo dieci minuti fa… Abbiamo gridato e urlato quella Parola.”
+
+Sempre, in ogni momento, lo ha fatto in modo chiaro e evidente, come un cartello appeso al muro.
+
+Il vero segreto di questa cospirazione si riassume in una sola parola… solo che noi non l’abbiamo ancora capita.
+
+Non lo tenne mai segreto.
+
+Grimm lo fissava con occhi scintillanti sotto le sue folte sopracciglia…
+
+Un certo sospetto iniziava ad apparire sul suo volto… Conrad ripeté quelle parole.
+
+“Molto seriamente, con un tono lento e grave, pronunciò queste parole: ‘Come tutti…’”
+
+Le [[Stars|stelle]] appassiscono sotto il sole unico.
+
+Grimm balzò in piedi imprecando e corse verso la porta.
+
+Etichettato “[[Sebastian]]”.
+
+“Sì, hai capito,” disse Conrad sorridendo. “È solo una questione di…”
+
+#Quale parola si scrive in corsivo… O, se preferisci, di quale parola si inizia con una lettera maiuscola…
+
+Lettera maiuscola.
+
+“Ci sono molte parole,” mormorò Grimm, mentre cercava di aprire la porta.
+
+“Sì,” rispose l’altro, “ma la parola è ‘Uno’.” Il colonnello Grimm esclamò…
+
+# Aprì la porta dell’appartamento del poeta e scoprì che…
+
+Cupboard. Era un semplice armadio piatto, con solo alcune grucce per cappelli.
+
+# E da questi pendevano una parrucca rossa, una barba postica rossa, un fazzoletto…
+
+I colori sgargianti del pavone e tutti gli aspetti esteriori tipici di quel poeta popolare.
+
+“Tutta la [[history|storia]] della grande rivoluzione,” continuò John Conrad, nel.
+
+Titolo:  
+Il tono calmo di un docente: “L’intero metodo attraverso il quale fu possibile…”
+
+“Una minaccia per lo Stato di Pavonia… e sempre lo è stato.”
+
+Riassunto in una sola parola: una parola che ripetevo costantemente, ma una parola che…
+
+Non l'avresti mai indovinato. È la parola “Uno”.
+
+Si allontanò dal tavolo e si diresse verso la porta, seguendo un angolo retto rispetto a quella aperta.
+
+La porta su cui era inciso il nome di [[The Professor|il Professore]]; la spalancò.
+
+“Rivelò un altro armadio, in cui una gruccia per cappelli sosteneva… qualcosa di innaturale.”
+
+# Un cappello stretto e alto, un impermeabile fatiscente e una maschera rigonfia…
+
+Un paio di occhiali verdi.
+
+"#Appartamenti lussuosi del celebre Professore Phocus"
+
+“Disse: ‘Devo spiegarvi che non è mai esistito alcun Professore?’”
+
+Phocus? – tranne me, naturalmente, che mi proclamavo [[The Professor|il Professore]]. In.
+
+Il caso di Loeb e Case… Correvo un rischio maggiore, perché loro erano…
+
+Erano persone reali.
+
+Si fermò per un momento, strofinandosi il lungo mento, poi disse: “Ma è strano…”
+
+#Come gli astuti poliziotti commettono errori semplicemente non credendo ciecamente a ciò che vedono
+
+#Raccontato. Hai detto che tutti i popoli di Pavonia debbano essere addestrati…
+
+#Meravigliosa congiura; semplicemente perché negavano l’esistenza di essa
+
+Conspirazione… Tutti erano d’accordo su questo; quindi hai pensato che si trattasse di una cospirazione.
+
+# In sé stessi… Di fatto, non sapevano nulla, perché non esisteva nulla.
+
+“Niente da sapere… Lo stesso valeva per le vostre relazioni internazionali… Vecchio.”
+
+Il Generale Case continuava a ripetere di essere vecchio e malato…
+
+In pensione. E infatti lo è: si trova in una pensione così totale che…
+
+#Non ha nemmeno sentito dire che vaga per le strade di Pavonia…
+
+#In uniforme completo… Ma non gli credereste mai, perché…
+
+#Non crederei mai a nessuno… Anche la principessa stessa ha detto che quel poeta sembrava davvero…
+
+“Le sue basette viola erano dipinte e artificiali… E questo avrebbe già detto molto.”
+
+“Se solo l’aveste ascoltata, avreste conosciuto tutta la storia… Allora tutti dissero…”
+
+Anche lo stesso [[King|Re]], quel vecchio usuraio di nome Loeb, era morto. E così.
+
+#Era già morto… Morì molti anni prima che iniziassi a impersonarlo con queste piccole cose.
+
+“Gli ornamenti.”
+
+# E aprì un altro armadio, rivelando all’interno uno spazio polveroso e decorato con…
+
+Come se fossero coperti di ragnatele, con quelle barbe grigie e quegli abiti logori di colore grigio…
+
+Attribuito al avaro, “Quello fu l’inizio di tutta questa storia.”
+
+Il vecchio Loeb aveva davvero acquistato questa [[house|casa]] in modo privato, ma per scopi estremamente personali.
+
+#Motivi… non esattamente nati da un puro spirito pubblico; no. In realtà, erano motivi personali.
+
+Servitore… essendo giunto a quel tipo di servizio… l’unica cosa che posso fare è…
+
+Ereditato dal regno di quel vecchio furfante… l’unica cosa che non ho inventato io stesso.
+
+Il passaggio sotterraneo che aveva costruito per me stesso…
+
+#Se stesso. Come dico, non c’erano ideali politici coinvolti in tutto ciò… strano.
+
+Un po' come facevano quelle signore, insomma. Lui non era certo un gentiluomo anziano perbene. [[Well|Beh]].
+
+# Non so se riuscirete a comprendere la sottile natura dei miei sentimenti…
+
+Ma, nonostante fossi affamato e pronto a diventare uno “scavenger”, ci vollero comunque tre anni…
+
+“Al servizio di un usuraio sensuale… mi ha lasciato in una situazione piuttosto rivoluzionaria.”
+
+Lo stato d’animo… Mi sembrava che il mondo, visto da quel punto di vista…
+
+Quel particolare canale fognario, per via di quel particolare spazzino, era davvero un posto orribile.
+
+#Una rivoluzione personale
+
+#Rivoluzione. Era davvero molto semplice, se si procedeva con calma e metodo.
+
+Poco tatto e [[Imagination|immaginazione]]. Ho creato i personaggi di quattro persone piuttosto.
+
+Uomini pubblici diversi… due di loro addirittura immaginari. Non avete mai visto due persone del genere.
+
+# Nello stesso istante, e tu non te ne sei mai accorto… Quando erano…
+
+#Solo uno doveva partecipare…
+
+# Mascheramenti uno dopo l’altro… e si agisce, per così dire, dietro le quinte.
+
+Il passaggio sotterraneo… tanto che sembravano apparire uno dopo l’altro.
+
+“Un altro… in modo rilassato. Per il resto, non hai idea di quanto sia facile.”
+
+#Ingannare una città moderna, davvero illuminata ed educata… abituata a non essere ingannata.
+
+Giornali e tutto il resto… Era sufficiente che ognuno ne avesse uno.
+
 
 
 <span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_03" data-title="FourFaultlessFelons — VI The Speaking Of The Word (part 3)" data-chapter="VI The Speaking Of The Word" data-kind="excerpt" data-tags="archetype/king,motif/time,concept/history,concept/honour,concept/wonder,form/history,setting/germany,character/sebastian"></span>
@@ -29769,6 +36115,105 @@ purely personal [[Honour|honour]], but there was a rumour that his niece had a g
 
 deal to do with it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una vasta e vaga reputazione… più o meno estranea alla realtà. Quando il Professore Phocus scrisse…
+
+Letterati che scrivono sui giornali, con metà dell’alfabeto dopo il loro nome…
+
+Nessuno avrebbe ammesso di non aver mai sentito parlare di quel famoso professore.
+
+Phocus. Quando [[Sebastian]] disse di essere il più grande poeta dell’Europa moderna.
+
+Tutti pensavano che dovesse saperlo… E se si prendono tre o quattro nomi…
+
+Al giorno d'oggi, di quel genere, si ha davvero di tutto. Non c’è mai stato un [[Time|momento]] in cui.
+
+[[history|storia]] quando pochi contavano molto, e molti poco.
+
+# Quando i giornali dicono “Il paese è dalla parte del signor Binks”, significa che…
+
+Dietro di lui ci sono circa tre proprietari di giornali. Quando i professori dicono…
+
+“L’opinione dell’Europa ha ormai adottato la teoria del ‘Gollywog’”, significa…
+
+Quattro professori in [[Germany|Germania]] l'hanno accettato. Non appena ho saputo.
+
+“Ho ottenuto il mio milionario e l’uomo di scienza… Sapevo di essere abbastanza al sicuro…”
+
+Il poeta era un piacevole ornamento… ma conoscevo la minaccia rappresentata da ciò che era “straniero”.
+
+“Un generale vi farebbe impazzire tutti… A proposito,” aggiunse.
+
+“Con scuse… non vi ho ancora mostrato gli splendidi appartamenti…”
+
+# Caso generale… ma riguarda soltanto l’uniforme. Il resto è soprattutto…
+
+"#Nero assoluto"
+
+“Esattamente,” disse il Colonnello Grimm con cortesia. “Vi scuso per…”
+
+Mostrando quel nero. E ora, cosa succederà?
+
+Il principale cospiratore sembrava ancora immerso in una sorta di meditazione.
+
+Ultimo ciò che disse fu: “Ebbi l’impressione che tutte le rivoluzioni fossero fallite a causa della tradizione o…”
+
+Disunione tra i rivoluzionari. Decisi che gli altri non dovessero…
+
+Traduci il titolo in italiano: “Traditemi… Non avrei mai immaginato di poter tradire gli altri… Ma dopo…”
+
+Titolo:  
+Tutta questa ribellione si è conclusa anche con tradimento… Colonnello Grimm, mi arrendo.
+
+I miei complici. Il grande poeta [[Sebastian]] è stato catturato e impiccato.
+
+Il grande soldato Case viene catturato e impiccato; Phocus e Loeb vengono anch’essi catturati.
+
+e vennero impiccati. Si possono vedere ancora appesi ai ganci per cappelli.
+
+Poi aggiunse, con un inchino di profonda umiltà: “Ma il loro umile strumento…”
+
+John Conrad ha ricevuto il perdono del [[King|Re]].
+
+#Di nuovo Grimm si alzò in piedi, lanciando una maledizione che rimbombò nell’aria…
+
+Diventò una risata. Poi disse: “John Conrad, sei un diavolo, ma…”
+
+Non dovresti [[Wonder|chiederti]] se alla fine ci sei riuscito. Forse Clovis il Terzo potrebbe.
+
+Si è dimenticato che lui sia ancora un [[King|re]], ma da qualche parte nel suo cuore.
+
+“Memorie… ricordi che lui sia ancora un gentiluomo. Vai pure per la tua strada, Grand.”
+
+#Duca di Pavonia; forse conosci la strada da seguire! Dopotutto…
+
+# Hai mantenuto la tua parola, hai fatto esattamente ciò che avevi promesso di fare.
+
+A modo suo.
+
+“Sì,” disse Conrad, con una nuova serietà, “è l’unica cosa che abbia davvero valore.”
+
+Chiamando la Parola.
+
+#È già stato spiegato che Pavonia possedeva qualcosa di moderno…
+
+Un governo illuminato; e alla luce di questo fatto, potrebbe sembrare.
+
+# Una richiesta eccessiva alla credulità del lettore… per dire che davvero sia riuscito a mantenere le sue promesse.
+
+# Parola all’eccentrico valletto… I politici e i banchieri facevano…
+
+#Alcune difficoltà… sentendo che mantenere le promesse non debba diventare un ostacolo…
+
+Abitudine. Ma per una volta il [[King|Re]] fu irremovibile, anche se con qualche esitazione.
+
+Il lontano suono delle antiche staffe e della [[Sword|_spada]]. Disse che rappresentava un punto importante.
+
+Un onore puramente personale, ma circolava la voce che sua nipote fosse molto attraente.
+
+Non ha nulla a che fare con essa.
 
 
 
@@ -29908,3 +36353,141 @@ There was a momentary [[Silence|silence]] at the table, and then Dr. Judson turn
 his chair with a sort of jerk and said: "Gentlemen, I beg to propose Mr.
 
 Lee Pinion as a member of the Club."
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Epilogo del tipografo
+
+Il Ladro, lo Stregone, l’Assassino e il Traditore avevano fatto la loro comparsa…
+
+Confessioni di un crimine al signor Pinion del Cometa… in forma più concisa.
+
+Personalmente, queste stesse storie sono state raccontate anche qui. Tuttavia…
+
+Ci volle un tempo abbastanza lungo, dal principio alla fine, e per tutto il corso.
+
+Per tutto quel [[Time|tempo]], il signor Pinion mantenne un atteggiamento di cortese attenzione.
+
+e non era stato interrotto nemmeno da una parola.
+
+Quando ebbero finito, tossì leggermente e disse: “Bene, signori, io, ”
+
+Certo, sono molto interessato alle vostre straordinarie narrazioni… Ma io…
+
+Suppongo che la maggior parte di noi venga un po’ fraintesa nel corso del tempo. Spero.
+
+Signori, vi prego di farmi l’onore di ammettere che non ho pompato.
+
+# Mai ti ho influenzato in alcun modo, né ti ho suggerito nulla… Ma mi sono divertito molto a farlo.
+
+ospitalità senza approfittarne.
+
+“Ne sono sicuro,” disse il dottore con convinzione, “nessuno avrebbe potuto farlo…”
+
+Più paziente e premuroso.
+
+“Chiedo soltanto,” proseguì il signor Pinion con voce gentile, “perché…”
+
+Il mondo dei giornali del mio paese… Lì mi conoscono come il “Feroce Ariete Distruttore”.
+
+Anche il distruttore di case, il cercatore di cuori, e a volte anche come Jack.
+
+Ripper, a causa della mia spietata distruzione dei più sacri [[Secrets|segreti]].
+
+Titolo:  
+Della vita privata. Titoli come “Il presidente tenuto sotto controllo con metodi duri”, o…
+
+‘[[Home|Distruttore di case]] ha preso la testa della segretaria che urlava, ’ sono frasi comuni in.
+
+“Pagine più luminose della mia terra natale… Si racconta ancora la storia di come io…”
+
+# Aggrappato con una gamba al giudice Grogan, mentre questi stava salendo…
+
+“Aeroplano.”
+
+“Beh,” disse il dottore, “devo ammettere che non avrei mai dovuto indovinarlo di te.”
+
+Nessuno avrebbe mai pensato che tu potessi fare una cosa del genere.
+
+“Non l’ho mai fatto,” rispose tranquillamente il signor Pinion. “Io e il giudice Grogan avevamo…”
+
+# Conversazione assolutamente amichevole nella sua residenza nazionale
+
+#Richiesta… Ma ognuno di noi deve mantenere il proprio standard professionale.
+
+La reputazione, che sia quella di un assassino, di un ladro o di un giornalista.
+
+“Volete dire,” intervenne l’uomo grosso, “che in realtà non…”
+
+“Colpire, distruggere o rovinare qualsiasi cosa o persona?”
+
+“Beh, non proprio quanto tu abbia ucciso qualcuno,” rispose l’americano.
+
+“Ma devo ammettere di essere stato terribilmente scortese”, disse con un tono cauto.
+
+Per tutti… altrimenti perderei la mia reputazione professionale e forse anche il mio lavoro.
+
+# Una questione di fatto: di solito riesco ad ottenere qualsiasi cosa desideri semplicemente comportandomi in un certo modo.
+
+“Polite… La mia esperienza mi dice,” aggiunse con tono mite e serio, “che la maggior parte delle persone…”
+
+Sono più che disposti a parlare solo di se stessi.
+
+I quattro uomini intorno a lui si guardarono l’un l’altro, poi scoppiarono a ridere.
+
+“Questa è davvero una situazione che riguarda noi,” disse il dottore. “Senza dubbio, spetta a noi intervenire.”
+
+#Storie che emergono da noi… e fatte con estrema cortesia. Davvero?
+
+In altre parole, se le pubblicaste, dovreste fingere di essere in grado di farlo.
+
+“Devo farlo solo comportandomi in modo scortese?”
+
+“Immagino di sì,” disse il signor Pinion, annuendo seriamente. “Se pubblico la tua storia…”
+
+#Spezzai la porta dell’ambulatorio del dottor Judson mentre lui era…
+
+"#Bandaggiare qualcuno con la gola tagliata, senza permettergli nemmeno di finire..."
+
+#Fino a quando non mi ebbe raccontato tutta la sua storia… Dovevo fingere che il signor Nadoway fosse…
+
+Mentre salivo nella sua auto e ascoltavo le sue opinioni…
+
+# Capital contro Lavoro. Sarei costretto a rubare dal terzo signore…
+
+Distruggere quella casa o rovinare il treno del quarto gentiluomo, o fare qualcosa per dimostrare quanto valgo.
+
+Editor… Sono davvero una giornalista piena di energia e dinamismo. Ovviamente, non c’è mai bisogno che voi facciate nulla…
+
+#Con buone maniere e comunicando con le persone, si possono davvero fare quasi tutte le cose.
+
+“Nei momenti appropriati… O meglio,” e di nuovo trattenne un sorriso.
+
+“lasciandoli parlare con te.”
+
+“Pensi davvero,” chiese l’uomo grosso con aria pensierosa, “che quel tipo di…”
+
+Il sensazionalismo riesce davvero a impressionare il pubblico?
+
+“Non lo so,” disse il giornalista. “Piuttosto penso di no.”
+
+“Deve impressionare l’editore. Ed è proprio a questo che devo pensare.”
+
+“Ma, se mi permettete, non vi dispiace se faccio come voglio io,” insistette l’altro.
+
+"#Non ti dispiace se tutti, dal Maine al Messico, ti chiamano ‘Bloody’?"
+
+Battering-Ram, quando in realtà sei perfettamente normale e ben istruito.
+
+“Signore?”
+
+“Beh,” disse il giornalista, “penso che, come dico sempre, la maggior parte di noi, ”
+
+Comprese male, in un modo o nell'altro.
+
+Ci fu un breve [[Silence|silenzio]] intorno al tavolo, poi il dottor Judson si girò verso di loro.
+
+Spostò la sua sedia con un certo movimento brusco e disse: “Signori, vorrei proporre il signor, ”
+
+Lee Pinion come membro del Club.

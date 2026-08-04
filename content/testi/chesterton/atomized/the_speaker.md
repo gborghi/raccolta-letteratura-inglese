@@ -7439,7 +7439,7 @@ Queste due forme di [[Melancholy|malinconia]] coprono abbastanza [[Well|bene]] l
 
 G. K. C.
 
-Come Non Farlo
+Come non farlo
 
 23 marzo 1901, The Speaker
 

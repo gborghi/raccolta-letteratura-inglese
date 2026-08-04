@@ -62,7 +62,7 @@ Of [[Dust|dust]] and nothing more."
 
 La Lode Della [[Dust|Polvere]]  
 
-G. K. Chesterton  
+G. K. Chesterton
 
 «Che dire della vile [[Dust|polvere]]?» disse il predicatore.  
 E mi parve che il mondo intero si destasse,  
@@ -152,7 +152,7 @@ Of [[Dust|dust]] and nothing more."
 
 La Lode Della [[Dust|Polvere]]  
 
-G. K. Chesterton  
+G. K. Chesterton
 
 «Che dire della vile [[Dust|polvere]]?» disse il predicatore.  
 E mi parve che il mondo intero si destasse,  

@@ -1439,267 +1439,268 @@ Or crack a bottle of fish-sauce
 
 <span class="qlang-split" data-lang="it"></span>
 
-Prodotto da Jana Srna, Bryan Ness e dal Team di Correzione
+Prodotto da Jana Srna, Bryan Ness e l’Online Distributed…
 
-Proofreading Team all'indirizzo http://www.pgdp.net (Questo file è stato
+Proofreading Team at http://www.pgdp.net (This file was
 
-prodotto da immagini generosamente rese disponibili da The
+#Realizzato grazie alle immagini gentilmente concesse da The
 
-Internet Archive/American Libraries.)
+Internet Archive/American Libraries.
 
-[ Note del Trascrittore:
+# Note del trascrittore:
 
-Ogni sforzo è stato compiuto per riprodurre questo testo nel modo più fedele
+È stato fatto ogni sforzo per riprodurre questo testo il più fedelmente possibile.
 
-possibile, comprese le incoerenze nell'ortografia e nella sillabazione;
+Possibile, anche con incongruenze nella grafia e nell’uso dei trattini.
 
-nessuna modifica è stata apportata al testo originale.
+Nessun cambiamento è stato apportato al testo originale.
 
-Il testo in corsivo è stato contrassegnato con _trattini bassi_.
+Il testo in corsivo è stato contrassegnato con _sottolineature_.
 
-Il testo in corsivo grassetto è stato contrassegnato con =segni di uguale=.
+Il testo in grassetto e corsivo è stato contrassegnato con i segni di uguale (=).
 
 ]
 
-VINO, [[Water|ACQUA]] E [[Song|CANTO]]
+Vino, [[Water|acqua]] e [[Song|canto]].
 
-DELLO STESSO AUTORE  
+Lo stesso autore
 
-CHARLES DICKENS
+#Charles Dickens
 
-LA BALLATA DEL [[Horse|CAVALLO]] BIANCO
+La ballata del cavallo bianco
 
-LA LOCANDA VOLANTE
+Il rifugio volante
 
-TUTTO SOMMATO
+Tutto considerato
 
-INEZIE FORMIDABILI
+Cose da nulla
 
-ALLARMI E DIGRESSIONI
+Allarmi e discorsi
 
-UNA MISCELLANEA DI UOMINI
+Un insieme di uomini
 
 VINO, [[Water|ACQUA]]
 
-E [[Song|CANTO]]
+E [[Song|CANZONA]]
 
 BY
 
-G. K. CHESTERTON
+# G. K. Chesterton
 
-TERZA EDIZIONE
+Terza edizione
 
 METHUEN & CO. LTD.
 
-36 ESSEX STREET W.C.
+36 ESSEX STREET, zona W.C.
 
-[[London|LONDRA]]  
+[[London|LONDRA]]
 
-Prima pubblicazione    6 agosto 1915
+Prima pubblicazione: 6 agosto 1915
 
-Seconda edizione      10 agosto 1915
+Seconda edizione – 10 agosto 1915
 
-Terza edizione        23 agosto 1915
+Terza edizione – 23 agosto 1915
 
-NOTA
+Nota
 
-I [[songs|Canti]] di questo libro sono tratti da «LA LOCANDA VOLANTE», con
+Le [[songs|CANZONI]] presenti in questo libro sono tratte da “THE FLYING INN”.
 
-l'eccezione di «Il Buon Ricco» e «Il [[Song|Canto]] dello Strano [[ascetic|Asceta]]»,
+Ad eccezione di “Il buon ricco” e “La [[Song|canzone]] dello strano [[ascetic|asceta]]””.
 
-che sono qui inclusi per gentile concessione del direttore di =The New
+Titolo:  
+Qui inclusi per gentile concessione dell’editore di “The New”
 
-Witness=, dove apparvero originariamente.
+Testimone =, nel luogo in cui sono apparsi per la prima volta.
 
-INDICE  
+INDICE
 
-Pagina
+# Pagina
 
-L'Inglese                             9
+L'inglese                          9
 
-Vino e [[Water|Acqua]]                      11
+Vino e [[Water|Acqua]]                          11
 
-Il [[Song|Canto]] contro i Droghieri        15
+La [[Song|Canzone]] contro i negozi di alimentari             15
 
-La [[Road|Strada]] Inglese [[rolling|Serpeggiante]]        20
+La [[rolling|strada]] inglese [[Road|ripolverosa]]             20
 
-Il [[Song|Canto]] di [[quoodle|Quoodle]]               24
+La [[Song|Canzone]] di [[quoodle|Quoodle]]                          24
 
-Pionieri, o Pionieri                27
+Pionieri, o pionieri                  27
 
-Il [[vegetarian|Vegetariano]] Logico            31
+Il logico [[vegetarian|vegetariano]]                31
 
-«La Testa del Saraceno»             34
+"#La testa del saraceno"                34
 
-Il Buon Ricco                       37
+Il buon ricco                    37
 
-Il [[Song|Canto]] contro i [[songs|Canti]]           42
+La [[Song|Canzone]] contro le altre canzoni                42
 
-Il Mio Cuore                        45
+# Il mio cuore                           45
 
-Il [[Song|Canto]] della Quercia            49
+La [[Song|Canzone]] del Quercio                49
 
-La [[Road|Strada]] per Roundabout          53
+La [[Road|Strada]] che conduce al rondò        53
 
-Il [[Song|Canto]] dello Strano [[ascetic|Asceta]]     57
+La [[Song|Canzone]] dello strano [[ascetic|Asceta]]      57
 
-Il [[Song|Canto]] del Giusto e dell'Ingiusto  60
+La [[Song|Canzone]] del Giusto e dell’Ingiusto          60
 
-Chi Va a [[Home|Casa]]?                   63
+Chi va a [[Home|casa]]?                          63
 
-VINO, [[Water|ACQUA]] E [[Song|CANTO]]
+Vino, [[Water|acqua]] e [[Song|canto]].
 
-L'Inglese  
+L'inglese
 
-San Giorgio era per l'Inghilterra,
+#San Giorgio, protettore d’Inghilterra
 
 E prima di uccidere il drago
 
-Bevve una pinta di birra inglese
+# Bevve una pinta di birra inglese
 
-Da un boccale inglese.
+Dall’imboccatura di un boccale inglese.
 
-Perché, per quanto digiuni di buon grado
+Perché sebbene digiuni con grande facilità…
 
-In cilicio o in cotta di maglia,
+In abiti severi o in uniforme,
 
-Non è prudente dargli focacce
+Non è sicuro dargli dei dolci
 
-Se non gli dai anche birra.
+A meno che non gli dia dell’ale.
 
-San Giorgio era per l'Inghilterra,
+#San Giorgio, protettore d’Inghilterra
 
-E con gran valore liberò
+E così, con grande nobiltà, viene liberato.
 
-La dama lasciata in pasto al drago
+La signora se ne andò per diventare cibo del drago
 
-E legata a un albero;
+Legato a un albero;
 
-Ma poiché stava per l'Inghilterra
+Ma poiché rappresentava l’Inghilterra…
 
-E sapeva che cosa l'Inghilterra significhi,
+# E sapeva cosa significasse l’Inghilterra
 
-Se non gli dai del lardo
+# A meno che non gli dia il bacon
 
 Non devi dargli fagioli.
 
-San Giorgio è per l'Inghilterra,
+#San Giorgio è il protettore d’Inghilterra
 
-E porterà lo scudo che portava
+E porterà lo scudo che un tempo indossò
 
-Quando usciremo in armatura
+# Quando usciamo armati di corazza
 
-Con la [[Cross|croce]] di battaglia dinanzi.
+Con la croce della battaglia davanti a sé.
 
-Ma per quanto sia allegra compagnia
+Ma sebbene sia una compagnia molto piacevole…
 
-E ben lieto di pranzare,
+E molto felice di poter cenare…
 
-Non è prudente dargli noci
+# Non è sicuro dargli noci
 
-Se non gli dai vino.
+A meno che non gli dia del vino.
 
 Vino e [[Water|Acqua]]
 
-Il vecchio Noè aveva un allevamento di struzzi e polli su vastissima scala,
+# Vecchio Noè aveva una fattoria di struzzi e allevava pollame su larga scala
 
-Mangiava l’uovo con un mestolo in un portauovo grande come un secchio,
+# Mangiò l’uovo con un cucchiaio in una ciotola grande quanto un secchio
 
-E la zuppa che prendeva era Zuppa d'Elefante e il pesce che prendeva era Balena,
+#Zuppa d’elefante e pesce balena
 
-Ma tutti erano piccoli rispetto alla cantina che prese quando salpò per navigare,
+Ma tutti sembravano piccoli rispetto alla cantina che aveva preparato prima di partire per il viaggio in mare.
 
-E Noè diceva spesso alla moglie quando si sedeva a cena,
+“E Noè, spesso, quando si sedeva a mangiare con sua moglie…”
 
-«Non m'importa dove vada l'[[Water|acqua]] purché non finisca nel vino».
+“Non mi interessa dove vada l’[[Water|acqua]], purché non finisca nel vino.”
 
-La cateratta della rupe del cielo cadde accecante dall'orlo
+# La cascata accecante della scogliera del cielo si riversò giù dal bordo
 
-Come se volesse spazzar via le [[Stars|stelle]] come la schiuma se ne va giù per un lavandino,
+Come se potesse lavare via le [[Stars|stelle]], proprio come il sapone scivola nello scarico.
 
-I sette cieli precipitarono ruggendo perché le gole dell’inferno bevessero,
+#I sette cieli si abbatterono con fragore sulla gola dell’inferno per bere…
 
-E Noè strizzò l'occhio e disse: «Sembra pioggia, credo,
+“E Noè, guardando con un occhio solo, disse: ‘Sembra che stia per piovere.’”
 
-L’[[Water|acqua]] ha annegato il Cervino profondo come una miniera del Mendip,
+L’[[Water|acqua]] ha sommerso il Monte Bianco fino a raggiungere la profondità di una miniera del Mendip.
 
-Ma non m'importa dove vada l'[[Water|acqua]] purché non finisca nel vino».
+Ma non mi interessa dove vada l’[[Water|acqua]], purché non finisca nel vino.
 
-Ma Noè peccò, e noi abbiamo peccato; su piedi brilli camminammo,
+# Ma Noè ha peccato, e anche noi abbiamo peccato; barcollando sulle gambe instabili, abbiamo commesso errori…
 
-Finché un gran nero astemio ci fu inviato come verga,
+#Finché non ci fu inviato un enorme ubriacone nero per una canna…
 
-E non puoi avere vino a una P.S.A., o cappella, o Eisteddfod,
+# Non si può trovare vino in una P.S.A., in una cappella o durante un Eisteddfod.
 
-Poiché la Maledizione dell’[[Water|Acqua]] è tornata a causa dell’ira di Dio,
+Perché la Maledizione dell’[[Water|Acqua]] è tornata a causa della collera di Dio.
 
-E l'[[Water|acqua]] è sulla mensa del Vescovo e sull'altare del Pensatore Superiore,
+E l’[[Water|acqua]] si trova sulla scacchiera del Vescovo e nel santuario del Pensatore Superiore.
 
-Ma non m'importa dove vada l'[[Water|acqua]] purché non finisca nel vino.
+Ma non mi interessa dove vada l’[[Water|acqua]], purché non finisca nel vino.
 
 La [[Song|Canzone]] contro i Droghieri  
 
-Dio creò il malvagio [[grocer|Droghiere]]
+Dio creò il malvagio [[grocer|Rivenditore di alimenti]].
 
-Per mistero e per segno,
+Per un mistero e un segno
 
-Affinché gli uomini fuggissero le orribili botteghe
+# Per che gli uomini possano evitare quei terribili negozi
 
-E andassero a desinare nelle locande;
+# Andare nelle taverne per mangiare…
 
-Dove il lardo pende dalla trave
+#Dove si trova il bacon sul tetto
 
-E il vino sta nella botte,
+#Il vino è nel legno
 
-E Dio che fece il buon riso
+#E Dio che ha creato la buona risata
 
-Ha veduto che son cose buone.
+Ha visto che sono buoni.
 
-Il [[grocer|Droghiere]] dal cuore malvagio
+Il malvagio [[grocer|Rivenditore di alimenti]]
 
-Chiamerebbe sua madre «Signora»,
+Chiamerebbe sua madre “Signora”.
 
-E le si inchinerebbe e le farebbe riverenze,
+# E inchinandosi davanti a lei…
 
-Per dannare la sua vecchia [[Soul|anima]],
+La sua anziana [[Soul|'anima]] era destinata all'inferno.
 
-E si sfregherebbe le orride mani e chiederebbe
+# E strofinarsi quelle mani orribili, chiedendo…
 
-Quale fosse il prossimo articolo,
+# Quale articolo veniva dopo?
 
-Benché =mortis in articulo=
+# Perita nell’atto stesso
 
-Dovrebbe essere il suo giusto motto.
+Dovrebbe essere il testo originale suo.
 
-I suoi sostegni non sono i suoi figli,
+I suoi oggetti personali non sono i suoi figli.
 
-Ma sfacciati garzoni malpagati,
+Ma i ragazzi vivaci vengono pagati troppo poco.
 
-Che gridano «Cassa!» e sbatacchiano in giro
+Chi grida “Denaro!” e fa tutto un trambusto
 
-Per esercitare il suo malvagio traffico;
+Per esercitare la sua malvagia attività…
 
-Tiene una dama in una gabbia
+# Tenne una donna in gabbia
 
-Con gran crudeltà tutto il giorno,
+“La parte più crudele di tutta la giornata…”
 
-E la fa contare e la chiama «Signorina»
+E la fa contare, chiamandola “Signorina”.
 
-Finché ella non si spegne.
+Fino a quando non svanirà.
 
-Le menti rette dei locandieri
+Le menti rette degli ostieri
 
-Li inducono di quando in quando
+# Inducili di tanto in tanto
 
-A stappare una bottiglia con un amico
+# Rompere una bottiglia con un amico
 
-O a offrire da bere agli squattrinati,
+O trattare gli uomini senza denaro…
 
-Ma chi ha mai veduto il [[grocer|Droghiere]]
+Ma chi ha mai visto il [[grocer|Rivenditore di alimentari]]?
 
-Offrire i suoi tè alle domestiche
+#"Trattare le cameriere con il suo tè"
 
-O stappare una bottiglia di salsa di pesce
+# Mai aprire una bottiglia di salsa di pesce
 
 
 
@@ -1983,7 +1984,7 @@ I am silent on a bally peak in Darien;
 
 <span class="qlang-split" data-lang="it"></span>
 
-O pagare a un uomo un [[cheese|formaggio]]?
+O offrire a un uomo un [[cheese|formaggio]]?
 
 Ci vende le sabbie d'Arabia
 
@@ -1993,7 +1994,7 @@ Spazza la sua bottega e vende la [[Dust|polvere]]
 
 Il sale più puro della città,
 
-Rimpinza di scatole di carne avvelenata
+Rimpinza di lattine di carne avvelenata
 
 I poveri sudditi del [[King|Re]],
 
@@ -2007,15 +2008,15 @@ In liquori e in vino,
 
 Non francamente e in compagnia
 
-Come gli uomini desinano nelle locande;
+Come gli uomini cenano nelle locande;
 
-Ma stipato tra sapone e sardine
+Ma impacchettato con sapone e sardine
 
-E portato via da staffieri,
+E portato via da stallieri,
 
 Per essere afferrato dalle Duchesse
 
-E bevuto nei camerini.
+E bevuto negli spogliatoi.
 
 Il [[grocer|Droghiere]] istruito dall'inferno
 
@@ -2023,11 +2024,11 @@ Ha un tempio fatto di latta,
 
 E la rovina dei buoni locandieri
 
-Vi è ad alta voce perorata;
+Vi è rumorosamente perorata;
 
 Ma ora la sabbia sta scorrendo via
 
-Da uno zucchero d’un certo tipo,
+Da uno zucchero di dubbia specie,
 
 Il [[grocer|Droghiere]] trema; poiché il suo [[Time|tempo]],
 
@@ -2037,13 +2038,13 @@ La [[rolling|Tortuosa]] [[Road|Strada]] Inglese
 
 Prima che il Romano giungesse a Rye o s'inoltrasse verso il Severn,
 
-l'[[rolling|ondeggiante]] ubriacone inglese fece l'[[rolling|ondeggiante]] [[Road|strada]] inglese.
+L'[[rolling|ondeggiante]] ubriacone inglese fece l'[[rolling|ondeggiante]] [[Road|strada]] inglese.
 
-Una [[Road|strada]] barcollante, una [[rolling|ondeggiante]] [[Road|strada]], che vaga per la contea,
+Una [[Road|strada]] barcollante, una [[Road|strada]] [[rolling|ondeggiante]], che vagabonda per la contea,
 
 E dietro a lui corsero il parroco, il sagrestano e lo squire;
 
-Una [[Road|strada]] allegra, una [[Road|strada]] labirintica, e tale quale calpestammo
+Una [[Road|strada]] allegra, una [[Road|strada]] labirintica, e tale quale percorremmo
 
 La [[Night|notte]] in cui andammo a Birmingham passando per Beachy Head.
 
@@ -2051,33 +2052,33 @@ Non sapevo alcun male di Bonaparte e molto dello Squire,
 
 E a combattere il Francese non molto [[Desire|desideravo]];
 
-ma sfondai le loro baionette perché vennero schierati
+Ma sì che pestai le loro baionette perché vennero schierate
 
-a raddrizzare la storta [[Road|strada]] che un ubriacone inglese fece,
+Per raddrizzare la storta [[Road|strada]] che un ubriacone inglese fece,
 
 Dove tu ed io scendemmo per il viottolo coi boccali di birra in mano,
 
-la [[Night|notte]] che andammo a Glastonbury passando per le Goodwin Sands.
+La [[Night|notte]] in cui andammo a Glastonbury passando per i Goodwin Sands.
 
 I suoi peccati gli furono perdonati; o perché i [[Flowers|fiori]] corrono
 
 Dietro di lui; e le siepi tutte irrobustendosi al sole?
 
-La cosa selvaggia andò da sinistra a destra e non sapeva qual era quale,
+La creatura selvaggia andò da sinistra a destra e non sapeva quale fosse quale,
 
-ma la [[Rose|rosa]] selvatica era sopra di lui quando lo trovarono nel fosso.
+Ma la [[Rose|rosa]] selvatica era sopra di lui quando lo trovarono nel fosso.
 
-Dio ci perdoni, né ci induri; non vedemmo così chiaro
+Dio ci perdoni, e non c'indurisca; non vedevamo così chiaro
 
-la [[Night|notte]] che andammo a Bannockburn passando per il Molo di Brighton.
+La [[Night|notte]] in cui andammo a Bannockburn passando per il Brighton Pier.
 
 Amici miei, non vi torneremo né scimmiotteremo un'antica ira,
 
-né a protrarre la follia della gioventù fino a farne la vergogna dell'età,
+Né stireremo la follia della nostra giovinezza a farne l'onta della vecchiaia,
 
-ma percorreremo con occhi e orecchi più limpidi questo sentiero che vagabonda,
+Ma percorreremo con occhi e orecchie più limpidi questo sentiero che vagabonda,
 
-e vedremo, non drogati, nella luce della sera, la decorosa locanda della [[Death|Morte]];
+E vedremo non drogati nella luce della sera la decorosa locanda della [[Death|morte]];
 
 Poiché vi sono ancora buone novelle da udire e belle cose da vedere,
 
@@ -2089,7 +2090,7 @@ Non hanno nasi, loro,
 
 I decaduti figli di Eva;
 
-Anche il profumo delle rose
+Persino l'odore delle rose
 
 Non è ciò che suppongano;
 
@@ -2099,37 +2100,37 @@ E più di quanto gli uomini credano.
 
 Non hanno nasi, loro,
 
-Non riescono nemmeno a dire
+Non sanno nemmeno dire
 
-Quando la porta si chiude e cala l'oscurità
+Quando porta e tenebra racchiudono
 
-Il parco che un ebreo recinì,
+Il parco che un ebreo recinta,
 
-Dove anche la Legge di Mosè
+Dove persino la Legge di Mosè
 
 Ti lascia rubare un odore.
 
 Il brillante odore dell'[[Water|acqua]],
 
-L'audace profumo di una pietra,
+Il fiero odore di una pietra,
 
 L'odore di rugiada e tuono,
 
 Le vecchie ossa sepolte sotto,
 
-# Le cose in cui sbagliano
+Sono cose in cui essi arrancano
 
-E sbagliare, se lasciati [[Alone|soli]].
+E sbagliano, se lasciati [[Alone|soli]].
 
 Il [[Wind|vento]] dalle foreste d'[[Winter|inverno]],
 
-Il profumo dei fiori senza odore [[Flowers|fiori]],
+Il profumo di [[Flowers|fiori]] senza profumo,
 
 Il respiro dell'ornarsi delle spose,
 
-L'odore di trappola e avvertimento,
+L'odore d'insidia e d'avvertimento,
 
-Il profumo della mattina di [[Sunday|domenica]],
+L'odore del mattino di [[Sunday|domenica]],
 
 Dio ci diede come nostri.
 
@@ -2143,7 +2144,7 @@ Non hanno nasi, loro,
 
 Non hanno nasi, loro,
 
-E solo Dio sa
+E soltanto la bontà divina conosce
 
 La Nasomancanza dell'Uomo.
 
@@ -2151,13 +2152,13 @@ Pionieri, o Pionieri
 
 Nabucodonosor il [[King|Re]] dei Giudei
 
-Ha sofferto per idee nuove e originali,
+Soffriva di vedute nuove e originali,
 
 Strisciava su mani e ginocchia, si dice,
 
 Con l'erba in bocca e una [[Crown|corona]] in capo.
 
-Con un wowtyiddly eccetera,
+Con un wowtyiddly, ecc.
 
 Coloro che calcavano i sentieri tradizionali
 
@@ -2165,7 +2166,7 @@ Pensavano che la cosa fosse una maledizione di Dio,
 
 Ma un Pioniere lo si insulta sempre
 
-Come Nabucodonosor, il [[King|Re]] degli Ebrei.
+Come Nabucodonosor il [[King|Re]] dei Giudei.
 
 Il nero Lord Foulon, che il Francese uccise,
 
@@ -2173,9 +2174,9 @@ Pensò fosse una cosa Futurista da fare.
 
 Offrì loro erba invece di pane.
 
-Così lo imbottirono d'erba quando gli tagliarono la testa.
+Così lo rimpinzarono d'erba quando gli tagliarono la testa.
 
-Con un wowtyiddly eccetera,
+Con un wowtyiddly, ecc.
 
 Per l'[[Pride|orgoglio]] della sua [[Soul|anima]] perì allora...
 
@@ -2183,25 +2184,25 @@ Ma naturalmente è sempre di [[Pride|orgoglio]] che gli uomini,
 
 Un Uomo in Anticipo sui Tempi, accusano,
 
-Come Nabucodonosor, il [[King|Re]] degli Ebrei.
+Come Nabucodonosor il [[King|Re]] dei Giudei.
 
 Simeon Scudder di Styx, nel Maine,
 
 Pensò alla cosa e vi si rimise di nuovo.
 
-Dava buon fieno e [[Water|acqua]] nei secchi
+Diede buona erba e [[Water|acqua]] in secchi
 
 A mille Irlandesi che martellavano rotaie.
 
-Con un wowtyiddly eccetera,
+Con un wowtyiddly, ecc.
 
 Gli appetiti differiscono; e legato a un palo
 
 Fu impeciato e impiumato per amor di [[Conscience|Coscienza]].
 
-Ma lapidare i profeti è storia antica,
+Ma lapidare i profeti è cosa antica,
 
-Come Nabucodonosor, il [[King|Re]] degli Ebrei.
+Come Nabucodonosor il [[King|Re]] dei Giudei.
 
 Il [[vegetarian|Vegetariano]] Logico
 
@@ -2223,7 +2224,7 @@ Mi troverai a bere birra come un Bavarese.
 
 Mi troverai a bere gin
 
-Nella più infima delle locande,
+Nella più infima specie di locanda,
 
 Perché sono un rigido [[vegetarian|Vegetariano]].
 
@@ -2243,9 +2244,9 @@ Oh, conoscevo un Dottor Gluck,
 
 E il suo naso aveva un uncino,
 
-E i suoi atteggiamenti erano tutt'altro che ariani;
+E i suoi atteggiamenti erano tutt'altro che Ariani;
 
-Così gli ho dato tutto il prosciutto
+Così gli diedi tutto il maiale
 
 Che avevo, su una forchetta;
 
@@ -2255,7 +2256,7 @@ Sono silenzioso al Circolo,
 
 Sono silenzioso al pub,
 
-Sono silenzioso su una dannata vetta nel Darien;
+Sono silenzioso su una maledetta vetta nel Darien;
 
 
 
@@ -2497,7 +2498,7 @@ Of oak-woods yet to be.
 
 Poiché mi rimpinzo per la vita
 
-Infilare i piselli con un coltello,
+Cacciandomi i piselli con un coltello,
 
 Perché in cuore sono un [[vegetarian|Vegetariano]].
 
@@ -2525,9 +2526,9 @@ Hanno mutato in una sala da tè «La Testa del Saraceno».
 
 «La Testa del Saraceno» venne dall'Arabia,
 
-[[King|Re]] [[Richard]] cavalcando in armi come fiamma,
+[[King|Re]] [[Richard|Riccardo]] cavalcando in armi come fiamma,
 
-e dove stabilì che la sua gente fosse nutrita
+E dove stabilì che la sua gente fosse nutrita
 
 Piantò una lancia... e la Testa del Saraceno.
 
@@ -2553,19 +2554,19 @@ Il signor Mandragon, il Milionario, non voleva né vino né moglie,
 
 Non sopportava la complessità: viveva la Vita Semplice.
 
-Ordinava il pranzo col megafono, in toni virili e semplici,
+Ordinava il pranzo col megafono in toni virili e semplici,
 
-E usava tutte le sue automobili per far campagna fra gli elettori, e venti telefoni;
+E usava tutte le sue automobili per battere gli elettori, e venti telefoni;
 
-Oltre a una graziosa [[Machine|macchinetta]],
+Oltre a un elegante [[Machine|congegno]],
 
-Ingegnosa e linda come mai se ne vide,
+Ingegnoso e lindo come mai se ne vide,
 
-Con cento pulegge e manovelle in mezzo,
+Con cento carrucole e manovelle in mezzo,
 
 Fatto di metallo e tenuto ben pulito,
 
-Per issarlo fuori dal suo salubre letto ogni giorno della sua vita,
+Per issarlo fuori dal salubre letto ogni giorno della sua vita,
 
 E lavarlo e vestirlo e raderlo e spazzolarlo
 
@@ -2573,7 +2574,7 @@ E lavarlo e vestirlo e raderlo e spazzolarlo
 
 Il signor Mandragon era assai raffinato e vestito con quieta eleganza,
 
-Lo dicono tutti i giornali americani che meglio conoscono la raffinatezza;
+Dicono tutti i giornali americani che di raffinatezza s'intendono;
 
 Quieto e lindo il cappello e i capelli e la giacca quieta e linda,
 
@@ -2583,13 +2584,13 @@ E non, come chiunque si aspetterebbe,
 
 Una Pelle di Tigre tutta striata e macchiettata,
 
-E un Cappello a Pavone con la coda eretta,
+E un Cappello di Pavone con la coda eretta,
 
 Una tunica scarlatta adorna di girasoli,
 
 Che avrebbe potuto avere un effetto più marcato,
 
-E allietare l'[[Pride|orgoglio]] di un uomo più debole, bramoso di vino o di moglie;
+E lusingato l'[[Pride|orgoglio]] di un uomo più debole che agognasse vino o moglie;
 
 Ma la Fama e il Boccale, per il signor Mandragon
 
@@ -2609,7 +2610,7 @@ O arso su una bella alta pira di legna,
 
 In una fiamma torreggiante, come s'addice a un pagano,
 
-O persino sedere con noi qui a mensa,
+O persino sedere con noi qui a tavola,
 
 Prendendo allegramente birra da due soldi e maiale con un temperino;
 
@@ -2621,29 +2622,29 @@ Il [[Song|canto]] del dolore di Melisande è un [[Song|canto]] fiacco e un [[Son
 
 La gloria della fattoria di [[Mariana]] era caduta in gran [[Decay|rovina]],
 
-La [[Song|canzone]] del [[The Raven|Corvo]] Mai Più non è mai stata detta una [[Song|canzone]] gaia,
+Il [[Song|canto]] del [[The Raven|Corvo]] Mai Più non è mai stato detto un [[Song|canto]] gaio,
 
-E le cose più luminose in Baudelaire sono tutto fuorché allegre.
+E le cose più luminose in Baudelaire sono tutt'altro che liete.
 
-Ma chi ci scriverà una [[Song|canzone]] da cavallo,
+Ma chi ci scriverà un [[Song|canto]] da cavalcata,
 
-O una [[Song|canzone]] da caccia o una [[Song|canzone]] da bevuta,
+O un [[Song|canto]] di caccia o un [[Song|canto]] da bevuta,
 
 Degno di coloro che si levarono e cavalcarono
 
 Quando il giorno e il vino erano rossi?
 
-Ma portatemi fuori un boccale di chiaretto,
+Ma portatemi fuori un quarto di chiaretto,
 
-E io vi scriverò una [[Song|canzone]] tintinnante,
+E vi scriverò un [[Song|canto]] tintinnante,
 
 Un [[Song|canto]] di guerra e un [[Song|canto]] di vino
 
-E una [[Song|canzone]] da destare i morti.
+E un [[Song|canto]] per svegliare i morti.
 
 Il [[Song|canto]] della furia di Fragolette è un [[Song|canto]] florido e un [[Song|canto]] torrido,
 
-La [[Song|canzone]] del dolore di Tara si canta su un’arpa senza corde,
+Il [[Song|canto]] del dolore di Tara è cantato su un'arpa scordata,
 
 Il [[Song|canto]] dell'allegro Giovane dello Shropshire lo considero un [[Song|canto]] perfettamente orrendo,
 
@@ -2651,19 +2652,19 @@ E il [[Song|canto]] del felice Futurista è un [[Song|canto]] che non si può ca
 
 Ma chi ci scriverà un [[Song|canto]] da cavalcata
 
-O una [[Song|canzone]] da battaglia o una [[Song|canzone]] da bevuta,
+O un [[Song|canto]] di battaglia o un [[Song|canto]] da bevuta,
 
-Degna dei padri tuoi e miei,
+Degno dei padri tuoi e miei,
 
 Che sapevano pensare e prosperare?
 
-Ma la [[Song|canzone]] della [[Beauty|Bellezza]] e dell’Arte e dell’[[Love|Amore]]
+Ma il [[Song|canto]] della [[Beauty|Bellezza]] e dell'Arte e dell'[[Love|Amore]]
 
-È semplicemente una [[Song|canzone]] del tutto puzzolente,
+È semplicemente un [[Song|canto]] del tutto puzzolente,
 
 Da [[Double|piegarti]] in due e trascinarti giù
 
-E dannare la tua [[Soul|anima]] da viva.
+E dannare la tua [[Soul|anima]] viva.
 
 Il Mio Cuore
 
@@ -2699,7 +2700,7 @@ Credono che un aratro sia un cavalletto di tortura, davvero, e che i richiami de
 
 E credono che stiamo bruciando streghe quando bruciamo solo erbacce;
 
-Ma io vengo da Castlepatrick, e il mio cuore è sulla manica;
+Ma vengo da Castlepatrick, e il mio cuore è sulla mia manica;
 
 Ma una dama me lo rubò la Vigilia di San Barnaba.
 
@@ -2709,21 +2710,21 @@ I Druidi agitavano i loro coltelli d'oro
 
 E danzavano intorno alla Quercia
 
-quand'avevano sacrificato un uomo;
+Quando avevano sacrificato un uomo;
 
 Ma per quanto i dotti cerchino e scrutino,
 
-nessuna singola persona moderna può
+Nessuna persona moderna riesce
 
 A cogliere del tutto lo scherzo.
 
-ma benché tagliassero la gola agli uomini
+Ma benché tagliassero la gola agli uomini
 
-non abbatterono l'albero,
+Non tagliavano l'albero,
 
-e dal [[Blood|sangue]] spuntarono i virgulti
+E dal [[Blood|sangue]] germogliarono gli alberelli
 
-dei boschi di quercia ancora a venire.
+Dei querceti ancora a venire.
 
 
 
@@ -3065,63 +3066,63 @@ For there's [[Blood|blood]] on the field and [[Blood|blood]] on the foam
 
 Ma Ivywood, Lord Ivywood,
 
-marcisce l'albero come farebbe l'edera,
+Marcisce l'albero come farebbe l'edera,
 
-s'aggrappa e striscia come farebbe l'edera
+S'aggrappa e striscia come farebbe l'edera
 
-attorno al sacro albero.
+Intorno all'albero sacro.
 
 [[King|Re]] Carlo fuggì dalla battaglia di Worcester
 
-e si nascose in una Quercia;
+E si nascose in una Quercia;
 
-nelle scuole conventuali nessun uomo di tatto
+Nelle scuole di convento nessun uomo di tatto
 
-vorrebbe ripercorrere e lodare ogni suo atto,
+Traccerebbe e loderebbe ogni suo atto,
 
-o sostenere che fosse in realtà
+O sosterrebbe che egli fosse in effetti
 
 Un tipo austero e santificato,
 
-ma non per opera sua i sacri boschi
+Ma non per opera sua i boschi sacri
 
-hanno perduto le loro libere fantasie,
+Hanno perduto le loro libere fantasie,
 
 E benché fosse estremamente grosso
 
-non spezzò l'albero.
+Non spezzò l'albero.
 
 Ma Ivywood, Lord Ivywood,
 
 Spezza l'albero come farebbe l'edera,
 
-e divora i boschi come farebbe l'edera
+E divora i boschi come farebbe l'edera
 
-tra noi e il mare.
+Fra noi e il mare.
 
 Il grande Collingwood scese per la radura
 
-e sparse liberamente le ghiande,
+E sparse le ghiande a manciate,
 
-perché querce fossero ancora nel bosco
+Affinché le querce fossero ancora nel boschetto
 
 Querciose quanto le travi lassù,
 
-quando il grande [[Lover|Amato]] che i marinai [[Love|amano]]
+Quando il grande [[Lover|Amante]] che i marinai [[Love|amano]]
 
-fu baciato dalla [[Death|Morte]] in mare.
+Fu baciato dalla [[Death|Morte]] in mare.
 
-Ma benché per lui cadessero le querce
+Ma benché per lui le querce cadessero
 
-a costruire le navi di quercia,
+Per costruire le navi di quercia,
 
-il boscaiolo venerava ciò che colpiva
+Il boscaiolo venerava ciò che abbatteva
 
-e onorava persino le schegge.
+E onorava persino le schegge.
 
 Ma Ivywood, Lord Ivywood,
 
-odia l'albero come farebbe l'edera,
+Odia l'albero come farebbe l'edera,
 
 Come farebbe il drago dell'edera
 
@@ -3137,93 +3138,93 @@ E spezzò vivo il possente Cinghiale
 
 Oltre il Ponte di Slough;
 
-mosse contro un Verme ripugnante
+Si mosse contro un Ripugnante Verme
 
-che devastava tutte le Downs,
+Che devastava tutte le Downs,
 
-e così le strade si torcono e si contorcono
+E così le strade si torcono e si contorcono
 
-(se mi è concesso il termine)
+(Se mi è concesso il termine)
 
-per il dimenarsi del Verme colpito
+Dal dimenarsi del Verme colpito
 
-che morì in sette borghi.
+Che morì in sette città.
 
-Non vedo prova scientifica
+Non vedo alcuna prova scientifica
 
-che questa idea sia fondata,
+Che quest'idea sia fondata,
 
-e direi che serpeggiavano attorno
+E direi che serpeggiavano attorno
 
-per trovare il borgo di Roundabout,
+Per trovare la città di Roundabout,
 
 L'allegra città di Roundabout,
 
-che fa girare il mondo.
+Che fa girare il mondo.
 
 Alcuni dicono che Robin Goodfellow,
 
 La cui lanterna illumina i prati
 
-(per rubare una frase che Sir Walter Scott
+(Per rubare una frase di cui Sir Walter Scott
 
 In cielo non ha più bisogno),
 
-guidi tale [[Dance|danza]] attorno al luogo dell'incontro
+Tali [[Dance|danze]] intorno al luogo del convegno
 
-che l'[[Lover|amante]] rapito dalla luna conduce;
+Conduce l'[[Lover|amante]] lunatico;
 
 La qual superstizione dovrei respingere
 
 V'è più [[Faith|fede]] in un onesto [[Doubt|dubbio]]
 
-(come Tennyson ha fatto notare)
+(Come ha rilevato Tennyson)
 
-che in quei laidi credi.
+Che in quei laidi credi.
 
-Ma pace e giustizia (san Giovanni)
+Ma pace e giustizia (San Giovanni)
 
-a Roundabout possono baciarsi,
+A Roundabout possono baciarsi,
 
 E poiché è tutto ciò che si trova attorno
 
-al piacevole borgo di Roundabout,
+Alla piacevole città di Roundabout,
 
-le strade semplicemente rimbalzano attorno
+Le strade semplicemente rimbalzano attorno
 
-per scoprire dove esso sia.
+Per scoprire dove sia.
 
 Alcuni dicono che quando Sir Lancillotto
 
-partì in cerca del Graal,
+Partì per trovare il Graal,
 
-il grigio Merlino corrugò le strade
+Il grigio Merlino aggrinzì le strade
 
-nella [[Hope|speranza]] ch'egli fallisse;
+Nella [[Hope|speranza]] che egli fallisse;
 
-tutte le strade riconducevano a Lyonesse
+Tutte le strade riconducevano a Lyonesse
 
 E a Camelot nella Valle,
 
-Non posso dare assenso a questa
+Non posso prestare assenso a questa
 
-stravagante ipotesi,
+Stravagante ipotesi,
 
-il semplice, accorto Britanno respingerà
+Il semplice, accorto Britanno respingerà
 
 Tali dicerie (=Daily Mail=).
 
-Ma nelle vie di Roundabout
+Ma nelle strade di Roundabout
 
-non si trovano fazioni siffatte,
+Non si trovano simili fazioni,
 
 Né teorie da esporre attorno,
 
-né su cui rotolarsi al suolo intorno,
+O su cui rotolarsi per terra attorno,
 
 Nella felice città di Roundabout,
 
-che fa girare il mondo.
+Che fa girare il mondo.
 
 Il [[Song|Canto]] dello Strano [[ascetic|Asceta]]
 
@@ -3307,7 +3308,7 @@ Di coloro che non hanno la [[Faith|fede]],
 
 E non vogliono il divertimento.
 
-Il [[Song|Canto]] del Giusto e dell'Ingiusto  
+Il [[Song|Canto]] del Giusto e dell'Ingiusto
 
 Banchetta col vino o digiuna con l'[[Water|acqua]],
 
@@ -3317,13 +3318,13 @@ Figlio e figlia di Dio Onnipotente
 
 Egli il valoroso, ella la pura;
 
-Se un angelo giù dal cielo
+Se un angelo dal cielo
 
-Ti porta altre cose da bere,
+Ti reca altre cose da bere,
 
 Ringrazialo per le sue gentili premure,
 
-E va' a versarle giù nel lavandino.
+E va' a versarle nel lavandino.
 
 Il tè è come l'Oriente in cui cresce,
 
@@ -3331,7 +3332,7 @@ Un grande giallo Mandarino
 
 Con urbanità di modi
 
-E incoscienza del peccato;
+E inconsapevolezza del peccato;
 
 Tutte le donne, come un harem,
 
@@ -3343,17 +3344,17 @@ E, come tutto l'Oriente in cui cresce,
 
 Il tè, benché Orientale,
 
-È almeno un gentiluomo;
+È perlomeno un gentiluomo;
 
-Il cacao è un mascalzone e un vigliacco,
+Il cacao è un mascalzone e un codardo,
 
 Il cacao è una bestia volgare,
 
-Il cacao è uno scialbo, sleale,
+Il cacao è un ottuso, sleale,
 
-Mendace, strisciante mascalzone e buffone,
+Bugiardo, strisciante mascalzone e buffone,
 
-E può [[Well|ben]] essere grato
+E può assai [[Well|bene]] essere grato
 
 Allo [[Fool|sciocco]] che lo trangugia.
 
@@ -3367,9 +3368,9 @@ Dai beoni della città;
 
 Quando il rosso vino aveva portato rossa rovina
 
-E la [[Death|morte]]-[[Dance|danza]] dei nostri tempi,
+E la [[Dance|danza]] della [[Death|morte]] dei nostri tempi,
 
-il Cielo ci mandò l'[[Water|Acqua]] di Soda
+Il cielo ci mandò l'[[Water|Acqua]] di Soda
 
 Come tormento per i nostri delitti.
 
@@ -3381,15 +3382,15 @@ Gridano nel loro parlamento «Chi va a [[Home|casa]]?»
 
 E non giunge risposta né da arco né da cupola,
 
-poiché nessuno nella [[City|città]] delle tombe va a [[Home|casa]].
+Poiché nessuno nella [[City|città]] delle tombe va a [[Home|casa]].
 
-Eppure costoro periranno e comprenderanno,
+Eppure questi periranno e comprenderanno,
 
-poiché Dio ha pietà di questa grande terra.
+Poiché Dio ha pietà di questa gran terra.
 
 Uomini che sono di nuovo uomini; chi va a [[Home|casa]]?
 
-Campana a stormo e trombettiere! Chi va a [[Home|casa]]?
+Campana a martello e trombettiere! Chi va a [[Home|casa]]?
 
 Poiché c'è [[Blood|sangue]] sul campo e [[Blood|sangue]] sulla schiuma
 

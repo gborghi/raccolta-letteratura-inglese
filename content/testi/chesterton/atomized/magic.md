@@ -3408,6 +3408,229 @@ necessary.
 He is an old-fashioned practitioner, very much of a gentleman and
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prodotto da Suzanne Lybarger, Brian Janes, Melissa Er-Raqabi
+
+# E il team di correzione online distribuita
+
+http://www.pgdp.net
+
+[[Magic|MAGIA]]
+
+In una fantastica [[Comedy|commedia]]
+
+# Illustrazione: G.K. Chesterton
+
+Dalla fotografia
+
+[[Magic|MAGIA]]
+
+In una fantastica [[Comedy|commedia]]
+
+BY
+
+# G.K. Chesterton
+
+G.P. Putnam’s Sons
+
+[[New York]] E [[London|Londra]]
+
+# The Knickerbocker Press
+
+1913
+
+Copyright, 1913
+
+BY
+
+# G.K. Chesterton
+
+La Knickerbocker Press, [[New York]]
+
+I personaggi
+
+Il Duca
+
+# Dottor Grimthorpe
+
+Il reverendo Cyril [[smith|Smith]]
+
+# MORRIS CARLEON
+
+[[Hastings|HASTINGS]], _il segretario del duca_
+
+Il forestiero
+
+Patricia Carleon
+
+#L’azione si svolge nel salotto del Duca.
+
+Nota
+
+#Questa opera teatrale è stata rappresentata sotto la direzione di Kenelm Foss al Teatro…
+
+Little Theatre, [[London|Londra]], il 7 novembre 1913, con la seguente distribuzione:
+
+Il forestiero          Franklin Dyall
+
+Patricia Carleon – Miss Grace Croft
+
+Il reverendo Cyril [[smith|Smith]]     O.P. Heggie
+
+# Dr. Grimthorpe – William Farren
+
+Il Duca                     [[Fred]] Lewis
+
+[[Hastings|HASTINGS]]                     FRANK RANDELL
+
+# Morris Carleon & Lionel Watts
+
+Il preludio
+
+Scena: Una piantagione di giovani alberi sottili, nella nebbia e sotto la pioggia.
+
+# Crepuscolo: alcuni fiori nei boschi evidenziano le chiazze sul terreno
+
+# Tra i gambi
+
+Lo STRANIERO è stato scoperto: si tratta di una figura avvolta in un mantello con cappuccio appuntito.
+
+Il suo costume potrebbe appartenere al mondo moderno o a qualsiasi altro [[Time|epoca]]; in ogni caso.
+
+# Cappuccio conico così calato sulla testa che si vede ben poco…
+
+# Il volto
+
+# Una voce lontana, di una donna, si sente: metà canta, metà recita.
+
+# Parole incomprensibili. La figura incappucciata alza la testa…
+
+Ascolta con interesse. La [[Song|canzone]] si avvicina, e_ PATRICIA CARLEON
+
+_entra. È scura di pelle e snella, con un’espressione sognante.
+
+Sebbene sia vestita in modo artistico, i suoi capelli sono un po’ disordinati…
+
+# In mano ha un ramo spezzato di qualche albero fiorito. Lei lo fa…
+
+Non notare lo sconosciuto… eppure lui l’ha osservata attentamente.
+
+# Interesse… nessun segno. All’improvviso lo percepisce e inizia…
+
+# Back.
+
+PATRICIA. Oh! Chi sei?
+
+Straniero… Ah! Chi sono io? [Inizia a mormorare tra sé, mentre riflette su ciò che è.]
+
+# Con il suo bastone tocca la terra.
+
+#Ho un cappello, ma non per indossarlo;
+
+Indosso una [[Sword|_spada]], ma non per uccidere.
+
+# Sempre con me nella mia borsa
+
+Un mazzo di carte, ma non per giocare.
+
+PATRICIA. Cosa sei? Cosa stai dicendo?
+
+STRANIERO: È la lingua delle fate, o figlia di Eva.
+
+Patricia… Ma non avrei mai pensato che le fate fossero come te. Accidenti, sei anche più alta!
+
+più di quanto lo sia io.
+
+Straniero… Noi siamo ciò che siamo. Ma gli elfi… diventano piccoli.
+
+Non molto grande, quando si mescolavano con i mortali.
+
+Patricia: Intendi dire che sono esseri più grandi di noi.
+
+Straniera… Figlia degli uomini, se vuoi vedere una fata per ciò che realmente è, guarda…
+
+Per la sua testa, sopra tutte le [[Stars|stelle]], e i suoi piedi, tra i pavimenti del.
+
+#Mare… Le vecchie donne vi hanno insegnato che le fate sono troppo piccole per poter…
+
+“Viste… Ma vi dico che le fate sono troppo potenti per essere viste davvero. Perché loro…”
+
+#Gli dèi antichi, di fronte ai quali i giganti sembravano nani. Loro sono…
+
+# Spiriti Elementari… ognuno di loro più grande del mondo intero. E tu…
+
+Cercali nelle ghiande, sui funghi velenosi, e [[Wonder|meravigliati]] di non riuscire mai a trovarli.
+
+loro.
+
+PATRICIA: Ma tu hai la stessa forma e le stesse dimensioni di un uomo.
+
+Straniero: Perché vorrei parlare con una donna.
+
+Patricia. _Con ammirazione… Penso che tu stia crescendo più in alto, vero?_
+
+Parla.
+
+#La scena sembra dissolversi, lasciando il posto a un ambiente diverso…
+
+Titolo:  
+ATTO PRIMO – Il salotto del duca, un ambiente con arredi francesi aperti
+
+Finestre o qualsiasi apertura abbastanza grande da permettere di vedere un [[Garden|giardino]] e una [[house|casa]].
+
+#Piuttosto vicino. È sera, e c’è una luce rossa accesa…
+
+La [[house|casa]] oltre. Il reverendo Cyril Smith è seduto lì, con il cappello in testa.
+
+#Un visitatore al suo fianco… Un giovane uomo…
+
+# Il più alto dei collari da cane della Chiesa Alta e tutte le qualità di…
+
+Fanatico contenuto… Appartiene a quella categoria di socialisti cristiani.
+
+#Prende sul serio il suo sacerdozio. È un uomo onesto, e non…
+
+# Ass._
+
+_Dentro entra il signor [[Hastings|HASTINGS]], con dei documenti in mano._
+
+[[Hastings|HASTINGS]]. Oh, buonasera. Lei è il signor [[smith|Smith]]. [_Pausa._] Voglio dire, lei è davvero lui.
+
+Il Rettore, credo.
+
+[[smith|SMITH]]. Sono il Rettore.
+
+[[Hastings|HASTINGS]]. Sono il segretario del Duca. Sua Grazia mi incarica di dire che.
+
+Spero di vederti molto presto; ma in questo momento è impegnato con il Dottore.
+
+[[smith|SMITH]]. Il Duca è malato?
+
+[[Hastings|HASTINGS]]. [_Ridefinendo._] Oh no. Il Dottore è venuto a chiedergli di aiutare.
+
+Per qualche motivo o altro. Il Duca non si ammala mai.
+
+[[smith|SMITH]]. Il Dottore è con lui adesso?
+
+[[Hastings|HASTINGS]]. In realtà, non lo è. Il Dottore se n’è già andato.
+
+La strada per andare a prendere un documento legato alla sua proposta. Ma non è ancora arrivato lontano.
+
+Da lì si va, come potete vedere. Quella è la sua lampada rossa, all’estremità del suo terreno.
+
+[[smith|SMITH]]. Sì, lo so. Sono molto grato a voi. Aspetterò per tutto il tempo necessario.
+
+Necessario.
+
+[[Hastings|HASTINGS]]. [_Con gioia._] Oh, non passerà molto tempo.
+
+[_Esce._
+
+_[Entra dalle porte del [[Garden|giardino]]_ Il DOTTOR GRIMTHORPE, mentre legge un documento aperto._
+
+#Un praticante all’antica, davvero un vero gentiluomo
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="Magic (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/garden,motif/ghosts,motif/night,motif/well,motif/window,concept/hope,histref/america,setting/america,character/hastings"></span>
@@ -4100,7 +4323,7 @@ del bene a _modo vostro_. Il Dottore rappresenta la tendenza a non bere
 
 affatto; e fa del bene a _modo suo_. Non possiamo essere Antichi Britanni,
 
-sapete.
+bene.
 
 [_Un [[Silence|silenzio]] prolungato e perplesso, come sempre segue le più
 
@@ -4166,7 +4389,7 @@ MORRIS. [_Ridendo._] [[Well|Beh]], piuttosto [[Well|bene]], Duca; e ancor meglio
 
 T. Vandam, immagino. Gestisco le miniere del vecchio giù in Arizona,
 
-sapete.
+bene.
 
 DUCA. [_Scuotendo il capo con aria saggia._] Ah, un uomo molto intraprendente! Metodi
 
@@ -4452,7 +4675,7 @@ avuto la maledetta sfrontatezza di insinuare che un qualche uomo....
 
 DUCA. Oh, non un _uomo_, sapete. Un mago, qualcosa di mitico, sapete
 
-sapete.
+bene.
 
 [[smith|SMITH]]. Non un _uomo_, ma un uomo di medicina.
 
@@ -4841,6 +5064,221 @@ business for a [[King]] is remembering people?
 
 CONJURER. I should say it was remembering which people to remember.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+[[smith|SMITH]]. _Con determinazione._ Sì. Ma sono stelle immobili, fisse nel cielo.
+
+DOTTORE. La luce rossa durerà per tutta la mia [[Time|)vita]].
+
+Duca… Capitale! Capitale… Beh, è come Tennyson. [_Silenzio._] Me ne ricordo.
+
+Quando ero studente universitario.
+
+#La luce rossa scompare; all’inizio nessuno se ne accorge…
+
+Patricia, che indica con entusiasmo.
+
+MORRIS. Che c’è?
+
+PATRICIA. La stella rossa è scomparsa.
+
+MORRIS. Assurdità! [_Corre verso le porte del [[Garden|giardino]]._] Dev’essere solo qualcuno.
+
+# In piedi davanti ad esso… Diciamo, Duca: c’è qualcuno che sta in piedi lì davanti…
+
+[[Garden|giardino]].
+
+PATRICIA. _Con calma_. Ti ho detto che camminava nel [[Garden|giardino]].
+
+MORRIS. Se si tratta di quella tua veggente.
+
+_Scompare nel [[Garden|giardino]], seguito dal DOTTORE._
+
+DUCA. _Sta guardando, _ C’è qualcuno nel [[Garden|jardino]]! Davvero, questa terra.
+
+Campagna.
+
+[_Silenzio._
+
+#MORRIS RIAPORE IN STATO DI RESPIRO AFFANNATO_
+
+#Morris. Un tipo agile, il tuo amico… È scivolato via dalle mie mani come se non esistesse.
+
+[[Shadow|ombra]].
+
+PATRICIA. Ti avevo detto che era un’[[Shadow|ombra]].
+
+MORRIS. Beh, immagino che ci sarà una caccia alle [[Shadow|ombre]]. Ho preso una lanterna.
+
+Duca?
+
+PATRICIA. Oh, non c’è bisogno che vi disturbiate. Verrà se lo chiamo io.
+
+Uscì nel [[Garden|giardino]] e chiamò, con voce semicantata.
+
+Parole incomprensibili, un po' come la [[Song|canzone]] che l'aveva preceduta.
+
+“Entrata… Il semaforo rosso si accende di nuovo; e si sente un leggero suono…”
+
+Di foglie cadute, mescolate dai passi che si avvicinavano. L’uomo incappucciato.
+
+Si vede uno STRANIERO con il cappuccio appuntito fermo fuori dal [[Garden|giardino]].
+
+#Porte_
+
+PATRICIA. Puoi entrare in tutte le porte.
+
+#La figura entra nella stanza
+
+MORRIS. _Chiude le porte del [[Garden|giardino]] alle sue spalle._ Ora, guarda qui, mago.
+
+Ti abbiamo catturato. E sappiamo che sei un truffatore.
+
+[[smith|SMITH]]. [_In silenzio._] Scusate, non credo che lo sappiamo. Perché.
+
+Devo ammettere che anch'io condivido, in parte, l'agnosticismo del Dottore.
+
+MORRIS. [_Emozionato, e quasi ringhiando._] Non sapevo che fossi qui…
+
+I parroci difendevano solo le favole proprie, non quelle altrui.
+
+[[smith|SMITH]]. Io difendo ciò che ogni uomo ha il diritto di avere. Forse.
+
+L’unica cosa a cui ogni uomo ha diritto.
+
+MORRIS. E cos'è quello?
+
+[[smith|SMITH]]. Il vantaggio della [[Doubt|dubbio]]. Anche il tuo padrone, il petrolio.
+
+Un milionario ha il diritto a farlo. E penso che ne abbia bisogno ancora di più.
+
+MORRIS. Non credo ci siano molte [[Doubt|dubbi]] su questa questione, Ministro.
+
+#Ho incontrato abbastanza spesso questo tipo di individuo… il genere di persona che…
+
+# Estrae denaro dalle ragazze dicendo di poter trasformare le pietre in oro
+
+Scomparire.
+
+DOTTORE. _Allo STRANIERO_. Dici di poter far scomparire le pietre?
+
+STRANIERO: Sì. Posso far scomparire le pietre.
+
+# MORRIS. _Credo che tu sia quel tipo di persona tosta che sa come…_
+
+Far scomparire un orologio e una catena.
+
+STRANIERO: Sì; so come far scomparire un orologio e una catena.
+
+#MORRIS. E direi che tu sia davvero bravo a scomparire…
+
+Tu stesso.
+
+STRANIERO: Ho fatto una cosa del genere.
+
+Morris. _Con un sorriso beffardo._ Ora scomparirai, forse?
+
+Straniero. [_Dopo averci pensato…_]. No, penso che sia meglio che io appaia al suo posto. [_Lui…]
+
+# Solleva il cappuccio, rivelando il volto di un uomo dall’aspetto intellettuale
+
+giovane ma piuttosto logoro. Poi si toglie il mantello e lo getta via.
+
+#Apparso in un elegante abito da sera moderno… Avanza lungo la stanza.
+
+“Verso il Duca… tirando fuori l’orologio mentre lo fa…” Buonasera.
+
+Vostra Grazia… temo di essere arrivato un po’ troppo presto per lo spettacolo. Ma…
+
+Questo signore [con un gesto verso MORRIS] sembrava piuttosto impaziente.
+
+affinché potesse iniziare.
+
+DUCA. [_Piuttosto perplesso._] Oh, buonasera… Ma davvero, lei è…
+
+Il, davvero,?
+
+STRANIERO. [_Si inchina._] Sì. Io sono il Mago.
+
+# Risate generali, tranne che da Patricia… Mentre gli altri…
+
+“Si mescola nella conversazione; lo sconosciuto si avvicina a lei.”
+
+STRANIERO. _Molto tristemente, _ Mi dispiace molto di non essere un mago.
+
+Patricia. Vorrei che fossi un ladro, invece.
+
+STRANIERO: Ho commesso un crimine peggiore che rubare?
+
+Patricia… Hai commesso il crimine più crudele che esista, penso.
+
+is.
+
+STRANIERO: E qual è il crimine più crudele?
+
+PATRICIA. Rubare il giocattolo di un [[Child|bambino]].
+
+STRANIERO: E cosa avrei mai potuto rubare?
+
+Patricia. Una favola.
+
+Cortina
+
+Atto II
+
+#La stessa stanza, illuminata ancora più intensamente un’ora dopo…
+
+"#Serata. Da un lato, un tavolo coperto da mazzi di carte, piramidi..."
+
+# Il mago in abito da sera sta in piedi in silenzio…
+
+“Mettendo in atto i suoi trucchi… Il Duca, un po’ più in primo piano…”
+
+_e_ [[Hastings|HASTINGS]] _con diversi documenti_.
+
+[[Hastings|HASTINGS]]. Ci sono solo alcune piccole questioni da risolvere. Ecco i programmi.
+
+L’intrattenimento che Vostra Grazia desiderava… Il signor Carleon vuole assolutamente vederli.
+
+Molto.
+
+Duca. Grazie, grazie. [Prende i programmi.]
+
+[[Hastings|HASTINGS]]. Devo portarle per Vostra Grazia?
+
+DUCA. No, no; non lo dimenticherò, non lo dimenticherò. Ma voi non avete idea di quanto…
+
+“Businesslike, eh? Dobbiamo essere così, sai… [_In tono vago._] So che tu sei…”
+
+# Un po’ socialista… ma vi assicuro che ci sono molte cose da fare…
+
+In campagna, e tutto il resto. Guardate ora come ricordo i volti! Il [[King|Re]].
+
+“Non dimentica mai i volti. _Agita i programmi intorno a sé._ Non dimentico mai.”
+
+Titolo:  
+“Vede il Mago… e lo invita gentilmente ad avvicinarsi”
+
+[[The Professor|Il Professore]], che si esibisce davanti al [[King|Re]], perché.
+
+#Programmi installati – Li vedi sugli caravan, vero?
+
+So che si esibisce davanti al [[King|Re]] quasi ogni [[Night|notte]], immagino.
+
+STREGONE. [_Sorridendo._] A volte lascio che Sua Maestà si prenda una serata libera.
+
+E naturalmente, questo mi ha portato ad interessarmi della più alta nobiltà… Ma
+
+Naturalmente ho già eseguito davanti a ogni sovrano e potente, bianco o…
+
+Nero. Non esisteva mai un mago che non lo avesse.
+
+#Duca… Esatto, esatto! E sicuramente concorderete con me nel dire che il grande…
+
+Per un [[King|Re]], fare affari significa ricordarsi delle persone, vero?
+
+Stregone. Direi che si trattasse più di ricordare quali persone fossero degne di essere ricordate.
 
 
 
@@ -5834,6 +6272,206 @@ blamed old hatchet too.
 DOCTOR. [_With a certain dignity, his social type shining through his
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Davvero, Morris, sei molto scortese. Ed è del tutto ridicolo essere scortesi.
+
+Questo signore stava solo provando qualche trucco da solo in [[Garden|giardino]].
+
+[_Con una certa dignità._] Se c'è stato un errore, è stato mio. Su,
+
+stringetevi la mano, o quel che fanno gli uomini quando si scusano. Non fare lo sciocco. Non
+
+ti trasformerà in una boccia di pesci rossi.
+
+MORRIS. [_Con riluttanza._] [[Well|Beh]], immagino sia così. [_Porgendo la mano._]
+
+Qua la mano. [_Si stringono la mano._] E lei non trasformerà me in una boccia di
+
+pesci rossi, in ogni caso, Professore. Ho sentito dire che quando tirate fuori una
+
+boccia di pesci rossi, di solito sono fettine di carota. È così,
+
+Professore?
+
+PRESTIGIATORE. [_Seccamente._] Sì. [_Tira fuori una boccia di pesci rossi dalle falde
+
+della giacca e gliela mette sotto il naso._] Giudichi lei stesso.
+
+MORRIS. [_In un'eccitazione mostruosa._] Benissimo! Benissimo! Ma io so
+
+come si fa... so come si fa. Avete una calotta di caucciù,
+
+sapete, o un coperchio...
+
+PRESTIGIATORE. Sì.
+
+[_Torna cupo al suo tavolo e ci si siede sopra, prendendo un mazzo
+
+di carte e soppesandolo nella mano._
+
+MORRIS. Ah, quasi tutti i misteri sono abbastanza chiari se si conosce
+
+l'apparato. [_Entrano il_ DOTTORE _e_ [[smith|SMITH]], _parlando con volti [[Grave|gravi]], ma
+
+facendosi silenziosi mentre raggiungono il gruppo._] Vorrei proprio che avessimo tutto il
+
+vecchio apparato di tutti i vecchi Sacerdoti e Profeti dall'inizio del
+
+mondo. Immagino che quasi tutti i vecchi miracoli e roba simile fossero questione
+
+solo di botole e fili.
+
+PRESTIGIATORE. Non la capisco bene. Quale vecchio apparato desidera
+
+tanto?
+
+MORRIS. [_Esplodendo con tutta la frenesia del giovane libero pensatore._]
+
+[[Well|Beh]], signore, voglio proprio quel vecchio apparato che trasformava le verghe in serpenti.
+
+Voglio quei bei congegni, signore, che facevano sgorgare [[Water|acqua]] da una roccia
+
+quando il vecchio Mosè decideva di colpirla. È un peccato che abbiamo perso quei
+
+macchinari. Mi piacerebbe avere qui quei vecchi prestigiatori che si facevano
+
+chiamare Patriarchi e Profeti nella vostra preziosa [[Bible|Bibbia]]...
+
+PATRICIA. Morris, non devi parlare così.
+
+MORRIS. [[Well|Beh]], io non credo nella religione...
+
+DOTTORE. [_A parte._] Zitto, zitto. Nessuno crede nella religione tranne le donne.
+
+PATRICIA. [_Con umorismo._] Credo che questa sia l'occasione giusta per mostrarvi
+
+un altro antico gioco di prestigio.
+
+DOTTORE. E quale sarebbe?
+
+PATRICIA. La Dama che Scompare!
+
+[_Esce_ PATRICIA.
+
+[[smith|SMITH]]. C'è una parte del loro vecchio apparato la cui perdita rimpiango
+
+in modo particolare.
+
+MORRIS. [_Ancora eccitato._] Sì!
+
+[[smith|SMITH]]. L'apparato per scrivere il Libro di Giobbe.
+
+MORRIS. [[Well|Beh]], [[Well|beh]], non sapevano tutto in quei tempi antichi.
+
+[[smith|SMITH]]. No, e in quei tempi antichi sapevano di non saperlo. [_Sognante._]
+
+Dove si troverà la sapienza, e qual è il luogo dell'intelligenza?
+
+PRESTIGIATORE. Da qualche parte in [[America]], credo.
+
+[[smith|SMITH]]. [_Sempre sognante._] L'uomo non ne conosce il prezzo; né essa
+
+si trova nella terra dei viventi. L'abisso dice: non è in me; il
+
+mare dice: non è presso di me. [[Death|Morte]] e distruzione dicono: ne abbiamo
+
+sentito parlare. Dio ne comprende la via ed Egli ne conosce il
+
+luogo. Poiché Egli guarda fino alle estremità della terra e vede sotto
+
+tutto il Cielo. Ma all'uomo ha detto: Ecco, il [[Fear|timore]] del Signore, quella
+
+è sapienza, e allontanarsi dal male è intelligenza. [_Si volta improvvisamente verso
+
+il_ DOTTORE.] Che ne dice come Agnosticismo, dottor Grimthorpe? Che peccato
+
+che quell'apparato sia andato perduto.
+
+MORRIS. [[Well|Beh]], sorridete pure come vi pare, immagino. Ma io dico che il
+
+Prestigiatore qui presente potrebbe essere l'uomo più grande di tutti i benedetti secoli se
+
+solo potesse mostrarci come si facevano quei vecchi Sacri trucchi. Bisogna riconoscere
+
+questo al vecchio Mosè, che era in anticipo sul suo [[Time|tempo]]. Quando faceva
+
+i vecchi trucchi, erano trucchi nuovi. Aveva la presa sul pubblico.
+
+Poteva fare i suoi trucchi davanti a uomini adulti, grandi guerrieri barbuti che
+
+sapevano vincere battaglie e cantare Salmi. Ma questa prestidigitazione moderna è tutta
+
+fuori tempo. Ecco perché la fanno solo con gli scolaretti. Non
+
+c'è un trucco su quel tavolo che io non conosca. Tutto il mestiere è morto e sepolto;
+
+e non è neanche lontanamente soddisfacente. Ma se lui [_indicando il_ PRESTIGIATORE]
+
+ha tirato fuori una boccia di pesci rossi proprio adesso... un vecchio trucco che chiunque potrebbe
+
+do.
+
+PRESTIGIATORE. Oh, sono perfettamente d'accordo. L'apparato è semplicissimo. A
+
+proposito, mi faccia dare un'occhiata a quei suoi pesci rossi, le spiace?
+
+MORRIS. [_Con rabbia._] Non sono un attore prezzolato venuto qui a fare giochi di prestigio. Non
+
+sono qui per fare trucchi ammuffiti; sono qui per smascherarli. Dico che è un
+
+vecchio trucco e...
+
+PRESTIGIATORE. Vero. Ma come diceva lei, non lo mostriamo mai se non agli scolaretti.
+
+MORRIS. E posso chiederle, Professor Abracadabra, o come diavolo si
+
+chiama, chi sarebbe lo scolaretto?
+
+PRESTIGIATORE. Le chiedo scusa. Sua sorella le dirà che qualche volta
+
+mi sbaglio riguardo ai bambini.
+
+MORRIS. Le proibisco di appellarsi a mia sorella.
+
+PRESTIGIATORE. È esattamente ciò che farebbe uno scolaretto.
+
+MORRIS. [_Con una calma improvvisa e pericolosa._] Non sono uno scolaretto,
+
+Professore. Sono un tranquillo uomo d'affari. Ma le dico che nel paese da cui
+
+vengo, la mano di un tranquillo uomo d'affari corre alla tasca posteriore davanti a un
+
+insulto del genere.
+
+PRESTIGIATORE. [_Con ferocia._] Che vada pure alla sua tasca! Credevo che la mano di un
+
+tranquillo uomo d'affari finisse più spesso nella tasca di qualcun altro.
+
+MORRIS. Lei...
+
+[_Porta la mano al fianco. Il_ DOTTORE _gli posa la mano sulla
+
+spalla._
+
+DOTTORE. Signori, credo che stiate entrambi dimenticando voi stessi.
+
+PRESTIGIATORE. Forse. [_Il suo tono sprofonda d'improvviso nella stanchezza._] Chiedo
+
+scusa per ciò che ho detto. Era certamente più di quanto il giovane
+
+gentiluomo meritasse. [_Sospira._] A volte vorrei quasi poter dimenticare
+
+me stesso.
+
+MORRIS. [_Imbronciato, dopo una pausa._] [[Well|Beh]], lo spettacolo sta per
+
+cominciare; e a voi inglesi non piacciono le scenate. Immagino che dovrò seppellire anch'io
+
+la maledetta vecchia ascia di guerra.
+
+DOTTORE. [_Con una certa dignità, il suo tipo sociale che traspare dal suo
+
 
 
 <span class="atom-split" data-atom="part--part_09" data-title="Magic (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/garden,motif/ghosts,motif/moon,motif/silence,motif/time,motif/well,concept/hope,histref/america,setting/america"></span>
@@ -6035,6 +6673,207 @@ science, and you dare to tell me not to inquire!
 
 [[smith|SMITH]]. We only mean that for the moment you might let it [[Alone|alone]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Professione: Il signor Carleon, perdonerà un vecchio che conosceva bene lei…
+
+Caro padre, se dubita che tu stia trattando te stesso con giustizia.
+
+Trattarsi come un indiano d’America, solo perché si è vissuto in quel contesto…
+
+In [[America]]. Ai tempi di mio vecchio amico Huxley, noi della classe media.
+
+Non si credeva nella ragione e in molte altre cose… Ma noi ci credevamo davvero.
+
+Buone maniere… È un peccato se l’aristocrazia non le possiede. A me non piace.
+
+# Ascolto dire che sei un selvaggio e che hai sepolto un tomahawk… Preferirei di gran lunga…
+
+Titolo:  
+“Sentirti dire, come avrebbero detto i tuoi antenati irlandesi, che…”
+
+Avvolgesti la tua [[Sword|_spada]] con la dignità propria di un gentiluomo.
+
+MORRIS. Molto bene. Ho riposto la mia [[Sword|_spada]] con la dignità che si addice a.
+
+Signore.
+
+Congiuratore. E ho riposto la mia [[Sword|_spada]] con la dignità che le è dovuta.
+
+Stregone.
+
+MORRIS. Come fa il Mago a riporre una [[Sword|_spada]] nel suo fodero?
+
+Stregone. Lo ingoia.
+
+DOTTORE. Allora siamo tutti d’accordo sul fatto che non dovranno esserci litigi.
+
+[[smith|SMITH]]. Posso dire una parola? Non sopporto affatto le liti.
+
+Una ragione che va ben oltre i limiti del mio dovere verso la mia attività.
+
+MORRIS. E cos'è quello?
+
+[[smith|SMITH]]. Mi oppongo alle liti, perché interrompono sempre una discussione.
+
+#Posso riportarvi per un momento sull’argomento di cui stavamo parlando? Stavate dicendo che…
+
+Titolo:  
+Questi moderni trucchi di magia non sono altro che gli antichi miracoli, rivisitati in chiave contemporanea.
+
+Una volta scoperto… Ma sicuramente esiste un’altra prospettiva. Quando parliamo…
+
+# Di quando le cose sono false, di solito intendiamo che siano imitazioni di qualcos’altro
+
+Titolo:  
+Cose autentiche… Prendete quel Reynolds laggiù, quello del Duca.
+
+“Nonno bisnonno. _Indica una foto appesa al muro._ Se dovessi dire…”
+
+Era una copia.
+
+#Morris: davvero un uomo amabile… ma credo che tu troveresti in lui qualcosa di particolare.
+
+Chiamiamo questa interruzione di un argomento.
+
+[[smith|SMITH]]. Beh, supponiamo che l'abbia detto davvero, voi non pensereste che intendessi dire.
+
+#Sir Joshua Reynolds non visse mai… Perché dovrebbero i falsi miracoli dimostrarci qualcosa?
+
+Che quei veri Santi e Profeti non siano mai esistiti. Potrebbero esserci magie false, ma.
+
+Anche vera [[Magic|magia]].
+
+#Il Mago Alza la Testa e Ascolta con un’aria Strana
+
+# Intenzionalità
+
+[[smith|SMITH]]. Potrebbero esistere “fantasmi” di ravanello proprio perché ne esistono di veri.
+
+[[Ghosts|fantasmi]]. Forse esistono fate teatrali proprio perché ne esistono di vere.
+
+Fate: Non si può abolire la Banca d’Inghilterra semplicemente indicando un documento falsificato.
+
+Banconota.
+
+Morris. Spero che al [[The Professor|Professore]] piaccia essere chiamato “banconota falsa”.
+
+Conjurer. Quasi quanto essere definito il “prospetto” di qualche azienda americana…
+
+Aziende.
+
+DOTTORE. Signori! Signori!
+
+STREGONE: Mi dispiace.
+
+# MORRIS. Ebbene, prima facciamoci questa discussione, e poi potremo…
+
+Litigheranno dopo. Pulirò questa [[house|casa]] da tutte queste incombenze. Capito?
+
+Ecco, signor [[smith|Smith]], non sto affatto mettendo in dubbio la sua idea di un vero miracolo. Io.
+
+“Dicono, e la scienza conferma, che tutto abbia una causa. La scienza… lo dimostra.”
+
+Scopri quella causa, e prima o poi il tuo vecchio “miracolo” apparirà chiaramente…
+
+# Potente e meschino… Prima o poi la scienza si occuperà anche dei tuoi “rapaci” interessi.
+
+[[Ghosts|fantasmi]]; e vi faranno anche sembrare dei ravanelli se ne prendete qualcuno. Io.
+
+Diciamo.
+
+DOTTORO. _A bassa voce, rivolto a [[smith|SMITH]]._ Non mi piace questo discorso pacifico.
+
+Di tuo. Il ragazzo si sta eccitando troppo.
+
+#Morris. Si dice che il vecchio Reynolds sia vissuto… E la scienza non lo smentisce. [_Lui]
+
+# Si gira eccitato verso la foto… Ma immagino che ora sia morto; e tu…
+
+# Mai risvegliare i tuoi santi e profeti dai morti, se non vuoi riuscirci davvero
+
+Il bisnonno del Duca danzò su quel muro.
+
+#La immagine inizia a dondolarsi leggermente sul muro.
+
+DOTTORE. Ma la immagine si sta muovendo!
+
+# MORRIS. [_Si scatena con rabbia contro il_ STREGONE._] Eri nella stanza…
+
+“Prima di noi… Credi che ci basterà per riuscirci? Puoi fare tutto questo…”
+
+Cavi elettrici.
+
+Conjurer. [Immobile e senza alzare lo sguardo dal tavolo.] Sì, io…
+
+Si potrebbe fare tutto ciò utilizzando dei fili elettrici.
+
+“Morris… E pensavi che non dovesse saperlo.” _Ride, con una risata acuta e stridula_.
+
+[ride.] È proprio in questo modo che quei maledetti spiritisti compiono tutti i loro trucchi.
+
+Dicono che possano far muovere i mobili da soli… Se davvero si muovono, allora…
+
+Lo spostano; e noi vogliamo sapere come.
+
+# Una sedia cade con un leggero rumore.
+
+#MORRIS _quasi barcolla e per un momento fatica a respirare…
+
+# Parole.
+
+#Morris. Tu... perché... tutti sanno che... è una cosa evidente.
+
+Una piastra di legno. Si può utilizzare anche una piastra scorrevole.
+
+Conjurer. [_Senza alzare lo sguardo._] Sì. È possibile farlo utilizzando un sistema scorrevole.
+
+Pianca.
+
+#Il dottore si avvicina a Morris, che si gira verso di lui…
+
+# Parlando con passione di lui.
+
+MORRIS. Avevi ragione, dottore, quando hai menzionato quel colore rosso…
+
+“La tua luce rossa… Quella luce rossa rappresenta la scienza, ma essa finirà per spegnersi.”
+
+Tutte le lanterne dei vostri fantasmi delle rape. È un fuoco che consuma tutto, Dottore.
+
+Ma è il rosso bagliore dell’alba… [_Lo indica con entusiasmo]
+
+# Entusiasmo: I vostri sacerdoti non possono più impedire che quella luce splenda…
+
+# Il suo colore e il suo splendore cambiano così tanto che nemmeno Giosuè potrebbe fermare il sole…
+
+[[Moon|Luna]]. [_Ride su di essa ridendo selvaggiamente._] Beh, una vera fata avvolta in un mantello da folletto si è persa qui.
+
+“Troppo vicino alla luce… un’ora o due fa… e questo lo ha trasformato in qualcosa di ordinario.”
+
+Un pagliaccio della società con cravatta bianca.
+
+_La lampada in fondo al [[Garden|giardino]] diventa blu. Tutti la guardano._
+
+In [[Silence|silenzio]]._
+
+MORRIS. [_Rompendo il [[Silence|silenzio]] con un suono acuto e innaturale._] Aspetta un attimo!
+
+Aspetta un attimo! Ti ho preso! Te la farò pagare… [_Si avvicina di corsa, con passi furiosi.]
+
+# Nella stanza accanto, morde il dito… Hai messo un filo… no, non può essere.
+
+it....
+
+DOTTORE. _Parlando con lui in tono rassicurante._ Beh, proprio in questo momento.
+
+Non c’è bisogno di indagare.
+
+MORRIS. [_Lo affronta con rabbia._] Ti definisci un uomo…
+
+Scienza, e tu osi dirmi di non indagare?
+
+[[smith|SMITH]]. Vogliamo solo dire che, per il momento, potresti lasciarlo [[Alone|da solo]].
 
 
 
@@ -6754,7 +7593,7 @@ DOTTORE. [_A voce bassa ed enfatica._] Sulla mia [[Soul|anima]] viva, credo che
 
 debba essere il Duca.
 
-SIPARIO
+Cortina
 
 ATTO III
 
@@ -6862,7 +7701,7 @@ DOTTORE. [_A voce più bassa._] Che cosa suppone lei?
 
 via dall'abito da sera. Rumina per un breve spazio e poi
 
-parla._
+parli._
 
 PRESTIGIATORE. Dottore, ci sono all'incirca mille ragioni per cui non dovrei
 
@@ -8012,7 +8851,7 @@ durante il quale gli uomini rimasti si agitano e pestano i piedi con grande
 
 irrequietezza. L'oscurità aumenta. Passa molto tempo prima che qualcuno
 
-parla._
+parli._
 
 DOTTORE. [_Bruscamente._] Uomo notevole, quel Prestigiatore. Uomo abile. Uomo
 
@@ -8364,6 +9203,238 @@ times of [[Queen Elizabeth]], whose [[Memory|memory]] is a horror in Ireland sec
 only to that of Cromwell.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+DOTTORE. Davvero, avete raddoppiato la vostra affermazione riguardo all’originalità del vostro lavoro!
+
+[[smith|SMITH]]. È molto più meraviglioso spiegare un miracolo che compiere uno stesso.
+
+Un miracolo. A proposito, qual era la tua spiegazione?
+
+STREGONE: Non ve lo dirò.
+
+[[smith|SMITH]]. [_Inizio._] Davvero? Perché no?
+
+Conjuratore… Perché Dio, i demoni e quell’Immortale Mistero che tu…
+
+Deny è stato in questa stanza fino a [[Night|notte]]. Perché sai che è stato qui.
+
+Perché tu l’hai provato qui. Perché conosci gli spiriti altrettanto bene quanto me.
+
+Fai lo stesso e [[Fear|temili]]li tanto quanto me.
+
+[[smith|SMITH]]. [[Well|Beh]]?
+
+Conjurer. Perché tutto ciò non sarebbe servito a nulla… Se vi raccontassi la menzogna che ho detto…
+
+Morris Carleon riguardo a come ho fatto quel trucco.
+
+[[smith|SMITH]]. [[Well|Beh]]?
+
+Conjurer… Ci si crederebbe davvero, proprio come lui ci credeva. È impossibile non pensarci.
+
+[_indicando la lampada_] come quel trucco potesse essere eseguito in modo naturale. Solo io, [[Alone|da solo]].
+
+Scoprii come si poteva fare, dopo che l’avevo già fatto con la [[Magic|magia]]. Ma se io.
+
+Ti dirò un modo naturale per farlo.
+
+[[smith|SMITH]]. [[Well|Beh]]?.
+
+STREGONE: Mezz’ora dopo che me ne sarò andato da questa [[house|casa]], voi tutti.
+
+Spiegando come era stato fatto.
+
+[Il Mago Stregone si abbottona il mantello e si avvicina a PATRICIA.]
+
+STREGONE: Addio.
+
+PATRICIA: Non dirò addio.
+
+PATRICIA. Sì. Quella favola è davvero finita per sempre.
+
+# Lo guarda con quel vecchio sguardo mistico… È molto difficile.
+
+Affinché una favola possa avere una fine. Se la lasci [[Alone|da sola]], continuerà ad esistere.
+
+“Per sempre… La nostra fiaba è giunta alla fine, nel solo modo possibile per una favola.”
+
+“Una favola può finire… L’unico modo per cui una favola smetta di essere tale è…”
+
+Canto di fate.
+
+STREGONE: Non ti capisco.
+
+Patricia: È diventato realtà.
+
+Cortina
+
+*       *       *       *       *
+
+#Una selezione da…
+
+# Catalogo di_
+
+G.P. Putnam’s Sons
+
+Illustrazione: Marchio dell’editore
+
+Titolo:  
+Catalogo completo inviato
+
+Su richiesta
+
+Nuove commedie
+
+By
+
+Signora Gregory
+
+Gli uomini dei binari – Tutto il [[Moon|luna]] – I cappotti di Damer’s Gold – La moglie di McDonough
+
+# _8^o. Con ritratto in fotogравura. 1,50 dollari a netto. Per posta: 1,65 dollari.
+
+Queste opere teatrali sono state rappresentate con grande [[success|successo]] dalla compagnia Abbey Company, e.
+
+#Ampiamente lodati dal pubblico apprezzativo e da critici entusiasti
+
+Presso di loro prevale uno spirito umoristico di ineguagliata originalità.
+
+Uno dei drammi presenti nella raccolta “Coats” basa la sua trama su…
+
+La rivalità di due editori, ognuno dei quali ha scritto un necrologio
+
+"#La moglie di McDonough": un dialogo ricco di umorismo tagliente."
+
+Un altro dramma presente nel volume è basato su una leggenda…
+
+#Il mostro di fango
+
+Il titolo “Men” si basa su un divertente malinteso tra due persone…
+
+#Le pulizie del camino: l’arguzia e l’assurdità dei dialoghi nella signora…
+
+# Il lato migliore di Gregory: “L’oro di Damer” racconta la storia di un avaro tormentato…
+
+#Dai suoi parenti avidi d’oro… Le loro speranze e i loro piani vengono rovinati da qualcuno
+
+Titolo:  
+Coloro che credevano di essere tra le persone più semplici del mondo… ma che in realtà sconvolgono tutto.
+
+La Saggezza dei Saggi. “La Luna Piena” presenta una piccola [[Comedy|commedia]] che si svolge.
+
+In una stazione ferroviaria irlandese… Il testo si caratterizza per un umorismo originale e particolare.
+
+E un personaggio davvero delizioso, con battute intelligenti e spiritose.
+
+G.P. Putnam’s Sons
+
+[[New York]]     [[London|Londra]]
+
+Titolo:  
+Opere teatrali irlandesi
+
+By
+
+Signora Gregory
+
+Il nome di Lady Gregory è diventato noto in tutta l’[[America]] e le sue opere.
+
+“Un titolo che dovrebbe occupare una nicchia esclusiva in ogni biblioteca… Il signor George Bernard”
+
+[[Shaw]], in un'intervista pubblicata di recente, ha detto che Lady Gregory “è la, ”
+
+La più grande donna irlandese vivente… Anche nelle opere teatrali di Lady Gregory.
+
+Sono permeati da quel profondo [[Love|amore]] per l’Irlanda, che è.
+
+“Incomprensibile per quei tanti furfanti ubriachi dai nomi irlandesi…”
+
+La loro nazionalità non è una scusa per i loro vizi e la loro inutilità.
+
+“Non esistono lusinghe per gli irlandesi: lei descrive gli irlandesi proprio come faceva Molière”.
+
+Scrisse di francesi, possedendo un talento stranamente simile a quello di Molière.
+
+La magia letteraria di Yeats, l’immaginazione vivida di Synge, le cose divertenti.
+
+Il letteralismo, mescolato con il marcato [[Romance|romanticismo]] dei loro imitatori, ha.
+
+Il loro ruolo è stato riconosciuto e hanno ricevuto grandi lodi. Ma nessuno di loro…
+
+#Questi possono competere con Lady Gregory per la qualità della loro universalità.
+
+La migliore [[Beauty|bellezza]] nell’arte di Lady Gregory è la sua spontaneità: non c’è mai nulla di forzato o premeditato in essa.
+
+#Costretta… Ha letto, sognato, studiato, dormito e si è svegliata.
+
+#E ha funzionato… Le grandi idee che le sono venute sono state davvero efficaci.
+
+Cresciuti e allenati fino a diventare davvero eccezionali…
+
+#"Statura": _Chicago Tribune_.
+
+G.P. Putnam’s Sons
+
+[[New York]]     [[London|Londra]]
+
+Opere teatrali sulla storia popolare irlandese
+
+By
+
+Signora Gregory
+
+Prima serie: Le tragedie
+
+# Grania
+
+KINCORA
+
+Dervorgilla
+
+#Seconde Serie: Le tragedie comiche
+
+#I Caravanieri
+
+#La coccarda bianca
+
+Il Messaggero
+
+# 2 volumi. Ogni volume costa 1,50 dollari al netto; per la spedizione via posta, il costo è di 1,65 dollari.
+
+# Lady Gregory ha scelto di perseguire i suoi interessi personali piuttosto che seguire la tradizione
+
+Si rivolgeva più alla [[history|storia]] popolare che alle versioni stampate ufficiali, e lei.
+
+#Riuscendo così a rendere le sue opere teatrali più vivide e realistiche, uno di questi…
+
+#Kincora#, la storia di Brian Boru che regnò nell’anno 1000
+
+# Un grande interesse locale che spinse un vecchio contadino a viaggiare da…
+
+Nel quartiere di Kincora, per vederlo rappresentato a Dublino.
+
+#La storia di Grania, su cui Lady Gregory ha basato una delle sue opere
+
+Titolo:  
+Le azioni e i comportamenti descritti derivavano interamente dalla tradizione. Grania era una giovane donna bellissima…
+
+Donna che avrebbe dovuto sposare Finn, il grande leader…
+
+I Feniani. Ma prima del [[Marriage|matrimonio]], lei se ne andò dal fidanzato con.
+
+Il suo affascinante giovane cugino, Diarmuid… Dopo molti anni, quando Diarmuid…
+
+Dopo che lui era morto (e Finn aveva avuto un ruolo nella sua [[Death|morte]]), lei tornò da Finn e.
+
+divenne la sua [[Queen|regina]].
+
+Un’altra delle opere teatrali di Lady Gregory, *I Canavans*, trattava di tempeste e situazioni turbolente…
+
+Ai tempi di [[Queen Elizabeth|Regina Elisabetta]], la cui [[Memory|memoria]] rappresenta un vero orrore in Irlanda.
+
+Solo a quello di Cromwell.
+
 
 
 <span class="atom-split" data-atom="part--part_16" data-title="Magic (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="archetype/king,motif/crown,concept/beauty,concept/history,concept/union,form/history,form/tragedy,histref/america,setting/america,setting/london,setting/new_york,character/henry_viii,character/kent"></span>
@@ -8470,3 +9541,109 @@ individualized and a just balance is preserved in the action."--_The
 Outlook, [[New York]]._
 
 [[New York]]   G.P. Putnam's Sons   [[London]]
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+=L’Ordine della Croce Bianca= ha origine dalla tradizione secondo cui il re [[King|Giacomo]] riuscì a fuggire.
+
+Dall’Irlanda, dopo la battaglia del Boyne, in un barile di vino.
+
+La scelta della storia popolare invece di quella scritta conferisce una sensazione di freschezza.
+
+Titolo:  
+Sui metodi di trattamento e sull’elasticità dei materiali utilizzati dal compianto J.M. Synge
+
+# Il metodo di Lady Gregory ha riaperto la possibilità…
+
+scrivere opere teatrali storiche.
+
+Tutti questi drammi, ad eccezione di *Grania*, che non è ancora stato messo in scena, sono stati…
+
+#Rappresentati con grande successo in Irlanda… Scritti nel dialetto locale.
+
+# Di Kiltartan, che ormai era diventato familiare ai leader di Lady…
+
+I libri di Gregory.
+
+G.P. Putnam’s Sons
+
+[[New York]]     [[London|Londra]]
+
+# Drammi di importanza
+
+#Opere teatrali
+
+La scatola d’argento – Gioia – Conflitto
+
+#John Galsworthy
+
+Autore di “La casa di campagna”, ecc.
+
+[[Crown]] 8° edizione. 1,35 dollari a netto.
+
+Con il consenso generale, questa settimana [[London|Londra]] ha assistito a uno spettacolo di grande serietà.
+
+Importanza: un tema mai affrontato da alcun altro libro o dramma della stagione.
+
+#“La Lotta” di John Galsworthy: considerato non solo…
+
+# Un notevole documento sociale di grande rilevanza… ma anche come opera creativa…
+
+#Un realismo estremamente moderno, ma che rimane classico per la sua evidente qualità artistica
+
+e l’[[philosophy|filosofia]] elevata. La pièce mostra i tipi degli uomini più forti come.
+
+Vittime di eventi comici e di uomini più deboli… Sarà prodotto in…
+
+[[America]], dove, grazie al suo trattamento realistico dell’argomento.
+
+“Un'azione di [[Union|unione]] sindacale sicuramente susciterà grande scalpore.” – Trasmissione speciale via cavo per.
+
+# N.Y. Times.
+
+La monaca di [[Kent]]
+
+Un dramma
+
+# Per grazia di Denio Litchfield
+
+Autore di “Baldur il Bello”, ecc.
+
+[[Crown|Corona]] 8° edizione. 1,00 dollari a netto.
+
+#In questa drammaturgia, gli elementi essenziali della scrittura teatrale vengono raramente rispettati
+
+#Mescolato… La base di questa commedia emozionante è un episodio patetico
+
+Come descritto in [[Henry VIII|Enrico VIII]] di Froude.
+
+#"Le righe di questo poema, sebbene piene di riflessione, sono anche caratterizzate da..."
+
+Fervore e [[Beauty|bellezza]]. La forza di questa opera si concentra su pochi elementi.
+
+Personaggi, “La monaca di [[Kent]]” può essere descritta come una figura affascinante.
+
+"Storia drammatica." -- _Baltimore News_.
+
+Yzdra
+
+[[Tragedy|Tragedia]] in tre atti
+
+# Il lavoro di Louis V. Ledoux
+
+[[Crown|Corona]] 8° edizione. Rilegato in tela. Prezzo netto: 1,25 dollari.
+
+#In questa drammaturgia convivono grazia e forza
+
+Il movimento e lo spirito necessari per una performance teatrale… Alcuni di essi.
+
+Le figure utilizzate sono straordinarie e belle, assolutamente prive di eccessi.
+
+A volte quasi ascetici nella loro moderazione… I personaggi sono chiaramente…
+
+"#Individualizzazione e un equilibrio giusto vengono mantenuti nell’azione." -- _The"
+
+Outlook, [[New York]]._
+
+[[New York]]   G.P. Putnam’s Sons   [[London|Londra]]

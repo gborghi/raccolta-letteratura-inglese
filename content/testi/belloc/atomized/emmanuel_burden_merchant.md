@@ -2433,6 +2433,78 @@ ENDNOTES.
 1 The phrase used by “Asterisk” in the Daily American of April 9th has no meaning. Very Rev., Very Honourable, are titles that cannot exist in combination. As to the “Most”: “Most Honourable, Most Rev.,” of “Clara,” in the Evenudg German, it is not impossible, but is here inaccurate. His Lordship is not a marquis, nor has he any intention of ascending the steps of the Archiepiscopal throne.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XII
+
+Il frontespizio originale: Un ritratto schizzato di Emmanuel Burden, realizzato da [[G. K. Chesterton]].
+
+TO
+
+Herbert A. L. Fisher
+
+Introduzione
+
+Sebbene oggi nessun cittadino di rilievo possa essere autorizzato ad “oltrepassare il velo” senza che venga redatto un resoconto della sua vita per la posterità, libri di questo genere sono diventati così comuni negli ultimi tempi che potrebbe benissimo sorgere la necessità di pubblicare nuove biografie.
+
+La posizione pubblica di Mr Burden, unita alla sua profonda pietà e al considerevole patrimonio che possedeva, giustificavano da sole tale riconoscimento; a ciò si aggiungeva il fatto che fosse anche Giudice di Pace della Contea di Surrey. Inoltre, i suoi legami con le finanze imperiali avevano, attraverso la stampa, reso il suo nome molto noto anche in quelle zone di [[London|Londra]] con cui non era personalmente a conoscenza.
+
+Sono ben consapevole che il compito di scrivere questa storia avrebbe potuto essere affidato a mani più capaci, ma nessuno sarebbe stato più devoto all’argomento o più familiare con la tragica fine di una vita così straordinariamente bella e umile. Il fatto che possedessi le qualifiche necessarie per un lavoro del genere era così evidente per scrittori come Charles Egton, T. T. Batworthy, George K. Morrel e Mrs Hooke da spingerli a ritirarsi volontariamente da un campo in cui, purtroppo, avevano già lavorato con notevole impegno.
+
+Se, di fronte a una tale testimonianza, il signor e la signora O’Rourke insistono nel diffondere la loro versione errata e pregiudiziosa degli ultimi tristi mesi, temo di non essere in grado di convincerli a cambiare idea.
+
+Inizialmente avevo intenzione di destinare le mie note esclusivamente all’attenzione di occhi amici; con mia sorpresa, vennero lodate quasi con entusiasmo da due importanti critici – giornalisti, amici preziosi, persone che seguono costantemente i movimenti della nazione. Poco dopo appresi che anche i dirigenti della M’Korio Delta Development Company non avrebbero disapprovato la pubblicazione di una difesa dei loro metodi, come quella che il mio scritto rappresentava. Lord Benthorpe mi assicurò personalmente che nessun collaboratore retribuito del giornalismo quotidiano, né alcun autore professionista assunto da loro – nemmeno “Ultor” – aveva fornito loro la stessa soddisfazione che il mio manoscritto aveva suscitato. Pertanto, acconsentii a riscrivere e pubblicare l’intero testo, arricchendolo di elementi stilistici e fantasiosi, degni di un pubblico più vasto.
+
+Molti ecclesiastici e altre persone hanno chiesto con grande interesse se, nella stesura di quest’opera, avessi avuto uno scopo morale preciso.
+
+Non posso fingere di aver avuto fin dall’inizio l’intenzione di trasmettere al mondo qualche grande lezione religiosa o politica, ma confesso che molto prima che la mia monografia fosse completata, un significato consapevole guidava la mia penna. Per essere più umile, direi che divenni profondamente sensibile a una Forza Guidante di cui ero soltanto lo strumento. Ogni frase successiva, pur essendo intesa semplicemente come enunciazione di fatti, indicava sempre di più la presenza di un Disegno Misterioso; quando terminai il lavoro, ebbi la certezza che non si trattasse soltanto di una registrazione ordinaria. La stessa essenza dell’Impero mi si rivelò mentre rileggevo quella semplice cronaca: fui convinto del Destino di un Popolo, del fatto che ogni uomo che contribuiva a realizzare quel Destino agisse direttamente per volere della Provvidenza; fui anche convinto che quei finanziatori intrepidi, quei nobili appassionati, anzi, quei “soldati della fortuna” a cui venti sconfitte non potevano intimidire, possedessero qualcosa di molto più grande di ciò che l’[[England|Inghilterra]] avesse mai conosciuto fino ad allora.
+
+A tali convinzioni il lettore deve quei frammenti di inni, quelle citazioni dai sermoni di eminenti teologi, e quelle occasionali digressioni etiche che rendono più varie e vivaci le pagine che ha davanti a sé.
+
+Riguardo alla forma del libro, ho poco da dire. La tipografia, la carta e la rilegatura le ho lasciate alle scelte degli specialisti, così come l’impaginazione, la larghezza dei margini, la decisione se le pagine dovessero essere senza tagli, e la quantità di pubblicità necessaria per ottenere una fama meritata.
+
+Le prove le ho lette io stesso.
+
+La questione delle illustrazioni fu discussa per un certo periodo. Purtroppo, si scoprì che un'eccellente fotografia di Mr Burden apparteneva a una ditta che lo aveva lusingato realizzandone un ritratto come omaggio durante il breve periodo della sua fama pubblica. Essi chiedevano il permesso di riprodurla, ma io certamente non intendo pagare tale somma. Non esiste alcun'altra sua foto, se non un daguerrotipo sbiadito scattato molti anni fa in occasione di una festa in maschera. Quel ritratto raffigura Mr Burden nel ruolo di Carlo I e, a mio parere, è del tutto inadatto.
+
+Tuttavia, i personaggi principali legati alla famiglia M’Korio hanno acconsentito a parlare di fronte a un amico comune; le loro impressioni precise e rapide riguardo ai tratti distintivi di questi personaggi, unite a alcuni schizzi del signor Burden tracciati a memoria, aiuteranno i miei lettori a comprendere più appieno la mia opera.
+
+I miei ringraziamenti sono dovuti ai signori Marian, avvocati, che mi hanno fornito i migliori consigli legali riguardo alle parti del testo omesse; al signor Banks, maggiordomo di Lord Benthorpe, che mi ha fornito gran parte dei materiali utilizzati. Ringrazio anche l’autore anonimo di “A History of Upper Norwood”; il signor English, un tempo redattore di “The Patriot” e ora gestore del pub “The Feathers” a Greenwich; il rettore del St Barnabas College di Oxford, nonché il cappellano e soprattutto il portiere dello stesso college; il signor Carey, impiegato al St Catherine’s College e da tempo servitore del signor Cosmo Burden; Lord Garry, il signor Tammin, la signora Gough, Charles Parker, Henry Grimm, Peter Cowdrey, C. T. Knowles, T. Cummins, Loring, Gibbs, Hepton, Rubble e Tuke, e molti altri di minor rilievo, i quali, spero, accetteranno questo ringraziamento generale al posto di espressioni più personali di gratitudine.
+
+I manoscritti e la corrispondenza che mi sono arrivati da tutte le parti del mondo sono stati di estrema utilità per me. Non posso esprimere abbastanza gratitudine per aver ricevuto il blocco per appunti del signor Barnett, che il suo segretario si è preso la gentilezza di conservare per me. Le lettere autografate del principe Alberto e del barone Grant al primo lord Benthorpe si sono rivelate materiale di grande valore; suo nipote, l’attuale nobiluomo che figura in modo così prominente in queste pagine, è stato così gentile da venderle a un prezzo incredibilmente basso a un signore che era il mio agente.
+
+Tali appunti, promemoria di obblighi e accordi brevi che sono giunti al signor Cosmo Burden tramite me, lo hanno davvero reso molto felice; mi prega quindi di ringraziare tutti per suo conto con grande sincerità. Desidero inoltre assicurare a chiunque legga queste righe che qualsiasi altro scritto della sua mano possa essere ricevuto – soprattutto eventuali lettere indirizzate alla signorina Capes – verrà accolto con grande gratitudine e apprezzamento.
+
+Si noterà che in queste pagine ho sempre menzionato Lord Lambeth con il suo nome originale, ovvero Mr Barnett. Il pubblico lo conosce meglio sotto questa forma, poiché “Barnett” è il nome che lo ha reso famoso; inoltre, l’annuncio della sua nomina a pari del regno non è stato fatto se non dopo che metà di questa edizione era già stata stampata. Ho ottenuto il suo permesso per mantenere questo semplice cognome inglese. Allo stesso modo, nel mio lavoro parlo sempre del Venerabile Reverendo, Onorevole Lord Mauclerc, Vescovo di Shoreham, come “il Reverendo Onorevole Peregrine Mauclerc”. La morte del fratello di Sua Signoria e la sua nomina a vescovo di Shoreham sono avvenute troppo tardi perché potessi apportare le necessarie modifiche.
+
+Una parola in più.
+
+Spero di non aver dimenticato, nel menzionare gli affari privati altrui – che è proprio l’atteggiamento tipico di un gentiluomo – di rispettare questa delicatezza.
+
+Se ho parlato con forza di Mr Abbott, bisogna ricordare che un dovere patriottico ha priorità rispetto alle convenzioni sociali; inoltre, Mr Abbott stesso ha fatto una dichiarazione verbale molto chiara, accompagnata da un giuramento, affermando di essere indifferente alle mie opinioni.
+
+In questo contesto si può menzionare che le sfortunate difficoltà della famiglia Benthorpe, di cui sono stato costretto (sebbene a malincuore) a parlare, non hanno più alcuna rilevanza, poiché il giovane signor Benthorpe ha corteggiato e conquistato Antigua, l’unica figlia del conte Brahms de la Torre de Traicion y Crapular, un nobile spagnolo di immense risorse.
+
+Per il resto, ho sempre cercato con impegno – e credo con successo – di evitare di causare la minima sofferenza a qualsiasi essere senziente.
+
+Chi ama di più, prega meglio.
+
+Tutte le cose, grandi e piccole…
+
+Per il grande Dio che ci ama
+
+“Li ha creati tutti e li ama.”
+
+# Coleridge
+
+O parole del genere.
+
+# Chelsea, 1904
+
+Note finali.
+
+La frase utilizzata da “Asterisk” nel Daily American del 9 aprile non ha alcun significato. “Very Rev.” e “Very Honourable” sono titoli che non possono essere combinati tra loro. Per quanto riguarda l’aggiunta di “Most”: “Most Honourable, Most Rev.” per riferirsi a “Clara”, nell’Evening German, non è impossibile, ma in questo caso è impreciso. Sua Signoria non è un marchese, né ha alcuna intenzione di salire i gradini del trono arcivescovile.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="Emmanuel Burden, Merchant — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
@@ -2473,6 +2545,42 @@ Mr George Burden, of Thames Street, married on March 8th, 1835, at his parish ch
 As is so often mysteriously the case with even numerous families, the name of the Burdens survived in but a single member. Of the three other sons, James, Thomas, and Cranby, the first died while yet a child; the second was drowned at sea as first mate of one of his grandfather’s vessels; and the third, whose intellect had always been deficient, did not long survive his thirtieth year, but passed away, unmarried, in Dr Milford’s private home at Reading. Two of the sisters also perished in tender years. Of the five that survived, Charlotte and Victoria remained unmarried, Patience was early left a childless widow and retired to Bournemouth, while Esther, who wedded a wealthy Australian in June 1865, sailed with him to Melbourne some months later, and has never since been heard of by her family.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO I
+
+È sorprendente, e anche un po’ triste, constatare quanto poche persone conoscano il signor Burden, che è recentemente morto nella sua residenza di Avonmore, al numero 37 di Alexandrovna Road, a Upper Norwood. Per tutta la sua vita, egli è stato una figura la cui influenza, sebbene indiretta, è stata considerevole; un uomo certamente influente nella politica estera di questo paese, e che ha avuto un impatto ancora più profondo sulla sua struttura sociale.
+
+La diligenza e la regolarità del suo comportamento probabilmente gli impedirono di raggiungere quella notorietà che molti uomini meno meritevoli tanto desiderano. Le sue ambizioni, quando non riguardavano questioni familiari, erano rivolte al suo lavoro e alla conservazione della fortuna che aveva acquisito onestamente. Il suo giudizio, eccellente, veniva applicato a problemi legati agli interessi commerciali in cui era nato e da cui non aveva mai voluto allontanarsi, nel corso di una vita utile durata sessantquattro anni.
+
+Riguardo all’amministrazione del sobborgo in cui si trovava la sua villa, non era affatto indifferente; tuttavia non aveva mai tentato di entrare alla Camera dei Comuni, sebbene la sua posizione sociale, i suoi mezzi finanziari e le sue connessioni gli avessero offerto molte opportunità, a metà della vita, per intraprendere una carriera che gli inglesi considerano senz’altro tra le più onorevoli, redditizie ed eminenti.
+
+Tali uomini, fortunatamente, nell’ambito delle condizioni ordinate dell’odierna [[England|Inghilterra]], esercitano un’influenza molto più profonda sul destino del nostro grande impero di quanto la loro mancanza di fama pubblica potrebbe far pensare in comunità meno fortunate. Sarebbe fuori luogo insistere sulle numerose amicizie che legavano il signor Burden a persone che svolgono un ruolo fondamentale nella gestione delle nostre fortune nazionali. Per coloro che lo conoscevano bene, descrivere in dettaglio tutte le sue attività finanziarie, filantropiche o religiose sarebbe stato superfluo; per coloro che non ne avevano mai sentito parlare, tale descrizione sarebbe stata del tutto irrilevante. Queste pagine sono state scritte sotto l’impressione profonda e dolorosa della sua recente morte; il loro unico scopo è tracciare rapidamente il quadro della sua famiglia e della sua posizione sociale, menzionare gli ultimi giorni della sua vita e lasciare così un ricordo permanente di una figura tanto straordinaria e delle sue battaglie.
+
+Il nome Burden compare per la prima volta all’inizio del XVII secolo, quando un certo Henry Burden appare negli atti ufficiali della corte di Beccles, nel Suffolk, in relazione a diverse vendite di lana a Gand.
+
+Non è certo se questo Henry fosse un antenato o meno; ma entro dieci anni il nome ricorre due volte: una volta nella forma di Burdyn e una volta in quella di Bird.
+
+Un ricevuto presentato a Bungay, datato nel 1616, anno della morte di Shakespeare, che attesta il pagamento del legno utilizzato per bruciare una strega, reca la firma “Barton”; inoltre, un atto del 1638 trasferisce e dispone 47 barili di birra dolce a Zachary Pyorden, che in seguito divenne noto per essere un fervente difensore delle libertà pubbliche.
+
+È interessante notare che un certo Master Barreden salpò da Yarmouth per l’Olanda, in compagnia di circa quindici o venti “servitori di Dio”, poco dopo con una grande e molto preziosa carica di lana. Probabilmente era nipote del suddetto personaggio. Esiste una famiglia di Bourdons a Bradford, nel Massachusetts, che, sebbene sostenga un’origine canadese, è molto probabilmente discendente di questo pioniere della libertà religiosa.
+
+Non rimane alcuna menzione dei Burdens durante le Guerre Civili. Possiamo immaginarli, se lo desideriamo, schierati dalla parte del Parlamento; sia passivamente – come fecero molti abitanti della robusta regione dell’East Anglia – che attivamente, accettando il compenso e combattendo fedelmente nelle battaglie del grande Protettore. Comunque sia, il nome dei Burdens ricompare nel 1672 con un altro John Burden: un entusiasta religioso che predicò la Parola al popolo di Saxmundham durante quel caldo estate.
+
+Sembra che fosse un uomo onesto e timorato di Dio, devoto alla causa della vera religione nel primo periodo del suo ministero.
+
+Un governo che poteva permettere l’ingresso degli olandesi nel Medway, e che produceva le famigerate note stenografiche di Pepys, non tollerava certo lo zelo mistico del contemporaneo di Bunyan. Questi fu gettato nella prigione di Ipswich; dopo la sua liberazione si recò ad Aldeburgh e dichiarò di essere il Messia, in un periodo compreso tra aprile e giugno del 1684.
+
+Pochi gli credettero, ma non subì più alcuna conseguenza negativa da parte delle autorità e morì serenamente nel suo lavoro di calzolaio a Orford, il 5 o il 6 gennaio 1701/1700.
+
+La discendenza dei Burden viene quindi dimenticata per quasi un secolo. È quasi certamente esistita una qualche connessione tra l’ascendenza del signor Burden e quella di Sir Algernon Burden, di Pelham Thorpe, vicino a Norwich, poiché il signor Cosmo Burden (il figlio sopravvissuto del signor Burden) ha recentemente utilizzato lo stesso stemma nobiliare del barone.
+
+Il College of Heralds, sotto la competente guida di Lion d’Or, ha raccolto questi dettagli a un notevole costo, ricostruendo in modo continuo l’albero genealogico di John Burden, il cui padre potrebbe essere proveniente da una famiglia nobile, e che si stabilì come commerciante di grano a Colchester nel 1785. Concentrandosi esclusivamente sul mercato del grano, John Burden condusse un’attività prospera durante le guerre napoleoniche. Le sue donazioni alle opere di carità, così necessarie in quei tempi di alti prezzi e carestia pubblica, furono non meno di sei volte tra il 1801 e il 1815. Fu membro del consiglio comunale della sua città e morì nel 1833, lasciando un figlio, George Burden, che egli aveva fatto diventare un importante commerciante di ferramenta al numero 106 di Thames Street, nella [[City|Città]] di [[London|Londra]]. Questo George fu il padre dell’uomo straordinario di cui questo memoriale commemora la vita.
+
+Il signor George Burden, residente in Thames Street, si sposò l’8 marzo 1835 nella chiesa parrocchiale di St Catherine’s a Jane Elizabeth, figlia di Ezechiel Cranby, capitano di nave di Wapping. Dal loro matrimonio nacquero due bambini morti alla nascita e undici vivi; il mio amico, il signor Burden di cui parlano queste pagine, fu il terzo figlio, nato il 19 gennaio 1841 e battezzato il giorno seguente con il nome biblico Emmanuel.
+
+Come spesso accade misteriosamente anche nelle numerose famiglie, il nome dei Burdens sopravvisse soltanto in un singolo membro della famiglia. Dei tre altri figli – James, Thomas e Cranby – il primo morì ancora bambino; il secondo annegò in mare come primo ufficiale su una delle navi di suo nonno; il terzo, il cui intelletto era sempre stato limitato, non superò i trent’anni: morì celibe nella residenza privata del dottor Milford a Reading. Anche due delle sorelle persero la vita in giovane età. Dei cinque sopravvissuti, Charlotte e Victoria rimasero zitelle; Patience divenne vedova senza figli in giovane età e si ritirò a Bournemouth; Esther, invece, sposò un ricco australiano nel giugno 1865 e qualche mese dopo lo seguì a Melbourne. Da allora, la sua famiglia non ha più avuto sue notizie.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="Emmanuel Burden, Merchant — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
@@ -2502,6 +2610,32 @@ His father having thus installed them in a commodious and modern residence, took
 
 Certain of the old man’s habits would have jarred upon a man and woman of less regular habits, or possessed of less self-control than were Mr Burden and his wife. Thus he had taken, of a sudden, a considerable interest in gardening, a matter upon which neither of the young people felt any great concern; he became weather-wise, and he was forever fetching in an artizan whom he patronised, to rearrange those bells and hinges, wherewith his son and his daughter-in-law were already perfectly contented. A more serious difficulty was the attachment which Mr Burden, senior, unexpectedly conceived for the policy of Mr Disraeli; whereas young Mr Burden could not disguise his loyalty to Mr Gladstone, a sentiment in which his wife supported him with a zeal only tempered by her repeated references to the Irish Church.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il nipote di Mr. Burden, Hildebrand Worthing, il cui sangue nobile purtroppo non lo rendeva adatto a una vita commerciale.
+
+La più giovane, che fu battezzata Maria ma era conosciuta in famiglia come “Baby”, all’età di appena ventisei anni stipulò un matrimonio con il figlio minore del signor Arthur Worthing, di Worthing Court, nel Bucks. Questo matrimonio, per quanto potesse offrire attrattive sociali ai membri più giovani della famiglia, si rivelò infelice. Suo marito era dissipato e imprudente, e incontrò ripetute difficoltà nella società di Boulogne-sur-Mer, in Francia, dove suo suocero lo sostenne per alcuni anni con una piccola pensione. Dopo la morte prematura di sua moglie nel 1873, egli tornò in [[England|Inghilterra]], conducendo una vita disordinata e senza scopo tra i suoi vecchi compagni; tuttavia, sul letto di morte, ebbe la soddisfazione di sapere che suo cognato (Emmanuel) aveva pagato la maggior parte dei suoi debiti e aveva ristrutturato la tomba di sua moglie nel cimitero protestante della città portuale francese dove lei riposava in pace. L’unico figlio di questo matrimonio, Hildebrand, fu assunto come impiegato nell’ufficio di Bowler & Co. dal signor Burden, poiché quest’ultimo era sempre molto attento al prestigio del proprio sangue.
+
+All’età giusta di trentuno anni, Emmanuel Burden, destinato quindi ad ereditare la maggior parte della fortuna di suo padre, sposò una signora per la quale provava un affetto costante; in effetti, erano stati fidanzati per circa otto anni.
+
+Era una donna dal comportamento modesto ma affascinante; quarta figlia di Rev. Harward Sefton di Hagden Courtney, nella contea di Huntingdon, e di Miriam Davis, sua moglie. Forse proprio da loro la signora Burden ereditò la sua capacità di calcolare rapidamente e il suo acuto intuito delle debolezze umane. Il padre del signor Burden, sebbene accettasse pienamente la scelta di suo figlio per Eliza (così si chiamava quella signora), si oppose saggiamente a un matrimonio affrettato, ritenendo opportuno che i giovani aspettassero fino a quando suo figlio non avesse appreso completamente e assunto l’attività commerciale che gli sarebbe spettata in Thames Street.
+
+Il loro corteggiamento, sebbene prolungato, fu pacifico e felice. Impararono a conoscersi a fondo durante le lunghe passeggiate che facevano insieme attraverso le brughiere di Hampstead o Putney. A volte anche le loro famiglie permettevano loro di avere rapporti più intimi. Il giovane signor Burden (così si chiamava all’epoca) riceveva la sua futura moglie nelle serate sociali a casa di suo padre (allora vivevano sopra il negozio in Thames Street), oppure, a sua volta, partecipava come ospite d’onore dal sabato al lunedì alla residenza del reverendo signor Sefton: prendeva il treno da Liverpool Street alle 1:15 del pomeriggio per andare e tornava in città alle 9:20 di domenica da Hagden Courtney.
+
+Si sposarono, proprio come aveva fatto suo padre, presso la chiesa di Santa Caterina. Per l’occasione, la signorina Sefton accettò l’ospitalità di sua zia. Si gettarono riso, e anche un paio di scarpe. Si scambiarono battute scherzose. La luna di miele fu trascorsa in Galles.
+
+Il signor Burden, il padre, ritenne giusto che la coppia appena sposata, al loro ritorno, prendesse una casa a una certa distanza da [[London|Londra]]. Il suo business aveva aumentato notevolmente; il piano terra era ormai da anni occupato dagli oggetti necessari per un negozio espositivo, e l’intero edificio avrebbe dovuto essere utilizzato esclusivamente per lo stoccaggio delle sue merci e per gli uffici. La signora Burden, la madre, era morta durante il fidanzamento di suo figlio; quindi, alla fine, fu deciso che una nuova famiglia si stabilisse nelle zone collinari a sud di [[London|Londra]], dove l’aria fresca e gli spazi più ampi della campagna avrebbero potuto combinarsi con le esigenze quotidiane legate ai viaggi in città.
+
+Pertanto, il padre del signor Burden scelse Norwood.
+
+Il sobborgo era effettivamente un po’ cambiato rispetto al periodo del regno di Giorgio IV; ma nulla poteva cancellare i fascini che ancora rimanevano nella mente dell’uomo anziano. Per rispettare i desideri della sposa, acconsentì ad acquistare una proprietà in una zona piuttosto nuova e periferica del complesso immobiliare Ringwell. Scegliette un terreno di mezzo acro, su cui già sorgeva una casa nuova in attesa di un inquilino. La proprietà era circondata da sentieri in ghiaia e arbusti appena piantati; alcuni di questi, però, erano già morti. Anche se si trovava ancora isolata in mezzo a terreni brulli e campi, la casa portava già il numero 37 di Alexandrovna Road, un dettaglio che aggiungeva ulteriore piacere alla sua acquisizione. Tra lo suocero anziano e la giovane signora Burden scoppiò una piccola discussione riguardo al nome da dare alla nuova proprietà: il primo preferiva “Chatsleigh”, mentre la seconda proponeva “Avonmore”; alla fine, per rispettare i suoi desideri, fu scelto il secondo nome, che venne scritto in lettere bianche su sfondo verde su entrambe le porte della casa.
+
+La casa si ergeva in alto e, nei giorni sereni, offriva una vista su [[London|Londra]] a nord. Molti luoghi familiari del paesaggio riportavano il padre di Mr Burden ai ricordi della sua vita laboriosa ma coronata dal successo: la torre di tiro, St Paul’s e il tetto della stazione di Cannon Street erano chiaramente visibili; inoltre, bastava che rivolgesse lo sguardo verso il Crystal Palace perché i ricordi del Principe Alberto e di Hyde Park, il suo patriottismo innato e un senso del magnifico lo spingessero ad ammirarlo con piacere.
+
+Dopo averli sistemati in una residenza comoda e moderna, suo padre andò ad abitare con il signor Burden e sua giovane moglie. Continuando a detenere la piena proprietà dell’attività in Thames Street, all’inizio visitava l’ufficio di tanto in tanto; insisteva inoltre affinché suo figlio partisse puntualmente per la città con il primo treno dopo colazione, e la sera discutesse con lui degli affari della giornata nonché di eventuali notizie di interesse pubblico apparse sui giornali del mattino.
+
+Alcune delle abitudini dell’uomo anziano avrebbero potuto sconcertare persone con abitudini meno regolari o con minore autocontrollo rispetto al signor Burden e sua moglie. Ad esempio, all’improvviso iniziò a interessarsi molto di giardinaggio, un argomento che nessuno dei due giovani considerava particolarmente importante; inoltre, faceva spesso venire un artigiano per far riparare campane e cardini, anche se suo figlio e sua nuora erano più che soddisfatti di come stavano. Un problema più serio fu l’affetto improvviso del signor Burden senior per la politica del signor Disraeli; al contrario, il giovane signor Burden non riusciva a nascondere la sua lealtà verso il signor Gladstone, un sentimento che sua moglie condivideva con grande entusiasmo, anche se lo temperava costantemente facendo riferimento alla Chiesa irlandese.
 
 
 
@@ -2542,6 +2676,42 @@ AN INTERPRETATION BY MISS M’KEE, LONG A GOVERNESS IN THE FAMILY
 
 Cosmo had never enjoyed such health as had his sisters. The first months of his life had been marred by the use of an artificial food improper to the sustenance of infants, but honestly recommended by the old family doctor, who had so firm a faith in its virtues as to have accepted an interest in its sale. One effect of this nutriment was to make the child large and heavy beyond his years, a physical characteristic which he preserved throughout his life. It had also, however, the result of weakening his heart, and permanently impairing his digestion. From these causes he developed as a boy a nervous and irritable temper, which his parents thought it imprudent to correct. When he had passed through the excellent discipline of an English Public School, these faults disappeared in his general demeanour, and were observable only in the occasional friction that inevitably accompanies the incidents of home-life; abroad they were replaced by a certain indolence and indecision of manner, far preferable to the peevishness which had formerly given his family so much anxiety and pain.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Infatti, quando le finestre di Mr Gladstone in Harley Street furono rotte da una folla, solo la pietà filiale di Mr Burden lo trattenne dal rimproverare l’eccessiva gioia di suo padre ormai anziano; e quando Mr Disraeli fu nominato pari del regno e un correligionista gli offrì un ghirlando d’oro, Mr Burden andò addirittura a portare la signora Burden al mare per una settimana, fino a quando la tempesta non fosse passata.
+
+Sarebbe ingiusto insistere su queste piccole incomodità. Il rispetto dovuto agli anni trascorsi dal padre di Burden aumentò ben presto a causa dell’ansia che il signor Burden provava per la sua salute. Nel gennaio del 1880, la signora Burden aveva già dato alla luce tre bambini (che rappresentavano la gioia e l’orgoglio di loro nonno); suo marito, ormai l’unico responsabile dell’importante attività commerciale in Thames Street, dovette assistere al fatto che il vecchio si mise a letto, per poi morire serenamente circa otto mesi dopo.
+
+Occorre ben poco spazio per descrivere la vita che il signor Burden ha condotto dopo questa rivoluzione nelle sue fortune; infatti lo scopo di queste poche pagine è piuttosto quello di registrare l’impressione lasciata dalla sua recente scomparsa e di fornire qualche informazione sul suo carattere, piuttosto che descrivere in dettaglio la storia della sua vita.
+
+#La signora Burden a quarantatré anni… da una miniatura
+
+I tre bambini, Ermyntrude, Cosmo e Gwynnys, furono educati secondo quelle eccellenti tradizioni che la famiglia aveva ereditato per ben tre generazioni di agi e rispettabilità; ma il signor Burden e sua moglie ritenevano giustamente che l’aumento costante della loro fortuna (che attribuivano naturalmente alla propria notevole capacità, ma che forse era dovuto più allo sviluppo dell’industria moderna) permettesse loro di avere delle legittime ambizioni per il futuro dei loro figli.
+
+Alcuni cambiamenti nella struttura della nostra società inglese hanno reso sempre più difficile continuare la tradizione di consumare il tè delle cinque e mezza. Questo pasto era già stato sostituito da una cena formale alle sette, l’ora considerata più alla moda. Fu in quel periodo che la signora Burden decise di togliere le sue due figlie, di quattordici e dodici anni rispettivamente, dal seminario della signora Cathcart a Dulwich per affidarle alle cure di una tata privata, la signorina M’Kee, di cui la signora Burden aveva sentito parlare da un’amica che era in buoni rapporti con la nipote della lady Bagshawe.
+
+Grazie alla competente guida di questa signora, Ermyntrude e Gwynnys acquisirono molto rapidamente una solida conoscenza di tutto ciò che era più adatto al ruolo che avrebbero dovuto svolgere nel loro ambiente sociale. Una completa padronanza del tedesco, alcune nozioni di francese, oltre a una buona formazione in psicologia e infermieristica pratica, le resero, all’età di diciotto e vent’anni, le tipiche ragazze inglesi affascinanti e semplici che dovrebbero essere.
+
+Uscirono insieme: infatti, se possibile, Ermyntrude sembrava ancora più giovane di sua sorella. Parteciparono alla Ballo del Giubileo tenutosi nel municipio di Sydenham nel 1897.
+
+Il signor Burden non aveva mai nascosto la sua intenzione di dividere le sue figlie in parti uguali. La maggiore si sposò presto con un giovane medico molto competente, che emigrò con lei a Winnipeg, dove continua ancora oggi a condurre una carriera prospera. Per lungo tempo è stato presidente della Orange Lodge in quella [[City|>città]]; di recente è tornato al Parlamento del Dominion per discutere la questione delle scuole cattoliche del Manitoba; la sua carriera è sicuramente nota a molti che leggeranno queste righe.
+
+L’ansia spirituale del signor Legros: un’impressione tratta dalle parole di un amico e pastore che lui frequentava spesso per risolvere i suoi dubbi dottrinali.
+
+Gwynnys, al contrario, durante una visita a sua sorella in Canada, sposò, in modo piuttosto improvviso, Karl P. Legros, un giovane ufficiale dell’esercito locale. Il capitano (poiché tale era il suo rango) ebbe sfortuna nel suo lavoro di intermediario commerciale: senza alcuna colpa sua, fu coinvolto nel fallimento e successivo processo del “Milwaukee Butter-King”. Spinto da quel misterioso istinto che caratterizza tutti i discendenti della nostra razza al di là dei mari, Karl P. Legros cercò l’aiuto dell’[[England|Inghilterra]] nel momento del bisogno; e l’[[England|Inghilterra]] non lo deluse. Dopo un breve periodo di esitazione, e – bisogna ammetterlo – di qualche preoccupazione spirituale, ricevette l’ordinazione sacerdotale e, grazie agli sforzi di suo suocero, divenne presto rettore della piccola parrocchia di Benthanger, nel Kent. Per molti anni ha continuato a adempiere ai doveri della sua sacra vocazione in questo luogo, e per tutta la sua vita, caratterizzata da duro lavoro e dedizione, è stato costantemente sostenuto dalla sua nobile e devota moglie: una vera cristiana, a cui suo padre continuò a versare, fino alla morte, un piccolo stipendio annuale.
+
+La signora Burden fu sepolta meno di un anno dopo il ritorno di Gwynnys Legros in [[England|Inghilterra]]. Prima di morire, ebbe la soddisfazione di apprendere che il marito di Ermyntrude era stato eletto al Parlamento della sua colonia; inoltre, la visita alla canonica di Benthanger le permise contemporaneamente di rivedere con gioia la felicità di sua figlia e di respirare nuovamente l’atmosfera dei suoi primi anni: la tranquilla serenità di una canonica di campagna, a cui, nonostante tutta la sua ricchezza, aveva per tanto tempo fatto parte estranea.
+
+Questa eccellente donna dorme nel Cimitero di Norwood, in una cripta asciutta, spaziosa e ben costruita; ad eccezione del canone annuale di affitto di cinque ghinee, essa appartiene interamente alla famiglia di suo marito.
+
+Dopo aver descritto così le sorti delle due figlie, è mio dovere indicare, anche se brevemente, la vita del loro fratello, Cosmo. La sua partecipazione agli ultimi sforzi di suo padre, e il fatto che, dopo la morte della madre, divenne l’unico compagno di suo padre, rendono necessario seguire le tappe della formazione di questo giovane, se vogliamo comprendere lo spirito decadente del quale fu per tanto tempo l’unico sostegno e compagno.
+
+Signora Burden
+
+#Un'interpretazione di Miss M’Kee, da tempo governante nella famiglia
+
+Cosmo non aveva mai goduto di una salute tale come quella delle sue sorelle. I primi mesi della sua vita erano stati compromessi dall’uso di un alimento artificiale inadatto alla nutrizione dei neonati, ma che veniva onestamente consigliato dal vecchio medico di famiglia, il quale aveva tale fiducia nelle sue virtù da trarne profitto attraverso la sua vendita. Uno degli effetti di questo alimento fu quello di far sì che il bambino crescesse molto più grande e pesante del dovuto per la sua età; questa caratteristica fisica gli rimase per tutta la vita. Tuttavia, tale alimentazione indebolì anche il suo cuore e compromise permanentemente la sua digestione. Per queste ragioni, da ragazzo sviluppò un temperamento nervoso e irritabile; i suoi genitori ritennero imprudente cercare di correggerlo. Dopo aver frequentato una eccellente scuola pubblica inglese, questi difetti scomparvero nel suo comportamento generale e si manifestavano soltanto occasionalmente nelle tensioni inevitabili che caratterizzano la vita domestica; all’estero, invece, furono sostituiti da una certa indolenza e indecisione nel modo di comportarsi, caratteristiche molto più gradevoli rispetto alla irritabilità che in precedenza causava tanta preoccupazione e dolore nella sua famiglia.
 
 
 
@@ -2585,6 +2755,44 @@ ENDNOTES.
 4 The Master of St Katherine’s is nowhere more vividly portrayed than in a phrase of the late Duchess of Buckingham’s, in her book of reminiscences, ‘The Life Serene’ (Bischoffheim & Co., 31s nett, 3 vols., cr. 8vo, uncut, with 8 photogravures), vol. iii., p. 127, “He was what I call a good man.” There is a charming description of her grace’s visit to the University town. She passed the night at the Magpie.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+A dieci anni, mentre le sue sorelle erano appena uscite dall’aula scolastica, fu mandato alla scuola preparatoria del dottor Stanton a Henley.
+
+Nonostante fossero molte le richieste di ammissione a questa prestigiosa istituzione, e nonostante fosse difficile trovare spazio per quel ragazzo, il dottor Stanton aveva troppa saggezza per esitare nell’accettarlo, né per prendere in considerazione, anche solo per un momento, la lieve differenza di status sociale tra la famiglia di Cosmo e quella della maggior parte dei suoi alunni. Quell’eccellente educatore apparteneva a quella nuova e dinamica corrente nella pedagogia inglese che ritiene le importanti attività commerciali del paese uguali, per importanza, agli interessi territoriali dello stesso. Il nome Burden gli era già noto: non solo grazie alle pubblicità in smalto blu e bianco che spesso incontrava mentre camminava sulle banchine della Great Western Railway, ma anche a causa del ruolo svolto dal signor Burden alla ricezione organizzata dalla Mansion House per il Sadar di Nak’, quando quel sovrano visitò l’[[England|Inghilterra]] durante i suoi ultimi conflitti con i russi.
+
+Pertanto, l’insegnante fu molto felice di accogliere Cosmo e gli concesse alcune particolari attenzioni che i genitori degli alunni più robusti non ritenevano necessarie richiedere. Tra queste vi erano un piatto di carne fredda a colazione, e una visita settimanale del dottor Byle, vecchio e stimato amico dell’insegnante, nonché medico personale di Lord Bannering di Marlsford Park.
+
+Nonostante l’ottima formazione ricevuta in questa eccellente accademia, la vita del ragazzo non era felice; in parte migliorò nell’ambiente raffinato di Radley, ma fu solo entrando all’università, intorno ai vent’anni, che la sua vita iniziò ad assumere un aspetto normale.
+
+La ricchezza che avrebbe ereditato, il suo temperamento riservato e egoista, la sua disponibilità ad incontrare persone di ogni tipo, nonché il suo profondo disprezzo per le discussioni e i conflitti, tranne che con coloro che gli erano più vicini, gli garantirono meritatamente un gran numero di amici del genere che è particolarmente importante nella nostra vita nazionale. Era membro del Club, sapeva cavalcare senza problemi, e sebbene non fosse interessato personalmente ad altri sport se non al golf e all’hockey, frequentava persone che si distinguevano in qualsiasi campo l’Università avesse da offrire.
+
+Possedeva, in misura notevole, quell’arte del compromesso su cui si fondano non solo i caratteri dei nostri statisti, ma anche la stessa nostra comunità. Aveva un istinto naturale per comprendere i sentimenti dei suoi simili; e se una certa mancanza di energia gli impediva di cercare di plasmare i suoi contemporanei, almeno era in grado di recepire con grande fedeltà l’impressione generale delle forze che lo circondavano.
+
+Sebbene non fosse esperto in questo genere di attività, di tanto in tanto riusciva comunque a scrivere versi; e il suo stile nella prosa, che come matricola era ancora piuttosto grezzo e brusco, si sviluppò molto rapidamente, acquisendo quella “viscosità che è più efficace della fluidità” (citando il Vescovo di Shoreham) e quella “capacità di condensare la verità attraverso le metafore” (ancora lo stesso autore), caratteristiche che distinguono l’inglese moderno dallo stile meno flessibile del secolo precedente.
+
+Infatti, non c’è quasi dubbio che, se avesse rivolto la sua attenzione alla politica o (ciò che forse sarebbe stato più adatto alla sua natura) alla Chiesa, avrebbe trovato, dopo un po’ di esperienza nel mondo esterno, tutte le opportunità necessarie per avere successo, dato che possedeva tutte le qualifiche richieste.
+
+Alla Scuola di Lingue Moderne, dopo quattro anni di studi, ottenne un secondo posto che era quasi quanto un primo classico. Suo padre, il mio amico il signor Burden, già molto soddisfatto del successo di suo figlio, ricevette da parte del suo tutor una lettera privata che ho visto personalmente; in essa si affermava che Cosmo non fosse riuscito ad ottenere la più alta distinzione a causa di un’imprecisione nella grafia di citazioni latine: “un argomento”, come osservò molto giustamente questo giovane e diligente studente, “estraneo allo spirito della scuola”.
+
+In questa fase della sua vita, Cosmo aveva raggiunto la maturità che la sua giovinezza prometteva. Il suo corpo era snello, a causa di quella carenza nutrizionale dei primi anni di cui ho già parlato; tuttavia, il suo curatissimo aspetto, la rasatura costante e regolare, nonché i capelli ricci e ordinati, gli conferivano un’impressione di vivacità. Era alto oltre sei piedi. Questa statura non gli era di grande aiuto, tranne che nelle prime occasioni di conoscenza; molto probabilmente aveva causato una debolezza del cuore e un comportamento troppo accomodante, il che, se accompagnati da un’intelligenza meno sviluppata, avrebbe potuto influenzare gravemente la sua vita. I suoi tratti facciali erano piuttosto privi di carattere, soprattutto la bocca: gli risultava difficile controllare la labbra e l’espressione, il che rovinava ciò che altrimenti sarebbe stato un viso ben proporzionato; tuttavia, vantava una carnagione sana, rossa, bianca e, nelle stagioni più fredde, anche blu. Il profilo del suo naso non era particolarmente evidente. Gli occhi, di colore grigio pallido, erano inquieti e sembravano sempre rivelare una certa ansia. Tutto ciò, unito alla sua pulizia e al passo pesante, completava un ritratto che avrebbe dovuto essere giudicato dal rettore del suo college: “Qualunque cosa sia, è senz’altro un gentiluomo.”
+
+Coloro i cui interessi per il signor Burden sono stati sufficientemente forti da spingerli fino a questo punto nella mia narrazione spero capiranno l’insistenza con cui ho parlato del carattere e della vita giovanile di Cosmo. Fu attraverso suo figlio che il mio amico il signor Burden entrò in contatto con quelle forze del mondo moderno che avrebbero potuto essergli di grande valore, ma che si rivelarono invece fatali per lui. Fu proprio la facilità di comunicazione e il carattere sociale di Cosmo a far sì che diventasse un amico intimo di Charles Benthorpe, del rettore del suo stesso college (un uomo straordinariamente capace di valutare ogni tipo di influenza sociale) e soprattutto del signor Harbury, la cui notevole reputazione pubblica, sebbene non sia direttamente legata all’università, rappresenta di per sé la migliore raccomandazione che si possa fare per i suoi amici universitari.
+
+Perché il signor Harbury non solo conosceva Cosmo, ma aveva anche cercato di approfondire la sua conoscenza di lui; e tra tutte le persone che Cosmo conosceva, non c’era nessuno, forse tranne lui stesso, che non capisse quale onore e quale strumento prezioso potesse rappresentare una tale amicizia.
+
+# COSMO BURDEN
+
+Dalla sola fotografia che riesce a rappresentare adeguatamente la tristezza contenuta, ma permanente, nei suoi tratti.
+
+Note finali.
+
+Inoltre, un P.M. dell’A.O.B., un V. del T.S. e il Terzo Illuminante.
+
+3 Signori, ora il reverendo S —— Fafner.
+
+Il rettore di St Katherine’s non viene ritratto in modo più vivido che nella frase della defunta Duchessa di Buckingham, tratta dal suo libro di memorie “The Life Serene” (Bischoffheim & Co., 31s nett, 3 volumi, rilegato in ottavo, integro, con 8 fotografie), vol. III, p. 127: “Era ciò che io definisco un buon uomo”. Vi è anche una descrizione incantevole della visita della Duchessa alla città universitaria; trascorse la notte all’hotel Magpie.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/england"></span>
@@ -2618,6 +2826,36 @@ But her woman’s instinct, aided perhaps by a more general acquaintance with su
 
 He recalled them as she spoke. He could find nothing in them to warrant so extravagant a devotion. There were many recent notes excusing his absence, many earlier ones of appointment; he remembered not a few written from abroad, longer letters full of description. They reflected, of course, his regard; but he could not understand the large part they had played in her simple life, nor why they formed in these days the staple of her fond and persistent memories.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO II
+
+È assolutamente impossibile attribuire una grande catastrofe a una sola causa. È persino difficile individuare il filo più importante tra quelli molti che contribuiscono a tessere un destino. Forse è proprio perché lo conoscevo così bene e sono stato così scioccato dalla sua recente morte, che trovo questa difficoltà particolarmente evidente nel caso del signor Burden.
+
+Tuttavia, è necessario iniziare da qualche parte, e pregherei i miei lettori di considerare una delle prime fonti di quella tragedia: il sfortunato impegno nel quale suo figlio Cosmo cadde ancora quando era studente universitario. Quell’impegno ebbe effettivamente il risultato di far guadagnare a Cosmo l’amicizia per tutta la vita di uomini come il signor Barnett e il signor Harbury, ma indirettamente si rivelò fatale per suo padre.
+
+Indizi e sospetti hanno ampliato e distorto una storia che in sé era abbastanza semplice; inoltre, nella sua verità nuda, essa non getta alcuna disonore su quel giovane la cui vita intera ne è stata rovinata. Lui stesso potrà leggere queste righe. Sono certo che non considererà una tradizione nei confronti dell’amico di suo padre il fatto che io riporti brevemente e con precisione quei fatti, la cui errata interpretazione soltanto potrebbe nuocergli. Infatti, è necessario che lo faccia se si vuole comprendere ciò che segue.
+
+A circa otto miglia dall'Università si trovava un villaggio chiamato Mallersham. Come Wynthorne, Gapton, Rupworth, Bilscombe, Gorle e molti altri, era uno dei più belli d’[[England|Inghilterra]]: le sue casette e i suoi contadini emanavano un’atmosfera indescrivibile di serenità e soddisfazione; il villaggio apparteneva alla famiglia Howley.
+
+Prima dell’invenzione nazionale della bicicletta, Mallersham era un luogo di villeggiatura per gli studenti universitari più benestanti; mantiene ancora oggi questo carattere, e nemmeno la cena annuale del Brummel Club si svolge altrove che al Malden Arms.
+
+Infatti, Mallersham era originariamente territorio appartenente alla famiglia Malden; l’insegna di quell’ostello ne è un esempio toccante delle profonde radici che le nostre famiglie inglesi hanno nel suolo di questa terra. Perché sebbene la famiglia Gayles, che lo ha venduto agli Howley l’anno scorso, lo avesse acquistato nel 1857 dalla famiglia Marlowe – eredi per matrimonio dei Hindes –, i Hindes stessi lo avevano comprato in precedenza dai Kempes di Hoverton. Gli sforzi finanziari dei Kempes ci portano direttamente ai Rinaldo, e da questi a Geoffry Malden, il famoso soldato marito di Maria Van Huren, la brillante compagna olandese di Guglielmo d’Orange.
+
+Quando Cosmo frequentava l'università, il locale “Malden Arms” era gestito da una famiglia di nome Capes; l’unica figlia di questa famiglia, Hermione, ispirò in Cosmo un affetto immaturo e temporaneo, ma profondo.
+
+Lo scopo di queste pagine non è certo quello di scusare quel ragazzo. L’esempio degli atleti, che spesso menzionavano e lodavano la figlia dell’ostello, potrebbe aver influenzato un temperamento facilmente impressionabile dalle abitudini comuni o dalla moda del momento. Inoltre, l’effetto stimolante delle voci diffuse ovunque e senza sosta non era l’unica attrativa che Hermione possedesse. La stessa giovane donna poteva, in parte, giustificare la passione di Cosmo: aveva circa nove anni più di lui, e questa differenza d’età conferiva alle sue conversazioni con i giovani della nobiltà e della classe media un fascino derivante dall’esperienza e da una intelligenza eccezionale, qualità rare considerando le sue origini. Era di statura imponente, aveva modi decisi e energici, e il suo passo era vigoroso. La sua voce, piuttosto forte e poco gradevole all’orecchio, veniva compensata da tratti del viso in cui la prudenza convenzionale della sua classe sociale era da tempo stata superata; i suoi occhi, notevoli per la lunghezza e la densità delle sue ciglia, esprimevano un affetto sicuro e deciso.
+
+Durante il quinto e ultimo anno di università di Cosmo, i due giovani si incontravano ancora più spesso di prima. Il signor e la signora Capes non ostacolarono in alcun modo la loro crescente intimità, e verso la fine di ciò che suo padre aveva definito con precisione la sua “carriera”, Cosmo commise l’imprudenza incredibile di intraprendere una corrispondenza frequente e regolare con Hermione.
+
+Alcuni avvocati hanno sostenuto che questa corrispondenza contenesse addirittura sette espressioni diverse equivalenti a un’offerta di matrimonio. È una questione su cui non posso esprimere alcun parere. Né mi passerebbe mai per la mente aggiungere, con discussioni inopportune, al dolore che un uomo dal temperamento sensibile come Cosmo non potrebbe fare a meno di provare se leggesse queste righe. Quello che è certo è che, quando arrivò il momento di interrompere i suoi rapporti con la Malden Arms, queste lettere assunsero un significato tutto loro.
+
+L'aveva vista per l’ultima volta (come sperava) un mercoledì verso la fine del semestre. Una naturale reticenza gli aveva impedito di dirle che non si sarebbero più visti; in ogni visita successiva aveva finto di essere sempre più negligente nel proprio comportamento, cercando di rendere quell’ultimo incontro il più noioso e privo di significato possibile, così da permettere a quel legame fastidioso di spegnersi gradualmente. Non trascurò alcuno dei mezzi con cui un uomo raffinato e onesto può alleviare il dolore che è costretto a causare. Lo racconto con grande soddisfazione, in quanto figlio del mio vecchio amico: egli dimostrò davvero una grande delicatezza nel momento critico di questa triste storia.
+
+Ma l’istinto femminile di Hermione, forse aiutato da una conoscenza più generale di queste cose, le impedì di essere ingannata. La sua tenerezza aumentava con ogni conversazione; fino a che, in quella ultima, divenne una sorta di insistenza il cui tono respingeva il giovane, e gli diede, se possibile, ancora maggiore determinazione a liberarsi da quelle catene emotive. Nei suoi gesti affettuosi, nelle sue domande e nei suoi ricordi dettagliati, c’era sempre presente il ricordo di quelle lettere tanto care per lui, del loro posto nel suo cuore, e di come sembrassero tenerlo sempre con sé.
+
+Li ricordava mentre lei parlava. Non riusciva a trovare nulla in essi che giustificasse un tale attaccamento estremo da parte sua. C'erano molte note recenti che scusavano la sua assenza, molte altre di appuntamenti precedenti; ricordava anche alcune lettere scritte dall’estero, lunghe e piene di descrizioni. Naturalmente, esse riflettevano il suo affetto per lei; ma non riusciva a comprendere quale ruolo avessero svolto nella sua semplice vita, né perché in quei giorni costituissero l’essenza delle sue memorie più tenere e persistenti.
 
 
 
@@ -2656,6 +2894,40 @@ He took a sheet of paper on which he had written the heading “Saxon Origins.�
 
 Then came Bazeley. How much did he owe the Bazeley stable? He certainly could not be bothered to look up all these details; he knew about what it would be. It would be about sixty, or, say, seventy pounds. He would write down “75” to be on the safe side — and he was. For Mr Bazeley, who was a poor hand at book-keeping, had written out a bill at random that very afternoon, and this bill, after some thought, he had put at £73, 15s. 9d., an addition which he had simplified by the formula, “Act. rendered.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era turbato e tornò il giorno seguente.
+
+Le lettere apparivano più grandi che mai sullo sfondo del tramonto dei loro sentimenti. Venerdì – poiché, nella sua ansia, lui veniva ogni giorno – l’argomento delle loro conversazioni era soltanto quello; quando lui espresse chiaramente quanto le considerasse insignificanti, lei gli propose di leggergli i passaggi che le avevano dato più conforto. Sussurrava il loro significato e si avvicinava sempre di più a lui mentre li raccontava.
+
+Allora, davvero, questo argomento, che all’inizio lo aveva solo stancato e infastidito, iniziò a preoccuparlo seriamente. Non osava più tirarsi indietro; tornava ancora e ancora: il sabato, la domenica, il lunedì. Non evitava più di menzionare quei documenti, né li liquidava con risposte superficiali. Al contrario, sembrava che, per qualche motivo misterioso legato alla sua mente delicata, avessero assunto un’importanza ancora maggiore per lui che per lei. Avrebbe voluto toccarli, tenerli in mano, portarseli via con sé. Lei, invece, li rifiutava, con uno sguardo di possesso e orgoglio negli occhi.
+
+Martedì e mercoledì non offrirono alcuna soluzione; giovedì fu pericoloso, mentre venerdì fu cupo.
+
+In questa fase finale del loro duello, aveva finalmente deciso di adottare una soluzione disperata per quel problema che era diventato una minaccia; le avrebbe detto francamente che dovevano separarsi. Ciò significava che avrebbe ricevuto le sue lettere e sperava, grazie alla diplomazia di cui si fidava pienamente, di evitare una situazione che sarebbe stata dolorosa per entrambi.
+
+Nel pomeriggio di sabato partì nuovamente per il Malden Arms.
+
+Il suo spirito, mentre camminava, era oppresso e confuso. Ho detto che Cosmo era – e ancora è – (se mi perdonerà l’espressione) perseguitato dagli eventi della sua infanzia. Il suo corpo, troppo grosso e troppo lento, soffriva a causa delle necessità di questi viaggi quotidiani; queste continue irritazioni influenzavano anche la sua mente, chiara ma riservata. Senza alcun motivo concreto – se non perché l’ansia genera altra ansia, e poiché il suo umore generale era peggiorato a causa di questi giorni difficili – vedeva il proprio futuro con cupo pessimismo mentre saliva stancamente la collina di Mallersham in una serata estiva.
+
+Un uomo sano, nella sua posizione e con le sue ricchezze, di solito non pensa ai propri debiti; anzi, fino ad ora non se n’era mai preoccupato. Li aveva solo vagamente considerati in fondo alla mente, come due o trecento sterline (una cifra che aveva stimato in momenti più attenti), ma li aveva ignorati a favore di questioni più urgenti e immediate.
+
+Ma quella sera la loro lista sembrava interminabile! L’idea che suo padre venisse a sapere di queste cose, cosa che aveva rimandato a un futuro momento di successo o necessità, gli sembrava improvvisamente terribile, qualcosa a cui non si poteva nemmeno avvicinare. Ricordò questa e quell’obbligo, quasi questioni d’onore, e man mano che li ripensava si sentiva sempre più oppresso. Cominciò ad immaginare come le persone che conoscevano potessero parlare di lui in sua assenza. Si sentiva come se fosse intrappolato in una rete di obblighi insormontabili; eppure, in tutta la sua giovinezza, nessuna di queste fantasie lo aveva mai oppresso. Quanto possano indebolire l’anima i continui conflitti interni.
+
+In un momento di maggiore saggezza avrebbe capito che comportamenti del genere lo avrebbero indebolito nelle trattative. E infatti, quando incontrò Hermione, ciò accadde davvero. Presentò la sua richiesta in modo tale che una donna meno forte avrebbe potuto perdere le staffe. Ma lei non cedette a tale debolezza. Gli ripeté ciò che gli aveva già detto centinaia di volte: che tutte le sue lettere per lei significavano molto. Se lui stesso decideva di andarsene, lei le avrebbe conservate come l’unica cosa che le rimaneva.
+
+In tutto ciò, la sua voce era estremamente controllata; parlava di quelle cose come se si trattasse di proprietà terriere o di fortune materiali. Nel farlo, dimostrava una precisione e una dignità nel comportamento del tutto inaspettate. Sembrava – forse per effetto di un’affettazione – indifferente al suo gesto improvviso e alla sua affermazione di non voler tornare. Le lettere rimanevano il tema principale delle sue conversazioni; la loro natura, o quanto meno la sua interpretazione di esse, furono le ultime parole che egli udì dalle sue labbra. Mentre lei, con una chiarezza molto maggiore di quanto lui desiderasse, continuava a chiamarlo attraverso il crepuscolo. Lui non volse nemmeno girare la testa. La lasciò e si incamminò verso casa, sforzando inconsapevolmente tutte le sue forze, nella disperata speranza che lei potesse davvero apprezzare così tanto le sue lettere da non avere più bisogno né di lui né delle sue parole.
+
+Raggiunse l'università in uno stato di estrema stanchezza. Giugno non era ancora finito; il tempo era ancora freddo; accese un fuoco per compagnia e lo fissò per un’ora o più, immerso in quel terrore del futuro che opprime sempre le persone del suo temperamento di fronte a qualsiasi evento significativo.
+
+Il suo corpo grande, biondo, tipico di un vichingo, sembrava indebolirsi e afflosciarsi mentre sedeva lì, tormentato dai pensieri. Il suo viso, sebbene cupo, era ancora troppo giovane perché quelle preoccupazioni potessero alterarlo; ma tutta l’energia era scomparsa dai suoi occhi. E il suo cervello, in una sorta di letargia, non cercava più soluzioni.
+
+Le lettere e i suoi debiti, i suoi debiti e le lettere, tutto mescolato in un incubo confuso. Si alzò, deciso a scacciare quella semplice ossessione e cercare rifugio nella realtà.
+
+Prese un foglio di carta su cui aveva scritto il titolo “Origini Sassoni”. Perse probabilmente trenta secondi a fissarlo, poi infilzò la penna nel foglio e iniziò a compilare un elenco alfabetico. Non riusciva a ricordare nessun creditore che iniziasse con la lettera “A”. C’era Barlton, il tabaccaio;, non gli veniva in mente alcun altro nome che iniziasse con “B”, tranne Bazeley, ma “Baz” veniva dopo “Bar”. Quindi scrisse “Barlton” in cima al foglio. Quanto doveva a Barlton? Aveva una vaga idea che fossero più di trentatré sterline. Anzi, sembrava ricordare con chiarezza quella cifra; scrisse quindi “33”. Poi, per esserne sicuro al massimo, andò in un cassetto e, per fortuna, trovò la fattura dopo soli dieci minuti: c’era scritto “£33, 14s. 7d.”. Ma quella fattura risaliva a quasi due anni prima. Rifletté. Gli sembrava di ricordare un’altra fattura, più recente. Ma non si prese la briga di cercarla. “Calcolò” quindi il proprio debito attuale verso il signor Barlton in 55 sterline. cancellò la cifra “33” e scrisse “55”. Non sbagliava di molto: il signor Barlton aveva registrato nel suo libro contabile che gli doveva esattamente 58 sterline, 19 scellini e 6 pence.
+
+Poi arrivò Bazeley. Quanto doveva alla stalla di Bazeley? Di certo non si sarebbe preso la briga di controllare tutti questi dettagli; sapeva già quanto sarebbe stato. Sarebbero state circa sessanta, o forse settanta sterline. Avrebbe scritto “75” per essere sicuro. E infatti lo era. Perché il signor Bazeley, che non era molto bravo nella tenuta dei conti, quel pomeriggio stesso aveva compilato una fattura a caso; dopo averci pensato un po’, l’aveva fissata a 73 sterline, 15 scellini e 9 penny. Una somma che aveva semplificato scrivendo semplicemente “Servizio reso”.
 
 
 
@@ -2711,6 +2983,56 @@ Mr Capes was standing as though to go. Cosmo also stood, his eyes cast down and 
 There is nothing in the world of business more difficult to estimate than the sum of ready money which the son of a rich man may have at his disposal at any moment. Legally he has often nothing; practically he may have anything at all. The problem is doubly hard for a father whose judgment is confused by the image of a beloved and injured daughter, and handicapped by grave imperfections of early training. Mr Capes had only one thing in his favour — he had made up his mind and he was free from hesitation. He had made enquiries some weeks ago of a tobacconist and an ostler, and his honest mind was too robust for indecision.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cosmo stava cercando mentalmente tra le lettere “B” e aveva trovato Belper, diciamo, ventotto libbre, quando all’improvviso si ricordò di Bailey il rilegatore. Il conto era piuttosto piccolo: non più di quattro o cinque libbre al massimo, forse sei, ma lo infastidiva perché “Bai” viene prima di “Bar”. Lo inserì in cima all’elenco e continuò il suo lavoro. In un’ora, dopo molte cancellazioni e spostamenti, completò l’elenco delle lettere “B”. Ne risultarono sedici: “B” è infatti la lettera iniziale più comune. Comunque, sedici. Il totale ammontava a poco più di 300 sterline. Stava per passare alla lettera “C” con il cuore pesante, quando all’improvviso si ricordò di due “A”: Alfred, il fotografo, e Aiken, da cui aveva comprato le selle. Prese un foglio nuovo, scrisse i loro nomi, poi, con rabbia, strappò l’intero elenco e lo gettò nel fuoco. Cosa poteva significare tutto questo per lui? Doveva cinquecento sterline, forse seicento, probabilmente quasi settecento. Chiamiamole settecento. Comunque, aveva la possibilità e i mezzi per pagarle. Ma mentre fissava il foglio che bruciava davanti a lui, come un simbolo di espiazione, sentì dei passi pesanti salire le scale di pietra. Rispose a un colpo bussato con forza. E allora entrò qualcosa di ancora più importante delle sue debiti: la figura imponente e lo scopo preciso del signor Capes.
+
+Aveva il cappello in mano e portava con sé un giovane albero da piantare; i suoi gambali erano fangosi, così come le sue pesanti scarpe; ma era vestito nel suo miglior abbigliamento: i suoi pochi capelli erano stati oliati con cura, e intorno al collo portava un bel piumone nuovo. Entrò con esitazione, pieno di rispetto, e rimase fermo per un momento vicino alla porta.
+
+“Cosmo si alzò immediatamente. ‘Entri pure, signor Capes,’ disse, ‘di cosa si tratta?’”
+
+“Perché,” disse lentamente il signor Capes; “grazie, signore, è solo una piccola questione. Io, ” E qui abbassò lo sguardo sul tappeto, seguendo i motivi disegnati con l’estremità del suo bastoncino.
+
+“Vieni vicino al fuoco e siediti,” disse Cosmo. “Prendi qualcosa da mangiare.”
+
+Era una sua caratteristica nervosa, abbastanza comune nelle nostre università, dove si trascorrono anni di studi intensi: non riusciva a fissare il viso di nessuno; tuttavia parlava con sufficiente allegria. Il signor Capes si avvicinò e si sedette vicino al fuoco.
+
+“Cosa beve, signor Capes?”, chiese Cosmo.
+
+# Mr Capes
+
+(Un studio statistico realizzato per i curatori di “[[England|Inghilterra rurale]]”. Nessun altro ritratto fu possibile ottenere.)
+
+“Vino claret, grazie, signore,” rispose il signor Capes.
+
+Cosmo tirò fuori del vino rosso da college e lo versò in un bicchiere. Il signor Capes ne bevve un sorso; il suo espressione cambiò e poi posò di nuovo il bicchiere.
+
+“Preferirebbe un po’ di Porto, signor Capes?”, chiese Cosmo con ansia.
+
+“Grazie, signore,” disse il signor Capes, “non mi importa se lo faccio o meno.” C'era una certa sicurezza sotto la sua deferenza, e Cosmo faticava a rimanere in silenzio. Mentre si alzava per versare il porto al signor Capes, seduto nella sua poltrona comoda, disse: “Allora?”
+
+“Beh, ” disse il signor Capes, tenendo in mano il bicchiere e fissando il fuoco, “Ho parlato con il mio ‘Ermione’; ha pronunciato queste ultime due parole come se fossero una sola, e le ha dette con un tono molto triste.”
+
+“Ora so cosa vuole dire, signore,” continuò, alzando una grande mano di legno; intanto Cosmo teneva le labbra strette e serrate. “So cosa vuole dire, ma non dico nulla. Non voglio causare alcun dispiacere. Ma guardi!, povera mia ragazza, ” Scosse la testa su e giù, poi da una parte all’altra, continuando a fissare il fuoco.
+
+Cosmo sedeva in silenzio, con le mani giunte davanti a sé. Era sotto una notevole pressione, e ogni parola pronunciata dal signor Capes aumentava ulteriormente quella pressione, fino a renderla quasi insopportabile.
+
+Il signor Capes continuò il suo monologo con lo stesso tono e tutto il pathos di un predicatore di strada. “Mi ha raccontato tutto, signore. Davvero tutto, in modo molto chiaro; è sempre stata così!” Scosse di nuovo la testa da una parte all’altra, poi su e giù, e aggiunse: “E tutto quello che posso dire è, ” La sua voce si alzò; si girò di scatto verso Cosmo e lo fissò dritto negli occhi. “Le dovete un po’ di compenso.” Dopo aver pronunciato queste parole con enfasi trionfale, il signor Capes batté una mano aperta sul tavolo, poi posò molto delicatamente l’altro bicchiere vuoto accanto a essa.
+
+Si aspettava che Cosmo parlasse, ma Cosmo si limitò ad alzarsi e a riempire il bicchiere del signor Capes. Poi si sedette di nuovo, in silenzio, con le labbra strette.
+
+Il signor Capes, come tutti gli uomini la cui eloquenza è naturale e non frutto di studio, trovava molto difficile passare da un argomento all’altro durante i discorsi. Iniziava spesso a ripetere le stesse cose; disse due volte che la signora Capes era d’accordo con lui, e insistette almeno quattro volte sul fatto che non volesse causare alcun dispiacere. Esprimeva anche una verità profonda: che la sua Hermione non sarebbe mai più stata la stessa. E in ogni pausa ribadiva chiaramente di comprendere la posizione di Cosmo, manteneva un atteggiamento rispettoso e tornava sempre alla sola soluzione che gli era venuta in mente. Eppure, nonostante tutto questo, Cosmo rimaneva in silenzio.
+
+Il signor Capes non era ignorante di queste cose. Spesso acquistava maialini da ingrassare e, di tanto in tanto, si dedicava anche a piccoli affari illeciti. Capì che era necessario intervenire per risolvere quella situazione, se voleva che tutto finisse una volta per tutte.
+
+“Ci sono alcune piccole cose sue, forse le avete con voi, signore. So che vi aveva prestato quella storia sulla guerra per aiutarvi a comprendere meglio le mappe; inoltre, dice che avevate un tappeto e un broccio. Beh, se me li inviaste indietro, sarebbe molto appropriato. E poi io potrei portarvi indietro alcune delle vostre cose che lei possiede: so che c’è una spilla, un libro, e tutte le vostre lettere. Se ve le riporto tutte, signore, sarà davvero appropriato. E, naturalmente,” aggiunse con maggiore fermezza, “una compensazione adeguata è anche necessaria.”
+
+Il signor Capes stava lì, come se fosse sul punto di andarsene. Anche Cosmo si alzò, con lo sguardo basso e una certa determinazione nella sua voce sommessa.
+
+“Cosa vuoi?” disse lui.
+
+Nel mondo degli affari non c’è nulla di più difficile da stimare della somma di denaro contante che il figlio di un uomo ricco possa disporre in qualsiasi momento. Legalmente, spesso non ne ha affatto; praticamente, invece, potrebbe averne quanta ne desideri. Il problema diventa ancora più complesso quando il padre, influenzato dall’immagine di una figlia amata e ferita, e ostacolato da gravi errori nell’educazione ricevuta in giovane età, fatica a prendere decisioni sagge. Il signor Capes aveva un solo vantaggio: aveva già preso una decisione e non esitava affatto. Alcune settimane prima aveva fatto delle indagini presso un tabaccaio e un ostiere; la sua mente onesta e decisa gli impediva di essere indeciso.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/england"></span>
@@ -2742,6 +3064,34 @@ MR HARBURY
 
 The more serious organs of the Press, from the Times to “M.M.M.” (Money Makes Money), regarded him as a specialist upon Imperial problems; he would leave [[England]] some three times a year for Africa or the near East; he had lectured upon the fauna of Socotra; he was the friend and associate, in a sense, the link between those very varied types of administrators, soldiers, and financiers, who between them build up that which the world has not seen since Rome decayed. Two men who would mutually suspect or despise each other — for example, a somewhat narrow though upright general officer, and a brilliant and daring speculator — would each be friends of Mr Harbury. Mr Harbury knew how to use what was best in each for the common good of [[England]]. Lord Hayshott — a man by nature contemptuous of finance; Sir Jules Barraud, of the Canadian Copper Syndicate and the Anglo-French Quick-silver Group; Henry Borsan, of Leeds; Mrs Warberton, who perhaps had more influence in British East Africa than any other white woman; were each indebted to him for services and friendship. What is more significant, it was Mr Harbury who had first pointed out to Mr Barnett all that the University meant to the Empire; how through the University the Empire could best be trained to its last ventures, and, I believe — no one can prove it — that the idea of the Mercantile Scholarships was Mr Harbury’s rather than Mr Barnett’s creation. If Mr Barnett was at that moment the guest of the Principal of Barnabas, it was Mr Harbury who had introduced him to that new world.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Settecentocinquanta sterline,” disse. Poi aggiunse, per rendere le cifre meno brutali: “E nemmeno un penny in meno!”
+
+Cosmo era disperato da almeno venti minuti: nella sua mente si susseguivano una dopo l’altra mille idee. Come ultima risorsa, pensò di chiedere aiuto a suo padre, anche la fuga, se non restava altro da fare. Non riusciva più a sopportare quell’intervista un minuto di più; avrebbe osato qualsiasi cosa.
+
+“Vieni qui, in questa stanza, alle otto di domani sera, e l’avrai,” disse.
+
+“Domani è domenica,” rispose il signor Capes, con un tono di rimprovero nella sua respirazione affannosa.
+
+“Allora alle dieci di lunedì mattina,” disse Cosmo, ormai più padrone di sé stesso, “e, signor Capes, desidera un altro po’ di vino?”
+
+Quella sera, il signor Capes trasse le sue conclusioni: soddisfatto della costante cortesia di Cosmo (si era preparato al peggio), compiaciuto del proprio grande tatto, felice della semplicità della propria natura e di quella del mondo intero; tutto ciò si stemmava nel vino rosso, che quasi sommerse in lui il ricordo di sua figlia poverina e della sua irreparabile perdita.
+
+Quella notte Cosmo non riuscì a dormire; sentiva la pioggia cadere sulle bandiere, e quel suono si mescolava al suo dispero. Verso le cinque, quando la luce del giorno divenne insopportabilmente intensa, cadde in un sonno profondo e infelice, nel quale non sognò né trovò alcun sollievo. Si svegliò solo a metà pomeriggio. Si vestì con estrema distrazione, fece colazione e trascorse l’intero pomeriggio in silenzio, senza pensare a nulla e senza cercare una soluzione. Non riusciva nemmeno a leggere. Su di lui era calato quel “spirito morto” che spesso affligge gli uomini nei momenti difficili, soprattutto coloro che per natura sono lenti e apatici. Alla sera vagò senza scopo per il club; ma entrando nella sala principale vide il signor Harbury seduto in una poltrona, intento a leggere. Quella vista lo confortò. Il solo aspetto del signor Harbury evocava un mondo di azioni metodiche, decisioni chiare e cose ordinate.
+
+Il signor Harbury, che avrebbe svolto un ruolo così importante nella vita di Cosmo e di suo padre, era un uomo del genere che solo il nostro vasto Impero poteva produrre.
+
+Era alto e di aspetto curato; i suoi capelli scuri, con sfumature di grigio metallico, gli ricadevano vicini alla testa. I tratti del suo viso erano molto regolari e decisi: il naso era sottile e leggermente curvo, con la punta che si abbassava in modo netto, come se qualcuno l’avesse appena toccata delicatamente con un martello. La bocca era particolarmente ferma, e su entrambi i lati vi erano due linee marcate, come segni di un disprezzo lieve ma deciso e permanente. Il colore bronzo della sua pelle, i suoi occhi lunghi e chiari con le rughe agli angoli, il passo deciso che aveva, tutto questo testimoniava l’esperienza accumulata nei viaggi e una conoscenza equilibrata e profonda degli esseri umani.
+
+Era un uomo silenzioso. Quella modestia che rappresenta il principale fascino della nostra razza, nel suo tipo più nobile e autorevole, era così radicata in lui che, negli ultimi quattro anni, si era sentito parlare di lui solo due volte in relazione alla sua famiglia o alle sue avventure personali. Le poche informazioni che forniva sui libri di riferimento bastavano a far capire al mondo che proveniva da una nobile famiglia del Lincolnshire; in effetti, gli stemmi presenti sul suo argento, piccoli ma dignitosi, appartenevano ai defunti Harbury di Lanby. Probabilmente un discendente di questa famiglia si era stabilito come mercante nelle Isole dei Levanti due generazioni prima. Lì, probabilmente svolgendo il ruolo di cappellano o missionario, il padre di Mr Harbury aveva ricevuto l’ordinazione sacra; tuttavia, in quale periodo della sua vita e nella comunità anglicana o maronita, questo non è noto. La vecchia signora Maring mi ha detto di ritenere che fosse proprio lui che un tempo aveva incontrato nell’ufficio di suo padre, quando questi era console a Smirne. Per quanto riguarda il resto, le poche informazioni presenti in “Who’s Who” su Mr Harbury ci dicono che ha viaggiato in Persia e Afghanistan, che conosce molto bene l’Egitto – su questa provincia dell’Impero ha scritto molti articoli per i giornali “Times” e “Financial News” – e che i suoi passatempi preferiti sono la caccia, la pesca, il yachting, il golf, la caccia alle volpi, il polo e i viaggi. Possiede anche diversi club, tra cui quello del Devonshire.
+
+Uomini di questo stampo non possono fare a meno di influenzare in ogni modo il destino della nostra Razza; la natura delle loro attività non è facile da definire, ma è evidente e benefica. Il suo potere certamente non derivava semplicemente dalla ricchezza – anzi, la fortuna del signor Harbury, proveniente da una rispettabile famiglia clericale levantina, non poteva superare le centocinquantamila sterline – ma dal suo piacevole ambiente domestico, situato a breve distanza dall’Università, egli esercitava un’influenza positiva attraverso venti diversi ambiti della vita imperiale.
+
+# Signor Harbury
+
+Gli organi di stampa più seri, dal “Times” a “M.M.M.” (Money Makes Money), lo consideravano un esperto in questioni imperiali; lasciava [[England|Inghilterra]] circa tre volte all’anno per l’Africa o il Vicino Oriente; aveva tenuto lezioni sulla fauna di Socotra; era amico e, in un certo senso, collegamento tra quei diversissimi tipi di amministratori, soldati e finanziatori che insieme contribuivano a costruire qualcosa che il mondo non aveva più visto da quando Roma era caduta. Due uomini che avrebbero potuto sospettarsi o disprezzarsi a vicenda – ad esempio, un ufficiale generale piuttosto rigido ma onesto e uno speculatore brillante e audace – erano entrambi amici di Mr Harbury. Quest’ultimo sapeva come sfruttare al meglio le qualità di ciascuno per il bene comune di [[England|Inghilterra]]. Lord Hayshott, un uomo che per natura disprezzava il mondo finanziario; Sir Jules Barraud, del Canadian Copper Syndicate e dell’Anglo-French Quick-silver Group; Henry Borsan di Leeds; Mrs Warberton, che forse aveva più influenza in Africa Orientale Britannica di qualsiasi altra donna bianca, tutti erano in debito con lui per i suoi servizi e la sua amicizia. Ancora più significativo è il fatto che fu proprio Mr Harbury a far notare a Mr Barnett tutto ciò che l’Università rappresentava per l’Impero; come, attraverso l’Università, l’Impero potesse essere meglio preparato alle sue imprese future. E credo – nessuno può provarlo – che sia stata proprio l’idea delle borse di studio commerciali ideata da Mr Harbury, e non da Mr Barnett. Se in quel momento Mr Barnett era ospite del rettore dell’Università di Barnabas, fu Mr Harbury ad avergli presentato quel nuovo mondo.
 
 
 
@@ -2831,6 +3181,90 @@ In spite of his good nature, Mr Harbury was almost angry with a young man aghast
 “Cosmo,” he said firmly, so that he made himself obeyed, “you say this man is coming at ten to-morrow. I will come at nine and bring you the money — in notes, mind you — in notes. Then, since your nerves are in that state, we will go up to town and I will take you to Ashington. I know him as well as I know you; he will lend it you at 15 per cent. at the very most, and I will see that he does it; and if you must clear your mind, you can pay me then. Sixty per cent.! Oh, Cosmo, Cosmo, what a lot you have to learn.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tuttavia, con il nome di Mr Barnett – un nome che a tutti gli inglesi evoca questioni di molto maggiore importanza – entro nel tema principale di queste poche pagine: quel sfortunato malinteso riguardo al M’Korio Delta e le sue conseguenze fatali per Mr Burden, mio amico. Lascio questi argomenti nel loro ordine naturale e torno a parlare di Cosmo nel suo dispero.
+
+Il signor Harbury conosceva Cosmo e gli piaceva. Voleva conoscerlo meglio e apprezzarlo di più. In un attimo capì in quale stato d’animo si trovasse il giovane e intuì subito – se non la causa esatta – almeno la natura generale della sua difficoltà. Lì, davanti ai suoi occhi, c’era chiaramente “il denaro”, come qualcosa di concreto e evidente.
+
+Cosmo tentò di iniziare una conversazione, ma fallì. Il signor Harbury gettò il suo giornale per terra e si girò leggermente verso di lui.
+
+“Un fardello,” disse.
+
+“Sì,” disse Cosmo.
+
+“Vieni a cena con me stasera.”
+
+“Non sono in condizioni di cenare con nessuno, ” disse Cosmo, e mentre lo diceva mentalmente aggiunse “700 più 750”, poi si alzò a disagio e si risedette, appoggiandosi allo schienale con le mani abbandonate sul bracciolo della sedia.
+
+Cosmo si vantava – e a ragione – della sua reticenza; ma fino ad allora Cosmo non era mai stato torturato. Si disse che Harbury era un uomo più anziano. Lo conosceva come una persona silenziosa e saggia. Guardò il suo compagno di sguardo obliquo, e pronunciò quelle parole d’un fiato, come se volesse liberarsi al più presto di quel pensiero, ma indossando quel sorriso convenzionale con cui gli uomini poco esperti nascondono ogni tipo di emozione intensa o confusione.
+
+“Devo effettuare un pagamento domani alle dieci in punto, e dovrò passare del tempo a cercarlo, ma non lo troverò, Harbury. Non c’è, capisci.” Poi fece una pausa, contento di essere riuscito a trovare parole di spensierata baldanza maschile.
+
+Il signor Harbury voleva ridere, ma aveva un'espressione seria. “Quanto costa, Burden?” chiese.
+
+“Non ho dormito tutta la notte,” rispose Cosmo con rabbia.
+
+“Sì, ma quanto costa?” chiese con pazienza il signor Harbury.
+
+“Ah… Non importa, purché sia fuori portata, comunque.”
+
+# Mr Harbury fu deciso
+
+“Non ha mai senso menzionare la parola ‘denaro’ se non si parlano di somme precise,” disse. Il signor Harbury sapeva bene di cosa stava parlando, e l’esitazione di Cosmo iniziò a svanire: esitò per un momento, mentre il signor Harbury rimase immobile, proprio come fanno i pescatori sopra acque scure e lisce al tramonto.
+
+Gli uomini giovani spesso sono timidi di fronte a grandi somme di denaro; non comprendono la facilità e la fluidità moderne, il continuo andirivieni della ricchezza.
+
+“Mille,” mormorò Cosmo piuttosto che dirlo ad alta voce.
+
+Il signor Harbury sorrise in modo così spontaneo e radioso che, per un momento, sembrò quasi più giovane di Cosmo stesso.
+
+“Mio caro amico…”, disse. “Mio caro amico.”
+
+Poi il suo sorriso si trasformò in una risata sincera. Si alzò nella poltrona imbottita e posò una mano sul ginocchio di Cosmo:
+
+“È davvero questo che ti preoccupa, Cosmo?”
+
+Cosmo Burden reagì al suono del proprio nome. Per ben quattro anni aveva dato per scontata la popolarità di Mr Harbury, ma non aveva mai capito esattamente perché quell’uomo silenzioso e dai capelli scuri avesse conquistato così tanti amici, né perché nessuno lo avesse perso; come mai, vivendo a distanza, viaggiando spesso e comparendo soltanto come visitatore o ospite, avesse aumentato il proprio valore fino a diventare quasi il fulcro di tutto ciò che era veramente importante all’università. Ora lo sapeva: Mr Harbury aveva sfruttato i suoi viaggi; lui poteva aiutare.
+
+Anche il signor Harbury provò in quel momento una sorta di gioia; perché sapeva di aver acquisito un altro amico, e per uomini del genere gli amici rappresentano (se solo lo sapessimo!) la parte più preziosa del conforto che riescono così facilmente a ottenere.
+
+Lo ripeté ancora, ridendo per la bontà del suo cuore:
+
+“È davvero questo che ti preoccupa, Cosmo?”
+
+“C’è già abbastanza di cui preoccuparsi,” disse Cosmo. Lo disse con la testa ancora bassa, e lo disse in modo triste. Ma nella sua voce c’era speranza.
+
+Il signor Harbury si sdraiò con l’atteggiamento di un uomo stanco per via delle ripetizioni.
+
+“Ci sono cinquanta uomini che te la darebbero entro le prossime due ore,” disse.
+
+“Cosmo, che aveva letto molti libri, scosse la testa con decisione e rispose…”
+
+“Sono deciso a non chiedere prestiti ai miei amici.”
+
+Poi si alzò, camminò verso la finestra e guardò fuori nella pioggia, con quell’espressione sul viso che rappresenta l’essenza della mascolinità della nostra gioventù.
+
+Il signor Harbury lo guardò mentre stava lì, a pochi passi di distanza, nella luce grigia, con il viso voltato da un'altra parte. Ripensò tutto ciò che sapeva sugli uomini imbarazzati, sui giovani che non conoscevano la natura del mondo, e poi disse tranquillamente:
+
+“Te la darò io stesso.”
+
+Ma Cosmo ripeté la frase che riteneva migliore:
+
+“Gliel’ho già detto: non prenderò in prestito nulla dai miei amici,” e accentuò ulteriormente il proprio atteggiamento virile, rimanendo fermamente fermo sulle proprie posizioni. Il signor Harbury era davvero impaziente.
+
+“Allora prendilo in prestito nel modo normale,” disse, “ma per l’amor del cielo non lasciare che una somma del genere ti stressi, le persone sono davvero strane quando si tratta di soldi e c’è fretta, ”
+
+“Poi si girò di scatto e gridò…”
+
+“Mio Dio, non vale la pena tutto questo trambusto. Prendilo in prestito da qualche uomo normale. De Vere, o Ashington, o Massingberd, o qualcun altro. Loro sanno chi sei.”
+
+“So cosa succede quando la gente fa così,” disse Cosmo, perché aveva letto mille cose; poi aggiunse: “Il sessanta percento, ”, come se si trattasse di una sorta di codice segreto, che dimostrava la sua vasta esperienza nell’ambito umano.
+
+Nonostante la sua buona natura, il signor Harbury era quasi arrabbiato con quel giovane che, spaventato dall’idea di dover pagare mille sterline, usava frasi raffinate e faceva riferimento a quei “60 per cento” legati ai tribunali di polizia e ai romanzi; quei “60 per cento” che i contadini, le povere vedove, gli ufficiali di rango inferiore, coloro che si nascondevano e tutti quanti non avevano alcun appoggio dovevano pagare.
+
+“Cosmo,” disse con fermezza, in modo che gli venisse obbedito, “hai detto che quest’uomo arriverà alle dieci di domani. Io verrò alle nove e ti porterò i soldi, in banconote, ricorda, in banconote. Poi, visto lo stato dei tuoi nervi, andremo in città e io ti porterò ad Ashington. Lo conosco bene, proprio come conosco te; ti presterà i soldi al massimo al 15 per cento, e mi assicurerò che lo faccia. E se hai davvero bisogno di schiarirti le idee, potrai pagarmi allora. Il 60 per cento. Oh, Cosmo, Cosmo, quante cose devi ancora imparare.”
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_06" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/money_gold,concept/empire_and_imperialism,concept/capitalism,concept/money_and_avarice,form/satire,form/social_novel"></span>
@@ -2899,6 +3333,70 @@ Then old Mr Ashington came toddling back, put on gold spectacles with great elab
 LORD GEORGE HAMPTON, PIONEER AND EXPLORER (FROM A SKETCH VERY KINDLY COMMUNICATED BY THE ARTIST, HIS SISTER, LADY OONA HAMPTON)
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cosmo aspettò un po’, come si fa nei libri di storie, e poi il signor Harbury, vedendo l’espressione sul suo viso, capì che aveva acconsentito. Il signor Harbury rise di nuovo, posò una mano sulla sua spalla, e Cosmo, che sicuramente si sentiva molto più leggero, gli chiese dove avrebbe mangiato e disse che ci sarebbe andato anche lui.
+
+Al dinner del signor Harbury, metà accademico e metà politico, Cosmo incontrò un gruppo di persone che sono al cuore della nostra vita oggi e che guidano principalmente lo Stato e i suoi grandi destini. Ascoltò in silenzio il Master of Barnabas, Charles Gayne e altre dodici persone impegnate nell’organizzazione delle nuove borse di studio commerciali; c’era anche il professor Ezekiel K. Goode, Ph.D., il creatore del concetto di “Ilomorfismo” come sistema di pensiero. Accanto a lui sedeva un uomo di nome Ragge, la cui madre aveva compiuto grandi imprese nell’East End.
+
+Ma soprattutto notò, all'altra estremità del tavolo, il volto grande e imponente, il gesto dominante e gli occhi apatici di un uomo il cui stesso nome sembrava presagire qualcosa di grandioso: era il signor Barnett, da cui dipendeva l’intera realizzazione del progetto. Quella sera ascoltò anche, per la prima volta, menzionare casualmente una frase che avrebbe avuto un’enorme influenza sulla sua vita: “Lo Sviluppo della Delta M’Korio”. La sentì apparire e ricomparire di tanto in tanto nella conversazione, come falene che sfrecciano avanti e indietro tra gli alberi.
+
+La mattina seguente arrivò il signor Capes, ancora rispettoso e deciso come sempre. Ma l’atteggiamento di Cosmo era completamente cambiato: lo accolse con modi energici e decisi che lo sorpresero, e pronunciò le prime parole ad alta voce.
+
+“Sapete cosa penso, ragazzi. È ricatto. Lo sapete quanto me. Ha tirato fuori i soldi mentre parlava: ‘Dov’è il tuo pacchetto?’”
+
+“Non mi piace che si parli con me in quel modo, signore,” disse il signor Capes.
+
+Cosmo, nel suo sollievo, insistette ancora più energicamente.
+
+“Non posso farci nulla, Capes. Dovete ascoltarmi adesso, perché spero di non rivedervi mai più. Si tratta di ricatto. Ho detto che avrei pagato e manterrò la mia parola; ma è ricatto, e questo verrà ricordato contro di voi per tutta la vita.”
+
+A questo punto, il signor Capes fu abbastanza sciocco da dire che sperava non ci sarebbero state spiacevolezze.
+
+“Contali,” disse Cosmo.
+
+Il signor Capes prese i appunti e li esaminò uno per uno con attenzione, come se temesse qualche trucco. Poi li rilesse ancora una volta, aiutandosi con il suo grande pollice, che di tanto in tanto portava alla bocca mentre contava ad alta voce. Era soddisfatto.
+
+“Ce lo dovete, signore”, disse lentamente, “ne siete sicuro, vero?”
+
+Poi mise il prezzo di una vita comoda nel suo portafoglio, scosse la testa tristemente e tirò fuori dal suo “sedere” un pacchetto avvolto in un vecchio giornale molto sporco. Lo aprì e ne estrasse un altro pacchetto legato con un filo spesso e untuoso; Cosmo sospirò leggermente quando sentì le proprie mani toccare quegli involucri, e riprese le lettere, insieme alla tranquillità della sua mente.
+
+“Spero, ” – iniziò il signor Capes.
+
+“Non voglio più parlare con te, Capes,” disse Cosmo, cercando di controllarsi, ma continuava a parlare con voce profonda e forte.
+
+“Oh! molto bene, signore,” disse rispettosamente il signor Capes, “molto bene, signore.” Poi si diresse lentamente verso la porta e la chiuse dolcemente alle sue spalle, come gli era sempre stato insegnato fosse buona educazione. Cosmo sentì i suoi passi incerti sulle scale di pietra e ebbe l’impressione che il pericolo se ne fosse andato insieme a lui, e che, in qualche modo, la sua virilità fosse finalmente tornata.
+
+Prese il pacchetto e stava appena sciogliendo il laccio quando notò l'orologio: si rese conto di non avere quasi abbastanza tempo per incontrare il signor Harbury alla stazione. Metteva le lettere nel cassetto della scrivania, lo chiudeva a chiave e poi usciva.
+
+Quella mattina il signor Harbury portò Cosmo in città, fino a Jermyn Street; lì salirono alcuni gradini e arrivarono davanti a una porta sulla quale, su una targa di bronzo, era scritto il nome “Ashington”.
+
+C'era un impiegato di mezza età che scriveva alla sua scrivania. Si avvicinò cortesemente e prese dalla mano del signor Harbury una nota indirizzata al suo capo. La nota aveva lo scopo di presentare Cosmo e lui stesso, nonché di spiegare il motivo della loro visita. L'impiegato uscì subito dopo: prima fece accomodare un anziano cliente le cui mani tremavano, poi fece entrare i due nuovi visitatori attraverso la porta di vetro verde. Infine chiuse la porta e Cosmo, con una certa reverenza, si sedette e guardò intorno a sé.
+
+Signor Ashton, da un ritratto – (con il suo nome di battesimo, signor Curlew), presente in “Hosts and Hostesses of Rutlandshire”.
+
+C'era un grande tavolo su cui si trovavano due romanzi, un enorme calamaio, due candelabri d'argento, un pezzo di cera da sigillare e una deliziosa statuetta in bronzo di Napoleone. Sul tavolo c'erano anche alcune lettere e due buste pronte per essere spedite. Seduto al tavolo c'era un anziano signore, con occhi gentili e luminosi e un sorriso cordiale; tuttavia tossiva spesso ed era di salute cagionevole. Mentre parlava, sbatteva le palpebre e si mordicchiava il labbro inferiore. Inoltre, aveva l'abitudine di ripetere le frasi che diceva. Cominciò dicendo:
+
+“Beh, beh, ”, e poi lo ripeté ancora, sorrise e aggiunse: “È molto semplice, Harbury, davvero molto semplice. Immagino che questo signore sia maggiorenne, è maggiorenne?” Guardò di nuovo con gentilezza Cosmo e chiese ancora: “è maggiorenne?”
+
+Cosmo disse di avere ventitré anni. Temeva che fosse maleducato da parte sua non menzionare i certificati di nascita o altre prove; ma quella dichiarazione sembrò sufficiente. Fu sorpreso dalla facilità con cui si risolvevano queste questioni misteriose in questo nuovo e grande mondo che non conosceva affatto.
+
+Il vecchietto si alzò, camminando con le ginocchia piegate e facendo passi corti, dicendo:
+
+“Prenderò un modulo, prenderò un modulo, Harbury. Prenderò un modulo.” E poi andò verso un’altra porta all’estremità della sua piccola stanza.
+
+Nel silenzio, Cosmo osservò le pareti, notando il loro stile e il loro comfort: i meravigliosi mezzotinti inglesi realizzati con maestria italiana, e l’atmosfera, in ogni dettaglio della decorazione, di armonia con lo spirito e i costumi inglesi; quel vecchio quartiere inglese dignitoso in cui quella casa era stata costruita duecento anni prima. Mentre ancora rifletteva su questi elementi che trasmettevano sicurezza e tranquillità, il signor Harbury gli disse dolcemente e con un sorriso:
+
+“Cosmo, ho chiesto 1250 sterline. Sono decisa che tu debba ricevere qualcosa in cambio; devi avere la mente completamente libera, quando arriverà il momento di iniziare il lavoro che potresti dover svolgere.”
+
+E Cosmo non fece altro che sorridere, in modo un po' triste, e annuire una o due volte.
+
+Poi il vecchio signor Ashington tornò zoppicando indietro, si mise con grande cura gli occhiali d’oro, posò il documento sul tavolo accanto a Cosmo e, chinandosi su di esso, seguì con il suo delicato dito bianco le poche clausole contenute al suo interno; Cosmo le lesse, mormorando le parole una per una; e poi il vecchio signor Ashington disse:
+
+“È qui che devi firmare; è qui che devi firmare; è qui che devi firmare.” E Cosmo firmò, e così la cosa fu sistemata.
+
+Lord George Hampton, pioniere ed esploratore (da uno schizzo gentilmente fornito dall’artista, sua sorella, Lady Oona Hampton).
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_01" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="setting/england"></span>
@@ -2943,6 +3441,46 @@ It is to Mr Barnett’s honour that he paid for the monument, which is of Cornis
 After Basingstoke’s great effort, several travellers appeared in succession in the M’Korio valley, and completed his work. Each entered after incredible exertions through the Kuru gorge; each descended the river to its mouth, bearing his life in his hands, each survived, and each published a book upon his return to [[England]]. Bayley Pasha in 1876, the indomitable Higgs in the same year, poor Lord Charles Hampton in 1878-79, and “Hell or Glory” Powell, in 1880, achieved the exploration of the country. These, together with a few rather noisy continental claimants to similar honours, were the pioneers. Sir Henry Jeorz signed the first treaty with the Noyo of Naya in 1882, thereby overriding the previous arrangement which that sovereign had signed with some German adventurer. Next year a similar footing was obtained in the town of Saràka and the surrounding district by the genius of Captain Ronald, who deposed and exiled the Alemami, forbade polygamy, put down the slave trade with a rigorous hand, publicly burned the Sacred Umbrella, and was on the point of executing a Belgian botanist, when news of his exploits reached [[England]], and he was suddenly recalled by the Secretary of State for War, a personal friend who had long mourned him as dead.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO III
+
+Il delta del M’Korio si trova, come suggerisce il suo nome, alla foce del fiume M’Korio.
+
+Questo corso d’acqua prolungato e benefico fu avvistato per la prima volta il 10 luglio 1863 dal nobile Garry, che, incontrandolo durante la stagione delle piogge e confondendone la natura, lo chiamò “Lago Coburg”. Lo attraversò senza rendersi conto dell’errore.
+
+Fu nuovamente visitato l’anno seguente (a meno che non si accetti la storia molto dubbia raccontata da Van Arlst due anni prima) dall’intrepido Matherson nel 1867. Matherson ebbe la sfortuna di attraversarlo durante la stagione secca e non era affatto consapevole della sua importanza. Sul suo mappe storico, ancora conservato dalla Royal Geographical Society a Burlington Gardens, il luogo è indicato con le parole “qui ci sono stagni”; inoltre, vi è una nota marginale che menziona un portatore di merci, recentemente convertitosi al cristianesimo, ma divorato in questa zona da un coccodrillo.
+
+Il vero scopritore del fiume, il primo ad averne riconosciuto la natura e tracciato il corso, fu il santo Basingstoke, allievo della N.K.C.B.
+
+Basingstoke nacque molto probabilmente nella contea di Murphy, nel Nuovo Galles del Sud, sul fiume Tamigi, a pochi chilometri da Tarára. Arrivato in [[England|Inghilterra]], fece ciò che la sua natura gli suggeriva e dimostrò in diverse occasioni un comportamento devoto e timoroso di Dio; questo gli valse una lettera di raccomandazione da parte del suo ultimo padrone, il signor Heck, di Lindens, Fulham. Con questa lettera si recò in Europa continentale, lavorò per un certo periodo nell’attuale Grand Hotel ad Assisi e lì ebbe luogo la più grande avventura della sua vita.
+
+Fu su raccomandazione di questo hotel che Basingstoke partì da Napoli nel marzo del 1873, in compagnia di un italiano di nome Mucciani, che si vantava di qualche titolo straniero e disponeva di mezzi considerevoli.
+
+Quest’uomo è morto; come e dove sia morto non lo sapremo mai, perché nei terribili giorni di febbre che seguirono, solo un coraggio eccezionale riuscì a salvare Basingstoke dalla distruzione. Abbiamo le sue stesse parole: “Non aveva la minima idea di dove si trovasse o di cosa stesse facendo”, e i vestiti e gli effetti personali di Mucciani (che spettava a lui pulire e curare) “scomparvero durante il periodo di delirio”. Tuttavia, aggiunge con saggezza: “Devo riuscire; so che quando Dio è dalla mia parte, tutto sarà possibile”. Questa frase rappresenta perfettamente la sua vera umiltà e ci aiuta a comprendere la forza che possedeva.
+
+I neri avevano una fiducia assoluta in lui. Appena oltre le rapide di Harra (dove le indicazioni geografiche italiane sulle mappe iniziano per prime ad essere scritte sbagliate e poi scompaiono del tutto), fu costretto a sparare a due dei suoi portatori per frode. Non esiste nome più duro per definire un simile atto. L’intera compagnia fuggì nella foresta, lasciandolo solo con un uomo, Mahmoud, il cui attaccamento verso di lui aveva qualcosa di quasi idolatrico. Non gli rimasero armi: soltanto un fucile, quindici cartucce e un pesante frustino; Basingstoke, essendo il più forte dei due, portò tutto ciò senza lamentarsi fino alla fine del viaggio. Legati insieme con una corda, per evitare di perdere contatto tra la fitta boscaglia, questi coraggiosi uomini continuarono a camminare barcollando, finché non emersero a Háli (o Gambetta, come il luogo viene chiamato oggi), più morti che vivi. E ricevettero aiuto da una tribù amichevole che conosceva quel nome inglese e ne tremava.
+
+Miracoli, se si può usare questo termine con reverenza, avvennero durante il loro viaggio lungo il fiume da questo luogo fino alla costa, situata a centocinquanta miglia di distanza. In un certo punto la loro canoa fu circondata da una folla rumorosa di indigeni, i quali si zittirono all’ascolto della lettura di quel magnifico passaggio della Genesi, 36:22-28. In un altro momento furono inseguiti da una femmina di ippopotamo di dimensioni enormi; in un terzo luogo non osarono sbarcare per paura dei leoni; in un quarto arrivarono in un villaggio indigeno proprio nel momento giusto, appena tre ore dopo la morte di un enorme serpente. Arrivati alla foce del fiume, avevano tutte le ragioni di temere di essere attaccati da una cannoniera portoghese. Basingstoke stese silenziosamente il proprio fazzoletto bianco su un canneto; l’insegna fu riconosciuta e poterono proseguire senza problemi. Dopo tre giorni in mare, le loro provviste si esaurirono. Basingstoke ha raccontato con parole indimenticabili la generosa lotta tra lui e Mahmoud, e come il servo si sia calato nell’acqua di notte per salvare il suo padrone.
+
+Molti di noi possono ancora ricordare il suo arrivo in Europa, la sua supplica a Exeter Hall per quei milioni di persone che aveva “trovato nell’oscurità”, la sua onorificenza conferitagli dal Re d’Italia, e la vittoria della sua causa legale contro la famiglia Mucciani.
+
+La fine di questo grande uomo è meno conosciuta. Anni dopo, quando sfortunate speculazioni avevano dissipato la sua considerevole fortuna, tornò a Gambetta, ma vi tornò soltanto per morire. La sua vita era stata sprecata. I preziosi giacimenti di petrolio su cui aveva riposto tutte le sue speranze erano ormai in mano a una compagnia straniera. Il suo cuore si spezzò. È sepolto in un campo appena fuori dai confini di Gambetta, sotto un bellissimo monumento con l’iscrizione semplice:
+
+# C. M. Basingstoke
+
+Nato a Beatrice, N.S.W., il 6 luglio 1841
+
+# Educato al Mason’s Orphans’ College di Clapham
+
+Morì il 6 gennaio 1895.
+
+“Sarò un fuggitivo e un vagabondo sulla terra.”
+
+È un onore per il signor Barnett che abbia pagato per la realizzazione di questo monumento, fatto di granito cornico con incastonature nere semplici. L’intera opera è frutto del lavoro britannico: progettata a Battersea da uno degli artisti di Chelsea, eseguita a Camberwell e trasportata dalla rinomata ditta B. L. Jowell & Co. di Holborn Viaduct. La posa del monumento è stata curata da Burroughs. È possibile ottenere fotografie dello stesso presso il signor Gale, al numero 742 di Strand; inoltre, una targa commemorativa è stata eretta nell’Abbazia di Westminster grazie a donazioni americane.
+
+Dopo lo grande sforzo compiuto da Basingstoke, diversi viaggiatori apparvero uno dopo l’altro nella valle di M’Korio e completarono il suo lavoro. Ognuno di loro superò prove incredibili attraverso la gola di Kuru; ognuno discese il fiume fino alla sua foce, rischiando la vita in ogni momento; tutti sopravvissero e, al loro ritorno in [[England|Inghilterra]], pubblicarono dei libri sulle loro avventure. Bayley Pasha nel 1876, l’indomabile Higgs nello stesso anno, il povero Lord Charles Hampton nel 1878-79, e “Hell or Glory” Powell nel 1880 riuscirono a completare l’esplorazione di quella regione. Questi, insieme ad alcuni altri viaggiatori europei che rivendicavano simili onori, furono i pionieri di tale impresa. Nel 1882 Sir Henry Jeorz firmò il primo trattato con il Noyo di Naya, annullando così l’accordo precedente stipulato da quel sovrano con alcuni avventurieri tedeschi. L’anno seguente, grazie all’intelligenza e alla determinazione del Capitano Ronald, si ottennero risultati simili nella città di Saràka e nelle aree circostanti: egli depose ed esiliò i clan Alemami, proibì la poligamia, rese impossibile il commercio di schiavi, bruciò pubblicamente l’“Ombrello Sacro” e stava per giustiziare un botanico belga quando le notizie delle sue imprese raggiunsero [[England|Inghilterra]]; immediatamente fu richiamato a Londra dal Segretario di Stato per la Guerra, un suo amico personale che da tempo lo considerava morto.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_02" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="histref/british_empire"></span>
@@ -2977,6 +3515,36 @@ It is time that I presented to my readers a presentment of this remarkable man w
 It may seem an impertinence in me to do so. His name is familiar enough to the whole world for such a description to seem superfluous. It must be remembered, however, that I have frequently come into personal contact with his genius, that he was for some months the financial guide of the dear friend whose record I desire to establish, and that he would — had that friend’s weakness permitted it — have remained his guide to the end. Indeed, the just description of this great Builder of Empire is a duty which I owe, not only to the memory of Mr Burden, but to Mr Barnett himself. He has furnished me with many of the materials of this work, and he will be the first, not only to endorse, but to applaud my confidences.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+A Ronald fu assegnato un incarico eccellente; da allora ha goduto di tutta la reputazione pubblica che una posizione simile può garantire, nonché dei vantaggi derivanti da un matrimonio agiato. Tuttavia, l’errore legato alla sua rimozione fu l’inizio di una serie di errori ufficiali che, in pratica, vanificarono tutti i risultati del suo eroismo personale.
+
+Capitano Ronald
+
+Con il gentile permesso dell’autore e dell’editore di “Rulers of Men”
+
+Finché il signor Gladstone continuò, grazie al suo straordinario ascendente personale, a concentrare l’opinione pubblica inglese su questioni locali, la valle del M’Korio rimase indicata sulla mappa come territorio britannico; i nostri vicini e rivali ritenevano che essa fosse in qualche modo collegata all’[[British Empire|Impero Britannico]]. Le rivendicazioni portoghesi su quella località, situata alla foce del fiume, furono accettate tramite arbitrato, confermate e infine acquistate per la somma enorme di ottantatré migliaia settecento quaranta sei sterline. Qualche stazione distribuita lungo i millecentoventi chilometri del corso del fiume, ognuna occupata da un numero esiguo di truppe – queste e le attività missionarie tipiche della nostra nazione – erano sufficienti a mantenere il prestigio della Gran Bretagna.
+
+Con il grande movimento nazionale del 1886, questa pericolosa e indegna situazione giunse al termine. Un governo che comprendeva davvero il significato della parola “imperiale” procedette alla divisione dell’Africa. Per quanto riguardava la regione del M’Korio, tale divisione fu caratterizzata da una semplicità maestosa: l’intera riva destra fu riconosciuta come parte dell’influenza francese, e queste zone finirono per fondersi con le possedimenti francesi in Africa. L’intera riva sinistra, fino alle regioni dei Camerun, fu invece assegnata alla Germania. Noi non conservammo alcuna sovranità effettiva su quelle vaste aree interne; ciò che ottenemmo fu la proprietà concreta e tangibile del Delta. Il futuro potrebbe dimostrare che abbiamo stabilito lì il nostro dominio su uno dei territori più preziosi della Terra.
+
+Questo Delta si estende per circa 145 miglia sul mare. È delimitato da due principali affluenti del fiume, che si incontrano a una distanza di circa novanta miglia dalla costa; tuttavia, come avviene quasi sempre in queste formazioni geografiche, anche il fiume M’Korio raggiunge l’oceano attraverso un gran numero di canali più piccoli.
+
+“A MORO-KANU”, ovvero un membro della classe superiore dei Yaba. Questa classe possiede la maggior parte delle terre e controlla tutta la direzione politica della regione del Delta. Infatti, è proprio grazie al loro dominio su una politica strettamente aristocratica che dipendono le principali opportunità di ricevere un'educazione imperiale in quella provincia.
+
+In nessun modo l'intera provincia è permanentemente sommersa d'acqua. Esistono diverse isole di terra ferma, sufficienti a fornire sostentamento a una popolazione scarsa ma combattiva, divisa in circa cinque o sei tribù distinte; i nativi circostanti conoscono queste persone con il nome collettivo di Yaba. La riduzione di questa nostra “comunità di individui metà demoni e metà bambini” sarebbe probabilmente risultata un compito troppo arduo per qualsiasi esercito, tranne quello addestrato nella nostra straordinaria e permanente scuola di guerra coloniale. In realtà, una breve campagna fu sufficiente a stabilire quella “Pax” che il comandante, nei suoi dispacci, definì abilmente “Britannica”. Prima del mese di dicembre 1887, l'esercito poté reimbarcarsi sulla nave Princess Mary; la sua missione era stata compiuta.
+
+La rivolta del 1888 fu molto più difficile da gestire, e quella del 1889 (che può essere considerata parte delle turbolenze del 1890) sottopose le risorse locali del nostro potere a una pressione estremamente intensa. Tre ufficiali, sette sottufficiali bianchi e non meno di 120 soldati nativi persero la vita a causa della febbre prima che finalmente si ristabilisse l’ordine.
+
+La rivolta del 1891 fu una questione di poco conto, deliberatamente esagerata da quella parte antipatriottica della Camera dei Comuni, nonché a causa dell'invidia o dell'ignoranza della stampa continentale; in effetti, per ben tre anni non furono necessarie alcune operazioni militari, e nemmeno le disordini armate verificatesi nel 1894 meritavano davvero il nome di rivolta; quanto al movimento poco noto del 1897, di cui abbiamo sentito molto parlare in questo paese, sembra essere stato poco più che un episodio di conflitti intertribali, che era nostro dovere semplice reprimere.
+
+Il grande sconvolgimento che ebbe inizio nel gennaio 1900 rappresentava una questione molto più grave. Le difficoltà temporanee che all’epoca stavamo affrontando nel sud del continente africano ebbero delle ripercussioni anche nella regione centrale settentrionale; e, per quanto possa sembrare ridicolo, i gruppi politici locali potrebbero aver pensato, insieme ad altri concorrenti più seri, che fosse arrivato il momento di realizzare la nostra missione nazionale. Ma si sbagliavano. Nonostante le difficoltà nel reperire uomini, una campagna militare intensa, protrattasi fino ai primi mesi del 1901 e purtroppo trascurata nel clamore di eventi più importanti, riuscì infine a pacificare il paese. Nello stesso momento, la regione del Delta fu formalmente annessa e venne nominato un governatore.
+
+Non intendo affrontare la questione della rivolta del 1902: l’evento è troppo vicino a noi nel tempo per permettere una valutazione imparziale; inoltre, i disordini del 1903 non sono ancora stati descritti, mentre quelli del 1904 ne sono soltanto la conseguenza. In più, gli eventi di cui questa cronaca tratta risalgono a un episodio precedente all’ultima campagna militare: quell’episodio fu la presenza, su queste coste, del signor I. Z. Barnett.
+
+È giunto il momento che presenti ai miei lettori questa figura straordinaria, di cui molte delle pagine seguenti tratteranno.
+
+Potrebbe sembrare una mancanza di rispetto da parte mia farlo. Il suo nome è abbastanza conosciuto in tutto il mondo, quindi una descrizione del genere potrebbe sembrare superflua. Tuttavia, bisogna ricordare che ho avuto spesso contatti personali con il suo genio; per alcuni mesi è stato il consulente finanziario di quel caro amico il cui operato desidero descrivere, e se le debolezze di quell’amico lo avessero permesso, sarebbe rimasto il suo guida fino alla fine. Infatti, descrivere correttamente questo grande costruttore di imperi è un dovere che debbo assolvere non solo per onorare la memoria del signor Burden, ma anche per rispetto verso il signor Barnett stesso. Mi ha fornito molti dei materiali necessari per questo lavoro, e sarà il primo a dare il proprio sostegno, e anzi ad applaudire, le mie riflessioni.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
@@ -3007,6 +3575,32 @@ That Mr Barnett should suffer from such a prejudice was in his case a peculiar h
 This legitimate purpose she did not live to fulfil. She died soon after her establishment in [[London]], and her husband did not long survive her.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Gli uffici di Mr Barnett in Broad Street sono ben noti a tutti nella [[City|>Città]]. Sotto il nome della M’Korio Delta Development Co., come lo stesso Mr Barnett ha detto con grande efficacia su “Intellectual Review”, rappresentano qualcosa di davvero familiare per chiunque. Occupano, naturalmente, i numeri 73, 75, 77, 79 e 81 di Golden Square House. Meno noto è il fatto che, con il nome commerciale “British and Levantine”, si estendono anche sui numeri 83, 85, 87, 89, 91, 93, 95, 97 e 99 dello stesso edificio. Cinque stanze al piano terra (sotto il nome di Bury & Co.) e una parte considerevole del seminterrato, utilizzate dalla XXth Century Wine Company, sono anch’esse sotto il loro controllo.
+
+Ma questa posizione non fu raggiunta immediatamente. Il cervello e la maturità umana che erano in grado di compiere un simile risultato meritano una breve biografia, anche solo per dimostrare con quali virtù di costanza e impegno il nostro paese sia arrivato a occupare la posizione attuale.
+
+Il signor Barnett nacque a Francoforte sul Meno, tra giugno 1840 e marzo 1845. Da giovane doveva essere estremamente attraente. Una fotografia scattata a Magonza nel 1863 ci mostra una folta chioma nera e lucida, occhi brillanti che promettono profondità e forza; labbra piene e un po’ sensuali, che formano una bocca di grande tenacia; una fronte larga e alta, di una pallidezza sorprendente; e un naso dal tipo pendulo, tipico delle persone dotate di capacità organizzative e perseveranza. L’evidenza delle guance rivela una forte predisposizione alle emozioni; ma è soprattutto l’insieme della sua figura a rivelare la natura del suo carattere interiore.
+
+Lord Lambeth (Mr Barnett)
+
+Dall’ritratto di Sir Henry Mosesley, R.A., K.V.O.
+
+Il giovane è raffigurato sostenuto da un piccolo pilastro, secondo lo stile tedesco di quell’epoca. La mano destra è negligentemente infilata nella tasca dei pantaloni; la sinistra, con dita piuttosto grasse, stringe un libro che crediamo sia una Bibbia inglese. C’è qualcos’altro ancora: qualcosa che una descrizione scritta fatica a esprimere, ma che colpisce profondamente chi osserva quella magnifica riproduzione a colori appesa oggi nell’atrio della casa di Mr Barnett in Charles Street. È un’impressione, piuttosto che una convinzione: quest’uomo è, in qualche modo inscrutabile, legato al destino dell’[[England|Inghilterra]]. Una tale affermazione scritta ha poco valore; pronunciata di fronte all’uomo stesso o al suo simbolo, acquista invece la forza di una profezia.
+
+Oggi, la figura e il volto sono cambiati. Quarantacinque anni non passano senza lasciare traccia, anche sugli Eroi del nostro tempo difficile. Un aumento di corpulenza – nemico ereditario della sua famiglia – ha influenzato l’andatura e la figura del signor I. Z. Barnett. I suoi un tempo rigogliosi riccioli neri sono ormai scomparsi; intorno alla testa gli circonda ora una corta ciocca di capelli grigi, ancora lucidi e curatissimi. Il viso rasato del ritratto di Mayence presenta baffi tipici della mezza età: rigogliosi, ma ancora stranamente “alieni” rispetto al passato. Il mento è più spesso e rugoso; l’intero volto appare più morbido e cascante. La vista debole, unita a un profondo senso del decoro, ha costretto il signor Barnett ad utilizzare occhiali d’oro semplici, tenuti da una semplice striscia di nastro. L’unica altra decorazione che possiede sono alcuni anelli sulle mani sinistre, un pesante sigillo, un mazzo di antichi sigilli di famiglia appesi alla catena dell’orologio, qualche grosso spillone o altro ornamento, una perla ben scelta e due gemelli di opale russo. Per quanto riguarda l’abbigliamento, è molto attento e scrupoloso: questa abitudine deriva dal suo eccessivo rispetto per se stesso, un difetto che, tuttavia, è unico e assolutamente perdonabile. Nel colore preferisce il marrone scuro; nei motivi decorativi sceglie quelli più sobri. Fa inoltre attenzione a nascondere la scomoda giunzione tra i pantaloni e le scarpe con delle calzature bianche. Raramente indossa i guanti; il suo cappello, invece, è alla moda.
+
+La sua filosofia e il suo modo di comportarsi sono forse ancora più importanti. Essendo lui stesso agnostico, ha sempre esteso le sue simpatie religiose al di là dei confini ristretti delle credenze convenzionali. La sua visione spirituale era da sempre schietta, a volte anche noiosa, ma sempre gentile e sempre volenterosa nel suo intento. La sua convinzione più profonda si esprimeva meglio nella frase che ripeteva invariabilmente al termine della stesura di complessi documenti legali: “La mia parola”, diceva in tali occasioni, “è tanto valida quanto un mio impegno scritto”. Da una certa distanza si poteva riconoscere l’uomo che aveva avuto successo e che meritava davvero di averlo.
+
+Ma quel successo non era arrivato facilmente. Infatti, fino all’ultimo atto di coraggio e audacia su M’Korio, non si poteva dire che fosse davvero consolidato.
+
+La sua nascita rappresentava un continuo svantaggio; il cambio di nome necessario per la sua carriera in [[England|Inghilterra]] ne era un altro; quel leggero accento che conservò per tutta la sua vita costituiva un ulteriore ostacolo. Siamo un popolo conservatore e geloso, e ci è difficile ammettere il genio di uno straniero, anche quando tale genio possa lusingarci o arricchirci.
+
+Il fatto che il signor Barnett dovesse soffrire di un simile pregiudizio rappresentava, nel suo caso, una particolare difficoltà. Sua madre, figlia di un inglese stabilitosi a Lisbona, era in qualche modo imparentata con l’ammiraglio Sir J. Cowen. Suo padre, sebbene tecnicamente tedesco, era una persona verso la quale dovremmo provare tutta la nostra simpatia: patriota e idealista di nobile stampo, vedeva nell’occupazione di Francoforte nel 1866 l’avvento simultaneo del militarismo e del dominio straniero. Decise quindi di abbandonare una città che gli era ancora cara, ma diventata insopportabile poiché sosteneva un oppressore. Tuttavia, troppo giusto per imporre questa decisione ai suoi due figli, loro diede la scelta: colui che rimaneva avrebbe continuato a gestire l’attività, ma con una riduzione della tariffa su tutti i sconti e gli anticipi; l’altro poteva seguirlo verso la libertà e l’[[England|Inghilterra]]. David, con riluttanza, scelse di accettare il dominio prussiano; il signor I. Z. Barnett, il figlio minore, partì invece con suo padre per questo paese, con grande gioia di sua madre, che intendeva, se possibile al loro arrivo, ristabilire i legami familiari con l’ammiraglio Sir J. Cowen.
+
+Questo scopo legittimo non riuscì a realizzarlo; morì poco dopo essersi stabilita a [[London|Londra]], e anche suo marito non visse a lungo dopo di lei.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_04" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
@@ -3030,6 +3624,26 @@ The yacht was welcome to sail without him — he was closeted day after day with
 
 He stayed as long as his health would permit, Harbury by his side, meeting the native chiefs, questioning old hunters, obtaining options, and using such legitimate influence as lay in his power with the local agent of Reuter. Almost bereft of capital, he yet secured some few concessions (for they were thought worthless) — he so disposed them that their sites commanded the best of the territory. Above all, he learnt that the paltry trade of the place, its reputation in the [[City]], and in some sense its economic future, were in the hands of two men, two friends, a shipowner and an importer of hardware. He learnt that of all men they were most contemptuous towards the M’Korio. He learnt that the shipowner thought to know it more thoroughly than any other man, and was not to be persuaded of its great destiny: that the merchant, who had never visited it, had for years driven so weak a trade as to give him the smallest opinion of its chances: that they were both men old, hard in routine, and difficult. He learnt their names. The shipowner was a Mr Abbott; the name of Mr Abbott’s friend, the hardware merchant, was Burden.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Barnett mi ha spesso parlato di quella piccola stanza ad Albany dove iniziò la sua lunga e difficile lotta contro le avversità della vita. Spendeva poco, viveva con parsimonia; in dieci anni riuscì a accumulare un capitale sufficiente per ideare e avviare la Haymarket Bank. Il progetto di questa speculazione, intrapreso da un uomo relativamente povero, dimostrò già nei primi anni trenta il genio del suo creatore. La banca si basava su un principio che, se solo fosse riuscito a portare a successo, avrebbe rivoluzionato il mondo finanziario: tutti i depositanti ricevevano ogni anno un interesse sul loro saldo medio, al tasso dell’8%. All’inizio fu difficile convincere il pubblico, abituato a procedimenti formali e tradizionali quando si trattava di denaro; ma quando, alla fine del primo anno, l’8% fu effettivamente pagato (poiché il signor Barnett non accettava somme superiori al capitale iniziale che aveva investito), la timidezza lasciò il posto all’entusiasmo e, nell’arco di diciotto mesi, l’istituto crebbe a ritmi sorprendenti. Se per caso le normali operazioni bancarie non riuscivano a generare l’interesse previsto, si poteva sempre contare su nuovi depositanti: i loro fondi erano sufficienti a garantire il pagamento del dividendo annuale. A loro volta, dopo dodici mesi, ricevevano anch’essi quell’8% che un altro gruppo di nuovi investitori era felice di versare.
+
+Su basi così originali e audaci, sembrava destinato ad emergere un nuovo sistema bancario. Nessun limite minacciava l’espansione dell’attività commerciale, fino a quando un articolo velenoso, forse ispirato interamente dall’odio politico, suggerì che gli interessi già pagati potessero provenire soltanto dal nuovo capitale fornito quotidianamente all’azienda. A questa odiosa insinuazione seguì il panico (quell’individuo spregevole non ebbe nemmeno il coraggio di presentarla come un fatto concreto), e in ventiquattro ore la Haymarket Bank andò in rovina.
+
+Se solo il signor Barnett fosse stato l’unico a soffrire per questo attacco sleale, ne avrebbe provato meno; era ancora giovane e avrebbe potuto riconquistare la propria fortuna. Ma il pensiero delle rispettabili signore della classe media, dei poveri e degli ecclesiastici che si sforzavano di tirare avanti la loro vita, rovinati non per colpa loro stessi, ma perché avevano troppo fiducia in lui, era qualcosa che non riusciva a sopportare. Ho spesso sentito parlare di quei giorni dolorosi, e lui non ha mai mancato di sottolineare che le stesse mani che hanno distrutto arbitrariamente la Haymarket Bank sono responsabili anche di quel pericoloso atteggiamento di piccolo-borghesimo che, se avesse potuto, lo avrebbe trascinato giù dal grande posto che occupa oggi. Lo stesso odio che ha rovinato le sue grandi possibilità nel campo della finanza pura, avrebbe – se ne avesse avuto il potere – distrutto anche quel culmine dell’applicazione delle conoscenze finanziarie, che non è altro che un esempio di impegno imperiale. Ma il M’Korio Delta e tutto ciò che rappresenta sono ormai al di là del potere di tali nemici.
+
+Per molti anni, il signor Barnett rimase in silenzio e nell’ombra di quel fallimento. Visitò Vienna, Costantinopoli e Calcutta; si occupò dell’estensione della ferrovia anatolica, ma anche quell’iniziativa fallì, e lui si ritirò nuovamente nella vita privata. Passando per Il Cairo, godette dell’ospitalità semplice e sincera della devota famiglia Harbury; attraverso le preghiere mattutine, pomeridiane ed serali di quella casa isolata, trovò una pace che non conosceva ancora. Assunse il giovane Harbury come segretario e, con un animo più sereno, decise di tentare nuovamente di ristabilire la propria fortuna. Fu determinante nell’ottenere una somma di denaro estremamente necessaria per il Vidame de Sorral: quel nobile, con la generosità tipica della sua classe sociale, spese una parte considerevole del proprio nuovo patrimonio per un yacht; su quella nave, superando un rifiuto insensato e irragionevole, portò il suo benefattore in un breve viaggio lungo la costa africana.
+
+Fu in queste circostanze che il signor I. Z. Barnett, negli ultimi pochi anni, vide per la prima volta la terra che avrebbe reso famosa.
+
+Erano ancorati al largo della foce occidentale del fiume M’Korio. La mattina era estremamente calda, senza un filo di vento. Gli alberi che delimitavano il bordo paludoso del Delta tremolavano come in un miraggio; a sinistra, su quella terra elevata distante circa tre miglia, alcune puntine bianche indicavano l’insediamento e la residenza del governatore.
+
+Quante volte il signor Barnett non ha raccontato questa storia! La sua curiosità oziosa, i due giorni di caccia trascorsi nei pantani insieme al suo ospite, la leggera febbre, la bandiera britannica al mattino. E poi, all’improvviso, un’ispirazione completamente nuova: la visione di ciò che questo posto avrebbe dovuto diventare!
+
+Il yacht poteva tranquillamente navigare senza di lui; lui trascorreva giorno dopo giorno in compagnia di funzionari e viaggiatori che aspettavano la posta inglese. Viaggiava, in un modo che gli permetteva di osservare tutto attentamente. Riuscì persino ad ottenere un incontro con il governatore, il quale, nonostante la sua scetticismo, aveva recentemente ammesso di essere rimasto molto colpito dall’entusiasmo di quell’uomo strano e aveva personalmente investito in gran parte nella compagnia. Il signor Barnett ne era convinto, senza sapere esattamente perché; era una sorta di fede. Era certo della presenza dell’oro lì. Immaginava le rive del fiume dragate, i pantani prosciugati, una provincia estremamente fertile e ricca che si apriva alle porte della vasta valle di M’Korio, il vero “chiave” dell’Africa. E tutto questo per l’[[England|Inghilterra]]!
+
+Rimase lì per tutto il tempo che la sua salute glielo permise, con Harbury al suo fianco: incontrò i capi locali, interpellò vecchi cacciatori, ottenne alcune concessioni e utilizzò tutta l’influenza legittima di cui disponeva presso l’agente locale di Reuter. Quasi privo di capitale, riuscì comunque ad ottenere alcune concessioni – anche se considerate inutili – e le dispose in modo che i luoghi interessati si trovassero nelle posizioni più vantaggiose del territorio. Soprattutto, scoprì che il debole commercio di quella regione, la sua reputazione nella [[City|città]] e, in un certo senso, il suo futuro economico dipendevano da due uomini: due amici, uno armatore e un importatore di ferramenta. Scoprì che entrambi disprezzavano profondamente i M’Korio; che l’armatore si considerava più informato su di loro di chiunque altro e non era persuasibile riguardo al loro grande futuro; che il commerciante, che non aveva mai visitato quella regione, aveva condotto per anni un commercio così scarsamente redditizio da fargli perdere ogni fiducia nelle sue possibilità. Scoprì anche i loro nomi: l’armatore si chiamava Abbott; quello dell’amico, il commerciante di ferramenta, Burden.
 
 
 
@@ -3077,6 +3691,48 @@ ENDNOTES.
 5 “... As its name implies,” Butterworth’s “Geography of the Empire,” p. 224.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Imparò che senza di loro nulla poteva essere fatto: questo lo imparò a fondo; più di ogni altra cosa, questa constatazione lo colpì profondamente.
+
+Tornò in [[England|Inghilterra]] e, per un anno o due, perfezionò i suoi piani.
+
+Coloro che negano l’azione di una Provvidenza cosciente nelle vicende umane cadono in errore a causa della loro incapacità di comprendere la complessità del mondo che li circonda. Pensano che ogni buona azione debba essere immediatamente ricompensata, e che ogni cattiva azione debba essere punita in modo diretto e evidente; tuttavia dimenticano che una simile punizione non risolverebbe il problema, ma anzi ne scatenerebbe altri.
+
+Non è in questo modo che la Giustizia Immanente guida e bilancia le vite degli uomini. Tuttavia, se osserviamo un insieme di attività umane per un periodo qualsiasi di tempo, scopriamo una rete di interazioni all’interno della quale si manifesta rapidamente un’unità di disegno sorprendente. Questa bontà, quel coraggio avranno conseguenze lontane nel tempo, e in parti del tutto inaspettate del “piano generale”, produrranno frutti che rappresentano anche la loro compensazione; un certo atto di crudeltà o debolezza, apparentemente senza ricompensa, può essere rintracciato attraverso una serie di conseguenze che, nel corso del tempo, generano a loro volta una sorta di “punizione”, fino a quando non si è effettivamente pagato il debito contratto nei confronti di ciò che governa il mondo.
+
+Questo romanzo e questi pensieri illuminanti, per i quali sono in debito con il libro di Dr. M’Manus “Persecution of the Irish Protestants”, hanno gettato una luce religiosa su tutte le principali esperienze della mia vita. Il dotto autore esemplifica la sua filosofia facendo riferimento a Giacomo II e alla storia del suo amato Belfast: io ne dimostro la veridicità analizzando l’unico movimento politico di rilievo con cui ho avuto a che fare, ovvero lo sviluppo della regione del M’Korio Delta.
+
+Il signor Barnett, incontrando il signor Harbury anni fa nella tranquilla residenza orientale di suo padre, aveva riconosciuto i suoi talenti e lo aveva assunto al proprio servizio. Fu un caso, ma un caso di gentilezza.
+
+Il signor Burden, mio amico, acquisì molto tempo fa, senza alcuna intenzione di trarne profitto, il controllo di quel piccolo commercio che poteva essere svolto con gli indigeni nudi e degradati di un fiume africano putrido. Quel commercio influenzava appena i notevoli profitti della sua attività; lui non ci pensava nemmeno molto. Fu un caso, ma in quel caso c’era, anche se lieve, un elemento di motivi patriottici che, col tempo, avrebbero portato a risultati mille volte maggiori, persino in questa vita.
+
+La signora Burden aveva sempre desiderato che Cosmo fosse mandato all’università. Prima del suo quinto compleanno, aveva scoperto in suo figlio capacità di un livello insolito. Suo marito aveva nutrito il segreto progetto di farlo entrare direttamente nel mondo degli affari dopo la scuola; durante l’ultima malattia di sua moglie, aveva abbandonato le proprie intenzioni iniziali e le aveva promesso che il ragazzo avrebbe goduto delle opportunità che lei tanto desiderava. Anche questo fu un esempio concreto, seppur modesto, di autoimpegno e amore.
+
+Infine, e soprattutto, il signor Harbury, con un nobile atto di generosità e buon cuore, era riuscito a conquistare la gratitudine del ragazzo da cui dipendeva così tanto.
+
+Osservate quanto grande sia il significato nascosto in queste piccole cose: in questi gesti di bontà apparentemente insignificanti! Quale uomo, se non il signor Barnett, avrebbe potuto comprendere appieno il vero significato delle azioni del signor M’Korio? Quali possibilità aveva qualsiasi visione progressista contro l’opposizione di quel tipo di “buon senso” limitato e materialistico, per cui il signor Burden disprezzava la ricchezza potenziale della colonia, con la quale lui stesso trafficava? Eppure, la voce del signor Burden in questa questione avrebbe sicuramente guidato l’intera [[City|>città]]! Quale ambasciatore avrebbe potuto convincere un commerciante come il signor Burden che il futuro di una grande provincia dipendesse da uomini come il signor Barnett, il cui carattere doveva necessariamente risultargli estraneo, e forse persino repellente?
+
+Solo Cosmo avrebbe potuto colmare quel divario. La sua apatia, se posso usare questo termine, sarebbe stata un ostacolo insormontabile; inoltre, tutto ciò che aveva sentito dai suoi giovani compagni riguardo all’“onore” avrebbe confuso la sua capacità di giudizio, se non fosse stato per quel legame più stretto creatosi in poche ore, grazie al cuore gentile, cortese e premuroso del signor Harbury.
+
+Ognuno di noi, oggi, in qualsiasi modo abbia partecipato a quell’avventura imperiale – sia come azionista che come cittadino comune; sia come predicatore, giornalista, o forse in modo dolce e femminile; ogni soldato che è tornato indietro senza macchie dalla Delta; ogni amministratore di qualsiasi livello, anzi, ogni persona che ricopre una carica retribuita nel M’Korio – deve qualcosa a quei trenta minuti in cui una somma considerevole, pari a 1250 sterline, fu prestata senza alcun tipo di onorario o indagine fastidiosa, a un tasso nominale del quindici per cento, al solo scopo di salvare una persona dall’umiliazione.
+
+Quanto veramente il poeta lo esprime in quel verso. Il significato di quelle parole lo ricorderò sempre, anche se molte di esse mi sfuggono.
+
+“Lasciate che gli altri, ”
+
+O giocare il ruolo del più meschino…
+
+Ma quel piccolo seme di una buona azione…
+
+# Non dire mai…
+
+Non ricordo nulla oltre all’ultima parola: “cuore”.
+
+Note finali.
+
+5 “. Come suggerisce il nome stesso,” in *Geografia dell’Impero* di Butterworth, p. 224.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="Emmanuel Burden, Merchant — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="setting/england"></span>
@@ -3111,6 +3767,36 @@ Did space permit me, I could give many instances of this failing: let me be cont
 Mr Burden’s dissociation from the underlying philosophy of his time went deeper still. He would have maintained, in a kind of abstract way, that the connection between finance and politics was dangerous — it is difficult to say whether he saw that it was necessary. At any rate he dreaded and avoided that necessity. He would have admitted that a Cabinet drawn from the ranks of rich men was a purer and better government than one formed upon the less stable models of democratic nations, but in some vague way he must have thought of their wealth as exclusively territorial, for he would not only have expressed, but would have felt a very genuine horror at hearing that a Cabinet minister had held, or had been given, such and such shares in a company connected with our Imperial development.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IV
+
+In ogni tragedia legata all’età avanzata, emerge quel rafforzamento delle caratteristiche personali che rappresenta la maledizione dell’invecchiamento.
+
+L’immagine che il signor Burden ha presentato in questo momento rimane più vivida nella mia memoria proprio per la rapidità con cui è stata “spenta”. Desidero descriverlo nel modo più accurato possibile, al fine di permettere alle generazioni future di conoscere non solo quali fossero le sue virtù, ma anche in che modo e a causa di quale debolezza abbia fallito nell’occasione più importante della sua vita. È una lezione di estrema importanza.
+
+Era alto, eretto, un po’ pomposo, ma al contempo molto attivo nei suoi movimenti; portava con sé tutti i segni di un uomo ancora forte. Del suo viso posso dire soltanto che era tipico della sua classe: quadrato, con una bocca grande e ferma sempre ben chiusa; a causa di lunga abitudine, esprimeva un’aria di determinazione e risolutezza che in realtà non rifletteva affatto il suo vero carattere. I suoi capelli erano completamente bianchi ma folti; li divideva con cura sul lato sinistro e li sistemava ordinatamente sulla fronte, come si addiceva a una persona che aveva un chiaro senso di ciò che è decoroso in tali cose. Le sue sopracciglia erano leggermente corrugate, forse a causa dell’abitudine di prestare attenzione, ma certamente non riflettevano ansia né particolare acutezza nel negoziare. Le sue mani erano straordinariamente ferme; i suoi gesti decisi e sicuri. Si diceva, con un’esagerazione tipica dei coloni, che vedere lui aprire l’ombrello significasse comprendere tutta [[England|Inghilterra]], dal Reform Bill al Home Rule. Il giovane signore che scrisse questo epigramma, uno studente con un accento nasale e fisicamente debole in ogni senso, era nato e cresciuto a Port Elizabeth, quel lontano centro della lealtà africana verso la Gran Bretagna; vi è tornato ora. Lasciatemi dimenticarlo e proseguire nella descrizione del mio amico.
+
+I suoi occhi, di un grigio pallido, brillavano di una sincerità così straordinaria da confinare con l’ignoranza del mondo. Forse in tutta la sua vita non aveva mai ingannato nessuno. Il suo business, basato su un capitale considerevole e che non richiedeva alcun credito, funzionava come una risorsa al dettaglio per il commercio ed era indipendente da qualsiasi forma di pubblicità; quindi non gli era mai necessario mentire, ingannare, giocare d’azzardo o distruggere la ricchezza altrui. La sua espansione avveniva in modo naturale; e se il successo aveva suscitato in lui qualche sentimento negativo, certamente non era altro che un leggero senso di orgoglio.
+
+Del suo patriottismo temo di parlare, per non distruggere con un elogio troppo enfatico l’impressione che desidero suscitare. Era un patriottismo profondo, incessante, come una sorgente perenne; rappresentava la parte più essenziale della sua natura. Sono certo che, se [[England|Inghilterra]] fosse stata in pericolo, avrebbe sacrificato volentieri tutta la sua fortuna. Non conosceva nulla al di fuori del suo paese; la sua stessa religione, in qualche modo strano, era intrecciata con i suoi vizi, il suo spirito, le bellezze uniche dei suoi paesaggi e gli aspetti meno evidenti delle sue città. In effetti, avrebbe potuto morire per lei, forse, in un certo senso, è davvero morto per lei. Il suo nome, i suoi modi di comportarsi e il suo stile di vita, per chi lo conosceva come me, rappresentavano sempre [[England|Inghilterra]], l’Inghilterra stessa.
+
+Nonostante tutto ciò, esisteva un difetto che né io né coloro che erano più spesso in contatto con lui potevamo sperare di eliminare. La vita nazionale, a cui era così profondamente legato, era rimasta ferma insieme a lui per molti anni.
+
+Lasciate che non vi venga frainteso: aveva seguito con grande interesse lo sviluppo dell’Inghilterra e dell’Impero. Era un lettore assiduo di giornali come il Daily Telegraph, The Gleam, The Orb, The Globe, The Times e The Meteor; riceveva ogni sabato mattina The Spectator, The Economist e The Doctrinaire e li leggeva occasionalmente. Quando andava all’estero, come faceva di consueto nel mese di agosto, si assicurava che questi importanti organi di opinione gli arrivassero al più tardi il martedì seguente.
+
+Conosceva quindi soltanto i fatti essenziali. Era soddisfatto, e talvolta anche entusiasta, per l’espansione del nostro dominio. Aveva compreso le varie fasi attraverso cui l’invidia delle nazioni straniere era stata placata e la loro concorrenza annullata. Negli ultimi anni aveva osservato il declino del commercio inglese, la rovina della nostra agricoltura, nonché la crescita di una Gran Bretagna più vasta al di là dei mari.
+
+Tutta la “destinazione manifesto” della razza anglo-sassone l’aveva vista con la stessa chiarezza del più umile impiegato; l’aveva accettata con lo stesso sentimento religioso di uno dei nostri elettori più poveri e volgari.
+
+Tuttavia, per lui tutto ciò non era altro che uno spettacolo. Non aveva mai compreso il grande cambiamento nel nostro modo di pensare che questo nuovo evento nella storia del mondo comportava. Era come una persona che sente parlare di questa o quella catastrofe, di questo o quel trionfo: soffre per la catastrofe o si rallegra per il trionfo, ma lo fa come se si trattasse di qualcosa di separato da sé, di qualcosa che viene letto o visto sul palcoscenico. Non ha mai davvero capito che lui stesso era un attore in questo dramma; che, in quanto cittadino, stava contribuendo a creare il nuovo mondo.
+
+È un paradosso, ma un paradosso sempre presente nella nostra vita contemporanea; è proprio questo il motivo per cui ogni nuova e necessaria idea viene accettata con estrema riluttanza da un popolo nato, dopotutto, all’interno di un contesto imperiale. Fa parte del nostro “sangue”.
+
+Se lo spazio me lo permettesse, potrei fornire molti esempi di questo tipo di errore: mi accontenterò di due. Il signor Burden aveva votato onestamente e senza riserve a favore di quella piccola tassazione delle nostre scorte alimentari, necessaria per il rafforzamento dell’Impero. Non si lamentò mai degli effetti diretti di quel voto; tuttavia, non volle o non fu in grado di collegare la sua posizione su questa questione con la necessaria svalutazione dei suoi investimenti che tale tassazione comportava. Inoltre, aveva letto e apprezzato il grande discorso del signor Chamberlain subito dopo che il Commonwealth australiano aveva annullato quei “prestiti precedenti”; riconosceva anche che l’Australia avesse bisogno di nuovo capitale e che, data la situazione attuale del suo credito, tale capitale potesse provenire soltanto dal Regno Unito; eppure, sei mesi dopo, durante una riunione nell’hotel Cannon Street, descrisse la ricostruzione della miniera Waga-Murri come “antinglese”.
+
+La dissociazione di Mr Burden dalla filosofia dominante del suo tempo era ancora più profonda. Avrebbe potuto sostenere, in modo astratto, che il legame tra finanza e politica fosse pericoloso; è difficile dire se ritenesse necessario tale legame. Comunque sia, ne temeva e lo evitava. Avrebbe ammesso che un gabinetto formato da uomini ricchi rappresentasse un governo più puro e migliore rispetto a uno creato seguendo i modelli meno stabili delle nazioni democratiche; tuttavia, in modo vago, doveva considerare quella ricchezza come esclusivamente territoriale, poiché provava un vero orrore all’idea che un ministro del gabinetto possedesse o ricevesse quote in società legate allo sviluppo imperiale.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="Emmanuel Burden, Merchant — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
@@ -3136,6 +3822,28 @@ But, though Mr Burden had become the sole importer, though his advice and that o
 
 This contempt of his for the M’Korio was broken down at last by the intervention of Cosmo; but that intervention, necessary as it was in its moment, would not alone have sufficed, though without it nothing would finally have been done.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando gli chiesi, come ho fatto una volta, come fosse possibile che un uomo fosse ricco e allo stesso tempo non si impegnasse nel settore principale della ricchezza moderna in [[England|Inghilterra]], rispose con una semplice affermazione: disse che chiunque occupasse una posizione di potere dovrebbe vendere tutte le azioni che possedesse in tali imprese. Rifiutò di seguire le conseguenze logiche delle sue idee.
+
+Fu proprio in questo punto che una mente più grande, una mente più necessaria per l’[[England|Inghilterra]], anche se forse non particolarmente “inglese” nel senso tradizionale del termine, incontrò le principali difficoltà nell’instaurare un contatto efficace. Il signor Barnett sapeva che il M’Korio Delta rappresentava una sorta di bussola per il futuro dell’[[England|Inghilterra]]. Non pretendo che questo fosse l’unico suo scopo: i suoi motivi erano in gran parte economici. Tuttavia, comunque fosse, la realizzazione delle sue ambizioni legittime richiedeva che riuscisse a convincere l’opinione pubblica inglese riguardo al vero significato del M’Korio Delta.
+
+Come ho sottolineato più volte, a quel tempo nella [[City|>città]] non esisteva alcun nome il cui ascendente avrebbe potuto avere un effetto immediato nel convincere gli investitori ad acquistare titoli azionari dell’Africa occidentale quanto quello del signor Burden; eppure tutte le strade possibili per attuare tali strategie erano chiuse al signor Burden, proprio perché lui non possedeva quella vivace capacità immaginativa che avrebbe potuto trasformare la regione del M’Korio Delta nella grande provincia che un giorno diventerà.
+
+Le stesse circostanze che avevano reso il signor Burden l’unico arbitro, per così dire, del commercio di M’Korian, rendevano ancora più difficile l’avanzamento del signor Barnett.
+
+Charles Abbott, che per un curioso anacronismo rimane ancora oggi il principale proprietario della flotta di navi a vapore Abbott Line, possedeva – e possiede tuttora – quel tipo di radicalismo esplosivo che spesso si riscontrava negli ufficiali e negli uomini d’affari inglesi più anziani; quegli individui che, in modo inconsapevole, contribuirono a costruire ciò che oggi sta portando verso destini così sorprendenti. Per quanto riguarda il “Nuovo Impero”, provava un disgusto superficiale, ma stranamente intenso. Amava le cose così come le vedeva: com’erano realmente. Per i sogni e le aspettative nutriva un disprezzo profondo, tanto quanto per i debiti. Non aveva mai dovuto nulla a nessuno; non aveva mai fatto affari basati sul futuro. Di aspetto era rosso in viso e un po’ troppo impaziente; nei suoi gesti era brusco e deciso; tuttavia, la sua violenza veniva bilanciata da una voce profonda ed enfatica, dotata di una strana capacità di persuasione, soprattutto nei confronti di persone meno robuste di lui.
+
+Un uomo del genere non aveva fondato la sua flotta di navi per occuparsi dei “negri”. L’aveva creata esclusivamente per il commercio in Sud America. Un sussidio governativo lo aveva convinto a fare scalo una volta al mese a M’Korio. C’era stato personalmente una volta, e non aveva portato via nulla se non un ulteriore disprezzo per quella politica che permetteva cose del genere. Attraverso questo canale insensibile, il signor Burden era stato introdotto nella regione del Delta.
+
+Il signor Abbott, sebbene fosse di dieci anni più giovane del signor Burden, era da quasi sempre stato il suo amico più intimo; un'amicizia nata dall’essere stati costantemente insieme ogni giorno, dal condividere i pasti e da aver trascorso gran parte della loro vita l’uno in compagnia dell’altro, senza molte altre opportunità di socializzare. Quando era tornato in Europa dopo un viaggio nel Delta, aveva suggerito al signor Burden – senza grande entusiasmo – che fosse possibile intraprendere qualche affare con gli abitanti di quella zona paludosa, vendendo loro merci del tipo che il signor Burden trattava. I cerchi di ferro, noti nel commercio come “Large Nines”, in quella regione non erano solo una rarità, ma anche un oggetto di necessità politica: da tempo simboli di autorità tra i capi tribali, venivano prodotti con grande cura dai nativi utilizzando vecchi chiodi di nave, oppure importati a caro prezzo dal vicino Sultanato di Botu. Il nostro eccellente prodotto inglese, più economico, affidabile e ben fatto, presto eliminò la concorrenza di questi rivali. Era infatti impossibile accettare come moneta quegli schiavi preziosi che in passato arrivavano nel Sultanato; tuttavia, per molti anni si riuscì ad ottenere ingenti quantità d’avorio in cambio di queste merci. Il signor Burden non solo ebbe la soddisfazione di trarre un profitto dovuto alla sua iniziativa e abilità, ma seppe anche che, indirettamente grazie ai suoi sforzi, il commercio degli schiavi era scomparso in una parte dell’Africa dove sembrava inscindibile dalla vita quotidiana delle popolazioni locali.
+
+Non si poteva certo aspettare che questa situazione durasse per sempre. Data la natura oligarchica della società di M’Korian, il numero dei capi era limitato; inoltre, un senso di reverenza religiosa impediva a chiunque di possedere più di un certo numero di questi simboli sacri. Inoltre, una ditta tedesca, segretamente sostenuta dal proprio governo, aveva interferito con il vecchio monopolio, offrendo questi anelli a un prezzo tale da rendere difficile la sopravvivenza del commercio originale nelle mani degli inglesi. Tuttavia, i profitti di Mr Burden furono presto integrati da altre fonti. Furono introdotti fucili di tipo semplice e un certo tipo di spada; inoltre, (un esempio davvero notevole dell’ingegnosità di un cliente di Birmingham) l’armatura a catena raffinata sostituì le giacche di cuoio che fino ad allora indossavano i guerrieri del protettorato.
+
+Ma sebbene il signor Burden fosse diventato l’unico importatore, sebbene i suoi consigli e quelli del signor Abbott influenzassero spesso le decisioni del governo nelle questioni locali di M’Korio, e sebbene il suo nome fosse associato a tutte le poche tradizioni della colonia, il commercio era molto limitato e, anzi, in declino. Nei numerosi affari del signor Burden, l’importo derivante da questa piccola attività rappresentava al massimo un ventesimo del suo reddito totale; raramente superava i 400 sterline di profitto all’anno, e più spesso era inferiore a 300 sterline. Pertanto, alla sua naturale sottomissione alle decisioni di Charles Abbott si aggiungeva un’esperienza commerciale che rendeva questa attività insignificante e trascurabile ai suoi occhi.
+
+Questo disprezzo da parte sua per i M’Korio fu infine spezzato dall’intervento di Cosmo; ma quell’intervento, sebbene necessario nel momento in cui avvenne, da solo non sarebbe stato sufficiente, anche se senza di esso nulla sarebbe stato risolto.
 
 
 
@@ -3166,6 +3874,32 @@ Over the great dailies he had absolutely no control whatsoever. He advertised in
 
 It is time that I should turn from the ungrateful task of defending a man against a calumny that ought never to have been made, to describe the real services which Mr Barnett rendered to his adopted country, and to the Empire; nowhere were these services more apparent than in the interest he took in the careers of the more brilliant young journalists. Let me cite the case of Mr Powler.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Prima di tutto, il terreno doveva essere preparato per l’intera pubblica e anche per il signor Burden, che faceva parte di quella pubblica; lo strumento utilizzato per questa preparazione era il potere che – un intero anno prima ancora di incontrare il figlio del signor Burden – il signor Barnett aveva iniziato ad esercitare sul mondo editoriale.
+
+Esiste un certo tipo di indignazione politica superficiale che tutti noi incontriamo, e verso la quale alcuni di noi provano attrazione. Ci sono persone che odiano i successi o i ricchi, ma il loro odio non è del tutto disonesto, anche se estremamente ingiusto. Vedono complotti ovunque, guardano con invidia ogni nuova fortuna che emerge, ma lo fanno in buona fede, perché sono perseguitati dall’immagine di una finanza cosmopolita spietata, distruttiva di tutti gli ideali nazionali, oscena e capace di corrodere il cuore della nostra tradizione europea. Non c’è bisogno di dire che questo tipo di odio fu suscitato contro il signor Barnett, e acquistò una forza particolare a causa dell’atteggiamento assunto dai grandi giornali riguardo al suo progetto; eppure, in quel momento, il signor Barnett, se solo il mondo lo avesse saputo, era relativamente povero. Di certo non possedeva un capitale libero di diecimila sterline, oltre a quanto era immagazzinato nelle sue varie proprietà e imprese.
+
+L’accusa specifica rivolta al signor Barnett era che avesse “comprato la stampa” – o almeno la [[London|Stampa di Londra]].
+
+C'erano molte accuse generali e vaghe, ma non sono suscettibili di essere provate, quindi non mi occuperò di esse. Conosco bene le sue relazioni con la stampa; e sebbene non sia mio compito difendere il signor Barnett, sono così convinto che questo tipo di indignazione derivi esclusivamente da una mancanza di conoscenza del nostro sistema sociale, che ritengo mio dovere dimostrare chiaramente quanto siano false queste accuse.
+
+Gli uomini che riuscirono a farlo (poiché una salutare paura della legge sulla diffamazione li impediva di pubblicarlo), questi uomini, dico io, non avevano alcun altro motivo se non questo: vedevano che il progetto M’Korio Delta era nell’aria, sentivano quel nome pronunciato ovunque; sapevano che il signor Barnett avrebbe sicuramente tratto profitto dal suo sviluppo; notavano che la stampa era quasi unanimemente a favore di tale sviluppo, e così arrivarono alla falsa conclusione che ho indicato, perché la loro visione era stata distorta da un’ira incontrollata e squilibrata nei confronti delle moderne disuguaglianze sociali.
+
+Il signor Barnett non aveva comprato la stampa; inoltre, la stampa non può essere comprata. Non negherò che il signor Barnett avesse un’influenza sulla stampa, e una influenza legittima; ma quando avrò descritto tale influenza, credo che la mia tesi verrà dimostrata.
+
+Consideriamo prima quali giornali possedesse il signor Barnett. Ecco l’elenco: era proprietario di “Little Ones”, “Boy’s Chatter”, “The Woman” e “The English Country Side”. Per alcuni mesi, nel periodo tra la bancarotta di Sir Charles Binsted e la fondazione dell’Agricultural Union, possedette anche “Farmer’s Friend”. È incredibile che abbia effettuato tali acquisti con l’intento di ingannare l’opinione pubblica; poteva farlo soltanto come investimento. I nomi stessi dei giornali ne sono una prova sufficiente.
+
+Oltre a queste attività, possedeva anche la rivista “The Review”. Tuttavia, questa rivista presentava perdite finanziarie; era stato costretto a assumerne la direzione per saldare un debito, e al momento di cui parlo stavo lavorando per farla tornare all’importanza che aveva un tempo. Era inoltre co-proprietario (ma solo co-proprietario) della rivista concorrente “Holborn Review”; l’editore, che per un certo periodo era stato il suo segretario personale, mi ha assicurato che il nome di Mr Barnett veniva quasi mai menzionato in ufficio. Sono convinto che non avesse alcun interesse reale nella “Holborn Review”, se non come investimento finanziario. I miei lettori possono facilmente verificare consultando gli archivi: le argomentazioni di entrambe le parti venivano infatti pubblicate sulle sue pagine, e anche al culmine della sua fama, la “M’Korio Delta” raramente offriva materiale sufficiente per più di un articolo in ogni numero.
+
+Per evitare che mi venga accusato di nascondere qualsiasi elemento potrebbe contraddire le mie argomentazioni, menzionerò il fatto che il signor Barnett possedeva effettivamente la maggioranza delle azioni del Twentieth Century Syndicate. È vero che il Twentieth Century Syndicate finanzia il Railton Group; ma il signor Barnett stesso non aveva alcun rapporto con quel gruppo. Il Railton Group è interessato a quotazioni come quelle di “The Mercury”, “The Britisher”, “The Hammer”, nonché alle due testate serali “[[England]]” e “The Empire”. Chiunque conosca la natura delle finanze moderne non potrebbe mai credere che un legame così indiretto possa dare al signor Barnett anche solo una minima influenza sulla gestione di queste testate.
+
+Se il signor Barnett abbia mai posseduto azioni della [[London]] and General Publishing Company in un determinato momento, non è facile stabilirlo. Queste azioni subivano notevoli fluttuazioni di valore, e, senza voler mancare di rispetto a una figura così onorata come il Duca di Essex, presidente della società, si potrebbe dire che rappresentassero in qualche modo un “titolo da gioco”. Le azioni cambiavano continuamente di proprietà, e lo scopo della loro acquisto, sia da parte del signor Barnett che di altre persone, non poteva essere altro che quello di partecipare a operazioni speculative.
+
+Nei grandi quotidiani di allora, lui non aveva assolutamente alcun controllo. Certo, vi pubblicizzava i suoi annunci; e i suoi avversari riuscirono a trarre notevoli profitti dal fatto che il signor Jefferson, proprietario ed editore di un giornale così importante come “The Gazette”, fosse legato al signor Barnett nell’antica attività della Haymarket Bank. Ma se questo dovesse essere considerato una prova di corruzione o anche di influenza indebita, chi potrebbe esserne al sicuro da tale accusa? Un uomo nella sua posizione è naturalmente a contatto, spesso in rapporti stretti, con le principali figure del suo tempo. L’editore di “The Doctrinaire” – un uomo assolutamente fuori dal sospetto – era orgoglioso della sua amicizia intima con lui; e, naturalmente, in più occasioni aveva rapporti con i due proprietari di “The Nation”, nonché con gli editori o i proprietari della maggior parte degli altri grandi quotidiani. Ma il signor Barnett non deteneva il monopolio su tali conoscenze o amicizie: la maggior parte dei nostri importanti finanziatori avrebbe potuto vantarsi dello stesso.
+
+È giunto il momento di abbandonare questa ingrata incombenza di difendere un uomo da calunnie che non avrebbero mai dovuto essere diffuse, e di descrivere i veri meriti che il signor Barnett ha reso al suo paese adottivo e all’Impero; questi meriti sono risultati particolarmente evidenti nel modo in cui si è interessato alla carriera dei giovani giornalisti più promettenti. Lasciate che citi il caso del signor Powler.
 
 
 
@@ -3205,6 +3939,40 @@ ENDNOTES.
 6 As an example of the lengths to which folly can go, I may quote the accusation made against Mr Barnett that he influenced three of the great dailies upon a critical date by threatening to cut off their supply of paper!!!
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Powler era stato tra i primi a riconoscere i vantaggi di invertire la nostra politica fiscale. Già nel 1898, subito dopo aver conseguito la laurea, aveva scritto un argomento persuasivo a favore della protezione doganale, che gli valse il titolo di Fellow. Era povero, e tutto il potenziale del suo genio avrebbe potuto andare sprecato per molti anni se il signor Barnett non lo avesse nominato redattore di “The Review”, poco prima dello scoppio della guerra in Sudafrica. Nessuno ignora l’effetto di quella nomina.
+
+# Il redattore di “Il Dotttrinario”
+
+(Mentre sembrava impegnato a leggere il suo articolo – “Le cause del nostro successo in Sudafrica” – davanti alla Royal Society)
+
+Molto tempo dopo la fine della guerra, ma un anno prima che venisse fatta alcuna menzione pubblica del M’Korio Delta, l’editore di “The Doctrinaire” – un uomo assolutamente al di sopra di ogni sospetto – scrisse a Mr Barnett chiedendogli se potesse consigliargli qualche giovane per assumere la responsabilità della redazione di quella importante rivista settimanale durante la sua assenza forzata, dovuta a un viaggio di caccia in Scozia. So cosa accadde grazie a Mr Powler stesso: Mr Barnett si recò personalmente negli uffici di “The Review”, salì al terzo piano (non certo una piccola impresa per un uomo del suo temperamento e della sua statura!) e pregò Mr Powler di accettare l’incarico.
+
+“È meglio retribuito,” disse, “e inoltre si tratta di un ambiente molto più grande di qualsiasi cosa potessi offrirti io.” Poi aggiunse sorridendo: “Conosci il consiglio che ti do sempre, giovani uomini, ”
+
+Fu inutile che il signor Powler (così lui stesso mi assicura) supplicasse di poter continuare a servire un uomo che non poteva fare a meno di considerare costruttore di un nuovo mondo. Sapeva che il signor Barnett stava facendo un grande sacrificio permettendogli di andarsene, e solo dopo una generosa discussione l’uomo più anziano ottenne la sua volontà.
+
+Il signor Powler portò con sé al “The Doctrinaire” il signor Heinrich Rallé; insieme diedero vita e significato a quel giornale che ricordava i grandi tempi di John Hardy e la battaglia strenua e vittoriosa per l’unificazione dell’Italia negli anni ’60. Quando il redattore del “The Doctrinaire” tornò dalla Scozia, trovò le basi di una fortuna; non mi sembra quindi strano che, date quelle circostanze, abbia permesso la pubblicazione di alcune nuove politiche sulle sue pagine, o che si sia sentito attratto dal signor Barnett con un sentimento che rasentava l’affetto.
+
+Un tale talento è raro nel giornalismo moderno. I proprietari di “The Nation” contattarono privatamente il signor Henry Rallé e ottennero i suoi servizi. Non intendo entrare nei dibattiti piuttosto accesi sorti su questa questione tra “The Doctrinaire” e “The Nation”. Mi limiterò a dire che il signor Rallé infuse nuova vita in quest’ultimo giornale: eliminò dalla sua copertina la dicitura “giornale settimanale”, permise l’inserimento di illustrazioni e, con il tono generale che diede agli articoli, lo trasformò in qualcosa di mai esistito prima: un alleato vigoroso di tutto ciò che contribuisce al benessere della [[England|Inghilterra]]. Fu in questa occasione che nacque l’amicizia tra il signor Barnett e il signor Jenkins, proprietario di “The Nation”. È un esempio straordinario del suo tatto e della sua attenzione ai dettagli: negli ultimi quattro o cinque anni, in tutte le numerose cene tenutesi sotto il tetto del signor Barnett, il signor Jenkins e l’editore di “The Doctrinaire” non si sono mai incontrati.
+
+Non intendo stancare i miei lettori con la storia della fondazione della Critica, né con il risveglio dell’antico “Orb”, né con quella vivace branca dell’impresa coloniale rappresentata dall’edizione londinese del “M’Korio Times”. Basta dire che, in tutta questa massa di letteratura effimera, soltanto quell’ultimo giornale fu fondato direttamente dal signor Barnett; e poiché trattava principalmente degli affari della [[City|Città]], ebbe un impatto molto limitato sul corso generale dell’opinione pubblica.
+
+Tutto questo movimento intellettuale era permeato dello spirito dell’[[England|Inghilterra]].
+
+Esistono forze politiche che sembrano prive di forma, molto vaghe e invisibili, proprio come grandi correnti d’aria, ma sono altrettanto irresistibili.
+
+In Inghilterra e tra gli inglesi, una tale forza da tempo era in movimento. Tutti questi giovani l’avevano percepita; tutti erano come legati da un destino comune a esprimerla. Questa forza influenzava la loro scrittura su ogni argomento, turbava la loro visione del futuro e li spingeva a lanciare continui appelli. Per molto tempo, quell’impulso di patriottismo, così indefinito e naturale, aveva vagato senza una direzione precisa, credendo ora in un luogo ora in un altro di aver finalmente trovato la sostanza che avrebbe dovuto ispirare, l’argomento con cui era destinato a prendere vita. Ed è proprio così che iniziano tutti i grandi movimenti.
+
+Finalmente, e non molto tempo dopo l’ingresso in giornalismo inglese di quella giovane energia e di quel più vivo entusiasmo di cui ho appena parlato, un obiettivo vero e duraturo assorbì le sue energie; e, se si può usare questa espressione, la nazione e i suoi servitori trovarono la loro missione.
+
+Il significato completo del M’Korio Delta era finalmente emerso.
+
+Note finali.
+
+6 Come esempio di fino a che punto possa spingersi la follia, posso citare l’accusa mossa contro il signor Barnett: avrebbe influenzato tre importanti quotidiani in una data cruciale minacciando di interrompere la fornitura di carta!!!
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="Emmanuel Burden, Merchant — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="setting/england"></span>
@@ -3243,6 +4011,40 @@ The historic name which this young man bore so easily; the consummate knowledge 
 Nay more, Lord Benthorpe himself, as Cosmo discovered with astonishment and pleasure, was, in a manner, the familiar of these few who had at heart the glory of [[England]] in the delta of the great African river. Often as the name M’Korio would enter into the conversation, still more often would the experience, and occasionally the name, of Lord Benthorpe accompany the judgment of Mr Harbury, of Mr Barnett, and of that Major Pondo, whom it will be my business upon a later page to describe. Charles Benthorpe, in spite of the reserve which properly accompanies exalted social rank, was not unwilling to describe his father’s attitude upon those Imperial matters whereof that statesman’s long political and administrative experience had given him an exhaustive knowledge.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO V
+
+Nei primi mesi dopo il suo successo negli esami universitari, Cosmo condusse una vita che avrebbe dovuto rappresentare un’adeguata introduzione alla posizione che suo padre aveva riservato per lui.
+
+A metà ottobre entrò nell’attività commerciale in Thames Street, dimostrando un impegno davvero apprezzabile da parte del signor Burden.
+
+Il mercante era davvero sorpreso dall'abilità, o forse dal talento commerciale ereditario, che aveva sopravvissuto alla formazione filologica di suo figlio; a volte era persino disposto ad ammettere che lo studio delle lingue moderne, anche se legato esclusivamente alla letteratura pura, potesse rappresentare un utile allenamento per la mente in via di sviluppo.
+
+Nel frattempo, il giovane non dimenticava affatto i piaceri che la sua posizione sociale gli permetteva; tuttavia li utilizzava in modo tale che lo sviluppo del suo carattere non ne risentisse in alcun modo. La sua salute gli impediva di esagerare. I suoi conoscenti si assicuravano che i suoi piaceri fossero raffinati, energici e ben selezionati. In breve, durante quei felici mesi invernali, conduceva una vita normale appartenente a quella classe che forse è la più sana, e certamente la più completa d’Europa: una classe che ha imparato a governare un immenso regno senza corruzione, e quasi senza ambizioni.
+
+Era notevole che, nonostante le sue possibilità, mantenesse un controllo rigoroso sulle proprie spese personali; questa saggezza economica contribuì ulteriormente a rafforzare un carattere che, inizialmente, avrebbe potuto mostrare segni di debolezza. Riusciva a cavarsela molto bene senza spendere eccessivamente, sostituendo le spese personali con quelle necessarie per il suo lavoro o i suoi divertimenti. Per quanto riguardava i viaggi a cavallo, gli bastava un solo animale; quando andava in campagna a cacciare – cosa che faceva occasionalmente anche nel bel mezzo della settimana lavorativa – non esitava ad affittare un cavallo presso uno stallo locale, senza gravare sulle spese degli altri cacciatori. Se andava al teatro, le poltrone in galleria gli sembravano il posto più naturale per sedersi; prendeva sempre lo stesso posto, ma solo due volte in quell’autunno: una volta quando il teatro era completamente pieno, e un’altra volta perché aveva calcolato che il costo di far accomodare tutti i suoi amici in posti separati sarebbe stato leggermente più alto.
+
+All’Empire, all’Alhambra e in altri locali musicali, stabilì come regola di rompere un bicchiere non appena entrava, facendo sì che quella somma gli bastasse per tutta la serata.
+
+Raramente visitava il Savoy, il Carlton o il Prince’s. Quando si intratteneva, lo faceva nel suo club; e sebbene facesse attenzione che vino e cibo fossero dei migliori, detestava l’ostentazione di fiori fuori stagione, così come di vini i cui nomi potessero risultare sconosciuti ai suoi ospiti. I suoi abiti erano quasi sempre nuovi e sempre, assolutamente sempre sobri. La sua biancheria intima gli calzava a pennello (il risultato di misurazioni precise). Ai suoi cappelli dedicava quell’attenzione che si riserva soltanto a coloro che comprendono l’importanza sottile di tali ornamenti.
+
+In ogni aspetto, la gestione delle sue faccende dimostrava una saggia riservatezza e equilibrio; qualità che, fortunatamente per lui, gli erano state concesse dalla Provvidenza, soprattutto considerando che gli standard antiquati di suo padre gli vietavano un reddito superiore a 250 sterline all’anno.
+
+La sua vita, dico io, per tutto quell’inverno, fu al contempo ben organizzata e felice, e meritava davvero l’invidia dei suoi contemporanei. C’era tuttavia un unico difetto nella perfezione della sua esistenza, e quel difetto si trovava nella grave situazione delle sue finanze.
+
+L’interesse su 1250 sterline – un interesse da pagare ogni sei mesi – anche se calcolato a un tasso così basso come l’15 per cento, può sembrare, al momento del pagamento, una somma di dimensioni sorprendenti per chi ne ha bisogno. Si tratta, come i miei lettori meno esperti immediatamente comprenderanno, di non meno di 93 sterline e 15 scellini alla fine di ogni semestre; e quando il primo di questi termini si avvicinò a febbraio, Cosmo ebbe la sfortuna di scoprire di non essere in grado di onorarlo in quel momento.
+
+Ho già indicato fino a che punto esagerato permettesse a simili piccolezze di turbare la sua mente. Non c’è bisogno di dire che, nel suo stato di angoscia, andò a chiedere aiuto al signor Harbury.
+
+Quel meraviglioso amico parlò con lui in modo molto più serio rispetto alla prima volta. Gli fece notare che, sebbene i debiti di tipo comune spesso fossero oggetto di scherzo, il pagamento puntuale degli interessi rappresentava un dovere dal cui adempimento dipendeva l’onore di una persona. In tono più dolce, il signor Harbury informò Cosmo dell’interesse che il signor Barnett aveva iniziato a mostrare per la sua carriera; non gli nascose nemmeno che, apprendendo delle sue difficoltà, la prima cosa che aveva fatto era stata scrivere a quell’uomo generoso e molto viaggiatore, che lui stesso considerava quasi come un padre. Alla fine di quella conversazione, posò con dignità una mano sulla spalla del giovane e gli chiese di scacciare ogni ulteriore preoccupazione al riguardo. Per uno spirito meno nobile di quello del figlio del signor Burden, sarebbe stato evidente che era stato nuovamente salvato da forze le cui potenze aveva a lungo ammirato e il cui carattere aveva iniziato a rispettare.
+
+Da quel momento si dedicò con grande entusiasmo alla compagnia di tali amici. La primavera successiva trascorse in gran parte nella loro compagnia. Solo la gratitudine avrebbe già costretto lui ad andare spesso a casa loro; ma alla gratitudine si aggiunse l'ammirazione, e all'ammirazione un improvviso senso di affinità quando scoprì che anche una persona del rango di Charles Benthorpe era spesso ospite insieme a lui.
+
+Il nome storico che questo giovane portava con tanta naturalezza; la profonda conoscenza del mondo che aveva acquisito grazie alla vita ufficiale di suo padre; la reputazione pubblica della famiglia, e in certa misura anche l’onore che essa vantava. Tutto ciò spinse Cosmo ad apprezzare molto l’amicizia di Charles Benthorpe durante il loro soggiorno contemporaneo all’università.
+
+Ancora di più, Lord Benthorpe stesso, come Cosmo scoprì con stupore e piacere, era in un certo senso a conoscenza di quei pochi che avevano a cuore la gloria dell’[[England|Inghilterra]] nel delta del grande fiume africano. Spesso, quando il nome M’Korio veniva menzionato nella conversazione, ancora più frequentemente l’esperienza e, occasionalmente, anche il nome di Lord Benthorpe accompagnavano le opinioni di Mr Harbury, di Mr Barnett e di quel Maggiore Pondo, che descriverò in un'altra pagina. Charles Benthorpe, nonostante la riservatezza tipica di una posizione sociale elevata, non si rifiutava affatto di parlare dell’atteggiamento di suo padre riguardo a quelle questioni imperiali su cui l’ampia esperienza politica e amministrativa di quel statista gli aveva fornito una conoscenza approfondita.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="Emmanuel Burden, Merchant — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="setting/england"></span>
@@ -3278,6 +4080,38 @@ In the choice of their occupations, their servants, their expenses, their very l
 
 Not that any hint of their coming responsibility was permitted to enter the children’s fresh young minds. Mary, until her seventeenth birthday, dressed upon less than a hundred a year; rode out attended by a groom in the plainest livery; and was permitted upon no occasion, save that of indisposition, to absent herself from morning prayers. Albert was thrust willy-nilly into the rough and tumble of public school life, and discovered, in the rude manliness of Eton, just what was needed to correct a somewhat oversensitive temperament.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non erano solo il nome e le opinioni di Lord Benthorpe a far parte delle loro discussioni. Una volta, il nobile stesso partecipò a una cena organizzata da Mr Barnett, manifestando apertamente la sua forte fiducia nel futuro del progetto M’Korio Delta. In un'altra occasione, Mr Harbury ebbe l’opportunità di leggere una sua lettera in cui si rammaricava dell’impossibilità per il nobile di partecipare a una piccola riunione privata riguardante le potenzialità del progetto M’Korio; queste potenzialità, in assenza sua, furono espresse da quel Maggiore Pondo, di cui, come ho appena detto e probabilmente dirò ancora, parleremo in un futuro capitolo.
+
+Se fosse compito mio (per fortuna non lo è) scrivere un’opera di fantasia, cercherei di escludere tutte le persone e le scene irrilevanti per la trama principale della mia storia. Tuttavia, il tema su cui lavoro è più adatto, ma temo anche meno divertente, e non permette una tale selezione artistica: sono costretto a descrivere tutti coloro che, in qualche modo significativo, hanno avuto parte negli ultimi giorni della vita di Sir Burden. E sebbene sia delicato rappresentare un nobile e politico ancora in vita, è mio dovere presentare il carattere di Lord Benthorpe (con tutta la riservatezza e cortesia dovute a una figura del genere).
+
+Per raggiungere questo scopo, devo prima delineare, in modo molto sintetico, quella distinta storia familiare che rappresenta una parte fondamentale dell'affetto e del rispetto di cui tutti gli inglesi lo circondano.
+
+Un sottile miscuglio di talento e status ereditario è oggi, più che mai, la forza del nostro popolo. Non temo nemmeno di offendere i gusti moderni pubblicando qui il tipico esempio di una grande dinastia.
+
+La famiglia di Lord Benthorpe viene menzionata per la prima volta più di un secolo fa. Suo nonno, John Calvin Benthorpe, alla fine di dicembre 1796 era un giovane avvocato nella città di Dublino. L’anno successivo fu nominato membro del Parlamento irlandese dal Duca di Meath, in riconoscimento della sua forte simpatia per le aspirazioni nazionali dell’epoca e, essendo presbiteriano, anche per le legittime richieste di emancipazione religiosa sostenute dalla maggior parte dei suoi connazionali.
+
+I suoi notevoli talenti e la sua eccellente capacità di valutare le persone gli permisero presto di ottenere una posizione politica indipendente dal suo primo protettore; ebbe inoltre la fortuna di svolgere un ruolo fondamentale, sia come protagonista che come abile negoziatore, nell’approvazione del Act of Union. Certo, durante i dibattiti aveva espresso alcune obiezioni retoriche contro quella misura; ma nella concreta fase dei voti, il buon senso scozzese che gli era innato prevalse sul suo entusiasmo irlandese, e ben presto riuscì ad acquistare una tenuta nel Wiltshire, a circa quindici miglia a nord-est di Old Sarum.
+
+Un personaggio troppo importante, e forse troppo sinceramente cristiano, per provare nella mezza età l’attrazione continua della vita politica, si dedicò piuttosto alla fondazione di una famiglia degna del titolo che Sua Maestà Re Giorgio III gli aveva concesso, su rispettosa richiesta del signor Pitt.
+
+Con questo oggetto in mente, per molti anni considerò l’idea di contrarre un matrimonio adatto; dopo una lunga riflessione – la cui finalità era troppo nobile e cavalleresca da nascondere – decise di scegliere, tra molte candidate, la incantevole Laetitia Green, unica figlia del signor Groen, socio principale della rinomata banca Strong-i’-th’-arm and Hurst.
+
+L’intera fortuna rimasta di sua moglie e della sua famiglia la investì nell’acquisto di ulteriori terreni e nella costruzione di una magnifica residenza nello stile palladiano. Questa grande casa (alla quale il suo proprietario diede inizialmente il nome di “Placton”) è non solo famosa tra gli uomini istruiti, ma sarà anche conosciuta dal lettore comune grazie alla sua frequente menzione nei “Memorie di Lady Graftham” e nella “Vita di Mr Groen”, pubblicata recentemente da suo nipote, Lord Hurst of Hatton.
+
+George Patrick Frederick-Culson Delamaine, frutto di questo matrimonio, nacque nel 1823, in un momento in cui suo padre, il primo Lord Benthorpe, si trovava all’apice della sua carriera come proprietario terriero. Tutti i doni della fortuna sembravano essere stati riversati su quel ragazzo; la sua giovinezza prometteva una vita di grande successo e brillante futuro. Quando, però, all’età di ventidue anni, un impulso romantico o una follia lo portarono a legarsi a una donna decisamente inferiore a lui per status sociale.
+
+Era la figlia di qualche avvocato locale o simile; perciò, con ogni suo accento e gesto, tradiva le restrizioni della sua educazione, rendendosi incapace di subire quell’influenza formativa che la famiglia di suo suocero sperava di esercitare su di lei. Le sue rare visite a Placton divennero sempre più imbarazzanti per l’immagine dignitosa della famiglia; forse fu solo un intervento misericordioso del destino quando, nel giugno 1852, rimase vedova: suo marito era infatti caduto accidentalmente nella fossa di un ascensore, una nuova invenzione a cui le classi superiori non erano ancora abituate.
+
+Lasciò due figli: Mary, nata nel febbraio 1847, e Albert Delamaine (l'attuale Lord Benthorpe), nato nel luglio 1849.
+
+Per questi bambini, l’uomo anziano mostrava una devozione particolare e nobile. Versava alla madre un sussidio annuo di almeno 400 sterline, con la rigorosa condizione che lei vivesse all’estero dell’[[England|Inghilterra]] e non mantenesse alcun contatto con la famiglia. Si occupava persino di assumere agenti privati per assicurarsi che questa condizione venisse rispettata.
+
+Nella scelta delle loro professioni, dei loro servitori, delle loro spese, persino dei loro cagnolini da compagnia, e addirittura delle loro tate e insegnanti, egli si orientava unicamente verso l’obiettivo di far diventare quei bambini ciò che la loro nobile condizione sociale avrebbe in seguito richiesto che fossero; morto nel 1858, lasciò il proprio compito come un legato sacro a sua moglie, nonna dei bambini, la quale, con ammirevole fermezza, mantenne sempre a mente quell’ideale di nobili origini che suo marito aveva tanto a cuore.
+
+Non veniva permesso che alcun accenno alla responsabilità futura che avrebbero dovuto assumersi entrasse nelle giovani menti dei bambini. Fino al suo diciassettesimo compleanno, Mary indossava abiti che costavano meno di cento sterline all’anno; viaggiava accompagnata da un servitore in abiti molto semplici; e non le era permesso assentarsi dalle preghiere mattutine, se non per motivi di salute. Albert venne costretto a immergersi nella vita tumultuosa della scuola pubblica e, grazie alla rude mascolinità che caratterizzava Eton, scoprì esattamente ciò di cui aveva bisogno per correggere il proprio temperamento un po’ troppo sensibile.
 
 
 
@@ -3316,6 +4150,40 @@ Certainly he loved his country. It is to the honour of our party system that the
 
 True to the straight line of honour in which he had been brought up, he refused to be mentioned publicly in connection with the Raub Central, the Marranagoes Guanos, or the Pilgrim’s Island Oil Syndicate. They all went down; but, through that mysterious bond which permits the outer public to scent out, as it were, whatever the [[City]] privately honours, his reputation, already great with experts, became general when he permitted his name to stand at the head of the Carria Canal Company. It is no small testimony to the probity of our public life that he benefited in no way from the rapid success of that enterprise. He was paid an honest salary — a small salary; he demanded no more. It pushed his name to the very front rank of our Builders of Empire. I would it had done more. It failed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In breve, il primo Lord Benthorpe riuscì, in modo caratteristico per lui, in questa sua ultima e, come si rivelò, póstuma impresa.
+
+Sua moglie visse abbastanza a lungo da poter comprare per suo nipote un posto in un reggimento di cavalleria, e da vedere il secondo Lord Benthorpe raggiungere la maggiore età tra gli applausi che i contadini di Placton riservavano fedelmente a una famiglia alla quale dovevano la loro prosperità materiale e morale.
+
+Come soldato, il giovane Lord Benthorpe, sebbene estremamente riservato, si rivelò meritatamente popolare. I suoi intrattenimenti, numerosi e di grande raffinatezza, non erano mai volti all’ostentazione; piuttosto, derivavano dal desiderio naturale di un giovane ricco e riservato di ampliare il proprio cerchio di conoscenze con i mezzi a sua disposizione.
+
+Fu sinceramente felice quando il suo reggimento fu inviato all’estero; prestò servizio attivo alle Seychelles, ricevette personalmente la resa di diciassette individui di origine mista appartenenti al reggimento Princess Martha’s Own durante la grande rivolta del 1872, e fu menzionato in diversi rapporti ufficiali. La sua ferita alla parte carnosa della gamba, riportata durante quell’orribile incidente a Pútti-Ghâl, è un fatto così noto che non ho quasi bisogno di parlarne, se non per ricordare ai miei lettori che questo episodio è oggetto di una bellissima incisione in acciaio realizzata da Hogge, attualmente venduta presso i signori Washington al prezzo originale di 21 scellini; tuttavia sono disponibili copie meno preziose.
+
+Verso la fine del 1875, quando aveva soltanto ventisei anni, ritenne suo dovere interrompere ogni legame con l'esercito e dedicarsi alla politica. A questo atto di auto-sacrificio, temo, si debbano attribuire tutte le sfortune future della sua vita.
+
+Si è sposato.
+
+Avvertito, non dico per l’esempio di suo padre, ma senza dubbio per qualche istinto interno, prese in moglie Lady Arabella Hunt: una donna della sua età, di stirpe leggermente superiore alla sua, e con un patrimonio tale da permettergli – temo in modo imprudente – di ricostruire gli stalli.
+
+Quei miei lettori che si trovino ad avere a che fare con i terreni argillosi, calcarei o oolitici della nostra amata patria comprenderanno perfettamente ciò che intendo quando parlo della crisi agricola che colpì gli anni immediatamente successivi al suo matrimonio.
+
+Lord Benthorpe, come molti altri della sua antica posizione sociale, rifiutava di credere che la stella dell’[[England|Inghilterra]] fosse ormai tramontata. Era troppo generoso per ridurre la propria splendida ospitalità; troppo patriottico per ammettere che il paese e lui stesso potessero procedere in modo diverso; troppo orgoglioso della propria nobile discendenza per rimpiangere gli investimenti fatti dai suoi antenati in terreni agricoli, pascoli, boschi, aree comuni, terreni incolti e paludi. Effettivamente cercò di sviluppare una piccola città nelle vicinanze della sua proprietà, che vantava una sorgente termale curativa. Acquistò alcune proprietà all’interno del distretto, e il personale medico lodò con entusiasmo le proprietà terapeutiche di quelle acque. Gli membri meno in salute delle classi dirigenti iniziarono a berle sempre più frequentemente; tuttavia, quella fatalità che sembrava accompagnare ogni suo sforzo causò un’epidemia di colite acuta nel secondo anno dei suoi tentativi, e perdette così una somma considerevole: duecentomila sterline.
+
+Ha preso in prestito.
+
+All’inizio, per le sue esigenze quotidiane, ricorreva alle banche locali; in seguito, per ripagare i loro debiti e ristabilirsi finanziariamente, si rivolgeva alle più importanti società della metropoli; da queste riceveva l’aiuto che riteneva necessario per superare le difficoltà. Ma quel giorno non arrivava mai.
+
+Riusciva a pagare gli affitti con difficoltà; tentò di aumentarli, ma perse l'affetto degli inquilini, un disastro per il quale il poco rispetto che gli rimaneva tra i suoi pari a malapena bastava a compensarlo. Alla fine fu costretto, molto riluttante, ad abbandonare la compagnia di artisti, politici, letterati e appassionati di corse, con cui aveva trascorso gran parte della sua giovinezza. Cominciò quindi ad invitare a casa sua soltanto coloro a cui nessun altro offriva ospitalità; quando nemmeno loro erano disponibili, ricorse ai suoi parenti; e se anche questi non potevano aiutarlo, si rivolgeva al clero locale, ai piccoli proprietari terrieri, persino ai medici della sua città natale. Ma tutto fu inutile!
+
+Il governo di Lord Beaconsfield, sempre premuroso nell'onorare un nome antico, fece tutto il possibile. Gli furono offerti incarichi adatti alle sue capacità; fu accolto con entusiasmo nel ritorno alla vita pubblica. Infatti, è stato proprio il suo lavoro durante i primi anni delle sue difficoltà – gli ultimi dell’amministrazione conservatrice – a rendere il suo nome così noto a tutti noi. Quanto giovane era in quei tempi coraggiosi! Con quanta abilità e coraggio sostenne la posizione unica che la Gran Bretagna occupava in quel periodo migliore!
+
+Si può scusare il mio entusiasmo, ricordando il suo discorso a Salisbury sul tema della “Pace con onore”, il suo ruolo fondamentale nell’approvazione del disegno di legge sulla lavanderia alla Camera dei Lord, nonché il suo contributo ai fondi del partito durante la campagna elettorale di Midlothian. So per esperienza personale che tale contributo fu possibile solo grazie alla gentilezza dell’allora Marchese di Bramber, meglio conosciuto come “Jim”.
+
+Certo che amava il suo paese. È un onore per il nostro sistema partitico il fatto che il Ministero Liberale degli anni ’80 non abbia frainteso un patriottismo di questo livello. Fu inviato a Raub, ai Marranagoes, all’Isola dei Pellegrini: incarichi che, nella routine del nostro Servizio Permanente, non possono comportare retribuzioni elevate, ma che normalmente dovrebbero offrire ampie opportunità di esperienza. Questa esperienza la acquisì, ma, ahimè, invano. Niente di ciò che tentò ebbe successo. Al suo ritorno in [[England|Inghilterra]] dopo tre anni di assenza, abbandonò il suo lavoro ufficiale per poter cercare più liberamente di recuperare le sue fortune. La sua esperienza nel governo coloniale avrebbe dovuto aiutarlo nello sviluppo finanziario delle nostre dipendenze. Tuttavia, i promotori di varie società chiesero spesso il suo parere, ma esso si rivelò quasi sempre infausto.
+
+Fedele alla linea di onore nella quale era stato educato, rifiutò di essere menzionato pubblicamente in relazione al Raub Central, ai Marranagoes Guanos o al Pilgrim’s Island Oil Syndicate. Tutti quei progetti fallirono; ma grazie a quel misterioso legame che permette al grande pubblico di intuire ciò che la [[City|Città]] onora in privato, la sua reputazione, già grande tra gli esperti, divenne nota a tutti quando permise che il suo nome comparisse in testa alla Carria Canal Company. Non è certo un piccolo segno della probità della nostra vita pubblica il fatto che non abbia tratto alcun beneficio dal rapido successo di quell’impresa. Gli veniva pagato uno stipendio onesto, un stipendio modesto; non ne chiedeva di più. Questo gli permise di raggiungere le prime file tra i nostri “Costruttori dell’Impero”. Avrei voluto che ottenesse di più. Ma fallì.
 
 
 
@@ -3371,6 +4239,56 @@ ENDNOTES.
 8 The “Pettifogging Attorney” of Grattan’s tirade. As a fact he was a fairly prosperous young man with offices at a rental of £40 a year, and already the mortgagee of two public-houses.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nel frattempo, Lady Benthorpe teneva saldamente il timone tra le sue mani robuste. Apparteneva a quella categoria di donne che l’anziano Sutter definiva con precisione “donne forti del Signore”; era una di quelle persone che avevano ideato lo slogan: “Homo sum; nihil humanum a me alienum puto”. Fino all’ultimo momento, mantenne aperta la sua residenza politica, che continuava ad avere un certo rilievo, sebbene in declino, tra le classi letterarie e professionali. In inverno utilizzava per questo scopo la casa di città di sua sorella; durante la stagione estiva, invece, sceglieva la grande sala delle Progress Galleries, situata a sinistra, al primo piano.
+
+La maggior parte delle donne, sotto una tale pressione, avrebbe abbandonato la lotta; molte avrebbero chiesto l’aiuto di farmaci stimolanti. Il suo orgoglio lo disdegnava.
+
+Cercava il sollievo di cui aveva bisogno attraverso vini di tipo più igienico, soprattutto i vini spumanti più leggeri così fortemente consigliati dalla Facoltà; e persino a tale “medicina” si rifiutò di ricorrere fino agli anni della declinazione, quando il corpo fragile non fu più in grado di sostenere l’anima indomabile che vi albergava.
+
+Il suo medico era pienamente consapevole delle sue esigenze. Mi ha assicurato che gli ultimi mesi tristi fossero stati causati soltanto dall’esaurimento di quel cervello straordinario.
+
+Fino all’ultimo momento, lei si presentava occasionalmente alla tavola di suo marito, anche se le sue conversazioni non avevano più quella sobrietà che un tempo conferiva un certo prestigio a quel luogo; e quando nel 1886 Lord Benthorpe ritenne necessario salire nuovamente sul podio per difendere l’integrità dell’Impero – o, come si diceva all’epoca, del Regno – lei lo accompagnò in diverse occasioni. Fu solo con difficoltà che si riuscì a convincerla ad abbandonare il progetto di partecipare alla grande riunione nell’Albert Hall.
+
+Morì nel febbraio del 1887, all’età di soli quarantuno anni, tre mesi e due giorni.
+
+La sua fine, sebbene offuscata dai più gravi disturbi nervosi, fu consolata e illuminata dalla presenza di due persone di cui sarebbe ignobile non menzionarle nemmeno brevemente in questo resoconto: il signor Warner, lo studioso amabile a cui (in qualità di suo ex tutore) Lord Benthorpe aveva concesso l’usufrutto della tenuta di Great Monckton, proprio alle porte del parco; e sua moglie, la signora Warner, la cui meravigliosa piccola opera, “Ore di guarigione”, aiutò lo spirito dell’ultima contessa morente a lasciare questa terra per il cielo.
+
+#Lord Benthorpe: il salvatore dell’Impero
+
+Si è osservato che la difficoltà nel pronunciare correttamente le sillabe aspirate presenti nel titolo di quest'opera spirituale rivelava la mancanza di esperienza di chi l'aveva scritto nell'arte della scrittura. Non sono in grado di giudicare questa critica; tuttavia, se è fondata, posso almeno sottolineare la meraviglia di una fede capace di compensare qualsiasi ignoranza riguardo alla semplice tecnica di composizione, e di conferire a un testo scritto da uno sperimentato letterato una qualità così elevata.
+
+Lord Benthorpe, rimasto vedovo con suo figlio Charles che aveva appena quattro anni, si dedicò ancora più intensamente al suo lavoro pubblico. Il suo peso politico nel Hampshire all’inizio degli anni ’90, quando quella grande contea agricola, purtroppo, iniziava a considerare l’ipotesi dell’autogoverno, era indubbiamente notevole; tuttavia, questo rappresentava soltanto una piccola parte del suo influenza benefica. I suoi discorsi alla Camera dei Lord ricordavano i tempi in cui il governo gli aveva affidato la redazione di quel provvedimento di cui si è già parlato; si prevedeva con fiducia che, al ritorno al potere del suo partito, gli sarebbe stata assegnata una carica nel gabinetto.
+
+Queste speranze non si realizzarono. La sua delusione divenne ancora più amara quando considerò quanto ampiamente i giornalisti, su cui aveva concentrato le sue attenzioni, avessero diffuso la sua reputazione pubblica negli ultimi tempi; sembrava davvero terribile se si pensava alla situazione delle sue finanze. Infatti, bisogna ammetterlo (sebbene sia doloroso rivelare l’umiliazione di una persona così importante nella nostra comunità), che intorno al 1895 Lord Benthorpe si trovò privo di qualsiasi risorsa. Negli anni buoni, gli interessi dei suoi mutui venivano coperti esattamente dal reddito derivante dall’affitto delle sue terre e dai prodotti della sua fattoria domestica; negli anni cattivi, questi introiti non erano sufficienti, e bisognava anche ricorrere all’affitto di proprietà come Placton, una risorsa purtroppo troppo spesso insufficiente.
+
+La nostra società non permette agli uomini di cadere senza aiuto. Se ciò vale per la generalità dei cittadini, è ancora più vero per coloro i cui nomi sembrano rappresentare la stessa stabilità del paese. Fu immediatamente trovato un rimedio: la gestione della casa e della tenuta fu assunta (insieme ai mutui) dalla Anglo-Saxon Loan and Investment Company, con la quale, per una felice coincidenza, il nome del signor Barnett era strettamente legato. La casa e i terreni furono mantenuti da questa società finanziaria in condizioni degne del loro nome; e al lord Benthorpe fu generosamente permesso di farne la sua dimora permanente, non solo per rispetto alla dignità del suo nome, ma anche considerando il valore aggiunto che la sua continua residenza conferiva a quei luoghi.
+
+Non menziono questa magnanimità da parte di un gruppo di uomini d'affari al fine di compromettere la loro reputazione di astuzia e capacità commerciale. Tutto, fino ai salari dei domestici, passava attraverso le loro mani; inoltre, avevano stabilito una condizione – una condizione che Lord Benthorpe accettò molto volentieri – secondo cui, anche per offrire piccoli gesti di ospitalità ai vicini, avrebbe dovuto ottenere sempre il permesso scritto dei creditori ipotecari.
+
+Lord Benthorpe, nel momento in cui la grande questione dei M’Korio entrò nell’arena politica, presentava un aspetto che coloro non abituati alle nostre classi amministrative avrebbero potuto scambiare per debolezza.
+
+La sua figura, molto alta e snella, era sormontata da un viso il cui aspetto lungo rappresentava forse la caratteristica più evidente. Il suo naso sottile e aquilino, i suoi occhi di colore grigio pallido, posizionati uno vicino all’altro e leggermente inclinati alle estremità, da soli non avrebbero potuto portare a un giudizio errato; né lo stesso valeva per la forma e la posizione delle sue orecchie, alla cui evidenza contribuivano forse la strettezza della testa e la scarsità di capelli. Era piuttosto la sua bocca, che per un’abitudine sfortunata teneva sempre semiaperta, a far risaltare denti piuttosto lunghi e sporgenti che si incrociavano leggermente, proprio come quelli dei piccoli roditori. Una leggera crescita sul labbro superiore accentuava ulteriormente l’aspetto poco attraente di questa caratteristica; l’effetto ingannevole veniva inoltre rafforzato da un tic nervoso: lui continuava a battere o tamburellare con le dita, solitamente sul ginocchio, ma a volte anche sul tavolo o su qualsiasi altra cosa gli capitasse sotto mano.
+
+Per quanto riguarda il suo atteggiamento, lo si vedeva spesso seduto con una gamba incrociata sull'altra, e con un'inclinazione del corpo che non lasciava trapelare minimamente l'intelligenza e l'energia intellettuale che avevano ispirato tanti anni prima.
+
+Dico che un straniero poco familiare con la nostra politica, o persino uno dei nostri cittadini meno esperti, non avrebbe mai indovinato quale potere e iniziativa si nascondessero dietro tutto ciò; ma coloro di noi che ricordano l’annessione di Raub, la ferma azione con cui fu sedata la rivolta alle Seychelles, la delusione della Germania riguardo ai Marranagoes, la sistemazione dell’Isola dei Pellegrini, e soprattutto il terribile episodio di Pútti-Ghâl, non fanno fatica a riconoscere in Lord Benthorpe gli elementi che hanno portato il nostro paese alla posizione attuale tra le nazioni.
+
+Ecco l’uomo che, forse, il miglior giudice di caratteri del nostro tempo – intendo dire il signor Barnett – aveva scelto con grande attenzione per coinvolgerlo nel suo grande progetto. Lord Benthorpe e il signor Burden erano i due pilastri su cui il signor Barnett intendeva fondare l’intero progetto di sviluppo M’Korio Delta.
+
+È necessario aggiungere che si avvicinò a Cosmo con quella schiettezza tipica di tutti i veri leader, che evidenziò le difficoltà che un qualsiasi tentativo di convincere il vecchio mercante, suo padre, riguardo a ciò che l’M’Korio era e doveva essere avrebbe incontrato, e che chiese – quasi con umiltà – l’aiuto di un giovane che lui stesso aveva così apertamente fatto amico?
+
+È necessario aggiungere che la richiesta fu accettata non appena presentata?
+
+Con estrema precisione e grande delicatezza, Cosmo attuò letteralmente quelle istruzioni che sapeva bene fossero vantaggiose non solo per il signor Barnett, il suo benefattore, ma anche per sé stesso, la sua famiglia e, in realtà, per l’intero Impero. Fu scelto proprio perché possedeva le qualità necessarie per stabilire quelle relazioni che la situazione richiedeva; suo padre, infatti, era un politico di grande talento il cui declino economico, dignità e saggezza sono stati argomenti trattati nel capitolo che ora concludo.
+
+Note finali.
+
+7 Dublin Almanack and Register, vol. XIV, p. 26; inoltre, Rolls, Anno XXVI, 4 ecc., Dubl. Reg. ff.
+
+L’“avvocato litigioso” menzionato nella tirata di Grattan. In realtà era un giovane piuttosto benestante: aveva degli uffici affittati per 40 sterline all’anno e già possedeva due pub come ipotecari.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/england"></span>
@@ -3416,6 +4334,48 @@ In deference to his father’s wishes, Cosmo had that day dined at home.
 
 It was late in the evening at Avonmore: the fire lit in fitful glimpses the eight red leather chairs ranged along the wall of the smoking-room, the many photographs of Mr Watt’s work and of that of the late Sir Edward Burne-Jones, as also the noble engraving of “The Gambler’s Wife,” which hung amidst them in all its wealth of line and value.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VI
+
+COSMO conosceva troppo bene il carattere di suo padre; inoltre, essendo un figlio estremamente devoto, non avrebbe mai osato sorprendere il signor Burden sollevando argomenti su cui si poteva presumere che il mercante avesse una conoscenza molto più approfondita della sua.
+
+Era una cosa meravigliosa – e anche sorprendente in questi tempi di irriverenza e fretta – osservare i passi delicati e misurati con cui il mio vecchio amico veniva portato, quasi senza che se ne rendesse conto, sull’orlo del M’Korio. Era un processo caratterizzato da quell’unione di affetto e rispetto reciproco attraverso il quale ogni giorno vediamo i giovani guidare gli anziani verso cose più grandi; un processo che nessuna semplice descrizione scritta può trasmettere appieno.
+
+Il giovane, per sbaglio, lasciava nel corridoio un libro del Maggiore Pondo; il signor Burden lo prendeva pensando che si trattasse di un'opera di fantasia: ne diventava abbastanza interessato da portarlo in città con sé; notava i simboli utilizzati per rappresentare le parti asciuttrici del delta; lo girava di lato per dare un’occhiata alla mappa delle foce del fiume; leggeva con piacere le note a piè di pagina che facevano riferimento alle Scritture. E quando portava il libro a casa, Cosmo dimenticava la sua origine, ma alla fine ricordava che gli era stato prestato dal figlio di Sir Samuel Gare.
+
+Se Cosmo aveva qualche nota da scrivere al signor Barnett o al signor Harbury, faceva attenzione a scriverle nella casa di suo padre, indirizzandole ai loro uffici, e poi le lasciava casualmente sul tavolo dell’ingresso affinché venissero raccolte e inviate; infatti suo padre odiava il disordine e, rimproverandolo, le raccoglieva lui stesso.
+
+A volte riusciva persino a giustificare questa azione con la propria coscienza, indirizzando le buste a persone fittizie nell’insediamento di M’Korio, o nella regione del delta dove nessuno viveva realmente.
+
+Non dimenticò di lasciare il giornale sul tavolo della colazione, piegato in modo approssimativo, così da contenere, tra le altre cose, tutto ciò che i giornalisti avessero potuto pubblicare quella mattina riguardo alle questioni legate a M’Korian. Per la sorpresa e la gioia di suo padre, iniziò ad alzarsi un’ora prima del resto della famiglia, per poter leggere le notizie in modo completo prima che suo padre scendesse al piano di sotto; ma nei terzi o quarti giorni, quando il giornale dedicava un articolo di primo piano a M’Korian, lo teneva con sé per tutta la durata del pasto, fino a quando suo padre non ne avesse voglia e lo leggesse con ancora maggiore interesse.
+
+Con un modo che rasentava l’arte, parlava sempre in termini di lode di quei piccoli pacchi inviati dall’ufficio per questa apparentemente irrilevante branca dell’attività aziendale; tuttavia fingeva (credo saggiamente) di ignorarne la destinazione: a volte supponeva che fossero destinati alla Cina, altre volte li faceva effettivamente inviare nella direzione sbagliata, e ogni volta pronunciava male il nome della destinazione quando suo padre glielo ricordava.
+
+Mostrava una curiosa ansia riguardo a un fucile da caccia che il signor Burden aveva ricevuto in campione da Birmingham. Era particolarmente interessato alle armature corazzate; fu lui ad suggerire alla Società per la Promozione della Conoscenza Biblica di scrivere a una ditta che operava nelle zone interne del paese, eppure fu sempre lui a chiedere a suo padre da dove provenissero tali lettere e quale risposta si dovesse dare.
+
+Nei temi di conversazione più comuni, prevaleva questa atmosfera.
+
+Se suo padre parlava di cricket, Cosmo ricordava l’insolita avversione che il figlio di Lord Benthorpe provava per quel gioco; un’avversione che, piuttosto che infastidire, aveva divertito un lanciatore eccezionale come Hagbourne, amico del signor Barnett. La partita si era svolta sul campo del signor Harbury.
+
+Se suo padre menzionava un club, allora quel club era o non era quello a cui appartenevano Charles Benthorpe o il Maggiore Pondo.
+
+Il vino gli ricordò che non poteva essere bevuto nelle zone tropicali; il whisky invece gli fece pensare a come fosse stato dichiarato da autorità come Sir George Mackintosh e Lord Bannochry come la bevanda più salutare per i pionieri nei bacini fluviali africani.
+
+Tuttavia, quando, dopo alcune settimane di questo trattamento, suo padre stesso iniziò a parlare direttamente dell’M’Korio, mostrando chiaramente un misto di autorità e interesse, Cosmo, con estrema delicatezza, cambiò argomento della conversazione, passando spesso a parlare dei suoi amici universitari, della geografia imperiale o dell’ottima intimità e del positivo influenzo che il signor Barnett esercitava sui membri residenti dell’università.
+
+In un modo o nell’altro, l’atmosfera creata da M’Korio si diffuse in quella casa molto prima che la stagione invernale finisse. Aveva tutte le caratteristiche di un’atmosfera: sempre presente, onnipresente, necessaria alla vita, ma percepita solo in parte, come una forza invisibile. Quando penso che questo grande risultato sia stato ottenuto da un giovane fino ad allora privo di qualsiasi esperienza nelle attività commerciali benefiche, non credo ci possa essere un esempio più evidente del potere che ha reso possibile la moderna [[England|Inghilterra]].
+
+È vero che Cosmo era naturalmente coinvolto nell’impresa del signor Barnett, e che le sue conversazioni ne riflettevano inevitabilmente gli elementi principali; tuttavia sono convinto che ci fosse una finalità consapevole alla base delle sue azioni, nonché un metodo appreso attraverso la recente frequentazione di persone più illustri. Perché “esistono amicizie”, come ha osservato quel genio eccentrico ma originale di Cambridge, Colthorpe, “amicizie che rappresentano in sé una vera e propria educazione, ”
+
+Così, attraverso l’intermediazione di un figlio, e in un modo che ricordava l’addestramento di alcune fiere erbivore per il servizio dell’uomo – un metodo dolce ma deciso – il signor Burden, nonostante la routine di una vita intera, fu gradualmente portato a comprendere l’esistenza di un’immensa opportunità imperiale.
+
+Era verso la fine di marzo; dopo una giornata trascorsa in un atteggiamento di curiosa riservatezza, finalmente parlò apertamente con suo figlio di un argomento che da tempo lo preoccupava.
+
+Per rispettare i desideri di suo padre, quel giorno Cosmo pranzò a casa.
+
+Era tardi nella serata ad Avonmore: il fuoco illuminava, a intermittenze, le otto sedie di pelle rossa disposte lungo la parete del salotto fumatori, le numerose fotografie delle opere di Mr Watt e quelle del defunto Sir Edward Burne-Jones, nonché l’elegante incisione “La moglie del giocatore”, appesa tra di esse con tutta la sua ricchezza di linee e valore artistico.
 
 
 
@@ -3463,6 +4423,48 @@ His father answered proudly. “They will, Cosmo, they will,” and never was hi
 Mr Burden smiled tolerantly: he had a reminiscent vision of his boy’s rapid successes: of the academic triumph in Modern Languages, and, still better, the firm friendships acquired with men proud to be his equals ... perhaps through these an introduction to families that would accept or even search an alliance: such early affections as.... But his reverie was cut short by an inspiration of Cosmo’s.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L’ora e il luogo erano perfetti quando il signor Burden decise di confidare qualcosa che era unico nella sua vita: infatti, ad eccezione del signor Abbott, il cui consiglio chiedeva costantemente, del suo principale impiegato (un uomo di grande esperienza) e di sua sorella, nessun altro essere umano aveva mai ispirato le sue iniziative o conosciuto i suoi piani.
+
+Tuttavia, il suo erede, suo unico figlio, che col tempo avrebbe gestito tutte le fortune della famiglia, aveva ogni diritto di partecipare a un cambiamento così significativo: infatti, la sua evidente capacità nel sfruttare le opportunità accademiche e la scelta eccellente degli amici sembravano renderlo degno di tale ruolo, nonostante la sua inesperienza nelle questioni pratiche.
+
+Quindi, dopo aver letto un articolo sul declino del Portogallo, il signor Burden esprimeva con grande gravità una notevole preoccupazione che lo assillava.
+
+Quel giorno, per due volte, ci furono alcuni problemi in ufficio riguardo al commercio con il Nord; quindi si poteva scusare Cosmo se immediatamente condivise la preoccupazione di suo padre riguardo all’aumento dei carichi diretti a Reikjavík e alla inspiegabile diminuzione della domanda di stufe inglesi in Islanda. Il signor Burden assicurò a suo figlio con notevole solennità che si sbagliava. Fece una pausa e aggiunse:
+
+“Probabilmente lo sai già, Cosmo, anzi, sicuramente lo sai ormai, che una parte delle attività della nostra azienda avviene con la M’Korio Delta.”
+
+Cosmo era troppo leale per negare di conoscere quel fatto, ma i suoi tratti facciali mostravano quanto poco gli fosse passato per la mente. Il signor Burden fece una pausa e aggrottò la fronte; poi continuò:
+
+“Ora, questo scambio non ha mai avuto alcun valore per noi, ma spesso ho pensato, forse mi sbagliavo, molte volte ho creduto che avrebbe potuto avere successo se avessi indagato più a fondo sulla questione.”
+
+Dopo una pausa lunga e ancora più fruttuosa, il terzo, ma non l’ultimo, intervento in questo discorso critico, il signor Burden proseguì con straordinaria ampiezza e profondità nello sviluppo di quella teoria del commercio che ci distingue dai nostri rivali meno fortunati. Sebbene sia costretto a ridurre la sua esposizione, faccio attenzione a ripetere esattamente le sue parole, in materia di cui lui era un maestro e di cui io non posso nemmeno considerarmi un principiante.
+
+Innanzitutto sottolineò che i tempi non erano più quelli di un tempo; che la concorrenza era intensa; che era necessario cercare nuovi mercati; che la nostra prosperità aumentava effettivamente, ma il tasso di tale aumento stava diminuendo. Per ben dieci minuti spiegò in modo molto chiaro la differenza tra crescita reale e crescita relativa; infine, con qualche esitazione, ma con entusiasmo e convinzione, propose come sua idea che i nuovi mercati potessero emergere in nuovi paesi.
+
+Cosmo, la cui mente vigorosa sebbene tranquilla era immediatamente attratta dalle teorie originali, fu colpito da un intero mondo di pensieri e allusioni a causa dell’intuizione improvvisa di suo padre. Ricordò esempi di successi ottenuti seguendo tali approcci: l’Australia ne fornì molti, Johannesburg ancora di più; non trascurò nemmeno gli Stati occidentali d’America. Ma si chiese quale potesse essere il legame tra il Delta del M’Korio, da tempo conosciuto ma ormai trascurato e dimenticato, e questi esempi.
+
+Fu allora che il signor Burden espresse apertamente l’idea che da tempo maturava nella sua mente; sperava, non sapeva esattamente perché, ma era solo una speranza, che il M’Korio Delta potesse rivelarsi uno di quei territori ancora inesplorati di un Impero il cui futuro nascondeva possibilità quasi infinite.
+
+“Questa mia idea,” aggiunse, “è stata particolarmente confermata da una o due cose che ho letto, nonché da alcune casuali allusioni di viaggiatori negli ultimi anni. Dubito che i nostri esploratori o i nostri giornalisti abbiano avuto le stesse opportunità per valutare la Delta quanto me; inoltre, non sono abituato a basare le mie conclusioni su quelle altrui. Tuttavia, mi colpisce il modo straordinario con cui tutte le ricerche moderne sull’argomento sembrano convergere verso le mie stesse conclusioni originali.”
+
+Quando il signor Burden ebbe detto queste cose, Cosmo, con una saggezza che superava la sua età, evidenziò i rischi estremi legati a tutti gli esperimenti coloniali. Il pericolo forse non riguardava la nazione nel suo complesso; ma era inevitabilmente presente per ogni singolo speculatore. Suo padre annuiva ritmicamente e con saggezza, mentre suo figlio mostrava in ogni frase una crescente cautela; tuttavia il padre lo interruppe con un gesto deciso.
+
+“Nessuno lo sa meglio di me, Cosmo,” disse. “Non mi impegnerò mai in un progetto che non prometta il sostegno massiccio del pubblico e, spero, anche qualche forma di riconoscimento ufficiale. Quando sarai vecchio come me,” proseguì, prima che Cosmo potesse interromperlo, “capirai che proprio quel riconoscimento ufficiale, anche se non formale, ” esitò per un momento, “, anche se non ufficiale, è ciò che attira il pubblico.”
+
+E con questa espressione di opinione, sulle labbra del signor Burden rimase un debole sorriso che dimostrava l’importanza che egli attribuiva, a giusto titolo, alla propria conoscenza del mondo.
+
+Avrebbe potuto spingersi oltre, ma Cosmo, nonostante la sua freschezza, capiva ciò che passava nella mente di suo padre. Nella sua voce c'era una grazia e un umiltà che, in modo strano, contrastavano con i suoi tratti fisici pesanti e il suo atteggiamento.
+
+“Mio caro padre,” disse. “Se solo potessi fare qualcosa, ma nessuno mi prende sul serio nel mondo degli affari, ancora.” I suoi occhi sorridevano mentre lo diceva.
+
+Suo padre rispose con orgoglio: “Lo faranno, Cosmo, lo faranno”, e mai la sua fiducia nel futuro fu così forte.
+
+“Conosco gli uomini solo come amici. Capisco cosa intendi. L’università fa proprio questo. Stavo pensando chi, tra tutte quelle persone, conoscesse meglio quel posto. Sai, per quanto mi riguarda,” cambiò tono, divagando, “ci credo, ma intendo in senso politico; dal punto di vista commerciale, servono invece svariati tipi di conoscenze specialistiche, ” Poi il suo viso si riempì di pensieri e fissò il fuoco.
+
+Il signor Burden sorrise con tolleranza: gli tornarono in mente i rapidi successi di suo figlio: il trionfo accademico nelle lingue moderne, e ancora meglio le solide amicizie che aveva stretto con uomini orgogliosi di essere suoi pari. Forse attraverso queste relazioni avrebbe potuto ottenere l’introduzione in famiglie disposte ad accettare o addirittura a cercare un'alleanza. Ma i suoi pensieri furono interrotti dall’ispirazione di Cosmo.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
@@ -3498,6 +4500,38 @@ Hard-headed business men are not easily to be persuaded when opposing arguments 
 
 For a few moments he was at once bewildered and annoyed at hearing that he was required to change, but, when he had paid the customary fees and found himself once more alone in a well-lit carriage, this annoyance disappeared before a renewal of the problem which vexed him. His mind, however, was vigorous, he bent upon that problem the fullest of his energies, and, as the train pulled out of the quiet little wayside station of Keynes, he had very nearly arrived at the firm conclusion, that so much was to be said upon either side, as to make the judgment of some further adviser necessary before a determination could be taken.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Perché non chiedere a Lord Benthorpe?” disse.
+
+“Lord Benthorpe!”, esclamò il signor Burden. Era sorpreso e anche un po' scioccato, e lo fece capire chiaramente.
+
+Lord Benthorpe era una figura pubblica; fu soltanto per sua stessa volontà che non aveva raggiunto posizioni di rilievo all’interno del suo partito. In realtà, nell’amministrazione avrebbe potuto diventare, e forse ancora lo sarebbe potuto diventare, una grande figura imperiale. Il signor Burden ricordava bene come questo uomo, leggermente più giovane di lui, fosse stato considerato un degno successore di suo celebre nonno. La sua reputazione, soprattutto da giovane, era avvolta da quell’atmosfera puramente politica che il patriottismo delle persone di origine commerciale trasforma in un’aureola. Il signor Burden sottolineò apertamente tutti questi aspetti in risposta a suo figlio. Forse, come fanno gli anziani, esagerò un po’ l’importanza di quel nome che negli ultimi anni aveva perso un po’ del suo peso; ma la sua vita si era svolta in ambiti sufficientemente lontani dalla politica da giustificare la sua umiltà. E se dubitava della possibilità di ottenere il consiglio di Lord Benthorpe su una questione così banale come quella dei M’Korio, era perché valutava appieno l’importanza di quel consiglio, nel caso avesse avuto la fortuna di riceverlo.
+
+Cosmo era sincero. Sosteneva di non riuscire a comprendere l’obiezione di suo padre. Non conosceva bene Lord Benthorpe, ma conosceva estremamente bene il figlio di Lord Benthorpe. Era assolutamente certo, disse, che il signor Burden avesse frainteso la semplicità di quelle persone. Inoltre, Lapthorne e Curley avevano chiesto consigli su questioni neutrali e ne avevano ricevuti – garantì a suo padre che il mondo di Lord Benthorpe rispettava la [[City|Città]] tanto quanto la [[City|Città]] rispettava loro; sapevano su cosa si fondasse l’Impero, e vedevano – e in questo lui, Cosmo, era d’accordo – che, senza alcun contatto tra i Benthorpe e i Burden, l’Impero avrebbe difficilmente potuto sopravvivere.
+
+Avrebbe continuato a parlare nello stesso tono, se non fosse stato per il signor Burden, il cui orgoglio stava soffrendo un po’ a causa di tutte quelle proteste; si alzò improvvisamente e annunciò che avrebbe deciso lui stesso quando agire. Suo figlio ebbe la delicatezza di dirgli buonanotte.
+
+Anche il signor Burden andò nella sua stanza; per due ore scrisse e riscrisse una lettera alla terza persona, nella quale esprimeva i suoi complimenti al lord Benthorpe e, in modo indiretto, le sue scuse, la sua richiesta di consigli e la sua fiducia nel fatto che questi potessero essere ottenuti. Quella stessa notte, molto tardi, il signor Burden consegnò personalmente questa lettera all’ufficio postale più vicino ad Avonmore: quello situato all’angolo dove Mafeking Avenue si immette in Alexandrovna Road.
+
+Quella notte, prima di addormentarsi, il signor Burden era oppresso dall’incertezza. Sentiva di aver intrapreso un percorso senza ritorno; non era sicuro che fosse per il meglio o per il peggio, ma sapeva con certezza che stava dirigendosi verso luoghi sconosciuti. E una tale prospettiva non è certo gradita agli uomini anziani.
+
+Il giorno seguente, questo doppio stato d’animo continuò a perseguitarlo. Era mescolato con vaghe sospetti di interferenze e litigi; lo lasciava in uno stato di disagio, fino a quando, la mattina dopo, non ricevette una lettera affascinante: semplice, chiara e concisa. Il foglio era ordinario e spesso, la scrittura fluida, il lessico sobrio. Era una lettera degna della cura con cui il signor Burden la conservò. Parlava delle grandi promesse di suo figlio, lodava i suoi risultati universitari e l’ampia cerchia dei suoi amici; chiedeva che l’amicizia tra Cosmo e Charles sostituisse una presentazione formale; assicurava al signor Burden, con enfasi, che nessuno in [[England|Inghilterra]] aveva maggior diritto di essere ascoltato su questioni riguardanti gli affari della sua azienda, poiché proprio le sue iniziative commerciali avevano gettato le basi del suo successo. Non restava nulla di importante, se non la firma: la semplice parola “Benthorpe”, scritta senza dubbio con una penna spessa; e l’antica cortesia di un postscripto che chiedeva al signor Burden di comunicargli il giorno e il treno con cui avrebbe raggiunto Great Monckton, “Il giorno dopo”, recitavano le ultime parole della lettera, “il giorno dopo la piccola stazione di Keynes”.
+
+Per una mente giudiziosa, quando si considera l’approccio da adottare per affrontare la questione di Placton, è sempre una questione di equilibrio: scegliere se prendere la linea Great Western fino a Halsden Junction o quella South-Western fino a Great Monckton. Entrambe le strade distano ugualmente tre miglia dalla residenza in questione; tuttavia, molte considerazioni – che potrebbero risultare noiose per il lettore interessato alle vicende di Burden – lo spinsero infine a scegliere la seconda opzione. Fu da Waterloo, e non da Paddington, che egli intraprese quel viaggio fatale che per poco non cambiò il corso della storia della nostra razza.
+
+In lui, la combinazione di audacia e routine – una caratteristica comune alle classi commerciali dei nostri connazionali – scatenò una lotta che durò per tutta la strada fino alla tranquilla stazione di Keynes.
+
+Era solo. Nei tempi in cui tale distinzione aveva importanza, aveva preso l’abitudine di viaggiare in prima classe; abitudine che aveva mantenuto. Proprio grazie a essa godeva della solitudine necessaria affinché un simile conflitto potesse sorgere nella sua mente.
+
+La sua fortuna era stata ereditata da un lignaggio così solido e aveva potuto essere conservata grazie a uno sforzo costante di onestà e diligenza; pertanto, qualsiasi tipo di speculazione, alla sua età, gli sembrava una sorta di sacrilegio.
+
+D'altra parte, l'espansione del British Raj, la sua fiducia nel suo futuro, l'esempio di molte nazioni create dal nulla grazie alla fiducia dei suoi contemporanei, e soprattutto la notevole ricchezza acquisita da coloro che avevano rischiato tutto per il destino dell'Impero, lo spinsero ad agire con audacia.
+
+Gli uomini d'affari con la testa sulle spalle non sono facilmente persuasi quando si presentano loro argomenti contrari. Quando finalmente arrivò alla tranquilla stazioncina di campagna di Keynes, il signor Burden non era ancora deciso.
+
+Per alcuni momenti fu sia confuso che infastidito all’udire che gli veniva chiesto di cambiare idea, ma quando pagò le tariffe consuete e si ritrovò di nuovo da solo in un vagone ben illuminato, quell’irritazione scomparve, lasciando il posto al problema che lo tormentava ancora. Tuttavia, la sua mente era vigile; concentrò tutte le sue energie su quel problema e, mentre il treno lasciava la tranquilla stazioncina di Keynes, era quasi giunto alla conclusione che ci fossero troppi argomenti da considerare su entrambe le parti, per poter prendere una decisione senza l’opinione di un altro consulente.
 
 
 
@@ -3547,6 +4581,50 @@ There were portraits too. A very fine, but somewhat sinister figure, turbaned an
 Standing in his robes against a fringed and tasselled velvet curtain of a rich purple hue with a broken pillar at his side, while a sunbeam bursting through a distant cloud, threw into fine relief the orator’s gesture, the Great Irishman was represented speaking in the House of Lords in favour of the reform of the Poor Law. His left hand touched with the index finger a map of Great Britain; his right was slightly raised to heaven in dignified appeal. A wolf-hound nestling at his feet indicated the domestic nature of his character, for the taste of that time permitted the allegory in spite of the grave improbability of such a creature’s presence in such a place and upon such an occasion.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La sua mente non era affatto concentrata su questa eccellente soluzione quando il treno si fermò; sentì chiamare il nome di Great Monckton, e la presenza di un servitore che lo accompagnò fino a una carrozza. L’onesta cortesia degli inglesi – del portiere, del capostazione, della guardia, del venditore di giornali, dell’addetto alla biglietteria. L’aria fresca della campagna e il nome di Placton ripetuto più volte gli diedero quella sensazione di tranquillità che si prova in prossimità dei luoghi importanti. La carrozza proseguì il suo viaggio; foreste profumate scorrevano incessantemente lungo la strada al crepuscolo. E sempre di più, il signor Burden sentiva di essere vicino alla sicurezza e alle fondamenta su cui si basa la nostra [[England|Inghilterra]].
+
+C'era una locanda, un bellissimo cancello realizzato in imitazione del ferro battuto e dorato secondo lo stile di Aylesbury, una donna anziana che si comportava con uno charme sorprendente, un viale lungo quasi un miglio, alberi antichi e ben curati, una torre della chiesa visibile appena contro il cielo; in una valle che il viale costeggiava, c'era un lago con una casa per le barche, un’isola e delle terrazze, proprio come nella famosa rappresentazione di quel luogo.
+
+Il signor Burden, osservando tutte queste cose con sincera intenzione, provò qualcosa di antico nel proprio sangue: nella sua mente venerava l’immagine maestosa di Lord Benthorpe e metteva le proprie dubbi ai piedi di tali realizzazioni ed esperienze. Aveva una vera sete, (se posso usare questa espressione) della presenza di quel statista britannico.
+
+Non ci fu alcun ritardo. Lo portarono in quella maestosa casa, buia, rivestita di pannelli, venerabile: muri così antichi che nessuno che vi vivesse oggi li aveva mai visti essere costruiti; quercie tagliate prima che Sua Maestà defunta assumesse il regno; arredi il cui gusto faceva sembrare moderno persino quello del Principe Alberto; tappeti profondi provenienti da Bruxelles e Aubusson; dipinti di Turner, Etty, Frith, di artisti i cui nomi stessi erano ormai dimenticati. Lo portarono, insomma, attraverso tutta questa maestosa magnificenza, fino a raggiungere un vasto appartamento dove, alla luce di due candele di cera gialla pura, Lord Benthorpe sedeva da solo, una figura spirituale e illuminata, che spiccava contro lo sfondo di una penombra vaga e di arazzi indefiniti.
+
+Ho detto abbastanza sulla statura, sul comportamento e sulla storia di questo statista per convincere i miei lettori che quel momento fu davvero unico nella vita del signor Burden. Quando entrò e fu presentato, provò sentimenti così intensi di ammirazione e gratitudine da esitare per un attimo prima di avanzare.
+
+Tutto ciò che Lord Benthorpe aveva fatto e che era, l'intera [[England|Inghilterra]] lo sapeva: il conquistatore di Raub e l'eroe di Pútti-Ghâl.
+
+Il signor Burden era un mercante il cui patrimonio ammontava al massimo a 257.000 sterline, e tutto questo denaro era investito interamente nel suo commercio; tuttavia, nessuna differenza di ricchezza influenzava il comportamento di quest’uomo così distinto.
+
+Grazie alle sue capacità nel creare un'atmosfera rilassata tra i suoi ospiti, Lord Benthorpe era famoso nelle classi commerciali di tre capitali europee e quattordici capitali coloniali; non fece eccezione nemmeno con il signor Burden. Infatti, sebbene quell’uomo apparentemente disinvolto avesse iniziato a sudare freddo durante i primi suoi discorsi, trascorrere soltanto tre quarti d’ora in compagnia di quel politico e soldato gli permise di riprendere il controllo della propria eloquenza e di sentirsi come se fosse in presenza di un amico.
+
+Quando divenne evidente che il signor Burden aveva raggiunto questa fase più felice della sua vita, Lord Benthorpe, assumendo un tono serio e pratico, chiese, come aveva fatto molte volte nella sua vita attiva e produttiva, cosa potesse fare per aiutare il suo ospite.
+
+Era una formula che gli era stata insegnata fin da piccolo: l’aveva utilizzata con persone di ogni rango, e sempre con successo, tranne che in un incontro sfortunato con un tassista, il quale non ha alcuna attinenza con queste pagine. Infatti, quel giorno lontano, il tassista aveva elencato, tra molte imprecazioni, una serie di cose strane che Lord Benthorpe avrebbe potuto fare per lui, ma alla fine si era rifiutato di fare nulla, tranne che pagare la semplice tariffa del viaggio. Tutti gli altri visitatori, dal Segretario della Società per la Prevenzione delle Malattie al Sendar di Raub, erano rimasti affascinati dal modo in cui quella frase veniva pronunciata.
+
+Il signor Burden percepì l’effetto di quel incantesimo, e con evidente gratitudine nella voce dichiarò di essere arrivato per discutere della questione menzionata nella sua lettera.
+
+Lord Benthorpe sorrise senza sforzo e, battendo le dita sul tavolo davanti a sé come suo solito, mormorò due volte:
+
+"Certo... Certamente."
+
+Poi, in quella grande stanza buia, regnò il silenzio per quasi quattro minuti.
+
+Un orologio ticchettava solennemente in un angolo, fuori dalla vista; di tanto in tanto Lord Benthorpe batteva di nuovo le dita sul tavolo; ma a parte questi suoni, non c’era nulla che potesse mascherare il respiro del signor Burden. Alla fine Lord Benthorpe spinse indietro la sedia, incrociò le gambe, appoggiò il gomito sinistro sul ginocchio e la testa sulla mano sinistra; poi riprese a parlare con quel tono basso e meditativo, così pieno di responsabilità e ricordi:
+
+"Certo che..."
+
+In qualche remota anticamera di quell'imponente edificio, un servitore suonava un gong che emetteva toni controllati e potenti; la casa era pervasa da quel suono, ma pur essendo delicato, per il signor Burden rappresentava più una sollecitazione che un ordine di vestirsi per la cena. Con questo pensiero, si alzò.
+
+Il suo ospite lo precedette, accese una candela con le sue stesse mani e gli mostrò la strada per salire le scale. In cima alle scale si apriva un corridoio molto ampio, illuminato dal soffitto attraverso delle lucernari, e decorato con quadri che rappresentavano la gloria di quella casa.
+
+Passarono una tela dopo l’altra; Lord Benthorpe continuava a tenere e ad ombreggiare la candela, mentre il signor Burden ascoltava con attenzione e rispetto tutto ciò che veniva detto. Queste erano Napoli, Lucerna; una terza Nizza, una quarta Mentone: tutti quei luoghi strani e bellissimi che Lord Benthorpe aveva ammirato durante i suoi numerosi viaggi. Le tele erano state commissionate da lui a maestri locali, i cui nomi erano ancora chiaramente incisi nell’angolo in basso a sinistra delle loro opere.
+
+C'erano anche dei ritratti. Una figura molto bella, ma al contempo un po’ inquietante, con il turbante e un'espressione cupa, era sua prozia Kathleen, l’unica sorella di suo nonno. Sua nonna, raffigurata come la Musa Tragica, occupava interamente il ritratto successivo; suo nonno quello dopo ancora.
+
+In piedi, avvolto nelle sue vesti, dietro una tenda di velluto viola ricamata con frange e nappe; accanto a lui, un pilastro spezzato; mentre un raggio di sole che filtrava attraverso una nuvola lontana metteva in evidenza i gesti dell’oratore, il grande irlandese veniva raffigurato mentre parlava alla Camera dei Lord a favore della riforma della legge sulle indigenti. Con l’indice della mano sinistra toccava una mappa della Gran Bretagna; la destra era leggermente sollevata verso il cielo in un gesto di dignitosa supplica. Un levriero accovacciato ai suoi piedi simboleggiava la natura domestica del suo carattere: infatti, i gusti dell’epoca permettevano l’uso di simboli allegorici, nonostante fosse estremamente improbabile che un animale del genere si trovasse in quel luogo e in quella circostanza.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_05" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/animals,motif/food_and_feasting,concept/hypocrisy,concept/empire_and_imperialism,form/satire,form/social_novel"></span>
@@ -3582,6 +4660,38 @@ At this moment appeared, with some ceremony, a leg of mutton loading a dish of p
 
 The conversation having turned upon tigers, perhaps the most interesting of the animal creation, and Lord Benthorpe’s experience in the East having been, as was public knowledge, manifold, it is little wonder if he occupied the remainder of the meal in a somewhat lengthy description of his adventures in the pursuit of this game; for, though no class of the community knows better when to be silent, neither is any better fitted for sustaining a monologue than that which the host of the evening had adorned.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Verso la fine del corridoio, davanti a un dipinto dallo stile più moderno e appeso da solo, si fermarono per un momento in silenzio. Rappresentava una donna ancora giovane: i suoi capelli, dello stesso colore dei suoi, erano raccolti dietro la testa in quelle onde ordinate che un tempo venivano chiamate “chignon”; la sua gonna, molto ampia, era di un rosa brillante; era seduta e scriveva davanti a un bellissimo scrittoio, tenendo in mano una penna elegante; il mignolo della sua mano spuntava fuori dalle altre dita in modo grazioso. Il quadro era sormontato da un delicato ornamento a forma di corona; sul suo viso si leggeva un sorriso amichevole.
+
+“Mia moglie,” disse semplicemente Lord Benthorpe. Poi, dopo una lunga pausa, “di Marsten, ”; infine, con voce più profonda e sommessa, “da una fotografia.”
+
+I due uomini si separarono; il signor Burden, immerso in profonde riflessioni, si chiedeva come fosse possibile vedere tanta grandezza unita a una tale naturale disinvoltura.
+
+A Lord Benthorpe i suoi assistenti finanziari concessero la massima libertà nell’organizzare il divertimento di quella sera. Infatti, non appena ricevettero la sua richiesta, gli inviarono un assegno senza alcuna domanda. Tuttavia, con grande discrezione, decise di invitare soltanto un altro ospite a tavola, per evitare che il mercante si sentisse a disagio in una compagnia troppo numerosa. L’altro ospite, scelto con grande saggezza, era la signora Warner, che viveva da rispettabile vicina nella sua solitaria casetta vicino a lì. Lord Benthorpe presentò la vedova del clérigo, come è consuetudine tra le persone di buona educazione, con una voce così bassa e indistinta da far credere al signor Burden che quella signora, se non era una nobildonna, almeno possedeva un titolo onorifico; e non posso certo rimproverare questo piccolo errore, quando penso a quanto bene abbia servito a dimostrare l’uguaglianza che regna in tutte le nostre relazioni sociali, e a fornire, sebbene attraverso un’illusione, il più vivo interesse e piacere al mio caro vecchio amico.
+
+Per quanto riguarda il pasto che seguì, non sono le semplici carni – anche se anch'esse erano state ordinate dal padrone di casa e preparate con estrema perfezione – a meritare di essere ricordate, ma piuttosto la conversazione raffinata e culturata che ne ha arricchito l’atmosfera.
+
+Dopo una zuppa chiara, ma forse un po’ poco salata e sulla quale non si disse molto durante il pasto, venne servita una turbota bollita; la sua salsa, composta da burro e farina, fu silenziosamente consegnata dall’oscurità circostante da un domestico diverso da quello che, a intervalli regolari, versava vino bianco o rosso a scelta personale di ogni ospite.
+
+Entrambi questi amministratori, e anche un terzo che di tanto in tanto appariva per poi scomparire nuovamente attraverso gli immensi portali della stanza, lasciavano il signor Burden profondamente stupito dalla perfezione della loro formazione e dalla dignità straordinaria del loro comportamento; inoltre, non poteva dubitare che i loro tratti facciali, sebbene difficili da distinguere al di là del cerchio di luce che illuminava il tavolo, corrispondessero alle altre caratteristiche che li contraddistinguevano.
+
+Fu durante il consumo del pesce – il turbante, come ho detto, cotto a vapore – che Lord Benthorpe, con sincera gentilezza, iniziò il “torneo verbale” facendo allusione al piccolo scritto di Mrs Warner, “Ore di Guarigione”, di cui era certo che il signor Burden fosse da tempo a conoscenza. Il signor Burden, nel tentativo di nascondere la propria ignoranza sostenendo con forza di essere ben versato in quell’argomento, non poté fare a meno di ammirare, dentro di sé, l’abilità letteraria di una persona il cui rango immaginava fosse così elevato. Questo lo rese ancora più rispettoso verso quella classe che, con nobiltà d’animo, trascura i propri agi per servire non solo lo Stato, ma anche l’umanità nel suo complesso.
+
+A questa osservazione, Lord Benthorpe aggiunse, con apparente interesse, se di recente l’attività della parrocchia avesse fornito argomenti di seria discussione. La signora Warner rispose che non ricordava nulla di rilevante, tranne per l’episodio in cui il suo ospite, nel suo ruolo di giudice, aveva appoggiato ampiamente i suoi sforzi per correggere i disordini causati da un circo itinerante che aveva recentemente visitato il villaggio.
+
+Non si può negare che Lord Benthorpe fosse soddisfatto di quella descrizione; un’espressione di compiacimento apparve sul suo volto mentre la signora Warner continuava a raccontare con quanta determinazione il padrone della tenuta avesse utilizzato la sua influenza per impedire, e il magistrato il proprio potere per punire, un caso di grave crudeltà verso gli animali verificatosi durante quella manifestazione.
+
+Sembra che un tigre, per qualche motivo irrazionale, si sia attaccato al tronco dell’unico elefante di cui il manager poteva vantarsi; tale tigre è stato poi staccato con la frusta, e le ferite causate sono risultate particolarmente difficili da dimostrare in tribunale, sia a causa delle difficoltà legate al trasporto della vittima davanti al giudice, sia per via delle strisce parallele già presenti sulla pelle di quella povera creatura.
+
+Quando questa relazione fu stabilita, la signora Warner ebbe la delicatezza di aggiungere che l’esperienza del suo signore nell’Oriente – un’esperienza associata al nome di Pútti-Ghâl – gli aveva fortunatamente fornito una solida conoscenza dei tigri. Fu lui, infatti, a spiegare al signor Burden che, in tutti questi casi, la vera essenza del cristianesimo dei nostri connazionali indiani aveva da tempo insegnato loro come trascinare via il felino infuriato tirandogli con fermezza la coda.
+
+Lord Benthorpe rispose affermando che finché avesse la fiducia di Sua Maestà e fosse onorato da lui con l’incarico di mantenere l’ordine pubblico, non ci sarebbe nulla che desiderasse più ardentemente combattere dell’indifferenza e della crudeltà delle classi inferiori verso gli animali. Dopo aver espresso queste parole, rilassò nuovamente la sua apparente fermezza e riprese il suo solito atteggiamento cordiale e amichevole.
+
+In questo momento apparve, con una certa solennità, una coscia di agnello posata su un piatto d’argento puro; sul piatto erano presenti piccoli canali che conducevano a una depressione comune, destinata a raccogliere il sugo. Questo dettaglio dimostrava come la praticità fosse stata abilmente combinata con il lusso.
+
+Poiché la conversazione era approdata sui tigri, forse gli animali più interessanti della creazione divina, e poiché l’esperienza di Lord Benthorpe in Oriente era, come tutti sapevano, molto varia, non sorprende affatto che abbia trascorso il resto del pasto descrivendo in dettaglio le sue avventure nella caccia a questi animali. Infatti, sebbene nessuna classe della società sappia meglio quando tacere, nessuno è più adatto di colui che aveva ospitato quella serata per mantenere un monologo così prolungato.
 
 
 
@@ -3635,6 +4745,54 @@ As is necessary in business, the two men went over the ground again seven or eig
 Thus, thus was Mr Burden decided. I that write this love my country, but I loved him too; and I could weep to think that, in her profit from his own action, he profited nothing; but only died.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Rendendo modesta la propria coraggiozza di fronte ai numerosi pericoli che aveva affrontato, non menzionò nemmeno l’episodio di Pútti-Ghâl, se non per illustrare un aspetto riguardante le abitudini dei tigri che infestano quella zona. Né le sue molte miracolose fughe sembrarono incredibili a un pubblico così ben informato sulla ferocia delle bestie selvatiche e sull’indomabile spirito umano, come erano il mercante e la vedova del clérigo.
+
+Per non sembrare troppo insistente su qualcosa che, dopotutto, non era altro che un episodio nella carriera del signor Burden, non mi soffermerò ulteriormente sulla fine di quel pasto.
+
+Per quanto riguarda il budino, non ho alcun ricordo al riguardo; inoltre, non c’è molta occasione di menzionare il formaggio.
+
+# La figura in ritirata della signora Warner
+
+Tuttavia, non devo tralasciare di lodare il gesto con cui Lord Benthorpe aprì la porta, né quello con cui Mrs Warner lo ricompensò mentre entrava nel salotto alle sue spalle. Mentre lei usciva dalla stanza, Mr Burden, osservando la sua figura che si allontanava, non poté fare a meno di ammirare la semplice grazia, l’assoluta assenza di affettazione e, al contempo, la meravigliosa dignità del suo portamento. Quell’impressione fu ulteriormente rafforzata non solo dall’errore che aveva inizialmente commesso riguardo al suo rango sociale, ma anche dal caratteristico abito che indossava: di un brillante verde elettrico, simile a quello che illumina le ali di certi coleotteri tropicali.
+
+In sua assenza, la conversazione languì; bevevano lentamente il loro vino, e il signor Burden, che aveva fumato dopo cena ogni giorno per quasi cinquanta anni, aspettava con ansia l’arrivo del tabacco. Se non gliene veniva offerto, era perché Lord Benthorpe, attaccandosi naturalmente a ciò che restava della sua antica autorità, vietava nella casa che ancora lo ospitava l’uso di una sostanza narcotizzante che odiava.
+
+Il signor Burden, ricordando che tali eccentricità non erano altro che la tradizione di una società più antica che rispettava profondamente, sopportava in silenzio; ma il suo dolore imprimeva un’atmosfera monotona e cupa nei rari momenti in cui Lord Benthorpe lo tratteneva per bere vino. Infatti, fino al loro ritorno da Mrs Warner, non accadde nulla tra i due uomini, se non che Lord Benthorpe osservò che le strisce sul tigre, di cui si era parlato durante la cena, rappresentavano un curioso esempio di selezione mimetica: permettevano infatti a questo animale carnivoro di essere quasi indistinguibile dall’erba alta tra cui si nascondeva. Al che il signor Burden rispose che la Provvidenza aveva dotato tutti gli animali, anche i più deboli, di straordinarie possibilità per proteggersi.
+
+La conversazione che ebbe luogo dopo che entrarono nel salotto, sebbene piena di interesse e fascino, non deve più trattenere l’attenzione del lettore, il quale avrà già formato un giudizio sufficiente sul suo carattere a partire dall’analisi attenta che ha appena letto.
+
+Fu alle prime ore di mezzanotte che la signora Warner li lasciò; il signor Burden, rendendosi conto che una partenza forzata prima delle preghiere mattutine avrebbe lasciato poco tempo per discutere il giorno seguente, affrontò coraggiosamente l’argomento che lo aveva portato a Placton.
+
+Espose con grande sincerità i suoi dubbi e le sue speranze riguardo al futuro del suo commercio in Africa; disse apertamente a Lord Benthorpe quanto fossero di gran lunga superiori le opportunità di un politico rispetto a quelle di un mercante nel determinare il probabile futuro di una regione come il M’Korio, e chiese consiglio nei termini più chiari possibili.
+
+#Il ruolo fondamentale degli uomini d’affari per l’impero di Lord Benthorpe
+
+La risposta di Lord Benthorpe lo sorprese così tanto che all’inizio non ne comprese l’enorme importanza. In sostanza, Lord Benthorpe stesso da tempo cercava una fonte simile di informazioni e, stranamente, aveva deciso di rivolgersi a Mr Burden.
+
+“Sono molto felice che mi abbiate scritto,” disse, “perché credo di essere per natura timido quando è necessaria l’iniziativa. Ma come avete scritto voi, credetemi, signor Burden, non sono io a dovervi giudicare, ma siete voi ad avermi determinato. Ho visto l’Impero, signor Burden, nel suo aspetto più ampio e più remoto. Beh,” sembrò che un ricordo di discorsi pubblici assalisse Lord Benthorpe, “beh, dopo averlo visto così, da vicino e da lontano, nelle nevi del Canada o nei deserti ardenti del Rajpootan, posso dire che non si è mai basato, che non l’ho mai visto basarsi su alcuna altra base (su nessuna altra base permanente) se non sull’energia, sulla astuzia, sul coraggio e sulla onestà dei nostri uomini d’affari inglesi.”
+
+Mentre parlava in questo modo, il signor Burden sentì nuove forze entrare nella sua anima; Lord Benthorpe continuò: —
+
+“Se mi permettete di dirlo, la vostra visione dell’M’Korio come investimento pratico completerebbe e arricchirebbe le mie conoscenze riguardo al suo futuro politico; tuttavia, tra le mie conoscenze e la vostra valutazione, quest’ultima è di gran lunga più importante delle prime.”
+
+Fu allora che il signor Burden divenne qualcosa di più di se stesso. La fiducia che gli veniva riposta, quella capacità critica che, sebbene nascosta agli altri, egli stesso sapeva di possedere; il rispetto dovuto alla sua saggezza e ai suoi interessi; soprattutto, la riconoscenza derivante da una carriera di successo, lo colpirono al punto di ispirarlo. Parlò dell’M’Korio con sempre maggiore fiducia; si lasciò trasportare frase dopo frase, assumendo un tono di certezza che, se non la possedeva come conoscenza concreta, poteva comunque rivendicarla per il “diritto divino” della profezia. Anzi, superò persino i momenti in cui era più convinto delle sue idee; è vero infatti che la mente umana, quando si sente strumento del destino, trascende i limiti ristretti dell’esperienza sensuale.
+
+Nonostante la sua nobile origine, Lord Benthorpe dimostrava un entusiasmo davvero sincero; e quando il signor Burden raggiunse l’apice del suo discorso, lo statista iniziò a battere le dita con tale rapidità da far pensare a quel vecchio sonaglio o al segnale acustico dei tempi moderni. Alzò lo sguardo quando il signor Burden finì di parlare e disse:
+
+“Lo sa, lo sa davvero, signor Barnett?”
+
+Il signor Burden rispose che suo figlio aveva una grande intimità con il signor Barnett e i suoi amici, ma che lui stesso non lo aveva mai incontrato.
+
+Allora Lord Benthorpe descrisse in dettaglio la visione che il signor Barnett aveva concepito. Gli raccontò quante volte il signor Barnett fosse venuto da lui a Placton e in città per discutere delle possibilità legate al progetto M’Korio; di come, più di una volta, fosse stato quasi formato un consorzio, ma di come tutti loro – lui stesso, il signor Barnett e un gruppo di altre persone – avessero ritenuto necessario acquisire ulteriori conoscenze. Ora che quelle conoscenze concrete erano state ottenute. Nonostante ammirasse molto la capacità organizzativa del signor Barnett e rispettasse, anzi amasse, il suo ardente patriottismo, aveva diffidato di quella visione fino a quando non aveva ascoltato le opinioni di una persona concreta e pragmatica.
+
+E ora (concluse Lord Benthorpe) non c’era nulla che potesse impedire la creazione di una provincia potente, se non quegli incontri sporadici necessari per le formalità legate alla formazione di un sindacato. Avrebbe chiesto a Mr Barnett o a Mr Harbury di scrivere a Mr Burden; si sarebbero incontrati e tutto sarebbe stato sistemato.
+
+Come è necessario nel mondo degli affari, i due uomini ripassarono la situazione sette o otto volte, attenti a non aggiungere nulla alle loro precedenti conclusioni; prima delle dodici e mezza, il futuro era ormai abbastanza chiaro.
+
+Ecco quindi come il signor Burden decise di agire. Io, che scrivo queste parole, amo il mio paese, ma amavo anche lui; e mi viene da piangere al pensiero che, mentre il mio paese traeva vantaggio dalle sue azioni, lui non ne ottenne alcun beneficio, ma morì soltanto.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,concept/fame_and_publicity,form/satire,histref/british_empire,setting/london,character/emmanuel_burden,character/mr_barnett"></span>
@@ -3670,6 +4828,38 @@ THE SMILE
 
 Such was Mr Barnett during these rare flashes which his friends already knew, and which, after he had made the M’Korio, were destined to captivate no less than two crowned heads, a Prime Minister, four Admirals, ten General Officers, editors in great profusion, innumerable professors, and a whole army of divines.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VII
+
+L’origine e l’educazione di Lord Benthorpe, di cui i miei lettori hanno già ricevuto notizie, gli impedivano di agire con fretta nelle sue ulteriori trattative con il signor Burden. La sua lunga esperienza amministrativa in Oriente, di cui questi documenti hanno già reso familiare la razza anglo-sassone, gli impediva altresì di lasciare i suoi soci e amici all’oscuro delle opinioni del signor Burden per troppo tempo. Scrisse immediatamente al signor Barnett dopo la partenza di quest’ultimo da Placton, e fu molto soddisfatto di scoprire, nella risposta ricevuta, che il “Costruttore dell’Impero” non era così immerso nei suoi sogni da dimenticare che un certo ritardo nelle questioni finanziarie rappresenta una caratteristica tipica delle persone di buona famiglia. Infatti, il signor Barnett suggerì che trascorressero alcune settimane prima di riprendere l’argomento.
+
+Nel frattempo, il signor Burden, che conosceva principalmente il ristretto mondo degli affari, interpretava tale ritardo come un segno che i suoi colleghi erano ancora incerti. A volte temeva che qualche intervento governativo, avvenuto attraverso i potenti legami di Lord Benthorpe, potesse interferire; altre volte rimpiangeva l’entusiasmo dimostrato a Placton per il nuovo progetto. Con il passare dei giorni, entrò in uno stato febbrile e irrequieto, il che, in realtà, favorì lo svolgimento dei piani del signor Barnett. Anche se devo rammaricarmi per il dolore che tale processo inevitabilmente causò al mio vecchio amico, devo comunque riconoscere la saggezza di tale approccio. Senza un certo grado di disciplina, nessun organizzatore potrebbe coordinare efficacemente le proprie risorse; e va onorato il signor Barnett per non aver mai oltrepassato i limiti strettamente necessari al reciproco beneficio suo e dei suoi collaboratori.
+
+Trascorsero tre settimane, e il signor Burden si trovava in uno stato di nervosa irritabilità davvero penoso da vedere, tranne per coloro che, come suo figlio, erano a conoscenza del vantaggio finale che tutto ciò avrebbe portato.
+
+Il mercante non menzionava più direttamente il M’Korio, ma continuava a portare a casa nuovi libri riguardanti quel fiume; acquistò un nuovo atlante e visitò due volte le sale di musei poco frequentati. La sua dignità, che gli impediva di rivelare a Cosmo le sue immense angosie, non lo impediva però dal proseguire in conversazioni continue, strane e innaturali per lui; parlava di Oxford, di Platone, di geografia, dell’Impero Romano, dei selvaggi, del dominio dei mari, del governo delle razze, del giornale “The Times”, delle guerre. E tutto il tempo, Cosmo, con tenace attenzione, evitava ogni allusione che potesse riguardare l’argomento proibito; sotto la sua calma instancabile e il suo buon umore inalterato, la salute di suo padre rischiava di cedere.
+
+All’inizio di maggio, una coincidenza fece maturare questo periodo di preparazione. Il signor Burden lesse sul “Times” (il giornale che leggeva a colazione) che un’azienda tedesca intendeva ottenere concessioni nella Delta; nel pieno dell’angoscia causata da questa notizia, scoprì nello stesso pomeriggio che Cosmo avrebbe incontrato il signor Barnett a pranzo. Padre e figlio andarono in città insieme. Quel mattino non mancavano tensioni. Intorno all’ora di pranzo arrivò il momento in cui quella tensione divenne insopportabile.
+
+In quella piccola scena c'era una perfetta moderazione e un'atmosfera cordiale. Cosmo prese il suo cappello in ufficio e si ricordò di dire che sarebbe tornato un po' in ritardo, perché si aspettava l’arrivo del signor Barnett al club. Proprio mentre stava per uscire, suo padre, con una gioia insolita, gli propose di pranzare insieme. Loro raramente lo facevano. Il tentennamento di Cosmo non fu evidente. Il signor Burden si alzò; e così, per la seconda volta, venne coinvolto in questioni legate all’Impero, senza che nessuno lo cercasse esplicitamente.
+
+Erano seduti a un piccolo tavolo in una stanza vasta, eccessivamente lussuosa ma imponente; avevano già ordinato e ricevuto la carne d’agnello al forno con cavoli che avevano scelto; quando Cosmo si alzò per salutare calorosamente una figura alta e benevola apparsa accanto a lui, si trattava del signor Barnett.
+
+Un vortice di emozioni confuse attraversò la mente del signor Burden. La reputazione pubblica era una cosa per lui, il magnifico cappotto di astrachan un’altra; e quando iniziò a parlare, l’accento, i gesti e l’espressione significavano ancora qualcos’altro. All’inizio del discorso, il signor Barnett si inchinò meccanicamente e profondamente, con il mento sul petto: un quarto elemento di confusione che si aggiungeva agli altri. Dove aveva mai visto quel gesto prima? Non riusciva a ricordare. Poi gli tornò in mente: era stato nel 1878, in una farsa intitolata “Il treno espresso di Colonia”; nella vita reale non aveva mai visto un inchino del genere.
+
+Il signor Barnett trasse una sedia vicino al tavolo, si sedette e si schiarì la voce con quell’energia tipica di un maestro. Alcuni uomini presenti nel club iniziarono a girarsi intorno a lui; vedendo chi fosse, sorrisero; due di loro annuirono, e uno dei due ricevette in risposta un cenno del capo. Poi il signor Barnett, appoggiando entrambe le sue mani pesanti sul tavolo, iniziò ad agitare lentamente i suoi pollici robusti e tozzi. Alla fine parlò con quel tono deciso e autoritario che caratterizza tali persone. La sua voce era rivolta a un cameriere dall’aspetto terrorizzato; ordinò una bottiglia di “centottanta”, e quando la bottiglia arrivò, nel cervello del signor Burden emerse una quinta emozione: si rese conto che si trattava di champagne.
+
+Il signor Barnett sorrise.
+
+I leader degli uomini hanno sempre guidato gli altri con un sorriso. Anche in questo caso c'era un leader, e è mio dovere descrivere in dettaglio questo fascino personale.
+
+Quando il signor Barnett sorrideva, le sue labbra, che teneva sempre chiuse, non si incurvavano verso l’alto come avviene nelle persone comuni e più deboli, ma verso il basso a formare un arco, conferendo alla sua espressione una forza straordinaria: la parte inferiore delle labbra, mai curva in modo timido o riservato, sporgeva con maestosità, orgogliosa della propria capacità di esprimere emozioni; l’intera bocca, mai stretta o sottile, assumeva dimensioni “eroiche”. Per un momento, i suoi occhi grandi brillavano di intelligenza e gentilezza. Ai loro angoli si formavano tre profonde rughe che si estendevano rapidamente verso le tempie per poi scomparire nella massa massiccia del suo viso, quando le sue caratteristiche facciali riprendevano il loro aspetto normale e, in qualche modo, tranquillo.
+
+Il sorriso
+
+Ecco com'era il signor Barnett durante quei rari momenti di genialità che i suoi amici già conoscevano; e che, dopo la realizzazione del M’Korio, erano destinati ad affascinare non meno di due sovrani, un Primo Ministro, quattro ammiragli, dieci ufficiali generali, numerosi editori, innumerevoli professori, e un intero esercito di teologi.
 
 
 
@@ -3711,6 +4901,42 @@ They had by this time arrived at the top of the hill, and were turned in reverie
 The soft air of Surrey blew upon them as they gazed; it was laden with those peculiar subtleties which only Londoners can understand. It came from the glorious heaths of Putney; from Kingston where the woods and the river meet; it bore the spirit of Battersea, of Clapham, of the Kennington Oval ... there lingered in it suggestions of the “Elephant and Castle,” of Camberwell, of the majestic Thames itself: it blew upon and soothed the father and the son, so that their conclusions ran together, and the old man was ready for the venture which the younger man defended.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Era quel tipo di sorriso che illuminava interamente quell’uomo dall’interno, risplendeva del suo genio e della sua visione, affascinava per un momento, e poi scompariva.
+
+Solo dopo aver bevuto un bicchiere di “centottanta” il signor Barnett fissò lo sguardo sul signor Burden e gli disse, con tono misurato, quanto fosse felice di incontrare per caso un gentiluomo con cui avrebbero presto potuto concludere i loro accordi. Una volta superata quella sottile barriera che separa individui e razze l’uno dall’altro, il signor Barnett iniziò a esprimersi attraverso frasi ben strutturate, chiarendo in pochi minuti – senza lasciare spazio ad interruzioni – la natura del sindacato che avrebbero formato, le persone a cui sarebbe stato concesso di conoscere i dettagli e l’obiettivo principale di tale iniziativa: gettare le basi per lo sviluppo futuro della M’Korio.
+
+Prima ancora che il signor Burden capisse cosa fosse successo, gli fu chiesto di incontrarsi con i suoi colleghi quel giorno stesso al Plantagenet Club.
+
+Il suo sostegno si limitava a una frase isolata, posta alla fine dell’ordine del giorno del signor Barnett: l’influenza di coloro che un tempo forse comandavano eserciti, ma che ora sono i capi di forze ancora più grandi, portando a vittorie che nessun soldato del passato avrebbe potuto comprendere, è davvero di una natura estremamente urgente.
+
+Dopo aver fatto ciò, il signor Barnett bevve un altro bicchiere di champagne, e poi ancora circa un terzo del contenuto del bicchiere, in silenzio, tenendo con le mani piegate il bordo del tavolo e fissando il pavimento. Alla fine pronunciò due volte la parola inglese “So”, sospirò profondamente, si alzò in piedi – come fanno quegli enormi ma maestosi pachidermi del continente asiatico – sorrise di nuovo, fece un inchino, si diresse verso la porta lontana e, con passi solenni e dignitosi, scomparve in un’atmosfera di integrità che nulla turbava, tranne quella leggera curvatura continua della sua schiena, un effetto dovuto all’obesità causata dagli anni.
+
+L’influenza di ciò che è raro su ciò che è più comune, sebbene sia proprio essa a permettere il progresso dello scopo del mondo, non si esercita senza ostacoli e talvolta senza dolore.
+
+Il signor Burden soffriva di un caos mentale, forse più che di un senso di dipendenza o di pericolo; tuttavia soffriva, e Cosmo notò che soffriva davvero. Quando quindi suo padre gli suggerì di tornare con lui a Norwood per condividere un altro pasto insolito, egli ebbe la forza di volontà necessaria per rinunciare al piacere di una cena che si era promesso con degli amici a Covent Garden, e per andare ad offrire conforto e aiuto al genitore, di cui ormai era diventato in un certo senso il tutore e il guida nella vecchiaia.
+
+Tornati al sicuro ad Avonmore, dopo aver cenato da soli in un silenzio che durò più di un’ora, il signor Burden pregò suo figlio – sul cui giudizio aveva iniziato a fare affidamento, sebbene con una fiducia patetica ma insufficiente – di accompagnarlo a fare una passeggiata verso le cime delle colline. Non erano andati lontano in quella serata calda e lunga, quando il signor Burden, che fino ad allora aveva fissato in silenzio il sole al tramonto, parlò finalmente.
+
+“Cosmo,” disse — la sua voce era piena di esitazione e di un tono quasi lamentoso — “queste cose hanno la tendenza a diventare molto più grandi di quanto si desideri.” Poi aggiunse: “Non ho ancora avuto nulla a che fare con, ”, esitò, “, la preparazione di una società per azioni; ma so che potrebbe costare molto poco o molto di più. E sai, Cosmo, quei soldi finirebbero in altre mani. Potrei contribuire con la mia parte alle spese preliminari; non potrei fare di più.” Poi attese, come se aspettasse una risposta, anche se in realtà non aveva posto alcuna domanda.
+
+Camminando lentamente al suo fianco, e con tono pensieroso, Cosmo, con uno di quei lampi di modesto buon senso che avevano recentemente deliziato suo padre, fece notare che le somme versate in simili consorzi erano necessariamente ingenti, ma che queste somme non venivano affatto necessariamente spese. Si trattava, in sostanza, di un margine finanziario. Citò esempi tratti dai suoi letti e uno o due casi derivanti dalle esperienze dei suoi amici.difese la stampa da qualsiasi accusa sciocca di corruzione; ma sottolineò l’enorme costo necessario per produrre un giornale moderno, la sua vasta diffusione, nonché il costo delle pubblicità, che a volte veniva evitato grazie all’azione spontanea dell’interesse pubblico, ma che comunque doveva sempre essere coperto.
+
+Suo padre acconsentì e ascoltò.
+
+Cosmo spiegò quindi come, in uno Stato come il nostro, sia necessario che le persone di grande rilievo partecipino, in qualche modo, a qualsiasi iniziativa quasi politica. Anche se, ovviamente, non si incorrono spese dirette nel suscitare l’interesse dei politici, talvolta i costi indiretti possono risultare elevati; in ogni caso, tali costi devono essere previsti in anticipo.
+
+Il signor Burden, da parte sua, ricordò a suo figlio che più piccolo è il numero dei membri di un sindacato originale, maggiore sarà la contribuzione individuale di ciascuno. Temeva che dovesse prepararsi ad affrontare una perdita immediata di molte migliaia di sterline; potevano essere trentamila, o addirittura quarantamila. Molto di più era già stato perso dai primi fondatori della Seychelles Company.
+
+Cosmo non si lasciò sfuggire un’introduzione così evidente al suo argomento. Suo padre non poteva negare che gli uomini che avevano rischiato tanto nelle Isole Seychelles fossero ormai tra i migliori e più capaci del Commonwealth; inoltre, Cosmo dimostrò chiaramente che, se tali consorzi non venissero formati da un numero limitato di persone disposte a investire somme ingenti, le possibilità di successo sarebbero state molto scarse. Non tralasciò inoltre di lodare con rispetto Lord Benthorpe, con ammirazione il signor Barnett e con affetto il signor Harbury.
+
+Nella mente del signor Burden passarono improvvisamente i tratti del suo amico, il signor Abbott. Per un momento, forse, pensò di chiedere anche a lui consiglio in quella questione. Saggio com'era, scartò immediatamente quell’idea, o almeno la rimandò fino a quando non avesse preso il primo passo concreto.
+
+A quel punto avevano raggiunto la cima della collina e, immersi in pensieri, guardarono verso nord e verso ovest, dove la luce stava spegnendosi in tonalità rosse attraverso gli effetti evanescenti delle nuvole fumose.
+
+L’aria dolce del Surrey soffiava su di loro mentre guardavano intorno; era impregnata di quelle sottilità particolari che solo i londinesi possono comprendere. Veniva dalle splendide brughiere di Putney, da Kingston dove boschi e fiume si incontrano; portava con sé lo spirito di Battersea, di Clapham, dell’Kennington Oval. Vi erano anche accenni al “Elephant and Castle”, a Camberwell, al maestoso fiume Tamigi stesso. Quell’aria li rilassava e li univa; il vecchio era quindi pronto ad intraprendere l’avventura che il giovane sosteneva con forza.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
@@ -3751,6 +4977,42 @@ AN EXCELLENT LIKENESS, WHICH WE TAKE FROM THE “CONE TRIAL ILLUSTRATED SUPPLEME
 He dreamt that many men of many kinds were offering him money in incredible amounts, as loans, as gifts, as reversions, as exorbitant prices for securities which he held; and yet these offers did not please, but vaguely disturbed him, for they were made by sundry beings with faces always distorted, sometimes horrible, who sat beside him on the seat of a hansom cab, wherein he drove. In the corners of this cab, before him, were bottles of champagne. It was brilliantly lit, and he could see outside in the darkness between the shafts, that it was drawn not by a horse, but by his friend Mr Abbott. The dream was evil, and, though he knew not by what the cab was driven, yet he knew there sat up there some Thing which he did not care to think of, and which he did not dare to see. Twice he would have lifted the trap to glance furtively; twice his hand failed him and his body grew quite cold with fear. Such is the nature of dreams, that he found the event but ordinary when the hansom turned into a bath chair, running of itself, and this again to his own bed, which seemed to be at once in his own bedroom, and yet in a crowded street; up and down this street he noticed a multitude of people, nearly all of whom he knew, going to their business. The last of them came, a healthy, up-standing figure, tall, strong, rubicund; he was well familiar with it: it was that of the Honourable, the Reverend Peregrine Mauclerc, vicar of St Judas’s, Denmark Hill, a church he constantly attended. This figure, passing rapidly, nodded at him in a breezy way, and cried cheerfully and very loudly: “It will be paid for in shares.” Then an awful spasm of pain, come and gone in a twinkling, incredibly severe, shot through his chest; and Mr Burden suddenly awoke.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo essersi fermati per un momento, per assorbire quest’influenza prima di tornare a casa, il signor Burden, mentre si giravano, guardò Cosmo e disse ancora più dolcemente:
+
+“Sarà il tuo denaro, Cosmo… Ricordalo bene: sto parlando del tuo stesso denaro.”
+
+Cosmo rispose con la voce di chi è commosso; una voce che forse rappresentava la cosa più nobile tra le molte qualità nobili che aveva acquisito durante i suoi studi accademici.
+
+“La gente parla così, padre, ma è tua, e rimarrà tua per molti anni; sei tu che puoi raddoppiarla o perderla.”
+
+Nell’emozione di quel momento, camminarono dalla Nelson Street fino all’angolo dei Kipling Gardens; poi Cosmo parlò di nuovo, dicendo:
+
+“Se fosse mio oggi, lo farei ancora di più. Tu ne sai di più, padre, ma mi hai chiesto e ti ho detto ciò che penso.”
+
+Cosmo aveva ragione.
+
+Infatti, non è più azionista della società; anzi, nemmeno lo era quando il governo ne ha acquistato le azioni al prezzo di 5⅜ volte il valore nominale. Tuttavia, ha mantenuto le sue azioni per ben sette mesi dopo la morte di suo padre, poi le ha vendute al prezzo di 17¼ volte il valore nominale. Un buon terzo della fortuna che possiede oggi è dovuto alla sua saggia decisione presa durante quella passeggiata serale a Upper Norwood.
+
+Ho scritto “quando il Governo acquistò a 5⅜”. Forse questo pensiero non ha alcun diritto di comparire in questa relazione, ma non posso fare a meno di esprimere il mio rammarico per il fatto che il signor Burden non abbia vissuto abbastanza a lungo da assistere a quella straordinaria scena silenziosa alla Camera dei Comuni, quando il Governo annunciò la sua intenzione di acquistare tutti i diritti della Compagnia. Questo avrebbe dissipato le sue sciocche dubbi e forse avrebbe salvato una vita così preziosa per l’Impero, per la [[City]] e per la zona residenziale del sud di [[London|Londra]]. Lo conoscevo forse meglio di quanto altri lo conoscessero (se il signor O’Rourke mi perdonerà questa affermazione); e sono assolutamente convinto che i ministri del Re, acquistando in qualità ufficiale i diritti della Compagnia per il bene della nazione, al prezzo di 5⅜xd, avrebbero placato ogni rimprovero e ogni sospetto nell’animo di quell’uomo che, pochi mesi prima, era disposto a gettare via tutto per soli 25/16. Ahimè! Prima ancora che iniziassero le prime trattative, alla festa nel giardino della signora Manningham, il mio caro vecchio amico era già morto.
+
+Ci vollero cinque giorni per effettuare quegli accordi che il signor Burden ritenne necessari per disporre immediatamente di una somma di 50.000 sterline. Di cosa si trattasse, i miei lettori commerciali possono facilmente intuire; i miei lettori non commerciali, invece, non riuscirebbero a comprenderlo. Quella vasta categoria di persone che, come me, ne comprendono il significato ma non sono interessate ad aspetti commerciali, troverebbe solo noia nell’ascoltarne i dettagli.
+
+Il fatto che una somma così considerevole fosse ottenuta così rapidamente era dovuto a diversi fattori: la vendita di azioni, lo sconto immediato di alcune cambiali in scadenza, ma soprattutto al prestito concesso dalla banca, a un tasso d’interesse che, secondo il signor Burden, risultava così generoso da essere, nel gergo commerciale, “quasi nominale”. In effetti, questo prestito lo elevò notevolmente nella sua stessa considerazione; gli fece percepire di essere una persona in una posizione sociale più importante di quanto avesse immaginato.
+
+Non sto tradendo alcuna fiducia quando affermo che la facilità con cui questo prestito è stato ottenuto sia dovuta in gran parte all’azione incessante di Colui che è spesso apparso sulle pagine di questi tristi resoconti. Se qualche altra ricompensa, oltre al piacere naturale derivante da un atto buono, possa essere di valore per Lui, possa ricevere questa mia testimonianza: Lui ha reso felice un uomo per più di trentasei ore.
+
+La sera prima del suo appuntamento al Plantagenet Club, il signor Burden, come al solito, tornò a casa alle 17:13. Non si aspettava di trovare Cosmo lì; infatti, come suo padre sapeva bene, il giovane viveva in un altro mondo, e, come sperava lui, un mondo migliore. Quella sera, quindi, per distrarre i propri pensieri, lesse un romanzo che trattava del conflitto tra scienza e religione. Andò a letto alle 22:30.
+
+È una questione piuttosto curiosa, ma confermata da una cameriera di nome Hannah che gli portava acqua calda in camera: lui diceva di pregare. Menziono questo dettaglio soltanto per illustrare lo stato mentale in cui si trovava in quel momento critico. Andò a dormire prima delle undici; ma il suo sonno fu disturbato da sogni. In quei sogni, il grottesco si mescolava al terribile, e vi era sempre presente quella sorta di ricordo del passato immediato che rappresenta sicuramente un segnale di disturbo nei gangli del cervelletto.
+
+Il vescovo di Shoreham, il reverendo Peregrine Mauclerc, in qualità di assessore al processo di Canon Cone per eresia, pirateria, cospirazione e scisma.
+
+Un'ottima somiglianza, che traiamo dal “Supplemento Illustrato del Processo a Forma di Cono” de “Christian Soldiers”.
+
+Sognò che molti uomini di ogni sorta gli offrissero somme di denaro incredibili: in prestito, come regali, come eredità, o a prezzi esorbitanti per le azioni che possedeva; eppure queste offerte non lo soddisfacevano, anzi lo disturbavano vagamente, perché venivano fatte da esseri dalle facce sempre distorte, a volte orribili, che sedevano accanto a lui sul sedile della vettura in cui viaggiava. Nei angoli di quella vettura c’erano bottiglie di champagne; tutto era illuminato brillantemente e, guardando fuori nell’oscurità, vide che la vettura non era guidata da un cavallo, ma dal suo amico il signor Abbott. Il sogno era inquietante: sebbene non sapesse con cosa fosse spinta la vettura, sapeva che lì sopra c’era qualcosa di cui non voleva nemmeno pensare e di cui non osava guardare. Due volte cercò di sollevare il divisorio per gettare un’occhiata furtiva; due volte la sua mano gli mancò e il suo corpo divenne gelido per la paura. Così sono i sogni: quando la vettura si trasformò in una sedia da bagno che si muoveva da sola, e poi ancora nel suo letto, che sembrava essere sia nella sua stanza da letto che in una strada affollata, vide molte persone, quasi tutte conosciute, che andavano ognuna per i propri affari. L’ultima di queste persone era una figura sana, alta, forte, dal viso rossastro; la riconobbe subito: era l’onorevole reverendo Peregrine Mauclerc, parroco di St Judas’s a Denmark Hill, una chiesa che frequentava spesso. Quella figura gli fece un cenno con la mano in modo disinvolto e gridò allegramente: “Tutto verrà compensato con azioni.” Poi un terribile dolore, improvviso e incredibilmente intenso, lo colpì al petto; il signor Burden si svegliò di scatto.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_04" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
@@ -3788,6 +5050,40 @@ In the general decoration of the hall and of the rooms, enormous masses of perfe
 
 There were, it is true, upon the walls, reproductions of eighteenth century engravings, very charmingly framed in the American manner. The good taste of their arrangement was marked: they were few and widely spread; but of this Mr Burden knew nothing; his age had narrowed him, and he did not comprehend our day.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ansimando, sedeva dritto; con sua grande sorpresa, era completamente buio intorno a lui. Mai prima il suo sonno regolare era stato interrotto da un dolore così acuto e terribile. E in molti anni, ormai, non era mai successo. Infatti, da quando suo padre era morto e le discussioni politiche avevano smesso di assillarlo, non ricordava nulla di quella notte, se non il tramonto, e poi di nuovo la luce del giorno.
+
+Ma ora si trovava ad fissare l’oscurità, con la mano sinistra premuta sul petto. Il dolore era apparso e poi scomparso come il colpo di un pugnale; ma lo shock rimaneva nella sua mente.
+
+Sotto il suo cuscino c'era un orologio d'oro, che gli era stato regalato, dopo la loro liberazione, dagli ufficiali e dai soldati della Guardia del corpo personale del Comandante in Capo, in riconoscimento dei suoi servizi e della sua generosa donazione ai fondi per i prigionieri. Era di grande valore; premendo una piccola molla sul lato dell'orologio, quest'ultimo indicava le ore, i quarti d'ora e i minuti, mentre premendo uno dei tre pulsanti incastonati si potevano ascoltare brani come “Hearts of Oak”, “The Wearing of the Green” o “Kill ’im wid yer mouf” di Kipling; ma il signor Burden evitava sempre di farli suonare, tranne quando voleva intrattenere i bambini dei suoi amici.
+
+Il signor Burden premette la molla: l’orologio suonò le due e mezza, e poi altri tre piccoli segnali sonori. Il signor Burden non si sdraiò. Rimase seduto lì, sul letto, con la mano sinistra sul petto e la destra appoggiata al cuscino; continuava a fissare il buio.
+
+Ci sono momenti, sotto la cupa immobilità della notte, in cui la mente perde l’equilibrio. Quell’uomo era anziano; la sua indecisione riguardo a questa nuova investizione che ho descritto era evidente; i suoi dubbi derivavano da un’atmosfera negativa piuttosto che da una riflessione razionale; la sua paura era ormai diventata una paura irrazionale e persistente.
+
+Tutta quella notte continuò così. L’entità del rischio che aveva corso, il pericolo ancora maggiore dell’avventura in cui si sarebbe imbarcato quel giorno, lo spaventarono profondamente. Era nel terrore e nella costante angoscia; sentiva, sebbene non lo sapesse, ciò che provano quei giovani poeti che nelle loro poesie esprimono il desiderio di vivere in tempi diversi, lontani da tutto ciò che è male nel mondo moderno. Era uno stato d’animo di intensa debolezza, causato, credo, unicamente dalla malattia; ma influenzò completamente il suo atteggiamento nei giorni successivi.
+
+Dopo circa venti minuti di questo tormento, si addormentò di nuovo, ma in modo inquieto, sognando sogni confusi; si svegliò nuovamente nella luce grigia del mattino, la mente turbata da ricordi di una qualche lite avvenuta durante il sonno, e poi tornò a dormire. Verso le sette non riusciva più a riposare. Si alzò e si vestì; il giorno e le attività quotidiane iniziarono a rinvigorirgli la mente. La tranquilla fiducia di Cosmo a colazione, l’articolo sulle corruzioni in Russia pubblicato su The Times, il gatto sul tappeto, tutte queste cose familiari della casa lo rafforzarono, come se fossero dei sacramenti, per affrontare ciò che doveva fare.
+
+Solo quella mattina tornò la sua miserabile esitazione. Fu quando si trovò alla stazione di Norwood, fermo non sul binario della [[City]], ma di fronte, su quello della Victoria. La novità della situazione lo turbò nuovamente; ma era coraggioso. Scosse via quell’influenza negativa e, quando uscì alla fine del suo viaggio, il movimento e la vitalità delle strade gli restituirono un umore migliore. La sua fiducia aumentò mentre camminava nella fresca mattina estiva; entrò in Pall Mall con passo deciso, pieno di aspettativa e determinazione, e salì i gradini del Plantagenet Club con un senso di trionfo nel cuore, simile a quello che possono provare uomini dal carattere sobrio e equilibrato.
+
+Questo non era l’esito per cui aveva lavorato; arrivò come una sorta di ricompensa inaspettata per una vita che era stata regolare, laboriosa e, nelle sue emozioni fondamentali, costantemente patriottica. Tra i molti sentimenti che gli uomini provano in quei grandi momenti in cui vengono invitati a partecipare attivamente all’espansione del nostro potere, due erano particolarmente dominanti in lui in quel momento. Sentiva, con una freschezza quasi giovanile, come se stesse per creare qualcosa di nuovo sulla mappa del mondo.
+
+Sentì quel calore che inevitabilmente accompagna la prospettiva di guadagnare di più.
+
+Da queste due fonti scaturì un’esultanza niente affatto disonorevole, che proseguì con slancio vittorioso, sollevando il suo spirito nel momento in cui entrò attraverso quelle grandi porte.
+
+Dietro quelle porte lo colpì un’aria fredda e indescrivibile. Anche nel suo stato d’animo del momento, non riusciva a scacciare quella sensazione di stranezza. I mobili non erano quelli che conosceva; erano nuovi; appartenevano a un’epoca più splendida, ma sicuramente meno confortevole.
+
+Era piegato in forme strane e bizzarre; curve fantastiche si incontravano qua e là sui volti di giovani donne scontente. Vi erano applicati dei tornioli che avrebbero richiesto l’arte più raffinata dello scultore, se non fosse stato per il fatto che tutto ciò faceva parte di un insieme complessivo.
+
+Il club divise in quattro parti i tre leopardi d'Angiò: il campo è argento con una rosa seminata su di esso; in alto vi sono una corona reale e dei supporti; a destra un leone rampante, a sinistra un unicorno incatenato. Intorno al simbolo sono scritti “Honi soit qui mal ‘pense” e la legenda “Dieu et mon Droit”. Questo stemma era dipinto sopra il caminetto, sul dorso dei divani, sui bottoni dell’uniforme dei servitori, sul cartaio e sulla porcellana; era intessuto nelle tappezzerie e ricopriva i sedili delle sedie; nessun luogo di quella dimora lasciava inespresso il nobile titolo della famiglia.
+
+Nella decorazione generale del salone e delle stanze, enormi quantità di dorature completamente nuove illuminavano l’interno con una maestosità che ricordava effettivamente lo stile Impero, ma suggeriva anche quella ricchezza inestricabilmente legata a grandi possedimenti; inoltre, tra le dorature, pannelli di un bianco estremamente freddo e estraneo impedivano al signor Burden di godere di quella tranquillità che, secondo lui, dovrebbe caratterizzare una stanza londinese.
+
+C'erano, è vero, sulle pareti delle riproduzioni di incisioni del XVIII secolo, molto graziosamente incorniciate secondo lo stile americano. Il buon gusto con cui erano disposte era evidente: ce n'erano poche, ma distribuite in modo uniforme; ma di questo il signor Burden non sapeva nulla; la sua età lo aveva reso ristretto di vedute e non comprendeva i tempi nostri.
 
 
 
@@ -3855,6 +5151,68 @@ Lord Benthorpe began:
 “Still, so far as I can see ...” then he also remembered that he knew nothing at all about such things, and was silent in his turn, still preserving over his projecting teeth that wide, open, permanent and kindly smile, still twisting his refined and lengthy fingers.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Stava in mezzo al salone, come un uomo che aveva navigato per mari lontani e aveva incontrato un popolo molto diverso dal proprio. Stava lì ad aspettare. Poi il suo spirito si rafforzò di nuovo e dimenticò tutto; infatti Lord Benthorpe, il signor Barnett e il signor Harbury erano entrati nella stanza insieme. Si avvicinò per andarli incontro.
+
+Dopo essersi stretti la mano, il signor Barnett, come molti uomini della sua levatura, assorto nei suoi pensieri, li guidò con naturalezza in una piccola stanza appartata, dove avrebbero potuto parlare indisturbati; quella stanza era stata riservata apposta per lui, perché in quel club il signor Barnett già occupava una posizione che, in pochi anni, avrebbe raggiunto anche nel resto del paese. Lì, in quella piccola stanza, c’era lo stesso buon gusto, la stessa magnificenza nelle decorazioni; ma per il signor Burden, ormai ripresosi, non c’era più quell’impressione di disagio.
+
+Si sedettero intorno a un tavolo di quercia fumata; su di esso era posata una delicata cartolina stampata che chiedeva ai presenti di pagare per i rinfreschi offerti ai loro ospiti, mentre sopra di loro pendeva un avvertimento molto sensato contro l’offerta di mance al personale di servizio in queste stanze regali.
+
+Rimasero seduti per un quarto d’ora intero, conversando con frasi brevi e disinvolte: a volte di politica, a volte di qualche libro; di tanto in tanto alzavano lo sguardo sorridendo e dicevano che era ora di passare alle cose serie.
+
+Il signor Burden aveva già espresso il proprio interesse per l’architettura del club (poiché la conversazione era approdata su quell’argomento), quando il signor Barnett rispose, piuttosto all’improvviso, che quel giorno c’era una sola questione da risolvere: si trattava della somma di denaro che i quattro dovevano mettere insieme prima di procedere con la promozione. Senza aspettare commenti, continuò dicendo che, a suo parere, centomila sterline sarebbero state sufficienti per garantire il successo dei loro progetti; dopodiché rimase in silenzio, con le grandi mani appoggiate sulle ginocchia, fissando il pavimento sotto di sé.
+
+Lord Benthorpe aveva il vantaggio su Mr Barnett riguardo a una conoscenza più ampia del mondo; inoltre, grazie alla sua formazione parlamentare, possedeva un modo di esprimersi piuttosto fluido e naturale. Mr Barnett, invece, aveva estratto la somma di denaro in modo quasi brutale: parlava lentamente, scegliendo con cura le parole, come faceva sempre. Per lui era necessario farlo, se voleva evitare quell’accento straniero leggero e quella sospetta di utilizzare un gergo esotico, che comunque non riusciva del tutto a eliminare. Dopo quel modo di esprimersi così difficile e frammentato, fu un vero sollievo ascoltare Lord Benthorpe: le sue parole fluivano dolcemente, mentre i suoi occhi si posavano su vari oggetti nella stanza; in effetti, sedeva troppo lontano dal tavolo per poter appoggiarvi le mani e muoverle liberamente, quindi le torceva avanti e indietro come passatempo durante il discorso.
+
+“Penso,” disse con una voce sottile, perfettamente adatta alla dialettica, “penso che la somma sia molto alta, forse persino superflua. In teoria, si potrebbe dire che serva davvero poco. So che bisogna sempre avere una base su cui basarsi, ci saranno spese iniziali, per così dire, ma, ”
+
+E poi la voce di Lord Benthorpe si affievolì.
+
+Il signor Harbury intervenne con un commento più deciso:
+
+“Se possibile, la somma dovrebbe essere maggiore.”
+
+Lo disse con quella determinazione e semplicità tipiche di uomini del suo genere quando discutono di questioni finanziarie importanti. Essi hanno contatti quotidiani con queste cose, e ne parlano come tu e io parliamo di una strada che conosciamo bene, o di qualsiasi altra azione comune della vita quotidiana. Continuò:
+
+“Dovrebbe essere di più, perché tutto questo rappresenta una riserva per una campagna molto importante. Lord Benthorpe ha ragione: in teoria non c’è bisogno di nulla; in pratica, spesso le spese sono ridotte. Ma è necessario disporre di totale libertà d’azione. Bisogna sapere esattamente cosa si sta facendo e non dover mai esitare a causa della mancanza di fondi.” Fece una pausa, come se cercasse le parole giuste per non offendere nessuno.
+
+“Una cosa del genere,” continuò, sempre con fermezza, “che è principalmente di natura politica, potrebbe comportare spese inferiori rispetto a un progetto puramente commerciale, ma potrebbe anche generare pressioni improvvisse e inaspettate.”
+
+Poi, come fanno coloro che sono più saggi dei loro compagni nel campo di discussione che stanno affrontando, aggiunse un esempio improvviso.
+
+# “Ricordi il prestito per l’irrigazione del Tibet?”
+
+Lord Benthorpe lo guardò e annuì, più per cortesia che per altro motivo, perché in realtà non ne aveva mai sentito parlare.
+
+“Anch’io me ne ricordo”, disse il signor Harbury con aria cupa, “e tutto è nato da ciò che io chiamo ‘aver sofferto la fame’”.
+
+Li guardò con una fiducia ferma e sicura, conoscendo perfettamente le proprie capacità, e proseguì:
+
+“Siamo tutti uomini di sostanza, uomini d’affari, e tutti noi possiamo, se lo desideriamo, aumentare questa somma.”
+
+In quel momento il signor Burden annuì. Per la prima volta durante quella conversazione, riuscì a comprendere interamente una frase.
+
+Lord Benthorpe era quasi agitato.
+
+“Potremmo sempre aggiungerne,” disse, “se ce ne fosse la necessità”; e mentre lo diceva, quel piccolo gesto nervoso con le mani ricominciò.
+
+“Signor Harbury serrò le labbra molto strette. Quando le riaprì, fu per dire…”
+
+“Non si può fare affari in quel modo”, e poi li chiuse di nuovo.
+
+# Il signor Burden pensò di parlare, e lo fece, mescolando buon senso e rispetto per se stesso:
+
+“Sarò felice di attenermi a qualsiasi decisione prendiate voi signori. Ero certamente preparato, ora o in futuro, ad accettare una somma molto più alta. Ma naturalmente mi atterrò alla prudenza di Lord Benthorpe; e al giudizio di tutti voi, signori, al giudizio di tutti voi.”
+
+“Mr Burden trovava grande piacere in queste frasi; gli procuravano un vero godimento, e continuò così…”
+
+“Per quanto mi riguarda, ”, stava per dire loro che secondo lui fosse necessario fare di più, quando all’improvviso si ricordò di essere completamente fuori dalla sua sfera di competenza. Così, assumendo un’espressione decisa e riflessiva, rimase in silenzio.
+
+“Lord Benthorpe iniziò…”
+
+“Comunque, per quel che ne so, ” Poi si ricordò anche che non sapeva assolutamente nulla su queste cose, e rimase in silenzio a sua volta, continuando a mostrare quel sorriso largo, aperto, gentile e permanente sui suoi denti sporgenti, continuando a torcere le sue dita affinate e lunghe.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_06" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/satire_of_society,concept/power_and_corruption,concept/hypocrisy,form/satire,histref/british_empire,setting/london"></span>
@@ -3888,6 +5246,36 @@ Then he let his hand drop again, and Mr Burden bowed, and they all went out of t
 
 So it was that, two days afterwards, Mr Burden paid not forty, nor even thirty, but only twenty-five thousand pounds.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Harbury aveva già detto: “Dopotutto, perderemo i nostri soldi solo per un breve periodo, ” quando il signor Barnett lo interruppe con la sua voce forte e sonora.
+
+Quando due uomini del genere iniziano a parlare insieme, di solito scatta una sorta di “battaglia” per vedere quale voce sopravviverà; ma le relazioni tra il signor Harbury e il signor Barnett erano tali che il signor Harbury si arrese immediatamente, e con grazia; mentre il signor Barnett, scegliendo attentamente le parole e parlando molto lentamente, facendo attenzione a pronunciare correttamente ogni lettera (“d” come “d”, “t” come “t”, evitando accuratamente la “th”), proseguì il suo discorso con tranquillità.
+
+“Deve essere un centinaio di migliaia.”
+
+Il signor Harbury disse che il gruppo finanziario Magnetic, se ricordava bene, aveva effettuato investimenti simili durante la situazione di agitazione in Groenlandia. Il signor Burden, che aveva letto tutto sui giornali riguardo a quell’episodio, esclamò: “Che tempi quei!” Il signor Harbury aggiunse poi che esistevano infinite possibilità nell’intera regione settentrionale del Canada, soprattutto lungo il corso inferiore del fiume Snake.
+
+Lord Benthorpe raccontò, con un po’ troppa prolissità, una storia riguardante suo cugino Charlie Corne, che era andato a cacciare in quella zona. Il signor Harbury ascoltò con grande interesse e osservò che quelle regioni non erano paragonabili alla terra del Grande Alce; questo lo spinse a parlare della pesca lì, del porto e anche della disputa con la Russia.
+
+Per quasi un'ora il loro discorso si concentrò su quelle cose che rendono felice una razza conquistatrice; e se ho descritto con tanta lunghezza e dettaglio la scena del loro primo incontro, è solo per il desiderio che ogni membro di questa razza, che possa leggere queste pagine, sappia in quale atmosfera vennero prese le decisioni cruciali della loro storia.
+
+# Il signor Burden si offre di pagare qualsiasi somma sia necessaria
+
+L’interesse dei presenti diminuì. Lord Benthorpe aveva ripetuto la stessa frase due o tre volte; il signor Harbury non aveva parlato per quasi otto minuti, quando finalmente il signor Barnett concluse quella fase della discussione. Si alzò con l’aria di un uomo colmo di energia creativa, uno che aveva portato a termine un compito lungo e finalmente riuscito; il signor Harbury si alzò invece come un atleta pronto ad affrontare nuove sfide, eretto e flessibile. Lord Benthorpe si alzò, come fanno i politici, con aria stanca e muovendosi a scaglioni del corpo; il signor Burden, invece, si alzò come fanno i commercianti, con un po’ di trambusto: si strofinò le mani e di tanto in tanto tirò su il cappotto.
+
+Non era sua abitudine concludere un colloquio di lavoro senza una frase finale; avrebbe considerato tale comportamento scortese. Così, si alzò in modo piuttosto solenne, guardò il signor Barnett e gli disse rivolgendosi al plurale:
+
+“Ricordate, signori: sarò molto felice di inviarvi il mio assegno stasera, per una somma più elevata, ”
+
+Ma il signor Harbury alzò la mano con autorità e intervenne.
+
+“Non c’è di che, signor Burden; l’idea è stata mia, ma credo che il signor Barnett abbia dimostrato chiaramente a noi tutti che la somma proposta è sufficiente.”
+
+Poi lasciò cadere di nuovo la mano; il signor Burden si inchinò e tutti uscirono dalla stanza.
+
+Quindi, due giorni dopo, il signor Burden pagò non quarantamila, né tantomeno trentamila, ma soltanto venticinque migliaia di sterline.
 
 
 
@@ -3935,6 +5323,48 @@ In the New Gallery a powerful piece of impressionism, “The River of Fate,” b
 A further proof of Mr Barnett’s self-abnegation, and of the absence of all financial pressure, during the growth of the movement, exists in the fact that Messrs Pscheuffer, desiring to publish a book upon the M’Korio Delta, wrote to Mr Barnett, and that he, with a fine sense of what was due to his honour, refused to write so much as the preface, or even to accept the dedication of the volume. He referred the firm to Major Pondo, and washed his hands off the whole matter.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VIII
+
+Il reverendo Charles Gapworthy, B.A., un tempo membro e cappellano dell’ostello St Lazarus Hys Hostel a Bermondsey, nel Sudest di Londra, ci dice nel suo libro “Economia Politica per le Scuole” (capitolo ii, “Capitale”, p. 28) che “la forza economica risiede, in ultima analisi, non nell’accumulo materiale, ma in una certa capacità di previsione audace da parte dell’intelligenza umana”. Questa verità rappresenta soltanto un altro esempio del potere che risiede in ciò che, nel nostro paese, chiamiamo “la virtù cristiana della Speranza”.
+
+La M’Korio Delta Development Company era stata soltanto un’idea. Quell’idea sembrava persino essersi spenta, per alcuni mesi; ma l’immagine di Mr Burden, la sua fede (che aveva reso possibile la formazione del consorzio) e, naturalmente, i suoi venticinque migliaia di sterline – sebbene rappresentassero soltanto un segno esteriore di qualcosa di più profondo e spirituale – diedero nuova vita a quell’iniziativa. Il suo aspetto cambiò: divenne concreta, una realtà che poteva essere nominata, analizzata, criticata, difesa con passione; un vero e proprio “potere nazionale” in azione.
+
+Il reverendo Charles Gapworthy, Laureato in Lettere.
+
+(Da un articolo gentilmente fornito da “The St Lazarus Hys Hostel Magazine: una rassegna sui progressi sociali”)
+
+Il signor Barnett fu il primo a sacrificarsi per la causa per cui, alla fine, molti altri persero tutto ciò che avevano. Lasciò Edgeware Road e si trasferì in una lussuosa residenza con vista sul parco, vicina alla stazione della metropolitana Twopenny Tube, con affaccio a sud e situata così vicino al Marble Arch da godere di un’ubicazione davvero prestigiosa. Ritenne suo dovere (e il futuro gli ha dato ragione) noleggiare una carrozza con due cavalli, conducenti in livrea, e prenotare un posto a teatro all’Opera; inoltre, non esitò a stipulare contratti pubblicitari regolari con i giornali, anche con quelli i cui editori erano suoi amici. In cambio di ciò, come richiede la cortesia del giornalismo, alcune delle sue attività venivano pubblicate, mentre su altre veniva omesso di scrivere.
+
+Se è vero, come ha detto così bene Canon Cone nel suo sermone di Natale sul Regno, che “possiamo servire meglio l’[[England|Inghilterra]] con la mente che con il cuore”, allora il signor Barnett l’ha servita in modo davvero nobile.
+
+I suoi banchetti, i principali dei quali si tenevano ogni venerdì, quando il Parlamento riposava dalle sue attività e prima che iniziasse il meritato fine settimana, attiravano ospiti con una particolare discrezione. Raramente partecipavano più di venti persone; e nemmeno quando quel numero veniva superato, uomini o piatti di qualità inferiore rovinavano l’effetto complessivo del banchetto.
+
+Le riunioni meno formali rendevano più piacevoli le serate rimanenti, tranne quella del Sabato, che, a differenza di molte altre intorno a lui, il signor Barnett si assicurava sempre di rispettare come giorno sacro.
+
+Le sue suggerimenti furono una fonte di ispirazione, non solo per i giovani che aveva introdotto nel nostro mondo della Letteratura, ma anche per molte altre persone che fino ad allora lo conoscevano soltanto di fama. Nonostante le difficoltà leggendarie legate al fatto di avvicinarsi a una figura così grande, queste persone ebbero l’opportunità di incontrarlo in più occasioni: prima di pranzo, durante le pause per il tè, e (su appuntamento) all’alba.
+
+Per una felice coincidenza, sembrava che stessa la forza delle cose agisse a suo favore. “Le stelle nel loro corso”, come disse magnificamente il canonico Cone, senza curarsi dell’opposizione politica, “lottavano per lui”; la tradizione di cui il signor Barnett faceva parte, per quanto distinta, era proprio quella.
+
+Gli uomini influenzati dal signor Barnett in nessun modo; quelli che non lo avevano mai incontrato furono conquistati dalla fiamma del suo genio.
+
+#Il cannone a cono sferra il suo attacco cavalleresco sull’incarnazione
+
+(Un ritratto realizzato dal giornalista di “Christendom”, che lo ha chiamato “Il cannone a cono all’azione”).
+
+“Canone cono in riposo”, una discussione su argomenti non collegati al dogma, presso la Duchessa di Lavington.
+
+(Un disegno acquistato all’epoca dal segretario di Her Grace, ora custode d’ingresso al Variety a Bismarck, Pennsylvania, Stati Uniti d’America.)
+
+Ad esempio, Sir Philip Marshall, che più che altro era un recluso, inviò il suo famoso articolo sulla Germania e la valle di M’Korio al “The Nineteenth Century” (e in seguito). Viveva lontano, a Land’s End.
+
+Il giovane Coster scelse per la sua opera principale dell’anno il titolo “Alba sulle paludi di M’Korio”. L’opera fu appesa lungo la cornice, e così in su fino al soffitto; sebbene le sue dimensioni facessero sì che una parte considerevole della sua superficie rimanesse nascosta alla vista dello spettatore, i suoi tratti principali attirarono l’attenzione di tutti. Infatti, mentre Sir Henry Baile si allontanava per godersi un’immagine completa dell’opera, urtò la vecchia Duchessa di Lavington, che a sua volta era immersa nella contemplazione del dipinto. L’inconveniente e la situazione imbarazzante che ne derivò sarebbero troppo banali per essere menzionati qui, se non fossero serviti a dimostrare l’entusiasmo del pubblico per tutto ciò che riguardava M’Korio. Quel dipinto fornisce inoltre, tra l’altro, quello che ritengo sia l’unico esempio di intervento diretto da parte dello stesso signor Burden su un entusiasmo nazionale che egli considerava, a ragione, più sincero proprio per la sua spontaneità: intendo quella breve nota nella quale chiedeva all’artista di sostituire la parola “paludi” con “lagune”, richiesta che fu immediatamente accettata.
+
+Nella Nuova Galleria era esposta un’opera di grande impatto nell’ambito dell’impressionismo: “Il Fiume del Destino”, realizzata da Miss Paxter; anch’essa trattava dello stesso tema. Tutta [[London|Londra]] parlava di quel giovane dai capelli biondi, originario del Somersetshire, che giaceva lì, con il viso rivolto verso l’alto, sull’acqua scura. La raccolta fondi organizzata per i suoi genitori anziani, nonché la successiva condanna di questi ultimi per frode, non rientrano nell’ambito della mia storia. A meno che non voglia approfittare di questa occasione per difendere Miss Paxter con tutto il calore di cui sono capace, contro l’accusa che lei sapesse che quei due anziani erano senza figli, o che l’intero episodio fosse frutto della fantasia.
+
+Un’ulteriore prova dell’autosacrificio del signor Barnett, e della totale assenza di pressioni finanziarie durante lo sviluppo del movimento, risiede nel fatto che i signori Pscheuffer, desiderosi di pubblicare un libro sul M’Korio Delta, scrissero al signor Barnett; egli, però, con un profondo senso dell’onore che gli spettava, rifiutò persino di scrivere la prefazione, o addirittura di accettare la dedica del volume. Indirizzò quindi l’intera questione al maggiore Pondo, dichiarandosi completamente estraneo a tutta la faccenda.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_02" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
@@ -3981,6 +5411,48 @@ My pen has not the leisure to describe the brilliancy of that function. It was a
 One thing had given Mr Barnett real hope; and that was Mr Burden’s attitude towards what I may call the more common-place side of all this matter of the M’Korio. A very genuine interest had appeared in the old man’s face whenever he discussed the history or the geography of the M’Korio. There ran through his character that tendency towards futile pottering which led our grandfathers — with a mighty empire before them — to waste their energies upon the foundation of learned societies. During those enormous dinners, where every celebrity had elbowed him, Mr Burden had often given cause for the very gravest fears to the more masterful mind of the leader. But whenever he had an opportunity of discussing Dr Mohl’s pamphlet with such experts as M. Sabbat or Canon Cone, his animation and delight relieved Mr Barnett’s apprehension. On the famous night when the first of our geologists maintained the undoubted presence of gold in the M’Korio, and when, in the startled silence that followed, Mr Barnett (smiling that famous smile) had handed the model of the nugget from guest to guest, Mr Burden, ignoring all that the news portended for his country, showed an excited interest in the unique geological conditions which could produce metallic deposits in a deep bed of decomposing vegetable matter.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il successo del villaggio M’Korio all’Earl’s Court, anche se proveniente da ambienti plebei, rappresentava comunque un vero indicatore dei sentimenti popolari. Il luogo era sempre affollato durante tutta la stagione; il capo del villaggio, un magnifico Basuto di nome Issachar, riceveva una pensione da parte di un entusiasta ammiratore che preferiva rimanere anonimo.
+
+# Dottor Mohl
+
+Dalla pittura a olio presentata all’Università di Dorpott da Sua Maestà Guglielmo II, Imperatore e Re.
+
+Anche il trascurato museo di Geografia Teorica ricevette, per la prima volta dopo quarant’anni, un afflusso quotidiano di visitatori desiderosi di ammirare la mappa rialzata del Delta di M’Korio. La totale pianità della regione, e di conseguenza la facilità con cui poteva essere coltivata, non potevano essere meglio apprezzate in questa forma grafica.
+
+Due concorrenti nel settore degli indumenti intimi, ognuno dei quali aveva brevettato un tipo di colletto chiamato “The M’Korio”, si rivolsero al tribunale per stabilire chi avesse il diritto di utilizzare un titolo così prezioso. Il caso fu descritto in dettaglio e suscitò grande interesse e dibattito. È uno dei tanti esempi della generosità personale del signor Barnett: poiché sono riuscito a documentarne solo pochi in questo libro, egli stesso coprì le spese e i costi sostenuti dal perdente in questa causa, regalandogli inoltre un dono sostanzioso.
+
+Infine, in una broschura di estremo interesse, basata su ampie ricerche e redatta con un’economia di prove davvero encomiabile, il dottor Mohl dell’Università di Dorpott identificò in modo conclusivo il Delta con lo “Sheol” dell’Antico Testamento.
+
+Vorrei che fosse mio compito descrivere soltanto il lato positivo di questa ondata di successo; ma devo sia al signor Barnett che alla verità menzionare anche le opposizioni che questo movimento ha incontrato.
+
+Questo tipo di opposizione non veniva sempre esercitato in modo consapevole; tuttavia, esisteva comunque.
+
+Apparve un articolo su una rivista tedesca che consigliava alla Germania di acquistare la Delta, poiché i suoi confini coincidevano con quelli di una delle colonie tedesche. Il danno arrecato fu ancora più grave dal fatto che l’autore dell’articolo era il cugino di secondo grado dello stesso signor Barnett, il barone Bloch, che lo pubblicò sotto lo pseudonimo di “Sympathicus”. Fu bello sentire l’ondata di indignazione con cui questa proposta fu accolta in [[England|Inghilterra]]; fummo salvati dall’unità del nostro stesso popolo. L’articolo “Git”, pubblicato sul principale giornale americano a [[London|Londra]], rappresentò senza dubbio il punto di svolta: da quel momento, la comunità finanziaria e l’élite cittadina decisero di sostenere quella politica, allora considerata incerta e vacillante da parte del governo.
+
+A causa della insistenza di un membro privato molto ricco, il quale non si lasciava convincere da alcuna argomentazione, sorsero difficoltà inaspettate nel trasferimento delle responsabilità relative al progetto Delta dal Dipartimento degli Affari Esteri a quello delle Colonie. Si trattava di una formalità banale ma necessaria, che poté essere risolta solo molto più tardi, ad agosto, quando la stagione di caccia alle pernici era già terminata.
+
+Barone Bloch
+
+(Da una fotografia di M. M. Ballaru et Cie., 147 bis, rue St. Loup. Le immagini sono di esclusiva proprietà della casa editrice.)
+
+Il corrispondente del “The Times” a Kurù, attraverso una serie di articoli che hanno contribuito in modo determinante ad informare le classi abbienti su ciò che potesse significare il gruppo M’Korio, non menzionò mai né l’azienda stessa né alcuno dei suoi sostenitori; e ci sono circostanze in cui una tale neutralità può rivelarsi pericolosa.
+
+Nonostante tutto ciò, il signor Barnett affrontò la situazione con un eroico spirito di tenacia.
+
+C'era soltanto un aspetto in tutto quel campo che gli causava vera e propria ansia: quella sfortunata incertezza di cui avevo già spesso fatto notare al signor Burden l'esistenza, fin dal momento in cui aveva iniziato ad impegnarsi in attività inadatte alla sua formazione ed esperienza.
+
+A prima vista, sembrava necessario invitare il signor Abbott a unirsi ai promotori originari, affinché potesse “contribuire”, per usare le parole del signor Barnett, con una certa eccessiva allegria nel suo modo di esprimersi.
+
+Ma il signor Abbott era Faroosh. Solo il signor Burden poteva avvicinarsi a lui, e spesso, quando gli veniva chiesto di farlo, il signor Burden esitava. Un'esitazione infantile. Un uomo che temeva quella situazione.
+
+Ma se la direzione di Mr Abbott poteva aspettare, c'erano altri sintomi ancora più preoccupanti nel comportamento di Mr Burden. Aveva periodi di silenzio; per giorni andava d’accordo con tutti i suoi colleghi, e poi, all’improvviso, arrivava una nota breve, lamentosa, in cui si scusava per non poter partecipare alle funzioni più importanti. Alla fine, durante la grande ricevimento all’inizio di luglio, Mr Barnett iniziò a preoccuparsi seriamente.
+
+La mia penna non ha il tempo necessario per descrivere tutta la magnificenza di quella scena. Era qualcosa che nessuna capitale europea avrebbe potuto eguagliare, nemmeno [[London|Londra]] stessa. Solo quel piccolo quartiere delimitato a nord da Hyde Park Square e Seymour Street, a est da Park Street, e a sud e ovest dalle distanze nebbiose di Hyde Park poteva offrire un simile spettacolo. Era davvero degno di tutte le lodi ricevute, sia dal “Morning Post” che dall’“Indépendence Belge”. Ma posso menzionarlo soltanto in relazione alla straziante instabilità del signor Burden.
+
+Una cosa aveva dato al signor Barnett una vera speranza; ed era l’atteggiamento del signor Burden verso quella che potrei definire la parte più “ordinaria” di tutta questa questione legata ai M’Korio. Sul volto dell’anziano appariva un vero interesse ogni volta che discuteva della storia o della geografia dei M’Korio. Nel suo carattere c’era quella tendenza a occuparsi di cose inutili, che portava i nostri antenati – con un impero immenso davanti a loro – a sprecare le proprie energie nella fondazione di società accademiche. Durante quei lunghi banchetti, dove ogni celebrità gli dava attenzione, il signor Burden suscitava spesso preoccupazioni molto serie in chi aveva una visione più pragmatica della situazione. Ma ogni volta che aveva l’opportunità di discutere del pamphlet del dottor Mohl con esperti come il signor Sabbat o il canonico Cone, la sua entusiasmo e gioia allentavano le apprensioni del signor Barnett. Quella famosa notte, quando uno dei nostri geologi affermò con certezza l’esistenza dell’oro nei M’Korio, e mentre calava un silenzio sorpreso, il signor Barnett – con quel suo famoso sorriso – fece passare il modellino del lingotto tra gli ospiti. Il signor Burden, ignorando completamente le conseguenze negative che quella notizia avrebbe potuto avere per il suo paese, mostrò un grande interesse per quelle condizioni geologiche uniche in grado di generare giacimenti metallici in uno strato profondo di materiale vegetale in decomposizione.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
@@ -4016,6 +5488,38 @@ There was nothing which, at that moment, Mr Burden would not have believed. Ther
 
 He left the house that night, full of a kind of angry determination to go next day and do what he had never yet dared to do: to speak to Mr Abbott. But he would speak to him in a sense very different from that which Mr Barnett had intended when he had asked him to call upon that life-long friend, and to offer him a directorship.... He would see Abbott, he would tell him of the risk to a considerable fortune, of his doubts, of the torturing alternation of his mind: he would find true stable comradeship and relief.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era quindi con fiducia che, all’occasione di questa importante ricevimento a Barnett House, l’organizzatore condusse orgogliosamente il signor Burden per presentarlo al maggiore Pondo; il libro del maggiore, “The African River”, aveva infatti, negli ultimi sei giorni, reso il signor Burden il principale esperto in quella regione.
+
+Il centro di ogni commento, l’oggetto principale di ogni introduzione durante tutta la serata, e ora, con l’arrivo tardivo del signor Burden, il destinatario naturale delle sue opinioni, il maggiore Pondo era, in quel momento, uno dei punti di riferimento di [[London|Londra]].
+
+Si notò che il signor Burden si fermò improvvisamente, come se fosse sorpreso, quando si avvicinò al soldato; in effetti, la scena che gli si presentò davanti agli occhi era nuova per lui, e avrebbe potuto risultare affascinante per una mente più equilibrata.
+
+Il maggiore Pondo, che non riceveva alcun compenso regolare da nessun sovrano o presidente, aveva forse visto più battaglie reali di chiunque si definisca soldato professionista. Anche in questa brillante compagnia, un’oscura contusione sul suo zigomo sinistro era visibile a tutti; inoltre, una profonda ferita, mal ricucita sulla punta del mento, testimoniava un’avventura vissuta lontano da qualsiasi assistenza medica. Per quanto riguarda la statura, si diceva che fosse così basso da sembrare quasi un nano; un errore commesso dai miei contemporanei a causa della sua corporatura robusta e del collo corto e forte. La sua altezza esatta, come registrata nei documenti ufficiali dove sono conservate la fotografia, le impronte digitali e molte altre misurazioni accurate della sua anatomia, è di 1,3587 metri, ovvero quasi esattamente cinque piedi e due pollici.
+
+Major Pondo
+
+(Estratto dalla descrizione della festa di ricevimento a Barnett House. Per gentile concessione dei proprietari di “Social Sketches”, una rivista settimanale.)
+
+I soli tropicali e le nevi artiche del Messico e del Manitoba avevano abbronzato la sua pelle fino al colore di un olmo bagnato. I suoi denti erano regolari e di un bianco brillante, che risaltava in modo quasi dolorosamente evidente rispetto alla carnagione che ho descritto.
+
+La sua testa, di grandi dimensioni, era calva, tranne che per un notevole ciuffo di capelli sulla parte posteriore e proprio accanto alle orecchie. Ma sebbene quel ciuffo fosse rado, non appariva mai disordinato; e il signor Burden, pur trovandosi a una certa distanza, poteva distinguere sul suo capo il lucido prodotto di un recente unguento. La testa formava una sorta di grande cupola, e sugli occhi era dipinta un’espressione corrucciata che sembrava indicare non tanto l’abitudine di aggrottare la fronte, quanto piuttosto l’impronta indelebile di una volontà indomabile. Il viso era completamente rasato, e gli occhi erano di un bel marrone morbido, quasi nero. Lo sguardo che quegli occhi lanciavano era lento e misurato, ma sembrava rivelare una certa estraneità nei confronti del proprio ambiente circostante. Il piede destro sporgeva con fermezza di qualche centimetro rispetto al sinistro; la mano destra reggeva la tazza di caffè in un gesto semplice ma deciso, mentre la sinistra era stretta appena sopra la parte bassa della schiena. Ecco l’uomo il cui nome è noto a ogni inglese. Quel monolite umano che rimaneva immobile nel vortice della folla, mentre il signor Burden si avvicinava a lui con occhi pieni di curiosità. Il signor Barnett li presentò e poi li lasciò da soli.
+
+In quell’introduzione, l’esploratore si era inchinato, ma non aveva pronunciato una parola. Alle prime osservazioni che il signor Burden fece in modo piuttosto timido, rispose soltanto con gesti; a un complimento, con un leggero sorriso; a una teoria riguardante il clima della valle di M’Korio, con un colpo di tosse che non significava nulla in particolare.
+
+Il mio vecchio amico mi ha confessato che, per alcuni momenti, temeva che il Maggiore Pondo potesse essere muto. Gli era persino balenata l’idea che quell’uomo non conoscesse bene la lingua inglese; ma quando sentì pronunciare la parola “Yas!” con quel caratteristico accento giamaicano, si rese conto di essersi sbagliato. Fu l’inizio di un breve racconto, recitato quasi meccanicamente, sulla vita e sulle avventure del Maggiore. Alla fine, calò nuovamente un silenzio opprimente. Il signor Burden, invece di sentirsi sollevato dalle sue sospetti, fu assillato da ogni sorta di dubbio.
+
+Se il mio scopo fosse stato difendere il mio amico, non avrei trovato alcuna difficoltà nel tenere un discorso del genere. Bisogna ricordare che lui era completamente ignaro del nuovo mondo in cui si era ritrovato, e che persone come il Maggiore Pondo, o qualsiasi altro di coloro che ogni anno, quasi quotidianamente, ampliano i confini del nostro potere, erano del tutto sconosciute a lui. La sua irritabilità e la sua instabilità d’animo, frutto, credo ancora oggi, dell’età avanzata, sono state evidenti in tutte queste pagine; inoltre, l’ora era già tarda – molto più tardi di quanto un commerciante avrebbe permesso a se stesso se avesse ascoltato i consigli del suo medico – e il calore intenso, la folla numerosa hanno contribuito ad alimentare in lui giudizi distorti, dovuti principalmente al cattivo stato della sua salute.
+
+Ma non spetta a me difenderlo. Il mio compito è soltanto quello di elencare, in modo semplice e ordinato, i fatti così come sono accaduti. Se dovessi intraprendere un percorso diverso, potrei finire per competere con il lavoro del signor e della signora O’Rourke, di cui desidero particolarmente evitare anche solo di menzionare l’esistenza.
+
+Qualunque ne fosse la causa, quando il signor Barnett tornò per accompagnare il signor Burden da un altro ospite, invece di avvicinare mio amico alle straordinarie energie del nuovo movimento, quell’incontro con il maggiore Pondo aveva suscitato in lui un sentimento. Lo ripeto: un sentimento morboso, che rasentava persino il disgusto.
+
+In quel momento, non c’era nulla che il signor Burden non fosse disposto a credere. Nessuna calunnia anti-patriottica, nessuna mania o menzogna contro la piccola [[England|Inghilterra]], nessun ritorno al Cobdenismo degli anni ’60, nulla di tutto ciò che avesse potuto contraddire quella breve esperienza che aveva vissuto.
+
+Quella notte lasciò la casa, animato da una sorta di determinazione furiosa: il giorno dopo avrebbe fatto ciò che mai aveva osato fare prima: parlare con il signor Abbott. Ma lo avrebbe fatto in modo molto diverso da come il signor Barnett aveva inteso quando gli aveva chiesto di andare a trovare quel vecchio amico e di offrirgli la direzione della società. Avrebbe incontrato Abbott, gli avrebbe parlato del rischio che una considerevole fortuna fosse in pericolo, delle sue incertezze, dell’alternanza tormentosa dei suoi pensieri. Avrebbe trovato vera solidarietà e conforto.
 
 
 
@@ -4056,6 +5560,42 @@ He was unmarried.
 
 As for his judgment upon any of the great complexities of modern life, no worse judge could have been discovered than this utterly simple, obstinate, loud-voiced man. His judgment upon such an adventure as Mr Barnett’s could hardly for a moment be in doubt. Mr Burden had felt it instinctively, and, for all these weeks, had carefully avoided that familiar room. Now at last he entered; but the very sight of Mr Abbott’s face roused in him a kind of warning that a severe difference of opinion might arise.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le circostanze e la natura stessa degli uomini portarono effettivamente al loro incontro, ma, nonostante entrambi, lo condussero verso una conclusione molto diversa da quella prevista.
+
+Quando il signor Burden si svegliò la mattina seguente, il sonno profondo causato dalla stanchezza e la luce serena di una nuova giornata avevano un po’ cambiato il suo umore. Rimaneva soltanto un sottofondo di ansia, che però fu in gran parte alleviato dalla conversazione con Cosmo quella mattina.
+
+Gli affari di quella giornata in ufficio sono andati bene; l’aria era fresca e soleggiata. Se quella sera si è ritrovato ad avviarsi verso l’ufficio del signor Abbott per la prima volta dopo molte settimane, è stato soltanto perché era un uomo d’affari, abituato a procedere in modo metodico, e quindi odiava abbandonare qualsiasi decisione avesse preso.
+
+Entrò con decisione e uno scopo preciso in quella piccola stanza rivestita di pannelli, che aveva assistito per 123 anni allo sviluppo della famiglia Abbott.
+
+Quel luogo emanava l’odore del nostro passato; ma c’era qualcosa in esso che aveva fornito alla stampa finanziaria un argomento ideale per le derisioni. Era piccolo quanto una cabina di nave; in effetti, aveva ospitato tre generazioni di uomini che avevano navigato per tutta la vita come proprietari delle loro imbarcazioni. Quel luogo evocava l’immagine dei marinai pigri e indolenti, che conoscevano solo l’[[England|Inghilterra]] e non si curavano di nulla al di fuori di essa; eppure, in un certo senso, li amiamo. Quel luogo rappresentava anche metodi di business molto primitivi: frasi del tipo “La posizione della compagnia”, la lentezza e la miopia di coloro i cui principi politici e finanziari abbiamo, per fortuna, ormai abbandonato. E davanti alla vecchia scrivania, in quella piccola stanza antica, sedeva una figura davvero degna di quel contesto.
+
+Il signor Abbott rappresentava uno di quei personaggi che, per quanto possano essere ancora apprezzabili nella narrativa odierna, rappresenterebbero un ostacolo nel funzionamento della società inglese se dovessero ricomparire nella nostra vita moderna.
+
+Non c'era in lui nulla di ciò che un vero cittadino dovrebbe avere di fronte alle pressioni e alle sfide del nostro tempo.
+
+Era alto, robusto e dal viso rossastro; la sua voce, più forte di quanto ci si aspetterebbe da un gentiluomo, portava quella che si potrebbe definire “allegria” oltre i limiti della volgarità. L’ostinazione che traspariva in parte dai suoi tratti diventava immediatamente evidente non appena iniziava a discutere di argomenti controversi. Era assolutamente certo di ciò che diceva su venti diversi argomenti, mentre persone dotate di una capacità analitica infinitamente superiore, nell’ampia espansione intellettuale degli ultimi anni, si erano accontentate di dubitare o criticare.
+
+In poche parole, era ciò che lui stesso avrebbe definito “sano di mente”. Era “sano” riguardo al libero scambio; era “sano” sull’importanza del mantenimento dello standard aureo – una questione su cui, in realtà, non sapeva assolutamente nulla. Era “sano” nel suo disprezzo per i “stranieri”; nella stessa categoria includeva anche ciò che definiva “i Yankees”. Amava [[England|Inghilterra]], ma ciò che amava era il suolo, l’aria, le abitudini locali; non quella grande visione che noi possediamo. Si esprimeva in modo così sinceramente inconsapevole e offensivo che, nonostante la sua enorme ricchezza, gli sarebbe stato negato l’accesso a una posizione sociale superiore a quella della sua nascita. E lui nemmeno ci provò.
+
+“Concorrenza! Signore; concorrenza!”
+
+Con gli sconosciuti si rivolgeva sempre con un sonoro “signore” alla fine di ogni frase. Le sue conversazioni iniziavano solitamente con commenti sul tempo (spesso negativi) e, purtroppo, non di rado terminavano con imprecazioni, quando esprimeva il proprio disaccordo con le opinioni più moderne del suo interlocutore. Dopo aver pronunciato un simile insulto, aggiungeva spesso la verità inconfutabile: “Ecco tutto ciò che ne so”, o “Questo è tutto quello che ho da dire”.
+
+Per qualche motivo, probabilmente dovuto a una tradizione familiare, aveva seguito le politiche di Gladstone riguardo al diritto all’autogoverno dell’Irlanda; ma nulla, se non una testardaggine incomprensibile, lo aveva spinto a continuare a difendere quell’errore ormai superato, mentre tutti i suoi amici l’avevano abbandonato.
+
+Non è affatto sorprendente che, data la sua natura, si trovasse completamente in disaccordo con la principale tendenza economica del nostro tempo, e rifiutasse decisamente di unire la Abbott Line a qualsiasi alleanza tra armatori. Riesco quasi a vederlo mentre, seduto al tavolo del ristorante Palmerston dove pranzava, gridava: “Concorrenza, signori, concorrenza!”, rivolto all’infelice Zachary K. Peabody, l’agente della African Steamship Trust. Una persona la cui raffinatezza lui non era abbastanza sensibile da percepire, e la cui esperienza pratica nel commercio derideva apertamente.
+
+I suoi tratti, nel loro insieme, erano marcati e mascolini; i suoi occhi erano decisi, il suo mento solido. I suoi capelli, sempre in disordine, avevano un colore grigio ferroso; due piccoli baffetti, quasi bianchi, accentuavano la forma quadrata del suo viso. Tuttavia, la forza espressiva delle sue labbra veniva attenuata da una costante tendenza al sorriso. E ciò che lui avrebbe definito “amichevolezza”, o come l’ho sentito chiamare, “allegria”.
+
+Molte cose avevano contribuito a dargli quell’influenza su Mr Burden. Erano stati giovani insieme ai tempi in cui un’etichetta comune, quella del cosiddetto Liberalismo, e la necessità di impegnarsi politicamente erano sufficienti a nascondere molte differenze essenziali nel carattere delle persone. La maggiore energia e il temperamento più vivace del proprietario della nave avevano naturalmente prevalso sulla sobrietà e sulle occasionali esitazioni del commerciante di ferramenta. Bisognava anche ammettere che, in molte delle piccole questioni della vita quotidiana – una vita ristretta, ricordatevelo, il cui orizzonte era facilmente visibile – il suo giudizio raramente si era rivelato errato. Era stato lui ad introdurre Mr Burden nel commercio del M’Korio, e avrebbe volentieri fatto qualsiasi sacrificio – poiché nature così primitive spesso sono capaci di provare affetto – pur di proteggere il suo amico da disonori commerciali o personali.
+
+Era single.
+
+Per quanto riguarda il suo giudizio su qualsiasi aspetto delle grandi complessità della vita moderna, non si sarebbe potuto trovare un giudice peggiore di quest’uomo estremamente semplice, ostinato e dal tono di voce forte. Il suo parere su un’avventura come quella del signor Barnett non poteva certo essere messo in dubbio nemmeno per un istante. Il signor Burden se n’era reso conto istintivamente e, per tutte queste settimane, aveva evitato con cura quella stanza familiare. Ora finalmente vi entrò; ma solo il vedere il volto del signor Abbott gli suscitò l’avvertimento che potesse sorgere una grave divergenza di opinioni.
 
 
 
@@ -4129,6 +5669,74 @@ ENDNOTES.
 9 As the scurrilous poem beginning “It is, it is the Canon’s opening roar,” or the deliberate misprinting of the peroration to his Romanes lecture on Historical Christianity, “The soul of Ananias like a star,” etc.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Non sorprenderà i miei lettori sapere che il saluto del signor Abbott fu enfatico e piuttosto banale, pieno di “eh, ”, “Dio mio” e “tutto questo tempo, ”; tuttavia, in esso c’era un sottinteso che indicava chiaramente che il signor Abbott conosceva molto bene la ragione che aveva causato un intervallo così lungo.
+
+Naturale come fosse per un uomo del genere esitare su un argomento del genere, il signor Burden, guardando prima negli occhi del suo amico e poi distogliendo lo sguardo verso un brutto dipinto a olio di Arethusa, disse:
+
+“Abbot, sono venuto a chiederti il tuo parere su una questione, o forse dovrei dire che voglio sapere cosa ne pensi di una certa questione, ”
+
+Il signor Abbott rispose che il signor Burden poteva “chiedere tutto quello che voleva”, e aggiunse, con una disinvolta allegria: “Qualunque cosa tu intenda fare, segui il mio consiglio, e non farla”. Rise fragorosamente, come è abitudine di queste persone, per la propria battuta spiritosa; si soffiò il naso con un rumore sonoro, tirò fuori una pipa, la riempì con del tabacco nero davvero sorprendente, l’accese e disse:
+
+#"Dai fuori tutto, ragazzo mio… Liberatela!"
+
+Era passato un po' di tempo da quando il signor Burden aveva subito un simile approccio; e non si può negare che fosse piuttosto infastidito. Forse lo mostrò nel tono della sua voce. Comunque, disse abbastanza rapidamente:
+
+“Sono venuto per chiedervi cosa ne pensate del M’Korio.”
+
+“Puzza,” disse il signor Abbott, con decisione.
+
+Chiuse la bocca non appena pronunciò quelle parole, con determinazione; posò le mani saldamente sulla scrivania, proprio come un uomo che afferra il timone di una nave, e alzò lo sguardo verso il signor Burden.
+
+“Tutta la nazione puzza. Avete sicuramente conosciuto posti che puzzano. Barking Level puzza davvero. Lì fuori, per Dio, tutto puzza. Grande quanto lo Yorkshire. Cioè, io ci sono stato, mentre voi no. Nemmeno un metro quadrato di terra pulita. Solo odore!”
+
+Infatti, signor Abbott, insieme a molte altre persone che denunciano la corruzione della nostra vita pubblica, avrebbe fatto bene a riflettere se il suo linguaggio non rappresenti un oltraggio ancora maggiore alla vera morale rispetto alle azioni e ai motivi che attribuisce così imprudentemente ad altri.
+
+“Sono venuto per chiedere un consiglio, Abbott, non per subire insulti,” disse il signor Burden.
+
+Era profondamente infastidito, e lo scopo principale della sua visita gli sembrava ormai lontano. Lo infastidiva l’autocompiacimento nel tono del suo amico, la grossolanità eccessiva del suo linguaggio, anche se proveniva da labbra per cui, temo, quella grossolanità fosse abituale. E soprattutto lo infastidiva il fatto che quel modo così aggressivo e offensivo fosse stato introdotto nella delicatezza delle sue leggere remore.
+
+“Chi ti sta maltrattando, per l’amor del cielo?” disse il signor Abbott con la sua voce profonda e sonora, fissando l’interlocutore con uno sguardo che si accordava perfettamente con le sue parole.
+
+Il signor Burden, incrociando le braccia e battendo con il piede sinistro sul tappeto di juta, rispose con tranquilla dignità che le parole del signor Abbott rappresentavano un insulto nei confronti dei suoi amici, di se stesso, e, potrebbe aggiungere, anche dell’Impero.
+
+L’unica risposta del signor Abbott fu di passarsi rapidamente il dito indice sul naso, un gesto al quale, purtroppo, era molto abituato; poi strinse il pugno e lo batté sulla tavola davanti a sé.
+
+“L’Impero?”, disse il signor Abbott, proprio come uno potrebbe dire, “quel gigantesco errore?” Poi continuò, più in silenzio: “Burden, stai impazzendo.”
+
+“Sì, l’Impero,” disse il signor Burden con una certa veemenza, e con maggiore decisione di quanto avesse mostrato fino ad allora. “Sono venuto per chiedere consiglio, Abbott. E, sulla mia anima, penso di essere più adatto a dartelo io che tu a darlo a me.”
+
+Ora aveva la fermezza necessaria per guardare il signor Abbott dritto negli occhi, e così fece, dicendo con una voce quasi altrettanto decisa:
+
+“Forse non sai che hanno trovato l’oro…”
+
+“GIOIA!”, gridò, ruggì, tuonò il signor Abbott. Espirò profondamente e poi sussurrò: “Oh Signore del cielo!”
+
+Il signor Burden non ne poteva più.
+
+Si alzò e disse: “Mi dispiace per questo, Abbott, ma non credo che né tu né io possiamo trarre vantaggio continuando questa situazione.”
+
+Il signor Abbott si alzò contemporaneamente dalla sua grande sedia di legno.
+
+“Puoi andartene se vuoi, Burden,” disse, agitando l’indice e fissando il viso del suo amico, come fanno gli uomini insolenti; “puoi andartene se vuoi, ma non dare la colpa a me se ti picchiano! Sono tutti dei mascalzoni, e se hai a che fare con loro sei un idiota. E ricorda che te l’ho detto. Non dare la colpa a me se ti picchiano!”
+
+“Non ti biasimo per nulla, se non per le tue espressioni, Abbott,” disse il signor Burden.
+
+Le sue gambe tremavano per l’emozione; la represse e camminò lentamente verso la porta, chiudendola con cura e delicatezza dietro di sé.
+
+Dopo che se ne fu andato, il signor Abbott, la cui mente era aperta soltanto alle cose più immediate, fissò la porta per un momento: prima con espressione vuota, poi con un po' di tristezza. Alla fine tossì forte, seguito da una risata ancora più sonora, e in dieci minuti aveva già dimenticato tutta quella scena, immerso nelle complesse questioni politiche.
+
+Ma il signor Burden era profondamente turbato. Fu ancora più ferito dall’esplosione d’ira del suo amico, perché nel profondo del cuore si trovava sulla difensiva. Se il signor Abbott avesse mostrato meno violenza, quel consiglio – che lui aveva rifiutato – forse non sarebbe penetrato così profondamente nella sua mente. Invece, l’effetto della loro lite fu proprio questo: le parole violente del signor Abbott, quelle insinuazioni infondate tipiche di un fanatico, ebbero un impatto molto maggiore di quanto qualsiasi ragionamento logico avrebbe potuto avere. Si radicarono nel suo cuore e generarono un sospetto che non lo abbandonò mai, né di giorno né di notte.
+
+Quella sera cenò in città, da solo, in un hotel: una cosa che non faceva forse da dieci anni. Rimase intenzionalmente in quell’hotel per molte ore, affinché potesse essere solo quando sarebbe arrivato a casa, e affinché potesse dormire prima ancora che il nome M’Korio gli raggiungesse di nuovo le orecchie. Prese il treno delle 23:20 e non arrivò alla sua stazione se non venti minuti prima di mezzanotte. Era quasi mezzanotte quando aprì la porta di Avonmore.
+
+Vide luci e sentì voci; entrò nella sala fumatori da dove provenivano, e vicino al fuoco vide il profilo di Cosmo, un piccolo tavolo con bicchieri, sifoni e una bottiglia di whisky; oltre di esso, nella sua stessa poltrona imbottita, c'erano un cranio e una schiena che senza dubbio appartenevano al signor Barnett, al signor Barnett in stato di riposo.
+
+Note finali.
+
+9 Così come il volgare poema che inizia con “È questo, è proprio il ruggito iniziale del Canone”, o gli errori deliberati nella stampa della conclusione del suo discorso su “Il Cristianesimo Storico” tenuto a Roma, dove si legge “L’anima di Ananias come una stella”, ecc.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_01" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4193,6 +5801,66 @@ When he had done this, Mr Barnett said, with increasing wakefulness, and a kind 
 “Sômetimes they do nôt come in.... No? ... Then we ...” And Mr Barnett made with the thumb and forefinger of his right hand a peculiar screwing motion, a gesture native to the conqueror; having done so, he concluded: “we môst use pres-sure,” and, as he said these words, he got up and stood steadily upon his feet.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IX
+
+Il signor Barnett non si alzò.
+
+Teneva tra le sue mani destini così complessi e molteplici; nel perseguimento della sua nobile missione, controllava tante persone diverse, che la sua vita inevitabilmente ne risentiva a causa della tensione derivante da questi sforzi artificiali.
+
+In quelle occasioni, era particolarmente propenso a rilassarsi quando si trovava in compagnia di amici legati a lui da vincoli di gratitudine. Quella sera a Norwood, tale tentazione fu ancora più forte grazie all’atmosfera confortevole di una stanza accogliente, all’acqua gassata, ai liquori, a una sedia molto imbottita, a due riviste, al whisky scozzese, e a tutto ciò che caratterizzava un ambiente raffinato.
+
+Si rilassò, direi, e un vero signor Barnett, più autentico e amabile, emerse attraverso la superficie di quell’uomo: un signor Barnett che non si preoccupava del proprio accento o di nulla altro; un signor Barnett interiore, domestico e a suo agio.
+
+Nel suo stato d'animo, non ritenne necessario alzarsi; tuttavia, la sua cortesia non lo abbandonò, né l'abitudine innata di un uomo di mondo. Si sollevò leggermente dalla sedia spingendosi con la mano sinistra e tese la destra verso il proprietario della casa.
+
+L’alta società cosmopolita in cui era cresciuto il signor Barnett è, naturalmente, indifferente alle convenzioni dei sobborghi, proprio come lo sono i nostri entusiasti nobili inglesi; ma i miei lettori avranno già imparato che nulla potrebbe offendere di più il signor Burden di una violazione delle usanze di Norwood.
+
+All’inizio, l’atteggiamento del signor Barnett gli sembrò inverosimile; dietro questa incredulità seguì un attacco di rabbia.
+
+L’ora tarda, la recente lite con il suo amico più anziano e, senza dubbio, l’avvicinarsi di una malattia, avrebbero potuto spingere il signor Burden a compiere un passo irrevocabile. Avrebbe potuto lasciare la stanza senza dire una parola. Anzi, essendo così completamente esasperato, avrebbe anche potuto cercare di far andare via il suo ospite utilizzando quella sorta di pressione insistente e paziente che si definisce “spingere qualcuno fuori dalla propria casa”. Avrebbe potuto anche giurare, se non fosse stato per Cosmo, che, con una straordinaria comprensione delle piccole capricci di suo padre, riuscì a salvare la situazione.
+
+Cosmo uscì per salutare calorosamente suo padre; lo congratulò sinceramente per essere riuscito a tornare in tempo; raccontò al commerciante agitato quanto a lungo e con quanta ansia il finanziere avesse atteso; con l’esagerazione comprensibile di un figlio premuroso, indicò che l’arrivo del signor Barnett e il proprio erano avvenuti circa tre ore prima del previsto; insinuò in ogni sua parola che solo l’enorme importanza delle decisioni di suo padre poteva aver spinto il signor Barnett a compiere uno sforzo così grande.
+
+Il signor Burden fu solo in parte placato; si sedette su una sedia rigida, non la sua, e fissò il signor Barnett con severità, come si farebbe con un testimone in tribunale; il “Leader degli Uomini” ricambiò il suo sguardo con un'espressione di bonaria indifferenza. La sua testa era leggermente inclinata a destra; le palpebre superiori (doppie, come quelle dell’immensa aquila andina) si abbassarono profondamente, ma da quella piccola fessura degli occhi, attraverso un liquido umore ancora visibile, brillava uno sguardo calmo e distaccato. Quell’espressione continuò a influenzare il signor Burden per circa quaranta secondi, poi finalmente la voce parlò.
+
+“Sono davvero felice di vedervi, signor Burten.”
+
+Un dubbio, un sospetto disgustoso, attraversò la mente del signor Burden; si trasformò in una frase concreta; sentì le parole formularsi nella sua testa, ma non riuscirono mai a uscire dalle sue labbra. Riuscì a controllarsi durante il silenzio che seguì, e in quel momento fu ancora più evidente che la vasta capacità organizzativa del signor Barnett stava immergendosi sempre più profondamente nel silenzio e nella riflessione.
+
+Quando parlò di nuovo, aveva gli occhi completamente chiusi e la testa si piegava in avanti in modo irregolare a intervalli regolari.
+
+“Riguardo a quel tizio Âppott?” disse.
+
+Il signor Burden non rispose.
+
+“Quel tipo, Âppott,” la grande testa di Mr Barnett dondolò lentamente in segno di disapprovazione, “è ostinato, ma va bene lo stesso. Ahah? Non proprio?” Mr Barnett cercò con la mano destra di posarla sul ginocchio di Mr Burden; ma trovando davanti a sé il braccio della poltrona profonda su cui sedeva, lo accarezzò affettuosamente al suo posto, poi chiuse di nuovo gli occhi e rimase in silenzio.
+
+La parte più giovane e attiva della mente di Cosmo, sebbene meno sviluppata, venne in aiuto del signor Barnett, il quale, a causa della stanchezza e delle difficoltà nell’utilizzare la lingua inglese, aveva espresso alcune idee in modo poco chiaro. Cosmo era più adatto a parlare, poiché nel pomeriggio, quando il suo umore era stato per qualche motivo più vivace, il signor Barnett aveva spiegato in dettaglio come e perché il signor Abbott fosse necessario per i M’Korio.
+
+“Padre,” disse Cosmo rapidamente, “sapete quanto siano pochi gli uomini a [[London|Londra]] che conoscano davvero un argomento a fondo; il signor Abbott conosce davvero bene la materia del Delta. Questo è il punto principale. Ma non sono sicuro che il signor Barnett capisca completamente, ”
+
+# Mr Barnett, perfettamente a casa sua
+
+Il signor Barnett sorrise e borbottò qualcosa; lo stava seguendo, ma in modo poco chiaro.
+
+“Certo che conosci la difficoltà. E suppongo che io la conosca anch’io. Tutto deriva da ciò che è di più prezioso nella sua natura; ma quel sospetto è insopportabile, padre. Ed è un altro motivo per cui dovrebbe venire qui.”
+
+Dopo questa chiara sequenza di pensieri, Cosmo, che stava in piedi con la mano appoggiata sul tavolo e guardava ansiosamente suo padre al di là della luce della lampada, disse con grande sincerità: “Dobbiamo farlo entrare.”
+
+“Mr Barnett aprì gli occhi di scatto e disse…”
+
+“Ah! Sì! Deve entrare. È proprio così.”
+
+Annuì saggiamente; poi, se l’educazione ricevuta non gli avesse impedito di farlo, si sarebbe addormentato.
+
+Riuscì a resistere con successo alla tentazione, si raddrizzò leggermente sulla sedia e continuò l’attacco contro il signor Burden in modo così efficace da essere soltanto compromesso dalla sua estrema sonnolenza. Nel suo comportamento c’era qualcosa che denotava un tale rispetto per le capacità del signor Burden da suscitare fiducia. Si sporse in avanti con forza e premette il pollice sulle costole del commerciante, non come fanno persone più leggere di carattere o meno determinate, con movimenti bruschi o superficiali, ma con una pressione continua, proprio come si farebbe contro un campanello elettrico.
+
+Dopo aver fatto questo, il signor Barnett disse, con crescente lucidità e con una sorta di falsa tristezza nella voce:
+
+“A volte non entrano. No? Allora noi, ” E il signor Barnett fece con il pollice e l’indice della mano destra un movimento a spirale particolare, un gesto tipico dei conquistatori; dopo averlo fatto, concluse: “Dobbiamo usare la forza”, e mentre pronunciava queste parole, si alzò in piedi.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_02" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4227,6 +5895,36 @@ Moreover, if Mr Burden had been inclined to let the incident weigh upon him Cosm
 At intervals of several days business details, of no great importance, but such as gradually reawakened in Mr Burden the old interest, began to come to his table; later he dined with Mr Harbury and met a very charming American actress, the manager of the Banque des Pyrénées, Lord John Mackintosh and his wife, and Lothingbury Grail, a gentleman who had written verses. They talked of Art.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Era qualcosa di straordinario e davvero colpente da vedere: i “fumi della letargia” si allontanavano da quella grande mente, proprio come la nebbia svanisce dalla cima di una montagna al mattino; con uno sforzo di volontà, quell’uomo aveva scacciato il sonno e il beneficio del riposo. La capacità di concentrazione era tornata con ogni parola pronunciata negli ultimi cinque minuti: l’intonazione era diventata più chiara, l’attenzione ancora più decisa. Il signor Barnett annotò l’ora, osservò l’espressione sul volto del signor Burden nell’ombra e interpretò quel segnale come un segno di comprensione del suo piano. Credo che abbia esagerato nell’attribuire capacità intellettive al proprio ospite e collega.
+
+Prese il cappello dal tavolo e se lo mise con fermezza e solennità sulla testa, come era sua abitudine prima di lasciare una stanza; poi prese il suo bastone, la cui impugnatura era fatta di piombo ricoperto d’oro; si infilò un grande cappotto di pelliccia e, così preparato, uscì dal salotto andando nell’atrio. Lì, con grande enfasi, disse buonanotte.
+
+Cosmo non solo gli aprì la porta, ma appoggiò anche la sua mano destra sulla sua spalla, per offrire sostegno a un uomo più anziano e forse più indebolito di lui. Così sostenendolo, scesero insieme lungo il vialetto, fino al punto in cui, all’ingresso, si trovava la carrozza elettrica che proiettava grandi coni di luce nell’aria densa delle prime ore del mattino: era la prima in [[London|Londra]] ad avere sulle sue fiancate un piccolo stemma araldico.
+
+Mentre camminavano, il signor Barnett parlò due volte. La prima cosa che disse fu: “Dovreste farvi portare qui con l’auto, così la carrozza potrebbe arrivare. Non ha senso se la carrozza non può venire.” Dopo aver detto questo, un rapido processo di pensiero lo portò a cambiare argomento e continuò: “Vostro padre è un uomo molto strano.”
+
+Anche se Cosmo aveva ricevuto un'educazione molto più ampia di quella di suo padre, conservava ancora, forse ereditariamente, quelle convenzioni che avevo già condannato. Sentì il rossore salirgli sul viso; ma l'oscurità lo nascondeva, e la sua conoscenza del mondo gli permise di riprendere subito l'equilibrio.
+
+“Starà bene,” disse allegramente. Aprì la porta della carrozza (non senza i ringraziamenti del suo capo) e sistemò con cura una stuoia calda intorno alle ginocchia di Mr Barnett. Il giovane in livrea, assunto appositamente per questo compito, stava lì in piedi, con un atteggiamento sonnolento ma rispettoso. Poi si salutarono la buonanotte, e l’ultima parola che Cosmo sentì quella sera mentre tornava verso casa fu la parole “Hôme”, pronunciata da Mr Barnett al suo servitore con tono autoritario.
+
+Quando Cosmo rientrò in casa e si avvicinò, con grande riluttanza, alla stanza la cui atmosfera sembrava ancora pervasa dal senso del fallimento, scoprì che suo padre era andato a letto, e ne fu sollevato; perché, come la maggior parte degli uomini saggi, confidava per metà della sua fortuna nell’influenza del sonno altrui.
+
+Se gli effetti di un malinteso o di una lite fossero immediati, con quanta rapidità si svilupperebbero le tragedie del mondo! Con quanta certezza si potrebbero prevedere, e forse anche evitare, i momenti più tragici di una sfortuna.
+
+Se le cose procedessero passo dopo passo in modo logico, quali storie semplici popolerebbero il mondo. Allora davvero l’epico e il lirico, che cerchiamo costantemente nella narrativa, ci distoglierebbero dalle faccende quotidiane della nostra vita reale.
+
+Ma il mondo reale che ci circonda, quel mondo di cui spetta a me descrivere un angolo specifico, non è organizzato in quel modo. Un crimine, un errore di calcolo producono conseguenze, non immediate ma definitive. I sospetti confermati, le liti che forse portano al punto della violenza, sembrano piuttosto radicarsi nella mente e lì svilupparsi, piuttosto che dare immediatamente i loro frutti; per cui, quando arriva la catastrofe, questo avviene solitamente in un momento insignificante e quasi sempre inaspettato.
+
+Quindi è stato attraverso ciò che posso solo definire la tragedia di mio amico che.
+
+Era inevitabile che, quando la sua mente equilibrata, stretta e serena si sarebbe finalmente trovata di fronte alla potenza vasta e incontrollabile del signor Barnett, dolore acuto e probabilmente sfortuna ne sarebbero derivati. Quell’incontro sfortunato con il signor Abbott e il ritardo di alcune ore avevano portato quelle due menti a confrontarsi direttamente; e un momento molto grave era trascorso. Ma così sono fatti gli uomini: quell’esperienza, in quel momento, non produsse alcun effetto concreto. Una lunga notte di sonno e le attività del giorno seguente furono sufficienti a offuscare i ricordi di quella situazione. Non è forse Seneca a dirci che il nostro giudizio stesso viene influenzato da quello altrui? Il carattere pubblico del signor Barnett riacquistò il suo posto nella mente del signor Burden. Molti giorni trascorsi nel suo lavoro, un improvviso cambiamento del tempo, un piccolo ma fortunato investimento, una lite molto accesa con la sua cuoca, che chiese e ottenne immediatamente le dimissioni. Queste cose, buone o cattive, contribuirono presto a far vedere la sfortuna causata dalla visita del signor Barnett nella giusta prospettiva. Non produssero alcun risultato visibile, certamente nessuno spiacevole; ciò che accadde fu che il signor Burden divenne ancora più suscettibile a ulteriori irritazioni e iniziò a fraintendere sempre di più ciò che lo circondava, fino a quando, infine, una grande sfortuna si abbatté su di lui, apparentemente a causa dell’incidente più banale. La fiducia che aveva in se stesso era stata erosa; rimaneva soltanto il guscio esterno. E bastò un semplice tocco per farla crollare. Ma, per il momento, la sua fede rimase salda.
+
+Inoltre, se il signor Burden fosse stato propenso ad lasciarsi influenzare da quell’incidente, solo gli sforzi di Cosmo avrebbero potuto dissipare tale tendenza. Tornava a casa regolarmente, ogni giorno; intratteneva suo padre con mille storie diverse. Solo dopo una settimana permise che una lettera riguardante gli affari della Compagnia finisse sotto gli occhi dell’anziano. Quando arrivava una simile lettera, faceva in modo che fosse soltanto un breve messaggio di congratulazioni da parte di un gentiluomo di campagna, un conoscente lontano, un uomo molto ricco ma completamente ignorante riguardo alla Delta e a molte altre cose; un uomo che, nel caso tutto andasse bene, sperava di diventare azionista della Compagnia, e lo esprimeva molto calorosamente nella sua lettera a Norwood.
+
+A intervalli di diversi giorni, venivano sul suo tavolo dettagli relativi agli affari, di poco conto ma che gradualmente risvegliavano in Mr Burden l’interesse di un tempo; in seguito pranzò con Mr Harbury e incontrò un’attrice americana molto affascinante, la direttrice della Banque des Pyrénées, Lord John Mackintosh e sua moglie, nonché Lothingbury Grail, un gentiluomo che aveva scritto poesie. Parlarono d’arte.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_03" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
@@ -4258,6 +5956,34 @@ I would I had the space or leisure to deal at further length with this remarkabl
 
 His interesting personality has detained my pen too long, I must return to Mr Burden entering the Great Room, where he should find his colleagues on the day when the Prospectus in its final form was to be passed for Press.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Una settimana dopo, Cosmo e lui pranzarono con Lord Benthorpe al club di Cosmo; il giorno seguente, mentre camminavano di buon umore verso la [[City|Città]], incontrarono per caso lo stesso signor Barnett, fresco di mattina e nel più cordiale degli stati d’animo.
+
+E tutto questo mentre, intorno a Mr Burden, sui giornali, nelle conversazioni delle persone, l’immagine del M’Korio cresceva sempre di più. La stagione continuava, i dibattiti in Parlamento languivano, il caldo aumentava. E lo spirito di quel grande fiume africano scorreva nelle vene di [[London|Londra]].
+
+Il prospetto fu redatto; si tennero molte conversazioni brevi e poco conclusive; insomma, attraverso tutte quelle piccole procedure preliminari necessarie per un'impresa grande e importante, il signor Burden tornò ad abituarsi alla routine che conosceva. Il suo interesse attivo riemergette. Ma in profondità nel suo animo persisteva una sorta di cupa malinconia che non riusciva a essere scacciata.
+
+La lotta tra queste due forze: la sua fatale mancanza di comprensione da un lato, e il suo ardente e patriottico orgoglio dall’altro, è stata finora l’argomento principale delle mie riflessioni. Ahimè, ora la vittoria della prima di queste forze dovrà portare inevitabilmente al mio destino finale!
+
+Il signor Burden permise ai suoi colleghi di occuparsi dei dettagli necessari, anzi fu felice che si occupassero di una simile incombenza noiosa. La registrazione della società, la ricerca di broker, banchieri e avvocati avrebbero interferito con ciò che lui considerava sinceramente i propri compiti principali legati al proprio lavoro.
+
+Era profondamente grato che non si parlasse più del signor Abbott; ma questa gratitudine derivava dal sollievo, non dalla speranza di una vera liberazione. Sapeva che quel giorno inevitabile sarebbe arrivato, e ne aveva paura. Si consolava facendo congetture; cercava di dimenticare che la sua grande amicizia si era trasformata in uno strumento, uno strumento capace sia di ferirlo che di aiutarlo.
+
+Vortici di incertezza si agitavano nella sua mente. I banchieri erano altrettanto affidabili della Banca d’[[England|Inghilterra]], i broker godevano di grande rispettabilità, il solo nome degli avvocati sembrava far parte della Costituzione; ma tutte queste cose non facevano altro che aggravare la sua confusione: a lui sembravano rappresentare allo stesso tempo l’[[England|Inghilterra]], eppure anche qualcosa di diverso dall’[[England|Inghilterra]]. Era come se a una persona venisse data un dipinto incorniciato in un telaio solido e familiare, adatto a contenere il ritratto di suo padre, e poi appeso davanti al suo tavolo; ma all’interno di quel contesto, l’immagine continuava a cambiare costantemente: ora spaventosa, ora malvagia, ora grottesca, ora semplicemente irritante, sempre un incubo di discordia. In questo stato d’animo arrivò il giorno decisivo: quello in cui gli fu chiesto di recarsi negli uffici nuovi per ascoltare la lettura del prospetto e dare infine il via alla sua stampa.
+
+Gli uffici nuovi si trovavano in Broad Street. La loro posizione l’ho descritta in una parte precedente di questo libro; forse la maggior parte dei miei lettori conosce già la loro magnificenza. Basta ricordare i due leoni in gesso che sorvegliano la scalinata, simboli, si dice, della maestosità della nostra razza; il nero splendido, alto quanto naturale, che regge la lampada nella galleria centrale, vestito a metà del corpo con una cintura di piume di struzzo – il cui anello bianco, sullo sfondo scuro della sua pelle, faceva risaltare ancora di più la fila di denti sorridenti e gli occhi particolarmente evidenti. Quest’opera d’arte, che il signor Barnett aveva accettato molto tempo prima in cambio del pagamento di un debito, era già familiare a [[London|Londra]]: ne si potevano vedere piccole riproduzioni nelle botteghe dell’West End; erano i simboli dei M’Korio. Gli interni erano degni di tale arredamento. Le porte delle stanze principali erano in quercia; le targhe e le serrature erano in bronzo dorato al gusto di Maria Antonietta, incise e reversibili. Per i promotori era un motivo di orgoglio che nessuna delle due serrature fosse esattamente uguale all’altra. Un grande gatto nero maschio, con un collare d’argento intorno al collo, aggiungeva un tocco di intimità domestica; era già noto in tutta la Gran Bretagna grazie alle descrizioni che ne facevano i giornali quotidiani. Il tutto veniva completato da un portiere, il quale non avrebbe potuto essere più adatto a servire un sovrano armato, sia a [[London|Londra]] che a Berlino.
+
+Il portiere della società immobiliare M’Korio’s Delta Development Co.
+
+#Un gruppo di persone
+
+Quest'uomo era un protestante svedese; alto esattamente sei piedi e sette pollici, aveva i capelli di colore biancastro, gli occhi di un blu sbiadito, il viso pallido e giallastro. Per quanto riguarda l'intelligenza, sebbene non fosse scarseggiante, la sua riflessione era tale da adattarsi perfettamente alle caratteristiche del suo lavoro; inoltre, nemmeno le lunghe ore trascorse sotto lo sguardo del pubblico all’ingresso principale riuscivano a stancare la fermezza della sua mente. Orgoglioso della propria uniforme, soddisfatto dello stipendio, con modi e dimensioni imponenti, rappresentava una ulteriore e definitiva dimostrazione dell’intuizione di Mr Barnett riguardo a quegli elementi che contribuiscono al successo delle energie di una nazione imperiale.
+
+Se solo avessi avuto lo spazio o il tempo necessari per trattare più ampiamente di questa figura straordinaria e semplice. Infatti, molto prima della morte del signor Burden, avevo intenzione di dedicare alle descrizioni della vita e del carattere di questo portiere tutta quella abilità letteraria che ora è stata deviata verso un altro scopo, molto più grave, e temo anche più monotono. Avevo intenzione di raccontare con precisione la sua storia: come, naufragato nei dock di Londra, questo alto scandinavo fosse riuscito a ottenere un lavoro come guardia di sicurezza; come, abbandonando il proprio corpo di guardie a causa dei bullismo subito dai suoi compagni, fosse entrato nella Polizia Metropolitana. Licenziato da questa forza per ubriachezza, era diventato addetto al servizio di ristorazione in un music hall, ma la sua grave debolezza muscolare, tipica di uomini del suo tipo, lo rendeva presto inadatto a quel lavoro; infine, mentre fingeva di essere un gigante in una fiera – posizione che gli garantiva almeno il cibo necessario – fu tentato di rompere il contratto alla prospettiva di guadagnare di più. Su esortazione dello stesso signor Barnett, fuggì di notte, accettò il servizio e l’uniforme della compagnia M’Korio, e così raggiunse la vetta della sua carriera.
+
+La sua interessante personalità ha trattenuto la mia penna per troppo tempo; devo tornare al momento in cui il signor Burden entra nella Grande Sala, dove dovrebbe incontrare i suoi colleghi nel giorno in cui il Prospetto, nella sua forma definitiva, verrà inviato alla stampa.
 
 
 
@@ -4298,6 +6024,42 @@ Mr Harbury had not got very far into the body of the work when Lord Benthorpe st
 
 Mr Harbury was evidently interested, and asked Mr Burden’s opinion. Mr Burden, who had been lost in thought, gazing at the great map of the M’Korio Delta that hung on the wall, patched with yellow for gold and with grey for coal, looked round somewhat flurried, and said that he had nothing to say.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Burden aveva svolto un ruolo di grande rilievo nel mondo. Negli anni ’80 era stato sceriffo; aveva ricoperto la carica di tesoriere della Bowmakers’ Company, durante la quale aveva redatto il progetto per istituire una nuova cattedra di Religioni Comparate a Dublino, una città che aveva urgentemente bisogno di ampliare le proprie conoscenze su Dio; era stato chiamato come testimone onorato davanti a molte commissioni reali e aveva fatto parte del comitato incaricato dell’adeguamento delle tasse portuali; negli ultimi anni aveva anche goduto dell’onorevole titolo di Giudice di Pace. E proprio otto mesi prima, durante la cena organizzata dalla Mansion House, era seduto tra il Cancelliere dello Scacchiere dell’epoca e un altro membro del Gabinetto il cui nome non ricordo.
+
+Pertanto, non era affatto estraneo alla nobile solennità con cui onoriamo le azioni dell’Impero; era abituato alle scene e alle personalità che accompagnano il corso del nostro Destino.
+
+Man mano che si addentrava sempre di più nella complessa struttura che regola il corso di quel destino, la sua mente semplice non riusciva più a comprenderne la natura.
+
+Ho descritto a sufficienza il vortice di emozioni contrastanti in cui la sua anima era stata trascinata; tuttavia, quel vortice deve continuare ad apparire in questa breve storia della sua fine, perché senza un minimo di comprensione per le sue terribili sofferenze, si potrebbe trasmettere un’immagine completamente falsa alla sua vera natura. Lui non riusciva a capire.
+
+Deve essere così. Il passato e il nome di uomini del genere sono necessari per lo sviluppo; ma lo sviluppo e i nuovi tipi di responsabilità li distruggono. Senza dubbio, Venezia nel XVI secolo, la Spagna nel XVII, l’Olanda nell’XVIII secolo furono costrette ad utilizzare, e a distruggerli nell’utilizzarli, ciò che era stato il loro carattere più nazionale. Fu il prezzo che dovettero pagare per la gloria variegata che riuscirono poi a realizzare. So che mio amico fu una vittima necessaria; ma era pur sempre mio amico. La sua sorte mi commuove profondamente.
+
+Riflettete su di lui, qui in questa grande stanza moderna: per lui era davvero un luogo di tortura.
+
+Lui e loro stavano terminando il loro lavoro. Quel giorno sarebbe stata posata l’ultima pietra; tuttavia, lui era più lontano che mai dal riposo.
+
+Lui e gli altri tre uomini davanti a lui erano ora impegnati nel lavoro concreto di creare una nuova provincia. La dignità di un’occasione del genere avrebbe dovuto toccarlo (pensava) in modo più profondo rispetto ai suoi colleghi, i cui ambienti di vita erano stati completamente diversi. Ma ahimè! Un senso di insicurezza, estremamente convincente e confondente, privò quell’importante momento di ogni traccia di solennità. Nella sua mente, realtà e irrealtà si mescolavano continuamente. Il mondo, che fino ad allora gli era sembrato così familiare, diventava sempre più estraneo a lui, con ogni ora che passava. La sensazione di imbarazzo che provava in presenza di Mr Barnett; la certezza che Mr Barnett fosse un genio e il creatore dell’[[England|Inghilterra]]; l’ammirazione naturale per l’esperienza di Lord Benthorpe; il fenomeno sorprendente per cui Lord Benthorpe si comportava comunque in modo passivo. Tutte queste contraddizioni gettavano la sua mente nel caos.
+
+Ricco di un lamento vecchio e logoro, quasi simile alla disperazione, lo fece sedere stancamente sulla sedia vuota riservatagli. Si trattava di quel tipo di sedia conosciuto nel settore come “Dutch Mediæval Easy”: realizzata in hickory americano trattato in modo da assomigliare all’antico quercio inglese, e splendidamente rivestita con una tappezzeria verde che imitava la pelle spagnola.
+
+Notò il volto tranquillo e imponente di Mr Harbury; l’aria un po’ nervosa ma disinvolta di Lord Benthorpe; soprattutto, la figura imponente ma mal vestita di Mr Barnett, seduto in modo casuale, chino sui fogli sparsi davanti a lui; e nel suo cuore gemette, ricordando che la sua fortuna era in pericolo, l’amicizia della sua vita era a rischio, e quella situazione senza speranza di malintesi continuava.
+
+Come al solito, fu il signor Harbury ad parlare per primo; come al solito, parlò velocemente e chiaramente.
+
+“Credo, signori,” disse, “che non ci sia molto da fare. Come sapete, i Payleys si occuperanno delle nostre questioni finanziarie; Charles & Charles svolgerà naturalmente il lavoro legale per noi. I direttori, penso, li conosciamo già.” Sorrise mentre lo diceva: un sorriso leggero e convenzionale che apparve sul volto di Lord Benthorpe, ma scomparve immediatamente da quello di Mr Burden. “Tutto ciò che dobbiamo fare è rileggere per l’ultima volta il prospetto finanziario.” Sospirò, e seguì un momento di silenzio. Poi si rivolse a Mr Burden, dicendo: “Forse Mr Burden potrebbe suggerirci qualcosa.”
+
+Il signor Burden aggrottò la fronte con solennità. Quante volte, davanti al suo tavolo da colazione, mentre apriva le lettere del mattino, non si era imbattuto in documenti del genere, in prospetti, i “mattoni e le pietre” su cui poggiava la sua attività imprenditoriale! Quante volte li aveva tenuti davanti a sé, esaminandoli con attenzione attraverso i suoi occhiali da vista d’oro. Quanto raramente era stato ingannato dal falso; quanto raramente aveva disprezzato la verità. I suoi investimenti non erano stati molti: l’ampliamento della sua attività aveva assorbito la maggior parte dei suoi risparmi. Ma gli affari che aveva intrapreso erano abbastanza sicuri. Ricordava solo un caso in cui tutto era andato storto, e questo non a causa di errori da parte sua o del suo consiglio di amministrazione: era stato il Ministero degli Esteri, come al solito, ad aver mancato di intervenire con decisione, permettendo così ai furfanti degli Alemami di Yollabù di tradire le sue promesse più solenni. Su tutte queste cose il signor Burden rifletté in un silenzio confuso; poi disse, con quel tono misurato tipico di una persona d’affari:
+
+“Non ricordo nulla che debba essere modificato, signor Harbury… nulla di sostanziale, in ogni caso.”
+
+Il signor Harbury suggerì che dovessero leggere immediatamente la bozza del prospetto informativo e che, se a qualcuno di loro fosse venuto in mente qualcosa, doveva menzionarlo subito.
+
+Il signor Harbury non aveva ancora letto molto del testo quando Lord Benthorpe lo interruppe alla parola “sfruttamento”. A lui sembrava una parola strana, e aveva l’impressione che significasse qualcosa di ingiusto o oppressivo. Sperava che un simile tono non rovinasse l’effetto positivo del prospetto.
+
+Il signor Harbury sembrava interessato e chiese l’opinione del signor Burden. Il signor Burden, che era immerso nei suoi pensieri e fissava la grande mappa del Delta di M’Korio appesa al muro – sulla quale i colori giallo rappresentavano l’oro e il grigio il carbone – si guardò intorno con un po’ di imbarazzo e disse che non aveva nulla da aggiungere.
 
 
 
@@ -4347,6 +6109,50 @@ When he had finished reading, he smoothed the papers out, gathered them up, and 
 “Not once or twice,” as someone says somewhere, “in our rough island story, the path of duty was the road to glory.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lord Benthorpe suggerì la parola “sviluppo”, ma il signor Harbury fece notare che quella parola compariva già all’inizio del documento, nella frase “M’Korio Delta Development Company”.
+
+“Lord Benthorpe mormorò…”
+
+“Vero, vero.”
+
+Dopo circa dieci minuti di discussione, fu deciso di mantenere la parola “sfruttamento”.
+
+Tali sono i limiti di un libro moderno: è impossibile per me riportare per intero ogni commento fatto durante questa storica riunione. Abbandono questo tentativo con riluttanza. Tanti sottili sfumature di significato furono discussi tra questi quattro uomini; i loro diversi caratteri entrarono in gioco in modo così potente; apparvero molti aspetti delle forze che contribuiscono alla formazione di nuove colonie. Il soggetto possiede quindi un fascino irresistibile per lo scrittore, e probabilmente anche per il lettore di questa cronaca. È un fascino al quale ognuno di noi deve resistere, ciascuno nel proprio ambito.
+
+In breve, per menzionare solo le questioni più importanti: la parola “but” nella quinta riga è stata sostituita con “and”; la parola anglosassone “employee” è stata utilizzata al posto di “employé” usato dal tipografo; e (un esempio molto evidente della capacità del signor Barnett di comprendere i sentimenti del pubblico), la parola “lagoon” – sebbene ormai familiare alla popolazione dell’Isola negli ultimi due mesi – è stata sostituita con “lake”.
+
+L'intera discussione non richiese più di un’ora e mezza del loro tempo; al termine, il signor Barnett chiamò un servitore. Era quell’uomo di grande generosità che avevamo già visto: un gigante gentile e disponibile, che portò vino e panini su un vassoio. I quattro uomini mangiarono e bevvero, concedendosi per un momento una pausa dalle discussioni lavorative e affrontando argomenti più leggeri. Il signor Barnett concesse soltanto tre quarti d’ora a questo piacevole interludio: chiamò di nuovo, e la discussione riprese. Esaminarono attentamente tutti gli punti precedentemente concordati, cancellarono una virgola dopo le parole “il gioiello più brillante” e aggiunsero un punto fermo dopo “nella corona britannica”.
+
+Finalmente, man mano che il pomeriggio avanzava, uno di loro si alzava di tanto in tanto, si avvicinava alla finestra con le mani in tasca e guardava fuori, oppure si dirigeva verso il camino e si appoggiava allo stipite, fissando lo specchio sopra di esso. Di tanto in tanto, conversazioni di natura più generale riuscivano a alleviare la tensione e lo stress legati a quella loro impegnativa attività. Lord Benthorpe ebbe una piuttosto interessante discussione con il signor Harbury riguardo al valore del sistema postale intercoloniale, mentre il signor Burden dormì, forse per cinque o sei minuti, verso la fine del pomeriggio.
+
+Tuttavia, entro le quattro del pomeriggio non c’era più nulla da decidere, e il signor Barnett suggerì di rileggere l’opuscolo per l’ultima volta, così da avere un’ultima opportunità di discutere eventuali questioni che fino ad allora non fossero venute in mente a nessuno.
+
+Fuori, in Broad Street, uomini passavano avanti e indietro; la maggior parte di loro alzava lo sguardo verso quella grande finestra. C'erano molti tra loro che erano i più astuti e i più saggi, e molti anche che provavano invidia per quel piccolo gruppo all’interno; persino la folla comune, quella che riempie il vicolo tortuoso a metà giornata, sentiva il fascino di ciò che stava accadendo dietro quelle mura.
+
+C'erano alcuni entusiasti casuali – democratici vaghi e tardivi provenienti da un'epoca precedente – che provavano un improvviso furore al pensiero che poteri malvagi e invincibili stessero, in quella stanza lassù, forgiando le catene che avrebbero legato un nuovo paese. Per loro, i nomi di Benthorpe e Burden erano sinonimi di demoni spietati; oppressori dell’umanità, ma oppressori di un genio così straordinario da rendere l’umanità completamente impotente di fronte al loro potere.
+
+Sul tetto di un autobus che passava, un padre di nome Bailey disse a suo figlio, seduto accanto a lui:
+
+“Vedi quella finestra? Lì si trovano gli uffici dei M’Korio.”
+
+Scosse la testa saggiamente e disse:
+
+“È una cosa molto importante,” disse, e l’espressione sul suo viso era al contempo illuminata e reverente; quella di un fedele devoto davanti al santuario di qualche divinità. Il ragazzo, indifferente come tutti i ragazzi lo sono verso le religioni, rispose semplicemente “Oh”, e l’autobus proseguì la sua corsa.
+
+Anche i poliziotti e gli altri uomini poveri, che forse non avevano alcuna parte in queste cose elevate, provavano timore per ciò che stava per accadere. I venditori ambulanti e i ragazzi che distribuivano i giornali, appartenenti a una classe in cui le questioni finanziarie venivano dimenticate, ricordavano comunque l’[[England|Inghilterra]] e provavano un certo orgoglio per l’iniziativa intrapresa da quei quattro uomini; oggi, infatti, non esiste nessuna grande [[City|>città]] al mondo, se non l’[[London|Londra]], in cui ogni cittadino possa dimenticare l’invidia e le differenze di ricchezza nell’entusiasmo per il patriottismo.
+
+Nel frattempo, il signor Barnett, all’interno, stava leggendo il prospetto per l’ultima volta, e, se ricordo bene, per la quinta volta.
+
+Tenne il foglio fermo sul tavolo con il peso della sua grande mano sinistra, e lo lesse con estrema attenzione; il tono della sua voce era enfatizzato dal leggero accento gutturale e dalle vocali aperte, che erano gli unici segni della sua esperienza all’estero.
+
+Era una caratteristica sua – comune alla maggior parte degli uomini dal carattere dominante – non tollerare alcuna interruzione: un commento casuale del signor Harbury, un’esclamazione di Lord Benthorpe venivano completamente ignorati. La sua voce, che procedeva lentamente, parola dopo parola, o si fermava bruscamente alle pause, superava senza problemi le osservazioni degli altri uomini, schiacciandole come una grande pietra rotolante schiaccia i mucchi di terra al suo passaggio. Aveva anche in questo qualcosa in comune con quella pietra rotolante: il suo ritmo era costante. Non enfatizzava alcuna sillaba; ogni lettera veniva pronunciata chiaramente – al contrario dell’uso moderno dell’inglese. E questo, in parole come “undesirability”, “advantageous” o “irrecognisable”, produceva un effetto sia ricco che strano.
+
+Quando ebbe finito di leggere, sistemò i fogli, li raccolse e sospirò, come se qualcosa fosse stato completato con successo. Si alzò, così come gli altri tre; si potrebbe dire che uno dei giorni più importanti della recente storia del nostro paese era giunto gloriosamente alla fine.
+
+“Non una o due volte,” come qualcuno ha detto da qualche parte, “nella nostra difficile storia di isola, la strada del dovere è stata la via verso la gloria.”
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="Emmanuel Burden, Merchant — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
@@ -4379,6 +6185,34 @@ There were perhaps a dozen incidents of this sort which Mr Burden could not fit 
 On the 19th the allotment was declared. On the morning of the 21st, though no sales had taken place, the anxious informal bidding, which went on in the house, and afterwards in the street, and even privately between individuals (rigorously as etiquette forbids such things) was offering two and one-sixteenth, two and one-eighth, two and a quarter before evening. The prices began to be talked of, and the selling to be regular within three days; and the price then was over four. The shares rose with the steady movement of a balloon, up on an accelerating curve; “M. D. D.’s.” changing hands with such rapidity, that it was no longer possible to come to any conclusion with regard to the individual motives of the more important buyers and sellers. The pace was the pace of a crusade. As religions take men or the enthusiasms of war, so the public had come to believe in themselves and the M’Korio; in what they could do with the new province. They saw the Delta already drained, already mined — as it will be mined and drained — they saw that the nominal capital of this new company was the petty ransom of a great kingdom in the future of [[England]]. By Wednesday, the 26th, the shares were at seven.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO X
+
+Esiste un mandato che incarica le nazioni elette di governare sulla terra in qualità di viceré della Divinità. Questo mandato è stato trasmesso a popoli così separati dal punto di vista del tempo e delle usanze da rendere difficile percepire la loro unità essenziale; tuttavia, tale unità esiste davvero. Il processo attraverso il quale si raggiunge il dominio viene chiamato con nomi diversi: sono i nomi, e non gli eventi stessi, a ingannarci; sono soltanto i nomi a creare un’illusoria sensazione di cambiamento. Inizialmente, forse, si trattava di una vaga lealtà verso la tribù, delle incursioni e degli insediamenti; successivamente, è emerso l’intenso amore per una [[City|città]] e i suoi dèi, la difesa vittoriosa, l’espansione, la conquista e l’organizzazione di territori al di là dei confini. Karl Unterwassen inverte quest’ordine; si tratta comunque di un dettaglio di scarsa importanza.
+
+Oggi la registrazione della società, l’affitto degli uffici, il prospetto finanziario e la quotazione in borsa rappresentano le fasi successive di attuazione di tale incarico. Di tutte queste operazioni, quella che spetta alla Corona è l’assegnazione delle risorse.
+
+La M’Korio Delta Development Company ha aperto le liste di sottoscrizione il 9 luglio. Entro le quattro del pomeriggio del 10 luglio tali liste sono state chiuse e l’intero capitale necessario per la realizzazione del progetto è stato sottoscritto; non si sa esattamente quante volte il capitale richiesto sia stato effettivamente raccolto.
+
+Il giorno dopo iniziò la distribuzione.
+
+Coloro tra i miei connazionali che si sono impegnati attivamente nella costruzione dell’Impero capiranno cosa intendo quando dico che l’assegnazione delle risorse rientra tra le compiti più ardui che il nostro paese ci richiede. Coloro che non si sono impegnati in modo attivo nell’espansione della nostra civiltà (“anche coloro che semplicemente stanno ad aspettare servono”) devono considerarlo un diritto acquisito.
+
+È necessario esercitare grande attenzione e giudizio! Non deludere coloro che hanno influenza o potere; non allontanare la massa dei piccoli sottoscrittori – poiché questa massa rappresenta l’Opinione Pubblica. Non offendere il proprietario di un grande giornale. Ma allo stesso tempo, non offendere nemmeno il direttore, l’editore, o a volte persino il tipografo che lo stampa. Bisogna tenere conto dei vantaggi derivanti da una nobile origine o da una lunga tradizione politica di queste persone. E ricordare – a volte solo all’ultimo momento – che un certo nome, apparentemente insignificante, può rappresentare in realtà qualcosa di molto più importante. Bisogna considerare anche l’influenza di questi sottoscrittori: alcuni appartengono alla stessa religione delle persone con cui si interagisce; altri sono rispettati per la loro onestà; ancora altri sono apprezzati per la loro abilità nell’intrigo. La monarchia, ad esempio, rappresenta un elemento permanente nella nostra vita inglese. Così come l’esercito. I politici, alcuni dei cui nomi verranno ignorati dal pubblico, devono comunque essere valutati con precisione: il loro potere come manager e leader deve essere stimato correttamente. Anche gli stranieri hanno il loro ruolo importante. Il sovrano straniero o il negoziatore estero possono influenzare in modo decisivo gli eventi; un errore involontario può trasformarli da alleati in nemici della nostra amata nazione.
+
+È, dico io, un compito di terribile responsabilità; in esso, un uomo può, in pochi momenti, contribuire più di quanto possa fare in qualsiasi altro ambito della vita moderna a promuovere o ostacolare i disegni della Provvidenza.
+
+Il lavoro continuava. Tre ore, quattro ore, a volte anche cinque. Il secondo giorno, il signor Burden quasi crollò; Lord Benthorpe, invece, fu assente per due giorni di fila a causa della stanchezza estrema. Anche il signor Harbury ne risentì: gli comparvero delle occhiaie scure e camminava con evidente affaticamento. Solo il signor Barnett sembrava davvero rinvigorito da tale intensa dedizione al lavoro.
+
+Il pubblico fuori si lamentava; nulla poteva essere fatto fino a quando non veniva annunciata l’assegnazione. Si sarebbero lamentati meno se avessero visto il lavoro intenso di quei dieci giorni: ogni mattina, un gran numero di lettere veniva classificato, l’elenco dei nomi redatto, e con la massima trasparenza commerciale ogni singola domanda veniva esaminata da ciascuno dei direttori.
+
+Al quinto giorno, la testa di Mr Burden era “scomparsa”, e l’assenso di Lord Benthorpe era diventato meccanico, senza alcun significato reale. Al contrario, Mr Barnett diventava sempre più ansioso e preciso man mano che il lavoro procedeva. Prima della fine del sesto giorno, soltanto il suo cervello era ancora in grado di valutare quella montagna di documenti. E fu una fortuna, perché nei quattro giorni rimanenti doveva essere completata la parte più delicata del lavoro. Tuttavia, a Mr Burden capitò di notare uno o due dettagli strani che lo preoccuparono: il canonico Cone non aveva inviato nessun assegno. E Mr Barnett si assunse la responsabilità di quella questione. Il maggiore Pondo, che Mr Burden aveva sempre considerato un uomo povero e avventuroso, chiese di acquistare quindicimila azioni. Mentre il segretario di quel politico che aveva sempre denunciato con insistenza gli aspetti finanziari della nostra espansione coloniale ne chiese diecimila.
+
+Forse ci furono una dozzina di incidenti del genere che il signor Burden non riuscì a spiegare in base a quanto conosceva del mondo. Ma il lavoro era troppo pressante e richiedeva troppa attenzione per lasciargli energie da dedicare a commenti, o anche solo a esitazioni. Tutte queste discrepanze ebbero su il signor Burden l’effetto di fargli dubitare della propria capacità di giudizio, e di fargli considerare la società che lo circondava più complessa, e forse anche più pericolosa, di quanto avesse immaginato.
+
+Il 19 fu annunciato l’assegnazione delle quote. La mattina del 21, sebbene nessuna vendita fosse ancora avvenuta, le offerte informali e frenetiche che continuavano all’interno della casa, poi in strada, e persino privatamente tra individui (nonostante l’etichetta vieta rigorosamente simili comportamenti), avevano già portato i prezzi a 2 e 1/16, 2 e 1/8, 2 e 1/4 entro la sera. I prezzi iniziarono ad essere oggetto di discussione e si prevedeva che le vendite avrebbero avuto luogo entro tre giorni; a quel punto il prezzo aveva già superato i quattro. Le quote continuavano ad aumentare rapidamente, come un pallone che sale lungo una curva sempre più accentuata; le azioni della “M. D. D.” passavano di mano con tale velocità che diventava impossibile comprendere quali fossero i motivi specifici dei compratori e venditori più importanti. Il ritmo era quello di una crociata: proprio come le religioni o l’entusiasmo per la guerra spingono le persone, il pubblico aveva iniziato a credere in se stesso e nel progetto della M’Korio, nella capacità che avevano di trasformare quella nuova provincia. Immaginavano già la Delta esaurita, sfruttata completamente, come infatti sarebbe successo in futuro. Vedevano che il capitale nominale di quella nuova società rappresentava, in realtà, un prezzo irrisorio rispetto al grande potere che avrebbe acquisito in futuro l’[[England|Inghilterra]]. Entro mercoledì 26, le quote avevano raggiunto il livello di sette.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_02" data-title="Emmanuel Burden, Merchant — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/england"></span>
@@ -4408,6 +6242,32 @@ To return to Mr Abbott.
 
 His name had not been mentioned for days and weeks, partly, of course, because every guide in this adventure, from Cosmo to Mr Barnett, was determined to give as little pain as might be to Mr Burden, the oldest and weakest of their number; and partly also because the giving of that pain (in itself, after all, only an imaginary evil), might result in the most practical of evils to the M’Korio.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+È l’ascesa più fruttuosa e più benefica di tutte. Come ha detto con grande maestria Kipling, essa “attraversa il guado”; impone la legge; sta creando un mondo nuovo e felice, che si estende dall’Irlanda occidentale fino a Pùtti-Ghâl. C’è qualcosa di terribile e misterioso in essa. Mentre si diffonde, questo credo missionario, questa determinazione e fiducia di un intero popolo, sembrano avvicinarsi molto alle “Hosts del Signore”. Lunedì 31, le azioni raggiunsero l’importo di otto e un quarto. E lì si fermarono, sospese in alto, come il genio che si erge sulle colonne dei conquistatori: immobili, scolpite nel bronzo.
+
+Non è nella natura umana – nemmeno nella nostra – sopportare questi stati d’animo per sempre senza essere turbati. Alcuni momenti di dubbio, ma non di disperazione. Forse è più giusto dire che alcuni momenti di tranquillità possono colpire anche il carattere della razza più ferma. Martedì 1° settembre, le azioni valevano sei e tre quarti; giovedì 3 settembre, erano leggermente inferiori a cinque. Ma qualcosa si risvegliò nell’anima dell’[[England|Inghilterra]]: il clero del paese lesse, sabato mattina, sul “Standard”, con un senso di emozione simile a quello che provoca il suono di una tromba, che i prezzi delle azioni M.D.D. erano saliti “oltre sette alla chiusura del mercato di ieri”.
+
+Attraverso quale approccio dovrei analizzare quell’enorme insieme di forze nazionali subconscie? Qualsiasi metodo singolo sembra rudimentale e insignificante di fronte a una realtà così complessa e travolgente. Forse è più ragionevole seguire l’andamento delle quotazioni di un certo blocco azionario. Infatti, quando grandi nazioni sono in fase di trasformazione verso la maturità, gli individui non sono altro che atomi spinti avanti e indietro dalle necessità economiche; queste necessità, a loro volta, non sono che l’espressione di una volontà storica. Sì, è meglio seguire l’andamento delle quotazioni di un blocco azionario piuttosto che quello di un singolo investitore: gli uomini passano, ma la società rimane.
+
+Prenderò in considerazione le mille azioni originariamente assegnate al cugino di primo grado del Segretario per le Belle Arti.
+
+Il 19° divenne proprietario di queste azioni, avendone pagato 250 sterline; altre 250 sterline dovevano essere versate entro tre mesi, secondo quanto indicato nel prospetto, e il resto al momento del richiesto. Queste rappresentavano soltanto una parte della sua collezione di azioni; tuttavia, parlo di questo specifico blocco di azioni a titolo esemplificativo. Il 23° scoprii che erano state acquistate dal Vescovo di Ballycannon al prezzo di tre sterline e un quarto. Il 26° il Vescovo le vendette a Lord Berpham, il quale, su consiglio del proprio avvocato, ritenne che si trattasse di un’ottima opportunità: un consiglio sincero, poiché l’avvocato era anche suo creditore e fiduciario. Il 31°, quando il prezzo delle azioni raggiunse le otto sterline e un quarto, Lord Berpham avrebbe potuto venderle, ma quel giovane, orgoglioso e sprezzante, era troppo nobile per farlo. Se le avesse vendute, avrebbe guadagnato non meno di 8250 sterline (escludendo le commissioni). Era davvero troppo nobile. Il sangue che scorreva nelle sue vene gli faceva fiducia nell’[[England|Inghilterra]]; quindi decise di aspettare un ulteriore aumento del prezzo. I miei lettori conoscono ciò che accadde dopo. Il giorno seguente il prezzo delle azioni era sceso a sei sterline e tre quarti. Giovedì, per motivi molto riluttanti – su consiglio, se non addirittura sotto pressione, dei suoi avvocati – il giovane le vendette al prezzo di quattro sterline e sette ottavi, perdendo così ben 2100 sterline, una somma che non poteva permettersi di perdere. L’acquirente era il broker Mr Zimmer, ma poiché scoprii che lo stesso Mr Barnett ne acquistò un lotto nella stessa giornata, sono certo che lui fosse il vero compratore. La mia certezza diventa ancora più fondata quando scopro che sabato mattina, il 5 settembre – mentre il prezzo delle azioni aveva raggiunto le sette sterline e mezza – Mr Barnett le vendette a Henry Bowling, noto allenatore e proprietario di scuderie inglese. Quest’ultimo, a sua volta, le rivendette alla stessa cifra a Mrs Maidstone, la quale due settimane dopo le cedette alla propria cognata, che le vendette sul mercato aperto con un piccolo sovrapprezzo. Le vedo allontanarsi nel tempo, passare di mano a quel nobile e vecchio poeta-patriota, Gaystone. Poi, come una processione triste e disintegrata, man mano che l’inverno volge al termine, quelle azioni finiscono nelle mani delle classi medie, sprofondano nel nulla.
+
+Ma il signor Burden non comprava né vendeva nulla. Era sbalordito da queste fluttuazioni, ma ancora di più dal livello costantemente elevato che le M.D.D. riuscivano a mantenere, nonostante le difficoltà che incontravano. Fortune improvvise apparivano intorno a lui, reputazioni inaspettate sorprendevano e, sebbene solo in parte, convincevano la sua mente sobria. Anche quel maggiore Pondo, il cui volto gli sembrava di averlo già visto in sogno, era ora ricco e lo incontrava con un atteggiamento disinvolto.
+
+Allora, dopo un mese di tanta violenza, lo spirito interno dell’uomo anziano, ormai privo di confusione o turbamenti, si avviò verso la sua fine, e fu continuamente invaso dalla tristezza.
+
+Una parte di esso, la più forte e la più sicura, quella che per quindici anni aveva giudicato con saggezza il suo popolo e le loro politiche, continuava comunque a diminuire.
+
+Quella parte più vecchia di lui non era così facile da zittire, né si accontentava facilmente. Qui i sospetti si erano radicati (vani sospetti immaginari senza prove, nati da una conoscenza limitata e dall’ignoranza delle cose moderne) fino a diventare come spine che lo pungevano continuamente. Iniziò a notare ogni gesto, ogni movimento degli occhi altrui. Parlava con Cosmo più di quanto Cosmo desiderasse. Una o due volte camminò da solo, senza alcun scopo, verso sud, fuori da Norwood, fino a raggiungere i campi. Una volta rimase sveglio per tutta la notte. Non provava dolore, ma il giorno dopo si trovò in uno stato di tensione terribile, simile alla follia. Una volta rifiutò, per la prima volta, un invito a casa del signor Barnett.
+
+In tale stato d'animo sprecò il suo ultimo mezzogiorno estivo. In tale stato d'animo la morte, che richiede tutta la nostra preparazione, lo trovò del tutto impreparato.
+
+Tornando al signor Abbott.
+
+Il suo nome non veniva menzionato da giorni e settimane; in parte, naturalmente, perché ogni guida in questa avventura, da Cosmo a Mr Barnett, era determinata a causare il minor dolore possibile a Mr Burden, l’anziano e il più debole di loro; e in parte anche perché quel dolore (che, dopotutto, non era altro che un male immaginario) avrebbe potuto comportare conseguenze molto reali e negative per i M’Korio.
 
 
 
@@ -4444,6 +6304,38 @@ Cosmo, rigidly dressed, and with an extreme neatness, cool in the tropical weath
 
 He sat down in a chair just opposite his father’s friend. He put down his hat upon the table with a slight, hard rap; looked Mr Abbott steadily and strongly in the eyes (an effort so unusual as to cause him positive pain), and said:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Abbott era il migliore come amico, anzi, come direttore; veniva dopo come nemico; ma il peggio di tutto era quando non era né nemico né amico, bensì qualcuno che provava disprezzo e forse influenzava segretamente un membro del proprio stesso gruppo. Lo sapevano tutti, e luglio era finito senza che venisse pronunciata una parola. Il signor Abbott stesso non aveva detto né scritto nulla; il signor Burden non si era avvicinato agli uffici del capitano della nave. Sia il signor Barnett che Cosmo erano certi che lui temesse il cammino verso quella stanza familiare; erano certi anche che non avesse incontrato il suo amico. E infatti, non l’aveva fatto.
+
+D'altra parte, né il più giovane né il più anziano di questi due “cervelli attivi” erano disposti a perdere tempo. Non rientrava nella loro logica agire con lentezza, e quel momento sembrava loro, tra tutti i momenti possibili, il meno adatto per ritardi.
+
+Il signor Abbott insistette.
+
+La sessione stava volgendo al termine. Entro una o due settimane i fagiani avrebbero iniziato a cantare, e sarebbe arrivata l’occasione per trasferire il compito di gestire gli affari legati alle colonie dal Ministero degli Esteri a quello delle Colonie; si avvicinava il momento in cui pochi uomini, indisturbati dalle necessità o dagli imprevisti della discussione, avrebbero potuto agire con determinazione per il bene di [[England|Inghilterra]]. Ma se il tempo fosse stato favorevole, il tempo stesso li spingeva ad agire. Presto i grandi editori avrebbero lasciato i loro uffici, e i dirigenti delle grandi imprese si sarebbero trovati all’estero o nelle province. Ho già accennato ai fagiani; ma in poche settimane l’ombra di qualche altro ostacolo avrebbe potuto oscurare i piani di Mr Barnett. Già molte persone della classe media si erano addormentate su spiagge di sabbia. L’ansia, un sentimento che difficilmente può turbare menti del genere, aveva iniziato ad offuscare l’intelligenza chiara e creativa di Mr Barnett.
+
+La necessità di avere il signor Abbott era assolutamente evidente.
+
+Non era solo in qualità di autorità principale tra persone ordinarie come lui (e tali persone spesso possiedono grande influenza o ricchezza; a volte anche un ruolo nel Parlamento); non era solo per il nome noto che il pubblico associava da tempo alla M’Korio Delta, né solo in quanto proprietario della Abbott Line, che si chiedeva il sostegno del signor Abbott in Broad Street. C'erano altre ragioni, ognuna apparentemente di poco conto, ma nel loro insieme rappresentavano fattori che persone come il signor Barnett non avrebbero mai trascurato.
+
+Forse, più di chiunque altro, Bowen si affidava al giudizio generale di Abbott sulle situazioni; inoltre, era lui a gestire i due gruppi assicurativi con cui la costa di M’Korio doveva ancora fare i conti.
+
+Un'amicizia, qualcosa di davvero fantastico, stava per nascere tra Abbott e il Sottosegretario Permanente incaricato dei distretti malarici. Da sola, questa amicizia avrebbe potuto non avere grande importanza un mese prima; ma con Lord Malham al comando dell’Ufficio Malarico, le cose cambiavano: lui era arrivato lì soltanto tre settimane prima (dopo lo scandalo legato ai francobolli), era timido e ancora inesperto nel suo ruolo, mentre il Sottosegretario Permanente continuava a detenere il controllo totale della situazione.
+
+Il giornale stesso di Mr Abbott, “The Keelson”, forse non aveva una grande influenza nella [[City|Città]]; tuttavia era il più antico tra i giornali del settore navale. Anche se sicuramente perdeva denaro e riceveva pochissime inserzioni pubblicitarie, veniva letto in ogni ufficio importante nelle province; cercare di boicottarlo avrebbe richiesto un costo considerevole presso la stampa di [[London|Londra]]. Stranamente, aveva acquisito una certa reputazione – almeno per le sue opinioni – in America e nelle colonie, nonostante la sua tiratura totale non superasse le duemila copie. Per noi, per Cosmo, per Mr Barnett, e per chiunque conosca bene il mondo interno, quel giornale non era altro che un foglio di carta senza valore, l’ultima moda fallimentare di un uomo ancora più ossessionato dalle mode rispetto a chiunque altro nel nostro tempo. Ma quando si ha a che fare con un pubblico di investitori composto da milioni di persone, bisogna tenere conto anche di queste mode: perché hanno effetto. Gli uomini non possono certo stampare tutto ciò che vogliono, ma possono parlare liberamente, e quelle “mode folli” finiscono per avere un impatto reale.
+
+A pranzo, due mesi prima, Abbott aveva giurato “su questo e su quello” che sarebbe entrato alla Camera dei Comuni. Non ripeterò l’oscenità delle sue parole. Quell’uomo era così spensierato che la sua determinazione poteva non significare assolutamente nulla; ma il signor Barnett sapeva, come chiunque altro, che se Abbott avesse deciso di farlo, probabilmente ci sarebbero state cinque circoscrizioni elettorali in cui gli si sarebbe immediatamente trovato un posto.
+
+Infine, c’era la questione della resistenza di Abbott. Una tale resistenza, di per sé, richiedeva cautela.
+
+E così, una mattina, senza nemmeno lasciare un biglietto per avvisare, Cosmo entrò direttamente in quell’ufficio piccolo, dove suo padre aveva vissuto il momento più doloroso della sua vita due mesi prima.
+
+Erano le undici di una mattina d’agosto e [[London|Londra]] era altrettanto calda quanto Roma. Tutto sembrava privo di energia; le strade erano stranamente silenziose; molti uffici erano deserti. Il signor Abbott sedeva, sudando profusamente, in una camicia e dei pantaloni bianchi che aveva conservato da un viaggio in Oriente. Pensava che fosse suo dovere trovarsi lì, ed eccolo lì; ma in un giorno del genere, né lui né nessun altro potevano svolgere alcun lavoro.
+
+Cosmo, vestito in modo rigoroso e con estrema cura nell’aspetto, sembrava indifferente al clima tropicale; tutto in lui trasmetteva un senso di ordine e precisione. Nei pochi mesi trascorsi nell’addestramento, aveva acquisito una notevole conoscenza delle regole del comportamento sociale e degli affari, e già mostrava le qualità necessarie per ottenere grandi successi. Con quasi qualsiasi altro uomo a [[London|Londra]], avrebbe utilizzato l’arte sottile richiesta da una strategia complessa; ma conosceva troppo bene il suo interlocutore per provare a usare tali tecniche con il signor Abbott. Anche nel mondo moderno, si incontrano persone che devono essere “spinte” ad agire in un certo modo; non sempre ci si riesce, ma esiste soltanto un modo corretto per affrontare la situazione. Ogni gesto di quel giovane era caratterizzato da determinazione e precisione: la sua energia e schiettezza risultavano ancora più evidenti, visto che fino a quel momento non aveva mai adottato un simile atteggiamento, se non forse nei confronti dei servitori.
+
+Si sedette su una sedia proprio di fronte all’amico di suo padre. Posò il cappello sul tavolo con un leggero colpo secco; guardò il signor Abbott negli occhi, in modo fermo e deciso (un’impresa così insolita da causargli quasi dolore), e disse:
 
 
 
@@ -4513,6 +6405,70 @@ Long after, at dinner that evening, he found himself muttering once or twice: �
 Far off in Norwood, Mr Burden slept.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Credo tu sappia il motivo della mia visita.”
+
+Di fronte a una semplicità così elementare come quella del capitano di nave, tutto ciò non rappresentava ancora nulla di particolare, se non un fastidio. Prese il cappello del giovane dal tavolo, allungò la mano per appenderlo al gancio dietro di sé (da dove poi cadde a terra) e disse: “No.” Mentre lo diceva, un'espressione molto sgradevole apparve sul suo viso.
+
+Cosmo si alzò, raccolse il cappello dal pavimento, lo spazzolò con il braccio, lo posò di nuovo sul tavolo e disse, con un ammirevole autocontrollo: “Tu sai tanto quanto me il motivo per cui sono venuto.”
+
+“Lasciate che la metta al sicuro per voi,” disse il signor Abbott, e allungò di nuovo la mano verso il cappello. Cosmo lo ritirò e lo tenne nella sua mano destra; anche in quel momento così strano, il signor Abbott non riuscì a trattenersi dal ridere.
+
+“Lo avrai,” disse; e il suo divertimento, per quel momento, prevalse sulla sua irritazione, al punto che Cosmo pensò per un istante se non fosse meglio approcciarsi a quella mente rozza con un altro metodo. Ma la sua formazione lo convinse saggiamente che il modo più diretto fosse anche il migliore: quello stesso con cui gli uomini addomesticano le bestie, il metodo supremo del terrore.
+
+“Sono venuto,” disse, continuando a mantenere il controllo di sé, “perché le cose non possono andare avanti così come stanno andando ora.” Fece una pausa per lasciare che quelle parole facessero effetto. “Non può continuare così, signor Abbott. Sono venuto per dirglielo francamente. Prima di lasciare questa stanza, voglio che la questione venga risolta. Non può andare avanti.”
+
+Il nome del signor Abbott mi suonava familiare.
+
+Un giovane impiegato, piuttosto nervoso, entrò e guardò intorno con ansia: il viso di Cosmo gli era sconosciuto, e ultimamente c'erano state delle discussioni.
+
+“Arthur,” disse il signor Abbott, “è venerdì o lunedì che la Patagonia salpa?”
+
+Cosmo alzò lo sguardo, con un'espressione di sorpresa sul viso; dalle letture che aveva fatto sapeva quanto spesso queste domande apparentemente irrilevanti potessero in realtà portare a qualche mossa importante.
+
+“Lunedì, signore,” disse Arthur sottovoce.
+
+“Allora potete semplicemente far mandare qui la scatola di sigari,” disse il signor Abbott in tono allegro; “gliela darò personalmente al capitano Gunn. Preferisco farlo io stesso. Anzi, se non avesse dovuto riceverla lui, l’avrei comunque inviata a bordo. Pensavo che partisse domani. Comunque sia, gliela darò io stesso. Va bene così, Arthur.”
+
+Il signor Abbott annuì e Arthur scomparve, sollevato.
+
+“Mi dispiace, Cosmo,” disse il signor Abbott, chinandosi familiarmente sopra il tavolo come un zio di secondo piano, e asciugandosi il viso con un enorme fazzoletto rosso; “mi dispiace, queste cose non hanno molta importanza, ma se non ci si occupa di loro uno per uno, capisci, ”
+
+In queste pagine ho dovuto lodare Cosmo per molte cose, così come ho dovuto rimproverarlo per alcune altre; ma di tutto, ciò che più meritava lode era il suo assoluto controllo su se stesso in quel momento. Lo sforzo derivante da quella intensa tensione era quasi impercettibile, certamente non per una natura così primitiva come quella del suo avversario.
+
+“Stavi appena dicendo, ragazzo,” disse il signor Abbott, con un tono sempre più ruvido e al contempo gentile, “che la situazione non poteva continuare così. Beh, mi dispiace. Ma puoi tradire, sai. E lo può fare anche tuo povero vecchio padre. Non è venuto a trovarmi da settimane!” Il signor Abbott scosse la testa. “Puoi tradire, sì. Certo, non so come possa sembrare. Ma puoi correre il rischio che non ci sia nemmeno un processo; oggi i rischi del genere sono abbastanza sicuri, ”
+
+Cosmo gli rispose con quella voce chiara e misurata di un uomo il cui piano è ben definito e che affronta forze altrettanto irresponsabili di quelle della natura.
+
+“Signor Abbott,” disse, “sono passati venticinque minuti da le undici; se entro mezzanotte non saprò che sta per arrivare, andrò io stesso, e i nostri piani verranno modificati di conseguenza.”
+
+“E poi la banda ha iniziato a suonare,” rispose il signor Abbott con un'elegante volgarità.
+
+Era la sua teoria – una teoria che fino ad allora lo aveva guidato in questo scambio di opinioni – secondo cui un uomo non dovrebbe mai perdere le staffe. Si lasciava travolgere dalle passioni il meno possibile: forse tre volte a settimana, al massimo cinque. In quell’occasione lottò contro se stesso; in meno di un istante accadde ciò che è inevitabile per uomini del tipo disperato del signor Abbott: esplose.
+
+“E poi la banda ha iniziato a suonare,” ripeté lui in modo un po’ incongruente, “e poi la —! —! —! banda ha iniziato a suonare!” Con ogni ripetizione, il suo viso diventava sempre più rosso, e la sua voce aumentava di tono: non molto forte, ma simile al sussurro dei rami degli alberi all’inizio di una tempesta.
+
+“E poi, la banda ha iniziato a suonare!!” (ogni aggettivo veniva cambiato). “Oh Signore, ” (battendo sul tavolo), “se solo non fossi suo figlio! E se solo non ti conoscessi da quando eri ancora quel piccolo, piagnucoloso ragazzino. Ti scaglierei fuori da questa finestra; lo farei davvero! Da questa piccola finestra laterale. Questa sporca, piccola finestra laterale. Comunque sia, non farò altro che buttarti giù dalle scale!”
+
+# E poi la banda ha suonato
+
+Verso la fine di questo straordinario discorso, la voce del signor Abbott – potente per volume, sonora e profonda come il tuono, minacciosa in ogni suo suono – scuoteva le pareti della vecchia stanza; nei nuovi uffici lussuosi, i impiegati si ritraevano spaventati, anche se non erano nuovi a simili scene.
+
+Cosmo si stava alzando; era molto pallido e la sua voce a malapena riusciva a controllarsi; ma non cedette. Fece un passo indietro e, senza guardarsi intorno, cercò la maniglia della porta. Mentre il signor Abbott sembrava materializzarsi improvvisamente dall’altra parte del tavolo. E Cosmo disse, molto rapidamente, come un cannone leggero che spara l’ultima sua pallottola, acuta e furiosa:
+
+“Allora vi escluderemo completamente.”
+
+Con l'ultima sillaba di quell'ultima frase sbatté la porta e scese di corsa le scale, dirigendosi verso la strada.
+
+Circa tre secondi dopo essere svoltato all’angolo più vicino, si udì un fragore assordante e scoppiò una tempesta nel corridoio che aveva appena attraversato; in tutti gli piani sopra c’era terrore, grandi stivali risuonavano sulle scale, e il signor Abbott, ancora con le maniche della camicia, era alla porta d’ingresso, guardando su e giù per la strada, quasi fuori di sé per la rabbia e spaventando i passanti. Si girò, ancora pieno di furia, risalì le scale a grandi passi, entrò nella sua piccola stanza e poi nelle splendide sale esterne, tutte rivestite di marmo e mogano; i suoi impiegati tremavano come colombe descritte da Virgilio. Si fermò all’ingresso e gridò loro: “L’avete sentito? Volete cacciarmi via! Eh? L’avete tutti sentito, vero? Rispondetemi!” Il povero capo impiegato rispose “Sì”, ma era una bugia. La voce del signor Abbott si abbassò leggermente, solo leggermente, come il livello del mare quando cambia marea durante una tempesta. “Ah! Allora l’avete davvero sentito. Meglio così!” Poi continuò: “Volete cacciarmi via? Charles Abbott della famiglia Abbott. Vi strapperò il collo a tutti!”
+
+Con quell’ultima minaccia patetica, impraticabile e piena di vanterie, questa massa di rumore, questo anacronismo privo di forza o valore, si chinò per passare attraverso la porta bassa, tornò nel suo rifugio sacro, prese il suo antico trono di legno e vi sedette, furioso, per un’ora intera.
+
+Molto tempo dopo, durante la cena di quella sera, si ritrovò a mormorare un paio di volte: “Lasciatemi in pace!”, e sentì il sangue salirgli al viso. Ma nel Plantagenet Club, a quattro miglia a ovest, uomini più saggi e forti stavano decidendo cosa fosse meglio fare per la famiglia M’Korio, per l’[[England|Inghilterra]], e anche per il signor Abbott stesso.
+
+Lontano, a Norwood, il signor Burden dormiva.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_01" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
@@ -4551,6 +6507,40 @@ The baronet (for Sir N. Lewison had been raised from the knighthood on the occas
 When an agreement had thus been reached, they all three re-entered the room. Cosmo joined them, and Dr Cayley, as the doyen of the faculty, took it upon himself to reassure Mr Burden. In an inaudible tone, such as the presence of an invalid demands, he gave instructions to the nurse that the patient should be kept quiet, and should not be allowed to rise until he felt completely rested. For diet they prescribed the viands and beverages which Mr Burden was in the habit of consuming, and so passed downstairs into the hall, still discussing the interesting technical aspects of his disorder, balancing, as they did so, their eyeglasses between the fore and middle fingers of their right hands — a gesture, most unconscious and natural in Dr Cayley and Mr Gamble, and so well caught by Sir Nathan as hardly to betray the effort of imitation.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XI
+
+Non stava affatto bene al signor Burden. Gli uomini inglesi forti, anche in età avanzata, non soffrono fisicamente a causa di semplici turbamenti mentali. Si trattava puramente di una coincidenza: i suoi sciocchi dubbi si erano mescolati con qualche problema fisico più serio. Ma, qualunque ne fosse la causa, in quei giorni caldi che seguirono la visita segreta di Cosmo nell’ufficio di Abbott, non stava affatto bene al signor Burden.
+
+All’inizio, un brivido, o forse una debolezza passeggera, lo costrinse a rimanere in casa. Poi perse l’appetito e mostrò un’irascibilità del tutto insolita per lui. I suoi amici erano molto preoccupati. L’onorevole reverendo Peregrine Mauclerc andò a trovarlo due volte; la seconda volta lasciò con sé un numero dell’“Spectator” contenente una lettera molto interessante scritta dal rettore sull’argomento dell’inferno o dell’aniquilazione.
+
+Non molto dopo una settimana, il signor Burden si appoggiò allo schienale della sedia, quasi svenendo; era evidente che non poteva recarsi nella [[City|>Città]].
+
+Era solo un crollo, nient'altro. Si credeva che il riposo necessario e alcuni giorni di cure a casa avrebbero riportato in salute il mio povero vecchio amico. Infatti, lui si è effettivamente ripreso, e forse sarebbe ancora con noi se non fossero stati quegli incidenti di cui devo ancora parlare.
+
+Anche se non c’era nulla di realmente grave, la ricchezza del signor Burden e l’importanza della sua salute per molte altre persone, oltre che per lui stesso, erano sufficienti per attirare l’aiuto della comunità medica.
+
+L’affetto profondo, sebbene silenzioso, di Cosmo veniva rafforzato dal fatto che la posizione sociale di suo padre, e in definitiva anche la sua stessa, avrebbe potuto trarre beneficio da un rispetto appropriato delle gerarchie e delle convenzioni sociali: infatti, ogni ora trascorsa nella società a cui il suo eccezionale intelletto gli aveva permesso di accedere, Cosmo imparava sempre meglio l’importanza dei fattori esteriori. Fu chiamato il dottor Cayley, nonché il dottor Gamble – o, come preferiva farsi chiamare, “Signor” Gamble – lo specialista. Entrambi questi medici avevano l’abitudine di tenere a disposizione alcune moduli stampati; non appena venivano chiamati al capezzale di un paziente illustre, compilavano tali moduli e li inviavano senza distinzioni di parte a tutte le principali riviste del settore. Anche Cosmo stesso, con tranquilla dignità, comunicò alla stampa l’indisposizione di suo padre nonché i nomi dei suoi medici curanti: al Morning Post, al Times, al Standard, alla St James’s Gazette, alla Pall Mall Gazette, all’Eagle, all’Orb, al Mercury, alla Star, al Daily News, al Chronicle, all’Intelligencer, al Globe e ad altre numerose testate che, per la loro importanza, pubblicano sezioni dedicate alle notizie sociali.
+
+Nemmeno il signor Barnett stava con le mani in mano. La leggenda riguardo al suo ascendente sulla stampa l’ho già smentita; ma una persona di tale rilievo nel nostro Paese non poteva essere ascoltata senza rispetto, e alcune sue comunicazioni lasciarono un'impressione profonda su molti editori che avevano già avuto modo di apprezzare la sua ospitalità.
+
+Oltre a tutto ciò, capitò che tutti i proprietari e la maggior parte dei lettori più abbienti dei principali organi di opinione fossero interessati alla questione del M’Korio Delta; così, da varie fonti e attraverso una graduale accumulazione di impressioni, forse ciascuna insignificante a sé stante, la malattia del signor Burden divenne oggetto di commenti pubblici molto seri. Apparvero brevi articoli; ci furono note compassionevoli e gentili; sul “Telegraph” fu pubblicato una bella lettera da parte di “Cantab”, mentre sul “Spectator” comparve un poema commovente: una piccola opera deliziosa la cui qualità letteraria ne costituiva soltanto una parte, e per di più non la più rilevante, della sua originalità e profondità emotiva.
+
+Nemmeno il nome del signor Burden veniva stampato da solo. Ogni volta che si faceva riferimento alla sua condizione, veniva aggiunta qualche parola gentile per riconoscere la sua intimità con il signor Barnett, o ciò che [[England|Inghilterra]] gli doveva per averle dato un figlio come Cosmo. Nei giornali di maggiore diffusione, allusioni al M’Korio Delta, menzionato ormai quotidianamente in almeno due articoli su ogni numero, davano più vivacità e significato ai desideri sinceri e caritatevoli espressi per la guarigione del signor Burden.
+
+Entro cinque ore i due medici arrivarono a Norwood e trovarono lì, già alla porta, Sir N. Lewison; la sua reputazione europea, sempre al servizio del signor Barnett, non fu mai più utile di quanto lo fosse in quel momento. Infatti, il signor Barnett aveva prestato al grande chirurgo la carrozza color crema e blu con cui effettuare il viaggio.
+
+I tre gentiluomini andarono nella camera da letto, dove trovarono il signor Burden immerso in un sonno riposante.
+
+Svegliato dolcemente dal gesto gentile dell'infermiera che si prendeva cura di lui, la sua condizione, soprattutto per quanto riguardava cuore, polmoni e fegato, fu esaminata con tutta la straordinaria abilità raggiunta dalla scienza moderna; e una volta state accertate con precisione le caratteristiche principali del suo caso, i medici si ritirarono in una stanza attigua per una breve consultazione al fine di decidere il trattamento da seguire per il loro paziente.
+
+Secondo Sir Nathan (che parlò per primo), l’artrite era di origine cardiaca, o almeno arteriosa. Citò la nota di Pilkington riguardante il caso di Levasseur e menzionò diversi casi eccezionali che aveva personalmente osservato; in particolare, il suo incontro con il Gran Duca Ereditario di Lauenburg. Con questa conclusione, il dottor Cayley non fu affatto d’accordo; essendo una persona di umili origini che era riuscito a farsi strada solo grazie al proprio merito personale, espressò le sue opinioni contrarie in termini molto decisi. Riteneva che si trattasse semplicemente di un caso di lesione dei dotti biliari; in questa ipotesi fu sostenuto dal dottor, o meglio, dal signor Gamble, il grande specialista in materia. Tuttavia, quest’ultimo non poté fare a meno di menzionare il suo argomento preferito: i grandi linfatici.
+
+Il baronetto (poiché Sir N. Lewison era stato elevato al rango di cavaliere in occasione dei suoi servizi resi al figlio del Duca di Essex) era troppo uomo di mondo per rispondere alla violenza con la violenza; inoltre, possedeva una conoscenza sufficientemente profonda da comprendere che le differenze tra loro non avevano alcun effetto sostanziale sul trattamento del paziente.
+
+Una volta raggiunto questo accordo, i tre rientrarono nella stanza. Si unì a loro Cosmo, e il dottor Cayley, in qualità di decano del corpo docente, si assunse il compito di tranquillizzare il signor Burden. Con un tono appena percettibile, tipico delle esigenze di una persona malata, diede istruzioni all’infermiera affinché il paziente fosse tenuto in silenzio e non gli venisse permesso di alzarsi finché non si fosse completamente riposato. Per quanto riguardava la dieta, prescrissero i cibi e le bevande abituali del signor Burden. Poi scesero al piano di sotto, nella hall, continuando a discutere degli aspetti tecnici della sua malattia; nel frattempo, sistemavano gli occhiali tra l’indice e il medio della mano destra. Un gesto del tutto naturale per il dottor Cayley e il signor Gamble, che fu così ben imitato da Sir Nathan da non rivelare alcuno sforzo nel farlo.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_02" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/disease_and_contagion,concept/empire_and_imperialism,concept/capitalism,concept/satire_of_society,concept/deception,concept/fame_and_publicity,concept/power_and_corruption,form/satire,histref/british_empire,setting/london"></span>
@@ -4580,6 +6570,32 @@ Whatever rules the world, it is not we.
 
 An hour later, Cosmo brought Mr Barnett home to lunch, as had been his custom during all these days. The meal was short: they feared to speak at the dining-table lest they should wake Mr Burden, whose bedroom was immediately above. To avoid disturbing him, they went into the drawing-room together, to talk at ease upon the subject which most absorbed them; and Mr Barnett, in whom something of the artist lingered, watched with pleasure the contrast of strong light striking the darkened room like a shaft from the greenhouse beyond.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le buste che un servitore loro presentò contenevano le solite somme richieste; e, dopo molte speranze fervide per una rapida guarigione di loro padre, si congedarono da Cosmo e lasciarono la casa per permettergli di riposare e recuperare.
+
+I TRE DOTTORI
+
+Ho dedicato tanto spazio alle indicazioni mediche fornite da persone di tale eminenza non solo per dimostrare, come è mio dovere, il profondo rispetto filiale di Cosmo, ma anche per fornire una spiegazione completa del suo comportamento ad Avonmore durante la malattia di suo padre. Infatti, se l’opinione autorevole di queste autorità non lo avesse rassicurato sul fatto che l’indisposizione di suo padre fosse solo temporanea, egli non avrebbe mai intrapreso quella linea d’azione che alcuni critici severi hanno biasimato, ma che io posso soltanto lodare. In realtà, riteneva giustificato invitare ogni giorno sotto il proprio tetto un certo numero di ospiti selezionati e occuparsi, in una certa misura, della gestione degli affari di suo padre. Era inoltre convinto che, non appena si fosse ripreso del tutto, il signor Burden lo avrebbe scagionato da ogni responsabilità e avrebbe persino lodato le sue decisioni, anche quelle più rischiose.
+
+Fu annunciato, con un'esagerazione perdonabile (ma solo nei giornali quotidiani i cui contenuti ormai quasi non ricordiamo nella nostra frenetica vita moderna), che il signor Burden, sebbene ancora in cattive condizioni di salute, riusciva a gestire le proprie affari dalla sua stanza d’ospedale; e Cosmo, con un coraggio commerciale che il futuro avrebbe dimostrato essere giustificato, non esitò ad utilizzare il nome di suo padre in diverse dichiarazioni importanti. Scrisse anche alla stampa, due volte nello spazio di una settimana, sostenendo con forza un punto di vista dei dirigenti che era stato indebitamente criticato e evidenziando, con profonda indignazione, la slealtà di quel gruppo apolitico che aveva utilizzato il nome di suo padre in un momento in cui il grande commerciante non era in grado di partecipare alle riunioni del consiglio di amministrazione. Infatti, si può davvero dire che, in quel momento in cui il corpo del signor Burden era lontano dalle attività della società M’Korio, la sua influenza era onnipresente in modo mai avvenuto prima; il suo credito e la sua posizione, di inestimabile valore per quell’impresa imperiale, non furono mai così evidenti al pubblico come quando Cosmo, per i propri scopi personali, parlava in nome dell’anziano.
+
+L'eccellente ospitalità dimostrata in quel momento dalla villa di Norwood era di importanza fondamentale. Non perché le riunioni fossero numerose, ma perché quella lontana tenuta, che fino ad allora aveva visto pochi visitatori e di carattere piuttosto banale, ora ospitava uomini il cui capitale finanziario o la cui saggezza influenzavano le principali questioni del nostro tempo. In pochi giorni, le voci pubbliche riguardanti i dissidi di Mr Burden scomparvero completamente, e la solida reputazione dell’anziano divenne unanimemente riconosciuta come il fulcro dell’intero progetto M’Korian. È davvero vero che la Provvidenza agisce su di noi in modi che non possiamo nemmeno immaginare. Perché Mr Burden, che trascorreva i giorni al piano di sopra tra sonno e veglia, felice che suo figlio potesse trovare un po’ di compagnia in quel difficile periodo della sua malattia, non avrebbe mai avuto la tenacia né la saggezza necessarie per utilizzare al meglio la propria influenza, proprio come fece Cosmo al suo posto.
+
+La robusta costituzione che il signor Burden aveva ereditato e che aveva curatamente preservato gli fu di grande aiuto durante la sua breve malattia. Dieci giorni dopo essersi messo a letto, cioè il 23 agosto, si sentì meglio: riusciva a mangiare con appetito, leggeva con chiarezza e lucidità, e se non avesse seguito saggiamente il parere dei medici, avrebbe potuto lasciare casa e tornare alle sue occupazioni quotidiane.
+
+Tuttavia, i suoi medici, con l’obiettivo duplice di curare definitivamente il loro paziente e di contribuire allo sviluppo della scienza, decisero di ritardare il suo ritorno al lavoro.
+
+Con quel fisico e in quelle condizioni di crescente forza, l’analisi della sua malattia diventava sempre più difficile. Pertanto, i suoi medici decisero di prescrivere una pozione il cui effetto consisteva nel ridurre l’attività del cuore e offuscare la mente, portando così il paziente in uno stato la cui patologia era di conoscenza comune nell’ambito della professione. In questo modo, riducendolo artificialmente a una condizione che, sebbene morbida, risultava loro familiare al punto da permettere loro di comprenderne la natura; così potevano passare dal conosciuto all’ignoto, costruire una base solida per le loro indagini e curarlo efficacemente. Gli grandi scienziati speravano inoltre di riuscire a individuare quale organo avesse causato il problema del loro paziente, nonostante le loro straordinarie capacità di osservazione.
+
+Pertanto, l'infermiera gli somministrò un farmaco e gli disse, come sempre avviene con i malati, che si trattava soltanto di un tonico innocuo. Gli consigliò, in caso desiderasse dormire nel pomeriggio, di riposare a sufficienza; e dopo aver seguito fedelmente queste istruzioni, la meravigliosa donna uscì per qualche ora di meritato svago, lasciando il suo paziente a riposare in tranquillità.
+
+Ma dopo aver bevuto la sua medicina, il signor Burden provò un’insolita attrazione verso il sole. La finestra della sua grande camera da letto si affacciava a nord, e poteva vedere la luce estiva sui alberi oltre; poiché i medici lo avevano lasciato alle undici, ormai era mezzogiorno. Così ordinò a un servitore di portare la sua poltrona da giardino nel sottotetto, sul lato sud della casa: una serra che si apriva sul salotto, e che in effetti ne faceva parte, separata da esso soltanto da un arco coperto da tende, sostenuto da colonne in stile corinzio. Proprio dietro quell’arco, con un libro in mano che non aveva intenzione di leggere e coperto da una morbida stuoia, provò un sonnolenza piuttosto fastidiosa e cadde in un sonno stranamente profondo e agitato.
+
+Qualunque cosa governi il mondo, non siamo noi.
+
+Un’ora dopo, Cosmo portò il signor Barnett a casa per pranzo, come faceva di solito in quei giorni. Il pasto fu breve: temevano di parlare a tavola per non svegliare il signor Burden, la cui camera era proprio sopra di loro. Per evitare di disturbarlo, andarono insieme nel salotto per discutere con tranquillità dell’argomento che li interessava di più; e il signor Barnett, in lui ancora presente un certo spirito artistico, osservò con piacere il contrasto tra la luce intensa che illuminava la stanza buia, come un raggio proveniente dal giardino sottostante.
 
 
 
@@ -4620,6 +6636,42 @@ He held to a curtain, as though for support. Mr Barnett stared at him, and Cosmo
 
 Twenty surmises ran through his head. He thought perhaps the old man was wandering — and he thought of many other things. And, during this very awkward pause, Mr Barnett, whose great energies could ill brook interruption, stared at the father and the son in the doorway: the lower part of his strong face was thrust forward, his eyes vivid with protest. But he did not say a word, and Cosmo was glad he did not.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Parlarono francamente l’uno con l’altro, come fanno gli uomini onesti quando si credono soli e al sicuro. Dietro l’arco, nella sua sedia, il signor Burden giaceva immerso in un sonno innaturale. Non so cosa si dissero; ma ho ascoltato con attenzione la descrizione di quella sorta di “fantasmagoria” che attraversò la mente del signor Burden quando il farmaco fece effetto.
+
+Sembrava essere ora qui, ora là, ma sempre in un luogo caratterizzato da colori molto vivaci e odori intensi, sotto un sole cocente; e sebbene il paesaggio continuasse a cambiare, c'era sempre una cosa in comune: un vasto esteso di paludi, canneti e acque stagnanti, vischiose e fumanti: un ambiente tropicale, letale per l’uomo. E su e giù in questa orribile distesa si muovevano grandi animali, ora fantastici come wyverne, ora simili a creature naturali come ippopotami e bradipo; ma nel loro sguardo, quando si rivolgevano verso di lui, c’era sempre qualcosa di terribile.
+
+Gradualmente in quel luogo cominciarono ad echeggiare voci; una di esse la riconobbe come quella di suo figlio, l’altra invece non riuscì a identificarla; per un momento pensò di conoscerla, poi dubitò nuovamente. Le voci oscillavano tra estremi di certezza e totale confusione. Alla fine credette di poter attribuire un nome a quella seconda voce. Un nome che, pensava, iniziava con la lettera “N”; ma solo il tentativo di ricordarlo lo tormentava così intensamente che la sua povera anima si arrese nuovamente al dolore e alla confusione. Una delle voci, quella di suo figlio, parlava continuamente di sciocchezze e mode obsolete, dicendo di conoscerle, come se ne fosse orgoglioso; l’altra voce insisteva invece sul fatto che qualcosa dovesse essere fatto immediatamente, vantandosi di forza e potere. Poi la prima voce, di nuovo quella di Cosmo, assunse un tono supplichevole e dolce, mentre l’altra continuava a deridere. In modo stranissimo e incoerente, il nome del suo amico, il nome dell’amico che aveva perso, il nome di Mr Abbott, tornò più volte nelle parole di quell’uomo anziano sofferente, mescolandosi in modo grottesco con tutte quelle altre cose vaghe e terribili. Sentì anche allusioni ripetute a una morte imminente, e, dall’altra parte, continue derisioni sul fatto che la morte non avesse un orario certo.
+
+Durante tutta quell’ora di sofferenza visiva, il suo corpo e la sua anima non erano soltanto in agonia, ma anche in uno stato di caos totale; infatti, l’intelletto era distrutto e non esercitava più alcun controllo. Era in uno stato di trance, incapace di giudicare correttamente, ma solo di percepire cose del tutto prive di senso.
+
+Poi arrivò il crepuscolo, momento in cui l’anima di un uomo sfugge dall’oscurità. Arrivò rapidamente: prima poté percepire chiaramente un odore, l’odore di un eccellente sigaro; poi, con gli occhi semichiusi, vide una luce del giorno che sapeva non essere il bagliore ingannevole del suo sonno innaturale. E, con ogni istante che passava, i suoi sensi esterni iniziavano a funzionare sempre meglio.
+
+La mente di Mr Burden era confusa: forse stava dormendo e sognando dolorosamente, oppure aveva davvero sentito delle parole pronunciate, false o vere, non riusciva a comprenderle del tutto. Anche in condizioni normali, non sarebbe stato in grado di afferrarne il significato completo. Ora quelle parole gli lasciavano solo un’impressione confusa di desolazione e sofferenza interiore, che si mescolava con la sua estrema stanchezza fisica e con il dolore sordo e l’ disagio del suo corpo.
+
+Aprì gli occhi e vide le realtà del nostro mondo. Riconobbe, in una fila di vasi davanti a sé, la Primula Robinsoniensis e la Ranuncula Japonica, l’orgoglio del suo giardiniere. Ancora immobile, ma sempre più “vivo”, notò le lunghe strisce di fuliggine e sporcizia sul vetro, le bolle di vernice secca sui telai in legno, e, in un angolo della struttura in ferro del serraio, il marchio dei produttori: “Aurora Works”, nonché la località in cui si trovava la loro azienda: l’Isola dei Cani. Guardò il camino vuoto, e si ricordò di sé stesso e del proprio nome.
+
+Era completamente sveglio. C'erano davvero voci nella stanza accanto; erano quelle del signor Barnett e di suo figlio. Tutto ciò era reale, ma la palude e i mostri erano scomparsi.
+
+La voce di Cosmo, rapida e bassa, era difficile da seguire facilmente, ma riuscì a capire le parole: “Non puoi. Come fai ad essere così spietato? Devi assolutamente gestire mio padre.”
+
+Poi una serie di appelli sinceri e un esortamento: “Non da quella parte, non da quella parte.”
+
+La voce e il modo di parlare di suo figlio gli erano così familiari che il signor Burden quasi riusciva a immaginare il movimento della testa del ragazzo mentre parlava. Ma non riusciva a capire nulla di ciò che diceva. Poi sentì di nuovo la voce del signor Barnett: molto profonda, regolare e lenta.
+
+“Tutto ciò che non riesco a capire, ” Così interruppe Cosmo due volte, fino a quando, infine, con impazienza e decisione, concluse: “Dev’essere deciso così! Proprio così!” E allora sentì una mano pesante, ma senza violenza, posarsi sul braccio di una sedia.
+
+A Mr Burden venne improvvisamente in mente che, anche se stava ascoltando delirii senza senso, lo faceva senza essere visto. Per una persona della sua semplicità, quel pensiero era odioso. Non lo dico per deriderlo; anzi, in un certo senso è un segno di onore il fatto che non volesse comportarsi da spia. Il suo desiderio di farsi riconoscere era ancora più lodevole e giusto, considerando che non poteva assolutamente trarre alcun utilizzo, né comprendere il significato di ciò che aveva sentito.
+
+Si alzò goffamente e stancamente dalla sedia a rotelle, rimase in piedi, un po' stordito per un momento, e tossì come fanno gli attori sul palco; nessuno lo sentì. Il signor Barnett aveva appena ripetuto con enfasi la frase: “Questo tizio, Âppott, ”, quando, con quel ricordo dei suoi problemi ancora nelle orecchie, il signor Burden si trovò nell’arco aperto che collegava il serraio alla stanza.
+
+Si aggrappò a una tenda, come se ne avesse bisogno di sostegno. Il signor Barnett lo fissava; Cosmo, vedendo quell’espressione negli occhi del suo compagno, si girò bruscamente e, a sua volta, vide suo padre. Si alzò immediatamente in piedi e afferrò il braccio dell’uomo anziano.
+
+“Dove sei stato?” gridò. Poi si ricordò del suo dovere e disse, in tono più gentile: “Dov’è l’infermiera?”
+
+Venti ipotesi gli passarono per la mente. Pensò che forse l’uomo anziano stesse semplicemente vagando. E pensò anche a molte altre cose. E in quel momento di imbarazzo, il signor Barnett, la cui grande energia non tollerava interferenze, fissò il padre e il figlio sulla soglia: la parte inferiore del suo volto robusto era sporgente in avanti, i suoi occhi brillavano di protesta. Ma non disse una parola. E Cosmo fu felice che non lo facesse.
 
 
 
@@ -4667,6 +6719,48 @@ A man of quieter temper would have known that Cosmo’s strong and virile attitu
 You cannot “freeze out” a man in Mr Abbott’s position. A shipowner, a prosperous member of the most prosperous trade in [[England]], has no paper floating about that you can buy up; the investment of his savings are not commonly in such securities as even a group of enemies can largely affect. The principal weapons of that engrossing warfare which is the crusade and school of knighthood of our day, are useless in shipping circles. Freights are still a sort of neutral ground in the fierce contest of high souls, and will so remain until one dominating brain shall have pooled the interests of the main lines, frozen out the tramps, and unloaded the shares of a Trust upon legislators in such a manner as to forbid the interference of Parliament.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Poi lo stesso Cosmo aggiunse, questa volta con molta dolcezza…”
+
+“Potresti ucciderti! Non ti era permesso muoverti dopo aver preso la medicina. Devi lasciare che sia io a fare tutto.”
+
+L'apparizione inaspettata del signor Burden
+
+L’uomo anziano non oppose alcuna resistenza; fu condotto attraverso la stanza da Cosmo, oltrepassando il signor Barnett, al quale rivolse un debole sorriso, ma non ricevette in cambio alcun sorriso, bensì ancora quello sguardo indignato e potente. Mentre barcollava avanti.
+
+“Stavo dormendo,” mormorò. Per la sola volta nella sua vita, nessuno gli credette.
+
+Cosmo lo portò di nuovo al piano di sopra, nella sua stanza. Suo padre dormiva ancora, ma Cosmo aspettò che la infermiera tornasse. La prese da parte e le parlò in modo tale che lei decise di lasciare quella casa, una decisione che saggiamente rimandò. Poi scese al piano di sotto, preparandosi mentalmente ad affrontare il signor Barnett.
+
+Con grande fastidio di suo, il signor Barnett se n'era andato. Corse fino al cancello e guardò su per la strada Alexandrovna; ma, anche se quel lontano veicolo Panhard che vide fosse quello del finanziere, ormai era troppo lontano per poter essere richiamato indietro. Tornò in casa, camminando con malumore lungo il vialetto; rimase fermo a fissare per alcuni minuti la sedia nel giardino d'inverno, andò avanti e indietro calcolando la distanza tra quella sedia e il punto dove lui e il signor Barnett si erano seduti; poi andò a fermarsi vicino alla finestra e guardò fuori in silenzio per molto tempo, interpretando male ogni cosa che vedeva.
+
+Dopo quell’episodio spiacevole, una sfortuna che era stata esagerata soltanto dalle imperfette emozioni delle varie parti coinvolte, sembrò che il signor Burden si riprendesse definitivamente.
+
+La sua rapida guarigione fu dovuta, in parte, ai medici, i quali trovarono che i suoi sintomi fossero molto più facili da analizzare sotto l’effetto del farmaco rispetto a quando si verificavano le complesse reazioni del suo periodo di convalescenza; e in parte, alla strana ostinazione dello stesso vecchio uomo, il quale, ricordando vividamente l’ultimo esperimento condotto con lui, rifiutò categoricamente di assumere un’altra dose del medicinale. Grazie all’unione delle loro competenze scientifiche e della sua ingegnosità naturale, in tre giorni era già vestito e si muoveva liberamente per la casa; entro una settimana iniziava a uscire ogni giorno, e presto mostrò quel desiderio di libertà che, in realtà, rappresenta soltanto il ritorno di un cervello attivo e funzionante alle sue normali capacità.
+
+Poiché il signor Burden trascorreva sempre più tempo al piano di sotto, Cosmo riteneva giustamente che non fosse più suo dovere sprecare il proprio tempo in casa. Era così impegnato nelle nuove opportunità lavorative che lasciava la casa prima ancora che suo padre avesse potuto alzarsi; inoltre, il riposo necessario dopo una lunga giornata, per non parlare delle visite private da effettuare ad altri membri del gruppo originale, di solito lo impedivano di tornare a casa fino a molto tempo dopo che suo padre si era addormentato.
+
+Quindi, in quei giorni che precedettero immediatamente il ritorno del signor Burden nella [[City|>Città]], vide molto poco suo figlio.
+
+Del signor Barnett vide e seppe ancora meno, a causa di quella deplorevole situazione nella quale il mio lettore è già a conoscenza. Il lasso di tempo trascorso fu breve: solo due settimane dopo l’episodio nel salotto, il dottore permise al signor Burden di riprendere le sue attività lavorative; tuttavia, la solitudine e il silenzio continui ebbero un impatto molto negativo su di lui.
+
+Io stesso lo ho visto in quei giorni, e anch'io sono stato ingannato dalla sua reazione di fronte alla malattia. Non ho capito, né nessun altro ha capito, quanto profonda fosse la ferita che una malattia così breve e di natura così incerta potesse infliggere a una persona come il signor Burden, un carattere già scosso dal dubbio e da continue difficoltà senza nome.
+
+Tutti potevamo vedere che era stato improvvisamente spinto al di là dei confini dell’età avanzata, ma non riuscivamo a comprendere cosa sarebbe successo dopo: intendo dire, che si trovava molto vicino all’ultimo momento della sua vita; che qualsiasi colpo improvviso avrebbe potuto segnare la fine per lui.
+
+Quel colpo fu naturalmente inferto dalla mano incauta di quell’irperdonabile Abbott.
+
+Si può facilmente comprendere che, in una persona dal carattere di Mr. Abbott, le grandi forze dell’odierna [[England|>Inghilterra]] avrebbero generato non solo un odio reazionario, ma anche una vera e propria mania di sospetto.
+
+Quell’uomo aveva l’abitudine di collegare sempre le cose tra loro in modo errato. Vedeva costantemente complotti dove in realtà non ce n’erano, anzi, dove, per natura delle cose, non potevano nemmeno esistere. Riusciva a individuare “influenze segrete” da parte di quella che chiamava la “finanza cosmopolita” anche nelle azioni dei funzionari pubblici più noiosi e ordinati. Aveva smesso di leggere un giornale dopo l’altro, passando, per così dire, da una posizione abbastanza razionale a una completamente fanatica. Alla fine aveva smesso del tutto di leggere qualsiasi cosa, ad eccezione di un settimanale che non solo si immergeva in ogni genere di controversie politiche, ma veniva anche ampiamente sostenuto dalle abbonamenti dello stesso signor Abbott.
+
+Con un tale temperamento applicato alle normali questioni di Stato; con l’obiettivo dell’occupazione dell’Egitto (ad esempio), che fu scatenata da un gruppo di banchieri e scribi; con l’opinione consolidata secondo cui i problemi della terra irlandese fossero principalmente dovuti all’avidità dei prestatori inglesi. Con tutte le illusioni che un radicale tardivo può nutrire, non sorprende affatto che il signor Abbott, non appena si trovò di fronte a qualsiasi tipo di difficoltà, abbia reagito con estrema aggressività.
+
+Un uomo dal temperamento più calmo avrebbe capito che l’atteggiamento deciso e virile di Cosmo durante quel breve incontro era semplicemente un esempio di eleganza e diplomazia legittime. Un uomo in grado di comprendere il vero volto del commercio moderno avrebbe ammirato il tentativo del giovane, ma avrebbe anche saputo quanto poco sostegno reale ci fosse dietro di esso.
+
+Non si può “escludere” un uomo nella posizione di Mr Abbott. Un armatore, un membro prospero del settore commerciale più fiorente dell’[[England|Inghilterra]], non possiede titoli finanziari che si possano acquistare facilmente; gli investimenti delle sue risorse finanziarie non sono generalmente concentrati in titoli che possano essere influenzati significativamente nemmeno da un gruppo di avversari. Gli strumenti principali di quella “guerra” assorbente che rappresentano oggi le crociate e i sistemi cavallereschi sono del tutto inutili nel mondo della navigazione commerciale. I carichi mercantili costituiscono ancora una sorta di terreno neutro in questo feroce conflitto tra grandi interessi economici, e rimarranno tali finché un’unica mente dominante non riuscirà a coordinare gli interessi delle principali compagnie commerciali, escludere i concorrenti minori e influenzare i legislatori in modo tale da impedire qualsiasi interferenza da parte del Parlamento.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_05" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/ship,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,concept/antisemitism,concept/madness,form/satire,histref/british_empire,setting/london"></span>
@@ -4706,6 +6800,42 @@ When Mr Burden had read Abbott’s shameful words, though he had not yet gathere
 
 He laid his left hand heavily upon the table, sighed, and picked up his remaining letters and opened them. One was a receipted bill from his wine merchant; the next a letter from his daughter, Mrs Legros, asking for money: the parish was a poor one, and they had to feed the lambs.... Clarence, moreover, was suffering from measles, and Billy needed a watch. The next was a circular from a company which desired to cover his floors, not with carpets, but with a kind of cheap linoleum; he frowned and threw it in the fire. The next was the reminder letter of summons to the meeting of the Board of Directors which was to be held in Broad Street, that afternoon, at four. Methodically he put the hour down on a piece of paper, folded it and slipped it into a waistcoat pocket; but his hand trembled as he did so, and the hour he put down was wrong. The next letter was an appeal for funds from a society for the Prevention of Evil, two more were about American quack medicines, and the last was an angry note from a local tradesman whose goods (so Mr Burden’s housekeeper constantly maintained) had neither been ordered nor received, and were therefore left unpaid for.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nonostante la solidità della sua posizione, tuttavia, i sospetti del signor Abbott continuavano ad aumentare. Un contratto governativo che aveva con la compagnia Excelsior Line finì nelle mani di quest'ultima. Assunse due uomini presso il Somerset House per cinque giorni affinché scoprissero gli azionisti della Excelsior, del consorzio che stava dietro di essa e della società finanziaria che ne era il principale titolare. E così via. Non ottenne quasi nulla in cambio dei suoi sforzi; ma rimase convinto che qualche influenza legata ai M’Korio lo avesse truffato.
+
+La merce di cui si era assicurato a Barcellona gli sfuggì, e la nave tornò a casa con solo carico di zavorra. Il nome innocente di quel rispettabile spagnolo che non era riuscito ad aiutarlo fu, nella sua mente, strettamente associato a Mr Harbury.
+
+Gli fu molto difficile stipulare un’assicurazione per il Polecat. Gli chiesero una tariffa che non avrebbe mai potuto permettersi di pagare, e così il veicolo rimase senza assicurazione. Dopo essere in ritardo di oltre tre settimane rispetto al termine previsto per la gara, riuscì finalmente a rifare l’assicurazione per trentacinque ghinee; il giorno dopo, il Polecat apparve nel fiume, intatto e accompagnato dalle scuse del proprietario. Se il signor Abbott avesse osato, avrebbe sicuramente parlato di corruzione.
+
+Una serie di piccoli incidenti del genere, incidenti che in quindici giorni gli erano costati appena 15.000 sterline, avevano completamente sconvolto il signor Abbot; e accadde che, la sera prima del ritorno del signor Burden alle sue attività lavorative, il signor Abbot si sedette e scrisse a Norwood una lettera così folle da poter essere considerata, con mio grande piacere, incriminabile davanti a un tribunale ordinario.
+
+Devo scusarmi per averlo stampato; il compito di un registratore è quello di registrare, e io sono costretto a documentare anche queste esagerazioni offensive.
+
+La lettera arrivò ad Avonmore con il primo corriere di lunedì, il 3 settembre. Arrivò insieme ad altre lettere quella mattina, quando il signor Burden decise di tornare in città; era la mattina del giorno in cui si aspettava di incontrare, anche solo per un momento, i suoi colleghi direttori negli uffici della M’Korio.
+
+Il mercante scese a colazione con aria allegra, presentando un’apparente e ingannevole salute. Si sedette al suo tavolo assumendo l’atteggiamento di sempre (Cosmo era da tempo scomparso); aprì le sue lettere una dopo l’altra. La prima, la seconda e la terza erano semplici circolari; la quarta era una cartolina di nozze, la quinta un prospetto commerciale; poi vide la calligrafia del signor Abbott. Il suo umore cambiò immediatamente: divenne cupo e freddo, proprio come il cielo in piena estate quando una nuvola di neve arriva dalle colline. Aprì l’invito e lesse queste parole:
+
+"My Dear Burden,"
+
+“Non mi dispiace che tu sia così intimo con quel grasso ebreo tedesco, né che tu faccia le feste a quel fallito di Benthorpe; e per quanto riguarda Cosmo che viene nel mio ufficio a minacciarmi, mi interessa solo impedirgli di tornarci più. Ma quello che non tollererò mai è che la vostra sporca banda interferisca con i miei affari; e se un altro dei miei battelli dovesse avere problemi, vi avverto: spenderò tutto il denaro necessario per distruggere voi tutti. Vi scrivo perché siete l’unica persona che conosco. E potete credermi: non scriverò più.”
+
+Ecco il contenuto della lettera.
+
+In queste folli scritture ci sono molte cose di cui potrei parlare per deriderle e condannarle, ma sarebbe più in linea con lo spirito del mio resoconto ignorarle completamente in silenzio sprezzante. Tuttavia, c’è una frase che non posso trattare con l’indifferenza che merita. Intendo quella riguardante Lord Benthorpe.
+
+La spregevole meschinità di una persona con le ricchezze del signor Abbott, che insiste sulle difficoltà economiche di qualcuno più nobile di lui, non è l’argomento principale della mia riflessione. Basta dire che, se le situazioni fossero state invertite, Lord Benthorpe non si sarebbe mai abbassato a denunciare le sfortune del signor Abbott. Piuttosto, vorrei commentare il termine “fallito”.
+
+Quando la questione arriverà in tribunale, è probabile (considerando le abitudini dilatorie del signor e della signora O’Rourke) che il mio lavoro venga considerato la descrizione ufficiale della vita del signor Burden. Possiedo questa preziosa lettera; l’ho davanti agli occhi mentre scrivo, e desidero renderla pubblica, utilizzando tutte le mie conoscenze particolari sulle circostanze, al servizio di quel nobile gentiluomo che egli ha offeso.
+
+Credo che il signor Abbott scoprirà che la nostra legge inglese sulle calunnie sia abbastanza rigida e flessibile da punire con severità l’uso di simili termini. Sua Signoria non è mai passato, né, per favore del cielo, passerà mai, attraverso il Tribunale fallimentare. Ho già parlato, nel modo più delicato possibile, della sua sfortunata mancanza di mezzi finanziari; inoltre, non ho mai nascosto ai miei lettori l’aiuto e la solidarietà che ha ricevuto dai suoi amici nel mondo finanziario. Tuttavia, tra una onorevole povertà e il reato di appropriazione indebita, sia la legge inglese che il senso comune inglese tracciano una linea netta, e chi diffama scoprirà a sue spese quanto questa linea sia rigida.
+
+Non mi soffermerò ulteriormente su questo argomento. Non è nella tradizione della Razza Insulare giudicare in anticipo una questione che presto sarà affidata a un giudice: il giudice Hopper, per molti anni sostenitore convinto in Parlamento delle compagnie idriche e del Partito Nazionale.
+
+Quando il signor Burden ebbe letto quelle parole vergognose di Abbott, sebbene non avesse ancora compreso appieno tutto ciò che implicavano e fosse piuttosto sbalordito che offeso da esse in un primo momento, sul suo viso apparve un'espressione tipica della vecchiaia: quell'espressione che sarebbe ricomparsa ancora una o due volte nelle ore successive, e ogni volta avrebbe significato che sulla sua anima soffiava un forte vento di morte.
+
+Posò con forza la mano sinistra sul tavolo, sospirò, poi prese le lettere rimaste e le aprì una dopo l’altra. La prima era una fattura regolarmente pagata dal suo commerciante di vini; la seconda era una lettera dalla sua figlia, la signora Legros, che chiedeva denaro: la parrocchia era povera e dovevano nutrire i agnelli. Inoltre, Clarence soffriva di morbillo e Billy aveva bisogno di un orologio. La successiva era una circolare di un’azienda che proponeva di rivestire i pavimenti non con tappeti, ma con un tipo di linoleum economico; lui fece una smorfia e la gettò nel fuoco. Poi arrivò la lettera di convocazione per la riunione del Consiglio di Amministrazione che si sarebbe tenuta quel pomeriggio alle quattro in Broad Street. Con metodo, annotò l’ora su un pezzo di carta, la piegò e la infilò nella tasca della giacca; ma la sua mano tremava, e l’ora che scrisse risultò sbagliata. La lettera successiva era una richiesta di fondi da parte di un’associazione per la prevenzione del male; altre due riguardavano medicine fraudolente prodotte negli Stati Uniti; l’ultima, invece, era una nota arrabbiata di un commerciante locale: i suoi prodotti, secondo quanto sosteneva costantemente la domestica del signor Burden, non erano stati né ordinati né ricevuti, quindi rimanevano non pagati.
 
 
 
@@ -4756,6 +6886,52 @@ ENDNOTES.
 
 10 Dr Cayley’s father was old “Honesty” Cayley, twice Mayor of Bletchton.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo aver letto tutto ciò, la sua corrispondenza, la mano sinistra del signor Burden si allungò di nuovo; i suoi occhi, però, non la seguirono mentre afferrava con incertezza la lettera del signor Abbott. La lesse una seconda volta.
+
+Quel linguaggio assurdo non riusciva a suscitare alcuna reazione umoristica, poiché tutte le emozioni legate all’umorismo erano ormai silenti; né alcun sentimento di risentimento, poiché quell’uomo era già distrutto. Lacrime fredde e senili si raccolsero nei suoi occhi; posò di nuovo la lettera e fissò, attraverso il tavolo desolato, la finestra e il cielo grigio di [[London|Londra]]. Poi, finalmente, si alzò, con una determinazione nel cuore.
+
+Mentre attraversava il corridoio e cercava a lungo il proprio cappello, la sua domestica – una donna che lo accompagnava fin dalla malattia della moglie – gli disse di non uscire, sostenendo che non fosse in condizioni né per respirare l’aria estiva né per occuparsi delle faccende quotidiane; tuttavia, dal suo atteggiamento e dal suo modo di comportarsi, era evidente che nulla di tutto ciò avesse davvero importanza per lui.
+
+Stava aprendo la porta con l’intenzione di andare direttamente alla stazione, quando suonò il campanello e vide, sul gradino d’ingresso, un uomo che conosceva da molti anni: il signor Hale.
+
+Il signor Hale lo salutò con rispetto, e il signor Burden, dopo averlo osservato per un po’ prima di parlare – come fanno spesso le persone che soffrono fisicamente o mentalmente – gli prese il braccio in modo quasi affettuoso e disse:
+
+"#Vieni con me, signor Hale: mentre vado alla stazione, puoi dire tutto ciò che desideri."
+
+Il signor Hale fu sopraffatto da tutta questa condiscendenza; infatti, il signor Hale non occupava alcuna posizione importante nel mondo.
+
+Questo cittadino è stato un esempio eccellente, non solo di ciò che l’ingegno umano può realizzare di fronte a condizioni avverse, ma anche delle tempeste della sfortuna che possono colpire anche il merito nei momenti di successo.
+
+Suo padre, negli anni ’50, era stato un commerciante di oggetti vari e rivenditore di articoli da cucina; esercitava la sua attività in un piccolissimo negozio situato proprio vicino alla casa del signor Burden, il che lo rendeva l’ideale punto di vendita per i prodotti necessari ai cuochi. Al momento della sua morte, lasciò abbastanza capitale affinché suo figlio potesse avviare un’attività di impresario funebre: un servizio pubblico la cui necessità diventava sempre più evidente in quel sobborgo in rapida crescita e prosperità.
+
+In questo settore commerciale, il giovane signor Hale se la cavò molto bene per un certo periodo di tempo. Ampliò le sue attività e appese alla vetrina del suo negozio un cartello molto visibile raffigurante un feretro, accompagnato dalle parole: “Semplicità, rapidità, economia e riforma”. Queste ultime espressioni, fino agli ultimi anni, sembravano particolarmente in sintonia con lo spirito politico della zona.
+
+Il signor Burden lo aveva conosciuto per la prima volta in relazione alla morte di un giovane uomo, un vicino, di cui in un certo senso era stato il tutore; in seguito gli aveva affidato i resti mortali della signora Burden.
+
+Ma poco dopo quella data memorabile, sfortuna colpì questo fino ad allora prospero professionista. La maggiore facilità delle comunicazioni fece sì che molti dei suoi clienti si rivolgessero alle grandi aziende situate nel centro di [[London|Londra]] per le cerimonie funebri, affidando persino i loro defunti alle società per azioni che avevano iniziato a concorrenza con i piccoli imprenditori del settore. Anche la pratica della cremazione, sempre più diffusa tra le classi medie, aveva ridotto i suoi profitti; inoltre, due anni di condizioni sanitarie eccezionalmente buone nel suo quartiere, durante i quali non era stato possibile ridurre le spese fisse, avevano esaurito la sua piccola riserva economica. Più volte aveva accettato alcuni lavori di falegnameria per il signor Burden, che era sempre pronto ad aiutare chi gli stava intorno; tuttavia, questo tipo di lavoro doveva essere svolto in segreto, poiché considerato inferiore alla dignità – e addirittura contrario alle regole – della società a cui apparteneva il signor Hale.
+
+Negli ultimi giorni la situazione per lui era diventata disperata; e, a dire il vero, in questa occasione stava chiedendo al signor Burden di prestargli 10 sterline.
+
+Non ho spazio sufficiente per descrivere in dettaglio la conversazione che ebbe luogo tra i due, e posso soltanto invocare la grande debolezza del mio vecchio amico, la recente perdita di tutta la sua energia e delle sue forze mentali, come scusa per il fatto che abbia acconsentito alla richiesta del signor Hale. Prestare denaro andava contro tutti i suoi principi, così come deve andare contro quelli di ogni lettore sobrio di queste righe.
+
+Gliel'ha prestato perché si trovava in quello stato d'animo caratterizzato da tenerezza, abbandono e tristezza, che spesso precede una catastrofe.
+
+Si separarono fuori dalla stazione: il signor Hale con ringraziamenti sinceri e ripetute promesse di rimborso; il signor Burden lo guardò come se ricordasse qualcosa del passato, poi disse:
+
+“Addio, signor Hale,” disse con tanto affetto e solennità, come se stesse salutando per l’ultima volta uno dei suoi più vecchi amici.
+
+Il signor Hale sorrise in modo spaventato e se ne andò; il signor Burden scese le scale, prese il treno e rimase in silenzio per tutto il tragitto fino in città. Per la prima volta, chissà da quanti anni, non tenne un giornale tra le mani.
+
+Quando arrivò nella [[City|>Città]], andò direttamente in Leadenhall Street; evitando intenzionalmente l’arcata piccola e familiare che conduceva alla stanza privata del suo amico, entrò infine dall’ingresso principale degli uffici di Mr Abbott.
+
+Ma non appena le grandi porte si aprirono, sentì qualcosa di terribile sopra di sé.
+
+Note finali.
+
+Il padre di Dr. Cayley era l’anziano “Honesty” Cayley, che fu due volte sindaco di Bletchton.
 
 
 
@@ -4825,6 +7001,70 @@ Mr Barnett, who all his life had possessed the art of managing men, smiled a rea
 Mr Burden, with a troubled look, and with eyebrows drawn together and upwards, looked round at them, avoiding the eyes of each, and gazed to his right at the window, as might a man who had the direction of a battle, but who knew nothing of war, and who saw the closing in of lines; — and fate, and dread, and ending coming forward upon him out of the smoke and clamour.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XII
+
+Il signor Burden stava al bancone, dove piccoli listelli di bronzo lucido si riflettevano nel legno levigato. Aspettava un'obbedienza immediata; ma il suo aspetto in quel momento non faceva certo intuire la sua ricchezza o il suo rango sociale.
+
+Il signor Burden stava in piedi al bancone, appoggiandoci entrambe le mani, in attesa che qualcuno si accorgesse della sua presenza. Questi compiti vengono spesso svolti a malincuore dai più giovani della compagnia; alla fine, si avvicinò a lui un giovane impiegato con i capelli biondi e ricci, occhi azzurri acquosi, e un modo di comportarsi schietto ma scortese, come se il suo cuore fosse nel posto giusto, ma molto piccolo.
+
+“Mr Burden gli disse…”
+
+# Voglio vedere il signor Abbott.
+
+Con estrema negligenza, il giovane impiegato spinse oltre il bancone un modulo su cui era stampato: —
+
+“Mr Burden guardò quel modulo per un momento, poi alzò lo sguardo…”
+
+“Dategli il mio nome,” disse.
+
+“Come ti chiami?”
+
+“Burden. Signor Burden. Dica al signor Abbott che il signor Burden è qui e desidera vederlo in particolare.”
+
+Il giovane impiegato se ne andò con aria noncurante e disinvolta, mentre il signor Burden rimase ad aspettare al bancone. Il suo viso era molto pallido, i suoi movimenti incerti. Dietro di lui, in piccoli cubicoli di vetro, uomini mal pagati che lavoravano con i libri spiavano furtivamente; alcuni sorridevano, altri guardavano intorno per incrociare lo sguardo di un vicino. Il signor Burden non se ne accorgeva affatto.
+
+Il giovane impiegato tornò e disse, come un servitore in divisa dice a un commerciante…
+
+“Il signor Abbott non può riceverla.”
+
+Patches di colore si illuminarono sul viso del signor Burden; ma prima che potesse parlare o muoversi, un uomo piccolo, magro e grigio che aveva servito fedelmente il suo padrone per vent’anni, e al quale il signor Burden era familiare quanto le strade della [[City|Città]], vide ciò che stava accadendo e si avvicinò. Spintonò da parte quel giovane molto sciocco e disse a voce bassa e rispettosa:
+
+“Meglio aspettare ancora un po’, signor Burden… davvero”.
+
+Il signor Burden scosse lentamente la testa. Prese una penna da ufficio e scrisse alcune righe su un foglietto per appunti. Lo piegò e scrisse il nome del signor Abbott sopra, “Dagli questo,” disse, “devo vederlo.”
+
+Non so cosa avesse scritto; ma sono certo che l’indirizzo era quasi illeggibile, tanto tremava la sua mano.
+
+Il piccolo uomo grigio se ne andò, pieno di paura. Non si allontanò molto. Quando tornò, aveva in mano lo stesso biglietto, ancora chiuso. “Mi dispiace molto, signor Burden,” disse, con grande ansia, “Davvero, se mi permette, ”
+
+Il signor Burden prese il biglietto e lo strappò metodicamente in venti pezzi, poi li sparse sul pavimento, gettandoli deliberatamente come semi che avrebbero dovuto germogliare in qualcosa di spiacevole o doloroso. Quindi, quel piccolo uomo grigio, osservandolo con ansia mentre se ne andava, lo vide passare attraverso le imponenti porte e uscire in strada.
+
+Con un’energia del tutto innaturale, si fece strada tra la folla sul marciapiede. Le sue emozioni scatenarono una sorta di “spasmo vitale” nei canali logori del suo cervello; camminava velocemente, con la testa bassa, finché non arrivò in Broad Street, davanti agli uffici della M’Korio. Il gigante lo vide salire le grandi scale e gli fece il saluto, ma il signor Burden non se ne accorse nemmeno. Proseguì immediatamente verso la sala principale, dove sapeva che si sarebbe tenuta una riunione del consiglio di amministrazione; entrò lì con determinazione, ma per un momento rimase sorpreso dalla presenza altra gente all’interno della stanza.
+
+Vide dalla finestra quel piccolo gruppo che, secondo lui, aveva rovinato per sempre la sua pace, e tra loro vide Cosmo. Lo vide in piedi, come avrebbe dovuto stare un amico loro, chiacchierando con loro in modo cordiale.
+
+Erano in quattro: Cosmo e il signor Barnett, Lord Benthorpe e il signor Harbury. Quel pomeriggio tranquillo e soleggiato, con la mente ancora fresca dall’attività della [[City|Città]], erano pronti ad affrontare le sfide della vita.
+
+A ciascuno di loro era promessa una grande fortuna; e al signor Barnett, che già era molto ricco, non solo la fortuna, ma il vero potere politico, qualcosa che per lui valeva tutti gli sforzi di una vita. Lì, davanti alla finestra, quei quattro uomini stavano costruendo non solo il proprio successo, ma anche quello di [[England|Inghilterra]], e creando un nuovo popolo al di là degli oceani. C’era una naturale fiducia nelle loro azioni; il duro lavoro era stato compiuto, mancava soltanto l’ultimo passo. Allora uno avrebbe riacquistato onore, un altro avrebbe saldato i propri debiti, un altro si sarebbe finalmente trovato in condizioni di sicurezza economica, un altro ancora avrebbe goduto di pensione e tranquillità, e tutti avrebbero avuto il potere su gli altri.
+
+Conoscevano bene quali fantasie e piccole regole meticolose tormentassero quest’uomo che era appena entrato. Ormai conoscevano bene il loro signor Burden; soprattutto Cosmo, suo figlio, intuiva quali sforzi gli restassero ancora da compiere. Ma non dubitavano del successo, perché un uomo così sensibile era anche debole e molto suscettibile alle persuasioni: anzi, già al momento del suo ingresso, quella sua debolezza era evidente, nel modo incerto in cui camminava e nello sguardo esitante che li rivolgeva.
+
+Cosmo rimase indietro per un momento, perché rispettava molto suo padre. Gli altri tre avanzarono con grande entusiasmo; Lord Benthorpe, forse con un po’ più di moderazione rispetto agli altri; e il signor Barnett, assumendosi il ruolo di portavoce, disse:
+
+“Mio caro signor Burden!”, e prese la mano del signor Burden con la sua destra, posandoci sopra la sinistra per stringerla forte, a dimostrazione di una vera amicizia; poi fece avvicinare alla tavola una grande sedia dall’aspetto imponente e invitò il signor Burden a sedersi lì. Il signor Burden disse: “Grazie”; si sedette lentamente, come chi portasse un pesante sacco sulle spalle, e gli altri presero posto intorno al tavolo.
+
+Dopo un breve silenzio, Cosmo chiese a suo padre se il treno fosse arrivato puntuale. Il signor Burden rispose in modo strano. Lo fece in un modo che, ahimè!, conservava ancora tracce di presunzione.
+
+“Signori, ” Poi tossì e rimase in silenzio.
+
+Il signor Barnett, che per tutta la sua vita aveva posseduto l’arte di gestire le persone, sorrise in modo pronto, ma non convincente, e disse:
+
+“Eh, signor Burten? Sì?”
+
+Il signor Burden, con un'espressione preoccupata e le sopracciglia aggrottate verso l'alto, li guardò uno dopo l'altro, evitando di incrociare i loro sguardi, poi fissò la finestra a destra, come se fosse un generale che dirigeva una battaglia ma non ne conoscesse le dinamiche, e vedesse le linee nemiche avvicinarsi sempre di più. Come se il destino, la paura e la fine stessero emergendo dalla nebbia e dal clamore per affrontarlo.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_02" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,concept/friendship,concept/conscience,form/satire,histref/british_empire,setting/london"></span>
@@ -4887,6 +7127,64 @@ Then Mr Burden, power bubbling up within him in spite of his age, in spite of hi
 “Take care, Barnett, you’re going a little too far, just a little too far.... I wouldn’t have that ... not for worlds!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Girò lentamente la testa; si mosse nervosamente sui piedi, e poi ricominciò…
+
+“Signori. Ho riflettuto. Ci sono alcune questioni. Non ne parlo spesso, ma ci sono comunque delle cose che potrebbero essere risolte senza danneggiarci né nessun altro. E naturalmente comprendo appieno la situazione.” Tentò di sorridere, ma non ci riuscì. “Sono un uomo di mondo, signori; capisco perfettamente la situazione. So che potrebbe trattarsi di un piccolo sacrificio. Penso che tutti voi saranno d’accordo con me nel ritenere che questa questione debba essere risolta.”
+
+Il signor Barnett, che per tutta la sua vita aveva posseduto l’arte di gestire le persone, si schiarì la voce e parlò rapidamente con tono sicuro: aveva le mani incrociate davanti a sé sul tavolo, i suoi pollici corti e robusti erano premuti uno contro l’altro. Disse:
+
+“Credo che sappiamo esattamente cosa passi per la mente del signor Burten. Questo fa onore al signor Burten. Il signor Burten si riferisce, in questo contesto, alla nostra politica riguardo al signor Âppott. Signor Burten, questo vi fa davvero molto onore.”
+
+Lord Benthorpe, la cui ignoranza su tutte queste cose era tipica di un gentiluomo sincero e onorevole, si inchinò di nuovo a Mr Burden: un inchino molto lieve, persino più breve di quello riservato a Mr Barnett; e mi dispiace dirlo, ma subito dopo ebbe la mancanza di tatto di commentare: “Sono certo che qualsiasi piccola questione desideri sollevare, Mr Burden, possa essere risolta facilmente.”
+
+Il signor Barnett mostrava chiaramente un notevole grado di irritazione.
+
+“Con tutto il rispetto dovuto,” disse — nonostante il suo accento, padroneggiava perfettamente l’idioma inglese — “con tutto il rispetto dovuto e con la massima disponibilità da parte mia, Lord Bent’orpe. Abbiamo, certo, altri interessi da prendere in considerazione oltre ai nostri personali. Dobbiamo anche pensare agli interessi degli azionisti. Credo che tutti siano d’accordo con me, vero? Ah?”
+
+Si appoggiò leggermente allo schienale della sedia, guardò intorno i suoi tre compagni, poi rapidamente verso sinistra, verso il signor Burden: il signor Burden rimase in silenzio, e il signor Barnett continuò a parlare.
+
+“Dobbiamo anche considerare gli interessi degli azionisti. Se fossimo solo noi a doverli proteggere, dovremmo comprendere la posizione del signor Åppott; infatti, ne sono molto sicuro. Ma, ” (e qui il signor Barnett abbassò la voce in un modo che avrebbe potuto essere impressionante anche di fronte a un pubblico più numeroso, e scosse la testa con aria cupa): “Ma temo che non abbiamo scelta, ”
+
+Guardò tristemente per un momento il centro del tavolo, con un'espressione simile a quella di un animale sul punto di essere sacrificato; poi, alzando le mani con i palmi rivolti verso l'esterno, disse, in un improvviso ritorno dei suoi sentimenti naturali:
+
+“Ahimè… Non è entrato! Non è entrato affatto… È proprio sopra la sua testa, dico io.”
+
+Non era frequente che il signor Barnett permettesse a improvvisi impulsi emotivi di risvegliare in lui le esclamazioni della sua giovinezza, ma la condotta del signor Abbott lo colpì profondamente: la trovò stupida e inadatta alle circostanze. Ritenne che fosse pericolosa per l’M’Korio Delta Development Co., e, considerando ciò che sapeva degli inglesi, gli sembrò addirittura “antinglese”. Per quei pochi secondi di rabbia, una frase tipica della sua cultura nativa riemerse in lui, spinta da un impeto di passione naturale.
+
+“Cosmo intervenne con cautela…”
+
+“Forse, padre, potresti andare di nuovo a trovare il signor Abbott, ” Il signor Burden, sentendo la voce di suo figlio e ricordandosi così improvvisamente di casa sua e di tanti anni trascorsi lì, alzò lo sguardo con un dolore terribile negli occhi.
+
+“No,” disse lui.
+
+Poi seguì un altro imbarazzante silenzio, che Lord Benthorpe non riuscì a rompere molto efficacemente ripetendo più volte le parole “Spero. Spero”, mentre guardava intorno con un sorriso incerto.
+
+Il signor Harbury intervenne, con l’aria di un uomo il cui pensiero si è ormai formato; appoggiò il mento sulla mano sinistra e guardò fissamente il signor Burden.
+
+“Signor Burden, credo che ammetterà che il signor Abbott avrebbe dovuto intervenire. Se non lo fa, siamo assolutamente obbligati a opporci a lui con tutte le nostre forze. Lo capisce anche lei, proprio come me. Non può lamentarsi giustamente se distruggiamo ciò che cerca di distruggerci. Non può lamentarsi giustamente se rifiuta di convincerlo ulteriormente e si rifiuta anche di aiutarci nella nostra autodifesa contro di lui. Non esiste alcuna terza via possibile.”
+
+Tutto ciò fu detto con fermezza e chiarezza, poiché il signor Harbury aveva da tempo imparato a esprimere ciò che doveva dominare la mente di un uomo debole; ma il signor Burden era così malato da essere capace di comportamenti perversi e irrazionali; inoltre, la rabbia che spinge gli uomini alla follia stava nuovamente montando in lui.
+
+Gridò molto più forte di quanto avesse intenzione…
+
+“Ho detto tutto ciò che dovevo dire.”
+
+La sua rabbia lo invase e lo spinse ad agire; in un certo senso riusciva a controllare il proprio corpo, ma non più la propria mente; continuava quindi a parlare ad alta voce, senza motivo alcuno, dimenticando completamente la decisione di mantenere la calma.
+
+“Non parteciperò mai a alcuna intrigha contro il mio amico!”
+
+Tali sono i limiti della natura umana, tale è la sua debolezza, che anche uomini come il signor Barnett – che per tutta la vita hanno saputo come gestire gli altri – possono perdere la loro compostezza in un momento di furia intensa. Guardò intorno con rapidità, portò il viso avanti troppo bruscamente, come se si trovasse di fronte a un avversario, e gettò nel fuoco già acceso del signor Burden l’olio dell’insulto.
+
+Quei due profondi solchi che segnavano le guance pesanti del finanziere, come rughe, e che abbassavano gli angoli della sua bocca, si trasformarono in una sorta di sorriso crudele; e lui disse, senza aprire i denti:
+
+“La tua festa costerà solo quello che hai in tasca…”
+
+Allora il signor Burden, con la forza che gli ribolliva dentro nonostante l’età, nonostante la malattia, e col desiderio di libertà che lo animava nonostante la ricchezza, gridò verso di lui:
+
+“Stai attento, Barnett, stai andando un po’ troppo oltre, davvero troppo. Io non lo farei mai, nemmeno per tutto l’oro del mondo!”
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_03" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/capitalism,concept/power_and_corruption,concept/satire_of_society,concept/conscience,concept/courage,concept/friendship,concept/truth,form/satire,histref/british_empire,setting/london"></span>
@@ -4943,6 +7241,58 @@ There are duties of many kinds; and Cosmo was doing one of these many duties as 
 He saw his father pass the statue of Mr Peabody, philanthropist, cross Cornhill, and King William Street, and make for the Cannon Street terminus; but Cosmo was a man to do his duty, when he did it, thoroughly: it is a habit to which he owes the great position he now enjoys.11 He did not lose sight of Mr Burden until he had seen him actually enter the gates of the railway station; then only did he turn away, with heaven knows how much relief, and plan such recreation as was legitimately his after the strain of the last few hours. He sent first a telegram to Mr Barnett to reassure him, and then cast off all business and went west, to spend the evening with such companions as he had previously engaged.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il respiro del signor Burden era molto affannoso; le sue labbra erano strette insieme più di quanto chiunque avesse mai visto prima, e la sua testa era piena di rabbia. Ma anche il signor Barnett provava rabbia, sebbene di un tipo diverso, nato da circostanze diverse. E disse, con un sorriso beffardo completo, mentre prima c'era stato solo un mezzo sorriso:
+
+"Cosa puoi fare? E allora?"
+
+Ripeto, per la ventesima volta, che la conoscenza degli uomini da parte del signor Barnett non lo aveva mai tradito. Non si deve giudicarlo in base a questo caso eccezionale, né condannarlo perché ha sottovalutato le follie che uomini come il signor Burden possono commettere quando il loro stato mentale è quello in cui si trovava allora il signor Burden. Infatti, un’emozione intensa come quella del combattimento possedeva il signor Burden; essa dominava il suo corpo ormai anziano e indebolito, costringendo i suoi organi a superare i loro limiti e mettendo a dura prova la struttura fisica della sua vita. In quell’emozione aveva dimenticato le regole del comportamento decente; aveva dimenticato gli investimenti e tutto ciò che essi dovrebbero significare per un uomo giusto e ragionevole. Ripeteva quelle parole senza muoversi.
+
+“Cosa posso fare?” Lo disse due o tre volte a bassa voce. Ricordò una lettera furiosa indirizzata alla stampa che non aveva mai inviato; ricordò la sua paura che la stampa rifiutasse di pubblicarla. Ricordò le sofferenze che aveva provato mentre il gruppo editoriale preparava quella lettera, ricordò la sua resa, e a cosa gli era costata quella resa nel profondo della sua anima. Ma soprattutto ricordò il signor Abbott, Charles Abbott, il suo amico. E, ricordando tutte queste cose, perse completamente il controllo di sé.
+
+Afferrò il cappello dal suolo e se lo infilò in testa alla rinfusa; si alzò di scatto, tenendo la sedia inclinata all’indietro con una mano, mentre con l’altra afferrava l’ombrello con aria trionfale, con l’estremità rivolta verso il suolo, come se fosse la guaina di una spada. Sembrava energico, o forse solo distratto, inebriato dalle parole che gli venivano in mente.
+
+Il signor Harbury, il cui giudizio in queste questioni ho sempre fiducia, e che un tempo conosceva bene le tecniche di gestione del palcoscenico, mi ha detto che in tutta la sua vita, nemmeno nel Levante, aveva mai visto una scena d’ira così drammatica come quella di questo vecchio inglese: tutto il suo abbigliamento rispettabile era in disordine; i suoi gesti composti tipici degli inglesi si trasformarono in quelli di un uomo che lotta o lavora sodo; e c’è un dettaglio degno di nota: il gioiello di osso che portava al collo si ruppe quando si alzò in piedi, e il colletto gli si allentò improvvisamente. Gridava contro di loro.
+
+“Cosa posso fare? Oh, posso fare molto, davvero! Tu, Barnett, tu, Harbury, e tutti voi! Tutti!”
+
+Forse sentiva davvero la presenza di una folla: le forze schierate di questo nuovo mondo che si riversavano contro di lui; parlava come se stesse rivolgendosi a molte persone.
+
+# Il signor Burden nel suo ultimo e sfortunato accesso di passione
+
+#Da uno schizzo gentilmente fornito dal signor Harbury
+
+“Posso distruggerlo! Posso distruggere te, i tuoi preziosi azionisti, e il Duca, e tutto quanto! Posso spiegare perché l’ho fatto! Eh? Oh, mio Dio! E lo pubblicherò io stesso. Se non lo pubblicano sui vostri maledetti giornali, lo affigerò ovunque; coprirò tutta la città con esso; farò apparire i vostri nomi in evidenza, tutti quanti i vostri nomi: quelli che nascondete, e quelli che avete avuto e poi perso, truffatori, ladri, spazzatura!”
+
+E, dopo quell’esplosione di emozioni, si riprese per un momento e si allontanò da loro, respirando affannosamente; intanto il signor Harbury guardava giù, mentre il signor Barnett sorrideva con un sorriso tirato, pieno d’odio, ma senza mostrare paura.
+
+Lord Benthorpe, che in gioventù era stato soldato, aveva davvero paura; temeva qualcosa di indescrivibile, la catastrofe. Non riusciva a comprendere quelle cose.
+
+Nella mente del signor Burden passò un momento di calma che egli scambiò per autocontrollo; si sistemò il colletto cercando di allinarlo, assunse un’aria dignitosa e, in piedi rigido, si rivolse a suo figlio dicendo:
+
+"#Vieni con me, Cosmo."
+
+Cosmo, profondamente turbato da quella scena selvaggia, guardò nervosamente verso il tavolo, mescolò i documenti davanti a sé e mormorò quasi inudibilmente:
+
+“Non fare la figura dello sciocco, padre.”
+
+Poi il signor Burden, chinandosi in fretta, uscì.
+
+Passarono ben tre minuti di silenzio; durante quel tempo, il viso del signor Barnett assomigliava a quello di uno di quegli antichi e mostruosi oggetti, enormi, estratti dalle sabbie assire. Il signor Harbury tossì due volte, guardando intorno con esitazione, mentre Lord Benthorpe tamburellava le dita sulle ginocchia tremanti.
+
+Allora Cosmo, ancora confuso, desideroso di vedere se davvero avrebbe rovinato tutto e volendo liberarsi dall’atmosfera di rabbia, si alzò e uscì per seguire suo padre.
+
+Nella strada, un altro di quei pochi elementi che sostengono la struttura della vita umana si spezzò dentro di lui; l’effimera scintilla di energia dell’uomo anziano si esaurì completamente e scomparve per sempre.
+
+L’azione meccanica continuava; poteva muoversi tra le folle con cui aveva vissuto per cinquanta anni, ma provava una tensione crescente nel cervello, e una sorta di perdita di controllo e potere, proprio come avviene alle persone che stanno annegando e perdono i sensi poco prima di morire.
+
+A pochi passi dietro di lui c'era Cosmo, suo figlio. Interessi ben più importanti della vita di un singolo uomo rendevano essenziale per Cosmo che il piano dei M’Korio non venisse tradito. C'era ancora il tempo affinché suo padre potesse comunicare la sua rinuncia a quel progetto; c'era abbastanza tempo anche per recarsi in uno di quei giornali che, nonostante le perdite e l’opposizione meritata del pubblico, continuavano a diffondere informazioni negative sul nostro grande progetto imperiale. L’accordo era stato concluso. C’era ancora il tempo per rovinare tutto prima dell’alba. E Cosmo non poteva nemmeno immaginare quanto soffrisse suo padre: agiva nell’interesse dei M’Korio, e, fortunatamente, suo padre non sapeva che lui lo stesse facendo.
+
+Esistono molti tipi di doveri; e Cosmo stava svolgendo uno di questi doveri nel modo migliore che conosceva.
+
+Vide suo padre passare davanti alla statua del signor Peabody, filantropo, attraversare Cornhill e King William Street, dirigendosi verso la stazione ferroviaria di Cannon Street; ma Cosmo era un uomo che, quando si impegnava in qualcosa, lo faceva con assoluta dedizione: questa abitudine gli aveva permesso di raggiungere la posizione elevata che ora occupava. Non perse di vista il signor Burden finché non lo vide entrare effettivamente nei cancelli della stazione ferroviaria; solo allora si allontanò, provando chissà quanto sollievo, e iniziò a pianificare il modo in cui potersi rilassare dopo le intense emozioni delle ultime ore. Prima inviò un telegramma al signor Barnett per rassicurarlo, poi lasciò da parte ogni impegno lavorativo e si diresse verso ovest, per trascorrere la serata con gli amici che aveva già invitato.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_04" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/disease_and_contagion,concept/empire_and_imperialism,concept/satire_of_society,concept/mortality,form/satire,histref/british_empire,setting/london"></span>
@@ -4976,6 +7326,36 @@ It was his house, and he was master of it. He felt in his pocket for a key, and 
 
 As he grated at the door, a faithful servant of his, a woman of the name of Kate Hatteras, heard him, and ran and opened. He would have told her the miracle of the door and of the key, but Pain — now grown into the whole of himself and wrestling hard, a power that knew its aims — Pain constrained him. He groaned, and his servant supported him deftly with her laborious and dutiful arm, and there flashed between them that good bond of long acquaintance, and Charity came into this house and visited its dying master — the first of the last angels. And, after Charity, there came those three great spirits, whose Hebrew names I never knew, but which are called in our language the Design, and the Mercy, and the Justice, of God.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma il signor Burden, sopraffatto dal peso crescente della sua malattia, esitò mentre si avvicinava a ritirare il suo biglietto. L’aveva dimenticato e non riusciva a ricordare nulla; non si ricordava nemmeno del suo abbonamento stagionale. Mentre stava davanti alla piccola finestra, una folla impaziente si radunò dietro di lui, maledicendo il suo ritardo. Aveva persino dimenticato il nome della stazione dove viveva. Il commesso, però, fu abbastanza veloce nel risolvere il problema: prese la moneta d’oro che l’anziano commerciante aveva lasciato e gli diede in cambio un biglietto di terza classe che lo avrebbe portato fino alle estremità della zona suburbana. Il signor Burden guardò il nome sconosciuto sul biglietto e si incamminò lentamente verso la banchina; dalla lunga fila di persone che aveva appena liberato provennero numerose battute ironiche, soprattutto da parte di qualcuno in testa alla coda, che lo soprannominò pubblicamente “Matusalemme”. Il signor Burden, camminando confusamente verso il treno, non sentì nemmeno quelle battute.
+
+Sul marciapiede, i facchini lo riconobbero e, nonostante il colore del suo biglietto, gli aprirono una carrozza di prima classe; uno di loro, con la solita cortesia della sua gente, lo aiutò a prendere posto, poi, girandosi, gli batté sulla fronte e fece un gesto osceno con il pollice indicando verso il basso; infatti, il signor Burden era chiaramente molto malato.
+
+Nel treno sedeva, sollevato dal riposo che finalmente trovava, e si rendeva conto (in modo vago) che un vecchio, nell’angolo di una carrozza ferroviaria, era più al sicuro da insulti e attenzioni indesiderate rispetto a chi vagasse su una banchina, esposto alle battute derisorie dei passanti.
+
+Se ne stava seduto, immobile; di tanto in tanto le sue sopracciglia si contraevano. I nomi delle stazioni lo soddisfacevano, perché gli erano familiari. Provò a ricordare l’ordine in cui apparivano, o almeno i nomi di quelle che non aveva ancora raggiunto; ma non ci riuscì. Era perplesso e guardò intorno ai suoi compagni di viaggio, come se cercasse aiuto. Loro lo lanciarono occhiate sopra i loro giornali e capirono che era malato. Temevano che potesse creare problemi. Uno, più raffinato degli altri, scese alla prossima fermata. Gli altri si difesero con il silenzio, continuando a leggere tranquillamente dietro la “barriera” dei giornali serali.
+
+L’uomo anziano si voltò verso la finestra accanto a loro e osservò le stazioni e le persone mentre il treno proseguiva il suo viaggio. Vide i cartelli pubblicitari con i nuovi annunci, evidenziati dalle luci intense; recitò lentamente per sé stesso i titoli dei giornali. In qualche modo, senza sapere esattamente perché, quei titoli gli provocavano ansia. Lo turbavano.
+
+Poi ci fu un po’ di oscurità e un rumore; sentì il nome di Norwood. Lo riconobbe subito, scese dalla macchina e rimase indeciso davanti al cancello. Il collezionista prese il biglietto dalle sue mani e sorrise. Il signor Burden lo guardò fissamente, chiedendosi il motivo di quel sorriso, e per un momento provò una forte ondata di rabbia. Pensò anche lui che quell’uomo fosse uno dei suoi nemici.
+
+Ma dopo provò una sensazione confusa di piacevole associazione. Lo aveva scambiato stupidamente per un amico e aveva sorriso e annuito in risposta. Poi, seguendo un istinto puro, simile a quello degli animali, trovò la strada verso casa sua.
+
+Percorse quella strada familiare, con la testa che gli girava; una sorta di legame, simile all’acciaio, lo opprimeva interiormente; e mentre camminava, provava un dolore sordo e continuo. I suoi passi lenti lo disturbavano; di tanto in tanto, quei battiti pulsanti, come l’artiglieria della Morte che prepara il suo attacco, colpivano le pareti del suo essere.
+
+Il grave malessere del signor Burden nel treno
+
+Si tenne sempre lungo lo stesso bordo del marciapiede per essere più sicuro; e una volta pensò: “Forse sono ubriaco”. Perché gli balenò due volte nella mente l’idea di essere diverso da sé stesso; e gli tornarono in mente i ricordi di quella notte quarant’anni prima, quando aveva bevuto un intera bottiglia di vino. Sentì di nuovo la rabbia di suo padre; e gli sembrò, in modo fantastico, che stesse per incontrare di nuovo quell’ira, dopo tutti quegli anni.
+
+Le funzioni essenziali dell’umanità stavano venendo meno in lui: memoria, capacità di connessione con gli altri, armonia interiore. Oh, povero signor Burden! Non aveva mai capito cosa intendessero i predicatori quando parlavano; non aveva mai compreso ciò che lo aspettava quando si discuteva dell’Anima. Nel suo credo recitato, il signor Burden l’aveva definita “immortale”, e aveva avuto pienamente ragione nel farlo. Avrebbe dimostrato di avere ragione attraverso prove straordinarie, ma facendolo sarebbe andato ben oltre il significato delle parole sue o loro.
+
+Percorse quella strada familiare; vide i cancelli della sua casa – entrambi apparivano bianchi nella luce del crepuscolo. L’abitudine, o il rituale, che è come una buona infermiera nelle ultime ore di vita di un uomo sano di mente, lo guidò oltre il primo cancello. Superò la casetta di guardia e, ancora barcollando, raggiunse i gradini della sua porta. Qui, l’anziano avrebbe potuto sedersi, come fanno i mendicanti, per riposare, se non fosse stato per quell’abitudine che continuava a mantenerlo in forze: perché mai, nella sua vita, aveva fatto qualcosa di così strano, come sedersi sui gradini di casa propria?
+
+Era la sua casa, e lui ne era il padrone. Cercò nella tasca una chiave e la trovò. Provò ad usarla per aprire la porta, ma la chiave era troppo grande. Molti pensieri lo confusero contemporaneamente; era tormentato dal dolore e dalla morte. Il dolore e la morte lottavano contro la sua debolezza umana, cercando di dominarlo. Ma ancora non erano riusciti a “montargli in sella”. Era deciso ad aprire da solo la porta della sua casa. Gli vennero in mente molte idee: forse la porta era cambiata, o forse la chiave. Di casa sua e di sé stesso era ancora sicuro; ma la sua chiave e la sua porta erano già entrate in quel mondo in cui tutte le cose comuni cambiano e si mescolano. E in cui altre cose, meno conosciute, emergono per sempre, immutabili. Di casa sua e di sé stesso era ancora sicuro. Ma lui stesso, e la sua casa, ahimè, stavano per seguirle.
+
+Mentre grattava alla porta, una fedele serva sua, di nome Kate Hatteras, lo sentì e corse ad aprirla. Avrebbe voluto raccontarle il miracolo della porta e della chiave, ma il Dolore – ormai diventato tutta la sua essenza e lottando con forza contro quella forza che conosceva i propri obiettivi – lo costrinse a tacere. Lui gemette, e la sua serva lo sostenne abilmente con il suo braccio laborioso e devoto; tra loro balenò quel legame profondo nato da una lunga conoscenza. La Carità entrò in quella casa per visitare il suo padrone morente, l’ultimo degli angeli. E dopo la Carità, arrivarono quei tre grandi spiriti, i cui nomi ebraici non conoscevo mai, ma che nella nostra lingua vengono chiamati il Disegno, la Misericordia e la Giustizia di Dio.
 
 
 
@@ -5017,6 +7397,42 @@ De profundis oro Te.
 Miserere, Judex Meus,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La carità e la vecchia serva lo aiutarono ad alzarsi le scale, consolandolo; avrebbe continuato a parlare della chiave e della porta; sorrideva con quei sorrisi tipici di un bambino o di un uomo molto anziano. Poi il dolore tornò e iniziò a gemere; il dolore era nella testa, là dove si trova la “cittadella” di un uomo assediato. La sua “rocca fortezza” era stata presa.
+
+Una volta, durante quell’ultima piccola pellegrinazione, su una fermata, si fermò e cercò di pronunciare alcune sillabe confuse, dovute alla vecchiaia. Voleva ringraziare cortesemente il suo compagno: nessun altro gli aveva dimostrato davvero gentilezza in tutte quelle terribili ore; ma, mentre provava a farlo, la chiave gli tornò in mano. La menzionò nel suo discorso, fece una piccola smorfia e poi si fermò di nuovo.
+
+“Come, signore,” disse quella donna ammirevole, “venite con me; vi sentirete meglio, signore. Non fate così. Ora non dite ‘ee’, ” Poiché era nata lontano dalle città, per lei il suo dovere, il suo servizio, la sua onorabilità, il suo duro lavoro e quel suo modo particolare di parlare inglese erano tutte una cosa sola.
+
+Quindi trovò conforto, nonostante il dolore, e l’aiuto di lei fu la sua forza; da quel momento fino alla morte, non ebbe altri amici.
+
+Il signor Burden fu messo a letto non solo da questa serva, ma anche da un'altra di nome Elizabeth, e anche dal ragazzo incaricato delle faccende domestiche; quest'ultimo, infatti, svolgeva il proprio compito quotidiano prima delle nove, ma spesso rimaneva in casa contro gli ordini fino alle undici, per potersi divertire con i suoi simili. E tutti e tre questi – Kate Hatteras, Elizabeth e il ragazzo incaricato delle faccende domestiche – provavano grande rispetto di fronte a quest’uomo buono, che Dio aveva creato e protetto, e che ora lo stava riprendendo a sé, lontano da Upper Norwood e dall’[[England|Inghilterra]].
+
+Il peso e la grotesca natura del loro compito si trasformavano in qualcosa di sublime; si sentivano come viaggiatori la cui nebbia si diradava, permettendo loro di vedere, con stupore, la maestosità delle grandi montagne davanti a loro. Le loro anime venivano elevate dall’apparente vicinanza di quelle terribili porte, attraverso le quali anche loro avrebbero dovuto passare, un giorno. Vedevano rivelate, per qualcun altro (ma essi stessi avevano già ricevuto quella rivelazione), le cose che ognuno di noi è destinato a vedere, nel proprio momento, nel proprio terribile giorno.
+
+Kate Hatteras, risoluta ed efficiente, lasciò il ragazzo a guardare, chiamò un messaggero al telefono, lo mandò in una casa di riposo vicina e, trovata una cabina, le fece portare non qualche celebrità, ma un medico del posto di cui aveva fiducia. In meno di un’ora, nella casa c’era già una infermiera di una certa età ed esperienza, anche se non particolarmente riposata; subito dopo arrivarono tutti i necessari strumenti medici e, poco dopo ancora, il giovane medico, nervoso ma con un sorriso regolare, che entrò nella stanza e diede a “Morte” un nome molto specifico.
+
+Ma la Morte non aveva bisogno di alcuna definizione qui. Era presente con i suoi titoli più antichi, dominante su un trono, comandando quell’infinito spazio vasto in cui le strette mura di una povera dimora umana non si vedevano nemmeno, così fragili erano. Le sue armate, chiamate all’ordine, riempivano tutto intorno: lei era nel suo regno e nel suo potere.
+
+I servitori furono mandati da Kate Hatteras ad andare a dormire. Il dottore scrisse qualcosa di inutile e lo lasciò per il mattino seguente. Era già passata la mezzanotte. Kate Hatteras si sdraiò nella stanza vicina, dove pochi giorni prima aveva avuto luogo quella consultazione; si addormentò vestita e sognò una riva desolata, dove il crepuscolo si estendeva all’infinito su sabbie monotone, accanto a un mare silenzioso. Ma accanto a lei, nel suo letto (e sopra di lui c’era qualche testo incorniciato), giaceva Mr Burden, il suo buon padrone, nella sofferenza di quell’ultima battaglia decisiva dopo la quale, si dice, inizia l’orizzonte.
+
+Mormorava in modo incoerente, con pause di silenzio tra una parola e l'altra; l'infermiera, sebbene priva di sonno, riteneva fosse suo dovere vegliare. La notte di settembre era fredda; fu acceso un fuoco. Lei sedeva immobile, fissando il fuoco, finché, in un momento ancora più lungo di silenzio, la sua testa si abbassò. E il suo corpo, nonostante la sua volontà, cadde privo di sensi nel sonno. Ma intorno all’uomo morente c'erano altri compagni.
+
+Ora questo, ora quello. Tutto ciò che apparteneva al lontano passato era ancora con lui; persone e cose, tutte banali. Parlò due volte di un ordine. Poi chiese a un impiegato di scrivere qualcosa. Ma per chi? Dimenticò il nome. Dimenticò davvero il nome. Si lamentò della propria memoria; poi sospirò leggermente e rimase in silenzio.
+
+In un attimo si girò e ricominciò a mormorare. A molti amici, ormai morti da tempo, parlava della chiave e del suo onore, cercava un nome che potesse rappresentare allo stesso tempo un traditore e un amico perduto, qualcosa di malvagio nel mondo, forse un figlio. Quel tentativo lo sforzò troppo; gemette di nuovo e rimase in silenzio. Un’unica, persistente preoccupazione continuava ad assillarlo: qualcuno stava agendo contro la sua volontà in casa, una qualche disputa, forse i bambini, o magari un servitore? Sua moglie era lì, al suo fianco, a rinnovare vecchie divergenze familiari. Ma no! Era disposto ad arrendersi. Qualsiasi cosa, pur di alleviare la febbre che cresceva dentro di lui. Tuttavia desiderava che lei fosse più vicina a lui e che capisse meglio, perché stava molto male. E continuava a sussurrare: “Come vuoi tu, cara, come vuoi tu.” Poi, quasi ad alta voce: “Non andartene, non andartene senza risolvere questa questione, cuore mio, ” Ma lei se n’era già andata.
+
+Il signor Burden aprì gli occhi: sapeva di essere sveglio; vedeva chiaramente il soffitto e i suoi motivi in stucco, sotto la debole luce del fuoco che si spegneva. Sua moglie, l’immagine reale di lei, gli balenò nella mente; sapeva che era appena andata via, aveva chiuso la porta e lo aveva lasciato solo. Non riusciva a muoversi: qualcosa si era rotto, tutto stava cambiando. Si sentiva completamente solo.
+
+La solitudine lo colpì all'improvviso, sopraffacendolo; onda dopo onda di vastità crescente, i confini si allontanavano sempre di più, diventando infinitamente lontani con ogni battito più debole delle tempie. Poi calò il buio. E l’Infinito in cui sprofondò era pieno di quell’antico Terrore che non ha nome tra gli uomini viventi: perché era arrivato il momento del suo passaggio.
+
+# Sanctus Fortis, Sanctus Deus
+
+Dai abissi dell’oscurità ti offro l’oro.
+
+# Miserere, Judex Meus
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_06" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 6)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/city"></span>
@@ -5043,3 +7459,28 @@ Honest Englishman and good man — I wish I could have written of him in nobler 
 ENDNOTES.
 
 11 Honorary L. L. D. of Dublin: trustee of Holy Souls Hospital. P. G. M. of the A. G. O. and major in the volunteers.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mortis in discrimine.
+
+La testa del signor Burden si mosse leggermente verso destra, la mascella gli cadde, le mani iniziarono a tremare e poi diventarono rigide. Il signor Burden era morto.
+
+La luce sporca si diffondeva nell’est del mondo, illuminando senza speranza il lavoro e la disperazione della [[City|città]]; gli alberi maestri e le sartie delle navi, lontane nei porti, apparivano nitidi e reali. C'era un tenue bagliore rosato che poi svaniva; uno dopo l’altro, dei suoni leggeri annunciavano l’inizio di una nuova giornata: un uccello tra i rami neri degli alberi distrutti, il rumore di passi sulla strada. Poi il suono delle ruote: era Cosmo che tornava a casa.
+
+La sua voce sommessa, ma piuttosto roca, mentre pagava il tassista, risuonò in quella rara mattina; lasciò cadere una moneta sul marciapiede e lei tintinnò. Si poteva persino sentire la chiave che tremava nella serratura, anche se lui la girava con delicatezza. Era molto attento a non disturbare il riposo di suo padre, proprio come faceva sempre quando tornava a casa dopo una notte trascorsa tra divertimenti con i suoi simili. Si tolse gli stivali, facendo parecchi errori, e salì le scale in silenzio, tenendosi bene alla ringhiera. Arrivato nella sua stanza, si sdraiò subito per dormire, ancora mezzo vestito, il sonno di cui aveva bisogno.
+
+Un’ora dopo, quando era ormai giorno fatto, l’infermiera che si trovava nella stanza del morto cominciò a russare rumorosamente, si agitò e poi si svegliò. Si guardò intorno, sorpresa da ciò che vedeva nel letto. Ma la sua grande esperienza le permise di calmarsi; fece ciò che doveva fare e andò nella stanza accanto, non volendo rimanere sola. Kate Hatteras si svegliò al suo tocco; insieme osservarono la situazione, e solo quando furono sicure che fosse arrivato il momento giusto decisero di svegliare tutta la casa. Si accesero i fuochi per preparare la colazione, e qualcuno chiamò Cosmo per informarlo di ciò che era accaduto durante la notte.
+
+Due giorni dopo, con una certa solennità, restituirono il corpo alla terra, in quella parte del cimitero di Norwood dove si trovava la tomba che aveva acquistato: appena oltre le sezioni dedicate ai cattolici romani e agli ebrei. Ormai, da circa cinquantatré ore, lo spirito suo era tornato a Dio che lo aveva dato.
+
+E così seppellirono Emmanuel Burden, un commerciante di ferramenta; suo figlio ereditò la sua fortuna.
+
+Non ho alcuna preoccupazione per lui al Giudizio Universale. Per più di vent’anni ha sopportato con affetto le difficoltà della vita domestica; ha cresciuto tre figli fino alla loro maturità, non ha sprecato né la propria salute né il proprio patrimonio, ma ha aumentato la propria fortuna con mezzi onesti e sobri, contribuendo anche in parte al benessere del paese che amava. Ha sempre votato secondo quanto riteneva fosse meglio per gli interessi della Gran Bretagna: ha sostenuto le amministrazioni di Lord Gladstone fino all’anno fatale del 1885, e da allora si è impegnato affinché il candidato unionista o conservatore ottenesse la vittoria. Ma ora il signor Burden è morto. E non so proprio chi possa prendere il suo posto.
+
+Un onesto inglese, un uomo buono. Vorrei tanto aver potuto parlare di lui in termini più nobili.
+
+Note finali.
+
+11 Onorifici Titoli di L. L. D. di Dublino: fiduciario dell’Ospedale Holy Souls. Presidente del comitato dei volontari dell’A.G.O. e figura di spicco tra i volontari stessi.

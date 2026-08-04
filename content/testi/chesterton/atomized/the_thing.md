@@ -15190,7 +15190,7 @@ to the English name.
 
 <span class="qlang-split" data-lang="it"></span>
 
-I LINEAMENTI DELLA CADUTA
+Il profilo della caduta
 
 HO osservato l'insolita azione di retroguardia basata sull'intimidazione che si sta combattendo per coprire la ritirata dei darwinisti.
 Un esempio dello stesso fenomeno è emerso in relazione a un nome molto più famoso; anzi, a due nomi celebri. Il signor H.G. Wells ha risposto al signor Belloc, che aveva scritto una critica del "Compendio di [[history|storia]]", principalmente per protestare contro un certo tono di generalizzazione arbitraria e di presunta conoscenza dell'ignoto. Un caso tipico è quello in cui il signor Wells ha affermato riguardo agli uomini che disegnavano renne nelle caverne: "Non sembra esserci spazio in una vita del genere per la speculazione o la [[philosophy|filosofia]]", e il signor Belloc, non senza ragione, ha risposto: "Perché mai no?"

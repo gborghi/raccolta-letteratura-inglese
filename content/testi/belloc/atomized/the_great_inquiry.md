@@ -711,6 +711,12 @@ LOOK ON THIS PICTURE
 “I AM LEAN AND LIVELY.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Ballycannon. Britanni! Guardate questa immagine.
+
+"#Sono snello e vivace."
+
 
 
 <span class="atom-split" data-atom="story_02_and_on_this" data-title="The Great Inquiry — And On This." data-chapter="And On This" data-kind="story" data-tags="form/satire,histref/marconi_scandal"></span>
@@ -724,6 +730,15 @@ THE GREAT INQUIRY
 (ONLY AUTHORISED VERSION)
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+E su questo.
+
+“Sono troppo grasso.”  
+La grande domanda
+
+# Solo versione autorizzata
+
 
 
 <span class="atom-split" data-atom="story_03_faithfully_reported" data-title="The Great Inquiry — Faithfully Reported" data-chapter="Faithfully Reported" data-kind="story" data-tags="form/satire"></span>
@@ -736,6 +751,14 @@ By H. B.
 REPORTER TO THE COMMITTEE,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Rapportato fedelmente
+
+By H. B.
+
+# Rappresentante del comitato
+
 
 
 <span class="atom-split" data-atom="story_04_and_ornamented_with_sharp_cuts_drawn_on" data-title="The Great Inquiry — And Ornamented With Sharp Cuts Drawn On The Spot" data-chapter="And Ornamented With Sharp Cuts Drawn On" data-kind="story" data-tags="form/satire"></span>
@@ -747,6 +770,14 @@ By G. K. C.
 
 DUCKWORTH & CO.,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Decorato con tagli netti eseguiti sul posto
+
+By G. K. C.
+
+# Duckworth & Co.
 
 
 
@@ -848,6 +879,102 @@ This unpleasant scene was succeeded by the testimony of a very different witness
 At this moment, Mr. Balfour observing that the Committee had sat for full twenty minutes, the inquiry was adjourned. Mr. Chamberlain went out with Lord Renton, and partook of his motor-car, as he was stopping with His Lordship from Saturday to Monday.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+3 HENRIETTA STREET, COVENT GARDEN, W.C.
+
+Registro ufficiale delle deliberazioni della Grande Indagine
+
+Con le sue conclusioni, il rapporto della maggioranza e quello della minoranza, ecc.
+
+Stampato su ordine del Comitato.
+
+Il vostro organo investigativo, o commissione d’inchiesta, è stato formato da alcuni membri del Gabinetto e ha il potere di ampliare la sua composizione.
+
+Di questo potere si sono serviti con moderazione e saggezza, come dimostrerà l’elenco seguente:
+
+Il Segretario di Stato Privato.
+
+Il signor Joseph Chamberlain, membro del Parlamento.
+
+Il Primo Ministro.
+
+Sua Grazia il Duca di Marlborough.
+
+Sua Eccellenza il Marchese di Lansdowne.
+
+Signor Austen Chamberlain.
+
+Il signor Gerald Balfour.
+
+Il Segretario Coloniale.
+
+Il Sottosegretario per le Colonie.
+
+Segretario degli Affari Esteri di Sua Maestà.
+
+Il Capo Postale Generale.
+
+#E, davvero…
+
+Il signor Balfour in persona.
+
+Questi signori, il vostro Comitato, dopo essere stati giurati nel modo scozzese, “che avrebbero rivelato la verità, tutta la verità e solo la verità, quella che potesse giovare e servire questo nostro regno d’Inghilterra, delle Isole del Canale e di tutti i nostri domini al di là dei mari”, così sia Dio con loro. L’udienza iniziò con una preghiera affinché la saggezza di questo mondo venisse trasformata in follia, che l’orgoglio falso della Ragione fosse umiliato e che l’arroganza dei filosofi venisse confusa.
+
+Fu chiamato a testimoniare il signor Baines di Middlesbrough, un uomo dall'aspetto distinto, il quale dichiarò quanto segue:
+
+Il paese era sull’orlo del declino. Nel settore siderurgico, la concorrenza con l’America, e in seguito con il Belgio e la Germania, si era fatta estremamente sentire. Da nel 1892, sia la signora Baines che suo figlio avevano vissuto molti momenti di ansia. L’eccessiva spesa del loro figlio maggiore William all’università, che in circostanze normali non avrebbe dovuto causare loro preoccupazioni, li aveva quasi distratti e aveva portato a un rapporto molto teso tra genitori e figlio. Negli ultimi otto anni, William era riuscito a trascorrere a Londra per non più di un mese, al massimo sei settimane, durante la stagione estiva, e anche questo in una casa affittata. Nell’anno peggiore, il 1897, la signora Baines aveva dovuto cercarsi un alloggio temporaneo. Solo grazie a un’attenzione costante e meticolosa ai dettagli era stato possibile mantenere l’attività commerciale in funzione. I suoi capelli, che vent’anni prima erano di un bel colore marrone nocciola, ora erano completamente grigi e diventavano sempre più sottili e radi.
+
+“Una persona dall’aspetto distinto.”
+
+Il signor Gerald Balfour, che aveva seguito molto attentamente il lato pratico della discussione, chiese a questo punto quale rimedio il signor Baines proponesse per risolvere questa situazione.
+
+Il signor Baines rispose che sembravano esserci soltanto due possibili soluzioni. Il modo migliore sarebbe stato che il governo gli pagasse ogni trimestre non meno di 25 scellini per ogni tonnellata di ghisa che fosse in grado di produrre. Se, per motivi politici, fosse stato impossibile concedergli tale somma, la seconda soluzione consisteva nell’imporre una tassa su tutti gli altri tipi di ferro, in modo da far aumentare il prezzo del suo ferro di una quantità simile.
+
+Alla domanda del signor Chamberlain se riteneva che i salari dei suoi lavoratori aumentassero con un sistema del genere, il signor Baines sembrò leggermente perplesso e ammise di non comprendere il senso della domanda.
+
+Il signor Chamberlain (sorridendo piacevolmente): “Formulerò la mia domanda in un altro modo. Offrireste ai vostri dipendenti una parte dei profitti così ottenuti?”
+
+# Mr. Baines (perplesso): “Perché dovrei farlo?”
+
+Il Capo Postale Generale: “Lasciate che mi occupi io di lui, padre, ” (A Mr. Baines): “Suppongo che tutti i vostri uomini abbiano il diritto di voto, ”
+
+# Il signor Baines: “Sì, tutti tranne Ben Gailey, che ha scontato una pena per il gioco del ‘ghurling’.”
+
+# Che cos’è il ghurling?
+
+# “Che cos’è il ghurling?” chiese con grande interesse il signor Balfour.
+
+Il Capo Postale (in fretta): “Va bene. Ora la domanda è questa: se vi diamo 1 sterlina di sconto per ogni tonnellata di ghisa che mettete sul mercato, e stabiliamo come condizione che paghiate almeno il 5% in salari aggiuntivi, accettereste?”
+
+# Mr. Baines: “Come un pazzo!”
+
+Il testimone, il quale fu elogiato da Lord Lansdowne per il modo coraggioso e schietto con cui aveva fornito le sue testimonianze, si ritirò poi dal banco dei testimoni.
+
+Il signor Harry Gibbs, agricoltore di Goudhurst, interrogato riguardo alle luppoline, disse che quelle provenienti dall’estero erano di qualità molto scadente. Conosceva bene la situazione; era una persona pragmatica. Disse: “Che il governo proibisca l’importazione di tutte le luppoline straniere, sia quelle del Sussex che di altre regioni, e che ai produttori di birra venga imposto un legge che vieti loro di acquistare luppoline provenienti dal Kent. C’era quel vecchio Sir Charles Gorle, membro del Parlamento. Lui sapeva con certezza che nella sua birreria non si comprava mai altro che luppoline del Sussex; avrebbe fatto approvare una legge proprio in questo senso, ”
+
+# Mr. Chamberlain (con fermezza): “Si allontani.”
+
+“Testimone (ad alta voce): ‘Ah! Sono un uomo semplice e non devo essere costretto a fare queste cose… Vi dico io…’”
+
+# Lord Lansdowne: “Si ritiri, signore!”
+
+“Testimone (a voce più alta): ‘Vi dico, se lasciate che questi maledetti Sussex W’ops…’”
+
+Tutta la Commissione presenti si alzò all’unisono e ordinò all’ testimone di ritirarsi.
+
+testimone: “Mi sentite? Questi ‘Sussex W’ops… hanno qualcosa di speciale; non sono…”
+
+La polizia qui ha portato via il testimone, che si è dibattuto violentemente, agitando i pugni e gridando.
+
+“Ah, ora sta calmando. Aspetta le elezioni. Ah, vedrai poi in quale direzione andrò. Ah!”
+
+Grida simili si udirono nel corridoio, fino a quando la sua voce non scomparve nella distanza, o forse fu soffocata dalla polizia.
+
+A questa spiacevole scena seguì il testimone di una visione completamente diversa: Lord Renton, il quale riteneva che i soldi dovessero rimanere nel paese. Lui, personalmente, non vedeva alcun motivo per cui dovessimo acquistare all’estero ciò che potevamo tranquillamente produrre da soli. A lui interessava soprattutto il burro. Credeva inoltre che la conservazione delle uova fosse solo questione di tempo.
+
+In questo momento, il signor Balfour, osservando che la commissione aveva già lavorato per venti minuti interi, propose di sospendere l’inchiesta. Il signor Chamberlain uscì insieme a Lord Renton e prese parte al suo autoveicolo, poiché Lord Renton si sarebbe trattenuto da sabato a lunedì presso la residenza del signor Chamberlain.
+
 
 
 <span class="atom-split" data-atom="story_06_the_drain_of_gold" data-title="The Great Inquiry — The Drain Of Gold." data-chapter="The Drain Of Gold" data-kind="story" data-tags="motif/money_and_gold,concept/economics,concept/empire_and_imperialism,concept/satire_of_society,concept/hypocrisy,form/satire,form/parody,histref/arthur_balfour,histref/british_empire,setting/london,character/sir_arthur_conan_doyle"></span>
@@ -946,6 +1073,100 @@ Witness here left the box, and the Committee rose in a state of seething excitem
 Mr. Chamberlain looked radiant in a black frock coat and top hat, with boots to match, and a flower of some kind in his buttonhole, while Mr. Balfour was quite cheerful and vivacious. As the Court rose the opinion was freely expressed that the day’s work has given the Cause a great lift forward.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La fuoriuscita dell’oro.
+
+Nella seconda riunione settimanale del Comitato di Indagine del Gabinetto sul nostro Sistema Fiscale, Lord Halsbury si è unito al comitato.
+
+Il signor Manning, di East Ham, i cui efficaci opuscoli, “What We Really Eat and Not by Bread Alone”, gli hanno procurato una fama meritata, fu invitato a partecipare, ma rifiutò per motivi legati alla lealtà verso il proprio partito.
+
+“Il signor Manning, di East Ham.”
+
+Il Duca di Sutherland, che era stato anch'egli invitato a partecipare, aveva incaricato il suo segretario personale di scrivere qualcosa del genere, esprimendo una profonda solidarietà con gli obiettivi del Comitato, ma ricordando il ruolo importante che aveva svolto nella politica liberale per molti anni, e sottolineando che avrebbe potuto servire meglio quella causa rimanendo legato a un partito che sperava di arricchire con il proprio esempio e il proprio discorso.
+
+Il signor Benjamin Kidd, il primo testimone, dichiarò sotto giuramento di essere un filosofo. Chiese il permesso di esprimersi in termini metafisici, poiché non conosceva altri modi per farlo. Dopo alcune consultazioni, gli fu concesso il permesso e l’interprete incaricato presso Scotland Yard fu chiamato al telefono.
+
+L'interprete ufficiale.
+
+Risolto da questo dubbio, il testimone giurò che la sintesi di un aggregato, reale o immaginario – in altre parole, di tutte le combinazioni possibili – fosse basata sulla comprensione del suo carattere organico o inorganico. Lui non stava affatto dicendo che ci fosse una linea netta e inconfondibile che separasse l’organico dall’inorganico, ma sosteneva comunque.
+
+Signor Chamberlain: Penso che questo punto sia chiaro.
+
+Il signor Benjamin Kidd continuò il suo depoimento affermando che un'entità politica apparteneva senza dubbio al primo tipo, in termini di coscienza. E senza coscienza, dove si trovavano allora? Sostenne inoltre che fosse indiscutibile che tutte le verità fondamentali, compreso l'altruismo, conducevano a un principio centrale: ovvero che, in ogni forma di disuguaglianza, sorgessero delle differenze; altrimenti, dove si trovavano queste differenze? Applicando questa verità primordiale e cosmica al contesto degli scambi internazionali, non poteva concludere se non che qualsiasi aumento materiale nel volume delle merci doveva necessariamente comportare una diminuzione della facilità dei loro scambi, e viceversa.
+
+Il testimone si sedette, e l’interprete, che aveva preso appunti, dichiarò ad alta voce che il discorso del signor Kidd significava, in inglese, che l’eccesso delle importazioni veniva pagato in oro. (Mormori di applausi.)
+
+Il Cancelliere della Corona (con enfasi): L’ho sempre detto!
+
+Signor Chamberlain (con tono trionfale, rivolto al signor Balfour): E ora, che ne facciamo di Seddon?
+
+Il signor Balfour (con un po’ di confusione): Non ho mai detto nulla contro Seddon; inoltre, chi sa cosa possa aver detto Kidd.
+
+Si notò che il signor Kidd scoppiò in lacrime e pianse amaramente; alcune mani gentili lo aiutarono ad arrivare al Carlton, dove il dottor Sir Conan Doyle, V.C., gli prestò immediatamente cure mediche abilmente. Una volta ripresa conoscenza, attribuì le sue sofferenze alla separazione dal Grande Partito Liberale, di cui per tanto tempo era stato il più brillante membro. Il distinto medico, che aveva anch'egli provato simili dolori, cercò di consolarlo nel miglior modo possibile e comunicò la notizia al Comitato, che ne rimase profondamente commosso.
+
+Il signor Chamberlain (con solennità): Se quest’uomo dovesse morire, l’Opposizione porterà un grave peso sulla propria coscienza.
+
+Il Comitato qui presente esprimeva il proprio assenso in sussurri, e l’inchiesta proseguì.
+
+Signor Balfour: Ora credo che il nostro compito sia individuare attraverso quale mezzo l’oro sta venendo fuori e fermare questa perdita.
+
+Il signor Charles Griggs (esperto) ha dichiarato: “Un esportazione di tale quantità d’oro richiederebbe cinquantasei navi, ciascuna lunga 500 piedi e larga 45 piedi, con un pescaggio di 27 piedi”.
+
+Peter Garry (Detective Privato al servizio del Birmingham Caucus): “Ho controllato tutti i porti e posso giurare che da luglio 1902 nessuna nave del genere, per non parlare di cinquantasei, è uscita dal porto con dell’oro a bordo.”
+
+Considerate le difficoltà sollevate da questo testimone, si decise di richiedere ulteriori testimonianze.
+
+Peter Cale, il portiere, ha dichiarato di aver trasportato grandi sacchi contenenti qualcosa di duro e pesante sulle barche passeggeri a Dover lo scorso aprile. Quei sacchi potevano benissimo contenere oro. Ma durante l’interrogatorio successivo è stato precisato che potevano contenere quasi qualsiasi altra cosa; inoltre, non avevano alcun odore particolare.
+
+Martha Quinn, moglie di un lavoratore, giurò che spesso aveva sentito le persone, soprattutto il padrone di suo marito, dire che il potere del denaro permetteva di pagare prodotti stranieri. Anche lei stessa aveva speso una somma considerevole l’anno precedente per fiammiferi norvegesi, tabacco americano, salsicce tedesche e tè straniero, tra altri prodotti. Quando le fu chiesto da dove provenisse quel tè, dopo un po’ di esitazione rispose che pensava venisse da Lipton.
+
+Signor Chamberlain (con severità): Quello rientra nell’ambito di questo Impero.
+
+Martha Quinn, con un gesto di sottomissione, chiese scusa alla Corte. Le fu ordinato di allontanarsi.
+
+Il signor Thomas Hepton, mercante di stoffe di Regent Street, Ovest, giurò che nell’ultimo anno aveva venduto circa 50.000 o 60.000 casse di tessuti stranieri intrecciati, e che ogni singola di queste merci era stata pagata in contanti. Il profitto derivante da queste vendite rimaneva interamente in Inghilterra.
+
+Interrogato sotto contraddizione: Lui stesso non pagò i beni in oro, ma emise un assegno ai suoi banchieri, che senza dubbio inviarono il denaro all’estero in casse da imballaggio; tutto finì nelle mani di quel ⸺ straniero.
+
+Lord Lansdowne: Moderate il vostro linguaggio.
+
+Signor Hepton: Mi dispiace, mio signore, ma se aveste inviato settimana dopo settimana, per dieci anni, casse intere d’oro massiccio in Francia, vi sentireste esattamente come me.
+
+Il signor Haywood di Bicester, il signor Calm di Stroud, il signor Merry di Lincoln, il signor Bowse di Lichfield, il signor Hopper di Lancaster, il signor Grape di Shrewsbury, e altri dirigenti bancari giurarono che la loro attività consistesse quasi interamente nel distribuire ogni giorno grandi quantità di metallo prezioso a persone sospette, molte delle quali avevano l’aspetto di stranieri.
+
+“Con l’arrivo degli stranieri”
+
+Lord Halsbury: Tutto questo sono solo voci, e non vale nemmeno la carta su cui sono scritte.
+
+Durante una breve discussione tra i membri legali e quelli non legali del Comitato, una persona seduta in fondo alla stanza si alzò in piedi e chiese di essere ascoltata. Le fu concesso di parlare, e lei dichiarò quanto segue:
+
+Che aveva raccolto statistiche sull’attività lavorativa di un politico il cui nome doveva tenere nascosto.
+
+Signor Balfour: temo che dobbiamo utilizzare quel nome.
+
+Testimone: Posso inviarlo su un pezzo di carta?
+
+Lord Halsbury: È un nobile?
+
+Testimone: No, mio signore.
+
+Lord Halsbury: Beh, è una persona importante?
+
+Testimone (con entusiasmo): Oh! sì, mio signore.
+
+Lord Halsbury (dopo aver consultato i suoi colleghi): Non riteniamo che il suo nome sia importante. Procediamo.
+
+Testimone (in modo enfatico): I fatti che devo presentare sono semplici e ben noti. È il loro significato che è sfuggito al pubblico. Una volta compreso, spiegherà ampiamente la nostra enorme perdita annuale d’oro.
+
+(Aqui il Comitato mostrò un interesse che rasentava la follia: si sporse in avanti, fissando con occhi ardenti il testimone, il quale continuò, )
+
+“Il numero di biglietti per passeggeri acquistati nei porti di questo paese supera i 12 milioni all’anno. (Sensazione.) L’equipaggio delle navi (esclusi i battelli costieri), i pescatori che attraversano il mare per raggiungere il continente, i criminali in fuga e i messaggeri del Re portano questo numero a 18 milioni. (Sensazione.) Nessuno di questi 18 milioni parte senza portare con sé una somma di denaro, molti se ne vanno addirittura con somme enormi, il nostro ufficio può provare che persino il clero, durante le sue annuali escursioni, porta via complessivamente 20, 30, anzi, fino a 100 sterline a famiglia. (Sensazione.) Quanti di loro tornano con anche solo un po’ di denaro? (Qui l’oratore fece una pausa drammatica, ). Non ho molto altro da aggiungere. La somma totale di denaro persa attraverso innumerevoli canali ammonta sicuramente a 200, forse addirittura a 230 milioni di sterline. L’Inghilterra è davvero una “setaccia”.”
+
+Il testimone lasciò qui la scatola, e il Comitato si alzò in un clima di intensa eccitazione; alcuni dei membri più comuni ripetevano meccanicamente: “Una cerniera! Una vera e propria cerniera! Povera vecchia Inghilterra, una cerniera!”
+
+Il signor Chamberlain appariva radioso nel suo abito scuro e nel cappello a cilindro, con stivali coordinati, e aveva anche un fiore all’occhiello; il signor Balfour, invece, era molto allegro e vivace. Mentre la Corte si alzava, si esprime liberamente l’opinione che il lavoro di quella giornata avesse dato un grande impulso alla causa in questione.
+
 
 
 <span class="atom-split" data-atom="story_07_technical_information" data-title="The Great Inquiry — Technical Information." data-chapter="Technical Information" data-kind="story" data-tags="motif/machine,concept/economics,concept/empire_and_imperialism,concept/satire_of_society,concept/hypocrisy,form/satire,form/parody,histref/arthur_balfour,histref/british_empire,setting/london"></span>
@@ -1027,6 +1248,84 @@ Sir Charles (hurriedly): I have been concerned, as a company-promoter and member
 
 The Committee rose in the utmost trepidation and alarm, and the whole Court poured down the historic staircase. Several young gentlemen were crushed, one beyond recovery, and a grave tragedy was only averted by the presence of mind of Mr. Balfour and Mr. Chamberlain, who escaped with dignity and composure by another entry, and so relieved the pressure. Nevertheless, the fruits of the day were, it is feared, wholly lost, and no conclusion was arrived at.)
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Informazioni tecniche.
+
+La terza riunione del Gran Comitato d’Inchiesta, istituito con decreto reale del Regno Unito e delle Isole Britanniche nonché dei domini d’oltremare, si è tenuta questa settimana a Downing Street al fine di approfondire ulteriormente le condizioni fiscali di questo regno, ovvero l’Inghilterra.
+
+L’arrivo in ritardo dei membri del Comitato suscitò alcune voci preoccupate nel corridoio che corrisponde alla lobby della Camera a Downing Street. Giravano le voci più assurde: alcuni dicevano che il signor Chamberlain avesse rassegnato le dimissioni, altri che si fosse suicidato. Coloro che erano più sobri ritenevano invece che l’inchiesta fosse stata rinviata a tempo indeterminato e che l’intero progetto volto a proteggere o meno le industrie nazionali, i prodotti alimentari, o altro ancora – a seconda di ciò che l’inchiesta avrebbe rivelato essere necessario o inutile – venisse quindi abbandonato. Tra coloro che sostenevano questa opinione figuravano diversi giornalisti, un vescovo, quattro diplomatici e un economista.
+
+Tutti i dubbi furono dissipati con l’arrivo, intorno alle 3:35, dei primi membri del Comitato e di due componenti della “banda” di Birmingham. Tre quarti d’ora dopo, il signor Balfour arrivò con la sua auto e la seduta del tribunale ebbe inizio.
+
+L'udienza davanti al Tribunale questa mattina consisteva nel ricevere le testimonianze di circa cinquantotto testimoni riguardo ai dettagli tecnici delle nostre principali industrie, nonché ascoltare le loro opinioni su punti specifici; in particolare sulle concorrenze estere che stanno influenzando il settore edile.
+
+Alla domanda su dove iniziasse il concetto di “dettaglio tecnico”, il Primo Ministro rifiutò di definire con precisione la questione, ma osò porre una domanda: non esistevano forse stranieri abituati a sostituire, nelle parti piccole ma essenziali dei macchinari, componenti che noi, essendo di una razza superiore, non potremmo mai utilizzare senza alterare le stesse basi della nostra psicologia? Fu più o meno su questi temi (disse il Primo Ministro) che si sarebbero dovute porre queste domande – se si possono davvero definire tali – e sperava che le risposte ricevute, intese nel senso più ampio del termine, fossero in linea con una concezione delle responsabilità che ci attendevano. (Applausi.)
+
+Il primo testimone chiamato fu l’economista del “Times”, il quale rifiutò di rivelare il proprio vero nome. Minacciato di tortura, confessò di utilizzare diversi pseudonimi. Ammise di aver firmato molti articoli sotto lo pseudonimo “Verax”, e più recentemente anche quelli con i nomi “Un conservatore lavoratore” e “Un liberale disgustato”. Non ricevette alcun compenso speciale per questi articoli: si trattava semplicemente del suo lavoro quotidiano.
+
+Sotto interrogatorio: ammise di aver scritto per il Daily Telegraph; non era “Maude” di Chit-Chat. Quando gli fu chiesto se fosse il “Funzionario Incaricato delle Entrate” di cui si parlava, negò con estrema veemenza quell’accusa – o, come la definì lui stesso, quella sorta di “impeachment soft”. Negò inoltre ogni legame, diretto o indiretto, con l’“Enciclopedia del Times”, il “Sistema di Pagamento a Rate del Times”, le “Lettere di Parnell”, le “Lettere di Hawkesley”, l’“Assalto di Jameson”, il “Discorso sulla Mortalità nei Campi di Concentramento”, la recente “Corrispondenza Romana”, la “Critica Drammatica del Times” e la “Lega per la Libertà Industriale”, e, in effetti, qualsiasi altra cosa avesse a che fare con quel giornale. Il testimone giurò con fervore, il rossore dell’ingenuità comparire sulle sue guance, di non aver mai modificato una data, né falsificato o alterato alcuna lettera, né acquistato azioni sudafricane, né nascosto prove, né compiuto nessuna di queste cose.
+
+Consiglio (dolcemente): Caro signore, non so davvero il suo nome. Quando mai è stata fatta anche solo una vaga allusione a qualcosa del genere?
+
+Testimone (con fervore): Riuscivo a capire molto chiaramente verso dove miravano le vostre domande.
+
+Quando questa piccola scena si concluse, il testimone proseguì fornendo prove circa il fatto che la maggior parte dei beni manifatturati importati contenesse dispositivi dannosi, il cui scopo evidente era quello di distruggere la nostra industria e sostituirla con quella straniera. Citò statistiche che dimostravano come il commercio del ferro, quello tessile del Lancashire, il settore della produzione di sedie e tavoli da cucina di High Wycombe, nonché quelli legati alla produzione di stivali, scarpe e pantofole, al sughero, alla costruzione navale, alla produzione di colla e gomma, al letame a base di ossa di pesce e alla produzione di formaggio fossero in declino negli ultimi quindici anni, con cali che andavano dal 10% al 30%. attribuì questa triste situazione in parte all’ignoranza dei dettagli tecnici diffusa tra i politici, ma soprattutto a quei dispositivi ingannevoli che conferivano alle macchine straniere un’apparente superiorità rispetto alle nostre. Era convinto che si potesse dimostrare come nessuno di questi settori avrebbe subito tali declini o sarebbe scomparso se la Gran Bretagna non fosse stata vittima di questa forma di concorrenza così ingiusta e subdola. Era certo di una cosa: a meno che il Comitato non prestasse la massima attenzione a ciò che definiva “aspetti tecnici secondari ma essenziali”, l’Impero era destinato al fallimento.
+
+Il signor Balfour (con qualche esitazione): Tutto ciò non è altro che affermazioni prive di fondamento.
+
+Testimone (con calma): Ogni grande religione è nata a seguito di un tale asserto.
+
+Il signor Balfour (con tono serafico): Ha perfettamente ragione. Ho sempre sostenuto che la funzione analitica, e persino i fenomeni quasi ipotizzati legati ai sensi.
+
+“Ho sempre sostenuto…”
+
+Una voce: Taci!
+
+Lord Lansdowne (con saggezza): Se dovessero continuare a emergere espressioni di opinione personale dalla bocca della Corte, io, personalmente, protesterò.
+
+Signor Chamberlain (all’individuo sconosciuto): Ked!
+
+La Corte procedette quindi a chiamare altri testimoni.
+
+Il signor Henderson, gentiluomo agricoltore, dichiarò che era abitudine dei stranieri, soprattutto francesi e olandesi, arrivare ogni estate nella sua regione del Norfolk con grandi quantità di verdure, principalmente cipolle, che avevano coltivato almeno tre settimane prima che fosse possibile produrle realmente. Questo tipo di pratiche illecite era forse meno diffuso nell’agricoltura rispetto ad altri settori commerciali, ma esisteva comunque. Il testimone menzionò angurie e varietà di verdure a maturazione precoce, e accennò anche a altre specie come i “reni gialli”, i “mammuti” e le “verdure Reading Pride”, per dimostrare il proprio punto di vista. Ma l’esempio principale che addusse fu quello della mosca dell’Assia.
+
+Interrogato ulteriormente, il testimone non riuscì a spiegare in che modo tutto ciò fosse collegato alle macchine. Forse aveva confuso il giorno. Comunque sia, era una persona pratica.
+
+(E qui seguì una breve e imbarazzante pausa.)
+
+Il testimone si ritirò poi con un’espressione perplessa e indecisa.
+
+Il signor Lutworthy, residente al numero 236 di Eton Square e a “The Knoll” a Birmingham, dichiarò che negli ultimi quindici anni ogni sorta di attrezzature metalliche tedesche gli venivano lanciate contro; aggiunse che non era umanamente possibile resistere a una tale aggressione. Per dare un esempio: i dadi metallici con giunzioni a flangia, venduti a Newcastle a 35 penny l’uno, nel 1897 venivano rivenduti con uno sconto del 20% sul prezzo di acquisto; tale margine di profitto variava in base alle condizioni di mercato, oscillando tra il 10% e l’8%. Nel 1898, nonostante gli acquisti massicci da parte della Russia, questo margine era sceso al minimo del 5%. Nel 1899.
+
+Lord Halsbury: Non è stato prima di quel piccolo problema in Sudafrica?
+
+Signor Lutworthy: Sì, mio signore, ma era già tardi nell’anno. Verso settembre, i futuri venivano quotati a un prezzo inferiore rispetto all’antico accordo “Charles Henry”, escludendo i costi di trasporto. Nel 1900.
+
+Il signor Gerald Balfour (con ansia): Le dispiacerebbe ripetere quell’ultima frase?
+
+Il signor Lutworthy (con tono cordiale): Lasciate che spieghi tutto perfettamente. (Tutta la Commissione presenti si sporse in avanti, con estrema attenzione.) Supponiamo che questo, (prendendo il libro su cui aveva giurato) sia un perno di fissaggio. Ogni perno di fissaggio presenta al centro quella che viene chiamata “maniglia di aggancio”, proprio come questa. (Il testimone allora costruì con un pezzo di carta qualcosa di complicato e lo applicò intorno al libro.) Ora, per far sì che questa maniglia di aggancio possa essere fissata e poi rimossa facilmente, è necessario, (il testimone guardò ansiosamente intorno al tavolo). Ah! Esatto, così va bene! (prendendo una matita) Bisogna applicare su di essa o sul suo bordo smussato un meccanismo di blocco, proprio come questa matita. (Il testimone dimostrò concretamente il procedimento.) I tedeschi, invece di seguire questo metodo corretto, utilizzano un approccio diverso: abbassano il contrappeso e sollevano la leva principale, facendo così sì che tutti i componenti si uniscano in un unico insieme. (Il testimone fece una pausa, con espressione arrabbiata; diverse persone presenti nell’aula gridarono “Che vergogna!”, e la mano del signor Balfour tremò. Poi il signor Lutworthy aggiunse, con voce tremante): Non si può fare nulla contro questo tipo di comportamenti sleali e meschini.
+
+Signor Chamberlain: E l’hai preso sdraiato!
+
+Signor Lutworthy (con disperazione): Ho dovuto farlo. Cosa avrei potuto fare? Se la parte smussata fosse stata zincata, rivestita o addirittura trattata con mercurio, come indicato nel brevetto originale, forse avrei potuto sistemare il problema da solo. Ma così com'era, (con rabbia) Oh! Quanto ho lottato.
+
+Lord Lansdowne (con voce profonda): Non manca molto!
+
+Il testimone qui presente si ritirò con la testa bassa.
+
+Signor Chamberlain (con decisione): Il prossimo!
+
+Sir Charles Castlegate, presentato tra due poliziotti, dichiarò che, poiché i risultati del suo fallimento erano ancora oggetto di discussione, doveva parlare con cautela.
+
+“Tra due poliziotti.”
+
+Lord Halsbury (con simpatia): Capiamo perfettamente, Sir Charles, la preghiamo di continuare.
+
+Sir Charles (in fretta): Come promotore di aziende e membro del Carlton Club, mi sono sempre interessato a giroscopi, macchine a gettoni, freni ad azione doppia, aquiloni per sollevare persone, catene da trasporto robuste e molti altri dispositivi che consentono di risparmiare lavoro. Comincerò parlando dell’imballatrice automatica per fascicoli: in origine era tutta prodotta in Gran Bretagna. (In questo momento il signor Balfour consegnò a un messaggero una nota contrassegnata “Urgente”; quest’ultimo uscì immediatamente dalla stanza.) In origine era tutta prodotta in Gran Bretagna. Ora, cosa è successo? Per essere chiaro: in ogni imballatrice per fascicoli le parti essenziali sono l’“imballatore” e il “frizione”. L’imballatore vi è sicuramente familiare, (In quel momento sembrò levarsi del clamore dalla strada, ) Il frizione, invece, è più complessa: bisogna considerare elementi come la leva di selezione, la molla, il serbatoio dell’olio e altri componenti. Farò un disegno approssimativo, (Mentre il prigioniero si chinava sul foglio, si levò un grido forte: “Al fuoco!”; si sentirono poi i camion dei vigili del fuoco suonare le loro sirene e gridare lungo Whitehall. Subito dopo, un getto d’acqua alta quattro pollici irruppe nella stanza, inondando il pavimento.)
+
+Il Comitato si alzò in preda a grande trepidazione e allarme; l’intero Tribunale scese lungo la storica scalinata. Alcuni giovani gentiluomini furono schiacciati, uno di loro in modo irreversibile; una grave tragedia fu però evitata grazie alla prontezza di spirito di Mr. Balfour e Mr. Chamberlain, i quali riuscirono a uscire con dignità e calma attraverso un’altra entrata, alleviando così la pressione che si era creata. Tuttavia, temiamo che i risultati ottenuti in quella giornata siano andati completamente persi, e non fu raggiunto alcun conclusione definitiva.
 
 
 
@@ -1156,6 +1455,130 @@ The unnatural tension was relaxed by the abrupt departure of the three remaining
 As the audience dispersed, the gloomiest forebodings arose upon the subject of the next sitting.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Abbandonarlo.
+
+Al quarto incontro del Comitato di Gabinetto, nominato dai suoi stessi membri con diritto di cooptazione, al fine di individuare i mezzi attraverso cui le nostre Relazioni Fiscali – senza dubbio adatte a un'epoca precedente – potrebbero essere portate a uno stretto rapporto con quelle moderne, eccetera. Tutti i membri arrivarono puntualmente; alcuni nobili dovettero attendere sotto la pioggia per qualche momento prima che le porte si aprissero. (Paragrafo.)
+
+Quando il Tribunale si riunì, il silenzio fu imposto dalla voce di un araldo; allora il signor Chamberlain si alzò in piedi.
+
+Assicurò alla Corte che li avrebbe trattenuti solo per pochi momenti. Lord Byron aveva detto saggiamente che “le acque tranquille sono le più profonde”; e lui, dopo una lunga vita trascorsa in trattative serie e concrete, aveva notato che meno un uomo parlava, più era prezioso. Era una regola che egli stesso aveva sempre rispettato. Nella sua concezione dell’Impero, l’uomo silenzioso, che non parlava mai ma agiva con determinazione, doveva governare, fino a raggiungere il cielo.
+
+(A questo punto Lord Lansdowne iniziò a mormorare tra sé e sé; Lord Halsbury tirò fuori apertamente l’orologio; il signor Balfour chiuse gli occhi e incrociò le gambe; il Duca di Marlborough disse “Ascoltate, ascoltate!” a voce bassa.)
+
+Il signor Chamberlain, proseguendo in un modo che combinava cortesia e fermezza, e che veniva enfatizzato dal suo gesto preferito, dichiarò di ritenere suo dovere menzionare due incidenti dolorosi. Il primo era l’annuncio prematuro pubblicato sul Daily Mail secondo cui avrebbe ritirato le sue posizioni; in realtà non aveva alcuna intenzione di farlo prima di febbraio prossimo, e basta. Il secondo incidente riguardava il disastro che aveva interrotto la seduta della settimana precedente: si riferì all’allarme falso per un incendio, e in particolare al fatto che era stata versata una quantità considerevole d’acqua all’interno di un edificio sacro per il suo predecessore immortale, il signor Pitt – padre di Lord Chatham e salvatore dell’Europa; l’uomo a cui dovevamo Gibilterra, e tutto ciò che Gibilterra rappresentava.
+
+#"Cortesia e fermezza"
+
+Chiunque abbia lanciato quell’allarme falso non merita di essere chiamato britannico. Un giornale filo-boero aveva addirittura insinuato che si trattasse di una cospirazione contro di lui ordita dai suoi stessi colleghi. (A questo punto il signor Chamberlain guardò intorno e fu accolto da risate nervose.) Era come molte altre cose che quelle persone dicevano: era una menzogna.
+
+Aveva trascorso diversi anni in stretta intimità con loro tutti, e poteva solo dire che non aveva mai avuto a che fare con persone più onorevoli e cortesi. Era certo che loro avrebbero ricambiato tali sentimenti.
+
+Poteva affermarlo con certezza: dopo aver visitato in tutto il suo splendore la maestosità dell’Impero e essere tornato in Inghilterra, poteva attribuire ciò che era stato realizzato durante la sua assenza esclusivamente al leale sostegno delle persone intorno a lui.
+
+Il signor Chamberlain si sedette lì; tuttavia, dopo poco si alzò di nuovo e disse: “Vi tratterrò solo per pochi minuti”, e poco dopo concluse un discorso interessante e proficuo affermando che la pratica del “dumping” era universalmente riconosciuta, e che l’argomento all’esame della Corte quel giorno sarebbe stato quello di ascoltare i testimoni riguardo alla forma in cui tale pratica si manifestava in varie industrie.
+
+Il primo testimone chiamato ad deporre fu…
+
+Il signor Henry Salter, direttore dei signori Garrant e Schüler. Era disposto a testimoniare a favore della difesa. (Mormori.)
+
+Signor Chamberlain: Spero che il testimone venga ascoltato con rispetto. Sta svolgendo il proprio dovere, così come fecero i nostri coraggiosi alleati nel veldt, e così come fece mio vecchio amico Le Caron. (Al testimone) Signor Salter, sono orgoglioso di stringervi la mano. Vorrei avervi conosciuto nel 1886. Uomini del genere sono rari.
+
+Il testimone continuò a dichiarare che, per un periodo di almeno otto anni, i suoi datori di lavoro regalavano gratuitamente le loro biciclette tedesche.
+
+[Sensazione. Una voce furiosa provenne dal centro della corte: “Lasciatemi affrontarlo!”, e un anglo-sassone di enorme statura fu a malapena trattenuto dal lanciarsi verso di lui. Si scopri che era il titolare del brevetto dello vecchio modello di bicicletta alta, rovinato dalla concorrenza dei modelli più sicuri.]
+
+“Un anglosassone di enorme statura”
+
+Il testimone, dopo ulteriori interrogatori, stimò che il numero totale di biciclette che aveva così regalato gratuitamente fosse di poco più di tre milioni.
+
+Signor Chamberlain (sorridente): Oh, no, signor Salter, davvero no!
+
+Il signor Salter (muovendosi a disagio): “Gli affari sono affari, mio signore.” (Risate sonore, alle quali si unì anche il signor Chamberlain.) Non c’è nulla di cui ridere. Ognuno deve fare del proprio meglio.
+
+Lord Lansdowne: In che modo sono stati donati questi bicicli? Li avete chiesti alle persone presenti nella vostra tenuta, facendoli consegnare tramite i loro segretari personali, o forse avete dimenticato di inviare il conto?
+
+Signor Salter: No, signor Thomas; abbiamo pubblicato un annuncio sui giornali che diceva: “Una bicicletta da 12 sterline regalata gratuitamente”.
+
+Il signor Balfour (con interesse): Ho visto simili annunci, ma non ho mai capito cosa significassero. Le parole da sole sembrano prive di senso.
+
+Il signor Salter (con entusiasmo): Sì, signore! Tutto ciò che i concorrenti dovevano fare era inviare 1 scellino e 6 pence in francobolli e richiedere l’ordine di altri dieci biciclette. (Una pausa; dopo di cui il testimone aggiunse, con ansia): Ora posso andare?
+
+Signor Balfour (confuso): Sì, suppongo di sì, potete andare.
+
+Signor Salter: Sì. Ma intendo. Non possono fare nulla contro di me, vero?
+
+Lord Halsbury (con irritazione): No! No! No! Mio caro uomo. Tutto questo, naturalmente, è riservato ai privilegiati.
+
+Il testimone, emettendo un profondo sospiro di sollievo, passò lentamente e in modo piuttosto arrogante accanto a due poliziotti, poi si incamminò per la strada, dove fu immediatamente arrestato.
+
+Signor Chamberlain (con decisione): La questione dei bicicli è risolta. Ora passiamo al talco. Prossimo!
+
+Alla menzione di “Powder”, si fece avanti un gentiluomo molto popolare; tutti i membri del Comitato gli strinsero calorosamente la mano.
+
+Il testimone, dopo essere stato interrogato e aver giurato, raccontò che mentre la sua invenzione si trovava ancora nella fase sperimentale, un orribile straniero era apparso presso il suo laboratorio e gli aveva proposto “un accordo”. Questo straniero gli mostrò un campione di polvere da sparo che esplodeva praticamente in qualsiasi momento l’artigliere desiderasse; altre volte, invece, nella polvere presente nei magazzini o nelle fabbriche, non si verificava alcuna esplosione. La polvere resisteva bene alle condizioni climatiche calde e non causava alcuna malattia a bordo delle navi. Era sicuramente un prodotto straordinario. Lo straniero suggerì che loro lo fornissero al governo, condividendo così i profitti. (Indignazione.)
+
+Lord Lansdowne: E tu hai rifiutato?
+
+Testimone: Certo che ho rifiutato, Lansdowne! Non mi è stato concesso il monopolio per far entrare spie straniere!
+
+Signor Balfour: Vi dobbiamo una profonda gratitudine!
+
+Testimone (visibilmente commosso): Grazie, Arthur. Posso ripagarvi tutti solo con un servizio leale; e credo che la vostra gentilezza verrà in parte giustificata quando vi dirò che sono sul punto di produrre polvere da sparo in grado di esplodere. Alcune quantità di questa polvere sono già esplose per errore in uno dei miei capannoni, uccidendo un tedesco.
+
+[Il testimone qui strinse nuovamente calorosamente la mano a tutti e poi uscì.]
+
+Signor Chamberlain: Il petrolio! Ora il prossimo argomento!
+
+Il signor Elihu Z. Kapper giurò di essere americano. Nel 1872 iniziò per la prima volta ad importare olio minerale in questo paese. La gente lo accolse con favore e ne fece uso in mille modi diversi. Entro il 1880, importava già 50.000 galloni all’anno di tale prodotto. Nel frattempo, fu soppiantato dal signor Rockefeller e finì per trovarsi in difficoltà finanziarie. Il signor Rockefeller era un uomo straordinario: aveva ormai rivolto la sua attenzione al settore inglese, scoprendo vaste riserve di petrolio in Devon, Norfolk, Denbigh, Cumberland e Rutland. Aveva fondato dieci compagnie per sfruttarle.
+
+Signor Balfour (sottovoce): Capitale sprecato!
+
+Testimone: Erano tutti falliti, e il loro fallimento era senza dubbio dovuto alla concorrenza degli Stati Uniti nel mercato. L’Inghilterra possedeva più giacimenti di petrolio non sfruttati di qualsiasi altro paese al mondo.
+
+Signor Chamberlain: Lasciate che vi ponga una domanda pratica. Se proibissimo l’importazione di petrolio straniero, riuscireste a fondare un undicesima’ compagnia?
+
+Il signor Kapper (prontamente): Ho già proposto un undicesimo punto, Segretario. Potrei anche proporre un dodicesimo.
+
+Al testimone subentrò il giovane signor Garry di Steynton Hall, Rugby, il quale giurò che un straniero, un principe, lo aveva incontrato al Savoy lo scorso giugno e gli aveva dato diversi oggetti di produzione estera: un bastone da passeggio, una scatola di fiammiferi, un levriero tedesco, un orologio da polso e una dozzina di monete. In cambio non aveva ricevuto nulla. Aveva prestato somme di denaro al principe in diverse occasioni, ma tutto era rimasto nel paese stesso.
+
+Il prossimo testimone fu Lord Rustington. Sua Signoria era chiaramente affetto da malattia; il suo viso, incorniciato da grandi baffi, esprimeva ansia e persino irritabilità. Zoppicando su un bastone, ringraziò l’assistente che gli offrì una sedia. Aveva ricevuto la convocazione ed era disposto a testimoniare riguardo ai rifiuti gettati via. Si trattava di un male in crescita. All’inizio (nel suo caso), le uniche cose di cui si poteva lamentarsi erano lattine di metallo, scatole da imballaggio e carta; l’anno scorso, invece, furono trovate anche stivali.
+
+Il signor Gerald Balfour (perplesso): In che senso, “trovato”?
+
+Testimone: Per favore, lasciatemi finire quello che stavo per dire. Si trovavano bottiglie, dico, e a volte anche bottiglie vuote.
+
+# Mr. Chamberlain: Ma, sicuramente…
+
+Testimone (con rabbia): Mi lascerete finire la frase, per favore? Bottiglie vuote, sicuramente, bottiglie vuote. E quest’anno è stato terribile: vecchi libertini, ruote rotte, mucchi di cappelli sporchi, cesti, e – potrebbe sembrare incredibile – anche un vecchio tosaerba.
+
+Interrogato riguardo alla provenienza di queste importazioni, il testimone disse: Erano i zingari. Si accampavano sempre vicino a quell’angolo della tenuta agricola, sulla strada di Pulboro’. Gettavano ogni sorta di cose oltre la siepe.
+
+Signor Balfour (con fermezza): C’è qualche errore. Questo non può avere nulla a che fare con la nostra indagine. Mio caro Lord Rustentown.
+
+Testimone: Rustington!
+
+A questo punto il Comitato consultò i suoi membri. Dopo alcune brevi conversazioni, il signor Balfour spiegò con la massima gentilezza che era stato commesso un errore: l’invito avrebbe dovuto essere inviato a Lord Rustentown, il noto fabbricante di ferro, prestatore di denaro, proprietario di giornali e sostenitore del governo. Se c'era bisogno di qualche scusa da parte sua.
+
+Un testimone, travolto da una passione intensa, dichiarò che la colpa ricadeva su questo governo e sulla sua maledetta follia: aver inondato il paese di nuovi nobili, permettendo loro di assumere qualsiasi nome desiderassero. Durante i suoi discorsi, il testimone colpì più volte il terreno con il suo bastone; divenne così violento che fu costretto a ritirarsi.
+
+Seguì un dignitoso silenzio di alcuni minuti; alla fine, Lord Halsbury disse:
+
+Lord Halsbury: Humph!
+
+Il suo signorilità si alzò in tutta la sua statura e uscì dalla stanza con passo solenne.
+
+Il signor Gerald Balfour fu il prossimo ad andarsene. Uscì di fretta senza dire una parola. Il Primo Ministro lo seguì, parlando da solo.
+
+Lord Lansdowne sorrise con un po' di ansia, guardò intorno ai suoi colleghi, batté le dita sul tavolo e poi si alzò a sua volta e uscì, con aria pensierosa.
+
+Durante tutta questa dolorosa scena, il signor Chamberlain rimase immobile, con lo sguardo fisso e le labbra serrate. Alla fine, con un tono caratteristico di energia e risolutezza, ruppe il silenzio gridando “Il prossimo!”. Ma nell’atmosfera di incertezza e allarme generale, nessuno rispose a quell’appello.
+
+La tensione innaturale si allentò con la partenza improvvisa dei tre membri rimanenti della Corte: il signor Austen Chamberlain precedette suo padre, il Duca di Marlborough, che a sua volta seguì il proprio capo.
+
+Mentre il pubblico si disperdeva, emersero i timori più cupi riguardo alla prossima seduta.
+
 
 
 <span class="atom-split" data-atom="story_09_the_animals--part_01" data-title="The Great Inquiry — The Animals. (part 1)" data-chapter="The Animals" data-kind="excerpt" data-tags="motif/animals,concept/economics,concept/empire_and_imperialism,concept/satire_of_society,concept/hypocrisy,form/satire,form/parody,histref/arthur_balfour,histref/british_empire,setting/london"></span>
@@ -1228,6 +1651,74 @@ The next witnesses called were Two Pigs.
 The Counsel for the Cobden Club, at the risk of his fortune, rose to protest. His disclaim was not so much against the Pigs themselves (porcs de soi), for the Court had allowed them, and he (emphatically) was not there to contradict the superior wisdom of the Court. It was rather against the presence of two witnesses in the box at the same time. It was wholly opposed to the spirit of Our English Law. Latterly that spirit had been attacked in a hundred ways: Prisoners could speak for themselves, even solicitors — he was ashamed to say — could plead in inferior Courts, but two witnesses in the same box was more, he thought, than the temper that produced an Eldon and a Halsbury could stand. Let alone the relaxation of the moral bond (for how could these two witnesses feel in common the awful meaning of an individual oath?) let alone the moral bond....
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Gli animali.
+
+La quinta riunione – e, sotto alcuni aspetti, o, come ha detto il signor Balfour, “in molti modi”, la più importante – del Comitato di Gabinetto incaricato di indagare sulle cause del nostro declino nazionale e di proporre soluzioni al problema, si tenne a Downing Street, nel solito luogo: la piccola stanza al primo piano, a sinistra della porta.
+
+La finestra, i cui schizzi sono già apparsi sui giornali illustrati, si distingue per i nuovi e perfettamente puliti pannelli di vetro che hanno sostituito quelli rotti durante l’ultimo allarme antincendio.
+
+Una grande folla iniziò ad radunarsi alle due del pomeriggio davanti all’edificio dove avrebbe avuto luogo la tragedia; fu con difficoltà che alcuni poliziotti in abiti civili, ma muniti delle scarpe da ginnastica regolamentari, riuscirono a mantenere aperto un passaggio tra la folla ansiosa ma per lo più benevola.
+
+Il signor Chamberlain fu il primo ad arrivare, accompagnato dal Capo Postale Generale. Arrivarono a piedi, vestiti con cura e apparentemente di ottimo umore.
+
+Poco dopo, il Duca di Marlborough apparve in uno stato d'umore molto cattivo; era a cavallo e teneva sotto un braccio diversi volumi molto grandi, in modo piuttosto precario. La folla aspettò invano gli altri membri del Comitato; non arrivarono mai.
+
+Nel frattempo fu spiegato alla Corte che i tre membri presenti costituivano un quorum, e la seduta fu aperta da.
+
+Il signor Chamberlain si alzò e disse che li avrebbe trattenuti per pochi momenti soltanto. Sottolineò che i suoi oppositori insistevano costantemente su quegli aspetti economici negativi che potrebbero derivare dall’introduzione del libero scambio preferenziale. Rispondere a queste critiche avrebbe potuto confondere una persona meno determinata; lui, però, non poteva chiedere volontari di sottoporsi personalmente alla prova. E il suo – suppose dovesse definirlo il proprio onorevole – amico aveva rifiutato ancora una volta di prestare i prigionieri boeri che, fortunatamente, erano ancora in cattività. Aveva superato queste difficoltà. Avrebbe fatto venire alcuni animali vivi su cui mettere alla prova l’intero progetto: dalle procedure recentemente adottate dal Parlamento fino agli effetti del tabacco a buon mercato sullo stomaco degli animali stessi. (Al custode della porta, ) Lasciate andare gli animali.
+
+I lavori furono interrotti qui dal consigliere del Cobden Club, il quale si alzò e dichiarò di voler presentare al Tribunale un “replevin et demurrer”. Riteneva che tale azione fosse riconoscibile ai sensi dell’ordine giudiziario “de Hæretico Comburendo” e sosteneva, in ogni senso, che potesse essere perseguita dal Segretario Incaricato della S.P.C.F.C.H.H. davanti ai Giudici di Eyre o delle Camere.
+
+Il signor Chamberlain, tenendo in mano un piccolo foglietto di carta, parlò nella sua veste legale di membro del Consiglio Privato; continuando a decifrare quel foglietto, sottolineò che la giurisdizione dei Tribunali Seizined era inferiore a quella dei Tribunali “En Plein”, come questo. Era certo delle sue informazioni e non avrebbe permesso alcuna interruzione, contraddizione o osservazione, né da parte di Warren né di Main, Bart, Blaspheme o Marraeny, sotto pena di oltraggio alla corte. Confidava che il suo stimato collega (rivolgendosi al Duca di Marlborough) sarebbe d’accordo con lui.
+
+Il Duca di Marlborough, alzandosi con le mani incrociate dietro la schiena, parlò a voce così bassa che era quasi impossibile sentirlo. Si capì che stava dicendo che tutto andava bene.
+
+Il signor Austen Chamberlain, parlando in qualità di autorità sua, dichiarò che avevano ascoltato l’opinione del più grande statista e giurista d’Inghilterra, nonché di una persona che, essendo uno dei membri più alti della Corte Suprema del Regno – la Camera dei Lord – rappresentava un’autorità indiscutibile.
+
+Essendo la Corte d'accordo su questo punto, l'avvocato del Cobden Club fu multato di cento sterline per oltraggio alla corte, e l'inchiesta proseguì.
+
+Il primo testimone chiamato ad deporre era un cavallo.
+
+Poiché era evidentemente empio imprecare contro quell’animale, e impossibile ottenere la sua dichiarazione sollevando la mano sopra la testa nello stile agnostico, gli fu permesso di impegnarsi a nome proprio a non fare nulla per motivi di guadagno, pregiudizio, odio, amore, favore o vantaggio mondano.
+
+Il trainer spiegò quindi che il cavallo avrebbe dimostrato, attraverso una dimostrazione pratica, che l’uso del muso non aveva alcun effetto negativo sulle creature viventi.
+
+Signor Chamberlain: Ha provato questo esperimento sugli esseri umani?
+
+L’Allenatore: No.
+
+Signor Chamberlain: No, cosa?
+
+L’Allenatore: No, mia reverenza.
+
+Signor Chamberlain (con severità): È meglio così, (dolcemente) Non l’avete provato sugli esseri umani perché pensavate che un esperimento su un animale fosse sufficiente, vero?
+
+L’Allenatore:,?,?
+
+Signor Chamberlain (con voce tremante): Mi sentite?
+
+L’Allenatore (con aria scontenta): Yus!
+
+Signor Chamberlain (rivolgendosi al Tribunale, e in particolare alla stampa): Come potete vedere, il cavallo è libero. Può nitrire, rimbombare o mordere a piacimento. Osservate!
+
+(A questo punto un signore di nome James conficcò un chiodo nel testimone, il quale subito dopo sferrò un violento calcio contro il muro.)
+
+Signor Chamberlain: Ora gli verrà messo il bavaglio.
+
+Su un testimone fu posto un grande sacco di pelle che copriva completamente la sua testa e la sua criniera; allora egli iniziò a muoversi a scatti, come se fosse confuso.
+
+Signor Chamberlain: Ora!
+
+Il signor James toccò di nuovo la testimone con il chiodo. Invece di calciare, la testimone iniziò a muoversi in modo agitato, eseguendo varie contorsioni.
+
+Signor Chamberlain: Penso che non sia necessaria alcuna ulteriore prova per dimostrare l’vantaggio – o, quanto meno, il danno causato dall’uso del bavaglio o della museruola. Spero che questo esperimento ponga fine a quelle sciocche lamentele presenti in Parlamento e nella stampa, che di recente hanno persino fatto sì che il continente stesso si mettesse a deriderci. Prossimo!
+
+I successivi testimoni chiamati furono “Due Maiali”.
+
+Il consigliere del Cobden Club, rischiando la propria fortuna, si alzò per protestare. La sua obiezione non riguardava tanto i “porci stessi”, poiché il tribunale li aveva permessi di partecipare, e lui (con fermezza) non era lì per contraddire la saggezza superiore del tribunale; piuttosto, si opponeva alla presenza simultanea di due testimoni nell’aula. Questo comportamento era completamente contrario allo spirito della nostra legge inglese. Negli ultimi tempi, tale spirito era stato attaccato in mille modi: i prigionieri potevano parlare per se stessi, persino gli avvocati – si vergognava di dirlo – potevano difendere i loro clienti nei tribunali inferiori; ma due testimoni nell’aula nello stesso momento, secondo lui, rappresentavano qualcosa di troppo per essere tollerato da persone con la integrità morale di un Eldon o di un Halsbury. Per non parlare del danneggiamento dei legami morali. Come potevano questi due testimoni condividere davvero il significato profondo di un giuramento individuale? E poi, c’era anche la questione dei legami morali stessi.
+
 
 
 <span class="atom-split" data-atom="story_09_the_animals--part_02" data-title="The Great Inquiry — The Animals. (part 2)" data-chapter="The Animals" data-kind="excerpt" data-tags="motif/animals,motif/lion,concept/economics,concept/empire_and_imperialism,concept/satire_of_society,concept/hypocrisy,form/satire,form/parody,histref/boer_war,histref/british_empire,setting/london"></span>
@@ -1286,6 +1777,60 @@ The Duke of Marlborough was suffering from brain fever, and, in spite of the ter
 His own son, Austen, had that very morning received a letter from a Mrs. Augusta Legge, of Tooting. It was addressed to the Postmaster-General, and complained that a box of fish, despatched by her ten days ago, had been lost in the post. The Postmaster-General always attended to these things himself. It was in the tradition of hard, silent self-denial in which he had himself been brought up, and in which he had brought up his family.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Signor Chamberlain (all’improvviso): Sta tenendo un discorso!
+
+Il consigliere del Cobden Club fu quindi portato in prigione. L’inchiesta proseguì.
+
+I testimoni dichiararono solennemente, attraverso la voce di un altro (così come fanno i bambini durante il battesimo), di essere nati dalla stessa madre nel bellissimo villaggio d’epoca di..
+
+Signor Chamberlain: Continui! Continui!
+
+I testimoni continuarono affermando che fossero stati cresciuti nello stesso modo fino all’età di sei mesi. A quel punto si decise di nutrire uno dei due (Tom) secondo i principi del protezionismo, l’altro (Bill) seguendo i principi del libero scambio. Al secondo veniva dato di tutto tipo di cibo in qualsiasi momento della giornata; al primo, invece, veniva offerta una sola volta alla settimana una semplice colazione a base di gusci d’avena inglesi e baccelli di fagioli, accompagnati da un po’ di paglia. Guardateli ora! “Kruger”, il maiale seguace del libero scambio, era così grasso che a malapena riusciva a camminare; la sua vita era diventata un vero peso, supplicava di poter morire. “Roosevelt”, invece, era un maiale vivace, amichevole e attivo, capace di eseguire le trucchi più divertenti, un compagno ideale per le persone più intelligenti dell’epoca.
+
+Dopo aver ricevuto i ringraziamenti della Corte, i testimoni si ritirarono.
+
+Un furetto, due dormicioli e un capriolo… che non hanno ottenuto alcun risultato.
+
+Fu chiamato un Boa Constrictor per dimostrare che l’imposta indiretta poteva espandersi all’infinito, e un Ippopotamo per convincere la Corte che una base fiscale ampia fosse sinonimo di stabilità.
+
+Un leone addestrato, sotto la stimolazione artificiale di un addestratore munito di frusta, dimostrò in modo molto divertente come, anche in vecchiaia, con i denti rovinati e lo spirito completamente spezzato, una bestia così pericolosa potesse essere messa al servizio di compiti utili: rotolare tronchi, mantenere l’equilibrio su un’altalena, arare la sabbia, pulire qualcosa da una lavagna, fare piccoli lavori con la zappa, e persino ruggire all’ordine più forte che da giovane. La “Bestia Imperiale” indossava un grande mantello a strisce bianche e rosse; tale rappresentazione non solo forniva informazioni utili, ma offriva anche intrattenimento al pubblico presente.
+
+Molti altri testimoni, convocati a grandi spese, riuscirono a convincere tutti i presenti; quando il signor Chamberlain ordinò di far entrare l’Elefante, presentato dal nostro amico e alleato, il Maharajah di Gûm.
+
+Dopo un certo ritardo, durante il quale l’ansia della Corte era terribile da vedere, arrivò un Marabutto che annunciò che l’Animale Fedele e il Servitore Leale dell’Impero aveva esalato l’ultimo respiro proprio in quell’ora nelle sue stanze a St. James’s! Il Marabutto, che scelse di essere giurato secondo la tradizione indù, cioè in modo formale e senza pregiudizi, raccontò con molti singhiozzi gli ultimi momenti di quel nobile pachiderma. Fu scelto, assicurò alla Corte, proprio per la sua straordinaria longevità; poiché Sua Altezza il Maharajah riteneva (e qui i testimoni si inchinarono una volta alla Corte, una volta agli stemmi reali, e una volta, a nulla in particolare) che un animale che aveva sopravvissuto all’Impero del Grande Mogul avrebbe anche resistito a quell’interminabile indagine sui rapporti fiscali, ecc. Ahimè! La Provvidenza aveva deciso altrimenti.
+
+In un umore castigato e umile, riflettendo sulla vanità delle cose umane, la Corte si aggiornò solennemente. Si sentì il Duca di Marlborough mormorare, con le parole di Burke: “Che ombre siamo noi, e che ombre inseguiamo!”, una frase che il signor Chamberlain annotò immediatamente nel suo taccuino sotto la voce “, pop. quota.; mem. Latin original?”.
+
+VI.
+
+La sesta e ultima seduta dell’inchiesta sulle questioni fiscali fu notevole sotto molti aspetti, ma soprattutto perché vi partecipò soltanto il signor Chamberlain.
+
+Il pubblico presente per strada, così come i numerosi esperti e funzionari che avevano avuto il privilegio di entrare in aula, aspettavano invano l’arrivo almeno del Duca di Marlborough o di Mr. Austen Chamberlain. Quando il Segretario Coloniale si alzò e, dopo aver detto che li avrebbe trattenuti solo per pochi momenti, pregò tutti di non allarmarsi riguardo alla composizione della giuria.
+
+L’assenza dei suoi colleghi era proprio il tipo di cosa che i suoi avversari più ostili avrebbero potuto attribuire a qualche dissidio all’interno del Gabinetto. Di fronte a un’ignoranza maliziosa di quel genere, non esisteva arma se non la contraddizione diretta. Lui l’avrebbe fatto subito, proprio come in passato era riuscito a confutare le accuse riguardo alla sua coinvolgimento nell’attacco di Jameson, quella stupida storia sulla festa in giardino a casa di Lord Rothschild, e la leggenda secondo cui fosse stato un mercante libero o un governatore locale in un lontano passato che i suoi nemici trovavano molto difficile verificare. (Risate.)
+
+Non riteneva appropriato che un uomo parlasse troppo di se stesso; perciò non faceva mai riferimento ai servizi che aveva reso al proprio paese. Tali servizi, per quanto importanti, non potevano comunque essere altro che quelli resi da un singolo individuo. Forse un uomo grande, sicuramente una persona amabile, ma in fondo, solo un uomo.
+
+Lord Beaconsfield aveva detto che gli uomini si attribuiscono cose che non sono loro. Non era del tutto chiaro cosa intendesse con questo, ma.
+
+(A questo punto, il signor Chamberlain prese un altro pezzetto di carta, aggrottò la fronte, lasciò cadere gli occhiali, giocherellò un po’ con le dita, aggrottò di nuovo la fronte, rimise gli occhiali e spiegò che aveva perso alcune delle sue note.)
+
+Proseguendo con un tono più naturale, ma con molto meno fluidità, continuò a spiegare in dettaglio le ragioni dell’assenza di ciascuno dei suoi colleghi.
+
+Il Primo Ministro era impegnato a Deptford, discutendo con alcuni Nonconformisti.
+
+“Discutere con i non conformisti”.
+
+Lord Halsbury si era ritirato in un monastero per fare la pace con Dio.
+
+Lord Lansdowne era stato chiamato all’improvviso al Ministero degli Esteri per tradurre alcune parti del testo della Convenzione sullo Zucchero che erano state adattate in francese.
+
+Il Duca di Marlborough soffriva di febbre cerebrale e, nonostante la terribile contagiosità della malattia, il signor Gerald Balfour lo curava con tutta la tenerezza di una donna.
+
+Suo stesso figlio, Austen, quella stessa mattina aveva ricevuto una lettera da parte di una certa signora Augusta Legge, di Tooting. La lettera era indirizzata al Ministro Postale Generale e si lamentava che una scatola di pesce inviata dieci giorni prima fosse andata persa nella posta. Il Ministro Postale Generale si occupava personalmente di queste questioni. Era una tradizione legata a un duro e silenzioso spirito di autoimpegno, quello in cui lui stesso era stato educato e che aveva trasmesso anche alla sua famiglia.
+
 
 
 <span class="atom-split" data-atom="story_09_the_animals--part_03" data-title="The Great Inquiry — The Animals. (part 3)" data-chapter="The Animals" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/satire_of_society,concept/hypocrisy,concept/nationalism_and_patriotism,form/satire,form/parody,histref/british_empire,histref/boer_war,setting/london,character/napoleon"></span>
@@ -1332,6 +1877,48 @@ Spurred by such emotions, the crowd broke through the cordon which had hitherto 
 The Colonial Secretary, it need scarcely be added, did not remain to receive this last testimony to his popularity, but the beginning of the enthusiastic movement in the crowd was enough to convince him that he had thousands at his back, and, as Napoleon is reported to have said to his coachman after Waterloo, “With such numbers behind him a man should be capable of all things.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nelle circostanze del caso, pensò che non avrebbe chiamato testimoni, qualcosa di molto più convincente di qualsiasi numero di testimoni stesse infatti prendendo forma durante la parata della Guardia Reale a Cavallo.
+
+Il signor Chamberlain invitò cordialmente tutti i presenti ad intervenire, e dopo aver parlato per due ore e trentaquattro minuti si sedette; per tutto quel tempo riuscì a tenere il suo pubblico incantato e senza parole.
+
+Al termine di queste procedure, Lord Burnham si fece avanti nei suoi abiti ufficiali, con lo stemma portato dai paggi; come simboli di supporto utilizzò Hummim e Thummim, accompagnati dalla scritta “Nec Nomina Mutant”. Il nobile presentò al Segretario Coloniale un paio di guanti bianchi, secondo un'antica e commovente usanza che prevede tale dono quando una corte viene risparmiata dal doloroso dovere di emettere una sentenza.
+
+Il signor Chamberlain poi scomparve attraverso una piccola porta per vestirsi da imperatore romano; in quell’abito propose di tenere il discorso durante la cerimonia.
+
+Arrivati alla parata della Guardia Reale, si scoprì un enorme affollamento che si estendeva fino all’orizzonte, ma lasciava uno spazio libero tra sé e il palco principale, attraverso cui potesse sfilare la processione organizzata. Esattamente alle quindici e cinquanta minuti, il signor Chamberlain si alzò per rivolgersi alla folla; grazie a un’ottima pianificazione, l’orchestra di bronzo, le bandiere e i vari gruppi della processione iniziarono a sfilare contemporaneamente.
+
+Forse proprio per questo motivo il suo discorso non fu molto chiaramente udito. Tuttavia, la prima frase risuonò alta e chiara: “Vi tratterrò,” disse, “per soltanto pochi momenti.” Quello che seguì fu soffocato dal suono delle trombe che precedettero l’arrivo di⸺
+
+Una dozzina di miseri commercianti unionisti liberi. Quegli uomini sfortunati furono imbavagliati e costretti ad avanzare, con le mani legate dietro la schiena, da un convoglio di elettori provenienti da Birmingham, disposti in gruppi di cinque, e muniti di striscioni decorati con slogan scritti nel loro stesso dialetto.
+
+Nel breve lasso di tempo successivo al loro passaggio, diverse frasi del signor Chamberlain furono chiaramente udibili.
+
+“Racconterò la verità… quella che è sempre stata… della razza imperiale… una sola e unita…”
+
+In quel momento, il contingente dei Boy Scout, che acclamava freneticamente e superava di corsa il punto di saluto, sovrastò la voce del capo.
+
+Quando la polvere sollevata si era in parte posata, i suoi tratti severi e impassibili furono di nuovo visibili; fu possibile captare alcune altre frasi al di sopra del clamore generale, sebbene con sempre maggiore difficoltà, poiché la folla aveva iniziato a indulgere in quei giochi rumorosi che sono inseparabili dai grandi movimenti popolari.
+
+“Non sbagliava spesso. Non si poteva trovare alcuna opinione che avesse espresso e che in seguito non fosse stata confermata, ”
+
+Sebbene fosse evidente, dalla notevole apertura della sua bocca, che il Grande Statista stesse ancora facendo la storia, non si riusciva a sentire nulla di più: ogni parola sembrava essere inghiottita dall’entusiasmo crescente della folla.
+
+Un'effigie di Sir Winston Churchill, riempita di paglia, fu trascinata davanti al palco principale tra urla e insulti, per poi essere bruciata sul rogo nello spazio aperto vicino ai gradini del Duca di York.
+
+Cinquanta-sette enormi furgoni, ciascuno trainato da dodici forti cavalli e carichi fino a un'altezza di almeno quaranta piedi di volantini e piccoli manuali, ricevettero forse un'ovazione più calorosa rispetto a qualsiasi altro settore della processione. Alla fine, come se volessero sottolineare l'unità tra tutti i nostri sudditi, obiettivo della vita del signor Chamberlain, apparvero alcuni Kaffiri vestiti il più possibile nel modo dei lavoratori britannici; questi marciarono davanti ai furgoni con le bandiere sventolate.
+
+Quando le voci e gli ordini di questi coraggiosi uomini giunsero alle loro orecchie, la folla non riuscì più a trattenersi. Forti grida di “Tweebosch!” e i nomi di altre battaglie in cui avevano combattuto e versato il loro sangue per noi risuonarono da parte dei tre uomini istruiti presenti tra quella vasta folla. Mentre la legione passava davanti al palco e rivolgeva lo sguardo verso la maestosa figura che li aveva arruolati nel servizio comune della Razza Insulare, una grande canzone, le cui parole all’inizio erano indistinte, si levò spontaneamente da varie parti della processione: in pochi secondi mezzo milione di voci coraggiose intonarono la grande Canzone dell’Impero.
+
+#Chi non può essere ogni uomo
+
+“Tre mogli aveva!”
+
+Spinti da tali emozioni, la folla superò il cordone che fino ad allora era stato rigidamente mantenuto dai soldati reclutati dal signor Brodrick e si precipitò verso il palco principale; sfortunatamente, quest’ultimo crollò sotto il peso di tante persone desiderose onorare il loro leader con un abbraccio personale. Forse non si poteva immaginare fine più appropriato per una scena che segnava un punto di svolta nella storia della parata delle Guardie a Cavallo.
+
+Il Segretario Coloniale, non occorre nemmeno dirlo, non rimase ad ascoltare quest’ultimo testimonianzo della sua popolarità; tuttavia, l’inizio di quel movimento entusiasta tra la folla fu sufficiente a convincerlo che aveva migliaia di persone al suo fianco. E, come si dice che Napoleone abbia detto al suo cocchiere dopo Waterloo: “Con un simile sostegno, un uomo dovrebbe essere in grado di fare qualsiasi cosa.”
+
 
 
 <span class="atom-split" data-atom="story_10_report_of_the_committee" data-title="The Great Inquiry — Report Of The Committee" data-chapter="Report Of The Committee" data-kind="story" data-tags="form/satire,form/parody"></span>
@@ -1341,6 +1928,10 @@ REPORT OF THE COMMITTEE
 APPOINTED TO
 SIT HARD UPON
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Rapporto del comitato incaricato di indagare a fondo
 
 
 
@@ -1383,6 +1974,42 @@ The Empire cannot go on like this. It is amply proved that not only Great Britai
 
 SECTION II. There is, however, another side of the picture. Not only Great Britain and Ireland, but the Colonies also, are on the verge of bankruptcy; their population is for the most part starving; in many districts, notably in Lancashire, the Isle of Thanet, Manitoba, and the Wagga-Muri country, N.S.W., the wretched populace subsist on grass like beasts of the field, and have lost all semblance of human form. Even the wealthy classes have felt the pinch. Three furnished houses in South Audley Street are untenanted, and it has been necessary to provide out-door relief for the clergy.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le condizioni fiscali della madrepatria.
+
+Realizzato durante la sessione plenaria del Consiglio di Stato, incoronato, vestito con abiti solenni e posto sotto custodia, fu ordinato di essere inserito negli Archivi Imperiali.
+
+Sotto il Grande Sigillo, il Sigillo Privato e la Mazza Statutaria.
+
+Il vostro comitato
+
+Hanno prima considerato se dovessero esporre le proprie ragioni prima di arrivare alle conclusioni; oppure, secondamente, le conclusioni prima delle ragioni; o, terzo, soltanto le ragioni; o, quarto, soltanto le conclusioni; o, quinto, una sorta di discorso senza logica né conclusioni, come è più comune fare. Il vostro Comitato si è diviso su ciascuna di queste possibilità, quando è emerso che.
+
+Il primo progetto fu respinto all’unanimità.
+
+Il secondo piatto fu respinto all’unanimità.
+
+Il terzo progetto fu rifiutato per ispirazione.
+
+Il quarto progetto fu rifiutato a causa di un’infatuazione.
+
+Il quinto piatto è stato rifiutato per errore.
+
+Essendo così arrivati, nel bel mezzo della situazione, che il vostro comitato aveva accidentalmente rifiutato tutte le possibili opzioni e non gli rimaneva nulla su cui basarsi, poiché non esisteva alcun precedente per un simile errore.
+
+# Il vostro comitato
+
+Decisero quindi di iniziare da capo e così fu redatto…
+
+Il vostro Comitato, con l’aiuto di un esperto redattore di prosa, ha preparato un rapporto di maggioranza nel seguente tenore: —
+
+SEZIONE I. Dopo aver ascoltato tutte le prove presentate loro, il vostro Comitato ritiene che.
+
+L’Impero non può continuare così. È ampiamente dimostrato che non solo la Gran Bretagna e l’Irlanda, ma anche le colonie, da molti anni stanno aumentando in ricchezza, popolazione e potere, con grave danno alle virtù cristiane della umiltà e del timore di Dio. È altresì indiscutibile che la bassa costosità di tutti i generi di merci abbia permesso alla maggior parte della popolazione di vivere in modo dissoluto, distruggendo l’onestà e il risparmio, danneggiando l’industria e addirittura minacciando quella sobrietà che fino ad ora era stata il principale tratto distintivo della nostra nazione.
+
+SEZIONE II. Tuttavia, c’è anche un altro aspetto della situazione. Non solo la Gran Bretagna e l’Irlanda, ma anche le colonie sono sull’orlo del fallimento; la loro popolazione soffre in gran parte della fame; in molte zone, soprattutto nel Lancashire, sull’Isola di Thanet, in Manitoba e nella regione di Wagga-Muri, nel Nuovo Galles del Sud, la gente miserabile si nutre solo di erba, come gli animali selvatici, e ha perso ogni traccia dell’aspetto umano. Anche le classi ricche hanno risentito delle difficoltà economiche: tre case arredate in South Audley Street sono rimaste disabitate, ed è stato necessario fornire aiuto alimentare al clero.
 
 
 
@@ -1440,3 +2067,58 @@ They are in the utmost perturbation.
 They heartily wish you had not asked them to undertake this task.
 
 And Your Commissioners will ever pray, &c.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Prodotto nel povero vecchio Kent.
+
+SEZIONE III. Negli ultimi anni l’oro si è accumulato con tale rapidità da intasare i principali canali commerciali e far perdere alle persone ogni senso del valore di questo metallo prezioso. Un aumento di cinque milioni di sterline all’anno nel mezzo circolante del paese non può essere considerato senza preoccupazione. Innumerevoli monete da dieci penny vengono scambiate accidentalmente per sei penny; intere sovrane vengono dimenticate nelle cabine degli taxi, e capitalisti di grande rilievo permettono che somme ingenti vengano sottratte fraudolentemente dai loro conti in banca. I metalli preziosi vengono utilizzati per realizzare custodie da sigarette, medaglie e statuette, e persino sprecati in modo futile per oggetti legati a superstizioni nelle chiese. Tutti questi mali derivano senza dubbio da ciò che il professor Macfadden ha definito “l’eccesso di oro”.
+
+SEZIONE IV. Nel frattempo, c’è una terribile e finora insormontabile perdita di oro da tutte le porte del regno. La maggior parte della nostra popolazione, anche coloro che mostrano ogni segno esteriore di prosperità, afferma di “non sapere dove rivolgersi per ottenere denaro”. I giovani delle nostre università sono tutti profondamente indebitati, e persino gli anziani spesso si trovano in difficoltà finanziarie.
+
+“Tutti questi giovani sono profondamente indebitati, e anche gli anziani spesso si trovano in situazioni difficili.”
+
+Quattro prestiti coloniali sono andati in fallimento durante l’anno.
+
+Il signor Seddon ci informa che una misera ricompensa offertagli da una nazione riconoscente dovette essere pagata in non meno di cinque rate. Infatti, per molto tempo fu estremamente preoccupato riguardo alla quinta rata.
+
+È estremamente difficile ottenere il resto della banconota.
+
+Sono registrati numerosi casi in cui gentiluomini di buona famiglia si sono trovati sugli autobus senza i mezzi per pagare la tariffa; alcuni di loro sono stati persino scacciati con la forza.
+
+“Signori di nobile origine”
+
+I prestiti temporanei e di breve durata, che un tempo potevano essere ottenuti gratuitamente tra amici, ora possono essere presi soltanto a condizioni estremamente svantaggiose – a volte fino al 60% del valore totale – da persone completamente sconosciute.
+
+Il carta è ovunque, sostituendo il metallo sotto forma di assegni, banconote, francobolli, cambiali e lettere di sollecito: una situazione piuttosto degna della Spagna che di una nazione la cui lingua si è diffusa in metà del Nuovo Mondo.
+
+Tutti questi mali sono senza dubbio causati dalla sottrazione dell’oro.
+
+SEZIONE V. Le nazioni straniere, prese da una follia improvvisa, ci impongono continuamente doni, causando la rovina del nostro commercio legittimo. I patrioti che cercano di rifiutare questi regali vengono minacciati.
+
+Un noto assessore di Peckham, che insisteva nel comprare vino inglese invece di quella robaccia straniera, è recentemente morto tra atroci sofferenze, sospettato di essere stato avvelenato.
+
+Un promettente giovane impiegato e poeta, conosciuto come Balmy Jim, che indossava esclusivamente abiti di sua stessa fattura, è stato trovato impiccato a un albero nel Richmond Park.
+
+Il reverendo Charles Henty, membro di St. Barnabas, che rompeva molti vetri nei Giardini di Kew per promuovere lo sviluppo della tecnica vetraria inglese, è stato imprigionato.
+
+SEZIONE VI. Non meno di quattordici professori di economia politica hanno sottolineato, in un manifesto molto ben scritto, di essere in disaccordo con alcuni dei nostri politici più illustri su questioni fiscali. Solo questo dovrebbe dimostrare l’intenso interesse suscitato da tutta questa questione, nonché l’assurdità di fingere che non fosse necessario un’indagine approfondita.
+
+SEZIONE VII. I nostri colleghi ci hanno informato che sono stati attaccati in modo calunnioso da non meno di quattordici pedanti, i quali, a loro parere, sono al servizio di potenze straniere. Questo genere di accuse non può essere né dimostrato né confutato. È sufficiente evidenziare l’importanza delle questioni che abbiamo davanti a noi.
+
+SEZIONE VIII. Gli editori del Daily Mail, dello Spectator, del Standard e di altri giornali hanno improvvisamente assunto un atteggiamento ostile nei confronti degli editori del Times, del Daily Express, del Globe e di altri simili organi di stampa, indipendentemente da chi li possa dirigere. Solo questo dovrebbe essere sufficiente a dimostrare, ecc., ecc.
+
+SEZIONE IX. Il Duca di Devonshire ha fatto alcune osservazioni particolarmente irritanti, così come Sir John Gorst. Solo questo, e così via.
+
+Il vostro Comitato è quindi completamente incapace di decidere cosa si debba fare.
+
+È davvero impossibile prendere una decisione.
+
+Sono di fronte a un dilemma.
+
+Sono nel più profondo scompiglio.
+
+Sperano sinceramente che non vi foste rivolti a loro per svolgere questa missione.
+
+E i vostri commissari continueranno sempre a pregare, ecc.

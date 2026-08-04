@@ -14685,6 +14685,96 @@ daughters married: its solace was visiting and news.
 [_Copyright 1894 by George Allen._]]
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Capitolo I.
+
+È una [[Truth|verità]] universalmente riconosciuta che un uomo solo, possedente di una grande fortuna, debba necessariamente cercare una moglie.
+
+Per quanto poco si possano conoscere i sentimenti o le opinioni di un tale uomo al suo primo arrivo in un quartiere, questa [[Truth|verità]] è così profondamente radicata nella mente delle famiglie circostanti che lui viene considerato la “proprietà legittima” di una di loro figlie.
+
+“Mio caro signor Bennet”, gli disse un giorno sua moglie, “ha sentito che finalmente Netherfield Park è stato affittato?”
+
+Il signor Bennet rispose che non l’aveva fatto.
+
+“Ma sì,” rispose lei; “perché la signora Long è appena stata qui e mi ha raccontato tutto.”
+
+Il signor Bennet non rispose nulla.
+
+“Non vuoi sapere chi l’ha preso?”, gridò sua moglie, impaziente.
+
+“Vuoi dirmelo… e non ho obiezioni ad ascoltarlo.”
+
+#Illustrazione:
+
+“È sceso per vedere il posto.”
+
+# Copyright 1894 di George Allen.
+
+Questo era un invito più che sufficiente.
+
+“Mia cara, devi sapere che la signora Long dice che Netherfield è stato preso da un giovane uomo molto ricco del nord dell’Inghilterra; è arrivato lunedì in una carrozza a quattro cavalli per vedere la casa e ne è rimasto così soddisfatto che ha accettato immediatamente l’offerta del signor Morris; prenderà possesso della proprietà prima di Michaelmas, e alcuni dei suoi servitori arriveranno nella [[house|>casa]] entro la fine della prossima settimana.”
+
+# “Come si chiama?”
+
+“Bingley.”
+
+“È sposato o single?”
+
+“Ah, scapolo, caro mio. Sicuramente! Un uomo single con una grande fortuna; quattro o cinque migliaia all’anno. Che cosa meravigliosa per le nostre ragazze!”
+
+“Come mai? In che modo può influenzarli?”
+
+“Mio caro signor Bennet,” rispose sua moglie, “come può essere così noioso? Dovrebbe sapere che sto pensando al fatto che si sposi con una di loro.”
+
+“È davvero questo il suo piano: stabilirsi qui?”
+
+“Design? Assurdità, come puoi dire una cosa del genere! Ma è molto probabile che lui possa innamorarsi di una di loro, quindi devi andare a trovarlo non appena arriva.”
+
+“Non vedo alcuna ragione per farlo. Tu e le ragazze potete andare, oppure potreste mandarle da sole, il che forse sarebbe ancora meglio; visto che sei altrettanto attraente quanto loro, signor Bingley potrebbe preferirti a tutte.”
+
+“Mia cara, mi lusinghi. Certo che ho avuto la mia parte di [[Beauty|bellezza]], ma ora non pretendo affatto di essere qualcosa di straordinario. Quando una donna ha cinque figlie adulte, dovrebbe smettere di pensare troppo alla propria [[Beauty|bellezza]].”
+
+“In tali casi, una donna spesso non possiede molta [[Beauty|bellezza]] di cui parlare.”
+
+“Ma, caro mio, devi assolutamente andare a trovare il signor Bingley quando arriverà in zona.”
+
+“È molto di più di quanto mi sia impegnato a fare, ve lo assicuro.”
+
+“Ma pensate alle vostre figlie. Immaginate solo quale posizione sociale otterrebbe una di loro in quella famiglia. Sir William e Lady Lucas sono decisi ad andare proprio per questo motivo; del resto, come sapete, non frequentano mai le nuove arrivate nella società. Davvero dovete andare. Altrimenti sarà impossibile per _noi_ incontrarlo.”
+
+“Siete davvero troppo scrupolosi. Sono sicura che il signor Bingley sarà molto felice di vedervi; e vi manderò qualche riga per assicurargli la mia piena approvazione nel caso scelga qualsiasi delle ragazze, anche se devo dire una parola a favore della mia piccola Lizzy.”
+
+“Vorrei che non facessi una cosa del genere. Lizzy non è affatto migliore delle altre; sono sicura che non sia nemmeno la metà attraente di Jane, né la metà gentile di Lydia. Eppure tu le dai sempre la preferenza.”
+
+“Nessuna di loro ha davvero qualcosa che la distingua,” rispose lui: “sono tutte sciocche e ignoranti come le altre ragazze; ma Lizzy possiede una certa vivacità che le altre sorelle non hanno.”
+
+“Signor Bennet, come può trattare i suoi stessi figli in questo modo? Si diverte a infastidirmi. Non ha alcuna compassione per i miei poveri nervi.”
+
+“Mi sbagli, caro mio. Ho un grande rispetto per i tuoi nervi. Sono vecchi amici miei. Li hai menzionati con affetto almeno in questi vent’anni.”
+
+“Ah, non sapete quanto soffro.”
+
+“Ma spero che tu riesca a superare questa difficoltà e che possa vivere abbastanza a lungo da vedere arrivare nel quartiere molti giovani uomini, ogni quattro anni.”
+
+“Non ci sarà alcun utilità per noi, anche se ne arrivassero venti, visto che tu non andrai a trovarli.”
+
+"Ci puoi contare, carissima: non appena ne saranno venti, andrò a trovarli tutti."
+
+Il signor Bennet era un insieme così strano di momenti di vivacità, umorismo sarcastico, riservatezza e capricci, che ventitré anni di esperienza non erano stati sufficienti perché sua moglie potesse comprendere il suo carattere. La mente di lei, invece, era molto più semplice da comprendere: era una donna dallo spirito limitato, con poche conoscenze e un temperamento instabile. Quando si sentiva insoddisfatta, si attribuiva problemi nervosi. L’unico scopo della sua vita era far sposare le sue figlie; il suo unico conforto consisteva nelle visite e nelle notizie che riceveva.
+
+Illustrazione: Il signor e la signora Bennet
+
+# Copyright 1894 di George Allen.
+
+
+
+#Illustrazione:
+
+“Spero che a Mr. Bingley piaccia”.
+
+# Copyright 1894 di George Allen.
+
 
 
 <span class="atom-split" data-atom="chapter_02" data-title="Pride and Prejudice — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/dance,motif/horse,motif/love,motif/time,motif/well,concept/honour,concept/hope"></span>
@@ -14808,6 +14898,74 @@ dinner.
 “He rode a black [[Horse|horse]]”
 ]
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II.
+
+#Illustrazione
+
+Il signor Bennet era tra i primi ad andare a far visita al signor Bingley. Aveva sempre intenzione di farlo, anche se fino all’ultimo momento assicurava sua moglie che non ci sarebbe andato; e solo la sera seguente alla visita lei ne venne a conoscenza. La cosa fu rivelata in questo modo: notando che sua seconda figlia stava sistemando un cappello, le disse improvvisamente.
+
+“Spero che a Mr. Bingley piaccia, Lizzy.”
+
+“Non siamo nella posizione di sapere _cosa_ piaccia al signor Bingley,” disse sua madre, con rancore, “visto che non dobbiamo andare a far visita.”
+
+“Ma tu dimentichi, mamma,” disse Elizabeth, “che lo incontreremo alle riunioni, e che la signora Long ha promesso di presentarcelo.”
+
+“Non credo che la signora Long possa fare una cosa del genere. Ha due nipoti suoi. È una donna egoista e ipocrita; non ho alcuna stima di lei.”
+
+“Non ne ho più,” disse il signor Bennet; “e sono felice di scoprire che non dipendi da lei per essere servito.”
+
+La signora Bennet decise di non rispondere; ma, incapace di trattenersi, iniziò a rimproverare una delle sue figlie.
+
+“Smettila di tossire, per l’amor del cielo, Kitty. Abbi un po’ di compassione per i miei nervi: li stai distruggendo completamente.”
+
+“Kitty non sa quando tossire… sceglie sempre i momenti peggiori”, disse suo padre.
+
+“Non tossisco per divertimento mio,” rispose Kitty, con ansia. “Quando sarà la tua prossima festa, Lizzy?”
+
+“Tra due settimane.”
+
+“Ah, è proprio così,” gridò sua madre, “e la signora Long non tornerà fino al giorno prima; quindi sarà impossibile per lei presentarlo, perché nemmeno lei lo conoscerà.”
+
+“Allora, mia cara, potrai approfittare dell’aiuto della tua amica e presentare il signor Bingley a _lei_.”
+
+“Impossibile, signor Bennet, impossibile, visto che non lo conosco nemmeno io personalmente; come può lei scherzare in questo modo?”
+
+“Rispetto molto la vostra prudenza. Due settimane di conoscenza sono certamente molto poche. Non si può sapere davvero chi sia una persona dopo soltanto due settimane. Ma se _noi_ non ci azzardiamo, lo farà qualcun altro; in fondo, la signora Long e le sue nipoti devono avere la loro opportunità. Quindi, poiché lei considererà il mio intervento un atto di gentilezza, se voi rifiutate l’incarico, lo assumerò io stesso.”
+
+Le ragazze fissavano il loro padre. La signora Bennet disse soltanto: “Sciocchezze, sciocchezze!”
+
+“Qual può essere il significato di quell’esclamazione così enfatica?” gridò. “Ritenete davvero che le forme di introduzione e l’enfasi posta su di esse siano prive di senso? Non posso del tutto concordare con voi in questo. Che ne pensi tu, Mary? So che sei una giovane donna molto riflessiva, che leggi molti libri e prendi spesso appunti.”
+
+Mary voleva dire qualcosa di molto sensato, ma non sapeva come farlo.
+
+“Mentre Mary sta ancora riflettendo su queste cose”, continuò, “torniamo ora al signor Bingley.”
+
+“Sono stufa del signor Bingley,” gridò sua moglie.
+
+“Mi dispiace molto di saperlo; ma perché non me l’hai detto prima? Se lo avessi saputo stamattina, sicuramente non sarei andato a trovarlo. È davvero sfortunato. Ma ora che sono già stato da lui, non possiamo più evitare questo incontro.”
+
+Lo stupore delle signore era esattamente ciò che lui desiderava; forse quello della signora Bennet superava tutti gli altri; tuttavia, quando il primo momento di gioia fu passato, lei iniziò a dichiarare che era proprio ciò che si aspettava da tempo.
+
+“Che nobile gesto da parte tua, caro signor Bennet! Ma sapevo che alla fine sarei riuscita a convincerti. Ero certa che amassi le tue figlie troppo bene per trascurare un'amicizia del genere. Beh, quanto sono felice! E inoltre è davvero una bella battuta: essere andato questa mattina senza dire una parola fino ad ora, ”
+
+“Ora, Kitty, puoi tossire quanto vuoi,” disse il signor Bennet; e, mentre parlava, uscì dalla stanza, stanco delle esclamazioni entusiastiche di sua moglie.
+
+“Che padre meraviglioso avete, ragazze,” disse lei quando la porta si chiuse. “Non so proprio come riuscirete mai a ripagare lui per la sua gentilezza, né io, del resto. Alla nostra età, non è affatto piacevole dover fare nuove conoscenze ogni giorno; ma per voi saremmo disposte a fare qualsiasi cosa. Lydia, mia cara, anche se sei la più giovane, credo che il signor Bingley ballerà con te al prossimo ballo.”
+
+“Ohi,” disse Lydia con fermezza, “non ho paura; perché anche se sono la più giovane, sono anche la più alta.”
+
+Il resto della serata fu trascorso a chiedersi quando sarebbe tornato per rivedere il signor Bennet, e a decidere quando invitarlo a cena.
+
+Illustrazione: “Sono il più alto”.
+
+
+
+#Illustrazione:
+
+“Montava un cavallo nero.”
 
 
 
@@ -15128,6 +15286,48 @@ commendation to think of her as he chose.
 [Illustration: [_Copyright 1894 by George Allen._]]
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV.
+
+#Illustrazione
+
+Quando Jane ed Elizabeth erano [[Alone|da sole]], la prima, che in precedenza aveva espresso i suoi elogi per il signor Bingley con cautela, raccontò alla sorella quanto lo ammirasse davvero.
+
+“È esattamente ciò che un giovane dovrebbe essere,” disse lei, “sensato, di buon umore, vivace; e non ho mai visto modi così affabili, tanta disinvoltura, e una tale perfezione nei comportamenti!”
+
+“È anche attraente,” rispose Elizabeth, “e questo è ciò che un giovane dovrebbe essere, se possibile. In questo modo il suo carattere diventa completo.”
+
+“Sono stato molto lusingato dal fatto che mi abbia chiesto di [[Dance|)danzare]] una seconda volta. Non mi aspettavo un complimento del genere.”
+
+“Non l’hai fatto? _Io_ l’ho fatto al posto tuo. Ma questa è una grande differenza tra di noi: i complimenti ti colgono sempre di sorpresa, mentre io mai. Cosa potrebbe essere più naturale se lui te lo chiedesse di nuovo? Non poteva fare a meno di notare che eri circa cinque volte più bella di qualsiasi altra donna nella stanza. E non certo grazie alla sua galanteria. Beh, comunque è davvero molto piacevole, e ti do il permesso di apprezzarlo. Hai già apprezzato molte persone più stupide.”
+
+“Carissima Lizzy!”
+
+“Oh, sei davvero troppo incline ad apprezzare le persone in generale. Non vedi mai alcun difetto in nessuno; ai tuoi occhi, tutti sono buoni e piacevoli. In tutta la mia vita non ti ho mai sentito parlare male di qualcuno.”
+
+“Non vorrei mai essere troppo affrettato nel giudicare qualcuno; ma dico sempre ciò che penso.”
+
+“So che lo sai. Ed è proprio questo che suscita il mio [[Wonder|stupore]]. Con la tua buona sensatezza, essere così sinceramente cieco di fronte alle follie e ai nonsensi degli altri. L’affettazione di candore è abbastanza comune; se ne trova ovunque. Ma essere sinceri senza ostentazione o secondi fini, valorizzare il lato positivo del carattere delle persone e migliorarlo ancora, senza mai menzionare i difetti. Questo appartiene soltanto a te, [[Alone|solo]] a te. E quindi, ti piacciono anche le sorelle di quest’uomo, vero? I loro modi non sono all’altezza dei suoi.”
+
+“Certo che no, all’inizio; ma sono donne molto piacevoli da conversare con. La signorina Bingley vivrà con suo fratello e si occuperà della sua [[house|>casa]]; e mi sbaglio di grosso se non diventerà una vicina davvero incantevole.”
+
+Elizabeth ascoltava in [[Silence|silenzio]], ma non era convinta: il loro comportamento durante l'assemblea non sembrava mirato a compiacere tutti; e, grazie a una maggiore acutezza di osservazione e a un temperamento meno accomodante rispetto a sua sorella, oltre a un giudizio libero da qualsiasi considerazione per se stesse, era molto poco disposta ad approvarle. In realtà, erano donne davvero distinte: non mancavano di buon [[Humour|umore]] quando erano felici, né della capacità di essere piacevoli quando lo desideravano; ma erano orgogliose e presuntuose. Erano anche abbastanza attraenti, avevano ricevuto un'educazione in uno dei migliori istituti privati della città, possedevano una fortuna di ventimila sterline, avevano l'abitudine di spendere più di quanto fosse opportuno e frequentavano persone di rango; perciò, sotto ogni aspetto, avevano tutte le ragioni per considerarsi in modo positivo e giudicare negativamente gli altri. Provenivano da una famiglia rispettabile del nord dell'Inghilterra; un fatto che rimase profondamente impresso nella loro memoria, molto più di quanto il patrimonio di loro fratello o il proprio fossero stati ottenuti attraverso il commercio.
+
+Il signor Bingley ereditò da suo padre una proprietà del valore di quasi centomila sterline; suo padre aveva intenzione di acquistare un possedimento, ma non visse abbastanza a lungo per farlo. Anche il signor Bingley aveva lo stesso progetto e talvolta sceglieva la contea in cui stabilirsi; tuttavia, avendo ormai una bella casa e la libertà di gestire un maniero, molti che conoscevano bene la sua indole pensavano che potesse trascorrere il resto dei suoi giorni a Netherfield, lasciando che fosse la prossima generazione ad acquistare il possedimento.
+
+Le sue sorelle erano molto desiderose che possedesse una proprietà tutta sua; ma anche se per il momento viveva soltanto come inquilino, la signorina Bingley non si rifiutava affatto di presiedere alla sua tavola; né la signora Hurst, che aveva sposato un uomo più alla moda che ricco, era meno disposta a considerare la sua casa come la propria quando le conveniva. Il signor Bingley aveva appena due anni quando, su raccomandazione casuale, decise di visitare la casa di Netherfield. La esaminò attentamente per mezz’ora; gli piacquero l’ubicazione e le stanze principali, fu soddisfatto di ciò che il proprietario ne aveva detto in termini positivi, e la acquistò immediatamente.
+
+Tra lui e Darcy esisteva un'amicizia molto solida, nonostante una grande diversità di carattere. A Bingley piaceva molto Darcy per la sua natura spensierata, aperta e flessibile, anche se nessun altro temperamento avrebbe potuto creare un contrasto più marcato con il suo; eppure Bingley non sembrava mai insoddisfatto di lui. Con fiducia assoluta riponeva nella considerazione e nel giudizio di Darcy, che era senz’altro superiore a lui in intelligenza. Bingley non era certo privo di qualità; ma Darcy era davvero intelligente. Allo stesso tempo, Darcy era orgoglioso, riservato e esigente; i suoi modi, sebbene ben educati, non erano particolarmente affabili. In questo senso, il suo amico aveva un grande vantaggio: Bingley era sicuro di essere apprezzato ovunque si presentasse; Darcy, invece, finiva spesso per offendere gli altri.
+
+Il modo in cui parlavano dell’assemblea a Meryton era piuttosto caratteristico. Bingley non aveva mai incontrato persone più piacevoli né ragazze più belle nella sua vita; tutti erano stati estremamente gentili e attenti con lui; non c’era stata alcuna formalità, nessuna rigidità; si era subito sentito a suo agio in mezzo a loro; e per quanto riguardava la signorina Bennet, non riusciva a immaginare un angelo più bella. Darcy, al contrario, aveva visto un gruppo di persone in cui c’era poco [[Beauty|bello]] e nessuna eleganza; nessuno di loro gli suscitava il minimo interesse, e da nessuno riceveva né attenzioni né piacere. Ammetteva che la signorina Bennet fosse carina, ma sorrideva troppo.
+
+La signora Hurst e sua sorella lasciarono che le cose andassero così; tuttavia continuavano ad ammirarla e a piacerle, definendola una ragazza gentile e di cui non avrebbero avuto obiezioni ad approfondire la conoscenza. Pertanto, Miss Bennet fu considerata una ragazza davvero gentile; e loro fratello, autorizzato da tali lodi, poté pensare a lei come desiderava.
+
+
+
+Illustrazione: [Copyright 1894 di George Allen.]
+
 
 
 <span class="atom-split" data-atom="chapter_05" data-title="Pride and Prejudice — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/king,motif/dance,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/honour,concept/nature,concept/pride,concept/self,concept/vanity,concept/wonder"></span>
@@ -15374,6 +15574,38 @@ drew her notice. It was at Sir William Lucas’s, where a large party were
 assembled.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI.
+
+#Illustrazione
+
+Le signore di Longbourn presto iniziarono a rendere visite a quelle di Netherfield. Le visite vennero ricambiate in entrambe le direzioni. I modi piacevoli di Miss Bennet conquistarono la simpatia della signora Hurst e di Miss Bingley; e sebbene la madre fosse ritenuta insopportabile e le sorelle minori non degne di essere parlate, per quanto riguarda le due più anziane fu espresso il desiderio di conoscerle meglio. Jane accolse questa attenzione con grande piacere; ma Elizabeth continuò a percepire un atteggiamento sprezzante da parte loro verso tutti, quasi esclusivamente tranne sua sorella, e non riuscì ad affezionarsi a loro. Tuttavia, la gentilezza che dimostravano nei confronti di Jane, per quanto limitata, aveva il suo valore, poiché probabilmente derivava dall’influenza dell’ammirazione del loro fratello. Era evidente, ogni volta che si incontravano, che lui l’ammirasse davvero; e per lei era altrettanto chiaro che Jane stesse iniziando a provare per lui un sentimento simile all’amore, ma rifletteva con soddisfazione che questo probabilmente non sarebbe stato scoperto dal resto del mondo. Jane, infatti, combinava una forte passione con compostezza d’animo e un’allegra disponibilità nel comportamento, elementi che l’avrebbero protetta dalle supposizioni dei curiosi. Ne parlò alla sua amica, Miss Lucas.
+
+“Forse potrebbe essere piacevole,” rispose Charlotte, “poter imporre qualcosa al pubblico in una situazione del genere; ma a volte essere così molto cauti può rivelarsi svantaggioso. Se una donna nasconde i propri sentimenti con la stessa abilità verso la persona che li prova, potrebbe perdere l’opportunità di conquistarla; e allora non sarà certo un grande conforto credere che anche il resto del mondo sia nell’ignoranza. In quasi ogni tipo di affetto c’è tanto di gratitudine quanto di [[Vanity|vanità]], quindi non è sicuro lasciare che queste emozioni seguano il loro corso naturale. Tutti noi possiamo iniziare liberamente: un leggero favore verso qualcuno è del tutto naturale; ma pochi di noi hanno abbastanza determinazione da innamorarsi veramente senza incoraggiamenti. Nove volte su dieci, una donna farebbe meglio a mostrare più affetto di quanto ne provi realmente. Bingley ama sicuramente tua sorella; ma potrebbe non andare oltre questo sentimento, se lei non lo incoraggia.”
+
+“Ma lei lo aiuta comunque, nella misura in cui la sua [[Nature|>natura]] glielo permette. Se io riesco a percepire il suo affetto per lui, allora lui deve davvero essere un ingenuo se non se ne accorge anche lui.”
+
+"#Ricorda, Eliza, che lui non conosce il carattere di Jane come lo conosci tu."
+
+“Ma se una donna prova affetto per un uomo e non cerca di nasconderlo, lui dovrà scoprirlo.”
+
+“Forse deve farlo, se la vede abbastanza spesso. Ma anche se Bingley e Jane si incontrano piuttosto frequentemente, non trascorrono mai molte ore insieme; inoltre, poiché si vedono sempre in grandi gruppi misti, è impossibile che ogni momento possa essere dedicato alla conversazione. Pertanto, Jane dovrebbe sfruttare al massimo ogni mezz’ora in cui può attirare la sua attenzione. Quando avrà la certezza della sua disponibilità, allora avrà tutto il tempo necessario per innamorarsi quanto desidera.”
+
+“Il tuo piano è buono,” rispose Elizabeth, “poiché non si tratta che dell’[[Desire|desiderio]] di sposarsi bene; e se fossi decisa ad ottenere un marito ricco, o qualsiasi marito, oserei dire che lo adotterei anch’io. Ma questi non sono i sentimenti di Jane; lei non agisce con premeditazione. Per il momento, non è nemmeno certa dell’intensità dei propri sentimenti, né della loro ragionevolezza. Lo conosce da soltanto quindici giorni: ha ballato quattro volte con lui a Meryton, lo ha visto una mattina a casa sua e da allora ha pranzato con lui altre quattro volte. Questo non è certo sufficiente per comprendere il suo carattere.”
+
+“Non come lo descrivi tu. Se avesse semplicemente _pranzato_ con lui, avrebbe potuto scoprire soltanto se aveva un buon appetito; ma devi ricordare che insieme hanno trascorso anche quattro serate. E quattro serate possono significare molto.”
+
+“Sì: queste quattro serate hanno permesso loro di constatare che entrambi preferiscono Vingt-un a Commerce, ma per quanto riguarda altre caratteristiche principali, non credo che sia stato scoperto molto di nuovo.”
+
+“Beh,” disse Charlotte, “desidero con tutto il cuore che Jane abbia successo; e anche se si sposasse con lui domani stesso, penso che avrebbe le stesse possibilità di essere felice come se studiasse il suo carattere per dodici mesi. La felicità nel [[Marriage|matrimonio]] dipende interamente dal caso. Anche se i caratteri delle persone coinvolte siano molto simili o ben conosciuti l’uno dall’altro, ciò non aumenta affatto le loro possibilità di essere felici. Di solito, col tempo, i loro caratteri diventano sempre più diversi, e questo porta inevitabilmente a problemi. È quindi meglio sapere il meno possibile sui difetti della persona con cui si passerà la vita.”
+
+“Mi fai ridere, Charlotte. Ma non è giusto. Lo sai che non è giusto, e che tu stessa non agiresti mai in questo modo.”
+
+Occupata ad osservare l’attenzione che il signor Bingley riservava a sua sorella, Elizabeth non sospettava affatto di essere lei stessa oggetto di interesse agli occhi del suo amico. All’inizio, il signor Darcy quasi non le riconosceva alcun pregio estetico: l’aveva guardata senza ammirazione al ballo; e quando si erano incontrati di nuovo, l’aveva osservata soltanto per criticarla. Ma non appena ebbe reso chiara a se stesso e ai suoi amici che il suo viso non presentava alcun tratto particolarmente bello, iniziò a notare che le sue belle iridi scure conferivano al suo volto un’intelligenza insolita. A questa scoperta ne seguirono altre altrettanto imbarazzanti: sebbene con occhio critico avesse individuato più di una imperfezione nella sua figura, dovette ammettere che era snella e attraente; e nonostante affermasse che i suoi modi non fossero quelli tipici del mondo elegante, fu colpito dalla loro naturale vivacità. Lei, però, ne era completamente all’oscuro: ai suoi occhi, lui era semplicemente l’uomo che non riusciva ad essere gradito da nessuno e che non l’aveva trovata abbastanza attraente da ballare con lei.
+
+Iniziò a desiderare di conoscerla meglio; e, come primo passo verso una conversazione diretta con lei, prestò attenzione alle sue discussioni con gli altri. Il suo comportamento attirò la sua attenzione. Era a casa di Sir William Lucas, dove si era riunita un’ampia compagnia.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="Pride and Prejudice — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/dance,motif/grave,motif/love,motif/well,concept/beauty,concept/doubt,concept/honour,concept/imagination,concept/self,concept/vanity,concept/wonder,setting/london,character/elizabeth_bennet"></span>
@@ -15549,6 +15781,100 @@ that all was safe, her wit flowed along.
 
 [_Copyright 1894 by George Allen._]]
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Cosa intende il signor Darcy”, disse a Charlotte, “ascoltando la mia conversazione con il colonnello Forster?”
+
+“È una domanda a cui può rispondere solo il signor Darcy.”
+
+“Ma se lo fa di nuovo, gli farò sicuramente capire che so cosa sta combinando. Ha uno sguardo molto sarcastico, e se non inizio anch’io a essere irriverente, presto inizierò ad aver paura di lui.”
+
+#Illustrazione: “Le suppliche di molti” _[Copyright 1894 di George Allen.]_
+
+Quando si avvicinò a loro poco dopo, sebbene non sembrasse avere alcuna intenzione di parlare, la signorina Lucas sfidò la sua amica a sollevare con lui un argomento del genere. Questo spinse immediatamente Elizabeth a farlo: si rivolse a lui e disse.
+
+“Non le è sembrato, signor Darcy, che mi sia espressa in modo particolarmente bene poco fa, quando scherzavo con il colonnello Forster perché organizzasse una festa a Meryton per noi?”
+
+Con grande energia… ma è un argomento che, inevitabilmente, rende una donna particolarmente energica.
+
+“Sei troppo severo con noi.”
+
+“Tra poco sarà il turno di _lei_ di essere presa in giro,” disse la signorina Lucas. “Ora aprirò lo strumento, Eliza, e tu sai cosa succederà dopo.”
+
+“Sei davvero una creatura molto strana quando si tratta di essere un amico. Sempre che tu voglia che io suoni e canti davanti a tutti! Se la mia [[Vanity|vanità]] avesse una tendenza musicale, saresti stato inestimabile; ma così com’è, preferirei davvero non esibirmi davanti a persone abituate ad ascoltare i migliori artisti.” Tuttavia, di fronte alla perseveranza della signorina Lucas, aggiunse: “Molto bene. Se proprio deve essere così, allora sarà così.” Poi, guardando seriamente il signor Darcy, concluse: “C’è un vecchio detto molto bello, che ovviamente tutti qui conoscono: ‘Tieni la respirazione per raffreddare la tua pappa’. E io terrò la mia respirazione per poter cantare al meglio.”
+
+La sua esibizione fu piacevole, anche se di certo non eccezionale. Dopo una o due [[Song|canzoni]], e prima che potesse accontentare le richieste di molti che volevano che cantasse ancora, sua sorella Mary prese subito il suo posto al pianoforte. Essendo l’unica nella famiglia a non avere particolari talenti naturali, Mary si impegnava molto nello studio e nell’acquisizione di competenze, ed era sempre desiderosa di mostrare le proprie capacità.
+
+Mary non possedeva né genio né gusto; e sebbene la [[Vanity|vanità]] l’avesse spinta a impegnarsi con diligenza, le aveva anche conferito un atteggiamento pedante e un comportamento presuntuoso, che avrebbero potuto rovinare qualunque pregio reale possedesse. Elizabeth, invece, naturale e disinvolta, veniva ascoltata con molto più piacere, anche se non suonava certo altrettanto bene; alla fine di un lungo concerto, Mary era felice di guadagnarsi lodi e gratitudine eseguendo melodie scozzesi e irlandesi, su richiesta delle sue sorelle minori, che insieme ad alcuni membri della famiglia Lucas e a due o tre ufficiali si univano con entusiasmo alla danza all’altro capo della sala.
+
+Il signor Darcy stava lì vicino a loro, in silenziosa indignazione di fronte a un modo del tutto inappropriato per trascorrere la serata, che escludeva qualsiasi conversazione. Troppo immerso nei propri pensieri, non si rese conto che Sir William Lucas era il suo vicino, fino a quando quest’ultimo non iniziò a parlare.
+
+“Che divertimento incantevole per i giovani, signor Darcy! Dopo tutto, non c’è nulla di meglio del ballo. Lo considero uno dei primi segni di raffinatezza in una società ben organizzata.”
+
+“Certamente, signore; inoltre ha il vantaggio di essere di moda anche nelle società meno raffinate del mondo: ogni selvaggio sa [[Dance|danzare]].”
+
+Sir William si limitò a sorridere. “Il vostro amico si esibisce meravigliosamente,” continuò, dopo una pausa, vedendo che Bingley si era unito al gruppo; “e non dubito affatto che anche voi siate un esperto in questa materia, signor Darcy.”
+
+“Avete visto ballare me a Meryton, credo, signore.”
+
+“Sì, davvero; ho provato un piacere notevole a vederlo. Danzate spesso a St. James’s?”
+
+«Mai, signore».
+
+"#Non pensi che sarebbe un complimento appropriato per quel luogo?"
+
+“È un complimento che non faccio mai a nessun posto, se posso evitarlo.”
+
+“Hai una [[house|casa]] in città, giusto?”
+
+Il signor Darcy fece un inchino.
+
+“Una volta avevo pensato di stabilirmi anch'io in città, poiché mi piace molto la società raffinata; ma non ero del tutto sicuro che l’atmosfera di [[London|Londra]] fosse adatta a Lady Lucas.”
+
+Si fermò in attesa di una risposta; ma il suo compagno non sembrava disposto a darne alcuna. In quel momento, mentre Elizabeth si avvicinava a loro, gli venne l’idea di fare qualcosa di davvero nobile, e le gridò:
+
+“Mia cara signorina Eliza, perché non ballate? Signor Darcy, dovete permettermi di presentarvi questa giovane donna come una compagna davvero ideale per ballare. Non potete rifiutare, ne sono sicura, quando tanta bellezza vi si presenta davanti.” E, prendendole la mano, stava per porgerla a Mr. Darcy, che, sebbene estremamente sorpreso, non era contrario ad accettarla, quando lei all’improvviso ritirò la mano e, con un certo imbarazzo, disse a Sir William:
+
+“Infatti, signore, non ho la minima intenzione di ballare. Vi prego di non pensare che io mi sia mosso in questo modo per chiedere qualcuno con cui ballare.”
+
+Il signor Darcy, con la massima dignità, chiese l’onore di ricevere la sua mano, ma invano. Elizabeth era decisa; nemmeno il tentativo del signor William di convincerla riuscì a farle cambiare idea.
+
+“Miss Eliza, vi distinguite così tanto nella [[Dance|danza]] che sarebbe crudele negarmi la felicità di vedervi esibirvi; e anche se questo signore in generale non apprezza queste attività ricreative, sono sicura che non avrà obiezioni ad accompagnarci per mezz’ora.”
+
+“Il signor Darcy è davvero pieno di cortesia,” disse Elizabeth sorridendo.
+
+“Lo è davvero. Ma considerando le motivazioni che lo spingono, mia cara signorina Eliza, non possiamo meravigliarci della sua disponibilità; chi potrebbe infatti opporsi a un partner del genere?”
+
+Elizabeth rispose con un sorriso beffardo e si allontanò. La sua resistenza non aveva ferito i sentimenti del gentiluomo, il quale continuava a pensare a lei con una certa soddisfazione. Quando fu avvicinata da Miss Bingley.
+
+“Posso indovinare l’argomento dei tuoi pensieri.”
+
+“Immagino di no.”
+
+“Stai pensando a quanto sia insopportabile trascorrere molte serate in questo modo, in una società del genere. E infatti, sono completamente d’accordo con te. Non mi sono mai sentito così infastidito! Quella banalità, eppure tutto quel rumore; quell’assurdità, eppure tutta quella presunzione di queste persone. Darei qualunque cosa per ascoltare le tue critiche su di loro!”
+
+“La tua congettura è completamente sbagliata, te lo assicuro. La mia mente era impegnata in qualcosa di molto più piacevole: stavo riflettendo sul grande piacere che possono procurare due bellissimi occhi su un viso di donna attraente.”
+
+La signorina Bingley fissò immediatamente il suo viso, desiderando che le dicesse quale signora aveva l’onore di ispirare tali riflessioni. Il signor Darcy rispose, con grande coraggio.
+
+“Signorina [[Elizabeth Bennet]].”
+
+“Signorina [[Elizabeth Bennet]]!”, ripeté la signorina Bingley. “Sono davvero stupita. Da quanto tempo è diventata così amata da tutti? E quando potrò finalmente augurarvi gioia?”
+
+“Ecco esattamente la domanda che mi aspettavo che mi poneste. L’[[Imagination|immaginazione]] di una donna è molto veloce: passa dall’ammirazione all’[[Love|amore]], dall’[[Love|amore]] al matrimonio, in un istante. Sapevo che avreste voluto augurarmi felicità.”
+
+“No, se la prendete così seriamente, considererò la questione assolutamente risolta. Avrete davvero una suocera incantevole, e naturalmente starà sempre a Pemberley con voi.”
+
+La ascoltava con perfetta indifferenza, mentre lei preferiva divertirsi in quel modo; e poiché la sua calma le assicurava che tutto fosse a posto, il suo spirito giocoso continuò a fluire liberamente.
+
+
+
+#Illustrazione:
+
+“Una nota per la signorina Bennet”
+
+# Copyright 1894 di George Allen.
 
 
 

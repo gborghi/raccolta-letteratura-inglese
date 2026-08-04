@@ -2,13 +2,13 @@
 title: "To Mrs. Henry Hills, January, 1883"
 author: "Dickinson"
 unitType: work
-parentWork: "works/crown-·-pride-·-fortune's-wheel-(dickinson)"
+parentWork: "works/crown-·-pride-·-fortune's-wheel-(keats)"
 tags:
   - graph/excerpt
   - author/Dickinson
 ---
 
-<div class="atom-reader" data-work="testi/dickinson/atomized/crown-pride-fortunes-wheel" data-author="Dickinson" data-workhref="works/crown-·-pride-·-fortune's-wheel-(dickinson)"></div>
+<div class="atom-reader" data-work="testi/dickinson/atomized/crown-pride-fortunes-wheel" data-author="Dickinson" data-workhref="works/crown-·-pride-·-fortune's-wheel-(keats)"></div>
 
 
 <span class="atom-split" data-atom="0103_i_have_a_king_who_does_not_speak" data-title="103. I have a King, who does not speak —" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/dreams,motif/bells,concept/faith_and_doubt,concept/fate_and_free_will,form/lyric,histref/christianity,character/christ,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>

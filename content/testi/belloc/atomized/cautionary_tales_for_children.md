@@ -1081,6 +1081,38 @@ H. B.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Introduzione
+
+Alla domanda di un lettore se i versi contenuti in questo libro fossero veri.
+
+E è vero? Non è vero.
+
+E anche se lo fosse, non andrebbe bene.
+
+Per persone come me e te
+
+#Chi quasi per tutto il giorno…
+
+Stanno facendo qualcosa di piuttosto sbagliato.
+
+# Perché se fosse davvero così…
+
+# Saresti morto da tempo
+
+#E non sarei mai sopravvissuto per poterlo scrivere
+
+# Le nobili linee che si offrono alla tua vista
+
+#Né B. T. B. sopravvisse per poter disegnare
+
+Le cose più belle che abbiate mai visto.
+
+H. B.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_02_jim" data-title="Cautionary Tales for Children — Jim" data-chapter="Jim" data-kind="story" data-tags="archetype/child,motif/childhood,motif/lion,motif/animals,motif/death,form/comic_verse_song,form/narrative_poem"></span>
@@ -1211,6 +1243,132 @@ For fear of finding something worse.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Jim
+
+Chi scappò via dalla sua infermiera e fu mangiato da un leone.
+
+C’era un ragazzo di nome Jim.
+
+I suoi amici erano molto gentili con lui.
+
+Gli offrirono tè, torte e marmellata.
+
+# Fette di delizioso prosciutto
+
+# Cioccolato con il rosa all’interno
+
+E piccoli tricicli da guidare…
+
+#E, davvero…
+
+Leggere storie fino in fondo…
+
+E lo portò persino allo zoo…
+
+Ma eccolo lì: il terribile Destino…
+
+Gli accadde ciò che ora vi racconto.
+
+Lo sai, almeno dovresti saperlo.
+
+“Perché ve l’ho detto spesso…”
+
+# Che ai bambini non sia mai permesso
+
+Lasciare le proprie infermiere in mezzo alla folla…
+
+Ora, questo era proprio il difetto caratteristico di Jim…
+
+# Fuggì non appena ne ebbe l’occasione
+
+E in questo giorno infausto…
+
+Gli infilò la mano nella sua e scappò via!
+
+# Non aveva fatto nemmeno un metro quando…
+
+Bang!
+
+Con la bocca spalancata, un leone balzò…
+
+E iniziò a mangiare con avidità.
+
+Il Ragazzo: iniziando dai suoi piedi.
+
+Ora immaginate solo come si prova…
+
+# Quando prima le dita dei piedi e poi i talloni…
+
+E poi, gradualmente…
+
+# Gli stinchi e le caviglie, i polpacci e i ginocchi
+
+Vengono mangiati lentamente, poco a poco.
+
+Non c’è da meravigliarsi che Jim lo odiasse!
+
+Non c’è da meravigliarsi che abbia gridato “Ehi!”
+
+Il Guardiano Onesto sentì il suo grido.
+
+# Molto grasso
+
+# Quasi corse
+
+Per aiutare quel piccolo gentiluomo.
+
+“Punto!”, ordinò mentre arrivava.
+
+# Il nome del leone era Ponto
+
+“Punto!”, gridò.
+
+Con un'espressione arrabbiata e accigliata.
+
+"Lasciate andare, signore! Giù, signore! Mettetelo giù!"
+
+# Il Leone si fermò all’improvviso
+
+# Lasciò cadere quel bocconcino delicato
+
+#Ritornò riluttante nella sua gabbia
+
+#"Ruggendo di rabbia delusa"
+
+Ma quando lo costrinse ad inchinarsi su Jim…
+
+# Il custode onesto
+
+Gli occhi erano spenti.
+
+Il Leone, una volta raggiunta la sua testa…
+
+Il povero ragazzo era morto!
+
+# Quando l’infermiera ne informò i genitori, loro…
+
+Più preoccupati di quanto possa esprimere…
+
+#Sua madre, mentre si asciugava le lacrime…
+
+Disse: “Beh… non mi sorprende affatto.”
+
+“Non voleva fare ciò che gli veniva detto!”
+
+#Il padre, che era padrone di sé
+
+Ordinò che tutti i bambini presenti si avvicinassero.
+
+# Alla misera fine di James
+
+E tieni sempre stretta l’infermiera…
+
+Per paura di trovare qualcosa di ancora peggiore.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_03_henry_king" data-title="Cautionary Tales for Children — Henry King" data-chapter="Henry King" data-kind="story" data-tags="archetype/child,motif/death"></span>
@@ -1260,6 +1418,52 @@ With that the Wretched [[Child]] expires.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Henry King
+
+Chi mordeva pezzi di corda, e fu tranciato prematuramente nelle più terribili sofferenze.
+
+Il principale difetto di Henry King
+
+#Fu, davvero
+
+Masticando piccoli pezzetti di stringa.
+
+Finalmente ne ingoiò alcuni… che lo “legarono” dentro.
+
+Insieme a brutti nodi all’interno.
+
+Medici di fama straordinaria
+
+Fu chiamato immediatamente; ma quando arrivò…
+
+Risposero:
+
+# Come ricevevano le loro tariffe
+
+“Non esiste alcuna cura per questa malattia.”
+
+“Henry morirà molto presto.”
+
+# I suoi genitori stavano in piedi accanto al suo letto
+
+Lamentando la sua prematura [[Death|morte]],
+
+# Quando Henry, con il suo ultimo respiro…
+
+Gridò
+
+“Oh, miei amici, fate attenzione alle mie parole…”
+
+Quel colazione, cena, pranzo e tè
+
+“Se tutto ciò di cui ha bisogno il corpo umano è…”
+
+Con ciò, quel povero [[Child|bambino]] esala l’ultimo respiro.
+
+* * *
 
 
 
@@ -1379,6 +1583,122 @@ Matilda, and the House, were Burned.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Matilda
+
+Chi ha detto menzogne, è stato bruciato a morte.
+
+# Matilda raccontava bugie terribili
+
+# Uno sguardo che lasciava senza fiato…
+
+#La sua zia, che fin da giovane…
+
+# Aveva sempre rispettato rigorosamente la verità
+
+# Tentativo di credere in Matilda
+
+Lo sforzo quasi la uccise.
+
+#E avrebbe fatto così, se non fosse stato per lei…
+
+Ho scoperto questa debolezza.
+
+# Per una volta, verso il tramonto…
+
+Matilda, stancata di giocare…
+
+E scoprendo di essere rimasta sola…
+
+# Camminò in punta di piedi
+
+to
+
+Il telefono
+
+# Chiamato l’aiuto immediato
+
+Della nobile [[Fire|brigata dei vigili del fuoco]] di Londra.
+
+Titolo:  
+Nell’arco di un’ora… la banda dei valorosi
+
+# Affluivano da tutte le direzioni
+
+Da Putney, Hackney Downs e Bow…
+
+Con il coraggio alto e i cuori ardenti
+
+# Galoppano veloci, sfrecciando per la città…
+
+“La casa di Matilda sta bruciando!”
+
+#Inspirato da “Cheers” e “Loud” britannici
+
+Fuori dalla folla frenetica
+
+#Corsero con le loro scale attraverso una ventina…
+
+# Finestre al piano della sala da ballo
+
+# E si prese particolari cura di inzupparlo
+
+# Le immagini in tutta la casa
+
+Titolo:  
+Fino a quando zia di Matilda non prese il posto suo
+
+Per dimostrare che non erano necessari
+
+E anche allora dovette pagare.
+
+Per far allontanare quegli uomini!
+
+* * *
+
+Si verificò che, poche settimane dopo…
+
+#Sua zia era andata al teatro
+
+# Vedere quella commedia interessante
+
+La seconda signora Tanqueray.
+
+# Aveva rifiutato di prendersi cura della sua nipote
+
+Per ascoltare questo divertente brano…
+
+# Una privazione giusta e saggia
+
+Per punirla per aver detto bugie.
+
+Quella notte scoppiò davvero un [[Fire|incendio]].
+
+Dovevate assolutamente sentire come gridava Matilda!
+
+# Urla e strilli che avreste dovuto sentire
+
+# E rompere la finestra e chiamare
+
+A coloro che passano per strada…
+
+#Il calore in aumento rapido
+
+# Incoraggiandola ad ottenerlo
+
+La loro fiducia, ma tutto invano!
+
+Ogni volta che lei gridava “[[Fire|Fuoco]]!”.
+
+# "Solo risposero 'Piccolo Bugiardo'!"
+
+E quindi, quando sua zia tornò…
+
+Matilda e la casa furono bruciate.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_05_franklin_hyde" data-title="Cautionary Tales for Children — Franklin Hyde" data-chapter="Franklin Hyde" data-kind="story" data-tags="archetype/child,motif/childhood,form/comic_verse_song"></span>
@@ -1409,6 +1729,32 @@ For Playing with Disgusting Mud
 As though it were a Toy!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Franklin Hyde
+
+Chi si era sporcato nel fango ed è stato rimproverato dal suo zio.
+
+#Il suo zio arrivò da Franklin Hyde
+
+Divertirsi nella polvere.
+
+Lo scosse con forza da una parte all’altra
+
+#E, davvero…
+
+# Colpiscilo finché non fa male
+
+Esclamando, con un ultimo tonfo…
+
+#Prendi
+
+Quello! Quel ragazzo abbandonato.
+
+Per giocare con fango disgustoso
+
+“Come se fosse un giocattolo…”
+
 
 
 <span class="atom-split" data-atom="story_06_moral" data-title="Cautionary Tales for Children — MORAL" data-chapter="MORAL" data-kind="story" data-tags="motif/childhood,form/comic_verse_song"></span>
@@ -1434,6 +1780,29 @@ May always play with Sand.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Moralità
+
+Titolo:  
+Dalle avventure di Franklin Hyde… impara
+
+Trascorrere il tempo libero
+
+# In allegria e divertimento…
+
+# Dalla fanghiglia e dal limo
+
+# Ogni forma di volgarità…
+
+Ma, d’altra parte…
+
+Bambini in abiti ordinari
+
+May possa sempre giocare con Sand.
+
+* * *
 
 
 
@@ -1553,6 +1922,120 @@ Who blacks the Boots at the Savoy.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Godolphin Horne
+
+Chi fu maledetto dal peccato dell'orgoglio e divenne un lucidatore di scarpe.
+
+Godolphin Horne nacque nella nobiltà;
+
+# Disprezzava la razza umana
+
+E visse con tutte le sue sorelle lì…
+
+Suo padre viveva a Berkeley Square.
+
+E oh, quel ragazzo era terribilmente orgoglioso!
+
+# Non ti ha mai stretto la mano né fatto un inchino
+
+Ma si limitò a sorridere enigmaticamente e annuire.
+
+Così:
+
+Che assurdità perfetta!
+
+Ahimè… tali trucchi affettati…
+
+Dovrebbe fiorire in un bambino di sei anni.
+
+(Tale era l’età del giovane Godolphin).
+
+Just then, il Tribunale richiese un paggio.
+
+# Dove ciò avviene
+
+# Il Lord Ciambellano Capo
+
+I più gentili e i migliori tra gli uomini
+
+#Andò di buon grado e…
+
+#Prese
+
+Un libro davvero enorme
+
+Intitolato: “Persone qualificate per essere…”
+
+Attendente di Sua Maestà
+
+E mormorò, mentre scorreva l’elenco
+
+"#Per assicurarsi che nessuno venga dimenticato'"
+
+#C'è, davvero
+
+#William Coutts ha preso il raffreddore
+
+# E Billy Higgs mai lo avrebbe fatto
+
+# E Guy de Vere è ancora troppo giovane
+
+E, non è stato forse impiccato il padre di D’Alton?
+
+E quanto ad Alexander Byng, —.
+
+Credo di sapere di cosa si tratta…
+
+Un ecclesiastico, di nobile origine e integrità…
+
+Come
+
+“Per esempio, Godolphin Horne…”
+
+Ma appena ebbe pronunciato quella parola…
+
+Quando si udirono mormori di dissenso.
+
+Il figlio maggiore del Re d’Islanda
+
+Disse: “Grazie! Non ne voglio nessuna!”
+
+La vecchia duchessa di Athlone
+
+Commentata, con il suo tono acido e sottile…
+
+“Dubito che sia ciò di cui abbiamo bisogno…”
+
+Con cui tutti i vescovi furono d’accordo;
+
+E anche Lady Mary Flood
+
+# Così gentile… e davvero così buono
+
+Disse: “No! Assolutamente non lo farebbe.”
+
+“Ci avrebbe fatto sentire tutti molto piccoli…”
+
+Il Ciambellano disse…
+
+“. Beh, beh, beh!”
+
+“Senza dubbio hai ragione… È impossibile dirlo con certezza!”
+
+# Prese la sua penna d’oro e di diamante
+
+#E, davvero…
+
+Riscrisse “Godolphin” ancora una volta.
+
+Ora Godolphin è il ragazzo…
+
+Chi lucida le scarpe al Savoy.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_08_algernon" data-title="Cautionary Tales for Children — Algernon" data-chapter="Algernon" data-kind="story" data-tags="archetype/child,motif/childhood,form/comic_verse_song"></span>
@@ -1584,6 +2067,34 @@ For playing with a Loaded Gun.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Algernon
+
+Chi ha giocato con un’arma carica, e, dopo aver mancato sua sorella, è stato rimproverato dal padre.
+
+giovane Algernon, il figlio del dottore
+
+#Fu, davvero
+
+Giocare con un’arma carica.
+
+# Lo puntò verso sua sorella
+
+Mirato con grande attenzione, ma…
+
+L’ho persa.
+
+#Il padre di lui, che stava lì vicino…
+
+#La forte esplosione che si udì per caso
+
+E rimproverò Algernon
+
+Per aver giocato con un’arma carica.
+
+* * *
 
 
 
@@ -1640,6 +2151,60 @@ And purchase some!”
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Hildebrand
+
+Chi fu spaventato da un’auto che passava e ritrovò la ragione?
+
+“Oh, mio Dio! Cos’è stato, papà?”
+
+“Mio [[Child|bambino]],”
+
+# Era un’auto.
+
+Un giocattolo davvero ingegnoso!
+
+#Progettato per incantare e affascinare
+
+Meglio che non suscitare allarme
+
+In qualsiasi ragazzo inglese.
+
+Titolo:  
+“Cosa direbbe il tuo bisnonno…”
+
+# Fu aiutante di campo del generale Brue
+
+#E perse una gamba in…
+
+Waterloo
+
+#E, davvero…
+
+# Quatre-Bras e…
+
+Anche Ligny!
+
+E morì a Trafalgar!
+
+Titolo:  
+Cosa avrebbe detto sentendo questo?
+
+Il suo giovane discendente urla per paura.
+
+# Perché si trovava lì per caso
+
+Un innocuo automobilino!
+
+Ma non preoccupatevi per questo! Venite!
+
+Ci recheremo in città
+
+“E compratene un po’!”
+
+* * *
 
 
 
@@ -2081,3 +2646,449 @@ To show what Everybody might
 Become by
 
 SIMPLY DOING RIGHT.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lord Lundy
+
+Chi si lasciò commuovere troppo facilmente fino alle lacrime, rovinandosi così la propria carriera politica.
+
+# Lord Lundy fin dai suoi primi anni
+
+Si lasciava trasportare troppo facilmente dalle lacrime.
+
+Ad esempio, se sua madre gli dicesse…
+
+#"Lundy! È ora di andare a letto!"
+
+Urlò come un piccolo turco.
+
+Or if
+
+#Il padre di lui: Lord Dunquerque
+
+Disse “Ciao!” con tono autoritario.
+
+#"Ehi, Lundy! Lascia in pace il gatto!"
+
+# Lord Lundy, lasciando andare la sua coda
+
+Scatenerebbe un lamento così terribile
+
+# Commosso
+
+#Il suo
+
+Nonno
+
+#Il, davvero
+
+Duca
+
+# Una severa rimprovera
+
+"#Quando ero un bambino..."
+
+“Un animale non è un giocattolo!”
+
+#La sorella maggiore di suo padre… che
+
+#Sposata con un arricchito
+
+Disse al suo marito: “Maledizione!”
+
+Quel maledetto, irritante monello!
+
+“Perché non annegano quella piccola bestia?”
+
+# Suggerimenti che, per dirlo con poco,
+
+Non sono ciò che ci aspettiamo di sentire
+
+Tratto da “Daughters of an English Peer”.
+
+Nonna sua, la madre di sua madre
+
+Chi possedeva ancora un briciolo di dignità…
+
+Il Garofano… o qualunque cosa sia.
+
+Non riesco a ricordarmi tutti i personaggi di “Lot”!
+
+Titolo:  
+"Ah, se solo fossi agile e scattante..."
+
+“Per fargli provare il dolore di dover piangere…”
+
+#Un desiderio vano, ahimè… per lei
+
+Era cieco e aveva quasi novantatré anni.
+
+#Il, davvero
+
+# Caro vecchio maggiordomo
+
+Pensai, ma eccolo lì!
+
+# Non so davvero e non mi interessa nemmeno
+
+Chissà cosa pensava quel caro vecchio maggiordomo.
+
+"In mio parere, i maggiordomi dovrebbero..."
+
+Conoscere il proprio posto e non cercare di usurparlo
+
+# La vecchia guardia notte e giorno
+
+#Stanchi tutti e due
+
+Dividiamo il poema in due parti!
+
+* * *
+
+Lord Lundy
+
+# Secondo Canto
+
+# Fu allora che accadde al lord Lundy
+
+Come accade a molti uomini…
+
+Verso i ventisei anni…
+
+Lo costrinsero ad entrare in politica.
+
+# In quale professione esercitava il suo ruolo di leader
+
+Il reddito che il suo rango richiedeva
+
+Titolo:  
+A sua volta, in qualità di Segretario…
+
+India, le colonie e la guerra.
+
+Ma molto presto i suoi amici iniziarono…
+
+# Dubbi su se fosse davvero l’uomo giusto…
+
+Quindi, se un membro si alzasse per parlare…
+
+# Come fanno i membri ogni giorno
+
+“Nato da quella risposta...”
+
+Lord Lundy avrebbe iniziato a piangere.
+
+# Un accenno a piccoli lavori innocui
+
+Lo avrebbero scosso con singhiozzi convulsi.
+
+#Mentre per quanto riguarda le “Revelazioni”…
+
+Lo metterebbe semplicemente in ginocchio…
+
+E lasciarlo piangere come un [[Child|bambino]].
+
+Fece impazzire i suoi colleghi!
+
+# Lo lasciarono decadere di posta in posta
+
+Al massimo millecinquecento
+
+# A otto, e appena sei… e poi
+
+Diventare il curatore di Big Ben,!
+
+E infine arrivò una minaccia
+
+Per scacciarlo dal Gabinetto!
+
+Il Duca… suo anziano nonno… portava…
+
+La vergogna divenne così insopportabile che non riuscì più a tollerarla.
+
+# Riunì le sue forze ormai declinanti
+
+Chiamò il giovane alle Torri di Brackley.
+
+“E gli parlò con amarezza in questo modo…”
+
+“Signore! Ci avete deluso!”
+
+Titolo:  
+Avremmo voluto che fossi tu…
+
+Il prossimo Primo Ministro… ma per tre voti.
+
+Le azioni furono vendute; la stampa fu messa a tacere.
+
+La Classe Media era abbastanza preparata.
+
+Ma così è. La mia lingua non basta!
+
+“Vai e governa il Nuovo Galles del Sud!”
+
+* * *
+
+Il patriota anziano gemette e morì…
+
+E che pianto commosso fece il signor Lundy!
+
+* * *
+
+Rebecca
+
+Chi sbatteva le porte per divertimento finì per morire in modo miserabile.
+
+Titolo:  
+Un trucco che tutti odiano
+
+In “Little Girls” si sentono porte che vengono sbattute con forza.
+
+A
+
+Il banchiere ricco
+
+Figlia minore
+
+# Chi viveva a Palace Green, Bayswater
+
+# Rebecca Offendort
+
+Fu donato a questo Furious Sport.
+
+# Andare apposta
+
+#E chiudi la porta con forza…
+
+Billy-Ho!
+
+# Per realizzarlo
+
+#La sua storia
+
+Zio Jacob inizia.
+
+Non era davvero cattiva nel profondo del cuore…
+
+Ma piuttosto rude e selvaggio…
+
+Era un bambino davvero fastidioso.
+
+# Si verificò che una statua in marmo…
+
+# Di Abramo stava in piedi proprio lì
+
+Titolo:  
+Sopra la porta, questo piccolo agnello…
+
+#Pronto per colpire con forza
+
+E poi cadde giù. La sbatté a terra!
+
+L’aveva messa a terra. Sembrava proprio così.
+
+* * *
+
+Il suo sermone funebre (che fu molto lungo)
+
+# E seguito da un canto sacro
+
+Menzionarono le sue virtù, è vero…
+
+Ma si soffermava anche sui suoi vizi…
+
+E mostrò la terribile fine di uno…
+
+Chi va a chiudere la porta in faccia a Fun?
+
+* * *
+
+I bambini che furono portati ad ascoltare
+
+La terribile storia, lontana e vicina
+
+# Molto colpiti
+
+# E giurò solennemente
+
+Non avrebbero mai più sbattuto la porta.
+
+— Proprio come avevano fatto molte volte in precedenza.
+
+* * *
+
+#George
+
+Chi ha giocato con un giocattolo pericoloso ha subito una catastrofe di dimensioni considerevoli.
+
+# Quando a nonna di George fu detto…
+
+#Che George fosse davvero buono come l’oro
+
+# Lei promise nel pomeriggio
+
+Per comprargli un’enorme mongolfiera.
+
+#E, davvero…
+
+E così fece; ma quando arrivò il momento…
+
+# Entrò nella fiamma della candela
+
+# Di genere pericoloso
+
+#Esploso
+
+Con un forte rumore!
+
+Le luci si spensero! Le finestre si ruppero!
+
+La stanza era piena di fumo nauseabondo.
+
+# E nella oscurità urla e strilla
+
+# Mescolati con campane elettriche
+
+# Crolli di mattoni e gemiti…
+
+# E con un suono simile al frantumarsi di ossa…
+
+E terribili urla… quando, cosa peggiore di tutte,
+
+La stessa casa iniziò a crollare!
+
+# Vacillava, tremando avanti e indietro
+
+# Si schiantò poi in strada sottostante…
+
+E quel posto era proprio Savile Row.
+
+* * *
+
+# Quando arrivò l’aiuto, tra i morti
+
+#Erano
+
+Cugina Mary
+
+# Piccolo Fred
+
+I servitori
+
+Entrambi loro
+
+Il fidanzato
+
+L’uomo che puliva la sala da biliardo
+
+Il cappellano, e
+
+La cameriera della stanza silenziosa.
+
+# E ho una terribile paura
+
+#Quel Monsieur Champignon, il cuoco…
+
+Ora sarà…
+
+Permanentemente sordo…
+
+E entrambi i suoi…
+
+Aiutanti
+
+Sono più o meno la stessa cosa.
+
+#Mentre George, che in parte ne era responsabile…
+
+# Ricevuto… e ne pentirai.
+
+# Un brutto nodulo
+
+All’orecchio.
+
+# Moralità
+
+Il messaggio morale è che… i bambini piccoli…
+
+Non dovrebbero essere dati giocattoli pericolosi.
+
+* * *
+
+# Charles Augustus Fortescue
+
+Chi ha sempre fatto ciò che era giusto, accumulò così una fortuna immensa.
+
+Il più gentile [[Child|>bambino]] che abbia mai conosciuto.
+
+Si chiamava Charles Augustus Fortescue.
+
+# Mai perse il suo cappello, né lo strappò
+
+Le sue calze o il suo grembiule…
+
+# Non lasciava briciole nel mangiare il pane
+
+# Amava moltissimo i numeri
+
+Tuttavia, preferì…
+
+# L’analisi grammaticale di una parola latina
+
+#Cercò, quando ne aveva il potere
+
+Per informazioni ogni due ore
+
+E per quanto riguarda la ricerca della “Mutton-Fat”…
+
+Insipido, anzi molto insipido!
+
+#Spesso, a tavola con suo padre…
+
+# Li supplicherebbe di sua spontanea iniziativa
+
+“Per darglielo, se a loro non dispiace…”
+
+I bocconi più grassi che riuscirono a trovare…
+
+I suoi ultimi anni non tradirono le sue qualità precedenti
+
+La promessa della sua infanzia.
+
+#Nella vita pubblica, cercava sempre di…
+
+#Un giudizio ampio e completo
+
+In privato, nessuno era superiore a lui.
+
+Noto per la sua gentilezza e discrezione.
+
+# Salì rapidamente nella sua carriera
+
+E molto prima del suo quarantesimo anno
+
+#Sposata
+
+Fifi
+
+Unico figlio
+
+Di Bunyan, Primo Lord Aberfylde.
+
+Divenne così immensamente ricco.
+
+E costruì la maestosa residenza…
+
+Si chiama
+
+# Dove vive nella prosperità
+
+Titolo:  
+Per dimostrare ciò che tutti potrebbero fare
+
+Titolo:  
+Diventare attraverso
+
+Semplicemente fare la cosa giusta.

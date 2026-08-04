@@ -87,7 +87,7 @@ Ma io lo vidi là [[Alone|solo]],
 in piedi più immoto d'una pietra  
 per timore che una falena cadesse.  
 
-G.K. CHESTERTON
+# G.K. Chesterton
 
 
 
@@ -167,4 +167,4 @@ Ma io lo vidi là [[Alone|solo]],
 in piedi più immoto d'una pietra  
 per timore che una falena cadesse.  
 
-G.K. CHESTERTON
+# G.K. Chesterton

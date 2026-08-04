@@ -77,6 +77,32 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | [[Noon]].  [[[Clock]] in the [[Cathedral]] strikes.] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | SCENA<br>La Piazza del Mercato di Padova a [[Noon\|mezzogiorno]]; sullo sfondo è la grande [[Cathedral\|cattedrale]] di Padova; l’architettura è romanica, lavorata in marmi bianchi e neri; una scalinata di marmo sale fino alla porta della [[Cathedral\|cattedrale]]; ai piedi della scalinata stanno due grandi leoni di pietra; le case ai due lati della scena hanno tende colorate alle finestre, e sono fiancheggiate da arcate di pietra; a destra della scena è la fontana pubblica, con un tritone di bronzo verde che soffia in una conchiglia; intorno alla fontana corre un sedile di pietra; la campana della [[Cathedral\|cattedrale]] suona, e i cittadini, uomini, donne e bambini, entrano nella [[Cathedral\|cattedrale]]. |
+| *(didascalia)* | [Entrano [[Guido Ferranti\|GUIDO FERRANTI]] e [[Ascanio Cristofano\|ASCANIO CRISTOFANO]].] |
+| ASCANIO | Ora, sulla mia vita, Guido, non andrò oltre; ché se faccio un altro passo non mi resterà vita su cui giurare; questa tua caccia alle nuvole! |
+| *(didascalia)* | [Si siede sul gradino della fontana.] |
+| GUIDO | Credo che debba essere qui.  [Si avvicina a un passante e si toglie il berretto.]  Di grazia, signore, è questa la piazza del mercato, e quella la chiesa di Santa Croce?  [Il cittadino s’inchina.]  Vi ringrazio, signore. |
+| ASCANIO | [[Well\|Ebbene]]? |
+| GUIDO | Sì! è qui. |
+| ASCANIO | Vorrei che fosse altrove, ché non vedo alcuna osteria. |
+| GUIDO | [Traendo di tasca una lettera e leggendola.]  ‘L’ora, [[Noon\|mezzogiorno]]; la [[City\|città]], Padova; il luogo, il mercato; e il giorno, la festa di san Filippo.’ |
+| ASCANIO | E dell’uomo che dice? come lo riconosceremo? |
+| GUIDO | [leggendo ancora]  ‘Porterò un mantello violetto con un falco d’argento ricamato sulla spalla.’  Un abbigliamento ardito, Ascanio. |
+| ASCANIO | Preferirei il mio giustacuore di cuoio.  E tu credi che ti parlerà di tuo padre? |
+| GUIDO | Ma sì!  Fu un mese fa, ricordi; ero nella vigna, proprio all’angolo più vicino alla [[Road\|strada]], dove le capre solevano entrare, quando un uomo giunse a cavallo e mi chiese se il mio nome fosse Guido, e mi diede questa lettera, firmata ‘L’Amico di tuo Padre’, ingiungendomi d’essere qui oggi se volevo conoscere il segreto della mia nascita, e dicendomi come riconoscere chi scriveva!  Avevo sempre creduto che il vecchio Pedro fosse mio zio, ma egli mi disse che non lo era, e che io gli ero stato lasciato [[Child\|bambino]] in custodia da qualcuno che egli non aveva più rivisto. |
+| ASCANIO | E tu non sai chi sia tuo padre? |
+| GUIDO | No. |
+| ASCANIO | Nemmeno un ricordo di lui? |
+| GUIDO | Nessuno, Ascanio, nessuno. |
+| ASCANIO | [ridendo]  Allora non può averti tirato gli orecchi tante volte quante mio padre a me. |
+| GUIDO | [sorridendo]  Son certo che non l’hai mai meritato. |
+| ASCANIO | Mai; e questo peggiorava le cose.  Non avevo la coscienza della [[Guilt\|colpa]] a sostenermi.  Che ora dicevi che aveva fissato? |
+| GUIDO | [[Noon\|Mezzogiorno]].  [L’[[Clock\|orologio]] della [[Cathedral\|cattedrale]] batte l’ora.] |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_02" data-title="The Duchess of Padua — Act 1 [2]" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/blood,motif/fire,motif/horse,motif/love,motif/mirror,motif/time,motif/well,concept/doubt,setting/cathedral,setting/italy,character/guido_ferranti"></span>
@@ -106,6 +132,32 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | MORANZONE | Ay, he was high above the heads of men, |
 | *(didascalia)* | [Walks over to GUIDO and puts his hand upon his shoulder.] |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| ASCANIO | È quella adesso, e il tuo uomo non è venuto.  Io non ci credo, Guido.  Penso che sia qualche ragazza che ti ha messo gli occhi addosso; e, poiché io ti ho seguìto da Perugia a Padova, giuro che tu seguirai me alla taverna più vicina.  [Si alza.]  Per i grandi dèi del mangiare, Guido, ho fame quanto una vedova d’un marito, sono stanco quanto una fanciulla dei buoni consigli, e asciutto quanto il sermone d’un frate.  Vieni, Guido: te ne stai lì a guardare il nulla, come il [[Fool\|matto]] che tentò di guardarsi dentro la propria mente; il tuo uomo non verrà. |
+| GUIDO | [[Well\|Ebbene]], suppongo che tu abbia ragione.  Ah!  [Proprio mentre sta uscendo di scena con ASCANIO, entra IL SIGNOR MORANZONE in un mantello violetto, con un falco d’argento ricamato sulla spalla; attraversa la scena verso la [[Cathedral\|cattedrale]], e proprio mentre sta per entrarvi GUIDO corre a lui e lo tocca.] |
+| MORANZONE | [[Guido Ferranti]], sei giunto in [[Time\|tempo]]. |
+| GUIDO | Come!  Vive mio padre? |
+| MORANZONE | Sì! vive in te.<br>Sei il medesimo di stampo e di lineamenti,<br>di portamento e forma e apparenze esteriori;<br>confido che il medesimo tu sia nel nobile animo. |
+| GUIDO | Oh, parlami di mio padre; io non ho vissuto<br>che per questo momento. |
+| MORANZONE | Dobbiamo essere [[Alone\|soli]]. |
+| GUIDO | Questi è il mio più caro amico, che per [[Love\|affetto]]<br>mi ha seguìto a Padova; come due fratelli,<br>non v’è segreto che non dividiamo. |
+| MORANZONE | V’è un segreto che voi non dividerete;<br>digli d’andarsene. |
+| GUIDO | [ad ASCANIO]  Torna entro un’ora.<br>Egli non sa che nulla a questo mondo<br>può appannare il perfetto [[Mirror\|specchio]] del nostro [[Love\|affetto]].<br>Torna entro un’ora. |
+| ASCANIO | Non parlargli,<br>v’è un terrore spaventoso nel suo sguardo. |
+| *(didascalia)* | [ridendo] |
+| GUIDO | Ma no, no, non [[Doubt\|dubito]] ch’egli sia venuto a dirmi<br>che io sono qualche gran signore d’[[Italy\|Italia]],<br>e avremo lunghi giorni di gioia insieme.<br>Entro un’ora, caro Ascanio. |
+| *(didascalia)* | [Esce ASCANIO.] |
+| GUIDO | Ora parlami di mio padre? |
+| *(didascalia)* | [Si siede su un sedile di pietra.] |
+| GUIDO | Era alto di statura?<br>Scommetto che pareva alto sul suo [[Horse\|cavallo]].<br>I suoi capelli erano neri? o forse d’un oro rossastro,<br>come un rosso [[Fire\|fuoco]] d’oro?  Era bassa la sua voce?<br>Gli uomini più valorosi hanno talvolta voci<br>piene di sommessa musica; o era uno squillo di tromba<br>che spezzava di terrore tutti i suoi nemici?<br>Cavalcava solo? o con molti scudieri<br>e valorosi gentiluomini a servire il suo stato?<br>Ché spesso mi par di sentire le mie vene<br>battere del [[Blood\|sangue]] dei re.  Era egli un [[King\|re]]? |
+| MORANZONE | Sì, fra tutti gli uomini era il più regale. |
+| GUIDO | [con orgoglio]  Dunque, quando vedeste l’ultima volta il mio nobile padre,<br>egli era posto alto sopra le teste degli uomini? |
+| MORANZONE | Sì, era alto sopra le teste degli uomini, |
+| *(didascalia)* | [Va verso GUIDO e gli posa la mano sulla spalla.] |
 
 
 
@@ -137,6 +189,32 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Of which he shall but keep<br>Six feet of ground to rot in.  Where is he,<br>This damned [[Villain\|villain]], this foul devil? where?<br>Show me the man, and come he cased in steel,<br>In complete panoply and [[Pride\|pride]] of war,<br>Ay, guarded by a thousand men-at-arms,<br>Yet I shall reach him through their spears, and feel<br>The last black drop of [[Blood\|blood]] from his black heart<br>Crawl down my blade.  Show me the man, I say,<br>And I will kill him. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| MORANZONE | Sopra un rosso patibolo, con un ceppo da macellaio<br>preparato per il suo collo. |
+| *(didascalia)* | [balzando in piedi] |
+| GUIDO | Che uomo terribile sei tu,<br>che come un corvo, o come il gufo di mezzanotte,<br>vieni con questo orrendo messaggio dalla [[Grave\|tomba]]? |
+| MORANZONE | Qui sono noto come il [[Count Moranzone\|conte Moranzone]],<br>signore d’un brullo [[Castle\|castello]] sopra una rupe,<br>con pochi acri di terra ingrata<br>e sei servi poco solerti.  Ma io fui uno<br>dei più nobili principi di Parma; e più ancora,<br>fui l’amico di tuo padre. |
+| GUIDO | [stringendogli la mano]  Parlami di lui. |
+| MORANZONE | Tu sei il figlio di quel grande duca [[Lorenzo]];<br>egli era principe di Parma, e duca<br>di tutti i bei domini di Lombardia<br>fino alle porte di Firenze; anzi, la stessa Firenze<br>soleva pagargli tributo — |
+| GUIDO | Vieni alla sua [[Death\|morte]]. |
+| MORANZONE | L’udrai fin troppo presto.  Essendo in guerra —<br>o nobile [[Lion\|leone]] di guerra, che non tollerava<br>ingiustizia commessa in [[Italy\|Italia]]! — egli guidò<br>proprio il fiore della cavalleria contro<br>quel turpe adultero signore di Rimini,<br>Giovanni Malatesta — che Dio lo maledica! —<br>e da lui fu preso in proditoria imboscata,<br>e come uno [[Villain\|scellerato]], o un furfante di bassa nascita,<br>fu da lui sul pubblico patibolo assassinato. |
+| GUIDO | [stringendo il pugnale]  Vive Malatesta? |
+| MORANZONE | No, è morto. |
+| GUIDO | Hai detto morto?  O troppo veloce corridore, [[Death\|Morte]],<br>non potevi attendermi un breve spazio,<br>e io avrei fatto il tuo volere! |
+| MORANZONE | [afferrandogli il polso]  Tu lo puoi ancora!<br>L’uomo che vendé tuo padre è vivo. |
+| GUIDO | Venduto! fu venduto mio padre? |
+| MORANZONE | Sì! mercanteggiato,<br>come vile masserizia, per un prezzo tradito,<br>barattato e contrattato in segreto mercato<br>da uno ch’egli aveva tenuto per amico perfetto,<br>uno di cui s’era fidato, uno che aveva [[Well\|bene]] amato,<br>uno che con vincoli di benevolenza aveva legato a sé — |
+| GUIDO | Ed è vivo<br>colui che vendé mio padre? |
+| MORANZONE | Io ti condurrò a lui. |
+| GUIDO | Dunque, Giuda, sei vivo! [[Well\|bene]], io farò<br>di questo mondo il tuo campo di [[Blood\|sangue]]: compralo dunque subito,<br>ché là dovrai impiccarti. |
+| MORANZONE | Giuda hai detto, ragazzo?<br>Sì, Giuda nel tradimento, eppure<br>fu più accorto di Giuda, e stimò<br>che quei trenta denari d’argento non bastassero. |
+| GUIDO | Che ottenne per il [[Blood\|sangue]] di mio padre? |
+| MORANZONE | Che ottenne?<br>Ma città, feudi e principati,<br>vigne e terre. |
+| GUIDO | delle quali non serberà<br>che sei piedi di terra per marcirvi.  Dov’è,<br>questo dannato [[Villain\|scellerato]], questo lurido demonio? dov’è?<br>Mostrami l’uomo, e venga pure chiuso nell’acciaio,<br>in piena armatura e in [[Pride\|orgoglio]] di guerra,<br>sì, guardato da mille uomini d’arme,<br>e io lo raggiungerò pure attraverso le loro lance, e sentirò<br>l’ultima nera goccia di [[Blood\|sangue]] dal suo nero cuore<br>colare giù per la mia lama.  Mostrami l’uomo, ti dico,<br>e io l’ucciderò. |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_04" data-title="The Duchess of Padua — Act 1 [4]" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/death,motif/dust,motif/grave,motif/love,motif/memory,motif/nature,motif/night,motif/prison,motif/sleep,motif/soul,motif/time,motif/well,concept/mercy,concept/nature,concept/revenge"></span>
@@ -162,6 +240,28 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | MORANZONE | What [[Grave\|grave]]? what [[Grave\|grave]]?<br>Your noble father lieth in no [[Grave\|grave]],<br>I saw his [[Dust\|dust]] strewn on the air, his ashes<br>Whirled through the windy streets like common straws<br>To plague a beggar’s eyesight, and his head,<br>That gentle head, set on the [[Prison\|prison]] spike,<br>For the vile rabble in their insolence<br>To shoot their tongues at. |
 | GUIDO | Was it so indeed?<br>Then by my father’s spotless [[Memory\|memory]],<br>And by the shameful manner of his [[Death\|death]],<br>And by the base betrayal by his friend,<br>For these at least remain, by these I swear<br>I will not lay my hand upon his life<br>Until you bid me, then - God help his [[Soul\|soul]],<br>For he shall die as never dog died yet.<br>And now, the sign, what is it? |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [freddamente] |
+| MORANZONE | [[Fool\|Sciocco]], che [[Revenge\|vendetta]] è mai questa?<br>La [[Death\|Morte]] è l’eredità comune di tutti,<br>e la [[Death\|morte]] è migliore quando giunge d’un tratto. |
+| *(didascalia)* | [Si avvicina a GUIDO.] |
+| MORANZONE | Tuo padre fu tradito: ecco la tua traccia;<br>ché tu venderai a tua volta il venditore.<br>Ti farò entrare nella sua casa, siederai<br>alla sua stessa mensa, mangerai del suo pane — |
+| GUIDO | O pane amaro! |
+| MORANZONE | Il tuo palato è troppo schifiltoso:<br>la [[Revenge\|Vendetta]] lo renderà dolce.  La notte<br>brinderai con lui nel vino, berrai dalla sua coppa, e sarai<br>il suo intimo, sì ch’egli ti blandirà,<br>t’[[Love\|amerà]], e si fiderà di te in ogni cosa segreta.<br>Se ti comanda d’esser gaio dovrai ridere,<br>e se sarà suo [[Humour\|umore]] l’esser triste<br>vestirai di nero.  Poi, quando il [[Time\|tempo]] sarà maturo — |
+| *(didascalia)* | [GUIDO stringe la sua [[Sword\|spada]].] |
+| MORANZONE | No, no, non mi fido di te; il tuo caldo giovane [[Blood\|sangue]],<br>l’indisciplinata [[Nature\|natura]] e l’ira troppo violenta<br>non attenderanno mai questa grande [[Revenge\|vendetta]],<br>ma naufragheranno nella passione. |
+| GUIDO | Tu non mi conosci.<br>Dimmi l’uomo, e io in tutto<br>farò il tuo volere. |
+| MORANZONE | [[Well\|Ebbene]], quando il [[Time\|tempo]] sarà maturo,<br>la vittima fiduciosa e l’occasione sicura,<br>ti manderò per improvviso messaggero segreto<br>un segno. |
+| GUIDO | Come dovrò ucciderlo, dimmi? |
+| MORANZONE | Quella [[Night\|notte]] t’introdurrai furtivo nella sua camera privata;<br>ma se [[Sleep\|dorme]] bada di destarlo prima,<br>e tienigli la mano sulla gola, sì! così;<br>poi, dopo avergli detto di qual [[Blood\|sangue]] sei,<br>da qual padre disceso, e per quale [[Revenge\|vendetta]],<br>digli di pregare [[Mercy\|pietà]]; e quando pregherà,<br>digli di porre un prezzo sulla sua vita,<br>e quando si spoglierà di tutto il suo oro<br>digli che non hai bisogno d’oro, e non hai [[Mercy\|pietà]],<br>e sbriga subito la tua bisogna.  Giurami<br>che non l’ucciderai finché non te lo comanderò,<br>o me ne torno alla mia [[house\|casa]], e ti lascio<br>ignorante, e tuo padre invendicato. |
+| GUIDO | Ora, per la [[Sword\|spada]] di mio padre — |
+| MORANZONE | Il boia comune<br>la spezzò in due sulla pubblica piazza. |
+| GUIDO | Allora per la [[Grave\|tomba]] di mio padre — |
+| MORANZONE | Quale [[Grave\|tomba]]? quale [[Grave\|tomba]]?<br>Il tuo nobile padre non giace in alcuna [[Grave\|tomba]];<br>io vidi la sua [[Dust\|polvere]] sparsa nell’aria, le sue ceneri<br>turbinare per le strade ventose come comuni fuscelli<br>a molestare gli occhi d’un mendicante, e il suo capo,<br>quel gentile capo, infitto sulla picca della [[Prison\|prigione]],<br>perché la vile plebaglia nella sua insolenza<br>vi scagliasse contro la lingua. |
+| GUIDO | Fu davvero così?<br>Allora per l’immacolata [[Memory\|memoria]] di mio padre,<br>e per il modo infame della sua [[Death\|morte]],<br>e per il vile tradimento del suo amico,<br>ché questi almeno restano, per questi io giuro<br>che non porterò la mano sulla sua vita<br>finché tu non me lo comandi; e allora — Dio aiuti la sua [[Soul\|anima]],<br>ché morrà come mai cane morì finora.<br>E ora, il segno: qual è? |
 
 
 
@@ -196,6 +296,36 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | The Duke! |
 | MORANZONE | Leave off that fingering of thy knife.<br>Hast thou so soon forgotten? |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| MORANZONE | Questo pugnale, ragazzo;<br>era di tuo padre. |
+| GUIDO | Oh, lascia ch’io lo guardi!<br>Ora ricordo che il mio preteso zio,<br>quel buon vecchio agricoltore che lasciai a [[Home\|casa]],<br>mi disse che un mantello avvolto intorno a me quand’ero in fasce<br>recava anch’esso tali leopardi gialli lavorati in oro;<br>a me piacciono di più nell’acciaio, come sono qui:<br>convengono meglio al mio proposito.  Dimmi, signore,<br>non hai per me alcun messaggio da mio padre? |
+| MORANZONE | Povero ragazzo, tu non vedesti mai quel nobile padre,<br>ché quando dal suo falso amico fu venduto,<br>io [[Alone\|solo]] fra tutti i suoi gentiluomini scampai<br>per recare la notizia a Parma, alla duchessa. |
+| GUIDO | Parlami di mia madre. |
+| MORANZONE | Quando tua madre<br>udì la mia nera notizia, cadde in deliquio,<br>e, còlta da doglie anzi tempo,<br>ti diede al mondo prima del tuo [[Time\|tempo]],<br>e poi la sua [[Soul\|anima]] salì al cielo, ad attendere<br>tuo padre, alle porte del Paradiso. |
+| GUIDO | Una madre morta, un padre venduto e barattato!<br>Mi par di stare sopra un muro assediato,<br>e messaggero giunge dopo messaggero<br>con un nuovo racconto di terrore; dammi respiro,<br>i miei orecchi sono stanchi. |
+| MORANZONE | Quando tua madre morì,<br>temendo i nostri nemici, feci correre voce<br>che anche tu fossi morto, e poi di nascosto<br>ti affidai a un antico servitore<br>che viveva presso Perugia; il resto lo sai. |
+| GUIDO | Vedesti mio padre in seguito? |
+| MORANZONE | Sì! una volta;<br>in umili panni, come un potatore di vigne,<br>mi introdussi furtivo a Rimini. |
+| *(didascalia)* | [prendendogli la mano] |
+| GUIDO | O cuore generoso! |
+| MORANZONE | A Rimini si può comprare ogni cosa,<br>e così comprai i carcerieri! quando tuo padre<br>udì che gli era nato un [[Child\|figlio]] maschio,<br>il suo nobile volto s’illuminò sotto l’elmo<br>come un gran [[Fire\|fuoco]] visto lontano in alto mare,<br>e prendendomi entrambe le mani, mi comandò, Guido,<br>d’allevarti degno di lui; e così t’ho allevato<br>a [[Revenge\|vendicare]] la sua [[Death\|morte]] sull’amico che lo vendé. |
+| GUIDO | Hai fatto [[Well\|bene]]; io per mio padre ti ringrazio.<br>E ora il suo nome? |
+| MORANZONE | Come mi ricordi lui!<br>Hai ogni gesto che tuo padre aveva. |
+| GUIDO | Il nome del traditore? |
+| MORANZONE | L’udrai fra poco;<br>il duca e altri nobili della [[Court\|corte]]<br>vengono qua. |
+| GUIDO | E che importa? il suo nome? |
+| MORANZONE | Non paiono una valorosa compagnia<br>d’onorevoli, onesti gentiluomini? |
+| GUIDO | Il suo nome, monsignore? |
+| *(didascalia)* | [Entra il DUCA DI PADOVA con il CONTE BARDI, MAFFIO, PETRUCCI e altri gentiluomini della sua [[Court\|corte]].] |
+| *(didascalia)* | [rapidamente] |
+| MORANZONE | L’uomo dinanzi al quale m’inginocchio<br>è colui che vendé tuo padre! notalo [[Well\|bene]]. |
+| *(didascalia)* | [stringe il pugnale] |
+| GUIDO | Il duca! |
+| MORANZONE | Smetti di palpeggiare il tuo coltello.<br>Hai già dimenticato? |
 
 
 
@@ -237,6 +367,42 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUKE | And be not over-scrupulous; clean hands<br>With nothing in them make a sorry show.<br>If you would have the [[Lion\|lion]]’s share of life<br>You must wear the fox’s skin.  Oh, it will fit you;<br>It is a coat which fitteth every man. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [S’inginocchia dinanzi al DUCA.] |
+| MORANZONE | Mio nobile signore. |
+| DUCA | Benvenuto, [[Count Moranzone\|conte Moranzone]]; è passato del [[Time\|tempo]]<br>da quando vi vedemmo qui in Padova.<br>Ieri cacciammo presso il vostro [[Castle\|castello]] —<br>lo chiamate [[Castle\|castello]]? quella squallida [[house\|casa]] vostra<br>dove sedete borbottando sui vostri rosari,<br>sgranando i vostri vizi come un buon vecchio. |
+| *(didascalia)* | [Scorge GUIDO e indietreggia di scatto.] |
+| DUCA | Chi è quello? |
+| MORANZONE | Il figlio di mia sorella, vostra Grazia,<br>che, essendo ormai in età di portar armi,<br>vorrebbe per una stagione trattenersi alla vostra [[Court\|corte]] |
+| *(didascalia)* | [guardando ancora GUIDO] |
+| DUCA | Qual è il suo nome? |
+| MORANZONE | [[Guido Ferranti]], signore. |
+| DUCA | La sua [[City\|città]]? |
+| MORANZONE | È mantovano di nascita. |
+| *(didascalia)* | [avanzando verso GUIDO] |
+| DUCA | Hai gli occhi d’uno che conoscevo,<br>ma egli morì senza figli.  Sei onesto, ragazzo?<br>Allora non sperperare la tua onestà,<br>ma tienla per te; in Padova<br>gli uomini pensano che l’onestà sia ostentazione, e dunque<br>non è di moda.  Guarda questi signori. |
+| *(didascalia)* | [a parte] |
+| CONTE BARDI | Ecco di certo qualche freccia amara per noi. |
+| DUCA | Ma via, ognuno di loro ha il suo prezzo,<br>benché, a render loro giustizia, alcuni<br>siano piuttosto cari. |
+| *(didascalia)* | [a parte] |
+| CONTE BARDI | Eccola infatti che arriva. |
+| DUCA | Dunque non essere onesto; l’eccentricità<br>non è cosa che vada mai incoraggiata,<br>benché, in questa ottusa stupida età nostra,<br>la cosa più eccentrica che un uomo possa fare<br>sia avere cervello, e allora la plebe lo schernisce;<br>e quanto alla plebe, disprezzala come faccio io:<br>tengo la sua lode di bolle e i suoi favori di vento<br>in tal conto, che la popolarità<br>è il solo insulto che io non abbia mai patito. |
+| *(didascalia)* | [a parte] |
+| MAFFIO | D’odio ne ha abbastanza, se è questo che gli serve. |
+| DUCA | Abbi prudenza; nei tuoi rapporti col mondo<br>non essere troppo affrettato; agisci sul secondo pensiero:<br>i primi impulsi sono generalmente buoni. |
+| *(didascalia)* | [a parte] |
+| GUIDO | Certo un rospo gli siede sulle labbra, e vi sparge il suo veleno. |
+| DUCA | Bada d’aver nemici,<br>se no il mondo ti terrà in ben poco conto;<br>è la sua prova di potenza; pure bada di mostrare<br>a tutti gli uomini una sorridente maschera d’[[Friendship\|amicizia]],<br>finché non li abbia ben stretti nella tua morsa:<br>allora potrai schiacciarli. |
+| *(didascalia)* | [a parte] |
+| GUIDO | O saggio filosofo!<br>che per te stesso scavi una [[Grave\|fossa]] così profonda. |
+| *(didascalia)* | [a lui] |
+| MORANZONE | Noti le sue parole? |
+| GUIDO | Oh, siine certo. |
+| DUCA | E non essere troppo scrupoloso; mani pulite<br>con nulla dentro fanno ben magra figura.<br>Se vuoi la parte del [[Lion\|leone]] nella vita<br>devi indossare la pelle della volpe.  Oh, ti starà bene:<br>è un abito che sta bene a ogni uomo. |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_07" data-title="The Duchess of Padua — Act 1 [7]" data-chapter="part 07" data-kind="excerpt" data-tags="motif/time,motif/well,concept/conscience,concept/fear,concept/honour,setting/cathedral,character/count_moranzone,character/guido_ferranti"></span>
@@ -277,6 +443,42 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | MORANZONE | Nay, from thy heart as [[Well\|well]],<br>I will not leave thee till I see thee do it. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | Vostra Grazia, lo ricorderò. |
+| DUCA | Sta [[Well\|bene]], ragazzo, [[Well\|bene]].<br>Non vorrei intorno a me sciocchi superficiali,<br>che con meschini scrupoli pesano l’oro della vita,<br>e, esitando e tergiversando, finiscono nel fallimento; il fallimento,<br>il solo delitto ch’io non ho commesso:<br>vorrei uomini intorno a me.  Quanto alla [[Conscience\|coscienza]],<br>la [[Conscience\|coscienza]] non è che il nome che la codardia,<br>fuggendo dalla battaglia, scarabocchia sul proprio scudo.<br>Mi capisci, ragazzo? |
+| GUIDO | Vi capisco, vostra Grazia,<br>e in ogni cosa metterò in atto il credo<br>che m’avete insegnato. |
+| MAFFIO | Non ho mai udito vostra Grazia<br>tanto in vena di predicare; badi il cardinale<br>ai suoi allori, signore. |
+| DUCA | Il cardinale!<br>Gli uomini seguono il mio credo, e biascicano il suo.<br>Non tengo in gran conto il cardinale,<br>benché sia un santo uomo di chiesa, e<br>ammetta senz’altro la sua noiosità.  [[Well\|Ebbene]], signore, da ora<br>vi contiamo fra i nostri familiari |
+| *(didascalia)* | [Tende la mano perché GUIDO la baci.  GUIDO indietreggia inorridito, ma a un gesto del [[Count Moranzone\|CONTE MORANZONE]] s’inginocchia e la bacia.] |
+| DUCA | Provvederemo<br>che siate fornito di tale equipaggio<br>quale s’addice al vostro [[Honour\|onore]] e al nostro stato. |
+| GUIDO | Ringrazio vostra Grazia di tutto cuore. |
+| DUCA | Ripetimi:<br>qual è il tuo nome? |
+| GUIDO | [[Guido Ferranti]], signore. |
+| DUCA | E sei mantovano?  Badate alle vostre mogli, signori,<br>quando un tal galante viene a Padova.<br>Fai [[Well\|bene]] a ridere, conte Bardi; ho notato<br>com’è allegro quel marito al cui focolare<br>siede una moglie sgraziata. |
+| MAFFIO | Piaccia a vostra Grazia,<br>le mogli di Padova sono al di sopra d’ogni sospetto. |
+| DUCA | Come, sono dunque tanto brutte!  Andiamo:<br>questo cardinale trattiene la nostra pia duchessa;<br>il suo sermone e la sua barba vanno tagliati entrambi.<br>Volete venire con noi, signore, a udire un testo<br>di san Girolamo? |
+| *(didascalia)* | [inchinandosi] |
+| MORANZONE | Mio sire, vi sono certe faccende — |
+| *(didascalia)* | [interrompendo] |
+| DUCA | Non hai bisogno di scuse per mancare alla messa.<br>Venite, signori. |
+| *(didascalia)* | [Esce col suo seguito nella [[Cathedral\|cattedrale]].] |
+| *(didascalia)* | [dopo una pausa] |
+| GUIDO | Dunque il duca vendé mio padre;<br>e io gli ho baciato la mano. |
+| MORANZONE | Lo farai molte volte. |
+| GUIDO | Dev’essere così? |
+| MORANZONE | Sì! hai giurato un giuramento. |
+| GUIDO | Quel giuramento mi farà di marmo. |
+| MORANZONE | Addio, ragazzo:<br>non mi vedrai finché il [[Time\|tempo]] non sia maturo. |
+| GUIDO | Prego che tu venga presto. |
+| MORANZONE | Verrò<br>quando sarà [[Time\|tempo]]; sii pronto. |
+| GUIDO | Non [[Fear\|temere]] di me. |
+| MORANZONE | Ecco il tuo amico; bada di bandirlo<br>dal tuo cuore e da Padova. |
+| GUIDO | Da Padova,<br>non dal mio cuore. |
+| MORANZONE | No, [[Well\|anche]] dal tuo cuore:<br>non ti lascerò finché non t’avrò visto farlo. |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_08" data-title="The Duchess of Padua — Act 1 [8]" data-chapter="part 08" data-kind="excerpt" data-tags="motif/autumn,motif/love,motif/summer,motif/well,concept/friendship,concept/melancholy,concept/revenge,concept/self,setting/castle,character/ascanio_cristofano"></span>
@@ -316,6 +518,41 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Now are you satisfied?  Have you not seen<br>My dearest friend, and my most loved companion,<br>Thrust from me like a common kitchen knave!<br>Oh, that I did it!  Are you not satisfied? |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | Non posso avere alcun amico? |
+| MORANZONE | La [[Revenge\|Vendetta]] ti sarà amica;<br>non ti occorre altro. |
+| GUIDO | [[Well\|Ebbene]], sia dunque così. |
+| *(didascalia)* | [Entra [[Ascanio Cristofano\|ASCANIO CRISTOFANO]].] |
+| ASCANIO | Su, Guido, ti ho preceduto in tutto: ho bevuto un boccale di vino, mangiato un pasticcio e baciato la fantesca che l’ha servito.  Ma via, hai un’aria [[Melancholy\|malinconica]] come uno scolaro che non può comprarsi le mele, o un politico che non può vendere il proprio voto.  Che notizie, Guido, che notizie? |
+| GUIDO | Ma questa: che noi due dobbiamo separarci, Ascanio. |
+| ASCANIO | Quella sì sarebbe una notizia, ma non è vera. |
+| GUIDO | È fin troppo vera: devi andartene, Ascanio,<br>e non guardare mai più il mio volto. |
+| ASCANIO | No, no; davvero tu non mi conosci, Guido;<br>è vero che sono figlio d’un semplice villano,<br>né esperto nei modi di molta cortesia;<br>ma, se tu sei di nobile nascita, non posso io<br>farti da servitore?  Ti curerò con più [[Love\|amore]]<br>di qualunque servo salariato. |
+| *(didascalia)* | [stringendogli la mano] |
+| GUIDO | Ascanio! |
+| *(didascalia)* | [Vede MORANZONE che lo guarda e lascia cadere la mano d’ASCANIO.] |
+| GUIDO | Non può essere. |
+| ASCANIO | Come, è così con te?<br>Credevo che l’[[Friendship\|amicizia]] del mondo antico<br>non fosse ancor morta, ma che il modello romano<br>potesse anche in questa povera e comune età<br>trovare riscontri d’[[Love\|affetto]]; e allora, per questo [[Love\|affetto]]<br>che batte fra noi come un mare d’[[Summer\|estate]],<br>qualunque sorte sia toccata alla tua mano<br>non posso io dividerla? |
+| GUIDO | Dividerla? |
+| ASCANIO | Sì! |
+| GUIDO | No, no. |
+| ASCANIO | Sei dunque giunto a qualche eredità<br>di signorile [[Castle\|castello]], o d’oro ammassato? |
+| *(didascalia)* | [amaramente] |
+| GUIDO | Sì! sono giunto alla mia eredità.<br>O lascito sanguinoso! o porzione assassina!<br>che, come l’avaro parsimonioso, devo accumulare<br>e serbare per il mio proprio [[Self\|io]]; e dunque, ti prego,<br>separiamoci qui. |
+| ASCANIO | Come, non sederemo mai più<br>mano nella mano, come solevamo sedere,<br>sopra qualche libro d’antica cavalleria,<br>rubando alla scuola una vacanza da monelli,<br>né seguiremo i cacciatori per i boschi d’[[Autumn\|autunno]],<br>né guarderemo i falconi spezzare i loro geti nappati<br>quando la lepre balza dal covo. |
+| GUIDO | Mai più. |
+| ASCANIO | Devo andarmene senza una parola d’[[Love\|affetto]]? |
+| GUIDO | Devi andartene, e l’[[Love\|affetto]] vada con te. |
+| ASCANIO | Sei privo di cavalleria, e ingeneroso. |
+| GUIDO | Privo di cavalleria e ingeneroso, se vuoi.<br>Perché sprecare altre parole sulla faccenda<br>Separiamoci ora. |
+| ASCANIO | Non hai alcun messaggio, Guido? |
+| GUIDO | Nessuno; tutto il mio passato non fu che il sogno d’uno scolaro;<br>oggi comincia la mia vita.  Addio. |
+| ASCANIO | Addio [esce lentamente.] |
+| GUIDO | Ora sei soddisfatto?  Non hai veduto<br>il mio più caro amico, e il mio compagno più amato,<br>cacciato via da me come un comune sguattero!<br>Oh, che io l’abbia fatto!  Non sei soddisfatto? |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_09" data-title="The Duchess of Padua — Act 1 [9]" data-chapter="part 09" data-kind="excerpt"></span>
@@ -327,6 +564,13 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Be sure I shall.  [Exit LORD MORANZONE.] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| MORANZONE | Sì! sono soddisfatto.  Ora me ne vado.<br>Non dimenticare il segno, il pugnale di tuo padre,<br>e sbriga la faccenda quando te lo manderò. |
+| GUIDO | Siine certo.  [Esce IL SIGNOR MORANZONE.] |
+
 
 
 <span class="atom-split" data-atom="act_1--scene_1--part_10" data-title="The Duchess of Padua — Act 1 [10]" data-chapter="part 10" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/love,motif/nature,motif/night,motif/sleep,motif/soul,concept/beauty,concept/friendship,concept/mercy,concept/nature"></span>
@@ -336,6 +580,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | GUIDO | O thou eternal heaven!<br>If there is aught of [[Nature\|nature]] in my [[Soul\|soul]],<br>Of gentle pity, or fond kindliness,<br>Wither it up, blast it, bring it to nothing,<br>Or if thou wilt not, then will I myself<br>Cut pity with a sharp knife from my heart<br>And strangle [[Mercy\|mercy]] in her [[Sleep\|sleep]] at [[Night\|night]]<br>Lest she speak to me.  Vengeance there I have it.<br>Be thou my comrade and my bedfellow,<br>Sit by my side, ride to the chase with me,<br>When I am weary sing me pretty [[songs]],<br>When I am light o’ heart, make jest with me,<br>And when I dream, whisper into my ear<br>The dreadful secret of a father’s murder -<br>Did I say murder?  [Draws his dagger.]<br>Listen, thou terrible God!<br>Thou God that punishest all broken oaths,<br>And bid some angel write this oath in [[Fire\|fire]],<br>That from this hour, till my dear father’s murder<br>In [[Blood\|blood]] I have revenged, I do forswear<br>The noble ties of honourable [[Friendship\|friendship]],<br>The noble joys of dear companionship,<br>Affection’s bonds, and loyal gratitude,<br>Ay, more, from this same hour I do forswear<br>All [[Love\|love]] of women, and the barren thing<br>Which men call [[Beauty\|beauty]] - |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | O tu, cielo eterno!<br>Se v’è alcunché di [[Nature\|natura]] nella mia [[Soul\|anima]],<br>di gentile pietà, o d’affettuosa benignità,<br>inaridiscilo, folgoralo, riducilo a nulla;<br>o se non vuoi, allora io stesso<br>reciderò la pietà dal mio cuore con un coltello aguzzo<br>e strangolerò la [[Mercy\|misericordia]] nel suo [[Sleep\|sonno]] di [[Night\|notte]],<br>perché non mi parli.  Vendetta, eccoti qui.<br>Sii tu il mio compagno e il mio consorte di letto,<br>siedi al mio fianco, cavalca alla caccia con me;<br>quando sarò stanco cantami vaghe [[songs\|canzoni]],<br>quando avrò il cuore leggero, scherza con me,<br>e quando sognerò, sussurrami all’orecchio<br>l’orrendo segreto dell’assassinio d’un padre —<br>Ho detto assassinio?  [Sguaina il pugnale.]<br>Ascolta, tu Dio terribile!<br>Tu Dio che punisci ogni giuramento infranto,<br>e comanda a qualche angelo di scrivere in [[Fire\|fuoco]] questo giuramento:<br>che da quest’ora, finché l’assassinio del mio caro padre<br>non abbia vendicato nel [[Blood\|sangue]], io abiuro<br>i nobili vincoli dell’onorevole [[Friendship\|amicizia]],<br>le nobili gioie della cara compagnia,<br>i legami dell’affetto e la leale gratitudine;<br>sì, e più ancora, da quest’ora stessa io abiuro<br>ogni [[Love\|amore]] di donne, e quella sterile cosa<br>che gli uomini chiamano [[Beauty\|bellezza]] — |
 
 
 
@@ -348,6 +598,14 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Oh! who is that?<br>A CITIZEN<br>The Duchess of Padua! |
 | END OF | ACT I. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [L’organo romba nella [[Cathedral\|cattedrale]], e sotto un baldacchino di tessuto d’argento, portato da quattro paggi in scarlatto, la DUCHESSA DI PADOVA scende la scalinata; mentre attraversa la scena i loro occhi s’incontrano per un istante, e mentre [[Leaves\|lascia]] la scena ella si volge a guardare GUIDO, e il pugnale gli cade di mano.] |
+| GUIDO | Oh! chi è quella?<br>UN CITTADINO<br>La duchessa di Padova! |
+| FINE DELL’ | ATTO I. |
 
 
 
@@ -386,6 +644,39 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | Alas, my Lord,<br>Such common things as neither you nor I,<br>Nor any of these noble gentlemen,<br>Have ever need at all to think about;<br>They say the bread, the very bread they eat,<br>Is made of sorry chaff. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | SCENA<br>Una sala di rappresentanza nel Palazzo Ducale, parata d’arazzi che rappresentano la [[Masque\|Mascherata]] di [[Venus\|Venere]]; una grande porta al centro s’apre su un corridoio di marmo rosso, attraverso il quale si scorge una veduta di Padova; un ampio baldacchino è disposto (a destra al centro) con tre troni, uno un poco più basso degli altri; il soffitto è fatto di lunghe travi dorate; mobilio dell’epoca, seggi coperti di cuoio dorato, e credenze apparecchiate di vasellame d’oro e d’argento, e casse dipinte con scene mitologiche.  Alcuni cortigiani sono fuori nel corridoio e di là guardano giù nella strada; dalla strada sale il ruggito d’una folla e le grida di ‘[[Death\|Morte]] al duca’: dopo un breve intervallo entra il duca, calmissimo; s’appoggia al braccio di [[Guido Ferranti]]; con lui entra anche il signor cardinale; la folla continua a gridare. |
+| DUCA | No, monsignor cardinale, ella mi stanca!<br>Ma via, è peggio che brutta: è buona. |
+| *(didascalia)* | [concitato] |
+| MAFFIO | Vostra Grazia, laggiù vi sono duemila persone<br>che d’istante in istante si fanno più clamorose. |
+| DUCA | Puh, amico, sprecano la forza nei polmoni!<br>Chi grida tanto forte, signori, non fa nulla;<br>i soli uomini che io [[Fear\|tema]] sono gli uomini silenziosi. |
+| *(didascalia)* | [Un urlo dal popolo.] |
+| DUCA | Vedete, monsignor cardinale, come il mio popolo mi [[Love\|ama]].<br>[Un altro urlo.]  Va’, Petrucci,<br>e di’ al capitano della guardia là sotto<br>di sgombrare la piazza.  Non mi udite, signore?<br>Fate ciò che vi comando. |
+| *(didascalia)* | [Esce PETRUCCI.] |
+| CARDINALE | Supplico vostra Grazia<br>d’ascoltare le loro doglianze. |
+| *(didascalia)* | [sedendosi sul trono] |
+| DUCA | Sì! le pesche<br>quest’anno non sono grosse come lo erano l’anno scorso.<br>Chiedo venia, monsignor cardinale:<br>credevo parlaste di pesche. |
+| *(didascalia)* | [Un’acclamazione dal popolo.] |
+| DUCA | Che cos’è? |
+| *(didascalia)* | [corre alla [[Window\|finestra]]] |
+| GUIDO | La duchessa è uscita nella piazza,<br>e sta fra il popolo e la guardia,<br>e non lascia che sparino. |
+| DUCA | Il diavolo se la porti! |
+| *(didascalia)* | [ancora alla [[Window\|finestra]]] |
+| GUIDO | E, seguìta da una dozzina di cittadini,<br>è entrata nel Palazzo. |
+| *(didascalia)* | [balzando in piedi] |
+| DUCA | Per san Giacomo,<br>la nostra duchessa si fa ardita! |
+| BARDI | Ecco che viene la duchessa. |
+| DUCA | Chiudete quella porta; quest’aria mattutina è fredda. |
+| *(didascalia)* | [Chiudono la porta sul corridoio.] |
+| *(didascalia)* | [Entra la duchessa seguita da una folla di cittadini poveramente vestiti.] |
+| *(didascalia)* | [gettandosi in ginocchio] |
+| DUCHESSA | Supplico vostra Grazia di concederci udienza. |
+| DUCA | Quali sono queste doglianze? |
+| DUCHESSA | Ahimè, mio signore,<br>cose tanto comuni che né voi né io,<br>né alcuno di questi nobili gentiluomini,<br>abbiamo mai bisogno di pensarci;<br>dicono che il pane, il pane stesso che mangiano,<br>è fatto di misera pula. |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_02" data-title="The Duchess of Padua — Act 2 [2]" data-chapter="part 02" data-kind="excerpt" data-tags="motif/autumn,motif/city,motif/sleep,motif/snow,motif/water,motif/winter,concept/poverty,concept/providence,concept/reform"></span>
@@ -416,6 +707,33 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | CARDINAL | True, it is Christian to bear misery,<br>Yet it is Christian also to be kind,<br>And there seem many evils in this town,<br>Which in your wisdom might your Grace [[Reform\|reform]]. |
 | FIRST CITIZEN | What is that word [[Reform\|reform]]?  What does it mean? |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| PRIMO CITTADINO | Sì! così è,<br>null’altro che pula. |
+| DUCA | E ottimo cibo per giunta:<br>lo do ai miei cavalli. |
+| *(didascalia)* | [trattenendosi] |
+| DUCHESSA | Dicono che l’[[Water\|acqua]],<br>posta nelle cisterne pubbliche a loro uso, |
+| *(didascalia)* | [si è, per la rottura dell’acquedotto,] |
+| DUCHESSA | mutata in stagni putridi e in pozzanghere fangose. |
+| DUCA | Bevano vino; l’[[Water\|acqua]] è del tutto malsana. |
+| SECONDO CITTADINO | Ahimè, vostra Grazia, le tasse che la gabella<br>preleva alla porta della [[City\|città]] son cresciute tanto<br>che non possiamo comprare vino. |
+| DUCA | Allora dovreste benedire le tasse<br>che vi rendono temperanti. |
+| DUCHESSA | Pensate: mentre noi sediamo<br>in sfarzosa pompa e maestà, la scarna [[Poverty\|povertà]]<br>striscia per i loro vicoli senza sole, e con coltelli aguzzi<br>taglia furtivamente le gole tiepide dei bambini,<br>e non se ne dice parola. |
+| TERZO CITTADINO | Sì! affé, questo è vero:<br>il mio figlioletto è morto di fame ier notte;<br>aveva appena sei anni; io son tanto povero<br>che non posso seppellirlo. |
+| DUCA | Se sei povero,<br>non sei per ciò beato?  Ma via, la [[Poverty\|povertà]]<br>è una delle virtù cristiane, |
+| *(didascalia)* | [Si volge al CARDINALE.] |
+| DUCA | non è così?<br>So, monsignor cardinale, che avete grandi rendite,<br>ricche terre abbaziali, e decime, e vasti poderi<br>per predicare la [[Poverty\|povertà]] volontaria. |
+| DUCHESSA | Ma no, mio signore duca, siate generoso;<br>mentre noi sediamo qui dentro una nobile [[house\|casa]]<br>[con portici ombrosi contro il sole,<br>e mura e tetti a tener fuori l’[[Winter\|inverno]]],<br>vi sono molti cittadini di Padova<br>che vivono in vili casupole tanto piene di crepe<br>che la pioggia gelida, la [[Snow\|neve]] e il vento crudo<br>sono anch’essi inquilini con loro; altri [[Sleep\|dormono]]<br>sotto gli archi dei ponti pubblici<br>per tutte le notti d’[[Autumn\|autunno]], finché l’umida nebbia<br>irrigidisce le loro membra, e vengono le febbri, e così — |
+| DUCA | E così vanno nel seno d’Abramo, madama.<br>Dovrebbero ringraziarmi d’averli mandati in Cielo,<br>se quaggiù sono miserabili. |
+| *(didascalia)* | [Al CARDINALE.] |
+| DUCA | Non è detto<br>in qualche luogo della Sacra Scrittura che ogni uomo<br>debba contentarsi di quello stato di vita<br>a cui Dio lo chiama?  Perché dovrei mutare il loro stato,<br>o metter mano in una [[Providence\|provvidenza]] onnisapiente<br>che ha disposto che alcuni uomini patiscano la fame<br>e altri si rimpinzino?  Non son io che ho fatto il mondo. |
+| PRIMO CITTADINO | Ha un cuore duro. |
+| SECONDO CITTADINO | Zitto, vicino;<br>credo che il cardinale parlerà per noi. |
+| CARDINALE | È vero, è cristiano sopportare la miseria,<br>ma è cristiano altresì essere pietosi,<br>e paiono esservi molti mali in questa città<br>che vostra Grazia, nella sua saggezza, potrebbe [[Reform\|riformare]]. |
+| PRIMO CITTADINO | Che parola è questa, [[Reform\|riformare]]?  Che vuol dire? |
 
 
 
@@ -462,6 +780,47 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUKE | Nay! louder, fellow, louder. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| SECONDO CITTADINO | Affé, vuol dire lasciare le cose come stanno; non mi garba. |
+| DUCA | [[Reform\|Riformare]], monsignor cardinale, avete detto [[Reform\|riformare]]?<br>C’è un uomo in [[Germany\|Germania]] chiamato Lutero<br>che vorrebbe [[Reform\|riformare]] la Santa [[Catholic Church\|Chiesa Cattolica]].<br>Non l’avete dichiarato eretico, e pronunciato<br>anatema, maranatha, contro di lui? |
+| *(didascalia)* | [alzandosi dal suo seggio] |
+| CARDINALE | Egli avrebbe condotto le pecore fuori dall’ovile;<br>noi vi chiediamo soltanto di nutrire le pecore. |
+| DUCA | Quando ne avrò tosato i velli, potrò nutrirle.<br>Quanto a questi ribelli — |
+| *(didascalia)* | [La DUCHESSA lo supplica.] |
+| PRIMO CITTADINO | Questa è una buona parola:<br>vuol darci qualcosa. |
+| SECONDO CITTADINO | Davvero? |
+| DUCA | Questi straccioni furfanti che vengono qui dinanzi a noi<br>con le bocche rimpinzate di tradimento. |
+| TERZO CITTADINO | Buon signor mio,<br>riempiteci le bocche di pane, e terremo a freno la lingua. |
+| DUCA | La lingua la terrete a freno, che patiate la fame o no.<br>Signori, quest’età s’è fatta così confidenziale<br>che il basso villano a stento si toglie il cappello<br>se non lo bastonate; e il rozzo artigiano<br>dà di gomito al nobile nelle pubbliche strade. |
+| *(didascalia)* | [Ai cittadini.] |
+| DUCA | Pure, poiché la nostra gentile duchessa ce n’ha tanto pregati,<br>e rifiutare una così bella mendicante<br>sarebbe mancare di cortesia e d’[[Love\|amore]],<br>quanto alle vostre doglianze io prometto questo — |
+| PRIMO CITTADINO | Affé, alleggerirà le tasse! |
+| SECONDO CITTADINO | O una razione di pane, credi, per ciascuno? |
+| DUCA | Che, [[Sunday\|domenica]] prossima, monsignor cardinale<br>vi predicherà, dopo la santa messa, un sermone<br>sulla [[Beauty\|Bellezza]] dell’Obbedienza. |
+| *(didascalia)* | [I cittadini mormorano.] |
+| PRIMO CITTADINO | In [[Faith\|fede]] mia, questo non ci riempirà lo stomaco! |
+| SECONDO CITTADINO | Un sermone è ben magra salsa, quando<br>non hai nulla da mangiarci insieme. |
+| DUCHESSA | Povera gente,<br>vedete che non ho potere sul duca,<br>ma se andrete nel [[Court\|cortile]] qui fuori,<br>il mio elemosiniere, dalla mia borsa privata,<br>dividerà cento ducati fra tutti voi. |
+| PRIMO CITTADINO | Dio salvi la duchessa, dico io. |
+| SECONDO CITTADINO | Dio la salvi. |
+| DUCHESSA | E ogni lunedì mattina sarà posto del pane<br>per quelli che ne mancano. |
+| *(didascalia)* | [I cittadini applaudono ed escono.] |
+| *(didascalia)* | [uscendo] |
+| PRIMO CITTADINO | Su, Dio salvi ancora la duchessa! |
+| *(didascalia)* | [richiamandolo] |
+| DUCA | Vieni qua, brav’uomo! qual è il tuo nome? |
+| PRIMO CITTADINO | Dominick, signore. |
+| DUCA | Un buon nome!  Perché ti chiamarono Dominick? |
+| *(didascalia)* | [grattandosi il capo] |
+| PRIMO CITTADINO | Affé, perché nacqui il giorno di san Giorgio. |
+| DUCA | Un’ottima ragione! ecco un ducato per te!<br>Non griderai per me: Dio salvi il duca? |
+| *(didascalia)* | [fiaccamente] |
+| PRIMO CITTADINO | Dio salvi il duca. |
+| DUCA | No! più forte, brav’uomo, più forte. |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_04" data-title="The Duchess of Padua — Act 2 [4]" data-chapter="part 04" data-kind="excerpt" data-tags="motif/city,motif/love,motif/night,motif/prison,motif/well,concept/doubt,concept/hope,concept/mercy,setting/court,setting/italy"></span>
@@ -498,6 +857,38 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUKE | Madam, my second Duchess<br>Asked the same question once: her monument<br>Lies in the chapel of Bartholomew,<br>Wrought in red marble; very beautiful.<br>Guido, your arm.  Come, gentlemen, let us go<br>And spur our falcons for the mid-day chase.<br>Bethink you, Madam, you are here [[Alone\|alone]]. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [un poco più forte] |
+| PRIMO CITTADINO | Dio salvi il duca! |
+| DUCA | Con più vigore, brav’uomo, mettici più cuore!<br>Ecco un altro ducato per te. |
+| *(didascalia)* | [con entusiasmo] |
+| PRIMO CITTADINO | Dio salvi il duca! |
+| *(didascalia)* | [beffardamente] |
+| DUCA | Ecco, signori, l’[[Love\|amore]] di questo semplice uomo<br>mi commuove assai.  [Al cittadino, aspramente.]<br>Va’!  [Esce il cittadino, inchinandosi.]<br>Ecco il modo, signori,<br>in cui si compra oggi la popolarità.<br>Oh, noi siamo democratici o non siamo nulla! |
+| *(didascalia)* | [Alla DUCHESSA.] |
+| DUCA | [[Well\|Ebbene]], madama,<br>voi spargete ribellione fra i nostri cittadini. |
+| DUCHESSA | Mio signore, i poveri hanno diritti che voi non potete toccare:<br>il diritto alla pietà e il diritto alla [[Mercy\|misericordia]]. |
+| DUCA | Ah sì, discutete con me?  Ecco dunque<br>la gentile duchessa per la cui mano cedetti<br>tre delle più belle città d’[[Italy\|Italia]]:<br>Pisa, e Genova, e Orvieto. |
+| DUCHESSA | Prometteste, mio signore, non cedeste: in quella faccenda<br>rompeste la vostra parola come sempre. |
+| DUCA | Ci fate torto, madama:<br>vi furono ragioni di stato. |
+| DUCHESSA | Quali ragioni di stato vi sono<br>per rompere sante promesse fatte a uno stato? |
+| DUCA | Vi sono cinghiali a Pisa, in un bosco<br>vicino alla [[City\|città]]: quando promisi Pisa<br>al vostro nobile e fiduciosissimo padre,<br>avevo dimenticato che là si cacciava.<br>A Genova dicono,<br>e in verità non ne [[Doubt\|dubito]], che la triglia<br>cresca più grossa nel porto di quella città<br>che in qualunque altro luogo d’[[Italy\|Italia]]. |
+| *(didascalia)* | [Volgendosi a uno della [[Court\|corte]].] |
+| DUCA | Voi, mio signore,<br>il cui ghiotto appetito è il vostro solo dio,<br>potreste soddisfare la nostra duchessa su quel punto. |
+| DUCHESSA | E Orvieto? |
+| *(didascalia)* | [sbadigliando] |
+| DUCA | Non rammento più<br>perché non consegnai Orvieto<br>secondo la parola del mio contratto.<br>Forse fu perché non mi piacque. |
+| *(didascalia)* | [Si avvicina alla DUCHESSA.] |
+| DUCA | Ma guardate, madama, qui voi siete [[Alone\|sola]];<br>son molte leghe polverose fino alla vostra grigia Francia,<br>e persino là vostro padre mantiene a stento<br>cento scudieri cenciosi per la sua [[Court\|corte]].<br>Quale [[Hope\|speranza]] avete, vi dico?  Quale di questi signori<br>e nobili gentiluomini di Padova<br>vi sta a fianco. |
+| DUCHESSA | Non ve n’è alcuno. |
+| *(didascalia)* | [GUIDO ha un sussulto, ma si trattiene.] |
+| DUCA | Né vi sarà,<br>finché io sarò duca in Padova: udite, madama,<br>essendo cosa mia, farete come io voglio;<br>e se sarà mia volontà che restiate in [[house\|casa]],<br>allora questo palazzo sarà la vostra [[Prison\|prigione]];<br>e se sarà mia volontà che usciate,<br>allora prenderete aria dal mattino alla [[Night\|notte]]. |
+| DUCHESSA | Signore, con qual diritto —? |
+| DUCA | Madama, la mia seconda duchessa<br>una volta pose la stessa domanda: il suo monumento<br>è nella cappella di san Bartolomeo,<br>lavorato in marmo rosso; bellissimo.<br>Guido, il vostro braccio.  Venite, signori, andiamo<br>a spronare i falconi per la caccia di mezzodì.<br>Riflettete, madama: qui voi siete [[Alone\|sola]]. |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_05" data-title="The Duchess of Padua — Act 2 [5]" data-chapter="part 05" data-kind="excerpt" data-tags="setting/court"></span>
@@ -509,6 +900,13 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [looking after them] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [Esce il DUCA appoggiato a GUIDO, con la sua [[Court\|corte]].] |
+| *(didascalia)* | [guardandoli allontanarsi] |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_06" data-title="The Duchess of Padua — Act 2 [6]" data-chapter="part 06" data-kind="excerpt" data-tags="motif/death,motif/night,motif/soul,motif/time"></span>
@@ -518,6 +916,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | DUCHESS | The Duke said rightly that I was [[Alone\|alone]];<br>Deserted, and dishonoured, and defamed,<br>Stood ever woman so [[Alone\|alone]] indeed?<br>Men when they woo us call us pretty children,<br>Tell us we have not wit to make our lives,<br>And so they mar them for us.  Did I say woo?<br>We are their chattels, and their common slaves,<br>Less dear than the poor hound that licks their hand,<br>Less fondled than the hawk upon their wrist.<br>Woo, did I say? bought rather, sold and bartered,<br>Our very bodies being merchandise.<br>I know it is the general lot of women,<br>Each miserably mated to some man<br>Wrecks her own life upon his selfishness:<br>That it is general makes it not less bitter.<br>I think I never heard a woman laugh,<br>Laugh for pure merriment, except one woman,<br>That was at [[Night\|night]] [[Time\|time]], in the public streets.<br>Poor [[Soul\|soul]], she walked with painted lips, and wore<br>The mask of pleasure: I would not laugh like her;<br>No, [[Death\|death]] were better. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | Il duca ha detto il vero: io ero [[Alone\|sola]];<br>abbandonata, disonorata e diffamata:<br>stette mai donna così [[Alone\|sola]] davvero?<br>Gli uomini, quando ci corteggiano, ci chiamano graziose bambine,<br>ci dicono che non abbiamo senno per fare la nostra vita,<br>e così ce la guastano loro.  Ho detto corteggiare?<br>Noi siamo la loro masserizia, le loro schiave comuni,<br>meno care del povero cane che lecca loro la mano,<br>meno carezzate del falco sul loro pugno.<br>Corteggiare, ho detto? comprate piuttosto, vendute e barattate,<br>essendo mercanzia i nostri corpi stessi.<br>So che è la sorte generale delle donne:<br>ciascuna, miseramente accoppiata a qualche uomo,<br>naufraga la propria vita sull’egoismo di lui;<br>ma l’esser generale non la rende meno amara.<br>Credo di non aver mai udito ridere una donna,<br>ridere di pura allegria, tranne una donna sola,<br>e fu di [[Night\|notte]] [[Time\|tempo]], nelle pubbliche strade.<br>Povera [[Soul\|anima]], camminava con le labbra dipinte, e portava<br>la maschera del piacere: io non vorrei ridere come lei;<br>no, meglio la [[Death\|morte]]. |
 
 
 
@@ -540,6 +944,23 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [The DUCHESS starts, and GUIDO falls at her feet.] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [Entra GUIDO dietro, non veduto; la DUCHESSA si getta in ginocchio davanti a un’immagine della Madonna.] |
+| DUCHESSA | O Maria madre, con il tuo dolce volto pallido<br>chinato fra le piccole teste d’angelo<br>che ti volteggiano intorno, non hai aiuto per me?<br>Madre di Dio, non hai aiuto per me? |
+| GUIDO | Non posso più resistere.<br>Questo è il mio [[Love\|amore]], e le parlerò.<br>Madama, sono io straniero alle vostre preghiere? |
+| *(didascalia)* | [alzandosi] |
+| DUCHESSA | Nessuno tranne gl’infelici ha bisogno delle mie preghiere, mio signore. |
+| GUIDO | Allora devo averne bisogno io, madama. |
+| DUCHESSA | E come mai?<br>Non ti rende il duca [[Honour\|onore]] bastante? |
+| GUIDO | Vostra Grazia, non mi mancano favori dal duca,<br>che la mia [[Soul\|anima]] aborre come aborro la malvagità,<br>ma vengo a offrirvi, sulle ginocchia piegate,<br>il mio leale servizio fino alla [[Death\|morte]]. |
+| DUCHESSA | Ahimè!  Son caduta tanto in basso<br>che non posso darti che un povero compenso di grazie. |
+| *(didascalia)* | [afferrandole la mano] |
+| GUIDO | Non hai [[Love\|amore]] da darmi? |
+| *(didascalia)* | [La DUCHESSA ha un sussulto, e GUIDO le cade ai piedi.] |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_08" data-title="The Duchess of Padua — Act 2 [8]" data-chapter="part 08" data-kind="excerpt" data-tags="motif/blood,motif/cave,motif/desert,motif/lion,motif/love,concept/beauty,concept/honour,setting/desert,character/beatrice"></span>
@@ -549,6 +970,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | GUIDO | O dear saint,<br>If I have been too daring, pardon me!<br>Thy [[Beauty\|beauty]] sets my boyish [[Blood\|blood]] aflame,<br>And, when my reverent lips touch thy white hand,<br>Each little nerve with such wild passion thrills<br>That there is nothing which I would not do<br>To gain thy [[Love\|love]].  [Leaps up.]<br>Bid me reach forth and pluck<br>Perilous [[Honour\|honour]] from the [[Lion\|lion]]’s jaws,<br>And I will wrestle with the Nemean beast<br>On the bare [[Desert\|desert]]!  Fling to the [[Cave\|cave]] of War<br>A gaud, a ribbon, a dead flower, something<br>That once has touched thee, and I’ll bring it back<br>Though all the hosts of Christendom were there,<br>Inviolate again! ay, more than this,<br>Set me to scale the pallid white-faced cliffs<br>Of mighty England, and from that arrogant shield<br>Will I raze out the lilies of your France<br>Which England, that sea-[[Lion\|lion]] of the sea,<br>Hath taken from her!<br>O dear [[Beatrice]],<br>Drive me not from thy presence! without thee<br>The heavy minutes crawl with feet of lead,<br>But, while I look upon thy loveliness,<br>The hours fly like winged Mercuries<br>And leave existence golden. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | O cara santa,<br>se sono stato troppo ardito, perdonami!<br>La tua [[Beauty\|bellezza]] infiamma il mio [[Blood\|sangue]] di giovinetto,<br>e, quando le mie labbra reverenti toccano la tua bianca mano,<br>ogni piccolo nervo freme di così selvaggia passione<br>che non v’è nulla ch’io non farei<br>per guadagnare il tuo [[Love\|amore]].  [Balza in piedi.]<br>Comandami di stender la mano e strappare<br>un [[Honour\|onore]] periglioso dalle fauci del [[Lion\|leone]],<br>e lotterò con la belva nemea<br>sul nudo [[Desert\|deserto]]!  Getta nella [[Cave\|caverna]] della Guerra<br>un ninnolo, un nastro, un fiore appassito, qualcosa<br>che una volta t’abbia toccata, e te la riporterò<br>fossero là tutte le schiere della Cristianità,<br>di nuovo inviolata! sì, e più ancora,<br>mandami a scalare le pallide bianche scogliere<br>della potente Inghilterra, e da quello scudo arrogante<br>raderò via i gigli della vostra Francia<br>che l’Inghilterra, quel [[Lion\|leone]] marino del mare,<br>le ha tolto!<br>O cara [[Beatrice]],<br>non scacciarmi dalla tua presenza! senza di te<br>i minuti pesanti strisciano con piedi di piombo,<br>ma, finché contemplo la tua leggiadria,<br>le ore volano come Mercuri alati<br>e lasciano dorata l’esistenza. |
 
 
 
@@ -578,6 +1005,30 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Methinks I am bold to look upon you thus:<br>The gentle violet hides beneath its leaf<br>And is afraid to look at the great sun<br>For [[Fear\|fear]] of too much splendour, but my eyes,<br>O daring eyes! are grown so venturous<br>That like fixed [[Stars\|stars]] they stand, gazing at you,<br>And surfeit sense with [[Beauty\|beauty]]. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | Non credevo<br>che sarei mai stata amata: davvero<br>mi [[Love\|amate]] quanto ora dite di amarmi? |
+| GUIDO | Chiedi all’uccello marino se ama il mare,<br>chiedi alle rose se [[Love\|amano]] la pioggia,<br>chiedi alla piccola allodola, che non vuol cantare<br>prima dell’alba, se ama vedere il giorno: —<br>eppure queste non sono che vuote immagini,<br>meri fantasmi del mio [[Love\|amore]], che è un [[Fire\|fuoco]]<br>così grande che tutte le acque dell’oceano<br>non valgono a spegnerlo.  Non vuoi parlare? |
+| DUCHESSA | Non so bene che cosa dovrei dirvi. |
+| GUIDO | Non vuoi dire che mi [[Love\|ami]]? |
+| DUCHESSA | È questa la mia lezione?<br>Devo dir tutto in una volta?  Sarebbe una buona lezione<br>se io vi [[Love\|amassi]], signore; ma, se non v’amo,<br>che dovrò dire allora? |
+| GUIDO | Se non mi [[Love\|amate]],<br>dite lo stesso che m’amate, ché sulla vostra lingua<br>la menzogna per pura vergogna si farebbe [[Truth\|verità]]. |
+| DUCHESSA | E se non parlassi affatto?  Dicono<br>che gli [[lovers\|amanti]] sono più felici quando sono nel [[Doubt\|dubbio]] |
+| GUIDO | No, il [[Doubt\|dubbio]] mi ucciderebbe, e se devo morire,<br>ebbene, che io muoia di gioia e non di [[Doubt\|dubbio]].<br>Oh, dimmi: posso restare, o devo andare? |
+| DUCHESSA | Non vorrei che voi restaste né che andaste;<br>ché se restate mi rubate il mio [[Love\|amore]],<br>e se andate portate via il mio [[Love\|amore]].<br>Guido, se anche tutte le [[Stars\|stelle]] del mattino cantassero<br>non potrebbero dire la misura del mio [[Love\|amore]].<br>Io t’[[Love\|amo]], Guido. |
+| *(didascalia)* | [tendendo le mani] |
+| GUIDO | Oh, non cessare affatto;<br>credevo che l’[[Nightingale\|usignolo]] cantasse solo di [[Night\|notte]];<br>o se pur devi cessare, allora le mie labbra<br>tocchino le dolci labbra che sanno far tal musica. |
+| DUCHESSA | Toccare le mie labbra non è toccare il mio cuore. |
+| GUIDO | Me lo chiudete contro? |
+| DUCHESSA | Ahimè! mio signore,<br>io non l’ho: il primo giorno che vi vidi<br>vi lasciai portar via il mio cuore;<br>ladro riluttante, che senza volerlo<br>irrompeste nel mio recinto tesoro<br>e ne rubaste il mio [[Jewel\|gioiello]]!  O strano furto,<br>che vi fece più ricco senza che lo sapeste,<br>e me lasciò più povera, e pur lieta di ciò! |
+| *(didascalia)* | [stringendola fra le braccia] |
+| GUIDO | O [[Love\|amore]], [[Love\|amore]], [[Love\|amore]]!  No, dolce, alza il capo,<br>lascia ch’io schiuda quelle piccole porte scarlatte<br>che serrano la musica, lascia ch’io mi tuffi a cercare corallo<br>nelle tue labbra rosse, e ne riporterò un premio<br>più ricco di tutto l’oro che il Grifone custodisce<br>nella rude Armenia. |
+| DUCHESSA | Voi siete il mio signore,<br>e ciò che ho è vostro, e ciò che non ho<br>me lo presta la vostra fantasia, come un prodigo<br>che spende le sue ricchezze in ciò che nulla vale. |
+| *(didascalia)* | [Lo bacia.] |
+| GUIDO | Mi sembra ardire il guardarvi così:<br>la gentile viola si cela sotto la sua foglia<br>ed ha paura di guardare il gran sole<br>per [[Fear\|timore]] di troppo splendore, ma i miei occhi,<br>o occhi arditi! si son fatti tanto avventurosi<br>che come [[Stars\|stelle]] fisse stanno, fissandovi,<br>e saziano il senso di [[Beauty\|bellezza]]. |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_10" data-title="The Duchess of Padua — Act 2 [10]" data-chapter="part 10" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/dust,motif/love,motif/well,setting/court,setting/venice,setting/verona,character/beatrice"></span>
@@ -601,6 +1052,26 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | I remember,<br>That when I was a [[Child\|child]] in my dear France,<br>Being at [[Court]] at Fontainebleau, the [[King]]<br>Wore such a collar. |
 | GUIDO | Will you not say you [[Love\|love]] me? |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | Caro [[Love\|amore]], vorrei<br>che tu potessi guardarmi per sempre, ché i tuoi occhi<br>sono specchi tersi, e quando scruto<br>dentro quegli specchi posso veder me stessa,<br>e così so che la mia immagine vive in te. |
+| *(didascalia)* | [prendendola fra le braccia] |
+| GUIDO | Fermati, o sfera frettolosa negli alti cieli,<br>e rendi immortale quest’ora!  [Una pausa.] |
+| DUCHESSA | Siedi qui,<br>un poco più basso di me: sì, proprio così, dolce mio,<br>ch’io possa passarti le dita fra i capelli,<br>e veder rivolgersi in su il tuo viso come un fiore<br>incontro al mio bacio.<br>Non hai talvolta notato,<br>quando apriamo una stanza a lungo disusata<br>colma di pesante [[Dust\|polvere]] e di sudicia muffa,<br>dove da anni non è entrato piede d’uomo,<br>e togliamo dalle finestre la sbarra arrugginita,<br>e spalanchiamo all’aria le imposte rotte,<br>e lasciamo entrare il sole chiaro, come il buon sole<br>muti ogni sporca particella di [[Dust\|polvere]]<br>in una piccola cosa d’oro danzante?<br>Guido, il mio cuore è quella stanza a lungo vuota,<br>ma tu vi hai lasciato entrare l’[[Love\|amore]], e col suo oro<br>hai indorato tutta la vita.  Non pensi che l’[[Love\|amore]]<br>colmi tutta la somma della vita? |
+| GUIDO | Sì! senza [[Love\|amore]]<br>la vita non è meglio della pietra non sbozzata<br>che giace nella cava, prima che lo scultore<br>vi abbia posto dentro il Dio.  Senza [[Love\|amore]]<br>la vita è muta come le canne comuni<br>che crescono per le paludi o presso i fiumi,<br>e non hanno musica in sé. |
+| DUCHESSA | Eppure di queste<br>il cantore, che è l’[[Love\|Amore]], farà uno zufolo<br>e ne trarrà musica; così io penso<br>che l’[[Love\|Amore]] trarrà musica da qualunque vita.<br>Non è vero? |
+| GUIDO | Dolce, sono le donne a renderlo vero.<br>Vi sono uomini che dipingono quadri, e scolpiscono statue,<br>Paolo di [[Verona]] e il figlio del tintore,<br>o il loro gran rivale, che, presso il mare a [[Venice\|Venezia]],<br>ha posto la piccola fanciulla di Dio sulla scala,<br>bianca come il suo bianco giglio, e altrettanto alta,<br>o Raffaello, le cui Madonne sono divine<br>perché sono soltanto madri; eppure io penso<br>che le donne siano le migliori artiste del mondo,<br>ché sanno prendere le comuni vite degli uomini<br>lordate dal far denaro del nostro tempo,<br>e con l’[[Love\|amore]] renderle belle. |
+| DUCHESSA | Ah, caro,<br>vorrei che tu ed io fossimo assai poveri;<br>i poveri, che si [[Love\|amano]] l’un l’altro, sono così ricchi. |
+| GUIDO | Dimmi ancora che mi [[Love\|ami]], [[Beatrice]]. |
+| *(didascalia)* | [toccandogli il collare] |
+| DUCHESSA | Come sta [[Well\|bene]] questo collare intorno alla tua gola. |
+| *(didascalia)* | [IL CONTE MORANZONE guarda dalla porta, dal corridoio di fuori.] |
+| GUIDO | No, dimmi che mi [[Love\|ami]]. |
+| DUCHESSA | Ricordo<br>che quand’ero [[Child\|bambina]] nella mia cara Francia,<br>stando a [[Court\|corte]] a Fontainebleau, il [[King\|re]]<br>portava un collare simile. |
+| GUIDO | Non vuoi dire che mi [[Love\|ami]]? |
 
 
 
@@ -636,6 +1107,36 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | SERVANT | A package for you, sir. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [sorridendo] |
+| DUCHESSA | Era un uomo assai regale, il [[King\|re]] Francesco,<br>eppure non era regale come sei tu.<br>Che bisogno ho di dirti, Guido, che ti [[Love\|amo]]? |
+| *(didascalia)* | [Gli prende il capo fra le mani e gli volge il viso verso di sé.] |
+| DUCHESSA | Non sai che sono tua per sempre,<br>[[Body\|corpo]] e [[Soul\|anima]]? |
+| *(didascalia)* | [Lo bacia, e poi d’un tratto scorge MORANZONE e balza in piedi.] |
+| DUCHESSA | Oh, che cos’è?  [MORANZONE scompare.] |
+| GUIDO | Che c’è, [[Love\|amore]]? |
+| DUCHESSA | Mi parve di vedere un volto con occhi di fiamma<br>guardarci attraverso la porta. |
+| GUIDO | No, non era nulla:<br>l’[[Shadow\|ombra]] passeggera dell’uomo di guardia. |
+| *(didascalia)* | [La DUCHESSA sta ancora guardando la [[Window\|finestra]].] |
+| GUIDO | Non era nulla, dolce mia. |
+| DUCHESSA | Sì! che cosa può nuocerci ora,<br>a noi che siamo nella mano dell’[[Love\|Amore]]?  Non credo che m’importerebbe<br>se il vile mondo, col suo lacchè la Calunnia,<br>calpestasse e schiacciasse la mia vita; perché dovrebbe importarmi?<br>Dicono che i comuni [[Flowers\|fiori]] del campo<br>abbiano più dolce profumo quando sono calpestati<br>che quando fioriscono [[Alone\|soli]], e che certe erbe<br>senza profumo alcuno, se sono ammaccate, muoiono<br>con tutta l’Arabia intorno; così accade<br>alle giovani vite che questo mondo ottuso cerca di schiacciare:<br>non fa che trarne fuori la dolcezza,<br>e spesso le rende più belle.  E poi,<br>finché abbiamo l’[[Love\|amore]] abbiamo il meglio della vita:<br>non è così? |
+| GUIDO | Cara, vogliamo suonare o cantare?<br>Credo che potrei cantare, adesso. |
+| DUCHESSA | Non parlare,<br>ché vi sono momenti in cui ogni esistenza<br>par ristretta a una sola estasi,<br>e la Passione pone un sigillo sulle labbra. |
+| GUIDO | Oh, con le mie stesse labbra lascia ch’io rompa quel sigillo!<br>Tu mi [[Love\|ami]], [[Beatrice]]? |
+| DUCHESSA | Sì! non è strano<br>ch’io debba tanto [[Love\|amare]] il mio nemico? |
+| GUIDO | E chi è costui? |
+| DUCHESSA | Ma tu: che col tuo dardo mi trafiggesti il cuore!<br>Povero cuore, che visse la sua piccola vita solitaria<br>finché non incontrò la tua freccia. |
+| GUIDO | Ah, caro [[Love\|amore]],<br>anch’io son così ferito da quel dardo<br>che giaccio morente con piaghe non curate,<br>se tu non mi guarisci, cara Medica. |
+| DUCHESSA | Non vorrei vederti guarito; ché io son malata<br>dello stesso male. |
+| GUIDO | Oh, come t’[[Love\|amo]]!<br>Vedi, devo rubare la voce del cuculo, e ridire<br>sempre la stessa storia. |
+| DUCHESSA | Non dirne altra!<br>Ché, se quello è il piccolo [[Song\|canto]] del cuculo,<br>l’[[Nightingale\|usignolo]] è rauco, e la sonora allodola<br>ha perduto la sua musica. |
+| GUIDO | Baciami, [[Beatrice]]! |
+| *(didascalia)* | [Ella gli prende il viso fra le mani e si china e lo bacia; poi giunge un forte bussare alla porta, e GUIDO balza in piedi; entra un Servo.] |
+| SERVO | Un pacco per voi, signore. |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_12" data-title="The Duchess of Padua — Act 2 [12]" data-chapter="part 12" data-kind="excerpt" data-tags="archetype/innocent,motif/birds,motif/death,motif/love,motif/nature,motif/night,motif/window,concept/beauty,concept/nature,character/beatrice"></span>
@@ -668,6 +1169,34 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | Alas, you cannot, Guido,<br>For they are part of [[Nature\|nature]] now; the air<br>Is tremulous with their music, and outside<br>The little [[Birds\|birds]] sing sweeter for those vows. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [con noncuranza]  Ah! dammelo qua.  [Il Servo consegna il pacco avvolto in seta vermiglia, ed esce; mentre GUIDO sta per aprirlo la DUCHESSA gli giunge alle spalle, e per gioco glielo toglie.] |
+| *(didascalia)* | [ridendo] |
+| DUCHESSA | Ora scommetto che viene da qualche fanciulla<br>che vorrebbe farti portare il suo pegno; sono così gelosa<br>che non cederò la minima parte di te,<br>ma come un avaro ti terrò tutto per me,<br>e forse ti guasterò col tenerti. |
+| GUIDO | Non è nulla. |
+| DUCHESSA | Ma sì, viene da qualche fanciulla. |
+| GUIDO | Sai bene che non è così. |
+| *(didascalia)* | [gli volge le spalle e lo apre] |
+| DUCHESSA | Ora, traditore, dimmi che significa questo segno,<br>un pugnale con due leopardi lavorati in acciaio? |
+| GUIDO | [togliendoglielo]  O Dio! |
+| DUCHESSA | Guarderò dalla [[Window\|finestra]], e vedrò<br>se non scorgo la livrea del portatore<br>che l’ha lasciato al cancello!  Non avrò pace<br>finché non avrò saputo il tuo segreto. |
+| *(didascalia)* | [Corre ridendo nel corridoio.] |
+| GUIDO | Oh, orribile!<br>Avevo dunque sì presto scordato la [[Death\|morte]] di mio padre,<br>lasciai dunque sì presto entrare l’[[Love\|amore]] nel mio cuore,<br>e devo bandire l’[[Love\|amore]], e far entrare l’assassinio<br>che batte e clamoreggia alla porta di fuori?<br>Sì, lo devo!  Non ho forse giurato un giuramento?<br>Eppure non sta[[Night\|notte]]; no, dev’essere sta[[Night\|notte]].<br>Addio dunque a ogni gioia e luce della vita,<br>a tutte le care memorie serbate, addio,<br>addio ogni [[Love\|amore]]!  Potrei con mani insanguinate<br>carezzare e giocare con le sue mani [[Innocent\|innocenti]]?<br>Potrei con labbra fresche da questo macello<br>giocare con le sue labbra?  Potrei con occhi d’assassino<br>guardare in quegli occhi di viola, la cui purezza<br>accecherebbe gli uomini, e farebbe vacillare ogni pupilla<br>in una [[Night\|notte]] perpetua?  No, l’assassinio ha posto<br>fra noi una barriera troppo alta<br>perché possiamo baciarci al di sopra. |
+| DUCHESSA | Guido! |
+| GUIDO | [[Beatrice]],<br>devi scordare quel nome, e bandirmi<br>dalla tua vita per sempre. |
+| *(didascalia)* | [andando verso di lui] |
+| DUCHESSA | O caro [[Love\|amore]]! |
+| *(didascalia)* | [indietreggiando] |
+| GUIDO | Fra noi due sta una barriera<br>che non osiamo varcare. |
+| DUCHESSA | Io oso qualunque cosa,<br>purché tu mi sia accanto. |
+| GUIDO | Ah!  Sta proprio qui:<br>non posso esserti accanto, non posso respirare<br>l’aria che tu respiri; non posso più<br>stare a faccia a faccia con la [[Beauty\|bellezza]], che snerva<br>il mio cuore tremante, e fa fallire<br>la mia mano disperata al suo proposito.  Lasciami andare, ti prego;<br>dimentica d’avermi mai guardato. |
+| DUCHESSA | Come!<br>Coi tuoi baci ardenti ancor freschi sulle mie labbra<br>dimenticare i voti d’[[Love\|amore]] che mi facesti? |
+| GUIDO | Li ritiro. |
+| DUCHESSA | Ahimè, non puoi, Guido,<br>ché ormai son parte della [[Nature\|natura]]; l’aria<br>è tremula della loro musica, e là fuori<br>i piccoli [[Birds\|uccelli]] cantano più dolce per quei voti. |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_13" data-title="The Duchess of Padua — Act 2 [13]" data-chapter="part 13" data-kind="excerpt" data-tags="archetype/pilgrim,motif/dreams,motif/garden,motif/love,motif/night,motif/sleep,motif/water,character/beatrice"></span>
@@ -699,6 +1228,33 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [Enter DUKE equipped for the chase, with falconers and hounds.] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | Ora fra noi sta una barriera<br>che allora non conoscevo, o avevo scordata. |
+| DUCHESSA | Non c’è barriera, Guido; ma sì, andrò<br>in povere vesti, e ti seguirò<br>per tutto il mondo. |
+| *(didascalia)* | [con smarrimento] |
+| GUIDO | Il mondo non è abbastanza vasto<br>per contenerci entrambi!  Addio, addio per sempre. |
+| *(didascalia)* | [calma, e frenando la sua passione] |
+| DUCHESSA | Perché allora entraste nella mia vita,<br>o nel desolato [[Garden\|giardino]] del mio cuore<br>seminaste quel bianco fiore d’[[Love\|amore]] —? |
+| GUIDO | O [[Beatrice]]! |
+| DUCHESSA | che ora vorreste scavare, sradicare, strappare,<br>benché ogni piccola fibra tenga tanto il mio cuore<br>che se ne spezzate una, il mio cuore si spezza con essa?<br>Perché entraste nella mia vita?  Perché apriste<br>le fonti segrete d’[[Love\|amore]] che avevo sigillate?<br>Perché le apriste —? |
+| GUIDO | O Dio! |
+| *(didascalia)* | [serrando la mano] |
+| DUCHESSA | E lasciaste<br>che le chiuse della mia passione gonfiassero e rompessero<br>finché, come l’onda quando i fiumi straripano<br>e travolgono la foresta e il podere,<br>l’[[Love\|Amore]] nella splendida valanga della sua potenza<br>travolse con sé la mia vita?  Devo goccia a goccia<br>raccogliere di nuovo queste acque e risigillarle?<br>Ahimè!  Ogni goccia sarà una lacrima, e così<br>col suo sale renderà la vita amarissima. |
+| GUIDO | Vi prego, non parlate più, ché io devo andare<br>fuori dalla vostra vita e dal vostro [[Love\|amore]], e prendere una via<br>sulla quale non potete seguirmi. |
+| DUCHESSA | Ho udito<br>che i marinai morenti di sete sopra una zattera,<br>poveri naufraghi in un mare solitario,<br>sognano verdi campi e ameni corsi d’[[Water\|acqua]],<br>e poi si destano con la rossa sete nella gola,<br>e muoiono più miseramente perché il [[Sleep\|sonno]]<br>li ha ingannati: e così muoiono maledicendo il [[Sleep\|sonno]]<br>per aver mandato loro [[Dreams\|sogni]]: io non maledirò voi<br>benché sia gettata sul mare<br>che gli uomini chiamano Desolazione. |
+| GUIDO | O Dio, Dio! |
+| DUCHESSA | Ma tu resterai: ascolta, io ti [[Love\|amo]], Guido. |
+| *(didascalia)* | [Attende un poco.] |
+| DUCHESSA | È morta l’eco, che quando dico ch’io t’[[Love\|amo]]<br>non v’è risposta? |
+| GUIDO | Tutto è morto,<br>tranne una cosa sola, che morirà sta[[Night\|notte]]! |
+| DUCHESSA | Se te ne vai, non toccarmi, ma va’. |
+| *(didascalia)* | [Esce GUIDO.] |
+| DUCHESSA | Barriera!  Barriera!<br>Perché ha detto che c’era una barriera?<br>Non c’è barriera fra noi due.<br>Egli mi ha mentito, e dovrò per questo<br>aborrire ciò che [[Love\|amo]], e odiare ciò che adoravo?<br>Non credo che noi donne [[Love\|amiamo]] così.<br>Ché se recidessi la sua immagine dal mio cuore,<br>il mio cuore, come un [[Pilgrim\|pellegrino]] sanguinante, seguirebbe<br>quell’immagine per il mondo, e la richiamerebbe<br>con piccoli gridi d’[[Love\|amore]]. |
+| *(didascalia)* | [Entra il DUCA in arnese da caccia, con falconieri e cani.] |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_14" data-title="The Duchess of Padua — Act 2 [14]" data-chapter="part 14" data-kind="excerpt" data-tags="motif/home,motif/well,motif/window,setting/court"></span>
@@ -721,6 +1277,24 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [Exit DUKE with his [[Court]].] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCA | Madama, ci fate aspettare;<br>fate aspettare i miei [[dogs\|cani]]. |
+| DUCHESSA | Oggi non cavalcherò. |
+| DUCA | Come, che roba è questa? |
+| DUCHESSA | Mio signore, non posso andare. |
+| DUCA | Che, viso pallido, osate opporvi a me?<br>Potrei bene mettervi su una misera rozza<br>e condurvi per la città, finché la bassa plebaglia<br>che voi sfamate getti in aria i cappelli e vi scherni. |
+| DUCHESSA | Non avete mai una parola di bontà per me? |
+| DUCA | Vi tengo nel cavo della mia mano<br>e non ho bisogno di sprecare con voi parole gentili. |
+| DUCHESSA | [[Well\|Ebbene]], andrò. |
+| *(didascalia)* | [battendosi lo stivale con lo scudiscio] |
+| DUCA | No, ho mutato pensiero,<br>voi resterete qui, e come moglie fedele<br>spierete dalla [[Window\|finestra]] il nostro ritorno.<br>Non sarebbe terribile se qualche accidente<br>per caso toccasse al vostro amoroso signore?<br>Venite, signori, i miei cani cominciano a smaniare,<br>e smanio anch’io, avendo una moglie paziente.<br>Dov’è il giovane Guido? |
+| MAFFIO | Mio sovrano, non l’ho veduto<br>da un’ora buona. |
+| DUCA | Non importa,<br>immagino che lo vedrò presto abbastanza.<br>[[Well\|Ebbene]], madama, sederete a [[Home\|casa]] a filare.<br>Vi protesto, signori, che le virtù domestiche<br>sono spesso bellissime negli altri. |
+| *(didascalia)* | [Esce il DUCA con la sua [[Court\|corte]].] |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_15" data-title="The Duchess of Padua — Act 2 [15]" data-chapter="part 15" data-kind="excerpt" data-tags="motif/death,motif/night,motif/stars,motif/time,motif/well,concept/immortality"></span>
@@ -730,6 +1304,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | DUCHESS | The [[Stars\|stars]] have fought against me, that is all,<br>And thus to-[[Night\|night]] when my Lord lieth asleep,<br>Will I fall upon my dagger, and so cease.<br>My heart is such a stone nothing can reach it<br>Except the dagger’s edge: let it go there,<br>To find what name it carries: ay! to-[[Night\|night]]<br>[[Death]] will [[divorce]] the Duke; and yet to-[[Night\|night]]<br>He may die also, he is very old.<br>Why should he not die?  Yesterday his hand<br>Shook with a palsy: men have died from palsy,<br>And why not he?  Are there not fevers also,<br>Agues and chills, and other maladies<br>Most incident to old age?<br>No, no, he will not die, he is too sinful;<br>Honest men die before their proper [[Time\|time]].<br>Good men will die: men by whose side the Duke<br>In all the sick pollution of his life<br>Seems like a leper: women and children die,<br>But the Duke will not die, he is too sinful.<br>Oh, can it be<br>There is some [[Immortality\|immortality]] in sin,<br>Which virtue has not?  And does the wicked man<br>Draw life from what to other men were [[Death\|death]],<br>Like poisonous plants that on corruption live?<br>No, no, I think God would not suffer that:<br>Yet the Duke will not die: he is too sinful.<br>But I will die [[Alone\|alone]], and on this [[Night\|night]]<br>Grim [[Death]] shall be my bridegroom, and the tomb<br>My secret [[house]] of pleasure: [[Well\|well]], what of that?<br>The world’s a graveyard, and we each, like coffins,<br>Within us bear a [[skeleton]]. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | Le [[Stars\|stelle]] hanno combattuto contro di me, ecco tutto,<br>e così sta[[Night\|notte]], quando il mio signore giacerà addormentato,<br>mi getterò sul mio pugnale, e finirà.<br>Il mio cuore è tal pietra che nulla può giungervi<br>tranne il filo del pugnale: vada dunque là,<br>a scoprire qual nome vi porta inciso: sì! sta[[Night\|notte]]<br>la [[Death\|Morte]] [[divorce\|divorzierà]] il duca; eppure sta[[Night\|notte]]<br>potrebbe morire anche lui, è molto vecchio.<br>Perché non dovrebbe morire?  Ieri la sua mano<br>tremava di paralisi: c’è chi è morto di paralisi,<br>e perché non lui?  Non vi sono anche febbri,<br>ague e brividi, e altri malanni<br>propri della vecchiaia?<br>No, no, non morrà, è troppo peccatore;<br>gli uomini onesti muoiono prima del loro [[Time\|tempo]].<br>I buoni muoiono: uomini accanto ai quali il duca<br>in tutta la malata corruzione della sua vita<br>par simile a un lebbroso: muoiono donne e bambini,<br>ma il duca non morrà, è troppo peccatore.<br>Oh, può essere<br>che vi sia una qualche [[Immortality\|immortalità]] nel peccato,<br>che la virtù non ha?  E l’uomo malvagio<br>trae dunque vita da ciò che ad altri sarebbe [[Death\|morte]],<br>come le piante velenose che vivono sul putridume?<br>No, no, credo che Dio non lo permetterebbe:<br>eppure il duca non morrà: è troppo peccatore.<br>Ma io morirò [[Alone\|sola]], e in questa [[Night\|notte]]<br>la torva [[Death\|Morte]] sarà il mio sposo, e la tomba<br>la mia segreta [[house\|casa]] di piacere: [[Well\|ebbene]], che importa?<br>Il mondo è un cimitero, e ciascuno di noi, come una bara,<br>porta dentro di sé uno [[skeleton\|scheletro]]. |
 
 
 
@@ -754,6 +1334,25 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [Exit.] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [Entra IL CONTE MORANZONE tutto vestito di nero; attraversa il fondo della scena guardandosi intorno ansiosamente.] |
+| MORANZONE | Dov’è Guido?<br>Non riesco a trovarlo in nessun luogo. |
+| DUCHESSA | [scorgendolo]  O Dio!<br>Sei tu che m’hai portato via il mio [[Love\|amore]]. |
+| *(didascalia)* | [con uno sguardo di gioia] |
+| MORANZONE | Come, vi ha lasciata? |
+| DUCHESSA | Sì, e ben lo sapete.<br>Oh, rendetemelo, rendetemelo, vi dico,<br>o vi lacererò il [[Body\|corpo]] membro a membro,<br>e inchioderò il vostro capo alla forca comune<br>finché i corvi carognai l’abbiano spolpato.<br>Meglio v’era attraversare il cammino a una leonessa affamata<br>che frapporvi fra me e il mio [[Love\|amore]]. |
+| *(didascalia)* | [Con più pathos.] |
+| DUCHESSA | No, rendetemelo, non sapete quanto io l’[[Love\|ami]].<br>Qui presso questo seggio s’inginocchiò mezz’ora fa;<br>là stava, e là mi guardava;<br>questa è la mano che baciò, e questi gli orecchi<br>nei cui aperti portali versò<br>un racconto d’[[Love\|amore]] così musicale che tutti<br>gli [[Birds\|uccelli]] cessarono di cantare!  Oh, rendetemelo. |
+| MORANZONE | Egli non vi [[Love\|ama]], madama. |
+| DUCHESSA | Che la peste<br>inaridisca la lingua che lo dice!  Rendetemelo. |
+| MORANZONE | Madama, vi dico che non lo vedrete mai più,<br>né sta[[Night\|notte]], né alcun’altra [[Night\|notte]]. |
+| DUCHESSA | Qual è il vostro nome? |
+| MORANZONE | Il mio nome?  [[Revenge\|Vendetta]]! |
+| *(didascalia)* | [Esce.] |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_17" data-title="The Duchess of Padua — Act 2 [17]" data-chapter="part 17" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/death,motif/night,motif/wheel,concept/revenge"></span>
@@ -764,6 +1363,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | [[Revenge]]!<br>I think I never harmed a little [[Child\|child]].<br>What should [[Revenge]] do coming to my door?<br>It matters not, for [[Death]] is there already,<br>Waiting with his dim torch to light my way.<br>’Tis true men hate thee, [[Death]], and yet I think<br>Thou wilt be kinder to me than my [[Lover\|lover]],<br>And so dispatch the messengers at once,<br>Harry the lazy steeds of lingering day,<br>And let the [[Night\|night]], thy sister, come instead,<br>And drape the world in mourning; let the owl,<br>Who is thy minister, scream from his tower<br>And wake the toad with hooting, and the bat,<br>That is the slave of dim Persephone,<br>[[Wheel]] through the sombre air on wandering wing!<br>Tear up the shrieking mandrakes from the earth<br>And bid them make us music, and tell the mole<br>To dig deep down thy cold and narrow bed,<br>For I shall lie within thine arms to-[[Night\|night]]. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | [[Revenge\|Vendetta]]!<br>Credo di non aver mai fatto male a un piccolo [[Child\|bambino]].<br>Che ha da fare la [[Revenge\|Vendetta]] venendo alla mia porta?<br>Non importa, ché la [[Death\|Morte]] è già qui,<br>e attende con la sua fioca torcia per rischiararmi il cammino.<br>È vero che gli uomini t’odiano, [[Death\|Morte]], eppure io penso<br>che sarai con me più gentile del mio [[Lover\|amante]],<br>e dunque spedisci subito i tuoi messi,<br>incalza i pigri destrieri del giorno che indugia,<br>e lascia venire in vece sua la [[Night\|notte]], tua sorella,<br>a drappeggiare il mondo di lutto; e il gufo,<br>che è il tuo ministro, gridi dalla sua torre<br>e desti con lo stridìo il rospo, e il pipistrello,<br>che è lo schiavo della fosca Persefone,<br>[[Wheel\|roteri]] per l’aria cupa con ala errante!<br>Strappa dalla terra le mandragole urlanti<br>e ordina loro di farci musica, e di’ alla talpa<br>di scavare a fondo il tuo letto freddo e stretto,<br>ché sta[[Night\|notte]] giacerò fra le tue braccia. |
+
 
 
 <span class="atom-split" data-atom="act_2--scene_1--part_18" data-title="The Duchess of Padua — Act 2 [18]" data-chapter="part 18" data-kind="excerpt"></span>
@@ -773,6 +1378,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | END OF | ACT II. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| FINE DELL’ | ATTO II. |
 
 
 
@@ -809,6 +1420,37 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Dost thou think<br>My father would be glad to see me coming,<br>This old man’s [[Blood\|blood]] still hot upon mine hands? |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | SCENA<br>Un ampio corridoio nel Palazzo Ducale: una [[Window\|finestra]] (sin. c.) s’apre sulla veduta di Padova al chiaro di luna: una scala (des. c.) sale a una porta con una portière di velluto cremisi, con le armi del Duca ricamate in oro sopra: sul gradino più basso della scala siede una figura ammantata di nero: la sala è rischiarata da un braciere di ferro colmo di stoppa ardente: tuoni e [[Lightning\|lampi]] fuori: il [[Time\|tempo]] è la [[Night\|notte]]. |
+| *(didascalia)* | [Entra GUIDO dalla [[Window\|finestra]].] |
+| GUIDO | Il [[Wind\|vento]] si leva: come tremava la mia scala!<br>Credevo che ogni raffica spezzasse le corde! |
+| *(didascalia)* | [Guarda fuori verso la [[City\|città]].] |
+| GUIDO | [[Christ\|Cristo]]!  Che [[Night\|notte]]:<br>gran tuono nei cieli, e folli lampi<br>che saettano di pinnacolo in pinnacolo<br>per la [[City\|città]], finché le case fioche paiono<br>rabbrividire e tremare a ogni nuovo bagliore<br>che precipita giù per la strada. |
+| *(didascalia)* | [Attraversa la scena fino ai piedi della scala.] |
+| GUIDO | Ah! chi sei tu<br>che siedi sulla scala, come la [[Death\|Morte]]<br>in attesa d’un’[[Soul\|anima]] colpevole?  [Una pausa.]<br>Non sai parlare?<br>O questa [[Storm\|tempesta]] t’ha posto la paralisi sulla lingua,<br>e t’ha agghiacciato la voce? |
+| *(didascalia)* | [La figura si alza e si toglie la maschera.] |
+| MORANZONE | [[Guido Ferranti]],<br>tuo padre assassinato ride di gioia sta[[Night\|notte]]. |
+| *(didascalia)* | [confuso] |
+| GUIDO | Come, siete voi qui? |
+| MORANZONE | Sì, in attesa che veniate. |
+| *(didascalia)* | [distogliendo lo sguardo da lui] |
+| GUIDO | Non pensavo di vedervi, ma ne son lieto,<br>ché possiate sapere ciò che intendo fare. |
+| MORANZONE | Prima voglio che conosciate i miei piani [[Well\|ben]] disposti;<br>ascoltate: ho messo cavalli alla porta<br>che conduce a Parma: quando avrete compiuto la vostra opera<br>fuggiremo di qui, e domani a [[Night\|notte]] — |
+| GUIDO | Non può essere. |
+| MORANZONE | Ma sì, sarà. |
+| GUIDO | Ascoltate, conte Moranzone,<br>ho risoluto di non uccidere quest’uomo. |
+| MORANZONE | Certo i miei orecchi sono traditori, parlate ancora:<br>non può essere che l’età m’abbia ottuso le facoltà,<br>ormai sono un vecchio: che avete detto?<br>Dicevate che con quel pugnale alla cintura<br>avreste vendicato il sanguinoso assassinio di vostro padre;<br>non dicevate così? |
+| GUIDO | No, mio signore, ho detto<br>ch’ero risoluto a non uccidere il duca. |
+| MORANZONE | Non avete detto questo; sono i miei sensi che mi beffano;<br>o quest’aria di mezzanotte sovraccarica di [[Storm\|tempesta]]<br>altera il vostro messaggio mentre lo pronunciate. |
+| GUIDO | No, avete udito bene; non ucciderò quest’uomo. |
+| MORANZONE | E il tuo giuramento, traditore, e il tuo giuramento? |
+| GUIDO | Ho risoluto di non mantenere quel giuramento. |
+| MORANZONE | E tuo padre assassinato? |
+| GUIDO | Credi tu<br>che mio padre sarebbe lieto di vedermi venire,<br>col [[Blood\|sangue]] di questo vecchio ancor caldo sulle mie mani? |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_02" data-title="The Duchess of Padua — Act 3 [2]" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/fool,motif/animals,motif/love,motif/moon,motif/night,motif/silence,motif/stars,motif/time,motif/well,concept/beauty,concept/forgiveness,concept/honour,concept/revenge"></span>
@@ -838,6 +1480,31 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | MORANZONE | Oh, in my [[Time\|time]], boy, have I walked i’ the [[Moon\|moon]],<br>Swore I would live on kisses and on blisses,<br>Swore I would die for [[Love\|love]], and did not die,<br>Wrote [[Love\|love]] bad verses; ay, and sung them badly,<br>Like all true [[lovers]]: Oh, I have done the tricks!<br>I know the partings and the chamberings;<br>We are all [[Animals\|animals]] at best, and [[Love\|love]]<br>Is merely passion with a holy name. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| MORANZONE | Sì! riderebbe di gioia. |
+| GUIDO | Non lo credo:<br>vi è miglior conoscenza nell’altro mondo;<br>la vendetta è di Dio, si [[Revenge\|vendichi]] Dio stesso. |
+| MORANZONE | Tu sei il ministro della vendetta di Dio. |
+| GUIDO | No!<br>Dio non ha altro ministro che la propria mano.<br>Non ucciderò quest’uomo. |
+| MORANZONE | Perché sei qui, dunque,<br>se non per ucciderlo? |
+| GUIDO | Conte Moranzone,<br>ho in animo di salire alla camera del duca,<br>e mentre giace addormentato posargli sul petto<br>il pugnale e questo scritto; quando si desterà<br>saprà chi lo tenne in suo potere<br>e non l’uccise: questa è la più nobile vendetta<br>ch’io possa prendere. |
+| MORANZONE | Non l’ucciderai? |
+| GUIDO | No. |
+| MORANZONE | Ignobile figlio d’un nobile padre,<br>che lasci vivere un’ora l’uomo<br>che vendette quel padre. |
+| GUIDO | Foste voi a trattenermi;<br>l’avrei ucciso nella pubblica piazza,<br>il giorno che lo vidi la prima volta. |
+| MORANZONE | Non era ancora [[Time\|tempo]];<br>ora è [[Time\|tempo]], e, come una ragazzetta dal viso verde,<br>ciarli di [[Forgiveness\|perdono]]. |
+| GUIDO | No! di [[Revenge\|vendetta]]:<br>la giusta [[Revenge\|vendetta]] che il figlio di mio padre deve prendere. |
+| MORANZONE | Sei un codardo,<br>cava fuori il coltello, sali alla camera del duca,<br>e riportami il suo cuore sulla lama.<br>Quando sarà morto, allora potrai parlarmi<br>di nobili vendette. |
+| GUIDO | Sul tuo [[Honour\|onore]],<br>e per l’[[Love\|amore]] che porti al nome di mio padre,<br>credi tu che mio padre, quel gran gentiluomo,<br>quel generoso soldato, quel signore cavallerescissimo,<br>si sarebbe insinuato di [[Night\|notte]] [[Time\|tempo]], come un ladro volgare,<br>a pugnalare un vecchio addormentato nel suo letto,<br>per quanto quegli l’avesse offeso: dimmelo tu. |
+| *(didascalia)* | [dopo qualche esitazione] |
+| MORANZONE | Hai giurato un giuramento, bada di mantenerlo.<br>Ragazzo, credi ch’io non sappia il tuo segreto,<br>il tuo commercio con la duchessa? |
+| GUIDO | [[Silence\|Taci]], bugiardo!<br>La [[Moon\|luna]] stessa nel cielo non è più casta.<br>Né le bianche [[Stars\|stelle]] così pure. |
+| MORANZONE | Eppure tu l’[[Love\|ami]];<br>debole [[Fool\|sciocco]], a lasciar entrare l’[[Love\|amore]] nella tua vita,<br>se non come un balocco. |
+| GUIDO | Fate [[Well\|bene]] a parlare:<br>nelle vostre vene, vecchio, il polso della giovinezza<br>non batte più d’ardore.  I vostri occhi pieni di cispa<br>hanno chiuso alla [[Beauty\|Bellezza]] le loro porte velate,<br>e i vostri orecchi otturati, perduto il senso naturale,<br>v’hanno serrato fuori dalla musica del mondo.<br>Voi parlate d’[[Love\|amore]]!  Non sapete che cosa sia. |
+| MORANZONE | Oh, al mio [[Time\|tempo]], ragazzo, ho camminato nella [[Moon\|luna]],<br>giurai che avrei vissuto di baci e di delizie,<br>giurai che sarei morto d’[[Love\|amore]], e non morii,<br>scrissi cattivi versi d’[[Love\|amore]]; sì, e li cantai male,<br>come tutti i veri [[lovers\|amanti]]: oh, ho fatto anch’io quei giochi!<br>Conosco i distacchi e le alcove;<br>al meglio siamo tutti [[Animals\|animali]], e l’[[Love\|amore]]<br>non è che passione con un nome santo. |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_03" data-title="The Duchess of Padua — Act 3 [3]" data-chapter="part 03" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/rose,motif/spring"></span>
@@ -847,6 +1514,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | GUIDO | Now then I know you have not loved at all.<br>[[Love]] is the sacrament of life; it sets<br>Virtue where virtue was not; cleanses men<br>Of all the vile pollutions of this world;<br>It is the [[Fire\|fire]] which purges gold from dross,<br>It is the fan which winnows wheat from chaff,<br>It is the [[spring]] which in some wintry soil<br>Makes [[innocence]] to blossom like a [[Rose\|rose]].<br>The days are over when God walked with men,<br>But [[Love]], which is his image, holds his place.<br>When a man loves a woman, then he knows<br>God’s secret, and the secret of the world.<br>There is no [[house]] so lowly or so mean,<br>Which, if their hearts be pure who live in it,<br>[[Love]] will not enter; but if bloody murder<br>Knock at the Palace gate and is let in,<br>[[Love]] like a wounded thing creeps out and dies.<br>This is the punishment God sets on sin.<br>The wicked cannot [[Love\|love]]. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | Ora so dunque che non avete amato affatto.<br>L’[[Love\|Amore]] è il sacramento della vita; pone<br>la virtù dove virtù non era; monda gli uomini<br>di tutte le vili sozzure di questo mondo;<br>è il [[Fire\|fuoco]] che purga l’oro dalla scoria,<br>è il ventilabro che separa il grano dalla pula,<br>è la [[spring\|primavera]] che in qualche suolo invernale<br>fa fiorire l’[[innocence\|innocenza]] come una [[Rose\|rosa]].<br>Sono finiti i giorni in cui Dio camminava con gli uomini,<br>ma l’[[Love\|Amore]], che è la sua immagine, ne tiene il posto.<br>Quando un uomo ama una donna, allora conosce<br>il segreto di Dio, e il segreto del mondo.<br>Non v’è [[house\|casa]] tanto umile o meschina<br>in cui, se sono puri i cuori di chi vi abita,<br>l’[[Love\|Amore]] non entri; ma se il sanguinoso assassinio<br>bussa alla porta del Palazzo ed è lasciato entrare,<br>l’[[Love\|Amore]] come cosa ferita striscia via e muore.<br>Questa è la pena che Dio pone sul peccato.<br>I malvagi non sanno [[Love\|amare]]. |
 
 
 
@@ -882,6 +1555,36 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [Gets out of [[Window\|window]] and exit by rope ladder.] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [Un gemito viene dalla camera del DUCA.] |
+| GUIDO | Ah!  Che cos’è?<br>Non udite?  Non era nulla.<br>Così io penso<br>che sia missione delle donne, col loro [[Love\|amore]],<br>salvare le anime degli uomini: e amando lei,<br>la mia Signora, la mia bianca [[Beatrice]], comincio<br>a vedere una vendetta più nobile e più santa<br>nel lasciar vivere quest’uomo, che non risieda<br>in sanguinose imprese di [[Night\|notte]], pugnalate nel buio,<br>e giovani mani strette a una gola tremante.<br>Fu, credo, per amore dell’[[Love\|amore]] che il Signore [[Christ\|Cristo]],<br>il quale era anzi egli stesso [[Love\|Amore]] incarnato,<br>comandò a ogni uomo di perdonare il proprio nemico. |
+| *(didascalia)* | [beffardamente] |
+| MORANZONE | Quello fu in Palestina, non a Padova;<br>e fu detto per i santi: io ho a che fare con gli uomini. |
+| GUIDO | Fu detto per ogni [[Time\|tempo]]. |
+| MORANZONE | E la vostra bianca duchessa,<br>che farà per ringraziarvi? |
+| GUIDO | Ahimè, non rivedrò più il suo volto.<br>Son passate appena dodici ore da quando la lasciai,<br>così d’un tratto, e con tale violenta passione,<br>che ormai ha chiuso il cuore contro di me:<br>no, non la vedrò mai più. |
+| MORANZONE | Che farete? |
+| GUIDO | Dopo aver posto là il pugnale,<br>partirò sta[[Night\|notte]] stessa da Padova. |
+| MORANZONE | E poi? |
+| GUIDO | Prenderò servizio col Doge a [[Venice\|Venezia]],<br>e lo pregherò di spedirmi diritto alla guerra,<br>e là, ormai stanco della vita,<br>getterò quella povera vita contro qualche lancia disperata. |
+| *(didascalia)* | [Di nuovo un gemito dalla camera del DUCA.] |
+| GUIDO | Non avete udito una voce? |
+| MORANZONE | Odo sempre,<br>dai fiochi confini di qualche sepolcro,<br>una voce che grida vendetta.  Perdiamo [[Time\|tempo]],<br>presto sarà mattino; siete risoluto<br>a non uccidere il duca? |
+| GUIDO | Sono risoluto. |
+| MORANZONE | O misero padre, che giaci invendicato. |
+| GUIDO | Più misero, se tuo figlio fosse un assassino. |
+| MORANZONE | Ma che cos’è la vita? |
+| GUIDO | Non lo so, mio signore,<br>non fui io a darla, e non oso toglierla. |
+| MORANZONE | Non ringrazio Dio spesso; ma credo<br>di ringraziarlo ora di non aver figli!<br>E voi, che [[Blood\|sangue]] bastardo vi scorre nelle vene<br>se, avendo il nemico stretto nel pugno,<br>lo lasciate andare!  Vorrei avervi lasciato<br>coi rozzi villani che vi allevarono. |
+| GUIDO | Forse era meglio<br>che l’aveste fatto!  Forse era meglio ancora<br>ch’io non fossi nato a questo mondo angoscioso. |
+| MORANZONE | Addio! |
+| GUIDO | Addio!  Un giorno, conte Moranzone,<br>capirete la mia vendetta. |
+| MORANZONE | Mai, ragazzo. |
+| *(didascalia)* | [Esce dalla [[Window\|finestra]] e se ne va per la scala di corda.] |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_05" data-title="The Duchess of Padua — Act 3 [5]" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/night"></span>
@@ -891,6 +1594,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | GUIDO | Father, I think thou knowest my resolve,<br>And with this nobler vengeance art content.<br>Father, I think in letting this man live<br>That I am doing what thou wouldst have done.<br>Father, I know not if a human voice<br>Can pierce the iron gateway of the dead,<br>Or if the dead are set in ignorance<br>Of what we do, or do not, for their sakes.<br>And yet I feel a presence in the air,<br>There is a [[Shadow\|shadow]] standing at my side,<br>And ghostly kisses seem to touch my lips,<br>And leave them holier.  [Kneels down.]<br>O father, if ’tis thou,<br>Canst thou not burst through the decrees of [[Death\|death]],<br>And if corporeal semblance show thyself,<br>That I may touch thy hand!<br>No, there is nothing.  [Rises.]<br>’Tis the [[Night\|night]] that cheats us with its phantoms,<br>And, like a puppet-master, makes us think<br>That things are real which are not.  It grows late.<br>Now must I to my business. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | Padre, credo che tu conosca la mia risoluzione,<br>e di questa più nobile vendetta sia contento.<br>Padre, credo che nel lasciar vivere quest’uomo<br>io faccia ciò che tu avresti fatto.<br>Padre, non so se una voce umana<br>possa varcare il ferreo portale dei morti,<br>o se i morti siano tenuti nell’ignoranza<br>di ciò che facciamo, o non facciamo, per amor loro.<br>Eppure sento una presenza nell’aria,<br>c’è un’[[Shadow\|ombra]] che sta al mio fianco,<br>e baci spettrali paiono toccarmi le labbra,<br>e lasciarle più sante.  [S’inginocchia.]<br>O padre, se sei tu,<br>non puoi irrompere attraverso i decreti della [[Death\|morte]],<br>e in corporea sembianza mostrarti,<br>ch’io possa toccare la tua mano!<br>No, non c’è nulla.  [Si alza.]<br>È la [[Night\|notte]] che ci inganna coi suoi fantasmi,<br>e, come un burattinaio, ci fa credere<br>reali cose che non lo sono.  Si fa tardi.<br>Ora devo alla mia opera. |
 
 
 
@@ -925,6 +1634,35 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | Will you not kiss me now?<br>Do you remember saying that women’s [[Love\|love]]<br>Turns men to angels? [[Well\|well]], the [[Love\|love]] of man<br>Turns women into martyrs; for its sake<br>We do or suffer anything. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [Cava una lettera dal farsetto e la legge.] |
+| GUIDO | Quando si desterà,<br>e vedrà questa lettera, e con essa il pugnale,<br>non proverà qualche disgusto per la sua vita,<br>non si pentirà, forse, e vivrà meglio,<br>o si farà beffe perché un giovane ha risparmiato<br>il suo naturale nemico?  Non me ne curo.<br>Padre, è il tuo comando ch’io eseguo,<br>il tuo comando, e il comando del mio [[Love\|amore]]<br>che m’insegna a conoscerti quale sei. |
+| *(didascalia)* | [Sale la scala furtivamente, e proprio mentre stende la mano per scostare la tenda appare la Duchessa tutta in bianco.  GUIDO indietreggia.] |
+| DUCHESSA | Guido! che fai qui a quest’ora tarda? |
+| GUIDO | O bianco e immacolato angelo della mia vita,<br>certo sei venuta dal Cielo con un messaggio:<br>che la [[Mercy\|misericordia]] è più nobile della [[Revenge\|vendetta]]? |
+| DUCHESSA | Ora non c’è più barriera fra noi. |
+| GUIDO | Nessuna, [[Love\|amore]], né vi sarà. |
+| DUCHESSA | A questo ho provveduto io. |
+| GUIDO | Attendimi qui. |
+| DUCHESSA | No, non te ne vai?<br>Non mi lascerai come facesti prima? |
+| GUIDO | Tornerò nello spazio d’un istante,<br>ma prima devo recarmi alla camera del duca,<br>e lasciarvi questa lettera e questo pugnale,<br>perché quando si desterà — |
+| DUCHESSA | Quando chi si desterà? |
+| GUIDO | Ma il duca. |
+| DUCHESSA | Non si desterà mai più. |
+| GUIDO | Come, è morto? |
+| DUCHESSA | Sì! è morto. |
+| GUIDO | O Dio! come sono mirabili<br>tutte le tue vie segrete!  Chi avrebbe detto<br>che proprio in questa [[Night\|notte]], quand’io avevo rimesso<br>nelle tue mani la vendetta che è tua,<br>tu col tuo dito avresti toccato quell’uomo,<br>e gli avresti ordinato di comparire al tuo seggio di giudizio. |
+| DUCHESSA | L’ho ucciso proprio ora. |
+| GUIDO | [inorridito]  Oh! |
+| DUCHESSA | Dormiva;<br>vieni più vicino, [[Love\|amore]], e ti dirò tutto.<br>Avevo risoluto di uccidermi sta[[Night\|notte]].<br>Circa un’ora fa mi destai dal [[Sleep\|sonno]],<br>e presi il mio pugnale di sotto il guanciale,<br>dove l’avevo nascosto per il mio bisogno,<br>e lo trassi dal fodero, e ne provai il filo,<br>e pensai a te, e a quanto t’amavo, Guido,<br>e mi volsi per cadervi sopra, quando notai<br>il vecchio addormentato, colmo d’anni e di peccato;<br>là giaceva borbottando maledizioni nel [[Sleep\|sonno]],<br>e mentre guardavo il suo volto malvagio<br>d’un tratto come una fiamma mi balenò dentro:<br>ecco la barriera di cui parlava Guido;<br>tu dicesti che fra noi stava una barriera:<br>quale barriera se non lui? —<br>A stento so<br>che cosa accadde, ma una nebbia fumante di [[Blood\|sangue]]<br>si [[Rose\|levò]] fra noi due. |
+| GUIDO | Oh, orribile! |
+| DUCHESSA | E poi gemette,<br>e poi non gemette più!  Non udii altro<br>che il gocciolare del [[Blood\|sangue]] sul pavimento. |
+| GUIDO | Basta, basta. |
+| DUCHESSA | Non vuoi baciarmi ora?<br>Ricordi d’aver detto che l’[[Love\|amore]] delle donne<br>muta gli uomini in angeli? [[Well\|Ebbene]], l’[[Love\|amore]] dell’uomo<br>muta le donne in martiri; per amor suo<br>facciamo o patiamo qualunque cosa. |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_07" data-title="The Duchess of Padua — Act 3 [7]" data-chapter="part 07" data-kind="excerpt" data-tags="motif/blood,motif/love,motif/night,motif/poison,motif/soul,motif/well,concept/wonder"></span>
@@ -954,6 +1692,31 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | Then slay me now!  I have spilt [[Blood\|blood]] to-[[Night\|night]],<br>You shall spill more, so we go hand in hand<br>To heaven or to hell.  Draw your [[Sword\|sword]], Guido.<br>Quick, let your [[Soul\|soul]] go chambering in my heart,<br>It will but find its master’s image there.<br>Nay, if you will not slay me with your [[Sword\|sword]],<br>Bid me to fall upon this reeking knife,<br>And I will do it. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | O Dio! |
+| DUCHESSA | Non vuoi parlare? |
+| GUIDO | Non posso parlare affatto. |
+| DUCHESSA | Non parliamone!  Andiamo via di qui:<br>non è forse abbattuta la barriera fra noi?<br>Che vuoi di più?  Vieni, è quasi mattino. |
+| *(didascalia)* | [Posa la mano su quella di GUIDO.] |
+| *(didascalia)* | [staccandosi da lei] |
+| GUIDO | O santa dannata!  O angelo fresco d’Inferno!<br>Qual demonio sanguinario ti tentò a questo!<br>Che tu abbia ucciso tuo marito, non è nulla —<br>l’Inferno già spalancava le fauci per la sua [[Soul\|anima]] —<br>ma tu hai assassinato l’[[Love\|Amore]], e al suo posto<br>hai messo una cosa orribile e insanguinata,<br>il cui fiato stesso genera pestilenza e peste,<br>e strangola l’[[Love\|Amore]]. |
+| *(didascalia)* | [in stupito [[Wonder\|sbigottimento]]] |
+| DUCHESSA | L’ho fatto tutto per te.<br>Non avrei voluto che lo facessi tu, pur volendolo,<br>ché volevo serbarti senza macchia né taccia,<br>cosa illibata, inviolata, non appannata.<br>Gli uomini non sanno che cosa fanno le donne per [[Love\|amore]].<br>Non ho forse rovinato la mia [[Soul\|anima]] per amor tuo,<br>qui e nell’al di là? |
+| GUIDO | No, non toccarmi,<br>fra noi corre un sottile rivo rosso di [[Blood\|sangue]];<br>non oso guardare oltre: quando lo pugnalasti<br>pugnalasti al cuore l’[[Love\|Amore]] con lama acuta.<br>Non possiamo incontrarci mai più. |
+| *(didascalia)* | [torcendosi le mani] |
+| DUCHESSA | Per te!  Per te!<br>L’ho fatto tutto per te: l’hai dimenticato?<br>Dicesti che fra noi stava una barriera;<br>quella barriera ora giace nella camera di sopra<br>rovesciata, abbattuta, percossa e atterrata,<br>e non ci separerà mai più. |
+| GUIDO | No, t’ingannasti:<br>il peccato era la barriera, e tu l’hai eretta;<br>il delitto era la barriera, e tu ve l’hai posta.<br>La barriera era l’assassinio, e la tua mano<br>l’ha costruita tanto alta che serra fuori il cielo,<br>serra fuori Dio. |
+| DUCHESSA | L’ho fatto tutto per te;<br>non osi lasciarmi ora: no, Guido, ascolta.<br>Fa’ preparare cavalli, fuggiremo sta[[Night\|notte]].<br>Il passato è un brutto sogno, lo scorderemo:<br>dinanzi a noi sta il futuro: non avremo forse<br>dolci giorni d’[[Love\|amore]] sotto le nostre viti, e riso? —<br>No, no, non rideremo, ma, quando piangeremo,<br>[[Well\|ebbene]], piangeremo insieme; io ti servirò;<br>sarò mitissima e dolcissima:<br>tu non mi conosci. |
+| GUIDO | No, ora ti conosco;<br>va’ via, ti dico, fuori dalla mia vista. |
+| *(didascalia)* | [andando su e giù] |
+| DUCHESSA | O Dio,<br>quanto ho amato quest’uomo! |
+| GUIDO | Non m’hai mai amato.<br>Se fosse stato così, l’[[Love\|Amore]] t’avrebbe fermato la mano.<br>Come potremmo sedere insieme alla mensa dell’[[Love\|Amore]]?<br>Hai versato [[Poison\|veleno]] nel vino sacro,<br>e l’Assassinio intinge le dita nel boccone. |
+| *(didascalia)* | [si getta in ginocchio] |
+| DUCHESSA | Allora uccidimi ora!  Ho sparso [[Blood\|sangue]] sta[[Night\|notte]],<br>tu ne spargerai ancora, così andremo mano nella mano<br>in cielo o all’inferno.  Sguaina la tua [[Sword\|spada]], Guido.<br>Presto, lascia che la tua [[Soul\|anima]] vada a frugare nel mio cuore,<br>non vi troverà che l’immagine del suo padrone.<br>No, se non vuoi uccidermi con la tua [[Sword\|spada]],<br>ordinami di cadere su questo coltello fumante,<br>e lo farò. |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_08" data-title="The Duchess of Padua — Act 3 [8]" data-chapter="part 08" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/dust,motif/fire,motif/home,motif/love,motif/night,motif/soul,motif/time,motif/well,concept/guilt"></span>
@@ -980,6 +1743,28 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | No [[Love\|love]] where there is any [[Guilt\|guilt]]!  O God,<br>How differently do we [[Love\|love]] from men!<br>There is many a woman here in Padua,<br>Some workman’s wife, or ruder artisan’s,<br>Whose husband spends the wages of the week<br>In a coarse revel, or a tavern brawl,<br>And reeling [[Home\|home]] late on the Saturday [[Night\|night]],<br>Finds his wife sitting by a fireless hearth,<br>Trying to hush the [[Child\|child]] who cries for hunger,<br>And then sets to and beats his wife because<br>The [[Child\|child]] is hungry, and the [[Fire\|fire]] black.<br>Yet the wife loves him! and will rise next day<br>With some red bruise across a careworn face,<br>And sweep the [[house]], and do the common service,<br>And try and smile, and only be too glad<br>If he does not beat her a second [[Time\|time]]<br>Before her [[Child\|child]]! - that is how women [[Love\|love]]. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [strappandole il coltello] |
+| GUIDO | Dammelo, ti dico.<br>O Dio, le tue stesse mani son bagnate di [[Blood\|sangue]]!<br>Questo luogo è l’Inferno, non posso restarvi.<br>Ti prego, ch’io non veda mai più il tuo volto. |
+| DUCHESSA | Meglio per me se non avessi veduto il tuo. |
+| *(didascalia)* | [GUIDO indietreggia: ella, inginocchiandosi, gli afferra le mani.] |
+| DUCHESSA | No, Guido, ascolta un poco:<br>fino a che non venisti a Padova io vissi<br>ben misera, ma senza pensiero d’assassinio,<br>assai sottomessa a un signore crudele,<br>assai obbediente a ingiusti comandi,<br>pura, credo, quanto qualunque gentile fanciulla<br>che ora si volgerebbe con orrore dalle mie mani — |
+| *(didascalia)* | [Si alza.] |
+| DUCHESSA | Venisti tu: ah!  Guido, le prime parole gentili<br>che udii da quando ero venuta di Francia<br>furono dalle tue labbra: [[Well\|ebbene]], [[Well\|ebbene]], non importa.<br>Venisti, e nella passione dei tuoi occhi<br>lessi il senso dell’[[Love\|amore]]; ogni cosa che dicevi<br>toccava a musica la mia [[Soul\|anima]] muta, e così t’amai.<br>Eppure non ti dissi del mio [[Love\|amore]].<br>Fosti tu a cercarmi, a inginocchiarti ai miei piedi<br>come io ora m’inginocchio ai tuoi, e con dolci voti, |
+| *(didascalia)* | [S’inginocchia.] |
+| DUCHESSA | la cui musica par che m’indugi negli orecchi,<br>giurasti che m’amavi, e io mi fidai di te.<br>Credo che vi siano al mondo molte donne<br>che t’avrebbero tentato a uccidere quell’uomo.<br>Io non lo feci.<br>Eppure so che se l’avessi fatto,<br>non sarei ora così umiliata nella [[Dust\|polvere]], |
+| *(didascalia)* | [Si alza.] |
+| DUCHESSA | ma tu m’avresti amata fedelissimamente. |
+| *(didascalia)* | [Dopo una pausa gli si avvicina timidamente.] |
+| DUCHESSA | Non credo che tu mi comprenda, Guido:<br>fu per amor tuo ch’io compii questa cosa<br>il cui orrore ora m’agghiaccia in ghiaccio il giovane [[Blood\|sangue]],<br>per amor tuo soltanto.  [Stendendo il braccio.]<br>Non vuoi parlarmi?<br>[[Love\|Amami]] un poco: nella mia vita di fanciulla<br>sono stata affamata d’[[Love\|amore]], e la benignità<br>m’è passata accanto. |
+| GUIDO | Non oso guardarti:<br>vieni a me con favore troppo dichiarato;<br>torna dalle tue cameriere. |
+| DUCHESSA | Sì, ecco!<br>Ecco l’uomo che parla! eppure se tu fossi venuto a me<br>con qualche grave peccato sull’[[Soul\|anima]],<br>qualche assassinio commesso per mercede, non per [[Love\|amore]],<br>ebbene, io avrei vegliato seduta al tuo capezzale<br>per tutta la [[Night\|notte]] [[Time\|tempo]], perché il Rimorso non venisse<br>a versarti i suoi veleni nell’orecchio, e così<br>a toglierti il sonno!  Certo sono i colpevoli<br>che, essendo assai miseri, hanno più bisogno d’[[Love\|amore]]. |
+| GUIDO | Non v’è [[Love\|amore]] dove v’è [[Guilt\|colpa]]. |
+| DUCHESSA | Non v’è [[Love\|amore]] dove v’è [[Guilt\|colpa]]!  O Dio,<br>quanto diversamente [[Love\|amiamo]] noi dagli uomini!<br>Vi è più d’una donna qui in Padova,<br>moglie di qualche operaio, o d’artigiano più rozzo,<br>il cui marito spende la paga della settimana<br>in una gozzoviglia grossolana, o in una rissa d’osteria,<br>e barcollando verso [[Home\|casa]] tardi il sabato a [[Night\|notte]],<br>trova la moglie seduta presso un focolare spento,<br>che tenta di far tacere il [[Child\|bambino]] che piange di fame,<br>e allora si mette a picchiare la moglie perché<br>il [[Child\|bambino]] ha fame, e il [[Fire\|fuoco]] è nero.<br>Eppure la moglie l’ama! e si alzerà il giorno dopo<br>con qualche livido rosso sul viso segnato dagli affanni,<br>e scoperà la [[house\|casa]], e farà i servizi comuni,<br>e cercherà di sorridere, e sarà anche troppo lieta<br>se egli non la picchierà una seconda [[Time\|volta]]<br>davanti al suo [[Child\|bambino]]! — ecco come [[Love\|amano]] le donne. |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_09" data-title="The Duchess of Padua — Act 3 [9]" data-chapter="part 09" data-kind="excerpt" data-tags="archetype/ghost,motif/love,motif/soul,concept/hope"></span>
@@ -994,6 +1779,16 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Away, away,<br>And come not back till you have waked your dead. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [Una pausa: GUIDO non dice nulla.] |
+| DUCHESSA | Credo che non mi scaccerai dal tuo fianco.<br>Dove devo andare se tu mi respingi? —<br>tu per amor del quale questa mano ha ucciso una vita,<br>tu per amor del quale la mia [[Soul\|anima]] s’è rovinata<br>oltre ogni [[Hope\|speranza]] di perdono. |
+| GUIDO | Vattene:<br>il morto è un [[Ghost\|fantasma]], e anche il nostro [[Love\|amore]]<br>svolazza come un [[Ghost\|fantasma]] intorno alla sua tomba desolata,<br>e vaga per questa [[house\|casa]] d’ossa, e piange<br>perché quando uccidesti il tuo signore uccidesti anche lui.<br>Non vedi? |
+| DUCHESSA | Vedo che quando gli uomini [[Love\|amano]] le donne<br>danno loro solo un poco della propria vita,<br>ma le donne quando [[Love\|amano]] danno tutto;<br>ora lo vedo, Guido. |
+| GUIDO | Via, via,<br>e non tornare finché non avrai destato il tuo morto. |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_10" data-title="The Duchess of Padua — Act 3 [10]" data-chapter="part 10" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/night,motif/time,motif/winter"></span>
@@ -1003,6 +1798,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | DUCHESS | I would to God that I could wake the dead,<br>Put vision in the glazéd eves, and give<br>The tongue its natural utterance, and bid<br>The heart to beat again: that cannot be:<br>For what is done, is done: and what is dead<br>Is dead for ever: the [[Fire\|fire]] cannot warm him:<br>The [[Winter\|winter]] cannot hurt him with its snows;<br>Something has gone from him; if you call him now,<br>He will not answer; if you mock him now,<br>He will not laugh; and if you stab him now<br>He will not bleed.<br>I would that I could wake him!<br>O God, put back the sun a little space,<br>And from the roll of [[Time\|time]] blot out to-[[Night\|night]],<br>And bid it not have been!  Put back the sun,<br>And make me what I was an hour ago!<br>No, no, [[Time\|time]] will not stop for anything,<br>Nor the sun stay its courses, though Repentance<br>Calling it back grow hoarse; but you, my [[Love\|love]],<br>Have you no word of pity even for me?<br>O Guido, Guido, will you not kiss me once?<br>Drive me not to some desperate resolve:<br>Women grow mad when they are treated thus:<br>Will you not kiss me once? |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | Volesse Dio ch’io potessi destare i morti,<br>rimettere la vista negli occhi vitrei, e ridare<br>alla lingua la sua parola naturale, e ordinare<br>al cuore di battere ancora: non può essere:<br>ché ciò che è fatto, è fatto: e ciò che è morto<br>è morto per sempre: il [[Fire\|fuoco]] non può scaldarlo:<br>l’[[Winter\|inverno]] non può ferirlo con le sue nevi;<br>qualcosa se n’è andato da lui; se lo chiami ora,<br>non risponderà; se lo schernisci ora,<br>non riderà; e se lo pugnali ora<br>non sanguinerà.<br>Vorrei poterlo destare!<br>O Dio, riporta indietro il sole d’un poco,<br>e dal rotolo del [[Time\|tempo]] cancella sta[[Night\|notte]],<br>e ordina che non sia stata!  Riporta indietro il sole,<br>e fammi quella ch’ero un’ora fa!<br>No, no, il [[Time\|tempo]] non si ferma per nulla,<br>né il sole arresta il suo corso, benché il Pentimento<br>si faccia roco a richiamarlo; ma tu, [[Love\|amore]] mio,<br>non hai una parola di pietà nemmeno per me?<br>O Guido, Guido, non vuoi baciarmi una volta sola?<br>Non spingermi a qualche disperato partito:<br>le donne impazziscono quando sono trattate così:<br>non vuoi baciarmi una volta sola? |
 
 
 
@@ -1019,6 +1820,17 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [coming down a few steps.] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [levando in alto il coltello] |
+| GUIDO | Non ti bacerò<br>finché il [[Blood\|sangue]] non si sarà seccato su questo coltello,<br>[Con smarrimento]  Torna al tuo morto! |
+| *(didascalia)* | [salendo le scale] |
+| DUCHESSA | Ebbene, allora me ne andrò! e possa tu trovare<br>più [[Mercy\|misericordia]] di quanta ne mostrasti a me sta[[Night\|notte]]! |
+| GUIDO | Ch’io trovi [[Mercy\|misericordia]] quando andrò di [[Night\|notte]]<br>a commettere turpe assassinio. |
+| *(didascalia)* | [scendendo qualche gradino.] |
+
 
 
 <span class="atom-split" data-atom="act_3--scene_1--part_12" data-title="The Duchess of Padua — Act 3 [12]" data-chapter="part 12" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/moon,motif/night,motif/stars,motif/storm,motif/tears,motif/wind"></span>
@@ -1028,6 +1840,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | DUCHESS | Murder did you say?<br>Murder is hungry, and still cries for more,<br>And [[Death]], his brother, is not satisfied,<br>But walks the [[house]], and will not go away,<br>Unless he has a comrade!  Tarry, [[Death]],<br>For I will give thee a most faithful lackey<br>To travel with thee!  Murder, call no more,<br>For thou shalt eat thy fill.<br>There is a [[Storm\|storm]]<br>Will break upon this [[house]] before the morning,<br>So horrible, that the white [[Moon\|moon]] already<br>Turns grey and sick with terror, the low [[Wind\|wind]]<br>Goes moaning round the [[house]], and the high [[Stars\|stars]]<br>Run madly through the vaulted firmament,<br>As though the [[Night\|night]] wept [[Tears\|tears]] of liquid [[Fire\|fire]]<br>For what the day shall look upon.  Oh, weep,<br>Thou lamentable heaven!  Weep thy fill!<br>Though sorrow like a cataract drench the fields,<br>And make the earth one bitter lake of [[Tears\|tears]],<br>It would not be enough.  [A peal of thunder.]<br>Do you not hear,<br>There is artillery in the Heaven to-[[Night\|night]].<br>Vengeance is wakened up, and has unloosed<br>His [[dogs]] upon the world, and in this matter<br>Which lies between us two, let him who draws<br>The thunder on his head beware the ruin<br>Which the forked flame brings after. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | Assassinio hai detto?<br>L’Assassinio ha fame, e grida ancora per averne di più,<br>e la [[Death\|Morte]], suo fratello, non è sazia,<br>ma percorre la [[house\|casa]], e non vuole andarsene,<br>se non ha un compagno!  Indugia, [[Death\|Morte]],<br>ché ti darò un lacchè fedelissimo<br>che viaggi con te!  Assassinio, non chiamare più,<br>ché mangerai a sazietà.<br>Vi è una [[Storm\|tempesta]]<br>che si abbatterà su questa [[house\|casa]] prima del mattino,<br>così orribile, che la bianca [[Moon\|luna]] già<br>si fa grigia e malata di terrore, il [[Wind\|vento]] basso<br>va gemendo intorno alla [[house\|casa]], e le alte [[Stars\|stelle]]<br>corrono all’impazzata per il firmamento a volta,<br>come se la [[Night\|notte]] piangesse [[Tears\|lacrime]] di [[Fire\|fuoco]] liquido<br>per ciò che il giorno dovrà vedere.  Oh, piangi,<br>o cielo lamentevole!  Piangi a sazietà!<br>Se anche il dolore come una cateratta inondasse i campi,<br>e facesse della terra un solo amaro lago di [[Tears\|lacrime]],<br>non basterebbe.  [Uno scoppio di tuono.]<br>Non odi?<br>Vi è artiglieria nel Cielo sta[[Night\|notte]].<br>La Vendetta s’è destata, e ha sciolto<br>i suoi [[dogs\|cani]] sul mondo, e in questa faccenda<br>che sta fra noi due, colui che tira<br>il tuono sul proprio capo si guardi dalla rovina<br>che la fiamma biforcuta si trascina dietro. |
 
 
 
@@ -1049,6 +1867,23 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [Down the staircase comes hurrying a confused [[Body\|body]] of Soldiers; GUIDO is not seen at first, till the DUCHESS surrounded by Servants carrying torches appears at the top of the staircase, and points to GUIDO, who is seized at once, one of the Soldiers dragging the knife from his hand and showing it to the Captain of the Guard in sight of the audience.  Tableau.] |
 | END OF | ACT III. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [Un [[Lightning\|lampo]] seguito da uno scoppio di tuono.] |
+| GUIDO | Via! via! |
+| *(didascalia)* | [Esce la DUCHESSA, la quale, mentre solleva la tenda cremisi, si volge un istante a guardare GUIDO, ma egli non fa segno.  Altri tuoni.] |
+| GUIDO | Ora la vita è caduta in cenere ai miei piedi<br>e il nobile [[Love\|amore]] s’è ucciso da [[Self\|sé]]; e al suo posto<br>è strisciato l’assassinio coi suoi piedi silenziosi e sanguinosi.<br>E colei che lo compì — Oh! eppure ella m’amava,<br>e per amor mio fece questa cosa spaventosa.<br>Sono stato crudele con lei: [[Beatrice]]!<br>[[Beatrice]], dico, torna indietro. |
+| *(didascalia)* | [Comincia a salire la scala, quando si ode il rumore di Soldati.] |
+| GUIDO | Ah! che cos’è?<br>Torce accese, e rumore di passi affrettati.<br>Voglia Dio che non l’abbiano presa. |
+| *(didascalia)* | [Il rumore si fa più forte.] |
+| GUIDO | [[Beatrice]]!<br>C’è ancora [[Time\|tempo]] di fuggire.  Scendi, esci! |
+| *(didascalia)* | [La voce della DUCHESSA di fuori.] |
+| GUIDO | Di qua è andato, l’uomo che uccise il mio signore. |
+| *(didascalia)* | [Giù per la scala scende in fretta un confuso [[Body\|corpo]] di Soldati; GUIDO dapprima non è veduto, finché la DUCHESSA, circondata da Servi che portano torce, appare in cima alla scala, e addita GUIDO, che è subito afferrato, mentre uno dei Soldati gli strappa il coltello di mano e lo mostra al Capitano della Guardia in vista del pubblico.  Quadro.] |
+| FINE DELL’ | ATTO III. |
 
 
 
@@ -1080,6 +1915,33 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | MISTRESS LUCY | O [[Well\|well]]-a-day!  O miserable day!  O day!  O misery!  Why it is just nineteen years last June, at Michaelmas, since I was married to my husband, and it is August now, and here is the Duke murdered; there is a coincidence for you! |
 | SECOND CITIZEN | Why, if it is a coincidence, they may not kill the young man: there is no law against coincidences. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | SCENA<br>La [[Court\|Corte]] di Giustizia: le pareti sono parate di velluto grigio impresso: sopra i parati il muro è rosso, e figure simboliche dorate reggono il soffitto, fatto di travi rosse con sofitti e modanature grigie: un baldacchino di raso bianco fiorito d’oro è disposto per la Duchessa: sotto di esso una lunga panca con drappo rosso per i Giudici: più sotto un tavolo per i cancellieri della [[Court\|corte]].  Due soldati stanno ai due lati del baldacchino, e due soldati custodiscono la porta; alcuni dei cittadini si sono raccolti nella [[Court\|Corte]]; altri entrano salutandosi l’un l’altro; due mazzieri in violetto mantengono l’ordine con lunghe verghe bianche. |
+| PRIMO CITTADINO | Buon giorno, vicino Antonio. |
+| SECONDO CITTADINO | Buon giorno, vicino Dominick. |
+| PRIMO CITTADINO | È un giorno strano per Padova, non è vero? — essendo morto il duca. |
+| SECONDO CITTADINO | Ti dico, vicino Dominick, che non ho conosciuto un giorno simile da quando morì l’ultimo duca. |
+| PRIMO CITTADINO | Prima lo processeranno, e poi lo condanneranno, non è così, vicino Antonio? |
+| SECONDO CITTADINO | Ma no, ché allora potrebbe scampare al castigo; lo condanneranno prima, così che abbia il suo merito, e gli faranno il processo dopo, così che non si commetta ingiustizia. |
+| PRIMO CITTADINO | [[Well\|Ebbene]], [[Well\|ebbene]], gli andrà male, non ne [[Doubt\|dubito]]. |
+| SECONDO CITTADINO | Certo è cosa grave versare il [[Blood\|sangue]] d’un duca. |
+| TERZO CITTADINO | Dicono che un duca abbia il [[Blood\|sangue]] azzurro. |
+| SECONDO CITTADINO | Io credo che il [[Blood\|sangue]] del nostro duca fosse nero come la sua [[Soul\|anima]]. |
+| PRIMO CITTADINO | Sta’ in guardia, vicino Antonio, l’ufficiale ti guarda. |
+| SECONDO CITTADINO | Non m’importa che mi guardi soltanto; non può frustarmi con le ciglia dei suoi occhi. |
+| TERZO CITTADINO | Che pensi di questo giovane che ficcò il coltello nel duca? |
+| SECONDO CITTADINO | Ma che è un giovanotto [[Well\|ben]] educato, e [[Well\|ben]] intenzionato, e [[Well\|ben]] avvenente, e pure malvagio per aver ucciso il duca. |
+| TERZO CITTADINO | Era la prima [[Time\|volta]] che lo faceva: forse la legge non sarà dura con lui, giacché non l’aveva fatto prima. |
+| SECONDO CITTADINO | È vero. |
+| MAZZIERE | [[Silence\|Silenzio]], furfante. |
+| SECONDO CITTADINO | Sono forse il tuo specchio, messer Mazziere, che mi chiami furfante? |
+| PRIMO CITTADINO | Ecco che viene una della servitù.  [[Well\|Ebbene]], donna Lucy, tu sei della [[Court\|corte]]: come sta la tua povera padrona la duchessa, col suo dolce viso? |
+| MADONNA LUCY | O [[Well\|ahimè]]!  O giorno miserabile!  O giorno!  O miseria!  Ecco, son giusto diciannove anni lo scorso giugno, a San Michele, da quando fui maritata a mio marito, e ora siamo d’agosto, ed ecco il duca assassinato; eccovi una coincidenza! |
+| SECONDO CITTADINO | Ma se è una coincidenza, forse non uccideranno il giovane: non c’è legge contro le coincidenze. |
 
 
 
@@ -1124,6 +1986,45 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | MORANZONE | There is some mystery about this: I cannot understand it. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| PRIMO CITTADINO | Ma come sta la duchessa? |
+| MADONNA LUCY | [[Well\|Ebbene]] [[Well\|ebbene]], sapevo che qualche male sarebbe toccato alla [[house\|casa]]: sei settimane fa le focacce si bruciarono tutte da un lato, e l’ultima vigilia di San Martino volò nella candela una gran falena che aveva le ali, e quasi mi spaventò. |
+| PRIMO CITTADINO | Ma vieni alla duchessa, buona comare: che ne è di lei? |
+| MADONNA LUCY | Affé, è [[Time\|ora]] che domandiate di lei, povera signora; è quasi fuor di sé.  Ecco, non ha dormito, ma ha camminato per la camera tutta la [[Night\|notte]].  La pregai di prendere un decotto, o un poco d’acquavite, e di mettersi a letto e [[Sleep\|dormire]] un poco per amor della salute, ma mi rispose che temeva di poter sognare.  Fu una strana risposta, non vi pare? |
+| SECONDO CITTADINO | Questi gran signori non hanno molto senno, e così la [[Providence\|Provvidenza]] li compensa con begli abiti. |
+| MADONNA LUCY | [[Well\|Ebbene]], [[Well\|ebbene]], Dio ci scampi dall’assassinio, dico io, finché siamo vivi. |
+| *(didascalia)* | [Entra IL CONTE MORANZONE in fretta.] |
+| MORANZONE | È morto il duca? |
+| SECONDO CITTADINO | Ha un coltello nel cuore, il che dicono non sia salutare per nessun uomo. |
+| MORANZONE | Chi è accusato d’averlo ucciso? |
+| SECONDO CITTADINO | Ma il prigioniero, signore. |
+| MORANZONE | Ma chi è il prigioniero? |
+| SECONDO CITTADINO | Ma colui che è accusato dell’assassinio del duca. |
+| MORANZONE | Voglio dire: qual è il suo nome? |
+| SECONDO CITTADINO | In [[Faith\|fede]] mia, quello stesso che gli diedero i padrini: quale altro dovrebb’essere? |
+| MAZZIERE | [[Guido Ferranti]] è il suo nome, mio signore. |
+| MORANZONE | Quasi conoscevo la tua risposta prima che tu la dessi. |
+| *(didascalia)* | [A parte.] |
+| MORANZONE | Eppure è strano che abbia ucciso il duca,<br>giacché mi lasciò in tanto diverso animo.<br>È probabilissimo che, quando vide quell’uomo,<br>questo demonio che aveva venduto la vita di suo padre,<br>la passione dal suo seggio dentro il cuore<br>abbia scacciato tutte le sue puerili teorie sull’[[Love\|amore]],<br>e al loro posto abbia messo la vendetta; pure mi stupisco<br>che non sia riuscito a fuggire. |
+| *(didascalia)* | [Volgendosi di nuovo alla folla.] |
+| MORANZONE | Come fu preso?  Ditemi. |
+| TERZO CITTADINO | Affé, signore, fu preso per i calcagni. |
+| MORANZONE | Ma chi lo afferrò? |
+| TERZO CITTADINO | Ma coloro che gli misero le mani addosso. |
+| MORANZONE | Come fu dato l’allarme? |
+| TERZO CITTADINO | Questo non ve lo so dire, signore. |
+| MADONNA LUCY | Fu la duchessa stessa a additarlo. |
+| *(didascalia)* | [a parte] |
+| MORANZONE | La duchessa!  C’è qualcosa di strano in questo. |
+| MADONNA LUCY | Sì!  E il pugnale era nella sua mano — il pugnale della duchessa. |
+| MORANZONE | Che avete detto? |
+| MADONNA LUCY | Ma, affé, che fu col pugnale della duchessa che il duca fu ucciso. |
+| *(didascalia)* | [a parte] |
+| MORANZONE | C’è qualche mistero in questo: non riesco a comprenderlo. |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_03" data-title="The Duchess of Padua — Act 4 [3]" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/child,motif/silence,motif/well,concept/faith,setting/court,character/guido_ferranti,character/simone"></span>
@@ -1165,6 +2066,44 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | LORD JUSTICE | Thou art not ignorant<br>What dreadful charge men lay against thee here,<br>Namely, the treacherous murder of thy Lord,<br>[[Simone]] Gesso, Duke of Padua;<br>What dost thou say in answer? |
 | GUIDO | I say nothing. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| SECONDO CITTADINO | Ci mettono ben molto a venire, |
+| PRIMO CITTADINO | Ti garantisco che verranno abbastanza presto per il prigioniero. |
+| MAZZIERE | [[Silence\|Silenzio]] nella [[Court\|Corte]]! |
+| PRIMO CITTADINO | Tu rompi il [[Silence\|silenzio]] ordinandoci di serbarlo, messer Mazziere. |
+| *(didascalia)* | [Entrano il GRAN GIUDICE e gli altri Giudici.] |
+| SECONDO CITTADINO | Chi è quello in scarlatto?  È il boia? |
+| TERZO CITTADINO | No, è il Gran Giudice. |
+| *(didascalia)* | [Entra GUIDO sotto scorta.] |
+| SECONDO CITTADINO | Quello è certo il prigioniero. |
+| TERZO CITTADINO | Ha l’aria onesta. |
+| PRIMO CITTADINO | E questa è la sua furfanteria: i furfanti oggigiorno hanno l’aria tanto onesta che la gente onesta è costretta ad avere l’aria di furfante per distinguersi. |
+| *(didascalia)* | [Entra il Boia, che prende posto dietro GUIDO.] |
+| SECONDO CITTADINO | Quello dunque è il boia!  O Signore!  È affilata la scure, credete? |
+| PRIMO CITTADINO | Sì! più affilata del tuo cervello; ma il filo non è rivolto verso di lui, bada bene. |
+| *(didascalia)* | [grattandosi il collo] |
+| SECONDO CITTADINO | In [[Faith\|fede]] mia, non mi piace averla così vicina. |
+| PRIMO CITTADINO | Bah, non devi aver paura; non tagliano mai la testa alla gente comune: ci impiccano soltanto. |
+| *(didascalia)* | [Trombe di fuori.] |
+| TERZO CITTADINO | A che servono le trombe?  È finito il processo? |
+| PRIMO CITTADINO | No, sono per la duchessa. |
+| *(didascalia)* | [Entra la DUCHESSA in velluto nero; il suo strascico di velluto nero fiorito è portato da due paggi in violetto; con lei è il CARDINALE in scarlatto, e i gentiluomini della [[Court\|corte]] in nero; ella prende posto sul trono sopra i Giudici, che si alzano e si tolgono il berretto al suo entrare; il CARDINALE siede accanto a lei un poco più in basso; i Cortigiani si dispongono intorno al trono.] |
+| SECONDO CITTADINO | O povera signora, com’è pallida!  Sederà lassù? |
+| PRIMO CITTADINO | Sì! ora è al posto del duca. |
+| SECONDO CITTADINO | Questo è un bene per Padova; la duchessa è una duchessa assai buona e misericordiosa; ecco, una volta guarì il mio [[Child\|bambino]] dalla febbre. |
+| TERZO CITTADINO | Sì, e ci ha dato pane: non dimenticate il pane.<br>UN SOLDATO<br>Indietro, brava gente. |
+| SECONDO CITTADINO | Se siamo bravi, perché dovremmo stare indietro? |
+| MAZZIERE | [[Silence\|Silenzio]] nella [[Court\|Corte]]! |
+| GRAN GIUDICE | Piaccia a vostra Grazia,<br>è vostro volere che procediamo al processo<br>per l’assassinio del duca?  [La DUCHESSA fa cenno di sì.]<br>Si faccia avanti il prigioniero.<br>Qual è il tuo nome? |
+| GUIDO | Non importa, mio signore. |
+| GRAN GIUDICE | [[Guido Ferranti]] è il tuo nome in Padova. |
+| GUIDO | Si può morire tanto [[Well\|bene]] sotto quel nome quanto sotto qualunque altro. |
+| GRAN GIUDICE | Non ignori<br>quale terribile accusa gli uomini qui ti muovono,<br>e cioè il proditorio assassinio del tuo Signore,<br>[[Simone]] Gesso, duca di Padova;<br>che dici in risposta? |
+| GUIDO | Non dico nulla. |
 
 
 
@@ -1209,6 +2148,45 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [waiving book aside] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [alzandosi] |
+| GRAN GIUDICE | [[Guido Ferranti]] — |
+| *(didascalia)* | [uscendo dalla folla] |
+| MORANZONE | Indugiate, mio signor Gran Giudice. |
+| GRAN GIUDICE | Chi sei tu che ordini alla giustizia d’indugiare, signore? |
+| MORANZONE | Purché sia giustizia, vada pure per la sua via;<br>ma se non è giustizia — |
+| GRAN GIUDICE | Chi è costui? |
+| CONTE BARDI | Un nobilissimo gentiluomo, e [[Well\|ben]] noto<br>al defunto duca. |
+| GRAN GIUDICE | Signore, siete giunto in [[Time\|tempo]]<br>per veder vendicato l’assassinio del duca.<br>Là sta l’uomo che compì questa cosa nefanda. |
+| MORANZONE | Mio signore,<br>chiedo di nuovo: quale prova avete? |
+| *(didascalia)* | [levando in alto il pugnale] |
+| GRAN GIUDICE | Questo pugnale,<br>che dalle sue mani macchiate di [[Blood\|sangue]], esso stesso tutto [[Blood\|sangue]],<br>i soldati strapparono ieri [[Night\|notte]]: quale altra prova<br>ci occorre in verità? |
+| *(didascalia)* | [prende il pugnale e s’avvicina alla DUCHESSA] |
+| MORANZONE | Non vidi io un pugnale simile<br>pendere ieri dalla cintura di vostra Grazia? |
+| *(didascalia)* | [La DUCHESSA rabbrividisce e non risponde.] |
+| MORANZONE | Ah! mio signor Gran Giudice, posso parlare un istante<br>con questo giovane, che sta in tal pericolo? |
+| GRAN GIUDICE | Sì, volentieri, mio signore, e possiate indurlo<br>a fare piena confessione della sua [[Guilt\|colpa]]. |
+| *(didascalia)* | [IL CONTE MORANZONE va da GUIDO, che sta a destra, e lo afferra per la mano.] |
+| *(didascalia)* | [a bassa voce] |
+| MORANZONE | Fu lei!  Sì, l’ho letto nei suoi occhi.<br>Ragazzo, credi ch’io lascerò che il figlio di tuo padre<br>sia da questa donna macellato a [[Death\|morte]]?<br>Suo marito vendette tuo padre, e la moglie<br>venderebbe a sua volta il figlio. |
+| GUIDO | Conte Moranzone,<br>l’ho fatto io [[Alone\|solo]]: siate soddisfatto,<br>mio padre è vendicato. |
+| GRAN GIUDICE | Confessa forse? |
+| GUIDO | Mio signore, io confesso<br>che un turpe e snaturato assassinio è stato compiuto. |
+| PRIMO CITTADINO | Ecco, guarda un po’: ha un cuore pietoso, e non gli piace l’assassinio; per questo lo lasceranno andare. |
+| GRAN GIUDICE | Non dici altro? |
+| GUIDO | Mio signore, dico anche questo:<br>che spargere [[Blood\|sangue]] umano è peccato mortale. |
+| SECONDO CITTADINO | Affé, dovrebbe dirlo al boia: è un buon sentimento. |
+| GUIDO | Infine, mio signore, supplico la [[Court\|Corte]]<br>di darmi licenza di pronunciare apertamente<br>il terribile segreto di questo mistero,<br>e d’indicare il vero colpevole<br>che con questo pugnale uccise ieri [[Night\|notte]] il duca. |
+| GRAN GIUDICE | Hai licenza di parlare. |
+| *(didascalia)* | [alzandosi] |
+| DUCHESSA | Io dico che non parlerà:<br>che bisogno abbiamo d’altre prove?<br>Non fu preso nella [[house\|casa]] di [[Night\|notte]]<br>nella livrea insanguinata della [[Guilt\|Colpa]] stessa? |
+| *(didascalia)* | [mostrandole lo statuto] |
+| GRAN GIUDICE | Vostra Grazia<br>può leggere la legge. |
+| *(didascalia)* | [scostando il libro con la mano] |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_05" data-title="The Duchess of Padua — Act 4 [5]" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/city,motif/night,motif/well,concept/body,concept/honour,setting/court,setting/venice"></span>
@@ -1232,6 +2210,26 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | LORD JUSTICE | Your Grace, it cannot be:<br>The laws of Padua are most certain here:<br>And by those laws the common murderer even<br>May with his own lips plead, and make defence. |
 | DUCHESS | This is no common murderer, Lord Justice,<br>But a great outlaw, and a most vile traitor,<br>Taken in open arms against the state.<br>For he who slays the man who rules a state<br>Slays the state also, widows every wife,<br>And makes each [[Child\|child]] an [[Orphan\|orphan]], and no less<br>Is to be held a public enemy,<br>Than if he came with mighty ordonnance,<br>And all the spears of [[Venice]] at his back,<br>To beat and batter at our [[City\|city]] gates -<br>Nay, is more dangerous to our commonwealth,<br>For walls and gates, bastions and forts, and things<br>Whose common elements are wood and stone<br>May be raised up, but who can raise again<br>The ruined [[Body\|body]] of my murdered lord,<br>And bid it live and laugh? |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | Riflettete, mio signor Gran Giudice:<br>non è assai verosimile che un tale<br>possa, in presenza del popolo qui adunato,<br>proferire qualche parola calunniosa contro il mio Signore,<br>contro la [[City\|città]], o contro l’[[Honour\|onore]] della [[City\|città]],<br>e forse contro me stessa. |
+| GRAN GIUDICE | Mia sovrana, la legge. |
+| DUCHESSA | Non parlerà, ma, con la bocca imbavagliata,<br>salirà la scala fino al ceppo insanguinato. |
+| GRAN GIUDICE | La legge, mia sovrana. |
+| DUCHESSA | Noi non siamo vincolati dalla legge,<br>ma con essa vincoliamo gli altri. |
+| MORANZONE | Mio signor Gran Giudice,<br>voi non permetterete qui questa ingiustizia. |
+| GRAN GIUDICE | La [[Court\|Corte]] non ha bisogno della vostra voce, conte Moranzone.<br>Madama, sarebbe un precedente pessimo<br>torcere la legge dal suo corso stabilito,<br>ché, benché la causa sia giusta, pure l’anarchia<br>potrebbe con questa licenza toccare queste bilance d’oro<br>e cause ingiuste guadagnare ingiuste vittorie. |
+| CONTE BARDI | Non credo che vostra Grazia possa fermare la legge. |
+| DUCHESSA | Sì, è [[Well\|bello]] predicare e cianciare di legge:<br>mi pare, miei altezzosi signori di Padova,<br>che se siete colpiti nella borsa o nel patrimonio,<br>anche solo tanto che le vostre mostruose rendite<br>scemino del valore d’un pedaggio di traghetto,<br>voi non attendete l’indugio della tediosa legge<br>con quella dolce pazienza che consigliate a me. |
+| CONTE BARDI | Madama, credo che facciate torto ai nostri nobili. |
+| DUCHESSA | Credo di non far loro torto.  Chi di voi tutti,<br>trovando un ladro nella propria [[house\|casa]] di [[Night\|notte]],<br>con qualche povera masserizia cacciata fra i cenci,<br>si fermerebbe a parlamentare con lui? non lo consegnate<br>all’ufficiale e al suo uncino<br>perché sia trascinato dritto in prigione?<br>E così ora,<br>se foste stati uomini, trovando qui costui,<br>con la vita del mio Signore ancor calda sulle mani,<br>l’avreste trascinato fuori nel [[Court\|cortile]],<br>e gli avreste staccato il capo con una scure. |
+| GUIDO | O Dio! |
+| DUCHESSA | Parlate, mio signor Gran Giudice. |
+| GRAN GIUDICE | Vostra Grazia, non può essere:<br>le leggi di Padova sono qui certissime:<br>e per quelle leggi persino il volgare assassino<br>può con le proprie labbra perorare, e far difesa. |
+| DUCHESSA | Questo non è un volgare assassino, Gran Giudice,<br>ma un gran fuorilegge, e un vilissimo traditore,<br>preso in armi aperte contro lo stato.<br>Ché chi uccide l’uomo che regge uno stato<br>uccide anche lo stato, fa vedova ogni moglie,<br>e d’ogni [[Child\|bambino]] un [[Orphan\|orfano]], e non meno<br>è da tenersi per nemico pubblico<br>che se venisse con possente artiglieria,<br>e tutte le lance di [[Venice\|Venezia]] alle spalle,<br>a battere e sfondare le porte della nostra [[City\|città]] —<br>anzi, è più pericoloso per la nostra repubblica,<br>ché mura e porte, bastioni e forti, e cose<br>i cui comuni elementi sono legno e pietra<br>possono essere rialzati, ma chi può rialzare<br>il [[Body\|corpo]] rovinato del mio signore assassinato,<br>e ordinargli di vivere e di ridere? |
 
 
 
@@ -1260,6 +2258,30 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | HEADSMAN | My young fellow,<br>I do not know why thou shouldst care to speak,<br>Seeing my axe is close upon thy neck,<br>And words of thine will never blunt its edge.<br>But if thou art so bent upon it, why<br>Thou mightest plead unto the Churchman yonder:<br>The common people call him kindly here,<br>Indeed I know he has a kindly [[Soul\|soul]]. |
 | GUIDO | This man, whose trade is [[Death\|death]], hath courtesies<br>More than the others. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| MAFFIO | Ora, per San Paolo,<br>non credo che gli lasceranno parlare. |
+| JEPPO VITELLOZZO | C’è molto sotto: ascolta. |
+| DUCHESSA | Perciò ora,<br>gettate cenere sul capo di Padova,<br>parate di vessilli neri ogni via silenziosa,<br>si vesta ogni uomo di solenne nero;<br>ma prima di volgerci a questi tristi riti di lutto<br>pensiamo alla mano disperata<br>che ordì e portò questa rovina sul nostro stato,<br>e spediamolo subito a quella stretta [[house\|casa]],<br>dove non v’è voce, ma con un poco di [[Dust\|polvere]]<br>la [[Death\|Morte]] riempie fino all’orlo le bocche menzognere degli uomini. |
+| GUIDO | Lasciatemi, furfanti!  Ti dico, mio signor Gran Giudice,<br>che potresti tanto [[Well\|bene]] ordinare all’oceano sfrenato,<br>al turbine d’[[Winter\|inverno]], o alla [[Storm\|tempesta]] alpina,<br>di non urlare il loro volere, quanto ordinare a me di tacere!<br>Sì! anche se mi metteste i coltelli nella gola,<br>ogni truce e spalancata ferita troverebbe una lingua,<br>e griderebbe contro di voi. |
+| GRAN GIUDICE | Signore, questa violenza<br>non vi giova a nulla; ché, a meno che il tribunale<br>non ti dia legittimo diritto di parlare apertamente,<br>nulla di ciò che dici può essere creduto. |
+| *(didascalia)* | [La DUCHESSA sorride e GUIDO indietreggia con un gesto di [[Despair\|disperazione]].] |
+| GRAN GIUDICE | Madama, io stesso, e questi savi Giudici,<br>col consenso di vostra Grazia ora ci ritireremo<br>in un’altra camera, per decidere<br>su questa difficile questione di legge,<br>e cercare negli statuti e nei precedenti. |
+| DUCHESSA | Andate, mio signor Gran Giudice, cercate [[Well\|bene]] negli statuti,<br>e non lasciate che questo traditore rissoso l’abbia vinta. |
+| MORANZONE | Andate, mio signor Gran Giudice, cercate [[Well\|bene]] nella vostra [[Conscience\|coscienza]],<br>e non lasciate che un uomo sia mandato a [[Death\|morte]] senza essere udito. |
+| *(didascalia)* | [Escono il GRAN GIUDICE e i Giudici.] |
+| DUCHESSA | [[Silence\|Taci]], genio malvagio della mia vita!<br>Tu ti frapponi fra noi due una seconda [[Time\|volta]];<br>questa [[Time\|volta]], mio signore, credo che il turno sia mio. |
+| GUIDO | Non morirò prima d’aver dato voce. |
+| DUCHESSA | Morirai in silenzio, e il tuo segreto con te. |
+| GUIDO | Sei tu quella [[Beatrice]], duchessa di Padova? |
+| DUCHESSA | Io sono ciò che tu m’hai fatta; guardami [[Well\|bene]],<br>sono opera delle tue mani. |
+| MAFFIO | Guarda, non è forse<br>simile a quella bianca tigre che vedemmo a [[Venice\|Venezia]],<br>mandata al Doge da qualche soldano indiano? |
+| JEPPO | Zitto! potrebbe udire le tue ciance. |
+| BOIA | Mio giovanotto,<br>non so perché ti prema tanto di parlare,<br>giacché la mia scure ti sta già sul collo,<br>e le tue parole non ne smusseranno mai il filo.<br>Ma se ci sei tanto ostinato, ebbene<br>potresti supplicare quel prelato laggiù:<br>la gente comune qui lo dice benigno,<br>e in verità so che ha un’[[Soul\|anima]] benigna. |
+| GUIDO | Quest’uomo, il cui mestiere è la [[Death\|morte]], ha cortesie<br>maggiori degli altri. |
 
 
 
@@ -1290,6 +2312,31 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | They tarry long,<br>These greybeards and their council; bid them come;<br>Bid them come quickly, else I think my heart<br>Will beat itself to bursting: not indeed,<br>That I here care to live; God knows my life<br>Is not so full of joy, yet, for all that,<br>I would not die companionless, or go<br>Lonely to Hell.<br>Look, my Lord Cardinal,<br>Canst thou not see across my forehead here,<br>In scarlet letters writ, the word [[Revenge]]?<br>Fetch me some [[Water\|water]], I will wash it off:<br>’Twas branded there last [[Night\|night]], but in the day-[[Time\|time]]<br>I need not wear it, need I, my Lord Cardinal?<br>Oh, how it sears and burns into my brain:<br>Give me a knife; not that one, but another,<br>And I will cut it out. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| BOIA | Ebbene, che Dio v’[[Love\|ami]], signore,<br>vi renderò il vostro ultimo servizio su questa terra. |
+| GUIDO | Mio buon signor Cardinale, in terra cristiana,<br>col volto di [[Mercy\|misericordia]] del Signore [[Christ\|Cristo]] che guarda giù<br>dall’alto seggio del Giudizio, morrà un uomo<br>senza assoluzione, senza confessione?  E se non è così,<br>non posso io narrare questa terribile storia di peccato,<br>se peccato alcuno v’è sull’[[Soul\|anima]] mia? |
+| DUCHESSA | Non fai che sprecare il tuo [[Time\|tempo]]. |
+| CARDINALE | Ahimè, figlio mio,<br>non ho potere sul braccio secolare.<br>Il mio compito comincia quando giustizia è stata fatta,<br>nell’esortare il peccatore vacillante a pentirsi<br>e a confessare all’orecchio della Santa Chiesa<br>i terribili [[Secrets\|segreti]] d’una mente peccatrice. |
+| DUCHESSA | Potrai parlare al confessionale<br>finché le tue labbra si stanchino del racconto,<br>ma qui non parlerai. |
+| GUIDO | Mio reverendo padre,<br>voi mi recate un ben freddo conforto. |
+| CARDINALE | Ma no, figlio mio,<br>ché il gran potere della nostra madre Chiesa<br>non finisce con questa povera bolla d’un mondo,<br>di cui non siamo che [[Dust\|polvere]], come dice Girolamo,<br>ché se il peccatore muore pentito,<br>le nostre preghiere e le sante messe molto valgono<br>a trarre dal purgatorio l’[[Soul\|anima]] colpevole. |
+| DUCHESSA | E quando in purgatorio vedrai il mio Signore<br>con quella rossa stella di [[Blood\|sangue]] sul cuore,<br>digli che t’ho mandato io quaggiù. |
+| GUIDO | O caro Dio! |
+| MORANZONE | È questa la donna, dunque, che amavate? |
+| CARDINALE | Vostra Grazia è assai crudele con quest’uomo. |
+| DUCHESSA | Non più di quanto egli fu crudele con sua Grazia. |
+| CARDINALE | Pure la [[Mercy\|misericordia]] è il diritto sovrano dei principi. |
+| DUCHESSA | Io non ebbi [[Mercy\|misericordia]], e non la do.<br>Egli ha mutato il mio cuore in un cuore di pietra,<br>ha seminato ortiche rigogliose in un bel campo,<br>ha avvelenato le fonti della pietà nel mio petto,<br>ha inaridito alla radice ogni benignità;<br>la mia vita è come una terra uccisa dalla carestia,<br>donde ogni cosa buona è perita del tutto:<br>io sono ciò che egli m’ha fatta. |
+| *(didascalia)* | [La DUCHESSA piange.] |
+| JEPPO | Non è strano<br>che ella abbia tanto amato il malvagio duca? |
+| MAFFIO | È stranissimo quando le donne [[Love\|amano]] i loro signori,<br>e quando non li [[Love\|amano]] è stranissimo. |
+| JEPPO | Che filosofo sei, Petrucci! |
+| MAFFIO | Sì!  So sopportare i mali degli altri,<br>e questa è [[philosophy\|filosofia]]. |
+| DUCHESSA | Tardano molto,<br>questi barbagrigia e il loro consiglio; di’ loro che vengano;<br>di’ loro che vengano presto, se no credo che il mio cuore<br>batterà fino a scoppiare: non già<br>ch’io tenga a vivere; Dio sa che la mia vita<br>non è così piena di gioia, eppure, con tutto ciò,<br>non vorrei morire senza compagnia, né andare<br>sola all’Inferno.<br>Guardate, mio signor Cardinale,<br>non vedete qui attraverso la mia fronte,<br>scritta in lettere scarlatte, la parola [[Revenge\|Vendetta]]?<br>Portatemi un po’ d’[[Water\|acqua]], la laverò via:<br>vi fu marchiata ieri [[Night\|notte]], ma di giorno [[Time\|tempo]]<br>non ho bisogno di portarla, non è vero, mio signor Cardinale?<br>Oh, come brucia e s’incide nel mio cervello:<br>datemi un coltello; non quello, un altro,<br>e la taglierò via. |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_08" data-title="The Duchess of Padua — Act 4 [8]" data-chapter="part 08" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/death,motif/nature,motif/silence,motif/spring,motif/well,concept/forgiveness,concept/nature,setting/court"></span>
@@ -1318,6 +2365,31 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | Show me the book: ’tis written in [[Blood\|blood]]-red. |
 | JEPPO | Look at the Duchess. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| CARDINALE | È naturalissimo<br>essere sdegnati contro la mano assassina<br>che proditoriamente pugnalò il vostro signore addormentato. |
+| DUCHESSA | Vorrei, vecchio Cardinale, poter bruciare quella mano;<br>ma brucerà nell’al di là. |
+| CARDINALE | No, la Chiesa<br>ci ordina di perdonare i nostri nemici. |
+| DUCHESSA | [[Forgiveness\|Perdono]]? che cos’è?  Io non l’ho mai avuto.<br>Vengono finalmente: [[Well\|ebbene]], mio signor Gran Giudice, [[Well\|ebbene]]. |
+| *(didascalia)* | [Entra il GRAN GIUDICE.] |
+| GRAN GIUDICE | Graziosissima Signora, e nostra sovrana Sovrana,<br>abbiamo lungamente ponderato il punto in questione,<br>e assai considerato la saggezza di vostra Grazia,<br>e mai saggezza parlò da più belle labbra — |
+| DUCHESSA | Procedete, signore, senza complimenti. |
+| GRAN GIUDICE | Troviamo,<br>come vostra Grazia stessa rettamente significò,<br>che qualunque cittadino il quale con forza o con astuzia<br>cospiri contro la persona del Sovrano,<br>è ipso facto fuorilegge, privo dei diritti<br>che spettano agli altri cittadini,<br>è traditore, e pubblico nemico,<br>che può da qualunque [[Sword\|spada]] casuale essere ucciso<br>senza pericolo dell’uccisore; anzi, se condotto<br>alla presenza del tribunale,<br>deve con labbra mute e reverente [[Silence\|silenzio]]<br>ascoltare la sua [[Well\|ben]] meritata condanna,<br>né ha il privilegio della parola aperta. |
+| DUCHESSA | Vi ringrazio, mio signor Gran Giudice, di cuore;<br>mi piace la vostra legge: e ora vi prego, spedite<br>questo pubblico fuorilegge al suo giusto destino;<br>c’è altro? |
+| GRAN GIUDICE | Sì, c’è altro, vostra Grazia.<br>Quest’uomo, essendo nato straniero, non padovano,<br>né vincolato al duca da fedeltà,<br>salvo quella che la comune [[Nature\|natura]] impone,<br>ha, benché accusato di molteplici tradimenti<br>la cui pena più lieve è [[Death\|morte]] certa,<br>pur sempre il diritto di pubblica parola<br>dinanzi al popolo e alla [[Court\|corte]] aperta;<br>anzi, dev’essere assai pregato dalla [[Court\|Corte]]<br>di fare qualche formale difesa della sua vita,<br>perché la sua [[City\|città]], giustamente sdegnata,<br>non accusi il nostro stato d’un processo iniquo,<br>e non [[spring\|sorgano]] guerre contro la repubblica:<br>tanto misericordiose sono le leggi di Padova<br>verso lo straniero che vive entro le sue porte. |
+| DUCHESSA | Essendo della casa del mio Signore, è forse straniero qui? |
+| GRAN GIUDICE | Sì, finché non abbia compiuto sette anni di servizio<br>non può essere cittadino padovano. |
+| GUIDO | Vi ringrazio, mio signor Gran Giudice, di cuore;<br>mi piace la vostra legge. |
+| SECONDO CITTADINO | A me non piace nessuna legge:<br>se non ci fosse legge non ci sarebbero trasgressori,<br>e così tutti gli uomini sarebbero virtuosi. |
+| PRIMO CITTADINO | Certo che lo sarebbero;<br>è un detto savio, questo, e ti porta lontano. |
+| MAZZIERE | Sì! alla forca, furfante. |
+| DUCHESSA | È questa la legge? |
+| GRAN GIUDICE | È la legge certissimamente, mia sovrana. |
+| DUCHESSA | Mostratemi il libro: è scritta in rosso [[Blood\|sangue]]. |
+| JEPPO | Guarda la duchessa. |
 
 
 
@@ -1355,6 +2427,38 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | LORD JUSTICE | [[Guido Ferranti]], while the crumbling sand<br>Falls through this [[Time\|time]]-glass, thou hast leave to speak.<br>This and no more. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | O legge maledetta,<br>vorrei poterti strappare dallo stato<br>con la stessa facilità con cui ti strappo da questo libro. |
+| *(didascalia)* | [[[Tears\|Strappa]] la pagina.] |
+| DUCHESSA | Venite qua, conte Bardi: siete uomo d’onore?<br>Fatemi tenere pronto un [[Horse\|cavallo]] alla mia [[house\|casa]],<br>ché devo cavalcare a [[Venice\|Venezia]] all’istante. |
+| BARDI | A [[Venice\|Venezia]], madama? |
+| DUCHESSA | Non una parola di questo,<br>andate, andate subito.  [Esce il CONTE BARDI.]<br>Un istante, mio signor Gran Giudice.<br>Se, come dite, questa è la legge —<br>no, no, non [[Doubt\|dubito]] che diciate il vero,<br>benché il diritto sia torto in un caso come questo —<br>non posso io, in virtù del mio ufficio,<br>aggiornare questa [[Court\|corte]] a un altro giorno? |
+| GRAN GIUDICE | Madama, non potete sospendere un processo di [[Blood\|sangue]]. |
+| DUCHESSA | Allora non resterò a udire quest’uomo<br>inveire con lingua rozza contro la nostra sacra persona.<br>Venite, signori. |
+| GRAN GIUDICE | Mia sovrana,<br>non potete lasciare questa [[Court\|corte]] finché il prigioniero<br>non sia purgato o colpevole di questo tremendo delitto. |
+| DUCHESSA | Non posso, Gran Giudice?  Con qual diritto<br>ponete barriere sul mio cammino dove voglio andare?<br>Non sono io duchessa qui in Padova,<br>e reggente dello stato? |
+| GRAN GIUDICE | Per questa ragione, madama:<br>essendo voi la fonte della vita e della [[Death\|morte]]<br>donde, come un possente [[River\|fiume]], scorre la giustizia,<br>senza la vostra presenza la giustizia è inaridita<br>e manca al suo scopo: dovete restare qui. |
+| DUCHESSA | Come, mi terrai qui contro la mia volontà? |
+| GRAN GIUDICE | Preghiamo che la vostra volontà non sia contro la legge. |
+| DUCHESSA | E se mi aprissi a forza la via fuori dalla [[Court\|corte]]? |
+| GRAN GIUDICE | Non potete forzare la [[Court\|Corte]] a darvi il passo. |
+| DUCHESSA | Non resterò.  [Si alza dal suo seggio.] |
+| GRAN GIUDICE | È qui l’usciere?<br>Si faccia avanti.  [L’Usciere si fa avanti.]<br>Conosci il tuo ufficio, signore. |
+| *(didascalia)* | [L’Usciere chiude le porte della [[Court\|corte]], che sono a sinistra, e quando la DUCHESSA e il suo seguito s’avvicinano, s’inginocchia.] |
+| USCIERE | In tutta [[Humility\|umiltà]] supplico vostra Grazia<br>di non mutare il mio dovere in scortesia,<br>né di far del mio ingrato ufficio un’offesa. |
+| DUCHESSA | Non v’è gentiluomo fra voi tutti<br>che punzecchi via dalla nostra strada questo ciarliero? |
+| *(didascalia)* | [sguainando la [[Sword\|spada]]] |
+| MAFFIO | Sì! lo farò io. |
+| GRAN GIUDICE | Conte Maffio, badate,<br>e voi, signore.  [A JEPPO.]<br>Il primo che sguaini la [[Sword\|spada]]<br>contro il più umile ufficiale di questa [[Court\|Corte]],<br>morrà prima di sera. |
+| DUCHESSA | Signori, rinfoderate le spade:<br>è cosa convenientissima ch’io oda quest’uomo. |
+| *(didascalia)* | [Torna al trono.] |
+| MORANZONE | Ora hai il tuo nemico nelle tue mani. |
+| *(didascalia)* | [prendendo su la clessidra del [[Time\|tempo]]] |
+| GRAN GIUDICE | [[Guido Ferranti]], finché la sabbia sgretolata<br>cadrà per questa clessidra del [[Time\|tempo]], hai licenza di parlare.<br>Questo e non più. |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_10" data-title="The Duchess of Padua — Act 4 [10]" data-chapter="part 10" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/death,motif/secrets,motif/silence,motif/time,concept/body,concept/history,concept/revenge,concept/truth,form/history,setting/court,character/lorenzo"></span>
@@ -1376,6 +2480,23 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | LORD JUSTICE | The sand within the [[Time\|time]]-glass flows apace.<br>Come quickly to the murder of the Duke. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | Basta così, mio signore. |
+| GRAN GIUDICE | Tu stai sull’estremo orlo della [[Death\|morte]];<br>bada di non dire altro che la [[Truth\|verità]],<br>null’altro ti gioverà. |
+| GUIDO | Se non la dico,<br>date allora il mio [[Body\|corpo]] al boia laggiù. |
+| *(didascalia)* | [volta la clessidra del [[Time\|tempo]]] |
+| GRAN GIUDICE | Si faccia [[Silence\|silenzio]] mentre il prigioniero parla. |
+| MAZZIERE | [[Silence\|Silenzio]] nella [[Court\|Corte]], là. |
+| GUIDO | Miei signori Giudici,<br>e reverendi giudici di questa degna [[Court\|corte]],<br>a stento so da dove cominciare il mio racconto,<br>tanto stranamente terribile è questa [[history\|storia]].<br>Prima, lasciate ch’io vi dica di quale nascita io sia.<br>Sono il figlio di quel buon duca [[Lorenzo]]<br>che con dannata perfidia fu messo a [[Death\|morte]]<br>da uno scelleratissimo [[Villain\|malvagio]], fino a ieri duca<br>di questa buona città di Padova. |
+| GRAN GIUDICE | Bada bene,<br>non ti gioverà nulla schernire questo principe<br>che ora giace nella sua bara. |
+| MAFFIO | Per san Giacomo,<br>costui è il legittimo erede del duca di Parma. |
+| JEPPO | L’ho sempre creduto nobile. |
+| GUIDO | Confesso<br>che col proposito d’una giusta [[Revenge\|vendetta]],<br>d’una giustissima vendetta su un uomo di [[Blood\|sangue]],<br>entrai nella casa del duca, servii al suo volere,<br>sedetti alla sua mensa, bevvi del suo vino, e fui<br>il suo intimo: tanto confesso,<br>e anche questo: che attesi finché egli giunse<br>a mettere i più cari [[Secrets\|segreti]] della sua vita<br>nelle mie mani, finché mi blandì,<br>e si fidò di me in ogni cosa privata<br>proprio come il mio nobile padre s’era fidato di lui;<br>che per questa cosa attesi.<br>[Al Boia.]  Tu, uomo di [[Blood\|sangue]]!<br>Non volgere la scure su di me prima del [[Time\|tempo]]:<br>chi sa se è [[Time\|tempo]] ch’io muoia?<br>Non v’è altro collo in [[Court\|corte]] che il mio? |
+| GRAN GIUDICE | La sabbia dentro la clessidra del [[Time\|tempo]] scorre in fretta.<br>Vieni presto all’assassinio del duca. |
+
 
 
 <span class="atom-split" data-atom="act_4--scene_1--part_11" data-title="The Duchess of Padua — Act 4 [11]" data-chapter="part 11" data-kind="excerpt" data-tags="archetype/villain,motif/clock,motif/moon,motif/night,motif/sleep,concept/revenge"></span>
@@ -1385,6 +2506,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | GUIDO | I will be brief: Last [[Night\|night]] at twelve o’ the [[Clock\|clock]],<br>By a strong rope I scaled the palace wall,<br>With purport to [[Revenge\|revenge]] my father’s murder -<br>Ay! with that purport I confess, my lord.<br>This much I will acknowledge, and this also,<br>That as with stealthy feet I climbed the stair<br>Which led unto the chamber of the Duke,<br>And reached my hand out for the scarlet cloth<br>Which shook and shivered in the gusty door,<br>Lo! the white [[Moon\|moon]] that sailed in the great heaven<br>Flooded with silver light the darkened room,<br>[[Night]] lit her candles for me, and I saw<br>The man I hated, cursing in his [[Sleep\|sleep]];<br>And thinking of a most dear father murdered,<br>Sold to the scaffold, bartered to the block,<br>I smote the treacherous [[Villain\|villain]] to the heart<br>With this same dagger, which by chance I found<br>Within the chamber. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | Sarò breve: ieri [[Night\|notte]] alle dodici all’[[Clock\|orologio]],<br>con una fune robusta scalai il muro del palazzo,<br>col proposito di [[Revenge\|vendicare]] l’assassinio di mio padre —<br>sì! con quel proposito, lo confesso, mio signore.<br>Questo riconoscerò, e anche questo:<br>che mentre con piede furtivo salivo la scala<br>che conduceva alla camera del duca,<br>e stendevo la mano verso il drappo scarlatto<br>che tremava e fremeva nella porta ventosa,<br>ecco! la bianca [[Moon\|luna]] che veleggiava nel gran cielo<br>inondò di luce d’argento la stanza oscurata,<br>la [[Night\|Notte]] accese per me le sue candele, e io vidi<br>l’uomo che odiavo, che imprecava nel [[Sleep\|sonno]];<br>e pensando a un carissimo padre assassinato,<br>venduto al patibolo, barattato al ceppo,<br>colpii al cuore il perfido [[Villain\|malvagio]]<br>con questo stesso pugnale, che per caso trovai<br>dentro la camera. |
 
 
 
@@ -1404,6 +2531,21 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | Tableau |
 | END OF | ACT IV. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [alzandosi dal suo seggio] |
+| DUCHESSA | Oh! |
+| *(didascalia)* | [in fretta] |
+| GUIDO | Io uccisi il duca.<br>Ora, mio signor Gran Giudice, se posso implorare una grazia,<br>non permettete ch’io veda un altro sole<br>rischiarare la miseria di questo mondo odioso. |
+| GRAN GIUDICE | La tua grazia è concessa, morrai sta[[Night\|notte]].<br>Portatelo via.  Venite, madama |
+| *(didascalia)* | [GUIDO è condotto via; mentre esce la DUCHESSA tende le braccia e si precipita verso il proscenio.] |
+| DUCHESSA | Guido!  Guido! |
+| *(didascalia)* | [Sviene.] |
+| DUCHESSA | Quadro |
+| FINE DELL’ | ATTO IV. |
 
 
 
@@ -1442,6 +2584,40 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | FIRST SOLDIER | Why, then, they will kill him. |
 | *(didascalia)* | [Knocking comes at the door.] |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | SCENA<br>Una segreta nella [[Prison\|prigione]] pubblica di Padova; Guido giace addormentato su un pagliericcio (L.C.); una tavola con sopra una coppa è posta (L.C.); cinque soldati bevono e giocano a dadi nell’angolo, su una tavola di pietra; uno di essi ha una lanterna appesa all’alabarda; una torcia è infissa nel muro sopra il capo di Guido.  Due finestre inferriate sul fondo, una per ciascun lato della porta, che è (C.), guardano nel corridoio; la scena è piuttosto buia. |
+| *(didascalia)* | [getta i dadi] |
+| PRIMO SOLDATO | Ancora sei! bravo Pietro. |
+| SECONDO SOLDATO | In [[Faith\|fede]] mia, luogotenente, non giocherò più con te.  Ci rimetterò tutto. |
+| TERZO SOLDATO | Tranne il cervello; lì sei al sicuro! |
+| SECONDO SOLDATO | Sì, sì, quello non può togliermelo. |
+| TERZO SOLDATO | No; perché non hai cervello da dargli.<br>I SOLDATI |
+| *(didascalia)* | [forte] |
+| TERZO SOLDATO | Ah! ah! ah! |
+| PRIMO SOLDATO | [[Silence\|Silenzio]]!  Sveglierete il prigioniero; dorme. |
+| SECONDO SOLDATO | Che importa?  Avrà [[Sleep\|sonno]] a sufficienza quando sarà sepolto.  Scommetto che sarebbe contento se potessimo svegliarlo quando sarà nella [[Grave\|tomba]]. |
+| TERZO SOLDATO | Ma no! ché quando là si sveglierà sarà il giorno del giudizio. |
+| SECONDO SOLDATO | Sì, e ha fatto una cosa grave; perché, vedi, uccidere uno di noi, che siamo solo carne e [[Blood\|sangue]], è peccato, e ammazzare un Duca è quasi contro la legge. |
+| PRIMO SOLDATO | [[Well\|Ebbene]], [[Well\|ebbene]], era un Duca malvagio. |
+| SECONDO SOLDATO | E dunque non doveva toccarlo; chi s’impiccia con la gente malvagia rischia d’essere infettato dalla loro malvagità. |
+| TERZO SOLDATO | Sì, questo è vero.  Quanti anni ha il prigioniero? |
+| SECONDO SOLDATO | Abbastanza per fare il male, e non abbastanza per essere savio. |
+| PRIMO SOLDATO | Allora, via, potrebbe avere qualunque età. |
+| SECONDO SOLDATO | Dicono che la Duchessa volesse perdonarlo. |
+| PRIMO SOLDATO | Davvero? |
+| SECONDO SOLDATO | Sì, e supplicò molto il Gran Giudice, ma egli non volle. |
+| PRIMO SOLDATO | Avevo creduto, Pietro, che la Duchessa fosse onnipotente. |
+| SECONDO SOLDATO | Vero, è [[Well\|ben]] fatta; non ne conosco alcuna così avvenente.<br>I SOLDATI<br>Ah! ah! ah! |
+| PRIMO SOLDATO | Volevo dire che credevo che la nostra Duchessa potesse fare qualunque cosa. |
+| SECONDO SOLDATO | Ma no, ché ora egli è consegnato ai Giudici, ed essi vedranno che giustizia sia fatta; essi e il gagliardo Ugo il boia; ma quando la testa gli sarà spiccata, allora la Duchessa potrà perdonarlo se le piace; non c’è legge contro questo. |
+| PRIMO SOLDATO | Non credo che il gagliardo Ugo, come tu lo chiami, sbrigherà la faccenda per lui, dopo tutto.  Questo Guido è di nobile nascita, e così per legge può bere prima il [[Poison\|veleno]], se tale è il suo piacere. |
+| TERZO SOLDATO | E se non lo beve? |
+| PRIMO SOLDATO | Allora, via, l’uccideranno. |
+| *(didascalia)* | [Si bussa alla porta.] |
 
 
 
@@ -1482,6 +2658,41 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | It smells of poppies.  I remember [[Well\|well]]<br>That, when I was a [[Child\|child]] in Sicily,<br>I took the scarlet poppies from the corn,<br>And made a little wreath, and my [[Grave\|grave]] uncle,<br>[[Don John]] of Naples, laughed: I did not know<br>That they had power to stay the springs of life,<br>To make the pulse cease beating, and to chill<br>The [[Blood\|blood]] in its own vessels, till men come<br>And with a hook hale the poor [[Body\|body]] out,<br>And throw it in a ditch: the [[Body\|body]], ay, -<br>What of the [[Soul\|soul]]? that goes to heaven or hell.<br>Where will mine go? |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| PRIMO SOLDATO | Guarda chi è. |
+| *(didascalia)* | [Il Terzo Soldato va e guarda attraverso lo sportello.] |
+| TERZO SOLDATO | È una donna, signore. |
+| PRIMO SOLDATO | È bella? |
+| TERZO SOLDATO | Non saprei dire.  È mascherata, luogotenente. |
+| PRIMO SOLDATO | Solo le donne bruttissime o bellissime nascondono il volto.  Falla entrare. |
+| *(didascalia)* | [Il Soldato apre la porta, ed entra la DUCHESSA mascherata e ammantata.] |
+| *(didascalia)* | [al Terzo Soldato] |
+| DUCHESSA | Siete voi l’ufficiale di guardia? |
+| *(didascalia)* | [facendosi avanti] |
+| PRIMO SOLDATO | Sono io, madama. |
+| DUCHESSA | Devo vedere il prigioniero [[Alone\|da sola]]. |
+| PRIMO SOLDATO | Temo che sia impossibile.  [La DUCHESSA gli porge un anello, egli lo guarda e glielo rende con un inchino, e fa un cenno ai Soldati.]  State fuori, là.  [Escono i Soldati.] |
+| DUCHESSA | Ufficiale, i vostri uomini sono alquanto rozzi. |
+| PRIMO SOLDATO | Non intendono far male. |
+| DUCHESSA | Fra pochi minuti ritornerò indietro.  Mentre passo per il corridoio, non lasciate che tentino di sollevarmi la maschera. |
+| PRIMO SOLDATO | Non dovete temere, madama. |
+| DUCHESSA | Ho una ragione particolare per desiderare che il mio volto non sia veduto. |
+| PRIMO SOLDATO | Madama, con questo anello potete entrare e uscire a vostro piacere; è l’anello stesso della Duchessa. |
+| DUCHESSA | Lasciateci.  [Il Soldato si volge per uscire.]  Un momento, signore.  Per quale ora è . . . |
+| PRIMO SOLDATO | Alle dodici all’[[Clock\|orologio]], madama, abbiamo ordine di condurlo fuori; ma oserei dire che non ci aspetterà; è più facile che tracanni un sorso di quel [[Poison\|veleno]] laggiù.  Gli uomini hanno paura del boia. |
+| DUCHESSA | È [[Poison\|veleno]], quello? |
+| PRIMO SOLDATO | Sì, madama, e [[Poison\|veleno]] sicurissimo per giunta. |
+| DUCHESSA | Potete andare, signore. |
+| PRIMO SOLDATO | Per san Giacomo, che bella mano!  Mi [[Wonder\|domando]] chi sia.  Qualche donna che l’amava, forse.  [Esce.] |
+| DUCHESSA | [togliendosi la maschera]  Finalmente!<br>Ora può fuggire con questo mantello e questa visiera,<br>siamo quasi della stessa statura: non lo riconosceranno;<br>e quanto a me, che importa?<br>Purché egli non mi maledica nell’andarsene,<br>poco m’importa: mi [[Wonder\|domando]] se mi maledirà.<br>Ne ha il diritto.  Ora sono le undici;<br>non verranno prima delle dodici. |
+| *(didascalia)* | [Va verso la tavola.] |
+| DUCHESSA | Dunque questo è [[Poison\|veleno]].<br>Non è strano che in questo liquore qui<br>giaccia la chiave d’ogni filosofia? |
+| *(didascalia)* | [Prende la coppa.] |
+| DUCHESSA | Odora di papaveri.  Ricordo [[Well\|bene]]<br>che, quand’ero [[Child\|bambina]] in Sicilia,<br>coglievo i papaveri scarlatti fra il grano<br>e ne facevo una ghirlandetta, e il mio [[Grave\|severo]] zio,<br>[[Don John]] di Napoli, rideva: io non sapevo<br>che avessero il potere d’arrestare le sorgenti della vita,<br>di far cessare il polso, e d’agghiacciare<br>il [[Blood\|sangue]] nelle sue stesse vene, finché vengano gli uomini<br>e con un uncino traggano fuori il povero [[Body\|corpo]],<br>e lo gettino in un fosso: il [[Body\|corpo]], sì, —<br>e dell’[[Soul\|anima]]?  quella va in cielo o all’inferno.<br>Dove andrà la mia? |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_1--part_03" data-title="The Duchess of Padua — Act 5 [3]" data-chapter="part 03" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/dreams,motif/fire,motif/love,motif/night,motif/poison,motif/silence,motif/sleep,motif/well,concept/wonder"></span>
@@ -1498,6 +2709,18 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | *(didascalia)* | [Drinks [[Poison\|poison]], and sets the cup down on the table behind her: the noise wakens GUIDO, who starts up, and does not see what she has done.  There is [[Silence\|silence]] for a minute, each looking at the other.] |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [Toglie la torcia dal muro e va verso il giaciglio.] |
+| DUCHESSA | Come dorme quieto, qui,<br>simile a un giovane scolaro stanco del gioco:<br>vorrei poter [[Sleep\|dormire]] così quieta,<br>ma io ho [[Dreams\|sogni]].  [Chinandosi su di lui.]<br>Povero ragazzo: e se lo baciassi?<br>No, no, le mie labbra lo brucerebbero come un [[Fire\|fuoco]].<br>Ha avuto abbastanza [[Love\|amore]].  Pure questo collo bianco<br>sfuggirà al boia: a questo ho provveduto:<br>sta[[Night\|notte]] uscirà di qui, via da Padova,<br>e questo è [[Well\|bene]].  Siete assai savi, miei signori Giudici,<br>eppure non siete savi neppure la metà di me,<br>e questo è [[Well\|bene]].<br>O Dio! come vi ho amato,<br>e quale fiore sanguinoso ha portato l’[[Love\|amore]]! |
+| *(didascalia)* | [Ritorna alla tavola.] |
+| DUCHESSA | E se bevessi questi succhi, e così finissi?<br>Non sarebbe meglio che attendere finché la [[Death\|Morte]]<br>venga al mio letto con tutta la sua servitù,<br>rimorso, malattia, vecchiaia e miseria?<br>Mi [[Wonder\|domando]] se si soffra molto: penso<br>d’essere assai giovane per morire così,<br>ma così dev’essere.  Perché, perché dovrei morire?<br>Egli fuggirà sta[[Night\|notte]], e così il suo [[Blood\|sangue]]<br>non sarà sul mio capo.  No, devo morire;<br>sono stata colpevole, dunque devo morire;<br>egli non m’ama, e dunque devo morire:<br>morrei più lieta se volesse baciarmi,<br>ma non lo farà.  Io non lo conoscevo.<br>Credetti che volesse vendermi al Giudice;<br>non è strano; noi donne non conosciamo mai<br>i nostri [[lovers\|amanti]] finché non ci lasciano. |
+| *(didascalia)* | [La campana comincia a rintoccare] |
+| DUCHESSA | Vile campana,<br>che come un segugio dalla tua gola di bronzo<br>reclami la vita di quest’uomo, taci! non l’avrai.<br>Egli si muove — devo far presto:  [Prende la coppa.]<br>O [[Love\|Amore]], [[Love\|Amore]], [[Love\|Amore]],<br>non pensavo che così t’avrei brindato! |
+| *(didascalia)* | [Beve il [[Poison\|veleno]], e posa la coppa sulla tavola dietro di sé: il rumore sveglia GUIDO, che balza in piedi, e non vede ciò che ella ha fatto.  Vi è [[Silence\|silenzio]] per un minuto, ciascuno guardando l’altro.] |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_1--part_04" data-title="The Duchess of Padua — Act 5 [4]" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/child,motif/blood,concept/fear,setting/venice"></span>
@@ -1507,6 +2730,12 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | DUCHESS | I do not come to ask your pardon now,<br>Seeing I know I stand beyond all pardon;<br>Enough of that: I have already, sir,<br>Confessed my sin to the Lords Justices;<br>They would not listen to me: and some said<br>I did invent a tale to save your life;<br>You have trafficked with me; others said<br>That women played with pity as with men;<br>Others that grief for my slain Lord and husband<br>Had robbed me of my wits: they would not hear me,<br>And, when I sware it on the holy book,<br>They bade the doctor cure me.  They are ten,<br>Ten against one, and they possess your life.<br>They call me Duchess here in Padua.<br>I do not know, sir; if I be the Duchess,<br>I wrote your pardon, and they would not take it;<br>They call it treason, say I taught them that;<br>Maybe I did.  Within an hour, Guido,<br>They will be here, and drag you from the cell,<br>And bind your hands behind your back, and bid you<br>Kneel at the block: I am before them there;<br>Here is the signet ring of Padua,<br>‘Twill bring you safely through the men on guard;<br>There is my cloak and vizard; they have orders<br>Not to be curious: when you pass the gate<br>Turn to the left, and at the second bridge<br>You will find horses waiting: by to-morrow<br>You will be at [[Venice]], safe.  [A pause.]<br>Do you not speak?<br>Will you not even curse me ere you go? -<br>You have the right.  [A pause.]<br>You do not understand<br>There lies between you and the headsman’s axe<br>Hardly so much sand in the hour-glass<br>As a [[Child\|child]]’s palm could carry: here is the ring:<br>I have washed my hand: there is no [[Blood\|blood]] upon it:<br>You need not [[Fear\|fear]].  Will you not take the ring? |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | Non vengo ora a chiedervi il perdono,<br>ché so di stare al di là d’ogni perdono;<br>basti di ciò: ho già, signore,<br>confessato il mio peccato ai signori Giudici;<br>non vollero ascoltarmi: e alcuni dissero<br>ch’io inventavo una favola per salvarvi la vita;<br>che avevate mercanteggiato con me; altri dissero<br>che le donne giocano con la pietà come con gli uomini;<br>altri che il dolore per il mio Signore e sposo ucciso<br>m’aveva tolto il senno: non vollero udirmi,<br>e, quando lo giurai sul libro santo,<br>ordinarono al medico di guarirmi.  Sono dieci,<br>dieci contro una, e possiedono la vostra vita.<br>Qui in Padova mi chiamano Duchessa.<br>Non so, signore; se sono la Duchessa,<br>scrissi il vostro perdono, ed essi non lo accettarono;<br>lo chiamano tradimento, dicono che glielo insegnai io;<br>forse è vero.  Entro un’ora, Guido,<br>saranno qui, e vi trarranno fuori dalla cella,<br>e vi legheranno le mani dietro la schiena, e v’ordineranno<br>d’inginocchiarvi al ceppo: là io sono davanti a loro;<br>ecco l’anello col sigillo di Padova,<br>vi farà passare salvo fra gli uomini di guardia;<br>ecco il mio mantello e la mia visiera; hanno ordine<br>di non essere curiosi: quando varcate la porta<br>volgete a sinistra, e al secondo ponte<br>troverete cavalli che vi attendono: domani<br>sarete a [[Venice\|Venezia]], al sicuro.  [Una pausa.]<br>Non parlate?<br>Non volete nemmeno maledirmi prima d’andare? —<br>Ne avete il diritto.  [Una pausa.]<br>Non capite:<br>fra voi e la scure del boia non giace<br>più sabbia nella clessidra<br>di quanta ne porti il palmo d’un [[Child\|bambino]]: ecco l’anello:<br>mi son lavata la mano: non c’è [[Blood\|sangue]] sopra:<br>non dovete [[Fear\|temere]].  Non volete prendere l’anello? |
 
 
 
@@ -1545,6 +2774,39 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Guilty? - let those<br>Who know what a thing [[Temptation\|temptation]] is,<br>Let those who have not walked as we have done,<br>In the red [[Fire\|fire]] of passion, those whose lives<br>Are dull and colourless, in a word let those,<br>If any such there be, who have not loved,<br>Cast stones against you.  As for me - |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [prende l’anello e lo bacia] |
+| GUIDO | Sì! volentieri, Madama. |
+| DUCHESSA | E lasciate Padova. |
+| GUIDO | Lascio Padova. |
+| DUCHESSA | Ma dev’essere sta[[Night\|notte]]. |
+| GUIDO | Sta[[Night\|notte]] sarà. |
+| DUCHESSA | Oh, sia ringraziato Dio! |
+| GUIDO | Così posso vivere; mai la vita mi parve tanto dolce<br>come in questo momento. |
+| DUCHESSA | Non indugiate, Guido,<br>ecco il mio mantello: il [[Horse\|cavallo]] è al ponte,<br>il secondo ponte sotto la [[house\|casa]] del traghetto:<br>perché indugiate?  Non odono le vostre orecchie<br>questa campana tremenda, ogni cui rintocco<br>ruba un breve minuto alla vostra giovane vita?<br>Andate presto. |
+| GUIDO | Sì! verrà abbastanza presto. |
+| DUCHESSA | Chi? |
+| *(didascalia)* | [con calma] |
+| GUIDO | Ma il boia. |
+| DUCHESSA | No, no. |
+| GUIDO | Egli soltanto<br>può trarmi fuori di Padova. |
+| DUCHESSA | Non osate!<br>Non osate gravare la mia già gravata [[Soul\|anima]]<br>di due morti!  Penso che uno basti.<br>Perché quando starò dinanzi a Dio, faccia a faccia,<br>non vorrei che voi, con un filo scarlatto<br>intorno alla bianca gola, veniste dietro<br>a dire che fui io. |
+| GUIDO | Madama, io attendo. |
+| DUCHESSA | No, no, non potete: non capite,<br>sta[[Night\|notte]] ho meno potere in Padova<br>di qualunque donna del volgo; vi uccideranno.<br>Ho veduto il patibolo attraversando la piazza,<br>già la bassa plebaglia vi si accalca intorno<br>con lazzi paurosi e orrida allegria,<br>come fosse la pedana d’un ballerino di morris,<br>e non il nero trono della [[Death\|Morte]].  O Guido, Guido,<br>dovete fuggire! |
+| GUIDO | Madama, io resto qui. |
+| DUCHESSA | Guido, non lo farete: sarebbe cosa<br>così terribile che le [[Stars\|stelle]] attonite<br>cadrebbero dal cielo, e la [[Moon\|luna]] paralizzata<br>si eclisserebbe nella sua sfera, e il gran sole<br>ricuserebbe di splendere sull’ingiusta terra<br>che ti vide morire. |
+| GUIDO | Siate certa che non mi muoverò. |
+| *(didascalia)* | [torcendosi le mani] |
+| DUCHESSA | Non basta un solo peccato, ma deve generarne<br>un secondo ancor più orribile<br>di quello che l’ha partorito?  O Dio, Dio,<br>suggella il ventre fecondo del peccato, e rendilo sterile,<br>non voglio avere sulla mia mano più [[Blood\|sangue]]<br>di quanto già ne ho. |
+| *(didascalia)* | [afferrandole la mano] |
+| GUIDO | Come! son caduto così in basso<br>da non avere licenza di morire per voi? |
+| *(didascalia)* | [ritraendo bruscamente la mano] |
+| DUCHESSA | Morire per me? — no, la mia vita è cosa vile,<br>gettata sulle strade fangose di questo mondo;<br>non morrete per me, non lo farete, Guido;<br>io sono una donna colpevole. |
+| GUIDO | Colpevole? — che scaglino pietre contro di voi<br>coloro che sanno che cosa sia la [[Temptation\|tentazione]],<br>coloro che non hanno camminato come noi<br>nel rosso [[Fire\|fuoco]] della passione, coloro le cui vite<br>sono opache e scolorite, in una parola coloro,<br>se pure ve n’è alcuno, che non hanno amato.<br>Quanto a me — |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_1--part_06" data-title="The Duchess of Padua — Act 5 [6]" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/death,motif/love,motif/silence,motif/soul,concept/body,concept/mercy,character/beatrice"></span>
@@ -1564,6 +2826,22 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | Then let high Paradise<br>Fall into Tartarus! for I shall make<br>This world my heaven for a little space.<br>The sin was mine, if any sin there was.<br>’Twas I who nurtured murder in my heart,<br>Sweetened my meats, seasoned my wine with it,<br>And in my fancy slew the accursed Duke<br>A hundred times a day.  Why, had this man<br>Died half so often as I wished him to,<br>[[Death]] had been stalking ever through the [[house]],<br>And murder had not slept.<br>But you, fond heart,<br>Whose little eyes grew tender over a whipt hound,<br>You whom the little children laughed to see<br>Because you brought the sunlight where you passed,<br>You the white angel of God’s purity,<br>This which men call your sin, what was it? |
 | DUCHESS | Ay!<br>What was it?  There are times it seems [[A Dream\|a dream]],<br>An evil dream sent by an evil god,<br>And then I see the dead face in the coffin<br>And know it is no dream, but that my hand<br>Is red with [[Blood\|blood]], and that my desperate [[Soul\|soul]]<br>Striving to find some haven for its [[Love\|love]]<br>From the wild tempest of this raging world,<br>Has wrecked its bark upon the rocks of sin.<br>What was it, said you? - murder merely?  Nothing<br>But murder, horrible murder. |
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | Ahimè! |
+| *(didascalia)* | [cadendole ai piedi] |
+| GUIDO | Voi siete la mia signora, e siete il mio [[Love\|amore]]!<br>O chioma d’oro, o labbra vermiglie, o volto<br>fatto per l’adescamento e per l’[[Love\|amore]] dell’uomo!<br>Immagine incarnata di pura bellezza!<br>Adorandoti io dimentico il passato,<br>adorandoti la mia [[Soul\|anima]] s’accosta alla tua,<br>adorandoti mi par d’essere un dio,<br>e benché diano il mio [[Body\|corpo]] al ceppo,<br>pure il mio [[Love\|amore]] è eterno! |
+| *(didascalia)* | [La DUCHESSA si copre il volto con le mani: GUIDO gliele abbassa.] |
+| GUIDO | Dolce, solleva<br>le cortine cadenti che ti velano gli occhi,<br>ch’io possa guardare in quegli occhi, e dirti<br>che ti [[Love\|amo]], mai più che ora, quando la [[Death\|Morte]]<br>caccia le sue fredde labbra fra noi: [[Beatrice]],<br>io ti [[Love\|amo]]: non ti resta parola da dire?<br>Oh, io posso sopportare il carnefice,<br>ma non questo [[Silence\|silenzio]]: non dirai che mi [[Love\|ami]]?<br>Di’ soltanto quella parola e la [[Death\|Morte]] perderà il suo pungiglione,<br>ma non dirla, e cinquantamila morti<br>sono, al confronto, [[Mercy\|pietà]].  Oh, tu sei crudele,<br>e non mi [[Love\|ami]]. |
+| DUCHESSA | Ahimè!  Non ne ho il diritto,<br>ché ho macchiato le [[Innocent\|innocenti]] mani dell’[[Love\|amore]]<br>di [[Blood\|sangue]] versato: c’è [[Blood\|sangue]] sul suolo;<br>ve l’ho messo io. |
+| GUIDO | Dolce, non fosti tu,<br>fu qualche demonio che ti tentò. |
+| *(didascalia)* | [alzandosi d’un tratto] |
+| DUCHESSA | No, no,<br>ciascuno di noi è il proprio demonio, e noi facciamo<br>di questo mondo il nostro inferno. |
+| GUIDO | E allora precipiti l’alto Paradiso<br>nel Tartaro! ch’io farò<br>di questo mondo il mio cielo per un breve spazio.<br>Il peccato fu mio, se peccato vi fu.<br>Fui io a nutrire l’assassinio nel cuore,<br>a condirne le mie vivande, a insaporirne il mio vino,<br>e nella fantasia uccisi il maledetto Duca<br>cento volte al giorno.  Ché, se quest’uomo<br>fosse morto la metà delle volte che lo desiderai,<br>la [[Death\|Morte]] si sarebbe aggirata di continuo per la [[house\|casa]],<br>e l’assassinio non avrebbe dormito.<br>Ma tu, cuore amoroso,<br>i cui piccoli occhi s’intenerivano per un cane frustato,<br>tu che i bimbi ridevano di vedere<br>perché portavi il sole dove passavi,<br>tu, bianco angelo della purità di Dio,<br>questo che gli uomini chiamano il tuo peccato, che fu? |
+| DUCHESSA | Già!<br>Che fu?  Vi sono momenti in cui pare [[A Dream\|un sogno]],<br>un sogno malvagio mandato da un dio malvagio,<br>e poi vedo il volto morto nella bara<br>e so che non è sogno, ma che la mia mano<br>è rossa di [[Blood\|sangue]], e che la mia disperata [[Soul\|anima]],<br>cercando qualche approdo per il suo [[Love\|amore]]<br>dalla selvaggia tempesta di questo mondo furioso,<br>ha infranto la sua barca sugli scogli del peccato.<br>Che fu, dicesti? — semplice assassinio?  Nulla<br>se non assassinio, orribile assassinio. |
 
 
 
@@ -1597,6 +2875,34 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | GUIDO | O treacherous [[Love\|love]],<br>Why have you not left a drop for me? |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | No, no, no,<br>non fu che il fiore della passione del tuo [[Love\|amore]]<br>che in un attimo balzò a terribile vita,<br>e in un attimo portò questo frutto sanguinoso,<br>ch’io avevo colto in pensiero mille volte.<br>La mia [[Soul\|anima]] fu omicida, ma la mia mano ricusò;<br>la tua mano operò l’assassinio, ma la tua [[Soul\|anima]] fu pura.<br>E così io ti [[Love\|amo]], [[Beatrice]], e chi non ha<br>[[Mercy\|pietà]] per il tuo capo colpito,<br>manchi di [[Mercy\|pietà]] lassù in cielo!  Baciami, dolce. |
+| *(didascalia)* | [Tenta di baciarla.] |
+| DUCHESSA | No, no, le tue labbra son pure, e le mie contaminate,<br>ché la [[Guilt\|Colpa]] è stata la mia amante, e il Peccato<br>ha giaciuto nel mio letto: o Guido, se mi [[Love\|ami]]<br>vattene, ché ogni momento è un verme<br>che ti rode via la vita: no, dolce, vattene,<br>e se in [[Time\|tempo]] avvenire penserai a me,<br>pensa a me come a una che t’amò più<br>d’ogni cosa sulla terra; pensa a me, Guido,<br>come a una donna soltanto, una che tentò<br>di fare della sua vita un sacrificio all’[[Love\|amore]],<br>e nel tentarlo uccise l’[[Love\|amore]]: oh, che cos’è?<br>La campana ha cessato di suonare, e odo<br>i passi d’uomini armati sulla scala. |
+| *(didascalia)* | [a parte] |
+| GUIDO | Quello è il segnale perché venga la guardia. |
+| DUCHESSA | Perché la campana ha cessato di suonare? |
+| GUIDO | Se proprio devi saperlo,<br>essa ferma la mia vita da questa parte della [[Grave\|tomba]],<br>ma dall’altra ci ritroveremo. |
+| DUCHESSA | No, no, non è troppo tardi: devi andartene;<br>il [[Horse\|cavallo]] è presso il ponte, c’è ancora [[Time\|tempo]].<br>Via, via, non devi indugiare qui! |
+| *(didascalia)* | [Rumore di Soldati nel corridoio.] |
+| DUCHESSA | UNA VOCE DI FUORI<br>Largo al Gran Giudice di Padova! |
+| *(didascalia)* | [Il GRAN GIUDICE si vede attraverso la [[Window\|finestra]] inferriata passare lungo il corridoio, preceduto da uomini che recano torce.] |
+| DUCHESSA | È troppo tardi.<br>UNA VOCE DI FUORI<br>Largo al boia. |
+| *(didascalia)* | [si accascia] |
+| DUCHESSA | Oh! |
+| *(didascalia)* | [Il Boia con la scure sulla spalla si vede passare per il corridoio, seguito da [[Monks\|monaci]] che recano candele.] |
+| GUIDO | Addio, caro [[Love\|amore]], ché devo bere questo [[Poison\|veleno]].<br>Non [[Fear\|temo]] il boia, ma vorrei morire<br>non sul patibolo solitario.<br>Ma qui,<br>qui fra le tue braccia, baciando la tua bocca: addio!<br>[Va alla tavola e prende la coppa.]  Come, sei vuota? |
+| *(didascalia)* | [La getta a terra.] |
+| GUIDO | O rozzo carceriere,<br>avaro perfino di veleni! |
+| *(didascalia)* | [debolmente] |
+| DUCHESSA | Non biasimarlo. |
+| GUIDO | O Dio! non l’avrai bevuto, [[Beatrice]]?<br>Dimmi che non l’hai bevuto. |
+| DUCHESSA | Se volessi negarlo,<br>c’è un [[Fire\|fuoco]] che mi divora il cuore<br>e troverebbe voce. |
+| GUIDO | O [[Love\|amore]] traditore,<br>perché non m’hai lasciato una goccia? |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_1--part_08" data-title="The Duchess of Padua — Act 5 [8]" data-chapter="part 08" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/dust,motif/fire,motif/grave,motif/love,motif/pain,motif/poison,motif/time,motif/water,setting/italy,character/beatrice"></span>
@@ -1627,6 +2933,32 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | Send for a leech,<br>Not him who stanched my husband, but another<br>We have no [[Time\|time]]: send for a leech, I say:<br>There is an antidote against each [[Poison\|poison]],<br>And he will sell it if we give him money.<br>Tell him that I will give him Padua,<br>For one short hour of life: I will not die.<br>Oh, I am sick to [[Death\|death]]; no, do not touch me,<br>This [[Poison\|poison]] gnaws my heart: I did not know<br>It was such [[Pain\|pain]] to die: I thought that life<br>Had taken all the agonies to itself;<br>It seems it is not so. |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| DUCHESSA | No, no, conteneva [[Death\|morte]] appena per uno. |
+| GUIDO | Non v’è ancora [[Poison\|veleno]] sulle tue labbra,<br>ch’io possa suggerlo da esse? |
+| DUCHESSA | Perché dovresti morire?<br>Tu non hai versato [[Blood\|sangue]], e dunque non devi morire:<br>io ho versato [[Blood\|sangue]], e dunque devo morire.<br>Non fu detto che [[Blood\|sangue]] sia versato per [[Blood\|sangue]]?<br>Chi lo disse?  Non ricordo. |
+| GUIDO | Attendimi,<br>le nostre anime andranno insieme. |
+| DUCHESSA | No, tu devi vivere.<br>Vi sono molte altre donne al mondo<br>che ti [[Love\|ameranno]], e non uccideranno per te. |
+| GUIDO | Io [[Love\|amo]] te sola. |
+| DUCHESSA | Non devi morire per questo. |
+| GUIDO | Ah, se moriamo insieme, [[Love\|amore]], perché allora<br>non possiamo giacere insieme in una sola [[Grave\|tomba]]? |
+| DUCHESSA | Una [[Grave\|tomba]] non è che uno stretto letto nuziale. |
+| GUIDO | Per noi basta |
+| DUCHESSA | E lo cospargeranno<br>d’un rigido lenzuolo funebre e d’erbe amare:<br>penso che non vi siano rose nella [[Grave\|tomba]],<br>o se vi sono, ora son tutte appassite<br>da quando il mio Signore vi è disceso. |
+| GUIDO | Ah! cara [[Beatrice]],<br>le tue labbra son rose che la [[Death\|morte]] non può appassire. |
+| DUCHESSA | E se giaceremo insieme, non cadranno le mie labbra<br>in [[Dust\|polvere]], e i tuoi occhi innamorati<br>non si rinsecchiranno in orbite cieche, e i vermi,<br>che sono i nostri paraninfi, non ti divoreranno il cuore? |
+| GUIDO | Non m’importa: la [[Death\|Morte]] non ha potere sull’[[Love\|amore]].<br>E così per l’immortale sovranità dell’[[Love\|Amore]]<br>morrò con te. |
+| DUCHESSA | Ma la [[Grave\|tomba]] è nera,<br>e nera la fossa, sicché devo andare avanti io<br>ad accendere le candele per il tuo venire.<br>No, no, non voglio morire, non voglio morire.<br>[[Love\|Amore]], tu sei forte, e giovane, e assai valoroso;<br>mettiti fra me e l’angelo della [[Death\|morte]],<br>e lotta con lui per me. |
+| *(didascalia)* | [Spinge GUIDO davanti a sé, con le spalle al pubblico.] |
+| DUCHESSA | Ti bacerò<br>quando l’avrai atterrato.  Oh, non hai un cordiale<br>per fermare l’opera di questo [[Poison\|veleno]] in me?<br>Non son rimasti fiumi in [[Italy\|Italia]],<br>che non mi vuoi recare una sola coppa d’[[Water\|acqua]]<br>per spegnere questo [[Fire\|fuoco]]? |
+| GUIDO | O Dio! |
+| DUCHESSA | Non m’avevi detto<br>che c’era siccità in [[Italy\|Italia]], e niente [[Water\|acqua]]:<br>nulla se non [[Fire\|fuoco]]. |
+| GUIDO | O [[Love\|Amore]]! |
+| DUCHESSA | Manda a chiamare un medico,<br>non quello che curò mio marito, ma un altro —<br>non abbiamo [[Time\|tempo]]: manda a chiamare un medico, ti dico:<br>v’è un antidoto contro ogni [[Poison\|veleno]],<br>ed egli lo venderà se gli daremo denaro.<br>Digli che gli darò Padova<br>per una breve ora di vita: non voglio morire.<br>Oh, sono malata a [[Death\|morte]]; no, non toccarmi,<br>questo [[Poison\|veleno]] mi rode il cuore: non sapevo<br>che fosse tal [[Pain\|pena]] morire: credevo che la vita<br>avesse preso a sé tutte le agonie;<br>pare che non sia così. |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_1--part_09" data-title="The Duchess of Padua — Act 5 [9]" data-chapter="part 09" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/love,motif/marriage,motif/moon,motif/night,motif/pain,motif/poison,motif/snow,motif/stars,motif/summer,motif/tears,motif/water,concept/beauty,setting/venice,character/beatrice,character/monks"></span>
@@ -1649,6 +2981,24 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 | DUCHESS | No, I have sinned, and yet<br>Perchance my sin will be forgiven me.<br>I have loved much |
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| GUIDO | O [[Stars\|stelle]] dannate,<br>spegnete in [[Tears\|lacrime]] i vostri vili lumi, e ordinate<br>alla [[Moon\|luna]], vostra signora, di non splendere più sta[[Night\|notte]]. |
+| DUCHESSA | Guido, perché siamo qui?  Penso che questa stanza<br>sia poveramente arredata per una camera di [[Marriage\|nozze]].<br>Andiamocene subito.  Dove sono i cavalli?<br>Dovremmo essere già in cammino per [[Venice\|Venezia]].<br>Com’è fredda la [[Night\|notte]]!  Dobbiamo cavalcare più in fretta. |
+| *(didascalia)* | [I [[Monks\|monaci]] cominciano a salmodiare di fuori.] |
+| *(didascalia)* | Musica!  Dovrebbe essere più allegra; ma il dolore |
+| DUCHESSA | è di moda ora — non so perché.<br>Non devi piangere: non ci [[Love\|amiamo]] forse? —<br>Questo basta.  [[Death\|Morte]], che fai qui?<br>Non foste invitata a questa mensa, messere;<br>via, non abbiamo bisogno di voi: vi dico<br>che fu in vino ch’io vi brindai, non in [[Poison\|veleno]].<br>Mentì chi vi disse ch’io bevvi il vostro [[Poison\|veleno]].<br>Fu versato per terra, come il [[Blood\|sangue]] del mio Signore;<br>siete giunta troppo tardi. |
+| GUIDO | Dolce, là non c’è nulla:<br>queste cose sono soltanto ombre irreali. |
+| DUCHESSA | [[Death\|Morte]],<br>perché indugiate, andate nella camera di sopra;<br>le carni fredde del banchetto funebre di mio marito<br>son pronte per voi; questo è un banchetto di nozze.<br>Siete fuori luogo, messere; e, per giunta, è [[Summer\|estate]].<br>Non ci occorrono ora questi fuochi pesanti,<br>voi ci bruciate.<br>Oh, io sono arsa,<br>non puoi far nulla?  [[Water\|Acqua]], dammi [[Water\|acqua]],<br>o altrimenti altro [[Poison\|veleno]].  No: non sento [[Pain\|dolore]] —<br>non è curioso ch’io non senta [[Pain\|dolore]]? —<br>e la [[Death\|Morte]] se n’è andata, ne son lieta.<br>Credevo che volesse dividerci.  Dimmi, Guido,<br>non ti duole d’avermi mai veduta? |
+| GUIDO | Giuro che non avrei voluto vivere altrimenti.<br>Ché, in questo nostro mondo opaco e comune,<br>uomini son morti cercando momenti come questo<br>e non li hanno trovati. |
+| DUCHESSA | Dunque non te ne duole?<br>Come pare strano. |
+| GUIDO | Come, [[Beatrice]], non sono forse<br>stato faccia a faccia con la [[Beauty\|bellezza]]?  Questo basta<br>alla vita d’un uomo.  Ché, [[Love\|amore]], potrei essere lieto;<br>sono stato spesso più triste a un banchetto,<br>ma chi sarebbe triste a un banchetto come questo,<br>quando [[Love\|Amore]] e [[Death\|Morte]] ci fanno entrambi da coppieri?<br>Ci [[Love\|amiamo]] e moriamo insieme. |
+| DUCHESSA | Oh, sono stata<br>colpevole oltre tutte le donne, e in verità<br>punita oltre tutte le donne.  Credi tu —<br>no, non potrebbe essere — oh, credi tu che l’[[Love\|amore]]<br>possa cancellare la macchia di sangue dalle mie mani,<br>versare balsamo nelle mie ferite, sanare le mie piaghe,<br>e lavare i miei peccati scarlatti bianchi come [[Snow\|neve]]? —<br>ché io ho peccato. |
+| GUIDO | Non peccano affatto<br>coloro che peccano per [[Love\|amore]]. |
+| DUCHESSA | No, io ho peccato, eppure<br>forse il mio peccato mi sarà perdonato.<br>Ho molto amato |
+
 
 
 <span class="atom-split" data-atom="act_5--scene_1--part_10" data-title="The Duchess of Padua — Act 5 [10]" data-chapter="part 10" data-kind="excerpt" data-tags="motif/death,motif/pain,motif/tears,motif/time,concept/forgiveness"></span>
@@ -1658,3 +3008,11 @@ Style of Architecture:  Italian, Gothic and Romanesque.
 |---|---|
 | *(didascalia)* | [They kiss each other now for the first [[Time\|time]] in this Act, when suddenly the DUCHESS leaps up in the dreadful spasm of [[Death\|death]], [[Tears\|tears]] in agony at her dress, and finally, with face twisted and distorted with [[Pain\|pain]], falls back dead in a chair.  GUIDO seizing her dagger from her belt, kills himself; and, as he falls across her knees, clutches at the cloak which is on the back of the chair, and throws it entirely over her.  There is a little pause.  Then down the passage comes the tramp of Soldiers; the door is opened, and the LORD JUSTICE, the Headsman, and the Guard enter and see this figure shrouded in black, and GUIDO lying dead across her.  The LORD JUSTICE rushes forward and drags the cloak off the DUCHESS, whose face is now the marble image of peace, the sign of God’s [[Forgiveness\|forgiveness]].] |
 | DUCHESS | Tableau |
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | [Si baciano ora per la prima [[Time\|volta]] in quest’Atto, quando d’improvviso la DUCHESSA balza in piedi nello spasimo tremendo della [[Death\|morte]], [[Tears\|strappa]] in agonia la propria veste, e infine, col volto contratto e stravolto dal [[Pain\|dolore]], ricade morta su una sedia.  GUIDO, strappandole il pugnale dalla cintura, si uccide; e, mentre cade attraverso le ginocchia di lei, afferra il mantello che è sullo schienale della sedia, e glielo getta tutto addosso.  Vi è una breve pausa.  Poi giù per il corridoio giunge il calpestio dei Soldati; la porta è aperta, ed entrano il GRAN GIUDICE, il Boia e la Guardia, e vedono questa figura ammantata di nero, e GUIDO che giace morto su di lei.  Il GRAN GIUDICE si precipita innanzi e strappa via il mantello dalla DUCHESSA, il cui volto è ora l’immagine marmorea della pace, il segno del [[Forgiveness\|perdono]] di Dio.] |
+| DUCHESSA | Quadro |

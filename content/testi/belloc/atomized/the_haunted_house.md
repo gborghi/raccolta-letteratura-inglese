@@ -2875,6 +2875,34 @@ The staff of Rackham was consonant with all the rest. A butler of much the same 
 There was Rackham; and (one would have said) the benediction of God upon it. I knew it well enough.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO I
+
+Nella contea inglese del Sussex, su quel terreno argilloso e su una piccola elevazione di quel stesso terreno, sorgeva – e sorge ancora oggi – una casa di un gentiluomo di nome Rackham.
+
+Rackham è un nome abbastanza comune in quella parte del mondo; è associato forse a una mezza dozzina di luoghi e cose molto diverse: campi, boschi, distretti rurali. Ma nessuno si era mai preso la briga di aggiungere qualcosa al nome Rackham per renderlo davvero “speciale”. È sempre stato Rackham, e così è rimasto nei suoi trecento anni di esistenza come parte del monastero di Lewes Priory e nei suoi quattrocento anni di appartenenza a vari proprietari laici.
+
+Alla fine del XIX secolo, il suo proprietario era un certo signor Henry Maple, una persona di posizione sociale ordinaria; non proveniva da una famiglia molto ricca, ma conosceva bene la propria tenuta rurale.
+
+Per nascita era ciò che si potrebbe aspettare: un pronipote. Un certo Maple, che aveva iniziato la sua carriera come fabbro e commerciante di bestiame per poi diventare un broker generale – a volte fornendo denaro in prestito ai suoi colleghi, altre volte realizzando fortunate transazioni con le azioni – aveva acquistato tutti i precedenti proprietari terrieri della famiglia Rackham quando Giorgio III era re. Quei proprietari appartenevano a una linea familiare decaduta: il loro fondatore, un commerciante di sego originario di Lewes, l’aveva ottenuto più di un secolo prima, dopo le Guerre Civili, da una famiglia nobile in rovina. A sua volta, quella famiglia nobile era nata da un servitore della cucina di Thomas Cromwell; ancora un secolo prima, durante i grandi spartimenti dei beni confiscati ai nemici del re, quel servitore aveva ottenuto quelle terre come parte del bottino del suo padrone.
+
+Vedete quindi che Rackham era esattamente come decine e centinaia di altri individui simili in tutta l’Inghilterra: posseduto, proprio come tutti gli altri, da un uomo molto gentile, un vero signore (il che significa davvero molto); un uomo educato nelle scuole pubbliche e all’università, il cui lignaggio includeva due generazioni di persone istruite allo stesso modo e tre generazioni di famiglie sufficientemente ricche.
+
+La casa di Rackham aveva un aspetto piuttosto assurdo, ma al contempo dignitoso. La metà di essa era costituita dall’originale abitazione elisabettiana: rimanevano ancora alcune pietre dell’edificio monastico precedente, e grandi travi di quercia ne formavano la struttura portante; tuttavia, l’aspetto complessivo della casa era stato modificato da aggiunte e ristrutturazioni effettuate nel XVIII secolo. Dal prato davanti alla casa si potevano vedere, da un lato, due piani in legno e intonaco con un tetto in piastrelle; dall’altro lato, un muro di mattoni su cui erano disposte, a intervalli regolari, delle finestre particolarmente brutte. Sul retro, rivolta a nord, si trovavano delle stanze per cucine e uffici realizzate in stucco; queste ultime presentavano un colore verdastro a causa dell’umidità. La seconda metà della casa, interamente in mattoni, era stata aggiunta dopo il 1790 dal fortunato fabbro e commerciante di bestiame che l’aveva acquistata. Gli uffici in stucco situati a nord erano stati costruiti da suo figlio durante i periodi di alta quotazione del grano, durante le guerre napoleoniche.
+
+All’interno, la casa era esattamente come ci si sarebbe aspettati data la sua storia. Niente, nemmeno nelle sue parti più antiche, faceva pensare che vi fossero lavori risalenti a centinaia di anni prima; tranne poche pietre dell’edificio monastico presenti alla base di un muro, alcune travi ancora visibili nelle stanze dei servitori, una stanza degli oggetti e una delle camere da letto più piccole. Le altre travi erano state coperte da soffitti in gesso molto tempo prima; alcune erano state addirittura tagliate via per aumentare l’altezza delle sale living secondo le mode di quel periodo. C’era anche un bagno con acqua calda e fredda, considerato una vera novità a metà del XIX secolo quando fu installato. C’era inoltre un piccolo corridoio piuttosto squallido che collegava le varie stanze; una semplice scala per la famiglia, con balaustri di quercia ben intagliati, e un tappeto molto logoro e brutto. C’erano molti libri e molte foto di ogni tipo: numerosi acquerelli scadenti realizzati da donne del posto, vive o morte; alcuni ritratti nel salotto, uno dei quali, quasi nero, si diceva fosse un lavoro di Gainsborough. La casa era confortevole, accogliente e si adattava perfettamente al suo proprietario: negli anni iniziali del XX secolo, un uomo di circa quarant’anni molto apprezzato nel quartiere e con una certa reputazione per la sua erudizione; un vedovo con un bambino piccolo, un ragazzo di nome John.
+
+Ecco come visse Henry Maple: su quella terra che, secondo lui – e come pensano tutti coloro che vivono su simili luoghi – era un territorio ancestrale ereditato da tempi lontani, al di là di ogni memoria umana; in realtà, quel terreno apparteneva alla sua famiglia da ben più di cento anni. Il che rappresenta davvero una lunga successione di generazioni per una proprietà terriera inglese.
+
+Faceva parte di tutto ciò: della vista che si apriva da quella piccola altura verso le colline lontane dieci miglia a sud lungo il cielo; di quel piccolo parco piuttosto trascurato (se così volete chiamarlo), con il suo sentiero di ghiaia in cattivo stato e la sua piccola capanna alle porte; di quelle mezza dozzina di fattorie che avevano fornito un reddito sufficiente per suo padre e suo nonno, e i cui affitti, sebbene fossero diminuiti durante la crisi degli anni ’80, da allora erano rimasti invariati; tutto ciò, insomma, faceva parte di lui. Facevano anche parte di lui i due o tre cavalli nei suoi stalli, i due o tre veicoli, e soprattutto quel piccolo calesino con cui andava alla stazione ferroviaria locale, situata a tre miglia di distanza: l’asfalto stesso e le recinzioni sembravano “parlare” il dialetto del Sussex, considerando Londra, a quaranta miglia di distanza, un luogo assolutamente remoto.
+
+Londra non faceva davvero parte della vita di Henry Maple. Aveva il suo club, naturalmente: suo padre lo aveva iscritto quando era nato, proprio come lo aveva iscritto alla scuola pubblica e al college. Lo frequentava forse venti volte all’anno.
+
+Lo staff di Rackham era simile a quello degli altri. C'era un maggiordomo più o meno della stessa età del suo padrone, con vent'anni di esperienza; conosceva i nomi dei vini, ma era molto più esperto in materia di birra. C'era anche un ragazzo che puliva le scarpe, portava messaggi e si assumeva la colpa degli incidenti; alcune cameriere; una cuoca anziana di nome Mrs. Marwell e una aiutante in cucina; inoltre, c'era quella che era stata l'infermiera del bambino e che, in un certo senso, continuava a svolgere quel ruolo anche dopo che lui aveva iniziato a frequentare la scuola preparatoria. Fu mantenuta al suo posto, e lo sarebbe rimasta fino alla morte.
+
+C'era Rackham. E, si potrebbe dire, anche la benedizione di Dio su di esso. Lo conoscevo abbastanza bene.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="The Haunted House — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/great_house,concept/economics,concept/family_and_lineage,concept/materialism,concept/tradition,form/novel,setting/rural_england"></span>
@@ -2908,6 +2936,36 @@ William had turned over in his own mind during the previous week what he would s
 
 William Maple had prospered; he had bought one of the dignified old freehold houses on the river in Cheyne Walk, spending on it rather more than he would have done, perhaps, had not his wife urged him. The house was becoming something of a centre in London for people who wrote and painted and were talked of, for the more important people who had gone into politics, and even for a few of the very much more important people whose point was their new wealth. Mrs. William Maple had decided that the time had come for a proper house in the country as well; but her husband, for all his success, hesitated at the expense. It was Mrs. William Maple who suggested that the opportunity lay ready to hand in Rackham.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La prima cosa che iniziò a minacciare tali cose immutabili con il cambiamento fu una strana e inspiegabile tendenza nel rapporto tra entrate e spese. Henry Maple, nei momenti in cui leggeva o si divertiva in tranquillità, ne sentiva parlare vagamente come di “questi tempi”. Si poteva anche definirla un insieme di nuove abitudini tipiche di un'epoca in cambiamento: viaggi più frequenti, visite più numerose da parte delle persone, agricoltori che si presentavano timidamente e in privato per chiedere una piccola riduzione dell'affitto, o addirittura interventi costosi di riparazione che venivano accettati senza problemi; un anno o due dopo, tornavano a chiedere altro, e anche questa volta veniva accontentati, ma ormai con qualche riserva.
+
+Quel secolo aveva quindi nove anni, e anche suo figlio piccolo, solitario ma affettuoso, di cui il padre si faceva un compagno inseparabile, ne aveva anch'esso nove. Fu allora che Henry Maple si rese conto che c'erano molte cose che avrebbe dovuto fare per la casa, ma non le aveva fatte a causa della mancanza di fondi. Il deterioramento delle strutture avviene infatti molto lentamente. Era abituato a vedere i recinti che iniziavano ad apparire fatiscenti e a notare l’erba alta sui pochi sentieri: il giardiniere, infatti, stava invecchiando e non era più così attivo come una volta.
+
+Henry Maple si era anche abituato all’uso eccessivo del proprio conto in banca; tuttavia, alcuni anni prima, quando il direttore gli aveva suggerito, durante una conversazione cordiale, di stabilire un limite massimo per le spese, ne era rimasto piuttosto turbato. Ma anche a questo si era abituato.
+
+Con grande riluttanza e in modo piuttosto casuale e dispendioso, ipotecò due delle fattorie più lontane; poi ne ipotecò una terza. Arrivò un momento in cui gli risultò difficile pagare interamente gli interessi, anche se si trattava di un avvocato di famiglia che faceva ormai parte integrante della sua vita e che fino ad allora aveva gestito le cose con relativa facilità al suo fianco. Tuttavia, nel 1905, in un momento piuttosto improvviso, gli servirono 1.000 sterline.
+
+Non gli era mai passato per la mente quanto facilmente suo fratello minore, William Maple – un avvocato londinese molto impegnato che vedeva abbastanza spesso – potesse occuparsi di quella questione, né quanto fosse disposto a farlo. Fu proprio William Maple ad proporre la soluzione (come avesse potuto venire a sapere di quella situazione imbarazzante era qualcosa che Henry non riusciva nemmeno a immaginare; in effetti, William non perse tempo a indovinarlo). La proposta fu fatta dopo una tranquilla cena tra i due fratelli, durante il fine settimana trascorso da William a Rackham, e il fratello maggiore la accettò con vera gratitudine.
+
+Seguirono un secondo e un terzo migliaio di anni. William veniva spesso, diventando un ospite assiduo. Aveva sposato una donna attraente e piuttosto decisa, della stessa condizione sociale sua; figlia del Decano di Lamborough, nipote di un importante proprietario di miniere di carbone delle Midlands. Una donna che amava conoscere il mondo, e la cui crescente frequentazione con diverse persone ricche e note a Londra giovò notevolmente al marito, e non poco anche a suo vantaggio.
+
+A Henry Maple non piaceva molto sua cognata. Il suo modo di vivere materialista lo infastidiva, e inoltre lei non conosceva affatto le cose che lui amava. Tuttavia, non la giudicò mai ingiustamente. La invitava abbastanza spesso, e in fondo erano buoni amici.
+
+William Maple era esattamente ciò che Henry sarebbe diventato se il Destino lo avesse costretto (cosa che non accadde mai) a guadagnarsi da vivere con il lavoro. Ma nei vent’anni trascorsi dalla loro infanzia comune, le differenze nel modo di pensare e nelle attività svolte divennero sempre più evidenti. William era preciso e metodico: non ingiusto, ma ormai del tutto incapace di compiere qualsiasi azione che non fosse legata al lavoro o che risultasse negligente. Un accordo era un accordo, un contratto era un contratto; e i suoi risultati, anche se dannosi per l’altra parte, erano responsabilità dell’altra parte stessa. In questo senso, non riusciva a separare la propria famiglia dal resto del mondo, proprio come non avrebbe potuto distinguere un insieme di cifre da un altro nei suoi appunti. Li teneva con cura anno dopo anno; nessuno li vedeva se non lui stesso, e svolgevano esattamente lo stesso ruolo che il sistema contabile più sofisticato può avere in un’impresa di grandi dimensioni.
+
+Negli occhi di Henry era del tutto naturale che suo fratello fosse disponibile a permettere che tale interesse venisse aggiunto al debito principale; altrettanto naturale, per William, era che questa sua posizione, sebbene generosa, dovesse comunque essere regolamentata con precisione, affinché non causasse confusione.
+
+Le perdite derivanti da tutte le attività agricole inglesi continuarono; le nuove abitudini rimasero invariate; le spese aumentarono leggermente; nella mente di Henry Maple persisteva l’idea vaga che lo stato delle cose precedente fosse quello naturale e permanente, e che prima o poi sarebbe tornato.
+
+Sapeva approssimativamente che, dopo alcuni anni, il suo debito totale nei confronti di suo fratello era arrivato a 7.000 sterline; sapeva anche che gli interessi erano in arretrato, ma non aveva idea esatta di quanto potesse ammontare la somma degli interessi nuovi su quegli arretrati, e non ci pensava troppo.
+
+Quando William suggerì che i mutui relativi alle fattorie potessero essere assorbiti da un unico ente, al fine di raggruppare tutte le obbligazioni in un unico insieme, lui fu più che disposto ad accettare: in questo modo tutto rimaneva all’interno della famiglia. La cifra fissata nella sua mente, di 7.000 sterline, aumentò quindi a 10.000 sterline; i ritardi nei pagamenti degli interessi continuarono ad accumularsi. Ci furono anche uno o due ulteriori prestiti, e un bel giorno del 1913 William ritenne giusto fare un quadro chiaro della situazione e discutere dettagliatamente di tutto con suo fratello. Fu così che, in una domenica d’agosto – un anno prima di quella guerra del tutto inimmaginabile – arrivò il momento decisivo.
+
+Durante la settimana precedente, William aveva ripensato attentamente a ciò che avrebbe detto e fatto. Aveva pianificato tutto nei minimi dettagli, sistematizzando ogni cosa in modo ordinato.
+
+William Maple aveva avuto successo: aveva acquistato una di quelle dignitose case storiche situate lungo il fiume a Cheyne Walk, spendendo per essa molto più di quanto forse avrebbe fatto se sua moglie non lo avesse incoraggiato. Quella casa stava diventando un punto di ritrovo a Londra per persone che scrivevano, dipingevano e venivano spesso menzionate; inoltre, vi si riunivano anche persone importanti che erano entrate in politica, nonché alcuni individui ancora più influenti il cui successo derivava soltanto dalla loro nuova ricchezza. La signora William Maple aveva deciso che fosse arrivato il momento di acquistare anche una casa in campagna; ma suo marito, nonostante tutto il suo successo, esitava riguardo alle spese necessarie. Fu proprio la signora William Maple a suggerire che l’occasione giusta si presentasse proprio a Rackham.
 
 
 
@@ -2961,6 +3019,54 @@ It was not quite what Henry had expected. He looked up rather startled and a lit
 What had floated in Henry’s mind for so long was a fixed figure in large print — £10,000. And after it — in a sort of blur — something or other that might be a few thousand more. £17,324 pulled him up. It was a good deal more than he had bargained for. Then he remembered sundry odd sums which, after all, he ought to have added to that £10,000. There had been the cleaning out of what they called “the Lake” but the villagers “the Pond”; and yes — now he remembered it — there had been the big subscription which he had thought only right for the building of the new bit on to the church. That was years ago, and somehow or other he had not connected it with the main debt. And then, of course, arrears did mount up. After all, 5 percent, on £10,000 was £500 a year, was it not? And there is interest on that interest when it is not paid. Yes, it was right enough, no doubt. Such was the course of Henry’s rambling mind, before which now stood a new figure, large, dominant, £17,324.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Henry non sposerà mai più,” aveva detto. “Più a lungo terrà quella casa, più andrà in rovina. Non credo che quel ragazzo, John, possa farci del bene. È un bravo ragazzo intelligente, e gli voglio bene quanto te; ma so già come andrà a finire.”
+
+E William, dopo una pausa piuttosto lunga, aveva concordato che lei avesse ragione – almeno per quanto riguardava l’incapacità di suo fratello nel gestire le cose e la probabilità che tutto andasse storto se le cose continuavano così come stavano.
+
+Non c'era bisogno di fare nulla di duro o sgradevole, aveva detto la signora William. Dopotutto, considerando le ingenti somme prestate e gli assurdi arretrati di interesse, nonché gli interessi su quegli stessi arretrati, che suo marito si ricordasse che spesso doveva occuparsene lui stesso quando effettuava nuove investimenti; inoltre, a seconda della banca, la somma totale doveva essere ormai vicina ai 18.000 sterline.
+
+“Non esattamente,” aveva risposto William Maple.
+
+“Beh!” la signora William lo prese in mano con un sospiro piuttosto acuto, “comunque ci siamo quasi. E non possiamo permettercelo – lo sai bene. Inoltre, come dico io, sarebbe una benedizione per tutti; e non c’è bisogno di fare nulla di duro o sgradevole. Puoi suggerire qualche soluzione. Henry potrebbe viaggiare per un po’, con quello che riusciamo ancora a concedergli, e noi potremmo pagargli l’affitto per un certo periodo, poi vedremo cosa si può fare quando avremo più spazio.”
+
+“Sì”, aveva risposto suo marito, “Sì… Qualcosa del genere potrebbe essere fatto… Certo”.
+
+Qualcosa del genere gli era anche passato per la mente, vero? In modo vago. Mancavano quasi 18.000 sterline: concediamoci quindi altre 2.000 o giù di lì per Henry. Dopotutto, considerando le condizioni attuali del terreno, 20.000 sterline erano una somma più che adeguata per Rackham. Anzi, forse persino eccessiva. C’era ancora un sacco di lavoro da fare in quella proprietà; lui già iniziava a considerarla quasi come sua. Per quanto riguarda sua moglie, lei era già lì, con la sua presenza spirituale: organizzava tutto, rinnovava ogni angolo della casa, da cantina a tetto. E una moglie di squire, proprio come doveva essere. Inoltre, era anche l’angelo custode di povero Henry e del suo sfortunato figlioletto. Li stava salvando da un futuro terribile.
+
+Quella sera, William rimase seduto fino a tardi nello studio, mettendo in ordine tutti i documenti e riportando le cifre principali in modo estremamente chiaro e semplice. Il giorno dopo si recò da Rackham, e il giorno successivo partì dalla stazione con l’antico calesse trainato dal vecchio cavallo, lungo la strada in rovina, fino alla porta che non veniva verniciata da quando era stata conquistata con successo la Repubblica Boera, e anche i profitti di Chartereds avevano subito un brutto calo.
+
+Ecco lì William Maple, in quella serata di domenica dell’agosto 1913, seduto davanti al vino di suo fratello Henry, pronto ad ascoltare una spiegazione.
+
+“È lo stesso porto?” chiese.
+
+“Sì,” rispose Henry, prendendo il suo bicchiere e guardando attraverso di esso una candela.
+
+“Pensavo fosse andato perso. Mio padre l’aveva messo da parte il giorno in cui sei entrato nell’Esercito”, disse William.
+
+Henry annuì.
+
+“Non c’è alcun motivo per cui dovesse succedere. Anche se non è stato un anno particolarmente buono. Comunque, va tutto bene lo stesso.”
+
+Le tende non erano tirate; le grandi finestre brutte del salone da pranzo erano aperte sulla calda notte di agosto. Il legno di mogano rifletteva i piatti di vetro e l’argento. Lo sguardo di Henry si posò, senza vedere nulla, sulla decorazione che quel fortunato fabbro e commerciante di bestiame aveva fatto realizzare più di un secolo prima. Era una scena immutata; esattamente come era stata negli ultimi trent’anni e più, fin da quando quegli uomini se ne ricordavano, tranne per il colore leggermente più scuro delle pareti e per l’usura irregolare del rosso damasco delle tende. William notò ora altri piccoli dettagli, anche se Henry non avrebbe mai potuto farglieli notare: uno dei pomelli delle campane era scomparso dal lato della stufa, lasciando solo un mozzicone di ferro; e povera vecchia Minerva, con il suo elmo, appesa a un gancio (era italiana, portata qui dopo le guerre francesi), aveva perso la punta del naso.
+
+Il silenzio non poteva durare per sempre, e William si preparò a parlare. Dopotutto, non gli costava alcuno sforzo: aveva già dovuto fare cose del genere venti volte in precedenza, anche se mai in ambienti del genere, né con la difficoltà – lieve per lui, ma comunque presente – di mettere a rischio i ricordi d’infanzia.
+
+“Henry,” disse lui piuttosto all’improvviso, “devo parlarti delle tue faccende personali.”
+
+“Sì,” disse Henry dolcemente. “Sì… cosa?”
+
+Non provava alcuna particolare paura per ciò che stava per accadere; pensava che potesse trattarsi di un altro prestito, e questo non sarebbe stato affatto sgradito. C'era stata un'altra piccola complicazione: il mulino ad acqua doveva assolutamente essere controllato, e temeva che ciò avrebbe comportato spese considerevoli. George Barrett, il mugnaio, ne aveva parlato due volte.
+
+“Henry,” continuò William, “penso che sia davvero arrivato il momento di fare un bilancio.”
+
+Non era esattamente ciò che Henry si aspettava. Alzò lo sguardo, piuttosto sorpreso e un po’ confuso. Ma riconobbe la giustizia di quella decisione. Dopotutto, in nessun momento avevano effettuato alcuna “valutazione” delle loro risorse. William tolse dalla bocca l’estremità del sigaro che stava fumando e lo schiacciò lentamente nel piatto. Cercò dei documenti nella tasca, ma poi cambiò idea. Guardando il tavolo, per evitare lo sguardo di suo fratello, disse:
+
+“La somma totale, Henry, includendo anche i ritardi nei pagamenti degli interessi, è di circa 17.324 sterline,” disse, facendo una pausa. “17.324, circa.” Poi tirò fuori un foglio di carta, lo dispiegò davanti a sé e ripeté: “Sì, esatto: 17.324 sterline, 14 scellini e 3 pence.”
+
+Quello che da tempo girava nella mente di Henry era un numero ben definito, scritto in caratteri grandi: 10.000 sterline. E dopo di quello, in una sorta di nebbia, c’era qualcos’altro che poteva aggiungere altre migliaia. Il totale di 17.324 sterline lo colpì: era molto di più di quanto avesse previsto. Poi si ricordò di diverse somme minori che, in fondo, avrebbe dovuto aggiungere a quelle 10.000 sterline. C’era stato il costo per la pulizia di quella che i villaggiani chiamavano “il Lago”, ma che lui preferiva definire “il Laghetto”; e poi c’era stata quella grande donazione che aveva ritenuto giusta per la costruzione della nuova parte della chiesa. Era successo anni prima, e in qualche modo non l’aveva collegata al debito principale. E naturalmente, i ritardi nel pagamento si accumulavano. Del resto, il 5 percento su 10.000 sterline equivaleva a 500 sterline all’anno, giusto? E c’era anche l’interesse su quegli interessi, quando non venivano pagati. Sì, senza dubbio era tutto corretto. Questo era il corso dei pensieri di Henry. Fino a quando davanti ai suoi occhi non apparve un nuovo numero: 17.324 sterline. Un numero grande, dominante.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_04" data-title="The Haunted House — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/great_house,concept/economics,concept/greed_and_money,concept/deception,concept/self_deception,concept/family_and_lineage,form/novel"></span>
@@ -3013,6 +3119,54 @@ William interrupted him firmly, looking him straight in the face for the first t
 There was a very long silence. By the end of it the elder brother had taken one of those curiously rapid decisions which the undetermined do take when they are brought up suddenly against realities.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Sì,” disse dolcemente, alzando lo sguardo con un po' di timidezza, “sì, William, sono sicuro che hai ragione. Controllerò i miei calcoli.” Non aveva la minima idea dove fossero quei documenti, né se li avesse tutti. “17.324 sterline. Sono sicuro che hai ragione.”
+
+William iniziò a scrivere sul foglio con la punta di una piccola penna d’oro che portava alla catena dell’orologio, senza alcun significato particolare.
+
+“Sai, Henry, per essere onesto,” disse, “non ho potuto superare i 20.000 sterline. Sarò molto chiaro con te: non abbiamo mai avuto segreti l’uno dall’altro. Non mi trovo in cattive condizioni finanziarie. Ma il valore di una persona è una cosa, e i soldi a disposizione un’altra. E Hilda, sai, non che la biasimi, ma le piace avere sempre molte persone in casa, ” Fece una pausa.
+
+“Sì,” disse Henry con dolcezza, “sì, è la moglie di un uomo che sta facendo carriera… Ha perfettamente ragione.”
+
+“Beh, vedi,” continuò William, con lo sguardo ancora distolto da quello di suo fratello, mentre scriveva freneticamente cerchi intorno alla cifra di 17.324 sterline, “il fatto è che non posso fare a meno di pensare che noi due potremmo trovare un accordo che vada bene a entrambi, ”
+
+“Non ne dubito affatto, William,” disse Henry con dolcezza, e nel suo tono c'era anche un po' di ammirazione. Non aveva idea di come riuscissero questi bravi uomini d'affari; provava per loro qualcosa di simile a ciò che provava per quei ragazzi più grandi all’“Eleven” quando era bambino a scuola. “Sei sempre stato molto generoso con me, William.”
+
+“Non voglio che tu dica così, Henry,” disse William, in modo dignitoso e sobrio. “Vorrei aver potuto fare di più. Comunque sia, è già tutto ciò che posso offrire. E onestamente, non riuscirò ad andare oltre i 20.000 sterline.”
+
+Quello che adesso emerse dalla nebbia nella mente di Henry fu il fatto che esistesse un margine, un margine di ben oltre 2.000 sterline, che lui, come al solito, stimò in “circa tre”. Stava proprio per suggerire qualcosa riguardo a quel margine e quanto potesse essere utile per lui, quando William parlò di nuovo. “Henry,” disse, abbassando la voce di un tono o due e parlando più lentamente, “non voglio sembrare di darti consigli; ma forse sono più abituato ai dettagli degli affari rispetto a te. È inevitabile, visto il tipo diverso di vita che ho dovuto condurre. Ma, temo davvero che, se non facciamo attenzione, i prossimi anni possano rivelarsi disastrosi per te.”
+
+“Ah,” rispose suo fratello con inquietudine, “le cose sicuramente cambieranno, lo sai. Solo stamattina ho letto che il prezzo del grano è aumentato di altri 2 centesimi. È vero, è la stagione giusta per questo, ma, ”
+
+William lo interruppe con fermezza, guardandolo dritto negli occhi per la prima volta durante tutta quella conversazione, e posò con decisione la sua mano destra sul tavolo.
+
+“Mio caro Henry, no,” disse, “no. Ho visto già molte cose di questo genere. Onestamente, non può continuare così. È ovviamente una tua questione personale; non voglio intromettermi. Ma mi solleverebbe il peso (e so di avere ragione nel suggerirlo) se tu decidessi di adottare l’unica misura possibile per risolvere la situazione.”
+
+“Cosa?” disse Henry, confuso e allarmato. “Vendere la proprietà? William? Vendere la casa, vendere Rackham?”
+
+“Oh, no!” rispose William con un po’ di stanchezza, ma cercando di usare un tono rassicurante. “No! No! Non c’è nulla di tragico. Ma perché non dovresti vedere che il posto è ben curato e in buone mani, e perché non dovresti viaggiare tu stesso? Viaggiare con quel ragazzo. Ti piaceva viaggiare, e per lui sarebbe davvero benefico, a quell’età. Un periodo di tempo trascorso tra la Scuola Preparatoria e la Scuola Pubblica non fa certo male, e lui è proprio in un’età in cui impara molto da ciò che vede. È sorprendente quanto si possa imparare viaggiando per un anno o due.”
+
+“Viaggiare?”, ripeté Henry, come se esitasse. Aveva amato quei pochi viaggi che aveva fatto da giovane; la parola lo attirava. Ma i legami con il suo vecchio posto lo chiamavano improvvisamente indietro, così come l’abitudine quotidiana ormai radicata nella sua vita di mezza età.
+
+“Non riuscivo a sopportare l’idea di lasciarlo andare,” disse tristemente scuotendo la testa. “Non potevo permettere che finisse nelle mani di Rackham. Inoltre, chi lo prenderebbe? Chi si impegnerebbe a preservarlo?”
+
+“Mio caro amico, non ho affatto suggerito che tu dovessi lasciar perdere quella opportunità. Ho un’idea e vorrei presentartela; vorrei che la considerassi con molta attenzione. Non c’è fretta. Io potrei occuparmi di quel posto. Potrei venire qui di tanto in tanto, nei fine settimana e così via. Ho i mezzi necessari e mi piacerebbe molto svolgere quel lavoro. Mi piace la campagna, sai. E poi c’è Hilda, ”
+
+“Intendi dire, vivere qui?” chiese Henry.
+
+“Beh, caro amico, solo di tanto in tanto, ovviamente, tornerei da Londra. Ma la cosa verrebbe mantenuta e non ti costerebbe nulla; inoltre, mi assicurerei che venisse sistemata più o meno a dovere, capisci? È un'ottima idea. E stabilirei una somma ragionevole come affitto da pagare a te, in relazione agli interessi che dovessero essere versati. In questo modo, anche gli affitti della tua fattoria ti arriverebbero, almeno verrebbero utilizzati per coprire quegli interessi.”
+
+“Ora gli affitti non sono molto alti,” disse Henry con aria cupa.
+
+“No; ma come, fa davvero differenza. E sai, quando si è in un certo contesto, si cerca sempre di fare qualcosa per mantenerlo in funzione, o addirittura migliorarlo. Per quanto riguarda l’equilibrio finanziario, intendo dire fino a 20.000 sterline, come ho detto, ”
+
+“Sì, sì,” rispose suo fratello, in modo un po’ brusco. Poi rimase pensieroso. William continuò: si alzò dalla sedia e iniziò a camminare avanti e indietro nella stanza.
+
+“Guarda qui, Henry,” disse, “in breve, bisogna fare qualcosa, e sicuramente questa è l’azione più sensata da intraprendere. Sai che ti piace viaggiare; sarebbe meraviglioso per il ragazzo. E forse, quando arriverà il momento giusto, le cose miglioreranno.” Ora era William a essere vago. Era irrequieto e si sedette di nuovo, guardando dritto negli occhi suo fratello. “Te l’ho detto, Henry. Devi capirlo: se non facciamo nulla, ci sarà un disastro. Vivere all’estero ti costerebbe meno della metà – anzi, meno di un terzo – di quanto ti costa vivere qui. Io lo accetterei tutto, almeno per il momento. E in questo modo anche la scuola del ragazzo non verrebbe interrotta. Ci sono solo vantaggi. Nessun svantaggio. Pensaci bene.”
+
+Passò un silenzio molto lungo. Alla fine di esso, il fratello maggiore prese una di quelle decisioni stranamente rapide che le persone indecise prendono quando vengono improvvisamente messe di fronte alla realtà.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_05" data-title="The Haunted House — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/great_house,concept/economics,concept/family_and_lineage,concept/tradition,concept/self_deception,concept/nostalgia,form/novel"></span>
@@ -3057,6 +3211,46 @@ He remembered how cheaply he had travelled in the past, and how he had enjoyed t
 And that was the way in which Rackham began its fourth transfer — but, after all, remained under the same blood.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Disse semplicemente:
+
+“Molto bene, William,” disse poi, sospirando, e aggiunse: “Sì… penso che tu abbia ragione.”
+
+Seguì un altro silenzio; durante quel momento, l’uomo più giovane e più benestante si sentiva come un nuotatore esausto che finalmente tocca riva con i piedi. Quando riprese a parlare, il suo tono era più leggero.
+
+“Beh, ne sono davvero molto felice, Henry. Ringrazio Dio per questo. Penso davvero che sia la cosa migliore. Ovviamente lo è. Se solo tu avessi visto quello che ho visto io, ”
+
+“Sì, lo so,” disse Henry con dolcezza. “Lo so.”
+
+“Caro amico, nel mio lavoro assisto spesso a tragedie che…”
+
+“Sì, lo so,” ripeté Henry. “Lo so.”
+
+“Due anni, forse tre; ne potremo parlare quando sarà il momento giusto. Non c’è alcuna urgenza.”
+
+“Non c’è fretta, ovviamente,” disse Henry. “Ma vorrei farlo quest’autunno. Queste cose è meglio che vengano fatte il prima possibile, se vogliamo davvero riuscirci.”
+
+Il suo tono non era disperato, né tantomeno triste: sapeva che avrebbe dovuto affrontare una giornata molto triste, ma era naturale per un uomo del genere sperare in un ritorno rapido di tutto ciò che aveva conosciuto.
+
+“Andrò a sud,” disse. “Non ti ci vorrà molto per capire tutta la verità, vero?”
+
+“Oh, non avremo bisogno di nulla di troppo formale, delle lettere basteranno,” disse suo fratello. “Ascolta,” aggiunse, “è meglio che tu riesca ad avere quel saldo di 2.000 sterline il prima possibile, così potrai fare tutti i preparativi necessari prima di iniziare; poi penseremo insieme a quale possa essere il saldo annuale tra l’affitto e quanto ti spetta, capisci? E calcoleremo anche il resto dei tuoi introiti. C’è ancora una bella somma del prestito del governo tedesco di nostro padre, no?”
+
+“Sì,” disse Henry semplicemente. “L’ho ancora; è in banca a Lewes. Non hanno mai depositato molto. Non so esattamente quanto. Penso siano circa 400 o 450 sterline. Non lo so con certezza.”
+
+“Beh,” rispose William, “sono solo i soliti tassi di interesse dei prestiti governativi di prima classe, ma comunque, le cose tedesche sono altrettanto sicure dell’oro.”
+
+“Sì,” disse Henry.
+
+“Troverai che il margine di manovra è ampio,” gli assicurò suo fratello. “Tutto sarà molto semplice.” Anche a Henry iniziava a sembrare davvero semplice.
+
+Ricordò quanto fosse stato economico viaggiare in passato, e quanto gli piacessero quei piccoli luoghi e quelle semplici abitudini. Pensò a un anno della sua infanzia trascorso con suo padre in Italia, subito dopo l’unificazione del paese. Cominciò a immaginare la gioia di quel bambino di fronte alle montagne e alle bellezze di quelle nuove terre.
+
+“Sì, sì,” disse. “È la cosa migliore. Scrivimi le lettere quando avrai deciso, e le controllerò io stesso.”
+
+Ed è così che Rackham iniziò il suo quarto trasferimento, ma, dopotutto, rimase sempre appartenente alla stessa famiglia.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="The Haunted House — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/great_house,concept/family_and_lineage,concept/war_and_its_cost,concept/mortality,concept/self_deception,concept/nostalgia,form/novel,histref/first_world_war,histref/battle_of_the_marne"></span>
@@ -3090,6 +3284,36 @@ On the 2nd May, 1918, not for the first time, but hardly for more than the secon
 
 The shock fell on a man much nearer death than either he or his child had imagined. He went down a further step in the descent out of this life. He had been really fond of his brother; too grateful for a generosity that had been very much more like an investment; and he was bound — as such natures are — by the common memories of childhood.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO II
+
+Era all’inizio di giugno del 1914. Henry Maple si trovava in Svizzera, non nella Svizzera turistica che odiava, ma sulle piacevoli pendici meridionali dei Giura, con vista sulla pianura e le grandi montagne a sud.
+
+Era più felice di quanto non lo fosse stato da molti anni, persino più felice che a Rackham. Quel recente senso di imbarazzo, quelle continue cambiamenti e preoccupazioni quotidiane erano ormai ricordi spiacevoli ma ormai sbiaditi. All’inizio dell’anno era tornato in Inghilterra da solo e aveva scoperto che Rackham era già stato sistemato con grande cura dal fratello ricco. Non sapeva se essere felice per quel ritorno alle vecchie abitudini o addolorato per i cambiamenti avvenuti. Ma nel complesso, ne era più soddisfatto: dopotutto, Rackham assomigliava molto di più al posto che aveva conosciuto da bambino.
+
+Le risorse disponibili durante i mesi della sua assenza erano sufficienti per soddisfare le sue poche esigenze. Il ragazzo riceveva un’ottima istruzione a Solothurn, imparando con diligenza il francese e il tedesco; in autunno avrebbe frequentato la scuola pubblica dove avevano studiato suo padre e suo nonno. Poteva trascorrere parte delle vacanze con suo zio, ma sperava di passare la maggior parte del tempo qui, nel Giura, da solo. In quel breve periodo di esilio, che in realtà non era stato affatto sgradevole, i loro rapporti si erano molto rafforzati; il ragazzo aveva iniziato a considerare suo padre come un vero eroe: un uomo sempre gentile e comprensivo, che sembrava sapere davvero molte cose e che era in grado di mostrargli tutto ciò che c’era da scoprire in quel nuovo mondo dei viaggi. Le spese erano ormai solo un quarto di quelle sostenute in Sussex, anzi, aveva persino risparmiato! E se William gli pagava puntualmente la sua parte, lui a sua volta inviava regolarmente il resto dell’affitto e dei dividendi alla banca di Berna.
+
+Arrivarono la minaccia di guerra e l’ultimatum rivolto alla Serbia, ma Henry Maple aveva letto troppo e sapeva troppo del passato per credere che la guerra sarebbe davvero scoppiata.
+
+La guerra scoppiò; e questo carattere raffinato, colto e troppo distaccato dal mondo reale subì un effetto strano, ma non sgradito: l’isolamento. La sua vaga speranza rimase intatta; non gli erano mai piaciuti i tedeschi, quindi era certo che sarebbero stati sconfitti presto. Si sentiva al sicuro dove si trovava, e la vittoria sembrava essere solo questione di poche settimane.
+
+Il fiume Marne confermò la sua valutazione: la vittoria sembrava essere solo questione di poche settimane. Ma in autunno arrivò una lettera da William, che spiegava perché il prossimo versamento sarebbe stato considerevolmente più ridotto rispetto al precedente. Il “dividendo” tedesco, ovviamente, non era stato pagato. Non doveva preoccuparsi se i pagamenti presentavano qualche irregolarità: tutto era in disordine e trasferire denaro non risultava affatto facile; ma lui avrebbe trovato il modo. Sperava che Henry avesse risparmiato qualcosa, e che i ritardi inevitabili e la riduzione necessaria del totale fossero tollerabili fino al raggiungimento della pace, perché William era d’accordo sul fatto che non ci sarebbero stati ulteriori ritardi. Per quanto riguardava il ragazzo, era meglio che rimanesse dove si trovava: riceveva un’ottima istruzione, e non sarebbe stato troppo tardi per iscriversi alla sua scuola in Inghilterra una volta ripresa la pace. Aveva già parlato con il preside, e tutto sarebbe andato bene: qualche mese non avrebbe fatto differenza. Dopo tutto, John aveva appena quattordici anni.
+
+Sì; Henry aveva risparmiato un po’ di denaro, per la prima volta in vita sua (e ne era così orgoglioso!). La riduzione degli introiti rappresentava senz’altro un problema, ma significava soltanto che i suoi risparmi si erano fermati e che avrebbe dovuto prestare maggiore attenzione alle sue spese molto modeste. Era segretamente felice all’idea che suo figlio non dovesse lasciarlo per sempre, né cercare di raggiungerlo durante le vacanze in condizioni così difficili come quelle del tempo di guerra. Certo, John avrebbe iniziato la scuola un po’ in ritardo, ma si consolava pensando che, dopotutto, avrebbe avuto il ragazzo con sé per molto più tempo, e questo rappresentava una grande gioia. Quel ritardo gli procurò alcuni vantaggi. Era davvero positivo che un giovane inglese conoscesse bene altri paesi e altre lingue fin da piccolo; le cose si sarebbero sistemate in qualche modo.
+
+Quindi tutto continuò per la maggior parte del “quindici”. Le somme di denaro inviate regolarmente erano sufficienti per far andare avanti le cose, ma non di più. La vittoria sembrava possibile in qualsiasi momento, anche se, a dire il vero, stava diventando sempre più difficile raggiungerla. Verso la fine dell’anno, Henry Maple iniziò a percepire un cambiamento nel proprio spirito e nella propria speranza. Era come se il mondo stesso avesse perso il suo sapore originale.
+
+Lo attribuì alla guerra – ma non era la guerra. Il 1916 passò, e quell’“nemico interno”, qualunque esso fosse, prese sempre di più della sua vita. Eppure lui lo attribuiva soltanto alle restrizioni, alle fatiche e alle ansie di quel periodo. L’avanzamento della malattia era lento; suo figlio quasi non se ne accorgeva. Per un ragazzo della sua età, un uomo di oltre cinquant’anni sembra molto vecchio, e il fatto che suo padre non potesse più fare quelle lunghe passeggiate o leggere per lunghi periodi di tempo gli sembrava semplicemente il normale processo dell’invecchiamento.
+
+Andò avanti per altri due anni. Due volte Henry decise di tornare a casa per vedere se, nonostante fosse troppo tardi, si potesse ancora convincere il ragazzo ad andare a scuola. Ma due volte abbandonò quella decisione: le crescenti difficoltà del viaggio lo spaventavano, e bisogna ammettere che un motivo più forte era la sua attaccamento alla compagnia di John. Le insistenze urgenti di suo fratello perché non si muovesse, le assicurazioni che stesse meglio dove si trovava, e vari accenni nelle lettere – accenni che erano riusciti a eludere la censura – che l’Inghilterra potesse non essere del tutto sicura, contribuirono ad alimentare la sua apatia. La sua crescente debolezza fece il resto: decise di aspettare che la guerra finisse, convinto comunque che sarebbe terminata “quasi da un momento all’altro” e in modo positivo.
+
+* * *
+
+Il 2 maggio 1918, non per la prima volta, ma quasi certamente per la seconda nella vita di Henry Maple, fu brutalmente riportato alla realtà. Arrivò un telegramma da Hilda che annunciava la morte improvvisa di William; una lettera sarebbe seguita.
+
+Lo shock colpì un uomo che si trovava molto più vicino alla morte di quanto lui o suo figlio avessero immaginato. Fece un altro passo verso la fine di questa vita. Aveva davvero a cuore suo fratello; era troppo grato per quella generosità che, in realtà, assomigliava molto di più a un investimento; e, come sono queste persone, era legato a lui dai ricordi comuni dell’infanzia.
 
 
 
@@ -3130,6 +3354,42 @@ Such men postpone: but now there could be no postponement. He spoke to the boy.
 
 “John,” he said, “you know that I have been very ill, and you have seen me getting worse.” He looked at the tall boy — the tall young man, he seemed, for the first time, in his father’s eyes; strong in his eighteen years — and understood how true it is that children are a mitigation of the memory of death. Something far stronger than his own youth was there: as tender, but more sturdy, and (he secretly hoped) more obstinate.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma c'era anche un lato positivo in tutto ciò; infatti, quel momento portò un po' di luce nella mente dell’uomo che stava morendo, perché ormai era davvero agli sgoccioli della vita, sebbene lentamente. Dopotutto, John era l’erede: William era morto senza figli. John ereditava non solo la cara Rackham e i suoi terreni poveri, ma anche quella solida fortuna che William aveva accumulato, naturalmente, sempre soggetta ai diritti vitali di Hilda: era giusto così.
+
+Henry ammise onestamente con se stesso che non gli era mai piaciuta Hilda; era troppo chiassosa per i suoi gusti. Si diceva spesso che non fosse davvero una signora. Ma doveva essere giusto: ovviamente lei avrebbe dovuto godere della maggior parte delle proprietà finché fosse viva. Era solo giusto. Comunque, John era l’erede. Henry sapeva di essere malato; ma John era l’erede, quindi tutto andava bene. Il ragazzo aveva quasi diciotto anni: presto avrebbero dovuto pensare all’università. La guerra non poteva continuare all’infinito. E in un certo senso, era quasi una sorta di provvidenza che quel povero William fosse morto proprio in quel momento, vero? Ma no. Quel pensiero doveva scacciarlo dalla mente. Comunque, William si sarebbe preso cura del ragazzo. Era meglio che andasse all’Oriel. Non sapeva esattamente come stessero le cose ad Oriel in quel momento, ma lui stesso aveva studiato lì. E questo era motivo sufficiente. Doveva essere l’Oriel. Tutto era già stato organizzato.
+
+Non aveva alcun dubbio su quale sarebbe stata la volontà di William; anche se in quei cinque anni, dall’ultima volta che si erano visti, era stato troppo delicato per parlarne con lui. Sarebbe stata la volontà normale di un figlio minore senza figli, arricchito all’interno di una famiglia terriera: Hilda avrebbe ricevuto l’usufrutto della proprietà, forse una somma considerevole; il resto degli introiti sarebbe stato accumulato per il ragazzo fino a quando non avesse raggiunto la maggiore età. E nel frattempo, gli sarebbe stata concessa una somma per i suoi studi. Forse Hilda sarebbe stata nominata sua tutrice. Lui se ne sarebbe pentito, ma non gli dispiaceva. Non riusciva a pensare troppo a queste cose: non riusciva a concentrarsi. Aspettava solo quei documenti.
+
+Invece dei documenti, arrivò solo un paio di lettere rare dalla sua nuora; ma tutto quell’estate del 1918 trascorse mentre la guerra finalmente sembrava volgere al termine, con il cambiamento della situazione e l’armistizio. Alla fine dell’anno, anche Hilda stessa si trovò nella stanza del malato, troppo presto dopo che era arrivata una notizia che annunciava il suo arrivo.
+
+Rimase esattamente due giorni nella piccola casa sulle pendici dei Monti Giura: gentile solo con suo nipote, sufficientemente affettuosa verso suo cognato, e nient'altro. La signora William Maple era una donna d'affari ed era venuta lì per parlare di lavoro.
+
+Ecco in che consisteva la situazione: William Maple le aveva lasciato tutto completamente. Questo era il primo punto. Sì? (alzando la mano) Sicuramente non sospettava di lei. Lei avrebbe adempiuto al suo dovere, e sapeva bene qual fosse. Ma per quanto riguarda i termini legali del testamento, le cose stavano proprio così. Non era stata colpa sua. Non ne sapeva nulla fino a quando non fu letto. Henry doveva ricordare che si trattava dei soldi di suo marito. E, da parte sua, pensava che lui avesse agito correttamente.
+
+Bene, finito per questo argomento. Ora parliamo di Rackham.
+
+Cambiò un po' tono quando arrivò a questo punto. Non era esattamente imbarazzata, ma si sentiva leggermente a disagio. Si doveva impegnare a fare ciò che era necessario, ma non le piaceva farlo. Tuttavia, queste cose dovevano essere fatte, e lei fu chiara e concisa nel suo modo di esprimersi.
+
+Rackham se n'era andato; per sempre. William aveva risparmiato a suo fratello il dolore di dover affrontare troppi dettagli. Gli aveva fornito, in realtà, molto di più di quanto la differenza tra gli affitti e gli interessi avesse potuto coprire; lei aveva tutti i documenti in ordine, e aveva portato con sé anche il rendiconto contabile insieme ad altri numerosi documenti che suo fratello genero malato non aveva né l’energia né la lucidità mentale per esaminare. Lui ascoltava pazientemente mentre lei parlava, ma senza disperazione. In lui c’era ancora quella speranza che, nella sua vita tutt’altro che felice ma certamente molto sfortunata, era stata allo stesso tempo una maledizione e un conforto: perché uomini del genere preferiscono causare problemi ai loro discendenti piuttosto che a se stessi.
+
+Hilda spiegò la sua posizione in modo molto chiaro. Se fosse stata – e ringraziava Dio di non esserlo – una persona fredda e calcolatrice, l’unica cosa da fare sarebbe stata vendere Rackham; ma questo non era necessario, e comunque avrebbe perso migliaia di sterline con quell’accordo. Ma lei non era così. Gli assicurò che non lo era. Era disposta a perdere e ad accettare Rackham, così com’era, in cambio del rimborso di tutti i debiti. Era felice di fare quel sacrificio. Non avrebbe mai pensato di disturbarlo nella sua malattia con alcuna pressione. Un suo testamento a suo favore era un modo possibile. Se a lui non piaceva quell’idea, lei voleva essere generosa: l’avrebbe considerata una vera e propria acquisto, accettandola in cambio del debito.
+
+Henry la sentì, e non vide alcuna via d’uscita.
+
+“Farai la cosa giusta per quel ragazzo,” disse. “È l’unico figlio. Hilda, sicuramente farai la cosa giusta, vero?”
+
+Glielo assicurò; ma il significato di ciò che era giusto rimase vago, proprio come tutto nella vita di Henry Maple era stato lasciato senza chiarimenti. Comunque non aveva molta importanza, pensò lei: Rackham era suo e poteva disporne a piacimento, e davanti a lei c’era ancora molto tempo. Ciò che per il ragazzo significava “fare la cosa giusta” era, si sperava, un certo rispetto per la sua educazione appropriata; in quel caso, naturalmente, lui avrebbe avuto un ruolo importante rispetto a Rackham, purché Rackham rimanesse la loro casa e l’erede. E così fosse.
+
+* * *
+
+Quando arrivò la fine (fu quell’inverno terribile del ’19 a ucciderlo), arrivò abbastanza rapidamente. Ma proprio prima di quella fine, Henry Maple dimostrò una straordinaria capacità di intuizione e decisione. Fu come quel breve ritorno della marea in alcune baie prima dell’ultima bassa marea. Era come se avesse un compito da portare a termine.
+
+Uomini del genere rimandano sempre tutto; ma ora non c’era più spazio per ritardi. Parlò con il ragazzo.
+
+“John,” disse, “tu sai che sono stato molto malato e hai visto peggiorare la mia condizione.” Guardò il ragazzo alto – sembrava davvero un giovane uomo, per la prima volta negli occhi di suo padre; forte a soli diciotto anni – e capì quanto fosse vero che i bambini possano alleviare il ricordo della morte. C’era qualcosa in lui molto più forte della sua stessa giovinezza: altrettanto tenero, ma più robusto, e (sperava segretamente) anche più testardo.
 
 
 
@@ -3213,6 +3473,84 @@ His son kissed him upon the forehead, and thought it oddly cold.
 And next morning young John Maple, waking late, alarmed that his father had not rung, went to his door, and knocked, and heard no answer. That father was dead.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Sì, papà,” disse John. Prese la mano di suo padre, quella che era appoggiata sul tappeto della sedia a rotelle, proprio come avrebbe fatto una donna. “Ma ti riprenderai.”
+
+Henry Maple scosse leggermente la testa.
+
+“Non ve l’ho detto. Non ho permesso a nessuno di queste brave persone qui di dirvelo. Il dottore aveva ragione; ne sapeva tutto fin dall’inizio, e mi ha detto che sta per finire.”
+
+Per la prima volta nella sua giovane vita, John Maple provò quell’emozione intensa che improvvisamente rende il viso pallido, e capì che per un momento il suo cuore aveva smesso di battere. Non riuscì a trattenersi dal stringere convulsivamente la mano di suo padre. L’uomo anziano lo guardò con tutto l'affetto del passato nei suoi occhi.
+
+“A volte, caro John,” disse, “penso di non averti dato una vera opportunità. Allora mi dico che, dopotutto, era la guerra, e è stato meglio restare dove eravamo. Qui siamo stati molto felici.”
+
+“Sì, Papà,” disse John.
+
+“Non sei mai stato solo, ragazzo…”
+
+“Mai,” rispose John, con assoluta sincerità. “Mi piacciono i nostri amici qui, e quei due inglesi tanto quanto gli altri. Charles andrà a Oxford il prossimo semestre, ” Poi si fermò all’improvviso. Gli sembrava incredibile che, in quelle poche parole, avesse dimenticato l’impatto di ciò che era accaduto; e all’improvviso, contro la sua volontà, iniziò a piangere. Suo padre gli accarezzò la mano.
+
+“Non fa male piangere, ragazzo. Anzi, è meglio così. Più tardi ti sentirai meno oppresso. Era inevitabile che accadesse. Ma ho molte cose da dirti. Sai, siamo diventati molto più poveri, ”
+
+“Beh, sì, certo, Papà. Non so molto di queste cose, ma non ci è mancato nulla.”
+
+“No, caro ragazzo, ma non è Rackham. Ti ricordi bene di Rackham? Devi ricordartelo. Avevi più di tredici anni e eri già alto per la tua età quando l’hai lasciato.”
+
+“Sì, papà”, disse John, ancora in lacrime. “Ricordo Rackham!”
+
+“Beh, John, è molto difficile dirlo, ma proverò a farlo. Tecnicamente, legalmente, suppongo che questa sia la parola giusta. Rackham non mi appartiene più.”
+
+Il ragazzo sembrava confuso. Quel Rackham era stato loro, di suo padre, di suo nonno, e così via; un giorno sarebbe stato anche suo. Questo fatto gli era sembrato qualcosa di scontato, parte integrante dell’universo stesso. In sua mente, quell’idea non aveva alcun legame con il concetto di ricchezza; rappresentava semplicemente una realtà fondamentale della sua esistenza. I Maple e Rackham, erano una cosa sola.
+
+“Non si poteva fare altrimenti. Ho fatto del mio meglio. Sai, la terra è andata in pezzi. Tuo zio è stato molto generoso; davvero. Non saremmo nemmeno dovuti essere qui, se non fosse per lui. Onestamente, John, anche tua zia Hilda è stata molto generosa. Non posso negarlo.”
+
+“Cosa intendi per generoso, Papà?”, chiese il giovane, con un po’ di difficoltà.
+
+“Perché, mio caro,” rispose l’altro sospirando, “devovo qualcosa al marito di lei, e quindi, dopo la sua morte, dovevo anche qualcosa a lei, più di quanto potessi permettermi di pagare; più di quanto esistesse da qualche parte. C’era un investimento tedesco fatto dal tuo nonno, lo sapevi?”
+
+"No, Papa."
+
+“Beh, è scomparso, naturalmente. L’ho perso a causa del consiglio di tuo zio; lui diceva che fosse altrettanto sicuro dell’oro. Ma dopotutto, nessuno poteva esserne certo.”
+
+“Papà,” disse John Maple, ponendo una domanda del genere per la prima volta nella sua vita, spinto da chissà quale strana premonizione del futuro, “quanto era la somma dovuta? Quanto denaro veniva richiesto? Quanto sarebbe servito per,?”
+
+Suo padre lo guardò a lungo.
+
+“Stai pensando di riportare indietro Rackham?”
+
+“Oh, no, Papà,” disse, spaventato. Non aveva la minima idea di tali poteri; non riusciva nemmeno a immaginare di poterli ottenere. “Mi stavo solo chiedendo, ”
+
+“Beh, beh, ”, disse Henry Maple, tornando alla sua vaghezza abituale, “tua zia farà la cosa giusta. Quando me ne sarò andato, John, torna subito da lei. Vuoi sapere, di quanto era quella somma?”
+
+“Oh, non importa,” disse John. Ma qualcosa di intenso nella sua voce contraddiceva quelle parole.
+
+“Mio caro ragazzo, è facile da spiegare. La prima somma, quella effettiva, non intendo gli interessi, era di 10.000 sterline. Un po’ alla volta, tutto è iniziato negli anni difficili. Vedevo il grano venduto al mercato di Lewes a soli 10 penny al sacco. Comunque, tuo zio fu davvero generoso. Lo era davvero. Non mi ha mai messo pressione, e gli interessi sono cresciuti senza che lui dicesse una parola. E poi, alla fine, con tutte quelle spese e altro ancora, ” Esitò, come se la sua memoria non fosse del tutto affidabile, “Ah sì, per la chiesa. Beh, non furono esattamente 20.000 sterline. Ma tuo zio fu davvero generoso, credimi. Mi diede il resto necessario per raggiungere quella somma. Da allora abbiamo avuto anche alcuni affitti in più. Ci saranno circa 300 o 400 sterline che potrai prendere in banca quando, ” Non riuscì a finire la frase.
+
+“In totale, sono stati 20.000 sterline?” disse John.
+
+“Sì,” disse suo padre. “Ma, sai, quando è arrivata tua zia aveva tutti i documenti in ordine, e non si può negare che avesse diritto a molto di più di quello.”
+
+Il figlio rimase in silenzio: con ogni momento che passava, stava invecchiando.
+
+“Anche lei era così, davvero, John. L’hanno mantenuta in ottimo stato; sembrava addirittura il doppio di prima, anche se un po’ strana, quando ci sono tornata. Comunque ora è sua.”
+
+“Di lei?” disse John. “Oh, non preoccuparti, papà… Non è il caso che ti chieda una cosa del genere.”
+
+“Sì, caro ragazzo; doveva essere così. In teoria, lei avrebbe potuto costringermi a vendere. Ma a suo modo strano, penso che sia anche generosa. Anche se non posso dire di aver mai, ” Non completò la frase. Da quel momento in poi, nel cuore del ragazzo si formò un'immagine sgradevole di quella donna.
+
+“Era suo diritto, John. E farà la cosa giusta per te. Non ha figli, quindi sicuramente toccherà a te. E sai, devi andare all’Oriel, vero? Lei se ne occuperà. Ne sono certo. Parla con lei. E poi, il tuo stipendio, mio caro ragazzo, ”
+
+Si fermò, colpito da un improvviso attacco di estrema stanchezza.
+
+“Devo fermarmi ora, ragazzo.”
+
+Suo figlio lo baciò sulla fronte e gli sembrò stranamente fredda.
+
+“È tardi,” aggiunse il padre, quasi sussurrando. “Di’ a Marie di salire. Io vado a letto.”
+
+E la mattina seguente, il giovane John Maple, svegliatosi tardi, si allarmò nel vedere che suo padre non aveva suonato alla porta; bussò, ma non ricevette alcuna risposta. Quel padre era morto.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_04" data-title="The Haunted House — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/decay"></span>
@@ -3264,6 +3602,54 @@ It was not a courteous beginning in her ears, for she felt she was being enormou
 
 “It’s enough to turn round on,” he continued.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+Gli amici inglesi presenti lì gli dissero cosa dovesse fare, ma lui era ormai quasi in grado di agire da solo. Sebbene fosse stato tagliato fuori dalla vita della sua gente, possedeva una capacità decisionale straordinariamente matura; in quel momento, tale capacità era alimentata da un sentimento strano e tenace: nella sua mente si intrecciavano in modo indissolubile il ricordo del volto che non avrebbe mai più rivisto (ogni dettaglio del funerale rimase vivido per tutta la sua vita), una profonda sensazione di ingiustizia subita, e un’intenzione di agire vaga, priva di forma concreta, ma sorprendentemente forte. Ma non sapeva quale azione intraprendere, né come né dove farlo. Anche in uno così giovane, un dolore improvviso e travolgente aumentava in modo insopportabile la vividezza della realtà. Quanto più si soffermava – più della stessa esperienza reale – sulla voce, sui gesti di suo padre, su ogni cosa che lo riguardava, tanto più diventava estremamente sensibile alle cose dure e estranee che lo circondavano.
+
+Sua zia non era venuta al funerale. Sembrava mostrare un’indifferenza insopportabile. Per quanto fossero dure le condizioni immediatamente dopo la guerra, questo comportamento era inescusabile. La lettera che aveva ricevuto da lei lo aveva colpito come il ghiaccio; sebbene quella donna non avesse mai scritto nulla di cattivo in vita sua, nemmeno una parola gentile. Il viaggio di ritorno, in quei giorni strani e interrotti della primavera del ’19, con i ritardi, i vetri rotti nei vagoni e le notti insonni, sembrava portarlo verso qualche sorta di destino tragico. Che cosa sarebbe successo? Com’era diventato Rackham? Quel posto, lo ricordava abbastanza chiaramente, anche se non lo aveva più visto da quando era bambino: erano passati cinque anni e mezzo. Suo padre gli aveva descritto quel luogo in modo molto vago, dicendo che “sembrava il doppio di com’era prima”; ma evidentemente non gradiva approfondire quella descrizione. Si era immaginato alcune possibili consolazioni: rivedere Corton, l’ex maggiordomo, e gli altri. Probabilmente erano ancora lì. Quel familiare aspetto del posto, metà in mattoni, metà in legno; l’erba alta, il campo trascurato oltre le recinzioni arrugginite, il prato mal curato. Per lui, tutto ciò non rappresentava la decadenza, ma la Casa.
+
+Il suo primo shock lo provò in stazione.
+
+Non fu l’antico calesse che lo incontrò, né il vecchio cavallo che ricordava; fu un’auto, troppo elegante per un posto del genere. E il conducente, tra tutte le persone possibili, era un francese, congedato dall’esercito e, (a causa di qualche strana prevenzione da parte della zia) introdotto di nascosto nel paese grazie alla protezione di un amico parlamentare di lei.
+
+Il tragitto era troppo breve. Quella vecchia capanna fatiscente era scomparsa; al suo posto c'era una casetta in stile Queen Anne di pessima qualità. La strada ora era due volte più larga rispetto ai tempi passati, e il ghiaietto che la costituiva era pulito e nuovo. Poi, all’improvviso, in un attimo – mentre ancora era giorno – lo vide: Rackham.
+
+Ma era davvero Rackham? La facciata era completamente in legno ormai. E nessuno poteva dire se fosse tutta nuova o tutta vecchia. Sembrava nuova, ma fatta sembrare vecchia artificialmente. Le finestre, comunque, erano di tipo “vecchio-nuovo”, con le loro griglie incrociate. Gli ricordarono le poche volte in cui aveva visto scenografie teatrali, quando era andato con suo padre a Berne a vedere un spettacolo.
+
+Corton era lì quando la porta si aprì. E per la prima volta da molti giorni, provò un momento di gioia nel calore dei saluti dell’uomo anziano, ma in quali circostanze!
+
+Il vecchio salone era scomparso; la stanza successiva ne aveva preso il posto. Per via del suo aspetto vistoso, avrebbe potuto essere scambiato per il soggiorno di un hotel. C'erano travi strane, artificialmente ruvide e artificialmente oscurate. Alle pareti c'erano quadri che non aveva mai visto prima. Tutto sembrava nuovo, ma in modo orribilmente artefatto, che imitava il look dell’antichità.
+
+Era di cattivo umore quando sua zia lo ricevette. Ma quella prima sera le cose andarono abbastanza tranquillamente. Fece del suo meglio, anche se non era molto brava, non poteva fare di più. Era precisa, aveva esperienza nel mondo; non tollerava che le cose fossero casuali o imprecise. E credeva (erroneamente) che quel ragazzo davanti a lei fosse soltanto una ripetizione di suo padre, di cui non provava alcuna simpatia, e per la cui vaghezza e pigrizia nutriva tutto il disprezzo tipico della sua classe.
+
+Dico, era la migliore soluzione possibile; e per una settimana – pensò fosse opportuno lasciare passare un po’ di tempo prima di iniziare a parlare di qualsiasi cosa – la tensione continuò ad aumentare.
+
+Il punto di rottura arrivò una sera, dopo cena, nel salotto arredato in uno stile antico che John non riusciva a comprendere e odiava. Hilda Maple, con un tono che a lui sembrava più simile alle istruzioni di un funzionario che a una conversazione tra persone affini, iniziò a esporre i suoi piani per il suo futuro. Gli avrebbero concesso una certa somma di denaro – non una quantità insufficiente – da spendere in modo specifico; doveva rendicontarne l’uso. Aveva parlato con le autorità dell’università di Oriel e aveva visto le stanze che avrebbe avuto a disposizione. Le approvava. Forse avrebbe preferito Christ Church, ma era il desiderio di suo povero padre. Lo disse come se il desiderio di suo padre fosse necessariamente meno valido del suo. Dopotutto, povero Henry aveva studiato a Oriel, no?
+
+John non rispose. Ascoltava, con un crescente senso di rabbia nel cuore.
+
+“Volevano che tu studiassi storia,” disse lei, “ma io sapevo che preferiresti studiare giurisprudenza. Lo avresti fatto, ne sono certa. Tuo zio l’avrebbe detto anche lui. Diceva sempre di volersi essere laureato in giurisprudenza all’università; diceva che gli avrebbe risparmiato tre anni di studio. E sai, John, devi pur sceglierti una professione.”
+
+John si alzò sulla sedia e si sporse lentamente verso il fuoco di aprile.
+
+“Non andrò a Oxford. Troverò qualche lavoro,” disse, con voce lenta ma decisa.
+
+“Cosa intendi dire?”, rispose sua zia in tono brusco.
+
+“Quello che dico io,” rispose suo nipote.
+
+Non era certo un inizio cordiale ai suoi occhi, perché si sentiva di essere estremamente gentile nei suoi confronti. Dopotutto, non gli doveva nulla; anzi, era il contrario: aveva perso a causa sua e di ciò che rappresentava per lei.
+
+“Cosa dici?” esclamò lei, quasi arrabbiata. “Non capisco cosa stai dicendo!”
+
+“Mi sono rimasti 352 sterline, zia Hilda,” disse, rifiutando ancora di incrociare il suo sguardo e fissando direttamente il fuoco.
+
+“E allora?” disse lei.
+
+“Basta semplicemente girarlo,” continuò.
 
 
 
@@ -3317,6 +3703,54 @@ That £20,000 he would find, make, somehow, somewhere.
 At his age 20,000 is like a million, but at his age, also, a million may be found, made, somehow — somewhere. That £20,000 hardened in his soul and became the permanent furniture of it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Mio Dio, ragazzo! Capisci che non hai ancora diciannove anni. Pensi davvero di essere maggiorenne? Cosa si può fare con tre, davvero, non capisco cosa intendi!”
+
+Ma in quella giovane mente stava crescendo una determinazione molto ferma. Non sapeva assolutamente nulla del mondo, ma era pronto ad impararlo, e a impararlo da solo, il prima possibile. Lui non disse più nulla. Lei continuò a interrogarlo; parlò con tale forza che, se fosse stata una donna meno attenta a sé stessa, sarebbe scoppiata una vera e propria tempesta. Ma non riuscì a ottenere altre informazioni da lui.
+
+Seguirono due giorni in cui nessuno dei due disse molto. Hilda Maple non si rimproverava, ma era un po’ ansiosa. Si riteneva capace di affrontare qualsiasi situazione, ma questa era diversa. Il terzo giorno, John le comunicò la sua decisione.
+
+Stava andando a Londra. Le avrebbe dato il suo indirizzo non appena lo avesse ottenuto; le pregò di lasciarlo in pace. Era sicuro di sé.
+
+Nella mente di sua zia passarono rapidamente tutte le alternative a disposizione, sia per lei che per lui. Le vide chiaramente, come era nel suo carattere, e prese la decisione, che forse era l’unica possibile.
+
+Lui poteva andarsene. Lei non avrebbe opposto resistenza al suo lasciare. Era ancora determinata a adempiere al proprio dovere, purché lui venisse da lei. Ne era fermamente convinta. Quella donna non aveva nulla di capriccioso nel carattere, né rischi legati a cambiamenti improvvisi d’umore; possedeva le virtù tipiche delle persone pratiche e la loro forma particolare di forza. Era una questione semplice: o utilizzare la legge, il che sarebbe stato odioso e avrebbe significato una rottura permanente dei rapporti in poco più di due anni (poiché lei intuiva con precisione l’ostinazione di quella persona dal tono deciso, dalle idee chiare e dalla personalità forte), oppure semplicemente lasciarlo fare ciò che voleva. Non prediceva alcun disastro. Aveva la saggezza di ritenere che, nel complesso, non ne sarebbero derivati problemi. Anche se, nel profondo del cuore, provava un certo disprezzo al pensiero delle occupazioni a cui quella testardaggine potesse spingerlo. Gli disse che lì ci sarebbe sempre stato un rifugio per lui, quando ne avesse avuto bisogno. In realtà, si sentiva sollevata da un peso.
+
+Anche John, per parte sua, sentì come se un peso gli fosse stato sollevato dal petto. E nonostante fosse giovane, si comportò con moderazione.
+
+“Certo che non voglio litigare, zia Hilda,” disse. “E devo dirvi che sono grato verso di voi. Vedete, quando ho preso una decisione, parlava come se avesse dieci anni in più, e chiunque avesse un senso dell’umorismo migliore di quello di Hilda Maple difficilmente avrebbe potuto trattenersi dal sorridere. Quando ho preso una decisione, semplicemente non riesco a immaginarmi di cambiarla.”
+
+Quindi fu deciso così. Concordarono su un periodo di quindici giorni durante il quale lui avrebbe incontrato gli amici di suo padre del quartiere e avrebbe chiesto consigli su dove poter trovare una stanza in città, e su cosa dovesse cercare esattamente.
+
+In quei quindici giorni, John Maple vide, sentì e imparò molte cose; tutto ciò che vide, imparò e sentì lo rese ancora più determinato nella sua rabbia e nel suo proposito.
+
+Innanzitutto, scoprì quella parola odiosa: “Catchings”. Sembra che Rackham fosse stato ribattezzato “Rackham Catchings”. Una vera e propria buffonata disgustosa!
+
+L'aveva incontrato per la prima volta nel negozio del villaggio: il giovane con cui aveva giocato da bambino si comportava in modo ossequioso verso l'erede di tanta ricchezza, e mentre sorrideva e si inchinava davanti a un pacco, aveva detto: “Devo mandarlo su dai Catchings?”
+
+“A cosa?” aveva chiesto bruscamente John.
+
+“Per la famiglia Catchings, signore. Rackham Catchings? La sua casa, signore; almeno, la casa della signora Maple.”
+
+“Ah,” aveva risposto John. “Sì, Rackham, certo. Dove altro potresti mandarlo?” E poi se n'era andato bruscamente, uscendo da quella porta familiare.
+
+Dopo quel fatto, notò qualcosa di strano nell’indirizzo delle lettere che arrivavano. Il primo giorno in cui dovette scrivere una nota, la trovò sul foglio intestato. Lesse poi sul “County News” che tra due settimane la signora Maple di Rackham Catchings avrebbe organizzato qualche spettacolo. Quel pensiero iniziò a tormentarlo.
+
+E certamente c'erano stati molti elementi tipici dei “Catchings” aggiunti nella casa di Rackham. Ai suoi occhi, in quei pochi giorni in cui ancora vi soggiornava, la nuova facciata finta in legno, i pannelli e le travi false delle nuove stanze, i disgustosi mobili antichi, nonché le stupide quadre provenienti da Wardour Street che venivano deliberatamente oscurate, tutto questo rappresentava i “Catchings”. Li elencò uno per uno nella sua mente, godendo con sadismo al pensiero del lusso futuro, sia che fosse lontano o vicino, di strapparli via completamente, come tanti denti guasti.
+
+Era una situazione che certamente non favoriva il miglioramento delle relazioni, anche se John faceva attenzione a non porre domande su quelle novità, nemmeno sul nome assurdo di quel romanzo. Avrebbe scoperto la sua origine in tempo. Nel frattempo, su qualsiasi argomento importante rimaneva ostinatamente in silenzio, mentre per le cose che non lo erano era piuttosto loquace.
+
+Zia Hilda aveva svolto il suo ruolo abbastanza bene: nonostante lui fosse determinato e avesse successo nel evitare una lite aperta, in quel giorno, quando lo salutò alla porta e gli fece promettere di scrivere e di tornare spesso a trovarla, si rallegrò di non aver tradito la parola data al defunto. Aveva fatto del suo meglio. E se qualcosa fosse andato storto con John, lei era sempre lì per aiutarlo. Ma non si può negare che provasse un certo sollievo.
+
+Per quanto riguarda John, anche se aveva fatto tacere Rackham, con l’avvicinarsi di Londra era entrato in un nuovo stato d’animo. I suoi amici e quelli di suo padre gli avevano fornito indicazioni su alloggi decenti; inoltre, aveva con sé quelle poche centinaia di sterline, che rappresentavano una vera fortuna all’inizio dei vent’anni.
+
+Ma nel suo cuore, mentre viaggiava, l’immagine dell’antico Rackham, il vero Rackham, rimaneva immutata. E quei fatti rapidamente accennati da suo padre, come se fossero troppo dolorosi da affrontare, somme di denaro: la cifra reale dovuta, 10.000 sterline, o forse 12.000, al massimo 13.000, eppure si chiedevano 20.000 sterline. Beh, legalmente erano 20.000 sterline, e lui avrebbe insistito su quella cifra.
+
+Quei 20.000 sterline, li avrebbe trovati, creati, in qualche modo, da qualche parte.
+
+A quell'età, i 20.000 sterline equivalgono a un milione; ma anche a quell'età, si può comunque trovare, ottenere, in qualche modo, da qualche parte, un milione di sterline. Quei 20.000 sterline si sono radicati nella sua anima, diventando una parte permanente di essa.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="The Haunted House — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/tradition"></span>
@@ -3346,6 +3780,32 @@ Nearly seven years had passed since then, and Isabeau, whose name had very natur
 
 Now Hamilcar, being an American, knew all about such things. The Press of his native country had told him far more about English politics than our own Press ever tells Balham or Tooting. He knew all about the politicians, with their tongues hanging out for money — and he preferred to keep his money to himself. Therefore had Hamilcar been standing on guard, like a wicket keeper with the gloves on, for now some years: ready to catch each attack on his purse and throw it back. Hitherto he had succeeded. Of the last begging interviews, two had been attempted by a tout of the Prime Minister of the day, very clumsily done, without a proper introduction; the fellow simply rang the bell and sent in a card. He was shown out; or, as Hamilcar put it, thrown into the street. But appetite in politicians is over - mastering, and Hamilcar’s wealth was notorious, illustrious, quite unconcealed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO III
+
+Nessuno sa come le giovani persone finiscano per cadere, né loro stesse, tanto meno di quanto lo sappiano i gatti gettati da un tetto. Coloro che sono usciti nel mondo da soli prima dei vent’anni sanno che succede, ma non possono dire altro.
+
+Accadde a John Maple. Attraversò quella serie di avventure tipiche di tutti i ragazzi della sua età, indifferente allo squallore che le accompagnava, perché era troppo giovane; si divertiva nell’incertezza e trovava energia nella novità della sua vita. Gli accadde anche (come succede a tutti loro) di non essere mai separato dai suoi coetanei nel mondo reale, a differenza di quanto avviene nei melodrammi: non dovette mai più affrontare situazioni difficili o pulirsi i piedi dal polvere. Andava spesso da zia Hilda (pensando di essere abbastanza nobile da tollerare la presenza di Rackham). Strinse sempre maggiori amicizie con Corton, che lo considerava l’unico vero Maple. Conobbe anche gli amici di sua zia; gli vecchi conoscenti di suo padre lo cercarono e lo invitarono a Londra. Se si fossero dedicate alcune settimane della vita di quel ragazzo per seguirne ogni singolo momento, si sarebbe ottenuto un ritratto completo di lui, come solo una giovane esperienza del genere può offrire. Molti di noi oggi sono ancora in grado di ricordarlo. John Maple finì per conoscere tutti loro.
+
+Alloggi scelti per la loro particolarità, per la loro isolazione: una singola stanza spoglia che si affacciava su Londra dal tetto di un vecchio edificio; un seminterrato; uno studio polveroso. Uno veniva sostituito con un altro. Strani conoscenti provenienti dai mondi più diversi: attori falliti, giovani uomini che cercavano lavoro e cercavano di dimenticare i tempi in cui erano soldati. Ostaggi pomposi in enormi dimore (cattive speculazioni su proprietà reali a Kensington, “elefanti bianchi”). Noiose serate bohémien a Chelsea. Molto più interessanti, invece, le serate rivoluzionarie trascorse tra spie straniere e nazionali in umidi seminterrati vicino a Houndsditch. Uno o due party davvero interessanti nelle case di persone del genere: ad esempio, quella di Charles Baker, amico di suo padre da molti anni prima dell’esilio; ancora membro del Parlamento e sempre pronto a deriderlo. Ma il vero punto era che sapeva dipingere. Oppure tè con un’altra vecchia amica di suo padre: Lady Pattle, vedova del giudice dell’Ammiragliato. Lì incontrava tutti. E lì, per caso, incontrò anche Bo.
+
+A Lady Pattle piaceva praticamente tutto, ma se c'era qualcosa che le piaceva più di altre cose, erano le persone capaci di parlare con chiarezza e di vestirsi in modo ordinato. Le piacevano di più quando non avevano affatto l’aspetto tipico degli inglesi; e le piacevano ancora di più quando erano americane.
+
+Ora, nella Sua provvidenza, Dio aveva appunto fornito a Lady Pattle, e all’Inghilterra, esattamente ciò di cui c’era più bisogno in quella situazione.
+
+Hamilcar Hellup non aveva iniziato la sua vita con poche monete di rame, e tanto meno era arrivato a New York da bambino a piedi, perché non poteva permettersi il viaggio in carrozza. Era nato in una famiglia molto rispettabile: cioè, in una famiglia con un’antica discendenza (dieci generazioni dai primi coloni); moderatamente benestante; un tempo puritano, ora ateo per quanto riguarda la religione. Era stato cresciuto insieme agli altri ragazzi del villaggio, seguendo quella nobile [[Tradition|tradizione]] di uguaglianza sociale che, in luoghi ancora incontaminati, è da sempre stata – e continua a essere – la vera tradizione degli Stati Uniti. Aveva accumulato una grande fortuna senza mai vendere oggetti materiali che qualcuno avesse mai visto prima, ma operando con astuzia nel campo dei titoli finanziari. Non aveva mai truffato nessuno, per quanto ne sapesse lui. E cosa ancora più notevole: pochissime persone lo avevano mai ingannato; o, almeno, pochissime erano riuscite a farlo senza essere scoperte.
+
+La sua gioia consisteva nel fuggire da New York e tornare, a intervalli troppo brevi, nel luogo della sua nascita: lì il suo confidente era un compagno di giochi che era rimasto povero ma astuto, un certo Hiram Jake. Per Hamilcar Hellup, Hiram Jake rappresentava il simbolo del proprio popolo; anni dopo, quando il milionario tornava brevemente in Inghilterra per poi rifugiarsi nuovamente a casa sua, parlare di Mayfair con Hiram Jake, oltre la recinzione rotta di quella umile dimora, era come gettare acqua fredda nel deserto.
+
+Quando aveva poco più di cinquant'anni divenne vedovo e gli rimase un’unica figlia, una ragazza di nome Isabeau che allora aveva dodici anni; a diciotto anni avrebbe ereditato un’altra fortuna da sua madre. Tutta la sua vita cambiò. Decise di smettere di accumulare ulteriore ricchezza – e fu saggio farlo, poiché ne possedeva già una enorme quantità. Si trasferì in Europa con sua figlia: prima viaggiarono insieme in molti luoghi che lui stesso aveva visitato in precedenza; poi la iscrisse a una scuola nel suo paese natale, come sua moglie avrebbe voluto.
+
+Mentre Isabeau cresceva in America, suo padre, rendendosi pienamente conto di ciò che aveva sempre pensato fin dal primo momento in cui aveva visto quel paese – ovvero che l’Inghilterra fosse il luogo dove gli uomini ricchi andavano a morire – prese le misure necessarie per stabilirsi lì.
+
+Erano passati quasi sette anni da allora, e Isabeau, il cui nome si era naturalmente ridotto a “Bo”, stava per tornare in Inghilterra quando Hamilcar Hellup (prima si chiamava Hamilcar J., ma aveva deciso di eliminare la “J” – e anche in questo fu saggio) iniziò ad essere importunato dai nostri politici affamati, che gli chiedevano denaro in cambio di un titolo nobiliare.
+
+Essendo americano, Hamilcar conosceva bene tutte queste cose. La stampa del suo paese d’origine gli aveva raccontato molto di più sulla politica inglese di quanto la nostra stampa possa mai rivelare a Balham o Tooting. Conosceva tutti quei politici che, con la bocca spalancata in cerca di denaro, preferivano tenersi i propri soldi per sé. Ecco perché Hamilcar era da anni “in guardia”, pronto ad afferrare ogni tentativo di attaccare il suo portafoglio e respingerlo. Fino ad ora ci era riuscito: delle ultime interviste “per chiedere l’elemosina”, due erano state tentate da un intermediario del Primo Ministro dell’epoca, in modo molto goffo e senza alcuna presentazione adeguata; quell’uomo aveva semplicemente suonato il campanello e inviato una cartolina. Era stato mandato via; o, per usare le parole di Hamilcar, “gettato in strada”. Ma la sete dei politici è insaziabile. E la ricchezza di Hamilcar era nota a tutti, evidente, del tutto scoperta.
 
 
 
@@ -3383,6 +3843,38 @@ But these good people reckoned without the Hellup blood, which was good, tested 
 It had amused the Little God to bring Bo up against John Maple, and John Maple up against Bo. It had amused him to shoot at them both; first from a distance, to try his bow; then good and hard at short range. They were already quite certain each of the other, before either of them was quite certain who the other was. They were both married in heaven — or whatever the process is — I mean, they had both known about each other from all eternity, while Bo still had no more definite knowledge of John than that somehow or other he was connected with “that Mrs. Maple,” and was perhaps vaguely the heir to a Manor House somewhere or other, with English lawns and oaks, and all the rest of it: no title — at least, she thought no title. She had not yet thought much one way or the other about anything connected with him, except that she knew his soul as she knew her own: and liked it more.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il successivo attacco avvenne nel suo club. Fu orchestrato da un anziano gentiluomo che lo aveva già infastidito per molte altre cose. Questo individuo, per cambiare metafora, riuscì abilmente a eludere tutte le sue difese. Ma il terzo attacco arrivò soltanto due giorni dopo: si presentò sotto le sembianze di un giovane ufficiale governativo con cui aveva rapporti molto tesi. Fu durante una festa in Merton Street, verso sera, quando questo vicedirettore gli chiese improvvisamente se fosse disposto a incontrare un altro politico a pranzo il giorno dopo. Hellup acconsentì stupidamente; e subì allora un’aggressione brutale, una vera e propria tortura costituita da insistenze continue affinché pagasse. Ma Hamilcar Hellup era una persona molto determinata e rimase fermo sulla sua posizione. Non ci fu nulla da fare.
+
+Quella che riuscì nel suo intento fu Lady Pattle. Lei lo conobbe subito dopo il suo arrivo. Era abile in queste cose e riuscì a farlo rapire per portarlo a prendere il tè a casa sua, sotto la protezione di sua nipote e di un Lord Cancelliere su un grande autoveicolo. In meno di un anno riuscì a conoscere il suo nome di battesimo. Non aveva intenzione di affrettare le cose. Lui seguì i suoi consigli per tutto il secondo anno, e ancora di più per il terzo; e raramente si rese conto che fossero sbagliati. Fu Lady Pattle a dirgli, con grande serietà, dopo sei anni di conoscenza, che doveva comprare qualcosa. Fu lei ad abbattere quella ferrea determinazione e a far diventare Hamilcar Hellup un nobile. Nessun altro: solo Peggy, Lady Pattle.
+
+Lasciate che non susciti alcun sospetto su quel nobile nome. Non ha ricevuto alcuna commissione, e nessuno l’ha esortata in particolare ad agire così. È stato soprattutto Hamilcar stesso a spiegarle come avesse deciso di rifiutare categoricamente le proposte dei politici, diventando allo stesso tempo ostinatamente orgoglioso e divertito da tali rifiuti. Voleva semplicemente fare ciò che fosse meglio per lui, perché lo amava davvero. E gli consigliò di cedere. I suoi argomenti erano solidi: il Primo Ministro non chiedeva nulla di esorbitante; una dozzina di nuovi nobili gli avevano pagato somme due o dieci volte superiori. Hamilcar era molto ricco, e probabilmente non se ne sarebbe nemmeno accorto. Non era certo lui ad aver cercato loro; erano stati loro ad approcciarsi a lui. E in realtà, il titolo di nobiltà rappresentava un notevole vantaggio, soprattutto per un americano.
+
+“Non sei a casa,” commentò Hamilcar; e Lady Pattle rispose seccamente: “No, ma tu non stai vivendo a casa.” Allora Hamilcar sospirò, perché era vero. Nel suo cuore desiderava ardentemente le case di legno, Jake, il compagno di giochi della sua infanzia, e vedere il fumo levarsi dalla sua terra. E poi morire.
+
+“Non è mica così,” disse lei, “come se avessi un figlio che possa prendere il tuo posto dopo di te. Quello sarebbe davvero un problema. Ma sicuramente aiuterà Bo. A lei piacerebbe molto. Finora è stata troppo giovane per capire cosa significhi; ma ora le piacerebbe davvero. E inoltre è molto divertente, ricorda. Puoi andare ad ascoltare i dibattiti e, se ti piace, parteciparvi. Chiunque può farlo. Inoltre, ti sarà utile all’estero: soprattutto sulla Riviera, ma anche a Parigi. Comunque sia. Anche oggi. Non durerà per sempre, ma essere un nobile inglese per quel periodo è davvero qualcosa di importante.”
+
+“Alza i prezzi?”, disse Hamilcar.
+
+Scosse la testa.
+
+“Non nei posti in cui si va di solito… Non avrebbero potuto crescerli lì.”
+
+Quello che decise definitivamente la questione – nulla di meno avrebbe potuto convincerlo – fu l’argomento che lei sollevò alla fine di questa memorabile conversazione.
+
+“Se non ti sbarazzi di quel piccolo mascalzone e la fai finita con lui, sarai perseguitato per il resto della tua vita. È peggio quando è in opposizione che quando è al potere,” aveva detto lei. Hamilcar Hellup non capiva del tutto cosa intendesse; ma comprendeva abbastanza bene l’importanza di liberarsi delle preoccupazioni. E proprio quella settimana acquistò il titolo nobiliare. Tuttavia, c’era una cosa a cui tenne fermamente: non avrebbe cambiato il suo nome. Tentarono in tutti i modi di convincerlo, ma lui fu irremovibile. I Hellup erano stati Hellup per troppo tempo; quindi rimase Hellup.
+
+Pertanto, quando Bo tornò dalla scuola e quando Lady Pattle la presentò alla Corte, e quando, con la sua schiettezza, la sua bellezza e, (per essere del tutto onesti) anche la sua durezza, riuscì a lasciare un’impressione duratura su Londra, lei era l’onorevole Isabeau Hellup. Le fu spiegato perché non fosse chiamata Lady Isabeau Hellup, ma lei si rifiutò di accettare quella spiegazione. Allora iniziò con grande entusiasmo una carriera di successo; suo padre ne era più orgoglioso di qualsiasi affare avesse mai concluso nella sua vita, tranne che l’importante fusione aziendale del ‘95.
+
+Bo si era armata, come deve fare ogni donna che intenda conquistare qualcosa, con un cane: di nome Lovey-Lad, veloce e terribile per natura, forte nel afferrare e strappare, forte anche nel ringhiare; apparteneva alla razza dei bulldog. Nei poche centinaia di foto apparse sui giornali su entrambi i lati dell’Atlantico, quel cane divenne il simbolo rappresentativo di Bo, proprio come la Leona è il simbolo di San Girolamo, il Cane di San Roch, l’Aquila di Giove e San Giovanni; inoltre, una Bibbia aperta sotto la mano sinistra della defunta Regina Vittoria rappresentava un altro simbolo legato a lei, in un certo periodo del suo regno.
+
+Tutti sapevano – alcuni avevano addirittura organizzato – chi sarebbe stato catturato da Bo. Nell’elenco figuravano dei titoli; coloro che erano a conoscenza di più dettagli avevano proposto, in particolare, ottimi titoli stranieri. C’erano anche ingenti somme di denaro, ancora “libere” e senza destinatari. E c’erano persino alcuni dei minori Personaggi Elevati. Anche Lady Pattle, sebbene non fosse sciocca, non poteva fare a meno di avere i suoi piani personali. Aveva scelto il giovane Lord Ockley: non aveva soldi, era gentile, e lei lo conosceva bene. Tre ottimi motivi.
+
+Ma queste brave persone non avevano tenuto conto del sangue di Hellup, che era qualcosa di davvero prezioso e affidabile; non avevano considerato le sue particolari proprietà in Bo. E soprattutto, avevano commesso un errore fatale: non avevano preso in considerazione l’Arco e la Fionda del Piccolo Dio – colui che è Invincibile in battaglia – il quale, continuamente, sovverte le strategie degli uomini che cercano di possedere qualcosa, piombando come un fulmine nel mezzo delle loro ricchezze.
+
+Aveva divertito il Piccolo Dio far scontrare Bo con John Maple, e John Maple con Bo. Gli era piaciuto sparare contro entrambi: prima da lontano, per mettere alla prova il suo arco; poi da vicino, con forza. Entrambi erano ormai abbastanza certi dell’identità dell’altro, anche se nessuno dei due sapeva con precisione chi fosse l’altro. Erano entrambi sposati in cielo, o comunque fosse il processo. Voglio dire, conoscevano l’esistenza l’uno dell’altro da tutta l’eternità; mentre Bo non sapeva ancora nulla di preciso su John, se non che in qualche modo era collegato a “quella signora Maple”, e forse era vagamente l’erede di una tenuta con prati inglese, querce e tutto il resto. Nessun titolo ufficiale, almeno per quanto lei ne sapesse. Non aveva ancora riflettuto molto su nulla che lo riguardasse, se non che conosceva la sua anima così bene come conosceva la propria. E le piaceva di più.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="The Haunted House — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/satire_of_society,concept/romantic_love,concept/greed_and_money,concept/family_and_lineage,concept/power_and_corruption,concept/aspiration,form/novel,form/satire"></span>
@@ -3402,6 +3894,22 @@ Though Aunt Hilda could not but revere her dear Amathea’s husband and have a s
 
 Such was the ambiguous situation — John on the fringes of Aunt Hilda’s push; Aunt Hilda wishing that she was really received as John was received. So John was asked with sincere affection to Rackham, but not too often. When he came he played up, and he even helped Mrs. Maple when she came to London in her abhorrent task of adding further and more heavily to the Catchings — for some purpose of her own which as yet John could not divine. It intrigued him.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per quanto riguarda John, sapeva che lei era la figlia di uno di questi lord americani, e onestamente non cercò mai di distinguerli l’uno dall’altro. Ma gli piaceva suo padre: gli piacevano i suoi capelli bianchi, corti e ben curati; il suo mustacchio bianco, anch’esso ben curato; i suoi occhi umoristici e acuti, e tutte le altre caratteristiche tipiche di quel tipo di uomo. Gli piacevano anche le sue frasi brevi e le sue metafore vivaci, nonché la sua sicurezza in se stesso. Era giusto così. Considerando infatti quanto John Maple amasse quella bambina alta, avrebbe potuto odiare persino l’affetto che suo padre provava per lei. E considerando quanto Lord Hellup coccolasse sua figlia, avrebbe potuto detestare con tutte le sue forze chiunque altro cercasse di rivendicarla per sé.
+
+Che Bo avesse una grande fortuna era presente nella mente di John, ma non occupava alcun posto importante in essa. Spesso è così: sapeva che quella fortuna esisteva, proprio come si sa che c’è una grande nuvola nel cielo. Ma non la considerava nulla di particolarmente rilevante, né pensava che avesse qualche effetto concreto sulla sua vita. Del resto, era ancora molto giovane. Se ci avesse pensato, temo che gli avrebbe causato preoccupazioni. Ma non lo fece.
+
+Nelle avventure di John Maple c'era sempre stato uno scopo molto semplice: guadagnarsi da vivere. Anche se lui non lo considerava proprio come un modo per guadagnare, ma piuttosto come un modo per ottenere, accumulare, insomma, una certa somma di denaro: precisamente ventimila sterline, con cui poter riscattare Rackham.
+
+Nel periodo trascorso da quando John era arrivato in città per sistemarsi, zia Hilda era peggiorata sempre di più. Non le bastava più chiamare quella vecchia proprietà “Rackham Catchings”; a volte usava addirittura solo il nome “Catchings”. Quando John si oppose a questa innovazione (come aveva fatto durante una delle sue ultime visite), lei iniziò a raccontare una serie di storie antiche e strane, che aveva appreso da un’associazione archeologica; in sostanza, sosteneva che in uno dei vecchi atti di proprietà comparisse il nome “Catchings”, e sembrava che fosse stato usato per indicare una parte della tenuta. Era anche orgogliosa di aver scoperto, in una lettera senza data ma scritta nel XVI secolo, menzione di un certo Sir Harry Murtenshaw; in quella stessa lettera veniva fatto riferimento a un altro “Catchings”. È vero che questo ultimo “Catchings” si trovava nel Norfolk, ma questo non disturbava affatto zia Hilda. Aveva ormai costruito la sua leggenda: il vero nome di Rackham era Rackham Catchings, o addirittura solo Catchings; quel nome era passato ai Maples e poi a lei attraverso varie ereditarie e matrimoni, da Sir Harry Murtenshaw, cavaliere di Gloriana, un vero tesoro tra i sudditi della regina Vergine, un uomo del periodo elisabettano.
+
+Conoscendo poco i movimenti di John tra la gente ricca, zia Hilda non era del tutto a conoscenza delle sue attività. Tuttavia continuava a tenerlo d’occhio e provava una vaga soddisfazione nel sapere che, qualunque trucco stesse usando in privato per guadagnarsi da vivere – e su questo non indagava ancora – almeno agli occhi del mondo lui era suo nipote e figlio di suo fratello. Se sembrava vivere a Londra invece che nel Sussex, lei preferiva attribuirlo alla sua, o meglio, alla loro, opulenza. E se doveva rifiutare molti inviti, se scompariva misteriosamente per giorni interi, beh, questo era ancora una prova della sua abbondanza di tempo libero e del suo potere di scegliere liberamente le proprie distrazioni. Naturalmente sapeva, e in un certo senso invidiava, il modo in cui veniva parlato di lui, anche se questa cosa la infastidiva più di quanto la compiacesse quando, in quel mondo che era stato di suo padre, le chiedevano spesso se fosse sua cugina. La verità è che zia Hilda non conosceva i ricchi altrettanto bene quanto John. Comunque, poche erano le persone che John conoscesse e di cui zia Hilda non avesse almeno sentito parlare; poche le case dove John era intimo e in cui lei non fosse mai stata invitata. Chiamava Lady Pattle per nome proprio, e più volte le era stato risposto chiamandola Hilda a sua volta. Due amicizie sincere aveva stretto Mrs. Maple in quel mondo: una con Lord Hellup, che la stimava sinceramente; un’altra con una certa Lady Mere de Beaurivage, o meglio, con sua moglie Amathea, di cui si era presa cura in molte situazioni difficili. La moglie di Lord Mere de Beaurivage, infatti, aveva dovuto imparare le complesse regole della vita aristocratica piuttosto tardi, proprio come suo marito. La fortuna l’aveva colpita con terribile rapidità, dopo i cinquant’anni. Solo durante il primo governo di coalizione bellico era diventato Sir George Huggins; solo durante il secondo governo bellico aveva potuto – grazie a un assegno bancario – entrare a far parte della Camera dei Lord. La sua nomina risaliva a qualche mese prima di quella di Lord Hellup. Era quindi più anziano di lui nella gerarchia nobiliare: di mezzo anno.
+
+Anche se zia Hilda non poteva fare a meno di rispettare il marito della sua cara Amathea e provava un forte affetto per Hamilcar Hellup, nessuno di questi nobili, con moglie o figlia, si era mai trovato a Rackham nelle stesse occasioni del suo nipote. Aveva appreso in modo indiretto che i Hellup conoscevano John e lo apprezzavano, anche se non sospettava affatto dell’insorgere di una relazione tra lui e Bo. Per quanto riguarda Lord e Lady Mere de Beaurivage, o forse non avevano mai incontrato quel giovane nel “Grande Mondo”, oppure, se l’avevano fatto, se n’erano dimenticati: dopo tutto, non sembrava rappresentare alcun aiuto per chi cercava di salire nella società. Per usare le parole semplici di Lady Mere de Beaurivage: quando Hilda aveva provato a informarsi, “Il tuo nipote? Non che io sappia, cara Ilda. Ma sai, ci sono tante persone che conosco, ma i loro nomi me li sono dimenticati.” O, per usare le parole altrettanto semplici del suo signore: “John Miple? Che nome è mai questo? Non mi ricordo affatto. Ma insomma, ce ne sono così tanti!” Una valutazione davvero sagace.
+
+Era una situazione ambigua: John si trovava ai margini dell’attenzione di zia Hilda, che avrebbe voluto essere accolta con lo stesso affetto con cui veniva accolto lui. Perciò a John veniva chiesto, con sincera affettuosità, di andare da Rackham, ma non troppo spesso. Quando ci andava, si comportava in modo esagerato; addirittura aiutava la signora Maple quando questa veniva a Londra, nell’odiosa incombenza di aggravare ulteriormente le difficoltà della famiglia Catching, per qualche motivo tutto suo che John ancora non riusciva a comprendere. Questo lo incuriosiva molto.
 
 
 
@@ -3444,6 +3952,44 @@ I have digressed. I have been misled by the contemplation of Sir Harry Murtensha
 
 Let me return to the adventures of John, and these shall be brief.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quell’idea fissa che, prima o poi, sarebbe diventato il padrone di Rackham lo spinse a tollerare ogni acquisto e aggiunta grottesca, e ad aiutarla con tutto il cuore. Questo gli permise di conoscere meglio quel posto, e quando fosse arrivato il momento giusto, avrebbe potuto liberarsi di tutta quella roba inutile.
+
+La accompagnò quando andò nello studio di Burton per esaminare quegli assurdi animali scolpiti che avrebbero dovuto essere presenti sui pilastri di pietra del nuovo cancello. Approvò con serietà la sua scelta riguardo al nuovo cancello stesso, quando le fu presentato in Euston Road: una falsa rappresentazione dell’orrore veneziano realizzata in ferro nuovo, e (oh, mio Dio!) non nemmeno forgiata, ma fusa.
+
+Fece di più: le aiutò a comprare l’Ancestor.
+
+I Maple, come sapeva lui, avevano degli antenati. Avevano quel commerciante di bestiame; avevano anche suo figlio, quel nobile scudiero georgiano che era stato eletto rappresentante della contea. Anzi, possedevano persino un ritratto di lui con la parrucca, realizzato in modo estremamente scadente da un artista del paese, il quale veniva apprezzato dalla nobiltà di quei tempi.
+
+A Rackham c'erano anche altri antenati, nel senso che si dà a questo termine. Ma in case del genere, gli “antenati” non significano necessariamente veri antenati, bensì parenti più lontani. C'era un capitano delle truppe di Nelson, in uniforme; e c'era anche una signora molto ricca che quel capitano aveva avuto la fortuna di sposare dopo le guerre. C'era anche qualcosa di orribile e squallido che pendeva nell’aula scolastica. John ricordava vagamente che da bambino gli fosse stato detto che si trattasse della “tua prozia Jane”.
+
+Queste cose erano sufficientemente buone per Rackham. Ma non abbastanza per Rackham Catchings; così Hilda Maple partì alla ricerca di qualcosa di più degno. Intraprese un viaggio verso mari sconosciuti, nel tentativo di scoprire Sir Harry Murtenshaw, Cavaliere.
+
+Lo cercò proprio in quel luogo dove Oxford Street si unisce a Holborn, in un negozio dove aveva già avuto la fortuna di trovare molte cose: un negozio appartenente a un gentiluomo di origine estone di nome Curzon; comunque sia, questo signore (che si presentò di persona) si occupava personalmente della vendita dei prodotti. In quell’occasione, come in molte altre volte prima, i prodotti vennero venduti ad Aunt Hilda. E che bell’“Antenato” era davvero! Vecchio di tempo, certo, ma appena pulito e dipinto su tela; un esperto avrebbe potuto attribuirlo ai nostri giorni, ma era inserito in un quadro antico appropriato, opportunamente lucidato e trattato con sostanze speciali. Così che nulla lo tradisse come oggetto moderno.
+
+Aveva un viso quadrato e solido, non molto diverso da quello di un maiale, estremamente soddisfatto di sé stesso; anche la sua barba era quadrata e simile al suo viso. Era vestito in modo tipico degli ultimi giorni dell’epoca elisabettana o dei primi giorni di quella giacovina: un uomo più o meno della stessa età di Shakespeare, ma privo del suo genio. Costava alla zia Hilda una somma sorprendentemente bassa, anche se in realtà molto più di quanto valesse. Qualunque fosse il suo vero nome nella vita reale, per lei era ora Sir Harry Murtenshaw; e faceva sempre molta attenzione a spiegare che non era davvero un Maple. Il che, in effetti, era la verità.
+
+Per lei, lui rappresentava il fondatore della famiglia in questo senso: era attraverso sua figlia, l’ereditiera di Rackham, che la famiglia Maple aveva ottenuto quella proprietà. Un episodio commovente della storia familiare. Era stato un matrimonio d’amore; e anche questo era molto toccante.
+
+Poi, con l’indignazione evidente di suo nipote, aggiunse un fantasma a Sir Harry. Inizialmente era un fantasma vago, ma poi divenne più preciso: si trattava di un giovane parente del cavaliere, morto in modo tragico per motivi politici romantici.
+
+Con quella sua innocente ingenuità, il giorno di quell’illustre individuo, Hilda Maple credette alle affermazioni secondo cui quel ritratto fosse stato realizzato da Holbein. Sir Harry Murtenshaw, quell’uomo schietto e sincero inglese, fervente sostenitore degli accordi raggiunti durante il periodo elisabettano (o giacobiano), fu aiutato da due assistenti di Mr. Curzon a imballare il ritratto per la consegna a Rackham Catchings. Era un uomo pesante e di corporatura massiccia; dovette quindi uscire dalla stanza in modo obliquo. Alla fine, viaggiò addirittura “a testa in giù”, ma questo non influenzò affatto il suo umore imperturbabile.
+
+John Maple aveva aiutato sua zia a scegliere il dipinto; l’aveva avvertita che Sir Harry non era affatto un suo antenato, per quanto potesse essere qualcosa del marito di sua zia; aveva ricevuto la risposta pronta e tagliente di quella signora a un simile commento; e in seguito, quando il grande fondatore della fortuna dei Rackham fu “scartocciato” e messo in mostra, aveva aiutato a scegliere il pezzo di panellatura nel quale doveva essere inserito, con cornice e tutto. Presiedeva la sala da pranzo, come avrebbe dovuto fare un antenato, quella nuova sala da pranzo, che in realtà era anche l’antica. Perché sebbene fosse la “nuova sala da pranzo”, secondo le parole di Corton, e per John Maple soltanto una “falsa sala da pranzo”, tutto era stato fatto per farne la più antica sala da pranzo del Sussex. Quando Hilda Maple disse ai suoi ospiti che il dipinto risaliva all’epoca della costruzione della stanza, e che i pannelli intorno ad esso erano contemporanei, non stava dicendo esattamente la verità. Perché sebbene i pannelli fossero del 1918, Sir Harry (come ho dimostrato attraverso ricerche approfondite) fu dipinto da un francese affamato a Soho nel lontano 1893.
+
+Comunque sia, lì stava lui, sorridente davanti al tavolo della mensa, alle sedie antiche e a tutto il resto, con uno sguardo soddisfatto e pieno di una determinazione virile, anche se un po’ vuota. Erano uomini come lui, spiegava zia Hilda ai suoi ospiti, quelli che ci avevano resi ciò che siamo. E che Dio abbia pietà di noi tutti. Perché anche noi siamo bugiardi, miei lettori, voi compresi.
+
+Prego che anche il mio lettore ricordi questo (se posso permettermi di “caricare” la sua memoria con questo pensiero): l’Antenato non era altro che l’ultimo acquisto di zia Hilda, e lei era riuscita a sfuggire al poliziotto.
+
+Il signore di origine estone, il signor Curzon, aveva acquistato l’Antenato a un prezzo molto basso: soltanto trentasette volte quello che ne aveva pagato inizialmente. Tuttavia, aveva venduto anche alla zia Hilda preziosi consigli specialistici, pannelli decorativi e sedie, nonché arazzi che in realtà non lo erano, argento del periodo giacobiano prodotto negli ultimi anni (con marchi di autenticità), quadri elisabettiani, elementi architettonici vittoriani. E persino oggetti senza valore o falsificati. Per molto tempo, il signor Curzon non aveva venduto tutto ciò alla zia Hilda in contanti, ma le aveva fatto varie promesse riguardo al pagamento futuro. E queste promesse comportavano interessi. Perché così è il “Regno degli Estoniani” – o, quanto meno, quello del tipo Curzon.
+
+* * *
+
+Ho deviato dal tema. Sono stato fuorviato dalla contemplazione di Sir Harry Murtenshaw, Cavaliere (rappresentato dal pennello di Holbein – con un colletto alla giacobita e calzoni a tubo).
+
+Permettetemi di tornare alle avventure di John; queste saranno brevi.
 
 
 
@@ -3495,6 +4041,52 @@ Well, it had not that fine “first night” success which the Mate had enjoyed;
 The Old Man heard very clearly a voice from his own bunk. He was on the other side of the cabin at the time, though, it is true, his attention had been directed to the couch. The voice, far off, ghostly in the darkness, reminded him of the day when be had so nearly drowned (through no fault of his own, but rather of Islington port), and warned him of approaching trials. Had the Old Man remembered to whom he had lately recounted that drowning episode (the only adventure of his life) he might have had suspicions. As it was, he had none, for he told the story so often that he could not remember who last had heard it. All he knew now was that a whisper from the other world — from A Spirit that knew his past — had bidden him remember and beware. It affected him damnably.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IV
+
+JOHN aveva iniziato con i suoi modesti risparmi di 352 sterline, ma quei soldi non avrebbero durato per sempre. Aveva avuto la saggezza di mettersi subito a lavorare: inizialmente accettò lavori occasionali come scrittore, guadagnando quasi nulla; poi aiutò un amico a correggere bozze; successivamente catalogò libri in una biblioteca (sebbene in modo piuttosto approssimativo), ma grazie alla sua buona conoscenza del francese e del tedesco riuscì comunque a guadagnare circa 30 sterline a settimana. In seguito, grazie alla gentilezza di un amico di suo padre, ottenne il lavoro di assistente dell’agente immobiliare di una proprietà; tuttavia non ricevette alcun stipendio, poiché si riteneva che quell’esperienza fosse già una ricompensa sufficiente. Quel lavoro non durò a lungo. Infine trascorse un periodo piuttosto lungo, usando un nome falso, in un progetto commerciale insieme a un conoscente teatrale che possedeva pochi risparmi; quel progetto fallì immediatamente. Fu un errore, ma sarebbe fallito comunque anche se fosse stato più ben pianificato.
+
+Finalmente, dopo aver guadagnato in poco meno di un anno poco meno di duecento sterline e averne spese almeno duecentocinquanta, trascorse tre meravigliose settimane in mare senza stipendio, ma con vitto e alloggio forniti e il tempo necessario per riflettere su tutto. Aveva incontrato il povero proprietario di una piccola barca vecchia e malandata che commerciava con merci varie lungo il fiume Londra, navigando nelle baie della costa orientale e talvolta raggiungendo anche le coste di Hook o Ostend. John riuscì a convincere quest’uomo a lasciarlo imbarcarsi per un viaggio intorno al Mar del Nord e poi fino a casa passando per i porti della costa orientale, prendendo carichi occasionali e guadagnando quanto possibile per il suo proprietario: il quale condivideva con lui gli utili. John avrebbe dovuto vivere nella cabina posteriore insieme agli altri ufficiali, sotto uno di quei tanti titoli strani che venivano usati per giustificare la presenza di un membro in più a bordo. La sua compagnia non fu gradita né dall’anziano proprietario né dal suo compagno di viaggio. Tuttavia, si divertì moltissimo. E fu proprio lì – tra tutti i posti del mondo! – che scoprì il proprio talento e la propria capacità di guadagnare denaro, perché ognuno di noi possiede un talento, un talento vendibile, intendo. E fortunato è colui che lo scopre quando è ancora giovane.
+
+Il compagno di viaggio e lui erano insieme nella cabina di quella vecchia barca a vela, mentre aspettavano a lungo fuori da Harwich che cambiasse la marea. L’uomo anziano fumava sul ponte, osservando attentamente i movimenti delle acque. Quella sera il compagno di viaggio era più cupo del solito; geloso di quel “carico speciale”, con le sue mani bianche e l’accento da gentiluomo. Eppure fu proprio lui, in quel momento, a portare fortuna a John, proprio come spesso fanno gli nemici. John Maple stava in un angolo buio di quella piccola e soffocante cabina, illuminato solo da una lampada a olio che dondolava; non si sentiva alcun suono, tranne il lieve rumore delle acque poco profonde. Nella sua frustrazione per qualcosa di ancora peggiore di quanto avesse già sentito quel giorno, mormorò tra sé una parola poco gentile. Ma la disse a voce così bassa che sperava non scatenasse alcuna lite. Quello che invece provocò nel compagno di viaggio fu un’emozione del tutto inaspettata: l’uomo alzò lo sguardo, con aria sorpresa e spaventata, e disse con tono reverenzioso: “Che cos’è stato? Non hai sentito niente?” Poi guardò furtivamente nell’oscurità.
+
+“Cosa significa ‘what was what’?”, disse John Maple in tono piuttosto irritato, pensando che gli fosse stata fatta una domanda provocatoria.
+
+“Ho sentito una voce!”, disse il compagno con toni spaventati e reverenti; John, guardandolo, vide che era diventato pallido come un morto.
+
+Coloro che appartenevano alle Forze Invisibili e si occupavano degli affari di John gli suggerirono cosa fare, anche se lui quasi non capiva perché fosse la cosa giusta da fare. Lentamente, girò di nuovo il viso lontano dal “Compagno”, si premette una mano sulla tempia per coprirsi il volto e mormorò di nuovo; per essere precisi, disse la parola “Maiale!”.
+
+Sentì qualcosa di simile a un urlo soffocato provenire dalla compagna…
+
+“Eccolo di nuovo! C'era scritto ‘Mio’,” gemette il Compagno, fissando ora con occhi spalancati l’angolo più buio della cabina, dove il riflettore della lampada proiettava un’ombra profonda dietro la sua luce fumosa.
+
+“Di chi? Eh? ‘Osa? Sono io? Cosa significa?” Quel tizio probabilmente aveva bevuto o si era addormentato, il che è ancora peggio per i nervi. Ma non c’era dubbio che avesse confuso la direzione da cui proveniva quel debole suono che lo aveva spaventato.
+
+In quei cinque minuti, John Maple aveva scoperto quanto fosse facile, per lui almeno o in un ambiente adatto, praticare il ventriloquismo.
+
+“Non lo sopporterei più,” sussurrò il Compagno.
+
+John Maple non poté rifiutare di accontentarlo, e lo fece per la terza volta. Il compagno si alzò di scatto, teso e tremante, dicendo che non gli piaceva affatto.
+
+“Cosa non ti piace?” disse John Maple, in tono gentile e amichevole, per dimostrare che la discussione era stata dimenticata.
+
+“Voci, ”, disse il Compagno, grattando nervosamente con le unghie il piccolo tavolo a dondolo. “Non senti niente?”
+
+John Maple fece una pausa.
+
+“Sì, credo di sì,” disse lentamente, il che era del tutto vero.
+
+Era il primo episodio, e molto breve; non ne seguì alcun seguito immediato.
+
+Nel viaggio di ritorno (portavano mattoni), John Maple ebbe nuovamente successo: non solo nella cabina, ma anche una notte in coperta, quando lui e il secondo ufficiale andarono insieme avanti sulla nave; ancora una volta, mentre aiutava a controllare se ci fossero movimenti nel carico (poiché un carico di mattoni può causare molti problemi se si sposta), il secondo ufficiale sentì delle voci. Questa volta quelle voci avevano qualcosa da dire di davvero importante: toccarono l’anima immortale del secondo ufficiale, gli parlavano dei pericoli immediati della vita e gli inviavano una forte premonizione di morte. Il secondo ufficiale corse su e giù per la nave, si tenne in equilibrio con un bicchiere in mano e, alla fine di quell’esperienza angosciosa, giurò su tutti gli dei sotto il London Bridge che non avrebbe mai più imbarcato su quella nave.
+
+L’Uomo Vecchio non era superstizioso. Possedeva molte delle qualità del legno: non solo la sua resistenza, la sua durata e il suo colore, ma anche la sua mancanza di sensibilità. John si chiese se questo nuovo talento avrebbe funzionato anche con le persone che non erano superstiziose.
+
+Beh, non ebbe il grande successo della “prima notte” che il compagno aveva avuto; ma comunque superò tutte le aspettative.
+
+L’Uomo Vecchio sentì molto chiaramente una voce provenire dal proprio letto. In quel momento si trovava dall’altra parte della cabina, anche se, è vero, la sua attenzione era rivolta al divano. Quella voce, lontana e spettrale nell’oscurità, gli ricordò il giorno in cui aveva rischiato di annegare (non per colpa sua, ma a causa del porto di Islington) e lo avvertì di prove imminenti. Se l’Uomo Vecchio si fosse ricordato a chi aveva raccontato quell’episodio (l’unica “avventura” della sua vita), forse avrebbe avuto dei sospetti. Ma in realtà non ne ebbe alcuno, perché raccontava quella storia così spesso che ormai non ricordava più chi l’avesse ascoltata per ultimo. Tutto ciò che sapeva ora era che un sussurro proveniente dall’altro mondo – da uno Spirito a conoscenza del suo passato – gli aveva ordinato di ricordare e di stare in guardia. Quel pensiero lo colpì profondamente.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_02" data-title="The Haunted House — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,motif/concealment_hidden_identity,motif/animals,concept/deception,concept/identity,concept/self_made_man_theme,form/novel,form/satire"></span>
@@ -3524,6 +4116,32 @@ But why had Aunt Hilda taken all this enormous trouble about the Catchings? Why 
 
 Had John Maple known more of the world, and wholly lost his innocence, he could have answered, as you and I can answer, that there are only two explanations of such feverish changes, when an old house is pulled about and made vulgar. Either the Vandal has more money to spend than she knows what to do with, or the Goth is embarrassed. Either the barbaric hand is filled with the ruining gold, or the savage heart is tortured by perpetual demands for payment from creditors and is salting for a sale.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il suo viso non divenne bianco come quello del Marito, perché aveva già una base di colore scuro; tuttavia cambiò espressione quando guardò John e gli chiese, proprio come il Marito aveva fatto pochi giorni prima, se avesse sentito qualcosa; ancora una volta, John rispose sinceramente di sì. Allora l’Uomo anziano gli chiese direttamente se gli dispiacesse, dopotutto, gli aveva fatto il favore di prenderlo a bordo, e lui era solo un giovane ragazzo. Gli chiese se gli dispiacesse dormire quella notte nella cuccetta del Capitano, lasciandogli la propria. E John accettò con tutto il cuore; anzi, disse che era un onore per lui.
+
+Quando John Maple scese dalla sua breve ma indimenticabile e molto felice crociera (poiché aveva amato il mare, anche se era la sua prima esperienza in tal senso), non aveva idea che ci fosse del vero talento nella capacità che aveva scoperto, ammesso che si potesse davvero definire talento. All’inizio trovava solo divertente il fatto che, suggerendo a qualcuno da dove potesse provenire una voce e poi tenendo immobili i propri tratti facciali mentre parlava, si potesse far sembrare che quella voce provenisse dal nulla. Quando provò con alcuni amici bohemi di Londra, scoprì che non tutti erano in grado di farlo altrettanto bene di lui; anzi, la maggior parte dei suoi amici non riusciva nemmeno a provarci. Poi arrivò il giorno in cui Percy Spegel (così decise di scrivere il proprio nome, per il momento) lo vide esercitarsi con questo trucco durante una piccola cena al Lord Milner in Puffin Lane; lo osservò con attenzione, e chiunque esperto avrebbe potuto notare in lui avidità, tenacia, frode, e altre caratteristiche in linea con il suo enorme fermaglio da cravatta.
+
+Percy Spegel si rivolgeva al suo “parassita” costante: non aveva forse John Maple un talento meraviglioso? Al che il “parassita” concordava. Non era forse un peccato che un tale talento rimanesse del tutto inespresso? Anche su questo il “parassita” era d’accordo. Non sarebbe stato terribilmente costoso coltivare quel talento? Il “parassita” acconsentiva pienamente. Probabilmente John Maple avrebbe fallito se avesse cercato di farsi strada nelle alte sfere. Al che il “parassita” rispondeva: sicuramente sì. Non era forse sciocco, per semplice entusiasmo, correre un simile rischio? Il “parassita” replicava che era esattamente ciò che ci si sarebbe aspettati da una brava persona come Percy.
+
+In definitiva, John Maple si trovò pronto a firmare un tipo di contratto che non aveva mai visto prima, ma che era abbastanza familiare a coloro che vivono e lavorano nelle Halls: in base a quel contratto, non avrebbe guadagnato nulla per un periodo piuttosto breve, dopodiché avrebbe ricevuto una somma considerevole ogni settimana.
+
+John Maple non sapeva nulla di ciò che comportasse questa professione, né delle tentazioni a cui era esposto. Fortunatamente accettò l’offerta, e per questo il suo primo lavoro stabile – circa un anno dopo il suo ritorno in Inghilterra, alla morte di suo padre – fu quello di assistente del famoso ventriloquo Lieutenant Allegri. Tuttavia, c’era un abisso così grande tra i due mondi che nessuno tra le persone ricche che incontrava aveva la minima idea di questa sua attività; allo stesso modo, nessuno tra i bohémien sapeva della sua conoscenza con quei ricchi. Aveva meno opportunità per uscire la sera, ma comunque ne approfittava abbastanza. Manteneva il proprio contratto senza problemi; non permetteva che lo si intimidisse, e grazie alla sua abilità riusciva sempre a stabilire le condizioni e gli orari che preferiva.
+
+La verità è che, se John Maple fosse stato ciò che i giovani di famiglia in questa situazione non sono mai: cioè se si fosse dedicato interamente al proprio unico talento, avrebbe potuto arricchirsi. In questi ambiti si possono guadagnare piccole fortune. Avrebbe potuto riacquistare Rackham, chissà dopo quanti anni, se si fosse completamente dedicato solo al lavoro e avesse dimenticato tutti i nomi, tranne il proprio falso nome.
+
+Dopo soltanto molto poco tempo come tenente Allegri, comprò alcuni cani per il proprio divertimento e li addestrò a eseguire trucchi. Poi ne aggiunse altri e insegnò loro ancora più trucchi. Quando finalmente conosceva bene il mestiere, decise di cambiare approccio; nonostante le appassionate suppliche di Spegel, riuscì a convincere quell’esperto – che conosceva bene la natura umana – che doveva scegliere: perdere i propri notevoli profitti o accettare John Maple come Don Herado de Madeira e il suo Gruppo di Cani Artistici in futuro.
+
+Non era altrettanto bello dello spettacolo del ventriloquo, ma attirava più pubblico: il pubblico, infatti, adora i cani, e Spegel aveva sottolineato che tutto ciò che veniva fatto avveniva per gentilezza, senza alcun eccesso di coccole. I piccoli animali sembravano davvero molto felici mentre correvano intorno scodinzolando e facendo cose che dimostravano quanto fossero completamente indifferenti alle formalità. Abbaivano anche in modo molto affascinante, quando gli veniva chiesto, e sorridevano in modo davvero adorabile.
+
+Ecco quindi la singolare situazione di John Maple nel momento in cui, in quella sua “altra vita”, lui e Bo si erano incontrati e avevano deciso di rimanere insieme. Le aveva raccontato in segreto della sua professione; le aveva anche dato utili consigli riguardo a Lovey-Lad, perché ormai era diventato un esperto in materia di cani. Lovey-Lad aveva riconosciuto in lui un misterioso “Maestro dei Cani”, il che lo aveva reso molto più importante agli occhi di Bo. Si può credere che qualcuno del gruppo di Don Herado abbia incontrato Lovey-Lad nel parco e abbia lodato fedelmente le capacità del suo padrone. Infatti, John era sicuramente l’unico essere umano al quale Lovey-Lad obbediva; e Lovey-Lad era l’unica creatura sulla terra il cui parere Bo rispettava.
+
+* * *
+
+Ma perché zia Hilda si era presa tutta questa enorme briga per i Catching? Perché quel nuovo travezzo inserito nel soffitto, segato, annerito e scheggiato, con la data 1487? Perché quell’antenato. Perché quei pannelli. Perché quelle sedie antiche. Perché quegli animali araldici. Perché tutto questo? E soprattutto: perché quel nuovo “fantasma” della famiglia? È vero che non è costato nulla, ma le cose più solide hanno sicuramente richiesto un sacco di soldi. Perché tutta questa spesa?
+
+Se John Maple avesse conosciuto meglio il mondo e avesse completamente perso la sua innocenza, avrebbe potuto rispondere, proprio come possiamo fare tu ed io, che ci sono solo due spiegazioni per tali cambiamenti frenetici quando una vecchia casa viene ristrutturata in modo volgare. O la persona che se ne occupa ha più soldi di quelli che sappia come spendere, oppure si trova in difficoltà finanziarie. O le sue mani sono piene d’oro, o il suo cuore è tormentato dalle continue richieste di pagamento da parte dei creditori e cerca disperatamente di vendere la casa.
 
 
 
@@ -3565,6 +4183,42 @@ Aunt Hilda was embarrassed. Damnably! Hence the purchases in London; hence the a
 If you desire to know the amount of Aunt Hilda’s embarrassment, I can tell it you simply enough. It was, at the moment when she was adding her last efforts to Rackham, £17,000 — and a little more. She had the cunning common to those who lose money — and make it. She picked up ideas on sharp dealing by listening to conversation around her. She had learnt the tricks of the share-shufflers. Therefore she had continued recklessly. Money was never made to-day by work or saving. The bigger the overdrafts the better, and loans raised in Jermyn Street were quicker and handier than mortgages. She would make Rackham Catchings glorious in the eyes of possible purchasers — Jew, Rastaqouère, new War Lord, Yankee millionaire — anybody. Then she could sell it, untrammelled, for three times its worth and five times what she had spent on it. The money-lenders would get back their loans and interest. There would still be a large balance over, and with that balance she could buy herself a sufficient annuity to live the life she desired. But she must act quickly. Interest mounted up and heavy pressure had begun.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+O zia Hilda stava spendendo soldi in modo sconsiderato, o ne aveva disperatamente bisogno.
+
+Beh, era quest'ultimo il caso. Zia Hilda era sommersa dall'ansia; non sapeva proprio cosa fare.
+
+Quando le persone cambiano continuamente, smontano e ricostruiscono cose, le distruggono o le trasformano in spettacoli teatrali, si può capire quale dei due motivi stia guidandole attraverso un semplice test. Se agiscono in modo spasmodico, mettendo qualcosa su e poi togliendolo subito dopo, spostando un ornamento da un posto all’altro, demolendo un muro per poi pentirsene e ricostruirlo, significa che hanno troppi soldi. Se invece seguono un piano coerente e lo arricchiscono di dettagli, significa che stanno lottando contro i debiti.
+
+Zia Hilda stava lottando contro i debiti.
+
+Zia Hilda stava creando un nuovo disegno di Rackham e una nuova illustrazione di Catchings, nella speranza che qualche acquirente, magari inviato dal cielo, si presentasse. Perché zia Hilda doveva assolutamente trovare un compratore, altrimenti sarebbe impazzita. E questa era la verità.
+
+William Maple, quell’uomo d’affari meticoloso, aveva lasciato tutto in ordine al momento della sua morte. Aveva aumentato notevolmente il valore della casa e del patrimonio. Aveva permesso a sua moglie di rivestire la parte in mattoni della facciata con una falsa finitura in legno semilavorato, in modo che assomigliasse al resto dell’edificio più vecchio; inoltre aveva fatto in modo che questa nuova finizione fosse abbinata in modo naturale a quella originale. Anche questo sembrava ragionevole. Non aveva permesso altro. Ma Hilda Maple, già prima della sua morte, parlava spesso con i suoi ospiti occasionali dell’antichità di quella casa e di quali meraviglie si sarebbero rivelate una volta che tutto il legno vecchio fosse stato scoperto e le modifiche successive rimosse.
+
+Suo marito era morto da appena due mesi quando, nonostante tutte le difficoltà legate al completamento dei lavori in quegli ultimi giorni di guerra, zia Hilda riuscì comunque a portarli a termine. Anche allora – il lettore se lo ricorderà, se è abbastanza anziano – le persone con contatti influenti potevano ancora ottenere ciò che desideravano. In quel periodo stava per essere costruita una delle case più lussuose della nuova zona residenziale vicino alla costa meridionale del Kent, commissionata da un politico. A quei tempi, in primavera del 1918, le difficoltà della vita non riguardavano i ricchi; e sebbene Hilda Maple non appartenesse al vecchio mondo aristocratico che un tempo governava l’Inghilterra, aveva già stretti legami con alcuni dei nuovi personaggi influenti che stavano iniziando a dettare le regole del paese. Solo la sua amicizia con Amathea de Beaurivage le permise di reperire il personale necessario per i lavori. Naturalmente, tutto ciò costava un’enorme somma di denaro; ma Hilda, appena entrata in possesso della sua nuova fortuna, iniziò immediatamente a demolire l’intera struttura dell’edificio, per poi decorarlo e ristrutturarlo completamente.
+
+Nello stesso tempo fece un'altra cosa: non insolita per donne che improvvisamente dispongono di denaro, e ancora meno insolita in tempi in cui tutti i valori oscillano continuamente, come la piccola palla nel cerchio della ruota della roulette. Giocò d'azzardo.
+
+Ma Hilda Maple, come migliaia di altre persone in quei tempi, stava scommettendo contro i politici, i pacifisti, i banchieri e tutti coloro che proclamavano la pace nel nuovo millennio. Loro conoscevano bene le regole del gioco, perché erano loro a detenere e manipolare le “carte”. Lei – e quelle migliaia di altre persone – potevano vedere soltanto il dorso di quelle carte.
+
+Era arrivato un momento – e questo in soli pochi mesi – in cui tutto era perduto e lei non aveva più nulla su cui contare se non su Rackham stesso, e Rackham doveva essere venduto a tutti i costi. Forse, quando aveva parlato con suo cognato morente, aveva sinceramente intenzione di non venderlo; ma la necessità non conosce leggi, e si giustificò ricordando ciò che gli aveva detto: che aveva il diritto legale di vendere. Tuttavia, vendere una casa, proprio come vendere una barca o persino la propria anima, dipende da fattori esterni. “Noi ci presentiamo con i nostri vestiti”, ha detto un grande leader americano del pensiero moderno. Una barca si vende in base alla sua vernice e ai suoi accessori in ottone; una casa, invece, si vende in base agli arredi che contiene, al legno finto utilizzato per la sua costruzione e all’aspetto “storico” che cerca di assumere.
+
+Rackham potrebbe difficilmente essere venduto per i suoi 20.000 sterline, considerando il suo vero valore; ma se diventasse “Rackham Catchings”, venisse lucidato e reso più volgare (anche se Hilda Maple non lo considerava volgare: anzi, pensava che lo rendesse molto più nobile), chissà quanto potrebbe valere, soprattutto nelle mani del tipo giusto di acquirente, in questi tempi straordinari, in cui le persone sembrano uscire dalle proprie condizioni disperate il primo giorno dell’anno e arrivare addirittura alla Camera dei Lord prima di Natale.
+
+Ecco perché zia Hilda continuava a costruire, demolire, sostituire il legno vecchio con altro nuovo, accumulando sempre più debiti per i consigli di esperti e gli oggetti acquistati dai negozi di antiquariato. In breve, stava davvero creando un sacco di problemi a Rackham.
+
+Aveva già fatto pubblicare la casa su tre riviste illustrate: prima nella sezione “Il nostro patrimonio elisabettano”, poi in “Le case tranquille d’Inghilterra”, e infine in “Piccole grandi case inglesi, n. 51: Rackham”. Lei stessa aveva negoziato un po’ riguardo alla categoria “Piccole”, ma in quel caso si era sbagliata; avrebbero dovuto negoziare sulla categoria “Grandi”.
+
+Zia Hilda non mancava certo di senso commerciale. All’occasione dell’ultima sessione fotografica, aveva acquistato due pavoni e li aveva fatti posare sul prato prima che le persone di Londra scattassero le foto. Aveva persino preso in prestito da uno dei suoi pochi amici veramente importanti una enorme fotografia di una famiglia reale, incorniciata in un vasto supporto d’argento, e l’aveva sistemata su un piccolo tavolino affinché si intonesse bene con la scena del boudoir, senza sapere che il termine “boudoir” era da tempo fuori uso. Ma, a dire il vero, ognuno di noi è considerato “out of moda” dagli altri. La nostra società inglese si è divisa in gruppi diversi, come quelle correnti esposte all’antica Esposizione di Parigi del 1889: alcuni seguono un certo modo di fare, altri un altro; e ancora oggi esistono persone perbene che usano il termine “napkin”, accanto a coloro che, nel nostro mondo moderno, preferiscono dire “serviette”.
+
+Lasciate che lasci il boudoir, le fotografie e tutto il resto, e torni a parlare del debito.
+
+Zia Hilda si sentiva imbarazzata. Maledettamente! Ecco spiegate le compere a Londra, gli oggetti d’antiquariato, e anche quella storia dell’“Antenato”. Quell’attività sua che aveva incuriosito povero John Maple era in realtà piuttosto ovvia. Sarebbe stato meno arrabbiato con sua zia se avesse conosciuto le cause delle sue continue spese eccessive.
+
+Se desiderate sapere quanto fosse grande l’imbarazzo di zia Hilda, posso dirvelo molto chiaramente: in quel momento in cui stava compiendo gli ultimi sforzi per ingannare Rackham, la somma ammontava a 17.000 sterline, e qualcosa in più. Possedeva l’astuzia tipica di coloro che perdono denaro, ma riescono comunque a guadagnarlo. Acquisiva informazioni su come trattare gli affari in modo spregiudicato ascoltando le conversazioni intorno a sé; aveva imparato i trucchi dei manipolatori di azioni. Per questo continuava ad agire con imprudenza. Oggi, il denaro non si guadagna più lavorando o risparmiando: più elevati sono gli scoperti bancari, meglio è, e i prestiti ottenuti in Jermyn Street risultano più rapidi e convenienti delle ipoteche. Voleva far sì che Rackham Catchings apparisse straordinario agli occhi di eventuali acquirenti: ebrei, nouveaux riches, nuovi signori della guerra, milionari yankee, chiunque fosse. Poi avrebbe potuto venderlo, senza ostacoli, per il triplo del suo valore, e per cinque volte quanto ne aveva speso. I prestatori avrebbero recuperato i loro soldi e gli interessi; sarebbe rimasto ancora un cospicuo saldo, e con quel denaro si sarebbe potuta assicurare un’annuità sufficiente per vivere la vita che desiderava. Ma doveva agire in fretta: gli interessi continuavano ad aumentare, e una forte pressione stava già incominciando a manifestarsi.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_04" data-title="The Haunted House — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/concealment_hidden_identity,concept/deception,concept/money_and_avarice,concept/greed,concept/antisemitism,concept/class_conflict,concept/identity,concept/satire_of_society,form/novel,form/satire"></span>
@@ -3592,6 +4246,30 @@ Here, then, was John Maple these few years after the war, making good in his cur
 
 In John Maple’s mind, more prominent even than Bo, stood dominating and overwhelming a figure — the figure of Twenty Thousand Pounds — the Lump that would redeem Rackham. In the mind of Bo there stood John Maple. Anyone might have told these two children that all was at sixes and sevens with their lives. On which account, the wise, might foretell that these two lovers would win, and that the enormous incongruities of their lives would be triumphantly reconciled.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+È purtroppo vero che le persone che si dedicano a varie attività commerciali nascondono le proprie operazioni sotto nomi diversi. Il signor Curzon, quel gentiluomo estone che aveva venduto alla zia Hilda il “Antenato” e molte altre cose, aveva già prestato i soldi necessari a lei (sotto lo pseudonimo di Charles Blunt di Bristol), e in seguito il signor de Vere di Jermyn Street le aveva fornito ulteriori fondi per soddisfare le richieste di Charles Blunt. Ora il signor de Vere stava iniziando a insistere. Ma se lei avesse venduto Rackham, tutto sarebbe andato bene.
+
+Ecco il cuore di una donna: si disse che tutto ciò fosse del tutto giusto nei confronti di John. Lui sarebbe stato suo erede. Il fatto che lei non avesse nulla da lasciargli non cambiava nulla. Gli aveva fatto un’offerta onorevole, proponendogli di mandarlo a Oxford, ma lui l’aveva rifiutata. Continuava a invitarlo a Rackham. Non era forse questo il suo modo di essere gentile? In effetti, lui non veniva mai abbastanza spesso. Beh, forse John era troppo orgoglioso. Lei lo rispettava per questo. Era il sangue dei Maple. A quel punto, zia Hilda aveva iniziato a credere di essere lei stessa una Maple.
+
+Eccolo lì: zia Hilda, con il respiro affannoso del inseguitore sul collo; John che odiava quelle assurde ristrutturazioni e quegli oggetti strani; i compratori che avanzavano con la bocca aperta e un semplice sorriso.
+
+Per i compratori, zia Hilda aveva, o credeva di avere. E su questo punto la sua fede era incrollabile.
+
+Ho già raccontato quanto fosse diventata cara amica di Amathea Lady Mere de Beaurivage e di suo marito, il defunto Sir George Huggins; ora, nel cuore di lei (e certamente anche in quello di lui), c’era qualcosa di ancora più profondo per quell’eccezionale uomo d’affari, Lord Hellup. Credeva che, ora che c’erano i Catchings in gioco, Rackham non potesse rimanere indifferente nei loro confronti. E poiché la concorrenza è l’anima del commercio, sperava di ottenere sessantamila – ne era certa: cinquantamila – sterline da uno o dall’altro. Anche cinquantamila sterline, per una proposta che al massimo valeva ventimila, rappresentavano senz’altro un ottimo affare.
+
+* * *
+
+Nel frattempo, John Maple continuava a lavorare, in modo irregolare ma redditizio, con i cani da esibizione per guadagnarsi da vivere; inoltre, grazie a un numero sempre maggiore di amici ricchi, riusciva anche a godersi una vita agiata.
+
+Aveva tre nomi. Nella vita di quelle persone che non fanno nulla, che hanno relazioni amorose banali e passano il loro tempo noioso lungo la Riviera o nelle case di campagna, era conosciuto come John Maple; nei salotti, invece, era Don Herado de Madero; nel suo mondo bohémien, che includeva anche Spegel, usava il nome Henry Pelton, un nome come tanti altri. Si sarebbe potuto pensare che fosse interessante per Spegel rintracciarlo e scoprire cosa facesse durante quei lunghi periodi in cui scompariva; infatti, avrebbe davvero valso la pena farlo. In seguito, ci sarebbe potuta essere anche una questione di ricatto, il ricatto, dopotutto, è uno degli elementi caratteristici del mondo di Spegel. Eppure Spegel non si prese nemmeno la briga di farlo: semplicemente accettò una spiegazione troppo facile per giustificare le assenze e le scomparse di John Maple.
+
+La sua conclusione era che il Pelton che conosceva, quel Herado de Madero dei Cani, soffriva di crisi alcoliche del tutto incurabili. La sua esperienza in materia – vasta, visto che riguardava circa metà delle persone che aveva sfruttato nel corso della sua vita malvagia – gli aveva insegnato che con loro non si poteva fare nulla. Quindi, quando Don Herado (o Pelton) gli diceva che i cani non sarebbero apparsi la settimana successiva, che doveva cancellare un appuntamento il venerdì seguente, o che sabato e lunedì erano giorni inutilizzabili, Spegel faceva subito le necessarie modifiche ai suoi piani. Perché Pelton rappresentava una risorsa preziosa, anche se imprevedibile. Le vecchie signore che ancora votano per i conservatori mi diranno sicuramente che John Maple era indispensabile nelle riunioni, perché “il sangue parla” – il sangue di quel commerciante di bestiame e fabbro originario. I suoi simili, che guadagnano facendo il ruolo di leader laburisti alla Camera dei Comuni, diranno invece che John Maple aveva privilegi e favori perché possedeva un “sangue nobile”. Ma io dico che poteva fare ciò che voleva: cancellare appuntamenti, modificare gli impegni, vivere in due mondi diversi. Perché aveva talento, e soprattutto perché era determinato a ottenere ciò che desiderava. Inoltre, perché a Spegel importava solo il denaro. E perché le persone che pensano solo al denaro sono disposte a dare qualsiasi cosa a chi possiede un genio che possono sfruttare.
+
+Ecco dunque John Maple, alcuni anni dopo la guerra: si stava cavando d’impaccio a modo suo, guadagnando molto di più di quanto spendesse, conducendo due vite diverse, orgoglioso di sé e con un solido conto in banca. Era fermamente legato da un profondo legame sentimentale a una grande ereditiera che, a sua volta, era altrettanto legata a lui. E nessuno dei due comprendeva davvero da dove provenisse il denaro in tutte queste situazioni.
+
+Nella mente di John Maple, ancora più prominente di Bo, c'era una figura dominante e travolgente: la figura di “Venti Migliaia di Punte”, quell’elemento che avrebbe salvato Rackham. Nella mente di Bo, invece, c'era John Maple. Chiunque avrebbe potuto dire a questi due bambini che le loro vite erano completamente sottosopra. Eppure, i saggi avrebbero potuto predire che questi due innamorati avrebbero vinto, e che le enormi incongruenze delle loro esistenze si sarebbero risolte in modo trionfale.
 
 
 
@@ -3715,6 +4393,124 @@ A cataract of consequences was pouring before John Maple’s mind. Aunt Hilda as
 “You’re sure the Huggins’s are after it, Bo?” he said at length.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO V
+
+In questa fase ancora incompleta delle vicende di John Maple, con nessuna delle listelle ancora assemblate e senza alcuna possibilità evidente di far quadrare tutto, ma con grandi prospettive nell’unica cosa che conta per un ragazzo della sua età – ovvero il suo doppio talento e la possibilità di utilizzarlo – arrivò ancora un invito da parte di zia Hilda. Negli ultimi mesi era stato lì abbastanza spesso nei fine settimana, e era impossibile nasconderle che si guadagnava da vivere in qualche modo poco chiaro, sul piccolo palcoscenico. Anche se nessun altro nel suo mondo lo sapeva. Lei aveva rabbrividito e rifiutato di ascoltare qualsiasi dettaglio. Lui avrebbe superato questa ossessione per l’indipendenza. In ogni caso, era suo nipote: conosceva tutti e sapeva comportarsi in modo appropriato.
+
+Gli disse di venire il venerdì, se fosse stato possibile. Riferì il suo desiderio a Spegel, perché Spegel aveva bisogno di lui più di quanto lui avesse bisogno di Spegel. Quindi fissò il venerdì come data. Ma prima decise di incontrarsi con Bo per discuterne, perché gli era stato detto che Lord Hellup stava andando a Rackham Catchings.
+
+Si incontrarono nel suo club, dove potevano parlare in pace.
+
+“Bo, stai per andare di nuovo da tuo padre a Rackham, e questa volta ci sarò anch’io.”
+
+“Certo,” disse Bo, accarezzando la testa di Lovey-Lad con grande affetto e guardandolo negli occhi.
+
+“Te l’hanno detto?”
+
+“Sì,” disse la bella ragazza.
+
+“Perché non me l’hai detto?”
+
+“Non ti ho visto; non volevo farlo; non c’era bisogno,” fu la risposta sufficiente.
+
+“Non mi sto lamentando; è solo che, se fossi arrivato da Rackham e ti avessi trovato lì senza riconoscerti, probabilmente sarei rimasto sorpreso.”
+
+“Stavo cercando proprio quella sorpresa,” disse Bo.
+
+“Sì,” disse John in tono piuttosto autoritario, “ma devi pensare a me. Lei non sa che io conosco te e tuo padre.”
+
+“Lo farà”, disse semplicemente Bo. “Lui le racconta tutto”.
+
+“Partirò il giorno prima di te,” disse John.
+
+Lei annuì. Lui tirò fuori dalla tasca la lettera di sua zia.
+
+“Guarda qui, Bo: chi è questa persona di cui parla Amathea? La conosci?”
+
+“Nix,” disse semplicemente la giovane signora.
+
+“Anch’io lo stesso,” rispose il suo amante.
+
+“Passiamo,” concluse Bo, sospirando.
+
+“Beh, lei dovrà essere lì, e anche suo marito. Chissà chi sia. C’è anche Lord Hambourne. Penso che sia tutto. So tutto su di lui: era l’esperto di psicologia durante la guerra. È una autorità a Oxford.”
+
+Bo appoggiò entrambi i gomiti sul tavolo dove erano seduti, incorniciò il proprio viso grande con le mani e fissò a lungo il suo amante. Poi nei suoi occhi riemersero i ricordi.
+
+“Amathea?”, disse. “Quella è la vecchia Madre Bruvvish.”
+
+“Cosa?”, rispose John. “Vuoi dire che zia Hilda è arrivata a tanto?”
+
+Bo annuì.
+
+“È lei,” disse. “Ora me ne ricordo. È l’unica Amathea a Londra. Ha preso un po’ di peso intorno al collo.”
+
+“Ma che cosa, in nome del cielo, rende degno il viaggio a Rackham?” disse lui.
+
+“Stanno cacciando,” disse lei.
+
+# Chi sta cacciando?
+
+“Madre Bruvvish e Papà sono entrambi a caccia.”
+
+“Cacciare cosa?”, chiese John, un po’ sorpreso. “Non zia Hilda, vero?”
+
+La bocca di Bo assunse un’espressione ancora più perplessa.
+
+“Uno di loro sì,” disse, “ma entrambi stanno cacciando… Almeno, uno sta pescando.”
+
+“Cosa stai cercando di pescare?” chiese di nuovo John Maple, un po’ stanco.
+
+“Cercare Rackham, quella è Amathea,” disse Bo, abbassando la voce e appoggiandosi all’indietro.
+
+“Dio mio!”, disse John.
+
+“Hai ragione”, disse Bo. “Chiedi il Suo aiuto. Invocalo… Forse ti ascolterà”.
+
+Il viso di John si contrasse in un’espressione di dolore, e Bo reagì immediatamente.
+
+“Spetta a te, Uomo-Cane,” disse lei.
+
+“Cosa c’entro io in tutto questo?” chiese l’Uomo-Cane.
+
+“Quella scogliera…”, disse Bo annuendo. “E nemmeno una scogliera enorme, per di più.”
+
+“Che bluff?” disse John.
+
+Bo iniziò ad impazientirsi.
+
+“Perché, con la tua terza offerta sembri quasi implorare di essere accettato,” disse lei. “Sai benissimo che sei disperatamente interessato a quel posto.”
+
+“Bo,” disse John, con troppa serietà, quasi tragicamente, “volevo risparmiare ogni centesimo, lavorare fino alla vecchiaia e poi portare i soldi da zia Hilda. Quando mi dici che tuo padre e Old Huggins sono interessati a quei soldi, ”
+
+Bo alzò un dito.
+
+“Fai bene, ragazzo,” disse lei. “Tuo padre non è pazzo per quella casa, ma verrà guidato. Capisci cosa intendo?”
+
+“No,” disse John Maple in modo diretto, “non lo faccio.”
+
+Bo sospirò per la stupidità degli uomini; ma pensò che fosse comunque una sorta di protezione, quindi continuò pazientemente e serenamente.
+
+“La nobile signora di Rackham può ottenere dal barone, mio padre, qualsiasi favore desideri, caro giovane. Lui le rifiuterebbe nulla, vero, papà? Aspetta solo di vederlo con lei. Me lo ha detto lui stesso.”
+
+“Dio mio!”, disse di nuovo John, ma con maggiore enfasi e un senso di profondo stupore.
+
+“Non pregare troppo nemmeno tu,” commentò la Donzella, “ti toglie l’entusiasmo.” E lo guardò con benevolenza e un senso di tranquilla vittoria.
+
+La testa di John girava vorticosamente. Tutto stava accadendo troppo velocemente. E come poteva Bo già sapere quelle cose, mentre lui, il figlio di casa, non se n’era accorto nemmeno? Questo offendeva il suo orgoglio.
+
+Ma se John fosse saggio, si rallegrerebbe di aver imparato così presto nella vita ciò che la maggior parte degli uomini impara troppo tardi: che le donne conoscono i segreti meccanismi della mente; che gli uomini no; che le donne sono le informatrici degli uomini, e che gli uomini più saggi sono quelli che imparano attraverso le donne.
+
+“E cosa ne dice zia Hilda?” fu la domanda successiva di John, una volta ripreso dallo shock.
+
+“Non molto ancora,” disse Bo. “Mio padre è timido. Non ha detto nulla per ora. Ma lo farà, e se scoprirà che comprare quell’immobile al suo prezzo è una scusa valida, beh, non esiterà nemmeno un attimo; intendo dire, non considererà affatto il prezzo richiesto. Anche se immagino sia davvero esorbitante.”
+
+Un diluvio di conseguenze si riversava nella mente di John Maple. Zia Hilda, in qualità di suocera, rappresentava una minaccia temibile. Ma poi – un pensiero consolante – Bo sarebbe stato in grado di affrontare sei suocere del suo stesso peso. Tuttavia, se Lord Hellup aveva davvero intenzione di riprendere una relazione con lei, ciò significava che avrebbe continuato a vivere a Rackham. No. Forse Zia Hilda avrebbe cercato prima di ottenere i soldi. E ci sarebbe riuscita. Comunque fosse, Lord Hellup era un uomo molto ricco e pieno di determinazione. Come avrebbe potuto John competere con lui? Se anche un altro milionario fosse stato interessato a lei, la situazione sarebbe stata senza speranza.
+
+“Sei sicuro che la famiglia Huggins sia interessata a quella cosa, Bo?”, chiese infine.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="The Haunted House — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/trickster,motif/letters_writing,concept/deception,concept/money_and_avarice,concept/capitalism,concept/satire_of_society,form/novel,form/satire"></span>
@@ -3815,6 +4611,102 @@ She wrote on another sheet, again murmuring her words:
 “Oh, yes,” said John Maple in a whirl, “I’ll do what I’m told, but why should Aunt Hilda accept? — with all that other money before her?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Lo è davvero. Lady Mere de Beaurivage. Amathea. Non lo nasconde affatto; ne ha parlato ovunque. Ed è per questo che zia Hilda lo sa.”
+
+“Beh, allora,” disse il povero John, “è finita. Il prezzo potrebbe salire all’infinito se entrambi ci provassero a ottenerlo, e io sono rovinato,” e si appoggiò allo schienale, disperato.
+
+Bo sorrise a lui con tranquillità.
+
+“Devi assolutamente provarci anche tu,” disse. “Fissa il tuo prezzo.”
+
+“Intendi dire, ” cominciò John, con incredulità e un crescente senso di rabbia, “che mi stai offrendo,?” Ricordò, per la prima volta da settimane, l’eredità che sua madre le aveva lasciato.
+
+“Niente,” rispose Bo con indifferenza. “Non sto offrendo assolutamente nulla. Sei tu a dover offrire qualcosa, Jacko.”
+
+“Ma non ho nulla,” disse John.
+
+Bo sospirò stancamente.
+
+“Dirò al mondo,” disse lei, “che sei il fratellino di Dumb Dorah. I seni si vendono prima di essere comprati. Ma questo ragazzo affascinante si vende prima ancora di comprare. Almeno, così fa Isabeau Hellup. Sì.”
+
+“Non capisco,” disse John.
+
+“Ah sì?” chiese Bo con simpatia. “Beh, ascolta bene: compra con i soldi che hai, se li hai, altrimenti devi farne a meno. Ma se non usi soldi, non ci sono spese di sorta. Capisci? Quanto valgono questi ‘oggetti’?”
+
+“Per l’amor del cielo, Bo,” esclamò, “non chiamare Rackham ‘il Catchings’. Non so più quale valore abbia Rackham ora che gliel’hanno rovinato tutto, e non mi interessa nemmeno. Pagherò ventimila sterline quando ne avrò ventimila; è il massimo che si possa dire che debba ad Aunt Hilda, o meglio, a mio zio William, suo marito defunto. E avrò diritto su Rackham per sempre una volta ripagato quel debito. Lo pagherò, e non un penny di più. Quando ne avrò i mezzi. Dio sa quando, ma quando ne avrò i mezzi, ”
+
+“Ora ce l’hai, ragazzo,” disse Bo.
+
+“Intendi dire,?”, disse John, aggrottando la fronte, sospettando di nuovo che lei stesse alludendo al fatto di potergli essere d’aiuto.
+
+“No, non lo faccio. Non intendo me stesso, né nemmeno mio padre. Intendo dire che qualsiasi uomo riesca a ottenere Rackham Catchings, scusate, Rackham, per 20.000 sterline, ottiene tutto ciò, e forse anche altre 10.000 sterline, o addirittura altri ventimila. Le ha semplicemente nel suo piccolo portafoglio.” E così, con il suo talento innato, Bo spiegò a quel figlio di un gentiluomo inglese come si possano ottenere cose senza spendere soldi, e come nel mondo moderno noi compriamo non con ciò che abbiamo, ma con l’ingenuità, gli errori o le imprudenze altrui. Se riusciva a convincere sua zia ad accettare 20.000 sterline per la casa nel Sussex, e se l’accordo fosse stato scritto e vincolante, nemmeno il più cauto avvocato avrebbe esitato a trovare quei 20.000 sterline per lui, con una garanzia del genere.
+
+“Ma lei non ci cascerà,” continuò Bo scuotendo la testa. “Siamo tutti degli sciocchi, e zia Hilda è davvero una persona molto ingombrante, ma non fino a quel punto. No, ragazzo! In questo caso, bisogna farle ‘restringere’ le dimensioni.”
+
+John vide finalmente la luce del giorno.
+
+“Offrirò 20.000 sterline alla zia Hilda,” disse con fermezza, “e in un modo o nell’altro farò in modo che le vengano consegnate, e nient’altro di più. E dopo, mi assicurerò anche di ottenere Rackham.”
+
+“Coraggiosa piccola”, disse Bo con dolcezza. “Quanto vorrei poter mordere via un pezzetto di quella parte sottoscritta…”
+
+Ma John non conosceva affatto quel gergo.
+
+Poi quel giovane efficiente si alzò senza dire una parola, andò verso la scrivania e tornò con un mazzo di grandi fogli bianchi, un calamaio e una penna.
+
+“Non è diretto verso nessun luogo,” disse lei; aveva pensato a tutto. Poi iniziò a scrivere, mormorando le parole necessarie per la sua illuminazione.
+
+“L’hotel splendido.”
+
+“È da lì che scrivi, Jacko. Stai per partire.”
+
+“Cara zia Hilda,”
+
+“Abbiamo spesso parlato di questa questione e temo che ti faccia del male, ” (Ti fa davvero del male, vero, Jacko? Povera vecchia, ) “Temo che ti faccia del male. Ma conosci i miei sentimenti e non posso più rimanere in silenzio su questo argomento. Ecco perché scrivo questa lettera: voglio fissare tutto per iscritto. Sai, quando ti ho proposto per la prima volta 20.000 sterline per Rackham, tu hai solo riso di me. Lei l’ha fatto, vero, Dog-Man?”
+
+“Avrei dovuto chiamarlo disprezzo, piuttosto che risata,” disse il padrone dei sei cani. “Un disprezzo ardente, devastante. Ha detto che non possedevo nemmeno ventimila penny.”
+
+“È una bugia comunque,” rispose Bo. “Dopotutto, l’anello che mi hai dato valeva molto di più.” Fece rapidamente i calcoli riguardanti il valore in sterline di ventimila penny e poi scosse la testa. “No, nemmeno un quarto. Comunque, tu vali molto di più di ventimila penny, Jacko, vero?”
+
+Annuì.
+
+“Ma non ancora 20.000 sterline. Non importa. Continuiamo con la festa. Lasciamo che la gioia sia senza limiti,” e continuò a scrivere.
+
+“Ora vi faccio una proposta concreta: 20.000 sterline per Rackham. Il dieci percento al momento dell’accettazione, il resto alla consegna; oppure, in alternativa, un pagamento dilazionato di tre mesi al momento della firma, come indicato nell’allegato.”
+
+“Vostro affezionato nipote.”
+
+Alzò lo sguardo con aria trionfale.
+
+“Questo è ciò che si chiama una lettera di presentazione, Jacko.”
+
+John Maple la guardava con ammirazione.
+
+“A tua età!” disse lui.
+
+“Tutto a posto, Jacko. L’ho trovato in un libro, oh, mi sono dimenticata, ” Scrisse la parola “Allegato” nell’angolo in alto a sinistra del documento, e aggiunse: “È meglio attaccare una piccola stellina di carta rossa, incollata con la colla, su cui scrivere ‘Allegato’, e fissarla fuori dall’involucro. Tutti lo fanno.”
+
+Lo stupore di John Maple aumentava sempre di più.
+
+“Ora occupiamoci di quel recinto, Jacko… Oh! È davvero facile!”
+
+Scrisse su un altro foglio, mormorando di nuovo quelle parole:
+
+“My Dear John,
+
+“Ho ricevuto la tua lettera. Dopo aver attentamente valutato la tua offerta di 20.000 sterline per Rackham, ho deciso di accettarla e lo faccio ufficialmente con questa dichiarazione.”
+
+"#Tua affezionata zia."
+
+“Allora, Jacko, dovrà firmare sulla linea tratteggiata.”
+
+“Bo”, disse onestamente John Maple, “ho paura di te”.
+
+“È proprio così che deve essere. Ora, Jacko, prendi questi documenti e, non appena sarai fuori, vai subito a farne tre copie e invia la prima ad Aunt Hilda insieme all’allegato. Tieni le altre due per te. Lei riceverà quella lettera e quell’allegato prima ancora che tu arrivi lì; li riceverà con la posta di domani mattina. Così potrai conoscere subito le sue reazioni. È sempre utile. Noi arriveremo il giorno dopo, e poi la situazione diventerà ancora più complessa. Obbedirai, Dog-Man?”
+
+“Oh, sì,” disse John Maple con un po’ di confusione, “farò quello che mi viene detto, ma perché dovrebbe accettare zia Hilda? Con tutti quei soldi che ha già, ”
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="The Haunted House — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/ghosts,concept/deception,concept/the_supernatural,concept/satire_of_society,concept/class_conflict,concept/self_made_man_theme,concept/hypocrisy,form/novel,form/satire"></span>
@@ -3875,6 +4767,62 @@ Well, he would play up to them all.
 But it is time that I dissipated in my reader’s mind John’s misapprehension of Lord Mere de Beaurivage, and, if she will excuse me, I will now proceed to give her a true estimate of that considerable English peer.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Isabeau Hellup si appoggiò allo schienale della sedia, distogliendo lo sguardo dai documenti davanti a lei e fissando attraverso la finestra del club il parco, con le mani incrociate. Il suo viso era cambiato; sembrava assunta da una sorta di serietà religiosa.
+
+“Spero che l’Onnipotente non sia troppo severo con me,” sospirò. “Rackham appartiene moralmente a te, vero, Jacko?”
+
+“Sì,” rispose John Maple con determinazione.
+
+“Allora immagino di stare facendo la cosa giusta. Voglio dire, stiamo facendo la cosa giusta. Ti ricordi quando mi hai detto che avresti interpretato il ventriloquo? Ti ricordi come quella notte, a casa dei Bakeham, hai fatto parlare la ciminiera?”
+
+“Sì,” disse John.
+
+Bo si sporse in avanti e parlò a voce più bassa.
+
+“Ricordi come zia Hilda desiderava avere un fantasma a Rackham, e quanto tu fossi arrabbiato quando me lo hai detto? Quest’inverno, dopo che l’avevi lasciata?”
+
+“Sì”, disse John, “non riesco nemmeno a pensarci”.
+
+Bo abbassò la voce quasi fino a sussurrare.
+
+“Li tormenteremo!” gli disse. “Li tormenteremo davvero a dovere. E poi, Jacko,” si appoggiò di nuovo allo schienale con un sorriso trionfante sul viso, “allora Rackham sarà tuo, se lo vorrai.”
+
+“Non capisco,” disse.
+
+“Lo farai,” annuì lei.
+
+Guardò l'orologio al polso, che aveva una forma davvero straordinaria: era a sei facce e circondato da un numero enorme di diamanti molto piccoli; anche il quadrante era estremamente piccolo. Si alzò bruscamente e tirò su Lovey-Lad. Uscirono insieme.
+
+“Beh, Jacko,” disse lei con un modo delicato per congedarsi per strada, “ci rivedremo al Passo del Khyber.” Era una frase che aveva imparato da un libro. Non sapeva che fosse ormai obsoleta. E poi se ne andò.
+
+Per quanto riguarda John Maple, fece esattamente ciò che gli era stato detto. Andò al “Splendide”, raccolse un mazzo di quei loro documenti in carta e ne redasse il contenuto per la “dea” di quel luogo, quella che trascriveva a macchina le corrispondenze degli ospiti. Poi firmò la lettera e la inviò insieme all’allegato ad Aunt Hilda. Era giovedì. Il pomeriggio seguente avrebbe dovuto partire per il Sussex, ma Aunt Hilda avrebbe già ricevuto la sua lettera prima ancora che arrivasse lui: l’avrebbe ricevuta con la prima consegna postale.
+
+Avrebbe avuto il tempo “di osservare le sue reazioni” prima che il giorno seguente portasse lì i tre lord, i due milionari e la luce dei suoi occhi, nel luogo che lui era più che mai determinato a rendere la loro casa.
+
+John sapeva sicuramente qualcosa riguardo a Lord Hambourne, perché uno dei suoi amici d’infanzia inglesi, che aveva conosciuto in Svizzera e che poi era andato all’università di Oriel, rideva sempre di lui. Sembrava che lo chiamassero “Hambone”. Non era certo una battuta molto raffinata, ma sufficiente per un bersaglio del genere. Inoltre, a quanto pare, non gli piacevano affatto; lo consideravano un individuo disonesto e pensavano che li spiasse. Gli perdonavano la balbuzie, perché faceva parte della sua natura. Ma ciò che non gli perdonavano erano i vari articoli apparsi sulla stampa scandalistica di Londra riguardanti quell’università; quegli articoli provenivano, come avevano scoperto in modo indiretto, da quel famoso professore. Non gradivano nemmeno il suo comportamento da ciarlatano. Esistono diversi tipi di ciarlataneria, e una cattedra di Psicologia era decisamente qualcosa che lo studente ingenuo non poteva accettare facilmente. I giovani di Oxford sospettavano che fosse impossibile insegnare la Psicologia. E avevano assolutamente ragione. Non sapevano però che anche in quel campo Lord Hambourne non aveva letto nemmeno un decimo di ciò che i suoi colleghi continentali avrebbero letto. Ma avevano una vaga sensazione che qualcosa non andasse. E infatti era così: proprio come per la storia, la filosofia e molte altre cose legate a quell’antico centro di studi.
+
+Si chiese per un po’ perché zia Hilda avesse dovuto chiedere a un uomo così povero di trascorrere quel fine settimana decisivo con loro. Ma Bo avrebbe potuto spiegarglielo: zia Hilda aveva due motivi. Primo, un lord è pur sempre un lord, e i lord più nobili non sono facilmente attratti da case come quella dei Rackham. In secondo luogo, Lord Hambourne aveva una certa discendenza, e gli altri lord ne sarebbero stati impressionati.
+
+E chi era Lord Mere de Beaurivage? John Maple, nella ignoranza e nella follia della giovinezza, aveva tratto conclusioni assurde. Aveva formato un'immagine distorta delle persone basandosi sulle conversazioni di altri quasi suoi coetanei. Quanto questa immagine fosse lontana dalla verità, il mio lettore lo scoprirà presto. Nella mente di John, innumerevoli nuovi nobili si erano introdotti vergognosamente nella loro classe attraverso la corruzione, alla fine della guerra. Ma non esistevano persone del genere: era solo un’illusione. In quell’immaginario gruppo di volgari, John vedeva soltanto una figura che non si distingueva dalle altre, il cosiddetto “Old Bruvvish”. Si sbagliava completamente. George, Primo Barone Mere de Beaurivage, era un uomo unico.
+
+John aveva sentito abbastanza pettegolezzi da potervi rivelare il cognome di quell’uomo straordinario prima che venisse elevato al rango di pari, o di barone, se volete. Era, come abbiamo appreso, Huggins. Senza dubbio, John Maple, orgoglioso della ricchezza delle sue tre o quattro generazioni di gentiluomini in declino (ricordate che lui stesso proveniva da una famiglia di commercianti di bestiame), avrebbe deriso alle origini di George Adolphus Huggins, Primo Barone Mere de Beaurivage. E credo che questo sia un ottimo esempio di quanto poco le persone conoscano se stesse e i propri antenati. Perché George Adolphus Huggins, come scoprirà presto il mio lettore, meritava davvero quella posizione elevata, raggiunta passo dopo passo insieme a centinaia di altre persone all’interno della leadership sociale del Regno Unito.
+
+Dall’idea iniziale che Rackham potesse essere l’ideale Lady de Beaurivage, lei aveva iniziato a immaginarlo concreto, fatto di mattoni e legno veri. Aveva sentito voci secondo cui Hilda potrebbe anche vendere la proprietà, ma Hilda sapeva bene che quelle voci dovevano essere messe in relazione al suo profondo attaccamento a quel luogo e alla sua riluttanza ad abbandonarlo. Inoltre, aveva sentito anche voci riguardo ad Amathea. Non aveva lavorato invano, ma il tempo stringeva.
+
+Comunque sia, John era nei guai: doveva recarsi a Rackham quel fine settimana e incontrare quelle persone che, per i fini della mia narrazione, potrei chiamare “I Tre Nobili”.
+
+(A proposito, erano tutti baroni. Da quando è iniziata l’invasione americana, anche i gentiluomini inglesi hanno cominciato a fare distinzioni tra baroni, conti, visconti e marchesi. Per quanto riguarda i duchi, invece, la distinzione era sempre stata chiara. Ma torniamo al mio “pecore nera”.)
+
+I Tre Pari. Dopo tutto, Lord Hellup era il padre di Bo, e per di più soffriva di disturbi mentali. John lo ammirava e allo stesso tempo andava d’accordo con lui – nonostante le continue citazioni tratte dalla “Repubblica Olandese” di Motley, che quell’uomo molto istruito portava sempre con sé in tasca, in edizioni economiche, ora un volume, ora un altro; si deliziava leggendo delle gesta eroiche dei commercianti nel loro coraggio contro semplici soldati.
+
+Di Lord Hambourne sapeva tutto solo per sentito dire. Lord Mere de Beaurivage, come ho già detto, aveva sbagliato valutazione. Ma dopotutto, il ragazzo era meno colpevole di coloro che gli avevano insegnato questo modo irrispettoso di considerare una persona così grande.
+
+Beh, lui cercava sempre di compiacerli tutti.
+
+Ma è giunto il momento di dissipare nell’immaginazione del mio lettore la malintesa che John ha riguardo a Lord Mere de Beaurivage; e, se mi permette, proseguirò ora fornendole una vera e propria descrizione di quel considerevole nobile inglese.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="The Haunted House — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/tradition,histref/boer_war"></span>
@@ -3909,6 +4857,36 @@ The surplus cash thus available he put upon a winner called Winsome Winnie. Not 
 It was impossible that some rumour of his good fortune should not have spread. He was privately visited by more than one neighbour with pressing requests for a loan, even at considerable interest; and as he had every opportunity for judging the prospects of the barrows in his row, he could, and did, lend with judgment. The loans were at short term, usually of a week, at the most of a fortnight, and calculated at a penny in the shilling for each seven days; or, as a special accommodation for larger customers, a shilling in the pound.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VI
+
+George Adolphus Hugins nacque in una piccola strada vicino alla Old Kent-Road all’inizio degli anni ’60 del secolo scorso. La sua prima esperienza nel mondo commerciale avvenne all’età di dodici anni, quando lavorò come assistente di suo padre Jack – o, secondo una certa [[Tradition|tradizione]], Jim Hugins – che vendeva frutta e verdura da un carretto in quel quartiere.
+
+Alla precoce morte di entrambi i genitori, il giovane signor Huggins assunse la guida dell’attività commerciale, che rimase stagnante fino al compimento dei suoi quarant’anni. Molto prima di allora aveva sposato Matilda, o come fu poi chiamata Amathea, figlia di un altro gentiluomo e di una signora appartenenti allo stesso settore commerciale: una giovane donna robusta, piena di vita e onesta, di cui era molto orgoglioso, e le cui opinioni in tutte le questioni non legate al commercio accettava sempre volentieri. Erano abbastanza soddisfatti della loro sorte, non subivano più conflitti con i vicini del solito, e raramente questi si trasformavano in violenza fisica.
+
+Pertanto, così tardi nel corso del regno di Re Edoardo, non c’era nulla che potesse distinguere il genio di George Adolphus Huggins. Sembrava soltanto uno dei tanti commercianti di Londra, immerso nella frenetica vita economica della città. Ma poco dopo la fine della [[Boer War|Guerra Boer]] e la incoronazione di Re Edoardo, iniziarono ad emergere quelle manifestazioni di un potenziale eccezionale che è latente in ogni grande uomo e che, prima o poi, deve necessariamente manifestarsi, anche se con ritardo.
+
+Il signor Huggins, essendo stato scelto come segretario non retribuito di un club che contava numerosi membri, si trovò, verso la fine del 1902, in possesso di un capitale considerevole affidatogli in custodia. In effetti, tale somma superava di gran lunga il valore di tutto il suo patrimonio personale; è davvero un grande riconoscimento delle sue qualità che i suoi vicini gli abbiano affidato una responsabilità così importante.
+
+Ritenendo giustamente imprudente tenere così tanti soldi in contanti, seguì il consiglio di un amico di posizione sociale più elevata, un usuraio di Kipling Street (precedentemente Nelson Street), e tramite la sua mediazione depositò i soldi in banca, in attesa che arrivasse il momento di spenderli o distribuirli tra i membri del club – nell’Old Kent Road questo processo veniva chiamato “share-out” – a Natale.
+
+In questo momento ebbe luogo un episodio riguardo al quale mi è risultato molto difficile ottenere informazioni precise, poiché esistono versioni contraddittorie.
+
+Non c’è dubbio che il conto in banca fosse stato aperto a nome congiunto del signor Huggins stesso e del suo amico, il signor Lawson, il pegniere del quartiere. Per molti anni il signor Lawson si lamentò nel suo ambiente che era stato truffato; tali lamentele continuarono fino a quando gli avvocati di Sir George Huggins (come egli allora si chiamava) non trovarono una soluzione, molto tempo dopo la data dell’operazione di cui sto per parlare. Abbiamo le dichiarazioni ripetute e decise del signor Lawson stesso, secondo cui fu su suo consiglio che venne effettuata quella speculazione: come avrebbe potuto quel povero Huggins saperne qualcosa? Mentre lui, Lawson, aveva ricevuto l’informazione direttamente dal suo cugino, che lavorava in un ufficio di broker e aveva ottenuto informazioni riservate riguardo all’imminente fusione tra la Paley’s Brewery e la Gatton’s.
+
+Per quanto ne so, Lord Mere de Beaurivage non parlò mai di quell’incidente, se non, naturalmente, in privato con i suoi avvocati; quindi non ho l’opportunità di verificare la versione degli eventi fornita dal signor Lawson. Tuttavia, i suoi amici mi assicurano che sia stato lui ad ideare quell’investimento, spinto dall’onorevole desiderio di aumentare il denaro che teneva in custodia e di evitare che i soldi dei suoi vicini rimanessero inutilizzati.
+
+In ogni caso, l’ordine di acquisto del “Paley’s Ordinary” doveva essere stato emesso con entrambi i nomi. Probabilmente, in assenza del signor Lawson, l’ordine di vendita del signor Huggins fu accettato dalla banca; comunque, il profitto considerevole ottenuto fu equamente distribuito, come mi è stato nuovamente confermato dagli amici di Lord Mere de Beaurivage. Il problema del signor Lawson derivava probabilmente dal fatto che vennero effettuate ulteriori transazioni a nome del signor Huggins, senza che lui vi avesse alcuna parte.
+
+Queste ulteriori transazioni erano di tipo molto semplice. Infatti, un elevato talento finanziario si manifesta spesso proprio nella semplicità delle operazioni svolte. Il signor Huggins iniziò ripagando integralmente l’importo originariamente dovuto ai membri del Goose Club; tale somma fu quindi debitamente divisa e registrata durante la Sacra Stagione di Pace e Buona Volontà, a soddisfazione di tutti.
+
+Nel frattempo, il signor Huggins ritirò in contanti i restanti 150 sterline di profitto, chiudendo così il proprio conto in banca. Quel conto, in effetti, lo aveva sempre un po' preoccupato, perché gli sembrava qualcosa di misterioso; inoltre, affidandosi troppo a quell’uomo, si metteva in una posizione di fragilità.
+
+Il denaro in eccesso che gli rimase lo investì in un cavallo chiamato Winsome Winnie. Non perché avesse ricevuto alcuna informazione sulle capacità di quell’animale, ma perché proprio quel nome era stato scelto come vezzeggiativo per sua unica figlia, una piccola bambina morta alcuni anni prima. Il fatto che le probabilità di vincita fossero di 50 a 1 non allarmò questo audace uomo. Divise i proventi: tenne per sé due terzi e perse il terzo rimanente su un altro cavallo, il cui nome non sono riuscito a scoprire. Deluso dal mondo delle scommesse a causa di questa sfortuna, dopo qualche esitazione, il signor Huggins decise semplicemente di tenersi la somma di denaro che ora gli era disponibile. Era poco meno di cinquemila sterline; le conservò nelle grandi banconote del bookmaker, all’interno di una piccola scatola giapponese piuttosto logora, ben chiusa a chiave, anche se la controllava personalmente tre o cinque volte al giorno.
+
+Era impossibile che qualche voce riguardante la sua fortuna non si diffondesse. Più di un vicino lo andò a trovare personalmente, chiedendogli prestiti con insistenza, anche ad interessi considerevoli; e poiché aveva tutte le possibilità per valutare le prospettive dei carri che si trovavano nella sua fila, poté – e fece davvero – prestare denaro in modo oculato. I prestiti erano a breve termine, di solito una settimana al massimo due settimane, e gli interessi calcolati erano di un penny ogni sette giorni; oppure, per clienti più importanti, di uno shilling ogni sterlina.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="The Haunted House — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/self_made_man,concept/self_made_man_theme,concept/money_and_avarice,concept/capitalism,concept/class_conflict,concept/hypocrisy,concept/ambition,concept/satire_of_society,form/novel,form/satire"></span>
@@ -3941,6 +4919,34 @@ He immediately left the office. Within a week, all Europe being then at war, tha
 For once the great man was bewildered. The first huge sum had come so simply, so rapidly and so naturally, and in such overwhelming figures, that he hardly felt himself to be himself. And not a few wild projects cantered through his brain when, after the settlement, he was racing northward to Palmers Green in a first-class carriage — which projects, had he indulged in them, might, I admit, have led to disaster. It was the strong sense of his wife which saved him, and he was ever grateful to her. He found her eating tripe and onions, a favourite dish of hers when she could prepare it after her own fashion (for she had given the servant a night out), and drinking from a tankard a very excellent brand of stout laced with gin.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Allargò le proprie attività. Divenne il punto di riferimento per le persone del sud-est di Londra e, in breve tempo, estese la sua azione anche ai commercianti.
+
+Il signor Huggins possedeva il dono supremo della discrezione. Ogni persona con cui aveva a che fare era portata a credere che il prestito gli fosse stato concesso come un favore speciale; tuttavia si notava chiaramente che il cerchio di conoscenze del prestatore si stava rapidamente ampliando, e che dopo l’orario di lavoro riceveva molte visite a casa sua, soprattutto nei fine settimana. Era abbastanza saggio da non ostentare la propria ricchezza man mano che aumentava; va altresì riconosciuto il merito della moglie Matilda (o Amathea, come sarebbe stata presto chiamata): lei non si arricchiva di oggetti costosi, anche se non poté resistere all’acquisto di una bellissima piuma d’oca che aveva visto nel negozio della vicina, la signora Carey, la quale si occupava di accogliere, riparare, pulire e fornire altri servizi alle donne del quartiere. L’affare risultò particolarmente allettante proprio perché il signor Huggins aveva più volte aiutato la signora Carey in situazioni difficili, e quindi poteva chiedere un prezzo speciale.
+
+La professione della banca privata, nella quale George Huggins si era ormai inserito con successo, è molto redditizia, purché venga svolta su una certa scala. Al di là di questa soglia, essa richiede non solo un gruppo selezionato di clienti, uffici nel West End e un’organizzazione solida, ma anche grandi rischi e una conoscenza approfondita del mondo dei ricchi – soprattutto dei suoi membri più giovani. Inoltre, è necessaria una licenza ufficiale per esercitare questa attività, e raramente si può procedere senza dover affrontare occasionalmente situazioni legali. Per questo motivo, il finanziere fu saggio ad abbandonare quei metodi diretti. Trascorse alcune settimane a sistemare le proprie questioni, concludendo ogni transazione con grande determinazione e energia, continuando comunque a utilizzare il proprio carretto, come se nulla fosse cambiato.
+
+Fingendo di essere malato (un espediente legittimo), assunse un custode e infine vendette quel modesto banchetto che era stato la base della sua fortuna e l’origine della buona volontà dei clienti nel settore della verdura e della frutta. Poco dopo, lui e sua moglie si trasferirono in una piccola villa nei sobborghi settentrionali, dove sarebbero stati al riparo da qualsiasi interferenza da parte degli ex amici. Lì, vestiti nel modo richiesto dal nuovo stile di vita a cui Dio li aveva chiamati, George e Matilda Huggins fecero conoscenza con molte nuove persone, tra cui il reverendo Percy Hay, il clérigo locale. Ora infatti facevano parte della Chiesa d’Inghilterra e partecipavano regolarmente alle sue attività religiose.
+
+Ogni mattina di lavoro George Huggins prendeva il treno per la città e tornava a casa piuttosto presto la sera, rispetto alla maggior parte dei suoi colleghi. All’inizio non aveva un ufficio; in seguito, dopo molte indagini discrete, fece aggiungere il proprio nome a quello di un certo signor Jeffreys, agente generale, in un appartamento al secondo piano di Austin Friars: un indirizzo molto utile per ricevere e inviare corrispondenza, per ricevere ordini telefonici e per seguire in tempo reale gli andamenti dei mercati.
+
+Non è certo una sminuzione per un uomo che in seguito ha rimediato in modo così brillante ammettere che nei primi due anni il suo capitale totale diminuì leggermente. Fu deluso nell'impresa della miniera di Paolo e, giustamente, si arrabbiò quando l’amico che gli aveva assicurato il successo dell’affare presentò invece una nuova Rolls Royce, avendo lui stesso venduto le azioni coinvolte. Ebbe anche delle previsioni errate riguardo al destino della legge sull’elettricità, poiché non conosceva ancora nessun politico in quel campo. Tuttavia, poco dopo riuscì con successo nell’ottenere il prestito rumeno. Si trattava di una somma di soli qualche migliaio di sterline, ma bastarono per farlo avanzare di molto rispetto alla situazione in cui si trovava quando aveva iniziato la sua attività nel mondo degli affari. E poi arrivò il grande colpo della sua vita, di cui è giustamente orgoglioso. Poiché questa informazione potrebbe non essere nota a tutti, ve ne descriverò i dettagli.
+
+Era la vigilia della Grande Guerra. Il signor Jeffreys era fuori a pranzo. Il telefono privato squillò e una voce chiese, senza indugio, che venisse aperto immediatamente un conto molto sostanzioso sui titoli di tre aziende armatoriali specificate, un altro conto negativo su due prestiti governativi stranieri menzionati, nonché un investimento significativo in una società controllante che fino ad allora era sotto la direzione tedesca. La voce spiegò senza riserve, come se si trattasse di un confidente assoluto, la natura delle informazioni in suo possesso, menzionando due importanti nomi politici; infine confermò la solita percentuale dei profitti che sarebbe stata destinata al proprio interlocutore. Solo dopo aver detto tutto ciò (ci vollero ben due minuti, poiché la voce era molto ansiosa e persino eccitata), chiese con preoccupazione se avesse digitato il numero giusto. Il signor Huggins non ritenne necessario informarla che non lo aveva fatto; riattaccò il ricevitore senza dire una parola.
+
+È nata l’assurda abitudine moderna di denigrare il genio dei nostri grandi uomini d’affari, soprattutto quando i loro beni sono stati ottenuti rapidamente. Il loro successo viene attribuito alla fortuna e viene macchiato da accuse di disonestà.
+
+Dico che questa abitudine moderna è spregevole; nasce non solo dall'invidia, ma anche dall'ignoranza. Perché se coloro che diffondono calunnie avessero una vera conoscenza delle persone contro cui attaccano, non sarebbero in grado di negare loro lo stesso genio che caratterizza i grandi condottieri della storia.
+
+Quello che George Huggins fece in questa memorabile occasione è un esempio da seguire.
+
+Nei pochi momenti in cui teneva il ricevitore all’orecchio con la mano sinistra, George Huggins annotava rapidamente il nome delle azioni, i prezzi, le margini di profitto e le date, utilizzando una penna nella mano destra.
+
+Lasciò immediatamente l’ufficio. Entro una settimana, e poiché all’epoca tutta Europa era in guerra, quella terribile calamità, secondo i misteriosi disegni della Provvidenza, spinse la fortuna, fino ad allora piuttosto modesta, di George Huggins verso il successo, facendone uno dei personaggi più importanti del nostro tempo.
+
+Per una volta, quell’uomo importante rimase confuso. La prima enorme somma di denaro era arrivata in modo così semplice, rapido e naturale, e in cifre così imponenti, che quasi non si riconobbe più. Mentre viaggiava verso nord su un treno di prima classe, dopo aver sistemato le questioni finanziarie, molti progetti folli gli attraversarono la mente. Progetti che, se avesse deciso di attuarli, avrebbero potuto portare al disastro. Fu proprio il forte affetto per sua moglie a salvarlo, e ne fu sempre grato. La trovò mentre mangiava trippa e cipolle, un suo piatto preferito quando riusciva a prepararlo a modo suo (aveva infatti mandato via la domestica quella notte), e mentre beveva da una brocca una ottima marca di birra forte mescolata con gin.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_03" data-title="The Haunted House — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/tradition"></span>
@@ -3966,6 +4972,28 @@ Moreover, she had an odd attachment to Sussex; perhaps because she had once been
 
 One way and another, Rackham Catchings was half a home in her mind already. She was glad to feel that Hilda and she were like sisters. Yet John Maple had never as yet met her during any one of the four or five times on which she had passed a week-end in the place; and in the rich houses of London he had only seen the couple once (and even then it was from some way off) in a crush at Bakeham House. The poor old gentleman had seemed terribly hot and out of breath after squeezing up those stairs.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Condivise il pasto con lui, e quando tutto fu finito e lei ebbe ascoltato tutta la storia, gli spiegò quali fossero i suoi piani per la campagna.
+
+E vedete quanto fosse saggia! Tutto ciò era semplicemente un modo per investire in titoli di Stato sicuri. Credeva in Inghilterra. Anzi, era convinta che la guerra sarebbe finita entro poche settimane, e naturalmente a nostro favore.
+
+Nel frattempo, finché le cose non si fossero sistemate e lui avesse conosciuto (come presto avrebbe fatto, data una fortuna del genere) coloro che controllavano realmente le nostre faccende, avrebbe potuto distribuire con cautela i propri investimenti e, se lo avesse desiderato, aumentare le proprie già considerevoli ricchezze. Ma la cosa più importante era la sicurezza. Lui e lei erano stati creati proprio per questo scopo. Tuttavia entrambi ricordavano in silenzio che non c’era alcun erede.
+
+Il resto venne abbastanza facilmente. Si parlava di George Huggins; si lodavano la semplicità del suo modo di comportarsi e la bontà del suo cuore. Le famiglie le cui ricchezze provenivano da tradizioni più antiche non esitarono affatto ad invitarlo e sua moglie alle loro cene. La sua generosità spontanea riguardo all’Ospedale Belle Vue gli valse non semplicemente un titolo nobiliare, come aveva suggerito il Segretario, ma quello di baronetto. Fu come Sir George e Lady Huggins che si dedicarono con tutto se stessi al loro paese durante quella terribile lotta tra vita e morte durata quattro anni. Prima della fine di quel periodo, Sir George aveva ricoperto per alcune settimane cruciali uno dei ministeri più importanti, succedendo a un grande commerciante all’ingrosso; dopo di lui, il posto fu preso da uno dei nostri speculatori più astuti nel settore delle località balneari in via di sviluppo. Lasciò l’incarico soltanto a causa dello sforzo eccessivo che tale responsabilità comportava per un uomo della sua età; naturalmente, dopo essersi ritirato dalle attività pubbliche più impegnative, accettò un titolo nobiliare.
+
+Gli era indifferente quale dovesse essere il suo titolo. Ma avendo recentemente costruito (nonostante le difficoltà legate ai lavori di edilizia durante la guerra) una graziosa piccola residenza in stile giacobiano a Mere Bruvvish, nel Berkshire, gli araldici gli fecero notare che la grafia del nome in alcuni documenti antichi sembrava indicare una forma originale francese: Beaurivage.
+
+George, Primo Barone Mere de Beaurivage, divenne quindi lo stile e il titolo di questo eminente, e (credo di poter dire) molto tipico uomo d’affari britannico.
+
+Si notò che la sua semplicità rimaneva evidente nonostante il suo rango elevato. Così, insisteva nel pronunciare il proprio nuovo titolo in modo semplice: “Mere de Bruvvish” – o addirittura soltanto “Bruvvish” – proprio come faceva per indicare il villaggio dove trascorreva i fine settimana. Fu solo con difficoltà che si poté convincerlo a scrivere il proprio nome con una piccola “d” per indicare la prefissa “de”, o a separare questa parte dal termine principale “Beaurivage”. Non fece alcuno sforzo per parlare un inglese diverso da quello che aveva imparato da bambino; e chi conoscesse l’orgoglio della nostra nobiltà non mi metterebbe in dubbio se affermassi che questa stessa nobiltà lo avrebbe accolto con la stessa apertura e sincerità, anche se avesse parlato con gli accenti più raffinati del teatro.
+
+Nel vasto cerchio sociale in cui ora si trovavano, i Mere de Beaurivages erano felici di aver scoperto un’amica davvero intima in Hilda Maple. Nel suo rapporto con Lady Mere de Beaurivage c’era una sincerità calda e affettuosa che Matilda – ormai chiamata Amathea – a volte le mancava tra i suoi conoscenti più importanti. Le sembrava che l’ambiente di Rackham Catchings fosse accogliente e familiare. Ammirava l’armoniosa fusione di ogni comodità moderna con le antiche [[Tradition|tradizioni]] in quelle onorevoli mura; il suo antenato vi era arrivato poco prima di lei. E spesso si diceva, sia a se stessa che a suo marito, che quando avrebbero costruito la loro casa definitiva, avrebbero tenuto presente quel modello.
+
+Inoltre, lei provava un legame strano per il Sussex; forse perché da giovane era stata portata nelle colline dietro Brighton come regalo da una scuola privata, o forse perché uno zio suo aveva lavorato come stalliere negli enormi stalle del Monarca a Byfield.
+
+In un modo o nell’altro, Rackham Catchings ormai rappresentava quasi una parte della sua vita. Le faceva piacere sentire di essere come sorelle con Hilda. Eppure John Maple non l’aveva mai incontrata nemmeno durante le quattro o cinque volte in cui aveva trascorso il fine settimana in quel luogo; nelle ricche case di Londra, l’aveva visto soltanto una volta (e anche allora da lontano), in mezzo alla folla, a Bakeham House. Quel povero vecchio signore sembrava terribilmente accaldato e senza fiato dopo essere salito quelle scale.
 
 
 
@@ -4006,6 +5034,42 @@ Alas! poor Aunt Hilda had no writing yet to show! You cannot show in writing the
 
 She had not answered the letter. She had temporised. And that made her mood more irritable still.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VII
+
+Quell’fine settimana, SO JOHN MAPLE andò da zia Hilda. Ancora una volta si rifiutò categoricamente di cambiare idea riguardo a Spegel, decidendo di non tornare indietro dopo giovedì sera; in compenso, promise che martedì sarebbe andato nelle Province.
+
+Fu proprio venerdì, come aveva promesso, che scese. Come sempre, fu offeso dal’auto e dal conducente francese alla stazione; desiderava il vecchio cocchiere (che era morto) e il vecchio cavallo (che era peggio di morto). Fu offeso, come sempre, dall’aspetto nuovo e finto della facciata in legno di Rackham Catchings mentre si avvicinava alla casa. Era di cattivo umore.
+
+Ma quanto a quella determinazione nel suo cuore riguardo ai ventimila sterline, era diventata come ferro freddo. Era la parte più ferrea di lui. Ma ormai non esisteva più. Isabeau aveva ottenuto ciò che voleva. Per la mia anima, mentre quell’auto troppo veloce e troppo costosa sfrecciava volgarmente tra quegli alberi antichi, lungo il nuovo viale, verso quella nuova, sfortunata porta d’ingresso di ciò che un tempo era stata la sua casa, lui sentì come se quei ventimila sterline fossero lì, in una borsa, pronte da essere gettate a sua zia non appena l’avrebbe incontrata.
+
+Ma quando entrò non la trovò. L’ateo Gaul che lo aveva accompagnato sorrise cordialmente, anche se in un modo un po’ troppo mascolino per la sua posizione servile, e gli porse la borsa dal davanti dell’auto, come se fossero uguali. Una cosa intollerabile. Fu sia un problema che un sollievo scoprire che sua zia era fuori e non sarebbe tornata per un’ora o due. Tuttavia, essere accolto da Corton e parlare con quell’antico amico gli fece sentire di essere a casa. Poi trascorse il resto del tempo girovagando per le stanze, osservando, per la ventesima volta, ciò che era rimasto uguale ai tempi della sua infanzia e ciò che invece era cambiato.
+
+La maggior parte era stata cambiata, ma non tutto. L’aula scolastica era esattamente la stessa di prima, tranne che avevano messo dentro delle scatole, come se fosse un luogo abbandonato. Quello che un tempo era stato il corridoio, con il suo semplice portico in legno del XVIII secolo e il pedemone in legno, era stato trasformato in una sorta di ingresso secondario; dove un tempo c’era la vecchia strada d’accesso adesso cresceva muschio e erba, anche se il terreno era ancora compattato dal vecchio ghiaietto.
+
+Quelle che un tempo erano le scale principali della casa – quanto amava quei vecchi corrimani intagliati! – ora fungevano da accesso secondario alle camere da letto e ai corridoi sopra; la scala principale era invece una nuova struttura in quercia, verniciata con sostanze chimiche per sembrare antica, che conduceva dal nuovo salone.
+
+Quella stessa sala era come un pezzo di scenografia teatrale. Ricordò tutto ciò che era stato demolito per fare spazio a quella nuova, grande stanza. Sorrise al pensiero che in origine non fosse altro che una vasta caverna vuota e imbiancata, dove si accumulavano ogni sorta di oggetti rovinati; era anche il luogo in cui, ai tempi di suo padre, venivano conservate le botti di birra. Ricordò di aver tenuto lì la sua bicicletta, e di quanto fosse stato orgoglioso quando gli fu permesso di usarla per la prima volta. E ricordò anche di aver chiesto il permesso di tenere i suoi conigli lì durante le stagioni fredde.
+
+Sapevo che tutto era scomparso. Al suo posto c'era quel vecchio quercio finto, con quella enorme trave: proveniente dal Baltico, non dall’Inghilterra. E sopra di essa, quella ridicola data falsa. Nella sala da pranzo, dove in passato gli era stato permesso di entrare nelle grandi occasioni della sua infanzia. Ora la sala da pranzo aveva pannelli decorati, tende damascate. Era completamente cambiata, irriconoscibile. Quell’orribile “antenato” sorrideva. E c'era anche quel tavolo da refettorio orribile: lungo, con gambe intagliate, scuro. Di quelli che si definiscono “antichi”.
+
+Lui avrebbe cambiato tutto ciò.
+
+Era altrettanto certo che avrebbe cambiato tutto quanto quanto era sicuro di possedere (virtualmente) quei ventimila sterline; ed è così che si fonda un regno duraturo venticinque anni.
+
+Zia Hilda entrò, non particolarmente soddisfatta di ciò che aveva fatto. Aveva visitato le persone della contea, e dopo ogni volta si sentiva come se non fosse all’altezza di loro.
+
+Ma prima di uscire per andare a chiamare le persone (e era così gentile da averlo fatto con la sua piccola auto, lasciando quella grande a John e al suo bagaglio), aveva letto due lettere che l’avevano davvero turbata. La prima era di John, con l’allegato. Il solo pensarci le faceva venire una rabbia terribile. La seconda proveniva dall’estone: lui non voleva aspettare. Era un peccato, e anche sciocco. Aveva praticamente venduto la casa; era sicura che o Lord Hellup o il marito di Amathea l’avrebbero comprata. Forse tutto si sarebbe deciso proprio quel fine settimana. Lui avrebbe potuto benissimo aspettare. Era certa che stesse solo facendo storie per costringerla a rinnovare l’accordo. E lei era decisa a non farlo.
+
+Ma questa critica nei confronti dell'estone era ingiusta e anche imprudente da parte di zia Hilda. Quell'estone stava davvero soffrendo: gli estoni che hanno debiti con gli europei spesso sono a loro volta indebitati con altri estoni più potenti; ed era proprio questa la situazione di questo estone. E chissà, forse anche quel “più potente” estone era indebitato con qualcuno ancora più influente, fino a raggiungere il cuore della grande rete di interessi che si estende a New York, davanti alla quale oggi persino Francoforte e Londra si inchinano.
+
+Comunque sia, per questa insignificante questione di poche migliaia di sterline, l’estone si stava comportando in modo estremamente fastidioso; la sua lettera era perentoria. La data del pagamento era proprio la settimana successiva. Chiedeva risposta con rispetto, ma con grande urgenza: aveva ricevuto qualcosa a riguardo? Aveva qualche documento scritto da fargli vedere, che potesse poi mostrare ad altri (l’estone, in questa materia, era piuttosto franco, proprio come a volte accadeva quando riteneva vantaggioso comportarsi così). Diceva di aver davvero bisogno di quei soldi. E infatti ne aveva bisogno; non c’era motivo per cui dovesse fingere il contrario. Anzi, era vero che l’estone stesso non aveva bisogno di quei soldi quanto sosteneva di averne.
+
+Ahimè! Povera zia Hilda non aveva ancora nulla scritto da mostrare. Non si può certo scrivere di come il crescente affetto di un uomo d’affari americano per una donna inglese più giovane di lui possa essere espresso a parole. E nemmeno si può descrivere, in modo concreto, l’aumento dell’interesse di una moglie di nobile appartenente alla Coalizione per una tranquilla casa di campagna.
+
+Non aveva risposto alla lettera. Aveva temporeggiato. E questo rendeva il suo umore ancora più irritabile.
 
 
 
@@ -4089,6 +5153,84 @@ For half a minute or so John gave no answer. She had said nothing about his lett
 The effect of this remark upon Aunt Hilda may be compared to that produced by the slipping of a piece of ice down the neck of a neighbour at dinner during an ardent conversation; a practical joke which I hope is no longer fashionable. The victim is at first oddly shocked, as by a spasm — then stabbed into language. So Aunt Hilda. After a gasp she flamed up, turned round, found her nephew no longer staring at the fire in gentle distraction but facing her, square, firm, and defiant. She had received his challenge, she repeated the old insult.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Era in uno stato del genere le loro emozioni umane: zia Hilda esasperata, e John, che lui credeva fosse calmo e deciso, ma in realtà ancora più esasperato. Fu così che ebbe luogo quell’incontro. Lei gli versò il tè; lui parlò vagamente di Londra e, sapendo bene di stuzzicarla, le disse con quanto ansia si trovasse sotto il suo tetto per aver rinviato la propria promessa a Halls. A sua volta, lei esplose in una furia e gli disse che non voleva sentire parlare di quella orribile faccia della vita. E lui rispose:
+
+“Molto bene, molto bene… Sicuramente non c’è nulla di serio al riguardo.”
+
+Voleva che la sua festa fosse il più possibile piacevole per gli ospiti. Sentiva che suo nipote fosse popolare tra le persone che conosceva, e che potesse anche farsi apprezzare da quelle che non conosceva. Così iniziò a pensare a chi avrebbe partecipato alla festa.
+
+“Ti ho già detto chi sono; ce ne sono solo cinque, e solo due donne. Ho dovuto chiedere a Lord Hambourne, perché è stato così gentile con me riguardo a quella sfortunata faccenda di Oriel, quando tu rifiutasti di andare a Oxford. È stato davvero molto considerato; ha tenuto conto di tutte le tue difficoltà. Ho sempre avuto intenzione di invitarlo a casa nostra, ma non l’ho fatto fino ad ora.”
+
+John annuì.
+
+“Se solo fossi andato a Oxford, John. Avresti avuto a disposizione una delle più grandi menti del mondo: Lord Hambourne, ”
+
+John intervenne.
+
+“Sì, lo so,” disse. “Lo chiamano Hambone.”
+
+“È sciocco e volgare,” disse zia Hilda.
+
+“È così,” disse John. “Anche lui lo è.”
+
+“Non è affatto così. L’ho incontrato spesso quando andavo lassù prima del tuo ritorno in Inghilterra, mentre sistemavo le cose. È uno degli uomini più gentili che abbia mai conosciuto. Lo critichi solo perché è povero.”
+
+“Forse c’entra qualcosa in questo,” disse John con calma.
+
+Zia Hilda stava per perdere il controllo di sé quando riuscì a trattenersi e rivolse la sua aggressività verso le altre due persone.
+
+“Poi c’è Lord Hellup e sua figlia Isabeau,” disse zia Hilda, guardando il nipote per un momento, ma lui non rispose. “Li hai già incontrati?” chiese.
+
+“Sì”, rispose in tono piuttosto brusco. “Li ho incontrati dai Pattles.”
+
+“Non esistono nessun tipo di ‘Pattles’,” disse la zia Hilda con autorità. “Se vi riferite alla signora Pattle…”
+
+“Sì, intendo la vecchia Madre Pattle”, disse John, e zia Hilda sospirò.
+
+“C’è poi un uomo, John. Voglio davvero che tu lo conosca, e che sia cauto con lui. Almeno per il mio bene.”
+
+John disse che, per il suo bene, avrebbe fatto qualsiasi cosa.
+
+“Ragazzi molto giovani come te, John, possono compiere azioni che non solo rovinano la loro stessa carriera, ma fanno anche del male ad altre persone. Ho parlato con Amathea, cioè Amathea de Beaurivage, e con suo marito.”
+
+John la guardò con aria innocente.
+
+#Perché no? Chi sono loro?
+
+“Lo sai benissimo, John,” disse lei. “Quell’uomo che era Sir George Huggins, che ha compiuto tante imprese meravigliose durante la guerra.”
+
+“Oh, Lord Mere de Boreevarge?” disse John, con fascino e spontaneità. “Sì, ne ho letto parlare. Un grande genio finanziario. L’ho letto proprio oggi, mentre scendevo, sul giornale. Ma quale giornale. Accidenti, me lo sono dimenticato. O forse era su ‘The Howl’? Quello che appartiene a Cad Toronto, ”
+
+“Per l’amor di Dio, John,” disse zia Hilda, esasperata, “comportati in modo decente, almeno quando lo incontri! E perché lo chiami De Bo-ree-varge?”
+
+“Perché è scritto proprio così… E io l’ho sempre letto in questo modo.”
+
+“Beh, non so se stai dicendo la verità. Ma per favore capisci che si tratta di uno stile tipico dei Bruvvi.”
+
+“Lo farò,” disse John con solennità. “Lo chiamerò Mere Bruvvish, e lei. Lady Mere Bruvvish. Sempre Bruvvish.”
+
+Zia Hilda si alzò dalla sedia e si mise davanti al fuoco, guardando il suo nipote. Aveva qualcosa da dire. Forse non era il momento giusto per farlo, mentre erano ancora a metà di una discussione; ma voleva liberarsi dal peso di ciò che aveva da dire, e forse un tono più dolce e gentile avrebbe funzionato meglio in quel momento, piuttosto che più tardi, quando i problemi avrebbero potuto ripresentarsi.
+
+“John,” disse lei, “voglio essere del tutto onesta con te. Penso che sarebbe sbagliato nasconderti la verità, anche se ho tutto il diritto di fare ciò che sto facendo. Voglio raccontarti tutto, così che nulla vada storto, perché questi prossimi giorni sono molto importanti per me; e anche per te, caro mio. E anche per Rackham Catchings.”
+
+“Non preoccuparti per me, zia Hilda,” disse John in silenzio. “E comunque, non faticare troppo per i Catching.”
+
+Zia Hilda riuscì di nuovo a controllarsi.
+
+“Entrambi quegli uomini sono pronti a fare un’offerta. Chiederò 60.000 sterline per 50.000. E, per caso, so in privato che entrambi stanno prendendo in considerazione questa possibilità.”
+
+“Non sapevo che Hambone valesse la pena,” disse John in silenzio.
+
+“Sciocchezze,” esclamò sua zia. “Certamente Lord Hambourne! E per favore non chiamatelo Hambone, come fanno gli scolari. No! Lord Hellup, o Amathea e suo marito potrebbero fare un’offerta. Ecco, ve l’ho detto: dovreste saperlo. Ricordate, John,” proseguì in fretta, “che siete l’unica persona che ho. E quando me ne andrò, ” (dopo questa frase illogica emise un profondo sospiro dal suo notevole petto – che probabilmente avrebbe potuto ancora vivere altri trent’anni), “ciò riguarda voi tanto quanto me. Vi dico francamente e chiaramente: non accetterò meno di 50.000 sterline.”
+
+Per circa mezzo minuto John non rispose. Lei non aveva detto nulla riguardo alla sua lettera. Lui fissava il fuoco, come se fosse un vecchio amico con cui stesse consultandosi, e appoggiò la sua robusta testa giovane sulla mano sinistra. Poi si alzò lentamente a sua volta; senza guardare zia Hilda, posò entrambe le mani sul camino e continuò a fissare il fuoco, dicendo:
+
+“Zia Hilda, non posso offrirvi 50.000 sterline; ma avete ricevuto la mia lettera, eccola qui, scritta nero su bianco, dopo tante discussioni. Posso e vi offro davvero 20.000 sterline. È una proposta ferma.”
+
+L’effetto di queste parole su zia Hilda può essere paragonato a quello che si verifica quando un pezzo di ghiaccio scivola lungo il collo del vicino durante una cena, in mezzo a una conversazione appassionata: uno scherzo pratico che, spero, non sia più di moda. La vittima, all’inizio, rimane stranamente scioccata, come se avesse subito un colpo; poi reagisce con parole taglienti. Lo stesso accadde a zia Hilda: dopo un’esclamazione di sorpresa, si infuriò, si girò e vide che suo nipote non stava più fissando il fuoco in silenzio, ma la guardava dritto negli occhi, con decisione e sfida. Aveva accettato la sua provocazione, e lei ripeté quell’antico insulto.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="The Haunted House — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/great_house,concept/money_and_avarice,concept/satire_of_society,concept/class_conflict,concept/hypocrisy,concept/appearance_vs_reality,form/novel,form/satire"></span>
@@ -4167,6 +5309,80 @@ He went to bed early, too sleepy to pursue the thoughts of banks, solicitors, op
 And it did; as it always does to the young.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Venti migliaia di sterline? Ma non avete nemmeno ventimila penny!”
+
+L'insolenza della sua proposta! La sua totale inadeguatezza! L’assoluta impossibilità che potesse riuscire a realizzarla! Eppure lui era così sicuro di sé. In fondo, dipendeva da lei.
+
+John Maple, con il suo atteggiamento e il suo umore, sembrava un lottatore pronto per la primavera. Si sforzava di non tremare, ma in realtà tremava lo stesso.
+
+“Ho detto più di ventimila volte, zia Hilda, e ora l’ho anche scritto e vi ho dato il foglio da firmare,” rispose lui, “Intendo proprio ventimila.”
+
+La sua risposta era esaustiva: gli disse di non comportarsi come uno sciocco. Si sedettero entrambi per rinfrescarsi.
+
+“Beh, John, non ha senso litigare per cose senza importanza, vero?”
+
+“Non è assurdità,” disse John. “Forse un giorno,” aggiunse con tono cupo, “penserai diversamente al riguardo.”
+
+Zia Hilda emise un lamento. Non aveva avuto molte occasioni di interagire con i giovani, ma aveva sentito dire che fossero tutti così. Tuttavia, riuscì a riprendere il controllo di sé.
+
+“Potrebbero esserci, John,” disse lei, ridendo in modo nervoso, “ma comunque non ancora, e certamente non per Rackham Catchings.”
+
+“Non l’ho offerto ai Catching. So che i Catching avrebbero richiesto di più. L’ho offerto a Rackham.”
+
+E uscì per rinfrescarsi ancora di più. Non si videro più fino a cena.
+
+* * *
+
+A cena fu dichiarata una tregua. Parlarono di qualsiasi cosa: principalmente della contea. Hilda Maple desiderava ardentemente fare due cose: prima, rilassare i propri nervi chiedendogli di comportarsi in modo particolarmente gentile quando gli ospiti sarebbero arrivati il giorno seguente, sabato – ma aveva avuto la saggezza di tenere la bocca chiusa; altrimenti avrebbe solo scatenato un nuovo litigio. Dopotutto, poteva fidarsi che John Maple si comportasse bene se ne avesse voglia. Sapeva anche che nulla lo avrebbe trattenuto dal dire qualcosa per infastidire l’ex Huggins e sua moglie, se non ne avesse avuto voglia. Con Hellup, invece, era sicura che sarebbe stato al sicuro; inoltre, poiché non nutriva alcun rancore particolare nei confronti dei lord o dei gentiluomini in generale, ma provava piuttosto simpatia per i poveri, pensava che sarebbe stato a suo agio anche con Lord Hambourne, anche se non riusciva a superare quell’allusione irrispettosa nei confronti di Hamborne. Tuttavia, immaginò che l’avesse imparata dai suoi conoscenti di Oxford a Londra, e decise di lasciar perdere.
+
+La seconda cosa che voleva fare era esaminarlo proprio su questo punto riguardo a Lord Hambourne. Lei stessa conosceva appena quell’uomo. Aveva notato che frequentava quasi tutte le case dove si trovavano persone ricche. Pensò, e con ragione, che anche gli altri avrebbero voluto incontrare un nobile di rango superiore, con diverse generazioni di nobiltà alle spalle.
+
+Immerse la lingua nel miele (scusate se la frase suona un po’ grossolana) e disse dolcemente al suo nipote durante il dessert:
+
+“Dimmi, John. Penso che tu conosca Lord Hambourne, vero? O almeno abbia sentito parlare di lui. Vedi, io lo conosco bene. Mi è stato detto che si interessi agli arredi antichi e ne capisca il valore; volevo quindi che mi aiutasse in questo.” (Era vero. Ma era anche vero che lei voleva che Lord Hambourne l’aiutasse a far colpire i suoi colleghi più ricchi con l’idea che quegli arredi fossero antichi, e che tutto – il mobilio, la famiglia, le tradizioni – fosse davvero “antico” e quindi di grande valore.)
+
+“Ah,” disse John, “L’ho incontrato. E ho degli amici, come ho detto, che lo conoscono da Oxford. C’è un ragazzo al quarto anno che lo conosco abbastanza bene; hanno studiato Psicologia insieme. Gli piace molto. Sai che lavora nel giornalismo?”
+
+“Chi?” disse zia Hilda.
+
+“Hambourne.”
+
+"No, non l’ho fatto. Cosa intendi per giornalismo?"
+
+“Beh, questa roba che chiamano ‘Giornalismo Personale’. Lui parla di persone che ha davvero conosciuto, e anche di persone che finge di conoscere. Ma non vuole firmare. Forse è un vantaggio per lui: gli pagherebbero il doppio se lo facesse. Però quel giornale in cui scrive è davvero di scarsa qualità. Forse, in qualche modo, per lui è meglio non firmare. Sai, la sua rubrica si chiama ‘Dietro le quinte’ e appare su ‘The Howl’.”
+
+“Oh!” disse zia Hilda. Il suo cuore si era un po’ sollevato all’idea che lui potesse essere utile per promuovere lei e le sue attività. Ma poi si abbassò di nuovo, quando seppe con quale titolo lei e le sue cose sarebbero apparse pubblicamente.
+
+“Non è volgare, vero?”, disse dopo una pausa.
+
+“Mi è stato detto,” disse John Maple, scegliendo con cura le parole, “che vorrebbe esserlo, ma non può. Vedi, anche se era molto povero, aveva una buona madre ed era l’unico figlio; inoltre (essendo molto povero) non andava a scuola pubblica. È molto difficile per persone del genere liberarsi delle influenze ricevute fin da piccoli.”
+
+Di nuovo, zia Hilda si trattenne.
+
+“È vero che sia ateo?”
+
+“Oh, mio Dio, sì!” protestò John Maple. “Ma cara zia Hilda, cosa vi aspettavate? Lui è un signore, zia Hilda, e per di più appartiene a quella vecchia generazione. Dopotutto, è stato eletto a Burford quasi trent’anni fa.”
+
+Zia Hilda strinse le labbra con forza. Non si era ancora del tutto abituata a questa rivoluzione morale. Quanto alla reazione che stava ora iniziando, non ne aveva la minima idea.
+
+“Ma non sarà troppo evidente, zia Hilda,” continuò John. “Inoltre, so che a Lord Hellup non dispiacerebbe.”
+
+“Credo,” disse zia Hilda in tono acido, “di sapere meglio di chiunque altro cosa Lord Hellup approverebbe o meno, ”. Poi si interruppe bruscamente, perché stava entrando in terreno pericoloso. Non voleva parlare degli altri due suoi ospiti e causare problemi.
+
+John non era così discreto.
+
+“Per quanto riguarda l’altro, quel vecchio Bruvvish, ” iniziò. Ma zia Hilda lo interruppe.
+
+“Per favore, John, non parleremo di Lord Mere de Beaurivage, anche se sua moglie è un’amica mia. Un gentiluomo inglese, schietto e onesto, penso che questo sia sufficiente per descriverlo. Non si finge mai ciò che non è, ed è proprio per questo che tutti lo rispettano.”
+
+È davvero un grande merito di John Maple il fatto che non abbia aggiunto qui gli altri motivi; ma è rimasto in silenzio. Il vino che aveva bevuto, l’atmosfera serale che conferiva alla stanza sempre più buia un vero senso di antichità (poiché la Notte stessa è qualcosa di “vecchio”), il fatto che si trovasse con le spalle rivolte all’Antenato e di fronte al tavolo di quercia – che dopotutto era vecchio anch’esso – tutto ciò lo calmava. Nella sua mente, lui era già il proprietario di Rackham; stava pianificando innumerevoli cose, e tra queste c’era anche l’idea di “perdonare” una parte delle condizioni imposte da Catchings. Sì, avrebbe tenuto il tavolo di quercia; forse avrebbe persino conservato le panche intagliate. Ma l’Antenato doveva andarsene. Corrotto da un’esperienza troppo precoce della concorrenza, la sua mente iniziò a vagare (dopo che sua zia lo aveva lasciato da solo con il vino) su ciò che avrebbe potuto fare con quell’Antenato: venderlo all’asta o cosa? Poi il pensiero del denaro lo riportò alla necessità di raccogliere quei 20.000 sterline. E questo lo riportò a Bo. Riflettendo sull’immagine di Bo, rimase piacevolmente immerso in questi pensieri.
+
+Andò a letto presto, troppo assonnato per continuare a pensare alle banche, agli avvocati, alle opzioni e a tutto il resto di quelle idee che quella eccellente giovane figlia del mondo degli affari gli aveva messo in testa. L’opportunità sarebbe arrivata il giorno dopo.
+
+E così fu; come succede sempre ai giovani.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="The Haunted House — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/tradition,histref/boer_war"></span>
@@ -4207,6 +5423,42 @@ Lord Hambourne, then, was coming to Rackham on the Saturday early; he was coming
 He was a very sensible man. He kept very careful accounts. He calculated that the free lunch at Rackham almost exactly paid for the return ticket from Oxford (a week-end third) — though, of course, it did not cover the ticket from London down to Sussex. He took a single for that journey, on the chance that one of the guests would motor him back to town on the Monday. In his letter he had told his hostess how eager he was to be in her county again, and what a pleasure it was to get off from Oxford and the associations of so much hard work. For Lord Hambourne had to lecture on psychology for one hour on two days a week by statute, and very often added a third lecture freely and of his own accord for a reasonable fee. And, like all dons, he only had six months’ holiday in the year. To such men in our strenuous University life the free air and repose of a week-end make all the difference. He was to be excused, then, for taking that morning train. And as it trundled him up to Paddington, and he further trundled on from Victoria (there was an hour between the two, and that saved him the expense of a cab) he was thinking how many paragraphs Rackham would account for in his social column. He decided that a house of that calibre was not good for more than two, and just possibly they might even cut out one of those. The first he had already begun to scribble in the train:
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VIII
+
+I TRE PEZZI della sua festa del fine settimana dovevano essere consegnati separatamente alla signora Maple in tre lotti. Lei era comunque molto soddisfatta: in questo modo le risultava più facile mescolarli tutti insieme.
+
+Dei tre lotti, Lord Hambourne sarebbe stato il primo ad arrivare.
+
+Il titolo di Hambourne è molto antico. Il primo Lord Hambourne, figlio di un ricco mercante di King’s Lynn al tempo di Edoardo IV, sposò una donna della famiglia Cavell. Suo figlio morì senza lasciare eredi.
+
+Il titolo fu ripristinato da Enrico VIII verso la fine del suo regno, al fine di onorare John Heysham, che aveva supervisionato gran parte delle confische nel nord e si era tenuto una quota considerevole per sé. Non aveva eredi, ma sua unica figlia sposò un figlio minore dei Parker di Luttbury; fu per loro che il titolo fu nuovamente concesso da Elisabetta. John Heysham trascorreva molto tempo alla Corte, attirando l’attenzione della Regina, dopo la morte prematura di sua moglie – alcuni dicevano per avvelenamento, altri per malattia. Morì all’età di quarantatré anni senza lasciare eredi.
+
+Il titolo fu ripristinato da Carlo II come ricompensa per la lealtà di Sir William Malling, un gentiluomo del Rutlandshire che aveva dedicato tutta la sua fortuna alla causa di Carlo I. Suo figlio, il secondo Lord Hambourne della terza creazione, rimase fedele alle tradizioni familiari e accompagnò Giacomo II nell’esilio. Dopo anni di povertà nella Rue de Fouare a Parigi, morì, probabilmente a causa di malnutrizione, senza lasciare eredi.
+
+Il titolo fu ripristinato nei primi anni del regno di Giorgio III dai suoi ministri, i quali, avendo un urgente bisogno di sostegno alla Camera dei Comuni, ritennero fosse loro dovere porre fine alla lunga e onorata carriera di Henry Porter: un grande capitano di nave che in seguito divenne gentiluomo e fu cinque volte membro del parlamento per King’s Lynn, dove poteva sempre comprare una maggioranza considerevole tra i suoi cittadini. Henry Porter aveva votato con determinazione a favore degli interessi della corte fino a quando non fu elevato al rango di pari.
+
+Quando si pose la questione di scegliere il suo titolo, un gentiluomo locale, noto per la sua antichità e virtù, gli fece notare il legame originario tra King’s Lynn e il nome Hambourne; per questo motivo, oggi si ritiene comunemente – e erroneamente – che quel nobile di Edoardo IV fosse l’antenato dei nostri Hambournes di oggi.
+
+Da quel giorno fino ad oggi, per ben quattro generazioni consecutive, il titolo non è mai venuto meno. La fortuna familiare fu dissipata dal secondo Lord Hambourne (della quinta generazione): in parte a causa delle spese sostenute per intrattenere il Reggente, in parte a causa delle perdite al gioco d’azzardo contro gli amici più intelligenti del Reggente stesso. Il titolo passò, poco prima dell’ascesa al trono della Regina Vittoria, a un cugino che disponeva di un reddito annuo di circa 800 sterline e di una graziosa casa con un orto nel Kent.
+
+Il suo figlio maggiore, dopo una vita di onesto lavoro nel Servizio Civile, morì senza eredi – e naturalmente senza un soldo. Il titolo passò, poco prima della [[Boer War|Guerra Boera]], a un giovane nipote che aveva appena ottenuto una borsa di studio presso il Burford College. Il ragazzo non mancava di iniziativa; le difficoltà economiche forse avevano affilato la sua intelligenza; comunque, mentre si dedicava con assiduità allo studio della psicologia, acquistando libri sull’argomento, partecipando a dibattiti e persino frequentando congressi internazionali in materia, alcuni dei suoi amici persuadevano la “The Turtle Eaters Company” che Oxford stesse per morire a causa della mancanza di una cattedra di psicologia; quindi, quando sarebbe arrivato il momento di occuparla, quale candidato più ovvio di Lord Hambourne? Coloro che osservavano quanto poco sapesse su un argomento su cui in realtà non c’è molto da sapere furono zittiti dalla risposta semplice e vera: anche gli altri candidati non sapevano nulla.
+
+Con la Grande Guerra arrivò la sua opportunità. Tutti riconobbero che aveva fornito al proprio paese un grande vantaggio: l’unico sistema telepatico tra gli Alleati in grado di competere con l’eccellente organizzazione dei tedeschi. Mentre Ragensdorp a Lipsia leggeva, con successo tale da renderlo famoso, i profondi pensieri strategici di uno dopo l’altro ministro britannico durante quei quattro anni e mezzo, Lord Hambourne riusciva ancora più efficacemente a decifrare le intenzioni strategiche di Hindenburg, Ludendorf e Falkenhayn, comunicandole quotidianamente al Gabinetto. Nel Continente, invece, i suoi poteri furono meno apprezzati; si teme che la prolungazione della guerra sia stata in gran parte dovuta al fallimento degli italiani e dei francesi nel sfruttare a pieno una scienza di cui ancora non conoscevano appieno le possibilità.
+
+Il governo di coalizione ricompensò tali grandi servizi resi al paese con un contributo di 20.000 sterline. Il denaro fu pagato immediatamente e il destinatario, ormai prossimo al pensionamento dopo anni di impegnative attività accademiche, vide rovinarsi tutte le sue speranze a causa di un improvviso cambiamento delle circostanze. Infatti, sebbene Lord Hambourne avesse indovinato con precisione i pensieri di coloro che avevano deciso di preservare la valuta tedesca, non aveva mai pensato di contattare una figura influente a New York, l’unica fonte da cui avrebbe potuto ottenere informazioni più accurate sul futuro delle sue azioni.
+
+Poiché la sua valutazione assolutamente accurata del carattere tedesco lo aveva spinto a investire l’intera offerta di una nazione riconoscente nei prestiti interni tedeschi, si trovò, molto prima della data della festa di Hilda Maple a Rackham, in possesso di obbligazioni della Serie 2, numerate da 555201 a 598237, relative al primo prestito di pace interno tedesco con tasso del 5%, garantito e rimborsabile; tali obbligazioni avevano un valore compreso tra i 5¾ penny e i 6 penny l’una.
+
+Ma sebbene fosse privo di beni materiali, aveva acquisito tutte le qualifiche specifiche della sua professione; inoltre, possedeva anche un modo di esprimersi accademico di prim'ordine, anche se accompagnato da una forte balbuzie e dall'abitudine di dire “Quate! Quate!” alla fine della maggior parte delle sue frasi. Gli studenti universitari gli avevano dato un soprannome, e circolavano molte storie su di lui, il cui umorismo sottile, però, non riusciva a colpire chi si trovava al di fuori dell’Università.
+
+* * *
+
+Quindi, Lord Hambourne sarebbe arrivato a Rackham all’inizio di sabato; sarebbe giunto in tempo per pranzo e, essendo povero, avrebbe viaggiato in treno.
+
+Era un uomo molto ragionevole. Teneva dei conti molto precisi. Calcolò che il pranzo gratuito offerto da Rackham coprisse quasi esattamente il costo del biglietto di ritorno da Oxford – anche se, ovviamente, non bastava per il viaggio da Londra fino a Sussex. Per quel tragitto acquistò un solo biglietto, nella speranza che uno degli ospiti lo riportasse in città lunedì. Nella sua lettera aveva detto alla padrona di casa quanto desiderasse tornare nel suo distretto e quanto fosse piacevole allontanarsi da Oxford e dalle sue associazioni legate a tanto duro lavoro. Infatti, per statuto Lord Hambourne doveva tenere lezioni di psicologia per un’ora due giorni alla settimana; spesso aggiungeva anche una terza lezione su sua iniziativa, a un compenso ragionevole. E, come tutti gli accademici, aveva solo sei mesi di vacanze all’anno. Per persone come lui, nella dura vita universitaria, l’aria fresca e il riposo di un fine settimana rappresentavano davvero la differenza tra il successo e il fallimento. Quindi era comprensibile che prendesse quel treno del mattino. Mentre il treno lo portava a Paddington, e da lì proseguiva verso Victoria (c’era un’ora di intervallo tra le due fermate, il che gli risparmiava la spesa di un taxi), pensava a quante pagine avrebbe potuto scrivere Rackham nella sua rubrica sociale. Decise che una casa del genere non fosse adatta per più di due persone. E forse, addirittura, sarebbe stato possibile eliminarne una. La prima persona su cui aveva già iniziato a riflettere era quella che aveva già menzionato nel treno.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="The Haunted House — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/great_house,motif/animals,concept/appearance_vs_reality,concept/deception,concept/satire_of_society,concept/class_conflict,concept/hypocrisy,concept/fame_and_publicity,form/novel,form/satire"></span>
@@ -4238,6 +5490,34 @@ In one detail only had he not realised his thinking out. And that was through lo
 
 Now with the appearance of this father and daughter the air changed, as it does change when, known only privately to pairs, but subtly influencing others, affection comes under a roof. It was an affection real upon the part of that crisp, humorous and successful, contented trans - Atlantic man, sincerely received by his hostess. In Bo I cannot tell you how freshly intense was affection, nor in John how profoundly sincere. Alas! that with four such currents of mutual attraction crossing in the Hall of Rackham, only Lord Hambourne should have failed to polarise. But, Professor of Psychology though he was, he tumbled to nothing. Nor, certainly, did Aunt Hilda tumble to John and Bo. And as for those two young people, they had an intellectual knowledge of the charming friendship between their elders, but of real appreciation thereon nothing whatever. They had something better to think of.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Questo fine settimana sono andata a Rackham Catchings, la deliziosa tenuta di Mrs. Hilda Maple nel Sussex. È una casa del XV secolo, piuttosto intatta, il che è davvero raro al giorno d’oggi. Mrs. Hilda Maple è, naturalmente, la vedova di Mr. William Maple; alcuni anni fa, durante la vita di suo marito, era molto famosa a Londra per i suoi salotti, frequentati dalle più importanti personalità dell’epoca, ”
+
+E così via. C'erano circa venti righe in tutto. Se fosse successo qualcosa, avrebbe continuato nel secondo paragrafo. Sperava, con una speranza incerta, che accadesse qualcosa; anche se era difficile immaginare cosa potesse succedere tra una donna noiosa come Hilda Maple, un lord yankee e un profittatore di guerra (poiché gli avevano detto chi sarebbe arrivato). Comunque, sperava. E la sua speranza fu premiata: accadde davvero qualcosa di importante.
+
+Un altro pensiero continuava ad assillare il nobile professore mentre viaggiava. Voleva essere assolutamente certo che non ci fosse nulla di antico – almeno, nulla più vecchio dell’ottavo secolo – a Rackham Catchings. Lo sospettava, ma non ne era sicuro. Gli piaceva conoscere queste cose: gli dava un certo potere sugli altri. Chi sa mai quando potessero rivelarsi utili.
+
+Lord Hambourne, come la maggior parte degli accademici del suo tempo, possedeva vere conoscenze in un campo diverso da quello della sua specializzazione. Conosceva bene il legno antico, dalle travi sagomate agli strumenti utilizzati per lavorarlo. Per quanto riguarda la psicologia, ormai ne sapeva tanto quanto qualsiasi altro uomo: erano infatti passati molti anni da quando quel suo ricco cugino, all’epoca impiegato nel Ministero, aveva spaventato a morte i membri della compagnia “Turtle Eaters” fino a convincerli a istituire quella cattedra. A quei tempi, negli ultimi anni del regno di Regina Vittoria, la psicologia era ancora una disciplina nuova; tuttavia lui aveva tenuto il passo con i progressi in questo campo e si era preparato ad affrontare anche i libri più noiosi e complessi dei nostri tempi.
+
+Ho raccontato come, durante la guerra, abbia goduto di quel breve periodo in cui ha ricevuto un buon stipendio, come tutto ciò si sia concluso con una piccola fortuna, e poi come l’abbia persa.
+
+Ora la guerra era finita e lui era tornato alla solita routine quotidiana. Nonostante fosse un uomo intelligente, a causa della lunga permanenza all’università era diventato così provinciale da credere che nessuno sospettasse del suo piccolo reddito supplementare come giornalista, ottenuto con il lavoro “Dietro le quinte” sul quotidiano di Lord Toronto, “The Howl”.
+
+Era piuttosto impressionato dalla macchina che gli era stata presentata. Fu molto soddisfatto nel vedere, non appena Rackham entrò nel suo campo visivo, che tutte le parti antiche della parte frontale erano completamente nuove e che quelle vecchie non sembravano affatto così vecchie. Capì immediatamente di cosa si trattasse. Tuttavia, continuava ad avere paura che all’interno potessero nascondersi qualche elemento medievale. Dopotutto, quella macchina proveniva da un saccheggio ecclesiastico. L’aveva ottenuta da un fratello prete il cui zelo religioso era tale che aveva raggiunto livelli estremi; sapeva anche che i monaci da cui era stata presa appartenevano alla setta dei Pre-monstratensi. Un termine che non significava nulla per lui e che sbagliava sempre a scrivere.
+
+La sua ospite lo accolse con un entusiasmo a cui la sua povertà non era abituata; lui, giustamente, attribuì questo comportamento al suo scarso conoscere i nobili. In soli cinque minuti (a confronto di Rackham), lei riuscì abilmente ad accennare alla sua antica dimora familiare. Era un argomento che lui detestava: non era mai riuscito a restaurarla, e le persone che l’avevano ereditata si rifiutavano categoricamente di spendere anche un solo penny per ripararla. Per non parlare delle continue richieste riguardanti grondaie, tubi e sistemi fognari. Quella dimora rappresentava una vera perdita per lui. Inoltre, Lord Hambourne era il tipo di persona per cui la perdita anche di piccole somme di denaro causava grande dolore. All’improvviso pensò che, poiché lei aveva cercato il nome della sua proprietà in un libro e mostrato un certo interesse per essa, forse avrebbe potuto approfittarne per venderla in seguito. Fino ad allora non era mai riuscito a trovare un acquirente.
+
+Dopo aver messo la casa ancestrale da parte, durante tutto il pranzo la signora Maple continuò a parlare di Rackham al suo distinto ospite. Man mano che una dopo l’altra le storie sulla storia locale e i suoi ricordi personali venivano raccontati, lui riusciva abilmente a selezionare le informazioni veritiere e a memorizzarle.
+
+Per quanto le sue informazioni fossero estese, ne tenne da parte alcune per coloro che sarebbero arrivati dopo.
+
+E i Hellups arrivarono per primi. Arrivarono in auto, una macchina davvero ottima: non vistosa, ma perfettamente adatta alle sue funzioni di veicolo: elastica, silenziosa e priva di scossoni. Hellup era un uomo che pensava alla comodità in modo accurato e intelligente.
+
+In un solo dettaglio non aveva realizzato appieno le conseguenze delle sue azioni. E quel dettaglio era legato al suo amore per sua figlia. Perché Lovey-Lad li aveva seguiti fino da Londra, con una minaccia terribile negli occhi; aveva dovuto sfogare la sua ferocia sul paesaggio circostante. Ma non appena entrò, zoppicando e ringhiando in modo minaccioso, fu subito fermato da un leggero schiaffetto sulla punta del naso da parte della sua amata padrona. Un gesto che gli fece capire di essere tra amici. Sarebbe stato terribile se avesse attaccato i teneri polpacci color carne della zia Hilda. Quello era l’unico comportamento che avrebbe potuto causare problemi tra lei e suo padre.
+
+Ora, con l’arrivo di questo padre e di questa figlia, l’atmosfera cambiò, proprio come accade quando un affetto, conosciuto solo in privato da alcune coppie ma che influisce sottilmente sugli altri, viene espresso apertamente. Quell’affetto era sincero da parte di quell’uomo vivace, umoristico, di successo e soddisfatto; fu accolto con sincerità dalla sua ospite. Non posso descrivervi quanto fosse intenso quel sentimento in Bo, né quanto profondamente sincero in John. Ahimè! In quella sala, dove si incrociavano quattro tali correnti di attrazione reciproca, solo Lord Hambourne avrebbe dovuto riuscire a “polarizzare” la situazione. Ma, nonostante fosse un professore di psicologia, non ottenne alcun risultato. E nemmeno zia Hilda finì per essere attratta da John o da Bo. Quanto a quei due giovani, conoscevano superficialmente l’affetto affascinante che esisteva tra i loro genitori, ma non ne apprezzavano davvero il valore. Avevano cose più importanti a cui pensare.
 
 
 
@@ -4281,6 +5561,44 @@ It was as they were passing the Ancestor. The regular phrases had come out, how 
 Not till those few weeks ago had John heard of that Ghost: and quite certain was John that Aunt Hilda had not heard of it either. It had come in with the Ancestor. But I must confess that the Ghost bred in her nephew, now that it was taking shape, some admiration for Aunt Hilda. He did not know she had it in her! And he had to confess that so long as it remained but a story it did put up the value …
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tuttavia, come ho detto, l'affetto rendeva tutto più dolce; mezz’ora dopo gli “Hellups”, un’enorme macchina grande quanto una capanna, guidata da un signore la cui uniforme ricordava vagamente quella degli ufficiali generali degli stati centroamericani, e affiancata da un altro signore in uniforme di tipo più sobrio, si fermò davanti alla porta con rumori potenti.
+
+Lì, attraverso ampi spazi di vetro, si poteva vedere un enorme mazzo di fiori coltivati in serra, disposti all’interno di un candelabro d’argento. Quella magnifica esposizione era rivolta verso il proprietario di quel lussuoso veicolo: Lord Mere de Beaurivage stesso. La sua figura, piuttosto robusta ma non particolarmente alta, era protetta dalle intemperie da un cappotto di pelliccia; quanto alle sue gambe, almeno, esse erano avvolte nella pelle di un magnifico leone africano: la testa del leone pendeva minacciosamente verso i suoi piedi, mentre il resto del corpo offriva lo stesso conforto a sua moglie, che sedeva sul lato sinistro.
+
+E che moglie!
+
+Il suo abito, sebbene la giornata fosse ancora giovane, sembrava essere fatto di un materiale nel quale era presente una notevole quantità d’oro. I suoi capelli, tagliati molto corti (e persino rasati sul suo ampio collo), erano più che sufficienti in quantità e si abbinavano perfettamente al suo viso grande e deciso, creando un netto contrasto con il volto del suo signore, anch’esso ampio ma leggermente più appassito.
+
+Mentre così saliva al trono, l'espressione severa e dominante tipica di chi possiede tali immense ricchezze le impreziosiva ancora lo sguardo; tuttavia, non appena vide la cara Hilda correre fuori ad accoglierla proprio sulla soglia, quell’espressione si trasformò in sorrisi felici e occhi semichiusi pieni di gioia.
+
+John Maple (e sua zia gli era molto grata) l'aiutò a scendere dall’auto.
+
+“Carissima Hilda!”
+
+“Ah, cara Amathea!”
+
+Le due donne si abbracciarono strette.
+
+Lord Mere de Beaurivage scese dall’auto con maggiore cautela, avendo l’aiuto del suo secondo servitore, quello con l’uniforme meno formale; posò il piede sul sacro suolo d’Inghilterra emettendo un grugnito, seguito da un respiro affannoso. Per un uomo del suo rango, scendere da un veicolo rappresenta uno sforzo ancora maggiore rispetto a salirvi. La pelle di leone giaceva abbandonata sul pavimento dell’auto; il padrone della bestia seguì sua moglie, zoppicando, fino a Rackham Catchings.
+
+Zia Hilda gli concesse il tempo di riprendersi dalle enormi fatiche del viaggio, consolandoli con il tè e impressionandoli con l’immagine dignitosa di Corton. Solo allora, dopo averli radunati tutti insieme (facendo intanto alcuni segni a John con le sopracciglia alzate e sguardi d’intesa), li portò in giro per la casa, dando il colpo di grazia alla loro rivalità per quella dimora, raccontando loro storie legate ad essa.
+
+Era una donna decisa. Quella cosa doveva essere fatta prima o poi, e meglio presto possibile, poiché rappresentava la base per tutte le questioni lavorative da risolvere in quel breve fine settimana. Il lato estone di Mr. Rupert de Vere di Jermyn Street era prepotente in lei: non avrebbe aspettato.
+
+E John seguiva il gruppo di persone, alzando lo sguardo con un’aria sagace e vuota ogni volta che venivano menzionati dipinti, sculture o oggetti vari; poi abbassava lo sguardo verso tavoli, sedie e altri oggetti presenti. Provava la stessa sensazione che aveva provato una sola altra volta in vita sua, quando Bo gli aveva insistito per fargli partecipare a quel orribile gruppo di turisti che visitavano la Torre. Era un pensiero piacevole: quella prova non sarebbe durata così a lungo. Dopotutto, Rackham, anche se più amato, non era certo grande quanto la Torre. E ne era felice.
+
+Riuscì a trarre tutto il divertimento possibile da informazioni straordinariamente nuove per lui. Scoprì più di quanto avesse mai pensato fosse possibile sapere su Rackham – per non parlare dei Catching. Scoprì che la sala (dove ricordava vividamente le gabbie per conigli, il gesso e la bicicletta) risaliva in parte alla fine del regno della Regina Elisabetta, ma era stata ampliata in seguito durante il regno di Giacomo I. Scoprì che il grande travezzo che attraversava la sala, dalla scala al camino, recava la data 1487; probabilmente si trattava dell’oggetto più antico della casa con una data precisa. Scoprì anche che una piccola sedia che suo padre gli aveva comprato quando era ancora molto piccolo – perché lui stesso se n’era innamorato durante un viaggio a Londra – in realtà apparteneva alla nursery della Regina Anna ed era stata donata a uno dei suoi antenati da Sarah Duchessa di Marlborough. Scoprì, insomma, molte altre cose ancora.
+
+La Furia della Distruzione si risvegliò nel suo cuore e lottò contro lo Spirito Comico; verso la fine della lezione, mentre tornavano lentamente nel salotto passando per la sala da pranzo, avevano appena sentito cose sorprendenti riguardo al tavolo di quercia e a Ben Jonson. Mentre Lord Mere de Bruvvish mostrava segni di disagio, fu un lungo cammino per lui. Le esclamazioni ammirative di Darling Amathea diventavano sempre più convenzionali, e anche la sete di fatti, date e misure di Lord Hellup sembrava essersi saziata. Ma poi accadde qualcosa che avrebbe potuto aspettarsi: l’aveva già sentito prima. Tuttavia ora, da quando Bo aveva fatto quella proposta a Londra, quell’idea lo colpì con una forza inaspettata. Quella cosa era il Fantasma.
+
+Mentre stavano passando davanti all’Antenato, furono recitate le solite frasi: come lui fosse Sir Harry Murtenshaw, come fosse stato ritratto da Holbein; come combinasse in sé tutte le qualità dei grandi elisabettani: spirito marittimo, patriottismo e, soprattutto, prosperità. Come (si sottolineò con cura) non fosse un antenato diretto; come il solo nome fosse già sufficiente a dimostrarlo; come fosse stata sua figlia ad introdurre la proprietà nella famiglia Maple. Tutto ciò, insomma, le solite cose che si dicevano in questi casi. Poi, mentre zia Hilda li riaccompagnava nel salotto, aggiunse:
+
+“Ed è proprio quell’uomo, sai, che fu il padre di ‘Il Fantasma’.” Bo e il suo amante si scambiarono rapidi sguardi. Le cose stavano andando bene.
+
+Solo poche settimane fa John aveva sentito parlare di quel Fantasma; e era assolutamente certo che anche zia Hilda non ne avesse mai sentito parlare. Quel Fantasma era arrivato insieme agli Antenati. Ma devo ammettere che, ora che stava prendendo forma nella mente di suo nipote, quel Fantasma suscitò in lui un certo rispetto per zia Hilda. Non sapeva che lei ne fosse dotata! E doveva anche ammettere che, finché rimaneva soltanto una storia, essa aumentava notevolmente il valore.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_04" data-title="The Haunted House — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/ghosts,motif/great_house,concept/deception,concept/the_supernatural,concept/appearance_vs_reality,concept/greed,concept/satire_of_society,form/novel,form/satire"></span>
@@ -4300,6 +5618,22 @@ But to John and Bo there came another and a very different thought. They must ge
 
 And get to work they did.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fu sorpreso dalla sua capacità di inventare storie; riusciva davvero a coinvolgerli tutti, in modi diversi, con la storia di quel povero ragazzo che era stato decapitato dal primo James. E se non fosse stato per quella morte prematura – nel senso più letterale del termine – sua sorella non avrebbe ereditato nulla, e i Maple non avrebbero mai posseduto quei vasti campi fangosi e quegli olmi piuttosto stenti di Rackham.
+
+Sembra che quel povero ragazzo – aveva appena superato i vent’anni – si sia trovato coinvolto in uno dei complotti a favore di Maria Stuarda, e per questo fu giustiziato nel 1613. E ora, aggiunse zia Hilda, abbassando la voce di quattro note e guardando i gioielli alle sue dita, in quel giorno dell’anno si dice che la gente lo veda, avvolto in un mantello scuro, nella confusione di quella giornata, ma senza testa. “È in una delle camere da letto”, disse imprudentemente. Poi, per correggere quell’errore, aggiunse in fretta: “Ma in realtà è solo una sciocchezza, chiacchiere dei servitori, pettegolezzi di quelle anziane ignoranti delle fattorie. A loro piacciono queste storie”, concluse con una risatina, sapendo bene che anche altre persone amavano quella leggenda del fantasma della vecchia casa di campagna, non solo i servitori e le anziane delle fattorie, ma anche affettuosi uomini d’affari americani e nuovi milionari della guerra.
+
+John Maple si chiese se lei avrebbe cercato di coinvolgerlo per ottenere una conferma delle sue affermazioni. Se lo avesse fatto, sarebbe stato diviso tra il disgusto che provava nel vederla aumentare così tanto il valore di quella proprietà ai danni degli altri acquirenti in competizione, l’istinto di trattare sua zia con cortesia davanti ai suoi ospiti, e la necessità assoluta di seguire il piano di Bo. Fortunatamente, lei non corse quel rischio. Si accontentò di rispondere alle varie domande che Lord Hambourne le poneva con autentico interesse; lui, infatti, nutriva un vero interesse professionale per questo genere di menzogne spettacolari. Conosceva abbastanza storia da aver già riconosciuto il dipinto di Holbein e da comprendere che, ai tempi di Giacomo I, i ragazzi non venivano giustiziati per complotti volti a salvare la vita delle loro madri prima ancora che nascessero.
+
+Lord Hellup era molto interessato ai dettagli, comprese le misure; voleva sapere l’altezza esatta dello spettro – fino al collo – il giorno esatto dell’anno in cui appariva, il luogo preciso dove si manifestava, l’ora esatta della notte, e tutto ciò; ma, ahimè, su questi argomenti zia Hilda non poteva essere di alcun aiuto.
+
+Amathea, felice di scoprire un ulteriore splendore in possesso che già considerava quasi suo, esprimeva la sua immaginazione senza alcun ritegno: “Oh mio Dio!”, “Aiutami!”, “Mi fate sentire così, strana!”, e ancora: “Beh, ora non so davvero cosa dire, ” accompagnando queste parole con gesti delle mani e sguardi pieni di meraviglia. Suo marito sembrava altrettanto soddisfatto, per quanto il suo recente viaggio lo avesse stancato; ed era davvero soddisfatto, perché dopotutto, se si doveva possedere un vecchio luogo di famiglia, tanto valeva che ci fosse anche uno “spettro” legato a esso. Solo che era un po’ preoccupato riguardo al fatto che questo potesse aumentare il prezzo.
+
+Ma per John e Bo venne in mente un’altra idea, molto diversa dalla precedente: dovevano mettersi al lavoro immediatamente.
+
+E così fecero: si misero subito al lavoro.
 
 
 
@@ -4358,6 +5692,60 @@ He nodded.
 
 “’Tisn’t ‘they,’” said Bo, “it’s him. The aged Bruvvish. Pop wouldn’t stand for it. He’s unknown to fear, is my Lord Hellup. He’s as brave as the lion-tamer’s wife. There are few [[Ghosts|ghosts]] on Manhattan Island, Jacko. It’s the other one you’re for, and that’ll spoil Aunt Hilda’s market. Badly. D’ye get me? I’ll fix Pop. He shan’t bid. He shall chorus the apparition.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IX
+
+Nei domenici mattini, Lord e Lady Mere de Beaurivage andavano in chiesa. Partecipavano alla Messa. In città questo avveniva spesso nel pomeriggio (non appartenevano infatti a quella generazione che praticava la comunione durante il digiuno), ma in campagna (e le persone di tale alto rango trascorrevano la maggior parte dei domenici in campagna) ricevevano i conforti della religione dalle undici fino quasi all’ora di pranzo. Provavano ancora una certa novità riguardo alla Chiesa d’Inghilterra, perché ciò che iniziamo dopo i quarant’anni conserva sempre un certo fascino per il resto della nostra vita.
+
+Per fortuna, la sua signoria fu molto soddisfatta di quel pastore. Aveva un accento cockney; non predicava dottrine misteriose; insisteva sulle semplici responsabilità che abbiamo verso i nostri simili, soprattutto sul dovere della carità, e in particolare sull’orrore dell’odio di classe.
+
+Ma, per sfortuna, il suo signore non era affatto così comprensivo. Prima di tutto, non gli piaceva l’allusione all’antagonismo tra l’East End e l’West End di Londra; pensava (e con ragione) che si trattasse solo di sciocchezze; inoltre, immaginava che il parroco, nonostante il suo accento onesto, dovesse vivere da qualche parte nel mezzo. In questo sbagliava: il parroco proveniva da Ealing.
+
+Potete esserne certi: zia Hilda era con loro. Avrebbe potuto viaggiare nella migliore auto e essere accompagnata con tutti gli onori dovuti, ma trascorrere pigramente una mattina parcheggiata fuori da God’s Acre non rappresentava alcun problema per l’atea Gaul. Anzi, era meglio così: un autista devoto avrebbe potuto voler andare in chiesa, e zia Hilda, dopo tanti anni trascorsi nel Sussex, aveva imparato quanto fosse importante fare attenzione alle sensibilità religiose nelle stanze riservate ai servitori.
+
+Mentre tornavano a Rackham Catchings da Rackham Church (percorrendo un lungo giro, evitando il villaggio di Rackham, ma rischiando quasi di investire due bambini che giocavano per strada), Hilda e Amathea concordarono sull’eccellenza del parroco: la prima con entusiasmo (dopotutto era lei la venditrice), mentre l’altra, essendo l’acquirente, con maggiore cautela. Infatti, quando si comprano e si vendono parroci, o qualsiasi altra cosa, non è appropriato che l’acquirente esalti troppo il prodotto. Almeno nelle classi sociali più elevate. Per quanto riguarda la gente comune, vi assicuro che succede esattamente il contrario: conosco bene questa pratica, avendovi partecipato spesso ai mercati. I venditori sono sempre molto umili e rispettosi nei confronti del loro “prodotto”; gli acquirenti, invece, lo lodano all’eccesso. Ma quando arriva il momento di pagare in contanti, la realtà fa cadere tutte le maschere: diventano ancora più avidi dei ricchi.
+
+“È un uomo meraviglioso, Amathea,” sospirò Hilda con aria sognante. “Avrebbe potuto avere una carriera molto importante se si fosse fermato a Londra, ” (Beh, lettore, di cosa vi lamentate? Ealing fa parte di Londra, no?) “Ma ha detto di aver avuto un qualche presentimento che lo spingesse ad venire qui. E quando l’ho saputo,” aggiunse semplicemente, “naturalmente ho pensato fosse mio dovere assicurargli le condizioni necessarie per vivere.” (Oh, donna malvagia. Lui era già stato messo in quella situazione molto prima che lei avesse qualcosa a che fare con tutto ciò!)
+
+# A chi appartiene Amathea
+
+“Carissima Hilda! Tu sei sempre stata così devota verso la chiesa. Hai ragione! Non ho spesso ascoltato prediche migliori di queste. Erano sincere, venivano dal cuore, per così dire, ”
+
+“Spesso penso,” disse zia Hilda, guardando con malinconia l’angolo in alto a sinistra del tetto della macchina, come se lì potesse apparire qualche visione, “che la santità sia la cosa più inequivocabile sulla terra. Davvero, quel tipo di uomo è proprio il genere di persona per cui sento, ” (cercò la parola giusta) “, beh, è il genere di persona che, in tempi diversi dai nostri, avrebbe potuto compiere un miracolo.”
+
+“Forse riuscirà a scacciare quella paura”, disse il suo signore con una risata sommessa. Ma entrambe le dame accolsero questa proposta in silenzio; quindi lui non insistette oltre e cercò di soffocare la sua risata.
+
+* * *
+
+Mentre i loro anziani ascoltavano e discutevano il sermone, Bo e John iniziarono la loro magia. Lord Hambourne, nella sua veste ufficiale di ateo universitario, era rimasto a casa, così come Lord Hellup, nella sua natura più spontanea di scettico commerciale. Ma i giovani erano al sicuro, senza rischiare di scomparire. Lord Hellup si trovava lontano, sotto la finestra del salone; Lord Hambourne, invece, gironzolava intorno esaminando legno e vetro, valutando con noncuranza gli oggetti presenti: si alzò persino su una sedia per osservare la data “1487” incisa sul trave, commentando che soltanto a Rackham, in tutta Europa, i carpentieri del XV secolo avevano stampato tali date sulle travi, utilizzando cifre moderne.
+
+Non c’era molto tempo. Era già mezzogiorno di domenica, e entro lunedì mattina al massimo la battaglia doveva essere vinta.
+
+“Bo, stiamo infestando questa casa,” disse John.
+
+“Siamo così”, disse Bo. “Vaghiamo sempre in coppia.”
+
+E la gioia nei suoi occhi alla sua presenza lo rallegrò, accendendo in lui una luce simile, sebbene meno intensa.
+
+“Come dobbiamo iniziare?” disse il suo amante.
+
+“Ascolta, Jacko,” rispose lei. “Il fantasma deve completare la sua opera malvagia entro domani mattina; e non stasera meno.”
+
+(Dovrei raccontarvi com'era vestita; ma ho solo il tempo di dirvi che la sua gonna era ovviamente un kilt, molto corto per essere considerato un kilt, ma comunque molto più lungo di quello di Amathea, Prima Baronessa Mere de Beaurivage.)
+
+“Beh, dobbiamo introdurre il fantasma presto,” disse John, “ma adesso è ancora pieno giorno. Qual è il tuo piano?”
+
+“Ragazzo”, rispose la fanciulla, “vuoi che qualcuno pensi al posto tuo”.
+
+Annuì.
+
+“Sei stato approvato,” rispose Bo a quel cenno di assenso. “È così che il Segretario scrive dal Gabinetto al nostro Ambasciatore, il mio Ambasciatore, ormai non più di papà, perché si è naturalizzato, sei stato approvato. Ora, però, non potresti fare qualcosa per attirare l’attenzione durante il giorno?”
+
+“Più di quanto desiderino”, disse, “molto più di quanto possano sopportare, Bo.”
+
+“Non sono ‘loro’,” disse Bo, “è lui, quel vecchio Bruvvish. Papà non lo avrebbe mai permesso. Non conosce la paura, mio signore Hellup. È coraggioso quanto la moglie del domatore di leoni. Ci sono pochi [[Ghosts|fantasmi]] sull’Isola di Manhattan, Jacko. Quello che stai cercando è l’altro. E quello rovinerà completamente il mercato di zia Hilda. Capisci? Io sistemerò papà. Non farà alcuna offerta. Sarà lui stesso ad affrontare quell’apparizione, ”
 
 
 
@@ -4433,6 +5821,76 @@ He shook his head.
 “Don’t you believe it, Hilda,” said the young woman, using the Christian name for elders, after the modern fashion. “From the tallest tower of my father’s castle beyond the seas as far as the eye can reach over our broad lands there is not a hovel but what is derelict.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Non gli dirai il nostro piano, vero?” disse John, allarmato.
+
+“No, perché devi sorprenderlo nel ruolo di ‘Demon Buyer’. Devi fare bene. Lui sarà interessato e questo ci aiuterà ad andare avanti.”
+
+“Non vuoi che faccia rumore con una catena nei corridoi, vero?”
+
+“Meglio di così non si può,” disse Bo. “Inizia subito. È la tua prima opportunità. Usa le voci, John. Fai sì che lui senta delle voci.”
+
+“Sì,” disse John pensierosamente, “quella era la base, non è vero? Sono un ventriloquo, e un bravo ventriloquo.”
+
+“Oh! Jacko! Sentirà dei suoni. Udirà delle voci. Saranno deboli, capisci, perché provengono dall’Altro Mondo. Le sentirà proprio oggi, e questo lo spingerà ad agire. Portalo via e prova con lui. Poi le sentirà anche prima di andare a letto stasera. E poi, ”
+
+Di fronte alla prospettiva che si apriva davanti a lei, per questa bambina felice, che godeva della sua giovinezza e per la quale tutti quei scherzi erano più che benvenuti, lei strinse le mani in estasi.
+
+“Allora, ti vestiremo adeguatamente per il ruolo e…”
+
+Ma mentre parlava, il rumore del motore alla porta la interruppe; il gruppo di Lord Church entrò, Lord Hellup si alzò da dove si trovava, Lord Hambourne abbandonò l’esame degli oggetti antichi, e i congiurati furono fermati.
+
+“Di più a pranzo,” sussurrò in fretta Bo. “Ora aiuta Lord Mere a togliersi quel cappotto,” disse ad alta voce, e poi aggiunse, a beneficio di John: “e comportati da Giuda.”
+
+Quando tutti si riversarono nel salone da pranzo per il pasto del mezzogiorno, nonostante fossero solo in sette, riuscirono a creare quella che Lord Hambourne definiva nelle sue opere letterarie “un’atmosfera di conversazione vivace”. In quelle discussioni, regolarmente echeggiava la sua esclamazione “Quate! quate!”, mentre sedeva accanto ad Amathea; di tanto in tanto si udiva anche l’esclamazione “Lor!” da parte della signora. Lord Hambourne le stava spiegando le tre principali teorie sulle apparizioni: le “illusioni”, e i due tipi di “fantasmi”, ovvero i “fantasmi dei morti” da distinguere dai “fantasmi dei viventi”. Le parlò anche della teoria di Meyer, degli esperimenti di Lombroso e di Julia, nonché di Lodge. Possedeva l’astuzia tipica della sua classe: sapeva che una reputazione accademica si costruisce ripetendo ciò che si è letto molto poco davanti a persone completamente ignoranti.
+
+Lord Hellup era stato abilmente catturato per sedersi accanto alla bellissima Hilda; le stava raccontando quanto fosse sicuro di amare una vecchia casa inglese, e come proprio lei gli permettesse di raggiungere esattamente ciò che desiderava. La bella Hilda modulava la sua voce secondo quelle intonazioni che riteneva appropriate per l’occasione.
+
+Ma John Maple. John Maple era impegnato in cose più importanti; una di queste era Bo.
+
+La conferenza più riservata di quei giovani richiedeva la segretezza, ma non era così difficile ottenerla intorno a un tavolo dove tutti parlavano contemporaneamente, come si potrebbe pensare. Infatti, Bo e John venivano coperti dal discorso sincopato e rapido di Lord Hellup, dalle parole sonore e spesso balbettanti del don, nonché dai commenti espliciti e calorosi di Amathea, Prima Baronessa Mere de Beaurivage. Potete anche biasimarmi per averla chiamata così, ma la responsabilità ricade su di lei stessa: è stata lei ad usarlo.
+
+Tuttavia dovettero aspettare: appena John aveva risposto alle prime domande, Amathea consegnò Lord Hellup alla sua ospite e catturò John.
+
+Solo quando ebbe terminato di descrivere l’inizio della sessione parlamentare – che si era conclusa con un lieve scherzo fatto a John Maple per premiarlo – e si girò di nuovo verso Lord Hellup, John poté finalmente rivolgersi nuovamente a Isabeau e riprendere il “crimine” interrotto.
+
+“Parlo troppo ad alta voce?”, disse, anche se forse aveva già architettato con lei un piano per assassinare il proprio sovrano. Eppure, tutto ciò che quei conversatori entusiasti presenti ai due lati avrebbero potuto sapere al riguardo era davvero molto poco.
+
+“No, Jacko”, rispose lei. “Stanno urlando e non sentono nulla intorno a loro”.
+
+“Comunque, finirò il lavoro”, disse. “Seguitemi da vicino.”
+
+E poi continuò piacevolmente, senza eccessiva enfasi, in questo modo particolare…
+
+“È sorprendente quanto siamo più indietro nel Sussex rispetto alla città. L’hai notato? Voglio dire, hai osservato lo stato dei boschi rispetto a qualsiasi piazza di Londra? O ai parchi? Pensi che riusciremmo a trovare un pezzo grande di stoffa nera dopo cena e a piegarla per farne una sorta di mantello? E poi, tutte quelle sciocchezze sul fatto di sentire il usignolo prima del cuculo. Come ha detto quel cretino l’altro giorno nelle ‘Note sulla Natura’.”
+
+Il suo compagno rispose con semplicità:
+
+“Non riesco mai ad acchiappare questi uccelli inglesi. Pensavo che il usignolo cantasse davvero ‘usignolo’, proprio come il cuculo canta ‘cuculo’. Sì, è esattamente quello che volevi. È un mantello mio. Hai già i pantaloni neri, quindi puoi tenere anche le calze nere. Solo che non devi avere orologi, capisci?”
+
+In quel momento, Lord Hellup intervenne interrompendo e chiese dall’altra parte del tavolo:
+
+“Jacko, che ne pensi?”
+
+Questa era la terza volta che il nobile chiamava suo nipote Jacko davanti a lei, e zia Hilda ne fu impressionata.
+
+“Di cosa?” chiese John allegramente.
+
+“Tua zia dice che l’unica differenza tra riuscire a rendere redditizia l’agricoltura e fallirci consiste nella quantità di sforzi che si sono disposti a compiere.”
+
+Scosse la testa.
+
+“Nessuno di noi due ha mai lavorato la terra”, disse. Poi continuò, rivolgendosi a Bo:
+
+“È vero, però. Si può far sì che funzioni, credo. Abbiamo un vicino qui che ci riesce: chiede se, se gli procurassi del carta bianca, potrebbe trasformarla in una frangia per me. È tutto quello di cui abbiamo bisogno: far sì che l’agricoltura sia redditizia. La metteremmo sopra il mantello. Basta prendersi cura delle cose con attenzione e non andare troppo spesso a Londra. Sono sicuro che chiunque possa riuscirci. Potrei anche indossare tutta questa roba in testa, e tu cuciresti la frangia sopra il collo. E poi, come sono certo, grazie a Dio, ”
+
+“Grazie a Dio!” rispose dolcemente Bo.
+
+“Bo,” la interruppe di nuovo suo padre, “ecco cosa dice Hilda Maple: in America l’agricoltura può essere redditizia.”
+
+“Non ci credi, Hilda?”, disse la giovane donna, usando il nome cristiano per indicare le persone più anziane, secondo la moda moderna. “Dalla torre più alta del castello di mio padre, laggiù oltre i mari, fino dove l’occhio può vedere su quelle vaste terre nostre, non c’è una sola capanna che non sia abbandonata.”
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="The Haunted House — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/trickster,motif/ghosts,motif/garden,motif/childhood,concept/deception,concept/the_supernatural,concept/superstition_and_omen,form/novel,form/satire"></span>
@@ -4480,6 +5938,50 @@ He saw the old rough again clearly in his mind. It hardened him to his duty. He 
 
 “Well, you know,” said John, “animals are supposed to see these things from the other world sometimes, when we can’t. It’s no wonder I was terrified by the story as a child. I used to dream of it. And once, you know — well, of course, it’s all nonsense. But children are the prey of such things.… Once I did think I saw it — just at that season of the year … this season … standing quite clearly in the firelight. I hadn’t been well, and I think that’s the reason they had put me in the old room with the big bed, over the drawing-room. So that nurse could be next door. I had been asleep, and in the middle of a terrible nightmare. I can’t remember the nightmare, except some confused impression of violence and,” he sank his head, “a child couldn’t know the name for it … but it was the shadow of Death.… I remember that panic acutely still. I was only ten — I woke up, suddenly — broad awake. I sat up in the bed trembling — and, oh, Lord Mere” (and here John looked at the old man’s face and saw it beginning to stare, the head drawn back a little), “it was an agony I shall never quite forget.… It was an illusion, I know. But …”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Riprese rapidamente a parlare con John…”
+
+“E lui?” chiese, indicando con il capo Corton, che stava versando con solennità il vino migliore per Lord Hambourne, al quale provava compassione: un gentiluomo, e povero.
+
+“Posso crederci,” disse John con fermezza. “Anche se ci fossero molte fattorie abbandonate nel New England. Andrò a parlargli dopo pranzo. E una volta che l’avrò incontrato, noi tre organizzeremo un incontro, perché non è facile far funzionare l’agricoltura su terreni vecchi. È proprio per questo.”
+
+Per dieci minuti la trama fu interrotta dal prossimo “colpo di scena” tra Amathea e John; questa volta il dialogo fu accompagnato dalla descrizione della bellezza del clima inglese e terminò con un altro gesto che serviva a premiare un’altra battuta spiritosa, prima che la conversazione riprendesse nella direzione opposta, seguendo le rigide regole delle convenzioni sociali dei ricchi.
+
+Allora i due giovani conclusero l’accordo.
+
+“Zia Hilda ha reso questo posto davvero un successo straordinario,” disse. E mentre lo diceva, incrociò lo sguardo di sua zia. “Domani devo farti vedere il nuovo giardino roccioso: ci ha piantato fiori alpini, una varietà che tutti pensavano non potesse crescere in Inghilterra. E invece sta andando meravigliosamente bene. Dopo pranzo lo porterò lì e lo “tormenterò” un po’ con le domande. Poi, quando tornerà, potremmo giocare a biliardo. Qualsiasi scommessa va bene. Dopodiché porterò Corton da te. Ma in Inghilterra, almeno nel sud, nel Sussex, si può far crescere quasi qualsiasi cosa, se ci si impegna davvero. Allora comploteremo insieme, cara mia. Non ci vorrà molto tempo.”
+
+“Portatelo via, presto, e tormentatelo,” sussurrò Bo mentre si alzavano. Aveva una voglia disperata di iniziare.
+
+Anche John era così. Ma dovette trattenersi per un’ora. Il suo anziano ospite aveva l’abitudine di dormire dopo il pranzo domenicale: lo faceva già ai tempi in cui la domenica era il suo unico giorno di riposo, e continuava a farlo anche ora. John scelse una poltrona profonda nella biblioteca; lì l’ospite russò tranquillamente fino alle tre e mezza. Il padrone di casa lo osservò in silenzio. Quando finalmente uscì, ancora assonnato e con il grande fazzoletto colorato che si era messo in testa durante il sonno nella tasca, John lo afferrò e “lo catturò”, dicendogli che potevano passeggiare un po’ insieme, visto che faceva ancora bel tempo. Lo portò nel salone, gli infilò con cura il cappotto e aprì la porta del giardino.
+
+Con il tocco più gentile del mondo, infilò la mano e il braccio nell’incavo del gomito di Lord Mere de Beaurivage, guidandolo fuori nel giardino con tutto l'affetto che si riserva a un parente. Era un gesto semplice e familiare; se non fosse stato imposto dal dovere, lo avrebbe trovato disgustoso da compiere. Doveva obbedire a Bo.
+
+Per quanto riguarda la sua prigioniera, quel nobile anziano si sentiva in realtà lusingato. Certo, John Maple era un plebeo; ma dopotutto era una sorta di scudiero, e poiché Amathea desiderava così ardentemente quella posizione, e poiché John Maple poteva essere considerato un erede (il barone non conosceva esattamente la situazione legale: forse c’era qualche diritto di successione, o qualcosa del genere. Lui non capiva bene queste cose), era meglio essere amici.
+
+John Maple attraversò quei maledetti rododendri e quel dannato giardino di rocce, fino al punto in cui zia Hilda aveva allestito una piccola fontana: al centro c'era un Cupido di piombo che teneva in mano un anatroccolo il quale spruzzava acqua dalla bocca.
+
+“Preferirei riposarmi un po’, signor Miple”, disse l’uomo più anziano. “Anche una breve passeggiata mi lascia senza fiato.”
+
+C'era un banco, e si sedettero.
+
+Il rumore dell’acqua che si schiantava contro le rocce era l’unico suono che si udiva. Tutto intorno regnava il silenzio. John Maple ricordò com'era tutto questo posto da bambino: non un giardino, ma una fitta boscaglia selvaggia; ricordò come avesse costruito una catapulta utilizzando dei rami di nocciolo; e ricordò anche come, una volta, trovandosi da solo sul bordo di quella boscaglia, avesse osservato con occhi spalancati una volpe che gli passava accanto, con un sorriso astuto che le mostrava i denti affilati.
+
+Riuscì a ricordare chiaramente quei luoghi antichi e selvaggi nella sua mente. Quell’immagine lo rafforzò nel suo dovere: doveva eliminare tutto quell’orrore rappresentato dal giardino alpino, dai rododendri e dalla fontana, e ripiantare soltanto la natura selvaggia. Ma per farlo, doveva riuscirci. E per riuscirci, avrebbe dovuto muovere Acheronte e il Regno Sotterraneo.
+
+“È molto tranquillo qui, Lord Mere,” iniziò, “soprattutto dopo Londra.” Pensò con ragione che questo approccio fosse adatto al carattere del suo ospite. E l’ospite rispose che non riusciva proprio a sopportare Londra, tranne naturalmente quando incontrava gli amici; ma in quei momenti, gli amici e le abitudini di campagna erano davvero i migliori.
+
+“È nel silenzio di Rackham che ricordo la mia infanzia,” disse John, dopo una breve pausa calcolata. Stava violando delle cose sacre, ma aveva il suo dovere da compiere. “Ero un bambino nervoso,” proseguì. “Sempre dovevano lasciare accesa una luce nella mia stanza. E la mia cara vecchia tata restava sveglia per ore, con la porta della sua camera aperta nel corridoio. Non permetteva mai che mi spaventassero con quelle storie, capisci?”
+
+“Quale storia?” disse Lord Mere, il cui pensiero lucido e ordinato riconosceva solo due categorie ben definite: le sciocchezze presenti nei libri e gli eventi che realmente accadevano nella vita reale.
+
+“Oh,” continuò John in fretta, come se volesse superare al più presto qualcosa di sgradevole, “la storia di quel fantasma. Sai. Lei ci credeva, povera cara. Avrebbe considerato immorale non credere negli spiriti. Inoltre, c’era anche il sentimento che provava per la famiglia. Ma mi amava di più, e non avrebbe mai voluto che ne parlassi. Eppure non ho potuto fare a meno di saperne. C’era una serva sciocca che una volta ne parlò, e mi spaventò terribilmente. Inoltre, ho sentito lo sposo lamentarsi con mio padre del terrore che i cavalli provavano in una certa notte, ”
+
+“Di cosa si tratta riguardo a quei cavalli?”, chiese Lord Mere con nervosismo, sentendo nascere in sé un senso di disagio.
+
+“Beh, sai,” disse John, “si dice che gli animali a volte riescano a vedere queste cose dall’altro mondo, quando noi non possiamo. Non c’è da meravigliarsi se da bambino quella storia mi spaventasse così tanto. Ne facevo spesso sogni. E una volta, beh, insomma, ovviamente è tutto sciocchezza. Ma i bambini sono facilmente preda di queste cose. Una volta pensai davvero di averlo visto: proprio in quella stagione dell’anno, stava lì, molto chiaramente, nella luce del fuoco. Non stavo bene, e forse è per questo che mi avevano messo in quella vecchia stanza con il grande letto, sopra il salotto. Così la nurse poteva stare accanto a me. Stavo dormendo quando, nel bel mezzo di un terribile incubo. Non ricordo esattamente cosa fosse, solo impressioni confuse di violenza, e, beh, una bambina non saprebbe come chiamarlo, ma era l’ombra della Morte. Ricordo ancora quella paura acuta. Avevo solo dieci anni. Mi svegliai all’improvviso, completamente lucido. Mi sedetti sul letto tremando. E, oh, Signore Mere, ” (e in quel momento John guardò il volto dell’uomo anziano e vide che i suoi occhi cominciavano a fissare qualcosa lontano), “è un dolore che non dimenticherò mai. Era un’illusione, lo so. Ma, ”
 
 
 
@@ -4573,6 +6075,94 @@ He agreed.
 “I’m going to fix the coat and the ruff. And I’m going to sew through the slit in it that dandy little sword which I got from the shield stack on the stairs; six in a star. There’s only five now. But I put them straight. No one’ll notice. You run off to Corton.” She paused and added, “And I’ll add a word to Lord Mere. Just a word. Just a follow up, Jacko. ‘Nuff said.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Certo che sì, ragazzo. Certo che sì, signor Miple, intendo,” disse, emettendo una risata strozzata e poco confortevole. “Lo sa anche lei, proprio come lo so io!”
+
+“Sì, Lord Mere,” disse John pensieroso, “credo di aver capito ora. Si cresce attraverso queste esperienze. Ma all’epoca sembrava davvero terribilmente reale. Non so perché, ma in questo periodo dell’anno quel ricordo ritorna sempre a me. Forse è una questione di associazioni mentali.”
+
+“Non che da allora non abbiate visto nulla, signor Miple, ”, insistette ansiosamente il suo signore.
+
+“No, no, no!” gli assicurò John. “Sono sicuro che si trattasse di una questione legata alla salute, e io ho ripreso la mia salute crescendo. Inoltre, sono andato all’estero. Quindi è diventato soltanto un ricordo.”
+
+L’uomo anziano era irrequieto. E quando John ricominciò a parlare, dicendo: “Certo, si dice che l’influenza di una morte violenta e orribile, ” Lord Mere de Beaurivage volle cambiare argomento.
+
+“Yus, yus, yus!” disse lui in fretta, mentre John lo aiutava ad alzarsi in piedi. Tornarono lentamente verso la casa; Lord Mere zoppicava già dopo una così breve passeggiata, e John lo sosteneva con tenerezza per il braccio, camminando molto lentamente per agevolare i movimenti dell’anziano.
+
+Dopo alcuni momenti di silenzio, mentre si trovavano immersi tra i rododendri su entrambi i lati, Lord Mere de Beaurivage fece un improvviso movimento brusco, che lo fece inciampare e fermarsi; gettò uno sguardo verso la fitta vegetazione a sinistra. Aveva sentito, pensava di aver sentito, qualcosa come un sussurro malvagio, parole derisorie, provenienti da chissà dove. Non potevano certo essere le foglie che si muovevano in quella giornata senza vento. Le parole che aveva sentito erano: “Verso la casa”, o “all’interno della casa”. Qualcosa del genere. Era un suono sibilante. Aveva davvero sentito quella parola. Un suono simile al fruscio delle foglie. Ma in realtà nessuna foglia si era mossa.
+
+Si girò verso John. Era ancora fermo lì, e continuava a respirare affannosamente.
+
+“Che c’è, Lord Mere?” disse il giovane con grande compassione. “Temo di avervi stancato troppo, ” L’uomo anziano scosse la testa.
+
+“No, no. Penso sia il mio cuore,” disse. “Devo stare attento. Dovremmo andare d’accordo e continuare così. Unirci agli altri, capisci? Essere più allegri, ”
+
+Ora si stavano allontanando dai rododendri e dirigevano verso l’aperto. Un grande miglioramento. E davanti a loro c’era la casa. Pensò a quella parola sussurrata: “casa”, e rabbrividì.
+
+Poi scosse via quel piccolo fastidio. Era stato solo un momento. E qualsiasi piccola bestia che si muovesse tra i cespugli avrebbe potuto produrre quel suono sibilante.
+
+Nel poco tempo che rimase della loro breve compagnia, mentre tornavano verso il portico, John Maple incoraggiò il suo ospite in ogni modo possibile.
+
+Non fece alcuna allusione a Quell’Essere Orribile; sembrava persino averlo dimenticato.
+
+Ma Lord Mere de Beaurivage, mentre con difficoltà posava cappello e bastone sul baule di quercia nell’atrio, e ancora più faticosamente si toglieva il mantello con l’aiuto del suo compagno, aveva qualcosa in mente che non voleva lasciarlo. Si girò improvvisamente mentre si dirigeva verso la biblioteca, mise un braccio sulle spalle di John e, con uno sguardo fisso ma incerto nei suoi poveri occhi gialli, incontrò lo sguardo diretto del nipote della sua ospite.
+
+“Hai detto ‘senza’?” sussurrò lui con voce roca.
+
+“Oh, Lord Mere,” rispose John, “non pensiamoci nemmeno! È passato molto tempo, e vi dico: ero solo un bambino allora. E, stasera dormirò anche io qui,” aggiunse improvvisamente. “Quindi, meno ci penso, meglio è.”
+
+Poi osservò quella figura robusta e tozza allontanarsi lentamente verso la porta della biblioteca. Vide il gesto doloroso di quella mano afflitta dal reumatismo mentre afferrava la maniglia, e vide come entrasse nella stanza oltre. Gli sembrò di sentire un gemito, e nel suo cuore provò un certo rimorso.
+
+Ma già ciò che gli comandava era su di lui: non meno di Bo stessa, che entrò nel salone dalla sala da pranzo come un raggio di sole un po’ troppo alto.
+
+“Dog-Man,” disse lei, “com'è andata la tua fine? Li hai morsi? Li hai morsi davvero forte?”
+
+In questo cospiratore non mancava certo una ferma determinazione. Le donne conoscono bene ciò che pensano. Almeno alcune donne sì. Soprattutto quelle che riescono a costruire matrimoni felici. John stava imparando ogni ora. Ma ricordatevi: fu una donna a tentarlo.
+
+Si sentiva un po’ in imbarazzo e non riuscì a incrociare il suo sguardo.
+
+“Ho fatto alcune proposte, Bo… Ho detto alcune parole, ho creato un certo ambiente…”
+
+“Era spaventato?” insistette il suo implacabile compagno di vita.
+
+“Temo che lo fosse,” disse John.
+
+“Gli hai detto cosa, Jacko?”, chiese lei dolcemente, con un tono così affettuoso che lui si sentì sollevato. “Riuscisti a farlo guardare male?”
+
+“Non potrebbe nemmeno fissare qualcuno con occhi torvi senza che gli manchi la testa, vero, Bo?”
+
+“Non poteva più farlo,” rispose la giovane donna pensierosamente. “Nella natura, no. Ma dopotutto, lui non è nemmeno nella natura, vero, Jacko? Riuscisti a far parlare Blackie Bogey?”
+
+“No“, disse il suo amante. Poi si corresse: “In realtà ha detto qualcosa tra i rododendri“.
+
+“Cosa?” rispose Bo, felice. “Oh, che bello! Continua così. Lui continuerà a balbettare, Jacko. Balbetterà come un ruscello. Farà versi e gemiti. Sconfiggerà zio Hamlet in un attimo. Sei,” aggiunse, cercando invano una parola lusinghiera nella sua mente, “il miglior giocatore che ci sia. Sei davvero straordinario.”
+
+Mentre parlava, guardava attraverso la porta aperta del salotto e le grandi finestre francesi verso il grande prato davanti a Rackham; lì vide qualcosa che la fece afferrare improvvisamente e con forza il polso di John Maple. Un gesto che, considerando il suo sesso e la sua età, oggi sembra più tollerabile rispetto a quanto sarebbe stato mezzo secolo fa.
+
+“Guarda, Dog-Man!”, sussurrò eccitata, puntando il mento verso l’oggetto che aveva catturato la sua attenzione.
+
+“Che c’è, Bo?”, chiese. Non vedeva altro che sua zia e Lady Mere de Beaurivage in piedi sull’erba, a qualche distanza, che guardavano verso le vecchie strutture in legno della casa. Ancora una volta, la comprensione tipica delle donne venne in aiuto della scarsa perspicacia degli uomini.
+
+“Non l’hai ancora capito, vero?” disse lei con compassione. “John Maple, erede di Rackham. Il baronessa è immersa nella conversazione con la signora del maniero sull’erba verde. Il denaro parlerà.”
+
+John Maple capì.
+
+“Pensi che sia già iniziato?” disse lui. Isabeau Hellup annuì, con una certezza assoluta.
+
+“E mio nobile padre sarà il prossimo a soffrire,” aggiunse lei.
+
+“È una gara, Bo”, disse John, “tra loro e noi”.
+
+“E devi vincere con quattro piccoli nodi nella criniera del cavallo, o anche tutta la criniera, se vuoi. Ma devi vincere, maledizione, Jacko! Devi assolutamente vincere. Ora ascoltami bene: hai già imparato quella magia con Cortón?”
+
+“No,” disse John. “Non posso fare tutto contemporaneamente.”
+
+“Beh,” rispose Bo, guardando l’orologio impossibile che aveva al polso, “metti il piede sull’acceleratore e spara. Non c’è tempo da perdere.”
+
+Accettò.
+
+“Riparerò il cappotto e la frangia. E cucirò anche quella fessura. Quella piccola spada elegante che ho preso da quei scudi appoggiati sulle scale; ce n’erano sei, disposti a forma di stella. Ora ne mancano cinque. Ma li ho sistemati bene. Nessuno se ne accorgerà. Tu vai subito da Corton.” Fece una pausa e aggiunse: “E dirò anche una parola a Lord Mere. Solo una parola, Jacko. Nient’altro.”
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_01" data-title="The Haunted House — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/great_house,concept/vulgarity,concept/satire_of_society,concept/class_conflict,concept/greed,concept/money_and_avarice,concept/deception,form/novel,form/satire"></span>
@@ -4612,6 +6202,42 @@ There was a pause upon the gravel, and the two ladies made their majestic progre
 
 “I knew you would!” answered Mattie impulsively, at the door, and suddenly kissing her friend. “Oh, you’re strite and loyal, you are! Pity it is there ain’t more like you. It’s what I was saying to the Prime Minister only the other day, when he said that about Uggins. He said, ‘Amathea,’ he said (he calls me Amathea, ‘cos I won’t let him call me Mattie — I don’t think it’s right, nor he wouldn’t neither), ‘Amathea,’ ’e says, ‘that usband of yours is one of a thousand. And do you know why I ses it?’ ses he. ‘Because he’s strite,’ ses he. ‘He runs strite,’ aes ’e. ‘I tell you, Amathea,’ he ses, ‘a man that runs strite is a jule.’ And you run strite too, Ilda, you do. That’s what ’e said. Them was the identical words!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO X
+
+Amathea, prima baronessa de Beaurivage, stava in estasi sul prato, tenendo saldamente il braccio della sua adorata Hilda nel gomito del proprio — due bracci forti e intrecciati. Nonostante la grossezza e la cortezza del suo collo, teneva leggermente la testa da un lato, in parte a causa dell’intensità delle sue emozioni, ma soprattutto perché era convinta che tale posizione fosse appropriata all’occasione.
+
+“Oh, Ilda!” disse lei, “carissima Ilda, che meraviglia! Che bellissimo Natale!” Poi sospirò. “Vorrei tanto che il Primo Ministro potesse vederlo, ” continuò. “Non potete nemmeno immaginare com’è fatta una vecchia casa inglese. Davvero, Ilda: se mostraste a quell’uomo una casa inglese vecchio stile, impazzirebbe di gioia. Una volta mi ha detto: ‘Amathea’, mi chiama Amathea. Perché a Uggins non piace che mi chiami Mattie. Eppure siamo amici, sapete, ” E qui diede una forte gomitata alla sua ospite; quella signora, di fronte all’opportunità di guadagnare cinquantamila sterline, sopportò stoicamente quel colpo.
+
+“Non ci sarà mai più nessuno come lui, Ilda,” continuò la baronessa con tono sentimentale e un po’ più basso. “Mai più! Certo che ne verrà un altro al suo posto. Uno se ne va e un altro arriva, come dice il buon libro. È la regola di quei grandi uomini del Parlamento: scompaiono come i fiori nei campi. Sì, è la regola di tutto il mondo.” Scosse la testa. “Forse troveranno qualcuno altrettanto intelligente al suo posto. Ma non vedremo mai più nessuno come lui. Non in quel modo. Comunque, ora è lì. E che possa rimanere a lungo. Un vero tesoro, Ilda, ” Poi riprese a parlare della casa: “Vedere tutta quella tranquillità, quegli alberi antichi. Tutto così pacifico. Oh, mi fa davvero invidia. Non sei felice, Ilda? Non ti piace vivere in un posto del genere?”
+
+Anche zia Hilda sospirò profondamente a sua volta.
+
+“Carissima Amathea,” disse lei, stringendo con affetto il braccio di quella che poco tempo prima le aveva inflitto un colpo così crudele (tu sei troppo giovane, lettore, per capire cosa si provi quando una dama e tua amica ti colpisce alle costole con il gomito, a cinquant’anni). “Mi dispiacerà lasciarlo.”
+
+“Oo parla di andarsene? Ma tu sei la regina di questo posto,” rispose la nobildonna, non senza astuzia; nel suo cuore, però, pensava: “Abile, davvero abile!”
+
+“A volte,” disse Hilda Maple, liberando per un momento il braccio nel desiderio di respirare meglio, e sotto la scusa di sistemarsi la gonna, “a volte penso che non riesca proprio a lasciarlo, e che forse un giorno potrei sperare. Allora, sai, mi tornano in mente tutte le cose che devo alla famiglia e al nome. E come Rackham debba sempre rimanere nelle mani della famiglia Maple. Poi ricordo quel povero ragazzo, ” Scrollò le spalle, “beh, Mattie, tu sai chi è.”
+
+“Sono sicura che sia un giovane bello e ben messo,” disse Mattie.
+
+“Sì, sì,” sospirò di nuovo Hilda. “È proprio così. Ma tu sai chi è veramente. Non riuscirebbe mai a mantenere questa casa in ordine. Non guadagnerà mai abbastanza. Anche suo povero padre era come lui. Ecco perché a volte penso, beh, che forse dovrei capirlo e lasciare questo povero ragazzo, quando me ne andrò, almeno con un bel po’ di soldi, ” Guardò la sua compagna. “Ma bisogna che siano ben investiti, Mattie. Capisci? Non mi fiderei mai a lasciargli nemmeno un centesimo. Proprio come non mi fidavo di suo povero padre, ” Mattie annuì con fiducia. “A volte penso che sia mio dovere vendere tutto. Ma poi mi sento confusa e indecisa, ” Si strinse le mani e alzò lo sguardo verso le grondaie della casa Rackham e la parte inferiore del cielo. “Ma pensare che Rackham non sia più nelle mie mani, ” La figura distinta di Sir Harry Murtenshaw le apparve davanti agli occhi. Il matrimonio romantico. Ma nessun fantasma. Ormai se n’era già dimenticata.
+
+Mattie non l’aveva fatto.
+
+“Ow! È tutto così romantico. E poi quei costumi e tutto il resto!” riprese quella signora, afferrando di nuovo il braccio della sua ospite e guidandola verso la porta del salone. “Vorrei che anche a casa mia ci fossero feste quando ero giovane. Ma sai, non si può avere tutto!”
+
+Ci fu una pausa sul sentiero di ghiaia, e le due signore continuarono il loro maestoso cammino verso l’ingresso di quelle antiche mura. Una desiderava ardentemente che tutto procedesse – non intendo dire un pagamento anticipato (per il momento), ma una proposta d’acquisto. L’altra, invece, stava valutando la forma migliore per formulare tale proposta. Hilda Maple, se possibile, possedeva una cultura e un lignaggio più elevati; fu quindi lei ad avere l’iniziativa.
+
+“Sai, Amathea,” disse lei dolcemente, tornando a un tono più formale, “quello Lord, tuo marito ha detto di voler comprare quella proprietà, vero?” Il suo tono era riflessivo, gentile e anche un po’ pensieroso.
+
+“Perché, Hilda Maple,” rispose la nobildonna, facendo un passo indietro come se fosse sorpresa, “non me lo sarei mai aspettata, ”
+
+“Sì,” continuò la sua ospite, ancora pensierosa, ancora triste, e sospirò di nuovo, questa volta ancora più profondamente del precedente. “Oh, quanto vorrei che qualcuno potesse prendere le decisioni al posto nostro, come facevamo da bambini! Cosa dovrei dire? Cosa dovrei fare? Non riesco a lasciare questo posto. Eppure. Penso di sapere dove risieda il mio dovere. Quando mi furono fatte diverse offerte,” aggiunse, con voce dolce, “intendo, subito dopo la guerra, quando c’erano così tante persone che cercavano lavoro, le rifiutai, come sapete.” (Era la prima volta che Mattie ne sentiva parlare. E non c’è da meravigliarsi!) “Ma allora le cose erano diverse; mio cognato era ancora vivo, e quel ragazzo sembrava davvero un bambino. Ora, invece. Ora il valore di questo posto è molto cambiato, con tutti i lavori che ho fatto e i miglioramenti apportati. Loro mi offriranno sicuramente di più. E sarò tentata. Lo so che lo sarò. Ma vi prometto una cosa, Mattie: non parlerò nemmeno delle cifre finché non avrò dato la priorità a voi e a vostro marito. Ecco. L’ho detto!”
+
+“Lo sapevo che l’avresti fatto!” rispose Mattie impulsivamente, alla porta, baciando all’improvviso la sua amica. “Oh, sei così onesta e leale. Peccato che non ci siano più molte persone come te. Proprio di questo parlavo con il Primo Ministro l’altro giorno, quando ha detto quelle cose su Uggins. Ha detto: ‘Amathea’, mi chiama sempre Amathea (perché non gli permetto di chiamarmi Mattie. Non credo sia giusto, e lui nemmeno lo vorrebbe fare), ‘Amathea’, ha detto, ‘quell’uomo che hai sposato è davvero unico. E sai perché lo dico?’ Ha detto: ‘Perché è onesto’. ‘Si comporta sempre in modo onesto’, ha aggiunto. ‘Te lo dico io, Amathea’, ha detto, ‘un uomo onesto è davvero una rarità.’ E anche tu sei onesta, Ilda. Proprio queste sono state le sue parole esatte!”
 
 
 
@@ -4661,6 +6287,50 @@ Lord Hellup had not heard of the tea broker, friend of his hostess though he was
 They were now off the lawn and upon that gravel path going back to the door, after another such silence as Amathea also had known in that same place not very long before. Just as they reached the threshold, Hilda looked up frankly into her friend’s eyes. There was a suspicion of tears in her own, which moved that friend profoundly.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La canzone finì – come osserva da qualche parte il poeta Longfellow – e le due signore entrarono nel salone. Amathea, con un’agilità degna di uno scopo più nobile, eseguì rapidamente quelle movimenti fisici che chiamava “salire di sopra”. Aveva certi calcoli da fare, alcune note da prendere in considerazione.
+
+Per quanto riguarda Hilda, lei stava dirigendosi verso la sua stanza, anch'essa impegnata in alcune note, in alcuni calcoli, quando sentì dei passi decisi e regolari. Erano i passi di Lord Hellup. Aveva appena raccolto il suo costoso ma elegante cappello grigio e il suo bastone da passeggio d’oro, e stava per recarsi, come era appropriato alle pieghe dei suoi abiti e all’eleganza del suo abbigliamento, nei giardini di Rackham. Aveva un’ora prima del tè. All’improvviso si rese conto che Hilda gli stava davanti. Purtroppo, impulsivamente le prese la mano, come se la incontrasse per la prima volta da giorni. Ma sorrise, e anche lei sorrise; lui le chiese di fargli vedere il roseto di cui aveva parlato.
+
+Quindi uscirono insieme: lui aveva circa sessant’anni, lei cinquanta, e la primavera era intorno a loro entrambi; nel roseto parlarono di rose.
+
+Nel viaggio di ritorno, Hilda Maple guidò il cammino, continuando a parlare nel modo che lui trovava così affascinante: con tale raffinatezza, sottigliezza e fascino, che nessun altro, se non lui, aveva mai notato nel suo modo di conversare. Fino a quando, uscendo dal boschetto, si trovarono sul prato dove poco prima Lady Mere de Beaurivage era stata; lì c'era anche Lord Hellup, ma con questa differenza: Lord Hellup aveva troppo rispetto per le donne per mettere il braccio intorno a quello di Hilda; al contrario, il suo braccio penzolava goffamente lungo il fianco.
+
+Hilda Maple guardò Rackham con occhi pieni di affetto. Lord Hellup stava lì a osservare, ammirando, quasi adorando quello sguardo. Quello sguardo abbracciava le grondaie di Rackham e la parte inferiore del cielo.
+
+“Non riesco nemmeno a pensare di lasciarlo andare,” disse con voce sommessa, e nella sua voce c'era un leggero tremore, quasi come un singhiozzo.
+
+“Ma no, Mercy!” esclamò il sincero gentiluomo proveniente dall’estero, “non state davvero pensando di lasciarlo, signora Maple! Voi e Rackham siete come mani e guanti. Siete indispensabile per lui, signora Maple,” aggiunse con un entusiasmo deciso. Per un attimo pensò di continuare dicendo “e Rackham è indispensabile per voi”, ma si rese subito conto che sarebbe stato un errore. Allora disse, con un tono quasi tenero e abbassando leggermente la voce: “Non potrei sopportare l’idea che Rackham vivesse senza di voi, signora Maple.”
+
+Sospirò, quel stesso sospiro.
+
+“C'è stato un tempo in cui non avrei mai osato nemmeno pensarci, Lord Hellup,” rispose lei. “Sapete, queste cose sono molto difficili da parlare, ”, posò delicatamente le punte delle dita sul suo braccio per un momento, poi le ritirò subito. “Ma ora che ho iniziato, forse dovrei dirlo. Quando ricevettero tutte quelle offerte per quel posto, proprio alla fine della guerra, ”
+
+“Erano davvero così?”, chiese Lord Hellup con interesse, lo sguardo pieno di intelligenza.
+
+“Sì, sì,” disse Hilda Maple in fretta. “Beh, allora non ci penserei nemmeno. Mi sembrava orribile che Rackham abbandonasse il nome Maple. Ma a quel tempo mio cognato era ancora vivo, e John era solo un ragazzo; ho rifiutato la loro proposta. Ovviamente ora ha più valore: tutto questo è successo prima che modificassi in alcun modo quella proprietà. E devo dire,” continuò, sorridendogli, “che l’ho fatta diventare ciò che era un tempo. Credo davvero di poterne essere orgogliosa.”
+
+“Certo che puoi,” rispose il magnate con enfasi. “È il nido più grazioso che abbia mai visto da queste parti. Più lo guardo, più ne sono convinto. E lo stesso vale per Bo,” aggiunse in fretta, nel caso la sua ospite potesse dissentire. Ripeté: “Il nido più grazioso che abbia mai visto da queste parti.”
+
+Gli aggettivi e il sostantivo non erano quelli che Hilda Maple avrebbe scelto personalmente. Dopotutto, Rackham Catchings non era affatto così insignificante; inoltre, c’era qualcosa di inappropriato nella parola “carino”, considerando che le fondamenta su cui tutto si basava erano già enormi, o comunque si dovesse chiamare quella situazione. Ma lei aveva in mente qualcos’altro che rendeva irrilevanti queste sottigliezze linguistiche.
+
+“Il mio cuore è stato spezzato, Signor Hellup,” disse lei, alzando la voce (e intrecciò le mani). “Ma penso che sia mio dovere provvedere. Voi sapete chi è quel ragazzo.”
+
+“È davvero un bravo ragazzo,” rispose educatamente Lord Hellup. Ma non era quello che voleva zia Hilda.
+
+“Sì, sì,” disse lei, quasi con impazienza – le persone inglesi a volte sono un po’ così nei confronti dei loro cugini transatlantici. “Oh, conosco i suoi talenti, ed è davvero un bravo ragazzo. Ma,” scuotendo la testa, “non riuscirebbe mai a tenere il passo con Rackham!” Sospirò di nuovo. “È sempre la stessa vecchia storia: come padre, così figlio. È proprio come suo padre prima di lui. Temo che sia mio dovere, quando me ne andrò, assicurarmi che abbia del denaro a disposizione, ben investito. Quando me ne andrò, ” aggiunse, dando alla sua voce un tono melodioso, e ricevette, come si aspettava, una veemente protesta da parte della sua compagna.
+
+“Sì, sì,” sospirò lei in risposta, “potrebbe volerci ancora molto tempo, o forse no. Ma devo pensare a quel ragazzo.”
+
+Povera donna. Doveva anche pensare a quell’estone. A colui che, per lei, era il signor Rupert de Vere.
+
+“Non lo so. Non lo so,” continuò lei, con voce apparentemente distratta, e ancora una volta posò la mano sul braccio di Lord Hellup, questa volta per un periodo più lungo. “Noi donne abbiamo bisogno di consigli. No. Ho preso una decisione: è mio dovere vendere. A volte penso persino che dovrei accettare il prezzo che mi è stato offerto lo scorso mese da quel odioso broker di tè.”
+
+Lord Hellup non aveva mai sentito parlare di quel commerciante di tè, pur essendo un amico della sua ospite. E perché avrebbe dovuto? Dopotutto, quel commerciante di tè non esisteva nemmeno. Lord Hellup aveva trascorso tutta la sua vita nel mondo degli affari; spesso si diceva che il suo modo di valutare i prezzi fosse paragonabile al colpo d’occhio di un’aquila. Non poteva fare a meno di chiedersi cosa avesse mai potuto suggerire quel detestabile commerciante di tè a Rackham Catchings. Ma Hilda, per il momento, non stava “parlando”.
+
+Ora si trovavano lontani dal prato, su quel sentiero di ghiaia che conduceva alla porta, dopo un’altra di quelle pause di silenzio che anche Amathea aveva sperimentato nello stesso luogo poco tempo prima. Proprio quando raggiunsero la soglia, Hilda alzò lo sguardo negli occhi della sua amica. Nei suoi occhi si leggeva un’ombra di lacrime, il che commosse profondamente l’amica stessa.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_03" data-title="The Haunted House — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/great_house,concept/money_and_avarice,concept/greed,concept/deception,concept/antisemitism,concept/satire_of_society,concept/vulgarity,concept/class_conflict,form/novel,form/satire"></span>
@@ -4700,6 +6370,42 @@ Aunt Hilda hung up the receiver, exhausted; faced the situation, and muttered br
 
 Meanwhile her nephew was making history with her butler, Isabeau Hellup concurring.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non appena sarò certa che vendere sia il mio dovere, lo farò,” disse. Scosse di nuovo la testa, con tristezza. “Ma non riesco a immaginare la mia vita senza Rackham.”
+
+“E noi,” disse Lord Hellup con una voce bassa e profonda, adatta all’occasione, e sinceramente commosso, “noi” (usò un termine impersonale) “non riuscivamo a pensare a Rackham senza di te.” Le prese di nuovo la mano; purtroppo, aveva intenzione di baciare le punte delle sue dita, ma si rese conto che lei le aveva ritirate. Il nobile era preoccupato dal timore di aver forse violato qualche regola sociale. Ma Hilda Maple non era crudele: mentre se ne andava, gli sorrise dopo aver scambiato quelle ultime parole.
+
+Ben detto per i sessant’anni e i cinquanta anni. Ora veniamo ai calcoli.
+
+* * *
+
+Al tavolo nella sua stanza, Lady Mere de Beaurivage faceva, per così dire, dei calcoli. Era abile in quell’arte: dai tempi in cui segnava i prezzi con tratti veloci di gesso sui lati dei carri lungo la Old Kent Road. Negli anni successivi aveva migliorato ancora, quando produceva mobili economici per la nuova villa nella periferia della città, di cui andava molto fiera, prima del Grande Cambiamento.
+
+Ma da quando è avvenuta la Grande Cambiamento, devo ammettere che Amathea, Baronessa Mere de Beaurivage, aveva iniziato a lasciare che le cose andassero per conto loro. I soldi erano così abbondanti che, in realtà, sembrava non importasse affatto cosa si facesse. La sua passione per Rackham l’aveva completamente assorbita; conosceva abbastanza bene il mondo degli affari da essere certa che quella proprietà fosse alla sua portata, se le venivano offerti i fondi necessari. Restava solo da capire quanto fossero “necessari” quei fondi. Di solito riusciva a gestire il proprio signore, ma sapeva che in una cosa la situazione non era sempre facile da controllare, e quella cosa era il denaro. Come tutti coloro i cui talenti li hanno portati ad accumulare rapidamente una considerevole fortuna, anche Lord Mere de Beaurivage aveva una terribile paura di perderla. Ricordava quanto altri amici avessero pagato per acquistare case, e quanto altri ne avessero vendute a prezzi elevati. Il suo desiderio di possedere quella proprietà la spinse anche a ricordare quante volte aveva sentito parlare del particolare valore di quelle modeste case di campagna, antiche e di pregio; sapeva quanto fossero apprezzate sul mercato quelle imponenti strutture in pietra del XVIII secolo, e quale grande richiesta ci fosse per quei tesori architettonici in stile Tudor o realizzati con materiali legnosi.
+
+Prima ancora di averne sognato, quella brava donna aveva stimato, in totale, che il prezzo massimo che potesse ottenere fosse di circa 60.000 sterline. Dopotutto, non erano soldi suoi. E che significano 60.000 sterline rispetto a due milioni? Inoltre, si trattava comunque di soli 3.000 sterline all’anno; e cosa valgono tremila sterline all’anno quando si nasce in una famiglia povera che guadagna appena una sterlina a settimana? L’importante è ottenere ciò che si desidera. Tremila sterline all’anno. Ma no, non bisogna vedere le cose in questo modo: 60.000 sterline! Certo, ci sono persone disposte a pagare così tanto per un dipinto insignificante.
+
+E poi, non c’era nessuno che potesse ereditare da loro. E lei si chiese, con sentimentale malinconia, se Huggins e lei non avessero il diritto di godere di ciò che restava delle loro vite. Non poteva esistere nulla di simile a Rackham. Non c’erano due posti come Rackham in tutta l’Inghilterra.
+
+Quindi, nella stanza di Amathea, l’immagine dei “Sessantamila Libbre” aveva preso radici e si era diffusa.
+
+Attraverso un muro non troppo spesso – poiché si trovava nel nuovo edificio o nellaala “Catchings”, e i muri erano davvero antichi –, all’altro capo dell’ufficio, Hilda Maple stava facendo anche lei i suoi calcoli. Tracciava le cifre con aria stanca, 20.000 sterline l’avrebbero liberata da tutti i problemi. Quello che era davvero urgente, però, era il problema legato a De Vere di Jermyn Street.
+
+Era necessario pagare i primi cinquecento, in modo da permettere alla persona estone di rinnovare il contratto; tutto ciò era avvenuto mesi fa, subito dopo l’episodio legato all’“Antenato”. Lei aveva scritto a Blunt di Bristol su consiglio di un conoscente esperto in antiquariato; e davvero Blunt si era comportato molto gentilmente. Aveva avuto a disposizione ben tre mesi per effettuare il pagamento. Ma quando arrivò il momento del rinnovo – Blunt le aveva inviato una lettera cortese, lei non l’aveva mai incontrato di persona – egli si scusò sostenendo di avere poco capitale a disposizione; le consigliò allora quella stessa onorabile società, o meglio, quel privato finanziatore: il signor de Vere di Jermyn Street. Il signor de Vere si era rivelato davvero molto affascinante; aveva concesso a Blunt di Bristol la possibilità di rinnovare il contratto per altri tre mesi e aveva fissato una data molto comoda per il proprio rimborso. Ma quella data era scaduta già una settimana prima. E lui l’aveva assillata senza sosta; le faceva addirittura paura al solo pensiero di dover rispondere al telefono.
+
+Deve avere qualcosa da fargli vedere. Qualsiasi cosa scritta. Anche solo una nota privata. Era un po’ disperata, ma pensava davvero di riuscirci prima della rottura prevista per lunedì.
+
+Non era troppo tardi, anche se era domenica. Sapeva per esperienza dolorosa che de Vere poteva utilizzare il telefono nel pomeriggio di una domenica, e non dubitava affatto di riuscire a chiamarlo anche da parte sua.
+
+Prese il ricevitore; ed effettivamente, quella voce morbida e suadente rispose dall’altra parte. Anche la sua stessa voce, mentre continuava a parlare, era altrettanto fluida e dolce.
+
+“È il signor de Vere? Il signor Rupert de Vere? Oh, signor Rupert, ” Si sistemò meglio sulla sedia e continuò ancora più dolcemente: “Sono così felice di avere l’opportunità di dirvelo. Sì, lo so. Non volevo che parlassimo di affari di domenica” (un improvviso cambiamento nell’espressione del viso, seguito da un’aria angosciata). “Oh, no, certo che no, caro signor Rupert. Non il lunedì! Ma domani! Sì, sì, ” (con tono petulante) “So che c’è scritto sul foglio. Una settimana fa. Sì. Ma in queste cose ci vuole buon senso. No. Sì. Esatto. Aspettate un attimo. Praticamente ho già venduto il posto. No, no, signor Rupert. Non avete sentito parlare spesso di questa transazione. Vi dico che è praticamente fatta. C’è Lord Hellup che ha accettato l’offerta. E poi c’è anche un altro. Lord Mere de Beaurivage. Non ne avete mai sentito parlare? Oh, sciocchezze. Devete averne sentito parlare! Caro signor Rupert. È davvero pieno di soldi. No, no, ” (gridando) “BRUVVISH. Vi scrivo la parola, ” (piano piano) “BEAURI, (con rabbia).” “È maledettamente difficile da pronunciare. Mi avete interrotto. Sì, sì. Ancora tre minuti. Sì. Oh, siete lì, signor Rupert? Bene. Allora ci vediamo martedì? Oh, questo fa tutta la differenza, ” (con tono petulante). “Ma non pensate che possa presentarmi con l’accordo già in mano! Cosa? Qualcosa di scritto? Oh, sì, certo. Allora martedì. Grazie mille, caro signor Rupert! Martedì mattina. Sarà perfetto. Buonanotte.”
+
+Zia Hilda riattaccò il ricevitore, esausta; di fronte a quella situazione, mormorò coraggiosamente: “Dannato sia!”
+
+Nel frattempo, suo nipote stava facendo la storia, insieme al suo maggiordomo; anche Isabeau Hellup era d’accordo.
 
 
 
@@ -4774,6 +6480,76 @@ Some few minutes passed. Corton no longer read The Spectator, passionately absor
 
 The bell rang twice.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XI
+
+John Maple cercò Corton. Lo trovò in quella stanza privata, accanto al camino, intento a leggere “The Spectator” con tranquillità e distacco. Era l’ora in cui i maggiordomi si rilassano. Quella figura dignitosa si alzò con grande cortesia non appena il giovane bussò e entrò.
+
+“Mi cogli sempre di sorpresa, signor John,” disse lui.
+
+“Vi interrompo, Corton,” rispose John. “Mi dispiace, ma è una questione urgente e non mi porterà molto tempo. Sono contento che abbiate letto ‘The Spectator’.”
+
+“Quel giornale è la mia lettura preferita, signor John,” rispose Corton con grande semplicità. “La signora Maple ha la gentilezza di fornirci il ‘News of the World’. Lo leggo solo per avere un riassunto di ciò che può essere considerato materiale di cronaca domestica. Ma per giudizi e analisi sulla vita pubblica preferisco il ‘The Spectator’. È il mio lettura quotidiana.”
+
+“John gli disse che aveva perfettamente ragione. Ma poi aggiunse bruscamente…”
+
+“Corton, hai mai sentito parlare di un fantasma a Rackham?”
+
+“Un fantasma, signor John? Mio Dio, no!” disse il vecchio gentiluomo. “Se ci fosse stato un fantasma,” aggiunse con enfasi, “spero di averne sentito parlare! C’era davvero un fantasma a Pilford, poco oltre Lewes, ma, ” aggiunse orgogliosamente, “lo hanno catturato.”
+
+“Ah sì, ricordo quel fantasma di Pilford. Era una mucca bianca che entrava nel loro giardino di notte, vero? Nel buio della luna, ”
+
+“Esatto,” rispose Corton con saggezza. “È successo due volte. Ma alcuni dicevano che non fosse una mucca terrestre. La terza notte, quel giovane gentiluomo di chiesa che indossava un cappello a tre punte disse di poterla controllare. E lo fece davvero. Da allora non è più apparsa. Ho sentito tutti i dettagli, signor John,” aggiunse abbassando la voce. “Me li ha raccontati il signor Worthing, che forse ricorderete essere stato il valletto di Sir Charles.”
+
+John annuì.
+
+“Quel giovane gentiluomo pronunciò alcune parole strane e solenni. Lì c'erano tutti, dopo le undici, che guardavano dalla terrazza. E la mucca si sciolse.” Avrebbe voluto raccontare di più su quella creatura spettrale. La sua voce era già in sintonia con il soprannaturale, quando John lo interruppe dicendo:
+
+“Beh, Corton, insomma non è mai esistito nessun fantasma a Rackham. Ora ascolta: deve esserci un fantasma, proprio oggi.”
+
+E lui spiegò il suo piano.
+
+Corton ascoltava con attenzione. Ma non era ancora un alleato. Aveva sentito ciò che John aveva da dire, ma non sapeva cosa ne avrebbe pensato la signora Maple. Non spettava a lui nemmeno scherzare in proposito. Avrebbe fatto qualsiasi cosa per aiutare il padrone John. Ma, con tutte queste cose da considerare.
+
+Fu allora che John mise giù le sue carte.
+
+“Corton,” disse, “chi è il legittimo proprietario di Rackham?”
+
+“Perché, Maestro John”, rispose l’uomo anziano esitando, “non spetta a me dirlo. Se solo potessi osare parlare liberamente, ”
+
+“Sì, Corton,” intervenne il giovane uomo, “se poteste parlare liberamente, direste che io sono il legittimo proprietario di Rackham. Direste anche che mi è stato sottratto ingiustamente, o comunque con mezzi illegali; e questo è davvero abominevole. E direste inoltre che, se solo potessi pagare zia Hilda il giusto prezzo (e quel giusto prezzo sarebbe di certo molto inferiore ai 20.000 sterline che mio padre avrebbe dovuto pagarle. In realtà non ha mai preso in prestito una somma del genere), avrei lo stesso diritto su Rackham che ne aveva mio padre.”
+
+Corton fece un gesto: troppo rispettoso per essere un semplice cenno del capo, troppo affermativo per essere un inchino.
+
+“Beh, Corton,” disse John in tono deciso, “ora non capisci ancora?”
+
+Ma l’uomo anziano voleva che le “i” avessero dei puntini e le “t” fossero barrate.
+
+“Guarda qui, Corton: vuoi vedere quel tizio di Bruvvy seduto qui a Rackham. E tu, chissà quali orrori hai portato con te. Band jazz e radio,?”
+
+“Speravo,” disse lentamente l’uomo anziano, “di vivere e morire qui, signor John. Speravo di poter rimanere qui anche dopo aver terminato il mio servizio, se mai ci fosse stato quel momento. Vostro padre diceva sempre che dovevo farlo, e la signora Maple non ha mai detto il contrario. Questa stanza non è mia, signore; appartiene a voi. Ma credo che non riuscirei a vivere lontano da qui per molto tempo. Mi ucciderebbe, se posso esprimermi così con rispetto. Non ho mai pensato ad estranei in questa casa. Non sarebbe naturale.”
+
+“Beh, eccoti qui, Corton. Il modo per impedirlo è impedire a quel vecchio bruto di Huggins di prendere il controllo di quel posto. Inoltre, Corton, tu sai bene quanto me che Rackham riprenderebbe il sopravvento se fossi qui, come dovrebbe essere. E tu torneresti ad essere quello che eri quando mio padre era vivo: a gestire tutto il posto e a tormentarci fino alla morte. Beh, c’è solo un modo per risolvere questa situazione. E cioè spaventare a morte Lord Rubbish. Ho già gettato le basi; ora dobbiamo semplicemente andare avanti. Ascoltami bene, Corton: tra circa cinque minuti sarò nella sala da biliardo con Miss Hellup. Gliel’ho detto. Me ne andrò a sposare quella giovane signorina, Corton.”
+
+“Certamente, signore,” disse Corton, inchinandosi di nuovo, ma questa volta in modo molto più cerimonioso. “Mi congratulo con voi, signore. Ho sempre sentito dire che queste giovani donne americane, ”
+
+“Hai perfettamente ragione, Corton; hai davvero ragione,” disse John in fretta. “E l’hai espresso in modo molto chiaro e bello. Grazie mille. Ora ascolta di nuovo: tra circa cinque minuti devo incontrarla nella sala da biliardo. Quando suonerò due volte, verrai? Dovremo metterci tutti e tre insieme a pensare. Capisci? Quando suonerò due volte. E nessun altro deve venire.”
+
+Corton capì.
+
+Mentre il giovane stava per uscire dalla stanza di Corton, quel maestro di cerimonie si alzò in piedi e gli andò incontro alla porta. Si inchinò nuovamente prima di accompagnare John Maple fuori. Poi, quando tutto fu tranquillo, chiamò il ragazzo.
+
+“Ragazzo,” disse, “quando senti suonare la campanella due volte, proprio due volte, vieni a dirmelo. Due volte, capito? Non disturbarmi nemmeno una volta.”
+
+“Molto bene, signore,” rispose il ragazzo con una voce roca ma estremamente ossequiosa.
+
+Il suo superiore lo ricompensò con un cenno austero ma molto lieve.
+
+Trascorsero alcuni minuti. Corton non leggeva più “The Spectator”, anche se ne assorbiva con passione ogni pagina. Teneva il giornale tra le mani invecchiate, senza alcun interesse; fissava il fuoco e ricordava il suo vecchio maestro, Henry Maple, e i tempi migliori. Poi, davanti ai suoi occhi, apparve l’immagine di Lord Mere de Beaurivage. E la sua bocca si indurì.
+
+La campanella suonò due volte.
 
 
 
@@ -4863,6 +6639,90 @@ But time pressed; even if she hooked one of her two fish, she must have somethin
 She was a determined woman, and a clear-headed woman; and also by nature as hopeful as she was decided. She said to herself, as she jotted figures slowly down on the paper before her, that if she played her cards at all properly she would have her competing offers before the evening was out. Then in the morning before her guests went away she would get a brief note from the firm bidder. She would say it was more regular, and whoever it was that had promised wouldn’t be able to refuse that small formality. Then she could breathe again with something to take up to town on the Tuesday. She would play her cards first with Bruvvish — there was margin to play with in the devotion of Lord Hellup. She must take Bruvvish for a foundation.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+Nella sala da biliardo, Bo inseriva da sola le biglie rosse con una precisione ammirevole. Quando non riusciva a fare qualcosa bene, semplicemente non lo faceva affatto; ed è anche questo un modo per essere efficienti. Continuò la sua serie di successi mentre John le spiegava come procedere: ogni volta le indicava la biglia rossa da inserire e la rimetteva al posto giusto con estrema cura, ammirando al contempo le sue abilità nel maneggiare le biglie a distanza ravvicinata o lontana.
+
+“Hai parlato con lui, Bo?”
+
+“L’ho fatto io. Gli ho chiesto se avesse notato qualcosa di strano nel corridoio al piano di sopra, dove si trova la sua stanza. Ha detto di no. Penso che abbia deglutito a fatica.”
+
+“Che stato pensavi che fosse, Bo?”
+
+“Scosso, Jacko… Non troppo gravemente, ma scosso. Gli è dispiaciuto che ne parlassi.”
+
+“Ah, quindi ce l’ho fatta?”
+
+“Sì! Maledizione. Non si possono fare due cose contemporaneamente,” disse lei, mettendo giù il bastone da musica mentre il rosso, goffamente, correva in cerchio con la testa bassa, per poi fermarsi in modo vergognoso, insoddisfatto. John prese il bastone e suonò un accordo.
+
+“Gli altri devono sentire quei suoni prodotti dalle palle, in modo da sapere che stiamo lavorando e che nessuno debba interferire,” disse.
+
+“Hai ragione,” disse Bo.
+
+“Sta arrivando. Arriverà non appena suonerò due volte. Quindi suonerò due volte.”
+
+Suonò due volte. E dopo poco, con grande dignità, entrò Corton. Bo si mise un dito sulle labbra e John fece lo stesso obbedientemente. Il vecchio signore, sebbene dubitasse che fosse molto dignitoso, ma anche ritenendo che potesse essere suo dovere, posò a sua volta un dito serio e un po’ tozzo sulle labbra. Poi John fece oscillare le palle con forza, producendo un lungo rumore metallico, e così stabilirono il loro piano.
+
+“Se posso permettermi di dirlo senza dimenticare il mio ruolo, Maestro John,” disse Corton quando iniziarono le procedure preliminari, “sarebbe meglio cominciare con la gestione della casa.”
+
+“La famiglia?” disse Bo.
+
+“Sì, signorina. Intendo dire, i servitori di rango inferiore. E poi, naturalmente, anche i miei colleghi; spero di riuscire a influenzarli positivamente.”
+
+John annuì.
+
+“È saggio,” disse. “Ma ricorda quell’uomo contro cui stiamo sparando.”
+
+“Oh, sì, Maestro John,” disse Corton con rispetto. “È proprio questo che intendo. Voi lo lavorerete, se posso usare questa parola, ” e tossì leggermente. “Porterò una delegazione più tardi stasera, signore. Sono già un po’ scossi, proprio come avete detto riguardo al loro padrone. Anche di più, soprattutto la cuoca. Lei era sempre stata dotata di capacità extrasensoriali. E poi c’è quella ragazza: potrebbe essere utile, perché è ancora peggio. Quest’inverno ha assunto pratiche religiose estreme. Ma temo che non possa fare nulla con quel francese. Non ha mostrato alcun segnale. Temo sia insensibile agli influssi dell’Altro Mondo.”
+
+“Lo so,” disse semplicemente Bo. “I francesi sono duri come il bronzo.”
+
+“Non danno alcun credito, signorina, alla dottrina del castigo eterno.”
+
+“Ecco cosa intendevo,” disse Bo.
+
+“Ora, Corton,” continuò John, “ascolta quello che Miss Hellup e io abbiamo organizzato. Indosserò un lungo cappotto nero che lei mi ha procurato; inoltre abbiamo preso una delle spade presenti nell’armatura finta che zia Hilda ha comprato l’altro giorno e la inseriremo nella fessura del cappotto. Lei ha anche preparato un grande colletto rigido. Me lo metterò tutto addosso, e così diventerò. Un uomo basso con la testa nascosta nel petto, o un uomo alto senza testa. A voi piace di più quale versione. Un colletto rigido al posto del collo, ma nulla sopra.”
+
+“È stata proprio la signorina Hellup ad avere quell’idea!” disse Corton con ammirazione.
+
+“No, Corton,” disse Bo. “Entrambi ci siamo pensati. Ma sono stato io a inventare quelle caratteristiche, e sono davvero ottime.”
+
+“Le terrà nascoste con cura, signorina. E anche lei, signore. Fino al momento giusto, vero?” chiese Corton con ansia.
+
+I due più giovani annuirono. John continuò.
+
+“Quel vecchio signore inizierà ad sentire voci, Corton, fino a quando non lo costringeranno a andare a letto. E sai che zia Hilda l’ha messo nella stanza dell’Armata?”
+
+“Sì, Maestro John,” rispose Corton molto seriamente. “La stanza rivestita di quercia, che ho sentito provenire dai relitti dell’Armata Spagnola, così come quella in sala da pranzo.”
+
+“Esatto,” disse John con allegria. “È lì che il fantasma si troverà. Perché io sono quel fantasma, e lo so. C’è proprio spazio tra la tappezzeria sul muro e le tende di damasco rosso all’estremità del letto a quattro colonne.” Poi aggiunse in modo strano: “Vorrei non essere entrato lì dentro. Sembra una cosa meschina da fare. Ma dovevo togliergli l’appetito, Corton. Non voglio che quei milioni distruggano Rackham.”
+
+“Mi farai odiarti, Jacko,” disse Bo, con la crudeltà tipica del suo sesso. “Quello che vuoi è far impazzire di rabbia quel vecchio bruto. Se non lo fai tu, lo farò io.”
+
+“Lo farò, Bo,” disse semplicemente Jacko. “Ma comunque mi dispiace per quel vecchio ragazzo. Vedi, anch’io ho avuto i miei nervi, da bambino.”
+
+“E le avrai di nuovo stasera, se nella stanza c’è uno specchio e tu guardi attraverso un foro del bottone,” rispose Bo. “Ora, Corton, tutto è chiaro e corretto?”
+
+“Perfettamente, signorina, assolutamente,” disse Corton.
+
+“Bene, allora tornerò e continuerò ad aiutare con questa piccola ‘ossessione’. E andrò a ‘allenare’ quel Lovey-Lad. So come farlo piangere e tremare.”
+
+Anche questi cospiratori si separarono.
+
+* * *
+
+Ancora seduta alla sua scrivania, dopo aver riattaccato il telefono, l’estone rimase per un momento in silenzio; intanto Hilda Maple continuava a prendere appunti.
+
+Se la vendesse per 40.000 sterline, potrebbe vivere in modo modesto e libero per il resto della sua vita; aveva studiato i prezzi delle rendite vitalizie alla sua età e sapeva esattamente cosa potevano comprare quei 20.000 sterline in più, una volta saldati tutti i debiti.
+
+Se potesse essere venduta per 50.000 sterline, lasciando un saldo di 30.000 sterline da utilizzare per un rendito annuo, beh, sarebbe ottimo. Anzi, molto meglio ancora.
+
+Ma il tempo stringeva; anche se riusciva a pescare uno dei suoi due esemplari, doveva comunque avere qualcosa scritto entro il giorno seguente.
+
+Era una donna decisa e con la testa sulle spalle; per natura, era altrettanto piena di speranza quanto determinata. Mentre lentamente annotava dei numeri sulla carta davanti a sé, si disse che se avesse giocato le sue carte nel modo giusto, avrebbe ricevuto le offerte competitive entro la fine della giornata. Poi, la mattina seguente, prima che i suoi ospiti se ne andassero, avrebbe ricevuto una breve nota da parte dell’offerente più interessato. Sarebbe stato un gesto formale, e chiunque avesse fatto quella promessa non avrebbe potuto rifiutarlo. A quel punto, avrebbe potuto finalmente respirare tranquillamente, sapendo di avere qualcosa con cui presentarsi in città il martedì seguente. Prima di tutto, avrebbe cercato di ottenere il sostegno di Bruvvish: c’era ancora margine per influenzare la decisione di Lord Hellup. Doveva considerare Bruvvish come una base solida su cui fare leva.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_03" data-title="The Haunted House — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/great_house,concept/money_and_avarice,concept/greed,concept/deception,concept/satire_of_society,concept/class_conflict,concept/vulgarity,form/novel,form/satire,character/king_lear"></span>
@@ -4918,6 +6778,58 @@ His lordship sank back into the big chair from which he had so painfully raised 
 
 Hilda Maple, singularly composed after her recital, not unlike King Lear or any other tragic figure when it gets off into the wings for its pot of beer, had two things clearly fixed in her mind: first, she had established her fifty thousand — guineas; there was no doubt of that at all. She had laid her foundation. Secondly, Lord Hellup would be spending the time between tea and dressing, as he always did, in the little Red Room, reading Motley’s Dutch Republic — it was astonishing, she thought, how that great man could read and re-read Motley’s Dutch Republic. But it argued a stable mind. Anyhow, he would be there, in the little Red Room. And therefore to the little Red Room did Hilda Maple steal.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quindi, con fare brusco, lo portò da parte non appena gli ebbe servito il tè, proprio come la vittima sacrificale viene isolata dopo aver bevuto un sorso di vino dolce. Lo fece entrare nella biblioteca da solo e gli confessò apertamente i suoi desideri riguardo all’acquisto della casa di Rackham; giurò fedelmente che sua moglie non aveva mai menzionato l’argomento, ma ammise che Amathea non era riuscita a nascondere il proprio naturale interesse per quel luogo. Erano vecchi amici, no? E amici cari, altrimenti non parlerebbe così francamente.
+
+Beh, come sapeva, fino a poco tempo fa lei avrebbe pensato che chiunque le chiedesse di vendere Rackham fosse pazzo. Ma con lui e Amathea era diverso. E c'era una cosa che aveva sempre detto: se proprio doveva succedere – e se davvero fosse stato suo dovere verso quel ragazzo vendere la proprietà – almeno avrebbe dovuto farlo nelle mani di amici. E per il bene degli amici, ancora di più per il desiderio di sentire che quel vecchio posto fosse ancora in mani affidabili, avrebbe accettato qualsiasi decisione, ma certamente non l'avrebbe presa da nessun altro.
+
+In quel momento, tutto lo spirito fiero del sangue Huggins si risvegliò in lui; prima ancora che quelle parole fatali potessero essere pronunciate, prima ancora che qualcuno potesse varcare la porta aperta, l’iniziativa passò da Hilda al nemico. L’uomo d’affari deciso parlò: “Queste cose devono essere fatte con decisione, una volta per tutte”. Aveva sempre letto nei giornali di come i milionari agissero. E ora che anche lui era diventato un milionario, era determinato a vivere all’altezza di quell’immagine. Si chinò in avanti, accorciando ancora di più il suo collo corto; assunse quell’espressione cupa che associava al dominio finanziario. E disse queste parole:
+
+“Pensavo di raggiungere i 30.000 sterline…”
+
+Hilda Maple era all'altezza di sé stessa, e dell’occasione.
+
+“Sì,” disse semplicemente — e poi, come se nessuno avesse parlato, “come dici tu. È davvero strano per me quanto tempo mi ci voglia per prendere una decisione. Sarò franca con te, Lord Mere. Quando mi furono offerti sessantamila anni fa, ”
+
+“Sessantamila!” esclamò ansimando Lord Mere de Beaurivage.
+
+Hilda Maple agitò la mano con impazienza.
+
+“Sessantamila, ho detto. Beh, quando mi è stata offerta quella somma tanti anni fa l’ho rifiutata. Non per i soldi, intendiamoci – pensavo fosse un prezzo molto equo, soprattutto considerando che in quei tempi non avevo aggiunto nulla di significativo al valore originale della proprietà. Ma semplicemente non riuscivo a sopportare l’idea di venderla. Anche se mi avessero offerto sessanta milioni, sarebbe stato lo stesso. Ma ora è un’altra cosa. Sai, caro Lord Mere de Beaurivage” (si ritrasse sotto il suo sguardo), “, te lo dico perché si tratta di te, di te e della mia adorata Amathea. In questo mondo non si hanno molti amici veri. E tu sai anche che penso a quel ragazzo. Se solo ora potessi ottenere anche soltanto cinquantamila sterline e lasciarla in mani sicure. Perché. Sì, ” sospirò di nuovo. “Suppongo che dovrei cedere.”
+
+“Cinquantamila!” quasi gridò Lord Mere de Beaurivage.
+
+“Sì,” annuì il suo bello amico. “Cinquanta migliaia di ghinee. È tutto qui. So che è troppo poco. So cosa provi per me, ma non posso aumentare il prezzo. Non so trattare. Non ho mai sopportato i dettagli degli affari. E se devo soffrire, beh, è come un intervento chirurgico. Voglio che tutto vada velocemente, pulitamente e senza complicazioni. Quindi accetterei anche quella cifra.”
+
+Era sul punto di pronunciare quelle parole fatale: “Lo vorresti davvero, lo vorresti?” – e allora la sua pazienza sarebbe crollata e ne sarebbe seguita una scenata. Ma provava troppo rispetto per quella cultura superiore per non trattenersi in tempo. Tutto ciò che disse fu:
+
+“Beh, signora, intendo, Ilda, onesta e diretta come, beh, credo davvero che quando dici cinquantamila sterline, ”
+
+“Guinee,” mormorò Hilda Maple.
+
+“Ho, guinee?” mormorò con rabbia. “Sei proprio crudele a farlo con me! È proprio questo che fai, mi colpisci deliberatamente!”
+
+“Oh!” sospirò stancamente Hilda Maple. “Come odio tutta questa conversazione commerciale! Non voglio vendere quella casa. Vorrei non aver mai menzionato la cosa. E se questo dovesse interrompere la nostra amicizia, per l’amor di Dio, smettiamola del tutto. Comunque, liberarmi di tutto questo mi solleverebbe davvero il peso dal cuore. Sarò a Rackham, dove ho sempre vissuto. È la casa della mia anima. E con John, qui, mentre invecchio, potrà ereditare tutto da me,” aggiunse, con profondo sentimento.
+
+“Non fraintendetemi, Ilda, non fraintendetemi,” disse l’uomo importante. “Dobbiamo essere amichevoli negli affari, proprio come in tutto il resto. Non è vero? Ora parliamone tranquillamente. Ho parlato di trentamila sterline. Beh, vi dico francamente: si trattava solo di contrattare. Non mi aspettereste certo che rinunciassi a negoziare, vero? Pensereste meno bene di me, non è così?”
+
+“Oh, sono stanca, stanca, stanca!” esclamò la signora con toni tragici, più alti di quelli che aveva mai usato prima, il che allarmò il finanziere, che temeva sempre i capricci delle donne. “Non ce la faccio più, George” (di solito non lo chiamava George, ma ora lo fece). “Davvero, non ce la faccio. Te lo dico, ” Si alzò e sembrò voler andarsene.
+
+“Aspetta un attimo. Pensaci bene, Ilda, per favore!” gridò, alzandosi dalla sedia. “Devo dire qualcosa a Mattie. Ora, siamo ragionevoli: stavamo parlando di cinquantamila sterline, è quello che avevamo concordato tu ed io, ”
+
+“Guinee,” dissi. “No! no! Non ce la faccio più,” esclamò Hilda Maple, dirigendosi verso la porta in preda all’agitazione. Poi si girò di scatto e, con franchezza, prese le sue mani. “Non litigheremo, George, vero? Solo, non parliamo più di affari.”
+
+E poi se ne andò.
+
+Sua Signoria si lasciò cadere nuovamente nella grande sedia da cui si era così faticosamente alzato in quel momento, e mormorò tra sé a mezza voce:
+
+“Tutta Mattie è presa da quell’idea. Le piace davvero quel posto! Cinquantamila sterline. Beh, è una bella somma. Ma ora ha cambiato idea. Cosa dovrei dire a Mattie?”
+
+* * *
+
+Hilda Maple, profondamente commossa dopo il suo recital – non molto diversa da Re Lear o da qualsiasi altra figura tragica quando si ritira nel proprio rifugio per godersi una birra – aveva due cose ben chiare in mente: prima di tutto, aveva sicuramente ottenuto i suoi cinquantamila guinee; non c’era alcun dubbio al riguardo. Aveva gettato le basi della sua situazione economica. In secondo luogo, Lord Hellup avrebbe trascorso il tempo tra il tè e l’abbigliarsi, come faceva sempre, nella piccola Stanza Rossa, leggendo “La Repubblica Olandese” di Motley. Era sorprendente, pensava, quanto quell’uomo potesse leggere e rileggere quel libro. Ma ciò dimostrava che aveva una mente stabile. Comunque fosse, lui sarebbe stato nella piccola Stanza Rossa. E quindi Hilda Maple si diresse proprio lì.
 
 
 
@@ -5001,6 +6913,84 @@ Bo popped her cigarette out of her mouth between her fingers and spoke short wor
 “Why, Rackham Catchings. This.” And with the words the lovely girl struck her right heel sharply against the floor. “All around …” she made a circle with her finger in the air. “Roof and all. Counting the little gadgets.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+Per una volta nella sua vita, Lord Hellup non si dispiacque di essere interrotto mentre rileggeva per la cinquantesima volta “La Terribile Alva”, “Il Divino Guglielmo d’Orange”, i racconti eroici dei olandesi e le storie malvagie dei turchi. Posò il libro con un colpo secco; si alzò immediatamente in piedi, assunse un’espressione vincente sul viso e stava per usare un tono altrettanto convincente per salutarla, quando Hilda lo precedette.
+
+“Lord Hellup,” disse lei, “sono venuta a chiedervi il vostro consiglio. Nessuno lo darebbe con tanta disponibilità e generosità quanto voi, e confiderei nella vostra giudizio più di quanto farei in quella di qualsiasi altra persona vivente.”
+
+“Davvero?” rispose il nobile, con un tono che tradiva piacere.
+
+“Lord Hellup, ho deciso di vendere Rackham.”
+
+“Davvero?” ripeté il suo ospite, con lo stesso tono cortese. “Era proprio di questo che avevo paura quando parlavi poco fa nel giardino. Beh, quindi vuoi vendere la Rackham?”
+
+“Sì. Ma sono venuto da te perché voglio essere del tutto franco: tu puoi aiutarmi in modo che nessun altro possa farlo, ”
+
+“Aiuto, come?” disse il suo signore con cortesia.
+
+“Perché, con il tuo consiglio, Lord Hellup…”
+
+Il suo viso rivelava il suo sollievo.
+
+“Potresti dirmi tutto questo in modo più giusto, e io ti fiderei completamente, come ho già detto, più di qualsiasi altro uomo vivente. Dimmi onestamente: cosa dovrei chiedere?”
+
+“Se fossi io a fare questa offerta, signora Maple,” disse il suo amico, parola per parola e con attenzione, “diciamo che fossi io a comprarla, o che la comprassi per un amico, ”. Poi si interruppe. “O, meglio ancora, se mi chiedessero quanto potrebbe valere all’asta in un mercato libero, ” Fece una pausa e cambiò argomento, riprendendo quasi con affetto: “O, insomma, se cercassi di ottenere il prezzo migliore per voi, ”
+
+Hilda Maple iniziò ad impazientirsi.
+
+“Lord Hellup… comunque sarebbe più o meno la stessa cifra, no?”
+
+“Perché no,” disse pensierosamente. “Vedi, se fossi io a comprarla sarebbe una cosa; se fosse io a venderla per te, sarebbe un'altra cosa. E poi, se partecipassi all’asta, ”
+
+Hilda Maple pensò, non senza ragione, che tutto questo potesse continuare all’infinito. Man mano che la loro intimità cresceva, lei iniziava sempre di più a considerare Lord Hellup un uomo che si esprimeva raramente e in modo laconico. Sembrava che ci fosse un’altra faccia di lui. E questo non poteva assolutamente essere accettato.
+
+“Lord Hellup,” disse lei semplicemente e rapidamente, per portare le cose verso una crisi. “Ditemelo chiaramente: pensate davvero che chiedere cinquantamila sterline sia troppo?”
+
+“Perché no,” rispose il Primo Barone Hellup con calma, ponderando attentamente le parole che stava dicendo. “In senso stretto, non si può chiedere troppo. Allo stesso modo, nemmeno si può offrire troppo poco.”
+
+“In passato mi sono stati offerti di più,” disse la signora con decisione.
+
+“Beh, se non l’hai preso, ” rispose lui con comprensione, “vuol dire che per te ha un valore maggiore di cinquantamila sterline, vero?”
+
+“Sì,” disse lei, “è vero. Per me, Rackham Catchings vale più dell’oro.”
+
+“Allora,” disse Lord Hellup – e lei pensò che avrebbe potuto dirlo anche prima – “cinquantamila sterline non sembrano poi così tante, vero?”
+
+“Guinee,” disse Hilda Maple.
+
+“Sì, sterline sterline,” rispose, “per me non fa differenza. Se è davvero come dite voi, allora cinquantamila sterline, intendo, sterline sterline, non possono essere troppo, vero?”
+
+Hilda Maple aveva raggiunto una conclusione: lui era enigmatico, evasivo. Ma aveva sentito dire che i grandi maestri americani delle finanze si comportavano sempre così nelle fasi iniziali di un affare. Tuttavia non c’era dubbio: cinquantamila sterline guinee sembravano una cifra ragionevole per quell’uomo ricco.
+
+Nel silenzio che seguì, la sua mente lavorò rapidamente. Lui era stato astuto, e lei lo rispettava per questo. Era stato cauto; ma ora non aveva più dubbi: lui era davvero un acquirente, e aveva sentito parlare di qualcuno che comunque l’avrebbe sostenuta nella sua richiesta di cinquantamila sterline. Aveva parlato di aste e di occuparsi personalmente della faccenda per lei; aveva detto che sterline e ghinee erano per lui la stessa cosa. Lei era soddisfatta. Forse sentiva vagamente che un’altra “freccia” avesse anche colpito il suo cuore. Beh, non c’era niente di male in questo.
+
+Ma non si era fatto avanti come acquirente con alcun entusiasmo. I soldi necessari per l’acquisto di Rackham dovevano essere cercati presso Lord Mere. Tuttavia, in ultima analisi, poteva far riferimento al fatto che Lord Hellup aveva offerto di pagare. Era un po’ azzardato, ma poteva correre il rischio. E quando vecchio Bruvvish avesse sistemato le cose – come sicuramente avrebbe fatto – i soldi per l’acquisto sarebbero stati quasi una dote, anche per un uomo ricco come Hellup. In ogni caso, il mercato era vivace: ormai aveva sia un offerente che un valutatore.
+
+Gli ringraziò calorosamente e sinceramente, prendendogli la mano per stringerla, nel tentativo di dimostrargli la sua sincerità. Lui rispose con calore quanto fosse stato felice di poterle essere d'aiuto; ma dieci minuti dopo, quando la signora Maple se ne fu andata e Bo entrò nella stanza per vedere suo padre, confidò a quella meravigliosa figlia che le donne inglesi sono difficili da comprendere.
+
+“Riesci a capirli, Bo?”, chiese.
+
+“Più di quanto facciano a me,” disse Bo, con grande sincerità.
+
+“Ora, quella donna, Bo, beh, non dirò tutto quello che volevo dire; ma è davvero una donna ammirevole, e viene qui a chiedermi cosa dovrebbe chiedere a Rackham.”
+
+“Gliel’hai detto, papà?”, chiese Bo con ansia.
+
+“Perché,” disse suo padre con la sua voce più gentile; “l’ho lasciata parlare. Non volevo deluderla. Che voglia vendere la casa o no, per me va bene. Ma è una donna ammirevole, Bo. Però queste donne inglesi sono subdole e difficili da capire.”
+
+“Ora ascolta bene, Bo,” disse il nobile inglese con un tono lento e modulato, “voi donne capite cose che a noi uomini a volte non riescono. Almeno a me no. A cosa mira? Di cosa si tratta?” Fece una pausa, poi aggiunse con tono di disperazione:
+
+“Queste donne inglesi sono incomprensibili.”
+
+Bo tolse la sigaretta dalla bocca, tenendola tra le dita, e disse in fretta: “Vuole che tu compri, papà!”
+
+“Comprarla? Cosa?” disse il barone, sorpreso.
+
+“Perché, Rackham Catchings. Questo.” E mentre pronunciava queste parole, la bella ragazza colpì con forza il pavimento con il tacco destro. “Tutto intorno, ” disegnò un cerchio nell’aria con il dito. “Il tetto compreso. Anche quei piccoli dispositivi.”
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_05" data-title="The Haunted House — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/great_house,concept/money_and_avarice,concept/deception,concept/satire_of_society,concept/ambition,concept/class_conflict,form/novel,form/satire,character/napoleon"></span>
@@ -5064,6 +7054,66 @@ Lord Hellup, as befitted a man who had just been shot, hesitated. He had too muc
 
 “Some boy,” murmured Lord Hellup in his turn.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non lo voglio, Bo,” disse suo padre, alzandosi e parlando con grande serietà.
+
+“Vuole che tu la desideri,” rispose sua figlia.
+
+“Cosa dovrei farne?” chiese suo padre, confuso.
+
+“Non toccarlo, papà,” disse sua figlia con decisione. “Lascialo lì. Ora, se vuoi sapere chi comprerà Rackham, ”
+
+Ma suo padre era immerso nei suoi pensieri e la interruppe.
+
+“Ho fatto qualche calcolo,” disse, “solo per passare il tempo, come faccio sempre. E ho stimato che questo posto, con tutto ciò che contiene, compreso il libro degli ospiti, potrebbe valere circa duecentomila dollari e poco meno di un quarto di milione di dollari.”
+
+Bo accettò.
+
+“Non ne so nulla,” disse lei. “Ma sì, in realtà lo so, ” (perché le era venuta in mente un'idea), “Ho sentito parlare di questa tassa sulla morte. Quando Henry Maple è morto, prima che lei potesse continuare i suoi lavori, hanno dovuto pagare una tassa di 20.000 sterline. Quello non è nemmeno un quarto di milione. Sono soltanto centomila sterline.”
+
+“Queste tasse sulla morte imposte dai britannici sono valutate davvero troppo basse”, rifletté il suo signorilità. “E da allora ci sono state molte irregolarità in quel settore”.
+
+“Scoprirai che non accetterà meno di 50.000 sterline”, disse Bo con decisione.
+
+“Beh, non li otterrà da me,” disse il genitore devoto, mettendo per il momento da parte i suoi interessi personali.
+
+Bo gli fece cenno con il suo piccolo mento deciso.
+
+“Esatto, papà. Non toccarlo per niente.”
+
+“Hai detto di sapere chi stava comprando,” disse suo padre. Ora che aveva individuato tracce di una transazione, era pieno di curiosità.
+
+“Sì,” rispose Bo. “Ti farà saltare in aria… E comprare oggetti a prezzi inferiori ai cinquanta anche… Oh, che ragazzo!”
+
+Suo padre aveva un'espressione di incredulità.
+
+“Quale?” disse lui.
+
+Prese il tempo necessario per effettuare il suo tiro, inalando con piacere il fumo della sua sigaretta; e poi glielo disse.
+
+“Jacko!”, disse lei.
+
+“Cosa?!”, gridò il milionario, quasi saltando fuori dalla sedia.
+
+“Esatto,” rispose Bo, soddisfatta dell’effetto ottenuto. “Jacko. Oh, quel ragazzo è davvero molto organizzato, preciso e meticoloso in tutto ciò che fa.” Scosse la testa. “Niente materiali grezzi o imprecisi.”
+
+Lord Hellup, da uomo che era appena stato colpito da un proiettile, esitò. Aveva troppa orgoglio per accettare ordini senza pensarci, e anche troppa determinazione. Ma esitò comunque.
+
+“Vedi qui, Bo,” cominciò lentamente, dopo una lunga pausa, “Non sto dicendo nulla contro Jacko, capisci? Quello è il tuo destino. Non ho mai creduto che fosse giusto preoccupare i giovani, ma se lui riesce a comprare immobili in quel modo, perché no, ” C'era un tono di ammirazione nella sua voce, che fece molto piacere alle orecchie di sua figlia.
+
+“Lui comprerà, sistemerà tutto e risolverà la questione; lascia che se ne occupi lui,” disse. “Jacko è un piccolo Napoleone, sai?”
+
+“Comunque, Bo… non si può certo vendere Rackham Catchings per 20.000 sterline.”
+
+“Lo farà”, annuì Bo con decisione. “Vedrete… E voi definite questo rimediare ai propri errori?”
+
+“Sembra proprio così,” disse suo padre, con lo sguardo fisso sul soffitto. “Ma non riesco a collegare le listelle. Da dove viene tutto questo?” Guardò sua figlia con un po’ di sospetto. Ma la sua sincerità era indubbia.
+
+“Ti sbagli, papà,” disse lei. “Non verrà da me né da nessun altro che conosco. Dico solo una cosa: tenete d'occhio Jacko. Lui prenderà questo posto, e lo farà per centomila dollari.”
+
+“Un qualche ragazzo, ”, mormorò a sua volta Lord Hellup.
 
 
 
@@ -5134,6 +7184,72 @@ But George Huggins, first Baron de Beaurivage was in a hurry.
 
 “You haven’t got no cause to use soldier language to me, George Uggins,” she said. “I’ve given you no provercation. And just you be minded of it!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XII
+
+La sera era ormai molto avanzata. Era da tempo che le signore avrebbero dovuto andare a vestirsi, soprattutto in una casa come quella di Hilda Maple, dove tutto veniva organizzato con cura, rapidamente e puntualmente. Ma oggi era un giorno eccezionale.
+
+Era arrivato il momento che Bo si vestisse, ammesso che si potesse ancora definire “vestirsi”, comunque. Insomma, era ora che si immergesse in acqua calda contenente i cristalli profumati. Ma per Bo, gli affari venivano prima del piacere.
+
+Cercò John e lo portò dove aveva preparato, piegato con cura in un piccolo pacchetto, il suo bel mantellino. Lo tirò fuori di nuovo e lo mise sulla sua testa, sistemando la frangia in cima; poi accarezzò l’impugnatura della spada cucita nella fessura sul lato, e anche il fodero dietro di essa. Infine, adornò quella figura senza testa con quella frangia.
+
+“Sei davvero affascinante, Jacko”, disse lei. “Potrei baciarti, se solo ci fosse qualcosa da baciare…”
+
+“Non riesco a vedere nulla,” disse una voce soffocata dall’interno.
+
+“Credo che ci sia un foro per l’occhiello proprio di fronte ai tuoi occhi. Provaci a toccarlo con il dito.”
+
+John obbedì, la trovò e la allargò; un’iride e una pupilla, grigie e giovani, apparvero all’interno.
+
+“Mi spaventa davvero,” disse Bo, facendo un passo indietro. “Ma lui non lo vedrà mai. Tu riuscirai a cavartela da solo. Il problema è che hai le spalle molto larghe; tutto sembra inclinarsi verso il basso, Jacko. Ti fanno assomigliare a un elefante.”
+
+“Un piccolo elefante,” disse lui.
+
+“Sì, ma ampio,” rispose la bambina umile, con un tono pieno di affetto. Poi rifletté: “Non potremmo forse sostenere loro le spalle, Jacko?”
+
+“Potrei usarli per far da imbottitura,” disse. “Di solito hanno vecchi numeri del ‘Times’ ammucchiati nella stanza degli oggetti da imballare. Il ‘Times’ è un ottimo materiale per l’imbottitura.”
+
+I giovani uscirono a prendere il giornale; Bo fissò i rotoli schiacciati al loro posto. Poi gli mise di nuovo il mantello sulla testa e sistemò la frangia.
+
+“È più simile a, ”, disse lei. “Sei il mio cavaliere alto, onesto e un po’ spettrale. Se avessi una testa, saresti ancora più alto, Jacko.”
+
+Discussero su dove posizionare i beni e decisero di metterli nella stanza stessa del ragazzo; era quella immediatamente successiva a quella della sua vittima.
+
+“E come farai ad arrivarci, Uomo-Cane?” chiese lei.
+
+“Riuscirò a infilarmi dentro,” disse. “Posso mettermi il mantello addosso tra la testata del letto e il muro. Aspetterò nella piccola stanza che si apre dalla sua camera da letto, quella che loro non usano mai. Tenono sempre la porta chiusa a chiave, e lì ci sono solo valigie. Ma Corton mi ha dato la chiave.”
+
+“Trova tu il tuo momento, Jacko,” disse lei; poi, gettando un’occhiata all’orologio che sembrava non funzionare correttamente, si rese conto di avere a malapena il tempo necessario. Ma immaginò che anche le altre donne sarebbero arrivate in ritardo quella sera. E aveva ragione.
+
+Da molto tempo era arrivato il momento che zia Hilda si vestisse; ma anche per lei, gli affari venivano prima del piacere. Dopo essere tornata sconfitta dall’attacco alle trincee di Hellup, sapeva che doveva fare qualcosa di disperato, a prescindere dal fatto che ci fosse cena o meno. Il vecchio Bruvvish sarebbe ancora in biblioteca, andava sempre lì molto tardi. Doveva tornare subito lì e convincerlo ad ascoltare, altrimenti avrebbe dovuto ammettere la sconfitta.
+
+Ah! E da molto tempo era passato il momento in cui Amathea avrebbe potuto vestirsi. Perché Amathea aveva molte cose su cui riflettere riguardo al proprio abbigliamento, compresa la scelta dell’acconciatura. Ma per Amathea, gli affari venivano prima del piacere. Aveva visto, all’estremità del corridoio, l’amata Hilda uscire dalla biblioteca – proprio quella in cui lei stessa stava per entrare – per convincere suo marito della necessità di effettuare quell’acquisto. Aveva visto quella donna dirigersi direttamente verso la stanza dove sapeva che Lord Hellup stava leggendo il suo libro. Intuì quindi che non c’era più tempo da perdere: l’attacco contro Hellup (di cui era ben consapevole che sarebbe avvenuto a breve) non si sarebbe concluso né in dieci né in quindici minuti. E così, proprio nel momento in cui l’arrivo di zia Hilda aveva “sostituito” la lettura del libro di Hellup nell’interesse della sua lettrice Amathea, lei stessa si affrettò verso la biblioteca per prendere una decisione.
+
+Lord Mere de Beaurivage vide sua moglie entrare nella biblioteca. Si disse che fosse arrivato il momento che si vestisse; intuì che ci fosse qualche scopo terribile dietro quel ritardo. La vide sorridere, e per questo temette ancora di più la battaglia che stava per iniziare.
+
+Si era comportata bene con lui per tutta la vita: nei primi giorni difficili, quando cercava di accumulare quella piccola fortuna attraverso l’attività bancaria privata in Old Kent Road, si era dimostrata altrettanto astuta e determinata di lui, diventando una partner leale; nelle grandi questioni della sua vita successiva non aveva mai interferito. Quando le chiedeva consiglio, questi erano sempre saggi. Oggi l’unica ragione del suo terrore era che non osava dirle il vero motivo delle sue esitazioni. Nessun uomo vuole apparire codardo agli occhi di sua moglie, nemmeno un nuovo aristocratico politico.
+
+Anche Corton aveva detto una o due parole, con grande rispetto, spiegando la macchia scura sul pavimento in quercia e raccontandogli la sua versione della leggenda.
+
+Quello che Corton aveva detto continuava a vorticare nella sua mente come fumo; nella memoria, udì di nuovo quella Voce. L’aveva davvero sentita? Un po’ troppo chiaramente.
+
+Si preparò mentalmente alla discussione che lo aspettava, ma già si sentiva quasi sconfitto in partenza.
+
+Entrò e lo salutò gentilmente; si sedette al suo fianco e gli disse, con occhi radi di felicità, che il suo sogno si era avverato. Cara Hilda aveva detto esattamente la stessa cosa.
+
+“Ma non c'erano alcune cifre, Uggins,” aggiunse lei, “e questo è anche meglio. Mi piace che siate voi a occuparvi di quelle parti numeriche. E voi sapete bene come farlo, vero? Vi ricordate cosa ha detto il Primo Ministro, ”
+
+Ma George Huggins, primo Barone de Beaurivage, aveva fretta.
+
+“Sì, Mattie, sì, me lo ricordo. Aveva anche ragione lui. Ma, davvero, Mattie, la sua figura è incredibile.”
+
+“Cosa intendi dire?” rispose la signora con ansia. “Non stai mica tirandoti indietro ora, vero, George? Non mi stai spezzando il cuore, ”
+
+“Non essere così precipitoso,” disse lui in tono lamentoso. “Quello che ho detto è che le sue forme erano davvero notevoli. E lo erano davvero. Quella donna è avida, Mattie,” aggiunse seriamente, per poi ringhiare, tornando improvvisamente alla sua giovinezza: “Davvero avidissima, ” Sua moglie lo rimproverò.
+
+“Non hai alcun motivo per parlarmi con quel tono militare, George Uggins,” disse lei. “Non ti ho dato alcuna ragione per farlo. E tienilo bene a mente!”
 
 
 
@@ -5215,6 +7331,82 @@ Aunt Hilda had never met big business in its more aggressive mood, and I weep to
 He had never learned the silly little social habits of a class which he both envied and despised; therefore he made for the door before his hostess, and she heard him muttering as he went out, leaving her there at once mightily relieved and mightily offended: “Fifty thousand pounds. And I wouldn’t have done it for any but Mattie. Fifty thousand pounds!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le chiese scusa in modo molto umile.
+
+“Mi ha sopraffatto, Mattie, davvero. Non succederà più. Ma guarda! Cinquantamila sterline, anzi, ghinee: le ha messe proprio per questo!” E agitò debolmente e con movimenti rigidi il suo braccio corto e tozzo, indicando vagamente le pareti piene di libri.
+
+Amathea Huggins infuseva nella sua voce quel tono di disprezzo profondo che raramente si sente a ovest di Temple Bar.
+
+“Ahi! Quindi è questo che ti si incastra nello stomaco, vero, George Uggins? Cinquanta mille miseri dollari, ”
+
+“Erano guinee,” ringhiò il nobile.
+
+“Beh, ghinee,” disse Amathea, alzandosi improvvisamente con le braccia incrociate. “Ghinee. Perché, George Uggins, per il tuo titolo di barone ne paghi di più, vero? Ti ricordi quanto hai pagato per ottenere il titolo nobiliare?”
+
+“Non farlo!” disse debolmente suo marito. “Non farlo.”
+
+“Sì, ma lo farò,” disse Amathea. “Cosa! Vuoi che paghi il prezzo di un gentiluomo per una bellissima casa di campagna, con i suoi querce e i suoi giardini simili a parchi. Proprio come ne ho letto per tutta la vita, e che desideravo tanto possedere. Sai quanto sarei disposta a dare per essa, George Uggins? Se avessi del denaro mio. Ma non ne ho. Sono solo una povera donna. Tuttavia, non ti ho forse aiutato a guadagnare soldi, George Uggins? Non sono sempre stata al tuo fianco, piena di compassione e fedeltà? Ma, beh, non conta nulla.”
+
+E allora, improvvisamente, apparve un piccolo fazzoletto da cinque ghinee, con pizzo vero e proprio tutto intorno; lei lo usò per asciugarsi quegli occhi poveri e tristi, poi si lasciò cadere di nuovo sulla sedia, scossa dai singhiozzi. “Oh mio Dio. Sono solo una vittima, nient’altro che una vittima. Nessun compenso per me. Solo lavoro, sempre lavoro. E nessuna gioia. Anche se ci avevo tanto sperato. E inoltre, è stato così poco costoso, ” disse, togliendo il fazzoletto e passando improvvisamente dall’emozione alla ragione. “Poco costoso? Ma George Uggins, non capisci che è davvero un affare vantaggioso? È come comprare ananas a sei penny, ” aggiunse, ricordando i tempi difficili in cui viveva. “E tu, continui a contrattare, a esitare, come un mercante avido. Sai quanto avrei dato? Avrei dato centomila sterline. Cosa significano centomila sterline per te, George Uggins? Le daresti domani stesso, se ti fosse offerta l’opportunità di guadagnare di più, vero? E poi, a cosa serve tutto questo, in realtà?” concluse, con un tono disperato. (Era sempre la sua carta vincente. Quel figlio unico che era morto prima che la loro fortuna arrivasse, )
+
+E George Huggins, Primo Baronetto e Primo Barone Mere de Beaurivage, nella contea di Berks, arrese le sue bandiere e consegnò la sua spada.
+
+“Fai pure come vuoi, vecchia mia,” disse. “Fai pure come vuoi.”
+
+Gli diede un lungo bacio, proprio di quel tipo che gli piaceva di più, anche nella sua vecchiaia. E fu felice che la battaglia fosse finita, anche se aveva perso. Ma, per quanto uomo fosse, non poté fare a meno di mormorare tra sé (il che era sia irrispettoso che inutile da parte sua):
+
+“Ma santo cielo, cinquantamila sterline!” Poi, con tono brusco: “Cosa sono cinquantamila scellini?”
+
+“Non importa affatto,” disse la signora con un sorriso. Ora che aveva ottenuto ciò che voleva, era piena di serenità e felicità. “Non è poi così importante. Aspetta solo che io mi sia sistemata, che tutta la gente del paese stia chiacchierando nel giardino, e poi uscirò, ci stringeremo la mano e tu dirai, qualunque cosa sia giusto dire,” concluse debolmente. Poi aggiunse con coraggio: “Oh, saranno giorni davvero felici!”
+
+Nella sua mente immaginava una processione infinita di scudieri e delle loro dame; sì, e anche uno o due dei grandi casati. I loro Rolls Royce parcheggiati davanti al nuovo garage che avrebbe costruito, perché avrebbero avuto un numero adeguato di auto. Sentiva le melodie dell’orchestra.
+
+Non è vero che le donne abbiano solo due giorni felici nella loro vita: il giorno del loro matrimonio e il giorno della loro morte. Ne hanno altri diciassette o venti nel corso degli anni, e quel giorno fu uno di quelli per Amathea. Lasciò suo marito così ricompensato.
+
+Amathea stava sfruttando appieno i servizi della sua cameriera; si vestiva con grande soddisfazione. Aveva vinto.
+
+Povero George, giaceva immobile nella sedia, troppo grande e troppo piccolo allo stesso tempo, enorme. Era stato sconfitto. Ma trovandosi solo, mormorò tra sé con un certo sollievo:
+
+“Ahi, tutte le donne sono andate a vestirsi adesso. Ci sarà un’ora di tranquillità. Resterò qui per un po’. Non c’è bisogno che vada da nessuna parte. Non ho mai dato molto valore a tutte quelle frivolezze. Che sciocchezza!”
+
+Ma appena quel breve monologo fu terminato, (oh, orrore!) la porta si aprì con forza e l’imponente Hilda entrò a grandi passi.
+
+“Oh, Lord Mere,” disse lei, ancora prima di sedersi accanto a lui, “mi dispiace, ma devo parlarvi un attimo. Vede, la verità è che mi hanno chiamato al telefono, e onestamente credo sia mio dovere dirvelo, ”
+
+“Che cosa?” disse il sfortunato Primo Barone, cercando di alzarsi aiutandosi con i bracci del divano troppo profondo su cui giaceva, per poi ricadere nuovamente indietro.
+
+“Vede, caro Lord Mere, tutto procede troppo in fretta, non è vero? Ma deve assolutamente conoscere questa offerta. Onestamente, penso che sarebbe un vero crimine accettarla senza informarla prima. So che lei è generoso, ma è anche l’uomo d’affari più astuto del nostro tempo. Mi disprezzerebbe se non le dicessi la verità.” A questo punto, il suo ospite interruppe con tono autoritario.
+
+“Non come altre volte che vi disprezzerei, signora Miple… Ma i numeri chiari e precisi mi piacciono davvero.”
+
+“Mio caro Lord Mere,” rispose la sua ospite, chinandosi verso di lui con sincerità e posando audacemente una mano sul suo ginocchio, “per essere del tutto onesta dopo la vostra franchezza con me. Ho appena sentito: hanno appena offerto 60.000 sterline.”
+
+“‘Oo’s they?’ chiese il suo ospite, con la cortesia di un mondo più antico.
+
+“E anche se mi hanno fatto promettere di non dire una parola,” continuò Aunt Hilda con fermezza, “penso sia giusto dirvelo. Ammetto che non mi piace perdere, caro Lord Mere, ma devo mantenere la mia promessa. Non avevamo fissato nulla, ma dopotutto vi avevo già offerto un prezzo più basso, vero? E sapete,” proseguì dolcemente, e persino con pensosità, “credo che essere onesti abbia in sé un valore morale. Lascia la coscienza in pace. E questo vale più di migliaia di cose.”
+
+“Yus, yus,” borbottò l’uomo anziano. Non prestava attenzione alle sue sciocchezze; pensava solo a Mattie. Sarebbe entrata di nuovo per vederlo mentre si vestiva. Sicuramente lo avrebbe fatto. Non poteva sopportare di essere importunato. “Una volta per tutte!” era il suo motto. “Era stato proprio questo a farlo diventare ciò che era, ”
+
+“Guardi qui, signora Miple,” disse lui, “non so cosa dire riguardo al suo telefono e a tutto il resto. E non voglio nemmeno saperlo. È una questione seria, tra amici. Ma devo comunque risolvere questa faccenda in un modo o nell’altro, e ho già preso la mia decisione: lei ha detto cinquantamila, e io le darò cinquantamila.”
+
+“Guinee”, mormorò dolcemente Hilda. “Guinee”.
+
+“Cinquanta migliaia di sterline”, rispose il suo ospite, alzandosi e parlando con una determinazione che lo faceva sembrare dieci anni più giovane; mentre parlava, batteva anche sul bracciolo imbottito della sedia bassa.
+
+“Oh, davvero! Lord Mere…”
+
+“Cinquanta migliaia di sterline, signora, e calcoleremo anche tutte quelle spese legali inutili per convertirle in ghinee. Allora, siete d’accordo?”
+
+Zia Hilda non aveva mai incontrato il lato più aggressivo del grande business, e devo dirvi con tristezza che ne fu spaventata a morte.
+
+“Molto bene, Lord Mere”, disse lei. “Molto bene.”
+
+“Ecco fatto, signora,” disse lui, concludendo l’accordo, e nel frattempo riuscì, dopo due tentativi, a alzarsi in piedi sulle sue povere vecchie gambe affette da gotta. “Cinquanta migliaia di sterline.”
+
+Non aveva mai imparato quelle stupide e banali abitudini sociali di una classe che al contempo invidiava e disprezzava; perciò si diresse verso la porta prima della sua ospite, e lei lo sentì mormorare mentre usciva, lasciandola lì, sia profondamente sollevata che profondamente offesa: “Cinquanta migliaia di sterline. E non l’avrei fatto per nessuno tranne che per Mattie. Cinquanta migliaia di sterline!”
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_01" data-title="The Haunted House — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/ghosts,motif/the_supernatural,concept/terror_and_horror,concept/fear,concept/deception,concept/greed_and_money,form/satire,form/novel,setting/rural_england"></span>
@@ -5274,6 +7466,62 @@ Bo kindly determined to bear him company in his loneliness.
 
 “Did you?” said Isabeau. “Well, perhaps someone did. I don’t know …”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIII
+
+Mentre si vestiva nella sua camera da letto, povero Lord Mere de Beaurivage non era affatto soddisfatto.
+
+L’aveva fatto solo per Mattie, e non era soddisfatto.
+
+Due parti completamente diverse di quell’uomo erano turbate: innanzitutto, la parte legata agli affari. Cinquantamila era una somma assurda; ne ebbe febbre (e questo lo fece ritardare nell’indossare i vestiti. Non voleva mai che qualcuno lo aiutasse). Era davvero mostruoso. Oddio! Conosceva persone che avrebbero accettato di riceverne la metà; anzi, lui stesso l’avrebbe presa per sé se avesse avuto il compito di sviluppare quel progetto. Ma Mattie la voleva.
+
+Più in profondità, e molto più grave, c'era quella nebbia densa e terrificante che appariva e scompariva, quasi invisibile nella sua coscienza. Lo preoccupava enormemente: era forse destinato a vivere sotto l'influenza di tali sentimenti negativi negli ultimi anni della sua vita? Continuava comunque a ritardare nel vestirsi. Ma loro sarebbero arrivati solo nei fine settimana da Londra. Quella casa a Mayfair non era certo una sciocchezza: anche se vecchia, almeno rispettabile. Lì un uomo poteva dormire in pace. Almeno nella parte posteriore, lontano dai motori. E poi, lo aveva fatto per Mattie.
+
+Se è vero che questo mondo è governato dall’appetito, dalla paura, dall’avarizia, dall’odio e dall’affetto, allora in questo caso l’affetto aveva vinto, almeno per il momento.
+
+Il povero vecchio ragazzo stava quasi finendo di vestirsi. Stava pettinando con cura quel rado ciuffetto di capelli bianchi sulla sua testa larga e robusta. Mentre lo faceva, iniziò a sentire un suono che gli sembrava un sussurro; lo seguì fino a scoprire che era solo una tenda che frusciava leggermente contro il muro, davanti alla finestra aperta. Un paio di volte si guardò intorno con aria perplessa, come se qualcuno potesse stare osservandolo. Ma si disse che doveva scacciare quei pensieri, altrimenti non avrebbe potuto continuare.
+
+Stava ancora lottando con il nodo della sua cravatta bianca (sebbene avesse seguito innumerevoli lezioni sull’arte di farlo) quando Mattie entrò, sembrando più giovane di quanto avrebbe dovuto, grazie al trucco e ad altri accorgimenti. Gli diede un bacio leggero per ringraziarlo ancora una volta; e si sentì un po’ consolato quando, più tardi, scese nel salotto e li trovò tutti in attesa che andassero a mangiare insieme.
+
+Durante la cena, per ordine rigoroso di Bo – poiché Bo ne sapeva molto di più sulla psicologia rispetto al Lord Hambourne – John non disse una parola riguardo allo spettro.
+
+Era una politica saggia concedere all’uomo anziano della corda, e uno spazio per respirare.
+
+Il colpo di sorpresa finale sarebbe stato ancora più grande; e la sorpresa è l’essenza della vittoria. Le istruzioni di John erano di non dire una parola al riguardo finché le donne non se ne fossero andate. E anche allora, agire con delicatezza, senza accelerare i tempi.
+
+Non poteva impedire a Lord Hambourne di comportarsi in modo ridicolo e di menzionare “La Cosa” una o due volte. Era proprio la sua maledetta professione quella di fare lo sciocco; tutti i nobili fanno così. Non poteva nemmeno impedire a suo padre di porre qualche domanda riguardo alle dimensioni delle cravatte di quei tempi, su come riuscissero a portare il cibo alla bocca indossandole, e se potessero vedere i propri piedi.
+
+Ma Hilda Maple aveva sempre più la sensazione che l’argomento fosse pericoloso; e anche se disponeva di cinquantamila sterline, come se le fossero nel portafoglio, era proprio quell’istinto a spingerla a cambiare argomento ogni volta che ne veniva parlato. Finché quelle donne erano presenti, però, quel problema non rappresentava un grosso problema.
+
+Ma quando se ne furono andati, John eseguì i suoi ordini e, mentre bevevano vino, parlò discretamente con i suoi tre ospiti.
+
+Parlava di apparizioni, di storie del Sussex, delle “sorti” delle case. Lusingava il Professor Turtle di Psicologia ascoltando con attenzione le sue argomentazioni. Riuscì con grande abilità a iniettare una dose di veleno nelle vene non certo eroiche di Lord Mere de Beaurivage, soprattutto facendo sì che l’argomento venisse menzionato, in modo piuttosto evidente, un paio di volte. Combatté su due fronti: sapeva infatti molto bene che Lord Hambourne non credeva affatto nell’esistenza di spiriti, né creativi né no, finiti o infiniti, umani o divini. E doveva quindi far sì che Lord Mere de Beaurivage si trovasse sempre più a disagio di fronte all’idea che uno spirito stesse avvicinandosi sempre di più a lui, in modo davvero inquietante.
+
+Gli uomini erano tornati nel salotto, e le prime parole che sentirono entrando furono quelle di Isabeau:
+
+“Beh, forse è solo una sciocchezza, come dici tu, ma non ho osato guardarmi nello specchio. Perché pensavo di aver visto qualcosa che mi osservava da dietro la spalla.”
+
+“E Hilda Maple rispondeva quasi con rabbia…”
+
+“Oh, basta davvero parlare di questa faccenda! Non capisco proprio perché qualcuno debba prenderla sul serio.”
+
+Allora, per porre fine a tutta quella assurdità, si affrettò a preparare quattro mazzi per giocare a briscola. Il Lord Hambourne fu il suo partner (non sarebbe mai stato opportuno litigare con il Lord Hellup); e quanto a Hellup, rappresentava un buon contrappeso per Amathea, la cui esperienza nel gioco di briscola era limitata. Anche se, a whist, si era sempre vantata delle sue abilità, dichiarando di essere ineguagliabile a cribbage.
+
+Lord Mere de Bruvvish sedeva da solo in un angolo più buio, dove ardeva un altro fuoco. Era stanco a causa di certe emozioni; aveva bisogno di riposo. Era ancora deluso. Quella cifra: 50.000 sterline, continuava a tornargli in mente. Una volta, mentre i giocatori di carte – che non voleva interrompere con alcun commento – pronunciavano i loro brevi monologhi (“Passo”, “Raddoppio”, “Ha preso picche”, ), gli balenò nella mente un terribile ricordo: una vocina molto vicina al suolo, malvagia e sinistra, nascosta tra i rododendri.
+
+Bo era deciso ad accompagnarlo nella sua solitudine.
+
+“È una notte stranamente silenziosa, non è vero, Lord Bruvvish?” disse Bo, sedendosi accanto a lui e parlando con aria sognante. “È insolito, questo silenzio della campagna. Non so, ” Ma proprio mentre parlava, si udì una risata molto debole, molto lontana, e per niente piacevole. Da dove provenisse, nessuno poteva dirlo, tranne John Maple, che stava osservando i giocatori con grande interesse.
+
+“Che, che cos’è?” disse Lord de Beaurivage, afferrando il braccio del divano e alzandosi di scatto.
+
+“Cosa era cosa?” disse Bo in modo innocente.
+
+“Pensavo, pensavo di aver sentito qualcosa, qualcosa come una risata, molto debole, ”
+
+“Davvero?” disse Isabeau. “Beh, forse qualcuno l’ha fatto… Non lo so…”
 
 
 
@@ -5368,6 +7616,96 @@ Lord Mere de Bruvvish fell back in his chair again like a man stunned. He gasped
 
 The bridge party looked round: that excellent wife broke off in the middle of a hand; she rushed — if such a form can be said to rush — across the room, and knelt by the chair.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+E ancora una volta, un po’ meno remoto, un po’ meno effimero, un po’ più definito, si udì quel riso beffardo di qualcosa di malvagio.
+
+Lord Mere de Beaurivage si alzò lentamente a sedere. Prese un grande fazzoletto di seta, si asciugò la fronte e disse:
+
+“Eccola lì, signorina Hellup! Proprio lì… Avrei potuto giurarlo…”
+
+Poi si riprese. Aveva paura di sembrare ridicolo, ma aveva davvero bisogno del sostegno umano.
+
+Isabeau arrossì improvvisamente, con un'espressione sorpresa.
+
+“Dove è il mio piccolo tesoro?” disse lei. Mentre lo diceva, guardò intorno e riuscì a scambiare uno sguardo furtivo con il suo amante. “Oh! Dev’essere successo qualcosa, Lord Mere. Il mio caro non mi lascia mai!”
+
+Passò accanto a John, mormorandogli: “Fatto!” Poi, ad alta voce e in modo piuttosto audace, disse davanti a tutti:
+
+#Un presentimento… Sta per succedere qualcosa!
+
+John Maple lasciò i giocatori di bridge, che solo per un momento alzarono lo sguardo dal loro gioco, e si sedette nel posto lasciato libero da Bo, accanto al suo ospite.
+
+“Non dovreste prendervela con la signorina Hellup, lord Mere,” disse. “Non è come le altre ragazze, intendo, per quanto riguarda le questioni spirituali. Penso che a volte lei riesca quasi a percepire l’altro mondo.”
+
+“Oh, ah!”, rispose l’uomo anziano, i suoi occhi gialli pieni di inquietudine.
+
+“Mi disse una volta che l’unica volta in cui si trovò in un luogo di grande malvagità, dove il male era ovunque intorno a lei, il primo segnale fu dato dal suo cane. I cani vedono cose che gli esseri umani non riescono a percepire.”
+
+“Davvero? Beh, ho sentito qualcosa del genere,” disse ansimando Lord Mere de Beaurivage.
+
+Mentre lo diceva, quel debole lamento proveniente dall’oscurità risuonò ancora più distintamente di prima; il povero vecchio signore fu quasi spaventato al punto di voler parlare. Ma sul viso di John non c’era alcun segno di riconoscimento. Lord Mere ricordava come il dottore gli avesse parlato di pressione sanguigna e di altre cose qualche mese prima, avvertendolo che, se avesse sentito voci o visto immagini proprio mentre stava per addormentarsi, non doveva allarmarsi. Ma lontano, al tavolo del bridge, Lord Mere riuscì a captare ciò che veniva detto: era Lady Mere de Beaurivage che chiedeva a Lord Hellup cosa avesse turbato Isabeau.
+
+“È preoccupata per il suo cane. Pensa che abbia paura. A volte succede davvero. Credete che stia vedendo qualcosa?”
+
+L’inevitabile Hambourne intervenne proprio nel momento in cui era meno desiderato.
+
+“Gli animali spesso percepiscono queste influenze prima di noi,” disse, poi alzando improvvisamente la voce: “Abbiamo ispezionato una casa che un tempo fu teatro del più disgustoso omicidio, ”
+
+“Lord Hambourne,” disse la signora Maple con tono deciso, “mi avete fatto dimenticare. Era una spada?” Ma Lord Hambourne continuò imperterrito per la sua strada.
+
+“Una particolare attenzione va dedicata alla violenza.”
+
+“Davvero, Lord Hambourne,” disse la sua ospite, un po’ troppo bruscamente. “Non posso suonare se continuate a parlare in questo modo. Non riesco a fare due cose contemporaneamente.”
+
+# Lady de Beaurivage era una marionetta… Sentì suo marito sussurrarle: “Mattie!”
+
+“Che c’è,” disse lei avvicinandosi a lui.
+
+“Mattie, non hai sentito nulla… nessuna voce, vero?”
+
+“Ehi, amico, non essere così brusco! Mi hai davvero fatto prendere un colpo di freddo, sai?”
+
+“Non dire che non hai visto nulla, Mattie… Non è vero che non hai visto nulla, vero?”
+
+“No… Ma poco fa ho visto qualcosa di strano riflesso nello specchio.”
+
+“Non farlo, Mattie, per favore. Non ce la faccio più. Non ora. Me ne andrò a letto presto. Non ce la faccio davvero.”
+
+Poi arrivò la voce di Hilda Maple che la chiamava: “Amathea, cara, un altro accordo”, e Amathea tornò riluttante alle carte.
+
+John e il vecchio signore sedevano insieme in silenzio, fissando il fuoco. L’uomo più anziano aveva sentito, o pensava di aver sentito, beh, cosa?
+
+Lottava contro quell’influenza. Provò a mantenere il silenzio, poi cercò di parlare di altre cose; ma di nuovo sentì, o pensò di sentire, una Voce così debole da sembrare senza corpo, un suono impercettibile nell’aria, ma profondo e pieno di una tristezza insopportabile. Mentre pensava di averla sentita, vide John alzarsi e guardare verso l’angolo più buio, dove la luce del fuoco non raggiungeva; lì c’era uno scaffale pieno di libri, vicino alle tende tirate della finestra. Lord Mere gettò uno sguardo paralizzato, afferrò con forza il braccio di John Maple, strinse gli occhi verso quel punto buio e sussurrò, più che dire.
+
+“Ha sentito qualcosa, signor Miple?” John non rispose subito; quando lo fece, disse:
+
+“Forse, Lord Mere, ” Poi abbassò lo sguardo. “Non lo so davvero. È meglio non pensare troppo a queste cose, ”
+
+Parlarono per tutto il tempo necessario affinché l’uomo anziano potesse riacquistare la calma; quando quel suono tornò ancora, questa volta più chiaro e distinto, sebbene ancora distante e come proveniente da un fantasma.
+
+“Oh, signor Miple, l’ho sentito chiaramente! Diceva ‘La Notte’, signor Miple… Davvero, lo diceva!”
+
+Ora nei suoi occhi c'era terrore; stringeva convulsivamente il braccio di John Maple. John Maple scosse leggermente la testa, come se cercasse di liberarsi da qualche cattiva influenza.
+
+“Sì, signore,” disse. “Allora possiamo andare?”
+
+Allora, all'improvviso, si sentì la voce di Isabeau mentre correva giù per le scale; era terribilmente forte.
+
+“Povero piccolo Lovey-Lad. Povero cagnolino!” gridò lei.
+
+I sfortunati giocatori a dama, interrotti ancora una volta, alzarono lo sguardo.
+
+“L’hai trovato?” balbettò Lord Hambourne.
+
+“Oh, sì. Piangeva e tremava così tanto che non riuscivo a sopportarlo. Si era rannicchiato lì sul pianerottolo, tutto tremante. È ancora lì. Non sono riuscita a calmarlo, quindi ho provato a portarlo via. Ma era completamente fuori di sé; mi ha morso. Per la prima volta in vita sua. Povero piccolo!” Poi abbassò la voce e, appoggiandosi alla ringhiera verso la fine della discesa, disse con isteria: “Dev’essere qualcosa in questa stanza, ”
+
+Lord Mere de Bruvvish si appoggiò di nuovo alla sedia, come se fosse stato colpito da uno shock. Trasalì; afferrò con forza i bracci imbottiti su cui teneva le mani, si appoggiò allo schienale e iniziò a respirare affannosamente, come se avesse appena fatto un intenso sforzo fisico. La testa gli ricadde all’indietro e chiuse gli occhi. Poi gridò ad alta voce:
+
+“Mattie!”
+
+Il gruppo riunito sul ponte si guardò intorno: quella meravigliosa moglie interruppe improvvisamente la sua attività; corse – se si può davvero parlare di correre in quel contesto – attraverso la stanza e si inginocchiò accanto alla sedia.
 
 
 
@@ -5469,6 +7807,102 @@ This was too much for Lady de Beaurivage.
 “In this particular c-c-c-ase,” broke in the unfortunate Hambourne again, “what with the d-d-dog, it may be suggestion. It’s a kind of h-h-hyp …” He swallowed after that syllable, tried it again and added, “nosis.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Che c’è che non va, George?” disse lei. “Che cosa è successo?”
+
+“Sono nel giusto. Devo essere nel giusto. Sono venuto in modo strano. Non avrei dovuto chiamarti. Torna indietro, cara. Torna indietro.”
+
+“‘Che dolore, come se gli fosse stato tolto qualcosa?’ disse la gentile donna a John Maple.”
+
+“Non è nulla. Sono sicuro che non sia nulla, Lady Mere,” disse John alzandosi in piedi. “È stato qualcosa. Quella notte. E tutte queste storie di [[Ghosts|fantasmi]] lo hanno reso nervoso.”
+
+“Mattie,” disse l’uomo povero a bassa voce, “Mattie, devo andare a letto. Le chiedo scusa, signora,” aggiunse rivolgendosi alla sua ospite, “ma sono davvero troppo stanco. Non sono più giovane come una volta.”
+
+Mattie lo accompagnò con affetto nel salone, gli diede la sua candela e lo guardò con ansia.
+
+“Sei stanco, caro”, disse lei, “hai ragione quando dici di essere stanco”.
+
+“Starò bene, Mattie,” disse. “Non preoccuparti per me. Mi troverai addormentato. Starò davvero bene.”
+
+Ma lo guardava con ansia, alzando lo sguardo mentre la sua figura ingombrante e claudicante saliva faticosamente le scale, con una candela in mano. Lui si girò a guardarla e sorrise. Era una buona moglie; tornando nel salotto insieme agli altri, pensò se non dovesse andare da lui: stava iniziando a condividere le sue paure.
+
+La signora Maple era sconvolta, e non riusciva a nasconderlo.
+
+“Beh,” disse lei, “quanto è possibile contare in mezzo a tutto questo, ne ho contati 364.”
+
+Lord Hambourne pensava di intrattenersi in una conversazione, ma purtroppo non ci riuscì.
+
+“Come stavo appena dicendo, intendo parlare dell’omicidio, ” iniziò.
+
+La sua ospite lo interruppe.
+
+“Sì, è stato molto spiacevole,” disse in fretta. “Ma aiutami con questo, per favore. Riesci a farlo diventare 364?”
+
+“Quattro, quattro!” disse Lord Hambourne, un po' perplesso di fronte a tale controllo. Aggiunse i numeri. Gli fece piacere, perché di certo non avrebbe potuto pagare se avesse perso; ma in realtà non aveva perso.
+
+Fu durante il silenzio che seguì, mentre Hilda Maple era nel terrore che potesse essere detto qualcos’altro che disturbasse l’acquirente di Rackham Catchings, che Corton entrò portando con sé i bicchieri e i decanter su un vassoio.
+
+Ma non era più il Corton di un'ora prima. Per la prima volta in trent’anni, quell’uomo straordinario mostrava segni di mancanza di autocontrollo. Entrò troppo velocemente; tremava leggermente, e mentre avanzava dimenticò completamente se stesso al punto da guardarsi alle spalle. E proprio in quel momento fece cadere un bicchiere.
+
+“Mio Dio, Corton!” gridò sua padrona infuriata. “Cosa stai facendo? Che succede?”
+
+“Mi dispiace, signora,” disse lui, con i denti che tremavano davvero. “Non sono del tutto me stesso, di notte, signora.”
+
+“Sembra proprio così,” rispose la signora in tono freddo, mentre lui posava il vassoio.
+
+Allora si chiese se fosse sveglia o stesse sognando. Perché vide quel rispettabile servitore dirigersi non verso la porta, ma verso la finestra che dava sul prato, come se volesse uscire da quella strana via. Con uno sguardo rapido, che le confermò che i suoi ospiti erano impegnati, lo seguì e gli sussurrò rapidamente:
+
+“Cosa stai facendo, Corton?”
+
+“Per favore, signora,” disse l’uomo sfortunato, guardando con orrore la porta da cui era appena entrato, “preferirei non tornare di là.”
+
+“Non tornare di là!” sussurrò arrabbiata la signora Maple, guardandolo dalla testa ai piedi. “Sei impazzito?”
+
+“No, signora. No, non sono pazzo.” Si passò la mano sulla fronte: quali grandi poteri si nascondono a volte nell’uomo, anche molto tardi nella vita! Ora Corton era completamente immerso nello spirito dei romanzi da cui prendeva ispirazione. “No, signora,” disse di nuovo, con voce tremante e un tono tragico, “non sono pazzo.”
+
+“Corton,” disse la signora Maple, “sei una vergogna… Sei ubriaco.”
+
+La sua unica risposta fu scuotere tristemente la testa.
+
+“È ancora peggio nel passaggio, signora… Non ce l’ho fatta a sopportarlo… Non posso tornare di là.”
+
+“Non continuare a ripetere quelle cose come un pappagallo!” disse Hilda Maple con passione, sempre usando lo stesso tono basso. I suoi ospiti avrebbero potuto notare da un momento all’altro cosa stava succedendo. Prese l’iniziativa e aprì lei stessa la finestra: se non avesse agito rapidamente, sarebbe scoppiata una scenata. “Allora torna di là dal prato, stupido!” gli disse sottovoce; poi, rivolgendosi alle persone presenti in tono allegro e deciso, aggiunse: “Non vi dispiace che io apra la finestra, vero? È una notte incredibilmente calda e afosa per questa stagione. Vi fa bene l’aria fresca?”
+
+I suoi ospiti assicurarono a Hilda Maple che non avevano nulla in contrario all’aria presente nella stanza. Ma Lord Hellup, che aveva assistito alla fine di quella piccola “transazione”, disse qualcosa di sbagliato. Lo disse direttamente alla sua padrona di casa, e ciò che disse fu:
+
+“Quel tizio è sconvolto!”
+
+“Oh, niente di grave,” disse la signora Maple. “Non dovete dargli peso. Quasi sempre è così intorno alle undici di sera.”
+
+Lord Hellup era molto interessato.
+
+“Dici davvero? Forse è perché non beve abbastanza. Quando gente del genere smette di bere per un po’, i loro nervi semplicemente si deteriorano, ”
+
+La situazione stava peggiorando sempre di più. Gli altri iniziarono a prestare attenzione, e Lord Hambourne non mancò di comportarsi secondo le sue abitudini: intervenne immediatamente.
+
+“Inibizione,” iniziò a dire, “con i suoi inevitabili conseguenze, ” Ma la signora Maple lo interruppe bruscamente.
+
+“Non fatelo, Lord Hambourne! Non parlate più di questo! Non è per quello. È a causa della religione. Dice lunghe preghiere dopo cena.”
+
+“Non è naturale, non per un maggiordomo”, fu il commento di Lord Hellup.
+
+Ma Lord Hellup ne aveva visti pochi.
+
+“Pregare,” intervenne il Professore nel suo solito modo affettato, “è un noto sintomo o una manifestazione di mania religiosa.”
+
+“Forse,” suggerì Lord Hellup, “gli ha spaccato la testa a quel tizio.”
+
+“Non esiste nulla del genere,” interruppe improvvisamente zia Hilda.
+
+Questo era troppo per Lady de Beaurivage.
+
+“Ma come, Ilda,” disse lei, con autentico stupore, “tu stessa l’hai detto a Bruvvage e a tutti noi. E questo fa parte delle regole della plice, no?”
+
+“Sì, sì, certo,” disse la sua ospite. “Ti ho raccontato quella storia, quella leggenda. Molti vecchi edifici ne hanno, sicuramente lo sai. In realtà non c’è nulla di vero.”
+
+“In questo particolare c-c-caso,” intervenne di nuovo l’infelice Hambourne, “con quel c-c-cane, potrebbe trattarsi di una s-s-sugestione. È una sorta di h-h-hipnosi, ” Deglutì dopo quella sillaba, provò di nuovo e aggiunse: “ossessione.”
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_04" data-title="The Haunted House — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/ghosts,motif/blood,concept/terror_and_horror,concept/fear,concept/deception,concept/superstition_and_omen,form/satire,form/novel,histref/elizabethan_england"></span>
@@ -5537,6 +7971,70 @@ Amathea Lady de Beaurivage dashed to the door with an inspired shriek: “It’s
 The others followed her, and in a rapid, thrusting group they all rushed through the hall and up the stairs.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lord Hellup osservò che, se si trattava di qualche problema alla coscia, conosceva un esperto in Park Lane. Disperata, la signora Maple cercò di porre fine a tutto dicendo: “No, no, no. Lord Hambourne intende dire ipnosi, o qualcosa del genere, vero, Lord Hambourne?”
+
+“E Lord Hambourne la consolò ripetendo: ‘Quate, quate’.”
+
+Sembrava che i problemi fossero finiti; ma lei aveva passato momenti difficili. Il telefono squillò; John Maple sollevò il ricevitore e rispose. Poi si rivolse a sua zia.
+
+“È dalle scuderie, zia Hilda… Vogliono parlarti.”
+
+“Mi vogliono?” disse la signora Maple, incredula. “Cosa possono volere dalle stalle a quest’ora di notte?” Prese in mano la macchina.
+
+“Sì?. Oh, che sciocchezze!. Sì? Beh, spesso in queste notti calde diventano irrequieti. Cosa! Corton? Corton non c’entra nulla. Non dare retta a una parola di quello che dice Corton. Cos’è? Il nuovo cavallo è agitato? Beh, vai e tranquillizzalo. Cosa?. Non essere codardo. Vai e accarezzagli il collo, la groppa. Accarezzalo dove vuoi. Sei lì? Sei lì? (Batteva il piede per la frustrazione.) SEI LÌ? Ehi, perché te ne sei andato?. Bene, ora è più calmo, vero? Beh, non disturbarmi più. Chiamami Alphonse. Lui non crede a queste sciocchezze,” aggiunse, alzando lo sguardo sui suoi ospiti. “È un comunista, sai. Conosce molto bene di macchinari, quindi non crederà mai in tutte queste stupidaggini. Sarà un ottimo rimedio per quegli idioti.”
+
+Di nuovo sperò di essere riuscita a fermare la situazione in declino. Ma Lord Hambourne non fallì.
+
+“È tutto molto, molto interessante,” iniziò quel noioso accademico. “È davvero affascinante. Gli animali ricevono messaggi subliminali. E il mio collega, il professor Jonah, ha dimostrato che, sebbene i motori umani siano insensibili a questi segnali, gli equidi invece, ” Ma proprio in quel momento l’aria fu squarciata da un grido autentico, proveniva da Isabeau. Stava indicando verso l’oscurità.
+
+“Oh! Oh, mio Dio… Qualcosa è passato davanti alla finestra!”
+
+“Misericordia!”, esclamò la compassionevole Lady Mere de Beaurivage. “Anch’io l’ho visto!”
+
+La pazienza della signora Maple stava per esaurirsi.
+
+“Mia cara Amathea… Isabeau, torna indietro: qualcuno nella casa potrebbe passare da un momento all’altro.”
+
+Ma, ahimè! le sue parole erano ancora più vere di quanto lei stessa sapesse; perché una truppa li stava attaccando. Entrando nel raggio di luce che proveniva dalla finestra e si estendeva sul prato, apparve Corton; dietro di lui c’era l’intera forza delle truppe degli uffici militari. Mentre Corton avanzava rispettosamente alla testa del suo reggimento, si poteva vedere, pienamente visibile attraverso la finestra alle sue spalle, la robusta figura della cuoca, la signora Fry, Betsy Broom, le cameriere, il ragazzo, il valletto e tutti gli altri. Solo Alphonse mancava.
+
+Corton, dopo un colpo di tosse sepolcrale ma rispettoso, chiese il permesso di entrare e li fece accomodare.
+
+“La mia collega, signora, la signora Fry, e gli altri miei colleghi, insieme ai domestici e alla cameriera Broom, hanno insistito per vedervi. E ho pensato fosse meglio accompagnarli. Non avrebbero voluto passare da quella parte, ” — e fece un gesto con la mano in direzione del corridoio.
+
+“Torna subito indietro, ” aveva iniziato la signora Maple, “e io verrò da te, ” quando a sua volta intervenne la signora Fry.
+
+“Non ce la faccio più, signora. No, davvero non posso! Nemmeno se fosse la stessa Regina, capisce?”
+
+“Davvero, signora Fry!”, ordinò la signora Maple. Ma il suo comando non ebbe alcun effetto.
+
+“No,” continuò la signora Fry, alzando il tono della voce, “neanche se fosse la stessa Sacra Maestà, la regina Vittoria, a tornare in vita. Non ce la faccio proprio.”
+
+“Oo — oo — ooo!” gemette la cameriera Broom; la signora Fry si azzardò a consolarla.
+
+“E questa povera bambina, signora. Lei la prova proprio come gli altri. Ho fatto del mio meglio per consolarli. Mi sento come una madre per tutti loro, davvero. Ma,” e qui abbassò la voce a un sussurro doloroso, “ciò che c’è in questa casa stasera, non è carne né sangue.”
+
+“Siete un branco di sciocchi!”, gridò la signora Maple, fuori di sé. Ma Corton continuò con serietà:
+
+“L’omicidio, signora, è stato commesso sotto questi antichi alberi del tetto.” E indicò la trave antica. “Durante il regno della Regina Vergine. È avvenuto proprio questa notte, signora. Osservo religiosamente questo anniversario da trent’anni. Da quando ero solo un ragazzo che portava i coltelli, signora. E ora lo Spirito Inquieto non troverà pace.”
+
+“Signor Corton,” disse con orgoglio la signora Fry, “conosce tutta la storia come se fosse un libro, signora.”
+
+“Il sangue, signora,” continuò Corton con coraggio, mentre i singhiozzi delle donne dietro di lui aumentavano, e povera Bo si mise le dita nelle orecchie, “il sangue scorreva giù per le scale, sotto la porta della Camera Blu. La stanza di Lord Mere de Beaurivage, signora.”
+
+Ma la signora Maple era decisa a porre fine a tutto ciò.
+
+“Guardate qui tutti: si tratta solo di sciocchezze, e per di più pericolose. Se volete restare svegli tutta la notte, non posso impedirvelo. Tornate indietro attraverso il prato, voi tutti, e vi seguirò. E tu, Corton, ” — si rivolse a lui — “devo avere una spiegazione da te.” E con queste parole guidò il gruppo di fronte a sé, attraverso la notte. Va aggiunto soltanto che la sua presenza rappresentava un conforto per loro, tranne che per Corton.
+
+Gli ospiti si guardarono l’un l’altro in silenzio: Lord Hambourne con un interesse palesemente disgustoso, Lord Hellup con un divertimento discreto, Isabeau che si ritraeva come se ci fosse di peggio in arrivo, e povera Lady de Beaurivage scossa quasi quanto suo marito. Nessuno aveva ancora parlato. La voce di Mrs. Maple si sentiva in lontananza, oltre il prato, mentre lei diceva addio a Corton prima di rientrare in casa. Attraversò nuovamente il prato e entrò nella stanza.
+
+Mentre lo faceva, si udì sopra di lei un forte rumore, come se un corpo pesante fosse caduto a terra, accompagnato da un grido acuto e terribile. Poi silenzio totale.
+
+“È mio George!” gridò Amathea Lady de Beaurivage, correndo verso la porta con un grido di gioia.
+
+Gli altri la seguirono; tutti insieme, in un gruppo veloce e deciso, si precipitarono attraverso il corridoio e su per le scale.
+
 
 
 <span class="atom-split" data-atom="chapter_14" data-title="The Haunted House — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="archetype/ghost,motif/ghosts,motif/the_supernatural,motif/wine_and_drink,concept/terror_and_horror,concept/fear,concept/deception,form/novel,histref/elizabethan_england"></span>
@@ -5589,6 +8087,54 @@ Amathea was the first of them, kneeling by her husband, trying to lift him up in
 Three of the menservants hoisted the motionless form and got it on to the bed. He was breathing. His eyes opened for a moment, but he stared vacantly, seeing no one, and with yet another loud cry and a shudder his head fell back upon the pillow.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIV
+
+Al piano di sopra, nella sua camera da letto, quel povero vecchio solitario – solitario, tranne che per sua moglie (e quanto fosse grato per il modo in cui lo aveva trattato, e per quello sguardo che gli aveva rivolto mentre lui saliva faticosamente le scale) – sedeva ad aspettare di riprendersi dopo quella salita. Le scale rappresentavano ora un grande problema per lui, la sua salute stava peggiorando, pensò. Forse era proprio questo il motivo delle sensazioni che provava, di ciò che credeva di aver sentito; e si strinse nelle spalle. Non si sarebbe spogliato subito, avrebbe riposato un po’, solo per riprendersi un attimo, poi si sarebbe rivestito. Allora si sarebbe sentito più in forza.
+
+Un colpo da qualche parte. Forse proveniva dal piano di sotto, ma nelle sue condizioni pensò che fosse alla sua porta, e questo lo fece sobbalzare.
+
+“Entra pure!”, disse.
+
+Non ci fu alcuna risposta; il suo viso divenne pallido. Si riprese e si chinò in avanti, con fatica, per prendere il bastone da fuoco e ravvivare il fuoco. Ma lo lasciò cadere con un forte rumore che lo spaventò di nuovo.
+
+“Stupidità!”, mormorò.
+
+Sentì bussare di nuovo. Questa volta non disse “Entra!”. Si sforzò di alzarsi dolorosamente dalla sedia e spalancò la porta. Fuori c'era solo oscurità vuota. Chiuse la porta e, cadde, piuttosto che sedersi nel posto che aveva appena lasciato.
+
+“George,” disse tra sé e sé, a mezza voce, “George, riprenditi! Questo non può andare avanti così. Sei troppo nervoso, George. Ricordi cosa ha detto il dottore riguardo alla pressione del sangue? Ha detto ‘Niente whisky’, vero? Beh, non so se sia giusto o meno, ma so che a me aiuta.” Allungò la mano verso il tavolo accanto a sé e prese la sua fiaschetta: una grande fiaschetta con un bicchiere d’argento inciso sopra, oltre al suo stemma araldico – tre mancuses divise da strisce diagonali e il diavolo su uno sfondo blu. Il tutto intagliato sulla superficie della fiaschetta. Luccicava sotto la luce soffusa dell’abat-jour sul tavolo, nonché al caldo bagliore del fuoco. Non c’era altra luce nella stanza.
+
+Versò lentamente il liquore forte nella coppa d’argento.
+
+“Ti calmerà, George,” disse lui.
+
+Sotto di sé, sentì il rumore di molte voci. Troppo tante, pensò, per quei pochi ospiti. Ma sembrava proprio compagnia. Poi udì persone muoversi sul prato: forse alcuni vicini erano entrati e poi se n’erano andati. Alla fine, le voci si calmarono. Prese il primo sorso di whisky, quello pre-guerra.
+
+“Meglio così, George,” disse. “Così starai bene.”
+
+Il suo dorso, mentre sedeva nella poltrona profonda di fronte al fuoco, era rivolto verso la porta laterale che conduceva alla piccola stanza in fondo al corridoio. Quella porta si apriva così silenziosamente che lui non sentì alcun rumore, nonostante fosse molto teso.
+
+Aspettò un momento; meno solo ora, sollevò di nuovo la coppa d’argento per un altro sorso. Quando, non sapeva se nella sua mente o dall’aria intorno, sentì un fruscio, una sensazione di presenza nella stanza, vicino al letto. Quel suono lo fece fermare; ancora con la coppa in mano, la tenne sospesa a mezz’aria, fissando davanti a sé. Allora udì quelle parole supplichevoli provenire da molto lontano:
+
+“Non di nuovo, George… Oh, no, ancora una volta! È tutta colpa tua!”
+
+“È la voce di mia madre, ”, mormorò l’uomo anziano con un sussurro terribile.
+
+Lasciò che la tazza cadesse a terra ai suoi piedi, senza curarsi del liquido che si versava sul tappeto. La sua mano tremava, così come tutto il suo corpo.
+
+“La sua voce, ”, disse di nuovo, paralizzato dal terrore.
+
+Una mano emerse da dietro la testiera del letto; un polso avvolto nel nero. Lord Mere de Beaurivage non la vide. Stava fissando il vuoto davanti a sé. Era la Sua Voce.
+
+La mano trovò l'interruttore, e tutto d'un tratto fu buio, tranne che per il bagliore del fuoco. Aveva sentito soltanto dei suoni molto deboli; guardò intorno in quell’oscurità. E là lo vide, chiaramente visibile nella penombra proiettata dalle braci sul damasco rosso scuro e sulla tappezzeria: ciò che aveva visto troppo spesso quel giorno, nel suo stato d’animo sconvolto. Era lì, per quella mezza seconda in cui ancora riusciva a mantenere la ragione. Si alzò sulle gambe doloranti e cercò di avvicinarsi, con la bocca aperta e emettendo suoni inarticolati. Era lì, accanto al letto, contro il muro: un bagliore sulla impugnatura della spada. Alta, nera. Troppo vaga per essere chiaramente riconoscibile. Ma quel colletto bianco spiccava vividamente. E sopra di esso, nulla. Solo il muro. Mentre la guardava, vide una mano emergere lentamente da sotto il mantello. Emise un grido acuto e cadde a terra.
+
+In un istante, la figura aveva superato l’uomo caduto, era entrata nella stanza accanto e aveva girato la chiave. Ma per quanto rapida fosse stata quella mossa, proprio mentre girava la chiave nella serratura, il rumore di passi affrettati risuonò lungo la scala di legno; la porta principale della camera da letto si aprì all’improvviso, tutte le luci furono accese e un gran trambusto scoppiò: ospiti e servitori si precipitarono nella stanza, chiedendosi se ci fosse qualcuno vivo o morto lì dentro.
+
+Amathea fu la prima di loro: si inginocchiò accanto a suo marito, cercando di sollevarlo tra le braccia, chiamandolo per nome e singhiozzando ad alta voce.
+
+Tre dei servitori sollevarono il corpo inanimato e lo adagiarono sul letto. Respirava ancora. I suoi occhi si aprirono per un momento, ma fissarono il vuoto senza vedere nessuno; dopo un altro grido forte e un brivido, la sua testa ricadde nuovamente sul cuscino.
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_01" data-title="The Haunted House — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/ghosts,concept/fame_and_publicity,concept/greed_and_money,concept/deception,concept/vulgarity,form/satire,form/novel"></span>
@@ -5639,6 +8185,52 @@ He hung up the receiver, just in time, as the shuffling of someone descending ca
 In the grey light of morning Lord Hambourne had taken up the telephone again. He felt secure. They had all been lying down, dressed as they were, exhausted, and he himself in his evening clothes, looking crumpled and dishevelled in the new light, was the only one doing business.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XV
+
+Quella notte, il mondo di Rackham cambiò completamente: messaggeri che andavano avanti e indietro; il telefono che non smetteva di suonare; un'infermiera dell’Ospedale Cottage; un'altra infermiera chiamata d’urgenza da Lewes; il medico locale, che si era alzato in fretta dopo una notte insonne e che, appena sentito il nome del suo paziente, fu travolto dalla gioia. Lanterne che andavano avanti e indietro nella notte primaverile, mentre persone venivano inviate a svolgere compiti diversi; motori che ronzavano, vibravano, emettevano suoni stridenti. Tutti gli esseri umani erano svegliati in modo innaturale.
+
+Nel frattempo, al piano di sopra, Amathea sedeva accanto al letto di suo marito, felice di sentire il suo respiro: significava che era ancora vivo. Sembrava una volgare regina del Rinascimento, appartenente a quelle famiglie commerciali potenti, con labbra grandi e curve verso il basso; era decisa su ciò che doveva fare. La rabbia ardeva nel suo cuore.
+
+Inviava ordine dopo ordine, e i servitori di Hilda Maple obbedivano umilmente. Li fece chiamare un'ambulanza affinché arrivasse a Rackham Catchings entro le nove del giorno seguente, né un secondo in ritardo, altrimenti le conseguenze sarebbero state terribili per loro; inoltre, doveva trattarsi dell’ambulanza migliore che Maxton potesse fornire, visto che il suo servizio è attivo tutta la notte. Fu lei stessa ad ordinare l’arrivo degli infermieri e dei medici, spesso raddoppiando le richieste della padrona di casa.
+
+Fece di più. Era determinata affinché suo George potesse tornare a casa sua a Mayfair per riprendersi – se solo Dio glielo avesse concesso – e sapeva che i domestici sarebbero già andati a letto. Così inviò un messaggio attraverso un ufficio aperto tutta la notte, affinché preparassero tutto entro la mattina.
+
+Aveva pensato a tutto. Eppure fece tutto ciò dal posto in cui era seduta, senza muoversi dal letto, mandando una persona dopo l’altra ad eseguire i suoi ordini.
+
+Era mezzanotte e un quarto quando finalmente ricevette le risposte definitive. Era ancora sola nella stanza, insieme all’uomo semi-incosciente che mormorava continuamente. Aveva dato ordini severi: nessuno doveva essere ammesso fino a quando lei non lo avesse permesso; infermiere e medici aspettavano, mentre Hilda, in preda all’ansia, attendeva nel salotto al piano di sotto.
+
+George Huggins si mosse. Amathea si chinò sul letto e cercò di capire quelle parole confuse che uscivano da quelle labbra che conosceva da tutta la vita e amava tanto. L’uomo anziano si appoggiò sul gomito; per un istante, uno scintillio di lucidità apparve nei suoi occhi mentre li fissavano nei suoi.
+
+“Mattie…”, sussurrò con voce rauca, “sei tu?”
+
+Sorrise in modo stupido. Poi il suo viso cambiò drasticamente, e continuò a parlare con voce sempre più alta…
+
+“Non c’è più, non c’è più, Mattie! Oh, oh! OH!” E con un orribile grido si abbandonò di nuovo all’indietro, continuando a mormorare; ma di tanto in tanto si alzava a metà seduto, indicando qualcosa, afferrandola e dicendo: “È lì! È lì! Tienilo lontano, Mattie! Tienilo lontano!”
+
+Sapeva cosa era successo. Lui l'aveva visto. La sua rabbia crebbe enormemente; ma la contenne. Lasciò entrare i medici e le infermiere. Hilda Maple, già provata dalla stanchezza e che mostrava gli effetti dello stress, li seguì timidamente; ma Amathea, Lady Mere de Beaurivage, non appena vide la sua ospite, esclamò con forza: “No, quella no! Tenetela fuori, tenetela fuori!” E povera Hilda dovette arrendersi e andarsene.
+
+I servitori si erano già coricati; anche Hilda si sdraiò, vestita com'era, senza nemmeno slacciarsi troppo, nella speranza di riuscire a dormire un’ora o due. Ma il sonno non arrivava.
+
+John, nella sua stanza, dopo aver aiutato a inviare innumerevoli messaggi e risposte, cercò anche lui di dormire e riuscì a riposare un po’, sebbene in modo irregolare; ma la sua coscienza continuava a tormentarlo.
+
+Lord Hellup riteneva fosse suo dovere rimanere sveglio nella Piccola Stanza Rossa, e così fece, con l’aiuto di sigari come Motley e altri simili.
+
+Di tutta quella famiglia, solo Isabeau dormiva serenamente, dopo aver visto tutto sistemato. Così fanno i grandi conquistatori nella notte della vittoria: William di Falaise nella sua tenda dopo Hastings; il signor Gulp all’Ritz dopo l’accordo con Pugley, prima di dimettersi in condizioni di agio dalla carica di Segretario di Stato.
+
+Mentre l’agonia proseguiva al piano di sopra, Lord Hambourne dimostrò un’iniziativa ben al di là delle sue abilità accademiche. Ma era un uomo il cui ingegno era stato affilato dalla povertà. Non era la prima volta nella sua vita che mostrava quelle qualità che, con una fortuna diversa, avrebbero potuto fargli guadagnare milioni. Non aveva forse ottenuto la cattedra di Psicologia? Ora ne aveva un’altra opportunità e intendeva coglierla. Aveva già scoperto l’informazione principale, ascoltando casualmente due frasi mormorate dal servitore spaventato. Lasciandoli alle loro sofferenze al piano di sopra, entrò silenziosamente nel salotto deserto, prese il telefono e chiamò “The Howl”. Non era troppo tardi per un comunicato urgente in quel giornale dinamico. Almeno per l’edizione di Londra.
+
+Carter si trovava all’altro capo del filo. No. Non doveva essere fatto secondo le solite procedure. Gli spiegò molto velocemente, con un tono basso e preciso, riuscendo a superare il suo balbettio, ciò che era accaduto, ma non gli fornì né il luogo né il nome.
+
+No. Non doveva essere incluso nel contratto. Si trattava di un pagamento separato di 100 sterline, annunciato lo stesso giorno. Accetterebbe quella promessa verbale fatta al telefono? Sì, l’accetterebbe. Carter non poteva assumersi quella responsabilità? Allora doveva rinunciare a quell’informazione. Oh, forse poteva farlo. D’accordo, gli avrebbe creduto. Il luogo in questione era Rackham Catchings, e l’uomo in questione era proprio Bruvvish. Sì, si trattava davvero di un’informazione importante, vero? Carter avrebbe potuto lasciare istruzioni affinché qualcuno fosse presente quando avesse richiamato, così da poter pubblicare l’articolo sul giornale del pomeriggio? Gli sarebbe stato difficile raggiungere il telefono dopo che tutti se ne fossero andati. Aveva bisogno di qualcuno che rispondesse alle chiamate tra le sei e le sette di mattina. Sì, era tutto ciò di cui aveva bisogno.
+
+Riattaccò il ricevitore proprio in tempo: si sentivano i passi di qualcuno che scendeva le scale, mentre sopra c'erano urla e consigli confusi nell’aria. Riuscì a raggiungere l’atrio e a mescolarsi con loro prima che notassero la sua assenza.
+
+* * *
+
+Nella luce grigia dell’alba, Lord Hambourne prese di nuovo il telefono. Si sentiva al sicuro: tutti erano sdraiati, ancora vestiti e stanchi; lui stesso, con i suoi abiti da sera, appariva sgualcito e disordinato sotto quella nuova luce, ma era l’unico a occuparsi delle faccende quotidiane.
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_02" data-title="The Haunted House — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/ghosts,concept/fame_and_publicity,concept/deception,concept/vulgarity,concept/greed_and_money,form/satire,form/novel"></span>
@@ -5678,6 +8270,42 @@ For this also had Columbus everything prepared upon that early morning. He put h
 
 No servant appeared. But what did at last saunter into the bright circle framed in black was something very different. By the boots, a policeman; by the clothes, and especially the sharply pressed trousers, an advertisement for that which the vulgar call ready-to-wear and the gentle ready-made; by the hat, a scandal to God and man; by the face, a fool. My reader has divined him with her customary skill. It was Mr. Pretherton, the Detective.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Diede rapidamente dei consigli agli altri servi di Lord Toronto. Quell’uomo anziano era davvero molto grave; pensava che quella mattina sarebbe morto. Consigliò di mandare qualcuno da “The Howl” per fotografare la casa, e se possibile anche la scena del momento in cui l’ambulanza se ne sarebbe andata. Sarebbe stata un’ottima immagine. Ma li avvertì che la signora Maple aveva fatto venire un poliziotto in borghese sul posto, e c’erano ordini di non permettere a nessuno di avvicinarsi: lei non voleva che la notizia finisse sui giornali. Lui rise dolcemente; dall’altra parte del telefono scoppiò una risata molto più forte. No, non poteva inviare loro uno schizzo del fantasma. Dovevano farlo loro stessi. Potevano chiamare quel piccolo artista ubriaco che avevano a disposizione per disegnare qualcosa di semplice: solo un lungo mantello nero, una spada, un grande colletto elisabettiano, e nessuna testa. Con accanto un vecchio letto coperto da tende.
+
+Mentre parlava, lasciò cadere il ricevitore al suono di un pietoso lamento. Era Betsy Broom che gettava via la sua scopa e il suo pennello, chiamando il proprio Creatore affinché la liberasse dal male. Anche Lord Hambourne stesso rimase sorpreso nello scoprire quanto i suoi nervi fossero tesi. Forse Betsy Broom era davvero uno spettro; si era spaventato così tanto. Ma ebbe la prontezza di calmarla.
+
+“Tieni la bocca chiusa”, disse. “Che ti prende?”
+
+“Oh, signore,” disse la sfortunata giovane donna, “pensavo fosse un fantasma. È la terza volta che credo di averlo visto!”
+
+Lord Hambourne prese un’altra di quelle decisioni rapide, che spero sinceramente lo porteranno prima o poi a ottenere un reddito indipendente. Non gli piaceva spendere denaro, e in realtà ne aveva molto poco da dare via. Ma decise che ne valesse la pena; dopotutto, aveva vinto a bridge. Prese quindi un biglietto da dieci scellini stropicciato dalla tasca del gilet e lo mise nella mano di Betsy.
+
+“Betsy,” disse lui, “se fossi in te non parlerei troppo dei miei telefonati. Hanno tutti i nervi a fior di pelle, capisci?”
+
+“Sì, signore,” disse la semplice ragazza, annuendo e piena di gratitudine, “capisco perfettamente.” Ma continuava a tremare. Lui le diede una pacca affettuosa sulla spalla.
+
+“Ecco,” disse. “È tutto a posto. Anche se ci fosse qualcosa, non lo vedresti dopo l’alba, capisci?”
+
+“Sì, signore, l’ho sempre sentito dire,” rispose Betsy, riconoscendo così la sua erudizione. “È proprio questo, e anche far scorrere l’acqua, a farli funzionare.”
+
+“Sì, hai ragione, Betsy,” disse con aria sprezzante; poi lasciò dolcemente il luogo dei suoi misfatti, sperando che l’ufficio non commettesse l’imperdonabile errore di chiamarlo. Ma avrebbe dovuto avvertirli.
+
+* * *
+
+Noi possediamo ancora i resti di un'epoca in cui la stampa poteva essere gestita da persone influenti, perché i suoi proprietari, sebbene milionari, di solito erano ancora in fase di ascesa sociale. Hilda Maple apparteneva a quell’epoca. Dopo aver telefonato a cinque o sei uffici londinesi, si sentiva abbastanza sicura di poter impedire che la notizia venisse pubblicata sui giornali. Comunque, non ci sarebbero stati giornalisti. Il fatto la rassicurava molto. Inoltre, aveva assicurato che un detective sorvegliasse il luogo per impedire l’arrivo di fotografi. Aveva ordinato questo con fermezza prima di andare a letto, e Lord Hambourne l’aveva sentita.
+
+Pertanto, mentre ancora era molto presto e c'era ancora la rugiada sui giardini di Rackham – un silenzio così profondo che il secondo giardiniere poteva sentire i deboli lamenti provenire dalla stanza del malato – una figura apparve utilizzando un metodo davvero insolito: si fece strada tra gli allori situati in direzione sud-ovest dell’ingresso principale. Sembra che avesse voluto evitare di passare attraverso la casa e preferisse un modo più discreto per entrare, ovvero strisciare sotto una recinzione di filo spinato, attraversare i cespugli e raggiungere, un po’ strappata e sanguinante, il bordo del prato davanti alla casa. Ma con grande coraggio, durante tutta questa avventura, quella figura portò con sé un enorme oggetto: un treppiede coperto di stoffa nera, che ricordava le tecniche fotografiche di trent’anni fa. Il nome di quella figura era Colombo.
+
+Non era il suo vero nome. Era il nome che il suo padrone, Lord Toronto, gli aveva dato scherzosamente, a seguito della sua efficienza e del suo atteggiamento deferente. Un giorno, Lord Toronto chiese quale dei suoi servi fosse riuscito a ottenere, in tempi rapidissimi, fotografie molto private e intime di altre persone; il servo ricevette così rispettosamente quel nome. Il signore lo battezzò “Columbus”, perché era stato proprio lui ad averlo fatto. E da allora continuò a essere chiamato Columbus.
+
+Era il metodo di Colombo: ogni volta che doveva sorprendere la vigilanza di coloro i quali, per mancanza di spirito pubblico, cercavano di eludere i controlli, portava con sé questa enorme struttura montata su un trepiede e coperta da un panno nero. Sapeva bene l’attenzione che avrebbe suscitato, l’arrivo dei servitori incaricati di cacciarlo via dal luogo, persino l’avvicinamento della polizia. Ma il suo peso e le sue dimensioni significavano anche che non poteva essere allontanato all’improvviso; durante gli scontri, non c’era nulla di più facile che estrarre di nascosto la sua piccola macchina fotografica Zeiss e scattare delle foto dell’intera situazione, senza che nessuno se ne accorgesse.
+
+Anche per questo, quella mattina presto, Colombo aveva tutto pronto. Si posizionò di fronte all’antico ingresso della casa di Rackham Catchings; sistemò con cura il treppiede; si coprì la testa con il panno; eseguì tutti quei gesti tipici delle rappresentazioni amate dai nostri antenati. E, come si potrebbe pensare, tale atteggiamento non gli impediva di osservare i suoi nemici: infatti, la scatola della macchina fotografica nascosta sotto il panno era finta, e al posto del vetro c’era un grande foro rotondo attraverso cui tutto poteva essere facilmente visto. Esaminò attentamente l’ambiente circostante; aspettò con pazienza l’arrivo dei servitori, forse accompagnati dalla polizia; aveva già preparato le sue argomentazioni nella mente. E, ben nascosto nel solco tra il suo braccio sinistro e il fianco sinistro, c’era quel piccolo obiettivo Zeiss che avrebbe svolto il ruolo decisivo. Voleva “figure in primo piano”. E ottenne molto di più di quanto si aspettasse.
+
+Nessun servitore apparve. Ma ciò che alla fine entrò nel cerchio luminoso delimitato dal nero era qualcosa di molto diverso. Ai piedi, un poliziotto; all’abbigliamento, e soprattutto ai pantaloni ben stirati, l’esempio di ciò che la gente comune chiama “abiti pronti”; al cappello, uno scandalo per Dio e gli uomini; al viso, un idiota. Il mio lettore lo ha indovinato con la sua abituale perspicacia: era il signor Pretherton, il detective.
 
 
 
@@ -5725,6 +8353,48 @@ What happens in the souls of dogs when they are used for retrievers, for pointer
 Columbus came back extending a large hand towards Bo with the self-possession of his kind. Bo took it with the simplicity of hers. When he thanked her, as one who had saved his life, and when they had both remarked upon the absurd picture presented by the detective in his flight, a very few words made clearer still what Bo had already discovered. With charming good nature the young woman sought out for the journalist the exact point of vantage whence best Rackham Catchings might be snapped. She was torn between her desire for a striking picture which no one could miss and a contradictory desire for early publication. She saw him register the scene; she accompanied him without shame to the lodge gate, and then in a moment of inspiration she made a suggestion consonant with her means, ill-fitted to her condition.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Con una graziosa nonchalance, il signor Pretherton camminò attraverso il prato, come se stesse godendosi l’aria fresca del mattino. Si avvicinò a Columbus, ancora distratto, quasi indifferente alle cose banali di questo mondo. Sollevò un angolo del panno nero e sussurrò all’orecchio dell’esperto chino sul lavoro:
+
+“Potrebbe interessarvi sapere che faccio parte della Forza, ma indosso abiti civili.”
+
+“Colombo rispose… a se stesso.”
+
+“Quarantatré e un decimo, diametro otto,” e poi procedette ad avvitare una piccola vite che in realtà non c'era.
+
+“E più presto te ne andrai, giovane uomo,” continuò il temibile Pretherton, sollevando di nuovo un angolo del panno, ma voltando il viso verso la casa, come se stesse partecipando alla fotografia, “meglio sarà per te, posso dirtelo.”
+
+“Alle quali Colombo rispose molto semplicemente… ma ancora una volta, solo per se stesso e non al suo interlocutore.”
+
+“Doppio effetto della luce mattutina: cielo nuvoloso, nessuna ombra profonda.”
+
+Sul luogo di questo duello cieco, a una certa distanza, dietro l’angolo della casa, apparvero un alleato inaspettato e un nemico inaspettato, rispettivamente per uno e per l’altro protagonista.
+
+Erano Bo con il cane Lovey-Lad.
+
+Bo. Oh, l’efficienza di chi è davvero efficiente! Aveva compreso tutta la situazione in un istante. Ancora una volta, aveva ereditato quella qualità dal suo illustre antenato: la capacità di cogliere immediatamente le opportunità di mercato. I giornali stavano pubblicando notizie su tutto ciò. Un punto a favore del gruppo di Bo-Jacko; quell’uomo che lei sospettava fosse coinvolto nelle manovre illegali rappresentava invece un ostacolo per loro. Se la tragedia fosse finita sui giornali, avrebbe significato la rovina totale del mercato di zia Hilda. Evitarlo era dunque l’obiettivo di quell’uomo che si intrometteva, con le sue scarpe da poliziotto.
+
+I più grandi generali sono in grado, nel bel mezzo di un'azione, di interpretare in modo ambiguo un ordine. Bisogna ammettere, a difesa di Lovey-Lad, che difficilmente avrebbe potuto distinguere tra l’amico e il nemico della sua amante. Quindi, quando sentì dalle labbra arcuate di Bo le parole gioiose “Siccum, ragazzo!”, si lanciò in avanti come una palla sparata da un cannone, non contro il malvagio Pretherton, ma purtroppo, contro quel benintenzionato Columbus. Dopotutto, perché mai quel bulldog zoppicante, orribile e con i braccialetti di rame non dovrebbe fare amicizia con un essere umano comune, che potrebbe essere l’amico di chiunque, piuttosto che attaccare un mostro con tre gambe di legno, due estremità dei pantaloni e nessuna testa?
+
+Attraverso quell’apertura rotonda e vuota, dove non c’era l’obiettivo della macchina fotografica, Colombo vide la sua “Destinazione” precipitarsi verso di lui. Senza esitare nemmeno un istante, fuggì senza pensarci due volte. E il signor Pretherton, pensando in modo del tutto innocente e naturale che qualcuno della famiglia per cui lavorava avesse sostenuto i suoi sforzi, rise di cuore alle goffe tentativi di quella vittima devota, che correva ciecamente, accecata dal panno nero, dritta verso i rododendri, il primo riparo che riuscì a trovare.
+
+Ma i cani, essendo piuttosto poco intelligenti, sono straordinariamente soggetti alla disciplina. Bo (che aveva imparato questa tecnica da bambina e l’aveva felicemente conservata) mise due dita tra i denti e, emettendo un fischio acuto, richiamò il cane, che aveva agito con buone intenzioni ma aveva commesso un errore. Quanto dovette costare a Lovey-Lad rialzarsi di nuovo sulla terra comune, perdere la sua preda e tornare indietro. Solo un cane può capirlo. Ma il fischio era stato imperativo, e lui aveva obbedito. Tornò ansimando, fermandosi di tanto in tanto con esitazione e lanciando occhiate alla strana “preda” che aveva perso. Proprio come Colombo, dopo aver constatato il fallimento della caccia, si riprese, ripiegò il proprio panno sul braccio e, afferrando il suo trepiede, avanzò timidamente per spiegare.
+
+Ma Bo non gli diede alcuna opportunità. Non voleva spiegazioni. Voleva un'amicizia sincera e una ottima pubblicità per la grande tragedia di Rackham Catchings – per quel “fantasma” – nella stampa della metropoli; in particolare in quella di Lord Toronto, poiché, a suo parere, era il più volgare dei sei individui che controllano i nostri principali organi di opinione.
+
+Poteva fidarsi che Lord Toronto si sarebbe assicurato che quella sera tutto venisse fatto a Londra. Nel frattempo, doveva sbarazzarsi di quel poliziotto di Hilda.
+
+Non erano trascorsi nemmeno sessanta secondi dal momento in cui Lovey-Lad si era lanciato in avanti fino al momento in cui era tornato indietro insoddisfatto, quasi pronto a ringhiare, e si era seduto ansimando ai piedi della sua padrona. Il signor Pretherton continuava a sorridere con un sorriso di trionfo, mentre Columbus rimaneva fermo in posizione incerta, chiedendosi come sarebbe stato accolto. Quando Bo diede il suo secondo ordine, senza esitazione e rapidamente, questa volta ancora più direttamente: puntò con dito sprezzante verso la sua vittima e lanciò “L’Amico dell’Uomo” contro il detective.
+
+Allora si vide con quale maestosità il poliziotto britannico interveniva! Notate con quanta abilità, quanta prontezza, quanta immediata capacità di comprendere la realtà siano addestrate le forze civili del nostro amato paese!
+
+Il viaggio di Colombo da Lovey-Lad era stato lento e faticoso, anche se rapido; al confronto, il detective si muoveva con estrema velocità. Lovey-Lad non riuscì mai a raggiungerlo. Lui attraversò rapidamente i cespugli, superò le recinzioni e superò anche gli ostacoli rappresentati dalle pietre in un attimo; una volta compiuto il suo compito, la sua padrona lo chiamò indietro.
+
+Cosa succede nelle anime dei cani quando vengono utilizzati come ricercatori di oggetti, come segnali, per qualsiasi compito diverso da quello per cui sono stati creati (e questo avviene costantemente)? È forse un senso di trionfo per la loro abilità, o una comprensione vaga ma leale del fatto che hanno servito i loro padroni? Oppure è semplicemente delusione, confusione, o qualcos’altro ancora? Non lo so. Ma immagino che si tratti di un misto di tutte queste emozioni, a giudicare dalla descrizione che ho ricevuto riguardo all’espressione sul viso di Lovey-Lad quando tornò per la seconda volta, ansimante e ancora affamato ai piedi della sua padrona. Non aveva strappato nulla, non aveva morso nulla; ma aveva “cacciato” con successo colui che era stato mandato a distruggere. E questo basta.
+
+Colombo tornò tendendo una mano grande verso Bo, con la calma tipica della sua natura. Bo la prese con la semplicità che le era propria. Quando lui la ringraziò, come se lei gli avesse salvato la vita, e quando entrambi osservarono l’assurda scena presentata dal detective durante la sua fuga, poche parole chiarirono ancora di più ciò che Bo aveva già scoperto. Con una natura gentile e affascinante, la giovane donna indicò al giornalista il punto di osservazione ideale da cui poter scattare le foto migliori di Rackham Catchings. Era divisa tra il desiderio di ottenere immagini spettacolari che nessuno potesse ignorare e il desiderio contraddittorio di pubblicarle il prima possibile. Lo vide registrare la scena; lo accompagnò senza imbarazzo fino al cancello della locanda, e poi, in un momento di ispirazione, gli fece una proposta che corrispondeva alle sue possibilità, ma non alla sua condizione reale.
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_04" data-title="The Haunted House — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/ghosts,concept/fame_and_publicity,concept/deception,concept/greed_and_money,concept/vulgarity,form/satire,form/novel,histref/elizabethan_england"></span>
@@ -5770,6 +8440,48 @@ which last were a number of letters dated from all parts of London, signed by va
 
 It would be all over London by one o’clock and the market for Rackham ruined.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Sai quale edizione della tua rivista a due centesimi pubblicherà la foto di Rackham Catchings? Hai già letto la storia che l’accompagna?”
+
+Aveva letto la notizia. Era arrivata direttamente a Londra, inviata da Lord Hambourne. Per quanto riguardava l’edizione, sarebbe stata pubblicata al massimo entro pranzo; poteva giurarlo, ora che lei si era presa così gentilmente cura di lui.
+
+Bo decise immediatamente, rischiando di essere rifiutata, e, come ci si può aspettare, non correva alcun pericolo di ricevere un rifiuto. Non tirò fuori nemmeno una sterlina, come avrebbe fatto una persona meno efficiente; mise semplicemente l’intera custodia di pelle – profumata – nella sua mano, e questa scivolò silenziosamente nella sua tasca davanti ai suoi occhi.
+
+“So cosa c’è dentro, Bud,” disse lei. “E ci sarà altrettanto anche per te quando lo vedrò in quell’edizione. Deve assolutamente essere incluso. Capisci? Ma a chi dovrei inviarlo? Come ti chiami?”
+
+Con un accento simile al suo, la misteriosa sconosciuta rispose:
+
+“Il mio nome? Niente! Basta scrivere ‘Colombo’ sull’indirizzo, e il barone lo vedrà, non mi perderà di vista.”
+
+Si scambiarono cenni di assenso felici, e così tutto fu sistemato.
+
+Infatti, il giorno seguente, dopo che la storia era finita e Bo poté assicurarsi che il suo accordo fosse stato rispettato, lei (una donna che sapeva esattamente quanto denaro avesse in quella borsa di pelle in ogni momento) mise nell’indirizzo esatto l’equivalente in denaro e, mantenendo la sua parola, lo consegnò personalmente, sigillato, presso l’orribile edificio di Lord Toronto vicino a Fleet Street, indirizzato soltanto a “Columbus”. Non chiese alcun ricevuto e non lasciò il proprio nome.
+
+Non posso nemmeno negare che Colombo meritasse davvero queste tre fonti d’oro: la prima proveniva dal suo padrone comune, mentre la seconda e la terza da Bo.
+
+L’immagine di Rackham Catchings occupava tutta la prima pagina de “The Howl”: avevano l’articolo esclusivo, le foto esclusive, e anche una didascalia davvero notevole, redatta personalmente dall’editore, un certo signor Emston, che anni fa doveva essere stato Emstein da qualche parte in America. La didascalia recitava:
+
+Elisabethan Spectre appare in un antico maniero.
+
+Visto da tutti.
+
+Prova conclusiva fornita dal professor di psicologia dell’Oxford University.
+
+Un nobile importante si prostrò.
+
+Nella foto, un grande croce nera ben visibile sopra la finestra del bagno della povera signora Maple, con una gigantesca freccia che la indicava, era contrassegnata con la seguente scritta:
+
+Antica cappella monastica dove apparivano i fantasmi.
+
+E sotto tutto questo, in caratteri un po’ più piccoli:
+
+Le opinioni dei nostri lettori.
+
+Si trattava di alcune lettere provenienti da varie parti di Londra, firmate con nomi diversi e scritte in modo piuttosto affrettato dal figlio del vice-redattore, che stava cercando di imparare il mestiere come apprendista servo presso Lord Toronto.
+
+Entro l’una di notte, tutto Londra ne sarebbe stato invaso e il mercato dei lavori di Rackham sarebbe andato in rovina.
 
 
 
@@ -5861,6 +8573,92 @@ Bringing up the rear from the head of the stairs and commanding all things, his 
 “Don’t jerk ’im, pore lamb!” the peeress went on — the procession had allowed her to gain three steps downwards. “Don’t jerk ’im, whatever yer do! Don’t give him a Hoick! Keep his ‘ed up, pore dear! Keep the blood from a-flowing to ’is ‘ed!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XVI
+
+BO, rientrando in casa, incontrò Betsy Broom. Betsy non si era ancora ripresa dallo shock (ricordiamo che era ancora molto presto la mattina); aveva appena lasciato la presenza del Professor. Emise un altro piccolo strillo e stava per ripetere uno dei suoi trucchi con la scopa e il secchio, quando Bo la fermò.
+
+“Non fare la sciocca!” le disse Bo, tirandola su. “Che ti è successo? Hai paura?”
+
+“Oh, signora! Oh, signorina! Pensavo fosse di nuovo il signore. Ecco, sono davvero confuso. Ho pensato che fossi stato io a chiamare il signore quando l’ho trovato al telefono. Non sono proprio me stesso, ”
+
+Bo conquistò quel punto strategico.
+
+“Quale signoria?” disse lei.
+
+“Lord Ambourne, signorina. Stavamo parlando al telefono proprio di questo argomento” (ed è così che Betsy ottenne la pesante tangente che le era stata data per mantenere il silenzio).
+
+“Ah, sì, era proprio lui,” disse Bo con un’espressione cupa.
+
+Ricordava la notoria connessione di Lord Hambourne con “The Howl”, e come un altro illustre pari e collega, Lord Toronto, fosse il suo finanziatore.
+
+“Grazie, Betsy,” disse lei. Aveva regalato il proprio portafoglio in un gesto nobile – così riportavano i giornali; ma sentì, nella tasca del piccolo cappotto da giardino che indossava per proteggersi dal freddo di quella mattina, di avere qualcosa lì dentro. Sembrava ricordare che ci fosse qualcosa. E infatti c’era. Ne tirò fuori un’altra banconota stropicciata da dieci scellini.
+
+Betsy lo accettò con gratitudine e fece un inchino.
+
+“Oh, grazie signora, intendo, signorina!” disse lei. Quella fu l’unica e ultima volta nella giovane vita di Betsy che ebbe modo di sperimentare quell’operazione che politici, truffatori, ricattatori e altri candidati alla Camera dei Lord conoscono nel loro linguaggio particolare come il “Double Cross”. Entrambe le parti avevano corrotto lei. Ahimè, povera innocente bambina: se ne andò senza capire nulla di ciò che era accaduto. Non riuscì a sfruttare quell’informazione. Con un po’ più di opportunità, forse avrebbe potuto entrare nel Gabinetto; oggi, infatti, queste conoscenze particolari e questi pagamenti speciali possono portare ovunque.
+
+* * *
+
+Ricorda, mio caro lettore, che questo libro è stato scritto nel 1927. Quello che Bo fece dopo non sarebbe mai stato possibile fare nel 1917; e nel 1907 avrebbe significato ciò che loro chiamavano con il gergo orribile del loro tempo (ancora in uso oggi da Lord Hambourne): “esclusione sociale”. E nel 1897, beh, in quel caso sarebbe stato definito, con un gergo ancora più terribile, “inconcepibile”.
+
+Andò direttamente verso il corridoio al primo piano. Aspettò un momento, ascoltando attentamente, ma non sentì nulla fuori dalla stanza del paziente. Proseguì per dieci metri e sussurrò attraverso la fessura della serratura della stanza dove John, dopo ore di lotta, aveva appena iniziato a sentirsi assonnato. Non osava bussare.
+
+“Cane-Uomo,” era il sottinteso, “vieni fuori.” “Cosa? Cosa? Cosa?” disse John ad alta voce, alzandosi in piedi.
+
+“Zitta!” sussurrò di nuovo attraverso la fessura della serratura, “vieni fuori.”
+
+Uscì barcollando, sopraffatto dalla stanchezza; per un momento a Bo venne il pensiero che, forse, in una situazione del genere, non fosse più tanto un “dio”. Gli era già spuntata una leggera barba; gli occhi gli pendevano giù; le angole della bocca mostravano segni di affaticamento. Ma lei era fedele e lo vedeva per ciò che realmente era: il divino Jacko, anche attraverso quella mascheratura. Come il giorno prima, durante la loro “conspirazione”, posò un dito sulle labbra e lo guidò in punta di piedi lungo il tappeto spesso fino alla sua stanza, situata nell’altra ala della casa.
+
+Lì lo fece sedere.
+
+“Jacko,” disse lei, “ascoltami bene. Devi imparare quella parte alla perfezione. Te lo dico io: ci sarà una separazione.”
+
+“Oh, sì,” disse John.
+
+“Abbiamo vinto, vero?”
+
+“Finora… Vorrei, Bo, che non avessi mai fatto…”
+
+“Metti tutto dentro la tua vecchia borsa da viaggio. Come hai detto, per ora. Ora devi ascoltare il resto. Fat Matt ha fatto venire un’ambulanza da Londra; arriverà qui alle nove. Poi ci sarà la grande ritirata, e il ‘Tuono dei Capitani’, e i gridi, come dice il Buon Libro. A quel punto zia Hilda resterà sola, e si limiterà a girovagare per casa. Quello è il momento giusto per giocare quella carta.”
+
+“Quale carta?” chiese John.
+
+“Te lo dico io,” rispose Bo. “Hambone ha chiamato ‘The Howl’. L’aiutante mi ha raccontato tutto: l’ha sentito e ne ha informato subito gli altri. Hanno già mandato un fotografo qui per scattare foto del posto. Sarà su tutti i giornali di Londra, Jacko. E allora, che cosa farà zia Hilda?”
+
+“Sì, ma cosa devo fare?” disse John.
+
+“Quello che devi fare, idiota, è entrare e vincere. Ora non c’è più modo di vendere quel posto per lei. E se lei è ancora determinata, usa la tua ‘Voce’ per influenzarla.”
+
+“Non capisco proprio come potrei tormentare zia Hilda alla luce del giorno…”
+
+“Non importa. Il Signore troverà un modo. Basta che tu continui le indagini, Jacko. Hai portato con te le copie di quelle lettere?”
+
+“Sì, le ho in tasca… Lei possiede le copie originali.”
+
+“Beh, dille che ‘The Howl’ ha la storia… In qualche modo, spaventala un po’. Allora firmerà.”
+
+“Pensi che lo farà?” disse John con dubbi.
+
+Bo annuì con decisione.
+
+“Fidatevi della giovane ereditiera”, disse. “Quel bambino non ha mai fallito.”
+
+Ma mentre parlava, si udì del trambusto sul vialetto di ghiaia sotto la finestra: era l’ambulanza arrivata da Londra, e tutta la casa si agitò.
+
+I due innamorati scesero le scale posteriori in silenzio, raggiunsero l’atrio, e subito tutto il trambusto li investì.
+
+Giù per le scale principali, muovendosi come portatori di bara sotto un feretro, barcollavano diversi uomini: l’autista dell’ambulanza, il suo assistente, il valletto, l’ateo Gaul. Anche il dottore del posto diede una mano. Mentre lo specialista di Londra si muoveva lentamente di lato, verso il basso, accanto alle ringhiere, in qualità di incompetente supervisore: dopotutto riceveva la tariffa più alta.
+
+Sul lettino su cui barcollavano giaceva il sfortunato Primo Barone Mere de Beaurivage, che continuava a mormorare e delirare.
+
+Mentre tutti gli altri si trovavano in coda alla scala, lei, la sua sposa, la Dea Presidente, prendeva le redini della situazione e, con la sua stessa irruenza, dominava la tempesta.
+
+“Ahia, trattalo con dolcezza!” gridò lei. “Mettiti nei suoi panni. Trattalo come un bambino!” Ma mentre parlava, il malato emise un grido straziante: “Aaahhh!”
+
+“Non torcerglielo, povero agnello!” continuò la nobildonna; la processione le aveva permesso di avanzare di tre passi verso il basso. “Per favore, non farlo! Non fargli del male. Mantienigli l’organo in posizione, poverino. Così il sangue non inizierà a scorrere, ”
+
 
 
 <span class="atom-split" data-atom="chapter_16--part_02" data-title="The Haunted House — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="concept/greed_and_money,concept/deception,concept/class_conflict,concept/vulgarity,concept/pride,form/satire,form/novel"></span>
@@ -5941,6 +8739,82 @@ There worked in Hilda Maple’s mind, violently surging one against the other li
 And the other current was her pride — after having stood out for so long, and after having felt such contempt for the foolish boy. Above them the figure of the Ancestor grinned fatuously, and the young man of twenty-three and the woman of fifty sat silent under its gaze.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I primi tra coloro che trasportavano il ferito avevano già raggiunto la scala inferiore; Amathea, che supervisionava la situazione dall’alto, si trovava a metà strada; le porte erano completamente aperte e Corton stava spalancando l’ingresso dell’ambulanza quando povera Hilda Maple, distrutta dalla mancanza di sonno e da tutta l’attenzione di cui hanno bisogno le donne della sua età prima di potersi presentare davanti alle persone, commise l’errore di tentare di calmare la situazione.
+
+“Amathea…”, mormorò, “amata Amathea…”.
+
+Ma il suo avversario scoppiò in un furore terribile.
+
+“Mettiti il cappello!” gridò senza alcuna riserva. “Sei stato tu a fare tutto questo, vero?” Poi, rivolta alla processione: “Oh, trattatelo con più gentilezza, ascoltate i suoi lamenti, oh!” E infine, rivolta alla sua ospite: “Guarda cosa hai fatto!”
+
+“Non capisco cosa abbia fatto,” iniziò la signora Maple, ma Amathea la interruppe di nuovo.
+
+“Non lo vedi proprio?” gridò lei, furiosa. “Non vedi tutto il disastro che hai causato con i tuoi demoni e i tuoi mostri, cercando di ingannarci e venderci questa casa?”
+
+“Amathea, ” iniziò di nuovo la signora Maple.
+
+“Non mi ami forse, Amathea, signora Miple?”, gridò la nobildonna, con tutto il fascino sottile tipico dell’aristocrazia; posò una mano su un tavolo ancora sporco dai bicchieri della sera precedente e tese l’altra in un gesto di furiosa denuncia. “Non mi ami forse, Amathea? Vorrei che tu non fossi mai nata, né io ti avessi incontrata! Con le tue menzogne, le tue bugie, quel tuo ‘Diavolo Nero’. Tutto questo è stato nascosto ai nostri occhi! Ma te ne farò pentire! Ti ho scoperta. Sei una profittatrice!”
+
+Povera Hilda cercò di fermare quel flusso inarrestabile, ma la voce della Contessa riempiva tutto il cielo; se avesse avuto qualcosa da lanciare, l’avrebbe sicuramente fatto.
+
+“Non rispondere con quel tuo microfono, Ilda Miple! Sono Mattie Huggins, e voglio che tu sappia che potrei affrontare una dozzina di te. In qualsiasi giorno della settimana!”
+
+Si mise le braccia incrociate dietro la schiena e fece schioccare le dita della mano sinistra nell’aria: “Questo per quel maledetto Rackham Catchings!” Poi incrociò le braccia della mano destra e fece schioccare le dita della sinistra con ancora più violenza: “Questo per quella vecchia topaia di Drury Lane!” Infine incrociò entrambe le braccia e si sporse in avanti oltre la ringhiera, urlando con una forza titanica: “Bruciatela per l’assicurazione, stronza! Bruciatela e state zitte. Non otterrete mai un centesimo da Hus! E ve lo dico chiaro!”
+
+Il suo viso era rosso fuoco; ansimava e sudava; la sua voce sembrava quasi esaurita. Ma aveva ancora la forza di aggiungere, prima di dirigersi verso l’ambulanza e ricevere le ultime cure per il suo caro: “Lo sai cosa farà il Primo Ministro con te, Hilda Maple? Vedrai cosa ti succederà! Sì, lui non scherzerà!” E così, tra la folla imbarazzata, spaventata e discreta intorno a lei, riuscì comunque a dare ordini ancora affannosi ma comprensibili; si sedette nell’ambulanza accanto al marito, contro tutte le regole, e partì.
+
+* * *
+
+Rackham Catchings era silenzioso quanto la scena polverosa di un’esplosione dopo che il rumore è cessato, ma era altrettanto distrutto. E Hilda Maple si sedette, anch’essa distrutta: il gomito appoggiato sul tavolo del corridoio, la testa stordita sostenuta dalla mano sinistra.
+
+Lord Hambourne non fallì; non poteva fallire, in un’occasione del genere.
+
+“Sono venuto per dire addio,” disse lui sorridendo, come se fosse la mattina più ordinaria che si potesse immaginare. Hilda Maple faticava a mantenere un comportamento educato. Si alzò a metà, gli chiese se avesse un mezzo di trasporto e disse meccanicamente che sperava che tornasse ancora.
+
+Appena se n'era andato, si sentirono dei passi avvicinarsi. Era la cuoca, che tornava di nuovo al suo lavoro.
+
+“Non vorrei disturbare nessuna signora nelle vostre circostanze, signora,” dichiarò lei, “ma se vi è possibile, devo partire proprio oggi. Ah, lasciate stare anche il mese di stipendio, ” aggiunse con aria sprezzante, mentre Hilda cercava di interromperla. “E tutte queste povere creature, dicono la stessa cosa che dico io.”
+
+“Non è Alphonse?”, chiese debolmente la povera Hilda dalla folla.
+
+“Non quel Toad!” disse la signora Fry. “Non che io ne sappia molto. Non parlerò in suo favore, non avrò nulla a che fare con lui. Ma oggi, signora, andremo tutti insieme. Siamo tutti decisi: non dormiremo più sotto questo tetto, perché il sonno è impossibile.” E dalle altre parti provennero mormori e esclamazioni di assenso.
+
+“Non Corton?”, disse povera Hilda, con una voce ancora più bassa.
+
+“Signor Corton,” disse la signora Fry con dignità, “ci ha informato che preferisce parlare con voi in privato. Allora dirà tutto ciò che ha da dire.”
+
+E così salpò, seguita dalle sue ninfe ancelle e dai gentiluomini di corte.
+
+A Hilda non era nemmeno dato il tempo di riprendere fiato che, a sua volta, apparve John.
+
+“John”, disse la donna sfortunata, “mi sento mancare le forze”.
+
+“Certo, zia Hilda”, disse con comprensione. “Devo offrirvi del brandy.”
+
+“È qualcosa che non faccio mai,” disse zia Hilda, mentre suo nipote versava una dose abbondante da un vecchio decantatore utilizzato durante le baldorie della notte precedente, e aggiungeva poi abbastanza soda.
+
+“Bevi questo, zia Hilda,” disse lui.
+
+“Suppongo che mi farà bene,” rispose con una voce ancora debole. “Mi sento più morta che viva.”
+
+#Respirava affannosamente… Poi disse:
+
+“Beh, John…”
+
+“Sono ancora qui, zia Hilda,” disse John in modo rispettoso.
+
+“Qualunque cosa tu voglia da me, sono ancora qui… E, zia Hilda, comprerò comunque Rackham.”
+
+“Tu continuerai comunque a farlo?”, disse zia Hilda, con un barlume dell’energia che un tempo aveva.
+
+“Quello che ho detto,” ripeté ostinatamente John, come un eco di tante insistenze. “Comprerò Rackham. Tu hai i documenti, zia Hilda, e ne ho una copia anch’io qui.”
+
+Nella mente di Hilda Maple si agitavano violentemente due opposte correnti, come forti maree contrapposte in uno stretto: quelle due forze che hanno scosso uomini e donne fin dai primi tempi dell’attività commerciale. Era rovinata, nessuno avrebbe comprato quella proprietà. La sua ragione le disse all’istante che era già fortunata ad avere anche questa possibilità. Comunque, questo l’avrebbe liberata da ogni responsabilità.
+
+E l’altra forza che la guidava era il suo orgoglio: dopo essere stata in evidenza per così tanto tempo, e dopo aver provato tanta disprezzo per quel ragazzo sciocco. Sopra di loro, la figura dell’Antenato sorrideva in modo beffardo; il giovane di ventitré anni e la donna di cinquanta sedevano in silenzio sotto il suo sguardo.
+
 
 
 <span class="atom-split" data-atom="chapter_16--part_03" data-title="The Haunted House — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/ghosts,motif/the_supernatural,concept/deception,concept/greed_and_money,concept/guilt,form/satire,form/novel"></span>
@@ -5977,3 +8851,38 @@ As she raised her face he knew at once that he was intruding, and turned to go. 
 “Hannibal! …. I mean, Hamilcar!” she cried, stretching forth her extended hands.
 
 He returned. She tottered. And fifty fell into the arms of sixty years. But there! What difference does ten years make at that time of life?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+John posò i documenti sul tavolo e mise la sua penna a sfera accanto ad essi.
+
+Poi, in quel silenzio, l’Antenato parlò attraverso il suo corpo. Parlò con una voce profonda e con una gravità che contrastava con i suoi tratti fisici.
+
+“Donna! Donna!” gridò.
+
+Zia Hilda fece un giro improvviso, fissò per un momento quell’oggetto incredibile e emise un piccolo strillo, come un uccello.
+
+“Donna! Donna!” rimbombò dalla profondità del suo petto dipinto Sir Harry Murtenshaw, Cavaliere. “Non è forse l’Erede Legittimo?”
+
+“Oh, signore!” esclamò improvvisamente e con intensità Hilda Maple, travolta dal dolore. Si accasciò a terra sulle ginocchia, stringendo le mani convulsivamente, implorando la pietà del suo terribile visitatore: “Oh, signore, sono una donna peccatrice!” Nascose il viso tra le mani. Ma ancora una volta udì quella voce solenne, questa volta con toni ancora più cupi.
+
+“Non è forse l’erede legittimo?”
+
+Barcollò un po’. John Maple la aiutò ad alzarsi e la fece sedere. Poi firmò.
+
+* * *
+
+“John, ”, sospirò la donna sfortunata mentre posava la penna; quando lui le consegnò il suo consenso – quell’atto che avrebbe segnato la sua liberazione, quel documento che avrebbe impedito alla nave estone di partire – “lasciami, caro. Lasciami andare!”
+
+“Non posso forse,?” iniziò a dire.
+
+“No, mio caro,” disse lei debolmente. Non era mai stata così affettuosa con lui in tutti questi anni, proprio ora che gli aveva fatto un torto così grave; e questo lo bruciava di rimorso. Ma c’era l’immagine forte di Bo nel suo ricordo, che lo costringeva a mantenere la sua decisione. “Lasciami,” disse lei. E lui se ne andò con la testa bassa.
+
+Hilda Maple scoppiò in lacrime, appoggiò la testa sulle braccia incrociate e pianse liberamente. Lasciò sfogo tutto il proprio sollievo; trascorsero diversi minuti prima che sollevasse di nuovo il viso, macchiato di lacrime e sconvolto. Sicuramente orribile a vedersi. E quando lo alzò, lì, sulla porta, esitante se entrare o meno, c'era la alta figura di Lord Hellup. Solo lui, in quella casa, non era stato turbato dalla veglia notturna. Si era semplicemente cambiato dall’abito da sera a quello da mattina, con tutte le pieghe al loro posto. Si era rasato. Era fresco come un fiore di margherita. Non c’è da meravigliarsi che guadagnino soldi e li tengano. Ma dopotutto, hanno anche cuori d’oro.
+
+Quando alzò il viso, lui capì immediatamente di essere un intruso e si voltò per andarsene. Ma lei, poverina, era già in piedi.
+
+“Annibale!. Voglio dire, Amilcare!” gridò, tendendo le mani verso di lui.
+
+Tornò. Lei barcollava. E cinquanta anni caddero tra le braccia di sessant’anni. Ma ecco: a quell’età della vita, che differenza fanno dieci anni?

@@ -2687,6 +2687,42 @@ It was the spring of that year, 1925. The House was within a few days of rising 
 There were not a dozen of them staying in the house, and of that dozen only four were of the older generation to which the Prime Minister belonged: Mary Smith herself, G. Quinlan Smith, the very aged and exceedingly wealthy American uncle of her dead American husband, the Leader of the Opposition, and a much younger woman, but one attached to them from old times, Victoria Mosel. The rest were anybody — a few youngsters, an actress, a French singer from Martinique, and Mr. Cole, who looked after Mary Smith’s pet hobby, the herd of Herefordshire cattle for which Habberton was famous. There was nothing to annoy, to ruffle, or to disturb.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO I
+
+“Il grande vantaggio pratico del sistema bipartitico inglese è che fornisce un governo alternativo pronto a sostituire, senza frizioni o disturbi, un’amministrazione che possa aver perso la fiducia del paese.” — GUIZOT.
+
+DOLLY, il Primo Ministro d’Inghilterra, nel 1925, sebbene ancora popolare, non era più giovane: aveva infatti sessantasei anni.
+
+Il suo vecchio problema ai polmoni sinistri (o forse destri?) era, stranamente, scomparso con l’avanzare degli anni. In parte questo era dovuto al clima della Roussillon, ma in parte anche alla grande attenzione che aveva dedicato alla propria salute fin dai primi segnali di problemi.
+
+I medici gli avevano dato un nome; continuavano a chiamarlo con lo stesso nome, ma lui sapeva che ormai non ne era più affetto, e questo lo rassicurava molto.
+
+Fu un ulteriore sollievo per lui il fatto che, con il passare degli anni, nella sua vita privata fosse emersa una sorta di definizione: confini ben delineati tra coloro che conosceva e poteva fidarsi, che facevano parte del suo stesso mondo, e le cose più giovani o nuove che lo circondavano. Questo accade a ogni uomo che diventa famoso in un certo campo e vi rimane per abbastanza tempo: i nemici scompaiono, le cause delle loro ostilità vengono dimenticate; lunghe abitudini e consuetudini finiscono per suscitare rispetto nei suoi confronti, fino a quando persino i cocchieri, i netturbini, i ragazzi a scuola, i delinquenti, gli accademici e le persone di provincia – ogni tipo di persona – iniziano a considerarlo quasi come un’istituzione sacra.
+
+Quindi ora era “Dolly”. Infatti, nessuno lo chiamava più Dolly, tranne che le persone più anziane della sua stessa cerchia; questa separazione e distinzione lo rassicuravano e gli davano pace. In alcuni modi, si sentiva un uomo più giovane, sicuramente più sereno di quanto non fosse stato in quel breve ma molto turbolento periodo dieci anni prima, quando la improvvisa follia di uno dei membri del suo gabinetto e il rapimento di un altro lo avevano costretto a subire esperienze dolorose. Esperienze che coloro che conoscevano i nomi di George Mulross Demaine e Lord Repton of Biggleswick avrebbero preferito dimenticare.
+
+In quei dieci anni erano accadute molte cose, oltre al miglioramento della sua salute e all’aumento della dignità della sua reputazione pubblica.
+
+Per prima cosa, si era sposato.
+
+Aveva sposato una donna trent’anni più giovane di lui; una donna il cui originale estrazione straniera (era una De Villon) non rappresentava alcun difetto per lui, e che da anni viveva nella stessa cerchia sociale della sua famiglia. Era la confidente della sua stessa confidente, Mary Smith; quasi come una figlia adottiva del Duca di Battersea; l’amica intima di Victoria Mosel. E inoltre ospitava metà di [[London|Londra]]. Si era rivelato un matrimonio felice.
+
+Erano ormai trascorsi più di diciotto mesi da quando le ultime elezioni generali gli avevano permesso, insieme al Partito Nazionale, di ottenere una maggioranza normale superiore all’80%. Il Parlamento aveva iniziato a funzionare efficacemente; la prima delle sue grandi misure – la nazionalizzazione delle ferrovie del Sud-Est e di Chatham and Dover – non solo era stata approvata con successo, ma stava anche producendo risultati molto positivi.
+
+In questo capolavoro di riforma aveva ricevuto il sostegno del nuovo e piccolo, ma straordinariamente disciplinato partito socialista, che non solo accoglieva con entusiasmo l’esperimento in teoria (come cosa del tutto naturale), ma soprattutto lo appoggiava fedelmente nelle pratiche dettagli operative dei comitati.
+
+Il nuovo partito socialista non si diede alcun nome; venne chiamato, con un’espressione popolare, “i Dritti” – un nome tratto da una famosa frase pronunciata cinque anni prima dal loro fondatore e leader, quando il gruppo era composto da non più di quindici persone alla Camera dei Comuni. Il Duca di Battersea, la cui vasta gamma di interessi e azioni si estendeva anche al mondo politico, nutriva un grande interesse per loro; e fu davvero notevole, nel tumulto della vita politica partitica, osservare l’aiuto e il sostegno continuo che anche la moglie del Primo Ministro fornì loro nel loro lavoro sociale.
+
+Fu grazie al loro sostegno che Dolly riuscì a superare l’opposizione arbitraria e partigiana di quei radicali conservatori e dottrinari che si opponevano all’idea di concedere pagamenti annuali permanenti agli ex azionisti delle ferrovie, nonché all’elezione a direttori a vita del suo cugino, del nipote e del segretario personale, con un stipendio annuo di 5000 sterline. Devo aggiungere che anche i gruppi conservatori votarono con coerenza a favore delle somme supplementari annuali necessarie per ottenere profitti. Tuttavia, il calo costante dei titoli di stato (un fenomeno inevitabile del nostro tempo) ostacolò leggermente le finanze di questo importante progetto; ma la nazionalizzazione della prima ferrovia non era certo un’operazione che qualche statista desiderasse ora annullare. La migliore prova del suo completo successo fu l’ansia dimostrata dalle compagnie ferroviarie di Londra, Brighton e Costa Sud, così come da quelle della Great Eastern, Metropolitan, Cambrian Railways, Thames Steamboats e Isle of Wight nel voler essere incluse in questo progetto.
+
+La mente del Primo Ministro era in pace, tranne che per quella grave e terribile questione indiana; il peso reale di quel problema la nazione non lo aveva ancora percepito appieno, ma lui ne era ben consapevole.
+
+Era la primavera di quell’anno, il 1925. La Camera dei Comuni avrebbe presto iniziato le vacanze di Pentecoste. In Europa, almeno, non c'erano questioni internazionali urgenti da affrontare; e quella piccola riunione tra amici, a cui partecipò durante il fine settimana nella tranquilla e accogliente Habberton, si adattava perfettamente al suo umore, e anche alla sua ansia. Infatti, Mary Smith, l’organizzatrice dell’incontro, aveva preso cura di invitare il signor Pennybunt, il leader dell’Opposizione, affinché potesse incontrarlo.
+
+Non c'erano nemmeno una dozzina di persone che soggiornavano in quella casa; e di quelle, solo quattro appartenevano alla generazione più anziana a cui apparteneva il Primo Ministro: Mary Smith stessa, G. Quinlan Smith, lo zio americano estremamente anziano e ricchissimo del defunto marito di Mary Smith, il leader dell’Opposizione, e una donna molto più giovane, ma legata a loro da tempi lontani: Victoria Mosel. Il resto erano persone di ogni tipo: alcuni giovani, un’attrice, una cantante francese proveniente dalla Martinica, e il signor Cole, che si occupava dell’hobby preferito di Mary Smith: il gregge di bovini Herefordshire per cui Habberton era famosa. Non c’era nulla che potesse infastidire, disturbare o creare problemi.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="Pongo and the Bull — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/democracy,form/satire,form/novel,histref/british_empire,setting/rural_england"></span>
@@ -2718,6 +2754,34 @@ Briefly, it was worse than the Prime Minister himself had thought when they had 
 
 Now, that peril had threatened so long — for twelve years at least, and for nearly fifteen if you count the report of 1911 — it had been so constantly preached by the most credited of the Indian Administration and yet so constantly belied by the calm of each succeeding spring, that the politicians at home — even the gravest of them — had begun to be a little sceptical. Dolly for his part had always inclined to the gloomy side. But the policy, now twenty years old, of leaving the Hill people to themselves, seemed to have worked: there had been no expedition, and, as it seemed, no necessity for one. Both men remembered how three little troubles during that long space of years had each been certainly thought the precursor of the storm, and how the storm had failed to break.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nei primi giorni di una tardiva e fredda primavera, Dolly si trovò a camminare una domenica mattina, poco prima di pranzo, insieme al leader dell’opposizione. Entrambi gli uomini avevano appena ripreso le forze dopo un lungo e necessario riposo; la loro mente era fresca di fronte alla straordinaria bellezza delle colline del Somersetshire che li circondavano. Una compagnia basata sulla simpatia, ancora più stretta di quella che avevano condiviso fino ad allora, li univa mentre camminavano lentamente lungo uno di quei viali di Marayahs per cui il pittoresco e accogliente Habberton era famoso. Era un viale lungo; i magnifici fiori caucasici che in quel momento sbocciavano incorniciavano entrambi i lati del sentiero con un colore rosso cupo che quasi faceva dimenticare l’intenso e leggermente sgradevole odore di quella pianta straniera ma alla moda. Un soffice muschio aveva da tempo coperto il ghiaietto del viale; i passi dei due statisti lo calpestavano silenziosamente, proprio come i loro pensieri condivisi procedevano senza interferenze nella loro mente.
+
+Camminarono insieme per tutta la lunghezza dell’avenue. La figura alta, curva e ormai un po’ patetica di Dolly, con i suoi capelli bianchi insufficienti e gli occhi tristi, faceva sembrare il leader dell’opposizione, al confronto, un uomo basso e robusto.
+
+Infatti, il leader dell’Opposizione era di statura bassa, persino rispetto alla famiglia della quale il suo nome era stato il primo ad essere onorato. Misurava soltanto un metro e sessanta centimetri; pochi uomini che avessero lasciato un profondo impatto sui loro contemporanei potevano vantare una bellezza personale così scarsa come quella del leader dell’Opposizione. Doveva esserci, come i giornalisti sostenevano costantemente, qualche fascino magnetico in quell’uomo che compensasse i difetti fisici che altrimenti avrebbero rovinato la sua carriera.
+
+Quel robusto carro, che molti avevano notato dieci anni prima nel allora Segretario per l’India, con il passare degli anni era diventato un po’ più ingombrante. Tuttavia, l’uomo non presentava spalle eccessivamente larghe né un torace prominente; l’aumento di peso riguardava principalmente la parte addominale, e in profilo la sua figura a forma di pera ricordava quella tipica dei cittadini della città di Nottingham.
+
+Tuttavia, gran parte della sua precedente energia gli era ancora rimasta, soprattutto nelle movenze delle sue gambe mentre camminava. Erano gambe corte – decisamente troppo corte rispetto al tronco che sostenevano – e particolarmente agili e scattanti nei loro passi; le sue braccia, invece, non essendo insolitamente lunghe, pendevano ai suoi fianchi, come se fossero pronte in qualsiasi momento ad entrare in azione. Questo aspetto era uno dei più evidenti del suo aspetto generale. Si aveva l’impressione strana che, se si fosse chinato anche solo un po’, le sue mani avrebbero toccato il suolo.
+
+Tuttavia, tutto ciò – il tronco a forma di pera, le lunghe braccia e la mancanza delle gambe inferiori – non era ciò che attirava maggiormente l’attenzione; sebbene un aspetto del genere gli avesse valso, tra i suoi colleghi alla Camera (prima che l’età aggiungesse rispetto al suo nome), il soprannome “Pongo”, a metà familiare e a metà affettuoso. Ciò che colpiva davvero i suoi contemporanei, e persino gli spettatori casuali ignari della sua elevata posizione politica, era l’espressione del suo volto.
+
+Sopra una bocca sottile, la cui lunghezza sembrava essere stata aumentata di un pollice rispetto alla norma, e che era sempre ferma in una linea dritta e decisa, spiccava un piccolo naso robusto, altrettanto pieno di energia e determinazione quanto la stessa bocca; la sua forma ricordava quella di un tappo di champagne, e il suo carattere trasmetteva prontezza e decisione. Gli occhi, posti piuttosto lontani tra loro, sembravano apatici (poiché erano solitamente semi-chiusi), finché non si accorgeva che, quando si rivolgevano verso qualcuno, dietro le palpebre abbassate brillava un’intensa concentrazione espressiva, simile a quella che in persone meno decise emerge alla prospettiva di un guadagno inaspettato.
+
+I capelli che incorniciavano tutto questo erano neri come il carbone, densi e lucidi; la loro abbondanza non era certo la causa di tale densità, ma piuttosto la loro consistenza setosa. Su una parte della nuca era calvo. I capelli si dividevano da un lato, si stendevano dritti sulla fronte e pendevano ugualmente lungo entrambi i lati del cranio; il leader dell’Opposizione, infatti, aveva origini corniche, (Pennybunt: una corruzione sassone di “Pen-y-buint”).
+
+“Capo del Buint”, ma cosa è il “Buint”? Si veda Carrol: “Viaggi in Spagna”. Potrebbe esserci stato un certo Pennybunt a Tregarth sotto Giacomo I, oppure no. Suo padre, dentista a Camberwell, era di rango inferiore al fratello più famoso, che per dieci anni aveva ricoperto la carica di capo permanente del Dipartimento delle Pesche e aveva trascorso tutta la sua vita in quel settore. Suo nonno era il Pennybunt menzionato in una nota a piè di pagina dei Memorie di Worrall, in relazione all’arresto di Leslie durante i disordini chartisti.
+
+Così camminarono fianco a fianco, insieme ai destini del paese stesso.
+
+Il Primo Ministro aveva molto da dire. Era trascorsa un’intera settimana, se non di più, dall’ultima volta che aveva avuto l’opportunità di conversare in modo approfondito e privato con il suo collega; tuttavia, la necessità di una tale conversazione era diventata ancora più urgente. La cosa più importante, e imperativa, era informare Pennybunt sulla vera situazione in India, e lui lo fece senza riserve. L’uomo più basso annuiva seriamente alle parti della notizia che già conosceva, mentre interrompeva il suo interlocutore per porre domande precise e decise su punti che gli erano nuovi.
+
+In breve, la situazione era peggiore di quanto il Primo Ministro stesso avesse immaginato durante l'ultima loro riunione, e soprattutto più incerta. Non poteva dire con certezza se la carestia fosse stata la causa dell’epidemia particolarmente violenta nel distretto di Gordon o meno. Riteneva che Gordon avesse agito in modo imprudente; lo conosceva da anni, ma il Viceré aveva grande fiducia in lui e riceveva il pieno sostegno dei suoi colleghi sul posto. Ciò che era ancora più grave della disaffezione di quei contadini indifesi e affamati era il fatto che tutta quella minaccia crescente al confine nord-occidentale aveva raggiunto il suo apice; dopo tanti anni di pace, forse anche imprudente, sarebbero sicuramente scoppiate battaglie, e battaglie violente.
+
+Ora, quel pericolo aveva minacciato da così tanto tempo – almeno dodici anni, e quasi quindici se si include anche il rapporto del 1911 – che era stato costantemente sbandierato dalle autorità indiane più autorevoli; tuttavia, la calma di ogni primavera successiva aveva continuamente smentito quelle previsioni. Per questo motivo, anche i politici in India – persino i più seri tra loro – avevano iniziato a nutrire scetticismo. Dolly, da parte sua, era sempre stata incline a vedere il lato negativo delle cose. Ma la politica adottata ormai da vent’anni, ovvero lasciare che le popolazioni locali si governassero da sole, sembrava aver avuto successo: non c’erano state alcune spedizioni militari, e, a quanto pare, nemmeno la necessità di farne. Entrambi ricordavano come, in quegli anni, tre piccoli problemi fossero stati sempre considerati precursori di un’eventuale crisi, ma che poi nessuna crisi si era verificata.
 
 
 
@@ -2754,6 +2818,38 @@ Suddenly, and as though he were talking about a different matter, Dolly broke in
 
 Pongo answered vaguely that of course he knew about the Straights. He made some popular joke about the Straights’ support of the National party, and he laughed. “They’re your majority,” he said; he chuckled again.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quel giorno di primavera, mentre i due uomini riprendevano il loro cammino lungo la strada larga di Habberton, il Primo Ministro disse al suo compagno che pensava che fosse giunto il momento. Poteva volerci una settimana, dieci giorni, quindici giorni, o forse un mese, ma sarebbe successo. Spiegò i motivi per cui lo riteneva.
+
+La prima domanda di Pennybunt riguardava la situazione finanziaria della situazione in questione. Era proprio su questo che il Primo Ministro lo stava guidando.
+
+Mentre l’uomo più basso poneva la domanda, quello più alto intrecciò il proprio braccio destro con quello sinistro dell’altro; poi, rendendosi conto che quel gesto gli era troppo familiare, lo ritirò subito. Dopo una breve pausa, gli spiegò che le finanze erano in difficoltà, ed ecco il problema principale.
+
+Per quanto stretta debba essere l'alleanza tra le persone di primo rango nella vita politica, Pongo non aveva compreso la tensione crescente legata alle questioni finanziarie che l'amministrazione di Dolly stava affrontando: durante il suo breve mandato, due anni prima, c'erano stati alcuni problemi, ma erano poi passati. Il Cancelliere di Pongo non aveva tentato esperimenti radicali; il declino del credito nazionale era stato graduale sotto la sua guida, e per un certo periodo addirittura si era registrata una leggera ripresa. L’aumento delle spese pubbliche, sebbene significativo, risultava naturale e gestibile in quei quattro anni; il grande prestito navale era stato ottenuto con successo; e per Pennybunt prendere in prestito denaro rappresentava soltanto qualcosa di spiacevole, ma comunque fattibile, una cosa del tutto normale. L’impatto di un prestito sui titoli finanziari poteva indurre a esitare, o magari richiedere il parere di esperti per decidere il momento più opportuno per agire; ma ritenere che fosse davvero difficile ottenere un grosso prestito in Inghilterra e per scopi inglesi sembrava impossibile a una persona con le tradizioni ed esperienza di Pennybunt. Negli ultimi anni molti avevano predetto l’arrivo di quel giorno nefasto, ma quel giorno non era mai arrivato. Harwich, che si diceva sapesse più cose riguardo alle entrate nazionali e conoscesse meglio delle altre le procedure parlamentari, ne aveva parlato così spesso che la gente aveva smesso di credergli. Ora il povero Harwich era morto, senza mai vedere realizzarsi le sue previsioni.
+
+Diventava sempre più evidente, man mano che il Primo Ministro continuava a condividere le sue considerazioni, o meglio, la sua ricerca di sostegno e consigli, che si era verificato un grave intoppo. All’inizio, quando fu solo accennato all’ipotesi di ottenere il prestito indiano, c’era stata una notevole mancanza di concorrenza tra le parti interessate. In seguito, quando le cose divennero più concrete, emersero un gran numero di proposte, limitazioni e condizioni; le negoziazioni si erano prolungate così a lungo che i metodi tradizionali erano ormai esauriti, e sembrava che fosse necessario chiedere il prestito come un favore.
+
+Non è stata una mancanza di previdenza a causare tale impasse: Dolly e i suoi consiglieri avevano previsto ciò che sarebbe accaduto fin da settembre, quando il segretario di Gordon fu ucciso. Non si trattava nemmeno di panico pubblico; nulla veniva permesso di apparire sui giornali, e notizie che a Parigi erano ormai di dominio pubblico venivano ancora rigorosamente censurate a [[London|Londra]]. Anche a Dublino, coloro che non desideravano il bene di questo paese sapevano più delle questioni indiane del comune cittadino della capitale, poiché da quando la situazione irlandese era stata risolta, la stampa a Dublino era libera di esprimersi.
+
+Dolly lo ripeté più volte (poiché Pennybunt gli faceva domande molto dettagliate); il problema non derivava da alcuna forma di panico pubblico, ma tutte le grandi famiglie avevano chiesto in privato condizioni che lui non poteva soddisfare. Non era disposto a designare nessuna fonte specifica di entrate; non avrebbe ottenuto il prestito basandosi su nulla di meno degno della sua posizione che la fiducia del popolo intero. Soprattutto, non avrebbe accettato alcuna garanzia legata a progetti di assistenza sociale. Sarebbe stato un precedente odioso; una umiliazione e una debolezza permanenti per il governo britannico. Quando finalmente Dolly temette che lui potesse fallire in patria, inviò Benson a Parigi. E se qualcuno poteva riuscirci, quello era proprio Benson. Anche lui aveva fallito a Parigi. Non restava altro che fare un appello personale. Entrambi pensavano allo stesso nome. Ma fu Pennybunt ad suggerirlo dopo alcuni secondi di silenzio: si trattava del Duca di Battersea.
+
+Il Duca di Battersea, il principale e più rispettato finanziere britannico, era ormai un uomo molto anziano. Il suo arrivo in questo paese sotto il nome di semplice signor Barnett, i pregiudizi nei suoi confronti legati al fallimento della Haymarket Bank, la sua “resurrezione” grazie alla creazione della società M’Korio, erano tutte cose accadute una generazione fa, ormai dimenticate. Alcuni ricordavano ancora Lord Lambeth all’inizio del secolo e il suo attivo impegno filantropico, in particolare i modelli abitativi a tasso di interesse del 5% che gli avevano valso prima l’apprezzamento della gente comune, e poi anche dei ricchi; quel soprannome affettuoso ma un po’ ironico di “Peabody Yid” era rimasto nella memoria di molti.
+
+Era il vero centro del mondo di Dolly, l’amico costante e fedele di Mary Smith, una sorta di gentile padrino per tutte le persone a lei legate; e allo stesso tempo, solo il suo nome era in grado di garantire la credibilità di un intero paese. L’Inghilterra aveva fatto bene a dimenticare i suoi rancori verso un uomo del genere, e ora, nel momento del bisogno, il suo nome venne naturalmente in mente a quei due uomini che stavano discutendo dell’onore e delle necessità dell’Inghilterra.
+
+Avevano già fatto la terza svolta nel loro percorso quando quel nome fu pronunciato. Pennybunt aggiunse in fretta: “Certo, l’avete visto, vero?”
+
+“No, non l’ho fatto,” disse lentamente Dolly. “L’ho tenuta come riserva, e non ne sono del tutto sicura, ”
+
+Il leader dell’opposizione non apparteneva esattamente al mondo del suo collega, ma ne conosceva abbastanza – dopotutto, vi aveva trascorso metà dei suoi ultimi sei anni – da sapere che Dolly poteva andare a Battersea House e parlare di quella questione esattamente come un uomo potrebbe parlarne con un amico riguardo a un cavallo. Sapeva anche che la moglie di Dolly era quasi parte della famiglia di Battersea, e si chiedeva quale potesse essere il motivo di eventuali esitazioni da parte sua.
+
+All'improvviso, come se stesse parlando di qualcos'altro, Dolly intervenne, con una voce un po' più alta del solito e meno controllata:
+
+“Conosci le Strade Dirette?”
+
+Pongo rispose in modo vago, dicendo che ovviamente conosceva gli Straits. Fece anche una battuta popolare riguardo al sostegno degli Straits al Partito Nazionale, e rise. “Sono la tua maggioranza,” disse; ridacchiò di nuovo.
 
 
 
@@ -2845,6 +2941,92 @@ As they neared it Pennybunt said a few words that all the inner ring had repeate
 “Yes, thank God for that!” said Dolly fervently. But he knew his wife better than Pennybunt did, and he would have given a good deal to know just where Peggy was on that Sunday before Whitsun. He was ill at ease.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma Dolly era molto seria. “Sai quanto gli eterosessuali tengano in considerazione mia moglie?” disse Dolly senza mezzi termini.
+
+“So che hanno la massima stima della sua capacità di giudizio e che lei è stata per loro l’esempio migliore in questo senso”, rispose Pongo con reverenza.
+
+“Beh,” disse Dolly con il tono di una persona che dice qualcosa che si dice solo una volta nella vita (e mentre lo diceva non riuscì a trattenere quel rapido, furtivo sguardo intorno, tipico forse dei politici), “i Conservatori vogliono opere di soccorso, nient'altro che opere di soccorso. Hanno già iniziato a fare pressione sulla stampa al riguardo. Potrebbero benissimo separarsi se la politica verso l’India non gli andasse a genio.”
+
+“Certo,” disse Pennybunt. Non vedeva nulla di meraviglioso in quello.
+
+“Sì, ma, ” disse Dolly con determinazione, “ciò significa che la maggioranza è contraria al prestito, perché non intendo cedere di un millimetro.”
+
+“Ma la nostra parte non dovrebbe permetterlo,” disse Pongo, metà divertito e metà spaventato. “Perché, perché, perché questo significherebbe la dissoluzione! Il paese non lo capirebbe se non ci fosse una dissoluzione. E poi il prestito dovrebbe essere, oh, assurdo, è un incubo!” No, Pongo non avrebbe mai permesso al suo partito di commettere azioni disoneste.
+
+“Volete dire,” disse Dolly, “che i membri del gruppo ‘The Straits’ entrerebbero da soli nel salone?”
+
+“Non posso garantire per quegli uomini selvaggi,” disse Pennybunt allegramente, “ma non c’è alcun pericolo.”
+
+“E della tua festa in campagna, cosa ne è stato?” chiese Dolly in modo vago.
+
+“Ah, Ludlow mi ha parlato di quella faccenda,” rispose Pongo in modo vago. Il giovane Ludlow, il suo principale assistente, non era molto capace, ma era lì appunto per svolgere quel tipo di compiti; quindi Pongo gli trasmetteva sempre qualsiasi domanda riguardante il partito.
+
+“Sì, ma intendo, ” disse Dolly, con l’irritazione di una persona che non viene capita, “dovete fare qualcosa alla Camera per far capire alle persone comuni la vostra posizione.”
+
+“Certo,” disse Pongo con lo stesso tono naturale che aveva usato prima.
+
+“Beh, e allora?” disse Dolly.
+
+“Oh, non lo so,” disse Pennybunt, ricadendo di nuovo nella vaghezza, “qualsiasi cosa. Dirò loro che ho appena sentito notizie gravi. La Maestà. Il governo, deve andare avanti. Qualsiasi cosa, maledizione!” aggiunse allegramente.
+
+Dolly ci pensò un po’. “Vedi,” disse, scegliendo con cura le parole, “non si può mai sapere. La tua sorte potrebbe portarti in una caverna. Soprattutto se quei ‘diritti’ decidono di scappare all’improvviso!”
+
+“Beh, perché mai i ‘dritti’ dovrebbero scappare?” osò dire Pongo.
+
+Quella era la domanda fondamentale di tutto; la più difficile da rispondere per Dolly, ma doveva essere affrontata, perché l’accordo tra quei due uomini era troppo importante per poter essere evitato con qualsiasi scusa.
+
+“Peggy potrebbe volerli,” disse lentamente. Pennybunt girò lentamente il suo grande viso piatto, con quella cornice di capelli neri attorno al collo robusto, per guardare dritto il Primo Ministro mentre camminavano. Ma il Primo Ministro, con le mani in tasca e continuando a camminare a grandi passi, fissava ancora il terreno.
+
+# Perché mai tua moglie dovrebbe...
+
+“Beh, sì che lo fa!” esclamò Dolly.
+
+“Perché diavolo tua moglie dovrebbe voler interrompere la tua maggiore età?”, ripeté Pennybunt, che a volte non era certo il tipo più gentile.
+
+“Non ho detto che l’abbia fatto,” borbottò Dolly, “ho solo detto che potrebbe averlo fatto. Potrebbe ritenere che questo sia il momento migliore per andare in campagna. Dopo tutto, è sempre molto impegnata a Batterseas,” aggiunse, confidandogli tutto senza riserve.
+
+“O-o-h, capisco…” disse Pennybunt; poi, all’improvviso: “Ma, mio Dio… e che ne sarà dell’India?”
+
+“Oh, non intendo continuare su questo argomento,” disse Dolly — la conversazione stava prendendo una piega che ne riduceva l’utilità, come spesso succede. “Se i Batterseas, e cioè Peggy, vogliono che gli Straights se ne vadano, lo faranno sicuramente. Tutto ciò di cui avevano paura gli Straights era il denaro necessario per una campagna elettorale. E, credimi, lei darà per scontato che anche voi voterete dalla loro parte, così come quel tizio ebreo!”
+
+“Non lo vorrà se riesci a sistemare la questione del prestito con lui,” disse Pongo.
+
+“No,” disse Dolly, “ma non sono ancora stata vicino a lui, come ti ho detto; se vuole una separazione, farà sì che anche mia moglie la desideri, e quando Peggy lo vorrà, si aspetterà che anche la tua sorte vada insieme a quella degli altri.”
+
+“Beh, lei non li otterrà,” disse fedelmente il leader dell’Opposizione. “È deciso!”
+
+Ma Dolly non era ancora soddisfatta di rimanere in silenzio. “È all’estero, sai,” disse lui.
+
+“Sì, lo so,” disse Pennybunt con rispetto. Poi pose quella che sarebbe stata una domanda del tutto normale: “Quando pensi che tornerà?”
+
+“Gli ‘Straight’ non faranno nulla finché lei non arriverà!”
+
+Dolly non rispose. “Se il prestito è approvato, Pongo,” disse lui, “potremmo votare subito dopo la pausa di Natale. Ci sono soltanto dieci giorni: ci alziamo mercoledì prossimo, ci incontriamo martedì e decidiamo allora.”
+
+“Quando vuoi tu,” disse Pongo. “Fai in fretta, sii urgente. Il primo giorno, se vuoi. O anche il Martedì Bianco, se preferisci.”
+
+“Dolly continuava a riflettere… Pennybunt aggiunse:”
+
+“Di certo non ci saranno problemi seri se il Duca di Battersea deciderà di aiutare, soprattutto quando il prestito diventerà davvero urgente, ”
+
+“No,” disse Dolly, come se stesse riflettendo piuttosto che esitare. “I giornali danno per scontato questo prestito. Pensano che sia già stato concesso. Questo potrebbe aiutare,” lo incoraggiò Pongo.
+
+“Sì,” disse Dolly.
+
+“Allora non vedo cosa ci sia ancora da preoccuparsi; se sei sicuro riguardo a Battersea. Vai da lui subito,” disse brevemente Pennybunt. Si considerava il più pragmatico dei due e, nel profondo del cuore, avrebbe voluto trovarsi al posto di Dolly in una situazione del genere. Per quanto riguardava la carica di Cancelliere. Un lungo processo finalizzato a scegliere l’uomo più debole possibile, al solo scopo di evitare il terzo cambiamento nella nuova tariffa, aveva portato George Mulross Demaine in quella un tempo importante posizione. Ma forse sarebbe stato meglio se non ci fosse mai stato. Si potrebbe dire che Dolly, in realtà, era il suo vero Cancelliere.
+
+I due uomini non avevano più nulla da discutere; per Pongo la situazione sembrava risolta. La moglie del Primo Ministro si trovava all’estero e probabilmente non sarebbe tornata per un po’. Gli altri membri del gruppo avrebbero dovuto fare a meno di lei. Forse avrebbero deciso di abbandonare il progetto da soli, magari insieme a uno o due esponenti dell’Opposizione. Ma Pongo si illudeva che la sua dichiarazione di urgenza fosse sufficiente per convincere quasi tutti a rimanere. L’unica cosa da fare era ottenere quel prestito e far approvare il disegno di legge. Dolly non ne era così sicuro, ma l’entusiasmo di Pongo lo incoraggiava. Dopotutto, Peggy si trovava lontano, all’estero.
+
+Pennybunt guardò l'orologio. Da mezz’ora ormai non provava più quella sensazione di aspettativa per un buon pasto, che rappresenta uno dei principali piaceri della vita politica; persino Dolly, che certo non era un uomo dal palato raffinato, attendeva con impazienza il pranzo che li aspettava. Scesero insieme la collina verso la casa.
+
+Mentre si avvicinavano, Pennybunt pronunciò alcune parole che tutti i membri del gruppo avevano ripetuto centinaia di volte negli ultimi mesi:
+
+# Grazie a Dio siamo finalmente liberati dagli irlandesi!
+
+“Sì, grazie a Dio per questo!” disse Dolly con fervore. Ma lui conosceva sua moglie meglio di quanto Pennybunt la conoscesse, e avrebbe dato molto per sapere esattamente dove si trovasse Peggy in quel domenico prima di Whitsun. Si sentiva a disagio.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="Pongo and the Bull — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/food_and_feasting,concept/satire_of_society,concept/hypocrisy,form/satire,form/novel,setting/rural_england"></span>
@@ -2925,6 +3107,82 @@ There was a silence until Victoria Mosel, having thoroughly finished her plate o
 “You did nothing of the sort,” snapped Mary Smith. “Do you mean to say you knew it all the time and didn’t tell us?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO II
+
+“Esiste soltanto un segno che distingue la gente nobile: non è l’abitudine alla ricchezza, né il tempo libero, e tanto meno alcuna qualità morale come la carità o il coraggio. È una tranquillità di modi indelebile.” — JEANNETTE C. GRISELL (“George Pounder”) in “New England Pearls”.
+
+Mary Smith, qualche momento dopo a pranzo, suggerì in modo molto gentile che avevano parlato di lavoro.
+
+Il Primo Ministro annuì; aveva la bocca piena e non riusciva a parlare.
+
+Il leader dell’opposizione, la cui giovinezza era trascorsa in ambienti più rigidi di quelli del Primo Ministro, aspettò fino a quando non ebbe ingoiato un grosso pezzo di prosciutto spagnolo; poi disse “Sì” e annuì anche.
+
+“Avete continuato a parlare della dissoluzione,” disse Mary Smith con decisione, ma un po’ nervosamente.
+
+Il Leader dell’Opposizione disse “Sì”, mentre il Primo Ministro rispose “Non esattamente”; spiegò che avevano discusso su quando tenere le elezioni. E Mary Smith, che aveva solo una vaga idea della differenza tra i due concetti e sapeva soltanto che erano collegati in modo di causa-effetto, disse pensierosamente: “Capisco.”
+
+C'era molto grigio nella oscurità dei suoi capelli, ma lei disdegnava di sbiancarli. Non faceva parte delle sue tradizioni, né, del resto, del suo stile. Il Primo Ministro continuava a mangiare in modo stanco e affaticato; il Leader dell’Opposizione, il cui aspetto, quando sedeva e quando la lunghezza dei suoi bracci e la brevità delle sue gambe risultavano meno evidenti, aveva una certa dignità. Anche lui continuava a mangiare con la stessa energia di quando era più giovane. Per il momento, questi tre erano soli.
+
+“Beh, cosa hai deciso?” chiese Mary Smith.
+
+“Non abbiamo ancora deciso nulla,” rispose il Primo Ministro, con un tono leggermente irritato. Seguì un lungo silenzio, durato circa quattro secondi. Poi Mary Smith si offrì volontaria di dire qualcosa:
+
+“Quando tornerà Peggy?”
+
+Non fu un commento molto fortunato. Il Primo Ministro rispose in tono brusco: “Non lo so. È laggiù, tra quelle piccole ferrovie francesi; sta arrivando lentamente verso nord.”
+
+“Perché non fai un bonifico sulla banca di Parigi?” suggerì Mary. “Lei telefona sempre lì tornando a casa; deve farlo, le manca sempre denaro.”
+
+“Sì”, concordò il Primo Ministro, “le risorse stanno per finire… ma non c’è alcuna urgenza”.
+
+“Farò una telefonata; vorrei sentire cosa ha da dire”, osò dire Mary.
+
+“Oh no, signora Smith, non si preoccupi,” disse stupidamente il leader dell’opposizione; poi, sentendo di aver detto troppo, bevve rapidamente un bicchiere molto grande di vino e si soffocò. Per coprire la sua gaffe, aggiunse all’improvviso: “Dovrò andare in città molto presto domani.”
+
+“Lo so,” disse Mary Smith in tono deciso, “l’hai detto tre volte, e ho già preparato per te quel motore più potente, perché ti eri opposto a quello più leggero.” Si era davvero impegnata molto in questo, e non le piaceva che la cosa venisse data per scontata.
+
+“Lo so,” disse con impazienza il leader dell’opposizione, parlando solo per mascherare la propria confusione. “Vorrei non essere dovuto andare, ma devo esserci entro le una. Andiamo insieme?” chiese, guardando Dolly.
+
+“Sì, penso che sia la soluzione migliore per te, Mary,” disse Dolly. “Ma non partirò presto,” aggiunse allarmata, “non prenderò quell’espresso delle undici di cui parli.”
+
+“Non c’è nessun altro treno fino alle tre,” disse Mary. Era piuttosto infastidita dal fatto che i suoi desideri venissero così poco considerati.
+
+“Molto bene,” disse il Primo Ministro, annuendo verso Pongo. “Lasciatelo andare con l’auto alle 11; ci penserò io quando verrò.”
+
+“Non mi hai ancora detto cosa hai organizzato riguardo alla dissoluzione,” stava per dire Mary Smith, quando Victoria Mosel entrò nella stanza canticchiando ad alta voce. Indossava il suo abito da cavallerizza, i capelli erano in ordine e i suoi occhi brillavano di curiosità; questo fece sì che Dolly, che stava per rispondere, si zittisse all’improvviso. Lo fece con tale rapidità che per un momento il suo viso assunse un’espressione decisa, ma quella sensazione svanì subito. Victoria continuò a camminare, canticchiando ancora più forte, si avvicinò a un comodino, tagliò una grossa fetta di carne fredda e portò il piatto vicino al leader dell’opposizione. I dieci anni trascorsi da quando il lettore l’aveva vista l’ultima volta (se mai l’aveva fatto) non avevano cambiato nulla nella sua vita: era ancora single. Si avvicinò rumorosamente alla sedia di Pongo, gli diede una pacca sulla schiena e lo pregò di non preoccuparsi se stava discutendo di lavoro; poi aggiunse.
+
+“Posso sempre ‘sfruttare’ Mary, sai…”
+
+“Non c’è nulla da pompare, Vic,” disse Mary Smith con un tono leggermente brusco.
+
+“Sì, c’è,” disse Victoria Mosel con calma, “ma in ogni caso non importa, perché ormai è tutto venuto alla luce.”
+
+“Allora ne sapete più di noi su questa questione, signorina Mosel,” disse Pennybunt con espressione cupa.
+
+“La zia Rebecca lo fa,” disse Victoria con tranquillità. E davanti alle menti turbate dei due politici apparve l’immagine della Duchessa di Battersea.
+
+Altri due membri del gruppo entrarono lentamente; erano due fratelli più giovani, alcuni dei numerosi cugini di Mary; si misero in piedi con le spalle rivolte al fuoco.
+
+“Non mangerai niente?” disse Mary Smith.
+
+“Ho appena fatto colazione,” disse uno di loro. L’altro si girò le spalle al gruppo, allungò la mano verso il fuoco e tremò. “Stamattina fa un freddo terribile,” disse.
+
+“Dovresti uscire a fare una passeggiata, proprio come facciamo noi”, disse gentilmente il leader dell’opposizione.
+
+“No, grazie,” disse il giovane, e continuò a scaldarsi, mentre suo fratello fissava il soffitto e riempiva lentamente una pipa molto grande. Poi abbassò la testa, mise la pipa in bocca e l’accese lentamente, soffiando grandi nuvole di fumo verso il cibo sul tavolo, mentre rifletteva su tutte le cose umane e divine.
+
+Regnò il silenzio fino a quando Victoria Mosel, dopo aver finito completamente il suo piatto di carne e deciso di non mangiare più nulla, tirò fuori una sigaretta e, mentre la accendeva, mormorò:
+
+#"La schiena di Peggy!"
+
+“Che cosa!” gridò il leader dell’opposizione, dimenticandosi completamente delle buone maniere.
+
+“Te l’avevo detto,” disse Dolly, con un sorriso strano.
+
+“Non hai fatto nulla del genere,” esclamò Mary Smith. “Vuoi dire che lo sapevi tutto il tempo e non ce l’hai detto?”
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="Pongo and the Bull — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/money_and_avarice,concept/materialism,form/satire,form/novel"></span>
@@ -3001,6 +3259,78 @@ When, thirty-five years before, Mary Smith had married his nephew, Bartelot Smit
 G. Quinlan Smith had grown with the times. He commanded as many millions as you might choose to name, and the proportion that he owned out of what he commanded was indifferent to him; it was the command that pleased. But what he actually owned was enough to make him first the equal, and now the superior, of the great banking houses which the European gentry had long since learnt to fear. He had been in England for two months, after passing the best part of the year before in the States and on the Continent; and, being in England, he stayed, as he always did, with his nephew’s wife. He was fond of her. She was the only person except his secretary who never reminded him of his deafness.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Primo Ministro, noto per la sua astuzia, sembrò perplesso e non disse nulla.
+
+“Dove è?” disse finalmente il leader dell’opposizione, con un tono leggermente frenetico.
+
+“Certo, la casa della zia Rebecca,” disse Victoria Mosel, godendosi il proprio trionfo.
+
+Ora era il turno del Primo Ministro di sentirsi infastidito.
+
+“Maledetta!” esclamò con rabbia. “Stanno al telefono?”
+
+“Sì, ma io no,” disse Mary Smith con disinvoltura, “C’è un telefono nel villaggio, se ne avete così voglia, e anche l’Istituto ne ha uno.”
+
+“Non va affatto bene,” disse il Primo Ministro, con più eccitazione di quanto volesse mostrare. “Per una cosa del genere, uno dovrebbe davvero essere messo sotto sorveglianza costante. Non voglio che lei esca e poi torni indietro, e così via. Voglio parlare con lei. È proprio da lei andare a Battersea House senza dirmelo,” mormorò il Primo Ministro. “Chi c’è là dentro, Victoria?” chiese ansiosamente.
+
+“Volevo chiedervelo anch’io, signorina Mosel,” disse Pennybunt, “perché penso che una mia amica sia lì.”
+
+“Beh, non intendevo dirlo né a te né all’altro,” disse Victoria Mosel, “perché non lo so.”
+
+“Non rende le cose affatto più semplici,” sospirò il Primo Ministro quasi tra sé e sé, poi aggiunse: “Che situazione disgustosa. Vorrei davvero,” continuò con quel suo tono lamentoso e acuto, “che qualcuno riuscisse a farle capire quanto tutto questo metta a disagio tutti!”
+
+“Oh, lei capisce benissimo,” disse Victoria Mosel con calma.
+
+“Quando hai avuto notizie di lei, Vic?” chiese Mary.
+
+“Non ho ricevuto notizie da lei… Me l’ha detto zia Rebecca: ha ricevuto una lettera ieri sera.”
+
+“Allora perché diavolo non ce l’hai detto?” mormorò Dolly.
+
+“Il leone… è stato liberato”, disse il giovane che fumava la pipa accanto al fuoco.
+
+Suo fratello, ancora tremante, con le spalle ancora voltate e le mani ancora aperte verso il fuoco, commentò che faceva un freddo terribile.
+
+“Vorrei”, disse Mary Smith, “che voi ragazzi non steste lì a fare commenti. Non è affar vostro.”
+
+“Mary, Mary!”, disse il giovane che stava fumando, alzando un dito con aria teatrale.
+
+“Beh, va tutto bene,” disse Mary Smith, “ma non stai mangiando, e non dovresti essere qui.”
+
+“Sto fumando”, disse sua cugina come scusa, “e Jack si sta riscaldando”.
+
+Il Primo Ministro sospirò profondamente, si alzò dalla sedia, andò vicino alla grande finestra e guardò fuori verso il parco.
+
+“Se fossi in voi due,” disse Victoria Mosel, rivolgendosi con tono gentile al leader dell’opposizione, che sedeva fissando il proprio piatto, “ci penserei bene prima di decidere.”
+
+Il leader dell’opposizione si alzò più impazientemente del suo collega, perché era più giovane; non appena si fu alzato, sembrò ancora più basso di prima. Incrociò le braccia lunghe dietro la schiena e, dopo un attimo di riflessione, prese una decisione. Uscì dalla porta che conduceva alla biblioteca, dicendo che doveva scrivere alcune lettere.
+
+Il Primo Ministro, dopo aver osservato per circa cinque minuti il paesaggio lontano – i campi di Herefordshire che si estendevano tutti insieme nel parco, e l’erba che digradava verso i boschi partendo dalla casa – mentre gli altri non parlavano di nulla e Victoria Mosel sorrideva come una sfinge per il piacere che provava, uscì dalla porta opposta che conduceva nell’atrio.
+
+“Non starai mica seduta lì tutto il giorno, vero, Victoria?” disse Mary Smith, quasi arrabbiata.
+
+“No, caro,” disse Victoria con dolcezza, “vengo con te.” La punta della sua sigaretta ora pendeva inerte, attaccata al suo labbro inferiore, proprio come accadeva quando si divertiva davvero molto dentro di sé.
+
+Mary Smith uscì di fretta diretti alla biblioteca; Victoria Mosel la seguì, prese un pezzo di pane e lo lanciò verso il ragazzo più anziano dei due, che si abbassò per schivarlo; in risposta, l’altro ragazzo scagliò un cuscino dalla sedia. Proprio mentre usciva, bussò sul vetro della finestra: il secondo ragazzo, che stava ancora riscaldandosi, si girò di scatto, e entrambi videro ciò a cui lei stava indicando: il Primo Ministro e il Leader dell’Opposizione stavano passeggiando insieme, immersi in una profonda conversazione, sul bordo del prato.
+
+“Povero Pongo!”, disse Victoria uscendo.
+
+I due giovani si sedettero senza entusiasmo su due sedie accanto al fuoco, per riflettere su quale forma dovessero assumere le loro prossime attività.
+
+Ed è così che la grande notizia arrivò a Habberton.
+
+* * *
+
+G. Quinlan Smith, un uomo molto anziano e importante, di statura piccola e curva ma ancora sveglio, entrò nella sala da pranzo; guardava dritto davanti a sé e non prestava alcuna attenzione ai giovani inglesi, così come questi non prestavano attenzione a lui. A quel tempo era ormai abituato alle maniere più raffinate del Vecchio Mondo, ma da giovane si alzava sempre davanti ai suoi anziani e chiamava suo padre “Sir”.
+
+Sotto il braccio destro portava, con qualche difficoltà, un enorme atlante. Allontanò le carte dal grande tavolo per fare spazio, posizionò l’atlante con cura, lo aprì sulla mappa dell’India, si versò un bicchiere d’acqua e si preparò un panino ordinato; mentre mangiava il panino e beveva l’acqua, studiava attentamente la mappa davanti a sé. Era un vecchio uomo, con una sola mania e cento interessi diversi; questi ultimi lo spingevano ad analizzare ogni fatto e ogni dato che incontrava, con una vivacità sorprendente per la sua età. E mio Dio, quanto fosse vecchio! Da ragazzo aveva partecipato alle guerre contro la Ribellione; aveva visto mille cose, ma ciò che gli importava davvero era un solo obiettivo: costruire quella grande fortuna di cui ora disponeva.
+
+Quando, trentacinque anni prima, Mary Smith sposò suo nipote, Bartelot Smith, di Bar Harbour, nel Maine, e della New Bessemer, a Birmingham, in Alabama, lui era già uno degli uomini più ricchi del paese; quel nipote, grazie soprattutto a quella connessione familiare, lasciò Mary Smith, dopo meno di un anno di matrimonio, come una vedova ricca, proprio come lo è ancora oggi.
+
+G. Quinlan Smith era cresciuto insieme ai tempi. Comandava su milioni di persone, e la percentuale di quelle risorse che gli appartenevano non aveva alcuna importanza per lui; ciò che contava davvero era il potere stesso che esercitava. Ma ciò che possedeva effettivamente era sufficiente per renderlo, prima un pari e ora addirittura un superiore rispetto alle grandi banche di cui la nobiltà europea da tempo temeva l’influenza. Era stato in Inghilterra per due mesi; aveva trascorso la maggior parte dell’anno negli Stati Uniti e nel Continente. Essendo in Inghilterra, come al solito soggiornava presso la moglie di suo nipote. Gli piaceva molto: era l’unica persona, oltre al suo segretario, che non gli ricordava mai della sua sordità.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="Pongo and the Bull — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/capitalism,concept/democracy,form/satire,form/novel"></span>
@@ -3030,6 +3360,32 @@ As he said it he put his thumb down upon the famine area, his forefinger upon th
 
 Mary Smith shut the atlas and bore it away.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per G. Quinlan, la sordità era l’unica realtà che non riusciva a sopportare di affrontare; era anche la verità il cui ricordo disturbava il suo ammirevole autocontrollo.
+
+I due giovani uomini, che lo avevano incontrato per la prima volta durante questa visita, da tempo avevano smesso di tener conto di lui. Se fossero stati un po’ più anziani, forse avrebbero mostrato maggiore attenzione nei suoi confronti. Ai servitori era stato ordinato di non rispondergli ma di eseguire i suoi ordini; quanto a Victoria Mosel, quando scese alla festa in casa e lo trovò a Habberton, cercò di evitare ogni contatto con lui il più possibile (dopo un primo tentativo infruttuoso di instaurare una relazione amichevole). Ora si limitava a chiamarlo con nomi offensivi davanti a lui, convinta che non potesse sentirla.
+
+Se stesse pensando a affari o se avesse mai preso in considerazione questioni di lavoro da quando era arrivato in Inghilterra questa volta, sarebbe stato impossibile scoprirlo. Era molto riservato riguardo agli affari. Portava con sé il suo segretario australiano, un uomo che aveva addestrato a eseguire i suoi ordini come si addestra un animale; quasi solo tra gli esseri umani, quell’uomo sapeva esattamente come rivolgersi a lui senza enfasi, ma in modo tale che le sue parole venissero ascoltate e comprese. Di tanto in tanto, il banchiere dettava alcune note a quel segretario; per il resto, l’anziano si dedicava continuamente a raccogliere informazioni su distanze, tempo atmosferico, popolazione e ogni tipo di statistica possibile. Quella mattina, poiché i giornali iniziavano a mostrare una certa preoccupazione per l’India, stava studiando la mappa di quella colonia.
+
+Dopo essere rimasto a lungo così, con i suoi occhi vecchi e luminosi fissi sulla pagina, osservando attentamente quei nomi stranieri e confrontandoli con il giornale che gli era stato lasciato davanti, i due giovani decisero quale sarebbe stata la loro prossima attività. Si alzarono lentamente e uscirono. Lui nemmeno si girò per guardarli andare via. Prese qualche appunto sul retro di una busta con la penna, misurò alcune distanze sulla scala, e una volta soddisfatto su questo ultimo degli interessi che lo occupavano ogni giorno, uscì di nuovo, il suo vecchio viso curioso incorniciato da un sorriso ironico, tipico di lui; quel sorriso non derivava certo dalla conoscenza della situazione politica del momento né dalle sue necessità.
+
+I servitori sparecchiarono la tavola, lasciando l’immenso atlante esattamente dove si trovava, poiché temevano di muovere qualsiasi cosa appartenente a lui senza ordini speciali; quando Victoria Mosel e Mary Smith rientrarono nella stanza, lo trovarono ancora aperto davanti a loro, con la vasta mappa dell’India che sembrava porgli domande. Dietro di loro, tornando dal loro giro, entrarono Dolly e Pongo: entrambi più ansiosi di quanto lo fossero stati quella mattina, ma entrambi più chiari riguardo al loro piano comune, poiché sapevano che la crisi era arrivata. Era stato deciso che Dolly dovesse andare in città quella stessa notte, senza attendere; lui avrebbe dovuto incontrare il Duca di Battersea entro l’indomani al più tardi, mentre Pongo lo avrebbe seguito quando ne avesse avuto l’opportunità.
+
+Nel frattempo, era necessario comunicare a Mary il cambiamento di piani. La trovarono china sull’atlante insieme a Victoria, mentre cercavano di individuare i luoghi menzionati dal giornale quella mattina. Dolly indicò loro il centro dell’ultima zona colpita dai disastri e l’area interessata dalla carestia; mostrò inoltre il triangolo sempre più ristretto formato dai fiumi, dove erano stati proposti interventi di soccorso, e infine indicò la linea di colline che segnava il pericolo di cui avevano solo sentito parlare vagamente.
+
+“Sembra davvero sciocco,” disse Victoria, “che le persone che soffrono di carestia laggiù facciano sì che queste altre persone lassù inizino a combattere.”
+
+“Forse non hanno nulla a che fare con questa faccenda,” osò dire Mary Smith, osservando attentamente quella pagina priva di senso.
+
+“Sono circa 300 miglia,” disse il leader dell’opposizione, senza trovare nulla di più interessante da aggiungere.
+
+Mentre lo diceva, posò il pollice sull'area colpita dalla carestia e l'indice sul punto centrale delle zone più colpite dall'ansia, per indicare la distanza.
+
+“Sono circa 300 miglia,” disse di nuovo – anche se in realtà loro non volevano saperlo. Notando che la sua osservazione era stata accolta con indifferenza, riprese a parlare; nei punti in cui il pollice e l’indice avevano premuto sulla pagina, erano rimasti due segni sporchi.
+
+Mary Smith chiuse l’atlante e se lo portò via.
 
 
 
@@ -3067,6 +3423,38 @@ Her father, though his business relations with the Prime Minister had been close
 It was, as Dolly himself must have felt, an experiment, but it had thoroughly succeeded. Fond as his wife was of foreign travel, and eager as were her friends and relatives throughout Europe to receive her, she would often spend the most important weeks of the political year in London either at Battersea House or with her husband himself. Her money, of which she had retained complete control, was always at his service, and while so late a union forbade slanderous tongues to say that she had “made” her husband, it is certain that this considerable accession of wealth added something to the strength of the Opposition during the four years of that political exile. Dolly had come back to power with a sense of security which is everything in political life, and which as his age advanced was especially necessary to him. It was touching to see with what zeal this woman, who had hitherto professed an indifference to party, threw herself into her husband’s cause. Before her marriage Battersea House had been a second home for her, and she might have seemed the adopted daughter of the great financier who was her father’s most intimate friend. It was the Duchess through whom this intimacy had arisen. That old and dignified but careworn woman had felt a great blank in the life of London. Unlike her husband, she had never been able to mould herself to the English language or the conventions of English life. The sudden death of her son by a fall from horseback at the head of his Yeomanry in the Potteries would have killed her had not Peggy, who was already a near and a dear friend, been with her night and day during that terrible time. Since that moment it was difficult to say whether it was through the Batterseas or through her own vigorous and delightful character that Peggy’s entry into the society of London lay. With the Batterseas came Mary Smith, and with Mary Smith, of course, Dolly; and Mary Smith (though no one would believe it) decided, on the Baron’s death, that the match should take place. There is the simple story of Dolly’s marriage.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO III
+
+“. E pregò affinché finalmente il suo piede lasciasse la propria impronta sull’erba silenziosa, con piena soddisfazione.”
+
+Giovane.
+
+Margaret de Villon era la figlia di un nobile; di origine francese, si distingueva in vari modi.
+
+Il Barone de Villon, così come si autodefiniva coraggiosamente, si era naturalizzato quarant’anni prima, quando sua figlia era ancora una bambina. Da allora viveva a [[London|Londra]], e la grande azienda, della cui filiale inglese egli dirigeva le operazioni, lo considerava un inglese in tutte le sue transazioni internazionali. Come inglese, era anche accettato dalla comunità di [[London|Londra]] nel suo complesso, e soprattutto dai politici; tuttavia conservava ancora tracce del proprio accento nativo, specialmente nella pronuncia della lettera “s”. Non apparteneva a quegli uomini che si legano profondamente a un determinato paese, né nei loro costumi né nei loro sentimenti: aveva viaggiato troppo e visto troppe cose per conservare simili entusiasmi melodrammatici; ma aveva troppo rispetto per se stesso per negare la propria nazionalità o fingere di essere qualcun altro diverso da ciò che era per origine. Tuttavia, i ricordi della sua giovinezza e il crescente valore del sito in cui si trovava lo spingevano a rimanere attaccato al vecchio Castello de Villon sulla Charente, uno dei più nobili monumenti del Rinascimento francese; una proprietà di cui qualsiasi uomo avrebbe potuto andare fiero.
+
+Lo visitava di rado. Con la generosità tipica delle persone della sua posizione, l'aveva aperto al pubblico; la piccola tariffa richiesta ai visitatori veniva utilizzata principalmente per le spese di manutenzione dell'edificio. Lui stesso era nato lì, e quando arrivò il momento di doverlo cedere a un ricco brasiliano, il dolore fu profondo.
+
+Per quanto quel luogo fosse familiare e caro per lui, da molte generazioni non apparteneva più alla sua famiglia. Suo padre, il signor de Rouviers, aveva ereditato quel titolo dal proprio paese natale: il Castello di Rouviers nelle Ardenne belghe. Tuttavia, aveva venduto quella proprietà quando la filiale parigina della banca di Bruxelles era diventata più importante della sede principale; di conseguenza, tutta la famiglia de Rouviers emigrò e si stabilì alla corte di Napoleone III, che sosteneva con grande entusiasmo fino allo scoppio della guerra franco-prussiana. Ma non va dimenticato che questa origine olandese spiega in gran parte il carattere di Margaret de Villon, e quindi anche gli eventi di questa storia: il nonno di Margaret, infatti, un gentiluomo olandese di nome Kahn, ereditò a Amsterdam un solido negozio di taglio dei diamanti situato nella Zwanenburger-Straat. Ancora oggi, questo negozio viene mostrato ai curiosi ed è assicurato con una copertura elevata.
+
+In questo paese non è nostra abitudine distinguere tra il cognome e il titolo territoriale dei nobili stranieri. Furono accettati come “De Villon” e rimasero De Villon. Tuttavia, è un ottimo indicatore delle loro eccellenti qualità il fatto che non abbiano mai omesso la preposizione straniera davanti al loro nome; quel nome, infatti, avrebbe potuto facilmente essere scambiato per inglese se avessero deciso di scriverlo senza quella particella.
+
+Margherite, unica figlia del barone in questo paese, era una donna di trent’anni, ancora single, quando Dolly, che all’epoca si trovava nell’Opposizione, osò, con grande sorpresa del mondo ma non certo di coloro che la conoscevano bene, chiedere la sua mano in matrimonio.
+
+C'erano trent'anni di differenza tra loro, e una diversità – almeno superficiale – nel carattere e nell'aspetto che faceva sì che tutti, tranne coloro che lo conoscevano meglio, considerassero quell'esperimento pericoloso.
+
+Era proprio come i miei lettori lo conoscono: un uomo alto, quasi emaciato, di sessantasei anni, attento alle proprie abitudini, con un passo leggermente curvo, miopico, con pochi capelli ormai bianchi, e con quella strana mobilità delle labbra anche quando taceva, segno di una natura estremamente sensibile, quasi fino al punto della nevrosi.
+
+Era una donna forte e integra, con il naso e le labbra grandi, i capelli neri come il carbone e gli occhi lunghi e brillanti tipici della razza franco-olandese; tratti che, diventando ancora più evidenti dopo i trent’anni, contribuivano all’impressione di forza che lei trasmetteva. La sua capacità di indossare grandi quantità di gioielli senza eccesso, nonché il tono relativamente alto della sua voce, venivano attribuiti dai suoi amici alla sua origine francese; forse era invece la sua parte olandese a spiegare la rapidità dei suoi gesti e la sua profonda comprensione di quel vasto cerchio di amici che dominava nella società di [[London|Londra]].
+
+Il delicato nome straniero “Marguerite”, che aveva assunto fin da piccola, le si addiceva tanto quanto il nomignolo inglese “Peggy”, che ne aveva preso il posto quando era ancora una ragazza. Ma lei rimase sempre “Peggy”, e coloro che desideravano vantare un'amicizia di cui in realtà non godevano affatto, contribuirono ad alimentare questa abitudine, riferendosi sempre a lei con quel nome. Questa pratica si diffuse persino nei giornali che cercavano di creare un senso di intimità con le grandi personalità. Nei dibattiti politici, era ormai onnipresente.
+
+Suo padre, sebbene avesse avuto rapporti molto stretti e intimi con il Primo Ministro, non aveva mai accettato alcun titolo nobiliare. Era morto alcuni mesi prima del matrimonio, lasciando alla figlia una parte considerevole della sua enorme fortuna, nella misura consentita dalle disposizioni della banca familiare; e coloro che lo conoscevano bene dicevano generalmente che Dolly, per motivi domestici, aveva deciso di consolidare l'alleanza con quella famiglia soltanto dopo la morte del banchiere, il quale forse avrebbe potuto opporsi a un matrimonio politico.
+
+Era, come lo stesso Dolly doveva aver sentito, un esperimento, ma aveva avuto pieno successo. Per quanto sua moglie amasse viaggiare all’estero, e per quanto i suoi amici e parenti in tutta Europa fossero desiderosi di riceverla, spesso trascorreva le settimane più importanti dell’anno politico a Londra, sia a Battersea House che con suo marito stesso. Il suo denaro, su cui manteneva un controllo totale, era sempre a disposizione di lui; e sebbene un matrimonio così tardivo impedisse alle lingue calunniose di dire che fosse stata lei ad “aver fatto” suo marito, è certo che questa notevole aggiunta di ricchezza abbia contribuito a rafforzare la posizione dell’Opposizione durante quei quattro anni di esilio politico. Dolly era tornata al potere con una sensazione di sicurezza, qualcosa di essenziale nella vita politica, e che diventava particolarmente necessario con l’avanzare degli anni. Era commovente vedere con quale entusiasmo questa donna, che fino ad allora aveva mostrato indifferenza verso i partiti politici, si dedicasse alla causa di suo marito. Prima del matrimonio, Battersea House era stata per lei una sorta di seconda casa; sembrava quasi la figlia adottiva di quel grande finanziere che era l’amico più intimo di suo padre. Quell’intimità era nata grazie alla Duchessa. Quella donna anziana e dignitosa, ma segnata dalle vicissitudini della vita, aveva sempre provato un senso di vuoto nella sua esistenza a Londra. A differenza di suo marito, non era mai riuscita ad adattarsi alla lingua inglese o alle convenzioni della vita britannica. La morte improvvisa di suo figlio, avvenuta in seguito a una caduta da cavallo durante un’operazione militare, l’avrebbe distrutta se Peggy, che ormai era diventata sua amica intima, non fosse stata al suo fianco giorno e notte in quel terribile periodo. Da quel momento in poi, è difficile dire se sia stato grazie alla famiglia Battersea o al carattere energico e affascinante di Peggy che lei abbia potuto integrarsi nella società londinese. Con i Battersea arrivò anche Mary Smith, e naturalmente, insieme a Mary Smith, anche Dolly. E fu Mary Smith (anche se nessuno lo avrebbe creduto) ad decidere, dopo la morte del Barone, che il matrimonio dovesse avvenire. Questa è la semplice storia del matrimonio di Dolly.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="Pongo and the Bull — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/socialism,concept/democracy,concept/power_and_corruption,concept/class_conflict,concept/party_politics,form/satire,form/novel,histref/irish_question"></span>
@@ -3094,6 +3482,30 @@ The result might seem, to those who know little of the game, insufficient. It wa
 
 The Straights returned to Westminster after the election of 1918 only twenty-three seats stronger than they had left; their total muster roll was seventy-four; but those seventy-four were in part to mould and always to support the National party. They were willing and quite sincerely willing to support the general programme of armament and of Imperial policy for which the National party now stood.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora era salita al trono come leader di tutto il mondo politico; non perché fosse la moglie del Primo Ministro – lo aveva sposato, con quel raro e bellissimo atto di auto-sacrificio tipico delle donne, proprio poco prima che lui decidesse di entrare in opposizione con Pongo – ma perché, tra tutte le donne parenti o mogli dei principali politici dell’epoca, lei era di gran lunga la più intelligente.
+
+Il leader dell’altra fazione politica era scapolo, ma la maggior parte dei suoi colleghi, così come quelli di Dolly, avevano ottenuto i loro successi grazie a contatti che Peggy stessa aveva organizzato. Non temeva alcuna seria concorrenza. Nella completa felicità della sua vita coniugale c’era però un piccolo difetto: la sua relazione con il marito non si approfondiva, ma nemmeno si riduceva. In breve, Peggy fidava molto di più nel proprio giudizio politico che in quello del marito.
+
+La vitalità tipica della sua età, e ancora di più quella caratteristica del temperamento franco-olandese dei Khan, rendevano impossibile per un uomo della sua educazione portare a una crisi un conflitto di opinioni che era sempre presente e che talvolta suscitava in lui le più gravi preoccupazioni. Fino ad allora, la sua abilità, acquisita in quarant’anni di attività parlamentare, si era rivelata sufficiente per contrastare le sue decisioni troppo rapide e a volte violente. In un certo senso, doveva ammettere che lei si era dimostrata estremamente saggia.
+
+Fu durante le elezioni del 1918 che Peggy conobbe i “Conservatori”. Dopo quattro anni di opposizione, il Partito Nazionale rischiava di perdere nuovamente a causa dei suoi errori riguardo al disegno di legge per l’allargamento delle strade.
+
+Non li aveva inventati affatto; anzi, non aveva nemmeno dato loro il soprannome con cui ora erano conosciuti e che aveva reso loro così influenti nello Stato. I “Straights” rappresentavano semplicemente qualcosa che era inevitabile dovesse accadere: si trattava di un gruppo di puri collettivisti, formatisi nel campo del socialismo municipale, desiderosi di lavorare e dotati di una vasta conoscenza tecnica, ma estremamente fedeli alla loro teoria politica. Fu puramente casuale che la metà di loro non fossero donne. Essi rappresentavano il socialismo così come i numerosi socialisti sparsi in tutto il paese lo avevano sempre inteso; sostenevano la nazionalizzazione di tutti i mezzi di produzione, distribuzione ed scambio. Partendo da un piccolo gruppo fanatico sorto nel 1914, grazie alla forza delle loro convinzioni e al loro impegno, erano diventati il partito più potente, sebbene il più piccolo, all’interno del Parlamento; e pur essendo composto da poco più di cinquanta persone, occupavano una posizione simile a quella che un tempo avevano gli irlandesi a Westminster.
+
+Non si sapeva mai come avrebbero votato i Conservatori, ma si conosceva sempre il motivo per cui lo facevano; e la paura di quel voto coerente e disciplinato, espresso senza esitazioni e in un istante da una parte o dall’altra, li rese, come li ho definiti io, la principale forza politica a Westminster a partire dal 1918.
+
+La loro forza nel dibattito era forse ancora maggiore del potere decisionale che la loro disciplina e logica gli conferivano. Quasi nessuna questione pratica veniva sollevata davanti alla Camera dei Comuni senza che qualche portavoce dei gruppi conservatori non si alzasse per discuterla con una conoscenza e una chiarezza tali da mettere i suoi colleghi in grande imbarazzo. Conoscevano meglio degli stessi dirigenti ferroviari le questioni legate alla gestione delle ferrovie, meglio dei vecchi segretari sindacali incaricati di difendere determinati settori lavorativi le condizioni di lavoro in quegli ambienti, e infinitamente di più degli altri membri del gruppo riguardo agli esperimenti coloniali in materia agraria. Non avevano trascurato uno studio approfondito dei vari settori militari; uno dei dibattiti più memorabili della sessione del 1916 ebbe luogo una calda sera di giugno, quando Malcolm – fino ad allora uno dei membri meno noti di quel gruppo eccezionale – riuscì a tenere la Camera per un’intera ora, dimostrando in modo incontrovertibile i vantaggi strategici straordinari dell’isola di Heligoland, descrivendo in dettaglio le sue strutture e riassumendo in modo indelebile il ruolo che avrebbe svolto in eventuali guerre future in cui l’Impero tedesco fosse stato coinvolto. Sottolineò con chiarezza quanto fosse ormai impossibile per qualsiasi flotta straniera riconquistare quel territorio e concluse evidenziando quale potere avrebbe rappresentato per la Gran Bretagna se fosse ancora stato nelle sue mani (cosa che, in realtà, non era). Non fu mai pronunciato un discorso più approfondito e prezioso di quello. Alla fine insistette sull’assurdità e sulla vacuità dell’intero dibattito, che aveva durato esattamente sessantasette minuti.
+
+Quindi, quando dico che Peggy aveva scoperto i “Straits”, non intendo dire che li avesse creati o che li avesse fatti conoscere al grande pubblico. Non si trattava di persone che lei potesse incontrare nelle case delle persone comuni; erano quasi tutti professionisti attivi: medici, avvocati, e in numero ancora maggiore giornalisti. Le eccezioni erano rappresentate dai giovani eredi di milioni di sterline appena usciti dall’università, quelli che la dottrina collettivista aveva sempre attratto.
+
+No, Peggy non aveva né conosciuto né presentato i membri del gruppo “The Straights”, ma politicamente li aveva scoperti. Capì come e perché avrebbero sostenuto il Partito Nazionale alle elezioni del 1918; riuscì a convincere – “convincere” è una parola troppo forte; per essere più precisa, chiese loro il permesso di sostenerli – visto che i problemi finanziari rappresentavano un’eterna preoccupazione per loro. Si guadagnò la loro fiducia, conquistò l’animo della loro leadership e rafforzò tutte le risorse disponibili per la loro campagna elettorale, non solo nella misura necessaria, ma addirittura in quantità tre o quattro volte superiore. Riuscì nell’intento: ottenne il sostegno di quattro delle sei principali organizzazioni, e persino della nuova e fino ad allora derisa Lega Antibattaglie di Tori, affinché appoggiassero i loro candidati. Ovunque intervenisse a loro favore, quelle forze, soprattutto quelle finanziarie, che altrimenti sarebbero potute disperdersi in sforzi minori o essere sprecate per uno dei due grandi partiti concorrenti, venivano dirette verso di loro.
+
+Per coloro che conoscono poco questo gioco, il risultato potrebbe sembrare insufficiente. In realtà, invece, era enorme.
+
+I “Straight” tornarono a Westminster dopo le elezioni del 1918, con soltanto ventitré seggi in più rispetto a prima; il loro numero totale era di settantaquattro; ma quei settantaquattro seggi erano in parte destinati a plasmare e sempre a sostenere il Partito Nazionale. Erano disposti, e sinceramente lo erano, a sostegnere il programma generale relativo all’armamento e alla politica imperiale per cui ora si batteva il Partito Nazionale.
 
 
 
@@ -3128,6 +3540,36 @@ Her energy was more impressive than ever after the comparative quiet of Habberto
 
 “Oh, I know that,” said Dolly. “Good heavens, Peggy, I wish you wouldn’t do these things! Sit down, Peggy, do sit down. I haven’t seen you for months. Why did you bring Moss? It’s really very silly of you, Peggy. You oughtn’t to bring Moss here. Everybody who comes into this house is seen!... I’m not dealing with the Straights,” he said pettishly.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Primo Ministro (poiché con il loro sostegno Dolly era ormai considerata la vera leader) non solo era disposto, in qualità di politico, ad ascoltare i loro consigli riguardo ai dettagli delle riforme sociali, ma aveva anche una naturale propensione, come pensatore, a seguirli. Sembrava un accordo indissolubile, e tale legame venne ulteriormente rafforzato da un sostegno saggiamente dispensato.
+
+Uno dei membri del gruppo “The Straights”, un certo Dottor Lambton – un uomo curioso, magro, dagli occhi scintillanti, di cinquant’anni, con una barba disordinata e il viso schiacciato in avanti – fu nominato a capo del nuovo Dipartimento di Ricerca, con uno stipendio annuo di 1200 sterline. E nessuno avrebbe potuto essere più adatto per quel ruolo. L’elezione suppletiva non venne nemmeno contesa. Nell’ombra del gruppo “The Straights”, tra coloro che votavano con loro ma non obbedivano agli ordini dei leader del partito (il signor Moss e il professor Cheasly), Peggy scelse due persone per ricoprire le cariche di vicedirettori. Quando i membri di “The Straights” esitarono ad assumere un docente della Trinity University a causa delle difficoltà legate alla sua presenza, fu lei stessa a intervenire in suo favore; così la sua attività didattica poté proseguire senza gli ostacoli derivanti dall’assistenza agli studenti. In ogni modo, lei fece sì che “The Straights” diventassero lo strumento attraverso il quale il successo di suo marito continuasse; e lui, nonostante i suoi dubbi sulla sua saggezza politica, non poté mai dimenticare questo punto decisivo a suo favore.
+
+Aveva messo Stoup nel Gabinetto, ma Stoup non era mai sobrio. Era uno scandalo. Aveva cercato di far richiamare un ambasciatore straniero la cui presenza a [[London|Londra]] era indispensabile per la politica di Dolly; inoltre aveva concesso Costantinopoli a un idiota, nonostante le continue e persino furiose pressioni dell’anziano Battersea, che quasi aveva litigato con lei a causa di quella nomina. Aveva fatto centinaia di cose stupide e impulsive. Ma aveva scoperto i Dardanelli; e nessun Primo Ministro aveva mai avuto un collaboratore più flessibile, elastico e utile al proprio fianco.
+
+Ora, dopo quattro anni di successo ininterrotto – quattro anni durante i quali la forza morale, molto più che quella numerica del governo di suo marito, aveva impressionato il paese – si verificò un momento di difficoltà. Questa difficoltà, naturalmente, come tutte le altre piccole problematiche insidiose degli ultimi anni, proveniva dall’India.
+
+Tutto era iniziato con una carestia, una di quelle carestie indiane che si ripetono regolarmente e che, in realtà, hanno poca rilevanza per chiunque tranne che per le popolazioni colpite. Per questa particolare carestia, non è stata posta nemmeno una singola domanda alla Camera dei Comuni. È successo alcuni mesi fa. Ma la carestia si era aggravata notevolmente (si teme che a causa delle attività di agitatori), e poi un’epidemia di peste locale molto grave ha ulteriormente complicato la situazione disastrosa.
+
+Tutto ciò che poteva essere fatto era stato fatto. Quando la Camera si era riunita e quando l’interferenza dei curiosi non era più possibile, il Segretario di Stato per l’India aveva accettato l’incarico di ambasciatore ed era stato sostituito da un uomo il cui stretto legame con il commercio dell’oppio, nonché una fortuna considerevole accumulata attraverso altre forme di commercio orientale, gli garantivano fiducia e rispetto. Nella zona effettivamente interessata dalla situazione, la popolazione era facilmente controllabile e, naturalmente, disarmata. Meno di una dozzina di assassinii isolati, e forse cinquanta tentativi, la maggior parte dei quali rivolti contro funzionari di classe media, non erano sufficienti a causare alcuna preoccupazione nel paese. Tuttavia, con l’inizio delle riunioni della Camera, era certo che sarebbero iniziate critiche violente: i giornali dell’Opposizione avevano già sollevato argomentazioni umanitarie; e su tutti questi problemi si aggiungevano anche le difficoltà legate alla situazione al confine nord-occidentale: per risolverle, era assolutamente necessario ottenere un prestito.
+
+Era questa la situazione politica all’inizio di quella settimana, prima di Pasqua del 1925, quando Dolly era tornata a [[London|Londra]] per parlare con il Duca di Battersea riguardo alla quotazione in borsa.
+
+Non appena Dolly arrivò nella sua stanza a [[London|Londra]] lunedì pomeriggio, prese il telefono e chiese a Eddie, la sua segretaria, di contattare l’impiegato al piano di sotto e di chiamare Battersea House.
+
+Che grandi eventi possono nascere da piccole cause! Appena Dolly ebbe rimesso il ricevitore al suo posto, sentì nel corridoio una voce di contralto familiare, ricca ma non sommessa. E dovette cambiare idea. Prese rapidamente il telefono e pregò Eddie di chiamare il commesso per dirgli che non voleva più la casa di Battersea House; ma purtroppo il commesso aveva già assegnato quella proprietà a qualcun altro. Nella hall, un uomo imponente, dall’andatura lenta e solenne, vestito come un principe in una favola, si era avvicinato al grande pianoforte e aveva risposto con indifferenza alla chiamata. Quando sentì che non lo volevano più, disse con gentilezza: “Maledizione!”, posò lo strumento e tornò tranquillamente alla sua sedia.
+
+Tutto per niente. Quella voce contralto ricca ma non domata aveva avvertito Dolly del suo destino. Proprio come gli uomini che stanno annegando vedono tutta la loro vita passare davanti ai loro occhi in un istante (sebbene in realtà non sia così!), Dolly immaginò cento possibili persone che potessero accompagnare quella donna con voce contralto. Con ogni probabilità si trattava di uno dei membri del gruppo “The Straights”. Ne era certo. E la sua certezza si rivelò fondata: appena aveva raggiunto questa conclusione, sua moglie entrò nella stanza e la prima cosa che disse fu: “Ho portato con me Moss.”
+
+La sua energia era ancora più impressionante del solito, dopo il relativo silenzio di Habberton; Dolly si sentiva non tanto più bassa, quanto piuttosto più snella, mentre lui sedeva immobile sulla sedia e la guardava. Quel giorno non indossava alcun gioiello, solo un grande pendente in smalto cloisonné, realizzato nello stile bizantino, che le pendeva dal collo su una piccola catena d’oro: un ornamento davvero notevole, ma la sua statura, il portamento, l’espressione vivace del suo viso e i suoi folti capelli scuri lo rendevano perfettamente appropriato. Anche il suo cappello era enorme; lei emanava una sensazione di autorità naturale. Sorrise, e Dolly pensò che quel sorriso fosse trionfante, ma in realtà si limitò a dirgli ancora una volta che Moss era venuta con lei.
+
+“Dove è?” chiese Dolly.
+
+“È dentro con Eddie, accanto. Fa parte dei ‘Straights Whips’.”
+
+“Oh, lo so,” disse Dolly. “Dio mio, Peggy, vorrei che non facessi queste cose! Siediti, Peggy, per favore siediti. Non ti vedo da mesi. Perché hai portato Moss? È davvero molto sciocco da parte tua, Peggy. Non dovresti portare Moss qui; tutti quelli che entrano in questa casa vengono visti. Non sto parlando con i ‘Straights’,” disse in tono petulante.
 
 
 
@@ -3192,6 +3634,66 @@ Then the reaction which comes after great dangers just escaped fell upon the Pri
 
 His next business was the redoubtable interview with the Duke, but between that time and this would come dinner and plenty of wine. It was his consolation to dwell upon both.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Oltre a ciò, non si vede il ‘frustino’… si vede soltanto il leader del partito.”
+
+“Sono la leader del partito,” disse Peggy con aria radiosa, rifiutando assolutamente di sedersi. Ci sono donne per cui un cappello grande le rende ancora più imponenti, e Peggy era una di queste. “Sei davvero provocatoria, Dolly,” aggiunse a voce leggermente più alta rispetto a quella che aveva usato nel corridoio.
+
+“Dove è Moss?”, chiese debolmente Dolly.
+
+“Te l’ho già detto, è con Eddie.”
+
+“È davvero terribilmente stupido,” disse povera Dolly.
+
+“Moss dice che ci sarà una dissoluzione”, fu la risposta di Peggy a quella domanda.
+
+“Guarda qui,” disse Dolly, concentrata, “non capisci davvero.” Lui incrociò le mani e mosse le dita avanti e indietro, evitando di guardare il suo viso. “Davvero non capisci, Peggy. Sei tornata in Inghilterra solo da poche ore. Non può succedere nulla del genere.”
+
+“È proprio il momento giusto per farlo”, disse Peggy con decisione. “Mamma me l’aveva detto”.
+
+“Tua madre,” disse Dolly, con un tono così arrabbiato che lui non osò replicare, “vive a Parigi, e non voglio nemmeno ascoltare quello che ha da dire. Fine della discussione!”
+
+“Ma Dolly,” disse Peggy, “il signor Moss dice che possono forzare la dissoluzione, e il Duca pensa che ci sarà davvero.”
+
+Dolly serrò le labbra, formandole nella tipica posizione conosciuta come “ferro di cavallo”, e le fece una domanda.
+
+“Lasciali entrare,” disse Dolly. Poi alzò lo sguardo e vide uno sguardo pericoloso negli occhi di sua moglie. Sospirò e disse: “Suppongo che dobbiamo invitarlo a entrare.” Riprese il telefono e chiese a Eddie di chiamare il commesso di sotto, di far chiamare la stanza della cameriera e di portare su del tè; una volta fatto ciò, doveva far entrare il signor Moss.
+
+La porta che collegava la stanza della segretaria alla sua si aprì, ed Eddie entrò insieme a Mr Moss, che sembrava del tutto a suo agio.
+
+Il signor Moss era esattamente l’opposto di ciò che troppi elettori dei sobborghi, abituati a temere il nome del Partito Socialista, avrebbero potuto immaginare.
+
+Prima di entrare in politica aveva intrapreso la carriera di auctioneer; in quell’ambito aveva imparato l’importanza di indossare abiti decenti, soprattutto stivali, e il vantaggio di una parlantina sciolta. Parlava un po’ troppo e un po’ troppo velocemente, ma sapeva discutere su quasi tutti gli argomenti, e lo fece anche durante quella tazza di tè nella stanza del Primo Ministro. L’unica altra persona che parlò fu Peggy; osservandoli, Eddie pensò a quanto fossero simili, nonostante la grande differenza nel loro livello sociale e nella loro conoscenza del mondo. Forse a Dolly questa somiglianza non venne in mente, ma anche lei provava una certa disagio in presenza di Moss, un disagio vagamente simile a quello che Eddie provava in presenza di sua moglie.
+
+Nel frattempo, il signor Moss continuava a parlare allegramente, lodando il tè cinese, denigrando quello indiano, prendendo in giro l’architettura del nuovo Dipartimento delle Pesche, mettendo in dubbio l’autenticità del dipinto di Corot appena acquistato dalle autorità, e così via. Parlava senza sosta, ma non diceva mai nulla che potesse ferire o offendere qualcuno. Non si avvicinava nemmeno lontanamente a qualsiasi argomento politico.
+
+Proprio come un uomo accovacciato in una grotta invasa da bestie feroci osserva i loro movimenti cercando di escogitare un piano per fuggire, così Dolly osservava quei due, senza sapere quando uno di loro potesse attaccarlo, anche se finora lo avevano risparmiato. Poi, con immenso sollievo, il telefono squillò nella stanza di Eddie; Eddie andò a rispondere e, prima ancora che si potesse dire “coltello”, Dolly aveva già preso il ricevitore e stava parlando. Il signor Moss ebbe la sgarbataggine di iniziare una nuova frase. Dolly alzò educatamente la mano e continuò a parlare nel microfono. Ahimè! Stava mentendo: fingeva di aver ricevuto un messaggio.
+
+“Certo,” disse, senza rivolgersi a nessuno all’altro capo del filo, annuendo con la testa, “certamente.”
+
+Eddie tornò indietro e chiese se dovesse prendere il ricevitore. Il Primo Ministro scosse la testa e sussurrò: “Fermati qui! Non andartene via! Se ti fermi, non riuscirà a mettermi nei guai!”
+
+Poi fece finta di ascoltare di nuovo quella voce proveniente dall’apparecchio telefonico. “Certo!” continuò a dire al telefono, con quel tono esitante e raffinato che gli era tipico. “Certo! Sì, arriverò subito.” Disse tutto questo senza lasciare tempo a sua moglie e a Moss di intervenire, poi aggiunse alla sua segretaria: “Non badare a me, Eddie, c’è stato un errore nella linea telefonica.” E con questa frase priva di senso ma sufficiente, riattaccò il ricevitore, si alzò sorridendo, prese il cappello e disse: “Mi dispiace molto, signor Moss, ma significa che devo andare subito, come avete sentito.”
+
+Il signor Moss non aveva sentito nulla e quindi non fu accolto. Anche lui aveva usato lo stesso trucco in passato, con i creditori, ed era piuttosto arrabbiato. “Non vieni anche tu, Peggy?” disse Dolly a sua moglie mentre lui si dirigeva verso la porta.
+
+“Sì,” disse Peggy con decisione: voleva parlare con lui molto francamente.
+
+Il signor Moss era più arrabbiato che mai, ma Eddie, il cui genio consisteva nel comprendere i pensieri del suo capo, portò il “Riformatore” via per discutere seriamente di questioni del tutto irrilevanti, permettendo così al Primo Ministro di iniziare con successo l’incontro. Così quel pericoloso colloquio fu stroncato fin dall’inizio, e Dolly riuscì a evitare le domande insidiose di un alleato.
+
+Dolly scese di fretta le scale. Prese Peggy e la portò in strada. Camminò a tutta velocità lungo Whitehall, con sua moglie al suo fianco; il suo umore stava peggiorando rapidamente. Mentre attraversavano Horse Guards, lei disse:
+
+“Come hai potuto farlo!” A cui Dolly rispose soltanto chiedendogli se entrambi potessero cenare quella sera da soli con i Batterseas. Per il momento si era salvato da una situazione disperata, ma poteva ripresentarsi in qualsiasi momento il giorno dopo. Doveva incontrare immediatamente il Duca; solo allora avrebbe potuto respirare liberamente.
+
+Peggy era un po' confusa dalla sua improvvisa fretta. “Sì,” disse, dimenticando la sua rabbia. “Stasera sono soli. Glielo dirò.”
+
+Si separarono e lui andò al suo club.
+
+Poi la reazione che segue grandi pericoli colpì il Primo Ministro, e lui cadde in una profonda depressione fino quasi alle sette di sera; in quell’ora chiamò i suoi vestiti e il suo servitore, e iniziò a vestirsi con grande calma.
+
+Il suo prossimo impegno era l’importante intervista con il Duca, ma nel frattempo ci sarebbe stata la cena e tanto vino. Pensare a entrambe queste cose lo consolava.
 
 
 
@@ -3293,6 +3795,102 @@ The young shopman was genuinely astonished at her ignorance.
 As usual! — Pickles hadn’t come up to time!... Peggy cursed them gently and sailed out.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IV
+
+“Anche se non dobbiamo tributare alle reliquie un rispetto eccessivo o esagerato, esse ci ricordano comunque le virtù e la bontà del defunto: la sua umiltà, il suo disprezzo per le ricchezze, i suoi pensieri rivolti esclusivamente a Dio e il suo disprezzo per questo mondo; inoltre, esse possiedono anche un valore pratico.” — Commento alla “Teologia” di Suarez, viii. § 17 (Duncan’s Tr.).
+
+G. Quinlan Smith, quell’uomo anziano e gentile, aveva un hobby.
+
+La sua fortuna gli permise di soddisfarlo appieno.
+
+Amava collezionare oggetti legati alla vita del defunto Disraeli, un tempo Primo Ministro d’Inghilterra; affinché tale passione non disturbasse l’immaginazione del lettore, ne spiegherò l’origine, che risale a un piccolo episodio dei primi viaggi sconosciuti del signor Smith, ai tempi in cui il suo patrimonio ammontava forse a non più di venticinque milioni di dollari.
+
+G. Quinlan, giunto una volta nella città francese di Cherbourg con la nave a vapore che lo aveva portato dall’America, si era meravigliato dello squallore dei gaulsi. Tutto in quel luogo (dove la nave trascorse circa tre ore prima di proseguire verso coste più civili) era ripugnante per il suo senso della decenza e dell’ordine; non riusciva nemmeno a capire perché i cartelli sugli negozi fossero scritti in lingue così diverse, né perché, a quanto pare, nelle strade non ci fossero signori ben vestiti.
+
+Nella depressione d'animo causata da un ambiente del genere, i suoi occhi si illuminarono quando vide, nella sua lingua madre, l'insegna “English spoken” su una vetrina di negozio; entrandovi, rimase sia sorpreso che felice nel scoprire che quel piccolo locale era gestito da un anziano il quale, nonostante la sua loquacità e la sua maniera affabile, riusciva ancora a pronunciare alcune parole di inglese stentato. Il signor Smith trovò rifugio in quel negozio dal barbarismo che lo circondava, proprio come una persona si ripara dalla pioggia sotto un tetto. Era un negozio di curiosità; e poiché sentiva di non poterlo lasciare senza fare qualche acquisto, chiese gentilmente al proprietario di fargli vedere alcuni degli oggetti in vendita.
+
+Ce n'erano molti: una pallottola, si diceva risalente alle Guerre Rivoluzionarie; tre o quattro vecchie tavolette con motto della Monarchia incisi sopra; un gatto imbalsamato; uno o due libri unti; più di cento tabacchiere di varie epoche. E tra le altre cose, anche un discorso illuminato presentato a Disraeli dalla Lodge of Mutual Understanding di Cherbourg in occasione della commemorazione della sua fondazione, avvenuta il 15 di Nisan dell’anno 5639 dopo Cristo. Il discorso era contrassegnato dal prezzo di 50 franchi; George Quinlan Smith si arrabbiò davvero per dover gestire, a livello al dettaglio, un sistema monetario che causava ulteriori confusione. Onestamente, dollari e sterline sarebbero stati più che sufficienti. E inoltre, lui non aveva nessun impiegato a disposizione.
+
+Tuttavia, era ancora nel pieno della sua giovinezza; fece rapidamente i calcoli nella sua testa e pensò che dieci dollari non fossero troppi da pagare per un vero ricordo di una persona così illustre. Proprio mentre raggiungeva questa decisione, un dubbio iniziò a insinuarsi nella sua mente naturalmente cauta.
+
+“Perché Disraeli non se l’è tenuta?” chiese.
+
+“Non dorme,” rispose vivacemente l’anziano francese, annuendo per mostrare di aver capito perfettamente. “No! Non dorme, sta vegliando!”
+
+G. Quinlan Smith era infastidito; “Ma perché non se l’è tenuta?” ripeté più volte.
+
+“Non è falso!” ripeté l’uomo francese con entusiasmo gallico, temendo molto che il suo cliente potesse considerare quell’oggetto una falsificazione. “Deve restituirlo!”
+
+Fu in questo momento che un venditore ambulante, assunto per una paga infinitesimale proprio a tale scopo, entrò e chiese nella sua lingua madre (poiché era un inglese senza fissa dimora che viveva di simili espedienti) se il negozio avesse ancora quell’indirizzo illuminato che la Lodge of Mutual Understanding aveva offerto a Disraeli.
+
+“Esattamente,” disse il negoziante, “io mi occupo delle trattative.”
+
+Il truffatore fece finta di essere infastidito, uscì di nuovo, e il signor Smith comprò. Il documento era falso, ma fu l’inizio della sua collezione.
+
+Quella collezione era cresciuta nel corso degli anni; ormai occupava uno spazio così considerevole che persino i reperti più rari e preziosi riempivano due grandi stanze della sua casa nel Maine, mentre la maggior parte doveva essere conservata in un annesso del British Museum, costruito appositamente a spese dello Stato. Lì veniva esposta non solo al fine di istruire il pubblico curioso, ma anche perché potesse essere mantenuta in condizioni ottimali: riscaldata, asciugata, protetta e custodita a spese dei contribuenti britannici. Lui continuava costantemente ad aggiungerne nuovi elementi. Gli autografi li collezionava con cura, anche se erano piuttosto comuni; ma carte da gioco, fazzoletti, ombrelli, sedie, tappeti da viaggio, simboli massonici, gli oggetti utilizzati da Disraeli nelle stazioni ferroviarie, coltelli e forchette, bicchieri, piatti, secchi per il carbone, le zampe di alcuni cavalli preferiti e le code di altri, inchiostri, ghirlande dorate, bottiglie di tintura per i capelli, qualsiasi oggetto potesse essere ritenuto pertinente alla sua collezione veniva acquistato con grande entusiasmo.
+
+Aveva due fonti di approvvigionamento: da un lato, visitava personalmente negozi o privati proprietari (nascondendo con cura la propria identità, poiché temeva molto le conseguenze negative se qualcuno lo avesse riconosciuto), contrattando direttamente per ottenere l’oggetto desiderato; dall’altro lato, riceveva gli oggetti a prezzi molto più elevati da quelle organizzazioni composte da individui abili e disposti a correre il rischio di finire in prigione pur di sottrarre proprietà del genere a proprietari sciocchi o indegni, per poi consegnarle al milionario, che almeno avrebbe potuto utilizzarle in modo più nobile e degno.
+
+Con queste ultime persone – devo forse dirlo? – non aveva alcun legame diretto. Le disdegnava e i loro metodi; non voleva avere nulla a che fare con cose che non lo riguardavano. Era un uomo d’affari, e occuparsi solo dei propri affari era stato il principio guida della sua vita; ma quando ricevette una notifica, una notifica privata, che un venditore – chiunque fosse – possedesse, in qualche modo, un articolo che lui aveva riconosciuto come collegato a Disraeli, perché G. Quinlan non avrebbe dovuto considerare opportuno comprarlo?
+
+* * *
+
+Come tutti sanno, la Battersea House si trova in fondo a St. James’s Street: l’ingresso del Palazzo di St. James si trovava proprio lì, fino a quando non fu demolito a seguito della legge sul raddoppio delle strade.
+
+I miei lettori non dimenticheranno l’generoso impegno del Duca di Battersea nel aiutare il Governo e dare il via a questo progetto. Il suo acquisto immediato del sito abbandonato e la costruzione di quell’edificio maestoso e aggraziato, che ora sovrasta tutti gli altri edifici del quartiere (incluso l’Automobile Club), hanno salvato il progetto stesso. L’opinione pubblica sapeva molto bene che aveva fatto tutto questo soprattutto per fare un favore a Peggy e al suo marito appena sposato, ma era disposta ad perdonarlo: anche se c’era stato qualche aspetto poco trasparente in tutta questa faccenda, esso veniva ampiamente compensato dalla splendida facciata in pietra che aveva sostituito i vecchi mattoni grigi del vecchio Palazzo Reale.
+
+Mentre Peggy si allontanava dopo aver lasciato suo marito a Charing Cross, diretta verso la sua stanza in Battersea House, le venne in mente che un piccolo vaso d’argento, di cui era particolarmente affezionata, da tempo era in riparazione presso il negozio di Pickles’s, situato in Suffolk Place. Forse Pickles’s era ancora aperto. Attraversò velocemente Cockspur Street e si diresse verso il negozio, camminando con passi decisi come una nave che naviga speditamente nella brezza; sembrava addirittura che il traffico automobilistico dovesse deviare a destra e a sinistra per evitarla. Con tale audacia ignorò completamente i veicoli intorno a lei. Quando entrò nel negozio di Pickles’s, vide qualcosa di così sorprendente che dimenticò completamente il vaso d’argento.
+
+Lì, davanti al bancone, c'era una piccola figura che discuteva animatamente e con fervore. Una persona che lei sicuramente conosceva! Era vestita con un cappotto piuttosto pesante per quella stagione, con un colletto alto rialzato, e un cappello a cilindro che spuntava appena sopra. Stava probabilmente contrattando o protestando. O entrambe le cose.
+
+Dietro il bancone del negozio, un giovane uomo, ancora affabile ma sull’orlo dell’esasperazione, cercava di convincere quella piccola figura che qualcosa non era disponibile. Peggy non aveva visto il signor Quinlan Smith più di una dozzina di volte in tutta la sua vita; era stata nella stessa casa con lui soltanto una volta per più di ventiquattro ore, e questo durante la sua ultima visita in Inghilterra, quando come al solito si era fermato a Habberton, un luogo storico ma accogliente. Ricordava vagamente alcune cose su di lui, soprattutto, naturalmente, la sua enorme ricchezza. Aveva quasi dimenticato anche il fatto che fosse sordo; e con quel suo modo estremamente aperto, che tutti avevano notato, gli prese il vecchio braccio sinistro e lo girò verso di sé.
+
+“Signor Smith!” disse lei. Vide il viso sopra il colletto, quel volto anziano e acuto, e quegli occhi inconfondibili. Teneva nella mano destra, una tromba da orecchio, una tromba da orecchio ben distinta e molto vistosa. Che meraviglia! (Ma la passione di un collezionista spiega qualsiasi cosa, )
+
+Non appena sentì la sua mano sulla spalla, infilò rapidamente quell’oggetto orribile nella tasca destra del cappotto. Rimase in silenzio per ben dieci secondi, guardandola mentre lo sovrastava; per una volta nella sua vita, quei miliardi innumerevoli furono davvero colti di sorpresa. Poi ringhiò, qualcosa che non faceva da quando possedeva una ricchezza più moderata.
+
+“Sciocchezze!”, disse. “Sciocchezze!” E senza aggiungere altro, si allontanò da lei e uscì di corsa dal negozio.
+
+Peggy era più allarmata che divertita. “Quello era il signor Smith, vero?”, chiese al giovane commesso, il quale, non appena si rese conto della sua nuova cliente, cambiò completamente l’espressione del viso e la postura del corpo: da un atteggiamento cortese ma stanco passò a uno di totale sottomissione.
+
+“No, signora,” disse. “No, mia signora. Voglio dire. Signora, dovrei dire che non credo sia così. Il signor Kew, signora, un gentiluomo molto sordo. Sono sicuro di non sapere che fosse suo amico. Sono certo, signora, che se, ”
+
+“Non sembra affatto essere un mio amico,” disse la donna dal contralto ricco ma non sottomesso, ridendo in modo tale che la risata riempì tutto il negozio, fece tremare i bicchieri e fece anche tintinnare l’antico anello d’argento.
+
+“No, signora, non pensavo proprio di farlo, signora,” disse il giovane commesso. “È estremamente sordo, signora. Sa per caso, signora, ” continuò con qualche esitazione, perché sapeva di essere molto audace, “sa per caso se sia davvero adatto a, ”
+
+“Davvero,” disse impazientemente il suo cliente, “non lo so… Sembra che non lo conosca nemmeno.”
+
+“No, signora, assolutamente no, signora,” disse il negoziante, riponendo con cura una ciotola realizzata da Carlo II e che presentava un foro al centro.
+
+“Lo stava comprando davvero?” disse Peggy.
+
+“Oh no, signora,” disse il negoziante. “Non so se dovrei dirlo, ma voleva. Insomma,” ridacchiò il giovane, “voleva avere il diritto di comprare qualcosa, ” E qui abbassò la voce a un tono molto basso: “Qualcosa che appartiene al Duca, signora. Se mi crede, signora!”
+
+“Qualcosa che appartiene al Duca di Battersea?” esclamò Peggy, incredula.
+
+“Sì, signora, certamente, signora, in un certo senso,” disse il giovane commesso con maggiore nervosismo del solito. “È una cucchiaiata, signora, proveniente dalla Riviera. Abbiamo comprato anche il piatto, signora, quando il signor Boulger ha venduto la sua villa alla principessa.”
+
+“Sì, sì,” disse Peggy con impazienza.
+
+“Beh, signora, il signor Kew pensa che abbiamo comprato la ‘Cucchiaia di Disraeli’, signora.”
+
+“Ma che diavolo è quello?” disse Peggy.
+
+Il giovane commesso era davvero sorpreso dalla sua ignoranza.
+
+“Ma davvero, signora… la ‘Cucchiaia di Disraeli’, la ‘Cucchiaia a Coda di Pipistrello di Disraeli’!”
+
+“Oh, non capisco nemmeno una parola di quello che dici,” rispose Peggy con tutta la forza dei suoi polmoni.
+
+“Ma le assicuro, signora, che non l’abbiamo fatto, ” iniziò ansiosamente.
+
+“Oh, a chi importa?” interruppe Peggy. “Sono venuta per il mio barattolo!” E il povero giovane, che sperava lei potesse riferire al Duca l’informazione molto importante secondo cui Pickles aveva rispettosamente lasciato in pace la cucchiaiata, rimase deluso. Tirò fuori il piccolo barattolo, suggerendo ossequiosamente che lo tenessero ancora un giorno o due, visto che il manico aveva bisogno di essere girato.
+
+Come al solito! — I sottaceti non erano arrivati in tempo. Peggy li maledisse dolcemente e se ne andò.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="Pongo and the Bull — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/power_and_corruption,concept/antisemitism,concept/empire_and_imperialism,concept/high_finance,form/satire,form/novel"></span>
@@ -3334,6 +3932,44 @@ He was particular and even detailed in his history of the fall of British credit
 
 All that was ancient history, but the Duke saw fit to bring it in. Then he spoke evenly of the Budget of 1909 and of Consols at 80. What a price 80 seemed then!... They were ten below that now. 70 had become the Rubicon in the popular mind... Credit was a queer thing! It looked illimitable, and then... why! it had a way of collapsing suddenly.... And the investing public was a queer thing! There was a hair’s-breadth between full confidence and panic.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO V
+
+“Gli chiesi una volta di darmi un po’ di denaro, per uno scopo benefico; ma lui pose così tante condizioni e restrizioni che decisi di lasciar perdere quell’uomo.” — “Ricordi del Duca di Wellington”, VOL. LIL, p. 168.
+
+Era esattamente come Dolly si aspettava: quella sera alla casa del Duca di Battersea c'era abbondante vino, e poiché doveva affrontare una situazione difficile, ne fu felice.
+
+Non c'era nessuno a cena; lui era molto benvenuto – il marito di Peggy era sempre benvenuto lì; e le cose andarono così bene, nelle tre lingue utilizzate durante la conversazione, che la mente di Dolly divenne sempre più lucida e la sua determinazione sempre più ferma man mano che il pasto proseguiva.
+
+Quando tutto fu finito, quando Peggy e quella cara vecchia signora che quasi era come una sua madre adottiva se ne furono andate dalla stanza, e quando Dolly e il Duca di Battersea rimasero soli, lui affrontò l’argomento importante.
+
+Non era piacevole, ma doveva essere fatto. Dopo le prime poche frasi, provò un senso di sollievo: sia perché finalmente aveva iniziato a lavorare, sia perché si trovava con degli amici. Ne aveva abbastanza delle trattative; voleva solo parlare schiettamente. E così lo fece.
+
+Era abitudine di Dolly evitare lo sguardo degli altri; parlava con la tovaglia; raccontò al Duca di Battersea molte cose che il Duca stesso non sapeva riguardo alle preoccupazioni legate al prestito indiano, e gli disse anche alcune cose che il Duca conosceva già, anzi, ne sapeva più di lui!
+
+Mentre si avvicinava al cuore dell’affare, in lui nacque una sensazione sgradevole di essere osservato. Non riusciva a definire esattamente quella sensazione e non gli piaceva alzare lo sguardo. Continuò a parlare un po’ più velocemente, ma alla fine quella sensazione divenne quasi insopportabile; alla fine, dopo aver finito una frase, alzò lo sguardo. E allora vide qualcosa di molto spiacevole: il Duca di Battersea era cambiato.
+
+Conosceva quell’uomo da molti anni: lo aveva conosciuto come semplice signor Barnet, lo aveva conosciuto anche come lord Lambeth. Era proprio il cugino di Dolly quando era Primo Ministro ad aver dato al duca il titolo che ora possedeva. Dolly ricordava le battute fatte in casa su questo argomento. In passato aveva tollerato quelle cose, e anzi, nelle loro conversazioni private, spesso le prendeva in giro; ora che lui stesso era diventato il corteggiatore di Dolly, le cose erano completamente cambiate. Quando alzò lo sguardo e notò quel cambiamento nel comportamento del finanziere, rimase scioccato.
+
+Non era che l’atteggiamento del Duca di Battersea fosse più controllato, né che sul suo volto apparisse qualche espressione definita. Non c’era nulla di facile da descrivere, ma comunque, ciò che c’era era terribile, e a Dolly non piaceva affatto. Anche altri uomini, oltre a Dolly, si erano resi conto di quella cosa; l’avevano incontrata in più di una delle capitali europee. Erano costretti a ricordarla e ad odiarla in silenzio, ma la ricordavano. Per Dolly, invece, era qualcosa di nuovo, e, ripeto, era davvero sgradevole. Le sue parole diventarono insignificanti; poi smisero del tutto di essere pronunciate, fino a quando non rimase completamente in silenzio. Incrociò le gambe con un’aria apparentemente rilassata e si versò del vino da bere. Non era nemmeno consapevole del modo in cui la sua bocca si muoveva e si contorceva mentre parlava.
+
+Il Duca di Battersea iniziò a parlare, usando lo stesso tono e lo stesso accento con cui Dolly si era ormai abituata nelle centinaia di conversazioni che avevano avuto; ma quella notte, c’era qualcosa di diverso dietro quell’accento e quel tono.
+
+Il Duca di Battersea iniziò con un breve discorso. L’idioma utilizzato non era certo perfetto – non lo è mai stato – ma il significato era abbastanza chiaro. Il Duca di Battersea era completamente pronto, assolutamente pronto. Era sufficientemente competente da essere disposto ad aiutare il governo britannico; e Dolly, mentre ascoltava quelle parole ripetute con enfasi, mentre vedeva il Duca appoggiare due volte la sua mano grassoccia sul tavolo per sottolineare un punto, come se volesse soffocare qualsiasi obiezione potesse esserci, si rese conto che questa fase finale, questa parte essenziale e privata dell’operazione, in realtà non era affatto così semplice e “domestica” come sembrava. Era affari. Affari, proprio in questa casa familiare, esattamente come tutte le altre negoziazioni spiacevoli di quel mese angosciante erano state affari.
+
+“Lì c'è mio fratello Chames. Lo conosci, vero? Beh, senza dubbio non direbbe le stesse cose che dico io. Mio fratello Chames, e anche suo figlio. Beh! Ognuno sa cosa intendo!”
+
+Le frasi seguivano una dopo l’altra; tutte le possibili obiezioni furono espresse in ordine. Vi fu un’enfasi particolare sull’attenzione che ogni azienda doveva prestare. Una allusione dopo l’altra (nessuna esplicita) al declino graduale della capacità di indebitamento del governo; un aneddoto su qualcosa che il Duca aveva sentito in Borsa; poi, solo una menzione, fugace, del fallimento di Benson a Parigi.
+
+Benson!. Certo, persone come i Battersea sapevano tutto quel genere di cose nel momento stesso in cui accadevano, ma comunque, fu uno shock per Dolly; e il Duca ne parlò con calma, come se l’intervista con Benson fosse avvenuta nel suo ufficio.
+
+Forse era solo il nervosismo di Dolly, ma lui pensò di percepire una leggera nota di disprezzo e superiorità nell’atteggiamento dell’altro; alzò lo sguardo con uno di quei rari atteggiamenti decisi e furiosi che, data la sua posizione, non avevano mai fallito quando li utilizzava per contrastare un avversario subdolo. Tuttavia, tutto ciò ebbe lo stesso effetto sul Duca di Battersea dei gridi del giornalista fuori dalla stanza: il “Grande Leader” continuò indisturbato la sua storia, il suo discorso, abbassando ancora una volta la sua mano grassa alla fine di ogni obiezione, come se schiacciasse qualcosa di invisibile sotto di essa, per poi scacciare via quel “qualcosa”.
+
+Era particolare, addirittura dettagliato nel raccontare la storia del declino della credibilità finanziaria britannica; le ricordò la conversione preistorica dei titoli Goschen, i trenta milioni che avrebbero dovuto essere erogati dopo la guerra sudafricana, e che invece non furono mai pagati. Sul suo labbro spesso si intravedeva un sorriso mentre ripensava a quella somma. Le ricordò anche quei tempi in cui i titoli Consols raggiungevano il valore di 92 e si riteneva che fossero ormai “solidi come la roccia”.
+
+Tutto ciò apparteneva ormai alla storia antica, ma il Duca ritenne opportuno menzionarlo. Poi parlò con calma del Bilancio del 1909 e dei titoli di Stato al prezzo di 80. Quanto sembrava alto quel prezzo all’epoca. Ora invece era sceso di dieci punti: 70 era diventato il “Rubicone” nella mente della gente comune. Il credito, che strana cosa! Sembrava illimitato, eppure, a volte crollava improvvisamente. E il pubblico investitore, anch’esso una cosa strana: c’era solo un filo sottile tra la massima fiducia e il panico.
 
 
 
@@ -3378,6 +4014,46 @@ Yes, Dolly was ready for almost anything, but there is something illogical in an
 
 It is not often that a statesman has to think really hard, but Dolly was thinking as hard that night as a hare when the coursing begins. After five minutes of that thinking Dolly did what so many had done before him in a crux — he told the man to drive to Mary Smith’s, and he thanked what was left of his gods that she sat up till two. It was a very little way to Mary Smith’s house in Mayfair, but Dolly had time in those few minutes to taste in his heart things that Englishmen of his generation had never yet tasted, and the bitterness of a certain cup. Leaders of every other people in Christendom save his had drunk deep of that cup at one time or another. He was being bullied: his country was being bullied by the moneylenders.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che noiosa lezione, tranne che per l’uomo che la stava ascoltando.
+
+Forse temendo che tutto potesse risultare troppo noioso, il Duca poneva un’enfasi quasi impercettibile sull’aiuto che stava offrendo, e parlava di Peggy con tenerezza, come se fosse disposto a fare qualsiasi cosa per compiacerla.
+
+La sua voce non era irrispettosa, né lo erano le sue parole, ma il tono con cui le pronunciava era decisamente autoritario, e lui stesso lo intendeva così. Era proprio il modo in cui il Duca di Battersea gestiva quel tipo di affari. Ascoltandolo, Dolly pensò confusamente che il Duca di Battersea assumesse un aspetto molto diverso a seconda che si trovasse al di sopra o al di sotto di qualcuno. Il Primo Ministro sentì le proprie narici sottili gonfiarsi e la bocca muoversi in modo innaturale mentre ascoltava quelle narici piene e quella bocca grassa parlare. Tenne i denti stretti mentre ascoltava; poi, durante una pausa di quel discorso finanziario, sospirò leggermente e bevve ancora del vino. Se il Duca di Battersea fosse stato della stessa razza di Dolly, forse avrebbe capito quel sospiro, ma non lo era. Quel sospiro sembrava dargli nuova energia; quindi continuò la sua analisi attenta e modulata riguardo alle condizioni del prestito indiano, a quelle maledette condizioni!
+
+Dolly non disse nulla.
+
+Il Duca di Battersea non ebbe alcun dubbio; non era il tipo di persona che si lascia prendere dai dubbi. Solo quando, dopo aver riflettuto attentamente, ritenne fosse giunto il momento che il suo ospite parlasse, pose una domanda: “Ci sono i fondi necessari per alleviare la carestia?”
+
+“Sì”, disse Dolly.
+
+Poi il Duca di Battersea spiegò come queste misure si adattassero alla sua proposta; i lavori potevano essere avviati. Non c’era nulla di nuovo nell’assegnare risorse per la sicurezza: ogni governo lo aveva fatto nel suo tempo. Anzi, l’eccezione era rappresentata dal caso in cui non si procedesse a farlo, soprattutto quando si trattava di luoghi al di fuori dell’Europa, e così via.
+
+Il Duca di Battersea non era persuasivo né autoritario, ma già parlava di quelle opere di soccorso con un tono che esprimeva una sorta di controllo, un controllo silenzioso e non del tutto limpido, come se chi prestava denaro dovesse sempre avere la meglio – anche su uno Stato sovrano. A Dolly questo non piaceva affatto. Poi, finalmente, dopo tante analisi concrete della situazione, il Duca di Battersea permise che il suo atteggiamento esteriore mostrasse qualche increspatura; la sua voce, in questa fase finale, ricordava a Dolly il mare d’estate ripreso attraverso uno strato di grasso, polvere e olio versati dal fianco di una nave a vapore. Sotto quella luce iridescente si susseguivano troppe piccole onde. E finalmente, quell’agonia era finita!
+
+Dolly non aveva detto nulla, se non “Sì”. Non aveva emesso nemmeno un suono riguardo ai lavori di soccorso che stava svolgendo.
+
+Il Duca di Battersea posò le sue due mani grasse sulle braccie della sedia e cercò di alzarsi, ma non riuscì a uscirne. Era un uomo anziano e in carne. Si sedette di nuovo con un’espressione di sforzo e stanchezza. Dolly non era più giovane, ma istintivamente gli venne in aiuto, mettendogli una mano sotto il gomito. Il Duca provò ancora una volta e finalmente riuscì a alzarsi. Zoppicando, si diresse verso la porta per aprirla. Mentre Dolly usciva davanti a lui, il Duca fece un gesto inappropriato: posò la mano sulla spalla di Dolly, quasi accarezzandola. Poi, forse perché la spalla non reagì come avrebbe voluto, tolse di nuovo la mano e insieme a Dolly salì le scale zoppicando.
+
+Mentre saliva quelle scale, il Duca di Battersea aveva già preso una decisione: aveva ottenuto il prestito dall’India, insieme alla commissione che ad esso era associata.
+
+Si fermò sul pianerottolo per riprendere fiato, e Dolly si fermò cortesemente insieme a lui, osservando con i suoi occhi deboli il piccolo disegno a gesso rosso di Strang appeso al muro. Mentre il Duca di Battersea si fermava lì per respirare, il cuore del suo vecchio usuraio continuava a gioire dentro di lui. Le cose non erano andate come avrebbero dovuto per lui e i suoi soci da molto tempo; ma aveva ottenuto quel prestito dall’India!
+
+Prese il secondo volo con Dolly ancora silenziosa al suo fianco. A ogni passo compiuto, un nuovo senso di sollievo si aggiungeva alla sua breve valutazione di quanto accaduto. La filiale tedesca aveva causato il fallimento del progetto in Romania, mentre la filiale francese aveva combinato un disastro totale con il progetto del Canale della Garonna. La sede di New York era appena stata salvata grazie a una fusione societaria, e suo nipote inutile lì riceveva uno stipendio. Ma lui aveva ottenuto il prestito indiano, e anche la commissione ad esso relativa. E cosa ancora più importante: aveva preso il controllo dei lavori di soccorso. Conosceva bene la Camera dei Comuni; quei lavori potevano essere resi permanenti. Quindi, con una garanzia che avrebbe continuato a crescere di valore, sapeva come gestirla.
+
+Sarebbe stato un modo per compensarlo per il fallimento delle miniere di rubini di Anapootra e per l'insulto pubblico che aveva subito e che con tanta difficoltà era riuscito a reprimere attraverso i media.
+
+Il Duca di Battersea si trovava in cima alle scale, e il suo piccolo calcolo era terminato.
+
+Al suo fianco, Dolly, silenziosa proprio come lui, ribolliva di rabbia dentro di sé.
+
+Era pronto a compiere un grande sacrificio. Aveva già sofferto abbastanza, Dio lo sa! E quell’assurdo Demaine, il suo inutile Cancelliere, ormai era disposto a fare di tutto, tranne che gettarsi nel Tamigi; e anche quello sarebbe stato una soluzione misera, perché Demaine sapeva nuotare.
+
+Sì, Dolly era pronto per quasi qualsiasi cosa, ma c’è qualcosa di illogico nell’ira. E Dolly, che fosse a causa del vino, della lunghezza di quel monologo, o (come lui credeva) a causa della pressione che aveva appena provato, era arrabbiato. Sessantasei anni: è troppo tardi nella vita per un uomo per diventare davvero un “uomo”, e uno stato d’ira di quel genere non dura a lungo a quell’età. Ma Dolly era sicuramente estremamente arrabbiato. Salutò quasi subito con la buonanotte quella povera vecchia Duchessa; disse a Peggy che sarebbe arrivato in ritardo. Poi avviò la sua auto e se ne andò nella notte, pervaso da un strano desiderio di agire. Un sentimento che non provava da forse trent’anni. Mentre guidava nella notte, concepì piani strani.
+
+Non è frequente che un statista debba riflettere così intensamente, ma quella notte Dolly ci pensò con la stessa concentrazione di una lepre quando inizia la caccia. Dopo cinque minuti di profonda riflessione, fece ciò che molti avevano già fatto prima di lui in situazioni simili: chiese all’uomo di portarlo a casa di Mary Smith e ringraziò gli dèi che ancora esistevano per il fatto che lei fosse rimasta sveglia fino alle due. La distanza tra la casa di Mary Smith a Mayfair era molto breve, ma in quei pochi minuti Dolly ebbe il tempo di sperimentare sentimenti che gli inglesi della sua generazione non avevano mai provato prima, e anche l’amarezza di una certa realtà. I leader di tutte le altre nazioni cristiane, tranne la sua, avevano già bevuto profondamente da quella coppa, in un momento o nell’altro della loro vita. Stava subendo pressioni: il suo paese veniva oppresso dai prestatori di denaro.
 
 
 
@@ -3428,6 +4104,52 @@ Dolly’s instinct of negotiation was at once aroused. After all, he had spent f
 
 And with that she said she was determined to go to bed, and she sent him off as well. It was not quite three in the morning of Tuesday. On the Wednesday Parliament was to rise for Whitsuntide.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'era una certa mano, oh, ora iniziava a riconoscere perfettamente la sua forma e il modo in cui si arricciavano le sue dita grasse. Quella mano teneva il gambo del calice; gli era stata portata alle labbra e lui l’aveva assaggiata. Il suo sapore era terribile!
+
+Sentì il viso diventare caldo nell’oscurità dell’auto, mentre quel pensiero continuava a riaffiorargli nella mente.
+
+Non aveva mai pensato all’Inghilterra se non come alleata, anzi, come alleata sprezzante delle forze che ora erano contro di lui. Aveva osservato con indifferenza gli matrimoni tra le grandi famiglie e questi individui disprezzabili; per qualche secondo Dolly divenne quasi una fanatica, e lui mormorò ad alta voce: “Maledetto bruto!” Poi, fortunatamente per lui – poiché i suoi nervi non erano mai stati molto forti – le freni si azionarono e si trovò davanti alla porta di Mary; poco dopo, finalmente, era solo con lei.
+
+Le raccontò tutta la storia.
+
+Le spiegò la gravità della situazione, l’urgenza di ottenere un prestito immediatamente, le difficoltà inaspettate che erano sorte nel reperire i fondi necessari, e infine, con una voce tremante che la fece alzare lo sguardo su di lui due volte, per curiosità, le raccontò ciò che era appena accaduto con il vecchio Battersea.
+
+Mary Smith sembrava estremamente seria. Incrociò le mani dietro le ginocchia e si chinò in avanti, fissando il fuoco.
+
+“Non dovresti litigare con i Batterseas,” disse lei a bassa voce.
+
+“Lo so,” disse Dolly, alzando il suo lungo corpo dalla sedia e camminando fino all’estremità della piccola stanza per poi tornare indietro.
+
+Mary Smith rifletté. “Sarà sgradevole per loro,” disse, “se riesco a sistemarlo da qualche altra parte per voi; e sicuramente scoppierà qualche discussione, ”
+
+“Se riesci a gestire cosa, Mary?”, chiese quasi con impazienza, fermandosi nel suo andirivieni avanti e indietro.
+
+“Te lo dico tra un minuto,” pensò lei; poi aggiunse all’improvviso, guardandolo da sopra la spalla: “Hai riferito il messaggio?”
+
+“No,” disse Dolly.
+
+“Pensa davvero che tu ce l’abbia?”
+
+“Ah sì, direi proprio che pensi che io l’abbia.” Sorrise con disprezzo.
+
+“Mary Smith disse ciò che doveva dire con decisione.”
+
+“Parlerò io stessa con il signor Quinlan Smith: è lo zio di mio marito, Dolly. Penso che sarà d’accordo.”
+
+“Mia cara ragazza!”, disse il Primo Ministro, prevedendo qualche terribile interferenza.
+
+“Non disturbarmi,” disse la cara ragazza, che ormai era abbastanza vecchia da poter essere considerata nonna, “non capisci. Farò in modo che lui pensi di essere quello che offre; così capirà meglio.”
+
+L’istinto di Dolly per la negoziazione si attivò immediatamente. Dopotutto, aveva trascorso quarant’anni immersa nelle intrighi.
+
+# Dimmi quando sarai...
+
+“Lo farò domani, Dolly,” disse lei. “Ci saranno molte persone qui domani, e se vieni ti dirò tutto. Andrà tutto bene.”
+
+E con queste parole dichiarò di essere decisa ad andare a letto e lo congedò anche lui. Erano appena le tre di martedì mattina. Mercoledì il Parlamento avrebbe dovuto riunirsi per le celebrazioni di Pasqua.
 
 
 
@@ -3489,6 +4211,62 @@ Then, when the servant had shut the door behind him, and when she heard the oute
 “I’ve just been sent for. I’ll come back.” She looked at him with infinite tenderness, and kissed his bony forehead and was gone. But as she in her turn closed the outer doors behind her, the fatigue of that experience was plainly apparent upon her face. It is not a light thing for a woman of her age to have to carry on such a conversation. She went from one of her rooms to another, a little too hurriedly perhaps, until she saw Dolly standing near an open window talking eagerly, or rather disputing, with a foreign artist who was not a gentleman — but the Prime Minister was interested in foreign art. She hooked him away.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VI
+
+“Ma poiché il mio orecchio esterno, sensibile al suono, è ormai privo di funzione, impedendomi di comunicare e di partecipare al naturale scambio verbale tra gli esseri umani, tu, Creatore di entrambi gli orecchi, abbi la bontà di accordare il mio orecchio interno a nuove possibilità! Affinché possa svolgere il proprio ruolo nel corso delle cose; e affinché quel primo orecchio, quello fisico, non rimanga del tutto inutilizzato, mentre il secondo, quello spirituale, sia in grado di percepire suoni celesti e godere di vere armonie musicali.”
+
+MILTON.
+
+La sera seguente, martedì notte, era l’ultima prima della sospensione dei lavori.
+
+Le stanze di Mary Smith erano piene zepe di gente; e tra quella folla calda e scomoda, c’era qualcuno che per lei era di gran lunga più importante di tutti gli altri: si trattava dello zio anziano del suo ex marito. Lei aspettava con ansia quel momento (lo vedeva infatti stare in disparte, da solo), perché le toccava svolgere un compito spiacevole ma necessario. G. Quinlan Smith, infatti, non solo soffriva di una sordità estrema, come il lettore sa, ma anche di una fragilità spirituale che gli impediva di ammetterlo apertamente. Era quindi necessario gridare a squarciagola nell’orecchio di quel finanziere, pronunciando frasi destinate esclusivamente a lui; e cosa ancora peggiore: se si faceva anche il minimo errore, i suoi occhi piccoli, luminosi e marroni scuri se ne accorgevano immediatamente, e questo bastava per rovinare per sempre le proprie possibilità.
+
+Lo portò in una piccola stanza appartata dalle altre; era stata costruita apposta per il suo comodo, con doppie porte, poiché era sensibile al rumore. Condusse l’anziano signore, con un certo tono scherzoso, tenendolo per mano verso il caminetto. Lui fu felice di ricevere tanta attenzione da una donna più giovane di lui di oltre venticinque anni e era pronto ad ascoltare qualsiasi cosa avesse da dirgli. Erano passati alcuni mesi da quando il signor Smith si trovava su questa parte dell’Atlantico. La sua sordità, a giudicare dal suo disinteresse per i rumori più forti in strada e dal fatto che era scampato per un soffio alla morte per mano di un’auto, era peggiorata notevolmente da quando lo aveva visto l’ultima volta. Ma lei era una donna, e coraggiosa. Sorrise splendidamente prima di agire. Gli aveva già fatto piacere con il suo comportamento; per raggiungere il suo scopo, si era resa un po’ più affettuosa e un po’ meno rispettosa nei suoi confronti del solito. L’anziano signore sedeva, con la testa leggermente inclinata verso di lei mentre lei fissava il fuoco; iniziò a parlare ad alta voce, senza che i suoi tratti facciali cambiassero minimamente.
+
+“Zio!”
+
+Il suo viso era così impassibile che lei poteva quasi essere certa che non avesse sentito nulla. Tuttavia, riprovare rappresentava comunque un rischio. Accarezzò quella vecchia mano raggrinzita, gialla e simile a una zampa, posata sul suo ginocchio; per un momento provò un strano senso di contrasto tra sé stessa, piena di vitalità, e quell’uomo magro e dall’aspetto molto tradizionale, vestito con un abito nero dall’ampio colletto a V che non cambiava mai forma. Poi, dopo aver preso un profondo respiro, provò ancora una volta.
+
+“Zio!”
+
+La finestra tremò e, su un tavolo accanto a lei, una lunga striscia di vetro veneziano molto delicato si staccò.
+
+“Sì, caro?” rispose G. Quinlan Smith.
+
+Mary Smith non era più giovane, e questo rappresentava un problema per lei. Prese un altro profondo respiro e, senza alcuna difficoltà, gridò: “C’è qualcosa che voglio dirti, solo tra noi.”
+
+“Assolutamente!” disse il signor Smith annuendo, “assolutamente!” Non aveva sentito le ultime due parole, ma quella sera era soddisfatto di lei e non intendeva rimproverarla.
+
+“Conosci questa faccenda indiana?” gridò di nuovo, mantenendo ancora quel meraviglioso controllo sul proprio viso.
+
+“Non l’ho mai incontrato,” gemette l’uomo anziano, “mai, cara mia!”. Le accarezzò la gamba con affetto, e lei ebbe la meravigliosa forza di volontà di accarezzargli di nuovo quella mano. Poi aggiunse: “Si tratta dell’India, zio.”
+
+“Ah sì,” mormorò, “c’ero l’anno scorso, cara.”
+
+Quello le aprì la strada per andare avanti. Annuì vigorosamente, gridando: “Sì, sì. Avete sentito parlare di quel problema?” Ricordò la mappa a Habberton.
+
+G. Quinlan Smith aveva sentito parlare di quel problema. Aspettò un po’ per essere sicura di cosa avrebbe detto dopo.
+
+“Dolly dice che sarà necessario prendere un prestito.”
+
+“Beh, lasciatelo fare,” disse l’uomo anziano sorridendo, “per quanto mi riguarda.”
+
+“Un prestito!” gridò lei, “stabilire un prestito!” Ci sono cose che sopravvivono alla decadenza dei sensi, perché sono così profondamente radicate nell’anima. Credo davvero che se Mary Smith avesse semplicemente sussurrato quella frase, quel sacro verbo “stabilire un prestito” sarebbe riuscito a penetrare attraverso le barriere sensoriali ormai indebolite di quell’uomo anziano. Fu meraviglioso vedere come anche i suoi occhi luminosi diventassero ancora più brillanti, e come il suo volto rugoso si animasse sotto l’effetto di quella stimolazione. Parlava velocemente, annuendo verso di lei ogni tre parole.
+
+“Ah, allora è meglio che vengano da noi… Mary, è davvero così?”
+
+Mary Smith annuì dolcemente con le labbra chiuse, il che le salvò la laringe.
+
+“Non può essere fatto in questo modo, Mary,” continuò lui con la stessa velocità di prima – “non è nel nostro stile di fare affari, eh?” Ridacchiò, come per sottolineare che si trattava proprio del suo modo di condurre gli affari. Apparteneva troppo a un mondo più vecchio; al mondo cortese degli anni ’60 negli Stati Uniti del Nord. Ma tutto il suo atteggiamento era sufficiente per far capire ciò che voleva dire: un battito di ciglia, o una leggera spinta sulle costole. E Mary Smith ne fu molto compiaciuta. Sfruttò senza alcuna vergogna la sua buona disposizione d’animo, la sua età avanzata, e il fatto che i suoi occhi erano fissi sul fuoco. Cercò goffamente sul tavolo accanto a sé, e un po’ dietro di sé, per suonare il campanello; quando il servitore bussò, fingette di essere turbata, ma riuscì comunque a dire al servitore, con un tono che l’uomo anziano non poteva certo non notare.
+
+#"Dica al Primo Ministro che voglio vederlo prima che se ne vada."
+
+Poi, quando il servitore ebbe chiuso la porta dietro di lui e anche lei sentì chiudersi la porta esterna, gridò di nuovo verso suo zio:
+
+“Mi hanno appena chiamata; tornerò subito.” Lo guardò con infinita tenerezza, baciò la sua fronte ossuta e se ne andò. Ma quando anche lei chiuse le porte esterne alle sue spalle, la stanchezza derivante da quell’esperienza era evidente sul suo viso. Non è affatto facile per una donna della sua età dover sostenere un simile dialogo. Andò da una stanza all’altra, forse un po’ troppo in fretta. Fino a quando non vide Dolly vicino a una finestra aperta, che parlava con fervore, o meglio discuteva, con un artista straniero che non era certo un gentiluomo. Ma il Primo Ministro era interessato all’arte straniera. Così lo portò via con sé.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="Pongo and the Bull — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/antisemitism,concept/nationalism_and_patriotism,concept/capitalism,form/satire,form/novel"></span>
@@ -3535,6 +4313,48 @@ He went over the whole circle of these thoughts two or three times in the remain
 As for the Duke of Battersea, he lay in Battersea House not yet asleep. He was feeding internally and nourishing his soul upon Dolly and the Indian Loan. He held Dolly between his spatulated forefinger and his gross thumb. But then he did not understand blood which was not his own, nor what sympathies might arise between men of one race and one society; and he had forgotten G. Quinlan Smith, that brittle, aged man.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Va tutto bene, Dolly!”
+
+“Che c’è che non va?” chiese Dolly, un po’ confusa.
+
+“Smith e Fischer ce la faranno!”
+
+“Oh!” disse il Primo Ministro in modo vago, poi, con un improvviso lampo di intelligenza: “Oh sì, ora ricordo. Beh, grazie a Dio per questo!” esclamò, davvero sollevato. “In realtà non era affar mio, ” aggiunse, con tono sarcastico. “Dio mio, trent’anni fa un Cancelliere dello Scacchiere non avrebbe mai permesso che il proprio lavoro, ”
+
+“Oh sì,” disse Mary Smith con impazienza; lo sforzo di quei pochi minuti l’aveva completamente stancata. “Lo sappiamo già tutto!”
+
+“Comunque, è proprio questo il punto: Smith e Fischer lo faranno, e dovresti ringraziarli.”
+
+“Grazie davvero, Mary,” disse Dolly umilmente. “Conosco bene zio!” rispose Mary con un pizzico di amarezza. “Lui cambia idea tre volte al giorno. Stasera semplicemente ha deciso giusto. Non conosce le condizioni attuali e non ci ha nemmeno pensato. Se tu intervieni prima che vada in ufficio domani, tutto si risolverà, perfettamente.”
+
+Un’espressione di terrore apparve negli occhi del Primo Ministro. Ricordò l’ultima conversazione che aveva cercato di intrattenere con il vecchio G. Quinlan: riguardava la caccia ai tassi, e quell’uomo era in uno stato d’animo estremamente negativo; sosteneva che non esistessero animali chiamati tassi, e che quel termine fosse in realtà un modo inglese per indicare gli skunk. Il ricordo di quella discussione, ripresa ad alta voce durante una cena pubblica nella City mentre soffriva di un raffreddore grave, era un incubo per il Primo Ministro; per la prima volta in vita sua provò l’amarezza derivante da enormi differenze di fortuna. Infatti, George Quinlan Smith possedeva una fortuna immensa, controllava in qualche modo dodici volte tanto quanto possedesse lui stesso, mentre il Primo Ministro aveva soltanto la casa in città, i propri introiti personali, lo stipendio, la tenuta nel Yorkshire e la graziosa casetta vicino a San Remo – che in realtà era solo affittata a lungo termine – oltre alla sua quota nella proprietà condivisa della miniera di Durham e del parco Horniman Park; il resto apparteneva tutti a sua moglie.
+
+“Non essere sciocca, Dolly,” disse Mary Smith con stanchezza; “porta la tua segretaria domani. Quella vera,” aggiunse, “quella che scrive le lettere. E mi assicurerò che lo zio riceva anche lui una copia. Ne parlerete dopo colazione, prima che vada in città.” Sospirò profondamente. “Ha quel coso chiamato ‘Marvel’ che gli fa sentire ogni parola che dice. Suona quasi come normale conversazione, tranne che le parole sembrano rimbombare. Oh, Dolly. Quel ‘Marvel’ ha una voce orribile!” E Mary rabbrividì. “Penso che sia un coloniale o qualcosa del genere, ” disse, aggrottando la fronte e sollevando il naso, proprio come si fa quando si percepisce qualcosa di sgradevole nel cibo.
+
+C'era uno sguardo sul viso di Dolly che sembrava suggerire l'intenzione di fuggire, e Mary Smith era quasi arrabbiata. Dopo tutto, aveva fatto molti sforzi per lui, e sarebbe stato davvero un peccato se avesse deciso di andarsene semplicemente a causa della noia, della mancanza di iniziativa, o a causa di quella sua abitudine radicata di restare a letto fino a tardi. “Certo,” disse lei, “se preferisci tornare al Batterseas, ”
+
+“No,” disse. “Oh, no! Non tornerò più al Batterseas, Mary. Verrò domani e porterò con me Eddie.”
+
+Gli disse che aveva fatto bene e lo lodò con lo sguardo. Lui, poveretto, ancora lontano dal superare la difficoltà, continuava a ripetersi quanto fosse vergognoso che simili compiti ricadessero su di lui. Mentre l’uomo gli aiutava ad indossare il cappotto, i suoi pensieri continuavano a girare intorno a questa questione. Camminò lentamente per St. James’s e attraverso il Parco, ancora preoccupato. Non molto tempo prima, tutte queste cose venivano svolte come se fossero fatte da una macchina. Lui nemmeno sapeva come venissero eseguite. Un prestito. Si consigliava di evitarlo, definendolo un eccesso di spesa. Ma non c’era altra possibilità.
+
+Ripensando a quella sua vita, soprattutto ai suoi ultimi quindici anni, gli sembrava che, con il passare del tempo, anche l’Inghilterra stessa fosse invecchiata, e che tutto ciò che era immutabile fosse cambiato.
+
+Molto tempo fa, le persone avevano l’abitudine di indicare qualche atto di grossolanità nella vita pubblica o qualche esempio evidente di corruzione come segno del punto a cui erano arrivate le cose. E ora c’era un altro traguardo da raggiungere: l’uomo responsabile del governo dell’Impero si comportava come un truffatore, supplicando pietà, proprio come quel dittatore occasionale ed effimero di qualche piccolo Stato tropicale in difficoltà!
+
+Quando era giovane, prima di raggiungere i quarant’anni, c'erano le tue sovvenzioni e i tuoi prestiti. O meglio, non c’erano affatto prestiti, rifletté amaramente. Era tutto solo un modo per ripagare debiti. E ora bisognava lottare disperatamente per sopravvivere. Se qualcosa andasse storto, sarebbe stato un vero disastro! All’epoca, gli ufficiali pubblici e il Ministero delle Finanze ne sapevano sicuramente venti volte di più di lui. E ora doveva nascondere tutto anche al proprio segretario, fino all’ultimo momento.
+
+Ripassò quei mesi nella sua mente. Le prime decisioni prese, quando la semplicità delle cose veniva data per scontata: tutto affidato agli ufficiali incaricati, e nulla che lo disturbasse se non il modo in cui doveva zittire quegli sciocchi della Camera dei Comuni e spiegare l’entità del prestito. Poi le prime difficoltà, le negoziazioni con Parigi, gli inconvenienti, le lettere ricevute personalmente, i suoi primi tentativi di risolvere personalmente quei problemi. E infine, quella scena a Battersea’s.
+
+Era felice che Mary Smith avesse reso suo zio più nobile.
+
+Si fermò sul ponte nel St. James’s Park e guardò giù nella superficie poco profonda dell’acqua, ponderando tutte queste cose nella sua mente, come fa un uomo quando ha scelto il male minore tra molti. Dopotutto, era davvero il male minore. Quell’uomo anziano era sordo e irascibile, a volte anche offensivo, ma era lo zio di Mary Smith, e Dolly conosceva bene il modo in cui avrebbe agito. G. Quinlan Smith faceva le cose, o non le faceva affatto; e se diceva che avrebbe fatto qualcosa, allora la faceva davvero. Non ci sarebbero state condizioni né trattative meschine: per Dio, avrebbe fatto sì che quel vecchio Battersea sorridesse dall’altra parte della sua brutta bocca! Con Smith non ci sarebbero state condizioni né negoziati, nessun lavoro di beneficenza né segni distintivi sulle cose, nessuna restrizione nei suoi movimenti. E soprattutto: nessun marchio sulla sua debito! Questo era essenziale, perché solo Dio sapeva come si sarebbero sviluppate le situazioni in India.
+
+Ripensò a tutte queste idee due o tre volte nei restanti tre o quattrocento metri del suo viaggio; esse lo occuparono per tutta la notte.
+
+Per quanto riguarda il Duca di Battersea, egli giaceva nella residenza di Battersea House e non era ancora addormentato. Si nutriva interiormente e alimentava la sua anima grazie a Dolly e al “Prestito Indiano”. Teneva Dolly tra l’indice e il pollice. Ma non comprendeva cosa fosse il sangue che non era il suo, né quali simpatie potessero nascere tra uomini della stessa razza e dello stesso ambiente; aveva anche dimenticato G. Quinlan Smith, quell’uomo fragile e anziano.
+
 
 
 <span class="atom-split" data-atom="chapter_07" data-title="Pongo and the Bull — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="concept/deception,concept/crime_and_punishment,concept/materialism,form/satire,form/novel,setting/france"></span>
@@ -3578,6 +4398,46 @@ He was not, as were or had been both poor M. Arton and poor Mme. Yahzoff, an exp
 
 When the aged Duke of Battersea heard by a telegram the next day of what had happened at Les Charmettes, the blow struck him with no violence so far as the loss was concerned: it struck him with little violence so far as the sense of insecurity which it involved was concerned. What did hit him and hit him hard was the luck. He was a very old man and his luck had now run steadily against him for quite fifteen years. In the last ten years it had run badly against him, and when he heard of his loss, he was more than commonly gloomy for three days. He sent a telegram dismissing the concierge, and then to tell the truth regretted the half-crown, for the good woman had disappeared long before the wire reached Nice He put in an advertisement for the miniature of the Prince Imperial, to which he was attached from a sentiment which he felt (in common with all his family) for royalty in any form. As to the Spoon, he did not give it another thought.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VII
+
+“Chi pecca una volta, pecca più facilmente la seconda volta.”
+
+Martino Lutero.
+
+“Coloro che sacrificano la propria vita nelle fasi iniziali dello sviluppo di una scienza o di un’arte, per la loro dedizione al suo progresso, possono essere più propriamente definiti martiri rispetto ai fanatici spinti dall’isteria a compiere atroci atti di auto-sacrificio, persino di autodistruzione, in onore di un oggetto di adorazione immaginario e insconosciuto.”
+
+La stampa quotidiana.
+
+In quella parte della costa del Mediterraneo dove il freddo pungente dell’inverno provenzale forse non si avverte con la stessa intensità in altre zone della regione, sorgeva una villa con il nome originale e bellissimo di Les Charmettes, che si affacciava sul mare interno.
+
+Nice non era lontana; Beaulieu si trovava proprio di fronte. I deliziosi giardini, con le loro palme e i tappeti di fiori, si estendevano lungo il ripido versante della collina a terrazze. Negli ultimi trent’anni era stata di proprietà, a turno, delle famiglie Heines, Polignacs e Boulgers di Northampton. La sua forma ricordava un grande parallelepipedo: bianco con persiane verdi e una cornice dorata; misurava cinquantasette metri di lunghezza, ventisei metri di altezza e quindici metri di larghezza. Era circondata da ghiaia e disponeva di molti stalli.
+
+In seguito al fallimento della famiglia Boulger durante la crisi petrolifera, il Duca di Battersea ne prese possesso su accordo e gli diede il nome attuale. Non si trattava di una grande residenza, come quelle che adornano quella zona costiera, ma nonostante il Duca fosse ormai troppo anziano per visitarla se non in occasioni molto rare, essa veniva mantenuta nella sua antica magnificenza.
+
+Tra le molte cose che distinguevano Les Charmettes dalle altre case private di quel famoso quartiere, c'era questo: i mobili e ogni dettaglio nell'arredamento della casa erano rimasti invariati per circa trent'anni.
+
+Il Duca di Battersea, dopo aver aiutato la famiglia Boulger assumendosi la gestione della casa al loro ritorno da difficoltà finanziarie, aveva insistito affinché venissero conservati il libro degli ospiti e i vari oggetti di interesse, molti dei quali avevano un valore storico; un uomo meno attento probabilmente li avrebbe restituiti ai loro precedenti proprietari. Tra questi oggetti c’era anche una cucchiaino d’argento, che la signora Boulger aveva conservato con grande cura, e di cui, temo, sentiva la perdita più di qualsiasi altro dei suoi tesori. Si trattava di un semplice cucchiaino d’argento inglese, del tipo noto come “a coda di topo”, appartenente a un set di trentasei pezzi. Il suo valore risiedeva nel fatto che, quando la famiglia Boulger acquistò la casa dalla branca Strauss dei Polignac nel 1912, l’ex portinaia, una donna molto loquace, mostrando ai nuovi proprietari la casa, raccolse un mazzo di oggetti d’argento di vario tipo e li mostrò alla nuova padrona di casa, dicendo in italiano fluente che quando Disraeli aveva avuto l’onore di ricevere una tazza di tè da loro, era stato proprio questo argento ad essere utilizzato. L’ex portinaia riuscì persino a indicare il cucchiaino con cui Disraeli aveva mescolato il tè. Per essere precisi, la donna aveva usato un cucchiaio da tavola per fare l’esempio, ma l’errore era così evidente che la signora Boulger lo corresse. Nemmeno le ripetute assicurazioni dei suoi amici inglesi, secondo cui Disraeli non si era mai avvicinato alla villa, scossero la fiducia della signora Boulger in quanto, dopotutto, si trattava della testimonianza vivente di una persona affidabile. Lei scelse quindi uno dei cucchiaini “a coda di topo” che probabilmente sarebbero stati utilizzati in quell’occasione importante, incise su di esso la seguente dedica: “Questo cucchiaino fu usato dal defunto Conte di Beaconsfield per mescolare il tè durante la sua visita a ‘Les Charmettes’, allora proprietà di Jeremiah Boulger, Esq., J.P.”, e lo fece incorniciare in una delicata custodia di velluto e pelle russa. Il Duca di Battersea non aveva dimenticato questo cucchiaino, ma poiché il suo interesse non si rivolgeva in quella direzione, non lo portò in Inghilterra; lo lasciò insieme ad altri cinquanta oggetti di valore sotto la cura della portinaia.
+
+Accadde che in settembre del 1925, il signor Arton e il signor Bertot, insieme alla loro compagna, la signora Yahzoff (una signora lituana), fossero impegnati nel loro solito viaggio annuale nel sud della Francia, alla ricerca di opere d’arte e curiosità di ogni genere che potessero interessare ricchi collezionisti. Tra i primi nomi presenti nella loro lista c’era, come il lettore può facilmente immaginare, quello di G. Quinlan Smith. Poiché ebbero l’occasione di passare per Nizza al fine di acquistare un vecchio reliquario smaltato di Limoges nascosto nell’armadio di una chiesa vicina, non videro motivo di non approfittarne per fare anche un altro acquisto e visitare Les Charmettes prima di recarsi nel luogo sacro: fortunatamente, Les Charmettes si trovava proprio sulla loro strada. Arrivarono alla villa alle tre del mattino, poco prima della pausa di Pentecoste durante la quale Mary Smith era riuscita a parlare con suo zio riguardo al prestito indiano.
+
+La notte era senza luna, e sulla Riviera il cielo era coperto.
+
+Guidando – in violazione di tutte le normative – senza luci, i tre esperti parcheggiarono la loro auto a una certa distanza dal cancello della villa. Lasciando Bertot, che conosceva meglio i principi meccanici, a occuparsi dell’auto, M. Arton e Mme. Yahzoff entrarono dalla porta che avevano fatto aprire al portiere, e iniziarono a selezionare, con cura e senza fretta eccessiva, oggetti che, secondo il loro giudizio esperto, avrebbero potuto interessare i loro clienti. Mentre percorrevano le grandi stanze tenendo una candela in mano, ignorarono molti ornamenti grandi e vistosi; invece presero un cucchiaio e una piccola miniatura del principe imperiale da bambino; Mme. Yahzoff la esaminò con curiosità e menzionò tre o quattro nomi di persone che, secondo lei, avrebbero potuto essere interessate ad acquistarla. Oltre a questi oggetti, presero anche uno o due libri rari, un delizioso pezzo di ricamo medievale e un dipinto di Chardin abbastanza piccolo da poter essere facilmente portato sotto il mantello.
+
+Lasciarono la casa entro mezz’ora dall’esserci entrati, chiusero la porta e infilarono la chiave sotto un particolare vaso di fiori, che loro era stato indicato dalla vecchia domestica del Duca. Una volta fatto ciò, ripresero la loro auto. M. Bertot prese il volante e i tre partirono a tutta velocità lungo la strada principale verso la chiesa, che avevano intenzione di esaminare in seguito.
+
+La regola che impone di guidare di notte con i fari accesi, pur essendo giusta e nel interesse del pubblico generale, è forse altrettanto importante per gli stessi automobilisti. Bertot, sebbene fosse un abile conducente, investì, a meno di due miglia da Les Charmettes, il corpo di una grossa scrofa che, a causa della negligenza inaccettabile del suo proprietario, giaceva addormentata sul lato destro dell’autostrada. Di giorno, l’incidente avrebbe potuto essere trascurabile; al buio, invece, le conseguenze furono tragiche. M. Bertot, nel tentativo di riprendere il controllo dell’auto, girò bruscamente il volante, e in un istante l’intero veicolo si schiantò contro la recinzione. Il cofano si piegò su se stesso come un cappello da teatro; M. Arton fu sbalzato in avanti con la testa che urtò le pietre della recinzione, mentre la signora lituana volò via nell’aria con uguale velocità. M. Bertot, invece, riuscì a compiere un vero e proprio “tour de force”: mentre una mano gli rimaneva ancora attaccata al volante, gambe e corpo eseguirono un intero salto mortale; si strappò i pantaloni e la pelle della gamba sinistra nei detriti dell’incidente, si slogò un braccio, ma non riportò altre ferite gravi.
+
+Si raddrizzò con il braccio sano, estrasse a fatica la gamba dal mucchio di metallo spezzato e ascoltò. Il motore si era completamente fermato. Sentì l’odore della benzina versata per terra; udì anche un debole gemito. Pensò al pericolo rappresentato dalle luci, ma comunque accese un fiammifero, lo nascose con la mano e guardò il viso della donna sul prato. Non voleva più guardare. Il gemito non proveniva da lei. Udì di nuovo quel suono: era Arton. Proprio mentre stava per accendere un altro fiammifero, distinse sulla strada, dalla direzione della villa, un rumore inconfondibile per chiunque avesse esperienza nel lavorare con i grandi collezionisti d’Europa e d’America. Era il passo cadenzato dei poliziotti francesi a cavallo, che agivano sempre in coppia; uno dei loro compiti era proprio aumentare i rischi per questi collezionisti, e di conseguenza elevare il valore degli oggetti che cercavano.
+
+M. Bertot non pensava più a chi o cosa stesse gemendo. Tastò nell’oscurità alla ricerca della borsa: era aperta e il suo contenuto era sparpagliato ovunque. Cercò rapidamente oggetti metallici, afferrò mezza dozzina di oggetti che potevano essere d’argento o d’oro, li infilò nella tasca laterale del suo cappotto interno, si tolse il cappotto esterno, gli occhiali da motociclista e il berretto da pilota, poi zoppicò verso l’altra parte della strada.
+
+Lui non era, come povero signor Arton e povera signora Yahzoff, un esperto di psicologia umana; ma conosceva abbastanza bene la polizia da poter fare una stima ragionevole di ciò che sarebbe accaduto. I gendarmi avevano sentito il rumore dello schianto; se lo avessero scoperto, l’avrebbero arrestato, e mentre loro esaminavano i resti dell’incidente, lui avrebbe potuto dirigersi direttamente verso le colline sopra di loro e nascondersi nella boscaglia per tutto il giorno. Quando fosse calata la sera, avrebbe trovato il modo di allontanarsi; e se conosceva bene i metodi della polizia, sarebbe stato al sicuro per diversi giorni nella valle del Paillon, oltre le colline.
+
+Quando il vecchio Duca di Battersea seppe, il giorno dopo tramite un telegramma, ciò che era accaduto a Les Charmettes, il colpo lo colpì non con particolare violenza in termini di perdita materiale; tuttavia lo colpì profondamente dal punto di vista della sensazione di insicurezza che tale perdita comportava. Ciò che lo colpì davvero duramente fu la sfortuna. Era un uomo molto anziano, e da ben quindici anni la sua fortuna gli era stata ostile in modo costante. Negli ultimi dieci anni le cose erano andate particolarmente male per lui; quindi, quando seppe della propria perdita, rimase cupo per tre giorni interi. Inviò un telegramma per licenziare il portiere di casa, e poi, a dire il vero, si pentì anche di aver perso quei cinquanta centesimi: quella brava donna era già scomparsa molto prima che il telegramma arrivasse a Nizza. Pubblicò quindi un annuncio per cercare la miniatura del Principe Imperiale; lo fece per un sentimento che lui, come tutta la sua famiglia, provava verso la monarchia in qualsiasi forma essa si manifestasse. Per quanto riguarda quella “cucchiaiola”, non ci pensò più affatto.
 
 
 
@@ -3638,6 +4498,62 @@ Mary Smith, who was fussing about at the head of the table, cried to her guest i
 
 By this time there were tears in her eyes: it was a damned shame of Mary to have put her next to the old fool, and not to have told her! The other people were, according to their powers of self-restraint, looking at their plates or looking at her. Mary Smith valiantly began to babble, saying things that had no meaning, and through the babble could be heard the old gentleman’s murmur, as with continued courtesy he asked:— “Why not? Why not?” But like a horse that, deeply embedded, struggles through a bog and wins the farther shore, so, from very lack of restraint, was the poor lady stampeding and determined to win through and to find firm ground.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VIII
+
+Q. Pensi che il francese sia essenziale?
+
+A. No, non dovrei dire che sia essenziale. Il tedesco e lo spagnolo sono certamente essenziali, ma il francese è spesso utile.
+
+(Rapporto della Commissione sull'Istruzione nelle Scuole Pubbliche, II.)
+
+1728. Testimonianza di Lord Willesden. Estratto.
+
+Stare a letto a mentire, quando questa abitudine è stata praticata per quarant’anni, diventa una consuetudine difficile da abbandonare. A sessantasei anni, non è facile per nessuno, soprattutto se si ha il peso delle responsabilità di Stato, interrompere un’abitudine radicata da tempo.
+
+Fu per questo motivo che Dolly non si preoccupò particolarmente di presentarsi a casa di Mary Smith alle una di quel giorno successivo.
+
+Se Mary Smith, per motivi suoi personali (o piuttosto, per motivi legati a suo zio), sceglieva di pranzare alle una, doveva aspettarsi che alcuni dei suoi ospiti, che non erano milionari americani, arrivassero un po’ in ritardo. Erano le venti e quindici quando Dolly, prendendo tutto con estrema calma, si avvicinò lentamente alla sua porta.
+
+Ma se l'abitudine raffinata di alzarsi quando si vuole è adatta alla classe dirigente di questo paese, altrettanto compatibile con l’intelligenza commerciale attiva del Nuovo Mondo è l’insopportabile abitudine di lavorare all’alba. E G. Quinlan Smith, dopo aver trascorso quasi settant’anni in questo modo, non riusciva più a tenere gli occhi chiusi dopo le sei del mattino.
+
+A quell'ora assurda della mattina dello stesso giorno, si era vestito da solo, senza l'aiuto di nessuno, con i suoi abiti vecchi e un po’ arrugginiti ma ancora eleganti; aveva preparato l’acqua per radersi utilizzando una lampada a alcol, e ne aveva versata un po’ sulla miscela di caffè che teneva accanto a sé in una tazza, insieme a uno o due biscotti per accompagnarla; molto prima delle otto, aveva già fatto esercitare il suo “segretario”.
+
+Quando arrivò il primo messaggio, tutto era pronto per essere gestito; entro le nove aveva completato il suo lavoro della giornata.
+
+L’uomo anziano attendeva con impazienza una breve passeggiata nel Parco: al ritorno avrebbe dato un’occhiata in qualche negozio nella sua eterna ricerca, e poi sarebbe tornato per pranzo.
+
+Tornò poco prima di mezzanotte, poiché le sue abitudini erano estremamente regolari e non tollerava alcun ritardo nel suo pranzo di mezzogiorno. Mentre un servitore lo aiutava a togliersi il cappotto, un altro gli porse un telegramma arrivato quella mattina. Vi si leggeva, in francese, che una signora possedeva la “Cucchiaia” e avrebbe preso il treno espresso del pomeriggio del giorno dopo a Villefranche. Il messaggio era firmato “Parseval”.
+
+Nel corso degli ultimi anni, il signor Smith aveva ricevuto molti telegrammi del genere, scritti in diverse lingue; ne aveva ricevuti alcuni anche da quando si era trasferito a vivere con sua nipote e le aveva fornito l’indirizzo privato per contattare i suoi vari agenti. Riusciva a tradurre “Parseval” con “Bertot”, ma il resto del testo lo lasciava perplesso. E non era certo il tipo di messaggio che avrebbe condiviso nemmeno con la sua segretaria. Con un sospiro di rammarico per non poter vivere abbastanza a lungo da vedere l’anglosassone diventare la lingua universale del mondo, il vecchio signore andò direttamente in biblioteca, prese un dizionario francese e scoprì che “culliere” significava cucchiaio. Questo gli fornì subito una spiegazione: capì quindi il senso del messaggio. Le due parole successive, per quanto strane, assomigliavano abbastanza a termini inglesi da essere comprensibili. Intuì che si trattasse di un invito a incontrarsi: Bertot lo avrebbe raggiunto, o meglio, una signora sul treno lo avrebbe fatto. Ma “Villefranche” lo lasciava perplesso. Cercò la parola nel dizionario, ma non la trovò. Doveva trattarsi di un termine tecnico. O forse di un codice? Per un momento pensò che potesse rappresentare un avvertimento importante.
+
+Era profondamente turbato. Mette il telegramma in tasca e aspetta che faccia giorno; poi lo tira fuori di nuovo e ci giocherella sopra. Inizia ad avere la febbre, è ansioso. Ha notato “il giorno dopo domani” e vuole saperlo senza essere scoperto.
+
+Alcuni dicono che una concatenazione precisa di eventi costituisca una prova della Provvidenza. Queste persone sarebbero portate a credere che, nel 1925, la Provvidenza abbia voluto segnare in modo evidente l’episodio del Prestito Indiano, mettere in imbarazzo il governo britannico e ostacolare la Campagna del Nord-Ovest. Poiché lo stesso Potere che quella mattina impedì a Dolly di alzarsi fece viaggiare G. Quinlan lontano, portandolo fino al Mar Mediterraneo.
+
+Proprio durante il pranzo, mentre lui ribolliva di rabbia dentro di sé, a tavola, seduta proprio accanto a lui, la Provvidenza aveva già messo in atto i suoi piani. Quell’“strumento” dei suoi progetti era una signora alla moda, di nome Courier: dall’aspetto poco attraente e dai tratti non particolarmente belli. Lei ignorava l’infermità del milionario, ma era certamente molto interessata al suo enorme patrimonio. Praticamente non appena lui si fu seduto, lei disse, con quel tono confidenziale che utilizzava da almeno il primo Giubileo.
+
+#"Non sai che posto meraviglioso da cui vengo appena!"
+
+Il signor Smith la guardò e sorrise dolcemente, proprio come si farebbe di fronte a qualsiasi altra stupidaggine del genere.
+
+Mary Smith, che si agitava alla testa del tavolo, gridò al suo ospite con lo stesso tono che si usa con un facchino ferroviario quando questi se ne va con i bagagli:
+
+“È sordo! Gridate!”
+
+“Non sapete che posto meraviglioso da cui vengo appena ora,” ripeté la signora a voce molto alta. Si sentì arrossire e fu estremamente a disagio.
+
+“No, no, Lily,” disse Mary con ansia, “grida! Grida come se volessi fermare un treno!” Ma G. Quinlan continuava a sorridere in modo senza senso.
+
+“Non sai che posto meraviglioso da cui vengo appena ora,” disse la vittima con voce tonante, ormai rossa come una barbabietola.
+
+“Certamente,” disse G. Quinlan con gentilezza, “certamente,” e continuò a mangiare.
+
+“Oh! Una tale quantità di fiori!” esclamò quella donna sfortunata, rendendosi vagamente conto, sebbene la sua cultura letteraria fosse scarsa, del contrasto tra ciò che stava dicendo e il modo in cui lo stava dicendo, “È, è come un Palazzo della Primavera!”
+
+A quel punto avevano già le lacrime agli occhi: era davvero una vergogna che Mary l’avesse messa accanto a quell’uomo anziano senza dirle nulla! Gli altri, a seconda delle loro capacità di autocontrollo, guardavano i propri piatti o la fissavano. Mary Smith, con coraggio, iniziò a balbettare cose prive di senso; tra quel balbettio si poteva sentire il mormorio dell’anziano gentiluomo, che continuava a chiedere con cortesia: “Perché no? Perché no?” Ma proprio come un cavallo che, affondato nel fango, lotta per raggiungere la riva opposta, anche quella povera signora, spinta da una totale mancanza di autocontrollo, si sforzava disperatamente di superare ogni ostacolo e trovare terreno solido su cui poggiarsi.
 
 
 
@@ -3713,6 +4629,76 @@ The servant said that Mr. Smith hadn’t given an order; he had told the taxi ma
 So it was. By the time Dolly had read the two threatening letters that awaited him and sketched out his notes on a new investment, G. Quinlan was nearing Dover. While later on the Prime Minister was listening very closely to his Chancellor of the Exchequer’s views upon nothing of importance, G. Quinlan Smith was taking a bowl of soup in the restaurant at the Gare Maritime of Calais; and when, after dinner, having waited in vain for a message from Mary, the Prime Minister rang her up to hear if there were a sign of news, G. Quinlan Smith was at the end of his elaborate instructions to the attendant who was preparing his bed in the sleeping-car of the Riviera Express.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Si chiama Villefranche!” cominciò lei — e non appena pronunciò quella parola, la capacità dell’uomo anziano di ascoltare ciò che gli interessava si risvegliò. Se avesse avuto il suo microfono in tasca, credo davvero che avrebbe dimenticato completamente le convenzioni sociali e l’avrebbe tirato fuori. Comunque sia, non si vergognò di portarsi una mano curva all’orecchio destro, di chinarsi verso la sua compagna e dire:
+
+“Villefranche? Questo sì che è interessante… Chi è lui?”
+
+“Per favore, diglielo, Mary,” supplicò la povera donna.
+
+“E Mary Smith, che sebbene fosse più lontana, era più abile in quell’arte, gridò…”
+
+“È un luogo, zio! Non è una persona… È un luogo!”
+
+E il cenno del capo di suo zio, nonché lo scintillio nei suoi occhi, le dissero che aveva capito.
+
+“Ah, è un posto, giusto?” Cominciò a capire di cosa si trattasse. Ma la sua infinita cautela tornò ad assalirlo; prima ancora di scoprire dove fosse situato quel luogo, lasciò che venissero dette molte cose riguardo all’incidente e trascorse quei minuti pronunciando un breve discorso al suo compagno, nel quale disse di ricordare vagamente che Villefranche si trovasse sul Reno.
+
+La signora scosse la testa. “Non quella,” disse, e che lui l’avesse sentita o meno, capì il gesto.
+
+“È vicino a Monaco. Ci si arriva prima di Monaco.”
+
+“Devi occupartene prima che arrivi Monaco,” disse Mary Smith, interrompendo tutto ciò che stava dicendo all’impiegato del Ministero degli Esteri al suo fianco. “Davvero, devi farlo prima che arrivi Monaco?” chiese ansiosamente all’impiegato in questione.
+
+“Oserei dire, ”, disse lui educatamente. Un uomo calvo seduto più lontano al tavolo, che guidava un’auto, annuì: “Sì, hai ragione; l’hai menzionato prima di Monaco. L’aveva visto su un cartello blu e bianco”. Poi iniziarono a parlare di Monaco.
+
+Erano esattamente venti minuti dopo l’una, ma l’unica persona che conosceva l’ora o se ne curava era G. Quinlan Smith. I suoi piccoli occhi marroni avevano notato esattamente l’orario; non avrebbe mai rivelato l’ora guardando l’orologio. E notate bene: quando G. Quinlan si fermava da sua nipote, tutti gli orologi indicavano lo stesso tempo, e quel tempo era il tempo giusto. Si assicurava sempre che fosse così. Pagava una persona affinché ogni mattina venisse da Dent’s, e gli piaceva molto controllare personalmente i risultati; perché la meticolosità è la chiave del successo negli affari.
+
+La mente organizzatrice si distingue per la sua capacità di cogliere i dettagli; G. Quinlan Smith, nonostante la sua età, non solo poteva dirvi l’orario dei tre principali treni espresso per Chicago in partenza dall’est, e quello dei due migliori treni per Washington provenienti dal New Jersey, ma sapeva anche come collegarsi con il Sud Express, l’Orient Express e il Côte d’Azur da [[London|Londra]]. Tra le centinaia di informazioni ben ordinate in un angolo del suo cervello, c’era fissata con precisione l’orario delle 2:20: quello del treno perfetto per ogni vero gentiluomo che desideri raggiungere la Riviera prima che i servizi ferroviari verso quella destinazione vengano sospesi.
+
+G. Quinlan Smith non prese più parte alla conversazione, se non per essere il più cortese possibile con la signora seduta al suo fianco, per risparmiarle la fatica di dover gridare e offrendosi volontario per esprimere i propri commenti su ogni argomento. Durante tutto quel breve scambio, mostrò una curiosa indifferenza verso Villefranche.
+
+Tre volte prima era riuscito ad ottenere esattamente ciò che voleva, e nessuno se n'era accorto. L’ultima volta era stato nell’ultimo gennaio: aveva trovato l’oggetto desiderato a Brighton, una sedia. La volta precedente risaliva a due anni fa; in quell’occasione aveva individuato la sua preda a Biarritz. Quella volta era riuscito ad arrivare esattamente tre ore prima di un rivale, e ricordava ancora quel trionfo. Calcolò con precisione tutto ciò che doveva fare.
+
+Dopo mezz'ora si alzò dal tavolo: Mary Smith non avrebbe interrotto i suoi movimenti, anche se lo aspettava per tornare. Ma G. Quinlan Smith non aveva l'abitudine di considerare le comodità degli altri quando questioni davvero importanti per lui potevano risentirne a causa di una troppa cortesia verso di loro.
+
+“Che peccato per Dolly!” disse Mary.
+
+“Arriverà tra un minuto,” disse l’impiegato del Ministero degli Esteri, che conosceva bene le abitudini di suo cugino. Il signore calvo che era arrivato in auto aggiunse: “Arriverà poco prima delle due.”
+
+La signora esausta che aveva seduto alla destra di G. Quinlan aveva un reclamo da fare.
+
+“Il signor Smith tornerà, Mary?” chiese lei.
+
+“Immagino di sì,” disse Mary in modo indifferente, ma in realtà era molto infastidita da Dolly. Aveva fatto molti sforzi per far incontrare suo zio con lui a pranzo. Tuttavia, conosceva i modi del vecchio signore e, anche se non fossero riusciti ad incontrarsi a pranzo, avrebbe trovato un modo per farli incontrare di nuovo quel giorno o quella sera. Sapeva quanto fosse importante quell’incontro per Dolly.
+
+Al piano di sopra, nella sua stanza, il vecchio G. Quinlan aveva scritto un breve biglietto: “Torno sabato. Come al solito, non dirlo a nessuno.” Lo mise in una busta, la sigillò, scrisse il nome della sua segretaria sopra, prese una piccola borsa che poteva permettersi di tenere sempre pronta, chiamò un servitore perché la portasse giù e poi prese un taxi.
+
+E così partì per Charing Cross con quel comodo mezzo di trasporto, proprio mentre Dolly, senza alcun ritardo, arrivò alla porta di Mary Smith.
+
+Dolly entrò e si notò un certo trambusto, perché dopotutto lui era il capo di Stato. Si comportò in modo cordiale; mangiò e bevve. Si chiese perché non ci fosse il signor Smith.
+
+Il pasto era finito, iniziarono a separarsi; Dolly cominciò ad allarmarsi. Tutto ciò che voleva fare era prendere un appuntamento con il finanziere. Bastavano poche parole. Chiese rapidamente e in privato a Mary, tenendola indietro rispetto agli altri: “Dove si trova il signor Smith?”
+
+“Non lo so,” disse Mary, “immagino che sia nella sua stanza. Chiederò. È tutta colpa tua, Dolly. Te l’avevo detto.”
+
+Il servitore disse loro che il signor Smith se n'era andato in taxi.
+
+“Dove è andato?” chiese Mary in tono brusco.
+
+Il servitore disse che il signor Smith non aveva dato alcun ordine; era stato lui stesso ad informare l’autista di taxi. Che noia!
+
+“Dovrei essere di ritorno nella mia stanza entro le tre”, disse Dolly in modo incerto.
+
+“Va bene,” disse Mary Smith, preoccupata e stanca, “me ne occuperò più tardi. Ti chiamerò.”
+
+“Sarò lì tutto pomeriggio”, disse Dolly, “nella mia stanza. O comunque possono venirmi a prendere”.
+
+“Molto bene,” disse di nuovo Mary Smith, “è stata tutta colpa tua.”
+
+Era proprio così. Nel momento in cui Dolly aveva letto le due lettere minatorie che lo aspettavano e aveva preso appunti su una nuova opportunità di investimento, G. Quinlan era ormai vicino a Dover. Mentre in seguito il Primo Ministro ascoltava attentamente le opinioni del suo Cancelliere delle Finanze su questioni prive di importanza, G. Quinlan Smith stava mangiando una ciotola di zuppa nel ristorante della Gare Maritime di Calais; e quando, dopo cena, il Primo Ministro chiamò Mary senza ricevere alcuna notizia, G. Quinlan Smith era appena terminato le sue dettagliate istruzioni al cameriere che stava preparando il suo letto nel vagone letto del Riviera Express.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_01" data-title="Pongo and the Bull — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/london"></span>
@@ -3754,6 +4740,44 @@ Pongo had forgotten all about his notes; he was beginning to sweat. “If they g
 
 He read the paragraphs again, and was a little relieved at the second reading. After all it was guarded. The wild men who were talking of holding meetings about the famine would find the Chief Opposition Organ (damn its ugly cant) as insufficient as he found it rampant. He was still meditating whether he should arrange Half a dozen men, dressed for the most part as labourers, and shuffling doggedly along, were guarded by four policemen who flanked them upon either side. At the head of the group two other policemen led, arm linked in arm, a very aged, handcuffed man, whose attitude and gait betrayed an exasperation which was turning into despair. This old gentleman was very differently dressed from the others, and Pongo seemed to recognise if not a fellow-countryman, at any rate someone dressed as a human being should dress. The tramp of the policemen and the shuffling of the rest came closer, and Pongo’s blood boiled to see among them, treated with peculiar roughness, a large and vigorous woman. Pongo stood to watch the group go by, and was for a second or two unable to believe his eyes. Then he gave a loud shout. The old gentleman was — there could be no doubt of it — G. Quinlan Smith! The words inspired by his emotion, if not well chosen, at least came straight from the heart:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IX
+
+“Lettore, lettore!”
+
+Bizet (Carmen).
+
+Il leader dell’opposizione, Pongo (il nome con cui era stato affettuosamente chiamato), non si sentiva mai del tutto a suo agio. Gli anni di esperienza nella vita politica, ormai numerosi, gli avevano insegnato ad aspettarsi certe situazioni, ma non erano ancora riusciti a farlo abituare a esse. Uno dei suoi problemi costanti era il modo in cui doveva conciliare le sue opinioni personali con quelle espresse all’interno del Parlamento.
+
+Era sua abitudine, ogni volta che si trovava di fronte a una crisi (e stranamente queste accadevano a intervalli di circa tre mesi), quando era incerto su quale direzione prendere, prendere un foglio di carta rigido e pesante, fornito a spese pubbliche, e scrivervi in ordine logico tutti gli argomenti da considerare. Dopo averlo fatto, restava a fissare ciò che aveva scritto per circa mezz’ora, con uno sguardo di disperazione. Credeva che questo lo aiutasse a riflettere meglio. Il giorno dopo la partenza improvvisa di G. Quinlan Smith e l’aumento dell’ansia di Dolly, Pongo si sedette nella sua stanza privata alla Camera dei Comuni e scrisse su un foglio di carta tutti gli argomenti da prendere in considerazione, in ordine preciso. Prima di tutto, scrisse:
+
+“Nessuna divisione sui prestiti indiani.”
+
+Poi scrisse sotto, con una mano decisa e ferma.
+
+“Riflettiamoci ancora.”
+
+Gli dava sempre sollievo riuscire a guadagnare tempo, anche solo sulla carta.
+
+Dopo aver fatto questo, aspettò un attimo, succhiò la punta della sua penna stilografica e guardò in un angolo con un occhio. Poi scrisse più lentamente: “Debattito sul prestito indiano il primo mercoledì dopo Pentecoste.”
+
+“È mercoledì,” pensò tra sé. Nonostante il calcolo fosse superfluo, contò attentamente sulle dita e concluse che ci sarebbero stati sei giorni liberi. “E tre di questi saranno un fine settimana,” aggiunse.
+
+Incominciò a preoccuparsi per la data della riunione del Parlamento dopo la pausa di Pentecoste. Era sicuro che fosse di mercoledì. Prese il giornale che giaceva sul suo tavolo e lesse le notizie del mattino. Eccola lì, senza dubbio: “È stato deciso che il Parlamento si riunirà nuovamente dopo la pausa di Pentecoste, mercoledì 3 giugno.” Rimase a riflettere su questo punto, e inconsciamente i suoi occhi si spostarono sull’articolo di prima pagina.
+
+Pongo era un uomo semplice; era nato nelle quelle classi medie lavoratrici le cui ire temeva ancora nel profondo del cuore, e molte delle loro abitudini le manteneva ancora. Tuttavia, si era talmente adattato alla “Alta Società” che non leggeva i leader politici sui giornali.
+
+Quando, quindi, lo sguardo di Pongo cadde casualmente sul titolo principale dell’organo di stampa principale dell’opposizione, il suo stesso organo di diffusione, il suo caro sostenitore e difensore in quella battaglia cruenta, si trovò davanti a un’opinione che tutti i suoi principali sostenitori a [[London|Londra]] avevano assorbito quella mattina stessa, e che migliaia e migliaia dei suoi seguaci consideravano verità assoluta. Lesse meccanicamente le prime frasi di quel testo, mentre la sua mente era davvero concentrata su ciò che avrebbe dovuto scrivere successivamente sul suo taccuino. Quando, con orrore, si rese conto che il secondo paragrafo prendeva una direzione completamente diversa riguardo al prestito indiano! Dimenticò i suoi appunti, quasi dimenticò anche il proprio nome, mentre leggeva quel paragrafo, con i capelli che gli si rizzavano gradualmente in testa per la rabbia.
+
+“Se sia previsto un importo specifico per alleviare le sofferenze di coloro che hanno subito a causa di questo terribile errore commesso dal governo indiano, spetterà alla Camera dei Comuni decidere. È in gioco la buona reputazione dell’Inghilterra, e non abbiamo dubbi che, in una questione come questa che certamente trascende i partiti politici, anche l’attuale governo ricorderà che verremo giudicati non solo in India ma anche in Europa in base al nostro successo nel contrastare la carestia e alla tempestività e all’efficacia con cui verranno avviate le operazioni di aiuto.”
+
+“Quale forma debbano assumere queste iniziative è ancora una questione su cui dobbiamo attendere la decisione del Governo e l’approvazione del Parlamento prima di poterle criticare o approvare. Ma una cosa è certa: nella Camera dei Comuni esiste una maggioranza favorevole ad azioni immediate e concrete. Le considerazioni partitiche possono portare diverse componenti della coalizione che sostiene l’attuale Governo a condividere gli stessi obiettivi; tuttavia un gruppo – su cui abbiamo avuto molte occasioni di esprimerci criticamente – non deluderà la saggezza e la civiltà dell’Inghilterra. Si ritiene infatti che i membri di questo gruppo si rifiuteranno di votare a favore di un prestito che non venga destinato specificamente ad opere di soccorso di tipo definito e organizzato scientificamente. Dobbiamo riconoscere al Primo Ministro che comprende la gravità della situazione, ma non possiamo affidarci esclusivamente a lui. Si è troppo spesso dimostrato un opportunista e un politico nel peggiore senso del termine, per permetterci di fidarci della sua valutazione o delle sue iniziative in una crisi del genere. Fortunatamente abbiamo un’Opposizione attenta e ben organizzata, guidata con grande abilità da uno dei più capaci leader politici dai tempi dell’amministrazione di Burham, che fu all’origine di importanti cambiamenti in Inghilterra, tra cui l’approvazione del “Broadening of the Streets Bill”. Nel signor Pennybunt troviamo proprio quella saggezza britannica unita a un certo spirito innovativo e deciso, necessari nel momento più critico di una crisi del genere. Almeno in questo caso non ci saranno debolezze: l’Opposizione farà in modo che il permesso di richiedere tale prestito venga concesso soltanto dopo che il Governo avrà chiaramente definito i propri piani per alleviare le difficoltà della nostra grande colonia.”
+
+Pogo aveva completamente dimenticato le sue note; iniziava a sudare. “Se continuano così per molto tempo,” pensò, “scateneranno il panico in tutta la festa!”
+
+Rilesse i paragrafi ancora una volta, e la seconda lettura lo rassicurò un po'. Dopotutto, tutto era stato preso in considerazione. Quegli uomini selvaggi che parlavano di tenere riunioni sulla carestia avrebbero trovato l’Organizzazione Principale dell’Opposizione (maledetto quel gergo orribile) altrettanto inefficace quanto lui la riteneva pericolosa. Stava ancora riflettendo se fosse il caso di organizzare un gruppo di sei uomini, vestiti in modo da sembrare lavoratori, che avanzassero con passo incerto, scortati da quattro poliziotti posizionati su entrambi i lati. Alla testa del gruppo, altri due poliziotti guidavano un uomo molto anziano e ammanettato; l’atteggiamento e il modo in cui camminava rivelavano una frustrazione che stava trasformandosi in disperazione. Quell’anziano era vestito in modo molto diverso dagli altri, e Pongo sembrò riconoscere in lui, se non un connazionale, almeno qualcuno che si comportava come un essere umano. Il rumore dei passi dei poliziotti e il movimento del resto del gruppo si avvicinavano sempre di più; il sangue di Pongo bollì nel vedere, tra loro, trattata con particolare brutalità, una donna alta e robusta. Pongo rimase fermo a osservare il gruppo passare. Per un momento non riuscì a credere ai propri occhi. Poi gridò ad alta voce: quell’anziano era, senza dubbio, G. Quinlan Smith! Le parole che gli uscirono dalla bocca, sebbene non fossero particolarmente ben scelte, provenivano almeno dal profondo del suo cuore.
 
 
 
@@ -3811,6 +4835,58 @@ Tallant answered in the suavest manner.
 Nothing, he said, had shocked him during his tenure of office more deeply than the callousness of the Spanish Government in this regard. But he was sure the deputation must appreciate the extreme delicacy of the situation. Much was being done; the negotiations with Madrid were almost completed, and meanwhile he would point out that the Ebro was not a navigable river. Moreover — it was not a thing he would have said in the House, he reminded them — the blockade of any European port or harbour was a very serious matter indeed. He did not say that under certain circumstances there might not be contingencies which might produce events whose consideration would under certain aspects not include active measures. We were still the strongest Power, by far the strongest Power in the world, and the two great armies at Aldershot and on Salisbury Plain were not gathered for nothing, but they must remember the delicacy...
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Arrêtate! Arrêtate!” gridò, correndo verso di loro sulle sue gambe deboli. “Voi state portando via un uomo molto importante!” I due poliziotti in testa si fermarono e rimasero a bocca aperta; la parte posteriore della colonna si accalcò davanti alla testa del corteo. Uno dei prigionieri più umili cercò di scappare, ma fu catturato e gettato a terra; tutta questa confusione non fece altro che peggiorare l’umore degli ufficiali. Il brigadiere, che guidava l’intero gruppo, chiese a Pongo in termini molto scortesi cosa stesse facendo e se fosse impazzito.
+
+Man mano che il suo francese peggiorava e il suo vocabolario diminuiva, Pongo continuava a insistere sempre più ostinatamente.
+
+“Pericolo nel cestino di legno!”, gridò, mentre G. Quinlan aggiungeva con forza la sua conferma.
+
+“Tu credi davvero a queste storie, ragazzo!”, disse lui con toni che iniziavano ad assumere un’aria minacciosa, mentre ritrovava il coraggio alla vista di un amico. “Scoprirai cosa significa essere uno sciocco, se non la smetti!”
+
+Tutto ciò che ottenne per i suoi sforzi fu un forte strattone, del genere che non dovrebbe mai essere inflitto a una persona della sua età; intanto il brigadiere, fissando Pongo con uno sguardo severo, gridò con tono autoritario: “ROMPEZ!” A quel comando, le truppe disciplinate della Repubblica Francese sono abituate ad allontanarsi, poiché è proprio la parola utilizzata per congedarle. Ma Pongo, nel suo terrore, non riuscì a comprendere nulla se non il tono di voce del brigadiere.
+
+“Cer Moosieur, ”, cominciò a dire, quando l’alto poliziotto gli afferrò saldamente la mano sinistra per il colletto del cappotto e lo spinse di lato. Pongo non aveva mai subito un tale insulto in tutta la sua vita. Colpì alla cieca. Due uomini armati gli si gettarono addosso, e prima ancora che potesse dire qualcosa le sue mani furono saldamente legate, “C’è davvero poco tempo”, aggiunse.
+
+“Davvero, Pennybunt, lo so,” esclamò Dolly, quasi arrabbiata. “Poco tempo? Ma si tratta soltanto di due giorni.” Quando era eccitato in questo modo, la sua voce saliva in falsetto, il che risultava molto doloroso; alla fine pronunciò la parola “giorni” con un urlo.
+
+“Beh, devi trovarlo,” insistette Pongo con determinazione, “devi assolutamente trovarlo.”
+
+Dolly stava pensando a cosa dovesse rispondere, quando Eddie ricomparve con un messaggio.
+
+La delegazione era arrivata. “Quale delegazione?” chiese Dolly, scacciandola con la mano. “Dite loro di aspettare.”
+
+“La Lega contro i tornei di boxe”, disse Eddie; “è sul vostro giornale”.
+
+Il Primo Ministro gemette. “Oh! I Toreador, ” mormorò.
+
+“Non possono vederci insieme,” aggiunse disperatamente a Pongo. “Non andrebbe bene, vero?”
+
+“No,” disse Pongo con decisione, “inoltre, verranno a trovarmi dopo. Dicono che non si tratti di una questione legata alla festa, ” e sorrise cupamente.
+
+“Tallant ne è a conoscenza,” disse Dolly.
+
+Eddie gli disse che il Segretario degli Affari Esteri era pronto ad arrivare non appena lo avessero chiamato.
+
+“Beh, mandali avanti,” disse Dolly con stanchezza. “Ascolta, Pongo: vai nella stanza di Eddie e esci da quella parte. Ti troveranno subito dopo.”
+
+Entrò Tallant, il Segretario di Stato per gli Affari Esteri, un avvocato di spicco e un’autorità nel campo delle monete romane.
+
+“Parli,” disse Dolly.
+
+“Certamente,” disse Tallant. “Si aspettano che lo faccia.” Si mise seriamente all’opera e poi fu annunciata l’arrivo della delegazione. Eddie li presentò uno per uno per nome.
+
+Il Primo Ministro strinse la mano a Sir Robert Belcher, che aveva una posizione sicura a Leeds; annuì anche al piccolo Pilkington, per il quale Belcher aveva pagato a Norwich, e aspettò pazientemente ciò che avevano da dirgli. L’aveva già sentito prima. Oh Signore! L’aveva già sentito prima!
+
+Sir Robert Belcher non era un uomo laconico; amava le parole. Le faceva rotolare in bocca, riuscendo a far sì che venti di esse facessero il lavoro di una sola. I suoi discorsi erano insopportabilmente lunghi; e Dolly ricordò con curiosità come ogni singola parola di quei discorsi gli fosse stata ripetuta per anni. La brutalità del popolo spagnolo, la causa della luce e della giustizia, le terribili scene dell’arena, i sofferimenti degli animali, soprattutto dei nobili cavalli, tutti questi argomenti furono menzionati uno dopo l’altro. Ma questa volta Sir Robert Belcher concluse in modo diverso: il suo discorso conteneva un’allusione chiara al fatto che il governo si reggesse sulle sofferenze altrui, e che ci fossero cose che alcuni dei suoi seguaci non avrebbero mai accettato. Non voleva aumentare le difficoltà del Primo Ministro, ma la dichiarazione molto chiara fatta dal governo attraverso il suo Segretario di Stato otto settimane prima non era stata attuata. E, per dirla chiaro, la Lega Antibattaglie di Tori stava iniziando a perdere la pazienza.
+
+Little Pilkington fu d'accordo con lui. Espose apertamente le proprie idee indipendenti; e in un breve discorso che infastidì profondamente Dolly, ricordò a Tallant la famosa frase secondo cui “se i tornei di lotta dei tori non venissero aboliti prima del nuovo anno, l’Inghilterra dovrebbe e sicuramente vedrà fatta giustizia”. Il nuovo anno, sottolineò, nel profondo e doloroso silenzio che regnava, era già trascorso da cinque mesi. L’Inghilterra aveva preso qualche iniziativa? Per quanto lo riguardava, non si vergognava di ammettere di essere un estremista: era uno dei sei che avevano chiesto scuse pubbliche a uno o più tori selezionati, oppure, in caso contrario, l’invio di un ultimatum. Ma i conservatori erano disposti, anche se riluttanti, a fare compromessi, pur di porre fine a quell’orrore. Allora prese fiato e suggerì il blocco del fiume Ebro.
+
+Tallant rispose nel modo più gentile possibile.
+
+“Niente,” disse, “nella mia carica ha mai colpito me così profondamente quanto la crudeltà del governo spagnolo in questa questione. Ma sono certo che la delegazione debba comprendere l’estrema delicatezza della situazione. Si stanno facendo molte cose; le negoziazioni con Madrid sono quasi concluse, e intanto voglio sottolineare che l’Ebro non è un fiume navigabile. Inoltre, – e questo non lo avrebbe detto in aula – il blocco di qualsiasi porto o scalo europeo rappresenta davvero una questione molto grave. Non sto dicendo che, in alcune circostanze, possano verificarsi eventi i cui conseguenze potrebbero richiedere l’adozione di misure concrete. Siamo ancora la Potenza più forte, di gran lunga la più forte al mondo, e le due grandi armate stanziate ad Aldershot e sulla Piana di Salisbury non sono state radunate a caso. Ma bisogna ricordare la delicatezza della situazione, ”
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="Pongo and the Bull — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/trickster,motif/bullfighting,concept/satire_of_society,concept/hypocrisy,concept/nationalism_and_patriotism,concept/democracy,concept/deception,form/satire"></span>
@@ -3854,6 +4930,46 @@ Pongo interrupted rapidly, but smiling more immensely than ever with his long sl
 
 He sank all party differences, he took the astonished and rather pompous Belcher warmly by both hands, he captured the less reluctant Pilkington in the same way. The man from Wiltshire he tapped on the shoulder, and he had got rid of the delighted deputation before they quite knew what had happened.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quando ebbe raggiunto quel punto, si udirono mormori tra i membri della delegazione e Tallant iniziò a nervosizzarsi. Certo, se non fosse rimasto altro da fare, avrebbero potuto essere costretti a prendere una decisione così grave. La delegazione si calmò di nuovo. Ma sicuramente era ancora prematuro. Le discussioni ripresero: in quel momento, proprio mentre le negoziazioni con Madrid erano sull’orlo della conclusione, sarebbe stato davvero opportuno intraprendere azioni violente?
+
+Il leader della delegazione ringraziò il Primo Ministro con grande efficacia, mentre il Segretario di Stato lo fece in modo freddo; Pilkington aggiunse molto direttamente che sperava si facesse qualcosa e che avrebbe seguito gli sviluppi degli eventi. Poi il gruppo di uomini uscì di fretta. Il Primo Ministro e il suo Segretario di Stato riuscirono a sentire le loro voci alte e deluse nel corridoio esterno, mentre Belcher cercava di guidarli verso la stanza di Pongo.
+
+“Idioti maledetti!” disse il Segretario di Stato per gli Affari Esteri.
+
+“Oh mio Dio, sì,” sospirò Dolly, che aveva in mente altre cose piuttosto che i tornei di lotta. Lui non aveva la minima idea su quale parte della Spagna scorresse il fiume Ebro.
+
+Nel frattempo, Pennybunt aveva accolto la delegazione a braccia aperte. Ascoltava quegli stessi discorsi identici con un sorriso felice sul suo viso scuro. Sedeva sulla sua sedia, con le gambe ridicolmente corte incrociate (un’impresa non facile), le punte delle dita unite, uno sguardo intelligente e comprensivo negli occhi semichiusi. Annuiva in segno di accordo su tutto ciò che veniva detto; quando Pilkington ebbe finito il suo discorso, si alzò e lo prese per entrambe le mani.
+
+“Mio caro signor Pilkington,” disse con sincerità, “non siamo dello stesso schieramento politico in Parlamento, ma ci sono alcune cose che vanno al di là delle differenze partitiche! Come inglesi, mio caro signor Pilkington, semplicemente come inglesi, ” E a questo punto il leader dell’opposizione fu troppo commosso per continuare.
+
+Un sussurro pieno di sincera simpatia si diffuse tra quel gruppo di idioti ammassati nella piccola stanza. Dopo una pausa per riprendere il controllo del proprio “cuore da uomo”, Pongo si ricompose e continuò:
+
+“Come potete immaginare, non ho mai assistito a una corrida di tori. Ho un certo interesse per le attività agricole; credo,” continuò in tono scherzoso, “che temo di essere quel terribile tipo chiamato ‘squire’, ” (In realtà non lo era; era un avvocato, ma va bene così). “Penso,” rise, “che coloro che sono abbastanza gentili da sostenermi nel mio settore della Camera” (e fece un cenno cordiale a William Hake, un uomo con il viso rotondo come una palla da football che lo stava osservando con occhi spalancati) “mi abbiano già perdonato quel piccolo peccatuccio.”
+
+La delegazione ridacchiò gentilmente. Ecco un uomo molto diverso dal diavolo Dolly e dal suo superbo e aristocratico Segretario di Stato per gli Affari Esteri! Ecco un vero inglese, con un cuore d’oro, anzi, di quercia: l’inglese di Dio!
+
+“Certo,” continuò Pennybunt, “mi trovo in una posizione di, ehm, maggiore libertà e minori responsabilità” – (“Buona frase,” sussurrò Hake al sindaco della sua città, che stava accanto a lui) – “rispetto a quanto potrebbe essere un membro del governo. Ma chi può sapere, signori, ” aggiunse con un sorriso malizioso, “non si sa mai cosa possa portare la fortuna in guerra: una elezione potrebbe arrivare da un momento all’altro! – Ehm, ”
+
+Belcher aveva un'espressione seria, mentre Pilkington manteneva un atteggiamento discreto e neutro; tuttavia, alcuni membri della delegazione annuirono e sorrisero.
+
+“Non sappiamo mai cosa possa portare la sorte in guerra; noi che abbiamo combattuto e versato sangue al fianco di Burpham in molti campi difficili e contesi, siamo abituati ad aspettarci sorprese nella politica.” Sorrise di nuovo. “E, forse arriverà un momento in cui. Se mai quel momento dovesse venire, non c’è bisogno che dica altro, signori: sarò senz’altro al vostro fianco, con tutto il cuore, proprio come lo sono ora.”
+
+“Vogliamo sapere, ” iniziò un giovane piuttosto raffinato, un snob ma di buona famiglia, e quindi pericoloso.
+
+“Il Toro, signori,” intervenne di nuovo Pongo, attirando l’attenzione del giovane e battendo la propria mano sinistra aperta con il pugno destro chiuso, “è una nostra creatura simile! Noi, che lo abbiamo conosciuto nelle campagne inglesi, sentiamo, non dico che più intensamente dei nostri concittadini che vivono in città, ma, diciamo, in modo più profondo e personale su questa questione. Abbiamo,” proseguì Pongo, aggrottando la fronte come se cercasse le parole giuste, “abbiamo, in qualche modo, beh, una conoscenza più diretta della natura di quelle crudeltà intollerabili che avete deciso di porre fine.”
+
+“T’Bull,” intervenne un uomo molto grosso, grasso e barbuto del Wiltshire, con una voce potente, “t’Bull, signor Pennybunt, se posso permettermi di dirlo così, è un animale altrettanto sensibile quanto qualsiasi altro possiate trovare!” Allargò le mani e guardò l’auditorio, che mormorò il proprio assenso.
+
+“Sì!” continuò l’uomo grasso con la barba, prendendo gusto al proprio compito e iniziando un discorso, “e se trattate gli animali con rispetto e gentilezza, loro vi ripagheranno sicuramente con gratitudine! Ho visto molti di loro guardare gli esseri umani con occhi pieni di riconoscenza. Da quando ero ragazzo, c’è stato un grande cambiamento nel modo in cui si trattano gli animali! Potrei raccontarvi tante storie, ”
+
+Pongo intervenne rapidamente, ma sorrideva ancora di più del solito, con quella sua bocca larga e quel naso simile a un tappo di champagne che esprimevano una sincera simpatia.
+
+“Esattamente, esattamente,” disse. “Ne abbiamo una anche a casa,” aggiunse rapidamente, “nella mia piccola tenuta” (stava mentendo spudoratamente, ma era deciso a non farsi fare discorsi). “È davvero il giocattolo preferito dei bambini. La chiamiamo Daisy. Viaggiano sul suo dorso, almeno i bambini lo fanno. Non oso nemmeno pensarci, signori. Voglio dire, a quella faccenda degli uomini spagnoli. Insomma, alla situazione in Spagna, signori, ” continuò a parlare in fretta e furia, come se stesse lanciando ordini disperati negli ultimi momenti di una resistenza senza speranza. “Dobbiamo agitare, signori! Agitare, agitare, agitare! E io sono con voi! Lavoriamo insieme in questa causa, signori. Sono con voi con tutto il cuore!”
+
+Lui mise da parte tutte le differenze presenti nel gruppo; prese calorosamente entrambe le mani di Belcher, che era sorpreso e piuttosto presuntuoso, e fece lo stesso con Pilkington, che non era così riluttante. Quell’uomo del Wiltshire gli diede una pacca sulla spalla, e prima ancora che la delegazione potesse rendersi conto di ciò che era accaduto, lui se l’era già svignata.
 
 
 
@@ -3941,6 +5057,88 @@ Mr. Moss took a chair and put his hands upon his knees; he was full of assurance
 “Well, the fact is,” said Moss, carefully ignoring Pongo and looking and talking right at Dolly, while he moved his hands up and down upon his knees, “the fact is our fellows aren’t comfortable about India. They’re not comfortable,” he repeated as though the word were a sort of carefully chosen talisman.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Come politico, semplicemente come politico, forse Dolly era superiore a Pongo; lui riusciva a mettere in difficoltà gli esperti, e si sapeva che anche i molto ricchi lo temevano, dopotutto aveva dei vantaggi. Ma la politica è un gioco molto complicato, e c'erano aspetti di quel gioco in cui Pongo se la cavava meglio di Dolly. Ognuno ha le sue competenze.
+
+Nel corridoio, mentre si dirigevano verso l’atrio, Belcher disse all’improvviso a Pilkington che non avevano ancora parlato della votazione.
+
+“Arriverà,” disse Pilkington. Aveva un orecchio più attento alle reazioni della folla rispetto al suo protettore Belcher, e la folla, quella delegazione che li seguiva mentre si dirigevano verso l’atrio esterno, era chiaramente molto soddisfatta. L’Opposizione aveva guadagnato almeno undici voti in quell’incontro breve, e grazie a quegli undici voti, moltissimi altri ne avrebbero tratto beneficio.
+
+Nel frattempo, Pennybunt, lasciato da solo nella sua stanza, aveva dimenticato completamente queste persone in soli cinque minuti, come se non fossero mai esistite. Stava aspettando Eddie e lo seguì di nuovo nella stanza di Dolly.
+
+Scoprì che quel statista aveva ormai preso una decisione, più o meno definitiva. Aveva telefonato di nuovo a Mary; non c'era traccia dell’anziano Smith. Mary era preoccupata. Dolly, sebbene ancora senza speranza, era giunta in uno stato di ansia acuta tale da spingere anche un politico a prendere delle contromisure. Aveva l’orologio sul tavolo e davanti a sé un foglio di carta su cui aveva disegnato alcune linee.
+
+“Guarda qui, Pongo,” disse, “ora non c’è più alcuna divisione, e la Camera non si riunirà fino a mercoledì.”
+
+“È proprio così,” disse Pongo in tono colloquiale, con un ricordo dei suoi viaggi coloniali.
+
+“Beh, nel frattempo dobbiamo sistemare le cose con Smith, Fischer e Co.”
+
+“È proprio così,” disse di nuovo Pongo, con allegria.
+
+“Smith, Fischer e Co… è semplicemente ‘vecchio Smith’, nient’altro che questo.”
+
+“È proprio così,” disse Pongo per la terza volta.
+
+“Old Smith deve capire bene la situazione e risolverla entro dopodomani.”
+
+“Perché?” disse Pongo.
+
+“A causa del fine settimana,” disse Dolly con disprezzo.
+
+“Oh, certo,” disse Pongo umilmente.
+
+#Il consiglio si riunisce mercoledì e il prestito è la prima questione all’ordine del giorno, sicuramente.
+
+“Esattamente,” disse Pongo. “Quando chiudi?”
+
+“Nella stessa notte,” disse Dolly con un movimento insolitamente deciso.
+
+“Oh, mio Dio!”, disse Pongo.
+
+“Non posso farci nulla,” disse Dolly con fermezza. “Non dobbiamo dare loro il tempo di scatenare un panico. Non possono creare problemi durante le vacanze di Pasqua, e in realtà non lo faranno; ma se iniziamo una lunga discussione che durerà tre giorni, o forse anche la settimana successiva, chissà cosa potrebbe succedere, ”
+
+“È più facile gestirli se li stanchi,” disse Pongo con esitazione.
+
+“Oh sì, so tutto al riguardo,” disse Dolly con un sospiro, scartando l’idea. “Tutto dipende da ciò che dobbiamo fare! Se questa cosa dovesse scappare con noi, lo farà anche attraverso i media; e questo deve essere fermato.” Dolly batté il pugno sul tavolo con decisione, proprio come avrebbe potuto fare un bambino.
+
+“Molto bene,” sospirò Pongo rassegnato, “votiamo subito per la chiusura, ma dovremo votare contro di essa, lo sai.”
+
+“Sciocchezze!”, disse Dolly scuotendo la testa con impazienza. “La tua dichiarazione riguardo all’urgenza e alla gravità della notizia, nonché al suo interesse per la nazione e via dicendo, verrà esaminata prima della chiusura.”
+
+“Ah, certo!” disse Pongo, di nuovo umile, “Me n’ero dimenticato.”
+
+“Beh, non dimenticarlo,” disse Dolly, di cattivo umore e sotto pressione. “La verità è che non credo che dovremo ricorrere a misure drastiche. Tutti diventeranno silenziosi e seri. Ti alzi verso le dieci e mezza e crea un’atmosfera davvero tesa. La sala sarà piena, e allora potrai fermarli del tutto. Ma devi essere lì ad osservare la situazione. Non vorrai mica che Eddie ti dia qualche istruzione, vero?”
+
+“No,” disse Pongo, dopo averci pensato un po’, “credo di avere abbastanza materiale da utilizzare. Questa mattina stesso c’è stato un tentativo di assassinio,” aggiunse con tono di chi ricorda qualcosa in modo molto preciso.
+
+“Certo,” disse Dolly, “se prima di allora ci saranno davvero dei combattimenti nelle Colline, non ci saranno problemi affatto in Casa.”
+
+“Nessuno!” disse Pongo con decisione, “ma non si può garantire nulla, e quelle vecchie tipologie di telegrammi minacciosi non sortiscono alcun effetto, anche se vengono redatti dall’Ufficio dell’India e contrassegnati con ‘Peshawar’, il pubblico vuole battaglie.”
+
+Poi arrivò Eddie, importunandoli di nuovo con la notizia che il signor Moss voleva incontrare il Primo Ministro.
+
+“Fatelo entrare,” disse Dolly con ferocia, e allora apparve l’impeccabile Moss.
+
+Indossava gli stessi vestiti che Dolly aveva notato e odiato il giorno prima in Downing Street. Dolly avrebbe potuto giurare che li avesse indossati mentre dormiva, se non fossero stati così impeccabilmente stirati. Quell’uomo sembrava essere stato creato proprio con quei vestiti addosso. Poi si rese conto che il signor Moss doveva averglieli tolti, perché la piega sui pantaloni lungo le gambe era molto marcata.
+
+Il signor Moss prese una sedia e posò le mani sulle ginocchia; era pieno di fiducia in se stesso.
+
+“Ho appena incontrato i lottatori di tori nel corridoio,” disse con il suo solito sorriso.
+
+“Beh,” disse Dolly con una risata nervosa, “non so cosa pensiate voi della corrida, ”
+
+“Oh, non ho mai combattuto un toro,” disse il signor Moss, guardando dritto fuori dalla finestra, “una vera e propria crudeltà, secondo me.”
+
+“La discussione sulla Politica Estera non inizierà ancora,” disse Dolly, con il tono di un uomo che cerca di mantenere la calma, ma con una nota selvaggia nella voce. Non credo che tu sia venuto da me per parlare di incontri di lotta contro i tori.
+
+“Oh no,” disse il signor Moss, ancora sorridente. “Non è ancora iniziato, ma alcuni di loro sembrano davvero malati, comunque, non sono venuto per parlare di questo, come dici tu!” Stava guardando fuori dalla finestra, verso le strade brillantemente illuminate della notte londinese, ma i suoi occhi non erano fissi sul traffico, sulle luci o sull’oscurità delle case; erano fissi su un pezzo di cielo vuoto; né i suoi occhi né le sue labbra sorridenti si mossero.
+
+“Beh, signor Moss?” disse Pennybunt.
+
+“Beh, il fatto è,” disse Moss, ignorando deliberatamente Pongo e guardando e parlando direttamente verso Dolly, mentre muoveva le mani su e giù sulle ginocchia, “il fatto è che i nostri compagni non si sentono a loro agio in India. Non si sentono a loro agio,” ripeté come se quella parola fosse una sorta di talismano scelto con cura.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_05" data-title="Pongo and the Bull — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/hypocrisy,concept/power_and_corruption,concept/money_and_avarice,concept/antisemitism,concept/deception,form/satire"></span>
@@ -4017,6 +5215,78 @@ As the two politicians, the tall one and the short one, were going downstairs to
 As he went home he remembered Pongo’s phrase, “Battersea has!” and it troubled him.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Nessuno lo è,” disse Dolly con espressione cupa.
+
+“No,” disse Pongo a titolo di conferma.
+
+“Sì, ma, ”, disse Moss, il suo sorriso immutato e senza mai guardare Pongo, “non sono comodi. E a dire la verità, signor Pennybunt, ci affidiamo a voi!” Mentre pronunciava quelle parole, Moss ruotò sulla sedia, girando il proprio viso luminoso, ancora sorridendo, verso Pongo.
+
+Pongo non distolse lo sguardo, ma abbassò le palpebre ancora di più del solito.
+
+“Davvero,” disse Dolly, “è estremamente insolito, signor Moss!”
+
+“Beh,” disse il signor Moss con calma, “non dico che sarebbe successo vent’anni fa. Anzi,” aggiunse pensieroso, “vent’anni fa non sarebbe mai successo! Forse allora noi tre non avremmo dovuto trovarci nella stessa stanza. O meglio, coloro che allora erano i leader, insomma. Ma ora sta succedendo.” Distolse lentamente lo sguardo dal viso di Pongo e lo fissò sul pezzo di cielo notturno fuori dalla finestra.
+
+“Avrei dovuto immaginarlo, signor Moss,” disse Dolly, alzandosi quasi dalla sedia, “che quando si è preso la briga di venire nella mia stanza, era per parlare con me.”
+
+“Sì, è vero,” disse il signor Moss con assoluta sicurezza. “Ma ho trovato il signor Pennybunt qui, no? E comunque, tutto è collegato tra loro! Devo dire ciò che ho da dire. E l’ho detto. Gliel’ho detto a voi. Non ci sentiamo a nostro agio riguardo a questa faccenda indiana.” Poi girò lentamente il viso di nuovo, fino a puntarlo completamente verso il Primo Ministro, che in quel momento cominciò ad odiarlo nel profondo del cuore.
+
+“Avremmo voluto dirvelo ieri. Ecco perché sono venuto da voi ieri, quando vostra signora mi ha portato qui. Ma non mi avete lasciato dire una parola!” concluse il signor Moss.
+
+Dolly ricordava quel flusso ininterrotto di parole, ma ricordava anche come fosse riuscito a mettere a tacere chi parlava troppo, e sorrideva tra sé.
+
+“Oltre a questo,” continuò il signor Moss, “vogliamo essere trattati da uomo a uomo!” C'era nel suo tono una certa insistenza petulante che Dolly, per esperienza, sapeva essere il preludio a una trattativa. “Ora ve l’ho detto, e vi lo ripeto qui: non siamo affatto soddisfatti di questa faccenda indiana!”
+
+“Certo,” disse Dolly dopo una breve pausa, “i suoi voti sono suoi, signor Moss. Il partito per cui parla mi renderà giustizia dicendo che non ho mai interferito e nemmeno discusso al riguardo.”
+
+“È giusto,” disse il signor Moss con saggezza. “Esatto! E non vi abbiamo nemmeno causato problemi.” Poi aggiunse, annuendo verso Pongo che sedeva in silenzio: “Signor Pennybunt, non ci sentiamo a nostro agio riguardo a questa faccenda indiana.”
+
+“Signor Moss,” disse finalmente Dolly, poiché ora il suo umore era completamente orientato all’azione, “devo dirle chiaramente che è suo dovere, e dovere del suo partito, votare secondo quanto ritiene meglio per il paese. Mercoledì presenteremo la proposta di prestito; e per quanto possiamo stimarla, la stimareremo ancora di più se sapremo che sta agendo seguendo la voce della sua coscienza. E, ” aggiunse Dolly, con una sincerità forzata nella voce, “anche il paese la penserà così, signor Moss; anche il paese la penserà così.” In quel momento, il signor Moss stava di nuovo rivolgendo lo sguardo verso Pongo. Pongo sparò per primo, e non sparò più.
+
+“Non ho alcun diritto di essere qui, signor Moss,” disse lui, “Sono venuto solo per parlare con il Primo Ministro di questa questione dei tornei di lotta contro i tori, che spero sia del tutto al di fuori delle questioni partitiche.” Il sorriso immutabile del signor Moss sembrò diventare leggermente più ampio, ma forse era solo un’illusione creata dalla luce della lampada. “Dopo avervi ascoltato e dopo essere stato qui, posso solo dire che credo voi sappiate cosa pensa l’Opposizione.”
+
+“Beh, non ho alcun diritto di sapere nulla se non ciò che pensiamo noi,” disse il signor Moss. Lasciò che il suo sorriso si ritirasse lentamente verso l’interno, fino a quando la sua bocca tornò alla normalità, proprio come le labbra di un viso di gomma da masticare riprendono la loro posizione originale non appena la mano smette di premervi. Poi si alzò per andarsene.
+
+“Sono sicuro di essere molto dispiaciuto per aver interrotto”, disse mentre si dirigeva verso la porta.
+
+“Assolutamente no,” disse Dolly, alzandosi improvvisamente con grande cortesia, “assolutamente no.” Anzi, uscì persino insieme al signor Moss nel corridoio per sistemare le cose. Fu un po’ deluso dal mancare di reciprocità da parte del signor Moss durante quelle poche parole scambiate nel corridoio. Tornò indietro, chiuse la porta e si sedette di nuovo.
+
+“Beh, Pongo,” disse lui quasi con affetto, tanto era grande il contrasto tra Pongo e Moss.
+
+“Beh,” disse Pongo, “immagino che significhi che voteranno.”
+
+Dolly scosse decisamente la testa. Era un esperto.
+
+“No,” disse, “vogliono che io organizzi tutto.” Poi il suo viso cambiò espressione; mormorò tra i denti: “È stata Peggy a spingerlo a farlo, e quella vecchia di Battersea l’ha aiutata!”
+
+“Ma non è possibile organizzarlo così”, disse Pongo, con un certo allarme. “Devi avere i soldi a disposizione immediatamente!”
+
+“Certamente,” disse Dolly con un tono amaro, ricordando il Duca di Battersea e le sue condizioni intollerabili. “Se lo esprime così chiaramente, otterrà una risposta diretta.”
+
+“Allora, cosa impedirà loro di votare?” disse Pongo. “Non che mi dispiaccia, pochissimi dei nostri compagni li seguiranno, comunque.”
+
+“Quello che impedirà loro di votare,” disse Dolly con calma, “è il fatto che non hanno i soldi necessari per una mozione di scioglimento.” Mentre lo diceva, sorrise a Pongo e poi si alzò in piedi; anche Pongo si alzò.
+
+“Battersea ce l’ha!” disse.
+
+Le grida “Chi se ne va a casa?” risuonavano nell’edificio, provenienti da Palace Yard. La Camera aveva terminato i lavori e era iniziata la pausa.
+
+Mentre i due politici, quello alto e quello basso, scendevano insieme le scale per uscire, un pensiero colpì Dolly e improvvisamente disse:
+
+“Pongo!”
+
+“Sì?” disse Pongo.
+
+“Pensi che utilizzi uno strumento apposito per formare quella piega nei suoi pantaloni?”
+
+“Chi? Oh, Moss… No”, disse decisamente, “si fa schiacciandoli sotto il materasso”.
+
+“Non ci avevo mai pensato!” disse Dolly riflettendoci, e poi si separarono. Stava dicendo la verità: quel metodo per stirare i pantaloni non faceva parte del suo mondo.
+
+Mentre tornava a casa, si ricordò della frase di Pongo: “Battersea ha!”, e questo lo turbò.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_01" data-title="Pongo and the Bull — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/masks_disguise,motif/money_and_gold,motif/journey,concept/deception,concept/feminism,concept/greed,form/satire,setting/france"></span>
@@ -4056,6 +5326,42 @@ The lady shouting instructions to the coachman in a rich baritone, they had got 
 
 The hot southern sun, though the afternoon was well worn, was beating strongly upon the white road and the white walls of the place. No official responsible for the octroi seemed to be present, a group of men lolled on a bench in the shadow of the house; the horse stood, glad of the moment’s rest, his head sunk and his whole attitude expressing an angular repose. The coachman got off his box lazily enough, saying he would fetch the man — he dared not go past the bureau without examination for he had a local reputation to lose. Madame, leaning back in her seat, watched without interest the group in the shadow, when — when — her eye lit upon one member of it. In that shadow of the octroi, among the rest, lolled one or two companion officials, and with them a policeman of gorgeous plumage who recalled to the disgusted eyes of G. Quinlan Smith the affected uniforms of the Latin republics that disgrace his native continent. He was a superb big man with a monstrous great sword at his side, booted and spurred, and moustached like a hero. Nothing in the little scene interested him, but the lady was eyeing him curiously.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO X
+
+“La donna che guida gli eventi… Che dire di questo?”
+
+“E allora? In quel momento, la donna divenne il capo della situazione!”, “Oh!” — VIRGILIO.
+
+Il Riviera Express si ferma, per dovere, alle principali stazioni di quella incantevole regione costiera; raggiunge Mentone verso la fine del pomeriggio.
+
+G. Quinlan Smith stava finendo il suo pranzo tardivo nel vagone ristorante e, secondo la sua vecchia abitudine, si stava pulendo i denti quando il treno iniziò lentamente ad allontanarsi da Villefranche; in quel momento, un volto che non gli era del tutto sconosciuto attirò la sua attenzione.
+
+Era il volto di una donna robusta, di corporatura solida, con i capelli corti e un aspetto mascolino, tipico di quelle donne che possiedono un’intelligenza eccezionale. Anche un osservatore attento avrebbe faticato a stabilire se fosse di nazionalità britannica o statunitense, o addirittura (sebbene ciò sembrasse meno probabile) una delle pioniere del movimento femminista nella Francia moderna che hanno recentemente attirato l’ammirazione e l’attenzione di tutto il mondo. Davanti a lei c’era un intero bicchiere di Borgogna appena svuotato – un segno di originalità in sé sorprendente – e stava per tirare fuori una scatola da sigari quando, come se avesse cambiato idea, la ripose in una grande tasca situata sul lato del suo cappotto, un’altra soluzione insolita.
+
+G. Quinlan Smith era ormai assolutamente certo. Guardava fissamente con i suoi occhi penetranti quella bella sconosciuta. La bella sconosciuta, con un movimento quasi impercettibile di riconoscimento, attraversò il carrello dei cibi a grandi passi e si sedette di fronte a lui, appoggiando i gomiti sul tavolo, incorniciando il proprio viso con le mani e aspettando che fosse lui a parlare prima di pronunciarsi.
+
+G. Quinlan Smith chiese, in inglese e a bassa voce, che qualsiasi cosa il suo compagno avesse da dire venisse trascritta; non voleva che venisse gridata ad alta voce. Nel frattempo tirò fuori il suo microfono, forse grato che la sua debolezza potesse trovare piena libertà in quel luogo lontano. Ma la signora non seguì le sue istruzioni: né parlò nel microfono, né scrisse nulla. Lasciando libera la sua grande mano destra, la infilò in un’altra tasca e ne tirò fuori un piccolo pacchetto. Gli occhi di George Quinlan, che erano molto luminosi, iniziarono a brillare come gioielli. Il pacchetto sembrava essere avvolto in un numero infinito di strati; la signora li svolse lentamente, e finalmente, apparve una deliziosa cucchiaino da tè d’argento inglese! Istintivamente, l’uomo allungò la mano verso di esso; ma la signora lo tenne fuori dalla sua portata.
+
+“Non riesco a vederlo da qui,” si lamentò George Quinlan.
+
+L’unica risposta di quella donna decisa fu di ripiegare tutto e rimetterlo in tasca, e poi di scrivere su un foglietto una somma di denaro. Lo scrisse con mano ferma, ma con qualche attenzione, come se si chiedesse se non dovesse aggiungere un altro “zero” alla fine delle cifre; maneggiava la penna tra le sue dita grandi, trasformando un tre in cinque, e poi lo passò al grande collezionista.
+
+G. Quinlan scosse la testa. Il treno si fermò; erano arrivati a Mentone.
+
+La signora, che evidentemente conosceva bene il proprio compito e sembrava avere con G. Quinlan Smith rapporti più di natura commerciale che sociale, si alzò energicamente dal suo posto, prese una piccola borsa a mano che probabilmente era tutto il suo bagaglio e si diresse decisa verso la porta, mentre il treno si fermava con un stridore dei freni sul binario.
+
+Era incredibile vedere quanto abilmente quel milionario anziano si muovesse dietro di lei! I camerieri faticavano a portare il suo leggero bagaglio e lo seguivano di corsa; lo trovarono mentre si faceva strada a spallate tra la folla, superando il controllore dei biglietti; era così affrettato che nemmeno si preoccupò di contare la mancia, e loro ne furono più che soddisfatti. Aveva un solo obiettivo: non perdere di vista quella donna robusta che si stava facendo strada tra le prime file dei passeggeri e che ormai si trovava nella sala d’attesa all’interno dell’aeroporto.
+
+La seguì di corsa. Come se non gli avesse nemmeno dato una pensata, senza nemmeno curarsi di guardare indietro, quella brava donna salì immediatamente su un carro a noleggio fermo fuori dalla stazione: G. Quinlan, ansioso com'era, riuscì a infilarsi dentro senza rompersi niente, proprio nel momento in cui il cocchiere partiva.
+
+La signora non mostrò alcuna sorpresa nel ritrovare il suo compagno al suo fianco. Si sistemò comodamente, tirò fuori di nuovo quel pacchetto così allettante, lo aprì e, tenendo la cucchiaiata quasi completamente nascosta nella sua enorme mano, lentamente allontanò il pollice dalla parte finale del manico, rivelando così l’iscrizione che spiegava lo scopo per cui Disraeli aveva utilizzato quel pezzo di porcellana in quell’occasione indimenticabile in cui aveva bevuto tè a Les Charmettes.
+
+La signora, con il suo ricco timbro baritonale, dava istruzioni al cocchiere; avevano lasciato la locanda, erano ormai lontani sulla strada di montagna e potevano parlare liberamente. G. Quinlan Smith aveva preso in mano il suo cannocchiale acustico e stava negoziando con fervore, scuotendo ripetutamente la testa; questo faceva sì che l’espressione del suo compagno diventasse sempre più decisa. Quando entrambi alzarono lo sguardo, videro che il carro si era fermato. Il cocchiere aveva raggiunto il posto di controllo di una piccola città.
+
+Il caldo sole del sud, nonostante fosse già tardo pomeriggio, batteva intensamente sulla strada bianca e sulle pareti bianche di quel luogo. Non sembrava esserci nessun funzionario incaricato dei controlli doganali; un gruppo di uomini se ne stava sdraiato su una panchina all’ombra della casa; il cavallo, felice di quella pausa, teneva la testa bassa e tutto il suo atteggiamento esprimeva una tranquillità apparente. Il cocchiere scese dalla sua postazione con aria pigra, dicendo che avrebbe chiamato il funzionario necessario. Non osava passare senza essere controllato, perché rischiava di perdere la propria reputazione nella zona. La signora, appoggiata allo schienale della sua sedia, osservava con indifferenza quel gruppo all’ombra. Quando, improvvisamente, i suoi occhi si posarono su uno dei membri del gruppo. Tra quegli uomini sdraiati all’ombra c’erano anche un paio di funzionari doganali, insieme a un poliziotto dall’uniforme vistosa che, agli occhi disgustati di G. Quinlan Smith, ricordava le uniformi affettate delle repubbliche latine che disonoravano il suo continente natale. Era un uomo alto e imponente, con una spada enorme al fianco; indossava stivali con speroni e aveva i baffi da eroe. Nella piccola scena che si svolgeva davanti ai suoi occhi, nulla lo interessava, tranne quella signora, che lo osservava con curiosità.
 
 
 
@@ -4097,6 +5403,42 @@ They came to the slatternly back door of a slatternly small house on the outskir
 G. Quinlan Smith found himself in a long low room, at one end of which a fowl was roasting on a great spit over an open wood fire; half a dozen very disreputable men, handsome, brown, curly-haired, and the reverse of timid, were gambling with an exceedingly greasy pack of small cards at a rickety deal table. A grimy oil-lamp swung from the low ceiling; and as his companion nodded to Smith and motioned him to sit down upon the rough bench, she gasped aloud in patois, “Todo la por ung cuiller!” which is, being interpreted, “All that for a spoon!” She smiled a rich smile, asked the oldest man for wine, bread and sausage; they were brought, and she began to make a hearty meal.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Poi, con straordinaria rapidità, accadde uno di quegli incidenti che colpiscono con violenza coloro che non conoscono appieno le loro cause. Madame si alzò improvvisamente dal suo posto, si chinò sul sedile vuoto del conducente, afferrò le redini e il frustino, e diede all’animale un colpo tale da farlo partire al galoppo lungo la strada di quel piccolo paese!
+
+Con colpi ripetuti, spinse il cavallo al massimo della sua velocità, senza curarsi dei bambini, degli animali randagi e del terreno irregolare. Correva come una furia, gridando oscenità all’animale e spronandolo a sforzi sovrumani. Di tanto in tanto si voltava indietro per vedere i gruppi di persone e le nuvole di polvere che si allontanavano sempre di più. Continuò a frustare il cavallo anche quando si fu allontanata abbastanza dalle case, in cima alla montagna; mantenne quella velocità folle per chilometri, fino a quando due inciampi e un improvviso arresto le fecero capire che aveva raggiunto il limite delle capacità di quel povero animale. Il cavallo tremava, coperto di sudore; avrebbe potuto cadere da un momento all’altro. Non le restò altra scelta se non cambiare piano.
+
+Durante quei dieci minuti furiosi e pazzeschi, George Quinlan Smith si sentiva come un uomo coinvolto in un incidente ferroviario; stringeva nervosamente il bordo del vagone, che ondeggiava come una nave in tempesta; emetteva continui suoni di terrore ogni volta che il veicolo svoltava, e in un momento particolarmente pericoloso, quando la morte sembrò minacciarlo, ricordò improvvisamente una delle preghiere che da giovane gli erano state insegnate dai Quaker nella piccola scuola domenicale di Yuntville, nel Bear County, in Pennsylvania, la sua città natale. Il guasto al loro cavallo fu un sollievo per il milionario, ma per la sua compagna fu esattamente il contrario. Lei tirò fuori, per l’occasione, una serie di imprecazioni locali, le mormorò velocemente, saltò giù dal veicolo e rimase in piedi con il dito indice sulla fronte, i piedi ben piantati a terra, assumendo un atteggiamento deciso, mentre l’uomo anziano, scendendo più lentamente, restava impotente ad aspettare la sua decisione.
+
+A quella decisione giunse in pochi istanti. Si voltò per chiedergli aiuto, ma lui non riusciva a sentire nulla. In quel momento di sconforto scoprì che il suo auricolare era caduto all’inizio della fuga; e non lo consolò affatto quando il suo compagno gli gridò in modo estremamente irrispettoso che quello poteva essere un indizio utile.
+
+Si erano fermati in un punto della strada dove una piantagione di pini rocciosi digradava ripidamente verso la valle sottostante; da lì un sentiero sterrato si diramava dalla strada principale, scendendo lungo il ripido pendio di pietra a sinistra, tra gli alberi. Il piano della signora fu presto deciso: con una rapidità sorprendente per una donna del suo sesso, sciogliò i finimenti dell’animale tremante che si trovava accanto alla strada, afferrò le stanghe, fece retrocedere il veicolo sul sentiero secondario e, con un forte spintone, lo fece rovinare giù per la discesa ripida. Il carro rotolò sobbalzando lungo il pendio scosceso, superò un bordo e scomparve.
+
+C'era ancora il cavallo da considerare. Madame lo guardò con solennità, proprio come un grande generale potrebbe osservare la forma morente di un alleato in una battaglia ancora indecisa. Avrebbe volentieri tagliato la gola al cavallo, ma non aveva un coltello; inoltre, quell’operazione avrebbe potuto rivelarsi lunga e rischiosa. Pensò quindi a qualcosa di meglio: condusse il cavallo nel fitto del bosco, guidandolo persino lungo le parti più ripide, e chiamò G. Quinlan ad seguirla.
+
+Quel povero vecchio non aveva altra scelta. Così fece: la inseguì, superando il punto in cui la carrozza era precipitata giù dal ripido pendio, oltre il luogo in cui giaceva semi-nascosta tra gli alti cespugli. Fino a quando, a due o trecento piedi sotto la strada, i tre – il cavallo, la signora e il milionario – raggiunsero il ruscello che, già in questa stagione iniziale, scorreva ancora nel letto roccioso della valle.
+
+Un sentiero, per così dire, seguiva il corso dell’acqua. G. Quinlan camminava con inquietudine. La signora (che sicuramente, a un certo punto della sua vita, aveva prestato servizio in una unità montata, ) trovò un anello nel filo di corda che seguiva il percorso dell’acqua, lo agganciò al sellino tramite lo staffile, fece mettere il piede sinistro del vecchio signore in quell’anello e lo aiutò a salire sul dorso dell’animale.
+
+Tutto era stato ben organizzato: l’uomo cavalcava, il cavallo portava il carico, la donna camminava. In quella meravigliosa donna c’era molto di una vera esperta; e G. Quinlan Smith, nonostante il crescente disgusto che provava, iniziò a nutrire una certa fiducia nelle sue capacità organizzative. Non cercò nemmeno di interferire.
+
+Avevano percorso forse un miglio in questo modo, quando improvvisamente sentirono sopra di loro il rumore degli zoccoli dei cavalli e videro, all’orizzonte, la polizia a cavallo che inseguiva quella misteriosa carrozza.
+
+La nobile signora rise! Prevedeva che quei terribili servitori dell’autorità avrebbero continuato a percorrere quella strada, ben oltre il luogo in cui la carrozza era stata fermata e nascosta. Di certo avrebbero perso traccia del profumo. Dopotutto, non erano Indiani Rossi; anzi, era lei ad essere come un’Apache. Non c’erano alcun segno, se non l’interruzione delle deboli orme lasciate dalle ruote sulla strada dura, che potesse indicare dove fosse terminata la marcia. Prevedeva che avrebbero continuato a cercare lungo la Sospel Road. Conosceva ogni centimetro di quella strada. Sapeva che quei individui conoscevano bene quali case e quali persone fossero più informate sui “collezionisti di tesori” della zona. Riusciva a immaginarli mentre interrogavano, perquisivano tutte le abitazioni lungo la strada fino a Sospel. E ne era molto soddisfatta mentre proseguiva lentamente il suo cammino insieme al suo compagno giù per la valle.
+
+Era ancora pieno giorno quando si fermò sotto le case della piccola cittadina dove era iniziata quell’avventura; quelle case sorgevano sopra di lei sulla collina, una o due sparse lungo il fianco della valle, ma nessuna arrivava fino al ruscello stesso. Corse il rischio di passare davanti a quelle finestre. Chi avrebbe mai immaginato che i passeggeri di quella carrozza stessero fuggendo in quel modo? Prima che calasse la notte, era già tornata nei dintorni di Mentone, vicino alla ferrovia, e quindi al sicuro. Un altro problema era risolto: il cavallo avrebbe saputo da solo come raggiungere lo stallo. Ovviamente quella signora aveva un lato sentimentale. Quando aiutò il vecchio Smith a rialzarsi, dopo essere arrivata alle periferie della città, tirò fuori un pezzo di pane dal proprio taschino, glielo offrì al cavallo stanco (che lo accettò con avidità), lo accarezzò dolcemente e lo vide allontanarsi lungo un sentiero familiare, diretto verso casa sua.
+
+Era ormai sera, e il loro avanzare diventava più sicuro; inoltre, la polizia non avrebbe mai avuto l’idea di telefonare a Mentone: i loro pensieri erano rivolti alla strada di Sospel. I due fuggitivi non venivano cercati in quella città e nessuna descrizione di loro era ancora stata diffusa all’esterno. Entro mezzogiorno del giorno seguente, il carro avrebbe potuto essere scoperto, e le cose sarebbero cambiate.
+
+Nel frattempo, potevano riposare.
+
+Lo chiamò con un gesto perché la seguisse; lui lo fece umilmente, chiedendosi come sarebbe finita questa sgradevole serie di avventure. Era terribilmente stanco e, per la prima volta in vita sua, iniziò a dubitare che la sua salute potesse reggere a tutto questo stress.
+
+Arrivarono alla porta posteriore malandata di una piccola casa trasandata, situata ai margini della città. La donna bussò con le nocche, e loro due furono fatti entrare.
+
+G. Quinlan Smith si trovò in una stanza lunga e bassa; all’estremità di essa, un pollo stava arrostendo su uno spiedino sopra un fuoco aperto. Una mezza dozzina di uomini molto poco rispettabili, belli, con i capelli castani e ricci, e assolutamente non timidi, stavano giocando a dadi con un mazzo di carte molto unte, attorno a un tavolo traballante. Una lampada ad olio sporca pendeva dal soffitto basso; mentre la sua compagna annuiva a Smith e gli faceva segno di sedersi sul banco ruvido, esclamò ad alta voce in patois: “Todo la por ung cuiller!”, il che significa, tradotto, “Tutto questo per una cucchiaiata!” Sorrise ampiamente, chiese del vino, del pane e della salsiccia all’uomo più anziano; le cose le furono portate e lei iniziò a mangiare con appetito.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="Pongo and the Bull — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/wine_and_drink,motif/food_and_feasting,motif/sleep,concept/feminism,concept/deception,form/satire,setting/france"></span>
@@ -4133,6 +5475,38 @@ Her drowsy but rapidly wakening eye caught G. Quinlan Smith. She shook her head 
 George Quinlan Smith, stupid after such a night, watched unintelligently though he understood how necessary it was that a lady should not go out unshaven in a town where the police abound, and where the wealthy, being cosmopolitan, are eminently suspicious. He further watched without interest the manoeuvres of his companion as she began to remove the stubble from her right cheek and upper lip, not without verbal criticism of the intense pain the operation caused her.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XI
+
+“MA Nessun oggetto, per quanto bello o raro, ci sarà di alcuna utilità nella sua ricerca, a meno che non ci conduca infine alla Lode e alla Gioia.” – RUSKIN.
+
+“Non iniziare alcuna impresa senza aver ben considerato la sua conclusione.” – Ippocrate.
+
+George Quinlan Smith era troppo sordo, troppo stanco e troppo allarmato per notare con chiarezza ciò che gli accadeva intorno. Il suo compagno gli mise davanti un po’ di salsiccia al aglio e un pezzo di pane, e versò il vino rustico, ma nulla di tutto ciò faceva parte delle sue abitudini alimentari. Non era sicuro per un uomo di ottantatré anni giocare scherzi con il cibo. Ad esempio, i fegatini erano severamente vietati a George Quinlan dai suoi diciotto medici consiglieri, e gli veniva detto che l’asparago contenesse un veleno subdolo che lo avrebbe ucciso. Ora George Quinlan Smith non aveva alcun desiderio di morire. Annusò stancamente la salsiccia, si rese conto che era qualcosa di completamente estraneo alle sue abitudini alimentari e, come un cane davanti a una cipolla o un gatto davanti a un’oliva, la spinse via. Al vino rabbrividì; mordicchiò il pane.
+
+Nel frattempo, la signora, mangiando con gusto e bevendo ancora di più, era diventata un’altra persona.
+
+Lo stesso vigore che aveva ispirato il suo genio strategico si manifestava ora attraverso canzoni roche e informali, che ricordavano l’ambiente delle caserme e dei porti. Molte di queste canzoni venivano cantate in coro dai suoi compagni, e solo molto dopo mezzanotte riuscì finalmente a rilassarsi completamente, dopo le fatiche della giornata. Per raggiungere questo risultato aveva consumato circa quattro grandi bottiglie di vino, mezzo pane lungo e forse un chilo e mezzo di salsiccia. Ma alla fine si era davvero rilassata, e tutto il suo essere sembrava rigenerato. Dopo aver allungato braccia e gambe in modo piuttosto goffo, rivolgendogli un sorriso gentile ma un po’ rozzo, esprimendo preoccupazione per la sua salute (poiché se G. Quinlan temeva la propria morte, lei ne temeva una ancora maggiore, e per motivi molto concreti), gli diede il consiglio di fare esattamente ciò che stava facendo lei stessa. Poi, esausta, si lasciò cadere sulla panca ruvida; due dei suoi compagni le gettarono addosso dei sacchi, e presto iniziò a russare. Un rumore che, se G. Quinlan Smith fosse stato in grado di udirlo, gli sarebbe risultato insopportabile.
+
+Lui, povero vecchio, sedeva ancora lì e tremava. Provò di nuovo a trovare un po’ di conforto nel pane, ma senza successo. Bevve il vino, ma anche questo lo rifiutò. Poi, quando il sonno iniziò ad avvolgerlo, rimase seduto al suo posto, con le braccia magre appoggiate sul tavolo e il mento che di tanto in tanto si abbassava sul petto. Gli altri non gli prestavano la minima attenzione; uno dopo l’altro si addormentarono sui loro banchi, fino a quando rimasero solo due persone, impegnate in un eterno gioco a carte.
+
+Quello che seguì nella mente del milionario fu una sorta di incubo. C'erano momenti di sonnolenza in cui dimenticava di essere vivo; da questi risvegli si trovava improvvisamente davanti alla lampada fioca e sporca appesa sopra di lui, a respirare gli orribili odori di quel posto e dei resti di cibo unto. Poi riprendeva a sonnecchiare, sognando di essere su un treno del Southern Pacific che, per qualche motivo, si era fermato troppo a lungo in una piccola stazione sporca tra le colline. Di nuovo, tornava a essere sufficientemente cosciente da rendersi conto di trovarsi nella sala d’attesa di quel luogo, quando, allora, un impreco pronunciato da uno dei due giocatori lo riportava alla realtà, facendolo rabbrividire.
+
+Dopo tutto questo, dovevano essere seguite quattro o cinque ore di vero sonno, perché non ricordava più nulla fino a quando il freddo non lo svegliò.
+
+Il povero vecchio sollevò la testa dalle braccia e guardò intorno nella stanza, con un aspetto stanco e pallido.
+
+I due giocatori se n'erano andati. Quel luogo lungo, basso e sporco era illuminato da una sorta di lucernario attraverso il quale filtrava l'alba. L’uomo anziano con la lunga barba, che evidentemente era il capo di quel covo, dormiva dritto in un angolo; G. Quinlan Smith, la cui conoscenza dell’arte si era ampliata dopo aver accumulato milioni, sebbene non fosse particolarmente critico, notò nei suoi tratti quell’aspetto permanente e straordinario che rappresentava il modello per i grandi artisti italiani. Gli venne in mente l’immagine di un San Pietro simile a quello: un San Pietro addormentato nel Getsemani, appoggiato a una roccia; un San Pietro dipinto in Toscana. Se ricordava bene, apparteneva a Kuhnen, l’uomo che aveva cercato di “congelare” tutte quelle opere d’arte nell’anno ’86. Ricordava anche che Kuhnen era morto.
+
+Gli altri giacevano sparsi dappertutto: alcuni per terra, altri sui banchi. Uno, proprio come lui, aveva dormito con la testa appoggiata sulle braccia sopra il tavolo ed era ancora addormentato. Quella donna geniale che si occupava delle sue faccende russava ancora in modo incessante sul suo banco, immobile sotto quel mucchio di sacchi. Alla fine capì che il sole era sorto: una linea luminosa si allineava ormai con il bordo della finestra sul muro opposto.
+
+La grande femminista si agitò nel sonno. Scosse via i sacchi dalle sue gonne, girò su se stessa sulla sedia, posò i piedi a terra, si premette le enormi pugni sugli occhi, si stiracchiò di nuovo come aveva fatto prima di addormentarsi, e poi si alzò in piedi, con tutto il suo peso, dicendo “In piedi!” con un tono allegramente nasale e profondamente sonoro.
+
+Il suo sguardo assonnato ma che si stava rapidamente risvegliando incrociò quello di G. Quinlan Smith. Scosse la testa con rassegnazione, come se volesse dire che non c’era più nulla da fare, e batté sulla spalla dell’anziano che presiedeva quel rifugio. Lui si svegliò di scatto e le chiese cosa volesse. Lei chiese sapone e rasoiere. Ci furono alcune discussioni e lamentele, ma la donna fece valere con forza la sua richiesta. Radersi era più importante per lei che per qualsiasi altro dei compagni. Solo il suo abito ne faceva necessario l’uso. Il barbuto St. Peter tirò fuori da un armadio un piatto sporco, una spazzola molto vecchia e una rasoiere arrugginita, con la lama lucida solo sul filo tagliente. La donna versò nel piatto un po’ d’acqua tiepida presa da una pentola accanto alle braci morenti del fuoco, e iniziò a prepararsi il sapone per radersi.
+
+George Quinlan Smith, stordito dopo una simile notte, osservava senza capire davvero cosa stesse succedendo, anche se comprendeva perfettamente quanto fosse necessario che una donna non uscisse con la barba lunga in una città piena di poliziotti, e dove i ricchi, essendo cosmopoliti, erano estremamente sospettosi. Continuò a guardare senza interesse le mosse della sua compagna mentre iniziava a rimuovere la barba dal suo viso; non mancavano nemmeno commenti sarcastici riguardo al dolore intenso che quell’operazione le causava.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_02" data-title="Pongo and the Bull — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/imprisonment,concept/crime_and_punishment,concept/justice,concept/deception,form/satire,setting/france"></span>
@@ -4162,6 +5536,32 @@ This magistrate was waiting in the police bureau of the great public building. H
 
 When it came to the turn of that strong woman who had met defeat at last she gave the name unblushingly: Jean Jacques Bertot — and her baritone was a pleasure to hear, as was her confidence a pleasure to see in such a shivering crowd. The Brigadier murmured, “Offers evidence as to the principal prisoner”; and the tall, yellowfaced, salaried, be-nobled-racehorsed-fathered Ligurian made a little flourish at the end of the entry which signified that “the prisoner disguised as a woman offers evidence against the chief prisoner.” He looked as he did so a trifle less saturnine. The half-shaven lady noted that expression with pleasure.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poi, all’improvviso, si udì un colpo molto forte e autoritario; quel senso di autorità, così deplorevolmente sviluppato nella vostra lingua latina, fu immediatamente percepito sulla porta attraverso la quale entrambi erano entrati la sera precedente.
+
+Il Capo, il Santo Pietro, il leader della banda, si precipitò verso quella porta con l’agilità di un ragazzo. Si chinò per un momento trattenendo il respiro, poi chiese dolcemente, imitando in modo ammirevole una voce appena svegliata dal sonno, se non fosse la Madre Miseria, e, nel caso fosse lei, se si aspettasse che lui si alzasse a quell’ora. Alla domanda, la forza dall’esterno rispose con un assalto che per poco non fece crollare quella porta traballante. Il Capo all’interno replicò con un discorso molto lungo e appassionato; trascinò un banco davanti alla porta, tirò su il tavolo per rinforzarla, e chiese di nuovo chi fosse là fuori.
+
+La signora aveva smesso di radersi. In questo caso, anche la decisione più rapida non sarebbe servita a nulla: il camino era troppo stretto; nascondersi sotto il tavolo sarebbe stato ridicolo. Prese quindi l’unica soluzione possibile: afferrò per le spalle il suo comandante barbuto (se davvero lo era) e lo trascinò da parte, poi rimise a posto il tavolo e spostò indietro la panca. Proprio nel momento in cui il secondo attacco veniva sferrato contro la porta, aprì i battenti e fece entrare due dei sei gendarmi, vestiti con quella bella uniforme di cui G. Quinlan aveva parlato all’inizio della sua azione.
+
+L’offesa alla loro dignità li infastidì profondamente. Rimasero lì per un momento a imprecare e a spazzolare via la polvere dai loro vestiti, mentre tutti gli occupanti della capanna, ormai svegli, si raggrupparono in silenzio nell’angolo più lontano vicino al caminetto, con espressioni torve.
+
+Sembra che solo quella signora avesse esperienza. Con una mano guidò G. Quinlan avanti, lo presentò al brigadiere e, con il suo sonoro baritono, chiese se fosse necessaria anche la sua collaborazione, spiegando che qualsiasi informazione potesse fornire sarebbe stata prontamente offerta nell’interesse della giustizia.
+
+Questo gesto deciso e mascolino da parte sua, che nel gergo della sua terra soleggiata e felice viene definito “bruciare la coda”, o in climi meno favorevoli “mostrare le carte”, ma secondo la legge del Regno Unito rappresenta una prova a carico della Corona, non ebbe alcun effetto sul brigadiere. Quest’ultimo, dopo aver catturato abilmente i due prigionieri e fatto mettere loro le manette, li affidò alle cure di un compagno biondo particolarmente stupido, e poi avvertì gli altri occupanti della capanna che, qualora possedessero armi, dovevano depositarle sul tavolo davanti a lui, altrimenti avrebbero affrontato le conseguenze previste dalle normative riguardanti il porto di armi da fuoco.
+
+A questa citazione, uno dei più giovani tra i cittadini presenti rispose sparando dalla tasca del suo cappotto, una posizione da cui è quasi impossibile prendere la mira con precisione; il proiettile andò a rompere un vetro della finestra. Naturalmente seguì un’accesa colluttazione: la polizia, molto più forte, meglio addestrata e più coraggiosa, si occupò di quei pochi ribelli, picchiandoli, legandoli, ammanettandoli e gettandoli a terra. Una volta domati, furono fatti uscire in fila, contati e immobilizzati con i brevi pezzi di corda regolamentare che il brigadiere aveva pensato bene di portare con sé lasciando il caserma (sapendo che c’erano solo due paia di manette disponibili e non prevedendo alcuna resistenza da parte loro). Una volta fatto ciò, furono tutti condotti via, attraverso l’aggradabile profumo della mattina. Era primavera su quelle colline rocciose; si poteva quasi annusare il profumo dei fiori sulle pendici dietro la città.
+
+Si è spesso osservato che gli uomini che raggiungono posizioni elevate nell’ambito legale o nel mondo politico, nell’industria, nella finanza, oppure come ladri, assassini, avvelenatori, o addirittura semplici parassiti sociali, sono generalmente persone di corporatura più robusta. Vivono a lungo, e si raccontano storie sul loro impegno e sulla loro capacità anche negli anni avanzati, prima che vengano a incontrare quel Dio che hanno avuto il compito di negare o abusare.
+
+Era con G. Quinlan Smith. Lui l’ha sopportato, anche se solo a malapena. attribuiva il modo particolare in cui veniva trattato al proprio evidente rango sociale e all’eleganza dei propri abiti, ormai logori e sporchi ma ancora costosi; gli venivano infatti forniti due accompagnatori in uniforme, uno su ciascun lato, e agli altri non era permesso conversare con lui. In questo errore, G. Quinlan si sbagliava, ma chi potrebbe negare ai vecchi questi piccoli conforti per il loro orgoglio? Hanno così pochi anni a disposizione per continuare ad alimentare le illusioni di quel sogno confortevole!
+
+La processione prese la strada dritta verso un ufficio dall’architettura ammirevole, seppur un po’ esagerata, fiancheggiato da statue imponenti e decorato con sculture raffinate. G. Quinlan Smith, vedendo tutta questa opulenza, sperò contro ogni probabilità di trovarsi davanti alla casa di qualche ricco uomo il cui status gli avrebbe permesso di essere immediatamente riconosciuto. Forse quell’uomo era davvero ricco, ma il rango sociale non aveva alcun peso per lui: era infatti un magistrato, e quella non era nemmeno la sua casa. Era arrivato a quell’ora mattutina in uno stato d’animo tutt’altro che sereno, per compilare alcuni documenti richiesti dalla polizia.
+
+Questo magistrato stava aspettando nell’ufficio di polizia dell’imponente edificio pubblico. Era incredibilmente alto, con il viso giallastro; nobile ligure per nascita, parlava con un accento così marcato da sembrare tagliente come un coltello. Suo padre allevava cavalli da corsa e lui stesso riceveva uno stipendio governativo di 80 sterline all’anno. Guardava i prigionieri con occhi minacciosi; aveva già compilato tutti i dettagli nei documenti, tranne i nomi, che inseriva il più rapidamente possibile non appena gli venivano forniti.
+
+Quando arrivò il turno di quella donna forte che finalmente aveva subito una sconfitta, pronunciò il nome senza alcun imbarazzo: Jean Jacques Bertot. Il suo baritono era piacevole da ascoltare, così come la sua sicurezza era piacevole da osservare in mezzo a una folla così tremante. Il brigadiere mormorò: “Fornisce prove riguardo al prigioniero principale”; e quel alto uomo ligure, dal viso giallastro, ben pagato, di nobili origini e con cavalli di razza, fece un piccolo gesto alla fine del suo discorso, significando che “il prigioniero travestito da donna fornisce prove contro il prigioniero principale”. Mentre lo faceva, sembrava meno cupo del solito. La signora con i capelli parzialmente rasati notò quell’espressione con piacere.
 
 
 
@@ -4196,6 +5596,36 @@ He found himself in a cell of which this is the exact description: it was 16 fee
 
 He did not ponder. He was very old and very tired. If he had been younger he would have cried. As it was his poor eyes drooped; he rolled miserably on to the bed and drew a blanket over him, leaving the other between himself and the ticking. It was mortal cold he thought! After such terrible fatigues sleep was upon him, when he felt a lump in his pocket which made him uncomfortable. Drowsily he put his hand into that pocket and drew out, of all things in the world, the tissue paper and the string, and within the midst that SPOON which had been the true begetter of all these vile adventures.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“C’è qualcosa che posso dire ora?”, chiese lei di sua iniziativa.
+
+“Assolutamente no!”, disse l’avvocato alto e cupo. “Chiamerò subito!”. Poi chiese casualmente: “Di quale Corte d’Assise si tratta?”
+
+Il brigadiere rispose: “Tarascon”. E mentre lo diceva, afferrò G. Quinlan Smith per il polso e lo tirò verso di sé con un gesto privo del minimo segno di rispetto che quell’uomo anziano aveva iniziato a aspettarsi.
+
+“Nome, cognomi, residenza, professione, e così via?”, disse il ligure, sospirando di sollievo alla fine del suo compito e guardando con impazienza al letto verso cui stava per dirigersi dopo questa brusca chiamata mattutina.
+
+G. Quinlan Smith lo guardò con i suoi occhi luminosi, ma non disse nulla.
+
+Il ligure cambiò improvvisamente comportamento: divenne loquace e spiegò con estrema rapidità che non era abituato a quel genere di cose, che sarebbe stato peggio per qualsiasi prigioniero che “si comportasse in modo ribelle”, che aveva domato molti, e così via.
+
+L’anziano americano, notando la sua eccitazione, alzò un dito indice e iniziò a muoverlo avanti e indietro. Ma quel gesto non ebbe l’effetto di calmarlo; anzi, con un’intensità emotiva del tutto insolita negli Stati del New England, iniziò a mostrare i denti, a digrignarli, a battere il pugno sul tavolo, ad avvicinare il proprio viso a quello dell’avversario, insomma, a compiere tutte quelle azioni indegne che nessun magistrato dovrebbe permettersi.
+
+La donna con i capelli parzialmente rasati disse al brigadiere di riferire al magistrato che quel signore era sordo.
+
+Il ligure si calmò di nuovo; sedutosi davanti ai documenti scrisse: “Simula la sordità. Rifiuta di fornire il nome”. Poi, per quel povero e caro vecchio milionario, inserì il nome che gli aveva dato la polizia, e così la cerimonia terminò.
+
+Tutti uscirono di nuovo insieme, poliziotti e prigionieri, diretti alla stazione ferroviaria; presero quel treno omnibus del primo mattino che correva lungo la costa mediterranea, un treno carico della desolazione dei mattini estivi. Il treno rimbombava da una stazione all’altra per tutto il giorno; e proprio quando stava per calare la sera, dopo due fermate, arrivò a Tarascon.
+
+Furono immediatamente portati in prigione. Un’altra serie di noiose formalità davanti a un altro magistrato, un uomo molto anziano che sniffava tabacco, concluse quella giornata.
+
+G. Quinlan Smith, nemmeno nelle migliori circostanze, avrebbe potuto sentire quelle parole mormorate, figuriamoci comprenderle; ma se gli fosse stato permesso di vederle scritte e in inglese, avrebbe appreso un fatto estremamente importante: che era considerato “una persona avvertita”, quindi innocente fino a quando non si dimostrasse colpevole; che doveva essere trattato in ogni modo come un cittadino libero, fatta eccezione per le misure di forza necessarie per impedirgli la fuga, sia per motivi legati al terrore, alla consapevolezza della propria colpevolezza o a qualsiasi altro motivo. La legge proteggeva George Quinlan Smith in ogni modo possibile, ma, ahimè, lui non lo sapeva.
+
+Si trovava in una cella la cui descrizione era esattamente questa: misurava 16 piedi di lunghezza per 9 piedi di larghezza, aveva un'altezza non inferiore a 14 piedi; proprio sopra il punto raggiungibile da una persona in piedi sull’unico sgabello presente nella cella, c’era una finestra a griglie che si poteva aprire o chiudere dall’esterno, ma era chiusa all’interno con sbarre; inoltre, la griglia era così bassa che non era possibile raggiungerla dalla parte interna attraverso le sbarre. Nella cella c’erano un letto con materasso di paglia, due tappeti e una sorta di cuscino fatto di stoffa oleata, un secchio di terracotta e un grande pane rotondo. Sulla porta c’era un piccolo foro attraverso il quale si poteva osservare il prigioniero. Fu poco dopo le nove che quella porta fu chiusa alle sue spalle e George Quinlan Smith rimase solo a dormire.
+
+Non ci pensò nemmeno. Era molto vecchio e molto stanco. Se fosse stato più giovane, avrebbe pianto. Ma i suoi occhi deboli si chiusero; si rotolò miseramente sul letto e si coprì con una coperta, lasciando l’altra tra sé e il ticchettio dell’orologio. Faceva un freddo terribile. Dopo tanta fatica, finalmente si addormentò. Quando però sentì qualcosa di duro nella tasca che lo disturbava, infilò la mano e ne tirò fuori, tra tutte le cose possibili, il fazzoletto di carta e la corda. E in mezzo a loro, quella cucchiaiata che era stata la vera causa di tutti questi terribili guai.
 
 
 
@@ -4267,6 +5697,72 @@ Then did the Prime Minister of England go upstairs with his charming and elderly
 “That’s it! Never take your eyes off him, don’t let him get between you and the door, and speak to him in soothing tones!” She saw Dolly knocking at the end of that corridor; she heard his well modulated, high-pitched drawl, “Oh, I thought it was the library? I beg your pardon!” And she left him at it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XII
+
+# Evviva! L’amore coniugato!
+
+MILTON.
+
+La mattina dopo che il signor Moss aveva attirato l’attenzione di Dolly con le pieghe davvero simili a creste presenti sui suoi pantaloni, la mattina in cui George Quinlan Smith si svegliò nella tana dei ladri in Provenza, stanco morto, e vide i raggi del sole iniziare ad illuminare il muro più lontano attraverso la finestra sul soffitto; nelle ore successive, mentre G. Quinlan veniva trascinato disperatamente lungo la costa verso Tarascon. In quella mattina e in quelle ore successive, Dolly si svegliò. La prima cosa che fece non appena si alzò fu chiedere a Eddie di portarla a casa di Mary Smith; ma lei non poté dirle nulla: suo zio non era ancora tornato.
+
+La seconda cosa che fece Dolly fu chiedere a Eddie di portarla a casa di Pongo; per grande fortuna scoprì che Pongo non aveva ancora lasciato [[London|Londra]] e sarebbe venuto subito, come gli era stato chiesto, o, meglio ancora, avrebbe incontrato Dolly quando e dove lei avesse deciso.
+
+Si incontrarono alle Blue Posts per pranzare insieme.
+
+Era l’unico club dove si poteva parlare a lungo e in modo intimo senza ansia, perché i “Blue Posts” erano creati esclusivamente per pranzi e nient’altro; ci erano anche vescovi, due editori e un duca straniero. Non era certo un club dove qualcuno avrebbe mai pensato di parlare di politica.
+
+Pongo non aveva saputo nulla di più di quanto gli avesse raccontato Dolly, e forse, a causa della sua semplice natura, non comprendeva appieno l’importanza straordinaria della scomparsa misteriosa del signor Smith. “Ma in fondo è facile scoprirlo,” disse.
+
+Dolly concordò che fosse così. Prima ancora che il formaggio venisse messo sul tavolo, lui aveva già provato cinque diversi metodi: messaggi telefonici, i servitori del club e altri messaggeri ancora più inutili. Nessuno di questi tentativi aveva avuto successo. Il signor Smith non era arrivato in ufficio; il suo assistente non sapeva dove si trovasse; il signor Smith non aveva prenotato alcun treno tramite la sua agenzia abituale. E così via. Dolly e Pongo rimasero al Blue Posts fino alle quattro del pomeriggio; l’ultimo dei messaggeri tornò indietro con lo stesso risultato negativo del primo.
+
+Dolly rifletté. Il vecchio Smith era uscito; se n’era andato senza alcuna preparazione particolare, in taxi, con una piccola borsa; probabilmente era andato a fare qualche acquisto o a rendere visita in zona [[London|Londra]]. Probabilmente intendeva tornare quella stessa notte. Ma qualcosa doveva averlo trattenuto. Se così fosse stato, avrebbe sicuramente contattato sua nipote. Era un uomo anziano; forse era accadutogli qualche incidente. Doveva esserci modo di scoprirlo. E il modo migliore era che Dolly andasse subito all’ufficio della compagnia, dicendo loro che avrebbe messo a disposizione tutte le risorse a sua disposizione. Perché Smith, Fischer e Co dovevano essere altrettanto ansiosi quanto lei stessa, anche se, probabilmente, per motivi diversi.
+
+Prima di lasciare i Blue Posts, pregò Pongo di non lasciare [[London|Londra]] quel giorno, e il fedele Pongo promise che non lo avrebbe fatto.
+
+“Vedi,” disse, “potrebbe essere necessario… proprio necessario, estendere quel periodo di tempo.”
+
+“Capisco,” disse Pongo, annuendo con la sua testa quadrata e stringendo le labbra della sua bocca serrata.
+
+“Non credo proprio,” disse Dolly, con uno sguardo di ansia quasi patetica negli occhi, “non credo proprio, ma se quell’uomo anziano non dovesse essere trovato,!”
+
+“Sì, capisco,” disse Pongo. “Con lui era tutto abbastanza chiaro, vero, intendo riguardo al prestito.”
+
+“Oh, perfettamente,” disse Dolly con noncuranza, “perfettamente. Va bene così. Ma dev’essere lì. Deve essere sul posto. Nessuno in ufficio saprà nulla al riguardo, per ora.” E quel pensiero disgustoso che il suo salvatore potesse già in quel momento essere troppo tardi per salvarlo lo fece rabbrividire, nonostante usasse quel tono disinvolto.
+
+“Stai andando ora nel suo ufficio?” chiese Pongo.
+
+“Sì,” disse Dolly con decisione, “andrò lì subito.” E lo disse perché in realtà non aveva alcuna intenzione di farlo: essendo un politico, era abituato a mentire, anche prima di aver formulato qualsiasi piano preciso. Salutò Pongo quasi con calore, considerandolo un vecchio e caro amico, e lo esortò ancora una volta con grande ansia a non lasciare Londra; addirittura fissò un appuntamento per incontrarsi più tardi nel pomeriggio. Una volta uscito, si comportò come se nulla fosse successo e corse dritto da Mary Smith.
+
+Lui aveva avuto una discussione con lei. Lei non poteva dirgli nulla. Non era preoccupata; fidava nel buon senso di suo zio. Spesso lui se ne andava per una notte, anche se mai per più tempo, almeno da casa sua, senza nemmeno avvisarla. Dopotutto era sordo e abituato a fare ciò che voleva. Lei davvero non riusciva a capire perché fosse andato via; conosceva poco le sue abitudini. Poteva suggerirgli alcune possibili destinazioni, ma Dolly le conosceva altrettanto bene quanto lei.
+
+“La sua segretaria è dentro?” chiese Dolly con insistenza.
+
+“Sì”, disse Mary Smith, sorridendo amaramente, “è sempre lì”.
+
+“Mangia con te?” chiese Dolly.
+
+“No!” disse Mary con fermezza.
+
+“Beh, ma insomma!” disse Dolly.
+
+“No,” disse di nuovo Mary, contando sulle dita: “Ci sono i domestici, i domestici più anziani e la governante; poi c’è il autista, e poi, oh Signore, c’è lui, il segretario! Servono davvero una casa grande per tutte queste cene separate, cara,” disse, guardando affettuosamente Dolly in cerca di comprensione.
+
+Ma Dolly era troppo turbata per prestare attenzione ai suoi problemi domestici.
+
+“Posso parlare con la segretaria?”, chiese ansiosamente.
+
+“Sì, certo, potete vederlo,” rispose Mary.
+
+#"Non vuoi chiamarlo?"
+
+“Chiamalo!” disse Mary. “È lo stesso che chiamare il Re della Gomma! Devi avvicinarti a lui, Dolly, devi chiedergli un incontro. Vai su e bussa alla porta; fai finta che sia la biblioteca.”
+
+Allora il Primo Ministro d’Inghilterra salì le scale, accompagnato dalla sua affascinante e anziana cugina; camminavano mano nella mano fino a quando, in un piano alto dal quale si poteva ammirare l’immensa Metropoli, lei indicò con un gesto un corridoio e una piccola porta blu, sussurrando:
+
+“Ecco fatto! Non staccare mai gli occhi da lui, non lasciare che si metta tra te e la porta, e parlagli con toni rassicuranti!” Vide Dolly bussare all’altro capo di quel corridoio; sentì il suo tono acuto e ben modulato: “Oh, pensavo fosse la biblioteca. Mi scusi per l’errore!” E poi lo lasciò fare.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_02" data-title="Pongo and the Bull — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4319,6 +5815,54 @@ Dolly did not like to appear too anxious, but when the time had come for his ren
 No, Peggy didn’t know. But she’d ask old Battersea. She came back to the telephone in a moment. Old Battersea didn’t know; she rang off, and the husband and wife had no further reason to communicate until the following day. But the following day of course she would hear from him, for they never allowed twenty-four hours to pass if they were both in [[London]] without speaking to each other over the wire. They were not really happy for very long out of each other’s society, in spite of what the gossips said, and wherever Dolly might be dining, supping or lunching, it was quite even chances that Peggy would be seen there too.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Riapparve dopo cinque minuti, leggermente arrossito e per niente soddisfatto.
+
+“Non è un giovane gentile,” disse il Primo Ministro d’Inghilterra.
+
+“No!”, disse Mary. “Sa dove sia andato zio?”
+
+“Non lo penso affatto,” disse Dolly pensierosa. “Onestamente, non lo penso. Ma se l’avesse fatto, probabilmente non lo avrebbe detto,” aggiunse più rapidamente.
+
+“Si preoccupa per questa questione?” chiese Mary.
+
+“Mai proprio,” disse Dolly, “è l’ultima cosa a cui penserebbe!”
+
+“No”, pensò Mary con aria meditabonda, “non lo sarebbe”.
+
+“È incluso nel testamento di tuo zio?” chiese Dolly.
+
+“Oh no,” disse Mary. “I testamenti non servono a nulla in questi casi. Zio aveva messo da parte dei soldi per il suo funerale. Quel piccolo mostro ne otterrà ventimila!” sospirò. “Zio l’aveva comprato per sedici anni fa. E ora ce l’ha ‘tra le grinfie’. Ma non riesce a prevedere nulla.”
+
+Dolly era di cattivo umore. Lasciò che l’immagine della segretaria svanisse dalla sua mente. Erano quasi le tre, e pensò all’ufficio.
+
+“Andrò da Smith, Fischer e Co.,” disse. “Andrò subito, di persona.”
+
+“È saggio?” chiese Mary con scetticismo. “Lasciami telefonare e dire loro che farai tutto il possibile. Farò sembrare una sorta di favore: non sembrerà davvero un favore se vedono che ti prendi la briga di andarci; inoltre, oggi quel tizio dei Peabody controllerà tutti.”
+
+Chiamò immediatamente la ditta Smith, Fischer e Co. L’ufficio non aveva ricevuto alcuna notizia del signor Smith, ma quando scoprirono chi stava chiamando e vennero a sapere della sua ansia, inviarono subito un uomo di fiducia; il suo motociclo arrivò davanti alla porta dieci minuti dopo che lei aveva riattaccato il ricevitore.
+
+Quanto bene Mary Smith ha interpretato il suo ruolo! Quanto grande è il potere dell’affetto, quanto debole invece il legame basato solo sulla conoscenza, per quanto stretto o duraturo possa essere! Decise di dimenticare completamente il vecchio Battersea. E lo fece davvero, con tutto il cuore – soprattutto durante quella conversazione con l’“Uomo di Confidenza”. La sua voce era dolce e supplichevole; parlava continuamente del suo zio. Le sarebbe stato facile versare lacrime nei suoi bei occhi anziani, per qualsiasi motivo. Nel momento della sua massima angoscia, posò una mano morbida e carnosa sulla spalla dell’“Uomo di Confidenza”, convincendolo a confidarsi in lei come nessun altro aveva mai fatto prima. Scoprì centinaia di piccole abitudini del suo zio di cui non aveva mai sospettato l’esistenza. Ma non riuscì a scoprire dove potesse trovarsi in quel momento.
+
+Poi, all'improvviso, come se le fosse venuta in mente l'idea più brillante e inaspettata, disse con espressione radiosa:
+
+“Ah, a proposito, il Primo Ministro è stato qui. Forse è ancora qui; stava guardando un libro che dovevo fargli vedere. Sono sicuro che farebbe qualsiasi cosa.”
+
+L’Uomo di Confidenza mormorò che fosse davvero molto gentile da parte sua. Il campanello fu risposto. Sì, Dolly era in casa. “È stata una coincidenza fortunata,” disse Mary, “è stato così premuroso, così gentile, davvero meraviglioso. Avrebbe fatto qualsiasi cosa!”
+
+L’Uomo di Confidenza provava un certo timore all’arrivo di Dolly, ma il Primo Ministro era così abile e affascinante sotto ogni aspetto. Si assicurò che quel pomeriggio venissero fatte tutte le cose possibili per aiutare l’azienda. Naturalmente sperava che non fosse accaduto nulla a una persona così preziosa, ma, tante ore di assenza.
+
+L’Uomo di Confidenza sorrise con quel tipico sorriso yankee, caratteristico degli uffici cittadini, e rivelò in modo confidenziale che il signor Smith a volte si assentava per mesi interi.
+
+Il viso mobile di Dolly subì rapidamente tre diverse contorsioni, poi si stabilizzò sulle sue gambe; le labbra espressero un tono leggermente tremulo, ma comunque controllato, un tono che rifletteva la speranza che qualsiasi cosa lui potesse fare fosse sufficiente, e così via.
+
+L’Uomo di Confidenza fu congedato con tutta quella cortesia affascinante tipica dei molto ricchi; in qualche modo riuscì ad allontanarsi senza che lui se ne rendesse conto. Ma non appena se ne andò, Dolly non lo abbandonò. Inviò i messaggi alle persone giuste nel modo appropriato: il governo di un popolo libero lavorava con la stessa frenesia come se si stesse occupando della questione irlandese. Quell’intera pomeriggio, Smith, Fischer e Co ricevettero i loro rapporti. Gli uffici telefonici erano in pieno funzionamento: le lettere indirizzate a determinati destinatari venivano immediatamente aperte e lette, i telegrammi copiati. Per vedere con quanta efficienza lavoravano alcuni uffici postali, si sarebbe potuto pensare di essere in Irlanda. In un modo o nell’altro, quel pomeriggio George Quinlan Smith fece spendere ai contribuenti britannici tra i due e i tremila sterline. Alcune di queste somme furono utilizzate per le votazioni relative alle colonie o alla protezione della pesca in acque profonde; il resto, probabilmente, fu sprecato. Di tutto ciò, non risultò nulla. Delle tre o quattrocento lettere inviate per via telegrafica, ne derivò soltanto un piccolo scandalo; dei telegrammi, le copie mostravano soltanto tre messaggi – tutti incomprensibili. Uno era in codice e impossibile da decifrare; un altro era firmato “Parseval” e riguardava un viaggio a Villefranche. Il terzo conteneva una richiesta di denaro da parte di un parente. Ma anche quel messaggio era troppo laconico per essere significativo. Peccato che il linguaggio telegrafico fosse così frammentario.
+
+A Dolly non piaceva sembrare troppo ansiosa, ma quando arrivò l’ora dell’appuntamento con Pongo, poiché nulla era stato scoperto riguardo alla fuga di quella ragazza e anche Pongo, a modo suo innocente, non aveva ottenuto alcuna informazione, iniziò ad allarmarsi seriamente. Non voleva disturbare sua moglie così presto nel corso della giornata; di solito la chiamava poco prima che andasse a vestirsi per la cena, e erano appena passate le sei e mezza. Peggy non aveva mai avuto bisogno di molto tempo per vestirsi; un’ora le era più che sufficiente. Probabilmente non sarebbe ancora arrivata. Ma l’ansia lo costringeva ad aspettare. Chiamò Battersea House; per fortuna lei era già lì! Le chiese se Mary Smith sapesse se suo zio sarebbe venuto a cena o meno. Poteva dirglielo?
+
+No, Peggy non lo sapeva. Ma avrebbe chiesto informazioni all’anziana Battersea. Tornò subito al telefono: l’anziana Battersea non ne sapeva nulla; lei riattaccò, e il marito e la moglie non ebbero più motivo di comunicare fino al giorno seguente. Ma naturalmente, il giorno dopo avrebbe ricevuto notizie da lui, perché mai permettevano che trascorressero ventiquattro ore senza parlarsi, se entrambi si trovavano a [[London|Londra]]? Non erano davvero felici quando non erano insieme, nonostante quello che dicevano i pettegoli. E ovunque Dolly andasse a pranzo o a cena, c’erano molte probabilità che anche Peggy si trovasse lì.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_03" data-title="Pongo and the Bull — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4367,6 +5911,50 @@ It was but a foolish dream, but Dolly was no longer young, and there had been di
 Dolly did not read the papers. It was a habit he had formed twenty years before when he had found them too offensive for words and when even those which were supposed to be supporting him introduced subtle threats and elements of blackmail into their leaders. That morning, as upon every other morning, he opened the Capon. After all, he held its proprietors pretty tightly. He gave just a glance at the general nature of the news by the headlines before he should see it in more detail on the tape and hear from his secretary the things that most concerned him, European and domestic; for it was what had not been allowed to reach the Press, rather than what had got into it by accident, which he chiefly desired to hear from Eddie with each new morning.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+* * *
+
+C’è qualcosa di stranamente inquietante nella silenzio improvvisa che segue una breve conversazione al telefono o lo scambio di parole con una voce familiare.
+
+Quella sera Dolly se ne rese conto. Non era ancora buio, ma quella grande stanza vecchia dell’ottavo secolo sembrava triste, con i suoi soffitti alti e le sue linee geometriche. Si sentì quasi solo. Poi iniziò ad avere una sensazione sgradevole: si chiese se avesse agito saggiamente o meno, o, per essere più precisi, se il suo tono non avesse rivelato la sua ansia a qualcuno che lo conosceva così bene come sua moglie. Quel pensiero lo turbava. Si fece portare su in camera una bistecca alla griglia e decise di trascorrere la serata a lavorare: gli avrebbe distratto la mente.
+
+* * *
+
+Quella sera, a Battersea House, si teneva un grande banchetto. Anche se Peggy aveva già pranzato due volte con i suoi cari vecchi amici nelle ultime due settimane, questi le avevano chiesto per favore di partecipare anche quella sera e lei aveva accettato. Non dimenticò però la domanda del marito: durante il pasto, mentre mangiavano uova di piviere, gli chiese se avesse sentito qualcosa riguardo al vecchio signor Smith.
+
+Il Duca, con la bocca piena di quelle delizie, ingoiò gran parte del cibo nonostante la sua età avanzata; per un momento soffocò, disse qualcosa in tedesco a una serva dietro di lui e, ripresosi, le comunicò che quel vecchio yankee aveva lasciato [[London|Londra]]. Il Duca odiava i yankees: non seguivano il modo inglese di fare affari; c’era qualcosa di troppo astuto in loro.
+
+“Tuo marito pensa davvero così, eh, Peggy?” Peggy si infastidì. Lui continuò a esporre le sue teorie sulla superiorità degli uomini d’affari inglesi rispetto ai yankees.
+
+Peggy lo interruppe chiedendogli come facesse a sapere che quel vecchio Smith se n'era andato, e il Duca di Battersea si concesse quello che in persone meno abbienti verrebbe definito un sorriso malizioso. Si poteva persino vedere una parte della sua lingua sporgere tra le labbra piuttosto carnose; ma se quel gesto fosse stato fatto per recuperare un frammento di uovo di piviere o per esprimere qualche emozione legata al mondo finanziario, era impossibile dirlo.
+
+“È tutto qui nella città, tutto qui nella città,” mormorò l’uomo anziano in modo confidenziale, usando una frase che lei aveva sentito troppo spesso dai suoi parenti nel corso della sua vita.
+
+“Ah, davvero?”, rispose lei seccamente, “Avresti potuto dirmelo prima… Dolly voleva saperlo.”
+
+Il Duca di Battersea sembrava divertirsi molto. Quel giorno aveva scoperto molte cose: aveva parlato con uno o due dei suoi agenti pubblicitari; era addirittura stato così gentile da contattare personalmente almeno un importante giornale. Aveva anche gestito alcune operazioni finanziarie e aveva acquistato un'agenzia stampa a Parigi.
+
+Ci sono persone che pensano che il lavoro dei grandi finanziatori venga svolto per loro da altri; si sbagliano. Ma il Duca di Battersea era un uomo anziano estremamente laborioso.
+
+* * *
+
+Dolly, nella sua grande stanza, aveva finito di mangiare la bistecca alla griglia, bevuto il suo bicchiere di vino, mangiato il suo pezzo di pane tostato e letto il suo giornale scandalistico. Era di nuovo al lavoro, cercando di non pensare a George Quinlan Smith, una questione che, inevitabilmente, avrebbe dovuto aspettare fino al giorno seguente.
+
+Eddie se n'era andato. Dolly cercò di convincersi che a lui piacesse la solitudine; ma per tutta quella sera, mentre lavorava, gli tornavano in mente le parole dell’“Uomo di Fiducia”: “A volte il vecchio Smith è via per mesi.” Nel suo cuore maledisse l’indifferenza che deriva dalla grande ricchezza.
+
+Poi rifletteva sulla questione in modo più tranquillo per venti minuti. Ovviamente si era trattato solo di una conversazione affrettata; il signor Smith non poteva certo comprendere l’urgenza della situazione, e allora perdeva di nuovo la pazienza. Il signor Smith sapeva bene a cosa sarebbe portato tutto ciò, e quanto fosse importante. Maledizione! Forse quel vecchio Smith pensava che una settimana non facesse alcuna differenza. Il Primo Ministro si trovava in una situazione davvero complicata.
+
+Cercò di distrarsi di nuovo ordinando i punti di un discorso riguardante la “Teoria del Parallelismo”, un argomento su cui non sapeva nulla e di cui, tuttavia, era costretto a parlare in qualità di Rettore dell’Università Femminile di Bletchley. Se da giovane avesse studiato matematica elementare, quell’argomento (che dopotutto è molto interessante) forse lo avrebbe distratto. Ma gli mancava completamente qualsiasi interesse per il calcolo; ricordava vagamente i concetti legati alle equazioni quadratiche, e questi lo avevano annoiato. Nella sua testa li mescolava con i logaritmi. E tutto il tempo si preoccupava per George Quinlan Smith, fino a quando questa preoccupazione divenne un’ossessione. Molto prima delle tre andò a letto, temendo di non riuscire a riposare.
+
+“Cosa canta la Canzone di Rolando nella sua nobile melodia? Canta, e continua a cantare senza sosta:…”
+
+“Le notti passano, e i giorni tornano.” La mattina seguente era arrivata su quella mente turbata. Dolly, come al solito, giaceva ancora a letto, e, come al solito, dormiva. Il suo sonno però fu disturbato: fece persino un sogno. Nel sogno gli sembrava di essere salito in taxi, e quando vi entrò l’autista si girò verso di lui con un’espressione di intensità straordinaria e disse: “Non sei affatto il bravo ragazzo che pensi di essere!” Poi, senza esitare nemmeno per un istante, accelerò a tutta velocità, e sparì nel cielo!
+
+Era solo un sogno sciocco, ma Dolly non era più giovane, e durante quel viaggio folle c'erano abissi insondabili sotto di lui. Dal momento in cui quel sogno lo aveva turbato e si era svegliato a metà (erano appena le dieci), aveva continuato a dormire irrequietamente. Ora era mezzogiorno, e non riusciva più a dormire. Il suo servitore rimase sorpreso di sentire suonare la campanella a quell’ora, ma non ci furono ritardi. Portò il suo padrone sulla sua postazione privata, insieme al bicchiere d’acqua calda con cui Dolly iniziava sempre la sua “importante missione quotidiana” da vero gentiluomo inglese. Poi uscì di nuovo, lasciando quel libro regolare accanto al letto del suo padrone.
+
+Dolly non leggeva i giornali. Era un’abitudine che aveva acquisito vent’anni prima, quando quei giornali gli sembravano offensivi al punto da essere indescrivibili; inoltre, anche quelli che avrebbero dovuto sostenerlo contenevano insidiose minacce e elementi di ricatto nei loro articoli. Quella mattina, come ogni altra mattina, aprì il “Capon”. Dopotutto, aveva un controllo piuttosto stretto sui suoi proprietari. Diede solo un’occhiata ai titoli per capire l’orientamento generale delle notizie, prima di leggerle più attentamente sul nastro e ascoltare da parte del suo segretario quelle informazioni che lo interessavano di più, sia a livello europeo che nazionale; infatti, era soprattutto ciò che non era stato permesso di diventare di dominio pubblico, piuttosto che ciò che vi era finito per errore, ciò che desiderava sapere ogni mattina da Eddie.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_04" data-title="Pongo and the Bull — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4396,6 +5984,32 @@ He was at the telephone again in no time,... Oh, the weary business! But (curiou
 
 The evening papers were out. The tapes in the Club were all agog, all that is great in [[London]], all that drinks, gambles and intrigues, was thoroughly awake. And it all shouted of the Indian Loan. Dolly felt in the great square hall of his Club one pair of eyes after another seeking him as he glanced at the telegrams. He went out and walked eastward, but even as he bought a paper the man asked him to make it tuppence; thereby proving the American adage that publicity is the thorn in the roseleaf bed of greatness. He could not even get across Trafalgar Square without two policemen making way for him; and he thought most miserably as he went, that all his splendour was tied upon a string. He popped on to a bus that was going towards the City and was at last at ease. In Fleet Street no one would know him, and he could continue on foot. He opened the paper at random — the habit was growing upon him — he recognised in the yellow colour the organ of the Straights, cultivated, international and insipid. The leading article praised him. It said that for once Dolly “had acted without ambiguity, and as the country demanded that her leader, by whatever accident he might have obtained his position, should act. We had duties to India as great as our rights.... Dusky fellow-subjects... conscience of Europe.... The determination to ear-mark half the new loan for relief works” — and the rest of it!— “No mere pauperisation, but useful labour and honest, reproductive experiment...!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Si sentiva stordito e a disagio mentre apriva il giornale. Aveva dormito male e quella sensazione lo opprimeva, i titoli delle notizie erano banali; gli venne vagamente in mente se dovesse cercare il nome di Smith tra le informazioni sui movimenti dei ricchi, ma non c’era nulla. Poi, per caso, uno slogan attirò la sua attenzione. Si trovava sotto una rubrica intitolata “Note Politiche”; ricordava vagamente che Eddie gli aveva detto che fosse scritto da qualche cugino di Charlie Webster, quell’uomo gli era stato presentato a una cena, era stato anche una volta alla Camera dei Rappresentanti e conosceva molte persone.
+
+Dolly diede un’occhiata alla frase con indifferenza, senza nemmeno leggerne le parole, continuando ancora a riflettere su ciò che avrebbe potuto spingere i Webster o le loro connessioni ad intraprendere la carriera nel giornalismo, e in quel genere di giornalismo! Quando quella frase gli tornò davanti agli occhi, era stampata in caratteri neri: “E sappiamo che il Primo Ministro farà una dichiarazione al riguardo oggi stesso.”
+
+Non c’era nulla di serio in tutto ciò; se solo Dolly fosse riuscito ad addormentarsi di nuovo, avrebbe dormito fino all’ora naturale per lui, le una di notte. Ma il suo umore era anormale e febbrile; lesse quindi l’intero articolo per capire di cosa si trattasse, proprio come un uomo in uno stato di nervosismo che aspetta con ansia un treno il cui ritardo potrebbe causargli grandi perdite, lascia che i suoi occhi scorrono febbrilmente su un avviso ferroviario privo di significato in una stazione.
+
+Poi, nonostante se stesso, il suo cervello reagì in modo coerente con i suoi occhi, e si rese conto di stare leggendo per intero quella colonna: vi era una descrizione dettagliata del fatto che quei fondi destinati al prestito indiano sarebbero stati in realtà utilizzati per opere di assistenza. Tutto ciò, ovviamente, era assurdo.
+
+Nonostante fosse anziano, Dolly si svegliò all'improvviso, come se qualcuno gli avesse gettato addosso un secchio d'acqua. Si sedette dritto e iniziò a leggere con tutte le sue forze. Sapeva quante migliaia di persone avrebbero letto quel messaggio nel “Capon”. Quanti di coloro che erano costretti ad alzarsi all’alba avrebbero già letto quelle parole ai tavoli dove mangiavano i loro orribili colazioni nei sobborghi. Pensò ai propri elettori della classe media, e rabbrividì interiormente; poi pensò alle persone sedute nelle file posteriori del teatro, e rabbrividì anche esteriormente. Lì c’era tutto, in bianco e nero: un lungo annuncio su un giornale che tutti dicevano fosse suo, ma non lo era esattamente. Quel giornale riportava proprio l’unica cosa riguardo alla quale aveva fatto in modo che rimanesse segreta, o, meglio ancora, ambigua.
+
+Tirò la corda della campanella elettrica come se avesse cinquant’anni in meno e si trattasse di una vecchia frangia appesa a una corda. La corda si ruppe. Non vedeva l’ora di alzarsi dal letto, era così ansioso di procedere con il suo piano successivo. Urlò attraverso la porta, come se tutta la colpa di quanto era accaduto fosse da attribuire a quel poveretto. E gridò anche, in modo piuttosto petulante, che voleva tutti i documenti.
+
+Non doveva essere interpretato troppo letteralmente. E in meno di mezz’ora – durante il quale rese la vita molto difficile a più di uno dei suoi domestici – fu portata una pila di giornali. C’era “La Luna”, che aveva pubblicato un’edizione anticipata, “Repartee”, “Eagle” e altre mezza dozzina di testate. In cima al mucchio c’era “Il News (di Leicester)”, l’organo ufficiale delle regioni centrali dell’Inghilterra da quando Billington ne aveva acquistato la proprietà; quel giornale continuava ad avere influenza su quegli elettorati che in passato avevano mostrato un’eccessiva indipendenza, “Il News” aveva messo sotto pressione i rappresentanti delle regioni centrali al Parlamento. Quindi Dolly si rivolse proprio a quel giornale. E infatti, in caratteri grandi e stampati con particolare enfasi, c’era la notizia che il prestito per l’India era stato finalizzato; si accennava alla casa editrice responsabile dell’emissione dei titoli finanziari, senza specificarne il nome; inoltre, si annunciava con solenne formalità che metà del denaro ottenuto attraverso quel prestito sarebbe stato destinato a opere di beneficenza, accompagnata da congratulazioni umanitarie.
+
+Certo, c'era un testo guida in quel documento, e Dolly lo lesse con grande attenzione, come se si trattasse di un romanzo francese. Notò persino lo stile di scrittura e riconobbe che non corrispondeva a quello del solito giornalista. Sapeva già cosa sarebbe successo!
+
+Giornale dopo giornale, ogni volta che ne apriva uno, trovava la stessa notizia, o una netta contraddizione di essa. La “Luna” deplorava quella decisione; l’“Aquila” la derideva; il “Repartee” scherzava al riguardo. Ma la decisione era comunque stata presa. E cosa ancora peggiore: un’allusione presente nel “Herald” lo costrinse a consultare la sezione finanziaria dei giornali. Quello che era stato comunicato ai media la sera prima non poteva ancora essere riflettuto nelle edizioni mattutine. Le edizioni serali, invece, avrebbero rivelato la verità. Consultò con maggiore ansia l’edizione anticipata della “Luna”. E infatti: la misura di sicurezza principale era stata rafforzata. Ancora di più, aggiunse con soddisfazione il redattore della “Luna”, “poiché nella città si era diffusa la certezza che il prestito indiano, che avrebbe potuto esercitare una pressione eccessiva sul mercato, fosse ora garantito da progetti che l’opinione pubblica aveva richiesto per motivi nobili e importanti. E che, dal punto di vista finanziario, erano davvero necessari per il loro successo”.
+
+Esistono alcune aree della vita umana in cui i politici svolgono un ruolo attivo, e a volte addirittura molto incisivo. Dolly capì, molto prima che Smith finisse di leggere, che la partenza di quest’ultimo era già nota. Capì altrettanto chiaramente – e con una sensazione di amarezza ancora maggiore – che anche il Duca di Battersea ne era a conoscenza. Se Peggy si trovava ancora a casa dei Battersea, come il giorno prima, non c’era molto tempo da perdere.
+
+In un attimo era di nuovo al telefono. Oh, che noia! Ma (strana coincidenza!) prima la casa di Battersea House fu occupata, poi non rispose più, infine gli diedero un numero sbagliato. Corse lì in taxi a tutta velocità: era più veloce che telefonare. Peggy non c’era; era uscita. E il Duca? Il Duca era in città. E la Duchessa? Nessuno riusciva a dirglielo.
+
+I giornali serali erano già usciti. Nel Club, tutti erano in fermento: tutto ciò che era importante a [[London|Londra]], tutte le notizie riguardanti bevande, gioco d’azzardo e intrighi, veniva ampiamente discusso. E tutti parlavano dell’Ipotheca Indiana. Dolly, nella grande sala del Club, sentiva gli sguardi di molte persone fissarsi su di lui mentre leggeva i telegrammi. Uscì e si diresse verso est; anche quando comprò un giornale, il venditore gli chiese di pagarlo due penny, dimostrando così l’adagio americano secondo cui la pubblicità è proprio “la spina nel letto di rose” della grandezza. Non riuscì nemmeno a attraversare Trafalgar Square senza che due poliziotti gli facessero strada; mentre camminava, pensò con amarezza che tutto il suo splendore fosse legato a condizioni difficili da superare. Salì su un autobus diretto verso la City e finalmente si rilassò: in Fleet Street nessuno lo avrebbe riconosciuto, e poteva proseguire a piedi. Aprì un giornale a caso, quella abitudine stava prendendo piede in lui. Riconobbe subito il colore giallo tipico di quel quotidiano, organo ufficiale delle autorità britanniche, insipido e poco interessante dal punto di vista editoriale. L’articolo di prima pagina lo elogiava: diceva che, per una volta, Dolly “aveva agito senza ambiguità, proprio come il paese richiedeva che facesse il suo leader, indipendentemente da come avesse ottenuto quella posizione. Avevamo doveri verso l’India altrettanto importanti dei nostri diritti. Popoli sottoposti a condizioni difficili. La coscienza dell’Europa. La determinazione di destinare metà del nuovo prestito a opere di aiuto, ” E così via, “Nessuna semplice impoverizione, ma lavoro utile e progetti seri volti al miglioramento delle condizioni delle persone, ”
 
 
 
@@ -4436,6 +6050,42 @@ Dolly came on obediently enough, but he was absorbed, the pleasant stream of his
 
 And Dolly asked, since there was no time to lose, and he had no fear of her putting two and two together, to be dropped at Pongo’s.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“O Signore!” gemette Dolly nel suo intimo. Pensò a come tutte queste cose peggiorassero ad ogni ora che passava. Se Smith potesse tornare qui ora, sarebbe già abbastanza grave; se non riuscissero a riportarlo indietro fino a domani, sarebbe ancora peggio; il giorno dopo potrebbe significare la rovina.
+
+L’autobus era arrivato in Fleet Street. Il Primo Ministro scese con cautela.
+
+Scese dall’autobus in Fleet Street per recarsi al Temple e parlare con il suo avvocato. Anche i più grandi uomini della nostra variegata e spontanea vita pubblica hanno molti interessi, oltre a quelli che li distinguono davanti alla folla. E Dolly, indipendentemente dalla sua posizione politica, trovava interesse e occupazione nel prendersi cura della sua fortuna.
+
+Dopo il suo matrimonio, di tanto in tanto era stato necessario effettuare alcuni piccoli accordi legali, e Peggy aveva anche dovuto consultare i suoi avvocati al riguardo. Marito e moglie si capivano perfettamente, e subito dopo le nozze Peggy aveva acconsentito a affidare le proprie questioni legali alle stesse persone di lui. Quindi, quale fu la gioia di Dolly quando entrò nell’atrio dello studio legale e vide Peggy lì seduta, con un altro enorme cappello di colore viola oggi, mentre ieri era blu, intenta a guardare una pila di vecchi documenti illustrati. Un sorriso di piacere apparve sul suo viso quando lo riconobbe, e lui fu davvero felice di vederla, anche se si chiese perché lo studio legale fosse così scortese da far aspettare una donna della sua posizione. Nell’Inghilterra moderna, è molto difficile per le persone importanti esprimere simili piccole offese. Dolly cercò di affrontare l’argomento chiedendo a Peggy se stesse aspettando qualcuno al piano di sopra. Peggy rispose.
+
+“Del resto, perché ti fanno aspettare? Avrebbero potuto sapere che eri tu! Non sai quanto assomigli a te stessa, Dolly, ”
+
+Poi risero entrambi.
+
+Stavano sfiorando il tema più pericoloso di tutti: il rispetto che la classe media deve ai suoi superiori. Ne facevano allusione con frasi brevi, utilizzate soltanto tra loro, marito e moglie. Un ragazzo balbettante entrò, sudato per la paura, e disse che il signor Crump era estremamente arrabbiato e voleva esprimere quanto si scusasse. E che Peggy non potesse venire subito? C'era stato un malinteso!
+
+Peggy, semplicemente dicendo “Ho vinto, caro”, salì al piano di sopra; Dolly, che non aveva mai avuto molta simpatia per le cose divertenti e che ormai si era stancata del mondo, sia esso divertente o no, non poté fare a meno di sorridere. Lui fu ancora più divertito quando, due minuti dopo, il ragazzo balbuziente tornò dentro, peggio che mai, e venne spinto da parte da un uomo alto con una grande barba nera, molto sicuro di sé e autoritario, che disse:
+
+“È tutto un errore, signore, un terribile errore. Il signor Crump desidera particolarmente che io sappia che si tratta di un errore.” Fortunatamente, quell’incidente spiacevole terminò quando la voce di Peggy risuonò dalle scale, chiamando Dolly a salire: era qualcosa di cui potevano parlare insieme. Dolly fu sollevato; odiava gli affari.
+
+Come risultato di quel breve colloquio, sia il marito che la moglie uscirono dall’ufficio in condizioni finanziarie leggermente migliori. Non era stata necessaria nessuna di quelle dolorose discussioni le cui conseguenze inevitabilmente comportavano perdite per una parte e vantaggi per l’altra. Avevano concordato insieme su un piano che avrebbe aumentato il valore di almeno un investimento, e probabilmente anche di due. Ora, quando le persone si trovano in condizioni finanziarie migliori, spesso (per il momento) diventano anche più tolleranti e più a loro agio con gli altri.
+
+Dolly e Peggy tornarono insieme verso l’Embankment, lasciando l’ufficio attraverso un gruppo di dipendenti ossequiosi. Chiunque le avesse viste una accanto all’altra le avrebbe scambiate per fratello e sorella, se non fosse stato per la evidente differenza razziale nei loro volti. Anche se non fossero stati fratello e sorella, un osservatore casuale le avrebbe sicuramente considerate due amiche molto intime e legate da una profonda affinità. E non si sarebbe sbagliato di molto. Infatti, tra Dolly e sua moglie esisteva un legame sincero e profondo, qualcosa che oggi è davvero raro nelle vite coniugali delle classi più agiate. Ogni volta che Peggy era a [[London|Londra]], per Dolly era importante poterla vedere almeno una o due volte alla settimana; per lui rappresentava un vero conforto e una grande gioia quando, nonostante la sua impegnata agenda, lei riusciva ad organizzare di partecipare alle stesse feste con lui, da sabato a lunedì.
+
+La gente lo sapeva, e a volte li chiedevano insieme. Il loro affetto era un argomento di conversazione comune.
+
+Chiacchierarono di tutto tranne che dell’unica questione che avrebbe potuto causare una lite: la Dissoluzione. Lei pensava di stare evitando argomenti politici quando gli raccontò quella storia divertente riguardo al fatto di aver visto per un attimo il vecchio Smith. Era sicura fosse proprio lui, quarantotto ore prima, a Pickles. “Voleva una cucchiaia a punta di ratto che i Batterseas avevano nella loro villa, vicino a Villefranche.” Parlò della mania del vecchio Smith e ne rise.
+
+Durante il loro cammino verso ovest, erano arrivati fino alla Sfinge di Cleopatra quando Peggy pronunciò queste parole; appena le ebbe dette, Dolly si fermò di colpo, la guardò dritto negli occhi come se stesse per farle un'altra domanda. Gli era improvvisamente stato fornito il “segreto” che aspettava da tempo, e tutto gli divenne chiaro! Il vecchio Smith era fuggito a Villefranche.
+
+“Oh, per favore, smettila di stare lì impalato,” disse Peggy.
+
+Dolly arrivò abbastanza obbedientemente, ma lui era troppo assorto nei suoi pensieri; il flusso piacevole delle sue parole venne interrotto, e Peggy iniziò a annoiarsi con lui. Era uno degli inconvenienti della sua vita coniugale: in quelle occasioni in cui incontrava suo marito da sola, anche se per caso, c’era sempre questa sorta di conclusione. Lui si interessava a cose che lei non capiva, e la sua attenzione si allontanava da ciò che lei stava dicendo. Lei chiamò un taxi e, salendoci, disse piuttosto bruscamente: “Dove devo lasciarti?”
+
+E Dolly chiese, poiché non c’era tempo da perdere e lui non temeva che lei potesse collegare i vari fatti e scoprire dove lo avessero lasciato, di essere portato da Pongo.
 
 
 
@@ -4484,6 +6134,50 @@ Poor Pongo got gloomier and gloomier as the force of circumstances compelled him
 
 And Pongo consented; he was given Villefranche for cue, and the whole story of the Disraeli Spoon for a scent, and he departed... so greatly did he love his country!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Erano cupi nell’taxi; lei era davvero infastidita da lui. Certo, era un uomo anziano; lo sapeva già quando lo aveva sposato. Ma il modo in cui improvvisamente si perdeva nei suoi pensieri, come un bambino sognante, era davvero molto irritante! Lo lasciò davanti al ristorante Pongo e non ci pensò più.
+
+Dolly si sforzava di pensare al meglio. Era in uno di quei momenti in cui gli uomini sono certi che le cose andranno a loro favore; aveva la soluzione ai suoi problemi e era sicuro che ogni dettaglio si sarebbe incastrato perfettamente. Sapeva che avrebbe trovato Pongo a casa, ed effettivamente così fu.
+
+Pongo stava davanti al fuoco nel suo studio, riflettendo profondamente, o meglio, per essere onesti con lui, stava valutando se dovesse passeggiare nel parco e andare a trovare Biddy Limerick, rischiando di incontrarci anche il vecchio, terribilmente vecchio Limerick, oppure se dovesse andare a guardare i dipinti francesi in Dover Street. Il politico non aveva ancora preso una decisione definitiva tra queste due opzioni quando Dolly entrò, con un’energia molto rara tra i politici e piena di realismo. Il messaggio di Dolly era semplice: gli disse che il signor Smith si trovava in Riviera e doveva essere trovato immediatamente.
+
+“Cosa intendi per ‘trovato’?”, chiese Pongo, fissandolo con il suo viso quadrato.
+
+“Quello che dico io, ”, disse Dolly, “è vero. È partito per coltivare la sua ossessione: c’è un ricordo di Disraeli, ”, aggiunse amaramente Dolly, “ed è andato a prenderlo.”
+
+“Oh!”, disse Pongo, ormai capendo metà della situazione. “Ma immagino che tornerà, no?”
+
+“Oh, non credo che morirà lì,” esclamò Dolly impazientemente. “L’importante è che qualcuno debba andare a trovarlo. Subito!”
+
+“Beh, un ragazzo messaggero potrebbe farlo,” disse Pongo, “oppure Cavan, l’uomo che ha visto Jenny Hampton nelle Isole Baleari quando il piccolo Coolie Diggs se n’è andato con lei lo scorso giugno.” E Pongo ridacchiò.
+
+“Mio caro amico,” disse Dolly, con i nervi più tesi che mai, “chiunque trovi quel vecchio spaventapasseri deve essere qualcuno che sa il motivo per cui è stato cercato. In questo momento ci sono solo due persone che lo sanno: una sei tu e l’altra sono io.”
+
+“Sì-sì,” disse Pongo, che ancora non riusciva a vedere chiaramente.
+
+“Beh, al diavolo tutto, non posso andare,” disse Dolly.
+
+“N-no,” disse Pongo, “no, non puoi andare.”
+
+“Vorrei andare,” disse Dolly, molto sollevata di sentire l’opinione di Pongo al riguardo, “se non fosse per l’appuntamento a Glasgow; ma quello è assolutamente indispensabile. Devo proprio andarci.”
+
+“Beh, a proposito,” disse Pongo, che non gradiva affatto l’idea di dover intraprendere un lungo viaggio all’improvviso, “devo rispondere al tuo discorso il giorno dopo stesso a Stirling.” Si mise a frugare pomposamente tra alcuni documenti e aggiunse: “Guarda qui.” Indicò la prima frase, scritta a macchina: “Il Primo Ministro ha commesso un atto che, a mio parere, nessun altro statista responsabile dei nostri tempi, ” e così via.
+
+“Oh sì,” disse Dolly con impazienza.
+
+“Beh, oserei dire di sì,” disse Pongo con tono offeso, “ma ho tutto pronto e stavo per farti vedere il testo; c’è un passaggio in cui ti definisco complice, se non addirittura colpevole, di ladri e assassini. Pensavo che la tua stampa potesse ritenere queste parole troppo forti, quindi volevo che le modificassi.”
+
+“Beh, comunque, ” intervenne Dolly, “non preoccuparti adesso. L’importante è che uno di noi due debba andare, e non può essere io.”
+
+Povero Pongo diventava sempre più triste man mano che le circostanze lo costringevano ad assumere il punto di vista di Dolly.
+
+“E la gente di Stirling?” chiese lui.
+
+“Manda il fratello di Eddie,” disse Dolly con noncuranza. “È dalla tua parte. Manda chiunque tu voglia. Ma tu non puoi andare. Posso rinviare la fine della pausa per una settimana. Ma oh, caro mio, se devi andare, devi farlo subito. Non so quanto tempo ti ci vorrà per trovarlo, ma ogni ora è importante.”
+
+E Pongo acconsentì; gli fu data Villefranche come “pista” e tutta la storia della “Cucchiaia di Disraeli” come “profumo”, poi se ne andò, quanto amava davvero il suo paese!
 
 
 
@@ -4538,6 +6232,56 @@ Old G. Quinlan Smith so far forgot himself as to say “Rats!” The interpreter
 
 “His thieves’ slang again,” muttered the interpreter — too conscious of the lawyer’s doubting eye.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIII
+
+“La differenza tra la procedura giudiziaria inglese e quella del Continente è che in Inghilterra un uomo è presunto innocente finché non viene dichiarato colpevole, mentre sul Continente è presunto colpevole finché non viene provata la sua innocenza.” — ADOLF BECK.
+
+Il Giudice Istruttore di Tarascon era un gentiluomo estremamente curato, vicino ai cinquant’anni. La parte superiore della sua testa era calva; la sua barba era sottile e appuntita; i suoi occhi, sebbene attenti nell’espressione, davano l’impressione di una certa stanchezza fisica, cosa che lui accentuava indossando un pince-nez d’oro. Il suo stipendio era modesto, ma la sua fortuna personale era considerevole; inoltre, il suo rango e la sua influenza nella zona erano ancora più importanti.
+
+Prima che tutto ciò accadesse, l’arbitro del suo destino fu il vecchio G. Quinlan Smith, trascinato via dai suoi rozzi guardiani nelle prime ore di quella mattina di Whit-Wednesday. Lontano, nello stesso giorno e alla stessa ora, il treno espresso proveniente da Lyons si dirigeva verso sud, portando con sé Pongo, il salvatore del suo paese; nella tasca di Pongo, addormentato, c’era un biglietto per Villefranche.
+
+Quando quel povero vecchio banchiere, infelice e tremante dopo la notte trascorsa in prigione, fu introdotto davanti a quell’ufficiale, provò all’improvviso un senso di benessere che, in quei momenti difficili, gli era del tutto sconosciuto. La stanza, sebbene arredata semplicemente, era quella di una persona colta; inoltre, il giudice si era permesso di aggiungere alcuni ornamenti al proprio tavolo ufficiale: tra questi, il ritratto di sua moglie (poiché era molto devoto a lei) e un piccolo modellino d’argento di automobile posizionato su marmo, che utilizzava come fermacarte.
+
+Pregò G. Quinlan di permettergli di sedersi; lo fece con una sorta di cortesia asciutta e impersonale che gli valse grande stima da parte del milionario americano. Era così diverso dalla scortesia, dalle spinte e dai grida di quegli altri detestabili latini! Infatti, G. Quinlan Smith non sapeva che esistessero simili buone maniere al di fuori del mondo anglo-sassone.
+
+Il Giudice Istruttore stava consultando un mazzo di documenti posati davanti a lui. L’interprete ufficiale, un uomo robusto e anche un piccolo professore del luogo, sedeva dritto all’estremità del tavolo, osservando con profonda diffidenza il vecchio imputato dai capelli bianchi. Il Giudice Istruttore gli chiese rapidamente, a bassa voce, se il vecchio signore avesse mostrato qualche segno di conoscere il francese.
+
+L'interprete ufficiale alzò le sue spalle larghe e rispose in modo così rapido e a voce così bassa che era evidente che il vecchio conoscesse bene quella lingua, come dimostravano i suoi viaggi e la sua frequentazione con persone che potevano parlare solo francese; tuttavia, l'interprete stesso non lo aveva mai sentito pronunciare una parola di quella lingua. Durante tutto questo, George Quinlan rimase immobile e silenzioso.
+
+Poi il Giudice Istruttore, con lo sguardo serio fisso sui documenti davanti a sé, iniziò a parlare con un tono rapido e monotono; ed ecco ciò che disse:
+
+“Chi è stato avvertito!”
+
+Il 13 aprile 1851, scappasti da una madre gentile e premurosa, una vedova, per di più, che viveva modestamente con una piccola pensione nella città di Bourges. E non esitasti nemmeno a portare con te un pezzo di argenteria che avrebbe dovuto essere ancora più sacro per te, poiché era stato regalato a tuo defunto padre, un onesto capostazione in pensione.
+
+“Tua madre, incapace di controllare il tuo temperamento indisciplinato, pregò affinché tu venissi messo in un riformatorio, dove ti avrebbero insegnato un mestiere utile fino al momento del tuo servizio militare. Ma tutti gli sforzi e le attenzioni dei tuoi insegnanti andarono sprecati: proprio mentre venivi portato insieme ai tuoi compagni per partecipare alla sorteggio davanti al Consiglio Militare, scappasti; tre anni dopo fui scoperto coinvolto in un furto nella città di Auxerre. Fu,” aggiunse il Giudice Istruttore alzando lo sguardo con fermezza, “la tua specializzazione nelle opere d’arte in argento a rovinarti in quell’occasione.” Chiese all’interprete di tradurre quelle parole.
+
+L'interprete, con un modo lento e incerto, e utilizzando un accento del tutto irriconoscibile, riferì i fatti principali in inglese tarasconese. George Quinlan Smith non pronunciò una parola.
+
+“Continui ancora a fingere di essere sordo?” disse il Giudice Istruttore con un tono severo e pallido.
+
+“Cosa?”, disse George Quinlan, portandosi una mano all’orecchio. “Dovete parlare più forte!”
+
+“La legge mi obbliga”, disse il Giudice con grande dignità all’interprete, “ad accettare la richiesta di colui che è stato avvertito. Pertanto, vi prego di pronunciare chiaramente i punti principali all’orecchio di tale persona.”
+
+L'interprete ufficiale fece ciò che gli era stato chiesto. Dalle dieci frasi di cui G. Quinlan non riusciva a capire nulla, ne ricavò una sola; alla fine, disperato, scrisse in inglese imperfetto e gridò ancora in inglese ancora più imperfetto: “, Si allontanò dalla madre nel 1851.”
+
+“Sciocchezze!”, esclamò G. Quinlan con impazienza, “sciocchezze!”
+
+Anche la rapina a Auxerre fu negata con altrettanta fermezza. La smentita, insieme a un breve riepilogo di ciò che era stato chiesto e risposto, venne quindi letta ad alta voce e presentata a G. Quinlan affinché la firmasse, ma lui rifiutò. Disse in tono brusco che, se davvero cercavano autografi, avrebbe acconsentito se avessero lasciato perdere le altre questioni.
+
+L’interprete, sentendo questo, osservò al Giudice Istruttore che il prigioniero si rifugiava nel gergo dei ladri inglesi, un linguaggio che era impossibile per uno studioso classico come lui comprendere. Il Giudice Istruttore sospirò e continuò:
+
+“Fu quindi condannato a cinque anni di reclusione; in appello presso la Corte Superiore di Sens, la pena fu raddoppiata e gli fu vietato di soggiornare in determinate zone per un periodo di cinque anni, mentre i suoi diritti civili furono revocati per dieci anni. Inoltre,” proseguì il giudice istruttore con maggiore enfasi rispetto a prima, “viene imposto una multa di quindici franchi.” Alzò lo sguardo. “Continuate ancora a negare?”
+
+Il vecchio G. Quinlan Smith, in quel momento, dimenticò completamente se stesso e gridò: “Ratti!” L’interprete scosse la testa, perplesso; non capiva cosa intendesse dire.
+
+“Cosa dice?” chiese seriamente il Giudice Istruttore.
+
+“Di nuovo lo slang dei ladri, ”, mormorò l’interprete, ben consapevole dello sguardo scettico dell’avvocato.
 
 
 
@@ -4603,6 +6347,66 @@ Meanwhile, G. Quinlan Smith, no longer a Warned One, but a true Prisoner, langui
 In the early afternoon, at about three o’clock, he was summoned once again to meet his judge.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Quando fosti riammesso nella società,” continuò il magistrato imperturbabile con la sua voce monotona e grave, “dopo aver superato il dolore che provavi, il tuo primo atto fu uccidere, in circostanze estremamente brutali, una donna anziana a Nogent-le-Rotrou; anche in questo caso, l’argento di quella donna fece parte del tuo bottino. Con quel denaro riuscisti a fuggire. Sembra che tu sia rimasto nascosto con un nome falso nelle colonie britanniche, negli Stati Uniti d’America e a [[London|Londra]] per molti anni; quando scadde il termine di prescrizione, tornasti in Francia nel 1921.” Si rivolse all’interprete e aggiunse: “Traduci.”
+
+L'interprete ripeté ancora una volta la sua esibizione incerta: gli stessi urli, le stesse annotazioni e lo stesso deciso diniego da parte di G. Quinlan, che ora assumeva la forma di un suggerimento secondo cui i suoi tormentatori avrebbero potuto impiegare meglio il loro tempo a catturare teppisti e a controllare i locali notturni, piuttosto che occuparsi della sua particolare “fresa”.
+
+Quando l’interprete si disperò di poter tradurre quel testo, il Giudice Istruttore decise di rimproverarlo leggermente; quest’ultimo, però, ribatté sostenendo che quell’uomo anziano stesse semplicemente blaterando senza senso, e che non stesse nemmeno utilizzando lo slang dei ladri in uso all’epoca. Si prese persino la briga di consultare un dizionario tascabile, ma nonostante cercasse le parole “round”.
+
+#"Parla."
+
+“Facile.”
+
+“vedere” e “scimmia” erano termini facilmente comprensibili nel loro significato usuale; non riusciva però a capire in che senso il milionario li avesse fusi insieme.
+
+“Ora arrivo alla parte più grave di ciò che dovete ascoltare,” disse il Giudice Istruttore. “La legge vi esorta a prestare la massima attenzione. È certo che negli ultimi cinque anni siete stato complice in una serie di rapine, nelle quali il vostro compagno d’azione – e forse anche la vostra vittima – è stato l’attore principale; avete agito insieme ad altri due ladri, un uomo e una donna, ora entrambi morti in un incidente sulla strada Nizza-Mentone durante uno dei loro furti più audaci. Una parte del bottino di quell’ultimo furto, una cucchiaia d’argento, è stata trovata addosso a voi. È altresì certo che, per evitare di essere interrogato, fingete di essere sordo; il cornetto acustico che portavate a tale scopo, ritrovato sulla strada della vostra fuga, è stato la principale pista che ha portato al vostro arresto. Indossate i guanti per evitare che le impronte digitali possano rivelarvi. Fingete di non conoscere il francese e, sostenendo di avere origini straniere, cercate di nascondere la vostra carriera macchiata di crimini.”
+
+G. Quinlan Smith, non capendo una parola di tutto ciò, pregò il suo interlocutore, che ora lo stava guardando, di smettere di scherzare.
+
+“Continui a negare,” proseguì la distruzione rappresentata dal Giudice, “ma le tue negazioni non ti serviranno a nulla.”
+
+Ancora una volta il documento fu consegnato a G. Quinlan Smith perché lo firmasse, ma ancora una volta lui rifiutò di farlo. Si stava alzando in piedi, e lo stesso faceva l’interprete. Furono chiamati due poliziotti per portare via la persona interessata, quando il Giudice Istruttore fece loro segno di aspettare un attimo; prese poi un libro coperto di cartone spesso da uno scaffale, consultò l’articolo 3773A del proprio regolamento procedurale e lesse ad alta voce:
+
+“In presenza di, ” Indicò uno dei poliziotti, il quale rispose con tono militare: “Sorel, Jacques.” “E in presenza di, ” continuò il Giudice Istruttore, indicando il secondo poliziotto, che disse allo stesso modo: “Bietry, Jules.” “E in presenza di Henri Despres, interprete di questo tribunale, e di me stesso; poiché la persona interessata si è rifiutata di firmare, in applicazione dell’articolo 3773A del Codice di Procedura, ”, e qui cercò per qualche momento nell’indice, posizionando il dito su diverse pagine del grosso libro, prima di continuare: “Il decreto del decimo giorno di Germinal dell’anno VI, il Senatus-consultum del 10 dicembre 1805, la Legge Organica del 6 gennaio 1848, nonché gli Ordini di Polizia del 10 marzo 1883 e del 4 giugno 1876, costituiscono motivo sufficiente affinché la persona interessata venga dichiarata prigioniera in questo giorno del 1925, al fine di rispondere delle accuse di contumacia, ribellione contro l’autorità costituita e sfida alle leggi della Repubblica.”
+
+Con queste parole, l'eccellente magistrato emise un profondo sospiro, rimise il libro al suo posto e George Quinlan Smith fu portato via.
+
+Quel povero vecchio aveva raggiunto il punto di rottura. Doveva uscire da quella situazione; anche a costo che il mondo profano venisse a sapere tutto riguardo alla cucchiaiata, doveva farlo. Ci pensò un attimo e chiamò l’interprete.
+
+“Ah, finalmente, pensavo proprio così,” mormorò quel degno studioso provinciale.
+
+G. Quinlan Smith si avvicinò a lui mentre usciva dalla porta insieme ai suoi carcerieri. “Le dispiacerebbe inviarmi un telegramma per me?”, chiese.
+
+L’interprete riferì la domanda al Giudice Istruttore, il cui primo compito era rispondere. “È inglese normale, signor Désprés?”
+
+“No,” disse il signor Désprés con l’affermazione di uno studioso, “l’accento non è normale e le parole sono troppo colloquiali e familiari per le circostanze.”
+
+“Ma ha senso?”, disse il Giudice Distruttore, che nel profondo del suo cuore credeva che G. Quinlan sapesse ancora meno inglese dell’interprete.
+
+“Ah sì! Ha senso,” disse il professore con orgoglio. “Ha parlato della sua mente e di un telegramma.” Il giudice istruttore colse l’occasione: chiamò indietro il prigioniero.
+
+“Prigioniero,” disse lui (evitando con cura il termine onorifico “Colui che è stato Avvertito”, che in precedenza aveva sempre rispettato con attenzione), “desideri inviare un telegramma?”
+
+La traduzione fu pronunciata per prima volta; poi, poiché l’interessato rimaneva immobile e silenzioso, gli fu gridata all’orecchio da G. Quinlan, il quale confermò di averla fatta.
+
+“Scrivilo qui e mi assicurerò che venga inviato,” disse il magistrato impenetrabile, porgendogli un foglio di carta timbrata.
+
+G. Quinlan scrisse: “Mary Smith, 207 Charles Street, Mayfair, [[London|Londra]]. Inviate immediatamente assistenza legale. Si tratta di un grave malinteso. Destinazione sconosciuta, Tarascon. Zio.”
+
+L'interprete fece la traduzione. Il giudice scosse la testa. “Sarà sufficiente che lei firmi da dentro il carcere, signore”, disse. “Non trasmetterò la firma ‘Zio’; potrebbe trattarsi di una parola in codice. Devo però avere la sua firma, tutti i nomi, per favore, altrimenti non sarà legale.”
+
+C'era un certo tono di malinconia nell'espressione dell'uomo anziano quando si arrese e scrisse “G. Quinlan Smith” con caratteri grandi e chiari.
+
+“Farò in modo che venga consegnato,” disse il Giudice Istruttore con tono secco, e G. Quinlan fu portato via.
+
+Appena la porta si chiuse alle sue spalle, il magistrato iniziò ad esaminare con attenzione quella firma, utilizzando un potente microscopio di bassa potenza. Grazie alla sua notevole esperienza, concluse che si trattava della firma di una persona non francese: la lettera “th” era sufficiente a dimostrarlo. Quella grafia gli sembrava straniera; aveva una certa audacia che, se ne fosse stato chiesto, il magistrato avrebbe definito “teatrale”, ma comunque non assomigliava affatto alla scrittura tipica dei suoi connazionali. Rifletté a lungo su quel telegramma, poi lo mise in un cassetto e decise di parlarne con un collega durante il pranzo.
+
+Nel frattempo, G. Quinlan Smith, ormai non più un “Avvertito”, ma un vero e proprio prigioniero, languiva in carcere a Tarascon, sottoposto esattamente alle stesse difficoltà che aveva dovuto affrontare quando non era ancora un spregevole prigioniero, ma un orgoglioso “Avvertito”, tecnicamente innocente, tecnicamente libero.
+
+All’inizio del pomeriggio, verso le tre, fu nuovamente chiamato ad incontrare il suo giudice.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_01" data-title="Pongo and the Bull — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/bullfighting,concept/nationalism_and_patriotism,concept/empire_and_imperialism,concept/satire_of_society,form/satire,setting/france"></span>
@@ -4643,6 +6447,42 @@ A little pardonable personal ambition was, perhaps, present in his mind. He thou
 He had come at the right moment, at least as far as the spectacle was concerned. The audience was, perhaps, a little disappointing. The rising oval tiers of wooden seats were not more than a third filled, and he had a suspicion (as he looked at the bored faces of one segment numbered “S”) that these were employes of the company compelled to swell the attendance. For the rest, the few hundreds present were mainly respectable families, among whom comfortable matrons were in the majority, accompanied by their lively offspring.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIV
+
+#Sua Signoria: “Era un toro irlandese?”
+
+TESTIMONE: “No, mio signore, era un toro normale, cioè, in realtà non era affatto un toro. Era un vitello.”
+
+#Il suo signorilità: “Stai attento, testimone… Stai molto attento!”
+
+Corte dei Reati Capitali Riservati, III. J. II. 327 (1892).
+
+La stazione di Tarascon è vecchio stile e scomoda. Il lungo processo di sviluppo europeo ha influenzato profondamente la città, rendendola un punto di snodo dove coloro che non hanno “merito” devono aspettare per molte ore, così vuole il temperamento gallico.
+
+Se Pongo non avesse confuso la sua intelligenza naturalmente brillante a causa degli anni trascorsi tra le complicazioni della vita quotidiana, forse sarebbe riuscito a trovare, nel suo orario ferroviario, un treno che lo avrebbe portato direttamente sulla Riviera senza bisogno di cambi. Comprese però l’errore, proprio come fanno molte persone quando si trovano in situazioni simili; e nello stesso momento in cui, nella stessa città, G. Quinlan veniva interrogato dal giudice, Pongo si ritrovò sul marciapiede della stazione di Tarascon, appena sceso da un treno che, invece di portarlo sulla Costa Azzurra, lo aveva condotto dall’altra parte del Rodano: quel treno destinato a riportare a casa, dal nord troppo rigido e freddo, i ricchi ugonotti di Nîmes e gli ancora più ricchi ebrei di Barcellona.
+
+A Pongo venne in mente che, al di fuori del suo paese, nulla veniva davvero gestito con efficacia. Se quel bivio ferroviario si fosse trovato in Inghilterra, ci sarebbe stata una grande stazione, con cameriere e bancarelle piene di giornali, tutti stampati in modo elegante su carta spessa e in una lingua comprensibile. Ci sarebbero stati anche numerosi facchini che correvano avanti e indietro gridando “Con il suo permesso!”. Un ambiente del genere, pensava, era tipico dell’uomo quando aspetta un treno alla stazione. Ma essere bloccati per tre ore in un posto del genere era assurdo. Nella sua fretta, Pongo era pronto a incolpare l’intera civiltà continentale e desiderava ardentemente che venisse immediatamente conquistata, assorbita e trasformata da una razza più degna.
+
+Pongo si chiedeva cosa si potesse fare in tre ore prima dell’una in un posto come Tarascon. Gli venne in mente di chiedere se gli fosse possibile visitare la casa di Tartarin, ma non era del tutto sicuro che quel personaggio esistesse davvero nella storia. Uscì dalla stazione e si fermò in una piccola piazza sporca. Era senza sapere cosa fare.
+
+In qualche modo, nonostante la sua irritazione, a Pongo quella sensazione non sembrava del tutto sgradevole; infatti, sebbene i politici godano di lunghi periodi di tempo libero, questi solitamente avvengono tra le otto di sera e le tre di notte, quando mangiano, bevono e giocano d’azzardo con gli amici. È raro che questa sensazione di libertà gli capiti nel pomeriggio. Comunque fosse, si trovava lì, intrappolato tra due treni, e non gli restava altro da fare se non passare il tempo.
+
+Camminava con disinvoltura lungo il largo viale alberato, convincendosi che nessuno lo avrebbe scambiato per qualcun altro se non per un indigeno, data la sua chioma scura e le altre sue caratteristiche fisiche. Dimenticò però che il suo colletto lo tradiva, così come quell’indescrivibile abitudine di trattare gli altri esseri umani con gesti che li considerassero inferiori a sé; un atteggiamento che, sebbene conferisca forza al carattere della nostra nobiltà, è anche un segno molto difficile da eliminare. E infatti si è rivelato la rovina di molti coloro che hanno cercato di sfuggire alla “polizia” della Madre Patria.
+
+Mentre si chiedeva cosa fare per passare il tempo, i suoi occhi incrociarono un enorme cartellone pubblicitario.
+
+Rappresentava un toro. Il toro era dipinto di un vivido rosso cardinalizio; stava in una posizione ben definita, tanto che la sua coda sembrava davvero muoversi nell’aria; i suoi occhi erano pieni di preoccupazione, ma anche di coraggio. Davanti a lui, un gentiluomo spagnolo, vestito con abiti estremamente tradizionali, assumeva una posizione tanto elegante quanto professionale, e con uno strumento appuntito sfidava quella terribile bestia. Anche lui era raffigurato interamente di rosso cardinalizio; sullo sfondo del poster, deboli tracce dello stesso colore suggerivano la presenza di un enorme numero di persone affascinate dal pathos e dal pericolo di quella lotta. Sul poster c’era anche una didascalia che spiegava come una corrida fosse stata autorizzata dalle autorità in base alle leggi del 1889 e del 1891, e che si sarebbe svolta quel pomeriggio nell’Anfiteatro Sportivo fuori città.
+
+Con un po' di imbarazzo, dopo essere stato interrogato da un passante, Pongo si diresse verso l’Anello dello Sport.
+
+Si disse che la grande riforma a cui ora erano dedicati i migliori e i più coraggiosi d’Inghilterra potesse essere agevolata soltanto da un'esperienza personale da parte sua. Era deciso a vedere quell’orrore con i propri occhi, e si riteneva abbastanza forte non solo per sopportarlo, ma anche per osservare con precisione in cosa consistesse la sua vera natura orribile.
+
+Forse nel suo cuore esisteva un piccolo desiderio di ambizione personale, del tutto comprensibile. Si immaginava (mentre le sue gambe corte si muovevano verso il alto muro di legno dell’Anello dello Sport) mentre parlava durante la votazione al Ministero degli Esteri su questa vergogna per la civiltà europea. Avrebbe chiesto a Dolly di permettere che quella votazione durasse più delle solite quattro ore all’anno. Forse addirittura due giorni! Inoltre, avrebbe insegnato a Dolly quali argomenti fossero adatti da trattare dal suo punto di vista in Parlamento. Ricordava bene quanto il Parlamento apprezzasse le conoscenze personali dettagliate; conosceva abbastanza bene se stesso per rendersi conto che i suoi discorsi suonavano molto meglio quando trattavano di argomenti sui quali aveva almeno una vaga idea. Aveva notato lo stesso anche nei discorsi degli altri. E, in definitiva, mentre passava davanti alla biglietteria e pagava il suo franco, si sentiva un po’ eccitato: stava per imparare cose molto importanti.
+
+Era arrivato nel momento giusto, almeno per quanto riguardava lo spettacolo. Il pubblico, però, era un po’ deludente: i gradini ovali di legno erano riempiti solo per un terzo, e lui sospettò (guardando i volti annoiati di alcuni spettatori contrassegnati con la lettera “S”) che si trattasse di dipendenti dell’azienda costretti a partecipare allo spettacolo. Per il resto, le poche centinaia di persone presenti erano per lo più famiglie rispettabili; tra queste, prevalevano donne comode e benestanti, accompagnate dai loro figli vivaci.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_02" data-title="Pongo and the Bull — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4668,6 +6508,28 @@ The bullock — unused to such exercise, and irritated by the fluttering of larg
 
 Just as the whole scheme was at its climax of energy, the four gentlemen in plush came out again with their trumpets; exuberant, happy and youthful laughter met them from the children of the Tarasconese. The adolescents in the audience who had been previously reprimanded, gave an imitation of trumpets, on which their mammas deigned this time to smile. Two valets dressed after the fashion of the eighteenth century, but with faces of the twentieth, collared the bullock and led him out on ribbons. The four footmen formed up behind and the two horsemen were the last to leave the arena. As the procession filed out, the trumpets attempted to play the Soldiers’ March in Faust, and failed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nel momento in cui prese il suo posto, il toro, o per essere più precisi, il bue, stava in piedi in un atteggiamento timido al centro dell’arena, assomigliando in qualche modo a uno studente di medicina che si avvicina ai suoi esaminatori per le domande orali. Quella bestia muta fissava modestamente il terreno con lo sguardo, la coda penzolante; sembrava che, oltre all’imbarazzo evidente, provasse anche un po’ di noia.
+
+Quattro gentiluomini, vestiti di velluto logoro e dai colori sgargianti, ispirati alle mode del XV secolo, apparvero ai grandi cancelli all’estremità dell’arena e suonarono note deboli e dissonanti su quattro lunghe trombe; una di queste era stata gravemente danneggiata durante il viaggio da Arles. A questo suono, che, sebbene breve, risultava fastidioso, il bue girò la testa e muggì in segno di protesta. I suoi piccoli corni erano adornati con grandi tappi di sughero, su ciascuno dei quali sventolava un nodo di nastri colorati. Dopo aver espresso questa protesta, l’animale tornò al suo solito silenzio malinconico.
+
+Quando tutte queste cose furono compiute, la cavalcata entrò nell’arena. Era numerosa, composta da persone povere e molte delle quali avevano un carattere piuttosto irascibile. Pongo, che non conosceva le abitudini di divertimento dei nostri amici e rivali continentali, rimase sorpreso nel notare che le signore, vestite in vari stili antichi che ricordavano, sebbene vagamente, i affreschi del Parlamento, avevano coperto il viso con la vernice bianca proprio come facevano le signore di [[London|Londra]] a cena; mentre i gentiluomini non solo erano scarsi nell’arte equestre, ma molti di loro ignoravano anche lo stato delle proprie barbe, tranne uno! Era un individuo davvero straordinario: indossava calzamaglie aderenti e piccoli pantaloni di velluto, aveva la testa quadrata e riccia e baffi a mezzaluna molto attraenti; faceva danzare il suo cavallo in modo sorprendente, cavalcava allegramente intorno all’altare sacrificale gridando ad alta voce, poi galoppava attraverso le porte aperte, per poi scomparire senza mai tornare.
+
+La cavalcata percorse noiosamente l’ovale, inchinandosi e sorridendo in modo superficiale alle rigide matrone di Tarascon; nessuna di loro rispose nemmeno con un battito di ciglia o una parola. Poi scomparvero una dopo l’altra attraverso le porte aperte, che si richiusero con un tonfo. Gli uomini muniti di trombe suonarono un altro squillo; due ragazzi presenti tra il pubblico gridarono “Basta! Basta!”, ma furono immediatamente rimproverati dalle loro madri. Quattro valenti servitori rimasero a sfidare il Mostro da terra, mentre due cavalieri armati di lance pesanti e ingombranti si posizionarono alle spalle della linea di attacco. E così iniziò quel terribile gioco!
+
+Tra i servitori, il Primo, danzando con agilità prima a sinistra e poi a destra, finì per pungere il bue, che perse la pazienza e gli corse addosso. Il Secondo approfittò del fianco scoperto per pungere di nuovo il bue, ma dall’altra parte. Il bue, confuso (poiché quest’animale non possiede la capacità di analisi), rimase fermo in silenzio, cercando di capire perché una pulce lo avesse morso su entrambi i lati. Non riuscì a risolvere questo mistero quando il Terzo lo colpì sul dorso, e il Quarto lo fece ridere mentre si girava per chiedere spiegazioni. Il bue non capiva nulla di tutto ciò. O meglio: ne capiva troppo. Rimase di nuovo fermo a riflettere, e Pongo fu felice di vedere, per la prima volta, i primi segni di attività da parte dell’animale: la sua coda iniziava a muoversi leggermente.
+
+Nel frattempo, i quattro uomini a cavallo si riorganizzarono all’altra estremità dell’ovale; i due cavalieri cercarono di convincere, e alla fine riuscirono a far muovere i loro cavalli verso le nuove posizioni, dietro la formazione ricostituita. E così, la folle giostra iniziò di nuovo.
+
+Ma questa volta nei guerrieri furono scoperte doti atletiche. Ognuno dei quattro soldati saltò sopra la schiena del bue con l’aiuto di un bastone appuntito; dopo ogni tale impresa, baciava la mano di una delle matrone, le quali non sembravano né compiaciute né infastidite, ma rimanevano indifferenti mentre ricevevano quel complimento; e dopo che ognuno aveva compiuto il proprio gesto, tornava al proprio posto.
+
+Nel terzo atto, i quattro servitori si posizionarono ai quattro punti cardinali del bue e, da nord, sud, est e ovest, scatenarono la sua rabbia adolescenziale. Il bue, in risposta, si muoveva pesantemente avanti e indietro, soddisfacendo di tanto in tanto il pubblico – e soprattutto la direzione – con un muggito piuttosto decente; intanto i suoi quattro avversari lo inseguivano a turno, emettendo grida in dialetto limosino (che può facilmente essere scambiato per castigliano) e, per aumentare ancora l’allegria della scena, i due cavalieri stimolavano i loro cavalli con la punta delle lance, facendoli avanzare al trotto goffo in cerchio attorno all’ovale.
+
+Il bue – non abituato a simili esercizi e infastidito dal movimento delle grandi stoffe rosse che per mesi erano state le sue “compagne” costanti e che lo annoiavano profondamente (se i buoi possono mai piangere, ) – muggì con rabbia e, in preda all’eccitazione, iniziò a saltellare freneticamente. I servitori lo chiamavano dolcemente con il suo soprannome mentre gli passavano accanto; ma per l’orecchio del pubblico, invece, gridavano forte incoraggiandolo ad agire, saltando agilmente in aria e compiendo incredibili acrobazie intorno a lui; mentre i cavalieri, nella misura in cui la stanchezza dei loro poveri cavalli lo permetteva, continuavano il loro giro circolare sulla sabbia.
+
+Proprio quando l'intera cerimonia raggiungeva il suo apice di intensità, i quattro gentiluomini vestiti con eleganza uscirono nuovamente con le loro trombe; risate gioiose e vivaci provenivano dai bambini di Tarascona. Gli adolescenti presenti in platea, che in precedenza erano stati rimproverati, imitarono il suono delle trombe, e questa volta anche le loro madri si degnarono di sorridere. Due valletti vestiti alla moda del XVIII secolo, ma con volti del XX secolo, condussero fuori l’animale legato con nastri; i quattro servitori si misero in fila dietro di loro, e gli due cavalieri furono gli ultimi ad lasciare l’arena. Mentre la processione si allontanava, le trombe tentarono di suonare la “Marcia dei Soldati” tratta da “Faust”, ma fallirono.
 
 
 
@@ -4704,6 +6566,38 @@ He was not a Cornish man for nothing, and his ancient Iberian blood was up; he k
 
 Another quarter of an hour he so passed, relieving his feelings now and then by an angry shout not unmixed with epithets proper to the occasion. But he was to sit and kick there with his short legs for nearly an hour before the door opened and yet another policeman entered, accompanied by a figure which promised some relief to the bewildered and unhappy Chief of the Official Opposition of Great Britain.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poi, come annunciato da un grande cartello, sarebbe arrivata la Festa dei Fiori. E Pongo si alzò. Guardò l’orologio: aveva mezz’ora per prendere il treno.
+
+Pongo non era un uomo originale, né creativo, né tantomeno uno che riflettesse profondamente. Non sapeva scrivere prosa; riusciva a malapena a leggerla in modo comprensibile. Non sapeva dipingere, disegnare, scolpire statue, progettare barche, né svolgere alcun lavoro di falegnameria; non sapeva nemmeno cucire, pulire una stanza o cucinare. Non era in grado di fare nulla. Pertanto, era un pessimo conoscitore delle questioni umane. Ma anche lui, nel profondo del cuore, sentiva che qualcosa non fosse andato per il verso giusto quel giorno; in qualche modo, non aveva trovato nulla da denunciare. Provava compassione per il bue, ma non nel modo giusto. A suo vergogna, provava più compassione per gli uomini: si chiedeva se ricevessero abbastanza soldi, se avessero cibo a sufficienza.
+
+Quella scena lo perseguitava mentre, con i suoi corti piedini e le braccia lunghe che si muovevano avanti e indietro, procedeva verso la stazione. Sembravano davvero così tristi e sfortunati. Gli tornarono in mente i pochi mesi trascorsi presso il Board of Works, e come si fosse davvero preoccupato che gli appaltatori pagassero regolarmente i lavoratori. Quasi aveva dimenticato tutto quando, di nuovo, quegli enormi manifesti apparvero sulle pareti: raffiguravano il “Signore del Gregge”, con i suoi occhi coraggiosi e la coda maestosa.
+
+“Maledetta bestia grassa!” esclamò. “Dovrò rimediare a tutto!”
+
+Ora, cercare di rimediare alle cose quando si conosce solo poco su di esse è molto difficile per un politico. Gli occhi di Pongo si rivolsero verso l’interno mentre rifletteva su quel problema; poi, di nuovo, si girarono verso l’esterno per osservare una processione insolita che avanzava lungo la strada calda.
+
+Mezza dozzina di uomini, per lo più vestiti da lavoratori e che avanzavano con passo incerto, erano scortati da quattro poliziotti posizionati ai loro lati. In testa al gruppo, altri due poliziotti guidavano un uomo molto anziano e ammanettato; l’atteggiamento e il modo in cui camminava rivelavano una frustrazione che stava trasformandosi in disperazione. Questo anziano era vestito in modo molto diverso dagli altri, e Pongo sembrò riconoscere, se non un connazionale, almeno qualcuno che si comportava come un essere umano. Il rumore dei passi dei poliziotti e quello degli altri uomini si avvicinavano sempre di più; il sangue di Pongo bollì nel vedere, tra loro, trattata con particolare brutalità, una donna alta e robusta. Pongo rimase fermo a osservare il gruppo mentre passava via, e per un momento non riuscì a credere ai propri occhi. Poi gridò ad alta voce. L’anziano era senza dubbio G. Quinlan Smith! Le parole che pronunciò, sebbene non fossero particolarmente ben scelte, provenivano certamente dal profondo del suo cuore.
+
+“Arrêtate! Arrêtate!” gridò, correndo verso di loro sulle sue gambe deboli. “Voi state portando via un uomo molto importante!” I due poliziotti in testa si fermarono e rimasero a bocca aperta; la parte posteriore della colonna si accalcò davanti alla testa del corteo. Uno dei prigionieri più umili cercò di scappare, ma fu catturato e gettato a terra; tutta questa confusione non fece altro che peggiorare l’umore degli ufficiali. Il brigadiere, che guidava l’intero gruppo, chiese a Pongo in termini molto scortesi cosa stesse facendo e se fosse impazzito.
+
+Man mano che il suo francese peggiorava e il suo vocabolario diminuiva, Pongo continuava a insistere sempre più ostinatamente.
+
+“Pericolo nel cestino di legno!”, gridò, mentre G. Quinlan aggiungeva con forza la sua conferma.
+
+“Tu credi davvero a queste storie, ragazzo!”, disse lui con toni che iniziavano ad assumere un’aria minacciosa, mentre ritrovava il coraggio alla vista di un amico. “Scoprirai cosa significa essere uno sciocco, se non la smetti!”
+
+Tutto ciò che ottenne per i suoi sforzi fu un forte strattone, del genere che non dovrebbe mai essere inflitto a una persona della sua età; intanto il brigadiere, fissando Pongo con uno sguardo severo, gridò con tono autoritario: “ROMPEZ!” A quel comando, le truppe disciplinate della Repubblica Francese sono abituate ad allontanarsi, poiché è proprio la parola utilizzata per congedarle. Ma Pongo, nel suo terrore, non riuscì a comprendere nulla se non il tono di voce del brigadiere.
+
+“Cer Moosieur, ”, cominciò, ma il poliziotto alto afferrò saldamente la sua mano sinistra per il colletto del cappotto e lo spinse di lato. Pongo non aveva mai subito un’umiliazione del genere in tutta la sua vita. Colpì alla cieca, ma due uomini armati gli si gettarono addosso. Prima ancora che potesse dire qualcosa, le sue mani furono legate saldamente dietro la schiena. Si unì quindi alla triste processione. In pochi minuti – durante i quali fece proteste rumorose e inutili – si ritrovò rinchiuso in una piccola stanza fredda, nella quale non c’erano altro che due sedie e un tavolo, presso il Palazzo di Giustizia. Mentre lui, nonostante la sua età avanzata, continuava a protestare con uguale vigore, il suo povero vecchio amico veniva portato via lungo un corridoio, dove le sue lamentele e le risposte arrabbiate dei guardiani riecheggiavano sonoramente.
+
+Pongo trascorse un quarto d’ora in preda alla furia.
+
+Non era certo per niente un uomo del Cornovaglia. Il suo antico sangue iberico si risvegliò in lui; prese a calci la porta con furia, strappò via le mani legate dietro la schiena, ma riuscì solo a farle male. Solo dopo circa venti minuti si sedette, esausto e cupo, e iniziò a riflettere sull’instabilità delle cose umane e sulla rapidità con cui gli incidenti possono accadere in questo mondo incomprensibile.
+
+Trascorse un altro quarto d’ora in quel modo, alleviando di tanto in tanto i propri sentimenti con urla furiose e insulti appropriati alla situazione. Ma dovette rimanere lì seduto a calciare con le sue gambe corte per quasi un’ora, prima che la porta si aprisse e un altro poliziotto entrasse, accompagnato da una figura che prometteva di portare un po’ di sollievo al confuso e sfortunato capo dell’Opposizione Ufficiale del Gran Bretagna.
 
 
 
@@ -4766,6 +6660,64 @@ The little doctor looked at him more curiously. This was better than the Emperor
 
 And while Pennybunt fumed, he wrote upon a scrap of paper, the policeman shouted down the corridor for a colleague, the message was borne away, and shortly afterwards yet another policeman entered, unfastened the Leader of the Opposition’s wrists, and stood by ready to fell him should he show any signs of wildness.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XV
+
+“È crudele tenere qualsiasi animale in cattività.” — La Duchessa di Batterssea, durante il Congresso delle Donne a Bradford, nel luglio 1907.
+
+La figura che entrò nella prigione di Pongo insieme al poliziotto era quella di un buffo vecchietto vestito con abiti confezionati, rasato secondo la moda francese (e anzi piuttosto in voga un tempo), con baffi imperiali. Eppure, c’era qualcosa in lui che era indubbiamente inglese. Con quanta gioia Pongo ascoltò quelle parole semplici pronunciate da quelle labbra, pur essendo “francesizzate”, ma pur sempre native!
+
+“Mio caro signore, mio caro signore, vediamo cosa riesce a fare! Si calmi!”
+
+“Se non mi tolgono queste cose orribili dalle mani, ”, balbettò Pongo.
+
+“Certamente, mio caro signore, certamente,” disse il piccolo vecchio dottore (poiché tale era la professione dello sconosciuto), senza fare alcun gesto o dare alcuna indicazione che potesse confermare le sue parole. “Ma si calmi! La prego, si calmi! La violenza non porta a nulla di buono!”
+
+“Dite a quel tizio di liberarmi le mani,” disse Pennybunt con determinazione.
+
+“Certamente!” disse il piccolo dottore nervosamente, “certamente! Senza alcun problema!” Si girò e parlò qualche parola in ottimo francese con l’agente di polizia, che però scosse solo la testa, dicendo di non avere ricevuto alcun ordine. “Mio caro signore,” riprese il piccolo dottore, “senza dubbio si tratta solo di un malinteso. Ma calmiarsi. Questi attacchi” – perché in quel momento il sangue iberico presente in Pennybunt stava nuovamente facendosi sentire – “questi attacchi non fanno altro che suscitare ulteriori sospetti. Sono sicuro che riusciremo a spiegare tutto. Spiegarlo completamente,” aggiunse, annuendo cordialmente. “Questo posto è nuovo per lei; forse ha preso qualcosa che l’ha turbata. Venga, venga!”
+
+“Lo farai o non lo farai,” gridò Pongo, “di fargli togliere queste maledette cose dalle mie mani?” Poi, all'improvviso, perdendo tutta la [[Hypocrisy|ipocrisia]] e la riservatezza che sono parte essenziale del suo mestiere, guardò il piccolo dottore negli occhi e disse con voce più bassa e concentrata: “Sai chi sono?”
+
+“Certamente,” disse il piccolo dottore, del tutto casualmente e con un'espressione terrorizzata. “Certamente. Si calmi, caro signore, si calmi.” Si aspettava davvero che il suo compatriota infuriato annunciasse di essere l’Imperatore della Cina o il creatore dell’universo. Aveva esperienza in casi del genere, a volte quelle reazioni erano solo temporanee, forse a causa del caldo sole del sud, del vino forte, o di altre ragioni simili.
+
+“Il mio nome,” disse Pongo con voce solenne, imprimendole tutta la dignità che gli anni di intrighi gli permettevano, “il mio nome è Pennybunt.”
+
+“Certamente,” disse il piccolo dottore in tono rassicurante, “certamente.”
+
+“Ma tu, stupido vecchio idiota, ”, gridò Pennybunt.
+
+“Oh, mio caro signore,” disse il dottore, alzandosi in parte dalla sedia e sollevando una mano in segno di scusa.
+
+“Sì, ma sei davvero un vecchio sciocco,” disse Pennybunt, con un po’ più di ragionevolezza. “Sei inglese, e incontri un altro inglese che, suppongo, ti è stato affidato per essere interrogato; lo trovi in una cantina, e continui a parlare come una infermiera in ospedale. Ti dico: il mio nome è Pennybunt.”
+
+“Certamente,” disse di nuovo il vecchio dottore.
+
+“Ma che cosa c’entra esattamente ‘a tutti i costi’ con questa faccenda?” sbottò Pongo arrabbiato. “Io sono il signor Pennybunt, membro del Parlamento,” aggiunse, perché l’[[Hypocrisy|ipocrisia]] di una vita intera era ancora troppo forte in lui per permettergli di dire subito tutta la verità: che lui era proprio quel Pennybunt che aveva ricoperto il ruolo di Segretario di Stato per molti anni, e prima ancora presso l’Ufficio dell’India; che era il leader dell’Opposizione ufficiale; che l’intento del Partito era quello di farlo diventare Primo Ministro entro circa tre anni; e che, in generale, se veniva trattato male, avrebbe potuto causare molti problemi alle persone coinvolte.
+
+“Il membro del Parlamento!”, disse il piccolo dottore aprendo gli occhi. “Non è forse un parente di quel signor Pennybunt, il leader del mio partito?”
+
+“Non so cosa intendi per ‘la tua’ festa”, iniziò Pongo, “ma…”
+
+“La mia famiglia,” intervenne il piccolo dottore con grande dignità, “è sempre stata fermamente contraria al Programma Nazionale!”
+
+“Certamente!” disse il signor Pennybunt. “Davvero? Beh, se volete saperlo, io sono il leader dell’Opposizione.”
+
+Il piccolo dottore lo guardò con ancora più curiosità. Questo era meglio dell’Imperatore della Cina, ma d’altra parte poteva anche rivelarsi più complicato.
+
+“Sì, signor Pennybunt,” disse con grande cortesia, “certamente.” Poi aggiunse quella sottile miscela di rispetto e cautela tipica di un professionista che teme che fidarsi troppo poco possa rivelarsi altrettanto pericoloso quanto fidarsi troppo: “Caro signor Pennybunt, farò tutto ciò che è necessario. Per favore, però, mi dica esattamente cosa è successo; mi spieghi con precisione quali sono stati i fatti.”
+
+“Quello che è successo,” disse Pennybunt, riprendendosi e parlando con enfasi e precisione, “è che questi idioti della polizia hanno arrestato il signor Smith, il finanziere americano, chissà perché; l’ho incontrato mentre veniva trascinato ammanettato tra due agenti per le strade di questa città, dove per caso stavo aspettando un treno; ho cercato di spiegare loro l’errore che avevano commesso in francese, una lingua che fortunatamente conosco, e la loro unica risposta è stata, ” – e qui il suo umore peggiorò di nuovo – “un attacco, signori, un vero e proprio attacco, qualcosa che non verrebbe mai tollerato, ”
+
+“Certamente! Certamente!” disse il piccolo dottore interrompendolo, “Capisco perfettamente. Senza dubbio, signor Pennybunt, avrà con sé una carta da visita, vero? Non insisterei,” continuò rapidamente, “se non fosse per il fatto che queste persone con cui ho trascorso gran parte della mia vita, ehm, esercito in questa città, ho anche una laurea in francese, danno grande importanza alle carte da visita.”
+
+“Fate sì che mi liberi le mani,” disse Pennybunt con determinazione.
+
+“Certamente,” disse il piccolo dottore, “ci vorranno qualche minuto.”
+
+Mentre Pennybunt era furioso, scrisse su un pezzo di carta; il poliziotto chiamò un collega lungo il corridoio. Il messaggio venne portato via, e poco dopo arrivò un altro poliziotto che liberò i polsi del Leader dell’Opposizione, restando pronto a immobilizzarlo non appena mostrasse segni di aggressività.
 
 
 
@@ -4845,6 +6797,80 @@ All of which outburst did but the more convince the Juge d’Instruction that he
 It did not take long to confirm that conviction. A perfect hail of telegrams began to fall upon Tarascon, its Sub-Prefect, its Chief of Police, its station-master, its hotel-keepers, and the Juge d’Instruction himself. One cannot arrest millionaires with impunity. In well-governed countries they are never arrested at all, and even in a wild [[Democracy|democracy]] to arrest them is Mug’s game.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Pennybunt incrociò le braccia rigide davanti a sé, guardò con indignazione le sue mani gonfie e i segni rossi scuri intorno ai polsi, poi infilò una mano in tasca e ne tirò fuori un portafoglietto.
+
+“Questa è la mia carta,” disse, porgendola al dottore inglese.
+
+Il piccolo dottore lo osservò con interesse, strizzando un occhio e avvicinando molto il cartone alla sua faccia.
+
+“Esattamente, signor Pennybunt,” disse, “esattamente, il club Athenaeum, proprio così.”
+
+“Beh,” disse Pennybunt, “cosa intendi fare al riguardo?”
+
+“Il signor Smith ha con sé delle prove della sua identità?” chiese il dottore con cortesia, pensando tra sé che Pennybunt di certo non ne aveva.
+
+“Come dovrei saperlo?” esclamò Pennybunt. “Ma se non lo lasciano entrare subito, ci saranno problemi.”
+
+“Bene,” disse il vecchio signore alzandosi, “vi dico cosa posso fare, signor Pennybunt. Prima di tutto, posso constatare che state bene. Vi darò una certificazione a tal proposito.”
+
+“Cosa andrai a certificare?” disse Pennybunt con rabbia.
+
+“Oh no, non è quello che state pensando,” disse il dottore scusandosi, “al contrario, è esattamente il contrario. Sarà completamente libero, assolutamente libero, mio caro signore. Spiegherò l’errore. Vi certificherò sano di mente. Del tutto sano di mente. Sarà liberato, signore!”
+
+Pongo si arrabbiò. “E che ne è del signor Smith?” disse in tono piuttosto pomposo.
+
+“Beh,” disse il piccolo dottore, esitando (il magistrato gli aveva raccontato tutta la storia), “vedete, signore, la situazione del signor Smith è un po’ imbarazzante. Sulle sue proprietà sono state trovate cose rubate.”
+
+“Che cosa!” gridò Pongo.
+
+“Mio caro signore! Mio caro signore!” riprese a dire il piccolo dottore con quel tono esasperante che mandava Pongo fuori dai gangli. “Certo che è tutto un errore! Senza dubbio qualche individuo senza scrupoli ha approfittato di Mr. Smith. Ma eccolo lì, il problema. E in questo paese, come sapete, le autorità sono molto sospettose riguardo a ciò che definiscono materiale incriminante, ”
+
+“Di cosa si trattava quella proprietà?” chiese Pongo, confuso.
+
+“Capisco,” disse il dottore, “che si trattava di una cucchiaiata.”
+
+“Oh!” disse Pennybunt. La parola “cucchiaio” fece improvvisamente irrompere una luce intensa; ora vedeva tutto chiaramente. “Credo di poterci riuscire,” aggiunse.
+
+È diventata una vera e propria moda criticare i membri della Camera dei Comuni; ho già dimostrato che ci sono occasioni in cui possono elaborare piani efficaci. Pongo ne ha appena fatto uno: ha chiesto se quel giovane medico potesse organizzare un incontro tra di lui e il prigioniero anziano.
+
+“Senza dubbio posso farlo, ma vorrebbero che fossi lì,” disse il medico.
+
+“Oh, non avrebbe importanza,” disse Pennybunt, “assolutamente nessuna importanza. Anzi, sarebbe ancora meglio. Ti convincerebbe,” sogghignò.
+
+Il piccolo dottore andò a chiedere permesso, lo ottenne, prese Pennybunt con sé lungo il corridoio e finalmente lo portò nella stanza dove il signor Smith, completamente esausto per la fatica ma ancora cupo, stava subendo ulteriori interrogatori. Il suo vecchio viso si illuminò un po’ quando vide Pongo, ma era ancora molto stanco.
+
+“Signor Smith,” gridò Pongo con rispetto nell’orecchio dell’uomo anziano, “accetterà di seguire il mio consiglio? Spero davvero che lo faccia. La situazione è molto difficile.”
+
+# "Che cos’è?" disse il signor Smith
+
+“Prima di tutto, avete delle prove d’identità?”
+
+“Certamente,” disse il signor Smith, “ho mostrato tutto a questi maledetti idioti.”
+
+“Beh, beh, non importa,” gridò Pongo con un tono il più rassicurante possibile, “lasciami vedere i documenti.”
+
+“Li hanno,” disse Smith, indicando con il suo vecchio mento appuntito il giudice e l’interprete, “e hanno anche la cucchiaiata.”
+
+“Esattamente,” rispose Pongo. Chiese al Giudice Istruttore il permesso di trascrivere, a beneficio dell’uomo anziano, alcune parole che l’interprete avrebbe garantito fossero corrette. Quello che scrisse era una proposta: il signor Smith sarebbe stato disposto a fornire prove contro King? Aveva prove concrete riguardo all’identità di quest’ultimo; le accuse mosse contro di lui erano ridicole. Sarebbe stato disposto a testimoniare contro quel farabutto che si spacciava per sua complice sotto mentite spoglie femminili?
+
+Il signor Smith avrebbe fatto qualsiasi cosa pur di tornare alla civiltà, lontano da questo orrore.
+
+Su sua indicazione, il piccolo dottore scrisse giù molte verità che potevano essere confermate da dettagli corroborativi; e il signor Smith, seguendo le migliori tradizioni di Wall Street, consegnò volentieri Bertot, suo collega e servitore, che dopotutto aveva cercato (in modo piuttosto goffo) di tradirlo, e forse non meritava pietà. Ma non sto scrivendo questo libro per fare distinzioni tra diversi tipi di ladri.
+
+Indicò dove si potevano trovare le rovine della carrozza, dove aveva incontrato Bertot sul treno, com'era vestito, e perché la cucchiaiata era in vendita; presentò anche il telegramma che aveva ricevuto, insomma tutto ciò che poteva contribuire a formare una storia coerente.
+
+Solo un dettaglio insignificante Mr. Smith decise di omettere: la sua stessa complicità, la sua conoscenza del carattere del suo compagno di prigione e tutta la storia relativa alla ricerca di quel tesoro che lo aveva portato a una situazione così deplorevole. Secondo le sue dichiarazioni, tutto ciò che sapeva era che la cucchiaiata gli era stata offerta in vendita, che era venuto nel sud per comprarla (e naturalmente un vero esperto nascondeva simili cose, ) — il giudice istruttore fu molto comprensivo in questo momento — e che mentre negoziava l’acquisto, quella signora (come lui supponeva fosse) lo aveva portato a ballare quel ballo di cui ormai tutta la gente conosceva i dettagli.
+
+Per quanto riguarda la descrizione che di lui viene data dalle testimonianze di Jean Jacques Bertot, essa era già risultata inaffidabile.
+
+Dire che Bertot fosse infastidito quando sentì questa dichiarazione sarebbe un modo molto blando per descrivere la sua furia gallica. Scosse il pugno, sbavava di rabbia; uscendo dal carcere minacciò apertamente (impegnandosi così automaticamente a farlo) di trovare quell’uomo, Smit’, e di strangolarlo con le sue stesse mani. Si pentì soltanto che Smit’, essendo così anziano, potesse morire prima che lui riuscisse a realizzare il suo desiderio.
+
+Tutto ciò non fece altro che convincere ulteriormente il Giudice Istruttore che Smith fosse davvero colpevole.
+
+Non ci volle molto per confermare quella condanna. Una pioggia di telegrammi iniziò ad arrivare a Tarascon: per il viceprefetto, il capo della polizia, il direttore della stazione ferroviaria, i proprietari degli hotel, e persino per il giudice istruttore stesso. Non si possono arrestare milionari senza subire conseguenze. Nei paesi ben governati, in genere non vengono nemmeno arrestiti; e anche in una democrazia caotica, arrestarli è un’impresa rischiosa.
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_03" data-title="Pongo and the Bull — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4900,6 +6926,58 @@ The old man nodded gently, suggesting a change of detail here and there; the one
 
 In Paris at the office of Smith, Fischer and Co., in the big new building in the Rue du Quatre Septembre, the business was concluded, and the reader should be told how genuinely glad was Pongo that the honour of his country had been saved, for like all politicians poor Pongo took refuge from the vileness of his trade in a very real patriotism.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nel giro di poche ore, il prefetto stesso arrivò di fretta su una splendida auto e trattava tutti i suoi subordinati come se fossero un gruppo di studenti delle scuole elementari.
+
+A Parigi, sia l’ambasciata inglese che quella americana avevano cambiato sede.
+
+Il Ministro della Giustizia, che personalmente aveva sperimentato la vita in prigione da giovane e quindi poteva comprendere le difficoltà del signor Smith, inviò istruzioni urgenti e estremamente severe.
+
+Il Ministro dell’Interno (un speculatore ebreo di Tunisi) fu preso da un terrore tale quando seppe che Smith era stato arrestato – Smith, che comandava il gruppo incaricato dei nitrati! – che si ammalò gravemente, fisicamente e mentalmente. Il suo subordinato inviò altri telegrammi, e questi erano davvero molto severi.
+
+L’Vice-Segretario, il cui compito era occuparsi della Polizia Segreta, causò un vero vortice di cambiamenti e licenziamenti all’interno del servizio; in soli ventiquattro ore, molte vite umili e carriere insignificanti furono distrutte, a sufficienza per soddisfare la vendetta di un dio.
+
+Comunque sia, Pennybunt e Smith erano liberi; e l’anziano finanziere, un uomo che non si distingueva per le emozioni più profonde, provò una sorprendente gratitudine nei confronti dei due uomini che lo avevano salvato.
+
+Questo senso di gratitudine si manifestò innanzitutto con un’offerta diretta di una grossa somma di denaro che Pennybunt ebbe la saggezza di rifiutare, mentre il piccolo dottore ebbe la saggezza di accettarla.
+
+Si manifestò sotto forma di eleganti regali su larga scala alle persone dell’hotel, al capostazione e all’unico poliziotto che, essendo più corrotto dei suoi colleghi e conoscendo un po’ il mondo, aveva individuato i segni della ricchezza del viaggiatore e gli aveva concesso alcuni piccoli vantaggi durante il lungo viaggio verso Tarascon.
+
+Si manifestava soprattutto in una devozione particolare verso Pennybunt stesso: l’uomo anziano, in modo un po’ confuso, immaginava che Pongo fosse venuto personalmente fino lì per assicurarsi della sua liberazione. E Pongo non si preoccupò nemmeno di smentirlo.
+
+Una sola cosa preoccupava il signor Smith: era la cucchiaiata.
+
+“Pensi davvero,” chiese nervosamente e a bassa voce a Pongo, “che se facessi capire chiaramente che ne varrebbe la pena, eh?” Erano seduti nell’hotel in attesa del treno espresso per Parigi.
+
+“Non lo so,” gridò Pongo, nervoso. Non voleva essere coinvolto in simili faccende.
+
+“Il direttore dell’hotel parla inglese?”, chiese il signor Smith.
+
+“Forse, non lo so,” disse Pennybunt, ancora nervoso.
+
+Il vecchio Smith scomparve. Senza dubbio era andato a cercare il direttore; in ogni caso tornò in uno stato d’animo molto più sereno. Pennybunt, invece, fu un po’ preoccupato quando vide il direttore attraversare la strada diretto al Palazzo di Giustizia. Dopo alcuni minuti il direttore tornò, e il signor Smith uscì di nuovo per interrogarlo; poi tornò a casa radioso. Infine, tutti andarono alla stazione.
+
+Il piccolo dottore venne ad accompagnarli; due o tre di quei miseri funzionari minori, ancora spaventati di perdere i loro stipendi, vennero sul marciapiede a offrire scuse piene di lacrime; il capostazione riservò una cuccetta nel vagone letto e rimase lì, con la testa scoperta, inchinandosi ripetutamente per dimostrare la sua preoccupazione, fino a quando il treno espresso non partì.
+
+Poi, mentre il treno aumentava la velocità lungo la valle del Rodano, Pongo colse l’occasione per affrontare l’importante argomento del prestito.
+
+Deve stare attento, altrimenti rovinerà tutto.
+
+Ma l’uomo anziano sembrava così allegro e di buon umore che lui stesso si meravigliò della propria esitazione; fino a quando, dopo aver percorso forse mezz’ora, G. Quinlan Smith, guardandosi intorno con attenzione in tutte le direzioni e persino spiando tra le tende della cabina che la separava dalla parte principale del vagone per assicurarsi della loro privacy, tirò fuori dalla tasca un piccolo pacchetto, lo aprì. E lì, davanti agli occhi stessi di Pongo, apparve la famosa cucchiaia inglese in argento georgiano a coda di topo: quell’oggetto che aveva causato tanto male ora sembrava aver cambiato idea e desiderare invece fare del bene.
+
+“Questo cucchiaio,” lesse Pongo, “fu utilizzato dal defunto Conte di Beaconsfield per mescolare il suo tè durante la visita a Les Charmettes, all’epoca proprietà di Jeremiah Boulger, Esq., J.P.”
+
+C'era quell'iscrizione, e apparentemente un'influenza ancora forte esercitava su “Rattailed Spoon”.
+
+Il finanziere fece l’occhiolino e, mentre lo faceva, infilò il dito ossuto nel fianco di Pongo. Avvolse di nuovo con cura il proprio “tesoro”, lo mise in una tasca interna chiusa da due bottoni, e senza dubbio avrebbe voluto anche chiuderla a chiave. Emise poi un sospiro di totale soddisfazione, tipico di una persona anziana.
+
+Il momento di Pennybunt era arrivato. Lo fece in modo intelligente e attento, parlando come se si trattasse davvero di un argomento importante che valeva la pena affrontare ora che avevano del tempo libero sul treno, perché una volta arrivati a [[London|Londra]] ognuno di loro sarebbe stato molto impegnato.
+
+L’uomo anziano annuì dolcemente, suggerendo qualche modifica qua e là nei dettagli; uno poteva urlare liberamente nella privacy della sua suite, l’altro quindi poteva sentire. E prima ancora di arrivare a Lyons, il prestito era al sicuro.
+
+A Parigi, nell’ufficio di Smith, Fischer e Co., nel grande edificio nuovo situato in Rue du Quatre Septembre, l’accordo fu concluso. Dovrebbe essere detto al lettore quanto fosse sinceramente felice Pongo che l’onore del suo paese fosse stato salvato; infatti, come tutti i politici, anche il povero Pongo trovava rifugio dalla malvagità della sua professione in un vero e proprio patriottismo.
 
 
 
@@ -4966,6 +7044,68 @@ Dolly was not yet at his ease, and after dinner Mary Smith tried to make him tal
 
 They were in the billiard-room, Pongo was walking round the table, and Victoria Mosel was his partner. She did all manner of amusing things; she chalked the end of Pongo’s nose; she sprawled full length over the green cloth; she caught the Leader of the Opposition a side-whack with her cue; never had she been fuller of subtle sprightliness. And Mary Smith, trying to make Dolly talk in a dark corner, asked him if he had not wondered whether those two should not marry?
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XVI
+
+NEL TRENTE: Hai il tuo biglietto? [Avay voo voter beeyay.]
+
+Sì: — Ho il mio biglietto. [Uff, che sollievo.]
+
+Hai abbastanza soldi? [Avay vooz assay dahrjong.]
+
+No: Non ho abbastanza soldi. [Non ho denaro a sufficienza.]
+
+Posso prestartene alcuni? [Ti prego, dammeli.]
+
+Sì: certamente! [Uhm, non ne sono sicuro.]
+
+Libretto di frasi per viaggi in Francia.
+
+Morire per la propria patria è una cosa meravigliosa e onorevole.
+
+Raccogliere un prestito per farlo non è affatto qualcosa da disprezzare; e Pongo fu davvero molto felice quando, quella sera a Parigi, seppe di essere riuscito nel suo intento.
+
+Acquistò i giornali inglesi in boulevard e li lesse con un senso di ironica soddisfazione. L’assemblea del Parlamento, prevista dopo la pausa, era stata rinviata. Riusciva quasi a indovinare, ancora prima di aprirli, cosa avrebbero detto ciascuno di quei giornali.
+
+La Luna sottolineò la necessità di tali cambiamenti insignificanti, congratulò il Primo Ministro per le vacanze meritatissime e comprese che lo stesso Pongo aveva tratto grande beneficio dal suo breve soggiorno sulla Costa Azzurra: ogni giorno, giocare a golf con impegno (ne pubblicarono una foto e un'intervista) gli aveva restituito la piena forma fisica. La Luna era certa che questioni del genere andassero al di là delle divergenze politiche tra loro, e pregò Pongo di accettare le sue sincere congratulazioni per la sua guarigione. Ora, ricordando come si fosse opposto con fermezza all’idea che il proprietario della Luna pagasse a rate il suo titolo di barone, Pongo ne fu profondamente compiaciuto mentre leggeva quelle parole.
+
+Il “Capon” era in un umore diverso: la sua proprietà era infatti passata nelle mani di persone completamente diverse da quelle che ne avevano posseduto il controllo in precedenza. Il proprietario del “Capon” non aveva alcun legame di parentela con colui che possedeva la “Luna”; l’unico legame tra loro era rappresentato dal matrimonio della sorella di un uomo con il nipote dell’amico più anziano dell’altro. Pertanto, il “Capon” rimproverò aspramente il Primo Ministro per aver prolungato le vacanze di Pentecoste; insistette fermamente sul fatto che gli affari del paese non potessero essere fatti dipendere dalle comodità dei politici, per quanto influenti fossero; e avvertì Pongo che, sebbene il suo partito (al quale il “Capon” offriva un servizio leale e incondizionato) fosse disposto a seguire il proprio leader senza esitazioni, era giunto il momento di colpire quell’amministrazione infame sotto la cui guida l’Inghilterra aveva sofferto per così tanti mesi. Ammisero pienamente la necessità personale di Pongo di prendersi una vacanza; ma si chiesero se un vice competente, come Hawkins o Jenks, non avrebbe potuto occupare quel ruolo al suo posto. Il tempo stringeva, e l’opinione pubblica non avrebbe aspettato.
+
+Tutto quel genere di cose rappresentava soltanto elementi secondari e superflui. Pongo, con molta più ansia, si rivolse alle colonne dedicate alla città presenti nei due giornali, ma lì trovò meno consolazione. Lì c'era una bellissima unità di vedute: da un lato, alcune critiche superficiali; dall'altro, un sostegno totale all’idea di utilizzare i fondi del prestito indiano per opere di aiuto sociale; opere concrete, pratiche e sensate finalizzate al benessere della popolazione, supportate da tutto il buon senso imprenditoriale del paese. E, cosa ancora più importante, supportate da persone che, anche se si poteva dissentire con loro in termini di ideologie socialiste, erano amministratori esperti e capaci sia a livello comunale che nazionale; uomini attenti ai dettagli, amministratori pratici, insomma.
+
+Era chiaro che il prestito veniva considerato qualcosa di scontato dalla comunità umana, essendo destinato esclusivamente ai lavori di assistenza, e che Peabody Yid era coinvolto in questa operazione. Non c’era tempo da perdere; Pongo doveva tornare a casa immediatamente!
+
+Strappò il vecchio Smith dalle delizie di quella capitale straniera; e nella mattina di venerdì della settimana di Pentecoste, dopo un viaggio notturno che nessuno avrebbe dovuto far subire a quel milionario invecchiato, tra tante altre prove difficili, il leader dell’Opposizione e il finanziere americano arrivarono a [[London|Londra]], proprio come le navi raggiungono il porto dopo tempeste marine violente.
+
+Il vecchio signor Smith andò a casa di Mary per trascorrere la mattina lì. Pongo andò al suo club e trovò proprio le lettere che si aspettava. Il Parlamento avrebbe riunito lunedì, e Dolly insistette particolarmente affinché Pongo andasse subito a Habberton. Mary Smith avrebbe insistito con suo zio; ci sarebbe stata la solita compagnia. Anche Dolly stesso sarebbe stato lì, e domenica si potevano sistemare tutte le ultime cose necessarie.
+
+* * *
+
+Che meraviglia è tornare dopo aver attraversato le onde dell’Atlantico, grigie e coperte di schegge a causa delle tempeste di aprile, e vedere l’erba verde sui prati dei Narrows!
+
+Che cosa meravigliosa è tornare a nord attraverso i mari domestici, lasciando quelle aride terre africane; dopo aver attraversato le zone tropicali e il fragore del vento sud-occidentale, con il desiderio di rivedere la propria casa, ammirare le luminose cime degli alberi innevati bagnate dal sole, entrare nel golfo di Southampton e, amare gli alberi inglesi!
+
+E che cosa meravigliosa fu per Pongo poter finire felicemente (dopo tanti giorni trascorsi in difficoltà!) in quel confortevole e storico luogo chiamato Habberton, e sapere che tutto era finalmente al sicuro e che quella difficile “partita” era conclusa.
+
+Quella sera di sabato, Habberton cenò in un'atmosfera sobria e gioiosa; Mary Smith disse a Dolly, che era seduta alla sua destra:
+
+“Il Peabody Yid voleva venire!”
+
+“Sta venendo?” chiese Dolly con ansia.
+
+“Non potevo rifiutarglielo,” disse Mary, “ma poi è sorto un imprevisto. Lui ha detto che Peggy era davvero interessata all’idea che lui invitasse Moss e uno o due altri membri del gruppo degli ‘Straights’ a cena. È rimasta in città proprio per questo motivo. Gli ‘Straights’ fanno finta di non uscire dalla città nei fine settimana.”
+
+“Oh!” disse Dolly, nervosamente.
+
+“Non preoccuparti,” rispose Mary a bassa voce, “tutto è sistemato, grazie al cielo!”
+
+Ma Dolly conosceva bene il mondo, e conosceva ancora meglio il Duca di Battersea: ora ne sapeva più di quanto avesse mai sognato di poter conoscere riguardo a una persona del genere, il Duca di Battersea! Non si sentiva a suo agio.
+
+Dolly non si sentiva ancora a suo agio; dopo cena, Mary Smith cercò di farlo parlare, ma senza successo.
+
+Erano nella sala da biliardo; Pongo camminava intorno al tavolo e Victoria Mosel era la sua compagna di gioco. Faceva ogni sorta di cose divertenti: disegnava con la gesso la punta del naso di Pongo, si stendeva completamente sul tappeto verde, colpiva di sorpresa il leader dell’opposizione con la mazza da biliardo. Non era mai stata così piena di vivacità e spirito. E Mary Smith, cercando di far parlare Dolly in un angolo buio, gli chiese se non avesse mai pensato che quei due dovrebbero sposarsi.
 
 
 
@@ -5067,6 +7207,102 @@ You’re glad that the right honourable gentleman is in his place, &c.! — By t
 Victoria Mosel had upset her glass across the cloth of the billiard table, and they were all screaming with laughter. Business was over and settled, and there was time for a little pleasure before they must all sleep. But before they slept Dolly had made his appointment with Pongo for the morning.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dolly era impegnata in altre cose. Rispose con indifferenza: “Oh sì!” Era negligente (un amico perfido, ) riguardo al futuro che potesse attendere Pongo se il suo terribile piano avesse avuto successo.
+
+“Dolly,” disse Mary, con un tono ancora più basso di quello che aveva usato fino ad allora, “sei preoccupata per qualcosa.”
+
+“Credo proprio di sì,” disse Dolly.
+
+“Che cos’è?” chiese Mary con un gesto affettuoso.
+
+“Oh, è tutto questo caos,” disse Dolly con stanchezza; “quell’antico Battersea, mia moglie sciocca, e poi tutte quelle situazioni complicate. Mi dà la nausea,” aggiunse con rabbia, come se per un momento l’irritazione lo avesse strappato alla sua vecchia stanchezza. “Vorrei gettare via tutto!”
+
+“Lo hai detto ventiquattro anni fa, Dolly,” ricordò Mary sussurrando, “subito dopo le elezioni di Brixton. Hai detto che avresti smesso allora. Ma non l’hai fatto, Dolly, ”
+
+“No“, disse dolcemente Dolly, anch’essa profondamente commossa. “Mi avevi detto di non farlo.“
+
+“Beh, io ho sempre ragione,” disse Mary; fece per alzarsi e andare a parlare con un altro gruppo. Dolly le mise rapidamente una mano sul braccio.
+
+“Mary”, disse con vera angoscia, “cosa faresti tu?”
+
+“Cosa dovrei fare?” disse Mary, guardandolo con gli occhi spalancati in quell’angolo buio. Nella penombra sembrava giovane.
+
+“Oh, lo sai!” disse Dolly.
+
+“No, non lo faccio,” disse Mary in modo testardo.
+
+“Beh, voglio dire, ”, disse Dolly, agitandosi, “eccomi qui, e voi non avete nemmeno un telefono in questo posto orribile! Come faccio a sapere cosa Peggy e quel vecchio maiale di [[London|Londra]] stiano combinando con i ‘Straight’ per domani?”
+
+“Davvero, non riesco a capire,” rispose Mary con dignità. “Dovresti conoscere tua moglie meglio di me. Cosa intendi dire?”
+
+“Oh, Mary,” disse Dolly con tono supplichevole, “vai via, per favore, e non comportati in modo stupido. Gli Straight se ne andranno domani.”
+
+“Certo!” disse Mary con calma. “Tutti lo sanno: anche i giornali Habberton News lo sanno!” E rise. “Ho invitato a cena il piccolo redattore qui presente, quando cercavo di far assumere quel giovane di Niam, com'è che si chiama, da Habberton durante le ultime elezioni. Il piccolo redattore! Una volta era un barbiere. È stato davvero divertentissimo. Devo raccontarvelo.”
+
+“Ascolta bene, Mary,” disse Dolly con impazienza, “e non deviare il discorso su Niam, il suo ragazzo, i barbieri e il ‘Habberton News’. Non sono le persone di Straits che contano, ma quelle di Pongo.”
+
+“L’Opposizione… Beh, sono tutti a posto”, disse Mary. “Non vogliono che ci siano elezioni”.
+
+“Sì,” disse Dolly, “ma in questi giorni quel tizio di Peabody ha continuato a lavorarci sopra. E cosa ancora peggiore, ha cercato di ingannare anche il pubblico. Non so proprio come le persone siano arrivate a credere che quei prestiti siano destinati esclusivamente ai progetti di assistenza sociale. Sarà davvero molto difficile far loro capire la verità. Soprattutto ai broker. E poi, ci sono anche i titoli di Stato. Hai letto i giornali?”
+
+Mary ammise di non averlo fatto, e nel suo tono c'era un dolce rimprovero mentre ricordava a Dolly che proprio lui, tra tutte le persone, non avrebbe dovuto leggere i giornali.
+
+“Beh, li ho letti questa settimana,” ammise con malinconia, “e in tutti si dice chiaramente che il prestito indiano è destinato a lui. Alcuni fanno anche allusioni a Battersea, e uno di quegli idioti lo ha persino chiamato per nome.”
+
+“Non c’entra niente con te!” disse Mary con calma. “Non devi mica andare alla Camera dei Comuni per dire al Popolo Sovrano che hai ingannato quegli ebrei, e che quel caro vecchio zio ha ottenuto il prestito.” Mentre lo diceva, i suoi occhi si posarono affettuosamente su George Quinlan Smith, che sedeva lì sorridendo stupidamente, fingendo di ascoltare le chiacchiere di una vicina molto carina la cui padre aveva addirittura triplicato il proprio patrimonio azionario in tre occasioni diverse, e ora si era stabilito come signore della tenuta di Ashington accanto a loro.
+
+“No,” disse Dolly, “non è così. Non capisci. Pongo va bene, e anche il suo gruppo politico. Ma il suo partito, maledizione, dovrò convincerli io stessa. Ormai tutti considerano queste opere di assistenza come qualcosa di scontato. È un vero problema! Se non dico nulla ora, dovrò intervenire di nuovo più tardi, quando i membri del gruppo opposto inizieranno a fare obiezioni; e se dichiaro subito che il prestito è gratuito e che non ci saranno alcune opere di assistenza aggiuntive, quelli dell’opposizione potrebbero decidere di votare contro. E in quel caso, la situazione per Pongo diventerebbe davvero disastrosa.”
+
+“Non se riesce a gestirli,” disse Mary con lo stesso tono di una donna che si annoia ad ascoltare un’altra donna parlare dei suoi domestici o dei suoi figli. “Se Pongo non è in grado di gestire la sua festa, allora a cosa serve?”
+
+“È proprio di questo che mi preoccupo, Mary,” disse Dolly con tono patetico. “Forse potresti aiutarmi, Mary, davvero, potresti!”
+
+Mary era piena di tenerezza. “Vuoi che ti insegni a gestire il tuo negozio?” disse.
+
+“Più o meno,” disse Dolly.
+
+“Davvero, Dolly, dopo tutti questi anni! Beh, se fossi in te, non lascerei affatto Pongo lì quando spari.”
+
+“Non lo faresti?” disse Dolly, interessata.
+
+“Per la mia anima, Dolly. Non è certo la prima volta, né tantomeno la centesima, che organizzi uscite ed entrate per Pongo!”
+
+“M-ma no,” disse Dolly, “però sto chiedendo.”
+
+“Bene,” disse Mary rapidamente e con decisione, “poiché sei troppo stordito per lavorare da solo, te lo dirò io: è abbastanza semplice. Alzati e parla male di Pongo. Parla male di lui come se fosse il Diavolo. La Casa ti permetterà di parlare delle sue gambe, o di suo caro vecchio padre, il dentista?”
+
+Dolly scosse la testa. “No,” disse, “li odiano quel genere di cose, ma posso occuparmi dei dettagli.”
+
+“Bene,” continuò Mary, affrettandosi a finire, “ecco che insulti Pongo. Non parlare di cose di cui non dovresti parlare, ma insultalo duramente. Solo non parlarne in relazione al prestito. Poi, nel momento giusto, arriva Pongo e ascolta tutta la tua dichiarazione.”
+
+Siete contenti che quel nobile signore sia al suo posto, ecc.! A proposito,” interruppe ansiosamente, “l’Ufficio dell’India può fornirvi un documento?”
+
+“Beh, ovviamente,” disse Dolly con il tono di un bambino perplesso. “Se non possono farlo, immagino che possano inventarlo, ”
+
+“Molto bene,” disse Mary, “leggi quel documento ad alta voce. Piuttosto nuovo, molto interessante, molto serio, ha lasciato una grande impressione su Pongo; molta agitazione tra i membri dell’Opposizione, costernazione tra quelli che li sostengono. Vedi? Il leader dell’Opposizione permette a uno dei suoi seguaci di alzarsi in piedi e fare la figura dello sciocco. Quel seguace insisterà comunque sulle opere di soccorso e simili. Niente è più efficace, per definire una politica, del disprezzo verso i seguaci fanatici e le loro follie. Solo, ” disse Mary, fermandosi per sottolineare il punto con il dito indice, “devi scegliere bene il tuo alleato, deve essere davvero uno sciocco!”
+
+“Certo,” disse Dolly.
+
+“Non sei riuscito a guidarlo?”, chiese Mary in tono interrogativo. “Non pensi che sia meglio trovare qualcuno che faccia esattamente ciò che gli viene detto?”
+
+“No,” disse Dolly, riflettendo su quei ventiquattro anni trascorsi, “quando si vuole suscitare una reazione, è sempre meglio scegliere uno sciocco.”
+
+“Molto bene,” disse Mary. “Ecco il tuo stupido; quel stupido ha causato metà di tutto questo caos. Tutti sono confusi; a nessuno piace stare dalla parte dello stupido. E Dolly,” aggiunse con un po’ di ansia, “deve essere davvero uno stupido totale, capisci? Un vero idiota!”
+
+“Ah sì,” disse Dolly, che conosceva ogni nome come se li stesse elencando uno per uno, “Capthorpe.”
+
+“Sì,” disse Mary, molto soddisfatta, “Capthorpe, o quell’uomo che chiamano Little Tich. Comunque sia, ecco il vostro ‘stupido’, e la fuga si è fermata; ora Pongo deve alzarsi (dite a nessuno dei vostri uomini di alzarsi prima); Pongo è profondamente commosso! Notizie gravi. Vi incolpano per non aver informato l’Opposizione ufficiale. Un’azione senza precedenti. Ma la gravità della situazione ha determinato quale sia il suo dovere. È impossibile, (e avvertite Pongo di abbassare la voce: ha una bellissima voce baritonale, se solo potesse rimandare a dopo cena il suo discorso, ) È impossibile votare contro il Governo. E tutto il resto. Se fossi in voi, o meglio, se fossi Pongo, farei un discorso immediatamente; una grande responsabilità. Clive. Ha combattuto e versato sangue durante la Rivolta. Wow! Wow!” Mary si fermò e guardò il Primo Ministro. “Potete sistemare tutto questo, vero, caro?” disse.
+
+“Sì,” disse Dolly, “ma dopotutto, caro, non è forse questo il piano più normale?”
+
+“Ovviamente,” disse Mary, alzandosi dopo aver completato il compito e attraversando la stanza per liberare suo zio da quella fastidiosa cosa, “ma, ” (guardando indietro) “è proprio meglio così. Alle persone piace essere ingannate nel vecchio, caro modo!”
+
+* * *
+
+Victoria Mosel aveva rovesciato il proprio bicchiere sul tappeto del biliardo, e tutti scoppiarono a ridere. L’affare era concluso e sistemato; c’era quindi tempo per un po’ di divertimento prima di andare a dormire. Ma prima di addormentarsi, Dolly aveva già fissato l’appuntamento con Pongo per la mattina seguente.
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_01" data-title="Pongo and the Bull — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="concept/religious_sectarianism,concept/satire_of_society,concept/hypocrisy,concept/deception,form/satire,setting/rural_england,setting/england"></span>
@@ -5122,6 +7358,58 @@ Between them the two men arranged their programme very clearly; Pongo took it to
 
 “Then me?” he said.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XVII
+
+#"Non solo non dobbiamo temere per l’Unità, ma dovremmo essere felici di vedere tante diverse componenti all’interno della Chiesa."
+
+Il vescovo di Shoreham.
+
+A Habberton era consuetudine che, la domenica mattina dopo colazione, ognuno della famiglia facesse ciò che desiderava: alcuni partecipavano alla funzione religiosa, altri andavano in chiesa se ne avevano voglia; altri ancora si dedicavano alle attività all’aperto, mentre alcuni restavano a letto. Ma in quel fatidico fine settimana, questo semplice schema di autonomia individuale venne abbandonato.
+
+G. Quinlan Smith, sebbene amasse le dolci mattine trascorse nelle campagne della cara Vecchia Inghilterra, spesso studiava un atlante a casa durante quelle ore di celebrazione; inoltre, nonostante fosse sordo, odiava i sermoni.
+
+Ma quella mattina specifica, Mary Smith insistette affinché andasse in chiesa, e così lui finì per partecipare. Lei disse che la Vigilia di Pentecoste era una stagione sacra, e che voleva assolutamente che ci fosse.
+
+Victoria Mosel era alta; inoltre, per natura, si sentiva stanca al mattino. La chiesa di Habberton era piuttosto grande, ma quella mattina Mary Smith non accettò alcuna scusa, e così anche Victoria fu costretta ad andare.
+
+Il colonnello Thorpe era nervoso dopo il divorzio; ma comunque si trovò sulla strada per la chiesa; e alla signora Derrick, che dichiarava di essere atea e viaggiava con tre cani, un servitore disse che doveva andare.
+
+Come nei antichi colli d’Inghilterra, dove i solitari pastori segnalano le loro pecore e indicano i luoghi in cui si sono perse con occhi calmi e previdenti, così anche il custode di Habberton fu molto soddisfatto nel vedere tante persone radunate quel sacro mattino sotto lo stesso tetto. E proprio come il fedele cane ha le sue ragioni, nascoste nella sua saggezza, per il servizio che rende sulle colline, così anche Mary Smith aveva le sue motivazioni per guidare tutti quei diversi ospiti all’interno delle mura sacre: voleva che il Primo Ministro e il Leader dell’Opposizione fossero soli.
+
+Nel frattempo, lungo lo stesso sentiero che avevano percorso insieme prima che le difficoltà dello Stato li portassero alle loro varie avventure, tra quelle stesse lunghe file di alberi per cui il tranquillo ma storico Habberton è famoso, e che poco più di quindici giorni prima avevano osservato mentre il Primo Ministro e il Leader dell’Opposizione camminavano avanti e indietro, loro due continuavano a passeggiare, ignorando completamente le cerimonie mattutine.
+
+Erano uniti più strettamente che mai da quelle prove che ognuno di loro aveva affrontato in quei quattordici giorni e che entrambi avevano superato con tanto successo.
+
+L’uomo più basso, meno ricco e con meno supporto familiare era orgoglioso del proprio impegno attivo e efficace a servizio dello Stato nel salvataggio di quel vecchio Smith; insisteva sul far sentire il proprio orgoglio e la propria soddisfazione; descriveva in dettaglio la propria straordinaria abilità nel rintracciare le prede. L’uomo più alto, quello di lignaggio più nobile, era invece grato nel profondo del cuore per quel servizio reso.
+
+Sembrava che tutti i problemi fossero stati risolti; nella graziosa piccola chiesa del villaggio, situata nella valle sottostante (costruita nello stile del 1857, per la gloria di Dio e in memoria della preceditrice di Mary Smith nella guida di Habberton, un luogo accogliente ma storico), George Quinlan Smith, colui che aveva realizzato i loro sogni, pregava in pace il suo Dio. Era una mattina tranquilla e incantevole.
+
+I magnifici fiori caucasici, ormai completamente sbocciati, donavano un intenso colore cremisi all’oscura alameda; e il loro profumo forte, leggermente pungente, veniva perdonato dalla bellezza dei loro colori.
+
+L’uomo alto e quello basso camminarono fianco a fianco per tutta la durata di quel delizioso viaggio.
+
+Non avevano più alcuna politica da definire né alcun problema da risolvere, ma soltanto un semplice accordo parlamentare da redigere. I documenti che erano arrivati a Habberton poco prima della loro pubblicazione rendevano quel piano ancora più necessario e definitivo che mai. Non c’era alcun dubbio: Battersea ne era a conoscenza; sapeva del ritorno di Smith, sapeva che il prestito gratuito era stato concordato. E tutto ciò che poteva fare era agire: utilizzare la stampa per influenzare gli uomini e Peggy per coinvolgere le donne. E insieme a Peggy, anche i gruppi dei “Straights”. I “Straites”, ora certamente, avrebbero parlato e votato contro il governo.
+
+C'era una cosa che avrebbe potuto salvare il prestito, e quella cosa avrebbe sicuramente potuto farlo; quella cosa era il momento e il modo in cui Pongo sarebbe intervenuto nel dibattito del giorno seguente.
+
+“Devo andare su oggi,” disse Dolly. “Devo vedere Peggy, capisci.”
+
+“Non è affatto una buona idea intromettersi con i ‘Straight’”, gli disse Pongo come avvertimento. “Sono persone decise e risolute. Li conosco bene.”
+
+“No,” disse Dolly con stanchezza, “lo so anch'io.” Era chino come al solito, i suoi capelli bianchi sembravano ancora più patetici del solito, ma c'era qualcosa in lui di deciso e risoluto. Mentre Pongo camminava accanto a lui con gli occhi semichiusi, Dolly assicurò al suo collega che, anzi, avrebbe lodato Peggy per aver reclutato quegli uomini nella Camera dei Comuni; le avrebbe detto quanto fosse prezioso disporre di persone che votassero in base ai principi. Questo rendeva l’ambiente più vivace e coeso. “Peggy si occuperà sicuramente delle loro spese,” mormorò dolcemente. “Hai ragione; il vecchio Battersea se ne occuperà. Inoltre, si aspetta una scissione nel partito. Non è colpa loro, ” Aggiunse poi all’improvviso: “E i tuoi ‘Whips’, invece?”
+
+Pongo disse di aver dato un ordine piuttosto vago, e che quella sera avrebbe scritto loro. Ma la situazione era davvero strana; era molto meglio non esercitare pressioni. Era molto meglio lasciare che fossero gli altri a parlare e fidarsi della propria dichiarazione. Dopo tutto, non poteva certo verificarsi una fuga panica!
+
+I due uomini concordarono molto chiaramente il loro piano; Pongo pensava che fosse quello di Dolly, ma Dolly sapeva bene che in realtà apparteneva a Mary. A Dolly toccava alzarsi e “mettere in difficoltà” Pongo, naturalmente. Alla fine sarebbe stato il turno dei “normali” di parlare, poi ci sarebbero state le buffonate di Pongo sugli ultimi banchi.
+
+“Riesci a farlo diventare Capthorpe?” chiese Dolly. Pongo sorrise, consultò un piccolo libro e lo fece diventare Capthorpe.
+
+“Allora tu,” disse Dolly; e Pongo lo capì perfettamente.
+
+“Allora io?” disse lui.
 
 
 
@@ -5180,6 +7468,60 @@ As he finished the letter he said to himself (and he was almost tempted to write
 
 So passed that Sunday night. By noon of the next day Dolly was preparing, up in his room in [[London]], for the critical moment. He rarely wrote a speech, but that speech he had written, and he was working it out with Eddie, carefully and conscientiously; and he was seeing (in the intervals of his work) that the Press was properly worked for the results of its delivery. There is always a little leakage in such things; certain securities drooped in sympathy with Hindoos in the City during those hours.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Sì — allora tu,” disse Dolly.
+
+“Vuoi vedere le mie note?”, aggiunse Dolly mentre svoltavano alla fine dell’avenue. Lui tirò fuori dalla tasca laterale un mucchietto di foglietti di carta spiegazzati e disordinati.
+
+Pongo prese le note in silenzio e le diede un’occhiata. “Non direi proprio,” borbottò, segnando due righe con la sua piccola penna.
+
+“Cosa hai detto?”, chiese Dolly, guardando in basso e fermandosi per osservare meglio.
+
+“Quello,” disse Pongo, “quello che riguarda la corrida dei tori; quella frase: ‘Senza alcuna intenzione di offendere il rispettabile signore e i suoi colleghi, ecc.’”
+
+“Ah,” disse Dolly, “certamente so che la delegazione pensava che tu fossi più comprensivo di quanto lo fossi io. È sempre così quando si ricopre una carica ufficiale: bisogna stare attenti.”
+
+“Sì,” disse Pongo, “ma non è solo questo. Vedi, mentre ero all’estero ho assistito a una vera e propria corrida di tori.”
+
+“L’hai fatto davvero?” chiese Dolly, molto interessata. Era un uomo dal vivo interesse intellettuale e era sempre disposto a lasciare da parte le noiose questioni politiche per parlare di cose più divertenti.
+
+“Sì,” rispose Pongo bruscamente, riportandolo alla questione principale, “L’ho fatto. Ma questo non è il punto. Ho scritto e ne ho parlato con tutti, dicendo quanto fossi scioccato. E dovrò affrontare di nuovo l’argomento quando arriverà il voto del Ministero degli Esteri. Non voglio che la mia presentazione venga compromessa da un discorso secondario sull’Ipoteca Indiana, che non c’entra nulla.”
+
+“Certo che no,” disse Dolly con simpatia; e lui cancellò quel passaggio con un po’ di rammarico: gli era sembrato davvero interessante. “Una corrida di tori è molto emozionante, vero?” aggiunse.
+
+“Sì,” rispose Pongo, sdraiato comodamente, “è un po’ troppo eccitante. Non è proprio il genere di cose che uno vorrebbe vedere, davvero. E non l’avrei fatto se non lo avessi considerato una sorta di dovere, capisci.”
+
+I suoi occhi semi-chiusi gettarono rapidamente uno sguardo verso il Primo Ministro, ma sul viso di Dolly non c’era nulla oltre interesse: nessun segno di dubbio, nemmeno l’ombra di un sorriso; c’era solo curiosità.
+
+“È una cosa davvero brutale,” disse Dolly con solennità.
+
+Lo disse con vera convinzione: odiava la crudeltà, e fu grazie alle sue azioni, più di quelle di qualsiasi altro individuo, che quel tipo di tortura giudiziaria che ancora esisteva nelle nostre colonie veniva ora praticato in privato, all’interno delle mura della prigione.
+
+“È disgustoso,” disse Pongo, tremando con coraggio, “Il sangue e tutto il resto. E quei poveri cavalli! Gli uomini sono abbastanza coraggiosi, suppongo, ma è davvero brutale! Sono le donne quelle che mi disgustano di più; diventano ubriache di sangue. Oh, è maledetto!” disse Pongo, ascoltando con interesse la storia del viaggiatore. A parte il problema dei pantaloni che si appiccicavano ai materassi durante i combattimenti, la lotta contro i tori era ormai l’unica cosa di cui sapesse davvero più del suo compagno. Aveva assistito a un incontro di lotta contro i tori e ne andava fiero; aveva voglia di approfondire quell’argomento. “Certo,” continuò, “quella povera bestia ha una possibilità, ed è davvero spettacolare vederla combattere; ma quasi sempre finisce per essere sconfitta. È diventata una vera e propria scienza, e in realtà non è pericolosa per gli uomini. Ed è proprio questo che mi disgusta così tanto.”
+
+“Sì,” disse Dolly, e ora che Pongo aveva deviato dal tema principale, lei approfittò dell’occasione per vendicarsi di quella recente umiliazione, riportando Pongo sulla retta strada.
+
+“Sì, ma dobbiamo decidere cosa fare per domani.”
+
+“Beh, abbiamo più o meno finito,” disse Pongo, infastidito che la sua epopea cruenta fosse stata interrotta. “Non devo entrare fino a quando non avrete quasi terminato di parlare. Riuscite a gestire i tempi?”
+
+“Certo,” disse Dolly con serietà, “ma sarebbe meglio che lo facessi più tardi che prima. Se arrivassi troppo presto, rovinerebbe tutto.”
+
+“Posso sempre aspettare nella mia stanza,” disse Pongo.
+
+“Sì, ma forse non riuscirò a mandarla,” disse Dolly. “Devi essere vicino alla porta entro le cinque, comunque; e quando dirò che sei ‘moralmente colpevole di assassinio’, entra, ‘Assassinio’ è la parola che ho usato.”
+
+“Va bene,” disse Pongo.
+
+Non c’era più nulla da decidere: era una situazione semplice. Il Primo Ministro insultava Pongo fino alle quattro e un quarto del pomeriggio. Poi arrivò la dichiarazione: “Morally guilty of assassination” (colpevole moralmente di assassinio). Entrò Pongo; Dolly lesse il documento fornito dall’Ufficio dell’India. Sensazione generale. I conservatori, comunque, si pronunciarono a favore dei lavori di soccorso e sfidarono il governo. Le file posteriori dei sostenitori di Pongo esultarono. Capthorpe, un idiota, fu messo al microfono per parlare. Ma le file posteriori di Pongo erano preoccupate: non volevano essere associate a uno stupido. Poi Pongo si alzò in piedi. Impressionante. Convertito dal documento letto. Un momento decisivo. Una questione nazionale, al di sopra dei partiti. Un discorso appassionato. Clive. Aveva lottato e sanguinato. Si sedette. Dopo un simile discorso, nessuna divisione. O, se c’era, solo i conservatori e i radicali nell’opposizione che presentavano le loro richieste. Il prestito fu salvato. Smith propose la soluzione. Battersea venne distrutta. Nessun lavoro di soccorso. Selah! (come si dice nella Loggia).
+
+L’unico treno pomeridiano disponibile in quella domenica portò il Primo Ministro in città. Penny Bunt rimase a Habberton per la notte; si sentiva un po’ a disagio lì senza Dolly, ma aveva bisogno di riposare. Scrisse a Ludlow, il suo responsabile politico, ma con cautela: non era necessario esercitare alcuna pressione sul partito; non si trattava di votare in un modo o nell’altro, voleva evitare divisioni interne. Spiegherebbe tutto quando sarebbe arrivato alla Camera. Sarebbe arrivato prima delle cinque. Naturalmente Dolly avrebbe parlato per prima, e lui doveva intervenire prima che lei finisse il suo discorso. Era più facile dire queste cose a voce. Comunque, anche in caso di divisioni interne, ciò che aveva intenzione di dire avrebbe impedito a chiunque, tranne i membri del gruppo “Straight” e alcuni estremisti, di votare contro il governo.
+
+Quando finì di scrivere la lettera, si disse (e quasi ebbe l’impulso di scriverlo anche sul suo taccuino): “Grazie a Dio che ci siamo liberati degli irlandesi!”
+
+Quella domenica sera passò così. A mezzogiorno del giorno seguente, Dolly si stava preparando, nella sua stanza a [[London|Londra]], per quel momento cruciale. Raramente scriveva discorsi, ma quello lo aveva scritto e lo stava ripassando con Eddie, con cura e attenzione; inoltre, osservava (tra un lavoro e l’altro) che i media stavano lavorando correttamente per promuovere i risultati del suo discorso. In queste situazioni, però, c’è sempre qualche “perdita”: in quegli ore, alcune azioni finanziarie persero valore a causa delle reazioni negative dei mercanti londinesi.
 
 
 
@@ -5253,6 +7595,74 @@ He showed the little man out himself, and then went back to his unfinished break
 “They didn’t give me anything,” said Young Ludlow, “what?” The brothers went off each to his letters — and thus was the Information of the British Press upon the designs of the Party Leaders conducted and concluded.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nemmeno il Duca di Battersea se ne stava con le mani in mano. A quel punto aveva già capito tutta la situazione e la sua rabbia era alle stelle. Quella mattina intera rimase da solo con il suo segretario; non era ancora stato sconfitto, ma non vedeva alcuna via per evitare la sconfitta. Si sarebbe vendicato in un secondo momento. Ma la vendetta non è denaro. La vendetta non consiste nel gestire qualche affare finanziario complicato.
+
+Peggy, allarmata dal cupo atmosfera che regnava in casa e informata con un po’ di nervosismo dalla Duchessa che il caro vecchio era preoccupato, rispose bruscamente in tedesco che non capiva il modo in cui veniva trattata. Se ne andò quindi a pranzare da sola con suo marito, per dimostrare quanto fosse offesa dal comportamento del Duca nei suoi confronti; dopo pranzo andò ad incoraggiare il signor Moss, ma si rese conto con disappunto che non aveva affatto bisogno di incoraggiamenti: il Duca aveva personalmente garantito i costi delle elezioni. I membri del gruppo “The Straights” avevano una strategia ben definita: avrebbero parlato e votato contro il governo. E Peggy, dopo aver fatto ciò che voleva ma senza ottenere nulla, si sentiva arrabbiata e sola. Decise di non chiedere un posto nella tribuna riservata ai giornalisti; le cose sembravano essere sfuggite al suo controllo. Si chiese perché ci fosse tanta segretezza riguardo a una questione così semplice, e trascorse il pomeriggio con una sarta, causandole non pochi problemi per diverse ore.
+
+Quando sorge un dubbio riguardo alla questione di una importante giornata parlamentare, la cosa migliore che un editore possa fare è consultare i responsabili delle comunicazioni del partito; e poiché ogni giornale deve in qualche misura affidarsi a una sola fonte di informazioni, è molto utile quando tutti i giornali si rivolgono alla stessa fonte.
+
+L’agenzia attraverso la quale i giornali di [[London|Londra]] ricevevano le loro notizie politiche nel 1925 rappresentava un esempio straordinario di amministrazione efficiente ed economica. Il suo capitale non era elevato, ma i suoi metodi erano così perfetti da rendere impossibile la concorrenza. Il Duca di Battersea, forse il miglior organizzatore del suo tempo, ne aveva stabilito le linee generali; e grazie alla sua influenza (non essendo uno dei direttori dell’agenzia), i corrispondenti di questo eccellente ente riuscivano facilmente e rapidamente ad ottenere qualsiasi informazione si ritenesse opportuno che il pubblico conoscesse.
+
+Quel lunedì, il lunedì della settimana di Pentecoste del 1925, ci furono cose che avrebbero dovuto essere conosciute, ma che misteriosamente vennero nascoste non solo al popolo comune, ma anche alle persone importanti.
+
+Era possibile che lo stesso Duca di Battersea non disdegnasse scoprire quali ordini fossero stati dati alle grandi fazioni riguardo al voto di quella sera, e era anche possibile che un umile intervistatore, pagato due ghinee a colonna, fosse meno sospetto di chiunque altro, per quanto più in alto di rango.
+
+Pertanto, un giovane nervoso e malnutrito, senza guanti, con un cappello sporco e vestito con un cappotto logoro, comparve poco dopo le undici di quella importante mattina nell’appartamento dove riposava il Capo dei Segretari del Gabinetto, che aveva appena finito la colazione.
+
+Il nome del Capo dei Segretari era Ludlow. Era un scapolo, non ricco ma di buona famiglia; un uomo molto allegro, con una testa enorme e completamente calva, una folta barba marrone, una risata sonora e modi estremamente semplici. Era tipico del suo cuore gentile il fatto che ospitasse suo fratello minore, spendaccione e disordinato (un ragazzo con la faccia rasata e i capelli arruffati, un po’ libertino ma con tutta la gentilezza della famiglia). Ludlow non solo lo ospitava, ma gli dava anche una piccola rendita; e per di più si era preso la briga di fargli assegnare la carica di Capo dei Segretari dell’Opposizione, un incarico che, sebbene al momento non comportasse uno stipendio immediato, prometteva sicuramente future opportunità economiche. Il fratello minore avrebbe potuto prendere in prestito denaro contando su queste prospettive, se lo avesse voluto; ma era troppo negligente, o forse troppo onesto.
+
+Il giovane chiese timidamente al servitore se poteva vedere il signor Ludlow.
+
+“Quale signor Ludlow?”, chiese il servitore, sospettoso di una visita così mattutina.
+
+“Signor Ludlow, il ‘Whip’”, disse il giovane uomo con nervosismo.
+
+Il servitore, come molti della sua classe, sebbene riconoscesse pienamente l’importanza della famiglia per cui lavorava, era un po’ vago riguardo alle sue funzioni politiche. Il giovane Ludlow e il leader dell’Opposizione, avendo ricevuto quella mattina la lettera del loro capo, si resero subito conto che quella conversazione all’ingresso riguardava proprio lui. Risposero con un allegro saluto (era nel loro carattere essere sempre allegra), si misero a braccetto in modo molto cordiale con il nuovo arrivato e lo portarono dentro.
+
+L’intervistatore balbettò un po’ e si sentì imbarazzato. Grazie alla gentilezza del grande Young Ludlow, fu fatto sedere su una sedia ben imbottita nell’atrio e gli fu chiesto di iniziare a parlare.
+
+“Solo,” disse, scuotendo i suoi capelli arruffati, “vi avverto! Non posso dirvi nulla di più di ciò che già sapete, cioè, se siete davvero quel tizio dalla Luna, ” aggiunse con tono interrogativo.
+
+L’intervistatore, più nervoso che mai, disse di non essere venuto dalla Luna, ma dall’agenzia. Tirò fuori il suo piccolo quaderno e la sua penna e aspettò gli sviluppi successivi.
+
+“Beh,” disse Young Ludlow, alzandosi davanti a lui con lo stesso spirito vivace del marinaio sul ponte di poppa al Drury Lane, “non posso dirvi nulla di più di quanto sappia un contadino. Cosa? Nessuno di noi sa di più di voi, capite?”
+
+“No, signore, assolutamente no,” mormorò l’intervistatore terrorizzato.
+
+“Ebbene, eccoci qua,” disse Young Ludlow, concludendo rapidamente la conversazione. “Sono completamente d’accordo. Non ci sono segreti. Ma è un momento delicato, eh? Niente di davvero interessante per i giornali del pomeriggio. E saprete tutto quanto noi anche con quelli del mattino. In realtà, non sono di alcuna utilità. Vorrei esserlo!”
+
+“Ma pensavo, ”, chiese timidamente l’intervistatore, raccogliendo tutto il suo coraggio, “pensavo, signor Ludlow, che potesse darmi almeno un’idea dell’ordine dei procedimenti. Certo, non può dirmi come voteranno le persone”, aggiunse sorridendo debolmente, “ma l’ordine? Vede, noi, in qualità di Capo del Gabinetto, ”
+
+“Oh!” esclamò Young Ludlow con grande entusiasmo, vedendo che finalmente il noia sarebbe svanita dalle sue spalle. “Capo del gruppo parlamentare del governo! È mio fratello! Aspetta, non muoverti!” E in un balzo si trovò nella piccola stanza dove suo fratello, Big Ludlow, stava ancora finendo la colazione. “È te che vogliono, Kite,” disse.
+
+“Chi?” disse l’uomo dal viso sorridente, calvo e con la barba marrone.
+
+“Ah, un giornalista,” disse Young Ludlow, allontanandosi rapidamente verso la stanza accanto.
+
+“Maledizione!”, disse Big Ludlow; ma poi uscì e salutò il giornalista, che si alzò per metà in segno di cortesia e poi si sedette di nuovo, a dimostrazione della sua familiarità con le abitudini delle persone importanti. Big Ludlow lo osservò attentamente, standogli davanti proprio come aveva fatto suo fratello, e disse:
+
+“Beh, sai, mi dispiace deluderti, ma non siamo più saggi di te, eh? Ti direi tutto quello che so, certo. Ma vedi? Ci sono cose che nessuno conosce! Dobbiamo sempre fare il possibile per il Capon, ” L’intervistatore mormorò che non apparteneva al Capon, ma all’agenzia, e provò quella strana sensazione di cui molti psicologi hanno parlato: quando la mente è certa di aver vissuto in passato, forse in una vita precedente, un’esperienza identica a quella attuale.
+
+“Pensavamo almeno, signor Ludlow,” disse il povero uomo con nervosismo, alzandosi per andarsene, “che l’ordine dei discorsi, ”
+
+“Ah, l’ordine, ”, disse l’uomo barbuto e sorridente con una risata allegra. “L’ordine di intervento. Beh, quello dipende dal Presidente della seduta, capite!” Sembrava davvero ignorante al riguardo e scosse la testa. “Il Primo Ministro farà sicuramente una dichiarazione, ma non possiamo sapere quando. E nemmeno chi attirerà l’attenzione del Presidente. Questo dipende semplicemente dalla fortuna, no? Beh. Dipende dal Presidente della seduta.” E scosse la sua testa calva, come fanno le persone quando lasciano tutto nelle mani dei destino.
+
+“Grazie mille, signor Ludlow,” disse l’intervistatore, “è stato molto gentile da parte sua dedicarmi del suo tempo.”
+
+“Assolutamente no,” disse il gentile Kite con il suo tono più felice, “assolutamente no. Qualsiasi cosa possa fare, sono sempre qui quando mi vuoi!”
+
+Lui stesso accompagnò il piccolo fuori, poi tornò al suo breakfast ancora incompleto.
+
+“Cosa può ottenere un uomo del genere?”, chiese al fratello minore che stava entrando con noncuranza.
+
+“Non lo so,” disse Young Ludlow, accendendo la sua pipa.
+
+“Beh, dovresti proprio farlo,” disse Kite con decisione. “Ti ho fatto lavorare al Capon per sei mesi.”
+
+“Non mi hanno dato nulla,” disse il giovane Ludlow, “cosa?” I fratelli si misero a leggere le loro lettere. E così terminò la raccolta delle informazioni provenienti dalla stampa britannica sui piani dei leader del partito.
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_01" data-title="Pongo and the Bull — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/nature,motif/animals,concept/fear,concept/satire_of_society,form/satire,setting/rural_england"></span>
@@ -5290,6 +7700,40 @@ Yet he could not forbear one sharp sidelong glance as he passed abeam, and there
 
 Between him and the wood was a double line of wire, such a thing as one can bend and stride through easily, though a little too high for short-legged man of middle age to negotiate by straddling over. It was, perhaps, a hundred yards away, and Pongo, with far too much sense to run, was none the less approaching it with remarkable celerity, when a terrific bellow of a suddenness most unsportsmanlike at such a moment burst from the Bull (for such, alas, he was!) whose domain the statesman had rashly invaded.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XVIII
+
+“Accadde all’improvviso – era un normale tiro di Bolt del Bull!” Estratto dalla corrispondenza di Lady Bramber.
+
+La stazione di Habberton è la piccola stazione di Winckley. Fu costruita nel 1854 per comodità di Lord Holly e, ai suoi tempi, era ben servita. Dopo la sua morte, il commercio di Habberton non giustificava più un utilizzo frequente; quindi gli espressi non vi fermavano mai, né i treni ordinari, se non tre al giorno.
+
+Per una felice coincidenza, da quando Mary Smith aveva acquistato quella proprietà, gli orari dei treni si erano rivelati più flessibili; per lei fu un grande sollievo sapere che i suoi ospiti potevano raggiungere la città quasi altrettanto velocemente come se vivesse in una delle grandi città provinciali. La direzione del treno era così cortese da permetterle spesso di fermare il convoglio con un segnale, anche quando questo non era previsto nel programma; tuttavia, le dispiaceva molto quando passeggeri irritabili, non abituati alle regole flessibili della società inglese, imprecavano e scrivevano ai giornali per lamentarsi di tali ritardi. Anche se è vero che lettere del genere, pur venendo spesso ricevute dalla nostra stampa, venivano molto raramente pubblicate.
+
+Nei lunedì mattina, l’espresso di Plymouth si fermava regolarmente a Winckley per qualche istante, facendo sbarcare i suoi passeggeri in città poco dopo le due, con sufficiente anticipo per raggiungere il Parlamento. Era proprio quell’espresso che Mary Smith e i suoi ospiti politici, in particolare Dolly, conoscevano bene. Era anche l’espresso che Pongo aveva deciso di prendere in quel giorno cruciale.
+
+Camminava; la mattina lo tentava e lo invitava. Voleva che lei portasse su i suoi bagagli più tardi, quando sarebbe venuta lei stessa la sera. Gli fece promettere di passare da casa sua in città il giorno dopo; era piena di piani riguardo a Victoria Mosel. Pongo, felice di tutta questa facilità nell’organizzare le cose, lasciò l’accogliente ma storico Habberton, vicino al giardino della cucina, per prendere la scorciatoia attraverso il bosco di Habberton Wood e Longcombe fino a Winckley.
+
+Si sentiva quasi giovane; quella mattina era così felice. C’era una leggera nebbia sopra i colli, ma i raggi del sole riuscivano a penetrare; attraversò rapidamente le vaste praterie che si estendevano dolcemente dalla casa verso il margine lontano degli alberi. Davanti a lui c’erano quasi tre quarti di miglio di erba, separata qua e là da recinzioni di legno o da cancelli di ferro aperti.
+
+Ma quanto bene Pongo conosceva quel punto, in quella zona di alberi, verso cui doveva mirare, e da lì avrebbe trovato il sentiero attraverso il bosco di Habberton! L’ultima volta che lo aveva percorso era stato quattro mesi prima, insieme a Victoria; in quel momento lei si era incastrata in un passaggio stretto, e lui aveva dovuto toglierle lo stivale per liberarla, poi portarla a casa sulle spalle perché le faceva male la caviglia. Quanto bene se ne ricordava. Era quella mattina in cui era andato ad assistere al dibattito presso il Ministero degli Esteri, quando i Toreadors avevano mostrato per la prima volta tutta la loro forza. E aveva commesso quell’errore grave, che però era stato ampiamente compensato dalla sua successiva compassione.
+
+Il Leader dell’Opposizione si sentiva sereno; avrebbe cantato una canzone se solo avesse saputo in che modo si dovesse eseguire correttamente quell’atto. Così come stavano le cose, invece, fischiettò, e mentre fischiettava, notò nel campo vicino un animale che, a prima vista, sembrava familiare alle persone delle campagne inglesi. Era una mucca, o forse no? Forse era un bue, oppure una vacca giovane. Si chiese curiosamente come potesse essere così ignorante. I suoi pensieri tornarono alla prima elezione a cui aveva partecipato (e perso): in quella occasione, durante una riunione nel villaggio, gli era stato chiesto di distinguere tre tipi di grano – orzo, frumento e avena – ma non essendo riuscito a farlo, era stato oggetto di derisioni, e persino di insulti.
+
+Poi la sua mente tornò alla Bestia che si trovava sul suo cammino.
+
+Si avvicinò alla recinzione di ferro che li separava e rifletté su quanto fosse vero che una persona impegnata come lui potesse avere centinaia di occupazioni, ma riuscisse a dedicarsi davvero solo a una! L’aveva letto da qualche parte in un libro. Pensò alla sua piccola fattoria e a quanto la amasse. Eppure sapeva così poco sulle cose rurali! Ad esempio, questo animale davanti a lui.
+
+Pongo si avvicinò alla recinzione di ferro. Aveva smesso di fischiare mentre cercava di scalarla, e nel farlo guardava di nascosto quella bestia, per darle il suo nome generico. Gli venne in mente una nuova parola: forse era un bue.
+
+Era dalla stessa parte della barricata: camminava con determinazione attraverso il pascolo, fischiando più forte che mai, dondolando il suo bastone e guardando dritto davanti a sé. Molti anni prima, nel suo umile studio dentistico, ricordava sua madre che gli aveva detto di non avere mai paura delle mucche.
+
+La Bestia aveva alzato la testa e lo stava fissando con una ferocia stupida. Si trovava forse a distanza pari alla lunghezza di un campo da cricket; si ergeva accanto a lui. Pongo ricordò che esistevano due metodi consigliabili per dominare il mondo animale: uno era l’indifferenza, l’altro uno sguardo fisso e deciso. Entrambi, ricordò con disagio, gli erano stati raccomandati anche per combattere la nausea marina. Confusamente rammentò che, in mare, l’indifferenza aveva dato i migliori risultati. Così, mentre ci pensava, alzò un occhio verso il cielo sereno, cercò le chiavi in tasca, si grattò il naso e distolse la propria attenzione con altri gesti, facendo attenzione a non accelerare il passo né mostrare alcun segno di interesse per qualsiasi creatura potesse trovarsi nelle vicinanze.
+
+Tuttavia, non poté trattenersi dal lanciare un’occhiata furtiva mentre gli passava accanto; e vide che il Nemico aveva abbassato la testa, il piede sinistro batteva impazientemente a terra, la coda non si era ancora alzata, ma due splendidi corni minacciavano. Pongo distolse lo sguardo e rifletté su ciò che tutti gli uomini coraggiosi fanno nelle crisi della loro vita.
+
+Tra lui e il bosco c'era una doppia fila di filo spinato: qualcosa che si poteva facilmente piegare e attraversare, anche se un po' troppo alta per un uomo di mezza età dalle gambe corte. Era distante forse cento metri, e Pongo, pur avendo tutto il buon senso di non correre, si stava avvicinando con notevole velocità, quando improvvisamente, in un modo assolutamente poco sportivo in un momento del genere, echeggiò un terribile ruggito: era il toro (perché tale, purtroppo, era!) il cui territorio quel politico aveva osato invadere.
 
 
 
@@ -5330,6 +7774,42 @@ He wondered whether there were clouds sailing in the heaven without his prison, 
 
 It was late in the afternoon, how late he did not know, but not yet dark, when Pongo suddenly discovered that he was a fool. He only had to shout!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Fu in quel momento che il signor Pennybunt, leader dell’Opposizione Ufficiale, dimenticando completamente tutte le massime, sia di prudenza che d’arte, sia razionali che empiriche, fuggì a tutta velocità come una lepre, o meglio, considerando la proporzione delle sue membre, come una scimmia o un uccello acquatico!
+
+Mio Dio, come correva! Gli esperti in queste materie hanno registrato che i cento metri non possono essere percorsi in meno di dieci secondi; il signor Pennybunt, sebbene indifferente ai record, concordava con questa conclusione. La velocità, e la salvezza del corpo: queste erano le uniche cose a occupare la sua mente, perché alle sue spalle si stava radunando qualcuno molto più forte di lui, pronto ad attaccarlo!
+
+C'erano trenta iarde. C'erano venti. C'erano dieci. C'erano cinque! Le piccole gambe si muovevano velocemente come un telaietto in movimento; la doppia fila di filo era a portata di mano. Quando gli “dèi primordiali” si risvegliarono dentro il signor Pennybunt, l’istinto lo spinse ad accelerare. Svoltò bruscamente a sinistra. E il “Bue” andò a sbattere contro i fili! I fili cantarono, come una cetra quando un abile musicista tira due corde prima di iniziare a suonare. Quando i signori si riuniscono nella sala e la storia della battaglia ha inizio.
+
+Si mossero leggermente, e i pali verticali tremarono, ma rimasero saldi. Molto a sinistra, Pongo, senza cappello, nella frenesia della fretta, si contorceva tra i fili.
+
+Il Toro, più coraggioso che intelligente, lo osservò per un momento con una stupida furia rossastra; la sua coda si agitava nell’aria sopra di lui, e il sangue gli riempiva gli occhi. Poi, nella sua rozza natura bovina, capì che quell’insolente intruso stava fuggendo. Lo inseguì con furia, occupando lo spazio appena attraversato dal famoso politico, con le spalle, con le corna, con la fronte. Cadde a terra; sul suo fianco c’era sangue, là dove gli standard di ferro lo avevano lacerato. E il dolore non migliorò affatto il suo umore.
+
+Con un ruggito molto più forte di quello che aveva emesso per lanciarsi all’attacco, si fece strada a forza attraverso la rete di ostacoli. E così, addio alla caccia!
+
+Il sudore di cinquant’anni si era accumulato sul volto mortale di quell’uomo agonizzante. No, piuttosto sembrava spruzzargli addosso con violenza! Siamo giovani quanto le nostre arterie. Lo champagne, gli alcolici, le nottate insonni, il gioco d’azzardo. Tutto ciò che caratterizza la vita dei ricchi aveva, in lui che aveva iniziato a viverla così tardi, generato arterie già estremamente vecchie. Sentiva che qualcosa non andava dentro di sé; si chiedeva se fosse il suo cuore. Ma non aveva molto tempo per riflettere! Il rumore frenetico degli zoccoli lo inseguiva di nuovo. In pochi secondi avrebbe sentito i corni. Nessuna saggezza, nessun dio, nemmeno un angelo. Solo il destino cieco lo spingeva dritto verso il bosco. Pensava di essere entrato in una sorta di “caverna” formata tra due alberi. I suoi occhi erano offuscati; quel terribile rumore era ormai alle sue calcagna. Si era gettato all’interno di qualcosa. Quando un’improvvisa oscurità lo avvolse, un istinto primordiale si risvegliò nel suo cuore. Con un calcio potente aprì una “porta” e giacque immerso nell’oscurità totale, gemendo orribilmente. Chiedendosi se quella fosse la morte.
+
+Era circa mezzanotte. Gli uccelli tacevano nella foresta; tutto era silenzio. E il signor Pennybunt, che si stava lentamente riprendendo da quell’orribile caduta, notò tre cose: primo, il suo stomaco gli faceva un dolore terribile; secondo, qua e là delle strisce di luce filtravano attraverso le pareti di legno; terzo, e questo era senz’altro il più importante, fuori, a meno di un piede da lui, ma ora, oh! ora tagliato fuori dal contatto, una Potente Bestia annusava con un ringhio pieno di curiosità e rabbia.
+
+Non dovette aspettare a lungo per capirne il significato. Si udì lo scalpiccio di zoccoli che si allontanavano per un momento tra l’erba, poi una pausa.
+
+Con un impeto tremendo, il Toro si schiantò con la testa in avanti contro la fragile struttura del suo rifugio. Questa tremò, e il signor Pennybunt pregò. Poi, per circa dieci minuti, il Toro continuò a vagare lungo quella linea di difesa limitata, lamentandosi; ma il Toro è una bestia tenace.
+
+Trascorsero mezz’ora. Il signor Pennybunt ebbe il tempo di compiangere se stesso, e lo fece, amaramente.
+
+Non aveva l’età in cui si possano prendere queste cose alla leggera. Che diritto aveva Mary Smith di lasciare libero quel toro? Perché nessuno lo aveva avvertito? Sapeva dove si trovava ora: era in una piccola capanna costruita anni prima per i cervi e ormai abbandonata. Frugò nella tasca alla ricerca di un fiammifero e ne trovò due; ne accese uno, ma si spense subito. Non pregò, bensì imprecò. Accese l’altro con molta più cautela, e mentre la fiamma si alzava, vide che la porta era chiusa con un robusto chiavistello. Era stato proprio questo a salvarlo. Le pareti erano fatte di tronchi massicci; prima che potesse scoprire altro, il fiammifero si spense di nuovo. Allora pensò quanto sia incerta la vita umana, e quanto l’uomo sia soltanto un burattino nelle mani dei potenti dèi.
+
+Nell’oscurità totale non è facile indovinare l’ora. Pongo rimase seduto, sopraffatto dal terrore, per un’ora almeno; sentiva fuori il rumore degli zoccoli del suo nemico. Poi, al terrore, subentrò un altro dolore, o forse i due dolori si mescolarono in modo confuso. Si ricordò di Parliament!
+
+Il suo treno se n'era andato da molto tempo, ma forse poteva ancora risolvere le cose con un motore; trattenne il respiro e ascoltò. Non sentì nulla. Forse solo un respiro. Molto cautamente, con delicatezza, in silenzio sollevò il pesante meccanismo di blocco. Aperse leggermente la porta, appena uno spiraglio, gettò uno sguardo al paesaggio. Poi la chiuse di nuovo, tre volte più velocemente di quanto l’avesse aperta: il paesaggio era stato oscurato da una enorme testa di toro, più grande del cielo e dei campi, piena di uno stupore stupido ma furioso. E pronta, non appena avesse completamente compreso la situazione, a caricare.
+
+Si sedette per affrontare quella situazione nel modo migliore possibile; per altre due ore, e poi per tre ancora, rimase immerso nell’oscurità. Non riusciva a sentire il passo amichevole di un essere umano né alcuna voce lontana, ma continuava ad udire, mentre vagava nei confini della sua prigione, lo zoccolo di quel stupido e tenace Belua, o di quella orribile bestia che desiderava la sua morte.
+
+Si chiedeva se ci fossero nuvole che navigavano nel cielo lontano dalla sua prigione, e cosa stesse facendo il mondo affollato degli uomini là fuori. Sembrava fosse passato un anno da quando aveva assaporato la libertà.
+
+Era tardi pomeriggio; non sapeva esattamente quanto tardi, ma non era ancora buio, quando Pongo si rese improvvisamente conto di essere uno sciocco. Gli bastò gridare!
 
 
 
@@ -5385,6 +7865,56 @@ The rustics eyed him suspiciously. At last he made out more or less clearly that
 The bull-reeve was sincerely disappointed, and so were all his men. They desired to interrogate the butler, but by him they were severely snubbed; and by a footman who was standing by very gravely warned. They went off again through the darkness, under a vague impression that they had troubled some one who had to do with the King of England, and they decided in their muddy minds as they went to inspect the wounded steer, that misfortunes never come alone.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Riempì i polmoni (non senza un forte spasmo nella parte inferiore del corpo) e emise un grido potente.
+
+Il Toro, accettando la sfida, emise un suono terribile e innaturale, un ruggito così potente che persino il signor Pennybunt, ormai abituato alla luce pura della ragione, pensò improvvisamente all’Inferno. E poi (oh, crudeltà di queste bestie mute!) quell’essere demoniaco attaccò nuovamente con estrema ferocia! Questa volta uno dei suoi corni colpì la porta e la perforò. La luce del giorno entrò dentro, e con essa un momento di agonia per quel sfortunato statista.
+
+Ma il bestiame cornuto odia essere intrappolato. Il toro, sbuffando e soffiando, riuscì a liberare la sua “arma” dai frammenti di legno e si allontanò, grattandosi e annusando l’aria, mentre rifletteva cupamente su quale fosse il prossimo punto da attaccare. Passarono quasi mezz’ora prima che decidesse di muoversi di nuovo; nel frattempo, il sfortunato Pongo cercava di guardare, con estrema cautela, attraverso la ferita causata dal corno, per osservare il mondo intorno a lui e il suo assalitore. Stava facendo buio, e le sue ultime possibilità di successo diminuivano sempre di più.
+
+Il Toro decise di fare un ultimo tentativo; si erse maestosamente – chiunque avesse un’anima meno meschina di quella di un politico avrebbe ammirato quella scena – alzò la testa verso il Cielo, dove risiede il Padre dei Tori e li aiuta nelle loro “guerre bovine”; si sistemò le spalle possenti, abbassò nuovamente il corpo pronto all’azione. E partì all’attacco!
+
+* * *
+
+Proprio quando la fine di tutto sembrava essere giunta per il leader dell’Opposizione, il Cielo, che governa tutto con saggezza e ha un occhio particolare per l’Inghilterra, non permise che qualcosa di così importante come il sistema parlamentare andasse distrutto.
+
+Era l’ora in cui gli agricoltori tornavano a casa dopo il lavoro nella terra feconda, e in cui il bestiame veniva condotto verso i recinti, dove avrebbero riposato; in quel momento, la buona stella Estero diffondeva su tutto il mondo addormentato il suo calore domestico.
+
+Il caposquadra e i suoi assistenti cercarono nel campo il toro premiato; ma invano. Videro l’erba calpestata, arrivarono ai fili spezzati. Arrivarono al recinto proprio nel momento in cui il loro toro attaccò per l’ultima volta; riuscirono a domarlo. Mentre si chiedevano cosa avesse spinto il loro prezioso animale ad agire così, cercarono nell’oscurità della capanna, e trovarono il povero Pongo.
+
+Lo trascinarono fuori dal luogo in cui si nascondeva, portandolo via di forza per il colletto e per la vita, sotto la luce delle loro lanterne. Erano arrabbiati e furiosi; anche il caposquadra non sembrava affatto contento nel vedere schizzi di sangue sul dorso del suo “tesoro”. Quell’uomo era enorme e orribile, simile a un maiale; afferrò il povero Pongo e lo scosse con forza, come se volesse far uscire i danni causati da ciò che era accaduto.
+
+“Ah, bor, ah, mubbe so be zar ye be arter zummat?” disse, formulando la sua prima critica di quanto era accaduto. Uno dei suoi scagnozzi rispose “Ah!”, accompagnando la risposta con un calcio che colpì Pongo in un osso e lo ferì gravemente. Un altro scagnozzo insistette chiedendo: “Wahrn ee be un or no? Ah?”
+
+Senza dare a Pongo il tempo di rispondere, il padrone scosse nuovamente il suo prigioniero, gridando: “Chi è stato?”, e in quel momento scoppiò un gran clamore.
+
+“Signori,” disse Pongo, “signori!” Tutto il suo vigore era stato completamente distrutto da quell’esperienza, ma riuscì a liberarsi e si alzò, ansimando e strofinandosi contro il muro della capanna.
+
+Il suo colletto era stato strappato via; metà dei bottoni del gilet erano rovinati; la camicia era lacerata; la cravatta era storta e svolazzava; gli stivali erano coperti di fango, accumulatosi in qualche zona morbida dove aveva calpestato il fango mentre fuggiva dalla furia del campo. Ansimando, implorò la loro pietà. Ora che potevano puntare le loro lanterne tremolanti su di lui, notarono finalmente il materiale dei suoi vestiti. E un grande terrore li invase, persino il caposquadra stesso; temevano che loro, semplici servi, avessero osato toccare uno dei loro signori.
+
+Di certo, nonostante tutta la sua sporcizia e miseria, non era uno di quei membri della banda che avevano giurato di rubare il “Bull” prima della Festa di Mezza Estate. C’era sicuramente un errore.
+
+“Mezzo scemo, eh!”, disse il caposquadra con aria cupa, guardando la sua vittima da capo a piedi, chiedendosi cosa fare adesso.
+
+“Non so cosa intendessi”, disse Pongo, “ma mi hai fatto davvero male”.
+
+Lontano, lungo la strada dove i suoi due rapitori lo stavano portando, il toro ruggì con estrema maestosità; Pongo tremò al sentire quel suono. Quel rumore ricordò al caposquadra dei tori la sua ingiustizia subita.
+
+“AR,” disse di nuovo, “di cosa vuoi lamentarti con Bull?”
+
+“Non volevo litigare con il Toro, stupido che sei,” disse Pongo, il suo carattere cornico profondamente commosso.
+
+“Ooubeeacarlinoaful?”, disse il caposquadra con rabbia, ricominciando tutto da capo.
+
+“Signori,” implorò Pongo, “signori. Allora all’improvviso gli venne in mente la Cura Perfetta per tutti i mali dell’umanità. Tirò fuori un biglietto da cinque sterline.”
+
+“Non so dove mi trovo,” disse, “e fa buio. Devo arrivare a Habberton. Devo! Subito! Ora siete bravi ragazzi e portatemi a Habberton!”
+
+I contadini lo guardavano con sospetto. Alla fine riuscì a capire, più o meno chiaramente, che lo avrebbero portato via e consegnato a destinazione. Non correvano alcun rischio. Prese strade sconosciute, incitandoli continuamente ad affrettarsi, finché non vide la grande casa che si stagliava scura contro il cielo. Lo portarono intorno alla casa, vicino alla stalla, e lo consegnarono al maggiordomo. Pongo si sentiva furioso; quando il maggiordomo uscì, pieno di preoccupazione e rispetto, ripose nella tasca la banconota da cinque sterline che fino ad allora aveva tenuto stretta nella mano destra, utilizzandola come una carota per i suoi rapitori: la agitava davanti a loro come promessa o ricompensa per un buon servizio.
+
+Il capo della guardia era sinceramente deluso, così come tutti i suoi uomini. Desideravano interrogare il maggiordomo, ma vennero duramente ignorati da lui; inoltre, un servitore che si trovava nelle vicinanze li avvertì con estrema serietà. Se ne andarono di nuovo nella oscurità, con la vaga sensazione di aver disturbato qualcuno legato al Re d’Inghilterra, e mentre ispezionavano il toro ferito, decisero che le sfortune non arrivano mai da sole.
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_04" data-title="Pongo and the Bull — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/clothing,motif/the_clock,motif/journey,concept/ambition,form/satire,setting/london,character/napoleon"></span>
@@ -5414,6 +7944,32 @@ His friends had told Pongo more than once that he was like Napoleon. It was a li
 
 He reached his room: it was empty. He tore up from it toward the lobbies, and came to them blown, exhausted, miserable, unkempt, dressed as no great statesman ever yet was dressed since the beginning of time, but even as he ran he heard the fatal shout “Divisio-o-on,” sounding down the passages.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Al piano di sopra, nella sua stanza a Habberton – nella stessa stanza che aveva avuto fino a quella mattina – Pongo aveva la febbre. Riuscirebbe forse ad arrivare in tempo per salvare quel voto? No, ormai era troppo tardi!
+
+Era in stracci e coperto di fango. Prese in prestito, il più velocemente possibile, ogni indumento che riuscì a trovare: stivali di Henry che gli erano troppo grandi; un paio di pantaloni con le coste intrecciate di Thomas; una giacca a strisce gialle e nere di Charles; una camicia con colletto alto fornita da qualche benefattore sconosciuto nella sala dei servitori; una cravatta elegante presa da John. Distribuì generosamente denaro. Era angosciato dalla fretta: era accaduto un incidente, avrebbe spiegato tutto, poteva prendere uno dei motori?
+
+Il maggiordomo era estremamente delicato nel suo comportamento; tutti erano andati in città. La signora Smith era partita con uno dei motori. L’altro, pensò, non poteva essere utilizzato. Ma c’era un treno: partiva ogni venti minuti.
+
+Quando è arrivato in città?
+
+“Mezzanotte e dieci.”
+
+Fategli avere quell’oggetto subito e mandatelo immediatamente alla stazione!
+
+Pongo era quasi fuori di sé mentre percorreva quei pochi chilometri nella notte. Ringraziò le stelle quando riuscì ad imbarcarsi sul treno all’ultimo momento. Guardò con ansia il treno avanzare verso la città, pensando a quanto fosse in ritardo e a quali possibilità avesse ancora. Doveva arrivare prima che fosse troppo tardi, doveva parlare in tempo. Si chiedeva (oh, quanto si chiedeva!) cosa fosse successo al suo gruppo. Non riusciva a leggere nulla, né a pensare a nulla. Non notò nemmeno gli sguardi curiosi dei suoi compagni di viaggio, che osservavano con sorpresa il suo abbigliamento insolito: i pantaloni intrecciati, le grandi scarpe, la giacca a strisce gialle e nere, la cravatta elegante, e soprattutto il fatto che non indossasse alcun cappello.
+
+Il treno arrivò con dieci minuti di ritardo; lui saltò su un taxi, gridò “House of Commons” e, appoggiandosi allo schienale del veicolo, iniziò a sperare nonostante tutto, contando i minuti che passavano.
+
+Si trovava a cento metri da Big Ben, e quell’orologio estremamente preciso indicava cinque minuti alle undici, quando, con un suono simile a un russare interrotto, il taxi si fermò di colpo alla fine di Parliament Street.
+
+Il conducente stava appena iniziando a spiegare in dettaglio la dinamica dell’incidente quando, con orrore, vide il proprio passeggero, senza alcun pensiero di pagare, sfrecciargli tra le braccia e dirigersi a tutta velocità verso l’uscita che conduceva alla sua stanza nella Camera dei Comuni.
+
+I suoi amici avevano detto più volte a Pongo che lui era come Napoleone. Era una bugia. Ma si comportava in modo simile a come avrebbe fatto Napoleone in quella situazione: andava dritto verso l’obiettivo. Mancavano ancora undici colpi. Westminster era un palazzo pieno di sorprese; forse la situazione poteva ancora essere salvata.
+
+Raggiunse la sua stanza: era vuota. Si precipitò verso gli ingressi principali, arrivandovi sfinito, esausto, miserabile e in disordine, vestito in modo che nessun grande statista si fosse mai abbigliato sin dall’inizio dei tempi. Ma mentre correva, sentì echeggiare per i corridoi quel grido fatale: “Divisio-o-on”.
 
 
 
@@ -5463,6 +8019,50 @@ A little before four o’clock Dolly unfolded the joints of his aged, tall, unga
 The House was very crowded. Every one was waiting for the announcement of the policy upon which the loan depended. Two Indians in the Public Gallery gave an exclamation together and were turned out. There was a complete silence when Dolly began his long, dull, and elaborate survey of the conditions that demanded the assent of the House to the very large experiment of the New Indian Loan. He explained what everybody knew — that this loan, under the new Imperial Council Act, must be ratified by the House of Commons, that the conditions of India were, &c. &c., that British credit, &c. &c., that our great dependency, &c. &c. He made it as dull as he could, and he was successful; but no one left the crowded benches; they were waiting to hear what they had come to hear, and to know the conditions of the loan.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO DICIANNOVE
+
+“A volte, gli animali vengono colpiti da un improvviso attacco senza alcuna ragione apparente, e l’intero branco scappa in preda al panico, correndo follemente attraverso le pampas.” — “Natural History of South America” di Gibson, vol. ii, p. 164.
+
+Quel lunedì, quando Dolly si recò in città, era davvero molto stanco.
+
+La sua mente potrebbe essere paragonata al corpo di un uomo che ha lottato contro uno più forte di sé, che è stato tormentato in ogni modo possibile, e che ora finalmente è libero, ma deve ancora compiere uno sforzo finale, non per combattere il suo avversario, ma per raggiungere la sua casa. O forse era come un uomo che ha nuotato contro una corrente violenta per salvarsi nella bocca di un porto; arrivato a riva, quasi svenuto, sa ancora che deve camminare ancora qualche metro per raggiungere la sicurezza umana.
+
+L’attività alla Camera dei Comuni, che lui apprezzava più di molti della sua stessa classe (una cosa che molti della sua classe non riescono nemmeno a sopportare), la affrontava con stanchezza. Ma in fondo si trattava di una stanchezza soddisfacente; una stanchezza dopo la quale avrebbe trovato riposo.
+
+Un pensiero continuava a tormentarlo: la necessità di affrontare l’opposizione malintenzionata di molti uomini.
+
+Avrebbe voluto che il giorno che lo aspettava fosse uno di quei giorni normali nella vita politica, in cui si combatte una battaglia simulata con tanto rumore e cerimonie, ma durante la quale nessuno, in alcuna parte dell’assemblea, manifesta un minimo di sincerità. Oggi (si disse mentre sedeva nella sua stanza a esaminare alcuni documenti prima di andare in aula), sicuramente ci sarebbe stato qualche segno di quella sincerità. E lui la odiava.
+
+A quel punto, l’affluenza di persone presso i progetti di assistenza era altrettanto elevata quanto quella legata ai prestiti: anzi, ancora maggiore. La città dava per scontata la sicurezza dei lavori in corso, e ora tutti gli operatori umanitari, sia all’interno che all’esterno del parlamento, erano impegnati a sostenerli.
+
+Aveva davanti a sé un compito arduo: doveva alzarsi in piedi e fare dichiarazioni per insistere sul fatto che il Governo dovesse avere totale libertà di utilizzare quei soldi come desiderava.
+
+Temeva il silenzio e lo sconcerto del proprio schieramento. Temeva ancora di più le possibilità di commettere errori da parte dell’Opposizione, situata al di sotto della passerella.
+
+I “Conservatori” avrebbero protestato, naturalmente, e subito; i “Rivoluzionari” dell’opposizione forse li avrebbero sostenuti; inoltre, c’era l’accordo con Pongo per far candidare Capthorpe, quel semidemente. Anche se ogni parola pronunciata da quel semidemente a favore dei lavori di miglioramento e contro il lasciare al governo totale libertà d’azione avrebbe allontanato sempre di più i suoi stessi sostenitori e avrebbe aiutato Dolly e la politica della ragione, tuttavia ascoltare anche solo simili discorsi rappresentava una vera e propria tortura per chiunque avesse vissuto ciò che aveva appena vissuto Dolly.
+
+Entrò nella Camera verso la fine della sessione delle domande e, poco prima di prendere il suo posto, vide Young Ludlow e Big Ludlow che parlavano insieme. Per la decima volta, Big Ludlow stava spiegando a Young Ludlow i dettagli dell’accordo; Young Ludlow, anch’egli per la decima volta, rispondeva di averne già piena conoscenza. Forse Young Ludlow non era bravo a ricordare i volti, e forse suo fratello aveva ragione nel dire che il modo in cui pronunciava i nomi fosse offensivo. Ma comunque si considerava in grado di comprendere quel piano.
+
+Avrebbe dovuto esserci il discorso di Dolly; poi sarebbe entrato Pongo alla fine; dopo ci sarebbe stato il turno di Moss, e infine quel semidemente avrebbe dovuto prendere posizione dal loro lato, da quello di Young Ludlow, per evitare che la sua stupidità causasse panico. Infine Pongo si sarebbe alzato in piedi per concordare con Dolly. Young Ludlow aveva preparato un piano dettagliato per tutto ciò; aveva anche confrontato i suoi piani con quelli di Big Ludlow per assicurarsi che fossero coordinati.
+
+Dolly sarebbe stato presente per circa un’ora, fino alle cinque; Pongo avrebbe dovuto arrivare poco prima delle cinque; quando Pongo fosse entrato, Dolly avrebbe intensificato particolarmente le sue offese contro di lui; dieci minuti prima delle cinque, Dolly avrebbe iniziato ad essere particolarmente aggressivo, e lui, il leader dell’Opposizione, avrebbe dovuto cogliere l’occasione per intervenire nel momento più acuto delle offese, qualora Pongo fosse arrivato in ritardo, e andare a prenderlo. Al suo arrivo, ci sarebbe stata qualche esclamazione di incoraggiamento da parte della frazione moderata dell’Opposizione. Young Ludlow aveva chiesto loro esplicitamente di farlo. Dopo Dolly, avrebbe parlato Moss; non appena Moss fosse finito, quel mezzo idiota di Capthorpe si sarebbe alzato per parlare a sua volta. Glielo aveva detto lui, e Capthorpe ne era stato immensamente lusingato!
+
+Ci vorrebbe al massimo fino alle sei e mezza. Poi Pongo avrebbe dovuto alzarsi sulle sue molto corte zampe posteriori e parlare della gravità della situazione, e tutti i presenti avrebbero dovuto ascoltare in un silenzio reverente. Il giovane Ludlow aveva organizzato quel “silenzio reverente”, e il grande Ludlow, che ne era un po’ nervoso, si era preso la briga di chiedere a Worston a cena – visto che Worston era il milionario più rispettato del partito dell’Opposizione – di iniziare quel silenzio, se non gli dispiaceva. Poteva anche tossire o soffiarsi il naso. Sarebbe davvero piaciuto molto a Dolly, aveva detto il grande Ludlow. E Worston, la cui sorella aveva sposato il fratello del segretario di Dolly, era un uomo troppo gentile per rifiutare.
+
+Era essenziale finire tutto entro le otto, a causa della cena da Madame de Schahrr.
+
+Nessuna delle migliaia di prove per la festa fu mai pianificata con maggiore attenzione ai tempi.
+
+* * *
+
+Quando Dolly entrò nella Camera, lui le lanciò uno di quegli sguardi che neri e politici acquisiscono istintivamente: sguardi in cui l’occhio cerca un oggetto di sbieco senza che il capo si muova di conseguenza. Nella galleria dei nobili, tra una folla indistinta di lord, scorse il vecchio Duca di Battersea e, nel suo cuore, sorrise. Il Duca probabilmente sarebbe rimasto sorpreso.
+
+Poco prima delle quattro, Dolly iniziò a parlare, muovendo le articolazioni della sua figura alta, anziana e un po’ goffa.
+
+La Camera era molto affollata. Tutti aspettavano l’annuncio della politica su cui dipendeva il prestito. Due indiani presenti nella Galleria Pubblica esclamarono all’unisono e furono cacciati fuori. Calò un silenzio totale quando Dolly iniziò il suo lungo, noioso e dettagliato discorso sulle condizioni necessarie affinché la Camera desse il proprio consenso a questo importante prestito per l’India. Spiegò ciò che tutti sapevano: che questo prestito, ai sensi del nuovo Atto del Consiglio Imperiale, doveva essere ratificato dalla Camera dei Comuni; che le condizioni dell’India erano tali e tali; che il credito britannico era fondamentale, e così via. Riuscì a rendere il suo discorso il più noioso possibile, e ci riuscì; ma nessuno lasciò i banchi affollati: tutti aspettavano di sentire ciò per cui erano venuti lì, e di conoscere le condizioni del prestito.
+
 
 
 <span class="atom-split" data-atom="chapter_19--part_02" data-title="Pongo and the Bull — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="setting/london"></span>
@@ -5503,6 +8103,42 @@ As he said this Dolly put on a firm little look, like an old maid in the provinc
 The speech went phut; it concluded in a few half-murmured sentences, a little shriek about “the untrammelled energies of an Imperial people,” and it died away, and Dolly flopped down.... He ought to have eaten more at luncheon. He was really unwell.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Intorno alle quattro e mezza iniziò la serie di insulti contro Pongo, ed era davvero spettacolare! Mai prima d’allora un Primo Ministro aveva preparato così bene il terreno per un “grande sacrificio” da parte di un leader dell’Opposizione ufficiale. Insultava Pongo senza sosta, addossandogli tutte le responsabilità della crisi, colpendolo con crescente violenza. Alla fine, pronunciando la parola “assassinio”, fece una pausa appena percettibile, proprio nel momento in cui il cattivo, L.C., avrebbe dovuto intervenire. Ma Pongo non arrivò mai!
+
+Non c'era altra scelta se non passare il tempo continuando a insultarsi a vicenda, per evitare un anticlimax.
+
+A un membro privato non sarebbe stato permesso di spingersi fino a quel punto, come invece fu consentito a Dolly. Disse cose sul Leader dell’Opposizione che, se quell’uomo fosse stato presente, lo avrebbero certamente fatto reagire in modo negativo, nonostante tutto ciò fosse solo una farsa. Ci furono proteste dai banchi posteriori dell’Opposizione; in particolare, nel caso di un uomo che aveva preso l’abitudine pericolosa di bere vino a pranzo e che spesso non era completamente in sé nel pomeriggio, Young Ludlow dovette intervenire personalmente per evitare interruzioni.
+
+Se quell’onorevole signore fosse stato lì. Dolly agitò il dito indice verso quel posto vuoto, e Young Ludlow, sebbene la sua recitazione non fosse mai stata particolarmente buona nei teatri privati, riuscì a interpretare con grande efficacia quell’atteggiamento tragico di sconforto. Se quell’onorevole signore fosse stato lì, gli avrebbe chiesto con quale tipo di umiliazione della propria coscienza pubblica, con quale cinismo e abbandono alle vergognose intrighi dei partiti politici, avesse permesso che la situazione in India raggiungesse quella fase così deplorevole!
+
+Andava avanti così; a Dolly restavano soltanto quindici minuti per finire; il volume della musica doveva aumentare sempre di più, se voleva che l’ingresso di Pongo dal centro sinistro fosse davvero efficace dal punto di vista emotivo; e più Pongo ritardava, più Dolly si sforzava. Ma lui non osava iniziare a esporre la sua politica né presentare il documento decisivo finché Pongo non fosse arrivato. E Pongo continuava a ritardare.
+
+La lancetta delle ore dell'orologio avanzava sempre di più oltre le cinque: anche i più anziani e i più corrotti iniziavano a mostrare interesse per quell'esibizione violenta. Dolly era entrato in un stato di frenesia che, sul palco stesso, sarebbe sembrato esagerato.
+
+Continuò a farlo a pieno ritmo per altri dieci minuti. Ma iniziava a barcollare. E nessun Pongo in vista!
+
+C’è una sensazione nauseabonda di suspense che tutti coloro che hanno atteso un compagno di viaggio fino all’inizio stesso del treno conoscono bene: mentre si scrutano le banchine, dapprima con ansia e poi con trepidazione, si scopre che i propri piani vanno in fumo all’ultimo momento, perché quell’amico non è arrivato. C’è un momento terribile di disperazione nella mente del comandante quando si osserva l’arrivo cruciale di una forza attesa, situata molto lontano lungo la linea, nel momento finale di un movimento congiunto, e si scopre che non è arrivata.
+
+Il Primo Ministro provava qualcosa di simile a queste emozioni: il posto del leader di fronte a lui rimaneva vuoto, e per qualche motivo inspiegabile quella combinazione non riusciva a completarsi.
+
+Non riusciva più a continuare con quegli insulti; non aveva più nulla da dire. Una lunga esperienza nell’esprimersi a parole gli permise di tirare avanti per altri venti minuti; li riempì in modo vago e maldestro, ricorrendo a suggerimenti e domande retoriche, fino a quando, finalmente, fradicio e esausto, quasi crollò alla fine di un anticlimax.
+
+Il silenzio alle sue spalle era sgradevole. C'era la sensazione che, in qualche modo, nulla stesse accadendo; allora, disperata, Dolly passò al vero argomento della discussione e iniziò a parlare delle condizioni del prestito.
+
+Non osava mescolare quelle accuse con le offese rivolte a Pongo. Un semplice respiro, un accenno al fatto che Pongo stesse agendo in modo antipatriottico rifiutandosi di dare alla Giunta totale libertà d’azione sarebbe stato equivalente a dire a tutta l’Opposizione di votare contro il Governo.
+
+Non osava dire che Pongo lo avrebbe sostenuto. Ci sono brutalità e cinismi che nemmeno il sistema partitico permette, che il proprio senso di autoconservazione non tollera.
+
+Sudava nervosamente durante le prime dozzine di frasi, poi iniziò a pronunciare, di fatto, un discorso completamente nuovo. E, per tutti i cieli, quanto fallì! Un discorso aggiunto alla fine di un altro non è mai qualcosa di piacevole da ascoltare. Ma proprio quel giorno, tra tutti i giorni possibili! La Galleria Diplomatica osservava con curiosità; il Ministro argentino, che rappresentava interessi così importanti e che ormai era il straniero più popolare di [[London|Londra]], commentò con un nobile tedesco che Dolly stava per andare in pensione. Il Duca di Battersea dominava la scena con il suo volto impassibile, grave e ben definito. Aspettava quella dichiarazione. E la dichiarazione arrivò.
+
+Dolly aveva intenzione che fosse qualcosa di virile e breve. Ma non lo era affatto. Non era né più virile né più breve di lui. Era semplicemente ciò che era: vecchio, magro, stanco del mondo e con le articolazioni rigide. Sorrideva senza rendersene conto e, per tutto il tempo, si scusava (almeno nel tono delle sue parole); una o due volte anche reagì in modo brusco verso un “nemico” immaginario. Si giustificava della propria indipendenza prima ancora di affermarla apertamente; guardava intorno più volte, incerto riguardo ai suoi seguaci, e più di una volta perdeva il filo del discorso quando i membri più radicali dell’Opposizione lo interrompevano con risate. Ma, in un modo o nell’altro, riuscì finalmente a esprimersi: “Il governo era deciso che i fondi ricevuti e votati in questo modo potessero essere utilizzati liberamente in qualsiasi situazione imprevista potesse verificarsi.”
+
+Mentre diceva queste cose, Dolly assunse un'espressione decisa, come una vecchia zitella di provincia che insiste nel voler cambiare il proprio denaro. Colpì la cassetta delle lettere con il pugno in modo incerto, e purtroppo poco dopo lo fece di nuovo, ma questa volta ancora meno energicamente. Guardò intorno alla sala con un gesto che avrebbe dovuto sembrare deciso, ma in realtà era solo un'occhiata nervosa; nessuno tra i suoi sostenitori applaudì. Quando vide quel terribile vuoto al posto dove avrebbe dovuto esserci Pongo, gli venne un nodo allo stomaco.
+
+Il discorso finì nel nulla; si concluse con alcune frasi mormorate a metà voce, un breve grido riguardo alle “energie incontrollate di un popolo imperiale”, e poi tutto tacque. Dolly si accasciò a terra. Avrebbe dovuto mangiare di più a pranzo; stava davvero male.
+
 
 
 <span class="atom-split" data-atom="chapter_19--part_03" data-title="Pongo and the Bull — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="concept/satire_of_society,concept/democracy,concept/hypocrisy,concept/antisemitism,form/satire,setting/london"></span>
@@ -5532,6 +8168,32 @@ Something had gone hopelessly wrong, and at any rate it wasn’t the moment for 
 
 The Chair gave him the fullest latitude, almost to the North Pole of latitude; he talked about India in every conceivable aspect; he brought in the loan now and then like a Jack-in-the-box, and then wandered off to Tamil, to the Brahmapootra, to Adam’s Bridge, to the Missionaries, and ended up at least eight perorations with a mention of the Empire. So far as one could make out anything in the huge jelly of words, he was against guaranteeing the loan on the Relief Works — if so, he was the only man left in the House who was. The House had dwindled down to about twenty cranks, each on the spring for a speech, and two Irishmen who sat for English constituencies where the Irish were in a majority and who, having dined at an earlier hour, watched the performance with all the amusement they might have derived from a circus.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Erano le sei in punto; Dolly aveva parlato per due ore quando il signor Moss si alzò con quella calma che sempre lo caratterizzava, e con quel disprezzo per gli uomini che lo aveva reso tanto amato dalla maggior parte delle persone.
+
+Tenne un discorso molto sensato e diretto; esso si abbinava perfettamente al lucido olio sui suoi capelli e alla caratteristica rigidità del suo abbigliamento. Gli sguardi beffardi che suscitò – poiché il discorso era pieno di sarcasmo – erano in armonia con le sue labbra grandi, così come la precisa modulazione della sua voce era in linea con l’assenza di vita nei suoi occhi luminosi e a mandorla. Doveva infatti annunciare la politica di coloro per i quali parlava.
+
+Il Primo Ministro, nel corso di tutto il suo discorso, aveva dedicato soltanto un passaggio all’argomento che l’Assemblea attendeva con ansia, e quel passaggio risultò deludente. A meno che entro la fine della serata qualche gentiluomo non potesse fornire all’Assemblea una garanzia definitiva da parte del Governo riguardo alla sicurezza dei lavori di soccorso (forti applausi), anzi, a meno che almeno metà dei fondi stanziati non venisse effettivamente destinata a tali scopi – lui personalmente si opponeva decisamente a tale prestito e avrebbe portato la sua opposizione fino a una votazione formale. In quel momento, due voci di assenso provennero dall’Opposizione; inoltre, il gentiluomo che aveva bevuto a pranzo applaudì imitando il canto di un gallo. Lui personalmente si sarebbe opposto al prestito e avrebbe portato la sua opposizione fino a una votazione formale.
+
+Il signor Moss non fu turbato dall’affetto che lo circondava. Aveva qualcosa di molto semplice da dire e lo disse. Colpendo con il pugno grasso e informe della sua mano destra la palma grassa e ricurva della sinistra, in modo tale da far capire a chiunque osservasse che molti anni prima sarebbe sicuramente arrivato al posto di primo piano nel Parlamento, il signor Moss dichiarò che l’Assemblea aveva atteso con perfetta saggezza per scoprire quale parte del prestito sarebbe stata destinata ai lavori di assistenza sociale, di cui i nostri connazionali avevano un bisogno estremamente urgente. Lui e coloro per cui parlava avevano un dovere molto chiaro da compiere: si trattava semplicemente di decidere sì o no. Erano certi che sarebbero stati stanziati fondi significativi per i lavori di assistenza sociale, o no?
+
+Di fronte a questa richiesta semplice e diretta, due giovani uomini del partito di opposizione furono così commossi che esclamarono ad alta voce il loro consenso; poi, imbarazzati, rimasero in silenzio. Il signor Moss, intanto, continuò senza alcun problema; né lui né i suoi colleghi desideravano mettere in difficoltà il governo in una situazione così difficile.
+
+Per quanto li riguardava, ovviamente, lui stesso e i suoi colleghi (e anche il Professor Cheasely concordò con un acuto tono da donna viziata) avrebbero desiderato che l’intero prestito venisse utilizzato per alleviare le sofferenze dei nostri connazionali. Ma il signor Moss era convinto di non aver commesso alcun errore; mentre lo diceva, sorrise alla platea, e quel sorriso fece sembrare la sua pelle lucida ancora più fanatica. Una chiara intesa, ovvero che una parte sostanziosa del denaro venisse destinata allo scopo che tutti avevano in mente, avrebbe soddisfatto lui stesso e i suoi colleghi.
+
+Quando il signor Moss ebbe terminato di parlare, abbassò il mento sul colletto della cravatta, prese con la mano sinistra le due estremità della sua giacca e, separandole con la destra, si sedette in modo assai goffo. Il suo discorso fu accolto da applausi sporadici ma pericolosi; questi scoppiarono in molte parti dell’aula, come se rappresentassero l’unanimità del parere generale, ma l’Opposizione era quella più rumorosa. Il cugino di Dolly, Bill Purvis, figlio di Jenny, fu così sciocco da esclamare ad alta voce “Bravo, bravo!”. Pensava di fare la cosa giusta, ma il Front Bench ne era disgustato. Quel piccolo idiota perse diciotto punti nelle votazioni!
+
+Dieci membri si alzarono in piedi per parlare. Dolly guardava con aria stanca, con lo sguardo di un uomo morente, il posto vuoto di fronte a lui. Si chiese se Pongo fosse morto. Ma no!
+
+Mi immagino, lontano nel paese occidentale, un uomo rannicchiato in un luogo buio, che tremava al solo odore di un toro; un toro che lo proteggeva e lo odiava, in attesa di vendetta. Lontano, nelle colline del Somersetshire, una terra distante ma piacevole.
+
+Dietro la sedia del Presidente del Parlamento, Big Ludlow e Young Ludlow erano impegnati in una conversazione ansiosa. Erano quasi le sette; dove potesse trovarsi Pongo o cosa gli fosse accaduto, solo il cielo lo sapeva. Quei due fratelli – il governo e i leader dell’opposizione – erano angosciati a modo loro, fino al limite estremo dell’ansia: Big Ludlow, che conosceva bene le dinamiche della situazione, soffriva per l’evidente preoccupazione legata a un problema imminente; Young Ludlow, il cui cervello era altrettanto sconvolto quanto i suoi capelli, provava un’acuta confusione mentre il signor Moss concludeva il suo discorso.
+
+Qualcosa era andato terribilmente storto, e comunque non era il momento che quel idiota di Capthorpe parlasse. Il giovane Ludlow fu inviato da Capthorpe per dirgli quanto fosse un’opportunità ancora migliore quella che avrebbe avuto dopo cena. Il vecchio Ludlow consegnò rapidamente un biglietto a Worston, e quando finalmente il signor Moss ebbe compiuto quel gesto “gracevole” di cui ho parlato e tornò a sedersi, si vide Worston alzarsi in piedi. Aveva promesso di parlare senza sosta. E così fece davvero. Gli sembrava una cosa piuttosto difficile! Inoltre, doveva anche partecipare a quella cena da Madame de Schahrr. E trovava davvero un peccato che tutta la sua squadra e metà degli altri membri del Parlamento andassero a prepararsi per quell’evento, mentre lui rimaneva lì a “tenere in piedi il ponte”, e continuava a parlare, parlare, parlare.
+
+Il Presidente del Parlamento gli concesse totale libertà di espressione; parlò dell’India sotto ogni possibile aspetto; di tanto in tanto menzionava il prestito come se fosse una sorpresa inaspettata, per poi passare a discutere di Tamil, del Brahmapootra, del Ponte di Adamo e dei missionari, concludendo tutte le sue argomentazioni con riferimenti all’Impero. Da quanto si poteva capire in quel groviglio di parole, era contrario alla garanzia del prestito per i progetti di assistenza sociale; se così fosse stato, sarebbe stato l’unico membro del Parlamento a prendere tale posizione. Il Parlamento era ormai ridotto a circa venti persone, ognuna pronta a pronunciare un discorso non appena ne avesse l’occasione, e a due irlandesi che rappresentavano collegi elettorali inglesi in cui gli irlandesi erano in maggioranza; questi ultimi, essendo cenati prima, osservavano la scena con lo stesso divertimento che avrebbero provato assistendo a un circo.
 
 
 
@@ -5575,3 +8237,44 @@ As they went downstairs to the motor — the old man taking the steps with diffi
 * * *
 
 A month later when the General Election had given an enormous majority in Dolly’s favour, and when that majority had triumphantly repudiated the Relief Works, routed the cranks, jumped on the House of Battersea, and obediently devoted the Indian Loan to military uses, the Duke of Battersea understood certain things in the English character which had hitherto escaped him; and, as is often the case with men of the Duke of Battersea’s kind, he respected Dolly for having thrashed him soundly — but he could not forgive the house of Smith, Fischer and Co., and their commission rankled in his mind for three long years, at the close of which I am exceedingly glad to say the Duke of Battersea, having lost a good deal more money, died.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+A casa di Madame de Schahrr, i politici professionisti si ubriacavano di vino per dimenticare le loro preoccupazioni. Al Parlamento, quando Worston si sedette, i membri più radicali continuarono a parlare senza sosta. Intorno alle dieci, la sala iniziò nuovamente a riempirsi. I due banchi frontali erano pieni di persone ben vestite e ben nutrite, ma nessun Pongo!
+
+Le situazioni disperate richiedono rimedi disperati. Dolly ha scommesso tutto su Capthorpe, e Young Ludlow lo ha messo in prima linea con la rigida promessa che non avrebbe parlato per più di mezz’ora; Big Ludlow avrebbe concluso il dibattito tra le dieci e mezza e l’undici. Ahimè. I piani degli uomini sono spesso fallimentari! Ma Capthorpe era in forma. Quel semidemente era davvero in ottima forma! Nella sua vita non aveva mai tenuto un discorso che non venisse deriso; ma quella notte, forse ispirato da una divinità, o forse ingannando i suoi ascoltatori con l’entusiasmo post-prandiale, o ancora (e questa è la spiegazione più probabile) perché le sue convinzioni erano sincere – poiché era davvero un uomo sincero – il suo discorso rifletteva fedelmente i veri sentimenti dell’Opposizione. Quando descrisse le miserie della carestia, tutti rimasero in silenzio; quando menzionò l’onore della Gran Bretagna, anche i più ebbri erano pronti a piangere; quando attaccò il governo con toni violenti ma sinceri, fu semplicemente dovere per tutta l’Opposizione esultare. I sostenitori di Capthorpe erano radiosi. Finalmente si stava formando un vero schieramento di opinioni contrarie al governo!
+
+La conclusione del discorso di Capthorpe lo portò un po’ oltre le sue promesse iniziali. Fu davvero ottimo: venti minuti in più dedicati a insistere direttamente sull’assegnazione dei fondi per aiutare quelle milioni di persone di cui lui stesso era il “guardiano”, e poi si sedette.
+
+A Big Ludlow erano dati soltanto dieci minuti per rispondere a nome del governo, e lui fallì completamente. La sua natura gentile e la sua popolarità, su cui Dolly aveva fatto tante affidanze, finirono per rovinare tutto. Non si poteva prendere sul serio quella sua grande testa calva; lo amavano troppo. Inoltre, il sorriso che non veniva nascosto dalla sua altrettanto popolare barba marrone toglieva ogni credibilità alle sue argomentazioni. Parlava con coraggio, ma era evidente che a lui non importasse nulla, mentre a Capthorpe sì! E l’intera assemblea era dalla parte di Capthorpe.
+
+Suor Ann, Suor Ann. Non vedete nulla arrivare lungo la strada?. Mancavano dieci minuti alle undici e Pongo non è apparso. Mancavano cinque minuti alle undici, e le persone che stavano osservando la stanza di Pongo pronte a correre indietro se necessario non hanno visto arrivare nessuno! Erano le undici. Il destino era stato deciso. Grande Giove sorrise, soddisfatto; teneva le bilance davanti a sé: da un lato mise il “peso” del Duca di Battersea, dall’altro quello dello scheletro di Dolly. E la bilancia di Dolly superò quella del Duca. La questione era stata risolta. I “Saggi” sfidarono questa decisione, e l’intera Opposizione, animata dall’entusiasmo, li acclamò con forza.
+
+Fu in questo momento che una figura sorprendente, senza fiato e con segni evidenti di un possibile arresto cardiaco, entrò ansimando nell’atrio del governo.
+
+Aveva gambe molto corte e braccia molto lunghe. Sulle gambe indossava i pantaloni intrecciati di un valletto, sulle braccia le maniche molto corte di un pesante gilet da maggiordomo; portava una cravatta poco adatta al suo rango; e un gilet a strisce nere e gialle che, senza dubbio, sarebbe stato più adatto a una vespa che al pesante addome che copriva. Era Pongo!.
+
+Si guardò intorno nervosamente. Quanti dei suoi erano lì con lui a sostenere Dolly? Il giovane Ludlow, tre membri del suo stesso gruppo parlamentare, un gentiluomo di infinita saggezza chiamato Worms. E a parte questi sei, nessun altro. Tutti gli altri erano seguaci del governo. Era piuttosto ridicolo che lui, il leader, si trovasse in un lobbio e tutta la sua fazione in un altro. Ma comunque aveva mantenuto la sua promessa.
+
+Dalla lobby dell’Opposizione provenne un flusso costante di persone appartenenti ai gruppi conservatori e al resto dell’Opposizione; Capthorpe camminava con l’aria trionfale di un leader. Gli impiegati bancari si avvicinarono al tavolo, quelli del governo erano a sinistra!
+
+Un applauso assordante annunciò la sconfitta di Dolly. L’applauso continuò ancora e ancora, e passarono diversi minuti prima che venissero annunciati i risultati finali. Il governo era stato sconfitto per esattamente trentasette voti!
+
+Epilogo
+
+Il Duca di Battersea camminò pesantemente verso la stanza di Dolly, entrò con una certa sfrontatezza e gli chiese se volesse venire a cena con lui. Dolly riuscì a controllarsi molto bene e rispose di sì.
+
+Mentre scendevano le scale verso la macchina – l’uomo anziano saliva con difficoltà, e Dolly lo sosteneva gentilmente per il braccio – il Duca di Battersea disse:
+
+“Deve essere proprio così!” E, con un falso scuseggiamento, le assicurò che la Città non avrebbe tollerato nulla di diverso.
+
+“Non capisci,” disse Dolly in tono sommesso. “Mi scioglierò immediatamente.”
+
+“Vhell?”, disse il Duca di Battersea, che non capiva del tutto.
+
+“Mi dispiace per Pongo,” sospirò Dolly mentre saliva in macchina; l’anziano e grasso trafficante d’oro fu rispettosamente aiutato dai suoi servitori ad entrare nell’auto. “Mi dispiace davvero per Pongo. Una cosa del genere può rovinare completamente una persona nella politica, ” E rimase in silenzio per tutto il tragitto di ritorno a casa.
+
+* * *
+
+Un mese dopo, quando le elezioni generali avevano concesso a Dolly una maggioranza schiacciante e quando quella maggioranza aveva ripudiato decisamente i progetti di assistenza sociale, sconfitto gli oppositori e utilizzato i fondi ottenuti per scopi militari, il Duca di Battersea comprese alcune caratteristiche del carattere inglese che fino ad allora gli erano sfuggite; e, come spesso accade alle persone del suo tipo, rispettò Dolly per averlo sconfitto decisamente. Ma non riuscì a perdonare la ditta Smith, Fischer and Co.; quel rimorso continuò a tormentarlo per tre lunghi anni, fino a quando, con grande sollievo, il Duca di Battersea morì, avendo perso ancora più denaro.

@@ -74,7 +74,7 @@ With earthquake, chaos, born and fed, [[Rose|rose]],--and the word was "Peace."
 
 Una parola  
 
-G.K.Chesterton  
+G.K.Chesterton
 
 Una parola uscì in Galilea, una parola simile a una stella;  
 Salì e risuonò e benedisse e arse ovunque siano cuori arditi;  
@@ -188,7 +188,7 @@ With earthquake, chaos, born and fed, [[Rose|rose]],--and the word was "Peace."
 
 Una parola  
 
-G.K.Chesterton  
+G.K.Chesterton
 
 Una parola uscì in Galilea, una parola simile a una stella;  
 Salì e risuonò e benedisse e arse ovunque siano cuori arditi;  

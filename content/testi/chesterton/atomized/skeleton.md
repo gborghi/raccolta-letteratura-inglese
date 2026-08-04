@@ -41,7 +41,7 @@ Certo, amici, avrei dovuto immaginarlo:
 La [[Death|Morte]] era solo lo scherzo del buon [[King|Re]],  
 Era nascosto con tanta cura.  
 
-G.K. CHESTERTON
+# G.K. Chesterton
 
 
 
@@ -75,4 +75,4 @@ Certo, amici, avrei dovuto immaginarlo:
 La [[Death|Morte]] era solo lo scherzo del buon [[King|Re]],  
 Era nascosto con tanta cura.  
 
-G.K. CHESTERTON
+# G.K. Chesterton

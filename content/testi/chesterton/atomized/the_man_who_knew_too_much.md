@@ -22679,6 +22679,176 @@ happened to know how to use it, you want us to believe he used it
 like a bloodthirsty maniac for no reason in the world. And because
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In seguito… Avremmo dovuto trovarlo mentre imprecava e si arrabbiava in ogni direzione.
+
+“Questo sentiero, e bisogna cercare stivali puliti,” disse.  
+“Speriamo di trovarlo impegnato in qualcosa che lo renda felice,” osservò l’altro.
+
+#"Diplomato. "In quel caso, la voce deve essere provenuta da..."
+
+“Legno, ”  
+“Giuro che non è uscito dalla [[house|casa]],” disse Fisher; e il.
+
+Due persone scomparvero insieme nel crepuscolo degli alberi invernali. La piantagione si stagliava nell’oscurità contro i colori ardenti dell’alba.
+
+#Nebbia nera che dà agli alberi quell’aspetto piumoso…
+
+#Sono l’opposto di robusti… Ore e ore dopo…
+
+#Quando lo stesso margine denso e delicato era scuro contro…
+
+Titolo:  
+Colori verdastri contro il tramonto… così iniziò la ricerca.
+
+Il sorgere del sole non era ancora terminato… Attraverso fasi successive e lentamente.
+
+# Riunendo i vari gruppi dell’azienda, divenne evidente che…
+
+# Strani vuoti erano apparsi tra gli invitati…
+
+Non riuscirono a trovare traccia del loro ospite da nessuna parte. I servitori riferirono…
+
+Il suo letto era stato utilizzato per dormire, e anche i suoi pattini e il suo costumino elegante erano lì.
+
+Erano tutti andati via, come se si fossero alzati presto apposta per quello scopo che avevano in mente.
+
+Lo ammise apertamente. Ma dalla cima della [[house|casa]] fino alla base, dalle pareti.
+
+# Intorno al parco, fino al laghetto nel centro… non c’era traccia di Lord
+
+"Bulmer, vivo o morto… Horne Fisher si rese conto che la situazione era davvero inquietante."
+
+La premonizione gli aveva già impedito di aspettarsi di trovare quell’uomo.
+
+Vivo… Ma la sua fronte calva era corrugata per una ragione del tutto nuova…
+
+Un problema innaturale: non riusciva affatto a trovare quell’uomo. Prese in considerazione la possibilità che Bulmer fosse andato via da solo.
+
+# Accordo, per qualche motivo; ma dopo averlo attentamente valutato, alla fine…
+
+Lo ignorò. Non era in linea con quella voce inequivocabile che aveva sentito.
+
+Alle prime luci dell’alba… e insieme a molti altri ostacoli pratici. C’era solo…
+
+“Un varco nell’antica e maestosa muraglia che circonda il piccolo parco…”
+
+Il custode della locanda la tenne chiusa fino a tarda mattina… e la locanda stessa…
+
+Il custode non aveva visto nessuno passare. Fisher era abbastanza sicuro che fosse così.
+
+# Davanti a lui, un problema matematico in uno spazio chiuso… Il suo istinto…
+
+Fin dall’inizio, era così in sintonia con quella [[Tragedy|tragedia]] che avrebbe.
+
+# Trovare il cadavere è stato quasi un sollievo per lui… Altrimenti, sarebbe stato peggio.
+
+Addolorato, ma non spaventato, vide il corpo nobile penzolare lì.
+
+“Come se provenisse da uno dei suoi stessi alberi… o come se galleggiasse nel suo stesso ambiente.”
+
+Un giardino desolato, come una pianta pallida e senza vita. Quello che lo spaventò fu scoprire di non trovare nulla. Presto si rese conto che nemmeno nel momento più solitario, non era [[Alone|solo]].
+
+Esperimenti individuali e isolati… Spesso individuava un certo dato o risultato.
+
+Lo seguiva come la sua [[Shadow|ombra]], attraverso radure silenziose e quasi segrete.
+
+Nella piantagione o in tutti gli angoli nascosti del vecchio muro…
+
+Bocca con baffi scuri, silenziosa come gli occhi profondi e mobilissimi…
+
+# Correndo senza sosta da una parte all’altra, ma era evidente che il cervello…
+
+La polizia indiana aveva iniziato le ricerche con determinazione, come un vecchio cacciatore che segue la traccia della preda.
+
+#Un tigre… Poiché era l’unico amico personale della persona scomparsa…
+
+“Caspita, sembrava del tutto naturale… E Fisher decise di comportarsi onestamente.”
+
+Con lui.  
+“Questo [[Silence|silenzio]] rappresenta piuttosto una tensione sociale,” disse. “Posso romperlo?”
+
+#Parlando del tempo… che, tra l’altro, è già stato menzionato.
+
+“Rompere il ghiaccio… So che rompere il ghiaccio possa essere un’operazione piuttosto…”
+
+In questo caso, si tratta di una metafora della [[Melancholy|melancolia]].  
+“Non credo proprio,” rispose brevemente Brain. “Non mi piace l’idea dell’ice, ”
+
+C’entra molto in tutto questo. Non vedo come possa essere altrimenti.  
+“Che cosa proponi di fare?” chiese Fisher.  
+“Beh, abbiamo certo chiamato le autorità, ma spero di trovare, ”
+
+“Devo fare qualcosa prima che arrivino,” rispose l’anglo-indiano. “Non posso…”
+
+Diciamo che abbia molta [[Hope|speranza]] nelle metodologie della polizia di questo paese. Troppa, forse.
+
+Burocrazia, habeas corpus e simili… Quello che vogliamo è…
+
+"#Assicurarsi che nessuno scappi; il massimo che possiamo fare è..."
+
+#"Raccogliere tutti quanti e contarli, per così dire… Non è rimasto nessuno."
+
+Di recente, tranne che per quel avvocato che andava in giro alla ricerca di antichità.
+“Oh, lui se n’è andato; è partito la scorsa [[Night|notte]],” rispose l’altro. “Otto, ”
+
+Ore dopo che l’autista di Bulmer aveva accompagnato il suo avvocato alla stazione, io…
+
+“Sentii la voce stessa di Bulmer, chiara proprio come sento la tua ora.”  
+“Immagino che tu non creda negli spiriti, ” disse l’uomo dell’India.
+
+Dopo una pausa, aggiunse: “C’è un’altra persona di cui vorrei parlare…”
+
+Dobbiamo trovarlo prima di inseguire quel tizio che ha un alibi presso l’Inner Temple.
+
+#Che fine ha fatto quel tizio in verde… l’architetto travestito come…
+
+Un boscaiolo? Non l’ho più visto in giro.
+Il signor Brain riuscì a radunare tutti quei ragazzi distratti.
+
+#Prima dell’arrivo della polizia… Ma quando tutto ebbe inizio…
+
+#Ancora una volta sul ritardo del giovane architetto nell’iniziare i lavori…
+
+# Una apparenza… e si trovò di fronte a un piccolo mistero.
+
+E uno sviluppo psicologico di tipo del tutto inaspettato. [[Juliet]] Bray aveva affrontato la catastrofe causata dalla morte di suo fratello.
+
+**Scomparsa con un cupo stoicismo… forse.**
+
+Più paralisi che [[Pain|dolore]]; ma quando arrivò la seconda domanda.
+
+In superficie, lei era sia agitata che arrabbiata.  
+“Non vogliamo trarre conclusioni affrettate su nessuno,” disse Brain.
+
+“Ma vorremmo saperne di più”, disse con il suo modo di parlare spezzettato.
+
+#Di più sul signor Crane… Nessuno sembra saper molto su di lui, o dove si trovi.
+
+#Da dove viene… E sembra una specie di coincidenza che ieri lui…
+
+#Si scontrò apertamente con povero Bulmer, e avrebbe potuto ferirlo seriamente.
+
+Anche lui, poiché si dimostrò il miglior spadaccino… Naturalmente, questo…
+
+Titolo:  
+Potrebbe essere un incidente… e di certo non si può definire un caso contro…
+
+Qualcuno… ma purtroppo non abbiamo i mezzi per presentare un argomento convincente contro di loro.
+
+“Chiunque… Fino all’arrivo della polizia, siamo soltanto un gruppo di dilettanti.”
+
+“E penso che siate un branco di snob,” disse [[Juliet]]. “Perché il signor, ”
+
+#Un genio che ha fatto da sé…
+
+Un assassino che non osava ammetterlo. Perché indossava una spada di plastica.
+
+# Conosceva per caso come usarlo… vuoi che crediamo che l’abbia davvero usato?
+
+Come un maniaco assetato di sangue, senza alcuna ragione al mondo… E proprio per questo.
+
 
 
 <span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_06" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 6)" data-chapter="The Hole in the Wall" data-kind="excerpt" data-tags="motif/cross,motif/ghosts,motif/silence,motif/well,concept/body,form/allegory,form/tragedy,character/juliet,character/robin_hood"></span>

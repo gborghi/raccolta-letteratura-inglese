@@ -4101,6 +4101,10 @@ PRAISE OF THIS BOOK
 PRAISE OF THIS BOOK
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Elogi per questo libro
+
 
 
 <span class="atom-split" data-atom="story_02_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Praise Of This Book" data-kind="story" data-tags="form/travel_writing"></span>
@@ -4110,6 +4114,11 @@ PRAISE OF THIS BOOK
 CHARACTER OF PROVERB-MAKER
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Elogi per questo libro  
+# Il carattere di colui che compone proverbi
+
 
 
 <span class="atom-split" data-atom="story_03_the_grand_climacteric" data-title="The Path to Rome — The Grand Climacteric" data-chapter="The Grand Climacteric" data-kind="story" data-tags="form/travel_writing"></span>
@@ -4118,6 +4127,11 @@ CHARACTER OF PROVERB-MAKER
 THE GRAND CLIMACTERIC
 DIFFICULTY OF ENDING A BOOK
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il grande culmine  
+La difficoltà di concludere un libro
 
 
 
@@ -4129,6 +4143,12 @@ THE FIRST GARRISON
 ON JUSTICE IN ARMIES
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#La valle del Mosella  
+La prima guarnigione  
+Sulla giustizia nelle armate
+
 
 
 <span class="atom-split" data-atom="story_05_story_of_the_great_barrel" data-title="The Path to Rome — Story Of The Great Barrel" data-chapter="Story Of The Great Barrel" data-kind="story" data-tags="motif/wine_and_drink,form/travel_writing"></span>
@@ -4138,6 +4158,12 @@ STORY OF THE GREAT BARREL
 THE LAKE OF THE MOSELLE
 THE COMING OF EVENING
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Storia del grande barile  
+Il lago della mosella  
+L’arrivo della sera
 
 
 
@@ -4149,6 +4175,12 @@ THE UNHAPPY VILLAGE
 THE CRY FOR A BED
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#La notte nella foresta  
+#Il villaggio sfortunato  
+#Il grido per un letto
+
 
 
 <span class="atom-split" data-atom="story_07_the_full_curse" data-title="The Path to Rome — The Full Curse" data-chapter="The Full Curse" data-kind="story" data-tags="motif/food_and_feasting,form/travel_writing"></span>
@@ -4158,6 +4190,10 @@ THE FULL CURSE
 ON BREAKFASTS
 THE FURTHER VALLEY
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# La maledizione totale sui colazioni… La valle più lontana
 
 
 
@@ -4169,6 +4205,12 @@ THE HEAT OF MORNING
 THE MORNING MASS
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Come scrivere rime  
+Il calore del mattino  
+La messa mattutina
+
 
 
 <span class="atom-split" data-atom="story_09_charmes" data-title="The Path to Rome — Charmes" data-chapter="Charmes" data-kind="story" data-tags="concept/temptation,form/travel_writing"></span>
@@ -4177,6 +4219,11 @@ THE MORNING MASS
 CHARMES
 NATURE OF TEMPTING DEVILS
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Incanti  
+La natura dei diavoli tentatori
 
 
 
@@ -4187,6 +4234,12 @@ EPINAL CHURCH
 THE APPLE MAN
 THE LITTLE RUNNEL
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Chiesa di Epinal  
+L’uomo delle mele  
+Il piccolo Runnel
 
 
 
@@ -4199,6 +4252,12 @@ THE GREAT VIEW
 APOLOGY FOR THE MIDDLE-CLASS
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# La falsa batteria  
+La grande vista  
+Scuse per la classe media
+
 
 
 <span class="atom-split" data-atom="story_12_of_dormitory_trees" data-title="The Path to Rome — Of Dormitory Trees" data-chapter="Of Dormitory Trees" data-kind="story" data-tags="motif/dawn"></span>
@@ -4208,6 +4267,12 @@ OF DORMITORY TREES
 THE [[Dawn|DAWN]]
 THE SPECIAL CHAPELS
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+DEI ALBERI DEL DORMITORIO  
+[[Dawn|ALBA]]  
+LE CHIESE SPECIALE
 
 
 
@@ -4219,6 +4284,12 @@ THE YOUTH OF RIVERS
 THE PIOUS WOMAN
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Nomi locali  
+La giovinezza dei fiumi  
+La donna pia
+
 
 
 <span class="atom-split" data-atom="story_14_the_jews_in_the_hills" data-title="The Path to Rome — The Jews In The Hills" data-chapter="The Jews In The Hills" data-kind="story" data-tags="motif/hill,form/travel_writing"></span>
@@ -4228,6 +4299,12 @@ THE JEWS IN THE HILLS
 THE BALLON D’ALSACE
 THE INNER DARKNESS
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Gli ebrei delle colline  
+# Il pallone d’Alsazia  
+# L’oscurità interiore
 
 
 
@@ -4239,6 +4316,12 @@ THE SINGLE BEVERAGE
 THE TRACK TO SWITZERLAND
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La comune [[Faith|>fede]]  
+L’unico bevanda disponibile  
+Il sentiero per la Svizzera
+
 
 
 <span class="atom-split" data-atom="story_16_the_secluded_valley" data-title="The Path to Rome — The Secluded Valley" data-chapter="The Secluded Valley" data-kind="story" data-tags="form/travel_writing"></span>
@@ -4248,6 +4331,12 @@ THE SECLUDED VALLEY
 THE MANY PRIESTS
 THE GREAT GARRISONS
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#La valle isolata  
+#I molti sacerdoti  
+#Le grandi guarnigioni
 
 
 
@@ -4259,6 +4348,12 @@ THE SAD ECONOMISTS
 THE POWDER-MAGAZINE
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Costruire ponti  
+Gli economisti tristi  
+Il magazzino di polvere
+
 
 
 <span class="atom-split" data-atom="story_18_what_is_the_soul" data-title="The Path to Rome — What Is The Soul?" data-chapter="What Is The Soul" data-kind="story" data-tags="motif/soul,motif/wine_and_drink,form/travel_writing"></span>
@@ -4268,6 +4363,12 @@ WHAT IS THE SOUL?
 DISASTER OF THE WINE
 DE GERMANIA
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Che cos’è l’anima?  
+Disastro del vino  
+Dalla Germania
 
 
 
@@ -4279,6 +4380,12 @@ THE ERRONEOUS ANARCHIST
 THE MOUNT TERRIBLE
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Il vino sorprendente  
+#L’anarchista errato  
+#La montagna terribile
+
 
 
 <span class="atom-split" data-atom="story_20_the_bent_windows" data-title="The Path to Rome — The Bent Windows" data-chapter="The Bent Windows" data-kind="story" data-tags="topos/the_open_road,motif/journey,motif/window,motif/river,form/travel_writing,setting/france"></span>
@@ -4288,6 +4395,12 @@ THE BENT WINDOWS
 PRAISE OF WINDOWS
 GORGE OF THE DOUBS
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Le finestre piegate  
+Lode delle finestre  
+Gorgo del dubbio
 
 
 
@@ -4299,6 +4412,12 @@ THE DREADFUL BRIDGE
 SAFETY BEYOND
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Il ponte tentatore  
+#Il ponte terribile  
+#Sicurezza al di là…
+
 
 
 <span class="atom-split" data-atom="story_22_the_common_field" data-title="The Path to Rome — The Common Field" data-chapter="The Common Field" data-kind="story" data-tags="topos/the_open_road,motif/journey,concept/wonder_and_gratitude,form/travel_writing"></span>
@@ -4308,6 +4427,12 @@ THE COMMON FIELD
 THE HUMAN TIDE
 THEORY OF BLESSINGS
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Il campo comune  
+# La marea umana  
+# Teoria delle benedizioni
 
 
 
@@ -4320,6 +4445,13 @@ ON THE [[Faith|FAITH]]
 ON STYLE
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I contadini rozzi  
+Un voto solenne  
+Sulla [[Faith|>fede]]  
+Sullo stile.
+
 
 
 <span class="atom-split" data-atom="story_24_the_german" data-title="The Path to Rome — The German" data-chapter="The German" data-kind="story" data-tags="topos/the_open_road,motif/journey,concept/heresy_and_schism,form/travel_writing"></span>
@@ -4329,6 +4461,10 @@ THE GERMAN
 HERETICS
 EVERYDAY LIFE, HORRORS THEREOF
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#I eretici tedeschi: la vita di tutti i giorni e i suoi orrori
 
 
 
@@ -4340,6 +4476,12 @@ THE ACOLYTE OF RHEIMS
 THE MILLS OF GOD
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Giocchi senza parole  
+L’accolito di Reims  
+Le mulini di Dio
+
 
 
 <span class="atom-split" data-atom="story_26_between_the_trees" data-title="The Path to Rome — Between The Trees" data-chapter="Between The Trees" data-kind="story" data-tags="topos/the_sublime_in_nature,motif/journey,motif/tree,concept/the_sublime,form/travel_writing,setting/mountains"></span>
@@ -4349,6 +4491,12 @@ BETWEEN THE TREES
 THE VISION OF THE ALPS
 THE ALPS, THEIR PICTURE
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Tra gli alberi  
+La visione delle Alpi  
+Le Alpi, il loro ritratto
 
 
 
@@ -4360,6 +4508,12 @@ THE REMOTE INN
 THE GOOD SAVAGES
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# La scogliera  
+# L’ostello remoto  
+# I buoni selvaggi
+
 
 
 <span class="atom-split" data-atom="story_28_isolation" data-title="The Path to Rome — Isolation" data-chapter="Isolation" data-kind="story" data-tags="motif/journey,concept/solitude,concept/loneliness,concept/despair,form/travel_writing,setting/mountains"></span>
@@ -4369,6 +4523,12 @@ ISOLATION
 DESOLATION
 A DAY WITHOUT SALT
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Isolamento  
+Desolazione  
+Un giorno senza sale
 
 
 
@@ -4380,6 +4540,12 @@ STORY OF THE HORSE
 THE UPPER EMMEN
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Lo studente affamato non si presenta  
+Storia del cavallo  
+Gli Emmen più anziani
+
 
 
 <span class="atom-split" data-atom="story_30_the_brienzer_grat_how_it_lies" data-title="The Path to Rome — The Brienzer Grat, How It Lies" data-chapter="The Brienzer Grat How It Lies" data-kind="story" data-tags="motif/journey,motif/fog_and_smoke,form/travel_writing,setting/mountains"></span>
@@ -4389,6 +4555,10 @@ THE BRIENZER GRAT, HOW IT LIES
 THE FOG
 THE HALT IN THE FOG
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Il grat di Brienza, così com’è
 
 
 
@@ -4401,6 +4571,12 @@ BAD GEOGRAPHY
 A DOUBTFUL MAP
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#La tormenta della vita  
+#Terreni accidentati, geografia ostile…  
+#Una mappa incerta e pericolosa
+
 
 
 <span class="atom-split" data-atom="story_32_more_geography" data-title="The Path to Rome — More Geography" data-chapter="More Geography" data-kind="story" data-tags="topos/the_open_road,motif/journey,form/travel_writing,setting/mountains"></span>
@@ -4410,6 +4586,10 @@ MORE GEOGRAPHY
 THE GRIMSEL BEGINS
 THE LOUD NOISE
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Altre geografie: l’inizio di Grimsel… il rumore assordante
 
 
 
@@ -4421,6 +4601,12 @@ HEAD OF THE PASS
 DIGRESSION
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il bagliore della neve  
+Punto di passaggio  
+Digressione
+
 
 
 <span class="atom-split" data-atom="story_34_the_second_good_woman" data-title="The Path to Rome — The Second Good Woman" data-chapter="The Second Good Woman" data-kind="story" data-tags="topos/the_open_road,motif/journey,concept/education,form/travel_writing"></span>
@@ -4429,6 +4615,11 @@ DIGRESSION
 THE SECOND GOOD WOMAN
 ON THE MANIA OF UNIVERSITIES
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La seconda donna virtuosa  
+sulla mania delle università
 
 
 
@@ -4441,6 +4632,13 @@ ALL SNOW
 THE TOURMENTE
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Le colline insuperabili  
+La partenza…  
+Tutto neve…  
+Il tormento…
+
 
 
 <span class="atom-split" data-atom="story_36_defeat" data-title="The Path to Rome — Defeat" data-chapter="Defeat" data-kind="story" data-tags="motif/journey,concept/despair,form/travel_writing,setting/mountains"></span>
@@ -4450,6 +4648,12 @@ DEFEAT
 THE RETREAT
 THE SULLEN HOURS
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sconfitta  
+Il ritiro  
+Gli ore tristi
 
 
 
@@ -4462,6 +4666,13 @@ FAIDO
 8 FRANCS IO CENTIMES
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Nuovo Mondo  
+Le molte chiese  
+Faido  
+8 franchi e 10 centesimi
+
 
 
 <span class="atom-split" data-atom="story_38_bodio" data-title="The Path to Rome — Bodio" data-chapter="Bodio" data-kind="story" data-tags="topos/the_open_road,motif/journey,form/travel_writing,setting/italy"></span>
@@ -4473,6 +4684,13 @@ BELLINZONA
 THE PROUD STATIONER
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Corpo  
+Lago Maggiore  
+Bellinzona  
+Il fiero stanziale
+
 
 
 <span class="atom-split" data-atom="story_39_the_honest_man" data-title="The Path to Rome — The Honest Man" data-chapter="The Honest Man" data-kind="story" data-tags="topos/the_open_road,motif/journey,motif/dreams,form/travel_writing"></span>
@@ -4482,6 +4700,12 @@ THE HONEST MAN
 THE DREAM
 THE WAGGON-BOATS
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L’uomo onesto  
+Il sogno  
+Le barche a vagoncino
 
 
 
@@ -4493,6 +4717,12 @@ THE ENGLISH OF IT
 ESTIMATE OF CONSULS
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# L’Oracolo  
+La sua interpretazione inglese  
+Valutazione dei consoli
+
 
 
 <span class="atom-split" data-atom="story_41_ordeal_of_the_candals" data-title="The Path to Rome — Ordeal Of The Candals" data-chapter="Ordeal Of The Candals" data-kind="story" data-tags="topos/the_open_road,motif/journey,form/travel_writing,setting/italy"></span>
@@ -4502,6 +4732,11 @@ ORDEAL OF THE CANDALS
 LOMBARDY
 OLD LODI, ITS UGLY CHURCH
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Ordeal dei Candali  
+Lombardia – Old Lodi, la sua brutta chiesa
 
 
 
@@ -4513,6 +4748,10 @@ STORY OF CHARLES BLAKE
 STORY OF THE DEVIL
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Niente di che… Storia di Charles Blake… Storia del Diavolo"
+
 
 
 <span class="atom-split" data-atom="story_43_and_the_learned_man" data-title="The Path to Rome — And The Learned Man" data-chapter="And The Learned Man" data-kind="story" data-tags="motif/journey,motif/the_supernatural,concept/faith,form/travel_writing"></span>
@@ -4521,6 +4760,10 @@ STORY OF THE DEVIL
 AND THE LEARNED MAN
 APPARITION OF ST CHARLES BORROMEO
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'apparizione di San Carlo Borromeo
 
 
 
@@ -4532,6 +4775,12 @@ THE MOOR S HEAD
 ON PERFECT THINGS
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# sui tedeschi  
+La testa del moor  
+Su cose perfette
+
 
 
 <span class="atom-split" data-atom="story_45_fugue" data-title="The Path to Rome — Fugue" data-chapter="Fugue" data-kind="story" data-tags="topos/the_open_road,motif/journey,motif/inn_tavern,form/travel_writing"></span>
@@ -4541,6 +4790,11 @@ FUGUE
 UNIMPORTANT TOPOGRAPHY
 THE TAVERN BRAWL
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Fuga  
+Una topografia insignificante… La rissa nella taverna
 
 
 
@@ -4552,6 +4806,12 @@ THE IMPASSABLE RIVER
 ST CHRISTOPHER
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le nuvole  
+Il fiume inaccessibile  
+San Cristoforo
+
 
 
 <span class="atom-split" data-atom="story_47_the_great_view" data-title="The Path to Rome — The Great View" data-chapter="The Great View" data-kind="story" data-tags="topos/the_sublime_in_nature,motif/journey,form/travel_writing,setting/italy"></span>
@@ -4561,6 +4821,12 @@ THE GREAT VIEW
 THE BILINGUAL MAYOR
 THE PEASANT
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#La grande vista  
+#Il sindaco bilingue  
+#Il contadino
 
 
 
@@ -4572,6 +4838,10 @@ TIZZANO
 THE CROSSING OF THE ENZA
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Andiamo Tizzano: il attraversamento dell’Enza
+
 
 
 <span class="atom-split" data-atom="story_49_the_sun" data-title="The Path to Rome — The Sun!" data-chapter="The Sun" data-kind="story" data-tags="motif/journey,motif/sun,form/travel_writing,setting/italy,setting/mountains"></span>
@@ -4581,6 +4851,12 @@ THE SUN!
 THE PASS INTO TUSCANY
 THE FURTHER SIDE
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Il Sole!  
+L’ingresso in Toscana  
+Il lato più lontano
 
 
 
@@ -4592,6 +4868,10 @@ ON ANYTHING
 THE GARFAGNANA
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Sillano su qualsiasi cosa... la Garfagnana"
+
 
 
 <span class="atom-split" data-atom="story_51_the_bridges_of_castel_nuovo" data-title="The Path to Rome — The Bridges Of Castel-Nuovo" data-chapter="The Bridges Of Castel Nuovo" data-kind="story" data-tags="motif/journey,motif/food_and_feasting,form/travel_writing,setting/italy"></span>
@@ -4601,6 +4881,12 @@ THE BRIDGES OF CASTEL-NUOVO
 THE BRIDGE-GOD
 THE BANQUET
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# I ponti di Castel-Nuovo  
+# Il dio dei ponti  
+# Il banchetto
 
 
 
@@ -4613,6 +4899,10 @@ THE FALL
 SAN QUIRICO
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+"Niente di particolare"
+
 
 
 <span class="atom-split" data-atom="story_53_the_valley_like_a_wave" data-title="The Path to Rome — The Valley Like A Wave" data-chapter="The Valley Like A Wave" data-kind="story" data-tags="motif/journey,motif/music_and_song,form/travel_writing,setting/italy"></span>
@@ -4622,6 +4912,12 @@ THE VALLEY LIKE A WAVE
 THE SILHOUETTE
 THE HORN SONG
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#La valle come un’onda  
+#La silhouette  
+#Il canto del corno
 
 
 
@@ -4634,6 +4930,12 @@ HOW TO WRITE
 STORY OF MR HARD
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Radicofani  
+Seconda caduta  
+Come scrivere la storia del signor Hard
+
 
 
 <span class="atom-split" data-atom="story_55_story_of_mr_hard" data-title="The Path to Rome — Story Of Mr Hard" data-chapter="Story Of Mr Hard" data-kind="story" data-tags="topos/the_open_road,motif/journey,form/travel_writing"></span>
@@ -4644,6 +4946,10 @@ THE MIGHTY DRIVE
 THE GREAT WALLS
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Storia del signor Hard: La potente spinta, le grandi mura
+
 
 
 <span class="atom-split" data-atom="story_56_i_enter_viterbo" data-title="The Path to Rome — I Enter Viterbo" data-chapter="I Enter Viterbo" data-kind="story" data-tags="form/travel_writing,setting/italy"></span>
@@ -4653,6 +4959,12 @@ I ENTER VITERBO
 THE ARENA
 TOO MANY PEASANTS
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Entro in Viterbo  
+L’arena…  
+Troppi contadini…
 
 
 
@@ -4672,6 +4984,19 @@ Frontispiece of the first edition
 ‘. .. AMORE ANTIQUI RITUS, ALTO SUB NUMINE ROMAE’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Roma mi chiama  
+CANZONE LUNGA E FINALE
+
+# La fine ancora una volta
+
+Frontespizio della prima edizione
+
+‘. E per quanto riguarda ciò che potrebbe esserci in questo libro, non sentitevi timidi né esitate ad entrarvi. Ci sono più [[Mountains|montagne]] di piccole colline, ’
+
+“Amori antichi e riti, sotto l’alto nome di Roma”
+
 
 
 <span class="atom-split" data-atom="story_58_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Praise Of This Book" data-kind="story" data-tags="concept/faith"></span>
@@ -4687,6 +5012,18 @@ Moreover, saying my prayers there, I noticed behind the high altar a statue of O
 
 Then I went out of the church still having that Statue in my mind, and I walked again farther into the world, away from my native valley, and so ended some months after in a place whence I could fulfil my vow; and I started as you shall hear. All my other vows I broke one by one. For a faggot
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Elogi per questo libro
+
+A ogni lettore onesto che possa acquistare, noleggiare o ricevere questo libro, e anche ai recensori (per i quali rappresenta un triplo beneficio): un saluto cordiale, e tutto ciò che si può ottenere gratuitamente.
+
+Se vi chiedeste come sia stato scritto questo libro, è avvenuto proprio in questo modo. Un giorno, mentre vagavo per il mondo, arrivai nella valle dove sono nato; mi fermai lì per un momento per parlare con tutti loro. Discutevo di politica con il negoziante, mi comportavo come un grande signore con il notaio, e quasi riuscii a convertire il falegname al cristianesimo grazie alla mia retorica. Quello che notai, dopo tanti anni, fu quella vecchia chiesa in rovina, che amo più della stessa chiesa madre: completamente ripulita, rivestita di bianco, ricostruita, nobilmente rinnovata, come se fosse stata completata il giorno prima. Sapevo bene che un simile cambiamento non poteva essere opera della gente comune, ma doveva essere frutto del lavoro di un artista che comprendeva quanto fosse magnifica questa reliquia (costruita lì molto tempo prima che il nostro popolo assediasse Gerusalemme). Entrai e vidi che tutto all’interno era altrettanto nuovo, curato ed eccellente quanto l’esterno; questo mi rese felice come se ci fosse stata lasciata in eredità una fortuna. Perché la propria terra natale è come il guscio dell’anima, e la propria chiesa è il cuore di quel “guscio”.
+
+Inoltre, mentre pregavo lì, notai dietro l’altare maggiore una statua della Madonna, così straordinaria e così diversa da tutto ciò che avevo mai visto prima; rappresentava perfettamente lo spirito della mia valle. Fui completamente sopraffatto da quella visione e feci voto di recarmi a Roma in pellegrinaggio per vedere tutta Europa, quella parte salvata dalla fede cristiana. Dissi: “Inizierò dal luogo dove ho servito in armi per i miei peccati; camminerò tutto il tragitto senza utilizzare alcun mezzo di trasporto a ruote; dormirò all’aperto e percorrerò trenta miglia al giorno; ascolterò la messa ogni mattina e parteciperò alla messa solenne in San Pietro nella festa di San Pietro e San Paolo.”
+
+Allora uscii dalla chiesa ancora con quell’immagine nella mente, e proseguii nel mio cammino verso il mondo esterno, lontano dalla mia valle natale. Alcuni mesi dopo mi trovai in un luogo dove potevo mantenere la mia promessa; ed ecco come iniziò tutto, come ascolterete presto. Tutte le altre mie promesse, invece, le infransi una dopo l’altra. Per un mucchio di legna.
 
 
 
@@ -4711,6 +5048,26 @@ Yet again, I see that writers are for ever anxious of their style, thinking (not
 
 Now this is a pusillanimity of theirs (the book writers) that they think style power, and yet never say as much in their Prefaces. Come, let me do so ... Where are you? Let me marshal you, my regiments of words!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Elogi per questo libro
+
+Ogni bastone deve essere spezzato singolarmente. Ma ho mantenuto il mio solenne voto: quell’anno sono entrato a Roma a piedi e ho assistito alla Messa Solenne durante la Festa degli Apostoli, come possono testimoniare molti: Monsignor questo, il Ciambellano quest’altro, il Vescovo di tal città, perché eravamo tutti lì insieme.
+
+E perché (direte voi) tutto ciò viene posto all’inizio di quel che gli Anglosassoni chiamano “Prefazione”, mentre noi signori lo chiamiamo “Introduzione”? Perché ho notato che nessun libro può essere pubblicato senza qualcosa del genere all’inizio; e poiché è sciocco trascurare questa consuetudine, posso assicurarvi che ne ho letti otto o nove migliaia per capire esattamente come vengono scritti tali testi e per evitare di trarre conclusioni su basi troppo fragili.
+
+E dopo averle lette e scoperto che era consuetudine dei miei contemporanei lodarsi in questo rituale preliminare (alcuni dicevano in poche parole di aver colmato una necessità, altri si vantavano a lungo di essere troppo nobili per fare una cosa del genere; la maggior parte, invece, elencava scuse e giustificazioni fino a far capire che il loro orgoglio stava per esplodere) – poiché, dico io, sembrava necessario lodare il proprio lavoro, scrissi semplicemente sulla copertina del mio diario: “Lode di questo libro”, per mettere fine una volta per tutte a tutta questa faccenda. Ma se ci sarà lode o biasimo, beh, non lo so davvero; perché sto guidando la mia penna con troppa forza, e lei ha una bocca d’irono.
+
+Ora, c’è un’altra cosa che gli scrittori fanno nelle loro Prefazioni: introducono una serie di personaggi insignificanti di cui nessuno ha mai sentito parlare, e poi elencano, come in una lista interminabile, tutte le persone a cui sono grato, come se a qualcuno importasse davvero di queste persone! Se ometto tutto questo, credetemi, è soltanto per via della moltitudine e del prestigio di coloro che hanno contribuito alla realizzazione di questo volume. Le storie contenute in esso sono state trascritte direttamente dai migliori autori del Rinascimento; la musica è stata composta dai maestri dell’ottocento; il testo latino è proprio di Erasmo. In effetti, quasi nessuna parola in questo libro è mia. Devo anche menzionare le Nove Muse, le Tre Grazie, Bacco, le Meneadi, i Pantere, i Fauni. E devo ringraziare sinceramente Apollo.
+
+Ancora una volta, noto che gli scrittori sono sempre preoccupati per il proprio stile, pensando… (senza dirlo apertamente).
+
+“Certo, ho usato ‘e quale’ alla pagina 47, ma Martha Brown, la responsabile della revisione del testo, mi ha dato il permesso di farlo…”
+
+“E se finissi una frase con una preposizione? Seguo sempre le regole del signor Twist nel suo ‘‘Tis Thus ‘Twas Spoke’, Odd’s Body, e non lo faccio mai!”
+
+Questo è davvero un segno di codardia da parte loro (gli scrittori): pensano che lo stile abbia potere, eppure nelle loro prefazioni non ne parlano mai abbastanza. Lasciate che lo faccia io. Dove siete? Lasciate che raduni i miei “reggimenti di parole”!
 
 
 
@@ -4738,6 +5095,28 @@ Because it has become so cheap to photograph on zinc.
 In old time a man that drew ill drew not at all. He did well. Then either
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Elogi per questo libro
+
+RABELAIS! Maestro di tutti gli uomini felici. Dormi lì, schiacciato nella terra profanata sotto quel misero rifugio in Rue St Paul, o preferisci bere vino fresco in qualche paradisiaco luogo come Chinon, guardando il fiume Vienne che scorre nel Paradiso? Dormi o bevi, tanto da non volerci prestare il bastone di Frate Giovanni, con cui egli uccise e distrusse gli invasori dei vigneti. Quegli invasori, in realtà, sono soltanto una metafora per quei pedanti meschini e vigliacchi senza cuore che popolano il mondo.
+
+Scrivi come soffia il vento e comanda tutte le parole come un esercito! Vedi come si schierano in formazione pronte all’assalto, quei tipi allegri e spavaldi.
+
+Prima vengono i Neologismi, che non temono nessuno: freschi, giovani, energici, e per lo più molto “lungimiranti”, anche se alcuni sono piuttosto “corti ma forti”. Poi ci sono gli Errori di stampa, destinati a confondere il nemico nel suo attacco. Infine, sul fianco si trova una compagnia di Ambiguità selezionate, incaricate di coprire quella che sarà una finta da parte dello squadrone degli Anacronismi, guidato dal vecchio Anachronos in persona, un individuo terribile, pieno di errori e un vero “assassino” di sciocchi.
+
+Ma qui si vedono, più densamente raggruppati, diecimila Egotismi che brillano nelle loro “armature” e gridano per la battaglia. Non si curano di nessuno. Ieri hanno assaltato la Convenzione e saccheggiato il seminterrato di Good-Manners, che è morto di paura senza subire alcun ferimento; così hanno bevuto il suo vino ed oggi sono forti come leoni, e altrettanto negligenti (tranne che per il loro Capitano, Monologue, che ha una mascella sporgente).
+
+Ecco dunque gli Auxiliari Aposiopaesiani e il Ditirambo che hanno sconfitto completamente la punteggiatura in battaglia; i Parentesi, giganti e campioni tra questi auxiliari; l’Anacoluthon, che non ha mai imparato a leggere o scrivere ma è molto abile con la spada; e infine Metathesis ed Hendiadys, due “greci” particolari. E per ultimi, i nobili Gallicismi, che galoppano sui loro cavalli leggeri: una cavalleria così improvvisa che il nemico si ammala solo a vederla e viene sconfitto senza nemmeno uno scontro. Allora, miei cari, miei ragazzi, le mie instancabili ripetizioni, prendete ciascuno la propria tromba e suonate l’attacco! Presto li spingeremo tutti davanti a noi, facendoli cadere insieme nel Mare Picrocholico.
+
+Lo so! Era solo un interludio. Dimentichiamo tutto quel trambusto.
+
+Ma c’è un altro aspetto; qualcosa che ancora non è stato menzionato in nessun’altra prefazione: una caratteristica specifica di questo libro. Perché, senza alcuna logica o motivo apparente, sulle pagine della cronaca compaiono immagini di tipo incerto. Perché?
+
+Perché fotografare su zinco è diventato così economico.
+
+Nell’antichità, un uomo che disegnava male in realtà non disegnava affatto… Faceva bene lo stesso.
+
 
 
 <span class="atom-split" data-atom="story_61_praise_of_this_book" data-title="The Path to Rome — Praise Of This Book" data-chapter="Praise Of This Book" data-kind="story" data-tags="archetype/pilgrim"></span>
@@ -4757,6 +5136,22 @@ The world has grown a boy again this long time past, and they are building hotel
 
 Then let us love one another and laugh. Time passes, and we shall soon laugh no longer — and meanwhile common living is a burden, and earnest men are at siege upon us all around. Let us suffer absurdities, for that is only to suffer one another.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Elogi per questo libro
+
+Nel suo libro non c’erano foto, o (se ce n’erano alcune), erano state fatte da qualche altro uomo che non lo amava affatto e che non avrebbe mai percorso nemmeno mezzo miglio solo per assistere alla sua impiccagione. Ma ora è così facile per una persona trascrivere ciò che vede e metterlo nel proprio libro, che qualsiasi idiota può farlo senza alcun problema. E molti altri seguiranno il suo esempio. Questo è solo l’inizio.
+
+Prima di incolpare troppo, considerate un’altra possibilità. Un uomo dovrebbe davvero marciare per l’Europa trascinando un artista con una corda? Per Dio, no!
+
+Dovrebbe un artista scrivere un libro? Perché no, il rimedio è peggiore del male.
+
+Dunque concordiamo che, se lo desidera, qualsiasi [[Pilgrim|>pellegrino]] possa in futuro disegnare – se gli piace – quel soggetto estremamente difficile: le colline innevate al di là di un bosco; possa disegnare qualsiasi cosa incontri per ravvivare la propria mente (chi altro, infatti, l’avrebbe vista se non lui? E non è stata forse proprio la sua solitudine a permettergli di vederla?), e possa anche disegnare ciò che mai ha visto, con la stessa libertà con cui voi lettori continuate a vedere cose che in realtà non disegnate mai. Può ritrarre la nebbia mattutina sul Grimsel, sei mesi dopo, quando ormai avrà dimenticato com’era; e può trasformarla in un capolavoro tale da far infuriare i veri maestri del disegno.
+
+In questi lunghi anni, il mondo ha nuovamente visto nascere un bambino; si dice che stiano costruendo hotel nel luogo in cui Adeces scoprì l’Acqua della Gioventù in una cavità della collina Epistemonoscoptes.
+
+Allora amiamoci l’un l’altro e ridiamo. Il tempo passa, e presto non rideremo più; nel frattempo, vivere insieme diventa un peso, e persone serie ci assediano da tutte le parti. Lasciateci sopportare queste assurdità, perché in realtà significa soltanto soffrire a vicenda.
 
 
 
@@ -4782,6 +5177,26 @@ By this you may perceive that the Proverb-Maker, like every other Dema-
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Elogi per questo libro
+
+Né dobbiamo essere troppo severi con quel bravo ma ansioso individuo che, con diligenza, si è messo all’opera per rappresentare l’anima della Svizzera su un ventaglio.
+
+# La strada per Roma
+
+Quando quel primo “creatore di proverbi” – che si è imposto su tutti i popoli con le sue epigrafi, le sue false mezze-verità, il suo empirismo e i suoi insensati appelli all’ignoranza popolare – quando quest’uomo (poiché presumo fosse un uomo, e anzi uno malvagio) attraversò la [[France|Francia]], diffuse tra i francesi una delle sue dannose frasi: “Ce n’est que le premier pas qui coûte”. E questa frase, pronunciata con un tono compiaciuto e presuntuoso, è stata ripetuta da allora almeno diciassette milioni trecentosessantadue migliaia cinquecentoquattro volte da una vasta schiera di persone: uscieri, genitori, dirigenti aziendali, fratelli maggiori, preti parrocchiali e autorità in generale. Persone il cui compito, e certamente il loro piacere, è quello di disturbare quel sonno naturale e quell’inerzia mentale che rappresentano il vero terreno fertile per la “rivelazione”.
+
+Perché quando ragazzi, soldati, poeti, o qualsiasi altra “fioritura” e “orgoglio” della natura, preferiscono rimanere nell’ombra e lasciare che la mente comunichi con i suoi “Compagni Immortali”, allora arriva l’Autorità, che si comporta come se fosse suo dovere costringere quella stessa mente a impegnarsi in cose effimere e mortali, in questo mondo transitorio in cui viviamo.
+
+“Su,” dice l’Autorità, “e fammi vedere come quel tuo ‘Intelligenza’ agisce in modo concreto. Fammi vederlo interagire con le circostanze e combinare qualche errore, un errore che almeno sia reale, e non una stupida fantasia.”
+
+Allora quella povera “Mente” ritorna in prigione. Il ragazzo prende con sé il suo orribile “Omero” nella vera versione greca (non il libro di Church, ahimè!); il Poeta, il suo foglio di carta ruvido e peloso, il mal di testa e la penna dalla punta consumata; il Soldato abbandona l’immagine mentale di sé che si pavoneggia in abiti ordinari, vede la strada polverosa, sente le parti dure del terreno sotto gli stivali. E ritorna a sopportare la pressione costante del proprio fardello. L’Autorità, intanto, è soddisfatta: sa che otterrà qualche nozione dal ragazzo, una poesia banale dal Poeta, e da parte del Soldato, una lunga e faticosa marcia. Quando agisce in questo modo, l’Autorità di solito ricorre a uno di questi modelli verbali: in Inghilterra, a nord di Trent, si usa la frase palesemente falsa e presuntuosa “Una cosa iniziata è già per metà fatta”; nel sud, “L’inizio rappresenta già metà della battaglia”; in Francia, invece, si utilizza l’espressione attribuita al creatore di proverbi: “Il primo passo è quello più difficile”.
+
+#Da questo si può comprendere che il creatore di proverbi, come ogni altro essere umano…
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_63_character_of_proverb_maker" data-title="The Path to Rome — Character Of Proverb-Maker" data-chapter="Character Of Proverb Maker" data-kind="story" data-tags="concept/faith"></span>
@@ -4797,6 +5212,18 @@ Take, for instance, this phrase that set me writing, ‘Ce nest que le premier p
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Carattere del creatore di proverbi
+
+GOGUE, ENERGUMEN E DISTURBER facevano ampio uso delle metafore – ma su questo non c’è bisogno di insistere, poiché nella loro vasta collezione di opere pubblicate e inedite è evidente che si compiacevano nell’abuso continuo delle metafore, con l’arroganza tipica di coloro che hanno ricevuto solo una scarsa istruzione. C’era un ragazzo alla mia scuola che, dopo che l’insegnante ci aveva spiegato con cura la natura della metafora, disse che, a suo parere, una metafora non era altro che una lunga parola greca per indicare una menzogna. E infatti, coloro che sanno che la semplice verità potrebbe risultare noiosa o poco attraente ricorrono spesso alle metafore; lo fanno anche quegli individui malintenzionati che desiderano esercitare un’influenza subdola e ingiusta sui loro simili, soprattutto i creatori di proverbi. Poiché il nome di questi ultimi è andato perduto nel corso del tempo, il loro carattere può essere facilmente dedotto dai numerosi frammenti letterari che hanno lasciato: si tratta di individui codardi e maleducati, privi di lungimiranza, generosità o entusiasmo cavalleresco; in materia di fede, sono bigotti o scettici; in fatto d’avventura, codardi; in campo scientifico, ignoranti; in letteratura, pessimi poeti che amano l’allitterazione; bugiardi incalliti (come nel detto “Il percorso più lungo è spesso il più breve”); avari patologici (“Un penny risparmiato è un penny guadagnato”); privi di generosità e compassione umana (“Non sprecare, non mancherai”); e, soprattutto, persone spregevoli in materia d’onore (“Le parole dure non rompono le ossa” – a quanto pare non combatteva mai, se non con un bastone).
+
+Ma lui possedeva proprio quel tipo di umorismo subdolo tipico dei contadini; in tutto ciò che diceva c'era quella qualità esasperante per cui non abbiamo un nome preciso: certamente non si trattava di accuratezza, e anzi era l'esatto opposto di giudizio razionale. Eppure quel tipo di umorismo afferrava l’attenzione delle persone, proprio come i rovi strappano i vestiti; ci faceva continuamente fermare e imprecare. Mescolava infatti cose irrisolvibili con conclusioni false, rivelava costantemente i nostri trucchi, dava un senso distorto alle nostre azioni, disturbava la nostra memoria. E rivelava in modo indecente angoli nascosti dell’anima umana. Era come quegli uomini che dicono qualcosa di spiacevole e scortese su un amico, per poi cercare scuse affermando che quell’unica accusa sia vera. Forse è proprio per questa odiosa “logicità” e per la sua malizia che lo odio soprattutto; e poiché lui stesso odiava chiaramente l’umanità, non può certo lamentarsi se viene odiato a sua volta.
+
+Prendiamo, ad esempio, questa frase che mi ha spinto a scrivere: “Ce n’est que le premier pas qui coûte”. È falsa. Molto dopo l’inizio, le cose diventano difficili, come tutti sanno chi ha attraversato il mare; quanto al primo passo, l’uomo nemmeno se ne ricorda più. Se c’è davvero difficoltà, è nel momento stesso in cui si inizia qualcosa: nelle prime dieci pagine di un libro, nei primi trenta minuti di ascolto di un sermone, o semplicemente nel momento in cui si compie il primo passo verso un obiettivo.
+
+* * *
 
 
 
@@ -4821,6 +5248,26 @@ But perhaps you have been reading little brown books on Evolution, and you don�
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il grande culmine
+
+Il primo miglio di una camminata. Il primo passo si fa con leggerezza, piacere e con l’anima sollevata verso il cielo; è il quintocentesimo passo che conta davvero. Ma io lo so, e tu lo sai, e lui lo sapeva (sfortuna sua) che stava dicendo qualcosa di spinoso e pericoloso quando ha inventato quella frase. Fa preoccupare, deliberatamente. È come se dentro di noi ci fosse una voce che continua a ripetere:
+
+“Ti conosco bene: tu non comincerai mai nulla. Guarda solo cosa avresti potuto fare! Ora hai già ventuno anni e ancora non hai scritto nemmeno un dizionario. Cosa farai per ottenere fama? Niente: sei incredibilmente pigro. E, peggio ancora, questa è la tua stessa natura. Per te, iniziare qualcosa rappresenta un ostacolo insormontabile. E quella grande opera sul Debito Nazionale? E quella piccola canzone su Winchelsea che avevi pensato di scrivere sei anni fa? Perché quelle poche righe sono ancora solo nella tua testa e non sulla carta? Perché non riesci a cominciare. Ma lascia perdere: è il tuo unico grande difetto. E è fatale. Guarda Jones! È più giovane di te di sei mesi, e già lavora al ‘Evening Yankee’ accettando tangenti dai promotori delle aziende. E tu? Dove sei?” E così via.
+
+So che questa minaccia riguardo al compito arduo della nascita suscita scoraggiamento, rabbia, irritazione, malumore, uno stile pessimo, presunzione e frasi sconnesse; inoltre, le metafore sono altrettanto confuse quanto quelle del Carlton. Ma è abbastanza vera da rimanere impressa nella mente, come se fosse afferrata con un dito solo. Perché tutte le cose, come noterete, sono molto difficili nel loro inizio. E il motivo di questa difficoltà, nessuno lo può comprendere. Omne Trinum: anche nella fase della maturità e alla fine del loro percorso, queste cose rimangono difficili da affrontare. Prendiamo, ad esempio, la vita umana: è difficile nascere, è difficile morire. E anche il periodo del grande cambiamento vitale rappresenta una vera sfida.
+
+LETTORE: Cos’è il Grande Climaterico?
+
+AUTORE: Non ho tempo di spiegarvelo, perché ci porterebbe a discutere di astrologia, e poi forse anche di scienze fisiche; in seguito scoprireste che non sono ortodosso e magari mi denuncereste alle autorità.
+
+Vi dirò solo questo: è il momento preciso in cui un uomo diventa adulto, quando vede le cose per come sono realmente (cioè al contrario di come le ha sempre percepite) e si sente finalmente se stesso. Mi sono spiegato chiaramente? Non importa. È lo “Shock della Maturità”, e questo dovrebbe bastarvi.
+
+Ma forse avete letto libri sulle teorie dell’Evoluzione e non credete nelle Catastrofi, né nei Climax, né nelle Definizioni. Eh? Ditemi: credete davvero nell’esistenza della vetta del Matterhorn, o avete dubbi riguardo alle punte delle aguglie? Si può davvero dire che il sole sorga o tramonti, e ha un significato preciso l’espressione “fatto al punto giusto” quando si riferisce agli omelette? Lo sapete bene. Quindi dovete credere anche nelle Categorie, ammettere le differenze sia di tipo che di grado, e accettare definizioni precise.
+
+* * *
 
 
 
@@ -4852,6 +5299,32 @@ I knew a man once who always wrote the end of a book first, when his mind was fr
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Difficoltà di concludere un libro
+
+E credete in tutto ciò che i vostri antenati hanno fatto, uomini più saggi di voi; questo è facilmente dimostrabile se solo vi immaginate per un momento nella presenza dei vostri antenati e vi chiedete chi di loro sembrerebbe il più sciocco. In particolare, dovete credere nell’importanza dei momenti e evitare con estrema attenzione il metodo comparativo e gli argomenti basati sull’accumulo graduale. Ho sentito dire che alcuni scienziati stanno già iniziando ad ammettere la realtà della nascita e della morte; che alcuni coraggiosi abbiano il coraggio di dimostrare fede nel “Grande Climaterico”, e tutto andrà per il meglio.
+
+Beh, come stavo dicendo, questa “Difficoltà dell’inizio” è soltanto una delle tre tipologie di difficoltà presenti; essa è inspiegabile, fa parte della natura stessa delle cose, e si riscontra in modo particolarmente evidente nell’arte della scrittura. In ogni libro esistono queste difficoltà: quella dell’inizio e quella del punto di svolta, che rappresenta il momento più cruciale di un’opera.
+
+LETTORE: Che cos’è quello in un libro?
+
+AUTORE: Proprio in quel momento il lettore si immedesima nel libro e desidera continuare a leggerlo.
+
+LETTORE: In alcuni libri appare prima che in altri.
+
+AUTORE: Come dici tu. E infine, c’è la difficoltà di trovare una conclusione appropriata.
+
+LETTORE: Non vedo proprio come possa esserci qualche difficoltà nel concludere un libro.
+
+AUTORE: Questo dimostra molto chiaramente che tu non ne hai mai scritto uno, perché nulla nella stesura di un libro è più difficile – no, nemmeno la scelta della Dedicazione – dell’ideare una conclusione appropriata. Per questo motivo, solo i grandi poeti, che sono al di sopra delle convenzioni e possono “schioccare le dita divine” per creare forme artistiche originali, non si prendono la briga di pensare con cura alla fine dei loro libri. Così Omero conclude i suoi poemi con versi che potrebbero benissimo trovarsi a metà di un passaggio; Esiodo, beh, non so proprio come faccia; e il signor Bailey, questa “nuova voce” proveniente dall’Eurasia, non conclude affatto i suoi scritti, ma continua semplicemente ad andare avanti.
+
+Panurge mi ha detto che il suo grande lavoro sulla Conchologia non sarebbe mai stato completato se non fosse stato per quel Libraio che minacciava di ricorrere alla legge; e in effetti, l’ultima frase del libro non contiene alcun verbo. C’è sempre qualcosa in più da dire, ed è sempre molto difficile sistemare le cose in modo ordinato alle fine. A questo proposito, esistono modelli precisi per concludere un libro o una poesia, proprio come ne esistono per iniziarli; ma personalmente ritengo che il modo migliore per concludere un libro sia cercare tra i propri manoscritti fino a trovare un brano di scrittura davvero bella (indipendentemente dall’argomento), introdurre poi gli ultimi paragrafi con argomenti improvvisi e sorprendenti, inserire una serie di asterischi, e infine incollare quel brano di scrittura trovato sotto di essi.
+
+Conoscevo un uomo che scriveva sempre per primo la fine di un libro, quando la sua mente era ancora fresca, e poi procedeva gradualmente verso il capitolo introduttivo, che – diceva lui – rappresentava in qualche modo un riassunto del contenuto generale, e non poteva essere scritto correttamente finché l’autore non avesse compreso appieno l’argomento trattato. Affermava che questo fosse il modo migliore per scrivere la storia.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_66_the_valley_of_the_moselle" data-title="The Path to Rome — The Valley Of The Moselle" data-chapter="The Valley Of The Moselle" data-kind="story" data-tags="topos/the_open_road,archetype/pilgrim,motif/the_journey,motif/river,form/travel_writing,setting/france"></span>
@@ -4867,6 +5340,18 @@ It was in the very beginning of June, at evening, but not yet sunset, that I set
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La valle del Mosella
+
+MA A ME SEMBRA che si tratti pura e semplice stravaganza, perché alla fine ci si ritroverebbe costretti ad iniziare dalla parte inferiore dell’ultima pagina, proprio come nella Bibbia ebraica, e (se questa pratica venisse portata a termine) si finirebbe per scrivere le frasi al contrario, fino a ottenere uno stile simile a quello della London School of Poets: una conclusione davvero orribile.
+
+Tuttavia, qui non mi interessa la fine di un libro, ma la sua origine; e affermo che l’inizio di qualsiasi opera letteraria sia difficile, e che questa difficoltà sia ardua da spiegare. Dico anche di più: una discussione interminabile sulla difficoltà di iniziare a scrivere un libro è il peggiore presagio per portarlo a termine, e nel migliore dei casi rappresenta soltanto un escamotaggio banale. Nel nome di tutto ciò che è decente, comune e semplice, perché non iniziare semplicemente e portare a termine il lavoro?
+
+Era all’inizio di giugno, alla sera, ma non ancora al tramonto, quando partii da Toul passando per la porta di Nancy; invece di proseguire dritto oltre il campo di parata, svoltai immediatamente a destra lungo il fossato e la cinta muraria, e non lasciai le fortificazioni fino a quando non raggiunsi la strada che costeggia il fiume Mosella. Infatti, era proprio attraverso la valle di questo fiume che avrei iniziato il mio pellegrinaggio, poiché, per una felice coincidenza, la valle del Alto Mosella corre direttamente verso Roma, anche se il tragitto è piuttosto breve. Quanto questa posizione sia ideale per un viaggio diretto si può vedere da questa piccola mappa.
+
+* * *
 
 
 
@@ -4884,6 +5369,18 @@ I was looking straight at the great fort of St Michel, which is the strongest th
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#La prima guarnigione
+
+Dove la linea tratteggiata punta esattamente verso Roma. Ci sono due curve che deviano leggermente il percorso; ho cercato di evitarle, ma in generale, questa valle, che si estende per circa cento miglia da Toul fino alla sorgente del fiume, rappresenta un passaggio ideale per chiunque voglia attraversare questa parte della Lorena per entrare in [[Italy|Italia]]. Questa mappa è anche utile per mostrare il percorso che ho seguito nei primi tre giorni, dopo aver lasciato Epinal e Remiremont, fino alla sorgente del fiume e oltre, attraverso la grande collina del Ballon d’Alsace. Ho rappresentato la valle fluviale come un fossato, mentre le colline sopra di essa sono indicate con ombreggiature; la parte montuosa superiore, i Vosgi, è indicata in nero. Ho scelto di partire nel tardo pomeriggio, a causa del grande calore che regna poco prima di mezzogiorno e quattro ore dopo. Tenendo conto di questo, avevo pianificato di camminare di notte, al mattino e alla sera. Ma come si sia sviluppata questa strategia, lo scoprirete tra un momento.
+
+Non avevo percorso nemmeno un quarto di miglio lungo la strada che mi portava fuori dalla città, quando decisi di fermarmi per riposare un attimo e assicurarmi che fossi effettivamente sulla strada giusta, diretto verso Roma. Mi fermai quindi accanto a un muro e guardai indietro verso la città e le fortezze; disegnai ciò che vedevo nel mio libro. Quella vista aveva già fatto una profonda impressione su di me da ragazzo, e rimarrà nella mia memoria finché il passato continuerà a offrirmi immagini da ricordare. Penso che questo valga per tutti i soldati che hanno prestato servizio in una determinata guarnigione: a ventuno anni, la mente è ancora fresca e la vita sembra nuova; si è lontani dai libri e da tutte le preoccupazioni quotidiane, quindi gli ambienti in cui ci si trova lasciano un segno profondo, proprio come la scuola o la prima casa. Io ero particolarmente fortunato: facevo parte del gruppo degli artiglieri, considerati senza dubbio i migliori tra tutti, e non mi trovavo in una grande città, ma in una piccola cittadina antica e silenziosa, dove il numero di soldati superava quello delle persone, uomini, donne e bambini, all’interno delle sue mura inutili. Si diceva che fosse un posto molto bello; anche se non ne avevo sentito parlare prima, me ne resi subito conto quando arrivai lì per la prima volta, una mattina di novembre, mentre salivo verso le caserme dell’artiglieria. Ricordo di aver visto le grandi colline che la circondavano su tutti i lati, nascondendo sia il loro potenziale minaccioso che il loro ruolo protettivo per le armi; a sud e a est c’era la valle silenziosa, dove le fitte foreste dominavano il corso del fiume Mosella, mentre la città si trovava in un isolotto o in un anello di alberi alti. Tutto questo, lo ricordo ancora vividamente; avevo deciso che, non appena avessi potuto intraprendere un viaggio verso Roma, avrei scelto proprio quel luogo come punto di partenza. Fermandomi qui e guardando indietro, fuori dalle porte della città, rivissi tutte quelle scene: risate, fatiche, servizio militare, e anche momenti di orgoglio legati alle armi.
+
+Stavo guardando direttamente il grande forte di San Michele, che è la struttura più forte lungo il confine e rappresenta inoltre la chiave per comprendere l’intero sistema di fortificazioni che lo circonda.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_68_on_justice_in_armies" data-title="The Path to Rome — On Justice In Armies" data-chapter="On Justice In Armies" data-kind="story" data-tags="motif/comradeship,motif/wine_and_drink,concept/justice,concept/comradeship,form/travel_writing,setting/military_camp"></span>
@@ -4900,6 +5397,18 @@ I had, in a small bag or pocket slung over my shoulder, a large piece of bread, 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Sulla giustizia nelle armate
+
+Questo accampamento fortificato. Si poteva vedere poco o nulla delle sue batterie: soltanto le centinaia di piedi di fitta boscaglia che si innalzavano sopra i vigneti, e in cima una vegetazione stentata piantata appositamente. Accanto ad esso, a sinistra e alla stessa altezza, si trovava la cresta della Cote Barine, che nascondeva un’altra batteria. Tra la Cote Barine, la mia strada e il muro, vedevo il terreno in salita e le familiari caserme, chiamate (non so perché) “Caserme della Giustizia”; ma che in realtà dovrebbero essere chiamate “Caserme delle piccole tirannie e della buona camaraderia”. Questo per dimostrare ai filosofi che queste due cose costituiscono davvero la vita di un esercito. Di tutte le virtù praticate in quel vecchio ambiente coercitivo, la Giustizia veniva al secondo posto, se non al terzo; mentre Disciplina e Camaraderia erano al primo posto. E più ci penso.
+
+Più ci penso, più sono convinto che, di tutti i giovani che in quel luogo venivano plasmati e forgiati per diventare soldati, nessuno abbia sofferto quanto gli avvocati. A destra, gli alberi alti che si trovavano oltre le mura della città si allontanavano nella distanza, formando una sorta di palizzata; sopra di loro, qua e là, si intravedevano tetti che indicavano la sommità delle torri della Cattedrale o di San Gengoult. Tutto questo lo vidi guardando indietro; dopo averlo notato e descritto, mi girai di nuovo e ripresi il cammino.
+
+Avevo, in una piccola borsa o tasca appesa alla spalla, un grande pezzo di pane, mezzo chilo di prosciutto affumicato, un taccuino da disegno, due giornali nazionalisti e un quarto di vino di Brule: il vino più famoso nella zona della guarnigione, eppure molto economico. Il nome “Brule” rappresenta inoltre un ottimo presagio per coloro che sono costantemente sottoposti a difficoltà e provano disperazione. Poiché questo vino prende il suo nome proprio dal fatto di essere stato spesso bruciato dai Romani, dai Francesi, dai Burgundi.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_69_charming_village_of_brule" data-title="The Path to Rome — Charming Village Of Brule" data-chapter="Charming Village Of Brule" data-kind="story" data-tags="motif/wine_and_drink,concept/value_and_scarcity,concept/endurance,form/travel_writing,setting/france,setting/military_camp"></span>
@@ -4913,6 +5422,16 @@ When we had gone some way, clattering through the dust, and were well on on the 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il delizioso villaggio di Brule
+
+Germani, fiamminghi, unni, forse, e in generale tutti coloro che negli ultimi migliaia di anni hanno cercato di eliminare i propri nemici attraverso la regione della Cote Barine. Si potrebbe quindi immaginare che si tratti di un luogo in rovina, debole, misero e in via di scomparire; ma in realtà è un villaggio ricco e orgoglioso, che, come ho detto, produce vini migliori di qualsiasi altro nella zona. Sebbene Toul si trovi all’interno di un grande anello di colline molto alte e dalle pendenze ripide, su cui sono installate molte armi da fuoco, nessun vino è paragonabile a quello prodotto a Brule. Questo mi ricorda un episodio accaduto durante le manovre militari del 1891: vi furono coinvolte due divisioni in quell’impresa gloriosa ma estenuante; vennero utilizzate più di centocinquantasei armi da fuoco. Una di queste, appartenente alla sesta batteria della decima brigata dell’ottava divisione, chissà dove siate ora voi tutti. Probabilmente non vi rivedrò mai più; ma siete stati i migliori compagni del mondo, miei amici. Comunque, la morale di questa storia è che il modo di pensare tipico degli uomini d’affari è spesso illogico.
+
+Dopo aver percorso un certo tratto, facendo rumore nella polvere e esserci ormai ben avviati sulla strada di Commercy, facemmo una breve sosta. Durante questa sosta, ci superò il più grande tun o barile che si fosse mai visto su ruote. Si possono parlare del Grande Tun di Heidelburg, di quei mostruosi tini che si trovano nelle cantine fresche della Napa Valley, o dei vasti barili delle Catacombe di Reims; ma tutti questi sono costruiti sul posto e destinati a rimanere immobili; non esiste limite alla dimensione di un barile che non debba essere trasportato. Il punto è che questo enorme contenitore di Bacco, questa cavernosa prigione del riso, poteva muoversi, anche se in modo goffo; veniva trainato molto lentamente da stupidi ma pazienti buoi, che non erano affatto spinti a fare fretta. Sopra di esso c’era un robusto contadino, con un’espressione decisa, come se fosse in guerra contro i suoi simili; continuava a chiamare i suoi buoi con suoni cupi e minacciosi, mentre il carro cigolava lungo la strada. Poi i soldati iniziarono a chiedergli: “Dove stai andando, padre, con quel carico?” “Perché portare acqua fredda a Commercy? Lì ne hanno già abbastanza, ” “Cosa c’è dentro quel piccolo barile, quella fiaschetta, quella bottiglia di brandy del cantiniere,?” Lui fermò bruscamente i suoi buoi e si girò verso di noi, dicendo: “Vi dirò cosa ho qui. Ho tantissimi ettolitri di vino che ho prodotto io stesso; so che è il miglior vino che esista. Lo sto portando via per vedere se riesco a domare quei presuntuosi individui che continuano a abbassare i prezzi e a deridermi. Vale otto ‘scutcheoni’ all’ettolitro, cioè otto soldi al litro; anzi, vale un luigi a coppa. Ma lo venderò al prezzo che ho deciso io, e nemmeno un centesimo in meno. E ogni volta che arrivo, ”
+
+* * *
 
 
 
@@ -4936,6 +5455,24 @@ There was one guttering candle on a little stool. The roof of the shed was lost 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Storia del grande barile
+
+In un villaggio, l’oste inizia a contrattare e mercanteggiare, offrendo sei soli o sette soli; io rispondo: “Otto soli, prendeteli o lasciateli”. Quando sembra che voglia continuare a discutere, mi alzo e me ne vado. So bene il valore del mio vino, e non permetterò che mi sfruttino, anche se dovrò andare oltre la Lorena, nel Barrois, per venderlo.
+
+So che quando lo abbiamo ritrovato poco dopo, in strada, un sergente, mentre ci superava, ha gridato: “Vi darò sette, sette e un quarto, sette e mezzo”, ma noi abbiamo continuato a ridere e ci siamo completamente dimenticati di lui.
+
+Per molti giorni marciammo da un posto all’altro, sparando e giocando in modo disordinato sotto il sole cocente, fino a quando la fila di cavalli malati si estese per un miglio intero, e tutti i reclute divennero sordi come tanti pali; alla fine, una sera, arrivammo in un luogo chiamato Heiltz le Maurupt: era come il paradiso dopo quella pianura calda e polverosa, e i suoi abitanti erano gentili e ospitalieri quanto gli Angeli; si trovava proprio dove inizia la Champagne. Dopo aver curato e abbevuto i nostri cavalli, dopo che le guardie delle stalle furono messe di sentinella, e avendo circa un’ora a disposizione per passeggiare nella fresca oscurità prima di dormire nelle stalle, ricevemmo improvvisamente una lezione sulla piccolezza del mondo. Perché cosa sarebbe mai potuto comparire lungo la strada del villaggio, se non quel mostruoso barile? E dai suoi movimenti si capiva che era ancora pieno fino all’orlo.
+
+Ci radunammo intorno al contadino e gli dicemmo quanto fossimo addolorati per la sua sfortuna; concordammo con lui sul fatto che tutte le persone del Barrois fossero ladri o pazzi, se non compravano vino del genere per una canzone del genere. Lui portò i suoi buoi e il suo barile in un capanno molto alto situato lì vicino; lì ci raccontò tutta la sua “pellegrinazione” e le molte aggressioni che la sua fermezza aveva subito, nonché come fosse riuscito a resistere a tutte. Nel suo tono c’era più rabbia che tristezza; si capiva chiaramente che provenisse da quella stessa “legna” da cui vengono scolpiti tiranni e martiri. Poi, all’improvviso, cambiò atteggiamento e divenne eloquente.
+
+‘Oh, che buon vino! Se solo fosse conosciuto e assaggiato. Ecco, dammi una coppa; chiederò ad alcuni di voi di assaggiarlo, così almeno riceverà la lode che merita. Questo è il vino che ho portato per più di cento miglia. E ovunque sia stato offerto, è stato rifiutato!’
+
+C'era una candela che bruciava lentamente su un piccolo sgabello. Il tetto della capanna scompariva nella vastità dell’oscurità; dietro, nell’oscurità stessa, i buoi continuavano a masticare tranquillamente nel mangime. La luce della fiamma illuminava il suo viso da sotto, creando ombre scure su di esso. La fiamma tremolava sul cerchio dei nostri volti mentre ci riunivamo intorno a lui; poi la luce si affievoliva e scompariva nella vastità dell’ambiente circostante. Lui stava vicino alla cannella, con le sopracciglia corrugate, come se stesse svolgendo un compito molto importante; noi, tutti quanti, artiglieri e conducenti della batteria, iniziammo a togliere i nostri bicchieri dalle staffe e a passarglieli.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_71_the_lake_of_the_moselle" data-title="The Path to Rome — The Lake Of The Moselle" data-chapter="The Lake Of The Moselle" data-kind="story" data-tags="motif/dawn"></span>
@@ -4956,6 +5493,22 @@ This was a place I remembered very well. The rising river of Lorraine is
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il lago della mosella
+
+C'erano quasi cento persone, e lui le riempì tutte; non in modo festoso, ma come un uomo che offriva un sacrificio solenne. Anche noi, entrando nel suo stato d’animo, passavamo continuamente i nostri bicchieri, ringraziandolo a bassa voce e mantenendoci per lo più in silenzio. Alcuni uomini stavano sdraiati alla porta; lui chiese loro i bicchieri e li riempì. Li invitò ad portare con sé quanti compagni desiderassero; presto si formò una folla di persone che bevevano vino di Brule e mormoravano i loro complimenti. Lui era più che disposto a continuare a darne, ma noi ci fermammo quando ritenemmo opportuno, e la scena finì. Non posso dire quanta quantità enorme di vino abbia distribuito quella notte, ma quando colpì il fondo della botte, questa suonò vuota. Dopo aver raccolto del denaro che lui aveva rifiutato, andò a dormire accanto ai suoi buoi, mentre noi ci recammo nei nostri fienili. Il giorno dopo partimmo prima dell’alba, e non lo vidi mai più.
+
+Questa è la storia del vino di Brule, e dimostra che ciò che gli uomini amano non è mai il denaro in sé, ma il proprio modo di vivere; inoltre, gli esseri umani amano soprattutto la comprensione reciproca e le celebrazioni. Ci insegna anche a non essere troppo duri con i ricchi.
+
+Camminai lungo la valle della Mosella; mentre procedevo, l’lunga serata estiva iniziava a calare. Il cielo era vuoto e le sue profondità sembravano infinite; la chiarezza dell’aria mi invogliò a sognare. Superai il punto in cui solitamente ci fermavamo quando imparavamo a cavalcare davanti alle armi, oltrepassai la piccola casa dove, nei rari giorni festivi, i ragazzi potevano mangiare il matelote, cioè pesce bollito nel vino. E così via, fino al luogo in cui il fiume veniva trattenuto da una diga e si apriva in una sorta di lago.
+
+Qui aspettai per un momento accanto alla ringhiera di legno, alzando lo sguardo verso le colline. Fino ad allora ero stato a casa; ora osservavo l’ultima cosa familiare prima di addentrarmi nella fitta foresta e iniziare la mia nuova esperienza. Così mi congedai con calma, riflettendo invece di proseguire il mio cammino. Tutto intorno a me suscitava ricordi e un senso di tranquillità. Un gregge di pecore passò accanto a me insieme al suo pastore, che mi augurò la buonanotte. Mi ritrovai in quello stato d’animo piacevole in cui nascono tutte le idee (ma nessun libro viene scritto); stavo “fumando le sigarette incantate” di Balzac. E anche se questo tipo di fantasticheria può essere dannosa per l’azione, rappresenta comunque un fattore di grande felicità. Così passai molte miglia a contemplare quella meravigliosa e silenziosa valle. Immagino che, se un uomo fosse completamente padrone di sé stesso e non fosse costretto da alcuna necessità – nemmeno quella di esprimersi – tutta la sua vita trascorrerebbe in queste sublimi fantasie.
+
+# Questo era un posto che ricordavo molto bene… Il fiume Lorraine, in piena crescita…
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_72_the_coming_of_evening" data-title="The Path to Rome — The Coming Of Evening" data-chapter="The Coming Of Evening" data-kind="story" data-tags="topos/pastoral_retreat,motif/night,motif/water,motif/birds,concept/solitude,form/travel_writing,setting/pastoral_countryside"></span>
@@ -4972,6 +5525,18 @@ The peasants sat outside their houses in the twilight accepting the cool air; ev
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il sopraggiungere della sera
+
+Catturato e trattenuto, si diffonde in un vasto specchio d’acqua che deve essere molto poco profondo; tuttavia, nei suoi riflessi e nella sua tranquillità, assomiglia piuttosto a uno stagno profondo e silenzioso. Le ripide colline che lo circondano sono quasi montuose e sono ricoperte da fitti boschi; su di esse si trova la regione in questione, che ne dipende per il suo carattere distintivo. Un piccolo villaggio, che un tempo chiamavamo “San Pietro delle Cave”, sorge a destra, tra le ripide colline e l’acqua; proprio dove finiscono le colline, una pianura un tempo paludosa è ora in parte campi, in parte stagni, ma interrotta da alberi rigogliosi: questo segnale evidenzia la grande antichità della civiltà che vi ha preso vita. Lungo questa pianura corre, delimitata da rari pioppi, la strada che si può percorrere all’infinito verso il cuore dei Vosgi. Fu proprio da questo silenzio e da questa vasta distesa d’acqua tranquilla che trassi quella serenità che accompagna l’avvento della notte. Tutto ciò era in armonia con le attività dei contadini: il ritorno dal lavoro, il belato degli animali e l’accensione delle lampade sotto i tetti. Con questo spirito proseguii lungo la valle superiore fino alla sorgente delle colline.
+
+A Saint Pierre, è proprio in quel momento in cui il giorno sta per finire che un uomo pensa ancora di poter leggere; quando gli edifici e i ponti appaiono come grandi masse viola che ingannano, facendo ricordare i dettagli della luce del giorno. Ma quando gli uccelli notturni, più sicuri degli uomini e meno turbati da questa illusione della memoria, hanno già capito che la loro oscurità ha vinto.
+
+I contadini sedevano fuori dalle loro case, nel crepuscolo, godendosi l’aria fresca; tutti mi parlavano mentre passavo e io rispondevo a ciascuno di loro; nelle loro parole non mancava mai un saluto cordiale né il nome di Dio. Tranne che in quello di un uomo, un sergente d’artiglieria in congedo, che mi chiamò con un accento molto familiare e mi invitò a bere; ma gli dissi che dovevo andare nella foresta per approfittare della notte, visto che il tempo era troppo caldo per camminare di giorno. Mentre lasciavo l’ultima casa del villaggio, non ero affatto sicuro di non provare solitudine; quando la strada iniziò a salire verso la collina, tra gli alberi, mi chiesi come sarebbe trascorsa quella notte.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_73_the_night_in_the_forest" data-title="The Path to Rome — The Night In The Forest" data-chapter="The Night In The Forest" data-kind="story" data-tags="topos/the_sublime_in_nature,motif/night,motif/enchanted_wood,motif/stars,concept/solitude,concept/fear,concept/paganism_and_classical_revival,form/travel_writing"></span>
@@ -4987,6 +5552,18 @@ Then a little wind passed over the vast forests of Lorraine. It seemed to wake a
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La notte nella foresta
+
+A ogni passo verso l’alto, un mistero sempre più grande mi avvolgeva. Alcune stelle erano visibili nel cielo, e la nebbia bruna della notte si estendeva lungo le rive dell’acqua; c’era comunque abbastanza luce per vedere la strada, e persino per distinguere i rovi nelle valli deserte. La strada diventava sempre più stretta; in cima alla collina scompariva sotto gli alti pini, avvolta nell’oscurità. I regni che non hanno mura, costruiti soltanto di ombre, iniziavano a opprimermi man mano che la notte si intensificava. Se avessi avuto compagni, avremmo comunque parlato sottovoce; in quel labirinto di alberi, nemmeno io stesso avrei osato alzare la voce.
+
+Era notte fonda quando raggiunsi una radura appena visibile nel bosco, proprio sulla sommità di quella collina piatta. Quella radura era chiamata “La Fontana di Magdalena”. Il cielo aperto e più vasto rispetto ai luoghi chiusi mi rilassò tanto che potei fermarmi a riposare un po’; lì, finalmente, lontano dagli uomini, iniziai a riflettere su mille cose. L’aria era piena dell’atmosfera tipica di metà estate; quella miscela di esaltazione e paura mi isolava dalla vita quotidiana. Ora capivo perché la nostra religione ha reso sacra questa stagione dell’anno: perché poco dopo arrivava la notte di San Giovanni, i falò nei villaggi, e quelle antiche credenze riguardo alle fate che danzavano tra l’erba estiva. In quel momento, tutto sembrava congiurarsi contro di noi, gli esseri razionali abituati alla luce del giorno; qualcosa di fantastico possedeva coloro che erano abbastanza sciocchi da osservare tali notti. Anch’io, mentre guardavo intorno, mi sentivo isolato in quel silenzio assoluto. C’erano vette enormi e indistinte, tutte ricoperte di alberi; sembravano emergere sopra la radura dove sedevo, ma si fondevano in un orizzonte confuso. Ero su un altopiano elevato, eppure mi sentivo solo, circondato da quell’immensità che normalmente appartiene soltanto alle pianure. Vedevo le stelle, e ricordavo come le avevo osservate proprio in una notte simile, quando ero vicino al Pacifico, senza amici, immerso nella solitudine. Non c’era alcun rumore; era totale oscurità. I boschi davanti a me e dietro di me formavano un quadro silenzioso. E lì, in quella radura, pensavo a tutto.
+
+Poi una brezza leggera attraversò le vaste foreste della Lorena. Sembrava risvegliare una vita astuta e indefinita, tipica di quel luogo isolato; una vita che mi era estranea e che mi considerava un intruso. Eppure non sentii nulla: né serpenti nell’erba alta, né rane in quella zona arida, né grilli sulla sommità della collina. Ma sapevo che piccole creature, alleate di tutte le forze notturne e nemiche del sole, occupavano l’aria e la terra intorno a me. Non negherò nemmeno di aver provato un senso di ribellione, consapevole che gli esseri umani sono fatti per lavorare nelle luci del giorno e dormire di notte. Tutto ciò, in quella breve e sacra oscurità, aumentava la mia attenzione e le mie illusioni. Forse gli istinti del guardiano, le necessità della sorveglianza, ritornano a noi, inaspettatamente, attraverso i secoli.
+
+* * *
 
 
 
@@ -5010,6 +5587,24 @@ Anyway Villey the Dry is a fort, and there my four brothers were going. It was m
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il villaggio sfortunato
+
+Durante tali esperimenti. In ogni caso, la notte mi opprimeva e allo stesso tempo mi elevava. Allora, all’improvviso, attribuii quell’elevazione al bisogno di cibo.
+
+“Se dobbiamo provare questo piano così ‘letterario’ di dormire di giorno e camminare di notte,” pensai, “almeno qualcuno dovrebbe occuparsi di preparare i pasti serali in modo adatto.”
+
+Pertanto, con la mente ancora piena di pensieri legati alla foresta, mi sedetti, accesi un fiammifero e guardai all’interno del mio sacco; ne tirai fuori pane, prosciutto, cioccolato e vino Brûlé. Per sedile e tavolo avevo un banco ricoperto di erica, ancora tiepido e profumato dal calore del sole pomeridiano; per compagnia, quelle grandi forze ostili della notte che avevo incontrato e temuto; e come motivo o scusa, la fame. Tra coloro che discutono su cosa si debba fare con i viaggiatori, fu lo spirito più gentile e saggio a spingermi a compiere questo atto salutare. Mentre bevevo il vino e mangiavo il prosciutto e il pane, sentivo sempre di più di avere un diritto su quella strada; le stelle diventarono familiari e la foresta sembrò un giocattolo tra le mie mani. È evidente che il corpo debba essere riconosciuto e l’anima mantenuta nel suo posto, poiché un po’ di cibo e bevande rinfrescanti possono fare davvero molto per una persona.
+
+Durante questo pasto mi alzai felice, accesi una pipa e iniziai a cantare; con immensa gioia sentii, in lontananza lungo la strada, il suono di altre voci. Stavano cantando quella vecchia canzone dell’infanteria francese risalente al tempo di Luigi XIV, chiamata “Auprès de ma blonde”. Risposi al loro canto, così quando ci incontrammo sotto gli alberi, ormai conoscevamo già tutti i presenti. Mi dissero che avevano avuto una licenza di quarantotto ore a Nancy, in quattro, e dovevano tornare entro l’ora dell’appello in un posto chiamato Villey the Dry. Me ne ricordai dopo tutti questi anni.
+
+È un villaggio situato sulla cima di uno di questi alti colli sopra il fiume; un giorno si trovò circondato da fortificazioni e da un grande castello costruito proprio sopra la chiesa. Poi, prima ancora che capissero dove si trovavano, scoprirono che: (1) nessuno poteva entrare o uscire dal villaggio tra il tramonto e l’alba senza il permesso dell’ufficiale comandante; (2) che da villaggio erano diventati semplicemente “gli edifici situati all’interno del Forte N. 18”; (3) che sarebbero stati invasi da soldati; e (4) che avrebbero dovuto abbandonare le loro case in caso di mobilitazione. Erano diventati un forte senza nemmeno rendersene conto, mentre dormivano. Tutte le loro strade erano ora bloccate dalle mura difensive. Una sorte dura. Ma non avrebbero mai dovuto costruire il villaggio proprio sulla cima di una collina rotonda. Lo avevano fatto un tempo antico, quando si usava la pietra invece del ferro; infatti, la cima di una collina era un ottimo punto per difendersi dagli nemici. E così, dopo 73.426 anni, lo stesso vantaggio li colpisce ancora a loro svantaggio. Ed è proprio così che vanno le cose.
+
+Comunque, Villey the Dry è una fortezza, e là stavano andando i miei quattro fratelli. Si trovava a chilometri di distanza, e dovevano arrivare prima dell’alba, quindi ho offerto loro di aiutarli con la mia.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_75_the_cry_for_a_bed" data-title="The Path to Rome — The Cry For A Bed" data-chapter="The Cry For A Bed" data-kind="story" data-tags="archetype/pilgrim,motif/the_road,motif/night,motif/moon,motif/vow,motif/music_and_song,concept/endurance,form/travel_writing"></span>
@@ -5027,6 +5622,20 @@ I crossed the bridge, being now much too weary to notice anything, even the shad
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il grido per un letto
+
+Il vino, che, a mio grande piacere, rifiutarono di bere; così ci congedammo cortesemente. Poi notai che la strada iniziava a scendere, e capii di aver attraversato le colline. Quando la foresta finì e iniziarono i campi in pendenza, una luna pallida sorse tardi a est, tra la nebbia che nascondeva il fiume. Così, lungo una strada in salita ormai libera dagli alberi, alla bocca di una graziosa valle deserta sotto la luce della luna, raggiunsi nuovamente il Mosella. Avevo risparmiato un lungo giro attraverso le terre alte. Mentre scendevo lungo la curva delle colline e guardavo in alto verso quella vallata in pendenza, ricordai che quelle zone brulle venivano chiamate “valloni” dalla gente della Lorena. E così cantai ad alta voce la canzone dei cacciatori: “Entends-tu dans nos vallons, le Chasseur sonner du clairon”, fino a quando non raggiunsi la riva del fiume, e persi l’emozione di quella camminata tra le colline.
+
+A quel punto avevo percorso circa dodici miglia dal mio punto di partenza ed era mezzanotte. La pianura, la strada dritta (che a volte presentava leggere salite) e l’umido clima vicino al fiume iniziavano ad opprimermi con la stanchezza. Tuttavia, questo non mi disturbava: avevo infatti intenzione di interrompere quelle notti di marcia con brevi periodi di riposo, e mentre soggiornavo nelle città – soprattutto grazie alle false speranze che si potevano nutrire leggendo libri – immaginavo che dormire all’aperto fosse una cosa del tutto semplice. In effetti, in passato avevo spesso dormito all’aperto quando mi era stato necessario durante le manovre militari, ma avevo dimenticato quanto fosse importante disporre di un tappeto, e quale differenza potessero fare il calore di un fuoco e la compagnia degli altri. Ripensando a tutto questo, sentendo la mia stanchezza e rabbrividendo un po’ nel freddo sotto la luna e il cielo sereno, ero davvero disposto ad arrendermi e a dormire in un letto, come si fa da cristiani, non appena ne avessi avuto l’occasione. Ma ci sono certe promesse o piani che sfuggono al nostro controllo. Tutti i calcoli errati devono essere pagati, e scoprii, come vedrete, che una volta deciso di dormire all’aperto, dovevo attenermi a questa decisione nonostante tutti i miei ripensamenti.
+
+Passai un villaggio dopo l’altro, in cui tutto era buio; in quei luoghi non riuscivo a svegliare nulla se non cani, che mi consideravano un nemico. Alla fine vidi una grande striscia di luce nella nebbia sopra il Mosella: lì c’era una sorta di città o insediamento grande, con fabbriche di ferro; pensai che anche dopo mezzanotte ci fossero case aperte. Trovai prima la parte vecchia della città: solo due uomini erano svegli, impegnati in qualche attività legata alla cucina. Li individuai grazie a un filo di luce che filtrava dalla loro porta; ma non mi diedero alcuna speranza, consigliandomi soltanto di attraversare il fiume e provare nella città nuova, dove si trovavano le forge e le fabbriche di ferro. “Lì”, dissero, “certamente troverai un posto dove dormire”.
+
+Attraversai il ponte, troppo stanco ormai per notare nulla, nemmeno le colline avvolte nell’oscurità; la prima cosa che vidi fu un gran numero di carri che appartenevano.
+
+* * *
 
 
 
@@ -5046,6 +5655,20 @@ I did not lie awake (as when I planned my pilgrimage I had promised myself I wou
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La maledizione completa
+
+Verso una carovana o un mercato. C’erano alcuni uomini svegli, ma quando proposi di dormire nelle loro piccole case su ruote, mi dissero che mai si era fatto prima; che già avevano difficoltà a sistemarsi dentro quelle case; che non avevano paglia; che erano sorvegliati dai cani. In generale, mi fecero capire (senza aggressività né scortesia) che sembravo proprio il tipo di persona in grado di rubare i loro leoni e tigri. Tuttavia, mi dissero anche che sicuramente avrei trovato qualcosa aperto nel centro del quartiere dei lavoratori, dove le grandi lampade elettriche illuminavano intensamente l’intera area.
+
+Proseguii a malincuore, e presso l’ultima casa di questa odiosa forma di schiavitù industriale – una casa alta con un tetto a spiovente – vidi una finestra completamente aperta; un uomo biondo fumava una sigaretta sul balcone. Gli chiesi subito se poteva permettermi di dormire lì dentro. Mi pose tutte le domande che gli vennero in mente: perché ero lì, da dove provenivo, dove intendevo dormire (se fossi stato onesto), come mai mi trovassi lì a quell’ora a piedi. Pensai per un momento a quale scusa inventare, ma poi, rendendomi conto di essere troppo stanco per trovare una spiegazione plausibile, gli raccontai tutta la verità: avevo intenzione di dormire all’aperto, ma la stanchezza era stata troppa; ero partito da Toul la sera prima e avevo camminato tutto il giorno. Gli chiesi, invocando la nostra comune [[Faith|Fede]], di lasciarmi entrare. Mi rispose che era impossibile: aveva soltanto una stanza in cui dormivano lui e la sua famiglia, e aggiunse che mi aveva fatto tutte quelle domande solo per compassione e carità. Poi mi augurò la buonanotte in modo sincero e gentile, ed entrò in casa.
+
+A quel punto ero davvero esasperato e iniziai ad arrabbiarmi. Queste città francesi, sparse e disordinate, non offrivano alcuna possibilità di riposo. Capii che avrei dovuto allontanarmi dai giardini mercantili; forse avrei impiegato un miglio o due per trovare finalmente un po’ di tranquillità. Un orologio suonò l’ora una. Alzai lo sguardo e vidi che proveniva dal campanile di una di quelle nuove cappelle che i monaci stavano costruendo ovunque; non dimenticai certo di maledire i monaci nel mio cuore per averle erette. Maledissi anche coloro che avevano avviato impianti di fusione nella valle della Mosella, quelli che davano consigli falsi ai viaggiatori, e quelli che tenevano leoni e tigri nelle carovane. Per pochi soldi, avrei maledetto l’intera umanità! Quando vidi che la mia rabbia mi aveva portato fuori dalla città, fino in campagna, e che sopra di me, su un pendio, c’era un pezzo di orto e un sentiero che vi conduceva. Mi diressi verso di esso; trovai un mucchio di paglia secca sotto gli alberi e in poco tempo mi preparai un ottimo letto: prima costruii un piccolo materasso, poi ci addossai sopra la paglia, calda come una coperta.
+
+Non rimasi sveglio a guardare il cielo attraverso i rami degli alberi (come avevo promesso a me stesso quando pianificavo il mio pellegrinaggio), ma mi addormentai subito senza sognare. Al risveglio, era già pieno giorno e il sole.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_77_on_breakfasts" data-title="The Path to Rome — On Breakfasts" data-chapter="On Breakfasts" data-kind="story" data-tags="motif/dawn"></span>
@@ -5064,6 +5687,20 @@ As it was, I lit a pipe of tobacco and hobbled blindly along for miles under and
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# A colazione
+
+PRONTO A RISALIRE. Poi, ancora stanco e con solo due ore di riposo dopo tanta fatica, presi il mio bastone e il mio zaino e ripresi il cammino.
+
+Mi piacerebbe molto sapere cosa possono dire coloro che hanno una risposta per tutto riguardo al cibo necessario per la colazione. Quei grandi uomini come Marlowe, Jonson, Shakespeare e Spenser bevevano birra al mattino, accompagnandola con un po’ di pane. Nel reggimento noi bevevamo caffè nero senza zucchero e mangiavamo solo un grosso pezzo di crosta di pane raffermo, fino al momento del riposo; anzi, le grandi vittorie del ’93 furono ottenute con pasti così semplici. I repubblicani combattevano prima e poi mangiavano, il che li differenziava completamente dai “Diecimila”. Conosco marinai che per diverse ore non mangiano nulla. Intendo quelli che si alzano alle quattro del mattino; potrei ricordare il nome della guardia in cui appartenevano, ma me lo sono dimenticato e non ho voglia di cercarlo. I cani mangiano la prima cosa che incontrano, i gatti bevono un po’ di latte. Gli uomini, invece, sono abituati a svegliarsi alle nove e a mangiare uova, pancetta, reni, prosciutto, fagiano freddo, toast, caffè, tè, focaccette e miele. Dopo di ciò si vantano che la loro razza sia la più resistente al mondo e pronta ad affrontare qualsiasi fatica nella ricerca dell’Impero. Ma quale regola governa tutto questo? Perché la colazione è diversa da tutte le altre cose? I Greci la consideravano il cibo migliore del mondo. E ognuno di noi, in modo vago, sa che a colazione vorrebbe mangiare soltanto un certo tipo di cibo. E non riesce nemmeno a immaginare di fare colazione in un altro momento della giornata.
+
+La motivazione di questa indagine (che qui non ho il tempo di approfondire) risiede nel profondo disgusto che provai quella mattina per il vino Brule. Il mio prosciutto, il pane e il cioccolato li avevo consumati la notte precedente; nella mia follia pensavo di poter iniziare la giornata bevendo proprio quel vino che, solo la sera prima, mi era sembrato il miglior rinvigorente e alimento possibile. Ma all’aspro [[Dawn|'alba]] si rivelò essere nient’altro che un aceto amaro e insopportabile. Non cerco di spiegare questo fenomeno, né di capire perché lo stesso vino che nel bosco mi era sembrato così delizioso (e in seguito, lungo il canale, avrebbe di nuovo mostrato le sue qualità positive) ora mi repellesse. Posso solo dirvi che questa profonda delusione mi fece comprendere una grande verità: quella che un politico una volta mi disse e che da allora non ho mai dimenticato. “L’uomo,” disse il Direttore di Stato, “è soltanto la creatura delle circostanze.”
+
+Così come stavo, accesi una pipa di tabacco e proseguii a tentoni per miglia, verso est, dove il cielo iniziava a schiarirsi. Poco prima dell’alba, mi voltai e guardai indietro da un alto ponte che attraversava nuovamente il fiume. L’intensa fatica della notte aveva portato me lontano; ormai ero uscito dalla zona familiare.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_78_the_further_valley" data-title="The Path to Rome — The Further Valley" data-chapter="The Further Valley" data-kind="story" data-tags="motif/dawn"></span>
@@ -5081,6 +5718,20 @@ As I came into Flavigny I saw at once that it was a place on which a book might 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il valle più lontano
+
+GARRISON. Le grandi colline boschive che avevo attraversato si ergevano di fronte all’[[Dawn|'alba]], assorbendo la luce del nuovo giorno; nuvole pesanti e bianche, rare a quell’ora, fluttuavano sopra di loro. La valle della Mosella, che prima consideravo soltanto una regione semimontuosa, appariva ora come un lungo giardino le cui pareti erano costituite da pendii regolari e coltivati. Il principale corso d’acqua della valle non era più il fiume, ma il canale che ne derivava.
+
+L'erba alta, le foglie e i pioppi che si affacciavano sul fiume e sul canale sembravano scuri da vicino, ma la valle nel suo insieme appariva sfocata: una massa di alberi dalla cui cima spuntava la torre di una chiesa lorenese, con le dolci pendenze che la delimitavano su entrambi i lati.
+
+Scendendo da questo ponte trovai un cartello che indicava che avevo percorso trentadue chilometri – ovvero venti miglia – da Toul; che Flavigny distava un chilometro, e chissà quanto invece fosse lontano un posto chiamato Charmes. Il sole sorse nella nebbia che avvolgeva le lunghe e regolari valli, tra le basse colline piatte; proseguii quindi verso Flavigny. Lì, per una speciale provvidenza, trovai il divertimento e la compagnia di cui la mancanza mi aveva lasciato privo in tutte quelle prime ore.
+
+Appena entrato a Flavigny, capii subito che quel luogo era ideale per scrivere un libro: c'era una chiesa costruita nel XVII secolo, un'epoca in cui poche chiese venivano edificate al di fuori delle grandi città; c'era anche un convento, e l'atmosfera generale del posto era davvero adatta.
+
+* * *
 
 
 
@@ -5108,6 +5759,28 @@ Flavigny then, I say (for I seem to be digressing), is a long street of houses a
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Come scrivere rime
+
+Un'importanza tale che lo rendeva qualcosa di grandioso e nobile: quella cellula fondamentale dell’organismo europeo, la migliore tra tutte le associazioni cristiane, un vero e proprio grande villaggio.
+
+Dico che si potrebbe scrivere un libro su di esso, e senza dubbio sono stati scritti moltissimi articoli e pamphlet al riguardo; i francesi, infatti, sono estremamente appassionati di ricerche e recensioni locali, nonché di esaltare le loro città natali: e quando non riescono a trovare materiale folkloristico, arricchiscono le loro amate città inventandone.
+
+C'era persino un uomo (dimentico il suo nome) che scrisse un delizioso libro intitolato “Canzoni popolari e tradizionali della mia provincia”. Dopo la sua morte, si scoprì che tutto ciò che aveva scritto era frutto della sua fantasia; nessuna di quelle parole era conosciuta dagli abitanti del luogo. Era un uomo alto, dal sorriso facile, che fumava molto, aveva una folta chioma e lavorava di notte; amava trascorrere il tempo in compagnia degli amici e parlava senza sosta. Vorrei che da qualche parte esistesse una sua statua. E che per farle spazio si demolisse uno di quei bronzi inutili che si trovano anche nei piccoli villaggi, quegli oggetti che commemorano uomini solenni e importanti. Perché certamente questa è l’essenza del vero poeta: riempirsi la mente di ritmi e melodie, farne poi emergere qualcosa di nuovo, in forma di brevi canzoni proprie. Cosa potrebbe meglio rappresentare un intero mondo di parole danzanti e pensieri incantevoli, se non questa strofa tratta dalla canzone “Tourdenoise”?
+
+. Il suo bel corpo giace nella terra; la sua anima è in Paradiso.
+
+Ridi?
+
+E ridi, tu ridi, ma Bergère, ridi, ma Bergère, tu ridi.
+
+Era così che si lavorava in Inghilterra prima dell’arrivo dei Puritani: allora le persone non avevano paura di rubare versi gli uni dagli altri, e nessuno pensava che fosse possibile vivere solo di lettere; ogni poeta cercava un mecenate, oppure chiedeva l’aiuto delle chiese o le derubava. Ecco tutto riguardo ai poeti.
+
+Flavigny, dunque, (perché sembro essere divagato), è una lunga strada di case costruite tutte insieme, proprio come gli animali creano le loro comunità. Sono tutte molto vecchie, ma la gente ha lavorato sodo da quando è avvenuta la Rivoluzione; nessuno di loro è povero, né particolarmente ricco. Ho visto soltanto una casa signorile, e, per fortuna, era in cattive condizioni. La maggior parte delle case contadine aveva, al piano terra, enormi granai dalle cui porte usciva un delizioso profumo: quello dell’erba secca, dei letami, degli buoi, dei cereali conservati e del legno vecchio. Questo è davvero l’“odore della mattina”, perché è il profumo che caratterizza ogni vera comunità umana.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_80_the_hay_making_nuns" data-title="The Path to Rome — The Hay-Making Nuns" data-chapter="The Hay Making Nuns" data-kind="story" data-tags="motif/dawn,concept/tradition,form/travel_writing,histref/ancient_rome,setting/pastoral_countryside,setting/france"></span>
@@ -5126,6 +5799,20 @@ It is a matter often discussed why bakers are such excellent citizens and good m
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le suore che raccoglievano l’erba per il fieno
+
+L’uomo incontra per la prima volta l’alba quando si alza; essa rappresenta l’associazione tra il sorgere del sole nella mente di coloro che mantengono in vita il mondo. Ma non nella mente dei miseri abitanti delle città, e meno ancora in quella dei giornalisti, che non sanno nulla della mattina se non che è un momento di vuoto e noia, quando si è appena profetizzato (per la centesima volta) la prossima fine del mondo, quando i pavimenti iniziano a tremare per il rumore delle macchine, e quando, in modo stanco e monotono, si prova fame e solitudine. Una vita orribile, e di solito breve.
+
+Tornando a Flavigny. Questo modo di disporre un villaggio lungo una sola strada è tipico dei Romani e rappresenta il segno della civiltà. Quando ero all’università fui costretto a leggere un’opera di Tacito sui Germani: in mezzo a discorsi vaghi, assurdi e pieni di menzogne intenzionali, vi si trova questa eccellente verità: i barbari costruiscono le loro case separatamente, mentre gli uomini civili le fanno una accanto all’altra. Quindi, ogni volta che vedete tante tegole rosse “nidificate”, per così dire, tra i boschi di una collina nel sud dell’Inghilterra, ricordatevi che tutto ciò rappresenta la barbarie; ma quando vedete centinaia di case imbiancate in fila lungo una strada dritta e regolare, alzate il cuore: siete di nuovo nella civiltà.
+
+Ma continuavo a vagabondare per le strade di Flavigny. La prima cosa che notai entrando in città fu il sole basso sull’orizzonte, avvolto nella nebbia; quel chiarore metteva in risalto le lievi irregolarità della strada. Vidi poi un carretto trainato da un asino al galoppo: con un fragore assordante mi superò mentre io procedevo a fatica. Nel carretto c’erano due suore, ognuna con una falce; stavano andando a tagliare l’erba e erano sicuramente le prime ad arrivare nel villaggio, come succede sempre alle persone di religione. Rincuorato da questo segno positivo, ma ancora scoraggiato, incontrai poi un anziano che portava fuori un cavallo; gli chiesi se ci fosse qualche posto dove poter trovare caffè e pane a quell’ora. Lui scosse tristemente la testa e mi augurò buongiorno con forte accento: era sordo, probabilmente pensava che stessi chiedendo l’elemosina. Continuai quindi il mio cammino, sempre più desolato, finché non incontrai un uomo di mezza età molto allegro; stava andando nei campi, cantando e con una grande rastrelliera in spalla. Gli feci la stessa domanda. Lui mi guardò per un attimo e disse che certo si potevano trovare caffè e pane dal panettiere. Quando gli chiesi come potessi riconoscere il negozio del panettiere, rimase ancora più sorpreso dalla mia ignoranza e rispose: “Dal fumo che esce dal grande camino, ” Vidi infatti del fumo salire da una casa poco lontano a destra. Gli ringraziai e andai lì; trovai un giovane di circa diciannove anni seduto davanti a un bel tavolo di quercia, con caffè, rum e un pane davanti a sé. Stava aspettando che il pane uscisse dal forno. Nel frattempo fu molto gentile: mi versò caffè e rum e mi offrì del pane.
+
+È un argomento spesso dibattuto il motivo per cui i panettieri siano cittadini eccellenti e persone perbene. Poiché, in ogni paese in cui sono stato, si ammette universalmente che i calzolai.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_81_the_value_of_bakers" data-title="The Path to Rome — The Value Of Bakers" data-chapter="The Value Of Bakers" data-kind="story" data-tags="motif/dawn,setting/france"></span>
@@ -5143,6 +5830,20 @@ Then, a mile onward, I saw the road cross the canal and run parallel to it. I
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il valore dei panettieri
+
+Gli argomentativi e gli atei, tranne quel calzolaio sotto Plinlimmon, di cui, per Dio, vorrei avere lo spazio per raccontarvi tutto qui; lui conosce bene le leggende di quella montagna. Eppure, mentre è noto a tutti che i barbieri sono chiacchieroni e servili, che i mulini sono truffe (noi nel Sussex diciamo che ogni onesto mugnaio ha una grossa ciocca di capelli sul palmo della mano), ecco che – nonostante ogni mestiere al mondo abbia qualche aspetto negativo associato a sé – soltanto i panettieri sono esenti da queste critiche, e tutti considerano loro persone integre e affidabili. Infatti, in alcune società, anche quando la conversazione diventa cupa e scortese, basta menzionare i panettieri perché le voci si illuminino all’improvviso e un’atmosfera positiva pervada tutti. Dico che questo è un fatto noto, ma di solito non viene spiegato. La ragione? I panettieri si alzano sempre molto presto al mattino, possono ammirare l’[[Dawn|'alba]] e, con questa attività, vivono in solitudine, godendo delle prime ore del giorno.
+
+Conoscevo questo mio panettiere a Flavigny, che era ancora un ragazzo. Quando seppe che avevo prestato servizio a Toul, ne fu estremamente felice; mi raccontò di un suo fratello che aveva fatto parte dello stesso reggimento e mi assicurò che lui stesso avrebbe arruolato nella fanteria d’artiglieria con il permesso di suo padre. Se pensate che abbia perso l’occasione di far sembrare le armi terribili e gloriose ai suoi occhi, allora non sapete nulla. Gli raccontai storie sufficienti a “svegliare” persino una sentinella di riserva; se solo fosse stato possibile (data la mia giovane età), avrei aggiunto alcune aneddoti riguardanti il servizio attivo, descrivendo come grandi proiettili esplodessero sotto i miei cavalli, come le squadre venissero abbattute e gli artiglieri rimanessero del tutto indifferenti. Ma visto che sapevo che non mi avrebbe creduto, non parlai di queste cose, ma mi limitai a ciò che avrebbe potuto vedere e sentire quando si sarebbe arruolato.
+
+Nel frattempo, il cibo caldo e delizioso e l’alba che si avvicinava avevano prodotto due effetti: mi avevano restituito molta più energia di quanto ne avessi prima, ma allo stesso tempo (e questo succede spesso con il cibo e il riposo) avevano fatto sentire ancora di più la stanchezza accumulata durante quella lunga notte. Così decisi di alzarmi e cercare un posto dove poter dormire. Chiesi a quel mio amico quanto costasse tutto ciò, e lui rispose “quattro penny”. Dopo aver scambiato i soliti saluti, partii. Non lasciai la città senza notare una cosa strana: mentre nella maggior parte dei luoghi in [[France|Francia]] si vanta molto del proprio municipio e se ne fa un grande sfoggio, qui a Flavigny avevano preso una casa grande e vi avevano scritto “ÉCOLE COMMUNALE” in caratteri grandi; mentre su un annesso di quella stessa casa avevano scritto “Hôtel de ville” in caratteri molto piccoli, così piccoli che per un momento dubitai che i cittadini di quel luogo fossero veri repubblicani. Un pensiero traditore, in una zona del confine come questa.
+
+Poi, dopo un miglio di cammino, vidi la strada attraversare il canale e proseguire parallela ad esso.
+
+* * *
 
 
 
@@ -5165,6 +5866,24 @@ This comfort I ascribe to four causes (just above you will find it written that 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Il calore del mattino
+
+Vidi che il canale proseguiva per un altro miglio circa sotto una fitta boscaglia. Notai un vecchio ponte che lo attraversava, offrendo ombra fresca; essendo ormai quasi le sei del pomeriggio e il sole diventando sempre più intenso, proseguii lungo il sentiero, attraversai il ponte e mi sdraiai sul muschio sotto quegli alberi incantevoli. Dimenticando completamente le conseguenze di un riposo così anticipato, nonché il caldo torrido che sarebbe seguito a mezzogiorno, mi addormentai immediatamente, diventando parte della vita di quella foresta.
+
+Quando mi svegliai erano già le otto in punto e il sole aveva raggiunto una grande intensità. Lo vedevo brillare attraverso i rami degli alberi, come un nemico paziente fuori da una città che si osserva dalle feritoie di una torre. E cominciai ad avere paura di intraprendere il viaggio. Guardai in basso, lungo la ripida scarpata tra i tronchi degli alberi: il canale appariva come marmo nero; sentivo il ronzio delle mosche sopra di esso e notai che tutta la nebbia era scomparsa. Lontano, si udiva chiaramente il rumore delle increspature prodotte dalla barca che viaggiava pigramente. Di tanto in tanto, la corda di traino si allentava sulla superficie immobile dell’acqua; si sentiva il suono del liquido che gocciolava mentre la corda si sollevava. Il resto della valle era silenzioso, tranne per quel ronzio continuo degli insetti, segno della potenza del sole.
+
+Ora capivo chiaramente quanto fosse difficile trasformare la notte in giorno: mi trovavo condannato o a sprecare molte ore che avrebbero dovuto essere dedicate al mio pellegrinaggio, oppure ad avanzare sotto il calore estremo; e dopo aver bevuto quello che rimaneva del mio vino Brule (che in quel momento sembrava delizioso) e aver mangiato un pezzo di pane, mi lasciai cadere a terra stordito e ripresi la strada principale.
+
+Nel primo villaggio in cui arrivai scoprii che la Messa era già finita, il che mi infastidì molto; perché cosa significa una pellegrinazione se non si può ascoltare la Messa ogni mattina? Di tutte le cose che ho letto su San Luigi e che mi fanno desiderare di averlo conosciuto per poter parlare con lui, nulla mi sembra più piacevole del suo abitudine di partecipare alla Messa ogni giorno quando si dirigeva verso sud. Ma non so proprio perché questo sia così gratificante. Certo, un tale costume possiede una sua grazia e un suo valore, ma non è di questo che parlo: mi riferisco piuttosto al senso di ordine e di realizzazione che deriva da una giornata iniziata con la Messa; un sentimento puramente temporale, e, forse, ciò che i monaci delle ferriere avrebbero definito “un desiderio carnale”, ma per me è una fonte continua di conforto. Lasciate che vadano per la loro strada, e lasciate che io vada per la mia.
+
+Questo conforto lo attribuisco a quattro cause; proprio sopra di voi è scritto che non riuscivo a capire perché dovesse essere così, ma che importanza ha? E queste cause sono:
+
+# Per mezz’ora, all’inizio della giornata, rimani in silenzio…
+
+* * *
 
 
 
@@ -5192,6 +5911,28 @@ Now in the morning Mass you do all that the race needs to do and has done for al
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La Messa mattutina
+
+Raccogliersi, e dover mettere da parte preoccupazioni, interessi e passioni nella ripetizione di un'azione familiare. Questo sicuramente rappresenta un grande beneficio per il corpo e.
+
+Quel tono.
+
+2. Che la Messa sia un rituale attento e rapido. Ora, il compito di ogni rituale (come vediamo nei giochi, negli accordi sociali e simili) è quello di sollevare la mente da una parte troppo grande delle responsabilità e dell’iniziativa, e di “trascinare” l’individuo all’interno di esso stesso, guidandone la vita per tutto il tempo in cui dura. In questo modo si sperimenta un vero riposo; dopo di ciò, sono sicuro che si diventi più pronti ad affrontare le sfide successive.
+
+Azione e giudizio.
+
+3. Che l’ambiente circostante ti spinga verso pensieri buoni e ragionevoli, e che per il momento attenui quel rumore assordante e quella confusione derivanti da quella cattiveria incessante, sia quella che agisce dentro di noi sia quella che proveniamo dagli altri: essa rappresenta infatti la vera fonte di tutte le miserie umane. Così, il tempo trascorso durante la Messa è come un breve riposo in una biblioteca profonda e ben organizzata, dove non arrivano suoni esterni e ci si sente al sicuro dal mondo esterno.
+
+4. La causa più importante di questo senso di soddisfazione è il fatto che si sta facendo ciò che l’umanità ha sempre fatto per migliaia e migliaia di anni. Si tratta di qualcosa di così fondamentale che mi sorprende che le persone ne parlino così poco. Ci sono comportamenti radicati nel nostro sangue da tempi immemorabili; sono azioni che dobbiamo assolutamente compiere se vogliamo essere veramente felici (certamente nessun adulto può essere davvero molto felice per molto tempo, ma intendo dire abbastanza felice), e soprattutto per garantire la dignità e la serenità della nostra anima. Pertanto, di tanto in tanto si dovrebbe cacciare animali o almeno sparare a un bersaglio; si dovrebbe sempre bere qualche tipo di bevanda fermentata insieme al cibo, soprattutto durante le grandi feste; si dovrebbe andare in acqua di tanto in tanto; e si dovrebbe ballare nelle occasioni appropriate, nonché cantare in coro. Perché tutte queste cose l’uomo le fa da quando Dio lo ha messo in un giardino e i suoi occhi hanno per la prima volta contemplato il concetto di anima. Allo stesso modo, un insegnante o un predicatore, il cui nome non ricordo, ha detto recentemente qualcosa di molto saggio: che ogni uomo dovrebbe dedicare un po’ del proprio tempo al lavoro manuale.
+
+Oh! Che bella filosofia. E sarebbe ancora migliore se le persone ricche, invece di esercitare la loro influenza e spendere i loro soldi in iniziative per questo o quell’evento eccezionale, li utilizzassero per far sì che la classe media conducesse una vita ordinaria e rispettasse le [[Tradition|tradizioni]] della propria nazione. Infatti, se avessi il potere per trent’anni, mi assicurerei che alle persone fosse permesso seguire i loro istinti innati in queste cose: cacciare, bere, cantare, ballare, navigare, scavare. E coloro che non lo volessero sarebbero costretti con la forza.
+
+Ora, durante la Messa mattutina, si fanno tutte quelle cose che la razza umana ha sempre necessitato di fare e che ha effettivamente fatto in tutti questi secoli riguardo alla religione; lì si trova ciò che è sacro.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_84_the_sensible_squire" data-title="The Path to Rome — The Sensible Squire" data-chapter="The Sensible Squire" data-kind="story" data-tags="motif/wine_and_drink,motif/prayer,concept/faith,concept/tradition,form/travel_writing,histref/catholic_church"></span>
@@ -5209,6 +5950,20 @@ Everything happened just as she had said. I came to the big shed by the park wal
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il nobile sensato
+
+Un ambiente separato per l’adorazione, l’altare, il sacerdote nelle sue vesti liturgiche, i riti stabiliti, la lingua antica e gerarchica, e tutto ciò di cui la vostra natura ha bisogno quando si tratta di culto.
+
+Da queste considerazioni è facile capire quanto fossi deluso nel trovare la chiesa quella prima mattina della mia pellegrinazione. Proseguii lungo la strada polverosa in uno stato d’animo molto cupo, finché non vidi, a destra, oltre un basso muro e in una sorta di parco, una casa che sembrava essere costruita su un terreno rialzato e circondata da un muro; ma forse si trattava solo di un’illusione, poiché la casa era in realtà soltanto molto alta. Comunque, la disegnai e nel villaggio poco distante appresi qualcosa di curioso riguardo all’uomo che la possedeva.
+
+Poiché ero entrato in una casa per mangiare il terzo pasto e bere del vino, e anche per rifornirmi della mia bottiglia, la vecchia donna di quella casa, che era una persona gentile, mi disse che in quel momento non aveva vino. “Ma,” aggiunse, “il signor tal dei tali, che vive nella grande casa, lo vende a chiunque voglia comprarlo, anche in piccole quantità; potrete vedere il suo negozio accanto alla strada.”
+
+Tutto accadde esattamente come aveva detto. Arrivai presso il grande capanno vicino al muro del parco, e lì c’era un bancone fatto di assi, insieme a diverse grandi tini e due uomini: uno con un grembiule che serviva, e l’altro in una piccola cabina o compartimento che scriveva. Ero un po’ timido nel chiedere anche solo un quarto di liquido, ma l’uomo con il grembiule riempì la mia bottiglia alla fontanella e mi chiese quattro penny. Era disposto a parlare e mi raccontò molte cose: degli anni favorevoli per la produzione del vino, della natura del loro mestiere, dell’influenza della luna sulla fermentazione, dell’importanza dei rubinetti, e così via; ma quando cercai di sapere se il proprietario fosse un eccentrico gentiluomo privato o un commerciante che sapesse guadagnare sia piccoli che grandi soldi, non riuscii a fargli capire cosa intendevo; perché la sua idea di status era completamente diversa dalla mia e non prendeva in considerazione l’ozio, il lusso o le sciocchezze, ma si basava interamente su.
+
+* * *
 
 
 
@@ -5228,6 +5983,20 @@ First on the tow-path, then on the road, then on the grass, then back on the
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'ultima miglia
+
+Denaro e vestiti. Inoltre, entrambi eravamo repubblicani, quindi la questione non aveva grande importanza. Dopo esserci salutati cortesemente, ci separammo: lui rimase a vendere vino, mentre io mi diressi verso Roma, zoppicando un po’, con il mio sacco ora più pesante di un quarto di vino. Il quale, come probabilmente sapete, pesa esattamente due libbre e mezza.
+
+Erano ormai quasi le undici di sera; ero da un po’ arrivato sul luogo dove certi tipi di persone iniziano a parlare di determinazione incrollabile, di coraggio indomito e dello spirito tenace della gente dell’isola, e così via. Ma quando coloro che possono vantare almeno un po’ di quel sacro sangue francese si trovano in uno stato di disperazione totale (entrambi i tipi di persone continuano comunque ad avanzare, e la mobilità dell’una o dell’altra fanteria è più o meno la stessa), beh, ero davvero allo stremo quando mi venne in mente che a mezzogiorno avrei avuto bisogno di un pasto eccellente e sostanzioso. Tuttavia, guardando la mia mappa, scoprii che il primo luogo segnato lungo la strada era questa città di Charmes, l’ultima tappa del mio itinerario nel dipartimento dei Vosgi.
+
+Ci vorrebbe troppo tempo per descrivere tutti i trucchi a cui ricorrono le persone stanche e anziane quando sono alla fine di un compito difficile: come dividono mentalmente il lavoro in parti più semplici, come contano i numeri, come iniziano a risolvere i problemi con l’aritmetica mentale. Ho provato tutti questi metodi. Poi mi è venuto in mente uno nuovo, davvero eccellente, che consiglio a tutto il mondo: cambiare continuamente percorso, prendendo ora i campi, ora il fiume, e solo di tanto in tanto la strada principale. Quest’ultimo tratto di strada si adattava perfettamente a questo metodo: la valle era diventata ancora più larga e poco profonda; le colline su entrambi i lati erano basse e perfettamente uguali. Nel mezzo scorrevano il fiume, il canale e la strada; questi ultimi due erano separati soltanto da campi, a volte ampi, a volte stretti.
+
+# Prima sul sentiero di rimorchio, poi sulla strada, poi sull’erba, e infine di nuovo…
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_86_charmes" data-title="The Path to Rome — Charmes" data-chapter="Charmes" data-kind="story" data-tags="setting/france"></span>
@@ -5245,6 +6014,20 @@ But the wonderful thing about a name like Charmes is that it hands down the dead
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Incantesimi
+
+Per percorrere l’ultimo tratto di strada fino a Charmes, che si trova ai piedi di una collina più alta, ho impiegato molto tempo; sono arrivato proprio quando suonava la campana dell’Angelus a mezzogiorno. Per quanto noioso possa essere stato leggere quest’ultimo sforzo da parte mia, non potete certo immaginare quanto sia stato estenuante percorrerlo di persona. Dovrebbe esserci un equilibrio tra autore e lettore: ora uno fornisce il divertimento, ora l’altro lo riceve.
+
+La cosa incantevole di Charmes è proprio il suo nome. Proprio su questo nome avevo riflettuto mentre percorrevo gli ultimi chilometri di quella strada polverosa e deplorevole: che un paese potesse davvero chiamarsi ‘Charmes’.
+
+Non è che quelle città, se lasciate a se stesse e senza fretta, non abbiano il modo di trovare nomi appropriati alle colline circostanti e che ricordino i loro antichi campi. Ricordo Sussex; e mentre lo ricordo, devo necessariamente elencare alcuni di quei nomi: Fittleworth, dove l’osteria presenta pannelli dipinti; Amberley nelle paludi; il delicato Fernhurst, e Ditchling sotto la sua collina; Arundel, conosciuto da tutti; e Climping, che nessuno conosce, situata su una spiaggia desolata, perduta all’estremità di una strada inaccessibile; Barlton, Burton, Duncton, Coldwatham, che si ergono nell’ombra delle grandi colline; e Petworth, dove la guglia pende di lato; e Timberley, che le inondazioni trasformano in un’isola; e No Man’s Land, dove per prima cosa ti colpisce lo sguardo del mare lontano. Non ho mai conosciuto nessun abitante di Sussex che, se gli si mostrasse questa lista, non rispondesse: “Ero lì quel giorno; sono arrivato qui dopo quella lunga corsa; e quell’altro posto è la mia casa”. Ma non è solo il ricordo personale a commuoverlo: è anche il suono stesso di quei nomi. Percepisce l’accento con cui vengono pronunciati, e tutti gli uomini che vivono tra Hind-head e la Manica sanno che questi nomi rappresentano l’Eden; il semplice sentirli pronunciare ne è una prova sufficiente. Lo stesso accade per le valli nascoste della Francia: quando si menzionano nomi come Jouy o Chevreuse a qualcuno nato in quelle zone, diventa sognante, anche se si trovano a pochi passi da Parigi.
+
+Ma la cosa meravigliosa di un nome come Charmes è che trasmette immediatamente il senso di bellezza e fascino che esso racchiude. Infatti, un uomo defunto scelse quel nome per esprimere il proprio piacere personale; così ciò che era un piacere privato divenne qualcosa di condiviso da tutti, e in qualche modo quel nome rappresenta una sorta di “poesia” lasciata in eredità alla propria città. Si dice che gli Arabi facciano lo stesso: chiamano un luogo “il riposo dei guerrieri”, un altro “la fine”, un altro ancora “la sorpresa dei cavalli”; chi li conosce meglio può parlare al riguardo. Io so per certo che, nella parte occidentale della regione del Cotentin – un vero e proprio giardino marittimo – gli antichi Danesi, sposati con donne galliche, scoprirono epiteti appropriati per descrivere quei luoghi; esistono quindi nomi come “Santa Maria sulla Collina”, “Città Alta sotto il Vento” e “Il Quartiere sopra la Brughiera”.
+
+* * *
 
 
 
@@ -5276,6 +6059,32 @@ Then I looked down from the bridge across the plain, and saw, a long way off bey
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Natura dei diavoli tentatori
+
+Sono esattamente ciò che i loro nomi descrivono. Se dubitate che in Inghilterra esistano nomi così descrittivi, considerate questa grande verità: in un bivio ferroviario, dove una desolazione di acque stagnanti e campi privi di alberi e recintati da mura di pietra suscitano timore e ammirazione, a un portiere malinconico viene chiesto di mettere la testa dentro il vostro vagone e di cantare, come Caronte, “Cambiate qui per Ashton under the Wood, Moreton on the Marsh, Bourton on the Water, e Stow in the Wold”.
+
+Charmes non mantiene né il nome che porta né ciò che suo figlio dimenticato vi trovava di meraviglioso. Durante un pranzo, un importante viaggiatore commerciale mi disse con forza che quella città fosse nota soprattutto per le sue birrerie e che, a suo parere, non avesse alcun valore particolare. Tuttavia, anche a Charmes ho trovato un meraviglioso angolo di una casa rinascimentale; l’ho disegnato, ma poiché ho perso il disegno, lasciamo perdere.
+
+Quando uscii dall’osteria di Charmes, il caldo era ancora più terribile del solito, e l’idea di dover camminare in quelle condizioni diventava insopportabile. Avevo la testa bassa, camminavo molto lentamente e mi lasciavo assorbire da pensieri codardi, che in realtà (se solo lo avessi saputo) erano come angeli benevoli. Iniziai a cercare disperatamente degli alberi, ma vedevo soltanto lunghi muri bianchi che brillavano al sole; e se c’erano davvero alberi, erano circondati da recinzioni di legno poste dai loro proprietari. Ma dopo un po’ (ormai avevo definitivamente ceduto alla tentazione), trovai finalmente un cespuglio.
+
+Dovete sapere che se cedete alla tentazione, vi si presenta un’opportunità come un fulmine. Un teologo me l’ha detto, e in parte è vero, ma non riguarda Mammon, Belphegor o qualsiasi altro demone che abbia a che fare con il denaro. Quanti, infatti, hanno ceduto al desiderio di arricchirsi, dichiarandosi pronti ad godersi i beni materiali, eppure non hanno mai ottenuto un’opportunità degna di nota fino alla loro morte! Come quei due mendicanti di cui parla Rabelais: uno desiderava tutto l’oro necessario per acquistare tutti i beni venduti a Parigi fin dalla sua fondazione; l’altro, invece, voleva tanto oro da riempire tutti i sacchi che potessero essere cuciti con tutte le aguglie (anche le più piccole) e sistemati in Notre-Dame dal pavimento al soffitto, riempiendo anche gli angoli più nascosti. Eppure, quella notte, nessuno dei due aveva nemmeno un pezzo di pane per strofinarsi le gengive.
+
+Qualunque sia questo “Diavolo” che tenta gli uomini a rilassarsi. E personalmente credo che sia più un “Eone” che un Diavolo: cioè, un individuo di buon carattere che agisce per conto proprio, né buono né cattivo. Qualunque essenza sia, certamente si adatta al proprio umore. Infatti, non ho mai conosciuto nessuno deciso a essere pigro che non avesse avuto tutte le opportunità possibili. Anche se fosse stato più povero di Maigre, quel tale che formò una società per vendere, a prezzi elevati, anime troppo insignificanti per essere vendute singolarmente. Un uomo può sempre trovare occasioni per non fare nulla, in modo abbondante e con un’emozione estatica, tanto quanto il mondo gli permetta. E così.
+
+* * *
+
+A me, non so se ci fosse già prima o se sia apparsa per miracolo, ma in ogni caso era molto divertente. Si trovava a sinistra della strada; un ruscello la attraversava in una piccola valle; il sottobosco era fitto sotto i pioppi, e poco oltre, sulla pianura che la delimitava, c’erano mietitori che raccoglievano il grano nei campi. Entrai felicemente in quel boschetto e dormii fino a sera. Poi, rinfrescato dalla brezza fresca che precedeva il crepuscolo, mi alzai e ripresi il cammino, ma sapevo di non poter andare lontano.
+
+Avevo ormai superato i quaranta miglia; sebbene il caldo fosse svanito, il sonno profondo in cui ero caduto aveva causato mille problemi. Ero diventato rigido e incapace di muovermi liberamente; mi sentivo nel bisogno della compagnia degli altri e delle conversazioni dei viaggiatori, piuttosto che di trovarmi solo nella vasta pianura aperta. Ma (a meno che non tornassi indietro, il che era assolutamente impossibile) non c’era nessun posto dove poter riposare per un lungo periodo. Il prossimo villaggio significativo era Thayon, chiamato “Thayon dei Vosgi” perché si trovava vicino a quelle grandi colline; verso di lì mi dirigei, avanzando miglio dopo miglio.
+
+Ma il mio cuore si spezzò. Prima iniziò a zoppicare un piede, poi il ginocchio sinistro mi colpì improvvisamente con un dolore intenso. Cercai di alleviarlo appoggiandomi sulla gamba destra, e così scoprii una nuova legge della medicina che proporrò agli scienziati: quando quegli eccellenti uomini avranno studiato a fondo il funzionamento del cervello per capire dove si trovi l’anima, che considerino anche questa questione molto più pratica: non è possibile alleviare il dolore in un arto senza trasferirlo in un altro; così, i dolori al ginocchio sinistro furono sostituiti da un terribile dolore alla gamba destra. Mi sedetti su un ponte e riflettei. Vidi davanti a me centinaia di miglia di strada dolorosa e estenuante, e mi chiesi se tutto ciò fosse davvero necessario per un pellegrinaggio, (Ma, come sentirete in seguito, il pellegrinaggio non è del tutto soggetto alle leggi materiali: il giorno dopo, arrivato a Épinal, entrai in una bottega che, per chi non la conoscesse, sembrava un negozio di farmacia; lì comprai una bottiglia di una sostanza chiamata “balsamo”, e strofinandomela addosso mi guarii immediatamente.)
+
+Poi guardai giù dal ponte, attraverso la pianura, e vidi, lontano oltre la ferrovia, quel brutto villaggio industriale di Thayon; finalmente lo raggiunsi, notando che le persone avevano messo rami d’albero davanti alle loro porte, e i bambini aiutavano ad affondarli saldamente nel terreno. Mi spiegarono che era per l’avvicinarsi della festa di Corpus Christi; questo mi dimostrò che la religione, che esiste da tanto tempo quanto queste valli, sopravviverà agli esseri umani che le abitano. Anche qui, in un luogo creato da grandi lavanderie e moderni condomini industriali, tutta la gente metteva rami verdi per accogliere la processione, il sacramento e il prete. Questa evidente confutazione delle sciocchezze tristi che avevo letto nelle città mi confortò molto.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_88_of_mountain_towns" data-title="The Path to Rome — Of Mountain Towns" data-chapter="Of Mountain Towns" data-kind="story" data-tags="setting/france,setting/mountains"></span>
@@ -5291,6 +6100,18 @@ For in such towns three quite different kinds of men meet. First there are the o
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Città di montagna
+
+Dalla penna di intellettuali, sciocchezze che sapevo essere tali, ma che comunque avevano offuscato la mia mente. Entrai felicemente nell’osteria, mangiai e bevvi, lodai Dio e mi addormentai in un grande letto. Tra le mie preghiere c’era anche la ferma intenzione di fare solo cose ordinarie, senza tentare impossibilità come marciare di notte o perseguire altre vanità di questo mondo. Gettando via quindi tutte le teorie su come dovrebbe svolgersi un pellegrinaggio e infrangendo cinque o sei voti, dormii serenamente fino a metà mattina. Avevo percorso cinquanta miglia in ventiquattro ore. E se pensate che questo significhi soltanto due miglia all’ora, allora dovete avere una mente molto matematica e conoscere ben poco le realtà della vita. Mi svegliai, aprii le persiane davanti al luminoso mattino e al sole splendente, bevvi il mio caffè e ripartii verso Epinal, la fortezza situata a poche miglia di distanza. Ero felice di vedere quanto fosse breve la mia ombra e quanto fosse calda la strada sotto i miei piedi. “Questo almeno dimostra che faccio come tutti gli altri: cammino di giorno”, pensai. Mancavano solo un paio d’ore per raggiungere la grande guarnigione. Poco dopo passai accanto a una batteria militare; poi un capitano passò a cavallo, seguito dal suo attendente. Lì, dove c’era il profondo fossato lungo la strada – l’unica ombra di frescura, – sentii per la prima volta suonare le trombe; poi entrai nella lunga strada e decisi di esplorare Epinal, mettendo da parte ogni fretta e follia.
+
+Ci sono molte cose meravigliose a Epinal. Ad esempio, è evidente che un tempo, proprio come Parigi, Melun e una dozzina di altre fortezze dei Galli, fosse una città-isola. I fiumi della [[France|Francia]] sono infatti pieni di isole lunghe e abitabili, e queste un tempo costituivano i luoghi di riunione dei clan. Inoltre, le fortezze situate sulle alte colline intorno alla città la rendono ancora più imponente di Toul; Epinal si trova infatti esattamente nel punto in cui le colline iniziano ad essere molto ripide. In più, è il capoluogo di una regione montuosa, e questa caratteristica conferisce sempre a una città un aspetto particolare e impressionante. Si può osservare questo effetto a Grenoble, a Aubusson, e, in misura minore, a Ginevra.
+
+In tali città si incontrano tre tipi di persone completamente diversi. Prima di tutto ci sono gli uomini della pianura, che disprezzano gli abitanti delle zone montuose e ritengono di essere molto più nobili e civili; questi sono i borghesi. Poi ci sono i contadini e i taglialegna che vengono dalle zone collinari al mercato; sono diffidenti nei confronti degli uomini della pianura, ma allo stesso tempo si sentono orgogliosi di far parte di una vera città con un vescovo e strade lastricate. Infine ci sono i viaggiatori, che vanno lì per godersi le [[Mountains|montagne]] e utilizzare la città come base per le loro escursioni; questi amano gli abitanti delle zone collinari e pensano di capirli meglio degli uomini della pianura, che disprezzano perché sono troppo “di classe media” per dominare su di loro. Ma in realtà.
+
+* * *
 
 
 
@@ -5309,6 +6130,20 @@ Thus the transept is simply an old square barn of rough stone, older, I suppose,
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chiesa di Epinal
+
+Questi membri della terza classe, essendo considerati estranei, sono ugualmente odiati e disprezzati dagli altri due gruppi; ci è quindi una congiura contro di loro e vengono sfruttati.
+
+Ci sono molte altre cose per cui Épinal è meravigliosa, ma in nessun aspetto lo è più della sua grande chiesa.
+
+Suppongo che i grandi duchi di Borgogna e Lorena, i ricchi uomini delle Fiandre, la Casa di Lussemburgo e tutti gli altri, recandosi a Roma, il centro del mondo, dovessero spesso attraversare questa valle della Mosella, che (come ho detto) rappresenta una strada che conduce a Roma. Si fermavano nelle località circostanti e talvolta donavano denaro per le chiese presenti in quella zona; di conseguenza, queste chiese appartengono a ogni periodo storico possibile ed sono state costruite in venti diversi stili architettonici. Nel complesso, rappresentano un testimone duraturo delle forme artistiche del passato e di ciò che ha soddisfatto i gusti umani nel corso dei secoli, quando quest’ultimi hanno cercato di esprimere la propria devozione attraverso l’architettura in pietra.
+
+Quindi il transetto non è altro che un vecchio fienile quadrato costruito in pietra grezza; suppongo sia più antico di Carlo Magno e privo di qualsiasi ornamento. Nei suoi livelli inferiori ho persino creduto di vedere mattoni romani. Un tempo aveva due torri, una a nord e una a sud; quella a sud è in rovina e ha un tetto di legno, mentre quella a nord è ancora intatta, ma si riduce ormai a una semplice guglia o minareto troppo stretto per ospitare campane.
+
+* * *
 
 
 
@@ -5336,6 +6171,28 @@ Indeed the people of Épinal, not taking me for a traveller but simply for a wan
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L’Uomo delle Mele
+
+L’abside è un esempio puro e bellissimo di architettura gotica del XIV secolo, con finestre molto alte e profilate che sembrano vere e proprie preghiere. L’ambulato, anch’esso in stile gotico, è perfettamente moderno; il suo design ricorda quello introdotto da Viollet-le-Duc in [[France|Francia]] e da Pugin in Inghilterra, al fine di farci tornare alle nostre origini e ricordarci da dove proveniamo tutti noi europei. Ancora una volta, l’abside e l’ambulato non sono perpendicolari al transetto, ma disposti in modo obliquo, una caratteristica tipica delle chiese più piccole e considerata un simbolo; tuttavia è molto rara nelle chiese grandi. La porta occidentale è di stile romanico puro, con ornamenti bizantini e una grande porta rotonda e profonda. A corrisponderle c’è una porta settentrionale ancora più profonda, decorata con file interne di archi raffiguranti santi, angeli, demoni e fiori; anche questa porta non è dritta, ma costruita in modo che gli archi siano inclinati, proprio come si vedono talvolta i ponti ferroviari quando attraversano le strade ad angolo. Infine, c’è una torre centrale che non è né gotica né romanica, ma puramente italiana: si tratta di una loggia con splendide finestre rotonde e ariose che coprono interamente i suoi muri, e con un tetto piatto e grondaie. Sicuramente questa struttura è stata aggiunta da qualcuno proveniente dal sud, come ricordo dei suoi viaggi.
+
+Il transetto del fienile è fatto di vecchio pietra grigia in rovina; i portici in stile romanico sono rossi, proprio come a Strasburgo; l’abside gotica è bianca, proprio come le nostre cattedrali; l’ambulato moderno è realizzato in pietra bianca appena estratta, quindi colori e forme si mescolano tra loro in questo straordinario edificio.
+
+L’ho disegnato da quel punto di vista, nel mercato a nord-est, dove si vedono tutti questi contrasti contemporaneamente. Perdonate l’estrema instabilità del schizzo: l’ho realizzato nel modo migliore che ho potuto, su un carretto pieno di mele, con il mio libro appoggiato sopra. Non c’era altro tavolo a disposizione. Il venditore di mele non si è nemmeno lamentato, anzi mi ha dato consigli e lodi.
+
+“Eccellente; hai catturato perfettamente l’angolazione dell’abside. Ora, oscura quel bordo del pilastro. Temo che la torre risulti un po’ confusa, ” e così via.
+
+Gli offrii di comprargli alcune mele, ma lui ne mi diede tre; poiché queste mi causavano disagio, le regalai in seguito a un bambino piccolo.
+
+Infatti, la gente di Épinal, non considerandomi un viaggiatore ma semplicemente un povero vagabondo, fu molto gentile con me; il miglior favore che mi fecero fu curare la mia zoppia. Poiché, uscendo dalla città, vidi una farmacia, entrai e dissi al farmacista.
+
+“Il mio ginocchio si è gonfiato e fa molto male; devo camminare per molta strada. Forse potete dirmi come curarlo, o darmi qualcosa che mi aiuti.”
+
+“Non c’è nulla di più facile,” disse; “Ho qui qualcosa che risolve esattamente il problema di cui vi lamentate.”
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_91_the_little_runnel" data-title="The Path to Rome — The Little Runnel" data-chapter="The Little Runnel" data-kind="story" data-tags="concept/tradition"></span>
@@ -5360,6 +6217,26 @@ It was an old man in a valley called the Curicante in Colorado that taught me th
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il piccolo sentiero
+
+Con questo estrasse una bottiglia rotonda; sulla sua etichetta era stampato in caratteri grandi la parola “BALSAMO”.
+
+“Basta semplicemente strofinarsi il ginocchio con questa mia unta per un po’ di tempo,” disse, “e si guarirà.” Non menzionò nemmeno alcuna formula particolare da ripetere durante l’applicazione.
+
+Tutto accadde esattamente come aveva detto. Quando mi trovavo a una certa distanza sopra la città, mi sedetti su un muro basso e strofinai il ginocchio con questo balsamo per molto tempo; il dolore scomparve all’istante. Poi, con il cuore rinnovato da questo miracolo, ripresi il cammino e iniziai a camminare molto velocemente, diretto verso Roma.
+
+Il fiume Mosella, dopo il punto in cui curva verso l’interno, sembrava offrire un percorso molto più breve per raggiungere il villaggio successivo, chiamato Archettes – che prende il nome proprio dalle poche archi presenti nella zona. Tuttavia, questo errore derivò dall’aver seguito criteri personali piuttosto che rispettare la [[Tradition|tradizione]], rappresentata in questo caso dalla strada principale che segue fedelmente il corso del fiume. Anche se un tunnel dritto avrebbe permesso di ridurre notevolmente la distanza, scalare quella collina alta e attraversare il bosco privo di sentieri sarebbe stato assurdo.
+
+All’inizio attraversai ampi campi in pendenza; a circa cento piedi sopra la valle superai un piccolo canale. Era costruito secondo un sistema molto efficace, e lo consiglio ai proprietari terrieri lungo il corso dell’Alto Wye, che ne hanno davvero bisogno. Prelevano l’acqua dal Mosella – che in questa zona è ampia e impetuosa, con rapide e corsi d’acqua scoscesi su fondali rocciosi – e la conducono lungo un pendio uniforme, compensando così la pendenza irregolare del fiume stesso. In questo modo, hanno a disposizione un corso d’acqua costante che attraversa campi altrimenti aridi e spogli, trasformandoli in ottimi pascoli.
+
+Al di sopra di questi campi la foresta si innalzava ripidamente. Non avevo percorso nemmeno duecento metri nel suo buio e nella sua confusione quando mi resi conto di essermi perso. Era necessario seguire l’unico indizio che avevo a disposizione e salire dritto verso l’alto, lungo la direzione della pendenza più accentuata; almeno così sarei arrivato su una cima e probabilmente avrei potuto ammirare il panorama della valle. Se invece avessi provato ad avanzare verso la cresta della collina (che era stata la mia intenzione iniziale), avrei potuto vagabondare per tutta la notte senza riuscire a trovare la strada giusta.
+
+Fu un vecchio che viveva in una valle chiamata Curicante, nel Colorado, a insegnarmi questo: se si perde la strada mentre ci si dirige verso l’alto, bisogna seguire la linea più ripida; ma se si perde la strada mentre ci si dirige verso il basso, bisogna cercare l’acqua e raggiungerla.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_92_the_false" data-title="The Path to Rome — The False" data-chapter="The False" data-kind="story" data-tags="setting/mountains"></span>
@@ -5378,6 +6255,20 @@ As this was the first really great height, so this was the first really great vi
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# La falsa batteria
+
+Seguitelo. Vorrei avere più spazio per raccontare tutto di questo vecchio signore che mi ha offerto ospitalità laggiù. Era del New England, solo, e aveva speso molto denaro per acquistare una scatola musicale che lo consolasse. Ne andava molto fiero; anche se suonava soltanto quattro semplici melodie di inni, mentre le ascoltavamo insieme, grosse lacrime gli venivano agli occhi e lacrime leggere ai miei, perché quelle melodie gli ricordavano la sua casa. Ma non ho tempo per dire di più: devo tornare nella mia foresta.
+
+Salii quindi in mezzo a aghi di pino scivolosi e sotto l’aria carica di quegli alberi, piena di una luce debole e obliqua proveniente dal sole del pomeriggio; quasi arrivato in cima, mi imbattei in un chiaro che riconobbi immediatamente come una strada militare, che conduceva a ciò che noi chiamavamo una “batteria ausiliaria”: un rifugio scavato nel terreno con feritoie nelle quali si potevano posizionare le cannonate, ma in cui in realtà non ce n’erano. Da quando i francesi riuscirono a produrre cannoni pesanti veramente mobili, ne costruirono un gran numero di questi lavori ausiliari tra le fortificazioni permanenti. Questi non richiedono l’installazione di cannoni fissi, poiché i francesi possono utilizzare ora questo parapetto, ora quello, a seconda delle necessità; il vantaggio è che i loro cannoni non rimangono mai inutilizzati, ma possono sempre essere spostati dove sono necessari, e così sei cannoni riescono a compiere lo stesso lavoro di venti in passato.
+
+Questa batteria falsa si trovava in cima alla collina; quando ci arrivai, guardai giù per il pendio, oltre i cespugli che nascondevano i fili intrecciati. E lì, ai miei piedi, si estendeva l’intero valle della Mosella.
+
+Poiché si trattava della prima volta che raggiungevo una tale altezza, fu anche la prima volta che ebbi la possibilità di ammirare un panorama davvero magnifico durante il mio pellegrinaggio. Lo disegnai con cura, pezzo dopo pezzo, seduto lì a lungo sotto il sole al tramonto, annotando tutto ciò che vedevo: le piccole architetture situate poco più in basso; la valle piatta attraversata dal fiume che serpeggiava da una parte all’altra; le file ordinate di pioppi; i pini scuri sulle colline, e le montagne arrotondate che si elevavano sempre di più verso l’orizzonte, fino all’ultima che vidi, lontano a sud-est.
+
+* * *
 
 
 
@@ -5403,6 +6294,26 @@ I say it roundly; if it were not for the punctiliousness of the middle-class in 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La grande vista
+
+Deve essere stato il Ballon d’Alsace, alle sorgenti del Mosella: quella collina che segnava la prima tappa completa del mio [[Journey|viaggio]] e che si affacciava sulla Svizzera.
+
+Infatti, questa è la particolare virtù di camminare verso un luogo lontano, e soprattutto di farlo in linea retta: permette di avere queste visioni del mondo da sopra le colline.
+
+Quando immagino questo grande viaggio, lo vedo tutto disegnato su mappe: ogni tratto rappresentato da un paesaggio visto da una certa montagna, e ognuno di questi tratti collegato a quello precedente e a quello successivo, fino a quando riesco a ricostruire l’intero percorso. La vista qui dalla Collina di Archettes, quella dal Ballon d’Alsace, da Glovelier Hill, da Weissenstein, dal Brienzer Grat, dal Grimsel, sopra Bellinzona, dalla Principessa, da Tizzano, lungo la cresta degli Appennini, sulle mura di Siena, da San Quirico, da Radicofani, da San Lorenzo, da Montefiascone, sopra Viterbo, da Roncigleone. E infine quella vista ottenuta utilizzando l’ascensore sulla Via Cassia, da dove si può improvvisamente ammirare tutta la città. Tutti questi paesaggi si svelano uno dopo l’altro, fino a quando riesco a vedere l’intera Europa, e Roma che brilla in lontananza.
+
+Ma coloro che viaggiano in treno sono necessariamente confinati in lunghi valli e a volte anche tra le pareti della terra. Anche chi va in bicicletta o guida automobili può ammirare queste scene, ma raramente e senza una visione completa, poiché anche le strade evitano di salire, tranne nei punti in cui sono costrette a farlo, come sopra certi passi. Solo seguendo una linea retta è possibile spostarsi da un crinale all’altro e avere così una visione completa del percorso percorso.
+
+Ecco tutto riguardo alle viste. Scesi dalla collina fino ad Archettes e, quasi subito dopo aver visto la prima casa, notai un’insegna che recitava “Alla locanda della Trota dei Vosgi”. Poiché era ormai sera, decisi di entrare lì per cenare.
+
+Due cose notai immediatamente quando mi misi a mangiare carne: prima, che le persone sedute a quel tavolo dell’osteria appartenevano alla classe media della società; secondo, che io, pur essendo dello stesso rango di loro, rappresentavo un ostacolo al loro divertimento. Infatti, dormire nei boschi, percorrere circa settanta miglia, la maggior parte di esse sotto un sole accecante, e infine scivolare giù per una ripida pendenza fino alla strada, tutto ciò conferisce a una persona proprio quelle caratteristiche che questa classe sociale desidera assolutamente evitare. E coloro che biasimano la classe media per le sue convenzioni in tali questioni, e che si proclamano al di sopra delle preoccupazioni legate alla pulizia, all’abbigliamento e ai rituali sociali tipici della classe media, sono o anarchici per natura, o sciocchi che confondono un effetto derivante dalla loro ricchezza con una virtù naturale.
+
+Lo dico senza mezzi termini: se non fosse per la puntigliosità della classe media in queste questioni, tutta la nostra civiltà andrebbe in pezzi. Sono loro i conservatori e i custodi degli standard, i moderatori dell’Europa, il sale della società.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_94_apology_for_the_middle_class" data-title="The Path to Rome — Apology For The Middle-Class" data-chapter="Apology For The Middle Class" data-kind="story" data-tags="concept/class_conflict,concept/materialism,concept/conformity_vs_individualism,concept/deception,concept/moderation,form/travel_writing"></span>
@@ -5426,6 +6337,26 @@ I took great care to pay for my glass of white wine before dinner with a bank-no
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Scuse per la classe media
+
+La società. Per quell’uomo che si vanta di non curarsi dei vestiti sporchi o delle difficoltà della vita, si tratta o di qualcuno a cui non importa nulla di tutto ciò che la civiltà ha costruito e anzi lo detesta, oppure (e questo è molto più comune) di una persona ricca, o abituata a vivere tra i ricchi, che può permettersi di sprecare energia e risorse perché sente, in modo vago, che si possono sempre comprare altri vestiti, che alla fine dei suoi vagabondaggi potrà godere di cene eccellenti, e che Londra e Parigi sono piene di bagni lussuosi e barbieri. Tra tutti gli effetti corrottori della ricchezza, non ce n’è uno peggiore di questo: fa sì che i ricchi (e i loro parassiti) considerino qualcosa di “divino”, o almeno di estremamente desiderabile, ciò che in realtà non è altro che il risultato del loro potere di vivere in modo lussuoso. Che il cielo ci protegga tutti da una grande ricchezza, intendo, da una ricchezza davvero enorme.
+
+Ora la classe media non può permettersi di comprare abiti nuovi ogni volta che ne ha voglia, né può permettersi un viaggio al bagno turco o un grande banchetto con vino. Quindi il loro impegno principale è quello di preservare intatto ciò che hanno, di non eccedere in nulla, di curare la pulizia, l’ordine, la decenza, la sobrietà e un carattere equilibrato; circondano tutto questo con delle convenzioni e fanno bene a farlo.
+
+Trovo molto difficile soddisfare le richieste di questi miei colleghi, ma riconosco che hanno ragione nella loro disputa; che nessuno di loro pretenda che non li abbia difesi in questo libro.
+
+Quindi ho pensato a come potessi rimediare al mio errore con queste persone. Ho capito che raccontare storie complicate – tipo che fossi stato assalito da un vagabondo che mi aveva costretto a cambiarmi d’abiti, che lo avessi fatto per scommessa, che fossi un ufficiale incaricato di missioni segrete e stessi per attraversare il confine con la Germania sotto mentite spoglie di lavoratore, o che il mio medico mi avesse proibito di radermi – potrebbe involontariamente offendere qualche altro loro principio, ancora più sacro e profondo delle regole riguardanti l’abbigliamento. In passato mi era già capitato di dover ricorrere a simili scuse durante le mie spiegazioni.
+
+“Così provai un altro metodo; appena mi sedetti…”
+
+“Perdonate questo mio aspetto. Ho avuto un’avventura molto sfortunata in montagna: mi sono perso e ho dovuto dormire all’aperto per tutta la notte. Non posso nemmeno prendermi il tempo di sistemarmi, perché è assolutamente necessario che raggiunga i miei bagagli (che si trovano a Remiremont) prima di mezzanotte.”
+
+Mi sono preso grande cura di pagare il mio bicchiere di vino bianco con una banconota, prima di cena, e ho mostrato i miei schizzi al mio vicino per fare una buona impressione. Ho anche parlato di politica estera, dei paesi che avevo visitato, soprattutto dell’Inghilterra, con tale precisione dettagliata che il loro disgusto si è presto trasformato in ammirazione.
+
+* * *
 
 
 
@@ -5457,6 +6388,32 @@ Here was a warm place under the pines where I could rest in great comfort on pin
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Alberi da dormitorio
+
+La padrona di questa locanda era delicata e cortese fino a un certo punto; in ogni occasione cercava di superare i limiti del comportamento appropriato verso i suoi ospiti, ma questi, ogni volta che lei attaccava, contrattaccavano con una destrezza sorprendente.
+
+Quindi diceva: “Forse il tagliere avrebbe un sapore migliore se venisse preparato direttamente sul tavolo; oppure i signori preferiscono che venga preparato altrove?”
+
+A cui un banchiere seduto di fronte a me rispose con voce profonda: “Preferiamo, signora, che venga intagliata da parte.”
+
+O allora metteva la testa dentro e diceva: “Posso consigliarvi la nostra ottima birra. È davvero migliore di questo vino locale.”
+
+E la mia vicina, una turista, rispose con decisione: “Signora, il vostro vino è eccellente. Non potrebbe essere migliore.”
+
+Nemmeno riusciva a convincerli su un singolo punto; provavo per lei tale compassione che le comprai del pane e del vino per consolarla, lasciandola che mi addebitasse di più. Poi uscii con la sua benedizione, seguito anche dagli addii della classe media, che in quel momento stavano bevendo il caffè ai piccoli tavolini fuori dalla casa.
+
+Proseguii velocemente lungo la strada verso Remiremont. La notte calò; arrivai a Remiremont a mezzanotte e, sentendomi molto sveglio, continuai il mio cammino attraverso valli ricoperte da fitti boschi di pini. Alla fine, imboccando un sentiero secondario, mi ritrovai in un gruppo di alberi che mi offrivano riparo e, pensavo, anche calore; mi sdraiai lì per dormire fino all’alba. Ma, al contrario, rimasi sveglio per un’intera ora, immerso nel profumo delle aghi di pino e sotto quel tappeto morbido, guardando attraverso i rami scuri la luna che stava appena sorgendo, pensando quanto fossero adatti gli alberi di pino per far riposare un uomo.
+
+“La faggio,” pensai, “è un albero ottimo sotto cui dormire: lì non crescerà nulla e ci sarà sempre legna secca di faggio; il tasso sarebbe anche buono se non crescesse così basso. Ma in definitiva, gli pini sono i migliori.” Considerai anche che l’albero peggiore sotto cui dormire fosse l’upas. Questi pensieri erano così vaghi che, pur non essendo assonnato, finii comunque per addormentarmi. Molto prima dell’alba, mentre la luna brillava ancora su un cielo ancora punteggiato da alcune stelle deboli, mi svegliai tremando di freddo.
+
+Nel sonno c’è qualcosa che ci riduce a nulla. Questo l’ha notato tutti; chi mai, infatti, ha sperimentato un incubo da sveglio o ha provato, in piena coscienza, quelle terribili impotenze che esistono al di là del sonno? Quando ci sdraiamo, ci consegniamo volontariamente – ma per la forza della natura – a poteri davanti ai quali ci sciogliamo e diventiamo nulla. Tra le strane debolezze del sonno, ho notato anche il freddo.
+
+Ecco un posto caldo sotto i pini, dove potevo riposare comodamente su aghi di pino ancora impregnati del calore del giorno; una copertura ideale per gli animali che vivono sottoterra e amano il calore uniforme. Il miglior tappeto possibile per un uomo stanco. Anche la leggera brezza che.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_96_the_dawn" data-title="The Path to Rome — The Dawn" data-chapter="The Dawn" data-kind="story" data-tags="motif/dawn"></span>
@@ -5477,6 +6434,22 @@ At this wonderful sight I gazed for quite half-an-hour without moving, and took 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L’[[Dawn|alba]]
+
+Sotto la luna calante faceva caldo; le stelle sembravano languide e non brillanti, come se tutto fosse pervaso dall’atmosfera dell’estate. Sapevo che quella notte sarebbe stata breve: una notte di mezza estate. Avevo già trascorso metà del suo corso prima di provare a riposarmi. Eppure mi svegliai tremante e anche malinconico, desideroso di compagnia. Superai l’erba alta e bagnata di rugiada, attraversai la strada e raggiunsi la riva del fiume. Quando arrivai, l’[[Dawn|'alba]] iniziava già a illuminare l’orizzonte orientale.
+
+Per molto tempo rimasi in un posto ideale, proprio sopra una fila di alberi che costeggiavano il fiume, e osservai l’inizio della giornata: ogni aumento graduale della luce mi prometteva sostentamento.
+
+Quel debole e incerto bagliore, che sembrava non tanto illuminare l’aria quanto farne parte integrante, privava le foreste, i campi e le ripide colline sopra di me di ogni colore, trasformandoli in distese di grigio e di un grigio ancora più scuro. Le foreste vicine.
+
+Eramo solo ombre, nere e immobili, che evidenziavano l’orizzonte a est. Il fiume era bianco e silenzioso; non ne saliva nemmeno un filo di vapore. Ma dalle praterie più lontane si alzava una leggera nebbia che si stendeva uniformemente lungo i fianchi delle colline: queste ultime emergevano dalla nebbia, con le basi sfocate e i contorni netti contro il cielo che si schiariva. Più erano lontane, più i loro profili si delineavano nella luce dell’alba; i bordi più remoti catturavano appieno i primi raggi del sole mattutino.
+
+Di fronte a questa meravigliosa vista rimasi immobile per quasi mezz’ora, assorbendone tutta la forza come un uomo assorbe cibo e vino. Quando mi mossi e guardai intorno, divenne facile distinguere le varie specie di erba; uno o due uccellini avevano iniziato a cantare sommessamente tra i cespugli, una brezza mattutina soffiava dalla valle rompendo il silenzio, la luna era alta nel cielo e le stelle erano scomparse. In un’atmosfera solenne ripresi il cammino, dirigendomi verso le sorgenti del fiume più vicine.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_97_the_special_chapels" data-title="The Path to Rome — The Special Chapels" data-chapter="The Special Chapels" data-kind="story" data-tags="setting/mountains"></span>
@@ -5492,6 +6465,18 @@ again there were present here and there on the spurs lonely chapels, and these i
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le chiese speciali
+
+Ogni miglio percorso con fatica mi faceva rendere conto sempre di più che stavo avvicinandomi alla fine della mia compagnia con il Mosella, che negli ultimi ottanta chilometri era diventato parte integrante della mia avventura. Ora non era altro che un piccolo ruscello, montuoso e incostante, sebbene in alcune parti ancora tranquillo e lento nel suo corso. C’era anche qualcosa che ritengo essere un elemento inevitabile nelle valli isolate e nelle sorgenti dei fiumi (indipendentemente dal fatto che siano stati canalizzati o addirittura costruiti sopra di essi): una certa asprezza del paesaggio circostante, nonché la presenza delle case in pietra degli abitanti della zona e dei sentieri solitari che si discostano dalla strada principale.
+
+Sapevo che era qui. Le colline erano diventate molto più alte e si erano avvicinate di più alla pianura fluviale; lungo i burroni, di tanto in tanto, incontravo ponti vecchi e rustici, con una capanna accanto, tutti costruiti in pietra resistente, parte stessa delle colline. Allora.
+
+Ancora una volta, qua e là sulle creste dei monti si trovavano cappelle solitarie; in questi paesi cattolici, esse rappresentano un segno caratteristico delle montagne e del termine delle valli più fertili. Non so esattamente perché sia così. A volte se ne trovano anche nelle foreste, ma soprattutto nei piccoli insenati della costa marittima, e, come ho detto, nelle zone più alte delle valli, tra le grandi colline. In tali luoghi si celebra la Messa, ma molto raramente. A volte solo una volta all’anno, in occasioni speciali di commemorazione.
+
+* * *
 
 
 
@@ -5519,6 +6504,29 @@ All this upper corner of the valley is a garden. It is bound in on every side
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Titolo:  
+Nomi locali
+
+La maggior parte del tempo rimangono vuoti; alcuni, più antichi o semplici, potrebbero essere scambiati per rovine. Essi testimoniano ovunque forti emozioni di supplica, ringraziamento o reverenza, e legano questi luoghi selvaggi al loro passato, dando loro, attraverso i ricordi, ciò che manca nella vita quotidiana.
+
+Ho fatto colazione con pane e vino in un luogo dove la strada attraversa il fiume; poi ho deciso di bere anche del caffè caldo. Vedendo davanti a me un villaggio chiamato Rupt, che significa “la fenditura” (poiché lì c’è una grande crepa sul versante della collina), ci sono andato e ho bevuto il mio caffè. Poi ho notato qualcosa di molto interessante: la gente di quel posto si stanca ormai di inventare nuovi nomi per le cose, e non dà loro alcun nome specifico. Ho trovato questo davvero meraviglioso, perché ho osservato che ovunque io sia stato, più le persone vivono in luoghi remoti e hanno poco con cui distrarsi, più sono incline a inventare nomi particolari per ogni ruscello, crepaccio, collinetta o valle nei dintorni. Spesso, quando mi perdevo e chiedevo indicazioni a un contadino in qualche luogo desolato, lui iniziava a descrivere il percorso con frasi del tipo: “Lascia sulla tua sinistra la pietra che chiamiamo Nuggin, poi gira intorno a ciò che alcuni chiamano Holy Dyke fino a raggiungere ciò che loro chiamano Mary’s Ferry”, e così via. Anche i pescatori delle zone costiere e gli abitanti dei fiumi desolati vicino al mare hanno lo stesso comportamento; ho ancora in mente un breve tratto di acqua salmastra con soltanto cinque secche, ma ognuna di esse ha il proprio nome: “La Casa”, “Il Knowle”, “Goodman’s Plot”, “Mall” e “The Patch”.
+
+Ma qui a Rupt, con mia grande sorpresa, non esisteva alcun istinto universale e umano del genere. Così dissi all’uomo anziano che mi versava il caffè sotto la pergola (era piena mattina, il sole era già alto nel cielo e le nuvole si disperdevano sopra le cime delle [[Mountains|montagne]]): “Padre, come chiamate questa collina?” E indicai una collina e una vetta davvero notevoli che si ergevano direttamente sopra il villaggio.
+
+“Quello,” disse, “si chiama la collina sopra Rupt.”
+
+“Sì, certo,” dissi, “ma come si chiama?”
+
+“Quello è il suo nome,” rispose.
+
+E aveva assolutamente ragione, perché quando guardai la mia mappa, c'era scritto chiaramente: “Collina sopra Rupt”. Pensai quanto sarebbe noioso se questa diventasse una pratica comune. Se si dovesse chiamare il Tamigi “il Fiume di Londra”, l’Essex “la Parte Nord” e il Kent “la Parte Sud”. Ma considerando che questo metodo assurdo veniva utilizzato soltanto in un misero villaggio, mi liberai dalla paura, relegai queste idee folli alle colonie, e ripresi il mio viaggio.
+
+# Un giardino in ogni angolo della valle
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_99_the_youth_of_rivers" data-title="The Path to Rome — The Youth Of Rivers" data-chapter="The Youth Of Rivers" data-kind="story" data-tags="concept/tradition"></span>
@@ -5534,6 +6542,18 @@ It was my delight to lie upon a bank of the road and to draw what I saw before m
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La giovinezza dei fiumi
+
+Proveniente dai venti, si chiude alla fine con la grande massa del Ballon d’Alsace; il suo fondo è liscio e pianeggiante, e le sue terre fertili vengono utilizzate per coltivare erba e pascoli; intorno ad esso crescono gruppi di alberi, come se fossero stati piantati apposta per piacere alla vista.
+
+Niente può togliere alle sorgenti dei fiumi il loro carattere di isolamento e tranquillità. Qui ciò che in seguito diventerà influenza per le pianure viene coltivato e curato come in un orto, e si decide così il futuro di un intero valle fertile, con le sue città maestose. Qualcosa in questi luoghi impedisce l’ingresso o il saccheggio; non tollerano insediamenti se non quelli dei contadini; le acque sono troppo giovani per essere sfruttate; le colline ostacolano un commercio facile con i vicini. In tutto il mondo ho scoperto che le sorgenti dei fiumi sono luoghi di silenzio e serenità. E poiché esse stesse rappresentano una sorta di “giovinezza”, l’ambiente primordiale in cui tutto ciò diventerà in seguito – intendo dire modi particolari di costruire, uno stato di vita specifico, un clima locale e una tradizione storica – i fiumi riportano quindi l’essere umano a uno stato di estrema giovinezza; questi altopiani del mondo immergono l’uomo nella semplicità e nell’infanzia.
+
+Fu per me una grande gioia sdraiarmi su un ciglio della strada e disegnare ciò che avevo davanti agli occhi: il dolce corso del Mosella che serpeggiava attraverso campi piatti, uniformi e privi di recinzioni; le sue rive presentavano un curioso effetto creato dalla natura che imitava l’arte umana: sembravano un parco, e il fiume vi scorreva pieno di quella innocenza tipica delle vergini, nutrito e protetto dagli alberi.
+
+* * *
 
 
 
@@ -5565,6 +6585,32 @@ He said there were seven.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La donna pia
+
+In quella scena c’era qualcosa di simile alla creazione, al principio di tutto; mentre la dipingevo, mi fu donata la freschezza delle prime esperienze della vita, e mi riempì di ricordi legati a momenti gioiosi. Riflettevo sulla nascita dei fiumi: come fossero esseri viventi con un nome, come re che diventavano forti e governavano grandi paesi, fino a quando finalmente raggiungevano il mare.
+
+Ma mentre pensavo a queste cose, e nella mia mente immaginavo una sorta di ritratto della Valle del Fiume, degli uomini radunati intorno al loro corso d’acqua, delle vaste pianure che si estendevano su entrambi i lati, e della linea bianca del mare in lontananza, una donna mi passò accanto. Era molto brutta, vestita di nero; il suo abito era rigido e lucido, e sicuramente molto costoso. Teneva in mano un libro conosciuto in francese come “Il Parrocchiano Romano”, che in realtà è un libro di preghiere. I suoi capelli erano nascosti sotto un cappello rigido; camminava velocemente, con lo sguardo fisso a terra. Quando vidi questa scena, mi venne improvvisamente in mente, e gridai: “Dio mi aiuti! È Corpus Christi, il mio terzo giorno fuori casa. Sarebbe un peccato grave se non andassi a messa!” Il primo giorno (se vi ricordate) avevo dormito in un bosco, dopo l’ora della messa; il secondo giorno avevo dormito in un letto. Ma quel terzo giorno, che per di più era una festività importante, dovevo assolutamente andare a messa. E quella donna, che si affrettava verso il villaggio successivo, dimostrava che non ero troppo in ritardo.
+
+Così mi affrettai a seguirla e arrivai nel villaggio; entrai in chiesa, che era molto piena, e ne uscii attraverso un viale di alberelli e rami grandi piantati davanti alle case per accogliere la processione che avrebbe avuto luogo verso mezzogiorno. In fondo alla strada c'era una locanda dove entrai per mangiare; lì trovai un altro uomo, che credo fosse un commerciante, e decisi di parlare di politica, iniziando così:
+
+“Nella vostra città esiste antisemitismo?”
+
+“Non è la mia città,” disse, “ma c’è antisemitismo… E prospera.”
+
+“E allora?” chiesi. “Quanti ebrei ci sono nella vostra città?”
+
+Disse che ce n'erano sette.
+
+“Ma,” dissi, “sette famiglie di ebrei…”
+
+“Non ci sono sette famiglie,” lo interruppe; “ci sono soltanto sette ebrei in tutto. Ci sono solo due famiglie, e ho incluso anche i bambini. I servitori sono cristiani.”
+
+“Perché,” dissi, “è giusto e appropriato che le famiglie ebree provenienti dall’al di là del confine abbiano persone cristiane locali a servirle e ad eseguire i loro ordini. Ma quello che volevo dire è che, a mio parere, il numero molto ridotto degli ebrei non rappresenta certo un “carburante” sufficiente per alimentare l’antisemitismo. Come mai allora queste opinioni antisemite continuano a diffondersi?”
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_101_the_jews_in_the_hills" data-title="The Path to Rome — The Jews In The Hills" data-chapter="The Jews In The Hills" data-kind="story" data-tags="setting/mountains"></span>
@@ -5585,6 +6631,22 @@ I was now arrived at the head of this lovely vale, at the sources of the river M
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Gli ebrei delle colline
+
+“IN QUESTO MODO,” rispose. “Vedete, gli ebrei deridono i nostri giovani per le loro superstizioni, come quelle del cattolicesimo. I nostri giovani, messi di fronte alla logica e costretti a riconoscere l’irrazionalità di tali credenze, ammettono la validità delle derisioni ricevute, ma nutrono in segreto un odio profondo verso coloro che hanno smascherato la loro follia. Per questo motivo provano un rancore costante contro gli ebrei.”
+
+Dopo avermi fornito questa analisi approfondita di quella parte della politica delle [[Mountains|montagne]], aggiunse, dopo un breve silenzio, la seguente frase notevole.
+
+“Per quanto mi riguarda, sono un liberale e vorrei che ognuno seguisse la propria strada: il cattolico alla sua messa, l’ebreo al suo rito sacrificale.”
+
+Poi mi alzai dal mio pasto, gli salutai e iniziai a camminare lungo la strada della valle, chiedendomi cosa potessero sacrificare gli Ebrei in questa remota zona. Ma non riuscivo assolutamente a immaginarlo, anche se avevo molti Ebrei tra i miei amici.
+
+Ero ora giunto in cima a questa incantevole valle, alle sorgenti del fiume Mosella e ai piedi della grande montagna chiamata Ballon d’Alsace, che la chiudeva come un muro alla fine di un sentiero. Per alcuni miglia, le colline su entrambi i lati erano diventate sempre più alte, il fondo della valle sempre più stretto, il torrente meno impetuoso; davanti a me si estendevano ora le pendici paludose e gli enormi boschi di pini che impedivano qualsiasi passaggio verso sud. Lungo questi ostacoli, la strada principale era stata costruita, serpeggiante e con un gradiente costante, per miglia e miglia, fino in cima.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_102_the_ballon_dalsace" data-title="The Path to Rome — The Ballon D’Alsace" data-chapter="The Ballon DAlsace" data-kind="story" data-tags="motif/journey,setting/mountains"></span>
@@ -5603,6 +6665,20 @@ I would not be bound by the exaggerated zig-zags of the road, which had been bui
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il pallone d’Alsazia
+
+In cima alla collina; infatti il Ballon d’Alsace ha una forma tale che è impossibile per la valle della Mosella comunicare con la Gola di Belfort se non attraverso un sentiero che passa proprio sulla sua cima. Si tratta di una montagna con creste simili a quelle di una stella, e quando montagne di questo tipo bloccano l’estremità delle valli principali, diventa necessario che la strada che porta dentro e fuori dalla valle attraversi il loro punto più alto; altrimenti, qualsiasi altro percorso che passasse attraverso passaggi o pendii secondari richiederebbe un secondo tragitto per raggiungere la regione situata oltre di essi. Il motivo di ciò è evidente in questa mia piccola mappa.
+
+Il buio rappresenta la valle, la luce i luoghi elevati; questo è più chiaro di una lunga descrizione. Non che questa mappa riguardi specificamente il Ballon d’Alsace, ma solo il tipo di colline a cui mi riferisco.
+
+Poiché, attraversando una catena montuosa, di solito è possibile trovare un punto più basso adatto per superarla, queste strade di cresta sono rare; ma quando si riesce a trovarne una, rappresentano il viaggio più meraviglioso del mondo, poiché in un solo punto – ovvero sulla cima – offrono ciò che le normali strade che attraversano valli non possono mai dare: un momento di dominio assoluto. Dalla loro vetta si può ammirare l’intero mondo, e si ha la sensazione che il proprio [[Journey|viaggio]] sia davvero avventuroso, e che il proprio progresso rappresenti un vero passo significativo da una regione o popolo all’altro.
+
+Non sarei stato vincolato dai tortuosi zig-zag della strada, costruita per l’artiglieria e che presentava un pendio dolce. Seguii il letto della valle davanti a me e entrai nella foresta attraverso un sentiero stretto che conduceva dritto verso l’alto; quando il sentiero terminava, la mia strada era segnata dal filo del telegrafo che si estendeva fino a Belfort. Man mano che salivo, vedevo la foresta davanti a me diventare sempre più imponente: i rami dei pini pendevano dai tronchi con maggiore abbondanza e maestosità.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_103_the_inner_darkness" data-title="The Path to Rome — The Inner Darkness" data-chapter="The Inner Darkness" data-kind="story" data-tags="setting/mountains"></span>
@@ -5618,6 +6694,18 @@ When I came to the edge of this haunted forest it ceased as suddenly as it had b
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# L’oscurità interiore
+
+Il loro movimento dava alle piante un aspetto solenne; l’intera fila di alberi che mi si presentava davanti – poiché qui la foresta formava una linea uniforme e sembrava un esercito arrestato durante una marcia verso il basso – appariva qualcosa di insolito e gigantesco. Niente contribuiva di più a questa sensazione di reverenza della profonda oscurità che regnava sotto quegli alberi antichi, né del cambiamento nel cielo che accompagnava il mio ingresso nel silenzio e nel profumo di un tempio così vasto. Grandi nuvole, cariche di pioggia al punto da sembrare più basse delle colline (eppure appena al di sopra dei loro crepacci), si addensarono intorno a me come un tetto rovesciato; il calore del giorno svanì improvvisamente nella loro ombra. Sembrava che l’estate fosse finita, o che le montagne richiedessero una sorta di “estate” tutta loro. E i raggi del sole venivano oscurati dal freddo delle loro vette. Una brezza leggera soffiò tra l’erba, per poi spegnersi di nuovo. Mentre mi addentravo nell’oscurità degli alberi, iniziò a piovere.
+
+Il silenzio del bosco interno era ancora più intenso a causa del lieve gocciolio d’acqua che proveniva dai rami che si estendevano dritti e intrecciati, chissà a quale distanza sopra di me. La loro oscurità sembrava ancora più imponente a causa della penombra e del cielo che si abbassava, nascosto dal tetto formato dai rami. L’altezza, la quiete e una sorta di attesa dominavano i ricordi legati a quel luogo; passavo silenziosamente e con cautela tra gli alti alberi, attraverso una sorta di crepuscolo, verso una notte ancora più fonda. Da ogni parte, la vista di quei rami nudi e numerosi, ognuno allineato in modo ordinato, viola e profumati, si perdeva nelle lontananze dove ogni luce scompariva; tuttavia, man mano che avanzavo, quella leggera penombra continuava a circondarmi, così come la quiete accompagnata dal gocciolio d’acqua. Sotto i miei piedi c’era un tappeto di aghi di pino che attutiva ogni suono lontano. Se gli alberi non fossero stati così imponenti e duraturi rispetto alla mia presenza, se non mi avessero sopraffatto con la loro maestosità, forse avrei provato paura. Invece, procedevo verso l’alto tra di loro, trattenendo il respiro come fanno le persone di notte, cercando disperatamente di percepire qualche suono; mi sentivo continuamente accompagnato da qualcosa di nascosto e misterioso.
+
+Quando arrivai ai margini di questa foresta infestata, tutto cessò improvvisamente, proprio come era iniziato. Lasciai alle mie spalle una fila ordinata di alberi, allineati esattamente come quando ero entrato migliaia di piedi più in basso; davanti a me, si estendeva fino al cielo la sommità rotonda e a cupola della montagna: un vasto campo di erba. Era già sera; e, come se gli alti alberi avessero ritirato da me tutta la loro forza, la stanchezza mi colpì all’improvviso. A malapena riuscivo a camminare mentre salivo gli ultimi cento piedi e guardavo in basso, sotto le nuvole ondulate illuminate dalla luce serale, verso i tre paesi che si incontravano ai miei piedi.
+
+* * *
 
 
 
@@ -5640,6 +6728,24 @@ It was an inn. The door opened of itself, and I found there a pleasant woman of 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il nodo d’Europa
+
+Perché il Ballon d’Alsace è il simbolo dell’unità europea; da quel punto, guardando verso le montagne dei Vosges, si possono osservare tre diverse categorie di popoli. A destra di voi ci sono i Galli. Non intendo quella razza mista della Lorena, silenziosa e tra le migliori persone del mondo, ma i veri Galli: gente ardente, pronta a combattere, nata nelle pianure e nei vigneti. Si trovano nei loro antichi bastioni, ai lati del fiume Saône, e sono molto vivaci in battaglia. A volte un impulso li spinge ad avanzare verso est, tra i Germanici o in Asia, lungo le penisole del Mediterraneo; poi, come una marea che si ritira, tornano indietro, senza aver ottenuto nulla se non l’essere stati protagonisti di grandi imprese epiche.
+
+Poi, a sinistra, ci sono tutti i popoli germanici: un vasto mare di persone confuse e sognanti, perse nelle filosofie e impegnate nella creazione musicale; per il momento immobilizzate sotto una rigidezza straniera, ma un giorno si scioglieranno di nuovo e avranno qualcosa da dirci a noi altri. Non possono rimanere a lungo lontani dalle visioni che li guidano.
+
+Poi, davanti a voi, verso sud e verso est, se state marciando verso Roma, appariranno gli Highlanders. Non avevo mai fatto parte di loro prima d’ora, ma avrei avuto l’opportunità di vederli.
+
+In un solo giorno. Le persone delle alte colline, quella razza che tutti consideriamo nemica, e che attraversa il mondo intero dall’Atlantico al Pacifico. Si comprendono a vicenda, ma non vengono comprese da noi. Vidi la loro prima barriera naturale: le [[Mountains|montagne]] chiamate Giura, all’orizzonte. E sopra il mio vasto campo visivo, le nuvole continuavano a muoversi, illuminate dalla luce del tramonto.
+
+Ero stanco di queste immensità; sentendo ora i miei piedi più doloranti che mai, trascinai me stesso molto lentamente, tra intensi attacchi di dolore, lungo il pendio verso la strada principale. Vidi proprio sotto di me le pietre del confine dei prussiani, e subito al loro interno una capanna. Mi diressi verso di essa.
+
+Era una locanda. La porta si aprì da sola e vi trovai una donna piacevole di mezza età, ma con l’aria corrucciata. Aveva tre figlie, tutte molto forti, e le rimproverava ad alta voce in tedesco alsaziano, facendole lavare e pulire tutto. Sulla parete sopra la sua testa c’era un grande cartello che lessi con molta discrezione, mantenendo una certa distanza, finché lei non ristabilì l’ordine nella locanda.
+
+* * *
 
 
 
@@ -5666,6 +6772,28 @@ She was of a very different sort from that good tribe of the Moselle valley beyo
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La comune [[Faith|>fede]]
+
+La sua famiglia. Questo grande cartello era incorniciato nei tre colori che un tempo portarono un po’ di speranza agli oppressi; in cima, in caratteri neri grandi, erano scritte le tre parole: “Libertà, Fratellanza e Legge Uguale”. Sotto di esse c'era l’immagine simbolica di un gallo, che presumo fosse il simbolo nazionale francese; ancora più in basso, stampate in caratteri enormi e in grassetto.
+
+Quando quel gallo canterà, gli si darà credito.
+
+# Cosa significa…
+
+Quando lo senti gracchiare, è arrivato il momento di pagare. Fino a quel giorno, paga.
+
+Mentre ancora riflettevo su questo esempio rappresentativo del popolo francese, cercando di combinare la tradizione militare francese con il temperamento dei francesi nelle questioni economiche; mentre mi godevo anche il ricordo della moneta solida che portavo in una piccola borsa di pelle nella mia tasca, quella donna laboriosa, timorata di Dio e onesta, che gestiva quella piccola casa insieme alle sue tre figlie, situata a pochi metri dalla frontiera, su cima a questa enorme collina, aveva già riportato tutte le sue truppe in formazione e trovava il tempo per occuparsi di me. Lo fece con la massima cortesia, anche se, per natura, era fredda; ma nella sua cortesia si percepiva quel senso del dovere che i tedeschi chiamano “Dovere”, un sentimento che una volta mi avrebbe respinto. Ma ho viaggiato in molte parti del mondo, e ora so che si tratta di una sorta di virtù distorta.
+
+Era di una natura molto diversa da quella della brava gente della valle del Mosella, al di là della collina; eppure anche lei era cattolica. Aveva piantato un piccolo albero davanti alla sua porta in onore del Corpus Christi: vedete quale religione sia questa, che permette a persone di razze completamente diverse di capirsi a vicenda. Quando vidi quell’albero, capii esattamente dove mi trovavo. Un tempo tutti noi europei ci capivamo; ora invece siamo divisi dalle peggiori malvagità delle nazioni e delle classi sociali. Una persona non ama più la propria nazione quanto odia i propri vicini. Anche l’ultimo baluardo della cavalleria è ormai contaminato da un disprezzabile atteggiamento verso i poveri. Ma come stavo dicendo, anche lei era cattolica, e io sapevo di essere tra amici. Inoltre, non apparteneva esattamente a quella che si potrebbe definire la cultura celtica o latina. Non era certo una di quelle persone che apprezzano le cose raffinate. Il suo buon cuore la spingeva ad esprimersi con grande franchezza.
+
+“Cosa vuoi?”
+
+“Voglio un letto,” dissi, e tirai fuori una moneta d’argento. “Devo sdraiarmi subito.”
+
+* * *
 
 
 
@@ -5707,6 +6835,42 @@ In good-nights they had a ceremony; for they all rose together and curtsied. Upo
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il solo bevande
+
+# Poi ho aggiunto: “Puoi preparare delle omelette?”
+
+Ora, è una cosa curiosa… e di cui non mi soffermerò oltre.
+
+LETTORE: Non fai altro che rimuginare continuamente.
+
+AUTORE: È proprio l’essenza del viaggio solitario. E se siete venuti a questo libro nella speranza di trovare letteratura, allora siete arrivati nel posto sbagliato. Come dicevo: è curioso che alcune persone (o razze) passino naturalmente da un argomento all’altro, proprio come alcuni animali (intendo i nobili cervi) si muovono seguendo dei percorsi precisi. Al contrario, ci sono altre razze (o individui, perdonatemi, non sono un etnologo) che vi considerano criminali o pazzi, a meno che non procediate passo dopo passo, con cautela, come un ippopotamo fuori dall’acqua. Quindi, quando ho chiesto a questa donna che si occupava della famiglia, gestiva la casa e viveva in montagna se sapesse cucinare le omelette, lei ha scosso lentamente la testa, fissandomi negli occhi, e ha detto, con un francese misto a tedesco: “Il letto costa un franco.”
+
+“Madre di puttane,” risposi, “quello che intendo è che vorrei dormire fino al momento in cui mi sveglierò, perché ho percorso una distanza enorme e l’ultima volta ho dormito nei boschi. Ma quando mi sveglierò avrò bisogno di cibo, e per questo,” aggiunsi, tirando fuori un’altra moneta, “pagherò qualsiasi sia la vostra tariffa; non ho mai incontrato una casa più accogliente. So che la maggior parte delle persone non dorme prima del tramonto, ma io sono particolarmente stanco e distrutto.”
+
+Mi mostrò il mio letto e poi, con ancora più gentilezza, quando mi svegliai – molto dopo il tramonto – mi preparò in salotto della capanna degli uova sbattute con prosciutto; mangiai del pane integrale e recitai una preghiera di ringraziamento.
+
+Allora (il mio vino non era ancora finito, ma è davvero una cosa disgustosa bere il proprio vino nella casa di un’altra persona), chiesi se potevo avere qualcosa da bere.
+
+“Quello che ti piace,” disse lei.
+
+“Cosa hai?” dissi io.
+
+“Birra,” disse lei.
+
+“C’è altro?” dissi io.
+
+“No,” disse lei.
+
+“Allora, dammi un po’ di quella ottima birra.”
+
+Lo bevvi con piacere, pagai tutto il conto (che era quello di un lavoratore) e li salutai buonanotte.
+
+La sera, avevano una cerimonia: si alzavano tutti insieme e facevano la riverenza. Sul mio onore, credo che queste persone siano il sale della terra. Mi inchinai con vera contrizione, perché per alcuni momenti avevo pensato di essere migliore di loro. Poi andai a letto, e loro pure. Fuori ululava il vento; i miei stivali erano rigidi come legno e faticavo a togliermeli; i miei piedi.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_107_the_track_to_switzerland" data-title="The Path to Rome — The Track To Switzerland" data-chapter="The Track To Switzerland" data-kind="story" data-tags="setting/france,setting/italy,setting/mountains"></span>
@@ -5731,6 +6895,26 @@ From Portrut, by picking one’s way through forests, up steep banks, over open 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#La strada per la Svizzera
+
+Ero tormentato dal dubbio di riuscire a camminare il giorno dopo. Tuttavia, ero così avvolto nel senso di pace e virtù che caratterizzavano questa famiglia che mi addormentai immediatamente. Il giorno seguente, il sole sorgeva con un bagliore intenso sopra le lontane colline della Germania; la sua nuova luce filtrava tra i picchi delle nuvole, come se fossero gli ordini di un conquistatore che risuonavano lungo i passi montani. Senza esitazione, infilai le scarpe e lasciai quella casa.
+
+La mattina, dopo la tempesta, sembrava vivida e fresca, quasi fredda. Sotto un cielo poco nuvoloso ma che si stava schiarendo, inizialmente camminavo zoppicando; poi, man mano che il mio sangue si riscaldava, procedetti con passo deciso lungo il sentiero che serpeggiava tra gli alberi della valle più lontana. Presto seguii un ruscello che saltellava da una cascata all’altra, fino a quando non mi condusse sulla strada principale, verso Belfort, verso i monti Jura, verso quegli svizzeri che non conoscevo ancora, e infine verso l’[[Italy|Italia]].
+
+Ma prima di richiamare alla mente quell’valle nascosta, devo descrivere, con l’aiuto di una mappa, le caratteristiche particolari della strada che mi si presentava davanti, quella che conduceva in Svizzera. Mi trovavo sulla cima di quel gruppo di colline che si ergono su tutti i lati formando il Ballon d’Alsace e ponendo fine bruscamente ai Vosgi. Davanti a me, verso sud e est, si estendeva una vasta pianura nella quale sorgeva la fortezza di Belfort. I soldati chiamano questa pianura “la Fessura di Belfort”; è l’unica interruzione nella catena montuosa che circonda la [[France|Francia]] da un capo all’altro, dal Mediterraneo fino alle Fiandre. Dall’altra parte di questa pianura si estendevano le montagne del Giura, che costituiscono una sorta di “muro settentrionale” per la Svizzera; proprio prima di raggiungerle si trovava il confine internazionale. Il Giura è composto da ripide creste di calcare, alte migliaia di piedi, tutte parallele tra loro, con valli profonde altrettanto; al di là dell’ultima delle queste scarpate si estendeva la vasta pianura del fiume Aar.
+
+Ora, la linea dritta che conduceva a Roma partiva dal punto in cui mi trovavo, attraversava direttamente quella pianura di Belfort, superava le creste dei Monti Giura e tagliava la pianura del fiume Aar a pochi chilometri a ovest di una città chiamata Solothurn o Soleure, che sorge proprio su quel fiume.
+
+Era impossibile seguire esattamente quella linea, ma si poteva avvicinarsi abbastanza prendendo la strada principale che scende dalla montagna passando per Belfort fino a raggiungere una città svizzera chiamata Porrentruy o Portrut; in quel punto, si trovava leggermente a ovest della linea retta.
+
+Da Portrut, attraverso foreste, ripide pendici, aperti campi, sentieri per muli e così via, si poteva superare la prima cresta chiamata “Terribile Collina” e raggiungere la profonda gola del fiume Doubs, nonché una città chiamata St Ursanne. Da St Ursanne, seguendo una strada di montagna, salendo su alcune rocce e attraversando un bosco, si poteva arrivare direttamente alla seconda cresta, fino a Glovelier. Da Glovelier, una strada principale conduceva.
+
+* * *
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_108_the_secluded_valley" data-title="The Path to Rome — The Secluded Valley" data-chapter="The Secluded Valley" data-kind="story" data-tags="setting/mountains"></span>
@@ -5748,6 +6932,20 @@ I wandered down the mountain. A little secret path, one of many, saved me the lo
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La valle nascosta
+
+Attraverso una crepa si raggiungeva Undervelier e poi una città chiamata Moutier o Munster. Da lì, la strada, continuando più o meno lungo la linea che conduceva a Roma ma ora spostandosi leggermente verso est, proseguiva verso sud fino a quando un improvviso cambiamento di direzione costringeva a abbandonarla. Successivamente, si procedeva ancora su un sentiero accidentato, salendo lungo l’ultima cresta chiamata Weissenstein; da quel punto, dalla sua sommità, si scendeva in linea retta per una distanza di un miglio o due fino a Soleure.
+
+Tutto ciò che la mia mappa mi indicava, insieme a questa combinazione di strade, sentieri e percorsi tra le rocce che avevo pianificato con cura, li seguii fedelmente, al fine di avanzare il più direttamente possibile verso Roma, che era il mio obiettivo. Se non avessi pianificato in questo modo, ma avessi seguito le strade principali, sarei stato costretto a fare continue deviazioni per giorni interi: infatti, queste creste dei Monti Giura sono quasi completamente continue, e le strade non si elevano sopra le cime, ma seguono i valli paralleli, approfittando solo di rari passaggi per attraversarle.
+
+Ecco uno schizzo del percorso che ho seguito: la mia traccia è rappresentata da una linea bianca, mentre i punti rotondi indicano le città e i villaggi i cui nomi sono riportati sul lato. Nello schizzo, le pianure e i bassi valli sono indicati in colore scuro, mentre le cime delle [[Mountains|montagne]] rimangono bianche. L’ombreggiatura diventa più leggera man mano che si sale di quota; le linee di contorno (che non sono affatto precise) rappresentano, presumibilmente, distanze di circa mille piedi l’una dall’altra. Per quanto riguarda la distanza: dal Ballon d’Alsace a Soleure ci vorrebbero due giorni di marcia su strada pianeggiante, ma attraverso le [[Mountains|montagne]] e sulle rocce il percorso diventerebbe quasi tre giorni. E anche così si tratterebbe comunque di un viaggio molto faticoso. La mia prima tappa è stata attraversare la pianura di Belfort; avevo deciso di dormire quella notte in Svizzera.
+
+Vagabondai lungo la montagna. Un piccolo sentiero segreto, uno dei tanti, mi risparmiò i lunghi giri della strada principale. Seguiva il solco centrale della grande fessura e costeggiava il ruscello. Per chilometri, l’acqua cadeva a cascata su centinaia di gradini di roccia; il suo rumore si mescolava alla freschezza dell’aria, e gli schizzi inumidivano i rami degli alberi sopra di me. Una leggera pioggia che, di tanto in tanto, cadeva nella chiara mattina sembrava una “sorella” dei getti delle cascate; e con tutta quell’umidità, la vegetazione rigogliosa e il silenzio circostante, l’intera valle appariva piena di vita e serenità. Era un vero piacere scendere attraverso quei boschi e quelle praterie, fino a raggiungere i bei pascoli ai piedi della montagna, quel piccolo spazio tra le colline. Lì si trovavano le prime case degli uomini; da una di esse, il fumo iniziava già a salire sottile nella mattina. L’aria era molto pura e fredda, ma diventava ancora più piacevole grazie alla presenza e al rumore delle acque, ai prati umidi e alle foglie lucide che ricoprivano tutta quella valle ombreggiata. I brandelli di nuvole che, lontano sopra il cielo sereno, si muovevano velocemente nel vento, contribuivano anch’essi a rendere quell’ambiente ancora più incantevole.
+
+* * *
 
 
 
@@ -5772,6 +6970,26 @@ AUCTOR. So be it. Then if you will hear nothing of what interests me, I see no r
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I molti sacerdoti
+
+Piogge, di tanto in tanto, sottili come rugiada; e attraverso quelle brevi e limpide piogge si poteva vedere la luce del sole.
+
+Dopo aver goduto di quel percorso lungo poche miglia, tutto cambiò. La strada davanti a me proseguiva dritta, delimitata da alberi, e conduceva verso una vasta pianura punteggiata qua e là da collinette. I Vosgi finivano improvvisamente; le case diventavano più numerose, e dal modo in cui i campi erano coltivati, dai tetti piatti di ardesia, dalle pareti intonacate di bianco, dalle voci delle persone e dalla luce abbagliante del sole, capii di essere nuovamente in [[France|Francia]] delle pianure. La prima città che incontrai fu Giromagny.
+
+Ecco, quando ho sentito suonare una campanella, ho pensato di salire in chiesa per ascoltare la Messa; così ho fatto, ma la mia attenzione durante la cerimonia è stata distratta dal numero enorme di sacerdoti che c’erano in chiesa. Da allora mi chiedo continuamente come possano essercene stati così tanti in un posto piccolo come Giromagny. C’erano tre sacerdoti all’altare maggiore, e quasi uno per ogni cappella; il rumore delle Messe che iniziavano e finivano era così incessante che sono sicuro di non aver bisogno di fare colazione, nella mia fretta di parteciparvi. Nonostante tutto questo, c’erano poche persone presenti a quella Messa così presto; c’erano solo questi sacerdoti che andavano avanti e indietro, e il continuo suono delle campanelle. Ancora oggi mi chiedo. Giromagny non è certo un luogo adatto per reliquie o pellegrinaggi; non cura nessuno, non ha nulla di sacro. E tutti questi sacerdoti.
+
+# Lettore… Per favore, parlate meno della vostra religione.
+
+AUTORE: Per favore, considerate i libri così come li trovate e considerate il viaggio semplicemente un viaggio. Per voi, quando andate in un paese straniero, non vedete nulla se non ciò che vi aspettate di vedere. Ma io sono sorpreso da mille imprevisti; trovo sempre le cose venti volte più grandi di quanto pensassi fossero, e molto più curiose. Tutto è avvolto in una strana luce d’avventura. Ed è proprio questo il valore particolare di questo libro. Ora, se riuscite a spiegare questi preti.
+
+LETTORE: Posso farlo. Era la stagione giusta dell’anno, e ce n’erano tantissime.
+
+AUCTOR: Va bene così. Allora, se non intendete ascoltare nulla di ciò che mi interessa, non vedo motivo di descrivere con cura minuziosa ciò che vi interessa; potrei quindi omettere qualsiasi menzione della ragazza che parlava solo tedesco, dell’arresto del criminale, e persino della casa del maresciallo Turenne, quest’ultima, in realtà, molto interessante. Ma non lasciamo che la situazione degeneri in una vera e propria lite. Dovete immaginare voi stessi sei miglia di strada, e poi.
+
+* * *
 
 
 
@@ -5801,6 +7019,30 @@ That was true enough, and it explained a great deal. But it did not explain how 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I grandi guarnigioni
+
+— Poi, nel calore sempre più intenso, la polvere che si alzava nonostante la pioggia del mattino, e la strada estremamente faticosa da percorrere, sentii di nuovo il suono delle trombe e l’atmosfera cupa e tesa prodotta dai tamburi.
+
+È una riflessione stimolante questo passaggio da un grande presidio all’altro lungo l’intera frontiera. Ero partito dal caos di Toul; avevo attraversato il silenzio e la pace della regione del Mosella, quella valle simile a un lungo giardino, per poi arrivare alle armi e al rumore incessante di Épinal. Avevo lasciato Épinal e contato chilometri e chilometri di silenzio nelle foreste; avevo attraversato le grandi colline per scendere in un’altra pianura che sfocia in un altro mare. E poi, ascoltando di nuovo tutto quel clamore tipico dell’esercito, guardando indietro a quei quattro giorni trascorsi, si poteva percepire – quasi vedere – il nuovo sistema di fortificazioni: i vasti campi fortificati ognuno dei quali ospitava un intero esercito, e le fessure aperte tra di essi.
+
+Mentre mi avvicinavo a Belfort, vidi i cannoni avanzare al trotto su una strada secondaria; poco dopo, notai, sulla mia destra e a distanza, la colonna irregolare dei francesi, con la polvere sollevata dal loro passaggio e quell’indomabile allegria che caratterizzava le loro file. Il sole, di tanto in tanto, lampeggiava sulle canne dei fucili e sulle tasche lucide dei soldati. I loro pesanti zaini rendevano il loro passo rumoroso e sonoro; cantavano una canzone.
+
+Avevo già superato le fortezze esterne; avevo notato un edificio vicino alla strada; avevo proseguito per circa un miglio e mi ero addentrato in quel lungo e brutto sobborgo dove iniziavano le linee del tram. Fu in una di quelle case fatiscenti, situate su quella strada polverosa, rumorosa e interminabile, che vidi scritti questi versi.
+
+Vino, chiuso o aperto.
+
+Poiché è una buona regola esaminare ogni cosa nuova e “estrarre il miele da ogni fiore”, non ho pensato che quella frase fosse strana e l’ho ignorata. Sono rimasto fermo a fissare la casa, immaginando centinaia di spiegazioni possibili. Non avevo mai sentito parlare di vino diviso in “vino chiuso” e “vino aperto”. Ho deciso quindi di vivere un’altra grande esperienza: entrando ho trovato un gran numero di lattine di latta, simili a quelle in cui i francesi portano l’acqua, senza coperchio e con la parte superiore appuntita; alte circa un metro, su di esse erano attaccate grandi etichette stampate con i numeri “30”, “40” e “50”; le lattine erano piene zepe di vino. Ho parlato con la donna e, indicando quelle lattine, ho detto.
+
+“È davvero questo che chiamate vino aperto?”
+
+“Beh sì,” disse lei. “Non riesci a vedere da solo che è aperto?”
+
+Era vero abbastanza, e spiegava molte cose. Ma non spiegava come – visto che se si lascia una bottiglia di vino aperta per dieci minuti si rovina – si possano conservare intere galloni di vino in un enorme barile, senza alcun problema.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_111_on_building_bridges" data-title="The Path to Rome — On Building Bridges" data-chapter="On Building Bridges" data-kind="story" data-tags="motif/wine_and_drink,motif/lion,motif/river,form/travel_writing,setting/france"></span>
@@ -5829,6 +7071,30 @@ There is also in Belfort a great lion carved in rock to commemorate the siege of
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Costruire ponti
+
+Molto latte, raccolto dai “Pantheri” di Dio. Decisi di mettere alla prova ancora di più questo miracolo; scegliendo il prezzo medio, ovvero quattro penny al quart, dissi:
+
+“Per favore, dammi un ‘hap’orth in una tazza.”
+
+La donna lo fece immediatamente, e quando ne bevvi, era delizioso: dolce, fresco, corposo, in grado di sollevare il morale, soddisfacente. E possedeva tutte quelle caratteristiche di cui parlano i commercianti di vini: aroma intenso, corpo ricco e sapore eccellente. Era proprio quel tipo di vino che viene definito “molto bello”.
+
+Tuttavia, non attesi a discutere di questo miracolo, ma lo accettai come uno di quei misteri di cui questa pellegrinazione mi stava già fornendo esempi, e di cui ne sarebbero venuti altri ancora, (Aspettate solo di sentire parlare del brigante di Radicofani). Mi dissi:
+
+“Quando uscirò dalla Terre Majeure e mi allontanerò dal forte ed eccellente governo della Repubblica, quando domani sarò perso tra le colline del Jura, non ci sarà più vino del genere.”
+
+Allora ne comprai un quarto, lo chiusi ermeticamente con il tappo, lo misi nella mia borsa e lo conservai per le zone prive di vino situate sulle pendici della collina chiamata Terribile, dove non ci sono soldati e la lingua parlata è lo svizzero. Poi proseguii verso il centro della città.
+
+Mentre attraversavo il vecchio ponte per entrare nella piazza del mercato, dove avevo intenzione di pranzare (il sole era terribile; erano quasi le undici), vidi che stavano costruendo un nuovo ponte parallelo a quello vecchio per sostituirlo. Il modo in cui si costruiscono i ponti a Belfort è così meravigliosamente semplice e, al contempo, così innovativo, da meritare davvero di essere raccontato.
+
+Nella maggior parte dei luoghi, quando è necessario costruire un ponte, sorgono innumerevoli problemi e preoccupazioni riguardo alla realizzazione delle pile, delle dighe di contenimento e chissà cos’altro ancora. Alcuni utilizzano ponti a sbalzo per evitare questi problemi, altri provano ad erigere archi di un solo tratto da un lato all’altro del fiume. Esistono mille metodi diversi. A Belfort, invece, basta semplicemente aspettare che l’acqua si ritiri; poi un gran numero di operai scende nel letto asciutto del fiume e inizia a scavare freneticamente le fondamenta, per poi costruire le pile con grande rapidità. Presto l’acqua torna, ma le pile sono già al di sopra del livello dell’acqua, e il resto dei lavori viene svolto dalle barche. È assolutamente vero: non solo ho visto gli operai nel letto del fiume, ma anche un uomo a cui l’ho chiesto ha detto che secondo lui questo è il modo più naturale per costruire i ponti, e dubitava che esistesse qualche altro metodo diverso.
+
+A Belfort c’è anche un grande leone scolpito nella roccia per commemorare l’assedio del 1870. Questo leone si trova sul dirupo sotto il castello ed è di dimensioni enormi; non so esattamente quanto sia grande, ma ho visto che un uomo sembrava davvero piccolo accanto a una delle sue zampe. Prima di scolpirlo, il dirupo è stato appianato fino a diventare simile a una lastra o a una tavola di pietra.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_112_the_sad_economists" data-title="The Path to Rome — The Sad Economists" data-chapter="The Sad Economists" data-kind="story" data-tags="concept/tradition,setting/mountains"></span>
@@ -5848,6 +7114,22 @@ To most people there is nothing more subtle or pleasing in a powder-magazine tha
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I tristi economisti
+
+Poi questo leone fu scolpito a rilievo su di esso da Bartholdi, lo stesso uomo che realizzò la Statua della Libertà nel porto di New York.
+
+L’assedio del 1870 è stato fissato nella storia in un altro modo ancora, un modo che mostra come la Chiesa continui sempre a operare seguendo lo stesso principio. C’è infatti una piccola chiesa da qualche parte vicino o dentro Belfort (non so esattamente dove, ne ho solo sentito parlare): un muratore e pittore del posto, incaricato di decorarla per una certa somma, si divertì a dipingere intorno ad essa piccoli quadri che raffiguravano l’assedio stesso – il freddo, le ferite, l’eroismo dei soldati. Questo è davvero il modo in cui tali cose dovrebbero essere realizzate: da persone che lo fanno per piacere e seguendo la propria ispirazione. Ho molti amici che concordano con me nel ritenere che l’arte non debba essere competitiva o industriale; tuttavia, la maggior parte di loro arriva alla conclusione assurda che nessuno dovrebbe possedere il proprio giardino, la propria apiaria, la propria grande casa nobile, né tantomeno le azioni di una compagnia ferroviaria. O addirittura le scarpe che indossa. Dico: basta con queste sciocchezze! Allora loro mi chiedono: e cosa si dice della concentrazione dei mezzi di produzione? Io rispondo: e cosa si dice della distribuzione delle proprietà derivanti da tali mezzi di produzione concentrati? Loro scuotono la testa, dicendo che una simile sistemazione non potrebbe mai funzionare. Ma io dico: provatela prima e vedete. E loro, allora, si arrabbiano terribilmente.
+
+Quando pranzai a Belfort (e, tra l’altro, durante il pranzo un poveruomo mi chiese di utilizzare tutta la mia influenza per suo figlio, che era ingegnere nella marina; lo fece perché avevo vantato i miei viaggi, le mie esperienze e le mie importanti conoscenze in tutto il mondo). Insomma, quando pranzai in un caffè per operai a Belfort, ripresi il mio viaggio, ma fui molto deluso nel scoprire che continuavano a piovere.
+
+All'alba, sotto quegli alberi incantevoli, lassù nelle [[Mountains|montagne]], i rami mi offrivano un “tetto”; il paesaggio selvaggio mi faceva sentire parte della natura, e la pioggia sembrava fondersi con i prati e i ruscelli. Ma qui, su una strada e in una città, tutta la sua [[Tradition|tradizione di disagio]] mi colpì. Per qualche miglio fui arrabbiato con il tempo e con la strada, fino a quando due cose mi consolarono: innanzitutto il cielo si schiarì, e un sole splendente mi mostrò la pianura dell’Alsazia e le montagne dei Vosgi allineate una dietro l’altra; in secondo luogo, arrivai davanti a un enorme magazzino di polvere da sparo.
+
+Per la maggior parte delle persone, non c’è nulla di più raffinato o piacevole in un serbatoio per polvere che in uno contenitore tradizionale. Sia l’uno che l’altro hanno un aspetto esteriore molto simile: entrambi sono costituiti da una piattaforma piatta, inclinata sui lati e ricoperta d’erba, e entrambi presentano porte misteriose. Ma, per quanto mi riguarda, io non riesco mai a vedere la differenza tra i due.
+
+* * *
 
 
 
@@ -5875,6 +7157,28 @@ I thought it a good opportunity for recollection, and sitting down, I looked bac
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#La pistola ad aggeggio a polvere
+
+Un magazzino che, senza essere riempito immediatamente, suscitava due sentimenti molto positivi: risate e compagnia. Poiché anni fa fu mia grande fortuna essere compagno e amico di due uomini incaricati di fare la guardia in un deposito di polvere da sparo, subito dopo che alcuni anarchici avevano tentato di attaccare tali depositi. E a questo proposito, non riesco a immaginare nulla di più allettante per gli anarchici di settecentoquarantadue casse di polvere da sparo e cinquanta casse di melinite tutte conservate nello stesso luogo. Per evitare il enorme rumore, la confusione e lo spreco che sarebbero derivati dall’eccessiva attrattiva di questo deposito per gli anarchici, i miei due amici – uno un burghese ligio al dovere, l’altro un uomo disinvolto di Parigi – erano di guardia quella notte. Avevano ricevuto ordini severi: intervenire una sola volta e poi sparare.
+
+Ora, riuscite davvero a immaginare qualcosa di più squisito per un povero soldato arruolato, stanco morto dopo le lunghe guardie e gli inutili addestramenti militari? I miei amici presero quindi quell’ordine, e in una notte d’estate uccisero un asino, ferirono due cavalle e distrussero il debole tronco di un albero ancora in crescita.
+
+Anche questo fucile a carica di polvere non faceva eccezione alla mia regola: avvicinandomi, vidi un caporale dal viso rotondo e due uomini dallo stesso viso che guardavano con ansia per scoprire chi stesse attaccando il loro “tesoro”. Pensai a quanto fossero orgogliosi questi ragazzi, e a quanto fossi fiero della “classe ’90”, dotata di canne rigate montate su carriole, (Se non capite l’allusione, non posso fermarmi per spiegarla: era un ottimo fucile per l’epoca; ora hanno quelli del modello ’75 che non presentano il problema del rinculo. Riposi in pace). Pensai anche a quanto aspettassero con impazienza la notte, per avere l’opportunità di sparare contro qualcosa lungo l’orizzonte.
+
+Ricco di questi pensieri sciocchi, ma sorridendo nonostante la loro stupidità, proseguii lungo la strada.
+
+Devo descrivere in dettaglio tutto quel pomeriggio? La mia gamba mi causava un dolore sordo e continuo, e temevo di non riuscire a resistere. Non parlo certo di Roma, ma nemmeno della frontiera. Di tanto in tanto la massaggiavo con balsamo, ma, come succede spesso alle cose “miracolose”, il loro effetto svaniva col passare del tempo. Alla fine trovai un sentiero secondario che si diramava dalla strada principale; la mia mappa indicava che rappresentasse in realtà una scorciatoia verso la frontiera. Decisi di percorrerlo per quei pochi chilometri finali: quando si soffre, un sentiero tortuoso è senz’altro più sopportabile di una strada larga e dritta.
+
+Proprio quando arrivai all’incrocio delle strade, vidi eretto un crocifisso; alla sua base c’era lo slogan che è comune a tutti i crocifissi francesi.
+
+Ave Crux Spes Unica.
+
+Ritenni che fosse un'ottima opportunità per riflettere, quindi mi sedetti e ripensai al cammino che avevo percorso.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_114_the_last_of_the_vosges" data-title="The Path to Rome — The Last Of The Vosges" data-chapter="The Last Of The Vosges" data-kind="story" data-tags="setting/france,setting/mountains"></span>
@@ -5895,6 +7199,22 @@ The marshy valley kept its character when I had left the lane and regained
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#L’ultimo dei Vosgi
+
+C'erano le alte [[Mountains|montagne]] dei Vosgi che si ergevano sopra la pianura dell'Alsazia, come scogliere inclinate sul mare. Le ho ritratte così come apparivano e mi sono chiesto se quel confine fosse davvero permanente. La mente umana è più potente di tali ostacoli e può facilmente superare anche le alte colline.
+
+Dopo averli disegnati, in quel disegno espressi una sorta di addio alle influenze che mi avevano accompagnato per tante miglia: il silenzio solenne, il lavoro costante, l’autodisciplina, i profondi boschi della Lorena. Poi mi alzai rigidamente dal “banco” che aveva funto da mio tavolo di lavoro e proseguii lungo il sentiero che serpeggiava attraverso villaggi abbandonati.
+
+Il pomeriggio e la sera trascorsero mentre superavo miglia dopo miglia. Il confine sembrava così vicino che non volevo riposare. Lasciai il vino aperto, quello che avevo trovato fuori Belfort, senza nemmeno assaggiarlo, e continuai ad andare avanti man mano che la luce diminuiva. Ero pieno di ammirazione per la Svizzera, e desideravo con tutte le mie forze superare gli ultimi chilometri prima della notte, nonostante il dolore. Devo anche confessare di provare un’assurda vanità riguardo alle distanze, e il desiderio di uscire dalla [[France|Francia]] entro il quarto giorno.
+
+La luce continuava ad illuminare tutto intorno, e la mia determinazione rimaneva salda, anche se la stanchezza cercava di indebolirla. La linea delle [[Mountains|montagne]] si ergeva sempre più alta contro il cielo; per la prima volta, nella mia “pellegrinazione”, entrarono in me sentimenti di solitudine e mistero. Qualcosa di ciò che un uomo prova nell’East England apparteneva anche a quest’ultima parte della pianura, protetta dalle colline circostanti. Ovunque andassi, incontravo stagni e canneti; vedevo le strisce orizzontali del tramonto riflettersi nelle acque immote.
+
+#La valle paludosa conservava il suo carattere originale anche dopo che avevo lasciato il sentiero e ripreso il cammino…
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_115_what_is_the_soul" data-title="The Path to Rome — What Is The Soul?" data-chapter="What Is The Soul" data-kind="story" data-tags="motif/the_soul,concept/self_and_soul,concept/the_body,concept/asceticism,concept/immortality_of_soul,concept/imagination,form/travel_writing,character/milton"></span>
@@ -5912,6 +7232,20 @@ But when it comes to the immortal mind, the good spirit in me that is so cunning
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Che cos’è l’anima?
+
+La strada maestra. La sua solitudine dominava ogni mio sforzo nel tentativo di raggiungere le montagne del Giura in quella sera crepuscolare; mentre procedevo a tentoni, con tutto il mio essere.
+
+Fu catturato o influenzato dalle acque reflue e dagli uccelli del tramonto.
+
+Desideravo, come spesso avevo desiderato in occasioni simili di riflessione e silenzio, che esistesse una barriera completa in grado di isolare la mente. Con quel desiderio emerse un pensiero enigmatico, molto adatto a un viaggio spirituale: “Che cosa intendono gli uomini con il desiderio di dissolversi e di godere dello spirito in modo libero, senza attaccamenti?” Non c’è dubbio che molti uomini lo desiderino; anzi, i migliori tra loro, la cui santità è immediatamente evidente, ci dicono che le gioie dell’anima sono incomparabilmente più grandi di quelle del corpo vivente. In India, inoltre, esistono molte persone che compiono azioni straordinarie al fine di liberare l’anima da tali vincoli; Milton ne parla con convinzione, e i Santi lo lodano tutti unanimemente. Ma cosa significa davvero tutto ciò? Personalmente, non riesco nemmeno a comprendere il significato di queste parole. Tutte le gioie che conosco derivano infatti da un legame stretto tra il mio corpo e la mia mente umana; questa mente riceve, conferma, rinvigora ciò che il corpo ha sperimentato. Per quanto riguarda quelle gioie in cui i miei sensi non hanno alcun ruolo, non ne so nulla. Pertanto ho deciso di affidarmici e vedere se a Roma possano aiutarmi a comprendere meglio la questione.
+
+Ma quando si tratta della mente immortale, di quel buon spirito che è in me e che è così abile nel manipolare forme, colori e le ragioni delle cose, allora la storia è completamente diversa. Quello, sì, desidero davvero possederlo a volte per me stesso; il debole chiarore di una giornata o le tende autunnali che si chiudono sono spesso, per me, come una porta che si richiude alle mie spalle mentre torno a casa. Perché noto che, con sempre meno stimoli esterni, la mente sembra acquisire un potere creativo straordinario; in qualche modo misterioso, riesce a generare canzoni, paesaggi e volti molto più desiderabili di quelli che effettivamente si sentono o si vedono. Anche la memoria, dunque, può creare. Ma non è l’anima a farlo: quelle canzoni, quei paesaggi, quei volti sono infatti qualcosa che è arrivato attraverso i sensi.
+
+* * *
 
 
 
@@ -5939,6 +7273,28 @@ This book would never end if I were to attempt to write down so much as the name
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Disastro del vino
+
+Ho mai capito cosa possa essere più grande di questi piaceri, né come sia possibile provare piacere in qualcosa di informe e immateriale? Eppure le persone più sagge ci assicurano che le nostre anime siano superiori alla nostra mente, così come la nostra mente è superiore ai nostri corpi inerti e puramente materiali. Non riesco affatto a comprenderlo.
+
+Mentre riflettevo su queste cose in questa terra di praterie e stagni solitari, con il muro del Jura nero contro le sottili strisce del crepuscolo, (il mio dolore sembrava essere svanito per un momento, ma camminavo ancora zoppicando lentamente, ) Mentre consideravo questa complessa dottrina, sentii improvvisamente il mio sacco diventare molto più leggero. Non ebbi nemmeno il tempo di rallegrarmi per questo “miracolo” che subito udii un rumore assai forte; girandomi a metà vidi, sul biancore sfocato della strada al crepuscolo, la mia bottiglia di vino completamente distrutta in mille pezzi. La delusione fu così grande che mi sedetti su una pietra miliare per riflettere sull’incidente e vedere se qualche pensiero potesse alleviare il mio profondo disappunto. Pensate: avevo curato con molta attenzione quella bottiglia e non l’avevo nemmeno bevuta durante tutta quella lunga marcia pomeridiana, convinto che dopo aver superato il confine non ci sarebbe più stato vino degno di essere bevuto.
+
+Mi consolai più o meno pensando a tormenti e mali di fronte ai quali anche una perdita del genere non era nulla; poi mi alzai per continuare il mio cammino nella notte. In seguito scoprii, al di là della frontiera, un vino il cui sapore meraviglioso rese tutte le mie memorie del Monte Terribile qualcosa di davvero straordinario. È sempre così con i dolori: basta aspettare.
+
+Così, più leggero nel bagaglio ma più pesante nel cuore, proseguii verso il confine nella notte. Non sapevo esattamente dove si trovasse quel punto; sapevo solo che distava circa un miglio da Delle, l’ultima città francese. Lì cenai e continuai il mio viaggio. Quando pensai di aver percorso quel miglio, vidi una luce alle finestre a sinistra: un pergolato e i tavoli di marmo di un caffè. Entrai e dissi.
+
+“Sono in Svizzera?”
+
+Una ragazza dall’aspetto tedesco, un uomo alto e robusto, un viaggiatore commerciale bavarese e un collega suo di Marsiglia, tutti insieme, con accenti diversi, dissero: “Sì.”
+
+“Allora,” dissi, “entrerò e berò.”
+
+Questo libro non avrebbe mai fine se tentassi di scrivere anche solo i nomi di un quarto delle cose straordinarie che ho visto e sentito durante il mio viaggio incantato. Ma lasciate che menzioni almeno il “Commercial Traveller” di Marsiglia.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_117_the_phocean" data-title="The Path to Rome — The Phocean" data-chapter="The Phocean" data-kind="story" data-tags="setting/france,setting/mountains"></span>
@@ -5965,6 +7321,28 @@ He was also kindly, for I found afterwards that he had arranged with the host to
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Oceano
+
+Parlava con estrema rapidità per due ore intere. Aveva visto tutte le città del mondo e ricordava i loro dettagli più minuti. Era estremamente preciso; il suo gusto era pessimo, il suo patriottismo smisurato, il suo umorismo rozzo ma continuo. Per il suo amico tedesco, per il padrone dell’osteria e per la cameriera bionda, rappresentava una sorta di “dio familiare”. Sembrava che venisse una volta all’anno; per un intero giorno riversava su di loro il racconto delle sue avventure, come una cascata di informazioni tratte da guide turistiche (poiché si gloriava dei dati precisi, delle dimensioni e delle direzioni cardinali nelle sue descrizioni). Poi scompariva per un altro anno, lasciandoli a godersi il ricordo di quelle “rivelazioni”.
+
+Per quanto mi riguarda, rimasi seduto in silenzio, paralizzato dalla stanchezza, cercando di dimenticare i miei piedi feriti; bevevo birra dopo birra e osservavo il Phocean. Apparteneva a quella vecchia razza che si vede rappresentata sui vasi in rosso e nero: snello, molto muscoloso, con un viso affilato, deciso e attraente, una piccola barba nera e appuntita, occhi brillanti come quelli dei lucertolani, gesti rapidi e una vivacità che si rifletteva in ogni tratto del suo volto, proprio come i fulmini illuminano il cielo a mezzanotte di giugno.
+
+Quel tratto del Rodano è qualcosa di completamente diverso dal resto della [[France|Francia]]. È come un pezzo di Grecia e dell’Oriente che si è insinuato tra i Galli. È arrivato a nord cento anni fa e ha distrutto la monarchia; ha colto il valore di quel territorio e ne ha ispirato la creazione del grande inno della Repubblica.
+
+Ho osservato il Phocean. Ho pensato a un uomo della sua stessa origine, tre migliaia di anni fa, seduto qui ai piedi di queste [[Mountains|montagne]], che raccontava delle sue avventure agli ascoltatori noiosi, pazienti e ammirati del nord; ho pensato anche a come viaggiasse in cerca di guadagno verso le regioni dei Germanici. E ho sentito sotto di me la forma immutabile dell’Europa, solida come una roccia.
+
+Quando seppe che stavo dirigendomi verso Roma, quest’uomo informato deviò il flusso delle informazioni su un altro canale, proprio come un mulino fa scorrere l’acqua in una diramazione laterale; e così riversò su di me un fiume di notizie del genere.
+
+“Non dimenticate di ammirare il famoso panorama a sud-est dalla Villa So e So sul Monte Mario; visitate questo o quel giardino e ascoltate la messa in questa o quella chiesa. Notate l’interessante illusione ottica che si crea nella piazza di San Pietro a causa delle misure interne del trapezio, che sono tali e tali anni e tali e tanti metri, ”, e così via, esattamente come in un mulino.
+
+Nel frattempo, io rimanevo seduto in silenzio, continuando a bere birra e a guardare il “Phocean”; gradualmente, provavo anch'io quella stessa fascinazione che aveva conquistato i villaggi e l'amico tedesco. Era davvero un uomo meraviglioso.
+
+Era anche molto gentile, perché in seguito scoprii che aveva concordato con il padrone dell’ostello di cedermi il suo letto, vedendo quanto fossi stanco. Purtroppo, non ebbi mai l’opportunità di ringraziarlo, poiché la mattina seguente me ne andai prima che lui o chiunque altro si svegliasse, lasciando sul tavolo una somma di denaro che ritenevo sufficiente per soddisfare le esigenze dell’ostiere.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_118_the_new_country" data-title="The Path to Rome — The New Country" data-chapter="The New Country" data-kind="story" data-tags="setting/france,setting/mountains"></span>
@@ -5989,6 +7367,26 @@ AUCTOR. Let me explain. There is a race that stretches vaguely, without
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il nuovo paese
+
+Era pieno giorno, ma non era ancora sorto il sole (qui e là rimanevano nuvole sottili e acquose dal giorno precedente; un vento freddo le spingeva via) quando, con estrema fatica, avanzando lentamente passo dopo passo e riposandomi continuamente, iniziai il mio cammino verso Porrentruy lungo una strada tortuosa, attraversando la cresta dei Monti Jura. La prima svolta mi separò da [[France|Francia]], e mi trovai in un paese piuttosto sconosciuto.
+
+La valle attraverso la quale stavo passando assomigliava a quella del meraviglioso fiume Jed, che scorre giù dai monti Cheviots e conduce, come una strada, verso i segreti pascoli delle pianure. Anche qui, proprio come là, ripide scogliere di calcare delimitavano una valle molto piatta, ricoperta interamente d’erba verde e rigogliosa; l’altopiano sovrastante era anch’esso coperto da foreste perenni. Solo che qui, a differenza della Scozia, le foreste si estendevano verso l’alto, trasformandosi nelle pendici di alte [[Mountains|montagne]]. In effetti, questa tortuosa gola rappresentava un passaggio naturale attraverso la prima catena dei monti Jura; la seconda catena si ergeva davanti a me verso sud, come una profonda tempesta blu.
+
+Mentre percorrevo questo sentiero, provavo tutti i piaceri della novità; era davvero un paese molto diverso dalla regolata e ordinata [[France|Francia]] che avevo lasciato. La strada era più disordinata, meno curata con attenzione e chiaramente meno frequentata. I segnali stradali erano molto vecchi e indicavano le distanze in “leghe” anziché in chilometri. C’era un senso di antichità in tutto ciò che mi circondava: muschio cresceva lungo i muri, e regnava una grande quiete sotto gli alberi alti. Non conoscevo il nome del piccolo fiume che scorreva lentamente attraverso i prati, né se seguisse le abitudini dei suoi vicini francesi lungo il corso d’acqua: quei fiumi, infatti, venivano spesso chiamati con epiteti come “lento”, “fangoso” o “arretrato”. Anche il nome del Saone, lontano da lì, un tempo significava “Acqua Lenta”.
+
+Mi chiedevo quale potesse essere il suo nome e a che distanza mi trovassi da Porrentruy (che sapevo essere vicina), quando vidi un tunnel attraverso la valle; osservando la direzione delle colline più alte, intuii che il fiume stava per fare una curva molto stretta. Entrambi questi segnali, mi era stato detto, indicavano che ero piuttosto vicino alla città; così presi un sentiero più breve attraverso la foresta, su un rilievo collinare: un percorso assolutamente legittimo, poiché era frequentato e chiaramente utilizzato. Proseguii lungo quel sentiero per circa un miglio, camminando tra gli alberi e sotto rami che gocciolavano acqua. Quando questa breve quiete della foresta finì, vidi una scena davvero meravigliosa.
+
+Lì, sotto di me, dove la strada iniziava a scendere, si trovava la prima delle città tedesche.
+
+LETTORE: In che senso “tedesco”?
+
+AUTORE. Lasciate che vi spieghi… C’è una razza che si estende in modo vago, senza confini precisi…
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_119_de_germania" data-title="The Path to Rome — De Germania" data-chapter="De Germania" data-kind="story" data-tags="setting/france,setting/italy,setting/mountains"></span>
@@ -6006,6 +7404,20 @@ The German spirit is a marvel. There lay Porrentruy. An odd door with Gothic tur
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Dalla Germania
+
+Confini ben definiti, che vanno dal Mar Baltico fino alle alte colline del sud. Non includerò tra di essi i Scandinavi, poiché i Scandinavi (da cui anche noi Inglesi discendiamo in parte) sono persone dalla testa lunga, snelle e feroci, con uno sguardo avventuroso nei loro occhi pallidi. Ma al di sotto di loro, dico io, si estende, dal Mar Baltico fino alle alte colline, una razza che presenta una curiosa unità. Sì; so che gran parte di essa è cattolica, e che altre parti adottano filosofie diverse; so anche che tra di loro ci sono persone dalla testa lunga e da quella rotonda, scure e bionde, violente e silenziose; so inoltre che hanno continuamente combattuto tra loro e chiamato alleati i Gallesi. Tuttavia mi baso soprattutto sulla lingua, poiché qui mi interessa lo sviluppo di un popolo europeo moderno. Dico quindi che i Germani si estendono dalle alte colline fino al mare settentrionale. In tutti loro si trova – non si tratta di razza, ma di qualcosa di molto più profondo della razza: si tratta del tipo culturale specifico di questi popoli – un’atmosfera sognante e un amore per la comodità; in tutti loro si trova la musica. Sono quei Germani i cui paesi avevo visto da lontano, partendo dal Balloon d’Alsace, e il cui linguaggio e le cui tradizioni ho ora conosciuto per la prima volta nella città che mi stava davanti.
+
+LETTORE: Ma a Porrentruy si parla francese!
+
+L’AUTORE: Sono benvenuti; è una lingua eccellente. Tuttavia, sono tedeschi. Chi altri, se non i tedeschi, potrebbe preservare e ricostruire così il passato? Chi altri, se non i tedeschi, potrebbe percepire così profondamente il mistero di queste montagne e adattare le proprie città alle caratteristiche delle [[Mountains|montagne]]? Sono stato soltanto un viaggiatore che ha attraversato una piccola parte di questo popolo strano e diffuso. Il loro territorio si estendeva da Porrentruy fino al confine adriatico, nelle alte valli degli Alpi. Ma in quei pochi giorni ho potuto conoscere l’influenza che esercitavano; sono loro grato per la loro architettura e le loro storie. Venivo dalla [[France|Francia]], un paese ancora pervaso dal ricordo di Roma. Ero diretto verso quelle vaste pianure dell’[[Italy|Italia]], dove sembra persistere ancora l’atmosfera di una Roma in declino. Qui, in Svizzera, per quattro giorni ho avuto modo di incontrare un popolo nordico, esterno e barbaro. Anche se queste montagne parlavano una lingua latina distorta, e soltanto dopo il primo giorno ho iniziato a comprendere i loro dialetti teutonici, era evidente fin dall’inizio che non possedevano né l’ordine né la forza creativa tipica dei latini. Erano un popolo contemplativo, facilmente influenzabile da pochi stimoli.
+
+Lo spirito tedesco è davvero un miracolo. Lì si trovava Porrentruy: un ingresso alla città segnato da una strana porta con torri gotiche. A destra di quel cancello, una torre, più imponente di qualsiasi altra avessi mai visto, anche in sogno, fiancheggiava l’accesso alla città. Quanto era vasta, quanto ben protetta, quanto alta. Come poteva resistere a lungo! Mi dissero in seguito che parte di quella grande fortezza risaliva ai tempi romani, e posso crederci. I tedeschi odiano distruggere. Quella vista mi sopraffece, proprio come fanno le visioni; nella sua presenza mi sentii come quei ragazzi.
+
+* * *
 
 
 
@@ -6031,6 +7443,26 @@ Could this book be infinite, as my voyage was infinite, I would tell you about t
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il vino sorprendente
+
+Quando videro per la prima volta le [[Mountains|montagne]]. Se non fossi stato un cristiano, avrei adorato e placato questa ossessione, questa cosa eterna.
+
+Entrai a Porrentruy in stato di sobrietà. Passai sotto il suo imponente portale e risalii la sua ripida collina. Non appena mi trovai nella strada principale, qualcosa che non aveva nulla a che fare con il Medioevo prese il sopravvento su di me; iniziai a pensare a cibo e vino. Andai nella prima piccola locanda che riuscii a trovare e chiesi se potevano servirmi del cibo. Mi dissero che, a quell’ora così presto (non erano ancora le dieci), potevano offrirmi solo pane, carne di ieri e vino. Risposi che andava benissimo, e tutte queste cose mi furono servite. Secondo una consuetudine del luogo, pagai prima di mangiare. Una cattiva abitudine. Nella regione della Limosina, quando ero ragazzo, nella rumorosa valle del fiume Torrent, sul Vienne, ricordo una donna che non mi permetteva di pagare finché non aveva esaminato attentamente la bottiglia alla luce, misurato con il dito la quantità di carne e stimato a occhio il pane; inoltre mi chiedeva il doppio del prezzo. Che Dio riposi la sua anima. Comunque, pagai. E anche se avessi dovuto pagare venti o venticinque volte di più, ne sarebbe valsa la pena per quel vino.
+
+Sto affrettandomi verso Roma e non ho tempo di scrivere un’opera in stile georgico. Ma oh, miei piccoli amici del nord: voi che lottate, sforzatevi, riflettete profondamente, vi analizzate continuamente, e che ripetete senza alcuna vera comprensione frasi come “Hue! Pater, oh! Lenae!”, sapete davvero cosa si intenda per questo dio? Bacchus è ovunque. Ma se esistono luoghi particolari che debbano essere considerati sacri e protetti, allora questi sono senz’altro Brule, il silenzioso vigneto situato sotto la foresta vicino a Tournus, la cavità sottostante Heltz le Maurupt, e questa città di Porrentruy. In questi luoghi, se non riesco ad avere amici vivi che mi aiutino, colpirò da solo questa terra generosa con i miei passi. E so per certo che cinquanta menadi e duecento piccoli dèi accompagnatori verranno a partecipare a questo festival.
+
+Che vino meraviglioso!
+
+Mi fu assicurato che non si sarebbe spostato da nessuna parte. “Tuttavia,” dissi, “datemi una buona bottiglia da un quarto; devo viaggiare lontano, e vedo che esiste davvero una provvidenza per i pellegrini.”
+
+Mi hanno chiesto quattro penny, e così ho preso la mia bottiglia di questa meravigliosa bevanda: dolce, forte, sufficiente, una vera parte della terra stessa, deliziosa, e sono partito per Roma.
+
+Se questo libro potesse essere infinito, proprio come il mio viaggio fu infinito, vi racconterei di quel prete ambiguo che incontrai sul sagrato della chiesa, dove una scogliera si affaccia sulla valle, e dell’anarchico che incontrai quando ripresi la strada principale. Era un uomo triste, buono, che aveva commesso qualche crimine improvviso.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_121_the_erroneous_anarchist" data-title="The Path to Rome — The Erroneous Anarchist" data-chapter="The Erroneous Anarchist" data-kind="story" data-tags="setting/france"></span>
@@ -6053,6 +7485,24 @@ AUCTOR. Neither am I. It is but the backwash of a wave ... Well, then, I went up
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# L'anarchista errato
+
+E così aveva lasciato la [[France|Francia]]; il suo continuo rimpianto per quella terra negli anni aveva peggiorato il suo umore, e diceva che avrebbe voluto non esistessero proprietà, eserciti né governi.
+
+Ma ho detto che viviamo come parte di una nazione, e che non esiste sorte più misera di quella di non avere una propria patria. Che altro era l’esilio, se non qualcosa che molti uomini nobili hanno ritenuto peggiore della morte e che tutti temevano? Gli ho anche detto che le armate che combattono per una causa giusta sono i luoghi più felici in cui vivere, e che una buona battaglia per la giustizia è l’inizio di tutte le grandi opere letterarie; inoltre, riguardo alla proprietà, un uomo sulla propria terra è il più vicino a Dio.
+
+Pertanto, non essendo stato convinto, e io, amandolo e provando compassione per lui, ci separammo; non ebbi il tempo di predicargli tutta la mia dottrina, ma gli offrii invece una coppa piena di birra fresca e gli promisi fraternità, libertà e uguali diritti. Poi continuai il mio cammino, pregando Dio che tutte queste dispute potessero essere placate. Infatti, sicuramente si sarebbero placate se in Europa esistesse di nuovo una dottrina unificata: le questioni economiche, dopotutto, non sono altro che l’espressione del pensiero umano, e non sono esse a plasmare il pensiero stesso (come credono quei poveri schiavi delle grandi città). Inoltre, nulla fa sì che la proprietà si concentri nelle mani di pochi se non i peggiori dei peccati capitali; coloro che sostengono che ciò sia dovuto alle “moderni strutture di distribuzione” sono come persone che non riescono a leggere testi in caratteri grandi senza occhiali. Oppure, sono come coloro che attribuiscono la propria ubriachezza all’alcol, o l’incendio doloso ai fiammiferi.
+
+Ma, francamente, pensate che sia venuto fin qui attraverso tante difficoltà solo per parlare di economia? Niente affatto! Quando arriverò a San Pietro a Roma, pregherò per tutti i poveri (mi chiedo quale capitale avesse San Pietro in quel primo secolo così fortemente capitalista, ), e intanto, voi che parlate sempre di “margine di produzione”, mentre io vado per la mia strada, qui non ci sono proprietari terrieri. Se solo imparaste una lingua straniera e vi spostaste anche solo cinque miglia lontano dalle ferrovie, scoprireste quanto il sistema dei proprietari terrieri abbia a che fare con le vostre “necessità” e le vostre “leggi”.
+
+LETTORE. Pensavo avessi detto che non saresti parlato di economia.
+
+AUTORE: Nemmeno io lo so. È soltanto il rimbalzo di un’onda. Beh, allora proseguii lungo quel sentiero aperto e, dopo aver percorso alcune miglia in quella calda giornata pomeridiana, raggiunsi la seconda cresta dei Monti Giura, che loro chiamano “la Collina Terribile” o “il Monte Terribile”. In effetti, è davvero molto frastagliato. Qui si estende una cresta ripida e lunga per molti miglia, tra la valle di Porrentruy e la profonda gola del Doubs. La strada principale devia verso ovest, alla ricerca di un passo o di un varco nella catena montuosa, ma io decisi di trovare una strada più diretta per attraversarla. Parlai con alcuni taglialegna che stavano abbattendo alberi proprio all’inizio della salita. Loro mi diedero questa curiosa indicazione. Dissero.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_122_the_mount_terrible" data-title="The Path to Rome — The Mount Terrible" data-chapter="The Mount Terrible" data-kind="story" data-tags="setting/mountains"></span>
@@ -6070,6 +7520,20 @@ When I had climbed almost to the top, I looked behind me to take my last view of
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Il Monte Terribile
+
+“Segui questo sentiero fangoso che è stato creato attraverso i boschi e le praterie dai tronchi che abbiamo fatto scivolare giù dalle [[Mountains|montagne]]; arriverai facilmente in cima. Da lì potrai vedere il fiume Doubs scorrere sotto di te, in una gola molto profonda e oscura.”
+
+Gli ringraziai, e presto scoprii che avevano ragione. Lì, inequivocabile, c'era una ferita nel bosco e, attraverso i campi di erba circostanti, si intravedeva il percorso del tronco d'albero.
+
+Quando ero quasi arrivato in cima, mi voltai indietro per godermi un’ultima occhiata sul nord. Vidi davanti a me una alta roccia isolata; tra me e essa c’era la foresta. Oltre di essa si estendeva l’infinita pianura dell’Alsazia e i lontani Vosgi. La scogliera di calcare che delimitava quella altura digradava verticalmente verso le cime degli alberi; la sua maestosità mi colpì profondamente e mi spinse a registrarla.
+
+“Certamente,” dissi, “se la Svizzera ha delle porte sul nord, sono queste.” Poi, dopo aver tracciato con cura il contorno di ciò che avevo visto, salii, ansimando, fino alla cima; lì, riposandomi, notai sotto di me il curioso movimento a spirale del fiume Doubs, che scorreva in una profonda gola situata migliaia di piedi più in basso. La forma di questa straordinaria curva la descriverò tra un momento. Per ora, posso solo dire che non c’era alcun precipizio né roccia tra me e il fiume: soltanto alberi e praterie che si estendevano verso il basso, senza essere troppo ripide per un uomo.
+
+* * *
 
 
 
@@ -6093,6 +7557,24 @@ AUCTOR. Little friend, how little you know! To a building windows are everything
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Le finestre piegate
+
+Da percorrere, ma più ripido delle nostre scarpate e dei pendii in Inghilterra, dove un uomo esita e sceglie con attenzione la strada da seguire. Era una discesa così lunga e ripida che si poteva vedere oltre le cime degli alberi. Un posto dove nessuno avrebbe voluto viaggiare a cavallo.
+
+Riuscii a trovare un sentiero che serpeggiava lungo la montagna e lo seguii fino a raggiungere una piattaforma su cui sorgeva una capanna, dove alcune persone stavano lavorando. Lì, una gentile donna mi spiegò esattamente come proseguire. Non dovevo tentare di prendere la strada per Brune-Farine – ovvero “La Fattoria del Pasto Completo” – come avevo inizialmente intenzione, fidandomi stupidamente di una mappa; invece dovevo seguire un burrone che lei mi avrebbe mostrato. Così feci, e dopo averlo percorso raggiunsi il fiume. Lei venne fuori e mi guidò attraverso un pascolo ripido; tutto il tempo continuava a lavorare a maglia con le mani, e notai che anche sui tratti più pianeggianti proseguiva nella sua attività. Quando arrivammo al burrone, mi disse semplicemente di seguirlo. Le ringraziai e lei tornò a casa sua.
+
+Questo burrone era il letto scosceso di un ruscello; scesi giù con cautela, per migliaia di piedi, fino a raggiungere la valle. Finalmente, con grande sollievo, trovai un canale di drenaggio e capii così che stavo avvicinandomi a una città o a un villaggio. Era St Ursanne.
+
+La prima cosa che notai a St Ursanne fu la forma straordinaria delle finestre inferiori della chiesa. Illuminavano una cripta e si estendevano lungo il suolo, il quale di per sé era già abbastanza notevole; ma ancora più sorprendente era la loro forma, che a me sembrava assomigliare a quella di un ferro di cavallo: non avevo mai visto nulla del genere prima. Sembrava che il peso della chiesa sovrastante avesse spinto queste piccole finestre verso l’esterno, ed è così che le spiego. Alcuni direbbero che sia stato un uomo tornato dalle Crociate a dare loro questa forma; altri che rappresentino qualche simbolo. Ma io dico.
+
+LETTORE: Che sciocchezze e pedanterie sono queste discussioni sulle forme delle finestre?
+
+AUTORE: Piccolo amico, quanto poco sai! Per un edificio, le finestre sono tutto; sono ciò che gli occhi sono per un uomo. Attraverso le finestre, un edificio vive.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_124_praise_of_windows" data-title="The Path to Rome — Praise Of Windows" data-chapter="Praise Of Windows" data-kind="story" data-tags="motif/the_window,concept/wit,form/travel_writing,character/richard_the_lionheart,character/william_the_conqueror"></span>
@@ -6110,6 +7592,20 @@ Never ridicule windows. It is out of windows that many fall to their deaths. By 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Elogi per le finestre
+
+La sua vista; nelle finestre, lo sguardo dei suoi abitanti umani è incorniciato. Se fossi il padrone di una torre molto alta che domina una città, una pianura, un fiume e una collina lontana (dubito che tu abbia mai tanta fortuna!), non chiameresti il tuo architetto davanti a te e non gli diresti.
+
+“Signore, si assicuri che le finestre della mia casa siano alte, strette, spesse e abbiano la parte superiore rotonda.”
+
+Certo che sì, così potresti catturare meglio, in immagini separate, tutte le cose all’esterno della tua casa illuminate dal sole.
+
+Mai deridere le finestre: è proprio attraverso di esse che molte persone perdono la vita. Attraverso le finestre spesso entra l’amore; fu attraverso una finestra che il proiettile uccise Re Riccardo. Il padre di Re Guglielmo spiò Arlette da una finestra (io stesso l’ho provato, ma non ho visto nessuno lavarsi sotto di essa). Quando una folla governa l’Inghilterra, rompe le finestre; quando un patriota cerca di salvarla, è lui a imporre tasse. In estate, attraverso le finestre usciamo sulle terrazze per incontrare uomini e donne; in inverno, le finestre diventano come tamburi che accompagnano la meravigliosa musica delle tempeste, che ci fa sentire così padroni del nostro ambiente. Le finestre delle grandi cattedrali rappresentano tutto il loro significato. Senza di esse, dovremmo uscire all’aperto per vedere la luce del giorno. Dopo il sole, che sono al servizio di queste finestre, non conosco nulla di più benefico. Maledetto colui che è ingrato e non ha un “dio delle finestre” nella sua casa, e pensa di essere un filosofo troppo nobile per inchinarsi davanti a esse.
+
+* * *
 
 
 
@@ -6131,6 +7627,22 @@ In the map the small white ‘A’ shows where the railway bridge was, and in th
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Gorgo delle incertezze
+
+Finestre! Che viva per un po’ in un posto senza finestre, così imparerà il vero valore delle finestre. Per quanto mi riguarda, continuerò a venerare le finestre fino al giorno in cui arriverò nella mia tomba senza finestre. Parlatemi di finestre!
+
+Sì. A St Ursanne ci sono altre cose interessanti. È una piccolissima città, eppure ha delle porte. È piena di case molto antiche, di persone e di un modo particolare di parlare. Fu fondata (o chiamata così) da un santo orso, e la statua del santo con il suo orso è scolpita in cima a una colonna nel mercato. Ma ciò che mi sembrava più importante, di quella città, era la sua remota posizione geografica.
+
+La gola del Doubs, di cui ho detto qualcosa poco sopra, presenta quella forma estremamente rara che isola tutto ciò che si possa trovare in valli del genere. Si piega bruscamente all’indietro su se stessa, formando una specie di “U” molto stretto, e quindi non può assolutamente portare nessuno da alcuna parte; infatti, anche se i viaggiatori hanno sempre dovuto seguire le valli fluviali, quando si trovano di fronte a una curva così lunga e brusca come questa, sono sempre costretti ad attraversare il tratto intermedio.
+
+Ecco la forma di questa valle, con le alte colline che la circondano; nel suo cuore, questo profilo mostra meglio di qualsiasi descrizione ciò che intendo dire. Anche questa piccola immagine rappresenta com'era il burrone quando sono sceso dalle alture circostanti.
+
+Sulla mappa, la piccola “A” bianca indica la posizione del ponte ferroviario; e in questa mappa, come nelle altre, i colori scuri indicano la profondità, mentre i colori chiari rappresentano.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_126_the_tempting_bridge" data-title="The Path to Rome — The Tempting Bridge" data-chapter="The Tempting Bridge" data-kind="story" data-tags="topos/temptation,concept/terror_and_horror,concept/the_supernatural,form/travel_writing,histref/roman_history,setting/the_mountains"></span>
@@ -6151,6 +7663,22 @@ I had not been engaged upon it a dozen yards when I was seized with terror.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Il ponte tentatore
+
+Altezze. Per quanto riguarda l’immagine, è quella che si vede quando si supera la cresta situata a nord o in cima alla mappa, e quando si nota per la prima volta il fiume sottostante.
+
+Ho riflettuto a lungo su ciò che i Romani fecero per attraversare il Mont Terrible, e su come riuscirono a superare quella difficile zona del fiume Doubs (poiché di certo entrarono in Gallia passando per le porte di Porrentruy, e attraverso la valle situata immediatamente sotto di esse). Ho concluso che probabilmente arrivarono da est, passando per Delemont. Ma io, personalmente, seguivo una strada diretta verso Roma; poiché quel percorso coincideva esattamente con la cresta della curva del fiume, non avevo altra scelta se non seguirlo.
+
+Ora, fuori da St Ursanne, se si segue la cresta della curva del fiume e si sale fino all’altra parte della gola, c’è una sorta di burrone secondario: terribile, profondo e stretto; vedevo che veniva attraversato da un ponte ferroviario molto alto.
+
+Senza sospettare alcun pericolo e desideroso di evitare la lunga discesa nella gola, la ricerca di un ponte o di un guado, nonché la ripida salita dall’altra parte, con la mia stessa follia mi diressi verso la stazione situata esattamente nel punto in cui la ferrovia abbandonava il terreno solido per attraversare quel ponte altissimo. Chiesi al capostazione il permesso di attraversarlo; lui rispose che era severamente vietato, ma poiché non era un poliziotto, potevo farlo a mio rischio. Gli ringraziai quindi e, considerando quanto fosse affascinante l’organizzazione informale delle piccole società decentralizzate, mi avviai felicemente verso il ponte, intenzionato ad attraversarlo camminando da un binario all’altro. Ma le cose non sarebbero andate così semplicemente. Le forze dell’aria, che odiano che il loro regno venga disturbato, mi osservavano mentre iniziavo il mio percorso.
+
+Non avevo ancora iniziato a lavorarci, nemmeno dopo averne percorso una dozzina di metri, quando fui assalito dal terrore.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_127_the_dreadful_bridge" data-title="The Path to Rome — The Dreadful Bridge" data-chapter="The Dreadful Bridge" data-kind="story" data-tags="motif/vow,concept/terror_and_horror,concept/fear,concept/faith,concept/literary_criticism,form/travel_writing,histref/catholic_church"></span>
@@ -6168,6 +7696,20 @@ At any rate at this last supreme part I vowed one candle to Our Lady of Perpetua
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Il terribile ponte
+
+Ho molto da dire ancora in questo libro riguardo al terrore: la paura che assale le persone quando si trovano in luoghi elevati, e l’effetto negativo esercitato da molti uomini arrabbiati. Questa orribile emozione è il tema principale delle “storie brevi” scritte dai nostri autori moderni; rappresenta metà della trama dei loro racconti folli ed è alla base del loro culto di ciò che chiamano “forza”: in realtà, si tratta soltanto di un desiderio codardo di protezione, o addirittura di una fascinazione spregevole per la brutalità. Personalmente, l’ho sempre considerato qualcosa di impuro e demoniaco, indegno di un cristiano. La paura, credo, fa parte della natura stessa delle cose; è altrettanto normale temere il mare o un cavallo sconosciuto quanto mangiare o dormire. Ma il terrore, quella follia improvvisa e quella paralisi dell’anima, beh, quello, secondo me, proviene dall’inferno. Non è qualcosa con cui si possa scherzare, né va descritto in storie o rappresentato in immagini. Dico tutto questo per introdurre ciò che accadde, e soprattutto per sottolineare quanto il terrore sia, in realtà, un fenomeno irrazionale, frutto di una possessione demoniaca.
+
+Poiché nel passaggio di questo ponte non c’era nulla di pericoloso in sé; i binari erano molto vicini tra loro – dubito che un uomo potesse infilarsi tra di essi; ma, chissà a quanti centinaia di piedi più in basso, il fragore del torrente era assordante e mi confondeva la mente. L’unico parapetto disponibile era costituito da una sottile striscia di metallo che si estendeva da un pilastro all’altro. Questo non faceva che peggiorare il mio stato d’animo. Eppure, mentre mettevo risolutamente un piede davanti all’altro, evitando di guardare nell’abisso e fissando lo sguardo sulla collina opposta, e mentre la lunga curva davanti a me si riduceva man mano che procedevo, il mio cuore batteva forte ad ogni passo; qualcosa dentro di me era turbato, incerto e quasi paralizzato. Quell’enorme altezza, unita a quella stretta striscia di metallo priva di protezioni, era davvero troppo per me da sopportare.
+
+Non osavo girarmi né fermarmi. Parole e frasi iniziarono a ripetersi nella mia testa, come succede quando si è sotto pressione: so che, in mare, un uomo che si aggrappa disperatamente al timone recita una sorta di litania con le istruzioni da seguire. Avevo superato la parte centrale, i tre quarti del percorso; ma la tensione di quel sforzo continuo era diventata insopportabile, e dubitavo della mia capacità di portare a termine la missione. Perché? Cosa poteva impedirmelo? Non lo so. Era tutto frutto dell’immaginazione. Forse, in realtà, temevo soltanto un improvviso capogiro e la conseguente caduta.
+
+Comunque, in questa ultima e decisiva fase, promisi di offrire una candela alla Nostra Signora del Perpetuo Soccorso se avesse fatto sì che tutto andasse bene; successivamente pagai per quella candela a Roma. Scoprii però che la statua della Nostra Signora del Soccorso non era esposta in un luogo pubblico e conosciuta da tutti, come pensavo fosse il caso; al contrario, si trovava in una piccola chiesa appartenente a uno scozzese, sopra l’altare principale. Eppure si tratta di un dipinto molto famoso e estremamente antico.
+
+* * *
 
 
 
@@ -6189,6 +7731,22 @@ But when I came to it, it was not easy. The wood grew in loose rocks and the slo
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Sicurezza oltre
+
+Bene, allora, nonostante avessi fatto questo voto, continuai ad avanzare, spinto dal panico, finché non vidi che la riva sottostante si era avvicinata al ponte di pochi piedi e che la terraferma non distava più di venti metri. A quel punto la mia risoluzione mi abbandonò e corsi, o meglio, inciampai, velocemente da un tratto di terreno solido all’altro, finché non riuscii a respirare liberamente sulla terraferma stabile.
+
+Mi alzai e guardai indietro verso quell’abisso; vidi quella piccola, orribile striscia tra cielo e inferno, la distanza percorsa dai binari del treno. Mi sentii male per il sollievo che provai nel non essere più minacciato dal terrore. Eppure immagino che i ferrovieri attraversino quella striscia venti volte al giorno. Per loro è meglio che per me!
+
+C’è la storia di quel terribile ponte sul Monte Terribile; si trova esattamente a una distanza di un “yard” lungo la linea retta, che dire, il tratto del Grande Cerchio che collega Toul e Roma.
+
+La ripida riva o il versante di collina davanti a me era proprio quella che terminava la gola del Doubs e si affacciava su entrambi i lati della stretta curva. Non dovevo scalare, ma semplicemente seguire il percorso mantenendomi allo stesso livello lungo la curva. Il mio cammino passava attraverso un sentiero piuttosto mal fatto e oltrepassava un villaggio. Poi dovevo proseguire dritto verso il lato più alto della gola; poiché c'era foresta su quel versante, sembrava una cosa facile da fare.
+
+Ma quando ci provai, non fu affatto facile. La vegetazione cresceva tra le rocce friabonde e il pendio era così ripido che si poteva procedere solo usando mani e ginocchia; inoltre, il terreno era troppo morbido e instabile per una vera e propria arrampicata. Non c’è da meravigliarsi quindi se quel crinale sembrava un muro insormontabile.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_129_the_common_field" data-title="The Path to Rome — The Common Field" data-chapter="The Common Field" data-kind="story" data-tags="setting/mountains"></span>
@@ -6208,6 +7766,22 @@ It was a very glad surprise to see this sight suddenly unrolled as I stood on th
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il campo comune
+
+Pendenza e difficoltà: quel luogo rappresentava infatti il confine tra il Mediterraneo e il freddo Mar del Nord. Ma all’epoca non lo sapevo. Deve essermi servita quasi un’ora per superare gli ultimi mille piedi che mi portavano in cima alla cresta. E lì, con mia grande sorpresa, c’era una strada. Dove poteva condurre una strada del genere, e perché seguiva esattamente il bordo più alto delle [[Mountains|montagne]]? I Monti Giura, con le loro caratteristiche uniche, offrono ben venti di questi enigmi.
+
+Ovunque portasse, comunque, questa strada era chiaramente perpendicolare alla mia vera rotta, e dovevo semplicemente continuare dritto lungo la linea retta. Così la attraversai, vidi per l’ultima volta, tra gli alberi, la gola del Doubs, e poi imboccai un sentiero che scendeva attraverso un campo, più o meno nella direzione della mia pellegrinazione.
+
+Qui il paesaggio era così devastato che si riuscivano a distinguere solo poche delle sue caratteristiche generali; comunque, in linea di massima, stavo seguendo un altro versante meridionale, quello della terza catena dei Monti Giura. Dopo aver attraversato molte radure e percorso un sentiero accidentato, trovai una sorta di cancello tra due rocce alte e, all’improvviso, mi ritrovai in un ampio altopiano punteggiato da vecchi alberi e numerosi tassi stentati; quel terreno digradava verso una nobile valle che si apriva davanti a me.
+
+La pianura aperta su cui mi trovavo si chiamava in realtà “Pascolo di Diritto Comune”, un nome davvero appropriato; e proprio come una galleria domina un grande salone, così questo campo, simile a una piattaforma, dominava la vasta e dolcemente ondulata valle sottostante.
+
+Fu una vera sorpresa gioiosa vedere improvvisamente apparire questa scena mentre mi trovavo sulla cresta della collina. Fino ad allora, la regione dei Giura era stata o desolata, o piuttosto spaventosa, o priva di alberi e ricoperta solo da rocce; ma qui c'era davvero una valle in cui si poteva immaginare che esistesse uno spirito proprio suo: c'erano campi coltivati e nessuna roccia. Le [[Mountains|montagne]] su entrambi i lati.
+
+* * *
 
 
 
@@ -6232,6 +7806,26 @@ AUCTOR. Who else can give benedictions if people cannot when they are on pilgrim
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#La marea umana
+
+La collina non raggiungeva un'altezza superiore ai tremila piedi. Sebbene fosse fatta di calcare, aveva una forma arrotondata; il sole obliquo del tardo pomeriggio (dopo che la tempesta aveva lasciato il cielo sereno) la illuminava pienamente e con calore. La valle, ancora ampia e rigogliosa, si estendeva verso est fino a quando le colline si confondevano nella nebbia e lontananza. Poiché non conoscevo il suo nome, la chiamai così in base al villaggio situato immediatamente sotto di me; ancora oggi la ricordo come la Valle di Glovelier, ed è situata tra la terza e la quarta catena montuosa del Giura.
+
+Prima di lasciare il campo ho disegnato ciò che vedevo, ma ero troppo stanco a causa della doppia e straordinaria salita delle ultime ore per poter disegnare in modo definitivo e chiaro. Così com'è, eccolo qui. Poi sono sceso lungo il campo liscio.
+
+C’è qualcosa che distingue ciò che è aspro da ciò che è gentile nel paesaggio; nella nostra Europa, questo “qualcosa” corrisponde all’uso e alla presenza degli uomini, soprattutto nei luoghi montuosi. Infatti, le abitudini e la civiltà umana riempiono i valli e si estendono fino ai piedi delle colline, creando, per così dire, una sorta di “linea di marea”. Io avevo già attraversato questa zona: l’erba era stata calpestata fino a diventare morbida e compatta, come può accadere solo dopo migliaia di anni di pascolo. L’umidità che filtrava dalla terra non proveniva da zone paludose, ma da una sorgente creata dall’uomo, racchiusa in un canale di pietra. Anche gli alberi erano stati curati con attenzione: sotto di me si ergeva un muro, che, sebbene grezzo, non era certo il risultato casuale degli accumuli umani nei recessi delle colline, ma era formato da pietre selezionate e tenute insieme con malta. A destra c’era una piccola valle dove i bambini giocavano. Più tardi appresi che si chiamava “combe”: un ricordo delizioso! Tutte le nostre valli più profonde sono chiamate allo stesso modo nel mio paese; anche i gallesi usano questa parola, ma la scrivono “cwm”: è il loro modo di indicare i luoghi montuosi. Insomma, tutto ciò che mi circondava sembrava “domestico” e piacevole. E quindi ero di umore generoso e desideroso di compagnia quando scesi l’ultima pendenza ed entrai a Glovelier. Ma Glovelier non è affatto un luogo eccezionale. Se non fosse una follia, penserei davvero di distruggerlo completamente.
+
+Proprio mentre ero pieno di pensieri gentili e mi ero trasformato nel simbolo del (“credo fosse”) “Sole” per bere vino e lasciare loro la mia benedizione.
+
+LETTORE: Perché la tua benedizione?
+
+AUTORE: Chi altro può impartire benedizioni se le persone non ne sono in grado durante il pellegrinaggio? Imparate che esistono tre modi per conferire benedizioni e tre tipi di persone capaci di farlo.
+
+(1) C’è quell’uomo buono, la cui bontà lo rende di per sé colui che dona benedizioni. Il suo potere non deriva da alcuna carica o ufficio, ma è insito nella sua stessa persona, fa parte della natura del suo essere. Questo tipo di persona può impartire la benedizione solenne.
+
+* * *
 
 
 
@@ -6258,6 +7852,28 @@ So I entered the ‘Sun’ inn and saw there a woman sewing, a great dull-faced 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Teoria delle benedizioni
+
+Benedictio Major, se così decidono; ma al di là di questo, ogni loro pensiero, parola o azione rappresenta una sorta di Benedictionio Generalis. Persino i loro cipigli, le maledizioni, gli sguardi arrabbiati e i gesti irritabili possono essere considerati Benedictiones Minores o Incerti. Credo di rientrare perfettamente nelle definizioni fornite; evito qualsiasi forma di eresia: tutto ciò rappresenta una teologia solida e corretta. Non ho nulla a che fare con le pratiche eretiche. E questa sorta di Potere Benedittorio costituisce, per così dire, la fonte o l’origine naturale di tutte le altre forme di questo potere.
+
+# Il funzionario della religione che, nell’esercizio delle sue funzioni…
+
+# Lettore… Per l’amor del cielo…
+
+AUTORE: Chi l’ha iniziato? Avete protestato contro il mio potere di concedere benedizioni, e ora devo dimostrarlo appieno; altrimenti verrei accusato di una forma minore di simonia, cioè dell’assunzione fraudolenta di poteri particolari. Ebbene, esiste l’Ufficiale che, per il suo ruolo istituzionale e quando chiarisce esplicitamente che agisce in qualità di “sponsus” e non semplicemente come individuo privato, può concedere benedizioni formali. Questo potere appartiene certamente a tutti i Vescovi, agli Abati e agli Arcimandriti; ovviamente anche ai Patriarchi, e ancora di più al Papa. A Roma si sostiene che anche i Monsignori possano compiere tale attività, e ho sentito dibattere se lo stesso valga, in modo meno formale, anche per alcuni parroci rurali. Comunque sia, tutto il loro potere deriva non da loro stessi, ma dall’accumulo di benevolenza lasciato in eredità dalle numerose persone eccezionalmente buone che sono vissute in passato e che ormai non ne hanno più bisogno.
+
+(3) In terzo luogo — ed è questo il punto che voglio sottolineare — chiunque, buono o cattivo, ufficiale o non ufficiale, che al momento sia impegnato in un’azione di tipo “opus faustum” può certamente agire come intermediario o tramite; l’influenza delle cose a cui si dedica passa da lui a voi. Questo è riconosciuto da tutti coloro che venerano alberi, pozzi e pietre; in effetti, ha perfettamente senso, poiché si tratta semplicemente di un aspetto della ben nota teoria della “sanctificatio ex loco, opere, tactu vel conditione”. Ammetto che questo potere sia vago, debole e poco efficace, ma esiste comunque. Naturalmente, l’effetto che produce è insignificante rispetto a quello di un rito più solenne come il “Benedictio major”; è come se la zampa di un gatto nel Solent avesse lo stesso effetto sul respiro di uno che soffre di disturbi respiratori nei pressi di Lindsey Deeps.
+
+Mi dispiace di essere stato così prolisso, ma è necessario affrontare queste questioni una volta per tutte. Ora capite come io, essendo in pellegrinaggio, potessi offrire una sorta di benedizione silenziosa alle persone che incontravo lungo la strada, anche se, come disse San Luigi ai mangiatori di hashish, “Che ci voglia molto tempo prima che possiate baciare le mie ossa”.
+
+Entrai nella taverna “Il Sole” e vidi lì una donna che cuciva, un uomo dall’aspetto triste e robusto come un bue, e un giovane che scriveva delle cifre in un piccolo libro. Dissi.
+
+“Buongiorno, signora, signori e compagnia. Potreste darmi un po’ di vino rosso?” Nessuno si mosse.
+
+* * *
 
 
 
@@ -6297,6 +7913,40 @@ I knew a man once that was given to drinking, and I made up this rule for him to
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I contadini rozzi
+
+È vero, ero molto sporco e stanco; forse mi avrebbero scambiato per un mendicante, a cui, da buoni cristiani sensati che non si lasciano ingannare dalle apparenze, avrebbero preferito dare un calcio piuttosto che offrire una tazza d’acqua fredda. Tuttavia, penso che non fosse solo la mia povertà, ma anche una naturale cattiveria a legare le loro anime “bovine” in quella valle.
+
+Mi sedetti a un tavolo molto pulito. Notai che coloro che il Diavolo ha resi suoi sono sempre impeccabili, proprio come i vigili del fuoco che devono entrare in forni ardenti devono mantenere tutto il loro equipaggiamento perfettamente lucido. Mi sedetti di nuovo e dissi ancora una volta, con dolcezza:
+
+“È davvero un bel paese il vostro… Potreste offrirmi un po’ di vino rosso?”
+
+Allora quell’uomo dal viso rotondo che aveva le spalle rivolte verso di me, e che era il peggiore di tutti, disse in tono cupo, non a me, ma alla donna.
+
+“Vuole vino.”
+
+“La donna, con aria cupa, mi disse queste parole senza guardarmi negli occhi…”
+
+“Quanto sei disposto a pagare?”
+
+“Portate il vino, mettetelo qui, vedetemi berlo e poi chiedetemi quanto vi spetta.”
+
+Scoprii che questo modo brutale di parlare era proprio ciò di cui avevano bisogno quegli animali in quel recinto. Lei andò verso un armadio, mi servì del vino e un bicchiere. Bevvi in silenzio fino a quando non ne ebbi abbastanza, poi chiesi quanto dovevo pagare. Lei rispose “Tre penny”, e io dissi “Troppo”, ma comunque pagai. A quel punto l’uomo dal viso rozzo grugnì e fece una smorfia; ebbi paura, ma nascosi la mia paura e uscii con coraggio, facendo rumore con il mio bastone sul pavimento del corridoio. Non salutai nemmeno loro. Ma, mentre me ne andavo, feci un gesto verso la casa. Se anche questa casa abbia sofferto a causa di questo, come quella di Dorchester che quell’uomo sulla barca fece appassire in una sola notte, beh, non lo so proprio.
+
+La strada attraversava dritta la valle e si avvicinava al successivo gruppo di colline. Queste ultime presentavano una di quelle curiose aperture tipiche delle catene montuose di calcare: l’acqua le aveva erose, e anche in questo caso un ruscello scorreva attraverso di esse. La strada proseguiva lungo questa apertura, salendo ripidamente; era evidente che la valle successiva fosse più alta di quella che stavo lasciando. Quando entrai in questa stretta gola, era già sera: il sole raggiungeva soltanto le cime delle pareti rocciose. Ero estremamente stanco e camminare mi causava un dolore intenso; quando arrivai in un punto in cui la gola diventava ancora più stretta, con i due lati che sembravano i pilastri di una sorta di cancello gigantesco, e dove anche la quinta cresta dei Monti Giura si ergeva oltre di me nella valle successiva, mi sedetti stancamente e disegnai, qualcosa che nemmeno la mia estrema fatica avrebbe potuto rendere particolarmente notevole.
+
+* * *
+
+Mentre ero impegnato a disegnare le lastre di calcare, sentii delle ruote avvicinarsi da dietro; un ragazzo su un carretto si fermò e mi chiamò.
+
+Quello che il ragazzo voleva sapere era se avrei accettato un passaggio in carrozza; lo disse usando un francese così curioso che rabbrividii al pensiero di quanto fossi ormai penetrato nel cuore di quelle montagne, e di quanto presto potessi incontrare persone davvero strane. Ero molto tentato di salire sulla sua carrozza, ma sebbene avessi infranto molti dei miei voti, uno rimaneva ancora intatto: non avrei mai viaggiato su nulla a ruote. Ricordando questo, e considerando che la [[Faith|Fede]] offre molte possibilità di interpretazione, mi aggrappai alla carrozza in modo tale che essa facesse tutto il lavoro al mio posto, senza però potersi dire davvero che mi stesse trasportando. La sostanza di un voto è il suo significato letterale; lo spirito e l’intenzione servono invece a promuovere la morale e riguardano la Religione Naturale. Ma quando qualcuno, in merito a questioni rituali o di devozione, parla dello “spirito” e dell’“intenzione”, lamentandosi della “seccità delle parole”, bisogna guardarlo con sospetto. Non è lontano dall’eresia.
+
+Conoscevo un uomo che aveva l’abitudine di bere molto; per aiutarlo a distinguere tra Bacchus e il Diavolo, gli stabilii questa regola: non doveva mai bere nulla che fosse stato prodotto e venduto dopo la Riforma. Intendo soprattutto.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_133_literal_vow" data-title="The Path to Rome — Literal Vow" data-chapter="Literal Vow" data-kind="story" data-tags="topos/the_open_road,motif/vow,motif/wine_and_drink,motif/road,motif/inn_tavern,motif/tobacco_and_cigars,motif/river,concept/temperance_and_teetotalism,concept/conscience,form/travel_writing"></span>
@@ -6319,6 +7969,24 @@ A cigar is, however, even in Undervelier, a cigar; and the best cost a penny. On
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Litterale Promessa
+
+SPIRITI E CHAMPAGNE. Lasciatelo bere vino rosso e bianco, buona birra e miele – se riuscisse a trovarli – liquori prodotti da monaci, insomma tutte quelle bevande che nutrono, rafforzano e corroborano il corpo; ma niente whisky, brandy, vini spumanti, assenzio né gin. Lui promise di farlo, e tutto andò bene. Diventò un compagno piacevole e iniziò a scrivere odi; la sua prosa divenne chiara e limpida, dopo essere stata prima molto confusa e oscura. Dormiva bene, comprendeva le cose divine. Era già quasi un repubblicano, quando arrivò quel giorno fatale: era la festa delle undicimila vergini, e loro erano troppo impegnate in cielo per pensare alle nostre esigenze, poveri esseri imperfetti e peccaminosi. Andai con lui alla “Società per la Prevenzione delle Annoiezioni dei Ricchi”, dove un certo figlio di usuraio avrebbe dovuto leggere un discorso sulla crudeltà degli spagnoli verso i loro muli. Mentre eravamo tutti seduti attorno a un tavolo coperto da una tovaglia verde, con un maledetto lampadario appeso sopra, il padrone di casa gli offrì whisky e acqua. E, dato che avevo le spalle voltate, lui li prese. Poi, quando cercai di riprenderglieli, disse queste parole.
+
+“Dopotutto, è l’intenzione di un voto che conta”; e capii che tutto era finito, perché aveva abbandonato qualsiasi definizione chiara e si era ritrovato nuovamente immerso nei terribili labirinti della Coscienza e della Religione Naturale.
+
+Allora, secondo te, quale ne fu la conseguenza? Dovette infatti fare qualche promessa spiacevole, tipo non bere assolutamente nulla, diventando così oggetto di scherno e critiche; mentre se avesse mantenuto la sua parola, ormai sarebbe probabilmente un uomo felice.
+
+Ricordandolo e riflettendo sui vantaggi di una regola rigorosa, mi aggrappai al mio carrello, facendo attenzione a far sentire i miei piedi il terreno sotto di loro; così attraversai le alte porte di pietra calcarea della gola e mi trovai nel quarto valle dei Giura, con la quinta cresta che si ergeva scura e imponente davanti a me, contro gli ultimi raggi di luce del giorno. Non c'erano ancora stelle.
+
+Lì, in quel luogo silenzioso, si trovava il piccolo villaggio di Undervelier. Ringraziai il ragazzo, scesi dal suo carretto e mi avvicinai con fatica all’osteria. Chiesi alla donna se poteva darmi qualcosa da mangiare; lei rispose che sì, ma che ci sarebbero voluti circa un’ora, e inoltre usò parole che non capivo. I francesi, infatti, erano ormai diventati piuttosto barbari, e io mi trovavo davvero in uno dei luoghi più remoti del mondo.
+
+Un sigaro, comunque, anche ad Undervelier, è pur sempre un sigaro; e i migliori costano soltanto un penny. Così ne comprai uno e uscii per fumarlo nella piazza del villaggio. Trovando un muro basso, mi appoggiai ad esso e ammirai l’acqua verde, limpida e scrosciante che scorreva sotto di me; infatti, un piccolo fiume attraversava il villaggio.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_134_on_the_faith" data-title="The Path to Rome — On The Faith" data-chapter="On The Faith" data-kind="story" data-tags="concept/faith,histref/catholic_church"></span>
@@ -6338,6 +8006,22 @@ My whole mind was taken up and transfigured by this collective act, and I saw fo
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sulla [[Faith|>fede]]
+
+Mentre mi appoggiavo lì in riposo e riflettevo, notai come la loro chiesa, situata proprio lì vicino, fosse costruita lungo le rive basse del torrente. Ammirai la rigogliosità dell’erba che quelle acque nutrivano, nonché l’ampio arco formato dagli alberi intorno ad essa. Le tombe sembravano essere collocate in un luogo naturale di riposo e tranquillità; proprio oltre quel cimitero si trovava quell’unione di pietra lavorata e acqua che rappresentava una fonte di straordinaria soddisfazione: infatti, la torre della chiesa si ergeva con audacia direttamente nel corso d’acqua, il quale vi scorreva intorno in mulinelli. Ma non so spiegare esattamente perché un edificio umano così solido, quando entra in contatto con l’acqua, possa avere un tale effetto sull’animo. So solo che è davvero emozionante vedere le nostre strutture, create dall’uomo per durare nel tempo, confrontarsi e sfidare quell’elemento che non riusciamo a dominare e che rappresenta sempre un certo pericolo per gli esseri umani. Per questo motivo è giusto dotare moli e banchine di solide strutture architettoniche; i Romani, ad esempio, ebbero l’intuizione geniale di costruire le loro ville proprio sul mare. Si dice che Venezia abbia lo stesso effetto incantevole. Ma dove ho notato questo fenomeno in modo particolare è al Mont Saint-Michel: bisogna però fare attenzione a chiudere gli occhi o addormentarsi durante le basse maree.
+
+Mentre guardavo quella trasmissione davanti a quelle vecchie pietre, il mio sigaro era ormai semi-fumato quando improvvisamente una campana iniziò a suonare; sembrava che l’intero villaggio si stesse riversando nella chiesa. Fui molto sorpreso: in tutta la mia vita non avevo mai assistito a un simile esempio di devozione condivisa da tutta la popolazione; anzi, avevo sempre considerato la [[Faith|Fede]] come qualcosa che lotta contro le avversità, e avevo visto l’unanimità soltanto in luoghi dove qualche religione fasulla cercava di mascherare le nostre tragedie e giustificare i nostri peccati. Vedere tutti gli uomini, le donne e i bambini di quel posto accettare il Cattolicesimo come qualcosa di scontato era davvero una novità; così posai con cura il mio sigaro sotto una pietra in cima al muro e entrai insieme a loro. In quel momento capii che stavano partecipando alle vespere.
+
+Tutto il villaggio cantava, conoscendo molto bene i salmi, e notai che il loro latino assomigliava di più al tedesco che al francese; ma ciò che era davvero più piacevole era ascoltare, pronunciato insieme da tutti gli uomini e le donne, quel nobile “buonanotte” e quella preghiera rivolta a Dio che inizia con.
+
+A te, luce prima che scada la notte.
+
+Tutta la mia mente fu assorbita e trasformata da questo atto collettivo; per un momento vidi la [[Catholic Church|Chiesa Cattolica]] in modo molto chiaro, e ricordai l’Europa, i secoli passati. Poi, completamente, abbandonai quell’atteggiamento di difficoltà e di lotta che, per noi altri, è sempre associato alla [[Faith|>Fede]]. Le città svanirono nella mia immaginazione, e prestai meno attenzione al rumore moderno. Uscii con loro nel fresco della sera; trovai il mio sigaro e lo accesi di nuovo. Riflettendo molto più profondamente di prima, e non senza lacrime, considerai la natura della Fede.
+
+* * *
 
 
 
@@ -6363,6 +8047,26 @@ There was to be no more of that studious content, that security in historic anal
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ancora fedele alla [[Faith|fede]].
+
+Per sua natura, genera reazioni e indifferenza. Coloro che non credono in nulla, ma solo pensano e giudicano, non possono comprenderlo. Per sua natura, lotta contro di noi. E noi, quando la nostra giovinezza è al suo apice, inevitabilmente lo rifiutiamo e ci dirigiamo verso la luce del sole, soddisfatti delle cose naturali. Poi, per molto tempo, siamo come uomini che seguono il corso di una fessura montana: le cime ci sono nascoste e dimenticate. Ci vogliono anni per raggiungere la pianura arida. E solo allora guardiamo indietro e vediamo la nostra “casa”.
+
+Cosa pensi che causi questo ritorno? Penso che sia il problema stesso della vita: ogni giorno, ogni esperienza negativa richiede una soluzione. Quella soluzione viene fornita dal ricordo di quel grande disegno che, alla fine, riusciamo a ricordare. La nostra infanzia riemerge di nuovo. Ma non cercherò di spiegarlo, perché non ne ho il potere; so solo che coloro che ritornano subiscono molte sofferenze: si crea un abisso tra noi e molti dei nostri compagni. Siamo costantemente messi in minoranza, e il mondo sembra parlare una lingua strana; siamo turbati dal meccanismo umano che è alla base di questa rivelazione perfetta e sovrumana; siamo estremamente preoccupati per la sua sicurezza, allarmati, e esposti al rischio di prendere decisioni violente.
+
+E questo è difficile: che la [[Faith|>Fede]] induca una persona ad abbandonare il vecchio modo di giudicare. Le medie, i movimenti e tutto il resto diventano incerti. Vediamo le cose dal punto di vista interno e consideriamo un’unica mente o un piccolo gruppo come “sale” o “lievito”. La stessa natura della forza sociale ci sembra cambiata. E questo è difficile quando una persona ha sempre amato le opinioni comuni e si sente felice solo in compagnia dei suoi simili.
+
+Ed ancora una volta è molto difficile: dobbiamo riprendere quella terribile lotta per conciliare due verità e mantenere sacra la libertà civile nonostante l’esistenza delle organizzazioni religiose, senza negare ciò che è certamente vero. È difficile accettare i misteri e essere umili. Dobbiamo impegnarci con lo stesso impegno dei grandi studiosi del passato, e non osiamo trascurare il dovere di questa lotta continua.
+
+Ma la cosa più difficile di tutte è che ci allontana, come se fosse un ordine, da tutto quel banchetto dell’intelletto dal quale l’uomo non conosce gioia più intensa.
+
+Salii lentamente lungo la piazza del villaggio al crepuscolo, riflettendo su questa deplorevole debolezza umana: la [[Faith|>Fede]] è troppo grande per noi, e dobbiamo accettarla come un fardello inevitabile. Continuai a meditare, con lo sguardo fisso sul terreno.
+
+Non doveva più esserci quel modo di studiare con attenzione, quella sicurezza nell’analisi storica, quella costante soddisfazione di un appetito che mai si saziava. Era necessaria una saggezza più imperativa e più profonda per porre fine a quella comoda saggezza derivante dall’apprendimento. Tutto l’equilibrio nel giudizio, le convinzioni lente e serene, la comprensione ampia delle cose, la visione della loro complessità, il piacere che derivava dalla loro innumerevole varietà, tutto ciò doveva essere abbandonato. I fanatismi non potevano più essere completamente disprezzati; allo stesso modo, le apprezzazioni sincere e una forte comprensione della realtà non potevano più essere considerate semplicemente meritevoli di ammirazione.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_136_on_style" data-title="The Path to Rome — On Style" data-chapter="On Style" data-kind="story" data-tags="concept/faith,histref/catholic_church"></span>
@@ -6386,6 +8090,26 @@ Oh, for one man who should write healthy, hearty, straightforward English! Oh, f
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Sullo stile
+
+La [[Catholic Church|Chiesa Cattolica]] non adotta alcuna filosofia; non permette alcun comfort; il grido dei martiri risuona nella sua voce profonda; i suoi occhi, che vedono al di là del mondo presente, ci mostrano il cielo e l’inferno, confondendo le nostre riconciliazioni umane, la nostra felice fusione tra bene e male.
+
+Per il Signore! Inizio a considerare questa religione intima tanto tragica quanto un grande amore. Mi è tornata in mente una reliquia che ho in casa: si tratta di un pannello dell’antica porta del mio college, su cui sono incisi gli stemmi della mia università. Ricordo il Leone e lo Scudo, “Haec fuit, Haec almae janua sacra domus”. Sì, certamente la religione è tanto tragica quanto l’amore adolescenziale, e ci trascina nel vuoto, lontano dalle nostre care case.
+
+È una cosa positiva aver amato una donna fin da piccolo, ed è anche una cosa positiva non dover più tornare alla [[Faith|>Fede]].
+
+A Undervelier cucinano peggio di qualsiasi altro posto in cui io sia mai stato, forse ad eccezione di Omaha, nel Nebraska.
+
+LETTORE: Perché utilizzate espressioni come “possibile eccezione”?
+
+AUTORE: Perché no? Vedo che tutta quella religione che ho inserito nel libro non ha su di te lo stesso effetto che Rousseau ebbe su Sir Henry Maine. Sei pieno di orgoglio, come un piccolo demonio. Eviti i cliché, le frasi banali. Perché? Non perché tu scriva naturalmente prosa strana; al contrario, se lasciato a te stesso, scriveresti solo giornalismo banale. Ma semplicemente perché sei pieno di desiderio di fare bella figura. Vuoi quella che la scuola di Martha Brown chiama “distinzione” nella prosa. Amico mio, so come si fa. E lo trovo spregevole. Le persone scrivono i loro articoli a tutta velocità, buttando giù conclusioni non riflettute e prive di valore. A volte addirittura li dettano a una macchina da scrivere. Poi ci ripensano con una matita blu, modificano le strutture grammaticali, aggiungono aggettivi alternativi. E in generale torturano la lingua inglese. Ma chi ne trae davvero beneficio? Gli autori sciocchi non ricevono alcun vero riconoscimento, nemmeno nelle orribili ville dove i loro gruppi si riuniscono la domenica. Il povero pubblico compra quei giornali e rimane sbalordito dalla presunta “intelligenza” di quelle scritture. Ma deve comunque leggere ciò che riesce a capire. E finisce per tornare ai romanzi banali, scritti da cuochi, “Le pecore affamate”, come dice qualcuno, “alzano lo sguardo, ma non vengono nutrite, ” E lo stesso poeta descrive bene le tue scritture come prodotte da strumenti di scarsa qualità. Una parola davvero appropriata.
+
+Oh, per un uomo che sapesse scrivere in inglese semplice, chiaro e sincero. Oh, per Cobbett! Ci sono davvero alcuni grandi uomini che scrivono in modo apparentemente semplice, ma in realtà molto complesso.
+
+* * *
 
 
 
@@ -6416,6 +8140,32 @@ I then thought what a fine fellow I was, and how pleasant were my friends when I
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il tedesco
+
+Perché non possono farci nulla; la loro onestà viene dimostrata dal numero di persone che riescono ad attirare. E voi, tutti questi pedanti e litigiosi, cosa producete? Forse un misero trioletto ogni sei mesi, e un libro di critiche su qualcosa di completamente superato una volta ogni cinque anni. Se fossi io a decidere.
+
+LETTORE. Mi dispiace molto di aver scatenato tutto questo.
+
+AUTORE: Assolutamente no! Assolutamente no! Spero di essere stato chiaro.
+
+Beh, come stavo dicendo, cucinano peggio ad Undervelier che in qualsiasi altro posto in cui io sia mai stato, forse con l’eccezione di Omaha, nel Nebraska. Tuttavia, li ho perdonati, perché erano persone davvero gentili; dopo una notte breve e difficile, sono uscito al mattino, prima che sorgesse il sole, e ho preso la strada di Moutier.
+
+La valle in cui mi trovavo ora. Quella frase sembra familiare. Assomigliava più o meno a una “H”. Cioè, erano presenti due catene montuose alte e parallele che la delimitavano, ma al centro c’era una cresta bassa, alta forse mille piedi. La strada saliva lentamente lungo questa cresta, attraverso pascoli dove mucche con campane sonore si alzavano dal rugiado sull’erba; in lontananza si vedevano anche uno o due piccoli cottage e un villaggio da cui già si levava il fumo. Lungo tutto il percorso pensavo alla quantità eccessiva di religione che avevo assorbita la notte precedente, e anche al fatto che quella mattina fossi partito senza pane né caffè. Il che era davvero una follia.
+
+Quando arrivai in cima alla cresta, vidi un giovane che stava tagliando la legna fuori da una casa; gli chiesi in francese a quale distanza si trovasse Moutier. Lui rispose in tedesco, e io lo spaventai gridando ad alta voce, come fanno i marinai quando vedono terra. Finalmente avevo raggiunto il confine tra le diverse lingue, e per la prima volta nella mia vita mi trovavo circondato esclusivamente da stranieri. Gli chiesi anche del caffè; poiché me lo rifiutò, pensai che fosse un eretico, e proseguii lungo la strada componeendo versi contro di lui. Li cantavo ad alta voce attraverso la foresta, che ora si innalzava sopra di me diventando sempre più fitta man mano che scendevo.
+
+# E la mia prima strofa fu…
+
+Eretici tutti voi, che siate a Tarbes o a Nîmes, o al di là del mare, mai riceverete parole gentili da me. La carità non mi turba.
+
+Se mi chiedete perché ho inserito una riga in latino alla fine, è perché volevo dimostrare che si trattava di una canzone legata alla Fonte Universale e alla cultura europea, nonché a tutto ciò contro cui l’Eresia lotta. L’ho cantata su un ritmo vivace, un inno che avevo inventato apposta per l’occasione.
+
+Allora pensai quanto fossi una brava persona, e quanto fossero piacevoli i miei amici quando ero d’accordo con loro. Composi quindi questa seconda strofa, che cantai ancora più ad alta voce della prima; e la foresta diventava sempre più fitta, rimandando indietro gli echi.
+
+* * *
 
 
 
@@ -6448,6 +8198,34 @@ There is a school of Poets (I cannot read them myself) who treat of common thing
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Eretici
+
+MA gli uomini cattolici che vivono di vino Sono sinceri e gentili; ovunque viaggi, lo trovo sempre così. Benedicamus Domino.
+
+Non c’è dubbio, tuttavia, che se si sta davvero svolgendo un’attività cattolica e si esprime la propria posizione verso il mondo, allora in una persona dovrebbero esserci carità, compassione e un profondo senso di timore, o almeno dovrebbero manifestarsi. Così ho composto questo terzo versetto e l’ho cantato in base a ciò.
+
+Sui bambini delle donne abbandonate, sugli uomini che vivono solo nell’umiliazione e nel disprezzo. Su tutto ciò che è mai nato, Misericordia, Signore.
+
+Poi, poiché tutto finisce con la morte, e questo è proprio ciò di cui gli Eretici non vogliono assolutamente essere ricordati, anch’io ho terminato in questo modo.
+
+A me stesso, povero, sul mio letto di morte, E a tutti i miei cari compagni ormai defunti. A causa dell’amore che li ho portati nel cuore. Dona Eis Requiem.
+
+Dico “Ho finito”, ma in realtà non ho terminato proprio lì; infatti ho scritto anche, nello spirito del resto del lavoro, un verso di “Mea Culpa” e di “Confessione dei Peccati”, ma non lo pubblicherò qui.
+
+La mia canzone è finita e ora ho lasciato alle spalle i boschi; ho proseguito su una strada polverosa fino a Moutier, una città odiosa, tutta imbiancata e ordinata, situata ai piedi delle colline.
+
+Ero stanco: il sole era già alto e faceva caldo; avevo camminato dieci miglia, lungo una cresta montuosa; avevo scritto una canzone e l’avevo cantata, tutto questo senza aver mangiato nulla. Così, a Moutier, presi del pane, del caffè e della zuppa; poi, uscendo un po’ dalla città, attraversai un ruscello, salii su una collina e mi addormentai sotto un albero.
+
+Mi svegliai e presi la strada.
+
+La strada dopo Moutier non era certo il soggetto adatto per delle canzoni; non mi suscitava alcuna emozione. Era desolata sotto il sole, con campi su entrambi i lati; e nei campi c'erano case. Dentro quelle case vivevano uomini mortali che parlavano chiaramente.
+
+Esiste una scuola di poeti (che io stesso non riesco a leggere i loro lavori) che si occupano di argomenti comuni; i loro ammiratori ci dicono che questi poeti riescono a elevare le cose della vita quotidiana a qualcosa di significativo.
+
+* * *
 
 
 
@@ -6487,6 +8265,40 @@ AUCTOR. Indeed, yes.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La vita di tutti i giorni… e i suoi orrori
+
+La vita si svolge sul piano del soprannaturale. Notate quella frase: è come un raggio di luce che penetra una nuvola, rivelando le loro menti disgustose.
+
+La vita di tutti i giorni! Come disse La Croix in un famoso articolo di prima pagina: “‘La Presse’? Bah!” Conosco bene quella vita di tutti i giorni. È fatta di sandali e foto di persone magre, brutte e tutte uguali, ritratte su fotografie marroni appese ai muri; queste foto vengono chiamate “La Casa della Vita”, “Il Luogo Bello” o ancora “La Lampada della Valle”. Quando ci si lamenta e si si muove a disagio davanti a queste immagini, i loro proprietari, dal modo di pensare meschino e dall’anima polverosa, dicono che, naturalmente, nelle foto si perde il meraviglioso colore originale delle cose. In questa vita quotidiana, i camini sono fatti dello stesso materiale dei tavoli dei caffè; per istinto, quindi, provo a fare dei cerchi sul loro legno con il mio bicchiere di vino. Le persone che devono sopportare questa vita si alzano ogni mattina alle otto, lavorano in lavori miserabili e tornano a casa per ascoltare ancora più letteratura e lodi. Le donne disoneste non fanno nulla e si occupano solo delle attività del governo locale, cioè dell’oppressione dei poveri. In definitiva, tutta questa maledetta vita quotidiana è intrisa dai quattro peccati che gridano al cielo per vendetta; in essa non c’è umanità, semplicità né ricordi. Conosco interi quartieri di città dove le persone non hanno mai sentito parlare di Virtù, Vergogna o Pietà.
+
+# Lettore… E poi?
+
+AUTORE: Ahimè! Ahimè, caro Lettore. In queste case non c’è nemmeno un po’ di pulizia onesta. Né una bottiglia di vino buono o cattivo; nessun libro ereditato dallo zio, né libri per bambini scritti da Mrs Barbauld o Miss Edgeworth; nessun segno di disordine domestico, nulla di quel comfort che rende la casa di un uomo davvero accogliente. Non hanno debiti, non leggono a letto. E avranno molte difficoltà a salvare le loro anime.
+
+LETTORE. Allora ditemi: come affrontereste le cose comuni?
+
+AUTORE: Beh, li lascerei in pace; ma se dovessi occuparmene, vi mostrerò come farei. Avviamo un dialogo su questa strada che parte da Moutier.
+
+LETTORE: Certamente.
+
+AUTORE: Che cosa terribile è perdere il sonno. A malapena riesco a sopportare il caldo della strada, e la mia mente è vuota!
+
+LETTORE: Ma avete appena dormito in un bosco!
+
+AUTORE: Sì, ma non basta. Bisogna dormire di notte.
+
+LETTORE: Mio fratello si lamenta spesso di insonnia. Lui è un poliziotto.
+
+AUTORE: Davvero? È una malattia triste.
+
+LETTORE: Sì, certamente.
+
+AUTORE: Infatti, sì.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_140_plays_without_words" data-title="The Path to Rome — Plays Without Words" data-chapter="Plays Without Words" data-kind="story" data-tags="motif/wordplay,motif/road,concept/literary_criticism,concept/wit,form/satire"></span>
@@ -6517,6 +8329,32 @@ AUCTOR. Well, it was a short play and modern, was it not?
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Giochi senza parole
+
+LETTORE: Non posso andare avanti in questo modo.
+
+AUTORE: Ecco, proprio quello che stavo dicendo. Non si può trattare di cose comuni: non è letteratura. E personalmente, se fossi il redattore anche solo di una rivista e l’autore inserisse una serie di dialoghi, non lo pagherei a pagina, ma a parola. Inoltre, gli calcolerei il 5% per gli epigrammi, il 10% per i dialoghi in dialetto, e circa il 25% per quelle indicazioni sceniche scritte in corsivo che gli autori usano solitamente per riempire il testo.
+
+Lo so. Non ripeterò questo esperimento, ma la prossima volta che verrò davanti a un pezzo di strada su cui non c’è nulla da dire, racconterò una storia o canterò una canzone. E me lo impegno.
+
+A proposito, mi è venuto in mente qualcosa. Conosci quei libri e quelle storie in cui alcune parti dei dialoghi sono composte soltanto da punti, trattini, asterischi e domande? Mi chiedo come si guadagnino i soldi scrivendo così. Se lo sapessi, ci guadagnerei un sacco di soldi, perché credo di avere davvero talento in questo. Guarda qui.
+
+Ecco. A mio parere, questo vale molto di più in termini di valore che tutte le moderne teorie sulla “delinazione del carattere” e simili sciocchezze. Che vigore! Che concisione! Eppure, quanto è chiaro.
+
+LETTORE. Andiamo avanti.
+
+AUTORE: Certo, consideriamo cose più durature.
+
+Dopo aver percorso alcuni chilometri lungo la strada in salita, superai un altro varco tra le colline e…
+
+LETTORE. Scusi, ma sto ancora riflettendo su quella piccola tragedia che mi hai raccontato. Perché la guardiana era una duchessa?
+
+AUTORE: Beh, era un’opera teatrale breve e moderna, vero?
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_141_the_acolyte_of_rheims" data-title="The Path to Rome — The Acolyte Of Rheims" data-chapter="The Acolyte Of Rheims" data-kind="story" data-tags="archetype/trickster,motif/lamb,motif/supernatural,motif/dance,concept/the_grotesque,histref/catholic_church"></span>
@@ -6540,6 +8378,26 @@ The boy then taking a little lamb which happened to be in the drawing-room, said
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il discepolo di Reims
+
+LETTORE. Sì. E quindi, naturalmente, deve avere un titolo. Lo so bene; non ho obiezioni al riguardo. Quello che voglio sapere è: perché proprio una duchessa?
+
+AUTORE: A causa della riduzione delle dimensioni sceniche, la concentrazione degli elementi narrativi diventa maggiore. Nella versione completa dello spettacolo ci sarebbero stati un lord, due baronetti e, diciamo, tre signore; avrei potuto inserire frasi appropriate nelle loro bocche. Invece, ho dovuto garantire assolutamente la presenza di elementi nobiliari, senza alcun aiuto esterno, e in un solo momento. Capite? Non è forse questo arte?
+
+Non riesco a capire perché un pellegrinaggio, un’avventura così naturalmente piena di cose grandi, meravigliose, lontane e sacre, possa generare tutta questa assurdità fantastica; ma ricordate almeno quel piccolo accolito di Reims: suo padre, nel 1512, vedendolo adatto alla vita religiosa, lo vestì con un abito da prete e decise di destinarlo alla Chiesa. Ma il ragazzo iniziò a comportarsi in modo altrettanto negligente e dispettoso: metteva cera d’api sui simboli della misericordia, bruciava piume nel turibolo, e addirittura girava per le strade con la ciotola senza autorizzazione, rimproverando ad alta voce i ricchi se non donavano abbastanza. Alla fine lo riportarono a casa; l’arcivescovo lo scacciò personalmente dal portico meridionale e gli lanciò la Maledizione Comune o Feriale, che è più o meno la stessa usata dai carrettieri contro i cani randagi.
+
+Quando suo padre lo vide, iniziò a infuriarsi terribilmente, imprecando come un pagano e chiedendo se suo figlio fosse un libertino adatto alla forca tanto quanto uno sciocco adatto alle vesti sacre. Sentendo queste parole, il figlio rispose con grande umiltà e pentimento.
+
+“Non è colpa mia, ma il contatto con le cose della Chiesa è ciò che mi fa comportare in modo così vivace e allegro. Proprio come si dice che il Diavolo, lasciato a se stesso, sia un individuo abbastanza ‘buono’, ma che diventi violento solo quando viene immerso nell’acqua santa; allora tutti possono vedere come sibila e ribolle.”
+
+Il ragazzo prese allora un agnellino che si trovava nel salotto e disse:
+
+“Padre, guardate questo piccolo agnello: quanto è timido, semplice e innocente. Eppure, osservate!” Così dicendo, il ragazzo strappò la veste sacerdotale dal proprio braccio e la gettò addosso all’agnello, coprendogli testa e corpo. L’agnello iniziò a dimenarsi, a calciare, a rotolare. Lottava con tutte le sue forze contro quel vestito oscuro che lo costringeva in modo gerarchico e sacerdotale. E intanto belava sempre più furiosamente e ad alta voce, proprio come il grande Bafometto quando le streghe danzano intorno a lui la notte di Halloween. Ma quando il ragazzo strappò di nuovo via quella veste, l’agnello, dopo aver starnutito un po’, si calmò immediatamente. Sembrava solo un po’ confuso e stordito.
+
+* * *
 
 
 
@@ -6567,6 +8425,28 @@ Then I went out into the sunlight, and crossing over running water put myself ou
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# I mulini di Dio
+
+“Ecco, padre,” disse il ragazzo, “questo è la prova che anche la persona più mite può essere spinta alla disperazione dalle catene di cui parlo. E prego che non le impieghiate mai più su di me.”
+
+Suo padre, vedendolo così pratico e saggio, gli lasciò tutta la propria fortuna e le proprie attività commerciali; in questo modo riuscì a evitare i pesanti oneri fiscali e tributari di quei tempi, poiché era un affittuario della tenuta di St Remi con contratto a doppio affitto. Ma in Inghilterra tutto ciò è stato regolamentato dalle leggi sulle usanze fondiarie; ora devo riprendere il viaggio prima che faccia buio.
+
+Come stavo dicendo, arrivai in una zona di colline dove c'erano una o due case chiamate Gansbrunnen; una di queste case era un ostello. Proprio accanto all’ostello la strada svoltava bruscamente verso l’interno della valle; l’ultima pendice dei Monti Giura, l’ultimo crinale parallelo, si estendeva davanti a me, solenne, scuro e ricoperto di alberi, formando una linea alta e frondosa contro il cielo del mezzogiorno. Per attraversarlo c’era solo un sentiero vago e piuttosto ingannevole; il nome della montagna era Weissenstein.
+
+So che, prima di quel ultimo sforzo che avrebbe dovuto portarmi oltre quei migliaia di piedi e permettermi di nutrire l’Instinto (che mi sarebbe stato utile una volta entrato in quella foresta impenetrabile), sono andato in locanda a bere del vino.
+
+Una donna molto anziana, dall'aspetto di una strega, sedeva davanti a un tavolo buio, accanto alla piccola finestra a graticcio della stanza oscura. Mormorava tra sé; io feci il segno dell’occhio malvagio e le chiesi del vino in francese, ma lei non capiva il francese. Tuttavia, riconoscendo due parole che sembravano “White” e “Red”, dissi “White” e annuii; allora mi portò un bicchiere di ottimo vino rosso, che bevvi in silenzio, mentre lei mi osservava in modo stranissimo.
+
+Allora le pagai con una moneta da cinque franchi, e lei mi diede rapidamente una serie di spiccioli. Contandoli, scoprii che tra essi c'era una moneta greca da cinquanta lepta, chiaramente fatta di piombo. La sollevai furiosamente davanti a lei e (non senza coraggio, poiché è difficile affrontare queste forze oscure) recitai lentamente quella famosa strofa che il noto Satyricus Empiricius utilizzava sempre nelle sue critiche ai grammatici; e senza alcuna complicazione legata alle regole di accento tipiche dell’Alessandria, la pronunciai ad alta voce.
+
+E così la lasciò sbalordita, pronta sia al pentimento che alla vergogna.
+
+Poi uscii nella luce del sole; attraversando l’acqua che scorreva, mi misi al di fuori del suo controllo.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_143_between_the_trees" data-title="The Path to Rome — Between The Trees" data-chapter="Between The Trees" data-kind="story" data-tags="topos/sublime_in_nature,motif/tree,motif/journey,concept/revelation,concept/wonder,form/travel_writing,setting/mountains"></span>
@@ -6591,6 +8471,26 @@ What was it I saw? If you think I saw this or that, and if you think I am invent
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Tra gli alberi
+
+Il bosco si oscurò improvvisamente; il sentiero si diramava in ogni direzione, così che presto non fui più sicuro della strada da seguire. Tuttavia continuai a procedere lungo quella che mi sembrava la direzione più meridionale, fino a quando non raggiunsi improvvisamente una ripida discesa o una gola che terminava in cima alla cresta della collina.
+
+Proprio quando raggiunsi la fine di quella salita, dopo forse un’ora o due, attraverso quella vasta foresta che copriva il versante della montagna, gli alberi lasciarono il posto a cespugli; poi apparve un cancello, e infine il sentiero si perse su un bellissimo prato aperto: quello era proprio la cima del Giura, il punto più alto di quella complessa catena di montagne che protegge la Pianura Svizzera. L’avevo attraversata da un’estremità all’altra, senza mai deviare dal percorso previsto.
+
+Era troppo paludoso per sdraiarsi sopra, quindi mi fermai un attimo per riprendere fiato e guardarmi intorno.
+
+Era evidente che non c’era nulla al di sopra: anche se davanti a me si estendeva una nuova fila di alberi – pini e faggi – nulla sembrava trovarsi al di sopra di loro, e capii che dovevano rappresentare il margine della discesa. Mi avvicinai a questo bordo di alberi e vidi che era delimitato da una recinzione rudimentale formata da pali e ringhiere.
+
+Mentre cercavo l’ingresso di quel sentiero (poiché il mio percorso originale era andato perso, come spesso accade nei prati umidi di quella piccola valle), ebbi una di quelle grandi rivelazioni che ci svelano improvvisamente le cose più elevate e che poi rimangono saldamente nella nostra mente.
+
+Lì, su questo prato in alto, dove fino ad allora avevo provato soltanto la normale gioia legata al “The Summit”, ebbi una visione.
+
+Cosa è stato che ho visto? Se pensate che abbia visto questo o quello, e se credete che stia inventando queste parole, allora non sapete nulla degli esseri umani.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_144_the_vision_of_the_alps" data-title="The Path to Rome — The Vision Of The Alps" data-chapter="The Vision Of The Alps" data-kind="story" data-tags="topos/sublime_in_nature,concept/the_sublime,concept/wonder,concept/immortality,concept/wonder_and_terror,form/travel_writing,setting/mountains"></span>
@@ -6613,6 +8513,24 @@ Their sharp steadfastness and their clean uplifted lines compelled my
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La visione delle Alpi
+
+Vidi, tra i rami degli alberi davanti a me, qualcosa nel cielo che mi fece trattenere il respiro. Proprio come un grande pericolo in mare, una grande sorpresa nell’amore, o una grande liberazione possono farlo. Vidi qualcosa che avevo conosciuto in Occidente da ragazzo. Ma mai l’avevo visto presentato in modo così maestoso. Tra i rami degli alberi c’era una grande promessa di luci inaspettate, là davanti.
+
+Mi spostai avanti e indietro lungo quel bordo della foresta e lungo la recinzione che la delimitava, fino a quando non trovai un punto in cui gli abeti finivano, lasciando uno spazio aperto; sul lato destro, oltre quell’apertura, c’era un albero le cui foglie erano già cadute. Lì il terreno digradava bruscamente sotto di me, e i faggi cadevano uno dopo l’altro, come una vasta cascata, verso le scogliere di calcare che si estendevano ancora più in basso, al di là del mio campo visivo. Guardai attraverso quell’apertura e lodai Dio: laggiù, migliaia di piedi sotto di me, c’era ciò che sembrava una pianura infinita; all’estremità di quel mondo c’era un orizzonte, e il cielo bluastro che lo sovrastava.
+
+C'era nebbia, densa e fitta; si poteva vedere il cielo al di là del confine del mondo diventare sempre più chiaro man mano che la volta celeste si elevava. Ma proprio lì – in quel regno etereo – si estendeva una striscia formata da vette, campi e punte di ghiaccio intenso, lontane, molto lontane dal mondo terreno. Il cielo sotto di loro e il cielo sopra di loro, come una legione immutabile, brillavano come se fossero rivestiti dell’armatura delle inalterabili forze celesti. A due o tre giorni di marcia di distanza, si ergevano come le mura di Eden. Lo ripeto: mi hanno mozzato il respiro. Li avevo visti con i miei occhi.
+
+Noi uomini siamo così poco. Così immersi nei nostri interessi immediati e materiali, che pensiamo di poter comprendere la distanza, il tempo o qualsiasi altra realtà limitata soltanto attraverso numeri e descrizioni. Ecco questi magnifici creati di Dio: le Alpi. Le vedevo per la prima volta dalla sommità del Jura; e perché si trovavano a cinquanta o sessanta miglia di distanza, e perché erano alte un miglio o due, sembravano qualcosa di diverso da noi. Qualcosa che suscitava in me un timore reverenziale, quasi soprannaturale. Lassù nel cielo, dove appartengono solo nuvole, uccelli e gli ultimi bagliori della luce pura, le Alpi si ergevano immobili e solide. Non si muovevano come le altre cose del cielo. Erano lontane quanto le nuvole estive, sottili e fragili. Ma nel loro aspetto, nella loro forma che ricordava armi (lance, scudi di un esercito sconosciuto), occupavano tutto il cielo con la loro maestosità. E, al loro cospetto, dimenticai completamente le cose tipiche del cielo stesso.
+
+A quale emozione posso paragonare questa meraviglia? Proprio come nel primo amore, si scopre che qualcosa del genere può davvero appartenermi.
+
+“La loro fermezza decisa e le linee pulite ed eleganti hanno colpito profondamente me…”
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_145_the_alps_their_picture" data-title="The Path to Rome — The Alps, Their Picture" data-chapter="The Alps Their Picture" data-kind="story" data-tags="topos/sublime_in_nature,concept/the_sublime,concept/humility,concept/faith,concept/aspiration,concept/immortality,concept/mortality,form/travel_writing,setting/mountains"></span>
@@ -6633,6 +8551,22 @@ Then you will say, if I felt all this, why do I draw it, and put it in my book, 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# I Monti Alpi, il loro ritratto
+
+ADORAZIONE. Lassù, il cielo sopra e sotto di noi, parte del cielo, ma anche parte di noi stessi: quelle grandi cime creano un legame tra quella parte di me che ama i vigneti e danza, che si muove lentamente tra i pascoli, e quell’altra parte che trova davvero il proprio posto solo in Cielo. Dico che questo tipo di descrizione è inutile. È meglio rivolgere preghiere a queste cose, piuttosto che cercare di interpretarle per gli altri.
+
+Queste grandi Alpi, viste in questo modo, in qualche modo collegano l’uomo alla sua immortalità. Non è nemmeno possibile descrivere, o anche solo suggerire, quei pochi cinquanta miglia e quei pochi migliaia di piedi; c’è qualcosa di più. Lasciate che lo esprima così: dalla vetta del Weissenstein vidi, in un certo senso, la mia “religione”. Intendo dire l’umiltà, la paura della morte, il terrore dell’altezza e della distanza, la gloria di Dio, l’infinite possibilità che ci sono davanti a noi. E anche il mio desiderio di perfezione, nonché la mia fiducia nel destino duplice che ci attende. Perché so che noi, i riservati, abbiamo un legame profondo con le cose più elevate; ed è proprio questo contrasto, questa continua “controversia” interiore, a generare quella fonte di gioia nell’anima di un uomo sano di mente.
+
+Poiché ora potevo vedere una tale meraviglia e capire come potesse operare nel mio cervello, pensai che un giorno anch'io avrei dovuto farne parte. Ecco ciò che provavo.
+
+È anche questo che spinge alcuni uomini a scalare le cime delle montagne, ma non me. Ho paura di scivolare giù.
+
+Allora direte: “Se provo tutte queste cose, perché le ritraggo e le metto nel mio libro, visto che i miei disegni servono solo per divertimento? La mia battuta rende tale ricordo ridicolo, ” Beh, all’inizio ho detto che avrei annotato tutto ciò che mi colpiva di più, tranne le figure umane, che non so come disegnare (intendo figure umane; per quelle matematiche invece riesco a disegnarle abbastanza bene). E non ho mai mancato a questa promessa, tranne nel caso di Porrentruy: il mio disegno fu portato via dal vento e andò perso, se mai qualcosa possa davvero andare perduto. Quindi ho deciso di registrare qui questo straordinario disegno di ciò che ho visto.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_146_the_cliff" data-title="The Path to Rome — The Cliff" data-chapter="The Cliff" data-kind="story" data-tags="topos/sublime_in_nature,motif/river,motif/journey,form/travel_writing,setting/mountains"></span>
@@ -6648,6 +8582,18 @@ I was an hour or more going down the enormous face of the Jura, which is here an
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# La Scogliera
+
+Questo è più o meno lo stesso che una canzone stampata piena di errori tipografici rispetto alla stessa canzone cantata da un esercito in marcia. E mi consolo pensando che, se potessi disegnare infinitamente bene, allora tentare di rappresentare quella scena sarebbe considerato un sacrilegio. Inoltre, non intendo perdere altro tempo a spiegare perché ho inserito questo piccolo disegno. Se disturba la vostra concezione di ciò che ho visto, copritelo semplicemente con un po’ di carta. L’ho fatto piccolo apposta; ma ricordatevi che la carta deve essere sottile e opaca: quella spessa interferirebbe con la forma di questo libro, mentre quella trasparente vi creerebbe solo distrazioni, richiamandovi l’immagine stessa.
+
+Era tutto pieno di questo, proprio come un uomo è pervaso dalla musica subito dopo averla ascoltata; così mi addentrai nella fitta foresta che conduceva verso la grande pianura. Poi, trovato un sentiero, lo seguii in zig-zag lungo una sorta di burrone che portava in un luogo dove le scogliere di calcare si interrompevano. E (secondo la mia mappa) fino alla città di Soleure, situata ai margini della pianura sul fiume Aar.
+
+Ho impiegato un’ora o più per scendere lungo l’enorme versante dei Monti Giurassici; in questo tratto si presenta come una scogliera alta e ripida, con poche zone di interruzione attraverso cui è possibile procedere.
+
+* * *
 
 
 
@@ -6671,6 +8617,24 @@ This book must not go on for ever; therefore I cannot say very much about Soleur
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Soleure
+
+Gli uomini possono scegliere il loro percorso. Fu quando ero circa a metà della discesa lungo la montagna che la sua vastità mi colpì davvero profondamente. Eppure, in realtà, non era altro che una sorta di piattaforma da cui osservare le Alpi e la loro ancora maggiore maestosità.
+
+Questa vastità, persino di queste montagne di calcare, mi colpì in particolare in un luogo dove il sentiero costeggiava una ripida, anzi quasi verticale, parete di roccia bianca; solo qua e là un albero riusciva a attaccarsi a quella superficie scoscesa.
+
+Ero ancora molto in alto, ma guardando un po' più verso est rispetto a prima, vedevo che la pianura si estendeva senza fine verso alcune basse colline vaghe; nemmeno in quella direzione si scorgeva traccia di neve nel cielo. Alla fine arrivai alle pendici che formavano una piccola cresta sotto le [[Mountains|montagne]]; lì, trovando una strada principale e un po' oppresso dal calore pomeridiano di quelle zone basse, proseguii più lentamente verso Soleure.
+
+Accanto a me, lungo la strada, c'erano molte case, ombreggiate da grandi alberi, costruite in legno e situate lontane le una dalle altre. Ogni casa aveva quasi sempre un piccolo mulino azionato dall’acqua che scorreva fuori dalla gola. Nella maggior parte dei casi, il mulino serviva a far funzionare una semplice macchina per tagliare assi di legno; in altri casi, sembrava essere utilizzato per qualche scopo all’interno della casa, che non riuscivo a capire. Forse per la filatura.
+
+Questo posto era pieno di persone al lavoro; gli uomini cantavano e parlavano in tedesco mentre svolgevano le loro mansioni, lingua che non riuscivo a comprendere. Infatti, incontrai un giovane che raccoglieva l’erba e portava una falce; conosceva un po’ di francese ed era diretto nella mia stessa direzione. Gli chiesi quindi di insegnarmi il tedesco, ma non ebbe modo di farlo a lungo prima che arrivassimo alle porte della città vecchia; dopo ciò lo lasciai. Ecco come, dunque, nei successivi quattro o cinque giorni trascorsi tra gli svizzeri di lingua tedesca, rimasi completamente solo.
+
+Questo libro non può certo durare all’infinito; quindi non posso dire molto su Soleure, sebbene ci sia molto da dire al suo riguardo. Si distingue per un senso di unità e di vita civica che avevo già notato in tutte queste città svizzere; perché, anche se la gente parla di trovare il Medioevo in questo o quel luogo, io personalmente non lo trovo mai, tranne dove esiste la democrazia per preservarlo. Così ho visto il Medioevo particolarmente vivo nelle piccole città del Nord della [[France|Francia]], e l’ho visto anche all’Università di Parigi. E qui, in Svizzera, anch’esso. Proprio come lo avevo visto a St Ursanne, lo ho ritrovato anche a Soleure: c’erano enormi porte ai lati della città, e quella sera si sentiva un continuo rumore di fucili, su cui i svizzeri si esercitano sempre. Ma sopra la chiesa ho visto qualcosa di decisamente tipico del XVII secolo: cioè il nome “Jaweh” scritto in grandi lettere ebraiche sulla sua facciata.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_148_the_remote_inn" data-title="The Path to Rome — The Remote Inn" data-chapter="The Remote Inn" data-kind="story" data-tags="topos/the_open_road,motif/road,motif/river,motif/inn_tavern,motif/night,form/travel_writing"></span>
@@ -6684,6 +8648,16 @@ I therefore crossed the river Aar, which is here magnificently broad and strong,
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il rifugio remoto
+
+Beh, dopo aver mangiato lì il meglio che avevano da offrirmi (poiché questa era un’altra tappa importante del mio viaggio), mi sentii stranamente rinvigorito e pieno di coraggio. Invece di dormire a Soleure, come avrebbe fatto una persona saggia, decisi, nonostante fosse ormai quasi buio, di proseguire il mio cammino verso Burgdorf.
+
+Perciò attraversai il fiume Aar, che qui è estremamente ampio e potente, con bastioni che sporgono nel suo corso in modo molto audace. Vidi l’ultima luce pallida del tramonto rendere le sue acque simili a metallo opaco tra le rive scure; avvertii i primi segni di stanchezza e quasi mi pentii della mia decisione. Ma poiché è assolutamente certo che non si dovrebbe mai tornare indietro, proseguii nella oscurità, per chissà quante miglia, fino a quando non raggiunsi alcuni incrocio stradali e una locanda.
+
+* * *
 
 
 
@@ -6707,6 +8681,24 @@ Out of my window I saw the eaves coming low down. I saw an apple-tree against th
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I buoni selvaggi
+
+Questo ostello era molto povero, e le persone, a quanto pare, non avevano mai sentito in vita loro che un uomo povero a piedi potesse non sapere parlare tedesco, il che mi sembrava davvero incredibile. Mentre sedevo lì ordinando birra per me stesso e per alcuni contadini (che altrimenti mi avrebbero trattato con disprezzo; anzi, già così trovavano qualcosa di mostruoso in me), riflettevo, nel tentativo continuo di conversare con loro (poiché avevo imparato circa dieci parole della loro lingua), sulla follia di coloro che pensano che i treni facciano il mondo più piccolo.
+
+Suppongo che questo posto fosse, per così dire, più intatto, più vivo, più intenso e più capace di influenzare gli altri, ogni volta che ne fosse il caso, rispetto persino ai cari villaggi del Sussex situati sotto le mie colline. Quei villaggi, infatti, sono invasi da una classe di gentiluomini quasi cosmopolita: attori, banchieri e simili vengono spesso a soggiornare lì; leggono i giornali e, di tanto in tanto, discutono di questioni politiche con la gente del posto. Ma qui, in questa vasta pianura lungo le rive dell’Emmen, la gente conosceva solo se stessa e la Chiesa, che rappresenta il legame comune di tutta Europa. E così era nel modo giusto. Per questo motivo è stato ancora più difficile per me che mi considerassero un estraneo.
+
+Quando il loro incessante ridere iniziò a rendermi un po’ malinconico, chiesi una stanza da letto; la padrona di casa, donna piuttosto intelligente, mi spiegò con le dita che i prezzi delle stanze erano di 50 centesimi, 75 centesimi e un franco. Decisi per quella più costosa e infatti mi fu assegnata una stanza molto piacevole, nella quale c’era la statua di un santo e che aveva un’atmosfera tipicamente rurale. Tuttavia, dopo quella lunga camminata notturna, il giorno seguente trascorse in modo molto difficile: non avevo sale a disposizione, e questo mi causò notevoli problemi. Questo crollo delle mie capacità fisiche e mentali era dovuto, all’epoca, a qualcosa che non riconoscevo come stanchezza, ma senza dubbio a una profonda esaurimento interiore.
+
+Quando mi svegliai la mattina seguente, tutto era come al solito: nessuno era sveglio, e avevo il campo tutto per me; potevo uscire quando volevo. Guardai fuori dalla finestra verso l’[[Dawn|'alba]]. La gara aveva creato i propri ambienti circostanti.
+
+Queste persone che scoppiavano a ridere all’idea che qualcuno non sapesse il tedesco, avevano, per così dire, creato un “ritratto” del tedesco semplicemente attraverso l’influenza di anni e anni di pensieri simili.
+
+Dalla mia finestra vedevo che i tetti si abbassavano molto; vedevo un melo contro la luce grigia. L’erba selvatica nel piccolo giardino, il canile e quella pietra eretta. Tutto ciò era esattamente come nelle illustrazioni tedesche che mettono nei libri per bambini, disegnate con linee nere spesse. E non vedevo alcun motivo per cui volti “domestici” non potessero apparire in quel contesto.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_150_isolation" data-title="The Path to Rome — Isolation" data-chapter="Isolation" data-kind="story" data-tags="setting/italy"></span>
@@ -6727,6 +8719,22 @@ Also I have no doubt that I had experienced the ebb of some vitality, for it is 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Isolamento
+
+Mi aspettavo i capelli lunghi e lenti passi di quelle persone le cui uniche emozioni risiedono nella musica.
+
+Ma era ancora troppo presto perché qualcuno fosse in giro, e il mio giardino tedesco, oserei dire, dovette bastarmi per avere un'idea degli europei centraleuropei. Lo osservai per un po’ mentre diventava sempre più chiaro. Poi scesi al piano di sotto e aprii la porta (che, essendo tedesca, aveva un design piuttosto originale). Uscii in strada e sospirai profondamente.
+
+Quel giorno intero era destinato, per quanto riguardava il mio spirito, ad essere avvolto in una letargia immobile. Niente sembrava interessarmi o preoccuparmi davvero; solo alla sera qualcosa riuscì a stimolare la mia attenzione. Nemmeno il dolore (che ormai era diventato lento e cronico) rappresentava più un motivo di distrazione per me. Soffrivo di un’isolamento insopportabile, privo della vivacità necessaria per stimolare la mente. Avevo la sensazione che chiunque incontrassi fosse uno sconosciuto, e che il loro linguaggio mi risultasse incomprensibile. Una cosa che, a differenza della maggior parte delle persone che viaggiano, non avevo mai provato prima.
+
+Il motivo è questo: se una persona conosce perfettamente l’inglese, può viaggiare in gran parte del mondo senza problemi e incontrare persone con cui poter conversare. Se invece conosce perfettamente il francese, allora tutta l’[[Italy|Italia]], e probabilmente anche la Spagna e il Belgio, gli sono accessibili. Non necessariamente che riesca a comprendere ciò che sente o che venga compreso da altri, ma almeno che il modo in cui le parole vengono pronunciate e i gesti che le accompagnano siano familiari per lui. Io, invece, per cui inglese e francese erano la stessa cosa, dovevo trascorrere intere giornate tra persone che mettevano i verbi alla fine delle frasi; inoltre, alcune delle loro parole rappresentavano concetti che noi non possedevamo. Non avevo modo di instaurare rapporti amichevoli: non potevo sedermi a tavola e raccontare storie avventurose, né chiedere loro informazioni sulla politica, né farli ridere o piangere con le mie storie. Sembrava una povera “pellegrinazione” tra persone che non riuscivano a comunicare efficacemente con me.
+
+Inoltre, non ho dubbi che abbia sperimentato un declino di vitalità: la cosa più triste riguardo a noi è proprio il fatto che questo spirito luminoso che ci illumina dall’interno, come delle lanterne, possa indebolirsi. Una tale fragilità fa temere che l’estinzione sia il nostro destino finale; ci prosciuga di forze e ci riduce a meno di ciò che siamo veramente. Avevo intrapreso un pellegrinaggio di sette notti, di cui due le avevo trascorse all’aperto. Avevo scalato sette grandi cime: la Foresta, Archettes, il Ballon, il Mont Terrible, il Watershed, il passo vicino a Moutier, Weissenstein. Ero caduto in sette abissi: due volte nel fiume Mosella, nella gola di Belfort, nella valle del Doubs, nella valle di Glovelier, nel burrone di Moutier. E ora mi trovavo su questa pianura dell’Aar. Avevo percorso 180 miglia. Non c’è da meravigliarsi che, in questo ottavo giorno, mi sentissi oppresso, e che non avessi bevuto vino buono per tutto quel tempo.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_151_desolation" data-title="The Path to Rome — Desolation" data-chapter="Desolation" data-kind="story" data-tags="setting/mountains"></span>
@@ -6746,6 +8754,22 @@ Here you see that there is no possibility of following the straight way to Rome,
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Desolazione
+
+Non incontrai nessuno che potesse ricordarmi bene, né cantai alcuna canzone. Tutta questa parte del mio viaggio era piena di ciò che loro chiamano “Dovere”; fui sostenuto soltanto dal pensiero che le vaste [[Mountains|montagne]] (che ormai erano scomparse) sarebbero presto tornate a far parte della mia vita, se avessi continuato costantemente verso Roma.
+
+Il sole era già sorto quando arrivai a Burgdorf; andai subito in una stazione ferroviaria, dove bevvi caffè e mangiai del pane. Comprai anche vecchi giornali in francese e li lessi con occhi stanchi e tristi. Non c’era nulla di interessante da disegnare. Come può un uomo rappresentare il dolore che si prova nei piedi o nelle ginocchia? E quello era tutto ciò che meritava attenzione in quel momento.
+
+Ho visto arrivare un treno pieno di turisti che, forse per un'illusione soggettiva, mi sembravano persone comuni e senza valore, e inoltre tristi. Il treno era diretto a Interlaken; ho provato un senso di disprezzo verso chi sceglieva di andare a Interlaken invece di attraversare direttamente le grandi colline per raggiungere Roma.
+
+Dopo circa un’ora di questo melanconico indugiare, misi una mappa davanti a me su un piccolo tavolino di marmo, ordinai dell’altro caffè e, con lo sforzo di prendere una decisione necessaria, infusi un po’ di calore nella mia vita tiepida. Per la prima volta da quando avevo lasciato la Lorena, avevo davanti a me la scelta tra due strade; il motivo per cui ciò fosse così lo spiegherà chiaramente la mappa seguente.
+
+Qui si vede che non esiste alcuna possibilità di seguire la strada diretta per Roma, ma è necessario deviare di qualche chilometro verso est o verso ovest. Partendo dalla Borgogna, bisogna raggiungere un punto situato alle sorgenti del fiume Emmen; Burgdorf si trova proprio in quella zona.
+
+* * *
 
 
 
@@ -6773,6 +8797,28 @@ Until there rose a deep-voiced man from an outlying college, who said, ‘For my
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Un giorno senza sale
+
+EMMEN. Pertanto, si potrebbe seguire il corso dell’Emmen fino in cima. Ma sembrava che quel percorso risalisse oltre una gola, mentre l’altro, altrettanto dritto, presentasse strade in buone condizioni e abbastanza regolari. Così ho scelto quest’ultimo itinerario orientale: alla biforcazione, si prosegue lungo un affluente dell’Emmen, per poi risalire attraverso una cresta fino all’Alto Emmen.
+
+Vuoi che lo dica in modo ancora più chiaro? Penso di no. E dimmi, a cosa ti può servire conoscere questi dettagli geografici? Credimi, li scrivo per il mio piacere personale, non per il tuo.
+
+Dico, un giorno senza sale. Una marcia noiosa. L’aria era ordinaria, i colori comuni; uomini, animali e alberi erano indifferenti. Qualcosa aveva smesso di funzionare.
+
+Anche la nostra energia proviene da Dio, e non dovremmo mai esserne orgogliosi, anche se riuscissimo a percorrere trenta miglia al giorno (come faccio io), o ad piegare una peonia con una sola mano, come faceva Frocot, il conducente nel racconto che ho scritto – un uomo che probabilmente non conoscete nemmeno – o se riuscissimo a scrivere versi brutti molto rapidamente, come fanno molti moderni. Dico che anche la nostra energia proviene da Dio, e non dovremmo mai considerarla qualcosa che ci appartiene, ma accettarla come un dono e esserne grati; proprio come una persona dovrebbe ringraziare Dio per la propria ragione, proprio come fece quel pazzo nella “Storia della Rosa”, che ringraziò Dio perché almeno lui era sano, mentre il resto del mondo aveva perso la ragione.
+
+Infatti, questo fallimento e questo cedimento che di tanto in tanto si verificano nella nostra mente sono cose molto tristi, ma possono rivelarsi di grande utilità per noi se ne traiamo la lezione che siamo noi stessi nulla. Forse è addirittura una grazia. Forse in quei momenti la nostra mente trova pace. Comunque sia, un giorno senza “sale”.
+
+# In queste circostanze…
+
+Quando ero a Oxford, ebbe luogo un grande e terribile dibattito che scosse l’Impero, mettendo a dura prova coloro che venivano inviati a governarlo; quindi, quel dibattito dovette sicuramente avere delle conseguenze sull’Impero stesso. Si trattava di stabilire se si dovesse dire “in queste circostanze” o “sotto queste circostanze”; non risolsi la questione convocando un conclave e proponendo la formula “Quae quum ita sint” come soluzione universale, perché ne nacque un altro dibattito riguardo al momento in cui si dovesse utilizzare “sint” o “sunt”, e tutti iniziarono a discutere animatamente, come gattini in una cesta.
+
+Fino a quando non si alzò un uomo dal tono profondo proveniente da un’università più distante, che disse: “Per quanto mi riguarda, dirò che in queste circostanze, o nonostante queste circostanze, o forse addirittura giocando con queste circostanze, ”
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_153_in_all_these_circumstances" data-title="The Path to Rome — In All These Circumstances" data-chapter="In All These Circumstances" data-kind="story" data-tags="archetype/fool,concept/wit,form/satire,form/travel_writing,setting/mountains"></span>
@@ -6794,6 +8840,24 @@ AUCTOR. These two conditions permit me. First, that I am writing some time after
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In tutte queste circostanze
+
+Vi considero tutti degli sciocchi e dei pedanti: nel Capitolo principale, nella Croce, e nel Quarto Quadrante. Sciocchi assoluti, pedanti senza padrone. Sciocchi liberi, senza terra, incommensurabili. E pedanti evidenti, diffusi ovunque. Sciocchi incalcolabili, pedanti irreparabili. In effetti, gli autentici “archi-scimmiottatori di sciocchezze” in un universo pieno di follia pedante e pedanteria insensata. Oh voi, sciocchi-pedanti del mondo!
+
+Ma a quel punto lui era solo, e per questo quella grande questione non fu mai risolta in modo appropriato.
+
+In queste circostanze, quindi, non vi sarebbe di grande aiuto se tentassi di descrivere la Valle degli Emmen, le prime colline delle Alpi e quella valle assolutamente noiosa che si estende da Langnau.
+
+Avrei fatto meglio a utilizzare il mio tempo per raccontare la storia dello Studente Affamato.
+
+LETTORE. E se sei così stanco e privo di ogni emozione, come puoi raccontare una storia?
+
+AUTORE: Queste due condizioni mi permettono di farlo. Prima di tutto, perché scrivo a distanza di tempo e ho già ripreso me stesso; in secondo luogo, perché la storia non è mia, ma è tratta direttamente da quel giornale nazionalista che per tanto tempo mi è stato utile.
+
+* * *
 
 
 
@@ -6819,6 +8883,26 @@ How willing I was to do this you will not perhaps understand, unless you have th
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il studente affamato non si presenta
+
+Per concludere, ho messo il mio pane e la mia pancetta nello zaino. Questa è la storia, e ve la racconterò.
+
+Ora che ci penso, sarebbe davvero uno spreco di tempo. Sono ancora lontano, forse solo un terzo del mio [[Journey|viaggio]], e ho già fatto così tante digressioni che la mia “pellegrinazione” assomiglia più alla storia di un uomo che dorme e sogna, piuttosto che a una narrazione semplice, onesta e diretta dei fatti. Pertanto, rimanderò la Storia dello Studente Affamato fino a quando non arriverò nelle pianure dell’[[Italy|Italia]], o tra le colline desolate di quella penisola, o tra le città troppo conosciute della Toscana. O in qualche altro luogo dove un po’ di digressioni non possano causare alcun danno né a me né a te.
+
+D'altra parte, non immaginate nemmeno che intenda fornirvi alcuna descrizione di questa insopportabile marcia di quel giorno. Se volete avere un qualche concetto visivo, prendete tutti questi piccoli chalet e fate del loro meglio.
+
+LETTORE: Dove sono?
+
+AUTORE: Sono ancora in Svizzera; non qui. Erano troppi. Mentre me ne stavo andando, ho notato che la strada abbandona finalmente la valle e attraversa una piccola cresta per raggiungere un luogo chiamato Schangnau. Ma anche se non si tratta di una storia, bensì di un evento reale e della verità stessa – qualcosa su cui giurerei in tribunale, o che crederei volentieri e senza esitazioni se me lo raccontasse un altro; anzi, lo considererei addirittura storico se lo trovassi in una moderna storia inglese della Chiesa anglosassone – tuttavia ve lo racconterò lo stesso.
+
+Era proprio alla fine della strada, e quando un enorme senso di stanchezza aveva iniziato a rendere questo episodio monotono e privo di eventi particolari più interessante, un contadino dal viso brutale, che guidava un carretto molto velocemente, mi raggiunse. Non gli dissi nulla, ma lui mi disse alcune parole in tedesco che non capii. In quel momento ci trovavamo proprio di fronte a una piccola locanda sul lato destro della strada, e il contadino iniziò a fare segni perché io tenessi fermo il suo cavallo mentre entrava a bere.
+
+Quanto fossi disposto a farlo, forse non lo capireste, se non provaste quella delicata e sottile soddisfazione nel tenere le teste dei cavalli, una gioia che è motivo di vanto per alcune menti raffinate. E ero ancora più disposto a farlo perché avevo l’abitudine a queste cose, acquisita durante le manovre militari in Francia; inoltre, una volta avevo tenuto un cavallo persino per un Generale di Divisione, il quale mi diede un franco per questo servizio. Questo franco lo spendetti poi con i soldati della mia batteria per comprare del vino. Insomma, per farla breve, come dice il editore.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_155_story_of_the_horse" data-title="The Path to Rome — Story Of The Horse" data-chapter="Story Of The Horse" data-kind="story" data-tags="motif/journey"></span>
@@ -6840,6 +8924,24 @@ Oh, blessed quality of books, that makes them a refuge from living! For in
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Storia del cavallo
+
+Disse che quando pubblicò l’edizione popolare di “Pamela”, lui aveva “tenuto il cavallo per il contadino”; naturalmente, tutto ciò sotto la tacita intesa che mi avrebbe invitato a bere quando fosse uscito, e io, ovviamente, mi aspettavo che portasse da bere lui stesso.
+
+Niente affatto. Posso capire la rabbia che alcune persone provano nei confronti degli svizzeri quando viaggiano in quel paese, anche se ritengo sempre che sia orribile entrare volontariamente nel paese di un altro uomo, soprattutto in un paese così libero e ben governato come la Svizzera, per poi litigare con il tipo specifico di cittadini che vi si trovano.
+
+Non discutiamo di politica. Il punto è che quel contadino è rimasto lì a bere con i suoi amici per ben tre quarti d’ora. Di tanto in tanto qualcuno usciva, guardava il cielo, tossiva, sputava, poi tornava dentro e diceva qualcosa alle persone in tedesco, prima di andarsene; ma nessuno mi ha prestato la minima attenzione mentre tenevo questo cavallo.
+
+Ero già in uno stato di grande rabbia e irritabilità: il cavallo era irrequieto, annusava il proprio stallo e cercava di liberarsi da me. Mentre ero così arrabbiato, mi girai per vedere se quell’uomo sarebbe venuto ad aiutarmi; invece lo vidi ridere e scherzare con le persone all’interno dell’osteria; tutti loro guardavano verso di me mentre ridevano. Forse mi sbagliavo, ma pensai che si stessero prendendo gioco di me. Un uomo che conosce bene la Svizzera e ha scritto un libro intitolato “Il commercio dell’alcol: l’esempio della Svizzera” mi ha assicurato che sicuramente non si stavano prendendo gioco di me; comunque, io lo pensavo, e, preso da una rabbia improvvisa, lasciai andare le redini, diedi al cavallo un forte colpo con il frustino e lo mandai a correre come un uragano lungo la strada da cui era venuto, con il morso tra i denti e tutte le tempeste del cielo sotto di sé. All’istante, come potete immaginare, tutti quegli derisori uscirono dall’osteria urlando e gesticolando, correndo come pazzi dietro al cavallo; uno anziano addirittura cercò di protestare con me. Ma io, stringendo i denti, afferrando il mio bastone e ricordandomi lo scopo della mia grande [[Journey|viaggio]], ripresi la strada verso Roma.
+
+Spero sinceramente, ci credo e prego affinché questa parte della mia [[Journey|viaggio]] non vi sembri così noiosa come lo fu per me all’epoca, o come lo è ancora adesso mentre ne scrivo. Ma ora che ci penso, non può certo sembrare così noiosa. Dopo tutto, io ho dovuto percorrere quei maledetti trenta miglia circa tutto il giorno, mentre voi nemmeno avete bisogno di leggerla; non dirò più nulla al riguardo, ma vi condurrò direttamente alla fine.
+
+# Oh, la beata qualità dei libri… che li rende un rifugio dalla realtà quotidiana! Perché in loro…
+
+* * *
 
 
 
@@ -6863,6 +8965,24 @@ The road stopped being a road, and became like a Californian trail. I approached
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# I più alti ranghi
+
+In un libro, tutto può essere inserito al proprio posto; ogni noia può essere ignorata, e i momenti intensi possono diventare eterni e senza tempo. Come ha detto bene un poeta poco conosciuto in una delle sue liriche inedite: attraverso l’arte della scrittura.
+
+Posso risolvere quell’ora difficile da afferrare E immergermi nelle cose divine.
+
+E per quanto riguarda quelle ore lunghe e inafferrabili, non c’è stata nemmeno un briciolo di esse dal Burgdorf fino all’Inn of the Bridge, tranne quell’istante di estatica gioia quando ho visto quel cavallo correre giù per la strada, con il suo cattivo padrone alle calcagna e tutta la sua banda che gridava tra le colline deserte.
+
+Lo so. Era già sera. Arrivavo, più stanco che mai, vicino a una piccola gola attraverso la quale la mia strada mi avrebbe riportato ad Emmen, ora ridotta a un semplice torrente. Tutto il versante in discesa dall’altra parte della gola (forse tre o quattrocento piedi) era coperto da un villaggio chiamato, se ricordo bene, Schangnau; sulla mia destra c’era una grande scuola e un gran numero di bambini che ballavano in cerchio cantando canzoni. Quella vista mi rallegrò così tanto che decisi di proseguire lungo la valle, anche senza un obiettivo preciso per la notte. Fu una decisione sciocca: in realtà mi trovavo nel cuore di una terra sconosciuta, alla fine delle strade, alle sorgenti dei fiumi, lontano da qualsiasi aiuto possibile. Sapevo che a meno di cinque miglia da me si trovava il Brienzer Grat, quella enorme barriera naturale che dovevo attraversare da un capo all’altro. Non sapevo però se ci fosse una locanda tra me e quella vasta catena montuosa.
+
+La luce stava diminuendo. Forse avevo l’idea vaga di passare la notte all’aperto, ma sarebbe stato fatale: una fitta nebbia che copriva tutte le cime delle colline e formava quasi un tetto sopra la valle iniziò a trasformarsi in una pioggerellina fine; e, come si canta nelle chiese la vigilia di Natale, “il cielo versò la sua rugiada su un uomo giusto”. Ma queste cose sono state scritte in Palestina, dove la pioggia è una vera benedizione; lì, in quella fredda serata, avrebbero fatto meglio a riscaldare davvero quell’uomo giusto. Non c’è modo di controllarli: hanno buone intenzioni, ma combinano un disastro totale.
+
+La strada smise di essere una strada e assunse l’aspetto di un sentiero californiano. Mi avvicinai ad enormi porte situate sulle colline, alte, ripide e strette. La nebbia le avvolgeva, nascondendone la cima e facendole sembrare infinitamente elevate, che si estendevano senza fine nel cielo scuro; le linee sottili e dritte della pioggia rendevano quelle porte ancora più strette. Proprio mentre mi avvicinavo a loro zoppicando, incontrai un uomo che guidava due mucche e gli chiesi: “Una locanda?”, a cui lui rispose con un “Sì!” e mi indicò un gruppo di alberi proprio sotto il precipizio.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_157_the_brienzer_grat_how_it_lies" data-title="The Path to Rome — The Brienzer Grat, How It Lies" data-chapter="The Brienzer Grat How It Lies" data-kind="story" data-tags="motif/dawn"></span>
@@ -6883,6 +9003,22 @@ The Brienzer Grat is an extraordinary thing. It is quite straight; its summits a
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il gratin di Brienza, così com’è
+
+E proprio davanti ai cancelli di cui parlo. Così ci sono andato attraverso un vecchio ponte, ho trovato una casa di legno ed è entrato dentro.
+
+Era una casa nella quale si entrava senza alcuna cerimonia. La porta era aperta e ci si dirigeva direttamente in una grande stanza; lì c’erano tre uomini che giocavano a carte. Li salutai ad alta voce in francese, inglese e latino, ma non mi capirono. E quello che sembrava strano in un hotel – poiché si trattava di un hotel e non di una locanda – era che nessuno nella casa mi comprendesse, né i servitori né nessun altro; tuttavia, i servitori non si misero a ridere di me come avevano fatto le persone povere vicino a Burgdorf, ma rimasero semplicemente in piedi intorno a me, guardandomi con pazienza e meraviglia, proprio come le mucche osservano i treni. Poi mi portarono del cibo; poiché non conoscevo i nomi dei vari tipi di cibo, dovetti mangiare quello che loro scelsero. E l’angelo di quella valle mi protesse dal montone bollito. Tuttavia conoscevo la parola “Wein”, che è uguale in tutte le lingue; quindi bevvi consapevolmente un quarto di vino, con determinazione. Poi dormii. La mattina seguente, all’alba, mi alzai, indossai i miei vestiti sottili e bagnati e scesi al piano di sotto. Non c’era nessuno in giro; cercai qualcosa da mettere nel mio sacco. Presi un grosso pezzo di pane dal tavolo della sala da pranzo e uscii, tremando nella fredda pioggerellina che continuava a cadere da un cielo coperto di nuvole. Davanti a me si ergeva il Brienzer Grat: un grande muro imponente, che diventava sempre più scuro man mano che saliva verso l’alto, terminando in una linea orizzontale di nebbia.
+
+Per capire cosa dovevo fare dopo, è necessario ripensare alla piccola mappa presente a pagina 105.
+
+Si noterà che la strada più diretta per Roma attraversa il Lago di Brienz piuttosto a est del suo centro, poi supera immediatamente il Wetterhorn e raggiunge la Valle del Rodano in un luogo chiamato Ulrichen. È proprio così che farebbe un uccello, se esistesse un “Papa degli Uccelli” a Roma che avesse bisogno di viaggiare, come ad esempio il grande fulmaro; o se ci fosse qualche antico reliquia sacra per gli uccelli legata a quella città, come ad esempio le ossa del dodo. Ma sto divagando. Il punto è che la linea retta richiederebbe di attraversare il Brienzer Grat, il lago e poi il Wetterhorn. Il che era chiaramente impossibile. Tuttavia, qualsiasi soluzione fosse possibile doveva essere adottata; tra queste possibili soluzioni c’era anche quella di scalare la cresta del Brienzer Grat invece di aggirarla timidamente passando per Interlaken. Dopo averlo fatto, comunque, avrei dovuto attraversare un passo chiamato Grimsel Pass per raggiungere la Valle del Rodano in quel modo. Con tale determinazione ero arrivato qui, nelle zone superiori del fiume Emmen, e ora mi trovavo in una mattina umida, nella valle dove nasce quel corso d’acqua, ai piedi della catena montuosa che mi separava dal lago.
+
+Il Brienzer Grat è davvero un fenomeno straordinario. È piuttosto dritto; le sue cime, naturalmente, hanno altezze diverse, ma viste dal basso sembrano tutte uguali, come una cresta: e in effetti, l’intera montagna assomiglia molto di più a una cresta rispetto a qualsiasi altra abbia mai visto.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_158_the_fog" data-title="The Path to Rome — The Fog" data-chapter="The Fog" data-kind="story" data-tags="motif/fog_and_smoke,motif/journey,motif/flowers,form/travel_writing,setting/mountains"></span>
@@ -6898,6 +9034,18 @@ Now and then a higher mass of rock, a peak on the ridge, would show clear throug
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La nebbia
+
+Si vede che, da un’estremità, c’è una vetta chiamata “Red Horn”; dall’altra estremità, il pendio scende bruscamente sopra Interlaken. Ovunque si decida di tagliare il versante, si otterrà una sezione del genere: è così ripido che difficilmente esiste qualcosa di più scosceso, a parte le rocce verticali. Non ci sono precipizi propriamente detti, ma ci sono delle lastre di roccia pericolose, abbastanza alte da poter uccidere una persona. Ne ho viste alcune alte tre o quattrocento piedi. L’intera montagna ha un’altezza di circa cinque o sei migliaia di piedi e si erge proprio lungo la riva settentrionale del lago di Brienz. Ho iniziato l’ascesa.
+
+Prati morbidi e umidi che si muovevano sotto i piedi e diventavano sempre più ripidi man mano che ci si alzava, occupavano i primi cento metri del percorso. Piccoli ruscelli di umidità scorrevano tra l’erba bassa; fiori minuscoli e nascosti, intrappolati in quell’eccesso di umidità, pendevano appesanti. La pioggia ormai era indistinguibile dalla nebbia; ero infatti così vicino alla fascia di nuvole che la loro oscurità si mescolava con quella luce diffusa che pervade i vapori dall’interno, conferendogli un’atmosfera misteriosa. Davanti a me si estendeva una fitta boscaglia e degli alberi bassi, attaccati alla pendenza del terreno; dopo molte difficoltà e numerosi giri a destra e a sinistra per superare quel groviglio, un filo di nebbia mi avvolse. Da quel momento in poi, mi trovai costantemente immerso in una nebbia ingannevole, nella quale era estremamente difficile valutare il proprio progresso.
+
+Di tanto in tanto, una massa più grande di roccia, una cima sulla cresta, emergeva chiaramente attraverso un corridoio di nuvole per poi nascondersi di nuovo; a volte mi fermavo esitante davanti a un muro o a una lastra rocciosa scoscesa, aspettando che il fumo si spostasse per individuare il modo migliore per aggirarli. Riuscii a trovare quello che poteva essere un sentiero poco definito, o forse solo una gola; lo persi più volte, ma poi lo ritrovai. In un punto specifico, dovetti arrampicarmi.
+
+* * *
 
 
 
@@ -6923,6 +9071,26 @@ My stone had not been a halting-place at all, but was itself the summit
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# La sosta nella nebbia
+
+Per cinquanta piedi risalii una superficie irregolare; solo quando raggiunsi la cima mi resi conto che non faceva parte della salita principale, ma era soltanto un ostacolo che avrei potuto aggirare facilmente. In un altro momento mi fermai per quasi un quarto d’ora vicino al bordo di una parete che sembrava costituita da roccia liscia e scoscesa; in realtà si trattava di una discesa breve, facile da superare per un uomo, e la sua lunghezza non era molto maggiore della mia statura. Così continuai a salire, bagnato fradicio e pieno di dubbi, senza mai essere sicuro dell’altezza che avevo raggiunto.
+
+Finalmente arrivai in un luogo dove c'era una pietra liscia posizionata tra due monoliti sormontati da pilastri, come se fosse stata messa lì apposta per fare da panca. Nonostante intorno a me ci fosse nebbia fitta, riuscivo a vedere sopra di me la forma vaga di una cima che si ergeva piuttosto vicina. Così mi dissi.
+
+“Rimarrò qui ad aspettare che faccia più chiaro; ora devo trovarmi a due o trecento piedi dal vertice della cresta, e poiché dall’altra parte potrebbe esserci qualsiasi cosa, è meglio procedere con cautela e conoscendo bene la strada.”
+
+Mi sedetti quindi rivolto nella direzione in cui dovevo procedere e alzai lo sguardo verso l’alto, nella speranza che un movimento dell’aria potesse rivelarmi, contro il cielo sereno, la linea della cresta montuosa, permettendomi così di stimare il lavoro che mi restava da compiere. Tenevo gli occhi fissi su quel punto, nel timore di perdere qualche improvviso bagliore che potesse rivelarmela; mentre sedevo lì, mi sentii invadere dalla malinconia e iniziai a riflettere sull’assurdità di tentare di raggiungere tale altezza a stomaco vuoto. I soldati della Repubblica spesso combattevano prima di colazione, ma credo che nessuno lo facesse senza aver bevuto del caffè caldo; nessuno dovrebbe infatti intraprendere sforzi così grandi senza un simile rinfrescante prima di iniziare. In effetti, la mia fame, l’aria rarefatta e fredda di quell’altitudine, nonché il freddo e l’umidità che avevano inzuppato i miei vestiti, avevano decisamente abbassato la mia pressione sanguigna, lasciandomi debole, indeciso e tremante. Tremavo, e desideravo ardentemente il sole.
+
+Allora mi ricordai del pezzo di pane che avevo rubato; lo tirai fuori dal mio zaino e iniziai a masticare quel colpevole pasto mattutino. Era duro e stantio, e non mi forniva quasi alcun nutrimento; continuavo comunque a guardare verso l’alto, nella nebbia luminosa e priva di significato, cercando quella cresta.
+
+All'improvviso, senza alcun preavviso che potesse prepararmi mentalmente, una brezza debole ma distinta mi colpì; la nebbia si sollevò verso l'alto in cerchi concentrici, e io vidi davanti a me un’immensità limpida e vuota: non c'erano creste montuose, solo un abisso terribile, coperto da vasti campi bianchi di morte. Le Alpi si ergevano sia sopra che davanti a me, imponenti e dominanti, con distanze infinite di aria vuota sotto di loro. Tra le montagne e me c’era uno spazio stretto, terribile, fatto di nulla e silenzio; un miglio più in basso, sul fondo di quell’enorme vuoto, si trovava il piccolo lago.
+
+Il mio “punto di riferimento” non era affatto un luogo di sosta, ma rappresentava direttamente la vetta stessa.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_160_the_life_qualm" data-title="The Path to Rome — The Life-Qualm" data-chapter="The Life Qualm" data-kind="story" data-tags="topos/sublime_in_nature,motif/silence,concept/the_sublime,concept/fear,concept/solitude,concept/eternity,form/travel_writing,setting/mountains"></span>
@@ -6943,6 +9111,22 @@ There was this disturbing thing about the gully, that it went in steps, and befo
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La tormenta della vita
+
+Dalla cresta, quelle due rocce situate ai suoi lati delimitavano una cavità proprio sul bordo estremo e sull’orizzonte delle alte colline di Brienz.
+
+La sorpresa e lo stupore non ebbero nemmeno il tempo di prendere forma nella mia mente che già vennero sommersi dalla paura. La vicinanza di quella immensa barriera di freddo, le Alpi, viste da quell’altezza media e percepite in tutta la loro vastità come non si potrebbe farlo dalle profondità; l’idea che fossero qualcosa di immutabile per l’eternità, ma allo stesso tempo “morto”, rappresentava una minaccia per la mente umana. Le vaste Alpi, avvolte tutto intorno dal ghiaccio, con la loro immobilità accentuata da quelle sottili nuvole che sembravano fluttuare nelle loro valli, parevano fermare il processo stesso della vita. E l’anima umana, turbata da quella vista, non trovava alcun conforto intorno a sé: nessun albero, nessuna erba, solo rocce ruvide e primordiali. Nella valle non c’erano uccelli, non si sentiva alcun suono. Il bianco dei ghiacciai e il nero delle rocce innevate brillavano senza alcuna traccia di morbidezza. Qualcosa di malvagio era entrato nella loro maestosità. Avevo paura.
+
+Nemmeno riuscivo a sopportare il pensiero di guardare in basso. Quella pendenza non rappresentava alcun pericolo: un uomo avrebbe potuto scalarla senza utilizzare spesso le mani, e avrebbe anche potuto scenderla lentamente, evitando cadute improvvise, anche se a tratti avrebbe dovuto girarsi ad ogni curva o gradino e aggrapparsi con le mani per trovare un appiglio sicuro. Immagino che la pendenza complessiva, verso il basso, fino al punto in cui iniziava il verde, non superasse i sessanta gradi. Ma avete mai provato a guardare giù da una distanza di cinquemila piedi con una pendenza di sessanta gradi? È qualcosa che “trascina” la mente verso il basso. Non riuscivo proprio a iniziare quella discesa.
+
+Tuttavia, ragionai con me stesso. Mi dissi che un uomo dovrebbe temere solo i veri pericoli. Quel incubo non apparteneva alla luce del giorno. Ora non c’era più nebbia, ma solo un caldo sole. Così, scegliendo un burrone in cui a volte scorreva l’acqua, ma che ora era asciutto, iniziai ad scendere con cautela, usando il mio bastone e appoggiandomi bene all’indietro.
+
+C'era qualcosa di inquietante in quel burrone: presentava delle gradinate, e prima di ogni gradino si poteva vedere il cielo a soli un paio di metri di distanza; così si perdeva la vista rassicurante della terra. Si sapeva naturalmente che si trattava solo di una piccola discesa, e che la pendenza sarebbe ricominciata poco dopo, ma questo non bastava a tranquillizzare le persone. Era davvero difficile scendere o arrampicarsi per quattordici, quindici piedi, a volte anche venti, solo per poi scoprire di non trovare alcun punto stabile su cui appoggiarsi, ma soltanto quella pendenza eterna che ricominciava da capo. Questa rappresentazione, nella quale ho un po' esagerato la pendenza, dovrebbe chiarire ciò che intendo. La linea tratteggiata indica il campo visivo proprio quando si raggiunge una “gradinata”; la piccola figura rappresenta l’AUTORE; il LETTORE, invece, è in alto, a guardare verso di lui. Notate la prospettiva del lago sotto di voi, ma non fate commenti.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_161_the_steep" data-title="The Path to Rome — The Steep" data-chapter="The Steep" data-kind="story" data-tags="setting/mountains"></span>
@@ -6958,6 +9142,18 @@ Then I saw a steamer on the lake. I felt in touch with men. The slope grew easie
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# La Pendenza Ripida
+
+Camminavo molto lentamente. Quando ero arrivato a metà discesa e mi trovavo in un punto in cui su un lato c’era una cresta di rocce accumulatesi, mentre piccole sporgenze parallele conducevano verso l’alto, essendomi ormai abituato a quella discesa e sentendomi più a mio agio, mi sedetti su una lastra di roccia e tracciai in modo imperfetto ciò che vedevo: il lago sotto di me, le prime foreste che si estendevano ai piedi delle Alpi, le loro pendici più alte coperte di neve, e le nuvole che avevano iniziato a radunarsi intorno ad esse, nascondendo completamente l’ultimo terzo della loro enorme altezza.
+
+Allora vidi una nave a vapore sul lago. Mi sentii in contatto con gli uomini. La pendenza diventava più dolce. Fischiai verso quei grandi “diavoli” che infestano le alte [[Mountains|montagne]]. Inspirai l’aria pesante ma piacevole delle valli più basse. Entrai.
+
+* * *
+
+* * *
 
 
 
@@ -6979,6 +9175,22 @@ Now these two walls converge at a point where there is a sort of knot of mountai
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Cattiva geografia
+
+Cintura di legno. E presto iniziai ad avanzare velocemente tra gli alberi, perché avevo trovato un sentiero e ora potevo anche cantare. Così feci.
+
+Finalmente riuscii a vedere attraverso gli alberi; a qualche centinaio di piedi sotto di me si estendeva la strada che costeggia il lago. Abbandonai il sentiero e scesi dritto verso di essa. Raggiunsi un muro che scalai, e mi ritrovai nel giardino di qualcuno. Attraversandolo e ammirando la sua bellezza e l’ordine che vi regnava (feci attenzione a non calpestare i prati), aprii una piccola porta secondaria e uscii sulla strada. Da lì, Brienz era a pochi passi: una strada ben pavimentata, sotto il caldo sole mattutino; il lago tranquillo si trovava a meno di cinque metri a destra, mentre a sinistra c'erano alberi deliziosi che mi ombreggiavano.
+
+Ero quindi asciutto, pronto e soddisfatto quando, verso metà mattina, entrai nella curiosa città di Brienz, che consiste interamente in una lunga strada e la cui popolazione è protestante. Dico asciutto, pronto e soddisfatto: asciutto nei vestiti, pronto per il cibo, soddisfatto della gente e della natura intorno a me. Ma appena entrai, alzai lo sguardo su quella interminabile pendenza e vidi la nebbia avvolgere di nuovo la cresta sopra di me; mi resi conto di essere stato uno sciocco ad attraversare il Brienzer Grat senza colazione. Tuttavia, nessuno a Brienz fu d’accordo con me: nessuno pensava che l’avessi fatto, anche se diverse persone laggiù parlavano francese.
+
+Il Passo del Grimsel è la valle del fiume Aar; rappresenta anche il versante orientale di quel vasto massiccio montuoso chiamato Oberland bernese. La Svizzera occidentale, come dovete sapere, non è una pianura circondata da un anello di montagne, ma piuttosto: nella sua metà settentrionale si tratta di una pianura (la pianura del basso Aar), mentre nella sua metà meridionale si estendono due enormi catene montuose parallele. Le chiamo “catene montuose” perché sono così ampie e tortuose che a malapena possono essere considerate vere e proprie catene. Queste due catene sono l’Oberland bernese e le Alpi Pennine; tra di loro scorre una profonda valle, quella del Rodano. Prendete il Mont Blanc a ovest e una cima chiamata Crystal Peak sopra la Val Bavona a est: essi costituiscono i bastioni laterali di un’unica grande catena montuosa, le Alpi Pennine. Prendete invece i Diablerets a ovest e il Wetterhorn a est: anch’essi rappresentano i bastioni laterali di un’altra grande catena montuosa, l’Oberland bernese. E queste due catene sono parallele, con il Rodano che le separa.
+
+Ora questi due muri si incontrano in un punto in cui si forma una sorta di intreccio di creste montuose, e questo punto può essere considerato come appartenente al confine.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_163_a_doubtful_map" data-title="The Path to Rome — A Doubtful Map" data-chapter="A Doubtful Map" data-kind="story" data-tags="archetype/pilgrim"></span>
@@ -6997,6 +9209,20 @@ You will observe that I have marked five clefts or valleys. A is that of the Aar
 On the other hand, D is the valley of the Toccia, E of the Maggia, and
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Una mappa dubbia
+
+Tra la Svizzera orientale e quella occidentale. In questo meraviglioso punto iniziano il Ticino, il Rodano, l’Aar e il Reuss; ed è proprio qui che la semplice disposizione delle Alpi a ovest si trasforma nella complessa confusione delle Alpi a est.
+
+Quando ti trovi in posizione elevata su uno dei due muri, puoi avere una visione d'insieme di tutto ciò che è accaduto; tuttavia, per evitare descrizioni confuse e per aiutarvi a comprendere quella straordinaria, geniale e mai tentata manovra offensiva e marziale che io intrapresi – e che, purtroppo, si concluse con una sconfitta gloriosa – vi allego una piccola mappa, approssimativa ma chiara e comprensibile. Vi prego di studiarla attentamente: vi aiuterà sicuramente a capire ciò che accadde successivamente nel mio “pellegrinaggio”.
+
+Le strisce scure rappresentano le valli profonde e divise; la fascia oscura indica quella zona più elevata che, tuttavia, è ancora percorribile da un uomo comune. La parte lasciata bianca può essere considerata come quei vasti campi di ghiaccio e neve, con cime imponenti, che un uomo ordinario dovrebbe ritenere inaccessibili, a meno che non possa aspettare le condizioni meteorologiche adatte, assumere guide e viaggiare come turista, invece che come [[Pilgrim|>pellegrino]].
+
+Osserverete che ho segnato cinque valli o gole. La A è quella del fiume Aar, e la piccola macchia bianca iniziale rappresenta il lago di Brienz. La B è quella del fiume Reuss. La C è quella del fiume Rodano; tutte e tre si trovano a nord della grande catena montuosa principale, ed sono tutte abitate da persone di lingua tedesca.
+
+Dall’altra parte, D è la valle della Toccia, E quella della Maggia…
+
 
 
 <span class="atom-split" data-atom="story_164_more_geography" data-title="The Path to Rome — More Geography" data-chapter="More Geography" data-kind="story" data-tags="setting/italy"></span>
@@ -7014,6 +9240,20 @@ But every one I asked told me that thus early in the year (it was not the middle
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Più geografia
+
+Il Ticino. Tutti e tre questi territori si trovano a sud della grande linea di divisione idrografica ed sono abitati da persone di lingua italiana. Tutti e tre questi corsi d’acqua sfociano infine nel Lago Maggiore, e da lì proseguono verso Milano e poi fino a Roma.
+
+La linea dritta che conduce a Roma è indicata sulla mia mappa con una linea tratteggiata che termina in una freccia; vedrete che è stata soltanto una questione di fortuna il fatto che questa linea attraversasse proprio quel groviglio di catene montuose da cui nascono tutti i fiumi. Il problema consisteva nel trovare un percorso che permettesse di passare dalla valle dell’Aar a una delle tre valli italiane, senza allontanarsi troppo dalla linea dritta che avevo stabilito. Per spiegare il mio itinerario, devo menzionare i nomi di tutti i passi montani che si trovano tra queste valli: quello tra A e C è chiamato Grimsel; quello tra B e C Furka; quello tra D e C Gries Pass; quello tra F e C Nufenen; mentre quello tra E e F non è affatto facile come sembra sulla mappa: in realtà si tratta più che altro di una salita estremamente difficile su cime molto alte, ed è chiamato Crystalline Mountain. Infine, in fondo a destra sulla mia mappa, vedete un passo montano importante tra B e F: questo è il famoso St Gotthard.
+
+Il percorso più diretto era: (1) attraversare il Grimsel, poi, non appena entrato nella valle del Rodano, uscire di nuovo attraverso i monti Nufenen; successivamente, una volta raggiunta la valle del Ticino, uscire ancora una volta attraverso i monti Crystalline per arrivare nella valle della Maggia. Una volta nella valle della Maggia (la sua parte superiore si chiama Val Bavona), il cammino proseguiva dritto verso i laghi e Roma. Questo percorso presentava anche altri vantaggi: mi trovavo in un luogo molto poco frequentato – tutti i guide turistiche erano piuttosto incerte riguardo a questa strada; il tragitto era sostanzialmente diretto; inoltre, riuscivo a compiere una vera impresa, ovvero attraversare quei passi montani uno dopo l’altro (e bisogna ricordare che sui monti Nufenen non esiste alcuna strada).
+
+Ma tutti quelli a cui chiesi mi dissero che a queste prime settimane dell’anno (non era nemmeno la metà di giugno) non potevo sperare di attraversare il Crystalline. Nessuno, dicevano, ci sarebbe riuscito e sarebbe sopravvissuto. C’era solo ghiaccio, neve, fredda nebbia e pericoli insiti nei dirupi; non c’era alcuna possibilità di attraversare. Quindi non aveva senso tentare di superare il passo di Nufenen se poi sarei stato bloccato dal Crystalline. Decisi quindi di provare con il passo di Gries. Mi dissi: “Attraverserò il Grimsel, e una volta nella valle del Rodano camminerò un miglio o due fino al punto in cui si apre il passo di Gries, e da lì entrerò in [[Italy|Italia]]”. Il passo di Gries, anche se non seguiva esattamente una linea retta, aveva questo vantaggio: una volta superato, ti trovavi davvero in [[Italy|Italia]]. Nella valle del Ticino o nel Val Bavona, anche se la gente era altrettanto italiana quanto Catullo, politicamente facevano parte della Svizzera. Quindi entrare in [[Italy|Italia]] da quella parte significava non essere improvvisamente catapultati nel paese, ma essere “inoculati” gradualmente, passo dopo passo. Il che, a mio parere, era un peccato. Le cose belle, infatti, dovrebbero arrivare all’improvviso.
+
+* * *
 
 
 
@@ -7037,6 +9277,24 @@ For they were all bawling and howling, with great placards and tickets, and sayi
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il principio del male
+
+Proprio come la fine di quell’uomo malvagio, il signor (censurato dal filtro di moderazione), che aveva oppresso i poveri per circa quarant’anni. Quando fu ucciso da un colpo alle spalle, morì in poco tempo, tanto quanto basta per bollire un uovo. E così finì la sua storia.
+
+Avendo chiarito perfettamente che avevo un piano preciso: attraversare il Grimsel lungo la nuova strada, poi salire sul Gries – dove non c’è affatto strada – e infine scendere nella valle del Tosa; calcolando inoltre che il giorno dopo sarei arrivato in [[Italy|Italia]], partii da Brienz dopo aver mangiato abbondantemente, verso mezzogiorno; avevo già, come sapete, attraversato il Brienzer Grat da[[Dawn|_alba]].
+
+Il compito di quel pomeriggio era troppo arduo per me; inoltre, non riuscii nemmeno a portarlo a termine. Da Brienz fino alla cima del Grimsel, in linea d’aria, ci sono circa venti miglia; lungo la strada, invece, ben venticinque-sette miglia. È vero che ero appena arrivato da oltre le alte colline, forse avevo percorso sei miglia in linea retta. Ma che sei miglia! E tutto senza cibo. Non sapevo quindi con certezza quanto di quel tratto avrei potuto realmente percorrere quel giorno, ma, come un idiota, continuai ad avanzare nelle prime miglia.
+
+Per un'ora o più, dopo Brienz, la strada costeggia la base di una grande roccia maestosa per poi allontanarsene. Qui si trova una pianura alluvionale che sembra un’estensione del lago; attraverso di essa scorre il fiume Aar, canalizzato e bordato da argini, e anche la strada diventa dritta. Su entrambi i lati si ergono enormi scogliere che circondano la valle; (il giorno in cui vi passai) queste scogliere raggiungevano le nuvole, che, pur essendo alte, formavano una sorta di tetto per la valle. A sinistra, tra le grandi [[Mountains|montagne]], spuntava isolata quella nobile roccia che dominava sulla piccola pianura; a destra, i contrafforti delle Alpi principali si allineavano in fila, e tra di loro si levavano vortici di vapore altissimi, proprio sopra le zone dove la neve ancora aderiva alle pendici. Questi vortici rendevano le parti più ripide ancora più avvolte nella nebbia, fino a quando scomparivano in una sorta di oscurità totale; nelle ultime zone, i massimi bordi dei ghiacciai sembravano essere inghiottiti da quell’oscurità. Spesso mi fermavo per guardare direttamente verso l’alto e meravigliarmi di quel silenzio assoluto.
+
+Era all’inizio del pomeriggio quando arrivai in un posto chiamato Meiringen, e pensai che lì avrei potuto mangiare e bere qualcosa in più. Così entrai nella strada principale, ma lì trovai un tale clamore e rumore come non avevo mai sentito prima; era davvero terribile. Sembrava che le persone fossero decise a compiere atti malvagi ovunque Dio avesse dato loro la possibilità di vivere nel timore e nell’adorazione.
+
+Perché tutti gridavano e urlavano, brandendo grandi cartelli e biglietti, e dicendo: “Da questa parte si arriva alla Cascata Straordinaria; da quella parte si entra nella Grotta Strana. Venite con me e vedrete le cascate che non si dimenticheranno mai, ”
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_166_the_loud_noise" data-title="The Path to Rome — The Loud Noise" data-chapter="The Loud Noise" data-kind="story" data-tags="archetype/pilgrim"></span>
@@ -7059,6 +9317,24 @@ My boots in which I had sworn to walk to Rome were ruinous. Already since the We
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il rumore assordante
+
+“L’AAR”, e così via. Così la mia illusione di essere solo nelle radici del mondo svanì molto rapidamente, e mi chiesi come le persone potessero essere così indifese e stupide da viaggiare in Svizzera come turisti e incontrare tutta questa volgarità e bestialità.
+
+Se un uomo decide di bere del buon vino, non dice: “Perché il vino sia buono, non mi dispiace mangiare pepe forte o annusare l’odor di chiodi di garofano mentre lo bevo”; e se un uomo decide di leggere un bel poema, ad esempio quello di Jean Richepin, non dice: “Continua a suonare il trombone, continua a battere i cimbali; finché leggo bei versi, sono soddisfatto”. Eppure oggi le persone vanno nelle vaste colline, dormono e vivono nei loro rifugi, fingendo di essere indifferenti a tutti quegli annunci pubblicitari, ai clamori, alle frette, agli hotel, ai prezzi elevati e a tutte le altre cose spiacevoli. Grazie a Dio, le cose seguono ormai schemi precisi. Ripeto: grazie a Dio, i treni sono come trincee che drenano la nostra “palude moderna”; basta evitare i treni, anche solo di cinque miglia, e si può trovare più pace di quanta ne possa contenere un sacchetto. Da quando sono stati costruiti i treni, tutto il mondo è diventato il mio giardino, mi hanno permesso di tenermene lontano.
+
+Inoltre, ho fatto un voto alla Vergine Nera di La Delivrande (la prossima volta che passerò da lì): ero finalmente libero dal ruolo di turista, e tutto quel terribile rumore non mi riguardava più. Io, infatti, ero solo un povero e sporco [[Pilgrim|>pellegrino]], assolutamente non una preda per tassisti, autisti, guide o corrieri. Ma soltanto parte di una folla di turisti stanchi, tristi e annoiati arrivati in treno.
+
+Presto li lasciai indietro. La strada iniziava a salire verso l’alto nella valle, aggirando una roccia; dall’altra parte di essa il fiume Aar aveva scavato un burrone, precipitandosi giù con rapide impetuose. Poi la strada proseguiva, miglio dopo miglio, e io continuai ad seguirla. Saliva lentamente, mentre il fiume Aar scorreva incessantemente accanto a me, ruggendo e riempiendo la valle superiore di echi.
+
+Superai i villaggi. La luce che filtrava attraverso la nebbia iniziò ad assomigliare alla luce del tramonto. Iniziò a piovere una pioggia fine e leggera; faceva freddo. Lungo la strada, incrociò un carro con il telone alzato che procedeva a tutta velocità. Non poteva provenire dall’altra parte della collina, perché sapevo che non era ancora aperta ai carri e alle slitte. Quindi doveva provenire da qualche hotel. Se c’era un hotel, l’avrei sicuramente trovato. Guardai indietro per valutare la distanza, ma erano ormai troppo lontani; quindi proseguii.
+
+Le mie scarpe da montagna, su cui avevo giurato di camminare fino a Roma, erano ormai in condizioni disastrose. Già dopo il Weissenstein presentavano dei buchi, e ora il Brienzer Grat aveva completamente rovinato la suola di una delle scarpe, lasciando il tacco scoperto. Mentre camminavo, quella suola si muoveva a ogni passo. Davvero terribile.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_167_the_snow_blink" data-title="The Path to Rome — The Snow Blink" data-chapter="The Snow Blink" data-kind="story" data-tags="motif/road,motif/snow,motif/food_and_feasting,motif/wine_and_drink,concept/endurance,form/travel_writing,histref/calvinism,setting/mountains"></span>
@@ -7079,6 +9355,22 @@ To this I turned and found there one of those new hotels, not very large, but ve
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#La neve che lampeggia
+
+Tra poco dovrò continuare il mio cammino. Zoppicavo, e odiavo quella pioggia fredda e umida. Ma dovevo andare avanti. Invece di agitare la mia canna e cantare, mi appoggiavo a essa con dolore, pensando al dovere, alla morte, all’abbandono, e a tutte le altre cose orribili che iniziano per “D”. Dovevo andare avanti. Se fossi tornato indietro, non ci sarebbe stato nulla per chilometri intorno.
+
+Prima che facesse buio – anzi, si poteva ancora leggere – vidi un gruppo di case oltre il fiume Aar; poco dopo capii che la mia strada le avrebbe attraversate, passando sopra un ponte. Quando le raggiunsi, entrai nella prima casa e pensai: “Mangerò, e se non riuscirò ad andare oltre, dormirò qui”.
+
+C'erano in casa due donne: una anziana e l'altra giovane; parlavano francese ed erano originarie della regione del Vaud. Avevano il viso tipico delle persone scozzesi, erano molto gentili, ma anche un po’ strane, essendo calviniste. Dissi loro: “Avete dei fagioli?” Risposero di sì. Proposi che mi preparassero un piatto di fagioli e pancetta, e che mi dessero anche una bottiglia di vino, mentre mi asciugavo vicino al loro grande camino. Fecero tutto questo volentieri; mangiai e bevvi con gusto. Poi mi chiesero di trascorrere la notte da loro e di pagarle per l’ospitalità. Ma ero così sazio che mi scusai e me ne andai di nuovo, riprendendo il mio viaggio. Non era ancora buio.
+
+Attraverso i riflessi dei campi innevati, ormai ben visibili nella nebbia, la luce del giorno si trattenne sorprendentemente a lungo. Il freddo diventava sempre più intenso man mano che proseguivo nel buio. Non c'erano alberi, se non rari pini stenti. Il fiume Aar era un corso d’acqua poco profondo e tumultuoso, pieno di ghiaccio sciolto, neve e fango. Sulle rocce cresceva solo erba ruvida; non c'erano fiori. La nebbia sopra la mia testa era ormai molto vicina, ma continuavo ad avanzare, sempre più in alto nella penombra. Era un luogo altrettanto desolato di una calma superficie marina, tranne per il rumore del fiume. Ero completamente esausto; quella barriera protettiva che, quando siamo sani, nasconde da noi gli abissi dell’anima, sentivo che stava diventando debole e fragile. La mia stanchezza mi confondeva. Le occasionali pendenze lungo il cammino, soprattutto quella sotto un alto ponte dove un affluente si gettava nel fiume Aar in una cascata, mi spaventavano. Sembravano l’oscurità dei sogni. Alla fine, quando fu completamente buio e io ero ormai immerso nella nebbia, o meglio, nelle nuvole (poiché mi trovavo all’altezza delle nuvole), vidi una luce che brillava tra gli alberi, poco lontano dalla strada. Era arrivato il momento. Non avrei potuto andare oltre.
+
+Mi voltai e vidi uno di quei nuovi hotel: non molto grande, ma molto costoso. Mi riconobbero subito per ciò che ero e mi accolsero con gioia. Mi offrirono rum caldo con zucchero, un bel letto caldo, e mi dissero che ero il primo cliente ad alloggiarvi quell’anno. Dormii profondamente, ma anche soffrendo, come fanno gli uomini storditi. Ma due volte.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_168_head_of_the_pass" data-title="The Path to Rome — Head Of The Pass" data-chapter="Head Of The Pass" data-kind="story" data-tags="setting/mountains"></span>
@@ -7098,6 +9390,22 @@ Some little way past the summit, on the first zig-zag down, I passed the Lake of
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Capo del Passo
+
+Di notte mi svegliai all’improvviso, fissando l’oscurità. Avevo superato i limiti del sistema fisico di cui l’anima dipende, e ero pieno di terrore.
+
+La mattina seguente ebbi del buon caffè, pane e burro, insomma tutto ciò che si addice a un uomo ricco; mi trovavo in una sala da pranzo dorata, arredata apposta per i ricchi, servito da un individuo che si inchinava continuamente. Inoltre, mi fecero pagare molto, evitavano di guardare le mie scarpe e continuarono a essere cortesi sia con me che io con loro. Allora comprai del vino da loro: il primo vino non prodotto nella zona che bevessi in questo viaggio, un Borgogna. Lo misi nello zaino insieme a un delizioso rotolo di pane bianco, e li lasciai ad aspettare il prossimo cliente che le colline avrebbero potuto mandare loro.
+
+Le nuvole, la nebbia, erano più dense che mai in quella mattina presto; si riusciva a vedere solo la strada immediatamente davanti. Il freddo era molto intenso; i miei vestiti non erano ancora del tutto asciutti, ma ero pieno di entusiasmo e proseguii abbastanza bene, sebbene con difficoltà, fino a quando non arrivai a quello che chiamano l’Ospizio, che un tempo doveva essere stato un monastero, ma ora è una locanda. Lì bevvi del brandy; uscendo notai che si trovava ai piedi di una cresta scoscesa, che era il vero Passo Grimsel, il punto di collegamento tra l’Oberland bernese e il gruppo orientale di alte [[Mountains|montagne]]. Questa cresta era ripida come un tetto a spiovente; mi sembrò molto alta, composta interamente da roccia nera e lucida, con chiazze di neve disposte in strati scoscesi e regolari che vi si attaccavano appena. A causa della nebbia, riuscivo a vedere solo una piccola parte di essa alla volta.
+
+Per tutte queste miglia, l’Aar era stato il mio compagno di viaggio; la strada, sebbene salisse costantemente, lo faceva in modo uniforme e non ripido. Ora l’Aar era rimasto indietro, nella valle ghiacciata dove nasce, mentre la strada proseguiva lungo una serie di zigzag artificiali e ben costruiti sul versante della scogliera. C’era un percorso più breve, ma non riuscii a trovarlo nella nebbia. Era l’antico sentiero per muli. Tuttavia, in alcuni punti era possibile aggirare gli ostacoli arrampicandosi sulle rocce scure e lisce e sul ghiaccio; intanto, la fredda nebbia continuava a avvolgermi. Dopo aver percorso circa mille piedi in questo modo, raggiunsi la cima del Grimsel, ma solo dopo essere passato attraverso un luogo dove una valanga aveva distrutto la strada e dove erano state posate delle assi per permettere il transito. Inoltre, prima di arrivare alla vetta vera e propria, non era possibile utilizzare alcun percorso alternativo o compiere arrampicamenti: la strada proseguiva in un burrone profondo, simile a una stradina del Devonshire. Solo qui i ripidi versanti erano completamente coperti di neve.
+
+Un po’ oltre la cima, al primo zig-zag verso il basso, passai davanti al Lago dei Morti nella sua desolata conca. La nebbia avvolgeva ancora tutta la cresta; si muoveva come una sorta di “onda spirituale” sopra l’acqua ghiacciata. Poi, all’improvviso – proprio come sul Brienzer Grat molto più in basso.
+
+* * *
 
 
 
@@ -7121,6 +9429,24 @@ For instance, those noble hills, my downs in Sussex, when you are upon them over
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Digressione
+
+Verso sud, verso il sole, le nuvole si sollevarono e scomparvero; al loro posto non rimase che un’immensità d’aria vuota, e improvvisamente si poterono vedere colline chiare in lontananza, oltre a piccole forme strane situate migliaia di piedi più in basso.
+
+LETTORE: Speriamo davvero di leggere ancora qualcosa di così ben scritto.
+
+AUTORE: Lì vidi, come in una coppa, elementi che avevo ritenuto (quando avevo studiato la mappa per la prima volta a casa) troppo sparsi e distanti per poter essere inclusi nella rappresentazione visiva. Eppure, lì erano tutti racchiusi insieme, molto vicini tra loro; l’intera area era concepita su una scala davvero vasta. Si trattava della catena di [[Mountains|montagne]] di cui avevo parlato; del punto in cui si incontravano tutte le valli.
+
+Lì, dall’altezza di una scarpata ripida, per così dire (ma una scarpata alta migliaia di piedi), si poteva guardare giù su un intero quartiere o addirittura un piccolo mondo. Sul mapa, avevo pensato che fosse così vasto da poter essere controllato soltanto in questa o quella sua parte; invece, si poteva vedere tutto intero.
+
+E questa è una cosa particolare che ho notato in tutte le [[Mountains|montagne]] e che non sono mai riuscito a comprendere: cioè, se si disegna un piano o una sezione in scala reale, la montagna non sembra affatto qualcosa di così importante. In teoria, non dovrebbe essere possibile dominare il mondo dalla sua altezza, né sentirlo piccolo sotto di sé, né avere l’impressione di poter controllare un intero paesaggio con una sola mano. Eppure è proprio così che avviene. Le [[Mountains|montagne]], dalla loro altezza, ci rivelano due verità: da un lato, ci fanno improvvisamente rendere conto della nostra insignificanza; dall’altro, liberano la mente umana, permettendole di percepire la propria grandezza e di sentirsi parte di qualcosa di più vasto. Ma ripeto ancora: in teoria, considerando esattamente la relazione tra l’altezza delle montagne e le distanze che si possono osservare da esse, non dovrebbero avere un tale effetto. E il fatto che lo abbiano è legato a qualcos’altro: al modo in cui esagerano la propria ripidezza.
+
+Ad esempio, quelle nobili colline, le mie terre nel Sussex. Quando ci si trova sopra di esse e si può ammirare la foresta pluviale, diciamo da Chanctonbury, si ha questa sensazione.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_170_interlude" data-title="The Path to Rome — Interlude" data-chapter="Interlude" data-kind="story" data-tags="setting/mountains"></span>
@@ -7143,6 +9469,24 @@ I scrambled down the mountain, for here, on the south side of the pass, there wa
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Interludio
+
+O addirittura ancora più basso. Infatti, è impossibile valorizzarli davvero: sono così insignificanti. Se il tratto di territorio della Weald fosse lungo quasi un metro, Chanctonbury non sarebbe, in proporzione, alto più di un quinto di pollice! Eppure, dalla cima di Chanctonbury, sembra che tutto ciò che si trova sotto possa essere facilmente dominato.
+
+Beh, quindi proveniva proprio dal Grimsel il luogo da cui avevo trascurato le sorgenti del Rodano. Nella giusta proporzione, la valle che stavo osservando doveva essere più o meno così.
+
+“Sembrava davvero qualcosa di profondo e completamente al di sotto di me, proprio come quest’altro…”
+
+Inoltre, lì dove non c'era nebbia, l'aria era così sorprendentemente limpida che riuscivo a vedere tutto con chiarezza e nitidezza, ovunque girassi lo sguardo. Le [[Mountains|montagne]] impedivano la vista di orizzonti più lontani; tutto ciò che riuscivo a vedere era così ordinato e vivido come quelle fotografie a colori che vendono, con erba verde brillante, neve bianca luminosa e ghiacciai blu simili a pietre preziose.
+
+Scalai a fatica la montagna: qui, sul versante sud del passo, non c'era né neve né ghiaccio, quindi era abbastanza facile lasciare la strada principale e prendere il vecchio sentiero che evitava i tornanti. Man mano che l’aria diventava più densa, iniziai ad avere fame; verso la fine della discesa, a circa duecento piedi sopra il giovane fiume Rodano, vidi un grande hotel. Andai davanti alla loro porta e chiesi se potevo mangiare e a quale prezzo. “Quattro franchi,” mi risposero.
+
+“Che cosa!” dissi, “quattro franchi per un pasto! Lasciate che mangi in cucina e mi addebitino solo uno.” Ma diventarono scortesi e testardi, essendo abituati a trattare solo con persone ricche; così li maledissi e proseguii per la mia strada. Tuttavia, avevo molto fame.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_171_the_second_good_woman" data-title="The Path to Rome — The Second Good Woman" data-chapter="The Second Good Woman" data-kind="story" data-tags="motif/inn_tavern,motif/road,motif/eyes_and_sight,motif/river,concept/virtue,concept/hospitality,form/travel_writing"></span>
@@ -7160,6 +9504,20 @@ And, by the way, would you like to know why universities suffer from this curse 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La seconda donna buona
+
+La strada discende con una pendenza abbastanza ripida; il Rodano, che la accompagna in quella valle, scorre formando piccoli salti d’acqua. Su un ponte incontrai un uomo inglese triste che leggeva un libro; poco più avanti vidi due donne americane in una carrozza, e poi un prete. Fu fortuna che non lo vedessi prima: comunque, subito trovai qualcosa di utile, ovvero una chiave nella mia tasca. In seguito incontrai anche un bambino che badava a una capra. Insomma, mi sentii di nuovo “nel mondo reale”; poiché la strada era in discesa, pensai di riuscire ad arrivare al villaggio successivo. Ma la mia fame era davvero estrema. La mia scarpa destra era quasi distrutta, e quella sinistra non valeva certo la pena essere menzionata. Alla fine raggiunsi un punto da cui si poteva ammirare per chilometri la valle del Rodano: sembrava una lunga trincea; qua e là si vedevano piccoli villaggi costruiti con capanne sporche, erette su grandi massi di pietra. Su entrambi i versanti dei monti crescevano pini che raggiungevano le nuvole. Lasciai alle mie spalle un villaggio chiamato “Between the Waters”; passai anche per un altro chiamato “Ehringen”, ma lì non c’era nessuna locanda. Dopo altre due miglia, ormai debilitato dalla fame, arrivai a Ulrichen, un villaggio leggermente più grande degli altri. Pensai che da lì si potesse iniziare il cammino verso i passi di Gries o Nufenen. A Ulrichen c’era una piccola locanda calda, fatta di legno, con tetti bassi e un ambiente un po’ trasandato. Ma accedendovi, vidi una donna. Una donna che Dio ama.
+
+Era di mezza età, molto onesta e semplice nell’aspetto, gentile e buona. Stava occupandosi di cucinare e simili cose; si avvicinò a me curvando un po’ la schiena, con gli occhi grandi e innocenti, e in mano una grande cucchiaiata. Il suo viso era estremamente largo e piatto; non avevo mai visto occhi così distanti tra loro. Tutto il suo modo di camminare, i suoi modi e il suo accento dimostravano che fosse davvero una persona molto buona, sulla retta strada per il cielo. La salutai in francese; lei mi rispose nello stesso idioma, ma con un linguaggio molto semplice e rustico, poiché la sua lingua madre era una sorta di tedesco di montagna. Parlava molto lentamente, aveva una voce dolce e gentile. E faceva solo le cose che fanno le persone buone: mi guardava negli occhi mentre parlava con me.
+
+Fate attenzione alle persone con lo sguardo sfuggente: non si tratta solo di nervosismo, ma anche di una sorta di malvagità. Queste persone non portano mai nulla di buono. Mentre scrivo, ne ho tre in mente. Uno di loro è un professore.
+
+E, a proposito, vorreste sapere perché le università soffrono di questa maledizione delle malattie nervose? Perché grandi personalità balbettano o soffrono della danza di San Vito, o borbottano senza sosta, o camminano in modo strano, o hanno la testa che gira, o le dita che tremano, o vivono tutta la loro vita con.
+
+* * *
 
 
 
@@ -7189,6 +9547,30 @@ At this she made a most fearful clamour, saying that it was madness, and implori
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Sulla mania per le università
+
+Guarda con occhi che brillano come quelli di un'auto. Eh? Te lo spiego: è la punizione per il loro orgoglio intellettuale, un peccato che offende ancora di più gli angeli rispetto a qualsiasi altro.
+
+Che cosa! Ci troviamo in questo meraviglioso mondo di Dio che ci circonda: possiamo cantare, disegnare, dipingere, costruire, navigare, cavalcare, correre, saltare; abbiamo in eredità l’amore nella giovinezza e la memoria nella vecchiaia. Eppure dobbiamo utilizzare soltanto una singola, misera facoltà: il nostro intelletto – unico, imperfetto, limitato, spesso irritabile e scontroso – o meglio, quella nostra curiosità analitica, che in realtà non è altro che un appetito malato. E dobbiamo permettere a questa facoltà di inghiottire tutte le altre capacità umane? Basta con queste sciocchezze.
+
+LETTORE: Quando potremo passare a.
+
+AUTORE: Aspetti un momento. Basta con queste sciocchezze. Nota che i pedanti perdono completamente ogni senso delle proporzioni; non riescono mai a rimanere razionali durante una discussione. Diventano pazzi riguardo a argomenti di cui sono totalmente incapaci di giudicare, come la Religione armena o la Politica di Parigi, e simili. Non usano mai quelle tre frasi che aiutano un uomo a mantenere l’equilibrio mentale: cioè “Dopotutto, non è affar mio”, “Tut! tut! Non dire così!” e “Credo in Unum Deum Patrem Omnipotentem, Factorem omnium visibilium atque invisibilium”. Quest’ultima frase contiene una forza di sintesi capace di ordinare tutto quel disordine analitico in qualcosa di chiaro, coerente e compatto. Qualcosa che li lascerebbe davvero stupiti. Capisco che abbiano bisogno di sei mesi di vacanza all’anno. Se fosse per me, ne prenderebbero dodici, più un giorno in più negli anni bisestili.
+
+LETTORE: Per favore, torna dalla donna all’ostello.
+
+AUTORE: Lo farò, e in questo modo: dire che nel giorno del Giudizio, quando San Michele peserà le anime sulle sue bilance, e i malvagi saranno portati via dal Diavolo con una grande corda – come potete vederli sopra il portico principale di Notre Dame – spero di lanciare anch’io una pietra contro di loro. Tutte le anime dei pedanti messi insieme non peseranno e non avranno lo stesso valore dell’anima di questa buona donna all’osteria.
+
+Mi mise davanti del cibo e del vino. Il vino era buono, ma nel cibo c'era qualche erba o sostanza sconosciuta che non avevo mai assaggiato prima: un condimento o un aroma puro, ma al contempo disgustoso. Non si percepiva altro sapore; era rivoltante. Ma l’ho mangiato per amor suo.
+
+Poi, molto rinfrescato, mi alzai, presi il mio grande bastone, mi scossi e dissi: “Ora è quasi mezzogiorno; vado verso la frontiera.”
+
+In quel momento fece un gran clamore, dicendo che era pazzia, e mi supplicò di non pensarci più; poi corse fuori dallo stallo e tornò con un uomo alto, dall’aspetto triste e dagli occhi pallidi. Quell’uomo mi salutò profondamente e mi disse.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_173_the_impassable_hills" data-title="The Path to Rome — The Impassable Hills" data-chapter="The Impassable Hills" data-kind="story" data-tags="setting/mountains"></span>
@@ -7207,6 +9589,20 @@ The rain beat on my window, the clouds came lower still down the mountain. Then 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le colline insuperabili
+
+Conosceva quelle [[Mountains|montagne]] meglio di chiunque altro nelle vicinanze. E dopo averne chiesto spiegazioni a molte persone, ho scoperto che ciò era vero. Disse di aver attraversato il Nufenen e il Gries ogni volta che fosse stato possibile farlo, fin da quando era bambino; aggiunse che se avessi tentato quel giorno, avrei trascorso la notte in Paradiso. Le nuvole sulle montagne, la neve fresca appena caduta, la pioggia che riempiva i valli, il ghiacciaio sul Gries, e quella neve impenetrabile avvolta nella nebbia sul Nufenen rendevano quell’impresa un vero suicidio. Per lui, un guida esperto; per me, una follia ancora peggiore. Inoltre, commentò le mie scarpe e si meravigliò del mio povero cappotto e dei miei pantaloni, minacciandomi di un freddo intollerabile.
+
+Sembra che i libri che avevo letto a casa, quando dicevano che il Nufenen era privo di neve, si riferissero a una stagione successiva dell’anno; ora invece c’era solo neve, neve morbida, nascosta da una fitta nebbia già dalla prima metà della salita. Per quanto riguarda il Gries, sulla sua cima c’era un ghiacciaio che richiedeva condizioni meteorologiche particolarmente favorevoli. Sentendo tutto questo, dissi che sarei rimasto, ma con il cuore pesante. Già sentivo avvicinarsi la sconfitta; la perdita di tempo era una vera e propria piaga. Mi mancavano già i soldi, e il mio prossimo incarico mi avrebbe portato a Milano. Il mio ritorno in Inghilterra era previsto per una data precisa. Ma più forte di tutti questi motivi che mi spingevano ad accelerare i tempi, c’era un’irrequietezza ardente che colpisce sempre gli uomini quando sono sul punto di intraprendere grandi avventure.
+
+Gli chiesi di promettermi che il giorno dopo mi svegliasse alle tre del mattino e, a meno che non scoppiasse una tempesta, di provare a portarmi attraverso il passo del Gries. Per quanto riguardava i passi del Nufenen e del Crystalline, che desideravo tentare e che rappresentavano la strada più diretta per Roma, lui disse (e aveva ragione) che, a parte l’impassabilità del Nufenen in quel periodo, scalare la Montagna Cristallina in quella stagione sarebbe stato altrettanto impossibile quanto volare sulla Luna. Se avessi tentato da solo di attraversare il Nufenen, sarei finito nella valle superiore del Ticino, facendo un lungo giro passando per Bellinzona. Per questo motivo concordammo che almeno mi mostrasse il passo del Gries; lui promise che, se qualcuno poteva farlo, lui lo avrebbe fatto il giorno dopo. Io, invece, mandai le mie scarpe a farsi riparare (violando così un altro impegno), andai a letto e passai l’intera giornata a leggere i libri di testo dei bambini. Erano in francese, provenienti dalla parte più bassa della valle, e, molto “genovesi” e “eretici”, per una famiglia così devota. Ma la civiltà genovese rappresenta lo standard per queste persone; loro combattono il calvinismo con le missioni e hanno statue nelle loro stanze, per non parlare dei fonti battesimali.
+
+La pioggia batteva contro la mia finestra; le nuvole si avvicinavano sempre di più alla montagna. Poi (come descritto con precisione nel Canto di Rolando), “passò il giorno e arrivò la notte, e io dormii”. Ma con l’alba.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_174_the_start" data-title="The Path to Rome — The Start" data-chapter="The Start" data-kind="story" data-tags="motif/dawn,setting/mountains"></span>
@@ -7224,6 +9620,20 @@ Here it is in a sketch map. The heights are marked lighter and lighter, from bla
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il punto di partenza
+
+Al mio risveglio, preparatevi ad ascoltare la storia dell’avventura più straordinaria e terribile che mi sia mai capitata tra tutte le meraviglie e i pericoli di questo pellegrinaggio. La più significativa, e senza dubbio la più degna di essere ricordata per sempre, di tutto ciò che è mai accaduto da quando il mondo è stato creato.
+
+Alle tre in punto il guida bussò alla mia porta; mi alzai e uscii da lui. Bevemmo caffè e mangiammo del pane. Mettemmo nel nostro sacco prosciutto e pane, mentre lui mise vino bianco e io brandy. Poi partimmo. La pioggia era diventata una leggera brina e non c’era vento. Il cielo era per lo più coperto, ma qua e là spuntava una stella. Le colline si ergevano minacciose sopra di noi mentre attraversavamo la valle umida. Un piccolo ponte di legno ci permise di superare il giovane fiume Rodano, che in quel punto era solo un ruscello; poi seguimmo un sentiero che si inoltrava nella gola laterale che conduce ai monti Nufenen e Gries. Dopo un miglio o due, la nebbia si diradò leggermente, il che fu un bene: poche settimane prima era caduta una grande valanga e dovevamo attraversarla con estrema cautela. Sotto lo spesso strato di neve ghiacciata scorreva un torrente impetuoso. Ricordai il Colorado e come da ragazzo avessi attraversato l’Arkansaw su un ponte simile. Proseguimmo nella penombra dell’alba. Gli alberi iniziarono a mostrarsi chiaramente; c’era una croce dove, proprio in aprile di quell’anno, un uomo era scivolato e morto. Poi, cosa ancora più inquietante, la pioggia si trasformò in neve; il guida scosse la testa e disse che più in alto avrebbe nevicato ancora. Continuammo ad avanzare e la nebbia si diradò ulteriormente. Prima che facesse davvero giorno (o forse a causa del cambiamento meteorologico, il cielo sembrava oscurarsi di nuovo), attraversammo un bel ponte costruito molto tempo prima; poi ci fermammo in una stalla dove il bestiame riposava durante l’estate tardiva, quando la neve si era sciolta. Lì ci riposammo per un momento.
+
+Ma uscendo dal suo rifugio notammo molte cose inquietanti. Quel luogo era una conca, la fine della gola, una sorta di “scodella”; un’uscita era rappresentata dal torrente Nufenen, l’altra dal Gries.
+
+Ecco rappresentato su una mappa schematica. Le altitudini sono indicate con colori sempre più chiari: dal nero nelle valli fino al bianco nelle inaccessibili  montagne. Il punto E si trova lì.
+
+* * *
 
 
 
@@ -7245,6 +9655,22 @@ We came to a place which is, in the warm season, an alp; that is, a slope of gra
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tutto la neve
+
+Eravamo in una grande conca o bacino, appena arrivati dalla valle B. C è la valle italiana della Tosa, e lo stretto di terra tra essa ed E è il Gries. D è la valle del Ticino, e lo stretto di terra tra E e essa è il Nufenen. A è la Montagna di Cristallo. Si può stimare che questi passi o stretti siano alti circa 8000 piedi, mentre le [[Mountains|montagne]] raggiungano i 10.000 o 11.000 piedi sul livello del mare.
+
+Abbiamo notato, dico, molte cose inquietanti. Prima di tutto, quella coppa o quel recipiente situati sotto le creste era coperto da uno strato di neve, tranne nei punti in cui si vedevano chiazze d’acqua nera; tutte le creste e le [[Mountains|montagne]], dalla cima alla base, erano ricoperte da una neve molto spessa; la superficie della neve era profonda e appena caduta. In secondo luogo, la pioggia si era trasformata in neve; nevicava abbondantemente ovunque. In nessun altro posto ho mai percepito così chiaramente la presenza imminente della Morte. Terzo, faceva molto più freddo e sentivamo l’inizio di un vento. Quarto, le nuvole si erano abbassate molto.
+
+Il guida disse che non era possibile farlo, ma io dissi che dovevamo provare lo stesso. Ero impaziente e ancora non avevo sentito l’effetto terribile del freddo. Lasciammo il Nufenen sulla nostra sinistra, una ripida pendenza coperta da neve fresca e avvolta nella nebbia, e ci dirigemmo verso il Gries. Per mezz’ora avanzammo tra la neve che arrivava fino alle ginocchia; i miei sottili vestiti di cotone si bagnarono completamente. Finora il guida sapeva che eravamo più o meno sulla strada giusta, quindi continuò ad andare avanti mentre io lo seguivo ansimando. Nessuno dei due parlava; di tanto in tanto lui si girava per assicurarsi che non mi fossi fermato.
+
+La neve iniziò a cadere più fitta, e il vento si intensificò leggermente. Temevo un altro reclamo da parte del guida, ma lui tenne bene il passo, e io lo seguivo, avanzando continuamente attraverso la neve soffice, facendo progressi di qualche metro alla volta verso l’alto. La neve cadeva sempre più fitta e il vento continuava ad aumentare di intensità.
+
+Siamo arrivati in un luogo che, nella stagione calda, è un altopiano; cioè una pendenza coperta di erba, molto ripida ma non spaventosa; qua e là ci sono piccoli precipizi rocciosi che la dividono in gradini, ma assolutamente (in estate) non rappresentano un pericolo. Ora, tuttavia, quando tutto era ancora coperto di neve artica, la situazione era molto diversa. Una ripida pendenza di neve, il cui versante scendeva verso la tempesta impetuosa e scompariva nella massa delle nuvole dense sopra di noi; una pendenza leggermente incavata e curva all’interno. Dovevamo attraversarla se volevamo proseguire; ed ero terrorizzato, perché non avevo alcuna esperienza in materia di arrampicata. Il guida disse che il pericolo era minimo: se si scivolava, si poteva comunque raggiungere un punto sicuro, oppure, molto meno probabilmente, si potevano schiantarsi contro le rocce e morire. Tremavo dal freddo; ma poiché lui non propose di tornare indietro, lo seguii. La superficie era costituita alternativamente da lastre di neve congelata e porzioni di neve fresca e morbida. Sulla prima parte del percorso lui scavò dei gradini; sulla seconda parte noi ci precipitammo giù. Una volta finii proprio in mezzo a una massa di neve che si staccò e cadde.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_176_the_tourmente" data-title="The Path to Rome — The Tourmente" data-chapter="The Tourmente" data-kind="story" data-tags="motif/snow,motif/storm,motif/wind,motif/fog_and_smoke,concept/survival,form/travel_writing,setting/mountains"></span>
@@ -7258,6 +9684,16 @@ We had been about twenty minutes crawling over that wall of snow and ice; and it
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il tormento
+
+Si allontanò sotto di me e iniziò a scivolare giù per la pendenza. Mi mostrò come tenere il mio bastone nella stessa posizione del suo bastone da alpinismo, utilizzandolo come una sorta di freno nel caso mi fossi sdraiato.
+
+Erano passati circa venti minuti da quando ci stavamo arrampicando su quella parete di neve e ghiaccio; diventava sempre più evidente che eravamo in pericolo. Prima ancora di raggiungere completamente l’altra parte, il vento aveva preso a soffiare con violenza, ululando alle nostre orecchie. La neve superficiale vorticava furiosamente intorno a noi; i fiocchi di neve ci colpivano in faccia con forza, tagliando l’aria senza cadere, ma volando dritti verso di noi come frecce. Sembravano il riflesso stesso del vento ululante; ci accecavano. Le rocce sull’altra parte della pendenza, che erano state il nostro obiettivo quando avevamo iniziato ad attraversarla, erano da tempo scomparse nella tempesta di neve sempre più intensa. All’improvviso, mentre continuavamo a muoverci con fatica contro quel vento impetuoso, quelle rocce apparvero davanti ai nostri occhi grandi come case; riuscivamo a vederle attraverso la massa turbinante dei fiocchi di neve, proprio come si vedono le sagome delle navi nella nebbia in mare. Il guida si accovacciò.
+
+* * *
 
 
 
@@ -7281,6 +9717,24 @@ Let us always after this combat their immensity and their will, and always hate 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sconfitta
+
+All’ombra del più vicino; mi avvicinai a lui e lui mise le mani sulle mie orecchie e gridò che non si poteva fare nulla di più. Doveva gridare così perché, tra le rocce, l’uragano produceva un rumore assordante che sovrastava ogni voce.
+
+Gli chiesi a che distanza fossimo dal vertice. Disse di non sapere esattamente dove ci trovassimo, ma che non potevamo essere più lontani di 800 piedi. Io pensavo che, essendo così vicini a [[Italy|Italia]], non avrei mai ammesso la sconfitta. Gli offrii tutto il denaro che avevo per continuare il viaggio, ma fu una follia da parte mia: se avessi avuto abbastanza soldi per convincerlo e lui avesse accettato, entrambi saremmo morti. Fortunatamente si trattava di una somma modesta. Scosse la testa: non avrebbe continuato, disse, per tutto il denaro del mondo. Gli dissi di mangiare e bere, e così facemmo entrambi.
+
+Allora capii la sua saggezza: dopo poco, il freddo iniziò a colpirmi con violenza nei miei vestiti sottili. Le mani mi si intorpidirono, il viso cominciò a dolermi insopportabilmente e le gambe diventarono pesanti e doloranti. Imparai anche un’altra cosa (che, se fossi stato abituato alle [[Mountains|montagne]], avrei dovuto sapere già): non era affatto facile tornare indietro. Il guida esitava tra rimanere in quel rifugio rudimentale o affrontare i rischi della discesa. Quel terrore nemmeno mi aveva sfiorato la mente; ci pensavo il meno possibile, concentrato solo sul mantenere il coraggio, mentre il freddo intenso minacciava di farmi crollare.
+
+Sembra che, durante una tempesta (così la chiamano infatti gli abitanti di quella regione montuosa), sia sempre difficile decidere se fermarsi o tornare indietro. Se si torna indietro e ci si perde, è la fine. Se invece ci si rifugia in qualche luogo sicuro, la tempesta potrebbe durare ancora due o tre giorni, dopodiché arriverà comunque la fine.
+
+Dopo un po’ decise di tornare indietro, ma mi disse onestamente quali fossero le probabilità di successo; il mio dolore causato dal freddo mitigò, per fortuna, la mia paura. Tuttavia, anche in quel momento, sentii in modo confuso ma molto chiaro di essere stato sconfitto. Avevo superato tante difficoltà, avevo seguito fedelmente la strada che mi conduceva a Roma. Eppure avevo fallito! Anche nel freddo terribile di quella notte ne ebbi consapevolezza; quel senso di sconfitta si aggiunse alle mie incertezze riguardo al ritorno. [[Italy|Italia]] era lì, proprio sopra di me. Un po’ di tregua, un piccolo passo avanti, e sarei stato finalmente alla luce del sole. Invece, venivo costretto a tornare indietro, verso nord, in ritirata e con vergogna. Gli Alpi mi avevano sconfitto.
+
+Dopo questo combattimento, ricordiamo sempre la loro grandezza e la loro volontà; odiamo sempre quei guardiani inumani che custodiscono le porte di [[Italy|Italia]] e quelle forze che.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_178_the_retreat" data-title="The Path to Rome — The Retreat" data-chapter="The Retreat" data-kind="story" data-tags="setting/italy"></span>
@@ -7302,6 +9756,24 @@ But to think of it! I who had all that planned out, and had so nearly done it! I
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il ritiro
+
+Trappole in attesa degli uomini su quei luoghi elevati. Ma ora so che [[Italy|Italia]] rimarrà sempre separata dagli altri. Non è delimitata da muri ordinari, e la Morte ha tutto il suo esercito alle sue frontiere.
+
+Beh, siamo tornati indietro. Due volte il guida mi ha strofinato le mani con brandy, e una volta ho dovuto fermarmi per riprendermi un attimo, poiché avevo perso l’equilibrio. Che ci crediate o no, le orme profonde lasciate durante la nostra salita erano già state completamente coperte dalla nuova neve; anche se fossero state visibili, il guida non avrebbe cercato di seguirlle. Ha fatto qualcosa che all’inizio non ho capito, ma che poi ho riconosciuto come saggio: ha preso una direzione ripida verso il basso lungo la pendenza innevata. Anche se una discesa così ripida mi ha un po’ innervosito, alla fine è risultata efficace. Quando abbiamo percorso circa 900 piedi, o mille piedi in distanza verticale, anche io, ormai semiintorpidito e stordito, ho potuto sentire che la tempesta si era attenuata. Ancora duecento piedi, e i fiocchi di neve non cadevano più tutti insieme, ma uno dopo l’altro. In pochi minuti riuscivamo a vedere chiaramente tutta la pendenza fino in basso; poco dopo abbiamo scorto, molto lontano sotto di noi, il punto in cui il versante della montagna si univa dolcemente alla pianura da cui eravamo partiti.
+
+Quando lo vedemmo, il guida mi disse: “Tieni il bastone così, se sei abbastanza forte, e lasciati scivolare.” Riuscivo a tenerlo saldamente, nonostante il freddo. La vita stava tornando da me, ma accompagnata da un dolore insopportabile. Scendemmo la pendenza quasi altrettanto velocemente quanto se fossimo caduti, ma era chiaramente sicuro farlo, poiché la fine della discesa era ben visibile e non presentava alcun ostacolo o roccia.
+
+Così raggiungemmo la pianura sottostante, entrammo nella piccola capanna e, alzando lo sguardo, vedemmo la tempesta sopra di noi; ma nessuno avrebbe potuto riconoscerla per ciò che realmente era. Qui, in basso, regnava il silenzio, mentre il terrore e la furia che imperversavano lassù sembravano soltanto una grande nuvola tremolante che occupava tutta la montagna. Poi riprendemmo il cammino lungo il burrone percorso in salita e scendemmo fino al punto in cui la neve si trasformava in pioggia. Quando arrivammo nella valle del Rodano, trovammo tutto coperto da nuvole; gli alberi più alti erano bianchi di neve, formando una linea simile a un segno lasciato dall’alta marea sulle pendici delle colline.
+
+Rientrai in “The Bear”, silenzioso e arrabbiato, rifiutando di accettare l’umiliazione di quel fallimento. Poi, dopo aver mangiato, decisi, sempre in silenzio, di seguire la stessa strada di qualsiasi altro idiota: di attraversare il Furka lungo una bella strada principale, come facevano tutti i turisti, e di superare il San Gottardo con un’altra strada simile, proprio come avevano fatto milioni di persone prima di me. Non avrei più guardato il cielo in faccia fino a quando non fossi tornato sulla strada diretta verso Roma, dopo quel lungo giro tortuoso.
+
+Ma pensateci! Io che avevo tutto pianificato così bene, e quasi ci ero riuscito. Io che avevo tracciato un percorso attraverso l’Europa come se fosse un tunnel, e avevo visto tante cose strane.
+
+* * *
 
 
 
@@ -7331,6 +9803,30 @@ A hint or memory of gracious things ran in the slight breeze, the wreaths of fog
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le ore tetre
+
+Luoghi! Ora devo recitare l’intera lista di questi luoghi banali: Bellinzona, Lugano, e tanti altri. Che qualsiasi viaggiatore su ferrovia può raccontarti. Solo a Como mi sentirò di nuovo un vero uomo.
+
+Infatti, è davvero amaro dover rinunciare alla propria spada.
+
+Non avevo i soldi per aspettare; la mia sconfitta mi aveva ridotto sia in termini finanziari che di spirito. Decisi allora di entrare attraverso le porte ordinarie, non addirittura in [[Italy|Italia]], ma in una sorta di “mezza-[[Italy|Italia]]”, il cantone del Ticino. Fu molto difficile.
+
+Questo libro non è una tragedia, e non intendo descrivere con troppi dettagli un tale dolore. Lo stesso giorno, nella seconda metà della giornata, attraversai la Furka con aria cupa; fu altrettanto facile come percorrere St James’ Street e poi Piccadilly. Trovai la stessa tempesta sulla sua cima, ma su una strada principale la situazione era diversa. Non presi alcun sentiero alternativo. Mi fermai in tutte le locande: alla base, a metà percorso, vicino alla vetta e in cima. Mentre la neve mi colpiva il viso, raccontai loro di come avessi attaccato e quasi conquistato la Gries quella mattina selvaggia. Ma loro pensarono che stessi mentendo; così rimasi in silenzio anche dentro di me. Guardavo cupamente il terreno bianco per tutto il cammino. E quando, dall’altra parte, fui abbastanza in basso da liberarmi della neve e del vento e ritrovarmi sotto la pioggia battente, accolsi con gioia quella pioggia. Lasciai che lenisse, come un amico gentile, il mio spirito turbato.
+
+Non parlerò di Hospenthal. Ha una vecchia torre, e la strada che ci conduce è dritta ma orribile. Quanto mi piaceva quella vecchia torre! La gente dell’ostello (che ho scelto a caso) probabilmente non mi stimava molto.
+
+Non parlerò dello St Gotardo. Leggetene qualcosa in un libro di viaggio. Mi sono alzato quando ne ho avuto voglia; mi è piaciuto scoprire che stava ancora piovendo. La fitta nebbia sopra la pioggia mi ha reso ancora più felice. Ho iniziato il mio viaggio con calma, a tarda sera, e l’ho svolto con determinazione. Ma il mio cuore era come un blocco di carbone o ferro riscaldato appena. Perché stavo ammettendo la sconfitta. Voi che non avete mai percorso una linea dritta, né incontrato persone strane o luoghi lontani. Non sapete cosa significhi dover prendere la strada normale.
+
+Solo nel pomeriggio, e lungo quei piccoli tornanti più ripidi di qualsiasi altro nelle Alpi (forse perché la strada è più antica), qualcosa cambiò.
+
+Un’aria calda agitava la fitta nebbia che, per fortuna, mi isolava da tutto tranne che dalla strada stessa e dallo spettacolo di scene ormai banali.
+
+Un accenno o un ricordo di cose gentili si diffondeva nella brezza leggera; i veli di nebbia si sollevavano per pochi metri, e in quegli spazi aperti pensavo di avvicinarmi a un mondo più dolce e desiderabile. Mi sentivo tranquillizzato, come se.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_180_italy" data-title="The Path to Rome — Italy!" data-chapter="Italy" data-kind="story" data-tags="archetype/pilgrim,setting/italy"></span>
@@ -7357,6 +9853,28 @@ I glanced up the dark ravine which I should have descended had I crossed the Nuf
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[[Italy|ITALIA]]!
+
+Carezze. E quando iniziai a vedere un po’ più chiaramente, e percepii una forza e una pienezza nelle forme degli alberi, all’improvviso mi dissi:
+
+“So cosa è! È il Sud, e una grande parte del mio sangue appartiene a quel luogo. Forse la gente continua a chiamarlo Svizzera, ma ora so di essere in [[Italy|Italia]], e questa è la porta d’ingresso dell’[[Italy|Italia]], nascosta tra gli alberi.”
+
+E così, fino alla sera, riuscii a riconciliarmi con la sfortuna; quando, nuovamente ad Airolo, ascoltai i discorsi degli uomini civili e vidi quegli occhi forti e quei corpi snelli tipici della razza latina, dopo tutti quei giorni di nebbia, gelo, discorsi in tedesco e atmosfera settentrionale. Le lacrime mi riempirono gli occhi; ero così felice come se fossi tornato a casa, e avrei voluto baciare la terra.
+
+Il vino di Airolo e le sue canzoni, quanto mi hanno rinfrescato! Vedere persone con sguardi vivaci e ricevere risposte alle proprie saluti; il rumore delle voci che chiacchierano insieme senza preoccupazioni; il gruppo intorno ai dadi, e quella risata tipica dell’umanità; l’atteggiamento dignitoso delle donne. In tutta la gente c’era qualcosa di eretto e nobile, come se davvero possedessero la terra intera. Ho pranzato lì, parlando con tutti i miei compagni intorno a me, usando un linguaggio tutto mio, composto, per così dire, dall’essenza di tutte le lingue latine. E ho detto.
+
+‘Ah! Attraversare le montagne non è stato affatto facile. No! Il San Gottardo? Niente da fare. Puf! Poche possibilità. Ma ieri ho voluto comunque attraversare il Val Bavona, e credimi: non sarei mai tornato indietro. Faceva così freddo lassù. La tempesta ci ha colti di sorpresa, ’
+
+E così via: spiegavo tutto nei dettagli con gesti, esagerando, sottolineando e recitando l’intera scena, in modo che mi capissero con poche possibilità di errore. Tuttavia, trovavo più difficile comprendere loro, perché utilizzavano un linguaggio ben strutturato, con desinenze e parole specifiche.
+
+Mi dispiaceva molto non poter offrire loro del vino, ma avevo un’idea in mente di cui presto ne sentirete parlare. Il mio denaro stava per finire, e l’angoscia tipica di un uomo civile iniziò a opprimermi, come l’ombra di una nuvola su un campo di mais in estate. Mi augurarono la buona notte, e al momento del congedo non potei fare a meno di vantarmi dicendo di essere un [[Pilgrim|>pellegrino]] in viaggio verso Roma. Lo ripeterono tutti tra loro, e uno di loro mi disse che la prossima tappa del mio viaggio era una città chiamata Faido, situata a tre ore di distanza. Mi fece capire indicando tre dita. Quella fu l’ultima volta che ebbi contatti con gli Airolani, perché subito dopo presi la strada.
+
+Alzai lo sguardo verso la scura gola nella quale avrei dovuto scendere se avessi attraversato il Nufenen. Pensai al Val Bavona, situato appena oltre quella grande muraglia.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_181_the_new_world" data-title="The Path to Rome — The New World" data-chapter="The New World" data-kind="story" data-tags="setting/mountains"></span>
@@ -7371,6 +9889,16 @@ Everything was pleasing in this new valley under the sunlight that still came st
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il Nuovo Mondo
+
+Controllava la parte ovest; e in un punto dove una crepa – avete appena visto la sua immagine – conduceva fino alle cime delle colline, fui quasi tentato di tornare ad Airolo per dormire e il giorno dopo provare a attraversare. Ma avevo accettato il mio destino sul Gries, e anche quel sentiero accidentato mi attirava, quindi proseguii lungo la mia strada.
+
+Tutto era piacevole in questa nuova valle, sotto i raggi del sole che ancora splendevano intensamente dietro le enormi [[Mountains|montagne]]; tutto era anche nuovo, e ovviamente mi trovavo ora in un paese di un tipo particolare. Le pendici erano popolate; ero giunto presso la “grande madre dei frutti e degli uomini”, e presto avrei potuto vederla con i miei occhi.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_182_the_many_churches" data-title="The Path to Rome — The Many Churches" data-chapter="The Many Churches" data-kind="story" data-tags="motif/river,motif/journey,form/travel_writing,setting/mountains,setting/italy"></span>
@@ -7384,6 +9912,16 @@ I noticed all these things on the one side and the other till, not two hours fro
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le molte chiese
+
+Città e i loro antichi muri, i fiumi che scorrono accanto a loro. Anche le guglie delle chiese ripetevano quelle stesse forme lungo le colline boschive, fino a quando i villaggi terminavano sulla linea delle pendici più ripide e nelle zone innevate. Le case erano quadrate e colorate; erano adornate da aiuole di alberi. Sembrava che intorno non ci fosse nulla di irragionevole o pericoloso. E soprattutto, nessuno ricco né povero.
+
+Notai tutte queste caratteristiche da un lato all’altro della valle; a meno di due ore da Airolo, arrivai in una zona dove il terreno presentava dei gradini. La valle del Ticino, infatti, è composta da diversi livelli, ciascuno dei quali potrebbe un tempo essere stato occupato da un lago, data la sua forma chiusa; ogni livello termina con alte rocce e una gola tra di esse. Lungo questa gola il fiume scorre tra cascate e rapide, mentre la strada discende ripidamente, fiancheggiata da pareti rocciose; a volte è necessario attraversare la gola tramite un ponte. La ferrovia, invece, supera questa brusca discesa aggirando le colline attraverso tunnel circolari.
+
+* * *
 
 
 
@@ -7400,6 +9938,18 @@ Now all of you who have hitherto followed the story of this great [[Journey|jour
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+FAIDO
+
+Di nuovo fuori, molto più in basso della caverna dove si immetteva. Poi, quando tutti e tre – il fiume, la strada e la ferrovia – avevano superato quel grande ostacolo naturale, si apriva un nuovo livello della valle. Era così che la strada raggiungeva la parte meridionale della regione; mentre scendevo verso la valle sottostante, anche se stava imbrunendo, qualcosa sembrava “sciogliersi” nell’aria montana: c’era una sensazione di serenità e calore nelle piante che crescevano lì. E capii subito che quel luogo era perfetto per i vigneti. Così, prima ancora che facesse completamente buio, arrivai a Faido e lì mi riposai, dopo tante avventure. Avevo finalmente varcato la soglia ed entrato in [[Italy|Italia]].
+
+Il giorno dopo, prima dell'alba, uscii fuori, e tutta la valle era adornata e increspata dalle sfumature del mattino.
+
+Ora, tutti voi che avete seguito finora la storia di questo grande [[Journey|Viaggio]], mettete da parte le Alpi, i passi e la neve, rimandate anche questi pensieri.
+
+* * *
 
 
 
@@ -7424,6 +9974,26 @@ Or one might put it rhetorically, fiercely, stoically, finely, republicanly into
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# 8 franchi e 10 centesimi
+
+Per un momento, l’influenza della felice [[Dawn|'alba]] e di quel Sud in cui ero entrato mi fece considerare soltanto questa verità: in quella benedetta data di Dio, mi trovavo appena uscito da Faido, con otto franchi e quaranta centesimi a disposizione per il mio viaggio e per le necessità quotidiane, al fine di poter compiere il buon lavoro della mia pellegrinazione.
+
+Ora, se considerate che il caffè e il pane costavano due penny, mentre per la cameriera ne bastava uno, potete dire senza mentire che avevo lasciato alle spalle le impervie cime delle Alpi e mi trovavo sulle pendici dei primi corsi d’acqua italiani, in cima alla strada di accesso, con otto franchi e dieci centesimi in tasca: il mio corpo era sano e vigoroso, lo spirito leggero, perché il sole nascente diffondeva luce splendente nel cielo. L’aria era fresca, e una nuova giornata radiosa iniziava oltre le alte pareti orientali della valle.
+
+E allora? Si potrebbero fare molte cose con quei soldi. Ad esempio, otto franchi e dieci centesimi rappresentano un ottimo stipendio per una giornata di lavoro; sono abbastanza per pagare le tariffe del taxi, ma poco per acquistare una vettura di lusso. Sono un prezzo elevato per del vino Borgogna, ma poco costoso per del Tokay. Corrispondono a circa ottanta miglia in terza classe, o meno in prima classe; sono un lusso su un treno di lusso, ma solo una piccola somma come tangente per un giornalista. Sarebbero un’immensa fortuna da dare a un apostolo che chiede l’elemosina alle porte di una chiesa, ma nulla di significativo per pranzare.
+
+Se utilizzato nel modo giusto, immagino che possa salvare cinque o sei vite, ma non riesco a credere che una somma così irrisoria possa condannare metà di quelle persone.
+
+Allora, di nuovo, sarebbe bello poter cantare qualcosa del genere. Quindi, se si fosse degli sciocchi moderni, si potrebbe scrivere una canzone in cui “Otto franchi e dieci centesimi” vengono ripetuti sempre sulla stessa nota triste, inseriti tra parentesi come “motivo principale”, e nella quale si parli molto di autunno e di morte. La morte, infatti, oggi sembra essere considerata qualcosa di strano, mentre in realtà è la cosa più comune al mondo. Oppure si potrebbero utilizzare quelle parole come struttura principale di un trioletto, anche se sarebbe necessario modificarle per adattarle alla metrica; oppure farne la riga decisiva di un sonetto. O ancora, creare una bella canzone lirica su quella stessa melodia, quella di “Madame la Marquise”.
+
+“Otto franchi e dieci centesimi, tra la la, la la la.”
+
+O si potrebbe dirlo in modo retorico, appassionato, stoico, raffinato, o addirittura “repubblicano”, all’interno degli Eroi della Grande Scuola. Così.
+
+* * *
 
 
 
@@ -7452,6 +10022,30 @@ I thought it could, and I reasoned this way.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Marcie forzate
+
+Hernani… con indignazione… in questi sforzi supremi
+
+“Cosa avete da offrire?” RUY BLAS: “Solo otto franchi e dieci centesimi!”
+
+O finalmente (poiché questo genere di cose non può continuare all’infinito), si potrebbe arricciare i capelli e tingerli di nero, indossare un cappello sporco inclinato su un orecchio, prendere una chitarra, sedersi su una pietra piatta accanto alla strada, incrociare le gambe. E dopo alcuni accordi sulle corde, iniziare a suonare una ballata con quel ritornello.
+
+“Perché ho sempre otto franchi e dieci centesimi!” ripeteva scherzosamente, con un tono sottosarcastico e trionfante.
+
+Ma tutto questo è solo di sfondo; la domanda fondamentale è: perché quei otto franchi e dieci centesimi avevano tanta importanza proprio in quel momento?
+
+Per questo motivo, non riuscivo ad ottenere altri soldi prima di arrivare a Milano; e penso che un po’ di riflessione vi farà capire quale significato si nasconda in quella frase. Milano distava novanta miglia, piuttosto che ottanta; lungo la strada più diretta, la distanza superava addirittura i novanta miglia. E così fui costretto a riflettere e ad angosciarmi: come avrei fatto a procurarmi quei soldi in tempo?
+
+Non c'era altra scelta se non marciare forzatamente, con poche possibilità di godere di lussi. Ma era davvero possibile farlo?
+
+Pensavo che potesse farlo, e ho ragionato in questo modo.
+
+‘È vero che ho bisogno di molto cibo, e che se uno deve percorrere lunghe distanze deve mantenersi in forma. È anche vero che molte persone sono riuscite a fare di più con meno. D’altra parte, quelle persone non avevano fretta, io invece sì; inoltre non conosco le abitudini del posto. Novanta miglia equivalgono a tre giorni normali, o due giorni molto faticosi. In effetti, è dubbia la possibilità di completare il percorso in due giorni soltanto. Ma si può farlo in due giorni, due notti e metà del terzo giorno. Quindi, se pianifico bene, riuscirò nel mio obiettivo: marciare oggi per quarantacinque miglia o di più, e dormire in condizioni primitive alla fine della giornata. Il cibo mi costerà in totale tre franchi. Il giorno dopo marcerò altre venticinque o trenta miglia; il cibo mi costerà altri tre franchi. Con i restanti due franchi e dieci centesimi potrò prendere una stanza alla fine della giornata, bere caffè e mangiare del pane il giorno dopo, e poi percorrere le ultime venti miglia fino a Milano, con uno o due soldi in tasca. A Milano, una volta ottenuti i miei soldi, potrò finalmente mangiare a sazietà.’
+
+* * *
 
 
 
@@ -7489,6 +10083,38 @@ Well then, to cut a long story short, I had to make forced marches. With eight f
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Storia dell’antico marinaio
+
+Avevo pianificato tutto con molta attenzione e precisione, ma tra le colline c'erano molti imprevisti e eventi inaspettati che hanno deviato i miei piani.
+
+Per farla breve, come disse l’anziano marinaio al giovane sciocco…
+
+LETTORE: Cosa disse il vecchio marinaio a quel giovane sciocco?
+
+“Autor… Il vecchio marinaio stava insegnando al giovane sciocco l’uso della bussola, e disse…”
+
+“Partiamo da nord, facciamo il giro verso ovest, poi verso sud e infine di nuovo verso est per tornare a nord. Ci sono trentadue punti della bussola: innanzitutto questi quattro, N., O., S., E.; questi vengono divisi a metà, ottenendo altri quattro, ovvero NW, SW, SE, NE. Spero di essere stato chiaro,” disse il vecchio marinaio.
+
+“Ci sono otto divisioni, come le chiamiamo noi. Quindi fate attenzione e seguite attentamente le istruzioni. Ognuna di queste otto divisioni è divisa in due parti simboliche e simmetriche, come risulta chiaramente dalla loro denominazione,” disse l’anziano marinaio. “Così, tra N. e NE. c’è NNE., tra NE. e E. c’è ENE., tra E. e SE. c’è, ”
+
+“Capisco,” disse il giovane sciocco.
+
+“L’anziano marinaio, corrugando la fronte, continuò…”
+
+“Bravo, davvero. Tenete bene a mente: ognuna di queste sedici divisioni è divisa in modo abbastanza chiaro e preciso in due parti. Quindi, tra N. e NNE, otteniamo N. da E.; tra NNE e NE, otteniamo NE da E; tra NE e ENE, sempre NE da E; e infine, tra ENE ed E, otteniamo E da N, ”, disse il vecchio marinaio.
+
+Ma qui notò qualcosa di pericoloso negli occhi di quel giovane sciocco; avendo letto per tutta la vita i “Note sulla Disciplina” dell’ammiraglio Griles, e sapendo che la disciplina è un legame sottile che “non si basa sulla forza ma su un atteggiamento mentale”, continuò.
+
+“E così, per non dilungarmi troppo, torniamo di nuovo al nord.” Poi aggiunse: “È anche consuetudine dividere ciascuno di questi punti in quarti. Quindi, NNE 3/4 E. significa, ”
+
+Ma in quel momento il giovane sciocco, le mani incrociate dietro la schiena e nascoste da un gancio da pesca, si alzò e uccise l’anziano marinaio, completando così questa affascinante storia.
+
+Beh, per non dilungarmi troppo, ho dovuto affrontare marce forzate. Con otto franchi e dieci centesimi, e una distanza di quasi novanta miglia invece di ottantacinque.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_187_bodio" data-title="The Path to Rome — Bodio" data-chapter="Bodio" data-kind="story" data-tags="setting/italy"></span>
@@ -7515,6 +10141,28 @@ I was fatigued, and my senses lost acuteness. Still I noticed with delight the
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Corpo
+
+Per il prossimo soccorso, era necessario pianificare attentamente e poi agire con coraggio. Mi dissi: “Si può fare facilmente. Novanta miglia. Due lunghi giorni di viaggio! Chi non riesce a vivere con quattro franchi al giorno? Molti uomini ci riescono addirittura con due franchi al giorno.”
+
+Ma il mio angelo custode mi disse: “Sei uno sciocco! Novanta miglia sono molto di più di due volte quarantacinque miglia. Inoltre” (disse) “un grande sforzo richiede ampiezza e facilità. Le persone che vivono con due franchi al giorno, o meno, non sono certo quelle che cercano di percorrere quarantacinque miglia al giorno. Davvero, mio caro, stai esagerando molto.”
+
+“Beh,” pensai, “almeno in un’aria così meravigliosa, circondato da queste colline e con una gente del genere, non si può certo correre grandi rischi.”
+
+Ma sapevo dentro di me che i latini sono difficili da trattare quando si tratta di soldi, e temevo per le mie risorse. Ero deciso a proseguire e a vivere con poco. Inspirai profondamente, mi misi in testa di tentare e iniziai a scendere lungo la valle.
+
+Ahimè! Non posso soffermarmi troppo su questo racconto, perché altrimenti non riuscirei a farvi comprendere la determinazione e la rapidità con cui tutto si è svolto. Lungo i fianchi di quella valle, molti piccoli sentieri si diramavano dalla strada principale, per lo più a sinistra. Mentre era ancora mattina presto, arrivai nella piccola città di Bodio e superai il confine dei otto franchi acquistando caffè, brandy e pane. Lì c’erano anche un signore e una signora in carrozza che si chiedevano dove stessi andando; io risposi loro (in francese) “a Roma”. Erano le nove di mattina quando arrivai a Biasca: il sole splendeva, ma l’aria era ancora fresca; era troppo presto per pranzare. Mi diedero un po’ di carne fredda, pane e vino, e sette franchi rimasero intatti nel mio portafoglio.
+
+Qui a Biasca la valle assumeva un aspetto diverso: diventava più ampia e assomigliava di più a una campagna; le vaste colline, allontanandosi, presentavano una maestosità meno familiare. Poiché il corso del Ticino cambiava direzione verso sud, dopo alcune miglia l’intera zona sembrava essere isolata dal resto del mondo. Si sarebbe potuto pensare che una montagna alta la circondasse completamente, rendendola un luogo unico e sconosciuto, se non fosse stato per una larga fessura a est, che indicava l’esistenza di un altro passaggio attraverso le colline, ricordandomi che esistevano diverse strade per superare la cresta delle Alpi.
+
+Infatti, questo approccio banale all’[[Italy|Italia]] – che temevo e disprezzavo, ma che accettai soltanto dopo una sconfitta – si rivelò davvero meraviglioso. Questa valle del Ticino dovrebbe distinguersi e diventare uno Stato a sé stante, come Andorra o il Gresivaudan: un nobile giardino dell’Isère, situato alle porte della regione del Delfinato.
+
+Ero stanco, e i miei sensi avevano perso la loro acutezza. Tuttavia, notai con piacere…
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_188_lake_major" data-title="The Path to Rome — Lake Major" data-chapter="Lake Major" data-kind="story" data-tags="setting/mountains"></span>
@@ -7533,6 +10181,20 @@ The woman of the place came out to greet me, and asked me a question. I did not 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lago Major
+
+Un nuovo elemento nel percorso che ho seguito. Una bassa collina, situata proprio davanti a me e che sembrava sporgere dalle alte montagne occidentali, mi impediva di vedere ciò che si trovava al di là di essa. La pianura era alluvionale; c’erano boschetti, campi coltivati. In zone più in alto, un tempo esisteva soltanto il letto di un torrente, con rive nude e strisce di erba immediatamente sopra di esso. Un luogo davvero degno di un nome speciale, di essere considerato una vera e propria regione. Comunque, proseguii verso quel confine vicino alla cresta montuosa, verso il punto in cui il fiume la circondava. Quella grande collina che si ergeva davanti a me sembrava ancora chiudere completamente la valle.
+
+Era mezzogiorno, o poco più; il caldo aumentava (non lo percepivo molto, poiché avevo mangiato e bevuto quasi nulla). Mentre superavo quel punto, davanti ai miei occhi si aprì la vasta valle sottostante e la pianura ampia e rigogliosa attraverso cui il Ticino scorre come un fiume potente per raggiungere il Lago Maggiore, che è il suo “mare”.
+
+Nonostante fossi stanco, la vista di quell’improvvisa espansione mi risvegliò e mi fece dimenticare tutto tranne ciò che avevo davanti agli occhi. La valle si allargava decisamente verso sud; le Alpi si estendevano su entrambi i lati come grandi braccia che accoglievano il sole del sud; la nebbia fresca e familiare tipica dell’estate offuscava le montagne più lontane, rendendole di colore ametista. Il paesaggio sembrava trasmettere una sensazione di tranquillità e distanza, qualcosa che non vedevo da molti giorni. In quell’aria e in quel spazio c’era posto per i sogni, per molte persone viventi: forse città sulle pendici delle montagne, barche di gente felice sulle acque, ovunque, segni di vita densa e serena. In tutto ciò poteva esserci anche la storia, ricordai che quel luogo era stato l’ingresso e il punto di incontro di molti eserciti. Così, cantando una canzone di Carlo Magno, proseguii il mio cammino fino a quando, proprio sotto il sole, un muro e due torri su una piccola collina situata nel cuore della valle mi rivelarono Bellinzona. Nella strada centrale di quella città, sul lato ombreggiato, mi sedetti su una panchina davanti alla porta di un locale, e mi compiacqui di aver percorso in quella mattina i miei venticinque miglia.
+
+La donna del posto uscì ad accogliermi e mi pose una domanda. Non la capii (poiché era in una lingua straniera), ma immaginando che volesse dirmi di prendere qualcosa, chiesi del vermouth. Davanti a me vidi una strana porta fatta di pietra rossa; mentre bevevo il mio bicchiere, continuai a disegnarla, mentre la donna parlava senza sosta in una lingua che non comprendevo. Man mano che disegnavo, diventavo sempre più interessato, finché dimenticai la mia povertà e offrii un bicchiere al marito di quella donna, poi ne diedi un altro a un uomo che mi aveva osservato mentre lavoravo. E così via.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_189_bellinzona" data-title="The Path to Rome — Bellinzona" data-chapter="Bellinzona" data-kind="story" data-tags="motif/food_and_feasting,motif/wine_and_drink,motif/road,concept/poverty,form/travel_writing,setting/italy"></span>
@@ -7548,6 +10210,18 @@ Now had they understood French I could have bargained and chosen; as it was I ha
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Bellinzona
+
+Meno di sette franchi, i miei soldi sono diventati esattamente sei, e la mia penna mi è caduta di mano. Allora ho iniziato ad avere paura.
+
+“Ho fatto una cosa stupida,” dissi tra me e me, “e ho messo a rischio il successo del mio tentativo. Tuttavia, ora non c’è nulla che possa rimediare a questo; devo mangiare. E poiché mangiare è più piacevole in compagnia di amici, chiederò da mangiare a questa donna.”
+
+Se avessero capito il francese, avrei potuto negoziare e scegliere; invece dovevo accettare ciò che loro offrivano, quindi mi sedetti con loro mentre tutti uscivano per mangiare insieme al piccolo tavolo. Avevano zuppa, carne, vino e pane; mentre mangiavamo chiacchieravamo, senza capirci a vicenda, e ridevamo molto della nostra reciproca ignoranza. Mi chiesero un franco, il che ridusse i miei sei franchi a cinque. Ma, consapevole del mio “sottile dovere verso il mondo”, aggiunsi altri venti centesimi, come avrei fatto ovunque altro, per una bevanda; così, con quattro franchi e ottanta centesimi in mano – e avendo completato meno di un terzo del compito che mi ero prefisso – mi alzai. Ero ormai assonnato a causa del cibo e del vino; salutandoli ancora una volta, ripresi il mio cammino.
+
+* * *
 
 
 
@@ -7579,6 +10253,32 @@ H5
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Il fiero stanziero
+
+MA quando lasciai Bellinzona, avevo davanti a me una missione: mettere alla prova la mia povertà. Dovete sapere che la mia mappa era di scarsa qualità e su scala molto ridotta; inoltre, la strada da Bellinzona a Lugano presentava una curva, quindi era essenziale trovare un percorso più breve. Così pensai: “Proverò a trovare una mappa decente al prezzo più basso possibile”. Entrai in una piazza principale e lì vidi una libreria elegante, del genere che serve soltanto persone ricche o turisti di ceto piuttosto elevato. Entrai con un po’ di sicurezza e dissi in francese.
+
+“Signore, vorrei conoscere le colline che si trovano tra qui e Lugano, ma sono troppo povero per comprare una mappa. Se mi permettete di guardarne una per un momento, vi pagherò quanto ritenete opportuno.”
+
+“Quel malvagio libraio divenne un demonio per via dell’orgoglio; fissandomi con occhi furibondi, disse…”
+
+“Guarda! Guarda da solo… Non accetto penny, vendo mappe… non le noleggio!”
+
+Allora pensai: “Dovrei chiedere un favore a una persona del genere?” Ma cedetti e lo feci. Andai vicino al muro e studiai per qualche momento una grande mappa. Poi, mentre me ne andavo, gli dissi.
+
+“Signore, ricorderò per sempre il giorno in cui mi avete dimostrato tale gentilezza; non dimenticherò mai nemmeno la vostra cortesia e le vostre buone intenzioni.”
+
+E cosa pensi che abbia fatto in quel momento?
+
+Ah, sorrise venti volte di seguito, si inchinò e sembrava estremamente felice; poi disse: “Qualsiasi cosa possa fare per i miei clienti e per coloro che visitano questa città, sarò sempre lieto di farla. Per favore, signore, potrebbe dare un’occhiata ad altri mappe per un momento?”
+
+Ora, perché aveva detto queste cose e sorrideva felicemente come una gargolla placata? Forse il mio accento suggeriva ricchezza, o forse era semplicemente di natura gentile? Non lo so; ma di una cosa sono sicuro: non si dovrebbe mai odiare le persone basandosi solo sulla prima, né nemmeno sulla decima impressione. Chi sa. Questo venditore di mappe di Bellinzona potrebbe essere stato un buon uomo; comunque, lo lasciai esattamente come l’avevo trovato. E ricordando che la vera chiave per affrontare una marcia forzata è suddividere le ventiquattro ore in tre parti, e sentendo ora il calore estremo, proseguii lungo quella strada dritta e ardente fino a quando non trovai un bordo di erba e una siepe. E lì.
+
+H5
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_191_the_afternoon" data-title="The Path to Rome — The Afternoon" data-chapter="The Afternoon" data-kind="story" data-tags="motif/sleep,motif/road,motif/sun,motif/journey,form/travel_writing,setting/italy"></span>
@@ -7599,6 +10299,22 @@ in leaves, and soon I crossed the railway, and at last above the trees I saw the
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L'pomeriggio
+
+Nonostante la polvere e i carri che passavano continuamente, mi sdraiai completamente all’ombra e mi addormentai, un sonno profondo, senza preoccupazioni. Proprio quando avevo dimenticato tutto intorno a me, sentii una campana battere le due.
+
+Dormii per ore sotto quel cespuglio, e quando mi svegliai l’aria non era più un forno tremante; tutto intorno a me sembrava avvolto in un manto di serenità tipica del pomeriggio meridionale. Il sole si trovava a metà cielo e brillava con una luce calma e splendente attraverso la nebbia che avvolgeva il Lago Major e l’ampio, rigoglioso estuario della valle. Davanti a me si estendeva una lunga strada dritta, per chilometri, ai piedi di alte colline; più in lontananza, sembrava terminare ai piedi di una montagna chiamata, credo, Ash Mount o Cinder Hill. Ma la mia mappa imperfetta indicava che qui la strada svoltava bruscamente a sinistra, attraversando un passo montano, per poi proseguire in direzione di Lugano.
+
+Lugano non distava quindici miglia in linea d’aria dal punto in cui mi trovavo; decisi quindi di aggirare quella distanza salendo sulle alte colline sopra di me. Queste colline erano boschive soltanto sui loro versanti; la cima e gran parte dei loro fianchi costituivano una brughiera di erba secca, con rocce sparse qua e là. Alla prima diramazione che si presentò, presi a sinistra rispetto alla strada e iniziai a salire.
+
+Sotto gli alberi di castagno, il sentiero si divideva in diversi sentieri poco definiti e battuti dal passaggio frequente; io proseguii dritto verso l’alto. Qui e là si vedevano piccole case nascoste tra gli alberi.
+
+Tra le foglie, e presto attraversai la ferrovia; finalmente, al di sopra degli alberi, vidi tutta la valle di Bellinzona a nord. Girando lo sguardo, notai che la valle si allargava tra i suoi monti, fino al lago, che brillava intensamente nonostante.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_192_the_italian_lakes" data-title="The Path to Rome — The Italian Lakes" data-chapter="The Italian Lakes" data-kind="story" data-tags="setting/mountains"></span>
@@ -7612,6 +10328,16 @@ The Italian lakes have that in them and their air which removes them from common
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I laghi italiani
+
+Una leggera nebbia dava alle distanze sul lago un aspetto particolare; le [[Mountains|montagne]] circostanti sembravano far parte di quella stessa luce.
+
+I laghi italiani possiedono qualcosa di speciale nel loro aspetto e nell’aria che li circonda; questa caratteristica li distingue dalla vita quotidiana comune. La loro bellezza non è quella che ognuno di noi percepisce nel mondo intorno a sé; piuttosto, si tratta di una bellezza creata appositamente, l’espressione di un’intelligenza superiore. Per occhi innocenti, che per la prima volta osservano questa meravigliosa eredità terrena – intendo dire gli occhi di un ragazzo o di una ragazza che appena entrano in questo regno glorioso e si considerano immortali – questi laghi potrebbero rimanere per sempre nella loro memoria come un’esperienza incantevole, in cui il senso della vista sembra toccare quasi i confini della musica. Ricorderanno questi laghi come l’emozione centrale della loro giovinezza. Per coloro che, nonostante gli anni e la piena consapevolezza della morte, cercano soltanto di soddisfare i propri desideri sensoriali e si vantino del gusto e della raffinatezza con cui ci riescono, i laghi italiani potrebbero sembrare un luogo ideale per vivere; un uomo del genere potrebbe costruirvi felicemente la propria casa. Ma per i cristiani comuni, sono certo che in questa bellezza ci sia qualcosa di innaturale.
+
+* * *
 
 
 
@@ -7632,6 +10358,22 @@ So I walked straight into the courtyard and found there a shrivelled brown-faced
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L’uomo disonesto
+
+Il loro; e vi trovano un paradiso che può essere conquistato solo attraverso un percorso molto più lungo, un cammino pieno di inganni e magie, dietro i quali si nasconde grande pericolo. Ora, per quanto ne sappiamo, la bellezza al di là di questo mondo potrebbe non avere davvero questo doppio aspetto; ma per noi, sulla terra – se siamo persone comuni – questa sorta di bellezza ha qualcosa di malvagio. Non avete mai letto nei libri come gli uomini, anche quando vedono visioni divine, provino terrore? Così, mentre guardavo il Lago Major nel suo alone luminoso, anch’io ebbi paura. E fui felice di superare la cresta della collina e di allontanarmi da quella scena incorniciata da tanta gloria.
+
+Ma dall'altra parte della collina trovai, con grande disappunto, non quella pendenza dolce che speravo, ma un altro valle interno e un'altra catena montuosa proprio di fronte a me. Non avevo la pazienza di scalare quelle montagne, quindi seguii il terreno paludoso ai loro piedi, aggirai l'estremità della collina e mi imbattei nella ferrovia, che aveva scavato un tunnel sotto la catena montuosa che avevo appena attraversato. Seguii la ferrovia per un po’ e alla fine la attraversai; poi mi addentrai in una fitta boscaglia, attraversai un piccolo ruscello fastidioso e ritrovai finalmente sulla strada principale, desiderando ardentemente di non averla mai lasciata.
+
+Mancavano ancora almeno sette miglia per raggiungere Lugano, e sebbene tutto il percorso fosse in discesa, la stanchezza minacciava di sopraffarmi. Questi sentieri alternativi attraverso terreni paludosi e fitte boscaglie non erano affatto scorciati; mi chiedevo se, anche essendo ormai sera, osassi riposare un attimo, quando all’improvviso, alla svolta di una strada, apparve una piccola casa rosa con un cortile completamente ombreggiato da un enorme albero; c’era anche un pergolato che formava un tetto sopra un semplice banco e un tavolo, e sul pergolato crescevano viti.
+
+“In case come simili,” pensai, “gli dèi entrano per parlare con gli uomini; sono proprio queste case i luoghi dove avvengono le avventure. Entrerò e riposerò.”
+
+Entrai dritto nel cortile e vi trovai un uomo dal viso marrone e raggrinzito, con occhi gentili, che cantava una canzone da solo. Conosceva un po’ di francese, un po’ d’inglese e la sua lingua italiana. Aveva viaggiato in America e a Parigi; era pieno di ricordi. Quando ascoltai quelle storie e gli chiesi cibo e bevande, dicendo di essere estremamente povero e che avrei dovuto negoziare, lui iniziò a ripetere più volte: “Non vi ingannerò; sono un uomo onesto; anch’io sono povero”, e così via. Tuttavia discutetti su ogni singolo articolo: il pane, la salsiccia, la birra. Vedendo che ero in difficoltà, mi fece pagare circa tre volte il prezzo normale, ma riuscii a farlo scendere a metà; al di sotto non era disposto ad andare avanti. Poi ci sedemmo insieme attorno al tavolo, mangiammo, bevemmo e parlammo di paesi lontani. Lui continuava a sottolineare la sua onestà rispetto alla malvagità dei suoi vicini, e io replicavo con esempi.
+
+* * *
 
 
 
@@ -7657,6 +10399,26 @@ I had gone over forty miles; how much over I did not know. I should have slept a
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il uomo onesto
+
+Considerando le mie condizioni di povertà e bisogno, tirai fuori quei quattro franchi e qualcosa che mi erano rimasti, facendoli tintinnare tristemente nella mia mano. “Con questi,” dissi, “devo raggiungere Milano.”
+
+Poi lo lasciai, e mentre scendevo per la strada, una leggera brezza iniziò a soffiare, portando con sé la freschezza della sera.
+
+Finalmente, il pianoro in declivio raggiunse un bordo; molte piccole luci brillavano sotto di me. Mi sedetti su una pietra e guardai verso la città di Lugano: era quasi buio. Le montagne intorno avevano perso i loro contorni netti, delineandosi solo come silhouette piatte contro il cielo. Il nuovo lago che si era appena formato sotto di me brillava come l’acqua al crepuscolo; in lontananza, a nord e a est, le alte Alpi riflettevano ancora la luce del tramonto. Tutto il resto era avvolto nell’oscurità imminente, e solo alcune stelle splendevano nel cielo. Dal centro della città proveniva il suono distante di musica; altrimenti non c’era alcun rumore. Avrei potuto riposarmi lì a lungo, lasciare che il mio corpo stanco si immergesse nell’oscurità in arrivo e assorbire l’ispirazione silenziosa della notte, se non fosse stato per la fame. Sapevo per esperienza che a quell’ora tarda non era possibile trovare cibo nelle locande dei poveri, e non avevo né soldi né altro con me. Così mi alzai e scesi lungo la strada ripida verso la città; lì trovai una piazza con arcate, e nell’angolo sud-orientale di quella piazza c’era proprio la piccola taverna che cercavo. Entrando e abbassando molto il cappello, dissi in francese all’uomo che sedeva lì con alcuni amici, il proprietario del locale: “Signore, a quale prezzo minimo potrebbe offrirmi un pasto?”
+
+Disse: “Cosa vuoi?”
+
+“Zuppa, carne, verdure, pane e un po’ di vino,” risposi.
+
+Contò sulle dita, mentre tutti i suoi amici lo guardavano con rispetto, così come me. Poi diede degli ordini, e una ragazza molto giovane e bella mi servì un pasto eccellente, come non ne mangiavo da giorni; mi chiese solo un franco e mezzo. Mi offrì anche del caffè e un po’ di formaggio. Sentendomi sazio, lasciai tre penny in più per il servizio, e tutti mi augurarono gentilmente la buona notte. Ma i loro auguri non avevano alcun valore per me: quella notte fu terribile.
+
+Avevo percorso più di quaranta miglia; non sapevo esattamente quanto di più. Avrei dovuto dormire a Lugano, ma il mio misero portafoglio me lo impediva. Pensai: “Continuerò ad andare avanti; dopotutto ho già dormito, quindi ho già sprecato metà della giornata. Continuerò fino a quando non sarò completamente esausto, poi troverò un bosco dove riposarmi.” Dopo appena quattro miglia, le forze mi abbandonarono. Non ero nemmeno arrivato così lontano sul lago da perdere il suono dell’orchestra di Lugano che risuonava sull’acqua tranquilla. Quando ebbi un bisogno assoluto di riposare, forse erano già le dieci.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_195_the_dream" data-title="The Path to Rome — The Dream" data-chapter="The Dream" data-kind="story" data-tags="motif/stars,motif/sleep,motif/dreams,motif/tree,motif/night,concept/death,concept/joy,form/travel_writing,character/socrates"></span>
@@ -7676,6 +10438,22 @@ I sat on the bank and gazed at the lake in some despair. Certainly I could not s
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il sogno
+
+L’orologio. Il cielo era aperto e splendente di stelle. Salii su un rilievo sulla mia destra e, cercando un posto dove sdraiarmi, ne trovai uno sotto un albero vicino a un grande palo del telegrafo. C’era un po’ d’erba secca; si poteva sdraiarsi lì, guardare il lago e aspettare di addormentarsi. Era una vera benedizione potersi stendere, sostenuto dalla terra asciutta, con la mia piccola borsa a mo’ di cuscino, ammirare la chiara notte sopra le colline, ascoltare quella musica lontana. E chiedersi se, in questa strana regione del sud, non ci fossero serpenti che si muovevano tra i cespugli. Intrappolato in queste sensazioni, mi calmai e mi addormentai.
+
+Per un po’ ho dormito senza sogni.
+
+Solo una parte di me stesso rimase capace di percepire l’aria intorno, senza però comprenderla veramente. Questa è la vita degli alberi: quella parte profonda e quasi inconscia della natura in cui alberi ed esseri umani “addormentati” sono immersi. Quella realtà non è solo dominata da una calma infinita, ma è anche pienamente soddisfatta, al di là di ogni espressione verbale. Nella sua stessa essenza c’è una gioia completa e immutabile. Sicuramente è questo che il grande filosofo intendeva quando disse ai giudici ateniesi che la morte non doveva essere temuta, poiché nessuna esperienza della vita era più piacevole di un sonno profondo. Poiché sagge, egli vedeva l’interconnessione di tutte le cose; quindi non poteva certo intendere con “morte” l’estinzione, che è assurda, ma piuttosto il passaggio in quella realtà sotterranea di cui parlo. Infatti, anche sotto la terra esistono dei dèi.
+
+Ma un sogno entrò nel mio sonno e mi disturbò, aumentando la mia angoscia e quindi causandomi dolore. Sognai di essere in lite, all’inizio in modo pacifico, poi violentamente, con un altro uomo. Lui continuava a pressarmi sempre di più, e alla fine nel sogno si udirono parole chiaramente pronunciate: mi disse: “Devi avere torto, perché sei così freddo; se avessi ragione, non saresti così freddo.” In quel mio stupido sogno, quella discussione mi sembrò del tutto logica, e mormorai: “Hai ragione, devo aver torto. Fa molto freddo, ” Poi aprii leggermente gli occhi e vidi il palo del telegrafo, gli alberi e il lago. Lontano, sul lago, dove confina il confine italiano, i cacciatorpediniere, alla ricerca di contrabbandieri, proiettavano i loro fasci luminosi. Uno di quei raggi mi colpì in pieno viso e mi svegliai completamente. Mi alzai. Faceva davvero molto freddo, un freddo umido e penetrante che non si poteva misurare in gradi termici, ma forse era dovuto all’umidità dell’aria, o a qualche altra influenza più sottile dell’ambiente circostante.
+
+Mi sedetti sulla riva e fissai il lago con un senso di disperazione. Di certo non avrei potuto riposare di nuovo senza una coperta; erano già passate le dodici di notte, e non conoscevo nessuna casa. Non sapevo nemmeno se, percorrendo quella strada, ne avrei trovata una dopo un miglio, due miglia o cinque miglia. E, badate bene, ero completamente esausto. Quell’enorme.
+
+* * *
 
 
 
@@ -7701,6 +10479,26 @@ When I woke and rose I was the first to be up and out. It was high morning. The 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La casa nella notte
+
+La marcia da Faido, sebbene fosse stata saggiamente interrotta dalla siesta a Bellinzona, richiedeva ancora diverse ore fredde all’ombra degli alberi. Pensai ai tre miseri franchi che avevo in tasca e ai trentotto miglia che mancavano per arrivare a Milano.
+
+Le stelle avevano già superato la metà del loro lento movimento circolare; le osservavo, splendide e ordinate, provando compassione per loro, proprio come io stesso, regolarmente ma lentamente e con dolore, procedevo lungo il mio cammino predestinato. Ma in un attimo, una grande casa bianca, quadrata e alta, si ergeva proprio sul ciglio della strada; con immensa gioia vidi una luce accesa in uno dei suoi piani superiori. Così, stando sotto di essa, gridai ad alta voce “Hola!” cinque o sei volte. Una donna mise la testa fuori dalla finestra, nel fresco della notte, e disse: “Non può dormire qui; non abbiamo stanze libere.” Poi rimase lì, pronta ad analizzare le difficoltà del momento. Era una donna gentile e grassoccia.
+
+In un attimo, un’altra finestra allo stesso livello, ma più lontana da me, si aprì, e un uomo si sporse fuori, proprio come quelle figure che appaiono e scompaiono all’interno dei giocattoli che indicano il tempo. “È impossibile,” disse l’uomo; “non abbiamo stanze disponibili.”
+
+Poi parlarono molto insieme, mentre io gridavo: “Che cosa volete? Non è possibile dormire nella foresta. Fa troppo freddo! Volete assassinarmi? Venite da Lugano. E poi, non è possibile tornare indietro!” e così via.
+
+Risposero in strofe e antistrofe, a volte tutti insieme in coro completo, altre volte in semicoro, e anche con variazioni; dissero che era impossibile. Poi una luce apparve nelle fessure della loro grande porta; la serratura si aprì con un cigolio. Una terza persona, un giovane alto, stava nell’atrio. Entrai anch’io nell’atrio e mi posizionai lì. Lui mi guardò attraverso la luce di una candela e mormorò, come se si scusasse: “È impossibile.”
+
+Qualunque cosa avessi in comune con questi sudisti mi fece capire che avevo vinto; così gli sorrisi e annuii; anche lui sorrise e subito mi fece segno di seguirlo. Mi portò al piano di sopra e mi mostrò un letto incantevole in una stanza pulita, dove c'era un ritratto del Papa che sembrava davvero astuto. Il prezzo per quel luogo piacevole e accogliente era di sei penny; quando salutai il giovane, anche l’uomo e la donna al piano di sopra mi augurarono la buonanotte. E questa fu la mia prima esperienza con quella caratteristica più permanente del carattere italiano. Che brave persone!
+
+Quando mi svegliai e mi alzai, fui il primo ad uscire di casa. Era già mattina inoltrata: il sole non era ancora completamente sorto oltre le montagne orientali, ma avevo dormito poco, sebbene brevemente e con grande tranquillità; il mondo sembrava nuovo e pieno di gioia. Il cielo presentava colori simili a quelli delle opere in metallo che si possono vedere negli studi di Parigi: c’era oro che sfumava nel bronzo, e sopra tutto questo, il bronzo.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_197_the_waggon_boats" data-title="The Path to Rome — The Waggon-Boats" data-chapter="The Waggon Boats" data-kind="story" data-tags="motif/ship,motif/water,concept/poverty,form/travel_writing,histref/catholic_church,setting/italy"></span>
@@ -7719,6 +10517,20 @@ You may think it trivial, but it was certainly a portent. One of the acolytes ha
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#I barconi-vagone
+
+Ammorbidito fino al colore dell’argento. Una leggera brezza mattutina, coraggiosa e costante, soffiava sul lago, provocando increspature gioiose sull’acqua; non c’era nulla che non si muovesse e non si divertisse in quel giorno.
+
+Il Lago di Lugano ha una forma complessa e molte diramazioni. In questo tratto è davvero molto stretto e poco profondo; su di esso è stato costruito un ponte a arco basso che attraversa l’intera lunghezza del lago, permettendo così al treno e alla strada di raggiungere la riva orientale. Girai lungo questo ponte e notai il panorama a nord: sulla sponda opposta si trovava un vecchio villaggio e alcune residenze estive appartenenti a persone ricche; anche i barchi iniziavano già a muoversi sul lago. Questi barchi erano particolari, diversi da quelli normali: erano coperti da teli e assomigliavano a carri galleggianti; questo per proteggere i rematori dal sole. Lontano, un uomo navigava usando una piccola vela marrone. Era mattina, e tutto intorno sembrava animarsi.
+
+Il caffè nel villaggio mi lasciò due franchi e due penny. Pensavo ancora che fosse possibile farcela; quanto sono rinvigorenti e ingannevoli le prime ore del mattino. Proseguendo lungo la strada, arrivai davanti a un vecchio e bellissimo cortile sulla sinistra; lo disegnai. Sentendo suonare una campanella, vidi una chiesa in rovina, circondata da alberi; entrai per partecipare alla messa. Anche se si trattava di una semplice messa in un piccolo villaggio, il prete aveva tre accoliti che la assistevano. E (un vero segno di una nazione cattolica!) questi ragazzi erano irrequieti e distratti durante le loro funzioni.
+
+Potreste pensare che sia una cosa banale, ma di certo era un presagio. Uno degli accoliti aveva metà della testa completamente rasata. Una vista davvero straordinaria! Non riuscivo a smettere di pensarci.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_198_the_oracle" data-title="The Path to Rome — The Oracle" data-chapter="The Oracle" data-kind="story" data-tags="archetype/prophetess_seer,concept/superstition_and_omen,concept/paganism_and_classical_revival,form/travel_writing,histref/ancient_greece,character/apollo"></span>
@@ -7734,6 +10546,18 @@ Matutinus adest ubi Vesper, et accipiens te Saepe recusatum voces intelligit hos
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'Oracolo
+
+Distolsi lo sguardo da esso e desiderai ardentemente di avere con me un libro degli Omen per capirne il significato.
+
+Quando sulla terra esistevano gli oracoli, prima che Pan morisse, questa scena sarebbe stata di estrema utilità. Avrei infatti consultato la donna-oracolo per ottenere una risposta, ad esempio a Biasca, o nei solitari boschi della Montagna della Cenera; dopo aver bruciato molto incenso, esitato a lungo e lottato con il dio, l’oracolo avrebbe accettato la risposta di Apollo e, fissando me con sguardo estasiato, avrebbe recitato versi che, anche se ambigui, sarebbero comunque stati utili come guida. Così.
+
+Al mattino arriva dove tramonta il sole; e colui che ti accoglie, spesso rifiutato in passato, ora comprende le tue voci sconosciute. I fiumi e la terra occupano tutto il cammino. Nel luogo sacro, si trova un tempio dove si evita di tagliare i capelli dei pelosi; infatti, un percorso in ferro ostacola il passaggio pedonale, rendendo il viaggio ancora più faticoso.
+
+* * *
 
 
 
@@ -7781,6 +10605,48 @@ For my part I was determined to explore this curious town in the water, and I es
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# L'inglese di tutto ciò
+
+Per pietà, tu che hai avviato questo progetto, falliscilo. Amore, rispetta gli antichi riti e il potere di Roma.
+
+LETTORE: Che grandi participi, così volgari!
+
+AUTORE: Beh, beh. Si trattava soltanto di un oracolo rustico, e inoltre la rivelazione avvenne a un prezzo di 9 3/4 d. E anche questo presupponendo che l’argento fosse al suo valore nominale. Traduciamolo quindi per il popolo comune.
+
+Quando l'alba sembra essere già sera, e coloro che ancora rifiutano di accettare ricevono comunque; quando parole sconosciute vengono comprese dagli uomini; e quando le inondazioni si attraversano su terra asciutta. All’interno delle Mura Sacre, fate attenzione a colui dalla testa rasata che si vanta di avere i capelli. Perché quando il viaggio raggiungerà la sua meta finale, il grande tentativo del [[Pilgrim|>Pellegrino]] fallirà.
+
+Certo, un simile oracolo avrebbe potuto facilmente far sì che io temessi troppo. Quella “testa rasata” avrei dovuto considerarla quella di un prete, soprattutto se incontrata “in un tempio”; questo mi avrebbe potuto impedire di entrare in una chiesa, il che sarebbe stato terribile. Inoltre, avrei potuto interpretarlo come un segno che non avrei mai dovuto raggiungere Roma, il che avrebbe rappresentato un enorme peso per la mia mente. Tuttavia, man mano che gli eventi si sviluppavano, l’oracolo diventava sempre più chiaro. E sentivo profondamente la sua mancanza. Perché, ripeto, avevo certamente ricevuto un presagio.
+
+La strada si avvicinava ormai alla fine del lago; la città chiamata Capo di Lago si trovava a destra di me. Vidi anche che in poco tempo avrei raggiunto improvvisamente le pianure. Una bassa collina, situata a circa cinque miglia davanti a me, rappresentava l’ultima cresta delle [[Mountains|montagne]]; proprio sopra di me si ergeva l’ultimo picco alto, una cima scoscesa di roccia nuda, su cui correva una ferrovia a cremagliere che conduceva a un hotel o a qualche altro luogo. Passai attraverso un vecchio borgo sotto il calore crescente del sole; oltrepassai anche un cimitero, costruito secondo lo stile italiano, con statue di marmo che sembravano persone vive. La strada svoltò a sinistra e mi trovai finalmente sul bordo dell’ultimo versante glaciale. Mi trovavo quindi sulla sponda meridionale delle Alpi, davanti a me si estendeva la Lombardia.
+
+Anche in questa fine del cantone svizzero, si poteva notare ancora più chiaramente la forte influenza dell’[[Italy|Italia]]. Un villaggio situato su una roccia, foreste fitte e una gola sottostante: le sue case e la sua chiesa rivelavano appieno lo spirito italiano.
+
+La città di frontiera era Chiasso. Esitai con reverenza prima di toccare quella terra sacra a cui avevo impiegato così tanto tempo ad arrivare, e desideravo ardentemente poterne assorbire i benefici; ma anche se avevo percorso, suppongo, dieci miglia.
+
+* * *
+
+Come
+
+Il caldo aumentava, ma non avrei smesso; perché ricordavo quei due franchi. E la mia precedente certezza di raggiungere Milano iniziava a vacillare e svanire. Il terribile calore del mezzogiorno mi avrebbe presto colpito: avevo ancora quasi trenta miglia da percorrere, e quella brutta notte iniziava ad opprimermi.
+
+Attraversai il confine, che qui rappresenta una linea immaginaria. Due funzionari doganali trasandati mi chiesero se avessi qualcosa di soggetto a dazio con me. Risposi di no, e era evidente: nel mio piccolo sacco o nella mia tasca non c’era altro che un pezzo di pane. Se avessero applicato il metodo americano, perquisendomi in cerca di denaro, allora sì che avrebbero potuto respingermi; sarei stato costretto ad andare nei campi, a circa un quarto di miglio di distanza, e poi entrare nel loro paese attraverso un sentiero invece di una strada principale.
+
+A me questa necessità fu risparmiata. Salii lentamente lungo la lunga pendenza che nasconde Como, poi mi ritrovai davanti a quella meravigliosa città e vidi il suo contorno di colline e il lago sotto di me.
+
+Queste cose non sono come quelle che si vedono con gli occhi. Lo dico di nuovo: sono simili a ciò che si prova quando suona della musica.
+
+Entrai a Como tra le dieci e le undici per mangiare qualcosa, e poi un nuovo interesse prese il sopravvento nella mia mente, riempiendola di ricordi di questa grande avventura. Il lago era in piena inondazione, e tutta la città era sommersa dall’acqua.
+
+Como secca deve essere abbastanza interessante; Como allagata è davvero un miracolo. E cosa altro è Venezia? Ebbene, qui abbiamo una Venezia ai piedi di alte [[Mountains|montagne]], tutta immersa nell’acqua, senza strade né piazze; con una profondità media di circa tre piedi e mezzo, ideale per la navigazione, simile a quella che si trova nel canale della Spitway nel fiume Tamigi durante le basse maree primaverili.
+
+C'erano alcune barche in giro, ma il traffico e gli spostamenti a Como avvenivano su assi posizionati su ponti temporanei sopra l'acqua; per coloro che erano di fretta e potevano permetterselo (come i taxi a Londra), c'erano carri a ruote, carretti trainati da uomini a pagamento; era uno spettacolo davvero indimenticabile vedere gli uomini ricchi di Como seduti su questi mezzi, trasportati sull’acqua dai poveri. Un vero e proprio esempio di tutta la sociologia, l’economia, la religione, le organizzazioni caritatevoli, lo spirito di impegno, il liberalismo e la sofisticazione moderna.
+
+Per quanto mi riguarda, ero deciso ad esplorare questa curiosa città sull’acqua, e desideravo particolarmente vederla dal lato del lago, perché lì si poteva avere la migliore impressione del fatto che fosse davvero una città acquatica; così mi diressi a nord, come mi era stato indicato, e scoprii inaspettatamente quella straordinaria cattedrale.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_200_estimate_of_consuls" data-title="The Path to Rome — Estimate Of Consuls" data-chapter="Estimate Of Consuls" data-kind="story" data-tags="motif/dawn,setting/italy"></span>
@@ -7807,6 +10673,28 @@ I went into the cool of the cathedral to sit in its fine darkness and think bett
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Stima dei consoli
+
+Sembrava essere fatto di marmo lucido; era davvero squisito sotto ogni aspetto: le proporzioni erano perfette, la scultura delicata e l’insieme aveva un’aria maestosa. Così pensai tra me.
+
+Non c’è da meravigliarsi che le persone lodino l’[[Italy|Italia]]: se già questa prima città italiana possiede un edificio del genere.
+
+Ma, come imparerete in seguito, molte delle cose lodate sono in realtà brutte, e vengono lodate soltanto da alcuni seguaci di ciarlatani.
+
+Così proseguii fino a raggiungere il lago, e lì trovai un piccolo porto grande più o meno quanto una sala da pranzo (perché i laghi italiani sembrano piccoli mari: hanno piccoli porti, piccole torri di guardia, piccole flotte da guerra, piccoli uffici doganali, piccole tempeste e piccole linee di navi a vapore. Davvero, se si volesse regalare a un bambino ricco un modello o un giocattolo perfetto, non si potrebbe trovare nulla di meglio di un lago italiano). Dopo aver fissato a lungo quella città, che sembrava sorgere direttamente dal lago, mi sentii stordito e pensai: “Dev’essere per la fame, ”, perché da undici miglia prima, all’[[Dawn|'alba]], non avevo mangiato altro che caffè e pane.
+
+Così tirai fuori i miei due franchi, entrai in un piccolo negozio e comprai del pane, della salsiccia e un po’ di vino per quattro penny; con altri centottanta franchi rimasti, mi fermai in strada a mangiare, chiedendomi quale dovesse essere il mio prossimo passo.
+
+Sulla mappa sembrava che ci fossero circa venticinque o ventisei miglia fino a Milano. Ormai era quasi mezzogiorno e faceva un caldo terribile. Forse avrei potuto percorrere quella distanza in otto o nove ore, se avessi resistito, ma non mi immaginavo di camminare sotto quel sole cocente nella pianura lombarda. Anche se ci fossi riuscito, sarei arrivato a Milano solo al buio, quando l’ufficio postale (e con esso i miei soldi) sarebbe stato chiuso. E dove avrei potuto dormire? I miei centottanta franchi sarebbero finiti. Una persona che deve percorrere distanze così lunghe ha bisogno di mangiare bene almeno una volta al giorno, altrimenti si ammala. Avrei potuto chiedere l’elemosina, ma c’era il rischio di essere arrestato. E questo significava perdere ancora del tempo, forse diversi giorni. Il tempo, che già una volta mi aveva fatto fallire a Gries, minacciava di farlo di nuovo. Non avevo nulla da vendere o da impegnare, e non avevo amici. Non avrei nemmeno provato a rivolgermi al Console: conoscevo troppo bene come funzionano queste cose quando persone povere e sporche cercano di ottenere aiuto. Inoltre, non c’era nessun Console a cui potessi rivolgermi.
+
+Entrai nel fresco della cattedrale per sedermi nella sua bella oscurità e riflettere meglio. Mi sedetti davanti a un altare dove le candele bruciavano, accese dalle intenzioni private dei fedeli. Di molte di queste candele, due erano quasi del tutto consumate. Le osservavo mentre lentamente si avvicinavano alla fine quando, all’improvviso, mi venne in mente un pensiero.
+
+“Lo farò,” dissi a me stesso, “userò queste candele come simboli di una prova o di un giudizio divino. Quella della mano sinistra rappresenterà il tentativo di intraprendere quel percorso con il rischio di ammalarsi o di fallire in modo molto pericoloso; quella della mano destra simboleggerà la mia decisione di procedere.”
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_201_ordeal_of_the_candals" data-title="The Path to Rome — Ordeal Of The Candals" data-chapter="Ordeal Of The Candals" data-kind="story" data-tags="archetype/pilgrim"></span>
@@ -7829,6 +10717,24 @@ I thought of that other medieval and papistical [[Pilgrim|pilgrim]] hobbling alo
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Provazione dei candeli
+
+In treno, fino al punto della linea ferroviaria dove ottanta franchi mi porteranno lì, e poi a piedi verso Milano. E che il cielo protegga la giustizia.
+
+Uscivano insieme da molto tempo, e si spegnevano entrambi allo stesso modo. Alla fine, la candela della destra sprigionò quella lunga fiamma che precede la morte di una candela; la competizione divenne interessante, persino emozionante. Quando, proprio mentre pensavo che la candela della sinistra avrebbe vinto, si spense senza preavviso, come se una persona di poco conto lasciasse questo mondo per un altro. La candela della destra continuò a muovere la sua fiamma sempre più in alto, come se trionfasse, sopravvisse al proprio “compagno” solo per godersi quel momento di gloria, e poi, a sua volta, iniziò a tremolare lungo quel sentiero oscuro dal quale, si dice, non c’è ritorno.
+
+Nessuno può opporsi alla voce degli Dei. Sono andato direttamente alla stazione ferroviaria più vicina (ne ce ne sono due) e, dopo aver pagato ottanta franchi, ho chiesto in francese un biglietto per la destinazione che quel denaro avrebbe permesso di raggiungere. Il biglietto indicava Milano; ho riconosciuto così il miracolo e ammesso l’intervento della Provvidenza. Non c’era resto, e quando sono salito sul treno sono diventato quel tipo di viaggiatore estremamente raro: un uomo senza soldi, senza passaporto, senza lettere, senza cibo né vino. Sarebbe interessante vedere cosa sarebbe successo se il treno si fosse rotto.
+
+Avevo percorso 378 miglia, più o meno tre furlong.
+
+E così infransi – ma su ordine diretto – l’ultimo e più caro dei miei voti; mentre il treno si allontanava, godetti del movimento delle ruote che rotolavano.
+
+Mi sono ricordato di quel altro pellegrino medievale e papista che zoppicava invece di “approfittare di qualsiasi mezzo a ruote”, e mi sono messo a ridere di lui. Ora, se Moroso-Malodoroso o qualsiasi altro uomo e scienziato non-ariano, anticristiano, eccessivamente induttivo e di mente fragile dovesse notare qualcosa di straordinario nel fatto che uno si rida di un altro, lasciate che gli dica, a suo grande beneficio e per la sua sorpresa: conoscevo un uomo che aveva cinquantasei “versioni di sé” (ne avrebbe avute cinquantasette, se non fosse stato per il poeta che era in lui e che è morto giovane); poteva farle apparire o scomparire a piacimento, e erano molto utili da prestare al parroco nei giorni festivi, quando voleva organizzare una processione dignitosa. Conoscevo anche un altro uomo che poteva rendersi così alto da dominare con lo sguardo gli scienziati, come un pino domina l’erba; oppure così piccolo da riuscire a vedere chiaramente quella spessa patina di orgoglio malvagio che li ricopre, rendendoli quasi impenetrabili. Ecco tutto riguardo ai moderni.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_202_milan" data-title="The Path to Rome — Milan" data-chapter="Milan" data-kind="story" data-tags="setting/italy"></span>
@@ -7848,6 +10754,22 @@ IS»
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Milano
+
+Il treno continuava ad avanzare. Vedevo la Lombardia attraverso i finestrini; è una regione piatta. Ascoltavo le conversazioni dei contadini ammassati nel treno, ma non riuscivo a capirle. Due volte mi sporsi fuori per vedere se Milano si ergesse davanti a me in lontananza, ma non vidi nulla. Poi mi addormentai; quando mi svegliai all’improvviso, eravamo già arrivati alla stazione terminale di quella nobile e grande città. Subito dopo iniziai a cercare i soldi e il cibo di cui avevo bisogno. Era ancora presto nel pomeriggio.
+
+Che città magnifica è Milano! Le grandi case sono tutte di pietra e si ergono ordinate lungo strade ampie e dritte. Ci sono veicoli veloci, trainati dall’elettricità, per coloro che possono permetterseli. Gli uomini sono vivaci ed efficienti anche nel caldo estivo; ci sono negozi di ottima qualità, sebbene un po’ vistosi. Ci sono molti giornali che aiutano i milanesi a diventare persone migliori e a coltivare la carità e l’umiltà; ci sono banche piene di denaro cartaceo; ci sono soldati, strade ben tenute e tutto ciò di cui un uomo ha bisogno per essere felice, sia nel corpo che nell’anima. Ci sono caffè, gallerie commerciali, proiettori cinematografici, e ogni segno di uno stato perfetto. E tutto questo ruota attorno a una splendida piazza aperta, al centro della quale si trova la cattedrale, davvero la più famosa del mondo.
+
+Il mio pellegrinaggio è verso Roma; il mio interesse riguarda i luoghi solitari, le colline e il ricordo dello spirito. Sarebbe inutile descrivere in dettaglio questa maestosa capitale. Le nebbie, i boschi, la neve e il cammino interminabile mi avevano reso poco adatto a quel luogo. E ne ero imbarazzato. Mi sedetti fuori da un caffè, di fronte alla cattedrale, osservando le sue guglie illuminate; ma ero ancora imbarazzato. Forse gli ho fatto del male restando lì, nel suo bellissimo caffè, in disordine, con quei vestiti, come un vagabondo; ma lui fu gentile nonostante la sua ricchezza, e ordinai anche per lui una bevanda molto costosa, per rimediare al mio errore. Gli mostrai i miei schizzi e gli raccontai delle mie avventure in Francia. Lui fu così gentile da sedersi di fronte a me e bere quella bevanda con me. Parlava francese molto facilmente, come sembra accada a tutti questi uomini nelle principali città del nord dell’[[Italy|Italia]]. Comunque, la luce del giorno mi metteva in imbarazzo. Solo quando calò la notte mi sentii a mio agio.
+
+Vagabondai per le strade fino a quando non vidi un piccolo ristorante; lì mangiai bene. Ma quando si vive la vita dei poveri, si capisce quanto siano difficili le grandi città: tutto è più costoso e peggiore rispetto alle semplici campagne. L’oste e sua moglie erano gentili, ma i loro occhi mostravano che spesso dovevano diffidare delle persone. Mi offrirono un letto, ma il prezzo era di un franco e qualcosa; dovetti pagare prima di poter salire. Le pareti erano umide di muffa.
+
+IS»
+
+* * *
 
 
 
@@ -7873,6 +10795,26 @@ On the map, before coming to this desolate place, there seemed a straighter and 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lombardia
+
+Catastrofi e malvagità: il letto traballante non era pulito, la porta era rotta e storta. Quella notte fui sopraffatto dall’immagine della povertà. Sporcizia, rumore e condizioni disumane mi circondavano. Eppure quelle persone avevano buone intenzioni.
+
+Con l'alba, mi alzai silenziosamente, felice di rivedere la strada e l’aria fresca. Mi fermai nella cripta della cattedrale per ascoltare la Messa Ambrosiana: era (come mi aspettavo) come tutte le altre, tranne per una sorta di rituale aggiuntivo prima dell’elevazione del Santissimo Sacramento. Leggendo le assurdità distorte proprie del Nord, si potrebbe pensare che nel rito ambrosiano il sacerdote aggiungesse “non” davanti al Credo, “nec” in ogni sua clausola, e rinunciasse ai propri voti battesimali durante il Kyrie; ma i milanesi sono cattolici come tutti gli altri, e gli storici del Nord sono o bugiardi o ignoranti. Ne conosco tre che lo sono entrambi.
+
+Poi mi misi in cammino lungo quella lunga strada che conduce a sud fuori da Milano, e presto mi trovai nel noioso e squallido sobborgo della zona di Piacenza. Il cielo era grigio, l’aria fredda; e dopo poco, ahimè!, iniziò a piovere.
+
+La Lombardia è una pianura alluvionale.
+
+È un modo piacevole di dirlo. La verità, però, è ancora più evidente se si afferma che la Lombardia sia piatta come una palude e composta interamente da fango. Certo, questo fango asciuga quando il sole lo illumina, ma rimane comunque fango; e quel giorno, non appena iniziò a piovere, divenne immediatamente evidente che si trattava di fango. E sembrava ancora di più fango quando si notavano le crepe nel terreno umido causate dal calore del giorno precedente.
+
+La Lombardia non possiede foreste, ma solo gruppi di alberi; inoltre (cosa molto notevole), tutto il territorio è coltivato in campi più o meno quadrati. Questi campi sono circondati da canali pieni di fango e acqua che scorre lentamente; alcuni di essi vengono addirittura allagati per la coltivazione del riso. Lungo i bordi di tutti questi campi ci sono pochi alberi, ma non molto alti. Non esistono vedute aperte in Lombardia; il paesaggio è uniforme in ogni direzione. Grandi fattorie disordinate si trovano sparse ovunque nel territorio; nessuna zona della Lombardia è lasciata incolta. Ci sono moltissimi piccoli villaggi, molte piccole città disseminate a distanze di circa sette o otto miglia l’una dall’altra, e un gran numero di città più grandi situate a trenta o cinquanta miglia di distanza. Infatti, questa strada che conduce a Piacenza, ora coperta dalla pioggia in uno scenario desolato, faceva parte delle tratte più lunghe tra due città importanti, anche se la sua lunghezza era inferiore a cinquanta miglia.
+
+Sulla mappa, prima di arrivare in questo luogo desolato, sembrava esistere un percorso più diretto e migliore per raggiungere Roma rispetto a questa strada principale. C’è un fiume chiamato Lambro che scorre a est di Milano e interseca la strada che va verso Piacenza in un punto chiamato Melegnano; sembrava che portasse direttamente fino a un punto sul Po, poco a nord di Piacenza. Si poteva seguire questo corso d’acqua (almeno così sembrava), e una volta raggiunto il Po, prendere una barca o un traghetto per attraversare e trovarsi dall’altra parte il famoso fiume Trebbia, dove Annibale.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_204_napoleons_road" data-title="The Path to Rome — Napoleon’S Road" data-chapter="NapoleonS Road" data-kind="story" data-tags="motif/rain,motif/road,concept/fate_and_free_will,concept/poverty,form/travel_writing,histref/napoleon,setting/italy"></span>
@@ -7895,6 +10837,24 @@ It was not nearly midday, but I had walked perhaps fifteen miles, and had only r
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# La strada di Napoleone
+
+Conquistato, e Joubert cadde; quindi proseguite dritti verso gli Appennini.
+
+Poiché nei libri si dice sempre che la Lombardia sia un forno in estate, e che intere armate siano morte a causa del caldo lì, questa riva del fiume sarebbe stato un ottimo rifugio. Acqua limpida e deliziosa, più trasparente del vetro, avrebbe riflesso e riverberato i pioppi agitati dal vento, rendendo il caldo estivo sopportabile, se non addirittura piacevole. Ma non era così. Era un modo di pensare tipico del nord, che giungeva a questa conclusione valutando le cose del nord. In tutta la Lombardia non esiste nemmeno un ruscello limpido: ogni fiume e torrente trasporta fango. Con la pioggia, il pericolo non deriva dal caldo, ma da un freddo umido e penetrante. Non si può camminare lungo le rive dei fiumi: sono costituite da scogliere di terra friabile, disordinate e instabili.
+
+Come scrive Pinkerton (Sir Jonas Pinkerton), l’uomo può essere padrone del proprio destino, ma possiede anche un “povero servitore” prezioso: è molto più facile comandare un cagnolino o un mulo per tutta la giornata che il proprio destino per mezz’ora.
+
+Tuttavia, anche se era evidente che avrei dovuto seguire la strada principale per un po’, decisi infine di deviare a destra e di passare attraverso un luogo chiamato ‘Old Lodi’. Pensai così: “Lodi è una città famosa. Quanto più interessante dovrà essere Old Lodi, che è la città natale di Lodi?” Inoltre, Old Lodi mi riportò nuovamente sulla linea dritta verso Roma. E io, stupidamente, pensai che forse lì avrei potuto scoprire qualche strada diretta lungo il fiume Lambro (poiché quel fiume continuava a esercitare su di me una certa attrazione).
+
+Pertanto, dopo ore e ore di faticoso cammino lungo l’ampia strada sotto la pioggia incessante, dopo aver attraversato il tortuoso Melegnano senza nemmeno fermarmi per chiedermi se fosse il luogo della battaglia, dopo aver notato con disperazione l’impossibile Lambro, sono arrivato, senza curarmi di nulla, al punto in cui una strada secondaria si dirama a destra attraverso un passaggio a livello e conduce verso Lodi Vecchio.
+
+Non era ancora mezzogiorno, ma avevo percorso circa quindici miglia e mi ero riposato soltanto una volta in una misera trattoria. In meno di tre miglia raggiunsi quel villaggio disordinato e lungo, costruito sulla terra e dove la gente viveva nella povertà; sotto la pioggia silenziosa, fredda e incessante, percorsi la strada principale. Superai cani tremanti e polli tristi che cercavano rifugio contro i muri; passai anche davanti a un cavallo malinconico che abbassava la testa nella pioggia, aspettando il suo padrone. Finalmente arrivai alla piazza aperta dove sorgeva la chiesa: allora capii di aver visto tutto ciò che Old Lodi aveva da offrirmi. Entrando in una locanda situata di fronte alla chiesa, vidi una ragazza e sua madre che servivano i clienti; le salutai, ma non c’era fuoco. Il mio cuore si abbassò fino al livello di quella stanza, che, ne sono sicuro, aveva una temperatura di al massimo cinquantaquattro gradi.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_205_old_lodi_its_ugly_church" data-title="The Path to Rome — Old Lodi, Its Ugly Church" data-chapter="Old Lodi Its Ugly Church" data-kind="story" data-tags="motif/rain,motif/road,concept/memory,concept/joy,form/travel_writing,setting/italy"></span>
@@ -7910,6 +10870,18 @@ These ‘by-roads’ of the map turned out in real life to be all manner of abom
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Vecchia Lodì, la sua brutta chiesa
+
+Perché dovrebbe essere ricordata in modo particolare la parte meno piacevole di un pellegrinaggio? Nella vita, ciò che viene ricordato con più gioia è proprio ciò che, per contrasto, ci rende tristi; il dolore, in qualche misura, soprattutto se acuto; ma la noia mai. E un libro – che ha il potere di scegliere e di enfatizzare ciò che vuole – non dovrebbe mai registrare la noia. Cosa ho fatto a Lodi Vecchio? Ho mangiato; ho asciugato i miei vestiti davanti a un camino tiepido in una cucina. Ho cercato di farmi capire dalla ragazza e sua madre. Sono seduto alla finestra e, per principio, ho disegnato quella brutta chiesa. Oh, che schizzo orribile!
+
+Digno di quella pianura lombarda, di cui mi avevano detto che fosse piena di cose meravigliose. Abbandonai ogni speranza di usare le strade secondarie e decisi di tornare sulla strada principale in modo obliquo. Obliquo, per risparmiare tempo! Nepio!
+
+Questi “sentieri secondari” della mappa si rivelarono nella realtà essere ogni sorta di strade orribili. Alcune erano asfaltate, altre erano soltanto solchi lasciati dai carri, altre ancora erano semplicemente vie coperte d’erba alta; lungo la maggior parte di esse correva un fossato disgustoso, e in molti campi l’acqua stagnante testimoniava della desolazione del luogo. Per quanto si possa dire che avessi una qualche direzione da seguire, l’avevo persa completamente. Non potevo chiedere indicazioni, perché il mio unico obiettivo finale era Piacenza, e questa distanza era enorme. Non conoscevo nemmeno i nomi dei luoghi che avrei dovuto attraversare. Passai accanto a due o tre gruppi di case; a volte, tra la pioggia, si intravedevano le guglie delle chiese. Superai anche una strada più larga e trafficata delle altre, ma ovviamente non era quella che cercavo. Proseguii ancora, e dopo aver percorso quasi quattro ore attraverso la Lombardia, ero completamente perso. Non riuscivo più a individuare la direzione nord, e chissà se stessi andando indietro. L’unica cosa certa era che mi trovavo da qualche parte nella zona compresa tra la strada principale e il fiume Lambro, ma questo non era certo un gran aiuto, alla fine di una giornata del genere. Disperato, pregai mentalmente che accadesse un miracolo. E poco dopo vidi un uomo anziano, curvo in avanti, seduto su un carretto strano e.
+
+* * *
 
 
 
@@ -7953,6 +10925,44 @@ LECTOR. I will, and I draw my inspiration from your style.
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Niente di che
+
+Davanti a me, a un passo molto più lento di quello di una camminata, il passo di un cavallo che striscia sul terreno. Lo raggiunsi e, dubitando molto che potesse capire una parola, gli dissi ripetutamente:
+
+“La grande via? La via per Piacenza?”
+
+Scosse la testa, come per indicare che quel vicolo lurido non era una strada. Proprio quando avevo perso ogni speranza di imparare qualcosa, lui puntò il braccio verso destra, perpendicolarmente alla strada su cui ci trovavamo, e annuì. Muoveva la mano su e giù. Stavo andando a nord!
+
+Ricevuto quel segnale, non aspettai all’incrocio, ma superai il piccolo fossato e mi inoltrai tra l’erba alta, attraversando altri fossati, lungo i bordi dei campi di mais in crescita, ignorando del tutto il pesante fardello sulle mie scarpe e il terreno fangoso sotto i miei piedi. Fino a quando, contro il cielo piovoso, non vidi una fila di pali del telegrafo. Per la prima volta da quando erano stati costruiti, quel loro spettacolo portò gioia in un uomo. Tra me e la ferrovia c’era un lungo stagno stagnante pieno di canne; ma superandolo, trovai una strada che attraversava la linea ferroviaria a livello del terreno e mi condusse sulla grande strada per Piacenza. Quasi immediatamente apparve un villaggio: si chiamava Secugnano. Lì entrai in una casa; un cespuglio appeso sopra la porta sembrava promettere divertimento. Una vecchia donna mi offrì cibo, bevande e un letto. Era già notte, e sul tetto sopra di me si udiva il rumore costante della pioggia.
+
+La mattina seguente – che il Cielo protegga il mondo dal male! – pioveva ancora.
+
+LETTORE: Non mi sembra che questa parte del tuo libro sia molto divertente.
+
+AUTORE: Lo so; ma cosa devo fare?
+
+LETTORE: Beh, qual era il prossimo punto del pellegrinaggio che potesse essere considerato almeno degno di nota?
+
+AUTORE: Immagino che si tratti del Ponte delle Barche.
+
+LETTORE: E fino a che punto era arrivato in quella storia?
+
+AUTORE: Circa quattordici miglia, più o meno. Sono passato attraverso una città il cui nome era lungo quanto il mio braccio, e penso che il Ponte delle Barche si trovasse ancora a nove miglia da lì.
+
+LETTORE: E pioveva continuamente, quindi c’era fango dappertutto, giusto?
+
+AUTORE. Esattamente.
+
+LETTORE: Beh, allora saltiamolo e raccontiamo storie.
+
+AUTORE: Con tutto il mio cuore. E poiché sei un ottimo giudice della poesia letteraria, inizia tu per primo.
+
+LETTORE: Lo farò, e trarrò ispirazione dal tuo stile.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_207_story_of_charles_blake" data-title="The Path to Rome — Story Of Charles Blake" data-chapter="Story Of Charles Blake" data-kind="story" data-tags="archetype/the_common_man,concept/the_common_man,concept/temptation,concept/good_vs_evil,form/short_story,form/biography,character/satan"></span>
@@ -7987,6 +10997,36 @@ So this Learned Man did all he was required, and daily would inform the messenge
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Storia di Charles Blake
+
+C'era una volta un uomo nato a Croydon, il cui nome era Charles Amieson Blake. A dodici anni andò a Rugby e ne lasciò i corsi a diciassette. Si innamorò due volte, poi andò a Cambridge fino ai ventitré anni. Dopo aver lasciato Cambridge, si innamorò di nuovo in modo più tranquillo e suo padre lo mise in un ufficio governativo, dove iniziava con uno stipendio annuo di 180 sterline. A trentacinque anni guadagnava 500 sterline all’anno, e i benefici aggiuntivi gli fruttavano altre 750 sterline. Conobbe una signora piacevole e si innamorò di nuovo, ma in modo molto più dolce rispetto alle precedenti volte. Lei guadagnava 250 sterline all’anno; insieme, quindi, guadagnavano 1000 sterline all’anno. Si sposarono e ebbero tre figli: Richard, Amy e Cornelia. Raggiunse una posizione elevata nel governo, fu nominato cavaliere, si ritirò a sessantatré anni e morì a sessantasette. È sepolto a Kensal Green.
+
+AUTORE: Grazie, Lettore, è una storia davvero molto bella. È semplice e piena di momenti umani e realistici. Sai come affrontare i fatti della vita quotidiana. Ci vuole davvero maestria. Dimmi, Lettore: quest’uomo ha vissuto qualche avventura?
+
+LETTORE: Nessuno, per quanto ne so.
+
+AUTORE: Aveva delle opinioni?
+
+LECTORE: Sì. Ho dimenticato di dirvi che era un unionista. Parlava male due lingue straniere. Spesso viaggiava all’estero, ad Assisi, Firenze e Boulogne. Ha lasciato 7.623 sterline, 6 scellini e 8 pence, oltre a una casa e un giardino a Sutton. Sua moglie vive ancora lì.
+
+AUTORE. Oh!
+
+LETTORE: È la storia umana, il compito quotidiano!
+
+AUTORE: Assolutamente vero, mio caro Lettore. La sorte comune. Ora lasciate che vi racconti la mia storia. Parla di quel Buco che non riusciva mai a essere riempito.
+
+# Lettore… Oh no! Autore… no! È la storia più antica del mondo…
+
+AUTORE: Pazienza, caro Lettore, pazienza! Vi racconterò tutto bene. Inoltre, vi prometto che questa storia non verrà mai più raccontata. La proteggerò con i diritti d’autore.
+
+Beh, c'era una volta un Dottore che aveva fatto un patto con il Diavolo: avrebbe avvertito gli emissari del Diavolo di tutte le buone azioni compiute intorno a lui, così da renderli infelici; in cambio, avrebbe ottenuto tutte quelle cose piacevoli della vita che di solito vengono date agli alleati del Diavolo, cioè una casa confortevole, autostima, buona salute, “abbastanza denaro per il proprio rango” e, in generale, ciò che si definisce “una vita felice e utile”, fino a mezzanotte di Halloween dell’ultimo anno del XIX secolo.
+
+So che questo Dottore fece tutto ciò che gli veniva richiesto e ogni giorno informava i messaggeri su quanto di buono venisse fatto o preparato nelle vicinanze; loro, però, rovinavano tutto. Così il luogo in cui viveva, che prima era una bella cittadina di campagna, divenne un grande centro industriale, pieno di ricchezza, bellissime case familiari e proprietà immobiliari. E all’inferno veniva chiamato “Depot B” (potete immaginare quale fosse “Depot A”). Ma alla fine, intorno al 15 ottobre 1900, il Dottore iniziò a.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_208_story_of_the_devil" data-title="The Path to Rome — Story Of The Devil" data-chapter="Story Of The Devil" data-kind="story" data-tags="concept/temptation,concept/good_vs_evil,concept/deception,concept/greed,form/short_story,form/satire,character/satan"></span>
@@ -8015,6 +11055,30 @@ That evening, at about half-past eleven, the Devil came to fetch the Learned Man
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Storia del diavolo
+
+Tremava di paura all'idea del giudizio divino; infatti, a differenza della gente della sua specie che viveva nell’ignoranza serena, lui era costretto ad credere nel Diavolo, e per questo tremava davvero molto.
+
+Allora gli venne in mente un piano per ingannare il Diavolo; la vigilia di Ognissanti praticò un piccolissimo foro rotondo sul pavimento dello studio, proprio vicino al caminetto, fino a raggiungere il seminterrato. Poi raccolse diverse cose capaci di causare grandi danni (giornali, documenti legali, bollette non pagate, e così via) e si preparò all’azione.
+
+La mattina seguente, quando i piccoli diavoli vennero come al solito a chiedere ordini, dopo le preghiere, li portò nel seminterrato e, indicando il buco nel soffitto, disse loro:
+
+“Amici miei, questo piccolo buco rappresenta un mistero. Credo che sia collegato alla cappella; ma non riesco a trovare l’uscita. Tutto ciò che so è che qualcuno di pio, o forse un angelo, desideroso di fare del bene, vi entra ogni giorno, pensando che possa causare del male nelle vicinanze, nella speranza di distruggerlo, ” (Per dimostrarlo, loro mostrò un mucchio di giornali sparsi sul pavimento della cantina sotto il buco). “E la cosa migliore che potete fare,” aggiunse, “è rimanere qui e raccoglierli ogni volta che vengono gettati via, per poi rimetterli in circolazione. Tut! tut!” continuò, prendendo una lettera minacciosa inviata da un usuraio a una vedova. “È sorprendente come queste persone interferiscano con i diritti più sacri. Questa lettera è stata addirittura rubata dalla posta! Assicuratevi che venga consegnata.”
+
+Quindi lasciava quei piccoli diavoli al lavoro e li riforniva dall’alto di ogni sorta di cose malvagie; loro le portavano immediatamente nel seminterrato e, di tanto in tanto, se ne andavano volando per riprodurle e diffonderle nuovamente.
+
+Quella sera, verso le undici e mezza, il Diavolo venne a prendere lo Studioso e lo trovò seduto alla sua grande scrivania, intento a scrivere. Lo Studioso si alzò molto gentilmente per accogliere il Diavolo e gli offrì una sedia vicino al fuoco, proprio vicino al piccolo foro rotondo.
+
+“Per favore, non muoverti,” disse il Diavolo; “Sono venuto presto apposta per non disturbarti.”
+
+“Sei molto bravo,” rispose l’Uomo di Lettere. “In realtà devo finire il mio rapporto sul progetto di Lady Grope per aiutare i poveri nel Bull Ring. Sta facendo qualche progresso. Ma la loro situazione è davvero disperata, caro signore; davvero disperata!”
+
+“Posso ben crederci,” disse il Diavolo con tristezza e solennità, appoggiandosi allo schienale della sedia e unendo le mani come se formassero un tetto. “I poveri nelle nostre grandi città, Sir Charles” (poiché lo studioso era stato nominato baronetto), “la loro condizione, ”
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_209_and_the_learned_man" data-title="The Path to Rome — And The Learned Man" data-chapter="And The Learned Man" data-kind="story" data-tags="concept/good_vs_evil,concept/deception,form/short_story,form/satire,character/satan"></span>
@@ -8040,6 +11104,28 @@ He clapped his hands, and a whole host of his followers poured in through the wi
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# L’uomo istruito
+
+“Dico. Non sento forse un soffio d’aria fresca?” aggiunse improvvisamente. Perché il Diavolo non sopporta affatto l’aria fresca.
+
+“Perché,” disse l’Uomo Istruito, come se si vergognasse, “proprio vicino alla tua sedia c’è un piccolo buco che ho cercato in tutti i modi di riempire, ma per qualche motivo sembra impossibile farlo. Non so, ”
+
+Il Diavolo odia le scuse e è soprattutto pratico: quindi ha semplicemente estratto l’anima di un avvocato dalla sua tasca laterale, l’ha legata in un nodo per renderla più rigida, e l’ha infilata nel buco.
+
+“Ecco!” disse il Diavolo soddisfatto; “se avessi preso un pezzo di stoffa o qualcosa del genere, avresti potuto farlo tu stesso. Ehi!, ” Guardò in basso e vide che il buco era ancora aperto; sentì nuovamente soffiare una corrente d’aria violenta. Ci pensò per un momento, poi mormorò: “Peccato che indossi i miei vestiti migliori. Non oso mai piegarli, e nelle tasche non ho nulla. Altrimenti avrei potuto portare qualcosa di più adatto.” Frugò nella tasca dei pantaloni sinistri, tirò fuori un pedante, lo appallottolò con cura e lo infilò dentro il buco; il pedante provò terribili sofferenze. Poi il Diavolo osservò attentamente. L’anima del pedante fu prima tirata verso l’interno, poi trascinata lentamente giù, fino a scomparire dalla vista.
+
+“Questo è davvero qualcosa di straordinario!” disse il Diavolo.
+
+“È il vento. È molto forte tra le travi,” osò dire l’Uomo di Lettere.
+
+“Che sciocchezze!” gridò il Diavolo. “È solo uno scherzo! Ma non sono mai stato catturato, e non lo sarò mai.”
+
+Lui batté le mani, e un intero gruppo dei suoi seguaci entrò dalle finestre portando con sé mutui, atti parlamentari, decisioni legali, dichiarazioni di guerra, statuti universitari, brevetti per medicinali, ordini di naturalizzazione, azioni di miniere d’oro, specifiche tecniche, prospetti finanziari, rapporti di compagnie idriche, accordi con editori, lettere patenti, concessioni di libertà cittadine, insomma, tutto ciò che il Diavolo controllava in termini di “rifiuti utili per tappare buchi”. Il Diavolo, inginocchiato a terra, li infilava nella cavità come un pazzo; ma non appena li metteva dentro, quei piccoli demoni sottostanti (che avevano chiamato in loro aiuto anche altri simili) li tiravano fuori immediatamente e se ne andavano. Il Diavolo, posseduto da una furia incontrollabile, frustava il pavimento con la coda; i suoi occhi brillavano come braci ardenti, il sudore gli scorreva sul viso, respirava affannosamente, e continuava a infilare nella cavità ogni cosa possibile. Alla fine, i suoi documenti e i suoi manoscritti sembravano soltanto strisce e lampi confusi. Ma quei fedeli piccoli demoni, implacabili, li tiravano via nel seminterrato con la velocità di macchinari, e poi li passavano ai loro assistenti. E tutte quelle povere anime perdute che erano state schiacciate dentro quella cavità.
+
+* * *
 
 
 
@@ -8083,6 +11169,44 @@ So the Learned Man was saved; but hardly; for he had to spend five hundred years
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Apparizione di San Carlo Borromeo
+
+Il personale si lamentava che la loro unica vacanza all’anno venisse loro tolta; proprio quando tutto procedeva così velocemente da sembrare il rumore di una macchina da stampa al massimo della potenza, l’orologio nell’atrio suonò le dodici.
+
+Il Diavolo si fermò all’improvviso e si alzò in piedi.
+
+“Fuori dalla mia casa,” disse l’Uomo Istruito; “fuori dalla mia casa! Ne ho abbastanza di voi, non ho tempo per queste sciocchezze! Sono già passate le dodici, e ho vinto!”
+
+Il Diavolo, sebbene ancora ansimante, sorrise con un sorriso malvagio e, tirando fuori il suo ricetrasmettitore (che aveva preso come trofeo dal corpo di un membro del Parlamento), disse: “Immagino che tu segua l’orario di Greenwich, ”
+
+“Certamente!” disse Sir Charles.
+
+“Beh,” disse il Diavolo, “allora è ancora peggio per te vivere nel Suffolk. Sei quattro minuti più veloce degli altri, quindi dovrai venire con me. E ti avverto: qualsiasi cosa tu dica ora potrebbe essere usata contro di te, ”
+
+A questo punto, il santo protettore dell’Uomo di Lettere, che riteneva che le cose fossero andate abbastanza lontano, si materializzò e tossì delicatamente. Entrambi si guardarono intorno, e videro San Carlo seduto nella poltrona.
+
+“Finora,” mormorò dolcemente il Santo al Diavolo, “non solo non sei arrivato quattro minuti prima del previsto, ma sei addirittura arrivato esattamente un anno in ritardo.” Dicendo questo, il Santo sorrise con un sorriso gentile e paterno, incrociò le mani e iniziò a far girare lentamente i pollici l’uno attorno all’altro, guardando il Diavolo con occhi pieni di affetto.
+
+“Cosa intendi dire?”, gridò il Diavolo.
+
+“Quello che dico,” disse San Carlo con calma, “è che il 1900 non è l’ultimo anno del diciannovesimo secolo; è il primo anno del ventesimo.”
+
+“Ah!” sogghignò il Diavolo, “anche tu sei un antivaccinista? Ora, ascolta bene” (e iniziò a contare sulle dita); “supponiamo che nell’anno 1 a.C, ”.
+
+“Non discuto mai”, disse San Carlo.
+
+“Beh, tutto quello che so è,” rispose il Diavolo con un certo calore, “che in questa questione, come nella maggior parte delle altre, grazie al Signore, ho dalla mia parte tutti gli storici e tutti gli scienziati, tutte le università, tutti i, ”
+
+“E io,” intervenne San Carlo, agitando la mano come un gentiluomo (dopo tutto è un Borromeo), “io ho il Papa!”
+
+In quel momento il Diavolo emise un terribile urlo e scomparve in un tuono; non fu più visto fino al suo recente ritorno a Brighton.
+
+Quindi il Dottore fu salvato, ma solo a malapena: dovette infatti trascorrere cinquecento anni nel Purgatorio ad insegnare ai eretici e ai pagani che vi si trovavano, guidandoli sulla vera [[Faith|fede]]. E più si impegnava in questo compito, più difficili diventavano le cose per lui.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_211_on_the_germans" data-title="The Path to Rome — On The Germans" data-chapter="On The Germans" data-kind="story" data-tags="topos/theatrum_mundi,motif/river,concept/nationalism_and_patriotism,form/travel_writing,histref/kaiser_wilhelm_ii,setting/italy"></span>
@@ -8106,6 +11230,26 @@ It is a very large stream. Half-way across, it is even a trifle uncomfortable to
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# sui tedeschi
+
+Non si vede il fiume Po finché non ci si avvicina. Poi, superato un piccolo incrocio sulla strada, ci si trova tra alberi alti, e davanti a sé, allo stesso livello del terreno, la strada prosegue attraverso una vasta distesa di acque tumultuose. Non sembra un ponte, ma piuttosto un molo. Non si innalza; ha l’aspetto di un semplice tratto di strada tagliato e fatto galleggiare sull’acqua.
+
+Tutto ciò perché quel ponte permette il passaggio delle barche, proprio come alcuni ponti sul Reno. (A Colonia, credo, e certamente a Kiel: una volta mi trovavo alla fine di quel ponte e vidi molti tristi soldati tedeschi fare esercitazioni. Questa esperienza mi fece capire: 1) perché i tedeschi possono essere superati dai latini in termini militari; 2) perché impressionano viaggiatori e civili; 3) perché la classe dirigente tedesca fa di tutto per evitare il servizio militare obbligatorio; 4) perché non esistono promozioni basate sul merito; 5) perché l’artiglieria tedesca è troppo rigida e non abbastanza veloce. Quel ponte mi mostrò anche qualcosa di profondo e fondamentale sui tedeschi: qualcosa che Tacito non capì mai, e che tutti i nostri storici trascurano. Essi, per natura, amano recitare. Non dico che sia un loro vizio: è una loro necessità, un loro desiderio. Devono sempre vedersi come attori su un palcoscenico. Che facciano le cose bene o male, che si tratti del loro eccellente esercito con le sue ridicole parate, dei loro individui spensierati dell’Ottocento con le loro strade e le loro sorprese, o delle loro leggende nazionali con dèi in parrucca e uomini forti in tute aderenti. Devono essere attori per essere felici, e quindi efficienti. E se fossi il sovrano della Germania e volessi guidare il mio popolo e farmi amare da lui, metterei grandi piume dorate sul mio elmo, userei espressioni retoriche, reciterei monologhi in pubblico, organizzerei imponenti cariche di cavalleria durante le parate. Insomma, vivrei la mia vita accompagnato dal suono di un’orchestra. Perché così, anche un uomo volgare, meschino e malato, che si occupava solo di azioni finanziarie e veniva guidato da banchieri, potrebbe diventare un eroe e fare del bene al suo paese.)
+
+LETTORE: Che cos’è tutto questo?
+
+AUTORE. È una parentesi.
+
+LETTORE. È utile conoscere i nomi delle strane cose che si incontrano durante i propri viaggi.
+
+AUTORE: Torno quindi al punto in cui ho preso una deviazione e vi dico che il fiume Po è qui attraversato da un ponte di barche.
+
+È un fiume molto grande. A metà del suo corso, è davvero scomodo trovarsi così vicini alla forza delle acque che agitano i pontoni tremolanti. E in quel giorno, la velocità e le turbolenze dell’acqua furono ancora più evidenti a causa della pioggia battente.
+
+* * *
 
 
 
@@ -8131,6 +11275,26 @@ AUCTOR. Nothing, Lector; it was raining, and there was mud. I stood in front of 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# La testa del moor
+
+La pioggia che cadeva sull’acqua evidenziava la velocità della corrente; il silenzio con cui pioveva rendeva ancora più evidenti i vortici del grande fiume.
+
+Una volta attraversato quel luogo, si sale verso Piacenza, un passo fatto tra fango e pioggia. A destra c'era quella pianura dove Barbarossa ricevette, e fu glorificato dal risveglio della vita nel XII secolo; lì il Rinascimento del nostro continente vide per la prima volta, dopo il crepuscolo di Roma, un futuro luminoso. Gli uomini, pieni di speranza, immaginarono una nuova terra e le diedero un Signore. Fu a Roncaglia, credo in primavera. Vorrei tanto essere stato lì. Perché si dice che anche la pianura lombarda sia bella e generosa in primavera, ma in estate, per esperienza personale, so che è fredda, brutale e umida.
+
+E così, a Piacenza pioveva e c'era fango dappertutto; finché non arrivai in un hotel chiamato “Moor’s Head”, situato in una strada molto stretta. Entrandoci, scoprii qualcosa di curioso: gli italiani vivono in palazzi. Avrei dovuto saperlo.
+
+Sono gli eredi impoveriti di un’epoca gloriosa; i vestiti di quell’epoca li avvolgono ancora, ma le loro stanze sono troppo grandi per la povertà moderna. Ho trovato questi uomini che mangiavano in un grande corridoio, in una sala, proprio come avrebbero potuto fare in un palazzo. C’erano soffitti alti e dipinti, molte cose di marmo, una vasta cucina, tutto l’arredamento tipico delle grandi case, ma al servizio di pochi uomini soddisfatti e sconosciuti. Così, in Inghilterra, quando avremo compiuto il nostro destino, uomini più felici ma più poveri vivranno nelle dimore di campagna ormai fatiscenti (un’abitazione comune, una locanda o una casa signorile decaduta), e mangeranno cibo semplice sotto grandi dipinti ingrigiti; nei corridoi dei nostri castelli ci saranno uffici o granai. E là dove Lord Saxonthorpe (il cui vero nome è Hauptstein) oggi decide le nostre politiche, i comuni cittadini inglesi torneranno a una vita più semplice: ci saranno cani, birra e attività ricreative nelle serate invernali. Perché anche l’[[Italy|Italia]] un tempo, con l’ingegno umano, raccolse quella ricchezza che non le apparteneva per natura.
+
+Era un uomo buono, il padrone di questa locanda. Mi ha riscaldato accanto al suo fuoco nella sua enorme cucina; ho bevuto Malaga in onore dei cuochi. Ho mangiato il loro cibo, ho comprato una bottiglia di un nuovo tipo di vino dolce chiamato “Vino Dolce”, e poi, sono ripartito per la mia strada.
+
+LETTORE: E non hai visto nulla riguardo a Piacenza?
+
+AUTORE: Niente, Lettore; pioveva e c’era fango. Mi trovavo davanti alla cattedrale mentre ne uscivo e guardavo la pioggia cadere. Pioveva lungo l’ampio e maestoso Cammino Emileiano. Mi ero promesso grandi visioni delle truppe romane che percorrevano quella strada eterna; era ancora segnata dal marchio imperiale, ma la pioggia ne aveva cancellato ogni fascino, lasciandomi indifferente. Anche gli Appennini, che si elevavano bruscamente dalla pianura, avrebbero dovuto rivelarmi qualcosa al tramonto. Ma non fecero nulla. Le loro pendici apparivano continuamente sulla mia destra, ma essi stessi erano avvolti nel velo dell’oscurità. E tutte queste miglia di strada si perdevano nell’infinito.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_213_on_perfect_things" data-title="The Path to Rome — On Perfect Things" data-chapter="On Perfect Things" data-kind="story" data-tags="topos/the_open_road,motif/wine_and_drink,concept/beauty,concept/the_sublime,form/essay"></span>
@@ -8148,6 +11312,20 @@ So it is with the majesty of Plains, and with the haunting power of their imperi
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Su cose perfette
+
+Un ricordo confuso di quella pianura insopportabile. Quella notte a Firenzuola, quella mattina (la seconda mattina di questa visita) ancora fredda, ancora spietata, e intrisa dal tempo orribile. Non faranno parte di questo libro.
+
+Le cose grandiose e semplici per natura possiedono, come sapete, un sapore molto delicato. La musica più maestosa, le lunghe poesie chiamate epiche, la scultura perfetta, il dramma classico, i vini di qualità assoluta: tutti questi richiedono una perfetta armonia di circostanze per essere apprezzati al meglio. Quello che è intenso, commovente e immediato nel suo effetto non presenta difficoltà nell’essere adattato alle diverse situazioni; farsa, orrore, rabbia, queste cose l’uomo può trovarle nelle arti, anche quando il proprio umore è cupo o turbato; proprio come (per fare un paragone con i vini) il robusto Beaune riesce sempre a risollevare lo spirito di una persona. Ma ciò che è legato allo “spirito immortale”, e che, per così dire, non ha alcun colore se non la pura luce, questo richiede un ambiente sereno, pieno di astrazione e di armonia, affinché il suo piacere possa sembrare davvero raro in questa vita turbolenta, e ci faccia ricordarlo come una sorta di discesa degli dei.
+
+Per chi, circondato dal rumore, può godersi la lettura del “Misantropo” o, semplicemente per sete o stanchezza, lodare il vino di Chinon? Chi non ha bisogno, per entrambe queste cose perfette, della memoria, di una varietà di condizioni adatte e di una certa serenità mentale?
+
+È così che le Grandi Pianure esercitano la loro maestosità, attraverso il potere inquietante delle loro strade imperiali.
+
+* * *
 
 
 
@@ -8171,6 +11349,24 @@ But here I must make clear by a map the mass of [[Mountains|mountains]] which I 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Fuga
+
+Tutti voi che avete sentito le vostre anime toccate nel profondo dell’animo e che avete cercato di esprimervi attraverso la poesia, anche se avete scritto cose inutili, (e chi lo sa, ), siate consolati. Alla fine otterrete soddisfazione e raggiungerete la fama in un altro modo: forse nel teatro amatoriale o nella giornalistica. Vi sarà concesso di prevedere il vostro completo successo, e i vostri cuori saranno colmi di gioia. Ma non dovete aspettarvi di trovare questa felicità lungo la Strada Emilia quando piove.
+
+A tutti voi che sentite la giovinezza sfuggirvi e che vi sentite desolati all’avvicinarsi dell’età, siate felici: non è come sembra da fuori. C’è una gloria in ogni completamento, e tutte le buone conclusioni non sono altro che transizioni luminose. Arriverà un momento di rivelazione in cui benedirete l’effetto del tempo. Ma questo momento divino non lo troverete certo sulla Strada Emilia, sotto la pioggia.
+
+A tutti voi che avete amato appassionatamente e che avete visto i vostri cuori spezzarsi a causa delle delusioni, non pensate che ciò che è stato distrutto non possa essere riparato dagli angeli buoni. Esiste un tipo di cucitura chiamata “cucitura lunga”, che permette a una corda tagliata di sembrare quella di prima; anzi, diventa ancora più forte e può persino passare attraverso un blocco. Arriverà per voi un momento beato in cui, come per miracolo, comprenderete improvvisamente il concetto di “redintegratio amoris” (un’espressione latina che indica la ricomposizione dell’amore). Ma quel momento non lo troverete sotto la pioggia lungo la Via Emilia.
+
+Ecco quindi, il giorno dopo, appena fuori da una città chiamata Borgo, verso metà mattina, la pioggia cessò.
+
+Il suo effetto era ancora visibile sulla strada scivolosa e lucida; il cielo rimaneva cupo e pesante. Con disgusto per le loro città, percorsi un sentiero che correva a ovest delle case e, seduto su un muro basso, alzai lo sguardo verso gli Appennini, ormai visibili sopra di me, riflettendo sul mio imminente passaggio attraverso quelle colline.
+
+Ma qui devo spiegare chiaramente, attraverso una mappa, l’area delle [[Mountains|montagne]] che intendevo attraversare; un’area in cui ho attraversato molti fiumi, incontrato molte persone e creature strane, visto cose inspiegabili, sono stato imprigionato, affamato, congelato, perseguitato dai fantasmi, provato gioie intense, rischiato di bruciare. E infine ho trovato riposo in Toscana. In breve, è lì che ho vissuto le avventure più straordinarie e inaudite che abbiano mai arricchito la vita di un uomo.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_215_unimportant_topography" data-title="The Path to Rome — Unimportant Topography" data-chapter="Unimportant Topography" data-kind="story" data-tags="motif/river,motif/road,form/travel_writing,setting/the_mountains,setting/italy"></span>
@@ -8186,6 +11382,18 @@ But to get from the Emilian Way over the eastern slope of the Apennines’ main 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Una topografia irrilevante
+
+La linea dritta per Roma parte da Milano; non attraversa esattamente Piacenza, ma si trova a un miglio o due di distanza da quella città. Da lì prosegue attraverso le prime catene degli Appennini e gradualmente si allontana dalla Via Emilia. Non era possibile seguire esattamente questa tratta, poiché non esisteva alcun sentiero. Tuttavia, seguendo la Via Emilia per alcuni chilometri (come avevo fatto io) e abbandonandola nel momento giusto, si riusciva a ritrovare di nuovo la linea dritta vicino a un villaggio chiamato Medesano.
+
+Ora, sul lato opposto degli Appennini, al di là della loro cresta principale, c’è per caso un fiume chiamato Serchio; il suo valle è abbastanza diritta e conduce direttamente verso Roma. Seguire questo valle significherebbe praticamente seguire la linea che porta a Roma, e esso raggiunge la pianura toscana non lontano da Lucca.
+
+Ma per attraversare la Via Emilia lungo il versante orientale della cresta principale degli Appennini, fino al punto in cui il fiume Serchio nasce sul lato occidentale, è una questione molto difficile. Le poche strade che attraversano gli Appennini intersecano il mio percorso ad angoli retti, quindi risultano inutili. Per raggiungere la zona di divisione delle acque alle sorgenti del Serchio, era necessario attraversare obliquamente un torrente e quattro fiumi (il Taro, il Parma, l’Enza e la Secchia), e scalare i quattro rilievi che li separavano; ogni volta mi spostavo sempre più vicino alla catena principale degli Appennini, fino a quando, dopo aver superato la Secchia, l’ultima salita mi avrebbe portato sulla cresta centrale, dall’altra parte della quale avrei trovato la valle del Serchio.
+
+* * *
 
 
 
@@ -8206,6 +11414,22 @@ I saluted the company, and walking up to the counter was about to call for wine.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Rifugio Rosso
+
+Forse in alcune zone le strade corrisponderebbero a questo sentiero. Di certo, la maggior parte del percorso sarebbe costituita da mulattiere o stretti burroni; non potevo dirlo con certezza. L’unico modo per orientarmi con quella mappa orribile era segnare i nomi delle città o dei villaggi che si trovavano più o meno lungo il percorso, e poi procedere da uno all’altro. Li annotai così: Fornovo, Calestano, Tizzano, Colagna, l’ultimo situato ai piedi dell’ultima cresta. La distanza in linea d’aria fino a quella cresta era di poco più di trenta miglia. Il compito era talmente arduo che mi ci vollero più di due giorni per completarlo. Solo quando raggiunsi Fornovo, al di là del fiume Taro, mi trovai davvero tra le colline.
+
+Per strade di campagna, procedendo con cautela, raggiunsi Medesano quel pomeriggio. I sentieri erano tortuosi; attraversavano numerosi ruscelli che scendevano dalle colline sopra di me, pieni d’acqua e schiumanti dopo la pioggia, e portavano con sé i residui delle montagne. Non avevo percorso nemmeno due miglia quando il cielo iniziò a schiarirsi; non quattro miglia quando una nuova calda aria cominciò a diffondersi nell’atmosfera e un senso di estate prese vita intorno a me. Con estrema rapidità, il clima insolito che mi aveva accompagnato da Milano si trasformò nella tipica luminosità del sud; ma ormai era troppo tardi perché il sole potesse rivelarlo. Anche se, di tanto in tanto, filtrava attraverso le nuvole che ora si muovevano sempre più velocemente verso est, disperdendosi lungo la loro strada.
+
+Piuttosto stanco e desideroso di cibo, oltre che ansioso di riposare dopo quei giorni deprimenti, mi fermai, prima di raggiungere Medesano, in una locanda dove si incrociavano tre strade; lì decisi di mangiare e trascorrere la notte, poiché il giorno seguente, come era facile intuire, sarebbe stato molto caldo, e avrei dovuto alzarmi prima dell’[[Dawn|'alba]] se volevo evitare il calore estremo. Entrai nella locanda.
+
+La stanza era fatta di legno rosso. C'erano due tavoli, un piccolo bancone con una vasta selezione di bottiglie, una donna dietro il bancone e un uomo piccolo e nervoso, con un cappello strano, che serviva i clienti. L’intero locale era pieno di una folla di circa venti uomini: gesticolavano, gridavano, ridevano, discutevano. Un uomo molto alto stava spiegando a un altro le qualità del suo coltello; tutti erano già più che soddisfatti del vino. In questa zona, infatti, le persone non possiedono nulla, ma ricevono uno stipendio, quindi spendono tutto ciò che hanno.
+
+Salutai il personale del locale e, avvicinandomi al bancone, stavo per ordinare del vino. Tutti erano rimasti in silenzio quando un uomo mi pose una domanda in italiano. Non la capii, e mentre cercavo di rispondere, un altro mi fece la stessa domanda; poi ne furono altri sei o sette, e scoppiò un gran trambusto. Tra quel clamore, sentivo ripetere continuamente la stessa frase. Ancora oggi non so cosa significasse, ma pensai – e penso ancora – che volesse dire “È veneziano”, o qualcosa del genere.
+
+* * *
 
 
 
@@ -8228,6 +11452,24 @@ I stood wine; we drank. I showed them my book, and as my pencil needed sharpenin
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#La rissa nella taverna
+
+“Veneti, ” Qualcosa nella mia lingua incomprensibile doveva averli fatti pensare così; evidentemente i Veneti erano molto impopolari da queste parti. Perché? Non lo so. Forse i Veneti agivano in modo disonesto. Ma chiaramente un veneziano, o l’intera nazione veneta, aveva recentemente fatto loro del male.
+
+Comunque, un uomo dai capelli molto scuri avvicinò il suo viso al mio, scopri i denti e iniziò a pronunciare insulti e minacce ad alta voce; questo mi fece arrabbiare così tanto che superò la mia paura, che fino ad allora era piuttosto forte. Ricordai anche un consiglio che un uomo saggio mi aveva dato una volta: “Dio decide chi vince, ma poiché il mondo è fatto così, quando le persone sorridono, sorridi anche tu; quando ridono, ridi anch’tu; quando colpiscono, colpisci anche tu; quando gridano, grida anche tu; e quando maledicono, maledici anche tu, figliolo mio. E in caso di dubbio, lascia sempre che siano loro a fare la prima mossa.”
+
+Dico che la mia paura fosse considerevole, soprattutto per quell’uomo con il coltello, ma sono diventato così arrabbiato che non me ne ricordo più; avvicinandomi anche a questo insultatore ho gridato: “Dio Ladro! Dio della mia anima! Sangue! Nome di Dio! Che cosa vuoi? Non sono di Venezia io! Sono di Francia! Non mi interessa affatto la vostra Venezia! Non si vede forse che non parlo la vostra lingua? Sono uno straniero, ” E così via. A questo punto, evidentemente, si divisero in due gruppi e tutti iniziarono a litigare tra loro; alcuni contro di me, mentre gli altri continuavano a sostenere con sempre più forza che c’era stato un errore.
+
+Il piccolo gestore dell’ostello afferrò il mio braccio sopra il bancone; mi girai di scatto, pensando che stesse facendomi del male, ma poi vidi che annuiva e mi faceva l’occhiolino: era dalla mia parte. Probabilmente perché, se fosse successo qualcosa, sarebbe stato lui a rispondere delle conseguenze, e lui solo non avrebbe potuto sfuggire alla polizia.
+
+Tenne loro un discorso che, per quel che ne so, poteva significare che mi conosceva e mi amava fin da bambino, oppure che mi conosceva come Jacques di Torino. O forse era solo una qualsiasi altra menzogna. Qualunque fosse la verità, loro ne furono placati. La loro rabbia si trasformò in un mormorio, proprio come l’acqua gassata che si placa in un bicchiere.
+
+Mi misi davanti al vino; bevemmo insieme. Mostrai loro il mio libro, e quando la mia penna aveva bisogno di essere affilata, l’uomo alto mi prestò gentilmente il suo coltello. Quando lo ebbi.
+
+* * *
 
 
 
@@ -8259,6 +11501,32 @@ Next morning it was as I had thought. Going out before it was fully light, a den
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le nuvole
+
+Vidi chiaramente che non si trattava di un coltello adatto per pugnalare; era un coltello da potatura, e avrebbe potuto ferire gravemente la mano che lo teneva in mano (proprio come si dice dei serpenti). D'altra parte, sarebbe stato un buon coltello per strappare qualcosa, e anche decente per un taglio rapido. Non bisogna aspettarsi troppo da un singolo oggetto.
+
+Portai con me del cibo, ma notai che in quella parrocchia era più sicuro dormire all’aperto che dentro; quindi, verso il tramonto, ma prima che calasse completamente il sole, continuai a camminare senza una meta precisa, cercando un riparo. E alla fine trovai esattamente ciò di cui avevo bisogno: una piccola capanna, con felci secche sparse in un angolo, alcuni vecchi sacchi e un pezzo rotto di macchinario, anche se quest’ultimo non mi era affatto utile.
+
+Pensai: “Qui sarò al sicuro, perché mi alzerò prima dell’alba e il proprietario, se c’è, non mi disturberà.”
+
+L’aria era abbastanza calda; il luogo piuttosto secco. Il lato aperto si affacciava verso ovest e un po’ a sud.
+
+Il sole era ormai tramontato dietro gli Appennini, e il cielo era illuminato da una luce intensa. Bevvi un po’ di vino, accesi la pipa e osservai in silenzio il tramonto.
+
+Quello che era rimasto della grande nube da cui era caduta tutta quella pioggia si accumulava ora sul lato opposto del cielo, sotto forma di grandi nuvole che riflettevano tutta la luce del tramonto.
+
+Le grandi nuvole si ergevano nel cielo, distinte l’una dall’altra, come se fossero esseri viventi; non soffiava alcun vento, ma tutto era avvolto nell’atmosfera del tramonto. Le venerai, nella misura in cui è permesso venerare le cose inanimate.
+
+Si innalzarono nella pura luce dell’aria più alta, intatte e inviolabili. Sembravano fermarsi di fronte a una maestosità imponente che le metteva tutte in ordine.
+
+Questa visione mi riempì di una grande calma, simile a quella che un viaggiatore prova ritornando a casa, o che uno studente trova nella compagnia di saggi uomini. Riposo, certezza, e, per così dire, una premonizione di gloria invasero il mio spirito. Prima ancora che facesse completamente buio, avevo preparato un giaciglio con l’erica secca, mi ero coperto con i sacchi e i panni, e molto presto mi addormentai, continuando a pensare alle forme delle nuvole e al potere di Dio.
+
+La mattina seguente tutto era come avevo previsto. Uscendo prima che facesse completamente giorno, una fitta nebbia ovunque e un cielo sereno indicavano quale sarebbe stata la giornata. Arrivato a Medesano, il sole sorse; in mezz’ora l’aria si riempì di calore; entro un’ora diventò accecante. Una messa mattutina nella chiesa sotto il villaggio mi preparò bene per la giornata, ma quando dopo bevvi il caffè in una piccola locanda e chiesi informazioni su come attraversare il fiume Taro per raggiungere Fornovo – il mio primo obiettivo – con mia sorpresa mi dissero che era impossibile. Il Taro era intransitabile.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_219_the_impassable_river" data-title="The Path to Rome — The Impassable River" data-chapter="The Impassable River" data-kind="story" data-tags="setting/italy"></span>
@@ -8283,6 +11551,26 @@ i?5
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il fiume intransitabile
+
+Perché non poteva essere attraversato? La mia lingua, così limitata, mi rendeva difficile capire. Parlavano di “rami”, che pensavo significassero remi; ma in realtà, se lo avessi saputo, “rami” indicavano i vari affluenti o corsi d’acqua attraverso cui questi impetuosi fiumi dell’[[Italy|Italia]] scorrono nei loro letti aridi.
+
+Disegnai una barca e chiesi se si potesse attraversare il fiume con quella (poiché ero del nord, e per me un fiume era qualcosa con rive su entrambi i lati e acqua in mezzo), ma loro risero e dissero “No”. Poi feci il gesto di nuotare; loro dissero che era impossibile, e uno di loro scosse la testa per indicare che si sarebbe potuti annegare. Era una questione seria. Dissero che l’indomani, o meglio il giorno dopo, forse ci sarebbe stato modo di farlo.
+
+Finalmente, un ragazzo che era lì vicino disse di ricordare un uomo che conosceva quel fiume meglio di chiunque altro; lui, se c'era qualcuno in grado di farlo, avrebbe potuto aiutarmi a attraversarlo. Così presi il ragazzo con me e ci incamminammo lungo la strada. Mentre procedevamo, vidi, parallela alla strada, un’ampia pianura costituita da rocce e sabbia abbaglianti; al di là di essa, si intravedeva il gruppo di case di Fornovo, che brillava nel buio come un villaggio arabo. Quella pianura rappresentava, in quei luoghi, il “fiume” naturale. Il ragazzo spiegò che a volte quel corso d’acqua era pieno e largo un miglio, altre volte si riduceva a pochi stagni fangosi. In quel momento, vidi alcuni ruscelli sottili che sembravano snodarsi attraverso quella pianura. Ma non riuscivo proprio a comprendere quale pericolo potessero rappresentare.
+
+Dopo un miglio o due, arrivammo in un tratto di strada dove solo un ciuffo di cespugli ci separava dal letto del fiume. Qui il ragazzo mi chiese di aspettare e domandò a un gruppo di contadini se il guida fosse lì; loro dissero di sì, alcuni andarono con lui su per la collina per cercarlo, mentre altri rimasero con me, guardando il letto del fiume e Fornovo in lontananza, scuotendo la testa e dicendo che non era ancora arrivato. Ma non capivo se l’acqua appena caduta a causa della pioggia stesse già defluendo, o se invece non fosse ancora arrivata da quella parte. Aspettai quindi il guida.
+
+Finalmente lo portarono giù dalla sua capanna tra le colline. Lui venne con loro…
+
+Grande progresso. Un uomo dall’aspetto gentile, estremamente alto e magro, con occhi molto pallidi. Sorrise. Mi indicarono a lui, e concordammo l’accordo: alzammo tutti e tre tre dita, segnando così i tre lire richiesti, e annuimmo. Poi prese il suo lungo bastone e io il mio; ci congedammo dal gruppo e insieme entrammo dentro.
+
+i?5
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_220_the_crossing_of_the_taro" data-title="The Path to Rome — The Crossing Of The Taro" data-chapter="The Crossing Of The Taro" data-kind="story" data-tags="motif/journey,setting/mountains"></span>
@@ -8306,6 +11594,26 @@ After that adventure there was no need for carrying. The third, fourth, fifth,
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il passaggio del taro
+
+Il silenzio si diffondeva attraverso la fitta boscaglia, verso il vasto letto del fiume. Le pietre del fondo brillavano come le sabbie dell’Africa; Fornovo ardeva sotto il sole, bianco e nero; tra di noi c'era questa vasta pianura di ciottoli secchi e rocce che, in una notte, avrebbe potuto trasformarsi in un enorme fiume o ridursi a una serie di stagni. Oggi, solo sette piccoli corsi d’acqua serpeggiavano attraverso quella distesa; sembravano così facili da attraversare che mi chiesi ancora una volta perché fosse necessario un guida.
+
+Raggiungemmo il bordo del primo ruscello; io salii sul dorso del guida. Lui entrò nel corso d’acqua a piedi nudi, avanzando sempre di più verso l’interno, fino a quando i miei piedi, pur tenuti in alto, toccarono appena l’acqua; poi, con grande sforzo, risalì sulla riva opposta e io scesi sulla terraferma. La distanza era di soli venti metri circa, e lui conosceva bene quel posto. Mentre attraversavamo, avevo visto quanto fosse impetuoso questo piccolo ruscello; ora capivo appieno le difficoltà e comprendevo i motivi delle avvertenze dell’ostello.
+
+Il secondo ramo del fiume era impraticabile. Lo seguimmo per quasi un miglio fino a raggiungere quella che sembrava un’“isola”: una massa di terreno elevato che, durante le inondazioni, doveva essere stata effettivamente un’isola; su di essa sorgeva un vecchio villaggio marrone. Proprio in quel punto il mio guida trovò un guado. Il modo in cui lo scoprì merita di essere raccontato. Mi insegnò il trucco, e si rivela davvero molto utile per chi viaggia da solo nelle [[Mountains|montagne]].
+
+Prendi una pietra pesante; devi imparare a giudicarne il peso, perché un corso d’acqua più veloce richiede una pietra ancora più pesante. Diremo, circa dieci libbre. La lancia delicatamente nel mezzo del fiume. È impossibile descrivere esattamente come funziona, ma è facile notare che, in acque profonde al massimo quattro piedi, la pietra produce effetti molto diversi rispetto ad acque più profonde. È un test affidabile, e molto più facile da imparare attraverso la pratica che leggendo delle spiegazioni teoriche. Per padroneggiare questo trucco, l’ho messo in pratica durante tutto il mio [[Journey|Viaggio]] in queste terre selvagge.
+
+Avendo trovato un guado, mi prese di nuovo in spalla, ma a metà corso, con l'acqua che gli arrivava al petto, il suo piede scivolò su una pietra (il fondo del fiume era tutto agitato e tumultuoso sotto di noi) e in un attimo entrambi cademmo. Mi tirò su immediatamente accanto a sé; in quel momento, travolti dalla corrente d'acqua, diventava facile capire come il Taro potesse far annegare le persone, e perché i contadini temessero questi piccoli corsi d’acqua.
+
+La corrente mi sfrecciava accanto, schiumeggiando e arrivando quasi al mio collo; era gelida da morire. Bisognava appoggiarsi ad essa, ma l’acqua era così forte che potevi scivolare da un momento all’altro e essere trascinato via. Il guida, un uomo molto più alto di me (infatti misurava circa uno e novanta), mi sosteneva tenendomi per il braccio; e in un attimo raggiungemmo la terraferma.
+
+Dopo quell’avventura, non c’era più bisogno di portare nulla con sé… Il terzo, il quarto, il quinto…
+
+* * *
 
 
 
@@ -8335,6 +11643,30 @@ Then leaving the main road which runs to Pontremoli and at last to Spezzia, my l
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# San Cristoforo
+
+E anche le sei altre rive erano facilmente attraversabili. La settima, invece, era larga e profonda; trovai davvero difficile attraversarla. Non avrei mai provato a farlo senza il mio guida: l’acqua mi spingeva con forza, come se qualcuno stesse lottando contro di me. E era fredda quanto Acheronte, il fiume dei morti. Una volta raggiunta la riva opposta, gli avvertii del pericolo che lo aspettava (in Lingua Franca), gli pagai il compenso e lui sorrise, mi ringraziò, poi tornò indietro, prendendosi tutto il tempo necessario per decidere cosa fare.
+
+Ecco come attraversai il fiume Taro: un pericolo per gli uomini.
+
+Il luogo in cui atterrai era occupato da un poveruomo che si stava abbronzando al sole. Si alzò e camminò con me fino a Fornovo; conosceva quel guida.
+
+“È un uomo buono,” mi disse di questo amico. “È buono quanto un pezzetto di pane.”
+
+“È vero,” risposi; “è San Cristoforo.”
+
+Questo piacque al contadino; e in effetti era la verità. Perché il compito di questo guida era esattamente lo stesso di San Cristoforo, tranne che il Santo non prendeva denaro e, suppongo, viveva, dell’aria.
+
+E così arrivai a Fornovo; il caldo mi accecò e mi confuse, l’aria era piena di mosche. Ma il sole mi asciugò immediatamente, e proseguii lungo la strada perché avevo bisogno di cibo. Dopo aver mangiato in questa vecchia città, mi preparai a dirigermi verso Calestano e ad attraversare la prima catena montuosa degli Appennini che mi separava da esso; mentre lasciavo quel luogo, vidi una chiesa molto antica; mi fermai un momento per osservare le sculture presenti all’interno: erano disposte in modo disordinato, evidentemente prese da qualche edificio più vecchio. Erano primitive, ma si poteva capire che raffigurassero il Giudizio Universale: c’erano persone buone ma sciocche, e c’erano malvagi che venivano bolliti dai diavoli in una pentola; la scena più piacevole mostrava un diavolo che, con grande gioia, portava via l’oro di un ricco in un sacco. Ma oggi siamo troppo saggi per credere in simili sciocchezze. Quando moriamo, portiamo con noi le nostre ricchezze; nel IX secolo, invece, non esisteva alcun sistema di credito che permettesse di farlo.
+
+Allora, lasciata la strada principale che conduce a Pontremoli e infine a Spezzia, il sentiero su cui viaggiavo iniziò ad arrampicarsi sulle colline e, poco a poco, smise persino di essere un vero sentiero. A volte diventava il letto di un ruscello, poi nulla, poi di nuovo un sentiero. Alla fine, in cima alla valle, ammisi di averlo perso; tuttavia notai una grande roccia o una cima sopra di me come punto di riferimento, e mi dissi:
+
+“Non importa. Il muro di questa valle davanti a me è chiaramente la cresta di quel rilievo; la roccia deve trovarsi a nord, quindi devo semplicemente attraversare quella cresta seguendone il percorso.” Tuttavia, a quel punto il caldo mi sopraffece.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_222_the_great_view" data-title="The Path to Rome — The Great View" data-chapter="The Great View" data-kind="story" data-tags="motif/journey"></span>
@@ -8356,6 +11688,24 @@ Believe it or not, I was looking back to a place of days before: over how many, 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La grande vista
+
+Già a pomeriggio inoltrato, e poiché avevo impiegato gran parte della notte precedente per il mio [[Journey|viaggio]], ricordai la saggia usanza dei paesi caldi e decisi di dormire.
+
+Dormii solo per poco tempo, ma quando mi svegliai l’aria era più fresca. Salii a caso lungo il fianco della valle e, in cima, trovai, con disgusto, una strada. Che tipo di strada poteva essere? Ancora oggi non lo so. Forse avevo sbagliato direzione e avevo ritrovato la strada principale. O forse (è spesso così negli Appennini) era una strada che portava da nessuna parte. Comunque, esitai e guardai indietro per verificare la mia posizione.
+
+Fu un incidente fortunato. Ora mi trovavo a circa 600 metri di altezza sopra il Taro. Lì, davanti a me, si ergeva quella strana roccia alta che avevo osservato da sotto; intorno ad essa e sotto di me si estendeva la valle, formata da colline nude, lastre di roccia e pendii di sabbia e pietra calcinate dal sole; e al di là di tutto ciò, l’intera pianura della Lombardia si apriva davanti ai miei occhi.
+
+Fu proprio questo che rendette degno lo sforzo di scalare quella ripida parete, e persino l’essersi persi. Vedere centinaia di miglia di quella vasta pianura stendersi davanti a me: tutti i regni del mondo.
+
+E non era tutto. C'erano nuvole bianche e affilate all’orizzonte settentrionale, molto vicine al confine incerto del mondo. Guardai di nuovo e vidi che non si muovevano. Allora capii che erano le Alpi.
+
+Credeteci o no, stavo ripensando a quei giorni lontani, attraverso chilometri e chilometri di strada! Le rare cime bianche non riuscivano a ingannarmi; splendevano ancora sotto il sole, e da quella vasta distanza mi riportavano i ricordi del mio passaggio lì, quando le loro nevi sembravano infinite e la loro altezza incommensurabile.
+
+* * *
 
 
 
@@ -8382,6 +11732,28 @@ In the inn there had been a fat jolly-looking man and two official-looking peopl
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In prigione
+
+Giganteschi. Il loro freddo era come un mantello della morte. Ora erano lontani quanto l’infanzia. E li vidi per l’ultima volta.
+
+Tutto questo l’ho disegnato io stesso. Poi, trovando un cartello che indicava una strada secondaria per Calestano, l’ho seguita fino in fondo alla valle; al calare della sera, mentre risalivo le pareti di questa seconda valle, ho sentito il rumore dell’acqua che scorreva: il Taro, infatti, era stato alimentato da una rete di ruscelli nati dallo scioglimento delle nevi lontane. Presto ho visto questi corsi d’acqua sotto di me, che serpeggiavano (proprio come quelli del Taro) tra ghiaia e rocce; ma quando il mio sentiero si è improvvisamente interrotto a centinaia di piedi sopra il letto del fiume, e quando, nella penombra della sera, sono riuscito a scendere tra gli alberi fino alla riva dell’acqua, ho capito che avrei dovuto ripetere ciò che avevo fatto quella mattina: attraversare quei ruscelli. Non c’era alcuna traccia, nessun ponte. Calestano si trovava di fronte a me, un gruppo di case viola nella penombra, contro il versante più lontano della montagna.
+
+Con molta cautela, lanciando pietre come mi era stato insegnato e seguendo ogni ramo in cerca di un punto adatto, attraversai uno dopo l’altro quei sei piccoli fiumi freddi e impetuosi; raggiunta la riva opposta, pensai di aver trovato anche cena, compagnia, e un letto.
+
+Ma non è proprio in questo modo semplice che è organizzata la vita umana. Quello che mi aspettava a Calestano era sfortuna, prigione, libertà condizionale, lusinghe insincere e un pasto molto ritardato.
+
+È nostro dovere provare compassione per tutti gli uomini. È nostro dovere provare compassione per coloro che sono in prigione, così come per quelli che non lo sono. Quanto più, dunque, è dovere di un cristiano provare compassione per i ricchi che non avranno mai l’opportunità di finire in prigione? Proprio loro sono quelli che ora provo particolarmente compassione per, e verso di loro estendo la mia solidarietà.
+
+Cosa! Nemmeno aver sentito la presa della polizia; nemmeno aver visto il suo sguardo audace e sospettoso; nemmeno aver cercato di comportarsi bene durante l’interrogatorio. Nemmeno aver sentito il chiavistello girare nella serratura, né aver guardato intorno in quell’ambiente semplice e pulito di una cella? Allora, quali emozioni avete provato voi, ricchi ma non imprigionati. O cosa sapete davvero della vita attiva e delle avventure?
+
+Fu dopo aver bevuto un po' di vino e mangiato maccheroni e pane in una povera locanda, l'unica che ci fosse in quel posto, e dopo essere stato costretto a gridare contro la padrona di casa malvagia (e dopo aver provato venti volte prima di riuscire a farle capire che volevo formaggio), fu proprio in quel momento, dopo aver mangiato e urlato, e dopo essere andato in un piccolo caffè per bere del caffè e fumare una sigaretta, che mi accadde quell'avventura.
+
+Nell’osteria c’era un uomo grasso e dall’aspetto allegro, insieme a due persone dall’aria ufficiale con cappelli bianchi che mangiavano a un altro tavolo. All’epoca non avevo fatto caso a loro. Ma mentre sedevo lì a fumare e riflettere nel piccolo caffè, ben illuminato.
+
+* * *
 
 
 
@@ -8411,6 +11783,30 @@ But not for long. Very soon I was again following up the street, and we came to 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#La menzogna del poliziotto
+
+Era pieno di gente; notai il primo segnale di pericolo quando mi dissero con tono cupo che “non avevano un letto; pensavano che non ne potessi trovare nessuno in città”. Poi, all’improvviso, quei due uomini con i cappelli bianchi entrarono e mi arrestarono con la stessa facilità con cui voi o io potremmo tenere fermo un cavallo.
+
+Un attimo dopo entrarono due uomini maestosi: erano gendarmi, con spade e cappelli a cilindro, con mustache alla moda di Abd el Kader, come dicevamo un tempo. Questi quattro – i due gendarmi e i due poliziotti – si sedettero di fronte a me sulle sedie e iniziarono a interrogarmi in italiano, una lingua che non conoscevo bene. Riuscii comunque a capire che mi chiedevano i documenti.
+
+“Niente!” dissi, e versai sul tavolo una custodia da carte, un quaderno per schizzi, due matite, una bottiglia di vino, una tazza, un pezzo di pane, un ritaglio di giornale francese, un vecchio numero della rivista “Secolo”, un ago, del filo e una flauta, ma nessun passaporto.
+
+Esaminarono la cartella e trovarono 73 lire; cioè, poco più di due sterline. Esaminarono con attenzione il quaderno di schizzi, come è consueto per le persone del sud che hanno spesso inclinazioni artistiche. Ma non trovarono alcun passaporto. Mi interrogarono di nuovo; mentre cercavo le parole giuste per rispondere, quello più giovane (il poliziotto, un uomo dal viso simile a quello di una volpe) gridò che aveva sentito me parlare in italiano nell’osteria, e che il mio esitare non era altro che una scusa.
+
+Questa bugia mi ha infastidito così tanto che l’ho detto arrabbiata in francese, cercando di rendere il mio accento il più “meridionale” possibile per adattarmi a loro.
+
+“Menti: e puoi essere punito per tali menzogne, visto che sei un funzionario.” Perché sebbene la polizia sia uguale in tutti i paesi, e sia disposta a giurare che il nero è bianco o ad arrestare qualcuno solo su una canzone, tuttavia dove esiste un “droit administratif” – cioè dove la Rivoluzione ha reso le cose più tollerabili – sei molto più sicuro di poter punire i tuoi poliziotti, e loro sono molto meno in grado di farti del male rispetto all’Inghilterra o all’America; perché lì vengono considerati funzionari e sono sottoposti a una disciplina e a responsabilità pubbliche più severe se escedono dai loro poteri.
+
+Poi aggiunsi, parlando chiaramente: “So parlare francese e latino. Avete un prete a Calestano che conosca il latino?”
+
+È stato un colpo davvero astuto. Si sono ritratti, dicendo che il Sindaco conosceva il francese. Poi mi hanno portato via verso le loro caserme mentre andavano a chiamare il Sindaco, e così sono finito in prigione.
+
+Ma non per molto. Molto presto ripresi a camminare lungo la strada e arrivammo alla casa del Sindaco. Lì c'era lui, un vecchio con i capelli bianchi. Che Dio lo benedica, che giocava a carte con suo figlio e sua figlia. Poiché parlava francese, mi fu detto di rivolgermi a lui. Gli dissi in termini chiari ed espliciti che i suoi poliziotti erano degli idioti, che la sua città era un vero caos, e che la sua prigione era l’unica cosa pulita in tutta la città; che mezza dozzina di telegrammi inviati a diversi luoghi.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_225_the_bilingual_mayor" data-title="The Path to Rome — The Bilingual Mayor" data-chapter="The Bilingual Mayor" data-kind="story" data-tags="setting/france"></span>
@@ -8434,6 +11830,26 @@ It is the custom of many, when they get over a ridge, to begin singing. Nor did 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il sindaco bilingue
+
+Avrei potuto indicare esattamente dove ero stato; avrei mostrato di essere un turista qualunque, nemmeno un artista (come dimostrava il mio taccuino da disegno), e le mie carte riportavano indirizzo e descrizione precise.
+
+Ma il Sindaco, quel Sindaco di lingua francese, non mi capì affatto; sembrava una cosa malvagia da parte mia esporlo nella sua vecchiaia, quindi aspettai che parlasse. Lui pronunciò una parola comune a tutte le lingue, una parola che aveva appena sentito uscire dalle mie labbra.
+
+“Turista?”, disse.
+
+Annuii. Poi gli disse di lasciarmi andare. Fu semplicissimo; e fino ad oggi, immagino, lui venga considerato un sindaco molto bilingue. Mi ha fatto un favore, e sono disposto a credere che da giovane apprezzasse molto il sottile gusto di Voltaire. Ma temo che oggi avrebbe difficoltà con Anatole [[France]].
+
+Che contrasto c'era tra il momento in cui ero uscito dal caffè come un prigioniero e quello in cui sono tornato, gioioso, circondato da una folla che proclamava la mia innocenza e si chiamava l'un l'altro dicendo che ero un turista e che avevo settantatré lire con me! La padrona di casa sorrise e si inchinò: poco prima mi aveva rifiutato una stanza! Gli uomini ai tavoli mi trattavano come un dio. E non li giudicavo certo peggio per questo. Perché dovrei? Un uomo sconosciuto, trasandato, senza barba, in disordine, coperto di fango e polvere accumulati durante settimane di viaggio, con abiti che originariamente non costavano nemmeno dieci scellini; che aveva dormito tra foglie, felci e luoghi selvaggi, che attraversava un fiume al tramonto ed entrava in una città di nascosto, non per la strada. Era un estraneo; portava con sé un grosso bastone. Non sarebbe molto più sensato arrestare un uomo del genere? Certo che sì. E una volta arrestato, cosa si può fare se non lasciarlo andare senza prove, sulla sua parola soltanto? Quasi nulla!
+
+Ecco perché amavo la gente di Calestano, soprattutto per quell’avventura strana che mi avevano offerto; il giorno dopo, dopo aver dormito in una stanza umana, all’alba salii lungo le pendici della montagna, al di là e sopra la loro città, e così risalii lungo una profonda fessura fino alla seconda cresta degli Appennini: quella che mi separava dal terzo fiume, il Parma. Il mio obiettivo, oltre il Parma (dove avrei dovuto attraversarlo), era un luogo indicato sulla mappa come “Tizzano”. Per scalare questa seconda cresta, raggiungere e attraversare il Parma nella valle sottostante, trovare Tizzano, lasciai Calestano in quella mattina profumata; dopo aver superato un piccolo borgo chiamato Frangi, situato su una roccia, proseguii lungo la ripida valle e presto raggiunsi la cima della cresta, che qui si abbassa leggermente, permettendo di attraversare verso il lato meridionale.
+
+È consuetudine di molti, quando superano una cresta, iniziare a cantare. Anch'io non feci eccezione: non appena fu l’ora giusta, cantai mentre passavo di lì, questa era la seconda volta che lo facevo.
+
+* * *
 
 
 
@@ -8479,6 +11895,46 @@ Even the molinar, the god of that valley, had to pick his way carefully, and the
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il contadino
+
+CIME DEGLI APPENINI. Cantavo con facilità, con la gola aperta, tutto ciò che riuscivo a ricordare per lodare la gioia; e non risparmiavo le parti corali delle mie canzoni, anzi mi sforzavo di imitare (quando erano in due voci) le diverse tonalità di ciascuna parte.
+
+Ora, una grande parte di quel carattere inglese era ancora in me; quindi, quando girai l’angolo di una roccia da cui si poteva vedere per la prima volta Beduzzo appeso alla sua cresta (come sapete), e trovai lì un contadino seduto tranquillamente, mi sentii imbarazzato. Non volevo che qualcuno mi sentisse cantare canzoni strane. Ma lui, abituato a cantare come passatempo solitario, mi salutò e camminammo insieme, indicandoci a vicenda le meraviglie del mondo davanti a noi e esultando per quella splendida mattina. Era compito suo mostrarmi quelle cose e spiegarmi i loro nomi. La grande Montagna.
+
+Pellegrinaggio verso il Sud: la strana roccia di Castel-Nuovo; nella nebbia lontana, la pianura di Parma; e Tizzano sulla sua alta collina, la cresta davanti a me. Mi diceva anche i nomi in italiano delle cose che avevo con me – le mie scarpe, il mio bastone, il mio cappello; e io gli dicevo i loro nomi in francese, cose che desiderava imparare ardentemente.
+
+Abbiamo parlato del modo in cui le persone qui coltivano la terra e ne possedevano i diritti, dei pericoli presenti nelle colline, e della felicità degli uomini solitari. Ma se vi chiedete come riuscissimo a capirci a vicenda, vi spiegherò tutto.
+
+In [[Italy|Italia]], nelle Apennine settentrionali, sembrano esistere tre livelli linguistici diversi. Nei valichi, l’italiano è puro, sonoro, ma per me comunque straniero; lì vivono gli abitanti delle città che commerciano con le pianure. A metà pendio (a Frangi, Beduzzo, Tizzano), iniziavo a capirli: utilizzavano la “n” nasale e abbreviavano alcune parole. Infine, in cima alle montagne, parlavano come i northerners, e io li capivo facilmente: non dicevano “lvino”, ma “vin”; non “duo”, ma “du”, e così via. Sono i “Galli delle colline”. Gliel’ho detto, e ne sono stati molto felici.
+
+* * *
+
+“Molinar”
+
+Allora io e quel contadino ci separammo, ma poiché non si dovrebbe mai lasciare qualcuno senza dargli qualcosa in segno di ricordo nel Giorno del Giudizio, gli diedi un piccolo ritratto di Milano e gli dissi di tenerlo per me.
+
+Lui andò per la sua strada, io per la mia; l’ultima cosa che mi disse riguardava un “molinar”, ma non capivo cosa significasse.
+
+Quando ebbi sceso dalla montagna e scoperto una strada principale in fondo, vidi che il fiume davanti a me doveva essere attraversato a nuoto, come tutti gli altri; e poiché la mia mappa indicava l’assenza di ponti per molte miglia, decisi di provare ad attraversarlo direttamente, se possibile facendomi portare in spalla da qualcuno.
+
+Incontrai una vecchia donna con un mucchio di erba sul dorso; indicai il fiume e dissi (in Lingua Franca) che volevo attraversarlo. Lei usò di nuovo quella parola “molinar”, e capii che significava “mulino”. Pensai tra me.
+
+“Dove c'è un mulino, c'è anche l'acqua necessaria per far funzionare il mulino; un mulino deve infatti disporre di una fonte di energia per muoversi, ” (a) Devo avvicinarmi al ruscello; (b) Devo prestare attenzione al rumore e all’aspetto tipici di un mulino.
+
+Pertanto (ringraziando la donna che portava l’erba), attraversai i campi fino a quando non vidi una grande ruota idraulica vicino a una casa, e un uomo triste in piedi che la guardava come se fosse il simbolo della Provvidenza di Dio. Stava pensando a molte cose. Gli diedi una pacca sulla spalla (e lui sobbalzò) e pronunciai la parola fondamentale di quella valle: “molinar”. Quella parola aprì tutti i cancelli della sua anima. Mi sorrise come se fosse tornato giovane, e, invitandomi a seguirlo, mi guidò con entusiasmo lungo il canale d’irrigazione fino al punto in cui l’acqua proveniva dal fiume.
+
+Lì c'erano tre uomini al lavoro per scavare un ingresso più adatto per l'acqua. Uno era un vecchio uomo felice che indossava occhiali; il secondo era un giovane con degli stivali alti in mano; il terzo era molto alto e snello; aveva un viso triste ed era il tipo di persona che sopporta tutto e vince su ogni cosa. Dissi: “Molinar?” L’avevo trovato.
+
+All’uomo che mi aveva portato lì diedi 50 centesimi; queste persone sono così innocenti e buone che lui disse “Perché?”, o qualcosa del genere, e io risposi che era necessario. Poi chiesi al mulinaro: “Quanto?” Lui, alzando un dito, rispose: “Una lira.” Il giovane salì sulle sue stilette, il mulinaro si chinò e io mi misi sulle sue spalle; insieme provammo a attraversare i numerosi corsi d’acqua del fiume Parma. In quel momento, penso che da solo sarei annegato.
+
+Lo dico apposta: “Avrei dovuto annegare”. Questi fiumi che scorrono lungo le colline aumentano o diminuiscono il proprio livello a seconda delle tempeste e dello scioglimento della neve. Il fiume Parma (poiché alla fine questo torrente alimentò la città di Parma) era più alto degli altri.
+
+Anche il mulino, il dio di quella valle, doveva procedere con cautela; il giovane in equilibrio su steli doveva camminare davanti a tutti, molto più in alto degli uomini comuni.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_227_andiamo" data-title="The Path to Rome — Andiamo" data-chapter="Andiamo" data-kind="story" data-tags="histref/catholic_church"></span>
@@ -8498,6 +11954,22 @@ Have you ever noticed that all the [[Catholic Church]] does is thought beautiful
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Andiamo
+
+SOPRA L’ACQUA. Riuscivo a vederlo mentre procedeva, e devo dire che c’era davvero un guado: una cosa rara nelle zone montane, perché nei corsi d’acqua più impetuosi le acque scorrono su rocce inalterabili o su ghiaia e sabbia. Quando scorrono sulle rocce, si formano zone poco profonde che chiunque può trovare, oltre a punti più profondi, riconoscibili dal pelo dell’acqua immobile e misterioso, dove i pesci nuotano avanti e indietro nelle cavità. Ma non esistono guadi veri e propri che si estendano da un lato all’altro del corso d’acqua. Almeno in Scozia. Se invece le acque scorrono su ghiaia e sabbia, con ogni tempesta o aumento delle piene tutto cambia. Ma qui, per qualche motivo, esisteva davvero un guado: forse una sporgenza rocciosa, forse i resti di un ponte romano. Qualcosa comunque abbastanza profondo e solido da permettere il passaggio. E noi lo abbiamo seguito.
+
+Anche il mulinaio faceva attenzione a dove metteva i piedi. Due volte dovette aspettare, con l’acqua fino alla vita, mentre l’uomo su stiletti davanti a noi perdeva l’equilibrio e cadeva a terra. Una volta, attraversando un piccolo ramo (poiché il fiume qui, come tutti questi fiumi, si divide in molti rami sopra i ciottoli secchi), sembrava non esserci nulla su cui poggiarsi, e dovemmo cercare disperatamente un appiglio. Ogni volta che trovavamo terra asciutta, scendevo dal dorso del mulinaio per farlo riposare; quando poi riprendeva a remare, salivo di nuovo a bordo. Così superammo tutti i ruscelli e finalmente arrivammo sul lato di Tizzania. Allora diedi una lira al mulinaio e 50 centesimi al suo compagno su stiletti, che chiese: “Perché ci date questi soldi?”, e io risposi: “Anche voi avete aiutato.”
+
+Il mulinaro, allora, con gesti e movimenti degli occhi, mi fece capire che per quei 50 centesimi quell’uomo su grucia mi avrebbe portato fino a Tizzano, sulla cresta alta, e mi avrebbe mostrato il sentiero per salire; così l’uomo su grucia si rivolse a me e disse: “Andiamo”, che significa “Andiamo”. Ma quando gli italiani dicono “Andiamo”, lo fanno in modo meno brusco rispetto ai francesi del nord, che dicono “Allans”; i francesi del nord, infatti, hanno tre caratteristiche particolari: sono combattivi, cercano sempre lo stato perfetto e amano con passione. Per questo motivo “ fermentano” due volte, come il vino che, sottoposto a movimenti e processi di fermentazione, diventa più acido. Ecco perché quando dicono “Allans”, il loro tono è più brusco rispetto a quello degli italiani. Il mio italiano, invece, mi disse gentilmente: “Andiamo”.
+
+La [[Catholic Church|Chiesa Cattolica]] crea gli uomini. Non intendo con questo i vanitosi e i presuntuosi, né i bulli o gli ignoranti che, trovandosi a proprio agio, pensano che tale comodità possa essere un beneficio anche per gli altri, e cercano (con scarso successo) di imporla al mondo; ma uomini veri, esseri umani diversi dalle bestie, capaci di fermezza, disciplina e razionalità; disposti ad accettare la morte e tenaci nella loro determinazione. Tra gli effetti della Chiesa Cattolica, il più prezioso è sicuramente il carattere degli irlandesi e di questi italiani. Da persone del genere, un giorno, potranno anche nascere soldati.
+
+Avete mai notato che tutto ciò che fa la [[Catholic Church|Chiesa Cattolica]] viene considerato bello e amabile finché non viene rivelato al pubblico, e allora improvvisamente viene visto in un’altra luce?
+
+* * *
 
 
 
@@ -8525,6 +11997,28 @@ I then pulled out my bottle of wine, drank what was left out of the neck (by way
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I molteplici mostri
+
+Perché dai suoi nemici (che sono i sette peccati capitali e i quattro peccati che chiedono vendetta al cielo) viene considerata odiosa e insopportabile? È proprio così; ed è l’ironia beffarda della sua attuale rinascita il fatto che coloro che un tempo lodavano senza fine le sue opere d’arte, i suoi santi e la sua architettura – come noi lodiamo cose ormai morte – sono ora quelli più offesi dal suo ritorno in questo contesto moderno, armata ancora una volta di opere d’arte, musica e canti, a volte eccellenti, spesso volgari. Notate: lei continua a non curarsi affatto dell’arte o della musica, proprio come sempre ha fatto. Getta le basi di tutto ciò su qualcos’altro, qualcosa che i nostri contemporanei odiano. Eppure da quel “qualcos’altro” sono nate l’arte e la musica del Medioevo. E voi, cosa avete? Lei è l’Europa, e tutta la nostra storia passata. Sta tornando. Andiamo.
+
+LETTORE. Ma il signor, (censurato dal Censore) non la pensa così?
+
+AUTORE: L’ultima volta che l’ho visto è stato a cena al Savoy. Andiamo.
+
+Salimmo insieme la collina attraverso una terra bruciata, ma ombreggiata dagli alberi. Faceva molto caldo; a malapena riuscivo a proseguire, tanto era veloce il passo del mio compagno e così opprimente il calore.
+
+Passammo accanto a una fontana dove gli buoi bevevano; lì io bevvi acqua fresca dal getto, ma lui mosse il dito davanti al suo viso per dirmi che in un caldo sole come quello era un errore farlo.
+
+Proseguimmo il nostro cammino e incontrammo due uomini che guidavano il bestiame lungo il sentiero tra gli alberi. Presto scoprii che stavano discutendo di prezzi e mercati con il mio guida: era infatti giorno di mercato. Quando finalmente arrivammo in quella piccola città – una cittadina minuscola, simile a un nido, circondata da mura, con un castello e una chiesa al suo interno – vedemmo migliaia di animali che muggivano l’uno rispondendo all’altro lungo la strada principale, fino a raggiungere la piazza del mercato attraverso il cancello. Lì il mio guida mi portò in una grande stanza, dove molti contadini stavano mangiando zuppa con i maccheroni, e alcuni anche carne. Ma ero troppo stanco per mangiare carne; quindi bevvi la mia zuppa e poi iniziai a “dialipizzare” con le dita per far capire al proprietario dell’ostello ciò che volevo.
+
+Prima presi i maccheroni dal piatto e dissi: “Formaggio, pomodoro”, intendendo con ciò formaggio e pomodoro. Lui allora disse di capire cosa intendevo e mi portò quegli spaghetti preparati in quel modo. Un piatto adatto a re, a traditori cosmopoliti, a oppressori dei poveri, a usurai, o a qualsiasi altro ricco. Ma nei luoghi frequentati da queste persone non esistono spaghetti del genere; invece, questi contadini continueranno a goderli in paradiso.
+
+Poi tirai fuori la mia bottiglia di vino, bevvi quello che era rimasto nel collo della bottiglia (come segno), e posandola dissi: “Tale, tantum, vino rosso.” Anche il mio guida.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_229_the_bargain" data-title="The Path to Rome — The Bargain" data-chapter="The Bargain" data-kind="story" data-tags="motif/wine_and_drink,motif/inn_tavern,motif/money_and_gold,concept/value_and_scarcity,form/travel_writing,setting/italy"></span>
@@ -8549,6 +12043,26 @@ I took the road downwards from the ridge into the next dip and valley, but
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il patto
+
+Disse molte cose che probabilmente significavano che ero un uomo ricco, uno che spendeva i suoi soldi senza pensarci troppo. Così il locandiere andò via e tornò con una bottiglia ben tappata e sigillata, e con le dita, la bocca e gli occhi fece capire: “Questo tipo di vino è davvero qualcosa di molto speciale.”
+
+Solo nelle città sciocche le persone pensano che sia una cosa nobile sembrare disinteressate al denaro. Così io, osservandolo attentamente con gli occhi semichiusi, sollevai cinque dita in modo interrogativo e dissi: “Cinquanta?”, intendendo “Osi chiedere cinque penny?”
+
+Allora lui e tutti i contadini intorno, compreso il mio guida, risero ad alta voce come se avessero sentito una barzelletta divertente, dicendo “Cinquanta, Ho! ho!” e dandosi pacche sulle costole a vicenda. Ma il locandiere di Tizzano Val Parmense disse in italiano alcune cose che significavano chiaramente che dovevo essere solo scherzoso, e aggiunse (di passaggio) che una lira rappresentava, per me, quasi un regalo. Una lira, in realtà, era soltanto un segno che il denaro era stato scambiato; una sorta di tassa di registrazione, un atto ufficiale. A quel prezzo, però, si trattava praticamente di carità. Allora dissi “Sessanta Dieci?”, ma quella frase non significava nulla per lui; così alzai sette dita; lui fece un gesto cordiale con la mano e disse che, dato che ero chiaramente una brava persona e un viaggiatore, e visto che comunque mi stava regalando il vino, avrebbe fissato il prezzo a nove penny. Non valeva davvero la pena perdere tempo per così poco. Allora tirai fuori 80 centesimi in monete di rame e dissi “Tutto”, che vuol dire esattamente questo. Lui mise quindi la bottiglia davanti a me, prese i soldi. E un enorme clamore si levò da parte di tutti coloro che avevano assistito alla scena; applaudirono, considerando quel accordo definitivamente concluso. Ed è proprio in questo modo che venivano fatti gli affari un tempo in queste colline, quando i vostri antenati e i miei vivevano nelle caverne, cacciavano lupi e negoziavano soltanto usando dei bastoni.
+
+Ora che tutto era stato sistemato e io ero ansioso di assaggiare il vino, desideravo che venisse aperto, soprattutto per brindare al mio guida. L’oste si trovava in un’altra stanza; il mio guida, essendo troppo educato, non osò chiedere una forchetta da stappo, e io non conoscevo le parole italiane per indicarla.
+
+Indicai il tappo di sughero, ma tutto ciò che ottenni dal mio guida fu un commento sul fatto che il vino fosse molto buono. Poi disegnai con la matita nel mio quaderno uno stemma raffigurante una spirale di cavatappi, ma lui fece finta di non capire. Era proprio il suo modo di comportarsi. Allora imitai il movimento, il suono e il gesto della spirale di cavatappi che entra nel sughero; un anziano accanto a me disse “Tira-buchon”. Una parola francese molto comune, tanto familiare quanto i boschi di Marly! Il tappo fu aperto e tutti bevemmo insieme.
+
+Mentre mi alzavo per uscire da Tizzano Val Parmense, il mio guida mi disse: “Perché si chiama Tira-Buchon se ‘buchon’ significa lira?” E io risposi: “Dominus Vobiscum, ”, poi lo lasciai alle sue colline.
+
+# Scendendo lungo la strada dal crinale verso la valle successiva…
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_230_tizzano" data-title="The Path to Rome — Tizzano" data-chapter="Tizzano" data-kind="story" data-tags="setting/mountains"></span>
@@ -8571,6 +12085,25 @@ It was not till the later afternoon, when the air was already full of the golden
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tizzano
+
+Dopo circa un miglio, nel caldo torrido (erano ormai le una di notte), ero completamente esausto. Così mi diressi verso una piccola riva boscosa e mi sdraiai all’ombra per disegnare il paesaggio di Tizzano Val Parmense, che si trovava poco sopra di me; poi mi addormentai per un’ora, fumando la pipa e pensando a molte cose.
+
+Dalla cresta su cui sorge Tizzano, che è la terza di queste sporgenze appenniniche, alla successiva, la quarta, il distanza è molto breve; si può quasi vedere da una all’altra. Tuttavia, rappresenta un percorso difficile da compiere, perché nel mezzo della valle scorre un’altra cresta, quasi altrettanto alta delle principali sporgenze, e bisogna scalarla nella sua parte più bassa prima di poter scendere fino al torrente Enza, che scorre con un rumore cupo nelle profondità delle [[Mountains|montagne]]. Quindi l’intera valle appare confusa e il percorso è davvero impegnativo.
+
+Molto in alto, tra gli alberi, si ergeva la prima di quelle numerose torri e castelli in rovina che abbondano negli Appennini; Canossa, lontana e indistinguibile nella nebbia, ne era l’esempio principale. Si chiamava “La Torre di Rugino”. Oltre il profondo burrone dell’Enza, sembrava sorgere sulla sua riva meridionale (ma in realtà si trovava molto più lontano, nella valle del Secchia), quella strana roccia alta chiamata Castel-Nuovo. Il contadino me l’aveva indicata.
+
+Titolo:  
+La mattina… e ciò che rappresentò un punto di riferimento per questo tentativo. Sembrava essere stato realizzato piuttosto…
+
+Più regolare e perfetto della natura stessa; completamente separato dalle altre colline.
+
+# Solo il sole d’oro…
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_231_ceregio" data-title="The Path to Rome — Ceregio" data-chapter="Ceregio" data-kind="story" data-tags="motif/river,motif/road,form/travel_writing,setting/the_mountains,setting/italy"></span>
@@ -8588,6 +12121,20 @@ They drank my wine, I ate their bread, and we parted: they to go to their accust
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cerigio
+
+La polvere che si levava prima del calare della sera. Mi trovavo sopra l’Enza e la vedevo scorrere migliaia di piedi più in basso. Qui mi fermai per un momento, indeciso, e osservai il paesaggio confuso delle colline. Il mio intento era quello di seguire una linea dritta verso Collagna, ma non riuscivo a capire dove si trovasse, se non che doveva essere da qualche parte dietro quella montagna alta che ora si oscurava contro il cielo. Inoltre, l’Enza (come potevo vedere da dove mi trovavo) non era attraversabile: non scorreva in ruscelli, ma formava un unico corso d’acqua continuo, un vero fiume. L’intera scena appariva selvaggia e imponente. Mi trovavo vicino alla cresta centrale degli Appennini: si ergeva sopra di me, a circa cinque o sei miglia di distanza; sulle sue pendici c’erano zone e campi innevati che iniziavano appena a brillare nella luce sempre più debole.
+
+Quattro contadini sedevano sul bordo della strada. Stavano per recarsi alle loro tranquille dimore e raccoglievano le falci che avevano usato per mietere nei campi. Avvicinandomi a loro, chiesi loro come potessi raggiungere Collagna. Mi dissero che non potevo andare dritto, come avrei voluto, a causa del fiume intransitabile; ma se fossi sceso lungo il ripido pendio sotto di me, avrei trovato un ponte; da lì un sentiero conduceva su un crinale opposto, dove si trovava un piccolo borgo chiamato Ceregio (me lo indicarono oltre la valle).
+
+Sulla cresta, e una volta arrivato lì, mi avrebbero detto come proseguire. Capivo tutto ciò che dicevano, tranne una parola fatale. Pensavo che mi stessero dicendo che Ceregio si trovava a metà strada da Collagna; e quanto mi costò quell’errore, lo saprete presto.
+
+Hanno bevuto il mio vino, ho mangiato il loro pane, e poi ci siamo separati: loro per tornare al loro solito posto, io per attraversare questa valle sconosciuta. Ma quando ho lasciato quegli uomini seri e gentili, l’eco delle loro voci è rimasta con me; la profonda valle dell’Enza sembrava desolata, e man mano che scendevo verso il rumore del fiume, ho perso di vista il sole.
+
+* * *
 
 
 
@@ -8623,6 +12170,36 @@ I found a bridge which crossed the deep ravine they had told me of. This high br
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il passaggio dell'Enza
+
+L’Enza fu inondata. Per attraversarla venne costruito un ponte rudimentale, fatto di tronchi robusti legati insieme a formare una sorta di treppiede che sosteneva una lunga tavola di legno. Tuttavia, con l’alta marea, il ponte non raggiungeva completamente la riva opposta. Così gettai grandi pietre nell’acqua per creare un piccolo sentiero, e dopo alcuni momenti di pericolo riuscii ad arrivare sulla sponda opposta. Salii poi lungo un sentiero ripido fino a raggiungere il piccolo borgo di Ceregio, situato sulla sua collina: un luogo incantevole e isolato, senza strade che lo collegassero al resto del mondo, solo sentieri per muli.
+
+Le case erano tutte raggruppate intorno a una chiesa; l’ambiente tra di esse era piuttosto buio; ma alcuni uomini che guidavano buoi mi portarono in una casa che probabilmente era un ostello, anche se non c’erano segni evidenti che lo indicassero. Lì, in una stanza illuminata solo dalla penombra, ci sedemmo tutti insieme, come cristiani in perfetta armonia, e la donna di casa ci servì.
+
+Ora, dopo questa condivisione, quando chiesi la strada per Collagna, devono aver pensato che fossi sciocco e si sono chiesti perché non volessi trascorrere la notte con loro, poiché sapevano quanto fosse lontana Collagna. Ma io (a causa di quell’errore linguistico di cui vi ho parlato) credevo che fosse molto vicina. In realtà distava dieci miglia. Il più anziano dei miei compagni si offrì di accompagnarmi lungo la strada.
+
+Ci incamminammo insieme nella penombra lungo un sentiero che seguiva la cresta della collina; passammo accanto a una cosa incantevole: una piccola scultura bianca in rilievo, posta come santuario e raffigurante l’Annunciazione. Mentre la superavamo, entrambi sorridemmo. Poi, dopo alcune centinaia di metri, ne incontrammo un’altra che raffigurava la Visitazione; erano davvero graziose e belle, e capii che rappresentavano i cinque misteri gioiosi della fede cristiana. Alla fine lui dovette lasciarmi; indicando quel piccolo santuario, mi disse.
+
+* * *
+
+‘Quando arrivi al quinto di questi punti, il sentiero si divide. Prendi quello a sinistra e seguilo attorno alla conca della montagna: diventerà una strada strettissima. Questa strada attraversa un ruscello e passa vicino a una torre. Una volta raggiunta la torre, si unirà a una grande strada principale, ed è quella che porta a Collagna.’
+
+E quando indicò quei santuari, sorrise, come se si scusasse per loro, e capii che eravamo della stessa religione. Allora (poiché le persone che non si rivedranno più dovrebbero scambiarsi doni a vicenda), gli diedi la mia migliore delle due pipe, una nuova pipe con lettere incise sopra; lui pensò che fossero le iniziali del mio nome. A sua volta, mi regalò una rosa selvatica che aveva raccolto e tenuto tra le dita. E io proseguii da solo lungo il cammino.
+
+Certamente queste persone sono benedette, per la loro semplice vita e la loro giustizia. I loro occhi sono spaventosi e al contempo gentili; sono cortesi, onesti, e in tutti loro c’è sia riso che tristezza. Sono pieni di canzoni, di ricordi, delle storie della loro terra natale; e la loro devozione è in armonia con il mondo creato da Dio. Possano possedere la propria terra, e che la loro influenza ritorni dall’[[Italy|Italia]] per salvare dalle discordie, dalla vanità e dall’incompetenza le città stolte e prive di valore, nonché le folle chiassose e tumultuose. E preghiamo soprattutto affinché il risveglio della [[Faith|>fede]] possa portare qualche beneficio anche alle nostre povere università.
+
+Già all’inizio, ascoltando tutte queste indicazioni, mi sembrò che il percorso fosse più lungo di quanto mi aspettassi. Si rivelò davvero interminabile.
+
+Era ormai completamente buio; la notte era molto fredda, soprattutto sulle alture delle colline; una densa rugiada iniziò a cadere a terra e il cielo era pieno di stelle. Per ore proseguii lentamente lungo il sentiero che costeggiava la valle della montagna boscosa, chiedendomi perché non riuscissi ad arrivare al ruscello di cui aveva parlato. Fu a mezzanotte quando raggiunsi l’area pianeggiante, ma non sentii alcun rumore d’acqua e non vidi ancora la torre contro il cielo. La estrema stanchezza rendeva impossibile proseguire, pensai. Quando all’improvviso vidi una luce in una finestra; mi diressi subito verso di essa e mi fermai sotto di essa. Una donna, dalla finestra, mi chiamò “Caro mio”, il che fu molto gentile da parte sua. Ma non volle permettermi nemmeno di dormire nella paglia del fienile.
+
+Camminavo zoppicando nella disperazione della notte; il bisogno di dormire mi opprimeva dopo aver scalato quattro alte colline quel giorno, oltre ai sentieri accidentati, al caldo e alla continua marcia.
+
+Ho trovato un ponte che attraversava la profonda gola di cui mi avevano parlato. Questo alto ponte era nuovo e costruito con pietre fini, ma era rotto e in rovina; improvvisamente si aprì una voragine nel buio. Mi allontanai da essa per paura. Scendere fino al ruscello e poi risalire tra i cespugli per riprendere il cammino mi sfinì ancora di più. E quando, sulla collina oltre, vidi la torre.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_233_the_last_hours" data-title="The Path to Rome — The Last Hours" data-chapter="The Last Hours" data-kind="story" data-tags="motif/dawn,setting/mountains"></span>
@@ -8644,6 +12221,24 @@ And this long and dreadful expectation I had thought to be worst when one was al
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le ultime ore
+
+Leggermente più scuro rispetto al cielo notturno, ci andai con determinazione, temendo che potesse svanire; una volta raggiunto il luogo in cui si trovava (si trovava sul punto più alto, con vista sulla valle della Secchia), mi sedetti su una pietra accanto a esso e aspettai l’alba.
+
+La lunga pendenza delle colline si estendeva per chilometri, fino al punto in cui, di giorno, si sarebbe trovata la nebbiosa pianura dell’Emilia. L’oscurità confondeva i contorni del paesaggio. Il silenzio delle [[Mountains|montagne]] e l’atmosfera solenne e inquietante di quel luogo conferivano a quell’immensa distesa un senso di terrore, sotto il vertiginoso cielo stellato. Di tanto in tanto, qualche animale notturno emetteva un grido tra i cespugli della valle; la grande roccia di Castel-Nuovo, ora vicina e imponente – nuda, ruvida, un luogo desolato – aggiungeva ulteriore tensione a quell’atmosfera cupa.
+
+Le ore passavano lentamente, mentre le stelle sembravano meno luminose; un grigio molto tenue e senza vita sfiorava i bordi delle nuvole. Il freddo mi avvolgeva, e decisi di alzarmi per camminare, se solo ne fossi stato in grado, ancora un po’.
+
+Che cosa c'è nella mente che, dopo una piccola delusione o un insignificante incidente, fa sì che si soffra su scala di cose gravi?
+
+Ho atteso l’[[Dawn|'alba]] centinaia di volte, accompagnato da quel spirito triste e senza colore che aleggia nelle ultime ore dell’oscurità; influenzato soprattutto da quell’enorme apatia senza tempo che avvolge la prima, incerta promessa di luce crescente. Perché c’è un’ora, prima dell’alba, in cui gli uomini muoiono, e in cui non c’è nulla sopra o intorno all’anima, nemmeno le stelle esistono più.
+
+E questa lunga e terribile attesa. Pensavo fosse la cosa peggiore quando si è soli in mare su una piccola barca, senza vento; quando ci si lascia trascinare al di là del proprio porto con la marea bassa del canale esterno, per poi essere riportati indietro dalla prima ondata nel movimento vasto e confuso di un mare privo di onde. In quelle solitarie mattine, ho osservato il faro di Owers cambiare colore, ho contato i minuti che passavano. E mi sono chiesto come i momenti potessero allungarsi così tanto nella mente di chi non ha nulla a cui aggrapparsi. Ho pregato per l’arrivo della mattina, o per un soffio di vento. E questo, dico, è davvero l’estremo dell’assorbimento nel vuoto e del desiderio senza fine.
+
+* * *
 
 
 
@@ -8669,6 +12264,26 @@ I found therefore in the short grass, and on the scented earth beneath one
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il sole!
+
+MA ORA, su questa cresta, trascinandomi verso la strada principale, ho trovato un abisso ancora più profondo di solitudine e stanchezza disperata di quanto avessi mai conosciuto; sono stato sul punto di girare a est e pregare affinché la luce arrivasse più in fretta, proprio come le persone pregano continuamente senza motivo per cose che possono arrivare solo nel loro ordine naturale. Ho proseguito comunque un po’, perché quando mi sedevo, la mia solitudine mi opprimeva come una sventura; e perché i miei passi, lenti e dolorosi, donavano comunque un certo equilibrio e ritmo al movimento dei miei pensieri.
+
+Non sentivo alcun suono di animali o uccelli. Passai attraverso diversi campi, desolati nella semioscurità; in alcuni avvertii la presenza dell’erba secca, ma era sempre bagnata di rugiada; inoltre non riuscii a trovare un riparo efficace dal vento che soffiava portando via la neve dalle cime delle montagne. Per un breve momento, mentre procedevo lungo la strada, mi colpì quella sorta di sonnolenza che intorpidisce la mente, ma non riuscì a costringermi a sdraiarmi. La accettai soltanto come una forma parziale e benefica di oblio, che copriva la mia desolazione e il mio dolore, proprio come una nuvola sottile e trasparente può nascondere una luna malvagia.
+
+All'improvviso il cielo divenne più chiaro su tutti i lati. Quella cupa oscurità (che penso debbano riflettere le nuvole del purgatorio) si sollevò dalla valle, come se obbedisse a un lento comando proveniente da una forza calma e benefica che stava preparando l’arrivo del giorno. I colori tornarono alle cose; gli alberi ripresero la loro forma, la vita e il loro tremore; qua e là, sulla faccia della montagna di fronte, le nebbie, con i loro movimenti, partecipavano a questa rinascita. E per la prima volta credetti di sentire il rumore dell’acqua che scorreva giù nella valle. Quel sottile confine che separa il giorno dallo ieri venne tracciato; tutta la notte e la sua desolazione divennero parte del passato, entrando nella memoria. La strada davanti a me, il passo sulla mia sinistra, tutto si fuse nella luce crescente, in quel Presente familiare e rigeneratore che, per me, è sempre stato capace di aprire le porte del futuro con un gesto di vittoria.
+
+O il mio dolore se n'è andato, oppure ho smesso di notarlo; vedendo poco più avanti una collina sopra la strada e un bel boschetto di castagni sparsi e maestosi, ci sono salito sopra e mi sono voltato, trovandomi rivolto verso est.
+
+Lì, senza alcun segnale di colori, né delle decorazioni araldiche che abbiamo nel nord, il cielo era un vasto campo di luce pura; e senza dubbio, tutto ciò che vi si vedeva era intrecciato, proprio come la mia mente lo percepiva, con senso di sicurezza e gioia. Mentre lo osservavo, il sole sorse in quel cielo.
+
+L’aria divenne più calda quasi all’improvviso. Lo splendore e la vitalità di quella nuova giornata mi misero completamente a mio agio, convincendomi o costringendomi ad addormentarmi immediatamente.
+
+#Nel breve erba, e sulla terra profumata sotto di essa…
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_235_the_pass_into_tuscany" data-title="The Path to Rome — The Pass Into Tuscany" data-chapter="The Pass Into Tuscany" data-kind="story" data-tags="motif/journey,motif/prayer,setting/mountains"></span>
@@ -8691,6 +12306,24 @@ The hither side of that bank, I say, had been denuded of its trees; the roots
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il passaggio in Toscana
+
+Tra i miei alberi, c'era un posto dove poter sdraiarsi; mi distesi lì e cadde in un sonno profondo, dal quale solo una vaga e tenue sensazione di felicità mi separava dall’oblio totale. Se l’ultima confusione dei pensieri prima di addormentarmi poteva essere considerata una sorta di [[Prayer|preghiera]] – e certamente ero nel mood della gratitudine e dell’adorazione – allora questa [[Prayer|preghiera]] era naturalmente rivolta a Dio, da cui proviene ogni bene; ma in parte (in modo idolatrico) anche al Sole, che, di tutte le cose che Egli ha create, sembra essere, per quanto possiamo scoprire, la più completa e gloriosa.
+
+Pertanto, le prime ore di luce solare, dopo che mi ero svegliato, trasformavano quel luogo in una sorta di “nuovo paese”; perché la mia mente, che ne riceveva quella luce, era davvero nuova. Raggiunsi Collagna prima dell’arrivo del grande caldo, seguendo la bella strada che serpeggiava lungo il versante della montagna; poi, lasciando la strada e attraversando il piccolo fiume Secchia con un ponte, un sentiero, presto perduto tra i prati, mi indicò la direzione giusta. Dopo aver camminato per circa un’ora lungo il crinale della collina, davanti a me si aprì gradualmente una valle silenziosa e profonda, avvolta da enormi foreste, che si innalzava verso l’alto fino a essere delimitata da un alto versante situato tra due cime. Quel versante non poteva essere altro che la cresta centrale degli Appennini: il confine naturale della Toscana e la fine di gran parte del mio [[Journey|viaggio]]. Oltre di lì, le valli si aprivano sulla Pianura Toscana; al suo limite meridionale si trovava Siena. Da Siena a Roma, un uomo deciso e in buona salute poteva percorrere la distanza in tre giorni. E non era questa solo la considerazione che avevo in mente: il pensiero della Toscana mi riempiva di soddisfazione; quelle città rappresentavano l’approdo finale del mio viaggio.
+
+Dopo essermi riposato al fresco della notte, seguii il sentiero che si inoltrava nella foresta per tutto il pomeriggio. Gli alberi si estendevano fitti e maestosi; i muschi che li ricoprivano erano densi e silenziosi. In questa ultima zona delle [[Mountains|montagne]], l’altezza e la freschezza dell’ambiente ricreavano l’atmosfera del nord. Un carbonaio stava preparando il suo forno; dopo di ciò, per le ultime miglia non si udì più alcun suono. Anche il fondo della valle era coperto d’erba; nessun torrente scorreva lì, ma solo un piccolo ruscello nascosto, rigoglioso come i corsi d’acqua delle nostre campagne.
+
+Finalmente, la ripida riva, una sorta di muro alla fine della valle, si alzò improvvisamente davanti a me. Era molto scoscesa e priva di alberi, desolata a causa dei numerosi tronchi tagliati; ma tutto il suo bordo, contro il cielo, formava il confine di una fitta foresta.
+
+Dopo aver percorso faticosamente centinaia di piedi, quando finalmente si raggiunse la foresta che lo ricopriva uniformemente, gli Appennini furono conquistati; l’ultimo grande massiccio fu superato, e non esisteva più alcuna barriera tra questa alta cresta e Roma.
+
+“Dall’altra parte di quella riva, i alberi erano stati tutti tagliati; le radici…”
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_236_the_further_side" data-title="The Path to Rome — The Further Side" data-chapter="The Further Side" data-kind="story" data-tags="setting/mountains"></span>
@@ -8708,6 +12341,20 @@ Then, more silent in the mind through their influence, I went down past the spee
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'altra faccia
+
+I ginepri secolari si ergevano come tombe sopra il ripido terreno arido, segnando la fine della mia ultima aspra salita. Ora, sulla cima, l’area più alta era ricoperta da una fitta foresta; il tardo pomeriggio si mescolava alla sacralità degli alberi. Una piacevole umidità permeava il terreno sottostante: cresceva l’erba e c'erano creature viventi all’ombra degli alberi.
+
+Nemmeno questo bosco ospitale fu l’accoglienza che ricevetti al mio arrivo in Toscana. Già allora sentivo il rumore delle acque che cadevano da tutte le parti: il Serchio sgorgava da venti sorgenti sul versante meridionale, scorreva tra i muschi, superava grandi rocce lisce e scure con impetuosi getti d’acqua. In effetti, assomigliava molto al mio paese natale nel nord. Si poteva pensare: “Dopo tanti viaggi, forse sono finalmente arrivato nel Bosco Incantato. E forse troverò la fata Melisaunde.”
+
+Si aprì una radura; e, ora che gli alberi non la nascondevano più, guardai verso il basso lungo la valle, che era l’ingresso della Toscana. Lì – alte, frastagliate, che si innalzavano verso il cielo – si ergeva un gruppo di [[Mountains|montagne]] come quelli di cui gli uomini sognano nei loro sogni più belli, o che vedono nelle opere dei pittori quando l’età avanzata permette loro di ricevere tali rivelazioni. La loro altezza era evidente nella nebbia leggera e nel colore grigio delle loro cime; i loro contorni erano tumultuosi, ma al tempo stesso equilibrati; pieni di forme imprevedibili e di armonia. Sembrava che queste alte montagne, che costituivano il confine occidentale della valle, fossero state create apposta per l’uomo, per esaltarlo con forme straordinarie e fantastiche, e per arricchire la sua vita monotona con sorprese permanenti. Per molto tempo rimasi a fissare queste grandi colline.
+
+Poi, più silenzioso nella mia mente a causa del loro influsso, scesi lungo le sorgenti del Serchio, dove il canto degli uccelli e la compagnia delle acque creavano un’atmosfera serena; i castagni intorno erano impregnati dell’aroma della sera. Lungo la riva, fino al punto in cui i ruscelli si univano in uno solo, poi lungo il fiume, attraverso quel ponte distrutto e aperto (che qualcuno, generazioni fa, aveva costruito per i rari viaggiatori, all’epoca non esistevano strade principali che attraversassero gli Appennini, e forse proprio questo sentiero poco battuto era più praticabile); giù, sempre più in basso.
+
+* * *
 
 
 
@@ -8737,6 +12384,30 @@ In very early youth the soul can still remember its immortal habitation, and clo
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sillano
+
+Ancora più dolcemente, attraverso la stretta valle superiore, proseguii tra gli alberi di castagno; la calma mi accompagnava come compagna. L’amore degli uomini e l’aspettativa di cose buone sembravano naturali in tutto ciò che era stato creato in questo luogo beato. Di Borda, dove i contadini mi avevano indicato la strada, non c’è bisogno di parlare. Dopo aver attraversato nuovamente il Serchio, questa volta su un ponte di legno, percorsi un sentiero più ampio tra gli alberi e entrai nel caro villaggio di Sillano, che si affaccia direttamente verso l’occidente puro. Le cime delle montagne lo circondano come guardiani. I “fratelli maggiori” di questa valle remota e isolata.
+
+Un ostello mi accolse: una grande cucina piena di uomini e donne che parlavano, la cena che veniva preparata, un grande fuoco, carne che fumava e si asciugava nell’angolo riscaldato dal fuoco. Un vasto tetto in legno si innalzava verso l’oscurità; lì fui accolto con cortesia, ma nessuno capiva la mia lingua. Vedendo lì un giovane prete, gli dissi.
+
+“Padre, conosco il latino, ma non conosco l’italiano. Potreste darmi una traduzione di alcune parole in questa lingua toscana?”
+
+A questo rispose: “Libenter”, e la gente ci rispettava entrambi. Così mi spiegò che il nome di un coltello è “cultello”; di una stanza, “camera par domire”; di “come si chiama?”, “come si chiama?”; di “quale è la strada per,?”, “quella è la via per,?”, e altre frasi simili; forse in alcuni casi mi sbaglio, ma ho imparato tutto ascoltando.
+
+Poi mi disse qualcosa che non capii, e io risposi: “Pol-Hercle!”, e sembrò molto soddisfatto.
+
+“Allora, per rompere il silenzio, dissi: ‘Chi è quel diacono?’”
+
+“E mi rispose, con dolcezza e serietà: ‘Sono un presbitero’.”
+
+E poco dopo che se ne era andato a casa sua, io uscii sul balcone, dove uomini e donne parlavano a voce bassa. Lì, da sola, sedetti ad osservare la notte che calava su queste colline toscane. La prima luna da quando aveva iniziato a diminuire in Lorena, (quante notti fa, quante marce, ) pendeva nel cielo, una falce piena, diventando sempre più luminosa e maestosa mentre assumeva il suo dominio. Quella stella dell’ovest chiamava i suoi silenziosi compagni nell’ordine prestabilito; le [[Mountains|montagne]] si confondevano in un bagliore più tenue; il cielo e l’infinito spazio diventavano il luogo naturale per qualsiasi spirito che ammirasse questa magia. Le lucciole sfrecciavano nelle profondità dei vigneti e degli alberi sottostanti; poi il rumore delle cavallette riportava improvvisamente alla mente i giardini di casa, e tutte le benedizioni che circondano la nostra infanzia. Qualche promessa di piaceri eterni e di riposo aleggiava su quel villaggio chiamato Sillano.
+
+Fin nella più tenera giovinezza, l’anima può ancora ricordare la sua dimora immortale; le nuvole e i margini delle colline sono di un altro genere rispetto ai nostri, e ogni profumo e colore ha il sapore del Paradiso. Quale sia esattamente questa qualità, nessuna lingua può descriverla; gli uomini non hanno creato parole, né musica, per ricordarla. Solo in modo fugace ed elusivo possiamo rievocare ciò che la giovinezza e la purezza significavano un tempo.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_238_on_anything" data-title="The Path to Rome — On Anything" data-chapter="On Anything" data-kind="story" data-tags="motif/journey,setting/mountains"></span>
@@ -8757,6 +12428,22 @@ But I say that if it were not for the incredulity and doubt and agnostico-schism
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Su qualsiasi cosa
+
+Nelle frasi dei poeti, tutto ciò che riguarda il “Noi” scompare prima ancora che riusciamo a fissarlo nella nostra mente. Oh, amici miei, se solo potessimo ricordarlo! Qualunque sia quel suono che va oltre i nostri limiti, qualunque sia quella vita intensa che sopravvive nella memoria. La Gioventù stessa è emersa da quella valle al tramonto, portata da un vento meridionale. Se meritiamo o raggiungiamo la beatitudine, tali cose diventeranno infine il nostro stato stabile; e l’influenza improvvisa che esercitano sull’anima in momenti di estasi è la prova che appartengono al di fuori del tempo e non sono soggette alla decadenza.
+
+Questa, dunque, era la benedizione di Sillano; forse questo fu il momento più importante di quei settecento miglia, o forse di molto di più. Non meravigliarti quindi, lettore, se ora procederò ancora più rapidamente verso Roma: l’obiettivo è ormai quasi a portata di mano, e il momento più importante è già stato vissuto, fino a quando non vedrò finalmente la Città.
+
+Ora grido e mi lamento del fatto che questi prossimi sessanta miglia di viaggio, soprattutto il calore dei giorni e la umidità delle notti, debbano essere descritti come parte di un vero [[Journey|Viaggio]] in questo mondo così ripetitivo e simile a se stesso. Quanto vorrei invece poter vagare liberamente, lontano da considerazioni banali e noiose, attraverso l’aria e visitare luoghi dove tutto possa essere come lo desidera l’anima. Per esempio, atterrare finalmente nella antica e famosa città di Siena, da cui proviene quella vernice marrone comune con la quale, anche i più malvagi, possono ottenere effetti sorprendenti di profondità nelle loro opere d’arte. Ne ho letto in un libro scritto da uno sciocco, al prezzo di sei scellini; anzi, quel libro faceva parte di una serie. Ma se volete saperne di più, andate pure a leggerlo voi stessi. Io non ne farò nulla.
+
+Oh, poter essere liberi per strani viaggi, anche solo per un breve momento. Sono stanco di questo cammino; lo sei anche tu, e non ti si può biasimare. Anche i vostri padri erano stanchi delle solite routine quotidiane, così come i miei dei lunghi viaggi militari della Repubblica. Che il cielo vi benedica tutti!
+
+Ma dico che se non fosse per l’incredulità, il dubbio, le esitazioni agnostico-scismatiche, e quell’atmosfera fastidiosa di continua domanda e sospetto che è la maledizione dei nostri tempi moderni, sicuramente ora racconterei di giganti grandi come cedri, che vivono in montagne di pietre preziose e vengono condotti in battaglia da draghi su carri d’oro; o di città dove le usanze delle persone sono strane e inaspettate; di paesi ancora non esplorati, e degli dei che tornano tra noi. Perché, anche se è permesso e una cosa piacevole (come dice Bacon), mescolare un po’ di falsità alla verità (così San Luigi mescolava acqua al suo vino, e così fa Sir John Growl con il suo, a meno che non mi sbagli di molto, perché se non fosse così.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_239_the_garfagnana" data-title="The Path to Rome — The Garfagnana" data-chapter="The Garfagnana" data-kind="story" data-tags="setting/mountains"></span>
@@ -8775,6 +12462,20 @@ Not that there were not old towers on the steep woods of the Apennine, nor glimp
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# La Garfagnana
+
+COME fa a conferire ai suoi pasti quel sapore particolare? Eh. Credo che questa sia una domanda che lo lascerebbe perplesso! Eppure, non è forse molto più delizioso, e assai più degno dello spirito immortale dell’uomo, innalzarsi verso l’empireo della pura menzogna. Cioè, imporre le redini al collo di Pegaso e lasciarlo correre, mentre si siede comodamente in sella, lo si guida con le ginocchia, si partecipa alla “gara”, e, grazie all’energia di quel cavallo, si visitano le stelle che ruotano nel cielo.
+
+Quanto basta, dunque, per descrivere la valle del Serchio: è stretta, piena di rumori prodotti dall’acqua che scorre impetuosamente, densamente boscosa e circondata da fantastiche [[Mountains|montagne]]. Ha un nome splendido, simile al suono dei cimbali: Garfagnana; conduce alla pianura toscana ed è lunga più di un giorno di cammino. Inoltre, è davvero come un forno.
+
+Da quando i primi bugiardi iniziarono a cuocere le uova nella sabbia, non c'era mai stata una calura del genere; e quella calura fu ancora più intensa a causa della consapevolezza dell’assurdità di ciò che stavano facendo. Non credo nemmeno che il vecchio Championnet in persona, con la sua “Divisione di Ferro” che sconfisse i nemici tre contro uno e distrusse quelle mostruose strutture create dagli oppressori come se fossero semplici uova vuote, e che considerava l’estate il periodo migliore per combattere a Napoli, nemmeno lui avrebbe condotto le truppe nella Garfagnana con un sole così cocente. Fu la follia a pianificare tutto questo, l’orgoglio ad insistere nel farlo, e i diavoli fornirono loro il clima adatto. Garfagnana! Garfagnana, avere un nome così piacevole, eppure essere ciò che sei.
+
+Non che non ci fossero vecchie torri tra i boschi scoscesi degli Appennini, né scorci delle cime più alte; c'erano anche città: un castello circondato da tetti umili. C’erano tutte queste cose. Ma sembrava un forno. Quindi immaginate me, dopo aver attraversato cappelle scavate nella roccia e altre cose davvero curiose.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_240_the_bridges_of_castel_nuovo" data-title="The Path to Rome — The Bridges Of Castel-Nuovo" data-chapter="The Bridges Of Castel Nuovo" data-kind="story" data-tags="motif/sun,motif/river,form/travel_writing,setting/italy"></span>
@@ -8792,6 +12493,20 @@ I cared not a fig for the thousand things I had been told to expect in Tuscany; 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#I ponti di Castel-Nuovo
+
+Sotto l’assalto di un sole insopportabile, verso metà pomeriggio, giunsero in un luogo chiamato Castel-Nuovo: la prima città, poiché Campogiamo difficilmente può essere considerata una città.
+
+A Castel-Nuovo mi sedetti su un ponte e pensai, ma non a quelle cose a cui pensano gli uomini buoni (non mi vennero in mente alcun ricordo storico; forse la Libertà non è mai passata per quella valle in armi); nessuna ammirazione per la bellezza mi colmò il cuore; ero indifferente a tutto, tranne che al caldo insopportabile. Quando all’improvviso notai l’enorme numero di ponti che costellavano la città.
+
+“È una cosa strana,” pensai. “Ecco una piccola città situata tra le colline, e quanti ponti potenti ci sono!”
+
+Non mi importava affatto di tutte le cose che mi era stato detto di aspettarmi in Toscana; tutto dipende dalla mente dell’uomo, e poiché quelle cose non esistevano nella mia mente, non esistevano davvero. Ma i ponti, beh, quei sì che meritavano ammirazione!
+
+* * *
 
 
 
@@ -8835,6 +12550,44 @@ and pilgrimage: of cypress trees which henceforward were to mark my Tuscan road.
 And I will tell you something more. I will tell you something no one has yet heard. To wit, why this place is called Decimo, and why just below it is another little spot called Sexta.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Il dio del ponte
+
+C'era un posto terribile, situato sulla riva di un torrente. C'era un ponte abbastanza decente: lungo di esso passava la strada che conduceva a sud, verso Lucca e Roma; era prassi comune permettere alle persone di fuggire. Ma mentre sedevo su quel ponte principale ne contai altri sette. Davvero, in passato doveva esserci stata una sorta di culto dedicato a un “dio dei ponti”, per spiegare l’esistenza di così tanti ponti in quella zona trascurata.
+
+Potreste dire (sto viaggiando verso Borgo sotto il caldo torrido, ma continuo comunque con determinazione), potreste dire che questo è abbastanza spiegabile. Prima di tutto, qualcosa che è utile diventa routine; poi, essendo diventata una routine, quell’abitudine acquisisce un significato sacro. È lo stesso per i ponti: ad esempio Pontifex, Dervorguilla, il nostro santo Ballici che costruì un ponte; il diavolo che cerca sempre di ostacolare la costruzione dei ponti. Si può anche pensare al Ponte di Porfiro nella cosmogonia malese, ad Amershickel, a Brückengebildung im kult-Historischer di Passenmayer, a Le pont antique di Durât, che studia le origini toscane dei ponti, a The Command of Bridges in Warfare di Mr Dacre, e a Bridges and Empire del Capitano Hole degli Stati Uniti. Potreste dire tutto questo. Ma non risponderò. Se il caldo mi ha impedito di parlare della bella valle alla mia sinistra, della piccola ferrovia e dell’ultima collina, pensate davvero che mi permetterà di discutere della sacralità dei ponti? Se così fosse, credo ci sarebbe una domanda fondamentale da porre: “Perché un’abitudine dovrebbe diventare sacra?” Una domanda che metterebbe in difficoltà voi, e anche ogni pedante che si è mai immerso troppo nei libri, o ha confuso l’avorio con il corno. E basta. Discutetene pure con chi volete. È sera, e sono arrivato a Borgo (in Italia ci sono molte città chiamate Castel-Nuovo, ma anche molte chiamate Borgo). Voglio essere libero da interruzioni mentre mangio, dormo e rifletto sull’errore di quella marcia sotto il caldo torrido. Un errore che ha rovinato quasi trenta miglia di strada, facendoci perdere tante emozioni belle e piacevoli. Tutto a causa della fretta e del disprezzo per la notte italiana.
+
+E mentre mangiavo, e prima di addormentarmi, pensai a quel libro guida annotato di cui tutta Europa ha bisogno, un libro che dirà verità schiette. Guardate: “Garfagnana, distretto della Valle del Serchio” nell’indice. Vi verrà fatto riferimento lì. Troverete quella frase.
+
+Si può percorrere in un giorno il tragitto dal grazioso villaggio di Sillano, nascosto tra i suoi boschi di castagni, fino alla fiorente città di Borgo, lungo la nuova linea ferroviaria Bagni.
+
+Dopo quella frase troverete un segno che indica una nota a piè di pagina. Guardate in basso alla pagina e vedrete:
+
+Ma se lo si fa, si è degli sciocchi.
+
+So che ho dormito tardi e in modo inquieto, a causa del sonno insufficiente tipico di chi ha sofferto. E in quel sonno agitato ho scoperto questa grande verità: che se, in una situazione del genere.
+
+* * *
+
+PERCHÉ “DECIMO”?
+
+In estate, se non riposi di giorno, la notte sembrerà insopportabilmente calda; ma se riposi di giorno, troverai freschezza ed energia alla sera.
+
+La mattina seguente, con l’arrivo della luce del giorno, proseguii il mio viaggio verso Lucca, ma anche di questo non dirò nulla.
+
+LETTORE: Ma perché diavolo hai scritto questo libro?
+
+AUTORE: Per il mio divertimento.
+
+LETTORE. E perché pensi che l’abbia ottenuta?
+
+AUTORE: Non riesco a concepire, comunque, vi dirò questo: è stato proprio a Decimo che il mistero dei cipressi è entrato per la prima volta nella mia avventura.
+
+E poi c'erano i cipressi, che da allora in poi avrebbero segnato il mio cammino in Toscana. Vi dirò anche che lì ho incontrato qualcosa di particolare, tipico probabilmente della regione di Lucca: l’ho visto sia a Decimo che qualche chilometro più avanti. Intendo dire quei bellissimi e maestosi torri funebri costruite in questo modo: al primo piano un arco, al secondo due, al terzo tre, e così via. Un modo davvero nobile di costruire.
+
+E vi dirò ancora qualcosa. Vi dirò qualcosa che nessuno ha ancora sentito. Cioè, perché questo posto si chiama Decimo, e perché proprio sotto di esso c’è un altro piccolo luogo chiamato Sexta.
+
 
 
 <span class="atom-split" data-atom="story_242_lector" data-title="The Path to Rome — Lector.. .." data-chapter="Lector" data-kind="story" data-tags="form/travel_writing,setting/italy"></span>
@@ -8846,6 +12599,14 @@ AUCTOR. I know what you are going to say! Do not say it. You are going to say: �
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lettore.
+
+AUTORE: So cosa stai per dire. Non dirlo. Stai per dire: “È perché si trovavano al sesto e al decimo miglio da Lucca, ”
+
+* * *
 
 
 
@@ -8866,6 +12627,22 @@ I went with a short shadow, creeping when I could on the eastern side of the str
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per questo motivo
+
+“La strada romana, ” Che il cielo aiuti questi scienziati! Pensavate davvero che si chiamasse “Decimo” perché la gente aveva dieci dita dei piedi? Ditemi: perché non tutti i luoghi situati a dieci miglia da una città romana dovrebbero essere chiamati così? Eh? Siete stupidi. Non riuscite nemmeno a rispondere. Come la maggior parte delle persone moderne, avete completamente perso il punto. Sappiamo tutti che esisteva una città romana a Lucca, perché si chiamava proprio “Lucca”; se non ci fosse stata una città romana, la città moderna non sarebbe scritta con due “c”. Tutte le città romane avevano pietre miliari alle loro porte. Ma perché questa decima pietra miliare da quella città romana ha mantenuto il suo nome?
+
+LETTORE: Sono indifferente.
+
+AUTORE: Vi racconterò. Lassù, nella fitta foresta delle montagne di Carrara, che si ergono sopra la Garfagnana, viveva una tribù selvaggia; il suo nome mi è sfuggito (forse erano i Bruttii), ma causava non pochi problemi ai Romani: li sconfiggevano spesso in modo disastroso e tenevano i legionari in costante apprensione per anni. Così, quando gli soldati marciarono verso nord da Luca, dopo circa sei miglia, poterono fermarsi e sorridersi a vicenda, dicendo: “A Sextant, tutto a posto. Finora siamo al sicuro!” E così, in quel luogo di riposo, nacque una piccola cittadina. Ma man mano che si avvicinavano alle pendici delle colline, iniziarono ad agitarsi visibilmente e dicevano: “L’ottava miglia! Forza!” Poi: “La nona miglia. Santa Madonna! Avete visto qualcosa muoversi sulle alture?” Quando raggiunsero la decima targa, situata proprio davanti all’ingresso della gola stretta, dissero con terribile enfasi: “Ad Decimam!” Ormai non c’era modo di fermarli: si accampavano e scavavano trincee, o morivano in quell’avventura. Erano Romani, uomini decisi e coraggiosi; amavano i loro campi fortificati, le trincee, le sentinelle, la luna chiara, e tutto ciò che rappresentava il vero spirito della guerra. Ecco dunque l’origine di Decimo.
+
+Nonostante il mio inizio anticipato, il caldo insopportabile aveva di nuovo preso il sopravvento prima che potessi davvero entrare nella pianura. Poiché era ancora mattina, entrai da nord nella città di Lucca: è la città più ordinata, regolare, precisa e incantevole del mondo, con strade non affollate, fortificazioni assurde e case silenziose e serene, tutto come una famiglia che vive in armonia sotto il sole alto. Lucca è così ben organizzata quanto la sua stessa mappa, e quella mappa è chiara quanto un problema geometrico. Tutto a Lucca è perfetto.
+
+Ho utilizzato un’ombra corta, muovendomi furtivamente sul lato est della strada per evitare di interrompere la luce del sole; poi sono arrivato in piazza principale, e subito a sinistra c’era l’Albergo di Qualcosa-o-altro, un bellissimo hotel, ma soprattutto.
+
+* * *
 
 
 
@@ -8891,6 +12668,26 @@ My way lay under the flank of that mountain whereby the Luccans cannot see Pisa,
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il banchetto
+
+Sfortunatamente, con la faccia rivolta verso il cielo infuocato. Ho dovuto fermarmi fuori per contare i miei soldi. Ho fatto un errore nel conteggio e sono entrato. Lì ho visto il padrone, che parlava francese.
+
+“Puoi, tra un’ora,” dissi, “prepararmi un pasto secondo i miei desideri, e poi darmi un letto, anche se è ancora presto?” Questa domanda assurda divenne meno assurda quando gli spiegai lo scopo della mia richiesta. Gli raccontai che stavo viaggiando verso Roma e che, essendo del nord, non ero abituato a tale caldo; per questo motivo avevo perso il sonno e avrei dovuto viaggiare principalmente di notte. Avevo infatti deciso di completare gli ultimi tratti del viaggio al buio e di dormire durante le ore più calde del giorno.
+
+Tutto questo lo capì; ordinai un pasto simile a quello che gli uomini offrono ai loro cari amici tornati dal guerra. Chiesi anche un vino che conoscevo da molto tempo, prodotto nella valle del Saône, nell’epoca dell’antica pace, prima ancora che i Greci arrivassero in quella terra. Mentre lo preparavano, andai nella loro maestosa e splendida cattedrale per partecipare alla messa serale. Poi tornai a casa e mangiai il loro delizioso cibo, bevendo quel vino che i Burgundi avevano prodotto su quelle colline dorate tanti anni prima. Mi mostrarono anche una stanza davvero regale, dove un letto con bellissimi tendaggi invitava al riposo.
+
+Tutti i miei giorni di marcia, le locande sporche, i boschi, le notti trascorse all’estero, il freddo, la nebbia, l’insonnia, la debolezza, la polvere, il sole abbagliante, gli Appennini. Tutti quei ricordi mi assalirono improvvisamente, e su di me calò una sensazione di pace, proprio come i duecento anni vissuti da Carlo Magno nella torre di Saragozza, dopo la fine della battaglia, quando aveva domato la valle dell’Ebro e battezzato Bramimonde.
+
+Quindi ho dormito profondamente per tutta la giornata; e fuori, il bagliore del sole aveva creato un silenzio intorno alle persiane chiuse, a parte i piccoli insetti che si muovevano nell’aria esterna.
+
+Quando mi svegliai era già sera. Mi avevano sfruttato così bene che pagai quanto mi chiesero; non sapendo quanto denaro mi fosse rimasto, lasciai la loro città passando per il cancello sud, attraversai la ferrovia e presi la strada.
+
+Il mio percorso passava sotto il versante di quella montagna: da lì i lucchesi non potevano vedere Pisa, e i pisani non potevano vedere Lucca. Per me era lo stesso; non avrei vissuto in nessuna delle due città, se Dio lo avesse voluto. E se sono così desiderosi di “guardarsi” a vicenda, per l’amor del cielo, non possono forse prendersi la briga di fare il giro attorno alla montagna? È questa pigrizia che rovina molte persone. Ma non i pellegrini: io, ad esempio, sono riuscito a attraversare la pianura dell’Arno in una sola notte e ad arrivare alla foce entro la mattina.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_245_nothing_particular" data-title="The Path to Rome — Nothing Particular" data-chapter="Nothing Particular" data-kind="story" data-tags="topos/the_open_road,archetype/pilgrim,motif/night,concept/providence,concept/rationalism,form/travel_writing,histref/catholic_church,setting/italy"></span>
@@ -8912,6 +12709,24 @@ It was in no way mountainous, but easy, pleasant, and comfortable, bounded by lo
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Niente di particolare
+
+E inoltre, il portale di quella valle dell’Elsa costituisce una prova evidente del fatto che Roma fosse destinata ad essere l’estremità e il centro di tutte le strade, la principale città del mondo e la residenza dei Papi – come infatti è ancora oggi; chi negasse questo, a proprio rischio, lo farebbe sotto il profilo spirituale, geografico, storico, sociologico, economico e filosofico.
+
+Perché se una tale qualità primordiale e predeterminata non fosse intrinseca alla Città, come potrebbe mai il valle del Serchio – quel caldo, arido e rovente Garfagnana – scendere direttamente verso Roma; e come potrebbe quella stessa linea, prolungandosi attraverso la pianura, incontrare esattamente il valle dell’Elsa, che a sua volta conduce direttamente verso Roma? Dico io: in nessun altro luogo del mondo si può osservare una tale coincidenza. Coloro che non la considerano un presagio possono tornare al loro razionalismo, associarsi ai microbi e nutrirsi di logaritmi, bevendoli con una distillazione precisa della radice di meno uno. E la pace degli sciocchi, quella più profonda e serena di tutte, possa essere loro per sempre.
+
+Ancora una volta commetti errori mentre leggi, aspettandoti sempre qualcosa di nuovo; infatti non c’è nulla da raccontare riguardo a quella marcia notturna, se non che faceva freddo, c’era molta nebbia, e tutto fu piuttosto semplice dopo gli intrattenimenti reali e il sonno nel magnifico palazzo principesco che onora Lucca. I villaggi erano silenziosi, la luna presto lasciò il cielo, e le stelle non riuscivano a brillare attraverso la nebbia, che si faceva sempre più densa nelle ore successive a mezzanotte.
+
+Una mappa che avevo comprato a Lucca rese abbastanza semplici le difficoltà della prima parte del percorso (nonostante ci fossero molte strade secondarie); anche la seconda parte, durante la notte e nelle prime ore del mattino, fu priva di problemi. Tuttavia, dopo aver attraversato la linea principale e, finalmente, molto stanco, raggiunto la ferrovia secondaria che si dirama da ovest e nord, la attraversai anch’essa in piena luce. Mi trovai così nel valle dell’Elsa, sulla strada principale che segue il percorso della ferrovia fino a Siena. Quel lungo cammino, dico, fu abbastanza facile nella frescura e nell’oscurità; ma non vidi nulla. Solo i miei pensieri interiori avrebbero potuto fornire materiale per descrivere quella parte del viaggio. Ma se, dopo quasi seicento miglia di viaggio, questi pensieri non vi sono ancora bastati, allora siete davvero più resistenti di quanto pensassi.
+
+Nonostante fosse piena estate, l’oscurità si era dissipata rapidamente. Molto dopo l’alba la nebbia si era dispersa, rivelando il paesaggio della valle.
+
+Non era affatto montuoso, ma piuttosto pianeggiante, gradevole e confortevole; delimitato da basse colline arrotondate, su cui qua e là si ergeva una fila di cipressi contro il cielo; inoltre, era popolato da bei campi coltivati. Sebbene il terreno fosse arido e riarsito, come è davvero dappertutto in questa regione meridionale, pochi corsi d’acqua regolari lo irrigavano e nutrivano molti alberi; mancava però l’erba rigogliosa tipica del nord.
+
+* * *
 
 
 
@@ -8937,6 +12752,26 @@ I remembered the pleasing cheque in the post-office of Siena; the banks of Siena
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La tentazione
+
+Per un’ora o più dopo l’alba proseguii il mio cammino con grande energia; poi il calore del sole mattutino si trasformò nella violenta canicola di mezzogiorno. Ricordando le parole di Merlin, secondo cui coloro che viaggiano di notte devono dormire di giorno, e pensando alle severe osservazioni di James Bayle – un tempo membro dell’Ordine di Sant’Anna – che “nei mesi estivi toscani, di solito i giorni sono afosi ma le notti fresche” (non era certo un poeta effusivo; amava la sobria eleganza della poesia inglese di destra), immaginai che fosse possibile abituarsi immediatamente a dormire di giorno. Mi sdraiai quindi sotto un albero di una specie che non avevo mai visto prima, e, lasciandomi cullare dall’idea piacevole che si trattasse di un albero dipinto prima del Rinascimento, e che fossi immerso in un paesaggio del XV secolo (la scena, infatti, era proprio di quel tipo), mi addormentai.
+
+Quando mi svegliai, sembrava che avessi dormito a lungo; ma dubitavo di quella sensazione. Il sole giovane era ancora basso nel cielo e le ombre non si erano ancora accorciate, il che mi confondeva. Guardai l’orologio, ma la distorsione causata dalle abitudini notturne lo aveva fatto smettere di funzionare correttamente; indicava venti minuti alle tre, il che era assurdo. Presi la strada, ancora intontito e perplesso. Passai davanti a diverse piccole case bianche; in nessuna c’era un orologio e le persone erano tutte assenti. Alla fine, in una trattoria, mentre mi servivano da mangiare, una donna mi disse che erano appena passate le sette; avevo dormito soltanto un’ora.
+
+Fuori, il giorno era intenso; già le mosche avevano iniziato a infastidire la stanza buia all’interno. Attraverso la porta semi-accostata, la strada appariva bianca sotto il sole, e la ferrovia si estendeva poco più in là.
+
+Pagai il mio debito, e poi, per divertimento, disposi i miei pochi penny sul tavolo: prima formando una croce di Malta, poi in cerchio. Dettagli davvero interessanti! La strada fuori era bianca sotto il sole, e la ferrovia si estendeva poco più in là.
+
+Contai i penny e le monete d’argento: c'erano tre franchi e qualcosa in più. Ricordai le generosità dell’imperatore a Lucca, quegli spese lussuose. Ora, nelle tasche di un uomo servile, quelle sterline sembravano prendersi cura da sole di tutto. Ricordai anche come, a Como, fossi stato costretto dalla povertà ad imbarcarmi sul treno per Milano. Tre franchi. Che miseria, per i restanti venticinque chilometri fino a Siena! La strada si estendeva bianca sotto il sole, e la ferrovia proseguiva poco più in là.
+
+Ricordai quel piacevole assegno all’ufficio postale di Siena; i lunghi corridoi di Siena, e i cambiavalute ai loro banchi che convertivano denaro secondo il tasso di cambio in vigore.
+
+“Se uno uomo,” pensai, “può ottenere uno sconto del cinque percento su una certa somma di denaro nell’ambito degli scambi, perché non potrebbe un altro uomo ottenere uno sconto anche per qualcosa che richiede più di sette ore di tempo?”
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_247_the_fall" data-title="The Path to Rome — The Fall" data-chapter="The Fall" data-kind="story" data-tags="topos/temptation,motif/machine,motif/sleep,motif/city,concept/temptation,concept/self_deception,form/travel_writing,setting/italy"></span>
@@ -8954,6 +12789,20 @@ It was still only morning; but the glare was beyond bearing as I passed through 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La caduta
+
+CENTO MIGLIA? Forse non potrà tagliare via quella distanza, limitandosi ai soliti venticinque miseri miglia in treno. Dopo il pasto, sonnolenza e tentazione aumentavano. Ahimè! Quanto è vera quell’antica massima di Averroè (o forse di Boa-ed-din: comunque sia, non ricordo esattamente l’autore, ma il significato è chiaro): quando si cade una volta, è facile cadere di nuovo. A meno che non si tratti di cadute da scogli o torri alte, perché dopo quelle non c’è più modo di cadere. Esamina bene le ginocchia del cavallo prima di comprarlo; non ospitare a casa tua persone senza fissa dimora per pietà; non leggere prospetti che promettono partecipazioni agli utili; non giocare con armi da fuoco o coltelli, e non avvicinarti mai all’acqua se non sai nuotare. Oh! Beata saggezza degli antichi. L’unica eredità dei poveri. La strada si estendeva bianca sotto il sole, mentre la ferrovia proseguiva poco più in là.
+
+Se il popolo di Milo ha fatto bene ad erigere una statua d’oro all’uomo che inventò la ruota, allo stesso modo dovremmo anche erigere statue in pietra o gesso all’uomo che inventò i binari ferroviari: questi non solo aumentano la velocità e semplificano i viaggi, ma procurano anche un sonno profondo, come nessuna droga potrebbe fare, nemmeno i papaveri raccolti sotto una luna calante. I binari hanno un ritmo di leggere salite e discese; emettono un rumore forte, simile a quello di un corso d’acqua incessante; coprono la mente con un velo.
+
+Solo una volta, quando un gruppo di uomini gridava “POGGI-BON-SI”, come un grido di guerra accompagnato dal rumore del bronzo, aprii gli occhi assonnato e vidi una collina, le mura di un castello, molti cipressi e una strana torre che spuntava in cima (sapendo che quel tipo di torri era tipico della Toscana). Poi, in un attimo, mi svegliai nella stazione di Siena, dove la ferrovia finisce e non prosegue oltre.
+
+Era ancora solo mattina; ma la luce abbagliante era insopportabile mentre attraversavo il enorme cancello della città, un cancello incastonato tra alte e imponenti mura, qui sorvegliate da leoni. Nella stretta strada principale regnava l’ombra, e l’atmosfera risultava ancora più fresca grazie al contrasto con il bagliore dei piani superiori del lato nord. I meravigliosi monumenti di Siena impedivano che il sonno mi assopisse nemmeno per un momento: vidi la loro grande piazza, dove una torre di enorme altezza segna il luogo della sede delle corporazioni; ascoltai la messa in una cappella della loro cattedrale: una cappella interamente affrescata, costruita quasi all’aperto, proprio sotto l’altare o il coro. Notai come la città si ergesse come una regina delle colline, dominando tutta la Toscana: a nord sopra l’Elsa, a sud sopra la provincia che circonda il Monte Amiato. E anche questa grande montagna la vidi, sfocata in lontananza all’orizzonte. Sopportai le volgarità della strada principale, ascoltando tutto in inglese e americano, come se si trattasse di uno spettacolo. Presi i miei soldi e li cambiai; poi, dopo meno di un’ora, sopraffatto dalla stanchezza, mi dissi:
+
+* * *
 
 
 
@@ -8987,6 +12836,34 @@ At this moment there came in a tall, rather stiff Englishman. He also was put ou
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Una referenza
+
+Dopotutto, il mio interesse non riguarda le città; ho già visto, da lontano, quella grande collina dalla quale si possono osservare tutte le altre colline che sovrastano Roma.
+
+Con questo pensiero in mente, uscii alla ricerca di un posto tranquillo e lo trovai in una zona desolata e verde, a nord della città, vicino a una enorme chiesa vecchia in mattoni rossi, simile a un fienile. Un’ombra profonda sotto di essa mi invitò ad entrare, nonostante l’erba rada e polverosa; in quella zona, nessuno disturba il viandante. Lì, sdraiato, dormii senza sogni fino a sera.
+
+AUTORE. Passare alla pagina 94.
+
+LETTORE: L’ho trovato. Non è facile leggere il libro in due posti contemporaneamente, ma per favore continuate.
+
+AUTORE: Notate le parole presenti dalle ottava alla decima riga.
+
+LETTORE: Perché?
+
+AUTORE: Faranno sì che ciò che segue appaia meno improvviso.
+
+C'era una volta un uomo che pranzava da solo al Cafe Anglais, in quei tempi in cui la gente ci andava spesso. Era una serata affollata; l'uomo sedeva da solo a un piccolo tavolo quando entrò un uomo molto alto, avvolto in un grande cappotto di pelliccia. L’uomo alto guardò intorno con aria infastidita, perché non c’era abbastanza spazio; allora il primo uomo gli offrì gentilmente di sedersi al suo tavolo. Si misero a mangiare e parlarono di varie cose, tra cui della burocrazia. Il primo uomo sosteneva che la burocrazia fosse la maledizione della [[France|Francia]].
+
+“Gli uomini vengono governati da esso come pecore. L’amministratore, per umile che sia, è un despota; la maggior parte delle persone andrà addirittura incontro a lui a metà strada, proprio come quei cani servili che sono,” disse.
+
+“No,” rispose l’Uomo con il Grande Cappotto di Pelliccia, “direi che gli uomini sono guidati semplicemente dal normale senso umano dell’autorità. Non ho teorie: dico soltanto che riconoscono l’autorità e la obbediscono. Che sia burocratica o meno è solo una questione di forma.”
+
+In quel momento entrò un uomo alto e piuttosto rigido, di origine inglese. Anche lui rimase deluso nel scoprire che non c’era posto libero. I due uomini videro il direttore avvicinarsi a lui; dopo alcune parole e la consegna di una carta, il direttore improvvisamente sorrise, si inchinò, fece un sorrisetto malizioso e infine andò al tavolo per chiedere che al Duca di Sussex fosse permesso partecipare alla cena. Il Duca sperava di non disturbare quei signori; loro gli assicurarono che, al contrario, consideravano la sua presenza un grande onore.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_249_story_of_the_duke_of_sussex" data-title="The Path to Rome — Story Of The Duke Of Sussex" data-chapter="Story Of The Duke Of Sussex" data-kind="story" data-tags="concept/authority,form/short_story,setting/paris"></span>
@@ -9015,6 +12892,30 @@ He went up to the wall of the Credit Lyonnais, put the forefinger of either hand
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Storia del Duca di Sussex
+
+“È nostro diritto,” disse l’Uomo con il Grande Cappotto di Pelliccia, “essere gli ospiti che accolgono Parigi nel suo ricevimento per l’ospite.”
+
+Non accettavano alcuna rifiutazione; insistevano affinché il Duca pranzasse con loro e gli raccontarono ciò di cui avevano appena discusso. Il Duca ascoltò le loro teorie con una certa indifferenza, molto malumore e non poca irritabilità, ma con perfetta cortesia; poi, durante il caffè, gli espose la sua opinione in francese fluente, con un forte accento. (Aveva gustato otto piatti eccellenti: Yquem con il pesce, il miglior Chambertin durante la cena, e un bicchiere di meraviglioso champagne dopo il dolce.) Parlò così, con un sorriso leggermente forzato:
+
+“La mia opinione potrebbe sembrarvi inopportuna, ma credo che nulla influisca sugli uomini in modo più sottile e potente del sentimento aristocratico. Non fraintendetemi,” aggiunse, vedendo che stavano per protestare; “non è solo la mia esperienza personale a guidarmi: tutta la storia testimonia della stessa verità.”
+
+Gli ingenui francesi attribuirono questa passione al precoce addestramento del Duca, ignari del fatto che i nostri nobili inglesi siano in realtà le persone più semplici del mondo e che siano assolutamente indifferenti ai loro titoli, tranne quando si tratta di questioni legate agli affari.
+
+I francesi pagarono il conto, e tutti e tre continuarono per il Boulevard.
+
+“Ora,” disse il primo uomo ai suoi due compagni, “vi darò un esempio concreto di ciò che intendevo quando ho detto che la burocrazia governa l’umanità.”
+
+Si avvicinò al muro della Credit Lyonnais, posizionò l’indice di entrambe le mani contro di esso, a una distanza di circa venticinque centimetri l’uno dall’altro e a un’altezza di circa un piede sopra i suoi occhi. Tenendo così le dita, le osservava, spostandole leggermente di tanto in tanto e muovendo lo sguardo rapidamente da una all’altra. Si radunò una folla. Dopo pochi momenti, un gentiluomo anziano, basso e piuttosto grasso si avvicinò, si tolse il cappello e chiese se potesse essergli d’aiuto in qualche modo.
+
+“Perché,” disse il nostro amico, “in realtà sono un ingegnere (dipartimento D dei Lavori Pubblici) e devo effettuare una misurazione importante in relazione all’Apothegmo del Bilaterale che stasera passerà esattamente in questo punto. I miei dita indicano ora con precisione il concentrico del fuoco secondario da cui dovrebbe essere tracciato il Vettore Radiale, ma ho scoperto, come uno sciocco, di aver lasciato il mio Doppio Rifrattore nel caffè qui vicino. Non oso andare a prenderlo per paura di perdere il punto che ho segnato; tuttavia non posso procedere senza di esso.”
+
+“Non lasciare che questo ti preoccupi,” disse lo sconosciuto basso e robusto; “sarò felice di mantenere quel posto perfettamente segnalato mentre tu vai a prendere il tuo strumento.”
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_250_story_of_the_duke_of_sussex" data-title="The Path to Rome — Story Of The Duke Of Sussex" data-chapter="Story Of The Duke Of Sussex" data-kind="story" data-tags="archetype/detective,concept/authority,concept/appearance_vs_reality,concept/deception,concept/bureaucracy,form/short_story,form/satire,setting/paris"></span>
@@ -9039,6 +12940,26 @@ And so they did, and the Engineer was fined fifty francs in correctional, and th
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Storia del Duca di Sussex
+
+La folla ormai si era ingrandita notevolmente; bloccava completamente il marciapiede e continuava ad aumentare di numero con l’arrivo di sempre più curiosi. Il piccolo uomo anziano e grassoccio posizionò le sue dita esattamente nello stesso punto in cui quelle dell’altro si trovavano, effettuando lo scambio con un gesto deciso; entrambi osservarono attentamente per verificare che tutto fosse perfettamente allineato, anche entro un millimetro di precisione. L’atmosfera era tesa e formale. L’anziano sorrise e pregò l’ingegnere di non allarmarsi. Così lo lasciarono con le due dita della mano destra ben sollevate sopra la testa, distanti esattamente venticinque centimetri l’una dall’altra, e con le punte premute contro il muro della Credit Lyonnais. Poi i tre amici si allontanarono dalla folla e continuarono per la loro strada.
+
+“Andiamo al teatro,” disse l’esperimentatore, “e quando torneremo vi assicuro che concorderete con le mie osservazioni sulla burocrazia.”
+
+Andarono ad ascoltare le meravigliose parole di Corneille. Per tre ore furono completamente assorbiti dai classici; quando tornarono, una folla enorme si era radunata lungo il Boulevard, bloccando il traffico e creando un clamore assordante. I poliziotti cercavano in tutti i modi di controllarla, ma la folla continuava ad aumentare e a muoversi disordinatamente; al centro, in uno spazio rispettosamente lasciato vuoto intorno a lui, c’era ancora quel povero vecchietto grassoccio. Le sue ginocchia erano piegate, la testa dondolava per la stanchezza estrema; il suo viso era pallido come carta assorbente usata. Ma continuava a tenere le punte delle due dita davanti alla testa, a una distanza esatta di venticinque centimetri, premute contro il muro della Credit Lyonnais.
+
+“Non riuscirete mai a eguagliare ciò con i vostri sentimenti aristocratici!” disse l’autore di quella scena, con un trionfo perdonabile.
+
+“Non ne sono così sicuro,” rispose il Duca di Sussex. Tirò fuori l’orologio. “È mezzanotte,” disse, “devo andare; ma lasciate che vi dica prima di separarci che avete pagato per una cena molto costosa e avete comportatovi per tutta la sera con un'eccessiva deferenza, pensando che io fossi il Duca di Sussex. In realtà il mio nome è Jerks e sono un commerciante che si occupa del settore dell’olio di semi di lino; vi auguro una buona serata.”
+
+“Aspetti un momento,” disse l’Uomo con il Grande Cappotto di Pelliccia; “la mia teoria sul semplice senso dell’autorità umano è ancora valida. Sono un agente di polizia, e voi due sarete abbastanza in gamba da seguirmi alla stazione di polizia.”
+
+E così fecero; l’Ingegnere fu multato di cinquanta franchi e condannato a una pena correzionale, mentre il Duca di Sussex fu imprigionato per dieci giorni e gli fu vietato di risiedere in un determinato luogo per sei mesi. Il primo caso rientrava effettivamente nella giurisdizione del Decreto Prefettizio del 18 novembre 1843, mentre il secondo caso era regolamentato dalla legge del 12 germinal dell’anno VIII.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_251_st_augustine_censured" data-title="The Path to Rome — St Augustine Censured" data-chapter="St Augustine Censured" data-kind="story" data-tags="motif/dawn,setting/italy"></span>
@@ -9061,6 +12982,24 @@ How far I had gone I could not tell, nor precisely how much farther San Quirico,
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# ST AGOSTINO DENUNCIATO
+
+In questo modo sono riuscito a percorrere tra venti e trenta miglia di strada calpestata al buio; descriverla vi causerebbe problemi ancora maggiori di quelli provocati da un nugolo di vespe.
+
+Oh, beato interludio! Nessuna luna che lampeggia nel buio, nessuna nebbia, nessun discorso lungo e noioso sulla terra gentile, nessuna sensazione di notte, nessuni meravigli dell’[[Dawn|'alba]], nessuna retorica, nessuna religione, nessun villaggio addormentato, nessuna città silenziosa (ce n’era una), nessun fruscio degli alberi. Solo una breve storia. E con essa si descrive l’intero percorso di una marcia, come se un intero reggimento lo avesse attraversato. È arrivata una nuova giornata: il sole sorge sopra quelle odiosse colline aride e desolate.
+
+No, no, Lettore! Non incolpare me se la Toscana è passata inosservata sotto di me, proprio come il monotono mare scorre sotto una barca a vela spiegata. Incolpa quei giorni interminabili di marcia; centinaia e centinaia di miglia che hanno esaurito le forze della mia mente. Incolpa il cielo ardente e tempestoso dell’Etruria, che ha costretto me a percorrere la maggior parte del cammino di notte. Incolpa Sant’Agostino, che nelle sue Confessioni mi ha ingannato parlando delle “gelide rive dell’[[Italy|Italia]]” come se si trattasse di un luogo africano; o incolpa Roma, che sempre di più mi attirava a sé, man mano che si avvicinava. Ora era distante soltanto tre giorni. Il terzo sole dopo quello che avevo visto sorgere avrebbe illuminato la Città.
+
+Effettivamente mi sono spinto un po’ avanti sotto il calore del sole, ma è stato inutile. Dopo un’ora ho desistito. Non era tanto il sole, anche se era intenso e pericoloso; piuttosto l’aspetto disumano della terra che mi ha fatto perdere la speranza. Era come se il suolo fosse rimasto imperfetto e ruvido dopo qualche cataclisma; mi ricordava quelle terre desolate nell’ovest dell’America, dove il deserto non ha alcuna forma concreta, e dove l’aspetto in rovina e cenere delle cose è ancora più orribile della loro stessa desolazione. Che si possa presto uscire da questi incubi!
+
+Il nord è il luogo degli uomini: là si trovava l’Eden, e i quattro fiumi del Paradiso sono la Senna, l’Oise, il Tamigi e l’Arun; lì ci sono erbe rigogliose, gli alberi sono generosi, e l’aria è un piacere che non si nota nemmeno. Le acque raggiungono i bordi dei campi. Ma per questa desolata Toscana, io non sono mai stato creato.
+
+Non riuscivo a capire quanto avessi già percorso, né quanto distasse esattamente San Quirico, la città vicina. La mappa imperfetta che avevo comprato a Siena era troppo dettagliata per fornirmi indicazioni precise. Mi accontentai di aspettare la sera e poi proseguire il mio cammino fino a raggiungerla. Per un’ora circa, all’ombra di una fila di cespugli aridi e polverosi, mi riposai, mangiai, bevvi vino, fumai; poi dormii per tutto il giorno, svegliandomi di tanto in tanto per riprendere a sonnecchiare più profondamente.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_252_san_quirico" data-title="The Path to Rome — San Quirico" data-chapter="San Quirico" data-kind="story" data-tags="setting/italy"></span>
@@ -9081,6 +13020,22 @@ the cool, coming suddenly, had a magic in it, everything turned kinder. A church
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+San Quirico
+
+Come le persone dormono e si svegliano, se non lo sai ancora dopo aver letto così tanto di questo libro, probabilmente non lo saprai mai.
+
+Erano forse le cinque di sera, o addirittura più tardi, quando mi alzai con riluttanza e ripresi il mio viaggio interminabile.
+
+Anche la bontà della natura italiana sembrava essersi prosciugata in quelle aride valli. In una locanda dove ho mangiato, mi hanno gridato addosso, pensando così di farmi capire; e le loro voci erano ruvide quanto lo stridore del metallo contro la pietra. Un miglio più avanti ho attraversato una solitaria linea ferroviaria; poi la mia mappa mi ha indicato dove mi trovavo, e ho proseguito stancamente su un pendio indefinito, sotto il sole che calava. E ho pensato fosse assurdo che solo quando la luce se n’era andata in quel paese ci fosse finalmente aria respirabile.
+
+Ben presto, le mura di San Quirico, in parte in rovina, si ergevano sopra i campi (poiché anche i luoghi più piccoli qui hanno mura); quando entrai nel suo cancello, il sole stava tramontando.
+
+La frescura, arrivata improvvisamente, aveva qualcosa di magico: tutto sembrava diventare più gentile. All’ingresso della città sorgeva una chiesa in grado di suscitare grande interesse; i suoi gradini erano adornati da leoni di pietra, e i pilastri erano scolpiti in modo da assomigliare a corde intrecciate. Lì vidi per la prima volta una di quelle confraternite che in [[Italy|Italia]] seppelliscono i morti: indossavano cappucci lunghi e spaventosi, con fessure solo per gli occhi. Parlai con la gente di San Quirico, e loro con me. Erano persone oneste e di bell’aspetto, dai tratti nobili del viso. Sulle loro pareti era posta una targa di marmo su cui era registrato che il popolo della Toscana, quando gli fu chiesto se preferisse il proprio Duca ereditario o la Casa di Savoya, scelse quest’ultima con una maggioranza schiacciante; scoprii in seguito che questo tipo di targa era comune in tutte queste piccole città. Poi proseguii lungo il cammino.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_253_the_valley_like_a_wave" data-title="The Path to Rome — The Valley Like A Wave" data-chapter="The Valley Like A Wave" data-kind="story" data-tags="topos/the_sublime_in_nature,motif/sea,motif/ruins,motif/the_castle,form/travel_writing,setting/italy"></span>
@@ -9099,6 +13054,20 @@ It is a strange thing, arresting northern eyes, to see towns thus built on summi
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La valle come un’onda
+
+Arrivato al cancello più lontano della loro lunga strada, mi trovai di fronte a una scena grandiosa che, grazie al crepuscolo, riuscii ancora a osservare nella sua interezza.
+
+Perché San Quirico sorge sul bordo di una sorta di rilievo del terreno, e da dove mi trovavo si poteva vedere oltre l’onda successiva; la forma di quel paesaggio, su larga scala, era esattamente quella che si osserva da una barca solitaria che guarda avanti, attraverso il mare.
+
+Il fondo dell’onda formava una valle viola poco profonda; la sua aridità era nascosta dal tenue bagliore del tramonto. Poche piante vi crescevano, e le sue irregolarità erano tipiche di un corso d’acqua dopo una tempesta. La cresta dell’onda si trovava a diciassette miglia di distanza; come spesso accade in mare, anche questa presentava un picco più alto lungo la sua linea, e contro il cielo sereno si potevano distinguere degli edifici. Questi edifici erano il castello in rovina e le mura di Radicofani; si trovavano esattamente sulla mia strada per Roma.
+
+È una cosa strana, che colpisce lo sguardo di chi proviene dal nord, vedere città costruite in questo modo, sulle cime che si innalzano verso il cielo; questa altezza sembra ancora più fantastica perché è delimitata da elementi naturali. Lungo la strada che discende da San Quirico, su entrambi i lati crescevano file di cipressi, e proprio tra questi, molto lontano, si ergeva questa alta cresta, come se fosse stata posizionata apposta.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_254_the_silhouette" data-title="The Path to Rome — The Silhouette" data-chapter="The Silhouette" data-kind="story" data-tags="archetype/child,motif/night,concept/charity,form/travel_writing,setting/the_mountains,setting/italy"></span>
@@ -9114,6 +13083,18 @@ There in a very large room, floored with brick and lit by one candle, were two f
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La silhouette
+
+Con più coraggio dentro di me, e tentato da quell’atmosfera che può suscitare la prospettiva di un’avventura, decisi di attraversare quella vasta e desolata valle. Mentre procedevo, la montagna di Amiato si avvicinava sempre di più a me verso ovest; ai suoi piedi, vicino a me, c’erano gole e rocce inaspettate; su una di queste era appesa un villaggio. Guardai la sua chiesa e un alto cipresso accanto ad essa, mentre si stagliavano neri contro gli ultimi raggi di luce del giorno. Poi proseguii per miglia lungo quel sentiero polveroso, attraversando vecchi ponti e corsi d’acqua in cui non c’era nulla se non stagni verdi; la notte si faceva sempre più profonda.
+
+Fu quando avevo attraversato la maggior parte di quella pianura poco conosciuta, nel suo punto più basso e non lontano dall’inizio della salita verso Radicofani, che vidi delle luci brillare in una grande fattoria. Anche se era mio dovere camminare di notte, avevo bisogno di compagnia, quindi entrai.
+
+In una stanza molto grande, pavimentata in mattoni e illuminata da una sola candela, c'erano due anziani contadini dall’aspetto nobile; i loro volti assomigliavano a quelli degli apostoli, e stavano giocando a carte. C’era anche una donna che giocava con un bambino robusto ma ancora incapace di parlare; il bambino corse verso di me. Nessuno riuscì a convincere il padrone di casa se non che fossi un uomo molto povero che aveva bisogno di dormire. Quell’anziano era così gentile e generoso che le mie proteste sembravano solo scuse o segni della povertà. Mi chiese dove stessi andando; risposi: “A Roma”. Lui uscì con una lanterna fino alla stalla e mi mostrò un lettino pieno di paglia.
+
+* * *
 
 
 
@@ -9141,6 +13122,28 @@ Tibi cornuum cornuto Tibi clamo, te saluto Salve cornu cornuum! Fortunatam da Do
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# La canzone del corno
+
+Indicando che forse avrei potuto dormirci dentro. La sua candela illuminava quegli enormi buoi silenziosi allineati in fila; i loro corna, tre volte più lunghe di quelle che conosciamo in Inghilterra, mi riempirono di meraviglia. Beh! (Che questo possa considerarsi un guadagno per me!), piuttosto che sembrare offensivo nei suoi confronti, mi sdraiai in quella mangiatoia, anche se non avevo alcun desiderio di dormire, proprio come il toporagno nelle tenebre del Sussex. Inoltre, fui attento a non offrirgli denaro, perché quello sarebbe stato un atto di brutalità. Dopo che se ne fu andato, ne approfittai per riposarmi un po’: mi sdraiai supino sul fieno, completamente sveglio, e fissai l’oscurità.
+
+I grandi buoi masticavano il loro cibo emettendo un suono regolare; mi ricordò le cabine dei passeggeri di una nave da linea, il rumore del mare e il movimento costante dell’elica. Questo scenario gli assomigliava esattamente. Nell’oscurità osservai l’aspetto maestoso di queste bestie, così come le avevo viste alla luce delle lanterne; decisi che, una volta arrivato a Roma, avrei comprato due corna del genere e le avrei portate in Inghilterra per farle montare come bicchieri da bere. Grandi bicchieri da bere, profondi un metro. E avrei fatto incidere un motto su ciascuno di essi. Sul primo, avrei scritto.
+
+Il re Alfred nacque a Wantage; beveva dal corno di un ariete. Ecco un uomo migliore di lui: beve ancora più profondamente, come potete vedere.
+
+Pertanto, i miei amici che ne bevono dovrebbero sollevare il cuore e non essere più oppressi dall’umiltà. Ma nel momento in cui ho deciso di utilizzare un testo latino incitante, simile a quelli che le persone gridavano intorno ai falò nei campi nell’anno 888 o giù di lì. L’immaginazione si è scatenata, e seguendo il volo del fagiano selvatico, in zigzag e senza curarsi delle regole, questo mi sembrava perfetto.
+
+Salve, cornu cornuum! Vis Boûm dei cornutorum. Un dono eccellente da parte di Dio. Protezione e difesa per i gruppi. Il desiderio più grande. Salve tu, degno simbolo del potere romano! A te il titolo di cornu cornuto.
+
+# Lettore… Non significa nulla
+
+AUTORE: Stai zitto!
+
+Ti saluto, cornuto cornuto; ti auguro buona fortuna dal Signore!
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_256_radicofani" data-title="The Path to Rome — Radicofani" data-chapter="Radicofani" data-kind="story" data-tags="motif/dawn"></span>
@@ -9165,6 +13168,26 @@ Well, as I was saying, I was in some despair at the sight of that valley, which 
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Radicofani
+
+E dopo queste riflessioni e meditazioni, mi alzai silenziosamente, per non offendere quel contadino; poi uscii di nascosto e continuai a salire fino alla cima della collina.
+
+Ma quando, dopo aver percorso diversi chilometri in salita, mi avvicinai alla cima, stava già iniziando ad albeggiare. La desolazione e il grigio del deserto che avevo attraversato emergevano in un’alba priva di colori; solo il Mont’ Amiata, ora leggermente a nord, presentava tonalità più dolci, mitigando la vista con le lontane foreste. Tra esso e questa vetta scorreva un letto fluviale vuoto, asciutto come le pietre di una spiaggia salata.
+
+Il sole sorse mentre passavo sotto le rovine delle mura del castello. Nella piccola città stessa, già all’alba, molte persone si stavano muovendo. Uno mi salutò con un “buongiorno”: un uomo dal carattere particolare, perché in quel momento, alle prime luci dell’alba, sedeva sul gradino di casa, ozioso, pigro e soddisfatto, come se fosse mezzogiorno. Un altro stava legando i buoi; un terzo usciva cantando per andare a lavorare nei campi.
+
+Non mi soffermai in quel nido d’aquila; uscendo invece dal basso e vecchio cancello meridionale, sotto il sole nascente apparve un’altra valle ancora più profonda, arida e desolata della precedente. Era sufficiente per far perdere la speranza. E quando pensai al sonno che avrei dovuto trascorrere in quella landa deserta, e alle fatiche di quella notte successiva.
+
+LETTORE. E che dire del Brigante di Radicofani di cui avete parlato in Lorena, e di cui aspetto ancora di sentire parlare?
+
+AUTORE: E lui? Beh, è stato catturato molto tempo fa e da allora è morto di vecchiaia. Sono sorpreso che tu mi interrompa con domande del genere. Per favore, non chiedermi altre storie fino a quando non arriveremo alla storia davvero avvincente dello Studente Affamato.
+
+Beh, come stavo dicendo, ero nel più profondo dispero di fronte a quella valle che dovevo attraversare per raggiungere la città di Acquapendente, o Hanging-water, che sapevo si trovasse da qualche parte sulle colline oltre. Il sole iniziava ad affaticarmi, e cercavo disperatamente un posto dove dormire quando, a circa un miglio all’ora, passò cigolando un carretto trainato da due buoi. Il conducente dormiva, con la testa appoggiata al lato ombreggiato del carretto. Il diavolo mi tentò. E senza alcuna resistenza, anzi con sentimenti cinici e quasi compiaciuti, io.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_257_second_fall" data-title="The Path to Rome — Second Fall" data-chapter="Second Fall" data-kind="story" data-tags="archetype/pilgrim"></span>
@@ -9188,6 +13211,26 @@ I found a stream running very sluggish between tall trees, and this sight suffic
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Secondo Fall
+
+Mi sono alzato in piedi dietro di loro e, mettendo anche la mia testa sul lato ombreggiato (c'erano sacchi morbidi che fungevano da letti), mi sono addormentato molto presto e felicemente.
+
+Rimammo sdraiati uno accanto all’altro per ore e ore; il giorno arrivò fino a mezzogiorno: il sole batteva sui nostri piedi, ma le nostre teste erano all’ombra, e dormimmo profondamente, un sonno sereno e tranquillo. Lui pensava di essere solo, ma io sapevo di non esserlo, una situazione molto più preferibile. E avevo ragione io, e lui torto. Il caldo aumentava, e il sonno, sotto quel sole ardente, arrivava ancora più facilmente di quanto avvenga nell’aria fresca della notte nel nord. Ma a mezzogiorno non ci sono sogni che vaghino nella mente.
+
+Di tanto in tanto, uno di noi due apriva gli occhi sonnolentamente e si chiedeva cosa stesse succedendo, ma il sonno era pesante su entrambi, e i nostri pensieri erano immersi in una calma profonda, come vecchie imbarcazioni nelle oscure profondità del mare, lontane da qualsiasi tempesta.
+
+Nessuno di noi due si svegliò davvero fino a quando, in fondo alla collina che conduce ad Acquapendente, gli buoi non si fermarono. Questa sosta ci fece svegliare: prima io e poi il mio compagno. Lui mi guardò per un momento e rise; sembrava aver pensato tutto quel tempo che fossi un suo amico di campagna che aveva approfittato del suo passaggio; mentre io, per parte mia, ero più o meno certo che fosse una brava persona che non mi avrebbe fatto del male. Avevo ragione io, e lui torto. Non sapevo proprio quale dono potessi fargli per compensarlo di questa seccatura causata dai suoi pesanti buoi. Dopo un po’ di riflessione, tirai fuori un sigaro dalla tasca; lui lo fumò con grande piacere. Nel frattempo, gli buoi continuarono a salire la collina lentamente, e così arrivammo alla famosa città di Acquapendente. Ma non capisco davvero perché venga definita “famosa”. Forse in una di quelle strade strette c’è un dipinto, una chiesa, o qualcosa del genere che attiri gli uomini increduli. Per il [[Pilgrim|>pellegrino]], invece, è semplicemente un gruppo di case. Entrai in una di queste. E, sulla mia anima, non ho nulla da dire al riguardo, se non che mi fornirono del cibo.
+
+Non pretendo di aver contato le mosche, anche se ne erano molte; e, anche se l’avessi fatto, a che scopo sarebbe servito conoscere il loro numero, se non per gli statistici? Ora, poiché questi sono persone pazienti ma sciocche, li incoraggio vivamente ad andare a contare le mosche da soli.
+
+Lasciato quindi questo pasto, questa città e queste persone (tutte di carattere monotono), uscii dalla porta la cui parte sinistra era occupata da una chiesa. Proseguii per un po’ lungo il sentiero che conduce a San Lorenzo, ma non avevo intenzione di andare lontano, perché (come ormai sapete) la notte era diventata il mio giorno e il giorno la mia notte.
+
+Ho trovato un ruscello che scorreva molto lentamente tra alberi alti; questa vista mi ha ricordato abbastanza la mia patria da permettermi di riposare. Mi sono sdraiato lì e ho dormito fino alla fine della giornata, o meglio, fino a quell’ora serale che ormai era diventata il mio solito momento di risveglio. E ora dimmi, Lettore, dovrei.
+
+* * *
 
 
 
@@ -9219,6 +13262,32 @@ This man Hard at the age of fifty-four retired from business, and determined
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Come scrivere
+
+Omettiamoli del tutto, oppure dovrei fornirvi una descrizione dei prossimi chilometri fino a San Lorenzo?
+
+LETTORE: Beh, se fossi in voi, esporrei la cosa in modo breve e semplice. Dopotutto, il compito di chi descrive un pellegrinaggio o qualsiasi altra situazione è quello di non gonfiarsi di vano orgoglio, né di cercare sempre situazioni pittoresche, ma di raccontare semplicemente e brevemente ciò che ha visto e sentito, descrivendo l’intera vicenda nel suo insieme.
+
+AUTORE. Ma ricorda, Lettore, che l’artista è conosciuto non solo per ciò che include, ma anche per ciò che omette.
+
+LETTORE: Tutto ciò va benissimo per l’artista, ma non è affar vostro immischiarvi con persone del genere.
+
+AUTORE: Allora, come scrivereste un libro del genere se ne aveste la capacità?
+
+LECTORE: Non mi presenterei affatto; non racconterei storie a caso, né entrerei nei dettagli delle emozioni, che sono sicuro anche altri uomini abbiano provato quanto me. Mi assicurerei di trattare soltanto argomenti di cui i miei lettori già sanno (AUTORE: Le immagini! Le straordinarie immagini! Tutto ciò che la cultura significa! Le fotografie in bianco e nero. Oh, Lector, davvero vi ho fatto un torto!), e certamente non avrei la cattiva educazione di parlare di religione. Soprattutto, sarei conciso nel mio modo di esprimere.
+
+AUTORE. Capisco. Non accumuleresti parole una sopra l’altra, né le useresti per qualificarle, esagerarle, condizionarle, superlativarle, sminuirle, collegarle, amplificarle, condensarle, o addirittura glorificarne il semplice suono: saresti conciso. Dovresti essere conosciuto per la tua moderazione. Nel tuo stile non dovrebbe esserci alcuna verbosità (Dio ne scampi!), né tantomeno pompa, ostilità, curiosità o ferocia; tutto dovrebbe essere ordinato, preciso e accademico. E soprattutto, perfettamente rifinito. Una ciliegia, per esempio. La polpa di una ciliegia. Niente stili prolissi o disordinati. Non ti lascieresti trascinare da elementi comici, compassionevoli, volgari o barbari. Eh, mio caro Lettore. Diresti semplicemente ciò che hai da dire.
+
+LETTORE. Esattamente; direi qualcosa di semplice, in modo semplice.
+
+AUTORE: Pensi davvero che si possa dire qualcosa in modo semplice e chiaro? Credi che le parole significhino solo ciò che dicono, che si possa parlare senza eccessi o frasi convenzionali che possano cambiare il significato originale delle parole? Davvero lo pensi? Allora ascolta questa storia: quella di Mr. Benjamin Franklin Hard, un gentile commerciante di Cincinnati, Ohio, che non aveva una religione particolare, ma aveva accumulato una fortuna di seicento migliaia di dollari. E odiava profondamente violare il Sabato. Non era “un marito premuroso né un buon padre”, perché non era sposato e non aveva figli. Ma era esattamente ciò che quelle parole significano.
+
+Quest’uomo, di nome Hard, all’età di cinquantaquattro anni si ritirò dall’attività lavorativa e prese una decisione decisa…
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_259_story_of_mr_hard" data-title="The Path to Rome — Story Of Mr Hard" data-chapter="Story Of Mr Hard" data-kind="story" data-tags="histref/catholic_church"></span>
@@ -9248,6 +13317,32 @@ England and Rome. By the Rev. Ebenezer Catchpole of Emmanuel, Birmingham.
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Storia del signor Hard
+
+Decise di concedersi il piacere di un viaggio in Europa. Non era stato in Europa da cinque settimane quando si scontrò con la [[Catholic Church|Chiesa Cattolica]]. Non fu mai più sorpreso in tutta la sua vita. Non intendo dire che abbia analizzato attentamente tutte le sue sorprese nel corso degli anni; voglio semplicemente dire che rimase davvero molto sorpreso. E questo è esattamente ciò che queste parole intendono.
+
+Studiò la [[Catholic Church|Chiesa Cattolica]] con estremo interesse. Assistette alla Messa Solenne in diversi luoghi (sperando che fosse diversa da una volta all’altra). Pensava che fosse qualcosa che in realtà non era, e poi, al contrario, riteneva che non fosse ciò che sembrava. Parlò con cattolici poveri, ricchi, di classe media; con cattolici riservati, ben nati, senza soldi ma vestiti con cura, di successo; con cattolici presuntuosi e vanitosi; umili e incerti; furtivi e circospetti; sani, combattivi e aggressivi; scettici, indecisi ma devoti; ostinati, irascibili e pericolosi; spensierati, gioiosi e illuminati dalla luce divina; subdoli; strani. E anche con cattolici intellettuali, presuntuosi, magri, distorti, analitici, eccentrici, irritabili e introspettivi. In breve, parlò con tutti i cattolici. E quando dico “tutti i cattolici”, non intendo che abbia parlato con ogni singolo individuo, ma che abbia ottenuto una comprensione completa e integrata della Chiesa Cattolica, nel senso che queste parole intendono.
+
+Beh, questo signor Hard conobbe, tra gli altri, un certo prete buono che amava una buona bottiglia di vino, un ottimo piatto di pollo alla casseruola e anche delle uova condite con panna in piccoli piattini; mangiando queste cose, un giorno il prete gli disse: “Signor Hard, quello che le serve è leggere alcuni libri sul Cattolicesimo.” E Hard, che stava per essere ammesso nella Chiesa come soluzione definitiva ai problemi umani, pensò che fosse molto utile arricchire la propria cultura prima del battesimo. Così diede al prete un biglietto da consegnare a un libraio di cui gli aveva parlato un amico americano; e questo amico americano aveva detto.
+
+“Troverete il signor Fingle – questo era infatti il nome del libraio – un uomo pragmatico, onesto e competente negli affari. Sa esprimersi chiaramente e con semplicità.”
+
+“Ecco,” disse il signor Hard al prete, “dieci sterline. Mandale a questo libraio, Fingle; lui sceglierà dei libri sul cattolicesimo per quella somma, e tu li riceverai. Poi verrò a leggerli qui con te.”
+
+Quindi il prete inviò i soldi, e dopo quattro giorni arrivarono i libri. Il signor Hard e il prete aprirono il pacco, ed ecco quali erano i libri al suo interno:
+
+Confessione auricolare: una storia. Di un uomo salvato dal rogo.
+
+Isabella; ovvero, la piccola gesuita. Di “Hephzibah”.
+
+Elisha MacNab: Una storia dei protestanti francesi.
+
+Inghilterra e Roma. Di Rev. Ebenezer Catchpole di Emmanuel, Birmingham.
+
+* * *
 
 
 
@@ -9289,6 +13384,42 @@ This time there was no temptation of the devil; if anything the advance was from
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Storia del signor Hard
+
+Monache e conventi. Di “Ruth”, con una prefazione di Miss Carran, recentemente recuperata da un convento canadese.
+
+Storia dell’Inquisizione. Di Llorente.
+
+La Bestia a Sette Teste; ovvero l’Avvertimento Apocalittico.
+
+Nessun accordo con il Vaticano.
+
+La vera causa dell’insoddisfazione irlandese.
+
+Declino delle nazioni latine.
+
+Gli Anglosassoni, la Razza Eletta, e il loro legame con le Dieci Tribù Perdute: accompagnato da una mappa.
+
+Infine, in fondo alla scatola c'era un libro molto grande chiamato “Papa Gigante”.
+
+E non serviva chiedere indietro i soldi né protestare. Il signor Fingle era un uomo onesto e diretto, che diceva le cose chiaramente e senza giri di parole. Gli avevano affidato il compito di scegliere una collezione appropriata di libri sul cattolicesimo, e lui aveva scelto i migliori che conoscesse. Ed è così che il signor Hard (che recentemente ha donato un bellissimo fontale alla nuova [[Catholic Church|chiesa cattolica]] di Bismarckville) imparò l’importanza di valutare correttamente il significato delle parole.
+
+LETTORE: Ma tutto ciò non giustifica comunque una prolissità intollerabile, vero?
+
+AUTORE: Nemmeno io ho detto che lo fosse, caro Lettore. Il mio scopo era semplicemente quello di portarti a San Lorenzo, dove ho comprato quel vino; e uscendo dal cancello sul lato sud, ho visto improvvisamente il vasto lago di Bolsena sotto di me.
+
+È un grande lago simile al mare; ma poiché si sa di trovarsi su un alto altopiano e poiché il declivio verso di esso è molto lieve; poiché il lago è rotondo e circondato da basse colline uniformi, si riconosce immediatamente che si tratta di un antico e gigantesco cratere ormai pieno d’acqua pura; al suo interno ci sono isole e palazzi. Davvero, l’immagine che ne risultava evocava silenzio e riflessione: l’acqua era completamente rivolta verso il cielo, e nel cielo sopra di me la luna, nella sua fase crescente, pendeva immobile e pallida sotto la luce del giorno, in attesa di ricevere la sua gloria.
+
+Mi sedetti sul parapetto di un muro, bevvi un po' del mio vino, mangiai un po' di pane e salsiccia; ma la musica, nella fresca serata, richiedeva comunque uno sfogo, e il desiderio di compagnia era in me più forte del desiderio di ammirare il paesaggio. Per favore, Dio, ero diventato “meridionale” e ormai davo per scontata la bellezza.
+
+Comunque, vedendo passare attraverso il cancello un piccolo carretto a due ruote, attaccato a un pony magro e stanco, guidato da un vecchino piccolo, bruno, sorridente e soddisfatto con i capelli neri, gli feci un segno e si fermò.
+
+Questa volta non ci fu alcuna tentazione del diavolo; anzi, fu io ad essere propenso ad avviarmi. Ero deciso a partire, quindi mi alzai accanto al conducente. Corsimmo giù per la collina, con un rumore assordante, come se fossimo un pezzo d’artiglieria in movimento; lui, mio fratello, senza che glielo chiedessi, iniziò a cantare. Cantai anch’io a mia volta. Lui cantava dell’[[Italy|Italia]], io.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_261_the_mighty_drive" data-title="The Path to Rome — The Mighty Drive" data-chapter="The Mighty Drive" data-kind="story" data-tags="setting/france"></span>
@@ -9308,6 +13439,22 @@ Then, after my meal, one of the men told me I needed sleep; that there were no r
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# La potente spinta
+
+Di quattro paesi: America, [[France|Francia]], Inghilterra e Irlanda. Non riuscivo a capire le sue canzoni, né lui le mie, ma c'era il vino in comune tra noi, insieme al salame e a un cuore felice, al pane che è il legame di tutta l’umanità. E poi c'era quella soluzione ideale per tutti i problemi: dimenticare i soldi.
+
+Quella fu una bella corsa, una corsa onesta, una corsa motivata da aspirazioni umane, una corsa tipica dei cristiani, una corsa che glorificava e elevava lo spirito. Una corsa degna di essere ricordata per sempre. La luna ha illuminato poche cose del genere, nonostante sia antica; il lago di Bolsena non ha mai brillato sotto uno spettacolo simile da quando gli Etruschi celebrarono i loro trionfi qui. Quella corsa distrusse completamente la mia promessa. Non esisteva alcuna scusa per un uso così sfrenato delle ruote: fu fatto apertamente, senza ritegno, sotto il vasto cielo, solo per puro divertimento. E cosa c’è di più al mondo se non il piacere? A quale altro scopo può servire la bellezza? Di certo non alla contemplazione. È un orribile trucco orientale. No: serve soltanto a note sonore, alla compagnia degli amici, al fragore del galoppo e alle risate che risuonano tra gli alberi antichi. Chi cambierebbe la luna e tutte le stelle per tutta la quantità di vino che può contenere una bottiglia capovolta? L’uomo onesto. E nel suo tempo, notate bene, non si creavano quei fondi profondi e fraudolenti dei bicchieri di oggi, capaci di farvi perdere metà del liquido che contengono.
+
+Inoltre, se avessi infranto i miei voti (il che è una questione grave), se avessi trascurato di contemplare il cielo (per tale trascuratezza non confesserò con nessuno, nemmeno con un vicediacono; non è un peccato, è semplicemente un’omissione “salutare”), se avessi fatto queste cose, avrei fatto ciò che fanno i contadini. E per di più, bevendo vino e mangiando maiale, abbiamo dimostrato di non essere musulmani; e su persone del genere, San Pietro guarda con occhio benevolo.
+
+Ora, proprio all’ingresso di Bolsena, dopo aver seguito per un po’ il bel lago, il mio autista si fermò e iniziò a imboccare una strada che conduceva a una fattoria o a una villa; così io, salutandolo buonanotte, attraversai un campo e mi fermai in silenzio vicino al lago, osservando per molto tempo le onde che si frantumavano sulla riva e quelle piccole increspature. Rimasi lì fino a quando non spuntarono le stelle e la luna non brillò pienamente; poi mi diressi verso Bolsena, oltre il suo alto cancello visibile nell’oscurità, e sotto il suo castello sulla roccia. Lì, in una grande stanza che non era esattamente un ostello, una donna molto anziana e dignitosa mi servì pesce fritto del lago; gli uomini si radunarono intorno a me cercando di spiegarmi la strada per Roma, mentre io, a mia volta, con gesti e parole spezzate, cercai di far loro capire come attraversare le Alpi e gli Appennini.
+
+Poi, dopo aver mangiato, uno degli uomini mi disse che avevo bisogno di dormire; che in quella casa non ci fossero stanze (come avevo detto, non era una locanda), ma che dall’altra parte avrebbe potuto mostrarmi una stanza disponibile in affitto. Cercai di spiegare che il mio piano era camminare di notte, ma loro mi assicurarono che mi avrebbe chiesto un prezzo ragionevole. Insistetti comunque.
+
+* * *
 
 
 
@@ -9333,6 +13480,26 @@ The distance and the hill that bounded it should in that climate have stood clea
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Montefiascone
+
+Quel giorno faceva troppo caldo per camminare. Mi dissero gli Etruschi che non dovevo temere alcuna estorsione da parte di una persona così onesta.
+
+Certo, non è facile far capire tutto a tutti, e già alcuni giorni prima, in montagna, avevo sperimentato quanto sia importante non essere frainteso quando si viaggia in un paese straniero, poveri e vestiti in modo semplice. Perciò accettai l’offerta e, con grande rammarico, pagai i soldi che mi chiese. Anzi, mi adattai anche al ritmo richiesto, dormendo per un certo numero di ore (dopotutto, quella notte nel carro il mio sonno era stato molto interrotto, e invece di riposare completamente durante il caldo pomeriggio, avevo mangiato ad Acquapendente). Ma mi svegliai poco dopo la mezzanotte – forse tra l’una e le due – e uscii lungo le rive del lago.
+
+La luna era già tramontata; avrei voluto poterla vedere, appesa nel cielo sereno di quel cratere alto, immergendosi nella riva del suo mare interno. Faceva decisamente freddo. Proseguii lungo la strada molto lentamente, finché non iniziò a salire; al sorgere del sole mi ritrovai in un sentiero tortuoso che conduceva verso la città di Montefiascone.
+
+La città sorgeva sulla sua collina, avvolta nella luce pallida ma crescente del mattino. Una grande cupola le conferiva dignità, e un castello si affacciava sul lago; era stato costruito proprio sul bordo estremo della caldera vulcanica che si estendeva su entrambi i lati.
+
+Salii su questo sentiero in disuso verso di esso, senza sapere cosa ci fosse oltre; quando raggiunsi la cima, al sorgere del sole, davanti ai miei occhi si aprì uno di quei paesaggi inaspettati e magnifici che fanno parte delle glorie dell’[[Italy|Italia]]. Questi paesaggi hanno cambiato il modo di pensare di centinaia di pittori del Nord: quando gli artisti viaggiavano a Roma per imparare la loro arte, attraverso le sue strade montane vedevano spesso queste viste di pianure ordinate e simili a giardini, circondate da terreni montuosi scoscesi.
+
+La strada non attraversava la città; il maestoso, sebbene in rovina, cancello d’ingresso si trovava poco più avanti a destra, e più in basso, dove la strada proseguiva lungo la pendenza, si estendeva per circa otto miglia una distesa pianeggiante ricoperta di alberi che diventavano sempre più rari man mano che ci si allontanava. Sul lato opposto, un’ampia montagna boscosa, dal profilo dolce e appiattito ma alta e maestosa, bloccava la strada verso Roma. Era un altro di quei vulcani, “fruttuosi dopo la morte”, che caratterizzano il Lazio: come quello più grande e complesso ai cui piedi mi trovavo, anche questo nascondeva un lago nel suo cratere silenzioso. Ma quel lago, come avrei scoperto in seguito, era molto più piccolo del brillante mare di Bolsena, le cui rive ora si trovavano alle mie spalle.
+
+La distanza e la collina che la delimitavano avrebbero dovuto essere ben visibili in quell’ambiente climatico, ma era ancora troppo presto; una leggera nebbia aleggiava sulla terra e il sole non aveva ancora avuto il tempo di dissiparla. Faceva persino freddo. Non riuscivo a vedere chiaramente.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_263_the_great_walls" data-title="The Path to Rome — The Great Walls" data-chapter="The Great Walls" data-kind="story" data-tags="setting/italy"></span>
@@ -9348,6 +13515,18 @@ When I approached Viterbo I first saw an astonishing wall, perpendicular to my r
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le grandi mura
+
+Le TORRI DI VITERBO, sebbene sapessi che si trovavano ai piedi di quella lontana montagna. Proseguii lungo la strada e, in circa mezz’ora, raggiunsi il tratto rettilineo che attraversava la pianura.
+
+Mi chiedevo un po' come fosse disposta la strada rispetto alla città, e guardai la mia mappa per cercare indicazioni, ma non mi fornì molte informazioni. Era troppo generale, copriva l’intera [[Italy|Italia]] centrale, e anche le grandi località erano indicate soltanto da piccoli cerchi.
+
+Quando mi avvicinai a Viterbo, vidi per prima cosa un muro straordinario, perpendicolare alla mia strada, intatto, i resti del Medioevo. Si ergeva dritto davanti a me come una serie di scogliere, sembrando molto più alto di quanto in realtà fosse; i suoi circa cento piedi di altezza venivano accentuati dalla severità delle pietre e dal loro ripido pendio. Non presentava alcun ornamento e poche tracce di decadimento, nonostante fosse molto antico. Alti torrioni, perfettamente quadrati e privi di sculture o decorazioni, si trovavano a intervalli lungo questa imponente difesa, costituendo i suoi lati esterni. Avvicinandomi ancora di più, mi resi conto che non si trattava di un enorme castello, ma semplicemente del muro.
+
+* * *
 
 
 
@@ -9371,6 +13550,24 @@ The road began to climb the hill, and though the heat increased — for in [[Ita
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Entro in Viterbo
+
+Una CITTÀ, perché in un angolo svoltava bruscamente per delimitare l’intero centro abitato; attraverso una zona irregolare vidi delle case. Molti uomini camminavano lungo le strade, fianco a questi muri, e c'erano porte aperte attraverso cui i cittadini entravano e uscivano dalla città, proprio come le api entrano e escono dalle piccole aperture di un alveare.
+
+Ma la mia strada principale per Roma non passava per Viterbo; correva lungo il muro orientale della città, e per un po’ ho esitato se entrare o meno. Non faceva parte del mio itinerario originale, ed era proprio per questo che non avevo visitato Montefiascone. D’altra parte, Viterbo era una località famosa. È facile trascurare Firenze e Pisa perché si trovano a qualche chilometro dal percorso diretto, ma Viterbo, così vicina, sarebbe stato un peccato perdere l’occasione di visitarla. Inoltre, avevo bisogno di vino e cibo per il pomeriggio trascorso in montagna. Ma faceva sempre più caldo: erano passate le otto, la nebbia si era già dissipata da tempo, e temevo di ritardare. Così ho continuato a riflettere su quella strada bianca, sotto le alte torri e i muri in rovina di Viterbo. Alla fine, è stata la curiosità a prevalere sulla ragione, e sono entrato nella città attraverso un cancello.
+
+Le strade erano strette, tortuose e piene di vita; tutte ombreggiate dalle grandi case, ma ancora pervase dal freddo della notte. Il rumore delle fontane vi risuonava, insieme alle voci alte delle donne e ai gridi dei venditori. Ogni casa aveva in sé qualcosa di fantastico e particolare; l’umanità si era intrecciata in quel luogo come una crescita naturale, e i pensieri degli uomini, sia quelli ancora vivi che quelli morti prima di loro, lo avevano decorato tutto. C'erano cortili con muri bianchi abbaglianti sotto il sole, ma immersi nell’ombra; e molte sculture e dipinti sopra le porte. Ero entrato in un grande luogo di vita, dopo la solitudine della strada.
+
+Lì, nella prima strada larga che riuscii a trovare, comprai salsiccia, pane e una bellissima bottiglia di vino; poi, lasciando Viterbo, li posizionai vicino allo stesso cancello e ripresi il viaggio.
+
+Per molto tempo ancora continuai a camminare sotto le mura, notando in un certo punto qualcosa di tipico del Medioevo: l’abside di una chiesa costruita direttamente all’interno della parete, proprio come l’antica Cattedrale di San Stefano a Parigi. Immagino che questi nemici rispettassero simili strutture se possibile; infatti ho notato anche che nei castelli la cappella non è nascosta, ma sporge apertamente dalla parete. Che sia così. I vostri antenati e i miei hanno combattuto lì, ma non conosciamo i loro nomi; spero soltanto che i vostri abbiano rispettato gli altari con la stessa cura che ho fatto io.
+
+La strada iniziò a salire la collina, e sebbene il caldo aumentasse – perché in [[Italy|Italia]] molto prima delle nove è già mezzogiorno cocente per noi del nord (e questo mi ricorda: vostri padri e i miei, di cui si è fatto riferimento sopra {come dicono nei noiosi libri di storia — [LETTORE. Quanti altri parentesi interni dovremo ancora usare? È questa un’algebra? AUTORE. Voi stesso, Lettore, siete responsabile di, })
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_265_the_silent_old_man" data-title="The Path to Rome — The Silent Old Man" data-chapter="The Silent Old Man" data-kind="story" data-tags="motif/wine_and_drink,concept/solitude,concept/superstition_and_omen,form/travel_writing,setting/the_mountains,setting/italy"></span>
@@ -9392,6 +13589,24 @@ The road was interminable, and the crest, from which I promised myself the view 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il vecchio silenzioso
+
+Peggio ancora. I vostri padri e i miei, che ogni anno scendevano in questa terra per combattere, devono aver avuto davvero un’esperienza terribile: non riuscivano a attraversare le Alpi se non in estate, e poi dovevano tagliare, scavare, lottare con tutte le loro forze. Sotto un sole insolito per loro. Non c’è da meravigliarsi che vedessero visioni. Quei poveri uomini sono morti ormai, e noi non sappiamo nemmeno i loro nomi. Dove ero rimasto?
+
+LETTORE: Vi siete soffermati su quella osservazione noiosa secondo cui il calore stava aumentando.
+
+AUCTOR: Esattamente. Me ne ricordo. Beh, il caldo aumentava, ma sembrava molto più sopportabile rispetto ai luoghi precedenti; non come nella regione della Garfagnana o nei deserti di Siena. Infatti, già dalle prime pendici della montagna appariva una foresta di grandi castagni, e l’ombra sotto di essi era così fresca che c’era persino muschio. Come se fossi tornato nel mio paese natale, dove in estate ci sono fiumi pieni d’acqua, prati rigogliosi, insomma, tutto ciò che rende un luogo davvero accogliente.
+
+Anche l’altitudine iniziava probabilmente ad avere i suoi effetti sull’aria, ma non molto: quando la foresta fu alle mie spalle e arrivai su una brughiera desolata che si innalzava più dolcemente verso l’alto – un pendio pianeggiante davanti all’ultima cresta della montagna rotonda – provai una sete intensa. Non faceva troppo caldo per cantare (infatti cantavo, e due solitari carabinieri mi passarono accanto mentre cantavano; ci riconoscemmo mentre ci salutavamo a vicenda, e capimmo che la montagna era piena di canti), ma desideravo ardentemente una panchina, una brocca d’acqua e un po’ d’ombra.
+
+E mentre desideravo ardentemente di vederli, apparve una piccola casa; c'era una donna che cuciva all’ombra, e un vecchio. C'erano anche un banco, un tavolo, e un albero sopra di essi. Mi sedetti lì e bevvi più volte vino bianco e acqua. La donna mi chiese mezzo penny; il vecchio, invece, non parlava. Non si lamentava della sua vecchiaia. Quello era affar suo, non mio. Ma avrei voluto molto parlare con lui in Lingua Franca e ascoltare le storie sulla sua montagna: dove si verificavano i fenomeni soprannaturali, da cosa erano causati, e in quali notti fosse pericoloso trovarsi lì fuori. Così com’era, era proprio così. Li lasciai, e forse non li rivedrò mai più.
+
+La strada sembrava non avere fine; la cresta dalla quale speravo di poter ammirare il lago cratere era sempre proprio davanti a me, ma non riuscivo mai ad arrivarci. Una piccola sorgente, racchiusa in un tronco cavo, rinfrescava un prato sulla destra. Bevendo di nuovo l’acqua di quella sorgente, mi chiesi se continuare o riposarmi. Ma una sorta di antica ossessione, o forse un ricordo insito nel mio sangue, mi spingeva a vedere quel lago prima di addormentarmi. Dopo alcune centinaia di metri, quell’ossessione finalmente si placò.
+
+* * *
 
 
 
@@ -9419,6 +13634,28 @@ Dark Etruria lay behind me, forgotten in the backward of my march: a furnace and
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il laghetto di Venere
+
+Passai tra due rive, dove la strada era erosa sulla cresta del bordo del vulcano; poi, improvvisamente, molto più in basso, in un cerchio di alberi silenziosi e qua e là con qualche traccia di terra paludosa, vidi il Lago di Venere: alcuni chilometri di acqua stagnante, oscurata dalle ripide pendici circostanti. La sua oscurità ricordava quel periodo buio precedente l’[[Dawn|'alba]] del nostro mondo salvato e felice.
+
+All'estremità opposta si ergeva una collina che un tempo era stata un cono all'interno del cratere; era completamente ricoperta da una fitta foresta. Era la Collina di Venere.
+
+Non c'era tempio, né sacrificio, né rituale per la Divinità, se non questa solenne attitudine di silenzio eterno; ma sotto l'influenza che ancora persisteva e conferiva a quel luogo il suo carattere particolare, era impossibile credere che gli dèi fossero morti. Non c'erano uomini in quella valle; né esisteva alcun ricordo di esseri umani, se non di quelli morti migliaia di anni prima. Non c'era vita di cose visibili. La mente si liberava e entrava in contatto con ciò che sopravviveva degli Spiriti conquistati, ma immortali.
+
+Così pronto per il culto, e in uno stato d’adorazione; colmo anche di quella grazia che abita i luoghi nativi di queste cose e che è troppo sottile o troppo pura per subire l’effetto del tempo, percorsi il sentiero lungo il crinale della montagna e giunsi sul bordo che si affacciava su quell’arena dove per la prima volta fu combattuta la battaglia decisiva per il destino del mondo.
+
+Là sotto si estendeva la Campagna: nomi che avevano dato origine a luoghi legati a ogni crepaccio e roccia lontana, al di là dei confini della pianura; nomi che santificavano anche i bagliori dei fiumi. Là sotto c'era Veii; più in là, oltre la Catena degli Appennini appena visibile tra le nuvole, si trovava Tibur, che impreziosiva la valle ai piedi della sua cresta; a destra c'era Tusculum, e molto a sud, chiaramente visibile su una montagna simile alla mia, sorgeva Alba Longa, la madre di quella città. Il Tevere, avvolto in una fitta nebbia marrone che lo nascondeva, era il dio di quella vasta pianura.
+
+Lì, in quel momento, avrei dovuto vedere la Città. Mi alzai sulla riva e mi schermai gli occhi, cercando disperatamente di intravedere la cupola, anche solo nella luce del sole; ma non ci riuscii, perché Roma era nascosta dalle basse colline Sabine.
+
+Vidi Soracte lì. Soracte di cui avevo letto da ragazzo. Si ergeva come un’acropoli, ma era una cittadella senza città. Stava sola, proprio come quella anima che un tempo abitava le sue profondità e prediceva l’avvento vittorioso dei re del nord. Vidi i campi dove vivevano quelle tribù che furono i primi nemici di quell’ordine imperfetto. Prima che quel luogo desse il proprio nome al destino della razza latina.
+
+L’oscura Etruria giaceva alle mie spalle, dimenticata lungo il cammino che avevo intrapreso: un luogo dove la religione nacque per i Romani, una sorta di “forno” e di enigma, un posto che non ha lasciato alcuna traccia linguistica. Ma sotto di me, illuminato dal sole e apparentemente facile da attraversare.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_267_the_arena" data-title="The Path to Rome — The Arena" data-chapter="The Arena" data-kind="story" data-tags="motif/journey"></span>
@@ -9440,6 +13677,24 @@ When I woke the evening had come. A haze had gathered upon the plain. The road f
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L'arena
+
+Quel luogo, con il suo clima particolare, fu l’arena in cui si decisero per la prima volta i destini principali del mondo.
+
+E io continuavo a guardarlo con curiosità, chiedendomi cosa fosse.
+
+Era forse in uno spazio così ristretto che tutte le leggende della propria infanzia venivano rappresentate? La difesa di quel ponte era necessaria contro un'alleanza così vicina e meschina? Quelli erano contadini di un gruppo di capanne che tramandavano la grande eredità della disciplina, creando un canale attraverso il quale anche a noi le antiche virtù potevano arrivare come memoria viva. Deve essere così; perché i villaggi e le rovine in quel paesaggio racchiudevano tutte le prime generazioni della storia di Roma. Le pietre che ammiriamo, lo spirito grandioso dell’ultima espressione artistica provenivano da quel villaggio rude, nato dalle terre di quella pianura; Roma fu più vigorosa prima ancora di poter parlare. Così anche i versi di un uomo, e tutto ciò che possiede, non sono altro che l’ultimo aspetto esteriore, tardivo e ormai rigido, di un fuoco precedente, più plastico e divino.
+
+“Su questo campo,” continuavo a dire a me stesso, “si decisero per la prima volta i destini principali del mondo”; e così, immerso in questo pensiero incessante, mangiai e bevvi in un stato di meditazione, continuando a chiedermi domande. Poi mi sdraiai all’ombra di un piccolo albero che cresceva da solo su quel margine di un nuovo mondo. E mentre riflettevo, mi addormentai sotto il sole del mattino.
+
+Ma questo sonno non era simile alle precedenti obliosità che avevano rinfrescato il mio incessante [[Journey|viaggio]]: continuavo infatti a sognare ciò che avrei visto, e visioni di azioni senza pensieri – spettacoli e misteri – circondavano la mia mente; attraverso l’oscurità di una coscienza lontana dai sensi, passava tutto ciò che è legato al grande nome di Roma.
+
+Quando mi svegliai, era già sera. Una nebbia si era addensata sulla pianura; la strada conduceva verso Ronciglione, e sogni la circondavano da ogni lato. Perché quelle ore di riposo avevano rinnovato le energie del mio corpo, rendendole fresche e durature.
+
+* * *
 
 
 
@@ -9465,6 +13720,26 @@ With a little difficulty I made the master understand that I wished to sleep til
 * * *
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Troppi contadini
+
+VIGORE: Per l’anima non era necessario alcun riposo. Aveva raggiunto, almeno per l’ora successiva, un vigore che richiedeva soltanto la capacità fisica di resistenza; un’ansia degna di occasioni così importanti trovava nel proprio “servitore” una forza pronta a mettersi in movimento.
+
+A Ronciglione vidi le cose che Turner aveva disegnato: intendo quelle rocce da cui nasce un fiume, e quelle case raggruppate insieme, che danno alla collina una sorta di “corona”. Questo aspetto era presente anche in quel dipinto: la luce tenue che accompagna il tramonto del sole e dona al mondo tonalità sfumate. Faceva fresco. L’occasione sembrava invitarmi ad approfittarne. Mangiai, bevvi e posi a tutti domande su Roma; poi attraversai il loro grande cancello e proseguii lungo la strada verso la pianura. Con l’alzarsi della nebbia, cresceva anche in me il desiderio di realizzare qualcosa.
+
+Per tutta la notte, miglio dopo miglio, mi affrettai lungo la Strada di Cassiano. Per cinque giorni avevo dormito nonostante il caldo, e la notte del sud era diventata il mio giorno; e sebbene la nebbia fosse fitta, e sebbene la luna, ormai oltre la sua fase piena, creasse solo un’immagine vaga nel cielo, tuttavia l’aspettativa e l’immaginazione prendevano il posto della vista. In questa nebbia, sentivo che con ogni passo fatto durante quella marcia notturna mi avvicinavo al mio obiettivo.
+
+Molto oltre il luogo che avevo segnato come punto di sosta, molto oltre Sette Vene, una luce si offuscò tra i bianchi veli di vapore; canti lontani e il rumore delle persone che festeggiavano conclusero ciò che, per molte ore – per più di venti miglia di marcia incessante – era stato un’esperienza di esaltazione degna dell’influenza che l’aveva generata. Poi, dopo quella lunga marcia, tornò su di me la necessità di cibo e riposo. Ma queste cose, che avevano avuto tanta importanza in questo libro, ora sembravano servire soltanto a raggiungere un obiettivo finale; vennero messe da parte nella mia mente.
+
+Era una locanda con dei pergolati all’esterno che formavano un portico. Nel cortile davanti ad essa molti contadini sedevano attorno ai tavoli; i loro animali e i loro carri erano parcheggiati sul ciglio della strada, anche se, a quell’ora tarda, alcune persone stavano nutrendo gli animali o sistemandoli. All’interno, cinquanta uomini o più stavano mangiando o festeggiando.
+
+Quale festa o quale necessità di viaggio li facesse trascorrere la notte in movimento, non lo sapevo né lo chiesi; ma passando quasi inosservato tra loro, tra i lunghi tavoli, mi misi all’estremità della fila e il padrone mi servì cibo e vino deliziosi. Mentre mangiavo, il clamore dei contadini risuonava intorno a me; mi mescolai alla vivacità di quella folla numerosa.
+
+Con qualche difficoltà riuscii a far capire al padrone che volevo dormire fino all’[[Dawn|'alba]]. Mi portò in un piccolo granaio (poiché la casa era piena) e mi mostrò dove poter dormire tra il fieno profumato. Non volle alcun denaro per questo alloggio e, dopo avermi spiegato come chiudere e aprire la porta, se ne andò. Tra tante persone, fu l’ultimo a cui ringraziai per un favore, fino a quando non superai le porte di Roma.
+
+* * *
+
 
 
 <span class="atom-split" data-atom="story_269_rome_calls_me" data-title="The Path to Rome — Rome Calls Me" data-chapter="Rome Calls Me" data-kind="story" data-tags="topos/the_quest,archetype/pilgrim,motif/dawn,motif/road,concept/revelation,form/travel_writing,setting/italy"></span>
@@ -9484,6 +13759,22 @@ The road fell into a hollow where soldiers were manoeuvring. Even these could no
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Roma mi chiama
+
+Sopra il morbido letto fatto di paglia, una finestra quadrata, senza vetri, si affacciava sulla notte meridionale; la nebbia a malapena vi entrava o vi passava attraverso, l’aria era così immobile. La osservai per un po’, con occhi sonnolenti; poi il sonno mi colpì di nuovo.
+
+Ma mentre dormivo, Roma. Roma continuava a chiamarmi; mi svegliai in un ambiente fioco e nebbioso, come se una voce mi stesse chiamando. E una volta uscito, non potei fare altro che proseguire fino alla fine.
+
+La piccola pavimentazione in pietra della Via Cassia, così regolare come il pavimento di un palazzo, risuonava sotto i miei passi. Le rive inaridite e le strisce di campi secchi si intravedevano attraverso la nebbia (poiché l’umidità non riusciva a lenire il terreno arido della Campagna). Il sole sorse e la nebbia si dissipò. Allora, finalmente, riuscii a guardare attraverso l’aria densa, ma ancora non riuscivo a scorgere nulla del mio obiettivo: solo distese confuse di terra marrone e erba bruciata, e in lontananza alberi rari e insoliti per quella regione.
+
+Passai accanto a un vecchio torrione del Medioevo il cui basamento era stato eroso dal tempo o dall’attività di estrazione; vidi anche un sentiero che si diramava a destra, su cui c’era un cartello di legno che recitava “Il Sentiero Trionfale”, e mi chiesi se potesse essere la strada lungo la quale, un tempo, i trionfi dovevano svolgersi secondo le tradizioni rituali. Sembrava desolato e isolato, lontano da qualsiasi collegamento con le colline sacre.
+
+La strada conduceva in una conca dove i soldati stavano manovrando. Nemmeno loro riuscivano a distogliere l’attenzione di chi era concentrato su quella rivelazione imminente. La strada saliva lungo un lieve pendio; a sinistra si diramava un sentiero che portava a una casa e a un pergolato ricoperto di viti. Era una giornata calda; alberi molto alti offrivano ombra dal sole; il luogo assumeva un aspetto particolare.
+
+* * *
 
 
 
@@ -9528,6 +13819,46 @@ And St Michael answered:
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Addio a tutti gli uomini
+
+Di ricchezza e cura. La nebbia si era dissipata prima che raggiungessi la cima della collina.
+
+Lì, dalla cima, tra le alte mura della villa su entrambi i lati, ai miei piedi vidi la Città.
+
+E ora, tutti voi che state leggendo questo libro mio, che forse l’avete già letto o che lo leggerete in futuro; anche voi che, per qualche misterioso disegno della Provvidenza, potreste non averne la possibilità per molto tempo ancora; voi tutti, intera, vasta e universale umanità, sia coloro che vivono e vedono la luce del sole, sia quelli che sono morti sotto terra; ombre, o quanti in futuro usciranno dalle tenebre verso la luce per un breve istante, voi tutti, un esercito senza fine: voi neri e bianchi, rossi, gialli e marroni, uomini, donne, bambini e poeti, ovunque vi troviate ora, o abbiate mai vissuto, o vivrete in futuro, è giunto il momento in cui devo dirvi addio.
+
+Giocatori soddisfatti, mangiatori soddisfatti, e bevitori pure. È ora che tu te ne vada.
+
+Solo Lector rimarrà con me ancora per poco tempo, per uno scopo speciale, ma anche lui dovrà presto lasciarmi; perché tutte le cose belle hanno una fine, e questo libro ha raggiunto la sua fine. Le foglie cadono, ma poi si rinnovano; il sole tramonta sulle colline di Vexin, ma poi sorge di nuovo sopra i boschi di Marly. L’amicizia umana, una volta spezzata, non può mai essere ripristinata; tu e io non ci incontreremo più, né riusciremo a capirci l’un l’altro. È lo stesso per tutti quei deboli legami con cui cerchiamo di colmare il baratro insormontabile che separa l’anima dall’anima. Oh! so che creiamo qualcosa, ma è solo una fragile ragnatela, sottile e tesa. E anche se non si rompe, il tempo alla fine la distruggerà.
+
+Infatti, c’è una canzone in esso che dovresti conoscere; recita…
+
+* * *
+
+So, mia piccola umanità: sia voi che avete letto questo libro, sia voi che non l’avete fatto, addio con affetto. Vi ho amati tutti mentre lo scrivevo. Voi mi avete amato tanto quanto io vi ho amato? Per la pietra nera di Rennes, ormai dovrei essere ricco. Sì, davvero, vi ho amati tutti! Voi, i lavoratori, gonfi d’orgoglio ma sofferti di disturbi digestivi e pronti per finire negli ospedali psichiatrici; voi, i pigri inutili; voi, gli uomini forti ma silenziosi, con la testa vuota come zuccche; e anche voi, gli uomini frivoli e inutili che passano le giornate a chiacchierare senza motivo. Anche voi, che avete iniziato a leggere questo libro ma non siete riusciti ad andare oltre la pagina 47. E soprattutto voi, che l’avete letto con coraggio, nonostante le difficoltà. Vi amo tutti, e vi invio ora la mia benedizione finale, completa, assoluta e confortevole.
+
+A dire il vero, ho notato un piccolo difetto in te. Non lo chiamerò vanità o egocentrismo assurdi e esasperanti; lo racconterò sotto forma di una parabola. Sedetevi tutti attenti e ascoltate, disponendovi ordinatamente senza affollarvi né spingervi a vicenda.
+
+Un tempo, prima che noi esseri umani diventassimo le persone buone e rispettose di sé che siamo oggi, il Padre Eterno sedeva in cielo, con San Michele al suo fianco; dal Suo grande trono osservava l’abisso e vide, nel vuoto, un punto luminoso tra circa diciassette milioni di altri. Allora disse:
+
+“Che cos’è?”
+
+#E San Michele rispose:
+
+“Quella è la Terra,” perché ne provava un certo orgoglio.
+
+“La Terra?” disse il Padre Eterno, un po’ perplesso, “La Terra?,??? Non ricordo esattamente, ”
+
+“Perché,” rispose San Michele, con tutto il rispetto che la sua irritazione gli permetteva di mostrare, “dovreste sicuramente ricordarvi della Terra e di tutti i problemi che sorse nel cielo quando fu deciso di crearla, nonché di Lucifero, ”
+
+“Ah!”, disse il Padre Eterno, dopo averci pensato bene, “sì… È legato a Sirio, e…”
+
+“No, no,” disse San Michele, chiaramente infastidito. “È la Terra. La Terra che ha quella luna mutevole e quella cosa chiamata mare.”
+
+* * *
 
 
 
@@ -9590,6 +13921,64 @@ AUCTOR. ... I entered a cafe at the right hand of a very long, straight street, 
 
 * * *
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Continuatez
+
+“Certo, certo,” rispose rapidamente il Padre Eterno, “Ho detto Sirius per sbaglio. Oddio! Quindi quella è la Terra. Beh, beh. Sono passati molti anni ormai. Michael, cosa sono quelle piccole cose che volano su e giù sopra di essa?”
+
+“Quei,” disse San Michele, “sono uomini.”
+
+“Gli uomini?”, disse il Padre Eterno, “Gli uomini. Conosco questa parola tanto quanto chiunque altro, ma in qualche modo non riesco a capirne il significato. Gli uomini, ” e rimase a riflettere.
+
+San Michele, con perfetta moderazione, disse alcune cose in modo un po’ distaccato, definendo l’Uomo, il suo duplice destino, la sua speranza in cielo e tutte le grandi cause per cui aveva combattuto con determinazione. Ma, seguendo una nobile [[Tradition|tradizione militare]], non menzionò mai le sue azioni, né tantomeno il suo santuario in Normandia di cui naturalmente è estremamente orgoglioso. E ha tutte le ragioni per esserlo. Che meravigliosa collina!
+
+“Vi chiedo davvero scusa,” disse il Padre Eterno quando vide l’importanza che veniva attribuita a queste piccole creature. “Sono sicuro che meritino tutta la nostra attenzione, e, ” (aggiunse, perché gli dispiaceva di aver offeso) “, sembrano davvero molto sagge! Lì stanno, comprando e vendendo, navigando, guidando, vivendo le loro vite quotidiane, cavalcando, ballando, cantando. Davvero, sono esseri molto pratici, efficienti e soddisfacenti. Ma noto una cosa strana: qua e là ci sono alcuni che non fanno come gli altri, che non si dedicano alle loro attività, ma assumono ogni sorta di posizione, emettono suoni strani e si vestono con abiti molto bizzarri. Cosa significa tutto questo?”
+
+“Signore!” gridò San Michele, con una voce che fece tremare le travi del cielo, “essi Vi stanno adorando!”
+
+“Oh! Mi stanno adorando! Beh, questa è senz’altro la cosa più sensata che abbia mai sentito dire di loro. Li lodo davvero molto. Continuate,” disse il Padre Eterno, “continuate!”
+
+E da allora tutto è andato bene nel mondo, almeno là dove noi continuiamo a vivere.
+
+E così, carissimi, addio a tutti voi; da tempo è sorto il giorno sulla Via Cassia, questa fitta nebbia si è dissipata, la città mi appare davanti agli occhi. Sono sul punto di vivere un’esperienza straordinaria; preferirei essere solo. Addio, miei lettori. Addio, mondo.
+
+Ai piedi della collina mi preparai ad entrare in città, e sollevai il mio cuore pieno di speranza.
+
+C'era uno spazio aperto; un tramway: su di esso c'era un tram pronto ad essere trainato da due cavalli magri e stanchi, disturbati dalle molte mosche nel caldo. C'era polvere dappertutto intorno.
+
+Subito davanti a loro c'era un ponte. Era adornato con statue realizzate in pietra morbida; parzialmente erose dal tempo, continuavano comunque a “gesticolare”, nella loro forma corrotta e deteriorata, proprio come si addiceva a quel luogo.
+
+* * *
+
+Seicentoventesimo secolo. Sotto il ponte scorreva velocemente un gran tumulto d’acqua gialla: era il Tevere. Lontano a destra si vedevano caserme bianche, di dimensioni enormi e dall’aspetto orribile; sopra di esse si elevava la Cupola di San Pietro, che sembrava appena costruita. Era di un delicato colore blu, ma creava un contrasto metallico con il cielo.
+
+Poi, lungo una strada perfettamente dritta delimitata da fabbriche, case modeste e muri in rovina; una strada piena di pezzi di carta, ossa, fango e rifiuti, proseguii per diverse centinaia di metri, con il vecchio muro di Roma davanti a me per tutto il tempo, fino a quando finalmente non mi trovai proprio sotto di esso. Con l’esitazione che caratterizza tutte le grandi imprese, entrai, mettendo prima il piede destro, per non causare ulteriori sfortune a quella capitale di tutte le nostre fortune.
+
+E così la [[Journey|viaggio]] finì.
+
+Era la Porta del Pioppo – non quella del Popolo. (Ah, pedante! Pensavi davvero che ti avessi perso, nascosto e in agguato lì dentro?) C’erano molte chiese nelle vicinanze; ne scelsi la più vicina, quella che si trovava appena all’interno della muraglia e che si chiamava Nostra Signora del Popolo, (non “del Pioppo”. Un altro errore da parte dei dotti! Professore, oggi le cose non vanno bene per lei!). All’interno c’erano molte bellissime opere d’arte: non di quel genere banale e insignificante, ma piuttosto forti, a colori vivaci e realistiche.
+
+Con mio rammarico, la messa stava per finire. Mi avvicinai a un prete e gli dissi:
+
+“Padre, quando si terrà la messa di questa e della prossima domenica?”
+
+“Alle nove,” disse lui.
+
+“Pol! Hercle!” pensai, “Ho ancora venti minuti da aspettare! Beh, poiché un pellegrinaggio non si può considerare concluso finché non si assiste alla prima Messa a Roma, ho quindi venti minuti in più per scrivere nel mio libro.”
+
+Passando accanto a un obelisco egizio che il grande Augusto aveva nobilmente dedicato al Sole, entrai.
+
+LETTORE: Ma non avete intenzione di raccontarci nulla di Roma?
+
+AUTORE: Niente, caro Lettore.
+
+LETTORE: Ditemi almeno una cosa. Avete visto il Colosseo?
+
+AUTORE:. Entrai in un caffè situato sul lato destro di una strada molto lunga e dritta; ordinai pane, caffè e brandy. Mentre riflettevo sui miei libri e ringraziavo il mio staff, che per tanto tempo era stato mio amico – amici veri, come tutti gli amici veri, anche quelli inanimati – trascorsi i pochi minuti rimanenti della mia vita felice, ordinaria, naturale, scrivendo queste parole.
+
+* * *
 
 
 
@@ -9675,3 +14064,87 @@ LECTOR. BUT THIS is dogg —
 
 AUCTOR. Not a word!
 FINIS
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Canto forte e finale  
+Epitalamo o treno funebre in stile ditirambo
+
+“In queste scarpe e con questo bastone… Duecentoventi leghe e mezza…”
+
+(Ciò significa duecentocinquanta leghe. Capisci? Non duecentouno e mezza lega. Beh, )
+
+Duecento guerrieri e mezzo
+
+Camminai, andai, misuravo i passi, inciampai…
+
+# Inciampai, camminai, avanzai…
+
+Spinto avanti, ansimando, oscillando e correndo…
+
+#Navigato, attraversato, nuotato… e schizzato d’acqua.
+
+# Arrampicato, strisciato e inerpicato…
+
+# Perduto e smarrito, vagabondai senza meta…
+
+# Barcollando e faticando…
+
+# In solitudine e silenzio mi accampavo
+
+# Dormii nelle pinete infestate di fantasmi
+
+#Mi soffermai, indugiai, zoppicai e strisciai…
+
+Salii, mi fermai, mossi un passo e saltai…
+
+# Camminavo lentamente, con passi decisi…
+
+#E… (Oh! Santi patroni e angeli)
+
+Che proteggano i quattro vangeli!
+
+E voi profeti e maestri…
+
+# Incerti e minori
+
+Virgini e Confessori
+
+Capo di quelle glorie particolari
+
+Titolo:  
+"Essere nella sala del re"
+
+# Atque orare et exorare
+
+# Et clamare et conclamare
+
+# Clamanti cum clamoribus
+
+Per noi peccatori.
+
+Lasciate che non lo nasconda. Fu io a cavalcare.
+
+#Per chi, se non i critici, potrebbe lamentarsi?
+
+“Viaggiare” su un treno ferroviario… Attraverso valli e altipiani.
+
+Con tutto il mondo ai suoi lati.
+
+Bevendo quando ne avevo voglia
+
+Cantare quando ne avevo voglia;
+
+# Mai ho voltato le spalle alla mia casa
+
+Fino a quando non ebbi placato i miei desideri a Roma.
+
+* * *
+
+# La fine ancora una volta
+
+# Lettore… Ma questo è davvero incredibile!
+
+Autore… Nemmeno una parola!  
+Fine.

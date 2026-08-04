@@ -2,13 +2,13 @@
 title: "To “H. H.”"
 author: "Dickinson"
 unitType: work
-parentWork: "works/imagination-·-fragment-·-heroic-couplet-(dickinson)"
+parentWork: "works/imagination-·-fragment-·-heroic-couplet-(keats)"
 tags:
   - graph/excerpt
   - author/Dickinson
 ---
 
-<div class="atom-reader" data-work="testi/dickinson/atomized/imagination-fragment-heroic-couplet" data-author="Dickinson" data-workhref="works/imagination-·-fragment-·-heroic-couplet-(dickinson)"></div>
+<div class="atom-reader" data-work="testi/dickinson/atomized/imagination-fragment-heroic-couplet" data-author="Dickinson" data-workhref="works/imagination-·-fragment-·-heroic-couplet-(keats)"></div>
 
 
 <span class="atom-split" data-atom="0188_make_me_a_picture_of_the_sun" data-title="188. Make me a picture of the sun —" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/birds,motif/seasons,motif/winter,motif/nature,concept/imagination,concept/joy,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>

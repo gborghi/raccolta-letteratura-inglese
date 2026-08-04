@@ -9319,6 +9319,67 @@ the story the old man told.  I said it had a moral.'
 It's nonsense your suggesting a parallel.'
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Infatti,” osservò Wilton, “e io allora?”
+
+“Penso che tu sia una persona con un’unica idea in mente,” disse [[Father Brown|Padre Brown]], “e mi perdonerai se dico che quell’idea sembra essere più quella di catturare Daniel Doom che quella di difendere Brander Merton.”
+
+Wilton iniziò lentamente, poi continuò a fissare il suo compagno; dopo un po’, molto lentamente, la sua espressione cupa si trasformò in un sorriso piuttosto curioso. “Come hai fatto, cosa ti fa pensarlo?” chiese.
+
+“Hai detto che, se sentissi uno sparo, potresti immediatamente elettrificare il nemico in fuga,” osservò il prete. “Immagino ti sia mai venuto in mente che quell’esplosione potrebbe rivelarsi fatale per il tuo datore di lavoro, prima ancora che lo shock uccida il suo avversario. Non intendo dire che non proteggeresti il signor Merton se potessi, ma sembra che questa possibilità venga considerata secondaria nelle tue intenzioni. Gli accordi sono davvero molto elaborati, e a quanto pare li hai pianificati tu stesso. Ma sembrano essere stati concepiti più per catturare un assassino che per salvare una vita umana.”
+
+“Padre Brown,” disse il segretario, riprendendo il suo tono tranquillo, “lei è molto intelligente, ma c’è qualcosa in lei che va oltre l’intelligenza. In qualche modo, lei è il tipo di persona a cui si vuole raccontare la [[Truth|verità]]; e comunque, probabilmente la scoprirà lo stesso, perché in un certo senso questa verità rappresenta già una sorta di scherzo contro di me. Tutti dicono che io sia ossessionato dall’idea di smascherare questo grande truffatore. E forse è vero. Ma le dirò una cosa che nessuno di loro sa: il mio nome completo è John Wilton Border.”  
+[[Father Brown|Padre Brown]] annuì, come se fosse appena stato illuminato, ma l’altro continuò.
+
+Quest’uomo che si chiama Doom ha ucciso mio padre e mio zio e ha distrutto mia madre. Quando Merton cercava una segretaria, ho accettato il lavoro, perché pensavo che, dove si trovava la “coppa”, prima o poi sarebbe apparso anche il colpevole. Ma non sapevo chi fosse il colpevole e potevo solo aspettarlo; intendevo comunque servire Merton con fedeltà.
+
+“Capisco,” disse dolcemente [[Father Brown|Padre Brown]]; “e, a proposito, non è forse arrivato il momento di andare da lui?”
+
+“Sì, certamente,” rispose Wilton, tornando per un attimo fuori dal suo stato di meditazione; il prete concluse quindi che la sua mania vendicativa lo avesse nuovamente assorbito per un momento. “Va' pure dentro ora.”
+
+[[Father Brown|Padre Brown]] entrò direttamente nella stanza interna. Non ci furono saluti, solo un silenzio assoluto; dopo un momento, il prete ricomparve sulla soglia.
+
+Nello stesso istante, il silenzioso bodyguard seduto vicino alla porta si mosse improvvisamente; sembrava che un enorme pezzo di mobilia fosse diventato vivo. Era come se l’atteggiamento stesso del prete fosse stato un segnale: la sua testa era rivolta verso la luce proveniente dalla finestra interna, e il suo viso era immerso nell’[[Shadow|oscurità]].
+
+“Immagino che premerai quel pulsante,” disse con un certo sospiro.
+
+Sembrò che Wilton si risvegliasse dal suo cupo silenzio, balzò in piedi con voce tremante.
+
+“Non c’è stato alcun sparo,” gridò.
+
+“Beh,” disse Padre Brown, “dipende da cosa si intenda per ‘un colpo’.”
+
+Wilton si precipitò avanti e insieme entrarono nella stanza interna.  
+Era una stanza piuttosto piccola, arredata in modo semplice ma elegante.  
+Di fronte a loro, una grande [[Window|finestra]] era aperta, con vista sul [[Garden|jardino]] e sulla pianura boscosa.  
+Accanto alla [[Window|finestra]] c'erano una sedia e un piccolo tavolo; sembrava che il prigioniero desiderasse godere di tutta l’aria e la luce possibili, nel corso di quel breve periodo di [[Loneliness|solitudine]].
+
+Sul piccolo tavolo sotto la [[Window|finestra]] stava la Coppa Copta; il suo proprietario evidentemente l’aveva osservata nel modo migliore possibile. Valeva davvero la pena guardarla, perché quella luce bianca e abbagliante trasformava le sue pietre preziose in fiamme colorate, tanto da farla sembrare un modello del Santo Graal. Valeva davvero la pena guardarla, ma Brander Merton non la stava guardando. La sua testa era appoggiata allo schienale della sedia; i suoi capelli bianchi pendevano verso il pavimento, mentre la sua barba grigiastra puntava verso il soffitto. Dal suo collo spuntava una lunga freccia marrone, con pelle rossa all’estremità opposta.
+
+“Un colpo silenzioso,” disse Padre Brown a bassa voce; “Stavo proprio pensando a quelle nuove invenzioni per rendere le armi da fuoco più silenziose. Ma questa è un’invenzione molto vecchia, e comunque altrettanto silenziosa.”
+
+Poi, dopo un momento, aggiunse: “Temo che sia morto. Cosa farai adesso?”
+
+Il pallido segretario si risvegliò con improvvisa determinazione.  
+“Naturalmente premerò quel pulsante,” disse, “e se questo non basterà per Daniel Doom, lo cercherò in tutto il mondo fino a trovarlo.”
+
+“Fai attenzione che non capiti a nessuno dei nostri amici,” osservò [[Father Brown|Padre Brown]]; “non possono essere lontani, è meglio chiamarli.”
+
+“Quella gente sa tutto sul muro,” rispose Wilton. “Nessuno di loro proverà ad scalarlo, a meno che uno di loro, non abbia molta fretta.”
+
+Padre Brown si avvicinò alla finestra da cui l’arco aveva evidentemente fatto ingresso e guardò fuori. Il giardino, con i suoi prati fioriti piatti, si estendeva lontano sotto di lui, come una mappa del mondo dai colori delicati. L’intera vista sembrava così vasta ed desolata; la torre pareva situata così in alto nel cielo che, mentre fissava quel paesaggio, una strana frase gli tornò in mente.
+
+“Un colpo a sorpresa,” disse. “Chi aveva detto che il destino può arrivare all’improvviso, come una freccia scoccata dal cielo? Guardate quanto tutto sembri lontano. Sembra incredibile che una freccia possa raggiungere una distanza del genere, a meno che non provenga davvero dal cielo.”
+
+Wilton era tornato, ma non rispose; il prete continuò come se stesse parlando da solo: “Si pensa all’aviazione. Dobbiamo chiedere al giovane Wain, qualcosa sull’aviazione.”
+
+“Ce n’è molta in giro qui,” disse il segretario.
+
+“Casi di armi molto vecchie o molto nuove,” osservò [[Father Brown|Padre Brown]]. “Alcune, immagino, sarebbero piuttosto familiari a suo zio; dobbiamo chiedergli qualcosa riguardo alle frecce. Questa sembra proprio una freccia dei Red Indian. Non so da dove il Red Indian l’abbia scoccata; ma ricordi la storia che quell’uomo anziano ci ha raccontato? Ho detto che aveva un messaggio morale, ”
+
+“Se ci fosse una morale in tutto questo,” disse Wilton con calore, “sarebbe soltanto quella che un vero indiano rosso potrebbe sparare più lontano di quanto si possa immaginare. È assurdo cercare di stabilire un paragone.”
+
 
 
 <span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_05" data-title="Incredulity — The Arrow of Heaven (part 5)" data-chapter="The Arrow of Heaven" data-kind="excerpt" data-tags="motif/machine,motif/time,motif/well,motif/window,concept/doubt,concept/history,concept/wonder,form/history,character/father_brown"></span>
@@ -15851,6 +15912,22 @@ I think, about notions affecting [[Identity|identity]].  I don't know whether it
 would be more weird to get a guess like that swiftly or slowly.
 I [[Wonder|wonder]] when you suspected and when you were sure.'
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Povero Arnold Aylmer, senza dubbio dormiva, forse anche viveva al piano di sopra, e poi scese indossando la sua vestaglia, passando attraverso la porta di vetro rosso. All’estremità del corridoio, stagliato contro la luce invernale, vide il nemico della sua casa: un uomo alto, barbuto, con un cappello nero a tesa larga e un grande mantello nero che svolazzava al vento. Non vide molto di più. Strake gli si scagliò addosso, soffocandolo o pugnalandolo; non possiamo esserne certi fino all’inchiesta. Poi, Strake, fermo nel corridoio stretto tra il cappello e l’antico comò, guardando con trionfo il suo ultimo nemico, sentì qualcosa che non si aspettava: dei passi nella sala accanto. Ero io che stavo entrando dalle finestre francesi.
+
+La sua mascherata fu un vero miracolo di prontezza. Non si trattava soltanto di un travestimento, ma anche di una [[Romance|romanzata]], un’[[Romance|romanzata]] improvvisata. Si tolse il grande cappello nero e il mantello, indossò l’abito del morto. Poi fece qualcosa di piuttosto macabro; almeno, a me sembra molto più macabro degli altri gesti che aveva compiuto. Appese il cadavere come un cappotto a uno dei ganci per cappelli, lo avvolse nel proprio lungo mantello e notò che pendeva appena sotto le punte dei tacchi; coprì completamente la testa con il proprio largo cappello. Era l’unico modo possibile per nasconderlo in quel piccolo corridoio con la porta chiusa a chiave. Ma davvero un’idea molto ingegnosa. Anche io sono passato accanto a quel “gancio per cappelli” senza nemmeno rendermi conto che non fosse altro che un gancio per cappelli. Penso che quel mio momentaneo ignorare la realtà mi faccia ancora rabbrividire, oggi.
+
+Forse avrebbe potuto lasciarle lì; ma io avrei potuto scoprire il cadavere in qualsiasi momento; e, appeso dove si trovava, era un cadavere che richiedeva, per così dire, una spiegazione. Decise quindi di agire in modo più deciso: scoprirlo lui stesso e fornire anche lui la spiegazione.
+
+Allora, nella mente di quell’uomo strano e terribilmente fertile, nacque l’idea di una storia basata sulla sostituzione, sull’inversione dei ruoli. Aveva già assunto il ruolo di Arnold Aylmer. Perché non avrebbe dovuto anche il suo nemico morto assumere il ruolo di John Strake? Doveva esserci qualcosa di affascinante in quell’idea, per conquistare l’immaginazione di un uomo così fantasioso e cupo. Era come un banchetto di mascherate in cui i due nemici mortali si sarebbero vestiti a vicenda. Solo che quel “banchetto” sarebbe stato una [[Dance of Death|danza della morte]], e uno dei partecipanti sarebbe stato davvero morto. Ecco perché riesco a immaginare quell’uomo mentre concepisce tutto questo. E riesco anche a immaginarlo sorridere.
+
+[[Father Brown|Padre Brown]] fissava il vuoto con i suoi grandi occhi grigi; quando non erano offuscati dal suo tic di battito delle palpebre, essi rappresentavano l’unica caratteristica distintiva del suo volto. Continuò a parlare in modo semplice e serio: “Tutto proviene da Dio; soprattutto la ragione, l’immaginazione e i grandi doni dell’intelletto. Sono cose buone di per sé; e non dobbiamo dimenticare mai la loro origine, nemmeno quando vengono utilizzate a scopi malvagi. Quest’uomo, però, possedeva un potere molto nobile, il potere di raccontare storie. Era un grande romanziere; ma ha distorto questo suo dono per fini pratici e malvagi: per ingannare le persone con fatti falsi, invece che con storie inventate. Tutto è iniziato quando ha ingannato il vecchio Aylmer con scuse elaborate e bugie ricercatamente dettagliate. Ma anche questo, all’inizio, poteva essere poco più che le fantasie di un bambino che dice di aver visto il Re d’Inghilterra o il Re delle Fate. Quel vizio è cresciuto in lui grazie alla vanità, si è sempre vantato della sua capacità di inventare storie originali e di svilugarle con abilità. È per questo che i giovani Aylmer dicevano che poteva sempre “incantare” loro padre. Ed era vero. Era lo stesso tipo di incantesimo che il narratore usava nei racconti delle Mille e Una Notte per dominare i tiranni. Fino alla fine, ha vissuto con l’orgoglio di un poeta, e con il coraggio falso ma incomprensibile di un grande bugiardo. Avrebbe sempre potuto inventare altre storie delle Mille e Una Notte, anche se la sua vita fosse stata in pericolo. E oggi, la sua vita è davvero in pericolo.”
+
+‘Ma sono sicuro, come dico, che lui ne trasse piacere sia come una fantasia, sia come una congiura. Iniziò quindi il compito di raccontare la vera storia, ma al contrario: trattando l’uomo morto come se fosse vivo e l’uomo vivo come se fosse morto. Si infilò già nell’abito da camera di Aylmer; poi proseguì, entrando nel suo [[Body|-corpo]] e nella sua [[Soul|-anima]]. Guardava il cadavere come se fosse il proprio corpo freddo disteso nella [[Snow|-neve]]. Poi lo adornò in quel modo strano, per suggerire l’immagine di un rapace che discende velocemente, e lo vestì non solo con i propri abiti scuri e fluttuanti, ma anche con tutto ciò che rappresenta il mondo delle fate: il simbolo del uccello nero che può essere abbattuto soltanto da una pallottola d’argento. Non so se fosse lo scintillio dell’argento sul comodino o la [[Snow|-neve]] che brillava oltre la porta a ispirare in lui il tema della “magia bianca” e del metallo bianco utilizzato contro i maghi. Ma, qualunque ne fosse l’origine, lo adattò alle sue esigenze come un poeta, e lo fece con grande rapidità, come una persona pratica. Completò il processo di scambio e inversione delle parti, gettando il cadavere nella [[Snow|-neve]] come se fosse quello di Strake. Si sforzò davvero molto di creare l’immagine inquietante di Strake, qualcosa che fluttuasse dappertutto nell’aria, una harpy con ali veloci e artigli mortali, per spiegare l’assenza di orme e altre anomalie. Per questa audacia artistica lo ammiro profondamente. In realtà, trasformò addirittura una delle contraddizioni presenti nel suo racconto in un argomento a sostegno della sua teoria, dicendo che il mantello dell’uomo fosse troppo lungo per lui, e quindi dimostrasse che non camminava mai a terra come un comune mortale. Ma mentre lo diceva, mi guardò con molta intensità. E qualcosa mi fece capire che in quel momento stava cercando di bluffare con tutte le sue forze.’
+
+Il dottor Boyne sembrava pensieroso. “A quel punto avevi già scoperto la verità?”, chiese. “C’è qualcosa di molto strano, che riguarda direttamente i nervi, nelle nozioni legate all’[[Identity|identità]]. Non so se sarebbe ancora più bizzarro formulare un’ipotesi del genere in modo rapido o lento. Mi chiedo quando hai iniziato a sospettarlo e quando ne sei stato sicuro.”
 
 
 

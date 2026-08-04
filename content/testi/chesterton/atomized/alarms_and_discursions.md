@@ -9729,136 +9729,57 @@ The Glory of Grey
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Quella non è la [[house|casa]]?» domandò cortesemente al cocchiere.
+“Quella non è la [[house|casa]]?” chiese educatamente al conducente.
 
-«No, signore», disse il cocchiere, dominando gli angoli della bocca.
-«È la portineria, signore.»
+“No, signore,” disse il conducente, controllando le pieghe delle sue labbra.  
+“La locanda, signore.”
 
-«Davvero», disse il Duc de Chambertin-Pommard, «è là che cominciano
-le terre del Duca?»
+“Infatti,” disse il Duca di Chambertin-Pommard, “è proprio lì che inizia la terra del Duca?”
 
-«Oh no, signore», disse l'uomo, del tutto costernato.  «Siamo stati
-nelle terre di Sua Grazia tutto il giorno.»
+“Oh no, signore,” disse l’uomo, visibilmente angosciato. “Siamo stati nel territorio di sua Grazia tutto il giorno.”
 
-Il Francese lo ringraziò e si riadagiò nella carrozza, sentendosi
-come se ogni cosa fosse incredibilmente enorme e vasta, al pari
-di Gulliver nel paese dei Brobdingnag.
+Il francese gli ringraziò e si appoggiò allo schienale della carrozza, sentendosi come se tutto intorno fosse incredibilmente enorme e vasto, proprio come Gulliver nel regno dei Lilliputi.
 
-Scese davanti a una lunga facciata di un edificio piuttosto austero,
-e un ometto trasandato in giacca da caccia e calzoni alla zuava
-corse giù per la gradinata.  Aveva un debole e biondo paio di baffi
-e occhi spenti, azzurri, infantili; i suoi tratti erano insignificanti,
-ma i suoi modi estremamente piacevoli e ospitali.  Questi era il
-Duca di Aylesbury, forse il più grande proprietario terriero d'Europa,
-e noto solo come allevatore di cavalli finché non prese a scrivere
-brevi e brusche lettere sul Bilancio.  Condusse il Duca francese
-di sopra, chiacchierando di banalità con fare cordiale, e là lo
-presentò a un altro e più importante oligarca inglese, che si alzò
-da uno scrittoio con uno scatto un po' senile.  Aveva una testa
-calva e lucente e gli occhiali; la parte inferiore del volto era
-mascherata da una corta barba scura, che non celava un sorriso
-raggiante, non privo di una punta di acume.  Si curvava un poco
-mentre camminava, come qualche capo scrivano o cassiere sedentario;
-e persino senza il libretto degli assegni e le carte sulla scrivania
-avrebbe dato l'impressione di un mercante o di un uomo d'affari.
-Era vestito con una leggera giacca a quadri grigi.  Era il Duca
-di Windsor, il grande statista unionista.  Fra questi due uomini
-sciolti e affabili, il piccolo Gallo stava eretto nella sua nera
-finanziera, con la mostruosa gravità della cerimoniosa buona
-educazione francese.  Questa rigidità indusse il Duca di Windsor
-a metterlo a suo agio (come un affittuario), ed egli disse,
-stropicciandosi le mani:
+Si trovava di fronte a una lunga facciata di un edificio piuttosto severo; un uomo un po’ trascurato, vestito con una giacca da caccia e pantaloni a righe, scese rapidamente i gradini. Aveva un baffo sottile e biondo, occhi blu spenti e infantili; i suoi tratti non erano particolarmente evidenti, ma il suo modo di comportarsi era estremamente piacevole e ospitale. Era il Duca di Aylesbury, forse il più grande proprietario terriero d’Europa; fino a quando non iniziò a scrivere brevi lettere riguardanti il bilancio pubblico, era conosciuto soltanto come allevatore di cavalli. Condusse il Duca francese al piano di sopra, parlando di cose banali in modo cordiale, e poi lo presentò a un altro oligarca inglese ancora più importante, che si alzò da dietro la scrivania con un movimento un po’ incerto, tipico della vecchiaia. Aveva la testa completamente calva e indossava occhiali; la parte inferiore del viso era nascosta da una barba corta e scura, ma non riusciva a nascondere un sorriso radioso, mescolato però con un’aria decisa. Si chinò leggermente mentre camminava, come uno impiegato d’ufficio sedentario; anche senza il libretto degli assegni e i documenti sulla scrivania, dava l’impressione di essere un commerciante o un uomo d’affari. Indossava una giacca a quadri di colore grigio chiaro. Era il Duca di Windsor, il grande statista unionista. Tra questi due uomini cordiali e disinvolti, quel piccolo francese stava in piedi rigido, con il suo abito nero da cerimonia, mantenendo quell’aria solenne tipica delle buone maniere francesi. Questa rigidità spinse il Duca di Windsor a rilassarlo un po’, e lui, strofinandosi le mani, disse:
 
-«Sono stato deliziato dalla vostra lettera ... deliziato.  Sarò
-lietissimo se potrò darvi ... ehm ... qualche dettaglio.»
+“Sono stato molto felice della tua lettera, davvero felice. Sarò molto contento se potrò darti qualche dettaglio in più.”
 
-«La mia visita», disse il Francese, «basta appena all'esaurimento
-scientifico del dettaglio.  Io cerco solo l'idea.  L'idea, ecco
-sempre la cosa immediata.»
+“La mia visita,” disse il francese, “appena basta per esaminare in modo scientifico tutti i dettagli. Cercio soltanto l’idea. L’idea, che è sempre ciò che conta davvero.”
 
-«Proprio così», disse l'altro rapidamente; «proprio così ... l'idea.»
+“Esattamente,” disse l’altro rapidamente; “esattamente, quell’idea.”
 
-Sentendo in qualche modo che era il suo turno (avendo il Duca
-inglese fatto tutto ciò che gli si poteva richiedere) Pommard
-dovette dire: «Intendo l'idea di aristocrazia.  Considero questa
-l'ultima grande battaglia per l'idea.  L'aristocrazia, come ogni
-altra cosa, deve giustificarsi dinanzi all'umanità.  L'aristocrazia
-è buona perché conserva un'immagine della dignità umana in un mondo
-dove quella dignità è spesso oscurata da servili necessità.
-L'aristocrazia [[Alone|soltanto]] può custodire un certo alto riserbo
-dell'[[Soul|anima]] e del [[Body|corpo]], una certa nobile distanza tra i sessi.»
+Sentendo, in qualche modo, che fosse il suo turno (poiché il Duca inglese aveva già fatto tutto ciò che era richiesto da lui), Pommard dovette dire: “Intendo l’idea stessa di aristocrazia. La considero l’ultima grande battaglia per questa ideale. L’aristocrazia, come qualsiasi altra cosa, deve giustificarsi davanti all’umanità. È buona perché preserva un’immagine della dignità umana in un mondo in cui tale dignità viene spesso offuscata dalle necessità servili. Solo l’aristocrazia può mantenere una certa nobiltà d’animo e di corpo, una certa distanza nobile tra i sessi.”
 
-Il Duca di Aylesbury, che aveva un annebbiato ricordo di aver
-spruzzato dell'[[Water|acqua]] di seltz nel collo di una Contessa la sera
-precedente, appariva alquanto cupo, come se lamentasse lo spirito
-teorico della razza latina.  Il Duca più anziano rise di cuore, e disse:
-«[[Well|Ebbene]], [[Well|ebbene]], sapete; noi Inglesi siamo orribilmente pratici.
-Da noi la grande questione è la terra.  Qui fuori in campagna
-... conoscete queste parti?»
+Il Duca di Aylesbury, il cui ricordo di aver spruzzato acqua tonica nel collo di una contessa la sera precedente era piuttosto vago, sembrava piuttosto cupo, come se rimpiangesse lo spirito teorico della razza latina. Il vecchio Duca rise di cuore e disse: “Beh, sapete, noi inglesi siamo terribilmente pratici. Per noi, la questione principale è la terra. Qui in campagna, conoscete questa zona?”
 
-«Sì, sì», gridò il Francese con ardore.  «Capisco cosa intendete.
-La campagna! l'antica vita rustica dell'umanità!  Una guerra santa
-contro le città gonfie e immonde.  Che diritto hanno questi anarchici
-di attaccare le vostre operose e prospere campagne?  Non hanno esse
-prosperato sotto la vostra guida?  Non stanno forse i villaggi
-inglesi crescendo sempre più grandi e più gai sotto l'entusiastica
-direzione dei loro incoraggianti squire?  Non avete l'albero di
-maggio?  Non avete l'Allegra Inghilterra?»
+“Sì, sì,” gridarono gli francesi con entusiasmo. “Capisco cosa intendete. La campagna, la vecchia vita rustica dell’umanità. Una guerra sacra contro le città gonfie e sporche. Che diritto hanno questi anarchici di attaccare le vostre campagne laboriose e prospere? Non sono forse cresciute sotto la vostra guida? I villaggi inglesi, non diventano sempre più grandi e vivaci sotto l’entusiasta leadership dei loro gentiluomini che li incoraggiano? Non avete forse il palo di maggio. Non avete forse la gioiosa Inghilterra?”
 
-Il Duca di Aylesbury fece un rumore in gola, e poi disse assai
-indistintamente: «Se ne vanno tutti a [[London|Londra]].»
+Il Duca di Aylesbury emise un suono dalla gola e poi disse, in modo molto indistinto: “Tutti vanno a [[London|Londra]].”
 
-«Se ne vanno tutti a [[London|Londra]]?» ripeté Pommard, con uno sguardo
-attonito.  «Perché?»
+“Tutti andiamo a [[London|Londra]]?” ripeté Pommard, con uno sguardo vuoto. “Perché?”
 
-Questa [[Time|volta]] nessuno rispose, e Pommard dovette tornare all'attacco.
+Questa volta nessuno rispose, quindi Pommard dovette attaccare di nuovo.
 
-«Lo spirito dell'aristocrazia è essenzialmente opposto all'[[greed|avidità]]
-delle città industriali.  Eppure in Francia vi sono davvero uno
-o due nobili tanto vili da esercitare i commerci del carbone e del
-gas, ed esercitarli con accanimento.»  Il Duca di Windsor guardò
-il tappeto.  Il Duca di Aylesbury andò a guardare fuori dalla
-[[Window|finestra]].  Alla fine quest'ultimo disse: «È un po' duro, sapete.
-Bisogna pur curarsi dei propri affari [[Well|anche]] in città.»
+“Lo spirito dell’aristocrazia è essenzialmente opposto alla [[Greed|avidità]] delle città industriali. Eppure in Francia ci sono effettivamente uno o due nobili così vili da gestire il commercio del carbone e del gas, e lo fanno con grande determinazione.” Il Duca di Windsor guardò il tappeto; il Duca di Aylesbury andò a guardare fuori dalla [[Window|finestra]]. Alla fine quest’ultimo disse: “È piuttosto difficile, sai. Bisogna davvero prendersi cura dei propri affari in città, in modo [[Well|efficace]].”
 
-«Non ditelo», gridò il piccolo Francese, balzando in piedi.
-«Vi dico che tutta l'Europa è una sola lotta tra l'affare e l'[[Honour|onore]].
-Se noi non combattiamo per l'[[Honour|onore]], chi lo farà?  Quale altro
-diritto abbiamo noi poveri peccatori a due gambe ai titoli e agli
-scudi inquartati, se non che sosteniamo barcollando qualche idea
-di dare cose che non possono essere pretese e di evitare cose che
-non possono essere punite?  La nostra sola pretesa è di essere
-un muro attraverso la Cristianità contro i mercantucci e gli usurai
-ebrei, contro i Goldstein e i—»
+“Non dirlo,” gridò il piccolo francese, alzandosi in piedi.  
+“Vi dico che tutta Europa è un conflitto tra gli affari e l’[[Honour|onore]]. Se non combattiamo per l’[[Honour|onore]], chi lo farà? Qual altro diritto abbiamo noi, poveri peccatori a due gambe, sui titoli e sugli stemmi nobiliari, se non quello di sostenere, anche se incertamente, un’idea che consiste nel dare ciò che non può essere richiesto e nell’evitare ciò che non può essere punito? Il nostro unico diritto è quello di rappresentare un ostacolo in tutto il Cristianesimo contro quei mercanti e usurai ebrei, contro i Goldstein e tutti gli altri, ”
 
-Il Duca di Aylesbury si girò di scatto con le mani in tasca.
+Il Duca di Aylesbury si girò di scatto, con le mani in tasca.
 
-«Oh, senta un po'», disse, «lei ha letto Lloyd George.  Nessuno
-tranne gli sporchi Radicali può dire una parola contro Goldstein.»
+“Ah, dico io,” disse, “hai letto i discorsi di Lloyd George. Solo quei maledetti Radicali possono dire una parola contro Goldstein.”
 
-«Non posso di certo permettere», disse il Duca più anziano,
-alzandosi piuttosto malfermo, «che il rispettato nome di Lord
-Goldstein—»
+“Certamente non posso permetterlo,” disse il duca più anziano, alzandosi con qualche incertezza, “il rispettabile nome di Lord Goldstein, ”
 
-Intendeva essere imponente, ma c'era qualcosa nell'occhio del
-Francese che non si lascia tanto facilmente impressionare;
-là brillava quell'acciaio che è la mente della Francia,
+Intendeva fare una buona impressione, ma negli occhi di quel francese c'era qualcosa che non si lasciava facilmente influenzare; brillava lì quella forza d'acciaio che rappresenta la mente della Francia.
 
-«Signori», disse, «credo di avere ormai tutti i dettagli.  Voi
-avete governato l'Inghilterra per quattrocento anni.  Per vostra
-stessa ammissione non avete reso la campagna sopportabile agli
-uomini.  Per vostra stessa ammissione avete favorito la vittoria
-della volgarità e del fumo.  E per vostra stessa ammissione siete
-in combutta con quegli stessi arraffasoldi e avventurieri che i
-gentiluomini non hanno altro compito che tenere a bada.  Non so
-che cosa farà il vostro popolo; ma il mio popolo vi ucciderebbe.»
+“Signori,” disse, “credo di avere ora tutti i dettagli necessari. Voi avete governato l’Inghilterra per quattrocento anni; secondo le vostre stesse affermazioni, non avete reso la vita nelle campagne sopportabile per gli uomini. Secondo voi stessi, avete contribuito alla vittoria della volgarità e del fumo. E ancora secondo voi stessi, siete in stretta collaborazione con quegli speculatori e avventurieri che i gentiluomini dovrebbero invece tenere a bada. Non so cosa farà il mio popolo, ma il mio popolo vi ucciderebbe.”
 
-Alcuni secondi dopo aveva lasciato la [[house|casa]] del Duca, e alcune
-ore dopo la tenuta del Duca.
+Alcuni secondi dopo aveva lasciato la [[house|casa]] del Duca, e alcune ore dopo aveva lasciato anche la tenuta del Duca.
 
 -/-
 
-La Gloria del Grigio
+# La gloria del grigio
 
 
 

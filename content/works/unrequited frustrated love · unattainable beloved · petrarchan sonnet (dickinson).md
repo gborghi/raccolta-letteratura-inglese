@@ -36,8 +36,3 @@ tags:
   - concept/love_divine
 ---
 
-
-## Testo / Text
-
-- [To Mr. Theodore Holland](/testi/dickinson/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#l0512_mr_theodore_holland)
-

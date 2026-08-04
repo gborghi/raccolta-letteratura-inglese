@@ -5179,6 +5179,87 @@ to receive me.
 Your most obliged and affectionate sister,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Conclusione
+
+
+
+
+
+
+
+
+
+I
+
+
+
+
+
+#Lady Susan Vernon e il signor Vernon_
+
+
+
+
+
+Langford, dicembre.
+
+
+
+
+
+Mio caro fratello, – non posso più rifiutarmi il piacere di…
+
+#Approfittando della tua gentile invitazione, l’ultima volta che ci siamo visti…
+
+Titolo:  
+“Settimane con te a Churchill… e quindi, se fosse del tutto conveniente…”
+
+Se voi e la signora Vernon siete disposti ad accogliermi in questo momento, spero di poter arrivare entro pochi.
+
+#Giorni per conoscere una sorella che desidero da tanto tempo
+
+Conoscenze… I miei cari amici qui sono davvero molto preoccupati per me.
+
+“Per prolungare il mio soggiorno, ho avuto la loro ospitalità e allegria…”
+
+Disposizioni che li portano troppo verso la società, considerata la mia situazione attuale…
+
+# Lo stato d’animo e l’attesa impaziente dell’ora in cui…
+
+Potrà essere ammesso nella tua deliziosa ritirata.
+
+
+
+“Desidero ardentemente essere conosciuto dai vostri cari bambini, nei cui cuori io…”
+
+#Sarò molto desideroso di ottenere un interesse… Ne avrò presto bisogno.
+
+# Tutta la mia forza… nel momento in cui sto per separarmi da ciò che mi appartiene
+
+Figlia… La lunga malattia di suo padre caro mi ha impedito di darle quanto le spettava.
+
+Quell’attenzione che sia il dovere che l'affetto esigevano entrambi… e io l’ho avuta.
+
+Ci sono troppi motivi per [[Fear|temere]] che la governante a cui l’ho affidato.
+
+#Non era all’altezza della sfida… Per questo ho deciso di affidarla ad altri.
+
+In una delle migliori scuole private della città, dove avrò…
+
+L’opportunità di lasciarla da sola mi ostacola il cammino verso di te… Sono deciso.
+
+#Non si può negare l’ammissione a Churchill… Davvero.
+
+# Mi causa il dolore più acuto sapere che non è nelle tue possibilità…
+
+per ricevermi.
+
+
+
+La tua più devota e affettuosa sorella,
+
 
 
 <span class="atom-split" data-atom="story_02_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story" data-tags="motif/marriage,motif/time,motif/winter,concept/honour,concept/hope,setting/london,character/maria"></span>
@@ -5330,6 +5411,155 @@ Adieu, I will send you a line as soon as I arrive in town.
 
 Yours ever,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+S. VERNON.
+
+
+
+
+
+
+
+
+
+II
+
+
+
+
+
+#Lettera di Lady Susan Vernon a Madame Johnson_
+
+
+
+
+
+Langford.
+
+
+
+
+
+# Eri in errore, mia cara Alicia, nel pensare che fossi legata a questo posto.
+
+Per il resto dell’[[Winter|inverno]]. Mi addolora dover dire quanto foste influenzati negativamente.
+
+Titolo:  
+“Ingannato… poiché raramente ho trascorso tre mesi più piacevolmente di così…”
+
+Quelli che sono appena volati via… Al momento, nulla va liscio.
+
+Le donne della famiglia sono tutte unite contro di me… Tu avevi predetto che sarebbe successo.
+
+# Quando sono arrivato per la prima volta a Langford, Mainwaring era davvero un nome così insolito…
+
+Mi rincuora il fatto che non fossi del tutto privo di preoccupazioni per me stesso… Me ne ricordo.
+
+Mentre guidavo verso la [[house|casa]], pensavo a me stessa: “Mi piace quest’uomo, prego”.
+
+“Per l’amor del cielo, che non succeda nulla di male!” Ma ero decisa a comportarmi con discrezione…
+
+Tenete presente che sono vedova da soli quattro mesi… e devo rimanere il più silenziosa possibile.
+
+Possibile… E lo sono stata davvero, mia cara creatura; non ho ammesso nulla.
+
+#L’attenzione di tutti… tranne quella di Mainwaring. Ho evitato qualsiasi discorso generale.
+
+# Flirtazioni… o altro? Non ho riconosciuto alcuna altra creatura, tra tutte quelle esistenti.
+
+I numeri che si dirigono qui, ad eccezione di Sir James Martin…
+
+Fu data una piccola notifica al fine di allontanarlo da Miss Mainwaring.
+
+Ma se il mondo potesse conoscere il mio movente, mi onorerebbero sicuramente. Io.
+
+È stata definita una madre crudele, ma in realtà si trattava di un impulso sacro…
+
+# Affetto materno: fu il vantaggio rappresentato dalla mia figlia ad spingermi avanti.
+
+# E se quella figlia non fosse la più grande sciocca dell’universo… forse potrei…
+
+Sono stato ricompensato per i miei sforzi, come meritavo.
+
+
+
+Sir James mi ha effettivamente fatto delle proposte riguardo a Frederica; ma Frederica…
+
+#Nata per essere la tortura della mia vita… scelse volontariamente di esserlo.
+
+# Con violenza contro le regole del gioco… Ho pensato fosse meglio abbandonarlo.
+
+#Un piano per il presente… Più volte mi sono pentito di non averlo fatto.
+
+"Ci sposerò io stessa… Se solo fosse un po’ meno debole e spregevole…"
+
+Certo che dovrebbe… Ma devo ammettere di essere piuttosto romantico in questo senso.
+
+# Rispetto… e il fatto che solo la ricchezza non possa soddisfarmi. L’essenza di tutto.
+
+Questo è davvero provocatorio: Sir James se n’è andato, [[Maria]] è estremamente arrabbiata, e.
+
+#La signora Mainwaring, gelosa in modo insopportabile… così gelosa, in breve.
+
+Arrabbiata contro di me, perché, nella furia del suo carattere, non avrei dovuto…
+
+# Sorpresa nel vedere che si rivolgeva al proprio tutore, se solo ne avesse avuto la libertà…
+
+#“Ma ecco lì tuo marito, amica mia…”
+
+La più gentile e affabile azione della sua vita fu gettarla via…
+
+Per tutta la durata del suo [[Marriage|matrimonio]]. Mantieni quindi il suo risentimento, te lo ordino.
+
+Siamo ora in uno stato triste; nessuna [[house|>casa]] è mai stata modificata più di così; l’intero.
+
+I gruppi in lotta sono in guerra, e Mainwaring a malapena osa parlarmi. È arrivato il [[Time|momento]].
+
+Per poter andare via… Ho quindi deciso di lasciarli.
+
+Spero di poter trascorrere una giornata piacevole con te in città entro questa settimana.
+
+“Settimana… Anche se sono ancora meno favorevole al signor Johnson di prima, dovete…”
+
+Vieni da me in Wigmore Street numero 10; ma spero che non sia necessario.
+
+#Perché il signor Johnson, nonostante tutti i suoi difetti, è un uomo a cui…
+
+# Rispettabile… eppure così intimo
+
+Con sua moglie presente, il suo comportamento sprezzante verso di me appare davvero imbarazzante.
+
+
+
+Per raggiungere quel luogo insopportabile, un piccolo villaggio di campagna, devo passare per [[London|Londra]].
+
+“Perché davvero sto andando da Churchill… Perdonami, mio caro amico, è così.”
+
+“La mia ultima risorsa… Se solo ci fosse un altro posto in Inghilterra aperto per me…”
+
+# Preferirei di no. Charles Vernon mi è profondamente antipatico… e ho paura di lui.
+
+#Moglie… A Churchill, però, devo restare finché non avrò qualcosa.
+
+"Mia giovane signora mi accompagna in città, dove..."
+
+#"Depositarla sotto la cura di Miss Summers, in Wigmore Street, fino a quando..."
+
+Diventa un po’ più ragionevole… Lì riuscirà a stabilire buone relazioni.
+
+Come le ragazze provengono tutte da famiglie eccellenti… Il prezzo è enorme.
+
+Molto più di quanto io possa mai tentare di pagare.
+
+
+
+Addio, ti scriverò non appena arriverò in città.
+
+
+
+Il tuo per sempre,
 
 
 
@@ -5545,6 +5775,216 @@ ever,
 Your affectionate brother,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+S. VERNON.
+
+
+
+
+
+
+
+
+
+III
+
+
+
+
+
+_La signora Vernon a Lady De Courcy._
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Mia cara Madre,—mi dispiace molto dirvi che non sarà in nostro
+
+potere mantenere la promessa di trascorrere il Natale con voi; e ci è
+
+impedita quella felicità da una circostanza che non è certo tale da
+
+ricompensarcene. [[Lady Susan]], in una lettera al cognato, ha
+
+dichiarato l’intenzione di farci visita quasi subito; e poiché una
+
+tale visita è con ogni probabilità un mero affare di convenienza, è
+
+impossibile congetturarne la durata. Non ero affatto preparata a
+
+un simile evento, né so ora spiegarmi la condotta di sua signoria;
+
+Langford sembrava proprio il luogo adatto a lei sotto ogni riguardo, sia
+
+[[Well|bene]] per l’elegante e dispendioso tenore di vita che vi si conduce, sia per il suo
+
+particolare attaccamento al signor Mainwaring, che ero ben lungi dall’
+
+aspettarmi una così sollecita distinzione, benché avessi sempre immaginato, dalla sua
+
+crescente [[Friendship|amicizia]] verso di noi dopo la [[Death|morte]] del marito, che avremmo dovuto,
+
+in un qualche momento futuro, essere costretti ad accoglierla. Il signor Vernon, credo,
+
+fu di gran lunga troppo buono con lei quando si trovava nello Staffordshire; il suo
+
+contegno verso di lui, a prescindere dal suo carattere in generale, è stato così
+
+imperdonabilmente astuto e meschino da quando il nostro [[Marriage|matrimonio]] fu per la prima volta in
+
+discussione, che nessuno meno amabile e mite di lui avrebbe potuto
+
+sorvolare su tutto ciò; e sebbene, in quanto vedova del fratello, e in ristrette
+
+condizioni, fosse giusto prestarle un aiuto pecuniario, non
+
+posso fare a meno di ritenere il suo pressante invito a venire da noi a
+
+Churchhill del tutto superfluo. Incline, tuttavia, com’egli sempre è a
+
+pensare il meglio di ognuno, la sua ostentazione di dolore, e le professioni di
+
+rammarico, e i generici propositi di prudenza, sono bastati ad ammorbidirgli
+
+il cuore e a fargli davvero credere nella sua sincerità; ma, quanto a
+
+me, non sono ancora convinta, e per quanto plausibilmente sua signoria abbia ora
+
+scritto, non posso decidermi finché non comprenderò meglio il suo vero
+
+intento nel venire da noi. Potete dunque immaginare, mia cara signora, con
+
+quali sentimenti io attenda il suo arrivo. Avrà bisogno di
+
+tutti quei poteri seducenti per cui è celebrata per guadagnarsi una qualche
+
+parte della mia stima; e certamente mi sforzerò di premunirmi
+
+contro la loro influenza, se non saranno accompagnati da qualcosa di più
+
+sostanziale. Esprime un vivissimo [[Desire|desiderio]] di fare la mia
+
+conoscenza, e menziona con molta grazia i miei figli, ma non sono così
+
+debole da supporre che una donna che si è comportata con noncuranza, se non
+
+con durezza, verso la propria [[Child|figlia]], possa affezionarsi ad alcuno dei miei.
+
+La signorina Vernon dev’essere messa in una scuola a [[London|Londra]] prima che sua madre
+
+venga da noi, il che mi fa piacere, per il suo bene e per il mio. Dev’essere a
+
+suo vantaggio essere separata dalla madre, e una ragazza di sedici anni
+
+che ha ricevuto un’[[Education|educazione]] così misera non potrebbe essere una
+
+compagnia molto desiderabile qui. Reginald desidera da tempo, lo so, vedere l’
+
+affascinante [[Lady Susan]], e confidiamo che si unisca alla nostra compagnia
+
+presto. Sono lieta di sapere che mio padre sta sempre così [[Well|bene]]; e resto, con
+
+il più caro [[Love|affetto]], ecc.,
+
+
+
+[[Catherine Vernon|CATHERINE VERNON]].
+
+
+
+
+
+
+
+
+
+IV
+
+
+
+
+
+_Il signor De Courcy alla signora Vernon._
+
+
+
+
+
+Parklands.
+
+
+
+
+
+Mia cara Sorella,—mi congratulo con te e con il signor Vernon perché state per
+
+accogliere nella vostra famiglia la civetta più consumata d’Inghilterra. Come
+
+una assai insigne seduttrice mi hanno sempre insegnato a considerarla,
+
+ma di recente mi è capitato di udire alcuni particolari della sua
+
+condotta a Langford: i quali provano che ella non si limita a
+
+quel genere di onesto civettare che accontenta i più, ma aspira
+
+alla più squisita soddisfazione di rendere infelice un’intera famiglia.
+
+Col suo contegno verso il signor Mainwaring diede [[Jealousy|gelosia]] e infelicità
+
+alla moglie di lui, e con le sue attenzioni a un giovane in precedenza legato
+
+alla sorella del signor Mainwaring privò un’amabile fanciulla del suo [[Lover|innamorato]].
+
+
+
+Ho appreso tutto ciò dal signor [[smith|Smith]], ora in questi paraggi (ho
+
+pranzato con lui, a Hurst e a Wilford), che viene giusto da Langford
+
+dove è stato quindici giorni con sua signoria, ed è perciò [[Well|bene]]
+
+qualificato a farne comunicazione.
+
+
+
+Che donna dev’essere! Non vedo l’ora di conoscerla, e accetterò senz’altro
+
+il tuo cortese invito, per potermi fare un’idea di quei poteri
+
+ammaliatori che possono tanto—conquistando nello stesso [[Time|tempo]], e nella stessa
+
+[[house|casa]], gli affetti di due uomini, nessuno dei quali era libero
+
+di concederli—e tutto questo senza il fascino della giovinezza! Sono lieto di
+
+constatare che la signorina Vernon non accompagna la madre a Churchhill, giacché
+
+non ha nemmeno le maniere a raccomandarla; e, stando al racconto del signor [[smith|Smith]],
+
+è ugualmente ottusa e altera. Dove [[Pride|orgoglio]] e stupidità si uniscono
+
+non vi può essere dissimulazione degna di nota, e la signorina Vernon sarà
+
+consegnata a un implacabile disprezzo; ma da quanto riesco a capire Lady
+
+Susan possiede un grado di inganno seducente che dev’essere
+
+piacevole osservare e scoprire. Sarò da voi molto presto, e resto
+
+per sempre,
+
+
+
+Il tuo affezionato fratello,
+
 
 
 <span class="atom-split" data-atom="story_04_r_de_courcy" data-title="Lady Susan — R. De Courcy." data-chapter="R De Courcy" data-kind="story" data-tags="motif/marriage,motif/time,motif/well,setting/castle,setting/london"></span>
@@ -5680,6 +6120,138 @@ to you.
 
 Ever yours,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+R. DE COURCY.
+
+
+
+
+
+
+
+
+
+V
+
+
+
+
+
+#Lettera di Lady Susan Vernon a Madame Johnson_
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Ho ricevuto il tuo biglietto, mia cara Alicia, proprio prima di lasciare la città, e
+
+mi rallegro di avere la certezza che il signor Johnson non abbia sospettato nulla del tuo
+
+impegno della sera precedente. È senza dubbio meglio ingannarlo
+
+del tutto, e poiché vuole essere ostinato, bisogna raggirarlo. Sono arrivata
+
+qui sana e salva, e non ho motivo di lamentarmi dell’accoglienza del signor
+
+Vernon; ma confesso di non essere altrettanto soddisfatta del comportamento
+
+della sua signora. È davvero perfettamente [[Well|ben]] educata, e ha l’aria di una
+
+donna di mondo, ma i suoi modi non sono tali da persuadermi
+
+che sia ben disposta nei miei confronti. Volevo che fosse lieta di
+
+vedermi. Fui in quell’occasione quanto più amabile possibile, ma tutto
+
+invano. Non le piaccio. Certo, se si considera che mi _diedi_
+
+una certa pena per impedire a mio cognato di sposarla, questa mancanza
+
+di cordialità non è molto sorprendente, eppure rivela uno spirito gretto e
+
+vendicativo il risentirsi per un progetto che mi mosse sei anni
+
+fa, e che alla fine non ebbe mai successo.
+
+
+
+Talvolta sono incline a pentirmi di non aver permesso a Charles di acquistare il
+
+[[Castle|Castello]] di Vernon, quando fummo costretti a venderlo; ma fu una
+
+circostanza penosa, tanto più che la vendita avvenne proprio al [[Time|tempo]] del
+
+suo [[Marriage|matrimonio]]; e tutti dovrebbero rispettare la delicatezza di quei
+
+sentimenti che non potevano tollerare che la dignità di mio marito fosse
+
+sminuita dal fatto che il fratello minore possedesse la proprietà
+
+di famiglia. Se le cose si fossero potute disporre in modo da evitare la necessità
+
+di lasciare il [[Castle|castello]], se avessimo potuto vivere con Charles e tenerlo
+
+scapolo, sarei stata ben lungi dal persuadere mio marito a
+
+cederlo ad altri; ma Charles stava per sposare la signorina
+
+De Courcy, e i fatti mi hanno dato ragione. Qui ci sono bambini in
+
+abbondanza, e quale vantaggio me ne sarebbe mai venuto dal suo
+
+acquisto di Vernon? Averlo impedito può forse aver dato a sua
+
+moglie un’impressione sfavorevole, ma dove c’è una disposizione a
+
+provare antipatia, un motivo non manca mai; e quanto alle questioni di denaro, ciò non
+
+gli ha impedito di essermi molto utile. Ho davvero della stima
+
+per lui, è così facile ingannarlo! La [[house|casa]] è bella, i
+
+mobili alla moda, e tutto annuncia abbondanza ed eleganza.
+
+Charles è ricchissimo, ne sono certa; quando un uomo ha messo il proprio nome in una
+
+[[house|casa]] bancaria, nuota nell’oro; ma loro non sanno che cosa fare di
+
+quel denaro, frequentano pochissima gente e non vanno mai a [[London|Londra]] se non per affari.
+
+Saremo il più insulsi possibile. Intendo conquistare il cuore di mia
+
+cognata per mezzo dei bambini; conosco già tutti i loro nomi, e sto
+
+per affezionarmi con la più grande sensibilità a uno in
+
+particolare, un giovane Frederic, che prendo sulle ginocchia e su cui sospiro
+
+per amore del suo caro zio.
+
+
+
+Povero Mainwaring! Non occorre che ti dica quanto mi manchi, quanto
+
+sia perpetuamente nei miei pensieri. Al mio arrivo qui ho trovato una sua lettera desolata,
+
+piena di lamentele sulla moglie e sulla sorella, e di
+
+lamenti sulla crudeltà del suo destino. Con i Vernon ho fatto passare la lettera per quella di sua
+
+moglie, e quando gli scriverò dovrà essere sotto
+
+la tua copertura.
+
+
+
+Sempre tua,
 
 
 
@@ -5959,6 +6531,280 @@ feeling so acutely this dreadful separation from you and all whom I
 Yours ever,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+S. VERNON.
+
+
+
+
+
+
+
+
+
+VI
+
+
+
+
+
+_La signora Vernon al signor De Courcy._
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+[[Well|Ebbene]], mio caro Reginald, ho visto questa pericolosa creatura, e devo
+
+dartene qualche descrizione, benché io [[Hope|speri]] che tu possa presto
+
+formarti un giudizio tuo. È davvero straordinariamente graziosa; per quanto
+
+tu possa voler mettere in dubbio le attrattive di una dama non più giovane, io
+
+devo, per parte mia, dichiarare che di rado ho visto una donna
+
+bella come [[Lady Susan]]. È di un delicato pallore, con begli occhi grigi e
+
+ciglia scure; e dal suo aspetto non le si darebbero più
+
+di venticinque anni, benché in realtà debba averne dieci di più. Non ero
+
+certo disposta ad ammirarla, pur avendo sempre sentito dire che era
+
+bella; ma non posso fare a meno di sentire che possiede una non comune
+
+[[Union|unione]] di armonia, splendore e grazia. Il suo modo di rivolgersi a me fu così
+
+gentile, franco e persino affettuoso che, se non avessi saputo quanto
+
+mi abbia sempre detestata per aver sposato il signor Vernon, e che non ci eravamo
+
+mai incontrate prima, l’avrei creduta un’amica affezionata. Si è
+
+inclini, credo, a collegare la sicurezza dei modi alla civetteria, e ad
+
+aspettarsi che un contegno sfrontato accompagni naturalmente una mente sfrontata;
+
+almeno io ero preparata a un grado sconveniente di disinvoltura in
+
+[[Lady Susan]]; ma il suo volto è assolutamente dolce, e la sua voce e i suoi
+
+modi di una mitezza conquistatrice. Mi dispiace che sia così, perché che cos’è questo se non
+
+inganno? Purtroppo la si conosce troppo [[Well|bene]]. È intelligente e
+
+piacevole, ha tutta quella conoscenza del mondo che rende la conversazione
+
+facile, e parla molto [[Well|bene]], con un felice dominio della lingua, che è
+
+troppo spesso usato, credo, per far apparire bianco il nero. Mi ha già
+
+quasi persuasa di essere calorosamente affezionata alla figlia,
+
+benché io sia da tanto tempo convinta del contrario. Ne parla
+
+con tanta tenerezza e tanta ansia, lamentando così amaramente la trascuratezza
+
+della sua [[Education|educazione]], che però presenta come del tutto inevitabile,
+
+che sono costretta a ricordare quante primavere di seguito sua signoria
+
+abbia trascorso in città, mentre la figlia era lasciata nello Staffordshire alle cure
+
+di servitori, o di una governante ben poco migliore, per impedirmi di credere
+
+a ciò che dice.
+
+
+
+Se i suoi modi hanno tanta influenza sul mio cuore risentito, tu
+
+puoi giudicare quanto più fortemente agiscano sull’indole generosa del signor
+
+Vernon. Vorrei poter essere convinta tanto [[Well|bene]] quanto lo è lui che fu
+
+davvero una sua scelta lasciare Langford per Churchhill; e se non fosse
+
+rimasta là per mesi prima di scoprire che il modo di vivere della sua amica
+
+non si addiceva alla sua condizione né ai suoi sentimenti, avrei potuto credere
+
+che il dolore per la perdita di un marito come il signor Vernon, verso il quale la sua
+
+stessa condotta fu tutt’altro che irreprensibile, potesse per un [[Time|tempo]] farle
+
+desiderare il ritiro. Ma non posso dimenticare la lunghezza della sua visita ai
+
+Mainwaring, e quando rifletto sul modo di vita così diverso che
+
+condusse con loro rispetto a quello a cui deve ora sottomettersi, non posso che
+
+supporre che il desiderio di ristabilire la propria reputazione seguendo
+
+sia pur tardi la via del decoro abbia causato il suo allontanamento da una famiglia
+
+dove in realtà doveva essere particolarmente felice. La storia del tuo amico, il signor
+
+[[smith|Smith]], tuttavia, non può essere del tutto esatta, giacché ella corrisponde
+
+regolarmente con la signora Mainwaring. In ogni caso dev’essere esagerata. È
+
+appena possibile che due uomini siano stati da lei così grossolanamente ingannati
+
+in una volta sola.
+
+
+
+Tuo, ecc.
+
+[[Catherine Vernon|CATHERINE VERNON]]
+
+
+
+
+
+
+
+
+
+VII
+
+
+
+
+
+#Lettera di Lady Susan Vernon a Madame Johnson_
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Mia cara Alicia,—sei molto buona a occuparti di Frederica, e te ne
+
+sono grata come segno della tua [[Friendship|amicizia]]; ma poiché non posso avere
+
+alcun [[Doubt|dubbio]] sul calore del tuo affetto, sono ben lungi dall’esigere un
+
+sacrificio così gravoso. È una ragazza sciocca, e non ha nulla che la
+
+raccomandi. Non vorrei dunque, per causa mia, che tu ingombrassi un solo
+
+istante del tuo prezioso [[Time|tempo]] facendola venire in Edward Street,
+
+tanto più che ogni visita è altrettanto sottratta alla grande faccenda
+
+dell’[[Education|educazione]], alla quale desidero davvero si badi finché resta
+
+dalla signorina Summers. Voglio che suoni e canti con un po’ di gusto
+
+e con molta disinvoltura, poiché ha la mia mano e il mio braccio e una
+
+voce discreta. Fui tanto viziata negli anni dell’infanzia che non fui
+
+mai obbligata ad applicarmi a nulla, e di conseguenza sono priva di quelle
+
+grazie che oggi sono necessarie a compiere una bella donna. Non
+
+che io sia sostenitrice della moda corrente di acquisire una perfetta
+
+conoscenza di tutte le lingue, le arti e le scienze. È buttar via il [[Time|tempo]]
+
+diventare padrone di francese, italiano e tedesco: musica, canto e
+
+disegno, ecc., procureranno a una donna qualche applauso, ma non aggiungeranno un
+
+[[Lover|innamorato]] alla sua lista—la grazia e i modi, dopo tutto, sono della massima
+
+importanza. Non intendo dunque che le cognizioni di Frederica
+
+debbano essere più che superficiali, e mi lusingo che non
+
+resterà a scuola abbastanza a lungo da capire a fondo alcunché. [[Hope|Spero]]
+
+di vederla moglie di Sir James entro un anno. Sai su che cosa
+
+fondo la mia [[Hope|speranza]], ed è certamente un buon fondamento, perché la scuola
+
+dev’essere assai umiliante per una ragazza dell’età di Frederica. E, a proposito,
+
+faresti meglio a non invitarla più, per questa ragione, giacché desidero che
+
+trovi la sua situazione il più sgradevole possibile. Sono sicura di Sir James
+
+in qualunque [[Time|momento]], e potrei fargli rinnovare la domanda con due righe. Ti
+
+disturberò intanto perché tu impedisca che egli formi qualche altro attaccamento
+
+quando verrà in città. Invitalo di tanto in tanto in [[house|casa]] tua, e parlagli
+
+di Frederica, perché non la dimentichi. Nel complesso, lodo
+
+moltissimo la mia condotta in questa faccenda, e la considero un felicissimo
+
+esempio di circospezione e di tenerezza. Certe madri avrebbero
+
+insistito perché la figlia accettasse un’offerta così buona al primo
+
+accenno; ma non potevo indurmi a costringere Frederica
+
+a un [[Marriage|matrimonio]] da cui il suo cuore rifuggiva, e invece di adottare
+
+una misura così dura mi propongo soltanto di farne una sua scelta,
+
+rendendole la condizione del tutto incomoda finché non lo accetti—ma
+
+basta con questa noiosa ragazza. Puoi [[Well|bene]] [[Wonder|chiederti]] come io riesca a
+
+passare qui il mio [[Time|tempo]], e la prima settimana fu insopportabilmente noiosa.
+
+Ora, però, cominciamo a rimediare: la nostra compagnia si è accresciuta del fratello della signora Vernon,
+
+un bel giovane che mi promette qualche svago. C’è
+
+in lui qualcosa che piuttosto mi interessa, una sorta di impertinenza e di
+
+familiarità che gli insegnerò a correggere. È vivace, e sembra
+
+intelligente, e quando gli avrò ispirato per me un rispetto maggiore di quello
+
+che i buoni uffici della sorella gli hanno instillato, potrà essere un piacevole galante.
+
+C’è un piacere squisito nel domare uno spirito insolente, nel far
+
+riconoscere la propria superiorità a chi è predisposto all’antipatia. L’ho
+
+già sconcertato col mio calmo riserbo, e sarà mia
+
+cura umiliare l’[[Pride|orgoglio]] di questi De Courcy tanto pieni di [[Self|sé]] ancora più
+
+in basso, per convincere la signora Vernon che i suoi avvertimenti di sorella sono stati
+
+prodigati invano, e per persuadere Reginald che ella mi ha scandalosamente
+
+calunniata. Questo progetto servirà almeno a divertirmi, e a impedirmi di
+
+sentire così acutamente questa terribile separazione da te e da tutti quelli che
+
+[[Love|amo]].
+
+
+
+Il tuo per sempre,
+
 
 
 <span class="atom-split" data-atom="story_06_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story" data-tags="motif/desire,motif/home,motif/love,motif/marriage,motif/storm,motif/time,motif/well,concept/education,concept/honour,concept/vanity,concept/wonder,character/catherine_vernon,character/kent,character/maria"></span>
@@ -6163,6 +7009,208 @@ ever.
 Yours faithfully,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+S. VERNON.
+
+
+
+
+
+
+
+
+
+# VIII
+
+
+
+
+
+_La signora Vernon a Lady De Courcy._
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Mia cara Madre, —non dovete aspettarvi che Reginald torni presto.
+
+#Desidera che vi dica che il bel tempo attuale lo spinge a…
+
+Accettare l’invito del signor Vernon per prolungare il proprio soggiorno nel Sussex… che loro…
+
+“Potrebbero andare a caccia insieme… Intende chiamare i suoi cavalli.”
+
+Immediatamente; è impossibile dire quando lo si potrà vedere a [[Kent]].
+
+# Non nasconderò mai i miei sentimenti riguardo a questo cambiamento da parte tua, mio caro
+
+Madre, anche se penso che sia meglio che non le condivida con me…
+
+#Padre, il cui eccessivo timore per Reginald lo avrebbe esposto a…
+
+Un allarme che potrebbe influenzare seriamente la sua salute e il suo stato d’animo. [[Lady Susan]]
+
+#Ha certamente trovato il modo, in soli quindici giorni, di rendere la mia vita…
+
+“Un fratello come lei… In breve, sono convinto che la sua permanenza qui sia necessaria.”
+
+Oltre il[[Time|tempo]] inizialmente stabilito per il suo ritorno, possono verificarsi altre circostanze.
+
+Con un certo grado di fascinazione per lei, come se desiderasse cacciare insieme a lei…
+
+Titolo:  
+Il signor Vernon… e naturalmente non posso provare alcun piacere in questo.
+
+La durata della sua visita, che altrimenti la compagnia di mio fratello mi avrebbe concesso.
+
+“Sono davvero offesa dall’artificio di questa donna senza principi… Che cosa…”
+
+Una prova più evidente delle sue pericolose capacità non si potrebbe trovare di meglio.
+
+Una distorsione del giudizio di Reginald, che quando entrò nella [[house|>casa]].
+
+#Assolutamente contrario a lei! Nel suo ultimo biglietto mi ha addirittura detto qualcosa…
+
+Dettagli del suo comportamento a Langford, così come li ricevette da…
+
+Un gentiluomo che la conosceva perfettamente. Il che, se vero, deve destare molta attenzione.
+
+# Odio profondo verso di lei, e che anche Reginald stesso provava completamente
+
+Disposto a crederle… Sono sicuro che la sua opinione su di lei fosse altrettanto negativa quanto su chiunque altro.
+
+#Donna in Inghilterra; e quando arrivò per la prima volta, era evidente che…
+
+La considerava una persona che non meritava né delicatezza né rispetto.
+
+Titolo:  
+Sentiva che lei sarebbe stata felice delle attenzioni di qualsiasi uomo.
+
+#Inclinato a flirtare con lei… Il suo comportamento, devo ammetterlo, è stato…
+
+#Un tentativo calcolato per eliminare tale idea… Non ho rilevato nulla di significativo.
+
+Nessuna minima improprietà al suo interno: nulla di [[Vanity|vanità]], di presunzione, di leggerezza.
+
+E lei è così attraente che non dovrei meravigliarmi del suo comportamento.
+
+Essendo così felice con lei… se solo non avesse saputo nulla di ciò che era accaduto prima.
+
+Conoscenza personale… ma, contro ogni logica e convinzione, essere comunque così.
+
+Sono davvero molto soddisfatto di lei, proprio come sono sicuro che lo sia anche lui; questo mi sorprende davvero molto.
+
+La sua ammirazione all’inizio era molto forte, ma non più di quanto fosse naturale.
+
+E non mi meravigliai affatto che fosse profondamente colpito dalla gentilezza e.
+
+La delicatezza delle sue maniere… ma ultimamente, ogni volta che ne ha parlato…
+
+Ha ricevuto elogi davvero straordinari; ieri, inoltre,…
+
+Disse che non poteva essere sorpreso da alcun effetto che potesse avere sul cuore.
+
+Di un uomo dotato di tale bellezza e tali capacità; e quando mi lamentavo…
+
+"#Risposta: la cattiveria del suo carattere… osservò che qualunque cosa potesse accadere…"
+
+Essendo stati errori suoi, dovevano essere attribuiti alla sua trascurata [[Education|educazione]].
+
+E un matrimonio anticipato. E lei era davvero una donna meravigliosa. Questo.
+
+Tendenza a scusare il suo comportamento o a dimenticarlo, nel calore…
+
+L’ammirazione mi infastidisce… E se non sapessi che Reginald è davvero troppo…
+
+A [[Home|casa]] a Churchill, per poter prolungare la propria visita era necessario un invito.
+
+Dovrei pentirmi che il signor Vernon gli abbia dato qualcosa. Le intenzioni di [[Lady Susan]].
+
+Sono naturalmente quelli di un’assoluta civetteria, o un [[Desire|desiderio]] di universalità.
+
+Ammirazione… Non riesco nemmeno per un momento a immaginare che possa avere qualcosa di più.
+
+# Una questione seria da affrontare… ma mi addolora vedere un giovane come Reginald comportarsi in questo modo.
+
+Non si rese affatto conto di essere stato ingannato da lei.
+
+
+
+I am, &c.,
+
+[[Catherine Vernon|CATHERINE VERNON]].
+
+
+
+
+
+
+
+
+
+IX
+
+
+
+
+
+#Mrs. Johnson a Lady S. Vernon_
+
+
+
+
+
+Via Edward.
+
+
+
+
+
+Mio carissimo amico, — Ti congratulo per l’arrivo del signor De Courcy, e io…
+
+Vi consiglio vivamente di sposarlo: sappiamo bene che l’eredità di suo padre…
+
+# Considerabile… e credo certamente inevitabile. Sir Reginald è davvero…
+
+“Debole… e probabilmente non rappresenterà un ostacolo per molto tempo. Ho sentito parlare di quel giovane…”
+
+Molto lodato. E anche se nessuno può davvero meritarti, mio carissimo.
+
+Susan, il signor De Courcy potrebbe rivelarsi utile. Mainwaring andrà su tutte le furie.
+
+Certo, ma si può facilmente calmarlo; inoltre, il punto più importante…
+
+Un dovere di [[Honour|onore]] non potrebbe mai costringervi ad aspettare la sua emancipazione. Io ho.
+
+Ho incontrato Sir James: è venuto in città per qualche giorno la scorsa settimana e mi ha fatto visita.
+
+#Più volte in Edward Street… Gli ho parlato di te e di…
+
+Figlia mia… e lui non ti ha affatto dimenticata; ne sono sicura.
+
+#Sarei felice di sposare uno qualsiasi di voi… Gli ho dato delle speranze…
+
+“La riconciliazione di Frederica e i molti progressi che ha fatto…”
+
+Lo rimproverò per aver avuto una relazione amorosa con [[Maria]] Mainwaring; lui protestò dicendo che.
+
+# Era solo uno scherzo, e abbiamo riso molto insieme a causa sua
+
+#Delusione… e, in breve, tutto è stato molto piacevole. Lui è davvero stupido quanto…
+
+mai.
+
+
+
+Cordialmente vostro,
+
 
 
 <span class="atom-split" data-atom="story_07_alicia" data-title="Lady Susan — Alicia." data-chapter="Alicia" data-kind="story" data-tags="motif/death,motif/desire,motif/love,motif/marriage,concept/doubt,concept/friendship,concept/hope,concept/revenge"></span>
@@ -6292,6 +7340,135 @@ very soon.
 
 Yours, &c.,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+ALICIA.
+
+
+
+
+
+
+
+
+
+X
+
+
+
+
+
+#Lettera di Lady Susan Vernon a Madame Johnson_
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+# Molto grato a te, mio caro Amico, per i tuoi consigli riguardo a…
+
+#Il signor De Courcy, che, ne sono certo, fu scelto con piena convinzione…
+
+“Expedience… anche se non sono del tutto deciso ad attenermici.”
+
+È facile prendere una decisione su qualcosa di così serio come il [[Marriage|matrimonio]], soprattutto per me.
+
+Attualmente non mancano soldi, e forse… fino a quando…
+
+La [[Death|morte]] di un gentiluomo non avrà certo giovato molto a quel matrimonio. È vero.
+
+Titolo:  
+Che io sia abbastanza vano da credere che sia al mio raggiungimento… L’ho fatto.
+
+Consapevole del mio potere, posso ora godermi la soddisfazione di aver trionfato su…
+
+# Una mente predisposta ad odiarmi, e pregiudicata verso tutto il mio passato
+
+Azioni. Spero anche che sua sorella sia convinta di quanto poco.
+
+Rappresentazioni ingiuste di una persona a scapito di un’altra
+
+# Non sarà efficace di fronte all’influenza immediata dell’intelligenza
+
+Modo di comportarsi… Vedo chiaramente che lei è a disagio per i miei progressi nel perseguire il bene.
+
+In base all’opinione di suo fratello, conclude che non mancherà nulla.
+
+Il suo compito era quello di contrastarmi; ma dopo averlo fatto dubitare della giustizia.
+
+A mio parere, posso sfidare il suo giudizio su di me… È stato davvero piacevole farlo.
+
+#Osservare i suoi progressi verso l’intimità…
+
+Titolo:  
+Modo di comportamento modificato a seguito del mio autocontrollo, esercitato con dignità e freddezza…
+
+Il mio comportamento… il suo atteggiamento insolenzo e la sua mancanza di rispetto. La mia condotta…
+
+#È stata sempre protetta con la stessa attenzione fin dall’inizio, e io non mi sono mai comportato in modo diverso…
+
+Una donna affascinante per tutta la mia vita, anche se forse il mio desiderio di.
+
+Il dominio fu mai così decisivo… L’ho completamente sottomesso.
+
+# Sentimenti e conversazioni serie… e lo resero, oserei dire,
+
+Almeno metà di loro erano davvero innamorati di me, senza alcuna finzione.
+
+# Una banale infatuazione… La consapevolezza di Mrs. Vernon di meritarsela completamente
+
+Una sorta di [[Revenge|vendetta]] che possa compiere io stesso a suo nome.
+
+Solo quelle circostanze particolari avrebbero potuto farle capire che sono motivato da.
+
+Qualsiasi comportamento così gentile e senza pretese… Lasciate che pensi…
+
+“Agisca come preferisce, comunque… Non ho mai trovato che il consiglio di…”
+
+Una sorella potrebbe impedire che un giovane si innamori, se lui lo desiderasse. Noi siamo.
+
+Titolo:  
+Avanzando ora verso una certa fiducia… e, in breve, sono probabili che…
+
+Immerso in una sorta di amicizia platonica. Puoi esserne certo da parte mia.
+
+“Non potrebbe mai essere diverso, perché se non fossi legato a un’altra persona…”
+
+“Per quanto possa essere importante per qualcuno, devo fare in modo da non attribuire a me stesso un ruolo troppo significativo…”
+
+#Rimorso per un uomo che aveva osato pensare cose così spregevoli di me. Reginald ha…
+
+Una figura davvero notevole, e certamente degna delle lodi che gli sono state rivolte.
+
+Ma è comunque molto inferiore al nostro amico di Langford… Lui è meno…
+
+Raffinato, meno insinuante di Mainwaring, e in qualche modo…
+
+# Mancanza della capacità di dire quelle parole deliziose che rendono felici gli altri
+
+Di buon [[Humour|umore]] con se stesso e con tutto il mondo. È davvero piacevole in sua compagnia.
+
+Bastava comunque per divertirmi e per rendere felici molte di quelle persone…
+
+Le ore trascorrono in modo molto piacevole, altrimenti sarebbero state dedicate…
+
+Cercando di superare la riservatezza di mia cognata, e ascoltando…
+
+“Le noiose conversazioni di suo marito… La tua descrizione di Sir James è davvero…”
+
+Soddisfacente… e intendo dare a Miss Frederica un indizio delle mie intenzioni.
+
+Molto presto.
+
+
+
+Tuo, ecc.
 
 
 
@@ -6625,6 +7802,340 @@ the dear children for me.
 Your affectionate mother,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+S. VERNON.
+
+
+
+
+
+
+
+
+
+XI
+
+
+
+
+
+_La signora Vernon a Lady De Courcy._
+
+
+
+
+
+Churchhill
+
+
+
+
+
+#Mi sento davvero molto inquieto, mia cara madre, per quanto riguarda Reginald…
+
+Testimoniando l’aumento estremamente rapido dell’influenza di [[Lady Susan]], loro.
+
+Ora, parlando della più stretta delle [[Friendship|amicizie]], spesso impegnati insieme.
+
+# Lunghe conversazioni insieme; e lei è riuscita, con la massima abilità…
+
+#Un inganno per manipolare la sua giudizio al proprio vantaggio. Impossibile.
+
+#Per vedere quanto rapidamente si stabilisse quell’intimità tra di loro…
+
+Allarme, anche se difficilmente posso credere che i piani di [[Lady Susan]] includano anche questo.
+
+[[Marriage|matrimonio]]. Vorrei che poteste riportare Reginald a [[Home|>casa]] in qualche modo plausibile.
+
+Titolo:  
+Falsa pretesa; lui non ha affatto intenzione di lasciarci, e io gliel’ho detto chiaramente.
+
+Titolo:  
+Molti indizi sul precario stato di salute di mio padre… comuni, ma significativi
+
+La decenza mi permetterà di fare ciò che desidero nella mia stessa [[house|casa]]. Il suo potere su di lui deve.
+
+Ora è senza limiti, poiché ha completamente cancellato tutto ciò che era stato prima di lui.
+
+Titolo:  
+Cattive opinioni… e lo persuasero non solo a dimenticare, ma anche a giustificare le sue azioni.
+
+Il comportamento di lei a Langford, descritto dal signor [[smith|Smith]].
+
+L'accusò di aver fatto fidanzare il signor Mainwaring con un giovane uomo.
+
+La signorina Mainwaring era distratta dall’amore che provava per lui, mentre Reginald si opponeva fermamente a questa situazione.
+
+“Quando è arrivato qui, credeva in quelle cose; ora, invece, è convinto che si tratti soltanto di uno scandalo.”
+
+"Invenzione… Me lo ha detto con tale calore nel modo di parlare, che ne traspariva la sincerità."
+
+# Rimpianto per aver creduto il contrario anch’io… Con quanta sincerità lo dico…
+
+Mi dispiace che sia mai entrata in questa [[house|casa]]. Io l’aspettavo sempre con ansia.
+
+Con un senso di disagio… ma lontano dall’originarsi dall’ansia.
+
+Per Reginald… Mi aspettavo di avere un compagno davvero sgradevole al mio fianco, ma…
+
+Non avrei mai potuto immaginare che mio fratello potesse trovarsi in minimo pericolo…
+
+Essendo affascinato da una donna i cui principi erano così in linea con i suoi.
+
+Conosciuto… e il cui carattere disprezzava profondamente. Se riesci a…
+
+Portarlo via sarà una cosa positiva.
+
+
+
+Tuo, ecc.
+
+[[Catherine Vernon|CATHERINE VERNON]].
+
+
+
+
+
+
+
+
+
+# XII
+
+
+
+
+
+_Sir [[Reginald De Courcy]] a suo figlio._
+
+
+
+
+
+Parklands.
+
+
+
+
+
+Titolo:  
+So che i giovani, in generale, non ammettono alcuna domanda, nemmeno da parte di…
+
+Le loro relazioni più strette non si trasformano mai in questioni d’amore. Ma spero, caro mio.
+
+# Reginald, tu sarai superiore a coloro che non concedono nulla…
+
+#L'ansia di un padre… e il senso di privilegio nel rifiutarla
+
+#Fiducia e ignorare i suoi consigli… Devi essere ragionevole: essendo l’unica…
+
+Figlio mio, e rappresentante di una nobile famiglia… il tuo comportamento nella vita…
+
+“È molto interessante per le vostre relazioni… e soprattutto in un contesto di grande importanza.”
+
+Soprattutto in materia di [[Marriage|matrimonio]], c'è davvero tutto in gioco: la tua stessa vita.
+
+Felicità… quella dei tuoi genitori, e il prestigio del tuo nome. Non lo farò.
+
+# Supponiamo che tu decidessi deliberatamente di assumere un impegno assoluto in merito…
+
+La [[Nature|>natura]], senza informare né tua madre né me, o almeno, senza.
+
+“Essendo convinto che dovremmo approvare la tua scelta… ma non posso.”
+
+Titolo:  
+Aiuto… temendo di essere trascinato dentro da quella signora che di recente…
+
+Vi allego, pertanto, un documento relativo a un [[Marriage|matrimonio]] che riguarda l'intera vostra famiglia, sia quella lontana che.
+
+Qualcosa del genere deve essere severamente condannato. L’età stessa di [[Lady Susan]] è già di per sé un fattore importante da considerare.
+
+Obiezione… ma la mancanza di carattere in lei è davvero molto più grave.
+
+La differenza di ben dodici anni appare insignificante in confronto…
+
+#Quantità… Se non foste stati ciechi da una sorta di fascinazione, forse avreste visto…
+
+“Ridicolo da parte mia ripetere ancora una volta gli esempi di suo grave comportamento scorretto…”
+
+Un lato molto noto in generale.
+
+
+
+#La sua trascuratezza verso il marito, il suo incoraggiamento verso altri uomini…
+
+#Spendacciate e dissipazioni così eccessive e note a tutti che nessuno…
+
+Poteva essere ignaro di loro a quel [[Time|tempo]], e ora non può certo esserseli dimenticati.
+
+Per la nostra famiglia, è sempre stata rappresentata con toni più delicati e gentili…
+
+La benevolenza del signor Charles Vernon… eppure, nonostante ciò…
+
+# Generosi sforzi per scusarla… ma sappiamo che lei, in realtà…
+
+Motivi egoistici: si faranno di tutto per impedire il suo [[Marriage|matrimonio]] con.
+
+Catherine.
+
+
+
+# Gli anni trascorsi e le mie crescenti debolezze mi spingono con grande desiderio a incontrarti
+
+“Instaurato nella vita quotidiana… Per la fortuna di una moglie, e per la bontà mia stessa.”
+
+“Farà sì che io rimanga indifferente… ma la sua famiglia e il suo carattere devono essere ugualmente importanti.”
+
+“Impeccabile. Quando la tua scelta è già stata fatta, in modo che non possa esserci alcuna obiezione…”
+
+# Se è fatto apposta per me, allora posso promettervi un consenso pronto e felice… ma deve essere fatto apposta per me.
+
+“È mio dovere oppormi a una competizione che solo un’arte profonda potrebbe rendere possibile.”
+
+#E alla fine la renderà infelice… È possibile che il suo comportamento…
+
+Sorge soltanto dalla [[Vanity|vanità]] o dal desiderio di ottenere l'ammirazione di un uomo.
+
+Chi deve immaginare che sia particolarmente prevenuto contro di lei… ma…
+
+“È più probabile che lei debba puntare a qualcosa di più ambizioso… È povera.”
+
+E naturalmente potrà cercare di formare un’alleanza che sia vantaggiosa per entrambe le parti.
+
+# Lei stessa sa quali sono i suoi diritti, e sa anche che non è in mio potere far nulla al riguardo.
+
+# Impedire che tu erediti la proprietà di famiglia… La mia capacità di causare problemi.
+
+Durante la mia vita, tu saresti stato una sorta di [[Revenge|vendetta]] verso cui poter rivolgere i miei sentimenti.
+
+Sotto nessuna circostanza mi abbasso a fare cose del genere.
+
+
+
+# Confesso sinceramente i miei sentimenti e le mie intenzioni: non desidero lavorare
+
+#Sul tuo coraggio, non sulle tue paure… Ma sulla tua intuizione e sul tuo affetto. Distruggerebbe tutto ciò che hai.
+
+Il più grande conforto della mia vita è sapere che eri sposato con [[Lady Susan Vernon]];
+
+Sarebbe la [[Death|morte]] di quella onesta [[Pride|orgoglio]] con cui ho agito fino ad ora.
+
+“Lo consideravo mio figlio… Mi vergognerei solo di vederlo, di sentire parlare di lui, di pensarci.”
+
+Di lui… Forse non farò nulla di concreto, ma almeno mi aiuterà a tranquillizzare la mia mente.
+
+# Questa lettera… ma ho ritenuto mio dovere informarvi della vostra preferenza per…
+
+[[Lady Susan]] non è un segreto per i tuoi amici, e sono qui per avvertirti riguardo a lei. Io.
+
+Sarei felice di ascoltare le tue ragioni per non credere alle affermazioni del signor [[smith|Smith]].
+
+Intelligenza. Un mese fa non avevi alcun [[Doubt|>dubbio]] sulla sua autenticità. Se tu.
+
+# Non ho alcuna intenzione diversa da quella di godermelo semplicemente
+
+# Conversazione di una donna intelligente… per un breve periodo… e di resa
+
+Ammirazione soltanto per la sua [[Beauty|bellezza]] e le sue capacità, senza essere accecati da.
+
+#"Se li attribuirai alle sue colpe, mi restituirai la felicità… ma se invece…"
+
+“Non posso farlo… Spiegami almeno cosa ha causato una situazione così grave.”
+
+Un cambiamento nel tuo giudizio su di lei.
+
+
+
+I am, &c., &c,
+
+[[Reginald De Courcy|Reginald de Courcy]]
+
+
+
+
+
+
+
+
+
+# XIII
+
+
+
+
+
+# Lady De Courcy alla signora Vernon.
+
+
+
+
+
+Parklands.
+
+
+
+
+
+Mia cara Catherine, —Purtroppo ero confinata nella mia stanza quando è arrivato il tuo ultimo messaggio…
+
+#Letter arrivò… una lettera che causò un raffreddore così forte da influenzare gravemente i miei occhi, impedendomi di vedere chiaramente.
+
+Leggendolo personalmente, non ho potuto rifiutare la proposta di tuo padre…
+
+Leggimelo ad alta voce… Attraverso questo modo, entrò in conoscenza con me, il che fu molto importante per me.
+
+# Angoscia e tutti i tuoi timori per tuo fratello… Avevo intenzione di…
+
+# Scrivere personalmente a Reginald non appena i miei occhi me lo permetteranno, per fargli notare…
+
+Per quanto ne fossi capace, il pericolo di un rapporto troppo intimo con qualcuno del genere.
+
+Una donna abile come [[Lady Susan]], per un giovane della sua età e di alto rango.
+
+Aspettative… Volevo anche ricordargli che siamo insieme.
+
+Ora completamente [[Alone|solo]], ho davvero bisogno che lui sia al mio fianco per mantenerci di buon umore.
+
+In queste lunghe serate invernali. Chissà se avrebbe fatto qualche differenza.
+
+Ora non si può ancora decidere nulla, ma sono estremamente infastidito dal comportamento di Sir Reginald…
+
+Dovrebbe essere a conoscenza di qualcosa riguardo a una questione che, come avevamo previsto, lo avrebbe colpito profondamente.
+
+“Preoccupato… Ha percepito tutte le tue paure non appena ha letto la tua lettera.”
+
+E sono sicuro che da allora quel pensiero non abbia più lasciato la sua mente. Lui…
+
+Scrisse a Reginald una lunga lettera in cui raccontava tutto ciò.
+
+In particolare, chiedeva una spiegazione su ciò che potesse aver sentito dalla signora…
+
+#Susan smentisce le recenti notizie scioccanti. La sua risposta è stata questa…
+
+Titolo:  
+La mattina, che vi invierò insieme ad altro materiale, poiché credo che vi piacerà leggerlo.
+
+# Vorrei che fosse più soddisfacente… ma sembra essere stato scritto in un modo così…
+
+La determinazione a pensare bene di [[Lady Susan]], le sue assicurazioni riguardo a.
+
+Il [[Marriage|matrimonio]], ecc., non riescono a tranquillizzarmi. Tuttavia, dico tutto ciò che posso.
+
+Per soddisfare tuo padre… e sicuramente ora è meno preoccupato.
+
+# La lettera di Reginald. Quanto è provocatoria, cara Catherine…
+
+Un ospite indesiderato non dovrebbe solo impedirci di incontrarci…
+
+#Natale… ma che occasione di tanto fastidio e problemi! Bacio
+
+I cari bambini, per me.
+
+
+
+Tua affezionata madre,
+
 
 
 <span class="atom-split" data-atom="story_09_c_de_courcy" data-title="Lady Susan — C. De Courcy." data-chapter="C De Courcy" data-kind="story" data-tags="archetype/child,archetype/lover,motif/marriage,motif/time,motif/well,concept/education,concept/honour,concept/hope,concept/jealousy,concept/truth,concept/union,character/frederica_vernon"></span>
@@ -6808,6 +8319,190 @@ have been most idly created, you will deeply mortify and distress me.
 
 I am, &c., &c.,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+C. DE COURCY.
+
+
+
+
+
+
+
+
+
+# XIV
+
+
+
+
+
+# Il signor De Courcy a Sir Reginald.
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+#Mio caro Signore, – Ho appena ricevuto la sua lettera, che mi ha molto…
+
+“Mi ha lasciato più sbalordito di quanto mai fossi stato prima… Devo ringraziare mia sorella.”
+
+Titolo:  
+Immagino che, rappresentandomi in modo così negativo da danneggiarmi…
+
+“La tua opinione… e tutto questo allarme che mi viene dato. Non so davvero perché lei debba farlo…”
+
+# scegliere di mettere in ansia se stessa e la propria famiglia prevedendo un evento futuro
+
+Titolo:  
+Qualcosa che, posso affermarlo con certezza, nessuno altro all’infuori di lei avrebbe mai pensato.
+
+Possibile. attribuire un simile piano a [[Lady Susan]] significherebbe sottrarre qualcosa a.
+
+# Ogni sua pretesa di possedere quella straordinaria comprensione…
+
+Nemici mai l’hanno negata; e altrettanto basse devono essere le mie pretese.
+
+“Una questione di buon senso… se si sospetta che il mio comportamento rifletta interessi coniugali”
+
+“Per lei… La differenza d’età tra noi deve rappresentare un ostacolo insormontabile… E io…”
+
+“Vi prego, mio caro padre, di calmare la vostra mente e di smettere di nutrire queste idee.”
+
+# Un sospetto che possa nuocere molto di più alla tua tranquillità che a…
+
+#Le nostre intese… Non posso avere altra opinione se decido di rimanere con Lady.
+
+Susan, quindi per godersi brevemente questa situazione ([[Time|per un breve periodo of time]], come hai tu stessa detto, )
+
+La conversazione di una donna dal grande potenziale intellettuale. Se la signora.
+
+#Vernon avrebbe permesso che il mio affetto per lei e…
+
+Durante la mia visita, sarebbe stato più giusto da parte sua comportarsi così verso di noi tutti.
+
+Ma mia sorella ha pregiudizi così profondi che non c’è alcuna speranza di convincerla.
+
+Contro [[Lady Susan]]. A causa di un legame con suo marito, che di per sé.
+
+Onora entrambi, ma non riesce a perdonare i tentativi fatti per impedirlo.
+
+La loro [[Union|unione]], che è stata attribuita all’egoismo di [[Lady Susan]];
+
+Ma in questo caso, come in molti altri, il mondo ha agito in modo estremamente negligente.
+
+#Offendere quella signora, ipotizzando il peggio sui suoi motivi…
+
+Il comportamento di quella persona era stato dubbioso. [[Lady Susan]] aveva sentito qualcosa al riguardo.
+
+# In svantaggio materiale della mia sorella, al fine di convincerla…
+
+La felicità del signor Vernon, a cui lei era sempre molto legata, sarebbe…
+
+Completamente distrutto dal [[Marriage|matrimonio]]. E questa circostanza, sebbene.
+
+Spiega i veri motivi del comportamento di [[Lady Susan]] e elimina ogni possibile equivoco.
+
+La colpa che le è stata così spesso attribuita potrebbe anche convincerci di come…
+
+#Nessuno dovrebbe attribuirsi il merito di questo rapporto generale; poiché nessuno…
+
+Nessun personaggio, per quanto onesto e retto, può sfuggire alla malvagità delle calunnie.
+
+#Mia sorella, nella tranquillità della pensione, con pochissime opportunità…
+
+# Tendenza al male: non possiamo evitare le critiche, quindi non dobbiamo agire in modo avventato
+
+Condannare coloro che, vivendo nel mondo e circondati da tentazioni…
+
+# Deve essere accusato di errori di cui si sa che è in grado di commetterli
+
+Commettendo.
+
+
+
+# Mi biasimo profondamente per aver creduto così facilmente a quelle calunnie
+
+Storie inventate da Charles [[smith|Smith]] a scapito di [[Lady Susan]], proprio come me.
+
+Ora sono convinta di quanto abbiano tradito le sue intenzioni. Per quanto riguarda la signora.
+
+La [[Jealousy|invidia]] di Mainwaring era completamente frutto della sua immaginazione; la sua stessa descrizione.
+
+Il sospetto che lei avesse un rapporto con l’[[Lover|innamorato]] di Miss Mainwaring era quasi altrettanto infondato.
+
+#Sir James Martin fu attratto da quella giovane signora per aiutarla…
+
+Attenzione: essendo un uomo ricco, era facile capire che…
+
+Le opinioni si estendono anche al [[Marriage|matrimonio]]. È ben noto che la signorina M. è assolutamente.
+
+Titolo:  
+In cerca di un marito… e quindi nessuno può provare compassione per lei
+
+#Perdendo, a causa dell’attrazione maggiore di un’altra donna, l’opportunità di…
+
+Essere in grado di rendere un uomo degno completamente infelice. [[Lady Susan]] era davvero.
+
+Titolo:  
+Dall’intenzione di compiere una tale conquista, e dopo aver scoperto quanto calorosamente la signorina…
+
+Mainwaring odiava la tradizione del suo [[Lover|amante]], decisa, nonostante il signor.
+
+E le più insistenti suppliche della signora Mainwaring affinché lasciasse la famiglia…
+
+#Ha motivo di pensare che abbia ricevuto proposte serie da Sir…
+
+# James… ma il suo immediato allontanamento da Langford non appena scoperto…
+
+Il suo attaccamento la rende innocente in quella questione, secondo ogni logica comune.
+
+Onestà. Ne sarà certamente convinto, mio caro Signore, e.
+
+#Imparerà a rendere giustizia al carattere di una persona profondamente ferita
+
+Donna. So che[[Lady Susan]], venendo a Churchill, era guidata soltanto.
+
+Con le intenzioni più onorevoli e affettuose; la sua prudenza e parsimonia…
+
+# Esempi da seguire: il suo rispetto per il signor Vernon è pari persino ai suoi meriti.
+
+#E il suo desiderio di guadagnarsi la buona opinione di mia sorella merita qualcosa di meglio
+
+“Restituisce più di quanto abbia ricevuto. Come madre, è impeccabile…”
+
+Un affetto profondo per il suo [[Child|>bambino]] si manifesta nel metterlo nelle mani di chi.
+
+La sua [[Education|istruzione]] riceverà l'attenzione dovuta; ma poiché lei non possiede.
+
+# La cieca e debole parzialità della maggior parte delle madri… Lei viene accusata di volerlo così.
+
+# Tenerezza materna. Ogni persona sensata, comunque, saprà come…
+
+Apprezzo molto e lodo il suo affetto ben diretto; mi unirà a me in.
+
+Sperando che [[Frederica Vernon]] possa rivelarsi più meritevole di quanto sia stata finora.
+
+Cresciuta sotto la tenera cura di sua madre… Ora, mio caro padre, ho scritto…
+
+I miei veri sentimenti verso [[Lady Susan]]; capirete da questa lettera quanto.
+
+#Ammiro molto le sue capacità e apprezzo il suo carattere; ma se tu…
+
+Non sono del tutto convinto dalle mie assicurazioni complete e solenni riguardo ai tuoi timori…
+
+Se siete stati creati solo per il nulla, mi causerete grande umiliazione e dolore.
+
+
+
+I am, &c., &c.,
 
 
 
@@ -7066,6 +8761,260 @@ due to themselves, and the opinion of the world.
 
 Yours ever,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+R. DE COURCY.
+
+
+
+
+
+
+
+
+
+XV
+
+
+
+
+
+_La signora Vernon a Lady De Courcy._
+
+
+
+
+
+Churchhill
+
+
+
+
+
+Mia cara madre,—ti restituisco la lettera di Reginald, e mi rallegro con tutto il
+
+cuore che mio padre ne sia rassicurato: diglielo, con le mie
+
+congratulazioni; ma, detto tra noi, devo ammettere che essa ha soltanto
+
+convinto _me_ che mio fratello non ha alcuna intenzione _attuale_ di
+
+sposare [[Lady Susan]], non che non corra il rischio di farlo fra tre
+
+mesi. Egli dà un resoconto assai plausibile della condotta di lei a
+
+Langford; vorrei che fosse vero, ma le sue informazioni devono venire da
+
+lei stessa, e sono meno disposta a crederci che a deplorare il grado
+
+di intimità che sussiste tra loro, implicito nel discutere di un simile
+
+argomento. Mi dispiace di essere incorsa nel suo dispiacere, ma non posso aspettarmi
+
+nulla di meglio finché è tanto ardente nel giustificare [[Lady Susan]].
+
+È davvero molto severo con me, eppure [[Hope|spero]] di non essere stata
+
+affrettata nel mio giudizio su di lei. Povera donna! benché io abbia ragioni sufficienti
+
+per la mia antipatia, non posso fare a meno di compiangerla ora, poiché è in vera
+
+angoscia, e con troppo motivo. Ha ricevuto stamattina una lettera dalla
+
+signora presso cui ha collocato la figlia, che chiede che la signorina
+
+Vernon sia immediatamente ritirata, essendo stata sorpresa in un
+
+tentativo di fuga. Perché, o dove intendesse andare, non
+
+risulta; ma, poiché la sua situazione pare fosse ineccepibile, è
+
+una cosa triste, e naturalmente assai angosciante per [[Lady Susan]]. Frederica
+
+deve avere ormai sedici anni, e dovrebbe avere più giudizio; ma da ciò che sua
+
+madre insinua, temo che sia una ragazza ostinata. È stata
+
+però tristemente trascurata, e sua madre dovrebbe ricordarlo. Il signor
+
+Vernon è partito per [[London|Londra]] non appena lei ebbe deciso il da
+
+farsi. Deve, se possibile, persuadere la signorina Summers a lasciare che Frederica
+
+resti con lei; e se non vi riesce, condurla a Churchhill
+
+per il momento, finché non si trovi per lei un’altra sistemazione. Sua
+
+signoria intanto si consola passeggiando lungo il
+
+boschetto con Reginald, suscitando tutti i suoi teneri sentimenti,
+
+suppongo, in questa penosa circostanza. Me ne ha parlato
+
+moltissimo. Parla straordinariamente [[Well|bene]]; temo di essere
+
+ingenerosa, altrimenti direi _troppo_ [[Well|bene]] per sentire così profondamente; ma non
+
+andrò a cercare i suoi difetti; potrebbe essere la moglie di Reginald! Il cielo non lo
+
+voglia! ma perché dovrei vederci più chiaro di chiunque altro? Il signor Vernon
+
+dichiara di non aver mai visto angoscia più profonda della sua, al ricevere
+
+la lettera; e il suo giudizio è forse inferiore al mio? Era molto
+
+contraria a che a Frederica fosse permesso di venire a Churchhill, e
+
+con ragione, poiché sembra una specie di ricompensa per una condotta che meriterebbe ben
+
+altro; ma era impossibile portarla altrove, e non
+
+dovrà restare qui a lungo. «Sarà assolutamente necessario», disse
+
+lei, «come tu, mia cara sorella, ben comprenderai, trattare mia figlia
+
+con una certa severità mentre è qui; una necessità dolorosissima, ma mi
+
+_sforzerò_ di sottomettermi ad essa. Temo di essere stata spesso troppo
+
+indulgente, ma il carattere della mia povera Frederica non ha mai sopportato l’opposizione
+
+[[Well|bene]]: devi sostenermi e incoraggiarmi; devi insistere sulla necessità del
+
+rimprovero se mi vedi troppo indulgente.» Tutto ciò suona molto ragionevole.
+
+Reginald è tanto sdegnato contro quella povera sciocca ragazza! Certo non torna
+
+a credito di [[Lady Susan]] che egli sia così aspro verso sua
+
+figlia; l’idea che se ne è fatta deve derivare dalla descrizione della madre.
+
+[[Well|Ebbene]], qualunque sia il suo destino, abbiamo la consolazione di sapere che
+
+abbiamo fatto il possibile per salvarlo. Dobbiamo affidare l’esito a un potere più
+
+alto.
+
+
+
+Sempre tua, ecc.,
+
+[[Catherine Vernon|CATHERINE VERNON]].
+
+
+
+
+
+
+
+
+
+XVI
+
+
+
+
+
+#Lady Susan alla signora Johnson_
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Mai, carissima Alicia, in vita mia fui tanto irritata come da una lettera
+
+giunta stamattina dalla signorina Summers. Quell’orribile figlia mia ha
+
+tentato di fuggire. Non avevo idea che fosse un simile diavoletto
+
+prima; sembrava avere tutta la mollezza dei Vernon; ma nel ricevere
+
+la lettera in cui dichiaravo le mie intenzioni riguardo a Sir James,
+
+ha davvero tentato la fuga; almeno, non so altrimenti spiegarmi
+
+il suo gesto. Intendeva, suppongo, andare dai Clarke nello
+
+Staffordshire, poiché non ha altre conoscenze. Ma sarà
+
+punita: lo sposerà. Ho mandato Charles in città per accomodare
+
+le cose se può, perché non la voglio affatto qui. Se la signorina
+
+Summers non vuole tenerla, dovrai trovarmi un’altra scuola, a meno che
+
+non riusciamo a farla sposare subito. La signorina S. scrive che non è riuscita
+
+a ottenere dalla ragazza alcuna ragione della sua straordinaria
+
+condotta, il che mi conferma nella spiegazione che ne avevo già data.
+
+Frederica è troppo timida, credo, e troppo intimorita da me per fare la spia,
+
+ma se la mitezza di suo zio dovesse cavarle qualcosa di bocca, non ho
+
+paura. Confido di saper rendere la mia versione buona quanto la sua.
+
+Se sono vanitosa di qualcosa, è della mia eloquenza. La considerazione e
+
+la stima seguono il dominio della parola con la stessa certezza con cui l’ammirazione accompagna la
+
+[[Beauty|bellezza]], e qui ho occasioni a sufficienza per esercitare il mio
+
+talento, poiché la maggior parte del mio [[Time|tempo]] trascorre in conversazione.
+
+
+
+Reginald non è mai tranquillo se non siamo soli, e quando il tempo
+
+è tollerabile, percorriamo il boschetto per ore intere. Nel complesso mi piace
+
+molto [[Well|bene]]; è intelligente e ha molto da dire, ma è
+
+talvolta impertinente e molesto. C’è in lui una specie di ridicola
+
+delicatezza che esige la spiegazione più completa di tutto ciò che
+
+può aver sentito a mio svantaggio, e non è mai soddisfatto finché non
+
+crede di aver accertato il principio e la fine di ogni cosa. Questa è
+
+una specie d’[[Love|amore]], ma confesso che non si raccomanda particolarmente
+
+ai miei occhi. Preferisco infinitamente lo spirito tenero e generoso di
+
+Mainwaring, il quale, penetrato dalla più profonda convinzione del mio merito,
+
+è certo che qualunque cosa io faccia debba essere giusta; e guardo con un certo
+
+disprezzo le fantasie indagatrici e dubbiose di quel cuore che
+
+sembra sempre discutere sulla ragionevolezza delle proprie emozioni. Mainwaring
+
+è davvero, senza alcun paragone, superiore a Reginald—superiore in
+
+tutto, tranne che nella facoltà di stare con me! Pover’uomo! è molto
+
+tormentato dalla [[Jealousy|gelosia]], della qual cosa non mi dispiace, ché non conosco miglior
+
+sostegno dell’[[Love|amore]]. Mi ha assillata perché gli permetta di venire in
+
+questa contea, e di alloggiare qui vicino _incog_.; ma ho proibito
+
+ogni cosa del genere. Sono imperdonabili quelle donne che dimenticano ciò che
+
+devono a sé stesse, e l’opinione del mondo.
+
+
+
+Il tuo per sempre,
 
 
 
@@ -7343,6 +9292,278 @@ little cousins are all very fond of her.
 Your affectionate daughter,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+S. VERNON.
+
+
+
+
+
+
+
+
+
+XVII
+
+
+
+
+
+_La signora Vernon a Lady De Courcy._
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Mia cara madre, — il signor Vernon è tornato [[thursday|giovedì]] [[Night|sera]], portando con sé la
+
+nipote. [[Lady Susan]] aveva ricevuto da lui un biglietto con la posta di quel
+
+giorno, che la informava come Miss Summers si fosse assolutamente rifiutata di permettere
+
+che Miss Vernon rimanesse nel suo collegio; eravamo dunque preparati
+
+al suo arrivo, e li abbiamo attesi con impazienza per tutta la sera. Sono
+
+arrivati mentre prendevamo il tè, e non ho mai visto creatura più
+
+spaventata di Frederica quando entrò nella stanza. [[Lady Susan]], che aveva
+
+versato [[Tears|lacrime]] poco prima, e mostrato grande agitazione all'idea
+
+dell'incontro, la ricevette con perfetta padronanza di [[Self|sé]], e senza
+
+tradire il minimo moto di tenerezza. Le rivolse appena la parola, e
+
+quando Frederica scoppiò in [[Tears|lacrime]] appena ci fummo seduti, la condusse
+
+fuori dalla stanza, e non tornò per un certo [[Time|tempo]]. Quando lo fece, aveva gli
+
+occhi molto arrossati ed era agitata quanto prima. Non abbiamo più visto
+
+sua figlia. Il povero Reginald era oltremodo addolorato nel vedere
+
+la sua bella amica in tale angoscia, e la osservava con così tenera
+
+sollecitudine, che io, la quale di tanto in tanto la sorprendevo a scrutare il
+
+volto di lui con esultanza, ho perso del tutto la pazienza. Questa patetica
+
+rappresentazione è durata tutta la sera, e una messinscena così ostentata e artificiosa
+
+mi ha interamente convinta che in realtà non provasse nulla.
+
+Sono più in collera con lei che mai, da quando ho visto sua figlia; la
+
+povera ragazza ha un'aria così infelice che mi si stringe il cuore. [[Lady Susan]] è
+
+certamente troppo severa, perché Frederica non sembra avere il tipo di
+
+carattere che renda necessaria la severità. Appare del tutto timida, avvilita
+
+e pentita. È molto graziosa, benché non bella quanto sua madre,
+
+né affatto simile a lei. La sua carnagione è delicata, ma né così chiara
+
+né così florida come quella di [[Lady Susan]], e ha proprio il tratto dei Vernon nel
+
+volto, il viso ovale e i miti occhi scuri, e c'è una singolare
+
+dolcezza nel suo sguardo quando parla a suo zio oppure a me, poiché
+
+trattandola con gentilezza ci siamo naturalmente guadagnati la sua gratitudine.
+
+
+
+Sua madre ha insinuato che il suo carattere sia intrattabile, ma non ho mai
+
+visto un volto che rivelasse meno del suo una qualche cattiva indole; e da
+
+quel che posso vedere del contegno dell'una verso l'altra, l'invariabile
+
+severità di [[Lady Susan]] e il silenzioso avvilimento di Frederica, sono indotta
+
+a credere, come già prima, che la prima non nutra vero [[Love|amore]] per la
+
+figlia, e non le abbia mai reso giustizia né l'abbia trattata con affetto.
+
+Non ho potuto avere alcuna conversazione con mia nipote; è
+
+timida, e credo di vedere che ci si dà una certa pena per impedirle
+
+di stare molto con me. Nulla di soddisfacente traspare quanto alla ragione
+
+della sua fuga. Il suo zio di buon cuore, potete star certa, era troppo
+
+timoroso di affliggerla per farle molte domande durante il tragitto.
+
+Vorrei che fosse stato possibile a me andare a prenderla invece che a lui. Credo che
+
+avrei scoperto la [[Truth|verità]] nel corso di un
+
+[[Journey|viaggio]] di trenta miglia. Il piccolo pianoforte è stato spostato in questi ultimi giorni,
+
+su richiesta di [[Lady Susan]], nel suo spogliatoio, e Frederica vi trascorre
+
+gran parte della giornata, esercitandosi, come si dice; ma raramente
+
+sento qualche suono quando passo di lì; che cosa faccia là dentro io
+
+non lo so. Ci sono libri in abbondanza, ma non ogni ragazza che
+
+è cresciuta allo stato brado nei primi quindici anni della sua vita sa o
+
+vuole leggere. Povera creatura! la vista dalla sua [[Window|finestra]] non è molto
+
+istruttiva, perché quella stanza dà sul prato, sapete, con il
+
+boschetto da un lato, dove può vedere sua madre passeggiare per un'ora
+
+intera in fitta conversazione con Reginald. Una ragazza dell'età di
+
+Frederica dovrebbe essere davvero infantile, se cose simili non la colpiscono. Non è
+
+imperdonabile dare un tale esempio a una figlia? Eppure Reginald
+
+continua a ritenere [[Lady Susan]] la migliore delle madri, e continua a condannare
+
+Frederica come una ragazza indegna! È convinto che il suo tentativo di
+
+fuga non nascesse da alcuna causa giustificabile, e non avesse alcuna provocazione. Di certo
+
+non posso dire che l'_avesse_, ma poiché Miss Summers dichiara che
+
+Miss Vernon non mostrò segno di ostinazione o di ritrosia durante tutto
+
+il suo soggiorno in Wigmore Street, finché non fu scoperta in questo disegno, non
+
+posso prestar fede così facilmente a ciò che [[Lady Susan]] gli ha fatto credere, e vuole
+
+far credere anche a me, cioè che fosse soltanto un'insofferenza della disciplina e un
+
+[[Desire|desiderio]] di sottrarsi alle lezioni dei maestri a far nascere il
+
+piano della fuga. Oh Reginald, com'è asservito il tuo giudizio! Egli
+
+osa a stento ammettere che sia bella, e quando parlo della sua
+
+[[Beauty|bellezza]], risponde soltanto che i suoi occhi non hanno alcuno splendore! A volte è
+
+certo che sia carente d'intelletto, altre volte che soltanto il suo carattere
+
+sia in difetto. Insomma, quando una persona deve sempre ingannare, è
+
+impossibile essere coerenti. [[Lady Susan]] trova necessario che
+
+Frederica abbia sempre torto, e probabilmente ha talvolta giudicato
+
+opportuno accusarla di cattiva [[Nature|indole]] e talvolta lamentarne la mancanza
+
+di senno. Reginald non fa che ripetere le parole di sua signoria.
+
+
+
+Resto, ecc., ecc.,
+
+[[Catherine Vernon|CATHERINE VERNON]].
+
+
+
+
+
+
+
+
+
+XVIII
+
+
+
+
+
+_Dalla stessa alla stessa._
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Mia cara madre, — sono molto lieta di scoprire che la mia descrizione di Frederica
+
+Vernon vi ha interessata, perché la credo davvero degna della vostra
+
+stima; e quando vi avrò comunicato un'idea che mi è venuta di recente,
+
+le vostre benevole impressioni in suo favore, ne sono certa, si accresceranno.
+
+Non posso fare a meno di immaginare che si stia affezionando a mio fratello. Così
+
+spesso vedo i suoi occhi fissi sul volto di lui con una notevole espressione
+
+di pensosa ammirazione. Egli è certamente molto bello; e ancor più,
+
+c'è nei suoi modi una schiettezza che deve riuscire assai accattivante,
+
+e sono sicura che lei la sente tale. In genere assorta e pensosa, il suo
+
+volto si illumina sempre in un sorriso quando Reginald dice qualcosa
+
+di divertente; e, per quanto serio possa essere l'argomento di cui
+
+sta discorrendo, m'inganno di molto se una sola sillaba da lui pronunciata le
+
+sfugge. Vorrei rendere lui consapevole di tutto questo, perché conosciamo il potere della
+
+gratitudine su un cuore come il suo; e se l'ingenuo
+
+affetto di Frederica potesse staccarlo da sua madre, potremmo benedire il giorno che
+
+l'ha portata a Churchhill. Credo, mia cara madre, che non
+
+la disapprovereste come figlia. È estremamente giovane, certo,
+
+ha avuto una pessima [[Education|educazione]] e un terribile esempio di leggerezza in sua
+
+madre; eppure posso dichiarare che la sua indole è eccellente, e
+
+le sue capacità naturali molto buone. Benché del tutto priva di
+
+raffinatezze, non è affatto così ignorante come ci si potrebbe aspettare
+
+di trovarla, poiché ama i libri e trascorre la maggior parte del suo [[Time|tempo]] a
+
+leggere. Sua madre la [[Leaves|lascia]] più a sé stessa di quanto facesse, e io la
+
+tengo con me il più possibile, e mi sono data gran pena per vincere
+
+la sua timidezza. Siamo molto buone amiche, e benché non apra mai
+
+bocca davanti a sua madre, parla abbastanza quando è [[Alone|sola]] con me da rendere
+
+chiaro che, se fosse trattata come si deve da [[Lady Susan]], apparirebbe sempre
+
+in luce assai migliore. Non può esservi cuore più gentile e affettuoso,
+
+né modi più cortesi, quando agisce senza costrizioni; e i suoi
+
+piccoli cugini le vogliono tutti molto bene.
+
+
+
+La vostra affezionata figlia,
+
 
 
 <span class="atom-split" data-atom="story_12_c_vernon" data-title="Lady Susan — C. Vernon" data-chapter="C Vernon" data-kind="story" data-tags="motif/journey,motif/love,motif/marriage,motif/nature,motif/time,concept/beauty,concept/fear,concept/hope,concept/nature,character/frederica_vernon,character/reginald_de_courcy"></span>
@@ -7474,6 +9695,137 @@ town. Miss Frederica must therefore wait a little.
 
 Yours ever,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# C. Vernon
+
+
+
+
+
+
+
+
+
+# XIX
+
+
+
+
+
+#Lady Susan alla signora Johnson_
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Titolo:  
+So che siete ansiosi di sapere cosa succede a Frederica…
+
+“Forse penserà che io sia negligente per non aver scritto prima… Lei è arrivata con…”
+
+Suo zio è morto l’ultima [[thursday|>Giovedì]] di due settimane fa; naturalmente, non ho perso un attimo a.
+
+Chiedendo il motivo del suo comportamento, presto mi resi conto di…
+
+# La prospettiva…  
+Essere stati perfettamente nel giusto nell’attribuirlo alla mia stessa lettera… Quella prospettiva…
+
+Il fatto la spaventò così tanto che, in un misto di vera…
+
+“Con la sua natura capricciosa e sciocca, decise di uscire da quella situazione…”
+
+La [[house|casa]], e proseguendo direttamente verso il palco, si diresse dai suoi amici, i Clark.
+
+E durante il suo [[Journey|viaggio]] era davvero riuscita a percorrere una distanza pari alla lunghezza di due strade.
+
+#Quando fortunatamente fu mancata, inseguita e raggiunta… Così accadde.
+
+Il primo notevole successo di Miss [[Frederica Vernon]]; e, se vogliamo.
+
+Considerando che fu raggiunto all’età relativamente giovane di sedici anni…
+
+Ci sono tutte le ragioni per prevedere un futuro glorioso e prestigioso per lei.
+
+# Eccessivamente provocato, tuttavia, da questa parata di formalità…
+
+Impedì alla signorina Summers di tenere con sé la ragazza; e sembra proprio così.
+
+“Un esempio davvero straordinario di cura e attenzione, considerando la situazione familiare di mia figlia.”
+
+# Connessioni… che mi fanno supporre soltanto che quella signora sia guidata da…
+
+La [[Fear|>paura]] di non riuscire mai a recuperare i suoi soldi. Comunque sia, Frederica.
+
+“Torna tra le mie mani… E, non avendo altro da farle fare,…”
+
+Occupata a portare avanti il piano di [[Romance|romanzo]] iniziato a Langford. In realtà, lei è.
+
+Innamorarsi di [[Reginald De Courcy]]. Disobbedire a sua madre.
+
+Rifiutare un’offerta ineccepibile non basta: i suoi sentimenti devono…
+
+Titolo:  
+Può essere concesso anche senza l’approvazione della madre… Non ho mai visto una ragazza…
+
+“La sua età rendeva lei particolarmente adatta a essere oggetto di interesse e ammirazione da parte dell’umanità… I suoi sentimenti, però…”
+
+# Piuttosto acuta… e mostra tutto con una grazia così naturale e incantevole…
+
+per poter nutrire la speranza, anche se remota, che tutto ciò fosse solo ridicolo, e.
+
+Disprezzata da ogni uomo che la vede.
+
+
+
+La ingenuità non è mai appropriata nelle questioni d’amore. E quella ragazza è nata proprio per questo.
+
+Un sempliciotto che lo possiede, sia per [[Nature|>natura]] che per affettazione. Io ancora no.
+
+“Certi che Reginald capisca cosa sta facendo… ma non è certo importante.”
+
+Conseguenza: ora lei è un oggetto di indifferenza per lui, e…
+
+Sarebbe oggetto di disprezzo se capisse i suoi sentimenti. La sua [[Beauty|bellezza]] è.
+
+“Molto apprezzata dai Vernon, ma non ha alcun effetto su di lui… Lei è lì.”
+
+Gode di grande favore presso sua zia, perché è molto diversa da lei…
+
+“Me stessa, ovviamente. È proprio la compagna ideale per la signora Vernon…”
+
+Il titolo originale in inglese è: "Dearly loves to be firm, and to have all the sense and all the wit of". In italiano, questa frase potrebbe essere tradotta come: "Ami molto essere
+
+La conversazione con se stessa: “Frederica non riuscirà mai a superarmi”. Quando lei…
+
+“Per prima cosa, mi adoperai con ogni sforzo per impedirle di trascorrere molto tempo con sua zia.”
+
+Ma mi sono rilassato, poiché credo di potermi fidare del fatto che lei osserverà…
+
+# Regole che ho stabilito per il loro dibattito… Ma non pensate che…
+
+Con tutta questa indulgenza, per un momento ho abbandonato il mio piano nei suoi confronti…
+
+[[Marriage|matrimonio]]. No; sono irremovibilmente deciso su questo punto, anche se non ho ancora.
+
+Ancora non ho deciso del tutto il modo in cui farlo… Non dovrei…
+
+Scelto di far svolgere qui gli affari, e discusso con i saggi…
+
+# Le teste del signor e della signora Vernon… e al momento non posso permettermi di andare…
+
+Città. Pertanto, la signorina Frederica dovrà aspettare ancora un po’.
+
+
+
+Il tuo per sempre,
 
 
 
@@ -7723,6 +10075,250 @@ Adieu, my dear mother.
 Yours, &c.,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+S. VERNON.
+
+
+
+
+
+
+
+
+
+XX
+
+
+
+
+
+_La signora Vernon a Lady De Courcy._
+
+
+
+
+
+Churchhill
+
+
+
+
+
+Abbiamo con noi in questo momento un ospite del tutto inatteso, mia cara madre: è
+
+arrivato ieri. Ho sentito una carrozza alla porta mentre sedevo
+
+con i miei bambini durante il loro pranzo; e supponendo che ci fosse bisogno di me,
+
+ho lasciato poco dopo la stanza dei bambini, ed ero a metà delle scale, quando
+
+Frederica, pallida come la cenere, è salita di corsa e mi è passata accanto precipitandosi nella sua
+
+camera. L’ho seguita all’istante e le ho chiesto che cosa fosse accaduto.
+
+«Oh!» disse, «è venuto: Sir James è venuto, e che cosa farò?»
+
+Questa non era una spiegazione; la pregai di dirmi che cosa intendesse. In
+
+quel momento fummo interrotte da un colpo alla porta: era
+
+Reginald, che veniva, per incarico di [[Lady Susan]], a chiamare Frederica di sotto.
+
+«È il signor De Courcy!» disse, arrossendo violentemente. «La mamma ha mandato
+
+a chiamarmi; devo andare.» Scendemmo tutti e tre insieme; e vidi mio
+
+fratello che esaminava con sorpresa il volto atterrito di Frederica. Nella
+
+sala della colazione trovammo [[Lady Susan]] e un giovane dall’aspetto
+
+signorile, che ella presentò col nome di Sir James Martin: proprio
+
+quella persona, come forse ricorderete, che si diceva ella si fosse data
+
+premura di staccare dalla signorina Mainwaring; ma la conquista, a quanto pare, non era
+
+destinata a sé stessa, oppure l’ha poi trasferita alla
+
+figlia; poiché Sir James è ora disperatamente [[Love|innamorato]] di Frederica, e
+
+con pieno incoraggiamento da parte della mamma. La povera ragazza, tuttavia, ne sono certa,
+
+prova avversione per lui; e benché la sua persona e i suoi modi vadano molto [[Well|bene]], egli
+
+appare, tanto al signor Vernon quanto a me, un giovane assai debole di mente. Frederica
+
+sembrava così timida, così confusa, quando entrammo nella stanza, che provai per
+
+lei un’immensa compassione. [[Lady Susan]] si comportò con grande premura verso il suo
+
+ospite; eppure mi parve di poter scorgere che non provava alcun particolare
+
+piacere nel vederlo. Sir James parlò moltissimo, e mi rivolse molte
+
+cortesi scuse per la libertà che si era preso venendo a
+
+Churchhill, mescolando al suo discorso risate più frequenti di quanto
+
+l’argomento richiedesse; ripeté molte cose più e più volte, e disse a Lady
+
+Susan per tre volte di aver visto la signora Johnson qualche sera prima.
+
+Di tanto in tanto si rivolgeva a Frederica, ma più spesso a sua madre.
+
+La povera ragazza rimase seduta per tutto questo [[Time|tempo]] senza aprire bocca, con gli occhi
+
+bassi e il colorito che mutava a ogni istante; mentre Reginald osservava tutto
+
+ciò che accadeva in perfetto [[Silence|silenzio]]. Alla fine [[Lady Susan]], stanca, credo,
+
+della propria situazione, propose una passeggiata; e lasciammo i due gentiluomini
+
+insieme, per andare a indossare le nostre mantelline. Mentre salivamo, [[Lady Susan]] chiese
+
+il permesso di trattenersi qualche momento con me nel mio spogliatoio, poiché
+
+desiderava ardentemente parlarmi in privato. Ve la condussi dunque,
+
+e non appena la porta fu chiusa, disse: «Non sono mai stata più
+
+sorpresa in vita mia che dall’arrivo di Sir James, e la sua repentinità
+
+richiede qualche scusa nei vostri confronti, mia cara cognata; benché per _me_, come
+
+madre, sia oltremodo lusinghiera. Egli è così straordinariamente affezionato a mia
+
+figlia che non poteva vivere più a lungo senza vederla. Sir James
+
+è un giovane di indole amabile e di eccellente carattere; forse
+
+un po’ troppo chiacchierone, ma un anno o due correggeranno
+
+_questo:_ e sotto ogni altro aspetto è un partito così desiderabile per
+
+Frederica, che ho sempre osservato il suo attaccamento col più grande
+
+piacere; e sono persuasa che voi e mio cognato darete a questa
+
+unione la vostra cordiale approvazione. Non avevo mai prima accennato ad alcuno la
+
+probabilità che essa avvenisse, perché pensavo che finché
+
+Frederica restava in collegio fosse meglio non se ne sapesse nulla; ma
+
+ora, essendo convinta che Frederica sia troppo grande per sottomettersi ancora
+
+alla reclusione del collegio, e avendo perciò cominciato a considerare la sua [[Union|unione]]
+
+con Sir James come non molto lontana, avevo intenzione entro pochi giorni di
+
+mettere voi e il signor Vernon al corrente di tutta la faccenda. Sono certa, mia
+
+cara cognata, che scuserete il mio aver taciuto così a lungo, e converrete
+
+con me che simili circostanze, finché per una qualunque ragione restano in
+
+sospeso, non possono mai essere celate con troppa cautela. Quando avrete la
+
+felicità di concedere la vostra dolce piccola Catherine, fra qualche anno,
+
+a un uomo irreprensibile tanto per parentela quanto per carattere,
+
+saprete ciò che provo ora; benché, grazie al Cielo, non possiate avere tutte le mie
+
+ragioni di rallegrarvi di un simile evento. Catherine sarà ampiamente
+
+provvista, e non dovrà, come la mia Frederica, a una fortunata
+
+sistemazione le comodità della vita.» Concluse esigendo le mie
+
+congratulazioni. Gliele porsi in modo alquanto impacciato, credo; perché, in
+
+verità, l’improvvisa rivelazione di una faccenda così importante mi tolse la
+
+facoltà di parlare con una qualche chiarezza. Ella però mi ringraziò con grande
+
+affetto per il mio gentile interessamento al bene suo e di sua
+
+figlia; e poi disse: «Non sono incline alle dichiarazioni di maniera, mia cara
+
+signora Vernon, e non ho mai avuto il comodo talento di simulare
+
+sentimenti estranei al mio cuore; e perciò confido che mi crederete
+
+quando dichiaro che, per quanto avessi udito lodarvi prima di
+
+conoscervi, non immaginavo che avrei mai potuto [[Love|amarvi]] come vi amo ora; e
+
+devo aggiungere che la vostra [[Friendship|amicizia]] verso di me mi è tanto più
+
+gradita in quanto ho motivo di credere che siano stati fatti alcuni tentativi
+
+per prevenirvi contro di me. Vorrei soltanto che coloro, chiunque
+
+essi siano, ai quali devo così gentili intenzioni, potessero vedere i
+
+termini in cui ora ci troviamo insieme, e comprendere il vero affetto
+
+che nutriamo l’una per l’altra; ma non voglio trattenervi oltre. Che Dio vi
+
+benedica per la vostra bontà verso me e la mia bambina, e vi conservi tutta la
+
+felicità presente.» Che cosa si può dire di una donna simile, mia cara madre?
+
+Tanta serietà, tanta solennità di espressione! eppure non posso fare a meno di
+
+sospettare della [[Truth|verità]] di tutto ciò che dice. Quanto a Reginald, credo
+
+che non sappia che cosa pensare della faccenda. Quando Sir James giunse,
+
+apparve tutto stupore e perplessità; la sciocchezza del giovane
+
+e la confusione di Frederica lo assorbirono interamente; e benché un
+
+breve colloquio privato con [[Lady Susan]] abbia poi avuto il suo effetto, egli
+
+è ancora ferito, ne sono certa, dal fatto che ella permetta le attenzioni di un simile uomo verso
+
+sua figlia. Sir James si è invitato con grande disinvoltura a restare
+
+qui qualche giorno: sperava non lo giudicassimo strano, era consapevole che fosse
+
+assai impertinente, ma si prendeva la libertà di un parente; e ha concluso
+
+augurandosi, con una risata, di poterlo essere davvero molto presto. Persino
+
+[[Lady Susan]] è parsa un poco sconcertata da questa sfrontatezza; in cuor
+
+suo, ne sono persuasa, desiderava sinceramente che se ne andasse. Ma qualcosa si deve
+
+fare per questa povera ragazza, se i suoi sentimenti sono quali io e suo
+
+zio crediamo che siano. Non deve essere sacrificata al calcolo o
+
+all’[[Ambition|ambizione]], e non deve essere lasciata a soffrire per il timore di ciò. La
+
+ragazza il cui cuore sa distinguere [[Reginald De Courcy]] merita, per quanto
+
+egli possa trascurarla, una sorte migliore che essere la moglie di Sir James Martin. Non
+
+appena riuscirò a trovarla [[Alone|sola]], scoprirò la [[Truth|verità]] autentica; ma ella
+
+sembra voler evitarmi. [[Hope|Spero]] che ciò non derivi da qualcosa di
+
+sbagliato, e che non debba scoprire di aver pensato troppo [[Well|bene]] di lei.
+
+Il suo contegno verso Sir James rivela certamente la più grande consapevolezza
+
+e il più grande imbarazzo, ma non vi scorgo nulla che somigli a un incoraggiamento.
+
+Addio, mia cara madre.
+
+
+
+Tuo, ecc.
+
 
 
 <span class="atom-split" data-atom="story_14_c_vernon" data-title="Lady Susan — C. Vernon." data-chapter="C Vernon" data-kind="story" data-tags="concept/hope"></span>
@@ -7792,6 +10388,72 @@ but I remember the risk.
 
 I am, Sir, your most humble servant,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+C. VERNON.
+
+
+
+
+
+
+
+
+
+# XXI
+
+
+
+
+
+# Miss Vernon a Mr. De Courcy.
+
+
+
+
+
+Signore, spero che mi perdonerete questa libertà; sono costretto a farlo per motivi.
+
+“La più grande angoscia… Altrimenti mi vergognerei di disturbarvi. Sono davvero…”
+
+# Dolenti per Sir James Martin… e senza alcuna altra via d’uscita
+
+Aiutandomi solo scrivendoti, poiché mi è vietato persino parlare.
+
+“#A mio zio e mia zia sull’argomento; e dato che è così, io…”
+
+#Temo che la mia richiesta possa sembrare nient’altro che un eufemismo…
+
+Come se mi occupassi della lettera e non dello spirito degli ordini di mia madre.
+
+Ma se non vi schierate dalla mia parte e non la convincete a interrompere questa relazione, io…
+
+#Non riesco proprio a sopportarlo… Nessun altro al mondo potrebbe farlo.
+
+Potresti avere tutte le possibilità di avere la meglio con lei… Se lo desideri.
+
+# Pertanto, vi prego di avere la grande gentilezza di schierarvi dalla mia parte
+
+#"Convincerla e convincerla a far allontanare Sir James mi renderà ancora più grato."
+
+Per te, le parole non sono sufficienti per esprimere ciò che provo… L’ho sempre detestato.
+
+# Da subito: non è un’idea improvvisa, vi assicuro, signore; io l’ho sempre pensato così.
+
+Lo riteneva sciocco, impertinente e sgradevole… E ora è cresciuto.
+
+Più brutto che mai… Preferirei lavorare per guadagnarmi da vivere piuttosto che sposarlo. Davvero.
+
+#Non so come scusarmi abbastanza per questa lettera… So che è davvero importante.
+
+“Una libertà così grande… So bene quanto sarà terribilmente arrabbiata mamma.”
+
+Ma ricordo quel rischio.
+
+
+
+# Il vostro umile servitore
 
 
 
@@ -7999,6 +10661,208 @@ resentment of her injured mother.
 Your affectionate
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+F. S. V.
+
+
+
+
+
+
+
+
+
+XXII
+
+
+
+
+
+#Lady Susan alla signora Johnson_
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Questo è insopportabile! Mia carissima amica, non sono mai stata così furiosa,
+
+e devo sfogarmi scrivendo a te, che so entrerai in
+
+tutti i miei sentimenti. Chi mai è arrivato martedì se non Sir James Martin! Immagina
+
+il mio stupore, e il mio dispetto—perché, come tu [[Well|bene]] sai, non ho mai desiderato che lui
+
+fosse visto a Churchhill. Che peccato che tu non abbia conosciuto
+
+le sue intenzioni! Non contento di venire, si è addirittura invitato da sé a
+
+restare qui qualche giorno. Avrei potuto avvelenarlo! Ho tratto il meglio da
+
+questo, tuttavia, e ho raccontato la mia storia con gran [[success|successo]] alla signora Vernon, la quale,
+
+quali che fossero i suoi veri sentimenti, non ha detto nulla in opposizione ai
+
+miei. Ho anche preteso che Frederica si comportasse cortesemente con Sir James,
+
+e le ho fatto capire che ero assolutamente decisa a farla
+
+sposare con lui. Ha detto qualcosa della sua infelicità, ma è stato tutto. Sono
+
+da qualche [[Time|tempo]] più che mai risoluta a questo matrimonio, per
+
+aver visto il rapido crescere del suo affetto per Reginald, e per non
+
+sentirmi sicura che la consapevolezza di tale affetto non potesse alla fine
+
+destarne uno corrisposto. Per quanto un sentimento fondato solo sulla compassione
+
+debba rendere entrambi spregevoli ai miei occhi, non ero affatto certa che tale
+
+non potesse esserne la conseguenza. È vero che Reginald non si era in alcun
+
+modo raffreddato verso di me; eppure di recente ha nominato Frederica
+
+spontaneamente e senza necessità, e una volta ha detto qualcosa in lode del
+
+suo aspetto. _Lui_ era tutto stupore all’apparire del mio ospite,
+
+e da principio osservò Sir James con un’attenzione che mi compiacqui
+
+di vedere non priva di [[Jealousy|gelosia]]; ma sfortunatamente mi fu impossibile
+
+tormentarlo davvero, poiché Sir James, benché estremamente galante con me,
+
+fece ben presto capire a tutta la compagnia che il suo cuore era votato a
+
+mia figlia. Non ebbi gran difficoltà a convincere De Courcy, quando fummo
+
+[[Alone|soli]], che ero perfettamente giustificata, tutto considerato, nel
+
+desiderare quel matrimonio; e l’intera faccenda parve assai comodamente
+
+sistemata. Nessuno di loro poté fare a meno di accorgersi che Sir James non era un
+
+Salomone; ma avevo assolutamente proibito a Frederica di lamentarsi con
+
+Charles Vernon o con sua moglie, ed essi non avevano dunque pretesto per
+
+intromettersi; benché la mia impertinente cognata, credo, attendesse solo
+
+l’occasione per farlo. Tutto, però, procedeva con calma e
+
+tranquillità; e, benché contassi le ore del soggiorno di Sir James, il mio animo
+
+era del tutto soddisfatto dello stato delle cose. Immagina, dunque, ciò che
+
+devo provare all’improvviso sconvolgimento di tutti i miei piani; e per giunta
+
+da una parte da cui meno avevo ragione di aspettarmelo. Reginald è venuto
+
+stamattina nel mio spogliatoio con un’insolita solennità nel
+
+volto, e dopo qualche preambolo mi ha informata a chiare lettere che
+
+desiderava ragionare con me sulla sconvenienza e sulla crudeltà di
+
+permettere a Sir James Martin di corteggiare mia figlia contro le sue
+
+inclinazioni. Ero tutta stupore. Quando ho visto che non lo si poteva
+
+distogliere dal suo proposito con una risata, ho chiesto con calma una spiegazione, e ho voluto
+
+sapere da che cosa fosse spinto, e da chi incaricato, a rimproverarmi.
+
+Mi ha allora detto, mescolando nel suo discorso qualche insolente complimento
+
+e qualche inopportuna espressione di tenerezza, che ho ascoltato con
+
+perfetta indifferenza, che mia figlia lo aveva messo a parte di certe
+
+circostanze riguardanti lei stessa, Sir James e me, che gli avevano dato
+
+grande inquietudine. In breve, ho scoperto che dapprima gli aveva
+
+addirittura scritto per chiedere il suo intervento, e che, nel
+
+ricevere la sua lettera, egli aveva parlato con lei dell’argomento,
+
+per comprenderne i particolari, e per accertarsi dei suoi
+
+veri desideri. Non ho alcun [[Doubt|dubbio]] che la ragazza abbia colto l’occasione
+
+per dichiarargli apertamente il suo [[Love|amore]]. Ne sono convinta dal modo in
+
+cui ne ha parlato. Buon pro gli faccia un simile [[Love|amore]]! Disprezzerò sempre
+
+l’uomo che può compiacersi di una passione che non ha mai
+
+desiderato ispirare, né chiesto che gli fosse confessata. Detesterò sempre
+
+entrambi. Non può nutrire vera stima per me, altrimenti non l’avrebbe
+
+ascoltata; e _lei_, con quel suo cuoricino ribelle e
+
+quei sentimenti indelicati, gettarsi sotto la protezione di un giovane
+
+uomo con cui non aveva mai scambiato due parole prima d’ora! Sono
+
+ugualmente sbalordita dall’impudenza di _lei_ e dalla credulità di _lui_. Come ha osato
+
+credere a ciò che ella gli ha detto a mio sfavore! Non avrebbe dovuto sentirsi
+
+certo che dovevo avere motivi inoppugnabili per tutto ciò che avevo fatto?
+
+Dov’era allora la sua fiducia nel mio buonsenso e nella mia bontà? Dov’era lo
+
+sdegno che un vero [[Love|amore]] gli avrebbe dettato contro la persona
+
+che mi diffamava—e per giunta una mocciosa, una [[Child|bambina]], senza talento né
+
+[[Education|istruzione]], che gli era sempre stato insegnato a disprezzare? Sono rimasta calma per
+
+un po’ di [[Time|tempo]]; ma anche la più grande sopportazione può essere vinta, e
+
+[[Hope|spero]] di essere stata poi abbastanza tagliente. Egli si sforzò, a lungo si
+
+sforzò, di ammorbidire il mio risentimento; ma è davvero una [[Fool|sciocca]] quella donna
+
+che, mentre viene insultata da un’accusa, si lascia piegare dai complimenti. Alla
+
+fine mi ha lasciata, irritato quanto me; e ha mostrato la sua
+
+collera più di me. Io ero del tutto fredda, ma lui si è abbandonato alla più violenta
+
+indignazione; posso dunque aspettarmi che si plachi tanto più presto, e
+
+forse la sua sarà svanita per sempre, mentre la mia si troverà ancora
+
+fresca e implacabile. Ora è chiuso nel suo appartamento, dove l’ho
+
+sentito andare uscendo dal mio. Quanto sgradevoli, si direbbe, devono essere
+
+le sue riflessioni! ma i sentimenti di certe persone sono incomprensibili. Non
+
+mi sono ancora calmata abbastanza da poter vedere Frederica. _Lei_ non
+
+dimenticherà tanto presto gli avvenimenti di questo giorno; scoprirà di
+
+aver riversato invano il suo tenero racconto d’[[Love|amore]], e di essersi esposta
+
+per sempre al disprezzo del mondo intero, e al più severo
+
+risentimento della madre offesa.
+
+
+
+La tua affezionata
+
 
 
 <span class="atom-split" data-atom="story_16_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story" data-tags="archetype/fool,motif/home,motif/leaves,motif/nature,motif/night,motif/time,concept/fear,concept/nature,concept/truth,concept/wonder,setting/london,character/frederica_vernon"></span>
@@ -8152,6 +11016,156 @@ was effected. I finish as I began, with the warmest congratulations.
 
 Yours ever, &c.,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+S. VERNON.
+
+
+
+
+
+
+
+
+
+XXIII
+
+
+
+
+
+_La signora Vernon a Lady De Courcy._
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Lascia che mi congratuli con te, carissima Madre! La faccenda che ci ha dato
+
+tanta inquietudine volge a una felice conclusione. La nostra prospettiva è
+
+quanto mai lieta, e poiché le cose hanno preso una piega così favorevole,
+
+mi dispiace assai di averti mai confidato i miei timori; giacché il
+
+piacere di sapere che il pericolo è passato è forse pagato a caro
+
+prezzo con tutto ciò che hai sofferto in precedenza. Sono così
+
+agitata dalla gioia che a stento riesco a reggere la penna; ma sono decisa
+
+a mandarti poche righe per mezzo di James, affinché tu abbia qualche
+
+spiegazione di ciò che tanto deve stupirti, ossia che Reginald
+
+stia per tornare a Parklands. Circa mezz'ora fa sedevo
+
+con Sir James nella sala della colazione, quando mio fratello mi chiamò fuori
+
+dalla stanza. Vidi subito che qualcosa non andava; il suo
+
+colorito era acceso, e parlava con grande emozione; conosci i suoi
+
+modi ardenti, mia cara madre, quando il suo animo è coinvolto. «Catherine»,
+
+disse, «oggi torno a [[Home|casa]]; mi dispiace lasciarti, ma devo
+
+andare: è passato molto tempo da quando ho visto mio padre e mia madre. Sto
+
+per mandare avanti James subito con i miei cavalli da caccia; se dunque hai
+
+qualche lettera, può portarla lui. Io stesso non sarò a [[Home|casa]]
+
+prima di mercoledì o [[thursday|giovedì]], poiché passerò per [[London|Londra]], dove ho
+
+degli affari; ma prima di lasciarti», proseguì, parlando con voce più
+
+bassa, e con energia ancora maggiore, «devo avvertirti di una cosa:
+
+non lasciare che [[Frederica Vernon]] sia resa infelice da quel Martin. Vuole
+
+sposarla; sua madre favorisce il partito, ma lei non ne sopporta
+
+l'idea. Sta' certa che parlo con la più piena convinzione della
+
+[[Truth|verità]] di ciò che dico; so che Frederica è resa infelice dal fatto che Sir
+
+James continui a restare qui. È una fanciulla dolce, e merita una sorte
+
+migliore. Mandalo via subito; non è che uno [[Fool|sciocco]]: ma cosa intenda sua madre,
+
+lo sa solo il Cielo! Addio», aggiunse, stringendomi la mano con
+
+fervore; «non so quando mi rivedrai; ma ricorda
+
+ciò che ti dico di Frederica; _devi_ farti carico di vedere che le sia
+
+resa giustizia. È una ragazza amabile, e ha un ingegno assai superiore
+
+a quello che le abbiamo riconosciuto». Poi mi lasciò, e corse
+
+di sopra. Non tentai di fermarlo, perché sapevo quali dovessero essere i suoi
+
+sentimenti. La [[Nature|natura]] dei miei, mentre l'ascoltavo, non occorre che tenti
+
+di descriverla; per un minuto o due rimasi nello stesso punto,
+
+sopraffatta da uno [[Wonder|stupore]] davvero quanto mai gradevole; eppure ci volle
+
+qualche riflessione per essere tranquillamente felice. Circa dieci minuti dopo
+
+il mio ritorno in salotto [[Lady Susan]] entrò nella stanza. Conclusi,
+
+naturalmente, che lei e Reginald avessero litigato; e cercai con
+
+ansiosa curiosità sul suo volto una conferma della mia convinzione. Maestra
+
+nell'inganno, tuttavia, apparve perfettamente indifferente, e dopo
+
+aver chiacchierato di argomenti insignificanti per un breve [[Time|tempo]], mi disse: «Apprendo
+
+da Wilson che stiamo per perdere il signor De Courcy: è vero che
+
+[[Leaves|parte]] da Churchhill stamattina?» Risposi che era così. «Non ci ha detto
+
+nulla di tutto questo ieri [[Night|sera]]», disse ridendo, «e nemmeno stamattina
+
+a colazione; ma forse non lo sapeva nemmeno lui. I giovani
+
+sono spesso avventati nelle loro decisioni, e non più repentini nel prenderle
+
+di quanto siano incostanti nel mantenerle. Non mi sorprenderei se alla fine
+
+cambiasse idea, e non partisse». Poco dopo lasciò la
+
+stanza. Confido però, mia cara madre, che non abbiamo motivo di [[Fear|temere]]
+
+un mutamento del suo presente proposito; le cose sono andate troppo oltre. Devono
+
+aver litigato, e anche a proposito di Frederica. La sua calma mi stupisce.
+
+Che gioia sarà la tua nel rivederlo; nel vederlo ancora
+
+degno della tua stima, ancora capace di fare la tua felicità! Quando
+
+scriverò la prossima volta potrò dirti che Sir James se n'è andato, Lady
+
+Susan è sconfitta, e Frederica in pace. Abbiamo molto da fare, ma
+
+sarà fatto. Non vedo l'ora di sapere come questo stupefacente cambiamento
+
+sia stato ottenuto. Concludo come ho cominciato, con le più calorose congratulazioni.
+
+
+
+Sempre tua, ecc.,
 
 
 
@@ -8355,6 +11369,204 @@ herself violently against marrying Sir James.” “And can your ladyship
 [[Wonder|wonder]] that she should?” cried I with some warmth; “Frederica has an
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CATH. VERNON.
+
+
+
+
+
+
+
+
+
+XXIV
+
+
+
+
+
+_Dalla stessa alla stessa._
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Poco immaginavo, mia cara Madre, quando spedii la mia ultima lettera,
+
+che la deliziosa agitazione d'animo in cui allora mi trovavo avrebbe subito
+
+un rovesciamento così rapido, così [[Melancholy|malinconico]]. Non rimpiangerò mai abbastanza
+
+di averti scritto. Eppure chi avrebbe potuto prevedere ciò che è
+
+accaduto? Mia cara madre, ogni [[Hope|speranza]] che solo due ore fa mi rendeva così
+
+felice è svanita. Il litigio tra [[Lady Susan]] e Reginald è
+
+ricomposto, e siamo tutti come prima. Un solo punto è guadagnato.
+
+Sir James Martin è stato congedato. Che cosa dobbiamo aspettarci ora? Sono
+
+davvero delusa; Reginald era quasi partito, il suo [[Horse|cavallo]] era stato ordinato
+
+e quasi condotto alla porta; chi non si sarebbe sentito al sicuro? Per mezz'ora
+
+ho atteso di momento in momento la sua partenza. Dopo aver
+
+spedito la lettera per te, sono andata dal signor Vernon, e sono rimasta con lui
+
+nella sua stanza a discutere l'intera faccenda, e poi ho deciso di cercare
+
+Frederica, che non vedevo dalla colazione. L'ho incontrata sulle
+
+scale, e ho visto che piangeva. «Mia cara zia», disse, «lui
+
+parte—il signor De Courcy parte, ed è tutta colpa mia. Temo che tu
+
+sarai molto in collera con me, ma davvero non immaginavo che finisse così.»
+
+«[[Love|Amore]] mio», risposi, «non credere necessario scusarti con me per
+
+questo. Mi sentirò in obbligo verso chiunque sia
+
+il mezzo per rimandare mio fratello a [[Home|casa]], perché», riprendendomi, «
+
+so che mio padre desidera molto vederlo. Ma che cosa hai fatto
+
+per provocare tutto questo?» Arrossì profondamente rispondendo: «Ero così
+
+infelice per Sir James che non ho potuto trattenermi—ho fatto qualcosa
+
+di molto sbagliato, lo so; ma non hai idea della pena in cui sono
+
+stata: e la mamma mi aveva ordinato di non parlarne mai né a te né a mio zio
+
+e—» «Hai dunque parlato a mio fratello per ottenere il suo
+
+intervento», dissi, per risparmiarle la spiegazione. «No, ma gli ho
+
+scritto—l'ho fatto davvero, mi sono alzata stamattina prima che facesse luce, e ci
+
+ho messo due ore; e quando la lettera fu finita pensai che non avrei mai
+
+avuto il [[Courage|coraggio]] di consegnarla. Dopo colazione, però, mentre andavo
+
+in camera mia, l'ho incontrato nel corridoio, e allora, sapendo che
+
+tutto doveva dipendere da quel momento, mi sono costretta a dargliela. È
+
+stato così buono da prenderla subito. Non ho osato guardarlo, e sono corsa
+
+via all'istante. Ero così spaventata che quasi non respiravo. Mia cara
+
+zia, non sai quanto sono stata infelice.» «Frederica», dissi,
+
+«avresti dovuto raccontarmi tutte le tue pene. Avresti trovato in
+
+me un'amica sempre pronta ad aiutarti. Credi che tuo zio o
+
+io non avremmo sposato la tua causa con lo stesso calore di mio fratello?»
+
+«Davvero, non ho [[Doubt|dubitato]] della tua bontà», disse, arrossendo di nuovo,
+
+«ma pensavo che il signor De Courcy potesse ottenere tutto da mia madre; ma mi
+
+sbagliavo: hanno avuto un litigio terribile per questo, e lui
+
+se ne va. La mamma non mi perdonerà mai, e starò peggio che
+
+mai.» «No, non sarà così», risposi; «in un punto come questo il
+
+divieto di tua madre non avrebbe dovuto impedirti di parlarmi
+
+dell'argomento. Non ha alcun diritto di renderti infelice, e _non_ lo
+
+farà. Il fatto che tu ti sia rivolta a Reginald, però, non può che produrre
+
+del bene a tutte le parti. Credo che sia meglio così. Sta' certa che
+
+non sarai resa infelice più a lungo.» In quel momento quanto fu grande
+
+il mio stupore nel vedere Reginald uscire dallo spogliatoio di
+
+Lady Susan. Il cuore mi mancò all'istante. Il suo imbarazzo nel vedermi
+
+era evidentissimo. Frederica sparì immediatamente. «Stai
+
+partendo?» dissi; «troverai il signor Vernon nella sua stanza.» «No,
+
+Catherine», rispose, «non parto. Vuoi lasciarmi parlare con te un
+
+momento?» Andammo nella mia stanza. «Mi accorgo», continuò, con l'imbarazzo
+
+che cresceva mentre parlava, «di aver agito con la mia solita sciocca
+
+impetuosità. Ho frainteso del tutto [[Lady Susan]], ed ero sul
+
+punto di lasciare la [[house|casa]] sotto una falsa impressione della sua condotta.
+
+C'è stato un grandissimo equivoco; ci siamo sbagliati tutti,
+
+credo. Frederica non conosce sua madre. [[Lady Susan]] non vuole altro che
+
+il suo bene, ma non vuole farsene un'amica. [[Lady Susan]] non
+
+sa dunque sempre che cosa renderà felice sua figlia. Del resto, non
+
+avevo alcun diritto di intromettermi. La signorina Vernon ha sbagliato a rivolgersi
+
+a me. Insomma, Catherine, tutto è andato storto, ma ora è
+
+tutto felicemente sistemato. [[Lady Susan]], credo, desidera parlarti
+
+della cosa, se ne hai il tempo.» «Certamente», risposi, sospirando
+
+profondamente al racconto di una storia così zoppicante. Non feci commenti, però,
+
+perché le parole sarebbero state vane.
+
+
+
+Reginald fu contento di andarsene, e io andai da [[Lady Susan]], curiosa,
+
+davvero, di sentire la sua versione. «Non te l'avevo detto», disse con
+
+un sorriso, «che tuo fratello alla fine non ci avrebbe lasciate?» «L'avevi
+
+detto, davvero», risposi molto gravemente; «ma mi lusingavo che ti
+
+sbagliassi.» «Non avrei azzardato una simile opinione», replicò,
+
+«se in quel momento non mi fosse venuto in mente che la sua decisione di
+
+partire potesse essere causata da una conversazione che quella
+
+mattina avevamo avuto, e che era finita con suo grande scontento,
+
+perché non avevamo ben compreso il senso l'uno dell'altra. Questa idea
+
+mi colpì in quel momento, e decisi all'istante che una
+
+disputa casuale, in cui forse ero da biasimare quanto lui,
+
+non doveva privarti di tuo fratello. Se ricordi, lasciai la
+
+stanza quasi subito. Ero decisa a non perdere [[Time|tempo]] nel chiarire
+
+quegli equivoci per quanto mi era possibile. Il caso era questo: Frederica si era
+
+opposta con violenza a sposare Sir James.» «E vostra signoria può
+
+[[Wonder|meravigliarsi]] che lo facesse?» esclamai con un certo calore; «Frederica ha un
+
 
 
 <span class="atom-split" data-atom="story_17_cath_vernon--part_02" data-title="Lady Susan — Cath. Vernon. (part 2)" data-chapter="Cath Vernon" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/memory,motif/nature,motif/silence,motif/time,concept/education,concept/fear,concept/hope,concept/nature"></span>
@@ -8530,6 +11742,183 @@ at the door, and he, merry as usual, soon afterwards took his leave.
 
 How easily does her ladyship encourage or dismiss a [[Lover|lover]]! In spite of
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Un’eccellente comprensione… ma Sir James ne è del tutto privo.” “Almeno io ne ho molta.”
+
+“Non me ne pento affatto, mia cara sorella,” disse lei; “anzi, al contrario…”
+
+“Sono grato per un segno così favorevole del buon senso di mia figlia, Sir James.”
+
+Certo è al di sotto delle aspettative (i suoi modi infantili lo fanno sembrare ancora peggio); e…
+
+Se solo Frederica avesse posseduto la perspicacia e le capacità che ho io…
+
+#Avrei mai desiderato che mia figlia possedesse tali qualità… o forse avrei nemmeno saputo che le possedesse?
+
+“Come fa lei, non avrei dovuto essere ansioso per quell’incontro… È strano.”
+
+“Che tu debba essere l’unico a non conoscere i sentimenti di tua figlia, ”, disse Frederica.
+
+Non le rende mai giustizia: i suoi modi sono timidi e infantili…
+
+“Oltre a questo, ha paura di me. Durante la vita di suo povero padre, lei…”
+
+Un bambino viziato. La severità con cui da allora ho dovuto comportarmi.
+
+Il comportamento di lui ha allontanato il suo affetto; lei non ne possiede più nemmeno un briciolo.
+
+# Brillantezza dell’intelligenza: quel genio o quella forza mentale che è in grado di imporre il proprio dominio
+
+“Si potrebbe dire piuttosto che lei abbia avuto sfortuna…”
+
+“[[Education|educazione]]!”, “Dio solo sa, mia cara signora Vernon, quanto ne sia consapevole, ”
+
+# Di ciò; ma vorrei dimenticare ogni circostanza che potrebbe far ricordare…
+
+La colpa ricade sulla [[Memory|memoria]] di qualcuno il cui nome è sacro per me. Ecco ciò che disse.
+
+“Fingeva di piangere… Non ne potevo più di lei. ‘Ma cosa?’ dissi.”
+
+Titolo:  
+“Stava per dirmi di quale disaccordo si tratta tra lei e il mio…”
+
+“Fratello?“ “Tutto è nato da un’azione compiuta da mia figlia… che, allo stesso modo…”
+
+#La mancanza di giudizio e la spiacevole paura che provo per lei…
+
+“Menzionandolo… Gli scrisse una lettera, al signor De Courcy.” “Lo so che lo fece; te l’avevo detto.”
+
+Vietato a lei parlare con il signor Vernon o con me riguardo a questa questione.
+
+“Distress… Che altro poteva fare se non rivolgersi a mio fratello?” “Bene.”
+
+“Dio mio!”, esclamò, “che opinione devi avere di me… Puoi davvero…”
+
+Possibilmente si potrebbe pensare che io fossi a conoscenza della sua infelicità… che fosse colpa mia.
+
+Obiettavo al fatto che facesse soffrire il mio proprio [[Child|bambino]], e le avevo proibito di farlo.
+
+Parlando con te sull’argomento, per paura che tu possa interrompere.
+
+“Un piano diabolico? Pensi davvero che io manchi completamente di onestà e integrità?”
+
+# Un sentimento naturale… Sono davvero capace di condannarla all’infelicità eterna?
+
+#Di chi è il benessere che ho il dovere primario di promuovere? L’idea è…
+
+“Terribile!“ “Allora, qual era la tua intenzione quando hai insistito affinché lei…
+
+“[[Silence|silenzio]]?” “A che scopo potrebbe servire, mia cara sorella, qualsiasi tentativo di, ”
+
+#Che importa come stiano le cose tra noi? Perché dovrei sottoporvi a…
+
+#Suppliche che ho rifiutato di ascoltare… Nemmeno per il tuo bene
+
+Né per lei, né per me, qualcosa del genere potrebbe essere desiderabile… Quando il mio…
+
+Una volta presa la mia decisione, non avrei potuto desiderare alcun intervento esterno.
+
+“Amichevole… da parte di un’altra persona. Certo, mi sono sbagliato, ma credevo davvero…”
+
+“Mi sto rimediando da sola… Ma di quale errore si tratta, signora?”
+
+Titolo:  
+Da dove deriva questa sorprendente errata interpretazione di ciò che spesso viene alluso?
+
+“I sentimenti di mia figlia? Non sapevi che lei non sopportasse Sir James?” “Io…”
+
+Sapeva che non era esattamente l’uomo che avrebbe scelto, ma…
+
+Fu convinta che le sue obiezioni nei suoi confronti non derivassero da nulla in particolare.
+
+#Percezione della sua mancanza. Tuttavia, non dovete mettermi in dubbio…
+
+“Carissima sorella, non dovremmo soffermarci troppo su questo punto”, continuò, prendendomi per mano…
+
+Con affetto… “Onestamente devo ammettere che c’è qualcosa di vero in…”
+
+Nascondere… Frederica mi rende molto infelice! Il suo tentativo di avvicinarsi a Mr. De Courcy…
+
+“Mi ha ferito particolarmente.“ “A cosa vi riferite con queste parole?“ dissi io.
+
+#L’aspetto del mistero… Se pensi che tua figlia possa essere legata in qualche modo a…
+
+#Reginald: il suo rifiuto di Sir James merita senza dubbio…
+
+Più attenzione veniva prestata a lei, sebbene il motivo della sua obiezione fosse dovuto a una certa consapevolezza…
+
+Il prezzo della sua follia… E perché mai la vostra signoria dovrebbe litigare per questo?
+
+"Mio fratello… per un intervento che, dovete sapere, non rientra affatto nelle sue competenze."
+
+Come può la [[Nature|natura]] rifiutare quando viene sollecitata in questo modo?
+
+
+
+Titolo:  
+“La sua natura, sapete, è gentile; è venuto per discutere con…”
+
+#La sua compassione è viva per questa ragazza maltrattata… questa eroina…
+
+Distress! Ci siamo fraintesi: lui riteneva che fossi io la più colpevole.
+
+Non ero affatto quella che credevo di essere; ritenevo che la sua interferenza non fosse affatto giustificabile.
+
+#"Ora trovalo… Ho davvero un grande rispetto per lui, e questo sentimento è indescrivibile."
+
+“Imbarazzato nello scoprire che, come pensavo, era stato distribuito in modo così improprio… Eravamo entrambi a disagio.”
+
+E naturalmente entrambi sono da biasimare… La sua decisione di lasciare Churchill…
+
+In linea con la sua solita fretta… Quando capii le sue intenzioni,
+
+Tuttavia, e nello stesso [[Time|tempo]], iniziò a pensare che forse.
+
+# Completamente fraintesi l’uno sull’altro, decisi di…
+
+Spiegazione prima che sia troppo tardi… Per qualsiasi membro della tua famiglia.
+
+Titolo:  
+Deve sempre provare un certo grado di affetto… E credo che lo abbia davvero.
+
+Se la mia conoscenza con il signor De Courcy fosse finita in quel modo, mi avrebbe certamente ferito profondamente…
+
+“In modo cupo e tetro… Ora devo solo aggiungere che, essendo convinto…”
+
+“Frederica nutre una ragionevole avversione per Sir James… immediatamente.”
+
+Digli che deve rinunciare a ogni [[Hope|>speranza]] per lei. Mi rimprovero per questo.
+
+#Avendo, anche se innocentemente, causato il suo scontento in quella questione…
+
+Titolo:  
+Avrà tutta la punizione che sono in grado di infliggere… se le importa davvero.
+
+“Conquistare la propria felicità tanto quanto faccio io… se lei giudica saggiamente e si impegna a controllarsi.”
+
+“Come è giusto che sia, ora può riposare in pace. Scusami, mia cara sorella…”
+
+In questo modo violo il vostro [[Time|tempo]], ma lo devo al mio stesso carattere, e
+
+Dopo questa spiegazione, spero di non correre alcun rischio di “affondare” nelle vostre…
+
+“Nessuna opinione, in realtà…”, avrei potuto dire, “Proprio nessuna!”, ma ho preferito lasciarla così.
+
+In [[Silence|silenzio]]. Fu l’esempio più grande di pazienza che potessi dimostrare.
+
+Praticare. Non sarei riuscito a fermarmi se avessi iniziato. Quella sua sicurezza.
+
+Il suo inganno… ma non permetterò che mi occupino troppo di queste cose; le lascierò perdere.
+
+# Mi colpisce profondamente… Il mio cuore si spezza dentro di me. Non appena…
+
+“Ripreso un po’ di contegno, tornai nel salotto. La carrozza di Sir James era…”
+
+Alla porta, e lui, come al solito di buon umore, se ne andò poco dopo.
+
+Con quanta facilità la sua signoria incoraggia o respinge un [[Lover|amante]]. Nonostante tutto.
 
 
 
@@ -8769,6 +12158,242 @@ to suit me within a short distance of you.
 Your most attached
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In questa uscita, Frederica sembra ancora infelice: forse, ancora spaventata…
+
+L’ira di sua madre; e sebbene temesse la partenza di mio fratello…
+
+“Già, forse è gelosa del fatto che lui rimanga lì… Vedo quanto attentamente lo osserva.”
+
+E [[Lady Susan]], povera ragazza. Ora non ho più alcuna [[Hope|>speranza]] per lei. Non c’è nulla.
+
+#La possibilità che il suo affetto venga ricambiato… Lui la pensa in modo molto diverso.
+
+#Dalla sua precedente condotta… Le riserva un certo rispetto, ma…
+
+La [[Reconciliation|riconciliazione]] con sua madre esclude ogni altra speranza più preziosa. Preparati, mio.
+
+# Cara madre, nel peggiore dei casi… La probabilità che si sposino è sicuramente alta.
+
+Aumentato… Ora è ancora più suo di prima. Quando quel miserabile…
+
+# Quando l’evento avverrà, Frederica dovrà appartenere interamente a noi. Sono grato.
+
+“Che la mia ultima lettera arrivi poco dopo questa, in ogni singolo momento…”
+
+#Che si possa essere salvati dal provare una gioia che conduce soltanto…
+
+La delusione ha delle conseguenze.
+
+
+
+Sempre tua, ecc.,
+
+[[Catherine Vernon|CATHERINE VERNON]].
+
+
+
+
+
+
+
+
+
+# XXV
+
+
+
+
+
+#Lady Susan alla signora Johnson_
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Vi chiedo, cara Alicia, di congratularmi: sono me stesso, gay.
+
+e trionfante! Quando vi ho scritto l’altro giorno, in [[Truth|verità]], ero.
+
+# Alta irritazione… e con ben fondati motivi. Anzi, non so nemmeno se dovrei…
+
+# Ora devo assolutamente riposare in tranquillità, perché ho avuto molte difficoltà nel ripristinare…
+
+“Una pace a cui non intendevo mai sottomettermi… uno spirito nato anche da…”
+
+Una presunta sensazione di integrità superiore, davvero particolarmente insolenza…
+
+“Non gli perdonerò mai facilmente, ve lo assicuro… Era davvero coinvolto in quella situazione.”
+
+# Punto di partenza da Churchill! Appena avevo finito di dire l’ultima parola…
+
+# Wilson mi ne ha parlato… Quindi ho capito che qualcosa doveva essere fatto.
+
+È finito; perché non ho voluto lasciare il mio personaggio alla [[Mercy|miseria]] di.
+
+Uomo il cui spirito è così pieno di passione e vendetta… Sarebbe stato…
+
+#Giocare con la mia reputazione solo per permettergli di andarsene in questo modo…
+
+Un'impressione sfavorevole nei miei confronti; in questo contesto, la condiscendenza era necessaria.
+
+# Ho mandato Wilson a dire che desideravo parlare con lui prima che se ne andasse.
+
+Arrivò immediatamente. Gli emozioni di rabbia che si leggevano su ogni tratto del suo viso…
+
+# Quando ci siamo separati l’ultima volta… sembrava sorpreso.
+
+“Chiamata… e sembrava che, per metà desiderosa e per metà spaventata, sperasse che quella situazione potesse alleviarsi.”
+
+“Per dirla in un modo che tutti possano capire… Se il mio volto riuscisse davvero a esprimere ciò che intendo…”
+
+Era composto con grazia e dignità; eppure, con un certo grado di meditazione…
+
+“Perdonatemi, signore…”
+
+“Per la libertà che mi sono presa nell’inviarvi questo messaggio”, dissi; “ma poiché…”
+
+Ho appena saputo della tua intenzione di lasciare questo posto oggi…
+
+# Il mio dovere è supplicarvi di non accorciare la vostra visita a causa mia
+
+“Non posso rimanere qui nemmeno un’ora… So perfettamente che, dopo quanto è accaduto…”
+
+#Tra di noi, rimanere più a lungo non sarebbe appropriato per i sentimenti di nessuno dei due.
+
+Lo stesso [[house|casa]]: così imponente, un cambiamento totale rispetto all’intimità di.
+
+L’[[Friendship|amicizia]] deve rendere qualsiasi futura interazione la punizione più severa possibile.
+
+E la tua decisione di lasciare Churchill è senza dubbio condivisa da tutti.
+
+Con la nostra situazione, e con quei sentimenti vivaci che so essere tuoi…
+
+Possedere. Ma, allo stesso [[Time|tempo]], non spetta a me sopportare una cosa del genere.
+
+#Un sacrificio inevitabile: abbandonare le persone a cui si è così legati
+
+“Aggiunti, e sono così preziosi… Quelli che rimangono qui non possono offrirmi quella gioia.”
+
+Titolo:  
+A Monsieur e Madame Vernon… una visita che la vostra compagnia sicuramente gradirà.
+
+“Probabilmente è già trascorso troppo tempo… Pertanto, la mia rimozione, che deve avvenire…”
+
+Comunque sia, se dovesse svolgersi presto, potrebbe essere accelerato senza alcun problema.
+
+# E chiedo espressamente che non mi venga permesso in alcun modo…
+
+# Un fattore decisivo nella separazione di una famiglia così strettamente unita
+
+Altrove… Dove vado non ha alcuna importanza per nessuno; ne ha molto poca, in realtà…
+
+“Me stesso… ma tu sei importante per tutte le persone con cui hai rapporti.” Qui io…
+
+È concluso; spero che siate soddisfatti del mio discorso. Ne sono convinto.
+
+Reginald giustifica in parte quella sorta di [[Vanity|vanità]], perché non era certo minore.
+
+“Più favorevole che istantaneo… Oh, quanto fosse delizioso osservarlo…”
+
+# Variazioni sul suo volto mentre parlavo… per osservare quella lotta interiore
+
+# Tra tenerezza ritrovata e residui di dispiacere… C’è
+
+# Qualcosa di piacevole nei sentimenti… facile da influenzare; non che io ne invidii gli effetti.
+
+“Non lo considererei mai mio possesso, e nemmeno io lo vorrei assolutamente…”
+
+“Sono molto utili quando si desidera influenzare le emozioni delle persone…”
+
+Un altro… Eppure questo Reginald, che alcune mie parole sono riuscite a placare…
+
+#Immediatamente sottomesso al massimo grado di obbedienza, e reso più docile…
+
+“Attaccato a me più che mai… avrebbe comunque abbandonato me nel momento del mio primo attacco di rabbia.”
+
+Il gonfiore del suo orgoglioso cuore, senza nemmeno degnarsi di cercare una spiegazione.
+
+Umiliato com'è ora, non riesco a perdonargli un simile atto di [[Pride|orgoglio]].
+
+#E dubito se non dovrei punirlo licenziandolo…
+
+Dopo questa [[Reconciliation|riconciliazione]], o sposandolo e prendendolo in giro.
+
+# Mai. Ma queste misure sono tutte troppo violente per essere adottate senza…
+
+Dopo un po’ di riflessione… al momento i miei pensieri sono ancora incerti e oscillanti.
+
+Varie strategie… Ho molte cose da realizzare: devo punire.
+
+Frederica… e in modo piuttosto grave, a causa della sua proposta a Reginald…
+
+Deve punirlo per averla ricevuta in modo così favorevole, e per il resto della sua vita…
+
+#Condotta… Devo tormentare mia cognata per quella insolenza e quel trionfo arrogante…
+
+Il suo aspetto e il suo comportamento da quando Sir James è stato allontanato… perché, infatti…
+
+Per riconciliare Reginald con me, non riuscii a salvare quella giovane destinata al dolore…
+
+Uomo… e devo assolutamente rimediare all’umiliazione che ho subito.
+
+In questi pochi giorni ho iniziato ad occuparmene attivamente. Per realizzare tutto ciò, ho diversi piani in mente.
+
+anch’io ho l’intenzione di arrivare in città presto; e qualunque cosa possa accadere…
+
+Titolo: Per quanto riguarda il resto, probabilmente porterò avanti quel progetto.
+
+Esecuzione, perché [[London|Londra]] sarà sempre il campo di battaglia più giusto.
+
+Qualunque siano le mie opinioni, in ogni caso ci sarò.
+
+“Riscompensato dalla tua società… e con un po’ di svago, dopo dieci settimane…”
+
+# Penitenza a Churchill. Credo di doverlo al mio personaggio per completarlo.
+
+Il confronto tra mia figlia e Sir James, dopo tanto tempo…
+
+#Flessibilità intenzionale. Fammi sapere la tua opinione su questo punto.
+
+#"Mente: una disposizione facilmente influenzata dagli altri… è un attributo che…"
+
+Titolo:  
+So di non essere molto desideroso di ottenerlo; né Frederica ha alcun diritto su di esso.
+
+#Alla mercé delle sue idee, a scapito di sua madre
+
+Queste inclinazioni. Anche quel suo amore inutile per Reginald. Sicuramente è mio dovere intervenire.
+
+“Disincoraggiate queste sciocchezze romantiche. Pertanto, considerando tutto…”
+
+Sembra che sia mio dovere portarla in città e sposarla immediatamente.
+
+# Sir James: Quando la mia volontà verrà messa in atto contro la sua…
+
+Un certo merito va attribuito al fatto di mantenere buone relazioni con Reginald, il quale, al momento…
+
+#Non l’ho fatto; perché anche se è ancora sotto il mio controllo, ho deciso di rinunciare.
+
+#L’articolo stesso che ha scatenato la nostra lite… e al massimo…
+
+L’[[Honour|'onore]] della vittoria è incerto. Inviami la tua opinione su tutto questo.
+
+Molto importante, mia cara Alicia… Fammi sapere se riesci a trovare un alloggio.
+
+Per adattarmi a te, mi troverò a breve distanza da te.
+
+
+
+Il tuo più attaccato
+
 
 
 <span class="atom-split" data-atom="story_18_s_vernon" data-title="Lady Susan — S. Vernon." data-chapter="S Vernon" data-kind="story" data-tags="motif/leaves,motif/time,motif/well,concept/jealousy,setting/london"></span>
@@ -8887,6 +12512,120 @@ share _his_ feelings, I never can forgive her.
 Adieu. Yours ever,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+S. VERNON.
+
+
+
+
+
+
+
+
+
+XXVI
+
+
+
+
+
+_Miss Johnson a [[Lady Susan|)Lady Susan]]._
+
+
+
+
+
+Via Edward.
+
+
+
+
+
+Mi lusinga che ti sia rivolta a me, ed ecco il mio consiglio: che tu venga
+
+in città tu stessa, senza perdere [[Time|tempo]], ma che lasci Frederica
+
+dov’è. Sarebbe certo assai più utile allo scopo che tu ti
+
+sistemassi [[Well|bene]] sposando il signor De Courcy, anziché irritare lui e
+
+il resto della sua famiglia costringendola a sposare Sir James. Dovresti pensare
+
+di più a te stessa e meno a tua figlia. Non ha un’indole
+
+tale da farti onore nel mondo, e sembra esattamente al posto giusto
+
+a Churchhill, con i Vernon. Tu invece sei fatta per la società, ed è
+
+vergognoso che tu ne sia esiliata. Lascia dunque che Frederica
+
+si punisca da sé per il tormento che ti ha dato, indulgendo a quella
+
+romantica tenerezza di cuore che le assicurerà sempre infelicità a sufficienza,
+
+e vieni a [[London|Londra]] appena puoi. Ho un’altra ragione per insistere
+
+su questo: Mainwaring è venuto in città la settimana scorsa, ed è riuscito, a dispetto del
+
+signor Johnson, a procurarsi occasioni per vedermi. È assolutamente
+
+disperato per te, e geloso di De Courcy a tal punto che
+
+sarebbe quanto mai sconsigliabile che i due si incontrassero adesso. Eppure, se
+
+non gli permetti di vederti qui, non posso garantire che non
+
+commetta qualche grande imprudenza—come andare a Churchhill, per
+
+esempio, il che sarebbe spaventoso! Inoltre, se segui il mio consiglio e
+
+decidi di sposare De Courcy, ti sarà assolutamente necessario
+
+toglierti Mainwaring di mezzo; e solo tu puoi avere influenza
+
+sufficiente per rimandarlo da sua moglie. Ho ancora un altro motivo per
+
+la tua venuta: il signor Johnson [[Leaves|lascia]] [[London|Londra]] martedì prossimo; va per
+
+la sua salute a Bath, dove, se le acque saranno favorevoli alla sua
+
+costituzione e ai miei desideri, resterà bloccato dalla gotta per molte
+
+settimane. Durante la sua assenza potremo scegliere le nostre compagnie,
+
+e divertirci davvero. Ti inviterei in Edward Street, se non fosse che
+
+una volta mi strappò una specie di promessa di non invitarti mai nella mia
+
+[[house|casa]]; nient’altro che il trovarmi in estremo bisogno di denaro avrebbe potuto
+
+estorcermela. Posso però procurarti un bel quartierino con salotto
+
+in Upper Seymour Street, e potremo stare sempre insieme lì
+
+o qui; perché considero la mia promessa al signor Johnson come comprendente soltanto
+
+(almeno in sua assenza) che tu non dorma in [[house|casa]]. Il povero
+
+Mainwaring mi racconta certe storie sulla [[Jealousy|gelosia]] di sua moglie. Che donna sciocca,
+
+aspettarsi fedeltà da un uomo così affascinante! ma è sempre stata
+
+sciocca—in modo intollerabile nello sposarlo, lei erede di un grande
+
+patrimonio e lui senza uno scellino: un titolo, lo so, avrebbe potuto
+
+averlo, oltre ai baronetti. La sua follia nel formare quel legame fu così grande
+
+che, benché il signor Johnson fosse il suo tutore, e io in genere non
+
+condivida i _suoi_ sentimenti, non potrò mai perdonarla.
+
+
+
+Addio. Tua per sempre,
+
 
 
 <span class="atom-split" data-atom="story_19_alicia" data-title="Lady Susan — Alicia." data-chapter="Alicia" data-kind="story" data-tags="motif/leaves,motif/time,motif/winter,concept/despair,concept/doubt,concept/fear,concept/mercy,concept/solitude,setting/london"></span>
@@ -8983,6 +12722,100 @@ I look upon the event as so far decided that I resign myself to it in
 Your affectionate, &c.,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+ALICIA.
+
+
+
+
+
+
+
+
+
+# XXVII
+
+
+
+
+
+_La signora Vernon a Lady De Courcy._
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+#Questa lettera, mia cara Madre, vi sarà portata da Reginald… La sua lunga…
+
+La visita sta per concludersi finalmente, ma temo che la separazione arrivi.
+
+Arriva troppo tardi per esserci d’aiuto. Sta andando a [[London|Londra]] per vedere la sua.
+
+Un’amica particolare, la signora Johnson… Inizialmente, era questa la sua intenzione.
+
+Frederica dovrebbe accompagnarla, per il bene dei padroni… ma noi…
+
+Lì, la sua proposta fu bocciata. Frederica era terribilmente angosciata all’idea di dover andare… e io…
+
+Non riusciva a sopportare l’idea che fosse alla [[Mercy|miseria]] di sua madre. Non per niente.
+
+Gli esperti di [[London|Londra]] potevano compensare la perdita del suo conforto. Io.
+
+#Avrebbe dovuto temere anche per la sua salute… e per tutto tranne che per lei stessa.
+
+Principi… Ecco dove credo che si debba agire affinché lei non venga ferita da sua madre.
+
+Gli amici di sua madre… ma con quegli amici sicuramente aveva rapporti…
+
+Un set davvero scadente; dubito che possa funzionare, o forse è stato lasciato completamente nella [[Solitude|solitudine]]. E io.
+
+# Difficile dire quale delle due situazioni sarebbe stata peggiore per lei… Se fosse con lui…
+
+Madre… e, ahimè, con ogni probabilità sarà con Reginald.
+
+E quello sarebbe il più grande male di tutti. Qui, nel futuro, ci troveremo.
+
+Titolo:  
+Pace, e le nostre occupazioni abituali, i nostri libri e le nostre conversazioni…
+
+# Esercizio, i bambini e ogni piacere domestico che è in mio potere offrire
+
+# Trovarla, spero, mi aiuterà gradualmente a superare questa giovinezza…
+
+Attaccamento. Non dovrei avere alcun [[Doubt|>dubbio]] al riguardo, anche se lei venisse offesa per qualsiasi motivo.
+
+Non esiste un'altra donna al mondo all'infuori di sua madre. Per quanto tempo ancora [[Lady Susan]] riuscirà a.
+
+# Non so se sia in città o se tornerà qui ancora… Non ho modo di saperlo.
+
+Titolo:  
+Nella mia invitazione sono stato cordiale, ma se lei decidesse di venire… non ci sarebbero problemi.
+
+“La mia cordialità non farà che allontanarla… Non ho potuto fare a meno di chiedermelo.”
+
+Se Reginald intendeva trovarsi a [[London|Londra]] quest'inverno, non appena l'ho scoperto.
+
+Il passo della sua signoria si dirigerebbe lì; e sebbene lui dichiarasse…
+
+# Un volto e una voce piuttosto indecisi…
+
+Mentre parlava, le sue parole contraddicevano ciò che aveva detto. Basta con i lamenti…
+
+# Mi considero ormai destinato ad accettare questa situazione e mi rassegno ad essa.
+
+[[Despair|disperazione]]. Se ti lascia presto per andare a [[London|Londra]], tutto sarà finito.
+
+
+
+Il tuo affezionato, ecc.
+
 
 
 <span class="atom-split" data-atom="story_20_c_vernon" data-title="Lady Susan — C. Vernon." data-chapter="C Vernon" data-kind="story" data-tags="motif/journey,motif/pain,setting/london"></span>
@@ -9058,6 +12891,79 @@ excuse for losing my temper.
 
 Yours ever,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+C. VERNON.
+
+
+
+
+
+
+
+
+
+# XXVIII
+
+
+
+
+
+_Miss Johnson a [[Lady Susan|)Lady Susan]]._
+
+
+
+
+
+Via Edward.
+
+
+
+
+
+#Mio carissimo amico,– Scrivo nella più profonda angoscia; il più…
+
+Un evento sfortunato è appena accaduto… Il signor Johnson ha fatto la cosa peggiore possibile.
+
+Un modo efficace per tormentarci tutti… Immagino che l’abbia sentito da qualcuno…
+
+In altre parole, significava che presto saresti arrivato a [[London|Londra]], e subito dopo.
+
+# Indotto un attacco di gotta che debba almeno ritardarlo
+
+Il [[Journey|viaggio]] a Bath, se non si riesce a impedirlo del tutto. Sono convinto che l’ gotta sia.
+
+Disponibile o ritirato a piacimento; era lo stesso quando ne avevo voglia.
+
+Titolo:  
+Unirsi ai Hamilton vicino ai laghi… E tre anni fa, quando io avevo…
+
+Per quanto amasse Bath, nulla avrebbe potuto far sì che sviluppasse sintomi di gotta.
+
+
+
+Sono lieto di constatare che la mia lettera abbia avuto un tale effetto su di te.
+
+“De Courcy è sicuramente tuo… Fammi sapere non appena…”
+
+Arriva, e soprattutto dimmi cosa intendi fare con Mainwaring.
+
+“È impossibile dire quando sarò in grado di venire da te…”
+
+“La reclusione deve essere terribile… Ammalarsi è davvero un trucco odioso.”
+
+Qui invece che a Bath… dove a malapena riesco a controllarmi.
+
+# Le sue vecchie zie avrebbero potuto prendersi cura di lui, ma in questo caso tutto ricade su…
+
+Me. E sopporta il [[Pain|dolore]] con tale pazienza che io, al contrario, non riesco a farlo.
+
+Scusate se ho perso le staffe.
+
+
+
+Il tuo per sempre,
 
 
 
@@ -9144,6 +13050,89 @@ appeased. Adieu, till we meet; I am enchanted with my lodgings.
 
 Yours ever,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+ALICIA.
+
+
+
+
+
+
+
+
+
+# XXIX
+
+
+
+
+
+#Lettera di Lady Susan Vernon a Madame Johnson_
+
+
+
+
+
+Via Upper Seymour.
+
+
+
+
+
+Mia cara Alicia, —Non c’era bisogno che quest’ultima crisi di gotta mi costringesse a…
+
+# Odio il signor Johnson, ma ora l’entità del mio disgusto non può essere ancora espressa…
+
+Stima approssimativa. Farti rinchiudere nel suo appartamento come [[Nurse|infermiera]]. Mio caro.
+
+Alicia, che errore terribile hai commesso sposando un uomo della sua età.
+
+Ancora abbastanza giovane da comportarsi in modo formale… ma ormai irrefrenabile, e anche affetto da gotta…
+
+Troppo vecchio per essere piacevole, troppo giovane per morire. Sono arrivato ieri sera verso le cinque.
+
+Avevo appena finito di mangiare la mia cena quando Mainwaring fece la sua apparizione. Io
+
+Non nasconderò mai quanto piacere reale mi abbia procurato quella vista, né in che modo…
+
+#Il forte contrasto tra la sua persona e i suoi modi…
+
+# Di Reginald, con enorme svantaggio per quest’ultimo… Per un’ora o più.
+
+#Due volte fui persino incerta riguardo alla decisione di sposarlo… eppure…
+
+“Questa era un’idea troppo futile e assurda per rimanere a lungo nella mia mente…”
+
+Non provo alcuna particolare fretta che il mio [[Marriage|matrimonio]] si concluda, né ho alcun desiderio al riguardo.
+
+Con grande impazienza, aspettavo il momento in cui Reginald, secondo quanto previsto.
+
+Il nostro accordo prevede che lui sia in città… Probabilmente rimanderò il suo arrivo.
+
+Sotto qualche pretesto o altro. Non deve venire finché Mainwaring non se n’è andato.
+
+“#Ancora oggi, a volte mi chiedo se sia davvero la scelta giusta sposarsi… Se quell’uomo anziano dovesse morire…”
+
+Non esiterebbe mai, ma una condizione di dipendenza dalle capricci di Sir…
+
+Reginald non sarà adatto alla [[Freedom|libertà]] del mio spirito; e se decido di.
+
+Aspetta quel momento… Al momento ho già abbastanza scuse per farlo.
+
+# Appena dieci mesi da vedova… Non ho dato alcun indizio a Mainwaring
+
+Titolo:  
+Delle mie intenzioni, o gli permisi di considerare la mia conoscenza con…
+
+# Reginald: qualcosa di più di una semplice avventura passeggera… e lui lo sa bene.
+
+Rassolto. Addio, fino al nostro prossimo incontro; sono davvero incantato dai miei alloggi.
+
+
+
+Il tuo per sempre,
 
 
 
@@ -9291,6 +13280,151 @@ wife.
 I am, very faithfully yours,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+S. VERNON.
+
+
+
+
+
+
+
+
+
+# Mai scrivere una frase su questo argomento.
+
+
+
+
+
+# Lady Susan Vernon e il signor De Courcy
+
+
+
+
+
+Via Upper Seymour.
+
+
+
+
+
+Ho ricevuto la tua lettera, e sebbene non tenti di nasconderlo…
+
+#Sono lieto della vostra impazienza per l’ora dell’incontro…
+
+Sento la necessità di posticipare quell’ora oltre l’[[Time|orario]] previsto.
+
+# Originariamente fissato. Non consideratemi scortese per questo mio “esercizio”.
+
+Non usate il potere contro di me, né accusatemi di instabilità senza prima ascoltare le mie ragioni.
+
+Durante il mio [[Journey|viaggio]] da Churchill, ho avuto molto tempo libero per.
+
+# Riflessioni sullo stato attuale delle nostre faccende, e ogni analisi al riguardo
+
+Questo mi ha convinto che richiedano una particolare delicatezza e cautela nel trattarli.
+
+Un comportamento verso cui finora non abbiamo prestato abbastanza attenzione. Abbiamo…
+
+# Affrettati dai nostri sentimenti, fino al punto di agire in modo precipitoso e sbagliato…
+
+Corrisponde alle affermazioni dei nostri amici o all’opinione del mondo… Noi.
+
+#Abbiamo agito senza riflettere nell’assumere questo impegno affrettato, ma non dobbiamo permetterlo…
+
+Completa quell’imprudenza ratificandola proprio ora, quando ci sono così tanti motivi per non farlo…
+
+A [[Fear|temere]] che quel legame venisse ostacolato da quegli amici su cui conti.
+
+# Dipendere… Non spetta a noi attribuire alcuna responsabilità o aspettativa a tuo padre.
+
+Lato vantaggioso del matrimonio: quando le proprietà sono molto estese
+
+Come quello di molti nella tua famiglia, anche il desiderio di aumentarne il numero esiste… sebbene non sempre in modo “stricto”.
+
+“Razionale… è un termine troppo comune per suscitare sorpresa o risentimento. Lui ha…”
+
+# Il diritto di pretendere che la nuora sia una donna ricca… e io sono…
+
+A volte discuto con me stesso per aver permesso che tu soffrissi in questo modo.
+
+#Connessione così imprudente… ma l’influenza della ragione è spesso decisiva
+
+Riconosciuto troppo tardi da coloro che provano ciò che provo io… Ora sono soltanto…
+
+Divorata da pochi mesi, e, nonostante fossi poco legata alla [[Memory|memoria]] di mio marito.
+
+Per qualsiasi felicità derivata da lui durante un[[Union|unione]] durata alcuni anni, io.
+
+Non si può dimenticare che l’indelicatezza di un secondo [[Marriage|matrimonio]] così precoce deve.
+
+Sottomettimi alla condanna del mondo e affronti ciò che comunque…
+
+# Un dispiacere sempre più insopportabile da parte del signor Vernon… Forse potrei…
+
+Mi preparo nel corso del tempo ad affrontare l'ingiustizia delle critiche generali, ma.
+
+La perdita della sua preziosa stima, come voi ben sapete, mi rende inadatto a.
+
+Sopportare… e quando a questo si possa aggiungere la consapevolezza di averlo fatto.
+
+#Come posso sopravvivere, se la tua famiglia mi ha ferito così profondamente… con questi sentimenti?
+
+Titolo:  
+Altrettanto commovente del mio… la consapevolezza di aver separato un figlio dal padre suo.
+
+I miei genitori mi renderebbero, anche con te, l’essere più infelice del mondo.
+
+Pertanto, sarà sicuramente consigliabile ritardare la nostra [[Union|unione]], ritardarla.
+
+#Fino a quando le apparenze non sembrano più promettenti… Fino a quando le cose non prendono una piega diversa.
+
+Un cambiamento favorevole. Per aiutarci a raggiungere una soluzione del genere, ritengo che l’assenza…
+
+#Non dobbiamo incontrarci. Per quanto crudele possa sembrare questa frase…
+
+La necessità di pronunciarlo, il che può, da solo, far sì che si adatti.
+
+“Me stesso diventerà evidente per voi non appena avrete considerato la nostra situazione.”
+
+#Nella luce in cui mi sono trovato costretto ad agire
+
+Puoi essere, devi essere assolutamente certo che non c’è nulla di diverso dal più forte.
+
+# Convincimento nel dovere potrebbe spingermi a ferire i miei stessi sentimenti, incoraggiandomi a…
+
+Titolo:  
+Un distacco prolungato… e una totale indifferenza verso di te…
+
+Sospettatemi… Ancora una volta, dico quindi che non dovremmo, non dobbiamo assolutamente farlo.
+
+Titolo:  
+Incontriamoci… Separandoci per alcuni mesi l’uno dall’altro, potremo…
+
+#Placare le paure affettuose della signora Vernon, abituata ormai…
+
+Per il godimento delle ricchezze, si ritiene che la fortuna sia necessaria ovunque.
+
+E le cui sensibilità non sono di una natura tale da comprendere le nostre. Lasciate che io.
+
+Aspettiamo tue notizie presto… molto presto. Dimmi che accetti le mie argomentazioni.
+
+“E non rimproveratemi per averne fatto uso… Non posso sopportare i rimproveri…”
+
+# Gli spiriti non sono così elevati da richiedere di essere repressi… Devo sforzarmi di mantenere questa condizione.
+
+Cercare divertimento… E fortunatamente molti dei miei amici sono in città; tra loro…
+
+#I Mainwarings… Sai quanto sinceramente io consideri sia il marito che…
+
+moglie.
+
+
+
+# Con tutto il mio affetto,
+
 
 
 <span class="atom-split" data-atom="story_23_s_vernon" data-title="Lady Susan — S. Vernon" data-chapter="S Vernon" data-kind="story" data-tags="motif/soul,motif/time,motif/well"></span>
@@ -9356,6 +13490,68 @@ urge them more myself, but that I am impatient to be rid of him, as
 
 Mainwaring comes within half an hour. Adieu!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# S. Vernon
+
+
+
+
+
+
+
+
+
+XXXI
+
+
+
+
+
+#Lady Susan alla signora Johnson_
+
+
+
+
+
+Via Upper Seymour.
+
+
+
+
+
+Mia cara amica, — quella creatura tormentosa di Reginald è qui. La mia lettera,
+
+che doveva trattenerlo più a lungo in campagna, lo ha invece affrettato
+
+verso la città. Per quanto desideri vederlo lontano, non posso però fare a meno di compiacermi
+
+di una simile prova d'affetto. Mi è devoto con tutto il cuore e con tutta l'[[Soul|anima]].
+
+Porterà lui stesso questo biglietto, che deve servirgli da presentazione
+
+presso di te, che egli desidera tanto conoscere. Permettigli di passare la
+
+serata con te, così che io non corra il rischio che torni qui. Gli
+
+ho detto che non sto del tutto [[Well|bene]] e che devo restare [[Alone|sola]]; e se
+
+venisse di nuovo potrebbe nascere confusione, perché è impossibile fidarsi
+
+della servitù. Trattienilo dunque, te ne scongiuro, in Edward Street. Non lo
+
+troverai una compagnia pesante, e ti concedo di civettare con lui
+
+quanto ti pare. Allo stesso [[Time|tempo]], non dimenticare il mio vero interesse;
+
+di' tutto ciò che puoi per convincerlo che sarò assolutamente infelice se
+
+resterà qui; conosci le mie ragioni: il decoro, e così via. Glielo
+
+ripeterei io stessa con più insistenza, se non fossi impaziente di liberarmene, ché
+
+Mainwaring arriva entro mezz'ora. Addio!
 
 
 
@@ -9439,6 +13635,84 @@ anxious wishes,
 Yours faithfully,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+S. VERNON.
+
+
+
+
+
+
+
+
+
+XXXII
+
+
+
+
+
+_Miss Johnson a [[Lady Susan|)Lady Susan]]._
+
+
+
+
+
+Via Edward.
+
+
+
+
+
+Mia cara creatura, sono in preda all’angoscia e non so che fare. Il signor De
+
+Courcy è arrivato proprio quando non avrebbe dovuto. La signora Mainwaring era in
+
+quell’istante entrata in [[house|casa]], e si era imposta alla presenza del suo
+
+tutore, benché io non ne sapessi una sillaba fino a dopo, perché
+
+ero fuori quando arrivarono sia lei sia Reginald, altrimenti l’avrei mandato via
+
+a ogni costo; ma lei era chiusa con il signor Johnson, mentre lui mi aspettava
+
+in salotto. È arrivata ieri all’inseguimento del
+
+marito, ma forse questo lo sai già da lui stesso. È venuta in
+
+questa [[house|casa]] per implorare l’intervento di mio marito, e prima che potessi
+
+accorgermene, tutto ciò che avresti voluto tener nascosto era noto
+
+a lui, e per disgrazia lei aveva cavato dal servitore di Mainwaring che
+
+lui ti aveva fatto visita ogni giorno da quando sei in città, e lo aveva appena
+
+seguito lei stessa fino alla tua porta! Che potevo fare! I fatti sono cose così
+
+orribili! A quest’[[Time|ora]] tutto è noto a De Courcy, che adesso è [[Alone|solo]]
+
+con il signor Johnson. Non accusarmi; davvero, era impossibile
+
+impedirlo. Il signor Johnson da qualche [[Time|tempo]] sospettava che De Courcy
+
+avesse intenzione di sposarti, e volle parlargli da [[Alone|solo]] non appena lo
+
+seppe in [[house|casa]]. Quella detestabile signora Mainwaring, che, per
+
+tua consolazione, si è tormentata fino a farsi più magra e più brutta che mai, è
+
+ancora qui, e sono stati tutti chiusi a colloquio insieme. Che si può fare?
+
+A ogni modo, [[Hope|spero]] che tormenterà la moglie più che mai. Con
+
+ansiosi auguri,
+
+
+
+Cordialmente vostro,
+
 
 
 <span class="atom-split" data-atom="story_25_alicia" data-title="Lady Susan — Alicia." data-chapter="Alicia" data-kind="story" data-tags="motif/home,motif/well"></span>
@@ -9492,6 +13766,56 @@ to-morrow’s dinner, everything will be [[Well|well]] again.
 
 Adieu!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+ALICIA.
+
+
+
+
+
+
+
+
+
+# XXXIII
+
+
+
+
+
+#Lady Susan alla signora Johnson_
+
+
+
+
+
+Via Upper Seymour.
+
+
+
+
+
+# Questa “chiarificazione” è piuttosto provocatoria… Che sfortuna che tu abbia dovuto affrontarla.
+
+Sono stata via da [[Home|>casa]]. Pensavo di conoscerti bene, a sette anni. Invece.
+
+Comunque, rimani sereno. Non tormentarti con preoccupazioni per causa mia.
+
+“Contateci: con Reginald posso rendere la mia storia davvero interessante. Mainwaring…”
+
+Appena arrivato; mi ha portato la notizia dell’arrivo di sua moglie… Quella donna sciocca…
+
+Che cosa si aspetta ottenendo simili manovre? Eppure, avrei voluto che rimanesse…
+
+"In silenzio a Langford… Reginald sarà inizialmente un po’ arrabbiato, ma…”
+
+Per la cena di domani, tutto tornerà a essere [[Well|bene]] come prima.
+
+
+
+Addio!
 
 
 
@@ -9550,6 +13874,60 @@ excited their anguish, but whose affection they have never been able to
 
 gain.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+S. V.
+
+
+
+
+
+
+
+
+
+# XXXIV
+
+
+
+
+
+_Mr. De Courcy a [[Lady Susan]]._
+
+
+
+
+
+—— Ospedale.
+
+
+
+
+
+# Addio per sempre
+
+#Tu sei… Da quando ci siamo separati ieri, ho ricevuto qualcosa di incontestabile…
+
+Un'autorità come quella della tua [[history|storia]] dovrebbe certamente comportare le umiliazioni più gravi.
+
+# Conoscenza piena dell’oppressione a cui sono stato sottoposto, e la consapevolezza assoluta…
+
+# Una separazione immediata ed eterna da te… Non puoi farlo.
+
+[[Doubt|>Dubbio]] riguardo a ciò a cui mi riferisco. Langford! Langford! Quella parola sarà.
+
+Sufficiente. Ho ricevuto le informazioni nella casa del signor Johnson, dalla signora.
+
+“Mainwaring… Tu sai quanto ti abbia amato; puoi capirlo davvero…”
+
+# Giudicate i miei sentimenti attuali, ma non sono così debole da…
+
+# Indulgenza nel descriverli a una donna che ne trarrà piacere
+
+#Il dolore che suscitava in loro, ma per il quale non sono mai riusciti ad ottenere affetto…
+
+Guadagnare.
 
 
 
@@ -9620,6 +13998,72 @@ humiliation to which I know not how to submit. I shall count every
 
 minute till your arrival.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+R. DE COURCY.
+
+
+
+
+
+
+
+
+
+# XXXV
+
+
+
+
+
+#Lady Susan e il signor De Courcy_
+
+
+
+
+
+Via Upper Seymour.
+
+
+
+
+
+# Non oso nemmeno cercare di descrivere la mia sorpresa nel leggere quel biglietto…
+
+# Confuso dalle informazioni ricevute…
+
+# Congettura razionale su ciò che la signora Mainwaring possa avervi detto
+
+#Un’occasione così straordinaria da provocare un cambiamento nei vostri sentimenti… Non è forse vero?
+
+“Mi sono spiegato completamente riguardo a me stesso, tutto ciò che potesse essere rilevante.”
+
+Significato dubbioso, che la malvagia [[Nature|>natura]] del mondo aveva interpretato a modo suo.
+
+“A mio discredito? Cosa avete potuto sentire ora per far vacillare la vostra stima nei miei confronti?”
+
+Me? Ho mai nascosto qualcosa a te? Reginald, mi agiti…
+
+Indescrivibile. Non riesco nemmeno a immaginare quella vecchia storia della signora.
+
+La [[Jealousy|invidia]] di Mainwaring può essere risvegliata di nuovo, o almeno viene _ascoltata_.
+
+Di nuovo… Vieni da me immediatamente e spiegami cosa sta succedendo in questo momento.
+
+# Assolutamente incomprensibile. Credetemi, la sola parola “Langford”…
+
+# Non possiede un’intelligenza così potente da rendere superflua la necessità di…
+
+# Più di così… Se dobbiamo separarci, almeno che sia in modo dignitoso…
+
+Licenza personale, ma non ho proprio voglia di scherzare; in [[Truth|verità]], parlo seriamente.
+
+#Abbastanza… per essere “affondato”, anche solo per un’ora, nella tua stima.
+
+#Umiliazione di cui non so come sopportare… Contabilizzerò ogni singolo momento…
+
+Mancano pochi minuti al tuo arrivo.
 
 
 
@@ -9701,6 +14145,82 @@ to abhor the artifices which had subdued me than to despise myself for
 the weakness on which their strength was founded.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+S. V.
+
+
+
+
+
+
+
+
+
+XXXVI
+
+
+
+
+
+_Mr. De Courcy a [[Lady Susan]]._
+
+
+
+
+
+—— Ospedale.
+
+
+
+
+
+Perché volete scrivermi? Perché pretendete particolari? Ma, poiché
+
+così dev'essere, sono costretto a dichiarare che tutti i racconti della vostra
+
+cattiva condotta durante la vita, e dopo la [[Death|morte]] del signor Vernon, che
+
+mi erano giunti, come a tutto il mondo in generale, e avevano ottenuto la mia
+
+piena fiducia prima che vi vedessi, ma che voi, con l'esercizio delle vostre
+
+perverse capacità, mi avevate indotto a respingere, mi sono stati
+
+provati in modo incontestabile; anzi di più, mi si assicura che una relazione, di
+
+cui non avevo mai prima nutrito il minimo sospetto, da qualche [[Time|tempo]]
+
+esiste, e tuttora continua a esistere, fra voi e l'uomo alla cui
+
+famiglia avete rubato la pace in cambio dell'ospitalità con cui
+
+foste accolta; che avete corrisposto con lui fin
+
+da quando lasciaste Langford; non con sua moglie, ma con lui, e che
+
+egli ora vi fa visita ogni giorno. Potete, osate negarlo? e tutto questo nel
+
+[[Time|tempo]] in cui io ero un [[Lover|innamorato]] incoraggiato, accettato! Da che cosa non sono
+
+scampato! Non ho che da essere grato. Lungi da me ogni lamento,
+
+ogni sospiro di rimpianto. La mia stessa follia mi aveva messo in pericolo, la mia salvezza la
+
+devo alla bontà, all'integrità di un'altra persona; ma la sventurata signora
+
+Mainwaring, le cui angosce mentre narrava il passato parevano minacciare
+
+la sua ragione, come potrà _lei_ essere consolata! Dopo una scoperta simile a
+
+questa, difficilmente potrete fingere ancora [[Wonder|stupore]] per il senso del mio darvi
+
+l'addio. Il mio intendimento è finalmente risanato, e mi insegna non meno
+
+ad aborrire gli artifici che mi avevano soggiogato che a disprezzare me stesso per
+
+la debolezza su cui si fondava la loro forza.
+
 
 
 <span class="atom-split" data-atom="story_29_r_de_courcy" data-title="Lady Susan — R. De Courcy." data-chapter="R De Courcy" data-kind="story" data-tags="concept/doubt,concept/hope"></span>
@@ -9748,6 +14268,50 @@ filial obedience, and I flatter myself with the [[Hope|hope]] of surviving my
 
 share in this disappointment.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+R. DE COURCY.
+
+
+
+
+
+
+
+
+
+# XXXVII
+
+
+
+
+
+#Lady Susan e il signor De Courcy_
+
+
+
+
+
+Via Upper Seymour.
+
+
+
+
+
+# Sono soddisfatto e non vi darò più fastidio una volta scritte queste poche righe
+
+Rifiutato. L’impegno che eri così desideroso di stabilire due settimane fa…
+
+Il titolo non è più compatibile con le tue opinioni, e sono lieto di constatare che…
+
+Il saggio consiglio dei tuoi genitori non è stato dato invano…
+
+La ripristinazione della pace, ne sono [[Doubt|sicuro]], seguirà rapidamente questo atto di.
+
+Obbedienza filiale. E mi illudo con la [[Hope|>speranza]] di sopravvivere a tutto questo.
+
+Condividere questa delusione.
 
 
 
@@ -9828,6 +14392,83 @@ there is no defying destiny.
 
 Your sincerely attached,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+S. V.
+
+
+
+
+
+
+
+
+
+# XXXVIII
+
+
+
+
+
+_Miss Johnson a [[Lady Susan Vernon|)Lady Susan Vernon]]._
+
+
+
+
+
+# Edward Street
+
+
+
+
+
+# Mi addolora, anche se non posso essere sorpreso dalla tua rottura con il signor De
+
+Courcy; gliel’ha appena comunicato per iscritto al signor Johnson. Lui [[Leaves|parte]].
+
+“[[London|Londra]],” dice oggi. State certi che condivido pienamente tutto ciò che fate.
+
+Titolo:  
+Sentimenti… E non arrabbiarti se dico che il nostro rapporto, anche attraverso…
+
+Lettera… che presto dovrò abbandonare. Mi rende infelice… ma il signor Johnson…
+
+“Giura che se persevero in questa relazione, si stabilirà in campagna”.
+
+Per il resto della sua vita… e sai bene che è impossibile sottomettersi a ciò.
+
+“Una simile estremità, quando esistono altre possibilità… L’avete sentito.”
+
+Certo che i Mainwarings dovranno separarsi. E temo che la signora M..
+
+Tornerà di nuovo a [[Home|>casa]] da noi; ma lei ama ancora molto suo marito.
+
+#E si preoccupa così tanto per lui, che forse non vivrà a lungo… La signorina
+
+“Mainwaring è appena arrivata in città per stare con sua zia…”
+
+Declara che avrà a che fare con Sir James Martin prima di [[Leaves|andarsene]] da [[London|)Londra]].
+
+Di nuovo… Se fossi in te, lo andrei a prendere di persona. Quasi ci ero riuscito…
+
+#Dimenticato di darvi la mia opinione su Mr. De Courcy… Sono davvero molto soddisfatto.
+
+Con lui… Penso sia altrettanto attraente e bello quanto Mainwaring, e inoltre…
+
+Un volto aperto e cordiale… Non si può fare a meno di amarlo.
+
+Da quel primo incontro. Il signor Johnson ed egli sono i migliori amici del mondo.
+
+Addio, mia cara Susan… Vorrei che le cose non andassero in questo modo così spiacevole.
+
+Una sfortunata visita a Langford… Ma oserei dire che hai fatto del tuo meglio.
+
+Non esiste nulla che possa sfidare il destino.
+
+
+
+Il vostro affezionatissimo,
 
 
 
@@ -9913,6 +14554,87 @@ attack be more favourable! and may you always regard me as unalterably
 yours,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+ALICIA.
+
+
+
+
+
+
+
+
+
+# XXXIX
+
+
+
+
+
+#Lady Susan alla signora Johnson_
+
+
+
+
+
+Via Upper Seymour.
+
+
+
+
+
+#Mia cara Alicia,—mi arrendo alla necessità che ci separa. In circostanze del genere…
+
+In quelle circostanze, non avresti potuto agire diversamente. La nostra [[Friendship|amicizia]] non può essere.
+
+#Influito negativamente da esso… e nei momenti più felici, quando la tua situazione è…
+
+“Indipendente come la mia, ci unirà di nuovo nella stessa intimità…”
+
+#Per sempre. Per questo aspetterò con impazienza, e nel frattempo potrò stare tranquilla…
+
+Vi assicuro che non sono mai stato più a mio agio, né più soddisfatto…
+
+“Me stesso e tutto ciò che mi riguarda… più di quanto non lo sia in questo preciso istante. Tuo marito…”
+
+“Aborro Reginald; lo disprezzo profondamente, e sono certo di non rivederlo mai più.”
+
+Di nuovo… Non ho forse motivo di gioire? Mainwaring è ancora più devoto a me.
+
+Più che mai. E se fossimo liberi, [[Doubt|dubito]] che riuscirei a resistere nemmeno io.
+
+Titolo:  
+Il matrimonio proposto da lui… Se sua moglie dovesse vivere con te, questo evento…
+
+#Potresti essere in grado di accelerare il processo… La violenza dei suoi sentimenti…
+
+“Deve stancarla… potrebbe essere facilmente mantenuta in uno stato di irritazione. Mi affido a te…”
+
+Per questo motivo, la [[Friendship|amicizia]] è davvero importante. Ora sono soddisfatto di non aver mai potuto ottenere nulla senza di essa.
+
+"#Deciso a sposare Reginald, sono altrettanto risoluto che anche Frederica..."
+
+# Mai lo farò. Domani andrò a prenderla da Churchill e la porterò qui.
+
+[[Maria]] Mainwaring trema all’idea delle conseguenze. Frederica diventerà Sir.
+
+La moglie di James, prima che lasci la mia [[house|>casa]], potrebbe anche lamentarsi, e basta.
+
+I temporali di Vernons possono infuriare, ma io non li considero tali. Sono stanco di subire la volontà altrui.
+
+Alle capricci degli altri; rinunciare al proprio giudizio per rispetto…
+
+#Coloro verso i quali non ho alcun dovere e per i quali non provo alcun rispetto. Ho
+
+#Abbandonato troppo, manipolato troppo facilmente… ma Frederica no.
+
+#Ora senti la differenza… Addio, carissimo amico; possa il prossimo attacco di gotta…
+
+“Attacco… sia più favorevole! E possa tu sempre considerarmi immutabilmente…”
+
+Tuo.
+
 
 
 <span class="atom-split" data-atom="story_32_s_vernon" data-title="Lady Susan — S. Vernon" data-chapter="S Vernon" data-kind="story" data-tags="motif/winter,concept/hope,setting/london"></span>
@@ -9984,6 +14706,75 @@ great distance.
 
 Your affectionate mother,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# S. Vernon
+
+
+
+
+
+
+
+
+
+XL
+
+
+
+
+
+# Lady De Courcy alla signora Vernon.
+
+
+
+
+
+# Mia cara Catherine, —ho notizie incantevoli per te… Se non le avessi inviate…
+
+Dalla mia lettera di stamattina, forse avreste potuto evitare questa seccatura…
+
+Sapendo che Reginald era andato a [[London|Londra]], in realtà è tornato.
+
+# Reginald ritorna, ma non per chiederci il permesso di sposare Lady…
+
+“Susan… ma per dirci che sono separati per sempre. Lui non è stato altro che…”
+
+Sono stato nell’[[house|casa]] per un’ora, ma non sono riuscito a conoscere i dettagli, perché.
+
+“È così basso che non ho il coraggio di fare domande… ma…”
+
+Speriamo che presto sapremo tutto. Questo è l’istante più gioioso della sua vita.
+
+Ci è stato dato fin dal giorno della sua nascita… Non manca nulla, tranne te.
+
+Titolo:  
+E qui, è il nostro desiderio e la nostra preghiera che voi veniate.
+
+Usateli il prima possibile. Ci dovete una visita da molte settimane. Spero che lo facciate.
+
+“Niente dovrebbe causare disagi al signor Vernon; e per favore portate con voi tutte le mie cose…”
+
+#I nipoti… e naturalmente anche tua cara nipote; non vedo l’ora di…
+
+Vederla. È stata un’inverno triste e cupa, senza Reginald.
+
+#E non vedendo mai nessuno da parte di Churchill… Non ho mai trovato quella stagione così desolata.
+
+#Prima di allora… ma questo felice incontro ci farà rivivere la gioventù. Frederica corre…
+
+Molto nei miei pensieri… e quando Reginald avrà ripreso il suo solito buon umore…
+
+“Spiritualmente, come spero accadrà presto, cercheremo di privarlo del suo cuore.”
+
+Ancora una volta… e sono pieno di speranze che le loro mani si uniscano presto.
+
+Gran distanza.
+
+
+
+Tua affezionata madre,
 
 
 
@@ -10092,6 +14883,110 @@ of. At present, it is not very likely.
 
 Yours ever, &c.,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+C. DE COURCY.
+
+
+
+
+
+
+
+
+
+XLI
+
+
+
+
+
+_La signora Vernon a Lady De Courcy._
+
+
+
+
+
+Churchhill.
+
+
+
+
+
+Mia cara Madre,—la tua lettera mi ha sorpresa oltre ogni misura! Può essere
+
+vero che si siano davvero separati—e per sempre? Ne sarei felicissima
+
+se osassi farci affidamento, ma dopo tutto quello che ho visto come si può esserne
+
+certi? E Reginald davvero da te! La mia sorpresa è tanto maggiore
+
+perché mercoledì, proprio il giorno del suo arrivo a Parklands, abbiamo ricevuto una
+
+visita quanto mai inattesa e sgradita da [[Lady Susan]], tutta
+
+allegria e buon [[Humour|umore]], e con l’aria di chi stia per sposarlo
+
+una volta giunta a [[London|Londra]], più che di chi se ne sia separata per sempre. Si
+
+è trattenuta quasi due ore, è stata affettuosa e amabile come sempre, e
+
+non una sillaba, non un accenno è caduto su un qualsiasi dissapore o freddezza
+
+tra loro. Le ho chiesto se avesse visto mio fratello dopo il suo
+
+arrivo in città; non, come puoi immaginare, con alcun [[Doubt|dubbio]] sul fatto,
+
+ma solo per vedere che espressione avrebbe avuto. Ha risposto subito, senza alcun
+
+imbarazzo, che lui era stato tanto gentile da farle visita lunedì;
+
+ma credeva che fosse già tornato a [[Home|casa]], cosa alla quale ero ben lontana
+
+dal prestar fede. Il tuo gentile invito è accettato da noi con piacere,
+
+e [[thursday|giovedì]] prossimo noi e i nostri piccoli saremo da te. Voglia
+
+il cielo che Reginald non sia di nuovo in città per quel [[Time|momento]]! Vorrei poter
+
+portare anche la cara Frederica, ma mi dispiace dire che sua madre
+
+era venuta fin qui apposta per riprendersela; e, per quanto ciò rendesse infelice la povera
+
+ragazza, è stato impossibile trattenerla. Ero del tutto contraria a
+
+lasciarla andare, e così pure suo zio; e tutto ciò che si poteva addurre lo abbiamo
+
+addotto; ma [[Lady Susan]] ha dichiarato che, dovendo ora stabilirsi
+
+a [[London|Londra]] per diversi mesi, non sarebbe stata tranquilla se sua figlia
+
+non fosse stata con lei per i maestri, ecc. I suoi modi, per la verità, sono stati molto
+
+gentili e corretti, e il signor Vernon crede che Frederica sarà ormai
+
+trattata con affetto. Vorrei poterlo credere anch’io. Alla povera ragazza
+
+si spezzava quasi il cuore nel prender congedo da noi. Le ho raccomandato di scrivermi
+
+molto spesso, e di ricordare che, se si fosse trovata in qualche difficoltà, noi
+
+saremmo stati sempre suoi amici. Ho avuto cura di vederla [[Alone|sola]], per poterle
+
+dire tutto questo, e [[Hope|spero]] di averla resa un po’ più serena; ma
+
+non sarò tranquilla finché non potrò andare in città e giudicare della sua situazione
+
+io stessa. Vorrei che vi fossero prospettive migliori di quante ora ne appaiano per il
+
+matrimonio di cui la conclusione della tua lettera dichiara le tue aspettative.
+
+Al momento, non è molto probabile.
+
+
+
+Sempre tua, ecc.,
 
 
 
@@ -10268,3 +15163,177 @@ and putting herself to an expense in clothes which impoverished her for
 two years, on purpose to secure him, was defrauded of her due by a
 
 woman ten years older than herself.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+C. VERNON.
+CONCLUSIONE
+
+
+
+
+
+Questa corrispondenza, per via di un incontro fra alcune delle parti e di una
+
+separazione fra le altre, non poté, con grave danno delle
+
+entrate delle Poste, proseguire oltre. Ben poco aiuto
+
+poteva trarre lo Stato dallo scambio epistolare tra la signora
+
+Vernon e sua nipote; poiché la prima si accorse ben presto, dallo stile
+
+delle lettere di Frederica, che erano scritte sotto la sorveglianza
+
+della madre! e perciò, rimandando ogni indagine particolare al momento in cui
+
+avrebbe potuto farla di persona a [[London|Londra]], smise di scrivere minuziosamente o di frequente.
+
+Avendo intanto appreso abbastanza, dal suo fratello schietto,
+
+di ciò che era passato tra lui e [[Lady Susan]] da far scendere quest’ultima più in basso
+
+che mai nella sua stima, ella era proporzionalmente più ansiosa di ottenere che
+
+Frederica fosse allontanata da una simile madre e affidata alle proprie cure;
+
+e, benché con poca [[Hope|speranza]] di [[success|successo]], era decisa a non lasciare nulla
+
+di intentato che potesse offrire una possibilità di ottenere il consenso
+
+della cognata. La sua ansia in proposito la spinse a sollecitare una pronta
+
+visita a [[London|Londra]]; e il signor Vernon, il quale, come dev’essere già apparso,
+
+viveva solo per fare tutto ciò che gli veniva chiesto, trovò presto qualche
+
+affare accomodante che lo chiamasse là. Col cuore pieno della faccenda, la signora
+
+Vernon si recò da [[Lady Susan]] poco dopo il suo arrivo in città, e fu
+
+accolta con un affetto così disinvolto e allegro da farla quasi ritrarre
+
+da lei con orrore. Nessun ricordo di Reginald, nessuna coscienza della
+
+[[Guilt|colpa]] le diede un solo sguardo d’imbarazzo; era di ottimo umore,
+
+e sembrava impaziente di mostrare subito, con ogni attenzione possibile verso il
+
+cognato e la cognata, quanto sentisse la loro gentilezza, e il piacere che le dava
+
+la loro compagnia. Frederica non era più cambiata di [[Lady Susan]]; le stesse
+
+maniere trattenute, lo stesso sguardo timido in presenza della madre
+
+come in passato, assicurarono la zia che la sua situazione era penosa,
+
+e la confermarono nel piano di cambiarla. Nessuna scortesia, tuttavia,
+
+da parte di [[Lady Susan]] si manifestò. La persecuzione riguardo a Sir
+
+James era del tutto finita; il suo nome veniva menzionato solo per dire che
+
+non era a [[London|Londra]]; e in verità, in tutti i suoi discorsi, ella si mostrava
+
+sollecita soltanto del bene e dei progressi della figlia,
+
+riconoscendo, con espressioni di grata gioia, che Frederica diventava ormai
+
+ogni giorno di più ciò che un genitore poteva [[Desire|desiderare]]. La signora
+
+Vernon, sorpresa e incredula, non sapeva che cosa sospettare e,
+
+senza mutare le proprie intenzioni, temeva soltanto una maggiore difficoltà nel
+
+realizzarle. La prima [[Hope|speranza]] di qualcosa di meglio venne dal fatto che
+
+[[Lady Susan]] le chiese se le sembrasse che Frederica avesse un aspetto altrettanto
+
+[[Well|buono]] di quello che aveva a Churchhill, giacché doveva confessare di avere
+
+talvolta un ansioso [[Doubt|dubbio]] che [[London|Londra]] non le si confacesse perfettamente.
+
+La signora Vernon, incoraggiando il [[Doubt|dubbio]], propose subito che la nipote
+
+tornasse con loro in campagna. [[Lady Susan]] non riusciva a esprimere
+
+quanto sentisse tale gentilezza, eppure non sapeva, per svariate ragioni,
+
+come separarsi dalla figlia; e poiché, benché i suoi piani non fossero
+
+ancora del tutto fissati, confidava che presto sarebbe stato in suo potere condurre
+
+lei stessa Frederica in campagna, concluse rifiutando del tutto di
+
+approfittare di un’attenzione così senza pari. La signora Vernon insistette, tuttavia,
+
+nell’offerta, e benché [[Lady Susan]] continuasse a resistere, la sua
+
+resistenza nel giro di pochi giorni parve alquanto meno formidabile.
+
+Il fortunato allarme di un’influenza decise ciò che forse non si sarebbe
+
+deciso così presto. I timori materni di [[Lady Susan]] furono allora troppo
+
+destati perché potesse pensare ad altro che ad allontanare Frederica dal
+
+rischio del contagio; fra tutti i malanni del mondo temeva soprattutto
+
+l’influenza per la costituzione della figlia!
+
+
+
+Frederica tornò a Churchhill con lo zio e la zia; e tre
+
+settimane dopo [[Lady Susan]] annunciò il proprio matrimonio con Sir James
+
+Martin. La signora Vernon fu allora convinta di ciò che prima aveva soltanto
+
+sospettato, che avrebbe potuto risparmiarsi tutta la fatica di sollecitare un
+
+trasferimento che [[Lady Susan]] aveva senza dubbio deciso fin dal principio.
+
+La visita di Frederica doveva nominalmente durare sei settimane, ma la madre, pur
+
+invitandola a tornare in una o due lettere affettuose, fu prontissima
+
+a compiacere tutta la compagnia acconsentendo a un prolungamento del suo
+
+soggiorno, e nel giro di due mesi smise di scrivere della sua assenza,
+
+e nel giro di altri due di scriverle del tutto. Frederica rimase
+
+dunque stabilita nella famiglia dello zio e della zia fino al [[Time|momento]] in cui
+
+[[Reginald De Courcy]] poté essere convinto, lusingato e condotto con arte a un
+
+affetto per lei che, concedendo il tempo necessario a vincere il suo
+
+attaccamento per la madre, ad abiurare ogni futuro legame e a
+
+detestare l’altro sesso, poteva ragionevolmente attendersi nel corso di
+
+un anno. Tre mesi sarebbero in genere bastati, ma i sentimenti di Reginald
+
+non erano meno duraturi che vivaci. Se [[Lady Susan]] fosse o
+
+no felice nella sua seconda scelta, non vedo come lo si possa mai
+
+accertare; poiché chi accetterebbe la sua assicurazione in un senso o nell’altro
+
+della questione? Il mondo deve giudicare dalle probabilità; ella non aveva nulla
+
+contro di sé se non il marito e la propria [[Conscience|coscienza]]. Sir James può sembrare
+
+aver avuto una sorte più dura di quanto la mera follia meritasse; lo lascio,
+
+dunque, a tutta la pietà che chiunque possa dargli. Quanto a me,
+
+confesso che _io_ posso compatire solo la signorina Mainwaring; la quale, venendo in città
+
+e sobbarcandosi una spesa in abiti che la impoverì per
+
+due anni, allo scopo di assicurarselo, fu defraudata del suo diritto da una
+
+donna di dieci anni più vecchia di lei.

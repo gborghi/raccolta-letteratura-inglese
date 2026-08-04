@@ -249,7 +249,7 @@ It is vain to vote if your delegates can and do disobey you.
 
 Il Grande Naufragio come Analogia
 
-G.K.Chesterton  
+G.K.Chesterton
 
 11 maggio 1912
 

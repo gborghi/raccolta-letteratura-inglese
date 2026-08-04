@@ -3651,6 +3651,50 @@ When he had done with the debts he turned to a more serious matter, and with a c
 “No,” said Georges, “nor need they be introduced if we can only keep the brother out of it. A more ardent politician I never met!”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I.
+
+In cui il girondino finisce la cena.
+
+Nel 1792, nel mese di agosto, nei primi giorni di quel mese (per essere precisi, l’ottavo), il signor Boutroux, un commerciante di vini di notevole importanza e dal comportamento particolarmente dignitoso, sedeva a tavola nella città di Bordeaux, dove aveva la sua vasta attività commerciale.
+
+La casa in cui fu servito il pasto era uno di quegli antichi edifici commerciali che si affacciavano sulle banchine centrali della città; le finestre della stanza dove sedeva per mangiare (senza luci, poiché era ancora presto e il cielo estivo era ancora luminoso) si aprivano lungo il corso del nobile [[River|fiume]] che nutriva quella città.
+
+Il signor Boutroux era a cena. Il tavolo era fatto di legno di castagno; non c'era alcun panno sopra: era lucidato e rifletteva la luce argentea delle posate, i colori dei primi frutti dell’estate e il bagliore di un decanter di vino da dessert. All’estremità del tavolo sedeva sua moglie, una donna piccola e snella, eretta e estremamente rigida nei modi. L’unica altra persona presente era suo nipote, di nome Georges: aveva vent’anni, era di corporatura robusta e gambe lunghe; si vestiva in modo effettuoso ma piuttosto trasandato. Seduto nella sua sedia intagliata, con le spalle rivolte verso le finestre e l’aria fresca del [[River|fiume]], sembrava più rilassato dei suoi parenti, ma anche meno dignitoso.
+
+Non era di cattivo umore, ma si annoiava; il motivo del suo noia era che il signor Boutroux, suo zio, gli aveva passato in rassegna, con grande attenzione, per più di venticinque minuti, tutti i suoi errori nel comportamento e il grave onere che aveva causato alla famiglia. Il suo viso bruno, tipico dei Gasconi, con i capelli neri ricci e arricciati, era parzialmente incorniciato dalla sua mano destra mentre appoggiava la testa su di essa, ascoltando quel discorso interminabile.
+
+Quel discorso era iniziato, come al solito, con la storia della famiglia. Il vecchio signore aveva sospirato per i modi poco pratici del padre defunto di quel ragazzo; aveva espresso in modo discreto il proprio rammarico per la povertà della madre defunta di Georges; aveva poi deplorato ancora di più la propria sterilità, poiché Georges era ormai l’unico suo erede. Successivamente aveva proseguito con la sua solita descrizione delle varie classi sociali della città, introducendo, a mo’ di riflessione, un confronto tra sé stesso, il rispettabile commerciante, e quella spregevole classe di giovani nobili cittadini che, avendo quasi nulla e non lavorando mai, spendevano continuamente e rimanevano sempre in debito; mancavano loro la probità e le virtù necessarie per cui i Boutroux erano noti fin dal XVI secolo. Si era preso cura di menzionare diversi nomi che sapeva appartenere ai compagni di Georges.
+
+Il vecchio signor Boutroux, rigido nel suo abito blu cielo con bottoni d’argento, con il colletto adornato di pizzo gonfio e molto attraente nonostante la sua semplice parrucca bianca (che considerava l’acconciamento appropriato e dignitoso di un uomo comune), era disposto ad ammettere che le stravaganze di suo nipote non avevano ancora intaccato il patrimonio familiare. Se avesse ritenuto utile dire la verità (e Georges lo sapeva bene), quelle spese non avrebbero nemmeno intaccato un mese del reddito familiare, né tantomeno una settimana. Ma il vecchio signor Boutroux riteneva necessario insistere su questo punto. Negli ultimi tempi, questa questione era diventata quasi un divertimento per lui; inoltre, l’indifferenza di suo nipote verso queste sue remonstranze – un’indifferenza che si manifestava solo occasionalmente attraverso qualche epigrafe rispettosa – lo esasperava profondamente.
+
+Una volta saldato i debiti, passò a una questione più seria e, cambiando tono, comunicò al proprio erede che l’alleanza scioccante di cui aveva sentito parlare doveva essere immediatamente e definitivamente scartata dalla sua mente; a questa decisione, pronunciata forse per la quindicesima volta in quei giorni consecutivi, Madame Boutroux rispose con un assenso decisivo.
+
+“Ti ordino, Georges,” disse suo zio con il tono di un giudice che pronuncia una sentenza, “di dimenticare completamente questa questione.”
+
+“Non l’ho mai nemmeno preso in considerazione”, disse Georges, guardando davanti a sé le navi allineate lungo i moli, rispondendo esattamente come aveva già fatto ogni volta che suo zio gli poneva quella domanda.
+
+“Se l’hai preso in considerazione,” disse il signor Boutroux, il più anziano, “scaccialo per sempre dalla tua mente.”
+
+“È stata molto divertita,” disse Georges, con la stessa stanchezza che solo la giovinezza può permettere, “per quanto ne so, sia dalla madre e dal fratello della signorina, sia da sua sorella che gestisce quel piccolo caffè vicino al ponte; ho anche appreso di recente che anche il suo confessore se ne occupa. E, a quanto posso capire, caro zio, voi lo fate ancora più regolarmente di tutti loro. Anche se non riesco affatto a comprendere perché lo facciate, visto che non vi porta alcun vantaggio ma solo a loro, ”
+
+“Georges”, disse sua zia, “non mostri abbastanza rispetto verso tuo zio”.
+
+“Sì, cara zia,” disse Georges, “ma ancora di più mi manca rispetto, e persino tolleranza, verso quella sorella che gestisce il chiosco del caffè vicino al ponte, verso la madre, il fratello e il confessore, contro i quali ho un rimorso molto particolare.”
+
+“Non devi rispondere in questo modo a tua zia,” disse il signor Boutroux con severità.
+
+“Non lo farei, zio,” disse Georges con tono sottomesso, “se non avessi già risposto così al fratello, alla sorella che gestisce il chiosco del caffè vicino al ponte, e soprattutto a quell’uomo odioso, il confessore. Credo davvero che stia aspettando qualche incarico legato alle questioni finanziarie.”
+
+“Non sono questi i tempi, Georges”, disse sua zia, “per ridicolizzare il sacerdozio”.
+
+“Ammetto,” disse Georges con pentimento, “che non è stato molto cavalleresco da parte mia, visto che quel poveruomo ormai da alcune settimane si nasconde in un seminterrato che appartiene alla madre; ma bisogna considerare anche il mio notevole coraggio nel parlare così francamente contro la madre, che non è certo migliore di quanto dovrebbe essere, contro la giovane donna che gestisce il chiosco del caffè, che non è certo migliore di quanto possa essere, e soprattutto contro quel fratello, del quale mi dispiace molto dover dire che è un patriota.”
+
+“Non vogliamo che tu, Georges,” disse suo zio, “introduca aspetti politici in ciò che è puramente una questione familiare.”
+
+“No,” disse Georges, “e non c’è nemmeno bisogno di presentarli, se solo riusciamo a tenere il fratello fuori da questa faccenda. Non ho mai incontrato un politico più appassionato!”
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="The Girondin — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/river,setting/paris"></span>
@@ -3701,6 +3745,52 @@ Madame Boutroux gave a terrified look at her husband, but he refused to meet her
 “Madame,” continued Georges quietly, “these people have the oddest ideas about comfortable houses. He will bring others against this house to-night; and it is my business,” he continued firmly and rather sadly, “to interrupt him.” He still held the handle of the door and gazed at the ground. “I propose to do it by persuasion; but if that fails, then in company with two friends, and with my little sword.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo questa risposta calò un breve silenzio. Georges lo utilizzò per osservare una grande barca a vela che, sotto la luce del tramonto, si dirigeva verso il faro lungo la corrente. Gli fece divertire vedere come il blocco di manovra delle vele si inceppasse mentre la barca veniva spinta a valle; poi mormorò tra sé, abbastanza ad alta voce perché suo zio potesse sentire, che, a giudicare dal modo in cui le persone a bordo gestivano le vele, sembravano anche loro dei patrioti.
+
+“Non lo farai,” disse severamente il vecchio signor Boutroux, “non devi distrarre la mia attenzione da questa questione con le tue battute. Dov'è quella sfortunata ragazza?”
+
+“Ahimè!” disse Georges sospirando, “il mio costante problema è proprio non saperlo. A causa della gioia e degli attratti di quel luogo, spesso mi è venuto in mente che Libourne potesse essere il probabile rifugio dove si sarebbe nascosta; oppure forse Barsac, perché, nonostante fosse giovane, aveva sempre una certa passione per il vino.”
+
+“Non conosci la sua direzione?” chiese sua zia, con un po’ di sospetto.
+
+“Per il momento no, cara zia,” rispose Georges con rispetto, tagliando un’apple nel suo piatto in quattro parti e chinandosi su di essa con aria pensierosa, come se quella attività lo assorbisse completamente. “Per il momento no. Ma, stranamente, lei conosce le mie responsabilità. Vorrei che le nostre incombenze fossero distribuite in modo più equilibrato.”
+
+Dopo aver detto questo, serrò le labbra, le comprimette con forza, racchiudendo così completamente i quattro quarti della mela nella pressione della sua mano sinistra; poi, utilizzando un coltello d’argento di ottima fattura – il cui manico terminava in una testa di fauno delicatamente scolpita – tagliò la mela trasversalmente e fece cadere gli otto pezzi nel suo piatto. Li guardò con occhi spalancati e piuttosto tristi, come se stessero osservando un mondo distrutto.
+
+Suo zio non ne poteva più. Qualunque divertimento potesse trarre da queste escursioni quotidiane, non avrebbe tollerato ulteriori insolenze.
+
+“Scoprirai,” disse lui con un tono leggermente cupo, alzandosi rigidamente dalla sedia e spingendola indietro, mentre le regole della buona educazione familiare richiedevano che sua moglie e suo nipote si alzassero insieme, “che questa tua sciocca abitudine ti rovinerà con uomini meno indulgenti di me.”
+
+Prese il tovagliolo dal collo, lo piegò con cura e osservò suo nipote fare lo stesso; intanto Madame Boutroux fece discretamente il segno della croce sul proprio corpetto di seta nera, poi sistemò i propri sottili capelli neri ai lati della fronte. Georges rimase in silenzio e si diresse verso la porta.
+
+“Stai per uscire di nuovo, Georges?” disse suo zio in tono minaccioso.
+
+“Mio caro zio,” disse Georges, guardando il suolo, “sì. Sono deciso a risolvere una volta per tutte questa questione con la giovane donna del chiosco del caffè, anche se devo ammettere di non osare incontrare sua madre né quel gentiluomo che lei nasconde nel seminterrato, che appartiene alla famiglia.”
+
+“Sai che i nostri amici di Laborde verranno stasera?” disse sua zia.
+
+Mentre parlava, dal molo ormai avvolto nell’oscurità provenne il suono di molte persone che si affrettavano; quel rumore aumentava progressivamente, come se una folla stesse radunandosi più lontano, lungo la [[River|fiume]].
+
+La guerra straniera, la minaccia di un'invasione nel lontano nord, l'imminenza di qualche problema vago ma enorme a [[Paris|Parigi]]. Tutto ciò, insieme all'intensificarsi della Rivoluzione negli ultimi tre anni, entrò nella mente dei tre mentre quel suono li raggiungeva; il giovane stava lì, con la mano sulla porta, mentre sua zia e suo zio lo osservavano.
+
+L’uomo anziano ricordò il legame del nipote con i giacobini locali. Aveva sentito, in modo confuso, che qualche individuo poco affidabile, collegato a quella donna disonesta – forse suo fratello? – parlava troppo spesso nel loro club. Sentiva, più che sapesse con certezza, che il “rumore” della Rivoluzione non consisteva solo in canzoni e visioni, ma doveva necessariamente avere un fondamento concreto; e che i ricchi avrebbero fornito quel fondamento. Era un uomo liberale, credeva di esserlo. Non aveva superstizioni, sperava; era a favore della nazione. Non era certo uno sciocco all’antica. No! Era a favore del Re, purché il Re svolgesse il proprio dovere; ma ricordava bene – e lo ricordava da tre anni – di appartenere al Terzo Stato. Nel suo cervello, chiaro quando si trattava di affari e confuso quando bisognava giudicare le passioni, mescolava insieme i giovani nobili poveri, quei giovani avvocati chiassosi con la loro plebaglia al Club Giacobino, l’amore infelice di Georges, e il fatto che Georges fosse uscito quella notte. Quest’ultimo aspetto gli era particolarmente vicino; su questo almeno poteva essere sicuro. E credeva che tutto ciò fosse collegato tra loro: anarchia, quegli incontri sospetti, la vita dissipata dei giovani.
+
+“Georges,” disse, “se uscirai stasera, non mi rivedrai mai più.”
+
+“Ma se non vado, mio caro zio,” disse Georges con grande rispetto, “avrete la mia compagnia soltanto per un altro breve periodo. Gli eventi ci separeranno e ci manderanno in prigione; perché il fratello di cui ho parlato, il fratello di lei, mio caro zio, ha certi piani.”
+
+Madame Boutroux lanciò uno sguardo terrorizzato verso suo marito, ma lui rifiutò di incrociare il suo sguardo.
+
+“In questi tempi,” disse l’uomo anziano, alzando la voce, “minacce di questo genere sono molto comuni. Gli uomini,” continuò ancora più ad alta voce, “soprattutto i giovani, utilizzano le disastre dello Stato per i propri scopi personali. Vi proibisco di andare.”
+
+“Madame,” disse Georges, rivolgendosi a Madame Boutroux e usando un termine insolitamente solenne che non era comune nelle famiglie francesi della sua condizione sociale, “vi assicuro che stasera il Club si riunirà. Per quanto ne so, la giovane signorina del chiosco dove poco fa scherzavo non sarà ammessa alla riunione. Non ha ancora ricevuto l’Iniziazione della Settima Casa. Probabilmente non conosce nemmeno il Triangolo Sacro, i Due Pilastri o il Trentatreesimo Grado. Eppure suo fratello intende partecipare. Madame, potrebbe proporre di intraprendere alcune azioni contro questa casa. Ha sentito dire che stasera avete degli amici qui.”
+
+“Cosa significano per lui i miei pochi amici o la mia compagnia?” interruppe povera Madame Boutroux.
+
+“Madame,” continuò Georges a bassa voce, “queste persone hanno le idee più strane riguardo alle case confortevoli. Stasera porterà altre persone contro questa casa; e mio compito,” proseguì con fermezza e un certo rammarico, “è interromperlo.” Teneva ancora la maniglia della porta e fissava il pavimento. “Propongo di farlo attraverso la persuasione; ma se questo fallirà, allora, insieme a due amici e con la mia piccola spada, ”
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_03" data-title="The Girondin — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/storm,concept/family,concept/exile,form/historical_novel,histref/the_french_revolution,setting/france"></span>
@@ -3726,6 +3816,28 @@ The little wicket as it shut behind him seemed to make a louder echo than he car
 
 He sighed gently to himself and turned to the right to reach the great and noble bridge that spanned the very broad Garonne and formed a sort of triumphal entry on to the crescent quays of the city. He noted that the air was cooler, and also that the big clouds of a storm that must have passed far up the valley were drifting eastward majestically across the last light in the sky towards the distant Dordogne and Libourne.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Boutroux, il più anziano, fu così indignato da quel discorso rivolto a sua moglie invece che a lui stesso – poiché suo nipote alto e magro gli aveva voltato le spalle per parlare con sua madre – che la sua ultima risposta fu pronunciata con un tono di passione repressa.
+
+“Georges,” disse lui quando il giovane ebbe finito, “se esci, incorrerai nella mia maledizione; se torni, non verrai più ammesso.”
+
+Georges valutò la situazione e, con esitazione, sembrò volersi sedere di nuovo.
+
+“Lasciatelo andare,” disse Madame Boutroux, pallida in volto, perché temeva i giacobini.
+
+Il signor Boutroux, il padre, non rispose; Georges, senza voltarsi a guardare negli occhi di suo zio, uscì dalla stanza, scese la larga scalinata di pietra con la ringhiera dorata, e quando arrivò alla portineria al piano interrato chiese che gli venisse aperta la serratura della grande porta di quercia intagliata che dava sulla strada. Il vecchio Nicholas, il portiere, che lo aveva tenuto in braccio il giorno della sua nascita, sorrise indulgentemente a lui.
+
+“Maestro Georges, proprio stasera dovete uscire di nuovo lungo i moli? Tutto il posto è pieno di fumo. Non è certo il momento per divertirsi!”
+
+“Non ho intenzione di divertirmi io stesso, Nicholas,” disse il giovane con un tono interrogativo. “Almeno mi divertirò interrompendo i divertimenti degli altri. Buon Nicholas, spero di tornare entro due ore.”
+
+Nicholas esitò per un momento, aspettandosi qualche esclamazione indignata dal piano di sopra – tutti i domestici della casa conoscevano infatti la lite tra zio e nipote – ma non arrivò nulla. Aprì la porta, e il giovane uscì indossando il suo piccolo costume da donna giocattolo, nell’intera magnificenza del proprio benessere: camminava eretto, avvolto nella seta nera, con una catena d’oro al taschino e fibbie d’argento alle scarpe; sembrava davvero essere in missione militare.
+
+Quel piccolo cancello che si chiudeva alle sue spalle sembrava produrre un eco più forte di quanto desiderasse sentire. Fece ciò che non aveva mai fatto prima: uscì da quella porta familiare e si trovò nel vialetto lastricato, dove ormai, nella quiete della sera, non passavano automobili né persone affrettate. Dimenticò il rumore lontano della folla e alzò lo sguardo verso la facciata della casa. Era silenziosa. Non vide alcun volto, nessun gesto da parte delle persone che vivevano lì dentro. I suoi familiari non stavano guardando dalle finestre.
+
+Sospirò dolcemente e svoltò a destra per raggiungere il grande e maestoso ponte che attraversava l’ampia Garonna, costituendo quasi un ingresso trionfale verso i moli a forma di mezzaluna della città. Notò che l’aria era più fresca, e anche che le grandi nuvole di tempesta che dovevano essere passate lontano nella valle si stavano muovendo maestosamente verso est, attraverso gli ultimi raggi di luce nel cielo, dirette verso la lontana Dordogna e Libourne.
 
 
 
@@ -3769,6 +3881,44 @@ The plebeian was willing enough, and they went off. As they went, the sister at 
 “I changed it,” said Miltiades nervously, and a little sullenly — they were many together in the body that had turned towards the Club, and he did not wish to be made ridiculous. “I changed it.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II.
+
+In cui il girondino parla di politica.
+
+In questa crisi della Rivoluzione, il ponte che attraversava la Garonna presentava, sul lato della città, due grandi pali posizionati ai lati del percorso; da questi pendevano lunghi striscioni tricolori. I passanti vi appendevano, come offerte votive, monete, piccole manciate di grano e mazzi di fiori ormai appassiti; perché il tentativo repubblicano – e le masse del popolo erano già orientate verso i valori repubblicani – stava diventando una vera religione, che si manifestava attraverso templi e simboli sacri.
+
+Georges Boutroux osservava i poli e le loro offerte con curiosità, ma anche con un certo stanco interesse. Ai piedi di uno di essi, nella luce del tramonto, vide una donna che spingeva avanti un banchetto dipinto in colori vivaci, sul quale erano posizionati bicchieri e attrezzature per preparare il caffè e servire altre bevande.
+
+Era una giovane donna di montagna, proveniente da cento miglia a sud; molto audace e disinvolta nel modo di esprimersi, con capelli bellissimi ma disordinati. I suoi occhi erano fissi, decisi e veloci come quelli di un marinaio. Erano occhi marroni, e Boutroux, osservandoli più da vicino, si ricordò che quelli di sua sorella erano meno intensi, e forse un po’ più generosi. La salutò con la massima formalità, e lei lo trattò come un mercante al mercato che considera un uomo con cui potrebbe litigare, ma spera di trarne profitto prima di farlo.
+
+“Se siete venuto per farmi una domanda, signor Georges,” disse lei, “non vi risponderò.” Tuttavia, mentre lo diceva, sorrise in modo forzato ma pronto.
+
+“Quello,” disse seriamente Georges Boutroux, “dipenderà dalla domanda che farò. Voglio sapere dove posso trovare tuo fratello.”
+
+“Oh, mio fratello!” disse la donna della montagna con un certo umorismo negli occhi fissi e distanziati tra loro, di aspetto deciso. “Tutta la gente sa dove sarà mio fratello stasera.”
+
+“Sì,” disse Georges dolcemente, “e anch'io ci sarò, ma voglio sapere dove potrò trovarlo per primo.”
+
+“Davvero, signor Georges,” disse lei con quella risata commerciale che centinaia di persone sentivano ogni giorno quando venivano al piccolo banchetto per bere la sera, “sembrate proprio come prima: più interessati alle conversazioni delle sue dame che a trovarlo. Se davvero fosse arrabbiato con voi,” aggiunse con un tono leggermente minaccioso, “verreste presto a sapere dove si trova.” Mentre lo diceva, i suoi occhi guardarono in una direzione appena a destra di lui.
+
+Si girò bruscamente e vide il giovane che stava cercando.
+
+Il fratello di quella signora era una figura davvero curiosa. In tempi tranquilli si sarebbe potuto dire che si fosse vestito in modo speciale per l’occasione o che stesse andando a un concorso; ma in momenti di violente turbolenze civili e di guerre straniere, quando lo Stato viene invaso e le passioni politiche più intense rischiano di essere sconfitte definitivamente, molte cose possono essere scusate.
+
+Indossava i propri capelli, non perché fosse nato povero (poiché i recenti progressi politici gli avevano permesso di guadagnare alcuni franchi al giorno), ma perché riteneva che fosse un comportamento tipicamente repubblicano. Nella sua mano destra teneva, con noncuranza – come oggi un uomo potrebbe tenere un paio di guanti – un cappello di lana rossa brillante importato dall’Inghilterra; quel tipo di cappello era allora indossato in Inghilterra dai lavoratori delle birrerie, ma a Bordeaux veniva utilizzato come simbolo della Libertà. Intorno al collo portava, come se fosse un medaglione, un grosso pezzo di piombo attaccato a una corda di cuoio; su quel pezzo era inciso in rilievo un triangolo all’interno del quale era rappresentata una donna seduta. Questa figura simboleggiava la Libertà: teneva in una mano un’ascia e nell’altra un mazzo di grano. Il suo grande cappotto di stoffa era aperto sul collo, rivelando alcuni centimetri del suo petto peloso; i polsini erano arrotolati su, come se avesse appena terminato il lavoro. Ma in realtà, nella sua giovane vita non aveva mai lavorato con le mani; anzi, da quando aveva partecipato all’ultima riunione della Federazione Nazionale a [[Paris|Parigi]] l’anno prima, non aveva nemmeno finto di farlo. Era più scuro di Georges, più basso, ma altrettanto tipico del carattere guascone; i suoi capelli erano neri, i suoi occhi decisi e risoluti. Il suo portamento rivelava quel coraggio eccezionale e virile che associamo alla valle della Gironda: una razza militare. Indossava pantaloni di stoffa comune; per un curioso gusto estetico, aveva i polpacci e le gambe scoperti. Ai piedi portava un paio di stivali militari. E per fare bella figura, si era anche legato in vita una grande spada da cavaliere leggero. In effetti, aveva qualche diritto su quella spada: apparteneva infatti a uno di quegli organizzazioni volontarie irregolari che la politica anarchica dell’epoca tollerava, anzi approvava.
+
+Questo personaggio – di nome Henri Sorrel, o almeno così era battezzato; in seguito adottò il nome Aristogeiton per motivi democratici, e ancora più tardi, cambiando idea, divenne Miltiade – guardò Georges Boutroux senza rabbia, ma con notevole coraggio. Gli chiese cosa volesse, chiamandolo “Georges” e usando il tu familiare tipico del francese; un comportamento che, soltanto due anni prima, sarebbe sembrato a un giovane appartenente alle classi più agiate della città, proveniente da una persona del genere, come un colpo in faccia.
+
+Georges lo salutò con eccessiva cortesia; ricambiando il saluto, pronunciò il nome greco del suo compagno con un accento sonoro, dicendo di non desiderare altro che accompagnarlo e parlare con lui mentre camminavano verso il luogo dell’incontro della Sezione, verso il Club.
+
+Il plebeo era abbastanza disposto, e così partirono. Mentre si allontanavano, la sorella del chiosco del caffè li chiamò indietro con quel grido forte, ruvido e acuto che le donne della gente comune usano. Miltiade si voltò a guardarla, ma in quel momento Georges tirò sulla sua manica sporca, così lui si girò di nuovo e non la sentì. Lei voleva avvertirlo.
+
+“Miltiade,” disse seriamente Georges Boutroux, “sai che per un soffio non ti ho chiamato Aristogeitone? Quel nome apparteneva una volta a te.”
+
+“L’ho cambiato,” disse Miltiade con nervosismo e un po’ di malumore; c'erano molte persone riunite intorno al Club, e lui non voleva passare per ridicolo. “L’ho cambiato.”
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="The Girondin — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/paris"></span>
@@ -3810,6 +3960,44 @@ When that was over, speeches were made, simple and violent enough. They conclude
 
 As he spoke the audience saw the invaders already upon the march, the treason of the King and of the Executive Government, the garrisoning of the palace, and the necessity for national action and for the destruction of all that impeded it. The careful, classical sentences suited the long tradition of those minds. The rhythm of those phrases sobered the drunkards: they filled the rest with that cold enthusiasm which, in the Latin tradition, is the precursor both of heroic deeds and of crimes.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ma perché?” chiese Boutroux in modo innocente.
+
+“Beh, è iniziato con, ” stava rispondendo Aristo-Miltiade, quando Georges lo interruppe con un’espressione di comprensione contenuta. “Certo,” disse Georges; “capisco.”
+
+Mentre i due giovani percorrevano le strade diretti al luogo dell’incontro, altri ancora si unirono a loro, persone delle più svariate origini e caratteristiche.
+
+Alla fine arrivò un vecchio gentiluomo un po’ incerto nei movimenti, appartenente alla nobiltà locale; ogni volta che incontrava Georges, non mancava mai di mettergli un braccio intorno al proprio e chiedergli in prestito qualche moneta d’argento. E stasera fece lo stesso.
+
+Con lui c'erano due robusti lavoratori dei moli, sciocchi e di buon carattere, felici (ma un po’ timidi) di mescolarsi con i ricchi. Uno di loro prese in giro il nobile anziano, ferendolo alle costole. Si unì anche un giovane ebreo pallido che vendeva libri; aveva occhi acuti, piuttosto furtivi e molto veloci nel muoversi. Era un uomo che davvero si aspettava qualcosa dal nuovo mondo, qualcosa di apocalittico, innaturale, e a proprio vantaggio. Era pieno di idee stravaganti e drammatiche, ma non era sicuro che la guerra non fosse pericolosa. C’era anche un avvocato fallito, con un viso impassibile e la determinazione di diventare “padrone degli uomini”, qualcosa che, nei suoi trentadue anni di insuccessi, non era mai riuscito a realizzare. Con loro c’era anche un giovane ufficiale dell’esercito, orgoglioso e un po’ cupo. Quando arrivarono nella sala, erano quasi cento persone.
+
+Alla porta non c'era alcuna parola d'ordine; poiché tutti facevano parte dei Fratelli, l'incontro non era segreto. Le Sezioni erano state regolarmente costituite; si trattava di un incontro di una Sezione, e qualsiasi cittadino poteva entrare. Tuttavia, alcuni decisero comunque di fornire una parola d'ordine, in modo piuttosto ostentato, a un uomo dall'aspetto stanco che stava alla porta, proprio come qualcuno che raccoglie i biglietti per un evento; e apparentemente, quella notte, la parola d'ordine era “La Razza Umana”.
+
+Boutroux, mentre entrava, posò per un momento la mano sulla spalla di quell’uomo magro e pallido che sembrava spaventato, e disse: “La parola d’ordine stasera è ‘L’Umanità’?”
+
+“Sì – non c’è alcuna password – sicuramente,” disse il piccolo uomo, colto di sorpresa e completamente ignaro della situazione.
+
+“Sono felice di saperlo,” disse Boutroux. “Pensavo potesse essere ‘uguaglianza’ o ‘fratellanza’ o qualcosa del genere. Non riesco a capire bene.” Guardò a lungo negli occhi quell’uomo magro e stanco. “L’umanità,” disse, “e che vada al diavolo. Ma ricorda: entrambi ne facciamo parte.” E con queste parole entrò dentro.
+
+Alcuni membri del gruppo lo guardarono con sospetto, ma lui si rivolse a colui che sembrava il più intelligente (e anche il più sospettoso) e disse: “Credetemi, signori; è assolutamente vero.” Poi entrò e prese posto su un banco ruvido insieme agli altri.
+
+La stanza era lunga, bassa e stretta: aveva servito a turno come piccolo mercato del vino, come sala da ballo e come luogo di riunione pubblica. In seguito era stata acquisita dalla città per le riunioni regolari di questa sezione. Cinque lampade a olio sporche pendevano dall’alto soffitto, sopra il corridoio che separava i posti a sedere su entrambi i lati; dondolavano appena al di sopra della testa degli uomini presenti. Circa trecento persone erano lì, di cui forse una dozzina era leggermente ubriaca; il resto era sobrio. Metà dell’auditorio fumava la pipa, come era consuetudine tra la gente comune. Uno o due dei personaggi più ricchi tiravano di tanto in tanto il naso nel tabacco. Sul palco, all’estremità della stanza, c’erano sei uomini solenni: tre vestiti con cura secondo lo stile della classe media, uno in abiti militari e particolarmente trasandati, un prete – un parroco di campagna dall’aspetto grave e disordinato – e l’ultimo una figura alta, snella e fanatica i cui sguardi e gesti attiravano immediatamente l’attenzione, poiché sembravano incarnare interamente lo spirito della Rivoluzione.
+
+Quest'ultimo si alzò, colpì il tavolo con un martello e chiese di vedere gli atti dell'ultima riunione. Il vecchio nobile, in stato di declino, al fianco di Boutroux protestò: si trattava di una riunione della Sezione, non del Club Giacobino. Lui era lì in qualità di membro della Sezione, non del Club.
+
+Iniziarono a diffondersi mormorii; diversi cittadini sollevarono dubbi sulla morale privata di colui che aveva interrotto la discussione, mentre un uomo dal timbro di voce profondo del suo quartiere lo paragonò uno dopo l’altro a diverse specie di animali insignificanti. Boutroux afferrò bruscamente il vecchio nobile per la coda del suo abito gallonato, lo strappò e poi, per scusarsi di un comportamento indegno, gli sussurrò all’orecchio con quel tono autoritario che è permesso a un creditore.
+
+“Sono qui per una questione davvero importante, signor de Riserac. Le chiedo un favore: non li infastidisca.”
+
+L’interruzione dell’uomo anziano fu ignorata. Tutti i presenti facevano parte del Club, e presto si rese chiaro che quell’incontro non era né una riunione della sezione locale né un dibattito tra gli elettori, ma una riunione formale di quell’organizzazione che, entro due giorni, avrebbe sollevato [[Paris|Parigi]] in armi, assaltato il palazzo e conquistato il potere esecutivo in tutto il paese.
+
+I minuti furono letti brevemente; l’approvazione avvenne tramite un semplice alzata di mano, interrotta solo da un uomo ubriaco che cercò di parlare senza riuscirci. Il Presidente gli tenne allora una breve lezione sulla virtù civica della sobrietà. Poi, senza discorsi e senza indugi, il comitato presente sul podio iniziò a lavorare: il primo punto all’ordine del giorno era un elenco di “uomini pronti a rispondere all’appello in caso di necessità”. Nome dopo nome, tutti i nomi furono letti e approvati. Quasi tutti erano conosciuti o per il loro legame con le nuove forze miliziane rivoluzionarie, o per le dichiarazioni pubbliche fatte nella città, oppure su raccomandazione della società madre di [[Paris|Parigi]]. L’elenco fu approvato nel suo complesso; tutti i presenti sapevano chi potesse essere affidabile quando – poiché ormai era chiaro che la lotta non sarebbe stata lontana – il popolo fosse stato chiamato a mobilitarsi.
+
+Quando tutto fu finito, vennero tenuti discorsi, semplici e piuttosto violenti. Si conclusero con un breve e molto bel brano di prosa misurata, preparato da quel fanatico che presiedeva la riunione, e preparato davvero con cura.
+
+Mentre parlava, il pubblico vide gli invasori già in marcia, la tradizione del Re e del Governo Esecutivo, l’occupazione del palazzo, e la necessità di un intervento nazionale per distruggere tutto ciò che ne ostacolava la realizzazione. Le frasi precise e classiche si adattavano perfettamente alla lunga tradizione di quegli intellettuali. Il ritmo di quelle parole riscuoteva i “ubriachi”: riempivano gli altri con quell’entusiasmo freddo che, nella tradizione latina, è sia il precursore delle imprese eroiche che dei crimini.
 
 
 
@@ -3911,6 +4099,102 @@ Boutroux did not answer, but strode on.
 “Precisely,” answered Georges.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo il discorso del Presidente, seguirono brevi e violente interruzioni piuttosto che lunghi discorsi appassionati; ognuna di queste interruzioni aumentava ulteriormente l’agitazione dell’assemblea, fino a quando finalmente le emozioni si esaurirono. Al segnale del presidente, la serata terminò.
+
+Miltiades si alzò al suo posto. “Ho notizie urgenti prima che ci separiamo,” gridò, guardando di sottecchi Georges, ma questi rimase immobile.
+
+“È informazione per l’Esecutivo?”, chiese il Presidente.
+
+“Sì, informazioni su un complotto.”
+
+Non appena Miltiade gridò quell'ordine, molti si fermarono mentre uscivano e alcuni addirittura tornarono indietro, come se volessero restare.
+
+Il Presidente li chiamò tutti con voce chiara: “L’assemblea è terminata, cittadini; non c’è bisogno che nessuno rimanga tranne il Consiglio Esecutivo. Noi compieremo il nostro dovere.”
+
+A questo punto si mossero di nuovo verso l’esterno, ma lentamente, in direzione della porta.
+
+Erano quasi le nove e mezza; la stanza era vuota.
+
+Boutroux posò la sua mano con una certa forza sulla spalla di Miltiade, scosse via il nobile anziano che cercava di attaccarsi a lui e disse al plebeo: —
+
+“Miltiade, verrò ad aiutarti. Forse posso essere utile.”
+
+Il plebeo non era privo di sentimenti. Aveva sempre pensato che fosse difficile nascondere a Boutroux dove potesse trovarsi sua sorella in quel momento; si sentiva sotto una sorta di obbligo, un obbligo misto, come deve sempre essere per le persone di origine contadina, con la speranza di ottenere qualcosa in futuro. Comunque, gli sembrava imbarazzante che Boutroux fosse lì.
+
+“È un segreto,” mormorò; “non puoi farci nulla.”
+
+“Chi lo sa?” rispose Georges pensieroso; “un amico è sempre utile. Ad esempio, potresti sbagliarti e quindi essere sospettato. È meglio che venga.”
+
+Si avvicinarono insieme al tavolo. Gli uomini sulla piattaforma stavano esaminando un’altra lista presente in un libro più piccolo; quando si avvicinarono, il libro venne rapidamente chiuso davanti alle dita del Presidente.
+
+“Cosa hai da dire, cittadino?” chiese solennemente a Miltiade, ignorando completamente Georges.
+
+Miltiade mormorò alcune parole in tono cupo.
+
+“Conosciamo quella casa”, rispose il Presidente; “l’abbiamo segnalata”.
+
+In questo momento intervenne Boutroux.
+
+“Dovrei sapere contro chi si possano intraprendere azioni,” disse, “se queste dovessero rivelarsi necessarie.”
+
+“Agire sarà necessario”, disse il Presidente, parlando con voce ferma, come una statua.
+
+“Sì,” rispose Boutroux con la stessa facilità di sempre, “e dobbiamo tutti sapere contro chi verrà utilizzato, altrimenti ci sarà confusione.” Poi, come se stesse parlando di un sapore del vino, aggiunse: “Ho diversi motivi per dire che preferirei molto che non venisse utilizzato, soprattutto contro la casa di mio zio. Dopotutto, io vivo lì.”
+
+Il Presidente, guardandolo con assoluta sincerità, disse: “Se vi chiamo, cittadino, dovete adempiere al vostro dovere.”
+
+“Certamente, Cittadino,” disse Boutroux in modo ritualizzato. (Aveva già fatto ridere molte giovani donne con quell’espressione assurda; sapeva come usarla all’improvviso, nei salotti, per suscitare reazioni divertite.)
+
+“Cittadino, nessun uomo onesto soffrirà,” dichiarò il Presidente, “e la proprietà di tutti, sia onesti che ingiusti, sarà rispettata dalla maestosità del Popolo.”
+
+“Ecco fatto,” disse Boutroux con dolcezza, sorridendo a quel membro dei sei direttori che gli sembrava il più rozzo e il meno umano. “Mi sono preso la briga di salire quassù, prima di uscire nell’aria molto più fresca là fuori, per dirvi che mio zio appartiene ai giusti, e che sarebbe estremamente conveniente per me se le sue proprietà potessero essere al sicuro, affidandole alla maestà del Popolo.”
+
+Per un momento Miltiade sembrò imbarazzato, mentre Boutroux aspettava la sua risposta.
+
+“Nessuno minaccia tuo zio,” disse seriamente il presidente fanatico, ma fu abbastanza imprudente da aggiungere: “La ricchezza è indifferente alla profonda indignazione del popolo; ma se ci sono traditori, ”
+
+“Mi avete fornito proprio la parola giusta,” interruppe Boutroux. “Proprio quella parola! Me la ero dimenticata, e ora me l’avete ricordata! Presidente, il punto fondamentale è che mio zio non è affatto un traditore; questo è un aspetto estremamente importante sia per lui che per la popolazione giustamente indignata. È una questione cruciale, in una notte come questa, davvero di vitale importanza,” e Boutroux lanciò uno sguardo all’uomo rozzo nel quale sperava di trovare un alleato.
+
+Quell’uomo rozzo, ma anche di buon umore e spensierato, scoppiò in una sonora risata. “Cittadino!” disse, “Cittadino! Credo davvero che tu sia un gallo!”
+
+Il curato, che aveva frequentato la scuola trent’anni prima, prese un pizzico di tabacco e disse “Sale da soffitta”, due volte, ma nessuno lo capì né si curò di ciò che aveva detto. L’uomo rozzo all’improvviso iniziò a ridere e non riuscì più a smettere; rise fino alle lacrime agli occhi. Il fanatico era indignato, ma la virilità dell’uomo rozzo prevalse.
+
+“Citizen Boutroux,” disse tossendo tra i suoi respiri affannosi, “tu sarai la mia rovina. Ti amo tanto in tempo di rivoluzione quanto nelle cantine dove si produceva vino, prima ancora che si pensasse alle rivoluzioni. E anche quando eri solo un stupido ragazzo di diciassette anni. Signore mio. Il patriottismo, a volte, può rivelarsi altrettanto pericoloso e insicuro quanto qualsiasi altra cosa, ”
+
+“Esattamente,” disse Boutroux. “La vergogna e l’umiliazione che proverei se la mia famiglia dovesse in qualche modo deludere la causa popolare mi farebbero dimenticare una piccola perdita di denaro. Comunque, poiché stiamo parlando di denaro” — guardò intorno a sé — “sono disposto ad accettare una garanzia di mille. La Sezione accetterà tale garanzia? Devo firmare?”
+
+“Senza firme siamo meglio”, disse il Presidente con calma, “e la tradizione non ha prezzo”.
+
+“Esattamente,” disse Boutroux. “Volevo aggiungere che non appena si manifestasse il minimo segno di tradimento, o, meglio ancora, di calo nell’entusiasmo, i soldi andrebbero confiscati. Ma c’è una cosa di cui dovrei avvertirvi: mio zio a volte soffre di allucinazioni, e quando non è se stesso parla in modo casuale. Vi prego solo di ricordare che, sulla garanzia di un altro migliaio di euro, vi assicuro che, se dovesse dire qualcosa di indecoroso o contrario ai principi civici, significa semplicemente che sta soffrendo di allucinazioni.”
+
+“Le sue parole meritano fiducia?” chiese il Presidente, rivolgendosi a Miltiade.
+
+“Ho fornito informazioni vere,” borbottò l’uomo. “Avrei potuto mostrare favoritismo, ma non l’ho fatto.” Avrebbe voluto che mille di quelle somme gli fossero arrivate; sospettava che, se avesse tenuto fermo la sua posizione, un’altra somma sarebbe potuta finire nelle sue mani.
+
+“Mille lire,” disse il Presidente, ricorrendo al vecchio gergo e parlando in modo rigido, “non sono altro che lo stipendio di un onesto cittadino lavoratore per un anno; e per uomini come voi,” aggiunse severamente rivolto a Boutroux, “non rappresentano altro che il prezzo di una dissolutezza. La Libertà non può essere comprata, né la Nazione. Tuttavia accetteremo la vostra garanzia.”
+
+“Soprattutto per quelle allucinazioni,” disse l’uomo grasso che si occupava della cantina del vino, ridendo di nuovo a crepapelle.
+
+“Sì,” rispose Boutroux in tono tranquillo, “è proprio questo il punto che desidero sottolineare soprattutto. Mio zio a volte esprime le cose in un modo così esasperante, ” E sospirò. “Ma vi assicuro che ha buone intenzioni. E ecco,” disse, tirando fuori all’improvviso un mazzo di biglietti sporchi, “metà della somma richiesta. L’altra metà, ”, aggiunse, sospirando di nuovo come se fosse estremamente annoiato, “potrete riceverla il giorno dopo che avrete avuto l’occasione di andarlo a trovare.”
+
+Il Presidente mise i soldi in una scatola di metallo, aggiungendo anche un breve annotazione con il nome e l’ora. Poi uscirono tutti insieme.
+
+Miltiade, camminando al fianco di Boutroux, lo guardava di tanto in tanto nell’oscurità con curiosità, con paura e anche con un certo rispetto.
+
+“Dovevo compiere il mio dovere,” disse.
+
+Boutroux non rispose, ma continuò ad andare avanti.
+
+“Dovevo compiere il mio dovere,” disse di nuovo Miltiade; nel suo tono c'era un'aria di arroganza, ma anche un accenno di negoziazione. “Mia sorella, ” continuò.
+
+“Ecco ora,” disse Boutroux in tono piacevole, “quell’argomento fatale,! Sai, Aristogeitone, intendo dire Miltiade, c’è forse un tema su cui mio zio e tu potreste dissentire (se aveste l’onore di andarlo a trovare con la delegazione, ), ”
+
+“Sei il tuo stesso padrone, e tutto dipende da te,” rispose Miltiade con fermezza. “La tua casa, tuo zio e tutto ciò che possiede, puoi tenerli o perderli.”
+
+“Esattamente,” rispose Georges.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_01" data-title="The Girondin — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/river,setting/paris"></span>
@@ -3955,6 +4239,46 @@ All this while the crowd was increasing. Young lads had run from its outskirts t
 The night with all, and wine with many, had led to exaltation, when — at that most ill-timed occasion — a great gilt coach, lumbering, drawn by four fat horses, the two near mounts ridden by postilions in antiquated livery, tried to force its way from the one arch to the other along the thoroughfare. The crowd was too dense, for its passage, and a rumour rose about it. The rumour grew to a loud quarrel; a barearmed blacksmith in his leathern apron tore at the hinged door until it gave way. A moment more and the two postilions were dragged from their saddles, there were cries, and after the cries blows.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO III.
+
+In cui il Popolo Sovrano interpreta il ruolo dello Scemo.
+
+Per i minuti successivi camminarono fianco a fianco in silenzio, gli altri alle loro spalle. Quella notte di agosto, la strada era avvolta da un’atmosfera opprimente, più densa di quanto Boutroux si aspettasse uscendo da quella sala chiusa, affollata e illuminata dalle lampade. Un silenzio totale preannunciava il temporale; verso nord, al di sopra del largo [[River|fiume]], alte nuvole creavano un vuoto nero contro le poche stelle dell’zenit. —
+
+Proseguirono tutti insieme per altri cento metri di strade strette, fino a dove un vecchio arco sovrastava un viottolo – erano diretti verso i larghi moli; lì il piccolo gruppo si disperse, ma lungo la strada dovettero attraversare il cortile di una locanda che, nel labirinto della città vecchia, costeggiava il passaggio da un edificio ad arco all’altro. Il cortile era un rettangolo con un selciato irregolare, situato sul lato opposto dell’edificio stesso. Mentre vi si avvicinavano attraverso l’arco, sentirono voci e movimenti nel cortile nascosto oltre: videro il bagliore intenso delle grandi lampade contrastare con la debole luce della lanterna a olio che la Corporazione aveva fatto installare sopra quel passaggio aperto; Boutroux sentì Miltiades dire ai suoi compagni che doveva trattarsi del corriere di [[Paris|Parigi]] portatore di notizie.
+
+Due o tre dozzine di uomini, di tutte le età e con abiti diversi, si erano radunati in un piccolo gruppo intorno alla carrozza alta, la cui copertura di tela era già stata stesa e il cui carico non ancora scaricato era fissato sul tetto. I cavalli erano stati rimossi dal veicolo, quindi i suoi assi si appoggiavano verticalmente al suo corpo. Sul sedile posteriore, con una lanterna vicino a un foglio stampato, c’era uno dei cocchieri che il piccolo gruppo conosceva con il nome di Arnan; loro lo incoraggiavano a leggere con scherzi e occasionali applausi.
+
+Il capo stalliere uscì in mezzo a tutto questo mentre gli uomini della Sezione si univano agli altri, insieme a Boutroux e Miltiades; chiamò con rabbia il postiglione di scendere da cavallo, ma in cambio ricevette una serie di commenti ostili dalla folla: alcuni gli chiedevano perché non fosse nell’esercito di Condé, altri perché non fosse con i prussiani, e alcuni ancora gli suggerivano di andare a presidiare il Palazzo Reale a [[Paris|Parigi]]. L’uomo era anziano, dall’aspetto severo e coraggioso; rispose come se anche lui facesse parte della folla, invece di essere un solo uomo contro tanti: che piuttosto che tradire il proprio re, si sarebbe gettato nel fiume Gironde.
+
+Un ragazzo grasso e alto che stava vicino a lui disse: “Forse ti risparmierai questa fatica.” L’ostiere lo gettò a terra. Iniziò una rissa, ma la voce alta dell’ostiere, che continuava a leggere, fece allontanare i disturbatori dal luogo dove avevano iniziato la loro aggressione. L’anziano ostiere, mormorando una maledizione e facendosi il segno della croce, tornò nell’oscurità delle stalle, aspettando che il suo subordinato finisse il proprio “lavoro patriottico”.
+
+Il postiglione continuò a leggere: “C'erano voci; gli invasori erano in marcia; non avevano ancora attraversato il confine; La Fayette aveva certamente tradito lo Stato, ”. Al solo nome di La Fayette, una dozzina di loro iniziarono a fischiare così forte che la nuova accusa contro quell’uomo fu sommersa dal rumore. Il postiglione alzò la mano e proseguì nella lettura: —
+
+“È certo che il potere esecutivo armerà le Tuileries. La sua guardia composta da mercenari stranieri ha già ricevuto l’ordine di muoversi da Rueil; diverse sezioni di [[Paris|Parigi]] hanno accettato oro austriaco e hanno tradito lo Stato, marciando ora per aiutare il Re.”
+
+A questo punto, mentre il postiglione continuava la lettura, un uomo molto grosso e sciocco, con il viso insolitamente rosso, disse a voce alta: “È una bugia!”
+
+Il postiglione mostrava una certa dignità nel comportamento. “Signori,” disse, “quel cittadino è ubriaco!”
+
+“È proprio vero,” disse il cittadino in questione, “e inoltre tu sei un bugiardo.”
+
+Due dei suoi vicini si avventarono sull’interlocutore e iniziarono a colpirlo dolcemente con i pugni, dicendo: “Taci, sciocco; vogliamo sentire le notizie.”
+
+Fu gentile con loro, anche se in modo ubriaco, ma continuava a mormorare: “È una bugia! Tutte le Sezioni sono fedeli alla Rivoluzione.” Poi aggiunse, in modo un po’ incongruente: “E il Re è un maiale!” Ma non interruppe più.
+
+Il postiglione continuò la sua lettura: “Il numero dei volontari arruolati ammonta ormai a undicimila. I federali di Marsiglia competono per zelo verso la Libertà con i federali di Bordeaux, ”. Quella frase l’aveva inventata lui stesso, e suonava bene. Si udirono mormori di approvazione. “È l’opinione generale,” proseguì il postiglione in tono sentenzioso, “di coloro che sono meglio informati nella capitale, che gli eventi non possono essere più rinviati a lungo.”
+
+“Lo senti?” disse Miltiade, sussurrando febbrilmente a Boutroux, mentre il postiglione continuava a raccontare le sue notizie.
+
+“Sì,” disse Boutroux con gravità, sorridendo tra sé nell’oscurità e osservando con calma il volto mutevole e incontrollabile del postiglione, mentre la luce della lanterna del carro lo evidenziava nel buio. “È davvero molto promettente. Eventi imminenti! Se solo fosse tutto qui, non sarebbe nulla di grave; ma il problema è, ” aggiunse pensieroso, come se stesse valutando attentamente le parole che stava per pronunciare, “il problema è che non tarderanno ad accadere.”
+
+In tutto questo tempo, la folla continuava ad aumentare. Giovani ragazzi erano corsi dai suoi margini per chiamare altri a unirsi, fino a quando il numero dei partecipanti non raggiunse le centinaia; la folla riempì l’intero cortile, formando un gruppo compattato e piuttosto irrequieto nei suoi angoli più oscuri. Questi ultimi arrivati sentirono soltanto le parole finali: si trattava di una dichiarazione secondo cui “il paese era in pericolo” e di un appello al partito rivoluzionario affinché fornisse volontari.
+
+La notte, con tutto ciò che comportava e il vino bevuto da molti, aveva portato all’ebbrezza. Quando, in quel momento assolutamente inopportuno, un grande cocchio dorato, trainato da quattro cavalli grassi e con i due postiglioni in abiti antiquati a cavallo, cercò di farsi strada attraverso la folla. La calca era troppo densa per permettergli il passaggio, e si diffuse subito un pettegolezzo. Il pettegolezzo si trasformò in una violenta lite; un fabbro armato solo di mani strappò la porta del cocchio fino a farla cedere. In un attimo, i due postiglioni furono trascinati giù dalle loro cavalcature; seguirono urla, e poi colpi.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="The Girondin — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/river"></span>
@@ -3986,6 +4310,34 @@ As he went, Miltiades, who still stuck close to him, nudged him maliciously in t
 
 He lurched away from Miltiades’ side into the shadow of a small alley, swiftly ran down it, doubled through a yet narrower courtyard that ran at right angles, and continuing his pace and knowing every inch of the surroundings, came out by the broad riverside at the very corner of his uncle’s house. He stood near the door of it and saw the company which he had just left approach, swirling and singing, up the quays. He stood where he hoped to be unnoticed, in the corner of the heavy carven porch; the lamp hung from its gilded and delicate metal ornament above his uncle’s doorway, throwing a complete and blinding shadow over the spot where he hid. There was yet another coach standing ready at the door: the last guests entering it were making their profuse farewells and handing their vales to the porter and his wife. The mob was approaching rapidly, and Boutroux dared not step out into the light to warn the household lest the first rank of the rioters should note his action and burst in. The great oaken doors were clapped to just in time, the postilions cracked their whips, the coach rattled off swiftly northward along the [[River|river]]. A few larrikins pursued it, barefooted, shouting insults, but there was nothing worse. The mass of the mob as it arrived swarmed round the lodge window and clamoured for the master of the house and for his remaining guests.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L’interesse della folla si spostò dal lettore del dispaccio seduto sul sedile posteriore della diligenza verso questa nuova avventura. Alcuni dicevano che fosse il Sindaco, altri menzionavano il nome di un signorotto impopolare che aveva insistito per ottenere i vecchi salari nei vigneti. Altri, più semplici di mente, sostenevano che chiunque viaggiasse in una carrozza così lussuosa dovesse necessariamente essere una spia austriaca.
+
+Nel frattempo, all’interno del treno, voci di donne protestavano ad alta voce contro quell’umiliazione e quel pericolo; Boutroux, facendosi strada tra la folla, osservò (e sospirò nel vederle) due amiche della zia sua, nobildonne decadute del casato Laborde, che lei apprezzava per il loro nobile nome. Probabilmente erano arrivate in quel momento dalla casa di suo zio, e Georges intuì subito un pericolo imminente.
+
+Intorno al comandante era già stato formato uno di quei comitati spontanei che la Rivoluzione aveva il genio di creare in un attimo; il suo leader era naturalmente l’uomo che aveva presieduto la riunione della sezione da cui tutti provenivano.
+
+Le due signore erano in piedi ai piedi della loro carrozza, continuando a protestare con un fiume di lamentele: lui poneva domande in modo molto serio, come se fosse un giudice, decidendo quale dovesse essere l’azione appropriata del Popolo, e insisteva ripetutamente con calma.
+
+“Dobbiamo saperlo, signore mie, altrimenti come possiamo formulare un giudizio ragionato?”
+
+Poiché non volevano rispondere, ma continuavano a minacciare e pregare a turno, venne preso in considerazione il testimone di uno dei cavalieri; alla domanda formale su da dove provenissero e dove stessero andando, quest’uomo rispose che erano arrivati da una serata mondana presso la casa del commerciante M. Boutroux, e per quanto riguardava la loro destinazione, non era altro che l’Hotel of the Shield, nella stessa città.
+
+Il Presidente disse loro con serietà che era sufficiente, e che avrebbero potuto evitare molti problemi se le risposte fossero state date prima. Menzionò due uomini che per caso erano armati: uno aveva una sorta di cacciavite, l’altro un vecchio spadone, e ordinò loro di prendere le redini dei cavalli e di portarli in quell’hotel, affinché non ci fossero malintesi.
+
+Il cocchiere, così scortato, se ne andò; purtroppo, la folla accalcata si mosse con una sorta di disciplina spontanea per fare spazio al veicolo. La porta della carrozza, con il suo stemma logoro e staccato dalle serrature, giaceva distrutta a terra; un uomo sollevò quella parte dipinta e denunciò quel simbolo di nobiltà. Le vecchie signore rientrarono nella loro carrozza aperta e, con tutta la dignità che riuscirono a mostrare, ripresero il loro viaggio.
+
+Quando se ne furono andati e la folla si richiuse di nuovo alle loro spalle, accadde esattamente ciò che Boutroux temeva: il Presidente, salendo sulle tre pietre che fungevano da gradini per raggiungere l’osteria, annunciò con grande serietà alla folla che chiaramente si era tenuto – o forse si stava ancora tenendo – una riunione nella casa del cittadino Boutroux, un uomo sospettato da alcuni e designato per partecipare a una delegazione; che era dovere di tutti i patrioti verificare se il Comitato Austriaco locale non avesse tenuto lì una delle sue riunioni politiche quella notte. Disse di non voler soffermarsi sugli stemmi presenti sulla carrozza, né sull’ora insolita della sua apparizione, né sull’insolenza dimostrata dai suoi occupanti verso la gente. Li pregò, durante la loro imminente visita alla residenza cittadina dei Boutroux, di rispettare i diritti di un cittadino, ma allo stesso tempo di ricordarsi anche di quelli dello Stato e della Rivoluzione.
+
+Per altri cinque minuti si abbandonò alla retorica tipica di quel momento; quando scese dal suo piedistallo, i circa mille persone che si erano radunate in quell’angusto spazio erano già pronte all’attacco. Una donna del mercato, che si era fermata per curiosità mentre tornava a casa, pensò fosse opportuno intonare il nuovo inno dei cittadini di Marsiglia, arrivato in città tre settimane prima. L’intero gruppo si diresse quindi verso i moli e le case ricche, seguendo la strada più breve; tra loro c’era anche Georges Boutroux, che malediceva la loro tradizione, desiderando ardentemente di riavere i suoi soldi indietro. E nel frattempo rifletteva su quanto fosse meglio, in momenti critici, non avere alcun piano preciso.
+
+Mentre camminava, Miltiade, che continuava a seguirlo da vicino, gli diede una spinta maliziosa sulle costole e disse: “Farai il tuo dovere, cittadino?”
+
+“Certamente, cittadino,” disse Boutroux con gravità. “È l’unico mestiere che conosco.” Mentre percorrevano i stretti viali lastricati tra le alte case antiche, fece in modo di spostarsi leggermente a sinistra, verso il margine della folla. Finalmente, proprio quando la testa della rumorosa processione arrivò sulle banchine, colse l’occasione giusta.
+
+Si allontanò barcollando dal lato di Miltiade, nascondendosi nell’ombra di un piccolo vicolo; corse velocemente lungo di esso, attraversò un cortile ancora più stretto che si estendeva ad angolo retto e, conoscendo ogni dettaglio del luogo, uscì sulla riva del fiume, proprio all’angolo della casa di suo zio. Si fermò vicino alla porta e vide il gruppo di persone che aveva appena lasciato avvicinarsi lungo il molo, cantando e chiacchierando. Si nascose nell’angolo del portico scolpito in modo massiccio, sperando di passare inosservato; la lampada, appesa sopra l’ingresso di suo zio, proiettava un’ombra densa e oscura sul luogo in cui si trovava. C’era ancora un altro calesse pronto all’uscita: gli ultimi ospiti che vi salivano si stavano congedando calorosamente, consegnando i loro doni al portiere e a sua moglie. La folla stava avvicinandosi rapidamente, e Boutroux non osava uscire alla luce per avvertire la famiglia, temendo che i primi membri della rivolta notassero la sua azione e irrompessero dentro. Le grandi porte di quercia vennero chiuse appena in tempo; i cocchieri frustarono i cavalli e il calesse si allontanò rapidamente verso nord, lungo il fiume. Alcuni ragazzi lo inseguirono a piedi, gridando insulti, ma non accadde nulla di peggio. Quando la folla arrivò, si radunò intorno alla finestra della casa, chiedendo di parlare con il padrone di casa e con gli altri ospiti rimasti.
 
 
 
@@ -4043,6 +4395,58 @@ There was no irony in his tone, and, though his mouth was set, there was none ap
 The President was in a quandary. He had nothing further to ask, but the mob had something further to do. The President was a leader of democracies, and he managed the thing well. He stepped back a few paces so as not to crane his neck ridiculously, as he had been doing; he turned a little so that he seemed to be addressing the crowd as well as this most unpopular and wealthy man, and then said with due solemnity, but in a loud and vigorous tone, —
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Georges era ancora nascosto e li osservava. Conosceva il carattere di suo zio; sapeva anche, ciò che suo zio non conosceva, il carattere di questi uomini; e capiva che il momento giusto per agire non fosse ancora arrivato.
+
+Per alcuni momenti, il rumore confuso della folla, la canzone di Marsiglia che quella donna del mercato continuava a cantare troppo ad alta voce, con un tono troppo acuto e monotono (nonostante molte persone le chiedessero di tacere), le discussioni tra alcune persone su ciò che bisognasse fare, tutto questo alla fine si placò. Il Presidente uscì dal semicerchio formato dalla folla in modo un po’ teatrale, ma senza perdere dignità; bussò con forza alla porta.
+
+Attraverso una piccolissima grata di ferro, forse di sei pollici di lato, incastonata nella porta di quell’enorme quercia, Nicholas il portiere chiese loro cosa volessero.
+
+Georges Boutroux, nascosto lì all’angolo del portico, con i nervi tesi nell’oscurità, provò una strana sensazione di familiarità e di ritorno a casa; conosceva quella voce così bene! L’aveva conosciuta in ogni momento della sua vita, fino a quell’ultimo istante. Sentirla in quelle circostanze sembrava qualcosa di strano, di inesplicabile, quasi un sogno grottesco.
+
+Un uomo nella folla gridò: “Vogliamo entrare!”
+
+Il Presidente, con maggiore cortesia e a bassa voce, rassicurò il servitore. “Credetemi,” disse, “non si intende compiere alcun atto indegno di un cittadino.” Poi, con la sua voce chiara e netta, che poteva essere sentita – e che lui stesso voleva fosse sentita – da tutti i suoi seguaci più vicini, aggiunse: “Desideriamo sapere, in nome del Popolo, chi si trovi in questa casa e quale possa essere la sua missione.”
+
+Il portiere disse che avrebbe riferito il messaggio del gentiluomo al suo padrone. Chiuse con un colpo secco la grata dietro di sé, e per circa due minuti la folla si divertì lanciando minacce assolutamente incivili, promettendo di bruciare la casa, oltre a altre proposte altrettanto incongrue: metà di queste riguardavano l’aspetto personale del padrone della casa, mentre l’altra metà era diretta contro quella figura estremamente impopolare che era il Re di [[France|Francia]] e di Navarra. La mercantessa invadente aveva ripreso a cantare ad alta voce la sua canzone marsigliese. E (data l’onore riservato al suo sesso) nessuno tra i membri della “Gente Sovrana” le aveva ancora messo una mano sulla bocca. Quando, all’improvviso, calò il silenzio: si udirono infatti le finestre aprirsi, il rumore dei cardini che venivano sollevati. E poi apparve M. Boutroux, il mercante, che uscì sul proprio balcone e guardò giù verso la folla furiosa.
+
+Dovrei riconoscere che M. Boutroux, in quella situazione, provava davvero la dignità che essa richiedeva: era una figura solitaria, le luci erano alle sue spalle, si trovava su un bel balcone isolato; il Popolo Sovrano era sotto di lui. Aveva già letto di situazioni del genere.
+
+La figura snella e ben proporzionata dell’uomo anziano, il suo abito di seta nera attentamente confezionato – particolarmente adatto a un’occasione cerimoniosa come quella che aveva appena concluso – il suo coraggio evidente, e forse anche il piacere segreto che provava in un momento così drammatico, commossero i suoi connazionali. Un ragazzo che cercò di lanciargli una pomodora ma fallì fu per questo punito dal padre, che lo colpì con le manette fino a quando non iniziò a piangere per il dolore e l’umiliazione. Ma avrebbe dovuto conoscere il valore dell’armonia in tutte le situazioni sceniche.
+
+Il signor Boutroux, il più anziano, prese la parola.
+
+“Desidero prima di tutto,” disse lui con toni molto chiari e precisi, che a alcuni spettatori ricordarono sgradevolmente i toni di un magistrato in tribunale – “desidero sapere, innanzitutto, chi sia il vostro portavoce e sotto ordine di chi agite.”
+
+Sopra il caotico rumore di tante voci, il Presidente, che conosceva bene il proprio ruolo, rispose immediatamente e fu subito ascoltato.
+
+“Non c’è tempo per un voto, cittadino Boutroux; parlo a nome di tutti i presenti e della Sezione.”
+
+Il signor Boutroux, anziano com'era, li guardò per un momento con la calma dignità dei suoi sessantotto anni, senza dire nulla. “Capisco”, disse con fermezza, “voi siete la Sezione.”
+
+Alla quale risposta, la signora politica del mercato iniziò nuovamente la sua interpretazione della Marseillaise; ma questa volta, il rispetto dovuto al suo sesso non servì a nulla: un venditore di cipolle le coprì la bocca con la mano, così che non uscì alcun suono, solo un sorta di debole gemito, seguito da due respiri affannosi.
+
+“Tu sei la ‘Sezione’”, disse di nuovo il signor Boutroux, come se ci avesse riflettuto a lungo. “Allora devo certamente rispondere alla tua autorità legittima.”
+
+Nel suo tono non c'era alcuna ironia; e anche se le sue labbra erano serrate, nella sua espressione non si leggeva nulla del genere. Quest'ultimo aspetto, in realtà, era difficile da notare, poiché la luce che lo illuminava in quella posizione evidente proveniva dall'interno della stanza.
+
+# “Posso prima chiedere cosa richiede da me questa sezione?”
+
+“Vorremmo saperlo”, disse il Presidente, alzandosi e guardando verso l’alto in un modo che riteneva un po’ indegno e forzato, “chi si riunisce stasera nella vostra casa e per quale scopo.”
+
+“La risposta è abbastanza semplice,” disse il signor Boutroux con grande cortesia e a voce alta, in modo che tutti nella folla potessero sentire. “Stasera, in questo momento, nella mia casa ci sono io, mia moglie, i miei sei domestici, il mio portiere e sua moglie.”
+
+“Altri sono già stati qui,” disse il Presidente, con un tono leggermente minaccioso.
+
+“Hai perfettamente ragione,” rispose M. Boutroux con calma, sempre nel tono di un oratore pacato; “ne sono state, se ricordo bene, diciassette. Per quanto riguarda la qualità, cinque famiglie del quartiere, amici miei. Abbiamo bevuto limonata, mangiato frutta e ascoltato un po’ di musica.”
+
+“Avremo bisogno dei loro nomi,” disse il Presidente, rendendosi conto che quel dialogo stava diventando ridicolo.
+
+“I nomi vi saranno forniti immediatamente,” disse il signor Boutroux; “una lista verrà data al mio portiere e poi consegnata a voi. Avete altre domande da porre?”
+
+Il Presidente si trovava in una situazione difficile. Non aveva più nulla da chiedere, ma la folla aveva ancora qualcosa da fare. Il Presidente era un leader di democrazie e riuscì a gestire la situazione in modo efficace. Fece alcuni passi indietro per non dover più torcere il collo in modo ridicolo, come stava facendo prima; si girò leggermente in modo da sembrare rivolgersi sia alla folla che a quell’uomo molto impopolare e ricco, e poi disse, con la dovuta solennità ma in tono forte e deciso: —
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="The Girondin — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/paris"></span>
@@ -4076,6 +4480,36 @@ His face sterner than it had yet been during the excitement of this passage, the
 
 When he reached his room he did not undress. He saw the light in his wife’s oratory: it filled him with contempt; he locked his door, lay down (dressed as he was in his gala clothes) upon his curtained bed, lit a candle, and set himself to pass the few hours of darkness, until the danger might be renewed, in reading his favourite story from Voltaire, which was “The Huron.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Quando avremo ricevuto il vostro rapporto, cittadino Boutroux, porteremo il documento (vi prego di redigerlo su carta timbrata) presso la Sezione – che, come potete immaginare, è riunita stasera in seguito alle notizie provenienti da [[Paris|Parigi]] – e lì discuteremo delle vostre prove. Credo che siamo d’accordo”, disse il Presidente al Popolo Sovrano; alcuni tra i presenti fecero rumore con i piedi, la maggior parte rimase in silenzio, mentre una sola donna, di orientamento politico, esclamò ad alta voce il proprio assenso, aggiungendo l’epiteto “Maiale” a quelle forze sociali che non le andavano a genio.
+
+Calò il silenzio, come se il Popolo Sovrano stesse riflettendo sulla saggezza della decisione di quella signora. Poi il Presidente continuò, con tono assolutamente sereno e deciso.
+
+“Lascieremo delle guardie alla tua porta, e domani, quando ci sarà più comodo per noi, ti chiameremo per ulteriori esami. Speriamo che tu sia d’accordo.”
+
+“Sei molto bravo,” disse il signor Boutroux; “la mia decisione dipenderà dalle circostanze che potrebbero verificarsi.” Poi alzò leggermente la voce e aggiunse: “Cittadini della Sezione e voi, signor Presidente, vi auguro una buona notte.” Fece un passo indietro, girò la serratura di ferro delle grandi finestre, tirò le tende e così segnalò che l’interrogatorio politico era terminato. Improvvisamente, un grosso sasso colpì uno dei vetri; Madame Boutroux, all’interno della stanza, impallidì per la paura, come accadeva ogni volta che provava emozioni forti, e fece un salto.
+
+“Non è nulla,” disse il signor Boutroux, alzando la mano con un gesto maestoso e calmo. “Queste cose sono inevitabili nelle rivoluzioni.”
+
+Non ci furono altre dimostrazioni. Infatti, se Madame Boutroux lo avesse saputo, sarebbe stata felice di vedere che il ragazzo che aveva lanciato la pietra venisse rimproverato dal Presidente per la sua mancanza di senso civico, anche se quel ragazzo non aveva molta colpa: aveva solo tredici anni e gli piaceva lanciare pietre.
+
+Il rumore dei loro passi si sentiva mentre camminavano lungo i moli verso il ponte. Quel rumore assunse un ritmo preciso, e una voce profonda e robusta iniziò a cantare una canzone marziale.
+
+Nel frattempo, il signor Boutroux, che era il padrone di casa, suonò un piccolo campanello di rame posato sul tavolo; subito uno dei suoi servitori apparve. Ordinò carta e sabbia per scrivere, e iniziò sistematicamente a compilare l’elenco di tutte le persone che quella sera erano state presenti alla sua piccola festa.
+
+Madame Boutroux, con le labbra serrate e arrabbiate e le mani giunte, lo osservava senza intervenire né aiutarlo. Una volta, quando gli sfuggì il nome di qualcuno, gli chiese di ripeterlo. Lei rispose con un tono gelido che non aveva nulla a che fare con quella questione, e andò di sopra per pregare alla sua piccola cattedra. Pregò per la santa Madame Elisabeth, per la Regina e la Famiglia Reale, per il Vescovo e il Clero, per il Papa, l’Altare e il Trono; trovò nel suo libro una preghiera speciale per i tempi di turbolenza, che recitò con cura sia in francese che in latino, poiché possedeva un potere particolare.
+
+Per quanto riguarda suo marito, rimase seduto ancora per circa mezz’ora, aggiungendo alla lista dei nomi delle annotazioni dettagliate che indicavano come ciascuno di coloro che portavano quel nome avesse legalmente il diritto di viaggiare, e come nessuno di loro avesse partecipato a movimenti ostili al Dipartimento, alle Sezioni, al Comune, all’Assemblea o alla Corona. E questo non fu difficile da verificare: tra tutti i suoi ospiti, soltanto uno era un uomo sotto i quarant’anni, e si trattava di un giovane molto semplice che si dedicava al commercio del vino e il cui principale interesse era imparare la lingua inglese.
+
+Quando M. Boutroux ebbe completato la sua lista e le relative annotazioni, scrisse in fondo una dichiarazione formale di protesta contro l’interruzione della sua serata; espose inoltre il proprio diritto di rivolgersi alle autorità competenti contro quella sezione, affermò la propria adesione al potere legittimo della stessa, e infine firmò tutto ciò con una scrittura decisa ma delicata, “Boutroux”, aggiungendo anche le proprie qualifiche civili, i titoli accademici e altro ancora. Una volta fatto ciò, pulì attentamente il foglio, lo piegò in modo ordinato e scese nel portico sotterraneo, dove trovò Nicholas, il portiere, molto agitato ma anche molto assonnato.
+
+“Dai questo,” disse, “attraverso la grata, non aprire il cancello, a chiunque sia ancora fuori ad aspettarlo. Poi vai a letto. E, Nicholas,” aggiunse seriamente, “non lasciare entrare nessuno. Soprattutto, non devi far entrare mio nipote sfortunato, lui è l’autore di tutti i nostri problemi.”
+
+Con un volto più severo di quanto non lo fosse mai stato durante tutta l’emozione di quel momento, l’uomo anziano si girò, eretto e quasi vivace, trascurando il “buonanotte” che per tanti anni aveva sempre rivolto ai suoi dipendenti, e salì con decisione le scale.
+
+Quando arrivò nella sua stanza non si spogliò. Vide la luce accesa nell’oratorio di sua moglie: questo lo riempì di disprezzo; chiuse a chiave la porta, si sdraiò (vestito con i suoi abiti da gala) sul letto coperto dalla tenda, accese una candela e iniziò a leggere la sua storia preferita di Voltaire, ovvero “Il Hurone”, per passare le poche ore di oscurità fino al ritorno del pericolo.
 
 
 
@@ -4128,6 +4562,54 @@ Miltiades said nothing, but continued his solemn pace. He was almost out of sigh
 
 The swart Miltiades was stubborn and continued his pacing, crossing once more before that stone pillar on which Georges sat.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV.
+
+In cui il girondino si difende in modo troppo aggressivo e per un tempo troppo lungo.
+
+Nel frattempo, nel suo angolo buio, nascosto fuori dalle porte di casa, Georges Boutroux aveva ascoltato tutto ciò che suo zio aveva detto, e tutto ciò che il Presidente aveva risposto; per tutta la durata di quella scena era rimasto completamente nascosto.
+
+Non si fece avanti quando il Presidente scelse due uomini tra i mille o più presenti per montare la guardia davanti a quelle porte durante la notte; rimase ad aspettare con le braccia incrociate nel suo angolo buio, fino a quando la folla, con il suo rumore, i suoi occasionali applausi, le sue canzoni e il ritmo sempre più accelerato dei suoi passi, non scomparve nella notte.
+
+Quando si trovarono completamente persi nel labirinto, e il suono delle loro voci non gli arrivò più, lui proseguì lungo le case vicine, attraversò il largo molo fino alla riva del fiume, appoggiò le spalle al parapetto di pietra che si affacciava sull'acqua e, con le mani in tasca, osservò quelle finestre vuote.
+
+Pensò che dovesse essere mezzanotte. Aveva sentito un suono poco prima; ma non riusciva a ricordare se si trattasse di mezz’ora o di tre quarti d’ora. Tutte le finestre della casa erano buie. Non filtrava nemmeno un raggio di luce dall’abituale lampada posta nella stanza del portiere al piano terra, accanto alla porta; le tende erano state tirate così strette. Mentre due uomini, consapevoli dell’importanza della loro missione, camminavano avanti e indietro davanti a quelle porte con regolarità, i loro movimenti lo distraevano e lo irritavano. In quel punto, una lampada ad olio illuminava la strada; la sua luce era appena sufficiente per rivelare le loro figure.
+
+La notte era davvero molto buia e completamente silenziosa. Le nuvole temporalesche che avevano iniziato ad accumularsi da quando aveva lasciato la sala con i suoi compagni delle varie sezioni ora occupavano gran parte del cielo; già lontano, lungo il [[River|fiume]], uno o due bagliori vaghi annunciavano l’avvicinarsi della tempesta.
+
+Georges camminava lentamente lungo il grande viale lastricato, indossando il suo abito elegante e con la sua piccola spada appoggiata di lato; la sua alta figura sembrava ancora più imponente nell’oscurità. Si avvicinò molto a quei due sentinelle che il popolo aveva piazzato davanti all’ingresso della residenza di suo zio. Si fermò a meno di dieci piedi da loro e li osservò per qualche momento; essi sapevano chi fosse, quindi né lo affrontarono né notarono la sua presenza. Il loro andirivieni regolare continuava ad irritarlo. Aveva pagato il dovuto alla “Sezione”; aveva comprato con i suoi soldi quegli insulti. Si sentiva ingannato e tradito.
+
+Ogni uno dei sentinelle era armato nel modo semplice e primitivo tipico della gente delle varie zone: uno con una lancia, l’altro con una grande spada vecchio stile, di tipo leggero adatta alla cavalleria; osservandola meglio, Georges si rese conto che quel soldato era, proprio Miltiade!
+
+Georges lo chiamò, ma Miltiade non rispose; continuò a camminare avanti e indietro con passo solenne, disdegnando qualsiasi interruzione.
+
+Davanti alla casa, a pochi piedi dalla porta, c'era un pilastro di pietra rotondo, perfetto per chi volesse salirci sopra e sedersi con i piedi sospesi a qualche centimetro dal suolo. Georges Boutroux ci si arrampicò sopra, vi si sedette e fissò Miltiades con lo sguardo, muovendolo lentamente avanti e indietro come un pendolo, mentre quel sentinella dilettante camminava metodicamente avanti e indietro lungo il suo percorso; ripeteva questo movimento altre cinque o sei volte.
+
+Di nuovo Georges ruppe il silenzio. Fu proprio quando Miltiades lo superò per la settima volta che gli chiese “a quale ora sarebbe stato sostituito”.
+
+Il giacobino non rispose; continuò a camminare avanti e indietro. Georges proseguì con le sue provocazioni, alzando e abbassando la voce mentre l’altro si allontanava e poi si avvicinava di nuovo.
+
+“È stato un errore dare i soldi in anticipo,” disse; “il salario va pagato meglio ai lavoratori non qualificati dopo che hanno finito il loro lavoro. Si può fidare di loro di più. E, a proposito, non è forse un errore affidare armi alle persone comuni? Potrebbero usarle male, anzi, potrebbero anche ferirsi da sole. Miltiade, mio grande comandante, stasera ho voglia di dormire nel mio letto, e ho pagato per questa comodità, vero?. Ricordo che ho prenotato una locanda costosa. Non l’ho fatto certo con l’intenzione che qualche caposquadra potesse prendere persone dal basso mondo per farle fare il soldato davanti alla mia finestra. Ho un debole per la mia casa, Miltiade. Per quanto riguarda i miei posti dove dormire, ho una sorta di orgoglio. Come alcuni uomini ne hanno per altre cose più umane. Voglio che rimanga tranquilla di notte, ”
+
+In quel momento il sentinello stava di nuovo attraversando davanti a lui, e Georges aggiunse con un tono dolce ma estremamente provocatorio: “Quando avrai finito il tuo turno? Devo aspettare qui per scoprirlo, o mi permetterai di entrare prima?”
+
+Per la prima volta, Miltiade rispose.
+
+“Ho ricevuto ordini,” disse brevemente, senza nemmeno guardare il suo interlocutore — “ho l’ordine di non parlare con nessuno. Sono in servizio di guardia.”
+
+“Beh,” disse Georges, sbadigliando e stiracchiandosi le braccia, “ecco il problema! Se solo sapessi a che ora dovete essere sostituiti, me ne andrei a bere qualcosa e tornerei quando avrete più tempo libero. Forse potrei anche condividere la vostra paga, (anche se, in realtà, non ho fatto alcuna guardia, ). E poi, chissà, magari riuscirei a intrufolarmi dentro, ”
+
+Miltiade non disse nulla, ma continuò il suo passo solenne. Era ormai quasi scomparso nell’oscurità quando, per la ventesima volta, qualcuno gli rivolse di nuovo la parola.
+
+“Miltiade,” disse il giovane gentiluomo alto, “hai per caso un altro spada con te?”
+
+“No,” disse brevemente Miltiade, e se ne andò.
+
+“È davvero imbarazzante,” disse Georges, alzando un po’ la voce ad ogni passo che l’altro faceva per allontanarsi. “È imbarazzante perché sto iniziando a sentire freddo nonostante il calore della notte, e devo fare un po’ di movimento. Ho sentito dire,” continuò in un monologo che modulava apposta affinché l’altro potesse sentirlo mentre si avvicinava e poi si allontanava di nuovo, “ho sentito dire che è abbastanza facile difendersi con una spada da duello contro una spada da cavalleria. Anzi, l’ho persino visto fare!”
+
+Il cupo Miltiade era testardo e continuò ad avanzare, attraversando nuovamente davanti a quel pilastro di pietra su cui sedeva Georges.
 
 
 
@@ -4193,6 +4675,66 @@ The man with the pike edged nearer to the door and set his weapon forward dogged
 “You are not certain that he is dead,” said Georges gently, “and I should doubt it. A man does not die so easily... but I do fancy he is grievously the weaker for his wound... he must have lost blood, my friend, or in that swipe of his he would have broken a rib of mine. As it is, I have a terrible great stitch in my side. I don’t know what it is,” he added, swinging his feet against the stone pillar, “but there is something I can’t stomach in seeing two men mounting guard before my own door — or for the matter of that, one man.” He felt recovered, and his voice was easy and strong.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“E credo,” continuò Georges, con un po’ più di entusiasmo, “che si possa fare abbastanza facilmente, sarebbe divertente provare.” Scivolò giù dal pilastro di pietra fino a terra.
+
+Miltiades si voltò di nuovo quando vide Georges Boutroux, fermo davanti a lui, estrarre improvvisamente la sua spada da duello – quella piccola spada giocattolo che faceva parte del suo abito da sera – e assumere una posizione difensiva. Miltiades si fermò. “Ho ricevuto ordini,” disse chiaramente, “di uccidere chiunque tenti di entrare in questa casa.” Guardò dritto negli occhi di Georges, proprio come aveva fatto quella sera; era evidente che gli piacesse recitare il ruolo di soldato.
+
+“È proprio questo che voglio verificare,” disse Georges. “Quando si colpisce un uomo con un movimento orizzontale, si effettua una ‘taglia in carte’. Se invece si usa un movimento verticale, è tutta un’altra cosa; ma se si utilizza la ‘taglia in carte’, posso parare.”
+
+“Non essere sciocco!”, rispose Miltiade.
+
+Riprese il suo andirivieni e si girò le spalle a Boutroux; mentre si allontanava, pensava a cosa fare se il suo avversario si fosse rivelato testardo, quando sentì, nella parte carnosa della spalla sinistra, proprio sotto la scapola, una fitta dolorosa, simile a quella che si prova quando un carbone ardente o il colpo di una frusta ti toccano. Si girò furiosamente: Georges Boutroux lo aveva pugnalato con la spada da duello. Colpì violentemente verso di lui, ma goffamente; la sua spada da cavaliere scivolò e finì nella guardia facile dell’avversario. Per poco non esagerò nel colpo.
+
+“Te l’avevo detto come sarebbe andata,” disse Georges. “Sono deciso a scoprire se sia vero o no che una spada da duello possa combattere contro una spada da cavalleria, perché ho sempre sentito dire che sia possibile.” Alzò la mano sinistra per mantenere l’equilibrio, assunse la posizione che la sua scuola di scherma gli aveva insegnato e iniziò a maneggiare la lama come se stesse cercando un altro bersaglio su cui concentrare i suoi attacchi.
+
+Miltiade ringhiò: “Posso ucciderti”, disse.
+
+Mentre lo diceva, si strinse il braccio sinistro dietro la schiena e sollevò la sua spada da cavaliere verso la guardia.
+
+“Era proprio quello che volevo vedere,” disse Georges, con il tono di un uomo che sta giocando a scacchi. “Non credo che tu possa riuscirci. Ho voglia di ficcarti dentro qualcosa nello stomaco, ovunque esso si trovi: è un organo di cui ho spesso sentito parlare, ma che non ho mai visto. Intanto, per evitare di uccidere un cognato prima del matrimonio, o un estorsore prima del pagamento dovuto, insomma, per non perdere un buon compagno anche se un po’ insistente riguardo al denaro, ti prego di chiarire con me una volta per tutte se una spada da duello possa davvero resistere a una spada da cavalleria. Se solo sapessi quante volte ho sentito discutere questa questione, ”
+
+Miltiade non era pronto per le risposte immediate; disse improvvisamente: “Io, ” e sollevò la sua spada.
+
+“Io, d'altra parte, ”, disse Boutroux, poi si lanciò improvvisamente in avanti.
+
+Miltiades parò il colpo: era troppo impegnato per pensare di chiamare l’altro sentinella in suo aiuto; parò il colpo, ma subito dopo sferrò un attacco troppo basso, imprimendo tutto il proprio peso sulla lama pesante. Georges si spostò rapidamente a destra: la spada della cavalleria gli sfiorò appena la coscia; lui puntò e caricò con tutte le sue forze. Georges sentì “la sua lama piegarsi con forza, il tessuto strapparsi e la carne ferirsi. Poi la lama penetrò improvvisamente dentro – troppo facilmente”. Il grande corpo di Miltiades sembrò inciampare contro l’impugnatura della spada e appoggiarsi ad essa; per un momento, nella penombra, Georges Boutroux riuscì a scorgere uno sguardo confuso negli occhi dell’avversario.
+
+Poi la spada della cavalleria si mosse vagamente e con rabbia nell’aria, infliggendo a Boutroux una profonda ferita alle costole; ma quella spada non penetrò nella carne. Boutroux estrasse la lama con un gesto rapido dal tessuto e dalla pelle; il pomello della spada si staccò dal corpo dell’avversario, e Miltiades si piegò in avanti come se stesse per vomitare. La spada della cavalleria gli cadde di mano, tenuta al polso soltanto dalla sua cinghia di cuoio. Poi cadde a terra, trasformandosi in un mucchio di vestiti.
+
+“Ti avevo detto com'era,” disse Georges a quel mucchio di vestiti che ancora si muovevano leggermente. Lo disse con severità. “Dovresti pugnalare, ”
+
+Ma da Miltiade non arrivò alcuna risposta, solo il debole rumore di un uomo che non provava dolore, ma era così debole a causa di qualcosa che non riusciva più a fare nulla. Dopo di allora, non ci fu più alcun suono.
+
+Georges trasse un profondo respiro e si inginocchiò per osservare attentamente il volto dell’uomo morto. L’altro sentinella arrivò di corsa, provenendo dai suoi trenta metri di distanza, immerso nell’oscurità.
+
+“Cosa hai fatto?” gridò. Era un giovane biondo e piuttosto inadeguato, spaventato dalla situazione; la sua alta lancia tremava nella sua mano.
+
+“Non discutere,” disse Georges in breve. Strappò la cintura di cuoio della spada dal polso di Miltiades e la passò sopra la mano destra ancora flaccida dell’uomo morto. Se la legò intorno al proprio braccio destro, afferrò la spada, si erse in tutta la sua altezza e disse: “Sono un po’ stanco, amico mio, ”
+
+“Cosa è successo?” chiese di nuovo il giovane con la lancia.
+
+“È un incidente,” disse Georges, “un incidente molto deplorevole. Vedi, appartengo a questa casa, e, lui lo sapeva.”
+
+Il giovane con la lancia guardò il mucchio di vestiti da cui non proveniva alcun lamento. Girò il viso dell’uomo caduto verso la debole luce della lanterna che dondolava in alto sopra di loro, sospesa alla corda tesa attraverso la strada. “È morto?” chiese il giovane con la lancia, spaventato e preoccupato.
+
+“Spero di no,” disse Georges, “sinceramente lo spero. Ma vi dico che appartengo a questa casa e voglio entrare.”
+
+Il giovane con la lancia divenne cupo.
+
+“Dovrai rispondere per questo domani!” disse arrabbiato.
+
+“Senza dubbio”, disse Georges; “ma intanto voglio entrare nella casa di mio zio”.
+
+Si arrampicò goffamente di nuovo sul pilastro di pietra, la sua spada da donna giacendo inutile sul marciapiede, ancora macchiata di sangue; poi affrontò quell’altro avversario.
+
+“A dire il vero, cittadino,” disse nervosamente, “sono pieno di pregiudizi, e il tempo tempestoso o qualcos’altro ha scatenato la mia rabbia.”
+
+L’uomo con la lancia si avvicinò lentamente alla porta, tenendo saldamente la sua arma davanti a sé. “Avete ucciso il mio compagno,” disse, “e dovrete risponderne. Ma ho ricevuto degli ordini.”
+
+“Non sei sicuro che sia morto,” disse Georges con dolcezza, “e anch’io ne dubito. Un uomo non muore così facilmente, ma immagino che la ferita lo abbia molto indebolito, deve aver perso molto sangue, amico mio. Quel colpo avrebbe potuto anche rompermi una costola. Comunque, ho un dolore terribile sul fianco. Non so esattamente cosa sia,” aggiunse, dondolando i piedi contro il pilastro di pietra, “ma non riesco proprio a sopportare l’idea che due uomini stiano di guardia davanti alla mia porta, o, anzi, anche solo uno.” Si sentiva meglio ormai; la sua voce era tranquilla e forte.
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="The Girondin — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/river"></span>
@@ -4238,6 +4780,48 @@ All round his right hand, as it lay limp on the pavement, was a mass of dirty, r
 
 He — turned his head weakly. — On — the — wall above — him was — a ring, an iron — ring — set — in a staple, such as men tie the bridles of their horses to when they stop and call at a house; he could just reach it with his left hand. He did so, pulled himself up with an incredible effort, and staggered to his feet.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ho ricevuto gli ordini,” disse di nuovo il giovane con l'asta, in tono cupo.
+
+“Ora il problema,” continuò Boutroux nello stesso tono, grattandosi il naso con l’indice della mano sinistra, “il problema della spada da cavalleria contro la lancia è tutta un’altra questione. Lì ti trovi con la tua grande lancia; immagino che tu abbia un braccio di circa sei piedi, contando dalla punta di quell’oggetto scomodo che tieni in mano. Sicuramente è molto imbarazzante!”
+
+Scivolò giù dal pilastro di pietra, si alzò in piedi, scosse le gambe per farle riacquistare la rigidità, strinse il pugno sinistro dietro la schiena e preparò la spada per l’attacco.
+
+“Saresti più saggio ad andartene prima che insorgano dei problemi,” disse il suo avversario con la massima calma possibile.
+
+“Quello,” concordò Boutroux con entusiasmo, “è senza dubbio vero; ma riguarda entrambi noi. È sempre saggio non immischiarsi con gli strumenti taglienti.” E batté con forza la lama della grande spada sulla punta della lancia.
+
+L'altro gli si scagliò addosso con la sua lunga e goffa arma, quasi senza convinzione, come se volesse solo minacciarlo a vuoto; era evidente che non fosse molto abile nell’uso delle armi. “Vattene!” disse.
+
+“No,” disse Boutroux, “questo va contro le mie inclinazioni. Voglio entrare. Se solo tu andassi a casa in silenzio, come un uomo sensato, portando la tua lancia inclinata sulla spalla (se ti senti più nobile), o dritta e orizzontale (che credo sia il modo più corretto), anzi, se solo la lasciassi dove è (poiché è un oggetto pesante da portare in giro) e te ne andassi via come un bravo ragazzo. Quanta roba noiosa si potrebbe risparmiare!”
+
+“Se non smetti, ” disse l’altro, alzando la voce.
+
+“Shhh,” pregò Boutroux con voce dolce, “shhh! Per favore, niente urla. La mia gente è anziana e detesta i litigi di notte fuori dalle loro case. Mi hanno persino rimproverato per essermi fatto accompagnare a casa da uno o due compagni allegri. Dài, siamo solo noi due, nessuno può vederci. Che scegli? Vuoi cercare la gloria ma rischiare di farti male, oppure preferisci andartene? Ormai è tardi. Solo adesso ho sentito cadere la prima goccia di pioggia; temo che stia per scoppiare una tempesta.”
+
+L’altro non si mosse. Iniziò a piovere: gocce grandi, lente e pesanti.
+
+“Se solo,” continuò Boutroux, “avessi una spada come la mia. Che semplice sarebbe! Ci saremmo mossi avanti e indietro l’uno attorno all’altro in modo davvero elegante, sferrando colpi e parando con abilità, creando così tutta quella musica che i macellai fanno quando affilano i loro coltelli sui loro ferri, fuori dai negozi. Ma quella brutta lancia enorme che hai è davvero troppo ingombrante e goffa. Non so proprio come usarla.” Fece un rapido passo verso la porta; in quel momento, l’altro lo attaccò goffamente con la lancia, colpendo il tessuto del suo braccio armato di spada, la camicia sottostante e la pelle, graffiandogli appena la superficie della carne.
+
+Boutroux fu gravemente ferito e profondamente irritato. Imprecò, ma non ad alta voce. Colpì una volta e poi due volte, muovendosi in cerchio attorno al suo avversario; ma quell’uomo indeciso, trovandosi con la sua pesante lancia di fronte a sé a distanza ravvicinata, aveva abbandonato l’arma e cercava disperatamente di difendersi con le mani, come se volesse afferrare la spada dell’avversario. La lama smussa non faceva altro che causare ferite e lividi. Boutroux, sempre più arrabbiato mentre continuava a pressare l’uomo indietro, colpì la sua testa. L’uomo alzò debolmente un braccio per proteggersi; Boutroux colpì di nuovo. E sentì, o pensò di sentire, il gomito dell’avversario rompersi sotto quel colpo. Ma proprio in quel momento anche il suo braccio iniziò a indebolirsi: sanguinava copiosamente dalla nuova ferita. Quella strana sensazione di debolezza, quella nausea acida che accompagna la perdita di sangue, lo invase nel buio. Eppure continuò a colpire, con il suo ferro, sempre più debolmente.
+
+Il giovane sentinella indeciso, disarmato e alto, picchiato come una bistecca da cucinare, confuso e stordito dai colpi ricevuti in testa, immaginando vagamente che la guerra dovesse essere qualcosa di terribile, improvvisamente si liberò dalla presa e fuggì.
+
+Boutroux lo inseguì – e rimase sorpreso nello scoprire quanto incerto e maldestro fosse il suo modo di correre. Cadde già nei primi metri; mentre giaceva a terra, chiedendosi perché gli risultasse così difficile rialzarsi, sentì il rumore dei passi del suo avversario allontanarsi sempre di più lungo il deserto sentiero di pietra dei moli.
+
+Giaceva lì, stupidamente, ascoltando i passi che si allontanavano con una sorta di piacere; sentiva quei lievi rumori che diventavano sempre più deboli, ma riusciva ancora a percepirli. Sapeva che le cose stavano cambiando. La terra sembrava muoversi. Per un momento pensò di essere su una nave: si sentì terribilmente male. Provò a vomitare, ma non ci riuscì; in quel caos, si rese conto che stava piovendo forte. Con un occhio incerto e sfocato, riusciva a vedere le gocce d’acqua che schizzavano nella luce della lampada. Poi, per un tempo indefinito, la sua mente fu invasa soltanto dal continuo rumore dei tuoni.
+
+* * * * * *
+
+Uscì da quello stato di stupore come un uomo può uscire da un sonno cattivo e malsano. Il rombo del tuono, ormai più lontano, fu la prima cosa che notò. Poi si rese conto che stava facendo giorno: la tempesta aveva pulito le strade e l’aria; gli alberi, lontani oltre il [[River|fiume]], si stagliavano immobili e nitidamente visibili. Mentre li osservava distesi sul marciapiede, la sua mente iniziò a schiarirsi. Rabbrividì: faceva freddo.
+
+Cercò di alzarsi appoggiandosi sul gomito destro, ma provò un dolore così acuto che non l’aveva mai sentito prima in vita sua; quando sollevò la testa, vide la causa della debolezza estrema che lo aveva fatto svenire.
+
+Intorno alla sua mano destra, distesa inerte sul marciapiede, c'era un mucchio di sangue sporco e lavato dalla pioggia; proveniva dalla sua ferita. Per un momento osservò quel sangue con curiosità, intriso nel tessuto della stoffa; non era mai stato ferito prima, e non gli piaceva affatto.
+
+Lui girò debolmente la testa. Sulla parete sopra di lui c'era un anello, un anello di ferro fissato con una spilla, simile a quelle che gli uomini usano per legare le redini dei cavalli quando si fermano davanti a una casa; riusciva appena ad arrivarci con la mano sinistra. Così fece: con uno sforzo incredibile si tirò su in piedi, barcollando.
 
 
 
@@ -4309,6 +4893,72 @@ The many boats that lay there he surveyed critically, though with a drooping and
 In this way did Boutroux begin his adventures.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ho letto molto riguardo alle battaglie,” si disse. “È davvero molto diverso da quanto avevo immaginato leggendo.”
+
+Prese il proprio avambraccio destro con la mano sinistra aperta, con dolcezza e tenerezza, come se fosse un bambino. Lo accarezzò un po’ e lo mosse fino a quando non divenne un po’ più rilassato.
+
+Poi si ricordò di ciò che aveva letto riguardo al pericolo della sporcizia nelle ferite.
+
+Prese molto metodicamente il suo piccolo coltello da giocattolo e, con la lama minuscola, tagliò via tutto il tessuto che si trovava sopra la ferita. Poi, con lo stesso strumento, tagliò anche la manica della camicia e la gettò via. Si chiese cosa fare per una benda: tagliò un lungo pezzo dalla parte superiore della manica della camicia, barcollò fino alla riva del fiume, immerse la ferita nell’acqua per lavarla, e si chiese se quell’acqua fosse abbastanza pulita da soddisfare le esigenze di un chirurgo. Infine avvolse il pezzo di stoffa intorno alla ferita come benda. Dopo averlo fatto, placò una sete insopportabile che aveva improvvisamente provato, ma lo fece in modo piuttosto imprudente, bevendo l’acqua salmastra del Garonna. Comunque sia, quel liquido lo rianimò.
+
+Si ricordò di ciò che doveva fare e, con passi deboli e incerti, ma deciso, si diresse verso la porta di suo zio, situata dall’altra parte della strada, a circa cento metri di distanza.
+
+Anche in una situazione così drammatica, Boutroux non poteva ignorare la bellezza di quella mattina. Sembrava che la politica, la violenza e il sangue versato durante la notte appartenessero a qualche orribile rappresentazione teatrale vista su un palco, a cui aveva prestato attenzione in modo troppo vivido.
+
+La magnifica vista della città, il lungo e incantevole arco delle banchine, si ergeva solitaria e pulita nella luce dell’alba; l’aria era completamente limpida dopo la tempesta che l’aveva purificata, e ogni albero maestro, ogni dettaglio dei cavi sulle navi sembravano essere stati disegnati intenzionalmente da una mano forte e decisa.
+
+Provava una strana sensazione di pace; ricordava come anche le discussioni tra un anziano e il suo erede facessero parte della notte. Si rendeva conto di quanto ogni nuova alba fosse diversa dalle tensioni dell’oscurità precedente; iniziò persino a immaginare una sorta di piccola commedia: come avrebbe parlato con zia e zio di ciò che aveva fatto, e come loro lo avrebbero accolto, perché non avrebbero mai potuto fraintendere il suo coraggio o la sua devozione verso la loro casa.
+
+Si avvicinò a quella porta, facendo attenzione a non notare, all’alba, il corpo di un uomo morto. Bussò alla porta dolcemente, poi più forte; non ci fu risposta.
+
+Batté di nuovo dolcemente alla finestra del portiere, poi sempre più forte. Vide la tenda essere scostata e la testa di vecchio Nicholas apparire; indossava un berretto da notte di cotone sporco e aveva uno sguardo spaventato negli occhi. Vecchio Nicholas scosse la testa.
+
+Georges Boutroux fece segno verso il cancello; quel fedele servitore zoppicò fuori per parlare con lui. Georges non sentì il solito rumore del chiavistello che veniva girato: udì solo lo scatto della piccola persiana dietro la grata di ferro, e poi la voce di vecchio Nicholas che gli sussurrava.
+
+“Ah, Maestro Georges, ho ricevuto degli ordini!”
+
+Debole com'era, l’atmosfera notturna era ancora intensa per Georges Boutroux, ferito; disse, con una voce che non sembrava più la sua, e con tristezza: “Che cosa! Anche tu hai ricevuto ordini? Sembra che tutti abbiano ricevuto ordini. E tu, Nicholas, quali sono i tuoi ordini?”
+
+“Oh, signore,” disse Nicholas in un sussurro spaventato, “devo tenere la porta aperta!”
+
+“Perché,” disse Georges con la sua voce debole, mentre la malattia tornava a assalirlo, “è quello che ha detto, ” e fece un gesto con la testa verso il mucchio di vestiti che un tempo appartenevano a Miltiades.
+
+Il vecchio portiere gettò un’occhiata attraverso la piccola griglia di ferro e rabbrividì.
+
+“Maestro Georges,” mormorò con un'altra voce, “abbiamo sentito dei rumori, ma oh, non avremmo mai potuto immaginarlo! Maestro Georges, darei la mia vita per voi, davvero!”
+
+“E dannazione,” disse Maestro Georges, dominando la propria malattia, “quasi ci sono riuscito per te!”
+
+“Maestro Georges, conosco bene quel maestro. Lo conoscevo già prima che voi nasceste. Non vi permetterà di entrare oggi.”
+
+“Vecchio Nicholas, se non mi lasci entrare prima che la città si svegli e queste cose vengano scoperte, mi prenderanno e mi uccideranno. Lo capisci?”
+
+“Maestro Georges, non sono riuscito a fargli capire. Ha detto: ‘Chiunque tu lasci entrare, anche se fosse qualcuno che potrebbe parlamentare con la folla, ma non lasciare entrare mio nipote; perché non lo rivedrò mai più.’ Ha detto anche che tu sei un traditore e la causa di tutte le sue sfortune.”
+
+“Mio zio,” disse Georges Boutroux con voce improvvisa e con un gesto di rassegnazione, “ama troppo generalizzare. Dobbiamo rispettare questa debolezza degli anziani.” La sua mente valutò rapidamente le sue sempre più scarse possibilità. “Nicholas,” aggiunse, “non ho soldi.”
+
+“Oh, Maestro Georges”, disse l’uomo anziano, “tutto ciò che ho è tuo”.
+
+“Allora,” disse Georges sorridendogli, “dammela. A lungo andare, non sarai certo un perdente.”
+
+“E poi, Maestro Georges,” disse con impazienza il vecchio portiere, “avreste bisogno di vino, se dovete nascondervi, e anche un po’ di pane.”
+
+“Il pane posso comprarlo più tardi,” disse Georges, “ma un po’ di crosta non mi farà male. E anche della salsiccia. Per quanto riguarda il vino, non si può mai averne abbastanza, perché fa sì che il sangue scorra; e questo, sai, povero Nicholas, l’ho bevuto piuttosto spesso. Solo, caro Nicholas, sbrigati!” Mentre parlava, un gruppo di operai si stava radunando a mezzo miglio di distanza vicino a uno dei barconi per iniziare lo scarico. “Non appena se ne accorgeranno,” disse Georges, scuotendo la testa verso il corpo che non osava guardare, “inizierà il ‘ballo’. E io non ho mai amato ballare, ” Il vecchio Nicholas tornò nella sua stanza con le lacrime agli occhi. Tornò poco dopo e, attraverso la grata sollevata, passò una bottiglia di vino che il giovane nascose nella tasca del cappotto, insieme a un pezzo di pane, un boccone di salsiccia e un misero mazzo di assegnati del valore nominale di duecento lire.
+
+“Se metti la mano attraverso la rete, Nicholas”, disse Georges, “la bacerò”.
+
+“Oh, Maestro Georges, sono io che dovrei baciare la vostra mano!” disse Nicholas.
+
+“Me ne ricorderò e ti darò l’opportunità di farlo,” disse Georges, “in un'altra occasione. Ma qualunque cosa tu faccia, non infrangere mai gli ordini. In questo momento a Bordeaux la passione per l’obbedienza agli ordini è molto forte, e la reputazione della famiglia deve essere mantenuta.”
+
+L’uomo anziano tese una mano, simile a legno rugoso, marrone e intagliato, attraverso l’apertura. Boutroux la prese e la baciò dolcemente. Poi si girò le spalle alla facciata della casa, l’unica che avesse mai conosciuto, e se ne andò, non verso il ponte, dove temeva il traffico e di essere riconosciuto, ma rapidamente verso il lungomare.
+
+Esaminò con attenzione le molte barche che si trovavano lì, sebbene i suoi occhi fossero tristi e stanchi; notò una legata con un nodo più lento rispetto alle altre e, utilizzando la sua mano e il suo braccio sinistro intatti, la sciolse. Salì a bordo e, remando con quel braccio sinistro, mentre il braccio destro ferito era appoggiato al fianco, riuscì ad arrivare sulla sponda opposta. Senza voltarsi nemmeno una volta per guardare la sua città o la sua casa, Georges si addentrò nella vegetazione che cresceva rapidamente in quella zona, dirigendosi verso i vigneti situati sulle colline più basse, a mezzo miglio di distanza.
+
+In questo modo Boutroux iniziò le sue avventure.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="The Girondin — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/river"></span>
@@ -4364,6 +5014,58 @@ The old peasant shook his head. “I’m not going to the city to-day,” he sai
 
 Boutroux remembered his tale. “My valuables, as I told you, have been taken from me, but I am good for more than a few livres anywhere on the highroad,” he said. “The master of the post-house will know me, for one.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO V.
+
+In cui vengono raccontate diverse menzogne in una locanda.
+
+C'erano lunghi ciuffi d'erba – non quella che cresce dopo un evento, ma l’erba selvatica che si è auto-seminata nel corso di secoli – nelle pianure deserte, proprio sotto le colline dove sorgeva il vigneto.
+
+Boutroux giaceva nel profondo di quella situazione, soddisfatto nonostante il dolore pulsante nella sua ferita. Bevve un po’ di vino e si disse: “Anche il miglior vino ha un sapore amaro al mattino.” Poi si chiese di quale annata fosse quel vino, sapendo che il vecchio Nicholas gli avrebbe dato sicuramente il migliore; ma non riuscì a capirlo.
+
+Mangiò la sua salsiccia e il suo pane. Cominciò a non curarsene più molto, poiché lo assaliva la sonnolenza: forse a causa di ciò che aveva appena vissuto, o per il ricordo della sua casa, o chissà per cosa ancora lo aspettasse davanti a lui. Sbadigliò soddisfatto e, con gli occhi semichiusi, guardò sonnolentemente la città al di là del [[River|fiume]] e i grandi alberi maestri.
+
+Il ricordo confuso di quella notte, con la sua violenza, le sue liti e il sangue versato, lo stancò, e alla fine lo stancò in modo piacevole, tanto che cadde in un sonno profondo.
+
+Quando si svegliò, era già pomeriggio. Il sole era ancora alto in cielo, ma la sua luce era più soffusa; Boutroux si svegliò provando un misto di sentimenti: la soddisfazione derivante da un sonno profondo e riposante, e il dolore causato dall’infiammazione al braccio.
+
+Poi iniziò a ricordare. La luce gli fece capire che molte ore erano trascorse e che era già tardi pomeriggio; e comprese chiaramente cosa doveva essere successo in città, al di là del grande fiume, quel giovedì, il 9 agosto.
+
+Si sedette sull'erba e fissò con attenzione quelle case lontane, come se sperasse di poter capire cosa stesse accadendo attraverso tutta quella distanza di terra e acqua. Pensò a quanto, molto tempo prima, ciò che era accaduto a Miltiades sarebbe stato scoperto: la Sezione si sarebbe riunita; il Club non avrebbe esitato ad agire; le autorità cittadine avrebbero dovuto prendere atto di quella morte; e anche la polizia si sarebbe mossa.
+
+Si chiedeva quali testimoni avessero trovato; dove pensavano che fosse fuggito; se la barca sarebbe stata notata. Aveva avuto la prudenza di lasciarla andare alla deriva. Sperava solo che fosse finita lontano lungo il corso d’acqua, e non si fosse fermata nelle canne vicino alla riva del [[River|fiume]]. Si chiedeva anche se la polizia o le autorità fossero entrate in quella casa per raccogliere testimonianze; se il vecchio Nicholas avrebbe mentito, taciuto, o avrebbe rivelato tutto riguardo alla sua fuga. Riusciva a immaginare suo zio, rispettato e temuto in città per la sua ricchezza, seduto dignitosamente al proprio tavolo, che rispondeva con disprezzo a qualsiasi domanda gli venisse posta, rinnegandolo lui, Georges, e lasciandolo al suo destino. Non ne aveva alcun dubbio. Poi iniziò a pensare a dove e da chi sarebbero state inviate le notizie. Una cosa diventava sempre più chiara nella sua mente: doveva allontanarsi verso nord attraverso i sentieri secondari. Avrebbe solo voluto conoscere meglio quella zona rurale.
+
+Come aveva pianificato, la sua ferita iniziò di nuovo a dolergli e a pulsare. Tentò di togliersi il bendaggio; esso si era asciugato, e il dolore causato dal suo strappo fu insopportabile. Strinse i denti, tirò con forza e riaprì parzialmente la ferita. Era sia interessato che sofferente: gli sembrava addirittura qualcosa di “nobile” avere una ferita. Gli era chiaro che avrebbe dovuto farsela bendare da qualcuno che ne capisse davvero il funzionamento; rifletté anche, con un certo cinismo, che forse avrebbe imparato lui stesso a farlo prima di terminare le sue avventure. Le ferite, infatti, stavano diventando sempre più comuni, e i tempi stavano peggiorando.
+
+“Aspetterò,” mormorò tra sé, “fino a quando non incontrerò altre occasioni di questo genere di combattimenti civili e riuscirò a individuare chi ne è il responsabile. Ma intanto, le ferite fanno sì che una persona appaia un po’ troppo partigiana.”
+
+Mentre pensava e parlava da solo, sentì dietro di sé il cigolio di un carretto di campagna, trainato da due robusti buoi lenti, le cui teste erano piegate sotto un pesante giogo. Vide seduto nel carretto un vecchio molto piccolo e magro, con i capelli grigi sottili sotto un cappello di feltro estremamente sporco, guance e mento rasati, e occhi piccoli, acuti e luminosi come trapani.
+
+Il carrello si fermò e il suo conducente chiese a Boutroux, intuendo dal suo abito elegante che sicuramente avesse un orologio con sé, che ore fossero.
+
+Boutroux stava quasi per estrarre quell’orologio d’oro con il suo nome inciso sopra, quando cambiò idea.
+
+“Non posso dirtelo,” disse scuotendo la testa.
+
+“Ho vissuto un'avventura molto sfortunata, e i miei oggetti di valore mi sono stati portati via.” Così disse, sospirando, e continuò a curare il proprio braccio ferito.
+
+L’uomo anziano lo guardò attentamente. “Dove ti è successo questo?” chiese.
+
+“Sul [[River|fiume]],” rispose prontamente Boutroux. “La mia gente si trova già a molte miglia a monte del corso d’acqua. Eravamo passeggeri provenienti da Nantes; mio padre e la sua famiglia erano ancora a bordo, quando io offrii a due uomini di remarmi fino alla città per vederla dal fiume all’alba. Loro mi assalirono e, nel corso della lotta, rimasi ferito, come potete vedere. Mi stordirono e poi mi gettarono sulla riva, qui, sul lato rurale del fiume.”
+
+Il vecchio contadino continuò a fissarlo. “Dove si trova la nave di tuo padre?” chiese.
+
+“Non è la nave di mio padre,” corresse gentilmente Boutroux. “Lui è solo un passeggero a bordo; e penso, ” aggiunse con esitazione, proteggendosi gli occhi dal sole al tramonto con la mano sinistra e guardando verso l’alto del fiume per vedere se ci fosse qualche nave in vista, “Sì, credo che quella sia proprio lei, ancorata più vicino al ponte.”
+
+“Come si chiama?” chiese il contadino.
+
+“La Helene,” rispose prontamente Boutroux, “la Helene di Nantes. È proprio sulla sua poppa. Se state andando in quella direzione, mi porterete lì e vi assicurerò che sarete ricompensati.”
+
+Il vecchio contadino scosse la testa. “Oggi non andrò in città,” disse, “con o senza soldi. Ci sono stati dei combattimenti, ” Guardò con dubbi il giovane e aggiunse: “Ti porterò per una livre, se mi prometti quella somma, fino al villaggio più vicino sulla strada principale; lì potrai cavartela da solo.”
+
+Boutroux ricordò la sua storia. “I miei oggetti di valore, come vi ho detto, mi sono stati portati via, ma ho abbastanza denaro per guadagnare parecchi soldi ovunque lungo la strada”, disse. “Il proprietario dell’ostello mi conoscerà sicuramente.”
 
 
 
@@ -4440,6 +5142,78 @@ Georges, mastering the pain in his forearm, signed with his uncertain right hand
 
 “I tell you I don’t take sides,” said that functionary again.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il vecchio contadino rimase solo con se stesso e decise di correre il rischio; Boutroux lo seguì da vicino.
+
+I sobbalzi del carretto sul sentiero accidentato del vigneto causavano a lui notevoli dolori al braccio gonfio. Trovava estremamente irritante il lento avanzamento del veicolo e il silenzio dell’anziano contadino, che continuava a fissare le teste dei suoi buoi, emettendo di tanto in tanto un grido rustico per incoraggiarli. Il viaggio, che non durava nemmeno sei miglia, richiese invece tre ore; ormai era sera e il sole era già tramontato quando davanti a loro apparvero i tetti bassi coperti di tegole di un villaggio. La loro precisa allineamento indicava chiaramente che si trovavano sulla grande strada principale. Era già buio quando il carretto raggiunse finalmente il fienile dell’anziano contadino, situato nella via principale della città.
+
+Boutroux si ritirò nella semioscurità; il vecchietto, fissandolo con uno sguardo deciso e tutt'altro che gentile, disse: —
+
+“E quel libro? E quei franchi?”
+
+“Vecchio mio,” disse Boutroux, “mi darebbe mezz’ora per trovarlo?”
+
+“No,” disse l’uomo anziano.
+
+“Ma lo otterrai solo in questo modo, e non in altro; conosco infatti un uomo in questo villaggio.”
+
+“Verrò con te,” disse semplicemente l’uomo anziano.
+
+La necessità di nascondere il proprio nome e i propri progressi, al contempo la necessità di soddisfare le insistenze di un individuo fastidioso, e ancora la necessità di mantenere la versione iniziale della propria storia riguardante una rapina. Tutto ciò causava non pochi problemi a Boutroux. Gli venne allora un’idea.
+
+“Me lo lascerai trovare se te lo prometto due volte?”
+
+Il contadino scosse la testa.
+
+“Mi permetterete di trovarlo se vi prometto una piccola medaglia d’argento?”
+
+“No”, disse il contadino, “devo seguirti per recuperare la mia lire”.
+
+“Molto bene,” disse Boutroux trionfante, “ora scoprirete che tutto questo era solo un modo per mettervi alla prova. Perché ho i soldi con me, come vedrete.” E tirando fuori l’assignat, glielo pagò nella mano dell’altro, fidandosi in un argomento che avrebbe coperto le sue tracce.
+
+Ma l’anziano contadino non si mosse di un millimetro. Esaminò attentamente la scritta alla luce di una finestra vicina, stirò il foglio, se lo mise in tasca e disse con fermezza: —
+
+“Allora quello che mi hai detto era una bugia?”
+
+“Era così,” disse Boutroux con allegria.
+
+“Come ti sei fatto questa ferita?” chiese l’uomo anziano.
+
+“Padre,” rispose Boutroux, con un tono minaccioso nella voce, “se mi chiedete come mi sono fatto quella ferita o se continuate a interrogarmi, o anche solo mostrate la minima curiosità riguardo ai miei movimenti – una curiosità che non intendo soddisfare – vi mostrerò davvero come mi sono fatto quella ferita, e in modo tale da farvi capire esattamente ciò che ho fatto con colui che me l’ha inflitta. Credetemi, padre: quando avrò discusso la questione con voi in questo modo, la comprenderete molto meglio.”
+
+Il vecchino rimase in silenzio. Disse: —
+
+“Credo che tu sia un cattivo figlio; credo che tu sia uno sprechiatore. Questa questione verrà indagata.”
+
+Si diresse verso le teste dei suoi buoi e iniziò a spingerli dentro il fienile; Boutroux, senza permettersi di aumentare il passo – anche se avrebbe dato molto per scappare e liberarsi da questo nemico imprevisto – camminava tranquillamente lungo la strada principale fiancheggiata dalle case del villaggio; nel frattempo, infuriava dentro di sé. Sembrava che tutti fossero nemici di quel sfortunato. Così, continuando a infuriare, arrivò all’estremità della strada e vide l’insegna, le luci e sentì i rumori di una locanda.
+
+“In una locanda,” pensò, “si può sempre trovare distrazione e, a volte, rifugio. Il proprietario di una locanda è una persona importante in un posto del genere: spesso svolge anche il ruolo di postino; se gli faccio capire che posso essere utile, mi proteggerà da qualsiasi insolenza.” Con questo pensiero, Boutroux entrò nella sala principale della locanda, si tolse il cappello – ormai stropicciato a causa delle avventure notturne e del sonno all’aperto – e chiese una tazza di vino.
+
+Era seduto in un angolo buio, a qualche metro di distanza dai sei o sette persone riunite nella stanza. Appoggiò la testa sulla mano per proteggersi dal bagliore della lampada lontana. Poco dopo, il postino stesso gli portò il vino; Boutroux, osservando quel volto poco cordiale dell’uomo, sotto l’ombra della sua mano, chiese se ci fossero novità sulla città.
+
+“Ah sì, una sorta di notizia,” disse il postino, osservandolo con sospetto mentre lui indossava abiti laceri e sporchi, con i capelli in disordine e il viso stanco; allo stesso tempo, sperava di poter intrattenere un cliente che, per quanto fosse in condizioni disordinate a causa del tempo o di un incidente, sembrava comunque ricco a giudicare dal suo abbigliamento. “Ieri notte ci sono stati dei problemi, e oggi ne sono derivati altri.”
+
+“Cosa è successo?” chiese Boutroux, angosciato nell’attesa della risposta.
+
+“Non prendo posizione da nessuna parte,” disse il postino, esitando; “Sono un funzionario pubblico; gestisco questa locanda e credo di servire i miei clienti con fedeltà. E lo stesso vale per il Re.”
+
+Alla parola “Re”, diversi presenti nella compagnia risero. Il postino li rimproverò.
+
+“Conosco il mio dovere,” disse; poi aggiunse a bassa voce a Boutroux: “Non dovresti prendertela a male per le mie domande; le autorità hanno inviato dall’ città un elenco di queste domande; stanno cercando un uomo ricercato; e ho dovuto farle firmare da tutti, solo per formalità, da quando è arrivato il treno.”
+
+Rimase in silenzio per un momento mentre tirava fuori dalla tasca un foglio di carta: un modulo stampato parzialmente compilato con scritti. Lo guardò, poi osservò di nuovo attentamente il giovane. “Come ti chiami?” chiese.
+
+“Marchand,” rispose prontamente Boutroux, “Marchand, Victor. Stavo venendo da Saintes, dove mio padre è Procuratore. Mi ha mandato con la nostra carrozza per arrivare a Bordeaux stasera, ma abbiamo avuto un incidente. Sono venuto qui per cercare un mezzo di trasporto alternativo, ma non andrò oltre stasera; dormirò qui.”
+
+“Oh!”, rispose il postino; fu sollevato all’idea che questo sospetto ospite avrebbe dormito nell’ostello: gli dava il tempo di prendere una decisione. Intanto prese un grosso libro, lo aprì su una pagina sporca piena di scarabocchi e lo spinse verso Georges. “Si firmi qui”, disse.
+
+Georges, dominando il dolore al suo avambraccio, firmò con la sua destra incerta: “Marchand, Victor”. E il libro fu rimesso al suo posto.
+
+“Qual era il problema in città?”, chiese silenziosamente al postino.
+
+“Vi dico che non prendo posizione da nessuna parte,” ripeté quel funzionario.
 
 
 
@@ -4529,6 +5303,90 @@ The groom nodded.
 “No, he wasn’t,” said his companion; “he was stabbed.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un giovane di statura bassa, dal carattere gentile e dalle idee semplici, vestito con una camicia di cotone grezzo e un giubbotto sporco legato intorno al collo, con le braccia fuori dalle maniche, scoppiò in una risata sonora.
+
+“Sei troppo delicato,” disse lui. “Eri più che pronto prima dell’arrivo di quel signore. In realtà,” proseguì, guardando Boutroux con un misto di invidia, scherzo e anche un po’ di rancore per i suoi abiti eleganti ormai rovinati, “quegli aristocratici hanno appena iniziato a ‘smantellare i loro nidi’ in città, ”
+
+“Quando?”, chiese gentilmente Boutroux.
+
+“Ieri notte… E oggi, bravo lavoro!” disse con sarcasmo il giovane uomo.
+
+“Questo non è un comportamento onesto,” intervenne affrettatamente il postino, “e io non voglio che la politica entri nella mia casa. Ne abbiamo già abbastanza!”
+
+Un contadino dall'aspetto agiato, anziano e robusto, espose il suo punto di vista: “Il nostro compito è trovare l’assassino”, disse.
+
+“Certo,” disse il locandiere, con nervosismo.
+
+“Oh! Il Club se ne occuperà,” disse il giovane che aveva parlato per primo. “È stato uno dei loro uomini ad essere ucciso; l’uomo che lo ha ucciso era una spia, e quel vecchio diavolo che lo ha mandato c’era dietro a tutto questo.”
+
+“Non abbiamo prove a sostegno di ciò,” disse il contadino in tono ponderato.
+
+“Beh,” disse il giovane, “le ‘autorità’ di cui parlate con tanta enfasi potrebbero catturare l’assassino prima di me; ma scommetto sul Club: sono dappertutto nel paese per trovarlo.”
+
+I due sposi presenti annuirono in segno di assenso, mentre un gentiluomo vestito in modo piuttosto sobrio e con un’espressione preoccupata – si sarebbe detto un avvocato a giudicare dall’aspetto – che stava mangiando un omelette e bevendo un bicchiere di vino a un tavolo più lontano, alzò lo sguardo di nascosto.
+
+Il giovane aggiunse: “E spero che uccidano anche quel vecchio diavolo!”
+
+Uno dei sposi sputò a terra per liberarsi della pipa che stava fumando; soffiò due volte e poi disse: —
+
+“Vecchio Boutroux, al diavolo!”
+
+L’altro annuì di nuovo e disse: “Sì, e anche sua moglie.”
+
+“Li conosci?” disse l’uomo giovane, dallo sguardo poco istruito, indossando la camicia, guardando Georges con sospetto.
+
+“Sì,” disse Georges francamente, “lo so. Li conosco bene. È stato solo poco tempo fa che sono stato a casa loro. Mi dispiacerebbe molto se gli dovesse succedere qualcosa.”
+
+“Monsieur lo sa perfettamente bene,” disse rapidamente il locandiere e postino, “che quest’uomini che stanno parlando sono senza valore. Non presti attenzione a ciò che dicono, signore. Parlano e immaginano orrori. Monsieur Boutroux è un buon patriota; ha ripudiato suo nipote, signore. È stato suo nipote ad averlo fatto. Un spia, signore, un uomo al soldo degli Austriaci.”
+
+“Ha ucciso un onesto lavoratore che valeva dieci volte di più di lui,” disse il vecchio contadino.
+
+Boutroux sorrise serenamente a tutti loro.
+
+“Le vostre opinioni sono molto diverse, signori!”, disse. “Sembra”, aggiunse, rivolgendosi al locandiere, “che sia avvenuto un omicidio e la polizia stia cercando l’assassino.”
+
+Il locandiere annuì.
+
+“Sì!” esclamò selvaggiamente il giovane lavoratore, “ma ora il Club lo vuole, e lo avranno. Era uno dei loro, quel maledetto traditore!”
+
+“Era uno spia,” ripeté lo sposo. “Anche sua zia, quella strega, lo era; lei nascondeva preti, e lui stesso era un gesuita!”
+
+Di nuovo, l’oste implorò per la pace. “Non dategli retta, signore!” disse a Georges. “Sono solo scoria, ignoranti e spregevoli! Almeno io posso assumermi la responsabilità dei miei due garzoni. Per quanto riguarda quel terzo ragazzo,” aggiunse con disprezzo, indicando con il pollice il giovane lavoratore in camicia, “non so proprio cosa dire. È stato con me solo da una settimana. Qui tutti rispettiamo Monsieur Boutroux. Ci preoccupiamo molto per lui, soprattutto ora che deve affrontare tante difficoltà a causa di quel erede inutile.”
+
+“Vada piano, padrone,” disse il giovane lavoratore con buon umore. “Il signore vuole imparare.”
+
+“Esattamente,” disse Boutroux. “Non sono stato a Bordeaux da sei settimane e mi dispiacerebbe molto se fosse successo qualcosa ai miei vecchi amici.”
+
+“Oh, non è successo nulla a loro,” disse lo sposo, sputando di nuovo. “Cosa può mai succedere ai ricchi, in fondo?”
+
+“Potresti essere più gentile con quell’uomo,” disse il postino. “Si potrebbe pensare che ti abbia fatto del male, ”
+
+Il sposo aggiunse poi in modo un po’ più cortese: “È ciò che hanno fatto al Popolo, ed è proprio questo il motivo per cui ci ribelliamo.”
+
+“Ma lasciamo perdere tutto questo,” disse Boutroux ridendo allegramente, “cosa hanno fatto esattamente? Di cosa si tratta in realtà?”
+
+“Ho ucciso soltanto un uomo onesto con l’inganno. Avrei potuto ucciderne anche una dozzina,” ringhiò lo sposo.
+
+“Oh, sciocchezze,” disse Georges con noncuranza; “conosco bene il signor Boutroux. Dopotutto, quel vecchio gentiluomo e sua moglie non vanno in giro ad uccidere la gente.”
+
+“Non creda a quello che dicono, signore,” disse per la terza volta il postino, angosciato all’idea di perdere clienti facoltosi. “Sono solo individui inutili e vagabondi; ripetono qualsiasi cosa sentano.”
+
+“Beh, comunque c'era un uomo morto,” disse lo sposo, inclinando il viso in avanti con rabbia e mostrando i denti, “perché l'ho visto con i miei occhi.”
+
+“Sì”, disse il suo compagno, “anch’io l’ho visto, e so con cosa è stato ucciso”.
+
+Il direttore postale stava per intervenire di nuovo, ma Georges alzò la mano.
+
+“Pregate, signore,” disse, “lasciate che io ascolti tutta la storia fino alla fine. Mi interessa molto. Madame Boutroux era una delle poche amiche di mia zia, e mio zio ha sempre parlato molto bene di M. Boutroux fin da quando ero piccolo. Direi che mio zio considerasse M. Boutroux non solo un uomo buono, ma anche un grande uomo.” Il fidanzato continuò: “Non ci vuole molto per raccontare. Vivono nel Quartiere del Grande Ponte; il quartiere ha saputo che erano coinvolti in una cospirazione, che la sera prima i membri del comitato si riunivano nelle loro stanze e che avevano armi nascoste nei loro sotterranei. Hanno inviato una delegazione da quel vecchio traditore; lui ha rifiutato di riceverli o di parlare con loro. Proprio mentre la delegazione stava per andarsene, è apparso sul balcone e ha sparato contro di loro, colpendo molte persone, tra cui una donna. Una patriota. L’ho vista con i miei occhi, ed è stata lei a raccontarmi tutto. Dopo che se ne sono andati, mancava ancora una persona; la mattina seguente sono andati a cercarla e l’hanno trovata morta fuori dalla porta. Queste sono le notizie.”
+
+“Mio Dio!”, esclamò Georges, mostrando un crescente interesse. “Quindi quell’uomo è stato ucciso a colpi di arma da fuoco?”
+
+Lo sposo annuì.
+
+“No, non era così,” disse il suo compagno; “è stato pugnalato.”
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_04" data-title="The Girondin — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,concept/deception,concept/secrecy_and_concealment,concept/survival,form/historical_novel,histref/the_french_revolution,setting/france"></span>
@@ -4597,6 +5455,70 @@ The postilion nodded. He did not understand, and he did not care. A hundred livr
 The machinery of the transfer was perfected.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“È stato colpito da un proiettile, vi dico,” disse il primo uomo con rabbia.
+
+“E ti dico,” disse l’altro con altrettanta certezza, “che è stato pugnalato.”
+
+“E vi dico entrambi,” disse il giovane artigiano, “che siete degli sciocchi: era pugnalato con un pugnale affilato. Ho visto la ferita, e lo hanno visto anche molti presenti nella folla.”
+
+“C’era molta gente, allora, quando hai lasciato la città?” chiese Georges, in tono indifferente.
+
+“Sì,” disse il giovane lavoratore, “è stato circa due ore fa che me ne sono andato. C'era una grande folla che urlava intorno alla casa. Non dare retta a quello che dicono,” aggiunse scuotendo la testa in direzione dei groom. “Hanno preso sul serio tutte quelle sciocchezze di stamattina.”
+
+Vi sto raccontando quello che è successo. Era un portatore ai moli; sua sorella gestisce un chiosco di caffè lì, e lui ha un’altra sorella che balla al teatro di Libourne.
+
+“Lo pensavo anch’io,” mormorò Georges.
+
+“Cosa pensavi?” chiese bruscamente l’artigiano. “Beh, pensavo, ” rispose rapidamente Georges, “che si trattasse di qualche povero diavolo del Popolo che aveva sofferto. È sempre così.”
+
+“È vero,” disse il giovane lavoratore, che ora tutti ascoltavano attentamente, considerandolo l’ultimo portatore di notizie autentiche. “Ma non è stato un atto compiuto personalmente da vecchio Boutroux, né da sua moglie. Alcuni membri della Sezione sono andati a scusarsi con loro stamattina alle tre, e ora gli daranno una corona civica. Ha aderito al movimento dei volontari. Sta bene. Ha un nipote spregevole che in passato frequentava il partito austriaco; si è preso troppa importanza, si è fatto chiamare ‘de’ Boutroux e fingeva di essere molto legato alla Sezione. Oh, era davvero un individuo strano! È stato lui ad uccidere quel poveretto, ” Il lavoratore serrò le labbra e aggiunse con enfasi: “Poz’!”
+
+“Sì, sarà lui,” dissero i testimoni di nozze.
+
+“Non voglio crederci; conoscevo quel piccolo maledetto,” disse Georges. “Prendeva in prestito soldi e beveva un po’, ma non credo che avrebbe ucciso una persona.”
+
+“È quello,” ripeté il giovane lavoratore, battendosi la mano sul ginocchio con decisione; “è lui!”
+
+“I due sposi annuirono. Il postino disse con saggezza…”
+
+“Beh, si sentono molte storie diverse da persone diverse, non è vero, signore?”
+
+“Sì,” disse Georges, come se avesse sentito solo a metà; stava pensando velocemente e intensamente, ma per il momento non aveva ancora nessun piano.
+
+Il postino si chinò verso Georges e sussurrò: “In realtà, signore (poiché conosce la famiglia, posso dirglielo tranquillamente), sono proprio i sostenitori del Re quelli più ostili! Non credono che sia stato il giovane a farlo, ma lo stanno cercando con insistenza. Dicono che sia stato un individuo spregevole ad unirsi ai Giacobini, considerato il suo background. E sono davvero determinati a trovarlo! Abbiamo qui in città un vecchio colonnello in pensione: dice di conoscerlo bene e non lo lascerà andare se lo incontra!”
+
+“Niente?” disse Georges in modo indifferente, ma all’improvviso si rese conto di un nuovo pericolo.
+
+Ma proprio mentre lo diceva, l’uomo anziano che guidava il carretto con i buoi entrò barcollando e chiese del vino.
+
+Lo sguardo dell’uomo anziano era furtivo. Si toccò i capelli, come prescriveva il rituale, e si inchinò, anch’esso secondo le usanze rituali, davanti a ciascuno dei presenti; non aveva ancora visto Georges. Il locandiere andò ad accogliere il nuovo arrivato. Georges Boutroux si alzò silenziosamente dal suo angolo e, mormorando tra sé “Non piove mai, ma quando piove, ”, iniziò a muoversi lentamente verso la porta accanto.
+
+Il giovane lavoratore fissava il pavimento, muovendo le mani tra le ginocchia; i due camerieri guardavano il piccolo fuoco da cucina nel grande camino aperto – piccolo com'era, ma opprimente in quella stagione; l’uomo dall’aspetto da avvocato stava sciogliendo il tovagliolo dal collo, dopo aver finito di mangiare: per il momento nessuno guardava Georges.
+
+Era già in piedi; uscì dalla porta in silenzio, come un fantasma, nascondendosi dietro le spalle del suo ospite; lasciò la stanza in un attimo e aveva già elaborato il suo piano.
+
+Aveva visto fuori dall’osteria una carrozza con le lampade accese e il cappuccio alzato, e un postiglione che collegava le redini dei due cavalli alla vettura. Intuì che quel solitario gentiluomo, simile a un avvocato, che aveva appena finito di mangiare e sembrava terrorizzato dalla democrazia, stesse dirigendosi verso nord. Mentre si insinuava nel corridoio, il piano di Georges prendeva forma nella sua mente. Si meravigliò di come i suoi pensieri funzionassero così rapidamente. Pensò: “È un peccato che mio zio non mi abbia fatto diventare un avvocato o un ladro, o qualcosa del genere. Ma in realtà io stesso non conoscevo le mie vere capacità.”
+
+Si insinuò nell’ombra della casa, dirigendosi verso gli stalli.
+
+Era esattamente come aveva immaginato: in una piccola stanza per gli abiti da equitazione, sotto la luce di una lampada appesa, un postiglione in camicia e pantaloni corti si stava infilando i calzoni da cavaliere; il suo berretto giallo da fantino e il suo elegante cappotto blu erano pronti accanto a lui, così come la frusta, i guanti e le sue due stivali alti.
+
+Boutroux entrò in quella piccola stanza, mostrando nel pugno teso un mazzo di appunti; mentre lo faceva, disse all’uomo sbalordito che stava pronto a imprecare o gridare: —
+
+“Cento lire; capite? Se mi ascoltate, tra poco avrete cento lire. Se mi interrompete, non ne avrete nemmeno una.” Estrasse i fogli di carta moneta in un mazzo, fissò l’uomo negli occhi e continuò: “Stasera siete il cocchiere della carrozza; la vostra destinazione è Mirambeau.”
+
+Il postiglione, pieno di mistero e desideroso di avventure, accettò. Era un ragazzo dai capelli biondi e occhi blu, forse di diciotto anni.
+
+“Potresti mettere fuori il piede affinché io possa misurarlo con il mio?” disse rapidamente Georges. Il postiglione lo fece. Il piede di Georges era leggermente più piccolo. “Rimarrò con le mie stesse scarpe,” disse.
+
+“Mi vestirò con i tuoi abiti,” disse Georges rapidamente, “e tu ti vestirai con i miei. Vedi, in questo mio cappotto ho messo questi cento livri. Mi metterò i tuoi vestiti e il tuo cappello, poi uscirò e salirò sulla carrozza con i tuoi abiti. Tu mi seguirai per assicurarti che tutto vada secondo i piani. Farai così anche tu, indossando solo le maniche della tua camicia. Io terrò il mio cappotto, che contiene quei cento livri, e tu guiderai i due cavalli. Per il tuo stesso interesse, non li lascerai andare finché non ti avrò consegnato quel cappotto. E anche per il tuo interesse, visto che vuoi tenere ciò che c’è dentro, dovrai lasciare andare i cavalli. Capisci? È un modo per evitare che uno di noi tradisca l’accordo. La mia famiglia si occupa di affari, e ho imparato queste strategie.”
+
+Il postiglione annuì. Non capiva, e non gli importava. Cento lire erano una somma enorme; le vedeva lì davanti ai suoi occhi, che lo fissavano direttamente in faccia.
+
+La macchina per il trasferimento fu perfezionata.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_01" data-title="The Girondin — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,motif/feigned_madness,motif/storm,motif/horse,concept/deception,form/historical_novel,histref/the_french_revolution,setting/france"></span>
@@ -4636,6 +5558,42 @@ He had covered all but another league, in which he must have received some hundr
 
 “The matter!” said the unfortunate lawyer. “The matter is, you dirty fool, that you will find yourself in jail with the break of day!” Boutroux shook his head gently, and his smile was really beautiful in the lamp-light, had the exasperated traveller’s mood only permitted him to appreciate its beauty. “Oh no,” he said in a gentle manner, but (as he hoped) a little oddly. “Oh no; I shall not be in jail — I shall be in the Kingdom of my Father. It lies,” he added ecstatically, “a little beyond the Hills of Gold.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI.
+
+In cui un postiglione impazzisce.
+
+Alla porta dello stallo che dava sulla strada, Boutroux, vestito con gli abiti del postiglione, con il grande cappello da cacciatore a punta calato sugli occhi e imitando l’andatura arrogante del postiglione, si avvicinò al suo cavallo. L’uomo professionista, nervoso e silenzioso durante lo scontro all’osteria, era già nascosto nelle profondità della carrozza: il tempo tempestoso che minacciava ancora aveva indotto il suo ospite ad alzare il cappuccio della vettura.
+
+Boutroux montò a cavallo, tenendo in mano il suo cappotto abbandonato. L’uomo che aveva derubato stava lì, con le maniche della camicia sollevate, tenendo i cavalli per la briglia. Boutroux prese il cappotto e lasciò andare i cavalli.
+
+Boutroux afferrò le redini del cavallo guida con la mano destra, tenendola con cautela contro il fianco, chiedendosi come avrebbe reagito la ferita se il cavallo avesse tirato forte. Ma questi vecchi cavalli da lavoro erano come cavalli da circo addestrati, pensò; e non appena si fosse trovato al buio, avrebbe preso le redini di entrambi i cavalli con la mano sinistra.
+
+Avrebbe dovuto conoscere la strada; almeno, nessuna istruzione gli era stata data. Georges aveva viaggiato verso nord diverse volte nella sua giovinezza e sapeva che il suo prossimo traguardo non sarebbe stato lontano da Mirambeau, dove avrebbe trovato riposo per la notte. Tuttavia, sapeva anche che a Mirambeau ci sarebbero state luci, persone esperte nel loro lavoro e, forse troppi stallieri disposti a mettere in dubbio le indicazioni di un postiglione. Lui, però, non aveva alcuna intenzione di raggiungere Mirambeau.
+
+Era forse mezzanotte e un quarto quando sentì l’ordine di partire. Appena ricevuto, il padrone di casa gli gridò di fermarsi per ricevere ulteriori istruzioni che aveva dimenticato di comunicargli. Boutroux spinse improvvisamente il cavallo su cui cavalcava; l’animale si mise a correre a tutta velocità, e la leggera e un po’ traballante carrozza partì a gran velocità, rotolando pericolosamente sulla strada lastricata.
+
+Ricoprire il ruolo di postiglione non è affatto facile.
+
+È un mestiere a sé stante: metà artigiano e metà stalliere. Ha a che fare con i cavalli, il che già è abbastanza complicato; inoltre richiede anche una certa conoscenza delle strade. Per svolgerlo nel modo in cui Boutroux desiderava farlo, era necessario molto di più: bisognava conoscere anche ciò che si trovava al di fuori delle strade principali, perché su quelle strade stabilite lui non aveva intenzione di restare. Sapeva troppo bene cosa potesse accadere da un momento all’altro. Una o due volte, mentre accelerava, pensò di aver sentito qualche grido provenire dalla sua “passeggera”. Continuò comunque a spingere i suoi animali senza esitazione, e si disse: “Quale passeggero si è mai lamentato di una velocità troppo elevata?” Così proseguì lungo la strada.
+
+La pioggia torrenziale che minacciava fin dall’inizio li colpì proprio prima di arrivare a Etaudiers. Attraversarono il villaggio al buio, senza testimoni del loro passaggio, sotto una pioggia battente e assordante; fu proprio a Etaudiers – o meglio, appena fuori dal villaggio – che Boutroux prese la sua decisione.
+
+I bivii possono portare ovunque: possono concludersi in campi arati, in muri in rovina o in cave; e i bivii di notte possono condurre dritti verso il diavolo. Ma Boutroux era disposto a correre quel rischio.
+
+La più tenue traccia di un sentiero nella oscurità, che conduceva proprio fuori da Etaudiers, fu ciò che lo guidò.
+
+Spinse di nuovo i cavalli, all'improvviso; con un forte scossone la carrozza si mosse in avanti, e lui si trovò insieme ad essa fuori dall’autostrada, su una strada di terra bagnata, difficile da percorrere e quasi impraticabile. Sentiva la tensione sui cavalli che tiravano la carrozza contro i suoi polpacci, ma continuò a spingerli avanti, e in qualche modo riuscirono a procedere.
+
+Aveva svoltato in un angolo così acuto che ora la pioggia batteva sul lato destro della carrozza e sui fianchi destri degli animali, sulla guancia destra del suo viso. Il passaggio improvviso dalla strada lastricata al terreno fangoso creava un silenzio curioso, nel quale si potevano sentire il rumore stanco degli zoccoli che affondavano nel fango, persino il ticchettio della pioggia. Boutroux era così concentrato sulla sua fuga che aveva quasi dimenticato l’esistenza della carrozza dietro di sé. Aveva completamente scordato la presenza del suo passeggero, quando sentì un colpo violento sulle natiche e, attraverso il fragore della tempesta, gli giunsero voci che gridavano “strada sbagliata”.
+
+Si morse il labbro, gridò ai suoi cavalli e, quando la strada divenne un po’ più asciutta in cima alla salita, li spinse a uno sforzo ancora maggiore. La pioggia stava gradualmente cessando, così come il vento; a parte il continuo rumore degli zoccoli dei cavalli, nulla interrompeva le lamentele sempre più violente provenienti dall’uomo sfortunato intrappolato tra le ruote. Prima sentì una serie di imprecazioni, poi due o tre proteste ragionevoli; dopo un breve silenzio, finalmente un appello davvero disperato. Ma Etaudiers non era ancora abbastanza lontano, e Boutroux continuò ad andare avanti.
+
+Aveva percorso quasi tutta la strada, tranne un ultimo tratto in cui doveva aver ricevuto centinaia di colpi violenti sul dorso senza che nessuno se ne accorgesse, fino a quando lo stato dei suoi cavalli su quel terreno accidentato non gli fece prendere in considerazione l’idea di fermarsi. Dalla sua partenza aveva viaggiato a tutta velocità per almeno dodici miglia; colline che, secondo le regole stabilite, avrebbe dovuto attraversare a piedi, le aveva superate al trotto sulla strada principale; e ora aveva abbandonato quella strada per un sentiero di campagna, dove non era previsto l’uso di cavalli da posta. C’erano segni evidenti sia sul suo cavallo che su quello che lo guidava: entrambi erano al limite delle loro forze. Li fece rallentare fino a farli camminare ad un passo normale, e finalmente riuscì a comprendere le parole dell’uomo che gli aveva chiesto di aiutarlo. Boutroux si girò con un sorriso cordiale; il suo giovane viso attraente era ben illuminato dalle luci della carrozza. Fermò i cavalli e chiese cosa fosse successo.
+
+“La questione!” disse l’infortunato avvocato. “La questione è che, stupido idiota, entro l’alba ti troverai in prigione!” Boutroux scosse dolcemente la testa; il suo sorriso era davvero bellissimo nella luce della lampada, se solo lo stato d’animo esasperato del viaggiatore gli avesse permesso di apprezzarne la bellezza. “Oh no,” disse con voce gentile, ma (come sperava) in modo un po’ strano. “Oh no; non sarò in prigione. Sarò nel Regno di mio Padre. Si trova, ” aggiunse estaticamente, “un po’ oltre le Colline d’Oro.”
 
 
 
@@ -4688,6 +5646,54 @@ So he continued, working his instrument of fear, until at last far off upon the 
 
 The wretched beasts shook and shivered though the damp night was warm; a low and eerie wind blew in the scant trees which were here planted in a group by the roadside. Boutroux stiffly and deliberately dismounted.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Dio mio!” esclamò ad alta voce l’avvocato. Poi mormorò tra sé: “Devo avere a che fare con un pazzo.”
+
+“Molto lontano,” continuò Boutroux, fissandolo con i suoi grandi occhi nella luce della lampada mentre si girava di lato, proseguendo il suo discorso e incitando i cavalli ad avanzare a passo tranquillo, “molto oltre le Colline d’Oro si trova il Regno di mio Padre. Ed è lì che andiamo, caro amico!”
+
+La sua figura non era altro che una massa scura contro il tetto della carrozza; Boutroux, pensando a quanto pallido e evidente dovesse essere il suo viso alla luce delle lanterne vista dal buio, si sforzò deliberatamente di assumere un’aria estatica: i suoi occhi si alzarono sotto il pesante cappello, cercando il cielo della sua terra nativa mentre i cavalli stanchi procedevano lentamente.
+
+“Oltre le Colline d’Oro,” disse, “vedrete queste bestie mortali trasformarsi: mio Padre, quando me le ha donate, ne ha dato anche delle ali, che spiegano al primo raggio dell’alba; allora anche la vostra carrozza si trasformerà in fuoco puro, e saliremo insieme verso il cielo.”
+
+L’avvocato andava fiero della sua conoscenza degli esseri umani e della sua capacità di prendere decisioni rapidamente. Aveva già visto situazioni del genere nei tribunali. Era davvero molto sfortunato che fosse accaduto a mezzanotte, ma c’erano modi per gestire la situazione.
+
+“Monsieur il Principe-Cavaliero,” disse lui, con profondo rispetto nel tono, “sapevo molto bene, quando vi ho visto montare a cavallo, che non eravate di questo mondo. Avrei potuto indovinare che uno come voi mi avrebbe portato nei Regni Beati. Ma poiché non me lo avete detto esplicitamente, ecco perché sono arrivato in condizioni molto scarse, senza nulla che mi permettesse di ricevere quell’onore e di entrare nel Palazzo del Cielo. I miei vestiti sono bagnati; sono stanco; non ho nemmeno un cambio. Non oserei entrare nelle meraviglie che mi offrite finché non fossi un po’ meglio preparato. Per favore, potreste riportarmi sulla strada principale alla prossima svolta? Quando arriveremo a Mirambeau, ho amici lì che mi forniranno abiti adeguati, in modo che possa continuare il mio viaggio con voi verso la gloria. Esiste una strada,” aggiunse timidamente, “che ci permette di raggiungere la Terra dei Beati passando per Mirambeau; è una strada più breve.”
+
+“Il Mirambeau verso cui ci dirigiamo,” disse Boutroux con grande serietà, “è un altro e migliore Mirambeau, dove coloro che servono mio Padre camminano in pace.” I cavalli proseguirono silenziosamente.
+
+“Ho sempre sentito dire,” rispose l’avvocato con pazienza, con uno sguardo gentile e intelligente, pieno di comprensione, come se capisse perfettamente di cosa si trattasse, “che la strada per la Città Celestiale si dirama a circa mezzo miglio da Mirambeau, oltre la piazza dove c’è il cartello del Maiale che Gira.”
+
+Boutroux scosse la testa con decisione. “Ti sbagli di grosso,” disse con voce calma ma decisa. “Quella è una strada, ma un percorso molto lungo. Ho promesso,” aggiunse, “stasera stessa di portarti nel Regno.” Poi, cambiando improvvisamente tono in uno estremamente feroce, gridò: “Legato e consegnato! Capisci? Subito legato!” Mormorò con rabbia: “E consegnato, con la bocca imbavagliata.”
+
+Guardò con disprezzo il proprio misero stato mentre lo diceva, poi abbassò di nuovo lo sguardo; improvvisamente, tornando a un tono estremamente gentile, quasi sussurrò: “Lei è avvocato, signore?”
+
+Il passeggero gli venne in mente un metodo che aveva ritenuto molto utile in una precedente crisi con un cliente che era riuscito a “domare”.
+
+“Sì, lo sono,” rispose ad alta voce e con fermezza, “e posso farvi rispondere delle vostre sciocchezze!”
+
+“Un avvocato!” mormorò il giovane con voce felice e ispirata, “Un avvocato. L’Uomo del Peccato!” Poi alzò lo sguardo e annuì con entusiasmo: “È esattamente ciò che volevo! Sei tu. E devi assolutamente riuscirci!” La sua voce si alzò ancora di più: “Devi farcela, a tutti i costi!”
+
+Per un quarto d’ora nessuno dei due parlò più. Di tanto in tanto Boutroux ringhiava, rideva e imprecava tra sé. I cavalli, troppo stanchi per trottare o anche semplicemente camminare al passo, tiravano a fatica la carrozza lungo la strada sabbiosa delle colline; intorno c’era solo oscurità e silenzio assoluto. Poi l’avvocato provò un altro trucco.
+
+“Monsieur il postiglione,” disse seriamente, “non sono degno di entrare in quel Regno. A Mirambeau c’è un prete che mi assolverà, e una volta ricevuta la penitenza, continuerò il viaggio con voi.”
+
+“Boutroux gli gridò senza nemmeno girarsi…”
+
+“Non parlatemi di preti; nel mio Regno non ne vogliamo sapere nulla. Vi viene offerta una grande opportunità, e dovete accettarla, che vi piaccia o no. Inoltre” – e qui la sua voce aumentò improvvisamente di tono – “dovrete essere legati e poi liberati: l’ho promesso! Oh, ” concluse, schioccando le labbra, “verrete serviti con tutto ciò che desiderate, proprio nel mezzo dei vostri peccati.”
+
+“Monsieur il postiglione,” disse l’avvocato, dicendo questa volta qualcosa che senza dubbio era vero, “sono nelle vostre mani.”
+
+Iniziò rapidamente a cercare un modo per garantirsi la sicurezza. Non c’era alcuna possibilità di fuga attraverso le suppliche o le lusinghe: doveva chiedere aiuto dall’esterno. Pertanto tenne la bocca chiusa e, mentre la carrozza avanzava lentamente, aspettò l’alba.
+
+Fin da giovane, Boutroux aveva capito quanto fosse utile cantare per alleviare la fatica del viaggio; quindi, durante quella lenta marcia di oltre una lega, continuò a cantare.
+
+Tra frammenti di canzoni da taverna che gli erano familiari, e alcune delle quali riflettevano la sua triste condizione, inseriva splendidi strati di profezie: violente denunce contro i ricchi, allegri ritornelli e visioni di un mondo futuro. Dopo ogni uno di questi momenti, si sfogava con un forte fischio o, occasionalmente, con una risata folle e ben scelta. Ogni volta, non dimenticava di girare bruscamente la testa verso destra, mostrando una fila di denti bianchi, e mormorare all’uomo della legge: “Legato e consegnato. Fai attenzione! Impacchettato come un pollo. E proprio il più adatto per i tuoi peccati!”
+
+E così continuò, utilizzando il proprio strumento del terrore, fino a quando, in lontananza sulla pianura, una luce tremolante che sembrava indicare la presenza di insediamenti umani e pericoli apparve all’orizzonte. Allora tirò le redini e si fermò.
+
+Quegli infelici animali tremavano nonostante la notte umida fosse calda; un vento basso e sinistro soffiava tra gli alberi radi piantati lungo la strada. Boutroux scese da cavallo con movimenti rigidi e deliberati.
 
 
 
@@ -4747,6 +5753,60 @@ A moment later, the unhappy lawyer had no occasion now to continue his shouting 
 How he bargained with them for a mount to take him to the nearest post upon the highroad, how they fleeced him, how he threatened vengeance, how upon that account other men, labouring in the fields, surrounded him and showed the new temper of democracy, how he was compelled to swear, that he had no title but was an honest patriot, and how at last — at the cost of all the ready money upon him — he obtained a very stubborn old she-donkey and a cow to pull his vehicle back to Etaudiers, would be of entertainment to any history concerning his adventures, but they have nothing to do with Boutroux, who was by this time in the depths of the high wood, and for the moment saved.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“È qui,” disse semplicemente, “che dovrò attendere fino a quando i Messaggeri del Regno non ci raggiungeranno con l’alba.” Abbassò la testa mentre parlava, ma tenne gli occhi sollevati, fissando con uno sguardo terribile la sua vittima; inoltre fece con le mani il gesto deciso di chi lega i nodi alle corde per immobilizzare un prigioniero.
+
+“Hai ragione,” disse l’avvocato con pazienza; “vedo le luci del loro avvicinamento. Credo che stiano venendo verso di noi. Forse sarebbe più saggio andare incontro a loro; sarebbe anche più cortese accoglierli in questo modo.”
+
+“Ti sbagli!” disse Boutroux con decisione, fermandosi davanti ai cavalli, con un atteggiamento rigido e attento. “È contro le regole. Non esiste alcuna regola o usanza più rispettata nella nostra società,” aggiunse a voce più alta, “che quella di attendere in questo luogo sacro gli ordini; è l’ingresso del Regno.”
+
+“Capisco,” disse l’avvocato; “ho compreso.”
+
+Per ben mezz’ora i due rimasero lì uno di fronte all’altro: l’avvocato seduto nella sua poltrona con le braccia incrociate, convincendosi che entro il giorno avrebbe saputo come gestire anche un caso del genere; Boutroux, di tanto in tanto, canticchiava qualche strofa di canzone, per poi cadere nel silenzio o mormorare felici profezie su una terra meravigliosa, oppure descrivere con frasi terribili le torture che attendono gli uomini malvagi.
+
+A est, verso dove erano rivolte le teste stanche e piegate dei cavalli, cominciava a emergere un debole bagliore dell’alba. All’inizio non si poteva capire se si trattasse semplicemente di un affievolirsi delle stelle o di un barlume di nebbia che fluttuava davanti a loro; ma la luce cresceva, aveva il profumo della mattina, e molto presto entrambi si resero conto dell’arrivo dell’alba. Piombarono in un silenzio totale e la osservarono, ognuno con i propri pensieri.
+
+Quando fu abbastanza chiaro perché Boutroux potesse vedere il volto del suo compagno, lo osservò attentamente e notò che era estremamente spaventato.
+
+L’avvocato si era alzato dalla poltrona e camminava avanti e indietro, battendosi le mani sulle spalle per scaldarsi nel freddo dell’alba, in attesa che il giorno diventasse un po’ più chiaro per poter prendere le sue contromisure. Se solo fosse stato un po’ più coraggioso, avrebbe affrontato direttamente quel pazzo; ma semplicemente non ne aveva abbastanza coraggio, e quell’uomo folle continuava a fissarlo con i suoi occhi.
+
+Sotto la luce crescente, il paesaggio diventava ora chiaro e visibile. Campi privi di siepi, alternati di stoppia e colture, si estendevano all’infinito in tutte le direzioni. L’avvocato stava in disparte, con le braccia incrociate, e osservava quei campi con ansia. In lontananza, una singola luce brillava ancora: un punto giallo visibile attraverso la finestra di una fattoria situata a un miglio di distanza; infatti, due uomini e una donna, con gli attrezzi da lavoro in spalla, si stavano dirigendo verso quei campi per iniziare il raccolto.
+
+“Penso, ”, disse l’avvocato con esitazione, osservando l’effetto delle sue parole, “penso che questi siano i messaggeri di vostro Padre.”
+
+“Non ho alcun dubbio,” rispose Boutroux con voce bassa, grave e rispettosa; “li conosco, e arriveranno presto qui.”
+
+“È del tutto ragionevole,” disse l’avvocato, “che io li incontri.” Iniziò a muoversi verso i campi, tremando, senza sapere come questa mossa potesse essere interpretata dalla astuzia di colui che lo aveva rapito. Fu estremamente sollevato nel scoprire che la sua fuga era stata approvata. E proprio quando si allontanò abbastanza da non essere più udito, sentì la voce forte di Boutroux che gli ordinava con decisione di annunciare l’arrivo del giovane Erede insieme ai suoi Cavalli Alati, al suo Uomo del Peccato e alla sua Carrozza di Fuoco.
+
+L’avvocato non era abituato a camminare su terreni umidi, nemmeno se si trattava di distanze brevi; non aveva certo l’umore ad affrontare la situazione con facilità. Proseguì febbrilmente per i sei o settecento metri che lo separavano dal soccorso: non osò chiamare aiuto fino a quando non furono trascorsi molti minuti, e solo allora, essendo ormai vicino ai contadini più di quanto lo fosse al suo temibile postiglione, si decise a gridare per chiedere aiuto.
+
+Il gruppo di contadini si fermò; videro la posta, l’uniforme ufficiale del postiglione in lontananza; ricordarono che la legge li obbligava a prestare cavalli in caso di guasto, e senza esitazione girarono e corsero nella direzione opposta, per evitare che venisse loro chiesto un simile sacrificio. Dietro di loro correva l’avvocato; poiché una caccia accanita richiede molto tempo, forse passò un altro quarto d’ora prima che le sue frenetiche suppliche arrivassero fino a loro in modo comprensibile. Quando capirono che si trattava di qualcosa di più grave di un semplice guasto, tornarono ad aspettarlo. Lo raggiunsero: era esausto per l’esperienza di quella terribile notte, fradicio d’acqua, estremamente scontento e quasi al limite della resistenza fisica; i ciottoli pesavano sui suoi scarponi sottili e logori. In generale, offriva lo spettacolo lamentevole di un uomo benestante in difficoltà: uno spettacolo che piace sempre molto alle classi più povere, soprattutto quando vedono l’opportunità di trarne profitto. Mentre si avvicinava a loro, ansimando, disse.
+
+“Signori, vi supplico! Signora, vi supplico! È accaduto qualcosa di terribile: un uomo è impazzito!”
+
+Lo guardarono in silenzio, senza rispondere.
+
+“Signori,” disse di nuovo, “vi supplico in nome della carità cristiana! Signora, un uomo è impazzito! È vostro dovere aiutarmi a legarlo e riportarlo tra la sua gente!”
+
+“Quale uomo?” chiese sospettosamente il contadino che guidava il gruppo. L’avvocato era ormai arrivato insieme a loro e stava di fronte a lui.
+
+“Il mio autista!” continuò, ansimando. “È impazzito, si chiama figlio del cielo e mi ha portato in questo terribile posto! Devo chiedervi aiuto. Lo devo fare in nome della legge. Oggi a Niort mi aspettano persone importanti.”
+
+“Oh, non c’è nulla di terribile nel nostro posto,” disse la donna in tono irritato; “dovresti essere un po’ più cortese nei tuoi modi. Non siamo più ai tempi dei signori, ricorda.” Lo guardò con sospetto. “Cosa ti ha portato qui?”
+
+“Quella poltrona a dondolo,” rispose l’avvocato in modo piuttosto sciocco, “quella maledetta poltrona a dondolo e il suo conducente infernale.”
+
+Il contadino a cui aveva parlato per primo lo osservò in silenzio per un momento. “Non vedo nulla di plausibile nella tua storia,” disse bruscamente, notando con sospetto il tessuto liso dell’uomo più ricco. “Se è successo qualcosa di strano, il tuo postiglione saprà come chiedere aiuto: è compito suo.”
+
+“Non capite,” disse l’avvocato; “è pazzo, sfortunatamente è impazzito! Mi ha chiamato ‘l’Uomo del Peccato’.”
+
+“Beh, c’è un metodo nella sua follia,” disse il contadino sorridendo, “e sembra che stia prendendo una strada migliore della tua per trovare il giusto aiuto.” Indicò con il dito oltre la spalla del suo interlocutore. L’avvocato si girò e immediatamente iniziò a gesticolare freneticamente e a gridare, perché ciò che vide fu questo: la carrozza, abbandonata senza cavalli e sola sulla strada, molto lontano, all’orlo del paesaggio, proprio sul punto di entrare in un bosco che si estendeva fino all’orizzonte; il postiglione era ancora a cavallo, con il cavallo da tiro che lo seguiva. Anche da quella distanza poteva vedere che il cavallo da tiro procedeva controvolentemente, esausto per via di tutte quelle avventure folli e disperate.
+
+Un attimo dopo, l’infelice avvocato non ebbe più l’occasione di continuare a gridare e fare gesti. Il pazzo postiglione era scomparso nella foresta, e ora si trovava da solo, insieme ai contadini, in quella desolata pianura.
+
+Il modo in cui negoziò con loro per ottenere un animale da cavalcare che lo portasse al vicino posto di guardia sulla strada maestra, il modo in cui lo sfruttarono, le minacce di vendetta che fece, il fatto che altri uomini, impegnati nei campi, lo circondassero e mostrassero così il nuovo carattere della democrazia. Il modo in cui fu costretto a giurare di non possedere alcun titolo legittimo, ma di essere soltanto un onesto patriota. E infine, al prezzo di tutti i soldi che aveva con sé, riuscì ad ottenere una vecchia mula molto testarda e una mucca per trainare il suo veicolo fino a Etaudiers. Queste storie sarebbero certamente interessanti per qualsiasi racconto sulle sue avventure. Ma non hanno alcuna relazione con Boutroux, che a quel punto si trovava nelle profondità della foresta e, per il momento, era al sicuro.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_01" data-title="The Girondin — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/journey_of_life,archetype/pilgrim,archetype/outcast_wanderer,motif/dreams,motif/horse,concept/exile,form/historical_novel,histref/the_french_revolution,setting/pastoral_countryside"></span>
@@ -4784,6 +5844,40 @@ He first took off his coat and carefully turned it inside out. He was delighted 
 
 “To wear no headgear is eccentric, but no man is imprisoned for it,” he said, “while to wear a postilion’s cap is to be a postilion.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII.
+
+In cui viene preso un sacco di carbone e rimane solo una ragazza.
+
+La vaga conoscenza che BOUTROUX aveva di quella regione gli fece pensare di non essere lontano da Chiersac. Una volta entrato nella fitta foresta (poiché la strada sterrata si trasformava rapidamente in un sentiero serpeggiante), smontò e accarezzò il collo del suo povero cavallo.
+
+“È davvero una grande tragedia,” disse accarezzandolo, “che tu debba soffrire così tanto per me. Ma che cosa puoi fare? Gli uomini, quando sono in difficoltà, maltrattano persino i loro simili, figuriamoci gli animali. Non ho avena per te,” aggiunse tristemente, mentre le due pazienti bestie allungavano la testa verso di lui e una di esse mordeva dolcemente la sua manica, “ma c’è abbondante erba.”
+
+Con compassione tolse i pezzi di carne dalle loro bocche e li fissò con le fibbie ai anelli della sella. Si assicurò che i lacci delle briglie fossero legati in alto, in modo che la pelle non strisciasse e ostacolasse il movimento degli animali; allentò anche la cinghia della sella del cavallo più vicino per dargli maggiore comodità; sistemò bene le staffe, in modo che, qualora l’animale avesse avuto l’impulso di rotolare, non si facesse male. Dopo aver fatto tutto ciò, rivolse ai suoi cavalli qualche parola gentile.
+
+“Buoni cavalli. Sono un esiliato; e devo confessarvelo a voi che non avete mai detto una bugia in vita vostra: nelle ultime ventiquattro ore ne ho dette centinaia. Ma,” aggiunse sospirando, “è stata la sorte!” E mentre lo diceva, uno dei cavalli nitrì.
+
+“Esattamente,” continuò Boutroux; “anch'io la penso così. Ci sono momenti in cui un uomo deve mentire. E ora, cavalli, devo congedarvi. Non seguitemi. Forse avrete notato dalle mie azioni (anche se voi cavalli siete bestie stupide) che non desideravo essere seguito nelle ultime ore della mia vita. Andate,” concluse dolcemente, “trovate la strada di casa. Anche se non ci riuscite, qualcun altro del mio genere umano vi porterà via; e poiché i cavalli sono sempre utili, avrete sicuramente cibo, più di quanto ne abbia io.”
+
+Entrò con passi decisi nella boscaglia. Per un paio di metri, quelle povere creature sembrarono volergli seguire.
+
+“Odio farlo, ma di fronte alla pura stupidità nemmeno il genio può ribattere!”, pensò, poi prese un pezzo di legno morto che giaceva lì e lo lanciò contro i suoi ex amici. Entrambi sembrarono sorpresi; uno di loro fu anche leggermente ferito. Si allontanarono da lui e, cercando tra l’erba più rigida sotto gli alberi, si diressero vagamente verso casa.
+
+Il sole era già sorto; il caldo aumentava. Gli insetti di agosto ronzavano somnolentemente nel bosco, e il giovane provò di nuovo quella sensazione di serenità che lo aveva colto ventiquattro ore prima, quando era sbarcato dalla barca sulla riva settentrionale della Gironda. La stanchezza lo assalì con tale forza che si addormentò immediatamente sotto un basso ramo di quercia, provando una felicità profonda e soddisfacente.
+
+Mentre Boutroux dormiva, sognò. Sognò un sogno strano: vivido, ma mescolato con ricordi reali.
+
+Gli sembrava, nel suo sogno, di essere ancora in quel bosco, ma che quel bosco fosse in realtà una casa; e che, in qualche modo, si trovasse ai confini di un regno, un regno che apparteneva al suo popolo e alla sua stirpe. Gli sembrava di camminare per ore e ore attraverso il bosco, parlando con gli animali che lo incrociavano: cervi selvatici, uccelli del verde sottobosco, piccoli conigli che non avevano paura, scoiattoli sugli alberi. E di tanto in tanto, anche un cavallo che pascolava liberamente. Gli sembrava che questi animali gli rispondessero in modi diversi: a seconda che fossero felici o infelici, timidi o sfacciati, seri o umoristici, arrabbiati o amorevoli, proprio come fanno gli uomini. Gli sembrava di essere consapevole di ogni passo che faceva; di intuire chiaramente che ogni passo lo portava sempre più in profondità in un regno tutto suo, ma allo stesso tempo, sempre più lontano da una casa cara e dalle cose che conosceva. Si sentiva come un esiliato, ma anche come un pellegrino.
+
+Proprio mentre stava uscendo da quel “bosco dei suoi sogni” e intravedeva, o pensava di intravedere, un paesaggio straordinariamente splendido al di là, un luogo in cui, in qualche modo misterioso, tutto ciò che aveva perso e tutto ciò che avrebbe dovuto trovare sembrava essere stato ritrovato, improvvisamente si agitò; la sua mente perse quella tranquillità interiore. Quel paesaggio si trasformò in una nebbia, in un insieme confuso di raggi di sole che filtravano attraverso i rami verdi. I contorni di quei rami divennero sempre più nitidi, e lui si svegliò bruscamente in questo mondo reale. Si sedette dritto, fissando con occhi attenti prima le cose intorno a sé, poi il proprio destino. Iniziò a riflettere seriamente su tutto ciò.
+
+“Boutroux,” disse gravemente, “la prossima volta che mentirai, dovrai farlo liberamente, come farebbe un cittadino nel terzo anno di libertà, oppure in modo forzato. Perché se sei vestito in qualche modo – anche da povero – potrai mentire liberamente; ma se sei vestito da postiglione, sarai costretto a mentire in modo restrittivo, dovendo adattare le tue menzogne al tuo abbigliamento, proprio come fanno duchi, politici, patrioti e simili individui. Boutroux, poiché devi mentire, preferisco che lo faccia come un uomo libero, quindi devi liberarti di quell’abito da postiglione. Boutroux,” aggiunse, “ci sono persone che non saprebbero cosa fare, sapendo bene che gli uomini nudi vengono catturati dalla guardia e messi in prigione; sapendo anche che per vivere bisogna incontrare altre persone nei villaggi o nelle città, e che in quei luoghi ci sono sempre guardie, poliziotti e autorità. Un uomo sciocco potrebbe pensare che sia impossibile uscire da questa situazione difficile: sia vestirsi da postiglione che andare nudo, ma entrambe le opzioni sono fatali. Ma tu, Boutroux, spero di avere più controllo sul tuo destino, ”
+
+Prima di tutto si tolse il cappotto e lo girò con cura dall’interno verso l’esterno. Fu molto soddisfatto nel notare che la fodera era nera. Poi si tolse i pantaloni corti da postiglione, li girò anch’essi dall’interno verso l’esterno e scoprì che anche la loro fodera era nera. “Ecco,” disse seriamente, “così deve essere.” Si rimise con cura il cappotto nero e i pantaloni corti neri (com’erano ora) e iniziò a pensare al suo prossimo passo. Gli venne in mente il suo cappello.
+
+“Non indossare alcun copricapo è considerato eccentrico, ma nessuno viene imprigionato per questo,” disse, “mentre indossare il cappello di un cocchiere significa diventare un cocchiere.”
 
 
 
@@ -4841,6 +5935,58 @@ It is related of Ulysses that the extremity of evil was but a spur to him, and o
 “It must be somewhere about,” muttered Boutroux, and he disappeared down the path.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dalla tasca del suo cappotto, ora rivoltato all’interno contro la camicia, tirò fuori una scatola di fiammiferi e della carta da accendere. Con questi accese un piccolo fuoco di rametti secchi; poi, con grande attenzione, bruciò il proprio cappello. Mentre questo bruciava, gli disse: —
+
+“Non perché tu sia un eretico, amico mio, che ti brucio. Perché i Diritti dell’Uomo hanno abolito tutto ciò. Ma perché non ti conformi al resto della tua società. Chi può indossare un cappello giallo da postiglione con abiti neri? Brucia. E che Dio abbia pietà della tua anima!”
+
+Si slacciò gli speroni e li mise nella tasca interna. Poi prese la cenere del piccolo fuoco su cui aveva bruciato il proprio cappello, la spalmò deliberatamente sul viso e sulle mani; infine, spegnendo un tizzone in una pozzanghera d’acqua sporca lì vicino, si strofinò le strisce nere prodotte dalla cenere sulla fronte e intorno alla bocca. “Se avessi uno specchio”, mormorò, “potrei sistemare tutto perfettamente; ogni tratto sarebbe preciso. Ma così come stanno le cose, devo fare ciò che fanno gli artisti mediocri, e affidarmi al caso.” Con queste parole si strofinò con forza quelle strisce, mescolandole con la cenere rimasta sul viso; fece particolare attenzione a scurire soprattutto l’area intorno agli occhi, in modo che le iridi risultassero ben visibili, e quella intorno alle labbra, per far risaltare chiaramente i denti.
+
+“In questo modo,” disse, “le persone riconoscono chi usa il carbone per ardere.” E dove appariva un filo bianco sui bordi delle cuciture della fodera nera che ora indossava al contrario, lo strofinava con lo stesso bastone carbonizzato per farlo diventare più scuro.
+
+Dopo aver fatto tutte queste cose, gli venne in mente che il vecchio proverbio “Chi dorme non mangia” era particolarmente vero in questo caso: chi si sveglia ha fame. Non aveva mangiato nulla da quando aveva fatto uno spuntino la sera prima, e si chiedeva come mai un carbonaio potesse guadagnarsi da vivere in un posto dove, a quanto ne vedeva, non era mai stata prodotta alcuna carbonezza fin dall’inizio del mondo; tuttavia notò che nei dintorni c'erano molti faggi, e annusando l’aria gli sembrò di percepire l’odore della combustione. Così proseguì, pieno di speranza e fiducia, alla ricerca delle pile di carbonezza dei carbonai.
+
+“È una cosa,” pensò Boutroux, “ cancellare le proprie tracce, e un’altra cosa guadagnarsi da vivere; ma fare entrambe le cose insieme è quasi impossibile.”
+
+Mentre rifletteva, si fece strada tra la boscaglia, seguendo quella antica regola secondo cui su un terreno elevato bisogna sempre scendere verso il basso se si cerca qualcuno. Dopo circa mezz’ora, uscì improvvisamente da quella fitta vegetazione e si trovò in un prato illuminato dal sole, dove un ruscello scorreva tra l’umidità del bosco che aveva appena lasciato.
+
+Non aveva ancora percorso venti metri sull'erba fresca e rigogliosa, quando una giovane ragazza, fresca, bella e robusta, con il secchio in equilibrio nella mano destra e il braccio sinistro piegato all’indietro, lo chiamò da un cancello lontano.
+
+“Carbonaio, avremo bisogno di un sacco!”
+
+“Dio c’è dentro,” disse Boutroux con devozione. “Anch’io lo pensavo: con questo legno si fa davvero carbone. Sarebbe un peccato non ne fare alcuno, ” Rispose bruscamente: “Quando, bella mia?”
+
+“Mai, se parli in quel modo,” disse lei; “ma prima di notte, se vuoi vedere i soldi di mio padre, puoi dirlo alla tua sporca banda.”
+
+Le sorrise, con i denti bianchi sul suo viso annerito; lei gli sorrise a sua volta, e lui tornò nella foresta.
+
+“Dio,” disse mentre rientrava nella fitta foresta, “che ha fornito inaspettatamente degli strumenti per bruciare il carbone, e una donna con suo padre come clienti, non permetterà che questo passero venga ignorato. Ma da quanto so di Dio, non mi insegnerà certo a produrre carbone; e anche se lo facesse, chissà quanto tempo ci vorrebbe. E anche se sono disposto a rubare, però. Dio mi aiuti! Non ho nemmeno un sacco.”
+
+Si racconta di Ulisse che l’estremo del male fosse per lui soltanto uno stimolo, e l’opportunità una via di salvezza. Si racconterà anche di Boutroux che, sia fosse la sua giovinezza, la sua fortuna o gli dei che sorridono agli esiliati, qualcosa gli suggeriva sempre cosa dovesse fare; ed è stato proprio così quel giorno, in quell’ora: si disse infatti “Poiché ci sono coloro che bruciano carbone, come possano essere trovati? Attraverso la loro follia e quella degli altri uomini, poiché le cose umane vengono sempre scoperte in questo modo!” Arrivato a questa conclusione, e vedendo che la ragazza era tornata dentro casa, si avvicinò con cautela, nascondendosi dietro i tronchi d’albero, verso una fattoria più lontana situata ai margini del bosco. Quando vi arrivò, vide un giovane che scavava con una zappa nel giardino e gli disse.
+
+“Sono venuto per i soldi di quella sacca di carbone.”
+
+“Non abbiamo ricevuto nessuna sacca di carbone”, disse il ragazzo in tono brusco. “Chi vi ha mandati?”
+
+“Amici miei,” disse Boutroux in tono piuttosto brusco.
+
+“Puoi tornare indietro e dire ai tuoi stupidi amici che hanno sbagliato casa, o che l’abbiamo noi, ” E il ragazzo continuò a scavare. Ma mentre affondava con forza la pala nella terra, gli venne in mente di aggiungere: “Inoltre, non hanno alcun diritto di bruciare alla Croce Bianca, perché quella è terra del villaggio.”
+
+“Non è così,” disse Boutroux con quel tono deciso di chi aveva studiato la zona per anni e la conosceva bene.
+
+“Sì,” disse il giovane, alzando lo sguardo e sudando sotto quel caldo; i suoi occhi erano pieni di rabbia dietro le sopracciglia bagnate. “È terreno del villaggio, situato a duecento iarde dal bordo della foresta su tutti i lati. La Croce Bianca ne segna i confini, e si trovano proprio da questo lato!”
+
+“In un certo senso, sì”, disse cautamente Boutroux, “lo sono”.
+
+“Bene,” disse l’altro trionfante, “ecco qua! Cammina lungo il sentiero e vedi se non è entro i duecento piedi. Vengo con te.” E mentre lo diceva, attraversò il varco del recinto di cui avevano parlato poco prima e iniziò a misurare i passi lungo un sentiero che si allargava tra gli alberelli.
+
+“Stavo solo scherzando,” disse Boutroux in fretta. “So che si tratta di terreno rurale. Non volevo offenderti,” aggiunse in tono cordiale, “ma pensavo davvero che fosse qui che avrei trovato i soldi.”
+
+“Beh, non è qui,” disse il giovane, un po’ placato, e tornò a scavare. “Forse è all’inferno, chissà, ma di certo non è qui.”
+
+“Deve essere da qualche parte qui intorno, ”, mormorò Boutroux, poi scomparve lungo il sentiero.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_03" data-title="The Girondin — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,motif/wine_and_drink,concept/deception,concept/survival,form/historical_novel,histref/ancient_greece,setting/pastoral_countryside,character/ulysses"></span>
@@ -4872,6 +6018,34 @@ With this he had come up to the house, and he knocked at the door of it, slipped
 
 He heard steps within: the door opened, and in the cool dark room which it disclosed he saw the girl who had been the cause of all this labour, and from whom he hoped to receive its corresponding reward.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Come si aspettava, quel sentiero lo portò in una radura aperta; lì vide il mucchio di legna da ardere, la piccola capanna di torba, i ceppi tagliati, e i segni lasciati dai fuochi passati che indicavano la produzione di carbone nel bosco.
+
+Quante volte, da bambino, mentre camminava con la sua tata nei boschi vicino alla città, aveva visto simili accampamenti. Ma solo ora si era chiesto davvero come funzionasse quel commercio. E non continuò più a pensarci né a interessarsene, quando i suoi occhi incrociarono un grande sacco pieno di qualcosa che, in quel momento, gli sembrava più prezioso dell’oro. Peccato che quel sacco servisse da cuscino per un uomo enorme e addormentato.
+
+Questo gigante russava durante il riposo di mezzogiorno: un braccio era sotto la testa per proteggersi dalle superfici ruvide del carbone nel sacco, l’altro giaceva inerte accanto a lui. Accanto a lui c’era una bottiglia di vino in pelle, semivuota, e un pane che costituiva il suo pasto, disposti in modo casuale.
+
+“Mia cara nonna,” pensò Boutroux, “che è morta tre anni fa, mi diceva sempre di scegliere il dovere prima del piacere, e aggiungeva: ‘Quando credi di avere la stessa libertà di scelta in termini di dovere, scegli la strada più difficile, e avrai ragione.’ Quindi,” sospirò, “prima di tutto devo spostare quel sacco; solo se ci riesco con successo avrò il diritto di rubare questo vino e questo pane. È rispettando l’ordine giusto delle cose che gli uomini possono prosperare.”
+
+Esiste un gioco chiamato “Spillikins”, nel quale il giocatore vince muovendo una serie di delicati pezzi di avorio intrecciati tra loro, in modo da separarli senza far tremare nessuno di essi a causa del movimento dei vicini. Su scala più ampia, questa era proprio la missione di Boutroux.
+
+Iniziò abbastanza saggiamente dando un forte calcio al sacco di carbone, così che la testa del dormiente urtasse violentemente il terreno. Il suo russare fu improvvisamente interrotto da un violento spasmo; emise un gemito, si contorse come se volesse lottare con il suolo, poi, in modo strano, sospirò di nuovo, rotolò sulla schiena e distese le sue grandi braccia a forma di croce; la sua testa ricadde pesantemente sul terreno e, dopo un attimo, riprese a russare.
+
+Boutroux lo guardò con meraviglia. “Se tu fossi stato sveglio,” disse, “mi avresti costretto a mentire ancora una volta. Non ho portato nulla di pesante, anche se spesso ne ho fatto vanto e ho mentito nei club. Ma tu, tu sei leggero per me. A giudicare da ciò che so riguardo a questo materiale, il tuo peso non è nemmeno paragonabile a quello del grano.”
+
+Dicendo questo, si accovacciò molto silenziosamente e con cautela, si caricò il fardello sulle spalle e, constatandone che era sopportabile, iniziò a camminare barcollando, quando all’improvviso si ricordò di qualcosa.
+
+“Un uomo non può vivere solo di carbone”, mormorò.
+
+Si insinuò di nuovo nel caldo del mezzogiorno, attraverso l’erba ruvida senza fare rumore, evitando ogni rametto e trattenendo il respiro per mantenere il silenzio. Sollevò con estrema delicatezza il enorme pane rotondo e la zucca piena di vino, come se fossero bambini che amava; poi si caricò di nuovo lo zaino sulla schiena con la mano sinistra libera e proseguì lungo il sentiero verso il villaggio e le due fattorie. Aveva sentito dire che i lavoratori dormivano solo per poco a mezzogiorno; tuttavia, si fermò sul bordo del bosco, mangiò in fretta un pezzo di pane e bevve un sorso di vino. Dopo essersi assicurato che fosse meglio restituirli, tornò indietro e li posizionò esattamente dove li aveva trovati; quindi riprese lo zaino con il carbone e proseguì attraverso il prato verso il cancello, dove aveva visto la giovane ragazza, bella e forte, mentre reggeva il secchio in equilibrio con un braccio.
+
+“Adesso avrei potuto dipingerlo,” disse Boutroux, guardando il paesaggio ormai vuoto: la porta, il muro, la piccola casa bianca e la valle che si apriva sotto di lui. “Avrei potuto dipingerlo, ma a cosa mi sarebbe servito? Il mio compito è consegnare questo sacco di carbone al contadino. Lui ha bisogno del sacco e io ho bisogno dei soldi. Anzi, lui me l’ha espressamente ordinato, e io ho fatto di tutto per ottenerlo. Questo è commercio: è così che deve essere. Questa è scambio. Ecco due cittadini soddisfatti.”
+
+Con questo si avvicinò alla casa e bussò alla porta; poi scivolò giù dalla sua sacca sul grande gradino di pietra, appoggiandosi con noncuranza allo stipite della porta e aspettò che qualcuno aprisse dall’interno. Mentre aspettava, pensò a quanto fosse stata deliziosa la sua cena; e decise allora, con fermezza, di rispettare questa regola per tutta la vita: mai bere vino se poteva farlo senza pane, e ancor meno mangiare pane se poteva farlo senza vino.
+
+Sentì dei passi all’interno: la porta si aprì e, nella fresca stanza buia che apparve davanti a lui, vide la ragazza che era stata la causa di tutto quel travaglio, e da cui sperava di ricevere la ricompensa adeguata.
 
 
 
@@ -4949,6 +6123,78 @@ She went a little further off, and leaned against the gatepost, still looking do
 “It is this,” he answered. “I have now been loose and flying, not without fear, for a day and for half a day, and in all that time and in all this heat I have had but three hours of sleep, and one bottle of good and two subsequent gulps of raw wine; and I do most earnestly beseech you by my patron Saint, St. George as he once was — for God knows his status nowadays — that you will bring me that cool refreshment and drink which your kind face should promise me.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VIII.
+
+In cui viene lasciato un sacco di carbone e si porta via una ragazza.
+
+La ragazza uscì dalla casa e si avvicinò alla porta; la sua bellezza era nascosta nell’oscurità della stanza, ma la sua figura slanciata era ben visibile. Boutroux pensò nel suo cuore che le condizioni umane non fossero degne della dignità dell’amore. Per un momento rimpiangé il carbone con cui si era strofinato il viso, e il compito a cui la sorte lo aveva costretto. Rimase fermo a guardarla, con un sorriso che in altre circostanze sarebbe stato metà ironico e metà audace. Ma in quel contesto, quei denti bianchi incorniciati nell’oscurità della sua barba sembravano piuttosto spaventosi che affascinanti.
+
+“Perché diavolo non puoi portare quel sacco sulle spalle?” disse lei come saluto. “Ho pulito quella pietra del gradino per niente? Grande bruto!”
+
+Boutroux non capiva, ma capì quando lei gli mise in mano una moneta d’argento come segno di pagamento.
+
+“Raccoglilo!” gridò come una giovane comandante; “raccoglilo e vai sul retro.”
+
+Riprese a portare il sacco sulle spalle, fingendo che fosse un peso enorme, e attese le sue istruzioni, curvo sotto quel fardello. Tuttavia, cercò di mostrarsi forte alzando lo sguardo con determinazione; i suoi denti bianchi brillavano nella penombra della sua pelle sporca, e i suoi occhi sembravano ancora più luminosi in quell’ambiente scuro.
+
+“Non sei uno di quelli che l’hanno portato prima,” disse lei.
+
+“Non io,” rispose lui con orgoglio. “In questo momento sto svolgendo tre attività diverse: la prima, a cui mi sto lentamente abituando, è vagabondare; per quanto riguarda la seconda, cioè la produzione di carbone, sono ancora un principiante; la terza, invece, la conosco e la pratico da ben tre anni ormai, e pensavo di essere diventato un maestro in questo campo,” continuò, passandosi il sacco sull’altro braccio per riposare un attimo e alzandosi in modo che lei potesse ammirare come riuscisse a sopportarne il peso in quella posizione. “Pensavo di essere un maestro. Ma vivendo si impara sempre, ”
+
+“Qual è quella tua terza attività commerciale?” chiese lei.
+
+“È una forma di caccia,” rispose; “è un tipo di caccia in cui il cacciatore stesso viene sempre ferito, e persino la lepre di solito non riesce a sfuggire alle ferite.”
+
+“Quello,” disse la ragazza camminando al suo fianco, con la gonna corta e già divertita, “è un proverbio del vostro villaggio. Noi qui non lo conosciamo.”
+
+“Con piacere ne spiegherò appieno il significato a tempo debito,” disse Boutroux da sotto il suo sacco.
+
+La ragazza non disse nulla in risposta, ma improvvisamente dichiarò: “Mio padre tiene il carbone in un fienile che possiede. Ti porterò lì.” E così fece, ma non percorrendo la strada più breve.
+
+“È un proverbio del mio villaggio,” rispose dopo averci pensato per un po’, “e io stesso non l’ho mai del tutto capito; noi lo diciamo in un’altra forma. Diciamo che, in quella caccia, la gioia è tutta all’inizio, prima che inizi la rincorsa, e la tristezza è tutta alla fine. E più grave ancora se la caccia ha successo. Ma diciamo anche che, in ogni caso, non c’è stanchezza in quella caccia.”
+
+“Penso che tu abbia imparato anche quel proverbio, nel tuo paese,” disse lei ridendo, “noi qui non abbiamo proverbi del genere.”
+
+“Allora,” disse lui, dimenticando la strada e tutto tranne che lei, “conosci questo proverbio: ‘Nella caccia, la preda conosce il cacciatore meglio di quanto il cacciatore conosca la preda’?”
+
+“No,” disse lei.
+
+“O forse questa: ‘La preda teme il cacciatore, ma il cacciatore teme ancora di più la preda’?”
+
+“No,” disse lei di nuovo, testardamente, “si tratta sicuramente di cacciare lupi e cinghiali, che senza dubbio abbondano in quella terra selvaggia e disolata. Nessun altro animale si scatena contro chi caccia o cerca di distruggerlo.”
+
+“Signorina,” disse Boutroux con grande cortesia, mentre spostava di nuovo il suo sacco sull’altro braccio, con un po’ più di stanchezza, “prima di tutto, lasciate che vi dica che il sentiero diventa sempre più lungo; in secondo luogo, lasciate che vi dica che la preda di cui parlo finisce per voltarsi contro il cacciatore. È proprio nella sua natura farlo.”
+
+“Ma non è anche la cacciatrice ferita?” disse lei.
+
+“Oh, bambino,” rispose lui sospirando, “non ti ho forse detto che entrambi sono feriti? Sia il cacciatore che la preda, ”
+
+“Mai ancora”, disse lei con voce più bassa, “nessuno che usi il carbone per riscaldarsi mi ha chiamata bambina”.
+
+“E mai ancora,” rispose lui con un tono ancora più basso del suo, “nessun bambino, per quanto bello, mi ha chiamato ‘carbonaio’.”
+
+Erano arrivati alla fine di un campo; una porta mal curata conduceva lungo il sentiero verso altri campi della tenuta. Quel momento era perfetto per fare una piccola sosta nel loro viaggio. Il sole, ormai basso sulle colline, irradiava calore e luce benefica. Lei lo guardò sotto l’ombra dei suoi lunghi capelli e gli chiese se il fardello fosse troppo pesante, e se volesse riposare un attimo.
+
+“È molto pesante!”, disse, e lo lasciò cadere a terra come se davvero avesse un peso enorme; poi si sedette accanto ad esso, con le gambe distese, la schiena appoggiata al carico, e i suoi occhi fissi nei suoi mentre lei stava in piedi sopra di lui.
+
+“Carbonaio,” disse lei, “non ho mai visto nessun carbonaio venire a casa di mio padre, anche se durante la stagione della produzione del carbone ne passano molti. Eppure nessuno sembrava così poco adatto al proprio mestiere come te. Ora, se hai qualcosa che non stai dicendo e che vorresti dire, parla pure: manterrò il segreto. So molto bene che questa foresta, a volte, diventa un rifugio in giorni come i nostri.”
+
+Dopo aver detto questo, lo guardò con un leggero sorriso, cercando un nuovo sguardo nei suoi occhi; e lui, assumendo un'espressione di dovuta tristezza, disse: —
+
+“Signorina, non è passata nemmeno un’ora da quando ci siamo incontrati, eppure ciò che devo dirvi mi sta molto a cuore.”
+
+Si allontanò un po’ di più e si appoggiò al cancello, continuando a guardarlo verso il basso.
+
+“Carbonaio,” disse lei, “in realtà non sei affatto un carbonaio, perché parli come gli uomini delle città.”
+
+“Mi ascolterete quello che ho da dire?”
+
+“Certo,” disse lei, con un certo umiltà.
+
+“È questo,” rispose. “Sono stato libero e in movimento per un giorno intero e mezzo, non senza paura; in tutto questo tempo, e con tutto questo caldo, ho dormito soltanto tre ore, e ho bevuto una bottiglia di vino buono e poi ancora due sorsi di vino grezzo. Vi supplico con tutte le mie forze, per il mio patrono San Giorgio – chissà quale sia oggi la sua condizione, – che mi portiate quella bevanda fresca e rinfrescante che il vostro gentile volto dovrebbe promettermi.”
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_02" data-title="The Girondin — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/river"></span>
@@ -5019,6 +6265,72 @@ When she had gone, Georges Boutroux in the hut again considered, but in a very d
 He was very greatly fatigued, he had done more than a man should do in every way; he considered first what relief might be before him, and what opportunity for getting clean away. Next, and more drowsily as he fell back upon the fern litter and the straw, whether his trick with the charcoal had yet angered the charcoal-burners’ camp, and whether they also were perhaps upon him. Lastly, as the good, sleep came down upon him like a happy mist, he wandered confusedly among the inward parts of his soul, counting that last hour and dwelling in it, and forgetting all the wild dance of the two days. He knew that it was something newer than ever he had known before. Then he saw the face and heard the voice so that it was already the beginning of a dream: he heard the low voice and he saw the sunburned face that was the woods and the spirit of them, and he saw the small hands holding from such arms the promise of refreshment and of peace. But after this even the beginnings of his dream left him, and he fell contentedly into his sleep.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dopo averlo fissato per un po', con un sorriso meno intenso, ma senza smettere del tutto di sorridere, alla fine disse: “Te lo porterò, anche se non hai mai bruciato carbone. No, anzi, credo che in tutta la tua vita tu non abbia mai bruciato nulla, tranne cose a cui non avevi il diritto di bruciarle.”
+
+Gli voltò le spalle e se ne andò con passo deciso attraverso i prati, nella direzione che conosceva; intanto Boutroux rimase lì, non affatto scontento, a riflettere sulla vastità del mondo.
+
+“È evidente,” mormorò tra sé, “che vere avventure e cambiamenti, nuove conoscenze e ogni tipo di distrazione sono a disposizione di chiunque decida di viaggiare. Avrei voluto,” aggiunse silenziosamente nel suo cuore, “che le circostanze che mi hanno spinto a partire fossero state un po’ più favorevoli. Ogni uomo ha delle radici, ma le mie sono state strappate dalla terra oggi stesso, per sempre. Ma Signore, quanto è vasto il mondo, ”
+
+Mentre rifletteva così sotto quella luce solare felice e rilassante, lanciava occhiate sonnolente qua e là, attraverso palpebre semi-chiuse, sui prati, sugli arbusti delle colline e sulle foreste più lontane. Era tutto molto tranquillo; uno stormo di zanzare ronzava sopra i campi sottostanti, e già le cavallette avevano iniziato a cantare ad alta voce tra le radici degli alberi. La natura era piena di vita e gioia; lui si accontentava di fissare con quegli occhi sonnolenti e semi-chiusi l’orlo della foresta vicina, dove un uccello e la sua compagna camminavano e saltellavano insieme in modo strano, cercando cibo tra le foglie e aiutandosi a vicenda. Uno camminava con orgoglio, l’altro con seduzione; uno, pensò, era coraggioso agli occhi dell’altra, e l’altra, immaginò, bella agli occhi di quello coraggioso. La bellezza di uno e il coraggio dell’altro, in qualche modo, raggiunsero la sua mente: benedisse i due uccelli e desiderò loro felicità. Ma proprio mentre lo faceva, un movimento da parte sua o l’avvicinamento di un altro animale nel sottobosco li spaventarono; prima il maschio, guardandosi intorno con diffidenza, emise un piccolo grido, poi la sua compagna si alzò in volo, e insieme presero il largo verso il cielo aperto.
+
+“Era davvero uno spettacolo piacevole,” pensò Boutroux, “e ora sono saliti in cielo.” Avrebbe approfondito ulteriormente quel pensiero se non fosse apparsa vicino a lui quella ragazza di cui aveva parlato così spesso negli ultimi tempi, con un boccale in ciascuna mano. Era entrata da qualche apertura nel recinto e lui non se n’era accorto.
+
+Si alzò in piedi con una certa grazia, anche se un po' rigido dopo tali avventure, e cercò di prendere il suo fardello. Lei, però, mise entrambi i boccali decisa dietro la schiena e disse: “Come fai a sapere che siano tuoi?”
+
+“Non lo so”, disse, “ma ho molta sete”.
+
+“Beh, allora”, rispose lei in tono piacevole, “sarai soddisfatto. Non hai una tazza o un bicchiere?”
+
+“Non ne ho affatto,” rispose con grande cortesia, sia nel modo di parlare che nei gesti, “e se voi non bevete per primi, io non berò affatto.”
+
+“Mia madre mi disse una volta,” disse la ragazza, “che le donne non dovrebbero bere vino.”
+
+“C’è del vero in quello che dici,” disse Boutroux; “tua madre era una donna saggia. E cosa diceva riguardo all’acqua?”
+
+“Oh, si può bere acqua; ma non ho sete. Tuttavia, poiché hai bisogno di compagnia, berò sia vino che acqua con te.”
+
+Dopo aver detto queste parole, lo guardò negli occhi e nel profondo del suo cuore sentì che i tratti del suo viso, la forza dei suoi occhi e il sorriso sulle sue labbra erano qualcosa che avrebbe riconosciuto e di cui avrebbe avuto bisogno. Bevve da entrambe le brocche, nel modo spagnolo, e poi gliele porse.
+
+“Dalla quale hai bevuto l’ultima volta?” chiese lui.
+
+“Dall’acqua,” disse lei.
+
+“Allora berò prima quello,” rispose, bevendo un lungo sorso. “E ora, ” – afferrando il vino dalle sue mani prima che lei se ne accorgesse – “berrò questo vino per ricordare il tuo nome attraverso di esso.”
+
+“Ma non vi ho ancora detto il mio nome,” disse lei.
+
+“Non c’è bisogno che tu lo faccia,” rispose, “perché lo so già, e da ora in poi lo saprò per tutta la vita.”
+
+Dopo aver bevuto insieme vino e acqua in modo quasi sacramentale, non dissero più nulla. Lui sollevò di nuovo il suo sacco, senza curarsi se fosse leggero o pesante, né volendo più fingere o ingannarla. Proseguì lungo il sentiero attraverso un piccolo campo, fino a raggiungere una rozza capanna fatta di tronchi tagliati; lì c’era del carbone, e nelle parti più oscure della capanna c’era una sorta di recinto dove poteva stare qualche animale; all’interno del recinto c’erano felci secche che profumavano bene, e un po’ di paglia sparsa sopra, pulita e fresca. Aprì il sacco e versò il suo contenuto sopra la pila di carbone.
+
+“Ecco,” disse, “la fine della mia storia.”
+
+“Ti verrà pagato anche di più per questo,” disse lei.
+
+“Potete pagarmi meglio,” rispose, “offrendomi un piccolo alloggio, purché sia sicuro per me restare qui. Il tempo è caldo, e, se mi credete, ho bisogno di nascondermi.”
+
+# Che nome hai?
+
+“È strano che tu mi chieda il mio nome,” rispose subito, con un tono completamente diverso, “perché il tuo nome non l’avrei mai dovuto chiedere. Non ti ho forse detto che non lo dimenticherò mai per tutta la vita?”
+
+“Ma tu non lo sai,” rispose di nuovo a voce bassa, molto turbata.
+
+“Oh sì,” disse lui, parlando nel modo del [[River|fiume]] Garonna quando scorre di notte, con un suono così sincero e profondo, un suono così lieve eppure che rivela una tale profondità e volume; “Conosco il tuo nome. Dopo pochi momenti l’ho conosciuto per sempre.”
+
+Questa giovane donna, piena di salute e legata alla natura della foresta, che aveva diciotto anni, secondo quanto ho sentito, era un’amicizia per i ragazzi del villaggio e spesso scherzava con coloro che lavoravano nella produzione di carbone. Viveva nella casa di suo padre, che era vedovo, e si occupava della cura dei bambini più piccoli di lei. Il suo viso sembrava destinato a un momento importante nella sua vita.
+
+Non aveva mai saputo quanto rapidamente gli dèi potessero scendere e colpire, né in che modo le rivelazioni arrivassero; non poteva nemmeno capire quanto poco queste grandi cose avessero a che fare con il colore della pelle, con i tratti del viso, con gli abiti, o con qualsiasi altra cosa se non con il corpo che gli uomini portano e l’anima che lo rende tutto ciò che è. Da quel momento, nella sua povertà, sapeva quanto si sia mai saputo in tutta la storia; quando lo lasciò, gli disse: —
+
+“Qualunque cosa tu sia, rimani nascosto lì; perché solo io, di tutta la famiglia, mi occupo di portare e prendere le cose necessarie, ti nutrirò e ti proteggerò. Che Dio agisca con me come ho agito con te. Tu dici di conoscere il mio nome; io non conosco il tuo nome, né lo chiederò, amico mio.”
+
+Dopo aver detto questo, se ne andò in fretta da quella capanna e prese il sentiero attraverso i prati per tornare a casa sua; ma anche se aveva detto che lui conosceva il suo nome, lei non conosceva il suo, nei suoi occhi c'era comunque qualcosa legato a lui che nessun numero di anni avrebbe mai potuto estinguere del tutto.
+
+Dopo che se ne fu andata, Georges Boutroux, nella capanna, rifletté di nuovo sulla vastità di questo mondo, ma in un umore molto diverso. Quel luogo gli sembrava una prigione, e, come è naturale nelle prigioni, non osava sfidarla. Come tutte le prigioni, richiedeva la compagnia altrui; ma, ancora una volta, proprio come nelle prigioni, quella compagnia poteva essere soltanto una.
+
+Era estremamente stanco; aveva fatto più di quanto un uomo dovrebbe fare in ogni senso. Prima di tutto, pensò a quale sollievo potesse trovarsi davanti e a quale opportunità avesse per allontanarsi al sicuro. Poi, mentre si sdraiava nuovamente sul tappeto di felci e paglia, rifletté se la sua astuzia con il carbone avesse già irritato il campo dei carbonai e se anche loro potessero essere sulle sue tracce. Infine, mentre il sonno dolce lo avvolgeva come una nebbia felice, vagò confusamente nei recessi della propria anima, rivivendo quell’ultima ora e rimuginandoci sopra, dimenticando completamente tutte le avventure vissute in quei due giorni. Sapeva che si trattava di qualcosa di completamente nuovo. Poi vide quel volto, sentì quella voce: era già l’inizio di un sogno. Sentì quella voce bassa, vide quel viso abbronzato che rappresentava la foresta e lo spirito stesso della natura; vide quelle piccole mani che offrivano la promessa di ristoro e pace. Ma dopo poco anche i primi frammenti di quel sogno svanirono, e si addormentò serenamente.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_01" data-title="The Girondin — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/lover,motif/secrets,motif/night,motif/dawn,motif/concealment_hidden_identity,concept/love_romantic,concept/secrecy_and_concealment,form/historical_novel,setting/pastoral_countryside,character/joyeuse"></span>
@@ -5072,6 +6384,56 @@ An hour later she re-entered, calling carelessly over her shoulder to companions
 
 She was gone immediately, so that none outside could have wondered at her delay; and as she went out she called again to her companions, saying that the shed was too far a place to leave the pails in, and for the future she would borrow a neighbour’s barn nearer to their own byres.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IX.
+
+In cui un Amante si ritrova nel Buio.
+
+La notte estiva nelle zone collinari e ai margini dei boschi è fredda: c’è rugiada sull’erba, e nel cielo aperto aleggia un gelo che persino il bestiame nelle stalle avverte; per questo si accovaccia sul letame o, se si trova all’aperto, si raggruppa per scaldarsi.
+
+Ma Boutroux non aveva freddo: in quel lungo sonno provava una grande soddisfazione mista a calore, e il suo cervello, addormentato e semi-addormentato, immaginava una felicità permanente. Per molte ore rimase così sdraiato sulla paglia, sopra lo strato di felci, nel buio rifugio della capanna; quando si svegliò, si sentiva talmente rinfrescato da sembrare per un momento come se avesse iniziato una nuova vita; non ricordava nulla, ma poco a poco gli tornarono alla mente tutti i dettagli della sua lite, del suo esilio e della sua fuga. Si alzò sul suo morbido giaciglio; sopra di sé trovò un pesante e ruvido copriletto di lana che qualcuno aveva gentilmente posizionato mentre dormiva, e nuova paglia ammucchiata intorno ai suoi piedi e alle sue ginocchia. Era molto presto al mattino.
+
+Tutto odorava di mattina; la luce grigia e silenziosa che filtrava attraverso la porta del capanno e le fessure del suo legno annunciava l’ora precedente l’alba. Gli animali della foresta e l’erba erano già svegli; a parte il loro movimento, non c’era alcun rumore. Si sollevò ancora un po’, sentì che il braccio non era più così rigido; sciolse la benda: si staccò facilmente e la superficie della ferita era guarita.
+
+“È meraviglioso,” si disse Boutroux, “quanto soddisfazione e piacevole novità possano apportare a un uomo! Questi sentimenti riescono davvero a rigenerare il suo spirito.”
+
+Dopo averci pensato a lungo, si alzò bruscamente dal mucchio di felci e paglia, scuotendoli intorno a sé con un leggero rumore. Tossì per schiarirsi la gola e iniziò a cantare una canzoncina per consolarsi, quando sentì un sussurro sommesso: “Shhh!”. Guardando nell’angolo più buio della stalla, vide l’immagine di qualcuno che dormiva, e dei suoi sogni.
+
+Era appoggiata all’oscura parete di legno; le braccia incrociate sul suo giovane seno sodo. I secchi per mungere e il giogo a cui erano fissi giacevano a terra ai suoi piedi. La debole luce riflessa dalle paglie brillanti sul suo viso riusciva appena a delinearne i tratti; ma lui riconobbe i suoi occhi. Non parlò, ma sussurrò.
+
+#"Parla sottovoce. Sono qui da quasi un’ora, per evitare che tu venga tradito."
+
+Boutroux le si avvicinò senza fare rumore. Lei aprì le braccia quando lui arrivò e gli prese le mani davanti a sé. Lui prese la sua mano sinistra e la baciò dolcemente; anche in quella semioscurità, pensò che il suo viso si arrossisse mentre alzava lo sguardo verso di lei.
+
+“Ci sono molte persone che potrebbero trovarti,” disse di nuovo sottovoce, “ma non riescono a indovinare dove ti trovi, perché non è stato detto loro nulla e pensano che tu sia fuggito. Solo io ti avverto. Ed è per questo motivo che mi sono alzata mentre era ancora buio e sono venuta a vegliare finché non ti sei svegliato. Ma non volevo disturbarti, perché soffrivi di grande stanchezza; e nel sonno, sia di notte che ora, ridevi e avevi la febbre.”
+
+“Eri tu,” disse, “che sei venuto di notte e hai messo questo panno sopra di me per proteggermi dall’umidità e dal freddo; ed eri anche tu a mettere la paglia intorno ai miei piedi e alle mie ginocchia.”
+
+“Ero io,” rispose lei. “Qui teniamo gran parte degli attrezzi agricoli, e spesso lascio i miei secchi qui per il mungimento; quindi nessuno avrebbe potuto meravigliarsene.”
+
+“Nemmeno io mi meraviglio,” rispose, “e ho motivi migliori di loro per capire.”
+
+Mentre le diceva queste cose, lei alzò per un momento un braccio come se volesse metterlo sulle sue spalle, ma poi lo lasciò ricadere e non lo fece. “Molto presto,” disse, “tutti si sveglieranno.”
+
+Da qualche parte nel villaggio sottostante un gallo cantò; il suo canto era profondo e gioioso, pieno di orgoglio e sfida. Nella grande fattoria che apparteneva a suo padre, un giovane rivale audace rispose al suo richiamo con un suono acuto; un terzo gallo, nella vicina tenuta, si unì al coro. Mentre quei due galli cantavano, si udirono anche i zoccoli dei cavalli che si muovevano sul selciato di uno stallo lontano, il rumore del ferro che veniva maneggiato. E poi arrivò il fischio di un ragazzo che si dirigeva verso i campi per iniziare il suo lavoro.
+
+“Rimarrai qui,” disse lei. “Non devi muoverti e devi fidarti di me. Ti porterò del cibo.”
+
+“Non ci sarà mai un momento,” disse, “in cui tu possa venire, che tu mi porti del cibo o meno; io mangerò comunque. E anche quando tu non sarai qui, mangerò in qualche modo, ”
+
+Non gli rispondeva. Si mise il giogo sulle sue graziose spalle, lasciandole piegate per il lavoro; poi si raddrizzò, prese i secchi e uscì nel campo, con la gonna corta, camminando con forza, sotto il chiarore del mattino. Lui la vide solo per un momento mentre passava davanti alla porta, ma quasi immediatamente, non appena lei lo lasciò, attraverso quella stessa apertura entrò il primo raggio di sole; portava con sé una sorta di miracoloso rigenerarsi e un cambiamento in tutte le cose intorno. E Boutroux pensò di nuovo tra sé: —
+
+“Senza dubbio questi sono giorni meravigliosi!” Poi rifletté su tutto ciò che lei gli aveva detto: come gli aveva chiesto di restare vicino a lei e di non parlare con nessuno, e come sarebbe tornata a trovarlo.
+
+Un’ora dopo rientrò, chiamando distrattamente i suoi compagni che si trovavano lontano, e disse che sarebbe tornata da loro non appena avesse riposto le sue ceste nel capanno. Posò rapidamente i suoi fardelli e andò da lui, nel luogo solitario in cui viveva, e gli mise davanti, in fretta, un foglio di carta su cui c’erano carne fredda, pane casalingo di colore scuro e un po’ di sale.
+
+“Non ho vino,” disse lei a bassa voce.
+
+“Mi fa piacere saperlo,” rispose lui con maggiore calma, ma a voce bassa, “che non posso bere vino al mattino, poiché nella mia vita ne ho bevuto più di quanto si debba bere di notte; ma poiché sei tu ad avermi portato questa carne, penso che ci sarà abbastanza vino sia dentro la carne che nel pane.”
+
+Se ne andò immediatamente, così che nessuno all’esterno avrebbe potuto notare il suo ritardo; e uscendo chiamò di nuovo le sue compagne, dicendo che il capanno era troppo lontano per lasciare lì i secchi, e che d’ora in poi avrebbe preso in prestito il fienile di un vicino, più vicino alle loro stalle.
 
 
 
@@ -5127,6 +6489,56 @@ Her speech was halting: she told him the last things first, so that he must ques
 “I would have you out by night,” she said, “here and now, although your going would leave me so that after these few hours all the rest of my life would be ringing like a steeple at a dying, with nothing else but the dying of these few hours. But I cannot have it so, because there is another thing.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nel frattempo, Boutroux, nascosto tutto il giorno, attendeva la sera con la pazienza che le sue forze gli permettevano.
+
+Il sole era già calato nel pomeriggio: si sentiva assonnato a causa di quella forzata indolenza e segretezza, quando, prima ancora che se ne rendesse conto, lei fu di nuovo al suo fianco, portando questa volta vino insieme al pane e alla carne. Parlava con meno entusiasmo e più in fretta del solito; lo pregò di non muoversi né fare il minimo rumore fino a quando non fosse calato il buio, perché era in pericolo; gli promise che, una volta fatto buio, sarebbe tornata a raccontargli tutta la verità su quel pericolo. E ancora una volta lui le obbedì.
+
+Calò la sera di quel giorno: i suoni del lavoro si placarono e tacquero, le cavallette, dopo il loro forte canto serale, si fermarono, poiché la notte le raffreddava. Boutroux aspettò fino a quando non gli sembrò che il sonno avesse invaso il villaggio, i carbonai e tutte le creature viventi della foresta e della radura. Mentre attendeva, sentì di nuovo quei passi che ormai conosceva bene, come se fossero il suo stesso nome. Ed eccola lì, accanto a lui; ma non portava con sé nulla, se non il messaggio che doveva consegnare.
+
+La sua voce, che era stata affrettata e preoccupata la volta precedente in cui gli aveva portato aiuto, ora era ancora più ansiosa e affrettata; la storia che doveva raccontargli era proprio quella che lui conosceva, perché anche lei la conosceva ormai. E mentre iniziava a narrargli la sua stessa storia, lentamente, esitando, per un attimo lo strinse a sé, tenendolo vicino affinché potesse raccontarla completamente; gli parlò con un terrore che, per lui, era qualcosa di grande e nobile da ascoltare, perché, comprendendo la sua origine, non provava affatto paura, no, nemmeno di quelle cose che inseguono l’anima nelle tenebre. E quanto all’inseguimento degli uomini, ascoltando la sua voce bassa e osservando la sua preoccupazione, si sentiva orgoglioso di quel pericolo.
+
+Il suo discorso era incerto; gli raccontò prima le cose più importanti, così che lui dovesse interrogarla con dolcezza, quasi come se fossero carezze. Pensò che lei tremasse, nonostante fosse così forte e composta.
+
+“Né mi conoscono né sanno dove mi trovo,” disse.
+
+“Amico mio,” gli sussurrò, “hai detto nella nostra prima conversazione, che, oh mio Dio, dev’essere stato tantissimo tempo fa, che a volte facevi il cacciatore.”
+
+“Tutti gli uomini, a volte, sono cacciatori,” disse.
+
+“Amico,” disse lei, “quando si dà la caccia a qualcosa di coraggioso e i cani lo assalgono da tutti i lati, non solo inseguendolo ma anche circondandolo, allora quella preda lotta con tutte le sue forze.”
+
+“È la fine di tutto,” rispose dolcemente, “o, almeno, è la fine di quella caccia.”
+
+“Ma,” disse lei, con un piccolo singhiozzo e una risata per il fatto che lui continuava a ripetere le sue parole, “questa ‘caccia’ non è affatto la caccia agli amanti. Anzi, anche loro ti stanno inseguendo da entrambi i lati. Perché te lo dico io: questa mattina, quando ti ho lasciato con i secchi per andare a mungere, non ho incontrato nessuno. Era ancora presto. Ho visto solo Peter nella valle, il figlio di quell’uomo che chiamano Rich Hamard. Lui possiede la maggior parte delle terre qui e paga le tasse al governo. E si dice che abbia la maledizione di Dio addosso. La vecchia donna lo ha maledetto dieci anni fa, quando lui ordinò ai soldati di confiscargli tutto.”
+
+“Tutto questo è nuovo per me,” disse Boutroux, tenendola nell’oscurità, “e qualunque notizia tu abbia sia altrettanto piacevole quanto il suono di un ruscello. Ma non apprendo nulla riguardo al mio destino.”
+
+“Lui mi ha salutato, sì,” continuò lei con voce sommessa e incerta, “ma un’ora dopo, quando sono uscita da casa tua dopo averti dato da mangiare in quel breve momento, lui stava aspettando insieme ai miei compagni vicino al pozzo; e mi ha detto: ‘Joise’ (che è il loro soprannome per il mio nome Joyeuse; e in realtà il mio vero nome è Isabel), ‘Joise, ci sono uomini in questo paese che cercano monete.’”
+
+“È davvero qualcosa di unico, mio caro,” disse gentilmente Boutroux, “di cui, per quanto ne so, venti persone hanno cercato nella loro vita, e solo una o due, ogni tanto, sono riuscite a trovarlo.”
+
+“Oh, lasciate che vi spieghi,” disse lei, sospirando. “Mi ha detto minacciosamente: ‘Stanno cercando monete.’”
+
+“Con quale moneta?” dissi bruscamente. È lui che ogni domenica sera, prima della messa, e nelle sere delle feste viene a sedersi accanto al fuoco; pretende di sedersi vicino a me, e mio padre vuole che sia così. Poiché è così, devo trattarlo con affetto, o con durezza; lo tratto con durezza, perché non so come comportarmi altrimenti.”
+
+“Fai bene,” disse Boutroux, “a trattare tutti gli uomini con durezza; sono persone dure, e un trattamento duro è proprio in linea con la loro natura dura. Amico, sii duro con loro!”
+
+“Amico,” disse lei, “quando ha parlato di quella moneta, ho capito cosa intendeva. Si riferiva al denaro che ti è stato pagato per quel carico di carbone.”
+
+“E perché?. E se lo facessero?. Non era contrassegnato,” disse Boutroux; “e anche se fosse stato contrassegnato, ce l’ho qui con me e posso seppellirlo. Nessuno potrebbe sapere nulla di quel sacco o di me, tranne te.”
+
+“Amico,” disse lei, “ascolta. Gli uomini che producono carbone affermano, e l’hanno detto anche al Giudice, di essere stati derubati del loro carbone. Hanno perso solo quel sacco; di quello si lamentano meno. Ma si lamentano soprattutto di una borsa in cui tenevano i propri guadagni, e di un bel rotolo di stoffa che uno di loro aveva comprato al mercato. Sostengono che un uomo vagabondo li abbia privati di queste cose. Uno dice di averlo visto.”
+
+“Allora mente,” disse Boutroux; “quell’uomo errante non prese altro che il sacco di carbone, e lo fece a grande rischio, ma quel rischio si rivelò utile. No, aspetta: prese anche del buon vino e del pane scadente. Ricordo che li prese, perché ero io stesso a darglieli. Ma per quanto riguarda il borsello, non ne seppe mai nulla; e per quel rotolo di stoffa, beh, avrebbe preferito rubare un faggio o una trappola per lupi piuttosto che portarselo appresso.”
+
+“Allora,” proseguì lei ancora febbricitante, “nel villaggio, durante il giorno, una persona dopo l’altra si lamenta con il Giudice di aver perso questo o quell’altro; insomma, in poche parole, stanno cercando un uomo.”
+
+“Vedete come un cacciatore possa a sua volta essere preda!”, disse Boutroux. “È un mondo doppietto.”
+
+“Vorrei che te ne andassi questa notte,” disse lei, “subito, anche se la tua partenza mi lascerebbe in questo stato: dopo queste poche ore, il resto della mia vita risuonerebbe solo del ricordo di quelle ore, senza altro. Ma non posso permetterlo, perché c’è qualcos’altro, ”
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="The Girondin — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/night,motif/secrets,concept/love_romantic,concept/crime_and_punishment,concept/guilt,concept/exile,form/historical_novel,histref/the_french_revolution"></span>
@@ -5162,6 +6574,38 @@ She grasped his wrists with her hands, and he wondered at their sudden strength 
 
 “If I so desire,” he said, “you will follow me.” She answered nothing at all. For all that night, until just before the dawning, they were together in the hiding-place.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“E cos’è quello?”
+
+“Se te lo dico, ti arrabbierai,” rispose lei, e rimase in silenzio; e nonostante lui la interrogasse insistentemente, lei non volle dirgli nulla, né parlare con lui per un po’. Poi disse: —
+
+“Nella grande città c’era qualcuno che aveva ucciso un uomo, e l’aveva fatto contro il Popolo. Dicono di averlo rintracciato nelle nostre foreste; la Comune, su consiglio della Comune della città, ha inviato uomini armati. Ora, anche se cercassi di muovermi di notte, loro ti conoscono, amico. Penso che sia stato tu ad uccidere quell’uomo. Non potresti attraversare questa terra sconosciuta all’alba senza finire in qualche villaggio, senza nasconderti. E verresti catturato.”
+
+“Sono stato io”, disse Boutroux, “ad uccidere quell’uomo”.
+
+Sentì che la forma che teneva tra le mani si riduceva di dimensioni a quelle poche parole; per un momento qualcosa nel suo animo si sollevò, come se una luce improvvisa illuminasse la sua ragione, facendolo temere se stesso. Sentì di nuovo lo stridio del metallo che si scontrava; gli parve di vedere, in un lampo, qualcosa di così malvagio da non voler avere più nulla a che fare con esso, proprio come con il veleno o la tradizione. Percepì l’odore dello zolfo nelle scintille del metallo. Ma, altrettanto rapidamente quanto quelle immagini apparivano nella sua memoria, anche quell’impressione svanì, e tornò alla sua solita sicurezza.
+
+“Ho combattuto,” disse lui in tono un po’ cupo. “Se fosse stato lui ad avere la meglio su di me, il mio fantasma non si sarebbe mai lamentato, tanto meno con una donna.”
+
+“Amico mio”, disse dolcemente, “non ti sto incolpando”.
+
+“Ti hanno detto altro?” aggiunse; “hanno parlato di una casa o di amici? O ti hanno fornito qualche nome o descrizione?”
+
+“No,” disse sottovoce con audacia, ma mentiva; perché dalle chiacchiere, dalla ricompensa offerta, dalle parole dei suoi inseguitori e dal suo stesso comportamento, aveva facilmente capito la verità e sapeva chi fosse realmente: il suo nome, la sua casa, e tutta la sua storia.
+
+“Sono stanco di sentire parlare così spesso di questi pericoli,” le disse con un altro tono. “Vedo, attraverso la porta di questa ‘prigione aperta’, che la luna è alta nel cielo. Non oso uscire con te, perché mi dici che tutto viene sorvegliato. Eppure anche tu affermi che questo posto non possa essere sospettato.”
+
+Lei gli afferrò i polsi con le mani, e lui si chiese come potessero essere così forti all’improvviso, al buio.
+
+“Oh,” disse lei, “non provare più ad intraprendere avventure, aspetta invece che ti mostri il modo giusto; perché sotto quella luce di luna, se qualcuno dovesse vedere da qualche finestra una figura uscire da qui, le conseguenze sarebbero terribili; e se vedessero due persone insieme, beh, entrambe soffrirebbero, amico mio. Come potrebbero i miei gente sopportare di vedermi con uno sconosciuto?”
+
+“Non uscirò,” disse, “Che chiare sono queste notti, a partire dalla mezzanotte, quando la luna è già sorta!”
+
+“Dovrai rimanere qui,” disse lei, “e io verrò sempre al tramonto; sarò con te per tutte quelle ore sconosciute e ti lascerò poco prima dell’alba. Lì ci diremo addio. Perché tra poco, quando saranno trascorsi sette giorni, quando ci sarà la luna nuova, e io avrò trovato una storia da raccontare, allora, oh mio amico, tu uscirai, e io verrò con te. Ma non ti seguirò oltre un luogo sicuro che avrò preparato.”
+
+“Se lo desidero”, disse lui, “tu mi seguirai”. Lei non rispose affatto. Per tutta quella notte, fino a poco prima dell’alba, rimasero insieme nel nascondiglio.
 
 
 
@@ -5218,6 +6662,58 @@ The day was now broad upon them, though the sun was not up by half an hour. The 
 
 As she said this the beauty of her young eyes filled with tears, and she watched him in a manner which he suddenly remembered he had seen in the face of his mother when she had watched him as a little child. And once again Boutroux within the depths of his heart marvelled at the complexity of this world.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO X.
+
+In cui due amanti si trovano alla luce del giorno.
+
+Trascorse un giorno, poi un altro; ogni volta che spuntava il giorno, lei gli portava del cibo; e dopo il calare della notte, a volte lui usciva di nascosto per respirare l’aria fresca e, dall’ombra del basso muro di legno, osservava furtivamente le luci delle case lontane. Aspettava fino a quando tutte quelle luci si spegnevano, dopo l’alba della luna, prima che lei venisse da lui. In quei giorni, gli sembrava che trascorressero molti anni; e gli pareva anche che per lui fossero destinate due vite: una prima di quelle veglie notturne, e un’altra dopo di esse.
+
+Nessuna volta, in tutte quelle lunghe e segrete compagnie, sentì la sua voce pronunciata ad alta voce, né lei la sua; né osarono mai uscire da soli al di fuori delle mura del suo nascondiglio, né respirare l’aria esterna. Fino a quando, nella sera del settimo giorno, mentre le luci ancora brillavano nelle finestre – molto prima che si aspettasse il suo arrivo – sentì dei passi: non alla porta, ma dietro la capanna. Attraverso le fessure della stessa, una voce lo chiamò dolcemente, senza usare alcun nome, ma chiamandolo “amico”.
+
+“Devi alzarti,” disse lei, “amico mio, se stai dormendo; e se non stai dormendo, devi comunque alzarti. Devi venire subito qui dietro, dove mi trovo e dove c’è un’ombra profonda, e poi andremo insieme in un posto che conosco.”
+
+Anche se parlava sottovoce, quelle parole erano così piene di tristezza che il suo cuore si spezzò per lei. E quando le andò incontro in quell’oscurità, le disse: “Che importanza ha per me, Joyeuse, se scappo o no?”
+
+“Ah,” disse lei, “amico mio, resteremo ancora insieme se ti faranno prigioniero? Penso di no! Se rimani qui, sarai intrappolato in ogni modo; ma se fai ciò che ti dirò, anche se non dovremo mai più rivederci, sarai libero. E se sei libero, sarà grazie a Dio e ai suoi santi, qualunque sia il nostro destino futuro.” Dopo aver detto questo, si allontanò rapidamente lungo l’oscurità del fossato, verso il ruscello e la linea degli alberi; lui la seguì. Poi lei prese un sentiero conosciuto che portava nel sottobosco, e lui continuò a seguirla.
+
+Mentre avanzavano, gli ultimi suoni del villaggio scomparvero alle loro spalle; il sonno avvolse sia il villaggio che la foresta selvaggia. Poiché era notte senza luna, viaggiavano al sicuro, lontani dagli uomini. Lui le chiamò due volte e due volte fu sul punto di fermarsi; ma lei rispose soltanto con ordini e continuò ad andare avanti. Dopo molte ore, arrivarono in una radura nella foresta selvaggia. Lì c’era un laghetto, e vicino al laghetto una solitaria casa di contadini, completamente silenziosa e addormentata. Ma i cani li sentirono e iniziarono ad abbaiare; Joyeuse ebbe paura.
+
+“Vieni con me subito,” disse lei; “non siamo ancora arrivati alla fine. C’è un posto sicuro dove poter andare.”
+
+Il bosco li avvolse di nuovo al di là della radura; lei continuava ad avanzare. Alla fine, sembrò che i rami contro il cielo fossero più chiaramente visibili, e loro arrivarono nuovamente davanti a un corso d’acqua stagnante. Boutroux pensò che quell’acqua apparisse più pallida e morta di quella nella penombra notturna, e anche più inquietante. Poi, dopo pochi istanti, fu chiaramente giorno, sebbene fosse solo l’inizio della giornata. Con quella luce, si rese conto che non era adatto a trovarsi in compagnia di lei; tutto ciò che doveva fare con lei, fino alla sua morte, era qualcosa di oscuro e ridicolo alla luce del giorno. Era senza barba, i suoi vestiti erano stracciati, ed era un vagabondo.
+
+Mentre così pensava, e mentre il giorno sorgeva fino a diventare pienamente luminoso, lei procedeva velocemente davanti a lui. La sua gonna era di un marrone rossastro; aveva uno scialle sulle spalle, il cui angolo le pendeva sulla vita; la testa era scoperta. Lui vide nuovamente il colore dei suoi capelli. E per un momento non riuscì a sopportarlo. Lei si sarebbe girata e lo avrebbe visto. E lui non voleva che accadesse. Mentre pensava a se stesso come a una compagnia inadatta agli uomini comuni, e ancora meno adatta a quella donna che conosceva, lei si girò verso di lui e, guardandolo, rise in un modo così giovane e così felice. Che lui provò un profondo imbarazzo; ma per lei, non aveva mai provato tanto orgoglio di lei.
+
+“Ah,” disse lui, “Joyeuse, sei arrivata in tempo!” E mentre lo diceva, si rese conto del proprio viso stanco e segnato dalla barba di una settimana. “Ah, Joyeuse, sei arrivata in tempo. E finalmente hai visto il tuo amante!”
+
+Ormai il giorno era completamente sorto, anche se il sole non si era ancora alzato del tutto. Le nebbie iniziavano ad alzarsi sotto gli alberi bassi. Si trovavano sul bordo di un pendio che scendeva ripidamente per circa duecento piedi, lungo il quale crescevano alti faggi. Lei gli prese la mano sinistra e la tenne nella sua destra, come se fossero bambini, e lo guidò, continuando a sorridere lui con i suoi occhi, fino a un albero caduto su cui poter sedersi insieme e da dove vedere, sotto di loro, una grande strada bianca e maestosa.
+
+“Amico mio”, disse ridendo di nuovo, “sono stata fuori tutta la notte e ho camminato, vero?”
+
+“Tu hai, con grande gioia, Joyeuse.”
+
+“E per questo sono meno fresco io?”
+
+“Oh no,” disse lui; “ma allora non hai la barba.”
+
+“E i miei capelli sono troppo scompigliati?”
+
+“Perché no,” disse lui, e mentre lo diceva non vedeva il suo viso, ma solo i suoi capelli. “È abbastanza ordinata, considerando la sua quantità. Ma prima di iniziare, spero che avessi un pettine a casa di tuo padre.”
+
+“Amico,” disse lei, “i miei vestiti sono stracciati o ridotti a uno stato assurdo a causa dell’erba, della paglia e di tutte queste foglie di felce. O forse questi stivali mostrano chiaramente i miei piedi?”
+
+“Vorrei davvero che lo facessero!” disse lui.
+
+“Ma loro non lo fanno, amico,” rispose lei.
+
+“No, non lo fanno, Joyeuse.”
+
+“Allora va bene. Se ancora ti sembro una persona decente, non essere scontento di me e non andartene in modo sciocco. Ho un posto sicuro per te e ho anche un piano.”
+
+Mentre lo diceva, la bellezza dei suoi giovani occhi si riempì di lacrime; lo guardava in un modo che lui all'improvviso ricordò di aver visto sul viso di sua madre quando lo osservava da bambino. E ancora una volta, nel profondo del suo cuore, Boutroux rimase meravigliato dalla complessità di questo mondo.
 
 
 
@@ -5281,6 +6777,64 @@ He followed her into a little room, where were soap and a razor and water prepar
 A small square of looking-glass, unframed, hung from a nail. There were black patches on it, due to age, but in it he saw that the disgrace of his hiding had disappeared. He felt less free. It was not his own disguise. He felt himself a comedian at another’s bidding, and he loathed and dreaded the change. He was like a man who is led blindfold with a strong hand upon his wrist, and led, perhaps, on purposes not his own. Moreover, the sleeplessness of the night fell upon him, and he suddenly felt fatigued.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Di tutte le cose,” pensò tra sé, “avrei dovuto immaginare che almeno a loro importasse farsi la barba. Ma ci sono tre cose che nessun uomo riesce davvero a comprendere: una di queste, ho sempre sentito dire, sono i cavalli; un’altra è il mare; e sembra che la terza sia Joyeuse.”
+
+Avevano lasciato i loro posti e si erano diretti verso la grande strada reale. Ma senza proseguire lungo di essa, Joyeuse lo portò direttamente in una casetta situata lì vicino; alla porta di quella casetta, una donna dall’aspetto ordinato – troppo ordinato – severo, anziana e ansiosa, cambiò espressione: da uno sguardo sospettoso all’arrivo loro, divenne più cordiale non appena vide la ragazza e la riconobbe.
+
+“Beh, Joise,” disse lei, “o visto che ora sei così anziana, dovrei chiamarti Isabel?” Guardò con un misto di disapprovazione e autorità l’aspetto misero di Boutroux, ma lui si comportava molto bene; c’era una sorta di coraggio nello modo in cui si muoveva che non avrebbe dovuto dispiacerle. “Signore,” disse lei in tono formale, “poiché avete sofferto per il Re, e ho sentito tutta la storia dal mio figlio adottivo, potete chiedermi qualsiasi cosa desideriate.”
+
+“Non pretendo nulla,” disse.
+
+“Comunque, avrai la tua vita,” disse la vecchia donna. Lo disse nel modo tipico dei contadini, e Boutroux percepì nel suo tono quella falsa gentilezza che caratterizza le trattative tra i contadini. La guardò negli occhi duri e si chiese quale sarebbe stato il prezzo della sua sicurezza, e se avrebbe deciso di pagarlo.
+
+La vecchia donna, ferma davanti a loro sul suo portico nella fresca mattina, stava facendo un piano. Disse: —
+
+“Entrate nella mia casa, signore, perché in questi tempi le strade non sono sempre sicure per tutti, anche se il sole non è ancora sorto.”
+
+Alla ragazza non fu chiesto nulla, ma lei lo seguì comunque. Boutroux, passando davanti a quella porta di capanna, percepì una sensazione di separazione e di cambiamento; ebbe l’impressione che in quel luogo si nascondesse qualcosa di oscuro. “Meglio volare e nascondermi”, pensò, “piuttosto che essere soggetto ai calcoli degli altri, e agli interessi di quella ‘Strega degli Anni’”.
+
+Osservò la vecchia donna lasciare la stanza per svolgere il compito che le aveva affidato. Il modo in cui si muoveva sembrava troppo segreto e deciso; diffidava della sua assenza, proprio come diffidava della sua presenza.
+
+“Joyeuse,” disse lui, “chi è questa vecchia donna nelle mani della quale mi hai consegnato?”
+
+“Si chiama Perrin,” disse Joyeuse: i suoi bellissimi occhi erano più ansiosi di quelli del suo amante; lo guardò e lo supplicò, intuendo i suoi sospetti e le sue paure.
+
+“Qual è il suo piano per me?”, chiese.
+
+“Non posso saperlo. Non oso scoprirlo. Prima che diventasse adulta, ai tempi della morte di mia madre, mio padre la assunse nella sua fattoria e lei mi allevò. Nel suo secondo matrimonio arrivò in questo posto. Oh! Fai ciò che lei ti ordina. Ha potere in questa zona.”
+
+“Joyeuse,” sussurrò lui, con gli occhi che ridevano fissi su di lei, “come hai parlato di me con lei? Quanto ho sofferto per il Re. Per l’amor di Dio, raccontami questa bugia in breve.”
+
+“Hai ricevuto quella ferita da qualche giacobino,” disse lei, “e sei un fuggitivo. E poi, amico mio,” aggiunse, avvicinando la bocca al suo orecchio, “pensavo di darti un nome qualsiasi; ma non l’ho fatto. Ho pensato di dire che il tuo nome fosse Boutroux.”
+
+“Bugia per bugia, Joyeuse,” disse Boutroux; “e poiché le vuoi così tanto bene, lasciami raccontarti anch’io una piccola bugia. Dirò che sono stato nascosto in una capanna per alcuni giorni, ma soprattutto per alcune notti, da una donna di un villaggio il cui nome non conosco. Ma lei aveva tre nomi: Joise per il suo fidanzato, Isabel per suo padre, e per me, Joyeuse. Poi abbiamo attraversato insieme un bosco, e al sorgere del giorno ho capito perché avevo sognato la sua bellezza.”
+
+“Quella storia potrebbe essere altrettanto falsa dell’altra,” disse Joyeuse.
+
+Erano in piedi nella cucina spoglia e pulita di quel posto. La vecchia donna non era ancora tornata dal suo incarico; erano ancora lì, uno di fronte all’altro, da soli.
+
+“Joyeuse,” disse lui, “quando andavo a scuola ho ascoltato una fiaba, e ora te la racconterò, così che tu possa ricordarla per sempre.”
+
+“Denuncia loro,” disse lei.
+
+“Joyeuse,” disse lui, “la favola era questa: C'era una volta la figlia di un re a cui lo stesso Amore fece la corte. Dovevano stare insieme tutta la notte fino all'alba e diventare marito e moglie per sempre; ma con questa condizione: che lei non dovesse mai vedere il suo volto. Joyeuse, purtroppo lei vide il suo volto, e allora lo perse per sempre.”
+
+“Non lo avrebbe perso se lui avesse avuto un po’ di fascino,” rispose lentamente la ragazza. “Tu non hai alcun fascino?”
+
+“L’ho,” disse lui, “come dovreste sapere. È una medaglia d’oro di Rocamadour che mia madre mi ha dato quando ero bambino. La porto al collo su una catena d’argento, e finché non la perderò, nessun grande male accadrà al mio corpo, ”
+
+Mentre diceva queste cose, la vecchia donna tornò e gli disse: —
+
+“Seguimi. Per ciò che ho pianificato per te, devi vestirti in un certo modo, devi lavarti e radermi. C’è un piano pronto per te, e con esso sarai al sicuro.”
+
+“Nel piano che hai architettato per me, ”, mormorò lui, chiedendosi mentre la seguiva. “Nel piano che hai preparato, ”
+
+La seguì in una piccola stanza, dove erano pronti sapone, rasoio e acqua. Sul letto c'era un abito di buona lana, confezionato secondo la moda delle zone montuose: l’abito domenicale di un giovane contadino, o quello da festa. C'era anche una camicia grezza e un paio di scarpe con lacci ben ingrassate; con tutto ciò, Boutroux riuscì a ritrovare se stesso, ma questa volta come un rispettabile contadino.
+
+Un piccolo quadrato di specchio, senza cornice, era appeso a un chiodo. C'erano delle macchie nere su di esso, causate dall’uso prolungato, ma attraverso di esso vide che la vergogna legata al suo nascondiglio era scomparsa. Tuttavia si sentiva meno libero. Non si trattava della sua stessa mascheratura; si sentiva come un comico costretto ad agire per ordine di altri, e odiava e temeva quel cambiamento. Era come un uomo che venisse guidato a occhi chiusi, con una mano forte sul polso, forse verso scopi che non erano i suoi. Inoltre, la sonnolenza notturna lo colpì all’improvviso, e si sentì improvvisamente stanco.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_03" data-title="The Girondin — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/crone,archetype/witch,motif/imprisonment,concept/deception,concept/crime_and_punishment,form/historical_novel,histref/the_french_revolution,setting/pastoral_countryside"></span>
@@ -5334,6 +6888,56 @@ The old lady did not fail.
 
 He climbed up into the cart. The big peasant, overjoyed at the completion of the business, gave a little click with his tongue and a flick with his whip; the horse jerked, pulled itself into a slow trot, and they lumbered heavily up the road.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tornò in quella piccola cucina bassa, con quell’ovvia stanchezza addosso, desideroso di vedere il viso di lei che lo rinfrescasse. La stanza era spoglia e vuota; la sua assenza lo colpì come un presagio infausto. Non c’era nessuno lì, solo quella vecchia contadina, immobile e severa, che lo osservava appena; pronta a dare ordini piuttosto che consigli. Lo guardava così, aspettando che parlasse.
+
+“Madame,” disse lui, “dove è quella figlia adottiva di cui parlavo quando sono arrivato?”
+
+“Penso che sia uscita,” disse con calma la donna contadina; “ma non importa, perché ora ciò che conta per te è mio figlio.”
+
+“Madame,” disse Boutroux con cortesia, “siete inestimabile per me! E, vi prego, cosa altro desiderate? Il mio portafoglio è a vostra disposizione, vero, è vuoto. O preferireste forse che mi condannassi, o magari rubassi o uccidessi per il vostro bene? Cosa le avete detto, a Joyeuse?” aggiunse improvvisamente, con una voce più brutale. “Dove l’avete mandata?”
+
+“Signore,” disse la vecchia donna con la solita fermezza, “posso dirvi che rispetto qualsiasi uomo che sia stato ferito per una causa giusta, e so che anche voi siete stato ferito. So da chi, e so anche da chi siete stato ferito voi, e dove.”
+
+“Oh, Madame,” disse Boutroux con fare cerimonioso, “voi avete un vantaggio su di me, voi possedete una sorta di romanticismo che mi è sconosciuto. Anzi, per me quel romanticismo non ha alcun significato. Ma dove è Joyeuse?”
+
+“Giovane uomo, mi capisci chiaramente,” continuò la donna contadina, con le labbra sottili e immobili, “e capirai ancora meglio in seguito. Niente si ottiene senza dare nulla. Se vuoi perdere la testa, fallo pure. Ma se vuoi restare illeso, devi obbedire e comportarti docilmente. Sali sul carro che adesso è davanti alla mia porta e siediti accanto a mio figlio, che lo guiderà. Vai dove lui ti dirà di andare, e accetta ciò che decido di offrirti. Non è certo un passatempo, né qualcosa che tu avresti scelto da solo. Ma è sicuramente più piacevole di una breve prigione o della morte pubblica.”
+
+“Dove è Joyeuse, vecchia strega?” disse di nuovo Boutroux. “Perdonatemi, signora, se le mie parole possono sembrare un po’ pittoresche; ma credo di essere stato ingannato in qualche modo.”
+
+La vecchia signora rimase completamente indifferente. “Non ho alcuna intenzione di dirvi nulla, giovane uomo,” disse. “Vi offro la sicurezza, e voi rispondete in modo che mi dia tutto il diritto di fare di voi ciò che desidero. Lei non è qui. Ma sapete cosa c’è qui, a portata di voce? Dieci dei miei uomini in un fienile, mio figlio, che potete sentire chiamare dalla sua carrozza. E ci sono anche armi. C’è ancora qualcos’altro: lungo la strada, ancora addormentati nell’osteria, ci sono agenti di polizia di Bordeaux. Capite?” “Vecchia signora,” disse Boutroux in modo insolente, avvicinandosi un po’ a lei, “avete sentito dire che tanto vale essere impiccati per una pecora quanto per un agnello. E io ritengo che, tra i due, voi siate più vicina a una pecora che a un agnello. Avete anche sentito dire che ho ucciso un uomo, ”
+
+“Sì,” disse la vecchia donna; “e ci credo.” Non si allontanò da lui; fissò i suoi piccoli occhi su di lui, come punte di ago.
+
+“E se Joyeuse fosse lì, dove si trovano quegli uomini armati con i loro mandati e le loro ordini legali, pensi che, ” — si avvicinò di un passo— “per rivederla anche solo per un momento o due, esiterei a aggiungere un altro capo d’accusa all’atto d’accusa?”
+
+Mentre parlava così, improvvisamente fece un passo indietro. Un uomo era entrato barcollando dalla porta e si trovava ora al suo fianco.
+
+“Stai litigando con tua madre,” disse sorridendo. “Di solito lo fanno, ma lei vince sempre. Non dire ‘eh’, vero, signora?”
+
+La madre non disse nulla; per la prima volta quella mattina sorrise, ma era un sorriso forzato.
+
+“Dovevo dare questa a lui,” continuò lo zotico, “e dirgli, ” Sorrise di nuovo.
+
+Mentre il giovane diceva queste cose, mostrò a Boutroux, nel mezzo della sua enorme mano, una medaglia molto piccola che vi giaceva; Boutroux, tastando rapidamente e istintivamente attraverso la camicia sul proprio petto, trovò lì soltanto la catena, senza alcuna medaglia attaccata. Prese delicatamente la medaglia da quella grande mano: era davvero la sua medaglia, la sua medaglia d’oro. Su un lato c’era raffigurata una figura, sull’altro la legenda. Tirò fuori dall’ascella l’estremità della catena, come se volesse riattaccare il gioiello; poi, cambiando idea, rimise la catena nell’ascella e la medaglia in tasca. Si chiese in quale momento fosse avvenuta quella “ruberia” da parte dell’amante. E credette di ricordarlo; mentre ci pensava, sorrise.
+
+“Avresti dovuto tenerlo come prova e indizio nel caso in cui mi tradissi,” disse.
+
+“Sei un pazzo folle,” rispose la vecchia signora. “Hai già fatto abbastanza danni in questo posto. Se avessi tenuto la tua medaglia, l’avrei tenuta per l’oro che contiene. Non c’è alcuna ricompensa per una faccia come la tua. Se mio figlio non avesse bisogno che tu nutrissi i ribelli al suo posto, preferirei che il boia ti impiccasse. Ma devi andare nell’esercito, e lo farai. È meglio così per noi. Vai pure a vendere la tua carne.”
+
+Il sole era già sorto. Doveva andarsene, altrimenti sarebbe diventato un prigioniero. Valutò le possibilità di sopravvivere e la possibilità di vendicarsi. Prese una decisione e seguì il giovane contadino verso il carro che lo aspettava.
+
+“Hai ragione, signora,” disse lui voltandosi indietro; “sono uno stupido, e anche abbastanza pazzo. E tu, signora, sei una maledetta vecchia monarchista strega. I miei onesti amici giacobini farebbero bene a bruciarvi. Ve li manderò, non temete. E voi, la vostra casa, e tutti quei vostri dannati servi traditori finirete arsi vivi e trasformati in fumo.”
+
+La vecchia signora non fallì.
+
+“Vai e sostituisci mio figlio: sei carne più adatta per Brunswick,” gli gridò dietro. “Abbiamo bisogno del tuo cadavere.”
+
+“Ma non ho alcun bisogno di te,” gridò Boutroux dalla strada. “Vai a unirti a tuo padre, il diavolo. I miei amici ti manderanno lì.”
+
+Salì sul carretto. Il grande contadino, estremamente felice per la conclusione dell’affare, fece schioccare la lingua e batté leggermente la frusta; il cavallo si mosse di scatto, iniziò a trottare lentamente, e loro partirono pesantemente lungo la strada.
 
 
 
@@ -5412,6 +7016,80 @@ The old sergeant smiled grimly. “You are not the only one,” said he, “who 
 
 “I don’t want to shirk,” said Boutroux, “but I do want to thresh out that question of my name. Note you, Sergeant, a name is an important thing: not in itself but in the repetition of it; for if a man’s name goes on changing like a marquis’s son’s, it is a disturbance to all the world.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XI.
+
+Mostrando come gli uomini diventino soldati.
+
+La strada era scavata nel terreno e si innalzava su un pendio ripido; era lastricata come si addice a una strada reale, ed era molto larga.
+
+In meno di mezzo miglio raggiunsero la cima della collina; lì c'era una svolta e un gruppo di alberi che, superati, nascosero alla vista di Boutroux la capanna e tutti i suoi ricordi.
+
+Davanti a loro, da quell’altezza, si poteva vedere, sotto il sole appena sorto, una vasta e meravigliosa pianura, boschi e vigneti; un ampio [[River|fiume]] la attraversava, e lui pensò che sicuramente si trattasse di un tratto del Dordogna. Lontano, oltre quel paesaggio incantevole, si ergevano nobili e maestose colline, sfocate contro l’orizzonte. Di fronte a tutta quella vista, il pensiero di ciò che aveva perso si mescolava in lui. Il contadino aveva fermato il suo grosso cavallo e il suo carro rustico: stava aspettando qualcosa.
+
+“Perché non continui?” disse Boutroux.
+
+“Forse ho un’amica,” disse l’altro giovane, sorridendo con tutta la sua bocca. “Tutti abbiamo il diritto di avere le nostre appuntamenti.”
+
+Boutroux si trattenne; nella sua mente aggiunse soltanto, come codicillo, una maledizione speciale contro quel figlio, in aggiunta alla grande maledizione che aveva già pronunciato contro sua madre e la sua casa. Ma mentre queste pensieri gli attraversavano la mente, vide accanto ai gradini del carro un uomo anziano, grigio e magro, che li salutò in modo goffo e poi salì sul carrello dietro di loro. Con il cambiare della pendenza della strada, il cavallo accelerò il passo. Boutroux non era affatto soddisfatto.
+
+“Chi è quell’uomo?” chiese.
+
+“Una delle mani,” disse il suo compagno, senza ulteriori spiegazioni.
+
+# Hai bisogno di lui?
+
+“Spero di no… Ma è comunque utile trovare qualcun altro con cui condividerlo.”
+
+Il carrello si fermò per superare un piccolo rilievo del terreno; mentre si arrestava, il vecchio lavoratore che lo seguiva scivolò a terra e continuò a camminargli dietro, come se lo stesse osservando e proteggendo.
+
+Boutroux saltò giù dal carretto e si avvicinò all’uomo anziano, il quale indietreggiò molto di più di quanto avesse fatto quella donna nella capanna. Gli disse: —
+
+“Ti seguirò, ti perseguirò fino in fondo: pagherai il prezzo di questo complotto, qualunque esso sia. Dove mi stanno portando?”
+
+L’uomo anziano fece una smorfia e continuò a indietreggiare; non voleva rispondere, sembrava quasi nascondersi.
+
+“Non fare il stupido,” disse l’autista, guardando indietro alla scena mentre si fermava. “Vieni sul lato destro della macchina.”
+
+“Vecchio,” disse Boutroux mentre risaliva sul carro, “questo viaggio finirà male per te, e ancora peggio in seguito. Sii saggio e torna a casa.” Ma l’uomo anziano si arrampicò di nuovo sul carretto; Boutroux non aggiunse altro. La strada proseguiva dritta per più di un miglio davanti a loro, e lui rimase seduto in silenzio accanto al contadino, miglio dopo miglio.
+
+Una volta raggiunto quel lungo tratto di strada in discesa, tirò fuori la medaglia dalla tasca e la guardò. Poi la rimise dentro. Alla fine, dopo un lungo e teso silenzio, chiese di nuovo al compagno accanto a lui dove lo stessero portando e quale fosse tutta quella storia.
+
+Il contadino lo guardò di sguincio e sogghignì tra sé, spronò il cavallo (che però non accelerò affatto), poi lo guardò di nuovo con lo stesso sguardo e chiese: “Come ti chiami?”
+
+Un nome falso era sulla punta della lingua di Boutroux, ma era troppo arrabbiato per essere prudente. Disse: “Non è affar tuo sapere quale sia il mio nome!”
+
+“La mia occupazione principale, ”, ridacchiò il contadino, “la mia occupazione principale è quella di far sì che il mio nome diventi il tuo tra un’ora o poco. Il mio nome è Perrin.”
+
+“Come può il tuo nome diventare anche il mio nome?” disse Boutroux, con una disinvoltura che lo sorprese mentre intratteneva quella conversazione fatta di parabole e allusioni, tipica proprio della mentalità contadina.
+
+Il suo compagno lo spinse improvvisamente e sgradevolmente sulle costole. “Chi va in giro a fare il soldato?”, disse, facendo l’occhiolino.
+
+“Dio lo sa!”, disse Boutroux; ma considerò queste parole allo stesso modo in cui la vecchia gatta aveva parlato di vendere la propria carne ai ribelli, e cominciò a capire.
+
+Il carro era già a metà della lunga discesa; la bellezza del paesaggio si era attenuata: le colline lontane erano nascoste da creste di terreno più vicine. Ora che il sole era sorto, la giornata iniziava già a mostrare i primi segni di calore. Sentiva una sorta di sonnolenza mescolata a cattivo umore; per ben dieci minuti non disse nulla, ma era deciso a scoprire cosa lo aspettasse. Non riusciva ad accettare l’idea di rinunciare alla propria libertà per l’esercito, ma sapeva che avrebbe dovuto farlo se voleva evitare costrizioni ancora peggiori.
+
+Proprio mentre aveva deciso di parlare di nuovo, vide in lontananza, lungo la strada davanti a loro, tre uomini a cavallo in uniforme. Mentre il carro si avvicinava a loro, riconobbe un sergente, anziano e con i capelli grigi, insieme a due giovani appartenenti a qualche reggimento di cavalleria; non li conosceva e non riusciva a ricordare i loro nomi.
+
+Boutroux e il suo autista si avvicinarono a quella piccola pattuglia; proprio mentre stavano per raggiungerla, il contadino seduto alla destra di Boutroux alzò una mano, come se volesse avvertire il sergente di non fare alcun segnale. Chiamò il soldato, lo fece avvicinare a sé e iniziò a sussurrargli qualcosa con quel modo confidenziale tipico dei contadini; quando il sussurro finì, il soldato alzò lo sguardo verso il viso di Boutroux con espressione incerta, mentre Boutroux ricambiò lo sguardo in modo ironico.
+
+“Perrin?”, disse.
+
+Boutroux fece un leggero cenno con gli occhi e rimase in silenzio.
+
+“Il tuo nome è Perrin?” chiese di nuovo il soldato, formulando la domanda per intero.
+
+“È molto probabile,” disse Boutroux. “È una questione su cui vorrei saperne di più prima di prendere una decisione.”
+
+Il vecchio sergente sorrise cupamente. “Non sei l’unico,” disse, “che in questi tempi debba essere particolarmente attento. Ascolta: non mi interessa sapere se il tuo nome sia Perrin. Quello di cui ha bisogno il reggimento, ragazzo mio, sono le gambe e le braccia di un Perrin, e una testa, tanto più ottusa meglio è. Hai una testa ottusa, Perrin?”
+
+“Ah sì,” disse Boutroux, “la mia testa è abbastanza ottusa per servire nella Milizia o nel Ministero della Guerra.”
+
+“Non puoi evitare di rispondere”, disse il sergente; “e meno rispondi, meglio è”.
+
+“Non voglio evitare il mio dovere,” disse Boutroux, “ma desidero chiarire questa questione riguardante il mio nome. Noti bene, Sergente: un nome è qualcosa di importante, non in sé stesso, ma nella sua ripetizione. Perché se il nome di una persona continua a cambiare, come quello del figlio di un marchese, questo crea scompiglio in tutto il mondo.”
 
 
 
@@ -5499,6 +7177,88 @@ A man of the guards said respectfully: “They swear with the right hand spread 
 “Do they?” said the old sergeant surlily. He was a Tory.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ah, dammi pure il nome che vuoi, ragazzo… ma vieni giù e seguimi.”
+
+“Quanto lontano?”
+
+“Perché,” disse il sergente, con una risata roca a causa della vita che aveva vissuto, “le mie ordini riguardano soltanto Angoulême, ma il nemico si trova più vicino al Reno.”
+
+“Angouleme?”, disse Boutroux, fissando un albero lontano. “…Che fortuna…”
+
+Sospirò. “È una delle cose più fortunate che abbia mai sentito. A Angoulême, Sergente, per puro caso vive l’unico uomo in tutto questo paese che potrebbe conoscere il mio nome. Io stesso lo dimenticherò finché non lo troverò.”
+
+“Ci sono molti come te,” mormorò il sergente; e Boutroux scese dal carro e si mise accanto al cavallo del soldato.
+
+“Ora, seguirai in silenzio, vero?” disse l’uomo anziano di colore grigio, guardandolo in basso.
+
+“Mai se corre al trotto”, disse Boutroux con noncuranza. “Nessuno può seguire silenziosamente un cavallo che corre al trotto.”
+
+“Ti porteremo in città,” disse il sergente; e mentre lo diceva, il contadino, profondamente sollevato, girò il suo carretto, li benedisse tutti con le parole di Dio e stava per tornare tranquillamente a casa sua. Ma Boutroux, mentre si girava, disse qualcosa al sergente.
+
+“Sergente, sono un uomo d’onore.”
+
+“Tutti dicono così,” disse il sergente con sospetto.
+
+“Non solo sono un uomo d’onore, Sergente, ma lei è a cavallo e ci troviamo in mezzo ai campi aperti, dove non c’è alcun riparo per una persona braccata. Venga, lasci che parli in privato con il conducente di questo carro: a dire la verità, ho un messaggio per il mio amico, da parte dei Giacobini.”
+
+Il sergente non rispose, ma non fece nulla per impedire quel movimento. Era abituato a scene del genere nel corso delle operazioni di mobilitazione delle truppe. Boutroux si avvicinò al conducente proprio mentre quell’uomo contadino cercava di far accelerare il suo vecchio veicolo; gli si affiancò e disse: —
+
+"#Aspetta un attimo!"
+
+Quell’uomo ignorante si fermò, imprecando.
+
+“Dobbiamo fare un accordo, per il nostro bene entrambi. Credo tu abbia detto che il mio nome è Perrin, giusto?”
+
+“Ecco quello che ho detto,” rispose il giovane, sorridendo.
+
+“Credo tu abbia detto che il tuo nome è il mio nome…”
+
+“Ecco fatto,” disse il contadino, sorridendo ancora di più.
+
+“Molto bene, Perrin,” disse Boutroux – e lo disse con una decisione che ricordò spiacevolmente al contadino il suo signore. “Molto bene, Perrin, ascolta! Quest’anno le tue colture ti deluderanno: non riuscirai a pagare le tasse. Gli uomini armati verranno a sequestrare tutto nella tua misera capanna, ma prima che possano prendere le tue cose, gli uomini della mia società ti troveranno; legheranno e picchieranno quella vecchia strega di tua madre, ” Il contadino non osò colpirlo, “E quando avranno finito, vi accadrà qualcosa di ancora peggiore. Saccheggeranno la vostra casa, vi uccideranno come vorranno. E forse verrete bruciati sul legno della vostra stessa pira. Hanno più potere di quanto tu possa immaginare.”
+
+“Ah, nel mio villaggio non ci importa nulla delle profezie,” disse il contadino, un po' pallido. “Vai pure per la tua strada; ora sei un soldato. È meglio per te che per me!”
+
+“Volevo solo che tu aspettassi con ansia quel momento,” disse Boutroux, “perché ti farà soffrire ancora di più fino a quando non arriverà il momento giusto. Nel frattempo, ” Improvvisamente saltò sul gradino del carretto, gettò a terra l’anziano lavoratore, stordendolo quasi completamente, e nello stesso istante colpì con un pugno il conducente dritto in bocca.
+
+Il sangue ne sgorgava a fiotti; la vittima del colpo batteva le mani nell’aria, urlando che lo arrestassero. Si era alzato in piedi, il sangue ancora che scorreva dai suoi denti rotti; mormorava e imprecava chiedendo di essere fermato; l’anziano lavoratore si era rialzato e stava correndo lungo la strada. Il sergente non avrebbe offerto alcuna giustizia.
+
+“Tocca a te catturare gli uccelli,” disse, “e a loro maledirti. Gli ussari non sono la tua polizia! Vai a casa!”
+
+Quell’uomo zoppicò dolorosamente fino al suo posto; promise di non inseguirli più, e Boutroux tornò dal sergente.
+
+“Ho trasmesso il mio messaggio”, disse, “e ora possiamo tutti andare avanti”.
+
+I due soldati ridevano. Erano abituati alla rabbia impotente degli uomini sotto pressione, e gli piaceva vederli comportarsi in quel modo. Mentre avanzavano, montarono i cavalli; Boutroux camminava accanto al morso del sergente, scambiando di tanto in tanto qualche parola. Ogni volta che il sergente diceva qualcosa, lui sorrideva sotto la sua vecchia barba grigia, divertendosi molto con quel nuovo recluta. Fino a quando non arrivarono alla porta di una piccola città fortificata. Lì c’era un guardiano in piedi.
+
+Il vecchio sergente scese da cavallo con movimenti rigidi, e Boutroux gli tenne educatamente la briglia; ma il sergente girò il proprio cavallo verso uno dei due uomini e fece segno a Boutroux di entrare nella sala delle guardie.
+
+C'era un tavolo semplice, su cui si trovavano penna e inchiostro, oltre a un foglio di carta sporco su cui erano stampati lo stemma del reggimento e le disposizioni reali. Il sergente chiamò due testimoni e recitò l'intera formula del giuramento. Quando arrivò al nome del recluta, mormorò a Boutroux: “Dai, devi fornire un nome, qualsiasi nome.”
+
+“Ma”, disse tranquillamente Boutroux, “come posso sapere il mio nome se non arrivo ad Angoulême?”
+
+“Devo compilare qualcosa,” disse il sergente con fermezza.
+
+“Darei il nome di Perrin,” disse Boutroux pensieroso, “se solo non fosse così sfortunato. Che cose maledette possano accadere a un gentiluomo di quella famiglia, ”
+
+“Lascia stare Perrin,” disse il sergente; e Boutroux scrisse “G. B. Perrin” con una grafia netta ed educata, usando la penna con tale rapidità da destare sospetti; ma in quei giorni di agosto, durante l’invasione, le domande non venivano poste con troppa insistenza.
+
+“Perrin,” disse il sergente, completando la formula, “devi giurare qui, sulla tua coscienza, e con questo giuramento alla Nazione, che agirai fedelmente e secondo le regole, eccetera. E basta così!”
+
+“È questo il giuramento?” disse Perrin.
+
+“Sì,” disse il sergente, iniziando a mostrare segni di decisione. “Ora basta scherzare, ragazzo mio.”
+
+#"Ebbene, eccolo qui… E qual è questa nuova maniera di imprecare?"
+
+Il sergente alzò lo sguardo, perplesso. “Me ne sono dimenticato… C’era Dio, vero?”
+
+Un uomo della guardia disse rispettosamente: “Ora giurano tenendo la destra aperta verso l’esterno, Sergente.”
+
+“Davvero lo fanno?” disse il vecchio sergente in tono brusco. Era un conservatore.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_03" data-title="The Girondin — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/trickster,motif/wine_and_drink,concept/deception,form/historical_novel,histref/the_french_revolution,setting/france"></span>
@@ -5571,6 +7331,74 @@ This being gave orders to the young soldier who had marched them into the garden
 “Those of you who wish to sleep, may sleep; any who desire to go into the town may do so. But it is forbidden to send any letter or to approach the postmaster or his stables. At noon I will come for those who can ride; the others will remain here. Arrange it among yourselves.” He left them, and the dispirited band began discussing which of them could ride. Two opinions arose in their debate: one was that all of them could ride, the other that none could ride. For there were some who thought that those who could not ride would be discharged; but there were others who thought that, on the contrary, all would be kept, and those who could ride would have a better and earlier chance of easy treatment. In the end, it was decided to decide nothing. One boy who wept continually and asserted that horses terrified him, was marked out as a butt by his fellows.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Boutroux allargò la sua mano destra. Il sergente mise la mano nella tasca dei suoi pantaloni di cuoio alla ricerca di una moneta, ma non ne trovò nessuna. “Dobbiamo assolutamente avere quella moneta,” disse stupidamente. “È essenziale per il contratto.”
+
+“E qual è la moneta più piccola necessaria?” chiese Boutroux.
+
+“Una libbra,” disse il sergente; “è la legge, ed è sempre stata così da quando ho iniziato a servire. Che Dio la maledica!”
+
+“Allora,” disse gentilmente Boutroux, “lasciate che vi presti questa moneta.” Tirò fuori un pugno di argento e posò il franco sul tavolo.
+
+Il sergente prese la moneta e la spinse di nuovo verso di lui attraverso il tavolo; nel farlo, pronunciò le ultime parole del rituale: “E così, prendendo questa moneta, vi impegnate.”
+
+“Esattamente,” disse Boutroux.
+
+Il sergente prese il franco, lo suonò per verificarne il valore e poi lo infilò silenziosamente nella tasca dei suoi pantaloni. “È una consuetudine del reggimento,” disse. “Non restituiamo i soldi cauzionali.”
+
+“Naturalmente,” disse Boutroux, “naturalmente… Ma l’hai sputato sopra per portare fortuna?”
+
+“Hai mostrato più denaro di quanto sia salutare per te,” fu l’unica risposta del sergente. “Dovrai pagare con del vino.” Passò la moneta a uno dei soldati di guardia; Boutroux aggiunse riluttante altre due monete, e l’uomo tornò con del ottimo vino di Chardac, abbastanza per tre intere livre d’argento, ma i soldati vengono sempre truffati. Bevettero insieme in onore del nuovo reclute.
+
+“È contrario alle regole del Re,” disse il sergente in tono rigido, “che i superiori bevano con gli inferiori! Hmm. Quindi, soldato Perrin, tu berrai per primo e io dopo; in questo modo non berremo insieme. Qualcuno ha un po’ di polvere da sparo?” aggiunse poi in tono più cordiale.
+
+Il soldato semplice che stava lì vicino scosse la testa. “Non ci sono permessi cartucci da servizio”, disse.
+
+“Lo pensavo anch’io,” disse il sergente con aria pensierosa; “dovremo compensare con del tabacco.” Prese un pizzico da una scatola che aveva con sé e ne mescolò attentamente il contenuto nel vino di Boutroux. “Ora, ragazzo mio,” disse gentilmente, “bevi questo; ti farà diventare un uomo.”
+
+Boutroux bevve il vino.
+
+“È proprio questo tipo di vino,” disse il soldato semplice con saggezza, “quello che fa sternutire una persona, non nel naso, ma nello stomaco.”
+
+“È un buon vino,” disse Boutroux, “ma il tabacco sembra averlo rovinato in qualche modo. Come ti sembra senza il tabacco, Sergente?”
+
+“È meglio,” disse il sergente, leccandosi le labbra e parlando lentamente, “è meglio senza tabacco da fiuto.”
+
+“Allora, dammene un po’ senza zuccheri”, disse Perrin.
+
+Fecero così; e quando Perrin l’ebbe bevuto, il sergente lo guardò seriamente per tutto il tempo; poi quel vecchio soldato disse: —
+
+“Perrin, mio povero ragazzo, lascia che ti dia un consiglio: se lo segui, diventerai un uomo saggio. Nel nostro mestiere amiamo il coraggio e l’audacia, ma li trattiamo con durezza; e se vanno troppo oltre, li trattiamo male.”
+
+“Sergente,” disse Perrin con rispetto, “è stato quel tabacco che mi ha dato problemi; ormai sono completamente guarito.”
+
+“Portatelo via,” disse l’uomo anziano. Mentre lo diceva, si sedette per compilare alcuni documenti necessari per integrare il nuovo reclutato nel suo corpo militare; Boutroux fu quindi portato via da due dei suoi nuovi compagni, che sembravano strani accanto a lui, vestito in abiti civili.
+
+Mentre camminavano, uno di loro disse: “Cos’è stato che ti ha fatto coinvolgere in questa faccenda?”
+
+“Debito”, rispose prontamente Boutroux.
+
+“Ah!” disse il suo guardiano, sospirando, “e non c’è da meravigliarsi!” Conosceva bene quel punto d’ingresso al servizio.
+
+“Sì,” disse Boutroux, “debiti. Ho tagliato il cappotto di un uomo con un coltello lungo, e i danni erano superiori a quanto potessi permettermi di pagare. Ma i Perrin sono una famiglia sfortunata. E ci sarà qualcosa di ancora peggiore per coloro che sono rimasti indietro.”
+
+Non gli dissero più nulla per circa cento metri; ma quando si avvicinarono al municipio di quella città, uno di loro, indicandolo con un cenno della testa, disse: “Lì dentro ci sono altri come te!”
+
+Boutroux non rispose. Lo portarono in un grande scantinato con soffitti a volta in pietra, dove trovò una ventina di persone di ogni tipo e condizione: giovani volontari del luogo, due o tre figli di gentiluomini, un individuo chiaramente appena uscito di prigione che in seguito ne andò fiero, e un basco che era venuto verso nord conducendo un orso; quest’ultimo non riusciva a capire cosa gli fosse accaduto, ma insieme agli altri era stato catturato e destinato a subire lo stesso destino. Sopra questa folla si trovava un giovane dall’espressione mite, vestito con la stessa uniforme di cavalleria indossata dai primi rapitori di Boutroux. Le strisce sul suo braccio erano di stoffa e non d’oro; apparentemente era di rango inferiore agli altri, ma sembrava comunque avere autorità su di loro.
+
+La sua voce era gentile, bassa e profonda; era gentile con tutti loro. Li dispose in quella sala sotterranea formando una sorta di colonna composta da quattro persone; una volta sistemati così, li guardò con ansia e disse dolcemente, come se chiedesse l’ora o commentasse il tempo: “Marciate!” Dopo averlo detto, uscì dalla sala, attraverso la grande porta, nel giardino del municipio. E quella piccola colonna lo seguì barcollando.
+
+“Non c’è alcuna enfasi, nessun clamore intorno a tutto questo”, pensò Boutroux.
+
+Nel giardino trovarono una persona di grande maestosità: parlava con un tono un po’ effeminato, era ben vestita e armata in modo elegante.
+
+“E questo,” si disse Boutroux, “è un ufficiale!”
+
+Questo essere diede ordini al giovane soldato che li aveva portati nel giardino; tutti furono condotti in un fienile dove c'era paglia profonda e pulita. Il giovane soldato che li aveva accompagnati parlò di nuovo con la sua voce dolce e monotona, come se stesse ripetendo una lezione.
+
+“Coloro di voi che desiderano dormire, possono farlo; chiunque voglia andare in città può farlo pure. Ma è vietato inviare lettere o avvicinarsi al postino o alle sue stalle. A mezzogiorno verrò a prendere coloro che sanno cavalcare; gli altri rimarranno qui. Organizzatevi tra di voi.” Li lasciò, e il gruppo demoralizzato iniziò a discutere su chi dei loro potesse cavalcare. Nella loro discussione emersero due opinioni: una era che tutti potessero cavalcare, l’altra che nessuno potesse farlo. C’erano infatti coloro che pensavano che coloro che non sapevano cavalcare sarebbero stati congedati; ma c’erano anche altri che ritenevano, al contrario, che tutti sarebbero rimasti e che coloro che sapevano cavalcare avrebbero avuto maggiori e più rapide possibilità di ricevere un trattamento migliore. Alla fine, si decise di non prendere alcuna decisione. Un ragazzo che piangeva continuamente e affermava che i cavalli lo terrorizzassero fu scelto dai suoi compagni come bersaglio delle loro derisioni.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_04" data-title="The Girondin — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/horse,form/historical_novel,histref/the_french_revolution,setting/france"></span>
@@ -5630,6 +7458,62 @@ Far off a voice gave a loud, long-drawn cry that sounded like no word he had eve
 
 “No,” said the other, “but he will not have to ride now or at any other time. And, oh Lord! he will get more money than we do.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Se lo desiderano,” disse un giovane alto e coraggioso, il cui mestiere era quello di vendere formaggio, “uno di noi che sicuramente non sa cavalcare consegnerà questo amico,” e indicò la figura in lacrime. Dopo aver detto ciò, si sdraiarono sul pagliaio. Quelli che, come Boutroux, non avevano riposato per tutta la notte (e erano molti), caddero immediatamente in un sonno profondo e esausto; gli altri parlavano tra loro, alcuni disperatamente, altri con ansia; molti erano curiosi e felici di trovarsi sul punto di intraprendere una vita da soldato. Il piccolo uomo che aveva pianto girovagava da solo; se avesse osato, sarebbe fuggito, ma non aveva amici e non conosceva la zona.
+
+Boutroux, essendo tra coloro che dormivano, non vide nulla di tutto ciò. Ciò che lo svegliò a mezzogiorno fu il suono stridulo di una tromba proprio alla porta del fienile; e mentre si alzava, stanco ed confuso, vide davanti a sé di nuovo quel giovane gentile in uniforme e con la spada, che gli batté sulla spalla e disse: —
+
+#"Ma no! Non posso permettermi che nessuno arrivi in ritardo!"
+
+In un campo fuori dal fienile c'erano venti cavalli di ogni tipo; la maggior parte erano vecchi e tutti sembravano poco entusiasti all’idea di essere montati con i pesanti sellini da campagna utilizzati dall’esercito. Il giovane ufficiale, come sempre con delicatezza, fece salire ognuno su un cavallo e poi disse, con tono malinconico: “Montate.” I venti cavalli che non sapevano come farlo furono portati via: li aspettava qualche punizione. Dei dieci che almeno riuscivano a montare, otto avrebbero preferito di no, proprio come i loro cavalli. E anche questi ottantasei vennero nuovamente fatti scendere con lo stesso tono tranquillo e si unirono ai loro sfortunati compagni. Tra gli ultimi quattro c’era Boutroux. Il giovane ufficiale si avvicinò a lui e disse.
+
+“Guarda qui, amico mio: sarà più veloce e meno complicato se mi dirai la verità. Visto che siete solo in quattro, allora viaggiate o no?”
+
+“Posso cavalcare questa bestia,” disse Boutroux. “Per quanto riguarda le altre tre, potete scoprirlo provando a toccare i loro cavalli con qualsiasi bastone vi capiti sotto mano; e state attenti: quando dico che posso cavalcare questo animale, mi baso solo sulle sue orecchie, che sembrano essere fatte di stoffa morbida.”
+
+Il giovane soldato sorrise dolcemente. “Sì,” disse, sospirando, “avrei dovuto metterti su un animale più feroce. Ma i nostri cavalli sono stanchi. Hai già cavalcato?”
+
+“Sì,” disse Boutroux, “ho cavalcato.” Stava per aggiungere: “Per una notte sono stato un postiglione”, ma si trattenne.
+
+“È un peccato,” sospirò il giovane; “non si può mai fare di un uomo che ha cavalcato come civile un buon ussaro.”
+
+I quattro furono fatti girare in tondo e in tondo. Tre riuscirono a montare sui loro animali, tra questi anche Boutroux. Uno cadde non appena l’animale iniziò a muoversi; fu mandato via, nel buio esterno, e il giovane soldato, rimasto con gli altri tre, disse: “Ecco deciso. Tre su dieci!”
+
+Tornò indietro per fare il suo rapporto. I tre si ritrovarono separati negli stalli: dovevano spazzare, pulire e preparare le esche, e in seguito trasportare secchi d’acqua. Mentre svolgevano queste attività, il giovane soldato ricordò loro dolcemente che questi vantaggi derivavano dal loro potere su quelle creature brutali.
+
+“Dividiamo i reclute in tre categorie,” disse: “alcuni dovranno marciare dietro di noi, per essere addestrati e raggiungerci il prima possibile; altri potranno cavalcare con noi fino al luogo dove ci uniremo e proseguiremo l’addestramento in movimento; altri ancora, se sono in grado di montare a cavallo, verranno integrati nella nostra formazione. Questi sono i tempi in cui viviamo, e sono tempi terribili. Dei venti che sono stati catturati qui, dieci hanno dichiarato di saper cavalcare; tra questi, voi tre, a causa dei vostri peccati, potrete a malapena rimanere in sella su cavalli stanchi. Per questo motivo,” aggiunse, sospirando di nuovo, “vi è stato assegnato il compito molto onorevole di fare da ‘guardie del cavallo’.” Designò uno dei soldati più anziani perché si occupasse di loro e poi andò a ricevere le sue istruzioni. —
+
+Alle cinque in punto, i tre si trovarono in sella, con il giovane e triste soldato al loro fianco; seguivano la coda di una lunga colonna di cavalleria che stava lasciando la città. Mentre superavano il secondo cancello, le trombe suonarono nuovamente, in modo maestoso e minaccioso.
+
+“È una cosa meravigliosa,” disse Boutroux al triste giovane soldato, “ma queste trombe non spaventano affatto il mio cavallo.”
+
+“Il subordinato,” rispose educatamente il giovane soldato, citando come se fosse tratto da un libro: “il subordinato non si rivolge al proprio superiore finché quest’ultimo non lo ha fatto per primo.”
+
+“Sono sicuro di essere molto dispiaciuto,” disse Boutroux.
+
+“Se fossi stato nel servizio per più tempo,” disse il giovane soldato in silenzio, come risposta, “per quell’ultima osservazione ti avrei denunciato affinché venissi punito.”
+
+Detto questo, cavalcarono fianco a fianco per circa due miglia in assoluto silenzio.
+
+La strada proseguiva in modo monotono e senza senso; mentre camminava, Boutroux pensò che la vita di un soldato fosse qualcosa di completamente diverso da tutto ciò che aveva immaginato. Poi, improvvisamente, ne comprese il vero significato.
+
+Da lontano, una voce emise un grido lungo e forte, che non assomigliava a nessuna parola che avesse mai sentito; immediatamente, lungo la linea, si diffuse una sorta di ondata di movimenti rapidi. Quel suono raggiunse lui e i suoi due compagni, così come il giovane soldato incaricato di prendersi cura di loro. Anche loro iniziarono a muoversi con passo rapido. Aveva sentito dire che un soldato non dovrebbe mai alzarsi dai propri staffili; mentre si chiedeva quale alternativa avesse un soldato in quella situazione, rimase sorpreso quando il suo comandante si rivolse a lui e disse.
+
+“Ora che ci stiamo muovendo e c’è del rumore, possiamo parlare.”
+
+“Sono molto felice di sentirti dire questo,” ansimò Boutroux tra i sobbalzi della sella. “Hai notato quel povero bambino che piangeva tra noi?”
+
+“Oh sì,” disse il giovane soldato, con ancora più tristezza del solito.
+
+“Ha trovato il servizio troppo difficile in queste poche ore?” chiese Boutroux con compassione.
+
+“No,” disse il giovane soldato, pensieroso; “non era capace di fare nulla, quindi lo abbiamo fatto diventare un servitore del capitano della Compagnia B. La moglie del capitano pensava che sarebbe stato un buon servitore, gli sarà facile il compito. È meglio per lui che per noi!”
+
+“E diventerà un buon servitore?”, chiese Boutroux.
+
+“No,” disse l’altro, “ma ora o in qualsiasi altro momento non dovrà più cavalcare. E, oh Signore, guadagnerà più soldi di noi.”
 
 
 
@@ -5706,6 +7590,78 @@ The sergeant glanced at him slyly. “When you have been in the regiment a littl
 
 When he had said this he proceeded to tell the whole tale. The news had come down five days before. The King was imprisoned; there was God knew what government in [[Paris]], but it was something fierce. The hussars had gone to pieces. The ranks were there, for the most part. The sergeants had held. There had been a few desertions, but the men were kept by pay and food and had not where to go. In all the squadrons not twenty privates had decamped, but the officers were gone, all but one — a lieutenant, a ranker. The rest had got off across country; they were for the invader now the King had fallen. A man was there from the Parliament in [[Paris]], and this man had full powers. The time had come, he repeated, for every one to do what he was told.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XII.
+
+Mostrando come i soldati non siano sempre così.
+
+Passarono due giorni quando, all’alba, la tromba risuonò per le strade di un villaggio isolato; gli uomini si alzarono brontolando dai paglierini nei granai, presero i cavalli dalle stalle e li sellarono, per poi radunarsi infine nella piazza del mercato.
+
+La marcia sarebbe stata breve: si trovavano a meno di otto miglia da Angoulême.
+
+La strana processione, composta da civili e truppe in uniforme, da veterani e giovani reclute ancora non addestrati, si mise in movimento lungo la grande strada. Non avevano percorso nemmeno un miglio in quella mattina estiva quando, da lontano lungo la strada, arrivò al galoppo un uomo a cavallo. Cavalcava come fanno gli uomini in azione, e sembrava portare notizie di immediata importanza. Era un ufficiale ausiliario; parlò con il comandante del distaccamento, salutandolo, e gli consegnò il documento che aveva con sé. L’ufficiale lesse il documento, parve perplesso e scambiò alcune parole con l’ausiliario; poi gli ordinò di andare lungo la colonna e spiegare nei dettagli agli ufficiali subalterni, soprattutto ai quartiermastri. L’ausiliario si diresse verso il punto in cui cavalcava il giovane dall’espressione gentile, che era al suo posto, accanto a Boutroux, alla fine della fila. Quell’ufficiale ausiliario aveva un certo portamento da vecchio soldato, precedente alla Rivoluzione e all’invasione, ma sembrava molto stanco. Comunque, rimase in sella, come se avesse cavalcato per troppo tempo; la prima cosa che il giovane dall’espressione gentile gli disse fu: “Chi ha accorciato i tuoi staffili?” Lo chiese con familiarità, poiché erano dello stesso rango.
+
+“Sono i tuoi occhi a ingannarti, Hamard,” disse l’altro, prendendolo in giro; “nessun ufficiale degli ussari mai accorcia le staffe dei suoi cavalli. Io ho opportunamente modificato la lunghezza delle mie gambe di ben sei pollici ogni miglio che percorrevo. Vedi bene: le mie gambe superano di gran lunga la lunghezza regolamentare.”
+
+“Questo spiega tutto,” disse l’altro con serietà, e Boutroux si chiese se quella fosse la tipica arguzia del reggimento; “perché in tal caso,” pensò, “devo prepararmi a fare anch’io scherzi del genere.”
+
+“Cosa hai lì, Hamard?”, chiese il nuovo arrivato, indicando con il mento Boutroux mentre questi sedeva a cavallo, vestito come un contadino.
+
+“Perché,” disse il giovane sergente dal viso triste, il cui nome fu Boutroux, “quell’oggetto si spiega da solo.”
+
+“Sì, ne sono sicuro”, disse il nuovo arrivato. “Sei davvero certo di lui?”
+
+“Non siamo sicuri di nessuno,” disse il sergente Hamard. “Tu, per esempio. Come hai lasciato le cose ad Angoulême?”
+
+“C'erano,” disse il messaggero, guardando il cielo come se volesse trovarvi le parole giuste; “c'erano due ufficiali rimasti con il reggimento quando arrivò ad Angoulême: un capitano e un tenente. Gli altri avevano preferito servire il nemico; se n'erano andati.”
+
+“Due… quantità davvero scarse! Due, e nessuno di loro è nemmeno un ufficiale superiore…”
+
+“No”, disse lentamente il messaggero, “né capitano ora… Lui non c’è più”.
+
+“Non c’è da meravigliarsi,” disse il giovane sergente; “questo servizio è una trappola dalla quale un uomo può scappare, se riesce.”
+
+“Vero,” disse l’altro; “tuttavia, dopo un po’ di esitazione, il tenente si è schierato dalla parte della Nazione.”
+
+“Davvero lo ha fatto?” disse il sergente, e sospirò – come faceva sempre. “È un peccato che i ranghi inferiori si sentano così vincolati. Qualcuno ha provato a uccidere il capitano quando è fuggito?”
+
+“Ah sì,” disse il messaggero, “la solita storia: la guardia ha sparato qualche colpo, ma era buio e lui è riuscito a scappare.”
+
+“È un lungo cammino fino al confine,” disse Boutroux, inserendo per la prima volta questa frase enigmatica nella conversazione.
+
+“Lo scoprirai tu stesso, giovane,” disse il sergente Hamard in tono secco.
+
+“Quel capitano ci ha preceduti in Galilea,” disse Boutroux.
+
+Il sergente lo guardò con aria astuta. “Quando sarai nel reggimento da un po’ di più,” disse, “sarai un po’ più attento a ciò che dici.” Al che il messaggero aggiunse: “Povero me. È vero, e ricordalo bene: la tradizione e persino la diserzione sono severamente proibite in tutti i ranghi inferiori a quello di capitano.”
+
+“E chi rimane ad Angoulême”, chiese Hamard, “per prendersi cura di noi tutti?”
+
+“Il tenente, come vi ho detto,” rispose l’altro brevemente; “ma è arrivato anche qualcun altro: un membro del Parlamento.”
+
+“Un civile?”, chiese il sergente, perplesso.
+
+“Ora potete chiamarlo un civile,” disse il messaggero con tono meditabondo, “ma ha davvero molte responsabilità, e sembra che in passato abbia comandato un reggimento. Beve molto di notte; dorme bene; e al mattino è come un tornado, ”
+
+“Per me è tutto incomprensibile,” disse Hamard.
+
+“Capirai benissimo quando arriveremo in città,” rispose l’altro, “intanto volevo solo dirti questo: è stato solo il fascino della tua conversazione a distrarmi. Quando saremo ad Angoulême obbediremo agli ordini, capisci?”
+
+“Negli ultimi mesi mi è risultato estremamente difficile fare qualsiasi altra cosa; portatemi davanti al mio superiore e obbedirò agli ordini,” rispose il sergente.
+
+“Beh, ma proprio in questo sta il problema: i vostri superiori non ci sono, e potrebbero sorgere alcuni problemi.”
+
+“Era proprio ciò che temevo.”
+
+“Ora, quando sentite delle discussioni,” continuò il nuovo arrivato, “prendete in considerazione il mio consiglio: ho osservato attentamente. Se qualcuno vi dice una cosa nel ruolo di soldato, e un altro ne dice un'altra nel ruolo di civile, beh, se ci sono urla e insulti, è meglio seguire le istruzioni di quest’ultimo, che rappresenta il Parlamento. Se invece fate il contrario, vi sparano addosso. Amico,” aggiunse, alzando una mano e posandola dolcemente sul braccio del sergente, “per l’amor di Dio, dite a tutti di comportarsi con ragionevolezza.”
+
+“Ho solo tre cose da dire,” disse il giovane sergente dal viso gentile.
+
+“Allora racconta tutto e fallo in tempo,” disse il messaggero bruscamente, guardandolo dritto negli occhi. “Perché entro mezzogiorno ci sarà sparatoria; e quelli che spareranno, beh, peggio per loro! Hanno tutte le armi. È l’uomo del Parlamento ad avere il magazzino delle munizioni.”
+
+Dopo aver detto questo, continuò a raccontare tutta la storia. La notizia era arrivata cinque giorni prima: il Re era stato imprigionato; a [[Paris|Parigi]] c'era chissà quale governo, ma di certo qualcosa di molto severo. Gli ussari si erano dispersi; in gran parte le truppe erano ancora lì, e i sottufficiali avevano mantenuto la disciplina. C'erano stati alcuni disertori, ma gli uomini erano trattenuti dallo stipendio e dal cibo, e non avevano dove andare. In tutti i reparti, non più di venti soldati avevano abbandonato le loro posizioni; gli ufficiali, invece, erano tutti spariti, tranne uno: un tenente di rango inferiore. Gli altri erano fuggiti attraverso la campagna; ora che il Re era caduto, erano passati dalla parte dell'invasore. C'era anche un uomo del Parlamento di [[Paris|Parigi]], e quest'uomo aveva pieni poteri. Era arrivato il momento, ripeteva, che tutti facessero ciò che gli veniva detto.
 
 
 
@@ -5801,6 +7757,96 @@ The cavalry-man answered that he had heard.
 “Oh, you’ll do that all right,” said the other roughly. “We can gather horses by the hundred from the lunatics who have been rising under the priests thereabouts. Oh!” he went on, laughing hoarsely, “every man that comes out with his nag for the Pope is a beast for us, and sometimes a recruit as well.... We turn ’em in! There’s some use in rebels!” At this point he jerked his thumb for the officer to follow him, and they went together into the guard-room. A little while after the soldier came out with the expression of a man who has eaten bitter fruit and has made up his mind.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Perrin”, disse con dolcezza Hamard a Boutroux, “preghi mai?”
+
+“Mai!”, disse decisamente Boutroux.
+
+# Mai hai mai gettato una moneta?
+
+“No, ma quando gli altri lo fanno, spesso mi arrabbio molto.”
+
+“Allora, dovremmo pregare o gettare una moneta? Perché temo che gli ordini in Angoulême possano essere contraddittori.”
+
+“Se fossi in te,” disse Boutroux, “aspetterei che l’evento si verificasse, e poi pregerei; o comunque offrirei preghiere o maledizioni a seconda del risultato.”
+
+“Non c’è molto conforto in questo,” disse il sergente, e per un po’ nessuno dei due parlò più.
+
+Il messaggero di Angoulême ripartì al galoppo lungo la colonna, a cavallo del suo stanco animale, e presto davanti ai loro occhi apparvero la collina, le case affollate e le cupole della città.
+
+Quando si avvicinarono al cancello di Angouléme, la guardia inviò avanti due uomini che chiesero silenziosamente la parola d’ordine e la ricevettero. Mentre il distaccamento entrava, notarono che la guardia non fece il saluto militare e sembrava che ci fossero molto pochi uomini al cancello. La colonna si fermò e gli uomini furono ordinati di scendere da cavallo. Tutti obbedirono, compreso l’ufficiale che li guidava. Dopo che questo fu fatto, un uomo basso e scuro di pelle, vicino ai sessant’anni, con uno sguardo deciso e determinato, gli occhi rossi per il bere o la mancanza di sonno ma fissi e penetranti, uscì improvvisamente dalla guardiola situata al cancello.
+
+C'era un'insolita miscela di paura, rispetto e fastidio nel modo in cui i soldati accoglievano questa figura.
+
+Era vestito con pantaloni corti fino al ginocchio; non portava spada e indossava un grande cappotto da cavaliere di colore verde scuro, con bottoni di bronzo su cui erano incisi i simboli delle Fasce e dell’Ascia. Non aveva né parrucca né cappello in testa, ma solo una massa dei suoi stessi capelli neri e ondulati; intorno alla vita portava un fazzoletto tricolore di colore setoso, legato in un enorme fiocco sopra l’anca, dove però non c’era alcuna spada. Le due estremità del fazzoletto gli pendevano quasi fino ai piedi.
+
+“Nel nome della Nazione,” disse con voce rauca, fissando il comandante del distaccamento che stava davanti a lui senza alcuna insolenza o curiosità, in attesa di ciò che sarebbe stato detto. “Porto ordini per chi io scelgo,” aggiunse brutalmente, “e rompo quelle commissioni che ritengo opportuno farlo.”
+
+“Non c’è bisogno che mi parli in questo modo,” disse il comandante del distaccamento con tono tranquillo. “La maggior parte di queste persone qui con me sono ragazzi reclutati durante la mia missione a sud di questa città; gli altri appartengono all’antico reggimento. Aspetto soltanto ordini.”
+
+Il politico con la sciarpa e il mantello a cappuccio, quello dai colori della bandiera nazionale, sembrava un po’ placato, ma continuava comunque a parlare in modo brutale.
+
+“Questo capitano che se l’è svignata era uno dei vostri?”
+
+“Non so nemmeno quale fosse,” rispose il tenente in silenzio.
+
+Il politico pronunciò quel nome.
+
+“Ah sì! Era uno dei nostri,” disse il tenente.
+
+“E chi altro se ne andrà via di corsa?” chiese il politico, arrabbiato.
+
+“Nessuno che io sappia, signore,” disse l’ufficiale con serietà. “Per quanto riguarda i miei uomini, sono venuti qui per portare i nuovi reclute per l’addestramento, e riceviamo ordini da [[Paris|Parigi]],” concluse.
+
+“Ah,” disse il politico con un profondo sospiro, “quindi ricevi ordini da [[Paris|Parigi]]?” Lo guardò dalla testa ai piedi. “So bene cosa significa essere soldato, sai?”
+
+“Avrei dovuto pensarci,” rispose l’ufficiale di cavalleria. “Nella linea di battaglia, immagino, ” aggiunse.
+
+“Nessuna insolenza dannata!”, gridò l’altro, improvvisamente infuriato. “Alle armi!”
+
+“Beh, allora… in posizione di attacco.”
+
+“Beh, allora, alle armi,” lo imitò il politico con tono derisorio, “e alle armi non si scherza. Sai che non hai nessun colonnello?”
+
+“Da quando?” disse il capo della squadra.
+
+“Solo il diavolo lo sa,” rispose il politico con una risata sgradevole. “Ma il reggimento e voi altri dovevate concentrarvi a Poitiers.”
+
+Il cavaliere annuì.
+
+“Beh,” disse l’altro con un sospiro, “quando sono arrivato, lui se n’era già andato… era scappato via.”
+
+Il cavaliere annuì di nuovo.
+
+Il politico si stava innervosendo. “Non so se tu sappia più di quanto sia disposto a dire, ma, sai davvero quale forza si nasconda a Poitiers?”
+
+“Non ci sono esattamente seicento sciabole a disposizione per il comando, quando tutti i distaccamenti saranno arrivati, compresi i reclute. Ho fatto il conto correttamente.”
+
+“Capisci cosa intendo,” disse il politico con tono brusco, ma con un lampo negli occhi. “Chi dovrà comandare i tuoi seicento fucili?”
+
+“Se il colonnello se n’è andato”, disse l’altro con calma, “allora tocca all’ufficiale più anziano assumersi la responsabilità”.
+
+“Beh, ragazzo mio,” rispose il vice ispettore in tono ruvido, “sei proprio tu.”
+
+Si guardarono l'un l'altro con reciproco odio; nel soldato c'erano disgusto e disprezzo, mentre nel civile si nascondeva una leggera paura delle conseguenze. Quel civile era lì da solo, senza alcuna protezione, con dietro di sé soltanto l'autorità del Parlamento, “Mi capisci?” chiese. “Ho le commissioni in tasca; posso decidere tutto io. Accetterai l’incarico?”
+
+“Faccio ciò che mi viene detto”, rispose brevemente il soldato. “Chi c’è qui ad Angoulême?”
+
+“Altre tre squadre e forse un centinaio di reclute,” disse l’altro. “Dovrai addestrarli durante il viaggio. Hai sentito cosa è successo a [[Paris|Parigi]]?”
+
+Il soldato della cavalleria rispose che aveva sentito.
+
+“Quanto tempo ti ci vorrà per arrivare a Poitiers?”
+
+“Posso avere nuovi cavalli da montare?” chiese l’ufficiale.
+
+“I vostri reclute sanno cavalcarli?” ribatté il politico.
+
+“Dovranno farlo,” disse l’ufficiale con pazienza. “Se mi procurate nuovi cavalli, potrò arrivare la sera del secondo giorno. Ma una volta lì dovrò essere in grado di riempire di nuovo i miei stalli e di scegliere con attenzione.”
+
+“Oh, ce la farai senz’altro,” disse l’altro in tono brusco. “Possiamo raccogliere centinaia di cavalli da quei pazzi che si sono sollevati sotto la guida dei preti di quella zona. Oh!” continuò, ridendo raucamente, “ognu uomo che esce con il suo cavallo per andare dal Papa è un nemico per noi. A volte, però, può anche rivelarsi un nuovo reclutato. Li consegniamo tutti! I ribelli hanno pur sempre qualche utilità, ” A quel punto fece un gesto con il pollice per indicare all’ufficiale di seguirlo; insieme entrarono nella guardiola. Poco dopo, il soldato ne uscì con l’espressione di chi aveva assaporato il sapore amaro della sconfitta e aveva preso una decisione definitiva.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_03" data-title="The Girondin — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/paris"></span>
@@ -5850,6 +7896,52 @@ He sent another order; the trumpets rang out again, and confusedly jumbled at fi
 
 The politician and the new-made colonel went off together to the chief hotel of the place, right on the big square; the one was still swaying on foot, with his great three-coloured scarf about him, the other soldierly upon his horse. There was an omen in that sight, and many who saw it knew that at last the army would rule the Republic. But for the moment the army took orders from parliament as an army should; and this new chief of the regiment went in to draw up his list of subordinates. Save for him and two bewildered lieutenants, there was not as yet a single man of commissioned rank to deal with all those hundreds.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Montò a cavallo e diede l’ordine che tutti i suoi uomini si armassero anch’essi di cavalli. Inviò due soldati con le istruzioni necessarie, e in pochi minuti nel grande spazio centrale della città si radunarono quasi trecento cavalieri; cento di loro indossavano ancora abiti civili, seduti goffamente nei loro pantaloni corti o con i pantaloni legati con una corda alle ginocchia.
+
+Boutroux si unì agli altri. Ci furono molti spintoni, imprecazioni e ordini sussurrati o gridati; ma alla fine riuscirono a formare una sorta di schieramento. I due trombettieri presero posto sui loro cavalli davanti alla linea, nel centro della piazza. La folla della città aveva iniziato a radunarsi negli angoli di quell’ampio spazio aperto per vedere cosa stesse succedendo; ridevano dei ragazzi vestiti con abiti civili e deridevano quella sorta di esibizione. L’ufficiale che aveva comandato il distaccamento di Boutroux e i reclute durante la marcia dal sud, e che poco prima aveva avuto un colloquio con il commissario del Parlamento, si avvicinò ai trombettieri e si mise davanti agli uomini. Aveva con sé un tenente; l’unico altro tenente rimasto era in testa allo schieramento. Diede l’ordine.
+
+“Ora che gli uomini sono tutti riuniti,” disse a un sergente, “puoi ordinare loro di suonare la tromba per radunarli.”
+
+“Sì, mio Capitano,” disse l’uomo.
+
+“Colonnello!”, disse l’altro, guardandolo e quasi dimenticando completamente la disciplina, al punto di sorridere.
+
+“Sì, mio Colonnello,” balbettò di nuovo l’uomo con gli occhi spalancati. Si avvicinò alle trombe.
+
+“La riunione e la chiamata del reggimento,” disse.
+
+“Senza il colonnello?” chiese con tono cupo il sergente maggiore dei trombettisti.
+
+Il sergente mosse leggermente la testa verso il giovane ufficiale ancora in uniforme da tenente, che sedeva da solo sul suo cavallo e guardava quella lunga fila. “Quello è il nuovo colonnello,” sussurrò.
+
+“Dio ci aiuti tutti nei reggimenti di ussari!”, rispose il sergente maggiore dei trombettieri, e diede l’ordine.
+
+I due uomini sollevarono le loro trombe e suonarono il segnale di raduno e l’ordine del reggimento; alla fine aggiunsero quel particolare accordo finale, come richiesto dall’ordine di un colonnello.
+
+Mentre questa cerimonia – simbolica e decisiva per l’adesione del reggimento alla Rivoluzione a [[Paris|Parigi]] – si svolgeva, il Parlamentare si avvicinò al nuovo giovane colonnello che guidava queste truppe. Camminava con aria trionfale, dondolando le spalle; la sua fascia tricolore gli pendeva ancora dal fianco, e il suo cammino era accompagnato da lunghi applausi della folla. Due cavalieri a piedi, con le spade sguainate, lo seguivano. Attraversò lo spazio aperto e vuoto, continuando ad avanzare con aria trionfale; si fermò vicino all’ufficiale, allargò le gambe e disse: —
+
+“Colonnello, quella è soltanto metà del suo comando; l’altra metà la aspetta a Poitiers.”
+
+L’ufficiale fece un saluto rispettoso.
+
+“Vi chiederò, quando gli uomini saranno congedati e assegnati alle loro destinazioni, di aiutarmi a redigere un elenco delle promozioni. Dobbiamo avere un gruppo di persone qualificate; le cariche devono essere ricoperte.”
+
+“È abbastanza semplice,” disse l’ufficiale a bassa voce. “Conosco bene i migliori ufficiali subalterni qui presenti, e puoi prendere gli elementi per la lista solo da questa fonte.”
+
+“Non vogliamo solo i migliori soldati,” ringhiò il politico.
+
+“Parlerò con te del resto,” disse l’altro con cautela.
+
+“E che ne diremmo di promuovere i sottufficiali al posto di coloro che vengono nominati ufficiali?”
+
+“Lascerei che siano i nuovi ufficiali appena nominati a decidere su queste raccomandazioni”, disse il colonnello, che aveva già ricoperto la sua carica da mezz’ora.
+
+Inviò un altro ordine; le trombe suonarono di nuovo. All’inizio il loro suono era confuso e disordinato, ma alla fine si schiarì: l’intera fila di veterani, giovani soldati e reclute – insieme a alcuni volontari – si divise in gruppi separati e si diresse verso le varie strade della città dove erano stati assegnati.
+
+Il politico e il nuovo colonnello si recarono insieme all’hotel principale della città, situato proprio in piazza; l’uno ancora barcollava sulle gambe, avvolto nel suo grande sciarpa a tre colori, l’altro invece cavalcava con aria marziale. Quella scena presagiva qualcosa: molti che la videro capirono che finalmente l’esercito avrebbe governato la Repubblica. Ma per il momento, l’esercito riceveva ordini dal parlamento, come è giusto che faccia un esercito; e questo nuovo comandante di reggimento andò subito a redigere l’elenco dei suoi subordinati. A parte lui e due ufficiali confusi, non c’era ancora nessun altro ufficiale in grado di gestire tutte quelle centinaia di persone.
 
 
 
@@ -5935,6 +8027,86 @@ They found the new sergeants of every sort drawn suddenly from the ranks, and fi
 In the morning, after a night during which not one-third of the force had slept, the whole body — the new commissioned ranks, the accoutrement staff, the recruits, and the guards — were drawn up again in the market - place of Angouéme, all dressed as they should be, and very deceptive to the eye: a civilian might have taken them all for soldiers. For the remounts had been put under the most experienced men, and the recruits sat those old, tame, sleepy beasts which were called in the regiment “the Circus.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIII.
+
+In questo racconto, il girondino, sebbene ancora lontano dall’essere un soldato, diventa sicuramente un sergente; e in esso un uomo nobile sferra un colpo a difesa della Corona.
+
+La stalla di Boutroux era divisa in quattro parti e apparteneva a un mercante di grano. Il mercante era entrato nella stalla per controllare che il cavallo venisse curato con attenzione e anche per assicurarsi che nulla venisse rubato. Boutroux si occupava della cura del cavallo con precisione e meticolosità; mentre lo faceva, notò un uomo di circa trent’anni, dall’aspetto cupo e scuro di pelle, vestito con l’uniforme del reggimento, e per di più un’uniforme sporca. Gli disse allora:
+
+“Sei ricercato… sei ricercato al White Pheasant.”
+
+“Dove si trova?” chiese Boutroux in tono piacevole.
+
+“È una locanda,” disse l’altro in tono ancora più cupo del solito, “e vaffanculo a te!”
+
+“Amico,” disse Boutroux, “tu sei più anziano di me nel servizio, ma mi farebbe grande piacere usare qualcosa di appuntito contro di te. E forse il mio ospite mi presterà una leva, o al peggio, un coltello da cucina.”
+
+“Vai all’inferno!” disse l’altro; “prima dell’alba avrai più potere di quanto tu ne voglia per tormentare poveri diavoli come me.”
+
+Si avvicinò al cavallo e lo accarezzò dolcemente.
+
+“Conoscevo questa bestia già prima che tu entrassi nel reggimento,” aggiunse, con le lacrime agli occhi; poi disse: “Vai pure al White Pheasant, e non ricordare le mie parole.” Detto questo, prese in mano il compito di pulire l’animale.
+
+Boutroux chiese al mercante di grano dove potesse trovarsi la Fagiana Bianca. Gli indicarono una piccola locanda sporca dall’altra parte della strada. Entrò lì, ancora vestito con i suoi abiti da contadino, completamente stanco e segnato dai viaggi lunghi. Lì vide sei sergenti che, al suo arrivo, fecero un gran rumore confuso e gli gridarono parole il cui significato non riusciva affatto a capire. Uno di loro fece finta di versargli del vino addosso, un altro quasi estrasse la spada, ma fu trattenuto da un amico; gli altri invece ridevano, tranne uno – e Boutroux fu molto felice di vedere che si trattava del suo gentile amico dei giorni della marcia.
+
+“Beh, Perrin,” disse, “ti ho nominato.”
+
+“Non capisco,” disse Boutroux, confuso, alzandosi in segno di attenzione, perché già provava timore per le gerarchie sociali.
+
+“Capirai abbastanza presto,” disse uno di loro in tono cupo, “quando dovrai combattere contro tutto questo disastro, uno dopo l’altro.”
+
+“Tenete a bada quelle vostre lingue ubriache,” disse il gentile sergente; “se dovrà combattere solo contro di voi, sarà altrettanto facile come tagliare una torta. Vi ho nominato io, Perrin. Sapete cosa è successo?”
+
+“Più o meno,” disse Boutroux.
+
+“Meno è meglio,” disse il suo amico. “Sono rimasti solo tre ufficiali per questa maledetta folla. Sai ormai chi sono diventato?”
+
+“In questo momento, il sergente ubriaco interruppe di nuovo: ‘Dio sa che sei un pavone.’”
+
+“Sono un tenente”, disse tranquillamente il sergente dal viso gentile; “Ho appena ricevuto la mia nomina”.
+
+“Esatto! È un tenente. Strano. Ma vero. Tenente Hamard,” disse un uomo alto, con i capelli neri, all’estremità del tavolo, usando una voce profonda e baritonale. Lo disse come se quella notizia portasse con sé qualcosa di infausto, ma subito dopo scoppiò a ridere; il nome familiare unito a quel nuovo titolo suonava davvero strano, “Lui è un tenente. E anch’io lo sono.”
+
+“E anch'io,” disse con voce acuta un piccolo ragazzo nel mezzo del gruppo; “siamo tre tenenti, infatti.”
+
+“Sì,” ruggì l’uomo dalla voce profonda, “e quando verrà il momento di nominare i capitani domani stesso, tu sarai ancora solo un tenente.”
+
+Coloro che non erano stati così favoriti risero a disagio. L’uomo cupo voleva parlare di nuovo, ma rimase in silenzio. Poi Hamard, l’amico di Boutroux del marzo precedente, disse ancora: —
+
+“Beh, Perrin… e tu sei un sergente!”
+
+“E molti uomini più anziani”, disse quell’uomo cupo, “potrebbero farti del male a causa di questo”.
+
+“Avranno abbastanza tempo per pensarci man mano che le promozioni continueranno”, disse un altro.
+
+L’uomo dal volto gentile continuò, —
+
+“Avrai i tuoi due compagni qui nel refettorio entro un’ora, e poi dobbiamo andare alle nostre stanze.”
+
+“Posso parlarle un attimo?” disse Boutroux.
+
+Si inchinarono davanti a lui in modo beffardo, e il ragazzo dal viso gentile lo portò da parte e disse: “So cosa stai per dire. Dirai che non sai nulla di questo compito. Devi fare come fanno gli altri; altrimenti presto ti troverai coinvolto anche tu.”
+
+“Ma qual è esattamente lo scopo di tutto questo?” chiese Boutroux, ancora perplesso.
+
+“Mio amico,” disse l’altro, sorridendo con quel suo triste sorriso, “presumo che tu sappia leggere e scrivere, vero?”
+
+“Certamente,” disse Boutroux.
+
+“Beh, Perrin, se mi credi, in tutta la truppa non c’è nessuno che sappia scrivere chiaramente, e solo otto persone sanno leggere; nella mensa dei tuoi sergenti scoprirai di essere l’unico in grado di trascrivere un messaggio o tenere i conti. Ecco il motivo.”
+
+“È tutto molto strano!”, disse Boutroux.
+
+“Le rivoluzioni ci sono sempre!”, disse l’altro, e se ne andò.
+
+Quella notte, sebbene la discussione fosse già iniziata tra i membri del gruppo delusi e il loro nuovo compagno, non c’era tempo per litigare. Nel momento in cui avrebbero dovuto iniziare a bere e a discutere, vennero ordinati di recarsi al municipio, dove trovarono ufficiali appena nominati, vestiti con uniformi nuove; erano i loro ex compagni, ma ora dovevano salutarli. Uomini del popolo, abituati soltanto a obbedire agli ordini dei gentiluomini. Di fronte a questi nuovi e strani ufficiali, riuscirono a malapena a trattenersi dal ridere in modo inappropriato o pronunciare oscenità tipiche delle caserme.
+
+Trovarono i nuovi sergenti di ogni tipo, selezionati improvvisamente tra le file dei soldati; inoltre, c'erano lunghe file di nuovi reclute che, per tutta la notte, venivano sottoposte a controlli per il rifornimento delle attrezzature militari e vestite nel modo migliore possibile.
+
+La mattina, dopo una notte durante la quale meno di un terzo delle truppe aveva dormito, l’intero gruppo – i nuovi ufficiali appena nominati, il personale di supporto, i reclute e le guardie – si riunì di nuovo nella piazza del mercato di Angouéme, tutti vestiti in modo appropriato, tanto da essere facilmente scambiati per soldati. Gli animali da montare erano stati affidati agli uomini più esperti, mentre i reclute dovevano cavalcare quegli vecchi, docili e sonnolenti animali che nel reggimento venivano chiamati “il Circo”.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_02" data-title="The Girondin — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/paris"></span>
@@ -5964,6 +8136,32 @@ He was so much a soldier already, was Sergeant Perrin, that he could not bear to
 
 But especially the Clubs vexed him. Oh, he knew what it was, the spouting in the Clubs! He had been through it all at Bordeaux! And that ceaseless rhodomontade and those perpetual great words of Humanity, though he only heard them reported or sounding through the open windows of the summer meetings in the halls of inns or dancing-places, disgusted him. He went on with his work: they would be sent to the frontier at last, they would be there within a month; and when they got there, well, they would be broken up and torn to pieces as “troops” of such a kind must be whenever they were met by true soldiers.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quindi, quelle truppe ausiliarie si misero in marcia, in un certo ordine, quella mattina presto. C'erano pochi civili intorno; il Commissario del Parlamento stava ancora dormendo per recuperare dalle eccessive bevande della notte precedente.
+
+Gli ussari presero la grande strada settentrionale, si fermarono a Mansle, ma proseguirono per tutto il giorno fino al luogo chiamato White Houses, notando l’urgenza con cui tutti cercavano di raggiungere Poitiers; sia durante la sosta a mezzogiorno che durante quella notturna, i reclute continuarono costantemente ad essere addestrati. Quella truppa, come tutte le altre truppe reclutate durante la Rivoluzione – formate da migliaia di uomini radunati dalle campagne e addestrati in movimento – rimase così per vent’anni.
+
+Ma Boutroux – inestimabile per le sue capacità di lettura e scrittura – si occupava delle registrazioni relative alle razzie e dei conti; a Poitiers, dove avrebbe dovuto attendere per due giorni, alloggiava nelle caserme e aveva già iniziato ad imparare il mestiere.
+
+Le caserme della cavalleria a Poitiers erano spaziose, e lo erano ancora di più per consentire il trasferimento dei soldati verso la frontiera. Incluso il distaccamento arrivato dal sud, nel complesso non c'erano nemmeno ottocento sciabole, sebbene gli edifici fossero progettati per accogliere un intero brigata.
+
+L'intero reggimento era lì, insieme a un gruppo di soldati britannici feriti; c'erano cinquanta o sessanta di questi mercenari stranieri, con quelle loro teste bionde e vuote, leggermente spaventati dalla tempesta che imperversava intorno a loro, ma ben consapevoli del fatto che il popolo aveva iniziato a odiare individui del genere. Questi poveri ragazzi si rifugiavano nei baraccamenti per la propria sicurezza, tra le derisioni – e cose ancora peggiori – del reggimento francese. I loro ufficiali avevano passato dalla parte del nemico mesi prima; quasi tutti i loro compagni erano scomparsi a causa della rivolta, dell’emigrazione o di malattie lontano, sulla frontiera. Solo loro, inviati in una missione locale, rimanevano isolati qui, nel cuore del paese, a Poitiers, terrorizzati. Erano persino felici di svolgere quel lavoro pesante che i loro compagni francesi li costringevano a fare, riducendoli quasi in schiavitù. Non osavano nemmeno entrare in città: la situazione lì era estremamente tesa. Situata proprio ai confini delle zone realiste, il comune e i suoi cittadini più attivi dimostravano un fanatismo esagerato per la Rivoluzione e per il Nuovo Mondo.
+
+Qui, a Poitiers, gli uomini che erano appena arrivati dal sud ascoltarono per la prima volta tutta la storia nei dettagli: come il Tiranno e la donna austriaca, sua moglie, nonché il piccolo cucciolo di lupo, loro figlio, fossero tenuti prigionieri nel Tempio; come i traditori e gli aristocratici fossero stati arrestati a [[Paris|Parigi]]; come ora il Popolo fosse al potere. Sentirono dire che le truppe al confine erano piene di volontari; sentirono parlare di sospetti di tradimento e dei nomi degli ufficiali generali maledetti da tutti – in particolare quello di Lafayette, un vero traditore – e ci furono molti soldati che suggerirono ai loro compagni che fosse arrivato il momento di eliminare completamente gli ufficiali, soprattutto quei nuovi venuti estratti dalle file dei semplici soldati, che tutta la cavalleria disprezzava; ma, stranamente, i soldati si resero conto che, con una libertà così ampliata, la disciplina era più rigida che mai. Un uomo ubriaco che aveva detto qualcosa di troppo fu legato per tutta la giornata, a scopo esemplare, alle porte del quartier generale; gli altri, quindi, iniziarono a lamentarsi meno rumorosamente.
+
+Nel frattempo, Boutroux, sotto il nome di Perrin, nella stanza del Capitano lavorava ai suoi libri e, ogni volta che ne aveva l’opportunità, partecipava alle esercitazioni. Boutroux era il Sergente Perrin, e il Sergente Perrin lavorava molto più duramente di qualsiasi altro soldato; lavorava venti volte di più rispetto a qualsiasi nuovo cavaliere dell’esercito. Era assiduo. Ma, immerso com’era nel suo lavoro, l’enorme fantasia legata a tutto ciò lo colpiva sempre di più con ogni nuovo giorno; e di notte, dopo aver bevuto con gli altri, a volte restava sveglio, meravigliandosi di questo “espediente” per formare un esercito: uomini istruiti, e lui aveva letto, forse, troppo, non potevano crederci.
+
+Un colonnello che solo una settimana prima era ancora capitano. Gli ufficiali subalterni furono radunati all’istante da ogni parte; la maggior parte di loro era ancora sotto l’influenza dei discorsi tenuti nelle caserme e del modo di comportarsi tipico delle truppe. Le file erano ridotte di almeno un terzo, ma quel terzo fu comunque riempito con contadini costretti a lasciare le proprie terre, sciocchi funzionari nazionalisti, ragazzi scappati di casa e vagabondi che chiedevano solo cibo. Tutti questi, in modo grottesco, indossavano l’uniforme regolare dei soldati. C’era una frenesia disperata: ore e ore di addestramento intensivo, nel tentativo di trasformare quel miscuglio di persone in un vero esercito. Lui non riusciva a crederci.
+
+L’entusiasmo della città alimentava il suo cinismo: tutte quelle chiacchiere sulla Rivoluzione, con cui aveva scherzato a Bordeaux, gli sembravano, osservandole da vicino tra la gente comune, qualcosa di senza speranza.
+
+C'erano bandiere nere appese per simboleggiare il pericolo nazionale; lunghi striscioni tricolori pendevano dai tetti e dalle finestre come segno della determinazione del popolo. Di tanto in tanto, per le strade passavano processioni di donne e ragazzi che gridavano contro l’invasione; inoltre, nelle poche ore in cui era stato in quel luogo, due volte la casa di persone designate come bersaglio della vendetta fu distrutta, perché considerate simpatizzanti del Re e degli austriaci. Era una follia.
+
+Era già così un vero soldato, il sergente Perrin, che non riusciva a sopportare l’idea di vedere quelle due armi posizionate in modo stupido e permanente nella piazza della città, con dei civili vestiti da artiglieri (volontari travestiti per uno spettacolo) che se ne stavano lì accanto, per due ore di fila, con le fiammiferi in mano.
+
+Ma soprattutto i Club lo infastidivano. Oh, sapeva bene di cosa si trattasse: quei discorsi incessanti nei Club! L’aveva già sperimentato tutto a Bordeaux. E quelle continue chiacchiere vuote, quelle parole grandiose sulla “umanità”, anche se le sentiva solo raccontare o provenire dalle finestre aperte durante le riunioni estive nelle locande o nei locali da ballo, lo disgustavano. Continuava comunque il suo lavoro: alla fine quegli uomini sarebbero stati inviati al confine, e ci sarebbero arrivati entro un mese. E una volta lì, beh, sarebbero stati distrutti e spazzati via, come deve accadere a “truppe” del genere ogni volta che incontrano veri soldati.
 
 
 
@@ -6014,6 +8212,52 @@ Boutroux looked very grave. “Not of ours?” he said.
 
 “A man of such power,” murmured Boutroux, “could hardly remain hidden. He must be a very master of men! Was he young or old?”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+C'era una cosa che era reale per lui, un amico in questo affrettato cammino di esilio e di nascondimento. Aveva un cavallo, il suo stesso cavallo: un cavallo bianco chiamato Pascal.
+
+Gliel'avevano dato in occasione della sua promozione, ma non valeva nulla, era vecchio. Da dove provenisse – se fosse stato allevato da un contadino della Vandea, se fosse stato acquistato o ottenuto attraverso altri mezzi, o semplicemente vecchio dopo anni di servizio – Boutroux non lo sapeva.
+
+Questo cavallo divenne suo amico e con cui si abituò a convivere. Per tutto il resto, durante quel viaggio affrettato verso nord, però, continuava a chiedersi cosa sarebbe successo.
+
+Si meravigliava che i Realisti facessero così poco clamore. Era stato cresciuto in una famiglia dal punto di vista maschile filosofica, da quello femminile rigorosamente clericale, ma le amicizie e le relazioni all’interno della sua famiglia erano tutte rispettabili. Aveva immaginato – come fanno spesso gli uomini ricchi, soprattutto i giovani ricchi – che un tale ambiente fosse tipico di tutto il mondo; e invece, almeno a Poitiers, sembrava essere completamente scomparso. Dove erano finiti quegli uomini che, prima della rivolta, erano pronti a morire per il Re, per la religione e per tutto ciò che rappresentava la Francia? La seconda notte dopo il suo arrivo a Poitiers, iniziò ad avere un’idea di dove fossero.
+
+C'era una caffetteria sulla cima di quella cittadina collinare, vicino allo spazio aperto chiamato Place d’Armes; si trovava tra la cattedrale e il municipio, e anche in quei tempi, lì si poteva trovare un po' di riposo e tranquillità.
+
+Pochi lo frequentavano; per lo più uomini anziani e clienti abituali. Boutroux vi trovava rifugio, ma con cautela. Non gli piaceva lasciare i suoi compagni nemmeno per un’ora al giorno, e il bisogno di imparare il proprio mestiere gli occupava tutto il tempo. Tuttavia, sedersi in quel caffè per qualche momento alla sera, quando aveva del tempo libero, era per lui una vera benedizione. Quella seconda sera, mentre leggeva distrattamente un giornale proveniente da [[Paris|Parigi]] – un giornale che si opponeva con forza al nuovo ordine delle cose e esprimeva apertamente tale opposizione – mentre beveva vino, si accorse che qualcuno si era seduto di fronte a lui e lo stava osservando attentamente.
+
+La spada di Boutroux era appesa a un gancio dietro di lui; indossava il suo berretto e aveva anche mantenuto i guanti alle mani: era completamente in uniforme, quindi non aveva nulla da temere, anche se lo sconosciuto fosse stato qualche autorità in abiti tradizionali; ma presto scoprì che doveva affrontare problemi ben più gravi di quelli legati al reggimento stesso.
+
+Lo sconosciuto posò la sua mano destra sul tavolo, chiese del vino da solo e, dopo averlo fatto, gettò un’occhiata rapida a Boutroux e disse: —
+
+“Sta leggendo le notizie di [[Paris|Parigi]], signore?”
+
+Boutroux alzò lo sguardo e vide la mano del estraneo stringersi rapidamente, per poi aprirsi e rivelare un portagioielli con un ritratto sopra. Era il ritratto di un uomo grasso, piuttosto sciocco, con gli occhi spalancati e indossante un cappotto blu; sul portagioielli era stampata una fiore di lisandro. La mano si chiuse di nuovo velocemente. L’estraneo alzò lo sguardo verso un angolo del soffitto con noncuranza e mormorò: “Capisci?”
+
+“Perfettamente,” disse Boutroux, che in realtà non capiva nulla; ma aveva imparato, almeno per quel momento, a non abbassare la guardia. Studiava attentamente lo sconosciuto con sguardi rapidi e impercettibili, lanciandogli occhiate fugaci mentre fingeva di continuare a leggere. Lo sconosciuto indossava un lungo mantello scuro fissato al collo con una spilla; portava pantaloni stretti sotto la caviglia, e sotto di essi si intravedeva la forma di stivali da cavaliere. Il suo viso era magro, allungato, simile a un’ascia; gli occhi erano incassati, arcuati e tristi. In testa aveva un vecchio cappello di feltro piuttosto logoro, posizionato in un angolo aggressivo. Poteva essere un uomo appartenente al mondo teatrale o a qualche fiera. Ma Boutroux lo giudicò correttamente: che fosse pazzo o sano, era senz’altro un [[Rebel|ribelle]].
+
+Aprì di nuovo la mano con lo stesso gesto brusco, ma questa volta la tenne aperta per un po' più a lungo, in modo che Boutroux potesse vedere la miniature che conteneva. Mentre lo faceva, il suo viso aveva un'espressione quasi religiosa. Non era del tutto sano di mente.
+
+In situazioni così imbarazzanti, bisogna prendere una decisione in fretta, e Boutroux lo fece.
+
+“Hai un ritratto del Re,” disse semplicemente.
+
+“Sì,” disse lo sconosciuto con reverenza e a voce bassa. “Voi meritate la nostra stima; chiamate lui per nome. Sergente, da ciò che state leggendo, si può fidare di voi.”
+
+“Sono sempre stato creduto,” disse Boutroux con piacere, posando il foglio e guardando attentamente il suo compagno. “Grazie a Dio, nessuno nella mia vita mi ha mai sospettato di nulla. Ho sempre adempiuto al mio dovere di soldato, da quando, da bambino, fui adottato da questo reggimento in cui serviva mio padre. Ma sono sempre disposto ad ascoltare.”
+
+Lo sconosciuto sembrava preoccupato. “Non vorrei mai compromettere nessuno,” disse lentamente, “ma alcuni di noi sono decisi ad infliggere una punizione giusta a chi ha commesso tradimento.”
+
+Boutroux sembrava molto serio. “Non è uno dei nostri?” disse.
+
+“Sì, è tuo,” disse lo sconosciuto con fermezza. “La notizia ci è stata inviata da Bordeaux dall’Associazione Centrale. Hanno rintracciato lui. Mi dispiace molto, ma appartiene al tuo corpo.”
+
+“Chi è ‘lui’?”, disse Boutroux con gli occhi spalancati. “Cosa c’entro io in tutto questo?”
+
+“Niente,” disse lo sconosciuto brevemente, “tranne che adempiere al proprio dovere, come vi vantate di fare. Il vostro Re è prigioniero, ma forse ancora potrà essere vendicato. A Bordeaux,” continuò lo sconosciuto, incrociando le gambe e guardando con maggiore indifferenza che mai l’angolo del soffitto, “un uomo di cui molti di noi si fidavano – almeno, l’amico di molti di noi – ha tradito la causa. Si è unito segretamente ai Giacobini, li ha sollevati contro la sua stessa famiglia. È una cosa orribile da dire, ma l’ha fatto davvero; suo zio e tutore, che si erano affezionati a lui, sono stati arrestati e ora sono in prigione. Lui stesso era già fuggito, il 10 agosto, saggiamente. Ma la plebaglia era stata avvertita da lui. È a causa della sua tradizione che i Ribelli hanno avuto il tempo di controllare i moli di Bordeaux, e che, quando le notizie della rivolta sono arrivate da [[Paris|Parigi]], hanno potuto prendere in mano tutto il traffico navale. Quell’uomo,” concluse semplicemente e decisamente, “deve morire.”
+
+“Un uomo con tale potere,” mormorò Boutroux, “dovrebbe essere difficile che rimanga nascosto. Deve essere davvero un grande maestro nell’arte di manipolare le persone. Era giovane o anziano?”
 
 
 
@@ -6068,6 +8312,56 @@ Boutroux, as he went back to barracks, considered. “You are a more important m
 
 And having so considered the situation, he saluted the guard at the gate and went in, to lie upon his bed as he was, booted and spurred.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Molto giovane”, disse lo sconosciuto con tristezza, “solo un ragazzo… appena maggiorenne”.
+
+“Tut, tut,” disse Boutroux, “quanti poteri non rivelano le rivoluzioni!”
+
+“Comunque sia,” disse lo sconosciuto interrompendolo, “è nel tuo reggimento.”
+
+“Mi dispiace molto sentirlo dire,” disse Boutroux; “avrà una promozione; uomini del genere lo fanno sempre.”
+
+“Possiamo fermarlo prima,” disse l’altro con fermezza. “L’ho detto prima e lo dico di nuovo: se non riusciamo a salvare l’Altare o la Corona, possiamo almeno vendicarli.”
+
+“Certamente!” disse Boutroux con gentilezza, chiamando qualcuno per far portare altro vino e offrendolo allo sconosciuto. “Come si chiamava?”
+
+L’uomo avvolto nel mantello tirò fuori un taccuino e lesse quanto segue: —
+
+“Nome: Boutroux, Georges. Probabilmente utilizza un pseudonimo. Porta una carrozza dall’aspetto imponente; ha una voce alta e affettata. È loquace. Sa cavalcare; se arruolato, probabilmente in un reggimento di cavalleria. Le sue tracce si perdono dopo Chiersac. Melchior ne ha parlato nei quartieri della cavalleria a Poitiers. Questo è successo ieri,” disse lo sconosciuto con tristezza. “Povero Melchior. È stato portato via ieri a [[Paris|Parigi]] su qualche accusa inventata da questi individui malvagi.”
+
+Boutroux annuì e ringraziò Dio nel suo cuore.
+
+“Vorrei che fosse qui, perché conosceva il volto del traditore.”
+
+Boutroux cercò rapidamente nella sua mente il nome di qualche compagno realista di Bordeaux che potesse conoscere Poitiers. All’improvviso se ne ricordò uno.
+
+“Questo Melchior,” disse, guardando l’altro fissamente, “si chiamava Sarrant di cognome, giusto?”
+
+Lo sconosciuto si girò indietro con lo stesso sguardo fermo.
+
+“Non te lo dirò,” disse.
+
+“Non è necessario,” disse Boutroux con noncuranza, “ma lui è venuto nei dintorni della caserma e ha notato il tuo uomo. Mi ha detto il suo nome nel caso avessi dovuto contattarlo.”
+
+“L’ha fatto davvero!” disse lo sconosciuto con gioia. “Povero Melchior. L’hai visto? Gli hai preso la mano?”
+
+“Sì, signore,” disse Boutroux, con la voce rotta dall’emozione. “Lo tenevo per entrambe le mani; era un uomo onesto!”
+
+“Ora so che ci servirai!” disse con entusiasmo quello alto dal viso squadrato. “Puoi portarmi subito alle tue caserme? Adesso stesso?”
+
+Boutroux rifletté per un momento. “È meglio che aspetti,” disse, “fino a domani mattina alle dieci, circa un’ora prima che cambiamo turno di guardia. Se vieni allora, darò ordine di far uscire quell’uomo per incontrarti, come se fosse un parente. Puoi portarlo via, e dopo sarà tutto nelle tue mani.” Si avvicinò e sussurrò all’orecchio dello straniero: “Molti di noi sono dalla tua parte.” Poi scrisse su un pezzo di carta: “La persona incaricata degli ordini del colonnello chiede di vedere suo nipote.”
+
+“Queste saranno le uniche parole che dovrai dire,” disse, “ma devi dirle esattamente così.”
+
+Lo sconosciuto annuì in modo misterioso, e poi si separarono come amici.
+
+Boutroux, mentre tornava al quartier generale, rifletteva: “Sei una persona molto più importante di quanto avessi immaginato, Georges. Sembra che tu sia diventato una leggenda a Bordeaux. I realisti ti stanno dando la caccia seriamente; e se loro, allora probabilmente anche i giacobini. È stata colpa tua, Boutroux, per essere nato nipote di un uomo così ricco. E ora ho sentito che è in prigione. Mi dispiace, anche se forse sarei felice se anche mia zia fosse lì. Sei davvero una persona importante, Boutroux, ” Mentre attraversava la vasta Piazza d’Armes, con il fodero della spada appeso al braccio per evitare che strascicasse sul terreno, fissava il suolo sotto i suoi piedi.
+
+“Hai fama, Boutroux,” continuò a dire tra sé, “e puoi vedere da solo se ti piace o no. I realisti ti stanno cercando, e sicuramente anche i giacobini. E per quanto riguarda le autorità, la polizia, quei funzionari, se sono ancora vivi dopo gli eventi degli ultimi giorni, beh, per pura decenza dovrebbero essere a tua ricerca, visto che hai ucciso un uomo. Poi c’è la sua famiglia,” ricordò mentre si avvicinava alle porte del caserma; “c’è la donna del chiosco del caffè, sua madre, il prete nello scantinato. E poi lei, che ballava a Libourne. Ma, ” disse, alzando lo sguardo verso le stelle mentre si avvicinava alla porta, “Miltiade non c’è più. Almeno, non entro un raggio di miglia.”
+
+E dopo aver così valutato la situazione, salutò la guardia alla porta ed entrò, per coricarsi nel suo letto, con gli stivali ancora indossati e le staffe ancora attaccate.
 
 
 
@@ -6149,6 +8443,82 @@ His companion, who understood no more of this than of so much Greek, smiled larg
 They turned off the narrow street into a still narrower court, at the end of which was a green wooden door with elaborate old hinges of beaten iron, and above the coping of the high wall on either side of which appeared garden trees. Some fifteen yards within the garden a small house stood. The faded green shutters were closed against the August sun, and there was no sound of movement within.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIV.
+
+Si dimostra come sia vantaggioso, per un tedesco che si dedica alle arti marziali, conoscere la lingua francese.
+
+La mattina seguente, all’alba, dopo che i nomi erano stati chiamati e i cavalli avevano ricevuto il loro cibo, Boutroux mandò a chiamare il caporale della guardia dalla sua stanza.
+
+“Un gentiluomo arriverà un’ora prima del cambio della guardia,” disse, “e dirà di avere un ordine dal colonnello per incontrare una persona nel reggimento.”
+
+“Sì, sergente,” disse il caporale.
+
+“L’uomo che desidera incontrare”, disse tranquillamente Boutroux, “è il Maestro dell’Allemanico Reale.”
+
+“È nelle celle, sergente,” disse il caporale con rigidezza.
+
+“Allora,” disse Boutroux senza battere ciglio, “l’uomo che vuole vedere non è Meister, ma Fritz.”
+
+“Sì, sergente,” disse il caporale con un'espressione indifferente. Tornò attraverso il cortile verso la caserma della guardia, ma Boutroux aprì la finestra e lo chiamò: —
+
+“E se Fritz è morto, allora un altro tedesco. E se quell’altro si trova in ospedale, allora qualsiasi altro. Basta che gli dia una pistola tedesca.”
+
+“Sì, sergente,” disse il caporale salutando, perché in quel corpo militare è consuetudine che ogni grado saluti il grado superiore, e non solo gli ufficiali.
+
+La mattina seguente, poco prima che suonassero le dieci, Boutroux, con le braccia incrociate sul davanzale di una finestra, osservò con grande gioia l’arrivo di quel straniero avvolto nel mantello. La sua alta figura si profilava sulla Piazza d’Armes, camminando con passo maestoso; il suo volto magro e fanatico era deciso e pieno di determinazione. Si avvicinò alla guardia.
+
+“Il gentiluomo che ha ottenuto il permesso dal colonnello per incontrare uno dei soldati,” disse in tono rigido.
+
+Boutroux uscì immediatamente e, insieme al caporale della guardia, portò via il tedesco. Il tedesco era spaventato; conosceva poco francese; pensava che gli stessero giocando un altro scherzo, e aveva ragione. Ma Boutroux lo confortò con gentilezza.
+
+“Quel gentiluomo,” disse, indicando la figura incappucciata fuori, “desidera parlarti. Qualunque cosa accada, mantieni l’onore del tuo reggimento, perché ne è rimasto molto poco, intendo dire del tuo reggimento.” Poi consegnò Fritz al forestiero, che lo esaminò da capo a piedi con uno sguardo terribile. Boutroux si avviò verso di loro con passo tranquillo.
+
+“Ecco il suo amico, signore,” disse, “ma il suo lavoro ricomincia tra mezz’ora, e vorremmo che tornasse indietro.”
+
+“Lasciatelo a me,” disse lo sconosciuto con un'eccessiva cortesia, “lasciatelo a me, Sergente” — e se ne andarono insieme; il tedesco era infinitamente felice di poter uscire dalle sue stanze e di accompagnare un gentiluomo così distinto in una commissione.
+
+Mentre i due camminavano insieme attraverso la piazza del mercato, Boutroux chiamò un piccolo parigino, basso di statura e dall’andatura particolarmente arrogante; chiamandolo con il nome più offensivo che gli venisse in mente in quel momento, gli chiese se volesse passare un’ora in città.
+
+“Il suo sguardo si illuminò. ‘D’ora fino alle cinque sarò negli stalli, Sergente.’”
+
+“Ti lascerò andare,” disse Boutroux.
+
+L’uomo, ancora fermo immobile, rispose con un po’ di esitazione: “Ma, Sergente, è stato il Sergente Maurat a dirmelo.”
+
+“Lasciate stare il sergente Maurat,” disse Boutroux; “me ne occuperò io. Ci sarà un servizio reggimentale stasera,” aggiunse in modo misterioso, “e vi ho scelto proprio per la vostra intelligenza.” L’uomo di Parigi ne fu compiaciuto.
+
+“E posso anche dirvi,” aggiunse, “che, che siate intelligenti o meno, tra sessanta secondi non sarete più utili a nulla; e se ci mettete di più, molto probabilmente finirete per perdervi nell’impresa a cui verrete inviati.”
+
+Il parigino si chiese cosa fare, ma rispose soltanto: “Non sono vestito in modo adatto per superare la guardia”.
+
+“Lo farò,” disse Boutroux in silenzio. Camminò insieme all’uomo oltre la guardia, fino alla piazza aperta, e annuì al sergente di guardia come per dire: “Questo è un messaggio”, e nessuno li fermò.
+
+Il tedesco e la sua alta e romantica catturatrice avevano ormai quasi raggiunto l’estremità opposta di Place d’Armes e si trovavano all’ingresso di una stretta strada che conduceva fuori dalla piazza, verso il ripido versante settentrionale della città.
+
+“Vedi quei due?” chiese Boutroux.
+
+“Sì, Sergente,” disse il parigino.
+
+“Bene, tutto quello che devi fare è scoprire dove vanno. Non appena li vedrai entrare in una casa, non uscire più da lì; e se il Royal Allemand non esce entro mezz’ora, torna subito da me a riferirmelo.”
+
+Il parigino stava per chiedere se ci fossero ordini scritti; ma essendo un parigino, cambiò idea e si avviò rapidamente attraverso la piazza, tenendo la spada sotto il braccio e accelerando il passo. Presto si trovò a pochi metri di distanza dai suoi inseguitori: poté rallentare per osservarne i movimenti in modo più discreto.
+
+Nel frattempo, il alto realista, che aveva giurato di vendicare la sua causa, e il tedesco, con quel sorriso felice di liberazione e di un’ora di libertà sul viso, iniziarono a fraintendersi a vicenda.
+
+Mentre attraversavano ancora la Place d’Armes, l’uomo anziano, il civile, non disse nulla; il giovane tedesco si limitò ad esprimere in francese stentato, con tre o quattro parole ripetute continuamente, quanto fosse felice di essere stato scelto per svolgere un compito in città e quanto fosse pronto a adempiervi, qualunque esso fosse. I suoi occhi onesti e spenti, insieme al suo viso grassoccio e pallido, riflettevano una grande gioia. L’altro non rispose nulla, se non una volta mormorando che i travestimenti erano inutili. Il tedesco, un po’ preoccupato da tale rimprovero, proseguì verso l’ingresso della strada stretta. Una volta entrati, il suo guida gli disse: —
+
+“Vi avverto su una cosa: sarà meglio rispondere in modo semplice e onesto, perché qualunque sia la nostra decisione, la verità vi salverà, mentre la menzogna vi distruggerà.”
+
+Il suo compagno, che non capiva di tutto questo più di quanto capisse del greco, sorrise ampiamente e disse “Zo”, aggiungendo il titolo “Capitano”, il quale per lui rappresentava il massimo complimento. Il realista lo guardò di nuovo rapidamente.
+
+“Stai iniziando male!”, disse bruscamente. Il tedesco annuì allegramente. “Zo!”, disse di nuovo.
+
+“Beh,” disse il suo compagno, stringendo le labbra, “puoi prenderti gioco di me ora e devo sopportarlo; ma non durerà a lungo!”
+
+Lasciarono quella strada stretta per entrare in un cortile ancora più ristretto; alla fine di esso c'era una porta di legno verde con elaborate serrature di ferro battuto. Sopra la sommità del muro alto, su entrambi i lati, si vedevano alberi da giardino. A circa quindici metri all’interno del giardino sorgeva una piccola casa; le persiane verdi sbiadite erano chiuse per proteggere l’interno dal sole di agosto, e non si sentiva alcun rumore provenire dall’interno.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_02" data-title="The Girondin — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/trickster,concept/deception,concept/popular_revolution,form/historical_novel,histref/the_french_revolution,setting/france"></span>
@@ -6200,6 +8570,54 @@ The woman, without waiting for the onslaught that might possibly follow, had beg
 
 They applauded without any more notion of what he meant than had he himself. He went to the door, tried it, found it shut, and banged at it with the hilt of his sabre. From within, the loud protests of the German, who seemed from the sound of his voice to be near some door or window of the house, and half outside it, and who was scuffling desperately, reached them. Then did the Parisian rise to the height of his genius.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il parigino, dopo che i due erano entrati nel cortile, spiò con attenzione da dietro l’angolo e li vide entrare; vide l’uomo più anziano aprire la porta del giardino con una chiave e far segno al suo compagno di seguirlo. La porta si richiuse alle loro spalle e non ci fu più alcun rumore.
+
+Il parigino pensò che un uomo fermo immobile in uniforme, che osservasse una particolare porta all’estremità di un cortile, in una città del genere e in un momento del genere, avrebbe avuto molte difficoltà a spiegarsi se qualcuno tra le varie fazioni presenti avesse motivo di sospettarlo. Avrebbe potuto essere interrogato da uno spia della polizia, da un membro casuale del Club Giacobino, o da un cittadino comune in cerca di avventure e diffidente verso tutti, come erano quei cittadini in quel momento. Essendo parigino, pensò rapidamente e prese subito una decisione: valutò il rischio di avere una discussione con il proprio capitano in caserma – o persino con il proprio sergente – contro il rischio di scontrarsi con dei civili in un momento in cui tutto il mondo era in guerra. E decise, con piena ragionevolezza, che in caso di necessità avrebbe preferito affrontare i civili. In quel periodo, non c’era quasi nessun posto sicuro se non nell’esercito. Aveva “bruciato le sue navi”, o meglio: il sergente Boutroux le aveva bruciate al suo posto, uscendo dai quartieri senza autorizzazione.
+
+Si tirò giù la cinghia jugulare del suo berretto, segno distintivo dei militari in servizio; se la fissò saldamente sotto il mento; assunse un'espressione di determinazione ufficiale e solennità; sguainò la spada, la posizionò secondo le regole stabilite e iniziò a camminare avanti e indietro nel cortile con grande dignità: per dieci iarde fino al cancello del giardino, e poi di nuovo indietro per lo stesso distanza, con movimenti metodici e regolari, proprio come farebbe una sentinella.
+
+“Dio solo sa cosa sto vedendo”, pensò, “ma queste cose di certo lo rendono un uomo davvero degno”.
+
+Un'esibizione così regolare produsse il suo effetto. I suoi passi metodici e decisi non avevano ancora completato il loro terzo giro quando una finestra si aprì in una delle tre case sopra il cortile stretto, e un uomo grasso con le maniche della camicia arrotolate, un macellaio, guardò fuori e lo chiamò.
+
+“Chi è stato arrestato?”, chiese.
+
+Il cavaliere non rispose. Continuò a camminare avanti e indietro con solennità, come prima.
+
+“Non intendo fare domande imbarazzanti,” aggiunse il macellaio con tono cupo, poi rimase in silenzio per alcuni minuti, osservando la figura che andava avanti e indietro senza dire una parola. Alla fine continuò: “Ascolti bene, cittadino. Non serve fingere di non sapere nulla; noi sappiamo meglio di lei chi vive in quella casa. Se il colonnello incaricato li ha arrestati, il Popolo sarà dalla sua parte. Sono sospetti. Capisce?” Fece l’occhiolino con aria minacciosa.
+
+Il parigino, se aveva capito qualcosa, non ne diede alcun segno. Non guardò nemmeno il suo interlocutore, ma continuò a camminare avanti e indietro. Ogni volta che arrivava alla porta del giardino verde, con le sue serrature di ferro battuto, si fermava in modo teatrale, girava su se stesso, riponeva la mano nella impugnatura della sua sciabola, regolava di nuovo l’angolo e riprendeva la sua postura rigida ma marziale.
+
+“Oh, sappiamo chi sei!” disse il macellaio avvicinandosi di nuovo, “ma non c’è bisogno di nascondere nulla. Ti dico che la gente è dalla tua parte; e lo è anche del tuo colonnello. Ma se continui a tenere tutto segreto,” aggiunse con un tono minaccioso, “la gente potrebbe avere motivo di chiedersi qualcosa.”
+
+Il presunto sentinello lo allontanò senza nemmeno un cenno di riconoscimento e riprese a camminare avanti e indietro verso la porta.
+
+Si aprì un’altra finestra, e questa volta apparve la testa di una donna: aveva una voce stridula, ma quella stridulità non era rivolta al sentinello, bensì al macellaio.
+
+“Metti la testa dentro, grasso Thomas!” gridò lei. “Se ci sono scandali nella nostra strada, sarà ancora peggio per te! Sei ubriaco!”
+
+“Non sono ubriaco!”, disse il macellaio.
+
+“Sei ubriaco!” ripeté la donna, alzando la voce; “lo sei sempre entro mezzogiorno. Metti la testa dentro!”
+
+“Metti la testa dentro te stesso, vecchio ‘Mangiatore di Candele della Sacristia’,” disse il macellaio, usando quel soprannome per esprimere disprezzo sia verso le donne che verso la religione. “Mettiti a mormorare preghiere, o meglio ancora vai a prendere dell’altro vino per il prete che stai nascondendo.”
+
+“Mente!”, gridò la donna al soldato di guardia; “non credergli”.
+
+Il parigino continuava a camminare con la solita metodicità.
+
+“Non c’è nessun prete in questa casa! E per quanto riguarda il vino, ne sa più lui di noi. È un macellaio,” aggiunse come spiegazione, “e inoltre un ubriacone.”
+
+“Un ubriaco!” gridò il macellaio, ora distolto dal primo oggetto della sua curiosità, “un ubriaco, hai detto? Aspetta un attimo, ” La sua testa scomparve.
+
+La donna, senza aspettare l’attacco che avrebbe potuto seguire, aveva già iniziato a chiamare aiuto; altre finestre si aprirono nel cortile, e ci fu tutto il rumore e l’agitazione che il soldato della cavalleria aveva cercato proprio di evitare. Ma all’interno della piccola casa situata dietro il giardino iniziarono ad emergere altri suoni ancora più significativi: proteste gridate in francese stentato e con accento tedesco, insieme a osceni insulti in tedesco puro; seguirono anche ordini perentori di fare silenzio. Gli abitanti delle case erano scesi nel cortile. Ce n’erano una dozzina: il macellaio, preso dal panico, dimenticò la sua lite con la vecchia signora accanto; un uomo sosteneva di essere un tipografo e aveva bisogno di dormire; un altro gli rispose che di notte era il momento per dormire e di giorno quello per fare rivoluzione. E insieme a loro, l’intero gruppo iniziò a creare un clamore insopportabile. Quando il parigino, vedendo che la situazione stava prendendo una brutta piega, riuscì a deviare l’attenzione della folla nella direzione giusta, per lui.
+
+“Cittadini,” disse per la prima volta, “sono di servizio davanti a questa porta. La passerò, e la sicurezza dell’Esercito è nelle mani del Popolo.”
+
+Lo applaudirono senza capire affatto cosa intendesse, proprio come lui stesso non lo sapeva. Andò verso la porta, provò ad aprirla, ma era chiusa; allora iniziò a batterci contro con il pomo della sua spada. Dall’interno giunsero le sonore proteste del tedesco, che sembrava trovarsi vicino a una porta o a una finestra della casa, e che si muoveva disperatamente nel tentativo di aprirle. Fu in quel momento che il parigino dimostrò tutta la grandezza del suo genio.
 
 
 
@@ -6304,6 +8722,106 @@ Quarters were quiet again. The lieutenant went up towards stables; he saw Sergea
 
 “I am glad of it,” said Lieutenant Hamard thoughtfully; “he might have suspended you. Dismiss!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Apri!” gridò.
+
+“Chi c’è là dentro?” chiese una voce bassa, mentre allo stesso tempo l’occhio di qualcuno si posò sulla serratura.
+
+“L’Esercito!”, disse il parigino, come se avesse alle sue spalle tutti i battaglioni della difesa.
+
+In risposta a ciò, l’occhio si ritirò dalla fessura della serratura; due chiavioni furono chiusi e si sentì qualcosa di pesante essere trascinato contro la porta.
+
+Nel frattempo, le proteste dei tedeschi si erano trasformate in grida soffocate; il rumore di una lotta violenta si faceva sempre più intenso all’interno della casa. Il cavaliere, dimenticando ogni prudenza, o meglio decidendo istintivamente quale fosse la parte più sicura, si gettò dentro. Si voltò verso la folla eccitata, ormai ingrossata da nuovi arrivati che provenivano da tutte le direzioni e affluivano nel cortile, e gridò.
+
+“Cittadini, i cospiratori austriaci sono all’opera all’interno del nostro paese; devo chiamarvi tutti a combatterli!”
+
+Con queste parole, una mezza dozzina di giovani iniziarono ad aiutarlo nei suoi sforzi per sfondare la porta: non cedeva, ma grazie all’istinto rapido tipico di quel periodo, tre di loro formarono una sorta di piattaforma, appoggiando le teste contro le braccia incrociate e unite contro il muro; altri due si arrampicarono sulle loro spalle; il soldato a cavallo, riponendo la spada (essendo senz’altro il più leggero di tutti), salì ancora su di loro e, invitando gli altri a seguirlo, si calò nel giardino al di là.
+
+Quelli fuori sentirono il rumore di un attacco, le grida del soldato che colpiva non con la spada su metallo, ma su legno; uno dopo l’altro, giovani uomini si arrampicarono lungo quella “scala umana” e si gettarono nel giardino per aiutarlo.
+
+Quello che videro fu esattamente ciò che si aspettavano: il parigino stava in piedi con le spalle appoggiate a uno degli alberi del giardino; davanti a lui c'era un tavolo rovesciato e una sedia rotta; lui brandiva la spada in cerchi per mantenere uno spazio libero attorno a sé; sei civili cercavano di avvicinarsi a lui, tutti conosciuti dalla folla come realisti; un uomo in un'altra uniforme (che alla gente non era familiare) veniva trattenuto da due aggressori e lottava disperatamente; accanto alle porte c'era un servitore visibilmente agitato.
+
+Uno degli ultimi ad attraversare il muro afferrò con tale rapidità che qualsiasi ufficiale generale avrebbe potuto invidiarla la chiave della posizione: colpì il servitore nello stomaco con forza, e mentre quest’ultimo si riprendeva, aprì la porta e lasciò entrare la folla.
+
+La folla irruppe con grida e clamori; ognuno combatteva contro il proprio vicino, ma nel complesso la direzione delle ostilità era rivolta contro gli abitanti della casa. Dopo dieci secondi di lotta furiosa, i due soldati si separarono: gli occupanti realisti del giardino erano a terra, e fazzoletti e stracci di vestiti venivano utilizzati per legare loro le mani. La situazione era sotto controllo.
+
+Ancora una volta il parigino raggiunse l’apice della sua missione; disse rapidamente al tedesco, in gergo da caserma, di mettersi in formazione. Ma poiché non c’era nulla in cui mettersi in formazione, il tedesco rimase alle sue spalle, sperando nella salvezza. Lui pregò la nobile e entusiasta folla di portare con sé i loro prigionieri; alla testa di una processione che trascinava via quei realisti riluttanti, non senza colpi, attraverso la Piazza d’Armes, li condusse nei loro alloggi.
+
+Arrivato al cancello, era pronto a tenere un altro discorso: il suo successo lo aveva infatti un po' esaltato. Ma in quel momento il guardiano uscì e, con assoluta imparzialità, arrestrò l’intera folla, sia i realisti che i tedeschi. I cinquanta o più persone che accompagnavano i prigionieri, i prigionieri stessi, i tedeschi, tutti, tranne il soldato a cavallo che aveva organizzato quell’operazione, furono frettolosamente portati nella guardiola, fatti allineare sui banchi e messi sotto sorveglianza. Il sergente andò a prendere ordini, chiamando il soldato a cavallo a seguirlo.
+
+Il parigino raddrizzò di nuovo la sua sciabola e marciò al fianco del sergente, dimostrando tutta l’autorità militare che gli era propria.
+
+“Dovrai rispondere per questo”, disse brevemente il sergente.
+
+“Sono pronto,” disse il parigino.
+
+Nella stanza riservata agli ufficiali trovarono il giovane tenente appena promosso, Hamard, compagno di Boutroux durante le prime fasi della marcia.
+
+“Abbiamo prigionieri, tenente,” disse il sergente.
+
+Il giovane tenente si alzò e li accompagnò nella guardia. Lì trovò diversi cittadini che protestavano contro il loro arresto; due anziani signori, vestiti con cura, erano in condizioni pessime: uno aveva il viso insanguinato a causa di un’ascia e entrambi erano legati; anche il loro servitore era legato; e il tedesco, più ridicolo che mai.
+
+“Che cos’è tutto questo?” chiese il tenente, sorridendo.
+
+“Non lo so, signore,” disse il sergente della guardia.
+
+“Non lo sai?” disse il tenente.
+
+“No, signore; sono arrivati tutti insieme con quest’uomo” (indicò il parigino, che teneva la gola premuta contro il mento e continuava a tenere la spada pronta all’uso); “lui può raccontarvi tutto.”
+
+E il parigino raccontò.
+
+“Mio tenente,” disse, “il sergente Perrin spiegherà tutto. Per quanto mi riguarda, ho solo osservato e ho sorvegliato una porta a cui mi era stato ordinato di prestare attenzione. Mentre la sorvegliavo, ho sentito proposte contro lo Stato che verranno risposte in seguito. Non conosco né i diritti né gli errori contenuti in esse, ma ho ritenuto mio dovere portarle tutte qui.”
+
+“Pensavi fosse tuo dovere,” disse il tenente, riflettendo, con l’aria di comprendere completamente la situazione, “di portarli tutti qui. Hai fatto bene.”
+
+“Appartengono a quella fazione”, disse il macellaio; “stavano complottando contro il Popolo”.
+
+“Stavano corrompendo l’Esercito,” disse un ragazzo che non aveva ancora raggiunto l’età per portare le armi. “Sono stato io ad arrestarlo,” aggiunse, indicando con il pollice uno degli anziani realisti; quest’ultimo gli rispose che stava mentendo.
+
+Il tenente si rivolse al tedesco, che cercò di dare spiegazioni, ma il suo francese non era abbastanza buono.
+
+Il tenente mandò il sergente di guardia dal capo del distaccamento dei Royal Allemand; il capo del distaccamento arrivò. Era un uomo enorme, originario dell’Alsazia: di aspetto tedesco, ma con modi francesi. Era già sobrio, ma aveva appena smesso di dormire. La sua voce rimbombava come il tuono; il suo “esame” consistette in un lungo discorso appassionato.
+
+“Quindi hai interferito con uno dei miei uomini,” disse entrando a grandi passi. Lo gridò con indifferenza verso i civili radunati lì.
+
+“L’abbiamo salvato,” disse il macellaio.
+
+“Taci!” gridò il tedesco; il suo francese era fluido e perfetto, ma l’accento tedesco molto marcato. “Ti sei intromesso con uno dei miei uomini solo perché è straniero. È già successo in passato, e questa volta le conseguenze saranno peggiori per te! Non lo tollereremo. Non lo permetteremo! L’abbiamo già fatto con dieci di voi una settimana fa, ”
+
+Il tedesco, con umiltà, pronunciò alcune parole nella sua lingua madre, spiegando che quei bravi uomini lo avevano salvato da una morte improvvisa.
+
+“Dovrai soffrire come tutti gli altri,” urlò l’ufficiale; “eri fuori dalla tua postazione senza autorizzazione!”
+
+Hamard scivolò via, ma tornò dopo pochi momenti.
+
+“Il sergente Perrin è andato a spiegare la situazione al colonnello,” disse; “dobbiamo aspettare che torni con l’autorizzazione necessaria.” I prigionieri si muovevano avanti e indietro, le guardie vigilavano, mentre i due ufficiali camminavano su e giù fuori.
+
+Un soldato corse verso di loro dicendo: “Un caporale e quattro uomini per il colonnello, insieme ai prigionieri.”
+
+Dieci minuti dopo, il caporale e i quattro uomini condussero i loro prigionieri attraverso la piazza fino al municipio, dove avrebbero dovuto sorvegliarli in attesa dell’arrivo del magistrato. La gente non aveva dubbi che i realisti le cui case erano state assaltate sarebbero stati portati a [[Paris|Parigi]], poiché tale era l’atmosfera di quel momento.
+
+I quartieri erano di nuovo silenziosi. Il tenente si diresse verso gli stalli; vide il sergente Perrin in piedi, con lo sguardo assente, che mordicchiava una cannuccia. Mentre si avvicinava, il sergente si mise sull’attenti e salutò.
+
+“Cosa ha detto il colonnello, sergente?”
+
+“Mio tenente, ha detto che i Realisti erano degli sciocchi!”
+
+“Esatto! E cosa ha detto della folla?”
+
+“Mio tenente, ha detto che la folla era composta da sciocchi…”
+
+“Esatto! E cosa ha detto di Fritz e del tuo ussaro, visto che ti è stato visto mandare quell’ussaro, no?”
+
+“Mio tenente, ha detto che erano entrambi grandi sciocchi.”
+
+“Esatto! E cosa ha detto di te?”
+
+“Ha rinviato a un momento successivo la sua decisione, signore. Queste sono state esattamente le sue parole.”
+
+“Ne sono felice,” disse il tenente Hamard pensierosamente; “avrebbe potuto licenziarti. Congedati!”
 
 
 
@@ -6441,6 +8959,138 @@ The sergeant put it back again.
 Boutroux swivelled round and left the room. He knew he should find the leave on his table within an hour, and he did. The ostler, the Brother, came up to the gate of quarters at the fall of evening, and they went off through the town together.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XV.
+
+In cui un ostiere diventa troppo politico.
+
+Il giorno seguente, grazie al rilievo delle guardie, si seppe che i congiurati, gli austriaci, erano partiti per [[Paris|Parigi]], presso la Corte Suprema sotto scorta; la folla che li aveva catturati li congratulò e li ricompensò; l’esercito ringraziò formalmente tutti per il loro zelo. Poco dopo mezzogiorno si diffuse la notizia nelle caserme: il giorno seguente avrebbero marciato verso est, ed era una buona notizia per tutti. La formazione dell’esercito iniziava a prendere forma, anche se ancora disordinata; Poitiers, invece, stava diventando troppo politica. C’era una cosa che l’esercito odiava sopra ogni altra: la politica. Essere afferrati per il collo da donne del mercato e sentirsi dire che si era amati per opinioni che non si avevano mai espresso; oppure, quando ciò di cui si aveva più bisogno era dormire dopo una lunga giornata e bere, essere acclamati davanti a un gruppo di cantanti e sentirsi definire il baluardo della nazione. O ancora peggio: ricevere un violento colpo in un corridoio buio e essere chiamati traditori da qualcuno le cui opinioni sullo Stato non si conoscevano affatto, e che forse erano proprio d’accordo con quelle proprie. Queste erano cose che i giovani soldati non potevano sopportare.
+
+La prospettiva di prestare servizio attivo li unì e rallegrò i loro cuori; erano felici di poter partire di nuovo verso est, dove il loro mestiere di guerrieri li portava. Boutroux, per il quale ogni marcia lontano dal sud significava maggiore sicurezza, ne fu particolarmente contento; tuttavia, aveva ancora un ostacolo davanti a sé.
+
+Quel pomeriggio stesso, mentre osservava i cavalli che venivano curati nella piazza del quartier generale, un civile, un stalliere, passò lentamente di lì. Era un uomo dal viso robusto e molto sgradevole; inoltre sembrava prendersi strane libertà riguardo alle stanze, ma nessuno osava rimproverarlo. Era arrivato con qualche pretesto e aveva sussurrato qualcosa all’orecchio del sergente Boutroux; quella parola Boutroux la conosceva fin troppo bene. Avevano avuto a che fare con essa settimane o giorni prima, a Bordeaux. Quando la sentì, gli sembrò come una sentenza legale.
+
+Era la parola d’accesso del Club, quella notte in cui quell’avventura a Bordeaux aveva occupato il suo tempo libero, un tempo dedicato al lusso.
+
+Boutroux, non appena sentì quella parola, non ebbe il tempo di pensare o pianificare. Rispose con la password contraria: mormorò all’ostiere, mentre quel furfante se ne stava sdraiato lì, “La Razza Umana”. Una frase semplice, ma sufficientemente significativa. E funzionò: l’ostiere si rilassò di nuovo. Più Boutroux lo osservava da vicino, meno gli piaceva il suo aspetto.
+
+Gli uomini stavano curando i cavalli in fila; Boutroux stava lì a osservarli, chiamando ora questo ora quello che riteneva non stesse lavorando abbastanza, o un nuovo arrivato che sembrava ancora non aver imparato le procedure. Quell’ostiere civile non aveva nulla da fare lì; ma Boutroux, dopo aver sentito la parola d’ordine e aver dato la risposta corrispondente, non faceva domande. L’ostiere disse a bassa voce: —
+
+“Sergente Perrin, sappiamo chi sei.”
+
+“Non è difficile,” disse Boutroux, mantenendo anche la calma e il colore naturale del suo viso.
+
+“Devo raccontarvi la storia nel caso non vogliate aiutarci?” continuò l’ostiere con lo stesso tono, in modo che nessun altro potesse sentire, mentre fissava, proprio come il sergente, il lavoro dei uomini e la fila di cavalli.
+
+“Sono del tutto indifferente,” disse Boutroux, estraendo dalla tasca dei suoi pantaloni una piccola medaglia di piombo su cui erano incisi il triangolo e i due pilastri della Società. L’ostiere, altrettanto rapidamente, mostrò nella sua mano un simbolo simile, lo ripose subito in tasca e continuò a parlare.
+
+“Questi oggettini non sono solo utili per proteggere un uomo: a volte lo rovinano!”
+
+“Se tradisce i Fratelli,” disse Boutroux, usando la vecchia risposta rituale.
+
+L’ostiere rimase in silenzio per un momento, poi disse: “Quando portano le bestie ad abbeverarsi?”
+
+“Hanno quasi finito di prepararsi,” disse Boutroux. “Darò l’ordine tra poco. Perché?”
+
+“Perché riesco a dire ciò che devo dire meglio non appena inizia il rumore degli zoccoli.”
+
+“Oh, capisco, ” disse Boutroux, e in un attimo diede l’ordine. Gli uomini posarono i loro pettini e le loro spazzole; uno dopo l’altro diedero un ultimo carezzo ai loro animali; poi, al secondo comando, ognuno salì rapidamente sul proprio cavallo e si allontanò in fila verso i pozzi d’abbeveraggio.
+
+Il rumore degli zoccoli dei cavalli sul selciato del cortile militare era forte, e il stalliere poté dire ciò che aveva da dire con tranquillità; lo fece in breve.
+
+“Sergente Perrin,” disse l’ostiere, osservando con occhio critico la fila di cavalli che si allontanava, camminando al fianco di Boutroux mentre seguiva la cavalcata per assicurarsi che le operazioni di abbeveraggio fossero in ordine, “Sergente Perrin, gliel’ho detto: sappiamo chi è lei.”
+
+“‘Io, ’” iniziò Boutroux.
+
+L’ostiere scosse la testa con impazienza. “Quando avrò finito, vedrete se c’è davvero bisogno che parliate,” disse brutalmente. “Vostra madre vive nella grande fattoria lungo la strada principale, sul lato di Bordeaux di Chiersac. È una vecchia strega al servizio del Re e frequenta i preti.”
+
+“Non è mia madre,” disse brevemente Boutroux.
+
+“Allora, tua matrigna, ” disse l’ostiere con impazienza.
+
+“Così è meglio, maledetta lei!” rispose Boutroux in silenzio.
+
+“Appena il Tiranno fu catturato e le Tuileries furono assaltate dal popolo, un uomo che si era nascosto nel bosco venne a casa vostra, e tua madre lo accolse.”
+
+“Esatto,” disse Boutroux, iniziando a intravedere la luce alla fine del tunnel.
+
+“Tu, Sergente Perrin, volevi arruolarti, ma avevi bisogno che qualcuno riportasse indietro il cavallo. E quel qualcuno era l’uomo che tua matrigna nascondeva.”
+
+“È assolutamente vero,” disse Boutroux con fermezza.
+
+“Tornò indietro con il carretto, e quella sera tu pronunciasti il giuramento.”
+
+“Lo ho fatto,” disse Boutroux.
+
+“I Fratelli di Bordeaux,” continuò l’ostiere con voce più bassa e grave, “ci hanno inviato questo rapporto; ciò che vi viene chiesto di rispondere sotto giuramento è questo: dove si trova quell’uomo e come possiamo catturarlo.”
+
+Boutroux ci pensò un momento. Il contadino Perrin che lo aveva accompagnato faceva parte della Società. Questo era chiaro. Era affiliato alla Società, nonostante sua madre; e la Società credeva davvero che fosse quel semplice contadino. Molto altro era anche chiaro: la Società voleva Boutroux, per ucciderlo. Boutroux lo sapeva. L’ultimo cavallo fu abbeverato a sua volta; il corteo tornò rumorosamente verso gli stalli. Boutroux li seguì lentamente, mentre l’ostiere lo osservava con attenzione, sia con gli occhi che con la mente.
+
+“Non mi importa cosa succede a quell’uomo,” disse finalmente Boutroux, con un tono amaro nella voce. “Darò ogni tipo di aiuto.”
+
+“Certo che lo farai,” disse seriamente l’ostiere; “ma sarai ancora più disposto a farlo quando ti dirò cosa ha fatto.”
+
+“Cosa ha fatto?” chiese Boutroux.
+
+“Ha tradito il Club a Bordeaux e ha ucciso un uomo per motivi legati alle fazioni interne, uno dei suoi stessi fratelli della Società.”
+
+“Davvero lo ha fatto, per Dio!” disse Boutroux.
+
+“Sì, per Dio!” rispose l’ostiere. “Quella notte accaddero molte cose che nessuno riusciva a comprendere. Quell’uomo si chiamava Boutroux; partecipò a una riunione della Società; era tra i Fratelli e la Sezione, è tutto uno stesso insieme, e cercò di corrompere suo zio.”
+
+“Hanno preso i suoi soldi?” chiese Boutroux con dolcezza.
+
+L’ostiere sputò. “Non lo so e non mi interessa,” disse, “ma comunque l’Esecutivo ha ordinato che la casa dello zio venisse sorvegliata; quella notte vi si era tenuto un incontro dei traditori. Quando Boutroux scoprì che questa informazione era nota, uccise il guardiano. All’inizio pensavamo che si nascondesse nella casa dello zio, ma non era così. Ne siamo sicuri, Sergente.”
+
+“Come?” disse Boutroux.
+
+“Beh,” disse l’ostiere ridendo, “il rapporto dice che quel vecchio è in prigione; la gente ha perquisito tutta la casa, potete crederci. Oggi è vuota come un fienile.”
+
+Boutroux stava per dire: “E dove è quella vecchia signora?”, ma si trattenne e modificò le parole: “E dove sono quelle cose che vuoi che io faccia?”. Mentre lo diceva, pensò a quella casa familiare: spogliata, saccheggiata, devastata. Forse il vecchio Nicholas era morto, o più probabilmente se n’era andato; forse c’era il fuoco sulle pareti della sua stessa stanza, e i grandi saloni di pietra erano completamente deserti; le alte vetrate delle finestre erano rotte, le strutture in ferro delle lanterne dorate erano contorte, e le porte intagliate in quercia erano sfondate. Sentì il sapore del proprio esilio. E, mentre ci pensava, non provava alcun affetto né per quella vecchia strega ai bordi della strada né per suo figlio.
+
+“Te l’avevo detto,” disse brevemente l’ostiere, “che devi dirci dove si trova quell’uomo; perché tu sai, ” aggiunse, con voce minacciosa.
+
+I cavalli erano nelle stalle; gli uomini erano tornati alle loro baracche, avendo terminato il loro lavoro; i custodi delle stalle stavano facendo il giro, gettando il fieno nei mangimi. Boutroux posò una mano sulla spalla del stalliere con più forza di quanto a quel civile piacesse.
+
+“Fratello, come-si-chiama”, disse, “non devo rendere conto a te, ma alla Società. Si riuniscono stasera? Se sì, dimmi dove o portami lì.”
+
+“Hai il permesso di uscire di notte?”, disse l’ostiere, “ne avrai bisogno.”
+
+“Cercherò di ottenerlo”, rispose Boutroux. “Probabilmente dovrò tornare entro mezzanotte”.
+
+Prese appuntamento con il giacobino per incontrarlo alla porta quella sera, e con quell’appuntamento in mente andò a chiedere permesso di assentarsi.
+
+Spettava al tenente Hamard il compito di concedere le licenze alla truppa.
+
+“Amico Perrin,” disse gentilmente non appena Boutroux entrò, “vorrei che ti mettessi sull’attenti: è più rispettoso.”
+
+E Boutroux, che già era in posizione di attenzione, si irrigidì. Il tenente lo guardò da capo a piedi.
+
+“Il tuo cappello è storto da un lato,” disse.
+
+Il sergente lo sistemò in posizione retta.
+
+“E ora,” disse il tenente, “è dall’altra parte.”
+
+Il sergente la rimise a posto.
+
+# Chi ha pulito l’elsa della tua spada?
+
+“Sì, tenente,” disse il sergente Perrin.
+
+“Quando ero sergente,” mormorò il tenente, “facevo sempre fare ai soldati quelle cose. I tempi stanno cambiando. Cosa vuoi tu?”
+
+“Permesso notturno, signore.”
+
+“Non puoi averlo: faranno l’appello prima dell’alba.”
+
+“Partenza a mezzanotte, signore.”
+
+“Se il capitano vi concederà il permesso di uscire a mezzanotte, ve lo farò inviare. Potete andare!” concluse dolcemente. Era la sua parola preferita.
+
+Boutroux si girò e lasciò la stanza. Sapeva che entro un’ora avrebbe trovato il permesso sul suo tavolo, ed effettivamente lo trovò. Alla fine della giornata, l’ostiere, il Fratello, venne alla porta della sua stanza e insieme uscirono in città.
+
 
 
 <span class="atom-split" data-atom="chapter_16--part_01" data-title="The Girondin — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/river,setting/paris"></span>
@@ -6486,6 +9136,48 @@ The flame of his speech died down to a hot ember; he let his voice sink and yet 
 
 For some minutes he detailed to them, point by point, picking one from the other with the gestures of his hands, the plot against the patriots, hatched in old Boutroux’s house; the butchery of the common people that was just discovered in time, and just failed; how its failure was only just accomplished by the news of the popular success in Paris. He had not been in the Jacobins of Bordeaux for nothing, this young man from Chiersac, and all he said was a hammered gospel to his hearers.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XVI.
+
+In cui i Fratelli dell’Uguaglianza e della Fraternità si comportano in modo estremamente irfratellino ed ingiusto; e in cui i Figli della Luce vengono crudelmente ingannati.
+
+I fratelli di Poitiers (la loro loggia aveva un nome che ho dimenticato) si erano riuniti nella sala dedicata da mille anni a San Hilario, quel vescovo antico della città; al momento, però, quella sala portava il nome di “Sala della Virtù”.
+
+Era pieno di circa trecento persone dei Fratelli di ogni rango e categoria; per lo più erano uomini della classe media della città – c'erano anche una o due donne tra loro – e all’estremità, su un podio rialzato, si trovavano la scrivania, il Presidente e i segretari, che organizzavano queste riunioni pubbliche. L’ostiere chiese a Boutroux cosa dovesse dire al Presidente.
+
+“Digli,” disse Boutroux, “che quando verrà a parlarmi di affari, se mi chiederà di incontrarlo, parlerò dell’affare di Bordeaux. La mia dichiarazione farà tutto ciò che si vuole da me.”
+
+L’ostiere lo guardò con un po’ di dubbi e andò a riferire quel messaggio agli ufficiali sul palco. Boutroux prese una sedia, si sedette lì in uniforme, le mani posate sulla impugnatura della sua spada, mentre la custodia della spada era tra le sue ginocchia. La sua determinazione era ferma; sentiva il bisogno di vendicarsi.
+
+Il Presidente era un uomo un po’ nervoso, calvo e con gli occhiali; era un medico. Iniziò la seduta con un discorso del tutto simile a quelli a cui Boutroux ormai era abituato, uno di quei discorsi che aveva ascoltato innumerevoli volte nella Società di Bordeaux. Ma c’era qualcosa di più deciso e sicuro in questo discorso: nel frattempo, la Libertà aveva conquistato terreno.
+
+Le statue di gesso che, imitando la società materna di [[Paris|Parigi]], i giacobini di Poitiers avevano collocate nella loro aula portavano tutte il cappello frigio rosso; quei bravi tessitori del Nord dell’Inghilterra ne producevano migliaia, senza distinzioni: per i carrettieri dei birrifici nel loro paese, per i repubblicani in Gallia, insomma, per chiunque fosse disposto ad acquistare quel tipo di copricapo.
+
+C'erano i busti di Mirabeau, di Priestley, di Rousseau, di Bruto, e anche i busti di altri “santi” giacobini; ognuno di loro indossava con eleganza il cappello rosso inclinato sul lato sinistro, ascoltando le parole retoriche della Libertà.
+
+Lo stesso Boutroux, durante quei dieci minuti di discorso, apprese molto di più su ciò che era accaduto a [[Paris|Parigi]] di quanto tutte le chiacchiere dei soldati, dei villaggi e delle folle nelle città gli avessero raccontato. Sentì parlare dell’assalto al palazzo, capì chi fosse ora il governo che controllava il paese. Udì il nome di Danton esaltato come ministro e uomo al potere; inoltre, ascoltò – ancora più violenta di prima, ma con un tono di autorità che tali discorsi non avevano mai avuto prima – la denuncia del tradimento.
+
+Seguirono altri discorsi, uno dopo l’altro; ci furono domande da parte dei Fratelli, alle quali gli ufficiali risposero nel miglior modo possibile; si espressero sospetti folli che vennero placati, e proposte ancora più assurde vennero ascoltate ma ignorate.
+
+Finalmente arrivò il suo turno.
+
+Il Presidente disse all’assemblea che la cospirazione a Bordeaux finalizzata all’assassinio dei patrioti alla vigilia della vittoria del Popolo a [[Paris|Parigi]] era stata scoperta; tra i cospiratori c’era anche un vero Amico del Popolo, un uomo di quella regione che avrebbe smascherato il principale traditore, avrebbe spiegato loro la natura della sua tradizione e in seguito avrebbe fornito all’esecutivo tutte le prove necessarie per trovare il colpevole e fargli subire la giusta punizione. Alla fine guardò il giovane soldato e lo chiamò sul podio.
+
+“Sergente Perrin!”, disse, presentandolo con nervosismo. “Sergente Perrin, degli ussari che stanno passando per questa città e sono diretti a punire quei re che hanno osato invadere il territorio dei liberi.”
+
+Ci furono applausi sonori, sciocchi e violenti. La vista dell’uniforme del giovane mentre saliva davanti a loro, con quell’aria trionfale che aveva appena imparato a mostrare, e la spada sotto il braccio sinistro, fece impazzire i Fratelli; le rare sorelle dei Fratelli erano ancora più sconvolte.
+
+Mentre Boutroux aspettava che quell’uragano di applausi si placasse, si chiese se avesse la capacità di parlare esattamente come desiderava. Presto scoprì, provando le sue prime parole, che la task non era al di sopra delle sue possibilità. La notte, l’entusiasmo della folla e l’atmosfera del luogo lo aiutarono molto. Dimenticò la sua famiglia nelle prigioni di Bordeaux, dimenticò la casa distrutta; all’improvviso ricordò i propri entusiasmi di due anni prima, quando da ragazzo aveva salutato la nuova libertà e si era gettato con passione nel flusso del Nuovo Mondo, lasciandosi trascinare da esso. E parlò davvero molto bene.
+
+Era un discorso degno della Gironda, modulato con quei toni profondi e crescenti che il grande [[River|fiume]] avrebbe reso famosi a Parigi, ma ancora più appassionato e convinto nelle sue idee di qualsiasi cosa i membri del Parlamento della Gironda avessero mai detto o potessero dire. Era quasi come se il battaglione di Marsiglia, quei volontari che avevano appena compiuto l’impresa e assaltato il palazzo, avessero trovato una voce attraverso le parole di quel giovane, che si era gettato con entusiasmo in quell’azione.
+
+I Fratelli lo fissavano, trecento paia di occhi immobili. L’Esecutivo si chiedeva che tipo di giacobino fosse questo giacobino di Bordeaux; invidiavano i vantaggi della sua uniforme, della sua spada e della sua giovinezza. Più tardi, ricordando quel discorso, alcuni si chiesero se Saint-Just non fosse forse arrivato tra loro sotto mentite spoglie. La visione di quella società futura quasi spinse Boutroux a superare i propri limiti, ma alla fine riuscì comunque a esporre chiaramente i propri obiettivi.
+
+La fiamma del suo discorso si ridusse a un tizzone ardente; lasciò che la sua voce si abbassasse, ma al contempo acquistasse chiarezza quando raccontò loro ciò che era accaduto nella sua città natale.
+
+Per alcuni minuti descrisse loro, punto per punto, utilizzando i gesti delle sue mani per illustrare ogni dettaglio, il complotto contro i patrioti ordito nella vecchia casa di Boutroux; l’attacco contro la gente comune che era stato scoperto in tempo e che per poco non riusciva nel suo intento; come proprio il successo popolare a Parigi avesse impedito che quel piano si realizzasse. Non era certo stato inviato dai Giacobini di Bordeaux a caso, questo giovane di Chiersac. Ogni sua parola rappresentava una verità inconfutabile per i suoi ascoltatori.
 
 
 
@@ -6572,6 +9264,88 @@ They thanked him, and he was dismissed.
 
 With which meditation he fell into a very healthy and contented sleep, and woke from it in the first hours just before dawn to the clangour of the trumpets and the rumour of all the quarters for the march.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il vecchio Boutroux, disse loro (e loro ci credettero), era un idiota. Se lo avessero fatto soffrire per quanto accaduto, avrebbero semplicemente fatto ciò che molte altre società avevano già fatto: un'ingiustizia, e un'ingiustizia sprecata, rivolta contro la persona sbagliata. Era meglio lasciarlo andare, dopo averlo multato per i motivi della nazione, e far sì che pagasse caro, disse, perché l’azienda poteva permetterselo. Madame Boutroux non avrebbe mai potuto complottare, proprio come una vecchia gallina: sarebbe stato saggio, misericordioso, e anche divertente lasciarla libera. Molti risero e applaudirono mentre lui parlava così generosamente dei suoi nemici.
+
+“Ma,” aggiunse, “ce n'erano altri. Prima di tutto” – alzò la mano per prevenire eventuali interruzioni – “che ci credessero o no, il presidente della Società di Bordeaux era l’uomo meno affidabile che esistesse. Aveva preso denaro dal giovane Boutroux; c'erano testimoni a dimostrarlo. Menzionò i testimoni, e in quel momento vide il locandiere annuire gravemente. “Quel presidente,” disse, “deve essere distrutto.”
+
+Il movimento generale che si diffuse tra la folla mentre lui parlava era un moto di sorpresa e ammirazione, ma non di contraddizione.
+
+“Ci sono testimoni,” disse di nuovo, e ripeté i loro nomi. “Non vi sto dicendo nulla di falso. Il denaro è stato pagato: mille lire intere proprio nella stessa notte in cui è stata architettata la cospirazione.” Lui era lì e aveva visto tutto accadere. “Per quanto riguarda Boutroux stesso, ” E mentre menzionava il nome del traditore, i suoi occhi si fecero severi.
+
+“Quell’uomo,” disse, “posso rivelarvi dove si trova; se siete saggi, consiglierete coloro della nostra Società che sono stati incaricati di avvicinarlo senza preavviso e di vendicarsi appieno. In questo momento si trova addirittura nella casa di mia matrigna.” Esitò per un istante. “Pensate forse i fratelli che mi manchi la virtù filiale, visto quanto amo lo Stato?”
+
+“Trecento di loro gridarono: ‘No!’”
+
+“Allora sarò un Brutus e compirò il mio dovere fino in fondo. Se fosse mia madre,” aggiunse con voce tremante, “non avrei il coraggio di farlo. Ma lei non lo è. Sposò mio padre quando ero ancora bambino; consumò tutte le sue risorse; morì maledicendola con l’ultimo respiro; per me, per la mia comunità e per i poveri, non ha fatto altro che del male. E proprio perché è una persona così spregevole, anche se in modo limitato, sarebbe disposta a tradire lo Stato deliberatamente.”
+
+Il pubblico rimase a bocca aperta.
+
+“Era una intermediaria: riceveva le lettere che arrivavano segretamente dagli amici del Tiranno; aiutava gli traditori a fuggire proprio da questo reggimento in cui servo io. Vi dico che era l’incarnazione stessa della tradizione in quella zona, e dovete trattare lei e i suoi seguaci di conseguenza. Quanto all’uomo stesso,” concluse, la voce piena di odio, “si trova in quella casa, vestito con i miei abiti, si fa chiamare suo figlio, utilizza il mio nome, Perrin, il nome di mio padre, e pensa di essere al sicuro. Aquile del Popolo! piombate improvvisamente su quel nido e distruggetelo!”
+
+E dopo aver detto questo, Boutroux se ne andò.
+
+Da quando la Società era stata fondata a Poitiers, i suoi membri non avevano fatto altro che parlare. Ora, quando finalmente dovettero agire, che dono divino fu questo giovane soldato! Dopo il suo discorso, tutti si affollarono intorno a lui; alcuni degli uomini più anziani gli tennero le mani e non vollero lasciarle andare; gli dissero che era il tipo di persona in grado di salvare uno Stato, che era un Leader, e che non avrebbe subito alcuna conseguenza per la sua audacia.
+
+Quando fu libero dai suoi adulatori, l’Esecutivo, ancora geloso di tutta quella potere proveniente da uno straniero e di un discorso che avrebbe oscurato tutti i loro, prese appunti precisi su quelle istruzioni: dove si trovava la casa, a quali ore quell’uomo poteva essere catturato più facilmente, come avrebbe utilizzato il suo falso nome e avrebbe fatto chiamare testimoni pagati (tutti conoscevano la ricchezza dei Boutroux) affinché giurassero a suo favore, mentre lui, Sergente Perrin, l’vero erede di quella famiglia, si stava spezzando la schiena come soldato e forse giaceva morto per la causa del Popolo.
+
+Dopo aver concluso i suoi affari, Boutroux uscì. L’ostiere, che poche ore prima lo aveva trattato con scarso rispetto, ora lo guardava quasi con timore. Gli chiese di accompagnarlo indietro alle caserme.
+
+“Se vuoi,” disse Boutroux.
+
+“La delegazione partirà domani,” disse, “con il treno per Angoulême e Bordeaux, e io sarò con loro.”
+
+“Beh,” disse semplicemente Boutroux, “fai il tuo dovere!”
+
+“Quel giovane avrà ciò che gli spetta,” disse l’ostiere con un tono minaccioso.
+
+“Va bene,” disse semplicemente Boutroux ancora una volta, “e lasciate che anche quella vecchia donna l’abbia. Ma per quanto riguarda quell’altro traditore a Bordeaux che era il Presidente, sicuramente potete occuparvi di lui in modo altrettanto rapido, no?”
+
+“Lo vedremo,” disse l’ostiere. “È il presidente di una società e deve parlare per conto suo, ma Boutroux lo distruggeremo,” e si separarono alle porte del quartier generale.
+
+Non appena entrò, alla guardia c'erano degli ordini e un tenente lo stava aspettando inaspettatamente.
+
+Boutroux salutò e mostrò il suo permesso per la notte.
+
+“Va bene,” disse il tenente, dando un’occhiata impaziente al documento; “non sei di Chiersac?”
+
+“Che strano modo hanno queste cose di raggrupparsi. Sì, mio tenente,” rispose ad alta voce.
+
+“Le autorità vorranno parlarti,” disse l’altro, indicando con un cenno la sala degli ufficiali di servizio. “Sono della polizia e sono appena arrivati.”
+
+“Qualsiasi cosa possa fare,” disse Boutroux con espressione cupa. Entrò nella stanza degli ufficiali e vi trovò un funzionario di Bordeaux insieme al suo segretario legale. Erano scusanti; non avrebbero trattenuto lui; non avevano molte questioni da discutere con lui. Ma non era forse originario di Chiersac? Stavano cercando un assassino comune che si era rifugiato in quella zona. Un uomo soprannominato Miltiades era stato assassinato a Bordeaux, e l’assassino era fuggito la mattina seguente; le sue tracce avevano portato a Chiersac. Avevano sentito dire che il sergente Perrin si fosse arruolato nelle vicinanze. Poteva forse aiutare la giustizia?
+
+All’inizio, il sergente Perrin non riusciva a ricordare l’omicidio; ma man mano che gli venivano forniti i dettagli, tutto divenne più chiaro e iniziò ad annuire con forza.
+
+“Sì,” disse, “ho sentito tutta la storia; l’ho saputa da un uomo di Blaye. Ma,” aggiunse, un po’ confuso, “mi sembra quasi traditore rivelartela.”
+
+“È meglio che tu racconti tutto quello che sai,” disse l’avvocato, mentre l’ufficiale tirava fuori un piccolo taccuino per prendere appunti e affilava la sua penna.
+
+“Oh, non sono affatto obbligato a dire nulla,” rispose Boutroux imbarazzato, “ma penso che un vecchio di Blaye dovesse sapere qualcosa di più di quanto fosse disposto ad ammettere; quando le persone dell’osteria l’hanno pressato, è diventato silenzioso e cupo, e alla fine se n’è andato.”
+
+“Il nome di quel testimone?” mormorò l’avvocato, pronto a prendere appunti.
+
+“Non conosco il suo nome,” disse francamente Boutroux; “so che era di Blaye, perché lui stesso lo ha detto e tutti gli altri parlavano di lui come se provenisse da quel luogo. Posso descrivervelo.”
+
+“Continua,” disse l’avvocato.
+
+Poi Boutroux descrisse con grande attenzione e dettaglio l’uomo anziano che guidava il carretto trainato da buoi. Una volta terminata la descrizione, aggiunse significativamente: “Se non riuscite a ottenere alcuna informazione da lui, dubito che possiate riuscirci da chiunque altro.”
+
+“Sareste disposto a rilasciare dichiarazioni sotto giuramento?” chiese l’avvocato.
+
+“Beh, io faccio parte dell’esercito,” disse Boutroux.
+
+“Ma potremo utilizzare le tue prove firmate e giurate una volta che avremo catturato quell’uomo anziano, vero?”
+
+“Certamente,” disse Boutroux, “certamente. Farò tutto il possibile per aiutare.”
+
+Glielo ringraziarono e poi lo congedarono.
+
+“È un peccato,” si disse Boutroux quella notte prima di addormentarsi, come se stesse pregando, “che non si possa fare la cosa giusta senza coinvolgere tante altre persone oltre a sé stesso. Ma che cosa si potrebbe fare?” pensò, mentre esalava l’ultimo sospiro profondo prima di addormentarsi. “Il proprio bene è quasi sempre la rovina di qualcun altro. E Dio sa che io non ho mai fatto del male a nessuno che abbia agito giustamente nei miei confronti.”
+
+Con quella meditazione cadde in un sonno molto profondo e sereno; si svegliò nelle prime ore, poco prima dell’alba, al suono delle trombe e al rumore generale che precedeva la partenza per la marcia.
 
 
 
@@ -6693,6 +9467,122 @@ The old man said anxiously, whispering again, “Need I stay?”
 The old man eyed him misunderstandingly, and made off. He had no love for the politics of his time, and as he went back through the darkness to his disturbed repose he loved them less than ever: “The world,” said he to himself, “is coming to an end... so it was foretold... so it was foretold. Old Stephen’s niece, whom he forced to be a nun in Orleans, foretold it.... She was right, it is the end of the world!” And so muttering, he went back homewards.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XVII.
+
+In cui un vecchio gentiluomo mostra la strada a una vecchia signora.
+
+Il reggimento marciava giorno dopo giorno, una lunga fila di cavalli dispersi nel clima estivo tardo; i nuovi reclute venivano addestrati sera dopo sera nelle piazze dei piccoli paesi.
+
+Due volte, a Loches e a Blois, ci furono diserzioni; e nelle prime ore del mattino, dopo i processi sommari, venivano fucilati plotoni interi di uomini.
+
+Anche a Blois arrivarono alcuni altri reclute, troppo tardi, si sarebbe potuto pensare, per essere utilizzati. Ma in quei tempi tutto veniva utilizzato. I cavalli da ripiego venivano prelevati dalle stalle dei contadini, con la forza e su ordine del governo; durante questi prelievi non mancavano litigi, e anche, una o due volte, spargimenti di sangue.
+
+Arrivarono a Orleans e vi rimasero per quarantotto ore negli uffici della cavalleria della città. Quel luogo monotono era ancora più pieno di voci di quanto lo fosse stato Poitiers; si avvertiva chiaramente l’influenza di [[Paris|Parigi]], e il colonnello desiderava partire al più presto, perché anche in quel breve periodo aveva perso dieci uomini, e non osava cercare di recuperarli come avrebbe potuto fare in zone più remote. Lasciarono Orleans prima dell’alba per dirigersi verso Chateauneuf: una distanza breve, percorsa soltanto per allontanarsi dalla pressione della folla, dai vari club politici e dal caos di una grande città che disturbava l’ordine del reggimento. Ma a Chateauneuf si diffuse tra i soldati la notizia che la marcia sarebbe proseguita direttamente verso il confine; anche nelle piccole villaggi della valle erano già arrivate voci provenienti dal fronte: le armate dei re avevano attraversato il confine; gli invasori si trovavano sul suolo nazionale, e Verdun era caduta.
+
+I soldati non si interessano alle notizie; ma nella loro mente, anche se sono stati soldati e poi sono diventati civili, ogni luogo e ogni fortezza legati alla vita militare ha un significato particolare. Le armate, infatti, possiedono una sorta di “coscienza” che le pervade: le parole casuali degli ufficiali udite dai loro servitori, i politici che discutono di questioni militari nelle baracche, una comprensione vaga della mappa. Tutto ciò influisce sulla mente degli uomini il cui compito è avanzare lungo le grandi strade verso la battaglia, e il cui “nutrimento” è l’aria aperta.
+
+Verdun era caduta; la piccola città e gli ussari appena arrivati erano tutti presi da questa notizia.
+
+Tardi quella notte, mentre Boutroux, insieme ad altri sei sergenti che avevano il permesso di uscire a mezzanotte, sedeva stanco morto in una piccola locanda, udì un’atmosfera di fervore e discussioni. Gli uomini della strada si mescolavano con i soldati, e qualcuno incitava gli altri alla violenza. Mentre era lì seduto – erano già passate le dieci – e stava per rinunciare al suo permesso e andare a dormire, un uomo entrò portando un ordine: il reggimento doveva mettersi in marcia immediatamente, e i sergenti venivano chiamati d’urgenza.
+
+Si alzarono, brontolando; trovarono nelle loro stanze luci accese e segni di un’atmosfera agitata, accompagnati da ordini improvvisi. Un capitano, alto e avvolto nel mantello per proteggersi dal freddo della notte, stava all’ingresso della guardia; esaminava un documento che uno dei soldati di guardia illuminava con una lanterna. Mormorò i nomi e le mansioni di ciascuno ai suoi sottufficiali; uno dopo l’altro salutarono e andarono a svolgere gli ordini ricevuti. La penna del capitano tracciava linee zigzaganti sul foglio, cancellando alcune cose e aggiungendone altre. Arrivò al nome Perrin.
+
+“Sergente Perrin,” disse.
+
+Boutroux salutò.
+
+“Penso che tu sia affidabile…”
+
+“Spero di sì,” disse Boutroux.
+
+“Mio ragazzo,” disse il capitano con un tono completamente diverso; mentre alzava lo sguardo sotto la luce della lanterna, Boutroux vide il volto di un uomo segnato da anni di servizio. “Quando avrai fatto questa carriera per tanto tempo quanto me, imparerai che non si deve mai rispondere a un superiore.”
+
+Il ritornello sembrava familiare, e Boutroux salutò di nuovo.
+
+“Sergente Perrin,” continuò il capitano, riprendendo quel tono gentile e semplice tipico di un uomo che ordina qualcosa di molto difficile, “prenderà cinque cavalli da una casa considerata sospetta.” Armeggiò un po’ con i suoi documenti, li esaminò attentamente con i suoi occhi acuti e aggiunse: “La Spinster de La Roche. Può andare!” In quel momento Boutroux avrebbe voluto poter porre domande durante il servizio; ma ormai sapeva cosa fare, e con quel movimento rigido e ridicolo richiesto dalle procedure militari, si girò bruscamente e se ne andò. Il capitano lo chiamò ancora una volta.
+
+“Prenderai cinque uomini con te.”
+
+Si girò di nuovo rigidamente da una distanza di circa trenta metri, salutò e disse: “Sì, mio Capitano.”
+
+Tornò nella baracca, selezionò a caso cinque uomini; uno di loro era stato suo pari quando erano entrambi reclute nei primi giorni della marcia e fingeva di conoscerlo bene. Lo zittì e fece sì che quei cinque lo seguissero, presentandolo come un vecchio compagno per ingannarli, poi uscì dalle baracche nella notte.
+
+La strada era deserta; non c'erano luci; non aveva la minima idea di dove potesse vivere la zitella de La Roche, e tantomeno sapeva come sarebbe stato accolto.
+
+“Questo servizio,” pensò Boutroux, “trasforma gli uomini, che per natura sono gentili, in un gruppo di persone davvero spiacevoli.”
+
+Batté alla porta a caso: non ci fu risposta. Ordinò agli uomini di forzarla, e così fecero. Dall’alto delle rozze scale provenne prima un brontolio, come quello di un uomo semiaddormentato; poi il suono dello scatto di una scatola di fiammiferi; infine apparve una luce debole, e un vecchio dall’incredibile energia sporse la testa dal piano di sopra, maledicendoli chiamandoli “una carriata di diavoli”, domandando se in quel paese si vivesse davvero liberamente, se fosse così che i cittadini venivano disturbati a mezzanotte, e chi potesse sentirsi al sicuro quando accadevano cose del genere. Boutroux gli rispose bruscamente.
+
+“È necessario che ci indichiate la strada per la casa della zitella de La Roche e, se necessario, che ci accompagniate lì.”
+
+“Se necessario, vi ci porterò io stesso!” ringhiò l’uomo anziano nella sua camicia da notte, tenendo la candela alta sopra la testa: “Se necessario, vi ci porterò io stesso. Vi condurrò prima all’inferno!”
+
+“No”, disse Boutroux, “lo farai proprio dopo”.
+
+Per un momento sembrò che l’uomo anziano potesse causare problemi: stava per allontanarsi da loro, e Boutroux temeva domande da parte della gente e situazioni molto difficili il giorno dopo. Ma poi l’uomo cambiò idea. Riapparve indossando pantaloni da contadino, un cappotto ruvido sulle spalle, ancora la camicia da notte come maglietta, e quel ridicolo berretto di cotone come cappello. E così scese giù.
+
+“Puoi trovarlo da solo,” borbottò, “se segui le mie istruzioni. Quella donna è abbastanza conosciuta, in ogni caso!” Poi ridacchiò.
+
+“Se le sue istruzioni sono chiare, cittadino”, disse Boutroux, “non è necessario che venga”.
+
+Quello fece un po' calmare l’anziano. Lui non era abituato alle gerarchie militari; non capiva il significato delle strisce sulle divise.
+
+“Capitano,” disse con maggiore umiltà; il soldato semplice che guidava gli altri sorrise, “sono più che disposto ad andare, ma capisce, viviamo nella stessa città, e anche se la reputazione di quella signora, ”
+
+“Ah sì, capisco,” disse Boutroux; “ma dove si trova?”
+
+“Verrò con te,” sospirò l’uomo anziano. Prese una lanterna malandata, impiegando un tempo insopportabilmente lungo per prepararla, e poi tornò zoppicando verso di noi. “Ora,” disse, “andiamo. Non è nemmeno mezzo miglio.”
+
+Lasciarono la città; percorsero un sentiero sabbioso attraverso un piccolo bosco situato a nord di essa; arrivarono davanti a un alto muro, attraversato da una porta in legno verde; la porta era ricoperta di muschio e in condizioni fatiscenti.
+
+“Il castello è da quella parte,” disse l’uomo anziano.
+
+“Il castello!”, disse Boutroux.
+
+“È una persona di rilievo,” disse l’uomo anziano. “Non ho nemici; non sono un politico; vivo e lascio vivere gli altri. È davvero una persona di rilievo. Per il resto, non dico nulla. E lasciate che vi dica: da quanto so di quella vecchia gatta, non le piace essere disturbata, e le sue porte sono sempre chiuse a chiave.”
+
+“Le porte si aprono così facilmente,” disse Boutroux, “e sempre tocca al fabbro serramentista intervenire.” Chiamò avanti due uomini; insieme sollevarono la vecchia porta verde. Non si aprì, ma il legno marcio si spezzò, e riuscirono a entrare in un giardino antico e fatiscente. Davanti a loro c’era un sentiero ricoperto d’erba, un tempo lastricato con ghiaia; la luce della lanterna penetrava nell’intenso fogliame degli alberi secolari.
+
+“Non ho bisogno di andare oltre, maggiore?” disse l’uomo anziano con ansia.
+
+“Fino alla casa!” disse Boutroux con fermezza, “fino alla casa! Dovete ricordare che siamo estranei in questo posto e abbiamo bisogno di una presentazione.”
+
+L’uomo anziano si avvicinò a Boutroux e parlò a bassa voce, per evitare che gli altri lo sentissero.
+
+“Sarà gentile con me, vero, Colonnello? Dopotutto, dobbiamo vivere e lasciare vivere. È una piccola città.”
+
+“Vieni con noi, cittadino,” disse Boutroux, “veni!” — e l’uomo anziano lo seguì.
+
+In cinquanta metri raggiunsero il fossato di quell’antico e imponente luogo. Si ergeva altissimo e cupo nella notte, come una enorme torre quadrata con i suoi tetti di ardesia e le sue solenni ciminiere vecchie di duecento anni, tra le stelle; le grandi porte erano ben chiuse, ma una luce filtrava all’interno, e attraverso il vetro sopra l’ingresso potevano vedere il riflesso di quella luce su un soffitto intagliato e antico. Fuori da quelle porte chiuse pendeva una grande campana; non avrebbero trovato la sua catena nell’oscurità, ma l’uomo anziano gli mostrò dove trovarla. Boutroux la tirò, e il suo forte suono risuonò per tutto il parco e tra gli alberi, svegliando echi all’interno della vecchia casa stessa. Si udirono dei passi all’interno, e, (come gli ricordava la sua casa!) una piccola ferita quadrata nella porta fu aperta con cautela. Gli chiesero quale fosse il loro scopo.
+
+“Gli ussari”, disse Boutroux. “Siamo stati inviati su richiesta.”
+
+“Una voce tremante di donna rispose…”
+
+“Ho l’ordine di non far entrare nessuno.”
+
+“Dite alla vostra padrona,” disse Boutroux, guardando attraverso la piccola apertura di ferro e vedendo all’interno una donna minuta, magra, tremante, con i capelli bianchi e vestita secondo le usanze del luogo, “ditele che siamo qui senza cattive intenzioni, ma c’è un affare urgente da parte dell’esercito.”
+
+Gli disse di aspettare. Li fece attendere lì per ben un quarto d’ora, e quando tornò disse, con tutta la pompa che il suo debole e roco vocino le permetteva:
+
+“La mia signora vi riceverà.”
+
+“Portate i miei migliori saluti a lei,” disse Boutroux, “e ditele di non avere affatto paura. È una questione che riguarda la Nazione.”
+
+Le grandi porte si aprirono con un cigolio; la luce proveniente dall’interno inondò il parco.
+
+“Devo restare qui?” disse l’uomo anziano con ansia, sussurrando di nuovo.
+
+“No, cittadino”, disse Boutroux, “siate libero da queste cose”.
+
+“Non le dirai il mio nome, vero? Lei ha troppi amici, troppi!” disse l’uomo con ansia.
+
+“Certo, tradirei il tuo nome se lo conoscessi,” disse Boutroux con esitazione; “ma non lo conosco. Comunque, proverò a indovinarlo.”
+
+L’uomo anziano lo guardò con aria confusa e se ne andò. Non provava alcun interesse per la politica del suo tempo; anzi, mentre tornava nella oscurità verso il suo riposo disturbato, li odiava ancora di più: “Il mondo,” si disse, “sta per finire, così era stato predetto, così era stato predetto. La nipote di vecchio Stephen, che lui costrinse a diventare suora a Orleans, lo aveva previsto. Aveva ragione: è la fine del mondo!” Mentre mormorava queste parole, tornò a casa.
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_01" data-title="The Girondin — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/great_house,motif/rose,motif/wine_and_drink,concept/love_romantic,concept/class_conflict,form/historical_novel,histref/the_french_revolution,setting/france"></span>
@@ -6778,6 +9668,88 @@ She brought out the bread and the flask; he took them from her.
 
 ‘ They went together into a little room through the door, a room with a tall ebony bookcase in it, a little marble chimney-piece, and the conventional sham gold clock of the time, with a looking-glass behind it. The little room was full of the scent of late roses, of which a glorious group stood in a jar upon her table. Upon that table also there was a book laid open, as though she had but just left reading it. He did not see the title of the book, and he wondered what it might be. Two candles stood upon that table, still and unflickering in the dark summer air. Their light shone on a terrace without.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XVIII.
+
+In cui una vecchia signora mostra la strada a un giovane gentiluomo.
+
+Boutroux entrò nel salone dalla parte buia della notte, accompagnato dai suoi cinque uomini. Sentì alle sue spalle una battuta che non gli piacque, e si girò bruscamente.
+
+“Fissa!” gridò.
+
+Si misero in fila; lui ordinò loro di alzare le braccia e di prendere posto sul banco di quercia, con quel bellissimo intaglio sul bordo che si estendeva lungo il muro di pietra.
+
+“Se stasera dovesse succedere qualcosa di sbagliato, te ne farò pagare le conseguenze,” disse; e mentre lo diceva, guardò l’uomo che aveva osato violare la loro antica amicizia. Quell’uomo ebbe paura.
+
+Mentre si girava per dire queste parole, vide avvicinarsi a lui la padrona di casa e sentì una voce molto piacevole, gentile, ma al contempo un po’ ironica che gli disse:
+
+“Per quale motivo è venuto da me, tenente?”
+
+“Il numero di gradi sociali che un uomo può attraversare in tempi di rivoluzione e guerra è infinito, ”, pensò Boutroux. “Madame”, rispose ad alta voce, “si tratta di una questione molto banale: cinque cavalli sono stati requisiti, ma non sono ancora arrivati.”
+
+“Sono stati requisiti, tenente,” disse la signora, con una voce fredda e decisa, come metallo pregiato temprato fino a diventare acciaio, “un mese fa. Da allora li ho tenuti pronti; nessuno li ha richiesti, e ora voi venite a prenderli a mezzanotte, armati!”
+
+Boutroux, in piedi dritto, con la spada nel fodero tenuta bassa e rispettosamente, come si addice a un gentiluomo che ha qualcosa da comunicare, la fece entrare. Ricordò il termine “sospettata” nelle sue istruzioni e la osservò attentamente.
+
+Non era alta né robusta di corporatura, eppure non sembrava debole: c'era qualcosa di sicurezza in lei, se non nell’anima, almeno nel modo in cui si muoveva, e una certa dignità nei suoi gesti. Era vestita interamente di nero, con pizzo bianco intorno al collo e ai polsi; le sue mani, mentre la osservava, erano particolarmente piccole ma forti. Le teneva incrociate davanti a sé. I suoi capelli erano grigi, con qualche filo di un grigio più bianco; erano i suoi stessi capelli. Sul suo viso c’era ancora quel leggero sorriso ironico, e i suoi occhi erano molto piacevoli da vedere: erano neri, e quando lo guardavano, esprimevano un’emozione che lo spingeva non poco a voler sapere di più su di lei.
+
+“Signora, non ho alcun ordine scritto,” disse Boutroux, visibilmente commosso. “Non intendo essere scortese, ma l’Esercito ha un bisogno urgente. Se avessi un ordine scritto, le cose sarebbero più semplici.”
+
+“Non c’è bisogno di farlo, tenente,” rispose lei con un tono più basso e con una dolce sottomissione. “L’esercito può fare ciò che vuole.”
+
+“Ma vi darò la ricevuta e la richiesta, e tutto ciò che potrete chiedere per verificare,” continuò Boutroux con entusiasmo. “Mi dispiace davvero molto, ”
+
+“Non c’è bisogno che ti penta, tenente,” disse lei. “Dobbiamo tutti fare il nostro dovere. Ora lasciami raccontarti. Ma aspetta un momento: chiamerò un uomo.”
+
+Uscì dal salone: i suoi passi leggeri diventavano sempre più deboli man mano che attraversava la casa per dirigersi verso i suoi uffici. Tornò indietro con uno dei suoi valletti, un uomo dal viso piatto, solenne e pieno di risentimento.
+
+“Louis,” disse lei, “accompagnerai questi signori: sono venuti per prendere West Wind, Pericles, Queen, Furtive e Basilisk.”
+
+Lo sposo si toccò la testa. “Il Basilisco non può uscire, mia signora,” disse.
+
+“Perché no?”, chiese lei.
+
+“È zoppo, mia signora,” disse lo sposo.
+
+“È grave, Louis? Gli impedisce di lavorare?”
+
+“Sì, mia signora,” disse l’uomo con ancora più testardaggine del solito.
+
+“Anzi, meglio ancora,” disse lei allegramente, questa inaspettata signora della notte. “Mi piacerebbe che tutti avessero un simile problema. Mi piacerebbe che ognuno di loro avesse soltanto tre gambe ciascuno,” e sorrise a Boutroux, che le rispose con un sorriso serio ma leggero. “I cavalli di cui ha bisogno la Nazione sono a disposizione della Nazione: questi sono i cinque che sono stati requisiti, uno per uno. Mi dispiace che uno di loro sia zoppo.”
+
+“Madame,” rispose Boutroux con solennità, “anch'io ho avuto le gambe rigide in sella, ma questo non mi ha scusato dal partecipare alla marcia.”
+
+“Louis,” disse la signora, rivolgendosi al fidanzato, “porta con te questi signori.” Indicò i cinque soldati. “Devi richiedere anche le selle, tenente?”
+
+“Beh, signora,” disse Boutroux, “non è nelle mie istruzioni, ma devo ammettere che i cavalli senza sella, anche se più facili da montare, sono impossibili da utilizzare per il servizio. Ci sono vari motivi, ”
+
+“Ma non potete aspettarvi che io abbia sella da campagna, vero?” disse lei.
+
+“Signora,” disse, “senza dubbio li troveremo quando ci uniremo al gruppo principale.”
+
+“Senza dubbio,” disse lei, “senza dubbio… Vieni, Louis, porta via questi signori!”
+
+Lo sposo, nonostante la sua pessima volontà, guidò quei soldati goffi e inadeguati.
+
+“E voi, signore,” disse lei, rivolgendosi a Boutroux, “per favore entrate e bevete del vino: non sarà una cosa breve. Solo due cavalli si trovano qui nella stalla; altri due sono nella fattoria, all’estremità del parco, e ne dovrà essere catturato uno in più. È fuori a pascolare.”
+
+“Sono ai vostri ordini, signora,” disse Boutroux.
+
+Lo guidò attraverso due grandi sale decorati con arazzi; i pavimenti erano fatti di castagno irregolare, lucidato da molte generazioni di persone che vi entravano e uscivano. In uno di questi saloni, che era la sua sala da pranzo, prese una fiasca di vino e un bicchiere per lui. Si chinò per cercare del pane in un mobile: era troppo basso per lei, quindi si inginocchiò.
+
+“Che regine si incontrano lungo il cammino…”, pensò tra sé Boutroux.
+
+Prese fuori il pane e la fiaschetta; lui le le prese dalle mani.
+
+“Davvero, signora,” disse, “non posso permetterlo…”
+
+“Oh, state zitta!” disse la signora con leggerezza, “noi conosciamo bene l’esercito qui!” Poi aggiunse: “Tenente. Verdun è caduta!”
+
+“Sì,” disse Boutroux; per lui, in quel momento, quella notizia non aveva alcun grande significato.
+
+Entrarono insieme in una piccola stanza attraverso quella porta; una stanza con un alto scaffale di legno ebano, un piccolo camino di marmo e l’orologio dorato convenzionale dell’epoca, con uno specchio dietro di esso. La piccola stanza era piena del profumo delle rose tardive; un bellissimo mazzo di esse stava in una jar sul suo tavolo. Sullo stesso tavolo c’era anche un libro aperto, come se lei lo avesse appena lasciato mentre leggeva. Lui non riuscì a vedere il titolo del libro e si chiese di cosa potesse trattarsi. Due candele erano posate su quel tavolo, immobili e senza tremolare nell’oscura aria estiva; la loro luce illuminava una terrazza all’esterno.
 
 
 
@@ -6885,6 +9857,108 @@ Boutroux let his head fall back in the darkness, and stared up at the great star
 The lady leaned towards him, and consented to put a hand for one moment upon his hand. Boutroux was willing; no movement of his condemned the gesture. The lights from the end of the park were approaching, and they could just begin to hear the loud banter of the five soldiers quizzing the groom.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“La notte è calda, tenente; porteremo questo vino e questo pane fuori, li metteremo su quel piccolo tavolo di ferro che c’è là, e aspetteremo lì fino al ritorno dei suoi uomini.”
+
+Boutroux era più che disposta. Lo seguì sul terrazzo, e mentre lo seguiva spense le candele.
+
+Quel piccolo parco chiuso profumava nella notte di agosto; era un luogo appartato. In una notte del genere, si poteva sognare che non esistessero cose come le esercitazioni militari, le marce e le armi.
+
+Di tanto in tanto, dal villaggio lontano giungevano rumori di campagna, il latrato acuto di un cane o il muggito di una bestia nelle stalle: anche i suoni più deboli e lontani potevano essere uditi attraverso l’aria limpida dell’estate; e sopra di essi, splendente nel cielo caldo, si estendeva un firmamento pieno di stelle.
+
+“Tenente”, disse la signora, “sta andando verso il confine?”
+
+“Sì, signora,” disse, “e tutto il reggimento.”
+
+Per qualche momento rimase in silenzio, poi disse: —
+
+“Ti invidio, tenente.”
+
+“È una pura verità, signora,” disse lui, “che la gente mi ha detto che la vostra casa è sospetta; ma vi assicuro, per mancanza di barba, che manterrò fede in tutto ciò che dite, perché non appartengo né a un gruppo né all’altro.”
+
+Rise dolcemente nell’oscurità.
+
+“Quando avrai la mia età, tenente,” disse lei, “ne sarai ancora più sicuro di quanto lo sia ora, e prenderai posizione solo nelle cose che il tuo cuore ti spinge a fare. No, la casa non è sospetta, ma mi mancano quei tempi migliori.” Incrociò le braccia sul petto; lui riuscì a percepire quel movimento. Pensò che avesse freddo, nonostante il calore di quella sera, o forse sentiva l’umidità del fossato intorno alla casa. Entrò nella stanza al buio e, dopo aver frugato un po’, trovò finalmente un scialle che aveva notato appoggiato sul braccio di una sedia; lo avvolse intorno a lei con calma.
+
+“Ho sentito dire,” pensò Boutroux tra sé, mentre rifletteva su questo gesto, “che una donna non è davvero tale fino ai quarant’anni. Ora questa signora è sicuramente una donna.”
+
+Gli ringraziò e disse: —
+
+“Tenente…? Quando partite per l’azione?”
+
+“Non lo so, signora… È troppo presto, indipendentemente dall’orario.”
+
+“Ma domani?” disse lei.
+
+“Sì, certamente, signora… e molto probabilmente proprio stasera stesso.”
+
+“Voi soldati non dormite mai,” gli rispose lei con un tono così pieno di compassione che lui si commosse di nuovo.
+
+“Ma quando dormiamo, signora, dormiamo profondamente.”
+
+“Sì,” disse lei, “dormi profondamente.”
+
+“Si chiedeva quale fosse il significato dell’Esercito per lei, e perché ne parlasse con tanta passione.” Continuò…
+
+“Tenente, potrebbe fare una cosa per me?”
+
+“Madame,” disse Boutroux con una straordinaria prontezza, “farò qualsiasi favore mi sia possibile, e anche molti di quelli che non lo sono.”
+
+“Hai parlato come dovrebbe fare un uomo del mestiere,” rispose lei con nobiltà. “Sai, tenente, noi donne che rimaniamo a casa amiamo gli uomini che sono disposti a fare ciò che la Nazione, o qualsiasi altra autorità, richiede da loro.”
+
+“Sì, signora,” disse, “e a noi soldati piace che ci si chieda questo…”
+
+Lei chiese cosa non si aspettasse.
+
+“Allora, tenente, vi prego, ditemi: mentre quegli stupidi stanno rubando il mio bestiame, spiegatemi come siete finito a prestare servizio e perché state marciando in questo modo. Avete mai ricevuto un incarico ufficiale dal Re?”
+
+I suoi occhi erano abituati all’oscurità; la luce tenue delle stelle estive brillava sulle curve eleganti dei suoi capelli grigi e argentei, ma i suoi occhi erano immersi nell’ombra. Il suo viso era rivolto verso di lui, e lui riusciva a immaginare molte cose.
+
+“Vi dirò la verità,” disse seriamente, facendo una breve pausa prima di rispondere, “Non ho mai ricevuto alcuna commissione da parte del Re.”
+
+“Allora perché sei qui?” disse lei. “È stata l’invasione a spingerti ad agire?”
+
+“No, Madame,” disse Boutroux ancora più seriamente, “neanche l’invasione, anche se sono certo di aver fatto il mio dovere. Devo raccontarvi tutta la storia?”
+
+“Perché”, disse lei, ridacchiando leggermente, “è proprio quello che vi ho chiesto di fare”.
+
+Boutroux appoggiò la testa all’indietro nell’oscurità e fissò le grandi stelle.
+
+“Sono nato,” disse lentamente, riflettendo a lungo, “sono nato figlio di un avvocato di [[Paris|Parigi]], giudice della Corte Suprema. Mio padre era, ed è ancora oggi, il padre più gentile e premuroso che si possa immaginare. Aveva già pensato a un matrimonio per me. Prima dei problemi, signora; prima di tutte queste preoccupazioni che odio e non capisco. Mi aveva destinato a una giovane donna di cui non ho nulla da dire. Lei possedeva ogni grazia, qualità e fascino; inoltre, il suo dote, come mi fu detto, ammontava a trecentomila lire.”
+
+“È una somma considerevole,” disse la signora con dolcezza.
+
+“È una somma considerevole, signora,” concordò Boutroux, alzando le spalle, “ma era destinata a non diventare mai mia.”
+
+"Certo! Per favore, raccontami di più, sono molto interessato."
+
+“È una storia semplice, signora,” disse, facendo un respiro profondo che sembrava una sorta di ispirazione, e continuò:
+
+“La donna che mi ha cresciuto, dovete sapere, non era né una infermiera né una tata, ma qualcosa a metà strada tra le due. Con sua figlia giocavo il ruolo di sorella e abbiamo cresciuto insieme.”
+
+“Ragazzo…”, disse la signora, “so cosa sta per succedere”.
+
+“Ah, signora,” disse Boutroux, “allora siete molto più sagge di me… È morta.”
+
+“È morta?” disse la signora, sorpresa.
+
+“Sì,” disse Boutroux, inclinandosi in avanti, tenendo la sua spada tra le ginocchia e facendo sì che la sua voce suonasse profondamente, “è morta, una persona più pura, più nobile, più, ”
+
+“Sì, sì,” disse la signora. (Lontano, all’estremità del piccolo parco, le luci si avvicinavano; il tempo era poco.) “Capisco,” concluse rapidamente.
+
+“Capisce, signora,” disse Boutroux con un singhiozzo.
+
+“E così sei arrivato qui…”
+
+“E così sono qui!” disse semplicemente Boutroux.
+
+“Ti sei arruolato, allora, visto che dici di non avere l’ordine reale per farlo?”
+
+“Mi sono arruolato, signora; mi sono arruolato a Saint-Denis, presso il deposito di cavalleria. Sono rimasto nelle file per due anni.”
+
+La signora si avvicinò a lui e acconsentì a posare per un momento la sua mano sulla sua. Boutroux era d’accordo; nessun suo movimento avrebbe potuto criticare quel gesto. Le luci in fondo al parco stavano avvicinandosi, e loro riuscivano appena a sentire le risate sonore dei cinque soldati che scherzavano con lo sposo.
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_03" data-title="The Girondin — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/lover,motif/night,concept/love_romantic,concept/desire,form/historical_novel,histref/the_french_revolution,setting/france"></span>
@@ -6955,6 +10029,72 @@ Riding behind his men Boutroux could not forbear to look over his shoulder; he s
 The man answered him with a fine curse, and they parted.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Gli uomini di solito non riescono a raggiungere i livelli che hai raggiunto tu,” disse lei. “Prima che ci separiamo, dimmi come sei riuscito ad ottenere quel risultato.”
+
+“È una storia curiosa, signora. Un anziano gentiluomo il cui nome non conoscevo, ma che evidentemente aveva grande autorità, cercò di promuovermi con una rapidità indecente. Erano già trascorse alcune settimane da quando ero stato nominato sergente, quando lui mi fece avanzare rapidamente nei ranghi: tenente, capitano, maggiore, e persino colonnello.”
+
+“È incredibile!”, disse la signora, fissandolo con occhi spalancati.
+
+“Sì, signora. Incredibile, e, come pensai all’epoca, anche inappropriato e persino ignorante; ma è andata così. Non prestai molta attenzione al suo sostegno; non credevo che avesse davvero alcun potere. Quello che mi permise di ottenere quell’incarico, e che mi ha portato a diventare tenente, fu l’atto di generosità di una donna.”
+
+“Davvero, tenente”, disse la signora, “sembra che le donne abbiano svolto un ruolo importante nella sua vita…”
+
+“Ah, signora,” disse solennemente Boutroux, “non mi rendevo conto di quanto fosse fino a stasera.”
+
+“E così,” proseguì la signora, un po’ troppo rapidamente, “è proprio a una donna che devi il tuo titolo di tenente, tu giovane uomo?”
+
+“Sì, signora,” disse Boutroux.
+
+# Conosceva bene te?
+
+“No, signora, né io né lei; ma per un breve istante, in una notte d’estate, l’ho amata abbastanza.”
+
+#Che potere aveva lei per farti progredire così tanto?
+
+“Niente, signora, se non la sua parola; tuttavia, quelle parole erano di un certo tipo e pronunciate con un tono che ricorderò a lungo.”
+
+I cavalli che avanzavano lungo il sentiero, il loro passo sulle pietre del terreno, gli uomini che li guidavano e i brontolii del cocchiere, tutto era ormai vicino a lei. Si alzò a malincuore.
+
+Entrarono insieme nella stanza buia; mentre lei gli passava davanti attraverso le finestre aperte, disse con voce molto bassa, ma chiara come un richiamo: “Non abbiamo alcuna fretta di unirci agli altri.” Trascorse qualche minuto prima che uno dei due parlasse di nuovo. Quando quel silenzio fu rotto, fu lei ad essere la prima a romperlo, con una voce diversa, ancora avvolta nell’oscurità.
+
+“Parti prima dell’alba?” chiese lei.
+
+“Madame,” disse lui, fermandosi davanti a lei nella notte, “vi ho già detto: partiremo quando ci verrà l’ordine, e credo che quest’ordine arriverà prima dell’alba o subito dopo.”
+
+“Beh,” disse lei, cercando le parole giuste, “vi chiederò una ricevuta, e la promessa che agirete secondo i vostri doveri. Non posso offrirvi nulla di più in cambio.”
+
+Riaccese le candele in quella piccola stanza; lui sembrava ricordare una stanza che conosceva non da pochi momenti, ma da alcuni giorni. Scrisse a mano, con tratti delicati e chiari, l’elenco dei nomi dei cavalli, insieme alle descrizioni che aveva fornito agli ufficiali, e gli porse il foglio perché lo firmasse. Lui lo firmò. Nessuno dei due aveva guardato negli occhi dell’altro. Lei pulì l’inchiostro e lo fece asciugare; piegò il foglio con la sua firma sopra e se lo mise nel petto.
+
+“E ora,” disse lei, “Tenente, non posso darvi più nulla!”
+
+“Davvero, signora,” disse lui, “le sue buone intenzioni…”
+
+“Beh, ne hai avuto più di quanto tu possa immaginare,” sussurrò lei, e Boutroux la seguì nel corridoio. Davanti alla grande porta c'erano i cinque cavalli e gli uomini, insieme al cocchiere che stava lì in silenzio; avevano aspettato troppo a lungo.
+
+Non appena Boutroux fu fuori dalla sua porta e si trovò di fronte al cavallo, si rivolse alla padrona di casa, che lo stava osservando mentre se ne andava sotto la luce. “Posso montare ora?” chiese.
+
+“Tutto il mio tempo libero è a vostra disposizione,” rispose lei.
+
+“Allora,” disse Boutroux al giovane sposo, “quale cavallo hai detto fosse zoppo?”
+
+Ma lo sposo mormorò: “Non accetto ordini da te”.
+
+Uno dei suoi uomini disse: “Questo, Sergente”, indicando una giumenta marrone di mediocre statura. Boutroux prese il ferro per i finimenti nella mano destra e misurò la pelle del sellino contro il braccio sinistro. “È della mia lunghezza”, disse, e montò a cavallo. Con il primo movimento del cavallo pensò: “Non è più zoppo di me. Anzi, meno!” Sguainò la spada e salutò uscendo da quella casa, poi la rinfoderò nuovamente.
+
+“Louis,” disse la signora – fu l’ultima volta che sentì la sua voce – “conduci il tenente fino al grande cancello e ordina loro di aprirlo. Guida il tenente!” aggiunse con fermezza.
+
+“Sergente!”, mormorò il sposo tra sé.
+
+Le porte si chiusero di nuovo alle sue spalle; il piccolo gruppo si diresse verso i grandi pilastri di pietra e la porta di ferro battuto. Lì, una luce all’interno della capanna li aspettava già, e qualcuno si muoveva nell’oscurità per aprirla.
+
+Mentre cavalcava dietro i suoi uomini, Boutroux non poté fare a meno di guardarsi alle spalle; vide, o pensò di vedere, vicino a una luce al primo piano la testa, l’inclinazione del corpo e il gesto che un’ora di conoscenza gli aveva ormai reso troppo familiari. Ma si girò e attraversò il cancello, dicendo al groom in quel momento: —
+
+“Quando vi chiederanno di partecipare alle guerre, cercate di essere sotto il mio comando; e se entro quel momento sarò diventato colonnello – perché la mia promozione è rapida – mi assicurerò che vi vada bene, in prigione.”
+
+L’uomo gli rispose con un bellissimo insulto, e poi si separarono.
+
 
 
 <span class="atom-split" data-atom="chapter_19--part_01" data-title="The Girondin — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/rain,motif/decay,motif/autumn,motif/horse,concept/war_and_its_cost,concept/despair,form/historical_novel,histref/the_french_revolution,setting/france"></span>
@@ -7003,6 +10143,50 @@ In the troop before them was disorder. One young fellow of a brutish sort had le
 Another, half an hour later, took the occasion of a driving gust which blinded them all, to veer off as they passed through trees and to be lost to the service. It was three in the morning when the miserable column, not seven hundred sabres, huddled into the town of St. Dizier, through which they had passed fifteen hours before on their way eastward at noon; there at last they were told by sections that they might rest.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIX.
+
+In cui piove.
+
+Era pieno giorno del mattino seguente quando la lunga colonna di cavalleria, in viaggio verso est lasciando Chateauneuf, si snodò nuovamente lungo la strada principale, passando di nuovo davanti a quegli stessi cancelli.
+
+Boutroux osservava i cancelli di ferro battuto e i pilastri di pietra che, la notte, sotto la luce delle lanterne, sembravano così stranamente evidenti; ora, però, sotto la freschezza della nuova giornata, apparivano molto più vecchi. Le foglie secche iniziavano a cadere lungo il viale alberato, perché quell’autunno tragico era arrivato presto; il bordo del fossato, decorato con statue, e la casa antica che si trovava dietro di esso mostravano, alla luce del giorno, tutti i segni del decadimento.
+
+Le persiane erano chiuse strettamente; c'era muschio, e qua e là fiori gialli crescevano sulle pietre dei muri. Fu solo un breve sguardo lungo l'alameda mentre il reggimento passava al trotto; in un attimo gli alberi e il alto muro del parco oscurarono la vista. Ma in quel momento, nella mente del giovane balenò una frase: le cose sono diverse dentro e fuori, e ciò che sembrano di notte non lo è più al mattino. Portò con sé quella frase e quell'immagine di quel luogo desolato e antico; la portò con sé per chilometri di cammino difficile.
+
+Da quel giorno, la marcia proseguì con un’ansia sempre maggiore e una fretta crescente: il lavoro diventava sempre più faticoso notte dopo notte, i momenti di riposo sempre più rari, i controlli per verificare l’assenza di malattie o la concessione di permessi sempre più severi. Eppure, man mano che si dirigevano verso est, si avvicinavano sempre di più al vero carattere di quella guerra.
+
+Il vuoto della terra dopo il raccolto, i resti delle piante e la mancanza di uomini nei campi, aumentavano ancora di più quell’impressione di distruzione. Era entrato settembre; la prima settimana era già trascorsa per metà; loro dovevano continuare ad andare avanti.
+
+Gli uomini non capivano nulla di tutto questo, se non che la crisi era arrivata, e che quelle marce affrettate, le ferite causate dalle selle, i cavalli lasciati indietro, i vari mezzi utilizzati per rimontare a cavallo, insieme alla fretta e all’anarchia che caratterizzavano tutta la situazione, rappresentavano in realtà una corsa verso il fronte.
+
+Coloro che riuscivano a farsi un'idea della mappa del paese capivano verso dove stava dirigendosi la marcia e si chiedevano quando avrebbero incontrato il corpo principale delle truppe. Ma per la maggior parte, i soldati semplici non avevano alcuna idea al di là del loro compito quotidiano, che odiavano e maledicevano. Il progresso verso est diventava per tutti una sorta di fonte di disperazione.
+
+A Sens incontrarono un reggimento di linea e videro che tra i suoi soldati c'erano anche volontari; assistettero, nonostante le precauzioni del loro colonnello per tenere separata la cavalleria, al completo collasso dell’autorità.
+
+A Troyes, Boutroux si sentì male, la sera stessa dopo che i cavalli erano stati curati e nutriti; vide una folla trascinare via qualcuno, sembrava un prete, verso la morte.
+
+Attraverso scene del genere, come fantasmi o esseri distaccati dal mondo reale, che non capivano nulla, distrutti dalla fatica e dalla pressione del viaggio, avanzava questa miscela di truppe a cavallo. Fino a quando, ormai a metà settembre, si ritrovarono stanchi, fradici sotto una pioggia battente, confusi e senza più senso, arrivando a Bar-le-Duc.
+
+La città alta, situata sulla collina, vecchia, oscura e inospitale, era, come avevano sentito negli ultimi giorni, il punto di incontro con l’esercito principale. Anche i soldati semplici, per i quali simili marce rappresentavano cose noiose e incomprensibili, ne erano consapevoli; i nomi di Kellermann e Bar-le-Duc echeggiavano nelle loro menti: entrambi simboleggiavano ordine e rifornimenti regolari. Nella pioggia incessante di quel mese infelice, tutti speravano in fuochi, calore, compagnia, e in un po’ di riposo da tali stanchezze insopportabili. Ma nessuno di loro, tranne qualche veterano delle campagne precedenti promosso a ufficiale e pronto ad affrontare qualsiasi sventura, poteva immaginare ciò che li aspettava. Quando raggiunsero la guardia alla porta, trovarono ordini formali: non erano autorizzati ad entrare in città.
+
+Ora dopo ora, fino al calare della notte, rimasero a piedi, in attesa davanti al cancello occidentale. Avevano mangiato l’ultima volta a mezzogiorno a St. Dizier. Alcuni chiesero del pane alle guardie; gli altri digiunarono. Arrivarono ordini per l’ufficiale comandante – ordini che, fino a tarda notte, non ebbero alcun effetto; e alla fine quegli uomini stanchi dovettero rimontare in sella e tornare indietro, attraverso una pioggia accecante che ora li colpiva in faccia, lungo lo stesso percorso da cui erano venuti.
+
+Il soldato semplice, che non capisce mai nulla, borbotta come parte del suo mestiere; quella notte avrebbe ribellato se non fosse stato per il cattivo organizzazione della lunga marcia e l’insufficiente addestramento dei soldati, che almeno in quel momento critico avevano permesso di mantenere una sorta di unità.
+
+Boutroux sopportava con rassegnazione la sua misera sorte. Conversava con il suo vecchio cavallo bianco, Pascal, chiamandolo suo amico e pregandolo di non arrendersi. Gli diceva che nulla era mai così terribile da non poter diventare ancora peggio, e lo esortava, in nome della loro profonda amicizia, a non cadere e morire quella notte.
+
+Pascal avanzò; la pioggia scorreva lungo i capelli bagnati del suo collo magro e ossuto. Ne aveva abbastanza di fare il soldato. La povera anima di quel cavallo era ormai pronta per la fine.
+
+Il tenente Hamard comandava quella truppa: non avevano alcun capitano. Il giovane ufficiale conosceva bene le gerarchie e sapeva come gestirle: non erano passate nemmeno sei settimane da quando era stato nominato ufficiale, e non erano ancora trascorsi due anni da quando, come soldato semplice, si occupava personalmente di curare il proprio cavallo. Era proprio di questo tipo di esperienze che derivavano le migliori capacità di comando tra i sottufficiali in queste armate. Le lamentele aperte dei soldati non lo riguardavano affatto: lasciava che fosse il suo sergente a occuparsene delle questioni più difficili. Boutroux, con i suoi pochi uomini, si incaricava personalmente del lavoro, alternando imprecazioni e derisioni, tenendo sempre sotto controllo il proprio gruppo e assumendosi la responsabilità dei suoi soldati. Era davvero un esempio negativo.
+
+Nella truppa davanti a loro regnava il disordine. Un giovane di aspetto brutale aveva fatto cadere il proprio cavallo nelle ore tarde di quella terribile notte; era sceso di sella come si scende da una sedia e aveva detto: —
+
+“La bestia morirà lì, e anch’io mi sdraierò”, disse, poi si gettò a terra completamente nel fango accanto alla strada, e nessuno lo disturbò; il reggimento proseguì la sua marcia.
+
+Un altro, mezz’ora dopo, approfittò di una raffica di vento che li accecò tutti per deviare mentre attraversavano gli alberi e così si persero nella colonna in movimento. Erano le tre di notte quando quella misera colonna – ormai non più composta da settecento sciabole – raggiunse la città di St. Dizier, attraverso cui aveva già passato quindici ore poco prima, mentre si dirigeva verso est a mezzogiorno; lì finalmente gli ufficiali ordinarono loro di riposare.
+
 
 
 <span class="atom-split" data-atom="chapter_19--part_02" data-title="The Girondin — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/rain,motif/food_and_feasting,motif/horse,concept/war_and_its_cost,concept/survival,concept/comradeship,form/historical_novel,histref/the_french_revolution,setting/france"></span>
@@ -7041,6 +10225,40 @@ There was no grooming done in that morning; the steady, drenching pour of the ra
 All that night only the girths had been loosened, for accoutrement that morning the girths were tightened only. Scabbards and stirrup irons, curb-chains and bridle rings, were a mass of rust as they came out into the daylight. Some of the men were so stiff they could not mount, but had to swing painfully into the saddle from low walls; others had taken the night more easily, and were ready even to crack jokes in a low tone with their neighbours: as they mounted and proceeded up the main street of St. Dizier, trumpets continued to sound the assembly in cracked and mournful and unfinished notes. The rain still steadily poured, and they set out for their last twenty miles to where, as all the townsfolk told them, Kellermann and his army now did really lie in mass at Vitry.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I raccoglitori erano già partiti; le case, numerate, erano destinate ai pochi privilegiati che potevano dormirci, mentre i granai, dove molti altri dovevano ripararsi, bagnati com'erano, offrivano solo paglia su cui sdraiarsi. Non c’era alcuna provvista. Un negozio di macellaio, con le persiane di ferro ben chiuse e la testa d’bue dorata che ne faceva da insegna gocciolante nella notte, si trovava sulla strada dove il gruppo di Boutroux si era radunato, stretto insieme, tenendo i propri animali nel buio pesto, in attesa dell’ordine di trovare rifugio.
+
+Boutroux, ancora in sella, si avvicinò al tenente e disse: “Tenente, le truppe devono mangiare.”
+
+L’ufficiale rispose: “Non ho mangiato”.
+
+“Mio tenente”, disse Boutroux, “posso chiedere del cibo alle persone in questa casa?”
+
+“È il mio posto,” disse il tenente.
+
+Tutti i ranghi erano confusi, e ogni ordine e disciplina erano in pericolo, tranne che una ventina di uomini stracciati e miserabili, nel loro estremo sfinimento, guardavano a questi due per chiedere aiuto.
+
+Boutroux bussò con forza alla porta di casa; non ci fu alcuna risposta, e l’unico suono che sentì, dopo che l’eco dei suoi colpi si era spenta, fu il monotono rumore della pioggia. Smontò da cavallo, tenendolo per la briglia, lo portò vicino alla porta e, usando la lunghezza della briglia, lo spinse con tutta la sua forza; la porta si aprì, e una debole luce notturna rivelò una scala sporca e un corridoio aperto all’interno.
+
+Il tenente tese la mano e prese le redini di Boutroux per liberarlo. Disse: “Grazie, mio tenente”, e poi entrò all’interno.
+
+Coloro che abitavano nella casa sopra tacevano; o non sentivano nulla, o fingevano di non sentire. Boutroux raccolse un pezzo di carta untuoso e lungo che giaceva sui gradini sporchi, lo torse, lo accese alla luce della notte e lo tenne sopra la testa nella bottega. Un grosso pezzo di carne, insieme ad altri venti, pendeva dai ganci vicino a lui; era pesante, e Boutroux, indebolito dal lungo cammino e dalla fame, riuscì comunque a staccarlo e barcollò fuori con esso. Gli uomini, vedendolo nella oscurità e sotto la pioggia mentre portava quel peso, capirono subito che si trattava di carne. Due di loro risero; un altro lo chiamò con parole di lode e affetto, usando il soprannome che i suoi compagni gli avevano dato.
+
+Il piccolo gruppo di loro si recò in un fienile vicino, prese la paglia secca e creò uno spazio libero tra le stuoie per evitare che il fuoco si diffondesse; accesero la paglia, tagliarono gli estremi sporgenti delle assi e dei listelli di legno, e in qualche modo riuscirono ad accendere un fuoco fumoso. Gli poveri animali che li avevano portati furono legati il meglio possibile ai anelli e ai pilastri di quel luogo alto e buio; fuori, la pioggia continuava a cadere intensamente.
+
+Un uomo aveva trovato una lanterna e l’aveva accesa. Nessuno si preoccupò di piazzare sentinelle o guardie, ma Boutroux e il tenente si assicurarono che, prima di fare qualsiasi altra cosa, due uomini prendessero i secchi disponibili e andassero a prendere acqua; la trovarono alla fontana della piazza del mercato. A turno, e seguendo le istruzioni ricevute, continuarono questo lavoro fino a quando tutti i cavalli furono abbeverati. Fino a quel momento, nessuno poté mangiare. Sotto quel grande tetto di legno non c’era mais, ma c’era un po’ di paglia sparsa che venne data ai cavalli, insieme a abbondante strame; anche questi alimenti furono consumati con avidità. Nel buio, Boutroux si avvicinò al suo vecchio cavallo Pascal, il cui mantello bianco brillava come un fantasma nell’angolo del fienile. Gli disse che situazioni del genere duravano solo per poco tempo, sia per gli uomini che per i cavalli; sperava che il suo animale fosse altrettanto orgoglioso di servire lo Stato, e accarezzò il suo muso per consolarlo. Gli sembrò persino che quel vecchio cavallo si avvicinasse a lui cercando compagnia.
+
+Prima dell’incendio, Boutroux riuscì a percepire l’odore della carne che veniva tostata su coltelli da caccia e pezzi di legno appuntiti usati per gli spiedini. Uno degli uomini, forse influenzato dall’abitudine, chiese al tenente di distribuire le razioni; ce n’era abbastanza per tutti. Molti, nella loro disperata fame, mangiarono la carne cruda prima di tostarla, e nessuno chiese del pane. Tuttavia, a causa della sete estrema, alcuni si immersero nei secchi da cui avevano bevuto i cavalli, pieni di quella sostanza vischiosa, e bevettero come fanno gli animali. E così venti uomini del reggimento trascorsero la notte a St. Dizier a metà settembre del 1792.
+
+A meno di un cannone di distanza, l’immensa armata degli invasori aveva già superato la linea delle colline dell’Argonne. E questi uomini, in una situazione così disperata e sotto una disciplina così rigida, erano solo uno dei tanti migliaia che avrebbero tentato di combattere contro l’Europa. Scene del genere, ignoranza nel buio, disperazione sotto la pioggia. Questi sono gli aspetti principali della guerra per i soldati.
+
+Dopo aver finito di mangiare – alcuni avevano consumato carne cruda, altri quella tostata – e dopo essere rimasti sdraiati nei loro vestiti bagnati in uno stato di torpore per circa due ore, una tromba suonò in strada, con un suono acuto e lamentoso. La luce del giorno era ormai entrata attraverso le grandi porte del fienile; il tenente e Boutroux, essendo i primi ad alzarsi, svegliarono subito i loro uomini.
+
+Quella mattina non ci fu alcun preparativo per la partenza; la pioggia incessante e battente continuava a distruggerli. Un giovane, appena uscito dalla sua capanna nel Sud, non riusciva a muoversi: gemeva da solo, e loro lo lasciarono lì, ma presero con sé il suo cavallo, visto che dopo la marcia notturna rimanevano più uomini che cavalli. Ai animali vennero dati ancora alcuni mazzi di paglia. Erano tutti ancora utilizzabili: i loro corpi magri, le ferite aperte, i mantelli sporchi e impigliati non li avevano ancora uccisi. Ma, per quanto riguarda la cavalleria, quegli ussari non rappresentavano certo un esempio da seguire.
+
+Quella notte, gli sforzi fatti erano stati soltanto per allentare le cinghie; la mattina seguente, queste vennero di nuovo strette con forza. Sciarpe da sella, staffe, catene e anelli delle briglie erano coperti di ruggine quando furono esposti alla luce del giorno. Alcuni uomini erano così rigidi che non riuscivano a montare a cavallo; dovettero quindi issarsi dolorosamente sulle selle utilizzando muri bassi. Altri, invece, avevano trascorso la notte in modo più agevole e erano persino pronti a scherzare a bassa voce con i loro compagni. Mentre montavano a cavallo e si dirigevano lungo la strada principale di St. Dizier, le trombe continuavano a suonare, emettendo note rovinate, tristi e interrotte. La pioggia continuava a cadere incessantemente; loro partirono per gli ultimi venti miglia, verso il luogo in cui, secondo quanto dicevano tutti i cittadini, Kellermann e il suo esercito si trovavano ora, accampati a Vitry.
+
 
 
 <span class="atom-split" data-atom="chapter_19--part_03" data-title="The Girondin — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="setting/paris"></span>
@@ -7062,6 +10280,24 @@ But no man so saw the contrast: only Fate.
 
 The men that were thus massed and huddled under Kellermann, after the storms of rain and the mud and the hunger and the death of that marching, were not trusted to accomplish any achievement. They had but to go forward; and they must perish.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ecco quale sia la vita dei soldati: cavalcare su bestie spezzate sotto la pioggia, formando un gruppo disordinato di centinaia di persone, senza fine davanti a loro e senza conoscere la meta. Eppure alzano il cuore, perché nonostante la pioggia battente, c’è ancora luce di giorno; l’inferno delle ore precedenti il sonno è soltanto l’oscurità di una notte senza speranza.
+
+A Longchamp il loro morale migliorò ulteriormente: lì erano evidenti tutti i segni di un’avanzata ordinata; i numeri tracciati con la gesso si trovavano sulle porte delle case, degli stazzi e dei recinti; persino i malati lasciati indietro costituivano una prova dell’enorme esercito che li precedeva; e soprattutto, era stata organizzata qualche forma di rifornimento. Mangiavano e bevevano cibo e bevande umane; c’era vino per coloro che potevano permetterselo, o per quelli che potevano rubarlo; erano già visibili alcune unità dell’esercito; c’era pane, e, per la prima volta da molti giorni, caffè caldo in lattina.
+
+Lasciarono Longchamp a mezzogiorno per affrontare l’ultima tratta del viaggio, aspettandosi di incontrare l’esercito.
+
+Alle tre del pomeriggio la pioggia cessò; il cielo si schiarì leggermente e per alcuni chilometri intorno fu possibile distinguere il paesaggio. Lontano, sul versante inclinato di un’alta collina, si intravedeva una vasta città fatta di tende: le tende dell’esercito in movimento. Si udirono anche i suoni lontani delle trombe. Arrivati ai posti di guardia, videro grandi gruppi di uomini muoversi nei campi in lontananza; quando la colonna si fermò e ricevette gli ordini per accamparsi, questi soldati si erano già fusi, sia spiritualmente che fisicamente, con i ventimila uomini e più che Kellermann stava guidando verso Dumouriez.
+
+Proprio prima di quei migliaia di uomini, con i loro vestiti bagnati, i loro cavalli zoppicanti, gli uomini stanchi e doloranti ai piedi, le loro attrezzature strappate e perse, le loro armi insufficienti e improvvisate, c'era una distanza di soltanto un lungo giorno di marcia: una vasta distesa di terra desolata, quelle grandi pianure paludose dove erano stati convocati, per affrontare l’esercito invasore, severo e potente.
+
+Se qualcuno avesse visto e apprezzato quei due gruppi di soldati – i reggimenti accampati a Vitry, e la nobile parata dell’invasione vittoriosa che aveva appena superato le linee delle Ardenne, trovandosi ora senza alcuna ostacolo tra sé e [[Paris|Parigi]] – non avrebbe esitato nemmeno per un istante nella sua decisione. Se davvero c’era motivo di combattere, quella battaglia sarebbe stata risolta rapidamente. Da un lato c’era una massa disordinata, esausta, priva di cibo e sonno, tormentata dalla pioggia incessante; dall’altro, l’esercito più preparato e migliore d’Europa.
+
+Ma nessuno vide così chiaramente questo contrasto: solo il Destino.
+
+Gli uomini che erano stati radunati e ammassati sotto il comando di Kellermann, dopo le tempeste di pioggia, il fango, la fame e le perdite subite durante quella marcia, non venivano considerati affidabili per compiere alcuna impresa. A loro era stato semplicemente ordinato di avanzare, e dovevano perire.
 
 
 
@@ -7113,6 +10349,52 @@ And there it was that Boutroux for the first time saw that his mount Pascal, who
 The veterinary’s orderly came and saw, and said that the horse was fitter to be with God than with men. He squeezed and touched this place and that as his art taught him, the old mount turning round and giving him reproachful looks, and now and then trying to whisk its tail. The veterinary’s orderly shook his head.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XX.
+
+In cui continua a piovere.
+
+Fu il 15 settembre che il reggimento, se ancora poteva essere chiamato reggimento, si unì alle forze principali dell’esercito.
+
+Quando spuntò l'alba del 16°, le guardie delle stalle, i piquetti di sorveglianza e la lunga fila di accampamenti nei campi oltre le case si limitarono a osservare che stava di nuovo piovendo. Lontano, nella valle, sotto la pioggia, una lunga colonna di uomini si stava muovendo: era l’avanzata di Kellermann verso Sampigny, dove si trovavano i laboratori. Nessun suono di spari in lontananza raggiungeva la valle del Marne, nessuna voce riguardo all’avvicinamento del nemico; c’era solo la pioggia che avvolgeva il paesaggio, le basse colline bagnate e il fiume gonfio che scorreva tumultuoso e marrone.
+
+Con l’alba, un’altra grande parte dell’esercito si mise in marcia verso…
+
+Pogny; ma gli ussari, e Boutroux con loro, non avevano ricevuto alcun ordine. I cavalli erano più importanti degli uomini, ora che si trovavano in una regione troppo densamente occupata per raccogliere nuovi animali da montare; quindi, per tutta quella mattina, i cavalli furono curati al riparo, puliti più o meno e rimessi in condizioni dopo le difficoltà causate dal ritiro da Bar-le-Duc, nonché dalle giornate e notti di cattivo tempo. C’era persino un po’ di tempo libero tra le truppe, e gli uomini, dopo aver curato i cavalli, andavano insieme nelle taverne, osservando la pioggia che batteva fuori, ma almeno consolati dal vino.
+
+Gli abitanti della città iniziavano ad amare sempre meno i soldati; a questi ultimi arrivati non veniva dato nulla, nemmeno in cambio del loro lavoro. Tra civili e esercito regnava una tregua tesa, senza più alcun rapporto reciproco.
+
+Il pranzo di mezzogiorno era già stato consumato; nessuno aveva ancora ricevuto alcun ordine, e nemmeno i sottufficiali di ogni unità riuscivano a intuire cosa stesse accadendo. Intorno all’ora di pranzo arrivò la notizia: il reggimento si preparò per la partenza, montò a cavallo e iniziò a muoversi lungo una strada accidentata verso nord, fuori dalla valle. Per tutta quell’aprile pomeriggio, una lunga fila di uomini e animali avanzò attraverso il fango della Champagne, oltre piccole piantagioni di alberi stentati, e poi ancora attraverso campi spogli e ondulati, miglio dopo miglio, sotto la pioggia incessante.
+
+Era di nuovo quasi buio, il terzo giorno di tali inconvenienti, quando un piccolo villaggio ai margini di un bosco apparve davanti alla testa della colonna: le luci già brillavano alle finestre. Un ragazzo contadino si distingueva sotto la pioggia battente, rannicchiato sotto una grande coperta e mentre guidava circa cinquanta pecore. Quando uno dei sergenti inviati per interrogarlo gli si avvicinò, lui fuggì spaventato; fu subito catturato, scosso e riportato indietro. All’inizio non voleva parlare; non sapeva se aveva a che fare con il nemico o con qualche forza mostruosa. Ma tutto ciò che gli veniva chiesto era il nome di quel luogo: si trattava di Cense.
+
+La notizia rassicurò il comando: gli uomini furono felici di vedere in un luogo così piccolo delle stalle così grandi per ospitare loro e i loro animali; il giorno dopo, sempre con lo stesso tempo, lasciando indietro venti uomini – dieci dei quali non avrebbero mai più rivisto le loro case – la colonna proseguì il suo cammino.
+
+Il tenente Hamard, passando vicino a Boutroux, gli disse all'improvviso, a metà di quella mattina, con una voce dolcemente ironica: —
+
+“Sergente Perrin, avete studiato l’arte della guerra?”
+
+“No, signore,” disse Boutroux.
+
+Il tenente sospirò. “Mi dispiace molto per questo. Se avessi studiato queste cose quando eri giovane, quando, come mi hai detto, frequentavi le migliori classi, forse avresti potuto dirmi cosa stiamo facendo e perché siamo tutti soli in queste strade di campagna sporche. Senza le tue informazioni, dovrei chiederlo al colonnello, e lui mi arresterebbe, per poi mettermi in prigione non appena arrivassimo in città.”
+
+“Senza dubbio, signore,” disse Boutroux con rispetto. “Bene, ma sergente Perrin, poiché lei è una persona istruita, le prego di spiegarmi cosa significhi tutto questo.”
+
+“Penso, signore,” disse Boutroux con espressione cupa, “che dobbiamo fare da retroguardia. Capisco che unità del genere subiscano le stesse sofferenze che stiamo subendo noi.”
+
+“È molto probabile,” rispose il tenente con solennità, senza sorridere. “È un’ottima suggerizione. Se gli uomini hanno bisogno di incoraggiamento, e supponendo che domani continui a piovere, farò sapere alla truppa che siamo la retroguardia.”
+
+La supposizione era abbastanza corretta; quel pomeriggio, mentre il reggimento entrava stancamente a Fresne, trovarono tutte le prove di un recente passaggio di una grande forza militare. Un uomo loro mostrò la casa in cui Kellermann aveva dormito la notte precedente; diversi si lamentarono dei malati lasciati indietro e alloggiati presso di loro. Il pavimento del municipio era pieno dei rifiuti prodotti da un esercito in marcia: morti e moribondi, oggetti smarriti o danneggiati, e anche un mucchio di sella, le sella degli animali che si erano spezzate durante la marcia e non potevano essere sostituite.
+
+Il giorno dopo le nuvole si addensarono, ma non piovve; la marcia oltre la cresta verso la valle di Yevre risultò un po’ più sopportabile rispetto a tutta la settimana precedente. Tra le truppe iniziava a diffondersi un certo ottimismo: di tanto in tanto si udivano i primi versi di una canzone e il riso dei francesi. Anche gli animali sembravano percepire questo cambiamento; il fatto di essere ora parte dell’esercito pareva infondere loro nuova energia.
+
+A Dommartin, la prima città dopo Vitry, il reggimento si riposò; era entrato nella località abbastanza presto nel corso della giornata e, su ordine, o a causa di voci riguardanti tali ordini, doveva rimanere lì per molte ore successive.
+
+Ed eccolo lì: per la prima volta Boutroux vide che il suo cavallo Pascal, che lo aveva portato con tanta fedeltà attraverso tutte quelle avversità, per tante leghe lontano dal centro e da Poitiers, ora mostrava un atteggiamento diverso. Pascal, quell’animale anziano, da tempo abituato alle necessità di questo mondo e solito nel stallone lasciare che la testa gli pendesse come se fosse immerso in una perpetua contemplazione di qualche destino nascosto sotto questa vita. Quel giorno a Dommartin, Pascal appariva più patetico e meno apaticamente disperato; nei suoi vecchi occhi c’era paura. Boutroux chiamò il servitore del veterinario perché venisse a dare un’occhiata.
+
+Il assistente del veterinario venne a vedere e disse che il cavallo era più adatto a stare con Dio che con gli uomini. Esaminò vari punti del corpo del cavallo secondo le conoscenze della sua professione; l’anziano animale, però, girava la testa verso di lui lanciandogli sguardi di rimprovero e ogni tanto cercava di scuotere la coda. L’assistente del veterinario scosse la testa.
+
 
 
 <span class="atom-split" data-atom="chapter_20--part_02" data-title="The Girondin — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="setting/paris"></span>
@@ -7157,6 +10439,46 @@ They had had but a day’s respite, and it would not leave them now. They bent t
 It seemed in the small hours to more than one of the men as though something would snap and go, as though such a strain could not be continued. Boutroux, like many another, slumbered in the saddle, jolting on half conscious; the saddle bags and his stirrups (secretly shortened, against all the traditions of the cavalry) held him in his place., As he so jolted he thought himself for some moments a postilion before a chaise, upon a dark night in a lonely lane upon an upland; he felt the rain upon his face. Then he would waken suddenly as the old horse stumbled, or as some neighbour in the darkness banged up against him. Then he would jolt to sleep again, and dream that he was in a cart driving off from the first of his adventures; and then again he would half remember in his drowsy head that he was a soldier and that this was the Army, and he would wonder how long it might be before they would reach Poitiers or Bourges, or Orleans or Troyes. The weeks of marching were fuddled together in his head as sleep oppressed it. Once and only once he did completely lose all sense of motion in the depth of sleep, and then for five good minutes he dreamt that he smelt the smell of dried ferns, and that he was well sheltered in a hiding-place, and that no trouble weighed on him, because a friend of his would soon come in and find him there. Of her voice, which in that moment of dream he clearly remembered, his mind was still full when he half awoke with a start that saved his balance. He settled himself into the saddle again, and the remaining hours of the darkness he still imperfectly, heavily, and drowsily dreamed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Puoi procurarmi un altro animale da montare?” chiese.
+
+“Solo smontando un uomo si può risolvere il problema”, disse Boutroux. “Ne abbiamo già fatto abbastanza in questo senso”.
+
+“Allora,” disse l’assistente del veterinario, “montalo finché non crolla.” E con queste parole uscì.
+
+“Ma Boutroux, avvicinandosi al suo cavallo e guardandolo con affetto nel viso, disse…”
+
+“Horse Pascal, tu ed io abbiamo vissuto insieme molte avventure, e ti considererò sempre un mio amico fedele. Ti conosco da ormai cinque settimane, e non ricordo nessun altro amico che sia stato al mio fianco per così tanto tempo, né che sia rimasto affidabile dopo un periodo così lungo. Inoltre, nessun altro amico di cui mi ricordi avrebbe voluto restare con me per una durata anche solo paragonabile. Vado a prenderti qualcosa di piacevole.”
+
+Camminava con aria trionfale per il fienile, muovendosi tra le gambe degli uomini che dormivano dopo quel momento di libertà pomeridiano; nessuno sapeva infatti cosa potesse riservare la notte. Trovò su uno scaffale all’estremità del fienile un mucchio di carote; ne rubò tre delle più grandi e tornò dal cavallo.
+
+“Ora mangia,” disse, e il cavallo morse avidamente le carote. “Mangia, cavallo, mangia: la vita di un soldato ha pochi piaceri; è senza dubbio gloriosa, ma povera in divertimenti. Mangia! A volte la vita di un soldato è difficile, ma ora sei al sicuro. Mangia, mio buon Pascal; Dio sa cosa accadrà domani.”
+
+E proprio mentre lo diceva, si udirono rumori per strada: voci di donne acute e esasperate o nel panico, uomini che si muovevano rapidamente; subito dopo, il doppio suono delle trombe che chiamavano i comandanti delle truppe a presentarsi dal colonnello.
+
+Boutroux uscì: era il tardo pomeriggio; non era ancora abbastanza buio da impedire a una persona di leggere.
+
+La strada era piena di gente; ognuno raccontava la propria versione degli eventi accaduti. E da un’estremità della strada, quella settentrionale che conduce verso Auve e la strada per [[Paris|Parigi]], continuavano ad arrivare altre persone che aumentavano ancora di più la folla.
+
+“L’ nemico è stato visto sulla collina sopra Herpont”, disse uno. “No”, disse un altro, “dall’altra parte della grande strada”. Un terzo, che affermava di averli visti personalmente ma in realtà mentiva, giurò che le forze principali avevano occupato la linea della grande strada. Un quarto, cauto e ateo per professione, disse che queste paniche si verificavano regolarmente ogni tre giorni e che lui, personalmente, non credeva a una parola di tutto ciò. Uno dei sergenti maggiori più anziani stava guardando su per la strada, come se aspettasse qualcosa. Boutroux gli si avvicinò e chiese quale fosse la vera notizia. L’uomo anziano alzò le spalle.
+
+“La loro cavalleria ha inviato avanti alcuni esploratori, nient’altro.”
+
+“Fino a dove?” chiese Boutroux.
+
+“Nessuno sembra saperlo,” disse l’uomo anziano.
+
+Il capitano della terza truppa, un uomo appena promosso, robusto e pieno di energia, salì a cavallo imprecando senza sosta. Mentre passava gridò che l’ordine era di partire immediatamente; chi avesse iniziato per primo avrebbe avuto il vantaggio, perché dopo il suono delle trombe non ci sarebbe stato molto tempo.
+
+Boutroux tornò di corsa tra la sua gente, nel fienile, svegliandoli; proprio in quel momento risuonarono nelle strade della piccola città i segnali di partenza. Ma subito dopo arrivarono ordini urgenti di accelerare le operazioni; con il calare della sera, l’attività insopportabile ricominciò. Tutti si alzarono di nuovo in piedi, tranne quei pochi che erano rimasti indietro durante l’ultima sosta; alcuni, a causa della perdita dei cavalli, dovettero proseguire a piedi lungo la strada di Voilement. E con il calare della notte, il reggimento ripartì, continuando ancora una volta a dirigersi verso nord, lungo la valle del fiume Yevre.
+
+Perché dirigersi verso nord o dove altro, nessuno lo sapeva se non chi aveva dato l’ordine; tuttavia, ogni miglio del cammino indicava con maggiore chiarezza il percorso seguito dall’esercito, e loro sapevano di essere alle calcagna di Kellermann. Quanto tempo avrebbero dovuto marciare, se, come molti immaginavano, per tutta la notte, dove sarebbero usciti da quel viaggio, in quale luogo si sarebbe effettuato l’incontro con le altre truppe, quali possibilità di azione avrebbero avuto, nessuno lo sapeva. Ma proprio quando calò completamente l’oscurità, verso le nove di sera, uno dopo l’altro iniziarono a percepire l’avvicinarsi di qualcosa di terribile e familiare: era la pioggia!
+
+Avevano avuto solo un giorno di tregua, ma ora quella tregua non li lasciava più. Si curvarono sotto il peso, e anche i poveri cavalli abbassarono la testa; per tutta la notte pioveva, freddamente e senza sosta, senza che nessun vento ne accelerasse la forza; e per tutta la notte la colonna continuava ad avanzare. Le condizioni diventavano sempre peggiori: il fango schizzato dalle strade di terra si accumulava sempre di più, rendendo il cammino ancora più difficile.
+
+Nelle prime ore del mattino, più di uno di quegli uomini ebbe l’impressione che qualcosa potesse cedere da un momento all’altro, che una tale tensione non potesse continuare a lungo. Boutroux, come molti altri, dormiva sulla sella, sobbalzando in modo semi-conscio; le borse della sella e i suoi staffili (segnatamente accorciati, contro tutte le tradizioni della cavalleria) lo tenevano fermo al suo posto. Mentre sobbalzava in quel modo, per alcuni momenti si immaginò di essere il postiglione di una carrozza, in una notte buia, lungo un sentiero solitario in alta quota; sentiva la pioggia battergli sul viso. Poi si svegliava improvvisamente quando il vecchio cavallo inciampava, o quando qualcuno nelle tenebre lo urtava. Allora riprendeva a dormire, sognando di essere su un carro che si allontanava dal luogo in cui aveva iniziato la sua prima avventura; a volte, nella sua mente assonnata, ricordava vagamente di essere un soldato e che quello fosse l’esercito. Si chiedeva quanto tempo ci sarebbe voluto prima di raggiungere Poitiers, Bourges, Orleans o Troyes. Le settimane trascorse in marcia si confondevano nella sua mente, sopraffatta dal sonno. Solo una volta perse completamente la sensazione del movimento, nel profondo del sonno. Per cinque minuti interi sognò di sentire l’odore delle felci secche, di essere al sicuro in un nascondiglio, senza alcun problema. Pensava che presto un amico sarebbe venuto a trovarlo lì. Il suono della sua voce, che ricordava chiaramente in quel sogno, gli rimase nella mente quando si svegliò di colpo, salvandogli l’equilibrio. Si sistemò di nuovo sulla sella e trascorse le restanti ore di oscurità sognando ancora, in modo confuso e assonnato.
+
 
 
 <span class="atom-split" data-atom="chapter_21--part_01" data-title="The Girondin — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/rain,motif/fog_and_smoke,motif/dawn,motif/death,motif/horse,concept/war_and_its_cost,form/historical_novel,histref/the_french_revolution,histref/battle_of_valmy,setting/battlefield"></span>
@@ -7199,6 +10521,44 @@ Thud!... it was the earth that carried the sound. Half a minute’s silence, the
 What guns and whose had thus opened the game none but the staff could tell — but they were firing, and there was action. For some few moments an alertness and almost a gaiety came into the eyes of these young men, broken with fatigue though they were and with the ceaseless marching of the night.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XXI
+
+Valmy.
+
+Allo spuntare del giorno, dopo quella notte di pioggia incessante e fango, la luce debole e cupa della mattina senza speranza rivelava solo campi desolati, dove alberelli stentati tremavano sotto la pioggerellina continua. La colonna si fermò improvvisamente davanti a loro; il vecchio cavallo bianco si arrestò di scatto; Boutroux, appoggiato alla sella, fu svegliato di soprassalto. Si raddrizzò e si rese completamente conto della situazione.
+
+“Più vivo,” mormorò al suo povero animale da soma, “più imparo! Alzati, mio povero amico. Un uomo può dormire in sella, a digiuno, e sotto una doccia. Sarebbero stupiti a casa loro!”
+
+Non appena quelle parole gli uscirono dalle labbra, ebbe una visione improvvisa e nitida davanti agli occhi, troppo nitida, tanto da superare l’illusione della fame e della stanchezza. Vide la Gironda sotto il sole, il molo, le antiche e nobili case; la sua stanza e i suoi libri gli tornarono alla mente. Era il sonno che ritornava. Ma il vecchio cavallo inciampò, e quell’immagine scomparve. Aveva un amico e una realtà concreta davanti a sé. C’era un cavallo che, per il momento, gli andava abbastanza bene. Ma che miseria!
+
+Con quel pensiero, accarezzò il collo bagnato e fumante della sua sfortunata bestia. Ma la povera vittima non poteva essere consolata; muoveva le zampe una dopo l’altra in modo meccanico, con un senso di disperazione profondo.
+
+“Boutroux si guardò intorno all’alba e vide una scena desolante…”
+
+Due miglia o più di uomini si estendevano disordinatamente lungo la strada davanti a lui. Nella sua stessa truppa non c'era alcun segno di ordine. Gli uomini al suo fianco e quelli immediatamente davanti a lui erano più o meno suoi compagni, ma non appartenevano tutti alla stessa truppa. Tra loro, in un disordine senza speranza, zoppicavano alcuni ragazzi: i loro uniformi erano strappati; uno di loro aveva la suola di una scarpa rotta, un altro aveva il viso avvolto in un pezzo di stoffa che qualche donna gentile gli aveva prestato. Aveva mal di denti e la guancia era gonfia.
+
+Gli altri membri della compagnia erano mescolati con gli ussari; c'erano anche due artiglieri, arrivati chissà da dove, i cui abiti scuri erano coperti di fango, come se si fossero rotolati nella melma; inoltre, il loro equipaggiamento era troppo grande per loro, premuto contro le orecchie e la fronte.
+
+Molto avanti, un groviglio di carri lottava per avanzare nonostante il maltempo; nei campi paludosi a destra, una ridicola tentativa di attacco laterale veniva condotta da una dozzina di cavalli che, con fatica, si muovevano nel fango allagato. Di tanto in tanto, da lontano giungevano ordini gridati e imprecazioni; in un punto vicino, Boutroux vide un uomo accasciato sul ciglio della strada e un sergente che lo colpiva con la canna del fucile per farlo muovere. Ma quell’uomo non si muoveva, perché era morto. Eppure, mentre assisteva a quella scena, dopo tutta quella notte e tutta quella stanchezza, Boutroux sorrise: in quel momento c’era qualcosa di significativo dal punto di vista politico. Il sergente era un uomo anziano, e il suo reggimento possedeva delle tradizioni; un reggimento che si vantava di chiamarsi “Artois”. Le sue divise bianche ormai erano logore e sporche. Il sergente di Artois abbandonò la sua missione, e Boutroux distolse lo sguardo. Non era abituato alla morte degli uomini.
+
+L'alba sorse sopra quella grande e disperata forza, attraverso la pioggia incessante; essa percorse gli ultimi chilometri, avvicinandosi, come credeva, alla sua fine.
+
+Man mano che la luce si diffondeva, una fitta nebbia li avvolgeva completamente. Era una nebbia attraverso cui la pioggia fine, quasi impercettibile, cadeva sui loro abiti già bagnati. Con misericordia, quella nebbia nascondeva da quegli uomini scoraggiati e distrutti ogni visione al di fuori del loro compito immediato. Attraversarono le strade di un villaggio; la lunga fila di persone ne approfittò per nascondersi in vicoli laterali, nella speranza di sfuggire a ciò che stava per accadere. Si avvicinarono a un ponte stretto e fatiscente: all’inizio di esso, con la forza, era stata ristabilita una sorta di ordine. Gli uomini a piedi furono spinti indietro, mentre la cavalleria fu fatta avanzare per prima; tra le prime centinaia di persone c’era anche la truppa di ussari di Boutroux, montati in modo disordinato e desiderosi soltanto di morire. Anche nella sua stessa stanchezza, mentre lo attraversava, Boutroux, per il quale le cose che gli occhi vedevano erano molto preziose, notò che il piccolo ruscello scorreva di un colore bianco latteo, e trovò la cosa curiosa.
+
+“Tutto,” si disse, “in questa maledetta terra del Nord è strano…”
+
+Un quarto d'ora dopo, in testa alla strada che si snodava verso l'alto, mentre gli ussari faticavano ad avanzare con i zoccoli immersi nel fango, nella nebbia apparve una fila di alberi alti; per la cavalleria, dopo una marcia così faticosa, fu un certo conforto ritrovarsi su quella grande strada principale. Furono disposti in fila a sinistra lungo di essa, e si diffuse tra loro la notizia che il campo principale era vicino.
+
+Sette rintocchi risuonarono dal vecchio campanello crepato del villaggio sottostante: il suono era acuto e metallico, ma attutito dalla nebbia. Quando l’ultimo rintocco echeggiò, tutto l’ambiente misterioso e oscuro fu di nuovo avvolto nel silenzio nebbioso, interrotto soltanto dal rumore dei passi umidi sulla terra umida, mentre quella fila di persone si muoveva disordinatamente, risalendo lungo il ruscello fino all’altezza della strada.
+
+All'improvviso, le loro menti e tutto il paesaggio immaginario al di là della nebbia cambiarono per loro a causa di un suono che pochissimi tra quei migliaia ammassati avevano mai sentito prima. Era quel suono che tutti coloro che vivevano lì avrebbero udito per vent’anni: il rimbombo improvviso e inaspettato dei cannoni. Lontano, a sinistra, lungo la grande strada – sembrava trovarsi su un’altura, a giudicare dal rumore – stavano sparando. Il suono arrivava ancora e ancora, forse a un miglio di distanza, o forse più lontano.
+
+Thud!. Era la terra stessa a trasmettere quel suono. Mezzo minuto di silenzio, poi di nuovo – Thud!. Si sarebbe potuti giurare che anche le foglie appese agli alberi lungo la strada avessero tremato. Gli animali meno stanchi e più giovani della lunga fila di cavalli si agitarono al suono, annusando l’aria. Thud!. Il suono arrivò ancora una volta.
+
+Quali armi e di chi avessero aperto il fuoco, solo i soldati lo sapevano; ma stavano sparando, e c'era azione in corso. Per alcuni momenti, negli occhi di quei giovani uomini apparve un senso di allerta e persino di allegria, nonostante la stanchezza e il continuo cammino notturno.
+
 
 
 <span class="atom-split" data-atom="chapter_21--part_02" data-title="The Girondin — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/fog_and_smoke,motif/horse,concept/war_and_its_cost,concept/fear,form/historical_novel,histref/the_french_revolution,setting/battlefield"></span>
@@ -7235,6 +10595,38 @@ The head of the hussars had reached a crest, the infantry had already occupied i
 It was ten o’clock when the halt came. Till noon there was no further movement. The hussars had dismounted again; the fog rose lighter and lighter yet; the wind strengthened and scattered it over great patches of dull landscape; here and there a mass of distant men, the enemy, appeared westward from the height on which the cavalry stood.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il vecchio cavallo di Boutroux alzò la testa con un gesto appena percettibile; anni prima, quel gesto avrebbe potuto significare che riconosceva quel suono. Ma poi la testa ricadde giù, e l’animale rimase fermo, stanco come sempre, nella lunga fila di cavalleria schierata accanto alla strada.
+
+Un rumore più debole, meno sicuro, più lontano iniziò a rispondere: il nemico aveva iniziato la sua controffensiva. Thud! Thud!. Le batterie più vicine sparavano sempre più velocemente, e anche quelle più lontane seguivano lo stesso ritmo; per un’ora quel suono passò da un battito regolare a un ruggito incessante, fino a diventare una furiosa cannoneggiata.
+
+Ma tutto quel trambusto e quei suoni maestosi rimanevano nascosti dietro un velo; e quei cannoni sembravano far parte di cose spettrali e invisibili.
+
+Nessuna ombra di uomo si avvicinava lungo la strada, immersa nella nebbia grigia; solo di tanto in tanto una leggera brezza, sollevata forse dall’ira dell’artiglieria lontana, creava uno spazio aperto davanti agli occhi della cavalleria. In quei momenti si poteva vedere per mezzo miglio lungo la strada: l’infanteria schierata in fila; i carri fermi sul ciglio della strada; un gruppo di ufficiali con le mappe, che osservavano attentamente e tendevano l’orecchio verso il suono dei colpi d’artiglieria. Poi quella strada, aperta per un attimo, si richiudeva rapidamente dietro nuove ondate di nuvole, inghiottendo tutta la campagna: terre desolate e brulle; resti umidi e malridotti dei raccolti; distese di terra bianca, spoglie a causa della carestia, dove nemmeno l’orzo riusciva a crescere. E tutto intorno continuava il rombo e il tuono dell’artiglieria.
+
+Una brigata di cavalleria passò davanti a loro; gli ussari, dismontati, li osservarono allontanarsi con invidia. Non riuscivano a capire nulla di più di quanto i loro compagni lasciati indietro avessero spiegato, ma almeno loro stavano per agire. Mentre quella semplice sosta sotto la pioggia rappresentava un ulteriore peso di disperazione per i loro compagni meno fortunati.
+
+Il rumore dei loro passi si perse nella nebbia: il cannoneggiamento era diminuito fino a ridursi a un fitto scambio di colpi, che alla fine provenivano soltanto dalle artiglierie più lontane. I giovani parlavano tra loro senza uno scopo preciso; alcuni soldati dell’infanteria, all’estremità della lunga linea disordinata lungo la strada, si trovavano in una condizione di eccessiva libertà. Si erano avvicinati e stavano parlando con i loro compagni degli ussari a cavallo quando, improvvisamente e inaspettatamente – come quel primo cannoneggiamento, ma venti volte più violento – risuonò un altro sparo, ancora più vicino e insopportabile. Si fermò bruscamente: due minuti dopo, attraverso la nebbia, si udì un nuovo rumore; assomigliava al fragore delle acque in piena o al suono di un uragano che scuote gli alberi di notte. Era l’avvicinamento di uomini sconfitti e disperati.
+
+All’inizio, alcuni di loro volarono in totale disordine, uscendo dalla nebbia, poi si fermarono e cercarono di formare di nuovo uno schieramento quando incontrarono l’infanteria e la cavalleria schierate lungo la strada. Poi, man mano che sempre più di loro arrivarono in preda al panico, lo schieramento si spezzò nuovamente.
+
+Dispersi, confusi, radunati qua e là in gruppi scomposti da superiori disperati, vorticando in mulinelli, allontanandosi tra maledizioni, colpi e invocazioni. Mezza brigata, o forse di più, di quella folla in fuga si precipitò lungo la grande strada per poi essere nuovamente inghiottita dalla nebbia.
+
+Gli ussari ebbero appena il tempo di notarli: si sentì un ufficiale dire all’altro che i resti appartenevano a Dumouriez. Quando un altro corpo apparve lungo la strada principale, in condizioni leggermente migliori ma gravemente ferito.
+
+Seguiva un gruppo di carri danneggiati e disordinati, con pezzi sparsi ovunque e, qua e là, il carro di un cannone rotto. I cavalli delle squadre avevano sangue sui fianchi; più di uno di quei carri veniva trascinato da una squadra la cui guida o uno dei ruote era stato spezzato, tanto che l’estremità del carro penzolava lì, annodata e spezzata. In mezzo a quel caos assordante di urti e sobbalzi, passò anche un gruppo a cavallo: seguendo quella confusa processione, con maggiore dignità e in ordine molto migliore, avanzava una forza montata. Anche questi passarono e scomparvero nella nebbia lontana. Il rumore della fuga diminuì fino a cessare del tutto. Poi apparve la strada ormai deserta: due ufficiali correvano a tutta velocità; gli ufficiali incaricati di controllare le posizioni lungo il percorso li accolsero. In quindici minuti, l’infanteria e gli ussari si schierarono in colonna e ripartirono verso est, per continuare la loro interminabile marcia verso chissà quale destinazione.
+
+I giovani avevano sentito i cannoni e visto l’inizio della guerra: erano confusi, e ciò che ricordavano con maggiore chiarezza era quella mattina caotica, piena di grida di panico e di fuggitivi che scorrevano davanti a loro, mentre il caffè era caldo e abbondante. C’era stato caffè e pane in quantità enorme. Lo ricordavano tutti per molti giorni dopo.
+
+A meno di un miglio di distanza, attraverso la nebbia che si alzava, videro vagamente la guglia e le case di un altro villaggio situato sulla grande strada; dietro di esso si estendeva un intero campo di tende dove l’armata principale di Kellermann aveva trascorso quella notte umida. Ma già mentre si avvicinavano, le tende si distinguevano chiaramente; una vasta quantità di equipaggi e carriaggi stava muovendosi verso le colline deserte sopra di loro, mentre le prime colonne iniziavano a lasciare la grande strada per dirigersi verso quei campi; anche gli ussari facevano parte di quella marcia. I cavalli si sforzavano di avanzare nel fango di quelle terre arate; gli uomini che cavalcavano davanti sceglievano i tratti più difficili da percorrere, e ogni tanto l’intera colonna si fermava quando la testa della fila incontrava un tratto più agevole.
+
+La nebbia si diradava sempre di più; il vento aveva preso forza. La linea dell’orizzonte in lontananza appariva più netta, e i soldati iniziarono a dire che stavano avvicinandosi a una posizione strategica. Lontano, nella nebbia – all’inizio dietro di loro, ma poi sulla loro sinistra man mano che la lunga fila di uomini si dirigeva verso nord – si udivano spari intermittenti e attutiti provenire dai cannoni degli invasori.
+
+Il capo degli ussari aveva raggiunto una cresta; l’infanteria aveva già occupato il versante adiacente, quando dall’alto discese una massa di soldati irregolari che gridavano ordini che fermarono immediatamente la colonna: i due miglia di uomini dovettero arrestarsi.
+
+Erano le dieci quando si fermarono. Fino a mezzogiorno non ci furono più movimenti. Gli ussari erano scesi di cavallo; la nebbia diventava sempre più leggera; il vento si intensificò e la disperse su vaste distese di paesaggio monotono; qua e là, sulle alture dove si trovava la cavalleria, apparivano gruppi di uomini lontani, il nemico.
+
 
 
 <span class="atom-split" data-atom="chapter_21--part_03" data-title="The Girondin — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/fog_and_smoke,motif/horse,concept/war_and_its_cost,concept/fear,form/historical_novel,histref/the_french_revolution,setting/battlefield,character/kellermann"></span>
@@ -7266,6 +10658,34 @@ They hid from Boutroux the guns that were massed in front, on the edge of the hi
 
 Having so seen, Boutroux went back to his shelter and tried to bear the noise. He was about to soften its terrors by further gentle conversation with his mount, when a crash so very much more abominable than all he had yet heard drove from him the memory of name and place and time. The whole fabric of the mill shivered, the air was a moment stunned and dead... the dreadful pause of a second, no more, was followed by a dense cloud of black and pungent smoke blowing before the high wind past either side of the building, and in the same moment came up that terrible unnumbered cry of many wounded men, shrieking and rising pointed upon a background of yet more terrible moans. He heard articulate appeals for death, and next, immediately, he saw great lumps of the linesmen crouching, turning, hiding, in every attitude; a moment later and a whole brigade was flying past him, with officers and sergeants cursing in German, striking and wounding and turning the cattle back with the sword — it was the German mercenaries maddened by the explosion of the limbers, and roaring for safety from such hells. Boutroux was like a man moored to the pier of a bridge during the swell of a flood; he was protected from that flood of war by the brickwork of the mill, but he was enclosed with swirls of panic on every side.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Boutroux e le sue truppe tenevano i loro cavalli al riparo del lato sottovento di un grande mulino che li proteggeva in parte dal maltempo; più lontano, in mezzo a quel caos meteorologico, si estendevano le migliaia di soldati dell’esercito, disposti in modo disordinato. Accanto al mulino e lungo la cresta che lo precedeva, erano schierate truppe di ogni tipo. Da dietro il riparo offerto dal mulino, Boutroux osservava con totale indifferenza come batteria dopo batteria – un totale di sei – avanzassero lentamente attraverso quella folla disordinata, fino a raggiungere le posizioni previste sulla cresta della collina.
+
+Tutti dietro il mulino e su entrambi i lati c'era un caos di uomini, per lo più appartenenti alle forze a cavallo, sparsi in modo disordinato. Nello stesso versante riparato della collina si trovavano piccoli gruppi di uomini che si erano separati dal resto delle truppe, alcuni feriti, e anche gruppi di genieri. Qui e là si vedevano gruppi di granatieri con i loro alti mantelli di pelliccia; la maggior parte della cavalleria attendeva a piedi, e l'intera riserva era completamente disorganizzata.
+
+Era mezzogiorno, e non c'era nulla da fare. Boutroux rifletteva tra sé su quanto fosse strana la vita militare in azione, e su quanto fosse incomprensibile una battaglia, se davvero si trattava di una battaglia; a giudicare dal continuo cannoneggiamento in lontananza, sicuramente lo era. Tentò vagamente di indovinare quale potesse essere il piano degli assalitori, ma abbandonò quel tentativo senza nemmeno chiedere aiuto al suo vecchio cavallo bianco. Si accovacciò nell’ombra del mulino, osservando i volti stanchi e vuoti delle persone intorno a lui, chiedendosi cosa si stesse facendo oltre la cresta della collina. Vide poi un barile di vino trascinato lentamente su due ruote da un asino, guidato con difficoltà da una donna orribile appartenente al 98° reggimento.
+
+Per tutto il tempo, i cannoni lontani continuavano a tuonare incessantemente; di tanto in tanto, un proiettile cadeva lontano sopra le loro teste, per poi finire nella valle più distante e scomparire nella nebbia. Altre volte, grazie a una mira più precisa, i proiettili colpivano vicino alle mura del mulino, facendo tremare il terreno. A volte, molto raramente, un colpo ancora più fortunato per l’avversario, o una mira ancora migliore in momenti in cui il vento era calmo, causava un vero e proprio disastro: rumori di rovine, colpi violenti, seguiti da confusione e grida.
+
+Ma comunque, c’era molto poco da fare. Boutroux masticava il suo pane e fissava le scorte davanti a sé. Vedeva solo molti uomini sfortunati, fradici come se avessero nuotato in un stagno; un gran numero di cavalli e carri, e qua e là provviste; il fumo di un fuoco acceso per riscaldare il caffè nonostante il tempo freddo. E, di tanto in tanto, il fischio e lo schianto di proiettili che cadevano vicino, accompagnati dal rumore irregolare, lontano e cupo dei cannoni nemici.
+
+Poi, quando arrivò mezzogiorno, anche le armi delle sue stesse truppe iniziarono a sparare; si trovavano a meno di cento metri da lui; il rumore scuoteva l’aria, la terra, e tutte le sue ossa. Gli sembrava insopportabile. Il cannoneggiamento avveniva proprio vicino al mulino; ogni quarto di minuto gli distruggeva tutto intorno, soffocando tutti i suoi sensi. Ma doveva sopportarlo. Doveva farlo, Boutroux. E per quanto riguardava quel vecchio cavallo bianco, non gli importava affatto né del rumore più vicino né di quello più lontano.
+
+Il vento stava aumentando di intensità; la nebbia si era trasformata in nuvole basse che si muovevano rapidamente al suo passaggio. Ora non c’era più né nebbia né pioggerellina, anche se l’aria era molto fredda; gli spazi aperti tra le nuvole diventavano sempre più ampi e frequenti, e la luce del sole – per la prima volta in tutti quei giorni terribili – illuminò i colori opachi di quella zona. Un uomo si avvicinò a Boutroux e gli disse che valeva la pena guardare quello spettacolo.
+
+“Vale la pena vederlo, cosa?” disse Boutroux.
+
+“Stanno iniziando ad avanzare,” disse. Raccontò a Boutroux che da un punto poco più indietro, dove c'era una fessura, si poteva vedere tutto. Ma Boutroux non voleva vedere: preferiva rimanere lì dove era, con il suo cavallo, al riparo del mulino. Tutto ciò andava ben oltre la sua comprensione.
+
+Per tutto quel tempo, quel rumore assordante e scuotente proveniente dai cannoni francesi tormentava e confondeva l’aria. Sentì grida forti di comando: la lunga fila oltre il mulino stava seguendo qualche tipo di ordine; si stavano formando in tre colonne. Vide uomini chiamati da gruppi sparsi che si affrettavano a mettersi i fardelli in spalla; vide persone correre per prendere il loro posto nella coda delle compagnie. Poi, durante una pausa in quel fuoco incessante, sentì un enorme coro di grida di gioia, insieme a grida politiche confuse, entusiaste e giovani, che gli ricordarono le strade della sua città natale.
+
+La sua curiosità ebbe la meglio su di lui. Legò il suo morso allo spillo fissato alla porta del mulino, sbirciò oltre l’angolo del muro in mattoni, e non vide nulla. Almeno, non vide altro che quelle tre grandi masse di uomini, tutti radunati lì in modo solenne.
+
+Nascosero a Boutroux le armi ammassate davanti, sul bordo della collina, ma per un momento lui vide Kellermann e il suo stato maggiore montare a cavallo e apparire in alto sopra la linea di battaglia. Mentre il generale avanzava lungo la prima linea, proprio prima che la sua figura scomparisse tra le truppe alle sue spalle, Boutroux lo vide guidarle e rispondere agli applausi; la piuma a tre colori del suo cappello sventolava sulla punta della sua spada.
+
+Dopo aver visto tutto ciò, Boutroux tornò al suo rifugio e cercò di sopportare quel frastuono. Stava per alleviare la sua angoscia continuando a parlare dolcemente con il suo animale da soma, quando un fragore ancora più terribile di qualsiasi altro avesse mai sentito cancellò dalla sua mente ogni ricordo di nome, luogo e tempo. L’intera struttura del mulino tremò; l’aria per un istante rimase immobile. Quell’orribile pausa durò appena un secondo, poi una densa nuvola di fumo nero e acre si diffuse davanti al vento forte che soffiava intorno all’edificio. Nello stesso momento si levò quel terribile grido proveniente da molti uomini feriti, che urlavano disperatamente mentre altri emettevano lamenti ancora più angosciosi. Boutroux sentì richieste esplicite di morte; subito dopo vide grandi gruppi di soldati accovacciarsi, girarsi intorno, nascondersi. Un attimo dopo un’intera brigata gli passò davanti a tutta velocità: ufficiali e sottufficiali imprecavano in tedesco, colpivano e ferivano i soldati, costringendoli a tornare indietro con la spada. Erano i mercenari tedeschi, impazziti dall’esplosione delle munizioni, che cercavano disperatamente di salvarsi da quell’inferno. Boutroux era come un uomo legato al molo di un ponte durante una piena; il muraglione del mulino lo proteggeva da quella furia distruttiva della guerra, ma intorno a lui regnavano solo panico e terrore.
 
 
 
@@ -7318,6 +10738,54 @@ Boutroux slowly lifted himself from his cramped position, not without a twinge i
 
 Boutroux pushed open the mill door, helped himself to a nice wisp of straw, and very slow! and methodically began to groom his beast, telling it as he did so all manner of entertaining things.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Finì presto. Riuscirono a mettere sotto controllo quegli uomini pagati, proprio come si riesce a domare un incendio. La folla fu riportata all’ordine: una dopo l’altra, le truppe di cavalleria furono radunate e inviate avanti. Gli ussari, invece, rimasero da parte, senza alcuna missione da svolgere al riparo della collina; nessun ordine venne loro impartito. Una sensazione di stanchezza iniziò a diffondersi (sulla cresta oltre, i cannoni continuavano a tuonare); Boutroux, sotto il peso considerevole delle scorte di avena, si avviò verso il suo cavallo. All’inizio l’anziano cavallo bianco rifiutò di mangiare, ma Boutroux lo persuase con dolcezza.
+
+“Non ho vino per te,” disse; “ma se vuoi mangiare, come una brava bestia, ti porterò dell’acqua dai cannonieri.”
+
+I cannoni continuavano il loro “danza” con ancora più furia di prima. Di tanto in tanto si levava un grido isolato, che ricordava a Boutroux quella prima ondata di esultazioni quando Kellermann aveva rincuorato le truppe due ore prima. Ora e poi il fragore improvviso di un proiettile, il rumore e i lamenti che ne derivavano, o il terreno davanti a lui colpito da un tiro casuale, lo facevano sobbalzare. I cannoni continuavano. Boutroux ormai sembrava far parte di quel fragore assordante; aveva quasi dimenticato com’era una giornata senza cannoni, eppure questi erano i primi cannoni che avesse mai conosciuto. Le cose arrivano velocemente.
+
+Ora dopo ora, per tutto il pomeriggio, quel rumore riempiva il cielo; fino a quando, finalmente, verso le cinque (almeno così diceva il suo stomaco, sebbene scosso dal fuoco, indicando che era l’ora di mangiare la zuppa), il suono lento e continuo dei cannoni divenne sempre più evidente per chi ascoltava.
+
+Man mano che i colpi intermittenti e sempre più rari si susseguivano l’uno dopo l’altro, la nebbia, ormai completamente dissipata, e il cielo aperto che ne era seguito vennero a loro volta sostituiti, forse come conseguenza di un duello così terribile, da un cupo cielo tempestoso; l’ultima vendetta del tempo avverso di quei quindici giorni si abbatté con furia su migliaia di persone radunate intorno al mulino, poi passò, e il cielo tornò sereno. Non ci furono più colpi d’artiglieria; solo, molto lontano a nord, qualche sparo isolato. La cannonata era finita.
+
+Poi, per forse mezz’ora, calò un silenzio strano e insolito. Boutroux, dietro il mulino, non poté fare a meno di notarlo. Era così silenzioso che il cigolio delle vele del mulino che ruotavano sul loro albero, nel vento leggero ma costante, sembrava riempire tutto lo spazio intorno. Era così silenzioso che anche i sussurri degli uomini, altrettanto sbalorditi di lui, risuonavano chiaramente, come se si trovassero in una stanza. La nuvola di fumo avanzava lentamente e silenziosamente verso est nel cielo; sembrava quasi un banco di scogli sopra di loro. Alla fine, uno sparo ruppe quel silenzio solenne. Il fumo si alzò dal Mont Yvron, a un miglio di distanza. Era stato sparato come un segnale. Non ci fu alcuna risposta.
+
+Per un'altra mezz’ora continuò questo strano silenzio. Fu improvvisamente interrotto dal suono acuto del bronzo: un trombettiere troppo anziano per essere un soldato, qualche contadino analfabeta dei tempi passati, abituato a molte battaglie, stava suonando la chiamata all’assemblea a meno di cento metri dal mulino. Accanto a lui c’era un piccolo tamburino, con l’uniforme di un reggimento reale: molto ordinato e (per un esercito del genere!) quasi pulito; ricordava le tradizioni del Re e di tempi meno difficili.
+
+Gli uomini accorsero da tutte le direzioni come se fossero stati chiamati da un annunciatore pubblico; vedevano infatti, insieme a questi due, anche un terzo individuo che, a cavallo, aveva l’incarico di leggere ad alta voce degli ordini. Boutroux rimase fermo dove si trovava, troppo indifferente per muoversi, ma allo stesso tempo molto interessato da quella scena.
+
+“Cavalli,” disse saggiamente, “questa è una battaglia. Non dimenticatelo. Le cose non sono come i ragazzi le immaginano quando sono bambini. Questa è stata davvero una battaglia. Un giorno dovremo esserne orgogliosi.”
+
+La voce alta e sonora dell’uomo che leggeva l’ordine risuonava chiaramente, anche se troppo lontana per essere udita distintamente attraverso l’aria bagnata dalla pioggia; in piedi sul cavallo, si stagliava contro la luce morente di quella serata di settembre umida e fredda, in modo tanto profetico e meraviglioso da lasciare un’impressione indelebile. Ma Boutroux pensò tra sé: “Avrò tutto il tempo per conoscere le notizie non appena avrà finito”. Non dovette aspettare a lungo: la lettura dell’ordine terminò presto, il piccolo tamburino suonò una sequenza vivace e prolungata, la tromba risuonò di nuovo, e i tre continuarono il loro cammino verso un altro gruppo. La folla composta da uniformi strappate e volti segnati dal dolore che si era radunata per ascoltare l’ordine si disperse, ognuno tornando al proprio cibo e al proprio posto. Quelli che erano stati vicini a Boutroux sotto il mulino ripresero lentamente la loro strada.
+
+“Avete perso qualcosa, Sergente,” disse uno di loro.
+
+“Cos’è quello?” disse Boutroux.
+
+“È stata una grande vittoria, e ora c’è una Repubblica,” disse l’altro.
+
+“Che cos’è una Repubblica?”, chiese Boutroux.
+
+“Non lo so”, disse il soldato, “ma suona davvero fantastico!”
+
+Disse così e giurò che sarebbe andato a bere in onore della Repubblica; e, avendo fatto questo giuramento, si diresse verso il luogo dove la donna del bar vendeva, a un prezzo esorbitante, piccole coppe di vino dal suo barile mobile su ruote.
+
+Per quanto riguarda Boutroux, seduto sul terreno bagnato con la schiena appoggiata al basamento del mulino, alzò lo sguardo verso il suo cavallo e mormorò: —
+
+“Caro amico, senti quello che dico?. Ma mi sono dimenticato: tu non rispondi mai alle mie domande. Beh, allora te lo dirò io stesso. Abbiamo ottenuto una grande vittoria, e ora c’è una Repubblica.”
+
+Per la prima volta dopo tanti giorni, il vecchio cavallo, sazio di avena, nitrì finalmente. Voleva dell’acqua.
+
+Boutroux si alzò lentamente dalla sua posizione scomoda; dopo un tempo simile, i suoi articolazioni protestavano. Si avvicinò a una pistola che aveva vicino e legò il secchio con essa.
+
+“Ordini di non prestare quel secchio,” borbottò l’uomo rimasto con la pistola.
+
+“Scusa,” disse Boutroux. Si allontanò e pregò il vecchio cavallo bianco di bere quella roba sporca. “Sa di polvere, lo so,” disse, “ma tutta questa maledetta attività commerciale è così.” Alla fine, il vecchio cavallo bevve.
+
+Boutroux spalancò la porta del mulino, si prese un bel mazzo di paglia e, molto lentamente e metodicamente, iniziò a curare il suo animale, raccontandogli intanto ogni sorta di storie divertenti.
 
 
 
@@ -7408,6 +10876,92 @@ Before Boutroux’s eyes was a mad confusion of plunging horses, men’s feet in
 
 Less conscious than a man in a drunken sleep, he knew that they were moving him, but he knew it only by newer and sharper experiences of pain: he was conscious of that so fully that there was room for nothing else. It was as though the colour upon which his closed eyes dully gazed, the dark red colour which was round him somehow like a cloak, was the very colour of pain. Then, by God’s mercy, this awful form of consciousness grew dull; his spirit and his body ached, but only ached. He had sunk into a sort of use and custom of dull agony, and soon this also passed, and without repose and without refreshment he sank into something deeper than his deepest, sleep.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XXII.
+
+Ciò mostra i disagi derivanti dall’uso di autisti dilettanti nel maneggio dell’artiglieria, soprattutto quando c’è urgenza.
+
+L’oscurità di settembre era calata; attraverso l’aria densa si potevano appena intravedere le stelle più luminose. Lontano, lungo le linee prussiane, iniziarono ad accendersi alcune fiamme fumose, soprattutto davanti a una piccola locanda situata sulla grande strada per [[Paris|Parigi]]. In quella locanda si erano riuniti il Re di Prussia, Brunswick e i principi di sangue francese; non lontano da loro c’era anche il giovane Goethe, il poeta. Ma che cosa ne sapeva l’esercito di queste cose?
+
+Coloro che ancora si curavano di guardare ciò che un tempo era stato il campo della battaglia di quel giorno non vedevano nulla se non quella linea vaga che una ondulazione del terreno rendeva più scura contro il cielo buio di una serata nuvolosa; qua e là, quelle macchie rossastre e fumose apparivano e scomparivano con il movimento della nebbia, segnando la posizione delle truppe alleate. Un giovane soldato – un volontario che si era unito all’esercito durante la marcia – arrivò con una lanterna in mano e guardò dentro la porta del mulino; il suo viso era pieno di gioia, perché per tre quarti era ancora un civile, aveva ricevuto un’istruzione, e l’aspetto “letterario” della scena lo affascinava. Disse:
+
+“Una grande giornata, sergente.”
+
+“Al che Boutroux rispose, con tutta la gentilezza possibile…”
+
+“Non credo che quella fosse la tua intenzione…”
+
+“No, Sergente,” disse il ragazzo, “ma non ho potuto fare a meno di dirlo, ” e sospirò soddisfatto.
+
+Boutroux continuò ad strofinare il vecchio cavallo con un filo di paglia; nel farlo, notò con dolore che l’animale tremava.
+
+“Sergente,” disse il ragazzo, “sono qui con degli ordini.”
+
+“Beh, cosa sono?” disse Boutroux, continuando a occuparsi delle sue cose senza guardarsi intorno.
+
+“Dormiamo per terra, Sergente.”
+
+“Naturalmente,” disse Boutroux; “e spero che non vi sembri troppo umido. Dormo nel mulino. Potete andare.”
+
+“Sergente, stanno chiamando tutti i sergenti del reggimento.”
+
+“Avresti dovuto dirlo subito, stupido idiota!” rispose Boutroux con la cortesia tipica del servizio militare. “Tornerò presto,” disse al suo cavallo chiudendo la porta del mulino alle sue spalle, e seguì il ragazzo fino al luogo dove diversi ufficiali subalterni stavano accorrendo per ricevere gli ordini del reggimento. Lì, ognuno di loro comunicava i messaggi destinati alla propria truppa; e nella semioscurità, su un cavallo ancora in grado di reggere dopo tutti quei giorni, Boutroux scorse la figura del proprio colonnello. Non appena lo vide, ricordò vividamente quelle calde giornate nel sud, l’incontro con quel giovane ufficiale presso il Commissario alle Armate, la promozione improvvisa, e tutta quella serie di eventi confusi legati alla marcia verso est sotto il comando di quell’uomo. Gli ordini furono letti alla luce di una lanterna; venne loro detto che le operazioni erano state completamente riuscite; per quei giovani e quegli anziani riuniti insieme, il cannoneggiamento sembrava rappresentare una vittoria nazionale e decisiva. Venne anche comunicato loro che gli invasori erano stati sconfitti.
+
+Nel frattempo, a un miglio di distanza, gli invasori occupavano la cresta che avevano tenuto per tutta la giornata; la situazione, come gli uomini ben sapevano in base al loro rango, era solo leggermente meno incerta rispetto al giorno precedente: il grande e disorganizzato esercito delle truppe francesi aveva appena resistito; non erano stati costretti a ritirarsi e a rifugiarsi nella foresta delle colline.
+
+Ma i soldati furono felici di accettare questa nuova leggenda, e per la prima volta in tutti quei giorni la gioia si diffuse nel reggimento. Nemmeno l’idea di trascorrere una notte su quel terreno fradicio li turbava; Kellermann aveva pensato con saggezza a far portare vino dal villaggio: gli uomini erano ubriachi prima di addormentarsi. Nella formazione, le compagnie; nella cavalleria, le truppe, si affrettavano ad acquistare il liquore; la mensa militare ottenne enormi profitti, e per la prima volta da quando erano iniziati i guerre anche i contadini facevano affari.
+
+A uno di loro, che stava portando i suoi barili su un carretto scoperto, Boutroux si avvicinò e parlò con lui.
+
+“Amico,” disse lui, “non mi venderesti un po’ del tuo vino?”
+
+L’uomo scosse la testa. Aveva l’ordine di vendere soltanto al ristorante militare. “Ordini scritti,” disse, “firmati dal colonnello sul foglio ufficiale della Repubblica.” Pronunciò quell’ultima parola con tale dignità che Boutroux lo guardò con curiosità.
+
+“Ho già sentito dire che la Repubblica sta andando in rovina; ma se solo mi dessi un po’ di vino, visto che non ti è permesso venderlo, potremmo discuterne insieme.”
+
+“Non ho alcun desiderio di discuterne,” disse il contadino, “e certamente non vi darò vino. Da ventiquattro ore siamo una Repubblica.”
+
+“Vedete quanto siano avari le Repubbliche!” disse Boutroux. “Una volta, in tempi passati come ieri o l’altro ieri, quando non esistevano ancora le Repubbliche, la gente poteva ottenere vino su semplice richiesta, a volte addirittura senza nemmeno chiederlo. La vostra Repubblica non ha migliorato le cose; ma andrò a raccontare tutto al mio cavallo. Non ho bisogno del vostro vino. Ditemi solo una cosa che non capisco bene: qual è il nome di questo posto?”
+
+“Questo posto?”, disse l’uomo goffamente; “non ha nome.”
+
+“Lo pensavo anch’io,” disse Boutroux, “a giudicare da come sembrava di giorno. Ma immagino che tu viva da qualche parte, deve esserci un villaggio, con maiali e molta fanghiola, no?”
+
+“Laggiù in basso,” disse l’uomo, indicando con il pollice, “c’è il mio villaggio.”
+
+“Come lo chiami?” disse Boutroux.
+
+“Valmy,” disse l’uomo.
+
+“Devo ricordare quel nome,” disse Boutroux. “Quando si smette di prestare servizio attivo, è molto importante ricordare i nomi delle battaglie. Mi immagino seduto in una locanda, con una grande cicatrice sul viso (ottenuta da un frustino); la gente del posto mi offrirà da bere mentre racconto loro le cose terribili che ho fatto intorno al mulino di Valmy, quali ferite abbia riportato, e quanto un uomo possa sentirsi confuso, eppure anche esaltato sotto il fuoco.”
+
+Con questo si allontanò con noncuranza; la forza principale si ritirò nell’oscurità, ma gli ussari rimasero indietro; per tutta la notte, fino al suono delle trombe all’alba nebbiosa e cupa, dormì accanto al suo cavallo nel mulino, e al mattino si riunirono di nuovo per riprendere la marcia.
+
+La linea si formò; il reggimento, schierato in colonna, iniziò ad avanzare tra i gruppi di soldati ancora presenti sulla collina: artiglierie danneggiate, corpi umani sparsi qua e là, casse di cibo e polvere da sparo, resti del pane portato lì alla fine della giornata precedente. Tutti i rifiuti lasciati dopo che quella posizione era stata difesa da migliaia di persone.
+
+“Lo pensavo anch’io,” mormorò Boutroux tra sé, mentre la colonna iniziava lentamente ad uscire dalla confusione di uomini e cose per dirigersi verso est, lungo quelle vaste distese desolate di terra calcarea. “Lo pensavo anch’io. Non se ne parla mai nei libri di storia, ma è proprio ciò che ho sempre immaginato fosse vero. Dopo una grande vittoria, si allontana dall’avversario. Ma non dobbiamo esserne troppo sicuri, caro mio,” continuò, accarezzando il collo del vecchio cavallo; “forse stiamo effettuando un movimento di aggiramento, o un’offensiva a tenaglia. O forse ci stiamo semplicemente ritirando in modo ordinato e pacifico. Ma, per quanto riguarda i ‘Lambs’, sembra davvero insolito.”
+
+Per quanto riguarda i “Lambs”, avanzarono abbastanza facilmente. Nell’atteggiamento di quei giovani soldati, insieme ai pochi veterani presenti e al loro giovane colonnello in testa, non c’era nulla che potesse suggerire l’intenzione di ritirarsi o di vincere. Continuavano semplicemente a marciare, seguendo le indicazioni ricevute. Il loro compito, dopotutto, era proprio quello. L’equipaggiamento dei cavalli non era certo perfetto e i animali erano coperti di fango, ma dopo il cannoneggiamento il breve riposo aveva permesso di rifornirsi adeguatamente; almeno quegli poveri animali erano stati ben nutriti e avevano bevuto a sazietà quell’acqua bianca e calcarea del fiume Champagne Pouilleuse.
+
+A poche miglia da Argonne si ergeva un lungo muro basso contro il cielo orientale, scuro a causa delle migliaia di alberi che lo circondavano; e sotto di esso, ai piedi di una breccia, una guglia e un insieme di piccoli edifici indicavano Ste Menehould.
+
+Continuarono così per due ore; quei corpi paralleli iniziarono a muoversi con l’avanzare del giorno; raggiunsero le porte della città mercantile, e proprio in quel momento Boutroux si rese conto che il suo cavallo stava per cedere. I cavalli, soprattutto quelli addestrati per la cavalleria, riescono a reggere fino all’ultimo istante, e poi, senza alcuna scusa o lamento, arriva la loro fine. Il vecchio cavallo bianco inciampò due volte; Boutroux lo fermò, lo tirò su e lo incoraggiò, proprio come aveva fatto per tanti giorni. Ma il cavallo non rispose, né alzò la testa. Mancavano ancora poche centinaia di metri. Il cedimento del suo cavallo lo invase di un senso di superstizione; mise la mano nella tunica per toccare la catena e la medaglia. La medaglia era scomparsa.
+
+Proprio mentre raggiungevano le strade della città, Boutroux e l’ultima truppa della lunga colonna del reggimento sentirono il rumore di zoccoli che sbattevano e ruote che si schiantavano scendendo lungo una strada laterale. Erano i conducenti locali assunti per l’occasione – contadini che trasportavano un cannone. Si creò un totale disordine: il peso dei pezzi d’artiglieria e delle slitte, su quel pendio ripido, era semplicemente troppo per quelle misere squadre di cavalli; l’intero carico si riversò incontrollato sulla strada principale. I cavalli inciamparono e scivolarono uno sull’altro; alcuni erano già rimasti impigliati nei finimenti, uno o due caddero a terra, e la maggior parte continuava a slittare sul selciato bagnato.
+
+La truppa aveva appena avuto il tempo di accorgersi del pericolo, quando Boutroux, che se ne rese conto più rapidamente di chiunque altro tra i suoi compagni, gridò, come fanno le persone in momenti di emergenza, dimenticando completamente le gerarchie.
+
+“Tenente, dirigili a destra e fai sì che si affianchino alla fila successiva!”
+
+Il tenente si guardò intorno, sorpreso, iniziò a capire cosa stesse accadendo e ebbe la prontezza di seguire quel suggerimento. Gridò l’ordine; gli uomini spronarono i loro cavalli e l’intera squadra di cinquanta uomini si allontanò rapidamente dal luogo dell’incidente, proprio nel momento in cui l’impeto incontrollato della batteria colpì la strada principale. Boutroux, che si trovava alla fine del gruppo, controllava i suoi uomini per assicurarsi che riuscissero a sfuggire al pericolo, quando il vecchio cavallo bianco non ce la fece più. Lo sforzo di velocità che il cavaliere aveva cercato di trasmettergli fu proprio ciò che ne determinò la fine: inciampò, un palo situato a poco più di un piede dal suo fianco lo colpì. Boutroux, dimenticando ogni considerazione personale, tirò brutalmente le redini. La povera bestia alzò la testa e cercò disperatamente di rialzarsi, ma non ci riuscì e cadde a terra.
+
+Cadde esattamente sulla gamba sinistra del sergente, prima che avesse il tempo di tirarla fuori dallo staffile; e mentre cadeva, la lancia, le ruote del veicolo da guerra e i cavalli si schiantarono tutti insieme sul cavallo e sul suo cavaliere caduti a terra.
+
+Davanti agli occhi di Boutroux si presentò una caotica scena di cavalli che si impennavano, di piedi umani nelle staffe e di fruste che schioccavano; la vecchia testa di Pascal sobbalzava convulsivamente due volte. Ma quella visione era condizionata e controllata da un dolore intollerabile e in aumento. Quell’immagine di dolore, rumore e movimenti disordinati durò solo un istante: presto il sergente rimase solo con il dolore, e nient’altro. L’aria intorno a lui si oscurò; non vedeva, non sentiva, non sapeva nulla se non il dolore. Non gli restava più nulla. Il dolore divenne parte integrante della sua stessa esistenza.
+
+Meno cosciente di un uomo addormentato per l’effetto dell’alcol, sapeva che lo stavano spostando, ma se ne rendeva conto soltanto attraverso esperienze di dolore sempre più intense e acute: ne era così pienamente consapevole che non c’era spazio per nulla altro. Era come se il colore che i suoi occhi chiusi fissavano debolmente – quel rosso scuro che lo avvolgeva come un mantello – fosse proprio il colore del dolore stesso. Poi, per grazia di Dio, questa terribile forma di coscienza divenne meno intensa; il suo spirito e il suo corpo continuavano a soffrire, ma in modo più lieve. Era caduto in una sorta di abitudine alla sofferenza torpida e continua. E presto anche questo passò. Senza riposo né sollievo, scivolò in qualcosa di ancora più profondo del sonno stesso.
 
 
 
@@ -7513,3 +11067,106 @@ The attendant waited a moment curiously halfway down the room; he called out to 
 But there was no answer.
 
 THE END
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XXIII.
+
+In cui il girondino si lamenta del tempo.
+
+Quando la coscienza tornò in Boutroux, lo fece in modo duplice: ricordava chi fosse, il proprio nome, il proprio reggimento; ricordava anche ogni minimo dettaglio relativo alle luci, alle ombre e ai colori nel momento precedente alla perdita di coscienza. Tuttavia, era nuovamente consapevole del dolore, un dolore che non solo offuscava tutti gli altri sensazioni, ma esisteva come entità separata. Il dolore aveva una precisa localizzazione: si trovava nella sua coscia e nell’inguine destro.
+
+Emise un gemito e aprì gli occhi. Si trovava in un piccolo letto, uno degli ultimi venti o trenta allineati lungo la parete di una stanza così lunga da sembrare quasi un corridoio. L’altra parete, di fronte al suo letto, era costituita da una serie di finestre magre e sporche contro cui la pioggia continuava a battere con forza; le pareti erano macchiate di grigio, crepate in alcuni punti e coperte di polvere negli angoli. All’estremità della stanza, verso cui riusciva appena a guardare (poiché non poteva muovere nessuna parte del corpo né girare la testa da una parte all’altra), c’era un grande segno bianco che si distingueva sullo sfondo più scuro della parete: era il punto in cui, per molti anni, era appeso un crocifisso che aveva protetto quella superficie dagli effetti della luce. Si trovava in uno di quegli ospedali che le truppe avevano allestito in fretta negli edifici pubblici di Ste Menehould: si trattava di un convento sciolto due anni prima; un giorno o due prima, era stato il quartier generale di alcuni uomini di Dumouriez. Le loro oscenità e i loro scherzi erano stati scritti sulle pareti, insieme al nome del reggimento che aveva occupato l’edificio. Questo era tutto ciò che riusciva a capire. Sentiva il rumore delle strade lastricate, senza il fruscio delle ruote che passavano; distingueva anche il clangore dei cannoni. Di tanto in tanto, gli arrivavano anche grida di comando; ma insieme a questi suoni familiari, c’erano altri nella stanza, meno familiari e molto più angosciosi per quell’uomo distrutto. Da quattro letti di distanza proveniva un continuo gemito monotono, regolare come il respiro di chi dorme; all’estremità della stanza, una persona che si prendeva cura dei malati cercava in modo brusco di far tacere un ragazzo che, a causa di una ferita, era diventato stordito e continuava a emettere grida stridule, cantando le canzoni delle marce.
+
+Mentre Boutroux giaceva lì, vide entrare nella stanza, ai piedi del letto, un medico appartenente all’esercito; un civile, con sul polsino il distintivo che indicava il suo incarico temporaneo. Con lui c’era uno degli uomini rimproverati per la loro stanchezza, uno dei pochi a cui era possibile chiedere di svolgere tale compito: anch’egli malato, pallido e sofferente, ma comunque risparmiato per poter camminare all’interno dell’ospedale, poiché altrimenti non sarebbe stato in grado di marciare.
+
+Il dottore si avvicinò al letto; l'infermiere recitò i dati del caso, il nome e il reggimento, basandosi su appunti che teneva in mano. Boutroux, chiedendosi cosa avrebbero fatto di lui, giaceva impotente e li fissava con scarso interesse. Notò che il dottore era un uomo barbuto, probabilmente un chirurgo, dai movimenti calcolati e dal modo di fare rigido. Scostò le coperte del letto e posò la mano sulla coscia del sergente, che emise un grido di dolore. Continuò a premere quella stessa zona, ignorando i lamenti dell’uomo e quelli che seguirono; spostò poi la mano verso l’inguine e la coscia, fino alla parte più bassa delle costole. Lì scoprì che il dolore era cessato. Con una pressione continua delle dita – che tormentava terribilmente il paziente, il quale però non riusciva a muoversi – individuò rapidamente la causa del problema. Una volta fatto ciò, rimise le coperte a posto e se ne andò.
+
+Boutroux giaceva solo, fissando il soffitto e soffrendo immensamente per dover stare lì, senza amici né compagnia, con solo dolore incessante. Pensò: “Se durante quella loro battaglia – poiché capisco che si trattasse di una battaglia – qualcosa mi avesse colpito, mi avrebbero messo su un giaciglio di paglia e qualcuno del reggimento sarebbe stato al mio fianco; avrei sentito l’aria fresca sul viso. Invece sono in prigione, con un soldato malaticcio che forse viene a trovarmi ogni tre ore, e un medico cittadino che mi cura in silenzio, solo per decidere se dovrò morire o meno.”
+
+Ora dopo ora passava, e lui giaceva lì, senza sapere nulla e incapace di imparare nulla. Il letto accanto a lui era vuoto; aveva parlato con quella figura nel letto di fronte, ma non aveva ricevuto risposta. Quella figura era rimasta immobile per tutte quelle ore: il viso era girato lontano da lui; riusciva a vedere soltanto i capelli sopra i vestiti. Si chiedeva quando qualcuno, chiunque fosse, sarebbe venuto a scambiare con lui anche solo una parola umana.
+
+Quel desiderio non era più sopportabile, pensò, quando l’assistente ricomparve in quella lunga stanza di sofferenza e morte, e Boutroux lo chiamò. Si meravigliò di scoprire che la sua voce fosse così debole e senza vita. L’uomo si avvicinò e si fermò accanto a lui; il suo pallore, il mento non rasato, i colpi di tosse che lo assalivano di tanto in tanto rivelavano quanto fosse indebolito per poter svolgere quel compito presso i feriti.
+
+“Che c’è, Sergente?”, chiese, tossendo di nuovo; il suo torace sottile e stretto ne era scosso violentemente. “Che c’è, Sergente?”
+
+“Devo mangiare?” disse Boutroux. Mentre lo diceva, si rese conto che la sua voce non era solo debole e priva di forza, ma che doveva anche modulare ogni singola inflessione per evitare che le vibrazioni del suono, raggiungendo i suoi tessuti danneggiati, aumentassero ancora di più il suo dolore.
+
+L’uomo scosse la testa. “Non prima di aver bevuto la medicina che il dottore ti ha prescritto,” disse.
+
+“Allora dammelo,” disse Boutroux.
+
+“Il dottore ha detto che se provavi un grande dolore, dovevo darti questa pozione. Stai soffrendo molto?”
+
+“Sì,” sussurrò Boutroux.
+
+“Sei sicuro?” disse l’uomo. “Ricorda, non dovevo darti questa pozione a meno che tu non stessi soffrendo molto!”
+
+“Ah, so tanto soffro… Datemelo, e forse dopo potrò anche mangiare.”
+
+L’uomo se ne andò; sembrava che fosse via per un tempo infinito; tornò con una bottiglia di sciroppo denso e una tazza rotta.
+
+“Il dottore non mi ha detto con quanta acqua dovrei mescolarlo,” disse lui con esitazione, come se Boutroux potesse aiutarlo in una situazione del genere.
+
+“Dammelo ben preparato,” disse l’uomo malato; “ho scoperto che in questo modo le cose fanno più bene.” E bevve una dose di quella sostanza dolce, densa e scura, qualcosa che in condizioni normali non avrebbe mai potuto fare.
+
+L’assistente portò via la bottiglia e la tazza; Boutroux, mentre giaceva – ancora prima che l’altro arrivasse alla porta all’estremità opposta della stanza – percepì un cambiamento. Continuava a provare dolore: in un certo senso era lo stesso dolore di sempre; ma gradualmente la sua mente riusciva a liberarsene sempre di più. Il dolore c’era ancora, ma lui lo notava sempre meno, fino a quando, attraverso fasi rapide e sempre migliori l’una dall’altra, il dolore smise del tutto di assillarlo. Qualcosa dentro di lui iniziò a vedere le cose con estrema chiarezza. Fu costretto a chiudere gli occhi: quella visione interiore era molto più nitida delle pareti opache della stanza e delle sue finestre scure. I colori di ciò che vedeva erano particolarmente vividi: c’era un muro fatto di tronchi impregnati di catrame, erba di felci, e il suo cavallo bianco, vecchio e stravagante. Il cavallo era bagnato e fumante a causa del tempo; lui cercò qualcosa con cui pulirlo, ma non c’era nemmeno paglia. Mentre guardava, la porta della stanza si aprì e la luce intensa del sole iniziò a filtrare all’interno. Illuminò un volto e un corpo che gli sembravano immortali. Le braccia della ragazza, mentre sorrideva e rideva con lui, tenevano un mucchio di paglia luminosa; lei la gettò ai suoi piedi e disse che l’aveva portata perché sapeva che ne aveva bisogno. E che gli avrebbe portato tutto ciò di cui aveva bisogno, ovunque si trovasse, da qualsiasi luogo lontano. Per sempre. Lui, ridendo in risposta, disse: “Joyeuse! Nessuno ci crederebbe fuori dal reggimento. Ma non c’è niente di meglio della paglia, e in abbondanza, per pulire un animale, ”
+
+“Buona paglia luminosa,” rispose lei, “quella che cresce nei campi sotto il sole.”
+
+Stava accarezzando e pulendo il suo animale quando, mentre lo faceva, si ritrovò a camminarci insieme, guidandolo per la briglia, e si rese conto di essere solo. Era solo con lui, mentre lo conduceva attraverso un sentiero nel bosco; gli parlava e gli pose una domanda: “Pascal, abbiamo perso il reggimento e il nostro dovere?”
+
+E il cavallo rispose a lui in modo del tutto naturale: “Sì, Sergente, abbiamo perso quel servizio, e quel servizio ci ha persi. E ne sono felice per sempre.”
+
+Rispose: “Hai ragione. È il servizio stesso a generare questa noia e questo dolore.”
+
+Mentre camminava accanto al vecchio cavallo lungo il sentiero nel bosco, sentiva che camminare gli causava sempre più dolore: all’inguine, prima un dolore lento e poi sempre più intenso; il cavallo e il bosco facevano parte di quel dolore, tutto faceva parte di esso. Tutto diventava grigio, i colori del bosco intorno a lui svanivano. Si trasformavano in tonalità di grigio e rosso opaco; attraverso quella penombra, i suoi occhi, aprendosi lentamente, riuscirono di nuovo a vedere le pareti della stanza e la lunga fila di finestre ancora bagnate dalla pioggia. Accanto a lui, vicino alla sua testa, distingueva il dottore in piedi. Il dottore non stava parlando con lui, ma con l’infermiere.
+
+“Gli oppiacei,” disse, “hanno avuto su di lui un effetto molto limitato, ed è proprio questo che temevo. La prossima volta, se ne avrà bisogno, l’effetto sarà ancora minore.” Scosse le spalle e si diresse verso gli altri letti.
+
+Boutroux era completamente sveglio. La luce sembrava quella opaca di una serata umida, ma non riusciva a capire se fossero i suoi occhi ad avere problemi o se fosse davvero la luce esterna a essere così debole. Chiamò con voce debolissima, e l’infermiere tornò subito.
+
+“Che c’è, Sergente?”, chiese lui.
+
+“Che ore sono?”, chiese Boutroux con la voce bassa di un uomo rauco e stanco.
+
+“Andrò a dare un’occhiata,” disse l’uomo.
+
+“No, no, non andare a vedere… Voglio parlare con un uomo… Siediti dolcemente sul letto.”
+
+L’addetto si sedette e lo guardò, in modo abbastanza stupido e senza molta pazienza.
+
+“Cosa ha detto il dottore?”, sussurrò Boutroux.
+
+L’altro sembrava imbarazzato. “Ha detto che non poteva fare molto,” rispose infine.
+
+“Per quanto tempo?”
+
+“Oh, potrebbe succedere in qualsiasi momento,” rispose l’altro con indifferenza.
+
+Sul volto del giovane sergente, per la prima volta in quelle ore, apparve un’espressione di dolore che non era di natura fisica.
+
+“Cosa gli hanno fatto, ”, disse, sussurrando a fatica ora, “, a quel vecchio cavallo?”
+
+“Aveva la gamba e il fianco completamente rotti, quindi lo hanno ucciso,” disse l’uomo.
+
+“E non sono forse anch’io così spezzato?” disse Boutroux.
+
+L’uomo non aveva nulla da rispondere; si alzò per andarsene. Poi sentì, o pensò di sentire, qualcosa di strano provenire dal letto di Boutroux: quelle parole.
+
+# Vorrei vedere un prete.
+
+L’uomo si girò e fissò davanti a sé. Il sergente avrebbe potuto benissimo chiedere le stelle o l’oro fatato. Poi rise stupidamente, come faceva spesso quando sentiva gli uomini feriti delirare, e riprese ad allontanarsi: riusciva ancora a sentire quella voce, sempre più debole, roca e sommessa, che lo pregava di fermarsi.
+
+“Sta ancora piovendo?”, chiese.
+
+“Sì,” rispose.
+
+“Che tempo orribile, ” disse la voce. E dopo non parlò più.
+
+L'assistente aspettò per un momento, incuriosito, a metà della stanza; poi chiamò verso il letto: “Sta soffrendo di dolore?”
+
+Ma non ci fu alcuna risposta.
+
+La fine

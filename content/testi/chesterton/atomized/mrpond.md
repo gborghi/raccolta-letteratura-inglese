@@ -10070,6 +10070,190 @@ course, it's very clever and all that; but really, it's all
 nonsense, isn't it?  Oh, I know people say in a general way that
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+VIII.  Una storia incredibile
+
+I TRE CAVALIERI DELL'[[Apocalypse|APOCALISSE]]
+
+Il curioso e talvolta inquietante effetto che il signor Pond produceva
+
+su di me, malgrado la sua cortesia banale e il suo decoro azzimato, era
+
+forse legato a certi ricordi d'[[Childhood|infanzia]]; e alla vaga
+
+associazione verbale del suo nome.  Era un funzionario del [[government|Governo]] che
+
+era un vecchio amico di mio padre; e immagino che la mia infantile
+
+[[Imagination|immaginazione]] avesse in qualche modo confuso il nome del signor Pond con lo stagno
+
+del [[Garden|giardino]].  A pensarci bene, somigliava curiosamente
+
+allo stagno del [[Garden|giardino]].  Era così quieto in tutti i momenti normali, così
+
+netto di forma e così lucente, per così dire, nei suoi ordinari
+
+riflessi di terra e cielo e della comune luce del giorno.  Eppure
+
+sapevo che c'erano cose strane nello stagno del [[Garden|giardino]].  Una volta
+
+su cento, in uno o due giorni dell'intero anno, lo
+
+stagno appariva stranamente diverso; oppure passava una fuggevole
+
+[[Shadow|ombra]] o un guizzo nella sua piatta serenità; e un pesce o una rana o
+
+qualche creatura più [[Grotesque|grottesca]] si mostrava al cielo.  E
+
+sapevo che c'erano mostri anche nel signor Pond: mostri nella sua mente
+
+che [[Rose|salivano]] in superficie solo per un attimo e poi riaffondavano.  Essi
+
+prendevano la forma di osservazioni mostruose, in mezzo a tutte le sue miti
+
+e razionali osservazioni.  Alcuni pensavano che fosse improvvisamente impazzito
+
+nel bel mezzo della sua conversazione più assennata.  Ma perfino costoro dovevano
+
+ammettere che doveva essere improvvisamente rinsavito.
+
+Forse, ancora, questa sciocca fantasia si fissò nella mente giovanile
+
+perché, in certi momenti, il signor Pond somigliava piuttosto a un pesce
+
+lui stesso.  I suoi modi non erano soltanto assai educati, ma assai
+
+convenzionali; perfino i suoi gesti erano convenzionali, con
+
+l'eccezione di un vezzo occasionale, quello di tirarsi la barba a punta
+
+che sembrava coglierlo soprattutto quando era finalmente costretto a
+
+fare sul serio su una delle sue strane e casuali affermazioni.  In tali
+
+momenti fissava davanti a sé con aria da gufo e si tirava la barba,
+
+il che aveva il comico effetto di aprirgli la bocca, come se fosse
+
+la bocca di un burattino con i peli al posto dei fili.  Questo strano, occasionale
+
+aprirsi e chiudersi della sua bocca, senza parole, aveva una
+
+sorprendente somiglianza col lento spalancarsi e boccheggiare di un pesce.  Ma
+
+non durava mai più di pochi secondi, durante i quali,
+
+suppongo, egli ingoiava la sgradita proposta di spiegare che cosa
+
+diavolo intendesse.
+
+Un giorno stava parlando tranquillamente con Sir [[Hubert]] Wotton, il [[Well|ben]]-
+
+noto diplomatico; sedevano sotto tende a righe allegre o
+
+giganteschi parasoli nel nostro [[Garden|giardino]], guardando verso lo stagno che
+
+io avevo perversamente associato a lui.  Si trovavano a parlare
+
+di una parte del mondo che entrambi conoscevano [[Well|bene]], e pochissimi
+
+in Europa occidentale conoscevano affatto: le vaste distese che sfumano in acquitrini
+
+e paludi che si stendono attraverso la Pomerania e la Polonia e la [[Russia]] e
+
+tutto il resto; fin dentro, per quanto ne so, i deserti siberiani.
+
+E il signor Pond ricordò che, attraverso una regione dove le paludi sono
+
+più profonde e intersecate da stagni e fiumi pigri, corre una
+
+sola [[Road|strada]] rialzata su un alto terrapieno dai fianchi ripidi e in pendenza:
+
+un sentiero diritto, abbastanza sicuro per il pedone comune, ma appena
+
+largo abbastanza perché due cavalieri procedano affiancati.  Questo è l'
+
+inizio della storia.
+
+Riguardava un'[[Time|epoca]] non molto lontana, ma un'[[Time|epoca]] in cui i cavalieri
+
+erano ancora usati assai più di quanto lo siano oggi, benché già
+
+piuttosto meno come combattenti che come corrieri.  Basti dire che
+
+avvenne in una delle molte guerre che hanno devastato quella parte del
+
+mondo--nella misura in cui è possibile devastare una simile
+
+landa deserta.  Inevitabilmente comportava la pressione del sistema
+
+prussiano sulla nazione dei Polacchi, ma oltre a ciò non è
+
+necessario esporre qui la politica della faccenda, né discuterne
+
+i torti e le ragioni.  Diciamo soltanto, più alla leggera, che il signor
+
+Pond divertì la compagnia con un [[Riddle|indovinello]].
+
+«Immagino che ricordiate di aver sentito parlare», disse Pond, «di tutta l'agitazione
+
+che ci fu intorno a Paul Petrowski, il poeta di Cracovia, che fece due
+
+cose piuttosto pericolose a quei tempi: lasciare Cracovia e andare
+
+a vivere a Poznań; e tentare di unire l'essere poeta all'essere
+
+patriota.  La città in cui viveva era in quel momento tenuta dai
+
+Prussiani; si trovava esattamente all'estremità orientale del lungo
+
+terrapieno; il comando prussiano avendo naturalmente avuto cura di tenere
+
+la testa di ponte di un ponte così solitario su un simile mare di
+
+paludi.  Ma la loro base per quella particolare operazione era all'
+
+estremità occidentale del terrapieno; il celebre maresciallo Von Grock aveva
+
+il comando generale; e, guarda caso, il suo vecchio reggimento,
+
+che era ancora il suo reggimento prediletto, gli Ussari Bianchi, era
+
+appostato più vicino all'inizio della grande [[Road|strada]] in terrapieno.  Di
+
+certo, tutto era lindo e pinto, fin nell'ultimo dettaglio delle
+
+meravigliose uniformi bianche, con la bandoliera color fiamma gettata
+
+di traverso; poiché ciò avveniva poco prima dell'uso universale di colori
+
+come il fango e l'argilla per tutte le uniformi del mondo.  Non li
+
+biasimo per questo; talvolta sento che la vecchia epoca dell'araldica fu cosa
+
+più bella di tutta quell'epoca di colorazione imitativa, venuta
+
+con la [[history|storia]] naturale e il culto dei camaleonti e degli scarabei.
+
+Comunque sia, questo reggimento scelto di cavalleria al servizio prussiano
+
+portava ancora la propria uniforme; e, come vedrete, quello fu un altro
+
+elemento del fiasco.  Ma non furono soltanto le uniformi; fu l'
+
+uniformità.  Tutta la faccenda andò a monte perché la disciplina era
+
+troppo buona.  I soldati di Grock gli obbedivano troppo [[Well|bene]]; e così egli semplicemente
+
+non poté fare una cosa che voleva.»
+
+«Suppongo che questo sia un [[Paradox|paradosso]]», disse Wotton, con un sospiro.  «Di
+
+certo, è molto arguto e tutto il resto; ma davvero, è tutta una
+
+sciocchezza, no?  Oh, so che la gente dice in generale che
+
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_02" data-title="MrPond — A Tall Story (part 2)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/fool,archetype/prophet,motif/death,motif/home,motif/love,motif/night,motif/road,motif/time,concept/paradox,concept/truth"></span>
@@ -10276,6 +10460,209 @@ for execution, before he arrives.  We must serve His Highness in
 every way, but especially in saving him needless trouble.  He will
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Troppa disciplina nell’esercito tedesco… Ma non si può proprio fare a meno.
+
+Troppa disciplina in un esercito.
+
+“Ma non lo dico in modo generico,” disse Pond con tono lamentoso. “Io…”
+
+# Dillo in un modo particolare… in questo caso specifico. Grock
+
+Titolo:  
+Fallì perché i suoi soldati gli obbedivano… Naturalmente, se solo uno di loro…
+
+I soldati gli avevano obbedito… Non sarebbe andata così male. Ma quando…
+
+Due dei suoi soldati gli obbedirono… Perché, davvero, povero vecchio diavolo…
+
+“Nessuna possibilità.”
+
+Wotton risebbe in una risata rauca. “Sono felice di sentire le tue nuove…
+
+Teoria militare: si permetterebbe a un solo soldato di un reggimento di obbedire…
+
+# Ordini… ma due soldati che obbediscono agli ordini… cosa vi sembra?
+
+Le discipline prussiane vanno un po' troppo oltre.
+
+#"Non ho alcuna teoria militare… Sto parlando di aspetti pratici della vita militare."
+
+“È un fatto militare”, rispose tranquillamente il signor Pond. “Un dato indiscutibile in ambito militare.”
+
+"Grock fallì… perché due dei suoi soldati gli obbedirono."
+
+# Un fatto militare: avrebbe potuto avere successo, se uno di loro fosse stato diverso…
+
+Lo disobbedì. Potete inventare tutte le teorie che volete al riguardo.
+
+In seguito.
+
+“Personalmente, non sono molto interessato alle teorie,” disse Wotton.
+
+In modo rigido, come se fosse stato offeso da un insulto insignificante.
+
+In questo momento si poteva vedere qualcuno camminare con passo deciso attraverso i raggi del sole…
+
+#Il prato, la maestosa e imponente figura del Capitano Gahagan…
+
+Un amico e ammiratore assai incompatibile con il piccolo signor Pond… Lui aveva…
+
+Fiore fiammeggiante nel suo bottone e un cappello grigio… leggermente inclinato.
+
+La testa inclinata sulla sua chioma rossastra; camminava con aria trionfale.
+
+#Quello che sembrava provenire da un’epoca più antica di dandy…
+
+Duellisti… anche se lui stesso era relativamente giovane. Finché…
+
+#La sua alta figura, dalle spalle larghe, era semplicemente incorniciata nel contesto circostante…
+
+#Sole splendente: sembrava l’incarnazione di tutta l’arroganza. Quando…
+
+“Si avvicinò e si sedette, con il sole che gli illuminava il viso… All’improvviso…”
+
+“Contraddizione di tutto ciò nei suoi occhi marroni e dolci, che sembravano…”
+
+Triste, e anche un po’ ansioso.
+
+#Mr. Pond, interrompendo il suo monologo, era quasi fuori di sé dall’agitazione
+
+Scuse: “Temo di parlare troppo, come al solito. La [[Truth|verità]], ”.
+
+# Era di quel poeta, Petrowski, di cui stavo parlando…
+
+Esecutato a Poznań, molto tempo fa. L’esercito.
+
+Le autorità presenti esitarono e stavano per lasciarlo andare.
+
+A meno che non ricevessero ordini diretti dal Maresciallo Von Grock o da autorità superiori…
+
+Il maresciallo Von Grock era assolutamente determinato a causare la [[Death|morte]] del poeta; e.
+
+Quella stessa sera furono emessi ordini per la sua esecuzione… Fu concesso un rinvio.
+
+Successivamente inviato per salvarlo; ma poiché l’uomo che portava la grazia…
+
+Morì durante il tragitto; alla fine, il prigioniero fu rilasciato.
+
+“Ma come, ” ripeté meccanicamente Wotton.
+
+“L’uomo che portava la ‘Riprovazione’”, aggiunse Gahagan in tono un po’…
+
+In modo sarcastico.
+
+“È morto lungo la strada,” mormorò Wotton.
+
+“Quindi, naturalmente, il prigioniero fu rilasciato,” osservò Gahagan.
+
+“Con una voce alta e allegra: ‘Tutto è chiaro quanto possa esserlo. Dite…’”
+
+“Raccontami un’altra di quelle storie, Nonno.”
+
+“È una storia assolutamente vera,” protestò Pond, “ed è davvero successa.”
+
+Esattamente come dico io. Non si tratta di alcun [[Paradox|paradosso]] o nulla del genere.
+
+Solo, ovviamente, bisogna conoscere la storia per capire quanto sia semplice…
+
+is."
+
+“Sì,” concordò Gahagan. “Penso che dovrei conoscere quella storia.”
+
+Prima ancora di rendersi conto di quanto fosse semplice.
+
+“Meglio raccontarci la storia e basta,” disse Wotton.
+
+In breve.
+
+# Paul Petrowski era uno di quegli uomini totalmente impratici…
+
+# Importanza straordinaria nella politica pratica. Il suo potere risiedeva nel…
+
+Il fatto che fosse un poeta nazionale ma anche un cantante di fama internazionale.
+
+Aveva, per caso, una voce molto bella e potente, con la quale…
+
+Cantava le proprie canzoni patriottiche in metà delle sale da concerto di.
+
+Il mondo. A [[Home|casa]], naturalmente, era una torcia e un corno che diffondeva la verità.
+
+# Speranze rivoluzionarie, soprattutto all’epoca, nel contesto internazionale
+
+#"Crisi nella quale i politici pratici scompaiono, e il loro posto viene preso da..."
+
+Prenduto da uomini più o meno pratici di loro stessi… Per
+
+Il vero idealista e il vero realista hanno almeno l’[[Love|amore]] per.
+
+Azione congiunta… E il politico pratico prospera offrendo soluzioni concrete.
+
+Obiezioni pratiche a qualsiasi azione: ciò che fa l’idealista…
+
+Inattuabile… e ciò che fa l’uomo d’azione può essere spregiudicato.
+
+Ma in nessuna di queste attività un uomo può guadagnarsi una buona reputazione senza fare nulla.
+
+È strano che questi due tipi estremi si trovino ai due estremi opposti.
+
+Alla fine di quella cresta, e lungo quella [[Road|strada]] tra i pantani, il poeta polacco.
+
+Un prigioniero nella città da un lato, il soldato prussiano come comandante dall’altro…
+
+Nel campo dall'altra parte.
+
+#Per il maresciallo von Grock era un vero prussiano, non solo nel profondo…
+
+Pratico, ma assolutamente banale… Non aveva mai letto una singola riga di poesia.
+
+Sebbene fosse lui stesso, non era affatto un [[Fool|idiota]]. Possedeva il senso della realtà.
+
+# Appartiene ai soldati; e gli impedì di cadere…
+
+# L’errore stupido del politico pratico… Non si è messo a deriderlo.
+
+Visioni. Le odiava soltanto. Sapeva che un poeta o un [[Prophet|profeta]].
+
+#Un esercito pericoloso quanto una armata… E lui era deciso a farlo.
+
+“Il poeta dovrebbe morire… Questa fu l’unica sua lode per la poesia.”
+
+Sincero.
+
+# Era seduto in quel momento a un tavolo nella sua tenda; con le spade acuminate…
+
+Il casco che indossava sempre in pubblico giaceva davanti a lui; e…
+
+# La sua enorme testa sembrava quasi calva, anche se in realtà i capelli erano solo molto fitti...
+
+#Rasato a zero. Anche tutto il suo viso era rasato; non portava alcuna barba o copertura.
+
+Un paio di occhiali molto robusti che, [[Alone|solo]] loro, conferivano uno sguardo enigmatico.
+
+“Al suo volto pesante e cascante… Si rivolse a un tenente.”
+
+#Accanto a lui, un tedesco dai capelli biondi e dal viso piuttosto rotondo
+
+Varietà, i cui occhi blu, grandi come piattini, fissavano il vuoto senza espressione.
+
+“Tenente von Hocheimer,” disse, “ha detto ‘Sua Altezza’?”
+
+“Raggiungerà il campo entro la [[Night|notte]]?”
+
+“Sette quaranta cinque, Marshal,” rispose il tenente, che sembrava…
+
+#Piuttosto riluttante a parlare del tutto, come un grande animale che sta imparando…
+
+Un nuovo modo di parlare.
+
+“Allora resta solo il [[Time|tempo]],” disse Grock, “per inviarti con quell’ordine.”
+
+Per l’esecuzione, prima che arrivi… Dobbiamo servire Sua Altezza.
+
+In ogni modo, soprattutto per evitargli problemi inutili… Lui lo farà.
+
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_03" data-title="MrPond — A Tall Story (part 3)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/fool,archetype/monster,motif/death,motif/horse,motif/night,motif/road,motif/rose,motif/well,concept/history,concept/madness,concept/truth,form/history,setting/paris,character/speed"></span>
@@ -10473,6 +10860,202 @@ scowling under his black helmet.  "He is not a common Pole.  He is
 
 a European institution.  He would be deplored and deified by our
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Essere sufficientemente impegnati nella revisione delle truppe… assicurarsi che tutto sia in ordine.”
+
+A disposizione di Sua Altezza. Lui partirà di nuovo per…
+
+Il prossimo avamposto arriverà tra un’ora.
+
+#Il tenente sembrò quasi rivivere e fece…
+
+“Saluto oscuro… Certo, Maresciallo, dobbiamo tutti obbedire a Lui.”
+
+Altezza.
+
+“Ho detto che tutti dobbiamo servire Sua Altezza,” disse il Maresciallo.
+
+Con un movimento più rapido del solito, sciolse il gancio che lo teneva fermo…
+
+# Occhiali e li sbatté sul tavolo… Se quegli occhiali di colore blu pallido…
+
+Gli occhi del tenente avrebbero potuto vedere qualsiasi cosa del genere… o forse no.
+
+#Avrebbero potuto aprirsi ancora di più… anche se l’avessero fatto, non sarebbe cambiato nulla.
+
+[[Well|Benissimo]] si è aperto abbastanza durante la trasformazione operata da.
+
+# Gesto… Fu come se si rimuovesse una maschera di ferro… In un istante.
+
+Prima d’allora, il maresciallo Von Grock assomigliava in modo insolito a un rinoceronte.
+
+Con le sue pesanti pieghe di guancia e mandibola coriacee… Ora era un nuovo…
+
+Una sorta di [[Monster|mostro]]: un rinoceronte con gli occhi di un'aquila. Un essere desolato e tetro.
+
+Il bagliore dei suoi vecchi occhi avrebbe fatto capire a chiunque che lui…
+
+Qualcosa al suo interno non era semplicemente pesante… Almeno, così sembrava.
+
+Una parte di lui era fatta d’acciaio, non solo di ferro… Per tutti gli uomini.
+
+Vivere secondo uno spirito, anche se si tratta di uno spirito malvagio o molto strano…
+
+# A tutti gli uomini cristiani, che a malapena sanno se…
+
+Sia buono che cattivo.
+
+“Ho detto che dobbiamo tutti servire Sua Altezza”, ripeté Grock. “Lo farò”.
+
+In altre parole, dobbiamo tutti salvare Sua Altezza. Giusto?
+
+“Non basta che i nostri re siano anche i nostri dèi? Non è forse così?”
+
+#Bastano forse per essere serviti e salvati? Siamo noi quelli che devono agire.
+
+Servire e salvare.
+
+Il maresciallo von Grock raramente parlava, e nemmeno pensava molto…
+
+Le persone teoriche considererebbero il pensiero come un’attività importante… E di solito è così.
+
+Titolo:  
+Scoprì che uomini del suo tipo, quando per caso pensano ad alta voce…
+
+#Preferisco di gran lunga parlare con il cane… Hanno persino una certa…
+
+Un piacere condiscendente nell’uso di parole lunghe e argomentazioni complesse
+
+#Prima del cane… Sarebbe ingiusto paragonare il tenente von…
+
+“Hocheimer… come un cane. Sarebbe ingiusto verso quel cane, che è molto…”
+
+Creatura più sensibile e vigile… Sarebbe più accurato dire…
+
+#In uno dei suoi rari momenti di riflessione, quel Grock…
+
+# Il conforto e la sicurezza di sentirsi come se stesse parlando ad alta voce…
+
+La presenza di una mucca o di un cavolo.
+
+“Ancora e ancora, nella [[history|storia]] della nostra Real Casa Reale, il servo, ”
+
+“Ha salvato il padrone,” continuò Grock, “e spesso in cambio riceveva ben poco…”
+
+#Colpi dal mondo esterno, almeno… quel mondo che non smette mai di lamentarsi
+
+# Sentimentalismo contro i successi e i forti… Ma almeno
+
+Titolo:  
+Riuscimmo e fummo forti… Loro maledissero Bismarck per questo.
+
+#Ingannando persino il proprio padrone riguardo al telegrafo di Ems… ma ciò riuscì.
+
+Colui che domina il dominatore del mondo. [[Paris|Parigi]] fu presa; l’Austria.
+
+Deposto dal trono, e noi eravamo al sicuro. Entro la [[Night|notte]] Paolo Petrowski sarà morto.
+
+#E allora saremo di nuovo al sicuro. Ecco perché ti mando insieme a lui.
+
+Una condanna a morte immediata. Capisci che sei tu a doverne portare le conseguenze.
+
+Ordine per l’esecuzione immediata di Petrowski… e che tu debba rimanere qui.
+
+“Per vedere se viene obbedito?”
+
+“L’articolato Hocheimer salutò; riusciva a capire tutto…”
+
+“Giusto… Dopotutto, aveva alcune caratteristiche tipiche di un cane: era proprio come…”
+
+Coraggioso come un bulldog. E avrebbe potuto rimanere fedele fino alla [[Death|morte]].
+
+“Devi montare a cavallo immediatamente,” continuò Grock, “e assicurarti che…”
+
+Niente ti ritarda o ti ostacola. So per certo che [[Fool|idiota]] Arnheim.
+
+Libererà Petrowski stasera, se non arriva alcun messaggio. Fai in modo che.
+
+a tutta [[Speed|velocità]].
+
+E il tenente salutò di nuovo e uscì nella [[Night|notte]]; e.
+
+#Montare uno dei magnifici carri armati bianchi che facevano parte di…
+
+“Lo splendore di quel magnifico corpo militare iniziò ad avanzare lungo la cresta…”
+
+Una stretta [[Road|strada]] lungo la cresta, quasi come la sommità di un muro.
+
+Oltre il cupo orizzonte, i vaghi disegni e i colori che si sfaldavano…
+
+Di quei vasti paludi.
+
+Quasi nel momento in cui gli ultimi echi degli zoccoli del suo [[Horse|cavallo]] si affievolivano lungo la.
+
+La diga di protezione, la rosa di Von Grock, e poi indossò il casco e gli occhiali.
+
+#E arrivò alla porta della sua tenda; ma per un altro motivo.
+
+I principali membri del suo staff, tutti in abiti formali, stavano già avvicinandosi.
+
+#Lui; e lungo le linee più lontane si udivano i suoni…
+
+#Rituali di saluto e l’emissione di ordini: Sua Altezza…
+
+Il principe era arrivato.
+
+Il principe, Sua Altezza, rappresentava in qualche modo un contrasto, almeno…
+
+Esterni, rispetto alle persone intorno a lui; e anche in altre cose…
+
+#Un’eccezione nel suo mondo… E indossava anche qualcosa con punte acuminate.
+
+# Casco… ma di un altro reggimento: nero, con riflessi blu
+
+#Acciaio… e c’era qualcosa di stranamente incongruente in tutto ciò.
+
+# Appropriato in modo fantasioso e, in un certo senso, antico…
+
+# La combinazione di quel casco con quella lunga, scura e fluente barba…
+
+“Tutti quei prussiani rasati… Come se fosse in linea con l’atmosfera lunga e cupa…”
+
+Con una barba lunga e fluente, indossava un mantello scuro e ampio, di colore blu…
+
+#Stella ardente su un ordine reale di massimo rango; e sotto il cielo blu…
+
+#Un’uniforme nera…
+
+#Un tipo di tedesco molto diverso… e qualcosa nel suo orgoglio, ma…
+
+Il volto privo di espressione corrispondeva alla leggenda secondo cui quella persona era davvero l’unica vera…
+
+La passione della sua vita era la musica.
+
+Nella [[Truth|verità]], il brontolone Grock era incline a collegarsi a quella realtà.
+
+# Una stranezza lontana e irritante per lui
+
+Il fatto che il Principe non abbia immediatamente proceduto con ciò che era dovuto…
+
+#Recensioni e accoglienze da parte delle truppe, già ampiamente descritte in tutto…
+
+Una parata labirintica delle formalità militari della loro nazione… ma
+
+#Si è gettato subito con impazienza nel tema che interessava maggiormente a Grock
+
+Desiderava essere lasciato [[Alone|solo]]; l'oggetto di questo infernale Polo, lui.
+
+Popolarità e il suo pericolo: poiché il Principe aveva sentito parlare di alcune delle…
+
+Le canzoni di quell’uomo venivano cantate in metà delle opere d’Europa.
+
+“Parlare di giustiziare un uomo in quel modo è pura [[Madness|pazzia]]”, disse il Principe.
+
+Con il viso cupo sotto il suo elmo nero… “Non è un semplice polacco. Lui è…”
+
+#Un’istituzione europea… Verrà rimpianto e venerato da noi.
 
 
 
@@ -10679,6 +11262,208 @@ The last of the three riders was even less likely than the first to
 
 indulge in imaginative ideas for their own sake.  But because he
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Alleati… da parte dei nostri amici, persino dai nostri connazionali tedeschi. Volete davvero…?
+
+“Sono forse quelle donne pazze che hanno ucciso Orfeo?”
+
+“Altezza,” disse il Maresciallo, “sarebbe un peccato… ma si potrebbe comunque fare.”
+
+“Morto… Sì, sarebbe morto. Eppure verrebbe divinizzato… Ma sarebbe comunque morto.” Qualunque cosa accada…
+
+“Non lo farebbe mai. Qualunque cosa stia facendo, lui…”
+
+Non farlo più. La [[Death|Morte]] è il fatto di tutti i fatti. E a me piace abbastanza.
+
+di fatti.
+
+“Non sai nulla del mondo?” chiese il Principe.
+
+“Non mi interessa affatto il mondo,” rispose Grock, “tranne che per l’ultima cosa…”
+
+Una fotografia in bianco e nero della Patria.
+
+“Dio del cielo,” esclamò Sua Altezza, “avreste dovuto impiccare Goethe!”
+
+A causa di una lite con Weimar!
+
+“Per la sicurezza della vostra Real Casa,” rispose Grock, “senza alcuna, ”
+
+“Un attimo di esitazione, ”
+
+Ci fu un breve [[Silence|silenzio]], poi il Principe disse bruscamente e all’improvviso:
+
+“Cosa significa questo?”
+
+“Significa che non ho esitato nemmeno per un istante,” rispose.
+
+#"Avanzare con determinazione. Ho già inviato personalmente gli ordini necessari."
+
+Esecuzione di Petrowski.
+
+Il Principe si alzò in volo come un grande aquila nera; il suo mantello si agitava nel vento.
+
+Come il battito potente di ali imponenti… E tutti sapevano che si trattava di una furia inarrestabile.
+
+Oltre le semplici parole, ciò lo aveva reso un uomo d’azione… Lui stesso non lo ammetteva nemmeno.
+
+#"Parla con Von Grock… ma parlando sopra la sua testa."
+
+“Voce rivolta al secondo in comando, il generale Von Voglen…”
+
+Uomo robusto con la testa quadrata, che era rimasto in piedi in secondo piano…
+
+Immobile come una pietra.
+
+“Chi possiede il miglior [[Horse|cavallo]] nella vostra divisione di cavalleria, Generale? Chi è, ”
+
+“Il miglior cavaliere?”
+
+Arnold Von Schacht possiede un [[Horse|cavallo]] che potrebbe battere un cavallo da corsa.
+
+Rispose prontamente il Generale: “E lo monta altrettanto bene di un fantino.”
+
+Appartiene agli Ussari Bianchi.
+
+“Molto bene,” disse il Principe, con la stessa nuova intonazione nella voce.
+
+#"Che vada subito all’inseguimento di quell’uomo con questo messaggio folle e lo fermi."
+
+#Gli darò l’autorità che ritengo sia necessaria…
+
+Il maresciallo non obietterà. Portatemi penna e inchiostro.
+
+Si sedette, scuotendo il mantello, e gli portarono carta e inchiostro per scrivere.
+
+Materiali… E scrisse l’ordine con fermezza e con un certo slancio.
+
+# Sovrascrivere tutti gli altri ordini: per la sospensione e il rilascio di…
+
+Petrowski il Polacco.
+
+Poi, nel mezzo di un silenzio mortale, mentre il vecchio Grock stava lì fermo.
+
+Con uno sguardo fisso e immobile, come quello di una statua di pietra dei tempi preistorici, lui…
+
+Scacciato fuori dalla stanza, trascinando dietro di sé il mantello e la spada… Era così…
+
+Profondamente scontento che nessuno osasse ricordargli le formalità…
+
+“Riveduta delle truppe… Ma Arnold von Schacht, un uomo dai capelli ricci…”
+
+Giovani attivi, che sembrano più ragazzi, ma indossano più di uno…
+
+“Medaglia sulla divisa bianca degli ussari… batté i tacchi e…”
+
+# Ricevette il foglio piegato dal Principe; poi, uscendo con passo deciso…
+
+Salì sul suo [[Horse|cavallo]] e si precipitò lungo la stretta e alta [[Road|strada]] come un.
+
+Una freccia d’argento o una stella cadente.
+
+Il vecchio maresciallo tornò lentamente e con calma alla sua tenda, lentamente…
+
+# Con calma si tolse il elmo decorato di punte e gli occhiali, e li posò da parte
+
+“Sul tavolo, come prima… Poi chiamò un inserviente.”
+
+“Fuori dalla tenda… e gli ordinò di chiamare il sergente Schwartz dei Bianchi.”
+
+Gusarri immediatamente.
+
+#Un minuto dopo, si presentò davanti al Maresciallo un uomo magro e pallido
+
+# Un uomo snello e muscoloso, con una grande cicatrice sul mento… piuttosto scuro di pelle per essere…
+
+“Tedesco… a meno che i suoi colori non siano stati alterati negli anni dal fumo.”
+
+E la [[Storm|tempesta]] e il cattivo tempo. Salutò e rimase fermo in piedi, rigido come una statua.
+
+# Attenzione… mentre il Maresciallo alzava lentamente lo sguardo verso di lui. E un mondo immenso…
+
+Come l’abisso che separava il Maresciallo Imperiale dai generali sotto di lui…
+
+“Lui, e quel vecchio ufficiale subalterno malandato… è vero.”
+
+Tra tutti gli uomini che hanno parlato in questa storia, questi due…
+
+[[Alone|Da soli]], si guardarono e si capirono senza bisogno di parole.
+
+“Sergente,” disse il Maresciallo in tono secco, “ti ho visto due volte.”
+
+#Prima… Una volta, credo, quando hai vinto il premio di tutto l’esercito
+
+per la sua abilità nel tiro con il fucile a carabina.
+
+Il sergente fece il saluto senza dire nulla.
+
+“E ancora una volta,” proseguì Von Grock, “quando foste interrogati…”
+
+#Uccidere quella maledetta vecchia che non voleva darci informazioni
+
+#Sull’imboscata. L’incidente suscitò molti commenti.
+
+Nel [[Time|tempo]], anche all’interno dei nostri stessi circoli. Tuttavia, l’influenza.
+
+Esercitato dal tuo lato. La mia influenza.
+
+Il sergente salutò di nuovo; e rimase ancora in silenzio. Il Maresciallo…
+
+Continuò a parlare in modo monotono, ma stranamente schietto.
+
+“Sua Altezza il Principe è stato informato male e ingannato su…”
+
+Un aspetto essenziale per la sua stessa sicurezza e per quella della Patria.
+
+#Sotto questo errore, ha inviato imprudentemente un provvedimento di sospensione temporanea al Polo.
+
+Petrowski, che sarà giustiziato stasera. Ripeto: che sarà giustiziato stasera.
+
+Eseguito fino a mezzanotte. Devi partire immediatamente insieme a Von Schacht.
+
+Chi aveva in mano l’ordine di grazia, fermatelo.
+
+“Difficilmente posso sperare di superarlo, Marshal,” disse il sergente.
+
+Schwartz: “Ha il cavallo più veloce del reggimento, ed è, ”
+
+Il miglior cavaliere.
+
+“Non ti ho detto di superarlo… Ti ho detto di fermarlo,” disse.
+
+Grock… Poi continuò più lentamente: “Spesso un uomo può essere fermato…”
+
+Richiamato da vari segnali: urla o spari. La sua voce
+
+#"Trascinato ancora più pesantemente, ma senza mai fermarsi." "Il"
+
+Il caricamento di un fucile a carabina potrebbe attirare la sua attenzione.
+
+E poi il sergente scuro salutò per la terza [[Time|volta]]; e il suo volto cupo.
+
+La bocca fu nuovamente chiusa ermeticamente.
+
+“Il mondo cambia,” disse Grock, “non per ciò che si dice, o per…
+
+# È giudicato o lodato in base a ciò che si fa… Il mondo non lo capisce mai.
+
+Recupera da ciò che è stato fatto… In questo momento, l’uccisione di un uomo…
+
+“Una cosa che deve essere fatta…”, disse improvvisamente, i suoi occhi brillanti lampeggiarono per un istante.
+
+Da un lato d'acciaio, e aggiunse: “Voglio dire, naturalmente, Petrowski.”
+
+E il sergente Schwartz sorrise ancora più cupamente; anche lui…
+
+#Aprendo la falda della tenda, uscì nella oscurità…
+
+Salì sul suo [[Horse|cavallo]] e partì al galoppo.
+
+L’ultimo dei tre cavalieri aveva ancora meno possibilità del primo…
+
+# Abbandonarsi alle idee fantasiose per il puro piacere di farlo… Ma perché lui…
 
 
 
@@ -11256,6 +12041,199 @@ more generous tradition of [[Germany]] that has been too much neglected
 in this tale, was worthy of the accident that made him the herald
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Quei magnifici cavalli bianchi e quei cavalieri in bianco della sua vecchia brigata.
+
+Né l’[[Identity|identità]] era dubbia; la [[Moon|luna]] creava una sorta di aureola intorno ad essa.
+
+“Il capello dorato e ondulato del giovane Arnold, il secondo cavaliere…”
+
+Portatore della sospensione… e lo stesso bagliore misterioso della luna brillava ancora.
+
+# Non solo sui cinturoni e sui bottoni, ma anche sulle medaglie speciali…
+
+# Giovane soldato e i simboli della sua qualifica militare
+
+“Un velo di luce affascinante… quasi come se fosse avvolto nel bianco.”
+
+Armatura di Sir Galahad; e difficilmente si sarebbe potuta trovare una più adatta.
+
+Un contrasto terribile tra tanta grazia decaduta e la giovinezza…
+
+In basso, la figura rocciosa e [[Grotesque|grottesca]] che guarda verso il basso dall’alto.
+
+Grock aveva di nuovo tolto il casco; e anche se è possibile…
+
+che si trattasse soltanto di un vago segno di rispetto, simbolo di una qualche forma cerimoniosa di omaggio.
+
+L’effetto visibile di quella strana testa e collo nudi era…
+
+Di un pachiderma, i peli brillavano freddamente sotto la luna, come se fossero completamente privi di pelo.
+
+Testa e collo di qualche [[Monster|mostro]] dell’Età della Pietra. Corde, o qualcosa del genere.
+
+Un tale ritrattista delle straordinarie scuole artistiche tedesche avrebbe potuto…
+
+# Una bestia enorme e inumana, simile a un coleottero
+
+# Guardando in basso le ali spezzate e l’armatura bianca e dorata…
+
+Un qualche campione sconfitto dei Cherubim.
+
+Grock non pronunciò alcuna [[Prayer|preghiera]] né mostrò alcuna pietà; ma in qualche modo oscuro.
+
+Il cuore si commuove, proprio come talvolta anche le oscure e imponenti paludi…
+
+Si muove come una creatura vivente; ed è proprio così che gli uomini agiranno, quando proveranno empatia…
+
+La prima volta che hanno cercato debolmente di difendersi, senza nemmeno sapere cosa stesse succedendo.
+
+Cercò di formulare la sua unica [[Faith|fede]] e di confrontarla con la realtà cruda.
+
+l’universo e la luna che fissava il vuoto.
+
+"Dopo e prima dell’atto, la volontà tedesca rimane immutata. Non può..."
+
+Viene distrutto dai cambiamenti e dal [[Time|tempo]], proprio come quello degli altri che.
+
+Pentiti. Sta al di fuori del [[Time|tempo]], come una cosa di pietra, immobile e silenziosa.
+
+Avanti e indietro, sempre con la stessa faccia.
+
+Il [[Silence|silenzio]] che seguì durò abbastanza a lungo da soddisfare la sua freddezza.
+
+La [[Vanity|vanità]], con un certo senso di presagio; come se una statua di pietra avesse.
+
+Parlato in un valle di [[Silence|silenzio]]. Ma quel [[Silence|silenzio]] iniziò a vibrare.
+
+#Ancora una volta, con un sussurro lontano… che era il debole battito di…
+
+“Coppie di cavallo… E un attimo dopo il sergente arrivò al galoppo…”
+
+Piuttosto che correre, tornò indietro lungo la strada in salita, con il suo corpo segnato dalle cicatrici.
+
+Il volto scuro, sotto la luce della [[Moon|luna]], non era più soltanto cupo, ma orribile.
+
+“Marshall,” disse, salutando con una strana rigidità, “ho visto…”
+
+“Petrowski il Polacco!”
+
+“Non l’hanno ancora sepolto?”, chiese il Maresciallo, continuando a fissare.
+
+Giù, in un certo senso astratto.
+
+“Se l’hanno fatto,” disse Schwartz, “allora lui ha spostato la pietra da parte…”
+
+Risorto dai morti.
+
+Guardava fisso davanti a sé la [[Moon|luna]] e le paludi; ma, in realtà.
+
+#Nonostante non fosse affatto un personaggio visionario…
+
+Queste cose che aveva visto, ma piuttosto quelle che aveva appena visto.
+
+# Aveva davvero visto Paul Petrowski camminare vivo e sveglio…
+
+#La strada principale di quella città polacca, illuminata in modo splendido…
+
+# All'inizio della diga; non si poteva sbagliare riguardo a quella figura snella
+
+#Uomo con capelli arricciati e una barba alla francese
+
+Apparso in molti album personali e riviste illustrate. E…
+
+Dietro di lui, aveva visto quella città polacca illuminata da bandiere e…
+
+Incendiari e una popolazione infuocata dal culto trionfante degli [[Hero|eroi]].
+
+Anche se forse meno ostile verso il [[government|governo]] di quanto avrebbe potuto essere.
+
+Essendo stato così, poiché si stava rallegrando per la liberazione del suo popolare [[Hero|eroe]].
+
+“Intendi dire…”, gridò Grock con una voce improvvisamente stridula e rauca.
+
+Titolo:  
+“Voci che dicono che abbiano osato rilasciarlo, sfidando i miei ordini…”
+
+“Messaggio?”
+
+“Schwartz salutò di nuovo e disse…”
+
+“Lo avevano già rilasciato e non hanno ricevuto alcun messaggio.”
+
+“Mi chiedi davvero, dopo tutto questo,” disse Grock, “di credere che non…”
+
+“È davvero arrivato un messaggero dal nostro accampamento?”
+
+“Nessun messaggero affatto,” disse il sergente.
+
+Ci fu un [[Silence|silenzio]] molto più lungo, poi Grock disse, con voce rauca:
+
+# Che diavolo è successo? Riesci a pensare a qualcosa…
+
+“Per spiegarlo tutto?”
+
+“Ho visto qualcosa,” disse il sergente, “che penso possa essere importante…”
+
+“Spiegamelo tutto.”
+
+Quando il signor Pond ebbe raccontato la storia fino a questo punto, fece una pausa…
+
+Un'espressione vuota e irritante.
+
+“Beh,” disse Gahagan con impazienza, “e tu sai qualcosa in merito?”
+
+“Potrebbe spiegarlo tutto?”
+
+“Beh,” disse il signor Pond in modo umile, “penso di sì. Vede, ho dovuto, ”
+
+#Me ne occuperò da solo quando il rapporto arriverà a me
+
+# Dipartimento… Nacque davvero da un eccesso di elementi prussiani.
+
+#Obbedienza… Nacque anche da un eccesso di un altro prussiano.
+
+Debolezza: disprezzo. E tra tutte le passioni che accecano e folleggiano…
+
+E ingannare gli uomini, il peggio di tutto è il disprezzo.
+
+“Grock aveva parlato in modo troppo disinvolto davanti alla mucca… e molto di più.”
+
+“Con fiducia di fronte ai ‘cavoli’… Disprezzava gli uomini stupidi, anche quando erano…”
+
+Il proprio personale; e trattava Von Hocheimer, il primo messaggero, con particolare considerazione.
+
+Un pezzo di mobilia, solo perché assomigliava a un [[Fool|idiota]]; ma il.
+
+Il tenente non era così [[Fool|stupido]] come sembrava; anche lui capiva le cose.
+
+Quello che il grande Maresciallo intendeva, proprio come lo capiva il cinico.
+
+Sergente che aveva compiuto opere così spregevoli per tutta la sua vita… Hocheimer
+
+Capì anche la particolare [[philosophy|filosofia]] morale del Maresciallo: che un.
+
+L’azione è inescusabile anche quando non può essere difesa. Lui lo sapeva.
+
+Quello che il suo comandante voleva era semplicemente il cadavere di Petrowski…
+
+Lo voleva comunque, a scapito di qualsiasi [[Deception|inganno]] da parte dei principi o.
+
+Distruzione dei soldati… E quando udì un cavaliere più veloce…
+
+Dietro di lui, mentre cercava di superarlo, sapeva tutto quanto Grock sapeva.
+
+#Il nuovo messaggero deve sicuramente portare con sé…
+
+Un messaggio riguardante la [[Mercy|miseria]] del Principe. Von Schacht, così giovane.
+
+Un ufficiale nobile e coraggioso, che sembrava l’incarnazione stessa di tutto ciò…
+
+Una tradizione più generosa della [[Germany|Germania]], che però è stata troppo trascurata.
+
+In questa storia, egli era davvero degno dell’incidente che lo rese un messaggero importante.
+
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_07" data-title="MrPond — A Tall Story (part 7)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/horse,motif/journey,motif/night,motif/prison,motif/road,motif/secrets,motif/water,motif/well,concept/self,form/epigram,character/pistol,character/speed"></span>
@@ -11454,6 +12432,201 @@ that ever-so-old comic [[Song|song]]--they're quite young really, of course,
 and rather . . . you know.  But--"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Di una politica più generosa. Arrivò con la [[Speed|velocità]] tipica di quella nobile persona.
+
+#"Equitazione che in Europa ha lasciato solo il nome..."
+
+#"Chivalry: un appello rivolto all’altro con tono da araldo"
+
+“La tromba che ordina di fermarsi, alzarsi in piedi e girare… E Von Hocheimer obbedì.”
+
+Si fermò, trattenne il suo [[Horse|cavallo]], girò sulla sella, ma il suo.
+
+Tenne il fucile in posizione orizzontale, come se fosse una [[Pistol|pistola]], e sparò al ragazzo.
+
+Dritto negli occhi.
+
+Poi si girò di nuovo e continuò il suo cammino, portando con sé l’ordine di morte di.
+
+Il Polo. Dietro di lui, cavallo e uomo erano caduti oltre il bordo.
+
+Il terrapieno fu rimosso, in modo che l’intera [[Road|strada]] fosse libera. E lungo quella strada.
+
+Il terzo messaggero, a sua volta, lavorò sodo su quella strada chiara e aperta.
+
+Meravigliandosi della lunghezza infinita del suo [[Journey|viaggio]], fino a quando non vide.
+
+Finalmente, l’inconfondibile uniforme di un ussaro… simile a una stella bianca.
+
+#Scomparendo nella distanza, anche lui sparò… Solo che lui non…
+
+Uccidi il secondo messaggero, ma il primo prima di tutto.
+
+“Ecco perché nessun messaggero riuscì a raggiungere viva la città polacca…”
+
+[[Night|di notte]]. Ed è per questo che il prigioniero riuscì a uscire vivo dalla sua [[Prison|prigione]].
+
+# Pensi davvero che io abbia sbagliato dicendo che Von Grock ne aveva due?
+
+Servitori fedeli, ma forse uno di troppo?
+
+Il crimine del capitano Gahagan
+
+Deve ammettersi che alcune persone ritenevano il signor Pond noioso… Lui
+
+Aveva una debolezza per i lunghi discorsi, non per un senso di [[Self|autoimportanza]], ma.
+
+# Perché aveva un gusto letterario all’antica… e lo manteneva.
+
+Hanno ereditato inconsciamente l’abitudine di Gibbon, Butler o Burke.
+
+Anche i suoi paradossi non erano quelli che si definiscono “paradossi brillanti”.
+
+# Il termine “brillante” è da tempo considerato l’arma più potente…
+
+Critica… ma il signor Pond non poteva essere distrutto o umiliato in alcun modo.
+
+# Carica di brillantezza. Pertanto, nel caso che ora andremo ad esaminare…
+
+#Il signor Pond disse… (si riferisce, con dolore devo dire, alla maggior parte di…)
+
+Il sesso femminile, almeno nella sua fase più moderna: “Vanno così…”
+
+“Che non vadano oltre,” disse, ma non lo intendeva come un [[Epigram|epigrafo]].
+
+#E in qualche modo non suonava affatto epigrammatico… ma solo strano e bizzarro.
+
+Oscuri. E le signore a cui lo disse, in particolare l’onorevole.
+
+Violet Varney non riusciva a vedere alcun senso in tutto ciò. Loro pensavano che il signor Pond…
+
+Quando non era noioso, era soltanto confondente.
+
+Comunque, a volte il signor Pond si lasciava andare a lunghi discorsi… Trionfo
+
+# Pertanto, grande gloria appartiene a chiunque sia in grado di riuscirci con successo
+
+# Impedisci al signor Pond di tenere discorsi lunghi… e questo alloro è per te.
+
+Le pagine di Miss Artemis Asa-[[smith|Smith]], di Pentapolis, Pennsylvania. Lei venne qui.
+
+Intervistare il signor Pond per “The Live Wire”, esaminando le sue presunte opinioni…
+
+Il mistero dell’Haggis. E lei non gli permise nemmeno di dire una parola.
+
+“Credo,” iniziò il signor Pond, con una certa nervosità, “che il vostro articolo…”
+
+#Indagando su ciò che alcuni chiamano “Esecuzione Privata”, e io chiamo…
+
+#"Assassinio, ma..."
+
+“Dimenticatelo,” disse la giovane donna in breve. “È semplicemente troppo meraviglioso.”
+
+Perché io possa sedermi qui, accanto a tutti i [[Secrets|segreti]] del vostro [[government|governo]];
+
+# Perché…
+
+Continuò il suo monologo, anche se in uno stile fatto di punti e linee tratteggiate.
+
+Poiché non voleva che il signor Pond la interrompesse, sembrava pensarci seriamente…
+
+“Interrompersi sembrava la cosa giusta da fare… In qualche modo, era come se fosse inevitabile.”
+
+Il suo discorso non aveva mai fine; e nessuna delle sue frasi era mai…
+
+Finì.
+
+Abbiamo tutti sentito parlare di quegli intervistatori americani che mettono in discussione la vita familiare delle persone interpellate…
+
+[[Secrets|segreti]], forzare le porte delle camere da letto e raccogliere informazioni.
+
+Modi tipici dei ladri d’appartamento. Ce ne sono alcuni, ma ce ne sono anche altri.
+
+#Ci sono, o c'erano, quando lo scrittore se ne ricorda, delle quantità molto grandi…
+
+Numero di uomini intelligenti pronti a discutere di argomenti intelligenti… e
+
+C'era la signorina Asa-[[smith|Smith]]. Era piccola e scura di pelle; era piuttosto.
+
+#Bella… e sarebbe stata davvero bellissima se non avesse immerso…
+
+#Rossetto nei toni di terremoto ed eclissi… Le sue unghie erano…
+
+# Colorati di cinque colori diversi, simili alle vernici presenti in…
+
+La scatola dei colori di quella [[Child|bambina]]; ed era così [[Innocent|innocente]] come una [[Child|bambina]]. Era anche.
+
+Chiacchierona come un [[Child|bambino]], provava per il signore una sorta di affetto paterno.
+
+# Le raccontò tutto riguardo al laghetto… Non ebbe bisogno di dirle nulla altro.
+
+Qualsiasi cosa… Nessuna tragedia nascosta della famiglia Pond fu rivelata; nulla.
+
+I [[Secrets|segreti]] dei crimini commessi dietro la porta della camera da letto del signor Pond.
+
+# Conversazioni, per così dire, ruotavano principalmente attorno ai suoi primi anni…
+
+#Giorni in Pennsylvania: le sue prime ambizioni e ideali… quali due?
+
+Titolo:  
+Come molte delle tradizioni locali, sembrava che anche lei le immaginasse…
+
+# La stessa cosa… Era una femminista e aveva preso posizione al fianco di Ada P. Tuke
+
+Contro club e saloon, contro l’egoismo umano… Lei aveva
+
+Aveva scritto un dramma; e desiderava ardentemente leggerlo al signor Pond.
+
+“Riguardo a quella questione dell’esecuzione privata…”, disse gentilmente il signor Pond.
+
+“Credo che tutti noi, nei momenti disperati, abbiamo provato questa tentazione…”
+
+Beh, sono davvero desideroso di leggerti questa pièce. E sai com’è.
+
+“È proprio così… Vede, la mia opera è estremamente moderna… Ma anche le opere più moderne…”
+
+Le persone hanno proprio fatto così. Voglio dire, partendo dall’[[Water|acqua]] e.
+
+# Allora…
+
+“Partendo dall’[[Water|acqua]]?” chiese il signor Pond.
+
+“Sì, non è proprio troppo… oh, capisci. Immagino che loro lo faranno.”
+
+Tutti i personaggi, vestiti con abiti da bagno… ma entreranno appena in tempo.
+
+“L. o R.; vieni da questa parte, capisci… e tutte quelle vecchie cose.” Mia
+
+I personaggi entrano dall’alto, tuffandosi con un tonfo nell’[[Well|pozzo]]. Bene, così andrà.
+
+“Sarà senz’altro un successo, no? Voglio dire… inizia proprio così.” Lei
+
+Iniziò a leggere molto velocemente:
+
+“Scene, il mare fuori dal Lido.”
+
+#"La voce di Tom Toxin (dall’alto): ‘Vedetemi fare un bel rumore… se–’"
+
+La tossina si tuffa dall’alto sul palco, indossando un costume da bagno di colore verde pisello.
+
+#"Voce della Duchessa (dall’alto): ‘L’unica sorta di spruzzo che potrete mai…”"
+
+“Fai, ”, dice la Duchessa tuffandosi dall’alto in un costume da bagno rosso.
+
+#"Veleno (arriva gorgogliando): ‘Gorgoglia e basta… splash’"
+
+È l’unico spruzzo prodotto dal tuo.
+
+“Duchessa: ‘Oh, nonno!’”
+
+#Lo chiama Nonno, capisci… perché “splosh” significa soldi.
+
+Quella vecchia canzone comica. In realtà, loro sono ancora molto giovani, ovviamente.
+
+# E piuttosto... sai. Ma--
+
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_08" data-title="MrPond — A Tall Story (part 8)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/grave,motif/horse,motif/love,motif/storm,motif/well,concept/survival,concept/wonder,form/tragedy,histref/america,setting/america,setting/court,character/olivia"></span>
@@ -11643,6 +12816,194 @@ far he ventured to restrain them, that wooden face would never
 
 reveal.  But he worked [[Well|well]] for his client; and the two had
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Pond intervenne con delicatezza e fermezza: “Mi chiedo se, ”
+
+Sarebbe molto gentile da parte sua, signorina Asa-[[smith|Smith]], se lasciasse.
+
+Manoscritto con me… o inviami una copia, così da poterlo leggere quando voglio.
+
+Libertà… Si legge abbastanza velocemente per vecchi lettori come me; e…
+
+"Nessuno sembra mai finire una frase... Ma pensi di riuscirci?"
+
+#Convincere i nostri attori e attrici più importanti a tuffarsi nel grande…
+
+“Come possono le altezze trasformarsi in un mare scenico?”
+
+“Ah, sì… Immagino che alcuni dei veterani possano trovarlo un po’ noioso o rigido.”
+
+Rispose: “Perché, non riesco proprio a immaginare la tua grande attrice tragica, [[Olivia]]”.
+
+# Feversham… anche se in realtà non è così vecchia e rimane ancora davvero adorabile.
+
+Solo… ma così shakespeariano! Ho l’onore di conoscere l’Onorabile Violet.
+
+“Varney… una promessa davvero importante; inoltre, sua sorella è un’amica molto cara per me…”
+
+Certo che no… E molti amatori lo farebbero solo per divertimento.
+
+Il ragazzo Gahagan è un buon nuotatore, ed è anche apparso in alcune produzioni cinematografiche, beh, insomma.
+
+Lo avrebbe cliccato se ci fosse stata Joan Varney dentro.
+
+Il volto del signor Pond, fino ad allora paziente e stoico, divenne improvvisamente…
+
+“Silenziosamente all’erta e viva…”, disse con un tono nuovo e grave.
+
+“Il Capitano Gahagan è un mio grande amico, e lui mi ha presentato…”
+
+“Me… a Miss Varney. Per quanto riguarda sua sorella, quella che è sul palco…”
+
+“Niente in confronto a Joan, vero? Ma, ” disse la signorina Asa-[[smith|Smith]].
+
+Il signor Pond aveva già formato un'opinione su di lei. Gli piaceva la signorina Asa-[[smith|Smith]]. Lui.
+
+Gli piaceva molto… E il pensiero dell’onorevole Violet…
+
+Varney, quell’[[aristocrat|aristocratico]] inglese, lo rese simile agli americani.
+
+#Di più… L’onorevole Violet era una di quelle donne ricche che…
+
+Agire in modo scorretto e truffare le persone più povere che avrebbero potuto…
+
+Pagata per recitare bene. Di certo era più che capace di immergersi completamente nel ruolo.
+
+Vestito da bagno… o nulla del tutto, se fosse l’unico modo possibile.
+
+Sul palco e sotto i riflettori… Era davvero capace di offrire il proprio contributo.
+
+La signorina Asa-[[smith|Smith]], con la sua assurda recita e parlando di sciocchezze del genere.
+
+#Sull'essere moderni e indipendenti dagli uomini egoisti… Ma c’era qualcosa in più.
+
+Differenza… e non fu a vantaggio dell’Onorevole.
+
+# Violet. Povera Artemis… seguiva mode stupide solo perché era…
+
+Giornalista instancabile che doveva guadagnarsi da vivere… e Violet
+
+Varney rubava soltanto la vita agli altri. Entrambi parlavano…
+
+#Lo stile fatto di frasi incompiute…
+
+# Una lingua che, secondo il signor Pond, potrebbe davvero essere considerata “rotta”
+
+Titolo:  
+“Inglese… Ma Violet lasciò in sospeso la fine della frase, come se stesse…”
+
+Troppo stanca per finirlo… Artemis lo fece come se davvero fosse troppo stanca.
+
+“Desiderosa di passare immediatamente al successivo… In lei, in qualche modo, c’era…”
+
+Qualcosa, uno “spirito di vita”, che sopravvive a ogni critica rivolta all’[[America]].
+
+“Molto più bella quella di Joan Varney,” continuò Artemis, “e puoi scommetterci…”
+
+Il mio amico Gahagan la pensa così. Credi davvero che si metteranno insieme?
+
+È un tipo strano, sai.
+
+#Il signor Pond non lo negò. Il capitano Gahagan, quel tipo arrogante e…
+
+Un uomo irrequieto e talvolta cupo, che frequentava i salotti della città… strano sotto molti aspetti.
+
+Titolo:  
+Modi… e soprattutto nella sua affettuosa attenzione, quasi in contrasto con tutto il resto…
+
+Il preciso e banale signor Pond.
+
+“Alcuni dicono che sia un individuo spregevole,” disse l’americano schietto. “Io no.”
+
+Quello, ma devo dire che è un cavallo davvero scuro. E poi si comporta in modo molto ambiguo.
+
+Riguardo a Joan Varney, giusto? Alcuni dicono che sia davvero [[Love|innamorato]] di lei.
+
+La grande [[Olivia]], l’unica attrice tragica che abbiamo avuto. Solo lei sa essere così allegra.
+
+“Tragico.”
+
+“Speriamo che non partecipi davvero a una vera e propria [[Tragedy|tragedia]]”, disse Pond.
+
+# Non ne aveva la minima idea
+
+La terribile [[Tragedy|tragedia]] della vita reale e la [[Death|)morte]] di [[Olivia]] Feversham.
+
+Avrebbe dovuto giocare entro le prossime ventiquattro ore.
+
+Pensava soltanto al suo amico irlandese, così com’era realmente.
+
+#Abbastanza vicino da conoscere tutto ciò che non sapeva. Peter Patrick
+
+Gahagan conduceva una vita moderna, forse in modo eccessivo… era un esempio di ciò che la società contemporanea promuove.
+
+Club notturni e un pilota di auto sportive… ancora relativamente giovane.
+
+Ma, nonostante tutto, era un [[Survival|sopravvissuto]]. Apparteneva ai tempi di.
+
+“Una posa più byroniana… Quando il signor W. B. Yeats scrisse: ‘Romantico’…”
+
+L’Irlanda è morta e se n’è andata; ora è con O’Leary nella [[Grave|tomba]], aveva detto.
+
+Non ho mai incontrato Gahagan, che all’epoca non era ancora nella [[Grave|tomba]]. Apparteneva a quel gruppo.
+
+Una tradizione più antica, confermata da centinaia di prove: era stato un soldato di cavalleria.
+
+E anche membro del Parlamento; l’ultimo ad attenersi alle antiche usanze irlandesi.
+
+Oratori con le loro pause conclusive… Come tutti questi, per qualcuno.
+
+#Per questo motivo amava Shakespeare. Isaac Butt riempiva i suoi discorsi di…
+
+#Shakespeare: Tim Healy avrebbe potuto citare il poeta in modo così incisivo…
+
+Sembrava far parte della conversazione quotidiana a tavola; Russell di Killowen leggeva…
+
+“Nessun altro libro… Ma lui, come loro, era ‘shakespeariano’ nel suo modo di scrivere.”
+
+Il modo del XVIII secolo: il modo di Garrick… e quel XVIII secolo.
+
+Il secolo che ricordava presentava un lato piuttosto pagano… Pond poteva…
+
+Non si possono escludere le possibilità che Gahagan abbia avuto una relazione con [[Olivia]] o.
+
+Qualcun altro? E in tal caso, potrebbe essere in arrivo una [[Storm|tempesta]]. Perché [[Olivia]] era.
+
+Sposata, e per di più con un marito tutt’altro che comprensivo.
+
+#Frederick Feversham: qualcosa di peggio di un attore fallito
+
+#Colui che un tempo aveva avuto successo… Ora era stato dimenticato.
+
+Teatro… e ricordato soltanto nei tribunali. Un ambiente oscuro e complicato.
+
+Uomo ancora piuttosto affascinante nonostante l’aspetto stanco, era diventato famoso… o almeno noto a molti.
+
+# Un litigante perenne… Sempre intentando cause legali
+
+# Contro persone che accusava di trucchi banali e comportamenti distanti…
+
+#Errori discutibili: manager, rivali e tutti gli altri. Fino ad ora…
+
+# Nessun dissidio particolare con sua moglie, più giovane di lui e ancora…
+
+#Popolare nella sua professione… Ma molto meno intimo con le persone che lo circondavano.
+
+Più che con il suo avvocato, parlava con sua moglie.
+
+Attraverso un cortile dopo l’altro, Feversham proseguì nella sua ricerca, difendendo i propri diritti.
+
+Seguito come un’[[Shadow|ombra]] dal suo avvocato, Luke, dello studio legale.
+
+# Maestri, Luke e gli altri… un giovane con i capelli gialli e lisci…
+
+Un volto piuttosto rigido… Cosa pensava delle lotte intestine dei suoi clienti, e come…
+
+# Mai osò cercare di fermarli… Quel volto di legno non avrebbe mai ceduto.
+
+Revelare. Ma lavorò molto bene per il suo cliente; e i due avevano.
 
 
 
@@ -11837,6 +13198,199 @@ replied Luke smoothly, "and I [[Fear|fear]] the full Statement may make even
 
 you believe it.  Perhaps the most serious result of our
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Inevitabilmente diventano compagni d’armi… Di una certa cosa, almeno, Pond lo è sicuramente.
+
+# Era certo: né Feversham né Luke avrebbero probabilmente risparmiato nessuno.
+
+"Gahagan… se quel signore capriccioso dovesse sbagliare."
+
+Titolo:  
+Questa parte del problema era destinata a trovare una soluzione ancora peggiore di quella prevista…
+
+#Il sogno che aveva sognato… Ventiquattro ore dopo il colloquio di Pond…
+
+Durante l'intervista, scoprì che Frederick Feversham era morto.
+
+Come altre persone propense a ricorrere a giustizi contenziosi, anche il signor Feversham aveva lasciato disposizioni legali in merito.
+
+#Un problema alle sue spalle… per mantenere molti avvocati con i loro onorari. Ma non era quello il vero problema.
+
+Il problema di un testamento redatto in modo impreciso o di una firma dubbia. Era…
+
+# Il problema di un cadavere rigido e immobile, disteso proprio all’interno…
+
+La porta del [[Garden|giardino]] fu fissata lì con una [[Sword|_spada]] da recinzione e il pulsante venne attaccato insieme.
+
+Interrutto. Frederick Feversham, quel legale rigido e conservatore, ne aveva sofferto le conseguenze…
+
+Almeno un atto illegale finale e indiscutibile: era stato pugnalato…
+
+[[Death|Morte]] mentre entrava nella sua stessa [[Home|casa]].
+
+# Molto prima che certi fatti, raccolti lentamente, venissero presentati…
+
+Polizia… furono portati davanti al signor Pond. Può sembrare strano, ma…
+
+C'erano delle ragioni; infatti il signor Pond, come molti altri membri del [[government|Governo]].
+
+Funzionari che possedevano ambiti di influenza segreti e inaspettati.
+
+“I suoi poteri pubblici erano in realtà molto privati… Più giovane e più appariscente.”
+
+Si diceva che anche gli uomini provassero per lui un certo timore reverenziale, a causa di…
+
+# Circostanze speciali… Ma spiegarlo tutto significherebbe esplorare…
+
+Labirinto della costituzione più incostituzionale di tutte.
+
+In ogni caso, la sua prima avvertenza riguardo al problema fu… del tutto banale.
+
+In forma di una normale lettera legale, con il titolo della [[Well|,]].
+
+La nota azienda Masters, Luke and Masters, esprime la speranza che.
+
+Potrebbe essere permesso al signor Luke di discutere alcune informazioni con il signor.
+
+Il laghetto, prima che diventasse necessario denunciarlo alla polizia
+
+Autorità o stampa… Il signor Pond rispose altrettanto formalmente che…
+
+Sarebbe molto lieto di ricevere il signor Luke all’ora stabilita.
+
+Il giorno seguente… Poi si sedette e fissò il vuoto, con quel…
+
+Espressione piuttosto sbalordita che spinse alcuni dei suoi amici a farlo paragonare…
+
+Lo trasformò in un pesce.
+
+Aveva già pensato a circa due terzi di ciò che il procuratore avrebbe dovuto suggerire…
+
+Stava per dirglielo.
+
+“La [[Truth|verità]] è questa, signor Pond,” disse l’avvocato, con tono confidenziale ma.
+
+“Voce ancora cauta, quando finalmente fu depositato dall’altra parte…”
+
+Il giorno dopo, al posto del signor Pond al tavolo, “La [[Truth|verità]] è che, ”
+
+Possibilità di questa situazione, comunque dolorose, potrebbero essere particolarmente…
+
+“Doloroso per te… La maggior parte di noi trova impossibile immaginare che qualcuno possa provare una cosa del genere.”
+
+Un amico personale potrebbe finire sotto sospetto in simili circostanze.
+
+“Gli occhi dolci del signor Pond si spalancarono molto, e anche la sua bocca…”
+
+Il movimento fugace che alcuni considerarono molto sospetto…
+
+L’avvocato probabilmente pensò che fosse rimasto scioccato dalla prima proposta fatta.
+
+Il fatto che il suo amico ne fosse influenzato lo sorprese leggermente…
+
+# Supponiamo che qualcuno non avesse mai concepito quell’idea… Lui
+
+#Sapeva che frasi del genere fossero comuni nelle forme più convenzionali di espressione
+
+Storie di [[Detective|detective]], che amava molto leggere, come diversivo rispetto ad altro.
+
+# Burke e Gibbon. Riusciva a vedere le parole stampate su centinaia di pagine…
+
+Titolo:  
+“Nessuno di noi riusciva a credere che quel giovane attraente…”
+
+“Sembrava assurdo collegare quel giocatore di cricket a un crimine”.
+
+#Un omicidio con un personaggio come il Capitano Pickleboy, la figura più popolare
+
+“Nella società…”. Si era sempre chiesto cosa significassero quelle parole. Per lui…
+
+Per una mente semplice e scettica del XVIII secolo, sembravano voler dire…
+
+#Niente affatto. Perché mai gli uomini piacevoli e alla moda non dovrebbero…
+
+“Uccisioni… come chiunque altro? Anche lui era molto turbato.”
+
+“All’interno, riguardo a questo caso specifico… ma ancora non capiva.”
+
+Quel modo di parlare.
+
+“Mi dispiace dirlo,” continuò l’avvocato a bassa voce, “ma…”
+
+Indagine privata che abbiamo già condotto da soli
+
+Titolo:  
+Mettendo il tuo amico, Capitano Gahagan, in una certa posizione…
+
+Che richiede spiegazioni.
+
+“Sì,” pensò Pond, “e, mio Dio, Gahagan ha davvero bisogno…”
+
+Spiegazione… Ecco proprio il problema con lui… Ma, Signore…
+
+“Che lento sia questo tizio!” In breve, il vero problema era Pond…
+
+Aveva una grande simpatia per il Capitano Gahagan; ma fino a un certo punto…
+
+# Se gli uomini fossero capaci di commettere omicidi, era piuttosto incline a ritenere che lo fossero
+
+#Che Gahagan fosse capace di commettere omicidi… più capace di uccidere che di qualsiasi altra cosa.
+
+Cattiveria verso un [[cabman|autista di cabina]].
+
+# Improvvisamente, con una vividezza straordinaria, l’immagine di Gahagan…
+
+Quell’immagine riemerse improvvisamente nella memoria di Pond: Gahagan, così come lo aveva visto l’ultima volta.
+
+“Con le sue spalle larghe e il passo lungo, e quel suo aspetto strano e scuro…”
+
+# Capelli rossi sotto il cappello grigio inclinato con noncuranza… e dietro…
+
+#Un angolo di tramonto dove le nuvole serali si muovevano lentamente…
+
+#Pompa viola in declino, simile alla pompa del povero Gahagan
+
+#Non si trattava di lui… No: quell’irlandese era un uomo di settantasette anni…
+
+Perdonato, ma non un uomo che possa essere assolto facilmente.
+
+“Signor Luke,” disse improvvisamente Pond, “risparmierà[[Time|tempo]] se vi dico, ”
+
+# Cosa so esattamente contro Gahagan? Lui era…
+
+#In giro dalla signora Feversham, la grande attrice… Non so perché
+
+Era così; la mia convinzione personale è che sia davvero innamorato di un’altra persona.
+
+Donna… Eppure, senza dubbio, le ha concesso molto.
+
+Nel suo [[Time|tempo]]: ore e ore, anche molto oltre l’orario normale. Ma se Feversham.
+
+#"Non fu certo il tipo di uomo che avrebbe fatto qualcosa di insolito..."
+
+Per lasciarlo andare senza processi, scandali e chissà cosa altro.
+
+# Non voglio criticare il tuo cliente… ma, per dirla in modo diretto, lui…
+
+#Vissuto quasi interamente tra cause legali e scandali… E se
+
+“Feversham era l’uomo giusto per minacciare o ricattare, ve lo dico io.”
+
+# Francamente, quel Gahagan era l’uomo giusto per rispondere a lui con la stessa forza fisica.
+
+Moda… e forse anche ucciderlo, soprattutto se si trattasse del nome di una signora…
+
+“Coinvolti… È proprio questo il caso del Capitano Gahagan; e vi dico…”
+
+All’inizio, non credevo che fosse possibile.
+
+“Purtroppo, non è questa l’unica accusa contro il Capitano Gahagan.”
+
+“E temo che l’intera dichiarazione possa rendere le cose ancora peggiori,” rispose Luke con calma.
+
+#Credeteci… Forse il risultato più grave delle nostre azioni è proprio questo.
 
 
 
@@ -12042,6 +13596,208 @@ day and would never join a conspiracy.  He's the sort of man women
 like.  Even Violet Varney likes him.  Joan Varney loves him.  And
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Indagini su questo argomento. È ormai assolutamente chiaro che…
+
+#Il capitano Gahagan fornì tre resoconti completamente contraddittori e incoerenti
+
+Titolo:  
+Dei suoi movimenti, o dei movimenti che aveva intenzione di compiere, nella serata di…
+
+# Omicidio: assegnandogli i punteggi più alti possibili per la veridicità
+
+In questa faccenda, deve aver detto almeno due bugie per una sola [[Truth|verità]].
+
+“Ho sempre ritenuto Gahagan abbastanza sincero”, rispose Pond.
+
+"#Tranne quando raccontava bugie per divertimento… il che, in realtà…"
+
+Piuttosto il segno di un uomo che non prostituisce l’arte sublime della.
+
+# Mentire per necessità: sulle pratiche ordinarie e quotidiane
+
+Riguardo a queste cose, ho trovato che non solo fosse franco, ma anche abbastanza preciso.
+
+“Anche ammettendo ciò che dici,” rispose il signor Luke con scetticismo, “noi…”
+
+#Deve comunque rispondere: se fosse solitamente franco…
+
+“Veritiero… deve essere stato un momento estremamente difficile e disperato…”
+
+Lo costrinsero a mentire.
+
+“A chi ha raccontato queste bugie?” chiese Pond.
+
+“Ecco dove tutta la questione diventa così dolorosa e delicata,” disse
+
+Il avvocato scosse la testa. “Quel pomeriggio, a quanto pare… Gahagan”
+
+Aveva parlato con diverse signore.
+
+“Di solito lo ha,” disse Pond. “O forse erano loro a parlare…”
+
+#Lui? Se per caso uno di loro fosse proprio quello…
+
+Deliziosa signora, la signorina Asa-[[smith|Smith]] di Pentapolis, oserei dire.
+
+Probabilmente era lei a parlare con lui.
+
+“È davvero straordinario,” disse Luke, sorpreso. “Davvero…”
+
+Non so se si trattasse di una supposizione… ma uno di loro era sicuramente una signorina.
+
+Asa-[[smith|Smith]] di Pentapolis. Gli altri due erano la signora Violet Varney.
+
+E, infine ma non meno importante, l’onorevole Joan Varney. Per quanto riguarda…
+
+# In realtà, fu l’ultima cosa che disse per prima; il che, immagino, fosse…
+
+Solo naturale… È degno di nota, su tua stessa proposta, che lui sia così.
+
+#Davvero molto legato a quest’ultima signora, al punto che le sue parole rivolte a lei…
+
+A quanto pare, molto vicino alla [[Truth|verità]].
+
+“Ah,” disse il signor Pond, tirandosi pensierosamente la barba.
+
+“Joan Varney,” osservò seriamente l’avvocato, “ha dichiarato…”
+
+Di certo, prima ancora che scoprisse l'esistenza di qualsiasi problema o [[Tragedy|tragedia]].
+
+In questo caso, il Capitano Gahagan aveva lasciato la [[house|casa]] dicendo: “Io, ”
+
+Sto andando dai Feversham.”
+
+“E tu dici che ciò sia in contraddizione con le sue dichiarazioni rivolte agli altri…”
+
+Disse il signor Pond.
+
+“Con assoluta certezza,” rispose Luke. “L’altra sorella, ben nota, ”
+
+“Sul palco, nel ruolo di Violet Varney, lo fermò mentre stava per uscire…”
+
+Scambiarono poche parole superficiali… Ma quando lui se ne andò…
+
+Le dissero chiaramente: “Non andrò dai Feversham; loro sono…”
+
+“Ancora a Brighton”, o qualcosa del genere.
+
+“E ora arriviamo,” disse il signor Pond sorridendo, “al mio giovane amico…”
+
+Pentapolis. A proposito, cosa ci faceva lì?
+
+La trovò sul gradino di casa quando aprì la porta d’ingresso.
+
+“Anche lei era arrivata di fretta,” rispose il signor Luke, sorridendo anch’egli. “In un attimo…”
+
+# Entusiasmo per l’intervista a Violet Varney come “Commediante e Sociale”
+
+# Leader. Nessuno dei due è il tipo di persona che potrebbe non essere all’altezza…
+
+Notato… oppure non notarsi a vicenda. Quindi Gahagan aveva un piccolo…
+
+“Parlale anche tu con lei; alla fine se ne andò…”
+
+Agitando vigorosamente il suo cappello grigio a cilindro, le fece capire che stava per andarsene.
+
+Immediatamente al club.
+
+“Ne sei sicuro?” chiese Pond, corrugando la fronte.
+
+#Era certa di ciò; perché era furiosa da morire…
+
+“Sì,” rispose Luke. “Sembra che abbia qualche moda femminista in voga…”
+
+# Tutti gli uomini che vanno nei club lo fanno per…
+
+# Racconti calunniosi sulle donne… e poi bere fino all’ubriachezza
+
+#Sotto banco… Forse provava un certo senso di professionalità.
+
+#Anche su questo… forse avrebbe voluto che fosse più lungo.
+
+Intervista, sia per sé stessa che per The Live Wire… Ma giuro.
+
+È abbastanza onesta.
+
+“Oh, sì,” disse il signor Pond con enfasi, ma piuttosto cupamente, “lei è…”
+
+Assolutamente onesto.
+
+“Beh, eccolo lì,” disse Luke, parlando anche lui senza troppi complimenti.
+
+#"Ombra e malinconia: “Mi sembra che la psicologia di questa situazione sia fin troppo evidente…”"
+
+Nelle circostanze del caso, esclamò dove in realtà stava andando.
+
+# Alla ragazza a cui era abituato a confidarsi… forse no.
+
+Non pianificare mai il crimine con troppa attenzione… o forse non era davvero necessario farlo del tutto.
+
+Pianificato o premeditato. Ma entro il momento in cui ne parlò, ne erano rimasti meno.
+
+Le persone gentili che incontrava capivano quanto fosse saggio non dire che stava andando via.
+
+“Per i Feversham… Il suo primo impulso è dire, in fretta e troppo…”
+
+# Crudeamente, non avrebbe mai visitato i Feversham.
+
+Terza intervista: gli viene in mente una bugia davvero convincente… normale e plausibile.
+
+A sufficienza vago; dice semplicemente che andrà al club.
+
+“Potrebbe essere così,” rispose Pond, “o forse, ” E il signor.
+
+Per la prima volta, Pond iniziò ad assumere l’abitudine pigra di Miss Asa-[[smith|Smith]].
+
+#E non riuscì a finire la frase. Invece rimase seduto a fissare…
+
+Titolo:  
+Distanza… con quel suo sguardo fisso e acquoso, simile a quello di un pesce; poi lui…
+
+Si prese la testa tra le mani e disse scusandosi: “Per favore, perdonatemi”.
+
+“Se ci penso solo per un minuto, ”, e seppellì di nuovo le sue sopracciglia calve.
+
+Il pesce barbuto riemergette in superficie, questa volta con un aspetto leggermente diverso…
+
+“Espressione”, e lo disse con un tono deciso e quasi tagliente.
+
+“Sembri davvero determinato a far ricadere le conseguenze di questo crimine sui poveri, ”
+
+“Gahagan.”
+
+Per la prima [[Time|volta]], i tratti del viso di Luke si irrigidirono completamente, o forse ancora di più.
+
+#"Durezza. Desideriamo ardentemente portare in giudizio l’assassino del nostro cliente."
+
+“Per far giustizia.”
+
+“Pond si chinò in avanti e i suoi occhi erano penetranti mentre ripeteva…”
+
+“Ma dovete credere che l’assassino sia stato Gahagan.”
+
+“Vi ho fornito le prove,” disse Luke, abbassando la voce; “voi le conoscete…”
+
+“Testimoni.”
+
+“Eppure, stranamente,” disse Pond molto lentamente, “voi non l’avete ancora fatto…”
+
+Titolo: Menzionò la cosa davvero incriminante contro di lui nel rapporto…
+
+quei testimoni.
+
+“È già abbastanza dannoso, cosa intendi dire?” esclamò l’avvocato.
+
+“Intendo dire il fatto che sono testimoni RILUTANTI,” rispose Pond.
+
+“Non può essere una cospirazione… Il mio piccolo americano è onesto quanto…”
+
+# Un uomo d’onore che non parteciperebbe mai a complotti. Il tipo di uomo che le donne…
+
+Anche Violet Varney lo ama… E Joan Varney lo adora. E…
+
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_11" data-title="MrPond — A Tall Story (part 11)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="motif/time,motif/well,concept/self,concept/vanity,character/olivia,character/sempronius"></span>
@@ -12238,6 +13994,201 @@ typical insolent, selfish, [[Self|self]]-indulgent male brazenly bragging in
 the open street of his intention to go to his infamous club, where
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Tutti quanti forniscono prove che lo contraddicono o, almeno, dimostrano che…
+
+Si è contraddetto. Eppure tutti hanno torto.
+
+“Cosa diavolo intendi dire?”, esclamò Luke con improvvisa impazienza.
+
+“Dicendo che tutti hanno torto?”
+
+“Tutti si sbagliano riguardo a ciò che ha detto,” rispose Pond. “Lo hai capito?”
+
+“Chiedeteli se abbia detto qualcos’altro.”
+
+“Cosa altro è necessario?” gridò l’avvocato, ormai davvero arrabbiato. “Loro…”
+
+“Potrei giurare che abbia detto esattamente le stesse cose che dico io… Andare dai Feversham… No.”
+
+“And poi… verso i Fevershams; o forse in qualche club senza nome…”
+
+Correndo per la strada, lasciò una signora furiosa.
+
+“Esattamente,” disse Pond. “Dici che ha detto tre cose diverse.”
+
+# Disse la stessa cosa a tutti e tre… E poi cambiò idea.
+
+Prendendo un percorso diverso, ottenne lo stesso risultato.
+
+“L’ha girato dall’altra parte, va bene,” ribatté Luke quasi…
+
+#"Con violenza. “Ma se sale sul banco dei testimoni, scoprirà la verità…”"
+
+#Se la legge sul falso testimonio stabilisca che invertire la posizione di qualcosa ne cambi il significato…
+
+Lo stesso.
+
+Ci fu una pausa, poi il signor Pond disse con calma:
+
+“Ora sappiamo tutto sul crimine del Capitano Gahagan.”
+
+“Chi dice che sappiamo tutto su qualsiasi cosa? Io no. E tu?”
+
+“Sì,” disse il signor Pond. “Il crimine del capitano Gahagan fu… che…”
+
+Non capiva le donne… soprattutto quelle moderne. Quegli uomini…
+
+“Quell’aria vaga di essere assassine… Di solito non basta. Non lo sai?”
+
+Il caro vecchio Gahagan è davvero il tuo bis-bisnonno?
+
+# Mr. Luke fece un gesto di improvvisa e sincera preoccupazione; non era…
+
+Il primo uomo che per un momento pensò che il signor Pond fosse pazzo.
+
+“Non capisci proprio?” continuò Pond, “che appartiene a quella scuola di pensiero…”
+
+“Il vecchi signori e i giovani damerini che la chiamavano ‘Donna, bella donna’…”
+
+Non sapevo assolutamente nulla su di lei… il che rappresentava un notevole aumento delle mie ignoranze al riguardo.
+
+#Il suo potere? Ma come riuscivano a farle tanti complimenti… “Stai vicino a me.”
+
+#Ma forse… come sembra che tu pensi…
+
+Titolo:  
+“Credo che non sia del tutto pertinente… Ma capisci cosa intendo.”
+
+“Gahagan, quel tipo di donna che uccide gli uomini?”
+
+“So che è quel tipo di gentiluomo che uccide gli altri…”, esclamò Luke con voce tremante.
+
+Con violenza… “e che abbia ucciso un uomo nobile e profondamente ingiustamente trattato”.
+
+Un gentiluomo che era sia mio cliente che mio amico!
+
+“Sembri un po’ infastidito,” disse il signor Pond. “Hai provato…”
+
+Leggere “La vanità dei desideri umani” di Dr. Johnson? Davvero rilassante.
+
+Credetemi, quegli scrittori del XVIII secolo che volevo citare…
+
+Molto rilassante. Hai letto la commedia di Addison su Catone?
+
+“Sembri pazzo,” disse l’avvocato, ormai pallido davvero.
+
+“O ancora,” continuò il signor Pond in tono conversazionale, “avete letto i lavori della signorina…”
+
+Lo spettacolo di Asa-[[smith|Smith]] sulla duchessa in costume da bagno. Tutto quanto.
+
+Frasi stranamente interrotte a metà, proprio come quel costume da bagno.
+
+“Intendi qualcosa in particolare?” chiese l’avvocato a bassa voce.
+
+“Ah sì, intendo davvero molto,” rispose Pond. “Ma ci vuole un po’ di tempo…”
+
+Ci vorrebbe molto tempo per spiegarlo, come l’[[Vanity|VANITÀ]] dei desideri umani. Quello che voglio dire.
+
+# Mai essere meschini… Mio amico Gahagan adora quei vecchi aneddoti e storie divertenti.
+
+Oratori, proprio come me; discorsi in cui bisogna aspettare…
+
+Perorazione; epigrammi taglienti e pungenti… Ecco come si fa.
+
+Diventarono amici perché entrambi apprezzavano il XVIII secolo.
+
+Stile, equilibrio e antitesi… E tutto il resto. Ora, se avete questo…
+
+Titolo:  
+Abituati a leggere frasi banali come quelle contenute in “Cato”: “Non è nella…”
+
+I mortali possono comandare il [[success|successo]]; ma noi faremo di più, [[Sempronius|Sempronio]], faremo di più.
+
+Se lo merita,[[Well|benissimo]]; può essere buono o cattivo, ma devi aspettare.
+
+Per la fine della frase… perché inizia con una banalità.
+
+Titolo:  
+Finisce con un punto… Ma il tipo di frase moderna non finisce mai.
+
+Nessuno aspetta che finisca.
+
+#"Ora le donne erano sempre un po’ così… Non è che loro…"
+
+Non pensare: loro pensano più velocemente di noi… Spesso parlano anche prima che noi abbiamo il tempo di riflettere.
+
+Meglio. Ma non ascoltano molto bene, quindi reagiscono troppo in fretta.
+
+# Il primo punto: ne vedono molto di più… e partono da lì.
+
+Una serie di inferenze rapide e affrettate al riguardo… tanto che a volte non se ne accorgono nemmeno.
+
+Il resto del discorso, assolutamente no… Ma Gahagan, essendo dell’altra fazione…
+
+Il tipo di eloquio tipico degli antichi oratori finiva sempre con una certa formulazione…
+
+#"Correttamente, e facendo attenzione a chiarire cosa intendesse alla fine..."
+
+Inizio.
+
+"#Consiglio a voi, come dicono gli avvocati, che il Capitano Gahagan..."
+
+Nel primo caso, ciò che fu davvero detto a Joan fu: “Sto andando via”.
+
+“Dei Feversham… Non credo siano tornati da Brighton.”
+
+“Ma darò un’occhiata… Se non ci sono, allora proverò altrove.”
+
+“The Club.” Questo è ciò che ha detto Peter Gahagan… ma non è affatto quello che…
+
+Joan Varney sentì parlare di questa visita ai Fevershams…
+
+# Sentì immediatamente di sapere tutto al riguardo… troppo, addirittura.
+
+# Il tono tutt’altro che innaturale di “Andrà a vedere quella donna”; anche…
+
+Nonostante le sue parole successive indicassero che quella donna quasi certamente non lo era…
+
+Lì. Le informazioni su Brighton e il club non l’interessavano affatto…
+
+Non se ne ricordava nemmeno. Bene, allora passiamo al prossimo argomento.
+
+# Cosa disse Gahagan a Violet Varney… “Non serve a nulla”.
+
+“Andranno davvero dai Feversham… Non sono ancora tornati da Brighton…”
+
+“Forse darò un'occhiata… Se non sono tornati, allora andrò.”
+
+“Verso il club…” Violet è molto meno sincera e attenta di quanto dovrebbe essere…
+
+Joan. E lei stessa provava gelosia verso [[Olivia]], ma in modo molto diverso.
+
+Un percorso più superficiale… Violet, che si considerava un’attrice… E anche lei…
+
+#Sentito il nome Feversham, ricordò vagamente che lui lo aveva menzionato…
+
+“Non c’è niente da fare in quella direzione… cioè, lui non stava andando lì. Lei invece sì.”
+
+Felice di questo, gli concesse il piacere di chiacchierare con lui… ma non lo fece davvero.
+
+Decise di prestare la minima attenzione a qualsiasi altra cosa avesse detto.
+
+“Ora veniamo al terzo caso: cosa disse Gahagan a Miss Artemis Asa-…”
+
+[[smith|Smith]] alla porta d'ingresso disse: “Vado al club; l’ho promesso”.
+
+Durante il viaggio, ho deciso di fare visita ad alcuni miei amici, i Feversham…
+
+“Non credo che siano tornati da Brighton,” disse lui.
+
+# Ciò che Artemide udì, vide e distrusse con il suo sguardo ardente…
+
+Un tipico uomo insolenzo, egoista e indulgente con se stesso, che si vanta senza alcuna vergogna.
+
+#La strada aperta verso il suo intento di recarsi al suo famigerato club…
+
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_12" data-title="MrPond — A Tall Story (part 12)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="motif/night,motif/rose,motif/silence,motif/soul,motif/well,concept/honour,concept/truth,form/tragedy"></span>
@@ -12432,6 +14383,202 @@ happen not to be a murderer.  Though this explanation was naturally
 less personal and intimate than his interview with Joan (about
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Donne calunniate, uomini inebriati d’alcol… Dopo lo shock.
+
+Di tale sfacciata ammissione, ovviamente non poteva abbassarsi al punto di prenderla in considerazione…
+
+“I pezzi di tutte le altre sciocchezze che aveva detto… Era semplicemente…”
+
+L’uomo che andò al club.
+
+#"Ora, tutte e tre quelle dichiarazioni di Gahagan sono esattamente..."
+
+Lo stesso. Tutti significano la stessa cosa; indicano tutti lo stesso percorso da seguire.
+
+# Azione: fornire le stesse ragioni per gli stessi atti… Ma queste ragioni suonano diverse.
+
+Completamente diverso a seconda di quale frase venga pronunciata per prima…
+
+#Soprattutto per queste ragazze moderne, piuttosto irrequiete, abituate soltanto…
+
+# Afferrare al volo la prima frase che si presenta… spesso perché è proprio quella più importante.
+
+Non c’è assolutamente nulla che possa superarlo. La scuola di pensiero di Asa-[[smith|Smith]].
+
+Dramma in cui ogni frase finisce non appena inizia…
+
+Non ti sembra che abbia molto a che fare con la [[Tragedy|Tragedia]] di Catone?
+
+Ha avuto un ruolo molto importante nella [[Tragedy|tragedia]] del Capitano.
+
+"Gahagan. Forse avrebbero impiccato mio amico tra loro..."
+
+#"Le migliori intenzioni del mondo… semplicemente perché esistono."
+
+# Pensare solo in frasi incomplete… Colli spezzati, cuori infranti…
+
+Vivono… e tutto perché non vogliono imparare alcuna lingua, se non quelle “rotte”.
+
+Italiano: Non pensi che ci sia qualcosa di valido in quello che dici?
+
+Un sapore antico e stantio, tipico di quel genere di letteratura…
+
+#Ti spinge a leggere tutto ciò che un uomo scrive e ad ascoltare tutto ciò che dice
+
+Che ne dici di ricevere una dichiarazione importante? Non preferiresti?
+
+Titolo:  
+Nella lingua di Addison o Johnson, piuttosto che nei balbettii…
+
+“Il signor Toxin e la Duchessa Subacquea”?
+
+Durante questo monologo, certamente piuttosto lungo, l’avvocato aveva continuato a parlare…
+
+Sempre più irrequieto e pieno di irritazione nervosa.
+
+“Tutto questo è solo fronzoli,” disse quasi con febbre. “Non avete…”
+
+“Non è stato dimostrato nulla di tutto ciò.”
+
+“No,” disse Pond con serietà, “come dici tu, l’ho pensato anch’io. Almeno…“
+
+Avevo indovinato… Ma ho comunque chiamato Gahagan e ho scoperto qualcosa al riguardo.
+
+La [[Truth|verità]] delle sue parole e dei suoi gesti quel pomeriggio.
+
+“[[Truth|Verità]]!”, gridò Luke con un dolore estremamente profondo.
+
+Pond lo guardò con curiosità. Quell’espressione rigida, quel volto privo di emozioni…
+
+La prima impressione che il signor Luke suscitò venne confermata dopo un esame più approfondito.
+
+Titolo:  
+Consiste principalmente in un’espressione di fissità piuttosto forzata, unita a…
+
+“La rigidezza liscia della sua testa e dei suoi capelli… questi ultimi sembravano…”
+
+Aveva sido dipinto con una vernice gialla piuttosto appiccicosa…
+
+“Gummy Gamboge… I suoi palpebre erano davvero fredde, e spesso semiaperte…”
+
+Chiusi; ma all’interno di essi quegli occhi di colore verde-grigio sembravano stranamente piccoli…
+
+Come se fossero lontani… eppure ballavano e si muovevano velocemente intorno.
+
+Come minuscole mosche verdi… Più il signor Pond le osservava, più…
+
+Occhi velati ma inquieti… Più li guardava, meno gli piacevano. Quella vecchia vanità…
+
+Gli tornò in mente l’esistenza di una vera e propria cospirazione contro Gahagan…
+
+Certo che nessuno di questi lavori era stato realizzato da Artemis o Joan… Alla fine, ruppe il silenzio.
+
+Il [[Silence|silenzio]] calò improvvisamente.
+
+“Signor Luke,” disse, “è naturale che lei si preoccupi per il suo defunto…”
+
+Client… ma alcuni potrebbero pensare che il tuo atteggiamento fosse più di quanto sia normale in ambito professionale.
+
+Interesse… Poiché conosci così bene i suoi interessi, potresti dirmi…
+
+# Una notizia su di lui? Il signor Feversham e sua moglie…
+
+Come tornò a casa da Brighton quel giorno? La signora Feversham era in quella [[house|casa]]?
+
+Quel pomeriggio, sia che Gahagan ci fosse andato o meno,?
+
+“Non lo era,” disse brevemente Luke. “Si aspettava che fossero entrambi lì.”
+
+Titolo:  
+“Torna la mattina dopo… Non ho idea del perché Feversham abbia fatto così.”
+
+“Torna quella [[Night|notte]].”
+
+“Sembra quasi che qualcuno lo abbia chiamato,” disse il signor Pond.
+
+Il signor Luke, l’avvocato, si alzò improvvisamente dalla sua sedia e si allontanò.
+
+“Non vedo alcun senso in tutte queste tue speculazioni,” disse.
+
+# E, dopo aver eseguito un rigido saluto, prese il suo cappello e se ne andò
+
+La [[house|casa]] si muoveva con una velocità che sembrava quasi innaturale.
+
+Il giorno dopo, il signor Pond si vestì ancora in modo più convenzionale…
+
+Con maggiore attenzione del solito, iniziò a fare una serie di telefonate.
+
+#Una serie di signore: una solennità frivola che, per lui, non significava nulla
+
+Titolo:  
+La prima signora che servì fu l’onorevole Violet.
+
+Varney, che fino ad allora aveva visto soltanto da lontano…
+
+#Leggermente depressa all’idea di dover vedere da così vicino… Lei era proprio ciò che lui desiderava.
+
+Si ritiene che, in questi ultimi tempi, venga descritto come un platino.
+
+“Bionda… Senz’dubbio un grazioso ricordo del suo stesso nome.”
+
+#Il colore che le fece tingere labbra e guance…
+
+#Più viola che porpora, un effetto che i suoi amici…
+
+#Chiamata spettrale e i suoi nemici orribili… Anche da questa condizione di apatia…
+
+#Signora… riuscì ad ottenere alcune ammissioni utili per aiutare nella…
+
+Ricostruzione delle vere parole di Gahagan… anche se appartenevano alla stessa signora.
+
+Le osservazioni avevano quel solito tono di esaurirsi in un sospiro prima ancora di essere completate…
+
+Erano davvero finiti… Poi ebbe un altro incontro con lei.
+
+“Sorella Joan… e rimase meravigliata nel profondo del cuore di fronte a quella cosa strana…”
+
+La personalità umana si distingue nettamente dai modi e dalle maniere comuni. Perché…
+
+# Joan utilizzava esattamente gli stessi trucchi stilistici; lo stesso tono piuttosto elevato…
+
+Voce ben educata, le stesse frasi incomplete e lasciate a metà, ma comunque.
+
+Fortunatamente, non era lo stesso polvere viola… e per niente affatto.
+
+Gli stessi occhi, gli stessi gesti, lo stesso modo di pensare, o forse l’immortale [[Soul|'anima]]? Signor Pond, con tutto ciò.
+
+# I suoi pregiudizi antiquati gli fecero subito capire che questa ragazza era diversa dalle altre
+
+Le nuove virtù erano pur sempre virtù, indipendentemente dal fatto che fossero nuove o meno… Lei.
+
+Era davvero coraggioso, generoso e amante della [[Truth|_verità]], anche se.
+
+I giornali di società lo dicevano davvero… “È tutto a posto”, disse il signor Pond.
+
+Se stesso. “È preziosa quanto l’oro. Anzi, molto di più.”
+
+E oh, quanto è meglio del platino!
+
+Titolo:  
+Fermatosi alla prossima tappa del suo pellegrinaggio, visitò…
+
+Un enorme e assurdo albergo che ebbe l’[[Honour|onore]] di ospitare.
+
+Signorina Artemis Asa-[[smith|Smith]] del Pennsylvania. Lo accolse con.
+
+Un entusiasmo quasi travolgente che la portava ovunque con sé…
+
+Il mondo… e il signor Pond non ebbe alcuna difficoltà nel suo caso.
+
+Titolo:  
+Ottenere una confessione anche da un uomo che frequenta i club…
+
+# Non essere per caso un assassino… Anche se questa spiegazione, naturalmente…
+
+Meno personale e intimo di quell’intervista con Joan…
+
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_13" data-title="MrPond — A Tall Story (part 13)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="topos/double,archetype/hero,archetype/innocent,archetype/lover,motif/garden,motif/love,motif/memory,motif/nature,motif/stars,motif/time,motif/well,concept/friendship,concept/nature,form/tragedy,character/fred,character/olivia,character/queen"></span>
@@ -12615,6 +14762,189 @@ Gahagan, "don't you know we poor Irishes have a secret vice?  It's
 
 called Poetry; or perhaps I ought to say it's generally called
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Il fervente che mai pronunciava una parola con nessuno
+
+Artemis continuò ad guadagnarsi la sua approvazione grazie alla sua riservatezza e alle sue buone qualità.
+
+Senso e buona [[Nature|natura]]. Capì l'importanza dell’ordine.
+
+Argomenti menzionati e il loro probabile effetto sulla sua mente…
+
+Se solo la diplomazia del signor Pond fosse stata efficace… Tutti e tre.
+
+Damas, con diversi gradi di serietà o concentrazione, avevano…
+
+Hanno ascoltato la sua teoria su ciò che Gahagan aveva detto, e tutti erano d’accordo.
+
+“Che molto probabilmente avrebbe potuto dirlo… Questa parte del suo compito.”
+
+Titolo:  
+Dopo aver finito di parlare, il signor Pond fece una breve pausa… e forse anche tirò un sospiro di sollievo.
+
+Riprendere il controllo di sé stesso, prima di affrontare l’ultima sua responsabilità… che anch’essa richiedeva determinazione.
+
+#Il modo corretto per rivolgersi a una signora… Forse può essere scusato, poiché anche lui…
+
+Doveva attraversare quel cupo [[Garden|giardino]] in cui un uomo era giaceuto morto.
+
+Ucciso, in quella alta e sinistra [[house|casa]] dove sua vedova era ancora.
+
+Vivere [[Alone|da solo]]: la grande [[Olivia]], [[Queen|regina]] della [[Tragedy|tragedia]], ora tragica a causa di.
+
+Una doppia rivendicazione.
+
+# Attraversò con riluttanza quel angolo buio all’interno
+
+Il cancello, e sotto l’albero di vischio, dove il povero [[Fred]] Feversham aveva.
+
+È stato trafitto a morte da un semplice frammento di una [[Sword|_spada]]; e mentre.
+
+#Salì per il sentiero tortuoso fino alla porta d’ingresso, nel corridoio stretto e spoglio
+
+La casa in mattoni che si ergeva sopra di lui come una torre, scura contro il cielo.
+
+Le [[Stars|stelle]], lui affrontava difficoltà molto più profonde di quelle che avevano mai turbato prima.
+
+Titolo:  
+Nella questione più banale delle presunte incongruenze…
+
+# La conversazione di Gahagan: c’era una domanda vera e propria dietro tutto ciò
+
+“Sciocchezze… e richiedeva una risposta. Qualcuno aveva commesso un omicidio…”
+
+Frederick Feversham… e c’erano davvero delle ragioni concrete per tutto ciò che gli accadde.
+
+#Per far ricadere i sospetti su Gahagan… Dopotutto, lui era stato il responsabile.
+
+abituato a trascorrere intere giornate, o metà delle notti, in modo piacevole, ovviamente.
+
+Con questa attrice… nulla sembrava più terribilmente naturale.
+
+Più probabile di quanto possa sembrare… piuttosto che essere stati sorpresi.
+
+“Feversham… e aveva scelto quella via orribile per andarsene. La signora Feversham…”
+
+Spesso paragonata a Mrs. Siddons… Il suo comportamento esteriore.
+
+#Sempre piena di dignità e discrezione… Un scandalo per lei
+
+Non era un annuncio pubblicitario, come lo sarebbe stato per Violet Varney… Lei.
+
+# Aveva davvero il movente più forte dei due… ma, mio Dio, questo…
+
+Non lo farei mai! Supponiamo che Gahagan fosse davvero [[Innocent|innocente]], ma anche in quel caso.
+
+# Il prezzo da pagare… Quali che fossero le sue debolezze, era proprio l’uomo adatto per essere impiccato.
+
+“Come un gentiluomo, piuttosto che lasciare che la signora… Alzò lo sguardo e…”
+
+# Terrore crescente alla torre di mattoni scuri… chiedendosi se dovesse…
+
+#Incontra l’assassina… Poi la scagliò via con rabbia
+
+Morbilità… e tentò di nuovo di concentrarsi sui fatti. Dopotutto…
+
+# Che cosa c’era contro Gahagan o la vedova? A lui sembrava…
+
+Si costrinse a riflettere in modo più oggettivo, convincendosi che la situazione si potesse davvero risolvere.
+
+trasformarsi in una questione di [[Time|tempo]].
+
+Gahagan aveva sicuramente trascorso un sacco di [[Time|tempo]] con [[Olivia]]; quello.
+
+#L’unico segno esterno della sua passione per lei…
+
+Le prove della sua passione per Joan erano davvero molto evidenti… Il laghetto.
+
+Avrei potuto giurare che quell’irlandese fosse davvero innamorato di Joan.
+
+Si gettò su di lei; e lei, secondo gli standard accettati…
+
+La giovane moderna si gettò di nuovo tra le sue braccia… Ma questi incontri… uno dopo l’altro…
+
+Si potrebbe dire che quelle collisioni fossero brevi, ma al contempo straordinarie… Perché?
+
+Un [[Lover|amante]] pieno di tali trionfi, vorrebbe forse andarsene e trascorrere del tempo in modo simile.
+
+Molto [[Time|tempo]] trascorso con una donna molto più anziana. Questi pensieri continuavano a tormentarlo.
+
+Lo trasformò in un automa e lo fece procedere inconsciamente oltre…
+
+Servitori… e su per le scale, fino alla stanza esatta in cui si trovava lui.
+
+#Chiesto di attendere la signora Feversham. Lui, nervosamente, prese in mano un vecchio…
+
+Un libro logoro, che apparentemente risale al [[Time|tempo]] in cui l’attrice.
+
+“Una studentessa…”, poiché la dedica era scritta con una grafia tipicamente da ragazza adolescente.
+
+“[[Olivia]] Malone.” Forse fu questa grande attrice shakespeariana a dirlo.
+
+# Discendenza del grande critico shakespeariano… Ma comunque sia, lei deve…
+
+Essere irlandesi, almeno per tradizione.
+
+# Mentre si chinava su quel libro logoro nella semioscurità dell’anticamera…
+
+Nella sua mente balenò un raggio bianco di serena e completa comprensione: così.
+
+Fin dove arriva questa storia, l’ultimo dei paradossi del signor Pond… Lui.
+
+Una certezza piena e assoluta… Eppure le uniche parole in grado di esprimerla…
+
+“Si scrivevano rapidamente nella sua mente, con una velocità confondente…”
+
+La brevità di un geroglifico.
+
+L’[[Love|Amore]] non ha mai bisogno di [[Time|tempo]]. Ma l’[[Friendship|Amicizia]] ha sempre bisogno di [[Time|tempo]]. Molto di più.
+
+E più e più a lungo, fino a molto dopo mezzanotte.
+
+# Quando Gahagan fece quelle cose folli che dimostravano la sua devozione
+
+Per Joan Varney, non avevano trascorso quasi nessun [[Time|tempo]] insieme. Quando lui cadde.
+
+#Caduta da paracadute mentre usciva dalla chiesa a Bournemouth
+
+La caduta fu naturalmente molto rapida… Quando strappò il biglietto di andata e ritorno.
+
+#Costando centinaia di sterline per restare con lei ancora mezz’ora…
+
+# Samoa… solo mezz’ora in più. Quando nuotò…
+
+L’Ellesponto, nell’[[Imitation|imitazione]] di Leandro, esisteva soltanto per esattamente trenta.
+
+Cinque minuti di conversazione con [[Hero|Eroe]]. Ma l’[[Love|Amore]] è proprio così.
+
+È qualcosa che riguarda momenti importanti; sopravvive nella [[Memory|memoria]] di quei momenti.
+
+“Forse è solo un’illusione fragile… Forse, d’altra parte, è qualcosa di molto più reale.”
+
+Eterno e al di là del [[Time|tempo]]. Ma l’[[Friendship|Amicizia]] consuma il [[Time|tempo]]. Se solo.
+
+Gahagan aveva un vero rapporto di amicizia intellettuale; poi proseguiva.
+
+Parlando fino a molto dopo mezzanotte… E con chi mai Gahagan avrebbe potuto farlo?
+
+#Probabilmente lo avrà anche un’attrice irlandese che…
+
+#Interessato a Shakespeare? Mentre aveva quel pensiero, sentì…
+
+La voce ricca e leggermente irlandese di [[Olivia]] che lo accoglieva. E lui.
+
+Sapeva di avere ragione.
+
+“Non lo sai forse?”, chiese la vedova con un sorriso triste, quando lui…
+
+# Aveva guidato abilmente la conversazione lontano dai commenti di cordoglio per il Capitano
+
+"Gahagan: ‘Non sapete che noi poveri irlandesi abbiamo un vizio segreto?’"
+
+Titolo:  
+Chiamata poesia… o forse dovrei dire che generalmente viene chiamata così.
 
 
 
@@ -12805,6 +15135,196 @@ the queer story to be narrated here.
 
 His friend Gahagan, that ginger-haired giant and somewhat flippant
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Recitazione… È stata soppressa dalla polizia in tutta l’Inghilterra.
+
+I salotti. E questo è il peggiore degli errori commessi dagli irlandesi. Le persone a [[London|Londra]].
+
+Non è permesso recitarsi a vicenda delle [[Poems|poesie]] per tutta la [[Night|notte]], come fanno di solito.
+
+A Dublino… Povero Peter veniva spesso da me a parlarmi di Shakespeare…
+
+Mattina… ma alla fine ho dovuto cacciarlo via. Quando un uomo viene a far visita…
+
+Io, e provo a recitare l’intero testo di [[Romeo]] e [[Juliet|Giulietta]]; riesco a farcela.
+
+“Una battuta… Ma capite com’è andata. Gli inglesi non permettono ai poveri di…”
+
+Un compagno che potesse recitare Shakespeare.
+
+#Il signor Pond capì davvero com’era la situazione. Conosceva abbastanza gli uomini da…
+
+“Si deve sapere che un uomo ha bisogno di avere un amico, se possibile una donna amica…”
+
+“Parlare fino a quando tutto non diventa blu… Conosceva abbastanza bene i dublinesi da saperlo.”
+
+Che né diavoli né dinamite possano impedire loro di recitare
+
+# Versi. Tutti quei nuvoli neri di cupa preoccupazione riguardo all’omicidio…
+
+Coloro che lo avevano oppresso nel [[Garden|giardino]] si erano allontanati non appena avevano sentito quel suono.
+
+Il suono della voce di questa forte e bonaria donna irlandese… Ma dopo un po’…
+
+Dopo poco iniziarono a radunarsi di nuovo, anche se a distanza maggiore.
+
+Dopo tutto, come aveva detto prima, qualcuno aveva ucciso povero [[Fred]].
+
+Feversham.
+
+Era assolutamente certo ora che non era la moglie di Feversham. Era…
+
+Era praticamente certo che non fosse Gahagan. Quella [[Night|notte]] tornò a [[Home|casa]].
+
+Ripensava alla domanda ancora e ancora, ma aveva a disposizione soltanto una [[Night|notte]].
+
+#Disordini. Perché il giornale del giorno seguente riportava la notizia…
+
+Un inspiegabile [[suicide|suicidio]] del signor Luke, dell’ottima azienda Masters.
+
+# Luke e i Maestri; e il signor Pond sedeva lì, rimproverandosi dolcemente…
+
+Non aveva considerato il fatto ovvio: che un uomo che è sempre…
+
+# Distruzione e sofferenza per colpa di un truffatore
+
+Titolo:  
+Forse un giorno scoprirà di essere stato truffato proprio dalle sue stesse mani…
+
+Solicitore… Feversham aveva convocato Luke per quell’incontro a mezzanotte.
+
+Il [[Garden|giardino]], per poterglielo dire; ma il signor Luke, un uomo attento.
+
+Il suo prestigio professionale lo aveva spinto ad agire immediatamente per impedirlo.
+
+Il signor Feversham non ne parla con nessun altro.
+
+“Mi fa sentire molto male,” disse il signor Pond, in modo umile e quasi…
+
+#"Con tremore… In quell’ultima nostra riunione riuscii a vedere che lui…”
+
+Già terribilmente spaventato… E sai una cosa? Ho davvero molta paura.
+
+“Ero io ad averlo spaventato.”
+
+Titolo:  
+Quando i medici sono d’accordo
+
+I paradossi del signor Ponds erano di una sorta molto particolare… Davvero.
+
+Defezioni paradossali, persino nei confronti della legge del [[Paradox|paradosso]]. Il [[Paradox|paradosso]] è sempre stato.
+
+Definito come “la [[Truth|Verità]] che si mette a testa in giù per attirare l’attenzione”.
+
+Il [[Paradox|paradosso]] è stato difeso, sostenendo che così tante tendenze alla moda.
+
+# Illusioni che rimangono saldamente in piedi, perché non hanno fondamento reale
+
+Titolo: “Punti su cui basarsi… Ma bisogna ammettere che gli scrittori, proprio come…”
+
+Altri mendicanti e ciarlatani cercano spesso di attirare l’attenzione delle persone…
+
+Attenzione: appaiono in modo evidente, disposti in una singola fila all’interno di un’opera teatrale.
+
+# All'inizio o alla fine di un paragrafo, osservazioni di questo tipo…
+
+Buono. Proprio come scrisse il signor Bernard [[Shaw]]: “La Regola d’Oro è, ”
+
+“Non esiste una Regola d’Oro”; o come osservò Oscar Wilde: “Posso resisterle”.
+
+Tutto tranne la [[Temptation|tentazione]]; oppure uno scriba più noioso, il cui nome non verrà mai menzionato.
+
+Con questi e ora compiendo penitenza per i suoi precedenti vizi…
+
+“Un lavoro più nobile: celebrare le virtù del signor Pond”, disse in sua difesa.
+
+Titolo:  
+Dei hobby, degli amatori e di tutti quegli individui inetti come lui: “Se uno…”
+
+“Se qualcosa vale la pena fare, allora vale la pena farlo anche male… A queste cose bisogna dedicarsi.”
+
+"I writeri fall; e poi i critici dicono loro che ‘parlano troppo’."
+
+“Effetto”; e poi gli scrittori rispondono: “Che diavolo altro potrebbe esserci…”
+
+Di cosa parliamo? Della inefficacia. È una scena disgustosa.
+
+Ma il signor Pond apparteneva a un mondo più raffinato, e i suoi paradossi…
+
+Interamente diverso… Era davvero impossibile immaginare il signor Pond in quel contesto.
+
+# In piedi sulla testa… Ma era altrettanto facile immaginarlo così.
+
+In piedi sulla testa, si può immaginare che stia cercando di attirare l’attenzione.
+
+Era l’uomo più silenzioso del mondo… nonostante fosse un uomo di mondo.
+
+Un piccolo e ordinato funzionario pubblico: nulla di particolare in lui.
+
+# Tranne per una barba che non solo sembrava antiquata, ma anche…
+
+Straniero… e forse anche un po’ francese, ma era pur sempre tanto inglese quanto…
+
+“Qualsiasi uomo vivo… Ma, a dire il vero, anche la rispettabilità francese è lontana da questo…”
+
+Più rispettabile dell’inglese… E il signor Pond, sebbene in alcuni aspetti…
+
+Cosmopolita… assolutamente rispettabile. Un’altra cosa che…
+
+Un leggero accento francese si percepiva nella sua parlata: un tocco distintivo nel suo modo di esprimersi.
+
+# Monotonia inciampante che non inciampa mai su una singola vocale… Per il
+
+# I francesi portano con sé il senso dell’uguaglianza, anche nell’idea di uguaglianza tra…
+
+Sillabe… Con questo flusso regolare, pieno di chiacchiere gentili su…
+
+# Vienna: una volta stava intrattenendo una signora… e cinque minuti dopo…
+
+Tornò dai suoi amici con il viso molto pallido e loro gli sussurrarono qualcosa.
+
+Il terribile segreto: quell’uomo apparentemente mite era in realtà pazzo.
+
+La particolarità del suo modo di conversare consisteva nel fatto che, a metà di una frase…
+
+# Flusso costante di senso… e all’improvviso apparivano due o tre elementi diversi
+
+# Parole che sembravano semplicemente assurdità… Era come se qualcosa…
+
+Il funzionamento di un grammofono aveva improvvisamente iniziato ad andare storto…
+
+# Sciocchezze di cui lo stesso parlante sembrava non accorgersi nemmeno…
+
+A volte nemmeno i suoi ascoltatori si accorgevano che quel discorso fosse così naturale.
+
+Il titolo era assurdo. Ma per coloro che se ne accorsero, sembrava avere un certo senso…
+
+Titolo:  
+“Naturalmente, non avendo gambe, vinse…”
+
+"#Correre una gara a piedi è facile", oppure "Poiché non c’era nulla da bere, tutti..."
+
+“Si ubriacò all’istante.” In generale, due tipi di persone si fermarono…
+
+Lo fissavano con sguardi o gli ponevano domande: sia quelli molto stupidi che quelli molto intelligenti.
+
+La stupidità, perché soltanto l’assurdità spiccava in quel contesto.
+
+Intelligenza che li lasciava perplessi; era davvero un esempio di sé stessa.
+
+Della [[Truth|verità]] contenuta nel [[Paradox|paradosso]]. L’unica parte della sua conversazione che loro.
+
+“Quello che riuscivano a comprendere era proprio ciò che non riuscivano a capire… E il resto…”
+
+#Il cervello astuto lo fermò, perché sapevano che, dietro ognuno di questi…
+
+Contraddizioni bizzarre e inquietanti… C’era una storia davvero strana…
+
+La strana storia che verrà raccontata qui.
+
+Il suo amico Gahagan, quel gigante dai capelli rossi e piuttosto spensierato…
 
 
 
@@ -12999,6 +15519,200 @@ a rather narrow Scottish merchant of the old school.
 
 It happened that Mr. Pond himself had been present at a little
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il damerino irlandese dichiarò che Pond utilizzava frasi prive di senso.
+
+Solo per scoprire se i suoi ascoltatori lo stavano davvero ascoltando… Pond
+
+# Mai detto così; e il suo movente rimase piuttosto un mistero. Ma
+
+"Gahagan dichiarò che esiste un’intera tribù di intellettuali moderni"
+
+#Donne che non hanno imparato nulla se non l’arte di accendere…
+
+#Un volto pieno di passione e attenzione, ma i loro pensieri sono altrove…
+
+#Molto assente… quasi come se mancasse quella piccola frase che dice: “Rendendosi conto di…”
+
+“India… naturalmente visitò anche Toronto”, passerà inosservato.
+
+# Una orecchio dentro e l’altra fuori… senza disturbare la mente coltivata
+
+all’interno.
+
+# A piccola cena offerta dal vecchio Wotton a Gahagan e Pond
+
+#E altri ancora… che ci permisero di intravedere per la prima volta il vero significato di
+
+Queste strane parentesi in un discorso così tranquillo. La [[Truth|verità]] era, in realtà, che.
+
+#Che il signor Pond, nonostante la sua barba francese, fosse davvero…
+
+“English, con la sua abitudine di pensare che debba essere un po’ noioso…”
+
+#Per rispetto verso gli altri… Non gli piaceva parlare troppo a lungo e in modo prolisso.
+
+Storie fantastiche su di lui, come quelle che gli raccontava il suo amico Gahagan
+
+“Anche se a Pond piacquero molto quando Gahagan glieli raccontò… Pond”
+
+Lui stesso aveva vissuto alcune esperienze molto strane; ma poiché non ne voleva parlare…
+
+Trasformarle in storie lunghe: all’inizio erano apparse solo come racconti brevi.
+
+#E le storie brevi erano così brevissime da essere davvero…
+
+#Incomprensibile… Nel tentativo di spiegare tale eccentricità, è meglio…
+
+Per cominciare con l’esempio più semplice, come un diagramma presente in un manuale introduttivo…
+
+[[logic|logica]]. E inizierò con la [[Short Story|racconto breve]], che era nascosta.
+
+In breve, una questione che lasciò il povero vecchio Wotton completamente perplesso
+
+#Quella particolare sera… Wotton era un uomo all’antica.
+
+Diplomatico… di quel tipo che sembrava diventare sempre più “nazionalista” con il passare del tempo…
+
+#Cercando di essere internazionale… Sebbene lontano dall’essere militarista, lui…
+
+#Molto militare… Manteneva l’ordine con frasi brevi e secche.
+
+Barba grigia rigida. Aveva più mento che fronte.
+
+“Mi dicono,” stava dicendo Wotton, “che i Polacchi e i Lituani…”
+
+Hanno raggiunto un accordo su Vilnius. Si trattava di una vecchia disputa…
+
+Titolo:  
+“Corso… e immagino che fossero sei contro uno, o addirittura una dozzina contro…”
+
+“Gli altri.”
+
+“Sei davvero un vero inglese, Wotton,” disse Gahagan, “e dici…”
+
+# “Il tuo cuore… ‘Tutti questi stranieri sono uguali.’ Hai perfettamente ragione.”
+
+#Se intendi dire che siamo tutti diversi da te… Gli inglesi sono…
+
+"Il popolo pazzo della terra, che sa che tutti gli altri sono pazzi… Ma noi."
+
+A volte questi elementi possono differire leggermente tra loro, sai… Anche noi…
+
+# Irlande: terre di grandi differenze…
+
+Il Papa che denuncia i bolscevichi, o la [[French Revolution|Rivoluzione Francese]] che si manifesta.
+
+#L’Impero Romano Santo… e voi continuate ancora a chiedervi: “Cosa può…”
+
+Qual è la differenza tra Tweedledum e Tweedledee?"
+
+“Non c’era alcuna differenza,” disse Pond, “tra Tweedledum e…”
+
+# Tweedledee… Ricorderete sicuramente che è stato chiaramente registrato…
+
+Si accordarono. Ma ricorda su cosa si accordarono.
+
+Wotton sembrava un po’ perplesso e alla fine borbottò: “Beh, se, ”
+
+Questi ragazzi hanno concordato; suppongo che ora ci sarà un po’ di pace.
+
+“Cose strane, accordi…”, disse Pond. “Fortunatamente, la gente…”
+
+# Continuano a dissentire, fino a quando non muoiono in pace…
+
+“Letti… Gli uomini molto raramente riescono a raggiungere un accordo completo e definitivo. Ne conoscevo due…”
+
+Titolo:  
+Uomini che arrivarono a concordare così completamente da far sì che uno di loro, naturalmente…
+
+Uccise l’altro; ma in generale.
+
+“‘D’accordo completamente’, pensò Wotton con aria meditabonda. ‘Non credi anche tu…’”
+
+Sei davvero sicuro di non voler dire: “Dissenso completamente”?
+
+“Gahagan emise una sorta di risata sommessa. ‘Oh, no,’ disse…”
+
+Disse: “Non intende dire quello… Non so proprio cosa stia facendo”.
+
+Significa qualcosa, ma non niente di così sensato.
+
+Ma Wotton, con il suo modo ponderoso, continuava comunque a cercare di definire con precisione…
+
+Narratore verso una dichiarazione più responsabile; e il risultato di ciò fu…
+
+#Il signor Pond viene costretto, a malincuore, a spiegare cosa realmente…
+
+Voglio dire, raccontateci tutta la storia.
+
+Il mistero era inizialmente legato a un altro mistero: il comportamento strano…
+
+# L’omicidio di Mr. James Haggis di Glasgow, che scosse la Scozia
+
+“E i giornali inglesi, non molti anni fa… A prima vista…”
+
+Questa era una storia curiosa, per poi presentarne una sequela ancora più strana.
+
+# Haggis era stato un cittadino prominente e ricco, un balivo della…
+
+La [[City|città]] e un anziano della chiesa. Nessuno negava che anche in queste circostanze.
+
+Le capacità che possedeva a volte lo rendevano piuttosto impopolare; ma, per far giustizia a lui…
+
+Giustizia… Spesso era impopolare a causa della sua lealtà verso…
+
+Cause impopolari… Era quel tipo di vecchio radicale che era particolarmente rigido nelle sue posizioni.
+
+Più arretrato e obsoleto di qualsiasi conservatore; e, pur sostenendo teoricamente quella causa…
+
+Attraverso politiche di tagli e [[Reform|riforme]], riuscì a proporre che quasi qualsiasi cosa fosse possibile fare.
+
+La [[Reform|Riforma]] era troppo costosa rispetto alle esigenze del programma di tagli dei costi. Pertanto, lui.
+
+Era rimasto [[Alone|solo]] in opposizione al sostegno universale riservato all’anziano.
+
+#La meritoria campagna del dottor Campbell per combattere l’epidemia
+
+Titolo:  
+Favelle durante la crisi… Ma trarre conclusioni economiche da ciò…
+
+# Un demone che godeva nel vedere bambini poveri morire di…
+
+# Una conclusione forse esagerata… Allo stesso modo, anche lui…
+
+“Prominente nei consigli presbiteriani per il suo rifiuto di adottare qualsiasi approccio moderno”
+
+Si adattò alla [[logic|logica]] del calvinismo; ma si può dedurre che.
+
+In realtà sperava che tutti i suoi vicini fossero maledetti prima ancora di nascere.
+
+Si tratta di un'interpretazione troppo personale della teoria teologica.
+
+Dall’altra parte, bisogna ammettere che fosse onesto nei suoi affari…
+
+Fedele alla moglie e alla famiglia; tanto che c’era un generale consenso…
+
+Reazione a favore della sua [[Memory|memoria]] quando fu trovato pugnalato.
+
+#Cuore tra l’erba rada del desolato cimitero di quella piccola chiesa…
+
+# Accanto al suo luogo di culto preferito… Era impossibile…
+
+Immagina il signor Haggis coinvolto in qualche faida romantica delle Highlands…
+
+Titolo:  
+“Chiamare la daga… o qualsiasi impegno romantico interrotto…”
+
+Il pugnale… e si riteneva generalmente che chi veniva pugnalato e abbandonato a quel modo fosse spacciato.
+
+“Sepolto tra i morti sepolti… una punizione eccessiva per aver…”
+
+Un commerciante scozzese piuttosto anziano, di vecchia scuola.
+
+#Accadde che il signor Pond stesso fosse stato presente in quell’occasione…
 
 
 
@@ -13200,6 +15914,205 @@ because it is so light, so tenuous, so trivial, if you will;
 anyhow, so frail and easy to destroy.  Cutting short its life is
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Una festa in cui si svolsero intense [[debate|debattiti]] su come interpretare l’omicidio come un mistero.
+
+Il suo ospite, Lord Glenorchy, aveva l’abitudine di leggere libri su…
+
+Criminologia: la sua ospite, Lady Glenorchy, aveva un approccio meno dannoso…
+
+# Hobby di leggere quei libri molto più seri e scientifici
+
+Vengono chiamate storie di [[Detective|detective]]. Erano presenti, come nella società.
+
+I giornali dicono… Maggiore MacNabb, il Capo della Polizia, e signor Lancelot.
+
+Browne, un brillante avvocato londinese che riteneva molto più.
+
+È meglio essere un avvocato che fingere di essere un [[Detective|detektive]]; inoltre, tra.
+
+Tra i presenti c’era il rispettato e ammirato Dottor Campbell…
+
+Il lavoro tra i poveri è stato già insufficientemente lodato… e…
+
+Un giovane amico di nome Angus…
+
+# Formazione e istruzione per i suoi esami medici
+
+La sua carriera scientifica.
+
+Le persone responsabili, naturalmente, amano comportarsi in modo irresponsabile. Tutto questo.
+
+Personaggi felici di condividere teorie in privato…
+
+“Non è necessario rispondere in pubblico… Il avvocato, essendo una persona umana…”
+
+Era felice di processare qualcuno che non avrebbe dovuto impiccare.
+
+Il criminologo fu affascinato dall’analizzare la follia di quella persona.
+
+#Non avrebbe mai potuto essere dimostrato pazzo… E Lady Glenorchy era…
+
+#Incantato dall’idea di pensare al povero signor Haggis…
+
+# Una persona… come protagonista di uno shocker. Divertentissimo.
+
+Si sono fatti tentativi per incolpare la Chiesa Presbiteriana Unita dell’omicidio.
+
+Ministro… un noto sostenitore della teoria del “Sublapsarianismo”, naturalmente… anzi, inevitabilmente.
+
+#Spinto a pugnalare un Supralapsarian… Lord Glenorchy era
+
+Più serio, per non dire monotono… Avendo imparato dai suoi libri.
+
+# La grande scoperta della criminologia: quella relativa alla mente umana
+
+“E credeva che deformità fisiche e morali si trovassero soltanto tra le persone povere.”
+
+# Una congiura di comunisti locali… tutti con il pollice dalla forma strana
+
+Un orecchio, e per il proprio capriccio scelse un agitatore socialista della [[City|città]].
+
+#Il signor Angus osò dissentire: la sua scelta fu un vecchio compagno di lotta…
+
+Criminale professionista, noto per essere presente nella zona, che era stato…
+
+Quasi tutto ciò che è allarmante, tranne un agitatore socialista.
+
+#Allora fu menzionato quel punto, non senza una certa…
+
+# Rispetto per il vecchio medico dai capelli bianchi e saggio… che ormai…
+
+Dietro di lui, un’intera vita dedicata alla [[Charity|carità]] e alle buone azioni. Uno dei.
+
+#Molti modi in cui il dottor Campbell sembrava essere emerso da…
+
+Il mondo più anziano e forse più onesto era proprio quello in cui lui non solo…
+
+Parlava con un accento scozzese, ma parlava davvero scozzese. Il suo modo di esprimersi…
+
+Pertanto, verrà espresso qui con difficoltà e con[[Doubt|dubbio]].
+
+Tremando.
+
+#"Beh, sicuramente vi starete chiedendo chi abbia ucciso Jamie Haggis… E ve lo dirò."
+
+Titolo:  
+“Belli come siete all’inizio… ma non vi darò nemmeno un penny per scoprire chi ha combinato questo guaio.”
+
+Jamie Haggis. Il gin che conosco io, beh, non lo direi proprio. È una cosa diversa, sai.
+
+# Mai dimentichiamo che gli amici e i benefattori dell’umanità povera non dovrebbero essere dimenticati
+
+Chiamato e giustamente celebrato; ma come gli scalpellini che hanno costruito il nostro…
+
+La grande [[Cathedral|cattedrale]] e i grandi poeti che hanno scritto le nostre ballate.
+
+# Otterburn e Sir Patrick Spens, l’uomo che realizzò il bene
+
+Titolo:  
+L’atto di uccidere Jamie Haggis non porterà a nessun riconoscimento personale per chi lo compirà
+
+In questo mondo, è persino possibile che possa incorrere in qualche piccolo inconveniente.
+
+#Nessuna supposizione da parte mia… Solo che da tempo desidero…
+
+Cercando un uomo di tale prudenza e spirito pubblico.
+
+Seguì quel tipo di [[Silence|silenzio]] in cui le persone non sono sicure di nulla.
+
+#Se ridere o no… di fronte a un colpo di genio deliberato… ma prima che loro…
+
+“Potresti farlo, giovane Angus… che teneva lo sguardo fisso sul suo venerabile…”
+
+Il precettore aveva parlato con l’entusiasmo dello studente appassionato.
+
+“Ma non dirà mica, dottor Campbell, che l’omicidio sia giusto…”
+
+Alcuni atti o opinioni dell’uomo assassinato sono sbagliati?
+
+“Sì, se sono abbastanza sbagliati…”, rispose il benevolo dottor Campbell.
+
+Dolcemente. “Dopotutto, non abbiamo alcun altro modo per verificare ciò che è giusto e ciò che è sbagliato.”
+
+“La salute del popolo è la legge suprema.”
+
+“Non sono forse i Dieci Comandamenti una sorta di prova?”, chiese il giovane uomo.
+
+Con un’espressione piuttosto accesa, accentuata dai suoi capelli rossi, quel…
+
+Si alzò in piedi sulla testa, come fiamme rigide.
+
+#Il santo dai capelli d’argento della sociologia continuava a guardarlo con…
+
+Un sorriso del tutto benevolo… ma nei suoi occhi c’era un bagliore strano.
+
+Titolo:  
+Rispose:
+
+“Aye, i Dieci Comandamenti sono una prova… Noi medici siamo altrettanto sotto esame.”
+
+Iniziò a svolgere un test di intelligenza.
+
+Se si trattasse di un incidente, o se le intuizioni della signora…
+
+# Glenorchy era un po’ allarmato dalla gravità dell’argomento.
+
+Fu in questo momento che intervenne lei.
+
+“Beh”, se il dottor Campbell non vuole pronunciarlo per noi, immagino che dobbiamo farlo da soli.
+
+Tutti rimangano alle proprie supposizioni… Non so se vi piaccia…
+
+Cigarette durante la cena… una moda a cui non riesco ad abituarmi.
+
+“Per me stesso.”
+
+A questo punto della sua narrazione, il signor Pond si abbandonò di nuovo alle sue riflessioni…
+
+#Sedia con un movimento più impaziente del solito
+
+Se stesso.
+
+“Certo che lo faranno,” disse lui, con un tono leggermente aggressivo.
+
+“Vengono ammirati e ritenuti molto abili nel farlo.”
+
+“Quando chi fa cosa?”, disse Wotton. “Di cosa diavolo stai parlando?”
+
+“Più o meno adesso?”
+
+“Sto parlando delle hostess,” disse Pond, con un tono di [[Pain|dolore]].
+
+#"Hostess eccezionali… davvero di successo. Loro sanno come farsi notare."
+
+Conversazione, sulla base della teoria secondo cui può essere interrotta in qualsiasi momento.
+
+Proprio come è considerata una vera signora di casa quella che prepara due…
+
+# Le persone parlano quando lo odiano, e si dividono quando…
+
+Inizio ad apprezzarlo… Ma a volte fanno le cose più pericolose e…
+
+Danni terribili… Vedi, interrompono le conversazioni che non valgono la pena di essere portate avanti.
+
+Ricominciare daccapo. E questo è orribile, quasi come un omicidio.
+
+#"Ma se la conversazione non vale la pena di essere ripresa, allora perché..."
+
+“È terribile doverlo fermare…”, chiese il coscienzioso Wotton, ancora…
+
+Con grande sforzo, lo inseguì.
+
+“Ecco perché è terribile cercare di fermarlo,” rispose Pond, quasi…
+
+“Parlare dovrebbe essere qualcosa di sacro… Una persona così gentile, eppure risponde in modo così brusco.”
+
+# Perché è così leggero, così tenue, così insignificante, se vuoi…
+
+“Comunque… così fragile e facile da distruggere. Interrompere la sua vita…”
+
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_17" data-title="MrPond — A Tall Story (part 17)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/detective,motif/garden,motif/love,motif/memory,motif/rose,motif/time,concept/fear,concept/honour,form/riddle"></span>
@@ -13393,6 +16306,198 @@ of all the trackless and aimless and rambling human statements I
 
 have ever heard, the most rambling was the narrative we have just
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Peggio del omicidio: è un assassinio di innocenti. È come uccidere un bambino.
+
+“Qualcosa che cerca disperatamente di tornare in vita… Ma non potrà mai essere realmente riportato in vita.”
+
+Anche se una [[Rose|rosa]] risorge dalla morte. Una bella conversazione leggera, invece, non può mai.
+
+“Rimettere insieme i pezzi quando sono stati distrutti… perché non è possibile.”
+
+“Raccogliere tutti i pezzi… Ricordo un discorso meraviglioso tenuto da Trefusis.”
+
+Titolo:  
+Un luogo… tutto iniziò perché si udì il rombo di un tuono sopra quel posto.
+
+Una [[house|casa]] e un gatto ulularono nel [[Garden|giardino]]; qualcuno, inoltre, fece qualcosa di piuttosto.
+
+# Una barzelletta grossolana su una catastrofe… E poi c’era Gahagan qui…
+
+# Una teoria deliziosamente perfetta… nata direttamente dalle gatti
+
+Catastrofi e tutto il resto… e avrebbe iniziato un discorso meraviglioso.
+
+Riguardo a una questione politica nel Continente.
+
+“La questione catalana, immagino,” disse Gahagan ridendo, “ma…”
+
+Ho completamente dimenticato quella mia adorabile teoria.
+
+“Ecco esattamente quello che dico io,” disse Pond, con aria cupa. “Non poteva essere altrimenti.”
+
+#È stato avviato allora… Avrebbe dovuto essere considerato sacro, ma non lo è stato.
+
+“Vale la pena ricominciare… La padrona di casa ci ha fatto dimenticare tutto.”
+
+E poi ebbe anche la faccia tosta di dire dopo che potevamo parlarne…
+
+In un altro [[Time|momento]]. Potremmo? Potremmo stipulare un contratto con.
+
+Una nuvola minacciosa si stava avvicinando al tetto; legarono un gatto nel [[Garden|giardino]].
+
+“E tirare la coda nel momento giusto, per dare a Gahagan esattamente quanto basta…”
+
+#Champagne per ispirarlo con una teoria così assurda da fargli dimenticare tutto
+
+Già adesso? Quell’[[debate|debatto]], una volta iniziato, aveva solo quella possibilità, o niente affatto.
+
+Eppure, anche la sospensione di tale pratica portò a risultati sufficientemente negativi. Ma…
+
+Come si suol dire, quella è un'altra storia.
+
+“Dovete raccontarcelo un’altra volta,” disse Gahagan. “Adesso io, ”
+
+# Ancora curioso riguardo all’uomo che ha ucciso un altro uomo solo perché…
+
+“Concordavo con lui.”
+
+“Sì,” concordò Wotton, “abbiamo un po’ deviato dal tema principale.”
+
+“Non è vero?”
+
+“Così disse la signora Trefusis…”, mormorò tristemente il signor Pond. “Suppongo che…”
+
+Non tutti possono comprendere la sacralità di una conversazione davvero inutile… Ma se…
+
+#Sei davvero interessato all’altra questione… non mi dispiace dirtelo.
+
+Tutti ne parlano; anche se preferirei non dirvi esattamente come ci sono arrivato.
+
+“Per saperne tutto… Era una questione piuttosto riservata… Cosa?”
+
+“Lo chiamano una confessione… Perdonate questo mio piccolo digresso su questioni di tatto.”
+
+“Hostess… C’entrava qualcosa con ciò che è successo dopo, e io ho…”
+
+Motivo per cui viene menzionato.
+
+#"Lady Glenorchy cambiò abbastanza tranquillamente argomento, passando dal delitto a..."
+
+Cigarette… e la prima sensazione che tutti ebbero fu che eravamo nei guai.
+
+A seguito di una piccola e molto divertente discussione sui Dieci Comandamenti.
+
+# Una banalità… troppo leggera e effimera per tornare mai nella nostra mente
+
+Un’altra volta. Ma c’era un altro piccolo dettaglio che continuava a tornarmi in mente.
+
+#Più tardi… e mantenni la mia attenzione su un omicidio di cui avrei potuto…
+
+Non ci avevo pensato abbastanza in quel momento, come dice De Quincey. Io.
+
+Una volta, cercando informazioni su Glenorchy nel “Who’s Who”, ho letto qualcosa al riguardo…
+
+#Si era sposato con la figlia di un ricchissimo signore della zona di Lowestoft
+
+nello Suffolk."
+
+“Lowestoft, Suffolk… Sono indizi oscuri,” disse Gahagan. “Davvero…”
+
+Questi elementi, di per sé, non fanno forse riferimento a qualche fatto terribile e sospetto?
+
+“Indicano”, disse Pond, “il terribile fatto che Lady Glenorchy sia…”
+
+Non scozzese… Se avesse presentato quelle sigarette a suo padre…
+
+#Tavola da pranzo nel Suffolk… Così banali cose come i Dieci Comandamenti…
+
+È stato immediatamente dimenticato dalla mente e dalla memoria di tutti.
+
+Ma sapevo di essere in Scozia e che quella storia era appena iniziata…
+
+Iniziato… Vi ho detto che quel vecchio Campbell stava dando lezioni o fornendo consigli.
+
+Il giovane Angus ricevette la sua laurea in medicina. Fu un grande [[Honour|'onore]] per lui.
+
+Un ragazzo come Angus avrebbe voluto che Campbell fosse il suo allenatore… Ma sicuramente non è andata così.
+
+“Piuttosto gradevole, anche per un’autorità come Campbell, avere Angus…”
+
+Per uno studente… Poiché era sempre stato estremamente diligente e…
+
+Alunno ambizioso e intelligente… uno che probabilmente riuscirà nel suo intento.
+
+Crediti. E dopo il [[Time|tempo]] di cui parlo, sembrò crescere ancora di più.
+
+Più industrioso e ambizioso che mai… Di fatto, si chiuse in se stesso.
+
+So esclusivamente dal suo allenatore che ha fallito nell'esame.
+
+Fu proprio questo a convincermi per la prima volta che la mia ipotesi era giusta.
+
+“E molto chiaro anche,” disse Gahagan con un sorriso. “L’ha fatto davvero bene…”
+
+#Se la prese troppo con l’insegnante per aver fallito l’esame… Un altro caso simile
+
+Una dichiarazione che, a alcuni potrebbe sembrare necessitare di ulteriori spiegazioni.
+
+“È molto semplice, davvero,” disse innocentemente il signor Pond. “Ma…”
+
+Per espanderlo, dobbiamo tornare per un momento al mistero di…
+
+L'omicidio di Mr. Haggis. Aveva già iniziato a diffondersi come una sorta di storia [[Detective|detektivistica]].
+
+Febbre nel quartiere. Perché tutti gli scozzesi amano discutere, e molto.
+
+Davvero era un [[Riddle|enigma]] piuttosto affascinante. Un aspetto molto importante.
+
+Titolo:  
+Il mistero era la ferita… che all’inizio sembrava essere stata causata da…
+
+Un tipo di pugnale o coltello, che in seguito fu ritrovato dagli esperti.
+
+chiedere uno strumento di forma piuttosto particolare.
+
+Inoltre, nella zona era stata effettuata un’ispezione accurata alla ricerca di coltelli e pugnali; e…
+
+# Sospetto temporaneo nei confronti di giovani selvaggi provenienti da oltre…
+
+#Linea delle Highlands: chi potrebbe ancora conservare una tenerezza storica per essa?
+
+# Possesso di pugnali. Tutti gli esperti medici concordavano sul fatto che…
+
+L'arma in questione era qualcosa di più sottile di una daga, anche se non…
+
+Le autorità mediche sarebbero disposte anche solo a tentare di indovinare di cosa si trattasse.
+
+La gente saccheggiava costantemente il cimitero e la chiesa…
+
+La ricerca di indizi. Proprio in questo [[Time|momento]], il giovane Angus, che aveva.
+
+# Un fedele sostenitore di questa chiesa in particolare…
+
+# Una volta indusse il suo vecchio tutore e amico ad ascoltare le prediche del suo pastore
+
+Un servizio serale… improvvisamente smise di andarci; infatti, se ne andò.
+
+Non andavo affatto in chiesa. Così mi resi conto che… ero ancora lì.
+
+La strada giusta.
+
+“Oh,” disse Wotton in tono vuoto, “quindi ti sei reso conto che eri ancora lì…”
+
+La strada giusta.
+
+“Non mi ero reso conto che stessi seguendo qualche pista,” disse.
+
+"Gahagan. A dire la verità, mio caro Pond, devo ammettere che..."
+
+Di tutte le affermazioni umane senza direzione, prive di scopo e disordinate…
+
+#La narrazione più disordinata che abbiate mai sentito…
 
 
 
@@ -13593,6 +16698,205 @@ stick to their point.  Angus also was stubborn, and as I have
 
 already said, he was a devout worshipper in the same dingy kirk as
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#È stato un vero privilegio ricevere vostre notizie. Prima di tutto, ci avete detto che…
+
+Gli scozzesi iniziarono una conversazione sulla [[morality|moralità]] dell’omicidio.
+
+Non l’hai mai finito; poi inizi a lanciare accuse contro la società.
+
+Hostess… e poi si rivela il terribile fatto che una di loro era…
+
+#Da Lowestoft… poi ti rivolgi a uno di quegli scozzesi e gli dici…
+
+Non riuscì a superare l’esame perché si impegnava troppo nello studio…
+
+# Tutor… e poi, per un momento, si sofferma sulla forma particolare di…
+
+#"Pugnale ancora sconosciuto… ci dite che lo scozzese se n’è andato?"
+
+“Andare in chiesa… significa essere sulla strada giusta. Onestamente, se lo fai…”
+
+# Trovo davvero qualcosa di sacro nelle conversazioni inutili… Dovrei…
+
+Diciamo che eri sulla pista giusta, va bene.
+
+“Lo so,” disse pazientemente il signor Pond, “tutto ciò che ho detto è davvero pertinente.”
+
+“A cosa è realmente accaduto… Ma ovviamente tu non sai cosa sia davvero successo.”
+
+“Accadde… Una storia sembra sempre disordinata e inutile se…”
+
+Omettere ciò che è realmente accaduto. Ecco perché i giornali sono così noiosi.
+
+#Tutte le notizie politiche, e molte delle notizie “gentili”… anche se piuttosto…
+
+#Più elevato nel tono rispetto all’altro, diventa davvero confuso e…
+
+#Inutile per la necessità di raccontare storie senza davvero raccontarle
+
+“Storia.”
+
+“Beh,” disse Gahagan, “allora proviamo a capire qualcosa di più.”
+
+Tutta questa sciocchezza, che non ha nemmeno le scuse delle notizie dei giornali…
+
+Nonsensico… Per prendere uno dei tuoi commenti assurdi come esempio, perché…
+
+Titolo:  
+Si dice che Angus non abbia superato l’esame perché ha lavorato troppo…
+
+“Il suo allenatore?”
+
+“Perché non collaborava con il suo allenatore,” rispose Pond. “Perché io…”
+
+Non ho detto che lavorasse con il suo allenatore… Almeno, non l’ho detto esplicitamente.
+
+“Ho detto che era con il suo allenatore.”
+
+Trascorse giorni e notti con il suo allenatore… ma non stavano preparandosi per nulla.
+
+Per qualsiasi esame.
+
+“Beh, cosa stavano facendo?” chiese Wotton in tono brusco.
+
+“Continuavano a discutere,” gridò Pond, con una voce stridula.
+
+Era quasi un grido acuto. “Quasi non si fermavano per [[Sleep|)dormire]] o mangiare; ma, ”
+
+# continuarono la discussione; la discussione fu interrotta…
+
+#Tavola da pranzo… Non hai mai conosciuto degli scozzesi? Pensi davvero…
+
+# Una donna del Suffolk con un pugno di sigarette… e qualcos’altro
+
+#"Una battuta insignificante può impedire a due scozzesi di continuare..."
+
+#Un argomento che è stato appena iniziato… E loro l’hanno ripreso subito.
+
+#Si stavano mettendo cappelli e cappotti; erano impegnati in questo con grande zelo.
+
+Come uscirono dal cancello… e solo un poeta scozzese potrebbe descriverlo.
+
+Cosa fecero allora:
+
+E poi, tutti tornarono a casa insieme agli altri…
+
+Il contribuente tornò a casa con gli altri.
+
+#E per ore, settimane e mesi non deviarono mai dal loro percorso…
+
+Lo stesso interminabile [[debate|debatto]] sulla tesi originariamente proposta dal Dottor.
+
+Campbell: Quando un uomo buono è davvero convinto che.
+
+L’uomo malvagio nuoce attivamente alla comunità, compiendo atti malvagi su di essa.
+
+#"Un fenomeno su larga scala che non può essere controllato né dalla legge né da alcun altro mezzo."
+
+Un buon uomo ha il diritto morale di uccidere un cattivo uomo, e solo in questo modo…
+
+Aumenta la propria bontà.
+
+“Pond rimase in silenzio per un momento, tirandosi la barba e fissando il tavolo.”
+
+#Poi ricominciò…
+
+“Per ragioni che ho già menzionato ma non spiegato…”
+
+“Ecco qual è il problema con te, ragazzo mio,” disse Gahagan in tono affabile.
+
+#"Ci sono sempre un maledetto sacco di cose di cui hai parlato..."
+
+ma non viene spiegato.
+
+“Per quelle ragioni,” proseguì Pond con calma, “so per caso che…”
+
+# Molto si può dire sulle fasi di quel comportamento ostinato e coercitivo
+
+Una controversia di cui nessun altro sapeva nulla.
+
+Angus era un vero cercatore di [[Truth|.verità]], desideroso di soddisfare le esigenze della propria [[Soul|'anima]].
+
+Non solo per farsi un nome… E Campbell era davvero un grande uomo.
+
+#Convinere un allievo con la stessa determinazione con cui si convince una folla
+
+In una aula di lezione… Ma non intendo parlarvi di quelle cose.
+
+Non è necessario descrivere in dettaglio tutte le fasi della controversia. Per dire la [[Truth|verità]].
+
+#Non sono affatto imparziale in questa controversia…
+
+# L’uomo può formarsi qualsiasi convinzione e rimanere ciò che si definisce imparziale
+
+Qualsiasi controversia riguardo a questo argomento è qualcosa che non ho mai davvero capito… Ma io…
+
+Supponiamo che dicessero che non sono in grado di descrivere in modo imparziale quella [[debate|debatte]];
+
+Perché la parte per cui provavo simpatia non è stata quella che ha vinto.
+
+#"Hostess di società, soprattutto quelle provenienti dalle vicinanze di Lowestoft..."
+
+Non so verso dove si stia orientando un argomento… Non solo lo abbandoneranno, ma…
+
+Mattoni, ma in realtà bombe. E poi si aspetta che non esplodano.
+
+Comunque, sapevo dove sarebbe finita quella discussione al tavolo di Glenorchy…
+
+"Tendendo… Quando Angus mise alla prova i Dieci Comandamenti…"
+
+Campbell disse che si trattava di un test di intelligenza… Io sapevo già cosa sarebbe successo.
+
+Titolo:  
+“Come dopo… Tra un minuto, dirà che nessuno…”
+
+Oggi l’intelligenza si interroga sui Dieci Comandamenti.
+
+Titolo:  
+“Che travestimento c’è nei capelli innevati e nella postura affettuosa di un padre…”
+
+# Età… Da qualche parte, Dickens descrive un patriarca che non aveva bisogno di alcuna virtù.
+
+“Tranne per i suoi capelli bianchi… Mentre il dottor Campbell sorrideva dall’altra parte del tavolo…”
+
+#Angus: nella maggior parte dei casi, quel sorriso veniva visto soltanto come un esempio di autorità patriarcale…
+
+La gentilezza dei genitori. Ma per caso notai anche un luccichio negli occhi di quel bambino.
+
+Il titolo mi diceva che quell’uomo anziano era altrettanto combattivo quanto…
+
+Il ragazzo dai capelli rossi che lo aveva sfidato in modo avventato… In qualche modo strano…
+
+Infatti, all’improvviso sembrò che la vecchiaia stessa fosse soltanto una mascherata.
+
+“I capelli bianchi erano diventati una parrucca bianca… il trucco di cipria…”
+
+Secolo XVIII… e il volto sorridente che si nascondeva sotto di esso era proprio quel volto.
+
+di Voltaire.
+
+#Il dottor Andrew Glenlyon Campbell era davvero un filantropo; lo stesso valeva per…
+
+# Voltaire: Non è sempre certo che la filantropia significhi…
+
+L’amore degli uomini, o verso l’uomo, o verso l’umanità. C’è una differenza. Io.
+
+Credo che per lui l’individuo avesse meno importanza del pubblico.
+
+#La corsa; da qui senza dubbio la sua gentile eccentricità nel difendere…
+
+# Atto di esecuzione privata. Comunque sia, sapevo che faceva parte di loro…
+
+#La schiera scettica degli scozzesi, da Hume a Ross…
+
+Robertson… E, qualunque cosa siano, sono testardi.
+
+#Tenere ferma la propria posizione. Anche Angus era testardo, proprio come me…
+
+Come già detto, era un devoto fedele della stessa chiesa squallida…
 
 
 
@@ -13796,6 +17100,207 @@ pretend to believe in salvation by good works, any more than you
 pretended to believe in the Ten Commandments.  He was good to
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Il defunto James Haggis: ovvero, uno degli estremi e irrimediabilmente incompatibili…
+
+I settari del Puritanesimo del diciassettesimo secolo. E così via.
+
+L’ateo scozzese e il calvinista scozzese discutevano senza sosta…
+
+Si discuteva senza sosta, fino a quando le razze più gentili avrebbero potuto aspettarsi che smettessero.
+
+#"Morto di stanchezza… Ma la questione non riguardava alcun disaccordo tra loro."
+
+Morirono.
+
+Ma il vantaggio era dalla parte dell’uomo più anziano e più istruito…
+
+Attacco… e devi ricordare che quell’uomo più giovane aveva soltanto…
+
+Una versione piuttosto ristretta e provinciale della dottrina da difendere… Come io.
+
+#Non vi annoierò con le argomentazioni; devo ammettere che siano piuttosto…
+
+Mi annoia… Senz’altro il dottor Campbell ha parlato dei Dieci Comandamenti.
+
+Titolo:  
+Non poteva avere origine divina, perché due di esse vengono menzionate…
+
+L’imperatore virtuoso Fu Chi, durante la seconda dinastia… o uno di loro
+
+Il titolo è parafrasato da Sinisio di Samotracia e attribuito a un’opera perduta.
+
+Il codice di Licurgo.
+
+“Chi era Senesio di Samotracia?”, chiese Gahagan, con un…
+
+Un'improvvisa e fervente curiosità si manifestò in lui.
+
+#"Fu un personaggio mitico dell’Età Minoica, scoperto per la prima volta in..."
+
+“Il ventesimo secolo d.C.” rispose Pond con calma. “L’ho creato io.”
+
+L’ho appena menzionato; ma capisci cosa intendo… quel tipo di cose, insomma.
+
+La natura mitica del Monte Sinai fu dimostrata attraverso il mito parallelo.
+
+L’arca riposava sul Monte Ararat… e quella montagna che non voleva sottomettersi.
+
+“Come a Mahomet… Ma tutta questa critica testuale, in realtà, ha un impatto reale…”
+
+#Religione fondata unicamente sui testi… Conoscevo già come sarebbe andata quella battaglia.
+
+# E io sapevo quando finì… Sapevo esattamente il momento in cui Robert Angus smise di raccontare.
+
+Andare in chiesa il giorno del Sabato.
+
+La fine della [[debate|debatte]] può essere descritta in modo più diretto; infatti.
+
+Infatti, il signor Pond lo ha descritto lui stesso con un modo piuttosto strano…
+
+Direttitudine… quasi come se fosse stato lì, in modo inspiegabile, o come se avesse realmente partecipato all’evento.
+
+“L’ho visto in una visione… Comunque, sembra che il reparto operatorio…”
+
+Il luogo in cui si svolgeva la fase finale era una delle scuole di medicina…
+
+Disaccordo e accordo… Erano tornati lì molto tardi quella notte.
+
+Di [[Night|notte]], quando le scuole erano chiuse e il teatro deserto.
+
+#Perché Angus pensava di aver lasciato alcuni dei suoi strumenti lì
+
+“Che sarebbe stato più ordinato e appropriato chiuderlo a chiave… Non c’era però.”
+
+“Un suono che riecheggia in quel luogo vuoto… ma è solo l’eco dei loro stessi passi.”
+
+#Pochissima luce, tranne un debole bagliore lunare che filtrava attraverso…
+
+#Fessure tra le finestre oscurate. Angus aveva recuperato il suo…
+
+# Strumento operativo… e si voltò di nuovo verso le ripide scale…
+
+“Si è inerpicato tra le file semicircolari di sedie, quando Campbell ha detto…”
+
+Glielo disse con noncuranza.
+
+“Troverete i fatti che ho menzionato riguardo ai canti aztechi nel–”
+
+# Angus gettò lo strumento sul tavolo, come se stesse gettando via qualcosa che non gli serviva più.
+
+La [[Sword|spada]], e con un atteggiamento nuovo e cambiato, si rivolse contro il suo compagno.
+
+Di sincerità e definitività.
+
+“Non c’è bisogno di preoccuparsi più degli inni; posso benissimo dirtelo.”
+
+# Quello che ho fatto con loro… Tu sei troppo forte per me… o forse…
+
+Anzi, la [[Truth|_verità]] è troppo forte per me. Ho difeso soltanto le mie convinzioni personali.
+
+Un vero e proprio [[nightmare|incubo]] in quella notte; ma tu mi hai svegliato proprio ora.
+
+Ultimo… Hai ragione, devi avere ragione; non vedo alcuna via d’uscita…
+
+it."
+
+Dopo un [[Silence|silenzio]], Campbell rispose molto dolcemente: “Non lo farò.”
+
+Scuse per aver lottato per la [[Truth|_verità]]; ma, davvero, avete fatto un casino terribile.
+
+Una bella lotta per la menzogna.
+
+Sembrava davvero possibile che quel vecchio blasfemo non avesse mai parlato.
+
+Sul tema, con un tono così delicato e rispettoso… sembrava.
+
+È strano che il suo nuovo [[convert|convertito]] non abbia risposto a quell’appello.
+
+Alzando lo sguardo, Campbell vide che l'attenzione del suo nuovo [[convert|convertito]] era stata attirata da qualcos'altro.
+
+# Bruscamente estratto dal contesto; stava lì in piedi a fissare quell’oggetto…
+
+#La sua mano: un coltello chirurgico realizzato secondo uno schema particolare, per scopi speciali
+
+Finalmente, disse con una voce rauca e quasi inudibile: “Scopi…”.
+
+“Un coltello di forma insolita.”
+
+“Leggete il rapporto dell’inchiesta su Jamie Haggis,” disse l’uomo anziano, annuendo.
+
+"Benevolmente. ‘Sì, avete indovinato giusto, penso.’ Poi…”
+
+Dopo una pausa, aggiunse con la stessa calma:
+
+#"No, ora che siamo d’accordo e tutti concordi sull’importanza di questo..."
+
+La “chirurgia sociale”, beh, dovreste conoscere la vera [[Truth|verità]] su di essa. Sì.
+
+“Ragazzo, l’ho fatto da solo… e con una lama come quella lì. Quella notte…”
+
+Mi portò in chiesa, beh, spero sia la prima volta che lo faccio.
+
+# Mai essere ipocriti… ma io sono rimasto lì a pregare, e penso che anche voi avreste dovuto farlo.
+
+Speranze della mia conversione… Ma pregavo perché anche Jamie pregava; e
+
+Quando finì le sue preghiere, lo seguii e lo uccisi lì.
+
+Il cimitero.
+
+Angus continuava a fissare il coltello in [[Silence|silenzio]]; poi disse.
+
+All'improvviso: “Perché l’hai ucciso?”
+
+“Non c’è bisogno di chiedere, siamo d’accordo sulla filosofia morale,” rispose il.
+
+# Vecchio dottore semplicemente… “Era solo una normale operazione chirurgica. Quando sacrificiamo qualcosa…”
+
+Un dito per salvare il [[Body|-corpo]]; quindi dobbiamo sacrificare un uomo per salvarlo.
+
+Un corpo politico. L’ho ucciso perché commetteva il male, e.
+
+#Un piano che impediva in modo disumano ciò che era destinato all’umanità: il complotto
+
+Titolo:  
+Favelas e lava… E capisco che, riflettendoci bene, si possa arrivare a questa conclusione.
+
+Lo stesso punto di vista.
+
+Angus annuì con espressione cupa.
+
+Il proverbio chiede: “Chi deciderà quando i medici sono in disaccordo?” Ma…
+
+In quel teatro oscuro e minaccioso della pratica medica, i medici stessi concordarono.
+
+“Sì,” disse Angus, “condivido completamente questa opinione. Inoltre, ho avuto…”
+
+“Stessa esperienza.”
+
+“E cos’è?” chiese l’altro.
+
+#"Ho avuto rapporti quotidiani con un uomo che pensavo non facesse nulla"...
+
+“Ma è malvagio,” rispose Angus. “Penso ancora che tu stessi facendo del male.”
+
+Anche se stavi diffondendo la [[Truth|_verità]], sei riuscito a convincermi che la mia.
+
+Le credenze erano solo sogni, ma non significa che sognare sia peggio che svegliarsi.
+
+Hai distrutto brutalmente i [[Dreams|sogni]] delle persone umili, hai deriso i deboli.
+
+Speranze dei dolenti… Mi sembri crudele e disumano, proprio come…
+
+“Per te, Haggis sembrava crudele e inumano… Sei davvero un uomo buono.”
+
+#Un codice proprio, ma anche Haggis era un uomo buono secondo il suo codice… Lui non faceva…
+
+Titolo:  
+Fingi di credere nella salvezza attraverso le buone azioni, proprio come fai con tutto il resto…
+
+# fingeva di credere nei Dieci Comandamenti… Era buono con tutti.
+
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_20" data-title="MrPond — A Tall Story (part 20)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/fool,archetype/monster,motif/chalk,motif/city,motif/death,motif/moon,motif/night,motif/rose,motif/summer,motif/time,concept/doubt,concept/madness,concept/truth,concept/wonder,character/hamlet,character/polonius"></span>
@@ -13991,6 +17496,203 @@ red [[chalk]] point towards the other.  It looked like a mild conjuring
 
 trick, until he twiddled it so as to show it was one of those
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli individui forse se la cavano meglio, ma la folla soffre… Tu sei gentile con la folla.
+
+“Un individuo ha sofferto… Ma, dopotutto, anche tu non sei altro che…”
+
+“Individuale.”
+
+Qualcosa nelle ultime parole, pronunciate molto dolcemente, fece sì che…
+
+# Il vecchio dottore si irrigidisce all’improvviso e poi inizia a muoversi all’indietro verso…
+
+# Dietro di lui… Angus balzò come un gatto selvaggio e lo immobilizzò.
+
+Titolo:  
+Un luogo di violenza soffocante; ancora parlano, ma ora con voce stridula…
+
+La sua voce.
+
+#"Giorno dopo giorno, ho provato un desiderio ardente di ucciderti… e continuo a sentirlo."
+
+Bloccato soltanto dalla superstizione che questa notte hai distrutto… Il Giorno
+
+Durante il giorno, hai continuato a superare quelle remore che soltanto tu avevi.
+
+Ti ha protetto dalla [[Death|morte]]. Tu, saggio pensatore; tu, attento ragionatore.
+
+[[Fool|idiota]]! Sarebbe meglio per te se io ancora credessi in, di [[Night|notte]].
+
+Dio e il suo comandamento contro l’omicidio.
+
+L’uomo anziano si contorceva senza parole nella morsa soffocante, ma…
+
+“Troppo debole… E Angus lo scagliò con forza attraverso l’ambiente operatorio…”
+
+# Sul tavolo, giaceva come se stesse per svenire… Intorno a lui e sopra di lui…
+
+# Strati vuoti di sedili concentrici brillavano nella luce fioca e gelida
+
+Una luce lunare desolata, come quella del Colosseo sotto la luna; un luogo abbandonato.
+
+# Anfiteatro dove non risuonava alcuna voce umana che gridasse “Habet!”
+
+Il guerriero dai capelli rossi stava lì, con il coltello sollevato… strano davvero.
+
+#Forma come il coltello di pietra di qualche sacrificio preistorico; e ancora…
+
+Continuò a parlare con quelle voci acute tipiche della [[Madness|pazzia]].
+
+C’era una sola cosa che ti proteggesse e mantenesse la pace tra di noi: quella.
+
+Non siamo più d’accordo… Ora invece sì, ora pensiamo allo stesso modo.
+
+“Davvero, posso comportarmi come faresti tu… Posso agire esattamente come hai fatto tu. Noi siamo…”
+
+In pace.
+
+E con il suono di quella parola colpì… e Andrew Campbell
+
+Si mosse per l’ultima volta. Nel suo stesso freddo tempio, su di sé.
+
+Altare senza Dio… Lui si mosse, poi rimase immobile; e il assassino…
+
+Si piegò in due e fuggì dall’edificio, dalla [[City|città]], e oltre.
+
+La linea Highland, di notte, per nascondersi tra le colline.
+
+Quando Pond raccontò questa storia, Gahagan si alzò lentamente, con la sua imponente statura.
+
+“Alto e con un gesto deciso spense il suo sigaro nell’ascensore: ‘Sospetto qualcosa di losco…’”
+
+“Pond,” disse, “non sei affatto così irrilevante come sembri.”
+
+Non del tutto irrilevante, intendo dire… anche per la nostra conversazione iniziale.
+
+“Affari europei.”
+
+“Tweedledum e Tweedledee decisero di combattere,” disse Pond.
+
+Titolo:  
+“Ci accontentiamo facilmente di affermare che a alcune persone piace…”
+
+“I polacchi, i prussiani o altri stranieri hanno concordato… Ma noi non lo facciamo spesso.”
+
+Chiedi su cosa siano concordati… Ma un accordo può rivelarsi piuttosto rischioso.
+
+A meno che non si tratti di un accordo con la [[Truth|_verità]].
+
+Wotton lo guardò con un sospetto ardente; ma alla fine…
+
+Decise, con un sospiro di sollievo, che si trattava soltanto di metafisica.
+
+#Pond il pantalone
+
+“No, no, no,” disse il signor Pond, con una dolce stridulenza nella voce…
+
+A volte si manifestava quando sorgeva qualche [[Doubt|dubbio]] riguardo alla banalità di quella situazione.
+
+La precisione delle sue affermazioni o argomentazioni… “Non ho detto che fosse…”
+
+“La matita rossa… ed è per questo che lasciava tracce così scure. L’ho detto.”
+
+# Era relativamente simile a una matita rossa, o almeno ne assomigliava.
+
+Con la visione di Wotton che lo considerava una matita blu… E così fu.
+
+#Perché ha lasciato tracce così scure… La differenza potrebbe sembrare minima
+
+“Uno… ma vi assicuro che da questo derivano gli errori più enormi.”
+
+# Abitudine di estrarre un commento dal suo contesto per poi riprodurlo in modo distorto
+
+Non del tutto correttamente… Le verità più ordinarie e ovvie, quando vengono considerate in modo superficiale…
+
+Se presentato in quel modo, può sembrare quasi assurdo.
+
+“Quasi,” disse il Capitano Gahagan, annuendo seriamente e fissando…
+
+Quel piccolo uomo davanti a lui, quasi come se fosse un misterioso [[Monster|mostro]].
+
+In un carro armato.
+
+#Il signor Pond era nel suo ufficio privato, all’interno di un alveare…
+
+Uffici del [[government|Governo]], dove le persone sedevano alle scrivanie impegnate nel loro lavoro.
+
+#"Correggendo le bozze di un rapporto ufficiale… da dove era nata questa necessità?"
+
+Titolo:  
+“La discussione sul colore della matita… In breve, Pond stava facendo…”
+
+Come al solito, quella mattina Peter Gahagan non faceva nulla.
+
+Come al solito, la sua imponente figura era distesa su una sedia che sembrava troppo piccola per lei.
+
+Per lui… Era molto legato al signor Pond, e ancora di più a…
+
+Osservare altre persone mentre lavorano.
+
+“Potrei assomigliare a [[Polonius|Polonio]],” disse Pond in modo modesto; e infatti, lui.
+
+Barba all’antica, espressione da gufo e cortesia ufficiale
+
+Ha fatto un paragone quasi appropriato: “Forse sono come [[Polonius|Polonio]], ma io non lo sono.”
+
+Non [[Polonius|Polonio]], ed è proprio questo che voglio illustrare. [[Hamlet|Amleto]]
+
+Disse a [[Polonius|Polonio]] che una nuvola nel cielo assomigliava a un cammello. L’effetto fu sorprendente.
+
+Sarebbe stato un po' diverso se [[Hamlet|Amleto]] lo avesse detto seriamente.
+
+# Scientificamente parlando, aveva visto una cammella nel cielo…
+
+In quel caso, forse [[Polonius|Polonio]] sarebbe stato perdonato riguardo alle azioni del Principe.
+
+La [[Madness|pazzia]], come alla fine si è dimostrata. È noto che funzionari suscettibili possano reagire in modo eccessivo.
+
+Titolo:  
+Esprimo l’opinione che tu, mio caro Gahagan, entri in questo ufficio…
+
+Come un bue, si rotola nella lunga [[Summer|estate]].
+
+“Giorno”, come lo definirebbe un poeta ormai obsoleto… Ma se le autorità…
+
+#Un bufalo tra gli uomini
+
+# Il dipartimento difficilmente avrebbe agito in questa materia senza ulteriori indicazioni.
+
+“Indagini.”
+
+“Non c’è alcun [[Doubt|dubbio]] che tu abbia il mio dossier,” disse Gahagan, “con i documenti ufficiali, ”
+
+#Calcoli e statistiche sul numero delle mie gambe… non per altro
+
+Menziona i miei “corna”; tutti annotati con matita blu e rossa… e la maggior parte di essi…
+
+Certo, ci sono alcuni segni molto negativi nel mio curriculum… Ma comunque…
+
+Mi riporta all’argomento originale della mia semplice [[Wonder|meraviglia]]. Tu.
+
+#A malapena sembra essersi reso conto di ciò che era davvero strano nel proprio comportamento…
+
+# Commento… Comunque, non capisco esattamente cosa intendi con “un…”
+
+La matita era relativamente rossa.
+
+“Anche quella frase potrebbe essere difesa,” osservò il signor Pond.
+
+# Debole sorriso. “Potresti dire, ad esempio, che le mie note su questo…”
+
+Titolo:  
+“Le prove sono scritte in matita blu… Eppure…” Allungò una matita con la punta blu.
+
+Il punto fatto con la [[chalk|gesso]] rosso indicava nella direzione opposta. Sembrava quasi un piccolo trucco magico.
+
+Trucco… finché non lo girò in modo da far vedere che era uno di quei…
 
 
 
@@ -14191,6 +17893,205 @@ he nearly got killed."
 
 "The fellow must have fired five times at him," said Wotton
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Matite vendute nella maggior parte delle cartolerie, con la punta rossa da un lato e quella blu dall’altro
+
+Titolo:  
+“L’altro… Ora supponiamo che io usi fino ad esaurire quel punto blu…”
+
+#Quasi scomparso… e davvero, che errori di stampa possono commettere su qualcosa di così semplice…
+
+# Rapporto sul bimetallismo in Belucistan… incredibile!
+
+# La matita era relativamente rossa, anche se forse comunque piuttosto…
+
+Blue… Se la parte rossa si consumasse, si direbbe che sia prevalentemente blu.
+
+Azzurro, anche se con un leggero tocco di rosso.
+
+“Non dovrei mai dire una cosa del genere”, esclamò Gahagan in modo brusco.
+
+Impazienza… “Dovrei ripetere ciò che ho detto prima: quella cosa strana…”
+
+Il titolo è: “Ciò che ti riguarda, in realtà, è che sei completamente cieco di fronte a ciò che veramente è pazzo…”
+
+La tua affermazione. Non riesci nemmeno a notare il [[Paradox|paradosso]] presente nelle tue stesse parole. Tu.
+
+“Non capisco il senso della tua stessa osservazione.”
+
+“Il punto della mia osservazione,” disse il signor Pond con dignità, “è che…”
+
+# Ho pensato di aver spiegato abbastanza chiaramente che le persone sono molto…
+
+# Impreciso nelle dichiarazioni riportate, come nel caso di un cammello…
+
+“Qualcosa come un cammello.”
+
+# Peter Gahagan continuava a fissare il suo amico con gli occhi spalancati.
+
+Come un bue nella fase di ruminazione… e alla fine ha emesso un suono forte.
+
+Si alzò da solo, raccolse il suo cappello grigio e il bastone da passeggio…
+
+Un tipo di rumore stridulo.
+
+“No,” disse, “non intendo sottolineare quel punto. Sarebbe inutile.”
+
+Rompere un cristallo o far esplodere una bolla di sapone perfettamente rotonda.
+
+# Attraversare la pura e sferica perfezione della tua calma folle
+
+Sarebbe come invadere l’[[innocence|innocenza]] di un [[Child|bambino]]. Se davvero.
+
+#Non so proprio quando dici sciocchezze… se non lo fai nemmeno consapevolmente.
+
+# Nota quale parte di tutto questo è assurda… Credo proprio di dovervi lasciare.
+
+# Intelligenza assurda ma intatta… Andrò a parlarne con lei.
+
+Wotton. Come ha spesso osservato con disinvoltura, non c’è nulla di inutile o superfluo.
+
+“Riguardo a lui.”
+
+E uscì dalla stanza con passo disinvolto, dondolando il suo bastone…
+
+# Direzione del dipartimento estremamente importante presieduto da Sir
+
+[[Hubert]] Wotton; affinché potesse godere dello spettacolo ispiratore di.
+
+Un altro amico che svolge il proprio lavoro quotidiano e viene interrotto…
+
+Uomo ozioso.
+
+Tuttavia, Sir [[Hubert]] Wotton era di un tipo piuttosto diverso.
+
+Il signor Pond: in questo senso, anche se era impegnato, non era mai schizzinoso. Il signor.
+
+Pond era chino sulla punta del suo pennarello blu; Sir [[Hubert]].
+
+Il titolo apparve per la prima volta dietro l’estremità rossa di un sigaro che lui stava fumando.
+
+“Sbuffando, con un’espressione pensierosa, mentre sfogliava i documenti…”
+
+Sul suo tavolo… Riconobbe l’arrivo del capitano sorridente…
+
+Un sorriso cupo, ma non scortese; poi gli fece segno di sedersi.
+
+#Gahagan si sedette con le mani incrociate sul suo bastone e lo batté forte
+
+A terra.
+
+“Wotton,” disse, “ho risolto il problema dei paradossi…”
+
+#Il laghetto. Non sa nemmeno quando abbia detto queste cose folli… C’è…
+
+Un punto cieco nel suo eccellente intelletto… o forse una nuvola oscura che offusca la sua mente?
+
+Per un momento, e dimentica persino di aver detto qualcosa di strano.
+
+Continua a discutere della parte razionale del suo discorso…
+
+Non si ferma mai per spiegare l’unica cosa che davvero non ha senso.
+
+# Parlò con me in modo piuttosto ragionevole di una matita di un rosso brillante.
+
+O qualcosa del genere; per questo motivo era stato segnato in modo molto evidente sul foglio.
+
+Ho cercato di incastrarlo con quella cosa insignificante… e lui…
+
+Mi è completamente sfuggito il significato di quella frase. Ha continuato a parlare di quando… una matita blu…
+
+Non era una matita blu… ma per qualche motivo aveva completamente dimenticato l’esistenza di quelle nere.
+
+“Segni.”
+
+“Macchie nere!” esclamò Wotton; si alzò così bruscamente che rovesciò il contenuto del bicchiere.
+
+La cenere del suo sigaro sulla solitamente impeccabile cravatta… Lui
+
+Scosse via quella macchia con un cipiglio; e poi, dopo una pausa…
+
+Parlava in modo frammentario, e di tanto in tanto si capiva che…
+
+Era molto meno convenzionale di quanto sembrasse.
+
+“La maggior parte delle persone che parlano di paradossi lo fa soltanto per fare colpo.”
+
+Non è così con Pond: lo fa perché cerca proprio di non farlo vedere.
+
+“Off… Vedi, sembra proprio quel tipo di persona tranquilla e impegnata nella scienza…”
+
+Come se non avesse mai smesso di stare attaccato a una scrivania o a una macchina da scrivere…
+
+# Ha davvero vissuto alcune esperienze straordinarie… Ma non ne parla mai.
+
+Parlarne non vuole; ma lo fa lo stesso.
+
+Vorrei parlare di ragione, [[philosophy|filosofia]] e argomenti teorici.
+
+Libri… sai che adora leggere tutti quei testi razionalisti del diciottesimo secolo…
+
+# Letteratura del secolo. Ma quando, nel corso di una conversazione…
+
+Titolo:  
+Basandosi su fatti concreti che ha realmente compiuto…
+
+Beh, posso solo dire che la strappa in pezzi. Cerca di schiacciarla fino a ridurla in polvere.
+
+“Un piccolo spazio… eppure sembra contraddittorio. Quasi tutti…”
+
+“Di quelle frasi folli” rappresenta semplicemente una delle avventure contenute nel…
+
+Quello che la maggior parte delle persone definirebbe una vita assolutamente priva di avventure.
+
+“Credo di capire cosa intendi,” disse Gahagan, dopo una pausa…
+
+Radiante riflessione. “Sì, hai ragione… Non puoi aspettarti che io sia…”
+
+“Prendete atto, però, del vostro atteggiamento di stoicismo e arroganza…”
+
+Un ragazzo che ha frequentato le scuole pubbliche inglesi. La metà delle volte, quello che fanno è semplicemente, mostrare.
+
+#Non ostentare mai… Ma nel caso di Pond, è genuino: lo fa davvero.
+
+#Odia essere al centro dell’attenzione; in un certo senso, si potrebbe dire che fosse fatto per questo.
+
+Servizio Segreto… E intendi dire che diventa misterioso soltanto in…
+
+In questo modo particolare, quando davvero vuole mantenere il segreto…
+
+Per i suoi servizi… In altre parole, vuoi dire che c’è una storia dietro a tutto questo.
+
+Ogni [[Paradox|paradosso]] di Pond. Certo, questo è vero: in tutti quei casi.
+
+quando mi hanno raccontato questa storia.
+
+“Conosco bene tutta questa storia,” disse Wotton, “ed è stata una delle…”
+
+Le cose più straordinarie che Pond abbia mai fatto… Era una questione di…
+
+# Immensa importanza: un affare pubblico che deve essere attentamente gestito
+
+Un affare strettamente privato. Pond fornì due consigli, che alcuni…
+
+Sembrava davvero strano, ma alla fine si rivelò esattamente corretto… E lui concluse così.
+
+# Attraverso una scoperta davvero straordinaria… Non so come abbia fatto.
+
+Titolo:  
+L’ho appena menzionato poco fa… ma sono abbastanza sicuro che sia stato scritto da…
+
+# Incidente. Quando apparve, cercò di nasconderlo di nuovo…
+
+#Cambiare argomento in fretta… Ma di certo salvò l’Inghilterra; anche così.
+
+Quasi veniva ucciso.
+
+“Che cosa!” esclamò Gahagan con sorpresa.
+
+“Quel tizio deve aver sparato cinque volte contro di lui,” disse Wotton.
 
 
 
@@ -17088,6 +20989,205 @@ the police raid, and his [[rolling]] eye instantly spotted the one red
 spot in the corner of the crowded café.  He planted himself before
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Credere nel [[government|Governo]]; o almeno nei suoi principi.
+
+Il [[government|Governo]]; ed era il tipo di uomo che pensava prima a.
+
+Principi. Denunciò lo sciopero, e anche il sindacato; non.
+
+#Perché era un snob… perché viveva in modo semplice come un lavoratore; ma…
+
+#Perché credeva davvero nella vecchia teoria individualista
+
+Titolo:  
+Quello che lui chiamava “contratto libero”. Un tipo di accordo quasi sconosciuto…
+
+In Inghilterra questa teoria è più diffusa in [[America]]. Ma nessuno che.
+
+# Guardò quella fronte quasi calva, leggermente rugosa, che sporgeva in mezzo…
+
+I ciuffi di capelli neri e gli occhi ansiosi, sebbene arrabbiati…
+
+Non si poteva [[Doubt|dubitare]] che fosse animato da una fede fanatica e sincera. Il suo nome era.
+
+Marcus ricopriva un incarico minore nel [[government|Governo]], attraverso il quale poteva.
+
+Esaminare con soddisfazione i principi della Repubblica, senza…
+
+# Ammesso ai suoi consigli… Fu mentre parlavano all’esterno di…
+
+# Café con questo secondo conoscente: quando il signor Pond prese coscienza
+
+Del terzo, che era di gran lunga il più straordinario dei tre.
+
+Quest’uomo era una sorta di calamita per gli occhi umani; Pond se ne rese presto conto.
+
+Che ciò fosse vero per gli occhi di tutti, e non soltanto per i suoi. Uno
+
+In un modo o nell’altro, sembrava sempre esistere una corrente di comunicazione.
+
+#In cerchio intorno al piccolo tavolo dove l’uomo sedeva fumando…
+
+Cigaretta, caffè nero e Benedictine… In questo momento.
+
+Quando Pond lo vide per la prima volta, un gruppo di giovani si stava separando dopo…
+
+# Un intreccio di chiacchiere e risate; sembrava che fossero passati da lì per caso
+
+La tavola esiste soltanto a scopo di conversazione… Nel momento successivo…
+
+Una serie di bambini malfamati invase la sua [[Solitude|solitudine]] e, ricevettero qualcosa.
+
+# Pezzi di zucchero che non sono stati usati per il suo caffè… poi, qualcosa di enorme e piuttosto…
+
+Un lavoratore dall’aspetto cupo si avvicinò e parlò con lui per molto tempo.
+
+Più veloce di qualsiasi altro. La cosa più strana è che, una signora, appartenente alla.
+
+Quel rigido tipo aristocratico era raramente visto al di fuori della [[house|casa]].
+
+# Paesi… in realtà scese da una carrozza e rimase lì a fissare…
+
+Il gentiluomo strano… e poi tornò dentro la carrozza. Questi…
+
+Forse solo queste circostanze avrebbero spinto Pond a prestare attenzione alla persona in questione.
+
+Ma in realtà, per qualche motivo o altro, lo aveva guardato in quel modo…
+
+Grande curiosità fin dal principio.
+
+L’uomo indossava un ampio cappello bianco e un abito blu scuro piuttosto logoro.
+
+# Un naso ad arco alto e una barba giallo pallido ben curata…
+
+# Mani lunghe, ossute, ma eleganti… su una delle quali c’era…
+
+# Un anello con una pietra colorata come un martin pescatore, l’unica macchia di colore in tutto l’oggetto…
+
+Lusso su ciò che altrimenti appariva piuttosto logoro… e dentro.
+
+L’ombra grigia del cappello bianco, i suoi occhi brillavano di un blu intenso come il.
+
+#Pietra. Nella sua posizione, nulla lo rendeva particolarmente evidente o rilevante.
+
+Non si sedette davanti, ma appoggiato al muro del caffè.
+
+Proprio sotto un rampicante e vicino a una via di fuga dal [[Fire|fuoco]]. Nonostante le piccole folle.
+
+Quelli che si radunavano intorno a lui mostravano, di tanto in tanto, un’aria strana…
+
+Preferendo essere [[Alone|solo]], Pond fece molte domande, in quel momento e in seguito.
+
+In seguito, si cercò di sapere il suo nome, ma non si scoprì nulla se non che…
+
+Titolo: comunemente chiamato M. Louis; ma se quel fosse davvero il suo vero cognome…
+
+“Forse si tratta dell’adattamento di un cognome straniero… o forse qualcos’altro…”
+
+# Una popolarità bizzarra ed eccentrica spinse tutti a utilizzare il suo nome cristiano
+
+Il nome non emerse con molta chiarezza.
+
+“Marcus,” disse il signor Pond al suo giovane compagno, “chi è quest’uomo?”
+
+“Tutti lo conoscono, ma nessuno sa chi sia davvero,” rispose Marcus.
+
+Una voce piuttosto stridula. “Ma io scoprirò di certo cosa c’è.”
+
+Mentre parlava, i venditori del giornale rivoluzionario, pubblicato da…
+
+I lavoratori in sciopero, evidenti per essere stampati su un vivido rosso scuro…
+
+#Carta… che veniva distribuita a un numero considerevole di persone
+
+I compratori nella folla fuori dal caffè; un blocco nero, dunque…
+
+Si diversificò rapidamente, con macchie di colore rosso sangue. Alcune, infatti.
+
+# Lo hanno guardato solo per prenderlo in giro; alcuni con ancora più freddezza…
+
+Curiosità. Forse solo pochi, tra coloro che provano vera simpatia per lui.
+
+Tra coloro che lo leggono con distacco, ma apparentemente non con…
+
+# Deciso disapprovamento… il gentiluomo con la barba e i vestiti blu
+
+Ring: Signor Louis.
+
+“Beh,” disse Marcus, con le sopracciglia che si incupivano. “Lasciali fare. È loro.”
+
+“Ultima possibilità, immagino.”
+
+“Perché, cosa intendi dire?” chiese Pond.
+
+La fronte di Marcus divenne ancora più corrugata e preoccupata; mentre…
+
+Titolo:  
+“Sono obbligato”, disse con voce ruvida e piuttosto riluttante.
+
+Per non dire che personalmente non lo approvo… Non riesco proprio a capire come possa funzionare questa Repubblica.
+
+# Non è possibile conciliare questo con i propri principi liberali…
+
+I giornali… Ma proveranno a soffocare quella pubblicazione. L’hanno già fatto.
+
+“Essere stati spinti a farlo è stato un vero errore… Non credo affatto che il Primo Ministro abbia agito correttamente.”
+
+#A lui stesso piace davvero questa repressione; ma il Ministro…
+
+Interiore è un piccolo diavolo irrequieto che, in generale, ottiene sempre ciò che vuole.
+
+Comunque, domani andranno a perquisire gli uffici con la polizia.
+
+E probabilmente questo è l’ultimo problema.
+
+Il signor Marcus si dimostrò un vero [[Prophet|profeta]], per quanto riguardava questo argomento.
+
+Situazione generale la mattina seguente.
+
+A quanto pare c’era stato un altro problema… ma se mai fosse esistito davvero…
+
+Il titolo indicava chiaramente che la distribuzione non era avvenuta con successo; la polizia ne era a conoscenza.
+
+“Sequestrate tutte le copie in ogni luogo; e la borghesia vestita di nero…”
+
+Fuori dal caffè, ora erano tutti innocenti e senza alcuna macchia…
+
+Colori di [[Blood|sangue]]; conservati in un angolo, sotto la via di fuga dal [[Fire|fuoco]].
+
+# Il rampicante, dove il signor Louis leggeva la sua copia di quel testo cruento
+
+Titolo:  
+Alcuni di coloro che erano intorno a lui mostravano una totale indifferenza verso quel cambiamento.
+
+Lo guardò con un certo sospetto; e Pond notò in particolare il signor Huss.
+
+Il libraio, con il suo cappello nero e le sue basette bianche
+
+# Seduto a un tavolo vicino, osserva attentamente il lettore di quel foglio rosso
+
+con sospetto palpabile.
+
+# Marcus e Pond si sedettero al loro solito tavolo; e
+
+Mentre facevano ciò, arrivò un gruppo di poliziotti che marciava con passo deciso…
+
+#In fretta, pulendo le strade… Marchavano insieme a loro.
+
+# Una velocità ancora più furiosa… un uomo basso e robusto, con un’aria arrogante
+
+# Mustache, decorazione ufficiale e…
+
+#Ombrello come una spada… Questo era l’eminente e estremamente militante…
+
+# Il dottor Koch, il Ministro dell’Interno: era lui a presiedere
+
+La polizia fece irruzione, e il suo occhio che si muoveva continuamente notò immediatamente quel rosso.
+
+“Un angolo appartato nel caffè affollato… Lì si sedette.”
+
 
 
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_01" data-title="MrPond — Louis; and shouted as if on parade: (part 1)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="motif/dawn,motif/road,motif/rose,motif/soul,motif/well,concept/honour"></span>
@@ -17296,6 +21396,210 @@ Tarnowski the Terrorist is now said to be fomenting strikes and
 revolutions not only in this country but definitely in this
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+M. Louis; e gridò come se fosse in parata:
+
+«Le è vietato leggere quel giornale. Contiene un diretto
+
+incitamento al crimine».
+
+«E come», chiese M. Louis cortesemente, «e come posso scoprire questo
+
+deplorevole fatto se non leggendolo?»
+
+Qualcosa in quel tono cortese parve, per qualche strana ragione, far
+
+uscire dai gangheri, come si suol dire, il Ministro
+
+dell'Interno. Puntando l'ombrello contro l'uomo seduto al caffè,
+
+vociferò con violenta chiarezza:
+
+«Lei potrebbe essere arrestato, potrebbe essere espulso; e sa perché.
+
+Non per tutte quelle sciocchezze sanguinarie. Non ha bisogno di quel brandello di
+
+straccio scarlatto per distinguersi tra i cittadini perbene».
+
+«Poiché i miei peccati sono scarlatti», disse l'altro, chinando
+
+gentilmente il capo, «lo scandalo della mia presenza qui è davvero
+
+altamente scandaloso. E perché non mi arresta?»
+
+«Aspetti e vedrà se la arrestiamo», disse il Ministro
+
+digrignando i denti. «Comunque, lei non arresterà noi né bloccherà
+
+l'intero meccanismo della società con un trucco simile. Crede che
+
+lasceremo che quella specie di sudicio chiodino rosso arrugginito sulla [[Road|strada]] fermi
+
+tutte le ruote del progresso?»
+
+«E lei crede», rispose l'altro severamente, «che tutte le
+
+ruote del suo genere di progresso abbiano mai fatto altro che
+
+schiacciare i volti dei poveri? No; non ho l'[[Honour|onore]] di essere
+
+uno dei cittadini del suo Stato; uno di quei cittadini felici, gioiosi, [[Well|ben]]
+
+nutriti e ricchi che si vedono starsene in piedi per la strada, ai
+
+quali fate guerra con la fame. Ma non sono suddito di alcuno Stato
+
+straniero; e avrete una difficoltà del tutto particolare a espellermi
+
+e rimandarmi nel mio paese».
+
+Il Ministro fece un passo furioso in avanti; poi si fermò. Poi
+
+si allontanò arricciandosi i baffi, come se avesse improvvisamente dimenticato
+
+l'esistenza stessa dell'altro; e seguì la scia della
+
+polizia.
+
+«Qui sembrano esserci parecchi misteri», disse Mr. Pond al suo
+
+amico. «Primo: perché dovrebbe essere espulso? Secondo: perché non
+
+dovrebbe essere espulso?»
+
+«Non lo so», disse Marcus, e si alzò rigido e accigliato.
+
+«Comunque sia», disse Mr. Pond, «comincio ad avere una specie di
+
+idea su chi egli sia».
+
+«Sì», disse Marcus cupamente, «e io comincio ad avere un'idea su
+
+che cosa egli sia. Non una bella idea». E si allontanò bruscamente dal
+
+tavolo, risalendo la strada da [[Alone|solo]].
+
+Mr. Pond rimase seduto in uno stato di profonda riflessione. Dopo
+
+qualche minuto si [[Rose|alzò]] e si diresse verso il tavolo dove il suo
+
+amico libraio, l'eccellente Huss, sedeva ancora in
+
+una maestà alquanto tenebrosa.
+
+Proprio mentre attraversava il marciapiede affollato, un boato si levò dalla
+
+strada alle sue spalle, che si andava riempiendo di crepuscolo; e capì
+
+che la grande folla grigia degli scioperanti stava sfilando,
+
+seguendo lo stesso percorso della polizia che aveva appena sgomberato
+
+i loro uffici. Ma la causa del grido era più particolare e
+
+perfino personale. Gli occhi sardonici della folla semiaffamata avevano
+
+percorso tutta la scura e compassata folla di persone rispettabili
+
+fuori dal caffè, e notato l'assenza del loro giornale proscritto;
+
+poi avevano improvvisamente scorto il familiare bagliore rosso delle sue
+
+pagine svolazzanti nelle mani di M. Louis, che continuava a
+
+leggerlo con calma immutata. Tutti gli scioperanti si fermarono, arrestandosi
+
+e salutando come un esercito; e un grande grido, che pareva scuotere i
+
+lampioni e gli alberelli, si levò per l'unico uomo rimasto
+
+fedele allo straccio rosso. M. Louis si [[Rose|alzò]] e s'inchinò gravemente alla
+
+folla che applaudiva. Mr. Pond si sedette di fronte al suo amico
+
+libraio e ne scrutò con interesse il volto baffuto.
+
+«[[Well|Bene]]», disse Mr. Pond, «il nostro amico laggiù sembra poter
+
+diventare presto il capo del partito rivoluzionario».
+
+Questa osservazione ebbe un effetto piuttosto strano su Mr. Huss; egli trasalì come
+
+in disordine dicendo: «No, no»; controllò il proprio volto, e
+
+poi enunciò una serie di brevi frasi con una straordinaria
+
+esattezza.
+
+«Pur essendo io stesso della borghesia, sono rimasto estraneo alla
+
+politica. Non ho preso parte ad alcuna azione di lotta di classe nelle
+
+condizioni attuali. Non ho ragione di identificarmi né
+
+con la protesta del proletariato né con l'attuale fase del
+
+capitalismo».
+
+«Oh», disse Mr. Pond; e una comprensione cominciò ad [[Dawn|albeggiare]] nei suoi
+
+occhi. Dopo un momento disse: «Mi scuso sinceramente, vecchio
+
+mio. Non sapevo che fosse comunista».
+
+«Non ho confessato nulla del genere», disse Huss con calore; poi
+
+aggiunse bruscamente: «Dirà che qualcuno mi ha tradito».
+
+«È il suo modo di parlare a tradirla, come il Galileo», disse Pond. «Ogni
+
+setta parla la propria lingua. Si capisce che un uomo è buddista
+
+dal modo in cui dice di non essere buddista. Non sono affari
+
+miei; e non ne farò parola con [[Soul|anima]] viva, se preferisce. Mi sono soltanto
+
+permesso di dire che l'uomo laggiù sembra essere molto popolare
+
+tra gli scioperanti, e potrebbe guidare il movimento».
+
+«No, no, no», gridò Huss, battendo sul tavolo con entrambi i pugni.
+
+«Mai, mai egli guiderà il movimento! Mi capisca! Noi siamo
+
+un movimento scientifico. Non siamo morali. Abbiamo chiuso con le
+
+ideologie borghesi del bene e del male. Noi siamo Realpolitik. Ciò che
+
+aiuta il programma di Marx è [[Alone|solo]] bene. Ciò che ostacola il programma
+
+di Marx è [[Alone|solo]] male. Ma ci sono limiti. Ci sono nomi così
+
+infami, ci sono persone così infami, che devono sempre essere
+
+escluse dal Partito».
+
+«Vuol dire che qualcuno è così malvagio da aver risvegliato un dormiente
+
+senso morale perfino in un libraio bolscevico», disse Pond. «Ma insomma,
+
+che cosa ha fatto?»
+
+«Non è solo ciò che fa, ma ciò che è», disse Mr. Huss.
+
+«Curioso che lei dica questo», disse Pond. «Perché io ho appena
+
+azzardato una specie di ipotesi su ciò che egli è».
+
+Prese un ritaglio di giornale dal taschino del panciotto e lo spinse
+
+verso l'altro, osservando con noncuranza: «Noterà che
+
+si dice ora che Tarnowski il Terrorista fomenti scioperi e
+
+rivoluzioni non solo in questo paese ma decisamente in questa
+
 
 
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_02" data-title="MrPond — Louis; and shouted as if on parade: (part 2)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="motif/memory,motif/night,motif/storm,motif/time,motif/well,concept/doubt,concept/fear,concept/paradox,concept/truth,form/comedy"></span>
@@ -17497,6 +21801,207 @@ scowling at the table.
 
 the second inference involves some suggestions that are rather
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In termini di importanza, il nostro amico con il cappello bianco, a mio parere.
+
+Piuttosto un esperto.
+
+Huss continuava a battere debolmente sul tavolo, in modo poco distinto…
+
+Mormorando: “Mai, mai diventerà il capo.”
+
+“E se fosse lui il capo?” disse Pond. “Ovviamente ha…”
+
+Una sorta di abitudine tipica della vecchia leadership… una sorta di gesto che rifletteva quella mentalità.
+
+# Autorità… Non sta forse agendo esattamente come Tarnowski il Tigre?
+
+“Probabilmente continuerebbe, ”
+
+#Il signor Pond forse sperava di sorprendere il libraio; ma…
+
+#Il signor Pond che ricevette la sorpresa… L’effetto su quel libraio
+
+Talmente che “sorpresa” sarebbe una descrizione comicamente inadeguata.
+
+Il signor Huss si irrigidì e rimase seduto immobile come una statua di pietra; ma quel cambiamento…
+
+# Davanti all’immagine scolpita, la scena era agghiacciante… suggeriva qualcosa di terribile.
+
+Una storia da [[nightmare|incubo]] di un uomo seduto a un tavolo solitario che si rende conto di essere a cena.
+
+Con grande sforzo.
+
+“Mio Dio…”, disse infine l’ateo, con una voce bassa, debole e quasi stridula.
+
+“Voci… e quindi pensi che lui sia Tarnowski!” E con queste parole…
+
+Il libraio con il cappello a cilindro all’improvviso scoppiò in risate vuote e stridule.
+
+# Risate, simili ai cupi suoni di una civetta: stridule e monotone
+
+E apparentemente tale processo può ripetersi all’infinito, senza alcun controllo.
+
+“Beh,” intervenne Pond, con un leggero tono esasperato, “come puoi mai, ”
+
+“Sai che non è Tarnowski?”
+
+“Solo perché sono Tarnowski”, disse il libraio, all’improvviso.
+
+Sobrietà. “Dici di non essere una spia… Ma potresti comunque tradirmi.”
+
+“Tu scegli.”
+
+“Vi assicuro, Vostra Eccellenza,” disse il signor Pond, “che non sono una spia…”
+
+“Anche… peggio ancora: una semplice chiacchiera. Sono solo un turista, dopotutto…”
+
+Chiacchierone e viaggiatore… ma che non racconta storie da viaggio. Inoltre…
+
+#Devo un debito alla Vostra Eccellenza, per aver illuminato la mia mente
+
+Con un principio importante… Non l’avevo mai visto così chiaramente prima d’ora. A
+
+L’uomo dice sempre esattamente ciò che intende… ma soprattutto quando cerca di nasconderlo.
+
+it."
+
+“Quello,” osservò l’altro con una voce rauca e lenta, “è esattamente ciò che penso.”
+
+Lo chiami un [[Paradox|paradosso]].
+
+“Oh, non dite così,” gemette il signor Pond. “Tutti in Inghilterra lo dicono…”
+
+Quello. Onestamente, non ho la minima idea di cosa significhi.
+
+“Ma in quel caso,” si disse il signor Pond, “chi diavolo è allora…”
+
+#L’uomo col cappello bianco… Quale crimine ha commesso? Qual è il crimine che…
+
+Per quale reato potrebbe essere arrestato o deportato? O ancora, quale crimine…
+
+È per questo che non può essere arrestato o deportato?
+
+#In una splendida giornata di sole, la mattina seguente…
+
+“Quel laghetto… seduto al suo piccolo tavolo nel caffè, rifletteva…”
+
+#Rinnovate difficoltà del problema… Il sole emanava una sorta di luce dorata.
+
+Una nota di allegria in una scena che poco prima sembrava piuttosto cupa… e anche di più.
+
+“Negro, con gli occhi rossi per aver letto quei giornali bolscevichi…”.
+
+#Il senso sociale, almeno… sembrava esserci una chiarezza in questo ambito.
+
+La [[Storm|tempesta]] dei lavoratori, se non lo stesso sciopero; la minaccia di rivolte era reale.
+
+#Sconfitti in un gioco di strategie; e la polizia veniva bloccata a intervalli lungo il percorso
+
+#La strada; ma sotto il tranquillo sole sembrava innocua quanto…
+
+“Alberelli di plastica e lampioni dipinti… Il signor Pond provava un sentimento irrazionale.”
+
+#Il ritorno di quella vaga eccitazione che talvolta prova un inglese
+
+Il semplice fatto di trovarsi all’estero già suscita certe sensazioni… Il profumo della Francia, in particolare.
+
+Il caffè lo influenzava, proprio come alcuni sono colpiti dall’odore dei campi di fieno.
+
+# O il mare… Monsieur Louis aveva ripreso il suo piacevole passatempo di distribuire…
+
+“Zucchero per i bambini… e la forma stessa di quei blocchi oblunghi…”
+
+“La zucchera di barbabietola soddisfece il signor Pond nello stesso modo… Lui aveva una visione un po’ vaga…”
+
+#Sentendo di essere lì a osservare quella scena con gli occhi di uno di loro
+
+I bambini… Anche i gendarmi di guardia lungo il marciapiede si divertivano.
+
+Lo trattavano in modo del tutto assurdo, come se fossero stati delle bambole…
+
+Titolo:  
+“Bambocci in una deliziosa commedia di marionette; i loro cappelli inclinati…”
+
+Un vago [[Memory|ricordo]] del chierichino in uno spettacolo di “Punch and Judy”. Attraverso tutto.
+
+Quest’[[Comedy|commedia]] a colori metteva in risalto la figura rigida del signor Marcus.
+
+Titolo:  
+Con un volto che dichiarava chiaramente che quel puritano politico…
+
+Non credeva nelle marionette.
+
+“Beh,” disse, fissando Pond con una rabbia controllata, “io, ”
+
+Immagino di poter indovinare la [[Truth|verità]] su DI LUI.
+
+#Domande educate… e risposte inaspettate
+
+Una risata brutta e derisoria.
+
+“Che tipo di uomo è,” chiese Marcus, “quello che viene accolto ovunque…”
+
+#Con inchini e sorrisi… A chi è che tutti sono sempre così gentili?
+
+Cortese e lusinghiero. Che generoso Amico del Popolo!
+
+#Che santo Padre dei Poveri… Deportato! Un tipo del genere meriterebbe davvero…
+
+“Per essere impiccato.”
+
+“Non capisco ancora nulla,” rispose Pond con calma.
+
+“Tranne che, per qualche motivo, non può nemmeno essere deportato.”
+
+“Sembra davvero un ambiente patriarcale, non trovi? Lui, lì seduto al sole…”
+
+Giocare con i bambini? La scorsa [[Night|notte]] faceva più buio e io l’ho visto.
+
+#In un affare ancora più oscuro… Ascolta prima di tutto questo.
+
+Titolo:  
+Tutto accadde alla fine del crepuscolo, ieri sera… se non fosse stato per…
+
+Io stesso. Lui era [[Alone|sicuro]] da solo nel caffè; non credo che mi abbia visto. Ma io.
+
+# Non so se gli importerebbe… Arrivò una macchina scura, dall’aspetto insolito…
+
+Carrozza con tende; e quella signora che avevamo visto una volta prima ne scese…
+
+“Una signora davvero nobile, ne sono sicuro… anche se immagino che non sia così ricca come lei.”
+
+#Incontrata. Ha avuto un colloquio con quest’uomo, durante il quale…
+
+# Si inginocchiò davanti a lui sul selciato fangoso, pregandolo di…
+
+Qual tipo di uomo è… che se ne stava semplicemente lì seduto e sorrideva?
+
+#Colui che vede le donne prosternarsi davanti a sé e si limita a sorridere…
+
+#Un uomo che non si toglie nemmeno il cappello… Che tipo di persona è?
+
+#Chi può interpretare il ruolo del Sultano nella società e essere certo che tutti lo accettino senza obiezioni?
+
+Sorridere e essere gentili? Solo i tipi di criminali più meschini lo fanno.
+
+“In parole povere,” disse il signor Pond, “volete dire che dovrebbe essere arrestato.”
+
+# Perché è un estorsore… E significa anche che non può essere arrestato.
+
+Perché è un estorsore.
+
+Per la prima [[Time|volta]], la rabbia di Marcus sembrava mescolarsi con una sorta di.
+
+# Imbarazzo, quasi vergogna, mentre guardava in basso
+
+Con il viso corrugato, seduto al tavolo.
+
+“Non ti è mai venuto in mente,” proseguì Pond con calma, “che, ”
+
+La seconda inferenza contiene alcune suggerimenti piuttosto…
 
 
 
@@ -17700,6 +22205,205 @@ neglected and needing emphasis; long before we come to those who do
 it hypocritically or for hire.  A man can argue FOR principles not
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Delicate. Soprattutto, se posso permettermi di dirlo, per un uomo nella tua posizione.
+
+Marco rimase in un [[Silence|silenzio]] pieno di rabbia; poi, finalmente, disse.
+
+Scattò all’improvviso, come se fosse fuori controllo: “Giuro sulla vita del Primo…”
+
+Il ministro è assolutamente onesto.
+
+“Non credo proprio”, disse il signor Pond, “di avervi mai intrattenuti con…”
+
+Nessun scandalo riguardante il Primo Ministro.
+
+“E non riesco a credere che quel piccolo dottore sia davvero coinvolto in tutto questo,” continuò.
+
+“Marcus con ferocia… Ho sempre pensato che fosse solo sincerità…”
+
+Lo fece sbuffare e diventare pieno di rancore… Voleva solo cercare di…
+
+Proprio in mezzo a tutto questo…
+
+“Tutto questo, cosa significa?” chiese il signor Pond.
+
+# Marcus ruotò sulla sedia con un gesto brusco del gomito.
+
+dicendo: “Oh, non capisci.”
+
+“Al contrario,” rispose Pond. “Penso di capire.”
+
+Ci fu un lungo [[Silence|silenzio]], poi Pond riprese a parlare:
+
+“Capisco quella terribile [[Truth|verità]] secondo cui tu stesso sei perfettamente, ”
+
+# Persona onorabile e di nobili principi… e il tuo stesso problema è…
+
+# Estremamente difficile da risolvere… Vi assicuro che sono davvero molto preoccupato.
+
+# Incapace di prenderti in giro con quella cosa… Era rivolto alla Repubblica, alla…
+
+L’ideale di uguaglianza e giustizia, verso cui hai giurato lealtà… e per quel principio.
+
+Sei stato leale.
+
+“Meglio che dici quello che pensi,” disse Marcus con tono cupo. “Tu…”
+
+# Servo solo una banda di furfanti…
+
+Quel farabutto può ricattare.
+
+“No, non vi chiederò di ammetterlo ora,” rispose Pond. “Solo…”
+
+Ora vorrei farvi una domanda completamente diversa… Riuscite a immaginarlo?
+
+Un uomo che simpatizza con i lavoratori in sciopero, o addirittura che è sinceramente dalla loro parte…
+
+“Socialista?”
+
+“Beh,” rispose Marcus, dopo un momento di concentrazione, “immagino che, ”
+
+Si dovrebbe immaginare… Suppongo che possa sostenere questo, riguardo alla Repubblica.
+
+Basandosi sul Contratto Sociale, potrebbe persino sostituire la libertà stessa.
+
+“Contratti.”
+
+“Grazie,” disse il signor Pond con soddisfazione, “esattamente quello che volevo.”
+
+#Volevo… Un importante contributo alla legge di Pond
+
+[[Paradox|Paradosso]], se mi si perdona di esprimermi in questo modo scherzoso.
+
+E ora andiamo a parlare con il signor Louis.
+
+#Si alzò di fronte all’ufficiale stupito, che non sembrava comprendere nulla
+
+Un'altra opzione sarebbe stata seguirlo mentre attraversava rapidamente il caffè.
+
+Alcuni giovani vivaci e loquaci stavano salutando il signor.
+
+“Louis, che con gentilezza invitò i nuovi arrivati ad accomodarsi sulle sedie vuote…”
+
+Dicendo qualcosa del tipo: “I miei giovani amici spesso rendono più vivace la mia [[Solitude|solitudine]]”.
+
+Con le loro idee piuttosto socialiste.
+
+“Non dovrei essere d’accordo con i tuoi giovani amici,” disse Marcus in modo laconico.
+
+Sono così all’antica da credere nel contratto libero.
+
+“Essendo più anziano, forse ci credo ancora di più,” rispose il signor M.
+
+“Ma sicuramente si tratta di un principio giuridico molto antico…”
+
+“Un contratto ‘leonino’ non è un contratto libero… E rappresenta una forma di ipocrisia.”
+
+#Fingi che ci sia una trattativa tra un uomo affamato e uno che ha tutto
+
+“Il cibo non ha nulla a che vedere con un contratto oneroso…” Alzò lo sguardo verso…
+
+Una scala per la fuga dal [[Fire|fuoco]], che conduceva al balcone di un edificio molto alto.
+
+Attico sopra. “Vivo in quel seminterrato, o meglio, su quel balcone.”
+
+# Se cadessi dal balcone e mi aggrappassi a una spina, così lontano…
+
+Titolo:  
+“Passi che qualcuno munito di scala potrebbe intraprendere per salvarmi, se…”
+
+Gli diede cento milioni di franchi; moralmente parlando, dovrei considerarmi in una posizione privilegiata…
+
+Giustificato nell’uso della sua scala… e poi mandarlo all’inferno.
+
+“Per i suoi cento milioni… Davvero, l’inferno non è ancora fuori dalla scena.”
+
+#Un peccato di ingiustizia è costringere qualcuno ad avere un vantaggio a scapito degli altri
+
+Disperati. Beh, tutti quegli uomini poveri sono disperati; tutti si impiccano.
+
+"Morire di fame su spiedini... Se non possono negoziare collettivamente, allora..."
+
+“Non si può assolutamente negoziare in questo caso. Non si sta rispettando il contratto…”
+
+Si oppone a qualsiasi tipo di contratto; il vostro, infatti, non può assolutamente essere considerato un vero contratto.
+
+Mentre il fumo della sua sigaretta si alzava verso il balcone, il signor.
+
+Lo sguardo di Pond seguì quel movimento e vide che il balcone era attrezzato con…
+
+Sembrava un letto, una tenda e uno specchio vecchio… tutto insieme.
+
+Molto logoro. L’unico altro oggetto presente era un vecchio e polveroso pomo di croce.
+
+Una [[Sword|spada]], del tipo che si potrebbe trovare in una bottega di curiosità. Il signor Pond.
+
+Guardò quest’ultimo oggetto con notevole curiosità.
+
+“Permettetemi di fare da padrone di casa,” disse gentilmente il signor Louis.
+
+"Forse vorreste un cocktail o qualcosa del genere… Io preferisco semplicemente…”
+
+“Piccola benedettina.”
+
+# Quando si girò sulla sedia verso il cameriere, risuonò un colpo di arma da fuoco
+
+Il caffè e il piccolo bicchiere davanti a lui formavano una sorta di “stella”.
+
+Schegge… La pallottola che aveva rovesciato il liquido aveva mancato la persona che lo stava bevendo.
+
+Di mezzo metro… Marcus guardò intorno disperatamente; il caffè era deserto.
+
+# Ormai era tardi; non si vedeva nessuna figura, solo la schiena solida…
+
+Il gendarme fermo fuori… Ma Marcus impallidì.
+
+# Orrore… perché il signor Louis fece un gesto strano e curioso che, se…
+
+# Non aveva alcun significato… Poteva significare soltanto che il poliziotto stesso…
+
+Si girò per un istante e sparò.
+
+“Forse è il caso di ricordare che è già [[Time|ora]] di andare a letto,” disse il signore.
+
+Louis disse allegramente: “Salgo dalla scala di emergenza e poi dormo lì sopra.”
+
+Balcone. I medici apprezzano molto questo tipo di trattamento all’aperto. [[Well|Beh]].
+
+“Il mio popolo ha sempre dormito in pubblico… Lo fanno molti senzatetto.”
+
+Non è così? Buona [[Night|notte]], signori.”
+
+Salì con facilità la scala di ferro e si avviò verso il balcone…
+
+Con gli occhi sbalorditi di tutti, indossò un ampio pigiama…
+
+Prepararsi per il sonno.
+
+“Pond,” disse Marcus, “siamo immersi in un [[nightmare|incubo]] di assurdità.”
+
+“No,” rispose Pond, “per la prima volta ha iniziato ad avere senso.”
+
+#Ho commesso degli errori; ma finalmente inizio a capire cosa significhi tutto questo.
+
+“Significa…” Dopo aver riflettuto per un momento, riprese parlando con una certa scusa:
+
+“Perdonami se mi riferisco di nuovo alla mia stupida battuta riguardo alla Legge di Pond.”
+
+Credo di aver scoperto un principio piuttosto utile. Ed è questo.
+
+Uomini possono sostenere principi che non sono del tutto i loro, per motivi diversi…
+
+Motivi vari: come scherzo durante una [[debate|debatte]], o per motivi professionali.
+
+# Etichetta: come un avvocato… o forse solo un’esagerazione?
+
+Titolo: Tralasciato e che richiede attenzione… molto prima di parlare di coloro che lo fanno davvero.
+
+# In modo ipocrita o per denaro… Un uomo può difendere i propri principi, ma non sempre con sincerità.
+
 
 
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_04" data-title="MrPond — Louis; and shouted as if on parade: (part 4)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/ship,motif/sleep,motif/swallow,motif/time,motif/well,concept/despair,concept/fear,setting/ship,character/hubert"></span>
@@ -17891,6 +22595,197 @@ this story.  It was hardly even wise.  It is very unlikely that it
 
 would promote his worldly prospects, or gain him any rewards or
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Proprio dei suoi principi… Ma un uomo non può discutere partendo da principi che non siano i propri.”
+
+Principi fondamentali che egli assume, anche quando si tratta di sofismi o argomentazioni a sostegno di una tesi.
+
+Probabilmente si tratterà dei suoi stessi principi fondamentali… Il tutto.
+
+La lingua che utilizza lo tradirà… Quel libraio bolscevico
+
+Si professava borghese, ma parlava come un bolscevico…
+
+Un borghese… Parlava di sfruttamento e di guerra di classe. Quindi…
+
+# Hai provato ad immaginarti un socialista… ma non ne hai mai parlato.
+
+Come un socialista… Hai parlato del Contratto Sociale, proprio come gli antichi…
+
+Rousseau. Ora il nostro amico Monsieur Louis difendeva la sua simpatia per…
+
+Strikers… e persino i Socialisti. Ma utilizzò il metodo più antico e tradizionale…
+
+Argomento tradizionale fin dai tempi antichi, più antico ancora del Diritto Romano… L’idea stessa…
+
+Il concetto di contratto leonino è antico quanto il stesso Leone… e molto più vecchio ancora.
+
+#Leo XIII: Pertanto, rappresenta qualcosa di ancora più antico del vostro…
+
+# Rousseau e la tua rivoluzione. Ho capito dopo cinque parole che lui…
+
+Non quel farabutto che ricatta nelle storie d’amore. Eppure è romantico.
+
+#E avrebbe potuto essere arrestato legalmente… ma solo per una ragione piuttosto curiosa.
+
+#Il criminale che non può essere arrestato
+
+Assassinato.
+
+Titolo:  
+“L’accusa di ricatto si basa su una scena in cui una signora si inginocchia…”
+
+“Lo hai incontrato per strada… Hai ragionato davvero, riguardo alle donne nel tuo paese…”
+
+# Si preoccupano troppo di formalità e convenzioni, al punto di non riuscire mai a…
+
+Questo, tranne che in alcuni momenti estremi di agonia e [[Despair|disperazione]]; non è mai successo.
+
+“Per voi, forse, potrebbe trattarsi soltanto di un estremo esempio di formalità…”
+
+“Proprietà.”
+
+Titolo:  
+“Che diavolo…” iniziò lentamente Marcus; poi il signor Pond bussò.
+
+Rispose abbastanza astutamente: “E poi la [[Sword|_spada]]. A cosa serve una [[Sword|_spada]]?”
+
+È assurdo parlare di combattimento in questo contesto; lui non avrebbe mai brandito una [[Sword|_spada]] medievale.
+
+“Contro le persone che lo sparano con le armi… Se si trattasse di duelli, invece…”
+
+Avrebbe avuto una spada da duello; e probabilmente anche due, nel peggiore dei casi. Cosa altro.
+
+Puoi fare qualcosa con una [[Sword|_spada]]? Beh, puoi [[Swallow|inghiottirla]]; e in un certo [[Time|momento]].
+
+# Pensavo davvero che potesse essere un mago… Ma è troppo grande.
+
+[[Swallow|inghiottire]]; lo stesso vale per questo concetto. Cosa si può fare con una [[Sword|_spada]], ma non.
+
+Con una lancia, un fucile o un’ascia da battaglia? Hai mai sentito parlare dell’Accolade?
+
+# Molto tempo fa, qualsiasi cavaliere poteva investire un altro uomo nel titolo di cavaliere; ma ai tempi moderni…
+
+Personalizzarlo… è l’unica possibilità.
+
+“Solo, ” iniziò a dire Marcus, fissando qualcosa davanti a sé.
+
+“Solo un [[King|Re]] può farlo,” disse Pond. E il giovane repubblicano si alzò in piedi all’istante.
+
+Rigido di fronte a questa sfida.
+
+“Sì,” continuò Pond, “il [[King|Re]] si è nuovamente insinuato tra di voi. È, ”
+
+# Non è colpa tua… Le repubbliche potrebbero andare bene, se solo i repubblicani fossero…
+
+“Per quanto onorevole siate, avete ammesso che lo sono…”
+
+No, ed è proprio questo che intendeva quando parlava di andare a letto in pubblico.
+
+“Conosci bene quei vecchi re… Ma lui aveva un altro motivo.”
+
+Aveva un vero e proprio [[Fear|timore]]: temeva che potessero deportarlo di nascosto. Avrebbero potuto farlo.
+
+“Deportarlo, tecnicamente sì… Ovviamente; tutte queste repubbliche hanno leggi in merito.”
+
+Contro i pretendenti realisti rimasti nel regno… Ma se lo avessero fatto…
+
+“Se lo avesse fatto pubblicamente, si sarebbe proclamato lui stesso…”
+
+“Perché non lo fanno pubblicamente?” chiese il repubblicano in tono esplosivo.
+
+#"I politici non capiscono molto; ma ciò che capiscono lo sanno utilizzare."
+
+“Politica…”, disse Pond in tono pensieroso. “Voglio dire, loro capiscono davvero…”
+
+Effetto immediato sulle folle e sui loro movimenti… In qualche modo, era riuscito a infiltrarsi lì dentro.
+
+#Iniziò una campagna per guadagnarsi popolarità tra il pubblico, prima ancora di rendersene conto
+
+Chi era… Quando un tempo era popolare, loro erano impotenti. Come…
+
+“Potrebbero davvero dire: ‘Sì, è popolare, sta dalla parte dei…’”
+
+#Gente e poveri: i giovani accettano la sua guida; ma lui…
+
+Il [[King|Re]], quindi deve andare? Sanno quanto sia terribilmente vicino.
+
+Il mondo deve rispondere: “Sì; lui è il [[King|Re]] e, per Dio, lo è davvero.”
+
+“Dovrà rimanere.”
+
+#Il signor Pond aveva raccontato questa storia, in modo leggermente più dettagliato… ma comunque…
+
+Un lessico più classico; e entro quella [[Time|epoca]] aveva effettivamente terminato il lavoro.
+
+Ostriche. Le guardò pensierosamente e aggiunse: “Le conserverete, vero?”
+
+Il termine “ostracismo” indica l’atto di escludere qualcuno da una comunità o da un gruppo, spesso attraverso votazioni pubbliche. In antichità, questo sistema ven
+
+#Antica Atene: un uomo veniva talvolta esiliato semplicemente per…
+
+Importante… e i voti venivano registrati con gusci d’ostrica. In questo…
+
+#In caso fosse stato esiliato per la sua importanza… ma non lo fu.
+
+Era molto importante che nessuno potesse venire a sapere della sua importanza.
+
+Anello degli [[lovers|amanti]]
+
+“Come ho detto prima,” osservò il signor Pond, verso la fine di uno dei…
+
+"I suoi discorsi chiari ma piuttosto lunghi… il nostro amico Gahagan qui…”
+
+Un uomo estremamente onesto… ma che racconta bugie inutili e senza motivo. Ma…
+
+Questa stessa onestà…
+
+# Capitano Gahagan agitò una mano guantata in segno di cortese ringraziamento
+
+# Qualsiasi cosa piacesse dire alle persone… Lui era particolarmente esplosivo nel suo modo di esprimersi.
+
+Aveva un fiore nel cappotto e sembrava insolitamente felice. Ma Sir [[Hubert]].
+
+Wotton, la terza parte presente alla piccola conferenza, si alzò in piedi. Perché…
+
+Seguì il flusso delle parole con un’attenzione instancabile e intelligente.
+
+#Mentre Gahagan, sebbene radioso, sembrava piuttosto assente… e questi…
+
+Le assurdità improvvisate facevano sempre alzare in piedi Sir [[Hubert]].
+
+“Ripeti quello che hai detto,” disse lui, non senza sarcasmo.
+
+“Certamente è abbastanza ovvio,” supplicò il signor Pond. “Un vero bugiardo…”
+
+Non racconta mai bugie sciocche e inutili; racconta solo storie sagge e significative.
+
+Menti necessarie… Non era affatto necessario che Gahagan ce lo dicesse una volta.
+
+#Che aveva visto non una, ma sei serpenti marini, ognuno di loro…
+
+Titolo:  
+Più grande del precedente… e ancora meno indicazioni su quale specie di rettile si tratti.
+
+“Turn swallowed the last one whole; and that the last of all was…”
+
+Aprì la bocca per [[Swallow|ingoiare]] la [[Ship|nave]], ma poi vide che in realtà era solo.
+
+Si addormentò dopo un pasto troppo abbondante, e il [[Monster|mostro]] all’improvviso.
+
+[[Sleep|dormire]]. Non mi soffermerò sulla simmetria matematica che caratterizza questo fenomeno.
+
+Un serpente dentro un altro serpente sbadigliò, e quel serpente dentro l’altro andò a [[Sleep|)dormire]].
+
+“Tutti tranne i più piccoli, che non avevano cenato e erano usciti…”
+
+#Cerca qualcosa… Non era necessario, dico, che Gahagan lo spiegasse.
+
+#Questa storia… Non era nemmeno saggio farlo. È molto improbabile che…
+
+# Qualcosa che avrebbe potenziato le sue opportunità nel mondo materiale, o gli avrebbe portato qualche recompensa…
 
 
 
@@ -18094,6 +22989,207 @@ polas, polat; I play polo, thou playest polo, he plays polo, or
 itself was an Asiatic game, and can be traced through the gilded
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Decorazioni per la ricerca scientifica. L’ufficialità della scienza
+
+Titolo:  
+Il mondo, per qualche motivo che non so spiegare, ha pregiudizi contro qualsiasi storia… anche quella di una sola persona.
+
+#"Serpente marino… e quindi ancora meno propenso ad accettare quella narrazione."
+
+Nella sua forma attuale.
+
+"#O ancora, quando il Capitano Gahagan ci raccontò di essere stato un..."
+
+Chierico missionario che predicava con entusiasmo nei pulpiti…
+
+“Nonconformisti… nelle moschee dei musulmani…”
+
+#I monasteri del Tibet, ma fu accolto con particolare calore da un ambiente mistico
+
+# Setta dei Teisti in quelle regioni: persone in uno stato di supremo…
+
+# Esaltazione spirituale: colui che lo adorava come un dio, fino a quando…
+
+Erano appassionati di sacrifici umani e lui ne fu la vittima.
+
+#Inutile anche questa dichiarazione…
+
+Un clérigo di indole tollerante e poco rigorosa difficilmente lo aiuterà ad avanzare nella sua carriera…
+
+La professione attuale, o ciò che lo rende adatto alle sue attività attuali.
+
+Si sospetta che la storia sia in parte una [[Parable|parabola]] o un’[[Allegory|allegoria]]. Comunque sia.
+
+“Era del tutto inutile e ovviamente falso.” E quando…
+
+Questa cosa è ovviamente falsa, non è affatto una bugia.
+
+“Supponiamo,” disse improvvisamente Gahagan, “supponiamo che vi dicessi…”
+
+“Una storia che sia davvero vera?”
+
+“Dovrei considerarlo con grande sospetto,” disse Wotton con espressione cupa.
+
+“Voi pensate che io stia ancora frequentando qualcuno. Ma perché?”
+
+“Perché sarebbe proprio come un [[Romance|romanzo]],” ribatté Wotton.
+
+“Ma non pensi,” chiese il Capitano con aria pensierosa, “che la vera…”
+
+A volte la vita è come un [[Romance|romanzo]], non credi?
+
+“Credo,” rispose Wotton, con una certa genuina astuzia…
+
+“Qualcosa che era profondamente radicato in lui… mi permetteva sempre di riconoscerlo con certezza.”
+
+differenza».
+
+“Hai ragione,” disse Pond; “e a mio parere la differenza sta…”
+
+# La vita, in alcuni aspetti, è artistica, ma nel suo insieme no… È come…
+
+“Fragmenti spezzati di diverse opere d’arte… Quando tutto viene appeso insieme.”
+
+Tutto insieme, tutto quadra. Non ne dubito affatto. Anzi, potrei persino crederci.
+
+# Gahagan vide sei serpenti marini… ma non che ciascuno fosse più grande dell’altro
+
+Ultimo… Se avesse detto che prima c’era uno grande e poi uno piccolo…
+
+“Uno, e poi uno ancora più grande… forse avrebbe potuto accoglierci.” Spesso diciamo così.
+
+Quella situazione sociale è come trovarsi dentro un [[Novel|romanzo]]; ma non lo è davvero.
+
+Finire come quel [[Novel|romanzo]], almeno, non proprio lo stesso [[Novel|romanzo]].
+
+“Pond,” disse Gahagan, “a volte penso che tu sia ispirato…”
+
+“Possed of a devil in a quiet way… È strano che tu l’abbia detto.”
+
+#Proprio perché la mia esperienza è stata esattamente così…
+
+Differenza: ogni familiare [[Melodrama|melodramma]] si interruppe, ma solo per poi riprendere.
+
+Un [[Melodrama|melodramma]] ancora più cupo, o forse una [[Tragedy|tragedia]]. Ancora e ancora, in questa faccenda, io.
+
+# Pensavo di essere nella trama di una rivista… e poi tutto è cambiato completamente.
+
+Un'altra storia. Una sorta di visione sfocata, o forse un [[nightmare|incubo]].
+
+Soprattutto un [[nightmare|incubo]].
+
+“E perché proprio?” chiese Wotton.
+
+“È una storia orribile,” disse Gahagan, abbassando la voce. “Ma…”
+
+Ora non è più così terribile.
+
+“Certo,” disse il signor Pond annuendo. “Sei felice e desideri…”
+
+“Raccontaci una storia spaventosa.”
+
+“E cosa significa tutto questo?” chiese Wotton.
+
+“Significa,” disse Gahagan, “che sono fidanzato e presto sposerò…”
+
+“Mattina.”
+
+“Mio Dio… mi scusi,” disse Wotton, con il viso completamente arrossito.
+
+Titolo:  
+“Congratulazioni, ovviamente… Ma cosa significa davvero tutto questo?”
+
+A che cosa ha a che fare con quel [[nightmare|incubo]]?
+
+“C’è un legame”, disse Gahagan con aria sognante. “Ma voi volete…”
+
+Storia orribile, e non certo una felice. Beh, insomma, era piuttosto.
+
+Un mistero, almeno per me; ma alla fine l’ho capito.
+
+#E quando avrete finito di confonderci, ci racconterete…
+
+“Soluzione?”
+
+“No; Pond ti dirà la soluzione,” disse Gahagan con malizia.
+
+#"Già si è gonfiato d’orgoglio perché ha indovinato di che genere sia la storia..."
+
+#Prima ancora che potesse sentirlo… Se non riesce a concludere la storia, quando ormai l’ha iniziata…
+
+L'ho sentito...
+
+Interruppe per un attimo, poi riprese con maggiore fermezza:
+
+"Iniziò con una cena, quella che loro chiamano “festa per uomini soli”..."
+
+Titolo:  
+di Lord Crome, che segue un cocktail party organizzato principalmente da Lady…
+
+# Crome. La signora Crome era una donna alta, agile e graziosa…
+
+# Testa scura e piccola… Lord Crome, invece, era tutto il contrario: era…
+
+#"Una persona con la testa sulle spalle: sia fisicamente che mentalmente", l'avrete sicuramente sentito dire."
+
+# Un volto da guerriero; il suo viso era come un’ascia pronta a tagliargli via la testa… o forse qualcosa di ancora più terribile.
+
+Piuttosto il proprio [[Body|corpo]], eliminando ciò che è più lieve e insignificante.
+
+# Economista e imprenditore…
+
+Distraito e piuttosto annoiato da tutte quelle signore che nuotavano intorno…
+
+Il ricordo di sua meravigliosa moglie, quella colomba bianca che sfrecciava via… E forse fu proprio questo a…
+
+#Perché desiderava la compagnia di persone del proprio sesso… Comunque sia, continuò così.
+
+Ha invitato alcuni dei suoi ospiti maschi a una piccola cena dopo essere stato a [[Home|casa]].
+
+# Uno di loro… ma nonostante ciò…
+
+Un gruppo ristretto di persone.
+
+#Un gruppo ristretto… eppure sembrava quasi che non lo fosse affatto
+
+Selezionati. Erano per lo più uomini ben noti, eppure sembrava che.
+
+“Crome aveva scelto i loro nomi a caso… La prima persona che ho incontrato…”
+
+Il capitano Blande era considerato uno degli ufficiali più importanti.
+
+#Nell’esercito britannico… e devo dire il più stupido di tutti.
+
+#Finali strategici. Certo, ha un aspetto magnifico… come se…
+
+La statua di Ercole in cristallo di rocca, e praticamente altrettanto utile ai tempi di.
+
+War… Una volta ho usato la parola “chryselephantine”, che significa oro e…
+
+“Avorio… e lui pensò che lo stessi chiamando ‘elefantino’.” Classico.
+
+L’[[Education|educazione]] del vero signore. Beh, l’uomo che gli fu messo accanto era.
+
+Il conte Kranz, lo scienziato e riformatore sociale ungherese. Lui
+
+Parla ventisette lingue, compresa quella filosofica. Io
+
+Mi chiedevo in quale lingua parlasse con il Capitano Blande. Proprio poco dopo.
+
+Il conte era un altro tipo, simile a Blande… ma più cupo e scuro.
+
+#Più snello e vivace: un certo Wooster, proveniente dal Bengala
+
+#Reggimento. Anche il suo linguaggio sarebbe stato limitato: il verbo latino “polo”.
+
+Polos, polos: io gioco a polo, tu giochi a polo, lui gioca a polo…
+
+#Non gioca a polo… Ma proprio come il polo…
+
+Il titolo stesso faceva riferimento a un gioco asiatico, il cui origine si poteva rintracciare attraverso…
+
 
 
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_06" data-title="MrPond — Louis; and shouted as if on parade: (part 6)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="archetype/detective,archetype/lover,motif/poison,motif/rose,motif/time,motif/well,concept/doubt,concept/history,form/history,form/novel"></span>
@@ -18291,6 +23387,202 @@ laid out with [[Poison|poison]]--"
 
 Gahagan calmly.  "Most of us naturally sat like stone statues under
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Giungla di illuminazioni persiane e indiane… quindi c’era qualcosa di interessante.
+
+“Un certo fascino eurasiatico in quell’uomo, Wooster… Sembrava avere strisce scure sul corpo…”
+
+“Tigre… si potrebbe immaginarlo mentre plana attraverso la giungla… Quel paio…”
+
+Almeno sembravano un po' più abbinati; anche Kranz era di carnagione scura.
+
+Bello e attraente, con sopracciglia nere arcuate tipiche degli Assiri e… una lunga…
+
+Barba scura, che si dispiega come un ventaglio… o la coda a forchetta di un uccello. Io
+
+Si sedette accanto a lui e continuò la lettura di “Wooster” piuttosto bene; dall’altra parte.
+
+# Io ero Sir Oscar Marvell, il grande attore e regista… tutto davvero eccezionale.
+
+E alto, con quei riccioli tipici degli atleti olimpici e quel naso romano… Anche qui.
+
+#C’era una certa mancanza di sintonia… Sir Oscar Marvell non voleva.
+
+Parlare di qualsiasi cosa tranne che di Sir Oscar Marvell… e gli altri uomini non lo facevano.
+
+Non vogliono affatto parlare di Sir Oscar Marvell… Gli altri tre rimanenti…
+
+Il nuovo Sottosegretario agli Affari Esteri era Pitt-Palmer.
+
+Un giovane dall’aspetto estremamente freddo, simile alla statua di Augusto Cesare…
+
+#E infatti era abbastanza classico da poter citare…
+
+Classici, va bene… ma un cantante italiano il cui nome non ricordo…
+
+# Ricorda… e un diplomatico polacco il cui nome nessuno riusciva a ricordare
+
+Ricordatelo. E tutto il tempo mi dicevo: “Che cosa strana, ”
+
+Collezione!”.
+
+“Conosco questa storia,” disse Wotton con certezza. “Un anfitrione umoristico…”
+
+# Riunisce molte persone incompatibili, solo per il piacere di ascoltarle
+
+Si scontrarono. Fu fatto molto bene, in uno dei lavori di Anthony Berkeley.
+
+Storie di [[Detective|detectivi]].
+
+“No,” rispose Gahagan. “Penso che la loro incompatibilità fosse davvero evidente…”
+
+Casuale… e so che Crome non l’ha utilizzato per crearli.
+
+#Una disputa inaspettata… In realtà, era un ospite davvero molto abile nel gestire le situazioni.
+
+Si potrebbe dire più correttamente che impedì loro di litigare. Lo fece davvero.
+
+Lo fa anche in modo abbastanza astuto, iniziando a parlare di eredità e tradizioni familiari…
+
+“Gemme di famiglia e simili… Per quanto diverse fossero, la maggior parte di esse…”
+
+Benestante, e appartenente a quella che si definisce una buona famiglia; più o meno insomma.
+
+“Quanto più possibile vicini a un terreno comune… Il Polo, che era…”
+
+Una persona piuttosto calva ma aggraziata, con modi davvero affascinanti… e molto di più.
+
+Il uomo più spiritoso al tavolo stava raccontando una storia divertente…
+
+Le avventure di una medaglia di Sobieski quando finì per prima volta nelle mani…
+
+Di un ebreo, poi di un prussiano, e infine di un cosacco. In
+
+In contrasto al Polo, che era calvo e loquace, l’italiano…
+
+Dietro di lui c’era il silenzio, e un’atmosfera piuttosto cupa… sotto quella sua folta chioma nera.
+
+Capelli.
+
+"#Un anello davvero interessante che indossi, Lord..."
+
+“Crome,” disse educatamente il Polacco. “Quei pesanti anelli, di solito…”
+
+#Storico… Penso che mi piacerebbe davvero indossare un anello vescovile.
+
+O, meglio ancora, un anello papale… Ma poi ci sono tutte quelle altre possibilità…
+
+# Preliminari noiosi per diventare Papa… che includono il celibato.
+
+E io. Lui scrollò le spalle.
+
+“Molto fastidioso, senza alcun [[Doubt|dubbio]],” disse Lord Crome, sorridendogli in modo cupo.
+
+Per quanto riguarda questo anello qui – beh, in un certo senso è piuttosto interessante.
+
+“Quel tipo di comportamento tipico delle famiglie, ovviamente… Non conosco i dettagli, ma…”
+
+“È chiaramente del XVI secolo… Vuoi darci un’occhiata?” E lui…
+
+# Ha fatto scivolare un pesante anello con una pietra rossa dal dito e l’ha passato...
+
+“Verso il Polo… che si trovava accanto a lui e stava accumulando sabbia intorno a sé. Come si è scoperto in seguito…”
+
+Titolo:  
+Decorato con un insieme di rubini estremamente fini e intagliato con…
+
+Il dispositivo centrale di un cuore all’interno di una [[Rose|rosa]]. L’ho visto con i miei occhi.
+
+Il foglio fu passato intorno al tavolo; c’erano alcune scritte in caratteri antichi…
+
+Francese, il che significava qualcosa del genere: “Solo e esclusivamente dal [[Lover|amante]], e solo per lui”.
+
+Il benamato.
+
+“Una [[Romance|storia d’amore]] nella storia della tua famiglia, immagino?” suggerì il.
+
+Conte ungherese… E intorno al XVI secolo… Ma voi non…
+
+“Conosci questa storia?”
+
+“‘No,’ disse Crome, ‘ma suppongo che fosse, come dici tu, una [[Romance|storia d’amore]], ’”
+
+La famiglia.
+
+#Parlarono di romanzi del XVI secolo…
+
+Titolo:  
+“La lunghezza… e infine Crome chiese molto cortesemente se tutti fossero d’accordo…”
+
+“Ho visto l’anello.”
+
+“Oh,” esclamò Wotton, con un profondo respiro, proprio come un ragazzo alle scuole…
+
+#"La performance di un mago". "Comunque, conosco questa storia... Questa è..."
+
+Storia per una rivista, se vi piace… L’anello non è stato restituito.
+
+Ognuno fu perquisito, o qualcuno rifiutò di essere perquisito…
+
+C’era qualche motivo terribilmente romantico per cui rifiutava di farlo…
+
+Cercato.
+
+“Hai ragione,” disse Gahagan. “Ragione, fino a un certo punto… Quel anello…”
+
+Non fu restituito. Tutti fummo perquisiti. Tutti insistemmo nel voler…
+
+Fu effettuata un'ispezione. Nessuno si rifiutò di essere controllato. Ma l'anello era scomparso.
+
+#Gahagan si agitò in modo piuttosto irrequieto e spinse il gomito contro lo schienale
+
+# Dalla sua sedia; dopo un momento continuò:
+
+#"Per favore, non pensate che non abbia provato tutto ciò che dite; che noi sembrassimo..."
+
+Ho iniziato a leggere un [[Novel|romanzo]]; e non è proprio un tipo di [[Novel|romanzo]] molto “tradizionale”. Ma.
+
+La differenza era proprio quella che dice Pond: che il [[Novel|romanzo]] non lo faceva.
+
+Finì nel modo giusto, ma sembrava che continuasse in qualcos’altro… Noi avevamo…
+
+Appena siamo arrivati alla fase del caffè durante la cena, quando è iniziato tutto questo trambusto…
+
+#Si discuteva della prima scoperta della perdita… Ma tutto ciò…
+
+La procedura di ricerca era davvero molto rapida e semplice…
+
+Il caffè non era ancora raffreddato quando…
+
+“Ci fu chi propose di ordinarne ancora… Tutti dicemmo che certo, sì.”
+
+Non aveva importanza… ma Crome chiamò il maggiordomo che lo stava consegnando.
+
+#Rondi; e sussurravano tra loro di qualcosa che chiaramente era piuttosto…
+
+# Conversazione agitata. Poi, proprio mentre Pitt-Palmer stava alzando…
+
+Con la tazza di caffè alle labbra, Lord Crome si alzò di scatto, rigido e teso.
+
+“E gridò, come il schiocco di una frusta…”
+
+“Signori, non toccate questo caffè. È avvelenato.”
+
+“Ma lasciamo perdere,” intervenne Wotton, “quella è un’altra storia!”
+
+"Dico io, Gahagan… sei sicuro di non aver sognato tutto questo? Dopo…"
+
+# Scorrendo una pila di riviste scadute e confondendole tutte
+
+I risultati? Certo che conosciamo quella storia riguardante un’intera azienda…
+
+Disposto con [[Poison|veleno]].
+
+“Nei casi come questo, i risultati sono stati davvero straordinari,” disse
+
+"Gahagan disse con calma: ‘La maggior parte di noi, naturalmente, rimaneva seduta come statue di pietra…’"
 
 
 
@@ -18899,6 +24191,191 @@ about them; perhaps to see them as they were.  They were no longer
 
 incongruous but grotesquely congruous; as in a hideous camaraderie.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+A modo pagano, era in un certo senso un [[Hero|eroe]]. Forse era proprio così.
+
+Non a caso aveva quel volto freddo e deciso…
+
+Maschera di pietra di Augusto. Prima di tutto, scelse quella semplice ma…
+
+#Un modo sensato per infilare l’anello nel suo caffè nero…
+
+# Un gesto per aggiungere zucchero… Lì non sarebbe stato visto.
+
+Per il momento, comunque… e poteva tranquillamente offrirsi volontario per farlo.
+
+#Cercato… Quel momento folle, che sembrò davvero cambiare tutto.
+
+“Tutto si trasformò in un terribile incubo, quando Crome gridò…”
+
+Il caffè era avvelenato… Era soltanto il disperato contrattacco di Crome.
+
+# Quando capì il trucco… per assicurarsi che il caffè venisse preparato correttamente
+
+Essere lasciato [[Alone|solo]] significava che l'anello sarebbe stato recuperato. Ma quel giovane con il.
+
+“Meglio una faccia fredda che morire in quel modo terribile… ingoiando.”
+
+#Il pesante anello e l’asfissio… nella speranza che il suo segreto…
+
+# Il segreto di Lady Crome potrebbe ancora rimanere ignorato…
+
+Una speranza disperata, comunque… Ma tra tutte le possibilità che gli si offrivano, quella…
+
+Essendo il suo obiettivo, probabilmente era la scelta migliore che potesse fare. In
+
+“In ogni caso, ritengo che tutti noi dovremmo sostenere Gahagan nel dire… molto chiaramente.”
+
+Appropriatamente, affinché la povera memoria di quel ragazzo potesse essere protetta.
+
+Titolo:  
+Qualsiasi suggerimento più banale… e che un gentiluomo certamente non sia…
+
+Un ladro che preferisce soffocarsi con il proprio anello.
+
+#Il signor Pond tossì delicatamente, avendo concluso il suo argomento…
+
+Chiuso. E Sir [[Hubert]] Wotton continuò a fissarlo, ancora più intensamente.
+
+Confuso dalla soluzione tanto quanto dal problema. Quando si [[Rose|alzò]] in piedi.
+
+Si alzò lentamente in piedi, con l’aria di chi si stesse scuotendo di dosso qualcosa…
+
+#Qualcosa che rimaneva comunque un incubo malvagio, anche quando ne era consapevole…
+
+Si era verificato.
+
+“Beh, devo andare comunque,” disse, con un tono di riluttanza.
+
+Sollievo, “Devo andare a Whitehall, e temo di essere già in ritardo.”
+
+# Per inciso, se quello che dici è vero, questo deve essere successo molto tempo fa…
+
+Di recente. Per quanto ne so, la notizia del [[suicide|suicidio]] di Pitt-Palmer non è ancora stata diffusa.
+
+Non è ancora arrivato, almeno non stamattina.
+
+“È successo la scorsa [[Night|notte]],” disse Gahagan, alzandosi dalla sedia.
+
+lì dove si era sdraiato, per salutare il suo amico.
+
+Quando Wotton se ne fu andato, un lungo [[Silence|silenzio]] calò sugli altri due.
+
+Amici che rimasero a guardarsi l’un l’altro con espressione grave.
+
+“È successo la scorsa [[Night|notte]]”, ripeté Gahagan. “Ecco perché te l’ho detto, ”
+
+# C’entra qualcosa con quello che è successo stamattina… Ho capito.
+
+“Sposato con Joan Varney stamattina.”
+
+“Sì,” disse gentilmente il signor Pond. “Credo di aver capito.”
+
+“Sì, penso che tu lo faccia,” disse Gahagan, “ma proverò comunque.”
+
+#Spiegalo, per l’amor del cielo… Sai che c’era una cosa ancora più importante?
+
+Peggio della [[Death|morte]] di quel povero ragazzo? Me ne sono reso conto solo quando.
+
+A mezzo miglio da quella maledetta [[house|casa]]. Ora capivo perché ero stato uno di loro.
+
+Gli ospiti.
+
+Stava in piedi, a fissare fuori dalla [[Window|finestra]], con la sua larga schiena rivolta verso l’esterno.
+
+Si voltò verso il laghetto; e dopo quelle ultime parole rimase in silenzio.
+
+Continuava a fissare il paesaggio tempestoso fuori dalla finestra… Forse.
+
+Qualcosa al suo interno risvegliò un'altra [[Memory|memoria]]; perché quando parlò di nuovo, fu.
+
+Era come se avesse iniziato un nuovo argomento, anche se si trattava in realtà di un altro aspetto della stessa questione.
+
+Lo stesso.
+
+“Non ti ho detto molto riguardo al tipo di festa in giardino che si terrà, ”
+
+“Con i cocktail che hanno bevuto quel pomeriggio prima di cena…”
+
+# Perché ritenevo che solo comprendendo il culmine si potesse davvero…
+
+#Riuscire a realizzare qualcosa? Sembra solo un vano discorrere…
+
+Ma ieri il tempo era davvero strano…
+
+È ancora così; solo che allora c'era più tempesta, e penso che la [[Storm|tempesta]] sia ormai passata.
+
+“Ora è finito… E l’atmosfera in quel momento era davvero strana…”
+
+Il tempo era solo una coincidenza, ovviamente… A volte succede proprio così.
+
+“Le condizioni meteorologiche fanno sì che gli uomini si rendano più consapevoli dei valori morali”
+
+Condizioni strane. C'era un cielo strano, cupo e pallido sopra il [[Garden|giardino]].
+
+Nonostante ci fosse una discreta quantità di sole intermittente… quasi come…
+
+Capriccioso come la [[Lightning|luce fulminante]]. Un enorme cumulo di nuvole, colorato.
+
+Come inchiostro e indaco, emergeva alle spalle della pallida facciata ornata di colonne…
+
+Della [[house|casa]], che era ancora illuminata da una debole luce; e io.
+
+# Ricordo ancora di essere stato turbato da quell’idea infantile riguardo a Pitt…
+
+Palmer era una statua di marmo pallido, parte integrante dell’edificio stesso. Ma…
+
+Non esisteva nulla altro che potesse fornire indizi su quel segreto; nessuno riusciva a…
+
+Si diceva che Lady Crome fosse come una statua; perché, in un attimo, volò via…
+
+“Si pavoneggia come un uccello del paradiso… Ma, che ci crediate o no…”
+
+# Oppressione fisica e mentale
+
+# E soprattutto psichico… aumentò quando lo facemmo.
+
+#All’interno e le tende del salotto ci isolano da qualsiasi vista reale…
+
+La vista della [[Storm|tempesta]]. Erano tende vecchio stile, di un rosso scuro.
+
+Con pesanti frange dorate; e sembrava che tutto fosse immerso in un’atmosfera di lusso e splendore.
+
+Nello stesso colore. Avrete sentito parlare di persone che vedono il rosso in modo diverso; beh, quello che voglio dire.
+
+Il colore era un rosso scuro. È il meglio che riesca a descrivere quella sensazione…
+
+È stato un sentimento che è emerso fin dal primo momento; e non ho indovinato nulla.
+
+"#E poi quella cosa sinistra e disgustosa accadde davanti ai miei occhi"
+
+# Alla tavola; vedo il vino rosso scuro nei decanter…
+
+# La luce fioca delle lampade… Eppure sembrava ancora che io fossi…
+
+Invisibile e impersonale… A malapena mi rendevo conto di esistere.
+
+Naturalmente, tutti noi abbiamo dovuto rispondere a alcune domande su di noi stessi… ma io…
+
+Non c’è bisogno di raccontarvi dell’intero trambusto ufficiale che ne è seguito…
+
+Le tracce della [[Tragedy|tragedia]]. Non ci volle molto tempo, poiché erano così evidenti.
+
+Ovviamente si trattava di un caso di [[suicide|suicidio]]; e la festa finì, con tutti che se ne andavano ognuno per conto proprio.
+
+Nella tempestosa [[Night|notte]], attraverso il [[Garden|giardino]].] Mentre si allontanavano, loro.
+
+Sembrava aver assunto nuove forme, nuovi contorni… Tra il calore…
+
+Di [[Night|notte]], la terribile [[Death|morte]] e quella densa nebbia di odio assassino.
+
+In cui avevamo cercato di respirare, iniziai a vedere qualcos’altro
+
+#Su di loro; forse per vederli così come erano realmente. Non erano più…
+
+Incongruo, ma in modo grottescamente coerente, come in una orribile forma di “camaraderia”.
 
 
 
@@ -21084,7 +26561,7 @@ e maledisse l'altro sventurato trovatore, che aveva scalato la sua
 
 romantica scala di corda di [[Leaves|foglie]], esattamente come l'aveva scalata
 
-lui stesso.
+Se stesso.
 
 «In quell'istante l'intera situazione divenne finalmente chiara; perché
 

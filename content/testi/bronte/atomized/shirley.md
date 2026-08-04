@@ -51701,6 +51701,257 @@ on those who indulge in them, and, what is far worse, on the sacred
 institution of which they are merely the humble appendages."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+pronunciato “velo”, “fermo”, “elmo”, “[[Storm|tempesta]]”; e utilizzando anche altri metodi del genere.
+
+La rappresaglia, come conseguenza naturale della raffinatezza innata delle loro menti.
+
+
+
+# Questo, ovviamente, non andrebbe bene. Malone, essendo né di buon carattere né…
+
+# Impassibile, ma in quel momento travolto da una furia incontrollabile, gridava con voce tonante.
+
+“Gesticolò; Donne e Sweeting risero. Li denigrò chiamandoli Sassoni…”
+
+“Snobbi che, con le loro voci alte e celtiche, lo prendevano in giro…”
+
+#Nato in una terra conquistata… minacciava di scatenare una ribellione.
+
+Il nome della sua “patria” esprimeva un odio amaro verso il dominio inglese; loro…
+
+Titolo:  
+Parlava di stracci, povertà e peste… La piccola stanza era in…
+
+# Trambusto; si sarebbe pensato che una duella dovesse seguire un simile insulto violento…
+
+Sembrava davvero uno [[Wonder|miracolo]] che il signor e la signora Gale non si fossero allarmati di fronte a ciò.
+
+# Rumore e chiamata di un poliziotto per ristabilire l’ordine… Ma loro…
+
+Abituati a tali dimostrazioni, sapevano bene che i curati non lo facevano mai.
+
+# Mangiarono o bevvero il tè insieme, senza alcun tipo di attività fisica…
+
+“Erano piuttosto facili da gestire, considerando le conseguenze… sapendo che quelle liti burocratiche…”
+
+Anche se erano innocui e facevano molto rumore, alla fine non portavano a nulla.
+
+Che, a qualsiasi condizione i curatori decidessero di separarsi quella [[Night|notte]], sarebbe stato così.
+
+Sicuramente incontrerò i migliori amici del mondo domani mattina.
+
+
+
+Mentre quella nobile coppia sedeva accanto al fuoco in cucina, ascoltando.
+
+# Ripetuti e sonori colpi del pugno di Malone contro il piano di mogano
+
+# Alla tavola del salotto… e al conseguente rumore e tintinnio…
+
+“Decanter e bicchieri, dopo ogni attacco… al riso beffardo di…”
+
+#I contendenti inglesi alleati e la balbettante declamazione di…
+
+# Isolato nell’Hibernia… Mentre erano seduti lì, si udì il passo di qualcuno all’esterno
+
+Alla porta d’ingresso, il campanello tremò per un richiamo deciso.
+
+
+
+Il signor Gale andò ad aprire.
+
+
+
+“Chi c’è di sopra, nel salotto?” chiese una voce… piuttosto…
+
+Una voce straordinaria, dal tono nasale, con un modo di esprimersi brusco.
+
+
+
+“Mr. Helstone… è davvero lei, signore? Non riuscivo quasi a vederla…”
+
+Oscurità. È già così tardi. Vuole entrare, signore?
+
+
+
+"#Voglio sapere prima se ne vale la pena entrare… A chi appartiene?"
+
+“Sei di sopra?”
+
+
+
+“I curatori, signore.”
+
+
+
+“Cosa! Tutti quanti?”
+
+
+
+“Sì, signore.”
+
+
+
+“Hai mangiato qui?”
+
+
+
+“Sì, signore.”
+
+
+
+“Va bene così.”
+
+
+
+Con queste parole entrò una persona: un uomo di mezza età, vestito di nero.
+
+# Attraversò dritta la cucina fino a una porta interna, la aprì e… inclinò il capo.
+
+Con la testa china in avanti, stava in ascolto. C’era davvero qualcosa da ascoltare.
+
+Perché il rumore sopra era in quel momento più forte che mai.
+
+
+
+“Ehi!” esclamò tra sé; poi, rivolgendosi al signor Gale: “Lei…”
+
+“Spesso si svolgono questo tipo di lavori?”
+
+
+
+Il signor Gale era stato un sacrista e dimostrava grande tolleranza verso il clero.
+
+
+
+“Sono giovani, sa, sono ancora giovani,” disse lui con tono di rammarico.
+
+
+
+“Giovani! Vogliono essere puniti con la frusta… Cattivi ragazzi… Cattivi ragazzi! E se tu fossi uno di loro…”
+
+# Dissidente, John Gale: invece di essere un buon fedele della Chiesa…
+
+“Come se si esponessero loro stessi… Ma io farò…”
+
+
+
+#Attraverso la porta interna…
+
+Lo seguì, salendo le scale. Di nuovo, ascoltò per un po’…
+
+#I minuti in cui arrivò nella stanza superiore… Entrando senza…
+
+Avvertenza: si trovava davanti ai curati.
+
+
+
+E rimasero in silenzio; erano sbalorditi; lo stesso valeva per l’invasore.
+
+#Un personaggio di statura bassa, ma dritto e deciso…
+
+“Spalle larghe, testa, becco e occhio da falco… tutto sovrastato da…”
+
+# Rehoboam… o quel cappello a forma di pala che, a quanto pare, non riteneva necessario indossare.
+
+Titolo:  
+Ripiegare prima di rimuovere, davanti alla presenza in cui si trovava… Lui lo ripiegò.
+
+Con le braccia incrociate sul petto, osservava i suoi giovani amici… se davvero erano amici.
+
+Erano, molto a loro agio.
+
+
+
+“Che!” esclamò, pronunciando le parole con una voce ormai non più nasale…
+
+# Profondo… più che profondo… una voce resa intenzionalmente vuota e…
+
+#Cavernoso… “Che cosa! Il miracolo di Pentecoste si è ripetuto? È davvero possibile?”
+
+“Lingue divise… tornano di nuovo giù? Dove sono? Il suono riempiva l’aria…”
+
+L’intera [[house|>casa]] poco fa. Ho sentito tutte e diciassette le lingue parlare contemporaneamente.
+
+# I Parti, i Medi e gli Elamiti, gli abitanti della Mesopotamia…
+
+# Giudea, Cappadocia, Ponto e Asia, Frigia e Panfilia…
+
+[[Egypt|Egitto]] e nelle zone della Libia vicino a Cirene: stranieri di Roma, Ebrei.
+
+# E proseliti, Cretesi e Arabi; ognuno di questi deve aver avuto…
+
+Il suo rappresentante è arrivato in questa stanza due minuti fa.
+
+
+
+“Mi scusi, signor Helstone,” iniziò il signor Donne; “si sieda, per favore.”
+
+Signore, vuole un bicchiere di vino?
+
+
+
+Le sue cortesie non ricevettero risposta. Il falco nel mantello nero
+
+Proseguì…
+
+
+
+“Di cosa posso parlare del dono delle lingue? Un dono, davvero… Ma l’ho frainteso.”
+
+# Capitolo, libro e Testamento: il vangelo sopra la legge, gli Atti sopra la Genesi…
+
+La città di Gerusalemme in cambio della pianura di Sinar. Non era certo un dono, ma.
+
+“Confusione di lingue che mi ha reso sordo come una trave… Tu.”
+
+Apostoli? Cosa! Voi tre? Assolutamente no; tre presuntuosi… babilonesi.
+
+Muratori, né di più né di meno!
+
+
+
+#"Vi assicuro, signore, che stavamo semplicemente chiacchierando insieme..."
+
+Un bicchiere di vino dopo una cena amichevole, per placare i dissidenti!
+
+
+
+“Oh! Stavi sistemando quei dissidenti, vero? Era Malone ad occuparsi di loro…”
+
+Dissenzienti? A mio parere, sembrava più un modo per sistemare i suoi co-apostoli.
+
+# Voi tre stavate litigando, facendo un rumore altrettanto forte…
+
+[[Alone|Da solo]]—come Mosè Barraclough, quel sarto predicante, e tutti i suoi ascoltatori.
+
+Titolo:  
+Si stanno svolgendo nella chiesa metodista laggiù… dove si tengono le riunioni.
+
+Una rinascita così intensa. So di chi è la colpa: è tua, Malone.
+
+
+
+“Mie, signore?”
+
+
+
+"#Tuo, signore. Donne e Sweeting erano in silenzio prima del tuo arrivo, e lo rimarranno..."
+
+“Silenzio… se solo te ne fossi andato. Vorrei che, quando hai attraversato la Manica, tu…”
+
+Hai lasciato alle spalle le tue abitudini irlandesi. I modi tipici degli studenti di Dublino non funzionano qui.
+
+# I procedimenti che potrebbero passare inosservati in una palude selvaggia e tra le montagne
+
+"In un rispettabile distretto parrocchiale inglese, ciò rappresenterebbe una vera vergogna."
+
+# Su coloro che se ne abbandonano, e, cosa ancora peggiore, su ciò che è sacro
+
+Instituzioni delle quali non sono altro che umili appendici.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_04" data-title="Shirley — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/blood,motif/flowers,motif/night,motif/time,motif/well,concept/faith,concept/history,concept/wonder,form/history"></span>
@@ -52152,6 +52403,201 @@ made his exit, clearing the stairs at a stride or two, and making the
 
 [[house]] shake with the bang of the front-door behind him.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Davy, nel tuo cranio esiste un enorme organo del [[Wonder|stupore]]. Malone, tu, ”
+
+“Vedi… non gli interessano né i delitti né le visioni. Guarda quanto sia grande…”
+
+Saph è vuoto in questo momento. Lo guarda.
+
+
+
+“Saph! Ma chi era Saph, signore?”
+
+
+
+“Pensavo che non lo sapresti… Forse lo scoprirai… È una citazione biblica…”
+
+Non so nulla di più su di lui se non il suo nome e la sua razza; ma fin da quando ero ragazzo…
+
+#Saph: una personalità unica e indiscutibile
+
+Onesto, pesante e sfortunato… Trovò la sua fine a Gob, per mano di…
+
+“Sibbechai.”
+
+
+
+“Ma quella visione, signore?”
+
+
+
+#"Davy, ascolta: Donne sta mordendosi le unghie, mentre Malone sbadiglia..."
+
+# Solo a te lo dirò… Mike è senza lavoro, come molti altri.
+
+Sfortunatamente, il signor Grame, maggiordomo di Sir Philip Nunnely, gli offrì un lavoro.
+
+#Sul priorato… Secondo quanto racconta, Mike era impegnato a effettuare operazioni di hedging.
+
+Verso tarda sera, ma prima che calasse il buio, quando sentì ciò che pensava…
+
+Si udiva una banda in lontananza: trombe, flauti e il suono di un corno…
+
+Veniva dalla foresta, e si chiedeva come mai ci potesse essere musica lì dentro.
+
+Alzò lo sguardo. Tra gli alberi vide oggetti in movimento, di colore rosso…
+
+“Papaveri, bianchi come i fiori di maggio… Il bosco ne era pieno.”
+
+#Scorse fuori e riempì il parco… Poi si rese conto che erano…
+
+Soldati… migliaia e decine di migliaia; ma non fecero alcun rumore.
+
+Più di uno stormo di zanzare in una serata estiva. Si disposero in formazione ordinata. Lui.
+
+Affermati e marciati, reggimento dopo reggimento, attraverso il parco… Lui.
+
+Li seguì fino a Nunnely Common; la musica continuava a suonare dolcemente…
+
+Lontani… Sul prato li osservava mentre compivano una serie di azioni…
+
+Evoluzioni. Un uomo vestito di rosso si trovava al centro e dirigeva…
+
+“Loro… Si estendevano per oltre cinquanta acri; erano visibili a occhio nudo.”
+
+Mezz’ora dopo, se ne andarono in silenzio. Per tutto il [[Time|tempo]].
+
+Non si udiva alcuna voce, né alcun passo… Solo quella debole musica che suonava in lontananza.
+
+“Marscia solenne.”
+
+
+
+“Dove sono andati, signore?”
+
+
+
+#"Verso Briarfield. Mike li seguì; sembrava che stessero superando Fieldhead..."
+
+# Quando una colonna di fumo, simile a quella che potrebbe emettere un intero reggimento di artiglieria…
+
+Si diffondeva silenziosamente sui campi, sulla [[Road|strada]], nei luoghi aperti, e rotolava avanti.
+
+Disse, blu e sfocato, proprio ai suoi piedi. Quando si dissipò, guardò di nuovo.
+
+“Per i soldati… ma erano scomparsi; non li vide più.” Mike
+
+Come il saggio Daniele, non solo ripeté ciò che aveva visto nella visione, ma ne fornì anche una spiegazione dettagliata.
+
+# Interpretazione di ciò. Significa, suggerì, spargimento di sangue e conflitti civili.
+
+“Conflitto.”
+
+
+
+“Ci credete davvero, signore?” chiese Sweeting.
+
+
+
+“Lo fai davvero, Davy?. Ma suvvia, Malone, perché non te ne vai?”
+
+
+
+“Sono piuttosto sorpreso, signore: non siete rimasto con Moore di persona…”
+
+Qualcosa del genere.
+
+
+
+#"Avrei dovuto farlo, se solo non fossi stato sfortunatamente impegnato..."
+
+Boultby verrà a cena da me sulla strada di [[Home|casa]] dopo la riunione della [[Bible|Società Biblica]].
+
+“Nunnely… Ti ho promesso di mandarti come mio sostituto; a proposito…”
+
+Non mi ringraziò. Avrebbe preferito avere me piuttosto che te, Peter.
+
+"#Se mai dovesse esserci davvero bisogno di aiuto, vi sarò accanto. La campana del mulino..."
+
+Darà un avviso. Nel frattempo, andate, a meno che (voltandosi improvvisamente ai signori, )
+
+# Dolciumi e Donne – a meno che Davy Sweeting o Joseph Donne non preferiscano altro
+
+“Va bene… Che ne dite, signori? La commissione è onorevole.”
+
+#Non senza il pizzico di vero pericolo… poiché il paese è in…
+
+“Uno stato strano, come tutti sapete… e Moore, la sua fabbrica e le sue macchine.”
+
+#Sono oggetto di un odio sufficientemente profondo… Esistono sentimenti cavallereschi, ma…
+
+Un coraggio ardente, nascosto sotto quei gilet di voi, ne sono sicuro.
+
+“Forse sono troppo affezionato al mio preferito Peter… Il piccolo David sarà…”
+
+Il campione… o il purissimo Joseph. – Malone, sei soltanto un grande…
+
+“Saul che barcolla… Alla fine, utile solo per prestare la propria armatura. Via con essa!”
+
+Armi da fuoco, prendi il tuo shillelah. È lì, nell’angolo.
+
+
+
+Con un sorriso smagliante, Malone estrasse le sue pistole e ne offrì una a…
+
+Ognuno dei suoi fratelli… Non furono facilmente catturati. Con grazia…
+
+Con modestia, ogni gentiluomo si allontanò di un passo dall’arma presentata.
+
+
+
+“Non le tocco mai. Non ho mai toccato nulla del genere,” disse il signor.
+
+Donne.
+
+
+
+“Sono quasi uno sconosciuto per il signor Moore,” mormorò Sweeting.
+
+
+
+“Se non hai mai toccato una [[Pistol|pistola]], prova ora a sentirla. Grande satrapo, ”
+
+[[Egypt|Egitto]]. Per quanto riguarda quel piccolo menestrello, probabilmente preferisce incontrare.
+
+Filistei che non avevano altra arma se non la loro flauta. Prendete i cappelli, Peter.
+
+Entrambi se ne andranno.
+
+
+
+“No, signore; no, signor Helstone. Mia madre non lo approverebbe,” supplicò.
+
+Dolcetto.
+
+
+
+“E ho preso l’abitudine di non immischiarmi mai in simili faccende.”
+
+Le donne osservate.
+
+
+
+Helstone sorrise in modo sarcastico; Malone rise di una risata fragorosa, come quella di un cavallo. Poi.
+
+# Gli sostituì le braccia, prese il suo cappello e il suo bastone, e disse che “mai più…”
+
+Titolo:  
+Sentiva di essere più pronto per una bella avventura nella sua vita… e desiderava ardentemente che accadesse qualcosa di interessante.
+
+“Quella [[Night|notte]], dei servitori in abiti di stoffa grassa avrebbero potuto distruggere le stanze di Moore,” disse lui.
+
+#Si allontanò rapidamente, salendo le scale con passi decisi…
+
+La [[house|casa]] tremò per il rumore della porta d’ingresso che si chiudeva alle sue spalle.
 
 
 
@@ -53064,6 +53510,190 @@ empty name, of no value in the eyes of many, because their sight was dim
 
 with famine; and for a morsel of meat they would have sold their
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Quando sorride, i tratti del suo viso appaiono piacevoli… ma non solo.
+
+# Che sia franco o allegro anche in quei momenti, ma si percepisce comunque l’influenza di…
+
+# Una certa grazia tranquilla, che suggerisce, sia realmente che illusoriamente, una…
+
+Si tratta, forse, di un tipo di [[Nature|>natura]] di sentimenti che possono manifestarsi in modo positivo.
+
+[[Home|Casa]]: sentimenti di pazienza, tolleranza, forse anche di fedeltà. Lui è ancora lì.
+
+Giovane – non più di trent’anni; di statura alta, con una figura snella.
+
+Il suo modo di parlare è sgradevole; ha un accento stravagante che…
+
+Nonostante una deliberata negligenza nella pronuncia e nell’uso delle parole…
+
+Rende sgradevole l’ascolto per un britannico, soprattutto per uno dello Yorkshire.
+
+
+
+#Il signor Moore, in realtà, era solo a metà britannico… e forse nemmeno tanto. Proveniva da…
+
+#Un'ascendenza straniera per parte di madre… e lui stesso nato e in parte…
+
+Cresciuto su terra straniera, un ibrido nella [[Nature|>natura]], è probabile che avesse.
+
+# I sentimenti dell’ibrido su molti aspetti… tra cui il patriottismo; è probabile che…
+
+#Non era adatto a legarsi a gruppi, sette, né tantomeno a determinati ambienti o climi.
+
+#"Dogane: non è impossibile che avesse la tendenza ad isolarsi..."
+
+Persona individuale proveniente da qualsiasi comunità all’interno della quale si svolga la sua esistenza…
+
+# Temporaneamente gettato via… e lui sentì che fosse la cosa migliore per lui.
+
+Titolo:  
+La saggezza di mettere i interessi di Robert Gérard Moore al primo posto, a scapito di tutto il resto
+
+# Considerazione filantropica per gli interessi generali
+
+#Considerato il suddetto Gérard Moore come in gran parte disconnesso dal contesto commerciale.
+
+Il destino ereditario del signor Moore: i Gérard di Anversa…
+
+Mercanti di due secoli fa… Un tempo erano mercanti ricchi e potenti.
+
+Ma le incertezze e le complessità legate agli affari avevano iniziato ad assillarli…
+
+Titolo:  
+Speculazioni disastrose avevano gradualmente indebolito le fondamenta delle loro…
+
+Crediti. Quella [[house|casa]] si reggeva su fondamenta instabili da un decennio; e.
+
+Finalmente, nel caos della [[French Revolution|Rivoluzione Francese]], tutto era andato in frantumi.
+
+Totale rovina. Nella sua caduta fu coinvolta la società inglese e dello Yorkshire…
+
+Moore, strettamente legato alla famiglia di Anversa, della quale uno dei membri.
+
+I coniugi, residenti ad Anversa, [[Robert Moore]] e Hortense, si erano sposati.
+
+Gérard, con la prospettiva che sua sposa erediti i beni di suo padre Constantine
+
+La quota di Gérard nell’affare. L’ha ereditata, come abbiamo visto… ma quella di lui.
+
+#"Partecipazione ai debiti della società; e questi debiti, sebbene regolarmente..."
+
+Alcuni dicevano che suo figlio Robert l’avesse messa da parte con un accordo con i creditori.
+
+Accettato, a sua volta, come eredità, e che un giorno aspirava a…
+
+Liberarli e ricostruire la caduta [[house|casa]] di Gérard e Moore su un.
+
+Una grandezza almeno paragonabile alla sua precedente magnificenza. Si pensava persino che.
+
+Prendeva molto sul serio le circostanze del passato; e se una [[Childhood|infanzia]] era trascorsa.
+
+Accanto a una madre cupa e minacciosa, con la premonizione di un male imminente…
+
+Un’età adulta bagnata e distrutta dal devastante impatto della [[Storm|tempesta]].
+
+#Potrebbe lasciare un’impressione profonda nella mente… ma la sua, probabilmente, non ne è stata affatto colpita.
+
+Caratteri dorati.
+
+
+
+Se, tuttavia, aveva in vista un grande obiettivo legato al recupero di qualcosa, non era certo quello…
+
+#Il suo potere di utilizzare mezzi estremi per raggiungere i suoi obiettivi. Fu costretto a farlo.
+
+Contento con le piccole cose della giornata… Quando arrivò in Yorkshire…
+
+#Coloro la cui discendenza possedeva magazzini in questo porto marittimo, e fabbriche
+
+In quella città dell’entroterra, possedevano la loro casa in città e.
+
+# Country Seat: Non gli rimase altra scelta se non affittare una tessitura…
+
+Angolo remoto in un quartiere isolato; prendere una casetta.
+
+Accanto ad esso, per stabilirvi la propria residenza e arricchire così le proprie proprietà…
+
+Terreni per pascolare il suo [[Horse|cavallo]] e spazio sufficiente per allestire le sue tende di stoffa, alcune acri di terreno.
+
+# La terra ripida e accidentata che costeggiava la valle attraverso cui…
+
+“Mill-stream brawled.” Tutto ciò che possedeva veniva affittato a un canone piuttosto elevato…
+
+# Tempi di guerra erano duri… e tutto era costoso
+
+La tenuta di Fieldhead, all’epoca proprietà di un minore.
+
+
+
+Nel momento in cui questa [[history|storia]] ha inizio, [[Robert Moore]] aveva vissuto soltanto due anni.
+
+Nel distretto, durante quel periodo in cui almeno si era dimostrato all’altezza delle aspettative…
+
+Titolo:  
+Dotato della qualità dell’attività… Quella casetta squallida fu trasformata.
+
+In una residenza ordinata e di buon gusto… Di quella parte di terreno incolto che aveva trasformato.
+
+Il terreno del [[Garden|giardino]], che coltivava con grande impegno, persino con metodi tipici fiamminghi.
+
+Esattezza e cura… Per quanto riguarda la macina, che era una struttura vecchia…
+
+Equipaggiato con vecchia attrezzatura, ora è diventato ineficiente e obsoleto.
+
+#Fin dal principio aveva dimostrato il più profondo disprezzo per tutto ciò…
+
+# Organizzazioni e appuntamenti. Il suo obiettivo era quello di realizzare un cambiamento radicale.
+
+La [[Reform|riforma]], che egli attuò nel più breve tempo possibile, data la sua estrema scarsità di risorse.
+
+“Permettere… e la strettezza di quella posizione dominante, nonché i limiti che ne derivavano per lui…”
+
+“Progresso… una restrizione che feriva profondamente il suo spirito. Moore lo sapeva bene.”
+
+Voleva andare avanti. “Avanti” era il messaggio inciso nella sua [[Soul|'anima]]; ma.
+
+La [[Poverty|povertà]] lo restringeva. A volte (in senso figurato), sbavava dalla rabbia quando.
+
+Le redini erano tese con molta forza.
+
+
+
+Con questo stato d’animo, non ci si può aspettare che lui…
+
+# Riflette a lungo se la sua mossa fosse o meno dannosa…
+
+Gli altri. Non essendo un madrelingua, né residente in quel luogo per un periodo di tempo prolungato.
+
+Nel suo quartiere, non prestava abbastanza attenzione alle nuove invenzioni…
+
+# Licenziò gli vecchi lavoratori, senza mai chiedersi dove…
+
+Coloro a cui non venivano più pagati salari settimanali trovavano comunque il pane quotidiano; e in…
+
+# Questa negligenza lo faceva assomigliare a migliaia di altre persone…
+
+Quel povero ragazzo affamato del Yorkshire sembrava avere più diritti su di essa.
+
+
+
+Il periodo di cui scrivo fu un periodo poco noto nella storia britannica.
+
+E soprattutto nella [[history|storia]] delle province settentrionali. All’epoca, la guerra era.
+
+Al suo apice, tutta Europa ne era coinvolta. Anche l’Inghilterra, sebbene non stancata…
+
+# Con lunga resistenza… sì, e metà della sua gente era anch’essa stanca.
+
+E gridò per la pace, a qualsiasi prezzo. L’[[Honour|'onore]] nazionale era diventato soltanto.
+
+Nome vuoto, privo di valore agli occhi di molti, poiché la loro vista è offuscata.
+
+Titolo:  
+Con la fame… e per un boccone di carne avrebbero venduto tutto ciò che avevano
 
 
 
@@ -54625,6 +55255,192 @@ lines, had a most anti-British and anti-Yorkshire look. These points
 seem frivolous, unlikely to influence a character like Yorke's; but the
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nella casa dove si facevano i conti, del commerciante della Piece Hall, avrebbe potuto esserci.
+
+Visse disprezzato e morì deriso, sotto gli occhi di Hiram Yorke.
+
+
+
+E poiché nel mondo ci sono molti Hiram Yorkes, è del tutto normale che.
+
+Un vero poeta, anche se esteriormente tranquillo, spesso nasconde un lato aggressivo o irascibile.
+
+#Sotto la sua apparente tranquillità si nasconde uno spirito astuto; nella sua umiltà c’è molta saggezza.
+
+# E può misurare appieno la vera natura di coloro che lo disprezzano…
+
+Determinare con precisione il peso e il valore di quelle attività che disprezzano
+
+“Gliene sono grata per non avermi seguito… È bello che possa trovare la sua felicità.”
+
+La sua stessa società, con il suo grande amico e la sua dea, [[Nature|Natura]], proprio così.
+
+Indipendentemente da coloro che non traggono alcun piacere da esso, e per i quali…
+
+Non trova alcun piacere in questo; è semplicemente che, mentre il mondo…
+
+In molte circostanze, mostri un lato oscuro e freddo… E, in effetti, è del tutto comprensibile.
+
+#Perché prima mostra loro un lato oscuro, freddo e indifferente… dovrebbe essere così.
+
+Capace di mantenere una luce festosa e un calore affettuoso nel proprio cuore.
+
+# Che rende tutto luminoso e piacevole per lui; mentre gli estranei, forse…
+
+Ritenete la sua esistenza come un [[Winter|inverno]] polare, mai illuminato dal sole. La verità è.
+
+Il poeta non merita affatto pietà, e anzi tende a ridere tra sé e sé.
+
+# Quando qualche simpatizzante ingannato si lamenta delle sue sfortune… Anche allora.
+
+Gli utilitaristi lo giudicano e condannano lui e la sua arte.
+
+“Inutile…”, sente pronunciare quella frase con un disprezzo così profondo, così evidente…
+
+# Un profondo, completo e spietato disprezzo per quei sfortunati farisei…
+
+# Pronunciate così: è piuttosto da rimproverare che da compiangere. Queste…
+
+Tuttavia, queste non sono le riflessioni del signor Yorke… E è proprio con il signor Yorke che dobbiamo parlare.
+
+Attualmente devo occuparmi di questo.
+
+
+
+# Alcuni dei suoi difetti te li ho già raccontati, lettore… Per quanto riguarda i suoi pregi, beh…
+
+Era uno degli uomini più onorevoli e capaci del Yorkshire; persino coloro che…
+
+Chi non lo apprezzava era costretto a rispettarlo. Era molto amato da tutti.
+
+Povero… perché era davvero gentile e molto affettuoso nei loro confronti. Verso di loro…
+
+#Un caposquadra gentile e affabile
+
+Occupazione… cercava sempre di distrarli facendoli concentrare su qualcos’altro, o, se questo non funzionava…
+
+# Era impossibile; aiutarli ad andarsene con le loro famiglie in un’altra zona.
+
+# Dove si potrebbe trovare lavoro… Va anche sottolineato che, se, come…
+
+A volte, tra le persone che gli stavano “sotto il controllo”, qualcuno mostrava segni…
+
+# Insubordinazione, York – chi, come molti che odiano essere controllati, sapeva…
+
+#Come controllare con fermezza: il segreto per soffocare qualsiasi ribellione
+
+Titolo:  
+Eradicare quel germe come una pianta infestante, affinché non si diffonda mai più…
+
+Sviluppato nell’ambito delle sue competenze. Tale è lo stato ideale.
+
+#"Di sua propria iniziativa, si sentì libero di esprimersi con la massima libertà."
+
+Titolo:  
+La gravità della situazione di coloro che si trovavano in condizioni diverse, e la conseguente attribuzione di qualsiasi responsabilità a loro…
+
+# In una posizione sgradevole, tutta colpa loro stessi… per tagliare i ponti
+
+#Libertà dagli oppressori, e difendere apertamente la causa della libertà
+
+agenti operativi.
+
+
+
+La famiglia del signor Yorke era la prima e più antica del distretto; e lui…
+
+Anche se non era il più ricco, era uno degli uomini più influenti. Lui…
+
+L’[[Education|istruzione]] che aveva ricevuto era stata ottima. Nella sua giovinezza, prima della [[French Revolution|Rivoluzione Francese]], lui.
+
+Aveva viaggiato nel Continente; era abile nella lingua francese…
+
+Lingue italiane. Durante un soggiorno di due anni in [[Italy|'Italia]], aveva raccolto.
+
+Molte belle opere d’arte e curiosità di pregio adornavano la sua residenza.
+
+Ora adornato… I suoi modi, quando lo desiderava, erano quelli di un vero gentiluomo.
+
+Un gentiluomo d’altra epoca: il suo modo di conversare, quando ne aveva voglia…
+
+“Please” era davvero un titolo interessante e originale… E se di solito…
+
+Si esprimeva nel dialetto dello Yorkshire perché lo aveva scelto volontariamente.
+
+"#Preferire la propria lingua madre al vocabolario più raffinato… 'A'"
+
+“La pronuncia tipica dello Yorkshire è decisamente migliore del balbettio dei londinesi”, affermò.
+
+Più simile al ruggito di un toro che al squittio di un topo.
+
+
+
+#Il signor Yorke conosceva tutti, e tutti lo conoscevano, in un raggio di chilometri intorno.
+
+# Poche erano le persone che lo conoscevano bene. Lui stesso, del resto…
+
+Originale… Non aveva alcun interesse per ciò che era ordinario: preferiva sempre qualcosa di audace e un po’ “ruvido”.
+
+“Un carattere, alto o basso che sia, non ha mai trovato accettazione da parte sua; una persona raffinata…”
+
+Odiava quei personaggi insipidi, per quanto elevati potessero essere nella loro posizione sociale.
+
+Sarei disposto a trascorrere un'ora in qualsiasi momento a parlare liberamente con un abile lavoratore.
+
+La sua stessa, o forse con qualche strana e saggia vecchia donna tra i suoi vicini di casa…
+
+# Quando avrebbe risentito anche solo un attimo per un comune gentiluomo…
+
+Per la signora più alla moda ed elegante… anche se forse un po’ frivola: le sue preferenze.
+
+In questi aspetti portò le cose all’estremo, dimenticando che potessero esistere altre possibilità.
+
+Personaggi amabili e persino ammirevoli tra coloro che non possono essere…
+
+# Originale… Eppure fece delle eccezioni alla sua stessa regola. C’era qualcosa…
+
+Ordine di pensiero semplice, schietto, privo di raffinatezza, quasi del tutto privo…
+
+Intelligenza… ma del tutto incapace di apprezzare ciò che c’era davvero.
+
+C'era un lato intellettuale in lui, ma che, allo stesso [[Time|tempo]], non provava mai disgusto per nulla.
+
+La sua rudezza non veniva facilmente ferita dal suo sarcasmo; non era particolarmente sensibile a queste cose.
+
+Analizzare i suoi detti, le sue azioni o le sue opinioni, che lo caratterizzavano in modo particolare…
+
+“Senza preoccupazioni, e quindi… quello che preferiva particolarmente. Era un signore.”
+
+Tra personaggi del genere… Loro, pur sottomettendosi implicitamente a lui…
+
+Influenza mai riconosciuta, perché nessuno rifletté mai su di essa…
+
+#Superiorità: erano abbastanza docili, quindi, senza correre rischi…
+
+Il pericolo più minore di diventare schiavi… e la loro mancanza di riflessione, la loro facilità, la loro ingenuità…
+
+L’insensibilità era per il signor Yorke tanto accettabile quanto comoda…
+
+Di quella sedia su cui sedeva, o di quel pavimento su cui camminava.
+
+
+
+Si sarà notato che non era del tutto freddo verso il signor.
+
+Moore. Aveva due o tre motivi per provare una leggera preferenza per lui…
+
+“Per quel gentiluomo… Può sembrare strano, ma il primo di questi fu proprio quello.”
+
+# Moore parlava inglese con un accento straniero, e francese in modo perfettamente puro.
+
+# Il suo volto scuro e magro, con linee delicate ma piuttosto emaciate…
+
+Linee che avevano un aspetto decisamente antibritannico e antisassone… Questi dettagli…
+
+# Sembrano frivoli, poco probabili di influenzare un personaggio come quello di Yorke… ma…
+
 
 
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="Shirley — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/lover,motif/cave,motif/love,motif/nature,motif/tears,motif/time,concept/doubt,concept/nature,concept/solitude"></span>
@@ -54818,6 +55634,198 @@ abused, by another, he conceived for that other a rooted and bitter
 
 animosity.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il fatto è che rievocavano vecchi ricordi, forse piacevoli…
+
+#Ripristinò i suoi viaggi, i giorni della sua giovinezza… Aveva visto, in mezzo a tutto ciò…
+
+Città e paesaggi italiani, volti simili a quelli di Moore; ne aveva sentito parlare a Parigi…
+
+Caffè e teatri… voci simili alla sua. Allora era giovane, e quando…
+
+Lo guardò e lo ascoltò; sembrava di nuovo giovane.
+
+
+
+In secondo luogo, conosceva il padre di Moore e aveva avuto rapporti con lui.
+
+“Un pareggio più sostanzioso, anche se di certo non più piacevole…”
+
+Poiché la sua azienda aveva rapporti commerciali con quella di Moore,…
+
+In qualche modo, anche lui è stato coinvolto nelle sue perdite.
+
+
+
+In terzo luogo, aveva riconosciuto in Robert un uomo estremamente abile nel campo degli affari. Lo capiva bene.
+
+# Una ragione per credere che, alla fine, in un modo o nell’altro…
+
+Guadagnare denaro… E rispettava sia quella determinazione che la sua acutezza… Forse…
+
+Inoltre, la sua durezza… Una quarta circostanza che li avvicinò.
+
+Il titolo del signor Yorke è uno dei tutori della minore di cui…
+
+Il mulino di Estate Hollow si trovava lì; pertanto, nel corso dei suoi spostamenti…
+
+A causa dei suoi modifiche e miglioramenti, avevano spesso bisogno di consultarlo.
+
+
+
+Per quanto riguarda l’altro ospite presente nel salotto del signor Yorke, il signor Helstone…
+
+Tra lui e il suo ospite esisteva un'antipatia doppia; quell'antipatia.
+
+Della [[Nature|>natura]] e di quelle delle circostanze. Il pensatore libero odiava tutto ciò.
+
+Un formalista; l’[[Lover|amante]] della libertà odiava chi imponeva la disciplina. Inoltre.
+
+Si diceva che in anni passati fossero stati rivali nell’affetto della stessa donna.
+
+Signora.
+
+
+
+#Il signor Yorke, da giovane, era noto per la sua preferenza…
+
+Donne vivaci e affascinanti: una figura elegante e scattante, un umorismo vivace…
+
+La sua abilità nel parlare sembrava essere ciò che lo attirava di più; tuttavia, non propose mai nulla concreto.
+
+A qualunque di queste splendide donne il cui compagnia cercava… e tutte insieme.
+
+Una volta che si innamorò seriamente di una ragazza e iniziò con fervore ad corteggiarla.
+
+Presentava un completo contrasto rispetto a quelle che aveva notato fino ad allora… una ragazza.
+
+Con il viso di una Madonna; una ragazza di marmo vivido… immobilità.
+
+Personificato… Nonostante ciò, quando le parlava, lei rispondeva soltanto a lui.
+
+In sillabe singole… Nonostante i suoi sospiri sembrassero inascoltati, nonostante…
+
+Gli sguardi non venivano ricambiati; lei non rispondeva mai alle sue opinioni.
+
+Raramente sorrideva alle sue battute, non gli mostrava rispetto né attenzione; no.
+
+Titolo:  
+Nonostante sembrasse l’opposto di tutto ciò che rappresenta la femminilità per lui…
+
+Per tutta la sua vita era noto per il suo ammirazione. Per lui, Maria [[Cave|>Cava]] era perfetta.
+
+Perché, in qualche modo, per qualche motivo, senza alcun [[Doubt|>dubbio]], doveva esserci una ragione, lui amava.
+
+lei.
+
+
+
+Il signor Helstone, in quel momento parroco di Briarfield, amava anche Mary, o, per meglio dire.
+
+Comunque sia, lui la trovava attraente. Anche altri la ammiravano, perché lei era davvero bella.
+
+#Bella come un angelo maestoso… ma il prete fu scelto per le sue qualità…
+
+#Per l’amor dell’ufficio… quell’ufficio probabilmente gli ha concesso alcune responsabilità…
+
+Illusione necessaria per attirare le persone all’idea di contrarre matrimonio… e che…
+
+La signorina [[Cave]] non trovò in nessuno dei giovani lavoratori addetti alla lavorazione della lana ciò che cercava.
+
+Titolo:  
+I devoti di Mr. Helstone… né lui né Mr. Yorke li avevano, né dichiararono di averli.
+
+# Una passione travolgente per lei… Lui, invece, non provava alcun segno di umile rispetto…
+
+Sembrava riuscire a domare la maggior parte dei suoi corteggiatori; lui la vedeva per quella che realmente era.
+
+Più degli altri. Di conseguenza, era più padrone sia di lei che di se stesso.
+
+Lo accettò al primo invito e si sposarono.
+
+
+
+La [[Nature|Natura]] non aveva mai intenzione che il signor Helstone diventasse un ottimo marito.
+
+“Soprattutto per una moglie silenziosa… Pensava che bastasse che una donna rimanesse in silenzio.”
+
+Nessun problema la affliggeva, e non desiderava nulla… Se non si lamentava di nulla.
+
+La [[Solitude|solitudine]], la [[Solitude|solitudine]], per quanto continuasse, non poteva risultarle fastidiosa. Se.
+
+Non parlò e si fece avanti, dimostrando di preferire quella opzione.
+
+# Nessuna preferenza né avversione al riguardo…
+
+“Inutile cercare di capire i suoi gusti… Lui non fece mai finta di comprenderli.”
+
+#Donne… o il loro confronto con gli uomini. Erano diverse, probabilmente…
+
+#Di grado molto inferiore… Una moglie non poteva essere alla stessa “ordine di esistenza” del proprio marito.
+
+Compagna… figuriamoci sua confidente, o addirittura la persona con cui trascorre il tempo. Sua moglie.
+
+Dopo un anno o due, non aveva più alcuna importanza per lui, in nessun modo.
+
+# Quando un giorno, come lui pensava, lei improvvisamente… poiché lui quasi non se n’era accorto
+
+Il suo declino… ma, come pensavano tutti, avvenne gradualmente, fino a quando lo lasciò per sempre.
+
+# E della vita… non rimase che una forma immobile e bellissima.
+
+“Clay rimase lì, freddo e bianco, sul letto coniugale… Lui lo sentì.”
+
+Lutto… chi può dire quanto sia poco? Eppure, forse, molto di più di quanto sembri.
+
+Per poterlo provare, perché non era un uomo dal quale il dolore potesse facilmente strappare le lacrime.
+
+
+
+Il suo lutto silenzioso e sobrio scandalizzò la vecchia domestica…
+
+Allo stesso modo, una cameriera che aveva servito la signora Helstone…
+
+Malattia… e chi, forse, avrebbe avuto l’opportunità di imparare di più al riguardo…
+
+La natura stessa della defunta signora, la sua capacità di provare sentimenti e di amare, più di tutto.
+
+Il marito lo sapeva… Chiacchieravano insieme riguardo al cadavere, raccontandosi cose a vicenda.
+
+Aneddoti, con descrizioni del suo declino progressivo e delle cause che lo hanno causato…
+
+Cause presunta… In breve, si sono scatenati a vicenda in un’ira furiosa.
+
+#Contro l’uomo severo e piccolo che sedeva accanto, esaminando dei documenti…
+
+La stanza, ignaro del disprezzo di cui era oggetto.
+
+
+
+Non appena la signora Helstone fu sepolta, iniziarono a circolare voci in abbondanza…
+
+Il quartiere in cui morì per un cuore spezzato… Queste immagini ingrandite…
+
+# Rapporti su un uso intensivo e, infine, dettagli riguardanti condizioni estreme
+
+Trattamento da parte di suo marito: resoconti estremamente falsi, ma non…
+
+Il titolo viene accolto con meno entusiasmo per questo motivo. Il signor Yorke li ascolta, in parte…
+
+Li credeva. Ovviamente, ormai non provava alcun sentimento positivo nei loro confronti.
+
+Rivale di successo. Anche se ora è un uomo sposato e unito a…
+
+Una donna che sembrava rappresentare il completo opposto di Mary [[Cave]] sotto ogni aspetto, lui.
+
+Non riusciva a dimenticare la grande delusione della sua vita; e quando lo sentì…
+
+#Ciò che per lui avrebbe potuto essere così prezioso è stato forse trascurato…
+
+# Abusato da un altro, concepì per quell’altro un sentimento radicato e amaro
+
+ostilità.
 
 
 
@@ -55724,6 +56732,210 @@ my neat black sabots, objects one would not indeed wear in a fashionable
 
 [[City|city]], but which in the country I have ever been accustomed to use for
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sembrava un po’ più anziana del signor Moore… forse aveva trentacinque anni.
+
+Alta e proporzionatamente formosa, aveva i capelli molto neri…
+
+“Con i capelli raccolti in trecce, le guance arrossate… una figura piccola…”
+
+Naso, un paio di piccoli occhi neri… La parte inferiore del suo viso era piuttosto grande.
+
+“In proporzione all’altezza del viso, la sua fronte era piccola e piuttosto…”
+
+Titolo:  
+Corrugata; aveva un’espressione ansiosa, sebbene non malvagia…
+
+# Espressione sul volto; c’era qualcosa nel suo aspetto complessivo che colpiva chi la vedeva
+
+#Inclinato a essere sia infastidito che divertito… Il più strano di tutti.
+
+Il punto focale era il suo abito: un grembiule di stoffa e una camicia di cotone a strisce.
+
+La sottoveste era corta, quindi si potevano vedere chiaramente una coppia di piedi e caviglie.
+
+L’articolo di simmetria lasciava molto a desiderare.
+
+
+
+Titolo:  
+Leggitore, potreste pensare che abbia descritto una donna davvero disordinata… Ma no.
+
+# Hortense Moore: una donna molto ordinata
+
+Persona economica… La sottoveste, la canottiera e i bigodini erano i suoi accessori essenziali.
+
+Costume da mattina, quello che lei indossava sempre nelle ore pomeridiane…
+
+“Seguire le abitudini della sua famiglia” nel suo stesso paese… Non fu una scelta che fece lei stessa.
+
+Adottò le mode inglesi perché era costretta a vivere in Inghilterra; lei…
+
+Si atteneva alle sue vecchie abitudini belghe, convinta che in esse ci fosse del valore.
+
+facendo ciò.
+
+
+
+Mademoiselle aveva un’opinione molto alta di sé stessa… un’opinione che però non era del tutto…
+
+#Ingiustamente… poiché possedeva qualità buone e genuine; ma lei…
+
+#Ha sopravvalutato di molto la natura e l’intensità di queste qualità…
+
+Vengono trascurati diversi piccoli difetti che li accompagnavano.
+
+# Mai saresti riuscito a convincerla che fosse pregiudiziosa…
+
+Persona di mente ristretta… troppo suscettibile su quel tema.
+
+#Dignità e importanza proprie, troppo suscettibili di offendersi per cose insignificanti
+
+Tutto ciò era vero, tuttavia… dove le sue affermazioni riguardo alle proprie qualità non corrispondevano alla realtà…
+
+Contrariata, ma quando i suoi pregiudizi non venivano offesi, poteva essere gentile.
+
+E abbastanza amichevole. Con i suoi due fratelli… perché c’era anche un altro Gérard.
+
+#Legata profondamente a lui…
+
+Rappresentanti di una famiglia in declino, entrambe quelle persone erano quasi…
+
+Nelle sue occhi era qualcosa di sacro… Per quanto riguarda Louis, però, sapeva meno di quanto sapesse su Robert. Lui…
+
+Era stato mandato in Inghilterra quando era ancora un bambino e aveva ricevuto la sua [[Education|istruzione]] lì.
+
+In una scuola inglese. La sua [[Education|istruzione]], infatti, non era tale da prepararlo adeguatamente per.
+
+“Forse anche il suo temperamento naturale lo allontana dal mondo del commercio…”
+
+#Inseguimenti… che aveva intrapreso, quando le prospettive ereditarie disastrose lo costrinsero a farlo…
+
+“Necessario affinché potesse promuovere la propria fortuna… adottò metodi davvero ardui e…”
+
+Una carriera molto modesta di un insegnante… Era stato assunto in una scuola e…
+
+Ora si dice che sia un tutore in una famiglia privata… Hortense, quando ne ha parlato…
+
+Louis lo descriveva come colui che possedeva ciò che lei definiva “i mezzi necessari”, ma…
+
+Essere troppo arretrati e silenziosi… Il suo complimento per Robert, invece, era di natura diversa.
+
+# Una madre molto fiera di lui… Lo considerava il suo orgoglio.
+
+Il più grande uomo d’Europa: tutto ciò che diceva e faceva era davvero straordinario ai suoi occhi.
+
+Occhi… e si aspettava che gli altri lo vedessero dallo stesso punto di vista.
+
+Niente potrebbe essere più irrazionale, mostruoso e infame di…
+
+Titolo:  
+Oposizione da qualsiasi parte verso Robert… a meno che non si tratti di opposizione vera e propria.
+
+lei stessa.
+
+
+
+# Pertanto, non appena il suddetto Robert si fu seduto…
+
+# Alla tavola del breakfast… e gli aveva servito una porzione di pere stufate.
+
+# E dopo avergli tagliato una bella fetta di torta belga, iniziò a versargli… un’abbondante quantità di qualcosa.
+
+Di stupore e orrore per quanto accaduto la scorsa [[Night|notte]], il.
+
+Distruzione dei telai.
+
+
+
+“Che idea orribile… distruggerli tutti. Che azione vergognosa… Era evidente…”
+
+“Que i lavoratori di questo paese fossero sia stupidi che cattivi… Era così.”
+
+# Assolutamente come i domestici inglesi, soprattutto le cameriere: nulla
+
+Inesportabile, come ad esempio questa Sara!
+
+
+
+“Sembra pulita e laboriosa,” osservò il signor Moore.
+
+
+
+#"Aspetto… Non so com’è fatta, e non sto dicendo che sia…"
+
+# Assolutamente sporca o inutile… ma che sfacciataggine! Ha osato contestare…
+
+“Ieri ho parlato con lui per un quarto d’ora di come cucinare la carne di manzo…”
+
+Lei disse che l’avevo ridotta in stracci, che il popolo inglese non sarebbe mai stato in grado di…
+
+Titolo:  
+Mangiare un piatto come il nostro “bouilli”… al punto che il brodo non fosse nemmeno migliore del resto del piatto stesso.
+
+Acqua calda e unta. E per quanto riguarda la choucroute, lei afferma di non riuscire a prepararla.
+
+#Non toccarlo! Quel barile che abbiamo nel seminterrato… preparato con cura da me…
+
+Con le proprie mani… Lei definì quella sostanza “un secchio di letame per maiali”, ovvero cibo adatto ai suini. Io…
+
+#"Perseguitato da quella ragazza… eppure non riesco a lasciarla, per paura di…”
+
+# Una situazione ancora peggiore… Tu e i tuoi lavoratori vi trovate nella stessa condizione, povero caro.
+
+“Fratello!”
+
+
+
+“Temo che tu non sia molto felice in Inghilterra, Hortense.”
+
+
+
+“È mio dovere essere felice dove sei tu, fratello… altrimenti no.”
+
+Ci sono sicuramente mille motivi che mi fanno rimpiangere la nostra città natale.
+
+“Tutto il mondo qui mi sembra scortese e maleducato; trovo che le abitudini delle persone siano… inappropriate.”
+
+Ritenuto ridicolo… Se una ragazza, tra tutte quelle possibili, dovesse capitare…
+
+In cucina, mi troverete con il grembiule e la canottiera mentre preparo la cena…
+
+“Lo sai bene che non posso fidarmi di Sarah nemmeno per preparare un semplice piatto…”, dice lei con disprezzo. “Se solo…”
+
+Accetto sempre con piacere un invito a prendere il tè… L’ho fatto una o due volte, infatti.
+
+Percepisco di essere completamente messo in secondo piano; non ricevo alcuna attenzione.
+
+Mi hanno pagato, il che è senza dubbio quanto mi spetta. Che famiglia eccellente…
+
+#Gérard, e anche i Moore… Hanno tutto il diritto di rivendicarlo!
+
+Con certo rispetto… e si sentono offesi quando questo rispetto viene loro negato.
+
+#Antwerp: Qui mi hanno sempre trattato con distinzione…
+
+#Quando parlo in pubblico, uso l’inglese con un accento ridicolo…
+
+“Accento. Mentre sono abbastanza sicuro di pronunciarlo perfettamente.”
+
+
+
+"Hortense, ad Anversa eravamo conosciuti come ricchi; in Inghilterra, invece, nessuno lo sapeva mai."
+
+ma povero.
+
+
+
+“Esattamente, ed è proprio per questo che l’umanità è mercenaria… Ancora una volta, caro fratello, l’ultima…”
+
+[[Sunday|Domenica]], se vi ricordate, faceva molto freddo; per questo sono andato in chiesa.
+
+#I miei ordinati stivali neri… oggetti che di certo non si indosserebbero in un contesto alla moda
+
+[[City|città]], ma che nel paese sono abituato a usare per.
 
 
 
@@ -56879,6 +58091,202 @@ finishing touches herself, and these finishing touches consisted in a
 thick handkerchief tied round the throat, and a large, servant-like
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+E poi, mentre completava l’esercizio o risolveva il calcolo…
+
+La signorina Moore le insegnava anche l’aritmetica; avrebbe voluto che la [[Nature|>natura]] lo avesse fatto.
+
+Se fosse un ragazzo invece di una ragazza, potrebbe chiedere a Robert di permetterle di essere sua…
+
+Il impiegato, e sedersi con lui nella sala di conteggio, invece di stare con.
+
+Hortense nella sala.
+
+
+
+A volte… ma molto raramente… trascorreva le serate lì.
+
+Casetta di Hollow. A volte, durante queste visite, Moore era assente per partecipare a…
+
+Un mercato… A volte andava da Mr. Yorke; spesso era impegnato in altre cose.
+
+Con un visitatore maschio in un'altra stanza; ma a volte, anche lui era a [[Home|>casa]].
+
+Disimpegnato, libero di parlare con Caroline… Quando era così, allora…
+
+Le ore serali volavano via come ali di luce; erano già passate prima ancora che si potesse rendersene conto.
+
+“Contato… Non esisteva in Inghilterra un ambiente più piacevole di quella piccola sala.”
+
+# Quando i tre cugini lo abitavano… Hortense, quando non insegnava.
+
+Che si trattasse di rimproveri o di cucinare, lei non era affatto di cattivo umore; era sua abitudine…
+
+Rilassati verso sera, e sii gentile con la tua giovane cugina inglese.
+
+C’era anche un modo per renderla deliziosa: convincerla…
+
+Prendi la sua chitarra, canta e suona. Allora diventa davvero di buon umore.
+
+E poiché suonava con abilità e aveva una voce ben[[Well|armoniosa]], non era affatto.
+
+Ascoltarla era davvero sgradevole… Al contrario, sarebbe stato assolutamente piacevole farlo.
+
+Ad eccezione del fatto che il suo carattere formale e pieno di [[Self|autoimportanza]] ne influenzava il comportamento.
+
+Le influenze culturali, poiché ne hanno plasmato i modi di comportamento e il volto.
+
+
+
+#Il signor Moore, liberato dal giogo degli affari, sebbene non fosse particolarmente vivace…
+
+Un spettatore attento alla vivacità di Caroline, un ascoltatore compiaciuto delle sue parole…
+
+La sua conversazione, una risposta pronta alle sue domande… Lui era davvero qualcosa di speciale.
+
+Piacevole da avere vicino, da osservare, con cui parlare e che guardare… A volte.
+
+Era meglio di così: quasi animato, davvero gentile e amichevole.
+
+
+
+Lo svantaggio era che, la mattina seguente, sarebbe sicuramente congelato.
+
+Di nuovo… E nonostante sembrasse, con quel suo modo tranquillo, godersi tutto questo…
+
+Cene sociali: raramente si impegnava per ripeterle. Questa situazione…
+
+“Questo problema lasciò perplesso il giovane cugino… Se solo avessi un modo per…”
+
+“La felicità è a mia disposizione,” pensò, “la userei spesso.”
+
+# Mantienilo luminoso con l’uso, e non lasciarlo in disuso per settimane.
+
+Fino a quando non si arrugginisce."
+
+
+
+Ma faceva attenzione a non mettere in pratica la propria teoria… Per quanto desiderasse farlo.
+
+Le piacevano le visite serali alla capanna; mai una volta, però, le fece senza essere stata invitata.
+
+Spesso, infatti, quando Hortense la sollecitava ad andare, lei rifiutava.
+
+Perché Robert non approvò del tutto la richiesta, o al massimo la appoggiò solo in parte.
+
+Questa mattina è stata la prima volta che, di sua spontanea volontà, ha.
+
+Le fu inviata un’invitazione; inoltre, aveva parlato in modo così gentile che…
+
+# Ascoltandolo, aveva provato una felicità tale da farle sentire...
+
+Felice per tutta la giornata.
+
+
+
+La mattina trascorse come al solito. La signorina, sempre impegnata e senza sosta, passò il tempo…
+
+“Va avanti e indietro tra cucina e salotto, ora rimprovera Sarah, ora guarda…”
+
+Durante l’esercizio di Caroline o mentre ascoltavo la sua lezione di ripetizione… Comunque sia.
+
+“Con perfezione queste attività furono svolte, ma lei non mai fece commenti positivi: era una…”
+
+#"Che lodi non siano in linea con la dignità di un insegnante, è un principio che lei sostiene fermamente."
+
+Quella colpa, in misura più o meno totale, è indispensabile ad esso.
+
+# Pensava che un rimprovero costante, sia severo che lieve, fosse assolutamente necessario
+
+Il mantenimento della sua autorità; e se non doveva esserci alcun errore possibile…
+
+#Nella lezione, si trattava del portamento, dell’atteggiamento, dell’abbigliamento dello studente…
+
+Il mio, che richiedeva correzioni.
+
+
+
+Il solito alterco scoppiò durante la cena…
+
+# Appena l’ebbe portata nella stanza, la gettò quasi con furia sul tavolo.
+
+Titolo:  
+“Lo dico chiaramente: in tutta la mia vita non ho mai preparato roba del genere.”
+
+Come detto in precedenza, non è adatto per i [[dogs|>cani]]. Nonostante lo disprezzo di Sarah, era comunque.
+
+Un pasto davvero delizioso… La zuppa era una sorta di purea di piselli secchi.
+
+Mademoiselle aveva preparato tutto tra amare lacrime e profonde lamentazioni…
+
+# Paese desolato d’Inghilterra… dove non si trovavano nemmeno fagioli. Poi arrivò…
+
+Un piatto di carne di una specie[[Nature|naturale]] sconosciuta, ma presumibilmente.
+
+**Crocchette varie – condite con briciole di pane**
+
+Unico, sebbene non sgradevole… e realizzato seguendo uno specifico modello: qualcosa di strano, ma…
+
+# Non significa che sia un piatto sgradevole… Le verdure, stranamente ammaccate, costituivano…
+
+Verdure accompagnanti; e una pâté di frutta conservata seguendo una ricetta specifica.
+
+Ideato dalla “nonna” di Madame Gérard Moore, e in linea con i suoi gusti…
+
+Titolo:  
+Sembra probabile che “mélasse” sia stato sostituito con…
+
+Zucchero, il pasto era pronto.
+
+
+
+# Caroline non aveva obiezioni a questa cucina belga… anzi, le piaceva molto.
+
+Le piacque, per una volta; ed è stato davvero bene che l’abbia fatto, perché se avesse mostrato.
+
+Qualsiasi manifestazione di disprezzo o disgusto al suo riguardo avrebbe potuto ferirla profondamente.
+
+“Per sempre la grazia di mademoiselle… Un vero crimine sarebbe stato possibile…”
+
+Più facile da perdonare che un segno di disprezzo verso ciò che è straniero…
+
+Cibi commestibili.
+
+
+
+Poco dopo cena, Caroline convinse la sua cugina e insegnante ad andare di sopra con lei.
+
+“Dress… Questa mossa richiedeva una certa abilità nel gestirla. Il fatto di aver accennato a…”
+
+Gonne, camicie da notte e bigodini… oggetti davvero detestabili.
+
+# Un atto prematuro che, oltre a non essere affatto meritevole, sarebbe stato considerato un reato grave.
+
+#Un tentativo di farli scomparire sarebbe stato quindi imprudente e inutile.
+
+È probabile che ciò si verifichi a causa del loro uso continuo per tutta la giornata.
+
+Evitando con attenzione rocce e sabbie mobili, il discepolo, sotto pretesto…
+
+#Un modo ingegnoso per costringere l’insegnante ad alzarsi in piedi…
+
+# Una volta in camera da letto, riuscì a convincerlo che non ne valeva la pena
+
+Tornandoci, pensò che fosse meglio fare il suo bagno in quel momento; e.
+
+# Mentre la signorina tenne un sermone solenne sui propri straordinari meriti
+
+#Senza curarsi delle frivolezze della moda, Caroline la spogliò di tutto ciò che non era essenziale…
+
+# Abbigliamento appropriato
+
+#Etc., e la rendeva abbastanza presentabile… Ma Hortense aggiungeva sempre qualcosa in più.
+
+# Ultimi tocchi personali… e questi ultimi tocchi consistevano in…
+
+“Un fazzoletto spesso legato intorno al collo, e un aspetto simile a quello di un servitore…”
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_03" data-title="Shirley — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/desire,motif/fire,motif/home,motif/horse,motif/moon,motif/soul,motif/time,motif/well,motif/wind"></span>
@@ -57677,6 +59085,236 @@ impressively as your English ancestors, Robert. To-[[Night|night]] you shall be
 entirely English. You shall read an English book."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Domanda: ‘Non è mio nemico, Robert?’ E Moore, con atteggiamento da quacchero, aveva risposto…”
+
+# “Potrei essere io?” E poi, sedendosi…
+
+Il tavolo era stato allestito in modo che Caroline potesse sedersi al suo fianco.
+
+
+
+Caroline quasi non sentì l’esplosione di rabbia della signorina quando…
+
+Si unì a loro; il lungo discorso sulla “condotta indegna di questa…”
+
+“Méchante créature…” quelle parole risuonavano nella sua mente, confuse e angosciate come il suo stato d’animo.
+
+“Il rumore dei piatti di porcellana… Robert rise leggermente, in modo molto sommesso.”
+
+Titolo:  
+Organizzare tutto in ordine, e poi, con gentilezza e calma, chiedere alla propria sorella di…
+
+"Tranquilla, le assicurò che se ciò avesse potuto darle soddisfazione..."
+
+# Deve poter scegliere la sua ancella tra tutte le ragazze presenti…
+
+Titolo:  
+“Solo lui temeva che non le andassero bene, poiché erano per lo più…”
+
+Gli fu detto che era completamente ignorante riguardo ai lavori domestici… e anche piuttosto impertinente.
+
+E [[Self|se stessa]], con la sua volontà forte come quella di Sarah, forse non era peggiore delle altre.
+
+La maggior parte delle donne della sua classe.
+
+
+
+La signorina ammise la [[Truth|verità]] di questa congettura: secondo lei.
+
+“Que quelle gente di contadine inglese fosse davvero insopportabile…” Cosa avrebbe fatto lei?
+
+“Non si lascia ingannare da alcuna ‘brava cuoca di Anversa’ con quella sua pronuncia strana…”
+
+Gonna mettere una sottoveste corta e degli stivali dignitosi, adatti alla sua classe… qualcosa del genere.
+
+Meglio, di certo, di una civetta insolenza vestita con un abito fronzoso…
+
+# Assolutamente senza maiuscole… (A quanto pare, Sarah non ne ha fatto parte.)
+
+# L'opinione di San Paolo secondo cui “è una vergogna che una donna esca in pubblico senza coprirsi la testa”
+
+“Scoperto”; ma, seguendo una dottrina del tutto opposta, si rifiutò decisamente di accettarla.
+
+“Rintrappolare i folti capelli biondi in lino o mussola…”
+
+Come era sua abitudine, si sistemava i capelli con cura, usando un pettine per fissarli alle spalle e sul davanti.
+
+I vestiti da indossare la domenica devono essere arricciati sul davanti.
+
+
+
+“Dovrei provare a trovarti una ragazza di Anversa?”, chiese il signor Moore, con un tono severo…
+
+In pubblico era, nel complesso, molto gentile; in privato, invece.
+
+
+
+“Grazie per il regalo!” fu la risposta. “Una ragazza di Anversa non resterebbe mai qui.”
+
+“Dieci giorni…”, disse con disprezzo, proprio come avrebbero fatto tutte quelle giovani civette intorno a te.
+
+“Fabbrica…” Poi, con voce più dolce: “Sei davvero molto gentile, caro fratello… scusami…”
+
+# Petulanza… ma davvero, le mie difficoltà domestiche sono gravi.
+
+Probabilmente è il mio destino… Poiché ricordo che nostra rispettata madre ha vissuto…
+
+Simili sofferenze… anche se aveva la possibilità di scegliere tra i migliori servitori.
+
+Ad Anversa. In tutti i paesi, la servitù è un gruppo viziato e indisciplinato.
+
+
+
+#Il signor Moore aveva anche alcune memorie riguardo alle prove attraversate dalla persona che ammirava molto
+
+Madre. Era stata una buona madre per lui, e lui onorava la sua [[Memory|memoria]].
+
+Ma si ricordò che lei ne teneva sempre una scorta pronta in cucina ad Anversa, proprio come…
+
+“La sua fedele sorella lo fece qui in Inghilterra… Pertanto, egli permise…”
+
+# Caduta del soggetto… e quando il servizio del caffè fu terminato, proseguì…
+
+#"Console Hortense portandole il libro di musica e la chitarra; e dopo..."
+
+#Legato il nastro dello strumento intorno al suo collo con delicatezza
+
+Una gentilezza fraterna, che sapeva essere potentissima nel consolare lei nel momento del bisogno.
+
+# Umori turbolenti… le chiese di dargli qualcosa che piaceva molto a loro madre
+
+[[songs|>canti]].
+
+
+
+Niente raffina quanto l'affetto. Le tensioni familiari rendono tutto volgare; l’[[Union|unione]] familiare, invece.
+
+#Eleva. Hortense, soddisfatta di suo fratello e grata verso di lui.
+
+Sembrava quasi aggraziata, quasi attraente, mentre toccava la sua chitarra…
+
+Il solito aspetto preoccupato scomparve per un momento, sostituito da…
+
+“Un sorriso pieno di bontà.” Cantava le [[songs|CANZONI]] che lui le chiedeva, con sincerità e sentimento.
+
+Le ricordavano un genitore a cui era davvero legata…
+
+Le ricordava i suoi giorni giovani. Notò anche che Caroline…
+
+Ascoltava con un interesse ingenuo; questo aumentava il suo buon [[Humour|umore]], e.
+
+Esclamazione alla fine della [[Song|canzone]]: “Vorrei poter cantare e suonare come, ”
+
+“Hortense!” Riuscì nell’impresa e la rese davvero affascinante…
+
+sera.
+
+
+
+Seguì davvero un breve discorso rivolto a Caroline, sul tema della [[Vanity|vanità]].
+
+"Wishing e il dovere di provare". Si suggeriva che, come Roma, anche...
+
+Non è stato costruito in un giorno… né lo stesso vale per il progetto di Mademoiselle Gérard Moore.
+
+L’[[Education|istruzione]] può essere completata in una settimana, oppure semplicemente desiderando di essere intelligenti.
+
+# Il duro lavoro aveva portato a quel grande risultato. Lei era sempre…
+
+Nota per la sua perseveranza, per il suo impegno costante… I suoi maestri avevano…
+
+# Notò che era tanto piacevole quanto raro trovare qualcosa del genere in quantità così grande
+
+“Talento unito a grande solidità… e così via.” Una volta affrontato l’argomento…
+
+Grazie ai suoi meriti personali, la signorina parlava con grande fluidità.
+
+
+
+Finalmente avvolta nella beatifica autocompiacenza, prese il suo lavoro a maglia e.
+
+Si sedette in tranquillità. Le tende erano chiuse; c'era un fuoco che ardeva chiaramente e una lampada che brillava dolcemente.
+
+Il piccolo salotto esprimeva ora al meglio il suo fascino serale.
+
+Probabilmente anche le tre persone presenti in quel momento percepirono questo fascino… Tutte sembravano…
+
+Felice.
+
+
+
+“Cosa dovremmo fare ora, Caroline?” chiese il signor Moore, tornando al suo posto.
+
+Accanto a suo cugino.
+
+
+
+“Cosa dovremmo fare, Robert?” ripeté lei scherzosamente. “Decidi tu.”
+
+
+
+“Non giocare a scacchi?”
+
+
+
+"No."
+
+
+
+“Né dadi, né scacchi?”
+
+
+
+“No, no; entrambi odiamo quei giochi silenziosi che servono solo a tenere le mani occupate…”
+
+“Non è vero?”
+
+
+
+“Credo che sia così. Allora parliamo di scandali?”
+
+
+
+#"Di chi si tratta? Siamo davvero così interessati a qualcuno da impegnarci in questo modo?"
+
+“Non provano alcun piacere nel distruggere completamente i loro personaggi?”
+
+
+
+#"Una domanda diretta al punto. Per quanto mi riguarda, anche se poco piacevole..."
+
+“Suoni, devo dire di no.”
+
+
+
+“Anch’io… Ma è strano: nonostante non vogliamo nessun terzo, o quarto…”
+
+# Una persona viva
+
+Tra di noi… così egoisti siamo nella nostra felicità… anche se non lo vogliamo ammettere.
+
+# Pensiamo al mondo attuale: sarebbe piacevole tornare indietro
+
+Il passato… per ascoltare le voci di persone che da generazioni riposano nelle loro tombe…
+
+Forse ora non sono più tombe, ma giardini e campi… ci parlano.
+
+E diteci i loro pensieri, condividete le loro idee.
+
+
+
+“Chi sarà il relatore? In quale lingua parlerà? In francese?”
+
+
+
+“I vostri antenati francesi non parlavano in modo così dolce, né così solenne…”
+
+In modo davvero impressionante, proprio come i tuoi antenati inglesi, Robert. Di notte sarai.
+
+Interamente in inglese. Dovrai leggere un libro in inglese.
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_06" data-title="Shirley — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/grave,motif/home,motif/nature,motif/night,motif/soul,motif/well,concept/greatness,concept/nature,concept/pride,concept/revenge,concept/truth,character/aufidius,character/coriolanus"></span>
@@ -57926,6 +59564,253 @@ sorrow of his great enemy--all scenes made of condensed [[Truth|truth]] and
 
 strength--came on in succession and carried with them in their deep,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Un vecchio libro inglese?”
+
+
+
+"Sì, un vecchio libro inglese… uno che ti piaccia; e sceglierò una parte da leggere insieme."
+
+Titolo:  
+Qualcosa che si armonizza perfettamente con qualcosa dentro di te… Lo farà.
+
+Svegli la tua [[Nature|>natura]], riempie la tua mente di musica; tutto passerà come un sogno.
+
+“Una mano abile sul tuo cuore… e fai che le sue corde suonino. Il tuo cuore è…”
+
+# Una lira… ma la tua vita non è mai stata quella di un menestrello
+
+“Sweep it away, e spesso tutto tace… Lasciate che il glorioso William si avvicini…”
+
+#Non toccarlo… Vedrai come riesce a estrarre tutta la forza e la melodia tipiche dell’inglese.
+
+dei suoi accordi.
+
+
+
+“Devo leggere Shakespeare?”
+
+
+
+#"Devi prima possedere il suo spirito dentro di te; devi ascoltare la sua voce con il tuo cuore."
+
+L’orecchio della mente. Devi assorbire un po’ della sua [[Soul|'anima]] nella tua.
+
+
+
+“Per farmi migliorare? Vuole funzionare come un sermone?”
+
+
+
+“È per scuotervi, per darvi nuove sensazioni… È per farvi provare qualcosa di diverso.”
+
+La tua vita ne risente profondamente: non solo le tue virtù, ma anche i tuoi vizi e le tue inclinazioni perverse.
+
+“Punti.”
+
+
+
+“Dio mio! Cosa ha detto?”, esclamò Hortense, che fino ad allora aveva continuato a contare…
+
+“Mentre lavorava a maglia, non prestava molta attenzione a ciò che veniva detto.”
+
+ma le cui orecchie furono colpite da queste due parole forti e decise.
+
+
+
+“Lasciala stare, sorella; lascia che parli. Ora lascia che dica qualsiasi cosa voglia…”
+
+Piacerebbe farlo di notte. Le piace essere molto decisa con tuo fratello.
+
+A volte. Mi diverte, quindi lasciala stare [[Alone|da sola]].
+
+
+
+# Caroline, che, seduta su una sedia, frugava nella libreria…
+
+Tornò con un libro.
+
+
+
+“Ecco Shakespeare,” disse lei, “e c’è ‘[[Coriolanus|Coriolano]]’. Ora, leggi, ”
+
+#E scopri, attraverso le emozioni che la lettura ti susciterà all’istante, quanto sia basso…
+
+E quanto sei alto.”
+
+
+
+“Allora siediti vicino a me e correggimi quando sbaglio a pronunciare.”
+
+
+
+“Allora sarò io l’insegnante e tu il mio allievo?”
+
+
+
+“E così sia!”
+
+
+
+“E Shakespeare è la nostra scienza, visto che ne studieremo i testi?”
+
+
+
+“Sembra proprio così.”
+
+
+
+“E non vuoi mica diventare francese, scettico e sarcastico…?”
+
+“Non penserete certo che rifiutarsi di ammirare qualcosa sia un segno di saggezza, vero?”
+
+
+
+“Non lo so.”
+
+
+
+"#Se lo fai, Robert, porterò via Shakespeare… e mi ridurrò in polvere."
+
+All’interno di me stesso, mi metterò il cappello e andrò a [[Home|>casa]].
+
+
+
+“Siediti. Ora inizio.”
+
+
+
+“Un minuto, per favore, fratello,” interruppe la signorina. “Quando…”
+
+Il gentiluomo di una famiglia legge… le signore invece dovrebbero sempre…
+
+Cuci. Caroline, cara [[Child|>bambina]], prendi il tuo ricamo. Potrai ottenere tre.
+
+Ramoscelli pronti per la notte.
+
+
+
+# Caroline sembrava sconfortata. “Non riesco a vedere con la luce della lampada… Ho gli occhi stanchi.”
+
+E non riesco a fare due cose contemporaneamente in modo soddisfacente. Se cucio, non posso ascoltare; se.
+
+Ascolta, non so cucire.
+
+
+
+“Ma davvero! Che infantilismo!” esclamò Hortense. Il signor Moore, come al solito…
+
+Intervenuto con dolcezza.
+
+
+
+“Lasciate che stasera trascuri il ricamo… Vorrei che si dedicasse interamente a…”
+
+Attenzione deve essere concentrata sul mio accento; e per garantirlo, lei deve seguire…
+
+La lettura con i suoi occhi, deve guardare il libro.
+
+
+
+# Lo posizionò tra loro, appoggiando il braccio sulla schiena di Caroline
+
+Si sedette sulla sedia e iniziò a leggere.
+
+
+
+La prima scena di “[[Coriolanus|Coriolano]]” fu presentata con grande abilità e gusto.
+
+# Un palato intellettuale… Eppure, mentre leggeva, si riscaldava nel cuore.
+
+#"Discorso arrogante di Gaio Marcio ai cittadini affamati con ipocrisia";"
+
+Non disse che riteneva giusta la sua irrazionale [[Pride|orgoglio]], ma sembrava pensarla così.
+
+Lo sentiva davvero così. Caroline lo guardò con un sorriso speciale.
+
+
+
+“C’è già stato un colpo molto duro,” disse lei. “Tu provi simpatia per…”
+
+#Quel nobile orgoglioso che non prova compassione per i suoi simili affamati
+
+“Compagni uomini… e li insulta. Ecco, continua pure.” Proseguì. Il comportamento bellicoso di quel individuo…
+
+Le parti lette non lo interessarono molto; disse soltanto cose ormai obsolete…
+
+# Lo spirito dimostrato fu barbaro; tuttavia quell’incontro…
+
+Da solo, tra Marzio e Tullio [[Aufidius|Aufidio]], egli si divertiva molto. Come faceva.
+
+#"Avanzato", dimenticò di fare delle critiche; era evidente che apprezzasse."
+
+Il potere, la [[Truth|verità]] di ogni singola parte. E, uscendo da quella linea ristretta.
+
+“Di pregiudizi personali, iniziò ad ammirare il quadro più ampio dell’umanità…”
+
+La [[Nature|natura]], per far percepire la realtà impressa nei personaggi che esistevano.
+
+parlando da quella pagina davanti a lui.
+
+
+
+Non lesse bene quelle scene comiche; e Caroline, prendendo il libro.
+
+“Leggigli queste parti ad alta voce… Sembrava che gli piacessero molto.”
+
+E infatti li diede con uno spirito che nessuno avrebbe potuto aspettarsi da lei.
+
+“Lei, con un’espressione incisiva che sembrava essere naturale per lei in quel momento…”
+
+#E solo per quel breve istante… Si può osservare, incidentalmente, che…
+
+Il carattere generale della sua conversazione quella sera, sia serio che…
+
+Spiritovole, [[Grave|serio]] o allegro, sembrava qualcosa di spontaneo, non studiato, non preparato in anticipo.
+
+Intuitivo, incostante… una volta svanito, non può più essere ricreato esattamente come era prima.
+
+# Un bagliore più breve di quello di una meteora, un colore più tenue di quello di una gemma bagnata dalla rugiada…
+
+Più del colore o della forma delle nuvole al tramonto, più di quella fugace e…
+
+Onde scintillanti che alterano il corso di un ruscello.
+
+
+
+[[Coriolanus|Coriolano]] nella gloria, [[Coriolanus|Coriolano]] nel disastro, [[Coriolanus|Coriolano]] esiliato.
+
+“Seguiti come ombre giganti, uno dopo l’altro… Prima della visione…”
+
+# Lo spirito dell’uomo esiliato Moore sembrò fermarsi… Si trovava davanti al camino.
+
+La sala di [[Aufidius|Aufidio]], di fronte all’immagine della [[Greatness|grandezza]] caduta, ma ancora più grande.
+
+# Mai prima d’allora era caduto in una tale condizione di miseria. Vide “quell’aspetto cupo”, quel volto scuro…
+
+"#Con il comando scritto sopra, la nobile nave con le sue attrezzature distrutte..."
+
+La [[Revenge|vendetta]] di Gaio Marcio: Moore ne condivideva perfettamente i sentimenti; lui non era.
+
+Scandalizzata da ciò; e ancora una volta Caroline sussurrò: “Ecco, ne vedo un altro”.
+
+Un barlume di fraternità anche nell’errore.
+
+
+
+#La marcia su Roma, la preghiera di una madre, la lunga resistenza…
+
+La definitiva sottomissione delle cattive passioni al bene: un processo inevitabile in ogni caso.
+
+Una [[Nature|natura]] degna del titolo di nobile. La rabbia di [[Aufidius|Aufidio]] per ciò che aveva visto.
+
+Considerando la debolezza del proprio alleato, la [[Death|morte]] di [[Coriolanus|Coriolano]] fu il colpo finale.
+
+Il dolore del suo grande nemico, tutte queste scene sono create dalla condensazione della [[Truth|verità]] e.
+
+#Forza… che arrivò una dopo l’altra, portando con sé, nella loro profondità,
 
 
 
@@ -60199,6 +62084,199 @@ a sort of apology:--
 "I only left the drawing-room a minute for a little quiet."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Poi uscirono i pezzi della sua flauta… Li portava sempre con sé.”
+
+“Tasca… proprio come portava sempre con sé il fazzoletto.” Erano…
+
+“Screwed and Arranged… mentre Malone e Donne si radunano insieme…”
+
+“Sghignazzando contro di lui… Il piccolo uomo, guardando da sopra la spalla, lo vide.”
+
+Ma non prestò affatto attenzione. Fu convinto che tutto quel sarcasmo derivasse semplicemente…
+
+Invidia… Non potevano accompagnare le signore come lui avrebbe potuto fare; stava per farlo.
+
+Goditi la vittoria su di loro.
+
+
+
+Il trionfo ebbe inizio. Malone, molto seccato dal sentire quel tizio intervenire continuamente…
+
+Stile superiore: determinato anch’esso a guadagnarsi distinzione, se possibile…
+
+All’improvviso assunse l’aspetto di un corteggiatore… un ruolo che, in realtà, già ricopriva.
+
+Cercò di attuarlo una o due volte in passato, ma senza riuscirci.
+
+Avendo finora ottenuto il [[success|successo]] che senza dubbio riteneva meritare, probabilmente era convinto che i suoi meriti fossero stati riconosciuti.
+
+Si avvicinò a un divano su cui era seduta la signorina Helstone e vi posò…
+
+#Un irlandese audace le si avvicinò, cercando di approfittare della situazione…
+
+# Alcune parole, accompagnate da sorrisi straordinari…
+
+Incomprensibile. Nel corso dei suoi sforzi per farsi comprendere…
+
+“Aggradabile… riuscì a impossessarsi dei due lunghi cuscini del divano.”
+
+E uno quadrato; con il quale, dopo averli rotolati per un po’ di tempo.
+
+Con gesti strani, riuscì a creare una sorta di barriera tra…
+
+#Lui stesso e l’oggetto delle sue attenzioni… Caroline, più che disposta…
+
+“Dovrebbero essere separati… Presto trovò una scusa per avvicinarsi a loro.”
+
+Alla parte opposta della stanza, e prendendo posizione accanto alla signora Sykes…
+
+Di cui chiese alla gentile signora alcune indicazioni su un nuovo punto di cucito.
+
+Knitting a decorative piece? Un favore che si può facilmente concedere… E così, Peter Augustus.
+
+Fu cacciato via.
+
+
+
+Il suo volto si oscurò in modo molto cupo quando se ne rese conto.
+
+Abbandonato… lasciato completamente alle sue sole risorse, su un grande divano…
+
+# Tre piccoli cuscini tra le mani… Il fatto è che si sentiva così.
+
+Disposto seriamente a coltivare una conoscenza con la signorina Helstone, perché…
+
+Lui, come molti altri, pensava che suo zio possedesse del denaro.
+
+Si concluse che, poiché non aveva figli, probabilmente l’avrebbe lasciata a…
+
+Sua nipote. Gérard Moore ne sapeva di più in questo campo: l’aveva vista con i suoi occhi.
+
+La graziosa chiesa che nacque grazie alla dedizione e al denaro del rettore…
+
+Più volte, nel profondo della sua [[Soul|'anima]], aveva maledetto quel costoso capriccio.
+
+Il che andava contro i suoi desideri.
+
+
+
+Quella sera sembrava interminabile per una persona presente in quella stanza… Caroline, infatti…
+
+“Intervals” le fece posare il lavoro a maglia in grembo e si abbandonò a… qualcosa di indefinito.
+
+# Sonnolenza cerebrale – chiudere gli occhi e abbassare la testa – causata da…
+
+“Quel rumore senza senso che le sembrava circondarla… Quella disarmonia…”
+
+“Il suono insipido e stridulo delle tastiere del pianoforte… le note acute e affannose che ne derivano…”
+
+La flauta, le risate e la gioia di suo zio, e di Hannah, e di Mary.
+
+#Non riusciva a capire da dove provenisse; non aveva sentito nulla di comico…
+
+# Gioiosi nel loro discorso; e soprattutto, per via di quelle discussioni interminabili…
+
+“Pettegolezzi sulla signora Sykes le sussurrati all’orecchio… pettegolezzi che risuonavano nella sua mente…”
+
+# Cambiamenti su quattro argomenti: la sua salute e quella delle altre persone
+
+# Membri della sua famiglia; il missionario e gli ebrei… cesti e loro…
+
+# Contenuti: l’incontro tardo a Nunnely, e un altro che si aspettava…
+
+Si terrà la prossima settimana a Whinbury.
+
+
+
+Finalmente esausta, approfittò dell’opportunità offertale dal signor.
+
+# Dolcezza si avvicina per parlare con la signora Sykes e poi uscire silenziosamente…
+
+Appartamento, e cercò un momento di riposo nella [[Solitude|solitudine]]. Si ritirò nell’appartamento.
+
+Sala da pranzo, dove il chiaro ma ormai debole residuo di un [[Fire|fuoco]] continuava ancora ad ardere.
+
+“Nella grata… Il posto era vuoto e silenzioso; bicchieri e decanter giacevano abbandonati lì.”
+
+Una volta rimosso il tavolo, le sedie furono rimesse al loro posto, tutto era di nuovo in ordine.
+
+# Ordine e tranquillità. Caroline si adagiò nella grande poltrona comoda di suo zio, con le gambe semi-chiuse.
+
+“Gli occhi… e si riposò: almeno i suoi arti, i suoi sensi…”
+
+Ascolto, la sua visione… stanchi di non sentire nulla, e di fissare senza vedere nulla.
+
+Titolo:  
+“Vacanza… Per lei, quel pensiero la portò direttamente verso il Luogo Vuoto.”
+
+#La soglia del salotto… e poi oltre
+
+Contando le stanze della casa, si chiedeva quale di esse fosse benedetta dalla presenza.
+
+Robert. Per coincidenza, nessuna delle due località possedeva quell’onore; per Robert.
+
+Il titolo è: “A mezza miglia di distanza da entrambi… e molto più vicino a Caroline che a lei”.
+
+# Spirito spento e sospettato… In quel momento stava attraversando…
+
+Il cimitero, avvicinandosi al cancello del giardino della canonica, ma senza però entrare.
+
+#Vedere suo cugino, ma con l’intento esclusivo di comunicargli brevemente qualcosa…
+
+Informazioni al rettore.
+
+
+
+Sì, Caroline; senti il filo della campanella vibrare… suona di nuovo.
+
+La quinta volta questo pomeriggio. Sei tu ad iniziare, e ora ne sei sicuro.
+
+#Questo dev’essere l’uomo di cui sogni… Perché ne sei così sicura?
+
+#Spiegalo a te stesso… ma lo sai già. Ti avvicini in avanti, ascoltando.
+
+Con impazienza, Fanny apre la porta… Esatto! È quella voce: bassa e…
+
+Quel leggero accento straniero, ma così dolce, come potreste immaginare. Vi alzate a metà.
+
+“Fanny gli dirà che il signor Helstone è in compagnia, e allora lui se ne andrà.”
+
+“Lontano… Oh! Non può lasciarlo andare. Nonostante se stessa, nonostante tutto…”
+
+“Per qualche motivo, attraversa metà della stanza; è pronta a scattare fuori in qualsiasi momento…”
+
+#Sebbene potesse ritirarsi, entra nel passaggio… “Poiché tu…”
+
+“Il padrone è occupato,” dice, “portami semplicemente in sala da pranzo.”
+
+Con la penna e l'inchiostro, scriverò una breve nota e la lascerò per lui.
+
+
+
+Ora che ha afferrato queste parole e lo sente avvicinarsi, Caroline…
+
+C’era una porta all’interno della sala da pranzo; si sarebbe potuti infilare attraverso di essa…
+
+Scomparire… Si sente intrappolata, stretta tra mura invisibili; teme ciò che potrebbe accadere all’improvviso.
+
+La sua presenza potrebbe infastidirlo… Un attimo in più e sarebbe corsa da lui.
+
+# Quando passa quel secondo… fuggirebbe da lui. Ma non può. Non c’è modo.
+
+#Via di fuga. La sala da pranzo ha una sola porta, attraverso la quale ora entra…
+
+Il cugino… Quello sguardo di sorpresa e preoccupazione che si aspettava di vedere nei suoi occhi…
+
+“Un volto è apparso lì, l’ha scioccata… e poi è scomparso. Lei ha balbettato…”
+
+Una sorta di scusa:–
+
+
+
+“Sono uscito dal salotto solo per un minuto, volevo un po’ di tranquillità.”
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_10" data-title="Shirley — Chapter 7 (part 10)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,motif/lamb,motif/night,motif/prayer,motif/time,motif/window,concept/doubt,concept/fear,concept/forgiveness,concept/hope,concept/identity,concept/providence,concept/revenge,concept/self"></span>
@@ -61393,6 +63471,221 @@ to the best lights I have. In its manufacture I will employ what means I
 choose. Whoever, after hearing this, shall dare to interfere with me may
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Titolo:  
+A meno che la tua commissione non sia di quel tipo, non vedo cosa tu abbia da fare…
+
+Aveva a che fare con quella situazione.
+
+
+
+“Non avevo quella responsabilità in mente, signore; ma poiché [[Providence|Provvidenza]] vi ha condotto da, ”
+
+Titolo:  
+Se menzionate l’argomento, verrò io stesso a occuparmi di qualsiasi piccola questione possiate avere.
+
+Deve esserci qualcosa che si possa dare; anche il più piccolo contributo sarà accettabile.
+
+
+
+“Con questo gesto si tolse il cappello e lo tenne in mano come se fosse una scatola per chiedere l’elemosina… con estrema audacia.”
+
+Sorrideva allo stesso tempo, un sorriso che gli appariva sul viso.
+
+
+
+“Se ti dessi sei pence, lo berresti.”
+
+
+
+“Barraclough alzò le palme delle mani e le parti bianche dei suoi occhi…”
+
+Manifestando nel gesto soltanto un burlesco di ipocrisia.
+
+
+
+“Sembri un bravo ragazzo,” disse Moore, in tono piuttosto freddo e asciutto; “ma…”
+
+Preferisci dimostrarmi che sei un ipocrita doppiogiochista, che il tuo.
+
+“Commercio è frode… Davvero pensate di farmi ridere della vostra presunzione?”
+
+Con cui reciti il tuo ruolo grossolano e farsesco, mentre allo stesso [[Time|tempo]].
+
+Pensi di riuscire a ingannare gli uomini che ti seguono.
+
+
+
+# Il volto di Mosè si oscurò. Si rese conto di essere andato troppo oltre… Stava per…
+
+# Risposta… quando il secondo leader, impaziente di essere stato tenuto in attesa fino ad allora…
+
+# In piedi davanti al gruppo… Quest’uomo non sembrava affatto un traditore.
+
+Sebbene avesse un'aria estremamente piena di fiducia in sé stesso e presuntuosa.
+
+
+
+“Signor Moore,” cominciò, parlando anche con la gola e il naso…
+
+# Pronunciando ogni parola molto lentamente, come se volesse enfatizzarne ogni singola sillaba…
+
+Il pubblico, nel momento giusto, potrà apprezzare appieno l’eleganza insolita di.
+
+Titolo:  
+“Si potrebbe forse affermare con giustizia che sia la ragione, piuttosto che…”
+
+# Pace è il nostro scopo. Veniamo innanzitutto per chiedervi…
+
+Ascolta il buon senso; e se tu rifiuterai, è mio dovere avvertirti.
+
+# Termini molto decisi: saranno prese misure necessarie
+
+# Ricorso che probabilmente porterà… a farvi arrivare a una certa conclusione.
+
+# Il senso dell’insensatezza, di quella follia che sembra guidarci…
+
+#"Guida le tue attività con la stessa diligenza di un artigiano in questo settore manifatturiero"...
+
+Titolo:  
+“Paese… Ehm! Signore, vorrei sottolineare che, essendo uno straniero proveniente…”
+
+# Una costa lontana… un altro quarto e emisfero di questo globo… gettati lì, separati da distanze infinite.
+
+# Un perfetto escluso su queste rive… le scogliere di…
+
+Albion… non possiedi quella comprensione dei modi e delle usanze del nostro popolo.
+
+Porta al beneficio delle classi lavoratrici. Se, per venire subito al dunque…
+
+Titolo:  
+“Signori, vi consiglierei di abbandonare questa attività e di farne a meno.”
+
+Ulteriori estensioni dirette verso [[Home|>casa]], verso il luogo a cui appartieni, potrebbe succedere.
+
+Benissimo. Non riesco proprio a immaginare che qualcuno possa ideare un piano del genere. Cosa ne pensi?
+
+“Che ne dite, ragazzi?” disse, rivolgendosi agli altri membri della delegazione.
+
+che risposero all’unanimità: “Ascoltate, ascoltate!”
+
+
+
+“Bravo, Noah o’ Tim’s!” mormorò Joe Scott, che stava dietro al signor Moore.
+
+“Moses non riuscirebbe mai a batterlo… Le scogliere di Albion, e l’intero emisfero! Mio…”
+
+Certo! Siete venuto dalla Zona Antartica, signore? Mosè è morto.
+
+
+
+Tuttavia, Mosè rifiutò di arrendersi. Pensava che avrebbe provato ancora una volta.
+
+Con uno sguardo piuttosto irritato verso “Noah o’ Tim’s”, iniziò a dire…
+
+Il suo turno… e ora parlò con tono serio, abbandonando ogni sarcasmo.
+
+Scoprì che non aveva risposto.
+
+
+
+#"Ovunque tu pianti la tua tenda tra di noi, signor Moore, vivremo..."
+
+“La pace e la tranquillità… sì, posso dire che si tratti di un’espressione di tutto l’amore e la gentilezza possibili. Io non…”
+
+"#Ancora non mi considero una persona anziana, ma ricordo fino a tempi molto lontani..."
+
+Circa vent'anni fa, quando il lavoro manuale era incoraggiato e rispettato… e nessuno…
+
+Il birichino aveva osato introdurre queste macchine qui…
+
+Dannoso. Ora, io stesso non mi occupo di abbigliamento in tessuto, ma faccio il sarto per mestiere.
+
+Comunque sia, il mio cuore ha una natura piuttosto tenera. Sono un uomo molto sensibile.
+
+# Quando vedo i miei fratelli oppressi, come il mio grande omonimo di un tempo, mi alzo in loro difesa
+
+“Per questo motivo oggi vi parlo di fronte a voi…”
+
+Vi consiglia di abbandonare queste macchine infernali e assumere più persone per aiutarvi.
+
+
+
+“E se non seguo il suo consiglio, signor Barraclough?”
+
+
+
+“Perdono, Signore! Che il Signore possa addolcire il vostro cuore, signore!”
+
+
+
+“È ancora in contatto con i Wesleyani, signor Barraclough?”
+
+
+
+“Lode a Dio! Benedica il Suo nome! Sono un membro dei Metodisti!”
+
+
+
+Il che, in nessun modo, vi impedisce di essere ubriachi nello stesso [[Time|momento]].
+
+E anche un truffatore. Una [[Night|notte]] fa, ti ho visto ubriaco fradicio accanto al.
+
+"Strada sterrata, mentre tornavo dal mercato di Stilbro'; e intanto tu predichi..."
+
+“Pace… tu hai fatto della tua vita lo scopo di suscitare discordie.”
+
+# Non si prova più alcuna simpatia per i poveri in difficoltà
+
+Con me… Li inciti alla rabbia per i tuoi propri scopi malvagi… Quindi…
+
+#Il nome di Noah… voi due siete inquieti.
+
+“Meddlesome, impudent scoundrels, il cui principale movente è l’egoismo…”
+
+[[Ambition|Ambizione]], pericolosa quanto sia infantile. Le persone dietro di te sono alcune.
+
+“Uomini onesti, anche se fuorviati… ma voi due, li considero davvero parte di loro.”
+
+“Cattivo.”
+
+
+
+Barraclough stava per parlare.
+
+
+
+“[[Silence|Silenzio]]! Avete avuto la vostra parola, ora toccherà a me. Per quanto riguarda, ”
+
+“Non obbedirò mai né a te, né a nessun altro uomo al mondo, né a Jack, Jem o Jonathan.”
+
+Sopportalo per un momento. Tu desideri che io lasci il paese; me lo chiedi tu stesso.
+
+Non posso separarmi dalla mia attrezzatura. Se rifiuto, mi minacciate… Io _devo_ farlo.
+
+#Rifiuto categorico… Resto qui, fermo davanti a questa macina, e non mi muoverò mai da questo posto.
+
+“Condividerò le migliori macchine che gli inventori siano in grado di fornire… Cosa ne farai tu?”
+
+# Fai tutto ciò che puoi… ma ciò che mai oseresti fare, è…
+
+Distruggi la mia macina, distruggi tutto ciò che contiene al suo interno, e poi uccidimi. E dopo?
+
+# Se quel edificio fosse in rovina e io un cadavere… che cosa succederebbe, ragazzi?
+
+Dietro a questi due monelli. Fermerebbe l’invenzione o esaurirebbe la scienza?
+
+Nemmeno per un millesimo di secondo! Un altro e migliore “macchinario per suonare musica”.
+
+Sorgerebbe dalle rovine di tutto questo… e forse un proprietario ancora più intraprendente.
+
+# Occupa il mio posto… Ascoltami! Farò il tessuto che desidero, e secondo le mie regole.
+
+Con i migliori mezzi a mia disposizione, impiegherò tutto ciò che è necessario nella sua realizzazione.
+
+Scelgi… Chiunque, dopo aver sentito queste parole, osi interferire con me… possa farlo.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_05" data-title="Shirley — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/death,motif/home,motif/silence,motif/time,motif/well,concept/body,concept/faith,concept/hope,character/pistol"></span>
@@ -61607,6 +63900,219 @@ nor Donne, nor Sweeting. He might be forty years old; he was
 plain-looking, dark-complexioned, and already rather gray-haired. He
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Semplicemente accetta le conseguenze. Un esempio dimostrerà che parlo sul serio.
+
+
+
+# Suonò un fischio acuto e forte. Sugden, insieme al suo staff e ai suoi ordini ufficiali, arrivò subito dopo.
+
+Scena.
+
+
+
+“Moore si girò bruscamente verso Barraclough. ‘Eri a Stilbro’, disse.”
+
+#Hai prove di ciò? Eri sul brulloio, indossavi una maschera… hai bussato.
+
+“Ucciso uno dei miei uomini con le tue stesse mani… tu! un predicatore…”
+
+“Vangelo! – Sugden, arrestate lui!”
+
+
+
+#Mosè venne catturato. Si levò un grido e tutti si affrettarono per salvarlo, ma…
+
+Titolo:  
+La mano che per tutto questo tempo era rimasta nascosta nel petto di Moore…
+
+Riapparendo, tese una [[Pistol|>pistola]].
+
+
+
+“Entrambi i fucili sono carichi,” disse lui. “Sono davvero deciso! State lontani!”
+
+
+
+#Indietreggiando, con il nemico di fronte a sé, proteggeva la sua preda…
+
+La casa della contea. Ordinò a Joe Scott di far entrare insieme a Sugden.
+
+Prigioniero… e chiuse la porta dall’interno. Lui stesso si allontanò camminando all’indietro.
+
+# E prosegue lungo la parte anteriore del mulino, osservando con aria pensierosa…
+
+#Mano abbandonata
+
+[[Pistol|pistola]]. Gli undici delegati rimanenti lo osservarono per un po', mentre parlava.
+
+Sussurrandosi l’uno all’altro… Alla fine, uno di loro si avvicinò.
+
+L’uomo sembrava molto diverso da entrambi quelli che erano stati lì prima.
+
+Parlava in modo chiaro e diretto; era molto favorito dalle persone, ma era umile e aveva un aspetto virile.
+
+
+
+“Non ho molta [[Faith|>fede]] in Moses Barraclough,” disse lui, “e vorrei parlare, ”
+
+# Una parola per te, signor Moore… Non è per cattive intenzioni che sono qui.
+
+Da parte mia, si tratta semplicemente di fare uno sforzo per sistemare le cose, per…
+
+“Sono davvero nei guai… Vedi, siamo in condizioni molto difficili…”
+
+Famiglie povere e sofferenti… Veniamo licenziati a causa di queste regole ingiuste.
+
+Non possiamo fare nulla; non possiamo guadagnare nulla. Che cosa dobbiamo fare? Dobbiamo…
+
+# Mai dire “dai, vogliamo!” e poi legarci e… cosa? No; non ho parole grandi da dire…
+
+“La punta della lingua, signor Moore… Ma credo che sarebbe una pratica poco nobile da adottare.”
+
+Un uomo ragionevole non permetterebbe mai di morire di fame come un idiota. Io non lo farò.
+
+Non sono favorevole al versamento di [[Blood|sangue]]: né ucciderei un uomo, né gli farei del male; e.
+
+“Non sono favorevole al distruggere mulini e rompere macchinari… Perché, come dite voi…”
+
+“Quel modo di procedere non fermerà mai l’innovazione… Ma parlerò, farò in modo che…”
+
+#Fare il più baccano possibile… L’invenzione può anche essere valida, ma so che non è così semplice.
+
+# Che i poveri muoiano di fame… Coloro che governano troveranno sicuramente un modo per aiutarli.
+
+“Ci penseranno loro a effettuare nuove ordinazioni… Direte che è difficile, vero?”
+
+#Più forte dobbiamo gridare, perché ci sono troppi pigri intorno a noi…
+
+I membri del Parlamento devono impegnarsi in un compito arduo.
+
+
+
+“Preoccupate pure i membri del Parlamento quanto volete,” disse Moore; “ma…”
+
+Preoccupare i proprietari dei mulini è assurdo, e personalmente non lo tollererò.
+
+
+
+“Sei proprio uno duro!” rispose il lavoratore. “Non ci darai nemmeno un po’…”
+
+“O’ [[Time|tempo]]. Non potreste accordarvi di apportare i vostri cambiamenti più lentamente?”
+
+
+
+“Sono forse l’intero settore degli abbigliatori dello Yorkshire? Rispondetemi.”
+
+
+
+“Sei te stesso.”
+
+
+
+Solo io… E se per un attimo mi fermassi lungo la strada, mentre gli altri…
+
+“Se continuassi ad andare avanti così, verrei calpestato… Se facessi ciò che voi desiderate che io faccia…”
+
+#Dovrei fallire entro un mese… E se fallissi, forse otterrei qualcosa da mangiare?
+
+#Le bocche affamate dei vostri figli? William Farren, né secondo le vostre direttive
+
+“Né a quello, né a quello di alcun altro mi sottometterò. Non parlatemi più di…”
+
+Macchinari. Farò a modo mio. Domani ne ordinerò di nuovi.
+
+“Se le rompessi, ne comprerei altre… Non mi arrenderò mai.”
+
+
+
+Qui la campanella del mulino suonò le dodici. Era l’ora di cena. Moore
+
+Si allontanò bruscamente dalla delegazione e rientrò nella sua sala delle votazioni.
+
+
+
+Le sue ultime parole avevano lasciato un’impressione negativa e dura; almeno lui lo sapeva.
+
+"Non è riuscito a sfruttare al meglio l’opportunità che aveva sotto controllo… Parlando con gentilezza."
+
+A William Farren – un uomo estremamente onesto, privo di invidia o odio
+
+Coloro che si trovano in circostanze più fortunate delle sue, ritenendo che ciò non costituisca alcuna difficoltà.
+
+#E senza alcuna ingiustizia: essere costretti a vivere attraverso il lavoro…
+
+“Onorabilmente soddisfatto se solo riuscisse a trovare del lavoro da fare… Moore forse avrebbe potuto capirlo.”
+
+Un amico… Sembrava meraviglioso il modo in cui riuscisse a cambiare completamente, passando da una persona del genere a qualcos’altro completamente diverso.
+
+Un’espressione di comprensione o simpatia… Il viso di quel poveretto.
+
+#Sembrava estenuato dalla povertà; aveva l’aspetto di un uomo che non aveva mai conosciuto…
+
+#Vivere nel lusso e nella abbondanza per settimane, forse mesi…
+
+Passato… Eppure sul suo volto non c’era alcuna ferocia, nessuna malvagità.
+
+Il titolo era: “Vestito in modo semplice, con l’aspetto scoraggiato e austero, ma ancora paziente… Come avrebbe potuto Moore andarsene?”
+
+“Gli dissi così, con queste parole: ‘Non mi arrenderò mai’, senza nemmeno un sussurro…”
+
+Buona volontà, o [[Hope|>speranza]], o aiuto?
+
+
+
+Farren, mentre tornava [[Home|a casa]] nella sua capanna – un tempo, in tempi migliori, una dimora dignitosa.
+
+Un posto pulito e piacevole, ma ora, sebbene ancora pulito, molto triste…
+
+“Così povero…”, si chiese. Concluse che il mondo estero fosse inaccessibile per lui.
+
+Il proprietario della fabbrica di mulini era un uomo egoista, insensibile… e, secondo lui, anche stupido.
+
+“Uomo… Gli sembrava che l’emigrazione fosse la soluzione, se solo avesse avuto i mezzi per farlo.”
+
+“Emigrare sarebbe stato preferibile a servire un tale padrone… Lo pensava.”
+
+Molto scoraggiato, quasi senza speranza.
+
+
+
+Al suo arrivo, sua moglie gli servì, in modo ordinato, la cena che aveva preparato…
+
+#Doveva darglielo… e anche ai bambini. Era solo porridge, e in quantità troppo scarsa.
+
+Titolo:  
+Alcuni dei bambini più piccoli chiesero di averne ancora dopo averne finiti.
+
+#La loro parte… una richiesta che turbò molto William. Mentre lui…
+
+Sua moglie li calmò nel miglior modo possibile; lui lasciò il suo posto e andò.
+
+#Porta… Soffiò una melodia allegra, ma questo non impedì comunque…
+
+Titolo:  
+“Un primo tuono di una tempesta…”
+
+#Quelli che sgorgavano dalla ferita del gladiatore…) accumularsi sul…
+
+“Le palpebre dei suoi occhi grigi… e da lì fino alla soglia. Lui si fece da parte.”
+
+“Con il proprio gomito si schermò la vista… e quando quell’atmosfera di commozione svanì, rimase un uomo molto severo.”
+
+fu seguito.
+
+
+
+Era ancora lì, immerso nel [[Silence|silenzio]], quando arrivò un gentiluomo in nero.
+
+# Clericano… ma né Helstone né Malone se ne accorgono subito.
+
+“Né donne, né amori… Doveva avere circa quarant’anni…”
+
+Di aspetto ordinario, con pelle scura e già qualche capello grigio… Lui.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_06" data-title="Shirley — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/time,motif/well,concept/suffering"></span>
@@ -61814,6 +64320,211 @@ exhortation. With a mutual "God bless you, sir!" "God bless you, my
 
 friends!" they separated.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Si chinava leggermente mentre camminava; il suo volto, man mano che si avvicinava, esprimeva…
+
+Un’aria distaccata e piuttosto malinconica; ma avvicinandosi a Farren, sembrava…
+
+“Su… e poi un’espressione sincera e calorosa illuminò il suo volto solitamente serio e pensieroso.”
+
+faccia.
+
+
+
+“Sei tu, William? Come stai?” chiese.
+
+
+
+“Mediocre, signor Hall. Come state? Volete entrare e riposarvi un po’?”
+
+
+
+# Il signor Hall, il cui nome il lettore ha già visto menzionare in precedenza…
+
+Il vescovo di Nunnely, da cui Farren proveniva, era effettivamente il parroco della zona.
+
+Da dove si era trasferito soltanto tre anni prima per stabilirsi a Briarfield.
+
+Per la comodità di trovarsi vicino a Hollow’s Mill, dove aveva ottenuto…
+
+#Entrò nella capanna e, dopo aver salutato la brava moglie…
+
+#Bambini, sedetevi. Poi iniziò a parlare con grande allegria di…
+
+Il lasso di [[Time|tempo]] trascorso da quando la famiglia aveva lasciato la sua parrocchia.
+
+Titolo:  
+I cambiamenti avvenuti da allora; rispose alle domande che lo riguardavano.
+
+#Sorella Margaret, di cui si chiese notizie con grande interesse; lui le fece domande…
+
+A sua volta pose delle domande, e infine guardò intorno con fretta e ansia.
+
+Attraverso i suoi occhiali (ne indossava, perché era miope)…
+
+La stanza spoglia, e i volti pallidi e emaciati di coloro che erano lì riuniti…
+
+#Lui… perché i bambini si erano raccolti intorno alle sue ginocchia, e il padre e la madre…
+
+“Era davanti a lui… – disse improvvisamente –”
+
+
+
+“E come state tutti? Come va?”
+
+
+
+# Mr. Hall, si può osservare, sebbene fosse uno studioso erudito, non solo parlava…
+
+Con un forte accento settentrionale, ma talvolta utilizzato liberamente
+
+Espressioni tipiche del nord della nazione.
+
+
+
+“Non andiamo d’accordo,” disse William; “siamo tutti senza lavoro… Ho venduto…”
+
+“Cose di casa, insomma, come potete vedere; e ora vediamo cosa faremo dopo…”
+
+“Solo Dio lo sa.”
+
+
+
+“Mr. Moore vi ha deluso?”
+
+
+
+“Ci ha delusi; ora ho una certa opinione su di lui…”
+
+Se mi riprendesse domani, non lavorerei più per lui.
+
+
+
+“Non è da te dire una cosa del genere, William.”
+
+
+
+“Lo so che non è così… Ma sto cambiando, divento diversa da prima; ho la sensazione di essere diversa.”
+
+# Cambiamenti. Non mi sarei curato se i miei figli e mia moglie avessero abbastanza da vivere…
+
+Ma sono stretti nella morsa della povertà… soffrono terribilmente…
+
+
+
+“Beh, ragazzo mio. Anche tu lo sei; lo vedo chiaramente. Sono tempi difficili, ”
+
+Vedo sofferenza ovunque mi volga. William, siediti. Grace, siediti. Lasciate che.
+
+“Dovremmo parlarne insieme.”
+
+
+
+# E per poterne discutere più approfonditamente, il signor Hall sollevò…
+
+# I bambini sulle sue ginocchia, e lui pose la mano sulla loro testa
+
+# Quasi il peggiore… ma quando le piccole cose iniziarono a “chiacchierare” con lui, lui ordinò…
+
+“Zittite!” disse, fissando il cancello con lo sguardo.
+
+Di braci che ardevano lì con grande intensità.
+
+
+
+“Tempi tristi,” disse, “e durano a lungo. È la volontà di Dio… La Sua volontà.”
+
+“Verrà fatto. Ma ci mette alla prova fino al limite.”
+
+
+
+Di nuovo rifletté.
+
+
+
+“Non hai soldi, William, e non possiedi nulla da vendere per raccogliere i fondi necessari…”
+
+“Una piccola somma?”
+
+
+
+“No. Ho venduto il tuo comò, gli armadietti, l’[[Clock|orologio]], e anche quel pezzetto di, ”
+
+#"Mahogany stand, la bella teiera di tua moglie e tutto quel servizio in porcellana..."
+
+Fu portata con noi come dote quando ci sposammo.
+
+
+
+# E se qualcuno ti prestasse una o due sterline, riusciresti a farne buon uso?
+
+“Potresti provare un nuovo modo per fare qualcosa?”
+
+
+
+Farren non rispose, ma sua moglie disse rapidamente: “Sì, ne sono sicura.”
+
+“Potrebbe farlo, signore. Il nostro William è davvero un tipo molto ingegnoso… Se solo avesse due…”
+
+Con tre libbre in più avrebbe potuto iniziare a vendere merci.
+
+
+
+“Potresti farlo, William?”
+
+
+
+“Per favore, Dio…”, rispose William con calma, “vorrei poter comprare la spesa…”
+
+# Materiali necessari… e ciò che pensavo potesse vendersi
+
+“Iniziarono vendendo di tutto, per prima cosa.”
+
+
+
+“E sa una cosa, signore,” intervenne Grace, “sono sicura che William sarebbe…”
+
+“Né bere, né stare oziosi, né sprecare nulla… Lui è mio marito, e io…”
+
+Non dovremmo lodarlo… ma devo dire che non c’è nessuno più sobrio e onesto di lui.
+
+Né l'Inghilterra né lui lo sono.
+
+
+
+“Beh”, parlerò con uno o due amici, e credo di poter promettere.
+
+#Dategli 5 sterline al giorno o due… come prestito, intesi? Non come regalo. Lui deve restituirle.
+
+“Rimborsalo.”
+
+
+
+“Capisco, signore. Sono assolutamente d’accordo.”
+
+
+
+#"Intanto, eccoti qualche scellino, Grace… solo per mantenere le cose in movimento."
+
+#Fervendo fino all’arrivo della consuetudine… Ora, bambini, mettetevi in fila e dite…
+
+#Catechismo… mentre tua madre va a comprare la cena; perché tu non l’hai ancora fatto.
+
+Oggi ho avuto molto da fare, ne sono sicuro. Inizia tu, Ben. Come ti chiami?
+
+
+
+# Il signor Hall rimase fino al ritorno di Grace; poi se ne andò in fretta.
+
+# Stringendo la mano sia a Farren che a sua moglie, proprio sulla soglia disse…
+
+# Alcune parole brevi ma molto sincere di consolazione religiosa
+
+#Esortazione. Con un reciproco “Dio vi benedica, signore!” “Dio vi benedica, mia…”
+
+“Amici!” dissero, poi si separarono.
 
 
 
@@ -62064,6 +64775,252 @@ And this is with burning,
 
 And fuel, and [[Fire|fire]]!"
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IX.
+
+
+
+BRIARMAINS.
+
+
+
+
+
+#I signori Helstone e Sykes iniziarono ad essere estremamente scherzosi…
+
+#Congratulazioni al signor Moore per il suo ritorno dopo essere stato allontanato
+
+La delegazione… Tuttavia, rimase estremamente silenzioso di fronte ai loro complimenti.
+
+“La sua fermezza, ecc., e un volto simile a una giornata cupa e tranquilla…”
+
+# Altrettanto privo di luce e di brezza… dopo aver gettato un’occhiata…
+
+Con uno sguardo astuto negli occhi dell’altro, gli esprimeva i suoi complimenti con un gesto del cappotto…
+
+Disse questo a Sykes, il cui senso dell’udito e della vista non erano abbastanza acuti da permettergli di…
+
+Scoprire da solo dove la sua presenza e le sue conversazioni risultavano fastidiose.
+
+“Come, signore; la vostra[[Road|strada]] e la mia si incrociano in parte. Non sarebbe meglio, ”
+
+# Fare compagnia l’uno all’altro? Saluteremo Moore e lo lasceremo in pace…
+
+Le felici fantasie a cui sembra disposto a indulgere.
+
+
+
+“E dove è Sugden?” chiese Moore, alzando lo sguardo.
+
+
+
+“Ah, l’ho trovata!” esclamò Helstone. “Non ho passato del tutto il tempo a fare niente mentre eri occupato.”
+
+Ho aiutato te un po’, e non mi lodo senza motivo.
+
+Ho pensato fosse meglio non perdere tempo; quindi, mentre voi stavate discutendo.
+
+#Quel gentiluomo dallo sguardo triste… Farren, credo sia il suo nome… Ho aperto questo…
+
+Tornato alla [[Window|finestra]], gridò a Murgatroyd, che si trovava nella stalla, di portare il signore.
+
+# Il giro di lavoro di Sykes; poi ho nascosto Sugden e il fratello Moses… con la gamba di legno
+
+E così via… attraverso quell’apertura, li vidi salire sul carro (sempre insieme).
+
+Con il permesso, naturalmente, del nostro buon amico Sykes, Sugden prese…
+
+“Redini… guida come Giosuè… e in un altro quarto d’ora…”
+
+Barraclough sarà al sicuro nella prigione di Stilbro'.
+
+
+
+“Molto bene, grazie,” disse Moore; “e buongiorno, signori,” aggiunse.
+
+“Li accompagnò gentilmente fino alla porta e li vide allontanarsi.”
+
+Le sue premesse.
+
+
+
+# Un uomo silenzioso e serio per tutto il resto della giornata… Nemmeno…
+
+# Un battibecco con Joe Scott, che a sua volta disse al suo padrone…
+
+Solo ciò che era assolutamente necessario per il progredire degli affari.
+
+Lo guardava spesso con la coda dell’occhio.
+
+Andò a ravvivare il fuoco nella casa dove si contavano le cose per lui; una volta, mentre lo faceva.
+
+Chiudendo per la giornata, (all’epoca la macina funzionava solo per brevi periodi di [[Time|tempo]], a causa di, )
+
+“La lentezza del commercio…”, osservò che era una serata meravigliosa, e lui…
+
+"#Si potrebbe desiderare che il signor Moore facesse una passeggiata lungo il sentiero nel burrone… Sarebbe utile."
+
+“Rimettetelo in sesto.”
+
+
+
+A questa raccomandazione, il signor Moore scoppiò in una breve risata, e poi…
+
+Chiese a Joe cosa significasse tutta questa premura e se la considerasse una sorta di approvazione da parte sua.
+
+Per una donna o un [[Child|bambino]], gli strappò le chiavi di mano e lo spintonò via.
+
+“Si allontanò con le spalle rivolte verso di lui… Tuttavia, prima che potesse andarsene…”
+
+Aveva raggiunto il cancello del cortile.
+
+
+
+“Joe, conosci quei Farren? Immagino che non siano molto benestanti, ”
+
+
+
+“Non possono essere molto ricchi, signore, se non hanno avuto lavoro per tre mesi, ”
+
+Mese. Avresti visto William cambiare profondamente: ora era bellissimo, in coppia con qualcuno adatto a lui.
+
+Hanno venduto la maggior parte delle cose che c'erano in quella [[house|>casa]].
+
+
+
+“Non era un cattivo lavoratore, vero?”
+
+
+
+“Non avete mai avuto nulla di meglio, signore, da quando avete iniziato a fare affari.”
+
+
+
+“E anche persone perbene, tutta la famiglia?”
+
+
+
+“Niver dacenter. La moglie è davvero una bella donna, e anche molto pulita, potreste, ”
+
+Mangi la tua pappa dal pavimento di casa. Sono davvero ridotti in condizioni disperate. Vorrei tanto.
+
+“William potrebbe trovare un lavoro come giardiniere o qualcosa del genere…”
+
+# Conosce bene l’arte del giardinaggio. Una volta visse con un scozzese che…
+
+Gli rivelarono i misteri di quell’arte, come si suol dire.
+
+
+
+“Allora, ora puoi andare, Joe. Non c’è bisogno che stia lì a fissarmi.”
+
+
+
+“Non ha ordini da dare, signore?”
+
+
+
+“Niente, se non che tu ti tolga di mezzo.”
+
+
+
+E così fece anche Joe.
+
+
+
+*       *       *       *       *
+
+
+
+Le serate di [[Spring|primavera]] sono spesso fredde e umide; anche se quella sera era stata bella.
+
+#Giorno caldo, anche al mattino; il sole del mezzogiorno riscalda l’aria, ma poi questa si raffredda…
+
+Al tramonto, il terreno si indurì; prima ancora che calasse la sera, una fitta [[Frost|brina]] iniziò ad avvolgere tutto silenziosamente.
+
+“Rubando l’erba che cresce e i boccioli che si schiudono… Ingevignava il marciapiede.”
+
+# Davanti alla residenza di Briarmains (la dimora del signor Yorke), causò distruzione silenziosa
+
+Tra le tenere piante del suo [[Garden|giardino]], e sul tappeto di muschio che ricopriva quel luogo.
+
+Prato… Quanto a quel grande albero, con tronco robusto e rami ampi…
+
+Protetta dal tetto spiovente più vicino alla [[Road|strada]], sembrava sfidare le forze della [[Spring|primavera]] e della [[Night|notte]].
+
+Il [[Frost|freddo]] colpì i suoi rami ancora spogli; lo stesso accadde al bosco privo di foglie.
+
+Alberi di noce che si ergono alti dietro la [[house|casa]].
+
+
+
+Nel crepuscolo di quella [[Night|notte]] senza luna ma piena di stelle, le luci che provenivano dalle finestre brillavano.
+
+Vividamente. Non si trattava di una scena cupa o solitaria, né tantomeno silenziosa.
+
+Briarmains si trovava vicino all’autostrada. Era un posto abbastanza vecchio…
+
+Costruiti prima ancora che quella strada venisse realizzata, e quando un sentiero serpeggiante si inoltrava attraverso…
+
+Il sentiero di Briarfield era l’unico percorso che conduceva fino a quel luogo; distava appena un miglio.
+
+“Off; si udiva il suo ronzio, si vedeva chiaramente il suo bagliore. Briar Chapel…”
+
+Un grande, nuovo ed imponente luogo di culto wesleyano, circondato da [[Rose|rosi]], ma situato a cento metri di distanza.
+
+Distante. E poiché in quel momento stava ancora avvenendo una riunione di [[prayer|preghiera]] all’interno.
+
+“I suoi muri, l’illuminazione delle sue finestre proiettavano un riflesso luminoso…”
+
+La [[Road|strada]], che era un [[Hymn|_inno]] di una descrizione davvero straordinaria.
+
+Un vero quacchero potrebbe sentirsi spinto lo Spirito a [[Dance|)danzare]] al ritmo di quella musica, ispirato da essa.
+
+“Cheerily risuonavano in tutti gli echi del quartiere… Le parole erano chiaramente udibili.”
+
+Ascoltabili a tratti… Ecco una o due citazioni tratte da brani diversi.
+
+I cantanti passavano con disinvoltura da un [[Hymn|_inno]] all’altro e da una melodia all’altra.
+
+Con un’agilità e una spensieratezza tipiche di loro stessi:–
+
+
+
+#"Oh! chi può spiegarlo..."
+
+# Questa lotta per la vita
+
+Questo duro lavoro e questa [[Pain|dolore]],
+
+Questo tremore e questa lotta,?
+
+# Pestilenza, terremoto e carestia
+
+# Caos e guerra
+
+La meravigliosa venuta
+
+Proclamate il nome di Gesù!
+
+
+
+#"Per ogni battaglia"
+
+# Terribile e assordante
+
+Il piacere del guerriero
+
+È carneficina e [[Blood|sangue]],
+
+I suoi nemici vengono sconfitti.
+
+Fino a quando tutto non sarà esaurito…
+
+#E questo avviene con ardore…
+
+E carburante, e [[Fire|fuoco]]!
 
 
 
@@ -62945,6 +65902,242 @@ sentimental," urged Mr. Moore.
 "Describe her to me. What was she like? Where did you see her?"
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ceneri. [[Robert Moore]], come potete ben credere vedendolo.
+
+#"Punizione" (e qui indicò i suoi figli). "Chi vorrebbe assumersi questo onere?"
+
+Si circondassero di ragazzi così forti e robusti, se solo potessero…
+
+Aiutarlo? Non si tratta solo di farli nascere in questo mondo… anche se già questo è un problema grave.
+
+Basta così, ma tutti hanno bisogno di essere nutriti, vestiti, cresciuti e aiutati a stabilirsi nella vita.
+
+giovane signore, quando vi sentite tentati di sposarvi, pensate ai nostri quattro figli…
+
+Due figlie. E pensaci bene prima di agire.
+
+
+
+#"Non sono tentato in questo momento, comunque. Penso che non sia il momento adatto..."
+
+Sposarsi o impegnarsi in un [[Marriage|matrimonio]].
+
+
+
+# Un sentimento così cupo non poteva che influenzare la signora Yorke…
+
+Approvazione… Annuì e emise un gemito di assenso; ma dopo un momento…
+
+Disse: “Non do grande importanza alla saggezza di uno come Salomone alla tua età; essa…”
+
+“Vi sentirete turbati dalla prima idea che vi viene in mente… Intanto, sedetevi.”
+
+Signore, può parlare, immagino, sia seduto che in piedi?
+
+
+
+“Questo era il suo modo per invitare l’ospite a sedersi.” Non appena…
+
+Obbedì alla sua richiesta e poi la piccola Jessy saltò giù dalle ginocchia di suo padre e corse via…
+
+Le braccia del signor Moore, che furono prontamente tese per accoglierla.
+
+
+
+“Parli di sposarlo,” disse lei alla madre, con notevole indignazione.
+
+Mentre veniva sollevata delicatamente sulle sue ginocchia, “e ora è sposato… o forse no”.
+
+Bene. Mi promise che sarei diventata sua moglie l’ultima [[Summer|estate]], la prima volta.
+
+Mi ha visto con il mio nuovo abito bianco e la cintura blu. Non è vero, padre?
+
+#Quei bambini non erano abituati a chiamare “papà” e “mamma”; loro madre…
+
+Non avrebbe permesso nulla del genere, niente frivolezze o sentimentalismi.
+
+
+
+#"Ah, mia piccola ragazza… Lui ha promesso; io testimonierò. Ma fai sì che lo dica apertamente."
+
+Ripetilo ancora adesso, Jessy. Sono solo dei pazzi falsi.
+
+
+
+“Non è mai falso… È troppo gentile per poter essere falso,” disse Jessy, alzando lo sguardo.
+
+Con la massima fiducia nella sua [[Faith|>fede]], lei si rivolgeva al suo amato alto.
+
+
+
+“Bonny!” esclamò il signor Yorke. “Ecco perché dovrebbe essere proprio così…”
+
+“Prova che sia davvero un farabutto.”
+
+
+
+“Ma sembra troppo addolorato per poter mentire…”, intervenne una voce tranquilla.
+
+Dietro la sedia del padre… “Se ridesse sempre, io dovrei…”
+
+Credo che abbia dimenticato presto le promesse fatte, ma il signor Moore non ride mai.
+
+
+
+“La tua sentimentalità è la più grande truffa di tutte, [[Rose]],” osservò il signor.
+
+York.
+
+
+
+“Non è sentimentale,” disse [[Rose]].
+
+
+
+#Il signor Moore si girò verso di lei con un leggero sorriso
+
+[[Time|tempo]].
+
+
+
+“Come fai a sapere che non sono sentimentale, [[Rose]]?”
+
+
+
+“Perché ho sentito una signora dire che non lo eri.”
+
+
+
+“Ecco, ora diventa interessante!”, esclamò il signor Yorke, sistemandosi la cintura.
+
+Una sedia più vicina al [[Fire|focolare]]. “Una signora. Ha davvero un tono molto romantico. Dobbiamo, ”
+
+#Chi sarà mai... --Rosy, sussurra il nome piano al tuo padre. Non farlo sapere a nessuno.
+
+“Ascoltalo.”
+
+
+
+“[[Rose|Rosy]], non essere troppo audace nel parlare,” intervenne la signora Yorke.
+
+“Come al solito, rovina tutto il divertimento… Nemmeno Jessy. Sono solo bambini…”
+
+Soprattutto le ragazze, devono rimanere in silenzio in presenza dei loro anziani.
+
+
+
+“Allora, a che servono le lingue?” chiese Jessy in modo impertinente; mentre [[Rose]] si limitò a guardare.
+
+Con un’espressione che sembrava dire alla madre di prenderlo.
+
+Maxim, riflettici con calma quando ne avrai il tempo. Dopo due minuti di[[Grave|serietà]].
+
+“Con calma,” chiese lei, “e perché proprio le ragazze, madre?”
+
+
+
+"#Prima di tutto, perché lo dico io; e in secondo luogo, per discrezione e riservatezza."
+
+“Sono la migliore saggezza che una ragazza possa avere.”
+
+
+
+“Mia cara signora,” osservò Moore, “quello che dice è eccellente… mi ricorda…”
+
+“Me, indeed… delle osservazioni della mia cara sorella; ma in realtà non è così…”
+
+Applicabile a questi piccoli. Lasciate che [[Rose]] e Jessy parlino liberamente con me.
+
+# O la mia principale gioia nel venire qui scomparirà… Mi piace il loro chiacchiericcio; mi diverte.
+
+“Mi fa bene.”
+
+
+
+“Non è vero?” chiese Jessy. “È meglio così che se quei ragazzi rozzi venissero qui…”
+
+“Tu, tu stesso li chiami rozzi, madre.”
+
+
+
+“Sì, carina mia… mille volte più gentile. Ho già abbastanza ragazzi rozzi intorno a me…”
+
+Parlano di me tutto il giorno, poveretti.
+
+
+
+“Ci sono molte persone,” continuò lei, “che prestano attenzione a…”
+
+#Ragazzi… Tutti i miei zii e zie sembrano pensare che i loro nipoti siano migliori degli altri…
+
+Le loro nipoti… E quando i signori vengono qui a cena, è sempre così.
+
+Matthew, Mark e Martin, di cui si parla, mai [[Rose]] e io.
+
+Il signor Moore è _nostro_ amico, e lo terremo con noi. – Ma stai attenta, [[Rose]], lui non è.
+
+“Un amico tanto suo quanto mio… È una mia conoscenza particolare.”
+
+“Ricordatelo!” E alzò la sua manina in un gesto di ammonimento.
+
+Gesto.
+
+
+
+[[Rose]] era ormai abituata ad essere rimproverata da quella piccola mano. La sua volontà, però.
+
+Il suo comportamento quotidiano seguiva quello della impulsiva e vivace Jessy; lei era la sua guida.
+
+“Rifiutato da Jessy in mille occasioni… In ogni momento di esposizione…”
+
+Per piacere di Jessy, lei prese l’iniziativa, e [[Rose]] rimase silenziosamente in secondo piano.
+
+Mentre le sgradevolezze della vita – il lavoro e le privazioni –…
+
+In quel caso, [[Rose]] prese istintivamente su di sé, oltre alle proprie responsabilità, anche quelle altrui.
+
+Condividere tutto ciò che poteva riguardo sua sorella… Jessy aveva già deciso di farlo.
+
+Nella sua mente, lei sapeva che, quando sarebbe stata abbastanza grande, avrebbe dovuto sposarsi; [[Rose]], lei.
+
+Decisa… deve essere una zitella… vivere con lei, prendersi cura dei suoi figli…
+
+Tieni in ordine la sua [[house|>casa]]. Questo tipo di situazione non è affatto insolito tra due persone.
+
+Sorelle: una è semplice, l’altra bella… ma in questo caso…
+
+C’era una differenza nell’aspetto esteriore; [[Rose]] aveva il vantaggio.
+
+Il suo viso aveva tratti più regolari rispetto a quello di quella piccola donna dal carattere vivace…
+
+Jessy… Ma Jessy era destinata ad avere, insieme a quella vivacità, anche qualcos’altro…
+
+# Intelligenza e sentimento vivace: il dono della fascinazione, il potere
+
+Era in grado di incantare quando, dove e chi voleva. [[Rose]] era destinata ad avere una vita meravigliosa.
+
+Un’anima generosa, un’intelligenza nobile e profondamente coltivata, un cuore sincero.
+
+Dura come il ferro, ma il modo per attirare non doveva essere il suo.
+
+
+
+“Ora, [[Rose]], dimmi il nome di questa signora che ha negato che io fossi, ”
+
+“Sentimentale, ”, insistette il signor Moore.
+
+
+
+[[Rose]] non aveva la minima idea di cosa significasse tormentare qualcuno; altrimenti lo avrebbe trattenuto un po’ di più.
+
+[[Doubt|>dubbio]]. Rispose brevemente: “Non posso. Non conosco il suo nome.”
+
+
+
+“Descrivimela per me. Com’era? Dove l’hai vista?”
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_06" data-title="Shirley — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/prayer,motif/rose,motif/time,motif/well,concept/nature,concept/wonder,setting/italy,character/caroline_helstone,character/robert_moore,character/sunday"></span>
@@ -63190,6 +66383,250 @@ garments."
 
 varied enough for thy exacting taste; no perfumer's stores essences
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"#Quando Jessy ed io andammo a trascorrere la giornata a Whinbury con Kate e Susan"
+
+I Pearson, che erano appena tornati [[Home|a casa]] dalla scuola, si trovarono a una festa da parte della signora.
+
+“Pearson’s, e alcune signore adulte erano sedute in un angolo…”
+
+“Parlano di te in salotto.”
+
+
+
+“Lo sapevi che nessuno di loro, ”
+
+
+
+“Hannah, Harriet, Dora, e Mary Sykes.”
+
+
+
+“Bene. Mi stavano maltrattando, Rosy?”
+
+
+
+Alcuni di loro lo erano. Ti chiamavano misantropo. Ricordo quella parola.
+
+L’ho cercato nel dizionario quando sono tornato a [[Home|>casa]]. Significa.
+
+“Un nemico degli uomini.”
+
+
+
+“Cosa altro?”
+
+
+
+“Hannah Sykes ha detto che sei un cucciolo molto serio.”
+
+
+
+“Migliore!” esclamò il signor Yorke ridendo. “Oh, eccellente! Hannah, così è perfetto.”
+
+Quella con i capelli rossi, una ragazza carina, ma un po’ sciocca.
+
+
+
+“Sembra che abbia abbastanza spirito per me… Una cucciola davvero seria,” disse Moore.
+
+Davvero! [[Well|>Bene]], [[Rose|>Rose]], continua pure.
+
+
+
+"#Miss Pearson affermò di ritenere che ci fosse molta affettazione in quel comportamento."
+
+#Su di te… e con quei capelli scuri e quel viso pallido, sembravi proprio lei.
+
+Come una specie di “nudella sentimentale”.
+
+
+
+Di nuovo, il signor Yorke rise; anche la signora Yorke si unì a questa risata, questa volta. “Vedete, ”
+
+“Di quale stima siate considerato alle spalle vostra…”, disse lei; “eppure credo…”
+
+#La signorina Pearson vuole parlarti… Ti ha preso di mira.
+
+“Sei arrivato in questo paese per la prima volta, anche se è molto vecchio.”
+
+
+
+“E chi l’ha contraddetta, Rosy?” chiese Moore.
+
+
+
+#"Una signora che non conosco, perché mai viene qui, anche se la vedo..."
+
+Ogni [[Sunday|)domenica]] va in chiesa; si siede nel banco vicino all’altare. Io.
+
+Di solito guardo lei, invece di guardare il mio libro delle [[prayer|preghiere]], perché lei è.
+
+“Come un quadro nella nostra sala da pranzo… quella donna con la colomba tra le mani…”
+
+# Mano… almeno ne ha gli occhi e anche il naso, un naso dritto.
+
+Questo fa sì che tutto il suo viso appaia, in qualche modo, come lo definisco io, “chiaro”.
+
+
+
+“E tu non la conosci nemmeno!” esclamò Jessy, con un tono di estrema sorpresa.
+
+Sorpresa, “È proprio come [[Rose]]. Signor Moore, spesso mi chiedo di che tipo, ”
+
+Di un mondo in cui vive mia sorella. Sono sicuro che non trascorra tutto il suo [[Time|tempo]] lì.
+
+#Questa donna… Si scopre continuamente che è piuttosto ignorante su alcune cose.
+
+Una sciocchezza che tutti gli altri conoscono… Pensare che lei possa prenderla sul serio…
+
+Andare in chiesa ogni [[Sunday|domenica]] e, per tutto il tempo della cerimonia, fissare uno specifico punto.
+
+Person… e nemmeno chiedere il nome di quella persona. Intende dire…
+
+[[Caroline Helstone]], la nipote del rettore. Me ne ricordo tutto. Signorina.
+
+Helstone era piuttosto arrabbiato con Anne Pearson. Lei disse: “[[Robert Moore]] è, ”
+
+Né influenzato né sentimentale… Ti sbagli completamente riguardo al suo carattere.
+
+“Meglio di no… nessuno di voi qui ne sa nulla al riguardo.” Ora, dovrei raccontare…
+
+#Come è davvero? Io so riconoscere il carattere delle persone e capire com’è fatto.
+
+Vestito meglio di quanto possa permettersi [[Rose]].
+
+
+
+“Sentiamo.”
+
+
+
+“È gentile… è bella… ha un collo snello e bianco…”.
+
+Titolo:  
+Ha lunghi riccioli, non rigidi… cadono morbidi e lenti; il loro colore…
+
+“È di colore marrone, ma non scuro; parla in modo tranquillo, con un tono chiaro; mai…”
+
+#Si muove con affanno; spesso indossa un abito di seta grigio; è molto ordinata.
+
+“Dappertutto… i suoi abiti, le sue scarpe, i suoi guanti: sempre le stanno bene.”
+
+“Una vera signora… è così che la chiamo io; e quando sarò alta quanto lei, anch’io vorrò essere una vera signora.”
+
+Come lei. Sarò adatta a te se lo faccio? Mi sposerai davvero?
+
+
+
+# Moore accarezzò i capelli di Jessy. Per un momento sembrò che stesse per…
+
+Lei si avvicinò di più a lui, ma invece lui la allontanò un po’.
+
+
+
+“Oh! Non vuoi avermi? Mi allontani.”
+
+
+
+#"Perché, Jessy, non ti importa nulla di me… Ora non vieni mai a trovarmi."
+
+“La Cavità.”
+
+
+
+“Perché non mi chiedi tu.”
+
+
+
+# Qui su, il signor Moore inviò entrambe le bambine un invito a fargli visita.
+
+Titolo:  
+“Visiterò domani”, promise, poiché stava dirigendosi verso Stilbro’.
+
+Al mattino, comprava loro un regalo ciascuno; di che [[Nature|natura]] esso fosse, non lo so.
+
+# Poi dichiaralo, ma devono venire a vedere con i loro occhi. Jessy stava per rispondere, quando…
+
+Uno dei ragazzi intervenne all’improvviso…
+
+
+
+“So che di Miss Helstone voi tutti ne parlate molto… Lei è…”
+
+Ragazza brutta. La odio. Odio tutte le donne. Mi chiedo cosa siano veramente.
+
+“Fatto apposta per, ”
+
+
+
+“Martin!” disse suo padre; infatti si chiamava Martin. Il ragazzo rispose soltanto…
+
+# Girando il suo volto giovane e cinico, metà beffardo, metà minaccioso, verso…
+
+#La sedia paterna. "Martin, mio ragazzo, ormai sei un giovane presuntuoso..."
+
+Un giorno diventerà un cucciolo davvero adorabile… Ma mantieni sempre questi sentimenti.
+
+“Tieni… Vedi, ora scriverò queste parole nel mio taccuino.” (Il)
+
+Il senior tirò fuori un libro coperto di velluto marocchino e vi scrisse qualcosa deliberatamente.
+
+“Dieci anni da ora, Martin… se entrambi saremo ancora vivi in quel giorno, io…”
+
+“Ricorda quel discorso.”
+
+
+
+“Anch’io dirò la stessa cosa: odio sempre le donne… Sono davvero così…”
+
+“Bamboline… Non fanno altro che vestirsi con cura e andare a nuotare.”
+
+Sul punto di essere ammirato. Non mi sposerò mai; rimarrò scapolo.
+
+
+
+“Tenace fino in fondo! Tenace fino in fondo… – Hester” (rivolgendosi a sua moglie), “Ero proprio così…”
+
+Quando avevo la sua età, lui era un vero misogino. E guarda un po’! Entro il momento in cui io.
+
+Aveva trentadue anni; in quel periodo si trovava in Francia e in [[Italy|Italia]] come turista.
+
+Solo Dio sa dove. Ogni [[Night|notte]], prima di andare a letto, mi arricciavo i capelli.
+
+# Portava un anello all’orecchio, e avrebbe portato uno anche al naso se fosse stato possibile.
+
+La moda… e tutto ciò che posso fare per rendermi attraente e affascinante
+
+Le signore. Martin farà lo stesso.
+
+
+
+#"Mai e poi mai! Ho più buon senso io… Che tipo di uomo eri, padre… Per quanto riguarda…"
+
+#"Vesto con eleganza, ma questo è il mio voto: non indosserò mai nulla di più raffinato di ciò che vedete ora."
+
+#Attualmente… Signor Moore, sono vestito interamente di stoffa blu.
+
+#Mi deridono e mi chiamano “marinaio” a scuola elementare… Io rido.
+
+Grida più forte contro di loro, e digli che sono tutti gazze e pappagalli… con le loro…
+
+“Gli abiti sono di un colore, i gilet di un altro, e i pantaloni ancora di un altro…”
+
+Terzo: Indosserò sempre tessuti blu, e solo tessuti blu.
+
+# Sotto la dignità di un essere umano vestirsi in colori strani e disordinati
+
+“Abiti.”
+
+
+
+Dieci anni da ora, Martin… nessuna bottega di sartoria avrà la possibilità di scegliere i colori.
+
+A sufficienza variegati per soddisfare i tuoi gusti raffinati… nessuna essenza proveniente dalle botteghe dei profumieri.
 
 
 
@@ -64357,6 +67794,199 @@ She reflected.
 "I shall not be married, it appears," she continued. "I suppose, as
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In chiesa, solo Caroline ebbe l’opportunità di vederlo… e là…
+
+Raramente lo guardava. Era troppo dolore, ma anche troppa gioia allo stesso tempo.
+
+“Guardare… suscitava emozioni troppo intense; e tutte quelle emozioni, in realtà, erano sprecate.”
+
+Aveva imparato a comprendere molto bene.
+
+
+
+Una volta, in una oscura e umida [[Sunday|domenica]], quando c'erano poche persone in chiesa.
+
+# Quando alcune signore particolari erano assenti… e delle loro capacità osservatrici
+
+#E le lingue di tomahawk… Caroline rimase in soggezione; aveva lasciato che i suoi occhi…
+
+Cercare la panca di Robert e riposarsi un attimo sul suo occupante… Lui era lì.
+
+[[Alone|Da sola]]. Per motivi di prudenza, Hortense era stata tenuta a [[Home|casa]].
+
+Sotto la pioggia, con un nuovo cappello primaverile. Durante il sermone, sedeva insieme agli altri.
+
+Con le braccia incrociate e lo sguardo basso, sembrava molto triste e distaccato… Quando
+
+Depresso… Il colore stesso del suo viso sembrava più scuro di quando…
+
+Sorrise… e oggi, guance e fronte mostravano il loro colore più pallido e sobrio.
+
+#Oliva
+
+Espressione del viso che indicava chiaramente che i suoi pensieri non erano affatto gentili o cordiali…
+
+Canale… Erano lontani, non solo da lei, ma da tutto.
+
+Niente di cui potesse comprendere o con cui potesse simpatizzare. Niente.
+
+Il soggetto di cui avevano mai parlato insieme gli tornò alla mente; era completamente immerso in quei pensieri.
+
+# Per interessi e responsabilità che lo richiedevano
+
+poiché non poteva avere alcun ruolo in quella situazione.
+
+
+
+Caroline rifletté a modo suo su questo argomento; ne fece delle congetture.
+
+# Riflessioni su sentimenti, sulla sua vita, sui suoi timori, sul suo destino; meditazioni su un mistero
+
+# Un tentativo di comprendere meglio il “mondo degli affari”
+
+# Comprendere le sue complessità, responsabilità, doveri e richieste…
+
+#Cercare di comprendere lo stato d’animo di un “uomo d’affari”
+
+Immergervisi in quella situazione, provare ciò che lui avrebbe provato, aspirare a ciò che lui avrebbe aspirato.
+
+Il suo desiderio sincero era vedere le cose per come erano realmente, senza essere troppo romantica.
+
+Con grande sforzo, riuscì a intravedere la luce della [[Truth|verità]].
+
+Qui e là, sperando che quel debole raggio fosse sufficiente a guidarla.
+
+
+
+“Diverso, davvero,” concluse lei, “è lo stato mentale di Robert…”
+
+I miei. Penso solo a lui; non ha tempo, né modo di pensare a me.
+
+Il sentimento chiamato [[Love|amore]] è, ed è stato per due anni, il più dominante.
+
+# Emozione del mio cuore: sempre presente, sempre vigile, sempre attiva. Proprio così.
+
+Altri sentimenti assorbono i suoi pensieri e guidano le sue azioni. Lui…
+
+Titolo:  
+Alzandosi ora, sta per lasciare la chiesa… La cerimonia è finita. Tornerà indietro?
+
+Ha girato la testa verso questo banco? No, nemmeno una volta. Non mi ha dato nemmeno un’occhiata.
+
+# Una gentile occhiata mi avrebbe reso felice per tutta la giornata…
+
+# Non l’ha mai avuto; non l’ha voluto dare; se n’è andato… Strano questo dolore.
+
+Ora quasi mi soffoca… perché l’occhio un altro essere umano ha smesso di funzionare.
+
+“Per salutare i miei.”
+
+
+
+Quella sera di [[Sunday|)domenica]], il signor Malone arrivò, come al solito, per trascorrerla con lui.
+
+Titolo:  
+Dopo il tè, la rettrice Caroline si ritirò nella sua stanza. Fanny, conoscendola…
+
+Con i suoi abiti consueti, aveva acceso un piccolo e allegro [[Fire|fuoco]], visto che il tempo era molto ventoso.
+
+#Nascosta lì, in silenzio e solitudine… Cosa poteva fare se non…
+
+“Pensa? Camminava avanti e indietro silenziosamente sul pavimento coperto di tappeti, con la testa…”
+
+# Con le mani incrociate, sedeva con aria rilassata… ma quella posizione risultava fastidiosa.
+
+Un pensiero le attraversò rapidamente la mente; di notte rimase in silenzio.
+
+eccitato.
+
+
+
+Il silenzio regnava nella stanza, il silenzio in tutta la [[house|>casa]]. La doppia porta dello studio attutiva ogni suono.
+
+Le voci dei gentiluomini… I servitori tacevano in cucina.
+
+Immersi nei libri che la loro giovane padrona gli aveva prestato… libri che lei…
+
+Gli aveva detto che erano “adatti alla lettura di domenica”. E lei stessa ne aveva un altro.
+
+Un documento simile era aperto sul tavolo, ma lei non riusciva a leggerlo.
+
+La teologia le risultava incomprensibile, e la sua mente era troppo occupata per poterla affrontare.
+
+Pieno di vita, vagabondo, per ascoltare la lingua di un’altra mente.
+
+
+
+Anche allora, la sua [[Imagination|immaginazione]] era piena di immagini: ritratti di Moore, scene.
+
+Il luogo dove lui e lei avevano trascorso del tempo insieme; scene accanto al fuoco d’inverno; un’atmosfera incantevole.
+
+Il paesaggio di una calda[[Summer|giornata estiva]] scorreva davanti a lui, nel cuore del bosco.
+
+Nunnely Wood: incantevoli ritratti di dolci momenti della [[Spring|primavera]] o della rilassata [[Autumn|autunno]].
+
+# Quando si era seduta al suo fianco nel Boschetto di Hollow, ascoltando quel richiamo…
+
+#Il cuculo di maggio, o la condivisione del tesoro autunnale di noci e frutti maturi
+
+**“Mirtilli: un dolce selvaggio che le procurava grande piacere al mattino…”**
+
+Raccoglierli in un piccolo cestino e coprirli con foglie verdi fresche.
+
+Titolo:  
+I fiori… e la gioia pomeridiana di prendersi cura di Moore, frutto dopo frutto…
+
+Frutto dopo frutto, nuto dopo nuto, proprio come un uccello che nutre i suoi piccoli.
+
+
+
+Le caratteristiche fisiche e l’aspetto di Robert erano proprio quelli di lei; anche il suono della sua voce era lo stesso…
+
+“Piuttosto distinti nel suo orecchio… I suoi pochi gesti di tenerezza sembravano rinnovarsi… Ma questi…”
+
+# Gioie vuote… presto distrutte. Le immagini svanirono…
+
+La voce le mancò; la presa della visionaria si allentò, lasciando che il freddo le sfuggisse dalla mano… E lì…
+
+Il caldo bacio lasciato sul suo fronte aveva lasciato una traccia indelebile… Ora sembrava che…
+
+Se una goccia di pioggia fosse caduta… Lei tornò da una regione incantata.
+
+#Verso il mondo reale: per Nunnely Wood… nel giugno vide la sua stretta stanza…
+
+Per i canti degli uccelli nelle stradine, sentiva la pioggia battere contro la sua finestra; per.
+
+Il sospiro del vento del sud si univa al pianto del triste vento dell’est. E così, per.
+
+# La compagnia virile di Moore le dava l’illusione fragile di possedere anch’essa qualcosa di simile
+
+[[Shadow|>Ombra]] sul muro. Si girò verso il pallido [[Phantom|fantasma]] che si rifletteva lì.
+
+# Il profilo di lei, e il suo sogno nel modo in cui si piega…
+
+# Testa pallida e capelli incolori, si sedette… L’inazione le si addiceva.
+
+"Lo stato d’animo in cui stava cadendo ora... si disse: 'Io'"
+
+#Devo vivere, forse, fino a settant’anni… Per quel che ne so, ho buone ragioni per farlo.
+
+#Salute: forse mi aspetta ancora mezzo secolo di vita… Come dovrei comportarmi?
+
+Occuparlo? Cosa devo fare per riempire quel lasso di [[Time|tempo]] che si estende.
+
+Tra me e la [[Grave|tomba]]?
+
+
+
+Rifletté.
+
+
+
+“Sembra che non mi sposerò,” continuò. “Suppongo…
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_04" data-title="Shirley — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/love,motif/mirror,motif/soul,motif/time,motif/well,concept/body,concept/humility,concept/renunciation,concept/self,concept/wonder"></span>
@@ -64968,6 +68598,199 @@ faults she passed over. Her theme was their wants, which she sought to
 
 supply; their sufferings, which she longed to alleviate. She was
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Con un certo disprezzo… Eppure, nonostante questa crudeltà morale…
+
+# Anatomia… Non era certo una persona che diffondeva pettegolezzi. Mai ha divulgato informazioni false o inappropriate.
+
+# Rapporti maligni o pericolosi… Non era tanto il suo cuore, quanto qualcos’altro…
+
+Correggere quel errore.
+
+
+
+Caroline fece questa scoperta per la prima volta oggi, ed ne rimase molto commossa.
+
+Di conseguenza, iniziò a rimpiangere diverse decisioni ingiuste che aveva preso più volte.
+
+# Sulla vecchia zitella acida, iniziò a parlarle dolcemente, non…
+
+Parole di comprensione, ma pronunciate con un tono compassionevole. La [[Loneliness|solitudine]] di lei.
+
+Il fatto che fosse malata fece vedere al suo visitatore un lato diverso di lei, così come il suo carattere.
+
+# Di quella sua bruttezza: un pallore senza vita sul viso e linee profondamente incise.
+
+La ragazza provava compassione per quella donna solitaria e sofferente; il suo sguardo…
+
+# Raccontò ciò che provava… Un volto dolce non è mai davvero così dolce quando…
+
+#Cuore commosso, animato da una tenerezza compassionevole… La signorina Mann, vedendo…
+
+Un volto del genere rivolto verso di lei la commosse a sua volta. Lei…
+
+Riconobbe il suo interesse, così inaspettatamente dimostrato nei suoi confronti.
+
+Titolo:  
+Chi di solito riceveva solo freddo disprezzo e derisioni… rispondendole così.
+
+Candidamente… Di solito non era molto comunicativa riguardo alle sue faccende personali, perché…
+
+Nessuno aveva voglia di ascoltarla; ma oggi… è diventata così.
+
+La sua confidente versò [[Tears|lacrime]] mentre la ascoltava parlare, perché lei raccontava di cose crudeli.
+
+Sofferenze lente e ostinate. Che fosse simile a un cadavere, non c’era dubbio.
+
+Anche se potesse apparire cupa e mai sorridere, forse desidererebbe comunque evitarlo.
+
+# Emozione… ma mantenere la calma! Quando Caroline seppe tutto…
+
+Si riconobbe che la signorina Mann meritasse davvero ammirazione per la sua forza d’animo, piuttosto che…
+
+#Incolpato per la malinconia… Lettore, quando ti imbatti in qualcosa che…
+
+# Costante oscurità e cipiglio che non si può spiegare… una nuvola immutabile sopra di noi.
+
+# Ti infastidisce per la sua apparente irragionevolezza? Sicuramente c’è una ragione…
+
+“Una cancrena che si diffonde in qualche parte… e una cancrena che, nonostante ciò, corrodge con la stessa violenza.”
+
+Nascosto.
+
+
+
+# Miss Mann sentiva di essere stata in parte compresa e desiderava che ciò avvenisse completamente.
+
+Compreso più chiaramente; perché, per quanto vecchio, semplice, umile, desolato e sofferente…
+
+Possiamo esserlo, finché nei nostri cuori rimane anche la più debole scintilla di vita.
+
+# Conservano anche, tremando vicino a quella pallida brace, qualcosa di affamato, spettrale…
+
+[[Longing|Un desiderio]] ardentemente di essere apprezzati e amati. Per questo spettro sofferente.
+
+Forse, un briciolo non viene gettato una volta all’anno… ma quando si ha fame…
+
+#Sete fino alla fame… quando tutta l’umanità ha dimenticato il povero inquilino che sta morendo…
+
+La [[house|casa]] in rovina. La divina [[Mercy|misericordia]] ricorda il dolente, e una pioggia di.
+
+“Manna per le labbra che non possono più essere nutrite da cibi terreni… Un simbolo biblico.”
+
+Titolo:  
+Promesse fatte nella salute, ma poi ignorate… tornano a sussurrare…
+
+Il divano della malattia… Si ha la sensazione che un Dio pieno di compassione osservi tutto ciò che accade.
+
+L’umanità l’ha abbandonato… Viene ricordata la tenera compassione di Gesù.
+
+Si affidava a loro; l’occhio offuscato, che guarda al di là del [[Time|tempo]], vede una [[Home|>casa]], un amico.
+
+Refugio nell’[[Eternity|eternità]].
+
+
+
+# Miss Mann, avendo ancora l’attenzione del suo ascoltatore, proseguì…
+
+Il titolo allude a circostanze della sua vita passata; parlava come chi racconta storie del proprio passato.
+
+La [[Truth|verità]], semplicemente, e con una certa riservatezza; non si vantava, né.
+
+#Ha esagerato? Caroline pensò che quella vecchia zitella fosse davvero…
+
+Figlia e sorella devota, un’osservatrice instancabile…
+
+#"Letti di morte: il peso di una veglia prolungata e estenuante al fianco del malato"
+
+La malattia che ora le avvelenava la vita aveva origine in…
+
+# Una parente misera… ma che fu un sostegno e un conforto nei momenti più difficili
+
+Una degradazione meritata, eppure era ancora la sua mano a tenerlo prigioniero.
+
+Dalla più totale povertà… La signorina Helstone rimase tutta la sera, omettendo…
+
+Per effettuare la sua altra visita prevista; e quando lasciò la signorina Mann, lo fece…
+
+#La determinazione di cercare in futuro di scusare i suoi errori; mai più…
+
+Non prendere mai in giro le sue particolarità né ridere della sua semplicità… E soprattutto, non farlo mai.
+
+#"Tutte le cose, non per trascurarla, ma per venire una volta alla settimana e offrirle..."
+
+A lei, almeno dal cuore di un essere umano, vengono rivolti omaggi d'affetto e rispetto.
+
+#Ora poteva davvero dedicarle un piccolo omaggio sincero
+
+sentimento.
+
+
+
+Titolo:  
+Al suo ritorno, Caroline disse a Fanny di essere molto contenta di essere uscita.
+
+#Si sentiva molto meglio dopo quella visita… Il giorno seguente, non poté fare a meno di…
+
+Cercare la signorina Ainley… Questa signora si trovava in condizioni più difficili della signorina…
+
+“Mann… e la sua dimora erano più umili. Tuttavia, se possibile…”
+
+Ancora più pulita in modo impeccabile… anche se quella gentildonna in declino non era più in grado di mantenere tale ordine.
+
+Non poteva permettersi di assumere un servitore, quindi si prendeva cura di sé stessa e non aveva altro che…
+
+Un aiuto occasionale da parte di una piccola ragazza che viveva in una capanna vicina.
+
+
+
+Non solo la signorina Ainley era più povera, ma anche meno attraente delle altre.
+
+Vecchia zitella… Nella sua giovinezza doveva essere stata brutta; ora, all’età di…
+
+Cinquanta… era davvero molto brutta. A prima vista, quasi inquietante.
+
+Menti ben disciplinate tendevano a allontanarsi da lei con fastidio.
+
+# Formare un pregiudizio contro di lei, semplicemente sulla base di…
+
+Aspetto poco attraente… Poi, però, con abiti e modi impeccabili, sembrava davvero elegante.
+
+Parlò, e commosse profondamente quella vecchia zitella.
+
+
+
+Il suo benvenuto per Caroline fu formale, anche nella sua gentilezza… perché lo era davvero.
+
+“Buona volontà… ma la signorina Helstone scusò questo comportamento. Lei sapeva qualcosa al riguardo.”
+
+La benevolenza di quel cuore che batteva sotto quel fazzoletto inamidato… tutto.
+
+Il quartiere… almeno tutte le donne del quartiere… sapevano qualcosa.
+
+# Nessuno si oppose alla signorina Ainley, tranne che alcuni giovani signori vivaci…
+
+E quelle vecchie irrispettose che la definivano orribile.
+
+
+
+Caroline era presto a casa, in quella piccola sala. Una mano gentile le prese.
+
+Prese il suo scialle e il cappello, e la sistemò nel posto più comodo possibile.
+
+Vicino al [[Fire|fuoco]]. La giovane donna e quella più anziana erano in quel momento profondamente immerse.
+
+“Conversazione amichevole… e presto Caroline si rese conto del potere che…”
+
+Una mente serena, altruista e benevola può esercitare una positiva influenza su coloro che ne sono soggetti.
+
+Fu sviluppato… Lei non parlava mai di sé, ma sempre degli altri. Il loro…
+
+#Errori che aveva ignorato… Il suo tema erano i loro bisogni, che cercava di comprendere.
+
+#Fornire aiuto… e alleviare le loro sofferenze, qualcosa che desiderava ardentemente fare.
 
 
 
@@ -65826,6 +69649,260 @@ were going.
 
 "She is. She has been there a week. I met her at a party last
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ansioso riguardo al futuro. È questo che ti preoccupa?
+
+
+
+“No, zio; ma desidero un po’ di cambiamento.”
+
+
+
+# Rise and laugh!
+
+Cambiamento! Sempre fantastico e capriccioso. Beh, è proprio nel suo stile.
+
+“Sesso.”
+
+
+
+“Ma non si tratta di fantasia o capriccio, zio.”
+
+
+
+“Allora, di cosa si tratta?”
+
+
+
+"Necessità… Penso di sì. Mi sento più debole di prima. Credo che debba farlo."
+
+“Ho ancora molto da fare.”
+
+
+
+# Ammirevole! Si sente debole… e quindi dovrebbe essere sottoposta a prove difficili.
+
+Titolo:  
+Lavoro… “chiaro come il giorno”, secondo Moore… Ma che confusione, Moore! Andrai tu…
+
+# Ponte sul dirupo; e ci sono due ghinee per comprare un nuovo abito. Vieni, Cary…
+
+Mai [[Fear|paura]]. Troveremo conforto a Gilead.
+
+
+
+"#Zio, vorrei che fossi meno generoso e più..."
+
+
+
+“Di cosa in più?”
+
+
+
+“Simpatizzare” era la parola che Caroline aveva sulle labbra, ma non la pronunciò mai.
+
+Si iscrisse in tempo. Suo zio avrebbe davvero riso se fosse successo così.
+
+“Quella parola banale le era sfuggita… Vedendola in silenzio, lui disse: ‘Il fatto è…’”
+
+È proprio perché non sai esattamente cosa vuoi.
+
+
+
+“Solo per diventare una governante.”
+
+
+
+“Puf! Solo sciocchezze! Non voglio nemmeno sentir parlare di istitutrici… Lasciate perdere.”
+
+Di nuovo. È davvero un’eleganza troppo femminile. Ho finito di fare colazione.
+
+# Scappa subito… e dimentica tutto ciò che ti tormenta.
+
+“Divertiti.”
+
+
+
+“Perché? La mia bambola?” si chiese Caroline mentre usciva dalla stanza.
+
+
+
+Trascorsero una o due settimane; né la sua salute fisica né quella mentale peggiorarono.
+
+#Né meglio. In quel momento, esattamente, si trovava in quella condizione…
+
+#La costituzione conteneva i semi del consumo, del declino… o di un lento declino.
+
+#Febbre… quelle malattie si sarebbero sviluppate rapidamente e in breve tempo…
+
+L’hanno portata via silenziosamente da questo mondo. Le persone non muoiono mai a causa dell’[[Love|amore]] o.
+
+Solo il dolore [[Alone|solitario]]; sebbene alcuni muoiano a causa di malattie innate, che le torture.
+
+# Quei sentimenti intensi spingono prematuramente verso azioni distruttive… Il suono…
+
+La [[Nature|>natura]] subisce queste torture: viene sconvolta, scossa, distrutta.
+
+La [[Beauty|bellezza]] e il fiore appassiscono, ma la vita rimane intatta. Vengono portate.
+
+Un certo grado di decadenza; sono ridotti a pallore e debolezza.
+
+# Magrezza e sfinimento. Le persone, vedendoli muoversi lentamente e con difficoltà, pensano…
+
+Titolo:  
+Che presto si ritireranno nei letti di malattia, periranno lì e smetteranno di esistere…
+
+Tra i sani e i felici… Questo non accade. Loro continuano a vivere…
+
+#Anche se non possono ripristinare la giovinezza e la gioia, possono riacquistare forza
+
+Serenità. Il fiore che il vento di marzo sfiora, ma non riesce a spezzare.
+
+Lontano da qui, forse sopravvivrà per appendere un’mezza mela appassita sull’albero fino a tardi nell’[[Autumn|autunno]].
+
+Dopo aver affrontato gli ultimi gelidi della [[Spring|primavera]], potrà anche resistere ai primi freddi dell’autunno.
+
+[[Winter|inverno]].
+
+
+
+Tutti notarono il cambiamento nell’aspetto della signorina Helstone, e la maggior parte…
+
+“La gente diceva che sarebbe morta… Ma lei stessa non lo pensava affatto. Si sentiva…”
+
+In nessun caso grave di malattia; non provava né  dolore né malessere. Il suo appetito era.
+
+Diminuita… Lei conosceva il motivo: era perché aveva pianto così tanto.
+
+Di [[Night|notte]], la sua forza era diminuita; poteva spiegarlo. Il [[Sleep|sonno]].
+
+Timido e difficile da conquistare; i [[Dreams|>sogni]] erano angosciosi e minacciosi. Lontano, molto lontano.
+
+Nel futuro, sembrava ancora anticipare un [[Time|momento]] in cui quel periodo di sofferenza sarebbe finito.
+
+Deve essere superato, e quando lei sarà di nuovo calma…
+
+Forse mai più felici.
+
+
+
+#Mentre intanto suo zio la esortava a farle visita, affinché rispettasse le frequenti richieste…
+
+Invitazioni da parte dei loro conoscenti… Queste lei le evitò di accettare. Non riuscì a farlo.
+
+“Sii allegra in compagnia… Sentiva di essere osservata lì, più di quanto non lo fosse altrove.”
+
+# Curiosità più che simpatia… Le vecchie signore le offrivano sempre la loro…
+
+Consigli che raccomandavano questo o quel rimedio; le giovani signore la guardavano…
+
+# Un modo che lei comprendeva… ma dal quale si allontanava. I loro sguardi lo dicevano chiaramente.
+
+Sapeva di essere stata “delusa”, come si suol dire; da chi, però…
+
+Non erano sicuri.
+
+
+
+Donne giovani comuni possono essere altrettanto difficili da gestire quanto altre donne giovani comuni…
+
+Signori… proprio come tutti gli altri, mondani e egoisti. Coloro che soffrono dovrebbero sempre…
+
+# Evitateli. Disprezzano il dolore e la sventura; sembrano considerarli…
+
+I giudizi di Dio nei confronti dei più umili. Per loro, “amare” significa semplicemente.
+
+Ideare un piano per ottenere una buona combinazione; essere “delusi” significa…
+
+Il loro piano viene scoperto e fallisce; pensano che i loro sentimenti…
+
+e i progetti altrui sull’argomento dell’[[Love|amore]] simili ai propri.
+
+Giudicateli di conseguenza.
+
+
+
+Tutto ciò che Caroline sapeva, in parte per istinto e in parte attraverso l’osservazione… Lei.
+
+#Il suo comportamento era regolato dalla sua conoscenza; il suo viso pallido e smagrito ne rifletteva l’effetto…
+
+#Restare il più possibile nascosta agli occhi altrui. Vivere così, in totale anonimato…
+
+Isolamento: smise di ricevere notizie riguardo a quelle piccole transazioni.
+
+del quartiere.
+
+
+
+Un mattino, suo zio entrò nel salotto, dove lei era seduta e cercava di…
+
+per trovare un po’ di piacere nel dipingere un piccolo gruppo di selvatiche [[Flowers|>fiori]],
+
+Raccolti sotto un cespuglio in cima ai campi di Hollow, le dissero…
+
+Con il suo modo brusco, disse: “Vieni qui, [[Child|bambino]], stai sempre chinandoti, ”
+
+“Gli strumenti necessari: palette, libri o campioni… Lasciate che sia loro a svolgere il compito di tingere.” Ah, giusto…
+
+“Metti la matita sulle labbra quando dipingi?”
+
+
+
+“A volte, zio, quando me ne dimentico, ”
+
+
+
+“Allora è proprio questo che vi sta avvelenando… Quei colori sono dannosi.”
+
+[[Child|bambino]]. Esistono piombo bianco e piombo rosso, verde di rame, gamba di gallina, e altro ancora.
+
+Altre venti sostanze velenose in quei dolci di colore. Chiudeteli a chiave! Chiudeteli a chiave!
+
+Metti il cappello; voglio che faccia una chiamata con me.
+
+
+
+“Con te, zio?”
+
+
+
+# Con questa domanda si è espresso stupore. Non era abituata a…
+
+#Chiamate con suo zio… Ma lei non usciva mai con lui, né in macchina né a piedi.
+
+Occasione.
+
+
+
+“Veloce! Veloce! Sono sempre impegnato, lo sai. Non ho tempo da perdere.”
+
+
+
+# Raccolse in fretta i suoi materiali, chiedendo intanto dove si trovassero…
+
+Stavano per andarsene.
+
+
+
+“A Fieldhead.”
+
+
+
+“Fieldhead! Che cosa, vuoi dire vedere il vecchio James Booth, il giardiniere? È malato?”
+
+
+
+“Andremo a trovare la signorina [[Shirley Keeldar]].”
+
+
+
+“Signorina Keeldar! Viene in Yorkshire? È a Fieldhead?”
+
+
+
+“È proprio così… È lì da una settimana ormai. L’ho incontrata a una festa la scorsa…”
 
 
 
@@ -68173,6 +72250,217 @@ And whelmed in deeper gulfs than he."
 "Do you pity what he suffered on earth?" asked Miss Keeldar.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Mille all’anno l’uno, nemmeno un centesimo l’altro… Eppure c’era una logica certa in tutto ciò.
+
+#Uguaglianza sperimentata nella sua società, mai conosciuta in quella degli altri
+
+La solita gente comune dei dintorni di Briarfield e Whinbury.
+
+
+
+Il motivo era che la mente di [[Shirley]] era occupata da altre cose, non solo dal denaro.
+
+Titolo:  
+Posizione… Era felice di essere indipendente in termini di proprietà; a volte, però…
+
+Ancora più euforica all’idea di diventare la padrona della tenuta e di avere inquilini…
+
+E una tenuta… Le piaceva particolarmente quella sorta di compiacimento soddisfatto e gradevole.
+
+# Quando si ricorda di “tutta quella proprietà” laggiù nella Valle, che comprende…
+
+# Ottimo mulino da tessuto, stabilimento di tintura, magazzino, oltre alla residenza annessa
+
+Giardini e annessi, chiamati “Cottage di Hollow”; ma la sua esultanza…
+
+# Essere del tutto senza mascheramenti era particolarmente innocuo… e, data la sua serietà…
+
+#Pensieri che si dirigevano altrove… Per ammirare il grande, per rispettare…
+
+Essere buoni e gioire della gentilezza era proprio il carattere distintivo di [[Shirley]].
+
+[[Soul|'anima]]: quindi, rifletté sui modi per seguire appieno questa inclinazione.
+
+Più spesso di quanto riflettesse sulla propria superiorità sociale.
+
+
+
+#In Caroline… Miss Keeldar aveva inizialmente mostrato interesse per lei perché…
+
+Silenziosa, riservata, dall’aspetto delicato… sembrava avesse bisogno di qualcuno.
+
+#Prendermi cura di lei… La sua preferenza per me aumentò notevolmente quando…
+
+Scoprì che il suo modo di pensare e di parlare veniva compreso dagli altri.
+
+Questa nuova conoscente ha risposto… Lei non se l’aspettava affatto. La signorina…
+
+“Helstone… pensava lei, aveva un viso troppo bello, modi e voce troppo affascinanti…”
+
+# Dolcezza… per essere qualcosa di davvero fuori dal comune, sia nei pensieri che nelle realizzazioni…
+
+#Si chiedeva molto come potessero i tratti gentili di quella persona illuminarsi in quel modo…
+
+#Il risveglio di un’avventura audace… e molto di più ancora.
+
+Lo [[Wonder|stupore]] per scoprire la conoscenza conquistata con il proprio sforzo e preziosata, e ciò che non è stato insegnato.
+
+# Speculazioni che agitano quella testa di ragazza, velata da riccioli… Le riflessioni di Caroline
+
+Anche il senso del gusto era simile al suo. Libri come quelli della signorina Keeldar…
+
+Leggere con grande piacere fu anche il divertimento della signorina Helstone. Lo trovarono entrambi molto interessante.
+
+“Molte avversioni in comune… e così poter condividere il conforto di ridere insieme.”
+
+Insieme, attraverso opere di falsa sentimentalità e presuntuosa pompa.
+
+
+
+Pochi, tra uomini e donne, hanno un vero gusto per la poesia.
+
+Un giusto senso per distinguere ciò che è reale da ciò che è falso.
+
+Aveva sentito più e più volte persone molto intelligenti pronunciare questa o quella parola in quel modo.
+
+Un passaggio, in questo o quel poeta, assolutamente ammirevole… che, quando…
+
+Leggeva, ma la sua [[Soul|'anima]] rifiutava di considerare quelle parole altro che semplice poesia.
+
+“Fiorire, ornamenti vistosi e parole ricercate… tutto ciò che sembra curioso, ma in realtà non è altro che fronzoli superficiali.”
+
+# Intelligente, erudito… forse anche sfumato dei colori affascinanti dell’…
+
+“Fantastico… ma, Dio sa, quanto distante dalla vera poesia sia questa bellezza apparente…”
+
+Un enorme vaso in mosaico realizzato con una piccola coppa di metallo puro… o, per dirla in altro modo…
+
+Il lettore ha a disposizione una serie di metafore; proprio come il ghirlando artificiale del cappellaio…
+
+Dalla fresca gigliola del campo appena raccolta.
+
+
+
+# Caroline capì il vero valore dell’oro autentico e lo conosceva bene
+
+La [[Deception|inganno]] di quelle cose vane e superficiali. Le menti delle due ragazze, invece, erano coltivate e mature.
+
+L’armonia spesso si combinava in modo molto dolce tra loro.
+
+
+
+Una sera, per caso, si trovarono [[Alone|da soli]] nella sala degli olmi. Avevano già.
+
+# Una lunga giornata umida trascorsa insieme, senza noia… Ormai era quasi buio.
+
+Le candele non erano ancora state accese; entrambi, man mano che il crepuscolo si approfondiva, rimanevano…
+
+Meditativo e silenzioso. Un vento occidentale soffiava forte intorno alla sala.
+
+#Spinte da nuvole selvagge e piogge tempestose provenienti dall’oceano lontano… tutto ciò si solleva insieme.
+
+Fuori dalle antiche inferriate imperversava la tempesta, ma all’interno regnava una profonda pace. [[Shirley]]
+
+Si sedette alla [[Window|finestra]], osservando la griglia nel cielo, la nebbia sulla terra.
+
+Ascoltando certe note del vento impetuoso che gemeva come se fosse inquieto…
+
+# Spiriti… Note che, se non fosse stata così giovane, allegra e sana, non avrebbe mai scritto
+
+Hanno scosso i suoi nervi tremanti come un presagio, come una sorta di [[Dirge|lamento]] anticipato.
+
+Nel pieno della loro esistenza e nel fiore della loro [[Beauty|bellezza]], furono semplicemente sottomessi.
+
+Dall’allegria alla malinconia… Frammenti di dolci canzoni le riecheggiavano nella mente; ora…
+
+#E poi cantò una strofa… I suoi accenti seguivano l’impulso capriccioso del momento…
+
+Il [[Wind|vento]]; si gonfiava con le sue raffiche impetuose, e poi si placava mentre continuava a soffiare lontano.
+
+Lontano… Caroline, ritirata nell’angolo più remoto e buio della stanza.
+
+La sua figura era appena visibile grazie al bagliore rubino della [[Fire|fiamma]] senza fumo.
+
+Camminava avanti e indietro, mormorando tra sé frammenti di cose ben ricordate.
+
+Poesia. Parlava molto sottovoce, ma [[Shirley]] la sentì; e mentre cantava.
+
+Ascoltava in silenzio… Questa era la melodia…
+
+
+
+La più oscura delle [[Night|notti]] coinvolgeva il cielo.
+
+#Il mare Atlantico si scatenava con violenza
+
+# Quando un miserabile come me…
+
+# Scagliato giù dall’imbarcazione
+
+Di amici, di [[Hope|>speranza]], di tutto ciò che ci viene tolto.
+
+La sua casa galleggiante se ne andò per sempre.
+
+
+
+Qui il [[Fragment|frammento]] si interrompeva, perché la [[Song|CANZONETTA]] di [[Shirley]], in quel momento, era piuttosto.
+
+Intenso e emozionante, era diventato delicatamente più debole.
+
+
+
+“Vai avanti,” disse lei.
+
+
+
+“Allora continua anche tu. Io stavo solo ripetendo ‘Il naufrago’.”
+
+
+
+“Lo so. Se riesci a ricordare tutto, dimmelo tutto.”
+
+
+
+# E poiché stava per calare la notte… e, dopotutto, la signorina Keeldar non era…
+
+#Un’ascoltatrice formidabile… Caroline lo fece con attenzione, punto per punto.
+
+# Il mare selvaggio e il marinaio che annega
+
+La riluttante [[Ship|nave]] fu trascinata via dalla [[Storm|tempesta]]; si dice che ciò sia stato voluto da lei.
+
+E ancora più vividamente si comprese il cuore di quel poeta, che non piangeva…
+
+# Per “Il naufrago”, ma chi, nell’ora di angoscia senza lacrime, tracciò…
+
+“Una somiglianza con la propria miseria abbandonata da Dio nella sorte di quel…”
+
+Il marinaio abbandonato dagli uomini… gridava dalle profondità dove lottava disperatamente…
+
+
+
+Nessuna voce divina placò la [[Storm|tempesta]],
+
+# Nessuna luce favorevole brillava.
+
+# Quando, privato di ogni aiuto efficace…
+
+Siamo morti, ognuno [[Alone|da solo]]!
+
+Ma io, sotto un mare più tempestoso…
+
+E sommerso in abissi più profondi di quelli che conosceva.
+
+
+
+“Spero che William Cowper sia al sicuro e in pace in cielo ora,” disse Caroline.
+
+
+
+“Vi dispiace per ciò che ha sofferto sulla terra?” chiese la signorina Keeldar.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_07" data-title="Shirley — Chapter 12 (part 7)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/tyrant,motif/love,motif/nature,motif/pain,motif/ship,motif/soul,motif/well,motif/wind,concept/despair,concept/friendship,concept/nature,concept/solitude,concept/wonder,setting/london,setting/ship"></span>
@@ -69784,6 +74072,220 @@ with a wild shriek, she dives?"
 
 "But, [[Shirley]], she is not like us. We are neither temptresses, nor
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Se il [[Fire|fuoco]] la riscaldava troppo, si poteva mettere uno schermo tra la sua sedia e.
+
+Il camino, chiuse una [[Window|finestra]] da cui immaginava provenisse un soffio d’aria fredda.
+
+E spesso, con aria inquieta, la guardava. [[Shirley]] continuò: “Dopo aver, ”
+
+“Ho rovinato il tuo piano,” disse lei, “e spero di averlo fatto davvero.”
+
+Costruirne uno nuovo, fatto da me stesso. Ogni [[Summer|estate]] faccio un’escursione. Questo.
+
+#Due mesi nei laghi scozzesi… o altrove
+
+Titolo:  
+I laghi inglesi… cioè, ci andrò se voi acconsentite.
+
+Accompagnami. Se rifiuti, non muoverò un dito.
+
+
+
+“Sei molto brava, [[Shirley]].”
+
+
+
+“Sarei molto bravo se mi lasciaste fare… Ho tutte le predisposizioni necessarie.”
+
+“Essere buoni… È la mia sfortuna e abitudine, lo so, pensare sempre a me stesso.”
+
+Prima di chiunque altro; ma chi, in questo senso, non è come me?
+
+Tuttavia, quando il Capitano Keeldar viene sistemato in modo confortevole…
+
+#Un compagno sensato e gentile gli è di grande aiuto
+
+Con piacere dedica i propri momenti liberi per rendere felice quel compagno. E
+
+“Non dovremmo essere felici, Caroline, nelle Highlands? Andremo lì…”
+
+## Montagne alte. Se riuscite a sopportare un viaggio in mare, andremo alle isole…
+
+# Isole Ebridi, Shetland, Orcadi: non le piacerebbero?
+
+“Vi vediamo dopo… – Signora Pryor, la chiamo a testimoniare: il suo viso è completamente…”
+
+Il sole splende non appena se ne parla.
+
+
+
+“Mi piacerebbe molto,” rispose Caroline; a lei, infatti, quell’idea sembrava davvero interessante.
+
+Un tale viaggio non solo era piacevole, ma rappresentava anche un meraviglioso modo per rinnovarsi. [[Shirley]]
+
+Si sfregò le mani.
+
+
+
+“Vieni, posso compiere un atto di bene”, esclamò. “Posso fare qualcosa di buono”.
+
+Con i miei soldi… I mille dollari all’anno che guadagno non sono certo qualcosa di “sporco” o disonorevole…
+
+#"Banconote e ghinee ingiallite… Parliamo con rispetto di entrambe."
+
+“Anche se, perché li adoro davvero… ma forse rappresentano una sorta di ‘salute’ per ciò che è appassito o debole…”
+
+Forza per i deboli, consolazione per i tristi… Ero deciso a farlo.
+
+Qualcosa di esso è meglio di una bella vecchia [[house|casa]] in cui vivere, meglio persino del raso.
+
+Titolo: Abiti da indossare… meglio di un rispetto superficiale da parte degli conoscenti e di omaggi vuoti.
+
+I poveri. Ecco, inizia tutto ora. Quest’estate, Caroline, la signora Pryor e io andremo.
+
+Titolo:  
+Verso il Nord Atlantico, oltre le Isole Shetland… forse fino alle Isole Faroe.
+
+Isole… Vedremo foche a Suderoe, e senza dubbio anche sirene…
+
+# Stromoe – Caroline ride, signora Pryor… Io l’ho fatta ridere; sono stato io.
+
+Le ha fatto del bene.
+
+
+
+“Mi piacerebbe andare, [[Shirley]],” disse di nuovo la signorina Helstone. “Anelo a sentire, ”
+
+Il suono delle onde… le onde oceaniche… e vederle proprio come me le sono immaginate.
+
+Nei [[Dreams|>sogni]], come se si gettassero mucchi di luce verde, disseminati di cose che scompaiono.
+
+#Ricomparire ghirlande di schiuma, più bianche dei gigli… Sarà un piacere per me osservarle.
+
+Le rive di quelle solitarie isole rocciose dove gli uccelli marini vivono e si riproducono.
+
+“Intoccati… Sarà così che seguiremo le tracce degli antichi scandinavi…”
+
+# Norvegesi… Tra poco vedremo le coste della Norvegia. Una visione molto vaga…
+
+# La gioia che provo nel ricevere la tua proposta… ma è davvero una gioia grande.
+
+“Delizia.”
+
+
+
+“Ora, quando resti sveglio di [[Night|notte]], penserai a Fitful Head, e alle gazze?”
+
+Titolo:  
+Urla che lo circondano, onde che si schiantano contro di esso… piuttosto che altro.
+
+Cimiteri sotto la cucina posteriore della canonica?
+
+
+
+"#Cercherò di farlo; e invece di rimuginare su resti di lenzuola funebri..."
+
+“Fragmenti di casse funebri, ossa umane e muffa… Immagino che siano anche sigilli.”
+
+#Disteso al sole su spiagge deserte, lontano da pescatori e…
+
+# Cacciatore mai giunto… tra le fessure delle rocce, piene di uova perlate nascoste al loro interno
+
+Alga marina; uccelli spaventati che, in felici stormi, coprono le spiagge bianche.
+
+
+
+“E cosa ne sarà di quel peso inesprimibile di cui hai detto di soffrire…”
+
+“La tua mente?”
+
+
+
+#"Cercherò di dimenticarlo riflettendo sul potere e sull’influenza di tutto ciò che è grande."
+
+# Molto al di sopra di un branco di balene che sfrecciano nel tuono liquido e scuro
+
+Dalla zona congelata… forse un centinaio di loro, che giacciono lì immobili…
+
+Scintillando,[[rolling|rollando]] dietro la scia di un toro patriarcale, abbastanza grande da poter.
+
+#Una creatura nata prima del Diluvio… come quella povero Smart aveva dentro di sé
+
+# Quando disse…
+
+
+
+#"Potente contro le correnti, l’enorme balena"
+
+“Emerge mentre procede, ”
+
+
+
+“Spero che la nostra barca non incontri alcuna di queste secche, o branchi, come li chiamate voi, ”
+
+# Caroline. (Immagino che vi piaccia l’idea di mammuti marini che pascolano liberamente…)
+
+# Basi delle “colline eterne”, che divorano cibo strano…
+
+“Vaste valli attraverso e sopra le quali si muovono le onde marine…” Non dovrei…
+
+Come se volessero essere capovolti dal potere dominante del patriarca.
+
+
+
+“Immagino che tu ti aspetti di vedere sirene, [[Shirley]], ”
+
+
+
+Titolo:  
+“Almeno uno di loro… Non accetto niente di meno… E lei deve essere quella.”
+
+“Apparirà in qualche modo del genere… Devo camminare da solo…”
+
+#Una sera d’agosto, piuttosto tarda… osservando e venendo osservato…
+
+Una raccolta abbondante sotto la luce della [[Moon|luna]]. Qualcosa sta per emergere, bianco, sulla superficie del mare.
+
+Sopra il quale quella [[Moon|luna]] sorge silenziosa e splende maestosa. L’oggetto in questione.
+
+“Scintilla e poi scompare… Riemerge di nuovo. Penso di sentirla piangere…”
+
+Voce chiara e distinta; ti chiamo dalla cabina; ti mostro un’immagine.
+
+“Bella come l’alabastro, emerge dalle onde scure… Entrambi la vediamo, quella figura lunga…”
+
+I capelli, il braccio sollevato e bianco come la schiuma, lo specchio ovale, brillante come.
+
+#Stella… Si avvicina lentamente; un volto umano diventa chiaramente visibile… un volto…
+
+Il vostro stile… così diretto, puro (scusate la parola, ma è proprio così).
+
+# Appropriato – il cui viso, dai tratti dritti e puri, appare pallido…
+
+“Distorce… Ci guarda, ma non con i tuoi occhi. Io vedo qualcosa di soprannaturale…”
+
+Una trappola, con il suo sguardo astuto. Ci invita ad avvicinarci. Se fossimo uomini, ci precipiteremmo subito verso di essa.
+
+#Il segno… La fredda onda verrebbe affrontata per il bene di qualcosa ancora più freddo
+
+“Strega incantevole… Essendo donne, siamo al sicuro, anche se non del tutto senza paura.”
+
+#Il nostro sguardo impassibile la fa sentire impotente; l’ira la invade…
+
+# Il suo volto… Non sa incantare, ma ci spaventa; si erge in alto, e…
+
+Si muove silenziosamente lungo la cresta dell’onda oscura. [[Temptress|Tentatrice]], terrore mostruoso!
+
+“La somiglianza con noi stessi… Non sei felice, Caroline, quando finalmente…”
+
+Con un urlo selvaggio, si tuffa?
+
+
+
+“Ma, [[Shirley]], lei non è come noi. Non siamo né tentatrici, né, ”
 
 
 
@@ -72399,6 +76901,201 @@ fond of that brute--'tis so ugly--a mere carter's dog. Pray hang him."
 "And purchase in his stead some sweetly pooty pug or poodle--something
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+L’intera struttura scricchiola di nuovo.
+
+
+
+“Tartar sembrava ritenere che l’arrivo di quel visitatore avesse avuto un impatto ingiustificato…”
+
+#Éclat_… e così ringhiò di nuovo. Ma Malone, invece, non…
+
+Codardo. L’attacco improvviso del cane lo aveva colto di sorpresa, ma se l’è cavata.
+
+Ora lo guardava con una rabbia repressa, piuttosto che con [[Fear|_paura]]. Se solo uno sguardo potesse aver espresso tutto.
+
+“Un tartaro strangolato… non avrebbe più respirato. Dimenticando le buone maniere…”
+
+Nella sua rabbia cupa, Malone entrò nel salotto prima di Miss Keeldar.
+
+# Gettò uno sguardo alla signorina Helstone; faticava quasi a chinarsi verso di lei
+
+# Il suo sguardo minaccioso si posò su entrambe le signore… Sembrava che, se una qualsiasi di loro avesse fatto qualcosa…
+
+Se fosse stata sua moglie, in quel momento sarebbe stato un marito meraviglioso.
+
+Ogni mano sembrava pronta ad afferrare e stringere qualcosa…
+
+Portarla verso la [[Death|morte]].
+
+
+
+Tuttavia, [[Shirley]] provò pietà per lui. Smise di ridere; e anche Caroline lo fece.
+
+“Veramente una signora: è capace di sorridere anche quando si trova in situazioni imbarazzanti… Il tartaro…”
+
+Rifiutato; Peter Augustus fu consolato, perché [[Shirley]] aveva certi sguardi e toni.
+
+#Qualcosa che potrebbe calmare un toro molto irascibile… Aveva la sensatezza di rendersene conto, visto che era in grado di farlo.
+
+Non bisogna mai sfidare il proprietario di un cane: è meglio comportarsi in modo civile. E lui lo ha fatto.
+
+Cercò di esserlo; e poiché i suoi tentativi furono ben accettati, presto iniziò a.
+
+#Molto cortese e di nuovo tranquillo… Era davvero venuto per questo.
+
+Lo scopo evidente è quello di rendersi attraente e affascinante… In modo diretto e deciso.
+
+Portenti lo avevano accompagnato al suo primo ingresso a Fieldhead… ma quello…
+
+#Un passaggio incantevole e affascinante… decise di farne parte.
+
+Marzo, entrato come un [[Lion|leone]], intendeva uscire come un [[Lamb|agnello]].
+
+
+
+Per il bene dell’aria, sembrava… o forse per poter uscire facilmente.
+
+# In caso di qualche nuova emergenza che potesse sorgere, si sedette… ma non sul…
+
+#Sofa, dove la signorina Keeldar gli offrì di “salire al trono”, né nemmeno vicino…
+
+“Accanto al fuoco”, dove Caroline, con un gesto amichevole, lo invitò dolcemente ad avvicinarsi…
+
+Seduto su una sedia vicino alla porta… Ormai privo di malumore o furia, lui…
+
+Diventò, a suo modo, impacciato e imbarazzato. Parlava con…
+
+Donne che, a intermittenze, sceglievano argomenti a seconda di ciò che le interessava di più…
+
+# Intensamente comune… Sospirò profondamente, in modo significativo, alla fine di…
+
+#Ogni frase… Sospirava ad ogni pausa; sospirava anche prima di aprirla.
+
+“Bocca… Alla fine, ritenne opportuno aggiungere anche questo elemento al suo fascino already presente.”
+
+# Estrasse un ampio fazzoletto di seta per aiutarlo. Questo era ciò che serviva…
+
+Il grazioso giocattolo con cui le sue mani inutilizzate potevano divertirsi… Lui andò.
+
+#Con un certo impegno… Lui piegò quel quadrato rosso e giallo.
+
+#Con un movimento deciso, lo aprì e subito dopo lo ripiegò di nuovo
+
+“Un cerchio più ristretto… Ne fece un bellissimo braccialetto. A quale scopo, però?”
+
+#Prosegue ad applicare la ligatura… La avvolgerà intorno al collo?–
+
+Titolo:  
+Testa… Dovrebbe essere un copriletto o un turbante? Nessuno dei due. Peter Augustus aveva…
+
+Un genio inventivo e originale… Stava per mostrare alle signore le sue doti straordinarie.
+
+Un’azione che possiede almeno il fascino della novità… Lui sedeva sulla sedia.
+
+Con le sue gambe irlandesi atletiche incrociate, e quelle gambe, in quella posizione…
+
+Lo avvolse con la bandana e lo legò saldamente. Era evidente…
+
+#Sentì che questo dispositivo meritasse un altro tentativo; lo ripeté più volte…
+
+Una volta. La seconda rappresentazione portò [[Shirley]] davanti alla finestra, per ridere a crepapelle.
+
+# Risata silenziosa ma incontenibile… che fece girare la testa di Caroline da un’altra parte.
+
+affinché le sue lunghe onde bionde potessero nascondere il sorriso che le illuminava il viso.
+
+Miss Helstone, infatti, trovò divertenti più di un aspetto nel comportamento di Peter.
+
+# Comportamento… Rimase colpita da quel cambiamento improvviso ma completo nel suo comportamento.
+
+Titolo:  
+Il suo omaggio da parte sua alla ereditiera… I 5.000 sterline che lui pensava appartenessero a lei
+
+Titolo:  
+“Un giorno, forse, l’eredità potrebbe essere mia… ma questo non deve essere preso in considerazione nel bilancio…”
+
+# La tenuta e la sala di Miss Keeldar… Non si prese nemmeno la briga di nasconderle.
+
+Calcoli e tattiche. Fingeva di non aver mai cambiato idea in modo graduale.
+
+# Girò immediatamente su se stesso. La ricerca di quella fortuna minore fu condotta apertamente…
+
+#Abbandonato per qualcosa di più grande… Su quali basi si aspettava che ciò avvenisse?
+
+Riuscire nella propria caccia… solo chi la conosce bene può farlo davvero; certamente non grazie a tecniche abili o sofisticate.
+
+Gestione.
+
+
+
+Dalla durata del [[Time|tempo]] trascorso, sembrava che John avesse qualche.
+
+Difficoltà nel convincere il signor Donne a scendere… Alla fine, tuttavia, ci riuscirono.
+
+Un gentiluomo apparve; e quando si presentò nella sala degli olmi…
+
+#Non sembrava affatto imbarazzato o confuso… nemmeno un po’.
+
+# Donne… davvero, erano di quel tipo freddo e impassibile, immutabile…
+
+Una natura compiaciuta, profondamente soddisfatta di sé stessa, insensibile al senso di vergogna.
+
+Non aveva mai arrossito in vita sua; nessuna umiliazione riusciva a metterlo in imbarazzo; lui…
+
+# I nervi non erano abbastanza sensibili da risvegliare la sua vita e farla muovere…
+
+Il colore gli salì alle guance; nel suo [[Blood|>sangue]] non c'era alcuna passione, e nemmeno un briciolo di modestia.
+
+La sua [[Soul|'anima]]; era un individuo senza scrupoli, arrogante e pieno di pretese.
+
+Titolo:  
+Comune, presuntuoso, insipido… E questo signore aveva un’idea del genere.
+
+Come corteggiare la signorina Keeldar… Tuttavia, non sapeva proprio da dove iniziare.
+
+“Un uomo più freddo e distaccato nel suo comportamento verso gli affari di quanto non lo fosse se fosse stato una statua scolpita nel legno… Non aveva la minima idea…”
+
+“Un gusto che soddisfa, un cuore che si può conquistare con le parole d’amore… La sua idea.”
+
+#Non aveva mai scritto una lettera, nonostante avesse dovuto farlo almeno un paio di volte per visitarla formalmente.
+
+Una lettera in cui le propondeva il [[Marriage|matrimonio]]. Poi pensò che lei lo avrebbe accettato.
+
+L’amore per il suo lavoro. Poi si sarebbero sposati. E allora lui sarebbe diventato il padrone.
+
+#Di Fieldhead; e avrebbe una vita molto comoda, con servitori a sua disposizione
+
+“Comanda, mangia e bevi il meglio… e diventa un grande uomo. Ma tu non lo farai.”
+
+#Ho già sospettato le sue intenzioni quando si è rivolto alla sua futura sposa in quel modo…
+
+Tono irrispettoso e offensivo: “Un cane molto pericoloso, signorina Keeldar…”.
+
+“[[Wonder|Meravigliati]], dovresti tenerti un animale del genere.”
+
+
+
+“Lo fareste voi, signor Donne? Forse vi sorprenderete ancora di più quando vi dirò che io sono, ”
+
+Era molto affezionata a lui.
+
+
+
+Titolo:  
+“Devo dire che non sembrate seri nella vostra affermazione… Non riesco proprio a immaginare una signora…”
+
+Mi piaceva quel brutto animale, è così orribile, nient’altro che un cane da carriera. Per favore, impiccatelo.
+
+
+
+“Appendo ciò che mi piace!”
+
+
+
+“E invece comprargli un adorabile cagnolino di razza Pug o Poodle… qualcosa del genere.”
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_03" data-title="Shirley — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/flowers,motif/garden,motif/home,motif/nature,motif/spring,motif/summer,motif/time,concept/doubt,concept/fear,concept/hope,concept/nature"></span>
@@ -72616,6 +77313,221 @@ receive and briskly execute her hospitable hints. David and she were on
 
 the best terms in the world; and his devotion to the heiress was quite
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Adatti al sesso femminile. Le signore di solito amano i cani da grembo.
+
+
+
+“Forse sono un’eccezione.”
+
+
+
+“Oh, non può essere… Tutte le donne sono uguali in queste cose.”
+
+È universalmente consentito.
+
+
+
+“Tartar vi ha spaventato terribilmente, signor Donne. Spero che non prendiate alcuna, ”
+
+“Danno.”
+
+
+
+“Lo farò, senza alcun [[Doubt|>dubbio]]. Mi ha fatto provare qualcosa che non dimenticherò facilmente. Quando, ”
+
+“I _lo_ chiamavo” (così pronunciava il signor Donne) “pronto per [[Spring|scattare]], ”
+
+Pensai che avrei dovuto svenire.
+
+
+
+“Forse siete svenuto in camera da letto. Siete rimasto lì per un bel po’ di tempo.”
+
+
+
+“No; ho resistito per poter tenere la porta ben chiusa. Ero decisa a non lasciarla aperta.”
+
+“Lasciate che chiunque entri… Pensavo di mantenere una barriera tra me e…”
+
+“Nemico.”
+
+
+
+“Ma cosa sarebbe successo se il tuo amico, il signor Malone, si fosse preoccupato?”
+
+
+
+#"Malone deve prendersi cura di sé. Il tuo uomo mi ha convinto ad uscire..."
+
+"Ultimamente si diceva che il cane fosse legato nella sua cuccia… Se solo non fossi stato…”
+
+Con questa certezza, sarei rimasto tutto il giorno nella stanza… Ma cosa?
+
+È quello? Dichiaro che quell’uomo ha detto una menzogna. Il cane è lì!
+
+
+
+E infatti Tartar passò davanti alla porta di vetro che conduceva al [[Garden|giardino]],
+
+Stretto, di colore marrone chiaro, con il muso nero come sempre. Sembrava ancora di cattivo [[Humour|umore]].
+
+Stava di nuovo ringhiando e fischiando in modo stridulo…
+
+Eredità dal lato “bulldog” della sua discendenza.
+
+
+
+“Stanno arrivando altri visitatori,” osservò [[Shirley]] in tono provocatorio.
+
+La freddezza che spesso dimostrano i proprietari di [[dogs|>cani]] dall’aspetto imponente.
+
+Mentre i loro [[Animals|animali]] erano tutti irrequieti e minacciosi, Tartar saltò giù.
+
+“Lastricato verso la porta, urlando con violenza… La sua amante”
+
+#Silenziosamente aprì la porta di vetro e uscì, canticchiandogli qualcosa. Lui…
+
+“Il ruggito era già stato zittito; lui alzava il suo enorme, tozzo…”
+
+Testa stupida, che si lascia accarezzare dai nuovi visitatori.
+
+
+
+“Che cosa! Tartaro, Tartaro!” disse una voce allegra, piuttosto infantile, “non lo sai?”
+
+Ci conosce? Buongiorno, vecchio mio!
+
+
+
+E il piccolo signor Sweeting, la cui natura buona e consapevole lo rendeva.
+
+Relativamente indifferente di fronte all'uomo, alla donna, al [[Child|bambino]] o alla bestia, riuscì a superare tutto ciò che gli si parava davanti.
+
+#La porta accarezza il guardiano… Il suo vescovo, il signor Hall, lo seguì. Lui non aveva nulla…
+
+Non provava nemmeno paura dei Turchi, e i Turchi non nutrivano alcun rancore verso di lui. Lui semplicemente, scomparve.
+
+#Tutti i signori intorno… e poi, come se volessero concludere che…
+
+“Inoffensivo e quindi probabilmente autorizzato a proseguire, si ritirò nella parte soleggiata davanti…”
+
+#Nella sala, lasciando l’arco libero… Il signor Sweeting lo seguì, e…
+
+#Hanno cercato di coccolarlo, ma Tartar non ha mostrato alcun interesse per i loro gesti affettuosi.
+
+Solo la mano della sua amante, il cui tocco gli procurava piacere; per tutte le altre…
+
+Si dimostrò ostinatamente insensibile.
+
+
+
+[[Shirley]] si avvicinò per incontrare i signori Hall e Sweeting, stringendo loro la mano.
+
+Li accolse con calore. Erano venuti per raccontarle di alcuni successi che avevano ottenuto.
+
+Quella mattina furono ricevute le richieste di iscrizione al fondo. Il signor.
+
+“Gli occhi di Hall brillavano con benevolenza dietro le lenti degli occhiali; il suo volto semplice…”
+
+Sembrava davvero attraente, pieno di bontà… E quando Caroline vide chi fosse…
+
+Era arrivato; lei corse ad incontrarlo e gli mise entrambe le mani nelle sue; lui la guardò…
+
+Con un’espressione gentile, serena e affettuosa, lei lo guardò…
+
+L’aspetto di un Melanchton sorridente.
+
+
+
+Invece di rientrare nella [[house|casa]], si persero nel [[Garden|[jardino]], il.
+
+Donne che camminano una su ciascun lato del signor Hall… Era una giornata soleggiata e ventilata.
+
+“L’aria fresca ravvivava le guance delle ragazze e, con grazia, scompigliava i loro capelli…”
+
+“Crespe… Entrambe sembravano carine… Una allegra, l’altra no. Il signor Hall parlava soprattutto di quest’ultima.”
+
+Verso il suo brillante compagno, guardava più spesso quello silenzioso.
+
+La signorina Keeldar raccolse manciate di quelle [[Flowers|>fiori]] che fiorivano in abbondanza.
+
+Il profumo riempiva l’ambiente. Ne diede un po’ a Caroline, dicendole di…
+
+#"Scelga un mazzo di fiori per il signor Hall… e con le ginocchia piene di fiori delicati e…"
+
+Fiori splendidi. Caroline si sedette sui gradini di una casa estiva.
+
+Il vicario stava accanto a lei, appoggiato al suo bastone.
+
+
+
+[[Shirley]], che non poteva essere scortese, chiamò adesso quella persona trascurata.
+
+“La coppia nella sala di quercia: lei scortò Donne lontano dal suo terribile nemico Tartar”.
+
+Che, con il naso appoggiato sulle zampe anteriori, dormiva ronfando sotto il sole cocente del mezzogiorno.
+
+Le donne non erano grate… Lui non fu mai grato per la gentilezza altrui.
+
+Attenzione… ma era comunque contento di quella protezione. La signorina Keeldar, desiderosa di…
+
+Essendo imparziale, offrì ai curati delle [[Flowers|>fiori]]. Li accettarono con.
+
+# Impaccio naturale… Quando un mazzo di fiori arrivò…
+
+Una mano era occupata a impugnare lo shillelah, mentre l’altra… “Grazie”, di Donne.
+
+“Tu!” fu una frase davvero spregevole da sentire. Era il suono più futile e arrogante che si potesse immaginare.
+
+#Ritenendo che tale offerta rappresentasse un omaggio ai suoi meriti…
+
+Titolo:  
+Tentativo da parte dell’ereditiera di farsi apprezzare da lui
+
+Affetti inestimabili. La dolce [[Alone|solitaria]] accettò il mazzo di fiori con grazia e intelligenza.
+
+Un uomo sensato e perbene, come si suol dire in modo gentile ed elegante…
+
+la sua asola.
+
+
+
+Come ricompensa per i suoi buoni modi, la signorina Keeldar lo chiamò da parte.
+
+Gli diedero una commissione, il che fece brillare i suoi occhi di gioia. E via che andò…
+
+#Volò intorno al cortile fino alla cucina… Non c’era bisogno di dargli nulla.
+
+Indirizzi. Lui era sempre “a casa”, ovunque andasse. Presto ricomparve.
+
+#"Portando un tavolo rotondo, lo posizionò sotto il cedro; poi..."
+
+Raccolse sei sedie da giardino provenienti da vari angoli e nascondigli del giardino.
+
+# Posizionati su un terreno pianeggiante e disposti in cerchio… La cameriera – Miss Keeldar
+
+#"Non aveva alcun servitore personale; uscì portando un vassoio coperto da un tovagliolo. Sweeting’s"
+
+Dita agili aiutavano a disporre bicchieri, piatti, coltelli e forchette; lui…
+
+#"Le aiutò anche a preparare un pranzo semplice e ordinato, composto da cibi freddi..."
+
+Pollo, prosciutto e torte.
+
+
+
+Questo tipo di gesti improvvisati e regali rappresentavano per [[Shirley]] un vero piacere da offrire a chiunque.
+
+“Accogliere ospiti imprevisti… E nulla la rendeva più felice di poter essere pronta ad accoglierli con attenzione e disponibilità.”
+
+Amico carino e obbediente, come Sweeting, che corre felice al suo fianco…
+
+Ricevere e attuare prontamente i suoi suggerimenti ospitalieri… David ed ella erano insieme.
+
+“I migliori termini del mondo… e la sua devozione verso l’ereditiera erano davvero profonde.”
 
 
 
@@ -73537,6 +78449,198 @@ tiresome quality.
 She presented quite a contrast to Caroline. There was style in every
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Alle una di [[Clock|ore]] le truppe dovevano entrare; alle due dovevano essere.
+
+#"Organizzati in formazione; fino alle quattro avrebbero sfilato per il distretto; poi è arrivato..."
+
+#"Festa, e dopo l’incontro, con musica e discorsi..."
+
+chiesa.
+
+
+
+# Perché Briarfield è stato scelto come luogo di incontro…
+
+#Festa__ – bisogna spiegarne il motivo. Non era certo perché fosse la più grande…
+
+Il parrocchio più popoloso… Whinbury lo superava di gran lunga in questo senso; né…
+
+#Perché era la più antica… Antica come quella chiesa grigiastra.
+
+# La canonica di Nunnely – il tempio dal tetto basso e la residenza del parroco ricoperti di muschio, entrambi nascosti…
+
+Gli olmi secolari, imponenti sentinelle di Nunnwood, erano ancora più antichi.
+
+Solo perché il signor Helstone lo volle così… e la volontà del signor Helstone era indiscutibile.
+
+Più forte di quello di Boultby o Hall; il primo semplicemente non avrebbe potuto…
+
+Il secondo non avrebbe mai discusso di questioni legate alla precedenza con loro, con tanta determinazione…
+
+E un fratello autoritario. Gli permisero di guidarli e governarli.
+
+
+
+# Questa importante ricorrenza era sempre stata un giorno difficile per…
+
+[[Caroline Helstone]], perché la costrinse inevitabilmente a farsi vedere in pubblico.
+
+Costringendola ad affrontare tutto ciò che è ricco, rispettabile e influente…
+
+Titolo:  
+Il quartiere; nella cui presenza… ma grazie al suo gentile atteggiamento…
+
+#Signor Hall, sarebbe sembrata senza appoggio… Costretta ad esserlo.
+
+#Vistosa; costretta a camminare in testa al suo reggimento, come la rettrice…
+
+#Nipote e prima insegnante della prima classe… costretta a preparare il tè
+
+Prima tavola per una varia compagnia di signore e signori… e altro ancora.
+
+Senza il consenso di madre, zia o di alcun altro accompagnatore… lei.
+
+Nel frattempo, essendo una persona nervosa che temeva terribilmente la pubblicità…
+
+Si deve comprendere che, in queste circostanze, lei tremava…
+
+Avvicinarsi alla festività di Pentecoste.
+
+
+
+Ma quest’anno [[Shirley]] doveva essere con lei, e questo cambiò completamente la situazione.
+
+Il processo… in un certo senso lo cambiò completamente. Fu un processo davvero speciale.
+
+Più lungo… quasi diventava un piacere. La signorina Keeldar se la cavava meglio nel suo ruolo.
+
+Più single che un gruppo di amici comuni. Davvero molto preso da sé stesso.
+
+Sempre vivace ed disinvolta; consapevole della propria importanza sociale, ma mai…
+
+Approfittarne, basterebbe solo un po' di [[Courage|coraggio]] per osare guardare.
+
+Verso di lei. L’unico [[Fear|timore]] era che l’ereditiera potesse non essere puntuale.
+
+Incontro segreto. Spesso aveva l’abitudine di trattenersi in modo negligente, indugiando oltre il passare del [[Time|tempo]].
+
+Caroline sapeva che suo zio non avrebbe aspettato nemmeno un secondo per nessuno.
+
+Nel momento in cui le campane della chiesa suonavano due rintocchi, i [[The Bells|campanelli]] si intrecciavano tra loro e.
+
+La marcia è iniziata. Deve prendersi cura di [[Shirley]], almeno per questa questione.
+
+Il compagno che si aspettava non l'avrebbe delusa.
+
+
+
+#Whit-Tuesday: la sua ascesa iniziò quasi insieme all’alba… Lei, Fanny ed Eliza
+
+# Occupati tutta la mattina ad arredare i salotti della canonica in modo eccellente
+
+Ordine aziendale e predisposizione di una raccolta di informazioni riguardanti il raffreddamento
+
+“Bevande e spuntini – vino, frutta, torte – sul comodino del soggiorno… Poi lei…”
+
+Doveva indossare il suo abito più fresco e bello, fatto di mussola bianca…
+
+La perfezione di quel momento e la solennità dell’occasione lo rendevano degno…
+
+E persino impose l’uso di quel tipo di abbigliamento. La sua nuova cintura… un regalo di compleanno.
+
+# Margaret Hall, che lei aveva motivo di credere fosse stata acquistata proprio da Cyril.
+
+E in cambio di ciò, gli aveva davvero dato un insieme di bende di cambrico.
+
+In una bella custodia… legata con abilità dalle dita agili di Fanny.
+
+C'era davvero molto piacere nell’abbigliare la sua bella giovane padrona per l’occasione.
+
+Il suo semplice cappello era stato abbinato in modo da coordinarsi con la sua fascia.
+
+Sciarpa bianca di crepe, bella ma economica, si abbinava perfettamente al suo vestito. Pronta…
+
+# Creò un’immagine… non abbastanza brillante da abbagliare, ma sufficientemente bella da…
+
+#Interesse… non particolarmente straordinario, ma estremamente piacevole nella sua delicatezza–un
+
+Titolo:  
+Un’immagine in cui dolcezza dei colori, purezza dell’aria e grazia nell’espressione si fondono insieme
+
+Compensava la mancanza di colori vivaci e contorni maestosi… Cosa?
+
+Il suo occhio marrone e la sua fronte limpida rivelavano che la sua mente era serena e equilibrata.
+
+Il suo abito e il suo viso… modesti, gentili, e, sebbene pensierosi, armoniosi.
+
+Si scoprì che né la [[Lamb|agnella]] né il [[Fear|>nido]] avevano bisogno di temerla, anzi l’avrebbero accolta con gioia.
+
+#In quel suo sguardo di semplicità e dolcezza, una sorta di empatia verso di loro…
+
+Nelle loro nature innate, o nelle nature che noi attribuiamo loro.
+
+
+
+Dopo tutto, era un essere umano imperfetto e pieno di difetti… Cosa c’è da meravigliarsi?
+
+Forma, colore e disposizione… ma, come disse Cyril Hall, né così buoni né così…
+
+“Grande quanto la secca e invecchiata signorina Ainley, che ora indossa il suo abito nero più elegante…”
+
+E un scialle grigio da quacchera, e un cappello, nella sua stanzetta angusta.
+
+
+
+Via andò Caroline, attraverso campi molto isolati e passando per…
+
+# Sentieri ben nascosti, verso Fieldhead… Si muoveva veloce, sotto il verde degli alberi.
+
+Cespugli e prati più verdi. Non c'era alcuna [[Dust|polvere]], nessuna umidità.
+
+Imbrattare l’orlo del suo abito inossidabile, o bagnare le sue sottili scarpe di sandalo.
+
+Dopo le piogge tardive, tutto era pulito; sotto il sole splendente di quel momento…
+
+Tutto era asciutto. Camminò senza paura, attraverso i campi di margherite e l’erba verde…
+
+Coltivazioni lussureggianti… Raggiunse Fieldhead e proseguì fino alla residenza della signorina…
+
+Il camerino di Keeldar.
+
+
+
+È stato un bene che lei sia arrivata, altrimenti [[Shirley]] sarebbe arrivata troppo tardi. Invece.
+
+Preparandosi con tutta la [[Speed|velocità]] possibile, si sdraiò su un divano, immersa nei suoi pensieri.
+
+Mentre leggeva, la signora Pryor stava lì vicino, cercando invano di convincerla a alzarsi e vestirsi.
+
+Caroline non perse tempo in parole: prese immediatamente il libro dalle sue mani e…
+
+Con le sue stesse mani iniziò a spogliarsi e poi a rivestirsi di nuovo.
+
+[[Shirley]], pigra a causa del caldo, ma felice per la sua giovinezza e le cose piacevoli che la vita le offriva.
+
+La [[Nature|natura]] voleva parlare, ridere e indugiare. Ma Caroline, concentrata nel voler essere.
+
+Nel [[Time|tempo]] passato, si impegnava a vestirla il più velocemente possibile.
+
+“Stringhe o pinne da inserire… Alla fine, mentre univa l’ultima fila di ganci…”
+
+E con quegli occhi… trovò il tempo di rimproverarla, dicendo che era davvero molto cattiva.
+
+“Essere così in ritardo che, anche ora, sembra l’esempio vivente di una persona irrimediabilmente negligente…”
+
+Negligenza. E così fece [[Shirley]], anche se ne risultò un’immagine davvero bellissima.
+
+Una qualità noiosa.
+
+
+
+#Un contrasto marcato con Caroline… Ogni suo gesto trasmetteva stile e grazia.
+
 
 
 <span class="atom-split" data-atom="chapter_16--part_03" data-title="Shirley — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/hill,motif/love,motif/nature,motif/road,motif/snow,motif/time,motif/well,concept/fear,concept/nature,concept/poverty,concept/self,setting/court"></span>
@@ -74441,6 +79545,196 @@ from the organ pealed above the confused hum of the place. Dr. Boultby,
 Mr. Helstone, and Mr. Hall [[Rose|rose]], so did all present, and grace was sung
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Integro nei suoi membri, sebbene duramente provato dal [[Wind|vento]].
+
+
+
+Il grasso dissidente che aveva distribuito la [[Hymn|>Inno]] rimase seduto lì.
+
+# Mercante di spiriti
+
+I nonconformisti, si diceva, bevessero più [[Water|acqua]] in quel pomeriggio.
+
+Più di quanto avesse mai ingerito in dodici mesi… Il signor Hall si era preso cura di tutto.
+
+# Di Caroline, e Caroline di lui. Lui e Miss Ainley formarono la loro coppia.
+
+Commenti tranquilli tra loro riguardo all’incidente successivamente… La signorina Keeldar
+
+# E il signor Helstone strinse calorosamente la mano al signore in questione quando finalmente riuscirono a capirsi completamente
+
+“Festa lungo il sentiero… I curatori iniziarono ad esultare, ma il signor Helstone…”
+
+In quel momento, vennero frenati i loro spiriti innocenti. Lui osservò che.
+
+Non avevano mai la minima idea di cosa dire, e era meglio che tenessero la bocca chiusa.
+
+E ricordò loro che quella faccenda non spettava affatto a loro gestirla.
+
+
+
+Intorno alle tre e mezza, la processione fece dietrofront; alle quattro, riprese il cammino.
+
+#Riprese il proprio posto di partenza. Lunghe file di banchi erano disposte lungo…
+
+Campi ben curati intorno alla scuola… Lì sedevano i bambini.
+
+Cestini enormi, coperti da stoffe bianche, e grandi lattine fumanti
+
+Fu portato fuori il vascello. Prima ancora che iniziasse la distribuzione delle cose preziose…
+
+“Una breve preghiera fu recitata dal signor Hall e cantata dai bambini.”
+
+Voci giovani risuonavano melodiose, persino commoventi, all’aperto… Grandi.
+
+Dopo di ciò, vennero serviti panini al ribes e tè caldo, ben zuccherato.
+
+Lo spirito genuino di generosità… In quel giorno non era ammesso alcun risparmio.
+
+Almeno. La regola per la paghetta di ogni [[Child|>bambino]] era che dovesse essere sufficiente.
+
+Titolo:  
+Circa il doppio di quanto possa effettivamente mangiare, lasciando così una riserva…
+
+Essere portato a casa per ragioni legate all’età, alla malattia o ad altri ostacoli.
+
+“Mentre tutti si preparavano ad assaggiare i cibi offerti alla festa, panini e birra venivano distribuiti tra la gente.”
+
+I musicisti e i cantori della chiesa; in seguito, i banchi furono rimossi.
+
+E così furono lasciati liberi di rilassarsi attraverso giochi autorizzati.
+
+
+
+# Un campanello chiamò gli insegnanti, i benefattori e le benefattrici…
+
+Aula scolastica. La signorina Keeldar, la signorina Helstone e molte altre signore…
+
+Già lì, dando un’occhiata all’organizzazione dei loro vassoi separati…
+
+Titolo:  
+Tavole… La maggior parte delle domestiche del quartiere, insieme a…
+
+Le mogli dei impiegati, dei cantanti e dei musicisti erano state messe sotto pressione.
+
+“In servizio del giorno come camerieri… Ognuno si sfidava con gli altri…”
+
+Si notava la saggezza e l’eleganza nell’abbigliamento, oltre a molte forme attraenti.
+
+Tra i più giovani, circa una ventina stavano tagliando il pane…
+
+Burro; inoltre, un’altra mezza dozzina di litri d’[[Water|acqua]] calda, portata dai fornai.
+
+Dalla cucina del rettore. La profusione di [[Flowers|>fiori]] e piante sempreverdi.
+
+#Diping di pareti bianche: l’esposizione di teiere d’argento e oggetti brillanti
+
+#Porcellana sui tavoli, figure vivaci, volti sorridenti, abiti colorati
+
+“Volo ovunque, creando un insieme fresco e vivace…”
+
+Spettacolo. Tutti parlavano, non molto ad alta voce, ma in modo allegro…
+
+I canarini cantavano acutamente nelle loro gabbie appese in alto.
+
+
+
+# Caroline, in qualità di nipote del rettore, prese il suo posto tra i tre…
+
+Le prime tavole furono presiedute da Mrs. Boultby e Margaret Hall; per le altre, invece, furono incaricate altre persone.
+
+Alle queste tavole l’élite dell’azienda avrebbe potuto divertirsi.
+
+Titolo:  
+Le rigide regole di uguaglianza non sono certo più di moda a Briarfield di…
+
+Altrove… La signorina Helstone si tolse cappello e sciarpa, per poter…
+
+Meno oppressa dal caldo… I suoi lunghi riccioli che le cadono sul collo…
+
+Serviva quasi da velo; per il resto, il suo abito di mussola…
+
+Intitolato in modo sobrio come abito da monaca, il che le permetteva di evitare…
+
+Il peso oneroso di uno scialle.
+
+
+
+La stanza si stava riempiendo. Il signor Hall si era posizionato accanto a Caroline…
+
+Ora, mentre sistemava le tazze e le cucchiai davanti a sé, gli sussurrò qualcosa.
+
+# A bassa voce commenta gli eventi della giornata… Sembrava un po’…
+
+Preoccupata per ciò che era accaduto a Royd Lane, cercò di sorridere.
+
+Riuscì a farlo smettere di essere così serio. La signorina Keeldar era seduta lì vicino, per qualche motivo, nessuno dei due.
+
+Senza ridere né parlare; al contrario, molto immobile e guardandosi intorno.
+
+Con attenzione. Sembrava temesse che qualche intruso potesse occupare il suo posto.
+
+A quanto pare, desiderava riservare per sé il posto accanto al suo. Di tanto in tanto, allargava le sue…
+
+Gonna mettere il vestito di seta sopra quella parte eccessiva del banco… o magari i guanti…
+
+Il suo fazzoletto ricamato… Caroline notò questo “gioco” da parte sua.
+
+Infine, le chiese quale amica si aspettasse. [[Shirley]] si chinò verso di lei.
+
+#Quasi le toccò l’orecchio con le sue labbra rosse e sussurrò con una voce melodiosa…
+
+Titolo:  
+La dolcezza che spesso caratterizzava il suo tono quando diceva certe cose…
+
+"Nemmeno lontanamente in grado di suscitare qualche dolce, segreta emozione nel suo cuore..."
+
+Aspetto il signor Moore. L’ho visto ieri sera e gli ho fatto promettere di.
+
+“Verrà con sua sorella e si siederà al nostro tavolo… Non mi deluderà, ne sono sicura.”
+
+Certo… ma temo che arrivi troppo tardi, e che venga separato da…
+
+Ecco un nuovo lotto appena arrivato; tutti i posti saranno occupati.
+
+“Provocatorio!”
+
+
+
+# In effetti, il magistrato signor Wynne, sua moglie, suo figlio e i suoi due…
+
+Le figlie erano ormai entrate nella società aristocratica; appartenevano alla nobiltà di Briarfield.
+
+Il loro posto era al primo tavolo; così vennero condotti lì.
+
+“Riempirono tutto lo spazio rimanente… Per il conforto della signorina Keeldar.”
+
+#Il signor Sam Wynne si inserì proprio nella posizione che lei aveva tenuto libera per lui
+
+“Moore, appoggiandosi con forza al suo abito, ai suoi guanti…”
+
+Fazzoletto… Il signor Sam era uno degli oggetti del suo disgusto.
+
+#In particolare perché mostrava chiari segni di interesse verso di lei.
+
+Anche quel vecchio signore aveva dichiarato pubblicamente che la tenuta di Fieldhead…
+
+Il patrimonio dei De Walden era straordinariamente “contagioso”… un malapropismo che…
+
+Le voci non avevano mancato di raggiungere anche [[Shirley]].
+
+
+
+Le orecchie di Caroline risuonano ancora di quel sussurro emozionante: “Mi aspetto che il signor, ”
+
+“Moore…”, il suo cuore ancora batteva forte e le sue guance ardevano di emozione, quando ricevette una lettera…
+
+# Dall’organo che risuonava sopra il confuso rumore di quel luogo… Il dottor Boultby.
+
+Il signor Helstone e il signor Hall si alzarono in piedi, così come tutti gli altri presenti; fu cantata una canzone di ringraziamento.
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_03" data-title="Shirley — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/death,motif/lightning,motif/memory,motif/rose,motif/soul,motif/time,motif/well,concept/solitude,concept/truth"></span>
@@ -74630,6 +79924,194 @@ accused of giving her a world of trouble, and roundly charged with being
 
 the cause of depriving her of the esteem of Mr. Ramsden and the
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Al suono della musica… e poi iniziarono a bere il tè. Lei rimase lì.”
+
+Occupata per un po’ con il suo ufficio, poi finalmente libera di guardarsi intorno…
+
+Dopo aver riempito l'ultima tazza, gettò uno sguardo inquieto per la stanza.
+
+C'erano alcune signore e diversi gentiluomini che ancora stavano lì in piedi.
+
+Senza posti a sedere… Tra un gruppo di persone, riconobbe la sua zitella.
+
+Amico… la signorina Mann, che il bel tempo aveva tentato… o forse qualche motivo urgente…
+
+Un amico l’aveva convinta a lasciare la sua triste [[Solitude|solitudine]] per un’ora di compagnia sociale.
+
+Godimento… La signorina Mann sembrava stanca di stare in piedi; una donna con un cappello giallo…
+
+Le portò una sedia. Caroline sapeva molto bene quel _cappello di seta gialla_.
+
+Conosceva quei capelli neri, e quel volto gentile, anche se piuttosto opinioso…
+
+Un viso dall’aspetto cupo sotto quel velo… Lei sapeva che quella _veste di seta nera_…
+
+Conosceva anche quella frase “Schall gris de lin”; in breve, conosceva Hortense Moore.
+
+# E voleva alzarsi di scatto, correre da lei e baciarla… darle un bacio.
+
+Un abbraccio per il suo bene, e due per quello di suo fratello. Lei si sentì quasi felice.
+
+“Certo, con un’esclamazione soffocata… E forse – perché l’impulso era forte…”
+
+# Molto decisa: sarebbe corsa attraverso la stanza e avrebbe addirittura fatto il saluto.
+
+“Lei… ma una mano la sostituì sul suo posto, e una voce alle sue spalle…”
+
+Sussurrò: “Aspetta dopo il tè, Lina, poi te la porterò.”
+
+
+
+E quando finalmente riuscì a alzare lo sguardo, eccolo lì: Robert in persona, proprio vicino a lei.
+
+Alle sue spalle, lui sorrideva alla sua impazienza… sembrava più bello di quanto lo avesse mai visto prima.
+
+#Un uomo così attraente…
+
+Non osava fidarsi di sé abbastanza da concedersi un secondo sguardo… perquella sua immagine.
+
+Il titolo le balenò nella mente con una chiarezza dolorosa, e si immaginò mentre lo realizzava…
+
+Quella [[Memory|memoria]] era così vivida, come se fosse stata fissata per sempre con una matita affilata.
+
+[[Lightning|fulmine]].
+
+
+
+Proseguì e parlò con la signorina Keeldar. [[Shirley]], infastidita da qualcosa.
+
+Attenzioni indesiderate da parte di Sam Wynne… e a causa di quel gentiluomo…
+
+Ancora seduta, con i guanti e il fazzoletto in mano… e probabilmente anche altro.
+
+A causa della mancanza di puntualità di Moore, non era affatto di buon  umore. Lei.
+
+Inizialmente scrollò le spalle verso di lui, e poi pronunciò una parola amara…
+
+#Due commenti sul suo “inesorabile ritardo”. Moore né si scusò né…
+
+“Rispose prontamente. Rimase in piedi accanto a lei in silenzio, come se aspettasse di vedere cosa avrebbe fatto.”
+
+Riacquisterebbe la calma… il che le riuscì in poco più di tre minuti.
+
+Titolo:  
+“Minuti… che indicano il cambiamento: gli porse la mano e lui la prese.”
+
+Con un sorriso, metà correttivo, metà grato… Il minimo indispensabile.
+
+Scuotimento della testa leggero e delicato… un segno evidente di quella qualità passata; probabilmente…
+
+Una leggera pressione lo indicava.
+
+
+
+“Ora può sedersi dove vuole, signor Moore,” disse anche lei sorridendo, [[Shirley]].
+
+#"Non c’è nemmeno un centimetro di spazio per te qui… ma io ne vedo abbastanza."
+
+# Tra Miss Armitage e Miss… alla tavola di Mrs. Boultby
+
+Birtwhistle. Vai! John Sykes sarà il tuo avversario, e tu siederai di fronte a lui.
+
+Con le spalle rivolte verso di noi.
+
+
+
+Ma Moore preferiva rimanere dove si trovava. Di tanto in tanto…
+
+#Si diresse verso la fine della lunga stanza, fermandosi per scambiare qualche parola…
+
+Saluti ad altri gentiluomini nella sua stessa situazione senza via d’uscita… ma
+
+Tuttavia, ogni volta tornava al “magnete”, [[Shirley]], portando con sé.
+
+Tornò indietro; c'erano osservazioni che era necessario sussurrarle all'orecchio.
+
+
+
+Nel frattempo, povero Sam Wynne non sembrava affatto a suo agio… La sua gentile vicina…
+
+A giudicare dai suoi movimenti, sembrava essere in uno stato d’animo estremamente agitato e irrequieto.
+
+“Impossibile da tenere ferma… Non riusciva nemmeno a stare seduta per due secondi. Aveva caldo…”
+
+Si asciugò il viso con un fazzoletto, lamentandosi della mancanza d’aria e di spazio. Disse…
+
+Secondo lei, quando le persone avevano finito il tè, dovevano andarsene.
+
+# Le tavole… e dichiarò con chiarezza che temeva di svenire se…
+
+#Lo stato attuale delle cose continua… Il signor Sam si offrì di accompagnarla dentro.
+
+All’aperto. Proprio il modo migliore per farle morire di freddo, sosteneva lei.
+
+In breve, la sua posizione divenne insostenibile; e dopo aver accettato le conseguenze delle sue azioni…
+
+Tè. Decise che fosse opportuno evacuare.
+
+
+
+“Moore avrebbe dovuto essere lì, invece si trovava dall’altra parte…”
+
+Nella parte più remota della stanza, immerso in una profonda conversazione con Christopher Sykes.
+
+Il signor Timothy Ramsden, esperto in questioni agricole, si trovava per caso nelle vicinanze; e…
+
+Sentendosi stanco di stare in piedi, si avvicinò per occupare il posto libero.
+
+I stratagemmi di [[Shirley]] non la delusero. Un semplice movimento del suo scialle risolse il problema.
+
+#Tazza da tè: il suo contenuto fu condiviso tra la panca e il suo stesso satin
+
+“Gonna vestirsi… Ovviamente, fu necessario chiamare un cameriere per risolvere la situazione.”
+
+Mischief. Il signor Ramsden, un gentiluomo robusto e corpulento, altrettanto grande di statura…
+
+Possedeva delle proprietà, ma rimaneva distaccato dal caos che ne derivava. [[Shirley]],
+
+Di solito quasi colpevolmente indifferente ai piccoli incidenti che riguardano l’abbigliamento…
+
+Etc., ora scatenavano un trambusto che avrebbe potuto trasformarsi nella situazione più delicata e…
+
+#Inquieta riguardo al proprio sesso… Il signor Ramsden aprì la bocca, poi la richiuse lentamente…
+
+Titolo:  
+Mentre la signorina Keeldar faceva di nuovo intendere di voler “cedere il posto” e svenire…
+
+Arrivato sul posto, girò sui tacchi e fuggì a tutta velocità.
+
+
+
+Finalmente Moore tornò. Esaminando con calma la confusione che regnava intorno a lui…
+
+Esaminando con curiosità il volto enigmatico di [[Shirley]], lui.
+
+osservò che, in [[Truth|verità]], quella era la parte più calda della stanza, che lui.
+
+#Un clima freddo e incompatibile con qualsiasi altro
+
+Titolo: Temperamenti simili al suo… e poi i camerieri, i tovaglioli…
+
+Roba di seta… Tutto quel trambusto, insomma, venne messo da parte; lui si sistemò lì.
+
+Si sedette proprio lì dove il destino aveva chiaramente deciso che dovesse stare. [[Shirley]] si calmò.
+
+# Le sue caratteristiche fisiche cambiarono: la fronte corrugata e quell’espressione indecifrabile…
+
+La curva delle sue labbra tornò dritta; la capricciosità e la malizia scomparvero…
+
+Un luogo diverso da tutte le altre espressioni… E tutti quei movimenti angolosi con cui lei…
+
+Tutti i tormenti che avevano afflitto l’[[Soul|'anima]] di Sam Wynne sembravano essere stati allontanati, come se fossero stati colpiti da un incantesimo.
+
+Ancora una volta, nessuno rivolse a Moore uno sguardo gentile. Al contrario…
+
+Accusata di averle causato un mare di problemi, e accusata in modo diretto di essere…
+
+La causa che le ha fatto perdere la stima del signor Ramsden e…
 
 
 
@@ -76017,6 +81499,244 @@ here was touching on that subject, if I'm not mista'en."
 "[[Well]], what then? Politics are our habitual study, Joe. Do you know I
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Soprattutto rispetto a persone come voi… Guardate la differenza che c’è tra di noi. Voi siete…”
+
+“Una giovane ragazza minuta e snella… e io sono un uomo forte e robusto; sono decisamente più…”
+
+“Né la metà della tua età… Quindi, penso, non spetti a me intervenire in questa faccenda.”
+
+#In debito con te… E quel giorno…
+
+Venne a casa nostra, mi chiamò alla porta e mi offrì cinque.
+
+Scellini, di cui dubito che possiate fare a meno, visto che non avete alcuna fortuna.
+
+Sapevo, che quel giorno ero un vero [[Rebel|ribelle]], un radicale, un sovversivo; e.
+
+#Mi avete costretto a farlo… Pensavo fosse vergognoso, dato che ero disposto e in grado di farlo.
+
+Per lavorare, dovrei essere in una condizione tale che… un giovane di circa quell’età…
+
+# Oh, mia propria figlia maggiore… dovrebbe pensare che sia necessario venire da me per offrirmi la sua parte.
+
+“O’ bronzo.”
+
+
+
+“Immagino che fossi arrabbiato con me, William, ”
+
+
+
+“Quasi ci riuscivo, in un certo senso. Ma vi ho perdonato molto presto. Volevate solo il meglio. Sì.”
+
+_Sono_ orgoglioso, e lo siete anche voi; ma il nostro [[Pride|orgoglio]] è quello di essere onesti.
+
+Quello che noi chiamiamo l’orgoglio tipico dello Yorkshire, persone come il signor Malone e il signor.
+
+Le donne non sanno nulla al riguardo. La loro è una presunzione sporca e meschina. Ora, io insegnerò loro.
+
+Che le ragazze siano così orgogliose come la signorina [[Shirley]], e che i miei ragazzi siano anch'essi altrettanto orgogliosi.
+
+“Come me… ma oserei dire che nessuno di loro è all’altezza dei curatori. Li leccherei tutti, piccoli come siano…”
+
+“Se metto [[Michael]] in partita, mostrerà qualche segno di quel sentimento?”
+
+
+
+“Qual è la differenza, William?”
+
+
+
+Titolo:  
+“Conoscete bene la differenza, ma volete che io procuri una porta…”
+
+# Parlare… Il signor Malone e il signor Donne sono quasi troppo orgogliosi per fare qualsiasi cosa.
+
+# Noi stessi… siamo quasi troppo orgogliosi per permettere a qualcuno di fare qualcosa per noi.
+
+“Il curatore fatica a rivolgere loro anche solo parole gentili: li considera inferiori.”
+
+Titolo:  
+Loro… noi faticiamo persino a sopportare di sentire parole scortesi da parte loro.
+
+Loro stessi, più di noi.
+
+
+
+#"Ora, William, sii abbastanza umile da dirmi sinceramente come stai andando..."
+
+Nel mondo intero. Sei davvero benestante?
+
+
+
+“Signorina [[Shirley]], mi trovo in una situazione finanziaria molto [[Well|buona]]. Da quando ho iniziato a dedicarmi al giardinaggio, ”
+
+Con l’aiuto del signor Yorke, e poiché il signor Hall… un altro uomo onesto.
+
+Ho aiutato mia moglie ad aprire un piccolo negozio, e non ho nulla di cui lamentarmi.
+
+La famiglia ha abbastanza da mangiare e abbastanza da indossare. Il mio [[Pride|orgoglio]] mi spinge a cercare.
+
+Titolo:  
+“Avere sempre un po’ di soldi in più per i giorni di pioggia… perché penso che sia importante.”
+
+“Morirei prima di entrare nella tua parrocchia… Ma io e la mia famiglia siamo soddisfatti.”
+
+I vicini sono ancora poveri. Vedo molta sofferenza intorno a loro.
+
+
+
+“E quindi, immagino che ci sia ancora insoddisfazione, vero?” chiese la signorina
+
+Keeldar.
+
+
+
+“_Di conseguenza_… avete ragione… _di conseguenza_. Naturalmente, le persone che soffrono la fame…”
+
+#Gente che non può essere soddisfatta o tranquillizzata… Il paese non è al sicuro.
+
+Condizione. Lo ammetto senza esitazione!
+
+
+
+“Ma cosa si può fare? Cosa altro posso fare, ad esempio?”
+
+
+
+“Non puoi farci nulla, povera giovane ragazza… Hai già dato tutto ciò che avevi.”
+
+Fatto bene. Se solo poteste trasportare il vostro inquilino, il signor Moore, a Botany Bay.
+
+Avresti potuto fare di meglio. La gente lo odia.
+
+
+
+“William, per l’amor del cielo!” esclamò Caroline con calore. “Se davvero la gente ti odia…”
+
+Lui, è un disonore per loro, non per lui. Il signor Moore stesso non odia nessuno.
+
+“Vuole solo adempiere ai suoi doveri e difendere i propri diritti. Ti sbagli…”
+
+Parla così.
+
+
+
+“Parlo come penso. Lui ha un cuore freddo e insensibile, quel maledetto Moore.”
+
+
+
+“Ma,” intervenne [[Shirley]], “supponendo che Moore venisse costretto a lasciare il paese, ”
+
+E se il suo mulino fosse stato raso al suolo, le persone avrebbero avuto più lavoro?
+
+
+
+“Ne avrebbero di meno. Lo so io, e lo sanno anche loro; e ce ne sono molti…”
+
+Ragazzo onesto spinto alla disperazione dalla certezza che, in ogni direzione che si volga, non possa trovare una via d’uscita…
+
+Non può migliorare se stesso; e ci sono molti uomini disonesti pronti ad aiutarlo…
+
+# Al diavolo quei furfanti che si considerano “amici del popolo”!
+
+E chi non sa nulla di queste persone, ed è altrettanto insincero quanto [[Lucifer|Lucifero]].
+
+#Ho vissuto più di quarant’anni in questo mondo, e credo che…
+
+“La volontà delle persone non avrà mai veri amici se non loro stessi e quei due…”
+
+Tre brave persone, in posti diversi, ma amiche di tutto il mondo.
+
+La natura umana, presa nel suo insieme, non è altro che egoismo. È così.
+
+Ma sono pochissimi casi; si tratta soltanto di eccezioni sporadiche, qua e là, in momenti particolari…
+
+# Allora, come voi due giovani e io… che, essendo in situazioni diverse…
+
+# Intesa reciproca e amicizia senza barriere
+
+Sottomissione da un lato, o [[Pride|orgoglio]] dall'altro. Coloro che ritengono di dover agire così.
+
+Amici di una classe sociale inferiore alla propria per motivi politici… mai.
+
+“Da fidarsi… cercano sempre di trasformare i loro sottoposti in strumenti al proprio servizio.”
+
+Partendo da questo principio, non permetterò né che mi si tratti con condiscendenza né che venga ingannato al solo scopo di compiacere qualcuno.
+
+Di recente mi sono stati fatti alcuni approcci che ho ritenuto pericolosi… e io…
+
+Li scagliò indietro in faccia a coloro che glieli avevano offerti.
+
+
+
+“Non ci dirai quali proposte hai fatto?”
+
+
+
+“Non lo farò. Non servirebbe a nulla… Non cambierebbe nulla.” Loro, semplicemente…
+
+Le persone coinvolte possono prendersi cura di se stesse.
+
+
+
+“Ah, ci occuperemo noi del resto,” disse un’altra voce. Joe Scott aveva…
+
+Uscì dalla chiesa per prendere una boccata d’aria fresca, e lì…
+
+Si alzò in piedi.
+
+
+
+“Te lo garantisco, Joe,” osservò William sorridendo.
+
+
+
+“E giuro sul mio padrone,” fu la risposta. “Signorine…”
+
+“È meglio che entri in quella [[house|casa]],” continuò Joe, assumendo un tono aristocratico.
+
+
+
+“Mi chiedo a cosa serva tutto questo,” chiese [[Shirley]], alla quale l’osservatore aveva fornito alcune informazioni.
+
+Modi pragmatici erano tipici di chi spesso era in conflitto con lui…
+
+Titolo:  
+Per Joe, che nutriva teorie sprezzanti sulle donne in generale…
+
+Nel profondo del suo cuore, segretamente, il fatto del suo padrone e di.
+
+Il mill, in un certo senso, era sottoposto al controllo di un “governo” femminile, e aveva percepito ciò come.
+
+# Erba di vipera e galle: alcune visite d’affari dell’ereditiera alla Dimora degli Abissi
+
+La contea di [[house|House]].
+
+
+
+“Perché non esiste alcun tipo di agata adatto alle donne per essere utilizzato in tali scopi.”
+
+
+
+“Certo! In quella chiesa ci sono agati utilizzati per le [[prayer|preghiere]] e i sermoni. Non è forse, ”
+
+“Coinvolti in quella faccenda?”
+
+
+
+“Non siete stata presente né alla [[prayer|preghiera]] né al sermone, signora, se io, ”
+
+#Hanno osservato correttamente. Quello di cui parlavo era la politica. William Farren
+
+Qui si parlava di quell’argomento, se non mi sbaglio.
+
+
+
+“Beh, e allora? La politica è il nostro argomento di studio abituale, Joe. Sai che, ”
+
 
 
 <span class="atom-split" data-atom="chapter_18--part_04" data-title="Shirley — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/desire,motif/dust,motif/home,motif/lamb,motif/silence,motif/summer,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/suffering,concept/truth,character/sunday"></span>
@@ -76851,6 +82571,274 @@ parson?"
 [[Window|window]]; it opens to the dining-room. I could grope my way upstairs, and
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il mio braccio è pronto per colpire il bersaglio con questo lungo coltello.
+
+
+
+“Mi dispiacerebbe farlo,” rispose [[Shirley]], “ma penso di potercela fare.”
+
+“Se spinto da determinate circostanze che posso immaginare… E la signorina Keeldar”
+
+# Bevve silenziosamente il suo bicchiere di latte fresco, con un’espressione apparentemente pensierosa…
+
+“Pallida in volto… Ma, in realtà, quando mai non era pallida? Non lo era mai.”
+
+colorito.
+
+
+
+# Chiamata nuovamente
+
+A Eliza fu consigliato di andare a letto, e lei lo fece volentieri.
+
+# Stanchi dalle fatiche della giornata, dal continuo tagliare i panini al ribes…
+
+# Riempimento di urne e teiere, e correre avanti e indietro
+
+Con dei vassoi. Poco dopo si sentì la porta della camera delle cameriere chiudersi.
+
+Caroline prese una candela e, in silenzio, percorse tutta la [[house|>casa]], controllando che.
+
+Ogni [[Window|finestra]] era chiusa a chiave e ogni porta sbarrata. Non riuscì nemmeno a sfuggire.
+
+Né la cucina infestata né i sotterranei simili a prigioni… Questi luoghi, lei li visitò.
+
+Tornò indietro.
+
+
+
+“Al momento, non c’è né spirito né carne nella [[house|>casa]],” disse lei.
+
+“Che non dovrebbe essere lì. Ora sono quasi le undici, proprio.”
+
+#"Bedtime… ma preferirei restare sveglio ancora un po’, se non vi dispiace."
+
+“Oggetto, [[Shirley]]. Ecco,” continuò, “ho portato il braccialetto, ”
+
+Pistole nello studio di mio zio. Potete esaminarle quando volete.
+
+
+
+Lei le posò sul tavolo davanti alla sua amica.
+
+
+
+“Perché preferireste restare svegli più a lungo?”, chiese la signorina Keeldar, prendendo in mano…
+
+Armi da fuoco: le esaminava e poi le riponeva giù.
+
+
+
+“Perché nel mio cuore provo un sentimento strano e eccitante.”
+
+
+
+“Anch’io.”
+
+
+
+#"È forse questa condizione di insonnia e agitazione causata da qualcosa?"
+
+Elettricità nell’aria, mi chiedo “come mai”?
+
+
+
+“No; il cielo è sereno, le [[Stars|stelle]] sono innumerevoli. È una bella [[Night|notte]].”
+
+
+
+“Ma è tutto molto silenzioso. Sento l’[[Water|acqua]] che scorre sul suo letto di pietra, nel luogo chiamato Hollow, ”
+
+Le cespugliere si estendevano in modo così netto, come se si trovassero proprio sotto il muro del cimitero.
+
+
+
+“Sono contento che sia ancora così tranquilla una [[Night|notte]]. Un vento lamentoso o una pioggia battente, no, non vorrei che accadesse.”
+
+“Mi ha fatto venire la febbre poco fa, ”
+
+
+
+“Perché, [[Shirley]]?”
+
+
+
+“Perché ciò renderebbe vani i miei sforzi di ascoltare.”
+
+
+
+“Ascolti mai ciò che proviene dal Vuoto?”
+
+
+
+“Sì; è l’unico quartiere da cui possiamo sentire qualche suono in questo momento.”
+
+
+
+“L’unica, [[Shirley]].”
+
+
+
+Entrambi sedevano vicino alla [[Window|finestra]] e appoggiavano entrambi le braccia sul davanzale.
+
+E entrambi inclinarono la testa verso la griglia aperta; videro l’uno con l’altro.
+
+“Gli giovani volti altrui sotto la luce delle stelle e in quella tenue penombra di giugno…”
+
+Non scompare del tutto a ovest fino a quando l’[[Dawn|'alba]] non inizia ad apparire nel.
+
+est.
+
+
+
+“Mr. Helstone pens che non abbiamo la minima idea di quale direzione abbia preso,” mormorò.
+
+# Miss Keeldar: né per quale incarico, né con quali aspettative, né in che modo…
+
+Pronto. Ma immagino che sia molto di più, vero?
+
+
+
+“Credo che sia qualcosa, ”
+
+
+
+“All quei signori – incluso tuo cugino Moore – pensano che tu e io…”
+
+Ora sono addormentati nei nostri letti, privi di coscienza.
+
+
+
+"Senza curarsi affatto di loro... senza sperare né temere nulla per loro," aggiunse
+
+Caroline.
+
+
+
+Entrambi rimasero in silenzio per mezz’ora intera. Anche la [[Night|notte]] era silenziosa; solo.
+
+L’orologio della chiesa misurava il tempo in quarti d’ora; alcune parole.
+
+Si scambiarono commenti sul freddo dell’aria; si avvolsero nei loro sciarpe.
+
+Più vicini a loro, ripresero i cappelli che avevano tolto…
+
+Guardato di nuovo.
+
+
+
+Verso mezzanotte, il fastidioso e monotono abbaiare del cane di casa disturbò l’atmosfera.
+
+Il silenzio della loro veglia. Caroline si alzò in piedi e si diresse verso di loro senza fare rumore.
+
+“Attraverso i corridoi bui fino alla cucina, con l’intenzione di placarlo…”
+
+“Un pezzo di pane… Ci è riuscita. Tornando in sala da pranzo…”
+
+“Tutto era buio… La signorina Keeldar aveva spento la candela.”
+
+I contorni della sua figura erano visibili vicino alla finestra ancora aperta, appoggiata contro di essa.
+
+“Fuori.” La signorina Helstone non fece domande; si avvicinò silenziosamente al cane.
+
+#Ricominciò ad abbaiare furiosamente. Poi, all’improvviso, si fermò…
+
+Ascoltate… Anche gli occupanti della sala da pranzo ascoltarono attentamente, e non solo loro.
+
+#Ora, seguendo il corso del ruscello… C’era uno più vicino, anche se…
+
+Un suono attutito, proveniente dalla [[Road|strada]] sotto il cimitero, un ritmo regolare, continuo.
+
+Un suono che si avvicinava: il rumore pesante di passi marziali.
+
+
+
+Si avvicinava… Coloro che ascoltavano gradualmente cominciarono a comprendere la sua entità… Si.
+
+Non era il passo di due persone, né di una dozzina, né di venti uomini… Era qualcos’altro.
+
+“Le orme di centinaia di persone… Non riuscivano a vedere nulla; gli alti cespugli…”
+
+Il [[Garden|giardino]] formava una siepe rigogliosa tra di loro e la [[Road|strada]]. Per poter sentire.
+
+Tuttavia, non era sufficiente… E così sentirono mentre le truppe avanzavano.
+
+#E sembrava davvero che stessero superando la canonica… Lo percepivano ancora più chiaramente quando c’era una persona umana nei paraggi.
+
+# Voce… anche se quella voce pronunciò soltanto una parola, ruppe il silenzio di…
+
+[[Night|notte]].
+
+
+
+“Fermati!”
+
+
+
+Una pausa seguì. La marcia si fermò. Poi ebbe luogo una breve conversazione…
+
+Dalla sala da pranzo non era possibile distinguere alcuna parola.
+
+
+
+“Dobbiamo assolutamente ascoltare questo”, disse [[Shirley]].
+
+
+
+#Si girò, prese le sue pistole dal tavolo e uscì in silenzio…
+
+La finestra centrale del salone da pranzo, che in realtà era una porta di vetro.
+
+Si diresse furtivamente verso il muro del [[Garden|giardino]] e si fermò ad ascoltare sotto di esso.
+
+I lillà. Se fosse stata [[Alone|da sola]], Caroline non avrebbe mai lasciato quella [[house|casa]].
+
+Ma dove andava [[Shirley]], lei la seguiva. Gettò un’occhiata all’arma posizionata lì.
+
+# Tavolino da caffè, ma lo lasciò indietro e presto si trovò davanti alla casa della sua amica
+
+Da un lato. Non osavano guardare oltre il muro, per paura di essere visti.
+
+#Dovevano accovacciarsi dietro di esso. Sentirono queste parole…
+
+
+
+#Un edificio vecchio e disordinato… Chi ci vive, oltre a quei maledetti?
+
+“Parroco?”
+
+
+
+Solo tre donne: sua nipote e due domestiche.
+
+
+
+“Sai dove dormono?”
+
+
+
+Le ragazze dietro; la nipote nella stanza davanti.
+
+
+
+“E Helstone?”
+
+
+
+“Lì c’è la sua stanza. Prima accendeva una luce, ma ora non ne vedo più traccia.”
+
+
+
+“Da dove entreresti?”
+
+
+
+"#Se mi venisse ordinato di fare il suo lavoro… e lui non se lo merita affatto… proverei a farlo."
+
+La [[Window|finestra]]; si apre sul salotto da pranzo. Potrei arrampicarmi su per le scale al buio e.
+
 
 
 <span class="atom-split" data-atom="chapter_19--part_03" data-title="Shirley — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/death,motif/fire,motif/moon,motif/night,motif/road,motif/rose,motif/soul,motif/spring,motif/time,motif/water,motif/well,concept/doubt,concept/fear,concept/truth,character/pistol,character/speed"></span>
@@ -77602,6 +83590,223 @@ desolation on the fresh front of the [[Summer|summer]] [[Dawn|dawn]]. All the co
 
 Hollow was shady and dewy, the [[Hill|hill]] at its head was green; but just
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Finestre; e ora ogni singola lastra di ogni griglia era infranta…
+
+“Frantumi schiacciati… A questo spettacolo seguì un urlo: quello di una folla ribelle.”
+
+# Grido – nel nord dell’Inghilterra, nel Yorkshire, nella regione di West Riding…
+
+Grido dei rivoltosi del quartiere West-Riding-clothing-district di Yorkshire.
+
+
+
+# Mai hai sentito quel suono, vero lettore? Meglio ancora per te…
+
+Titolo:  
+Orecchie… forse per il tuo cuore, poiché, se esso lancia grida d’odio nell’aria…
+
+# A te stesso, o agli uomini e ai principi che approvi… gli interessi…
+
+Quello che desideri ardentemente, l’ira si risveglia al grido dell’odio; il [[Lion|leone]] si scuote.
+
+# La criniera si erge… e con essa il ringhio della iena; la rabbia si solleva, furiosa.
+
+Contro le caste; e lo spirito indignato e offeso della classe media
+
+#Con ferocia e disprezzo si abbatte sulla folla affamata e furiosa…
+
+Classe operaia… È difficile essere tolleranti, difficile essere giusti.
+
+In momenti del genere.
+
+
+
+Caroline sorrise; Shirley le mise un braccio intorno alle spalle: rimasero lì insieme.
+
+“Immobili come i tronchi dritti di due alberi… Quel grido è durato a lungo…”
+
+Quando cessò, la [[Night|notte]] era ancora piena del movimento ondulante e del mormorio di.
+
+folla.
+
+
+
+“E ora cosa succederà?” chiesero gli ascoltatori. Ma nulla accadde ancora.
+
+Il mulino rimase silenzioso come un mausoleo.
+
+
+
+“Non può essere [[Alone|solo]]!” sussurrò Caroline.
+
+
+
+Scommetterei tutto ciò che ho sul fatto che sia altrettanto poco [[Alone|sicuro di sé]] quanto spaventato.
+
+Rispose [[Shirley]].
+
+
+
+I rivoltosi spararono dei colpi. Se i difensori avessero aspettato questo…
+
+Un segnale? Sembrava proprio di sì. Il mulino, fino ad allora inerte e passivo, si risvegliò; [[Fire|fuoco]].
+
+I bagliori lampeggiavano dai vuoti telai delle finestre; una raffica di colpi di moschetto risuonò acuta nell’aria.
+
+Attraverso il Vuoto.
+
+
+
+“Finalmente Moore parla!”, disse [[Shirley]], “e sembra davvero avere il dono di, ”
+
+Lingue. Non era una sola voce.
+
+
+
+“È stato paziente… Nessuno può accusarlo di impulsività”, si afferma.
+
+# Caroline. “Il loro congedo arrivò prima del suo. Hanno sfondato le sue porte e…”
+
+Finestre. Hanno attaccato la sua guarnigione prima che lui riuscisse a respingerli.
+
+
+
+Cosa stava succedendo adesso? Nella oscurità, sembrava davvero difficile capirlo…
+
+"Distinguere… ma c’era qualcosa di terribile: un tumulto che continuava senza sosta."
+
+#Attacchi furiosi, difese disperate… Il mulino, il cortile del mulino.
+
+Il luogo stesso era pieno di movimenti bellicosi; quasi non c’era mai un attimo di pausa.
+
+# L’uso delle armi da fuoco; e ci furono lottate, corse…
+
+“Calpestando e gridando in mezzo alla confusione… L’obiettivo degli assalitori sembrava essere…”
+
+“Per entrare nella fabbrica, era necessario che i difensori li respingessero… Li sentirono.”
+
+Il leader dei [[Rebel|ribelli]] gridò: “Indietro, ragazzi!” Sentirono una voce rispondere.
+
+“Riprenditi; ci incontreremo.”
+
+
+
+“Verso la casa dei conti!” fu di nuovo l’ordine impartito.
+
+
+
+“Benvenuto! Ti porteremo lì!” fu la risposta. E così fu fatto.
+
+Il fuoco più violento che si fosse mai visto, il rumore più assordante che si fosse mai sentito…
+
+Dopo essere stati ascoltati, i manifestanti irrompersero dal davanti della casa dove avvenivano i conteggi, mentre la folla dei rivoltosi.
+
+Si precipitò verso di esso.
+
+
+
+La voce che aveva parlato era proprio quella di Moore. Lo capirono dal suo timbro…
+
+Tonalità che indicavano come la sua [[Soul|'anima]] fosse ormai riscaldata dal conflitto; si poteva intuire.
+
+Quegli uomini avevano tutti in sé l’animale combattivo pronto ad essere risvegliato.
+
+Lottando insieme, per quel [[Time|momento]] fu davvero di fondamentale importanza.
+
+Un essere umano razionale.
+
+
+
+Entrambe le ragazze sentirono il viso arrossire e il battito del cuore accelerare; entrambe se ne resero conto.
+
+Non avrebbero ottenuto nulla affrettandosi nel mezzo della confusione… Desideravano semplicemente…
+
+# Non dovevano né dare né ricevere colpi; ma non potevano scappare.
+
+Lontano. Caroline, proprio come Shirley, non potevano essere svenute; non era possibile.
+
+Non riuscivano a staccare lo sguardo da quella scena cupa e terribile…
+
+Una massa di nuvole, di fumo, il lampo dei moschetti, per tutto il mondo.
+
+
+
+“Come e quando finirà?”, questa domanda risuonava con forza nelle loro menti.
+
+"Pulsi… Sarebbe mai possibile che si presentasse un momento in cui potessero essere utili?" era ciò che…
+
+Aspettarono per vedere cosa sarebbe successo; perché sebbene [[Shirley]] avesse ritardato il loro arrivo, ormai era troppo tardi.
+
+Con una battuta scherzosa, era sempre pronta a satirizzare se stessa o chiunque altro.
+
+Con quell’entusiasmo, avrebbe dato anche un intero campo dei suoi terreni migliori in cambio…
+
+La possibilità di rendere un buon servizio.
+
+
+
+Quell’opportunità non le fu concessa; il momento atteso non arrivò mai.
+
+Non era probabile… Moore si aspettava questo attacco da giorni, forse.
+
+#Settimi… Era preparato ad affrontarli in ogni momento. Si era preparato con cura…
+
+“Garrisonò la sua fattoria, che di per sé era un edificio molto robusto.” Lui era…
+
+Fantastico, uomo coraggioso; si è schierato in sua difesa con fermezza incrollabile.
+
+Quelli che erano con lui assunsero il suo stesso spirito e imitarono il suo comportamento.
+
+I rivoltosi non erano mai stati affrontati in questo modo prima d’ora; in altre fabbriche avevano attaccato…
+
+Non hanno incontrato alcuna resistenza; ciò che mancava era una difesa organizzata e decisa.
+
+#Incontri inaspettati. Quando i loro leader videro ciò che stava accadendo…
+
+Il fuoco che proveniva dalla macina testimoniava la calma e la determinazione di.
+
+Il suo proprietario, sentendosi sfidato in modo freddo e calmo, fu invitato ad affrontare la [[Death|morte]].
+
+#Videro i loro uomini cadere feriti intorno a loro, e capirono che non c’era più nulla da fare…
+
+Da completare qui… In fretta, radunarono le loro forze e le portarono via.
+
+Dal edificio venne letta un’elenco; gli uomini risposero uno per uno…
+
+# Numeri invece di nomi. Si dispersero ampiamente nei campi, lasciando…
+
+[[Silence|Silenzio]] e distruzione alle loro spalle. L’attacco, dal suo inizio fino alla sua.
+
+La terminazione non aveva ancora durato un’ora.
+
+
+
+Ormai si avvicinava la [[Time|giornata]]; l’ovest era già scuro, mentre l’est iniziava a illuminarsi.
+
+“Per brillare… Sembra che le ragazze che avevano assistito a questo…”
+
+“Ora tutti vorrebbero affrettarsi dai vincitori, dal lato di coloro che hanno trionfato…”
+
+Il loro interesse era stato stimolato; ma agirono con estrema cautela.
+
+Si avvicinò alla mulina ormai in rovina, quando improvvisamente apparvero numerosi soldati…
+
+E i signori apparvero alla grande porta che dava sul cortile…
+
+Si spostò rapidamente in un capanno, dove venivano conservati vecchi pezzi di ferro e legno.
+
+Da lì potevano vedere senza essere visti.
+
+
+
+# Non era certo uno spettacolo entusiasmante… Questi locali erano ormai soltanto un marchio negativo.
+
+Desolazione sul fresco orizzonte dell’[[Summer|estate]], all’alba. Tutti i cespugli lungo il.
+
+Il luogo era ombreggiato e ricoperto di rugiada; la[[Hill|collina]] in cima era verde, ma proprio lì.
 
 
 
@@ -78700,6 +84905,232 @@ As the vehicle rumbled out of the yard, [[Shirley]], rallying her spirits,
 
 demanded what had become of the wounded.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+A volte gli si posava sopra e mormorava le parole più dolci di compassione…
+
+# Affetto, espresso con toni che ricordano la musica di quel vecchio e segnato guerriero canino…
+
+Ringraziata leccandole alternativamente la mano o la sandalia con la propria.
+
+Titolo:  
+“Woundi rossi”. Per quanto riguarda John, la sua donna gli voltò le spalle…
+
+Una settimana dopo.
+
+
+
+La signora Gill, ricordando questo piccolo episodio, iniziò a tremare tutta…
+
+“Lo ha detto lei stessa”, disse la signorina Keeldar con voce ferma e breve, proseguendo poi nel suo discorso.
+
+Domande e ordini. Che a un’ora del genere Fieldhead avesse dovuto.
+
+Rivelò l’ostilità tipica di una dimora misera: offese profondamente il suo spirito orgoglioso.
+
+La sua rapidità. E la ribellione della sua [[Pride|orgoglio]] si manifestò nel modo in cui si muoveva.
+
+Il cuore, agitato violentemente sotto il pizzo e la seta che lo nascondevano.
+
+
+
+“Da quanto tempo è passato da quando quel messaggio è arrivato dalla fabbrica?”
+
+
+
+“Non è ancora passata un’ora, signora,” rispose la cameriera con voce rassicurante.
+
+
+
+“Nemmeno un’ora! Potresti benissimo aver detto nemmeno un giorno. Loro arriveranno.”
+
+Devono aver presentato domanda altrove entro questo [[Time|tempo]]. Mandate immediatamente qualcuno a comunicarlo.
+
+Tutti gli oggetti contenuti in questa [[house|casa]] appartengono al signor Moore.
+
+Il servizio reso da Helstone e dai soldati. Fai quello prima di tutto.
+
+
+
+Mentre l'ordine veniva eseguito, [[Shirley]] si allontanò dai suoi amici.
+
+E rimase davanti alla finestra del salone, in silenzio, inavvicinabile. Quando la signora Gill.
+
+Titolo:  
+Tornò indietro; si girò. Quel rossore viola scatenato dall’emozione intensa…
+
+Su una guancia pallida brillava quel segno; la scintilla che il dispiacere accende nel cuore…
+
+Quel suo sguardo scuro la fissò intensamente.
+
+
+
+#"Portino fuori il contenuto della dispensa e della cantina, mettilo..."
+
+“Nel carro del fieno, e condotti giù nella Valle… Se non dovesse…”
+
+Se in [[house|casa]] c'è molto pane o molto carne, vai dal macellaio e.
+
+Un panettiere, e desidero che mi inviino ciò che hanno. Ma vedrò io stesso come procedere.
+
+“Me stesso.”
+
+
+
+Se ne andò.
+
+
+
+“Tutto andrà bene presto; si riprenderà in un’ora,” sussurrò.
+
+# Caroline alla signora Pryor: “Vada di sopra, cara signora,” aggiunse.
+
+Con affetto, “e cerca di essere il più calmo e rilassato possibile. La [[Truth|verità]], ”
+
+“È così: prima che la giornata finisca, [[Shirley]] si incolperà ancora di più di te.”
+
+
+
+Grazie ad alcune altre parole dolci e persuasive, la signorina Helstone…
+
+#Risolto per calmare la signora agitata. Dopo averla accompagnata…
+
+Appartamento… e le promise di raggiungerla lì non appena le cose si fossero sistemate.
+
+Caroline se ne andò per vedere, come disse, “se poteva essere utile”.
+
+Si scoprì ben presto che poteva essere molto utile; per la scorta…
+
+I servitori a Fieldhead non erano affatto numerosi, e proprio in quel momento…
+
+La padrona trovò molte occupazioni per tutte le persone a sua disposizione.
+
+E anche per lei stessa. Quella delicata natura gentile e quelle abilità agili.
+
+#Che cosa Caroline fece per aiutare la cameriera e le domestiche… tutto quanto
+
+Un po’ spaventati dallo strano umore della loro signora… fecero davvero del bene.
+
+Una volta; aiutò gli assistenti e placò la direttrice… Una opportunità.
+
+Lo sguardo e il sorriso di Caroline spinsero [[Shirley]] a ricambiare con un sorriso.
+
+Direttamente. Il primo stava portando un cesto pesante su per le scale della cantina.
+
+
+
+“È un peccato!” gridò [[Shirley]], correndo verso di lei. “Ci farà male, ”
+
+“Arma.”
+
+
+
+#La nuvola
+
+Il suo umore cupo svanì non appena tornò; lo scintillio nei suoi occhi scomparve…
+
+“Scioltasi… L’ombra sulla sua fronte scomparve. Riprese il suo solito aspetto…”
+
+Un atteggiamento gioioso e cordiale verso coloro che le stanno intorno, che tempera la sua natura rinnovata…
+
+#Spiriti con un pizzico di quella tenerezza che deriva dalla vergogna per le azioni ingiuste compiute in passato
+
+Rabbia.
+
+
+
+# Un gentiluomo intervenne mentre lei ancora supervisionava il carico del carro…
+
+Entrò nel cortile e le si avvicinò prima ancora che lei si accorgesse della sua presenza.
+
+
+
+“Spero di vedere la signorina Keeldar in buona salute stamattina,” disse, esaminandola attentamente.
+
+Un esame piuttosto attento rivelò il suo viso ancora arrossato.
+
+
+
+Lo guardò per un attimo, poi si rimise al suo lavoro senza dire nulla.
+
+“Risposta… Un sorriso abbastanza piacevole le apparve sulle labbra, ma lo nascose.”
+
+Il gentiluomo ripeté il suo saluto, chinandosi affinché potesse raggiungere le sue orecchie.
+
+con maggiore facilità.
+
+
+
+“Beh,” fu la risposta, “se lei è abbastanza brava. E lo stesso vale per il signor, ”
+
+Anche Moore, oserei dire. A dire la [[Truth|verità]], non sono preoccupato per lui; alcuni.
+
+“Una piccola sfortuna sarebbe solo ciò che gli spetta… Il suo comportamento è stato…”
+
+Dirò che è “strano”, almeno per ora; avremo poi il tempo di caratterizzarlo meglio.
+
+Un epiteto più preciso. Intanto, posso chiedere cosa lo ha portato qui?
+
+
+
+#"Il signor Helstone ed io abbiamo appena ricevuto il vostro messaggio che tutto è a posto..."
+
+“Fieldhead era a nostra disposizione. Giudicammo, dalla libertà illimitata delle sue formulazioni…”
+
+Un gentile avvertimento, che vi state causando troppi problemi.
+
+“Percepiamo che la nostra congettura era corretta: non siamo un reggimento.”
+
+# Ricorda… solo una cinquantina di soldati e altrettanti civili.
+
+Devo ridurre qualcosa di questi abbondanti rifornimenti.
+
+
+
+# Miss Keeldar arrossì, ridendo della propria eccessiva generosità
+
+# E i calcoli più sproporzionati… Moore rise anche lui, molto silenziosamente.
+
+“Sebbene… e con estrema calma ordinò che vengessero portate via una cesta dopo l’altra…”
+
+Il carrello, e poi una nave dopo l’altra, furono portati nel seminterrato.
+
+
+
+“Il rettore deve sapere di questo”, disse; “ne farà sicuramente una bella storia”.
+
+Che eccellente appaltatrice per l’esercito sarebbe stata la signorina Keeldar!
+
+Rise di nuovo, aggiungendo: “È esattamente come avevo ipotizzato.”
+
+
+
+“Dovresti essere grato,” disse [[Shirley]], “e non prendermi in giro. Cosa avrei potuto fare, ”
+
+“Come potrei mai conoscere i vostri desideri o contare il numero dei vostri seguaci? Per quanto ne so…”
+
+Sapevo che avreste potuto essere almeno cinquanta persone a far fronte alle necessità logistiche… Voi avete detto…
+
+“Niente per me; e poi la richiesta di fornire soldati, naturalmente…”
+
+“Suggerisce idee grandiose.”
+
+
+
+“Sembra proprio così,” osservò Moore, sollevando ancora uno dei suoi sottili e tranquilli commenti.
+
+Sguardi verso la imbarazzata [[Shirley]], “Ora,” continuò, rivolgendosi a lei.
+
+"Carter, penso che tu possa portare ciò che rimane nel Luogo Vuoto. Il tuo carico..."
+
+È un po’ più leggero di quello che la signorina Keeldar aveva intenzione di farti portare.
+
+
+
+Mentre il veicolo usciva rumorosamente dal cortile, [[Shirley]], raccoltosi i pensieri,
+
+Chiese cosa fosse successo ai feriti.
 
 
 
@@ -79809,6 +86240,202 @@ existence, but I rarely enjoy it. Since Miss Keeldar and you came I have
 been--I was going to say happier, but that would be untrue." She paused.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un sentiero calpestato. La freschezza dei fiori di legno testimoniava la presenza di passi umani.
+
+“Raramente venivano coltivate; le numerose rose selvatiche sembravano fiorire da sole.”
+
+Fiorì, poi appassì sotto lo sguardo della [[Solitude|solitudine]], come se si trovasse nel harem di un sultano.
+
+Harem. Qui si poteva ammirare il dolce azzurro delle campane blu, e riconoscerlo nel.
+
+“Fiori bianchi come perle, che illuminano l’erba… un tipo umile, simbolo di qualcosa di luminoso e prezioso…”
+
+Un punto nello spazio.
+
+
+
+# La signora Pryor amava fare lunghe passeggiate in tranquillità. Evitava sempre le strade principali e preferiva…
+
+Vicoli secondari e strade deserte. Preferiva la totale [[Solitude|solitudine]] a qualsiasi compagnia.
+
+Perché nella [[Solitude|solitudine]] si sentiva nervosa; provava una vaga [[Fear|>paura]] di incontrare situazioni sgradevoli.
+
+Interrompeva il piacere di quelle solitarie escursioni… Ma non temeva nulla.
+
+# Caroline. Quando una volta si allontanò dalle abitazioni umane e entrò…
+
+I restanti territori ancora sotto il dominio della [[Nature|>natura]], accompagnati da questo giovane amico.
+
+Un cambiamento propizio sembrò insinuarsi nella sua mente e illuminarla…
+
+Espressione del volto. Quando era con Caroline… e solo con Caroline… il suo cuore…
+
+Come ho detto, si è liberata di un peso; dalla sua fronte è sparito il velo, e il suo spirito si è riscattato.
+
+Libera da ogni restrizione… Con lei era sempre allegra; con lei…
+
+Titolo:  
+A volte era tenera; le trasmetteva la sua conoscenza, le rivelava i segreti…
+
+# Frammenti della sua esperienza… le offrono l’opportunità di indovinare cosa…
+
+La vita che aveva vissuto, la cultura che il suo spirito aveva ricevuto… di cosa tutto ciò fosse fatto.
+
+Il suo calibro era la sua intelligenza; il modo e il luogo in cui esprimeva i suoi sentimenti…
+
+Vulnerabile.
+
+
+
+Titolo:  
+Oggi, ad esempio, mentre camminavano insieme, la signora Pryor parlava con lei…
+
+Il compagno, ascoltando i vari [[Birds|uccelli]] che cantavano sugli alberi, riusciva a distinguerli uno dall'altro.
+
+La loro specie, e disse qualcosa riguardo alle loro abitudini e particolarità.
+
+La naturale [[history|storia]] inglese le sembrava familiare; tutti quei fiori selvatici.
+
+Intorno al loro percorso c’erano piante che lei riconosceva: piccoli germogli che spuntavano ovunque.
+
+“Pietre e piante che spuntano dalle fessure delle vecchie mura… come quelle della specie ‘Caroline’.”
+
+#Aveva appena notato prima… ricevette un nome e un indizio riguardo a loro
+
+Titolo:  
+Proprietà… Sembrava che avesse studiato con estrema attenzione la botanica di…
+
+Campi e boschi inglesi. Giunti in cima alla gola, loro…
+
+# Si sedettero insieme su un bordo di roccia grigia e ricoperta di muschio che sporgeva dal…
+
+La base di un ripido colle verde che si ergeva sopra di loro. Lei guardò intorno.
+
+#Ella parlò del quartiere proprio come lo aveva visto una volta, molto tempo fa…
+
+Titolo:  
+“Alcuni tempi fa… Menzionò i suoi cambiamenti e ne paragonò l’aspetto con quello di…”
+
+Altre parti d’Inghilterra, che rivelano, attraverso tocchi silenziosi e inconsapevoli…
+
+# Un senso del pittoresco, un apprezzamento per la bellezza
+
+# Il potere di confrontare il selvaggio con il coltivato
+
+“Grande con la semplicità… Questo conferiva al suo discorso un fascino particolare.”
+
+Piacente com'era, senza alcuna pretesa.
+
+
+
+Il tipo di piacere reverente con cui Caroline ascoltava… così sincero.
+
+Così silenzioso, eppure così evidente… stimolava le facoltà mentali della signora anziana, inducendola a riflessioni gentili.
+
+#Animazione… Raramente, probabilmente, lei, con quel suo aspetto freddo e repulsivo, aveva mai…
+
+Il suo atteggiamento timido e le sue abitudini riservate facevano capire chiaramente…
+
+Scatena in chi lei stessa potrebbe [[Love|amare]] sentimenti di profonda affetto.
+
+# Ammirazione e stima profonda. Senz’dubbio, doveva essere delizioso provare quella consapevolezza…
+
+# Ragazza giovane verso la quale, a giudicare dall’espressione commossa…
+
+# I suoi occhi e i suoi tratti… il suo cuore si commosse per un impulso quasi affettuoso.
+
+La considerava un’insegnante a cui rivolgersi per guida, e una amica a cui aggrapparsi con affetto. Con una…
+
+Un interesse un po’ più marcato di quanto lei solitamente si permettesse
+
+“Da usare,” disse, chinandosi verso la sua giovane compagna e porgendoglielo.
+
+“Oltre alla fronte, una ciocca di capelli castano chiaro si era staccata dal resto…”
+
+Confinando il tutto in un angolo, “Spero davvero che quest’aria fresca che soffia dalla  collina possa essere d’aiuto”.
+
+“Sei davvero gentile, mia cara Caroline… Vorrei tanto poter vedere qualcosa di più colorato.”
+
+In queste guance. Ma forse non siete mai stati rossi in viso?
+
+
+
+“Una volta avevo le guance rosse,” rispose la signorina Helstone sorridendo. “Me ne ricordo…”
+
+#Due anni fa… quando guardavo nel riflesso dello specchio, vedevo qualcosa di diverso.
+
+#Rosa e rotonda… ma quando siamo insieme…
+
+“Giovani”, aggiunse la ragazza di diciotto anni, “le nostre menti sono ancora incontrollate e i nostri pensieri spesso vagano senza direzione…”
+
+Vive facilmente.
+
+
+
+“Davvero,” continuò la signora Pryor, con uno sforzo evidente per controllarsi, quel [[Tyrant|tiranno]].
+
+#Timidezza che le rendeva difficile anche in circostanze attuali
+
+#"In circostanze del genere, tentare di esaminare i sentimenti altrui… è davvero possibile?"
+
+# Alla tua età, preoccuparti troppo del futuro? Credimi, non ne vale la pena.
+
+Meglio di no. Lasciamo che il domani si preoccupi da solo di queste cose.
+
+
+
+“Vero, cara signora… Non è del futuro che mi manca; è il male di questo giorno che mi angoscia…”
+
+A volte è opprimente, troppo opprimente, e desidero ardentemente liberarmene.
+
+
+
+“Quello che rappresenta il male di questi tempi… è forse il fatto che tuo zio non sia… beh, non è esattamente ciò che dovrebbe essere.”
+
+Trovo difficile capirlo… Non lo apprezza affatto.
+
+
+
+# Mrs. Pryor non riusciva a completare le frasi interrotte… Non ce la faceva.
+
+si pone la domanda se il signor Helstone fosse troppo severo con sua nipote.
+
+Ma Caroline capì.
+
+
+
+“Oh, niente di che,” rispose lei. “Mio zio e io andiamo molto d’accordo. Noi, ”
+
+“Mai litigare… Non lo considero crudele; non mi rimprovera mai. A volte…”
+
+# Vorrei che qualcuno al mondo mi amasse, ma non posso dire di averlo…
+
+#Desidero ardentemente che provi per me un affetto maggiore di quello che già prova.
+
+[[Child|bambino]], forse avrei dovuto sentire il bisogno di attenzioni, ma non è stato così.
+
+“I servitori sono stati molto gentili con me; ma quando le persone diventano per lungo tempo indifferenti…”
+
+#Noi diventiamo indifferenti alla loro indifferenza… È il modo di mio zio.
+
+"Curare le donne e le ragazze, a meno che non si tratti di signore che incontra..."
+
+Compagnia… Non poteva cambiarla, e io non desidero affatto che la cambi.
+
+Per quanto mi riguarda… Credo che mi infastidirebbe e spaventerebbe soltanto.
+
+“Se ora lui mostrasse affetto per me… Ma sa, signora Pryor, è…”
+
+A malapena si può dire che sia “vivo” nel senso di misurare il [[Time|tempo]] come faccio io nella canonica. Le ore.
+
+“Passo oltre, e in qualche modo riesco a superarle, ma non ‘vivo’ davvero… Solo sopravvivo.”
+
+Esistenza… ma raramente ne traggo piacere. Da quando siete arrivati voi, Miss Keeldar e tu, le cose sono cambiate.
+
+“Ero, stavo per dire più felice, ma sarebbe stato falso.” Fece una pausa.
+
 
 
 <span class="atom-split" data-atom="chapter_21--part_05" data-title="Shirley — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/well,concept/fear,concept/hope,concept/humility,concept/nature,concept/pride,concept/self,concept/vanity"></span>
@@ -80781,6 +87408,200 @@ rare, her feelings peculiar. She does not know, has never known, and
 will die without knowing, the full value of that [[Spring|spring]] whose bright
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Scatola da lavoro… del tutto inutile, ma al momento sembra indispensabile.
+
+“Forse per sistemarsi i capelli, o un cassetto di cui si ricorda di averlo…”
+
+Visto quella mattina in uno stato di curiosa confusione… forse solo per essere preso.
+
+Un’occhiata attraverso una particolare [[Window|finestra]], su un panorama specifico. Da lì, Briarfield.
+
+La chiesa e la canonica sono visibili, incorniciate piacevolmente dagli alberi. Lei…
+
+Appena tornato in possesso di quel pezzo di cambrice o di quel quadrato di…, lo riprende immediatamente in mano.
+
+# Mezzo-tinto, quando il rozzo graffio e il fischio soffocato del tartaro risuonano…
+
+#Sentito alla porta del portico… Deve correre ad aprirla per lui. È una…
+
+# Giorno caldo; arriva ansimando; lei deve accompagnarlo in cucina…
+
+Vedere con i suoi occhi che la sua ciotola d’acqua viene rifornita. Attraverso.
+
+Aprendo la porta della cucina, si vede il [[Court|cortile]], tutto illuminato dal sole e pieno di persone.
+
+# Con i tacchini e i loro pulcini, le pavone e i loro cuccioli… tutti adornati di perle.
+
+## Polli di Guinea e una varietà splendida di esemplari dal collo bianco puro e viola…
+
+Pigli d’avena con piume blu e cannella. Uno spettacolo irresistibile per [[Shirley]]! Lei.
+
+Va in cucina a prendere un rotolo di pane e si ferma sul gradino della porta.
+
+“Polvere sparsa ovunque… Intorno a lei, una folla di uccellini affamati, paffuti e felici…”
+
+#"Vassalli: John è vicino alle stalle, e bisogna parlare con lui."
+
+# Lei guarda il mare… Mentre le mucche arrivano, continua ad accarezzarlo e batterci sopra le mani.
+
+Deve essere munto. È importante: [[Shirley]] deve restare e partecipare alla revisione.
+
+# Tra tutti quanti… Forse ci sono alcuni piccoli vitelli, alcuni piccoli…
+
+Agnellini appena nati. Forse sono gemelli, i cui genitori li hanno rifiutati.
+
+“Miss Keeldar deve essere presentata a loro da John; deve permetterselo…”
+
+Titolo:  
+Il trattato sulla loro alimentazione effettuata direttamente dalle sue mani, sotto la sua guida
+
+# Attento caposquadra… Nel frattempo, John solleva domande dubbiose su…
+
+Coltivazione di determinati terreni chiamati “croft”, “ing” e “holme”, nonché della sua amante
+
+È necessario prendere il suo cappello da giardino – fatto di paglia gitana – e accompagnarla.
+
+# Lungo lo steccato, oltre lo stile… per ascoltare la conclusione di tutto.
+
+Titolo:  
+Questioni agricole sul posto, e relative alle suddette “fattorie”, “terreni” e simili…
+
+“Holms” sotto il suo sguardo… La calda giornata si trasforma lentamente in una serata dolce e tranquilla.
+
+E lei torna [[Home|a casa]] per il tè serale, e dopo il tè non cucisce mai più.
+
+
+
+Dopo il tè, [[Shirley]] legge; è davvero molto attaccata al suo libro.
+
+“Poiché è scarsamente abile nel cucito… Il suo “studio” è il tappeto, e il suo “sedile”, un piedistallo.”
+
+O forse soltanto il tappeto ai piedi della signora Pryor… Lì, lei era sempre.
+
+Imparò le sue lezioni quando era ancora una [[Child|bambina]], e le vecchie abitudini hanno un grande potere.
+
+#Sopra di lei… La massa brunastra e imponente di Tartar si estende sempre accanto a lei…
+
+# Il muso nero di lui posato sulle zampe anteriori… dritto, forte…
+
+Formosa come le zampe di un lupo alpino… Una mano della padrona
+
+Titolo:  
+Generalmente riposa sulla testa rozza del servo amorevole… perché se lei lo prendesse…
+
+Lo getta via, geme e è insoddisfatto. La mente di [[Shirley]] è completamente presa da.
+
+Libro. Non alza mai lo sguardo; non si muove né parla… a meno che…
+
+# In effetti, si tratta di rispondere brevemente e con rispetto alla signora Pryor…
+
+Le rivolgeva di tanto in tanto frasi piene di rimprovero.
+
+
+
+"#Mia cara, forse non dovresti tenere quel grosso cane così vicino a te… Lui è…"
+
+“Schiacciando il bordo del tuo vestito.”
+
+
+
+“Oh, è solo mussola. Posso mettermene uno pulito domani.”
+
+
+
+Titolo:  
+“Mia cara, vorrei tanto che ti abituassi a sederti a tavola quando…”
+
+“Lo hai letto.”
+
+
+
+“Ci proverò, signora, tra un po’. Ma è davvero troppo comodo fare le cose come si ha l’abitudine, ”
+
+“Ero sempre abituato a farlo.”
+
+
+
+"#Mia cara, ti prego di mettere giù quel libro… Stai cercando di…"
+
+Gli occhi, illuminati dalla luce incerta del fuoco.
+
+
+
+“No, signora, affatto; i miei occhi non si stancano mai.”
+
+
+
+Finalmente, tuttavia, una debole luce filtra dalla [[Window|finestra]] sulla pagina. Lei.
+
+Guarda, la [[Moon|luna]] è già alta nel cielo. Lei spegne il volume, si alza e cammina via.
+
+La stanza… Il suo libro è forse stato davvero buono: ha rinfrescato l’atmosfera…
+
+#Riempito di nuovo, ha riscaldato il suo cuore; ha messo in movimento la sua mente, fornendole idee e ispirazioni.
+
+Ricorda tutto con queste immagini: la stanza silenziosa, il camino pulito, la [[Window|finestra]].
+
+# Sorgere sul cielo al crepuscolo, che mostra il suo “dolce sovrano”, appena salito al trono
+
+E glorioso. Basta questo per trasformare la terra in un Eden, la vita in una poesia, per [[Shirley]].
+
+“Una gioia profonda, innata, brilla ancora nelle sue vene giovani, intatta e pura.”
+
+#Inviolata, irraggiungibile e al sicuro da qualsiasi interferenza umana…
+
+# L’agire umano: il dono puro di Dio alla sua creatura, la libertà
+
+Il dono di [[Nature|>Natura]] alla sua [[Child|>figlia]]. Questa gioia le permette di sperimentare una.
+
+#Genii-Life: Versi leggeri, passi verdi, colline gioiose… tutta la verdeggia della natura.
+
+#Luce: raggiunge una stazione appena più bassa di quella da cui provengono gli angeli
+
+Guardava con disprezzo la sognatrice di Betel; il suo sguardo cercava, e la sua [[Soul|'anima]].
+
+# Possiede la visione della vita come desidera… Ma no, non esattamente come desidera.
+
+Non ha nemmeno il [[Time|tempo]] per desiderare. La rapida gloria si diffonde, travolgente e inarrestabile.
+
+# Accendendo le fiamme, il suo splendore aumenta più rapidamente di quanto la mente possa concepire
+
+Le sue combinazioni, più veloci di quanto [[Aspiration]] possa esprimere i suoi desideri. [[Shirley]]
+
+#Muta durante l’incantesimo… ma se…
+
+# La signora Pryor le parla ora; lei esce in silenzio e prosegue…
+
+Salire le scale nella penombra della galleria.
+
+
+
+Se [[Shirley]] non fosse una persona pigra, sconsiderata e ignorante, lei.
+
+In momenti del genere, o almeno mentre si ricorda…
+
+Quei momenti erano ancora vividi nella sua mente; li avrebbe ricordati e ne avrebbe tratto ispirazione.
+
+#L’apparizione, la visione rivelata… Avesse avuto un po’ più di quella forza…
+
+Un organo legato all’acquisizione, nella sua mente, un po’ più di quell’amore che.
+
+Per sua natura, prendeva un foglio di carta abbastanza grande e.
+
+Scritto chiaramente, con la sua calligrafia strana ma leggibile…
+
+La storia che è stata raccontata, la [[Song|CANZONETTA]] che le è stata cantata, e ancora molto altro.
+
+Così possiede ciò che è stata in grado di creare… Ma è pigra.
+
+È sconsiderata e molto ignorante; infatti non sa che i suoi [[Dreams|>sogni]] sono.
+
+Rari… i suoi sentimenti sono davvero particolari. Non lo sa, non l’ha mai saputo…
+
+Morirà senza mai conoscere il vero valore di quella [[Spring|fontana]] la cui luce.
+
 
 
 <span class="atom-split" data-atom="chapter_22--part_03" data-title="Shirley — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/childhood,motif/death,motif/dreams,motif/fire,motif/flowers,motif/garden,motif/grave,motif/nature,motif/noon,motif/storm,motif/summer,motif/tears,motif/water,concept/fanaticism,concept/fear,concept/hope,concept/indolence,concept/nature,concept/solitude,concept/wonder,setting/castle,character/sunday"></span>
@@ -81128,6 +87949,161 @@ health, your tenderest nurses in sickness, your most faithful prop in
 
 age."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Irreligioso o sacrilego… La mia consolazione è che Dio ascolta davvero.
+
+"Molti gemiti, e grande compassione per il dolore che l’uomo preferisce non ascoltare."
+
+“Contro… o con un disprezzo impotente e inutile. Dico ‘impotente’, perché…”
+
+Si noti che per simili lamentele la società non può trovarne facilmente una soluzione.
+
+Di solito vieta qualsiasi espressione, al rischio del proprio disprezzo; tale disprezzo non è altro che.
+
+“Una sorta di mantello decorato che nasconde la sua vera debolezza… Le persone odiano essere così.”
+
+Un promemoria di mali che non sono in grado o non vogliono rimediare… Un simile promemoria…
+
+# Infliggendo loro la consapevolezza della propria incapacità, o qualcosa di ancora più doloroso…
+
+# Il senso di dovere compiere uno sforzo sgradevole li tormenta
+
+La tranquillità quotidiana scuote la loro presunzione. Le vecchie domestiche, proprio come quelle senza fissa dimora.
+
+“I poveri disoccupati non dovrebbero chiedere un posto dove vivere e un lavoro…”
+
+#Mondo: la domanda perturba i felici e i ricchi… perturba anche i genitori. Guarda.
+
+Alle numerose famiglie di ragazze di questo quartiere… le Armitage.
+
+I Birtwhistle, i Sykes… I fratelli di queste ragazze… tutti quanti.
+
+# Nel mondo degli affari o nelle professioni… hanno sempre qualcosa da fare. E le loro sorelle?
+
+# Nessun altro lavoro se non lavori domestici e cucito…
+
+Un piacere, ma una visita senza alcun beneficio; e, per tutta la loro vita, nessuna [[Hope|>speranza]].
+
+“Come… qualcosa di meglio. Questo stato di stallo rende le cose ancora peggiori.”
+
+Peggioramento della salute. Non sono mai in buone condizioni, e sia la loro mente che le loro opinioni tendono a declinare.
+
+#A una meravigliosa strettezza… Il grande desiderio, l’unico obiettivo di ognuno di loro…
+
+Si dice che debbano sposarsi, ma la maggior parte di loro non lo farà mai; moriranno prima.
+
+Come vivono ora… Intrigano, complottano, si vestono in modo da attirare l’attenzione altrui.
+
+“Mariti… I signori li riducono in ridicolo; non li vogliono affatto.”
+
+“Li vendono a prezzi molto bassi. Dicono… ho sentito dire che lo dicono…”
+
+Risate derisorie molte volte: il mercato del matrimonio è sovraccarico.
+
+“I padri dicono lo stesso e si arrabbiano con le loro figlie quando…”
+
+Osservate le loro manovre: ordinano loro di rimanere a [[Home|>casa]]. Cosa stanno facendo?
+
+Aspettarsi che facciano queste cose a [[Home|>casa]]? Se glielo chiedi, risponderebbero che cucinano e sbrigano le faccende domestiche.
+
+“Si aspettano che facciano solo questo, e nient’altro, in modo soddisfacente e regolare.”
+
+Senza mai lamentarsi, per tutta la loro vita, come se non possedessero alcuna traccia di…
+
+# Facoltà per qualsiasi altra cosa: una dottrina altrettanto ragionevole da sostenere
+
+#Se solo i padri non avessero altra funzione se non quella di mangiare ciò che…
+
+Le figlie cucinano o indossano ciò che hanno cucito… Potrebbero gli uomini vivere allo stesso modo?
+
+Si stancherebbero molto, non credete? E quando non arrivasse alcun sollievo…
+
+Fino alla loro stanchezza… ma solo rimproveri ogni volta che si manifesta anche minimamente.
+
+Non sarebbe forse il loro affaticamento, con il passare del [[Time|tempo]], degenerato in follia? Lucrezia, mentre filava.
+
+A mezzanotte, tra le sue ancelle e la donna virtuosa di Salomone
+
+Vengono spesso citati come esempi di ciò che, si dice, “il sesso” dovrebbe essere.
+
+# Non lo so… Direi che Lucrezia fosse davvero una persona di grande valore.
+
+Una persona, proprio come mia cugina Hortense Moore… ma lei teneva i suoi servitori svegli tutta la notte.
+
+# Molto tardi… Non avrei voluto far parte di quel gruppo.
+
+#Donne giovani… Se solo Hortense potesse trattarmi e Sarah in quel modo…
+
+“Potremmo farlo, ma nessuno di noi lo sopporterebbe… La ‘donna virtuosa’, ancora una volta…”
+
+Nella piena notte, andò nella sua casa; preparò la colazione.
+
+“Prima delle una di notte,” dice la signora Sykes; ma lei, aveva già fatto così.
+
+#Qualcosa di più da fare che semplicemente distribuire… Lei era una donna capace di molto di più.
+
+Produttrice… realizzava ottima seta e la vendeva; era una…
+
+L’agricoltura di quella donna: acquistò terreni e piantò vigneti. Quella donna…
+
+# Una donna intelligente
+
+“Donna… Nel complesso, mi piace molto di più di Lucrezia; ma…”
+
+# Non credere che né il signor Armitage né il signor Sykes potessero averlo ottenuto
+
+Il vantaggio che lei aveva negli affari. Eppure mi piace. “Forza e [[Honour|.onore]], ”
+
+“Il suo abbigliamento… Il cuore di suo marito le era completamente affidato. Lei aprì…”
+
+La sua bocca era piena di saggezza; sulla sua lingua risuonava la legge della gentilezza…
+
+I bambini si alzarono in piedi e la chiamarono benedetta; anche suo marito la lodò.
+
+[[King|Re]] d’Israele! Il tuo esempio di donna è davvero un esempio degno di essere seguito. Ma noi, forse, non siamo all’altezza.
+
+#Gli uomini dello Yorkshire… fatevi onore!
+
+#Raggiungeranno mai le figlie questo standard reale? Riusciranno a farlo? Puoi aiutarle?
+
+#Come possono raggiungerlo? Puoi offrire loro un ambito in cui le loro capacità possano essere messe alla prova?
+
+#Come possono esercitarsi e crescere? Uomini d’Inghilterra, guardate le vostre povere ragazze… molte di loro…
+
+#Quelli che svaniscono intorno a te, diminuendo nella loro frequenza o nel loro impatto… O forse qualcos’altro ancora.
+
+# Peggio ancora: si trasformano in vecchie zitelle acide e invidiose, pronte a pugnalare alle spalle…
+
+Misera gente, perché per loro la vita è un [[Desert|-deserto]]; o, peggio ancora.
+
+#Ridotto a lottare, attraverso una meschina vanità e artifici degradanti, per…
+
+Ottenere quella posizione e quell’approvazione attraverso il [[Marriage|matrimonio]], qualcosa che il celibato non può offrire.
+
+#Negato. Padri… Non potete cambiare queste cose? Forse non tutte insieme, ma…
+
+Ma considera la questione attentamente quando ti verrà presentata davanti, accettala allora.
+
+“Come tema degno di riflessione… non scartarlo con una battuta banale o un commento superficiale.”
+
+Offesa indegna di un uomo… Si dovrebbe essere orgogliosi delle proprie figlie, non il contrario.
+
+# Arrossisci per loro; poi cerca per loro un interesse e un’occupazione che…
+
+#Farli salire al di sopra dei giocatori d’azzardo, degli intriganti, dei chi complotta per il male
+
+Portatore di voci… Mantenete le menti delle vostre ragazze ristrette e vincolate; così faranno comunque.
+
+"#Una piaga e un problema, a volte anche una vergogna per te… Coltivalo."
+
+"Dai loro spazio e lavoro; saranno i tuoi compagni più felici."
+
+Titolo:  
+La salute: le tue più premurose “infermiere” nei momenti di malattia, il tuo sostegno più fedele…
+
+“Età.”
 
 
 
@@ -81585,6 +88561,251 @@ do?"
 "Much happier, even if you did nothing but wander. Remember, however,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Posso dire che molto… La signora Yorke indossava quel cappello… Le stava davvero bene.
+
+Lei; anche lei indossava quel vestito. Le stava altrettanto bene.
+
+
+
+Quella nobile signora era venuta in modo amichevole per prendere il tè con la signorina Moore.
+
+Era quasi un favore altrettanto grande e raro come se la [[Queen|regina]] stessa fosse venuta personalmente.
+
+“Uninvited to share pot-luck with one of her subjects… A higher mark of…”
+
+#Una distinzione che non riusciva a mostrare… lei, che di solito disdegnava le visite e…
+
+#Tea-drinking… e considerate volgari e stigmatizzate come “pettegole”.
+
+La padrona di casa del quartiere.
+
+
+
+Tuttavia, non c’era alcun errore: la signorina Moore era davvero una delle sue preferite.
+
+Aveva dimostrato questo più di una volta: lo aveva fatto fermandosi per parlare.
+
+Nel cimitero, la domenica; invitandola, quasi con ospitalità…
+
+#Arrivare a Briarmains; l’hanno dimostrato oggi con la grande magnanimità di…
+
+Visita personale. Le ragioni di questa preferenza, stabilite da lei stessa.
+
+# Se solo la signorina Moore fosse una donna dal comportamento dignitoso, senza il minimo…
+
+# Leggerezza nel modo di conversare o comportarsi; inoltre, essendo straniera…
+
+“Deve sicuramente sentire la mancanza di un amico che le stia accanto… Avrebbe potuto aggiungere anche questo.”
+
+“Quel suo aspetto semplice, abiti sobri e ordinati, e quel carattere tranquillo…”
+
+Un modo poco attraente da parte sua rappresentava per lei molte altre raccomandazioni negative.
+
+Almeno si può essere certi che ci siano signore note per qualità opposte…
+
+La [[Beauty|bellezza]], l'atteggiamento vivace e il gusto elegante nell’abbigliamento non erano spesso presenti.
+
+Approvata da lei… Qualunque cosa i gentiluomini siano disposti ad ammirare in…
+
+Donne: la condanna della signora Yorke… e ciò che loro trascurano o disprezzano.
+
+Soggiogato.
+
+
+
+Caroline si avvicinò alla potente matrona con un certo senso di timidezza.
+
+Conosceva poco della signora Yorke, e, essendo la nipote di un pastore, nutriva dei dubbi al riguardo.
+
+Che tipo di accoglienza avrebbe potuto ricevere… Invece, ne ha ricevuta una davvero fantastica.
+
+Felice di poter nascondere il proprio imbarazzo voltandosi per togliersi il cappello.
+
+Neppure quando si sedette, fu infastidita dal fatto che qualcuno le si avvicinasse immediatamente…
+
+# Una piccola figura in un abito blu e con una cintura, che si alzò come se…
+
+Titolo:  
+La fata dal lato della sedia della grande dama, dove lei era stata…
+
+# Seduto su un piedistallo, nascosto dalle pieghe del largo tessuto rosso…
+
+“Vestita con un abito elegante, corse verso la signorina Helstone e, senza alcuna cerimonia, le gettò le braccia attorno.”
+
+Lei gli prese il collo e chiese un bacio.
+
+
+
+“Mia madre non si comporta in modo cortese con voi,” disse la richiedente, mentre riceveva…
+
+E ricambiò con un sorriso: “E quella [[Rose]] lì non ti fa nemmeno caso, ”
+
+è il loro percorso. Se, al posto tuo, ci fosse un angelo bianco, con una [[Crown|corona]] di [[Stars|stelle]],
+
+Non appena qualcuno entrava nella stanza, la madre annuiva rigidamente, e [[Rose]] non alzava mai lo sguardo.
+
+Non mi interessa affatto la sua testa. Ma sarò tuo amico: ti ho sempre voluto bene.
+
+
+
+“Jessie, tieni a bada quella lingua e smetti di essere così sfacciata!” disse
+
+Signora Yorke.
+
+
+
+“Ma mamma, sei così congelata!”, esclamò Jessie. “Signorina Helstone…”
+
+“Non ti ha mai fatto del male… Perché non puoi essere gentile con lei? Sei sempre così…”
+
+“Rigido, e sembra così freddo, parla in modo così asciutto… Perché? È solo…”
+
+Il modo in cui trattate la signorina [[Shirley Keeldar]] e tutte le altre giovani.
+
+La signora che viene a casa nostra. E [[Rose]], lei è davvero così aut–aut–ho detto bene?
+
+Ho dimenticato la parola esatta, ma significa una [[Machine|macchina]] a forma umana.
+
+Essendo così. Tuttavia, tra di voi, riuscirete a scacciare ogni [[Soul|'anima]] via da qui.
+
+Briarmains, spesso Martin lo dice.
+
+
+
+“Sono un automato? Bene! Allora lasciami [[Alone|da solo]],” disse [[Rose]], parlando da.
+
+# In un angolo, seduta sul tappeto ai piedi di uno scaffale pieno di libri
+
+Con uno spread di volumi aperto sulle sue ginocchia, “Signorina Helstone, come sta?”
+
+“E aggiunse, lanciando un breve sguardo alla persona a cui si rivolgeva, e poi…”
+
+Di nuovo, posa i suoi occhi grigi e straordinari sul libro… e riprende la lettura.
+
+Lo studio delle sue pagine.
+
+
+
+#Un sguardo silenzioso di Caroline…
+
+Espressione del viso, e osservando un certo movimento inconscio delle labbra…
+
+Mentre leggeva… un gesto pieno di carattere. Caroline aveva tatto, e lei…
+
+Aveva un buon intuito. Sentiva che [[Rose]] Yorke fosse una bambina particolare, una di quelle.
+
+#L’unica… sapeva come trattarla. Avvicinandosi silenziosamente, si inginocchiò…
+
+Il tappeto accanto a lei; guardò il suo libro oltre la sua piccola spalla.
+
+Era un [[Romance|romanzo]] di Mrs. Radcliffe: “L’Italiano”.
+
+
+
+Caroline continuò a leggere senza fare alcun commento. Poco dopo, [[Rose]] le mostrò il contenuto.
+
+L’attenzione fu attirata da una domanda: prima ancora che girasse la pagina, le chiesero “Sei pronta?”.
+
+
+
+Caroline si limitò ad annuire.
+
+
+
+“Ti piace?” chiese presto [[Rose]].
+
+
+
+“Molto tempo fa, quando lo lessi da bambino, ne fui profondamente colpito.”
+
+it."
+
+
+
+“Perché?”
+
+
+
+“Sembrava iniziare con tante promesse… ma anche con un senso di premonizione riguardo a qualcosa di estremamente strano.”
+
+Da svelare in seguito.
+
+
+
+"E leggendolo, si ha la sensazione di essere lontani dall’Inghilterra… davvero."
+
+In [[Italy|Italia]]--sotto un altro tipo di cielo--quel cielo azzurro del sud che.
+
+Come descritto dai viaggiatori.
+
+
+
+“Lo capisci bene, [[Rose]]?”
+
+
+
+“Mi fa venire voglia di viaggiare, signorina Helstone.”
+
+
+
+“Quando sei una donna, forse puoi realizzare il tuo desiderio.”
+
+
+
+“Intendo trovare un modo per farlo, anche se nessuno lo ha preparato apposta per me… Non posso vivere altrimenti.”
+
+#Sempre a Briarfield… Il mondo intero, rispetto a questo luogo, non è poi così vasto.
+
+La creazione. Devo assolutamente vedere l’esterno del nostro pianeta rotondo, almeno.
+
+
+
+“Quanto ne fa parte l’esterno?”
+
+
+
+“Prima questo emisfero in cui viviamo; poi l’altro. Sono deciso a…”
+
+#La mia vita sarà una vera vita… Non un’oscurità senza senso, come quella della rana, sepolta nel nulla.
+
+Marmo, né una lunga, lenta [[Death|morte]] come la tua nella canonica di Briarfield.
+
+
+
+“Come il mio! Cosa vuoi dire, [[Child|bambino]]?”
+
+
+
+“Non potresti, per l’amor del cielo, smettere di parlare una volta per tutte e morire in modo noioso, ma almeno silenziosamente, in quella, ”
+
+Terreno agricolo e casa–un luogo che, ogni volta che lo attraverso, mi ricorda sempre qualcosa.
+
+[[Grave|Tomba]] con finestre? Non vedo mai alcun movimento intorno alla porta. Non sento mai nulla.
+
+Un suono proveniva dal muro. Credo che dalle ciminiere non esca mai fumo.
+
+“Cosa fai lì?”
+
+
+
+“Cucio, leggo, imparo le lezioni.”
+
+
+
+“Sei felice?”
+
+
+
+“Dovrei essere felice di vagare [[Alone|da solo]] in paesi stranieri, come desideri tu, ”
+
+do?"
+
+
+
+"Molto più felici, anche se non faceste altro che girovagare… Ricordate però…"
+
 
 
 <span class="atom-split" data-atom="chapter_23--part_03" data-title="Shirley — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/death,motif/dust,motif/hill,motif/home,motif/love,motif/prison,motif/rose,motif/well,concept/doubt,concept/fear,concept/vanity,form/novel"></span>
@@ -81860,6 +89081,284 @@ impulse."
 
 "Of course I should often be influenced by my feelings. They were given
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Che abbia un obiettivo preciso in mente… Ma se continuiate così all’infinito…”
+
+Come una principessa incantata in un racconto di fate, potresti essere più felice di ora.
+
+Nel corso di una giornata di vagabondaggio, incontreresti molte colline, foreste e corsi d’acqua.
+
+Titolo:  
+Ogni cosa cambia continuamente aspetto man mano che il sole splende o si oscura…
+
+Coperto; che il tempo fosse umido o sereno, scuro o chiaro… Niente.
+
+# Cambi nella canonica di Briarfield: Il intonaco dei soffitti del salotto…
+
+I fogli di carta appesi ai muri, le tende, i tappeti, le sedie, sono ancora tutti gli stessi.
+
+
+
+“È necessario il cambiamento per essere felici?”
+
+
+
+“Sì, davvero.”
+
+
+
+“È sinonimo di esso?”
+
+
+
+“Non lo so. Ma mi sembra che la monotonia e la [[Death|morte]] siano quasi la stessa cosa.”
+
+
+
+Fu Jessie a parlare in quel momento.
+
+
+
+“Non è arrabbiata?” chiese lei.
+
+
+
+“Ma, [[Rose]],” insistette Caroline, “ho paura di una vita da vagabonda. Per me, ”
+
+Almeno, finirebbe come quella storia che state leggendo… con delusione.
+
+[[Vanity|vanità]] e afflizione dello spirito.
+
+
+
+“‘The Italian’ finisce davvero in questo modo?”
+
+
+
+“Lo pensavo già quando l’ho letto.”
+
+
+
+"Meglio provare tutte le cose e scoprire che sono inutili, piuttosto che non provare affatto."
+
+#Lascia la tua vita vuota… Commettere questo significa peccare come colui che…
+
+Ha sepolto il proprio talento in un fazzoletto. Che pigro spregevole!
+
+
+
+“[[Rose|Rosella]],” osservò la signora Yorke, “la vera soddisfazione si può realizzare solo, ”
+
+“Adempiendo al proprio dovere.”
+
+
+
+“Esatto, madre! E se il mio Maestro mi ha dato dieci talenti, è mio dovere…”
+
+Fai affari con loro e guadagna altri dieci talenti. Non nella [[Dust|polvere]] di.
+
+“Never write a sentence about the subject. Never continue, explain or illustrate the text. No commentary.”  
+**Titolo:**  
+Nelle cassetti della cucina… quella moneta dovrà essere sepolta lì.
+
+# Una teiera con il beccuccio rotto… e chiusa in un armadio di porcellana, insieme ad altre cose
+
+“Tea-things… Non intendo assolutamente lasciarle sul tuo tavolo da lavoro, dove rischierebbero di essere dimenticate o ignorate.”
+
+Mucchi di calzamaglie di lana. Non intendo certo metterle nella pressa per la biancheria per poi cercarle.
+
+“Avvolta tra le lenzuola… E soprattutto, madre…” (Si alzò dal letto…)
+
+#"Nemmeno per sogno lo nasconderò in una ciotola di patate fredde..."
+
+“Disposti insieme al pane, al burro, alla pasticceria e alla carne di maiale sugli scaffali…”
+
+“La dispensa.”
+
+
+
+Si fermò, poi continuò: “Madre, il Signore che ci ha dato a ciascuno di noi…”
+
+I talenti un giorno torneranno “a casa” e chiederanno a tutti una spiegazione.
+
+# La teiera, il vecchio calzino di lana, il panno di lino, il disegno a salice
+
+I Tureeni lasceranno andare i loro depositi sterili in molte case. Sopporta pure.
+
+Almeno le figlie, affinché possano mettere i loro soldi presso gli scambiatori…
+
+Deve essere attivato al ritorno del Maestro, affinché Egli possa ricevere ciò che Gli spetta con gli interessi usurari.
+
+
+
+“[[Rose]], hai portato con te il campionatore, come ti avevo detto?”
+
+
+
+“Sì, mamma.”
+
+
+
+“Siediti e fai una riga di segni.”
+
+
+
+[[Rose]] si sedette immediatamente e iniziò a lavorare secondo gli ordini ricevuti. Dopo un po' di attività intensa.
+
+“Una pausa di dieci minuti…”, chiese sua madre. “Pensi di essere oppresso?”
+
+Ora, una vittima?
+
+
+
+“No, mamma.”
+
+
+
+#"Tuttavia, per quanto ho capito il tuo sfogo, sembrava essere una protesta contro tutto..."
+
+Lavori femminili e domestici.
+
+
+
+“Mamma, l’hai frainteso. Dovrei essere io ad scusarmi per non aver imparato a cucire.”
+
+Hai ragione a insegnarmi e a farmi lavorare.
+
+
+
+Anche nel [[mending|riparare]] le calze dei tuoi fratelli e nella realizzazione di.
+
+“Fogli?”
+
+
+
+“Sì, davvero.”
+
+
+
+“Allora, a che serve lamentarsi e parlare continuamente di questo?”
+
+
+
+“Devo fare solo quello? Lo farò, e poi ne farò di più.”
+
+Ora, madre, ho detto ciò che volevo dire. Ho dodici anni in questo momento…
+
+“Non parlerò di talenti fino a quando non avrò sedici anni… Per quattro anni…”
+
+“Prometto di impegnarmi seriamente nell’apprendistato, per imparare tutto ciò che siete in grado di insegnarmi.”
+
+
+
+“Vede com’sono le mie figlie, signorina Helstone,” osservò la signora Yorke.
+
+“Quanto presuntuosamente saggi nella loro stessa opinione… ‘Preferirei questo, piuttosto’.”
+
+Preferisco quella, è così il canto strano di Jessie; mentre [[Rose]] pronuncia frasi più audaci.
+
+Gridava: “Lo farò, e allo stesso tempo non lo farò!”
+
+
+
+#"Esigo una spiegazione, madre… Inoltre, anche se il mio grido è forte, viene sentito soltanto da pochi."
+
+“Una volta ogni dodici mesi… Ogni volta che arriva il mio compleanno, quel spirito mi spinge a…”
+
+# Un oracolo che segua le mie istruzioni e il mio controllo… Lo esigo.
+
+Prendilo e lascialo stare; spetta a te, madre, decidere se ascoltarlo o no.
+
+
+
+“Consiglierei a tutte le giovani signore,” proseguì la signora Yorke, “di studiare…”
+
+Titolo:  
+Personaggi di quei bambini che si incontrano per caso, prima che…
+
+Sposarsi e avere dei propri figli, per poi pensare seriamente a come vorrebbero che crescessero.
+
+# La responsabilità di guidare coloro che sono negligenti, il compito di convincere gli indecisi
+
+Testardo, con quel peso costante e quella responsabilità di addestrare i migliori.
+
+
+
+“Ma con l’[[Love|amore]], non deve necessariamente essere così difficile,” intervenne Caroline.
+
+Le madri [[Love|amano]] i loro figli più di ogni altra cosa, quasi più di quanto amino se stesse.
+
+“Se stessi.”
+
+
+
+“Parole belle, molto sentimentali… Ma c’è anche la parte dura, pratica della vita.”
+
+“Ma non è ancora arrivato per te, giovane signorina.”
+
+
+
+“Ma, signora Yorke, se prendo in braccio un bambino piccolo… qualsiasi bambino di una donna povera…”
+
+Ad esempio, un bambino. Credo di [[Love|amare]] davvero quella creatura indifesa.
+
+Stranamente… anche se non ne sono la madre, potrei fare quasi qualsiasi cosa per…
+
+Con piacere, se fosse completamente affidato alle mie cure… se così fosse.
+
+Dipendeva completamente da me.
+
+
+
+Titolo:  
+“Tu _sentisci_! Sì, sì… Ora posso dirlo con certezza: sei guidato in gran parte dai tuoi sentimenti.”
+
+_Sentimenti,, e tu ti consideri una persona molto sensibile, senza alcun [[Doubt|>dubbio]]._
+
+#"Ti rendi conto che, con tutte queste idee romantiche, sei riuscito a..."
+
+Formare i propri tratti facciali in un’espressione abitualmente pigra… meglio ancora.
+
+Più adatta a un'eroina di romanzo che a una donna che deve farsi strada nella realtà.
+
+Il mondo reale, attraverso il buon senso comune?
+
+
+
+“No; non ne ho la minima idea, signora Yorke.”
+
+
+
+#"Guarda nello specchio dietro di te. Confronta il tuo viso che vedi lì con..."
+
+Paragonabile a quella di qualsiasi ragazza che si alzi presto al mattino e lavori sodo come mungitrice.
+
+
+
+Titolo:  
+“Il mio viso è pallido, ma non è affatto sentimentale… E la maggior parte delle mucche da latte…”
+
+Qualunque sia il loro colore rosso e la loro robustezza, sono più stupidi e meno pratici…
+
+Più adatti di me a farsi strada nel mondo… Penso sempre di più che sia così.
+
+#Più correttamente di quanto facciano le mucche da latte in generale; pertanto, lì dove loro…
+
+Spesso, per mancanza di riflessione, si agisce in modo debole; io, invece, grazie alla riflessione…
+
+Dovrebbe agire con saggezza.
+
+
+
+“Oh no! Saresti influenzato dai tuoi sentimenti; saresti guidato da loro…”
+
+“Impulso.”
+
+
+
+"Certo che i miei sentimenti dovrebbero spesso influenzarmi… Sono stati infatti dati a me."
 
 
 
@@ -82506,6 +90005,226 @@ his rebukes.
 
 not light a candle? It war sundown an hour syne. He'll brak his shins
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Diventa completamente umido a causa della rugiada serale.
+
+
+
+La signora e le sue figlie essendo partite, Caroline sentì che anche lei dovrebbe…
+
+Per riprendere il suo scialle, baciare la guancia della sua cugina e poi allontanarsi verso casa…
+
+#Si soffermò molto a lungo, fino a quando non calò il crepuscolo e Fanny fu messa a letto…
+
+Il problema di dover andare a prenderla… Era giorno di cottura e stiratura.
+
+#In canonica, si ricordò… Fanny sarebbe stata impegnata. Comunque, avrebbe potuto…
+
+Non lasciò mai il suo posto vicino alla finestra del piccolo salotto. Da nessun punto di vista.
+
+#Potrebbe l’Occidente apparire così incantevole come visto attraverso quella grata adornata di ghirlande?
+
+Il gelsomino lo circondava; i suoi bianchi [[Stars|stelle]] e le sue verdi [[Leaves|foglie]] sembravano ora.
+
+# Contorni di matita grigia: aggraziati nella forma, ma privi di colore
+
+Il colore dorato di una serata estiva, contro il blu sfumato di rosso del fuoco.
+
+di un cielo d’agosto alle otto di [[Clock|ore]] di sera.
+
+
+
+# Caroline fissava la porta del cancello, accanto alla quale gli olmi si ergevano maestosi
+
+“Alta… Guardò la fitta siepe di ligustro e alloro che circondava il giardino…”
+
+[[Garden|giardino]]; i suoi occhi desideravano vedere qualcosa di più delle piante lì presenti.
+
+# Abbandonarono quella prospettiva ristretta… Desideravano ardentemente vedere un essere umano.
+
+# Figure di una certa forma e altezza… attraversa la siepe ed entra…
+
+# Porta… Finalmente vide una figura umana… anzi, due. Frederick Murgatroyd
+
+Passò di lì, portando un secchio pieno d’[[Water|acqua]]; Joe Scott lo seguì, dondolando appeso al suo.
+
+#Il dito indice sulle leve del mulino… Avrebbero chiuso il mulino e…
+
+Rimangono nelle stalle per la [[Night|notte]], e poi si recano a  casa.
+
+
+
+“Devo farlo anch’io,” pensò Caroline, alzandosi a metà e sospirando.
+
+
+
+“Tutto questo è follia… una follia straziante,” aggiunse. “Per prima cosa…”
+
+Luogo… Anche se restassi fino al buio, non ci sarebbe alcun arrivo… Perché…
+
+# Il destino l’ha scritto sulla pagina di oggi…
+
+Libro eterno… ma io non avrò il piacere che desidero ardentemente. Nel…
+
+“Secondo posto… se intervenisse in questo momento, la mia presenza qui avrebbe un significato diverso.”
+
+Per lui una fonte di dolore… e la consapevolezza che fosse inevitabile lo rendeva ancora più angosciato.
+
+Il mio [[Blood|sangue]] si gela. Forse la sua mano diventerebbe più rilassata e fredda se io.
+
+“Immergiti in esso; i tuoi occhi si offuscherebbero se cercassi il suo raggio… Dovrei…”
+
+#Cerca quella scintilla… Qualcosa che ho visto negli ultimi giorni…
+
+# Il mio aspetto, il mio modo di parlare o il mio carattere, in qualche momento fortunato, devono aver soddisfatto…
+
+Lui. Scoprirei soltanto oscurità. È meglio che torni a [[Home|>casa]].
+
+
+
+# Prese il suo cappello dal tavolo dove era posato e stava appena per fissarlo…
+
+La fascia… quando Hortense attira la sua attenzione su un magnifico mazzo di fiori
+
+Di [[Flowers|>fiori]] in un vaso sullo stesso tavolo, si menzionò che la signorina Keeldar aveva.
+
+Li inviò quella mattina da Fieldhead; e proseguì poi con i suoi commenti…
+
+Gli ospiti che quella signora stava intrattenendo in quel momento, nella frenetica vita che conduceva…
+
+Recentemente aveva iniziato a guidare; avanzava anche diverse congetture sul suo conto, ma non sembravano del tutto fondate…
+
+Le piaceva davvero molto, e fu davvero sorprendente che una persona che la amava così tanto.
+
+Il suo percorso personale… poiché l’ereditiera non riuscì a trovare alcun modo per sbarazzarsene al più presto
+
+Questo _corteo_ di parenti.
+
+
+
+“Ma dicono che in realtà non permetterà al signor Sympson e alla sua famiglia di andarsene.”
+
+Lei aggiunse: “Volevano molto tornare nel sud la scorsa settimana…”
+
+Pronto ad accogliere l’unico figlio, che si aspetta di tornare a [[Home|>casa]] da un.
+
+Tour: Insiste affinché suo cugino Henry venga a unirsi ai suoi amici.
+
+Qui, nel Yorkshire… Oserei dire che lo faccia anche per compiacere Robert.
+
+“Me stesso.”
+
+
+
+“Come possiamo convincere Robert e te?” chiese Caroline.
+
+
+
+“Mio caro [[Child|>bambino]], sei davvero noioso. Non lo sai forse? Dovresti saperlo, ”
+
+# Sentito...
+
+
+
+“Per favore, signora,” disse Sarah aprendo la porta, “le conserve che lei…”
+
+Mi dissero di bollire nel miele… quei pasticcieri, come li chiamate voi… è tutto qui.
+
+“Bruciato fino alle ceneri.”
+
+
+
+“Le creme dolci! Sono bruciate? Ah, che colpevole negligenza!”
+
+“Coquetta cuoca, figlia insopportabile!”
+
+
+
+E la signorina, affrettandosi a prendere da un cassetto un grande grembiule di lino, e…
+
+Con il grembiule nero legato in vita, corse disperatamente in cucina.
+
+In altre parole, per essere onesti, emanava un odore simile a quello di dolci cotti al forno.
+
+Più forte del sapore agro.
+
+
+
+La padrona e la serva erano in totale conflitto per tutta la giornata…
+
+# La conservazione di certe ciliegie nere: dure come biglie, acide come…
+
+Titolo:  
+Zucchero… Sarah riteneva che fosse l’unico condimento “ortodosso” da utilizzare.
+
+Nel corso di quel processo, la signorina mantenne fermamente la sua posizione… e lo dimostrò con le sue azioni.
+
+E le esperienze di sua madre, sua nonna e sua bisnonna… che
+
+“Zucchero di canna… la ‘melassa’ era decisamente preferibile. Aveva commesso un errore…”
+
+# Imprudenza nel lasciare Sarah a capo del contenitore per la conservazione…
+
+La mancanza di simpatia nella natura dei suoi contenuti aveva provocato un certo grado di.
+
+Curia nella sorveglianza della loro preparazione… il risultato? Oscurità.
+
+# Macerie fumanti e lacrime amare
+
+Né profondo né reale.
+
+
+
+Caroline, ancora una volta davanti al piccolo [[Mirror|specchio]], si stava ombreggiando gli occhi.
+
+“Le ciocche che partivano dalla sua guancia… lei le sistemava sotto il cappello di paglia, con cura.”
+
+Titolo:  
+Sarebbe non solo inutile ma anche sgradevole trattenersi oltre, quando…
+
+# Con l’improvvisa apertura della porta sul retro, calò un improvviso silenzio nella stanza…
+
+Cucina. Le lingue venivano controllate, tirate su come con morso e briglia.
+
+“Era… era Robert? Spesso… quasi sempre, entrava da quella porta…”
+
+#Il ritorno di Joe Scott dal mercato
+
+#Essendo stato notevolmente accorciato tre volte… ogni volta che veniva accorciato, lo si faceva con l’intento di renderlo più “elevato”.
+
+“Rimprovero alle donne che litigano… Disse: ‘Ora, credo di aver sentito…’”
+
+“Crack?”
+
+
+
+Nessuno rispose.
+
+
+
+“E,” proseguì in modo pragmatico, “poiché è la volontà del vostro padrone… e poiché lui lo desidera.”
+
+#Attraverso questa porta… Ho ritenuto fosse opportuno entrare.
+
+# Mai scherzare su una famiglia di donne…
+
+Avvertenza: Ecco che arriva… Andate avanti, signore; stanno comportandosi in modo strano.
+
+Ma penso di averli calmati.
+
+
+
+Un’altra persona entrò; ora si poteva sentire il suo rumore. Joe Scott proseguì…
+
+Le sue rimproveri.
+
+
+
+“Cosa intendi con ‘essere tutta oscurità’? Sarah, tu strega, non puoi…”
+
+“Non accendere nemmeno una candela? È già passata un’ora da quando è tramontato il sole… Si romperà le gambe.”
 
 
 
@@ -83272,6 +90991,201 @@ in terror, she exclaimed, "Don't take it from me, Robert! Don't! It is
 
 my last comfort; let me keep it. I never tell any one whose hair it is;
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Nurse|infermiera]] si dedicava con cura alle sue mansioni; non c'era traccia di stanchezza in lei.
+
+#Non gli aveva mai ricordato che avrebbe dovuto essere ansiosa… C’era, in quel momento, qualcosa…
+
+# Una mansione non troppo difficile da svolgere… ma anche un lavoratore assunto avrebbe potuto farlo.
+
+Duro.
+
+
+
+Con tutta questa cura, sembrava strano che la ragazza malata non migliorasse. Eppure.
+
+Era proprio così. Si dissolse come qualsiasi ghirlanda di neve al disgelo, svanì.
+
+Come qualsiasi fiore nella siccità… La signorina Keeldar, la cui mente è assillata dal pericolo…
+
+La [[Death|morte]] raramente si presentava; all’inizio, lei non provava affatto paura al suo riguardo.
+
+Amica, ma vedendola cambiare e peggiorare di giorno in giorno, quando pagava.
+
+Le sue visite la lasciavano sempre in preda all’angoscia; andava da Mr. Helstone…
+
+Si esprimeva con tale energia che, alla fine, quel gentiluomo…
+
+Costretto, sebbene a malincuore, ad ammettere che sua nipote era malata
+
+# Qualcosa di più di un semplice mal di testa… E quando la signora Pryor arrivò, in silenzio…
+
+Chiese un medico; disse che, se voleva, poteva chiamarne anche due. Uno…
+
+Arrivò… ma quell’uomo era un oracolo. Pronunciò una profezia cupa, la cui portata…
+
+Il futuro consisteva nel risolvere quel mistero: scrivere alcune prescrizioni, fornire alcune soluzioni…
+
+# Istruzioni… impartite con un tono autoritario e deciso… le mise in tasca.
+
+Lei pagò e se ne andò. Probabilmente sapeva abbastanza bene che non avrebbe potuto fare nulla di utile.
+
+Non mi piaceva dirlo.
+
+
+
+Tuttavia, nessuna voce riguardante una malattia grave aveva iniziato a circolare nel quartiere. A.
+
+“La capanna di Hollow: si pensava che Caroline avesse soltanto un brutto raffreddore”.
+
+# Ha scritto una nota a Hortense in tal senso; e mademoiselle…
+
+Si accontentò di inviare due vasi di marmellata di uvetta, insieme a una ricetta…
+
+Tisane, e un consiglio.
+
+
+
+# Mrs. Yorke, venuta a sapere che era stato chiamato un medico, si mise a ridere derisivamente
+
+Titolo:  
+Le fantasie ipocondriche dei ricchi e degli oziosi, che, secondo lei, hanno…
+
+# Solo loro stessi su cui pensare… devono assolutamente chiamare un dottore se…
+
+Solo fino al punto in cui il loro mignolo iniziava a dolere.
+
+
+
+“I ricchi e oziosi”, rappresentati nella figura di Caroline, erano…
+
+Nel frattempo, cadeva rapidamente in uno stato di prostrazione…
+
+La debolezza ormai estrema lasciò perplessi tutti coloro che la osservarono, tranne uno…
+
+Un [[Alone|singolo]] esempio dimostrava quanto fosse vulnerabile quella struttura, a rischio di crollare da un momento all'altro.
+
+Distruzione improvvisa.
+
+
+
+Le persone malate spesso hanno idee incomprensibili per chi le assiste abitualmente…
+
+Caroline aveva un problema che nemmeno la sua premurosa [[Nurse|infermiera]] riusciva a spiegare all’inizio.
+
+Un certo giorno della settimana, alle ore precise, lei faceva… che sia stato ciò che fosse.
+
+Meglio o peggio… imploro che mi si prenda in cura, mi si vesta e mi si permetta di sedermi.
+
+Sulla sua sedia, vicino alla [[Window|finestra]]. Avrebbe mantenuto quella posizione fino a [[Noon|mattina]].
+
+Era passato… Qualunque grado di sfinimento o debolezza si leggesse nel suo aspetto pallido…
+
+Tradita com'era, continuò comunque a rifiutare con dolcezza ogni [[Persuasion|ragionamento]] che le suggeriva di riposarsi, fino a quando.
+
+L’orologio della chiesa aveva appena suonato mezzogiorno. I dodici rintocchi risuonarono, e lei.
+
+Divenne docile e si sdraiava tranquillamente. Tornata sul divano, lei…
+
+Di solito seppelliva il viso nella coperta e tirava su le lenzuola fino al mento.
+
+Intorno a lei, come se volessero escludere il mondo e il sole di cui era stancata.
+
+Più di una volta, mentre giaceva in quel modo, un leggero tremito scuoteva il letto del malato.
+
+E un debole singhiozzo ruppe il [[Silence|silenzio]] che regnava intorno. Queste cose non erano.
+
+Non notato dalla signora Pryor.
+
+
+
+“Un martedì mattina, come al solito, chiese il permesso di alzarsi… e ora…”
+
+#Avvolta nella sua vestaglia bianca, si chinava in avanti…
+
+"#La signora Pryor, seduta nella poltrona, osserva con attenzione e pazienza attraverso la griglia."
+
+Era seduta un po' più indietro, apparentemente intenta a fare il punto, ma, in [[Truth|verità]].
+
+# Guardandola… Un cambiamento apparve sulla sua fronte pallida e triste, dando vita al suo volto.
+
+#Languore: un lieve bagliore nelle sue occhi spenti, che rinfresca il loro splendore… lei
+
+Mezza [[Rose|rosa]] in mano, guardò fuori con aria seria. La signora Pryor si avvicinò lentamente.
+
+Lei gettò un’occhiata alle sue spalle. Da questa [[Window|finestra]] si poteva vedere il cimitero della chiesa.
+
+Oltre di esso c'era la [[Road|strada]]; e lì, passando velocemente, apparve un cavaliere.
+
+La figura non era ancora troppo lontana da essere riconosciuta. Da tempo, la signora Pryor…
+
+“Visione… Conosceva il signor Moore. Proprio come un terreno elevato che intercetta i movimenti avversari…”
+
+Nascostolo alla vista, l’[[Clock|orologio]] suonò le dodici.
+
+
+
+“Posso sdraiarmi di nuovo?” chiese Caroline.
+
+
+
+La sua [[Nurse|infermiera]] l'aiutò a mettersi a letto. Dopo averla adagiata e tirato le.
+
+“Dietro la tenda, lei stava in ascolto… Il piccolo divano tremolava…”
+
+Un singhiozzo soffocato riempì l’aria; un’espressione di angoscia alterò il volto della signora.
+
+I tratti del viso di Pryor; lei si strinse le mani; un mezzo gemito le sfuggì dalle labbra.
+
+Ora si ricordava che martedì era il giorno del mercato di Whinbury… Il signor Moore doveva esserci.
+
+Ogni volta, lungo il suo cammino verso lì, passava davanti alla canonica, proprio prima di [[Noon|mattina]] di quel giorno.
+
+
+
+# Caroline portava sempre al collo una sottile treccia di seta.
+
+Aggiunto c’era qualche piccolo oggetto. La signora Pryor aveva visto quel pezzo d’oro.
+
+“Luccica… ma non aveva ancora potuto vederla chiaramente. Il suo paziente mai…”
+
+Separatasi da esso… Quando si vestiva, lo nascondeva nel seno; mentre giaceva…
+
+#Quel martedì pomeriggio…
+
+Dormire, più che altro un senso di letargo piuttosto che vero [[Sleep|sonno]], a volte interrompeva quella lunga.
+
+# Giorni… che sembravano averla rubata tutto. Il tempo era caldo; mentre si girava, con la febbre alta…
+
+# Inquietudine… Aveva spostato leggermente le coperte. La signora Pryor
+
+#Disposta a sostituirli… Quella piccola mano, inutile e senza vita, giace immobile lì…
+
+Il seno della ragazza malata, stretto come al solito attorno al suo tesoro gelosamente custodito.
+
+Quei dita la cui atrofia provocava dolore solo a guardarli erano ora rilassati.
+
+Il sonno. La signora Pryor sciolse delicatamente la treccia, estraendo una piccolissima.
+
+#Lettore di cuori – Un oggetto così piccolo, proprio adatto alla sua borsetta minuscola…
+
+Acquisto… Sotto il suo viso cristallino spuntava una ciocca di capelli neri.
+
+Corto e secco, come se fosse stato staccato da una testa femminile.
+
+
+
+#Un movimento agitato fece scattare la catena di seta.
+
+“Il dormiente si è svegliato… I suoi pensieri, ormai, erano spesso piuttosto…”
+
+“Dispersa al risveglio, il suo sguardo sembra vagare senza meta… Mezza seduta, come se…”
+
+“In terrore, esclamò: ‘Non te lo prendere da me, Robert… Non farlo! È…”
+
+“La mia ultima consolazione… Lasciatemela tenere. Non dico mai a nessuno di chi sia quel capello.”
 
 
 
@@ -84584,6 +92498,259 @@ As to the mother, she spent the [[Night|night]] like Jacob at Peniel. Till break
 
 of day she wrestled with God in earnest [[prayer]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Figlia mia… Oggi sono diversa: il mio aspetto, i miei tratti stessi sono cambiati…”
+
+# Capelli, il mio stile di abbigliamento… tutto è cambiato. Non potete immaginarmi più come prima.
+
+# Giovane snello, vestito con pochi strati di mussola bianca, a torso nudo…
+
+Braccialetti, collane di perle e capelli acconciati a forma circolare
+
+“Cicatrici a forma di riccioli greci sopra la mia fronte?”
+
+
+
+“Devi esser stata davvero diversa… Mamma, ho sentito la porta d’ingresso…”
+
+“Apri. Se è mio zio che viene, basta chiedergli di salire al piano di sopra.”
+
+# Ascoltami garantire che sono davvero sveglio e calmo… e non…
+
+Sognando, o delirando.
+
+
+
+Il rettore, di sua iniziativa, stava salendo le scale, mentre la signora Pryor…
+
+Lo chiamò nell'appartamento di sua nipote.
+
+
+
+“Non è peggio, spero, ”, chiese lui in fretta.
+
+
+
+“Penso che stia meglio. È disposta a conversare; sembra più in forza.”
+
+
+
+“Bene!” disse entrando rapidamente nella stanza. “Ehi, Cary! Come va?”
+
+Vuoi bere la mia tazza di tè? L’ho preparata proprio come mi piace.
+
+
+
+“L’ho bevuto tutta quanta, zio… Mi ha fatto bene: mi ha reso davvero migliore.”
+
+Vivo… Desidero la compagnia di qualcuno, quindi ho pregato la signora Pryor di chiamarti.
+
+in."
+
+
+
+Il rispettato ecclesiastico sembrava soddisfatto, ma al contempo imbarazzato. Era…
+
+“Disposto a trascorrere dieci minuti in compagnia della sua nipote malata…”
+
+“Poiché era stato un suo capriccio desiderarlo… ma quali mezzi utilizzare per realizzarlo?”
+
+Non conosceva alcun tipo di intrattenimento; si agitava, si muoveva in modo nervoso.
+
+
+
+“Ti riprenderai in un attimo,” osservò, per dire qualcosa. “Il…”
+
+“Una piccola debolezza passerà presto… e allora dovrai bere vino di Porto.”
+
+“Se puoi, fuma la pipa… e mangia carne di selvaggina e ostriche. Te le procurerò io.”
+
+“Si possono trovare ovunque… Beneditemi! Vi renderemo forti quanto…”
+
+“Sansone, prima che finiamo con te.”
+
+
+
+“Chi è quella signora, zio, che sta in piedi accanto a te vicino al letto?”
+
+
+
+“Mio Dio!”, esclamò. “Non sta vagando, vero, signora?”
+
+
+
+La signora Pryor sorrise.
+
+
+
+“Vago in un mondo incantevole,” disse Caroline con voce dolce e felice.
+
+Voce: “E voglio che tu mi dica se è reale o solo un’illusione… Cosa…”
+
+“Lady, è così che si chiama? Dalle un nome, zio.”
+
+
+
+“Dobbiamo richiamare il dottor Rile, signora… O ancora meglio, MacTurk. Lui è meno…”
+
+Di un truffatore. Thomas deve montare il pony e andarlo a prendere.
+
+
+
+“No; non voglio un dottore. Mamma sarà il mio unico medico. Ora, vai…”
+
+“Capisci, zio?”
+
+
+
+# Mr. Helstone spostò gli occhiali dal naso sulla fronte
+
+“Si sistemò il naso con il suo portasnuff e si somministrò una dose…”
+
+“Così rafforzato, rispose brevemente: ‘Vedo la luce del giorno…’”
+
+“Gliel’ho detto allora, signora?”
+
+
+
+“E dunque è davvero vero?”, chiese Caroline alzandosi sul cuscino. “È davvero così?”
+
+_Davvero_ mia madre?
+
+
+
+“Non piangerai, non farai scenate e non diventerai isterica se rispondo ‘Sì’, vero?”
+
+
+
+#"Grido! Piangerei se dicessi _No_... Sarebbe terribile essere delusi."
+
+Ora. Ma damole un nome. Come la chiami?
+
+
+
+“Chiamo questa donna robusta, vestita con un grazioso abito nero, che sembra abbastanza giovane…”
+
+Per indossare abiti molto più eleganti, se solo lo volesse. La chiamo Agnes Helstone.
+
+Sposò mio fratello James ed è ora sua vedova.
+
+
+
+“E mia madre?”
+
+
+
+“Che piccola scettica… Guardate quel suo visino, signora Pryor!”
+
+A malapena più grande del palmo della mia mano, piena di vivacità e acutezza…
+
+“Con impazienza… A Caroline: le è toccato il compito di farti entrare…”
+
+#Un mondo, comunque… Ricorda di dimostrare il tuo dovere verso di lei comportandoti rapidamente.
+
+Beh, e poi riparare quel danno causato a queste guance. Ehi-ehi! Un tempo era così.
+
+“Plump… Cosa ne abbia fatto, non riesco proprio a immaginarlo.”
+
+“Divine.”
+
+
+
+“Se desiderare davvero di stare bene mi aiuterà, non starò malato a lungo.”
+
+La mattina non avevo alcun motivo, né la forza, per desiderarlo.
+
+
+
+Fanny bussò alla porta e disse che la cena era pronta.
+
+
+
+#"Zio, per favore, potresti mandarmi un po’ di cena… qualsiasi cosa."
+
+Preferisci prendere ciò che ti piace dal tuo stesso “piatto”: è molto più saggio che scatenare un’isteria.
+
+“Non è forse così?”
+
+
+
+“Si parla come un saggio, Cary… Vedi se non riesco a soddisfare le tue esigenze.”
+
+Con saggezza. Quando le donne sono sensate… e, soprattutto, comprensibili…
+
+“Posso continuare con loro… Sono solo quelle sensazioni vaghe, sottili…”
+
+# Concetti estremamente elaborati e complicati… che mi lasciano perplesso. Lasciate che una donna mi chieda di…
+
+#Dalle qualcosa da mangiare o da indossare… che sia un uovo di roccia o qualsiasi altra cosa.
+
+La corazza di [[Aaron|Arono]], una porzione di cavallette e miele di San Giovanni, o.
+
+La cintura di cuoio intorno ai suoi fianchi… Almeno questo posso capirlo.
+
+Ma quando anelano, non sanno nemmeno cosa: compassione, sentimento… qualcosa del genere.
+
+# Queste astrazioni indefinite… Non ce la faccio; non lo so; non l’ho ancora fatto.
+
+Capito. – Signora, accetti il mio braccio.
+
+
+
+# Mrs. Pryor indicò che doveva rimanere con sua figlia
+
+“Serata… Pertanto, Helstone li lasciò da soli. Tornò presto.”
+
+Portando un piatto con le sue stesse mani consacrate.
+
+
+
+“Questo è pollo,” disse, “ma domani mangeremo fagiano… Alzati.”
+
+“Alzatala in piedi e le mise un scialle addosso. Vi giuro, capisco perfettamente.”
+
+Titolo:  
+Ospitalità… Ecco proprio quella stessa forchettina d’argento che hai usato prima.
+
+#La prima volta che sei arrivato alla canonica… Mi sembra proprio ciò che potresti voler dire.
+
+#"Un pensiero felice… un’attenzione delicata. Prendilo, Cary, e goditelo."
+
+“Via, in modo astuto.”
+
+
+
+#Caroline ci ha provato con tutte le sue forze… Ma suo zio si è accigliato, vedendo quanto fossero deboli i suoi poteri.
+
+# Limitato… Tuttavia, profetizzò grandi cose per il futuro; e mentre lei…
+
+Lo lodò per il boccone che aveva portato e gli sorrise con gratitudine in faccia.
+
+# Si chinò sul suo cuscino, la baciò e disse, con voce rotta e tremante…
+
+“Buona [[Night|notte]], piccolo! Che Dio ti benedica!” disse con accento marcato.
+
+
+
+Caroline godette di un riposo così tranquillo che, di [[Night|notte]], era circondata dalla presenza della sua madre.
+
+# Appoggiato alle sue braccia, dimenticò di desiderare qualsiasi altra cosa
+
+Resta… E sebbene nel sonno le apparissero più di un sogno febbrile,
+
+Ma quando si svegliò, ansimante, provava ancora una sensazione di grande felicità e soddisfazione.
+
+Con il ritorno della coscienza, si rese conto che la sua agitazione stava quasi calmandosi…
+
+Non appena lo sentì.
+
+
+
+Per quanto riguarda la madre, trascorse quella [[Night|notte]] proprio come Giacobbe a Peniel. Fino all’alba.
+
+Durante la giornata, lei pregava con grande fervore davanti a Dio.
 
 
 
@@ -86881,6 +95048,135 @@ a rare one with his tutor; but when it came he had an awe of it. He
 obeyed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Evidentemente, dal suo sguardo scioccato e scandalizzato, si capiva che non lo aveva riconosciuto.
+
+In una di quelle feste, un prete avrebbe probabilmente tenuto un discorso improvvisato…
+
+#Un rimprovero alle strane abitudini di sua nipote: il rispetto…
+
+Il tessuto lo fermò.
+
+
+
+“Volevo semplicemente annunciare,” proseguì freddamente, “che la famiglia…”
+
+Titolo:  
+Da De Walden Hall, il signore, la signora, le signorine e il signor Sam Wynne…
+
+“Nel salotto.” E dopo aver fatto un inchino, se ne andò.
+
+
+
+“La famiglia di De Walden Hall… Non potrebbe esserci una compagnia peggiore,” mormorò.
+
+[[Shirley]].
+
+
+
+# Rimase seduta immobile, con un’aria di ribellione e chiaramente a disagio
+
+Per muoversi. Era arrossita per il calore del [[Fire|fuoco]]. I suoi capelli scuri erano stati più.
+
+Una volta scompigliata dal vento mattutino di quel giorno, il suo abbigliamento era leggero.
+
+Vestito di mussola che le si adattava perfettamente, ma con linee fluide e ampie; anche lo scialle che indossava…
+
+Indossata nel [[Garden|giardino]], era ancora avvolta in un piegamento casuale intorno a lei.
+
+Indolente, capricciosa, pittoresca e straordinariamente bella… era lei.
+
+Aspetto più bello del solito, come se qualche tenera emozione interiore fosse stata risvegliata…
+
+Sapeva come fare; aveva dato nuovo splendore ed espressione ai suoi tratti.
+
+
+
+“[[Shirley]], [[Shirley]], dovresti andare,” sussurrò Caroline.
+
+
+
+“Mi chiedo perché, ”
+
+
+
+Alzò lo sguardo e vide, nello specchio sopra il caminetto, sia il signor, che l’altra persona.
+
+Hall e [[Louis Moore]] la guardavano con grande serietà.
+
+
+
+“Se,” disse lei, con un sorriso dolce e arrendevole, “se la maggioranza di coloro che sono qui oggi…”
+
+La società sostiene che le persone di De Walden Hall abbiano diritti su di me.
+
+#Civiltà: sottometterò le mie inclinazioni al dovere. Che coloro che pensano…
+
+Dovrei andare ad aiutarli.
+
+
+
+Consultando nuovamente lo [[Mirror|specchio]], vi si rifletteva un voto unanime contro di lei.
+
+
+
+“Devi andare,” disse il signor Hall, “e comportarti in modo cortese. Dovi molto…”
+
+Obblighi verso la società. Non ti è permesso piacere soltanto a te stesso.
+
+
+
+[[Louis Moore]] annuì con un sommesso “Capisco, capisco!”.
+
+
+
+# Caroline, avvicinandosi a lei, le sistemò le onde dei capelli e si assicurò che il suo abbigliamento fosse in ordine.
+
+Meno artistico e più grazia domestica. E così [[Shirley]] fu esclusa dalla competizione.
+
+La stanza, ancora protestando con un labbro imbronciato, si opponeva alla sua rimozione.
+
+
+
+“C’è un fascino curioso in lei,” osservò il signor Hall, quando lei era…
+
+“Se n’è andato… E ora,” aggiunse, “devo andarmene anch’io; perché Sweeting è partito per vedere…”
+
+“Mamma, ci sono due funerali.”
+
+
+
+“Henry, prendi i tuoi libri; è ora della lezione,” disse Moore, sedendosi.
+
+Il suo tavolo.
+
+
+
+“Un incantesimo curioso!”, ripeté lo studente quando lui e il suo maestro rimasero soli.
+
+[[Alone|da solo]]. “Vero. Non è forse una sorta di ‘strega bianca’?” chiese.
+
+
+
+“Di chi state parlando, signore?”
+
+
+
+“Di mia cugina [[Shirley]].”
+
+
+
+“Nessuna domanda irrilevante; studiate nel [[Silence|silenzio]].”
+
+
+
+# Mr. Moore guardò e parlò con severità… in tono acido. Henry conosceva bene quel suo umore.
+
+Un rapporto raro con il proprio tutore… ma quando arrivava il momento, provava un vero timore reverenziale per esso. Lui.
+
+Obbedì.
+
 
 
 <span class="atom-split" data-atom="chapter_27--part_01" data-title="Shirley — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/love,motif/time,motif/well,concept/courage,concept/doubt,concept/fear,concept/freedom,concept/wonder,character/gertrude,character/isabella"></span>
@@ -87402,6 +95698,210 @@ only brother of doting sisters--could have so much goodness, and, on the
 
 whole, so much sense.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il loro bagno… e provavano un timore dignitoso se…
+
+Si trovavano per caso [[Alone|soli]] con il loro audace cugino. Ma, come ho già detto.
+
+Si verificò un cambiamento: il signor Sympson fu placato e anche la sua famiglia…
+
+Rilassato.
+
+
+
+Il villaggio di Nunnely è stato menzionato: la sua vecchia chiesa, il suo bosco…
+
+Le sue rovine monastiche… Aveva anche un’aula, chiamata prioria: più antica…
+
+Una dimora più imponente e maestosa di qualsiasi altra posseduta dai Briarfield o dai Whinbury…
+
+Inoltre, disponeva del proprio titolo nobiliare: il suo baronetto… che tuttavia non significava nulla di concreto.
+
+Né Briarfield né Whinbury potevano vantarsene… Questa proprietà… la loro più orgogliosa…
+
+Il più prezioso… per anni era stato soltanto nominale. Il attuale barone…
+
+Un giovane che fino ad allora risiedeva in una lontana provincia era sconosciuto nella sua città natale.
+
+Tenuta nel Yorkshire.
+
+
+
+Durante la permanenza della signorina Keeldar nella rinomata località balneare…
+
+# Cliffbridge: lei e le sue amiche hanno incontrato e conosciuto Sir…
+
+# Philip Nunnely. Lo incontrarono ancora e ancora sulle sabbie…
+
+#"Cliffside Promenades: A Glimpse into Public Balls of the Past"
+
+# Solitudine semplice
+
+Si potrebbe definirlo affabile; piuttosto timido che orgoglioso. Non si degnava mai di…
+
+Nella loro società; sembrava davvero _felice_ di farne parte.
+
+
+
+Con qualsiasi individuo normale, [[Shirley]] avrebbe potuto facilmente e rapidamente stabilire un legame solido.
+
+Un conoscente… Camminava e parlava con Sir Philip; lei, sua zia…
+
+#A volte i cugini salivano sulla sua barca a vela… Le piaceva perché…
+
+Lo trovò gentile e umile, e le piacque molto il pensiero di poter avere un ascendente su di lui.
+
+Per divertirlo.
+
+
+
+C'era però un piccolo svantaggio: dove finisce l'''amicizia''' senza di esso?. Signore.
+
+Philip sviluppò un interesse per la letteratura. Scrisse poesie: sonetti, stanze, ballate.
+
+Forse la signorina Keeldar pensava che lui fosse un po’ troppo appassionato di lettura…
+
+Titolo:  
+Recitando queste composizioni… forse avrebbe voluto che il ritmo fosse più incisivo.
+
+# Maggiore precisione, più musica nelle misure, più freschezza nei tropi…
+
+Ispirazione, più che [[Fire|fiamma]]. Comunque, lei faceva sempre una smorfia ogni volta che lui ne parlava.
+
+Riguardo all'argomento dei suoi [[Poems|poemi]], di solito faceva del suo meglio per distrarre l'attenzione.
+
+Trasferire la conversazione in un altro canale.
+
+
+
+Lui l’avrebbe ingannata per farle fare delle passeggiate al chiaro di luna con lui sul ponte…
+
+Il solo scopo, a quanto pare, era quello di raccontarle per l’ennesima volta…
+
+Le sue ballate… La portava via in luoghi isolati e rustici, dove…
+
+Il rumore delle onde che si schiantavano sulla sabbia era dolce e rilassante; e quando…
+
+# Aveva tutta lei per sé, e il mare si estendeva davanti a loro, profumato di…
+
+Ombre di giardini si estendevano intorno, e l’alto riparo delle scogliere era ricoperto di [[Rose|rosi]].
+
+Dietro di loro, tirava fuori l’ultima serie di sonetti che aveva scritto e li leggeva.
+
+Con una voce tremante per l’emozione… Non sembrava nemmeno rendersene conto.
+
+Potevano anche essere rime, ma non erano poesia. Così sembrava, secondo [[Shirley]].
+
+# Sguardo abbassato e volto turbato… Lei lo sapeva, e ne provava profonda tristezza.
+
+Umiliato a causa di un solo errore di questo gentile e affabile signore.
+
+
+
+Spesso cercava, con la massima delicatezza possibile, di farlo smettere con questa follia.
+
+# Il culto delle Muse. Era la sua mania: su tutti gli argomenti ordinari, lui…
+
+Era abbastanza sensata, e con piacere cercava di conversare con lui su argomenti ordinari.
+
+La interrogava a volte riguardo al suo ruolo in Nunnely; lei, però…
+
+Felice di rispondere dettagliatamente alle sue domande… Non si stancava mai di farlo.
+
+# Il vecchio priorato, il selvaggio parco boschivo e la chiesa antica
+
+E anche il [[Hamlet|villaggio]]. Non mancò di consigliargli di scendere e raccogliere le sue cose.
+
+Incoraggiati dal suo esempio, gli altri affittuari nelle sue sale ancestrali seguirono il suo esempio.
+
+
+
+Per sua sorpresa, Sir Philip seguì alla lettera il suo consiglio.
+
+E infatti, verso la fine di settembre, arrivò al priorato.
+
+
+
+Poco dopo fece una telefonata a Fieldhead, e la sua prima visita non fu l’ultima.
+
+Disse… quando ebbe completato il giro del quartiere… che sotto…
+
+#"Nessun tetto offriva un riparo più piacevole di quello offerto dall’immensa quercia."
+
+I raggi del grigio castello, della casa di Briarfield, una dimora angusta e modesta.
+
+Abbastanza, rispetto al suo, ma gli piaceva lo stesso.
+
+
+
+Al momento, non era più sufficiente sedersi con [[Shirley]] nel suo salotto rivestito di pannelli.
+
+# Salotto, dove gli altri andavano e venivano, e dove raramente riusciva a trovarsi da solo
+
+Un momento di tranquillità per mostrarle la più recente creazione della sua ispirazione creativa…
+
+#"Deve portarla fuori, tra i piacevoli pascoli, e guidarla..."
+
+Titolo:  
+Acque ferme… Conversazioni intime che lei evitava; così lui organizzò feste.
+
+“Per portarla nei suoi territori, nella sua gloriosa foresta… verso luoghi più remoti.”
+
+Scene: boschi tagliati dal fiume Wharfe, valli irrigate dal fiume Aire.
+
+
+
+Tanta diligenza rese la signorina Keeldar davvero eccezionale… Quella di suo zio, in particolare.
+
+Quella anima profetica anticipava un futuro splendido; già percepiva le sue promesse.
+
+In tempi lontani, con un atteggiamento disinvolto e il piede sinistro appoggiato su.
+
+# Ginocchio destro… dovrebbe essere in grado di fare riferimenti piuttosto familiari al suo…
+
+“Nipote del barone… Ora sua nipote non gli appariva più ‘una donna pazza’.”
+
+“Una donna molto sensata”, la definiva, in tono confidenziale.
+
+Dialoghi con la signora Sympson, “una persona davvero superiore; strana, ma…”
+
+“Molto intelligente,” le disse, trattandola con estrema rispetto; la [[Rose|rosa]] era tenuta in gran considerazione.
+
+Titolo:  
+Aprire e chiudere le porte per lei… Il suo viso si arrossì e…
+
+#"Mal di testa per dover chinarsi a raccogliere guanti, fazzoletti e altre cose..."
+
+Proprietà mobile, della quale [[Shirley]] solitamente disponeva ma senza un diritto di possesso sicuro. Lui.
+
+Titolo:  
+Farebbe battute misteriose sulla superiorità dell’ingegno femminile rispetto a…
+
+#La saggezza dell’uomo: iniziare con scuse vaghe per l’errore commesso…
+
+# Aveva commesso errori riguardo alla strategia militare e alle tattiche di quel personaggio
+
+“Non a cento miglia da Fieldhead… In breve, sembrava estremamente felice.”
+
+“Un gallo domestico su zoccoli.”
+
+
+
+#Sua nipote osservava le sue manovre e accoglieva le sue allusioni con indifferenza.
+
+A quanto pare, lei non riusciva nemmeno a comprendere a quale scopo tendessero.
+
+# Quando le fu chiaramente detto di essere la preferita del barone, lei rispose…
+
+Lei credeva che lui la trovasse davvero attraente, e per parte sua anche lei lo trovava simpatico. Lei aveva…
+
+#Un uomo di rango… l’unico figlio di una madre orgogliosa e affettuosa…
+
+Solo fratello di sorelle amorevoli… Avrebbe potuto essere così buono, e invece…
+
+Intero, ha davvero molto senso.
 
 
 
@@ -91957,6 +100457,223 @@ her feet, you coolly took coach up to [[London]]. What you have done there
 [[Satan]] knows; nothing in this world, I believe, but sat and sulked. Your
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XXX.
+
+
+
+Rushedge, un uomo che ha confessato i propri peccati.
+
+
+
+
+
+Tutti dicevano che fosse giunto il momento che il signor Moore tornasse a casa. Tutti.
+
+# Briarfield si chiedeva il motivo della sua strana assenza, mentre Whinbury e Nunnely…
+
+Ognuno portò il proprio contributo distintivo di meraviglia.
+
+
+
+#Perché si tenne lontano? Sì, lo si sapeva… venti, quaranta volte.
+
+Titolo: Esistono almeno quaranta ragioni plausibili che spiegano…
+
+“Per quella circostanza inspiegabile… Non si trattava di affari…”
+
+I pettegolezzi concordavano: aveva realizzato ciò per cui era partito.
+
+#A lungo tempo fa… I suoi quattro capi banda furono presto individuati e catturati. Lui aveva…
+
+Ha assistito al loro processo, ha ascoltato la sentenza di condanna e li ha visti…
+
+Spedito in modo sicuro prima del trasporto.
+
+
+
+In Briarfield tutti lo sapevano. I giornali ne avevano parlato.
+
+#Il messaggero di Stillbro’ aveva fornito tutti i dettagli, con alcune aggiunte. Nessuno.
+
+Lo applaudirono per la sua perseveranza o lo acclamarono per il suo [[success|successo]], anche se i proprietari dei mulini.
+
+Erano felici di questo, fiduciosi che le terribili conseguenze della legge venissero giustificate…
+
+Da ora in poi, paralizziamo quel sinistro coraggio della dissidenza… La dissidenza.
+
+Comunque, continuava a mormorare tra sé e sé. Pronunciava giuramenti minacciosi.
+
+# Sopra la birra drogata delle taverne, e si brindavano con strani auguri in un’atmosfera infuocata…
+
+Gin britannico.
+
+
+
+Un rapporto affermava che Moore non osava venire nel Yorkshire; lo sapeva bene.
+
+La sua vita non sarebbe valsa nemmeno l’equivalente di un’ora di denaro, se avesse fatto quella cosa.
+
+
+
+“Glielo dirò,” disse il signor Yorke quando il suo caposquadra ne fece menzione.
+
+Un pettegolezzo, “E se nemmeno questo lo farà tornare a casa al galoppo, allora niente potrà riuscirci.”
+
+“Vorrei.”
+
+
+
+O forse fu qualche altro motivo a spingerlo, alla fine, a tornare indietro. Lui…
+
+Fu comunicato a Joe Scott il giorno in cui avrebbe dovuto arrivare a Stilbro’, con l’intenzione di…
+
+Il suo ronzino doveva essere mandato al George per trovare alloggio; e Joe…
+
+Scott, dopo aver informato il signor Yorke, si affrettò ad andare da lui.
+
+Incontrarlo.
+
+
+
+Era il giorno del mercato. Moore arrivò in [[Time|tempo]] per occupare il solito posto.
+
+Cena di mercato. Come uno straniero, e come una persona di rilievo…
+
+# Accoglienza calorosa
+
+#Differenza. Alcuni, che in pubblico a malapena avrebbero osato…
+
+Riconoscere la sua esistenza, per evitare che una parte di quell’odio e quella vendetta possano manifestarsi…
+
+Qualcosa che era stato riservato per lui avrebbe potuto toccare a loro, se solo…
+
+Il personaggio fu acclamato come una sorta di loro campione… Quando il vino…
+
+#Si fossero diffusi… il loro rispetto sarebbe certamente trasformato in entusiasmo se non fosse stato per…
+
+La tranquillità inalterata di Moore manteneva quella situazione in uno stato umido, basso e fumante.
+
+
+
+# Il signor Yorke, presidente permanente di queste cene, assistette alla scena…
+
+#L’atteggiamento di un amico, caratterizzato da una compiacenza eccessiva… Se c’è qualcosa che potrebbe scuoterlo…
+
+Se c’era qualcosa che poteva far aumentare ancora di più il disprezzo di un uomo, era vedere un altro uomo…
+
+Ingannato dalla lusinga o esaltato dalla popolarità… Se una cosa va bene,
+
+“Sopreso e incantato soprattutto da uno spettacolo pubblico…”
+
+Un personaggio incapace di godersi la propria notorietà, _incapace_, dico io.
+
+#Indifferenza che placò la sua rabbia…
+
+Uno spirito rude.
+
+
+
+# Robert, appoggiato allo schienale della sedia, silenzioso e quasi scostante…
+
+Titolo:  
+I sarti e i produttori di coperte esaltavano le sue abilità e ne raccontavano le gesta…
+
+Atti… molti dei quali mescolano lusinghe volgari con parole offensive.
+
+Le invettive contro la classe operaia rappresentavano uno spettacolo davvero delizioso per il signor.
+
+Yorke… Il suo cuore vibrava di una piacevole certezza: quegli esseri disgustosi…
+
+#Elogi che lo umiliarono profondamente, facendolo disprezzare se stesso e ciò che rappresentava
+
+# Sopportare abusi, rimproveri e calunnie… è facile sorridere; ma…
+
+“Davvero doloroso è lodare coloro che disprezziamo… Spesso, Moore…”
+
+#Guardava con un volto splendente le folle urlanti e ostili
+
+Durante quelle difficoltà, affrontò con coraggio la tempesta dell’impopolarità, mantenendo un atteggiamento nobile e determinato.
+
+e l’[[Soul|'anima]] era esultante; ma abbassò la testa di fronte ai quei commercianti mezzi cresciuti.
+
+Elogi, ma si ritirò imbarazzato di fronte ai loro complimenti.
+
+
+
+Yorke non poté fare a meno di chiedergli come gli piacessero i suoi sostenitori, e se…
+
+Non pensava che stessero rendendo [[Honour|onore]] alla sua causa. “Ma è un peccato, ragazzo, ”
+
+Aggiunse: “Che non avete appeso questi quattro campioni non lavati…”.
+
+Se fossi riuscito a compiere quell’impresa, la gente nobiliaria di qui avrebbe strappato via i cavalli…
+
+# Fuori dal carro, legato a una dozzina di asini, e trascinato fino a Stilbro’
+
+Come un generale vincitore.
+
+
+
+Moore presto abbandonò il vino, lasciò la festa e prese la [[Road|strada]].
+
+In meno di cinque minuti, il signor Yorke lo seguì. Uscirono insieme…
+
+Unitevi insieme.
+
+
+
+Era ancora presto per andare a [[Home|casa]], ma allo stesso tempo era già tardi nel pomeriggio. L’ultimo raggio di sole.
+
+Il sole era già scomparso oltre i bordi delle nuvole; la notte di ottobre.
+
+Sulle lande desolate si stendeva l’[[Shadow|ombra]] del suo arrivo.
+
+
+
+# Il signor Yorke, leggermente ebbrogeggiato dai suoi moderati brindisi… e non
+
+Non sono affatto contento di rivedere il giovane Moore nel Yorkshire… e che sia qui con me.
+
+Il suo compagno durante il lungo viaggio verso casa prese molto spesso la parola.
+
+#Se stesso. Si occupò brevemente, ma con disprezzo, delle prove e delle difficoltà che aveva affrontato.
+
+Convinzione… Da lì passò alle chiacchiere del quartiere, e prima ancora di…
+
+Per molto tempo attaccò Moore riguardo alle sue questioni personali.
+
+
+
+“Bob, credo che tu sia stato sconfitto, e te lo meriti. Tutto è andato liscio.”
+
+Fortuna si era innamorata di te. Aveva decretato che fossi il premio numero uno.
+
+Nella sua [[Wheel|ruota]], ventimila libbre; le bastava solo che tu facessi.
+
+#Metti la mano avanti e prendilo… E cosa hai fatto tu? Hai chiamato qualcuno per aiutarti.
+
+Un [[Horse|cavallo]], e partì a caccia verso il Warwickshire. La tua amata. Fortune, io.
+
+Voleva dire, era perfettamente indulgente. Disse: “Gli perdonerò; è giovane.”
+
+Attese, come “La pazienza scolpita su un monumento”, fino a quando la caccia non fu terminata.
+
+# La caccia alle prede dei parassiti. Si aspettava che tu tornassi allora… e che accadesse qualcosa.
+
+Un bravo ragazzo. Forse avresti ancora potuto vincere il primo premio con lei.
+
+
+
+# “Ci lasciò entrambi senza parole… perché invece di…”
+
+Tornare a casa a tutta velocità e mettere da parte tutte le lodi e gli onori ottenuti.
+
+Con i tuoi piedi, sei partito tranquillamente per [[London|Londra]]. Cosa hai fatto lì.
+
+[[Satan|Satana]] lo sa; non credo esista nulla in questo mondo che non sia legato al sedersi e al rimuginare. Il tuo.
+
 
 
 <span class="atom-split" data-atom="chapter_30--part_02" data-title="Shirley — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/love,motif/moon,motif/nature,motif/night,motif/road,motif/time,motif/water,motif/well,concept/beauty,concept/conscience,concept/doubt,concept/honour,concept/hope,concept/nature,concept/self,concept/vanity,form/blank_verse"></span>
@@ -93525,6 +102242,329 @@ trotted through the room.
 Concession, contrition, never do any good with some people. Instead of
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Niente per lui. Aspettò che la questione venisse affrontata formalmente… quando.
+
+#Si dovrebbe consultare lui stesso, quando è necessario chiamare gli avvocati, quando…
+
+“Discussioni di accordo e tutta quella deliziosa agitazione mondana…”
+
+Iniziare in modo pomposo.
+
+
+
+Finalmente arrivò una lettera. Lui stesso la consegnò a Miss Keeldar.
+
+La borsa… Conosceva quella calligrafia; riconosceva anche lo stemma sulla sigilla. Lo sapeva.
+
+Non si vide che lo aprisse e lo leggesse, perché [[Shirley]] se lo portò nella sua stanza; né si seppe nulla al riguardo.
+
+# “Lo vede risposto… perché ha scritto semplicemente ‘Stai zitta’ e basta.”
+
+#Il momento migliore della giornata… Lei gli chiese se fosse davvero così.
+
+Rispose: “Sì.”
+
+
+
+Di nuovo attese – attese in [[Silence|silenzio]], senza osare assolutamente parlare, continuò ad aspettare.
+
+Muti a causa di qualcosa che c'era sul viso di [[Shirley]], qualcosa di terribile, indecifrabile.
+
+Per lui, era come le scritture apparse sul muro per Belsassar… Fu profondamente commosso.
+
+Una volta chiamare Daniel, sotto le sembianze di [[Louis Moore]], per chiedergli.
+
+# Interpretazione… ma la sua dignità impediva tale familiarità. Lo stesso Daniel…
+
+Forse aveva delle difficoltà personali legate a quella situazione enigmatica…
+
+Un po’ di [[Translation|traduzione]]; sembrava uno studente per il quale le regole grammaticali non significano nulla.
+
+E i dizionari, sono inutili.
+
+
+
+*       *       *       *       *
+
+
+
+# Il signor Simpson era uscito per trascorrere un’ora ansiosa in compagnia di…
+
+#Dei suoi amici a De Walden Hall… Tornò un po’ prima del previsto.
+
+Come previsto. Sua famiglia e la signorina Keeldar si erano riunite nel salotto di quercia.
+
+#Rivolgendosi a quest’ultima, le chiese di seguirlo in un altro luogo
+
+Una stanza. Voleva avere con lei un “intervista strettamente privata”.
+
+
+
+Lei sorrise, senza fare domande né mostrare sorpresa.
+
+
+
+“Molto bene, signore,” disse lei, con il tono di una persona decisa.
+
+È stato informato che il dentista è venuto per estrarre quel grande dente [[Double|>doppio]].
+
+#La donna da cui ha sofferto così tanto questo mese…
+
+Lasciò il suo lavoro di cucito e il suo dito mignolo nella poltrona accanto alla finestra, e la seguì.
+
+Zio, dove lui guidava.
+
+
+
+#Rinchiusi nel salotto, i due si sedettero ognuno in una poltrona.
+
+Posizionati uno di fronte all'altro, a pochi metri di distanza l'uno dall'altro.
+
+
+
+“Sono stato a De Walden Hall,” disse il signor Sympson. Fece una pausa. La signorina…
+
+# Gli occhi di Keeldar erano fissi sul bel tappeto bianco e verde. _Quello_.
+
+Le informazioni richieste non necessitavano di alcuna risposta; lei non ne fornì nessuna.
+
+
+
+“Ho imparato…”, proseguì lentamente, “ho scoperto una certa realtà…”
+
+Il che mi sorprende.
+
+
+
+Appoggiando la guancia al dito indice, aspettava di sapere _cosa_.
+
+circostanza.
+
+
+
+“Sembra che il monastero di Nunnely sia chiuso… che la famiglia se ne sia andata.”
+
+“Torn al loro posto nel ----shire… Sembra che il barone…”
+
+Baronetto… proprio Sir Philip ha accompagnato sua madre e…
+
+“Sorelle.”
+
+
+
+“Certamente!” disse [[Shirley]].
+
+
+
+Posso chiedervi se condividete lo stesso stupore che ho provato io ricevendo questa notizia?
+
+
+
+“No, signore.”
+
+
+
+“È una novità per te?”
+
+
+
+“Sì, signore.”
+
+
+
+“Voglio dire… voglio dire,” continuò il signor Sympson, ora agitandosi sulla sedia.
+
+Abbandonando la sua finora breve e abbastanza chiara formulazione linguistica, e…
+
+“Tornando al suo solito stile prolisso, confuso e irritabile… Voglio dire…”
+
+Una spiegazione approfondita… Non mi farò scoraggiare. Io… io lo farò.
+
+Insistere nel voler essere ascoltati… e nel voler fare ciò che si vuole. Le mie domande.
+
+#Deve essere risposto. Voglio risposte chiare e soddisfacenti. Non è permesso…
+
+Essere preso in giro. ([[Silence|Silenzio]])
+
+
+
+“È una cosa strana e straordinaria… davvero unica… molto bizzarra.”
+
+“Caspita! Pensavo che tutto fosse a posto, non conoscevo altre possibilità… E invece… la famiglia…”
+
+“Se n’è andato!”
+
+
+
+“Immagino che, signore, avessero il diritto di andarsene.”
+
+
+
+“_Sir Philip se n’è andato!_” (con enfasi).
+
+
+
+[[Shirley]] alzò le sopracciglia. “Buon viaggio!”, disse.
+
+
+
+“Questo non va bene; deve essere modificato, signora.”
+
+
+
+#Lo avvicinò, poi lo allontanò; sembrava perfetto…
+
+Infuriato e completamente impotente.
+
+
+
+“Ma come, zio,” protestò [[Shirley]], “non cominciare a preoccuparti e, ”
+
+“Fumo… altrimenti non riusciremo a capirci nulla di questa faccenda. Chiedetemi pure cosa volete.”
+
+“Conosco… Sono altrettanto disposto ad ascoltare una spiegazione quanto te. Te lo prometto.”
+
+Risposte sincere.
+
+
+
+Titolo:  
+“Voglio… esigo sapere, signorina Keeldar, se sir Philip vi abbia fatto qualcosa.”
+
+“Un’offerta?”
+
+
+
+“Lo ha, davvero.”
+
+
+
+“Lo ammetti?”
+
+
+
+“Lo ammetto. Ma ora, continua pure. Ritiene quel punto risolto.”
+
+
+
+“Ti ha fatto un’offerta. Quella [[Night|notte]] abbiamo cenato nel priorato, vero?”
+
+
+
+“Basta dire che ci è riuscito. Continua.”
+
+
+
+#"Durante l’intervallo… nella stanza che un tempo era…"
+
+La galleria d’immagini, quella che Sir Monckton aveva trasformato in salone?
+
+
+
+Nessuna risposta.
+
+
+
+“Voi due stavate esaminando un armadio… L’ho visto tutto. La mia perspicacia, però, non era all’altezza…”
+
+# Colpa… che non esiste mai. In seguito hai ricevuto una sua lettera. Su cosa?
+
+Di che [[Nature|natura]] erano i contenuti?
+
+
+
+“Nessun problema.”
+
+
+
+“Signora, è davvero così che si parla con me?”
+
+
+
+Il piede di [[Shirley]] batteva velocemente sul tappeto.
+
+
+
+Eccoti lì, in silenzio e con aria cupa, tu che avevi promesso di rispondere sinceramente.
+
+
+
+“Signore, finora vi ho risposto in questo modo. Procedete pure.”
+
+
+
+“Vorrei vedere quella lettera.”
+
+
+
+“Non puoi vederlo.”
+
+
+
+“Devo e farò, signora; sono il vostro tutore.”
+
+
+
+Dopo aver smesso di essere un minore sotto tutela legale, non ho più nessun tutore.
+
+
+
+#"Essere ingrato! Cresciuta da me come se fosse mia figlia..."
+
+
+
+“Ancora una volta, zio, abbia la gentilezza di venire al punto. Lasciamo che entrambi…”
+
+“Rimanere calmi… Per quanto mi riguarda, non desidero assolutamente scatenare una discussione animata; ma…”
+
+“Una volta che mi si spinge oltre certi limiti, non mi importa più nulla di ciò che dico…”
+
+Non vengo quindi presto fermato… Ascoltate! Mi avete chiesto se Sir Philip…
+
+Mi hanno fatto un’offerta. Quella domanda è stata risposta. Cosa vuoi sapere ancora?
+
+“Dopo?”
+
+
+
+“Vorrei sapere se lo hai accettato o rifiutato, devo saperlo.”
+
+“Vorrei.”
+
+
+
+“Certo che dovresti saperlo. L’ho rifiutato.”
+
+
+
+“Gliel’hai rifiutato! Tu, tu, [[Shirley Keeldar]], hai rifiutato Sir Philip, ”
+
+“Nunnely?”
+
+
+
+“L’ho fatto.”
+
+
+
+Il povero gentiluomo balzò in piedi dalla sedia e, dopo essersi precipitato verso…
+
+Corse attraverso la stanza.
+
+
+
+“Eccolo lì! Eccolo lì! Eccolo lì!”
+
+
+
+“A dire il vero, mi dispiace molto, zio, sei davvero deluso.”
+
+
+
+#"Concessioni, pentimenti: con alcune persone non servono a nulla. Al contrario..."
+
 
 
 <span class="atom-split" data-atom="chapter_31--part_03" data-title="Shirley — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/fool,archetype/rebel,archetype/tyrant,motif/fire,motif/love,motif/rose,motif/well,concept/courage,concept/fear,concept/freedom,concept/self,character/bottom"></span>
@@ -94275,6 +103315,392 @@ you."
 "Another creed! I believe she is an infidel."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Sono stato innamorato diverse volte.”
+
+
+
+“Questo è cinico.”
+
+
+
+“Con eroi di molte nazioni.”
+
+
+
+"#Prossimo passo----"
+
+
+
+“E i filosofi.”
+
+
+
+#"È pazza..."
+
+
+
+“Non suonare la campanella, zio. Allarmeresti mia zia.”
+
+
+
+“Povera tua zia. Che nipote terribile ha!”
+
+
+
+“Una volta amavo Socrate.”
+
+
+
+“Puf! Niente sciocchezze, signora.”
+
+
+
+“Ammiravo Temistocle, Leonida, Epaminonda.”
+
+
+
+"#Miss Keeldar----"
+
+
+
+“To pass over a few centuries, Washington era una persona semplice, ma a me piaceva…”
+
+“Lui… ma parlando del presente…”
+
+
+
+“Ah, il vero presente.”
+
+
+
+“Abbandonare queste fantasie infantili e tornare alla realtà.”
+
+
+
+“Realtà. È questa la prova a cui verrete sottoposti, signora.”
+
+
+
+#"Di fronte a quale altare mi inginocchio ora… di rivelare l’idolo attuale del mio cuore."
+
+[[Soul|'anima]]----"
+
+
+
+“Per favore, affrettati. È quasi l’[[Time|ora]] di pranzo, ”
+
+E confessa, “Dovrai” farlo.
+
+
+
+“Devo confessarlo… Il mio cuore è pieno di questo segreto; deve essere raccontato.”
+
+# Vorrei solo che fossi il signor Helstone invece del signor Sympson…
+
+“Simpatizzate con me ancora di più.”
+
+
+
+"#Madam, si tratta di una questione di buon senso e prudenza comune, non di…"
+
+Simpatia e sentimento, e così via. Hai detto che si trattava del signor Helstone?
+
+
+
+“Non esattamente, ma abbastanza vicini; sono piuttosto simili.”
+
+
+
+Conoscerò il nome; avrò tutti i dettagli.
+
+
+
+#Sono davvero molto simili… Persino i loro volti lo dimostrano.
+
+Diversi… una coppia di “falchi umani”… entrambi secchi, diretti e decisi. Ma…
+
+Il mio [[Hero|eroe]] è il più potente dei due. La sua mente possiede una chiarezza straordinaria.
+
+Nel profondo mare: la pazienza delle sue rocce, la forza dei suoi flutti.
+
+
+
+“Risate e schiamazzi!”
+
+
+
+Oserei dire che possa essere spietato come la lama di una sega e ruvido come un corvo affamato.
+
+
+
+“Signorina Keeldar, quella persona risiede a Briarfield? Rispondetemi.”
+
+
+
+“Zio, ti dirò. Il suo nome mi trema sulla lingua.”
+
+
+
+“Parla, ragazza!”
+
+
+
+“È stato detto davvero bene, zio. ‘Parla, ragazza!’ È una situazione davvero tragica. In Inghilterra, ”
+
+# Ha ululato selvaggiamente contro quest’uomo, contro questo zio… E un giorno urlerà ancora.
+
+Esultano per lui… Non si è spaventato di quel ringhio, e sicuramente ce la farà.
+
+Senza alcuna gioia per quell’urlo.
+
+
+
+Ho detto che era pazza. Lo è davvero.
+
+
+
+“Questo paese cambierà ancora e di nuovo nel suo atteggiamento verso di lui…”
+
+“Non cambierà mai nei suoi doveri verso di lei. Su, smetta di lamentarti, zio, io…”
+
+“Ti dirò il suo nome.”
+
+
+
+#"Mi dirai o... altrimenti..."
+
+
+
+“Ascoltate! [[Arthur]] Wellesley, Lord Wellington.”
+
+
+
+Il signor Simpson si arrabbiò terribilmente. Uscì di corsa dalla stanza, ma subito dopo.
+
+Si riprese subito, chiuse la porta e tornò a sedersi.
+
+
+
+#"Signora, deve assolutamente dirmelo… I suoi principi le permetteranno di farlo?"
+
+Sposare un uomo senza soldi, un uomo inferiore a te?
+
+
+
+“Nessun uomo al di sotto di me.”
+
+
+
+(A voce alta.) “Verrà a sposare un uomo povero, signorina Keeldar?”
+
+
+
+“Che diritto avete voi, signor Sympson, di chiedermi questo?”
+
+
+
+“Insisto nel voler saperlo.”
+
+
+
+“Non è attraverso quel percorso che si può conoscere.”
+
+
+
+“La rispettabilità della mia famiglia non deve essere compromessa.”
+
+
+
+“Una buona risoluzione, mantenerla.”
+
+
+
+“Signora, siete _voi_ quella che dovrà tenerlo.”
+
+
+
+“Impossibile, signore, poiché non faccio parte della sua famiglia.”
+
+
+
+“Ci rinneghi?”
+
+
+
+Disprezzo la tua dittatura.
+
+
+
+“Con chi sposerete, signorina Keeldar?”
+
+
+
+“Non il signor Sam Wynne, perché lo disprezzo; non sir Philip Nunnely, perché…”
+
+Lo stimo _solo_ per questo.
+
+
+
+“Chi hai nel tuo mirino?”
+
+
+
+“Quattro candidati respinti.”
+
+
+
+“Un tale ostinato rifiuto può significare soltanto che sei sotto l’influenza di qualcosa di sbagliato.”
+
+
+
+“Cosa intendi? Ci sono alcune frasi capaci di scatenare una reazione intensa nel mio [[Blood|%sangue]], ”
+
+Bollire. Che influenza negativa! Di quale vecchia donna è quel riso?
+
+
+
+“È lei una giovane signorina?”
+
+
+
+"#Mille volte migliore di loro: sono una donna onesta, e per questo farò…"
+
+“Voglio che venga trattato con rispetto.”
+
+
+
+“Lo sai o no…” (inclinandosi in avanti con aria misteriosa, e parlando con voce spaventosa)
+
+#"Solennità": "Sai che in tutto il quartiere circolano un sacco di voci?"
+
+Riguardo a te e al tuo inquilino fallito, quel straniero Moore,?
+
+
+
+“Davvero?”
+
+
+
+“Sì. Il tuo nome è sulla bocca di tutti.”
+
+
+
+"#Benevola alle labbra che sfiora… E prego gli dei che possa purificarle."
+
+loro.
+
+
+
+“È davvero quella persona ad avere il potere di influenzarti?”
+
+
+
+Al di là di chiunque abbia mai sostenuto la causa tua.
+
+
+
+“È lui che sposerai?”
+
+
+
+È attraente, virile e autoritario.
+
+
+
+“Lo dichiari davanti a me! Quel furfante fiammingo, quel mercante disonesto!”
+
+
+
+“È talentuoso, avventuroso e risoluto… Il titolo di principe gli si addice perfettamente.”
+
+Un uomo dal portamento dignitoso.
+
+
+
+“Ne va fiera! Non nasconde nulla! Nessuna vergogna, nessun [[Fear|paura]]!”
+
+
+
+“Quando pronunciamo il nome di Moore, la vergogna dovrebbe essere dimenticata e l’[[Fear|paura]], ”
+
+Rifiutato. I Moore conoscono solo l’[[Honour|'onore]] e il [[Courage|-coraggio]].
+
+
+
+“Dico che è pazza.”
+
+
+
+Mi hai provocato fino a quando il mio [[Blood|sangue]] non è in fiamme; mi hai angosciato fino a quando io.
+
+“Ritorna ancora.”
+
+
+
+"#Che quel Moore sia il fratello dell’insegnante di mio figlio… Lascerebbe che l’usciere…"
+
+“Chiamarti sorella?”
+
+
+
+Gli occhi di [[Shirley]], luminosi e grandi, si fissarono su colui che le aveva posto la domanda.
+
+Ora.
+
+
+
+“No, no; non per una provincia da possedere, non per un secolo di vita.”
+
+
+
+“Non si può separare il marito dalla sua famiglia.”
+
+
+
+“Allora cosa facciamo?”
+
+
+
+“Sarai la sorella del signor [[Louis Moore]].”
+
+
+
+#"Signor Simpson, sono disgustato da tutta questa robaccia debole e senza valore; non ne posso più sopportare..."
+
+Non più. I tuoi pensieri non sono i miei pensieri, i tuoi obiettivi non sono i miei obiettivi.
+
+“I tuoi dèi non sono i miei dèi. Non vediamo le cose nello stesso modo…”
+
+Non misurateli con lo stesso standard: a malapena parliamo nello stesso modo.
+
+“Lingua. Andiamo via.”
+
+
+
+“Non è così,” riprese lei, molto eccitata, “non è che io ti odi… tu…”
+
+È un uomo perbene. Forse intendi dire “buono” a tuo modo. Ma non possiamo.
+
+“Non andiamo mai d’accordo… Mi infastidiscono le tue continue interferenze, con quelle piccole cose…”
+
+“Piccola tirannia… Mi esasperi, e continui a farlo.”
+
+“Appassionato… Per quanto riguarda le tue piccole massime, le tue regole ristrette, i tuoi…”
+
+“Pregiudizi, avversioni, dogmi… gettateli via tutti. Signor Sympson, vada e proponga loro questo.”
+
+“Offrirli in sacrificio alla divinità che veneri… Io, invece, non ne voglio sapere nulla. Lavo i miei…”
+
+Le mani del destino. Io seguo un altro credo, una fede più leggera e una speranza diversa dalle loro.
+
+“Tu, davvero.”
+
+
+
+“Un altro credo. Credo che lei sia un’infedele.”
+
 
 
 <span class="atom-split" data-atom="chapter_31--part_05" data-title="Shirley — Chapter 31 (part 5)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/blood,motif/crown,motif/death,motif/decay,motif/home,motif/lightning,motif/night,motif/rose,motif/tears,motif/time,motif/well,motif/wind,concept/conscience,concept/deception,concept/doubt,concept/revenge,character/caroline_helstone,character/louis_moore"></span>
@@ -94838,6 +104264,209 @@ feelings by a little flowery language, with which it is not necessary to
 
 strew the present page. A bouquet or two of the choicest blossoms fell
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XXXII.
+
+
+
+Il ragazzo scolastico e la ninfa del bosco.
+
+
+
+
+
+# Briarmains era più vicina della Hollow, quindi il signor Yorke aveva inviato…
+
+Caro compagno. L’aveva visto adagiato nel miglior letto della [[house|>casa]].
+
+“Con la stessa cura con cui avrebbe trattato uno dei suoi figli… Quel vedere…”
+
+Il [[Blood|sangue]] che sgorgava dalla ferita inferta in modo traditore lo fece davvero.
+
+Il figlio del cuore di quel gentiluomo dello Yorkshire… Lo spettacolo improvviso…
+
+Un evento. Quell’oggetto alto e dal profilo dritto giaceva disteso lì, nel pieno della sua [[Pride|orgoglio]].
+
+La [[Road|strada]], con quella bella estremità meridionale sepolta nella  polvere, e quel giovane.
+
+# Una figura pallida, senza vita, indifesa… eccola davanti a lui.
+
+# Una combinazione perfetta di circostanze per la vittoria del signor Yorke
+
+Il più vivo interesse.
+
+
+
+Nessuna altra mano era lì per aiutare; nessuna altra voce per porre domande.
+
+Senza l'aiuto di nessun altro, doveva occuparsi di tutto da solo.
+
+# Questa totale dipendenza del giovane muto e sanguinante… (come giovane che è)
+
+Lo consideravano per la sua bontà; era proprio quella bontà a garantire loro tanta protezione e aiuto.
+
+Effettivamente, a [[Well|Mr. Yorke]] piaceva molto avere potere e usarlo. Lui.
+
+Ora aveva tra le mani il potere di decidere della vita di un altro essere umano… E questo gli piaceva.
+
+lui.
+
+
+
+Altrettanto bene si adattava anche alla sua natura cupa e malinconica… Quell’episodio.
+
+# Era proprio ciò che desiderava e che le piaceva… Alcune donne, forse, avrebbero reagito diversamente.
+
+# Terrorizzati alla vista di un uomo sanguinante portato dentro la loro dimora…
+
+Fu deposto nel loro salone, nella “tomba della [[Night|notte]]”. Lì, si sarebbe potuto.
+
+“Supponiamo…”, fu motivo di isterie. No: la signora Yorke andò nel panico.
+
+Attacchi isterici ogni volta che Jessie rifiutava di lasciare il [[Garden|giardino]] per andare da lei.
+
+Titolo:  
+“Tessere… o quando Martin propose di partire per l’Australia, con l’intento di…”
+
+Raggiungere la [[Freedom|libertà]] e sfuggire alla tirannia di Matthew, ma un tentativo fallito.
+
+# Omicidio vicino alla sua porta: un uomo mezzo ucciso nel suo letto migliore…
+
+Le sollevò subito l’umore, aggiungendo al suo cappello quel tocco caratteristico dei turbanti.
+
+
+
+#La signora Yorke era proprio quella donna che, rendendo miserabile…
+
+La noiosa vita di una semplice serva, lei avrebbe potuto prendersi cura delle persone come una vera eroina.
+
+#Ospedale pieno di pazienti colpiti dalla peste… Lei quasi amava Moore… La sua tenacia…
+
+Il suo cuore sembrava anelare a lui non appena lo vide dedicarsi completamente a lei.
+
+“Carica… lasciata tra le sue braccia, dipendente da lei come il suo figlio più piccolo.”
+
+#La culla… Aveva visto lei stessa o una delle sue figlie darglielo?
+
+Se avesse versato un po' d’[[Water|acqua]] o sistemato meglio il suo cuscino, l’avrebbe sicuramente messa in una scatola.
+
+Alle orecchie dell'intruso. Inseguì Jessie e [[Rose]] fuori dal regno superiore.
+
+[[house|casa]]; lei proibì alle domestiche di metterci piede.
+
+
+
+Ora, se quell’incidente fosse avvenuto alle porte della canonica… e l’anziano Helstone…
+
+# Avevano accolto il martire, ma né York né sua moglie avrebbero provato pietà
+
+Lo avrebbero ritenuto giustamente punito per la sua tirannia…
+
+Intromettendosi in tutto, divenne, almeno per il momento, la loro prediletta.
+
+
+
+Strano! A [[Louis Moore]] fu permesso di venire, di sedersi sul bordo.
+
+# Sul letto, si china sul cuscino; per tenere la mano di suo fratello e stringerla forte…
+
+La sua pallida fronte, unita alle sue labbra affettuose. E la signora Yorke lo sopportava molto bene.
+
+# Lo tollerò che rimanesse lì per mezza giornata; una volta lo tollerò anche…
+
+Rimase sveglia tutta la [[Night|notte]] nella stanza; si alzò alle cinque in punto del mattino.
+
+Una mattina umida di novembre; con le sue stesse mani accese il [[Fire|fuoco]] in cucina.
+
+Preparò la colazione per i fratelli e gliela servì personalmente.
+
+Imponentemente avvolta in un vasto involucro di flanella, una sciarpa… e lei.
+
+#"La cena conclusiva: seduta lì, li osservava mangiare, con la stessa soddisfazione di una gallina che guarda i suoi pulcini."
+
+“Le sue galline mangiano… Eppure quel giorno avvertì la cuoca di non osare…”
+
+# Portare a Mr. Moore una ciotola di zuppa di sagò
+
+La cameriera perse il favore del signor Louis perché…
+
+Gli portò il suo soprabito appena rinfrescato in cucina… e, come un “uomo avanti”.
+
+“Pezzo dopo pezzo”, così come era, lo aiutò a completarlo e in cambio ricevette…
+
+Titolo:  
+Un sorriso, un “Grazie, mia ragazza”, e una sterlina… Due signore chiamarono una…
+
+# Giorno pallido e ansioso… implorò con sincerità e umiltà di essere lasciato fare…
+
+# Vedi il signor Moore un attimo… La signora Yorke indurì il proprio cuore e li mandò via.
+
+Il confezionamento, non senza critiche.
+
+
+
+#Ma come fu quando arrivò Hortense Moore? Non così male come avrebbe potuto essere…
+
+Come previsto. Tutta la famiglia dei Moore sembrava davvero adatta alla signora.
+
+Yorke: l’unica famiglia che le si addicesse davvero. Hortense e lei…
+
+# Un tema di conversazione infinitamente ricorrente tra loro… nel contesto corrotto
+
+# Propensioni dei servitori. Le loro opinioni su questa classe erano simili…
+
+Li osservava con lo stesso sospetto e li giudicava nello stesso modo.
+
+Titolo:  
+Gravità. Anche Hortense, fin dall’inizio, non mostrò alcun segno…
+
+La [[Jealousy|invidia]] per l’attenzione che la signora Yorke riservava a Robert, le permise di mantenere quella posizione.
+
+Sotto la cura di [[Nurse|infermiera]] con poche interferenze; e, per sé stessa, trovava sollievo continuo.
+
+Passare il tempo a muoversi nervosamente per la [[house|casa]], tenendo sotto controllo la cucina.
+
+# Sorveglianza, racconto di ciò che vi è accaduto… e, in breve, assumersi la responsabilità di tutto.
+
+Titolo:  
+Generalmente utile… Entrambi concordarono nell’escluderlo.
+
+Con diligenza lasciarono la stanza del malato… Tennero prigioniero il giovane proprietario della fabbrica di mulini.
+
+E quasi non lasciava che l’aria entrasse o il sole lo raggiungesse.
+
+
+
+# Il dottor MacTurk, lo chirurgo incaricato del caso di Moore
+
+# Pronunciò la sua ferita come qualcosa di pericoloso… ma, confidava, non senza speranza di guarigione.
+
+Carattere. All’inizio, voleva assegnargli una propria [[Nurse|infermiera]].
+
+Selezione… ma né la signora Yorke né Hortense avrebbero mai accettato una cosa del genere. Loro…
+
+Promessa di attuare fedelmente le istruzioni ricevute. Pertanto, fu lasciato da solo…
+
+Il presente nelle loro mani.
+
+
+
+Senza dubbio hanno adempiuto ai loro doveri nel miglior modo possibile; ma…
+
+Qualcosa non è andato per il verso giusto… I bendaggi erano stati spostati o alterati; terribile.
+
+Seguì una perdita di [[Blood|sangue]]. Chiamato d'urgenza, MacTurk arrivò cavalcando un cavallo coperto di schiuma.
+
+#Uno di quei chirurghi con cui non è prudente discutere… brusco nelle sue decisioni.
+
+# Nelle migliori delle sue disposizioni d’animo… ma nel suo aspetto più selvaggio e brutale. Vedendo lo stato in cui si trovava Moore, si sentì sollevato…
+
+Titolo:  
+“Sentimenti espressi attraverso un linguaggio un po’ ricco di metafore… senza che sia necessario…”
+
+Disperdete sulle pagine attuali… Un mazzo o due dei fiori più belli è caduto qui.
 
 
 
@@ -95845,6 +105474,227 @@ It needed no more. Hortense could not have lived another hour without
 betaking herself to the scene of these nefarious transactions, and
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XXXIII.
+
+
+
+Le tattiche di Martin.
+
+
+
+
+
+Per realizzare il piano di Martin, era necessario che lui rimanesse lì.
+
+A [[Home|casa]] quel giorno. Di conseguenza, non aveva alcun appetito per la colazione.
+
+Proprio durante l’[[Time|orario scolastico]], ebbe un forte dolore al cuore.
+
+#Si decise fosse opportuno, invece di recarsi alla scuola elementare…
+
+Con Mark, potrà ereditare la poltrona accanto al camino di suo padre.
+
+E anche al suo giornale del mattino. Una volta risolto in modo soddisfacente questo punto…
+
+E poiché Mark era andato a lezione dal signor [[Summer]], insieme a Matthew e al signor Yorke.
+
+Ritiratosi nella sala dei conteggi, altri tre atti eroici, anzi, di più.
+
+Quattro obiettivi rimanevano ancora da realizzare.
+
+
+
+Il primo di questi passi fu rendersi conto che non aveva ancora assaggiato la colazione.
+
+E con cui il suo appetito di quindici anni non poteva assolutamente fare a meno…
+
+Secondo, terzo, quarto… per raggiungere sua madre, la signorina Moore, e la signora Horsfall.
+
+Riuscì ad eliminarlo con successo prima delle quattro di [[Clock|ore]] quel pomeriggio.
+
+
+
+Il primo, per il momento, era quello più urgente, poiché i lavori precedenti…
+
+#Gli richiedeva una quantità di energia che la sua attuale condizione vuota non era in grado di fornire.
+
+Il suo giovane stomaco non sembrava in grado di far fronte alle esigenze del momento.
+
+
+
+# Martin conosceva la strada per la dispensa, e conoscendola la prese.
+
+I servitori erano in cucina, a colazione in silenzio, con le porte chiuse.
+
+Sua madre e la signorina Moore si stavano rinfrescando in giardino…
+
+# Discutendo delle porte chiuse menzionate in precedenza… Martin, al sicuro nella dispensa, faceva…
+
+Una selezione raffinata tra le sue scelte… Il suo colazione era stata ritardata; lui…
+
+# Fu deciso che dovesse essere “ricercato”. Gli sembrava che…
+
+Una varietà, rispetto al solito cibo monotono a base di pane e latte…
+
+Desiderabile e consigliabile: ciò che riteneva fosse al contempo gustoso e benefico.
+
+“Da combinarsi… C’era una scorta di mele rosse, riposte su paglia su uno scaffale.”
+
+# Ne scelse tre. Su un piatto c’era della pastella; ne prese uno…
+
+Titolo:  
+Puff di albicocche e torta di ciliegie rosse… Sul semplice pane casalingo, il suo sguardo si sofferma…
+
+Non si soffermò a lungo su quel argomento; ma osservò con approvazione alcuni biscotti al tè alla ciliegia…
+
+#Si degnò di sceglierne uno… Grazie al suo coltello a scatto, riuscì a farlo.
+
+# In grado di appropriarsi un’ala di pollame e un pezzo di prosciutto… una fetta di freddo
+
+Custard-pudding: pensava che si abbinasse bene a questi articoli…
+
+#Con questo ultimo acquisto, finalmente si avventurò fuori
+
+Nel corridoio.
+
+
+
+#Aveva già percorso metà strada… Solo tre passi in più lo avrebbero portato a destinazione.
+
+#Nel porto del salotto posteriore… quando la porta d’ingresso si aprì
+
+Lì c’era Matthew… Meglio sarebbe stato se fosse stato il Vecchio Gentiluomo, in tutto il suo splendore.
+
+Equipaggio composto da corna, zoccoli e coda.
+
+
+
+# Matthew, scettico e beffeggiatore, aveva già fallito nel sottoscrivere prontamente…
+
+La fede in quel [[Pain|)dolore]] nel cuore. Aveva mormorato alcune parole, tra le altre.
+
+# “Imitare Abramo” era una frase chiaramente udibile
+
+E la successione al posto a sedere e al giornale sembrava aver avuto un certo impatto…
+
+“Lo colpì con spasmi mentali… La scena che aveva davanti agli occhi ora… le mele…”
+
+Torte, i pasticcini al tè, la carne di pollame, il prosciutto e il budino: tutti elementi che fornivano prove… ma…
+
+Troppo ben calcolato, in realtà, per aumentare la sua stima della propria saggezza.
+
+
+
+Martin rimase fermo, impietrito, per un minuto, per un istante; poi… non seppe più cosa fare.
+
+Terreno solido, e tutto pronunciato in modo chiaro. Con la vera perspicacia delle anime.
+
+#Elite: Come capì subito come questo evento, a prima vista sfortunato, potesse essere utilizzato…
+
+Fu utilizzato in modo eccellente. Scoprì come fosse possibile gestirlo in quel modo.
+
+# Assicurare l’attuazione della sua seconda missione: ovvero, la gestione di…
+
+#La madre di lui… Sapeva che qualsiasi scontro tra lui e Matthew sarebbe stato inevitabile.
+
+Consigliò alla signora Yorke che fosse opportuno avere un attacco di isteria… E poi continuò.
+
+Sapeva che, secondo il principio per cui la calma segue la tempesta, dopo una mattina.
+
+“Di isterie… sua madre sicuramente si sarebbe lasciata andare, passando un pomeriggio a letto.”
+
+Sarebbe perfettamente adatto a lui.
+
+
+
+La collisione ebbe luogo nel corridoio… Una risata secca, un commento offensivo…
+
+Sghigno, una beffa sprezzante, ricevuta in risposta da una replica indifferente ma estremamente tagliente.
+
+#I segnali… Li affrontarono tutti insieme. Martin, che di solito non si impegnava molto…
+
+In quelle occasioni, il rumore era davvero molto intenso; i servitori correvano ovunque in preda al panico.
+
+# Mrs. Yorke, Miss Moore: nessuna mano femminile avrebbe potuto separarle… Mr. Yorke
+
+Fu convocato.
+
+
+
+“Figli miei,” disse, “se dovesse accadere di nuovo, uno di voi dovrà lasciare questa casa.”
+
+Qui non ci sarà alcuna contesa tra Caino e Abele.
+
+
+
+“Ora Martin si lasciò portare via. Era ferito…”
+
+Il più giovane e il più delicato… Era davvero calmo, senza alcuna passione; anzi…
+
+Sorrise, soddisfatto che la parte più difficile del lavoro che si era imposto fosse finalmente terminata.
+
+Lui stesso era finito.
+
+
+
+Una volta, sembrò che stesse male durante la mattinata.
+
+
+
+“Non vale la pena prendersi la briga per quella Caroline,” osservò.
+
+Ma un quarto d’ora dopo era di nuovo in sala da pranzo.
+
+# Guardando quella testa con i capelli scompigliati e gli occhi offuscati…
+
+[[Despair|disperazione]].
+
+
+
+“Sì,” disse, “l’ho fatta piangere, tremare, quasi svenire… La rivedrò.”
+
+# Sorridi prima che finisca con te… Inoltre, voglio battere tutti in astuzia.
+
+“Le donneite.”
+
+
+
+Subito dopo cena, la signora Yorke portò a termine il calcolo fatto da suo figlio…
+
+Tornando nella sua stanza. Ora parliamo di Hortense.
+
+
+
+Quella signora era tranquillamente impegnata a rammendare le calze nel retro.
+
+# Salotto, quando Martin… posò un libro che giaceva sul divano
+
+(#Ancora non si sentiva bene, secondo quanto raccontava lui stesso)
+
+Leggendo con tutta la tranquillità e il piacere di un giovane pascià ancora inesperto… con pigrezza.
+
+# Discorsi su Sarah, la serva di Hollow
+
+Dopo un lungo giro di parole, insinuò alcune informazioni su questo argomento.
+
+Si diceva che la [[Damsel|damigella]] avesse tre corteggiatori: Frederick Murgatroyd, Jeremiah.
+
+"Pighills, e John-of-Mally's-of-Hannah's-of-Deb's; e quella signorina Mann"
+
+# Aveva affermato di sapere con certezza che, ora che la ragazza era rimasta sola…
+
+#"La responsabilità della casetta… spesso invitava i suoi amanti a pranzo…"
+
+Li intrattenne con le cose migliori che la [[house|>casa]] poteva offrire.
+
+
+
+Non c’era bisogno di altro. Hortense non avrebbe potuto sopravvivere un’altra ora senza…
+
+# Recandendosi sul luogo di queste transazioni malvagie…
+
 
 
 <span class="atom-split" data-atom="chapter_33--part_02" data-title="Shirley — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/clock,motif/crown,motif/fire,motif/home,motif/leaves,motif/night,motif/pain,motif/road,motif/snow,motif/storm,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/wonder,character/caroline_helstone,character/nurse"></span>
@@ -96711,6 +106561,202 @@ failed him. He misjudged the quality of his own [[Nature|nature]], and held it f
 something lower than it was.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Parli della mia esperienza.”
+
+
+
+"#Non credevo mai che avrei rivisto te di nuovo… E sono diventata così magra… tanto magra quanto…"
+
+Ora sei tu… Non potevo fare nulla per me stesso: né alzarmi, né sdraiarmi.
+
+E non riuscivo a mangiare. Eppure, come vedete, ora sto meglio.
+
+
+
+#"Consolatore... triste e dolce allo stesso tempo. Sono troppo debole per esprimere ciò che provo; ma mentre..."
+
+Parli, e io davvero lo sento.
+
+
+
+#"Eccomi al tuo fianco, dove pensavo di non tornare mai più. Ora parlo..."
+
+A te… Ti vedo ascoltarmi con attenzione, mi guardi con gentilezza… Ho contato bene?
+
+Su quello? Sono disperato.
+
+
+
+Moore sospirò… un sospiro così profondo da sembrare quasi un gemito. Si coprì gli occhi.
+
+Con la sua mano.
+
+
+
+“Posso essere risparmiato affinché possa compiere qualche atto di espiazione?”
+
+
+
+Ecco quale era la sua [[prayer|preghiera]].
+
+
+
+“E per quale motivo?”
+
+
+
+“Non ne parleremo ora, Cary; per quanto io sia senza aiuti, non ho le…
+
+# La capacità di affrontare un argomento del genere… Era la signora Pryor con voi durante quel momento?
+
+“Malattia?”
+
+
+
+“Sì” – Caroline sorrise felicemente – “sai che lei è la mamma?”
+
+
+
+Titolo:  
+“L’ho sentito… Hortense me l’ha detto; ma anche questa storia la ascolterò direttamente da…”
+
+Te stesso. Ti rende più felice?
+
+
+
+“Cosa! Mamma… Lei è davvero molto cara per me; quanto, non so nemmeno come dirlo… Io…”
+
+Del tutto stanca, mi aiutò ad alzarmi.
+
+
+
+“Merito di sentirlo proprio in un momento in cui a malapena riesco a sollevare la mano…”
+
+“Testa. Me lo merito.”
+
+
+
+“Non è un rimprovero rivolto a te.”
+
+
+
+“È come se un carico di [[Fire|fuoco]] fosse stato gettato sulla mia testa; lo stesso vale per ogni parola che dite, ”
+
+# A me rivolto… e ogni sguardo che illumina il tuo dolce viso. Resta immobile.
+
+"Maggior vicino, Lina… e dammi la tua mano… anche se le mie dita sottili possano spaventarti."
+
+“Tu, davvero.”
+
+
+
+# Prese quelle dita sottili tra le sue due manine piccole; le piegò…
+
+Titolo:  
+Lei lo sfiorò con le labbra. (L’ho scritto in francese perché…)
+
+“La parola ‘effleurer’ è davvero squisita…” Moore ne fu profondamente commosso. Un grande…
+
+Una o due lacrime scorsero lungo la sua guancia scavata.
+
+
+
+“Le terrò sempre nel mio cuore, Cary… Quel bacio lo conserverò per sempre.”
+
+Ne sentirai parlare di nuovo un giorno.
+
+
+
+“Vienite fuori!” gridò Martin, aprendo la porta… “Andate via; avete già…”
+
+Venti minuti invece di un quarto d’ora.
+
+
+
+“Non si muoverà ancora, tu stupido.”
+
+
+
+“Non oso trattenermi oltre, Robert.”
+
+
+
+“Puoi promettermi che tornerai?”
+
+
+
+“No, non può farlo,” rispose Martin. “Questo comportamento non deve diventare una abitudine.”
+
+Non posso permettermi di essere disturbato. Questa volta è tutto molto [[Well|bene]]; non lo accetterò.
+
+“Ripetuto.”
+
+
+
+“Non te lo ripeterò più.”
+
+
+
+“Zitta! Non disturbarlo… Se non fosse stato per lui, oggi non ci saremmo incontrati. Ma io…”
+
+Tornerò ancora, se è questo il tuo desiderio.
+
+
+
+“È il mio desiderio, il mio unico desiderio, quasi l’unico desiderio che possa provare.”
+
+
+
+#"Proprio in questo momento… Mia madre ha tossito, si è alzata e ha messo i piedi…"
+
+“#Per favore, non fatela incontrare mentre siete sulle scale, signorina Caroline… Non è affatto una buona idea.”
+
+“Per dirgli addio… – intervenendo tra lei e Moore – devi…”
+
+“Marzo.”
+
+
+
+“Il mio scialle, Martin.”
+
+
+
+“L’ho preso. Te lo metterò quando sarai nell’atrio.”
+
+
+
+Li rese parte di sé. Non volle alcun addio, ma cosa si poteva fare…
+
+# espresso con lo sguardo. La portò quasi di peso giù per le scale…
+
+# La madre che le avvolgeva il scialle intorno al corpo…
+
+“Poi scricchiolò nella galleria… ma solo un senso di incertezza…”
+
+# Il nobile impulso del cuore di quel ragazzo – custodito con cura
+
+“Se l’avesse riportato indietro, avrebbe chiesto la sua ricompensa; avrebbe detto: ‘Ora…’”
+
+“Miss Caroline, per tutto questo dammi un bacio… Ma prima ancora che quelle parole fossero state pronunciate…”
+
+Le sue labbra si mossero mentre lei attraversava la nevosa [[Road|strada]], più che camminare, sembrava scivolare sopra di essa.
+
+Attraversando i banchi di neve.
+
+
+
+“Lei è mia debitrice, e io _verrò_ ripagato.”
+
+
+
+Si compiaceva pensando che fosse stata l’opportunità, e non l’audacia, a guidarlo in quella decisione.
+
+Gli è fallito. Ha sottovalutato la qualità della propria [[Nature|>natura]] e l’ha considerata.
+
+Qualcosa di più basso di quanto fosse prima.
+
 
 
 <span class="atom-split" data-atom="chapter_34--part_01" data-title="Shirley — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/crown,motif/death,motif/home,motif/nature,motif/night,motif/rose,motif/snow,motif/wind,concept/humility,concept/imagination,concept/nature,concept/self,character/sunday"></span>
@@ -97206,6 +107252,247 @@ in this weather. Mine was in such a rage because I would go to church;
 
 she was fit to fling the kitchen brush after me."
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Devozione alla cara vecchia chiesa madre… In questa mattina selvaggia, nessuno si è fermato per renderle omaggio.
+
+# Nessuna carrozza… solo famiglie presenti.
+
+Le panche imbottite erano vuote; solo sulle semplici sedie di quercia c’erano persone sedute in fila.
+
+Anziani dai capelli grigi e poveri deboli.
+
+
+
+“La disprezzerò se non viene,” mormorò Martin, brevemente e con decisione.
+
+Con violenza, per sé stesso. Il cappello a falda larga del rettore era già passato davanti al portico. Il signor.
+
+Helstone e il suo impiegato si trovavano nella sacrestia.
+
+
+
+Le campane smisero di suonare; la cattedra era piena; le porte.
+
+“Chiuso… il servizio è iniziato. La panca della canonica era vuota… lei non c’era.”
+
+Lì. Martin la disprezzò.
+
+
+
+“Cosa inutile! Cosa vuota e banale! Come tutte le altre…”
+
+“Le ragazze, deboli, egoiste, superficiali!”
+
+
+
+Ecco quale era la “liturgia” di Martin.
+
+
+
+“Non assomiglia affatto alla nostra immagine. I suoi occhi non sono grandi né espressivi…”
+
+Il naso non è dritto, né delicato, né di tipo greco; la bocca non possiede quel fascino che…
+
+Credevo di averlo fatto, e immaginavo che questo potesse alleviare la mia malinconia…
+
+# Peggior umore di sempre… Chi è lei? Un foglio di carta sottile, una bambola, un giocattolo… o una ragazza, davvero?
+
+“Corto.”
+
+
+
+Così assorbito era quel giovane cinico che dimenticò di alzarsi in piedi…
+
+Il luogo appropriato… e manteneva ancora un atteggiamento esemplare di devozione quando…
+
+Dopo che la [[litany|litania]] fu terminata, fu distribuito il primo [[Hymn|>Inno]]. Essere stati scoperti in quel modo, non era affatto facile da accettare.
+
+# Contribuire a calmarlo. Iniziò ad arrossire… poiché era estremamente sensibile a certe cose.
+
+# Ridicolo come qualsiasi altra ragazza… Per peggiorare le cose, la porta della chiesa era…
+
+Riaperto… e i corridoi si stavano riempiendo: ticchettio, ticchettio, ticchettio… centinaia di suoni.
+
+Piccoli piedini entrarono di corsa. Erano gli studenti del [[Sunday|domenica]]. Secondo quanto detto.
+
+Nel [[Winter|inverno]] di Briarfield, questi bambini erano stati tenuti fino ad ora in un luogo.
+
+C’era un caldo camino… e da lì si proseguiva direttamente verso la chiesa, poco prima dell’ingresso principale.
+
+Comunione e sermone.
+
+
+
+I più piccoli furono sistemati per primi, e infine, quando anche i ragazzi…
+
+Le ragazze più giovani erano tutte già destinate a qualcuno… quando l’organo suonava con intensità.
+
+Il coro e la congregazione si alzarono per intonare un canto spirituale, un.
+
+Una classe di giovani donne alte entrò silenziosamente, chiudendo la processione.
+
+Il maestro, dopo averli visti seduti, entrò nella panca riservata al preside.
+
+Il mantello di colore grigio scuro e il piccolo cappellino di castoro erano ben noti a Martin…
+
+Il costume stesso che i suoi occhi anelavano disperatamente a vedere… Ma la signorina Helstone non l’aveva.
+
+Soffrì la [[Storm|tempesta]] per dimostrare che non rappresentava un ostacolo. Dopotutto, era venuta proprio per questo.
+
+Chiesa. Probabilmente Martin sussurrò la sua soddisfazione al suo libro di [[Hymn|—inni]]; in quel momento.
+
+Comunque sia, si nascose il viso per due minuti.
+
+
+
+Sia che fosse soddisfatto o meno, aveva ancora il [[Time|tempo]] per arrabbiarsi di nuovo con lei prima.
+
+Il sermone era finito. Non aveva mai guardato nella sua direzione nemmeno una volta; almeno lui lo aveva fatto.
+
+Non sono stato così fortunato da ricevere uno sguardo da parte sua.
+
+
+
+“Se,” disse – “se lei non dovesse accorgersi di me, se dimostrasse che non esisto…”
+
+I suoi pensieri, avrò di lei un'opinione ancora peggiore, ancora più spregevole di prima.
+
+# La cosa più spregevole sarebbe farlo per il bene di quelle persone con facce da pecora
+
+Gli studiosi di [[Sunday|>Domenica]], non per il mio bene né per quel lungo [[skeleton|>scheletro]] di Moore.
+
+
+
+La predica terminò; la benedizione fu pronunciata;
+
+La congregazione si disperse. Lei non era stata nemmeno vicina a lui.
+
+
+
+Ora, davvero, mentre Martin si dirigeva verso casa, sentì che la nevisca stava aumentando…
+
+Acuto, e il vento dell’est freddo.
+
+
+
+Il percorso più breve passava attraverso alcuni campi… Ma era un percorso pericoloso.
+
+Sentiero inesplorato… A lui non importava: lo avrebbe percorso comunque. Vicino al secondo cancello…
+
+Una [[Rose|rosa]] tra un gruppo di alberi. Era forse un ombrello che aspettava lì? Sì, era proprio un.
+
+#Ombrello, tenuto con evidente difficoltà contro il vento forte; dietro di esso…
+
+“Agitò un mantello di colore grigio-ferro francese. Martin sorrise mentre si arrampicava su per la ripida…”
+
+Campo ostacolato, difficile da percorrere a piedi, simile a una pendenza nei regni superiori…
+
+# Di Etna. C’era uno sguardo indescrivibile sul suo volto quando, dopo aver ottenuto…
+
+#Il modo in cui si sedette lì, con calma, fu il segnale dell’inizio di qualcosa…
+
+Conferenza che, per quanto lo riguardava, lui stesso era disposto a prolungare.
+
+Per un periodo indeterminato.
+
+
+
+“Credo che sia meglio che facciate un accordo: scambiatemi per la signora Pryor.”
+
+
+
+“Non ero sicuro che saresti venuto da questa parte, Martin… ma ho pensato che lo avresti fatto.”
+
+#Correrei il rischio… Non esiste davvero la possibilità di avere una conversazione in privato.
+
+Parlato in chiesa o nel cimitero della chiesa.
+
+
+
+Titolo:  
+“Accetterete? Cedetemi la signora Pryor e lasciatela a mia madre…”
+
+“Gonne?”
+
+
+
+“Come se potessi capirti. Cosa ti fa pensare a Mrs. Pryor?”
+
+
+
+“La chiami ‘mamma’, vero?”
+
+
+
+“Lei è mia madre.”
+
+
+
+“Impossibile… O una madre così inaffidabile e negligente… Io lo farei io.”
+
+# Cinque volte meglio… Puoi anche ridere, non ho nulla in contrario a vederti.
+
+# Sorridi… I tuoi denti… Odio i denti brutti, ma i tuoi sono belli come perle.
+
+Collana… una collana la cui perle sono davvero belle, regolari e uniformi.
+
+Anche questi erano ben abbinati tra loro.
+
+
+
+“Martin, e ora cosa facciamo? Pensavo che i York non facessero mai complimenti, ”
+
+
+
+“Non l’hanno fatto fino a questa generazione… Ma mi sembra che sia mio dovere farlo.”
+
+# Vocazione per creare una nuova varietà della specie Yorke… Sono piuttosto…
+
+Stanco dei miei stessi antenati… Abbiamo tradizioni che risalgono a quattro generazioni fa.
+
+#Storie di Hiram… il figlio di Hiram… il figlio di…
+
+# Samuel, figlio di Giovanni, figlio di Zerubabel
+
+Yorke. Tutti, da Zerubabel fino all’ultimo Hiram, erano come quelli che vedete.
+
+#Mio padre… Prima di lui, c’era un Godfrey. Abbiamo la sua foto; è lì.
+
+# Appeso nella camera da letto di Moore… È come me. Di questo suo carattere, sappiamo…
+
+“Niente… ma sono sicuro che fosse diverso dai suoi discendenti. Lui aveva i capelli lunghi…”
+
+Capelli neri ondulati; è vestito con cura e disinvoltura. Detto questo…
+
+Poiché è come me, non c’è bisogno di aggiungere che sia anche bello.
+
+
+
+“Non sei affatto attraente, Martin.”
+
+
+
+“No; ma aspetta un attimo, lasciami prendere il mio [[Time|tempo]] prima. Intendo iniziare da, ”
+
+Questo è il giorno giusto per coltivare, per perfezionare. E vedremo cosa ne sarà.
+
+
+
+“Sei davvero un ragazzo molto strano, molto incomprensibile… Ma non…”
+
+Immagina di poter diventare bello un giorno, ma non è possibile.
+
+
+
+“Intendo provarci… Ma stavamo parlando della signora Pryor. Deve essere lei…”
+
+La madre più innaturale che esista… ha lasciato tranquillamente che sua figlia si dichiarasse apertamente.
+
+Con questo tempo… Il mio era furioso perché andavo in chiesa.
+
+Era così arrabbiata che avrebbe voluto lanciarmi la scopa da cucina addosso.
 
 
 
@@ -99197,6 +109484,228 @@ whom I [[Love|love]] that would accompany me; but I am certain Liberty will awai
 me, sitting under a pine. When I call her she will come to my loghouse,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Io; non mi sono limitato a desiderarlo, ma ho davvero intenzione di ottenere un’intervista con lei. Lo farò.
+
+Chiamai la [[Solitude|solitudine]] affinché ci proteggesse. Con decisione, chiamai Henry alla porta.
+
+Senza esitazione dissi: “Vai pure dove vuoi, mio ragazzo… ma aspetta che ti chiami.”
+
+“Tu, non tornare qui.”
+
+
+
+“Henry, a quanto pare, non gradì affatto quella rimozione. Quel ragazzo è giovane… ma…”
+
+Un pensatore… A volte i suoi occhi, pieni di riflessione, mi fissano in modo strano. Lui…
+
+Percebe ciò che mi lega a [[Shirley]]; intuisce, in parte, che esista qualcosa di ancora più prezioso.
+
+#Apprezzo molto il rispetto e la cortesia con cui vengo trattato, più di qualsiasi altra cosa.
+
+Gli affettuosi nomi che gli vengono dati. Il giovane leone zoppo, ancora semi-cresciuto, ringhierebbe.
+
+A volte si rivolge a me, perché ho domato la sua leonessa e ne sono il custode.
+
+# Non era forse la disciplina e l’istinto dell’affetto a guidarlo?
+
+#"Subdued… Vai, Henry; devi imparare ad accettare anche la tua parte di amarezza."
+
+#Vita con tutta l’umanità, passata e futura
+
+Tu. Il tuo destino non può essere un’eccezione alla sorte comune; sii grato.
+
+Che il tuo [[Love|amore]] venga trascurato così presto, prima ancora che possa esprimere qualcosa.
+
+Affinità per la passione: un’ora di ansia, un pungente senso di invidia, sono sufficienti per esprimerla.
+
+Quello che provi. La [[Jealousy|Invidia]], ardente come il sole sopra di noi, la rabbia distruttiva.
+
+Come la tempesta tropicale, il clima delle tue sensazioni, per ora, ignora tutto ciò che non è essenziale.
+
+
+
+“Mi sedetti al mio solito posto alla scrivania, nel modo abituale… Sono davvero fortunato.”
+
+“Nella capacità di nascondere ogni tumulto interiore con una calma esteriore… Nessuno.”
+
+# Chi osserva il mio volto serio può intuire che, a volte, dentro di me si agita un vortice di emozioni…
+
+#Cuore, pensieri avvincenti e saggezza distrutta… Che piacere è.
+
+Avere il dono di procedere pacificamente e con forza lungo il proprio percorso
+
+#Senza movimenti eccentrici che possano allarmare… Non era il mio momento attuale.
+
+L'intenzione di pronunciare anche solo una parola d'''amore''' per lei, o di rivelarle anche solo un barlume di.
+
+Il [[Fire|fuoco]] nel quale ho sprecato. Non sono mai stato presuntuoso; mai.
+
+# Mai lo farò. Piuttosto che sembrare egoista o interessato, preferirei…
+
+#"Alzarmi risolutamente, prepararmi e lasciarla per andare alla ricerca..."
+
+Al di là dell’orizzonte, una nuova vita… fredda e desolata come le rocce.
+
+“La marea salata la lava ogni giorno… Questa mattina il mio piano era… toglierle qualcosa che le era vicino.”
+
+“Scrutiny… per leggere una riga sulla pagina del suo cuore. Prima di andarmene…”
+
+Deciso a sapere _cosa_ stessi lasciando.
+
+
+
+#"Avevo alcune piume da trasformare in penne… Le mani della maggior parte degli uomini le avrebbero utilizzate così."
+
+“Tremavano quando i loro cuori erano così commossi; il mio, invece, continuava a funzionare regolarmente.”
+
+E la mia voce, quando la utilizzavo, era ferma.
+
+
+
+“Questo giorno, questa settimana, sarai sola a Fieldhead, signorina Keeldar.”
+
+
+
+“Sì: penso proprio che l’intenzione di mio zio di andarsene sia ormai irrevocabile.”
+
+
+
+“‘Ti lascia insoddisfatto.’”
+
+
+
+“Non è soddisfatto di me.”
+
+
+
+“Se ne va esattamente come è arrivato. Niente di meglio per il suo [[Journey|Viaggio]]. È davvero umiliante.”
+
+
+
+#"Spero che il fallimento dei suoi piani gli tolga ogni desiderio di…"
+
+“Posizionarne di nuove.”
+
+
+
+“Nel suo modo, il signor Sympson sinceramente desiderava che tu stessi bene. Tutto ciò che ha fatto, ”
+
+Intendeva fare ciò che riteneva fosse la cosa migliore.
+
+
+
+#"È gentile da parte tua assumerti la difesa di un uomo che ha permesso..."
+
+Si è comportato in modo così irrispettoso nei tuoi confronti.
+
+
+
+#"Non mi sorprendo mai, né provo rancore per ciò che viene detto..."
+
+Personaggio… E il modo in cui si comportava era davvero perfettamente in linea con il suo carattere: volgare e violento.
+
+L’attacco contro di me è avvenuto proprio quando lui si era allontanato da te sconfitto.
+
+
+
+“Ora smetti di essere l’insegnante privato di Henry?”
+
+
+
+"#Per un po’ dovrò separarmi da Henry… (se entrambi sopravviviamo, ci rivedremo)"
+
+Rivederci di nuovo in qualche modo, perché ci [[Love|amiamo]], anche se siamo stati allontanati l’uno dall’altro.
+
+Titolo:  
+Per sempre nella famiglia Simpson… Fortunatamente, questo cambiamento non mi lascia sola.
+
+Imprigionato, si affretta soltanto a realizzare progetti di esecuzione prematura che aveva già concepito da tempo.
+
+
+
+#"Nessun cambiamento ti coglie di sorpresa… Ne ero certo, nel tuo modo calmo e tranquillo…"
+
+#Sarei pronto ad affrontare una mutazione improvvisa… Penso sempre che tu sia lì, al mio fianco.
+
+Il mondo è come un arciere solitario ma attento e riflessivo, nascosto nella foresta… E il
+
+“La faretra sul tuo petto contiene più frecce di quante ne possa usare; il tuo arco è sempre pronto all’uso.”
+
+Con un secondo filo… Anche tuo fratello agisce così. Voi due potreste andare insieme.
+
+Cacciatori senza fissa dimora, verso le più desolate lande selvagge dell’Ovest. Tutti sarebbero stati [[Well|benissimo]].
+
+Con te… L’albero tagliato potrebbe servire per costruire una capanna, e la foresta disboscata fornirebbe il materiale necessario.
+
+#I campi che ne sgorgano dal petto nudo… il bufalo li percepirebbe tutti.
+
+Colpi di fucile. E con le corna abbassate e il dorso inarcato, rendono omaggio ai tuoi piedi.
+
+
+
+"#Qualsiasi tribù indiana di Blackfeet o Flatheads ci avrebbe offerto..."
+
+“Sposa, forse?”
+
+
+
+“‘No’ (esitando), ‘Penso di no. Il selvaggio è spregevole… Penso che…”
+
+Titolo:  
+Spero davvero che nessuno di voi voglia condividere il proprio focolare con quella persona…
+
+Qualcosa che non avresti mai potuto donare con il tuo cuore.
+
+
+
+“Cosa vi ha fatto pensare al selvaggio Ovest, signorina Keeldar? Avete forse…”
+
+“Con me, nello spirito, quando non ti vedevo… Sei entrato nella mia anima?”
+
+Sogni diurni. E ho visto il mio cervello lavorare instancabilmente alla concezione di quel futuro.
+
+
+
+#Un foglietto per le candele…
+
+veniva spezzata in frammenti. Lei gettava pezzo dopo pezzo nel [[Fire|fuoco]], e.
+
+Stava lì in piedi, a guardarli mentre li consumavano. Non disse nulla.
+
+
+
+“Come hai fatto a conoscere ciò che sembri sapere riguardo alle mie intenzioni?”
+
+
+
+“Non so nulla. Le sto scoprendo solo ora. Ho parlato a caso.”
+
+
+
+"#Un insegnante come te… non lo sarò mai più."
+
+# Mai prendere un allievo dopo Henry e te… Non sedermi più mai in quella posizione.
+
+Abitualmente seduto al tavolo di un altro uomo, più non essere un semplice membro di una famiglia.
+
+# Trent'anni ormai… Non sono mai stato libero da quando ero un bambino
+
+Ten. Ho una tale sete di [[Freedom|libertà]], un’ardente passione per conoscerla.
+
+E chiamarla mia. Un tale desiderio, una tale brama di conquistarla.
+
+Se dovesse possederla, non rifiuterei di attraversare l’Atlantico per lei. Lei è tutto per me.
+
+“Si addentrerà nelle profonde foreste vergini… Ma il mio scopo non è certo quello di accettare…”
+
+“Ragazza selvaggia come schiava… Non poteva certo diventare una moglie. Non conosco nessuna donna bianca…”
+
+Chi amo, quel che mi accompagna. Ma sono certo che la Libertà mi aspetterà.
+
+Io, seduto sotto un pino… Quando la chiamo, verrà nella mia capanna di tronchi.
+
 
 
 <span class="atom-split" data-atom="chapter_36--part_03" data-title="Shirley — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/orphan,motif/death,motif/love,motif/moon,motif/nature,motif/seasons,concept/beauty,concept/doubt,concept/nature,concept/pride,concept/solitude,concept/suffering,concept/truth,concept/wonder,form/satire,setting/court,character/speed"></span>
@@ -100933,6 +111442,214 @@ bringing to condign punishment the would-be assassin of Mr. Robert
 Moore. Here was a fine opening to lead my willing readers a [[Dance|dance]], at
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XXXVII.
+
+
+
+La conclusione.
+
+
+
+
+
+Sì, lettore, ora dobbiamo sistemare le cose. Ho solo poco tempo per raccontare…
+
+Il destino finale di alcuni dei personaggi che abbiamo conosciuto
+
+“In questa narrazione, tu ed io dobbiamo stringerci la mano… e poi…”
+
+Presentati separatamente.
+
+
+
+Passiamo ora ai curati: quelli tanto amati, sebbene a lungo trascurati.
+
+“Avanti, modesto merito… Malone, vedo, risponde prontamente.”
+
+Invocazione. Lui riconosce perfettamente la propria descrizione quando la sente.
+
+
+
+No, Peter Augustus; non abbiamo nulla da dirti. Non va bene così.
+
+# Impossibile fidarsi di noi stessi… nella commovente storia delle tue imprese.
+
+Destini… Non ti rendi conto, Peter, che un pubblico attento e critico…
+
+Le sue stranezze; il fatto che la cruda [[Truth|verità]] non dia risposte a queste domande; la semplicità stessa.
+
+#Fatti che non vengono digeriti… Non sai forse che il grido del vero maiale…
+
+#Ora non è più apprezzato come un tempo? Se dovessi dare…
+
+“La catastrofe della tua vita e delle tue conversazioni… il pubblico ne sarebbe travolto.”
+
+# Grido isterico e pianti disperati… e qualcuno avrebbe chiesto disperatamente del cloroformio.
+
+#"Piume bruciate"... Qui si direbbe "Impossibile!", si esclamerebbe "Falso!".
+
+Viene risposto lì; “inautentico!” viene deciso solennemente. Notate bene.
+
+Ogni volta che si presenta la vera e semplice [[Truth|_verità]], in qualche modo, sempre.
+
+Denunciato come una menzogna… lo rinnegano, lo scartano, lo abbandonano.
+
+Mentre il prodotto della propria [[Imagination|immaginazione]], semplicemente un'illusione, nulla di più.
+
+Fiction viene adottata, coccolata, definita bella, appropriata, dolcemente naturale…
+
+“Quel piccolo miserabile e disonesto riceve tutte le ricompense, mentre i onesti e rispettosi della legge…”.
+
+“Bantling tutti i polsini… Ecco come va il mondo, Peter…”
+
+# Sono davvero degli orsacchioli legittimi, scortesi, sporchi e dispettosi… allora devi stare attento!
+
+Giù.
+
+
+
+Fate spazio al signor Sweeting.
+
+
+
+Eccolo arrivare, con la sua donna al braccio… il più splendido di tutti.
+
+La donna più pesante dello Yorkshire: la signora Sweeting, ex signorina Dora Sykes.
+
+Si sposarono sotto i più felici auspici: il signor Sweeting…
+
+Appena entrato in una condizione di vita confortevole, il signor Sykes…
+
+# Circostanze che permisero a Dora di ricevere una generosa parte dell’eredità. Vissero a lungo…
+
+Felici insieme, amati dai loro parrocchiani e da un numeroso circolo di persone.
+
+di amici.
+
+
+
+Ecco! Penso che la vernice sia stata applicata molto bene.
+
+
+
+Avanti, signor Donne.
+
+
+
+Questo gentiluomo si è rivelato davvero eccezionale… molto meglio di entrambi noi.
+
+#Un matrimonio del tutto prevedibile…
+
+Una donna tranquilla e gentile… Quell’incontro fu decisivo per lui. Lui…
+
+Divenne un esempio di figura domestica modello e un parroco davvero attivo nella sua comunità.
+
+Come pastore, fino alla fine dei suoi giorni rifiutò con coscienza di agire in quel modo.
+
+Titolo:  
+Al di fuori della coppa e del piatto che lucidò con il meglio…
+
+Polvere per lucidare; i mobili dell’altare e del tempio di cui si prendeva cura
+
+Con lo zelo di un tappezziere, la cura di un falegname… Il suo piccolo…
+
+Scuola, la sua piccola chiesa, la sua piccola canonica: tutto ciò fu costruito grazie a lui.
+
+A lui; e gli resero giustizia. Ognuno di loro era un esempio nel proprio campo. Se
+
+“Uniformità e gusto nell’architettura erano sinonimi di…”
+
+“Coerenza ed impegno nella religione: che esempio di pastore cristiano”.
+
+Una folla tale che il signor Donne l’avrebbe ammirata… C’era davvero un’arte nella capacità di radunare così tante persone.
+
+Niente al mondo mortale poté mai eguagliare il signor Donne in questo: nell'arte di chiedere l’elemosina.
+
+Con i suoi soli sforzi, riuscì a ottenere tutti i soldi di cui aveva bisogno.
+
+Erezioni: in questa materia, possedeva una chiara concezione dei piani da seguire e un chiaro ambito d’azione.
+
+Davvero unico… Chiese aiuto a tutti, dai ricchi ai poveri, persino a quel ragazzo senza scarpe che viveva in una capanna.
+
+#E il duca incoronato… Inviò lettere di supplica in ogni direzione, anche ai vecchi…
+
+[[Queen|Regina]] Carolina, alle principesse sue figlie, ai suoi figli, la famiglia reale.
+
+# Duchi, al Principe Reggente, a Lord Castlereagh, a tutti i membri del…
+
+Il ministero all’epoca era al potere; e, cosa ancora più sorprendente, lui ne approfittò a proprio vantaggio.
+
+#Qualcosa in ognuno di questi personaggi… È registrato che lui…
+
+Ottenne cinque libbre dalla tirchia vecchia signora [[Queen|Regina]] Carolina, e due.
+
+Guinee provenienti dallo spreco regale… al suo figlio maggiore. Quando il signor Donne iniziò il suo viaggio…
+
+#In spedizioni di mendicanza, si equipaggiò con un intero setto di armature di bronzo
+
+#Mail… Quelle cent sterline che gli avevi dato ieri erano con lui.
+
+#Il motivo per cui non dovresti dare duecento in un giorno… Lui te lo spiegherebbe così.
+
+“In faccia a te, e con ogni probabilità riusciranno a farti pagare. Le persone davano…”
+
+“Liberatevi di lui… Dopotutto, ha fatto qualcosa di positivo con quei soldi.”
+
+Utile nel suo tempo e nella sua generazione.
+
+
+
+“Forse dovrei osservare che la scomparsa prematura e improvvisa di…”
+
+#Il signor Malone dal pulpito della parrocchia di Briarfield…
+
+È successo, lettore. La tua curiosità deve essere “sacrificata” per poter soddisfare il tuo elegante [[Love|amore]].
+
+#Di quello bello e piacevole… arrivò come suo successore un altro irlandese
+
+Curato, signor Macarthey. Sono lieto di potervi comunicare, con…
+
+Titolo:  
+“La verità è che questo gentiluomo ha reso il proprio paese altrettanto onorevole quanto Malone”
+
+#Lo aveva dimostrato: era una persona onesta, rispettabile e…
+
+#Coscienzioso com’era Peter, era anche irruento e… rumoroso.
+
+# Epiteto che scelgo di omettere… perché potrebbe rivelare troppo.
+
+Bag. Lavorò con fedeltà nella parrocchia. Le scuole, sia quelle del [[Sunday|)domenica]] che.
+
+Scuole diurne: fiorirono sotto il suo dominio come gli alberi di ginepro verde.
+
+Uomo… naturalmente aveva i suoi difetti. Ma questi erano difetti “normali”, tipici di un essere umano.
+
+# Mancanze burocratiche e costanti… ciò che molti definirebbero virtù.
+
+# Invitato a prendere il tè con un dissidente…
+
+# Unhinge him per una settimana… Lo spettacolo di un Quaker che indossa il suo cappello…
+
+# Chiesa: il pensiero che un essere umano non battezzato venga sepolto lì dentro
+
+I riti cristiani, queste cose potevano causare davvero grandi disastri nel signor.
+
+Macarthey: l’economia fisica e mentale… Altrimenti, era sano di mente.
+
+Razionale, diligente e caritatevole.
+
+
+
+I [[Doubt|>dubbi]] non fanno pensare che un pubblico amante della giustizia abbia mai osservato, fino ad ora, che io.
+
+Finora hanno dimostrato una grave negligenza nel perseguire e catturare…
+
+# Condannare alla giusta punizione l’assassino tentato di uccidere il signor Robert
+
+Moore. Ecco un’ottima opportunità per guidare i miei lettori desiderosi in un vero e proprio “danzo”, attraverso.
+
 
 
 <span class="atom-split" data-atom="chapter_37--part_02" data-title="Shirley — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/bells,motif/blood,motif/dance,motif/fire,motif/home,motif/horse,motif/river,motif/rose,motif/snow,motif/soul,motif/spring,motif/storm,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/fear,setting/mountains,character/caroline_helstone,character/michael,character/sebastian"></span>
@@ -101892,6 +112609,226 @@ dresses. Mrs. Robert was quieter like. Mrs. Louis smiled when she
 
 talked. She had a real, happy, glad, good-natured look; but she had een
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Questa guerra _deve_ presto concludersi. Il commercio, probabilmente, ne trarrà beneficio.
+
+“Alcuni anni a venire… Potrebbe verificarsi un breve malinteso tra…”
+
+Inghilterra e [[america|America]], ma questa situazione non durerà a lungo. Cosa penseresti se.
+
+Un giorno… forse entro altri dieci anni… Louis e io ci separeremo.
+
+“La parrocchia di Briarfield… tra noi? Comunque sia, Louis è certo del proprio potere.”
+
+# Ricchezza e proprietà… Ma non seppellirà mai i propri talenti. È davvero una brava persona.
+
+E inoltre, possiede un’intelligenza di tutto rispetto.
+
+La mente è lenta, ma potente. Deve funzionare… Può farlo in modo deliberato, ma deve comunque agire.
+
+Funzionerà bene. Lo renderanno magistrato del distretto, dice [[Shirley]].
+
+Titolo:  
+Lo farà. Lei agirebbe con impulsività e prematuramente per ottenerlo.
+
+“Gli viene offerta questa dignità, se solo lui la accettasse… ma non lo farà. Come al solito…”
+
+Non si affretterà mai. Prima che sia diventato padrone di Fieldhead per un anno intero…
+
+Il distretto sentirà la sua influenza silenziosa e riconoscerà la sua umiltà.
+
+Superiorità. C’è bisogno di un magistrato; col tempo, gli verrà conferita tale autorità.
+
+#Con dedizione e senza esitazioni… Tutti ammirano il suo futuro.
+
+Moglie, e tutti, col tempo, lo ameranno come lui. Lui appartiene a quella categoria di persone particolari.
+
+Titolo:  
+Generalmente approvato, “buono come il pane” – il cibo quotidiano per la maggior parte delle persone.
+
+# Pretenzioso, benefico per neonati e anziani, nutriente per i poveri
+
+Salutare solo per i ricchi. [[Shirley]], nonostante le sue capricci e stranezze.
+
+# Distrazioni e ritardi… ma ha un’infatuata tenerezza per lui. Un giorno…
+
+Lo vedono come un personaggio amato da tutti, proprio come lei potrebbe desiderare… Anche lui sarà così.
+
+Ammirato universalmente, consultato spesso, su cui si faceva affidamento, troppo spesso.
+
+Il suo consiglio sarà sempre sagace, il suo aiuto sempre gentile e disinteressato.
+
+#Entrambi saranno in una situazione scomoda… Dovrà imporre le sue condizioni.
+
+Restrizioni. Per quanto mi riguarda, se riuscirò nel modo in cui intendo farlo, il mio [[success|successo]] sarà.
+
+Aggiungere questo al reddito suo e di [[Shirley]]. Posso raddoppiare il valore della loro fabbrica.
+
+“Proprietà… Potrei riempire quella desolata valle di file e file di casette…”
+
+#"File di giardini rustici----"
+
+
+
+“Robert! E sradica quei cespugli?”
+
+
+
+“Entro cinque anni quei boschetti saranno diventati legna da ardere… La bella natura selvaggia…”
+
+“La valle sarà una discesa dolce; il terrazzamento naturale verde costituirà…”
+
+Strada lastricata… Ci saranno casette nella valle oscura, e casette…
+
+# Sulle solitarie pendici… Il sentiero accidentato e pieno di ciottoli diventerà liscio e stabile.
+
+Una larga, nera, fuligginosa [[Road|strada]], coperta di cenere proveniente dalla mia macina. E la mia.
+
+Mill, Caroline, il mio mulino riempirà lo spazio che attualmente occupa.
+
+
+
+“Terribile! Cambierete l’aria fresca e azzurra della nostra regione collinare in qualcosa di simile a Stilbro’, ”
+
+Un’atmosfera piena di fumo.
+
+
+
+“Farò scorrere le acque del Pactolus attraverso la valle di Briarfield.”
+
+
+
+“Mi piace molto di più il ‘beck’.”
+
+
+
+#"Approverò una legge per recintare la zona di Nunnely Common e suddividerla in lotti."
+
+“Nelle fattorie.”
+
+
+
+“Ma Stilbro’ Moor ti sfida, grazie al cielo… Cosa puoi coltivare lì?”
+
+Muschio di mirtillo? Cosa crescerà rigogliosamente su Rushedge?
+
+
+
+#"Caroline: coloro senza casa, i affamati, i disoccupati verranno..."
+
+“Hollow’s Mill: da lontano e da vicino… E Joe Scott gli fornirà lavoro.”
+
+[[Louis Moore]], Esq., li affitterà un alloggio, e la signora Gill si occuperà di distribuirlo.
+
+Dategli una parte del salario fino al primo giorno di pagamento.
+
+
+
+Lei gli sorrise in faccia.
+
+
+
+“Una scuola domenicale del genere, come quella che avrai tu, Cary, raccolte del genere, ”
+
+Lo avrò! Una scuola diurna come quella che avrete tu, [[Shirley]] e la signorina Ainley.
+
+#Come gestirvi tra voi… La fabbrica provvederà ai salari del maestro e degli altri…
+
+# La padrona di casa e il gentiluomo… o il mercante di tessuti offriranno una festa una volta al mese
+
+“Quarto.”
+
+
+
+# Un bacio offerto in silenzio… un’offerta sfruttata ingiustamente.
+
+Estorsione di circa cento baci.
+
+
+
+“Sogni notturni stravaganti, ”, disse Moore, sospirando e sorridendo, “eppure, ”
+
+Forse possiamo realizzarne alcuni. Nel frattempo, la rugiada sta cadendo. Signora.
+
+“Moore, ti prenderò con me.”
+
+
+
+*       *       *       *       *
+
+
+
+È agosto. Le campane suonano di nuovo, non solo in Yorkshire, ma.
+
+#Attraverso l’Inghilterra… Dalla Spagna risuona da tempo la voce di una tromba; essa…
+
+Ora diventa sempre più forte; annuncia la vittoria di Salamanca. Questa [[Night|notte]] è.
+
+"Briarfield sarà illuminata. In questo giorno, gli inquilini di Fieldhead pranzeranno..."
+
+#Insieme; i lavoratori della fattoria di Hollow verranno radunati per un evento simile
+
+Scuole che si godono una grande festa… Questa mattina…
+
+Due matrimoni celebrati nella chiesa di Briarfield: Louis Gérard Moore, Esq.
+
+Nata ad Anversa, per [[Shirley]], figlia del defunto Charles [[Cave]] Keeldar.
+
+Signor Robert Gérard Moore di Fieldhead; Signor Robert Gérard Moore di Hollow’s Mill, a
+
+# Caroline, nipote del reverendo Matthewson Helstone, M.A., rettore di…
+
+Briarfield.
+
+
+
+La cerimonia fu eseguita, inizialmente, dal signor Helstone.
+
+# Hiram Yorke, Esq., di Briarmains, che accompagna la sposa all’altare… nella seconda parte.
+
+In quell’occasione, il signor Hall, parroco di Nunnely, presiedette la cerimonia. Tra gli invitati c’erano anche i membri della famiglia della sposa…
+
+I due personaggi più evidenti erano i giovani testimoni di nozze.
+
+Henry Sympson e Martin Yorke.
+
+
+
+Suppongo che le profezie di [[Robert Moore]] siano state, almeno in parte, realizzate.
+
+Un giorno, ho attraversato la Valle Ombrosa… Si dice che un tempo fosse qualcos’altro…
+
+Verde, solitario e selvaggio. Lì vidi i sogni diurni del produttore.
+
+# Incarnato in pietra, mattoni e cenere… nero come la fuliggine
+
+#Strada maestra, le casette e i giardini delle casette… Lì vidi qualcosa di davvero imponente.
+
+“Una macina… e un camino altrettanto imponente quanto la Torre di Babele. Gliel’ho detto al mio vecchio…”
+
+Quando sono tornato a [[Home|casa]], la governante era ancora lì, dove aveva sempre lavorato prima.
+
+
+
+“Ah,” disse lei, “questo mondo subisce strani cambiamenti… Ricordo ancora il passato…”
+
+# La prima fabbrica di mulini nella zona… e poi io
+
+Ricordo che fu tolto giù e portato via insieme alle mie ragazze del lago…
+
+#"Compagni per assistere alla posa della pietra angolare della nuova costruzione. I due"
+
+#Mr. Moore scatenò un grande clamore al riguardo. Erano lì, e… molto di più.
+
+“Persone perbene, oltre alle loro signore… davvero belle e distinte.”
+
+“Ma la signora Louis era davvero la più elegante… Indossava sempre abiti così bellissimi.”
+
+“Gonne… La signora Robert sembrava più tranquilla… La signora Louis sorrise quando…”
+
+# Parlava… Aveva un’espressione davvero felice, serena e gentile; ma aveva anche…
 
 
 

@@ -6445,6 +6445,104 @@ though very difficult, to frame in few words some idea of what
 happened to the whole European race.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Nessuno è mai stato capace di essere imparziale riguardo a quella rivoluzione.
+Il sottoscritto non farà alcuna vana pretesa di esserlo.
+Che essa sia stata la più rivoluzionaria delle rivoluzioni, poiché
+identificò il [[Body|corpo]] morto su un patibolo servile con la paternità nei
+cieli, è da tempo un luogo comune senza smettere di essere un [[Paradox|paradosso]].
+Ma c'è un altro elemento storico che deve essere compreso.
+Senza dire nulla di più della sua tremenda essenza, è
+molto necessario notare perché anche la Roma pre-cristiana fu considerata
+qualcosa di mistico molto tempo dopo da tutti gli uomini europei.
+L'estremo punto di vista forse lo ebbe [[Dante]]; ma esso
+si diffuse nel medioevo, e quindi ancora infesta la modernità.
+Roma era considerata l'Uomo, potente sebbene caduto, perché essa
+era il massimo che l'uomo avesse fatto. Era divinamente necessario
+che l'impero romano riuscisse -- anche solo per poi fallire.
+Perciò la scuola di [[Dante]] implicava il [[Paradox|paradosso]] che i soldati romani
+uccisero [[Christ|Cristo]], non solo con ragione, ma addirittura per diritto divino.
+Affinché la mera legge potesse fallire alla sua massima prova essa doveva essere vera legge,
+e non semplice anarchia militare. Perciò Dio operò tramite Ponzio
+Pilato come fece con Pietro. Per questo il poeta medievale è ansioso di dimostrare che
+il [[government|governo]] romano era semplicemente un buon [[government|governo]], e non una usurpazione.
+Perché fu tutto il punto della rivoluzione cristiana
+sostenere che in questo, un buon [[government|governo]] era tanto cattivo quanto uno scarso.
+Anche un buon [[government|governo]] non era abbastanza buono da riconoscere Dio tra i ladri.
+Questo è importante non solo in generale perché comporta una colossale
+trasformazione nella [[Conscience|coscienza]]; la perdita di tutto il riposo pagano
+nella completa sufficienza della [[City|città]] o dello stato.
+Creò un genere di regola eterna che racchiudeva una ribellione eterna.
+Deve essere incessantemente ricordato attraverso la prima metà
+della storia inglese; perché è l'intero significato della contesa
+tra i sacerdoti e i re.
+
+La regola [[Double|duplice]] della civiltà e della religione, in un certo senso,
+è rimasta per secoli; e prima che sopraggiungessero le prime disgrazie,
+bisogna concepirla come sostanzialmente la stessa ovunque.
+E comunque sia iniziata, è finita in gran parte nell'uguaglianza.
+La [[Slavery|schiavitù]] esisteva certamente, così come era esistita negli stati più democratici
+dell'antichità. L'ufficialismo duro esisteva certamente,
+così come esiste negli stati più democratici dei tempi moderni.
+Ma non c'era nulla di ciò che intendiamo ai giorni nostri per aristocrazia,
+e ancor meno di ciò che intendiamo per dominazione razziale. Per quanto
+qualche cambiamento stesse attraversando quella società con i suoi due livelli
+di cittadini uguali e schiavi uguali, era solo la lenta crescita
+del potere della Chiesa a scapito del potere dell'Impero.
+Ora è importante capire che la grande eccezione all'uguaglianza,
+l'istituzione della [[Slavery|schiavitù]], fu lentamente modificata da entrambe le cause.
+Fu indebolita sia dall'incedere del declino dell'Impero, sia dal
+rafforzamento della Chiesa.
+
+La [[Slavery|schiavitù]] non fu per la Chiesa una difficoltà di dottrina,
+ma uno sforzo di [[Imagination|immaginazione]].  Aristotele e i saggi pagani
+che avevano definito le arti servili o "utili", consideravano lo schiavo
+come un utensile, un'ascia per tagliare la legna o qualsiasi altra cosa che andasse tagliata.
+La Chiesa non denunciava il fatto di tagliare; ma sentiva come se stesse
+tagliando il vetro con un diamante.  Era ossessionata dal [[Memory|ricordo]]
+che il diamante è molto più prezioso del vetro.
+Così la [[Christianity|cristianità]] non poteva rassegnarsi alla semplicità pagana
+che l'uomo fosse fatto per il lavoro, quando il lavoro era così tanto
+meno immortale e importante dell'uomo.  A questo punto di una
+[[history|storia]] d'Inghilterra si racconta generalmente l'aneddoto di un gioco di parole
+di Gregorio Magno; e forse questo è il vero senso.
+Secondo la teoria romana i servi barbari dovevano essere utili.
+Il misticismo del santo fu commosso nel trovarli ornamentali;
+e "Non Angli sed Angeli" significava più vicino a "Non schiavi, ma anime."
+È utile notare al riguardo che nel paese moderno
+più collettivamente cristiano, la [[Russia]], i servi della gleba erano sempre chiamati
+"anime". La frase del grande Papa, anche se ormai banale, è forse
+il primo barlume degli aurei aloni nella migliore Arte Cristiana.
+Così la Chiesa, con qualsiasi altro difetto, operava per sua [[Nature|natura]]
+verso una maggiore uguaglianza sociale; ed è un errore storico
+supporre che la gerarchia della Chiesa lavorasse con le aristocrazie,
+o fosse simile a loro.  Era l'inversione dell'aristocrazia;
+nell'ideale, almeno, gli ultimi dovevano essere i primi.
+Il paradosso irlandese che "Un uomo è tanto buono quanto un altro e molto
+più buono" contiene una [[Truth|verità]], come molte contraddizioni;
+una [[Truth|verità]] che fu il legame tra la [[Christianity|cristianità]] e la cittadinanza.
+[[Alone|Solo]] tra tutti i superiori, il santo non deprime la dignità umana degli altri.  Non è
+consapevole della sua superiorità su di loro;
+ma solo più consapevole della sua inferiorità rispetto a loro.
+
+Ma mentre un milione di piccoli sacerdoti e [[Monks|monaci]] come topolini stavano già
+rosicchiando i legami dell'antica servitù, procedeva un altro processo,
+che qui è stato chiamato l'affievolimento dell'Impero.
+È un processo che ancora oggi è molto difficile da spiegare.
+Ma ha influenzato tutte le istituzioni di tutte le province,
+specialmente l'istituzione della [[Slavery|schiavitù]]. Ma di tutte le province il suo
+effetto fu più pesante in Britannia, che si trovava ai confini o oltre i confini.
+Il caso della Britannia, tuttavia, non può essere considerato [[Alone|singolarmente]].
+La prima metà della [[history|storia]] inglese è stata resa del tutto priva di significato
+nelle scuole dal tentativo di raccontarla senza riferimento
+alla Cristianità collettiva in cui essa partecipò e si [[Pride|orgogliò]].
+Accetto pienamente la [[Truth|verità]] della domanda di Mr. Kipling: "Che cosa possono sapere dell'Inghilterra coloro che conoscono solo l'Inghilterra?" e mi discosto
+solo dal punto di vista secondo cui è meglio ampliare le proprie vedute studiando
+Wagga-Wagga e Timbuctù. È quindi necessario,
+anche se molto difficile, delineare in poche parole un'idea di ciò che
+accadde a tutta la razza europea.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_03" data-title="A Short History of England — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/supernatural,motif/time,concept/history,concept/slavery,form/history,histref/catholic_church,setting/denmark,setting/london"></span>

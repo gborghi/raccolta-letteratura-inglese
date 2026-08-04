@@ -2,13 +2,13 @@
 title: "To Mrs. F.S. Cooper"
 author: "Dickinson"
 unitType: work
-parentWork: "works/joy-·-animals-·-comic-verse-song-(dickinson)"
+parentWork: "works/joy-·-animals-·-comic-verse-song-(keats)"
 tags:
   - graph/excerpt
   - author/Dickinson
 ---
 
-<div class="atom-reader" data-work="testi/dickinson/atomized/joy-animals-comic-verse-song" data-author="Dickinson" data-workhref="works/joy-·-animals-·-comic-verse-song-(dickinson)"></div>
+<div class="atom-reader" data-work="testi/dickinson/atomized/joy-animals-comic-verse-song" data-author="Dickinson" data-workhref="works/joy-·-animals-·-comic-verse-song-(keats)"></div>
 
 
 <span class="atom-split" data-atom="0036_snow_flakes" data-title="36. Snow flakes." data-chapter="" data-kind="intro" data-tags="motif/winter,motif/nature,concept/joy,concept/wonder_and_gratitude,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>

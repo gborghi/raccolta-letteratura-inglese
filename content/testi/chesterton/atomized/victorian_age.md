@@ -16606,6 +16606,183 @@ virtue in it. The feelings of the bad husband about the good wife, for
 instance, are about as subtle and entangled as any matter on this earth;
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Affinché possiamo sollevare ciò che è sepolto nella [[Dust|polvere]],”
+
+# Una voce per chi ascolta
+
+# Un grido al di sopra degli anni conquistati
+
+Di qualcuno che lavora sempre con fiducia.
+
+Il poema avrebbe dovuto essere un grido che si elevi al di sopra degli anni conquistati. Forse sarebbe stato davvero efficace.
+
+# Se solo il poeta avesse potuto concludere in modo deciso…
+
+“Un vero e proprio dogma… Ho dimenticato ogni tratto del viso di quell’uomo.”
+
+“So che Dio lo mantiene in vita…”, ma sotto l’influenza di semplici circostanze…
+
+“La lunghezza disinvolta di questo testo permette al lettore di assaporarlo appieno…”
+
+l'impressione che la ferita sia stata guarita soltanto con il passare del [[Time|tempo]]; e che.
+
+# Victor Hours può vantarsi di essere l’uomo che ha amato e perso… ma…
+
+Tutto ciò che è rimasto è ormai logoro. Questo non è la verità]; e Tennyson non lo ha mai detto.
+
+Intenderlo nella sua [[Truth|verità]]. È semplicemente il risultato della mancanza di.
+
+Qualcosa di militante, dogmatico e strutturale in lui: il che gli impediva di…
+
+Titolo:  
+Essere incaricati di seguire le tracce di un lungo processo letterario… senza interferenze.
+
+Intrecciandosi come un gattino che gioca al “letto di gatto”.
+
+Come suggerito in precedenza, Browning andò molto meglio d’accordo con quell’uomo eccentrico e…
+
+Un Inghilterra remota e solitaria… perché lui la considerava eccentrica e isolata.
+
+Un luogo dove si poteva fare ciò che si voleva… In larga misura, lui lo faceva davvero.
+
+Fare ciò che gli piaceva; suscitando non poche lamentele, oltre a molte dubbi…
+
+#Ipotesi su perché, per l’amor del cielo, gli piacesse… Molte, in realtà.
+
+Persone compassionevoli si chiedevano quale piacere potesse procurare a un uomo…
+
+Scrivi “Sordello” o compone una rima che collegi “fine del nodo” con “non offendere”. Eppure…
+
+Non era un anarchico né un mistagogo; e anche nei suoi difetti, c’era…
+
+Il difetto è stato spesso descritto in modo errato. Le due principali accuse rivolte contro…
+
+In lui c'era un disprezzo per le formalità indegno di un [[artist|artista]], e una scarsa [[Pride|orgoglio]] nel.
+
+Oscurità. Quell’oscurità è reale, anche se, penso, non c’è alcuna [[Pride|orgoglio]] in essa.
+
+Ma la [[Truth|verità]] riguardo a questa accusa emerge piuttosto dalla [[Truth|verità]] relativa al.
+
+“Altro… L’altra accusa non è vera. A Browning importava molto la forma.”
+
+#Gli importava molto lo stile. Forse non vi piacerà il suo stile…
+
+#Non aveva abbastanza padronanza della forma per esprimersi correttamente.
+
+“Un uomo che si assomiglia perfettamente a Tennyson o a Swinburne è come chi critica…”
+
+#Il grifone del garguglio medievale… senza nemmeno saperlo
+
+Griffin: considerato un tentativo infantile e fallito…
+
+Angelo classico… Un poeta indifferente alle forme dovrebbe essere colui che…
+
+Non importa quale forma utilizzi, purché esprima i propri pensieri. Lui…
+
+#Potrebbe essere un poeta piuttosto divertente… che racconta storie nelle sale fumatori.
+
+Raccontare una storia in [[Blank Verse|versi liberi]] o comporre una canzone di caccia seguendo la struttura delle [[Spenserian Stanza|stanze spenseriane]];
+
+Un’analisi realistica dell’infanticidio attraverso una serie di trecetti
+
+Dimostrando la [[Truth|.verità]] dell’[[Immortality|immortalità]] attraverso una lunga serie di limerici. Browning
+
+Certamente non c’era alcuna indifferenza del genere. Quasi ogni poesia di Browning…
+
+In particolare quelli più brevi e di maggior successo, furono modellati o incisi.
+
+In uno stile particolare, generalmente [[Grotesque|grottesco]], ma sempre volutamente così.
+
+Nella maggior parte dei casi, ogni volta che scriveva una nuova [[Song|-canzone]], creava un nuovo genere di [[Song|-canzone]].
+
+La nuova [[Lyric|lirica]] non solo presenta un metro diverso, ma anche, qualcos’altro di diverso.
+
+#Forma. Nessuno, nemmeno Browning, ha mai scritto una poesia nello stesso stile di…
+
+Titolo:  
+Quello orribile che inizia con “John, Maestro del Tempio di Dio”…
+
+# Strani cori e inquietanti indicazioni narrative… Nessuno, nemmeno…
+
+“Browning non scrisse mai una poesia nello stesso stile di _Pisgah-sights_.”
+
+# Nessuno, nemmeno Browning, ha mai scritto una poesia nello stesso stile di “Time’s”.
+
+#Rivangezze_ – Nessuno, nemmeno Browning, ha mai scritto una poesia allo stesso modo
+
+Titolo:  
+“Stile come ‘Incontro di notte’ e ‘Addio al mattino’… Nessuno, nemmeno…”
+
+#Browning, mai scrisse una poesia nello stesso stile di _La fuga di_
+
+Duchessa..., o nello stesso stile di _Il funerale del grammatico_, o qualcosa del genere...
+
+Lo stesso stile di _A Star_, o nello stesso stile di quella straordinaria [[Lyric|lirica]].
+
+Titolo:  
+“Alcune persone appendono quadri alle pareti…”. Questi versi iniziano bruscamente così.
+
+#Maniere non sono casuali: davvero si adattano al tipo di personalità spirituale
+
+# L’esperimento che Browning stava conducendo in ciascun caso… Ma Browning, all’epoca, non era ancora…
+
+Caotico; era deliberatamente [[Grotesque|grottesco]]. Ma c'era sicuramente, al di sopra.
+
+E al di sopra di tutta questa grotteschezza, c’è una perversione e un irrazionalità che…
+
+L’uomo che lo spinse a comportarsi come un [[Fool|idiota]] nel mezzo delle sue stesse [[Poems|poesie]]; quel.
+
+Smetti di scolpire quelle [[gargoyles|gargoyle]] e inizia semplicemente a lanciare pietre. Lui.
+
+Esempi di questo sono i curiosi e complessi giochi di parole: Hood aveva utilizzato proprio questo tipo di gioco linguistico.
+
+Per rendere una frase o un sentimento particolarmente incisivi e chiari.
+
+"Browning il termine con due significati sembra rendere il suo significato meno chiaro, se..."
+
+Qualsiasi cosa, tranne quella parola con la “uno”. Si applica anche al suo trucco…
+
+#Affrontare rime impossibili… Forse è divertente, ma…
+
+Non è poesia cercare di far rima con “ranunculus”; ma anche solo il tentativo… ha il suo fascino.
+
+Titolo:  
+Si presuppone che tu rima con esso… E io lo affermo, e lo sostengo fermamente.
+
+Perseguitazione… quel “Tommy-fai-spazio-per-tuo-zio-noi” non rima con…
+
+it.
+
+L’oscurità di cui, in gran parte, doveva riconoscere la propria colpevolezza…
+
+Curiosamente, il risultato rifletteva di più l’aspetto “gay” dell’[[artist|artista]] che c’era in lui, piuttosto che.
+
+# Pensatore profondo… Nella pazienza degli studenti di Browning risiede la vera essenza di Browning stesso.
+
+Solo impazienza… Voleva dire qualcosa di divertente e energico.
+
+Voleva dirlo velocemente… E, grazie alla sua abilità artistica…
+
+Fantastico… e il suo temperamento impulsivo, che a volte lo spinge ad agire in modo brusco… Quest’idea, a volte…
+
+#È passato in un attimo, inosservato… Ma è un errore credere che queste cose siano semplicemente così.
+
+Le oscure miniere che custodiscono il suo tesoro… Quei due o tre luoghi grandi e veri…
+
+Le cose che aveva davvero bisogno di dire, di solito riusciva a esprimerle in modo molto semplice.
+
+Così, voleva davvero dire che Dio aveva effettivamente creato l’uomo e la donna.
+
+“Una sola carne: il rapporto sessuale, in questo senso concreto, aveva un carattere religioso…”
+
+Anche nel nostro peccato e nella nostra [[Despair|-disperazione]], lo diamo per scontato e ci aspettiamo una sorta di.
+
+# Virtù in esso… I sentimenti del cattivo marito verso la buona moglie…
+
+Ad esempio, sono altrettanto sottili e complesse quanto qualsiasi altra cosa su questa terra.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="Victorian Age — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/garden,motif/lightning,motif/love,motif/nature,motif/time,motif/well,concept/history,concept/immortality,concept/nature,concept/truth,form/epigram,form/history"></span>
@@ -19270,7 +19447,7 @@ attraversarono. Ma questo [[Time|tempo]] produsse davvero un interregno d'arte c
 
 [[Truth|verità]] propria; sebbene quella [[Truth|verità]] fosse vicina a essere soltanto una coerente
 
-menzogna.
+Mente.
 
 Il movimento di coloro che furono detti Esteti (come satireggiati in _Patience_) e
 
@@ -20006,7 +20183,7 @@ sappiano colpire con sicurezza sia la tragica e quasi la diabolica. Solo il sign
 
 Beerbohm è stato capace di immaginare il signor Henry James scrivere del
 
-Natale.
+il Natale.
 
 Ora su questo interregno, questa fredda e brillante sala d'attesa che
 

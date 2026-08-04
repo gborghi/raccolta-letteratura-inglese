@@ -169,7 +169,7 @@ boasting of avarice.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Come Non Farlo
+Come non farlo
 
 G.K.'s Weekly
 16 maggio 1935

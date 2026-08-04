@@ -937,6 +937,12 @@ FOREWORD
 THE SIX CHAPTERS of this little book discuss and explain six separate and most important phases of the present war. Every effort has been made to deal with the headings selected as comprehensively and as simply as possible, and it is hoped that, in this convenient form, the handbook will be welcomed by those who wish to follow the campaign with understanding. The various articles reprinted were written during the winter of the present year (1914-15), and many of the conclusions reached apply, therefore, to that period of the war only.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Prefazione
+
+I SEI CAPITOLI di questo piccolo libro discutono e spiegano sei fasi distinte e particolarmente importanti della guerra attuale. È stato fatto ogni sforzo per trattare gli argomenti selezionati in modo il più completo e semplice possibile; si spera che, in questa forma pratica, questo manuale sia apprezzato da coloro che desiderano seguire lo svolgimento delle operazioni militari con comprensione. Gli articoli riprodotti sono stati scritti durante l’inverno di quest’anno (1914-15), e molte delle conclusioni raggiunte si applicano quindi soltanto a quel periodo della guerra.
+
 
 
 <span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_01" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 1)" data-chapter="THE TWO MAPS OF EUROPE" data-kind="excerpt" data-tags="setting/germany"></span>
@@ -997,6 +1003,62 @@ True National Frontiers.
 National groupings have discovered their power and have already begun to appear in real form through the artificial political boundaries which divided or suppressed them. Anyone proposing to reconstruct Europe must most certainly take account of such realities, and must deal with the many national groups of Europe as the stones out of which the new building is to be erected.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+I due mappe d’Europa
+
+In cui la mappa d’Europa, nel caso in cui la [[Germany|Germania]] vinca, è chiaramente definita e confrontata con la mappa d’Europa riorganizzata secondo gli ideali degli Alleati.
+
+I due mappe d’Europa
+
+È universalmente riconosciuto che il risultato della grande guerra debba essere, in definitiva, uno dei due seguenti: o la creazione di una nuova mappa dell’Europa seguendo il modello tedesco, oppure la creazione di una nuova mappa dell’Europa basata sui principi e sulle idee degli Alleati.
+
+Con ciò non si intende che nessuno dei due ideali possa essere completamente realizzato, ma che nella loro attuazione uno di essi sicuramente prevarrà sull’altro. Infatti, è proprio nella lotta tra questi due nuovi “modelli” dell’Europa come ideali che risiede il motivo della guerra.
+
+Ora, prima di tentare di determinare in modo grafico quali siano quei due ideali – prima cioè di provare a tracciare due mappe che rappresentino rispettivamente l’obiettivo tedesco e quello degli Alleati – dobbiamo enunciare alcuni postulati che non sempre vengono riconosciuti, ma che certamente sono veri.
+
+A meno che non riconosciamo la loro veridicità, finiremo per accettare affermazioni assurde e temere quelle profezie ridicole che prevedono, da un lato, l’estinzione della [[Germany|Germania]], dall’altro, il dominio del governo tedesco su Inghilterra o Francia.
+
+I. Il primo di questi postulati è che una nazione europea moderna non desideri più annettersi gli uomini bianchi presenti in Europa e i territori che abitano.
+
+L’esempio dell’Alsazia-Lorena da solo è stato una lezione sufficiente; la continua vitalità della Polonia dopo cento anni ne rappresenta un’altra, e persino le difficoltà dei governi austro-ungarici con le loro popolazioni sottoposte ne costituiscono una terza. Questo non significa che un governo europeo moderno non possa annettersi qualcosa in alcuna circostanza: la possessione di un punto militare o commerciale di fondamentale importanza potrebbe talvolta rendere degno di tentativo un’operazione rischiosa. Ma ciò significa che l’idea dell’annessione come conseguenza naturale del successo militare è ormai scomparsa.
+
+II. Il secondo postulato è il seguente: È universalmente riconosciuto – sia dai tedeschi che da noi – che i confini politici stabiliti in Europa da tempo difficilmente corrispondono a precise suddivisioni nazionali, e molto spesso entrano in violento conflitto con le realtà della vita nazionale.
+
+Nessuno è così sciocco da fingere che le province finlandesi della Russia non siano, per tradizione, consapevolezza, abitudini e tutte le altre caratteristiche che definiscono una nazione, del tutto separate dal resto dei domini dello Zar. Oggi in Inghilterra nessuno nega l’esistenza di una nazionalità irlandese.
+
+Nessuno, per prendere un esempio orientale, si sarebbe mai illuso che il sentimento nazionalistico serbo non fosse molto reale, e che non andasse ben oltre i confini attuali della Serbia.
+
+La scusa dietro a questo vecchio punto di vista – il punto di vista secondo cui i confini politici fossero sufficienti e che le vere nazionalità che essi attraversavano o sopprimevano potessero essere trascurate – era che, con il tempo, grazie alla rapidità delle comunicazioni moderne e al potere dello Stato contemporaneo, questi elementi divergenti sarebbero stati assorbiti o integrati nella più grande nazionalità che li governava. Ma l’esperienza ha smentito questa concezione, del tutto ragionevole. Si è scoperto non solo che tale trasformazione non si è verificata, ma anche che le vecchie nazionalità reali sono anzi diventate più forti. La Polonia, ad esempio, artificialmente divisa dai confini tedeschi, austriaci e russi, sembrava per un certo periodo destinata a trasformarsi in popolazioni di tipo russo, tedesco o austriaco; nel caso dell’Austria, si è addirittura registrato un notevole avanzamento in questa direzione. Tuttavia, con il passare delle generazioni, questo processo non è proseguito; al contrario, le cose hanno iniziato a cambiare in senso opposto. Oggi, l’idea di una Polonia unita è molto più radicata persino nella piccola e prospera parte polacca sotto dominio austriaco rispetto a trent’anni fa.
+
+Di fronte a questi due postulati, i veri gruppi nazionali hanno scoperto il loro potere e hanno già iniziato ad apparire in forma concreta, per così dire, attraverso i confini politici artificiali che li avevano divisi o soppressi. Chiunque, sia i tedeschi che gli altri, voglia ricostruire l’Europa deve assolutamente tenere conto di queste realtà e considerare i numerosi gruppi nazionali europei come le pietre su cui edificare la nuova struttura politica.
+
+Ma il modo specifico in cui quelle pietre possono essere utilizzate, le combinazioni in cui possono essere raggruppate, le principali influenze che si eserciteranno su determinati grandi aggregati di nuove nazioni: questi sono tutti gli elementi centrali della discussione e costituiscono l’intero oggetto di questa guerra.
+
+L’Impero tedesco e il suo alleato, la monarchia austro-ungarica – cioè la casa regnante degli Asburgo-Lorena – desiderano che questa riorganizzazione assuma una forma specifica che permetta alla lingua, alla cultura e alle tradizioni tedesche di dominare in Europa, e probabilmente in tutto il mondo.
+
+D'altra parte, gli Alleati combattono per un’idea meno semplice. Lottano per la concezione duplice di:
+
+a) Mantenere l’attuale indipendenza di alcuni gruppi nazionali.
+
+b) Creare altri gruppi indipendenti o parzialmente indipendenti, la cui esistenza e l’influenza generale di tali gruppi debbano limitare il potere tedesco e, in particolare, quello prussiano.
+
+Questa duplice concezione viene giustamente definita dagli Alleati come la conservazione e l’estensione delle libertà nazionali in Europa.
+
+Ora, prima di poter comprendere cosa stiano cercando di ottenere i tedeschi o gli Alleati, dobbiamo stilare un elenco di quei gruppi nazionali che costituiscono la base di tutta questa situazione. Nel fare questo elenco, dobbiamo ricordare ciò che realmente crea un gruppo nazionale.
+
+# MAP I: Le principali frontiere nazionali autentiche dell’Europa continentale
+
+# Escluso il Sud, che rimane al di fuori di questa guerra
+
+I Slavi e il ruolo di Roma nella religione.
+
+Veri confini nazionali.
+
+1, 2, 3, 4. — Lussemburgo, Belgio, Olanda, Svizzera.
+
+I gruppi nazionali hanno scoperto il proprio potere e hanno già iniziato a manifestarsi con una forma concreta attraverso i confini politici artificiali che li hanno divisi o soppressi. Chiunque proponga di ricostruire l’Europa deve assolutamente tenere conto di queste realtà e considerare i numerosi gruppi nazionali europei come le pietre su cui edificare la nuova struttura comunitaria.
+
 
 
 <span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_02" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 2)" data-chapter="THE TWO MAPS OF EUROPE" data-kind="excerpt" data-tags="concept/nationalism_and_patriotism,concept/tradition,concept/history,form/essay,form/nonfiction,histref/the_first_world_war,setting/europe,setting/france"></span>
@@ -1028,6 +1090,34 @@ All German-speaking men and women with the exception of:
 
 Now the boundaries of this “German feeling” group in Europe are curiously involved and tortuous. Beginning at the Baltic, roughly at the mouth of the River Niemen (which the Germans call the Memel), the true frontier of the German type runs southward for a short distance until it reaches what is called the Region of the Lakes, where the Russian frontier begins to turn west. There the boundary turns west also, and begins to run north again, nearly reaching the Baltic Sea in the neighbourhood of Dantzig. It then turns south by west, goes far west of Thorn and even of Posen, which are Polish towns, and comes round not far east of Frankfort-on-Oder. Then it goes south and east again, coming right through the middle of German Silesia, but, on reaching the mountains that here bound Bohemia, it curls round northwestward again, leaving the mountainous part of the barrier of Bohemia all German, but excluding the Slavonic true Bohemian people in the centre of that isolated region. The Upper Valley of the Elbe is not German. Having thus gone all the way round Bohemia proper, the boundaries of the German type run eastward again, very nearly following the watershed of the Danube until they strike the March River about thirty miles from Vienna. Vienna is thus not a centre, but, like Berlin, an outpost of German speech and civilization. From Vienna the true frontier of the German folk runs south, more or less corresponding to the existing boundary between Austria and Hungary, until it passes the point of Gratz — which counts as German. Thence the boundary turns due west again, taking in the greater part of the Tyrol, and so to the Swiss frontier and on to the Rhine opposite Belfort. Thence it follows the Rhine to a point south of Spiers, and after that follows the existing boundaries (excepting Luxembourg), and is confined by the Dutch and Belgian frontier and the North and Baltic Seas with the exception of the Danish belt north of the Kiel Canal, which is mainly Danish.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quello che costituisce una nazione è la sua tradizione collettiva; l’elemento più forte di questa tradizione è la memoria storica. Una nazione che può dimostrare di aver avuto un’esistenza nazionale nel passato si trova in una posizione molto più solida, in termini di ambizioni per mantenere o riconquistare la propria indipendenza, rispetto a una nazione che non ha mai avuto una tale storia.
+
+Un altro elemento fondamentale nella formazione di una nazionalità è la lingua. Una lingua comune rappresenta un fattore decisamente meno significativo rispetto alle tradizioni nel definire l’identità di una nazione, come si può osservare nel caso del Belgio, diviso in modo quasi equilibrato tra popoli di lingua latina e di lingua tedesca, nonché nel caso della Svizzera. Tuttavia, la lingua rimane comunque un fattore importante; in nessun altro paese essa è così rilevante come in Polonia. Al contrario, situazioni completamente opposte si riscontrano nel caso del sentimento nazionale irlandese, nella Lorena e nell’Alsazia di lingua tedesca, e probabilmente anche in Boemia, dove oggi esiste un forte senso nazionale sostenuto da una lingua slava, sebbene questa sia stata ripristinata artificialmente solo di recente.
+
+Un altro fattore è la religione, e si tratta di un elemento estremamente potente. Ad esempio, essa crea un divario tra i Slavi cattolici e quelli ortodossi, e introduce una complessità particolare nel caso di quei Slavi il cui rituale religioso è greco, ma che rimangono comunque in comunione con Roma.
+
+È impossibile attribuire un valore numerico a ciascuno di questi diversi fattori, né si può affermare che il linguaggio abbia lo stesso peso ovunque, o che la religione abbia lo stesso significato in ogni contesto, ecc. Dobbiamo considerare ogni caso specifico e giudicarlo secondo le sue caratteristiche reali. E se facciamo questo con un giudizio imparziale, basato sul vero sentimento nazionale di ciascun Paese, otteniamo una lista del genere, valida soltanto per il Continente.
+
+(1) I francesi, che all’interno dei loro confini sono perfettamente uniti; sebbene alcune regioni (un piccolo gruppo nei Pirenei, un altro nel Galles occidentale e ancora uno nell’estremo nord-est) parlino una lingua propria. A questo gruppo francese si devono aggiungere le province dell’Alsazia e della Lorena, annesse dai tedeschi nel 1871. L’Alsazia e la Lorena hanno goduto di grande prosperità materiale sotto il dominio tedesco; l’industria metallurgica del Nord si è sviluppata enormemente, e in molti altri modi l’amministrazione tedesca ha aumentato la loro ricchezza e ha introdotto tra la loro popolazione elementi significativi di simpatia verso la Germania. Ma se consideriamo queste province nel loro insieme, non c’è dubbio che il loro riunirsi alla Francia rimanga il desiderio ardente della stragrande maggioranza dei loro abitanti.
+
+(2) Il Belgio è senza dubbio ancora un esempio di un gruppo nazionale separato – sebbene meno unito – in cui il sentimento religioso svolge un ruolo fondamentale, ma anche la sua esistenza storica è evidente grazie a quasi un secolo trascorso come Stato indipendente (durante il quale il Belgio ha notevolmente aumentato la propria popolazione e ricchezza); inoltre, l’esistenza separata di questa regione come “Paesi Bassi Meridionali”, distinta dai Paesi Bassi settentrionali, è attestata da oltre un secolo.
+
+(3) L’Olanda, a sua volta, grazie alla sua lunga esistenza indipendente, al forte senso nazionale e alle sue particolari esperienze come potenza marittima commerciale, costituisce un terzo gruppo distinto. Le popolazioni situate immediatamente a est dell’Olanda, nel territorio tedesco, parlano una lingua simile al olandese e condividono le stesse condizioni sociali e abitudini, ma non desiderano essere considerate olandesi, né gli olandesi vogliono essere integrate in loro.
+
+(4) I paesi scandinavi, Danimarca, Svezia e Norvegia, formano un’unità altrettanto distinta e sono chiaramente divisi in tre gruppi nazionali separati. E qui si riscontrano due anomalie: una piccolissima striscia di territorio danese, molto più ridotta dell’estensione originale dello Schleswig-Holstein, annessa dalla Prussia cinquant’anni fa, è davvero danese e mantiene ancora oggi il proprio protesto contro quell’annessione. Si potrebbe addirittura affermare che questa striscia danese rappresenti soltanto un decimo dell’intero territorio scandinavo, ma il suo protesto dimostra la forza del sentimento nazionale che resiste ai confini politici artificiali. D’altra parte, le province finlandesi appartenenti alla Russia, per lo spirito che le caratterizza, per la classe dirigente, per la religione e quasi per l’intera loro vita sociale, hanno un carattere decisamente svedese. La Norvegia, invece, rimane integra: né una parte della sua popolazione è soggetta a dominio straniero, né si impegna a governare popolazioni che non le appartengono.
+
+(5) Il quinto grande gruppo è quello tedesco; in questo caso esiste una tale complessità che ciò che dobbiamo dire deve essere considerato solo in termini molto generali e approssimativi. Ma, in modo approssimativo e generale, il gruppo tedesco è così descritto:
+
+# Tutti gli uomini e le donne di lingua tedesca, ad eccezione di:
+
+# La maggior parte delle province annesse dell’Alsazia-Lorena (una questione di sentimento)
+
+b) I cantoni svizzeri di lingua tedesca (una questione di confini politici).
+
+I confini di questo gruppo culturale caratteristico della “cultura tedesca” in Europa sono stranamente complessi e tortuosi. Iniziando dal Baltico, approssimativamente alla foce del fiume Niemen (che i tedeschi chiamano Memel), il vero confine del tipo culturale tedesco si estende verso sud per una breve distanza fino a raggiungere quella che viene chiamata “regione dei laghi”, dove il confine russo inizia a deviare verso ovest. Lì anche il confine tedesco cambia direzione, tornando verso nord e avvicinandosi al Mar Baltico nei pressi di Danzica; successivamente piega nuovamente verso sud passando a ovest di Thorn e persino di Posen, città polacche, per poi raggiungere, non lontano da Francoforte sull’Oder, una nuova direzione verso est. Da lì prosegue ancora verso sud ed est, attraversando il cuore della Slesia tedesca; tuttavia, arrivato alle montagne che delimitano la Boemia, il confine torna a curvare verso nord-ovest, lasciando interamente tedesca la parte montuosa di quella regione, mentre esclude la popolazione slava della Boemia centrale. Anche la valle superiore dell’Elba non è territorio tedesco. Dopo aver circondato completamente la Boemia propriamente detta, i confini del tipo culturale tedesco proseguono verso est, seguendo più o meno il corso del Danubio fino a incontrare il fiume March a circa trenta miglia da Vienna; quindi Vienna non rappresenta un centro di questa cultura, ma, come Berlino, ne è soltanto un avamposto. Da Vienna il vero confine del popolo tedesco prosegue verso sud, corrispondendo più o meno al confine attuale tra Austria e Ungheria, fino a superare la località di Graz, che consideriamo territorio tedesco. Da lì il confine torna nuovamente verso ovest, includendo nella sua estensione gran parte del Tirolo, per poi raggiungere il confine svizzero e proseguire lungo il Reno, fino a Belfort. Da lì segue il corso del Reno fino a una località a sud di Spira; successivamente segue i confini attuali (ad eccezione del Lussemburgo), venendo delimitato dal confine olandese e belga, nonché dal Mar Nord e dal Mar Baltico, ad eccezione della fascia danese a nord del canale di Kiel, che è prevalentemente territorio danese.
 
 
 
@@ -1145,6 +1235,118 @@ The boundaries of the “German feeling” group in Europe are very roughly sugg
 In the first place Germany would keep all that she has, indifferent to national anomalies or the unquiet of subject and oppressed peoples. She would keep Alsace-Lorraine; she would keep in subjection the Poles who are already in subjection to her; she would leave the Austro-Hungarian Monarchy under the Hapsburgs with all its present possessions, whether those possessions grossly interfered with national realities or no. Would she annex territory, in spite of the first of the two postulates which I have already mentioned?
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+All’interno di quella linea stranamente contorta, quasi tutto il linguaggio e tutti i sentimenti sono di natura tedesca. Esistono molti Stati all’interno di questa zona; vi è una grande confusione riguardo alle tradizioni storiche, e una netta divisione in termini religiosi: prevalentemente cattolica nel sud e nell’ovest, protestante nel nord e nell’est. Tuttavia, il gruppo nazionale rappresenta un’unica entità, soprattutto rispetto ai popoli slavi e persino rispetto all’Europa occidentale e meridionale; all’interno di questa entità, la Prussia, con Berlino come sua capitale, svolge il ruolo di centro organizzativo e direttivo.
+
+Esistono anomalie da scoprire riguardo a questa forma corporea così particolare? Sì; ma sono di minore importanza di quanto si possa spesso pensare. Ad esempio, al di là della Prussia Orientale e entro i confini russi si trovano le cosiddette province baltiche “tedesche” della Russia. Tuttavia questo termine è improprio: i leader dell’industria sono per lo più tedeschi, così come la maggior parte delle città e l’aristocrazia terriera. Ma la massa della popolazione non parla tedesco; e anche tra la minoranza di persone che parlano tedesco, solo una piccola parte condivide il sentimento nazionalista tedesco diffuso a ovest.
+
+Ci sono colonie di persone di lingua tedesca molto a est di Vienna, sotto il dominio politico dell’Ungheria; una di queste è particolarmente grande e si trova proprio nei Carpazi sud-orientali, vicino al confine con la Romania. Tuttavia, queste colonie non potrebbero mai essere incluse in un’unica [[Germany|Germania]] unita. Lo stesso vale per il numero considerevole di altre colonie isolate di tedeschi presenti nel sud e nell’ovest della Russia. Infine, a estremo ovest si trova la piccola provincia del Lussemburgo: essa è di lingua tedesca, le sue ferrovie e la maggior parte delle sue industrie sono controllate dai tedeschi; tuttavia, in un sistema perfettamente libero, il Lussemburgo rifiuterebbe sicuramente di essere incorporato in qualsiasi nuova entità tedesca, poiché possiede una tradizione storica di indipendenza che si è rivelata estremamente preziosa per il suo sviluppo, e tale tradizione può essere paragonata a quella dei cantoni svizzeri di lingua tedesca.
+
+(6) Dobbiamo ora considerare i Slavi, i quali si dividono in due gruppi: nordici e meridionali; questi due gruppi furono separati dall’immensa invasione mongola dell’Europa orientale durante il Medioevo. Tra i Slavi esiste inoltre un aspetto di grande importanza, ovvero quello religioso. Questo aspetto non li divide in nordici e meridionali, ma, in linea di massima, in gruppi legati alla Chiesa greca orientale o alla Chiesa cattolica occidentale. Tra i Slavi settentrionali annoveriamo i Boemi o Cecchi, i Polacchi e i Russi; naturalmente, con il termine “Russi” ci riferiamo a molti gruppi distinti ma collegati tra loro, poiché è certo che la Russia propriamente detta debba rimanere un’unica entità.
+
+A poco nord dei Carpazi si trovano anche due piccoli gruppi di Slavi settentrionali: i Slovacchi e i Ruteni. Questi Slavi settentrionali sono divisi in Slavi cattolici e Slavi della Chiesa greca, ovvero ortodossi; questa divisione si basa su una zona territoriale approssimativamente delimitata dalla città di Vilnius fino ai confini della Bucovina: i Polacchi e i Ceci, ad esempio, sono in comunione con Roma, mentre i Russi appartengono alla Chiesa greca.
+
+Gli slavi meridionali sono nuovamente divisi in cattolici e ortodossi da una divisione molto netta e aspra. Gli sloveni e i croati appartengono al gruppo cattolico, mentre la nazione serba nel suo insieme fa parte del gruppo ortodosso; una parte dei serbi, insieme a tutti gli sloveni e i croati, si trova nei domini austro-ungarici, ed è proprio l’elemento serbo che si sta ribellando. Il resto dei serbi è ora indipendente. La situazione demografica e religiosa in questa regione è così complessa che quasi un terzo della Bosnia ed Erzegovina, sebbene di etnia slava, segue la religione islamica.
+
+(7) Tra questi due grandi gruppi slavi, quello settentrionale e quello meridionale, durante il Medioevo si inserì una fascia di invasori mongoli la cui posizione ha avuto un'importanza fondamentale nella storia dell’Europa orientale. Questi popoli furono convertiti al cristianesimo quasi mille anni fa; il tipo fisico mongolo è ormai completamente scomparso, ma la lingua mongola sopravvive ancora, con il nome di “magiara”. Sono proprio gli ungheresi di lingua magiara a costituire la razza dominante nella parte orientale dell’Austria-Ungheria, anche se rappresentano soltanto la metà della popolazione totale del loro territorio. In qualsiasi nuova configurazione nazionale, questa popolazione ungherese, estremamente indipendente, deve essere considerata un elemento fondamentale; tuttavia, il suo diritto di governare su popoli stranieri è una questione diversa.
+
+(8) Infine, c’è un gruppo curioso di estrema importanza, sia perché gran parte della sua popolazione ha visto negata l’indipendenza, sia perché il resto ha raggiunto l’indipendenza. Quel gruppo è il gruppo rumeno.
+
+Razzialmente, i rumeni sono per lo più slavi, ma la loro lingua è di origine latina; sono orgogliosi delle proprie radici latine e svolgono esattamente lo stesso ruolo di “cuneo” tra gli slavi del nord e del sud quanto lo fanno i magiari stessi. In ogni regione, le loro aree di insediamento si sovrappongono alle frontiere politiche ufficiali: tre milioni e mezzo di rumeni vivono in Ungheria, mentre una parte di loro vive al di fuori dei confini russi. Per lo più, sono ortodossi o greci nella religione. Tuttavia è fondamentale ricordare che, per comprendere la nuova Europa, i popoli di lingua rumena sotto il dominio ungherese – circa metà di loro, forse addirittura la maggioranza – sono separati dalla Chiesa ortodossa e appartengono alla Chiesa cattolica romana.
+
+Con questo riassunto, espresso nella Mappa I, si ottiene una divisione abbastanza accurata, sebbene ovviamente approssimativa, dell’Europa nei suoi veri componenti nazionali.
+
+Ora chiediamoci cosa proporrebbero [[Germany|Germania]] e Austria, in caso di vittoria, per utilizzare tali materiali.
+
+# MAP II: Il gruppo germanico in Europa
+
+1.
+
+Lussemburgo
+
+6.
+
+Italiano misto
+
+# E il tedesco
+
+11.
+
+Olanda
+
+16.
+
+Bulgaria
+
+2.
+
+Belgio
+
+7.
+
+#Russia
+
+12.
+
+Bucovina
+
+17.
+
+Montenegro
+
+3.
+
+[[Germany|Germania]]
+
+8.
+
+Bohemia
+
+13.
+
+Ungheria
+
+18.
+
+Albania
+
+4.
+
+# Svizzera
+
+9.
+
+Bosnia
+
+14.
+
+Serbia
+
+19.
+
+Grecia
+
+5.
+
+#Italia
+
+10.
+
+Austriaco
+
+15.
+
+# Romania
+
+20.
+
+#Turchia
+
+I confini del gruppo del “sentimento tedesco” in Europa sono indicati approssimativamente da quella linea nera spessa. All’interno di quella linea, stranamente contorta, quasi tutto il discorso e tutti i sentimenti sono considerati “tedeschi”.
+
+In primo luogo, la Germania avrebbe mantenuto tutto ciò che possedeva, indipendentemente da eventuali anomalie nazionali o dal disagio dei popoli sottomessi e oppressi. Avrebbe conservato l’Alsazia-Lorena; avrebbe tenuto sotto il suo dominio i Polacchi che già erano soggetti a lei; avrebbe lasciato la Monarchia Austro-Ungarica sotto gli Asburgo, con tutte le sue attuali possedimenti, indipendentemente dal fatto che tali possedimenti interferissero in modo grave con le realtà nazionali. Avrebbe annesso territori, nonostante il primo dei due presupposti che ho già menzionato?
+
 
 
 <span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_04" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 4)" data-chapter="THE TWO MAPS OF EUROPE" data-kind="excerpt" data-tags="concept/liberty,setting/germany"></span>
@@ -1201,6 +1403,59 @@ MAP IV. EUROPE REMODELLED BY THE ALLIES
 7. An independent Magyar State.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il sistema costituzionale tedesco è per sua natura federale. Vi è spazio all’interno di esso per molti tipi di stati, ciascuno dei quali possiede un grado molto elevato di indipendenza; e se l’inclusione in un unico sistema commerciale e militare, anche se tale inclusione fosse solo formale, dovesse essere definita annessione, allora si potrebbe dire che la [[Germany|Germania]] agirebbe in tal senso. Vorrebbe controllare direttamente l’imbocco del fiume Schelda e probabilmente anche la parte del Belgio di lingua tedesca, cioè il nord di quel paese. Sicuramente desidererebbe amministrare le Ardenne, che costituirebbero il suo confine con la Francia, e senza dubbio prenderebbe sotto il proprio controllo il Lussemburgo.
+
+Per quanto riguarda l'Olanda, il suo piano probabilmente sarebbe diverso da quello adottato in qualsiasi altro caso. Lascerebbe l’Olanda indipendente ai suoi occhi, proprio come prima; potrebbe insistere sull’alleanza con l’esercito olandese, sicuramente si impegnerà per ottenere condizioni commerciali favorevoli, e probabilmente anche il diritto di utilizzare determinati porti in circostanze belliche. Ma solo una follia inescusabile potrebbe spingerla ad andare oltre. La posizione dell’Olanda dopo un accordo con la Germania potrebbe essere paragonata, su larga scala, a quella di Amburgo in passato: uno Stato libero, proprio come Amburgo era una città libera.
+
+Questo compromesso facile e, per così dire, reciprocamente concordato con l'Olanda, unito al controllo del fiume Schelda e di Anversa, avrebbe dato ai popoli tedeschi ciò che desideravano di più: l'intero litorale del Mare del Nord. Inoltre, possedendo Anversa – cosa che sicuramente sarebbe accaduta – avrebbero avuto uno strumento commerciale per tenere sotto controllo l'Olanda. Avrebbero potuto indirizzare tutto il loro commercio verso Anversa, lasciando Rotterdam in condizioni di difficoltà economica.
+
+I paesi scandinavi sarebbero stati considerati, per natura, culturalmente tedeschi e quindi rientranti in una sorta di sfera d’influenza tedesca. Possedendo il Canale di Kiel, non avrebbero avuto bisogno necessariamente dello Stretto di Danimarca. Tuttavia, avrebbero dominato la Danimarca a tal punto da poter decidere, in termini commerciali o militari, l’uso dei passaggi del Mar Baltico; in questo modo, aziende tedesche, metodi tedeschi e, in certa misura, anche la lingua tedesca avrebbero avuto una forte influenza nella parte più importante della Svezia e della Norvegia.
+
+Nel Oriente, alcuni hanno immaginato di poter creare uno Stato polacco mutilato e dipendente per contrastare la Russia. È più probabile che si limiteranno ad ottenere alcune [[Liberty|libertà]] per la Polonia russa, nonché accordi riguardanti le fortificazioni e il commercio. La Russia rimarrà sempre una potenza temibile; pertanto, mantenere una Polonia sottomessa tra la Russia e sé stessa servirà, in futuro come in passato, agli interessi della Prussia. È essenziale per la Prussia che non si ripristini mai una Polonia veramente indipendente, nemmeno se mutilata; è altrettanto importante che non esista alcuna area che i polacchi possano considerare il nucleo di uno Stato polacco davvero libero.
+
+Nei Balcani, le potenze germaniche chiederebbero sicuramente il controllo di quella che oggi è la Serbia, e, a rischio di ulteriori guerre, anche l’accesso al Mar Egeo attraverso Salonicco. I resti dell’Impero Ottomano in Europa sono già considerati da loro sotto la loro protezione.
+
+Per quanto riguarda l’Occidente, lo si sarebbe trattato, giustamente, semplicemente come un nemico sconfitto. La Francia, si sarebbe detto, avrebbe potuto continuare a declinare – i tedeschi, infatti, quando vogliono ottenere qualcosa da Berlino, parlano sempre di “il declino dei popoli latini” – e questo declino sarebbe stato accelerato da rigidi trattati commerciali e pesanti indennità; anche l’Inghilterra sarebbe stata vista nello stesso modo. [[Germany|Germania]] avrebbe chiesto all’Inghilterra di cedere alcune stazioni carbonifere e le avrebbe imposto determinate condizioni commerciali. Tuttavia, non ci sarebbe stato bisogno di limitare la costruzione della propria flotta, poiché una [[Germany|Germania]] vittoriosa si sarebbe sentita in grado di badare a se stessa facilmente.
+
+# MAP III. L’Europa ristrutturata da Germania e Austria
+
+I confini degli Alleati germanici oggi, insieme ai loro Stati dipendenti.
+
+L’Olanda: un caso particolare. Parole simili in termini linguistici. In realtà non annessa, ma le veniva concesso uno status quasi indipendente sotto il controllo tedesco; i due porti principali erano sottoposti a una sorta di controllo tedesco velato, e venivano fornite strutture per la Marina militare tedesca. Inoltre, l’Olanda era inclusa in qualsiasi politica economica tedesca.
+
+Piccoli distretti che potrebbero essere effettivamente annessi: la Bassa Schelda, il Medio Mosa, le Ardenne, il Lussemburgo, un angolo della Lorena francese, alcuni distretti di frontiera della Polonia russa.
+
+Paesi che sarebbero stati dipendenti dall’egemonia germanica, essendo di sangue e lingua simili, e che in alcuni aspetti avrebbero permesso un controllo economico o politico effettivo da parte dei tedeschi.
+
+Distretti che in nessun modo erano collegati ai popoli germanici, ma che dovevano essere annessi o comunque controllati direttamente al fine di dominare i Balcani, di conquistare Costantinopoli e di ottenere un passaggio verso il Mar Egeo.
+
+Stati cuscinetto polacchi, che la Prussia avrebbe potuto creare per farli dipendere da sé stessa e come barriera contro la Russia.
+
+Un distretto che l’Impero tedesco avrebbe potuto annettersi, sia per via degli elementi tedeschi presenti nella sua popolazione, sia per il controllo che avrebbe avuto sul Mar Baltico.
+
+Si può riassumere dicendo che Germania e Austria si aspettano dalla vittoria un'Europa nella quale tutto ciò che è di lingua tedesca e già sotto la loro influenza morale sostenga il loro potere nel mondo; quel potere, tuttavia, non dovrà manifestarsi attraverso annessioni, se non in uno o due casi selezionati.
+
+Una volta raggiunto il Mar del Nord e una volta infranta la supremazia marittima britannica, l’Europa centrale avrebbe lasciato che il futuro facesse il suo corso, accontentandosi a est di dominare i Balcani e di raggiungere il Mar Egeo, oltre a impedire in modo permanente ulteriori avanzamenti della Russia.
+
+Titolo:  
+Mappa IV. L’Europa ristrutturata dagli Alleati
+
+1. Per mantenere i loro confini attuali: Svizzera, Belgio, Lussemburgo, Olanda, Norvegia, Svezia.
+
+2. I popoli germanici: con il Sud cattolico che si appoggiava a Vienna e una grande autonomia concessa agli Stati singoli.
+
+3. Francia: inclusa l’Alsazia-Lorena.
+
+4. Polonia: Quasi indipendente, ma in realtà sotto il controllo della Russia.
+
+5. Cecchi: Quasi indipendenti, ma probabilmente ancora sotto il controllo di Vienna.
+
+6. I Ruteni (un gruppo slavo minore): o annessi alla Russia, o strettamente dipendenti da essa.
+
+7. Uno Stato magiaro indipendente.
+
 
 
 <span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_05" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 5)" data-chapter="THE TWO MAPS OF EUROPE" data-kind="excerpt" data-tags="setting/germany"></span>
@@ -1236,6 +1491,38 @@ A policy of that kind means, of course, a carefully framed tariff, so designed t
 
 Germany showed the way in 1871 upon what now looks like a modest scale, but was then designed to be ruthless. It is our business to copy that example.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+8. Uno Stato cattolico indipendente di slavi del Sud o croati, probabilmente sotto il controllo di Vienna.
+
+9. Uno Stato slavo ortodosso del Sud, la Serbia, con accesso al Mar Adriatico, ma senza territori bulgari.
+
+10. La Romania, ampliata grazie alla sua popolazione della Transilvania.
+
+11. Bulgaria.
+
+Se questo è il programma tedesco, qual è allora quello degli Alleati?
+
+In primo luogo, si tratta del mantenimento non solo delle libertà, ma anche dei poteri già acquisiti. Nel campo economico, ciò significa naturalmente il rispetto di quei contratti internazionali dai quali dipende la ricchezza dell’Inghilterra e della Francia. Si tratta inoltre del mantenimento del potere marittimo inglese, del ripristino di una Francia unita sul suolo continentale, della riconquista del Belgio, e della garanzia della neutralità degli Olandesi, che questi lo vogliano o no.
+
+Ma al di là di questo c’è il problema della ricostruzione, e in questo caso esistono due principi chiari da seguire.
+
+(1) È vantaggioso per gli Alleati riconoscere ovunque, nella misura del possibile, le realtà nazionali.
+
+Per gli Alleati è una questione di vita o di morte impedire il ripristino del potere prussiano e del suo ideale di dominazione sugli altri.
+
+In qualche misura queste due politiche coincidono, ma non del tutto. Costruire una Serbia più grande, liberare i Croati e gli Sloveni, o forse prendere dai loro territori i porti necessari alla Serbia sull’Adriatico, concedendo inoltre alla Serbia il territorio della Bosnia ed Erzegovina; allo stesso tempo, permettere alla Bulgaria di occupare le zone puramente bulgare che attualmente appartengono alla Serbia, ricostruire una Polonia unita, dare alla Romania i suoi territori al di là dei Carpazi a scapito dell’Ungheria; rendere l’Ungheria il più possibile indipendente da Vienna in termini amministrativi, e soprattutto in materia militare. Tutto ciò fa parte di una politica universale che tutti si aspettano.
+
+Ma che dire della [[Germany|Germania]] dal suo interno?
+
+È evidente che il controllo dei mari Baltici, di cui fa parte il Canale di Kiel, implica la necessità di neutralizzarlo. È altrettanto chiaro che, sebbene i Boemi possano non essere completamente separati dal gruppo germanico che li circonda quasi interamente, concedere loro il massimo grado di autonomia è ciò che meglio si addice alle esigenze degli Alleati. Tuttavia, quanto alla politica da seguire da parte della [[Germany|Germania]] stessa in caso di vittoria degli Alleati, questa rappresenta una questione molto più complessa.
+
+In linea di massima, sembrerebbe che tutto dipenda da due principi fondamentali: primo, che il polo più antico e più civile della [[Germany|Germania]], ovvero quello meridionale rappresentato da Vienna, debba essere favorito in ogni modo a scapito del polo settentrionale, Berlino, responsabile di questa catastrofe. Secondo, che debba essere adottata una politica economica che permetta alla Germania industriale di produrre liberamente, ma la costringa comunque a pagare le conseguenze delle sue attività.
+
+Una politica del genere significa, naturalmente, l’adozione di tariffe attentamente calcolate, in modo che il tributo necessario per coprire i costi di questa grande impresa ricada sui suoi autori.
+
+La Germania indicò la strada nel 1871, con metodi che oggi sembrano di modesta entità, ma che all’epoca erano concepiti per essere spietati. È nostro dovere seguire quell’esempio.
 
 
 
@@ -1281,6 +1568,46 @@ One means that if you consider trenches in detail, a certain length of trench ne
 Diagram II. Every man in a trench may be regarded as accounting for a certain angle of space in front of him, as A-B-C. If the extreme point at which you can stop a rush is the line L-L then you must have at least enough men — a-a-a — to cover that line with their fire.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Numeri in guerra
+
+In cui si spiega perché, a parità di altre condizioni, i numeri siano sempre l’elemento decisivo nella guerra, e come il nemico abbia avuto la superiorità per tutto l’autunno e l’inverno (scritto alla fine dell’inverno del 1914-1915).
+
+Numeri in guerra
+
+Il lettore comune, in questi tempi, sente continuamente dire che i numeri siano l’elemento decisivo in guerra. Che ogni autorità, ogni studente e ogni soldato ne sia convinto, è qualcosa che si può facilmente dedurre dalla natura degli ordini impartiti e degli appelli fatti. I numeri, sia in termini di materiali che di uomini, sono l’unica cosa su cui si insiste. La critica pubblica alla guerra è piena di stime riguardanti i numeri nemici e alleati, il numero delle riserve, dei morti e dei prigionieri. L’intero processo di reclutamento in questo paese si basa proprio su questa concezione dei numeri.
+
+Ora il lettore comune può comprendere il carattere generale di questa concezione, ma spesso rimarrà perplesso dalla sua applicazione dettagliata.
+
+Se mi si dice che dieci uomini combatteranno contro otto, il semplice confronto dei numeri suggerisce una superiorità da parte dei dieci, ma se non so come avverrà lo scontro, mi sarà difficile spiegare esattamente in che modo quei due uomini in più possano fare la differenza. Di certo non potrei dire se siano sufficienti a modificare significativamente l’esito della battaglia, e potrei giungere a conclusioni completamente errate riguardo alle possibilità degli otto o dei dieci. Pertanto, se si cerca di formarsi un’opinione fondata sulla situazione attuale delle operazioni militari, è molto importante comprendere esattamente in che modo e perché i numeri siano il fattore decisivo in guerra.
+
+In primo luogo, è evidente che i numeri iniziano a avere un reale significato solo quando tutte le altre condizioni sono più o meno uguali. Un certo numero di uomini armati di fucile può sicuramente competere con molte masse prive di armi da fuoco; la storia della guerra è piena di esempi in cui forze più piccole hanno sconfitto quelle più grandi, dal Maratone a Ligny. Ma quando la guerra scoppia dopo un lungo periodo di pace e avviene tra nazioni appartenenti alla stessa civiltà che comunicano strettamente tra loro, e quando la guerra è stata l’oggetto principale degli studi di quelle nazioni durante il periodo di pace, allora tutti gli elementi, tranne quelli legati ai numeri, diventano effettivamente più o meno uguali. Ed è esattamente questa la situazione delle attuali campagne militari.
+
+Il nemico disponeva di alcune vantaggi in termini materiali, o li aveva all’inizio dello scontro, soprattutto per quanto riguarda l’artiglieria pesante; ma ancora più importante era la loro capacità di prevedere con precisione il modo in cui si sarebbero sviluppate le battaglie moderne. Tutte le loro teorie tattiche si rivelarono corrette.
+
+Le forze alleate avevano dei vantaggi: gli inglesi per quanto riguardava l’equipaggiamento personale, i servizi medici e di approvvigionamento; francesi, russi e serbi per il tipo di artiglieria da campo utilizzata. In particolare, i francesi possedevano una teoria strategica che si era rivelata efficace.
+
+Ma non esisteva alcuna differenza evidente tale da permettere a un numero inferiore di sconfiggere uno molto più grande; l’osservatore storico, posto a distanza nel tempo e quindi in grado di essere imparziale, considererà sicuramente quella guerra come uno scontro tra forze che disponevano di armi e livelli di addestramento quasi identici. L’unica vera differenza risiedeva nei numeri.
+
+Allora, come fanno questi numeri a comunicare qualcosa?
+
+Ci sono due aspetti di questa questione che chiamerò: (1) L’effetto dei numeri assoluti e (2) L’effetto dei numeri proporzionali.
+
+(1) Numeri assoluti. Con l’effetto dei numeri assoluti intendo il fatto che sia necessario un certo minimo di risorse per qualsiasi operazione specifica. Ad esempio, se si dovesse difendere un muro lungo un miglio contro un nemico che desidera superarlo, è evidente che non si potrebbe farlo con una sola persona, anche se il nemico fosse costituito da soltanto una persona. Le possibilità di successo per il nemico sarebbero troppo grandi. Non si potrebbe difendere quel muro nemmeno con dieci persone contro altre dieci; difficilmente ci si riuscirebbe nemmeno con 100 persone contro 100. Ma supponiamo di disporre di 3000 uomini per difenderlo, e che questi non utilizzino alcuna arma se non le proprie mani: in tal caso, 3000 uomini potrebbero difendere quel muro non solo contro altri 3000 uomini, ma anche contro qualsiasi numero di migliaia di nemici; infatti, ognuno di loro avrebbe il compito di spingere una scala soltanto su una piccolissima parte del muro che potesse essere affrontata con le proprie mani.
+
+Ecco quindi ciò che si intende per la necessità di utilizzare numeri assoluti o un minimo specifico.
+
+Ecco esattamente ciò che accade nel caso di una lunga linea di trincee: le forze difensive non diventano sempre più deboli man mano che il loro numero diminuisce fino a zero; sono in grado di mantenere una certa lunghezza di trincee con un numero minimo di uomini, ma se questo numero scende al di sotto del limite necessario, non riescono più a difendere la linea e devono ritirarsi su una posizione più breve. Supponiamo, ad esempio, che, nelle condizioni descritte nel Diagramma I, una linea di trincee A-B tenga il fronte tra due ostacoli X e Y contro un nemico che attacca dalla direzione E. Il numero di uomini incaricati della difesa di queste trincee è di nove unità: questo numero è esattamente sufficiente, e solo sufficiente, per impedire al nemico che attacca da E di sfondare. Nove unità bastano appunto a garantire che nessuna parte della linea di trincee A-B rimanga indifesa.
+
+# Quanto basta per impedire che un nemico riesca a passare?
+
+Diagramma I. Supponiamo di avere una linea di trincee A-B che blocca l’accesso tra due ostacoli X e Y, contro un nemico che attacca dalla direzione E. Il numero di uomini che presidiano queste trincee è di nove unità, e questa cifra è appena sufficiente per impedire all’esercito nemico di avanzare.
+
+Ciò significa che, se si considerano i fossati in dettaglio, una certa lunghezza di fossato richiede un certo numero di uomini per essere difeso; e se tale numero di uomini non è disponibile, il fossato deve essere completamente abbandonato. È evidente, ad esempio, che un miglio di fossato non potrebbe essere difeso da soltanto sei uomini, anche se le forze nemiche fossero anch'esse composte da soltanto sei persone.
+
+Diagramma II. Ogni uomo in una trincea può essere considerato come responsabile di difendere un certo angolo dello spazio davanti a sé, come rappresentato da A-B-C. Se il punto estremo entro cui si può fermare un attacco è la linea L-L, allora bisogna disporre di almeno abbastanza uomini – a-a-a – per coprire quella linea con il loro fuoco.
+
 
 
 <span class="atom-split" data-atom="story_03_numbers_in_war--part_02" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 2)" data-chapter="NUMBERS IN WAR" data-kind="excerpt" data-tags="motif/the_battlefield_image,concept/war_and_its_cost,form/essay,form/nonfiction,histref/the_first_world_war,setting/the_battlefield"></span>
@@ -1318,6 +1645,40 @@ Now that is precisely the state of affairs upon the French and Belgian frontiers
 
 As for the line of the Rhine lying immediately behind F-B, the line D-D-D, it is a great deal longer than the shortest line they could take up. F-B, and though heavily fortified at five important points and with slighter fortifications elsewhere, it would need quite as many men to defend it as a corresponding line of trenches. Thus it would be no shortening of the German line to fall back upon the Rhine.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Prima di tutto, è necessario disporre di un numero sufficiente di uomini per coprire l’intero campo di fuoco davanti alla trincea, utilizzando i missili delle armi di ciascuno di loro, al fine di fermare l’assalto nemico. Ogni uomo con il proprio fucile può essere considerato responsabile della difesa di un determinato angolo dello spazio davanti a sé, come indicato dagli angoli A, B, C e da altri angoli simili nel Diagramma II. Questi angoli devono coprire l’intera area interessata; teoricamente, almeno, non dovrebbero trovarsi più lontani dalla trincea del punto più avanzato fino al quale si è rilevato che possa arrivare un attacco nemico prima che il fuoco combinato lo fermi. Nella pratica, ovviamente, sono necessari molti più uomini; ma la teoria fondamentale rimane questa: se il punto estremo entro cui si può sperare di fermare un attacco è rappresentato dalla linea L-L, e l’angolo entro cui un fucile può essere utilizzato efficacemente è l’angolo B-A-C, allora non sarà possibile difendere la trincea se non si dispone di un numero sufficiente di uomini per coprire interamente quella linea con il loro fuoco. Se si tenta di farlo con meno uomini, come mostrato nel Diagramma III, si finirà per coprire soltanto una parte del fronte, lasciando uno spazio vuoto tra i punti X e Y attraverso cui l’attacco nemico potrebbe proseguire indisturbato.
+
+Diagramma III: Se cercate di difendere la trincea con meno uomini, come mostrato in questo diagramma, coprirete soltanto una parte del fronte; rimarrà un vuoto tra le posizioni X e Y, attraverso il quale i nemici potranno attaccare.
+
+È evidente, ripeto, che in pratica sono necessari molti più uomini per mantenere efficacemente le trincee. Bisogna tenere conto delle perdite, delle differenze nelle capacità e nel coraggio dei singoli soldati, nonché del bisogno di rimpiazzarli a intervalli regolari e abbastanza brevi. In generale, si può affermare che una linea di trincee non possa essere difesa con successo con meno di 3000 uomini per miglio.
+
+I tedeschi controllano ora nel settore occidentale una linea di trincee lunga 500 miglia, con circa 4000 uomini per miglio; quindi il compito più difficile e importante della guerra sembra essere stato svolto da una parte del contingente britannico davanti a Ypres: un gruppo composto da soli 1500 uomini per miglio, tra cui cavalieri dismontati, riuscì infatti a difendere con successo un tratto di trincee lungo circa tre miglia per diversi giorni.
+
+È evidente, quindi, che quando si considera una linea di trincee, è necessario vederla come una serie di sezioni, ognuna delle quali richiede un certo numero minimo di uomini per essere difesa efficacemente. Pertanto, possiamo considerare la linea A-B nel Diagramma IV come composta da nove sezioni, come indicate dai numeri, e ogni sezione richiederà una determinata unità minima di uomini, ad esempio mille. Se una qualsiasi sezione dispone di meno uomini del numero minimo necessario, l’intera linea fallirà, poiché quella sezione verrà conquistata e la difesa crollerà.
+
+Diagramma IV. La linea di trincee A-B può essere composta da nove sezioni; per difendere ciascuna di esse sono necessari 1000 uomini. Se anche una sola sezione dispone di meno uomini del numero minimo richiesto, l’intera linea fallisce nella sua funzione difensiva.
+
+Diagrammi V e VI. Supponiamo che, a causa di morti, feriti e prigionieri, le nove sezioni si riducano a sei; in tal caso, la linea A-B non potrà più essere difesa. Le sei sezioni rimanenti dovranno riorganizzarsi nello stesso modo descritto sopra, ma in entrambi i casi si creerà una grave vulnerabilità. Cosa può allora fare il generale al comando di queste forze ridotte?
+
+(Vedi il Diagramma VII a pagina successiva.)
+
+Ora guardate di nuovo il primo diagramma: lì c’è la linea A-B, e ci sono nove unità in grado di sostenerla esattamente.
+
+Supponiamo che, a causa di morti, prigionieri, feriti e malattie, i nove uomini rimangano soltanto sei; in tal caso, la linea A-B non potrà più essere difesa. Ciò significa che i sei sopravvissuti dovranno essere disposti secondo il Diagramma V o il Diagramma VI, ma in ogni caso si creerebbe una vulnerabilità, sia essa doppia che singola, attraverso la quale l’avversario potrebbe sfondare. Cosa può fare il generale incaricato della difesa quando le sue truppe sono ridotte a tal punto?
+
+Diagramma VII. Il difensore non ha altra scelta se non ritirarsi su linee più corte, come quella tra F e G, che le sue sei unità rimanenti riescono appena a difendere. Se queste sei unità diminuiscono a quattro, dovrà ancora ritirarsi su una linea ancora più corta, quella tra C e D.
+
+Non ha altra scelta se non ritirarsi su posizioni più difensive. In altre parole, avendo solo sei unità rimaste, deve spostarsi in una posizione come la linea F-G, nel Diagramma VII; lì le sue sei unità saranno sufficienti per mantenere quella posizione. Se poi quelle unità diminuiscono a quattro, dovrà ritirarsi ancora su una posizione ancora più difensiva, come la linea C-D.
+
+Si noti bene che ciò non riguarda numeri proporzionali. Qui non stiamo considerando la forza relativa della difesa e dell’attacco; stiamo trattando di numeri assoluti: un minimo al di sotto del quale la difesa non può affatto mantenere una certa linea, ma deve cercarne una più corta.
+
+Diagramma VIII. Attualmente i tedeschi controllano approssimativamente la linea A-B, che si estende dal Mar del Nord fino ai Monti Svizzeri – per una lunghezza totale di 500 miglia, con tutte le sue curve e deviazioni. Se il loro numero diminuisce al punto da costringerli ad assumere una linea più breve, potrebbero o abbandonare l’Alsazia-Lorena sostituendo la linea C-B con quella C-G, oppure abbandonare gran parte del Belgio e della Francia settentrionale, sostituendo la linea A-C con quella E-C. Se il loro numero continuasse a diminuire, sarebbero costretti ad assumere una linea ancora più breve: la linea F-B. Tuttavia, ritirarsi lungo il Reno, ossia sulla linea D-D-D, non rappresenterebbe affatto un ridimensionamento della loro posizione strategica.
+
+Ecco esattamente la situazione sui fronti francese e belga in questo momento. I tedeschi controllano una linea che, in linea di massima, corrisponde a quella indicata nel Diagramma VIII: si estende tra le montagne svizzere e il mare vicino a Nieuport, e ha una lunghezza complessiva di circa 400 miglia, con numerose deviazioni. Se le loro forze diminuiscono al di sotto di un certo livello, non saranno in grado di mantenere questa linea e dovranno ritirarsi su una posizione più breve. Come potrebbero farlo? O abbandonando l’Alsazia-Lorena e sostituendo la linea attuale C-B con quella C-G, oppure rinunciando alla maggior parte del Belgio e di tutta la Francia settentrionale, ritirandosi sulla linea Anversa-Namur-Ardennes-Vosgi e sostituendo la linea A-C con quella E-C. In caso di riduzione delle forze, sarebbero costretti a ritirarsi su una linea ancora più breve, che partisse da Liegi e si estendesse verso sud, proteggendo soltanto il territorio tedesco, ovvero la linea F-B.
+
+Per quanto riguarda la linea del Reno che si trova immediatamente dietro F-B, ovvero la linea D-D-D, essa è molto più lunga della linea più breve che avrebbero potuto utilizzare. F-B, sebbene fortemente fortificata in cinque punti importanti e con fortificazioni meno consistenti in altri luoghi, richiederebbe lo stesso numero di uomini per essere difesa rispetto a una corrispondente linea di trincee. Pertanto, ritirarsi sul Reno non significherebbe affatto accorciare la linea tedesca.
 
 
 
@@ -1362,6 +1723,46 @@ Russia in her turn presented yet another type of growth. She had by far larger r
 
 I think it just to say that she certainly could not put into the European field more than five millions during the better part of the first year of the war. Though it must be remembered that if the war lasted indefinitely she would have at her back at any period indefinitely large reserves to draw upon.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ecco un esempio concreto di ciò che si intende per numeri assoluti e dell’importanza che questi hanno nella fase attuale della campagna.
+
+(2) E ora, che dire dei numeri proporzionali? È un aspetto su cui è necessario concentrarsi ancora di più, perché da esso dipenderà l’esito della campagna.
+
+La prima cosa che dobbiamo capire chiaramente è che Austria e [[Germany|Germania]] iniziarono la guerra con una netta superiorità numerica: avevano a disposizione un gran numero di uomini addestrati ed equipaggiati pronti a entrare in battaglia entro le prime sei settimane. In questo senso, avevano un grande vantaggio rispetto alla Russia e alla Francia messe insieme; per comprendere meglio quale fosse questo vantaggio, basta guardare il Diagramma IX.
+
+Diagramma IX. A rappresenta il numero totale di uomini che la [[Germany|Germania]] e l’Austria potevano schierare sul campo entro la metà di settembre. B indica le forze francesi e il primo contingente britannico; C mostra ciò che i russi erano in grado di fare. Questo dimostra che la [[Germany|Germania]] e l’Austria iniziarono la guerra con un grande vantaggio rispetto alla Russia, alla Francia e al Regno Unito messi insieme, in termini di numero di uomini addestrati ed equipaggiati pronti a combattere entro le prime sei settimane.
+
+La Figura A rappresenta il numero totale di uomini che Germania e Austria avrebbero potuto schierare sul campo entro la metà di settembre. La Figura B indica le forze francesi e il primo contingente britannico sul fronte occidentale; la Figura C mostra ciò che i russi avrebbero potuto fare sul fronte orientale.
+
+Questo vantaggio iniziale dell'avversario è un aspetto che viene molto poco apprezzato per due motivi. Primo, perché le persone tendono a considerare le cose in termini di nazioni e non di numeri; pensano alla Germania come a un’unica entità attaccata da Inghilterra, Francia, Russia e molte altre nazioni. Inoltre, esiste una grave concezione errata riguardo al numero di truppe che la Russia avrebbe potuto schierare sul campo di battaglia all’inizio della guerra.
+
+La Russia disponeva di truppe piuttosto ben attrezzate, con ufficiali qualificati e addestrati, armamenti adeguati, e tutto il resto necessario. Tuttavia, il numero delle sue truppe non era proporzionato alla sua popolazione, a differenza di quello dell’avversario. Il rapporto tra la popolazione russa e quella nemica era di circa diciassette a tredici. Invece, Germania e, in misura minore, Austria e Ungheria avevano organizzato l’intera popolazione al fine di partecipare alla guerra. La Russia non riusciva a fare lo stesso. Il suo unico vantaggio consisteva nella possibilità di reclutare continuamente nuove truppe, le quali, una volta addestrate e equipaggiate, potevano entrare in battaglia in sequenza. Tuttavia, all’inizio della guerra – diciamo a metà settembre – la Russia aveva probabilmente al massimo due milioni e mezzo di uomini in Polonia, mentre le forze nemiche, composte dall’insieme degli uomini equipaggiati, addestrati e pronti per combattere da parte di Austria e Germania fin dall’inizio della guerra, ammontavano ad almeno otto milioni.
+
+Quindi la guerra inizia con il nemico che dispone di un potere militare pari a 8, la Francia nominalmente di 4, ma in realtà più vicina ai 3; la Russia di 2½.
+
+Vediamo come il tempo abbia modificato questa grave disproporzione, e in che modo nuovi fattori, uniti all’effetto dello spreco, abbiano avuto su di essa un impatto.
+
+Gli eserciti che si trovavano sul campo all’inizio della guerra avevano rapporti molto diversi con i paesi da cui provenivano.
+
+Nella prima battaglia di quella campagna, la Gran Bretagna disponeva, lungo il fiume Sambre, di poco più dell’uno percento della sua popolazione totale. I francesi, all’inizio della guerra, avevano in campo il 5% della loro popolazione totale; i russi il 1%, i tedeschi forse il 5%, gli austriaci tra il 3 e il 4%, mentre i serbi addirittura il 10%. E il 10% rappresenta sicuramente la percentuale più alta che qualsiasi nazione possa schierare in battaglia.
+
+Ora, le possibilità di crescita per ciascuno di questi gruppi erano molto diverse a seconda del caso.
+
+Quello della Gran Bretagna era infinitamente vasto. Data abbastanza tempo, abbastanza denaro e sufficienti incentivi, la Gran Bretagna avrebbe potuto schierare in campo due milioni, o addirittura tre milioni di soldati. Era certa che nel primo anno di guerra sarebbe riuscita a schierarne più di un milione; forse avrebbe potuto raggiungere anche i due milioni. Inoltre, aveva alle sue spalle le Colonie come risorsa per il reclutamento, e – una questione ancora da discutere – l’Esercito Indiano.
+
+I francesi non avevano nulla su cui fare affidamento se non sui giovani che stavano crescendo. Pertanto, erano certi di non poter aumentare le loro forze per almeno sei mesi, il tempo necessario per addestrare efficacemente nuove formazioni militari.
+
+I tedeschi avevano a disposizione, come riserva, circa lo stesso numero di uomini che ne avevano mobilitati all’inizio della guerra. Se i francesi potevano contare su un totale complessivo di quattro milioni di uomini, di cui poco più di tre erano effettivamente idonei e in età utile per il servizio attivo in qualsiasi forma, allora la Germania poteva sperare di mobilitare un totale complessivo di poco più di sette milioni di uomini, con circa cinque milioni effettivamente utilizzabili: infatti, i maschi adulti tedeschi erano, rispetto ai francesi, in numero superiore di oltre due a uno.
+
+L’Austria avrebbe potuto, allo stesso modo, mobilitare riserve in numero leggermente maggiore rispetto alla Germania; tuttavia, poiché la sua popolazione era inferiore a quella tedesca, dobbiamo calcolarne il numero intorno ai quattro milioni invece che ai cinque, con un totale complessivo compreso tra i cinque e i sei milioni, anziché sette.
+
+La Serbia, come la Francia, non poteva aumentare il proprio contingente se non chiamando alle armi i giovani; inoltre, il suo esercito, proprio come quello francese, rappresentava una quantità fissa, almeno nei primi sei mesi di guerra, e aumentava di un decimo o meno soltanto quando la nuova classe di soldati veniva addestrata.
+
+A sua volta, la Russia presentava un altro tipo di sviluppo: disponeva di riserve di uomini adulti molto più vaste rispetto a qualsiasi altra potenza, e in termini dei materiali necessari per formare soldati addestrati, era praticamente paragonabile alla Germania e all’Austria messe insieme; teoricamente, considerando tutte le sue diverse etnie, era superiore alle due nazioni riunite. Tuttavia, era certo che non fosse in grado di equipaggiare, addestrare, incaricare di ruoli ufficiali o governare un numero eccessivo di persone in un determinato lasso di tempo.
+
+Penso che si voglia semplicemente sottolineare che, nella maggior parte del primo anno di guerra, lei certamente non avrebbe potuto destinare più di cinque milioni al fronte europeo. Tuttavia, è importante ricordare che, se la guerra fosse durata all’infinito, in qualsiasi momento avrebbe avuto a disposizione riserve molto più ingenti da utilizzare.
 
 
 
@@ -1413,6 +1814,52 @@ But though we know that Germany and Austro-Hungary have lost men in a greater pr
 In one case and up to one date we can arrive pretty accurately at the proportion. The German Empire alone had, up to a particular date in the autumn, lost in hit, sick, and caught (I will speak in a moment of the question of “returns”) 40 per cent. of the individuals up to that date put into the field. Both the French and the English had up to the same date lost just under 25 per cent.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Chiamiamo la Russia, almeno nei primi mesi di questa guerra, un esercito composto da un minimo di tre milioni e un massimo di cinque milioni di uomini. Calcoliamo che la Gran Bretagna, nello stesso periodo, disponga di due milioni di soldati: includendo tutti coloro che sono stati arruolati fino ad allora, quelli reclutati successivamente, nonché molti altri che non saranno né reclutati né completamente addestrati per diversi mesi ancora – ma escludendo le guarnigioni straniere e le forze navali. Un’ipotesi del genere rappresenta sicuramente un valore massimo per quel periodo.
+
+Quindi, mettendo insieme tutte queste cifre e considerando, per il momento, l’assenza di sprechi, i risultati sono quelli mostrati nel Diagramma X.
+
+Diagramma X: In che modo il tempo modificherà la grave disparità evidenziata nel Diagramma IX? Prendendo, in modo approssimativo, i primi mesi della guerra, a parte le perdite subite, i nostri nemici rimangono, mese dopo mese, di gran lunga superiori a entrambe le metà degli Alleati contro cui combattono: i francesi e gli inglesi in Occidente, i russi in Oriente.
+
+Osservate questo diagramma e tenetelo a mente per giudicare correttamente durante tutto il corso della guerra: è senz’altro la verità più importante da ricordare. A parte le perdite inevitabili, i nostri nemici rimasero, per tutta l’inverno, di gran lunga superiori a entrambe le metà degli Alleati contro cui combattevano. Ricordate che, in Occidente, non abbiamo mai schierato più di 6 contro 9 soldati contro l’Austria-[[Germany|Germania]], e in Oriente certamente non più di 5 contro 9 contro la Russia.
+
+Le forze alleate, unite, saranno finalmente numericamente superiori al loro nemico, ma solo con un rapporto di 11 a 9 (escludendo le perdite), e tale massimo non sarà raggiunto prima dell'estate.
+
+Ho messo in grassetto quel paragrafo perché la malcomprensione di una verità così semplice è alla base di tre quarti delle sciocchezze che si sentono riguardo a quella campagna. È alla base dell’idea che la vittoria fosse facile e rapida; è alla base della convinzione che fosse certa, ed è anche alla base di molta impazienza e critica stupida di oggi.
+
+Fu proprio la conoscenza di questa verità a far sentire il governo tedesco sicuro del successo quando decise di dichiarare guerra nel giorno e nell’ora scelti (ricordiamo con quale curiosa superstizione i tedeschi attraversarono il confine nello stesso giorno e alla stessa ora di quell’anno 1870); soltanto l’ignoranza di questa verità può spiegare le follie che si sentono ancora oggi.
+
+Mentre scrivo, sto ancora riflettendo sul resoconto di un sermone tenuto da un certo clérigo, un inglese, ma non in Inghilterra, per fortuna. Nel suo discorso parlava della [[Germany|Germania]], descritta come un paese che, con le spalle al muro, combatte contro il mondo intero, e esprimeva la sua ammirazione per questo comportamento. Ovviamente non aveva mai preso in considerazione l’aspetto numerico delle cose.
+
+E ora, che ne dici dello spreco?
+
+Per nostra fortuna, le necessità militari tedesche, così come la loro dottrina strategica, hanno comportato un’elevatissima quantità di sprechi. E, ancora per nostro vantaggio, questi sprechi sono stati particolarmente evidenti nel caso degli ufficiali.
+
+Una discussione sui numeri non permette di affrontare gli altrettanto importanti aspetti morali della guerra; tuttavia si può almeno accennare al fatto che l’intero organismo militare generale della [[Germany|Germania]] dipenda, più di qualsiasi altro paese, dal divario esistente tra gli ufficiali e coloro che sono immediatamente sotto di loro. In Francia è possibile trasformare un sottufficiale in ufficiale senza rischiare di indebolire minimamente la forza morale dell’intero organismo militare; questa pratica avviene costantemente, sia in tempo di pace che in tempo di guerra su larga scala. In Germania, invece, nulla del genere è possibile.
+
+L’attacco eseguito in formazione ravvicinata, con tutti i vantaggi evidenti che offre in termini di velocità e grazie alla solida tradizione disciplinare che lo rende possibile, rappresenta un altro fattore di costo. Ma il più costoso di tutti è sicuramente la determinazione a vincere immediatamente.
+
+Perché i tedeschi hanno speso tante risorse umane nella loro determinazione di vincere rapidamente? Una guerra lunga è temuta dalla Germania per quattro motivi distinti e uguali.
+
+(1) Che, nel corso di un periodo di tempo davvero considerevole, due dei suoi avversari siano in grado di espandersi indefinitamente: la Russia e la Gran Bretagna.
+
+(2) Perché tutta l’esperienza storica dimostra che i francesi sono un popolo capace di riunirsi e che, a meno di sconfiggerli subito dopo le loro prime battute d’arresto, la loro tenacia diventerà sempre più pericolosa.
+
+(3) Poiché la potenza della Flotta Britannica è in grado di stabilire un blocco più o meno completo; finora, per motivi politici, tale blocco è stato solo meno completo.
+
+(4) Poiché il problema strategico, ovvero la battaglia su due fronti, prevede come metodo per ottenere la vittoria un successo definitivo su uno dei fronti prima di poter essere certi del successo anche sull’altro.
+
+Quest’ultimo punto merita di essere spiegato più in dettaglio. Un esercito che combatte contro avversari più deboli su due fronti è paragonabile a un uomo molto alto che affronta due uomini molto più piccoli. Gli avversari più deboli possono infastidirlo in misura maggiore di quanto il loro semplice potere combattivo o il loro peso possano spiegare, e questo perché attaccano da direzioni diverse.
+
+Un uomo così posizionato cercherà sicuramente di neutralizzare uno dei suoi due avversari prima di concentrare tutte le sue forze sull’altro. Questo sarebbe un piano necessario per la situazione in cui si trova, e lo stesso vale quando una Potenza o un gruppo di Potenze combattono su due fronti, anche se dispongono di un numero superiore di truppe su entrambi i fronti, come avviene ancora oggi con gli Austro-Germani.
+
+Per tutti questi quattro motivi, quindi, la Germania era destinata a sprecare uomini, e infatti ne ha sprecati moltissimi fino alla fine dello scorso anno. Li ha gettati via senza pensarci durante il primo assalto a Parigi, poi durante gli enormi attacchi in Fiandra, e successivamente – in modo del tutto separato – nel suo disperato tentativo di raggiungere Varsavia in Polonia; obiettivo che, al momento della stesura di queste parole, non è riuscita affatto a realizzare.
+
+Ma sebbene sappiamo che Germania e Austria-Ungheria hanno perso uomini in una proporzione maggiore rispetto agli Alleati occidentali, e anche se possiamo supporre che abbiano perso uomini in misura superiore rispetto ai nostri Alleati orientali – nonostante le pesanti perdite di prigionieri a Tannenberg – non è facile fornire una stima accurata di tale proporzione.
+
+In un caso specifico e fino a una data determinata, possiamo arrivare con relativa precisione a tale proporzione. Solo l’Impero tedesco, entro una data autunnale precisa, aveva perso, a causa di morti, malattie e feriti, il 40% delle persone inviate in campo fino a quella data. Sia la Francia che l’Inghilterra avevano perso, nello stesso periodo, poco meno del 25%.
+
 
 
 <span class="atom-split" data-atom="story_03_numbers_in_war--part_05" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 5)" data-chapter="NUMBERS IN WAR" data-kind="excerpt" data-tags="setting/germany"></span>
@@ -1432,6 +1879,22 @@ Now, though these “returns” are probably smaller in the East than in the Wes
 
 We must add, therefore, in that proportion to all our figures, and the result will slightly modify our conclusion, for as the central body — the enemy — has had more casualties, so it has a larger number of returns in proportion to its size, and the general deduction is that at the moment of writing (late winter) the Germanic body and the Allies opposed to them actually in the field or in training — just behind the field and ready to approach it within a few weeks — are nearly equal in total numbers, but with an appreciable margin still in favour of the enemy.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+So che quella percentuale del 40% sembra assurdamente esagerata se presentata senza alcun supporto, ma si tratta comunque di una conclusione del tutto fondata. Se si prendono in considerazione le liste pubblicate dalla Prussia, si notano le date a cui fanno riferimento, la proporzione tra i morti e i feriti registrati ufficialmente, e si aggiunge anche la percentuale relativa a Baviera, Württemberg e Sassonia, si scopre che a quella data, verso la fine dell’autunno, due milioni di persone erano state colpite; inoltre, all’epoca l’[[Germany|Germania]] non aveva armato più di cinque milioni di persone al massimo.
+
+Ora, proprio come nel nostro caso, la proporzione di ufficiali colpiti, feriti o catturati era molto più alta rispetto a quella dei soldati semplici; ma ciò che è forse ancora più importante è il fatto che la percentuale di ufficiali uccisi o gravemente feriti era decisamente superiore rispetto ai soldati leggermente feriti. È abbastanza certo che, entro la fine dell’anno, metà degli ufficiali professionisti formati del servizio militare tedesco fossero permanentemente inabile a prestare servizio.
+
+Supponendo che le perdite russe non siano maggiori di quelle degli Alleati occidentali (probabilmente lo sono, considerando le condizioni delle battaglie), o ammettendo che siano del 30% invece del 25%, e supponendo che le perdite austro-ungariche siano paragonabili a quelle tedesche (secondo le uniche fonti statistiche disponibili, sembrerebbe proprio così), possiamo fare una stima approssimativa dell’elemento di spreco. Possiamo quindi dire che, se consideriamo il valore medio di 9 come cifra di riferimento, allora 3,6 unità sono andate perse; mentre delle 4 e 3 unità presenti su ciascun fronte (corrispondenti alla forza proporzionale degli Alleati occidentali ed orientali nella prima fase), in entrambi i casi ne è andata persa una, lasciando rispettivamente 3 e 2 unità.
+
+Si può vedere che, da questo calcolo approssimativo, le perdite subite dal nemico sono state molto maggiori delle nostre; se tali perdite fossero state assolute, la sua superiorità numerica sarebbe cessata e i numeri si sarebbero equilibrati.
+
+Ma c’è ancora un ultimo elemento da considerare nel calcolo che non deve essere dimenticato. Le uniche persone permanentemente impossibilitate a partecipare alle operazioni belliche sono quelle uccise, disabili o catturate. La stragrande maggioranza dei malati ritorna al fronte, e poco più della metà dei feriti – almeno in una guerra moderna, dove ci sono buone strutture sanitarie e strade adatte al trasporto dei soccorsi.
+
+Ora, sebbene questi “ritorni” siano probabilmente più bassi nell’Est che nell’Ovest (poiché nel campo di battaglia orientale il clima e l’assenza di comunicazioni sono fatali per molti dei feriti, mentre in Occidente tali feriti potrebbero essere salvati), sarebbe opportuno fare un calcolo conservativo, considerando che si tratti della metà dei feriti in entrambi i casi; oppure, escludendo i prigionieri, di più di un terzo – diciamo il 35% – di tutte le vittime.
+
+Dobbiamo quindi aggiungere, proporzionalmente a tutte le nostre cifre, e il risultato modificherà leggermente la nostra conclusione: poiché il corpo centrale, ovvero il nemico, ha subito più perdite, possiede anche un numero maggiore di risorse in proporzione alle sue dimensioni. La deduzione generale è che, al momento della stesura di queste parole (a fine inverno), le forze germaniche e gli Alleati schierati contro di loro, sia sul campo che in fase di addestramento – pronti a entrare in azione entro poche settimane – sono quasi equivalenti per numero totale, ma con un margine significativo ancora a favore del nemico.
 
 
 
@@ -1477,6 +1940,46 @@ But there is much more than this high scale of expenditure in the things necessa
 You give to the minesman a rifle which is a carefully constructed and expensive machine, much more valuable than all the tools that would ever be in the possession of any but a small minority of skilled artisans. He has belt, pouches, pack covering to match. He must expend in the use of that weapon ammunition costing something quite out of proportion to any expenditure involved by the use of his implements in his civilian trade.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Approvvigionamento
+
+Dopo i numeri, il secondo fattore principale che determina la forza di un esercito è il suo approvvigionamento: i mezzi necessari per ottenere vestiti, cibo, alloggi, munizioni e tutti quegli oggetti senza i quali l’esercito non potrebbe né sopravvivere né combattere. L’organizzazione meravigliosamente complessa ed estremamente costosa richiesta in questo ambito viene qui spiegata nel dettaglio.
+
+Approvvigionamento
+
+Un esercito dispone di due principali fattori di forza: si tratta di due elementi materiali fondamentali, oltre ai fattori morali come coraggio, disciplina, abitudini e relazioni interne. Questi due fattori materiali sono, in primo luogo, il numero degli uomini che lo compongono, e in secondo luogo le risorse logistiche a sua disposizione.
+
+Il primo di questi aspetti è così evidente agli occhi del pubblico che spesso viene preso in considerazione da solo. È, naturalmente, la base su cui si fonda tutto il resto. A meno che non si disponga di un numero sufficiente di persone per svolgere un compito, non sarà possibile portarlo a termine affatto. Ma il secondo aspetto, che raramente viene considerato dall’opinione pubblica, rappresenta una necessità altrettanto assoluta quanto quella di disporre di un numero adeguato di persone.
+
+Il termine generico “approvvigionamento” comprende tutti quegli oggetti senza i quali un esercito non potrebbe esistere o combattere: vestiti, riparo, cibo, armi, strumenti ausiliari, munizioni.
+
+L’intento di queste poche righe non è certo quello di entrare nei dettagli o di fornire informazioni precise, come quelle che si possono trovare nei libri di testo, ma piuttosto di evidenziare alcuni aspetti fondamentali relativi all’approvvigionamento che di solito non vengono presi in considerazione, soprattutto in momenti come questo, quando l’ottenimento delle risorse attraverso il reclutamento volontario è l’argomento principale nell’opinione pubblica. Questi aspetti fondamentali possono essere riassunti brevemente in tre gruppi.
+
+Prima di tutto, dovremmo comprendere l’entità dell’offerta: in altre parole, la portata delle operazioni che vengono svolte quando un esercito viene equipaggiato, inviato sul campo e mantenuto lì.
+
+Successivamente dobbiamo comprendere il tasso di approvvigionamento: la velocità con cui deve essere mantenuto il flusso di rifornimenti (che varia a seconda delle diverse forme di approvvigionamento), affinché un esercito non perda efficienza né venga indebolito.
+
+Infine, dobbiamo considerare la delicatezza o la facilità con cui possono sorgere imbarazzi legati all’approvvigionamento; cioè le difficoltà specifiche che derivano dal mantenimento di un esercito sul campo, l’alta probabilità che tale approvvigionamento venga interrotto in modo fatale, e gli imbarazzi conseguenti che un nemico può causarci, o che noi possiamo causare a lui, in questa operazione vitale della guerra.
+
+Per quanto riguarda l’entità dell’offerta, è importante notare che in questo fattore ci sono numerosi elementi facilmente trascurati; il primo di questi è quello relativo ai costi comparativi. Non ha molto senso presentare alle persone serie di cifre che dimostrano quanto costi mantenere un esercito vasto, in milioni di sterline. Ciò che conta davvero è il peso economico complessivo del servizio militare rispetto al lavoro civile, e questo aspetto è molto più facile da comprendere della semplice entità assoluta dei costi.
+
+La grande maggioranza degli uomini in un esercito proviene, naturalmente, dalla stessa classe sociale della grande maggioranza dei lavoratori e degli artigiani in tempo di pace; il primo aspetto da notare riguardo allo stato di guerra è che a questi uomini vengono forniti strumenti e rifornimenti per il loro compito in modo più abbondante rispetto a quanto ne avrebbero bisogno nella vita civile.
+
+Diagramma I. La grande maggioranza degli uomini nell’esercito proviene dalla stessa classe sociale della grande maggioranza dei lavoratori e degli artigiani in tempo di pace; tuttavia, per il loro mestiere vengono forniti strumenti e rifornimenti su scala molto più ampia rispetto a quanto ne avrebbero bisogno nella vita civile. La differenza nei costi di mantenimento – abbigliamento, cibo, attrezzi, ecc. – di un marinaio e di un soldato per un anno è indicata approssimativamente nel diagramma sopra riportato.
+
+I loro vestiti devono essere migliori, perché l’abbigliamento necessario per una campagna militare è molto diverso da quello quotidiano. È proprio a questo aspetto che si devono attribuire molte delle lamentele riguardanti la qualità dei materiali utilizzati dai fornitori durante le guerre.
+
+Lasciate che vi dia un esempio tratto dalla mia esperienza personale. Se non mi sbaglio, il pesante cappotto blu scuro indossato dai cannonieri nell’esercito francese costa, quando tutti i costi vengono ridotti al minimo grazie alle fabbriche statali, all’acquisto di abiti all’ingrosso e alla mancanza di quei profitti tipici del commercio ordinario, non meno di 100 franchi, ovvero 4 sterline. Quel cappotto rappresenta materiali e lavorazione di qualità che, se venduti in un negozio dell’East End a Londra, costerebbero sicuramente almeno 6 sterline. In altre parole, i soldati semplici, in numero molto elevato, indossavano un cappotto la cui qualità – almeno in termini di costo – era accessibile soltanto a persone molto benestanti, a una piccolissima minoranza della popolazione, in tempi di pace.
+
+Osservate inoltre che voi nutrite quest’uomo in modo molto migliore di quanto faccia il moderno sistema capitalista di produzione. Dovete farlo, altrimenti non sareste in grado di mantenere il vostro esercito alla massima efficienza.
+
+Molti uomini che, nella vita civile, non mangerebbero mai carne di manzo più di una o due volte a settimana, nell’esercito ricevono un chilo e venticinque di carne al giorno, oltre a oltre un chilo di pane. È curioso notare, in un contesto di servizio militare obbligatorio, quanto sia piccola la percentuale di persone – soltanto coloro provenienti dalle classi socialmente più agiate – che ritengono il rifornimento fornito dall’esercito insoddisfacente (nessuno lo considera insufficiente), e come, per la stragrande maggioranza, tale rifornimento rappresenti addirittura un miglioramento rispetto a ciò a cui erano abituati in famiglia.
+
+Ma ci sono molte altre cose, oltre a queste spese elevate per le necessità essenziali alla vita stessa dell’uomo. Gli si forniscono anche mobili speciali, molto più costosi di quelli che utilizza nella vita quotidiana.
+
+Si fornisce al minatore un fucile: un’arma costruita con cura e costosa, molto più preziosa di tutti gli strumenti che possiederebbe qualsiasi altro artigiano, tranne una piccola minoranza di esperti. Il minatore dispone anche di cinture, tasche e coperture per il carico. Tuttavia, l’uso di quell’arma richiede l’impiego di munizioni il cui costo è decisamente sproporzionato rispetto a quello degli strumenti utilizzati nel suo lavoro civile.
+
 
 
 <span class="atom-split" data-atom="story_04_supply--part_02" data-title="The Two Maps of Europe — SUPPLY (part 2)" data-chapter="SUPPLY" data-kind="excerpt" data-tags="motif/horse,motif/machine,concept/war_and_its_cost,concept/economics,form/essay,form/nonfiction,histref/the_first_world_war"></span>
@@ -1504,6 +2007,30 @@ To all this conception of scale you must add two more points. The soldier is mov
 
 The second and last point in this consideration of scale is the enormously expensive element of uncertainty. It would be expensive enough to have to arrange for so much movement and so much clothing and equipment upon a wholly novel and increased scale, if we knew exactly what that movement and that equipment was to be — if, so to speak, you could take the problem statically and work out its details in an office as you work out the costings of a great shop or factory. But it is in the essence of an army that it should be mobile, moving suddenly and as quickly as possible where it is wanted, with no power of prediction as to how those moves may develop. You are “in” therefore, for an unknown factor of expense over and above the novelty and very high cost of the economic energy you suddenly bring into play with war. And that unknown factor is the extent to which you will be wasting and moving.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Al cavaliere che vieni dotato di un cavallo – un animale che non potrebbe mai permettersi di possedere come proprietà personale, e il cui livello qualitativo è superiore a quello dei cavalli con cui probabilmente lavorerebbe per un padrone in quasi tutti i mestieri – senza contare il fatto che la proporzione di uomini dotati di cavalli è molto più alta rispetto a quella degli uomini che, nella vita civile, devono occuparsi direttamente di questi animali. Al conducente di un cannone viene assegnato necessariamente un cavallo sano e robusto; agli ufficiali subalterni dell’artiglieria da campo, nonché a numerosi ufficiali di tutto l’esercito, vengono forniti cavalli che, in una professione civile, non potrebbero mai permettersi. E naturalmente, viene anche garantita la loro alimentazione.
+
+Molte delle branche dell’esercito alle quali state fornendo strumenti di estremo costo. Un cannone da campo, credo, non costa meno di 600 sterline. E per ogni mille uomini che inviate in battaglia, potete calcolare almeno quattro di questi strumenti. Ogni volta che uno di essi spara, si consumano quindici scellini di munizioni. A parte l’usura stessa del cannone da campo, un pezzo moderno e a fuoco rapido, se utilizzato con moderazione, consumerà una banconota da dieci sterline in munizioni in soli un minuto. E a ogni cannone viene concesso un limite massimo di 1000 colpi.
+
+Inoltre, un esercito è dotato di artiglieria pesante; i pezzi di questa artiglieria costano da centinaia a migliaia di sterline, a seconda del loro calibro (un cannone da 9,2 pollici, compresa l’affustatura, costa quasi 12.000 sterline); inoltre, l’esercito è equipaggiato anche con una vasta quantità di materiali ausiliari: veicoli meccanici e altri mezzi, telefoni, cucine da campo, aerei, e così via; nessuno di questi costi riguarda la vita civile degli stessi soldati.
+
+L’entità di questo business viene ulteriormente evidenziata dal fatto che, non appena scoppia la guerra, l’intera nazione viene chiamata a produrre materiali che, in media, sono più costosi rispetto a quelli che gli stessi individui avrebbero utilizzato e consumato durante la vita civile; inoltre, si tratta di prodotti diversi da quelli per cui la nazione era organizzata a produrli in tempo di pace. Questo cambiamento comporta inevitabilmente costi elevati. Un altro fattore che aumenta i costi è l’uso innovativo degli strumenti esistenti.
+
+Diagramma II. Molti reparti di questo servizio sono dotati di strumenti davvero molto costosi. Ad esempio, un cannone da campo costa almeno 600 sterline; ogni volta che spara, consuma quindici scellini di munizioni. Un pezzo d’artiglieria moderno, se utilizzato con moderazione, può consumare una banconota da dieci sterline in un minuto. A ciascun pezzo viene concesso un quantitativo massimo di 1000 proiettili; l’entità di questa riserva è illustrata nel diagramma: 40 file di proiettili, per un totale di 25 proiettili in ogni fila.
+
+È più costoso utilizzare uno strumento per uno scopo per cui non è mai stato progettato, piuttosto che usarlo per lo scopo per cui è stato creato. Questa è una verità universale: dal colpire un chiodo con la suola di una scarpa fino al requisire un transatlantico per il trasporto di truppe. In tempo di guerra, l’intera nazione inizia immediatamente a utilizzare strumenti, originariamente progettati per scopi civili, a fini militari.
+
+In tutta la Francia e in tutta l’Inghilterra, ad esempio, in questo momento, ogni officina che sia in grado, in un modo o nell’altro, di produrre munizioni lo sta facendo; spesso lo fa utilizzando attrezzature – torni, strumenti da taglio, ecc. – che originariamente non erano affatto destinate alla produzione di munizioni, ma piuttosto alla realizzazione di componenti per biciclette, pompe, motori, turbine, e così via.
+
+Un altro esempio: entrambe le potenze hanno trovato i loro autobus estremamente utili in questa guerra. Parigi ne è quasi priva; Londra, invece, ha visto interrotta la sua normale fornitura. Tuttavia, un autobus utilizzato per trasportare carne o addirittura truppe non svolge più lo scopo per cui è stato progettato: cioè circolare su strade buone di una grande città, con un carico massimo prestabilito. È necessario adattarlo a nuove esigenze; viene utilizzato in modo molto più rudimentale, ha una durata di vita inferiore e, di conseguenza, comporta costi maggiori.
+
+Ecco un modo abbastanza esplicito per illustrare ciò che significa questa scala di approvvigionamento. Prendiamo un Corpo d’Armata composto da 40.000 uomini: solo in termini di carne, tale quantità è sufficiente per nutrire lo stesso numero di animali per un intero anno. Per quanto riguarda i vestiti – escludendo ogni tipo di spreco, nonché armi e attrezzature ausiliarie – la quantità necessaria ammonta a circa un quarto o mezzo milione di libbre. In termini di razioni quotidiane di pane, ciò equivale a quasi 200 sacchi di grano; per quanto riguarda l’equipaggiamento materiale – escludendo le munizioni – si aggiungono almeno altri 250.000 libbre per armi e macchinari, oltre a un minimo di 80.000 sterline per munizioni leggere, e una quantità equivalente in proiettili.
+
+A tutta questa concezione della scala di movimento militare si devono aggiungere ancora due aspetti. Il soldato viene spostato in modi diversi rispetto ai civili: gli vengono forniti mezzi e opportunità a scapito dello Stato, e non per il proprio piacere; questi spostamenti equivalgono a numerose e lunghe spedizioni. Viene trasportato attraverso il mare, riportato in patria in congedo o durante la convalescenza, spostato da un luogo all’altro in treno o tramite mezzi meccanici. E tutto ciò su una scala decisamente sproporzionata rispetto ai limitati spostamenti che i civili possono effettuare nella loro vita quotidiana. In soli sei mesi, centinaia di migliaia di inglesi sono stati trasportati nel cuore della Francia, spostati nuovamente in quel paese su una distanza di oltre cento miglia, e una parte considerevole di loro è stata riportata indietro e inviata di nuovo altrove nel frattempo. Infine, c’è il costo elevato e imprevedibile legato alle esigenze mediche dei soldati.
+
+Il secondo e ultimo aspetto da considerare riguardo alla scala è l’enorme elemento di incertezza legato a tali operazioni. Sarebbe già abbastanza costoso organizzare un movimento così vasto, nonché fornire abiti ed equipaggiamento su una scala completamente nuova e più ampia, se sapessimo esattamente di cosa si tratta. In altre parole, se potessimo affrontare il problema in modo statico, analizzando nei dettagli i costi come si farebbe per un grande negozio o una fabbrica. Ma l’essenza stessa di un esercito è proprio quella di essere mobile: deve muoversi improvvisamente e il più rapidamente possibile dove necessario, senza alcuna possibilità di prevedere come si svilupperanno tali movimenti. Di conseguenza, si aggiunge un fattore di incertezza e di costo ulteriore rispetto alla novità e agli altissimi costi legati all’energia economica che viene improvvisamente messa in gioco dalla guerra. Quel fattore sconosciuto dipende proprio dal grado di spreco e inefficienza nei movimenti militari.
 
 
 
@@ -1539,6 +2066,36 @@ The whole process may be compared to the perpetual running of millions of double
 To keep such a web untangled, duly stretched, and accurately working is an effort of organization such as will never be seen in civilian life, and such as was never seen, even in military life, until modern times.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Se considerazioni di questo tipo ci danno un’idea dell’entità dell’offerta, un’altra serie di riflessioni ci aiuterà a comprendere il tasso o la velocità con cui deve fluire questo flusso di offerta.
+
+Esistono diversi modi per rappresentare graficamente questo concetto attraverso esempi. Ecco alcuni di essi.
+
+La Gran Bretagna controlla metà del traffico marittimo mondiale. Essendo coinvolta in questa guerra, una parte delle sue risorse mercantili viene improvvisamente richiesta per le operazioni militari. Queste navi devono navigare costantemente, consumando carbone, rifornimenti per l’equipaggio e materiali per le riparazioni, a un ritmo molto più elevato di quanto avvenga nel loro uso civile; ciò si riflette inevitabilmente sui cittadini comuni, con un aumento significativo dei costi di trasporto e quindi dei prezzi delle importazioni che arrivano sull’isola.
+
+Diagramma III. La Gran Bretagna controlla la metà del traffico navale mondiale. Quando entra in guerra, una parte delle sue risorse mercantili fluttuanti viene improvvisamente richiesta per le operazioni belliche. Queste navi devono navigare costantemente, consumando carbone, rifornimenti, ecc., a un ritmo molto più elevato di quanto avvenga in tempo di pace; ciò si riflette direttamente sui cittadini comuni, con aumenti dei costi di trasporto e quindi delle tariffe sugli importi. I gruppi A, B e C rappresentano complessivamente il traffico navale mondiale: il gruppo A indica le navi straniere, mentre i gruppi B e C insieme indicano l’intero traffico navale britannico; il gruppo C, in particolare, rappresenta la parte delle risorse navali destinate esclusivamente alle esigenze belliche.
+
+Ecco un altro esempio. Questo paese è altrettanto industrializzato quanto qualsiasi altro al mondo; è particolarmente adatto alla produzione di oggetti meccanici, soprattutto di quelli in metallo. Tuttavia, supponiamo che anche a questo paese venisse chiesto improvvisamente (utilizzando soltanto le strutture industriali esistenti prima della guerra) di equipaggiare un esercito simile a quello con cui i francesi hanno difeso il loro paese lo scorso agosto – non per fornire munizioni, ma solo armi e macchinari ausiliari. Realizzare una tale richiesta richiederebbe a tutte le fabbriche di armi del Regno Unito più di due anni.
+
+Consideriamo il tasso di consumo di munizioni. Nel valutare questo aspetto legato al ritmo e alla velocità di rifornimento, dobbiamo ricordare i momenti in cui lo spreco sul fronte diventa estremamente elevato. Una rapida ritirata, come quella da Mons, comporta la perdita di grandi quantità di materiale. Un momento favorevole, come quello del 6 settembre, sfruttato per lanciare una controffensiva – nota come “La battaglia della Marna” – significa un consumo di munizioni tale da non essere mai stato previsto nei manuali o considerato possibile prima dell’inizio di questa campagna.
+
+Ecco un esempio: i tedeschi si erano preparati alla guerra per due anni, preparandosi appositamente per quel preciso momento in cui decisero di attaccare l’Europa. Le loro prime operazioni in Francia, fino al 6 settembre, seguirono quasi esattamente il piano che avevano attentamente elaborato. Tuttavia, oggi sappiamo che intere parti dell’esercito nemico si appropriarono delle enormi risorse militari che affluivano verso il loro fronte; inoltre, uno dei fattori che contribuirono al disordine nelle prime fasi della guerra tedesca furono proprio la carenza di munizioni, soprattutto per le armi pesanti.
+
+Si riferisce comunemente, e probabilmente è vero, che il nemico, prima della fine del suo grande sforzo in Occidente (che durò meno di cento giorni e la cui intensità diminuì a partire dalla metà di novembre), consumò sette volte la quantità di munizioni pesanti prevista per l’intera campagna.
+
+Ecco un altro esempio: la vita di un cavallo durante la Guerra Sudafricana, credo, durasse molto meno delle settimane che lo stesso animale avrebbe potuto vivere in condizioni civili.
+
+Diagramma IV. Un treno truppa è un treno molto lungo, e contiene moltissimi uomini ammassati uno accanto all’altro. Per spostare un solo corpo d’esercito (senza la cavalleria) sono necessari oltre 180 treni del genere. Il diagramma vi dà un’idea di cosa ciò significhi.
+
+Ecco un altro esempio, legato al trasporto. Un treno truppa è molto lungo e stipato di uomini; per il trasporto di animali e oggetti materiali, ogni centimetro di spazio disponibile viene calcolato e sfruttato al massimo. Bene, per spostare un solo Corpo d’Armata (senza la cavalleria) sono necessari oltre 180 treni del genere. Ora, già all’inizio della guerra, su un solo fronte, prima che le cifre definitive fossero state stabilite, l’invasione tedesca coinvolgeva almeno venticinque Corpi d’Armata.
+
+Un tale comprendimento delle dimensioni e del ritmo degli approvvigionamenti è sufficiente per chiarire il terzo punto che voglio sottolineare: la delicatezza di tutta questa operazione e i rischi legati a eventuali intoppi. Si tratta di fornire cibo, munizioni, vestiti, evacuare i feriti, offrire rifugio ed equipaggiare milioni di uomini; questi milioni sono esposti a improvvisi periodi di spreco, che possono verificarsi in qualsiasi momento inaspettato, e inoltre sono soggetti a movimenti repentini e imprevedibili su qualsiasi scala. È quindi fondamentale coordinare con precisione tutti gli approvvigionamenti, in modo che nessuna parte di questa vasta rete venga interrotta nemmeno per ventiquattro ore.
+
+L’intero processo può essere paragonato al funzionamento continuo di milioni di “fili doppi” che partono da ogni singolo soldato e arrivano fino ai depositi centrali dell’esercito, per poi proseguire verso le fabbriche; questi “fili doppi” lavorano costantemente avanti e indietro tra le fabbriche e il Fronte. Questi fili, che viaggiano sempre avanti e indietro, si raggruppano in numerosi centri locali; tali gruppi vengono poi riuniti in centinaia di centri più grandi, e questi ultimi concentrati in poche decine di principali basi di approvvigionamento. Le estremità di tutti questi fili, sebbene siano costantemente in movimento avanti e indietro, devono essere mantenute tese; a volte si sovrappongono tra loro in schemi complessi che richiedono continui aggiustamenti. Inoltre, di tanto in tanto, alcuni gruppi di fili subiscono una forte sollecitazione, soprattutto quando le persone a cui sono collegati sono impegnate in azioni particolarmente violente.
+
+Mantenere un tale sistema ordinato, ben funzionante e perfettamente allineato richiede uno sforzo organizzativo di cui non si ha esempio nella vita civile, e che nemmeno nell’esercito era stato riscontrato fino ai tempi moderni.
+
 
 
 <span class="atom-split" data-atom="story_04_supply--part_04" data-title="The Two Maps of Europe — SUPPLY (part 4)" data-chapter="SUPPLY" data-kind="excerpt" data-tags="motif/machine,concept/war_and_its_cost,concept/economics,form/essay,form/nonfiction,histref/the_first_world_war"></span>
@@ -1556,6 +2113,20 @@ To produce such a confusion, moral as well as material, is the directing motive 
 
 It is on this account that nations fighting with their whole strength, as modern nations in competition with the detestable Prussian model are compelled to fight, must ultimately, willy-nilly, turn to the policy of complete blockade, and that the success of this policy attempted by both parties to a struggle — necessarily better achieved by one than by the other — will perhaps more largely than anything else determine — seeing what the complexity of national commerce now is — the issue of a great modern war.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Diagramma V. Un punto importante riguardo all’approvvigionamento è la delicatezza dell’intero processo e il rischio di eventuali intoppi. Il diagramma riguarda soltanto un dettaglio minimo del flusso logistico: nientemeno che l’approvvigionamento di munizioni per una singola unità militare, tra le centinaia che compongono un esercito. Mostra come le munizioni vengano selezionate e distribuite da un deposito logistico fino ai soldati in prima linea; tuttavia, nelle condizioni reali di servizio, la complessità del processo è molto più elevata e varia a seconda delle circostanze.
+
+Osservate il quinto diagramma, che riguarda soltanto un dettaglio minuscolo del processo: nient'altro che l’approvvigionamento di munizioni (tra tutte le cose necessarie per il funzionamento del sistema) e nient'altro che le munizioni di una singola unità di una divisione (esclusa la cavalleria), tra le centinaia di divisioni che compongono uno di questi grandi eserciti nazionali. Anche quel diagramma, per quanto complesso, non rappresenta nemmeno lontanamente tutta la complessità di una parte così piccola del processo; tuttavia è sufficiente a illustrare il mio punto di vista.
+
+Un simile meccanismo o organizzazione, su cui dipende la vita di un esercito e il cui crollo comporta immediatamente la fine delle sue funzioni, è chiaramente esposto al minimo disordine. Infatti, è protetto dalle disposizioni più attente e vengono prese tutte le misure possibili per evitare che i suoi componenti vengano interrotti nel loro processo di unione verso la base. Ma immaginate quale sarebbe l’effetto di una simile interruzione, o persino quale minaccia rappresenterebbe! Da questo si può comprendere l’importanza, per un così vasto insieme di persone, della libertà di azione da parte di coloro che devono dirigere il funzionamento di un sistema quasi infinitamente complesso.
+
+È proprio questo aspetto, il pericolo legato all’imbarazzo o alla situazione imbarazzante, che – nel momento in cui scrivo queste righe – riveste una importanza fondamentale in relazione alla questione del blocco. Possiamo bloccare le risorse di un nemico e dire: “Con un’estrema parsimonia, lui dispone di cibo sufficiente per nove decimi dell’anno”; oppure: “Anche se già preoccupato per il futuro, ha abbastanza rame per produrre proiettili e casse di munizioni per un certo periodo”; o ancora: “Nonostante il governo nemico abbia vietato la vendita di benzina, lui potrà comunque rifornire i propri mezzi meccanici per qualche tempo”. Tuttavia, il semplice calcolo numerico delle sue risorse in diminuzione non basta a comprendere il disordine morale che tale situazione può causare. L’efficienza dell’intero sistema ne risente immediatamente, solo dal fatto di dover adottare misure estreme di parsimonia. Il “cervello direttivo” di quel sistema viene perturbato sempre di più man mano che le necessità civili si mescolano alle già gravi pressioni sulle risorse destinate all’esercito.
+
+Procurare una tale confusione, sia morale che materiale, è lo scopo principale della bloccatura; il successo di una politica del genere inizia molto prima che si arrivi a un punto di grave difficoltà materiale.
+
+È per questa ragione che le nazioni che combattono con tutte le loro forze, come quelle moderne in competizione con il detestabile modello prussiano sono costrette a fare, dovranno inevitabilmente ricorrere alla politica del blocco totale; e il successo di questa politica, tentata da entrambe le parti in un conflitto – necessariamente più facilmente ottenibile da una che dall’altra – potrà forse, più di qualsiasi altra cosa, determinare l’esito di una grande guerra moderna, considerando la complessità del commercio nazionale odierna.
 
 
 
@@ -1605,6 +2176,50 @@ You must be able, as you retreat, to check your enemy appreciably before you can
 Still, it may be of interest to compare the length of lines thus drawn apparently during the course of a campaign in the past with those drawn in the course of the present campaign, and in the first diagram I show the contrast. It is striking enough.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Guerra di oggi e di ieri
+
+Questa guerra, sotto molti aspetti, è molto diversa da qualsiasi altra guerra del passato. La lunghezza delle linee difensive, lo sviluppo delle fortificazioni di campo e delle grandi armi, nonché altre questioni importanti, verranno trattate nelle pagine seguenti.
+
+Guerra di oggi e di ieri
+
+Nella presente campagna sono emerse numerose situazioni così diverse da quanto si conoscesse in passato della guerra e da ciò che si poteva aspettarsi da una grande guerra moderna nell’Europa occidentale, che l’opinione pubblica riguardo a questi cambiamenti risulta confusa e disorientata. A volte, queste novità gettano completamente scompiglio nelle concezioni tradizionali sulla guerra. E, cosa ancora più grave, talvolta queste novità portano le persone a fraintendere completamente la natura della guerra stessa.
+
+Ad esempio, si incontrano persone che dicono che una guerra del genere possa finire in un “pareggio” o in uno stallo. Dicono queste cose assurde semplicemente perché sono colpite dalla fase attuale della guerra, che è inaspettata e apparentemente senza precedenti.
+
+O ancora, le persone dicono vagamente che “la questione finanziaria metterà fine alla guerra”, perché sono confuse dall’entità delle spese necessarie, dimenticando che le uniche cinque cose di cui una nazione ha bisogno per intraprendere una guerra sono uomini, armi, vestiti, alloggio e cibo; e una volta fornite queste cose, tutta quella complessa rete di fattori reali e immaginari che chiamiamo “finanza” non ha alcun ruolo in questo processo.
+
+Ora, per evitare giudizi errati di quel tipo e per non ingannare l’opinione pubblica, non c’è nulla di più utile che distinguere in cosa il conflitto moderno tra grandi potenze, combattuto con armi moderne da uomini addestrati a sfruttare al massimo le loro capacità, si differenzia e assomiglia alle guerre del passato.
+
+Iniziamo analizzando le differenze.
+
+Quando si ha a che fare con molte migliaia di uomini il cui armamento non è solo distruttivo a grande distanza, ma anche su un ampio territorio, si ha innanzitutto una vasta estensione di eventuali linee difensive. Forse è proprio in questo aspetto che la guerra attuale si distingue nettamente dalle guerre del passato; e con le guerre del passato intendo quelle avvenute non più di una generazione fa.
+
+In passato sono esistite molte lunghe linee difensive. I generali che, per qualsiasi motivo, desiderassero rimanere esclusivamente in posizione difensiva per un periodo di tempo indeterminato (poiché nessuno può rimanere sempre in difesa), costruivano da tempi immemorabili lunghe linee dietro le quali i loro soldati, sebbene distribuiti in modo molto sparso, potevano resistere all’attacco nemico.
+
+Sono stati particolarmente spinti a farlo dopo l’introduzione delle armi da fuoco, perché queste permettono all’individuo di coprire un’area più ampia per fermare il proprio nemico. Ma in ogni forma di guerra, primitiva o moderna, queste grandi linee di combattimento sono sempre esistite.
+
+La Grande Muraglia Cinese ne è un esempio eccezionale; la Muraglia Romana che si estendeva dal nord della Britannia da un mare all'altro ne rappresenta un altro; e la lunga frontiera romana fortificata, che andava dal Reno al Danubio, ne costituiva un terzo.
+
+I generali di Luigi XIV, in una formazione chiamata oggi “La Bassée”, stabilirono, su scala più ridotta, lo stesso tipo di organizzazione per una specifica campagna militare. Esistono centinaia di esempi del genere. Tuttavia, la novità caratteristica della guerra attuale, e ciò che la differenzia da tutti questi antichi esempi, è la rapidità con cui tali formazioni vengono create dai grandi numeri di soldati che oggi si affrontano a vicenda, armati di armi ad estrema gittata.
+
+Questo vi dà, a prima vista, un'idea dei numeri di persone coinvolte e del tempo impiegato in alcune famose battaglie del passato. Ogni piccola figura nei disegni sopra rappresenta 5000 uomini. Si noterà che persino la Battaglia di Mukden è a malapena paragonabile, per durata, alle lunghe battaglie di questo conflitto attuale, che si estendono per mesi interi.
+
+Quarantotto ore di preparazione, o anche meno, sono sufficienti affinché le truppe possano “impiantarsi” su un territorio che, nel caso delle linee francesi, si estende per 300 miglia. Ogni piccolo avanzamento è garantito dalla costruzione di nuove trincee, mentre ogni ritirata mira a fermare il nemico presso un'altra linea di trincee stabilita alle spalle della prima.
+
+In termini generali, mezzo milione di uomini potrebbero mantenere un fronte lungo cento miglia in condizioni moderne; pertanto, quando vengono mobilitati i vasti numeri di persone che una campagna del genere richiede, è possibile stabilire un fronte che si estende attraverso un intero continente e che non può essere superato.
+
+Ecco ciò che è stato fatto in Francia durante questa guerra. Esistono trincee che, purché siano sufficientemente difese in rapporto al numero di soldati che le attaccano, sono imprendibili; queste trincee si estendono dalle Alpi svizzere fino al Mar del Nord.
+
+È possibile che domani si possano verificare situazioni simili, con truppe che si muovono dai Carpazi verso il Baltico. Tuttavia ne dubito: innanzitutto, perché sul fronte orientale la Russia può dispiegare un numero sempre crescente di truppe per attaccare queste linee; in secondo luogo, perché l’artiglieria pesante necessaria per il loro supporto non potrebbe essere presente in gran quantità nell’Est.
+
+Si può quindi riassumere che questa particolare caratteristica della presente campagna militare è dovuta principalmente al numero molto elevato di soldati coinvolti, unito alla potenza distruttiva dell’artiglieria pesante che i tedeschi hanno preparato, grazie a una netta superiorità numerica rispetto ai loro avversari. Non si tratta di una caratteristica che necessariamente verrà riprodotta in alcuna altra guerra, nemmeno in quelle del prossimo futuro, né nelle fasi successive di questo conflitto.
+
+Mentre vi ritirate, dovete essere in grado di valutare adeguatamente le forze nemiche prima di tracciare una linea del genere; dovete essere in grado di colpirle duramente con armi pesanti più potenti delle loro, e a meno che non siate in gran numero, riuscirete a tracciarla solo su una distanza relativamente breve, che il nemico potrebbe facilmente aggirare a sinistra o a destra.
+
+Tuttavia, potrebbe essere interessante confrontare la lunghezza delle linee tracciate apparentemente durante una campagna del passato con quelle tracciate nel corso della presente campagna; nel primo diagramma mostro questo contrasto. Ed è abbastanza evidente.
+
 
 
 <span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_02" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 2)" data-chapter="WAR TO DAY AND YESTERDAY" data-kind="excerpt" data-tags="motif/the_castle,motif/swords_weapons,motif/siege_fortification,concept/war_and_its_cost,form/essay,histref/first_world_war,histref/oliver_cromwell"></span>
@@ -1634,6 +2249,32 @@ The theory that these ring fortresses could hold out indefinitely was based upon
 
 Diagram II. Mankind at war has always used devices whereby he has been able with a small number to detain the advance of a larger number. Some of these systems are roughly expressed above. 1. The old stone fortress or castle of the Middle Ages. 2. The wall round a town. 3. The earthworks of a fortress of the period 1620-1860. 4. The “Ring” Fortress (1860-1914) — a series of detached forts lying three or four miles outside the inner place of stores, barracks, etc., which it was desired to defend.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un'altra caratteristica innovativa di questa guerra, che la differenzia persino dalla Guerra dei Balcani, è il nuovo ruolo assunto dal fuoco degli obici, in particolare il loro dominio sulle fortificazioni permanenti. Questo rappresenta forse il cambiamento più significativo introdotto da questa guerra nell’arte militare, e vale la pena comprenderlo chiaramente. I suoi principi fondamentali sono abbastanza semplici.
+
+L’umanità, in tempo di guerra, ha sempre utilizzato mezzi che le permettessero, con un numero ridotto di uomini, di fermare l’avanzata di un esercito più numeroso. Esempio di ciò era il castello nel Medioevo: si costruiva una fortezza in pietra che gli strumenti bellici dell’epoca non riuscivano a distruggere o minare se non a costo di molto tempo e sforzi; si era certi, infatti, che per ogni uomo in grado di scoccare un’arco dietro tali difese, sarebbero serviti dieci o più uomini solo per tentare di abbatterle. Quindi, quando si sapeva che il nemico avrebbe dovuto attraversare una stretta gola montana o un importante guado fluviale, si costruiva un castello che, come si suol dire in termini militari, “comandava” quel passaggio; in altre parole, si progettava una fortezza tale da permettere a soltanto mille uomini di resistere con successo contro diecimila nemici.
+
+Se il tuo nemico passasse senza prendere il tuo castello, i mille uomini al suo interno potrebbero uscire e interrompere i suoi rifornimenti mentre questi attraversano la strada di montagna o il guado, mettendo così a rischio le sue forze principali che sono avanzate.
+
+La tua fortezza, naturalmente, non sarebbe mai stata sufficiente per vincere una guerra; la sua funzione era puramente negativa. Non potevi attaccare con essa, né distruggere il tuo nemico. Ma potevi guadagnare tempo: potevi rallentare l’avanzata del nemico mentre radunavi ulteriori truppe per affrontarlo, e a volte potevi persino stancarlo nel tentativo di assediare quella fortezza.
+
+Ora, l’intera storia dell’arte della guerra è una storia delle diverse forze e debolezze di queste fortificazioni permanenti; il termine “permanent” indica fortificazioni che non hanno un carattere temporaneo, costruite in fretta sul campo, ma realizzate con cura nel corso di un lungo periodo di tempo, al fine di permettere una resistenza prolungata.
+
+Diagramma I. Un confronto evidente tra la lunghezza delle linee di frontiera in alcune campagne militari del passato e quella attuale. La novità caratteristica della guerra attuale è la rapidità con cui tali linee vengono stabilite, data l’enorme numero di soldati che oggi si affrontano, armati di armi a lungo raggio.
+
+Quando arrivarono i cannoni e la polvere da sparo per far esplodere le mine sotterranee, il castello medievale in pietra poteva essere distrutto rapidamente. Esistette quindi una fase in cui le fortificazioni permanenti venivano trascurate. Ad esempio, le guerre di Cromwell in questo paese si svolsero proprio durante tale periodo: i castelli furono distrutti in pochissimo tempo. Tuttavia, l’ingegnosità umana scoprì una nuova forma di difesa efficace anche contro i cannoni, sotto forma di opere di terra costruite scientificamente. I proiettili dei cannoni dell’epoca non riuscivano a distruggere queste strutture; inoltre, anche se si potevano scavare tunnel sottoposte e far esplodere esplosivi per demolirle, questo richiedeva molto tempo. In più, la costruzione di tali opere veniva progettata con cura affinché la guarnigione disponesse di un notevole vantaggio nel fuoco rispetto agli assedianti.
+
+Opere di questo tipo resero le difese efficaci per più di duecento anni. Proprio come un tempo c'erano mura di pietra che circondavano una città, con intervalli nei quali le persone potevano sparare lateralmente lungo il “parapetto” in muratura tra le torri, ora esistevano opere in terra: dossi di terra sostenuti da muri in mattoni per mantenerli in posizione, con un fossato tra il parapetto esterno e quello interno. Queste opere in terra avevano una forma a stella, con numerosi angoli sporgenti; quindi un attacco sferrato da qualsiasi punto sarebbe stato affrontato da fuoco convergente proveniente da due punti diversi della struttura a stella, e gli ingressi erano ulteriormente protetti da strutture esterne chiamate “opere a corno”.
+
+Con la guerra del 1870, e già in un certo periodo precedente, si constatò che l’aumentata gittata dell’artiglieria moderna aveva reso completamente inutili queste fortificazioni a forma di stella, sostituendo le vecchie mura che circondavano le città. Era possibile distruggere completamente un luogo con l’artiglieria posta a distanza. Anche se le armi all’interno della fortezza erano altrettanto potenti di quelle esterne, presentavano uno svantaggio: erano confinate in uno spazio relativamente ristretto, che i assedianti potevano bombardare con precisione, mentre gli artiglieri assediati non avevano la stessa possibilità di posizionare le loro armi all’interno della fortezza.
+
+Quindi il passo successivo consisteva nella costruzione di quella che veniva chiamata “Fortezza Anulare”. Si trattava di una serie di fortezze separate, situate a tre o quattro miglia di distanza dall’area interna dove si trovavano i magazzini, le caserme, ecc., da difendere. Ogni fortezza, essendo in grado di supportare quelle adiacenti su entrambi i lati di questo anello, era ritenuta imprendibile: infatti ogni fortezza veniva costruita all’interno della portata di tiro delle due più vicine. Su questo modello furono edificate Toul, Verdun, Epinal, Belfort, Metz, Strassburg, Thorn, Cracovia e altre cinquanta grandi fortezze moderne.
+
+La teoria secondo cui queste fortificazioni a anello avrebbero potuto resistere all’infinito si basava sull’idea che la posizione remota di tali fortificazioni avrebbe reso le armi nemiche troppo lontane per poter danneggiare gli spazi interni destinati alle scorte e alla guarnigione, e che il fuoco di supporto delle varie fortezze avrebbe impedito a chiunque di infiltrarsi tra di esse. I tre sistemi di difesa – innanzitutto la muraglia in pietra, poi le opere di terra, infine le fortificazioni a anello – sono rappresentati approssimativamente nel secondo diagramma.
+
+Diagramma II. L’umanità in guerra ha sempre utilizzato mezzi che le permettessero, con un numero ridotto di persone, di fermare l’avanzata di un numero maggiore di nemici. Alcuni di questi sistemi sono stati appena descritti sopra: 1. Le antiche fortezze in pietra del Medioevo; 2. Le mura che circondavano le città; 3. Le opere di difesa delle fortezze del periodo 1620-1860; 4. La Fortezza “Ring” (1860-1914) – una serie di fortini disposti a distanza di tre o quattro miglia dall’area interna dove si trovavano magazzini, caserme, ecc., da difendere.
 
 
 
@@ -1677,6 +2318,44 @@ But while the howitzer has this advantage, it has the grave disadvantage of not 
 To-day the 11-inch howitzer, with a range of about six miles, capable of hiding behind any elevation and not to be discovered by any gun within the fortress, and, further, capable of being moved at a moment’s notice if it is discovered, has the fortress at its mercy. Air reconnaissance directs the fire, and great masses of high explosives can be dropped, without serious danger to the besieger, upon the fortified permanent points, which are unable to elude great shells of high explosive once the range has been found.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Beh, forse la lezione principale di questa guerra è che queste fortezze circondate cadono rapidamente sotto il fuoco degli obici. Ogni singola fortezza può essere facilmente distrutta dal fuoco degli obici. Questo attacco concentrato su alcune delle fortezze fa sì che queste cadano immediatamente; e una volta rotto l’anello difensivo, il risultato è equivalente a una breccia nelle mura di una fortezza: l’intera roccaforte crolla. Questo perché negli ultimi anni sono emersi due nuovi fattori: (1) gli obici pesanti mobili; (2) i tipi più potenti di esplosivi.
+
+Diagramma III. Un obice è un cannone il cui cannone è più corto rispetto a quello di un normale cannone; è progettato non per sparare i suoi proiettili in linea retta verso il bersaglio, come fanno i cannoni normali, ma per lanciarli in alto affinché cadano quasi verticalmente sul loro obiettivo.
+
+Un obice è un cannone il cui cannone è più corto rispetto a quello di un normale cannone (e quindi, in proporzione alla dimensione della granata sparata e quindi anche alla quantità di esplosivo che può utilizzare), ed è progettato per non far lanciare il proiettile in linea retta verso il bersaglio, come avviene con i cannoni normali, ma per farlo volare in alto affinché cada più o meno perpendicolarmente sul suo obiettivo.
+
+Ecco quindi come funziona il cannone da 11,2 pollici tedesco, di cui abbiamo sentito parlare molto in questa guerra: ha una gittata massima quando è inclinato di 43 gradi, cioè quasi a metà strada tra la posizione orizzontale e quella verticale; naturalmente, i cannoni da questo tipo possono essere sparati anche con angoli molto più ampi, se necessario.
+
+Diagramma IV: È possibile nascondere un obice dietro una collina. Questo cannone, sebbene abbia una gittata maggiore dell’obice, può colpirlo solo in modo indiretto, sparando oltre il punto in cui si presume che l’obice si trovi, come indicato da A. In secondo luogo, l’obice può lanciare i suoi proiettili in una trincea relativamente stretta, che probabilmente verrà mancata dai proiettili del cannone.
+
+Diagramma V. Se si desidera che il proiettile del cannone cada all’interno di una trincea di fortificazione, A, oppure esattamente sulla sommità di un riparo in fortezza, B, è ovvio che l’obice, sparando da H e lanciando il proiettile lungo la traiettoria ad angolo elevato M, abbia molte più probabilità di colpire il bersaglio rispetto al cannone G, il quale spara il proiettile su una traiettoria più piatta, N.
+
+Il vantaggio dell’obice è doppio.
+
+In primo luogo, si può nascondere dietro una collina o qualsiasi altro tipo di ostacolo o schermo, poiché spara direttamente verso l’alto. Un’arma che spara più o meno in orizzontale rispetto al suolo non riuscirà a colpirlo.
+
+Il cannone, sebbene abbia una gittata maggiore dell’obice, può colpirlo solo indirettamente, sparando oltre il punto in cui si presume che l’obice si trovi, come indicato da “A” nel Diagramma IV; in questo modo si regola il tempo di accensione della spoletta affinché la granata esploda proprio in quel luogo.
+
+Ora, si tratta di un'operazione difficile, sia perché è arduo individuare una macchina che non si riesce nemmeno a vedere, sia perché, per quanto i fusibili moderni siano molto precisi, ovviamente non possono essere accurati fino al punto di misurare un intero metro.
+
+In secondo luogo, l’obice è in grado di far cadere il suo proiettile in una trincea relativamente stretta, che il proiettile di un cannone con traiettoria piatta probabilmente mancherebbe. Se si desidera che il proiettile cada esattamente all’interno di una trincea di una fortificazione o sopra uno schieramento difensivo, come mostrato nel quinto diagramma in punto A o nello schieramento stesso in punto B, è evidente che l’obice, sparando da posizione H e lanciando il proiettile lungo la traiettoria ad angolo elevato M, avrà molte più probabilità di colpire il bersaglio rispetto al cannone G, che spara un proiettile più lontano, ma lungo una traiettoria più piatta, ovvero N.
+
+Certo, un'altra obice all'interno delle fortificazioni potrebbe, in teoria, lanciare un proiettile oltre la collina e colpire l'obice assediante, ma in pratica è molto facile per quest'ultimo individuare con precisione i punti deboli della fortezza – le sue trincee, i suoi ripari e i suoi magazzini di munizioni – mentre per le persone all’interno della fortezza è estremamente difficile scoprire dove si trovi l’obice nemico. La sua posizione non è indicata su nessuna mappa, e può spostarsi liberamente, mentre la fortezza rimane immobile.
+
+Diagramma VI: La fortezza, situata su un'altura indicata con la lettera A e confinata in uno spazio ristretto, rappresenta un bersaglio ideale per gli obici posizionati dietro colline, ad esempio a una distanza di quattro miglia, come indicato dalle linee B-B, C-C e D-D. È già abbastanza difficile per la fortezza individuare da dove vengono sparati gli obici; inoltre, questi ultimi possono spostarsi liberamente lungo le linee indicate.
+
+Guardate, ad esempio, il Diagramma VI.
+
+La fortezza, situata su un'altura in posizione A e confinata in uno spazio ristretto, rappresenta un bersaglio ideale per gli obici posti in qualsiasi punto dietro le colline, ad esempio a una distanza di quattro miglia, come indicato dalle linee B-B, C-C, D-D. È già abbastanza difficile per la fortezza individuare da dove vengono sparati gli obici; inoltre, anche quando ci riesce, questi possono spostarsi lungo le linee indicate e cambiare posizione.
+
+Inoltre, è bene ricordare che, nelle condizioni moderne, l’accuratezza del tiro dell’obice contro la fortezza può essere verificata da aerei che sorvolano la zona; al contrario, la fortezza stessa rappresenta un punto di partenza poco adatto per gli aerei incaricati di individuare le posizioni delle batterie d’obice.
+
+Ma sebbene l'obice abbia questo vantaggio, presenta il grave svantaggio di non avere un raggio d’azione paragonabile a quello del cannone, considerando le stesse dimensioni. Da molti anni si sapeva che l’obice possedeva il vantaggio che ho menzionato. Tuttavia, nonostante ciò, venivano costruite fortificazioni permanenti in grado di resistere agli attacchi, poiché era impossibile spostare obici di dimensioni superiori a una certa misura. Gli esplosivi contenuti in quelle piccole granate causavano danni molto gravi, ma le fortezze, grazie ai loro cannoni molto potenti, riuscivano a tenere l’avversario fuori dalla portata dei loro colpi. Tuttavia, quando vennero costruiti obici di grandi dimensioni e allo stesso tempo mobili, in grado di sparare proiettili del peso di un quarto di tonnellata o più, che potevano essere spostati su quasi ogni tipo di terreno e sparati da qualsiasi posizione, la situazione cambiò completamente. Gli obici divennero davvero pericolosi per le fortezze. E quando a questo si aggiunse il nuovo potere degli esplosivi ad alto potenziale, diventarono addirittura letali.
+
+Oggi, l’obice da 11 pollici, con un raggio d’azione di circa sei miglia, in grado di nascondersi dietro qualsiasi ostacolo e di non essere scoperto da alcuna arma all’interno della fortezza, e inoltre in grado di essere spostato immediatamente qualora venisse individuato, mette la fortezza completamente alla sua mercé. Le ricognizioni aeree guidano il fuoco, e grandi quantità di esplosivo possono essere sganciate, senza gravi rischi per gli assedianti, sui punti fortificati permanenti; tali punti, infatti, non sono in grado di eludere i proiettili pesanti una volta che il loro raggio d’azione è stato individuato.
+
 
 
 <span class="atom-split" data-atom="story_05_war_to_day_and_yesterday--part_04" data-title="The Two Maps of Europe — WAR TO-DAY AND YESTERDAY (part 4)" data-chapter="WAR TO DAY AND YESTERDAY" data-kind="excerpt" data-tags="motif/machine,concept/war_and_its_cost,concept/endurance,form/essay,histref/first_world_war,histref/napoleonic_wars"></span>
@@ -1708,6 +2387,34 @@ Well, in the event, that criticism proved wrong in both its conceptions. The Ger
 
 Another unexpected thing in which this war has warranted the old conception of arms is the exactitude of provision. Everybody thought that there would be a great novelty in this respect, and that the provisioning of so many men might break down, or, at any rate, hamper their mobility. So far from this being the case, the new great armies of this modern war have been better and more regularly provisioned than were the armies of the past, and this is particularly true upon the side of the Allies, even in the case of that astonishing march of three million of Russians across Poland with the roads in front of them destroyed and the railway useless.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Un altro sviluppo della presente guerra, e piuttosto inaspettato, è stato l’efficacia delle mitragliatrici; tale efficacia dipendeva in gran parte dal nuovo metodo tedesco di utilizzarle, cioè schierandole dietro uno schermo di truppe di fanteria per permettere loro di sparare liberamente, tanto quanto da qualsiasi altra ragione.
+
+Il quarto cambiamento più evidente, e forse il più sorprendente, è senza dubbio l’uso degli aerei; in questo ambito ci sono uno o due aspetti che spesso non vengono sufficientemente sottolineati. In primo luogo, l’utilizzo degli aerei per le ricognizioni ha dato risultati migliori di quanto si fosse previsto: permette infatti di evitare la concentrazione eccessiva di truppe, sconosciute al nemico, in determinati punti della linea di fronte, ad eccezione dei movimenti notturni delle truppe su ferrovie. Questo utilizzo strategico delle ferrovie, soprattutto nelle operazioni notturne, rappresenta senz’altro una delle novità più significative introdotte dalla guerra attuale. D’altra parte, però, l’aereo ha riacquistato importanza il fattore meteorologico, nonché quello legato alla stagione. In passato, quando si cercava di scoprire i movimenti del nemico affidandosi alle cavallerie o raccogliendo informazioni da spie e prigionieri, non faceva molta differenza se soffiava vento forte o debole, o se era estate o inverno. Oggi, invece, l’aereo può operare efficacemente solo di giorno; in condizioni meteorologiche avverse o durante tempeste violente non può volare, il che significa che gli attacchi imprevisti diventano ancora più pericolosi di notte. Per la prima volta da secoli, quindi, il vento torna a svolgere un ruolo decisivo nelle operazioni militari, proprio come avveniva in passato con le frecce scoccate dall’arco.
+
+Esistono moltissime altre innovazioni che questa guerra ha portato alla luce, ma queste, credo, siano le principali. È opportuno non solo scoprire tali novità, ma anche individuare quelle caratteristiche permanenti che nemmeno le macchine moderne e i metodi attuali sono riusciti a cambiare. Tra queste vi è innanzitutto la caratteristica fondamentale legata al valore morale.
+
+In definitiva, tutti gli europei possiedono più o meno lo stesso potenziale morale. Tuttavia, diversi tipi di addestramento, diverse esperienze di guerra, scelte diverse di leader e altri fattori producono tipi morali diversi; eccellenze e debolezze differenti. In questo ambito, la scoperta più notevole emersa durante la guerra è stata l’indomabilità e la fermezza dimostrate dai soldati di fronte alla perdita di compagni d’armi.
+
+Si diceva da sempre, durante quel lungo periodo di pace, che i soldati moderni arruolati per un breve servizio militare non sarebbero mai stati in grado di sopportare le perdite subite dai loro padri negli anni delle armate professionali, né il lungo periodo di servizio richiesto, né le campagne militari prolungate come quelle delle guerre napoleoniche. Ma la campagna in Manciuria fornì una risposta sufficiente a questa teoria, se solo le persone avessero prestato attenzione; la guerra dei Balcani ne diede un'altra ancora più convincente, mentre la guerra attuale non lascia alcun dubbio al riguardo.
+
+L’esercito di leva a breve durata, in questa materia, ha ottenuto risultati migliori di qualsiasi cosa si conoscesse in passato. Tra i motivi particolari, forse il più interessante e inaspettato è stato l’uso da parte tedesca delle formazioni ravvicinate, che ha rappresentato una vera sorpresa. Sia la dottrina militare tedesca che i loro avversari ritenevano sempre scontato che le formazioni ravvicinate, se fossero state utilizzabili sul campo di battaglia, avrebbero, grazie alla loro rapidità e potenza, travolto tutto ciò che si frapponeva al loro avanzamento.
+
+Diagramma VII. Qui avete 1000 uomini pronti ad attaccare. Se attaccano in lunghe ondate aperte, come indicato da A-A, impiegheranno molto tempo per disporsi su un ampio fronte, e quando saranno distribuiti in questo modo, l’effetto del loro attacco non sarà travolgente.
+
+Nel Diagramma VII ci sono mille uomini pronti ad attaccare. Se attaccano in lunghe ondate aperte, come indicato da A-A, impiegheranno molto tempo per disporsi su un ampio fronte, e quando saranno distribuiti in questo modo l’effetto del loro attacco non sarà travolgente. Riusciranno ad avere successo soltanto attaccando uno dopo l’altro.
+
+Diagramma VIII: Se i vostri 1000 uomini attaccano in formazioni più dense, come in B-B, potranno essere lanciati molto più rapidamente, e l’effetto del loro assalto sarà molto più potente.
+
+Se attaccano in formazioni più dense (Diagramma VIII), come nel punto B-B, possono essere lanciati molto più rapidamente, e l’effetto dello shock che provocano al momento dell’impatto è molto maggiore; per usare il termine stesso dei tedeschi, si tratta dell’effetto di uno stormo.
+
+Sembrava ovvio, ma i critici del secondo sistema di formazione a schiera stretta o a stormo sostenevano sempre che, sebbene ammettessero il suo enorme potenziale qualora potesse essere utilizzato, in realtà non sarebbe stato possibile farlo a causa delle perdite enormi che avrebbe subito di fronte alle armi da fuoco moderne. La formazione a linea dispersa, come quella rappresentata da A-A, offriva un bersaglio molto ridotto; inoltre, il numero di uomini colpiti durante un attacco sarebbe stato di gran lunga inferiore rispetto a quello negli assalti condotti con formazioni dense come quelle rappresentate da B-B, che costituivano bersagli perfetti.
+
+Beh, nel caso in cui quelle critiche si rivelassero errate sia nelle loro ipotesi che nei loro ragionamenti. I tedeschi, grazie al loro grande coraggio e all’eccellente disciplina, sono stati in grado di utilizzare formazioni compatte. Le enormi perdite causate da queste tattiche non hanno impedito loro di rimanere costantemente sul campo di battaglia; tuttavia, contrariamente a tutte le aspettative, in genere non sono riusciti a tornare a casa. In altre parole, hanno fallito, per lo più, nell’obiettivo stesso per cui era stato permesso loro di compiere quei pesanti sacrifici.
+
+Un altro aspetto inaspettato legato a questo conflitto che ha confermato l’antica concezione delle armi è l’accuratezza dei rifornimenti. Tutti pensavano che in questo ambito ci sarebbero state grandi difficoltà, e che il rifornimento di un numero così elevato di uomini potesse risultare impossibile o comunque ostacolare la loro mobilità. In realtà, le nuove grandi armate di questa guerra moderna sono state rifornite in modo migliore e più regolare rispetto alle armate del passato, soprattutto dal lato degli Alleati; questo è particolarmente vero nel caso di quella straordinaria marcia di tre milioni di russi attraverso la Polonia, nonostante le strade fossero distrutte e i binari ferroviari inutilizzabili.
 
 
 
@@ -1755,6 +2462,48 @@ Similar reasons make the Censor hide from the enemy the number of men missing. T
 All this action of the Censor is as wise as it is necessary, but in the face of false news he is in another position. In the first place, it is difficult for him to judge it (unless, of course, it concerns our own particular forces). In the second place, it may not concern matters which the enemy can possibly ignore. For instance, in this example of the supposed investment of Cracow. The Russians were certainly approaching the place. The news might conceivably be true. If it were true, the enemy would already be amply acquainted with it, and it would be of a nature not to aid him, but to discourage him. But the news was, in fact, untrue, and, being untrue, its publication did not a little harm.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# In cosa credere nelle notizie di guerra
+
+Mostrare come selezionare e confrontare i resoconti della stampa, al fine di giungere a una valutazione accurata della vera situazione delle cose.
+
+# In cosa credere nelle notizie di guerra
+
+Qualche giorno fa è arrivato a Londra un messaggio dall’Italia, redatto con inchiostro da stampa e ripreso quasi in tutti i giornali: la città di Cracovia era stata assediata, l’bombardamento era iniziato e una parte della città era avvolta dalle fiamme.
+
+Cracovia è la chiave della Slesia, e la Slesia è il “Lancashire” della Prussia. Un investimento efficace su Cracovia porterebbe sicuramente la guerra alla sua fase finale, e quella fase significherebbe una vittoria rapida per gli Alleati.
+
+Ma Cracovia non era stata assediata; nessuno l'aveva bombardata. Tutto quanto era un assurdo fantastico.
+
+Ecco tutto ciò che si può dire riguardo a quel particolare resoconto giornalistico, che non differiva in alcun modo da altri telegrammi e notizie, e che milioni di persone devono aver letto e creduto.
+
+Ogni lettore di queste righe sarà in grado di ricordare altri esempi dello stesso genere. Mentre scrivo, ho davanti a me estratti uno dopo l’altro di questo tipo: in uno, Roulers è stata riconquistata; in un altro, Lille è stata ripresa; in un altro ancora (molto più antico), i tedeschi si trovano a Pont Oise.
+
+A volte questi resoconti compaiono sotto forma di descrizioni lunghe e dettagliate, scritte da persone abbastanza conosciute a Fleet Street, che hanno il coraggio di firmare il proprio nome.
+
+Forse non è mai esistita un'occasione pubblica importante per la quale fosse così necessario che le persone formulassero giudizi saggi; eppure, nella nostra epoca, certamente non ne è esistita nessuna in cui i materiali utilizzabili per tale giudizio siano stati più confusi.
+
+L’importanza di un giudizio pubblico fondato e accurato sullo svolgimento della guerra non viene sempre apprezzata a dovere. Essa dipende da verità che molti hanno dimenticato, e da determinate forze politiche che, nel tumulto quotidiano della vita politica professionale, vengono completamente trascurate. Lasciate che vi ricordi quelle verità e quelle forze.
+
+Le verità sono queste: nessun governo può esercitare efficacemente il proprio potere se non sulla base dell’opinione pubblica. Un governo può esercitare il proprio potere su una provincia conquistata nonostante l’opinione pubblica, ma non può funzionare per più di un breve periodo e a un enorme costo in termini di conflitti, contro l’opinione di coloro che ne sono coinvolti come cittadini e sostenitori. Con ciò non intendo dire che i politici di partito non possano agire in questo modo in situazioni non importanti o in pace; intendo dire che nessun tipo di governo è mai stato in grado di farlo durante una crisi.
+
+È anche saggio mantenere la maggior parte delle persone all’ignaro di disastri che possono essere immediatamente riparati, o di errori o persino vizi nel governo che possono essere corretti prima che diventino pericolosi.
+
+È sempre assolutamente saggio impedire che il nemico, in tempo di guerra, venga a conoscenza di informazioni che potrebbero essergli d’aiuto. È per questo motivo che una censura rigorosa in tempo di guerra non è solo utile, ma essenzialmente e drammaticamente necessaria. Tuttavia, anche se l’opinione pubblica, anche in tempo di pace, è soltanto parzialmente informata, e in tempo di guerra può essere ancora meno informata, è comunque su di essa che si governa. Senza di essa, o contro di essa, in tempo di guerra non si può governare affatto.
+
+Ora, se nel corso di una grande guerra le persone arrivassero a fraintendere completamente la sua vera natura, il compito del governo verrebbe inevitabilmente messo alla prova, fino al punto di rottura. Le false notizie, credute troppo facilmente, non si limitano a fornire informazioni incomplete o a far sì che le persone si rendano conto della propria ignoranza e si lamentino per non poter imparare di più; hanno invece l’effetto negativo di indurle ad assumere atteggiamenti sbagliati, di farle sostenere ciò che non dovrebbero sostenere e trascurare ciò che non dovrebbero trascurare.
+
+Purtroppo, l’autorità pubblica, che possiede e esercita legittimamente tanto potere in termini di censura – ovvero nel limitare la diffusione delle informazioni – ha pochissimo potere per correggere le informazioni false. Il censore riceve un messaggio che afferma, ad esempio, che a scapito di pesanti perdite la brigata del generale tal-de-tale, composta dai reggimenti Downshires e Blankshires, abbia respinto il nemico in tale fronte, ma che alla fine delle operazioni trecento uomini siano risultati dispersi. Se permette la diffusione di questa notizia, dovrà comunque rifiutarsi di menzionare i nomi dei reggimenti, la loro forza militare, il luogo in cui hanno combattuto e il numero delle persone scomparse.
+
+Perché il Censore deve agire in questo modo? Perché queste informazioni sarebbero di estremo valore per il nemico. Il nemico, ricordate, non sa mai con certezza ciò che ha davanti a sé. Infatti, l’intera storia militare è costituita da storie di uomini che hanno avuto successo perché sono riusciti a valutare meglio degli altri le forze contro cui si trovavano ad affrontare.
+
+Ora, se gli fate sapere che in quella determinata occasione la forza con cui si è scontrato in quel preciso fronte era una brigata di fanteria, e se gli comunicate anche la sua composizione, facendo qualcosa del genere riguardo all’esercito nel suo complesso, finirete per fargli conoscere due cose che desidera sapere particolarmente, e le quali è vostro dovere assoluto impedirgli di scoprire. Gli fate conoscere infatti la dimensione della forza di fronte a lui e anche la sua composizione.
+
+Per ragioni simili, il Censore preferisce nascondere al nemico il numero degli uomini dispersi o prigionieri. Il nemico sa che avete catturato duecentocinquanta uomini, sia feriti che illesi; quindi, a meno dei morti, quella è la vostra perdita totale. Ma se rivelaste di aver perso mille uomini, lui conoscerebbe con precisione una debolezza nella vostra attuale situazione militare, di cui altrimenti non avrebbe alcun sospetto.
+
+Tutta questa azione da parte del Censore è tanto saggia quanto necessaria, ma di fronte alle false notizie si trova in una situazione diversa. In primo luogo, gli è difficile giudicarne l’accuratezza (a meno che non riguardi le nostre forze particolari). In secondo luogo, potrebbe trattarsi di informazioni che il nemico potrebbe tranquillamente ignorare. Ad esempio, in questo caso relativo a un presunto investimento a Cracovia: i russi si stavano certamente avvicinando a quella città; la notizia poteva quindi essere vera. Se lo fosse stata, il nemico ne sarebbe già stato ampiamente informato, e tale informazione non gli sarebbe stata di alcun aiuto, anzi lo avrebbe scoraggiato. Ma in realtà la notizia era falsa, e per questo la sua diffusione ha causato danni considerevoli.
+
 
 
 <span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_02" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 2)" data-chapter="WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt" data-tags="concept/truth,concept/deception,concept/war_and_its_cost,form/essay,histref/first_world_war"></span>
@@ -1787,6 +2536,34 @@ The Belgian Government at the beginning of the war allowed very full accounts to
 The French Government is by far the most reticent. It occasionally mentions the capture of a colour, but it publishes no casualty lists, no account of the field guns taken by French troops, and only now and then hints at the number of prisoners. It is, however, minutely accurate and even detailed in helping us to locate the fluctuations of the front, and by the aid of the French communiqués we can follow the war upon the map better than by the aid of any other. In its control of the Press the French General Staff is absolute. There has been nothing like it before, and it has been perfectly successful. You will see whole columns cut out of the newspapers in France and left blank, so certain are the military authorities of that country that the most vigorous censorship is vital to modern war. There is lastly to be noted in connexion with the French communiqués, especially after the first two months of the campaign, a remarkable frankness with regard to the occasional giving of ground by their own troops. The theory is that the enemy will know this in any case, and that as the position is secure, details of the sort though adverse, lend strength to the general narrative. In all this it must be remembered, of course, that the French Government, and, at this moment, the French Army, is far more powerful than any newspaper proprietor or other capitalist, and it is well for any nation at war to be able to say that.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, come possiamo contrastare questo pericolo? Come può la gente comune distinguere, nelle notizie sulla guerra, ciò che è vero da ciò che è falso, e così giungere a un'opinione fondata? Dopo alcuni mesi di studio legati al mio lavoro sulle tre campagne militari, forse sarò in grado di suggerire alcuni metodi per affrontare questa questione.
+
+In primo luogo, le basi di ogni opinione fondata sono i comunicati ufficiali letti con l’ausilio di una mappa.
+
+Quando dico “i comunicati ufficiali”, non intendo quelli del solo Governo britannico, né tantomeno soltanto degli Alleati, ma di tutti i belligerenti. Dovete leggere in modo imparziale i comunicati dei governi austro-ungarico e tedesco, insieme a quelli del Governo britannico e dei suoi Alleati; altrimenti sicuramente passerete sopra la verità. Con questa affermazione non intendo dire che ogni governo sia ugualmente accurato, né tantomeno che le sue dichiarazioni siano ugualmente complete; ma che, se non confrontate tutte queste dichiarazioni, avrete prove molto incomplete; proprio come in un tribunale avreste prove assai imprecise se ascoltaste soltanto l’accusa e rifiutaste di ascoltare la difesa. Ora, questi comunicati ufficiali hanno alcune caratteristiche comuni, indipendentemente dal governo che li emette. Esistono elementi specifici in essi che troverete sempre, anche se provengono da persone con naturalezze completamente diverse, come un ufficiale di stato maggiore prussiano e un patriota serbo.
+
+Queste caratteristiche comuni possiamo elencarle così:
+
+(a) I luoghi indicati come occupati dalle forze del governo in questione sono effettivamente occupati. Inventare l’occupazione di una città o di un punto che non si trova sotto il proprio controllo non avrebbe alcun senso: non ingannerebbe il nemico e, in breve tempo, non riuscirebbe a mantenere credibile tale versione presso la popolazione nazionale. Pertanto, quando fu annunciata l’occupazione di Lodz da parte dei tedeschi a metà dicembre, tutti coloro che seguivano attentamente lo svolgimento della guerra sapevano perfettamente che la notizia era vera.
+
+(b) I numeri, quando vengono citati in relazione a un fatto effettivamente verificabile e riguardo a circostanze precise e concrete, sono quasi sempre affidabili; tuttavia il loro significato varia notevolmente, come mostrerò tra poco, a seconda del modo in cui vengono utilizzati. Ad esempio, se un governo afferma: “In quel luogo e in quella data abbiamo catturato tremila prigionieri”, è probabile che dica la verità, poiché anche il nemico che ha perso quei prigionieri ne è a conoscenza. Ma le stime riguardo ai numeri di persone coinvolte in eventi di cui il governo non possiede informazioni dirette sono tutta un’altra questione: tali stime si basano solitamente su prigionieri o spie, e spesso risultano completamente errate.
+
+(c) Tutti i comunicati ufficiali di qualsiasi governo nascondono gli insuccessi, salvo per dettagli minori. È saggio farlo, poiché non c’è bisogno di rivelare all’avversario più informazioni di quante possa già conoscere riguardo ai propri successi. Gli insuccessi non vengono negati, ma semplicemente omessi. Basta pensare a come Lemberg sia stato sistematicamente tralasciato dai comunicati austriaci o tedeschi, così come Tannenberg da quelli russi e Metz dai resoconti ufficiali francesi, fino a tempi piuttosto recenti.
+
+Questi sono i tre punti che tutti i comunicati ufficiali hanno in comune; tenendoli bene a mente, possiamo spesso ricostruire un quadro accurato, nonostante le apparenti contraddizioni e confusione che derivano dalla lettura di diversi comunicati uno dopo l’altro.
+
+Ad esempio, i tedeschi stanno cercando di attraversare il fiume Bzura, secondo il comunicato russo di sabato. Nella prossima settimana mercoledì, il comunicato russo afferma: “Due tentativi di attraversare il Bzura in determinati punti sono stati respinti”; mentre il comunicato tedesco dichiara: “Le nostre truppe sono riuscite ad attraversare il fiume Bzura in un villaggio specifico e si sono stabilite sulla riva destra”. In tal caso, sarà saggio credere al comunicato tedesco e dare per scontato che, sebbene i russi abbiano respinto altri tentativi nemici di attraversare il fiume, questo tentativo sia andato a buon fine. Tuttavia, se i tedeschi aggiungono: “I russi si sono ritirati dopo aver subito perdite che non possono essere state inferiori a ventimila uomini”, questa affermazione non rappresenta affatto una notizia concreta; è chiaramente una congettura.
+
+I vari governi che hanno emesso questi comunicati hanno sviluppato alcune abitudini nel fare ciò, le quali meritano di essere prese in considerazione se si desidera ottenere una visione accurata della guerra; queste abitudini possono essere descritte brevemente come segue:
+
+Il governo britannico pubblica brevi comunicati sui progressi ottenuti o sulle posizioni mantenute, ma molto raramente menziona le perdite subite. Pubblica inoltre elenchi delle vittime, che ovviamente non sono completi se non molto tempo dopo gli eventi in cui tali vittime sono state causate. Questi resoconti integrano i brevi comunicati ufficiali e consistono in narrazioni più o meno dettagliate scritte da un funzionario incaricato allo scopo; queste narrazioni forniscono descrizioni spesso vivide, ma che necessariamente non hanno alcun valore militare, ovvero non sono utili per seguire lo svolgimento delle operazioni belliche. Infatti, se tali resoconti avessero tale valore, l’obiettivo della censura verrebbe vanificato.
+
+All’inizio della guerra, il governo belga permise che venissero pubblicati resoconti molto dettagliati e consentì la presenza di giornalisti direttamente sul fronte. Quella fase è ormai conclusa e non ci riguarda più direttamente.
+
+Il governo francese è di gran lunga il più reticente. Di tanto in tanto menziona la cattura di qualche prigioniero, ma non pubblica liste delle vittime né informazioni sui cannoni da campo presi dalle truppe francesi; solo occasionalmente fa riferimento al numero dei prigionieri catturati. Tuttavia, i comunicati francesi sono estremamente precisi e dettagliati nel fornirci informazioni sulle dinamiche del fronte, permettendoci così di seguire lo svolgimento della guerra sulla mappa in modo molto più efficace rispetto ad altri mezzi. Il Comando Supremo francese esercita un controllo assoluto sulla stampa: non c’è nulla di paragonabile a ciò che è avvenuto prima, e questo approccio si è rivelato estremamente efficace. Si possono vedere intere colonne di giornali in Francia tagliate via e lasciate vuote, dimostrazione del fatto che le autorità militari di quel paese sono assolutamente convinte che una censura rigorosa sia fondamentale per la guerra moderna. Infine, va notata, soprattutto nei primi due mesi della campagna, una notevole franchezza da parte dei comunicati francesi riguardo ai ritiri occasionali delle proprie truppe. La teoria alla base di questo approccio è che comunque il nemico ne sarà a conoscenza, e poiché la posizione militare francese è solida, anche informazioni negative contribuiscono a rafforzare l’immagine complessiva della situazione. In tutto ciò, bisogna ricordare che il governo francese, e in questo momento anche l’esercito francese, sono molto più potenti di qualsiasi proprietario di giornale o altro capitalista; è quindi un grande vantaggio per qualsiasi nazione in guerra poter dire una cosa del genere.
+
 
 
 <span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_03" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 3)" data-chapter="WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt" data-tags="concept/deception,concept/truth,concept/war_and_its_cost,concept/propaganda,form/essay,histref/first_world_war,setting/germany"></span>
@@ -1817,6 +2594,32 @@ There is one last element for the formation of a sound opinion on the war which 
 Lastly, one might add for those who have the leisure and the confidence, the use of the foreign Press — especially the French and the German. It is biased, as is our own, and often belated in news. The German Press in particular suffers from the calculated policy of the Government of the German Empire, which at this moment believes it to be of service to stimulate public confidence of victory in every possible manner. Nevertheless, unless you do follow fairly regularly the Press of all the belligerent nations, you will obtain but an imperfect view of the war as a whole.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il governo russo è preciso, e anzi, forse un po’ troppo laconico nelle comunicazioni rivolte al pubblico, ma la sua censura è molto meno rigida rispetto a quella francese o persino inglese. Così, durante i combattimenti intorno a Lodz in difesa di Varsavia all’inizio di dicembre, ai corrispondenti di Pietrogrado fu permesso di inviare telegrammi con descrizioni molto enfatiche riguardo a una presunta ritirata tedesca imminente, che in realtà non ebbe mai luogo. Ma ripeto: le notizie ufficiali russe sono sobrie, contenute e estremamente accurate.
+
+Quando esaminiamo i comunicati nemici, notiamo innanzitutto che quelli austro-ungarici sono scarsi, insufficienti e confusi; quindi sono di scarso valore e quasi possono essere ignorati. Quelli tedeschi, invece, sono numerosi, dettagliati e precisi; è nostro compito principale analizzarli con attenzione se vogliamo comprendere veramente la situazione bellica, perché proprio da loro apprendiamo ciò che altrimenti rimarrebbe nascosto.
+
+Beh, a mio parere, questi comunicati ufficiali tedeschi sono per lo più straordinariamente precisi, e credo sia possibile spiegare il motivo della loro accuratezza. Lo Stato Maggiore tedesco conduce la guerra in modo puramente meccanico; esagera in modo grave, proprio come fanno tutti i tedeschi del Nord moderni, nell’attribuire un ruolo determinante agli elementi calcolabili negli affari umani. Si tratta di quello che un tempo si definiva “metodo scientifico”. È ovvio che, se si acquisisce la reputazione di precisione, le menzogne, laddove sia vantaggioso dirle, hanno maggiori probabilità di avere successo. L’eccezionale accuratezza dei comunicati ufficiali tedeschi non può derivare da altri motivi: certamente non da un semplice amore per la verità, poiché lo stesso governo fa deliberatamente circolare tra la propria stampa provinciale e tra alcuni paesi neutrali notizie che, per loro natura, non possono essere vere. Inoltre, questa imprecisione non è il risultato di fretta o stupidità, ma piuttosto di una scelta molto calcolata e deliberata.
+
+Quindi, quando un comunicato tedesco dice una menzogna, quella menzogna è deliberata e viene diffusa su larga scala; dobbiamo considerare quale ne sia lo scopo per poter comprendere veramente quel messaggio. Possiamo presumere che lo scopo sia quasi sempre di natura interna o politica. Ricordate che queste false dichiarazioni ufficiali tedesche, firmate dallo Stato Maggiore e dal governo, sono tanto rare quanto convincenti: non sono inserite casualmente nel discorso pubblico, né sono formulate in modo vago o attraverso frasi dubbi.
+
+Lasciate che ne prenda due. Scarborough fu ufficialmente descritto come un porto fortificato, simile a Sheerness o Cherbourg. Questo è davvero sorprendente. Ma, per quanto imponente sia, non ha nulla di infantile: il suo scopo era infatti quello di suscitare in chi lo leggeva a casa un certo effetto, e in effetti ci riusciva.
+
+Con successo fu ottenuto quell’effetto: già il giorno dopo, un critico militare competente della stampa tedesca aveva capito che Scarborough era la base navale più importante sulla costa orientale. Dobbiamo ricordarlo quando leggiamo cose del genere: in nostro paese, ben pochi uomini istruiti su mille saprebbero indicare i nomi delle basi navali fortificate, ad esempio, lungo la costa adriatica o persino quella atlantica della Francia.
+
+Un altro esempio della stessa cosa, ma in un contesto piuttosto diverso, è l’illuminazione di Berlino, la concessione di una giornata festiva ai bambini in età scolare e la proclamazione ufficiale di una grande e decisiva vittoria in Polonia durante la seconda battaglia di Varsavia. Quest’ultima azione, che aveva già durato quindici giorni ed era destinata a proseguire per molti altri ancora, rimaneva in quel momento del tutto incerta.
+
+Secondo resoconti abbastanza affidabili su ciò che stava accadendo a Berlino in quel momento, il governo era costretto ad agire in quel modo poiché erano già emersi i primi segni di disordini popolari. Ma qualunque ne fosse la causa, il punto è che queste imprecisioni tedesche, quando si verificano – e ciò avviene raramente – sono facilmente distinguibili. Si evidenziano rispetto al resto del resoconto sobrio per la loro palese assurdità. Non disturbano la valutazione di un lettore attento; inoltre, non dovrebbero impedirci di continuare a confrontare in modo dettagliato le dichiarazioni tedesche con quelle degli Alleati, se vogliamo comprendere veramente la natura della guerra.
+
+C’è un altro aspetto di cui ho già accennato brevemente: i comunicati tedeschi possono ingannare proprio nel modo in cui trattano le statistiche. L’espressione effettiva delle notizie viene spesso scelta apposta per ingannare, anche se i dati numerici potrebbero essere accurati. Ad esempio, con il termine “prigionieri”, i tedeschi includono tutti gli uomini feriti catturati, tutti i civili che in questa guerra vengono portati in cattività; e, quando è nel loro interesse aumentare il numero dei prigionieri, includono anche alcuni morti. Allo stesso modo, parlano della conquista di Verdun, senza esitazione includendo tra i propri successi anche quelle posizioni che i loro stessi soldati hanno riconquistato sul campo di battaglia.
+
+Si può aggiungere in conclusione che, sebbene i comunicati tedeschi raramente indulgano in congetture, quando lo fanno risultano assurdi; esattamente per la stessa ragione, i diplomatici tedeschi hanno completamente frainteso le intenzioni dell’Europa immediatamente prima della guerra. Un ragionamento tedesco che si basi su elementi diversi da quelli materiali è del tutto inutile, e questo si osserva soprattutto nel lavoro meticoloso ma spesso infruttuoso degli storici tedeschi, i quali accumulano una quantità di fatti maggiore rispetto agli studiosi di qualsiasi altra nazione, per poi trarre conclusioni assurdamente errate; conclusioni che, negli ultimi quarant’anni, sono state spesso seguite anche dagli accademici delle nostre università.
+
+Esiste un ultimo elemento che deve essere menzionato alla fine di questa analisi per formarsi un’opinione fondata sulla guerra, e cioè le testimonianze private che, sebbene rare, talvolta emergono. In questi casi non esiste alcun altro riferimento se non l’esperienza personale derivante dai viaggi effettuati, o la conoscenza diretta dei giornali o delle fonti ufficiali che li pubblicano. Le occasioni in cui tali testimonianze sono disponibili sono molto scarse, ma quando si presentano, il loro valore è di gran lunga superiore a qualsiasi comunicato ufficiale. Per esempio, posso citare le lettere provenienti dall’Ungheria che apparvero sul “Morning Post” in diverse occasioni durante l’autunno e l’inizio dell’inverno: erano davvero inestimabili.
+
+Infine, si potrebbe aggiungere, per coloro che hanno il tempo e la fiducia necessari, l’uso della stampa straniera – in particolare quella francese e tedesca. Anche questa è tendenziosa, proprio come la nostra, e spesso arriva in ritardo con le notizie. La stampa tedesca, in particolare, soffre a causa delle politiche calcolate del Governo dell’Impero Germanico, che in questo momento ritiene sia utile stimolare la fiducia pubblica nella vittoria in ogni modo possibile. Tuttavia, se non si segue regolarmente la stampa di tutte le nazioni belligeranti, si otterrà soltanto una visione imperfetta della guerra nel suo complesso.
+
 
 
 <span class="atom-split" data-atom="story_07_what_the_war_has_taught_us" data-title="The Two Maps of Europe — WHAT THE WAR HAS TAUGHT US" data-chapter="WHAT THE WAR HAS TAUGHT US" data-kind="story" data-tags="concept/war_and_its_cost,form/essay,histref/first_world_war"></span>
@@ -1828,6 +2631,14 @@ MANY THEORIES FORMULATED in times of peace have crumbled in the face of recent a
 
 WHAT THE WAR HAS TAUGHT US
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Ciò che la guerra ci ha insegnato
+
+Molte teorie formulate in tempi di pace sono crollate di fronte alle recenti realtà. Qui vengono esposte le principali lezioni da trarre dalla guerra attuale.
+
+# Ciò che la guerra ci ha insegnato
 
 
 
@@ -1884,6 +2695,58 @@ In the second set, the political questions, the most important were:
 
 (4) The action of our modern town populations under the moral strain of war.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# I punti in discussione
+
+Lungi periodi di pace, che intercorrono tra cicli di guerra, sono necessariamente periodi durante i quali si sviluppa una grande quantità di teorie riguardanti il modo in cui la guerra influenzerà gli esseri umani quando scoprirà. Sono anche periodi in cui vengono perfezionati armamenti, il cui effetto reale sull’animo umano non è ancora stato testato. Infine, sono periodi in cui vengono sviluppati metodi di difesa, l’efficacia dei quali contro gli armamenti offensivi corrispondenti rimane comunque dubbia.
+
+Ancora di più, l’intero ambito delle strategie navali e militari, sebbene le sue regole fondamentali rimangano invariate, è influenzato dall’utilizzo di nuovi materiali; la vera natura di questi materiali, infatti, può essere compresa solo quando vengono effettivamente messi in pratica.
+
+Ad esempio, è solo poco tempo fa che un'autorità navale molto eminente in questo paese ha difeso l’uso dei sottomarini. Questo nuovo tipo di arma non era stato effettivamente utilizzato in guerra, nonostante esistesse da molti anni. Ha suggerito che nel prossimo conflitto navale le navi da battaglia e i cacciatorpediniere diventassero inutili di fronte ai sottomarini, i quali dominerebbero completamente gli scontri navali.
+
+La sua teoria, che ovviamente era solo una teoria, fu vivacemente contestata. Ma tra le due “scuole” coinvolte non c’era altra soluzione se non quella di ricorrere a vere e proprie battaglie navali in cui venissero utilizzate le sottomarine.
+
+La necessaria presenza di “scuole di pensiero” rivali in materia navale e militare viene particolarmente sottolineata quando il progresso tecnologico avviene rapidamente, si combinano i miglioramenti graduali nei metodi meccanici, e quando il periodo di pace è lungo.
+
+Entrambe queste condizioni sono state presenti in tutta Europa, e in particolare nell’Europa occidentale, durante la nostra generazione; è per questo che questa guerra ha già insegnato molte lezioni a coloro che studiano gli affari militari e navali, ed è per questo che ha già risolto molti problemi controversi.
+
+Le manovre potevano rivelare molte cose, ma in esse mancava sempre il fattore principale della paura, e anche quel fattore quasi altrettanto importante: la distruzione reale.
+
+L’elenco delle domande, sia dettagliate che generali, che sono già state parzialmente o completamente risposte dalle attuali campagne potrebbe essere esteso all’infinito. Ne esistono centinaia. Ma se consideriamo solo quelle principali, le troveremo suddivise in due categorie principali: da un lato ci sono le domande tecniche riguardanti l’armamento, il suo utilizzo e i suoi effetti; la formazione militare, e così via; dall’altro lato ci sono le questioni politiche.
+
+Il primo insieme di argomenti riguarda l’azione degli esseri umani in presenza di particolari forme di pericolo, nonché gli effetti fisici delle armi che utilizzeranno nelle condizioni tipiche di una civiltà avanzata.
+
+Il secondo gruppo di questioni riguarda l’azione degli esseri umani in quanto cittadini, e non come soldati. Come affronteranno l’avvento della guerra, se il sentimento nazionale sarà più forte del sentimento di classe, se sia possibile mantenere il segreto, e così via.
+
+Elenco dei punti principali di ciascuno di questi set sarà più o meno come segue:
+
+“In the first there were opposing schools as to…”
+
+(1) Il valore delle moderne fortificazioni permanenti e la loro capacità di resistere ai moderni treni d’assedio.
+
+(2) La migliore formazione per organizzare le truppe all’azione, e in particolare il dibattito tra la formazione ravvicinata e quella aperta.
+
+(3) I dubbi riguardo al grado di affidabilità degli aereospia, alla loro capacità di combattere tra loro, alle qualità necessarie per ottenere il dominio dell’aria, e in particolare al valore dei grandi palloni dirigenibili moderni.
+
+(4) L’effetto, il metodo e il valore proporzionale del fuoco di fucile e dell’uso della baionetta.
+
+(5) L’uso dell’artiglieria da campo; e in particolare se, dopo aver raggiunto un certo grado di rapidità nel fuoco, valesse la pena aumentarne ulteriormente l’efficienza.
+
+(6) Il ruolo esatto che, nella guerra moderna, svolgerebbe la fornitura di certi materiali finora considerati insignificanti e reperibili soltanto in alcune regioni limitate, la maggior parte delle quali al di fuori dell’Europa. Esistono molti di questi materiali, ma il più importante è senza dubbio il petrolio.
+
+(7) Infine, e di gran lunga la questione più importante dal punto di vista puramente tecnico per questo paese, era la risoluzione di alcune teorie contrastanti riguardo a ciò che viene retoricamente definito “il dominio dei mari”, mentre sarebbe molto più appropriato definirlo superiorità navale.
+
+Nel secondo gruppo di argomenti, quelli politici, i più importanti erano:
+
+(1) Il funzionamento dei sistemi di arruolamento obbligatorio e volontario.
+
+(2) La possibilità di mantenere il segreto.
+
+(3) Se la mobilitazione avrebbe funzionato senza intoppi di fronte alle lotte di classe che si suppone siano pericolose per gli interessi nazionali.
+
+(4) L’azione delle popolazioni moderne delle nostre città sotto la pressione morale della guerra.
 
 
 
@@ -1945,6 +2808,62 @@ Further, the submarine has not proved itself as formidable against men-of-war as
 The conception that almost immediately after a declaration of war naval superiority would prevent the inferior naval power from commerce destroying, and that the trade routes of the superior power would be as safe as in time of peace has broken down. So has the idea that submarines could seek out the enemy’s fleet in its ports and destroy them there.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lezioni che abbiamo imparato
+
+Non tutte le questioni, sia militari che politiche, sono ancora state risolte attraverso l’esperienza. Tuttavia, molte di esse sono già parzialmente risolte, alcune addirittura completamente. E possiamo esaminarle una per una, considerandole utili per il nostro scopo.
+
+(1) Il valore delle fortificazioni permanenti.
+
+Forse la lezione più evidente di questa guerra, e quella che già il suo svolgimento ci insegna in modo inequivocabile, è il fatto che le opere militari permanenti moderne, almeno come le abbiamo conosciute finora, sono dominate dall’artiglieria d’assedio moderna, in particolare dalle grandi obici mobili che utilizzano la forma più avanzata di esplosivo ad alto potenziale. È importante esporre chiaramente i fatti riguardanti questa questione, poiché la sua improvvisità e il suo carattere drammatico ne hanno derivato molte lezioni importanti.
+
+Le fortificazioni moderne sono state distrutte dopo una resistenza molto breve al fuoco degli obici, in tutto il fronte occidentale della campagna. In generale, se si riesce ad avvicinare gli obici moderni e mobili a distanza di tiro dalle fortificazioni permanenti, queste vengono distrutte in pochissimo tempo: probabilmente meno di una settimana, e anche solo quarantotto ore.
+
+Non si tratta di tenacia o coraggio: la massima tenacia e il massimo coraggio non possono fare nulla contro una fortificazione ridotta in rovine, nella quale non c’è nemmeno spazio per posizionare un cannone. Questo è certo. Ma non dobbiamo nemmeno pensare che questo significhi la fine delle fortificazioni nel futuro: le batterie mobili temporanee allestite all’esterno delle vecchie strutture permanenti potranno proteggere una guarnigione per un periodo indeterminato. Inoltre, non è vero che i tedeschi abbiano in questo campo alcun vantaggio particolare rispetto ai russi, i quali sono deboli nell’artiglieria pesante e hanno capacità limitate di potenziarla. Man mano che la guerra proseguirà, si scoprirà che anche le armate occidentali si trovano nella stessa situazione dei tedeschi.
+
+È vero che i tedeschi dispongono di obici più grandi di quelli francesi e inglesi. Hanno alcuni obici da 420 millimetri, cioè cannoni con un calibro compreso tra 16 e 17 pollici. Ma questo tipo di cannone è quasi troppo grande per essere utilizzato efficacemente. Quello che ha realmente avuto successo ovunque è stato l’obice da 11 pollici, e anche i francesi ne dispongono di uno della stessa dimensione. Fino ad ora, sono stati gli invasori tedeschi a occuparsi dei lavori di assedio; ma se mai i ruoli si invertissero, le opere permanenti tedesche sarebbero altrettanto vulnerabili al fuoco degli obici francesi. Per quanto riguarda l’abolizione delle fortificazioni in futuro, non c’è bisogno di aspettarselo.
+
+È probabile che il sistema di grandi opere difensive permanenti e chiuse lasci il posto a un sistema di trincee strette, preparate in anticipo e parallele, collegate da passaggi coperti. Questo nuovo sistema, offrendo un bersaglio troppo piccolo per permettere un tiro preciso da lontano, e essendo disposto in modo che una trincea si sovrapponga all’altra, sarà in grado di resistere molto più a lungo rispetto alle opere più grandi che hanno subito il peso principale degli attacchi in questa guerra. Tuttavia, possiamo essere certi che le forze difensive troveranno modi per contrastare queste nuove e inaspettate capacità offensive, sulla base dell’analogia con tutte le guerre del passato.
+
+(2) Per quanto riguarda la tattica di formazione, lo sviluppo inaspettato delle operazioni militari è senza dubbio dovuto al successo di un’altra teoria tedesca: quella che prevede l’utilizzo di truppe moderne, addestrate in breve tempo, per combattere in formazione stretta, anche a fronte di pesanti perdite. Ovunque all’esterno della [[Germany|Germania]] questa tattica fosse messa in dubbio, i tedeschi hanno dimostrato che la loro ipotesi iniziale era corretta, almeno nel loro caso. Tuttavia, c’è un altro aspetto di questa questione che non è ancora stato affatto chiarito: si tratta di capire se le pesanti perdite causate dall’utilizzo della formazione stretta siano realmente giustificate in una campagna militare che non ottiene subito successo all’inizio. Non possiamo ancora stabilire fino a che punto le truppe, una volta sottoposte a tale tipo di aggressività, siano disposte a sopportarla nuovamente, né dopo quanto tempo; inoltre, non sappiamo quale effetto abbia questo enorme spreco di vite umane sul risultato finale di una campagna militare, nel caso in cui l’obiettivo principale – il successo immediato all’inizio delle operazioni – venga mancato.
+
+(3) Per quanto riguarda gli aerei, sono già emerse quattro informazioni.
+
+(a) Gli uomini si combatteranno nell’aria senza paura e lo faranno continuamente, nonostante la prospettiva sembrasse spaventosa quando questa guerra è scoppiata.
+
+b) Gli aerei possono rilevare con maggiore precisione e efficacia il movimento delle truppe, anche quando queste si muovono in grandi formazioni, di quanto si fosse immaginato in precedenza.
+
+(c) Quell’insieme di aeromobili progettati per affrontare condizioni climatiche più rigide e operare in presenza di venti più forti avrà un enorme vantaggio non solo in tempo di maltempo, ma in qualsiasi condizione meteorologica. È proprio questo, unito a una tradizione di avventura molto radicata e consolidata, che ha reso gli aviatori inglesi facilmente superiori ai loro alleati e nemici.
+
+(d) L’aeroplano non è né così invulnerabile ad alta quota come immaginava un certo gruppo di persone, né così vulnerabile come sosteneva un altro gruppo opposto. Le perdite umane, in proporzione al numero delle persone coinvolte, non sono altissime come avverrebbe in altre armi, almeno per ora, ma esistono comunque. Inoltre, sembra che l’impossibilità di distinguere se un aeroplano appartenga agli alleati o ai nemici rappresenti un ulteriore fattore di rischio significativo.
+
+Molte questioni relative agli aerei devono ancora essere risolte; di queste, quella di gran lunga più importante per questo paese riguarda l’efficienza del pallone dirigenibile.
+
+La quantità di attenzione che dovrebbe essere dedicata alla buona tecnica di tiro con il fucile, nonché l’importanza attribuita al baionetto, sembrano entrambe essere state chiarite finora dalla pratica bellica.
+
+Il fuoco delle armi da fuoco pesanti, soprattutto nelle condizioni di una difesa difficile, fu la salvezza delle forze britanniche durante la ritirata da Mons e, per tutta la battaglia della Marna, i resoconti francesi concordano sul fatto che il baionetto sia stato il fattore decisivo in azione dopo azione. Tuttavia, anche se fosse vero, come affermato da un ufficiale francese, che “tutte le azioni finiscono con il baionetto”, il numero effettivo di truppe coinvolte e le perdite umane ad esse correlate non rappresentano una percentuale molto elevata rispetto al totale delle forze in campo.
+
+Sembra quasi che la baionetta abbia, in qualche misura, sostituito l’antica tattica di attacco della cavalleria, e che venisse utilizzata soltanto quando le truppe nemiche erano sconvolte o impegnate in una ritirata troppo affrettata. Per quanto riguarda l’efficacia della baionetta in altre situazioni, non abbiamo almeno alcun esempio registrato.
+
+(5) Per quanto riguarda i due punti principali legati all’artiglieria da campo, le informazioni finora ricevute non ci dicono molto. Solo quando saranno disponibili resoconti più dettagliati potremo sapere se la notevolmente maggiore rapidità di fuoco dell’obice da 75 millimetri francese abbia realmente concesso a quest’ultimo un vantaggio rispetto al suo avversario, l’obice da 77 millimetri tedesco. È abbastanza chiaro che esista tale vantaggio; tuttavia, il grado preciso di questa superiorità lo scopriremo solo quando avremo conoscenza dei resoconti della guerra forniti dal punto di vista tedesco.
+
+Nemmeno noi abbiamo una posizione definitiva su questa questione del peso. La teoria del generale Langlois, che convinse i francesi dell’essenzialità delle armi leggere, non è ancora stata completamente dimostrata come certa, e ci sono stati casi in cui l’arma pesante inglese (in particolare a Meaux) si rivelò di grande importanza per i nostri Alleati. Tuttavia, credo che questa questione possa essere risolta meglio ora che il tempo è cambiato. In condizioni di terreno asciutto e duro, la differenza tra l’arma pesante e quella leggera non è così evidente; ma non appena il terreno diventa fangoso, tale differenza diventa assolutamente marcata.
+
+(6) Con la prossima domanda, relativa ai materiali e al loro approvvigionamento, entriamo in un ambito di estremo interesse per questo paese in particolare, poiché è proprio la superiorità di questo paese in mare, nonché il blocco quasi totale delle potenze germaniche, a essere in gioco. In sintesi, si può affermare che: (a) il blocco dei porti nemici da una grande distanza sia facile; (b) l’approvvigionamento del nemico attraverso i paesi neutrali sia invece molto difficile; (c) alcuni prodotti speciali resi necessari dalla scienza moderna in tempo di guerra siano particolarmente colpiti. Ad esempio:
+
+Tra le molte cose di cui ha bisogno un esercito moderno e che si trovano soltanto in pochi luoghi specifici – e la maggior parte di questi fuori dall’Europa – quella più importante è senza dubbio il petrolio. È ovviamente di fondamentale importanza per le operazioni aeree, e dove esistono buone strade, come nel teatro operativo occidentale, è quasi altrettanto essenziale per i trasporti.
+
+È proprio il caso che in Europa occidentale il petrolio non si trovi affatto. L’approvvigionamento europeo nel suo complesso è limitato e si concentra principalmente in Galizia, Romania e Russia. Gli approvvigionamenti asiatici e americani sono disponibili soltanto per Austria-Ungheria e [[Germany|Germania]] attraverso il mare, ma il mare è loro chiuso. Naturalmente, non possono ottenere alcun rifornimento dalla Russia. L’approvvigionamento proveniente da Galizia passa continuamente di mano tra l’esercito austriaco e quello russo.
+
+Resta solo la Romania, e sebbene sia neutrale, è improbabile, o meglio dire quasi certo, che da quella fonte arrivino rifornimenti sufficienti alle Potenze germaniche. A questo punto, la superiorità navale britannica rappresenta l’effetto principale di tale situazione, su cui passerò ora a parlare.
+
+(7) La maggior parte delle cose dette in tempi di pace riguardo all’effetto della superiorità navale o del “dominio dei mari” si è rivelata vera. Il blocco delle potenze navali inferiori è quasi completo – anche se bisogna ricordare che queste ultime dispongono di una costa estremamente limitata, e che il problema diventerebbe molto diverso in caso di una grande flotta dotata di numerosi porti su una costa estesa.
+
+Inoltre, il sottomarino non si è rivelato così temibile contro le navi da guerra come alcuni pensavano, e la superiorità delle grandi imbarcazioni viene ancora riconosciuta. D'altra parte, è stato dimostrato che pochi incrociatori nemici potrebbero continuare a controllare i mari per un periodo molto più lungo di quanto si immaginasse, minacciando così in modo permanente il commercio marittimo.
+
+L’idea che, quasi immediatamente dopo la dichiarazione di guerra, la superiorità navale impedisse alla potenza navale inferiore di distruggere il commercio e che le rotte commerciali della potenza superiore fossero altrettanto sicure quanto in tempo di pace si è rivelata errata. Allo stesso modo, è fallita l’ipotesi secondo cui i sottomarini potessero localizzare la flotta nemica nei suoi porti e distruggerla lì.
+
 
 
 <span class="atom-split" data-atom="story_10_the_political_results" data-title="The Two Maps of Europe — THE POLITICAL RESULTS" data-chapter="THE POLITICAL RESULTS" data-kind="story" data-tags="setting/germany"></span>
@@ -1969,3 +2888,26 @@ In plain fact, the idea that class feeling would anywhere in Europe be stronger 
 In the industrial parts of [[Germany]] where the distinction of capitalist and proletariat was so clearly marked, that distinction had no effect whatsoever, not only upon mobilization, but upon the spirit of the troops; a fortiori it had none in that French society which is leavened by its peasantry, or in Russia which is almost wholly a peasant state.
 
 There is nothing on which the judgment of an educated man would have proved more at sea had it been taken before the war broke out, and nothing in which the war has more poignantly revealed the ancient foundations upon which Europe reposes.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+I risultati politici
+
+Quando ci rivolgiamo alle questioni politiche che la guerra ha risolto, otteniamo risultati immediati di estremo interesse e importanza, soprattutto per l’Inghilterra.
+
+In primo luogo, abbiamo scoperto che sebbene il sistema di arruolamento obbligatorio in tempo di guerra abbia funzionato e si sia mobilitato con straordinario successo, la nostra dipendenza da un sistema volontario per guerre prolungate, molto più discutibile, non ha tradito questo paese. Tutti concordano sul fatto che la risposta all’appello per i volontari, su cui inizialmente esisteva grande e legittima preoccupazione, sia stata del tutto sproporzionata alle nostre aspettative, e soprattutto a quelle dei nostri nemici.
+
+Penso sia vero affermare che in nessun ambito la valutazione tedesca della psicologia britannica si è rivelata più completamente errata di quanto non sia avvenuto in questo caso; e che gli effetti di questa rapida e massiccia arruolamento volontario, che ha coinvolto principalmente le migliori risorse del paese, rappresentino il principale fattore imprevisto nell’ambito delle aspettative della [[Germany|Germania]]. Questo fattore si manifesta con maggiore lentezza rispetto ad altri, forse persino più lentamente dell’effetto del blocco navale (che anch’esso è dovuto agli sforzi britannici), ma maturerà abbastanza rapidamente da influenzare tutte le fasi successive, e probabilmente anche quelle decisive, di questa grande guerra.
+
+Abbiamo una risposta altrettanto diretta a quella domanda finora piuttosto incerta: se in uno stato moderno sia possibile mantenere il segreto necessario al successo di un piano militare. Anche in questo caso si è verificata una completa sorpresa. Nessuno avrebbe potuto immaginare, sei mesi fa, che un sistema così rigido nel controllo delle informazioni potesse funzionare efficacemente nelle grandi città moderne. E bisogna ammettere che i nostri avversari hanno fatto addirittura meglio di noi: i governi tedesco e austriaco riescono con una sicurezza quasi comica a fornire alle persone che governano esattamente le informazioni che desiderano, impedendo qualsiasi correzione o ampliamento di queste scarse dichiarazioni ufficiali prima che vengano diffuse al di fuori dei loro confini.
+
+In relazione a questo, dovremmo notare che al momento della stesura di queste parole non esiste ancora una risposta definitiva a quella questione molto importante: come farà la popolazione urbana moderna e complessa a resistere a una forte pressione morale. Tuttavia, se si considerano le pressioni indirette già causate dalla guerra, la risposta sembra essere favorevole alle capacità della società urbana moderna.
+
+Forse il punto più importante tra tutte le questioni politiche sollevate dalla guerra è quello relativo alle classi sociali, in contrapposizione ai sentimenti nazionali.
+
+In realtà, l’idea che il senso di classe possa essere, in qualsiasi parte d’Europa, più forte del senso nazionale si è rivelata completamente infondata.
+
+Nelle zone industriali di [[Germany|Germania]], dove la distinzione tra capitalisti e proletariati era così netta, tale distinzione non aveva alcun effetto né sulla mobilitazione delle truppe né sul loro spirito; tanto meno in quella società francese influenzata dalla sua classe contadina, o in Russia, che è quasi interamente uno stato contadino.
+
+Non esiste nulla su cui il giudizio di un uomo istruito sarebbe risultato più incerto se fosse stato espresso prima dello scoppio della guerra; e non c’è nulla che la guerra abbia rivelato in modo più drammatico le antiche fondamenta su cui si regge l’Europa.

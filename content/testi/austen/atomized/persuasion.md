@@ -16945,6 +16945,225 @@ it was only in Anne that she could fancy the mother to revive again.
 A few years before, [[Anne Elliot]] had been a very pretty girl, but her
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I.
+
+
+
+
+
+[[Sir Walter Elliot]], di Kellynch Hall, nel Somersetshire, era un uomo che.
+
+Per divertimento personale, non prese mai in mano nessun altro libro se non quello sulle baronie…
+
+# Trovò un modo per occupare un’ora di noia e conforto in un momento difficile
+
+Titolo:  
+Lì, le sue capacità suscitarono ammirazione e rispetto…
+
+#Contemplando i resti limitati dei primi brevetti… esistono ancora?
+
+Senazioni sgradevoli, derivanti da cambiamenti naturali nelle questioni domestiche
+
+In compassione e disprezzo… mentre esaminava quelle creazioni quasi infinite.
+
+Del secolo scorso… E lì, se ogni altra foglia fosse inerente, lui…
+
+Poteva leggere la propria [[history|storia]] con un interesse che mai veniva meno. Questo.
+
+La pagina su cui si apriva sempre il volume preferito…
+
+
+
+“Elliot di Kellynch Hall.”
+
+
+
+
+
+"Walter Elliot, nato il 1° marzo 1760, sposò Elizabeth il 15 luglio 1784."
+
+Figlia di James Stevenson, Esq., di South Park, nella contea di…
+
+[[Gloucester]], da quella signora (che morì nel 1800) ha avuto una figlia di nome Elizabeth.
+
+# 1° giugno 1785; Anne, nata il 9 agosto 1787; un figlio morto alla nascita, il 5 novembre…
+
+# 1789; Mary, nata il 20 novembre 1791
+
+
+
+# Esattamente così era stato stampato originariamente quel paragrafo dalla tipografia.
+
+Titolo:  
+“Mani… ma Sir Walter l’aveva migliorato aggiungendo, a scopo informativo…”
+
+“Lui stesso e la sua famiglia: queste parole, dopo la data di Mary…”
+
+"Nascita – ‘Sposato il 16 dicembre 1810; Charles, figlio e erede di Charles’"
+
+“Musgrove, Esq. di Uppercross, nella contea del Somerset”, e da…
+
+#Il giorno esatto in cui lo perse…
+
+moglie.
+
+
+
+Poi seguì la [[history|storia]] e l’ascesa di quel popolo antico e rispettabile.
+
+Famiglia, nei termini abituali; come essa si sia stabilita per la prima volta nel Cheshire.
+
+Come menzionato in Dugdale, ricopriva la carica di alto sceriffo.
+
+Titolo:  
+Rappresentando un distretto in tre legislature consecutive, gli sforzi compiuti…
+
+Titolo:  
+Lealtà e dignità di un barone nel primo anno del regno di Carlo II
+
+Tutte le Mary e le Elizabeth che avevano sposato… In totale, due.
+
+Titolo:  
+Dodici pagine piuttosto eleganti, che si concludono con le armi…
+
+Motto: “Sede principale: Kellynch Hall, nella contea di Somerset”, e
+
+Di nuovo la calligrafia di Sir Walter in questo finale:—
+
+
+
+#Erede presuntivo, William Walter Elliot, Esq., pronipote del…
+
+“Secondo Sir Walter”.
+
+
+
+La [[Vanity|Vanità]] era l’inizio e la fine del carattere di [[Sir Walter Elliot|>Sir Walter Elliot]];
+
+La [[Vanity|vanità]] di quella persona, sia nel aspetto che nella situazione in cui si trovava. Era stato incredibilmente attraente.
+
+A cinquantaquattro anni, era ancora un uomo molto affascinante… Poche donne…
+
+Nessuno si curava più del proprio aspetto esteriore di quanto facesse lui…
+
+Il valletto di un nuovo lord nato sarà certamente molto soddisfatto del ruolo che ricopre.
+
+Nella società, considerava la benedizione della [[Beauty|bellezza]] seconda solo a.
+
+La benedizione di un titolo nobiliare; e [[Sir Walter Elliot]], che li unì.
+
+Questi doni rappresentavano sempre l’oggetto del suo più sincero rispetto e affetto.
+
+Devozione.
+
+
+
+La sua bellezza e il suo rango gli garantivano sicuramente l’affetto delle donne; dopotutto…
+
+Per loro, doveva aver avuto una moglie di carattere molto superiore a qualsiasi altra…
+
+“Una punizione meritata… Lady Elliot era stata una donna eccellente.”
+
+# Sensibile e affabile; la cui giudizio e comportamento, se solo potessero essere…
+
+Perdonò quella giovane passione che la rese Lady Elliot… mai.
+
+#Il necessario piacere dopo… Aveva acconsentito, o mitigato, o…
+
+Nascose i suoi difetti e fece risaltare la sua vera rispettabilità.
+
+Diciassette anni… e sebbene non fosse certo la persona più felice al mondo
+
+# Lei stessa trovava già abbastanza nelle proprie responsabilità, nei suoi amici e nei suoi figli…
+
+#Collegarla alla vita, rendendola per lei qualcosa di assolutamente importante
+
+# Quando le fu chiesto di lasciarli… Tre ragazze, le due più grandi
+
+“Sedici e quattordici: un eredità terribile da lasciare a una madre…”
+
+Una richiesta davvero spiacevole, affidarsi alle autorità e alla guida di…
+
+# Un padre presuntuoso e sciocco… Tuttavia, aveva un’amica molto intima.
+
+Una donna sensata e meritevole, che era stata legata a lui da un forte affetto…
+
+Per sé stessa, per stabilirsi vicino a lei, nel villaggio di Kellynch… e oltre.
+
+La gentilezza e i consigli di Lady Elliot furono le principali fonti d’aiuto per lei.
+
+Il mantenimento dei buoni principi e delle istruzioni che lei aveva ricevuto
+
+Le aveva dato con ansia alle sue figlie.
+
+
+
+Questo amico e Sir Walter non si sposarono, nonostante tutto ciò che potesse esserci stato…
+
+Titolo:  
+Atteso da tempo da quel conoscente… Tredici anni erano trascorsi.
+
+Sono deceduti dopo la [[Death|morte]] di Lady Elliot, ma erano ancora vicini.
+
+Vicini e amici intimi… Uno rimase vedovo, l’altro…
+
+una vedova.
+
+
+
+Quella [[Lady Russell|Signora Russell]], di età e carattere stabili, ed estremamente [[Well|benestante]].
+
+Qualora sia stato previsto, non si dovrebbe nemmeno pensare a un secondo [[Marriage|matrimonio]]; inoltre, non c’è alcun bisogno.
+
+Scusa al pubblico, che spesso tende ad essere irragionevole…
+
+“Insoddisfatto quando una donna si sposa di nuovo, più che quando non lo fa…”
+
+Ma il fatto che Sir Walter continui a rimanere single richiede una spiegazione… Che sia essa quale sia.
+
+“Allora si seppe che Sir Walter, come un buon padre, dopo aver incontrato qualcuno…”
+
+“O due delusioni personali derivanti da richieste assolutamente irragionevoli…”
+
+Si vantava di rimanere single per il bene delle sue care figlie. Per…
+
+“Una figlia… la sua più grande… Per lei avrebbe davvero dato qualsiasi cosa.”
+
+Titolo:  
+Qualcosa che in realtà non lo aveva affatto spinto a fare… Elizabeth c’era riuscita.
+
+A sedici anni, le furono revocate tutte le prerogative e i diritti legati alla sua condizione di figlia…
+
+Conseguenza… e essendo molto attraente, e molto simile a lui, lei…
+
+L’influenza che esercitavano era sempre stata grande, e avevano continuato a procedere insieme per la maggior parte del tempo…
+
+Felicemente… I suoi altri due figli avevano un valore molto inferiore. Mary, invece…
+
+Acquisì una sorta di importanza artificiale diventando la signora Charles.
+
+Musgrove… ma Anne, con l’eleganza dell’intelletto e la dolcezza del cuore…
+
+#Un personaggio che, senza dubbio, la rendeva degna di stare tra le persone veramente importanti…
+
+# Nessuno, né padre né sorella, le offriva comprensione o sostegno; la sua parola non contava nulla.
+
+Peso. La sua comodità consisteva sempre nel cedere il passo: lei era soltanto Anne.
+
+
+
+Per [[Lady Russell]], davvero, lei era una persona molto cara e molto apprezzata.
+
+Nipote acquisita, preferita e amica. [[Lady Russell]] li amava tutti; ma.
+
+Solo in Anne riusciva a immaginare che la madre potesse risorgere di nuovo.
+
+
+
+Qualche anno prima, [[Anne Elliot]] era stata una ragazza molto bella, ma.
+
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="Persuasion — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/death,motif/home,motif/marriage,motif/spring,motif/summer,motif/time,concept/history,concept/honour,concept/hope,concept/pride,concept/self,form/history,setting/london,character/lady_russell"></span>
@@ -17870,6 +18089,229 @@ place to Lord St Ives, and a certain Admiral Baldwin, the most
 
 deplorable-looking personage you can imagine; his face the colour of
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO III.
+
+
+
+
+
+“Devo congedarmi per osservare, signor Walter”, disse il signor Shepherd.
+
+“La mattina a Kellynch Hall, mentre posava il giornale…”
+
+La situazione attuale è molto favorevole a noi. Questo accordo di pace cambierà completamente le cose.
+
+I nostri ricchi ufficiali navali, ora sulla terraferma, vorranno tutti tornare a casa. Potrebbe essere un problema.
+
+Non potrebbe esserci un momento migliore, Signor Walter, per poter scegliere i propri inquilini, davvero.
+
+Inquilini responsabili. Molte fortune nobili sono state accumulate durante la guerra.
+
+“Se un ammiraglio ricco dovesse intralciarci la strada, Sir Walter…”
+
+
+
+“Sarebbe un uomo molto fortunato, Shepherd”, rispose Sir Walter; “quello sì…”
+
+“Tutto ciò che posso dire è… Kellynch Hall sarebbe davvero un premio inestimabile per lui.”
+
+Piuttosto che il più grande premio di tutti… che ne abbia presi quanti ne vuole.
+
+“Prima di tutto… ehi, Shepherd?”
+
+
+
+“Mr Shepherd rise in laughter, poiché sapeva di doverlo fare di fronte a tale battuta spiritosa, e poi aggiunse…”
+
+
+
+“Oso osservare, signor Walter, che, in ambito lavorativo…”
+
+Gli ufficiali della marina sono davvero facili da gestire. Ho avuto qualche piccolo problema, ma.
+
+Conoscenza dei loro metodi di conduzione degli affari… E devo ammetterlo liberamente.
+
+Titolo:  
+Hanno concezioni molto liberali e sono altrettanto propensi a…
+
+Incontrare inquilini desiderabili è come incontrare qualsiasi gruppo di persone che si possa desiderare conoscere. Pertanto…
+
+Titolo:  
+“Sir Walter, quello che vorrei suggerire è che, se…”
+
+Conseguenze di eventuali voci che si diffondessero riguardo alle tue intenzioni… Qualcosa che sicuramente non dovrebbe accadere.
+
+# Potrebbe essere considerata una possibilità… perché sappiamo quanto sia difficile.
+
+Titolo:  
+È necessario impedire che le azioni e i piani di una parte del mondo influenzino…
+
+# L’attenzione e la curiosità degli altri; le conseguenze hanno il loro prezzo… Io, John
+
+“Pastore, potresti nascondere qualsiasi questione familiare io scelga di rivelare… perché nessuno deve saperlo.”
+
+Si potrebbe pensare che valga la pena osservarmi; ma [[Sir Walter Elliot]].
+
+Ci sono occhi che lo osservano, e sfuggirne potrebbe rivelarsi molto difficile…
+
+# Pertanto, oso affermare che questo non sorprenderà affatto nessuno
+
+Dimmi se, nonostante tutte le nostre precauzioni, qualche voce riguardo alla [[Truth|_verità]] dovesse diffondersi.
+
+In assenza di tale presupposto… come stavo per osservare…
+
+Le applicazioni seguiranno senza dubbio; penso che ne emergano molte da parte delle nostre…
+
+Comandanti navali ricchi, particolarmente degni di attenzione… e con permesso.
+
+Inoltre, in due ore potrei essere lì in qualsiasi momento, per risparmiarti il disturbo.
+
+“Problemi nel rispondere…”
+
+
+
+Sir Walter annuì soltanto. Ma poco dopo si alzò e iniziò a camminare avanti e indietro…
+
+“Una stanza…”, osservò in tono sarcastico.
+
+
+
+“Immagino che tra gli ufficiali della marina ci siano pochi che…”
+
+Non sorprendersi quindi se si ritrovassero in una casa di questo tipo.
+
+
+
+“Si guarderebbero intorno, senza alcun [[Doubt|>dubbio]], e ringrazierebbero per la loro buona fortuna.”
+
+“Così disse la signora Clay, poiché lei era presente: suo padre l’aveva portata lì.”
+
+Titolo:  
+Niente è più benefico per la salute della signora Clay di una passeggiata in…
+
+# Kellynch: "Ma sono assolutamente d’accordo con mio padre nel ritenere che un marinaio possa..."
+
+“Essere un inquilino molto desiderabile… Conosco bene questa professione.”
+
+Oltre alla loro generosità, sono anche molto ordinati e attenti in tutto ciò che fanno.
+
+# Modi… Queste preziose immagini vostre, Signor Walter, se decideste di…
+
+Lasciarli lì sarebbe del tutto sicuro. Tutto all’interno della [[house|>casa]].
+
+Verranno sicuramente curati con grande attenzione! I giardini e gli arbusti…
+
+# Sarebbero mantenuti quasi nello stesso ordine attuale. Non è necessario…
+
+“Preoccupata, signorina Elliot, che i vostri deliziosi giardini fioriti vengano trascurati…”
+
+
+
+“Per quanto riguarda tutto ciò,” ribatté Sir Walter con calma, “ammettendo che io fossi indotto…”
+
+Per quanto riguarda la mia [[house|casa]], non ho ancora deciso nulla al riguardo.
+
+Privilegi da annettervi… Non sono particolarmente disposto a farlo.
+
+# Favorendo un inquilino… Il parco sarebbe ovviamente aperto a lui, e pochi membri della marina…
+
+Ufficiali, o uomini di qualsiasi altra categoria, possono aver avuto un simile spettro di possibilità.
+
+# Ma quali restrizioni potrei imporre sull’uso di…
+
+“Pleasure-grounds… è un’altra questione. Non mi piace affatto l’idea di…”
+
+“Gli arbusti sono sempre accessibili… e consiglierei alla signorina…”
+
+Elliot deve stare attenta riguardo al suo giardino di fiori. Sono molto preoccupata.
+
+#Poco disposto ad accordare al locatario di Kellynch Hall alcun trattamento speciale
+
+“Vi assicuro che, sia che si tratti di un marinaio o di un soldato, il favore sarà lo stesso.”
+
+
+
+Dopo una breve pausa, il signor Shepherd presumette di dover dire…
+
+
+
+"In tutti questi casi, esistono usanze consolidate che regolano ogni aspetto della situazione."
+
+“Semplice ed chiaro tra proprietario e inquilino… Il vostro interesse, signor Walter.”
+
+Il titolo è: “È in mani abbastanza sicure. Potete contare su di me per assicurarvi che nessun inquilino…”
+
+“Ha più di quanto gli spettino per diritto… Oso insinuare che Sir Walter…”
+
+# Elliot non potrebbe mai essere nemmeno lontanamente geloso quanto lo sarà John Shepherd per ciò che gli appartiene
+
+“Per lui.”
+
+
+
+Qui parla Anne…
+
+
+
+“La marina, penso, che ha fatto così tanto per noi, merita almeno…”
+
+“Un diritto uguale a quello di qualsiasi altro uomo, a tutti i comfort e a tutto ciò che è essenziale.”
+
+Privilegi che qualsiasi [[Home|>casa]] può concedere. I marinai lavorano abbastanza sodo per ottenerli.
+
+“Consolazioni… che tutti noi dobbiamo permetterci di ricevere.”
+
+
+
+“Molto vero, molto vero. Quello che dice la signorina Anne è assolutamente vero,” disse il signor…
+
+“La risposta del pastore… e ‘Oh! certamente’, fu quella di sua figlia; ma Sir…”
+
+La osservazione di Walter fu fatta poco dopo…
+
+
+
+#La professione ha i suoi vantaggi, ma mi dispiacerebbe vedere che qualcuno…
+
+“Un mio amico che ne fa parte…”
+
+
+
+“Certamente!” fu la risposta, accompagnata da un'espressione di sorpresa.
+
+
+
+“Sì; ci sono due aspetti che mi offendono; ho due motivi fondati per…
+
+Obiezione in merito. Prima di tutto, perché rappresenta il mezzo per portare persone…
+
+# Nascita oscura e ascesa improvvisa alla distinzione…
+
+“Il loro padre e i loro nonni non avrebbero mai potuto immaginare… E in secondo luogo, poiché…”
+
+“Divora ormai la giovinezza e la forza di un uomo in modo terribile… Un marinaio invecchia prima del tempo.”
+
+“Più velocemente di qualsiasi altro uomo… L’ho osservato per tutta la mia vita: un uomo, quando…”
+
+# Maggiore pericolo nella marina: essere offesi dal successo di qualcuno…
+
+Padre… di cui forse il proprio padre avrebbe rifiutato persino di parlare… e che è diventato qualcosa di diverso.
+
+“Prima di diventare lui stesso un oggetto di disgusto, prima ancora che in qualsiasi altro ambito…”
+
+Lo scorso giorno di [[Spring|primavera]], in città, ero in compagnia di due uomini.
+
+Titolo:  
+Esempi di ciò di cui parlo; Lord St Ives, il cui padre…
+
+# Un curato di campagna senza pane da mangiare… Dovevo dare qualcosa
+
+#Un luogo legato a Lord St Ives e ad un certo ammiraglio Baldwin… il più importante di tutti.
+
+Personaggio dall’aspetto deplorevole, come potete immaginare… il suo viso aveva il colore di…
 
 
 
@@ -18994,6 +19436,208 @@ Anne said what was proper, and enquired after her husband. “Oh! Charles
 
 is out shooting. I have not seen him since seven o’[[Clock|clock]]. He would go,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poiché ogni parte conosce perfettamente la propria situazione.
+
+
+
+“La signora Clay”, disse lei con calore, “non dimentica mai chi è; e poiché anch’io…”
+
+Conosco i suoi sentimenti molto meglio di quanto tu possa farlo.
+
+Vi assicuro che, per quanto riguarda la questione del [[Marriage|matrimonio]], sono particolarmente.
+
+Bene, e soprattutto perché condanna con forza ogni forma di disuguaglianza in termini di condizioni sociali e rango.
+
+#Più forte della maggior parte delle persone… E per quanto riguarda mio padre, davvero non dovrei…
+
+#Ho pensato che colui che si è tenuto single per così tanto tempo, forse lo ha fatto per noi…
+
+Per amor del cielo, ora bisogna sospettarlo… Se la signora Clay fosse una donna molto bella…
+
+#Concordo, forse non è giusto tenerla sempre con me… ma non per questo…
+
+“Qualsiasi cosa al mondo, ne sono sicuro, potrebbe convincere mio padre a farlo.”
+
+Una partita degradante… ma potrebbe renderlo infelice. Povera signora Clay…
+
+Chi, nonostante tutti i suoi meriti, non può mai essere considerata tollerabile
+
+“Bella… davvero penso che povera signora Clay possa restare qui, in perfetta armonia…”
+
+**Sicurezza… Si potrebbe pensare che nessuno abbia mai sentito mio padre parlare di lei.**
+
+Personali sfortune… anche se so che le provi sicuramente cinquanta volte al giorno. Quel dente…
+
+Le sue lentiggini… Le lentiggini non mi dispiacciono poi così tanto.
+
+“Lo fanno… Ho conosciuto una persona il cui viso non era stato fisicamente deturpato da alcune cicatrici…”
+
+Ma li detesta profondamente… Devi averlo sentito commentare la signora Clay…
+
+“Frammenti di vita”.
+
+
+
+“Quasi non esiste alcun difetto personale”, rispose Anne, “che…”
+
+Un modo gradevole potrebbe non bastare a riconciliare gradualmente le persone…
+
+
+
+“Penso in modo molto diverso”, rispose Elizabeth brevemente; “un punto di vista piacevole…”
+
+Un certo modo di comportarsi può esaltare tratti fisici attraenti, ma non può mai modificare quelli ordinari o poco vistosi.
+
+Comunque sia, poiché in questo caso sono in gioco molte più cose per me…
+
+Titolo:  
+“Penso che tu abbia più di chiunque altro questa capacità… quindi non credo sia affatto necessario che la utilizzi.”
+
+“Per darmi dei consigli…”
+
+
+
+#Finalmente fatto… contenta che sia finito, e non del tutto senza speranza…
+
+"Fare del bene… Anche se Elizabeth provava risentimento per quella sospettazione, forse avrebbe comunque potuto…"
+
+Reso attento da esso.
+
+
+
+Il compito ultimo dei quattro cavalli da tiro era quello di trainare Sir Walter.
+
+# Miss Elliot e la signora Clay vanno a Bath… Il gruppo parte in ottima forma.
+
+# Spiriti; Sir Walter si preparò con inchini condiscendenti per tutti…
+
+Titolo:  
+Inquilini e contadini sfortunati che forse avrebbero potuto ricevere un aiuto…
+
+Da soli. E Anne arrivò nello stesso [[Time|momento]], in un ambiente piuttosto desolato.
+
+Tranquillità, presso la Loggia, dove avrebbe trascorso la prima settimana.
+
+
+
+Anche la sua amica non era in condizioni migliori delle sue. [[Lady Russell]] si sentiva.
+
+#La rottura di questa famiglia fu estremamente dolorosa… La loro rispettabilità ne risultò profondamente compromessa.
+
+Caro quanto se fosse proprio suo, e un rapporto quotidiano era diventato qualcosa di estremamente prezioso per lei…
+
+# Abitudine. Era doloroso guardare quei terreni abbandonati… eppure…
+
+Peggio ancora era immaginare in quali mani sarebbero finiti; e cercare di sfuggirvi.
+
+La solitudine e la [[Melancholy|melancolia]] di un villaggio così trasformato, e stare fuori da tutto ciò.
+
+Quando l’ammiraglio e la signora Croft arrivarono per la prima volta, lei aveva già deciso…
+
+affinché la sua stessa assenza da [[Home|>casa]] iniziasse proprio nel momento in cui doveva rinunciare ad Anne.
+
+Di conseguenza, furono rimosse insieme, e Anne fu sistemata lì.
+
+La casetta di Uppercross, nella prima tappa del [[Journey|viaggio]] di [[Lady Russell]].
+
+
+
+# Uppercross era un villaggio di dimensioni modeste che, alcuni anni prima…
+
+# Due case nell’antico stile inglese
+
+Di aspetto superiore rispetto a quello dei contadini e dei lavoratori…
+
+La dimora del signore, con i suoi alti muri, le grandi porte e gli alberi antichi
+
+“Substantiale e non modernizzato… e la piccola, compatta canonica…”
+
+Rinchiuso nel proprio ordinato [[Garden|giardino]], con una vite e un pero piantati con cura.
+
+Girava intorno alle sue finestre; ma dopo il [[Marriage|matrimonio]] del giovane scudiero, aveva.
+
+Ricevette il miglioramento di una fattoria-[[house|>casa]] trasformata in una casetta, per.
+
+La sua residenza e la casetta di Uppercross, con il suo portico e lo stile francese…
+
+“Finestre e altre bellezze… erano altrettanto capaci di attirare l’attenzione.”
+
+# Occhio di viaggiatore: l’aspetto più coerente e significativo
+
+Le strutture della [[Great House|Grande Casa]], situate a circa un quarto di miglio di distanza.
+
+
+
+Qui Anne aveva spesso soggiornato. Conosceva bene i luoghi e le abitudini di Uppercross.
+
+Proprio come quelle dei Kellynch. Le due famiglie erano costantemente in rapporti così stretti.
+
+#Incontri frequenti… abituati ormai ad entrare e uscire l’uno dalla vita dell’altro
+
+Quella [[house|casa]] era aperta in qualsiasi momento della giornata; quindi fu piuttosto sorpresa quando trovò Mary lì.
+
+[[Alone|sola]]; ma essendo [[Alone|sola]], il fatto che si sentisse male e senza spirito era quasi.
+
+“Una cosa scontata… Anche se più dotata della sorella maggiore, Mary…”
+
+Non possedeva né la comprensione né il carattere di Anne. Anche se era [[Well|buona]], felice e.
+
+Curata a dovere, possedeva un ottimo [[Humour|umore]] e uno spirito eccellente.
+
+Ma qualsiasi piccolo problema la sopraffaceva completamente; non aveva alcun modo per far fronte…
+
+La [[Solitude|solitudine]]; e l'eredità di una considerevole parte del patrimonio degli Elliot.
+
+L’importanza che attribuiva a se stesso lo rendeva particolarmente propenso ad aumentare ogni altro tipo di sofferenza che già provava.
+
+Si immaginava trascurata e maltrattata… In realtà, però, era inferiore agli altri.
+
+# Entrambe le sorelle… eppure, anche nel fiore degli anni, avevano raggiunto soltanto una certa dignità…
+
+“Essere una ‘brava ragazza’… Ora giaceva sul divano logoro di quella casa graziosa…”
+
+#Piccola sala da pranzo: i mobili un tempo eleganti di cui…
+
+#Invecchiando gradualmente, sotto l’effetto di quattro estati e due…
+
+“Bambini… E, non appena apparve Anne, la salutarono con…”
+
+
+
+“Finalmente sei arrivato! Cominciavo quasi a pensare che non ti avrei mai più visto.”
+
+#Sono così malato che fatico a parlare… Non ho visto nessuno per tutto questo tempo.
+
+“Buongiorno!”
+
+
+
+“Mi dispiace molto sapere che non vi sentite bene,” rispose Anne. “Mi avete inviato messaggi così gentili…”
+
+“Rapportami come stai venerdì!”
+
+
+
+“Sì, ne ho tratto il meglio; lo faccio sempre. Ma non ero affatto in buone condizioni.”
+
+In quel momento. E non credo di essere mai stato così malato in tutta la mia vita.
+
+È stato tutto questo questa mattina. Sicuramente non è affatto in grado di essere lasciato [[Alone|da solo]]. Immaginiamo.
+
+# Trasportato via all’improvviso in un modo terribile, senza poter fare nulla…
+
+Mi suona familiare. Quindi, [[Lady Russell]] non avrebbe potuto uscire. Non credo che lei.
+
+È stato in questa [[house|casa]] tre volte quest’estate.
+
+
+
+“Anne disse ciò che era appropriato e chiese notizie di suo marito. ‘Oh! Charles…’”
+
+È fuori a fare delle riprese. Non l’ho visto da le sette di questa mattina. Lui andava sempre così.
 
 
 
@@ -21807,6 +22451,203 @@ who was lying on the sofa.
 The surprise of finding himself almost [[Alone|alone]] with [[Anne Elliot]], deprived
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Ha il diritto di fare una scelta che possa risultare sgradevole e incomoda
+
+“Alla parte principale della sua famiglia… e stava fornendo connessioni negative.”
+
+Coloro che non sono abituati a loro. E, per favore, chi è Charles Hayter?
+
+"Niente altro che un curato di campagna… Una combinazione assolutamente inappropriata per la signorina Musgrove"
+
+“Di Uppercross”.
+
+
+
+Tuttavia, suo marito non era d’accordo con lei su questo punto; perché, oltre ad altro…
+
+# Un riguardo per suo cugino
+
+Considerava le cose dal punto di vista di un figlio maggiore.
+
+
+
+“Ora stai dicendo sciocchezze, Mary”, fu quindi la sua risposta. “È impossibile.”
+
+“Non sarebbe una grande combinazione per Henrietta, ma Charles è davvero molto attraente…”
+
+Titolo:  
+La possibilità, attraverso i mercanti di spezie, di ottenere qualcosa dal vescovo…
+
+Il corso di un anno o due… E vi prego di ricordare che lui…
+
+Il figlio maggiore… Ogni volta che mio zio muore, lui subentra al suo posto in modo molto appropriato.
+
+# Proprietà. La tenuta di Winthrop ha una superficie non inferiore a duecentocinquanta…
+
+Acri, oltre alla fattoria vicino a Taunton, che rappresenta uno dei terreni migliori…
+
+“La nazione… Ammetto che chiunque di loro, tranne Charles, sarebbe perfetto per il ruolo…”
+
+#Una partita scioccante per Henrietta… e infatti non poteva essere diversamente: lui è il…
+
+Solo quella che poteva essere possibile… Ma è davvero una persona di buon carattere, gentile.
+
+Un tipo del genere… e ogni volta che Winthrop finisce nelle sue mani, lui lo…
+
+#Crea qualcosa di davvero unico, e vive in un modo completamente diverso
+
+#Senza ostacoli; e grazie a questa qualità, non diventerà mai qualcuno di disprezzabile
+
+Uomo: una proprietà preziosa e stabile… No, no; Henrietta potrebbe trovarsi in situazioni peggiori di questa.
+
+Sposare Charles Hayter… E se lei lo ottiene, allora Louisa potrà avere il Capitano.
+
+“Wentworth, sarò molto [[Well|soddisfatto]].”
+
+
+
+“Charles può dire quello che vuole”, esclamò Mary rivolta ad Anne non appena lui…
+
+“Era uscito dalla stanza… Ma sarebbe davvero scioccante se Henrietta si sposasse…”
+
+# Charles Hayter: un disastro per lei… e ancora peggiore per me.
+
+E quindi è davvero auspicabile che [[Captain Wentworth|Capitano Wentworth]] possa.
+
+Ben presto lui divenne l’unico pensiero di lei, e non ho alcun [[Doubt|>dubbio]] che.
+
+# Non ha prestato quasi alcuna attenzione a Charles Hayter ieri… Vorrei…
+
+Tu eri lì a vedere il suo comportamento. E per quanto riguarda quello di [[Captain Wentworth|Capitano Wentworth]].
+
+Amare Louisa tanto quanto Henrietta è assurdo; perché lui.
+
+Certamente a Charles piace molto di più Henrietta… Ma Charles è…
+
+“Così ottimista… Vorrei che fossi stato con noi ieri, così forse avresti potuto…”
+
+#Abbiamo già deciso tra noi; e sono sicuro che avresti pensato come ho fatto io.
+
+“Se non fossi stato deciso a sfidarmi…”
+
+
+
+Una cena da Mr Musgrove fu l’occasione in cui tutte queste cose accaddero…
+
+Avrebbe dovuto essere visto da Anne; ma lei era rimasta a [[Home|>casa]], sotto.
+
+Un lamento misto: il dolore alla testa e un ritorno di malessere…
+
+In piccolo Charles. Lei aveva pensato soltanto a evitare il [[Captain Wentworth|Capitano Wentworth]];
+
+Ma ora si aggiungeva anche la possibilità di evitare di essere chiamati a fare da arbitri…
+
+I vantaggi di una serata tranquilla.
+
+
+
+Per quanto riguardava le opinioni di [[Captain Wentworth|Capitano Wentworth]], lei riteneva che fosse più importante.
+
+#Deve imparare a conoscere le proprie idee abbastanza in fretta, per non mettere a rischio…
+
+Più che la felicità di qualsiasi delle due sorelle, o l’impegno verso la propria [[Honour|'onore]], nulla per lui era più importante.
+
+#Dovrebbe preferire Henrietta a Louisa… o Louisa a Henrietta? Qualsiasi delle due…
+
+# Lo renderebbero, con ogni probabilità, una persona affettuosa e di buon umore
+
+Moglie… Per quanto riguarda Charles Hayter, lei possedeva una delicatezza che doveva essere apprezzata.
+
+Si addolorava per qualsiasi comportamento frivolo da parte di una giovane donna dal cuore puro, e anche per altro.
+
+Titolo:  
+Un cuore pronto a provare compassione per tutte le sofferenze che ne derivano… ma se…
+
+Henrietta si rese conto di aver sbagliato a comprendere la [[Nature|>natura]] dei propri sentimenti.
+
+Quella modifica non poteva essere compresa troppo presto.
+
+
+
+# Charles Hayter aveva incontrato molte cose che lo avevano turbato e umiliato nella sua vita…
+
+Il comportamento di quel cugino… Lei lo stimava troppo per poter reagire in quel modo.
+
+Allontanati al punto che due incontri potessero spegnere ogni speranza passata, e
+
+Non gli lasciava altra scelta se non quella di tenersi lontano da Uppercross… ma c’era ancora qualcosa.
+
+Un cambiamento del genere divenne davvero allarmante, soprattutto quando si trattava di una persona come il Capitano…
+
+Wentworth era considerato la probabile causa di tutto; lui stesso era assente in quel momento.
+
+Solo due domeniche… E quando si separarono, lei ne rimase interessata, persino…
+
+# Al massimo delle sue aspirazioni, nella prospettiva di poter lasciare presto…
+
+Il titolo attuale, e l’ottenimento di quello di Uppercross al suo posto. A quel punto…
+
+Sembrava l’oggetto più vicino al suo cuore quel dottor [[Shirley]], il rettore, che.
+
+Per oltre quarant’anni aveva svolto con zelo tutti i propri doveri.
+
+Della sua scrivania, ma ormai troppo malato per poter occuparsene adeguatamente…
+
+# Deciso ad assumere un curato… farò sì che il suo incarico sia davvero significativo
+
+"Quanto poteva permettersi, e doveva promettere a Charles Hayter..."
+
+Titolo:  
+L’vantaggio di dover venire soltanto a Uppercross, invece di…
+
+#Andando per una strada diversa… di come, sotto ogni aspetto, fosse migliore
+
+Autenticità; il fatto che appartenesse al loro caro dottor [[Shirley]], e anche al caro, buon dottore.
+
+[[Shirley]] fu sollevato dal dovere che ormai non era più in grado di svolgere.
+
+# Con pochissima fatica e senza subire troppi danni, era stato comunque molto…
+
+“Louisa… ma per Henrietta era quasi tutto. Quando lui tornò…”
+
+Ahimè… quell’entusiasmo per l’impresa era ormai svanito. Louisa non riusciva più ad ascoltare…
+
+Tutto si deve a una conversazione che ha appena avuto con il Dottor…
+
+[[Shirley]]: era alla finestra, in attesa di [[Captain Wentworth|Capitano Wentworth]]; e.
+
+Anche Henrietta, nel migliore dei casi, riusciva a prestare solo un’attenzione parziale, e sembrava…
+
+Aver dimenticato tutte le precedenti [[Doubt|incertezze]] e preoccupazioni.
+
+Negoziazione.
+
+
+
+“Beh, sono davvero molto felice. Ma pensavo sempre che l’avresti ottenuto tu.”
+
+#Sempre pensavo che fossi sicuro… Ma a me non sembrava… In breve, tu…
+
+Sapete, il dottor [[Shirley]] deve assolutamente avere un curato, e voi avevate ottenuto la sua promessa.
+
+“Arriverà mai, Louisa?”
+
+
+
+Una mattina, poco dopo la cena dai Musgrove, durante cui Anne…
+
+Se non fosse stato presente, [[Captain Wentworth|Capitano Wentworth]] sarebbe entrato nel salotto alle.
+
+La capanna, dove c’erano solo lei e il piccolo Charles malato.
+
+che era sdraiato sul divano.
+
+
+
+La sorpresa di ritrovarsi quasi [[Alone|da solo]] con [[Anne Elliot]], privato.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_03" data-title="Persuasion — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/silence,motif/well,motif/window,concept/hope,concept/solitude,character/captain_wentworth"></span>
@@ -22176,6 +23017,201 @@ these hills. They talked of coming into this side of the country. I
 
 often, I assure you; but my sister makes nothing of it; she would as
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO X.
+
+
+
+
+
+Avrebbero sicuramente avuto altre occasioni per fare le sue osservazioni.
+
+Ben presto Anne finì per trascorrere molto tempo insieme ai quattro di loro.
+
+Avere un'opinione, anche se troppo saggio per ammetterlo apertamente a [[Home|casa]],
+
+# Dove sapeva che non avrebbe soddisfatto né l’uno né l’altro coniuge; perché…
+
+#Mentre considerava Louisa la sua preferita, non riusciva…
+
+Ma pensaci: per quanto possa osare giudicare sulla base della sua [[Memory|memoria]].
+
+Dalla loro esperienza, sapevano che[[Captain Wentworth|Capitano Wentworth]] non era innamorato di nessuna delle due. Loro.
+
+Erano più innamorate di lui. Eppure, non si trattava di amore. Era qualcos’altro.
+
+Febbre d'ammirazione, ma probabilmente, anzi sicuramente, si trasformerà in [[Love|amore]].
+
+“Alcuni… Charles Hayter sembrava rendersi conto di essere stato offeso, eppure Henrietta…”
+
+A volte sembrava diviso tra loro… Anne ne sentiva profondamente la mancanza.
+
+# Il potere di rappresentare loro tutto ciò che essi stessi erano… e di
+
+Indicando alcuni dei mali a cui si stavano esponendo… Lei
+
+Non attribuiva inganno a nessuno; per lei, questo rappresentava la massima soddisfazione.
+
+È difficile credere che [[Captain Wentworth|Capitano Wentworth]] non avesse la minima idea del [[Pain|)dolore]] che provava.
+
+“Occasioning… Non c’era trionfo, nessun trionfo patetico nel suo comportamento.”
+
+Probabilmente non aveva mai sentito parlare, né aveva mai preso in considerazione alcuna affermazione riguardante Charles.
+
+#Hayter. Ebbe torto solo nell’accettare quelle attenzioni…
+
+Deve essere il termine utilizzato contemporaneamente da due giovani donne.
+
+
+
+Dopo una breve lotta, tuttavia, Charles Hayter sembrò arrendersi.
+
+Tre giorni erano trascorsi senza che lui si fosse mai recato a Uppercross una volta; un…
+
+# Un cambiamento decisivo. Aveva persino rifiutato un invito regolare…
+
+Cena; e in quell’occasione fu notato dal signor Musgrove insieme ad alcuni altri…
+
+# Libri enormi davanti a loro… i signori e le signore Musgrove erano sicuri che non potessero essere tutti…
+
+Esatto, e parlavano, con facce [[Grave|serie]], di come si stesse preparando a morire per il proprio studio.
+
+Era la speranza e la convinzione di Mary che lui avesse ricevuto una risposta positiva.
+
+#Da Henrietta e suo marito vivevano in una condizione di costante dipendenza…
+
+# Vedendolo domani… Anne poteva solo pensare che Charles Hayter fosse…
+
+Saggio.
+
+
+
+Una mattina, più o meno a questa [[Time|ora]], Charles Musgrove e [[Captain Wentworth|Capitano Wentworth]].
+
+#Andando insieme a sparare… proprio come le sorelle nella capanna
+
+Mentre lavoravano in silenzio, le sorelle vennero a trovarle alla [[Window|finestra]].
+
+Dalla dimora, dalla casa.
+
+
+
+Era una bellissima giornata di novembre, e le signorine Musgrove arrivarono…
+
+“Le piccole aree circostanti… e si fermò soltanto per dire…”
+
+Avrebbero fatto una lunga passeggiata, concluse Mary.
+
+Non avrei voluto andare con loro; e quando Mary rispose immediatamente…
+
+Un po' di [[Jealousy|invidia]] per il fatto che non si considerava un buon camminatore, “Oh sì, dovrei davvero, ”
+
+“Mi piacerebbe molto unirmi a voi, adoro fare lunghe passeggiate…” disse Anne.
+
+Convinto, dallo sguardo delle due ragazze, che fosse proprio ciò che…
+
+Non desideravano farlo, e ammirarono ancora di più quel tipo di necessità che…
+
+Le abitudini familiari sembravano influenzare ogni aspetto della vita.
+
+Condiviso e fatto insieme, in ogni caso…
+
+Inappropriato e scomodo… Tentò di convincere Mary a non andare, ma…
+
+Inutile; e considerando le circostanze, ho ritenuto fosse meglio accettare l’offerta della signorina…
+
+L’invito molto più cordiale di Musgrove a lei di andare anche lei…
+
+#Potrebbe essere utile se tornasse con sua sorella, per alleviare la situazione…
+
+Interventi che ostacolano qualsiasi piano che abbiano loro stessi ideato.
+
+
+
+"#Non riesco a capire perché possano pensare che non mi piaccia qualcosa di lungo..."
+
+“Cammina,” disse Mary mentre saliva le scale. “Tutti pensano sempre così…”
+
+“Che non sono un buon camminatore… eppure loro comunque non sarebbero stati soddisfatti.”
+
+# Se avessimo rifiutato di unirci a loro… Quando le persone arrivano in questo modo…
+
+“Qual è lo scopo di porci questa domanda: come si può dire di no?”
+
+
+
+Proprio mentre stavano per partire, i signori tornarono indietro. Avevano portato con sé…
+
+Uscirono con un cucciolo che aveva rovinato il loro gioco, quindi dovettero tornare indietro presto.
+
+Il loro [[Time|tempo]], la loro forza e il loro spirito erano, pertanto, esattamente pronti.
+
+Per questa passeggiata, entrarono in essa con piacere… Avrebbe potuto Anne farlo?
+
+Se avesse previsto un tale incontro, sarebbe rimasta a [[Home|>casa]]; ma, per qualche motivo.
+
+# Sentimenti di interesse e curiosità… ora pensava che fosse troppo.
+
+“Troppo tardi per ritrattare… e tutti e sei partirono insieme.”
+
+#La direzione scelta dalla signorina Musgroves, che evidentemente la riteneva opportuna…
+
+Camminare sotto la loro guida.
+
+
+
+Il suo obiettivo era quello di non intralciare nessuno; e dove…
+
+# Sentieri stretti attraverso i campi rendevano necessarie molte separazioni, per mantenere…
+
+Con suo fratello e sua sorella… Il suo “piacere” nel fare questa passeggiata deve derivare sicuramente dal…
+
+L'esercizio e la giornata, dal punto di vista degli ultimi sorrisi dell'anno
+
+Sui fogli marroni, sui cespugli appassiti, e ripetendolo continuamente.
+
+# Alcune delle migliaia di descrizioni poetiche esistenti…
+
+[[Autumn|Autunno]], quella stagione di influenza particolare e inesauribile sull’animo umano.
+
+Di gusto e tenerezza… quella stagione che aveva ispirato tutti i poeti.
+
+#Davvero degno di essere letto… un tentativo di descrizione, o almeno alcune righe per esprimerne il fascino.
+
+# Pensieri e riflessioni
+
+# E citazioni; ma non era possibile che, quando erano a portata di mano…
+
+La conversazione tra [[Captain Wentworth|Capitano Wentworth]] e una qualsiasi delle signorine Musgrove, lei.
+
+“Non dovrebbe provare nemmeno ad ascoltarlo… Eppure riuscì comunque a captare qualcosa di davvero straordinario.”
+
+# Solo chiacchiere vivaci, come quelle che fanno due giovani in un rapporto intimo…
+
+Titolo:  
+Potrebbe finire nei guai… Era più impegnato con Louisa che con…
+
+# Henrietta: Louisa, senza dubbio, si fece notare di più di lei per attirare la sua attenzione
+
+Sorella… Questa distinzione sembrava aumentare, e ci fu un discorso in merito.
+
+“Di Louisa… che l’ha colpita profondamente.” Dopo uno dei tanti elogi ricevuti quel giorno…
+
+Che continuavano a scoppiare senza sosta, aggiunse [[Captain Wentworth|Capitano Wentworth]]:—
+
+
+
+“Che tempo meraviglioso per l’ammiraglio e mia sorella… Volevano…”
+
+“Prendiamo una lunga gita questa mattina… forse riusciremo ad incontrarli da qualche parte.”
+
+Queste colline… Parlavano di stabilirsi in questa parte del paese. Io…
+
+Non si sa dove saranno oggi; oh, queste cose succedono davvero molto spesso.
+
+Spesso, vi assicuro… ma mia sorella non ci dà peso; per lei è lo stesso.
 
 
 
@@ -22764,6 +23800,161 @@ no bad representation of the general guidance of their affairs, found
 
 herself safely deposited by them at the Cottage.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+L’invito era aperto a tutti, ma fu in generale rifiutato. Le signorine Musgrove…
+
+Affatto stanco… e Mary, probabilmente offesa dal fatto che non le fosse stato chiesto nulla.
+
+Prima che chiunque altro potesse farlo, o prima che ciò che Louisa definiva l’[[Pride|orgoglio]] della famiglia Elliot avvenisse.
+
+Non si poteva sopportare l’idea di dover fare il terzo in una carrozza a un solo cavallo.
+
+
+
+La compagnia di viaggiatori aveva attraversato la strada e stava iniziando ad ascendere…
+
+Stile completamente opposto; l’ammiraglio stava di nuovo facendo muovere il suo [[Horse|cavallo]].
+
+quando [[Captain Wentworth|Capitano Wentworth]] superò rapidamente la siepe per dire qualcosa
+
+A sua sorella. Quell’“qualcosa” può essere intuito dai suoi effetti.
+
+
+
+“Signorina Elliot, sono sicura che lei sia stanca”, esclamò la signora Croft. “Lasci che l’aiutiamo…”
+
+Ho il piacere di accompagnarvi a [[Home|>casa]]. Ecco una stanza eccellente per tre persone.
+
+“Ve lo assicuro: se fossimo tutti come voi, credo che potremmo starci in quattro.”
+
+“Devi proprio farlo, assolutamente.”
+
+
+
+# Anne era ancora nel sentiero; e sebbene istintivamente avesse già iniziato…
+
+# Declino: Non le fu permesso di procedere. L’urgenza gentile dell’ammiraglio
+
+“Arrivarono in sostegno di sua moglie; non avrebbero ricevuto rifiuti; loro…”
+
+Si sono compressi nello spazio più piccolo possibile per lasciarle posto.
+
+All’angolo, e [[Captain Wentworth|Capitano Wentworth]], senza dire una parola, si girò verso di lei.
+
+E in silenzio la aiutò a salire nella carrozza.
+
+
+
+Sì; l’aveva fatto. Lei era nella carrozza e sentiva che lui l’aveva fatto.
+
+La posero lì, perché era stata la sua volontà e le sue mani a farlo… Lei…
+
+Il titolo si basa sulla sua percezione della stanchezza di lei e sulla sua determinazione ad aiutarla.
+
+Il resto della sua vita… Fu profondamente influenzata dal modo in cui lui si comportava.
+
+Verso di lei, e tutto ciò rendeva evidente questo legame… Questa piccola…
+
+La circostanza sembrava rappresentare la conclusione di tutto ciò che era accaduto prima. Lei…
+
+Lo capiva… Non riusciva a perdonarla, ma non poteva nemmeno…
+
+Senza cuore. Anche se la condanna per il passato e la considera in questo modo…
+
+# Amarezza profonda e ingiusta, nonostante lui fosse totalmente indifferente verso di lei…
+
+Anche se si era legato a un’altra persona, non riusciva comunque a sopportare di vederla soffrire.
+
+Senza il [[Desire|desiderio]] di alleviarla. Era solo un residuo del passato.
+
+Sentimento. Era un impulso di pura, sebbene non riconosciuta, [[Friendship|amicizia]].
+
+# Era una prova del suo cuore caldo e affabile, qualcosa che lei non poteva ignorare.
+
+Ammirarlo senza emozioni, un misto di piacere e [[Pain|dolore]], in modo tale che.
+
+Non sapeva quale dei due sentimenti prevalesse.
+
+
+
+Le sue risposte alla gentilezza e ai commenti dei suoi compagni erano…
+
+# Primo dono ricevuto inconsciamente… Avevano percorso già metà del cammino…
+
+“Una strada accidentata… Prima ancora di rendersi completamente conto di ciò che stavano dicendo.”
+
+Li ho trovati che parlavano di “Frederick”.
+
+
+
+“Di certo intende prendersi una di quelle due ragazze, Sophy.”
+
+Disse l’ammiraglio: “Ma non si può dire con certezza… Lui continua a muoversi, senza una direzione precisa”.
+
+Dopo di loro, anche… abbastanza tempo, si direbbe, per prendere una decisione. Ah…
+
+# Questo è il risultato della pace… Se ora ci fosse la guerra, l’avrebbe già risolta.
+
+Molto tempo fa… Noi marinai, signorina Elliot, non potevamo permetterci di viaggiare per lunghi periodi.
+
+Le corteggiature in tempi di guerra. Quanti giorni sono trascorsi, mio caro, tra.
+
+La prima volta che ti ho visto e che ci siamo seduti insieme.
+
+“Alloggi a North Yarmouth?”
+
+
+
+“Meglio non parlarne, caro mio”, rispose la signora Croft.
+
+“Piacerevolmente… perché se la signorina Elliot dovesse sentire quanto in fretta siamo arrivati…”
+
+Conoscendo la situazione, non sarebbe mai stata convinta che potessimo essere felici.
+
+“Fin da prima conoscevo il tuo carattere…”
+
+
+
+“Beh, avevo sentito dire che fossi una ragazza molto bella. E poi, cosa stavamo facendo?”
+
+Aspettare oltre a questo? Non mi piace tenere queste cose per troppo tempo a mia disposizione.
+
+Vorrei che Frederick distribuisse un po’ più di volantini e ci portasse [[Home|a casa]].
+
+Una di queste giovani signore andrebbe a Kellynch… Allora ci sarebbe sempre qualcuno.
+
+“Una compagnia perfetta per loro… Sono entrambe giovani donne molto carine; a malapena…”
+
+“Non si riesce a distinguere l’uno dall’altro.”
+
+
+
+“Ragazze davvero di buon umore e senza affettazioni”, disse la signora Croft.
+
+Titolo:  
+Un tono di lode più misurato… che fece sospettare ad Anne che le sue capacità fossero davvero più acute del solito.
+
+“Potrebbe non ritenere nessuno dei due davvero degno di suo fratello; ‘e’…”
+
+Una famiglia davvero rispettabile… Non si potrebbe desiderare legami migliori di questi.
+
+“Gente… Mio caro Ammiraglio, quel posto! Sicuramente lo prenderemo.”
+
+
+
+Ma prendendo lei stessa le redini e guidandole nella giusta direzione, tutto andò felicemente per il meglio.
+
+Superata la pericolosa situazione, in seguito agì con saggezza…
+
+# Non caddero mai in una routine né si scontrarono con un carretto pieno di letame…
+
+#Anne, con un certo divertimento per il loro stile di guida…
+
+# Nessuna cattiva rappresentazione delle linee guida generali per la gestione dei loro affari
+
+Essa stessa fu depositata al sicuro da loro nella Casetta.
 
 
 
@@ -23366,6 +24557,212 @@ preachers, she had been eloquent on a point in which her own conduct
 
 would ill bear examination.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Comune e indifferente condizione… in contrasto con alcuni rari casi di…
+
+Specie rare di legno, lavorate con maestria e dotate di qualcosa di curioso…
+
+Titolo:  
+E prezioso proveniente da tutti quei lontani paesi… che il Capitano Harville aveva visitato.
+
+Visitate… furono più che divertenti per Anne; inoltre, tutto ciò era collegato tra sé…
+
+La sua professione: il frutto dei suoi sforzi, l’effetto della sua influenza
+
+#Sulle sue abitudini, l’immagine di tranquillità e felicità domestica…
+
+Presentato… e trasformato in qualcosa di un po’ diverso, più o meno.
+
+Soddisfazione.
+
+
+
+#Il capitano Harville non era un appassionato di letture; tuttavia, era riuscito a creare qualcosa di davvero eccellente
+
+#"Accoglienze e scaffali ben realizzati, per un ambiente piuttosto gradevole..."
+
+Una collezione di volumi rilegati con cura, proprietà di [[Captain Benwick|Capitano Benwick]]. I suoi.
+
+La zoppia gli impediva di fare molto esercizio fisico; ma la sua mente…
+
+# Utilità e ingegnosità sembravano garantirgli un lavoro costante
+
+# All’interno di… Lui disegnava, verniciava, intagliava, incollava; creava giocattoli.
+
+Per i bambini: creò nuove aghi e pinze da maglia apposite.
+
+# Miglioramenti… e se tutto il resto fosse stato fatto, si sarebbe seduto davanti al suo grande…
+
+Una rete da pesca in un angolo della stanza.
+
+
+
+#Anne pensò di aver lasciato molta felicità alle proprie spalle quando se ne andarono…
+
+La [[house|casa]]; e Louisa, con la quale si trovava a camminare, scoppiò in lacrime.
+
+# Estasi di ammirazione e gioia per il carattere della marina militare
+
+Amicizia, fraternità, apertura, onestà…
+
+“Protestando che fosse convinta del fatto che i marinai avessero un valore maggiore…”
+
+“Un calore superiore a quello di qualsiasi altro gruppo di uomini in Inghilterra; sapevano soltanto come…”
+
+Vivevano, e meritavano soltanto rispetto e amore.
+
+
+
+Tornarono a vestirsi e a mangiare; così, in questo modo, il piano fu portato a termine con successo.
+
+#Già si era constatato che nulla fosse fuori posto; nonostante tutto fosse “assolutamente…
+
+“Fuori stagione…”, e il “nessun passaggio attraverso Lyme…”, e il “nessuno…”
+
+“L’aspettativa di avere compagnia” aveva portato a molte scuse da parte dei responsabili…
+
+l’ostello.
+
+
+
+A quel [[Time|momento]], Anne si rese conto di essere ormai molto più abituata a certe situazioni.
+
+Nella compagnia di [[Captain Wentworth|Capitano Wentworth]], le cose erano diverse da quanto avesse inizialmente immaginato.
+
+# Condividere lo stesso tavolo con lui adesso…
+
+# Scambio delle comuni cortesie che ne derivano… ma non riuscirono mai a farlo.
+
+Al di là di ciò, era diventato semplicemente nulla.
+
+
+
+Le notti erano troppo buie perché le signore potessero riunirsi di nuovo fino al giorno seguente.
+
+Ma il Capitano Harville aveva promesso loro di far loro visita quella sera; e lui…
+
+Arrivò, portando con sé anche il suo amico, il che fu più di quanto ci si aspettasse.
+
+Essendo stato concordato che [[Captain Benwick|Capitano Benwick]] aveva tutte le caratteristiche di.
+
+#Soppresso dalla presenza di così tanti estranei… Osò avventurarsi in mezzo a loro.
+
+Ancora una volta… tuttavia, sembrava proprio che il suo umore non fosse adatto per…
+
+La gioia generale della festa.
+
+
+
+# Mentre i capitani Wentworth e Harville guidavano la conversazione da un lato…
+
+**Stanza… e ricordando i tempi passati, fornì un’infinità di aneddoti.**
+
+Per intrattenere e divertire gli altri, toccò ad Anne il compito di occuparsi di loro.
+
+Abbastanza distante da [[Captain Benwick|Capitano Benwick]]; e questo fu un vero e proprio impulso nobile da parte sua.
+
+La [[Nature|natura]] la costrinse ad iniziare a conoscerlo. Lui era timido.
+
+Disposta all’astrazione… ma la dolcezza incantevole del suo volto…
+
+E la dolcezza delle sue maniere ebbero presto il loro effetto: Anne divenne molto amata.
+
+Il primo sforzo compiuto gli fu certamente ripagato… Era chiaramente un giovane uomo…
+
+# Notevole gusto nella lettura, soprattutto per la poesia; e
+
+Oltre alla [[Persuasion|convincenza]] di avergli concesso almeno una serata.
+
+# Indulgenza nella discussione di argomenti che i suoi soliti compagni…
+
+Probabilmente non aveva alcuna preoccupazione; aveva la [[Hope|>speranza]] di poter essere davvero utile.
+
+Gli fornì alcune indicazioni riguardo al dovere e ai benefici derivanti dal lottare.
+
+#Contro le afflizioni che naturalmente erano derivate da…
+
+#Conversazione. Perché, sebbene timido, non sembrava riservato; anzi…
+
+L'esplosione di sentimenti felici che rompono le loro solite restrizioni; e
+
+Parlando di poesia, della ricchezza dell’epoca attuale… e poi…
+
+Un breve confronto di opinioni sui poeti di prim’ordine
+
+Titolo:  
+Cercare di stabilire se sia “Marmion” o “La Dama del Lago” il libro da selezionare…
+
+Si preferisce… e in che ordine sono classificati il _Giaour_ e _La sposa di Abydos_;
+
+E inoltre, mostrò come si dovesse pronunciare la parola “Giaour”.
+
+Conoscevo molto bene tutte le più dolci [[songs|CANZONI]] di quel poeta.
+
+E tutte quelle descrizioni appassionate dell’agonia disperata dell’altro… lui.
+
+# Ripetute, con tale tremore nella voce, le varie frasi che raffiguravano…
+
+Cuore spezzato… o una mente distrutta dalla miseria… e sembrava così…
+
+Del tutto come se volesse essere compreso, lei osò [[Hope|>sperare]] che lui.
+
+Non leggeva sempre solo poesia… e non pensava affatto che fosse la cosa migliore da fare.
+
+Il malanno della poesia è che raramente possa essere apprezzata in modo sicuro da coloro che…
+
+Lo godette appieno; e quei forti sentimenti che solo [[Alone|da solo]] poteva provare.
+
+# Un sentimento che dovrebbe davvero essere degustato…
+
+Raramente.
+
+
+
+Il suo aspetto dimostrava che non era affatto infastidito, ma anzi compiaciuto da questa allusione al suo…
+
+"#In quella situazione, si sentì incoraggiata a proseguire; e dentro di sé provava..."
+
+# Diritto di anzianità dello spirito… osò proporre qualcosa di più ampio
+
+Il permesso di utilizzare il prosismo nello studio quotidiano; e quando gli veniva chiesto…
+
+Specificare, menzionare tali opere dei nostri migliori moralisti…
+
+# Raccolte delle migliori lettere, tra cui memorie di personaggi di valore
+
+e il [[Suffering|soffrire]], proprio come le accadde in quel momento, nel modo calcolato per suscitare reazioni emotive.
+
+#Rafforzare la mente con i più elevati precetti e le forze più potenti
+
+Esempi di fermezza morale e religiosa.
+
+
+
+[[Captain Benwick|Capitano Benwick]] ascoltava con attenzione e sembrava grato per.
+
+“Interesse implicito… Eppure, scuotendo la testa e sospirando…”
+
+Espose la sua piccola [[Faith|>fede]] nell’efficacia di qualsiasi libro sul dolore.
+
+# Trascrisse i nomi di coloro che lei aveva consigliato e promise…
+
+Cercali e leggili.
+
+
+
+Quando la sera fu trascorsa, Anne non poté fare a meno di trovare divertente l’idea…
+
+Il suo arrivo a Lyme per predicare pazienza e [[Resignation|rassegnazione]] a un giovane uomo.
+
+#Chi non aveva mai visto prima; e non poteva fare a meno di temere…
+
+# Profonda riflessione… come molti altri grandi moralisti
+
+Predicatori… Era stata molto eloquente su un punto riguardo al quale anche il suo comportamento personale corrispondeva alle sue parole.
+
+Non sopporterebbe alcun esame.
 
 
 
@@ -25799,6 +27196,214 @@ delighted by the distinction of being asked, for they gave no dinners
 in general; delighted, in short, by every proof of cousinly notice, and
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XV.
+
+
+
+
+
+Sir Walter aveva affittato una casa molto bella in Camden Place, un edificio piuttosto alto.
+
+Una situazione degna di un uomo di rilievo… E entrambi…
+
+E Elizabeth si stabilirono lì, con grande soddisfazione loro.
+
+
+
+Anne vi entrò con il cuore pesante, aspettandosi un’[[Imprisonment|detenzione]].
+
+Molti mesi trascorsero, e lei continuava a chiedersi ansiosamente: “Oh… quando riuscirò a partire?”
+
+“Di nuovo tu?”, ma nella sua accoglienza c’era una certa cordialità inaspettata.
+
+# Ricevette qualcosa che le fece del bene… Suo padre e sua sorella furono felici di vederla.
+
+Per mostrarle la [[house|>casa]] e i mobili, e per incontrarla lì.
+
+# Gentilezza… Quando si sedettero a cena, ne preparò una quarta.
+
+Fu considerato un vantaggio.
+
+
+
+La signora Clay era molto gentile e sempre sorridente, ma le sue cortesie…
+
+“I sorrisi erano quasi qualcosa di scontato per lei… Anne aveva sempre avuto questa sensazione.”
+
+Titolo:  
+Avrebbe finto di comportarsi in modo appropriato al suo arrivo, ma la compiacenza…
+
+Gli altri arrivarono inaspettatamente. Evidentemente erano di ottimo umore.
+
+#E presto avrebbe ascoltato le ragioni… Ma loro non avevano alcuna intenzione di farlo.
+
+Ascoltatela… Dopo aver ricevuto alcuni complimenti per la sua profonda…
+
+Nel loro vecchio quartiere, venivano rimpianti… ma Anne non poteva permetterseli.
+
+Avevo solo poche domande semplici da porre, prima che la conversazione potesse proseguire liberamente.
+
+“Il loro mondo… Uppercross non suscitava alcun interesse, mentre Kellynch ne destava ben poco: era semplicemente il loro mondo.”
+
+A Bath.
+
+
+
+#La gioia di assicurarle che Bath era davvero all’altezza delle aspettative
+
+Le loro aspettative venivano soddisfatte sotto ogni aspetto. La loro [[house|>casa]] era senza dubbio.
+
+“I migliori di Camden Place: i loro salotti presentavano numerosi vantaggi indiscutibili.”
+
+Tra tutte le altre che avevano visto o sentito parlare…
+
+La superiorità risiedeva anche nello stile di allestimento e nel gusto utilizzati.
+
+Dei mobili. La loro conoscenza era molto ricercata.
+
+#Tutti volevano andarli a trovare. Si erano allontanati da molte cose…
+
+Introduzioni… eppure continuavano sempre ad avere carte lasciate dalle persone.
+
+Di cui non sapevano nulla.
+
+
+
+Ecco a disposizione dei mezzi per il divertimento. Poteva forse Anne [[Wonder|chiedersi]] se suo padre e.
+
+Le sorelle erano felici? Forse non se lo chiedeva, ma sicuramente sospirava per.
+
+#Il padre non dovrebbe provare alcun senso di umiliazione nel proprio cambiamento, non dovrebbe vedere nulla che possa…
+
+# Rimpianto nei doveri e nella dignità del proprietario terriero residente
+
+# Trova così tante cose di cui essere orgogliosa nelle piccolezze di una città… e lei deve farlo.
+
+Sospirare, sorridere, e anche meravigliarsi, mentre Elizabeth spalancava la porta.
+
+“Porte pieghevoli… e camminava con esultanza da un salotto all’altro…”
+
+Altri, vantandosi del proprio spazio… Di fronte alla possibilità di quella donna…
+
+# Era stata la padrona di Kellynch Hall, e ne andava fiera
+
+Tra due muri, forse a trenta piedi di distanza l’uno dall’altro.
+
+
+
+Ma non era tutto ciò che bastava per renderli felici… Avevano anche il signor…
+
+Elliot anch’egli… Anne sentì parlare molto di Mr Elliot. Non solo…
+
+Perdonato, furono molto felici di lui. Era stato a Bath per circa…
+
+Titolo:  
+Quindici giorni; (era passato per Bath a novembre, nel suo viaggio verso…)
+
+[[London|Londra]], quando si seppe con certezza che Sir Walter si era stabilito lì.
+
+Naturalmente gli arrivò, anche se si trovava lì da soli ventiquattro ore…
+
+Non era stato in grado di farne uso; ma ora lo aveva finalmente a disposizione.
+
+Titolo:  
+“Quindici giorni a Bath… e la prima cosa che fece al suo arrivo fu andarsene.”
+
+# Il suo tentativo presso Camden Place, seguito da sforzi instancabili
+
+“Per incontrarsi… e quando si incontrarono, con una tale apertura nel comportamento…”
+
+#Tanta prontezza nel chiedere scusa per il passato, tanta premura nel voler…
+
+Ricevuto di nuovo come un legame, si riconobbe che la loro precedente buona intesa era ancora presente…
+
+Completamente ripristinato.
+
+
+
+Non c’era alcun difetto da trovare in lui; aveva spiegato e giustificato tutto.
+
+# Apparenza di negligenza da parte sua… Aveva avuto origine in…
+
+# Completta incomprensione. Lui non aveva mai nemmeno pensato di gettarsi…
+
+“Off… Aveva temuto di essere scaraventato via, ma non sapeva il motivo…”
+
+La delicatezza lo aveva costretto al silenzio… Alla menzione che avesse potuto parlare, rimase ancora in silenzio.
+
+Senza rispetto o con negligenza verso la famiglia e le sue tradizioni onorifiche…
+
+Era davvero indignato. Lui, che aveva sempre vantato di essere un Elliot…
+
+Titolo:  
+Le cui sensazioni riguardo ai legami interpersonali erano estremamente rigorose, al punto di non adattarsi affatto alle circostanze…
+
+Un tono non feudale dei tempi moderni… Fu davvero sorpreso.
+
+Il carattere e il comportamento generale devono smentirlo; potrebbe fare riferimento a Sir Walter…
+
+A tutti coloro che lo conoscevano; e certamente, per i sacrifici che aveva compiuto…
+
+Questa è la prima opportunità di [[Reconciliation|riconciliazione]], per essere ristabiliti nel.
+
+Titolo:  
+La posizione di un parente e di un erede presunto rappresentava una forte prova della sua…
+
+Opinioni sul tema.
+
+
+
+Anche le circostanze del suo [[Marriage|matrimonio]] risultarono essere piuttosto particolari.
+
+# attenuazione. Questo era un articolo che non poteva essere scritto da lui solo; ma…
+
+Un suo carissimo amico, il colonnello Wallis, una persona estremamente rispettabile…
+
+Uomo, davvero un gentiluomo… e non di aspetto sgradevole, signor Walter.
+
+Aggiunto: una persona che conduceva una vita molto agiata negli edifici di Marlborough…
+
+Su sua specifica richiesta, era stato ammesso tra loro come conoscente.
+
+Titolo:  
+Attraverso il signor Elliot, erano state menzionate una o due cose in relazione a…
+
+Il [[Marriage|matrimonio]], che ebbe un impatto significativo sul suo discredito.
+
+
+
+Il colonnello Wallis conosceva da tempo il signor Elliot; inoltre, erano anche molto intimi.
+
+Con sua moglie, aveva compreso perfettamente tutta la storia. Lei…
+
+Certamente non una donna di famiglia tradizionale, ma ben istruita, talentuosa e ricca.
+
+Era estremamente innamorata del suo amico. C'era quel fascino. Lei.
+
+Lo aveva cercato… Senza quell’attrazione, nemmeno tutto il suo denaro sarebbe stato sufficiente.
+
+#Elliot fu tentato, e inoltre Sir Walter ebbe la certezza che lei lo fosse…
+
+“È stata davvero una donna meravigliosa… C’era molto in lei che poteva rendere le cose più dolci, più gentili.”
+
+Una donna davvero meravigliosa, con un'enorme fortuna, innamorata di lui! Sir Walter.
+
+Sembrava che lo ammettesse come scusa completa; e sebbene Elizabeth non potesse…
+
+Rivolgendosi alla situazione con occhi molto più favorevoli, decise di accettarla.
+
+Un grande motivo di attenuazione.
+
+
+
+#Il signor Elliot aveva chiamato più volte e aveva anche pranzato con loro una volta… evidentemente.
+
+Felici di essere stati invitati, poiché non avevano organizzato alcun banchetto.
+
+In generale, si è rallegrati di ogni segno di attenzione e affetto da parte dei parenti…
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_02" data-title="Persuasion — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/clock,motif/frost,motif/home,motif/time,motif/well,concept/hope,concept/reconciliation"></span>
@@ -27207,6 +28812,204 @@ did not believe. The same image of Mr Elliot speaking for himself
 brought Anne to composure again. The charm of Kellynch and of “Lady
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il mio appuntamento, perché è l’unica serata, in qualche modo, che ci sarà.
+
+# A piacere sia a lei che a me. Domani entrerà nella vasca calda…
+
+“Per il resto della settimana… beh, siamo impegnati.”
+
+
+
+“Ma cosa ne pensa [[Lady Russell]] di questa conoscenza?” chiese.
+
+Elisabetta.
+
+
+
+“Non vede nulla di sbagliato in questo”, rispose Anne; “anzi, al contrario…”
+
+Lo approva, e di solito mi ascolta quando vado da Madame…
+
+“[[smith|Smith]]”.”
+
+
+
+“Il complesso residenziale Westgate deve essere rimasto piuttosto sorpreso dall’aspetto che presentava…”
+
+“Di una carrozza ferma vicino al marciapiede”, osservò Sir Walter. “Signore…”
+
+La vedova di Henry Russell, in effetti, non possiede onori che possano distinguere i suoi stemmi.
+
+Ma comunque si tratta di un equipaggio davvero imponente, e non c’è alcun [[Doubt|>dubbio]] che sia ben noto a.
+
+Da consegnare alla signorina Elliot. Una vedova, la signora [[smith|Smith]], che soggiorna nei Westgate Buildings!
+
+Una povera vedova appena in grado di sopravvivere, tra i trenta e i quaranta anni… Solo una semplice signora.
+
+[[smith|Smith]], una semplice signora Smith, proprio lei tra tutte le persone e tutti i nomi possibili.
+
+Il mondo, essere l’amico scelto di Miss [[Anne Elliot]], e essere preferito.
+
+# Attraverso i suoi legami familiari con l’aristocrazia inglese
+
+Irlanda! Signora [[smith|Smith]]! Che nome meraviglioso!
+
+
+
+La signora Clay, che aveva assistito a tutto ciò, ora pensava…
+
+“È consigliabile lasciare la stanza…” Anne avrebbe potuto dire molto, e infatti lo fece.
+
+# Un breve discorso in difesa dell’amica di lei… che non è affatto diversa
+
+Afferma di possederli, ma il suo senso di rispetto personale verso suo padre…
+
+“Lei non rispose; lasciò che fosse lui stesso a ricordare.”
+
+che la signora [[smith|Smith]] non era l’unica vedova a Bath tra i trenta e i quaranta anni.
+
+Con poche risorse per vivere e senza un cognome degno di considerazione.
+
+
+
+#Anne mantenne la sua appuntamento; gli altri mantennero i loro, e naturalmente anche lei…
+
+Il giorno seguente, al mattino, seppe che avevano trascorso una serata deliziosa… Lei aveva…
+
+#L’unico assente nel gruppo… perché Sir Walter ed Elizabeth erano…
+
+Non solo si sono resi molto utili alla signora in questione, ma hanno anche…
+
+#Felice di essere stato assunto da lei per occuparmi di raccogliere gli altri oggetti, e ho…
+
+Si è preso la briga di invitare sia [[Lady Russell]] che il signor Elliot, e anche il signor.
+
+#Elliot si è assicurato di lasciare il Colonnello Wallis presto… e Lady…
+
+# Russell aveva organizzato di nuovo tutti i suoi impegni serali per poter aspettare.
+
+Su di lei. Anne conosceva tutta la [[history|storia]] di ciò che una serata del genere poteva comportare.
+
+Fornitura fornita da [[Lady Russell]]. Per lei, l’aspetto più importante di tutto ciò deve essere.
+
+Essendo stato molto discusso tra la sua amica e il signor Elliot…
+
+Essendo stato desiderato, rimpianto e, allo stesso tempo, onorato.
+
+# Mantenersi lontani in una causa del genere… Le sue visite gentili e compassionevoli in questo contesto…
+
+Un vecchio compagno di scuola, malato e in difficoltà, sembrava essere davvero felice…
+
+Elliot. La considerava una giovane donna davvero straordinaria… per il suo carattere.
+
+#Modelli di virtù femminile: una dama da ammirare
+
+# Russell discute dei suoi meriti; e Anne non poteva essere coinvolta in questa discussione
+
+#Capisce così tanto attraverso la sua amica… da non riconoscere più se stessa.
+
+Titolo:  
+Altamente apprezzato da un uomo sensato… senza tutte quelle caratteristiche gradevoli.
+
+Le sensazioni che la sua amica voleva suscitare.
+
+
+
+[[Lady Russell]] ormai aveva preso una decisione definitiva riguardo al signor Elliot. Lei.
+
+Era altrettanto convinto che ottenere Anne in quel [[Time|momento]] fosse la cosa giusta da fare, quanto lo era riguardo alle sue altre intenzioni.
+
+# Meritandolo davvero, iniziava già a calcolare il numero di settimane che…
+
+Lo avrebbe liberato da tutte le restrizioni residue legate alla vedovanza…
+
+Lasciatelo libero di esercitare al massimo le sue capacità nel compiere azioni piacevoli. Lei
+
+#Non avrebbe mai parlato con Anne con la stessa sicurezza che provava in quel momento
+
+Titolo:  
+Su quell’argomento, lei si limitava a fare solo allusioni a ciò che potesse esserci.
+
+Da ora in poi, riguardo alla possibilità che lui possa sviluppare un certo interesse…
+
+Dell'alleanza, presupponendo che tale attaccamento sia reale e reciproco.
+
+“Anne la sentì, ma non emise alcun grido di sorpresa; si limitò a sorridere.”
+
+Arrossì e scosse dolcemente la testa.
+
+
+
+“Non sono certo un intermediario amoroso, come voi ben sapete,” disse [[Lady Russell]], “poiché sono molto, ”
+
+troppo ben consapevole dell'incertezza di tutti gli eventi e i calcoli umani.
+
+Voglio solo dire che, se il signor Elliot dovesse in futuro inviare le sue lettere.
+
+“Per te… e se fossi disposta ad accettarlo, penso che…”
+
+“Tutte le possibilità per essere felici insieme… Una situazione davvero ideale.”
+
+#"Connessione adeguata: qualcosa che tutti dovrebbero prendere in considerazione… ma penso che possa essere…"
+
+“Una storia molto felice.”
+
+
+
+“Il signor Elliot è un uomo estremamente piacevole, e sotto molti aspetti…”
+
+“Penso molto bene di lui”, disse Anne; “ma non dovremmo accettare la sua proposta”.
+
+
+
+[[Lady Russell]] lasciò correre le cose e rispose soltanto: “Devo ammettere che, ”
+
+“Poter considerarti la futura padrona di Kellynch…”
+
+#Lady Elliot… per vedere te occupare il posto di tua cara madre
+
+Quel luogo, ereditando tutti i suoi diritti e tutta la sua popolarità, così come.
+
+Oltre a tutte le sue virtù, questo rappresenterebbe per me la più grande soddisfazione possibile.
+
+Sei l’immagine stessa di tua madre nel viso e nel carattere; e se io.
+
+#Potrebbe essere permesso immaginarti come lei, nella stessa situazione e con lo stesso nome…
+
+e [[Home|casa]], dove si svolgevano le cerimonie di presidenza e benedizione nello stesso luogo, e che era superiore soltanto a.
+
+“Essere più apprezzata… Mia adorata Anne, questo mi darebbe ancora di più.”
+
+Un piacere maggiore di quello che si prova spesso nella mia età.
+
+
+
+# Anne dovette distogliere lo sguardo, alzarsi e andare verso un tavolo lontano.
+
+E, appoggiato lì con aria occupata, cerca di reprimere quei sentimenti…
+
+Questa immagine la eccitò. Per alcuni momenti, la sua [[Imagination|immaginazione]] e il suo cuore.
+
+Erano stregate… L’idea di diventare come sua madre; di…
+
+Il titolo che riporta il prezioso nome di “Lady Elliot” viene nuovamente utilizzato da lei stessa…
+
+Tornata a Kellynch, la chiamava di nuovo la sua [[Home|>casa]], la sua vera casa.
+
+Quel fascino era tale che lei non poté resistergli immediatamente. [[Lady Russell]]
+
+Non disse più una parola, decisa a lasciare che le cose seguissero il loro corso.
+
+Operazione… E credendo che, in quel momento, il signor Elliot potesse farlo…
+
+“La decenza parla da sé!”, in breve, credeva lei ciò che Anne aveva detto.
+
+Non ci credeva… Quella stessa immagine di Mr Elliot che parlava per conto suo.
+
+#Ripristinò l’equilibrio di Anne… Il fascino di Kellynch e di “Lady”
+
 
 
 <span class="atom-split" data-atom="chapter_17--part_04" data-title="Persuasion — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/autumn,motif/well,concept/body,concept/hope,character/lady_russell,character/sunday"></span>
@@ -27300,6 +29103,96 @@ feeling than the [[Hope|hope]] of seeing him receive the hand of her beloved
 
 Anne in Kellynch church, in the course of the following [[Autumn|autumn]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Elliot… tutto svanì. Non riuscì mai ad accettarlo. E non era solo per questo…”
+
+“Il suo cuore era ancora ostile a tutti gli uomini tranne uno…”
+
+#Giudizio, dopo una seria considerazione delle possibilità di un simile scenario
+
+In quel caso, la posizione era contro il signor Elliot.
+
+
+
+Nonostante si conoscessero da un mese ormai, lei non riusciva ad essere soddisfatta.
+
+“Che lei conoscesse davvero il suo carattere… Che fosse un uomo sensato…”
+
+Un uomo piacevole; parlava bene, esprimeva opinioni positive e sembrava.
+
+“Giudicando con equità e come uomo di principi, tutto era abbastanza chiaro.” Lui
+
+Certo sapeva cosa fosse giusto, ma non riusciva a scegliere nessun singolo articolo…
+
+# Dovere morale palesemente violato… eppure avrebbe comunque avuto paura
+
+Per dover rispondere del proprio comportamento. Non si fidava del passato, e tantomeno del presente.
+
+I nomi di ex collaboratori che occasionalmente venivano menzionati, quelle allusioni…
+
+Riferimenti a pratiche e attività passate suscitavano sospetti non favorevoli
+
+Di ciò che era stato… Vide che aveva avuto cattive abitudini; che…
+
+Viaggiare la [[Sunday|domenica]] era un’abitudine comune; c’era stato un periodo.
+
+# Il momento più importante della sua vita (e probabilmente non uno breve…) quando, almeno,…
+
+“Negligente in tutte le questioni serie… e sebbene ora possa pensare molto…”
+
+“Diversamente… chi potrebbe mai conoscere i veri sentimenti di una persona intelligente?”
+
+Un uomo cauto, abbastanza anziano da apprezzare le qualità positive di una persona… Come?
+
+È mai possibile verificare con certezza che la sua mente sia davvero stata purificata?
+
+
+
+#Il signor Elliot era razionale, discreto e raffinato, ma non era aperto alle nuove idee.
+
+Non ci fu mai alcuna scossa emotiva, nessun calore di indignazione o gioia.
+
+“Al bene o al male degli altri… Per Anne, questo rappresentava una scelta decisiva.”
+
+# Imperfezione. Le sue prime impressioni erano irrimediabili… Lei le teneva molto in considerazione.
+
+Frank, il cuore aperto, la persona più entusiasta di tutte… Calore umano.
+
+#Passione ed entusiasmo continuavano a incantarla. Sentiva di poter fare molto di più.
+
+#Di più dipende dalla sincerità di coloro che a volte guardano o dicono…
+
+“Più un atto di negligenza o di fretta che non quelle persone le cui facoltà mentali sono sempre pronte all’azione…”
+
+Diverso in ogni modo, la cui lingua non mai tradiva.
+
+
+
+Il signor Elliot era troppo accomodante… Diversi come erano i caratteri delle persone intorno a lui,
+
+Nella casa di suo padre, riusciva a compiacerli tutti. Sopportava tutto con grande tolleranza e si comportava sempre in modo appropriato.
+
+Benissimo, con ogni singolo corpo. Le aveva parlato con una certa apertura.
+
+Il titolo del libro è: “Di Mrs Clay; sembrava davvero capire cosa stesse facendo Mrs Clay”.
+
+Eppure la signora Clay lo trovava così piacevole…
+
+Qualsiasi [[Body|corpo]].
+
+
+
+[[Lady Russell]] vedeva sia di meno che di più rispetto alla sua giovane amica, perché lei vedeva.
+
+#Niente che possa suscitare sospetti. Non riusciva a immaginare un uomo più…
+
+#Ciò che avrebbe dovuto essere… piuttosto che la signora Elliot; e mai provò nulla di più dolce…
+
+Un sentimento più forte della [[Hope|>speranza]] di vederlo ricevere la mano del suo amato.
+
+Anne, nella chiesa di Kellynch, durante il successivo [[Autumn|autunno]].
 
 
 
@@ -28332,6 +30225,212 @@ was offering his services to her.
 
 them. The carriage would not accommodate so many. I walk: I prefer
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIX.
+
+
+
+
+
+Mentre [[Admiral Croft|Ammiraglio Croft]] faceva questa passeggiata con Anne, esprimeva i suoi.
+
+Il desiderio di portare [[Captain Wentworth|Capitano Wentworth]] a Bath. [[Captain Wentworth|Capitano Wentworth]] era.
+
+Già in viaggio verso lì. Prima ancora che la signora Croft scrivesse, lui era già partito.
+
+Arrivò, e subito dopo, la volta successiva in cui Anne uscì, lo vide.
+
+
+
+# Il signor Elliot era in visita dai suoi due cugini e dalla signora Clay. Loro erano…
+
+# Milsom Street. Cominciò a piovere, non molto, ma abbastanza da rendere necessario cercare riparo.
+
+#Desiderabile per le donne… e più che sufficiente per renderlo davvero molto desiderabile.
+
+La signorina Elliot avrà il vantaggio di essere riportata a [[Home|>casa]] dalla signora.
+
+La carrozza di Dalrymple, visibile a una certa distanza… Lei…
+
+Anne e la signora Clay divennero quindi le ospiti di Molland, mentre il signor Elliot…
+
+Si avvicinò a Lady Dalrymple per chiederle il suo aiuto. Poco dopo si unì a loro.
+
+Di nuovo, con successo, naturalmente: Lady Dalrymple ne sarebbe molto felice.
+
+Per portarle a [[Home|>casa]], avrebbe chiamato loro tra pochi minuti.
+
+
+
+La carrozza della sua signoria era una berlina, e non poteva contenere più di quattro persone.
+
+Con ogni comodità… La signorina Carteret era con sua madre; pertanto…
+
+Non era ragionevole aspettarsi che venissero trovate sistemazioni per tutte e tre le persone di Camden.
+
+Mettete le signore davanti. Non poteva esserci alcun [[Doubt|>dubbio]] riguardo a Miss Elliot. Chiunque.
+
+#Incombenze minori, ma inevitabili…
+
+Il momento giusto per stabilire un rapporto di cortesia tra gli altri due. La pioggia.
+
+Era una cosa da nulla, e Anne era davvero sincera nel preferire una passeggiata…
+
+#Il signor Elliot… Ma la pioggia non rappresentava affatto un problema per la signora Clay; lei…
+
+Non permetteva nemmeno che si abbassasse minimamente… e i suoi stivali erano così spessi!
+
+Più cortese di quella di Miss Anne… In breve, la sua gentilezza la rendeva davvero eccezionale.
+
+Altrettanto desiderosa di poter passeggiare con il signor Elliot, quanto lo era Anne…
+
+#E ne discussero con una generosità così cortese e così…
+
+Decisa, che gli altri fossero obbligati a risolverlo al loro posto; Miss…
+
+# Elliot sostiene che la signora Clay abbia già un piccolo raffreddore, e il signor…
+
+#Elliot decide di fare appello: le scarpe da ginnastica di sua cugina Anne… beh, erano proprio quelle giuste.
+
+Il più spesso.
+
+
+
+#Fu deciso che la signora Clay dovesse partecipare alla riunione.
+
+Carriaggio… E proprio in quel momento, mentre Anne era seduta lì…
+
+Vicino alla [[Window|finestra]] descritta, il Capitano fu visto in modo molto chiaro e distinto.
+
+Wentworth camminava per la strada.
+
+
+
+La sua partenza fu percepibile soltanto da lei stessa; ma immediatamente si rese conto…
+
+# Era la più grande sciocca del mondo, la più irrazionale e…
+
+#Assurdo! Per alcuni minuti non vide nulla davanti a sé; tutto era…
+
+Confusione… Era persa, e quando finalmente riuscì a riprendere il controllo di sé…
+
+Titolo:  
+Li trovò tutti ancora in attesa della carrozza, e il signor Elliot… sempre lì.
+
+Obbediente, si mise subito in viaggio verso [[Union]] Street su incarico della signora.
+
+Di Clay.
+
+
+
+Ora provava una forte voglia di andare verso la porta d’ingresso; voleva farlo.
+
+Vedere se aveva piovuto. Perché avrebbe dovuto sospettare di avere un altro motivo?
+
+[[Captain Wentworth|Capitano Wentworth]] deve sparire dalla vista. Si è alzata dal suo posto. Ora andrà.
+
+“Va’… Metà di lei non dovrebbe sempre essere molto più saggia dell’altra metà.”
+
+Sempre sospettando che l’altro sia peggio di quanto in realtà non sia… Lei.
+
+# Vedremo se pioverà… Tuttavia, poco dopo fu rimandata indietro.
+
+L’ingresso dello stesso [[Captain Wentworth|Capitano Wentworth]], insieme a un gruppo di gentiluomini.
+
+# Signore e signore… evidentemente conoscenti sue, e con cui deve essersi unito…
+
+# Appena sotto Milsom Street… Era chiaramente sconvolto e confuso.
+
+#Con uno sguardo che lei non gli aveva mai visto prima; sembrava davvero…
+
+Rosso. Per la prima [[Time|volta]], da quando si erano riconosciuti di nuovo, lei provò.
+
+“Che stesse tradendo la minima dose di sensibilità tra le due…” Lei aveva…
+
+# Il vantaggio che aveva su di lui negli ultimi momenti preparatori… Tutto ciò…
+
+Effetti travolgenti, abbaglianti, sconcertanti: le prime reazioni di una forte sorpresa
+
+Erano finiti con lei… Eppure, aveva comunque abbastanza da provare…
+
+Agitazione, [[Pain|dolore]], piacere, qualcosa tra gioia e sofferenza.
+
+
+
+Le parlò, poi si allontanò. Il modo in cui lo fece era…
+
+Imbarazzo… Non avrebbe potuto definirlo né freddo né cordiale…
+
+Qualsiasi cosa, piuttosto che sentirsi imbarazzati.
+
+
+
+Dopo un breve intervallo, tuttavia, le si avvicinò di nuovo e parlò ancora.
+
+# Indagini reciproche su argomenti comuni… ma probabilmente nessuno dei due ne sa nulla.
+
+Molto più saggi per ciò che hanno ascoltato, e Anne continua ad essere del tutto sensata.
+
+#Un senso di disagio crescente
+
+#Molto uniti, dovevano parlarsi con grande attenzione l’uno con l’altro
+
+# Una apparenza di indifferenza e calma… ma non riusciva a farlo
+
+Ora. Il [[Time|tempo]] lo aveva cambiato, o forse era stata Louisa a farlo cambiare. C’era.
+
+Aveva qualche tipo di coscienza. Sembrava molto [[Well|in buone condizioni]], non come se.
+
+Aveva sofferto sia in salute che nello spirito, e parlava spesso di Uppercross.
+
+Titolo:  
+Dei Musgrove… anzi, persino di Louisa… e ebbe persino un attimo di…
+
+Il proprio significato supremo, come dimostrava il nome che le aveva dato; eppure era il Capitano…
+
+A Wentworth non era confortevole, non era facile, e non riusciva a fingere di essere a suo agio.
+
+
+
+Non la sorprese, ma la rattristò vedere che Elizabeth…
+
+Non lo avrebbe riconosciuto. Vide che lui aveva visto Elizabeth, e che Elizabeth lo aveva visto.
+
+# Una completa consapevolezza reciproca da entrambe le parti… lei lo sapeva.
+
+Convinto che fosse pronto ad essere riconosciuto come un conoscente…
+
+Aspettandolo, provò il [[Pain|dolore]] di vedere sua sorella allontanarsi con.
+
+Una freddezza inalterabile.
+
+
+
+La carrozza di Lady Dalrymple… per la quale Miss Elliot mostrava un crescente interesse.
+
+“Impaziente… ora è arrivato; il servitore è entrato per annunciarlo.”
+
+#Inizia di nuovo a piovere… e in generale ci sono stati dei ritardi.
+
+# Trambusto e voci che sicuramente attirano l’attenzione di tutta la piccola folla nella bottega
+
+Capisco che Lady Dalrymple stesse chiamando per comunicare l’arrivo di Miss Elliot.
+
+#L’ultima signorina Elliot e la sua amica… lasciate sole, ma accompagnate dal servitore.
+
+Non c'era alcun cugino che tornasse indietro; stavano tutti andandosene; e [[Captain Wentworth|Capitano Wentworth]].
+
+Guardandoli, si rivolse di nuovo ad Anne, e fu più con il gesto che con le parole…
+
+Le stava offrendo i suoi servizi.
+
+
+
+“Le sono molto grata,” rispose lei, “ma non intendo andare con voi.”
+
+“L’ carrozza non avrebbe potuto ospitare tante persone… Preferisco camminare.”
 
 
 
@@ -29831,6 +31930,232 @@ in Bath? Shall I take any message?”
 under a mistaken impression, I might, perhaps, have endeavoured to
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Non sarà di alcun utilità per te”, rispose Anne; “ma sospetto che…”
+
+#Mi considerate come qualcuno che abbia maggiori diritti su Mr Elliot…
+
+# Il diritto di influenzarlo… più di quanto in realtà sia vero. Sono sicuro che tu lo abbia.
+
+#In qualche modo, ho acquisito questa convinzione… Dovete considerarmi soltanto come…
+
+#La relazione del signor Elliot. Se in quel contesto c’è qualcosa che…
+
+Titolo:  
+Supponiamo che suo cugino possa chiederglielo giustamente… Vi prego, non fatelo.
+
+“Esitano ad assumermi.”
+
+
+
+La signora [[smith|Smith]] le lanciò uno sguardo penetrante, poi, sorridendo, disse:
+
+
+
+“Ho forse agito un po’ troppo in fretta… Vi chiedo scusa. Avrei dovuto aspettare.”
+
+Aver aspettato informazioni ufficiali… Ma ora, mia cara signorina Elliot…
+
+Come vecchio amico, dammi almeno un indizio su quando potrò parlare. La prossima settimana?
+
+“Per essere sicuri, entro la prossima settimana potrebbe essere permesso considerare tutto risolto…”
+
+“Costruire i propri piani egoistici sulla buona fortuna del signor Elliot.”
+
+
+
+“No,” rispose Anne, “né la prossima settimana, né quella dopo, né ancora quella dopo. Ve lo assicuro.”
+
+Niente di ciò a cui stai pensando verrà risolto in alcuna settimana.
+
+#Non sposerò il signor Elliot. Vorrei sapere perché…
+
+“Immagina che io sia…”
+
+
+
+La signora [[smith|Smith]] lo guardò di nuovo, con sincera attenzione, sorrise e scosse la testa.
+
+“Testa… e gridò…”
+
+
+
+#"Ora, quanto vorrei capirti… Quanto vorrei sapere cosa stai pensando!"
+
+# Che idea geniale! So che non sei tipo da essere crudele…
+
+Il momento giusto arriverà… Ma fino ad allora, noi donne non sappiamo mai quando accadrà.
+
+“Non avere intenzione di avere nessuno… È una cosa che, naturalmente, tra di noi tutti accade…”
+
+# Viene rifiutato, finché non si offre lui stesso… Ma perché dovreste essere crudeli? Lasciate che vi supplichi.
+
+Per il mio, amico attuale non posso chiamarlo così, ma per il mio ex amico sì.
+
+#Dove si può trovare una coppia più adatta? Dove si potrebbe sperare di…
+
+# Un uomo più gentiluomo, più piacevole da frequentare? Vi consiglio il signor Elliot. Io lo sono…
+
+"Certo, sentite parlare solo bene di lui dal Colonnello Wallis… E chi potrebbe dissentire?"
+
+“Lo conosci meglio del colonnello Wallis?”
+
+
+
+“Mia cara signora [[smith|Smith]], la moglie del signor Elliot è morta da poco più di mezzo, ”
+
+#Un anno… Non si dovrebbe pensare che debba continuare a frequentare quelle persone.
+
+“Uno.”
+
+
+
+“Oh! se queste sono le vostre uniche obiezioni,” esclamò la signora [[smith|Smith]] con tono ironico, “signor, ”
+
+“Elliot è al sicuro, e non mi darò più preoccupazioni per lui.”
+
+“Non dimenticarmi quando ti sposerai… È tutto ciò che voglio.” Fai sapere a lui che io esisto.
+
+“Un tuo amico… e allora penserà poco ai problemi che ciò potrebbe comportare.”
+
+#Molto naturale per lui ora, con tutte queste responsabilità…
+
+Impegni propri da evitare e eliminare il più possibile…
+
+Natural, for sure. An’ ninety-nine out of a hundred people would do the same.
+
+Certo, non può essere consapevole dell’importanza che ha per me. Beh, mia cara signorina.
+
+Elliot, spero e credo che tu sarai molto felice. Il signor Elliot ha buon senso.
+
+Capisci il valore di una donna del genere… La tua pace non sarà mai turbata.
+
+Come me che sono naufragato… Tu sei al sicuro in ogni ambito terreno, e…
+
+Fidato nella sua natura, non si perderà né verrà ingannato.
+
+“Utilizzato dagli altri per la sua rovina.”
+
+
+
+“No”, disse Anne, “posso credere facilmente tutto ciò che riguarda mio cugino… Lui sembra davvero…”
+
+Avere un temperamento calmo e deciso, del tutto lontano da comportamenti pericolosi.
+
+Impressioni… Lo considero con grande rispetto. Non ho alcun motivo per…
+
+Qualsiasi cosa sia caduta sotto la mia osservazione… devo agire in un altro modo. Ma io…
+
+Non lo conosco da molto tempo… E non credo che sia il tipo di persona che si possa conoscere davvero a fondo.
+
+Molto presto. Non sarà forse questo modo di parlare di lui, signora [[smith|Smith]].
+
+Riuscire a convincerti che lui non significa nulla per me. Sicuramente questo dovrebbe essere sufficiente per tranquillizzarti.
+
+# E, per quanto ne so io, lui non significa nulla per me… Anche se mai dovesse chiedermi di sposarlo…
+
+Titolo:  
+(Per cui ho ben pochi motivi per pensare che lui ci abbia mai pensato)
+
+“Non lo accetterò mai. Ve lo assicuro, non lo farò.”
+
+#Il signor Elliot non possedeva quella quota che voi avevate ipotizzato…
+
+Il piacere che potrebbe offrire il concerto di ieri sera. Non il signor Elliot, ma.
+
+“Non il signor Elliot… ma…”
+
+
+
+Si fermò, arrossendo profondamente per aver insinuato così tanto.
+
+Ma anche meno sarebbe stato sufficiente. La signora [[smith|Smith]] probabilmente non avrebbe accettato nemmeno così poco.
+
+Si credeva così facilmente nella sconfitta del signor Elliot, ma a seguito di una nuova percezione…
+
+“Essendo presente qualcun altro…” Così come stava le cose, lei si arrese immediatamente.
+
+Con l’aria di non vedere nulla al di là di ciò che ha davanti; e Anne, desiderosa…
+
+Per evitare ulteriori attenzioni, non vedeva l'ora di scoprire perché la signora [[smith|Smith]] avesse dovuto.
+
+# Pensava di sposare il signor Elliot… dove avrebbe potuto ricevere…
+
+Non aveva idea di chi gliel’avesse detto o da dove potesse averlo sentito.
+
+
+
+"Ditemi proprio come vi è venuta in mente questa idea."
+
+
+
+“Mi è venuto in mente per la prima volta,” rispose la signora [[smith|Smith]], “quando ho scoperto quanto, ”
+
+#Eravate insieme, e pensavate che fosse la cosa più probabile…
+
+Un mondo che tutti desidererebbero, per chiunque appartenga a uno di voi due… e voi.
+
+Titolo:  
+Potrebbe dipendere da questo che tutti i tuoi conoscenti ti abbiano già “eliminato”…
+
+“Nello stesso modo… Ma non l’avevo mai sentito menzionare prima di due giorni fa.”
+
+
+
+“E davvero ne è stata parlata?”
+
+
+
+# Hai notato la donna che ti ha aperto la porta quando hai suonato?
+
+“Ieri?”
+
+
+
+“No. Non era la signora [[Speed]], come al solito, né la cameriera? Non ho visto nessuno lì dentro.”
+
+“Particolare.”
+
+
+
+Era mia amica la signora Rooke; l’[[Nurse|infermiera]] Rooke, che, tra l’altro, aveva una grande.
+
+Avevo curiosità di vederti e sono stato felice di poter aiutarti ad entrare.
+
+Se ne andò dagli edifici di Marlborough soltanto il [[Sunday|domenica]]; ed era proprio lei.
+
+# Chi mi ha detto che dovevi sposare il signor Elliot? L’aveva saputo dalla signora Wallis.
+
+“Se stessa… una autorità che non sembrava affatto negativa. È rimasta seduta con me per un’ora…”
+
+Domenica sera mi raccontò tutta la [[history|storia]]. Tutta la [[history|storia]], insomma.
+
+“Non riusciva a raccontare una storia molto lunga,” ripeté Anne ridendo. “Non era brava in questo.”
+
+“Pensate solo a uno di quei piccoli articoli di notizie prive di fondamento…”
+
+
+
+La signora [[smith|Smith]] non disse nulla.
+
+
+
+“Ma,” continuò Anne dopo un po’, “sebbene non ci sia alcuna [[Truth|verità]] nelle mie parole, ”
+
+Titolo:  
+Avendo questa pretesa su Mr. Elliot, sarei estremamente felice di poter essere d’aiuto…
+
+“Usarti in qualsiasi modo possa… Devo dirgli che sei qui?”
+
+“A Bath? Devo portare qualche messaggio?”
+
+
+
+"No, grazie: no, assolutamente no. Nell’entusiasmo del momento…”
+
+Con un’errata convinzione, forse avrei potuto provare a farlo…
+
 
 
 <span class="atom-split" data-atom="chapter_21--part_03" data-title="Persuasion — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/desert,motif/home,motif/marriage,motif/time,concept/conscience,concept/truth,concept/union,concept/wonder,setting/desert"></span>
@@ -30281,6 +32606,240 @@ any thing be stronger?”
 Anne could not immediately get over the shock and mortification of
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Con me… Era curioso: appena ti avevo lasciato a Bath…”
+
+Il mio primo e principale conoscente dopo il matrimonio dovrebbe essere tuo cugino.
+
+E così, attraverso di lui, avrei continuamente notizie di tuo padre.
+
+#E sorella… Descrisse una certa signorina Elliot, e io pensai molto…
+
+Con affetto l’uno per l’altro.
+
+
+
+“Forse,” esclamò Anne, colpita da un’idea improvvisa, “a volte parli di…”
+
+“Che cosa dovrei dire al signor Elliot?”
+
+
+
+“Certo che sì; molto spesso. Mi vantavo sempre della mia propria [[Anne Elliot]], ”
+
+“E testimonierò che sei una creatura molto diversa da…”
+
+
+
+Si controllò proprio in [[Time|tempo]] giusto.
+
+
+
+“Questo spiega qualcosa di ciò che il signor Elliot ha detto la scorsa [[Night|notte]],” esclamò.
+
+# Anne. “Questo spiega tutto… Ho scoperto che era abituato ad sentire parlare di me.”
+
+#Non riuscivo a capire come… Che strane immaginazioni si possano formare quando si è innamorati…
+
+Mi preoccupo per me stesso. Come posso essere sicuro di non sbagliarmi? Ma vi chiedo scusa. Io.
+
+#Vi ho interrotto… Il signor Elliot si è sposato soltanto per i soldi, allora?
+
+# Circostanze che probabilmente furono le prime a farti aprire gli occhi su di lui
+
+“Carattere”.
+
+
+
+La signora [[smith|Smith]] esitò un attimo. “Oh! quelle cose sono troppo comuni, ”
+
+# Quando si vive nel mondo… sposarsi per denaro è davvero troppo.
+
+# Un’impressione che dovrebbe essere naturale… Ero molto giovane, e mi relazionavo soltanto con…
+
+#Insieme ai giovani… eravamo un gruppo spensierato e felice, senza alcuna regola rigida.
+
+Regole di condotta. Vivevamo per il piacere. Ora penso in modo diverso; il [[Time|tempo]] ha cambiato tutto.
+
+# Malattia, dolore e sofferenza mi hanno fatto sviluppare altre idee; ma in quel periodo…
+
+Devo ammettere che non ho visto nulla di riprovevole nelle azioni del signor Elliot. “To”
+
+“Fare del proprio meglio” era considerato un dovere.
+
+
+
+“Ma non era forse una donna di molto basso rango?”
+
+
+
+“Sì; io mi sono opposto, ma lui non ha voluto ascoltarmi. Solo soldi, sempre solo soldi…”
+
+Tutto ciò che desiderava… Suo padre era un allevatore di bestiame, suo nonno lo era stato anch’egli.
+
+“Un macellaio… ma nient’altro. Era una donna gentile, aveva avuto…”
+
+Un'adeguata [[Education|istruzione]] fu offerta da alcuni cugini, ma solo per caso.
+
+Nella compagnia del signor Elliot, si innamorò di lui, e non una volta sola.
+
+Non esisteva alcuna difficoltà o remore da parte sua riguardo a lei.
+
+Titolo:  
+Nascita. Tutta la sua attenzione era concentrata nel verificare con esattezza l’importo reale…
+
+“La sua fortuna… prima che si impegnasse. State certi: qualunque cosa accada…”
+
+#La stima che il signor Elliot possa provare per la sua attuale situazione nella vita, da giovane…
+
+Titolo:  
+L’uomo non ne aveva la minima considerazione… La sua opportunità riguardo a Kellynch…
+
+L’estate era certamente qualcosa di importante, ma tutta l’[[Honour|’onore]] della famiglia la considerava qualcosa di poco valore.
+
+“Come la polvere… Ho spesso sentito lui dichiarare che, se i titoli di baronetto potessero essere…”
+
+“Vendibile: chiunque potrebbe acquistarlo per cinquanta sterline, insieme alle braccia e al motto associati.”
+
+# Nome e livrea inclusi; ma non mi farò certo carico di ripetere nemmeno la metà di ciò che…
+
+“Ricordo di averlo sentire dire spesso al riguardo… Non sarebbe giusto; eppure…”
+
+“Dovrebbe esserci una prova: tutto ciò non è altro che un’affermazione, e voi…”
+
+“Hai le prove.”
+
+
+
+“Davvero, mia cara signora [[smith|Smith]], non ne voglio affatto,” gridò Anne. “Lei ha, ”
+
+#Non si è affermato nulla di contraddittorio rispetto a ciò che il signor Elliot sembrava essere
+
+# anni fa… Tutto ciò serve soltanto a confermare quanto sentivamo in passato.
+
+#E credere… Sono più curioso di sapere perché debba essere così diverso.
+
+Ora.
+
+
+
+Titolo:  
+“Ma per il mio soddisfazione… se voleste avere la gentilezza di suonare…”
+
+# Mary; rimani… Sono certo che agirai con ancora maggiore bontà se resterai.
+
+“Entri da solo nella mia camera da letto e mi porti quella piccola scatola incastonata…”
+
+“Lo troverai sul ripiano superiore dell’armadio.”
+
+
+
+Titolo:  
+Anna, vedendo che la sua amica era davvero decisa a farlo, acconsentì.
+
+Desiderata. La scatola fu portata e posizionata davanti a lei; la signora [[smith|Smith]].
+
+“Sospirando mentre lo apriva, disse…”
+
+
+
+“Questo è pieno di documenti che appartengono a lui, a mio marito… dei foglietti…”
+
+Solo una parte di tutto ciò che ho dovuto esaminare dopo averlo perso… Quella lettera…
+
+Quello che stavo cercando era una lettera scritta dal signor Elliot a lui prima del nostro [[Marriage|matrimonio]].
+
+#E fu salvato… Perché? È davvero difficile immaginarlo. Ma fu salvato.
+
+Improvviso e disordinato, come tutti gli altri uomini, in quelle cose… E quando…
+
+#Ho esaminato i suoi documenti e l’ho trovata insieme ad altri ancora più…
+
+Triviale… persone diverse, sparse ovunque… e molti altri ancora…
+
+Lettere e memorandum di reale importanza erano stati distrutti… Qui.
+
+# Non lo brucerei mai, perché anche allora non ne sarei affatto soddisfatto.
+
+Con il signor Elliot, ero determinata a conservare ogni documento relativo al passato.
+
+# Intimità. Ora ho un altro motivo per essere felice di poterlo condividere.
+
+it.”
+
+
+
+Ecco la lettera, indirizzata a “Charles [[smith|Smith]], Esq., Tunbridge Wells”.
+
+e risale a [[London|Londra]], addirittura al luglio del 1803:—
+
+
+
+
+
+“Caro [[smith|Smith]],”
+
+
+
+“Ho ricevuto il tuo messaggio. La tua gentilezza mi commuove profondamente. Vorrei…”
+
+La [[Nature|natura]] aveva reso cuori come il tuo più comuni, ma io ho vissuto.
+
+Trentadue anni nel mondo… e non ne ho mai visti di simili.
+
+#"Presente… credetemi, non ho bisogno dei vostri servizi; ho abbastanza denaro."
+
+Di nuovo… Datemi gioia: mi sono liberato di Sir Walter e della signorina… Sono spariti.
+
+“Tornato a Kellynch… e quasi mi ha costretto a promettere di andarli a trovare.”
+
+[[Summer|Estate]]; ma la mia prima visita a Kellynch avverrà insieme a un geometra, per fare dei rilievi.
+
+"#Come utilizzarlo al meglio per il proprio vantaggio: Il barone"
+
+Tuttavia, non è improbabile che si sposi di nuovo; è abbastanza [[Fool|stupido]] per farlo.
+
+Se lo farà, però, mi lasceranno in pace, il che potrebbe essere una cosa positiva.
+
+Un equivalente per la “reversione”: è peggio di l’anno scorso.
+
+
+
+“Vorrei avere un nome qualsiasi tranne Elliot… Ne ho abbastanza di questo nome. Il nome Walter…”
+
+Posso lasciar perdere, grazie a Dio. E desidero che tu non mi insulti mai in relazione a ciò che è mio.
+
+“Per il resto della mia vita, sarò soltanto tuo.”
+
+#Veramente
+
+
+
+“WM. ELLIOT.”
+
+
+
+
+
+Una lettera del genere non poteva che rendere Anne estremamente felice; e la signora…
+
+[[smith|Smith]], notando il rossore intenso sul suo viso, disse:
+
+
+
+“La lingua, lo so, è estremamente irrispettosa… Anche se l’ho dimenticata.”
+
+Gli esatti termini, ho un’impressione perfetta del significato generale.
+
+Ma questo ti mostra chi è veramente quell’uomo… Nota le sue professioni, te ne prego… Per mio povero marito…
+
+“Qualcosa può essere più forte di così?”
+
+
+
+# Anne non riusciva immediatamente a superare lo shock e l’umiliazione provati
+
 
 
 <span class="atom-split" data-atom="chapter_21--part_05" data-title="Persuasion — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="topos/double,motif/autumn,motif/blood,motif/desire,motif/secrets,motif/summer,motif/time,motif/well,concept/doubt,concept/history,concept/honour,concept/reconciliation,concept/truth,form/history,character/anne_elliot,character/nurse"></span>
@@ -30686,6 +33245,197 @@ might bring on her. It was a dreadful picture of ingratitude and
 
 inhumanity; and Anne felt, at some moments, that no flagrant open crime
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+#Eludere la signora, se lo ritenesse opportuno… Questo fu concordato.
+
+Tra i due amici, quella era l’unica cosa da fare… e il Colonnello…
+
+Wallis avrebbe dovuto fornire tutto il suo aiuto possibile. Era suo dovere farlo.
+
+“Introdotti… e anche la signora Wallis sarebbe stata presentata; tutti, insomma, avrebbero dovuto…”
+
+Viene presentato il signor Elliot. Questi tornò quindi come previsto; e su sua richiesta…
+
+Perdonato, come sapete, e riammesso nella famiglia… E lì…
+
+Il suo unico obiettivo era lei… fino al tuo arrivo.
+
+#Un altro movente: osservare Sir Walter e la signora Clay. Non tralasciò nulla…
+
+# L’opportunità di stare con loro… lo spinse ad intervenire, a chiamarli.
+
+Ogni ora; ma non è necessario che sia troppo preciso su questo argomento. Puoi…
+
+# Immagina cosa potrebbe fare un uomo astuto… E con questa guida, forse, sarà possibile farlo.
+
+“Ricorda ciò che hai visto lui fare.”
+
+
+
+“Sì”, disse Anne, “non mi dici nulla che non sia in accordo con ciò che…”
+
+# Ho sempre saputo, o avrei potuto immaginare… C’è sempre qualcosa di offensivo in…
+
+I dettagli dell’astuzia: le manovre dell’egoismo e della doppiezza
+
+Niente mai è davvero rivoltante, ma non ho sentito nulla che mi sorprenda veramente.
+
+#Coloro che rimarrebbero scioccati da una tale rappresentazione di quel signore…
+
+#Elliot, che avrebbe difficoltà a crederci… ma io mai.
+
+Sono rimasto soddisfatto… Ho sempre desiderato trovare un altro motivo per spiegare il suo comportamento.
+
+#Che opinione abbia attualmente…
+
+# Probabilità dell’evento che temeva… o se lo consideri davvero così
+
+“Il pericolo potrebbe anche diminuire, o forse no…”
+
+
+
+“Una riduzione, capisco,” rispose la signora [[smith|Smith]]. “Lui pensa che la signora Clay, ”
+
+#Spaventata di lui, consapevole che lui la vede attraverso e senza osare…
+
+Proceda come avrebbe fatto in sua assenza… Ma poiché lui deve essere assente…
+
+In qualche modo, non riesco a capire come possa mai sentirsi al sicuro in quelle circostanze.
+
+“Mrs Wallis ha un’idea divertente…”
+
+La [[Nurse|infermiera]] mi ha detto che deve essere inserito negli articoli del [[Marriage|matrimonio]] quando.
+
+“Se tu e il signor Elliot vi sposate, vostro padre non dovrà sposare la signora Clay.”
+
+Scambio ingannevole, senz’altro comprensibile per una signora come la signora Wallis… ma il mio…
+
+La sensata [[Nurse|infermiera]] Rooke si rende conto dell’assurdità della situazione. “Perché, di certo, ”
+
+“Signora,” disse lei, “ciò non impedirebbe comunque che si sposasse con un’altra persona.”
+
+E, infatti, per afferrare la [[Truth|_verità]], non credo che [[Nurse|_Nursery]] abbia, nel suo cuore, un.
+
+Un’opponente molto decisa contro il fatto che Sir Walter organizzasse un secondo incontro… Lei deve assolutamente farlo.
+
+Essere permesso di essere un sostenitore del matrimonio, capisci. E (poiché l’[[Self|io stesso]]).
+
+Chi può dire che lei non possa avere alcune visioni… volanti?
+
+“Partecipare alla prossima riunione della signora Elliot, su raccomandazione della signora Wallis?”
+
+
+
+“Sono molto felice di sapere tutto questo”, disse Anne, dopo un po’.
+
+#Preoccupazione. “In alcuni aspetti, per me sarà ancora più doloroso…”
+
+In sua compagnia, ma saprò meglio cosa fare… La mia strada è chiara.
+
+La condotta sarà molto più diretta. È evidente che il signor Elliot non sia sincero…
+
+Uomo artificiale e mondano, che non ha mai avuto principi più nobili…
+
+“Guidarlo con la bontà, non con l’egoismo.”
+
+
+
+Ma il signor Elliot non aveva ancora finito. La signora [[smith|Smith]] era stata portata via.
+
+Il suo primo lavoro alla regia… e Anne se n’era dimenticata, per motivi personali.
+
+Preoccupazioni familiari… Quanto era stato in realtà insinuato contro di lui?
+
+Ora la sua attenzione era rivolta all’esplicazione di quei primi indizi.
+
+# E lei ascoltò un recital che, se non giustificava perfettamente…
+
+L'amarezza incondizionata della signora [[smith|Smith]] dimostrò che lui era stato davvero molto.
+
+Senza cuore nel suo comportamento verso di lei; gravemente carente sia di giustizia che di compassione.
+
+e compassione.
+
+
+
+Scoprì che l’intimità tra loro continuava inalterata, nonostante la presenza del signor…
+
+Il matrimonio di Elliot li aveva fatti rimanere sempre insieme, come prima, e il signor.
+
+#Elliot aveva trascinato il suo amico in spese ben al di là delle sue possibilità finanziarie. La signora…
+
+[[smith|Smith]] non voleva assumersi la colpa su di sé e era davvero molto premurosa.
+
+“Non spendeva nulla per suo marito; ma Anne intuiva che i loro introiti fossero sufficienti…”
+
+Non aveva mai potuto adattarsi al loro stile di vita, e questo fin dall’inizio.
+
+C’era stata un’enorme quantità di spese eccessive da parte di tutti. Da parte sua…
+
+Secondo quanto raccontava sua moglie, si poteva intuire che il signor [[smith|Smith]] fosse un uomo.
+
+# Sentimenti caldi, carattere mite, abitudini disordinate… e mancanza di forza
+
+# Più comprensivo e molto più affabile del suo amico… e molto diverso da lui.
+
+Guidato da lui… e probabilmente disprezzato da lui. Il signor Elliot, cresciuto sotto la sua influenza…
+
+Un [[Marriage|matrimonio]] che portava a grande agiamento economico, e disposto ad ogni forma di soddisfazione.
+
+Piacere e [[Vanity|vanità]] che poteva ottenere senza coinvolgersi personalmente.
+
+(nonostante tutta la sua indulgenza verso se stesso, era diventato una persona prudente), e.
+
+Iniziare ad arricchirsi, proprio come avrebbe dovuto fare anche suo amico…
+
+Essere poveri sembrava non avergli causato alcun problema riguardo a quel loro amico…
+
+Probabili difficoltà finanziarie, ma al contrario, sembrava che ciò stimolasse…
+
+Spese incoraggiative che potrebbero portare solo al disastro… e i Smith
+
+Di conseguenza, era andato in rovina.
+
+
+
+Il marito era morto proprio nel momento giusto per essere risparmiato dalla conoscenza completa di.
+
+# Dovettero affrontare altre umiliazioni in seguito
+
+La [[Friendship|amicizia]] dei loro amici, e per dimostrare che quella del signor Elliot fosse ancora migliore.
+
+Non fu processato; ma solo dopo la sua [[Death|morte]] si venne a conoscenza dello stato disperato in cui si trovava.
+
+Le sue faccende erano completamente note. Con fiducia nel signor Elliot…
+
+Più in linea con i suoi sentimenti che con il suo giudizio, il signor [[smith|Smith]] aveva.
+
+Lo nominò esecutore del suo testamento; ma il signor Elliot rifiutò di assumersi tale incarico.
+
+E le difficoltà e il dolore che tale rifiuto le aveva causato…
+
+Oltre alle sofferenze inevitabili derivanti dalla sua situazione, aveva anche…
+
+Titolo:  
+Cose che non potrebbero essere raccontate senza causare dolore nell’anima, o ascoltate senza provare sofferenza…
+
+senza la dovuta indignazione.
+
+
+
+Durante quell’occasione, ad Anne furono mostrate alcune sue lettere, risposte a richieste urgenti.
+
+Le domande presentate dalla signora [[smith|Smith]] erano tutte caratterizzate dalla stessa severità.
+
+# Decision di non incorrere in problemi inutili, e con distacco…
+
+#Civiltà: quell’indifferenza spietata verso ogni forma di male
+
+#Un quadro terribile di ingratitudine…
+
+# Inumanità; e a volte Anne sentiva che non esistesse alcun crimine così evidente e palese…
 
 
 
@@ -32007,6 +34757,139 @@ very evident that I have been full of it too, ever since I entered the
 or my seeing him could never have gone so entirely out of my head.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Elizabeth si alzò e scomparve.
+
+
+
+L’interruzione è stata breve, ma intensa; dopo, tutto è tornato alla normalità, con tranquillità e vivacità.
+
+“Tornati nella maggior parte dei luoghi che avevano abbandonato… quando la porta li aveva esclusi… ma non tutti.”
+
+#Per Anne. Non riusciva a pensare ad altro che all’invito che aveva ricevuto…
+
+# Uno stupore che tutti hanno visto, e il modo in cui è avvenuto
+
+# Ricevuto… Un modo di esprimersi dal significato dubbio, più un segno di sorpresa che altro.
+
+# Una gratificazione formale, più che un vero accettamento… Lei
+
+Lo conosceva; vide disprezzo nei suoi occhi e non osò crederci.
+
+Titolo:  
+Che aveva deciso di accettare tale offerta come atto di espiazione…
+
+“Tutta l’insolenza del passato… Il suo spirito si abbassò. Lui teneva quella carta in mano…”
+
+Tenne la sua mano dopo che se ne furono andati, come se la stesse considerando attentamente.
+
+
+
+“Pensa solo a come Elizabeth includa tutti nella sua considerazione…”, sussurrò Mary.
+
+In modo udibile: “Non mi meraviglio affatto che il [[Captain Wentworth|Capitano Wentworth]] sia felice. Vedi, lui, ”
+
+“Non riesce a lasciare quella carta in mano sua.”
+
+
+
+# Anne attirò il suo sguardo: vide le sue guance arrossire e le sue labbra muoversi…
+
+Con un’espressione di disprezzo momentaneo, si girò via…
+
+Non avrebbe potuto né vedere né sentire nulla che la tormentasse ulteriormente.
+
+
+
+La compagnia si sciolse. Gli uomini avevano le loro occupazioni, mentre le donne…
+
+Proseguirono per la loro strada, e non si incontrarono più… mentre Anne…
+
+Apparteneva a loro. Le fu chiesto con insistenza di tornare a mangiare con loro e di…
+
+Per il resto della giornata, continuò a occuparsi di tutto ciò, ma da tempo i suoi spiriti erano stati sottoposti a una notevole pressione…
+
+In quel momento si sentiva incapace di fare di più e pensava di essere adatta soltanto a [[Home|casa]], dove.
+
+Poteva essere certa di rimanere silenziosa quanto desiderasse.
+
+
+
+Promettendo di stare con loro per tutta la mattina seguente,
+
+Pertanto, concluse le fatiche di quel giorno con una lunga passeggiata…
+
+#Camden Place: un luogo dove trascorrere le serate ascoltando musica
+
+“Il frenetico impegno di Elizabeth e della signora Clay per gli preparativi della festa di domani…”
+
+# Elenco frequente delle persone invitate, e il continuo…
+
+#Migliorando i dettagli di tutti quegli elementi decorativi che avrebbero dovuto renderlo…
+
+La più completamente elegante della sua categoria a Bath… mentre si tormenta da sola.
+
+Con quella domanda senza fine: se [[Captain Wentworth|Capitano Wentworth]] sarebbe arrivato o meno.
+
+O no? Lo consideravano una certezza, ma nel suo caso… era diverso.
+
+Una preoccupazione incessante e tormentosa che non si placava nemmeno per cinque minuti… Lei.
+
+Si pensava in generale che sarebbe venuto, perché anche lei riteneva generalmente che lo avrebbe fatto.
+
+#Non poteva far altro che… ma si trattava di una situazione che non riusciva in alcun modo a risolvere in modo concreto.
+
+Atto di dovere o discrezione… che inevitabilmente sfida le suggestioni altrui.
+
+Sentimenti completamente opposti.
+
+
+
+Solo dopo essersi liberata dai pensieri angosciosi e dall’agitazione incessante, riuscì finalmente a riprendersi…
+
+“Per informare la signora Clay che è stata vista in compagnia del signor Elliot per tre ore…”
+
+Dopo che si era presumibilmente allontanato da Bath, per aver tentato invano…
+
+#Per qualche indizio riguardo all’intervista da parte della stessa signora…
+
+Decisa a menzionarlo, le sembrava che nella signora ci fosse della [[Guilt|colpa]].
+
+Il viso di Clay mentre ascoltava… Un’espressione effimera, che scomparve subito dopo.
+
+# Istantaneo; ma Anne riusciva a immaginare che vi leggesse la consapevolezza…
+
+# Essendo caduti vittime di qualche complessa trappola reciproca, o a causa di un comportamento prepotente…
+
+# Obbligato ad assistere (forse per mezz’ora)…
+
+Le sue lezioni e i suoi limiti riguardo ai progetti che lei aveva per Sir Walter.
+
+Tuttavia, esclamò con una imitazione piuttosto tollerabile della [[Nature|>natura]]:—
+
+
+
+“Oh! cara… davvero vero. Pensate solo, signorina Elliot: con mia grande sorpresa…”
+
+Mi sono incontrato con il signor Elliot in Bath Street… Non sono mai stato più sorpreso di così. Lui…
+
+Si girò e camminò con me fino al Pump Yard. Gli era stato impedito di procedere…
+
+#Partenza per Thornberry… ma proprio non ricordo con quale mezzo; ero infatti in…
+
+#"Affrettati, ma non potevo prestare molta attenzione… Posso solo assicurarti che lui c’era."
+
+Deciso a non ritardare il proprio ritorno, voleva sapere a che ora fosse possibile farlo.
+
+Potrebbe essere ammesso domani… Era pieno di “domani”, e questo è tutto.
+
+“È evidente che anch’io ho esagerato, da quando sono entrato…”
+
+[[house|>Casa]], e venne a sapere dell’estensione del tuo piano e di tutto ciò che era accaduto.
+
+“O forse il mio ricordo di lui non avrebbe mai potuto svanire del tutto dalla mia mente.”
+
 
 
 <span class="atom-split" data-atom="chapter_23--part_01" data-title="Persuasion — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/time,motif/well,motif/window,concept/faith,concept/history,concept/self,concept/truth,form/history,character/captain_wentworth"></span>
@@ -32443,6 +35326,230 @@ saying what should not be said.”
 but make you comprehend what a man suffers when he takes a last look at
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il volto riprese quell’espressione seria e pensierosa che sembrava…
+
+Il suo carattere naturale.
+
+
+
+“Guardate qui,” disse, aprendo un pacco che teneva in mano e mostrando…
+
+Piccola miniatura: “Sai chi è quella persona?”
+
+
+
+“Certo: [[Captain Benwick|Capitano Benwick]].”
+
+
+
+“Sì, e potete indovinare a chi è destinato… Ma,” disse con voce profonda, “è stato…”
+
+#Non è ancora finita per lei… Signorina Elliot, ricorda quando abbiamo passeggiato insieme?
+
+#Lyme e il dolore per lui… Allora non ci avevo pensato, ma ormai non importa.
+
+Fu disegnato al Capo. Lì incontrò un giovane e intelligente artista tedesco.
+
+# Cape, e in rispetto alla promessa fatta a mia povera sorella, mi sedetti accanto a lui.
+
+e stava portandola a [[Home|>casa]] per lei; ora spetta a me il compito di procurarla.
+
+“Proprio destinato a qualcun altro… Era un incarico che mi era stato affidato… Ma allora, a chi altro?”
+
+C'era qualcuno che potesse assumerlo? [[Hope|>Spero]] di poterlo fare. Non mi dispiace affatto.
+
+“Infatti, per riuscire a passare all’altro… Lo affronta”; (guardando verso…)
+
+[[Captain Wentworth|Capitano Wentworth]],) “Sta scrivendo di questo proprio ora.” E con un tremito.
+
+“Povera Fanny… Non avrebbe mai dovuto finire in quel modo.”
+
+“Lo hai dimenticato già così in fretta…”
+
+
+
+“No,” rispose Anne, con una voce bassa e piena di emozione. “Quello posso farlo facilmente.”
+
+"Credere."
+
+
+
+“Non faceva parte della sua [[Nature|>natura]]. Lei lo adorava.”
+
+
+
+“Non sarebbe nella [[Nature|>natura]] di nessuna donna che ami davvero farlo.”
+
+
+
+Capitano Harville sorrise, come per dire: “Vuoi davvero affermare che sia tuo…”
+
+“Sesso?”, e lei rispose sorridendo anche lei: “Sì. Certo che sì.”
+
+Non dimenticarci non appena avrai dimenticato noi… Forse, questo è il nostro destino.
+
+Piuttosto che per merito nostro. Non possiamo farci nulla. Viviamo a [[Home|>casa]],
+
+#"Silenzio, confinamento… e i nostri sentimenti ci assalgono. Siamo costretti ad affrontare tutto questo."
+
+Sforzo costante. Si ha sempre una professione, degli interessi, un’attività di qualche tipo…
+
+# O qualcos’altro, per riportarti immediatamente in quel mondo… e continuamente.
+
+“L’occupazione e i cambiamenti, presto, attenuano le impressioni.”
+
+
+
+Tenendo conto della tua affermazione secondo cui il mondo agisce in questo modo così rapidamente per gli uomini…
+
+Titolo:  
+(che, tuttavia, non credo che acconsentirò a concedere), non si applica a…
+
+# Benwick. Non è stato costretto ad affrontare alcuno sforzo… La pace lo ha cambiato.
+
+In quel preciso momento si trovava sulla terraferma e da allora vive con noi, nella nostra casa.
+
+“Piccolo cerchio familiare… da allora.”
+
+
+
+“Vero,” disse Anne, “davvero vero; non me ne ricordavo… Ma cosa faremo ora?”
+
+Titolo:  
+Dica ora, Capitano Harville… Se il cambiamento non deriva dall’esterno…
+
+In tali circostanze, deve provenire dall’interno; deve essere la [[Nature|>natura]], la natura stessa dell’uomo.
+
+Il che ha risolto tutti i problemi per [[Captain Benwick|Capitano Benwick]].
+
+
+
+“No, no, non fa parte della natura umana. Non permetterò che diventi ancora di più una caratteristica tipica dell’uomo.”
+
+La [[Nature|>natura]] degli uomini è più incostante di quella delle donne; spesso dimenticano coloro che amano.
+
+Titolo:  
+Credo nel contrario… Credo in una vera analogia tra…
+
+# I nostri corpi fisici e le nostre menti; poiché i nostri corpi sono…
+
+I nostri sentimenti sono i più forti; capaci di resistere alle prove più dure.
+
+“E superare le tempeste più violente.”
+
+
+
+“Le tue emozioni potrebbero essere le più forti“, rispose Anne, “ma…”
+
+“Lo spirito di analogia mi permette di affermare che i nostri sono i migliori…”
+
+#Debole. L’uomo è più robusto della donna, ma non vive più a lungo.
+
+Questo spiega esattamente la mia visione della [[Nature|>natura]] dei loro legami. Anzi, sì.
+
+“Sarebbe troppo difficile per te, se non fosse così… Hai…”
+
+Difficoltà, privazioni e pericoli sufficienti per dover lottare…
+
+Sono sempre impegnati nel lavoro e nella fatica, esposti a ogni rischio e difficoltà.
+
+La tua [[Home|casa]], il tuo paese, i tuoi amici, tutti se ne sono andati. Né il [[Time|tempo]], né la salute, né nulla.
+
+“La vita… per poterla chiamare davvero tua. Sì, sarebbe davvero difficile.”
+
+“Se si aggiungessero anche i sentimenti delle donne a tutto questo…”
+
+
+
+“Su questa questione non arriveremo mai a un accordo”, disse il Capitano Harville.
+
+“Stavano appena per iniziare a parlare, quando un lieve rumore attirò la loro attenzione verso il Capitano…”
+
+# La divisione del ambiente, fino ad allora perfettamente silenziosa, da parte di Wentworth…
+
+Solo il suo pennello era caduto a terra… ma Anne si spaventò lo stesso.
+
+# Trovarlo più vicino di quanto pensasse… e quasi incline a…
+
+Si sospetta che la penna sia caduta semplicemente perché l’uomo era troppo impegnato in altro.
+
+#Inseguendo suoni che, forse, lui non poteva davvero emettere
+
+Hanno catturato.
+
+
+
+“Hai finito di scrivere la tua lettera?” chiese il Capitano Harville.
+
+
+
+#"Ancora qualche riga… Finirò in cinque minuti."
+
+
+
+“Non ho alcuna fretta; sarò pronto solo quando lo sarai tu.”
+
+“Qui siamo in un’ancoraggio molto sicuro,” disse sorridendo ad Anne, “e siamo ben riforniti, ”
+
+Non manca nulla. Non c’è alcuna fretta di ricevere un segnale. “Beh, signorina Elliot, ”
+
+(#Sottovoce), “Come stavo dicendo, immagino che non arriveremo mai a un accordo…”
+
+Su questo punto… Probabilmente nessun uomo o donna lo farebbe. Ma lasciate che osservi…
+
+“Che tutte le storie siano contro di te: racconti, prosa e poesia… Se io…”
+
+Se avessi una memoria come quella di Benwick, potrei farti citare cinquanta esempi in un attimo.
+
+“Un momento dalla mia parte nel dibattito… e non credo di aver mai aperto un libro.”
+
+Nella mia vita non c’era nulla da dire sull’inconstanza delle donne.
+
+Canzoni e proverbi, tutti parlano della capricciosità delle donne. Ma forse tu.
+
+“Si dirà che tutto questo sia stato scritto dagli uomini.”
+
+
+
+“Forse lo farò. Sì, sì, per favore, senza fare riferimento ad esempi…”
+
+Libri. Gli uomini hanno avuto ogni vantaggio rispetto a noi nel raccontare la propria storia.
+
+L’[[Education|istruzione]] è stata loro offerta in misura molto maggiore; la penna, ha svolto un ruolo fondamentale.
+
+“Nelle loro mani… Non permetterò che i libri dimostrino nulla.”
+
+
+
+“Ma come possiamo provare qualcosa?”
+
+
+
+“Non lo faremo mai. Non possiamo nemmeno sperare di riuscire a dimostrare qualcosa in una situazione del genere…”
+
+Punto. Si tratta di una differenza di opinione che non ammette prove. Noi…
+
+Ogni inizio, probabilmente, è caratterizzato da una leggera preferenza per il proprio sesso; e su questa base…
+
+# Quel pregiudizio crea ogni circostanza che lo favorisca
+
+#All’interno del nostro stesso cerchio; molte di queste circostanze…
+
+Titolo:  
+(Casi che ci colpiscono di più) sono probabilmente proprio quelli che non possono essere spiegati in modo semplice.
+
+Presentato senza tradire alcuna confidenza, o in qualche modo…
+
+“Dire ciò che non dovrebbe essere detto”.
+
+
+
+“Ah!”, esclamò il Capitano Harville con tono pieno di emozione, “se solo potessi…”
+
+#Ma fai comprendere quanto soffra un uomo quando lancia un ultimo sguardo…
+
 
 
 <span class="atom-split" data-atom="chapter_23--part_03" data-title="Persuasion — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/hope,character/captain_benwick,character/captain_wentworth"></span>
@@ -32656,6 +35763,218 @@ your party, as soon as possible. A word, a look, will be enough to
 
 decide whether I enter your father’s [[house]] this evening or never.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La sua moglie e i suoi figli… e osserva la barca con cui li ha accompagnati.
+
+“Finché è ancora in vista… poi si gira e dice: ‘Dio lo sa’.”
+
+“Se mai ci rivedremo…” E poi, se solo potessi farvi capire…
+
+Il bagliore della sua [[Soul|'anima]] quando li rivedrà di nuovo; quando, tornando dopo una.
+
+La mancanza di dodici mesi… forse… e la necessità di approdare in un altro porto.
+
+Titolo:  
+Calcola quanto tempo ci vorrà per portarli lì, fingendo…
+
+Ingannarsi da solo, dicendo: “Non possono essere qui prima di quel giorno”, ma…
+
+Aspettandoli con ansia per dodici ore intere… e finalmente vederli arrivare.
+
+Finalmente arrivano, come se il cielo gli avesse donato le ali, molte ore prima del previsto.
+
+Ancora! Se solo potessi spiegarvi tutto questo… e tutto ciò che un uomo è in grado di sopportare…
+
+E lo fa, e ne è orgoglioso, per il bene di questi tesori che possiede.
+
+Esistenza! Parlo, sapete, solo di uomini che hanno un cuore…
+
+Esprimendo le proprie emozioni con forza.
+
+
+
+“Oh!” esclamò Anne con impazienza, “Spero di riuscire a trasmettere correttamente tutto ciò che si prova, ”
+
+#Voi, e coloro che vi assomigliano… Che Dio mi scampi dal sottovalutarvi.
+
+“Le calde e fedeli emozioni di qualsiasi altro essere umano… Le condividerei volentieri!”
+
+# Meritano un disprezzo assoluto se osassi pensare che esista un vero attaccamento…
+
+“La costanza è qualcosa che solo le donne conoscono… No, credo tu sia capace di essa.”
+
+“Tutto ciò che è grande e bello nella vostra vita coniugale… Credo che siate all’altezza.”
+
+Ogni sforzo importante, e ogni forma di tolleranza nella vita domestica… per tutto il tempo necessario.
+
+“Se mi è permesso esprimermi in questo modo… purché tu abbia un obiettivo chiaro.”
+
+Nel frattempo, la donna che tu [[Love|ami]] vive, e vive per te. Tutto il resto.
+
+#Un privilegio che rivendico per il mio sesso… (non è certo un privilegio invidiabile…)
+
+(#Non c’è bisogno di invidiarlo; l’importante è amarlo per il più lungo tempo possibile, sia durante la vita… che dopo.)
+
+La [[Hope|>speranza]] è svanita.
+
+
+
+Non riuscì immediatamente a pronunciare altre parole; il suo cuore…
+
+Troppo piena, il suo respiro troppo soffocato.
+
+
+
+“Sei un'anima buona,” esclamò il Capitano Harville, mettendo una mano su di lei.
+
+Arm, con grande affetto. “Non c’è modo di discutere con te… E quando…”
+
+“Penso a Benwick… e non riesco a parlare.”
+
+
+
+L’attenzione di tutti fu attirata verso gli altri. La signora Croft stava…
+
+Andare via.
+
+
+
+“Ecco, Frederick, credo che qui sia il momento in cui noi due ci separiamo,” disse lei. “Io…”
+
+Andando a [[Home|casa]], e avendo un appuntamento con il tuo amico. Stasera noi.
+
+“Potrò avere il piacere di rivedervi tutti alla vostra festa”, disse, rivolgendosi a…
+
+“Abbiamo ricevuto la cartolina di tua sorella ieri, e ho capito… Frederick.”
+
+Avevo anche una carta, anche se non l’ho vista… E tu sei libero, ormai.
+
+“Frederick, non sei forse, come noi, nel pieno delle tue forze?”
+
+
+
+[[Captain Wentworth|Capitano Wentworth]] stava piegando una lettera con grande fretta, e forse.
+
+Non riusciva o non voleva rispondere completamente.
+
+
+
+“Sì,” disse lui, “assolutamente vero; qui ci separiamo, ma io e Harville continueremo…”
+
+“Presto sarò da te… cioè, Harville: se sei pronto, io sono quasi arrivato.”
+
+“Un attimo… So che non vi pentirete di assentarvi. Io sarò lì per voi.”
+
+“Servizio in mezzo minuto.”
+
+
+
+La signora Croft li lasciò, e il [[Captain Wentworth|Capitano Wentworth]], dopo aver sigillato la sua lettera.
+
+Con grande rapidità, fu davvero pronto… e anzi, con un certo affanno e agitazione.
+
+Titolo:  
+L’aria, che mostrava impazienza di andarsene… Anne non sapeva come fare.
+
+Capisco perfettamente. Lei ha detto con la massima gentilezza: “Buongiorno, che Dio ti benedica!”.
+
+Capitano Harville… ma da lui nessuna parola, né uno sguardo! Era già passato oltre.
+
+Uscì dalla stanza senza nemmeno guardarsi indietro!
+
+
+
+Tuttavia, le rimase solo un po' di [[Time|tempo]] per avvicinarsi al tavolo dove lui si trovava.
+
+# Mentre scrivevo, si sentirono dei passi che tornavano indietro; la porta si aprì…
+
+“Era proprio lui… Chiese scusa, ma aveva dimenticato i guanti.”
+
+# E in un istante attraversò la stanza per raggiungere la scrivania; estrasse quindi…
+
+#Lettera che spuntava da sotto i fogli sparsi… gliela porse davanti agli occhi di Anne.
+
+Con uno sguardo pieno di suppliche luminose fissato su di lei per un momento, raccolse rapidamente le sue cose.
+
+“Guanti… erano di nuovo fuori dalla stanza, quasi prima che la signora Musgrove se ne accorgesse.”
+
+Del fatto che fosse lì dentro: un’opera realizzata in un istante!
+
+
+
+La rivoluzione che in un istante aveva scatenato in Anne era quasi insopportabile…
+
+Espressione scritta su carta; la lettera, con una direzione a malapena leggibile, era indirizzata a “Signorina A.”
+
+“E.—”, evidentemente era quello che stava piegando con tanta fretta. Mentre…
+
+Si supponeva che scrivesse soltanto a [[Captain Benwick|Capitano Benwick]], ma in realtà aveva anche.
+
+#Parlando con lei! Tutto ciò che accadeva dipendeva dal contenuto di quella lettera.
+
+Il mondo avrebbe potuto offrirle qualunque cosa… Qualsiasi cosa fosse possibile, qualcosa che potesse essere sfidato.
+
+Piuttosto che suspense… La signora Musgrove aveva poche cose da organizzare per conto suo.
+
+Al proprio tavolo; per la propria protezione deve fidarsi di loro, e si abbandona…
+
+La sedia che aveva occupato, esattamente nel posto dove si era seduto prima…
+
+# Aveva chinato la testa e scritto; i suoi occhi fissavano attentamente le parole che seguivano…
+
+
+
+“Non riesco più a ascoltare in questo [[Silence|silenzio]]. Devo parlarti in qualche altro modo.”
+
+Tutti quelli che sono al mio raggiungimento. Tu penetri nella mia [[Soul|'anima]]. Sono metà agonia, metà [[Hope|>speranza]].
+
+Non ditemi che è troppo tardi, che sentimenti così preziosi siano ormai svaniti…
+
+Per sempre… Mi offro di nuovo a te con un cuore ancora più appartenente a te.
+
+# Mai come allora, otto anni e mezzo fa… Non osare nemmeno dirlo.
+
+Quell’uomo dimentica più in fretta della donna; il suo [[Love|amore]] ha una fine più precoce.
+
+# Solo te ho amato. Forse sono stato ingiusto, debole e pieno di rancore…
+
+Sono stato così in passato, ma mai incostante. Solo tu, [[Alone|solo tu]], mi hai portato a Bath. Perché.
+
+Tu, [[Alone|da solo]], pensi e pianifichi tutto. Non l’hai forse già visto? Puoi davvero fallire in questo?
+
+“Hanno compreso i miei desideri? Non ho nemmeno aspettato questi dieci giorni…”
+
+Ho letto i tuoi sentimenti, proprio come credo che tu abbia compreso i miei.
+
+#A malapena riesco a scrivere… In ogni momento sento qualcosa che sovrasta tutto il resto.
+
+“Me… Abbassi la voce, ma riesco comunque a distinguere i toni di quella voce.”
+
+Quando gli altri li avrebbero considerati perduti. Creature troppo buone, troppo straordinarie!
+
+# Ci fai davvero un grande onore… Credi davvero che esista un vero legame affettivo.
+
+# Fedeltà e costanza tra gli uomini… Credetemi: sono qualità davvero appassionate e profonde.
+
+#Inesorabile, senza deviazioni
+
+
+
+
+
+F. W.
+
+
+
+
+
+“Devo andare, incerto del mio destino; ma tornerò qui, o seguirò…”
+
+“La tua festa… il prima possibile. Una parola, uno sguardo… basteranno.”
+
+Decidi se entrerò nella casa di tuo padre stasera, o mai più.
 
 
 
@@ -33072,6 +36391,208 @@ engagement with Benwick.
 
 put myself in the way of happiness; I could exert myself; I could do
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Conoscenza del carattere reciproco, [[Truth|verità]] e affetto; una maggiore uguaglianza.
+
+Agire, quindi, diventa ancora più giustificato… E lì, mentre camminavano lentamente…
+
+# Ascesa graduale, ignora ogni gruppo intorno a sé, senza vedere nulla
+
+Politici che passeggiano tranquillamente, domestiche impegnate, ragazze che flirtano… né nulla di tutto ciò.
+
+Donne di servizio e bambini… potevano indulgere in quelle riflessioni.
+
+E ringraziamenti, soprattutto in quelle spiegazioni riguardanti ciò che era accaduto.
+
+Immediatamente preceduto dal momento presente… quei momenti così intensi e significativi…
+
+Interessante senza sosta… Tutte quelle piccole variazioni della scorsa settimana erano davvero intriganti.
+
+#Passato e presente… quasi indistinguibili.
+
+fine.
+
+
+
+Non si era sbagliata su di lui. L’[[Jealousy|invidia]] per il signor Elliot era stata la causa del suo ritardo.
+
+Peso, dubbio, tormento. Tutto ciò aveva già iniziato a influenzarlo profondamente.
+
+#L’ora del loro primo incontro a Bath… quell’immagine era tornata a galla, dopo un breve periodo di oblio.
+
+Titolo:  
+La sospensione… che avrebbe rovinato il concerto; e questo aveva influenzato le sue decisioni.
+
+Tutto ciò che aveva detto e fatto, o che aveva omesso di dire e fare, nell’ultimo periodo…
+
+Quarantadue ore… Gradualmente, tutto stava cedendo il posto al meglio.
+
+Speranze che, a volte, i suoi sguardi, le sue parole o le sue azioni incoraggiavano…
+
+Aveva finalmente ceduto a quei sentimenti e a quei toni…
+
+#Durante la conversazione con il Capitano Harville, quel messaggio gli era arrivato… e sotto…
+
+# Irresistibile controllo… di cui aveva afferrato un foglio di carta…
+
+Esprimette apertamente i suoi sentimenti.
+
+
+
+Di ciò che aveva scritto allora, nulla poteva essere ritratto o modificato.
+
+# Ha insistito nel dire di non aver amato mai nessun altro se non lei… Lei, però, non aveva mai creduto davvero a quelle parole.
+
+#Sostituito… Non credeva nemmeno di poterla eguagliare. Così tanto…
+
+Doveva ammettere che era stato costante.
+
+Inconsapevolmente, anzi senza alcuna intenzione: voleva davvero dimenticarla.
+
+E credeva che fosse finita lì… Si era immaginato indifferente, quando in realtà…
+
+Aveva semplicemente avuto ragione di essere arrabbiato; e aveva trattato in modo ingiusto i suoi meriti…
+
+#A vittima di loro… Il suo carattere era ormai segnato da ciò che gli era accaduto.
+
+# La mente come perfezione stessa, che mantiene il mezzo più bello…
+
+Coraggio e dolcezza… ma dovette ammettere che solo queste qualità contavano davvero.
+
+A Uppercross aveva imparato a renderle giustizia… e solo a Lyme aveva capito davvero cosa significasse.
+
+Iniziò a comprendere meglio se stesso. A Lyme, aveva ricevuto lezioni che lo aiutarono a farlo.
+
+Più di uno tipo… L’ammirazione fugace del signor Elliot aveva almeno suscitato…
+
+Lui, e le scene sul Cobb e da parte del Capitano Harville l’avevano colpita profondamente.
+
+superiorità.
+
+
+
+Nelle sue precedenti tentativi di avvicinarsi a Louisa Musgrove…
+
+Di fronte ai tentativi della sua furiosa [[Pride|orgoglio]], protestò dicendo di averlo sempre provato.
+
+È impossibile… Non gli importava, non potrebbe mai importargli nulla di Louisa.
+
+“Sebbene fino a quel giorno, fino al tempo di riflessione che ne seguì…”
+
+#Non aveva compreso la perfezione assoluta di quella mente con cui...
+
+“La perfezione di Louisa non potrebbe sopportare alcuna comparazione; il suo dominio è assolutamente ineguagliabile.”
+
+Aveva una maggiore padronanza di sé rispetto agli altri… Lì aveva imparato a distinguere tra…
+
+La fermezza dei principi e la testardaggine della [[Self|volontà]] propria, tra.
+
+# Iperboli dell’imprudenza e la risolutezza di una mente ferma.
+
+Aveva visto tutto ciò che poteva esaltare, ai suoi occhi, la donna che aveva…
+
+Perso. E allora iniziò a lamentare l’[[Pride|orgoglio]], la follia, la [[Madness|pazzia]] di.
+
+Rancore… un sentimento che lo aveva impedito di provare a riconquistarla quando venne separato da lei.
+
+A modo suo.
+
+
+
+Da quel momento in poi, la sua penitenza divenne estremamente rigorosa. Non appena…
+
+Libero dall’orrore e dal rimorso che accompagnano i primi giorni…
+
+# Il incidente di Louisa
+
+Aveva iniziato a sentirsi, sebbene vivo, non libero.
+
+
+
+“Ho scoperto,” disse, “che Harville mi considerava un uomo già impegnato in una relazione!”
+
+Né Harville né sua moglie nutrivano alcun [[Doubt|>dubbio]] riguardo alla nostra reciproca.
+
+# Collegamento… Ero sorpreso e scioccato. In un certo senso, avrei potuto dissentire…
+
+#Immediatamente; ma quando iniziai a riflettere che anche altri potessero farlo…
+
+Sentivo la stessa cosa: la mia famiglia… anzi, forse io stessa… non facevo più parte di tutto ciò.
+
+A mia completa disposizione. Ero suo per [[Honour|onore]], se lei lo desiderava. Io ero stato.
+
+Senza guardie… Non avevo mai riflettuto seriamente su questo argomento prima d’ora. Non l’avevo mai considerato attentamente.
+
+Non si è mai considerato che una tale intimità eccessiva potesse comportare dei rischi…
+
+Conseguenze in molti modi… E non avevo alcun diritto di provare a farlo.
+
+#Potrei legarmi a una qualsiasi delle due ragazze, rischiando però di…
+
+“Anche un rapporto sgradevole, se non ci fossero altri effetti negativi… Io avevo…”
+
+“Completamente sbagliato… e bisogna affrontarne le conseguenze.”
+
+
+
+Scoprì troppo tardi, in breve, di essersi impigliato in una situazione complicata… e che
+
+Esattamente nel momento in cui si rese completamente certo di non provare alcun interesse per Louisa…
+
+“Deve considerarsi legato a lei, se i suoi sentimenti per lui sono sinceri…”
+
+Erano proprio ciò che i Harville si aspettavano da lui. Questo lo spinse a lasciare Lyme…
+
+Aspettare il suo completo recupero altrove… Lui sarebbe felice di indebolirsi, in qualsiasi modo fosse necessario.
+
+# Metodi onesti, nonostante eventuali sentimenti o congetture al suo riguardo
+
+Esisteva… e così andò da suo fratello, intendendo dire che dopo un po’ sarebbe tornato.
+
+Tornare a Kellynch e agire secondo quanto le circostanze potessero richiedere.
+
+
+
+“Ero con Edward da sei settimane”, disse, “e lo vedevo felice. Riuscivo…”
+
+Non ho alcun altro piacere… Non me lo meritavo affatto. Ha chiesto notizie di te con molta curiosità.
+
+“In particolare… si chiede anche se tu stesso fossi cambiato personalmente, poco importa.”
+
+“Sospettando che, ai miei occhi, tu non potresti mai cambiare.”
+
+
+
+# Anne sorrise e lasciò perdere. Era un errore troppo piacevole da…
+
+#"Rimproveri… Qualcosa di cui una donna deve essere certa, nella sua vita."
+
+# Ottantaduesimo anno… e non ha perso nemmeno un briciolo del suo fascino di un tempo
+
+Giovinezza… ma il valore di tale omaggio aumentava in modo indescrivibile.
+
+#Anne… confrontandola con parole precedenti, e percependola come tale…
+
+Il risultato, e non la causa, del rinnovarsi del suo affetto caloroso.
+
+
+
+# Era rimasto nello Shropshire, lamentando la propria cecità…
+
+[[Pride|orgoglio]], e gli errori dei suoi stessi calcoli, fino a quando, all’improvviso, fu liberato.
+
+Titolo:  
+Dalla straordinaria e felice intelligenza di Louisa…
+
+L’impegno con Benwick.
+
+
+
+“Ecco,” disse, “qui finì la parte più difficile della mia situazione; almeno per il momento…”
+
+Mettermi sul cammino della felicità… Potrei impegnarmi di più, potrei fare di più.
 
 
 

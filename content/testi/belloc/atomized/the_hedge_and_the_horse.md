@@ -2713,6 +2713,56 @@ Meanwhile John Scott Guthrie, away in [[New York]], the boy’s uncle, was daily
 It is a very simple art, yet success therein is attained by very few, though it is for nearly all men their chief desire. All it requires in a man of fair intelligence is unremitting labour throughout every moment of the day from waking to sleeping, rigorous self-denial and intense concentration on the one task of acquisition by all and any means whatsoever. The mind must be filled with the one object of adding before evening to the wealth possessed at morning.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+M. H.
+
+I
+
+Il mondo è diviso, cioè, il mondo maschile è diviso; in ogni caso, il mondo maschile adulto, soprattutto quello dei più agiati, è diviso. Penso che questo non sia il modo giusto per iniziare un libro.
+
+Esattamente come eri.
+
+Il mondo è diviso in due Club. Uno di essi è molto più grande dell’altro. Il primo, di gran lunga il più vasto, è il Hedge Club. Il secondo, estremamente riservato ma stranamente potente, è il Horse Club.
+
+Lasciate che vi spieghi. In effetti, è davvero arrivato il momento giusto.
+
+Esiste un proverbio inglese, risalente ai tempi antichi in cui l’Inghilterra era davvero l’Inghilterra, piena di ladri di cavalli e mendicanti; dice: “Un uomo può rubare un cavallo, mentre un altro non oserebbe nemmeno guardare oltre una siepe”. Se questo esempio del genio nazionale è ormai dimenticato, mi fa piacere rievocarlo: è proprio il tema principale della mia storia.
+
+“Uno può rubare un cavallo, mentre un altro non riesce nemmeno a guardare oltre una siepe.”
+
+Con ciò intendiamo noi, i saggi, gli osservatori attenti, coloro che comprendono le profondità delle cose: il Destino è terribilmente ingiusto. Esiste un certo tipo di uomo che può fare qualsiasi cosa senza subire conseguenze negative. Per ogni tale uomo, ci sono centinaia di altre persone che vengono immediatamente incolpate non appena si muovono o parlano.
+
+Perché succede questo?
+
+Non lo so; né voi lo sapete. Penso che abbia a che fare con qualche donna che mangiava mele molto tempo fa in Mesopotamia. Comunque sia, eccolo lì, ed è proprio questo che costituisce metà della comicità di questo mondo.
+
+Dopo aver detto tutto questo, immagino che vi aspettiate che inizi a parlare di un uomo che non riusciva nemmeno ad attraversare una piccola siepe di alberi, e di un altro uomo che poteva rubare intere truppe di cavalli e condurle via a suo piacimento.
+
+Ti sbagli. Lasciamo che tutto questo aspetti e si sviluppi un po’ più avanti. Inizieremo osservando (se non ti dispiace) un tipo di persona completamente diverso: uno che non si è mai preoccupato di rubare cavalli, né ha mai pensato di spiare oltre le siepi, ma ha seguito sempre la strada giusta, quella più diretta e onesta. Dopotutto, questa è davvero la via da percorrere.
+
+Rassicuratevi: questo personaggio con il quale intendo iniziare – poiché è necessario per comprendere ciò che seguirà – interverrà solo per un breve periodo. Aveva già sessantacinque anni e dieci mesi; a quell’età, un uomo non ha più molto da dire o da fare.
+
+Si chiamava John Scott Guthrie. Viveva a [[New York]] e là era conosciuto molto bene, ma pochissimo realmente. Tutto il mondo lo chiamava con il soprannome di “John Scott”, e la ragione per cui tutti lo conoscevano con quel nome era la voce riguardante la sua immensa ricchezza. Quella storia si era diffusa ovunque, arricchita o ridotta in modo fantastico, come una gomma da masticare che viene tirata e poi schiacciata di nuovo. Uno tra i chiacchieroni lo stimava a cinquanta milioni di dollari; un altro, altrettanto ignorante e ozioso, giurava su informazioni dirette che John Scott fosse andato completamente in rovina nella sua ultima transazione.
+
+Tutti i ricchi di [[London|Londra]] desideravano incontrare quell’uomo misterioso di persona. La classe media lo venerava nei suoi deliziosi sobborghi. Anche i poveri ne avevano sentito parlare, e i politici di tutte le capitali europee speravano disperatamente in qualche fortuna improvvisa. Per i giovani spensierati, le sue storie erano solo uno scherzo; per gli anziani, invece, rappresentavano un vero e proprio tema religioso.
+
+Tali discorsi si erano moltiplicati giorno dopo giorno negli ultimi anni di vita di John Scott Guthrie; intanto lui non ne veniva a conoscenza e probabilmente non ci avrebbe prestato attenzione nemmeno se ne fosse stato informato. Non c’era mai stato uomo più isolato, o che si fosse volontariamente allontanato dal resto del mondo in modo così deciso. Era solido come un blocco di granito di Aberdeen, indifferente sia a coloro che lo conoscevano di vista che a quelli che ne sapevano solo il nome. In pochi, in realtà, lo conoscevano davvero, e per la maggior parte questi pochi ne soffrivano.
+
+Ora lasciate che vi racconti i fatti su John Scott Guthrie: questi sono sempre più utili delle leggende.
+
+John Scott Guthrie era l’unico figlio di un piccolo signore terriero (o laird, come mi è stato detto in quelle zone) al confine tra Inghilterra e Scozia; nacque nella casa di suo padre, situata sul versante scozzese. A causa di alcuni eventi avvenuti nella sua giovinezza, decise di tentare la fortuna negli Stati Uniti subito dopo la morte prematura di suo padre. La casa di famiglia, pesantemente ipotecata, fu venduta. All’età di ventiquattro anni partì per l’[[America]] con la sua parte dell’eredità, semplicemente perché gli era stata offerta un’opportunità a [[New York]], mentre in patria nessuna opportunità gli era stata presentata.
+
+Era un piccolo business, un'agenzia immobiliare, in cui suo padre aveva rischiato molto imprudentemente i propri soldi, su insistenza di un amico troppo ottimista. Avevano avuto successo una volta, con un progetto nel settore dei funghi che si era davvero sviluppato negli anni successivi. Poi avevano iniziato a rischiare ancora di più, investendo sempre più denaro. Il giovane John Scott Guthrie (che non conosceva ancora nulla del mondo, ma era straordinariamente preparato per affrontarlo) colse l’unica opportunità che gli si presentò. Partì coraggiosamente all’estero e approfittò di quella singola possibilità che aveva a disposizione.
+
+Sua unica sorella, dieci anni più giovane di lui, si era sposata piuttosto tardi, in modo normale e rispettabile. Suo marito era un geniere, proveniente dallo stesso ambiente sociale del suo; quasi un vicino, appena oltre il confine nel Northumberland. Apparteneva al gruppo dei “Straddles”, ed era ancora più povero di quanto fosse stato suo padre; tuttavia era un gentiluomo, un uomo intelligente, con alcuni amici influenti e rispettabili. Per questo motivo morì più povero di prima, e quando morì, tutto il poco denaro che gli rimaneva fu saggiamente investito dal suo curatore in un rendimento annuo: era infatti più importante educare loro figlio Wilfred e garantirsi una vecchiaia serena, piuttosto che cercare di vivere con i miseri introiti che quel capitale avrebbe potuto generare.
+
+Quindi il ragazzo andò alla scuola pubblica, come tutti gli altri, e poi all’università, come tutti gli altri. Eppure non aveva alcun futuro lì. Non possedeva i talenti che avrebbero potuto fargli distinguersi, né a scuola né all’Università di Oxford.
+
+Nel frattempo, John Scott Guthrie, lo zio del ragazzo che si trovava a [[New York]], seguiva quotidianamente e con impegno l’arte dell’accumulo.
+
+È un'arte molto semplice, eppure pochissimi riescono a raggiungere il successo in essa, nonostante sia il desiderio principale di quasi tutti gli uomini. Tutto ciò che serve da parte di una persona dotata di una certa intelligenza è un lavoro instancabile in ogni momento della giornata, dal risveglio al sonno, una rigorosa autodisciplina e una concentrazione assoluta su quell’unico obiettivo: accumulare ricchezze con qualsiasi mezzo possibile. La mente deve essere completamente dedicata a questo scopo: aumentare il proprio patrimonio entro la sera rispetto a quello posseduto al mattino.
+
 
 
 <span class="atom-split" data-atom="story_01_m_h--part_02" data-title="The Hedge and the Horse — M. H. (part 2)" data-chapter="M H" data-kind="excerpt" data-tags="setting/new_york"></span>
@@ -2747,6 +2797,36 @@ He thought it all out. It was incumbent upon him to see that the boy was provide
 John Scott, nearly sixty-six at the moment of his sister’s death, was forty years older than Wilfred, to whom he must now be everything or nothing. Of affection he felt none, save a sort of bond such as binds a man to his clan: of personal feeling, not a trace. He had had little love from his sister, whom, after all, he had but rarely seen and for brief moments in the course of his long life. Her son as an individual meant nothing to him. But his conception of duty — which included a hawklike pouncing on every chance of making money out of others — compelled him to see that this apparently feckless boy should not go under. After reading his chapter of the Bible — a thing he did every night of his life before he slept — he thought it out carefully in his room, alone, the night after the funeral, and determined upon his plan.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+John Scott Guthrie lavorava in due piccole stanze piuttosto squallide, situate in una zona remota della città di [[New York]]: la stanza anteriore e quella posteriore al primo piano di una casa trasandata, situata in una strada poco attraente; una delle stanze dava sulla strada stessa, l’altra si affacciava su un piccolo cortile ancora più squallido. Anno dopo anno, la porta sporca in cima a quelle scale buie recitava sempre lo stesso testo, ormai sbiadito: “GRIERSON & GUTHRIE, Agenti immobiliari”. Quando arrivò il momento di demolire quella vecchia baracca e sostituirla con uno di quegli enormi edifici che si ergono sulla roccia di Manhattan, John Scott Guthrie – ormai l’unico sopravvissuto dell’antica ditta – riuscì facilmente ad acquistare quel terreno così prezioso. Lo comprò, ma rifiutò di venderlo.
+
+Gli piaceva lavorare proprio come aveva sempre fatto in quelle due stanze squallide, ad accogliere i suoi clienti sfortunati. A quarant’anni era ormai diventato una leggenda; a cinquanta anni, un mito, una sorta di Dio nascosto.
+
+Per John Scott Guthrie, in queste stanze venivano conclusi uno dopo l’altro accordi commerciali. Di solito, l’accordo veniva raggiunto verbalmente dopo una breve discussione; solo successivamente veniva formalizzato dai suoi avvocati. Ogni di questi accordi lo rendeva più ricco alla fine della giornata rispetto al mattino precedente. Eppure John Scott Guthrie non speculava, come si potrebbe pensare fosse inevitabile per un uomo che si occupa di immobili. Già dai primi giorni delle sue attività nel Nuovo Mondo, aveva trovato un modo migliore: prestava denaro.
+
+Certo, l’immobiliare costituiva una garanzia, ma il margine di sicurezza era sempre sufficiente; inoltre, i prestiti venivano quasi sempre concessi a persone che avevano sopravvalutato le proprie possibilità future. Di tanto in tanto, alcuni prestiti venivano rimborsati, e in tal caso l’usura commessa veniva regolarmente registrata e accumulata. Molto più spesso, però, la garanzia passava al creditore. E quella garanzia, ricordate, era proprio l’immobiliare. La maggior parte di esso, inoltre, si trovava a Manhattan. E Manhattan, ai tempi di John Scott Guthrie, rappresentava sicuramente un’ottima opportunità finanziaria.
+
+E così andò avanti, anno dopo anno. John Scott non si sposò mai. La sua figura snella e alta rimase invariata. Il suo viso, dai tratti marcati, non perse mai la sua nettezza; i suoi capelli neri, con gli anni, divennero leggermente più radi, ma non apparve nemmeno un filo grigio.
+
+Era leale alle persone a lui care; manteneva una corrispondenza, sebbene non frequente, con sua sorella.
+
+La visitava durante i suoi rari ritorni in Europa (poiché mai si concedeva delle vacanze, ma solo quei pochi giorni che riteneva fossero necessari per adempiere ai propri doveri verso la propria famiglia). Aggiungeva, con regolarità e generosità, doni occasionali e capricciosi al suo scarno reddito. Scriveva a suo nipote, prima quando era alle scuole elementari e poi all’università, circa una volta ogni tre mesi. Dava, di tanto in tanto e senza eccessi, delle mance allo studente universitario e versava un piccolo stipendio al nipote finché questi risiedeva presso di lui. Manteneva con sua sorella e suo figlio esattamente quel tipo di rapporti che riteneva fossero necessari per adempiere ai propri doveri, e nient’altro.
+
+Quel nipote, Wilfred Straddle, dei Northumberland Straddles, aveva lasciato Oxford meno di sei anni prima che sua madre, sorella di John Scott, morisse.
+
+John Scott era stato avvisato della sua malattia e aveva quindi venuto da lei. Sul suo letto di morte, riuscì ancora a riconoscerlo quando arrivò. Fu così commosso che l’armatura che indossava per separarsi dagli altri esseri umani quasi si spezzò, ma non si spezzò davvero. Si concesse un breve momento per conoscere appieno quel ragazzo che ormai era l’unica sua famiglia. Rimase da noi meno di un mese, aiutandoci a sistemare le cose e preparandosi a fare ciò che aveva deciso di fare.
+
+Negli otto anni e mezzo trascorsi da quando aveva lasciato l’università, Wilfred Straddle non era riuscito a qualificarsi per nessuna professione. Continuava a vivere in modo ozioso nella casa di sua madre, affidandosi ai suoi scarsi mezzi; di tanto in tanto andava a far visita ad alcuni amici o ne riceveva. Il suo orizzonte si limitava alla piccola città del nord, ai campi circostanti e alle brughiere aperte, ai piccoli proprietari terrieri e agli uomini d’affari locali che conosceva appena. E tutto questo mentre la situazione economica continuava a peggiorare. Ora che sua madre stava morendo e l’indennità che riceveva con lei sarebbe finita, Wilfred si trovava di fronte a un futuro incerto. Senza dubbio, la colpa era sia di sua madre che sua: entrambi avevano dato per scontato che lui avrebbe ricevuto tutto ciò di cui aveva bisogno dopo la morte di lei.
+
+Durante tutti quei cinque anni, John Scott Guthrie non aveva mai menzionato nulla nelle sue lettere, né nemmeno durante le sue occasionali visite in Europa, riguardo al futuro di quel giovane. Dopo l’università, il cui costo considerava un investimento fondamentale, non inviò più alcun denaro. Sapeva molto bene cosa pensasse sua sorella, e c’era una delicatezza nascosta dietro la durezza del suo comportamento che gli impediva di esprimere ciò che provava. Perché, nel profondo del suo essere, credeva che un uomo che a vent’anni non svolgesse il proprio dovere in questo mondo fosse uno spreco umano. Ma se sua sorella non aveva suggerito alcun esame o apprendistato per Wilfred, non spettava a lui dare consigli al riguardo.
+
+Per confermare la sua valutazione, John Scott prese da parte il giovane e esaminò attentamente il suo corpo e il suo viso, con lo stesso sguardo attento che avrebbe usato nel valutare un debitore. L’ultima volta che era stato lì, quando sua sorella era ancora viva, Wilfred Guthrie Straddle era solo uno scolaro, piuttosto basso per la sua età e timido. Erano passati quasi dieci anni. Ora Wilfred Guthrie Straddle era un uomo, ma il suo viso era rimasto più o meno lo stesso: un volto inesperto, indeciso, abbastanza gentile, forse leggermente insoddisfatto, ma non troppo. I suoi capelli castani lisci erano divisi accuratamente al centro. L’intero viso sembrava esprimere una sorta di neutralità: nulla di particolarmente deciso o marcato. Non c’era traccia della determinazione tipica dei Guthrie. Era completamente un Straddle. E quindi era certo che, almeno, non avrebbero mai litigato. Quando si separarono, John Scott cadde in meditazione.
+
+Ci aveva pensato bene: era suo dovere assicurarsi che il ragazzo fosse provvisto di tutto ciò di cui aveva bisogno. Ma in quale misura e con quale scopo?
+
+John Scott, che aveva quasi sessantasei anni al momento della morte di sua sorella, era quaranta anni più vecchio di Wilfred; per lui, ora, Wilfred significava tutto o niente. Non provava alcun affetto per lui, se non un legame simile a quello che unisce un uomo al proprio clan: nessun sentimento personale, assolutamente nulla. Aveva ricevuto poco affetto da sua sorella, che, dopotutto, aveva visto raramente e solo per brevi momenti nel corso della sua lunga vita. Il figlio di lei non significava nulla per lui come individuo. Ma la sua concezione del dovere – che includeva l’approfittare di ogni opportunità per guadagnare denaro sugli altri – lo spinse a decidere che quel ragazzo apparentemente inutile non dovesse fallire. Dopo aver letto il suo brano della Bibbia, cosa che faceva ogni sera prima di addormentarsi, ne rifletté attentamente da solo nella sua stanza, la notte seguente il funerale, e decise quale fosse il piano da seguire.
+
 
 
 <span class="atom-split" data-atom="story_01_m_h--part_03" data-title="The Hedge and the Horse — M. H. (part 3)" data-chapter="M H" data-kind="excerpt" data-tags="histref/america,setting/america,setting/london,setting/new_york"></span>
@@ -2772,6 +2852,28 @@ First of all he told his nephew how matters would stand after his own death, whi
 
 In his heart John Scott intended to make it vastly more. He did not intend to leave the lad his fortune as a whole, or a quarter of it. There also his conception of duty came in. The mass of it should go to public uses. No young man was the better for such gigantic wealth. At any rate, he had in general planned that when John Scott Guthrie should come to be examined in some detail by his Maker on the Whole Duty of Man, Wilfred Guthrie Straddle (still on probation — though predestined one way or the other) should be in a position to bring up a family largely, and settle even many sons and daughters in what had of old been the Guthrie position of life. He had a picture in his mind of a substantial house growing up on the Border, such as the Guthrie blood was entitled to: of marriage, in this second generation, with other such affiliated houses.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli dava un sostanzioso mensile: cinquecento sterline al trimestre, e si accordava con i suoi agenti di [[London|Londra]] affinché venisse pagato esentamente da tasse. Era davvero una buona opportunità per un ragazzo che aveva vissuto in povertà e senza scopo, insieme a sua madre vedova in una piccola città del Northumberland, affidandosi soltanto alle poche centinaia di sterline derivanti da un’indennità annuale. Ma John Scott Guthrie aveva ponderato attentamente la situazione: non si trattava di una somma così elevata da rischiare che Wilfred venisse sfruttato in modo eccessivo; né avrebbe potuto indurire altri a attirarlo nel lussuoso mondo inglese, un ambiente del tutto inadatto a lui. John Scott, che conosceva quel mondo soltanto superficialmente e lo disprezzava profondamente, lo considerava un rifugio di ingiustizie. Tuttavia, quella somma sarebbe stata sufficiente per permettere a Wilfred di vivere comodamente insieme ai pochi amici dello stesso rango che aveva fatto all’università e con cui si incontrava di tanto in tanto dopo essersene trasferito lì. Avrebbe avuto stanze adeguatamente confortevoli a [[London|Londra]], il suo club, e una vita senza eccessi ma priva di difficoltà economiche.
+
+Qual tipo di disposizione potesse prendere nel suo testamento a favore del nipote, John Scott Guthrie ancora non lo sapeva. Avrebbe visto come si sarebbe sviluppato il ragazzo. Era in suo potere rendere quel giovane molto ricco dopo la sua morte; anche solo una piccola parte della sua crescente fortuna avrebbe rappresentato una somma considerevole. Ma nemmeno quale fosse questa percentuale aveva ancora deciso. Prima avrebbe messo Wilfred alla prova per vedere come si sarebbero sviluppate le cose. Quanto a includere il nipote nell’attività a [[New York]], l’idea lo ripugnava. Essere completamente solo, senza nessuno con cui condividere i propri segreti e i propri calcoli finanziari, significava per John Scott la vita o la morte. No: avrebbe dovuto garantire al nipote 2000 sterline all’anno, nette, esentasse da tasse, pagate trimestralmente, senza alcuna promessa né documento ufficiale. Più avanti avrebbero deciso cosa fare.
+
+John Scott, nel decidere di concedere quella generosa somma, era spinto, in modo meno consapevole, da un altro motivo: la gente avrebbe saputo che esisteva uno zio ricco in [[America]]. Quanto potesse essere ricco quell’zio, loro non lo sapevano, ma erano certi che qualcuno del genere esistesse. Avrebbero anche appreso il nome di quel ricco zio. E John Scott Guthrie era orgoglioso del proprio nome e dei propri antenati, come è giusto che sia per chi appartiene a queste famiglie delle regioni frontaliere. Non voleva che il nipote di un Guthrie si trovasse in imbarazzo, né che la gente potesse accusarlo, lui John Scott, di avarizia. Anche se, per loro, quel nome non significava nulla.
+
+Dopo molte esitazioni, decise di non porre alcuna condizione necessaria, nemmeno quella di studiare per ottenere il titolo legale. Abbandonare l’opportunità di predicare fu davvero difficile, ma affrontò la situazione senza eccezioni. Nessuna condizione, tranne una, e temeva che anche quella potesse rivelarsi troppo fastidiosa. Non voleva essere un tiranno, ma su questo punto era fermamente deciso, come può esserlo un uomo del suo tipo e della sua religione cupa. Chiamava quell’“Essere Malvagio” “Alcol”, una strana parola araba! Ma non conosceva alcun altro nome per indicarlo.
+
+John Scott Guthrie faceva parte di quella grande schiera di persone che parlavano inglese e lingue scandinave; per loro l’alcol rappresentava un vero demone, un assassino del corpo e dell’anima. Aveva visto più volte quell’“demone” all’opera: aveva assistito alla rovina e all’agonia che causava, e sebbene non ne avesse mai subito personalmente gli effetti negativi, la sola prospettiva di tali conseguenze per gli altri aveva influenzato profondamente la sua vita. Molti di coloro grazie ai quali era diventato ricco erano caduti nelle grinfie di quel demone ed erano stati distrutti dalle sue azioni malvagie. Odiava la debolezza e la decadenza che essa portava con sé ancora di più di quanto odiasse le cose ritenute malvagie dalla società, nonché le tragiche conseguenze di quella piaga: l’assoluta nullità fisica e morale in cui tutto finiva. Persino prima che la vittima venisse distrutta, quelle conseguenze lo disgustavano profondamente.
+
+Tutto ciò. Eppure esitava ad renderlo una condizione necessaria: perché, anche se aveva trascorso tutta la sua vita in esilio, era nato gentiluomo. Aveva da tempo dimenticato la differenza tra quel tipo di liquore e un altro, ma sapeva che nel mondo di suo nipote il vino veniva bevuto. Non faceva distinzioni tra un buon vino rosso e quella “spirito di patate” mortale proveniente da Amburgo.
+
+Quello che fece fu lanciare un appello. Trascorse quei pochi giorni in Europa per aiutare a sistemare gli affari di famiglia, passando molto tempo con il ragazzo. Gli spiegò quali erano i piani che aveva per il suo futuro. Ottenne così la sincera e profonda gratitudine di Wilfred Straddle. Gli fece comprendere l’importanza di avere una professione, anche se ormai doveva essere indipendente, e gli suggerì saggiamente di prepararsi al concorso per diventare avvocato. Sarebbe stato un modo per ottenere uno status sociale, e forse, in futuro, se si fossero sviluppate ulteriori capacità, anche una vera e propria occupazione. Ma non insistette troppo.
+
+Prima di salpare nuovamente per l’[[America]], John Scotty prese da parte il giovane Straddle e fece due cose, entrambe con una certa solennità.
+
+Prima di tutto, raccontò al nipote come sarebbero andate le cose dopo la sua morte, che, a quell’età, insisteva potesse avvenire in qualsiasi momento. Non gli disse nulla di preciso, né fornì alcuna cifra, nemmeno la più vaga, riguardo a quella enorme fortuna accumulata negli anni attraverso l’usura; ma lasciò intendere che, alla sua morte, al nipote sarebbe rimasto abbastanza denaro per garantirsi un reddito esente da tasse, almeno equivalente a quello che aveva ricevuto durante la vita dello zio.
+
+Nel suo cuore, John Scott intendeva fare molto di più. Non aveva intenzione di lasciare all’ ragazzo l’intera sua fortuna, né nemmeno un quarto di essa. In questo entrava anche la sua concezione del dovere: la maggior parte della ricchezza doveva essere destinata a scopi pubblici. Nessun giovane avrebbe tratto beneficio da una tale immensa fortuna. Comunque, aveva pianificato che, quando John Scott Guthrie fosse stato esaminato in modo approfondito dal “Creatore” riguardo al vero dovere di un uomo, Wilfred Guthrie Straddle (che era ancora in prova, sebbene destinato a prendere una certa direzione nella vita) avrebbe potuto mantenere una famiglia numerosa e permettere anche a molti dei suoi figli di vivere nel modo che un tempo era stato tipico della famiglia Guthrie. Aveva in mente l’immagine di una casa solida e dignitosa che sorgesse lungo il confine, degna del rango della famiglia Guthrie; immaginava anche matrimoni tra i membri di questa seconda generazione con altre famiglie simili.
 
 
 
@@ -2821,6 +2923,50 @@ His job was simple. He was to write a letter every week. It would be paid for at
 That was the bargain struck between them. It was terminable, of course, at any moment by the employer — and equally a matter of course that there was nothing in writing on the employer’s side, but very definite written pledges from the employee.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Sapere, in modo vago e generico, come rassicurare il ragazzo fu la sua prima incombenza quella mattina. La seconda incombenza era più difficile. Riguardava quel Demone. Non intendeva chiedere al nipote una promessa, ma divenne molto eloquente nel farlo. Quell’uomo di solito non mostrava emozioni, ma in quel momento ardeva di un fuoco contenuto ma intenso.
+
+“Vi supplico!” aveva detto, due volte, “Vi prego con tutto il cuore!”
+
+Quello che egli implorava non era una promessa che nessun vino dovesse passare attraverso la bocca piuttosto debole di quel giovane che stava lasciando, ma piuttosto un invito a stare attenti a quel terribile pericolo, proprio come si farebbe con una pestilenza dolorosa.
+
+“Vi colpisce alle spalle!” disse. “Vi colpisce di sorpresa, amico mio. È silenzioso, ve lo dico io. È come un serpente. Non vi renderete conto che è lì, eppure potrebbe esserci da anni. E poi colpisce.”
+
+Alla fine del suo discorso appassionato, Wilfred Straddle rispose in modo molto semplice.
+
+“Per me non significa molto, in un modo o nell’altro, zio. Non mi piace la birra e posso trascorrere settimane senza vino.”
+
+“E Sperrits?” chiese il finanziere con improvvisa energia.
+
+“Lo stesso vale per me,” disse Wilfred con un po’ di stanchezza. “Di tanto in tanto mi danno del liquore insieme al caffè, ma non lo voglio mai. Sei molto gentile con me, quindi è giusto che faccia qualcosa in cambio. E in realtà non è nemmeno molto difficile per me, visto che non mi interessa affatto.”
+
+“Volete dire, non toccherete quella roba?” chiese John Scott con incredulità, il suo viso cambiando completamente espressione.
+
+“Sì, zio, è proprio quello che intendo dire. Te lo assicuro, non è affatto un sacrificio, e so che ti piacerà.” Lo shock provato da John Scott fu così forte che per poco non scoppiò in una manifestazione aperta di affetto.
+
+“Non te ne pentirai mai, Willy”, disse. “Non te ne pentirai mai!”
+
+Non disse altro.
+
+Poi passarono a questioni che, per quell’anziano sincero, avevano un’importanza quasi paragonabile a quella sconfiggere il Demone: intendo dire, i dettagli relativi al denaro.
+
+John Scott si era preso tutte quelle premure. La vendita dei mobili era nelle mani giuste: voleva Wilfred tenersene qualcuno per le sue stanze a [[London|Londra]]? No? Beh, non importava. In quel breve ma intenso lasso di tempo tra il funerale di sua sorella e il suo ritorno agli affari a [[New York]] – senza di lui gli affari non avrebbero potuto andare avanti – John Scott Guthrie si rese rapidamente conto di una cosa: Wilfred Straddle non era fatto per quel genere di conflitti legati agli affari, che per John Scott rappresentavano il vero senso della vita. Sarebbe stato altrettanto inutile quanto sgradevole offrire a quel giovane qualsiasi opportunità da parte sua, dall’altra parte dell’Atlantico. Era meglio farlo diventare indipendente e basta. Per questo motivo John Scott aveva persino preso in mano lui stesso la gestione di quella banale questione della vendita di sedie e tavoli. Sapeva che, se fosse stato Wilfred a occuparsene, sarebbe stato truffato in modo scandaloso. Come gli diceva il suo cuore, sapeva che persino i piccoli commercianti di una cittadina inglese erano uomini più grandi di questo ultimo dei Guthrie, più grandi secondo l’unico vero criterio per giudicare la grandezza: l’accumulo di ricchezze.
+
+Era questo lo stato d’animo dell’uomo verso il nipote quando si erano salutati a Southampton; John Scott Guthrie, seduto deliberatamente da solo nella sua cabina mentre la nave lasciava il porto di Southampton, rifletteva sul futuro.
+
+Aveva lasciato le cose in ordine, senza alcun impegno legale alle spalle; l’assegno sarebbe stato pagato regolarmente. Non si poteva prevedere nulla. Non che vedesse traccia di dissipatezza in Wilfred, ma uomini del genere potevano facilmente cadere vittime di tentazioni se venivano messi in possesso di denaro troppo giovani. Non vedeva alcun disastro all’orizzonte; credeva che il ragazzo fosse probabilmente sincero nelle sue promesse, e gli era commovente la spontaneità di tali promesse. C’era però una cosa che temeva profondamente. E solo coloro che avevano personalmente affrontato quel “Demonio” potevano capire quanto lo temesse: temeva l’influenza altrui. Se Wilfred fosse diventato indipendente a [[London|Londra]], avrebbe potuto essere trascinato verso la rovina. E se ciò fosse accaduto, John Scott sapeva fin troppo bene su quale strada sarebbero scivolati gli anni che restavano. Addio all’impegno di fondare la famiglia Guthrie, alla casa lussuosa e alla stabilità della loro vita nelle colline del Border. E per quanto riguardava l’eredità. Provvedere a un uomo una volta che era stato catturato dal “Demonio” significava soltanto alimentare le fiamme dell’inferno.
+
+John Scott riteneva non solo sciocco ma anche peccaminoso lasciare senza sorveglianza un giovane per il quale avrebbe dovuto assumersi la responsabilità della sua vita. Avrebbe considerato altrettanto imprudente e peccaminoso spendere anche solo un penny sulla parola di un ragazzo dal volto incerto, la cui forza di volontà non aveva prove concrete e la cui tenacia non era stata ancora verificata.
+
+Ecco perché agì in quel modo. — Tra le altre cose che fece, nei suoi ultimi giorni in Inghilterra si assicurò che ci fosse qualcuno che gli riferisse sul comportamento del nipote dopo la sua morte. Sapeva come tenere per sé i propri affari; attraverso i suoi agenti su questo fronte fece sì che tutto venisse gestito nel modo giusto, senza che loro scoprissero chi fosse effettivamente il responsabile di tali controlli.
+
+L’uomo che alla fine assunse, dotato di ottime referenze e raccomandazioni verificate, era colui che aveva perso il suo ultimo lavoro come autista per via di ricatti, aveva scontato una pena detentiva ed era ben conosciuto dalla polizia; pertanto, ora guadagnava a malapena da vivere come cameriere sotto la protezione della polizia. Quest’uomo forniva informazioni alla polizia quando ne avevano bisogno, poiché questa era l’attività principale di persone del genere. E era anche disposto a fornire informazioni al suo nuovo datore di lavoro su queste attività secondarie.
+
+Il suo lavoro era semplice: doveva scrivere una lettera ogni settimana. Gli veniva pagato un compenso fisso tramite ordine postale al ritorno della lettera, e John Scott aveva accennato che avrebbe aumentato quella somma fissa ogni volta che una lettera contenesse informazioni di particolare valore per lui.
+
+Ecco l’accordo che avevano stipulato tra loro. Naturalmente, l’imprenditore poteva revocarlo in qualsiasi momento; altrettanto ovvio era il fatto che non esistessero documenti scritti da parte dell’imprenditore, mentre dall’impiegato provenivano impegni scritti molto chiari.
+
 
 
 <span class="atom-split" data-atom="story_01_m_h--part_05" data-title="The Hedge and the Horse — M. H. (part 5)" data-chapter="M H" data-kind="excerpt" data-tags="setting/london"></span>
@@ -2860,6 +3006,42 @@ The mere approach to Bill, as Wilfred Straddle stood outside the door ringing, h
 
 Ah! if ever there was a member of the Horse Club, it was William Robinson! No man could tell you how he lived. He could not have told you himself. He kept no accounts. He wrote now and then. He gambled, and had luck. He bought and sold things now and then. He was bold to take a private commission whenever he did another richer man a good turn; he would take a commission from both parties. He told people where to get their clothes and their wine and their top-boots. He discovered little places in the country and hotels abroad. He watched opportunities. He was not above piloting rich Anglo-Saxons through the world of [[London]] and accepting their gratitude, even settling beforehand how much the gratitude was to be. He would hang on cheerfully through weeks of howling void during which another would have sunk forever, and at the end of such a passage something would always turn up to put him in funds again — not out of debt of course — would he ever be that? — but he never bothered about it! At any rate, in funds; with cash in his pocket and able to pay something more on account, not only for his lodging, but for his clothes and all the rest of it.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quell’uomo utile si incaricò del compito. John Scott fece di tutto per assicurarsi che il ragazzo non venisse avvertito, evitando che scoprisse di essere sorvegliato. Qualche settimana sarebbe stata sufficiente; senza dubbio i rapporti sarebbero stati favorevoli e poi quelle attività avrebbero dovuto cessare. Naturalmente, se così non fosse stato.
+
+Questo era l’unico dubbio che turbava il milionario: per il resto, era felice di essere venuto, ancora più felice di tornare all’unica attività della sua vita.
+
+Per quanto riguarda Wilfred Straddle, solo nel treno in viaggio verso la città, e avendo davvero bisogno di qualcosa su cui appoggiarsi, decise di cercare quell’ancora solida “sostegno”: un amico che lo aveva accompagnato durante tutti i suoi quattro anni a Oxford, il suo esatto opposto e contrappeso: quel personaggio straordinariamente povero che gli Dei chiamavano Bill, ma che gli uomini comuni conoscevano come William Robinson.
+
+Con spalle larghe e alta statura, mentre Wilfred era basso, portava una testa grande e robusta coperta da capelli neri e ricci; rideva spesso, quasi sempre con un sorriso gioioso. Si vestiva in modo un po’ troppo vistoso e il suo sguardo trasmetteva una franchezza che non veniva mai meno, nonostante anni di stratagemmi e comportamenti strani. I suoi gesti erano ampi, il suo discorso deciso, la sua postura dignitosa. Questo era Bill.
+
+Si erano conosciuti come matricole a Oxford e avevano immediatamente legato. Nessuno sapeva chi fosse William Robinson; invece, tutti conoscevano Wilfred Straddle, perché aveva frequentato la scuola giusta ed era entrato nel college giusto, grazie a tutte quelle voci e presentazioni “sotterranee” che permettono a un giovane di condizione modesta ma sicura di farsi strada nel proprio ambiente accademico.
+
+Il motivo per cui si intesero immediatamente fu che ciascuno di loro si adattava perfettamente all’altro; in particolare, Straddle era estremamente timido nei primi giorni, mentre Robinson, anche se non aveva un centesimo, era estremamente sicuro di sé. Alcuni incolpavano Straddle per aver continuato a frequentare il suo amico, perché non posso negare che Robinson, essendo andato a St. Barnabas – che difficilmente si può considerare un’università di prim’ordine – fu presto conosciuto dai suoi coetanei come “Il pazzo di St. Barnabas”, mentre Straddle (che conobbe pochissime persone, mentre Robinson in un mese ne conobbe decine) era l’uomo meno eccentrico che ci fosse. Ma Robinson non lasciò mai Straddle indietro, e onestamente, Straddle si sentiva orgoglioso, o almeno soddisfatto, di avere Robinson come “palo di sostegno”. Quell’amicizia lo spinse persino ad infiltrarsi a St. Barnabas, un posto che gli studenti dell’università prestigiosa di Wilfred odiavano e disprezzavano. Non posso esprimermi in modo più forte di così.
+
+Quindi, Bill, era forse nella solitudine che Wilfred cercava qualcosa?
+
+II
+
+Torniamo ora al Cespuglio e al Cavallo.
+
+A questo punto avrete sicuramente appreso che Wilfred Straddle faceva parte del Hedge Club: un gruppo di persone che operavano nel mercato finanziario con strategie di hedging. Avrete senz’altro capito ciò che intendo dire.
+
+Non era ancora stato messo alla prova nella sua vita protetta, mentre Wilfred viveva sotto il tetto di sua madre; ma, con la stessa certezza con cui si sanno le cose, quando si trattava di sorvegliare i recinti, Wilfred Guthrie Straddle avrebbe sicuramente incontrato dei problemi. Era stato predestinato fin dall’inizio del mondo. Tra tutti i membri del Hedge Club, nessuno era un “Hedger” più radicato, naturale e convinto di Wilfred Straddle; in suo caso, il Destino collaborava con tutte le inclinazioni innate dell’uomo stesso.
+
+Wilfred Straddle non conosceva ancora questa sua natura ambigua e duplice. Più tardi avrebbe imparato a comprenderla; tuttavia anche allora ne ebbe una conoscenza solo parziale e imperfetta, e sotto un nome falso, chiamandola “Sfortuna”.
+
+Oggi, quando scese dal taxi e bussò alla porta delle stanze di William Robinson in Half Moon Street, la sua anima era in pace e il mondo gli sembrava sufficiente. Aveva esattamente seicentoventuno sterline, tre scellini e otto pence sul suo conto presso la filiale di Piccadilly della banca; la filiale locale nella vecchia città di Northumberland era stata il banco di sua madre, e prima ancora di suo padre. Suo zio aveva navigato poco prima di Lady Day, e il primo stipendio era stato pagato puntualmente.
+
+“William Robinson che vive in Half Moon Street?”, dici tu. “Ma non mi avevi detto che William Robinson era povero in canna? Non lo chiamavi forse ‘l’incarnazione stessa della povertà’, come se fosse la personificazione di quella grande divinità?” Half Moon Street si estende da Piccadilly fino all’essenza stessa di Mayfair. Gli uomini davvero ricchi ti diranno, con un sorriso sprezzante, quanto sia povera Jane al punto da non potersi permettere una casa per l’estate e di dover accontentarsi soltanto di alcune stanze in Half Moon Street. I figli più giovani, i cui fratelli maggiori sono troppo ricchi per vivere lì, parlano delle loro stanze in Half Moon Street con voce umile, come se non fosse nulla di particolarmente importante. Da tutti questi segni si può dire con certezza: “Half Moon Street non è certo un posto adatto a chi è povero!”
+
+Eppure Bill aveva delle stanze lì – anzi, stanze permanenti. Le manteneva da un trimestre all’altro e non fu mai licenziato. In effetti, sarebbe stato necessario un coraggio davvero notevole per avere il cuore di licenziare Bill. Ma sebbene ci fossero storie strane, non si presentò mai alcuna vera ragione per arrivare a tanto. Il conto veniva sempre saldato, prima o poi; in ogni caso, venivano pagati abbastanza soldi per permettergli di continuare a vivere lì. E se il proprietario dell’edificio era soddisfatto, allora lo era sicuramente anche Bill. Niente al mondo, né sulla terra né in cielo, né nell’inferno stesso, avrebbe potuto scuotere Bill.
+
+Il semplice fatto di avvicinarsi a Bill, mentre Wilfred Straddle stava fuori dalla porta e suonava il campanello, trasmetteva un’aura di potere e virtù nell’aria che Wilfred Straddle respirava.
+
+Ah! Se mai esistette un membro del Horse Club, quello era William Robinson! Nessuno avrebbe potuto spiegarti come viveva. Nemmeno lui stesso sarebbe stato in grado di farlo. Non teneva alcun conto delle sue spese; scriveva solo di tanto in tanto. Giocava d’azzardo e aveva fortuna; comprava e vendeva cose di quando in quando. Era disposto ad accettare commissioni private ogni volta che poteva fare un favore a qualche uomo più ricco. Accettava commissioni da entrambe le parti coinvolte. Consigliava alle persone dove acquistare abiti, vino e stivali; scopriva piccoli luoghi nel paese e hotel all’estero. Colse sempre ogni opportunità che gli si presentava. Non esitava nemmeno a guidare ricchi anglo-sassoni attraverso il mondo di [[London|Londra]] e ad accettare la loro gratitudine. Anzi, stabiliva persino in anticipo quanto dovesse essere quella gratitudine! Riusciva sempre a superare periodi difficili, durante i quali un altro sarebbe sicuramente crollato. Alla fine di quei momenti, qualcosa appariva sempre per riportarlo in condizioni finanziarie decenti. Non certo senza debiti, ovviamente. Ma non se ne preoccupava mai! Comunque sia, era sempre ben fornito di denaro: aveva contanti in tasca e poteva pagare in anticipo, non solo l’affitto, ma anche abiti e tutto il resto.
 
 
 
@@ -2949,6 +3131,90 @@ I had a friend here for years — gone to South Africa. Heard from him, Mrs. Cra
 Mrs. Cramp had not, and stood in awe of Mr. Robinson’s assurance. The last time she had seen her former lodger with Mr. Robinson there had been a scene. Mr. Robinson had been told things. He had been asked by Mrs. Cramp to refund his acquaintance’s defalcations, and had stoutly refused: “Was he the keeper of these half-bred Colonials?” he had indignantly asked. Mrs. Cramp ought to be grateful to have had her three months’ let through him! and Mrs. Cramp had wept.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La sua voce era forte e piena di soddisfazione; un tono e un modo di comportarsi perfettamente adatti alla sua posizione sociale e ai suoi abiti eleganti. I suoi compagni lo criticavano alle sue spalle, ma lo seguivano comunque obbedientemente. Il suo cuore era tanto buono quanto il suo appetito; e – cosa che rappresenta davvero la prova di una tale persona – sapeva bere con grande eleganza!
+
+Sì — un vero e proprio membro violento, perfetto e archetipico del Horse Club. Non sono sicuro che non lo raccomanderei per la presidenza di quell’organizzazione dinamica. Avrebbe potuto rubare tutti i cavalli presenti in tutti gli stalli di tutti gli allenatori d’Inghilterra, e nessuno avrebbe detto una parola. Nessuno si sarebbe chiesto chi fosse suo padre, o se ne avesse davvero uno. Questo era l’uomo che salutava Wilfred con la cordialità di un vento del sud-ovest, e subito dopo tirava fuori il sifone e il decanter necessari. Wilfred balbettò un po’.
+
+"No, Bill… Mi dispiace… Te lo spiegherò.”
+
+“Troppo presto?”, chiese Bill con gentilezza.
+
+“Oh, no… non è quello! Vedi, ho appena promesso a mio zio…”
+
+Bill considerò quella situazione uno di quegli incidenti comuni della vita, qualcosa di del tutto normale. Zio americano, molto ricco, il nipote promette e poi si impegna a non farlo più. Tutto andrà bene tra un giorno o due.
+
+Si preparò da solo il bicchiere, facendolo abbastanza forte; poi disse: “Ecco la luce!” e lo bevve d’un fiato. Dopodiché fece sedere Wilfred su una sedia troppo bassa e molto imbottita, si alzò davanti al camino, accese un sigaro – poiché fumava sempre – e iniziò a porre domande uno dopo l’altro.
+
+Il suo amico aveva trovato delle stanze? Dovrebbero cercarne altre? Quanto era disposto a pagare?
+
+“Non so quanto dovrei pagare,” disse il povero Wilfred. “Non capisco queste cose. Tu ne sai tutto tu. Quanto dovrei pagare?”
+
+“Cosa hai lì?” chiese Bill, in modo piuttosto brusco.
+
+“Circa, circa, oh, direi un centinaio al mese, anzi, di più, sai. Voglio dire, più o meno. Un po’ di più, ”
+
+Bill lo guardò con un pizzico di compassione, ma in modo molto gentile. Poi alzò lo sguardo verso il soffitto, come se vi vedesse delle figure scritte, e mormorò:
+
+“Capisco… Qualcosa tra i trenta e i quaranta al settimana.”
+
+“Non ci avevo mai pensato in quel modo, non in termini di settimane,” disse Wilfred, che non voleva continuare sull’argomento. “E in realtà non ho nemmeno detto tutto questo.”
+
+“Ah, non importa quello che hai detto! Caro mio, se affitti delle stanze avrai i conti saldati entro la settimana, a meno che non scegli un appartamento. Non prendere un appartamento.”
+
+“Ah, voglio fare quella scelta che costa meno…”
+
+“Benissimo, è più economico affittare stanze arredate. Inoltre, potresti trasferirti facilmente se le cose dovessero diventare troppo complicate. Ma non succederà, con una persona come te.”
+
+“No,” disse Wilfred, umilmente.
+
+“Beh, diciamo cinque dollari a settimana,” disse Bill. “È troppo, con quattro puoi ottenere quello che vuoi, ma meglio dire cinque. Vieni con me, dove sono i tuoi bagagli?”
+
+"L'ho lasciato alla stazione."
+
+“Beh, una volta scelti gli ambienti in cui iniziare, lo ordineremo. Andiamo fuori, prima di tutto pranziamo. Vi propongo il Birrell’s: non è affollato e diventa sempre migliore giorno dopo giorno.”
+
+Hanno pranzato. Hanno pranzato bene. È stato un peccato che Wilfred non abbia bevuto vino questi giorni, perché Bill aveva scelto qualcosa di davvero eccezionale. Era uno di quei pochi nella sua classe che sapevano cosa fosse il vino; anzi, ne sapeva molte cose. Il pranzo è stato lungo e sostanzioso, e Wilfred ha pagato.
+
+“Bene, ragazzo mio!” disse Bill, dopo aver bevuto il suo secondo liquore (che, per principio, era sempre diverso dal primo: la varietà è vita) e dopo essersi acceso un nuovo sigaro (non quello della sua scatola personale, ma uno preso da un armadio a rotelle che veniva portato apposta per lui, e Wilfred ne pagava il costo). Fu allora lui, e non il suo ospite, ad dare il segnale di andarsene.
+
+Se ne andarono subito, Bill che guidava, sia spiritualmente che fisicamente. Era come un cane che segue una traccia; era come una nave che si dirige verso una meta; era come un uccello che vola verso l’orizzonte. Perché Bill sapeva sempre esattamente cosa stesse facendo, cosa voleva e dove trovarlo.
+
+Bill condusse Wilfred attraverso il Green Park, da Birrell’s fino a Westminster; svoltò in una piccola strada vicino a Buckingham Gate, salì direttamente al piano di sopra con lo stesso passo deciso tipico di un vero cavaliere, bussò alla porta e, quando fu aperta da una vecchia donna austera, disse:
+
+“Signora Cramp, finalmente ho trovato qualcuno che prenderà in affitto le sue stanze!”
+
+Gli ringraziò molto gentilmente.
+
+“E non so perché dovrebbe essere così difficile lasciarle andare, signor Robinson,” disse lei. “Sono stanze belle. E tutti sanno che mi prendo cura bene dei miei ospiti. Ma in questi tempi c’è qualcosa che non va. È quello che chiamano la crisi, signor Robinson.”
+
+“Sì,” disse Bill. “Sempre lo chiamano così. Comunque, ora non ci preoccuperemo di questo. È il prezzo che mi hai detto, giusto?”
+
+“Beh, signor Robinson, per lei…”
+
+Bill fece l’occhiolino, senza che il suo amico se ne accorgesse. Fece quello che, nella mia giovinezza, si chiamava “l’altro occhio”; cioè l’occhio più vicino a Mrs. Cramp e più lontano da Hedger.
+
+“Va bene così,” disse di nuovo, intendendo: “Lo divideremo tra noi.”
+
+“Non ti dispiace guadagnare cinque ghinee a settimana?” chiese, rivolgendosi a Wilfred.
+
+La signora Cramp trattenne il fiato, sorpresa.
+
+“No, no, ” disse povero Wilfred. Gli importava davvero. Non che gli interessassero molto i soldi, ma dopotutto era stato proprio Bill a parlare di quattro sterline.
+
+“Molto bene – cinque ghinee a settimana,” disse Bill con entusiasmo.
+
+“Oh, grazie mille, signore!” disse la signora Cramp.
+
+Bill aveva già deciso che non avrebbe chiesto il denaro in piccole somme, ma che la gentile signora gli dovesse dare l’intera somma cinque settimane dopo, la prossima volta che si sarebbero visti, e così avrebbero messo fine alla questione.
+
+“Conosco questo posto, Willy,” disse a Straddle. “Non potreste trovare una camera da letto più confortevole, ” (e lo guidò verso di essa), “e il bagno è proprio accanto. È molto spazioso. Credo che questo faccia davvero la differenza, no? Inoltre, l’acqua è sempre molto calda, vero, signora Cramp? E si può godere anche di quella piccola giardina, ”
+
+# Ho avuto un amico qui per molti anni… È andato in Sudafrica. Ho avuto notizie di lui, signora Cramp?
+
+Mrs. Cramp had not, and stood in awe of Mr. Robinson’s assurance. The last time she had seen her former lodger with Mr. Robinson there had been a scene. Mr. Robinson had been told things. He had been asked by Mrs. Cramp to refund his acquaintance’s defalcations, and had stoutly refused: “Was he the keeper of these half-bred Colonials?” he had indignantly asked. Mrs. Cramp ought to be grateful to have had her three months’ let through him! and Mrs. Cramp had wept.
+
 
 
 <span class="atom-split" data-atom="story_01_m_h--part_07" data-title="The Hedge and the Horse — M. H. (part 7)" data-chapter="M H" data-kind="excerpt" data-tags="setting/london"></span>
@@ -3007,6 +3273,60 @@ They got out. Wilfred paid the cab, and they went in.
 He found himself in a room of a sort he had never seen before. It was long, rather narrow, but as high as two stories of an ordinary house. Where the ceiling of the first floor would have come there was a balcony running half-way round, reached by a fine carved open staircase in dark wood. The whole place was panelled, and great timbers made up the roof. It was so cunningly done (by Orpingtons, who are the best in Europe at that sort of thing) that one might have taken it for a medieval hall of some sort. It was the old chapel, converted again, and housing a long bar.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Beh, va bene così,” disse Bill. “Ti piace, vero, Willy?”
+
+“Sì, ” disse Wilfred, “, immagino di sì. Oh, va tutto bene!. Andiamo a prendere le mie cose?”
+
+“Oh no, loro se ne occuperanno. Tu te ne occuperai, vero, signora Cramp? Hai il biglietto del guardaroba?”
+
+Wilfred glielo consegnò.
+
+“Ha lasciato le sue cose alla stazione. Potresti chiamare un messaggero e prendere un taxi. Ora puoi andare a dormire, vero, Willy? Immagino che ceniamo insieme, ”
+
+“Oh sì, certo,” disse con entusiasmo il Cespuglio. Purtroppo devo dire che, nel profondo del suo cuore, il Cespuglio era estremamente grato al Cavallo. O meglio, all’Uomo a cavallo, se preferite i titoli completi.
+
+“Bene, allora!” E Bill allungò le braccia comodamente, sbadigliando, mostrando dei denti davvero belli; disse “Ciao-ciao!” alla signora Cramp, che per poco non fece una riverenza, tanto era commossa, e poi uscì di nuovo davanti al suo amico, senza nemmeno mettersi il cappello. Non ne aveva bisogno, visto che non se l’era tolto durante quell’incontro. Guardò l’orologio.
+
+“E ora, mia cara”, disse, “è arrivato il momento di bere.”
+
+“Di certo non sono ancora aperti,” disse Wilfred, che, ricordiamo, era originario del Northumberland e per il quale [[London|Londra]] fino ad allora era stata solo un’occasione occasionale di vederla. Bill rise allegramente, ma troppo forte.
+
+“Lì da dove vengo, sono sempre aperti!” disse.
+
+Chiamò un taxi e disse all’autista di portarlo al Pillbox.
+
+“Conosci quella casamatta?” disse Bill mentre guidavano.
+
+Wilfred scosse la testa. Quel nome non significava nulla per lui.
+
+“Beh, allora verrò a vedere come vi sistemate. Vi ospiterò io stesso. Tutti fanno parte del ‘Pillbox’, ad esempio Piggy.”
+
+“Sì, ma tu conosci tutti, mentre io no.”
+
+#"Non importa, ci riuscirai."
+
+La casamatta si trova a circa duecento metri da Park Lane. È una delle molte case riconvertite in un vecchio vicolo. Il suo precedente proprietario, da cui il fondatore Mr. Speider aveva acquistato la casa, era anch'egli stato sottoposto a una riconversione. Tre anni prima del proprio fallimento, aveva seguito le orme dell’attuale Chorepiscopos.
+
+Daniel, che era passato dalla chiesa tradizionale al Neon Ekklesiasticon, vide la sua bella cappella privata trasformarsi nel luogo di riunione dei membri del gruppo “Pills”.
+
+Mentre gli amici si dirigevano lì in taxi da Westminster, uno accanto all’altro in silenzio, Bill rifletteva su quanto quell’antico furfante di Cunnington fosse disposto a pagare per quel Corot, e su quanto lui stesso potesse far offrire un altro uomo. Si chiedeva anche se fosse più sicuro acquistarlo a proprio nome (senza soldi) o se fosse meglio fare da intermediario e intascare la commissione. Gli sarebbe piaciuto particolarmente prendersi gioco di Cunnington: tra tutte le persone di nobili origini e grande ricchezza che Bill conosceva – e ne conosceva davvero molte – odiava soprattutto quel vecchio furfante, anche se non era uno che si lasciasse facilmente prendere dalla rabbia. Ma proprio Cunnington era stato uno di coloro che avevano reso più evidente per Bill il divario sociale tra loro. Bill aveva una buona corazza, ma in un paio di occasioni Cunnington era riuscito a ferirlo profondamente. Quindi sarebbe stato davvero felice di ottenere quel Corot a un prezzo così basso. Dopotutto, quel vecchio idiota non sapeva cosa fosse meglio per sé. Lui, Bill, avrebbe potuto far sì che Joseph gestisse l’affare per conto di Cunnington, e poi avrebbero diviso i profitti a metà.
+
+Tali pensieri illuminarono l’anima immortale di Bill mentre passavano davanti al Palazzo lungo Constitution Hill, attraversando il carosello fino a Park Lane. Ma i pensieri del suo compagno erano diversi.
+
+Wilfred si chiedeva come diavolo dovesse affrontare quel mondo meraviglioso in cui Bill si comportava come un toro in una bottega di porcellane: rompeva un sacco di cose senza mai farsi male.
+
+Molte persone conoscevano il nome di Guthrie; molti avevano sentito parlare di John Scott. Ancora più persone venivano a conoscenza di lui ogni giorno, poiché l’ultima visita di John Scott in Inghilterra era stata riportata dai giornali, e gli autori delle rubriche sociali avevano trasformato la sua storia in un racconto interessante. Da quando i giornali di domenica avevano pubblicato il suo nome, esso era entrato nei cuori di molte madri di Mayfair le cui figlie erano destinate a sposarsi, nonché di cinquanta uomini della città che desideravano prendere in prestito denaro. Ogni uno di questi autori delle rubriche sociali aveva menzionato anche il nome di Wilfred insieme a quello di suo zio. Nessuno aveva effettivamente scritto la parola “erede”, ma avevano riportato molte altre informazioni: ad esempio, che John Scott non si era mai sposato; che aveva avuto solo una sorella, la signora Straddle, e che suo figlio era l’unico erede. Tutti questi dettagli rendevano i giornali qualcosa di davvero dignitoso, un modello per tutta Europa. Uno di questi autori affermava addirittura che Wilfred Straddle fosse in grado di bere una bottiglia e mezza intera come un vero uomo. E un altro lo definiva “il cavallo vincente”. Non meno di tre articoli iniziavano con le parole “Mi sono imbattuto in Wilfred Straddle nel parco, ” e gli autori avevano avuto dei problemi con i loro editori a causa di questa coincidenza.
+
+Mentre il taxi accelerava verso nord, Wilfred era solo vagamente consapevole di queste cose. Quel stesso giorno aveva comprato uno di quei giornali e ne era stato infastidito. Era contento di sapere che suo zio non si curava affatto dei giornali inglesi: non gli dicevano nulla di ciò che voleva sapere mentre si trovava in Inghilterra, e poteva ottenere tutte le informazioni di cui aveva bisogno ogni giorno, telefonando dall’altra parte dell’Atlantico.
+
+Wilfred Straddle era ancora immerso in un mare di congetture su come sarebbe stata quella nuova situazione quando avesse conosciuto tutte queste nuove persone (era assolutamente certo che Bill lo avrebbe trascinato nel mezzo di quel caos, eppure allo stesso tempo non vedeva l’ora di vivere quell’esperienza nuova), quando il taxi si fermò davanti al Pillbox, in una strada secondaria non lontana da Park Lane.
+
+Uscirono. Wilfred pagò la corsa dell’auto e poi entrarono.
+
+Si trovava in una stanza del genere che non aveva mai visto prima: era lunga, abbastanza stretta, ma alta quanto due piani di una casa normale. Al posto del soffitto del primo piano c'era un balcone che si estendeva per metà della stanza, raggiungibile tramite una bella scala intagliata in legno scuro. L'intera stanza era rivestita di pannelli, e il tetto era formato da grandi travi di legno. Era stato realizzato con tale maestria (da Orpingtons, i migliori d’Europa in quel genere di lavori) che si sarebbe potuto scambiare per un salone medievale. Era l’antica cappella, ristrutturata e adibita a bar lungo.
+
 
 
 <span class="atom-split" data-atom="story_01_m_h--part_08" data-title="The Hedge and the Horse — M. H. (part 8)" data-chapter="M H" data-kind="excerpt" data-tags="archetype/self_made_man,concept/deception,concept/greed_and_money,concept/class_conflict,concept/vulgarity,form/satire,form/novel,setting/london"></span>
@@ -3034,6 +3354,30 @@ The second Blackman, sitting for his private borough, a gloomy little hole calle
 
 The young therefore revered him and called him “Nigger” behind his back. His contemporaries and those only slightly junior to him liked him thoroughly and called him “Nigger” to his face — when they knew him well enough. He liked it. He had the intelligence to perceive that it was a pun upon the name of Blackman, and he was proud of that descent. Further, he had the face that went with it, a thin nose with a hook to it and a narrow chin. He has been rather hard hit by post-war taxes and by having to insure against the Death Duties.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Alla fine di questa stanza principale c'era una porta aperta; attraverso di essa Straddle poteva vedere tavoli preparati per il consumo di alcolici. Immaginò che ci fossero anche stanze dedicate ai giochi d'azzardo da qualche parte oltre quella porta, e aveva ragione. Ma questa prima stanza principale, così appariscente a prima vista, era utilizzata esattamente per lo scopo tipico di una stanza principale in luoghi del genere: quello di bere.
+
+Si potrebbe quindi pensare che Bill e Willy avrebbero iniziato con un drink. Ma c'era una buona ragione per cui questo non accadde: al momento, Bill aveva quasi nessun denaro con sé e voleva assolutamente conservare quello che gli restava. Fino a quando Willy non fosse stato eletto, sarebbe stato Bill ad occuparsi delle spese. Inoltre, gli disse sottovoce, in modo che nessuno potesse sentire, che le regole del “Pillbox” permettevano di far entrare degli estranei soltanto durante il momento effettivo dell’elezione, e che non era previsto che chiedessero o pagassero nulla prima che quella formalità fosse completata.
+
+L’elezione di qualsiasi gentiluomo o signora al “Pillbox” è curiosamente semplice, considerando la ricchezza di alcuni, lo status di molti altri e le diverse esperienze accumulate da ancora moltissimi; inoltre, ci sono nomi davvero notevoli tra i candidati. Esiste una sola regola: i candidati maschi devono essere in grado o avere la possibilità di spendere denaro, oppure di procurarselo tramite altre persone; le candidate, invece, devono appartenere tutti allo stesso gruppo sociale. Pertanto, l’appartenenza al “Pillbox” è molto ambita e comporta anche un certo riconoscimento sociale. La polizia ne trae vantaggio sia in tempo di pace che in tempo di guerra: in tempo di pace raccoglie tributi, mentre durante le retate ottiene promozioni; inoltre, nei periodi intermedi, può anche divertirsi indossando abiti civili. Quindi, posso dire che la polizia adora il “Pillbox”, così come il Coro, i “Bloods”, i “Receivers” e altre organizzazioni che ne fanno parte.
+
+La routine si svolge così: un membro propone il nome di un uomo o di una donna al gentiluomo che ha la responsabilità di quel luogo – non è il proprietario, ma soltanto il “sciacallo” del proprietario, ovvero il signor Speider, che nessuno vede, anche se possiede una stanza da qualche parte in quell’area. Ma il “sciacallo”, un rispettabile inglese di nome Worksop, assume tutta la responsabilità necessaria. Questo incarico rappresenta per lui uno sforzo non indifferente, e gli ha fatto sviluppare l’abitudine curiosa di muovere rapidamente lo sguardo da un lato all’altro senza muovere la testa; è lui a tenere d’occhio le cose, non voi o me. Quindi non sentirete più parlare di lui, se non per scoprire che Bill, in meno di mezzo minuto, ha riferito al signor Worksop, a voce troppo bassa perché qualcuno potesse sentirli, i dettagli delle pretese di Wilfred riguardo all’unica sorta di “grandezza” che interessa alle persone. E il signor Worksop, sapendo che Bill conosceva tutti, ha approfittato immediatamente dell’informazione. Wilfred ancora non lo sapeva, ma dopo quei brevi istanti è uscito da quella stanza diventando legalmente un membro del “Pillbox”, eletto secondo le regole stabilite.
+
+“E ora,” disse Bill, quando furono di nuovo in strada insieme, sotto l’oscurità della sera, “andiamo a mangiare. Ti manderanno la tessera di iscrizione domani o il giorno dopo. Penso che ti eleggeranno. Ne sono sicuro. Facciamo qualcosa velocemente prima di vestirci. Verrò con te; una volta pronta, possiamo tornare da me e poi andare a mangiare.”
+
+E tutto accadde esattamente come aveva predetto il profeta. La preda designata dal Hedge Club, che ben presto sarebbe diventata membro di un altro Club (non meno importante del Pillbox), tornò a Westminster, raccolse le sue cose, fece il bagno e si vestì, chiacchierando tutto il tempo con Bill nella stanza accanto; Bill, intanto, fumava felicemente uno dei sigari che aveva riempito la sua scatola “prima di partire” dal Pillbox. Poi tornarono a Half Moon Street, dove Bill si vestì. E mio Dio, quanto più elegantemente di Wilfred! Quanto era ben tagliato quel gilet bianco, e quanto spettacolari erano quei bottoncini che ne sostituivano i normali bottoni! E ancora più notevole era il lapis lazuli incastonato al centro della camicia.
+
+Fu ovviamente Bill a decidere dove dovessero andare. Questa volta sarebbe stata la casa di Garrod: si trattava di un posto un po’ fuori dal solito, ma comunque non meno adatto per essere parzialmente vuoto. Dopo, avrebbero visitato il “Cat’s Whiskers”. Tutto ciò che facevano veniva pagato, ma non da Bill. Quando tutto fu finito, Willy lasciò Bill in Half Moon Street e proseguì verso Westminster per andare a dormire. Il primo giorno della sua nuova vita era trascorso, e non a buon mercato: molto di più di cinque sterline, ma meno di dieci.
+
+# III
+
+I BLACKMANS esistono davvero. Sono una vera famiglia; sono stati effettivamente ricchi per quasi duecento anni e hanno posseduto terreni per tutto questo tempo. Il primo Blackman era un mercante di città che sposò la figlia del sindaco e, dopo aver raggiunto una certa età, si stabilì nel Norfolk come un nobile proprietario terriero, proprio in mezzo ai cavoli.
+
+Il secondo Blackman, che rappresentava nel Parlamento il suo piccolo distretto elettorale chiamato Merriden – naturalmente un baronetto – finì per essere elevato al rango di pari del regno. Il terzo Blackman, succedendo a suo padre nella carica di Lord Merriden, fece parte del primo governo guidato da Younger Pitt; quando fu espulso da quel governo per una incompetenza davvero sorprendente, ricevette comunque il titolo di conte come premio di consolazione. Il quarto Blackman, che da giovane aveva servito nell’esercito, non fece altro che arricchire ulteriormente ciò che già possedeva. I quinto e sesto Blackman entrarono e uscirono dai governi vittoriani, ricoprendo incarichi di governatori coloniali, direttori di varie aziende e altre cariche simili. Poi ci furono due fratelli senza figli. E infine arrivò l’attuale Lord Merriden: un uomo ben conservato, ormai avanti negli anni. Naturalmente aveva fatto parte del Parlamento per diversi collegi elettorali che la famiglia aveva ottenuto dopo la tragica perdita di Merriden a causa di uno dei progetti di riforma. E poi, una volta succeduto al titolo di suo padre, aveva condotto la vita tranquilla e rispettabile di un gentiluomo di campagna. Un ottimo tiratore, per di più.
+
+Pertanto, i giovani lo rispettavano molto, ma lo chiamavano “Nigger” alle sue spalle. I suoi contemporanei e quelli leggermente più giovani lo amavano davvero e lo chiamavano “Nigger” in faccia, quando lo conoscevano abbastanza bene. A lui piaceva. Aveva l’intelligenza sufficiente per capire che si trattava di un gioco di parole sul suo nome, Blackman, e ne andava fiero. Inoltre, aveva anche il viso adatto a quel nome: un naso sottile e curvo, e un mento stretto. Dopo la guerra, le tasse lo hanno colpito duramente, così come l’obbligo di pagare le tasse sulla morte.
 
 
 
@@ -3113,6 +3457,80 @@ And thus by words passing where we ourselves are not, our lives are moulded; for
 I think he should have been grateful to the Barnabas Bounder for the excitements that were to follow. We ought to be grateful, surely, for the downs as well as the ups. Both are movement; and all movement is fun. And Wilfred Straddle, like Ulysses, was to know many places and men, many adventures, and like Tristran, was to know, if not all joy and all sorrow, at any rate fair wads of each; for the rich mob was to mark him for its own, then, fickle as mobs are fickle, to cast him aside. You shall hear all about that, if God spares my life and reason to finish this book; and gives you the strength to read it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ecco tutto ciò che c’è da dire su di lui. Non sono così preoccupato per lui, quanto piuttosto per sua moglie, Lady Merriden. E lei, naturalmente, apparteneva alla famiglia Bandley.
+
+Detto questo, forse penserete che parlerò di Lady Merriden. Affatto. Non ancora. Dobbiamo invece passare ai Lodihams: i Lodihams del Sud sono ancora più reali dei Blackmans. C’è stato un certo Lodiham che parlava e pensava in francese a metà del XV secolo, e che viveva a Lodiham, lontano dai luoghi delle battaglie. Nessuno può dirvi chi sia venuto prima di lui, ma sicuramente era presente a Lodiham durante le Guerre delle Rose; i suoi discendenti sono quindi orgogliosi di dire che vivono a Lodiham da secoli, anche se, in realtà, il loro soggiorno lì è abbastanza lungo. Si tratta davvero di una discendenza legittima: non esattamente da padre a figlio, ma comunque sempre da suocero a genero. Sono felice di dire che hanno avuto successo nella vita. Hanno persino avuto il coraggio di dare il proprio nome al titolo nobiliare, in modo che titolo e nome siano la stessa cosa.
+
+Stranamente, nonostante siano molto più anziani dei Merridens, sono in realtà molto più ricchi, il che dice molto: sebbene siano stati piuttosto colpiti dalle tasse del dopoguerra e dall’obbligo di pagare le tasse sulla morte. Inoltre, occupano una posizione sociale superiore. Oggi la famiglia Lodiham è un po’ più antica della famiglia Blackman; si conoscono bene a vicenda, e anche le loro mogli si conoscono ancora meglio. Del resto, c’è naturalmente una Lady, o, come direbbero i coloni, una Marchesa di Lodiham.
+
+Dovrei aggiungere che entrambe le signore hanno figlie in età da sposarsi. La signora Lodiham ne ha due; riceveranno una dote piuttosto confortevole, ma nulla di eccessivo. La signora Merriden ne ha una sola.
+
+Purtroppo, lei non avrà molto. Il vecchio Nigger è troppo determinato nel voler lasciare a suo figlio tutto ciò che sia degno di essere tramandato. Non morirà di fame, povera ragazza. Ma le conviene sposarsi bene, perché il tempo passa. Sua madre ha dovuto lottare per lei come una tigre.
+
+Ora che conoscete queste due signore, possiamo iniziare. Le vedrete camminare con grande grazia: queste due anziane donne ben curate. Almeno i nostri padri le avrebbero definite anziane, e i nostri padri erano più onesti di noi. Camminavano davvero con grazia, considerandosi due dee: una portava con sé un cagnolino, l’altra no. Avevano già appetito per pranzo. E Lady Merriden, dall’altro lato del gruppo, mormorava con lo sguardo abbassato.
+
+“Milioni, carissima… Letteralmente milioni!”
+
+“Quello te l’ha dato Robinson,” disse Lady Lodiham, gesticolando con le dita.
+
+“Penso che sia abbastanza vero,” sospirò il suo compagno.
+
+Quello che la signora Merriden riteneva vero non era affatto una delle antiche dottrine della fede cristiana, né alcun scandalo riguardante il suo stesso sesso, ma le prospettive future di Wilfred Straddle.
+
+“Ma quell’uomo è davvero insopportabile!” sospirò la sua compagna, permettendo che un’espressione rompesse per un momento la fredda indifferenza del suo volto. “Non capisco perché la vecchia duchessa lo inviti sempre a St. Bennet’s.”
+
+Non era il povero caro Wilfred che lei chiamava un “bounder”; nessuno avrebbe potuto definirlo così. Era Bill. Perché Bill era stato l’informatore della sua compagna. Bill aveva diffuso la notizia su Wilfred e i milioni di John Scott.
+
+“Non capisco cosa c’entri il fatto che Bill sia un mascalzone con dire la verità. Nessuno mente come un gentiluomo. Anzi, la maggior parte dei mascalzoni che conosco dicono la verità, se ci pensi bene. Guarda quel tizio italiano, ”
+
+“Sì, dice la verità… povero caro. Ma dopotutto, è uno straniero.”
+
+“Ora Bill dice la verità: riguardo al fatto che sia sempre stato a St. Bennet’s, si tratta di Antigua.”
+
+“È abbastanza grande per sapere cosa è giusto,” disse Lady Lodiham. “La Duchessa ha più di settant’anni. Antigua deve avere circa trentasette anni.”
+
+“Sì, è un sapore strano, tipico di Antigua. Ma ormai queste cose non contano più. Guarda Booboo e il suo sceicco! Inoltre, devono fare ciò che Antigua ordina loro a St. Bennet’s, soprattutto quella vecchia donna. Antigua ha dominato sua madre per anni, e anche la duchessa è sotto il suo controllo.”
+
+“D’accordo – supponiamo che questo tizio di Robinson Island stia dicendo la verità. A cosa si riduce tutto ciò, allora?”
+
+“Non è solo Bill,” insistette Lady Merriden, mettendo l’accento su Bill. “Qualche giorno fa c’è stato un uomo proveniente dagli Stati Uniti. Lui è proprio coinvolto nelle vicende che stanno accadendo in città.”
+
+“Cosa intendi per ‘centro città’?”
+
+“Non lo so. Significa qualcosa legato agli affari, in qualche modo. Lui conosce tutte le persone coinvolte in accordi commerciali, fusioni o qualsiasi altra attività del genere. Ha raccontato un sacco di storie su questo vecchio Guthrie. È abbastanza certo che Wilfred Straddle, che Bill ha portato a pranzo a casa mia l’altro giorno, sia suo nipote. E non solo: è l’unica persona con cui ha legami di sangue. Sua madre era una Guthrie, sai.”
+
+“Non lo sapevo,” disse la marchesa senza entusiasmo.
+
+“Ha milioni,” annunciò la Contessa con decisione, fermandosi di colpo nel suo passo tranquillo per rendere più solenne quella rivelazione.
+
+“Chi?” — la marchesa rimase sorpresa e si fermò di colpo. “Non quel giovane Straddle, vero?”
+
+"No, no! Lo zio… Milioni!"
+
+“Dollari?”
+
+“Nessun peso.”
+
+“Non ci credo. Almeno, vorrei vederli con i miei occhi. La gente dice sempre queste cose, ”
+
+Dopotutto, le persone in posti come Wall Street o il centro della città, o comunque si chiamino, conoscono questo genere di cose, proprio come qui nella nostra città.
+
+Lady Merriden aveva di nuovo ragione. Lei possedeva un giudizio più saggio dei due. Quando si trattava di una competizione tra loro per ottenere qualcosa di molto importante, le sue probabilità di vincita erano considerate scarse.
+
+“Devi portarlo da me per fargli cambiare idea.”
+
+“Lady Merriden annuì. ‘Lo farò. Quando?’”
+
+Si fermò di nuovo, aprì la sua piccola borsa (di davvero ottimo gusto), ne tirò fuori un libretto minuscolo e continuò: “Martedì, tè?”
+
+“Delizioso,” disse Lady Lodiham, annuendo.
+
+E così, attraverso parole che provengono da luoghi in cui noi stessi non siamo presenti, le nostre vite vengono plasmate; perché proprio quella breve conversazione nel Parco fu ciò che spinse Wilfred Straddle sulla sua strada incerta e instabile.
+
+Penso che avrebbe dovuto essere grato a Barnabas Bounder per le emozioni che ne sarebbero derivate. Dovremmo essere grati, sicuramente, sia per i momenti positivi che per quelli negativi: entrambi rappresentano forme di “movimento”, e ogni forma di movimento è divertente. Wilfred Straddle, proprio come Ulisse, avrebbe conosciuto molti posti, molte persone e molte avventure; e, proprio come Tristano, avrebbe sperimentato, se non tutta la gioia e tutto il dolore, almeno una grande quantità di entrambi. Perché quella folla ricca lo avrebbe considerato uno dei suoi, per poi, com’è tipico delle folle, abbandonarlo. Sentirete tutto questo, se Dio mi risparmierà la vita e la ragione per completare questo libro. E se vi darà la forza di leggerlo.
+
 
 
 <span class="atom-split" data-atom="story_01_m_h--part_10" data-title="The Hedge and the Horse — M. H. (part 10)" data-chapter="M H" data-kind="excerpt" data-tags="setting/london,setting/new_york"></span>
@@ -3151,6 +3569,40 @@ They were on into May, and the season had fairly begun. The Young Gentleman was 
 One particularly vivid passage drew an extra order for forty shillings, and a postscript asking for particular details. In the next week (which was the middle of May) Mr. Willis had not the good fortune to be present in person at the big bachelor dinner which was given to young Bobby Curll in condolence on his coming marriage, but Mr. Willis could tell well enough what had happened, without being actually present, for the fun was enormous and the casualties remarkable. He counted seven helped out, two actually carried out to cabs, and a multitude getting into cabs with more or less difficulty. It had been a night: and Mr. Willis loitering in the street outside, made no doubt at all that one of the casualties had been the Young Gentleman. The thing was thoroughly described, and should be worth at least an extra tip of three quid. He even hoped for five.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+IV
+
+L’informatore di John Scott – forse sarebbe più corretto chiamarlo collaboratore – possedeva un senso del dovere altrettanto forte di quello stesso John Scott. Ancora più importante è il fatto che questo senso del dovere era legato, quasi allo stesso grado, alla ricerca di denaro quanto lo fosse per John Scott. Ecco perché questo informatore, che per ora chiameremo signor Willis – anche se si tratta soltanto dell’ultimo dei quindici o sedici nomi che ha adottato, seguendo la moderna abitudine di cambiarli spesso – viaggiava con assiduità giorno dopo giorno, seguendo le tracce del innocente Wilfred, che in genere coincidevano anche con quelle di William Robinson, meno innocente ma certo più affidabile. Ogni settimana inviava il suo rapporto a [[New York]], registrando tutto esattamente come gli era stato ordinato.
+
+Nella prima settimana non c’era molto da raccontare. Wilfred Straddle era apparentemente diventato un membro del “Pillbox”. Il signor Willis, avvalendosi della potente protezione della polizia (ricordate, era stato reclutato dalle migliori agenzie private), a sua volta non divenne un membro del “Pillbox”, ma ne divenne il cameriere.
+
+Finora non erano sorti alcun problema. L’informatore riferì che il signor Straddle – chiamato nelle sue lettere “Il Giovane Gentiluomo”, un appellativo piuttosto vago – beveva quanto gli altri, non ballava e non giocava a carte; sebbene una volta avesse scommesso qualcosa per bere.
+
+Finora tutto va bene. Quello che il signor Willis non ha detto, perché non lo riteneva importante, è che quel gentiluomo aveva bevuto solo bevande analcoliche, mentre intorno a lui tutti bevevano alcolici; e sappiamo tutti che i pesci bevono alcolici o niente affatto.
+
+Quando John Scott ricevette quella lettera, sospirò. Non sospirò amaramente, ma sospirò tristemente.
+
+Era proprio quello che pensava! Dopotutto, non era certo da aspettarsi che quel giovane riuscisse a mantenere una promessa del genere mentre si trovava in mezzo ad altri giovani simili a lui. Eppure, questo fatto piantò nel cuore di quel vecchio usuraio un seme di disprezzo per Wilfred. Non era abituato a vedere gli uomini comportarsi diversamente da come fanno i malviventi o parlare diversamente da come dicono le menzogne. Considerava questa la norma per tutta l’umanità. Ma c’era qualcosa di ingenuo, e in un certo senso di “innaturale giovinezza”, nel carattere di suo nipote; sembrava infatti far parte integrante della sua personalità stessa. Poiché l’incompetenza spesso va di pari passo con l’innocenza, anche se difficilmente con la virtù vera e propria.
+
+John Scott sospirò quando ricevette questa prima lettera, ma non fece altro al riguardo.
+
+Tuttavia, il seme, una volta piantato, crebbe. Lui non provava alcun vero interesse per nulla se non per i numeri: i numeri dei suoi conti e il loro aumento. Da giovane, nella sua mente non c'era mai stata alcuna attività intensa, tranne che per “Il Gioco”. Per lui, “Il Gioco” significava aspettare il momento giusto, scegliere la vittima perfetta, calcolare con precisione le probabilità (e raramente sbagliava), e poi colpire nel momento opportuno. In quei giorni, mentre trascorrevano a [[New York]], dove il tempo cambiava continuamente da artico a mite e poi di nuovo ad artico, aveva abbastanza occasioni per giocare a “Il Gioco”. Entro cinque giorni dal ricevimento della prima lettera, aveva già ottenuto due grandi successi.
+
+La seconda lettera conteneva un po’ più di “materia”. Sembrava che Wilfred Guthrie Straddle stesse per entrare nel mondo. Il signor Willis lo aveva visto dall’altra parte della strada mentre entrava nella Lodiham House; era stato portato lì in macchina da Lady Merriden. Il signor Willis era certo di queste informazioni: le aveva ottenute dal autista per mezzo scellino (che nei registri appariva come cinque scellini. E, considerando la differenza nel valore del denaro tra [[New York]] e [[London|Londra]], era più che giusto).
+
+Il signor Willis riferì inoltre che il giovane gentiluomo era andato due volte a settimana in un’altra casa, una che non si chiamava Merriden House, poiché veniva soltanto affittata, ma era proprio quella dove la famiglia Merriden risiedeva a [[London|Londra]]. Wilfred vi era andato a pranzo e, quattro giorni dopo, anche a cena. Il signor Willis non aveva avuto il tempo di ottenere l’accesso alla casa, ma uno dei domestici gli assicurò che, per quanto ne sapeva, il giovane gentiluomo aveva accettato tutto ciò che gli era stato offerto. E perché no? Inoltre, il giovane gentiluomo era andato anche due volte a teatro. Così fu inviata quella seconda lettera. Ricevette in risposta il pagamento previsto, ma nessun ulteriore contributo.
+
+Una notte, il signor Willis entrò nell’Hotel Croesus. Con la solita protezione della polizia, gli fu assegnato un bel tavolino vicino a uno dei grandi pilastri all’ingresso. Vide il giovane gentiluomo circondato da molta allegria; al quel tavolo, il signor Willis notò una, e pensò addirittura due, delle dame che facevano parte del coro dell’opera in cui aveva già visto quel gentiluomo. Senza dubbio tutti si stavano divertendo molto, soprattutto l’amico del giovane gentiluomo, il signor Robinson. E poi, dato che circa sei persone arrivarono lì portando con sé ben dieci bottiglie di champagne in secchi gelidi (di quelli che fanno raffreddare il vino), il signor Willis pensò di poter dire con ragione che si stavano divertendo un mondo. Ma mentì quando affermò che il giovane gentiluomo bevesse insieme agli altri.
+
+Quella stessa sera ci fu una rissa e qualcuno cadde giù per le scale. Non era il povero Wilfred. Il signor Willis non riuscì a vedere chi fosse, perché c'era una folla tra lui e il luogo dell'accaduto, ma pensò che probabilmente si trattasse del Giovane Gentiluomo; quindi questo fatto andò a suo credito.
+
+La conferma di quella lettera comportava anche un ordine aggiuntivo per una sterlina britannica (4,94 dollari al tasso attuale di cambio), che il signor Willis accettò con notevole soddisfazione. Ora aveva scoperto quale fosse la ragione per cui veniva richiesto denaro in cambio dell’accesso; quindi, nella sua prossima lettera, non si trattenne più.
+
+Erano già a maggio e la stagione era appena iniziata. Il Giovane Gentiluomo era ovunque. Quella notizia sembrava abbastanza vera. Ciò che invece risultava meno vero, sempre di meno vero con ogni lettera successiva, era la descrizione di una vita dissoluta da parte del Giovane Gentiluomo.
+
+Un passaggio particolarmente vivido spinse qualcuno a ordinare altri quaranta scellini, oltre a un postscripto in cui si chiedevano dettagli specifici. Nella settimana successiva (che era la metà di maggio), il signor Willis non ebbe la fortuna di essere presente personalmente alla grande cena organizzata per il giovane Bobby Curll, in segno di cordoglio per il suo imminente matrimonio; tuttavia riuscì a farsi un’idea abbastanza chiara di ciò che era accaduto, anche senza esserci stato. L’atmosfera era davvero divertente, e i “danni collaterali”, beh, erano notevoli. Contò sette persone che avevano bisogno di aiuto, due che furono effettivamente accompagnate fino alle auto, e molte altre che riuscirono a salire sulle auto con maggiore o minore difficoltà. Era stata una serata. E il signor Willis, che se ne stava ad aspettare in strada, non ebbe alcun dubbio che uno dei “danni collaterali” fosse proprio quel giovane gentiluomo. Il tutto fu descritto in modo molto dettagliato; quindi meritava sicuramente un’altra mancia, di almeno tre sterline. Anzi, il signor Willis sperava addirittura in cinque sterline.
+
 
 
 <span class="atom-split" data-atom="story_01_m_h--part_11" data-title="The Hedge and the Horse — M. H. (part 11)" data-chapter="M H" data-kind="excerpt" data-tags="setting/london,setting/new_york"></span>
@@ -3184,6 +3636,36 @@ Willy, before it was half-past two, was longing to get away, dodging about aimle
 
 He had borrowed the usual fiver — it had gone like a paper bag in a blast furnace — and manful as he was in meeting all challenges from the Demon, Bill was showing signs of excess. He was grown mottled and sweaty, and he stumbled in his speech. He had come up unsteadily to Willy for new supplies, and his condition confirmed the loyalty of the Hedgers — for Hedgers are more often loyal than not. No — Willy could not bear to leave Bill without aid. He saw what would happen. He would have at last to see Bill home. Loyalty demanded it. But loyalty, like every virtue, was going to impose its damnable price.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+A sua sorpresa, ciò che ricevette fu soltanto un assegno con l’importo della sua paga settimanale, e nient’altro; inoltre gli fu comunicato in modo perentorio che non sarebbe stato richiesto nulla di più da lui.
+
+John Scott ne aveva abbastanza. Quel giovane era un dissipatore. Anzi, peggio di un dissipatore: era un bugiardo. E ancora peggiore di un bugiardo, perché proprio in quelle settimane aveva scritto due volte al suo protettore e zio, assicurandogli che aveva mantenuto la promessa fatta; diceva di non voler più parlare dell’argomento, perché in realtà non era importante. Non si trattava certo di un sacrificio. Raccontava con aria allegra come trascorresse il suo tempo a [[London|Londra]], dicendo di aver iniziato a conoscere nuove persone; forniva informazioni insignificanti, tipo il fatto che non riuscisse mai a giocare a biliardo correttamente, o che, sebbene tutti giocassero a bridge e lui avesse provato ad imparare, le carte lo annoiavano. Raccontava anche del tempo. Gli diceva dove si trovavano le sue stanze a Westminster, parlava di quel vecchio e rinomato club Doulton’s, al quale era entrato grazie a un favore speciale previsto dalla Regola 6. Sperava sinceramente che suo zio venisse presto a trovarlo di nuovo. E così via. Ma in tutto questo racconto aveva commesso un grave errore: non aveva menzionato affatto la Pillbox.
+
+Difficilmente posso biasimarlo. Dopotutto, il “Pillbox” non era certo un club, e suo zio non avrebbe mai capito di cosa si trattasse. Se John Scott ne avesse mai sentito parlare, avrebbe probabilmente pensato a qualcosa di rumoroso e avrebbe ottenuto un'immagine errata.
+
+In tutto quel tempo, badate bene, il giovane Straddle non aveva mai assaggiato nulla di più forte di un cocktail di pomodori; anzi, non ne aveva mai avuto voglia. Beati coloro che riescono a mantenere la loro parola senza alcuna difficoltà! Almeno, beati, suppongo, in cielo. Ma non su questa terra. Perché adempiere ai propri doveri, in qualsiasi forma essi siano – dalla puntualità al patriottismo – porta soltanto disastro.
+
+John Scott aveva risposto brevemente alle lettere di suo nipote. La mancanza di affetto in quelle risposte, l’assenza persino di interesse, il giovane le dava per scontate; agli occhi dei giovani, infatti, gli anziani sono già半 morti e certamente pieni di paglia. Ma anche mentre scriveva quelle brevi risposte, quella parte dell’anima isolata di John Scott che si era parzialmente risvegliata sotto l’effetto del legame di sangue si era nuovamente chiusa, rendendolo ancora più distaccato dal mondo esterno. Quell’uomo aveva pregato ardentemente per capire se dovesse avvertire quel giovane ipocrita, ingrato e inutile. Aveva ricevuto un consiglio dal Cielo: avvertirlo da così lontano sarebbe stato inutile. Aveva riflettuto a lungo e con ansia su se il suo dovere verso il Creatore richiedesse che gli venisse ridotta drasticamente la somma di denaro che gli inviava. Ma i passaggi della Bibbia che parlavano della distruzione di Sodoma o Ninive, e la promessa che quelle città sarebbero state risparmiate se vi fossero stati anche solo pochi uomini giusti, lo avevano convinto a non farlo.
+
+Non era frequente che John Scott fosse indeciso. Non esitava mai nemmeno una volta dopo aver riflettuto su un problema, grande o piccolo che fosse. Ma ora si trovava di fronte a un dilemma opposto. Sembrava sempre più suo dovere allontanare per sempre quel povero disperato; continuare ad aiutarlo non faceva altro che alimentare i “fuochi dell’inferno”. Perché non condannarlo definitivamente e lasciarlo che morisse di fame? D’altra parte, alcune parole della Sacra Scrittura mettevano in dubbio la sua determinazione.
+
+John Scott era caduto in uno stato permanente di rabbia repressa. La situazione stava diventando sempre più pericolosa, ma non era ancora degenerata in un’esplosione; inoltre, l’assenza di altre cattive notizie dopo che aveva allontanato il deluso signor Willis lo spinse a rimandare qualsiasi decisione. È sempre più facile, anche per i calvinisti, non fare nulla.
+
+Eppure, un giorno, quando arrivò una lettera da Wilfred – particolarmente banale e piena di presunti principi morali – John Scott fu sul punto di agire. Aveva davvero redatto una lettera per i suoi agenti a [[London|Londra]] e un’altra direttamente a Wilfred, esprimendo la sua rabbia e fissando una scadenza entro cui l’aiuto finanziario doveva cessare. Ma anche in un momento così critico, trovò un passaggio che condannava il giudizio su una persona senza ascoltare prima le sue ragioni. Riscrisse quindi la lettera, proponendo a Wilfred di venire a trovarlo a [[New York]]. Lì avrebbero potuto discutere della questione in modo approfondito e prendere una decisione; almeno così non sarebbe stato possibile accusarlo di aver interrotto i rapporti con quel giovane senza dargli la possibilità di spiegarsi.
+
+Quella lettera non fu mai spedita. La data non fu mai compilata. Per volere del Fato, che intervenne in modo casuale, tutto andò storto; il piano di quell’infelice puritano fallì e lo riportò in Inghilterra, dove lo aspettavano cose inaspettate. Quello che il Fato fece, insomma, fu questo:
+
+Come tutti sanno, al Pillbox si tiene una serata, non troppo frequente ma con date irregolari, chiamata “Ladies’ Night”. Le donne che partecipano a queste serate sono proprio il tipo di persone per cui tali eventi sono organizzati: amiche e ospiti di quelle altre donne che fanno parte integrante della vita del Pillbox.
+
+A Willy Straddle non piaceva affatto l’idea di dover fare cose del genere. Era stanco anche solo di alzarsi tardi la notte e di cenare alle nove nelle case delle persone ricche che avevano iniziato a frequentarlo; lo spaventava l’idea di dover vivere una vera vita bohémienne, tra feste e divertimenti che duravano dalle undici alle quattro del mattino, sfidando apertamente la legge.
+
+Ma alla fine cedette. Bill sarebbe andato comunque, e ciò che Bill voleva veniva sempre realizzato. Così Wilfred si trovò in quella fatale mezzanotte, immerso nel bagliore e nel rumore della “Pillbox”, sopportando un dolore crescente man mano che l’allegria intorno aumentava. Ogni uomo si annoia quando osserva gli altri bere troppo, mentre lui stesso rimane completamente sobrio. La maggior parte delle persone che hanno avuto esperienze con compagnie decenti si annoia nel mondo dei bassifondi, e soprattutto quelle donne che vi si immergono completamente, senza alcuna ritegno.
+
+Willy, prima che fossero le due e mezza, desiderava disperatamente andarsene, muovendosi senza meta ai margini di un vortice di persone che ballavano e ondeggiavano, ma per metà per lealtà e per metà per esitazione, non voleva lasciare Bill, perché era una di quelle tante notti in cui Bill non aveva un soldo.
+
+Aveva preso in prestito quei soliti cinque dollari, ma erano svaniti come un sacchetto di carta in una fornace ad alta temperatura. Nonostante fosse coraggioso nel affrontare tutte le sfide proposte dal “Demone”, Bill mostrava segni di esaurimento: il suo viso era coperto di macchie, sudava profusamente e balbettava mentre parlava. Era andato da Willy per chiedere nuovi rifornimenti, e la sua condizione confermava la lealtà dei “Hedgers”: infatti, i “Hedgers” sono spesso molto fedeli. No. Willy non poteva lasciare Bill senza aiuto. Sapeva cosa sarebbe successo: avrebbe dovuto accompagnare Bill a casa. La lealtà lo richiedeva. Ma la lealtà, come ogni virtù, avrebbe imposto il suo terribile prezzo.
 
 
 
@@ -3231,6 +3713,48 @@ Within six months (little Joan not yet able to talk) she had married Mr. Lewis C
 She knew all about him. She had fully informed herself upon him. He was a certain Louis Bramovitz, or Brahm, who, before being Louis, had been Leo, and before being Leo had been Ludwig, and before being Ludwig had been something else. He had made his stuff rapidly, before the Flood. He had looked about him for a reasonable name to carry on with when he left the City and went West. His research discovered that Caryll was an ancient Sussex name, gone under in fine dramatic fashion long ago. He piously reclaimed it from oblivion, and wore it proudly before the world. He was twenty-five years older than Lady Penelope. He had made her an excellent husband. They had no children — which was just as well — and then, a year or two before Joan came out, he was gathered to his fathers (pedlars from Glosz, in Bessarabia — if that’s the way to spell it).
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Poi, mentre si avvicinava al suo amico per convincerlo ad andarsene, mentre cercava di afferrare quella figura instabile e guidarla di nuovo attraverso le porte, si trovò nel bel mezzo di una vera e propria battaglia.
+
+Qualcuno aveva detto qualcosa, o almeno Bill pensava che l’avessero detto. Si udì uno schianto simile a quello di un colpo di pistola, poi un violento pugno: un uomo fu sbattuto contro l’angolo di un tavolo e iniziò a sanguinare copiosamente; subito dopo scoppiò il caos. E proprio Willy, tra tutte le persone possibili, si trovò a colpire con il pugno chiuso l’estremità del suo braccio libero, ricevendo e infliggendo colpi allo stesso tempo. Uno dei suoi occhi iniziava a gonfiarsi e a chiudersi; il suo cappotto era strappato, il colletto strappato via, e il davanti della sua camicia era completamente insanguinato.
+
+Con il braccio che non stava combattendo, continuava comunque a stringere forte Bill. Ma era sbalordito e confuso: i potenti muscoli di Bill erano all’opera, nonostante l’effetto dell’alcol, e si stavano muovendo contro diversi nemici, e anche contro alcuni amici.
+
+Su tutto questo clamore si levò un culmine ancora più assordante: uomini che urlavano alle porte, l’arrivo della polizia, gli spie tra i ballerini che si allontanavano furtivamente, proteste, arresti, lottate, straziati scontri, il ruggito di un potente motore e il rumore di ruote pesanti.
+
+Willy, che continuava a colpire alla cieca, ma ormai lontano dal suo Bill, si ritrovò sdraiato, semi-incosciente, in una sorta di armadio buio, dove veniva scosso ad alta velocità per le strade deserte. Dalle altre parti di quel stesso veicolo, angoli altrettanto bui e separati da divisori simili a quelli che lo circondavano, provenivano gemiti, imprecazioni violente e una voce acuta che gridava monotonicamente “Lasciatemi uscire!”, fino a quando improvvisamente tutto tacque.
+
+Il viaggio non durò nemmeno cinque minuti. Le stazioni di polizia si trovano in posizioni molto convenienti in quelle zone di [[London|Londra]] dove sono maggiormente necessarie. Trascorse l’ultima ora di buio senza quasi sapere se fosse ancora in questo mondo o no: stordito, confuso, passava da uno stato di sonno profondo a uno di semicoscienza su un duro letto di legno.
+
+Con l'alba arrivò la solita fine di queste storie. I ragazzi rimasero comunque ragazzi. Il rispettabile magistrato, ormai troppo vecchio per essere davvero credibile, si accontentò delle multe. Bill, completamente guarito, non solo diede, come al solito, un nome falso, ma si assicurò, essendo ben informato su tutte le procedure, che nei documenti non rimanesse nulla di compromettente. Per le sue attività in quell’occasione importante, fu, sono lieto di dirlo, generosamente ricompensato dal signor Speider. Il signor Speider trovò il modo di eliminare tutte le conseguenze negative. E la “Pillbox”, teatro della battaglia, tornò entro ventiquattro ore alla sua solita vita: giovani uomini, ricevitori, signore particolari, spie e tutta la restante compagnia.
+
+Nessuna parola in nessuno dei giornali. Si tratta di una delle più belle tradizioni nazionali: quella che stabilisce cosa possa essere rivelato alle masse ignoranti attraverso la stampa e cosa invece non sia permesso. Coloro tra i “Pillboxiani” che dovevano essere protetti (sebbene fossero solo una piccola minoranza) sono stati sufficienti a salvare quegli individui duri da morire, criminali, truffatori e simili che, senza l’aiuto dei loro compagni più ricchi, sarebbero sicuramente finiti in prigione.
+
+Nessuna parola sui giornali. Almeno non nei nostri giornali. Ma a [[New York]], molte parole.
+
+Uno dei più brillanti tra coloro che raccontano le glorie della nostra parte del mondo anglofono ai cugini al di là dell’Atlantico aveva appena finito di narrare la sua storia. Sapeva esattamente ciò che volevano a [[New York]]: caffè, focaccette e cereali. E glieli serviva in abbondanza e caldi.
+
+V
+
+Probabilmente vi state stancando delle persone che possiedono titoli nobiliari, discendenze illustri e ricchezza; soprattutto perché sapete molto meglio di me (e questo significa davvero molto) che in Inghilterra queste tre cose – ricchezza, discendenza e titoli nobiliari – non sono direttamente collegate tra loro.
+
+Potreste pensare che quel povero e instancabile autore di questo libro sia semplicemente uno sciocco per aver reso le donne protagoniste del suo racconto donne ricche, e per aver dato ai loro mariti, comunque, un’antica discendenza nobile. A questo rispondo che il mio compito è dire la verità, tutta la verità e solo la verità. E nel caso di Lady Merriden, e ancora di più in quello di Lady Lodiham (pronunciato Lotham), le cose stanno proprio come dico io.
+
+Ora, per rinfrescarvi con un nuovo tipo di argomento, lasciate che vi parli di Joan Sable.
+
+Per cominciare, Joan Sable non possiede alcun titolo nobiliare, ma sua madre sì, o almeno lo aveva. Sua madre – una donna piuttosto energica, dal giudizio poco sagace e di carattere piuttosto acido – si chiamava Lady Penelope Caryll.
+
+Se Joan veniva chiamata Sable, perché sua madre veniva chiamata Caryll? Lady Penelope Sable aveva dato alla luce un solo figlio da Henry Sable, Esquire (ormai deceduto da tempo), una figlia, e le aveva dato il nome di Joan. Il matrimonio di Lady Penelope era stato un incontro d’amore di tipo estremamente romantico. Non ci credereste se la vedeste ora, ma è sorprendente ciò che possono fare poco più di vent’anni.
+
+Lady Penelope Sable, nata Redford, non possedeva nulla di proprio, a causa della sua condizione economica. Era l’unica sorella di un fratello unico, e quel fratello, Lord Redford, possedeva, come spesso accade, ben poco. Lui e suo padre avevano infranto le disposizioni legali che regolavano la successione dei loro beni. Nonostante ciò, la Banca gli aveva stupidamente concesso credito. Dubito molto che le assicurazioni possano coprire i debiti quando lui passerà da questo mondo alla gloria eterna. Perché, a conoscenza della Banca, aveva preso in prestito somme ingenti in altri ambiti.
+
+Lady Penelope, avendo così scoperto in soli cinquanta mesi il vero valore e significato di un matrimonio romantico con un figlio più giovane che in passato aveva lavorato come barbiere, ma che era di buon carattere e del suo stesso ceto sociale, cambiò immediatamente approccio e iniziò a vivere la sua vita da un’altra prospettiva.
+
+In soli sei mesi (la piccola Joan non era ancora in grado di parlare), si sposò con il signor Lewis Caryll, un uomo che possedeva una grande casa in Portland Place.
+
+Sapeva tutto su di lui. Si era informata accuratamente sul suo conto. Si chiamava Louis Bramovitz, o Brahm; prima di essere Louis, era stato Leo, prima di essere Leo, Ludwig, e prima ancora di essere Ludwig, qualcos’altro ancora. Aveva creato rapidamente la sua reputazione, prima che scoppiasse il Diluvio. Si era cercato un nome adatto da usare una volta lasciata la Città e diretto verso Ovest. Le sue ricerche gli avevano rivelato che “Caryll” era un antico nome del Sussex, ormai dimenticato da tempo. Lo aveva ripreso con devozione dall’oblio e lo portava con orgoglio davanti al mondo. Era ventiquattro anni più vecchio di Lady Penelope; le era stato un ottimo marito. Non avevano figli, il che, in fondo, andava bene. E poi, un anno o due prima dell’arrivo di Joan, morì. I suoi antenati erano mercanti ambulanti provenienti da Glosz, in Bessarabia, se così si scriveva.
+
 
 
 <span class="atom-split" data-atom="story_01_m_h--part_13" data-title="The Hedge and the Horse — M. H. (part 13)" data-chapter="M H" data-kind="excerpt" data-tags="concept/greed_and_money,concept/class_conflict,concept/marriage_and_fidelity,concept/vulgarity,form/satire,form/novel"></span>
@@ -3272,6 +3796,44 @@ Lady Penelope was more enthusiastic. She spoke of Willy with warm affection as t
 
 Joan said nothing, but she was taking it all in. She was discovering something interesting about this colourless young fellow who had sat next to her once and opposite her once in that same house of her mother’s, but of whom she had noticed hitherto only that he was well-bred but a good deal too shy.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+A Lady Penelope fu lasciata la casa in Cumberland Place, un reddito sufficientemente alto, e questo unico figlio, per il cui mantenimento il suo patrigno le aveva assegnato una piccola somma di denaro, o meglio, una rendita fissa: trecento sterline all’anno, in contanti.
+
+Ora, trecento sterline all’anno potrebbero sembrarvi nulla. In tal caso siete fortunati. Certo, per Lady Penelope non significavano nulla, nonostante le sue esperienze precedenti. Ma si tratta di un reddito praticamente esente da tasse: anche dopo aver pagato la piccola imposta, vi restano sei sterline a settimana, e queste sei sterline sono sufficienti per nutrire, vestire e alloggiare una giovane donna (o anche una più anziana, del resto) fino al prossimo crollo della nostra valuta. Dopo quel momento, invece, non posso garantirvi nulla.
+
+Le esperienze personali di Lady Penelope durante la sua giovinezza, nonché la conoscenza del mondo che aveva acquisito rapidamente, l’avevano fatta decidere una cosa: che Joan dovesse sposarsi bene. Intendeva con questo un compagno adeguato e una quantità considerevole di denaro.
+
+Aveva tutto il necessario per mantenere Joan finché vivevano insieme; ma non aveva alcuna voglia di trascorrere anni a casa con una figlia che rischiava di diventare zitella e che le stesse sempre tra i piedi. Comunque, finché Joan fosse sotto il suo tetto, avrebbe avuto tutto ciò che una giovane donna potesse desiderare. Solo che Lady Penelope di certo non aveva intenzione di ridurre il proprio reddito: voleva ogni singolo penny. Sapeva bene che, se il futuro marito di Joan fosse stato troppo insistente (e temeva proprio questo), avrebbe potuto chiedere un accordo finanziario. Avrebbe dovuto lottare contro questa richiesta. Forse avrebbe dovuto cedere. Ma lo avrebbe fatto solo nel minimo indispensabile. In ogni caso, la cosa più importante era liberarsi di Joan nel modo previsto.
+
+Ma Joan Sable aveva sviluppato fin da giovane un carattere definito “testardo” o “inflessibile”, a seconda del punto di vista di chi la conosceva. Comunque si chiamasse questo atteggiamento – buono o cattivo che fosse – era una determinazione tale da non lasciarsi mai convincere o spostare dalle opinioni altrui. Ora, a ventun anni, sapeva sempre esattamente cosa voleva. Quello che non voleva non le interessava affatto; ma ciò che desiderava lo voleva con tutto il cuore, con tutta l’anima e con tutte le sue forze, e lo otteneva. Non lo doveva a suo padre: quella determinazione era una caratteristica ereditata da due generazioni prima. L’aveva ricevuta da sua nonna, dalla quale aveva anche ereditato un viso troppo lungo, un mento troppo forte, una bocca troppo mascolina, disposta in linea retta, e bei capelli neri e ricci.
+
+Ormai Lady Penelope aveva da tempo scoperto che, per quanto potesse fare, non riusciva a far sposare Joan. Joan avrebbe deciso lei stessa dove e se sposarsi o meno; nessuno l’avrebbe fatto al suo posto, né avrebbe fatto nulla di davvero importante per lei. Inoltre, Joan era più che capace di andarsene a vivere con i suoi trecento sterline all’anno, in due piccole stanze in uno dei nuovi insediamenti per allevatori di conigli, se sua madre l’avesse pressata troppo. E sua madre ne era ben consapevole e ne aveva molta paura.
+
+Ecco tutto riguardo a Joan. Ora vi chiedo di incontrarla nel salotto di sua madre: sta offrendo tè a mezza dozzina di persone, appena una settimana dopo lo straordinario dramma della Pillbox. Essendo appartenente alle classi dirigenti, aveva saputo tutti i dettagli di quell’evento, mentre i giornali, dall’altra parte dell’Atlantico, non ne avevano parlato affatto.
+
+Naturalmente, tutti parlavano della Casamatta. E parlando della Battaglia per la Casamatta, menzionarono anche Willy e Bill.
+
+Matheson diceva che Bill si era comportato molto bene; con ciò intendeva dire che era riuscito a uscirne da quella situazione grazie a grande abilità e coraggio. Un giovane allegro, che Joan chiamava Bimbo e che era uno dei suoi intimi amici, parlava con una certa autorità, perché anche lui apparteneva al gruppo di Pillbox; tuttavia non era stato espulso né rimasto coinvolto in quella famosa notte, semplicemente perché non c’era stato. In seguito, però, aveva saputo tutto ciò che era accaduto. Non sembrava essere così entusiasta di Bill come Matheson, ma parlava molto bene di Willy.
+
+“Straddle si è davvero comportato bene,” disse. “È rimasto accanto a Bill e ha fatto di tutto per aiutarlo ad allontanarsi. È stato grazie a Bill che è finito in quella brutta situazione alla fine. Naturalmente, Bill si è ripreso e il giorno dopo si è preso cura di Willy. Ha perso contatto con lui solo per caso durante la rissa.”
+
+Il bambino osò esprimere l’opinione che fosse davvero nobile da parte di Willy essersi tenuto vicino al suo amico e essere stato ferito nella battaglia, perché lui stesso non aveva mai toccato nulla.
+
+“Cosa intendi dire, Bimbo?” chiese Joan.
+
+“Beh, è già venuto a cena in questa casa,” disse Bimbo, “più di una volta. Non ti sei accorto che non tocca mai nulla?”
+
+“No, non l’ho fatto,” disse Joan. “Non mi accorgo di queste cose a meno che non vadano troppo oltre, e in quel caso è disgustoso.”
+
+La signora Matheson, patronessa e finanziatrice della Modern Maternity League, disse che Willy era davvero un individuo spietato. Aveva tanto denaro, eppure era altrettanto avaro quanto Shylock! Viveva nell’agio, con quel meraviglioso zio, eppure si accontentava di due stanze soffocanti in una strada secondaria di Westminster. È vero che quando la signora Matheson chiese a Wilfred di venire ad ascoltare il suo discorso alla M.M.L., i suoi occhi rivelarono terrore e si allontanò; così facendo, si fece un nemico. Lei infatti voleva convincerlo a donare cinquanta sterline, e soprattutto coinvolgerlo nella sua organizzazione. Ma non avrebbe dovuto essere così spietata.
+
+Un uomo dell’Ambasciata Americana, che per un po’ non aveva detto nulla, intervenne ora a favore di Willy. Non credeva che John Scott stesse dando al proprio nipote somme eccessive: John Scott non era il tipo da farlo, né il tipo che pensasse che i giovani dovessero ricevere ingenti mensilità. Se c’era qualcuno davvero duro e pragmatico in quella situazione, quello era John Scott stesso, e non povero Willy Straddle. L’americano impiegò del tempo per spiegare che gli piaceva Willy Straddle, e tutti gli uomini concordarono calorosamente. Così la signora Matheson dell’M.M.L. divenne ancora più aggressiva di prima, pronta a sferrare un attacco deciso.
+
+Lady Penelope era ancora più entusiasta. Parlava di Willy con calda affetto, come se lo avesse incontrato almeno tre volte, invece che solo due.
+
+Joan non disse nulla, ma stava osservando tutto attentamente. Stava scoprendo qualcosa di interessante su questo giovane pallido che una volta era seduto accanto a lei e un’altra volta di fronte a lei nella stessa casa di sua madre; fino ad allora, però, aveva notato soltanto che era ben educato, ma anche piuttosto timido.
 
 
 
@@ -3326,6 +3888,56 @@ Yet had the balance not yet kicked the beam; yet was the thing still by some sma
 
 [[London|LONDON]] SOCIALITES HELD FOR RAZZLE BLUE BLOOD STAINS FINE LINEN PURPLE COLLEGE BOYS AND BROADS
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poi Bimbo rivelò alcune notizie vere, ma piuttosto false, come quasi tutti quei pettegolezzi.
+
+“Old Guthrie ha dato a Willy una grossa somma di denaro per evitare le tasse sulla morte qui da noi. Non tutta la somma, ma soltanto i beni inglesi.” In realtà non c'erano affatto beni inglesi, ma loro non se ne accorsero. Dopotutto, ogni milionario americano che conoscesse l’Inghilterra avrebbe avuto senso di nascondere i suoi beni qui, no? L’Inghilterra era l’unico posto sicuro rimasto al mondo.
+
+La signora Matheson disse che non avrebbe fatto alcun bene al ragazzo, mentre l’uomo dell’Ambasciata Americana cambiò immediatamente opinione e lodò la saggezza di John Scott. Se aveva agito con quel scopo, allora era proprio da lui.
+
+Allora calò il silenzio su di loro mentre ognuno rifletteva a modo suo su Mammon; tutti tranne Joan, che continuava a pensare a Wilfred. Dopo un po’, iniziarono ad andarsene ognuno per la propria strada.
+
+Erano quasi le sette, e Lady Penelope voleva parlare con Joan prima che si vestissero.
+
+“Joan,” iniziò quando finalmente furono sole. “Joan, mia cara bambina, ” Un modo insolito di rivolgersi a lei, e troppo solenne. Ma Joan non la stava guardando; fissava invece il viale Portland Place.
+
+“No, mamma,” disse lei, “non funziona.”
+
+Non lo disse in modo scortese o irrispettoso. Non fece mai scenate.
+
+“Ma sei stata contenta di sentire che parlavano bene di lui, Joan. Lo sai, vero?” disse Lady Penelope, con dolcezza ma in tono di rimprovero; e persino, per una donna del suo carattere, con un po’ di timidezza. Era cauta nel discutere con Joan. Perché sapeva chi avrebbe vinto.
+
+“Sì, mamma. Sai che mi piace abbastanza. Mi piacciono tutti i miei amici,” aggiunse, “anche se sono solo conoscenti. Ma non ho mai notato nulla di particolare in lui.”
+
+“Tutti gli altri lo fanno,” disse bruscamente sua madre.
+
+“No, non lo fanno, Mamma,” rispose la generazione più giovane, con quella cortesia per cui è famosa. “Credono che lui avrà tutti quei soldi, e di questo solo pensano. Ma io non ho nulla da dire al riguardo.”
+
+“Mia cara, non ti dispiace che si tratti di denaro?”
+
+“Certo che no! Non è questo il punto. Il punto è che non intendo fissarmi sul denaro come farebbe un terrier.”
+
+“Beh,” sospirò Lady Penelope, “non c’è alcuna necessità, e non c’è fretta. Ma dovresti essere ragionevole, Joan.”
+
+“Razionale?” gridò Joan, girandosi. “Ma non ha nemmeno detto una parola in proposito! Non credo che gli sia mai passato per la mente. E perché dovrebbe? A me di certo no. E se tu vuoi che ci pensi, io non lo farò!”
+
+“Non lo farò” è una frase decisa, e Joan fu contenta di averla usata. La ripeté ancora, ma con maggiore enfasi.
+
+“Non lo farò,” disse lei. “Non lo farò! Non lo farò! Non lo farò!”
+
+E così finì tutto.
+
+* * * * *
+
+Quello che era accaduto a John Scott Guthrie a [[New York]] era questo: negli ultimi giorni, dopo aver smesso di ricevere le lettere dal suo informatore, aveva riflettuto profondamente sul problema morale che gli si presentava, proprio come avrebbe fatto qualsiasi grande leader di fronte a una questione di guerra dalla quale dipendeva la gloria o la morte di una nazione. Per John Scott, le questioni morali avevano tale rilevanza: erano legate all’eternità. E anche il destino della famiglia Guthrie aveva una portata simile. Sentiva di doverlo al proprio Creatore smettere di alimentare follia, spreco, malafede e peccato; sentiva di doverlo alla propria famiglia continuare a portare avanti il nome dei Guthrie. Ma la prima responsabilità che lo assillava era senz’altro più pressante. Con ogni sera che passava, riflettendo su quale decisione prendere, quella responsabilità diventava sempre meno importante.
+
+Per coloro che non comprendono questi stati d’animo, sembrerà follia; ma per chi li conosce, avendoli osservati negli altri o forse anche sperimentandoli nel profondo della propria anima, tutto diventa abbastanza comprensibile. Questi Servitori del Supremo si fondono con ciò che servono: agiscono come strumenti dei decreti immutabili di Dio e, in sé stessi, diventano una parte attiva del destino.
+
+Tuttavia, l’esito non era ancora stato deciso; la situazione rimaneva ancora, per un piccolo margine, irrisolta, anche se quasi conclusa. Quando, nel profondo del suo essere, esplose qualcosa di terribile. Fu un articolo sul suo giornale del mattino seguente: un banale e sensazionalistico paragrafo di pettegolezzi che riportava in prima pagina tutta la verità su quella orribile faccenda della “Pillbox”.
+
+Le socialite di [[London|Londra]] credevano che le macchie blu scuro sulle loro lenzuola fine e viola fossero causate dai ragazzi universitari.
 
 
 
@@ -3386,6 +3998,60 @@ With that he was gone, and the thing was accomplished. And that, my children, is
 Bill, royally immaculate, without a bruise, had the morning before him to do his work, and did it well. After he had settled with Prosser he had to close sundry other mouths, and then he went off to the Court.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il bambino di John Scott trascorre la notte in cella; guardava il vino quando era rosso, così era anche il suo naso.
+
+Ma il suo sguardo aveva il colore del castoro… Gli uomini del club e il kadi dissero: “Non fai sapere zio”.
+
+#Il recinto e il cavallo
+
+Il giovane Wilfred G. Straddle – il cui secondo nome era Guthrie – erede del patrimonio dei Guthrie Millions e figlio della sorella di John Scott, si trovava coinvolto in una rissa questa mattina, molto presto. Mentre due persone stavano scendendo dalla vecchia torre della chiesa, il famoso Pill Box Club fu assaltato dalla polizia di [[London|Londra]]. Il vecchio Guthrie aveva una sorella, eccetera.
+
+Si fece forza e lo lesse fino alla fine: i duri, i giovani ribelli, le donne, i loro nomi e le loro professioni. Ma solo un nome spiccava tra tutti: il nome “Guthrie”.
+
+John Scott era un uomo che a malapena riusciva a leggere i giornali, tranne che per gli articoli finanziari; e anche questi li leggeva di rado, poiché disponeva di informazioni più accurate. Tuttavia, ogni mattina il giornale veniva messo accanto al suo caffè della colazione. Non poteva perdere le prime pagine, e nei titoli odiosi di quei giornali i suoi occhi non riuscivano a ignorare il proprio nome, un nome che gli bruciava dentro.
+
+In tutte le altre occasioni della sua vita, John Scott aveva analizzato i suoi problemi con la rapidità consentita da una giusta valutazione delle circostanze, e una volta presa una decisione, non esitava più. Solo in questa occasione esitò; ma ora che il colpo finale era stato inferto, non esitava più affatto.
+
+Per tutta quella mattina, durante le ore di lavoro in ufficio, svolse le sue mansioni quotidiane in uno stato di stordimento, ma riuscì comunque a portarle a termine. La prima cosa che fece fu controllare gli orari delle partenze per l’Inghilterra previsti per quella settimana: c'era una nave tedesca abbastanza veloce che sarebbe arrivata a Southampton tra tre giorni. Fece prendere alla sua segretaria una prenotazione a nome Malcolm e inviò un cablogramma al “Superb” di [[London|Londra]] per prenotare una suite.
+
+Quella notte pregò accanto al suo letto, come faceva sempre, ma non per chiedere guida. Non ne aveva più bisogno.
+
+C'era quel semplice precetto secondo cui il peccatore non doveva essere giudicato senza ascolto; doveva essere giudicato faccia a faccia. John Scott si mise all'opera per fare giustizia.
+
+Poi, come sempre, prima di cercare di addormentarsi (e il sonno arrivava sempre, anche in una notte del genere, e anche alla sua età), aprì la Bibbia e lesse il suo capitolo. Era arrivato a Numeri XXVI e continuò a leggere. Le parole scorrevano davanti ai suoi occhi meccanicamente, versetto dopo versetto.
+
+Quel nobile e sonoro inglese, la stessa Voce dell’Onnipotenza ed dell’Eternità, penetrò nella sua anima. Eppure, per la prima volta in vita sua, quella notte non riuscì a completare il capitolo che stava leggendo. Era arrivato al culmine, al trentanovesimo versetto, nella sua intera maestosità: “I figli di Upham erano gli Uphamiti, e i figli di Shufham erano gli Shufhamiti”. Non riuscì a leggere oltre. Chiuse il libro con reverenza, come se fosse il Tabernacolo del Sacramento. Era l’unico Sacramento che conoscesse.
+
+Abbassò la testa sulle mani giunte; poi, con uno sforzo, si alzò e andò a dormire.
+
+* * * * *
+
+Nello stesso giorno, mentre la casa editrice non ancora quotata di [[New York]] aveva appena iniziato le sue attività, Bill, a [[London|Londra]], come sappiamo, aveva già quotato la sua casa editrice.
+
+A proposito, è possibile che non tutti voi, centinaia di migliaia di persone che state leggendo questa cronaca casuale, abbiate una conoscenza diretta del modo in cui viene gestita la stampa. Vi devo scusarmi: avrei dovuto dire, piuttosto, del modo in cui certe informazioni vengono nascoste dai giornali. Si tratta di una procedura interessante e particolare, che merita davvero di essere conosciuta da tutti noi, perché siamo tutti cittadini, e quasi tutti lettori di giornali. È sempre piacevole sapere come ci viene governato.
+
+Era molto presto la mattina seguente: solo le otto e mezza, e i tribunali dei magistrati non erano ancora aperti. I prigionieri, usciti dalle loro celle, si trovavano ancora nella stazione di polizia.
+
+Nella piccola stanza interna della Casamatta, il rifugio privato del signor Worksop, che in quel momento era stato discretamente lasciato vuoto, William Robinson si appoggiava comodamente su una poltrona bassa, con i piedi posati su un'altra più alta. Accanto a lui, su un piccolo tavolo di quercia ordinatamente allestito, c'era una bevanda complessa ma deliziosa. In bocca aveva il suo eterno sigaro. Nel frattempo era tornato a casa, aveva dormito per un paio d’ore (il che era esattamente ciò che voleva), si era rinfrescato con un bagno, si era cambiato e ora era più splendido che mai.
+
+Dall’altra parte del piccolo tavolo di quercia, seduto in un’altra poltrona bassa e sorseggiando una bevanda simile ma più semplice, con i piedi appoggiati su una sedia più alta, anche se le sue gambe non erano piegate in un angolo altrettanto sicuro di quelle di Robinson, c’era Harry Prosser: l’uomo che tutti utilizzavano, il segretario dell’ex Purling e via dicendo. Era anche il fratello di Dolly, e per inciso, il cugino di Stellworth, ma solo un parente lontano. Tuttavia, una persona utile, presente ovunque. Questi tipi si alzano presto la mattina, e Harry aveva appena ricevuto la telefonata di Bill Robinson.
+
+Ecco quindi preparata la scena per quella grande questione costituzionale, quel grande esempio del nostro sistema di governo, e tutto il resto. Prosser da un lato del tavolo e Robinson dall’altro, ognuno con il proprio bicchiere in mano.
+
+Proprio in quel momento in cui ci siamo intromessi per osservare la coppia, Prosser stava guardando l’orologio. Stava finendo di bere il suo bicchiere e diceva.
+
+“Quindi il signor John ritiene che sia meglio non farne parola sui giornali?”
+
+“Esatto,” disse Bill. Si alzò in piedi e si avvicinò a Prosser, che sembrava divertito. “Gli ho telefonato mezz’ora fa e gli ho spiegato tutto. Con il fatto che c’era anche quel giovane Garry, e poi quella ragazza dei Wooley, quella che chiamano Jay. La sorella di Muzzy. Ti ricordi di Sir John e della ragazza dei Wooley? All’inizio ha iniziato a imprecare perché lo avevamo disturbato, ma ovviamente, quando ha saputo tutto, si è svegliato di colpo, ”
+
+“Certo,” disse Harry, alzandosi anche lui e prendendo il cappello. “Mi occuperò di lui e risolverò la questione.”
+
+Con questo se ne andò, e l’impresa fu portata a termine. E questo, miei figli, è il modo in cui veniamo governati. E un modo davvero ottimo, per di più. Quindi, addio a tutti i dittatori.
+
+Bill, impeccabilmente pulito e senza nemmeno un livido, aveva tutta la mattina davanti a sé per svolgere il suo lavoro, e lo fece bene. Dopo aver sistemato le cose con Prosser, dovette zittire altre persone ancora, poi andò in tribunale.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_02" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 2)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london"></span>
@@ -3445,6 +4111,62 @@ Wilfred was a little afraid of the strength of the cigars. There was no end to B
 
 “Surely,” said Bill patiently, “it’s quite simple? You can buy one of these shares now for three pounds — or just over. Do you know what they will go to when the public gets the crushing report? It comes out the day after to-morrow. They’ll jump to five at least.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Aveva con sé il prezzo della libertà (sebbene nessuno sapesse da dove l’avesse ottenuto), i soldi necessari per pagare la multa di Wilfred; era rimasto lì mentre il poliziotto leggeva una lezione a povero Willy, sotto lo sguardo “paterno” dell’ufficiale. Bill aveva portato quel “eroe” e il suo occhio nero a Westminster, mettendolo al sicuro a letto, e aveva fissato un appuntamento privato per più tardi nella settimana: venerdì, il 29 giugno. Fino ad allora, Wilfred doveva restare nascosto e evitare qualsiasi apparizione in pubblico.
+
+Le lettere di Wilfred venivano inviate dal Doulton’s Club; quindi non gli arrivavano direttamente al suo alloggio. Aveva dormito a causa dell’esaurimento, ma nel pomeriggio aveva bevuto una tazza di tè dalle mani della signora Cramp. Ora, con l’unico occhio che gli funzionava, stava leggendo quella grande pila di lettere sul suo letto.
+
+Arrivarono come al solito sempre più inviti; uno di essi, datato la mattina del 22°, era quella piacevole comunicazione formale della Banca che gli annunciava l’effettivo pagamento delle altre cinquecento sterline.
+
+Si sentì molto sollevato. Quel primo trimestre era stato davvero difficile. Non aveva idea di quanto costasse vivere a [[London|Londra]] nel modo in cui lo faceva lui. Inoltre, si era concesso alcuni lussi aggiungendo mobili alle sue stanze, e poi c'erano state le abbonamenti e le tasse d’ingresso non solo al Doulton’s Club, ma anche a quell’altro club di cui tutti gli dicevano che doveva assolutamente far parte, anche se in realtà non aveva alcuna intenzione di frequentarlo. Eppure era riuscito ad entrarci grazie a una sorta di favoritismo e alla regola numero 6.
+
+C'erano naturalmente molti vestiti; su consiglio di Bill, aveva pagato in contanti il sarto di Bill per acquistarli.
+
+Era semplicemente vivere: non solo la sua vita, ma anche quella degli altri. C'era stato anche quel processo piuttosto costoso, quello di intrattenere gli altri; e una notte, costretto a suonare, aveva perso un sacchetto pieno di denaro.
+
+Sì, fu felice di sentire parlare di quei cinquecento nuovi. Del vecchio ne era rimasto molto poco, e quando avesse dovuto pagare le bollette immediate, non gli sarebbe rimasto un saldo superiore ai trecento. Tuttavia, con quei cinquecento nuovi avrebbe potuto andare avanti.
+
+La stagione stava per finire. Dovendo scegliere tra le offerte di ospitalità che gli venivano fatte per l’estate, avrebbe potuto trascorrerne gran parte su una barca qualcuno, e poi in questa o quella tenuta di campagna.
+
+Avrebbe persino potuto andare all’estero – cosa di cui aveva sentito vagamente (e sbagliatamente) che potesse essere un modo per salvarsi. Bill gli avrebbe spiegato tutto al riguardo. Aspettò pazientemente da solo, curando il proprio occhio. Solo la visita dal dottore costava dieci ghinee; all’inizio, anche un pittore esperto ne chiedeva cinque. E poi c’erano tutte le spese accessorie. Fu felice quando arrivò il giorno in cui avrebbe rivisto Bill per la prima volta da quella notte terribile e dal mattino successivo, quando il suo amico si era preso cura di lui.
+
+Chiamò per verificare se Bill fosse libero a pranzo. Dopo aver scoperto che lo era, fece la chiamata. Bill lo salutò calorosamente.
+
+“Dove pranzeremo?”, chiese Bill.
+
+Wilfred, che iniziava ad avere un po’ di ansia riguardo al proprio equilibrio e che ormai sapeva dove sarebbero finite le spese per il pranzo, esitò.
+
+“Ti porterò a Parrot’s,” disse Bill allegramente. “Non ci sei mai stato e dovresti provarci. Questa volta sei mio ospite, capisci?”
+
+“Oh, dico, ” protestò Wilfred, provando un improvviso senso di gioia interiore.
+
+“Beh, è davvero arrivato il momento, non credi?”
+
+Nel suo cuore, Wilfred era d'accordo. Mormorò qualcosa.
+
+“Andiamo, partiremo subito,” disse l’altro.
+
+Certo, pranzarono molto bene; durante il pasto, Bill fu felice di ricevere da suo ospite tutte le informazioni riguardanti i suoi prossimi spostamenti. Gli diede indicazioni su quali ville avrebbe visitato, su come comportarsi con ciascuna padrona di casa e anche sulle loro figlie, avvertendo Wilfred in particolare di stare attento a Melisande (che nome strano, ) e anche a quella che chiamavano Jackie. La prima, secondo lui, era pericolosa; la seconda, semplicemente disgustosa, ma entrambe pericolose. Tuttavia aveva elogiato Cherry, ed era imparziale riguardo alla controversia legata a “Cake Walker”. Molte chiacchiere, buona compagnia, ma anche molte cose prese in prestito. Wilfred seguiva tutto questo con l’entusiasmo di un esploratore che si prepara ad affrontare i pericoli della giungla.
+
+Quando portarono il caffè, Bill cambiò argomento di conversazione. Senza alterare il tono della voce, chiese a Willy se poteva prendergli duecento sterline: una richiesta diretta e chiara, ricevuta esattamente come era stata fatta, cioè senza alcun enfasi. Tuttavia, Wilfred non riuscì a reagire immediatamente; quando rispose, lo fece con il tono di una persona che avrebbe voluto avere più tempo per riflettere.
+
+“Sai, Bill,” cominciò lentamente, “certamente è appena passata la mezzanotte, ” (Sì, Bill lo sapeva bene nel profondo del suo cuore.) “Ma non mi è rimasta ancora tutta la somma necessaria. Ho dovuto spendere molto per le spese iniziali e per altre cose, ”
+
+“Sì, certo,” rispose l’altro con una voce piacevole e rassicurante. “Naturalmente! Comunque, ti spiegherò a cosa serve e capirai. Mi hanno incaricato di occuparmi dei Kleindrift Deeps; l’ho ottenuto dall’esterno. È denaro per le operazioni di recupero, e divideremo i profitti a metà.”
+
+Tutto questo era incomprensibile per Wilfred.
+
+“Non capisco,” disse lui. Alla quale la risposta naturale di Bill fu: “Non stai fumando”, e poi gli passò il suo portasigarette.
+
+Wilfred aveva un po’ paura della forza di quei sigari. La resistenza di Bill alla nicotina sembrava infinita, ma lui dubitava della propria. “Grazie,” disse, prendendone uno, senza molta fiducia.
+
+“Vi spiegherò,” continuò Bill, appoggiando i gomiti sul tavolo e dando una lunga boccata al proprio sigaro, degna dell’occasione. “I prezzi sono attualmente tra i tre libbre e un penny e sei pence e i tre libbre e due penny e sei pence. Approssimativamente. Ieri c’è stata una transazione a prezzo di tre libbre e tre penny. Gli ultimi dati che ho visto ieri indicavano un ribasso di circa un scellino. Poi, ieri pomeriggio, hanno ricevuto quel rapporto devastante. E ho avuto la fortuna di sentirlo. Sapete a quale livello scenderanno i prezzi quando verrà pubblicato?”
+
+“Non capisco del tutto,” disse di nuovo Wilfred.
+
+“Certo,” disse Bill con pazienza, “è davvero semplice: puoi comprare una di queste azioni ora per tre sterline, o poco più. Sai cosa succederà quando il pubblico scoprirà quel rapporto negativo? Uscirà il giorno dopo domani. Le loro quotazioni saliranno sicuramente a almeno cinque sterline.”
 
 
 
@@ -3524,6 +4246,80 @@ Bill had not paid it into his account, had he? No! If he had done so his overdra
 No! No! What Bill had done with it was 104 simpler than that. He had endorsed it and sold it to Mr. Worksop, who was useful in that line and did it for a very small commission. He had got rid of that cheque the evening of the day he got it. After all, it is better to have cash in one’s pocket than anywhere else. He had to pay off a few clamorous duns, he still had a nice wad of about £80 odd in his kick as he trundled down to Hampshire — in another man’s car.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Cosa significa?” chiese Wilfred.
+
+“Significa, vecchio mio, che per ogni tre rischi che corriamo, otteniamo qualcosa di valore superiore a cinque. Non so perché dico ‘rischi’, ”
+
+Qui Wilfred disse qualcosa di molto audace, ma lo disse in modo modesto. “Cosa intendi dire, Bill, noi?”
+
+“Perché,” disse Robinson, più allegramente che mai, “certamente staremo insieme in questa impresa. Te l’avevo detto, no? Non hai sentito dire ‘cinquanta-cinquanta’? Certo che non intendo prendere i tuoi soldi e lasciarti fuori da tutto questo. Voglio soltanto quei duecento per far sì che Lock and Lock si sentano a loro agio quando li invierò. Immagino che non vogliano contanti, ma sarà meglio presentarli così la prima volta. Avremo sicuramente un buon profitto. Calcoliamo al massimo tre, quattro o sei per l’acquisto, e vendiamo a cinque o di più. Quei duecento serviranno come garanzia della nostra buona fede, e ci dovranno ancora quasi altri duecento entro venerdì prossimo al massimo. Non sarò avido. Se vuoi, potrò anche dir loro di vendere non appena il prezzo arriva a cinque-dieci.”
+
+“Volete dire,” disse Wilfred Straddle, che non aveva la minima idea di tutto ciò, “che riceverò indietro i miei duecento e inoltre condivideremo altri duecento? Quindi, entro sabato, avrò guadagnato quasi cento in più?”
+
+Bill borbottò qualcosa e annuì.
+
+“Sembra tutto a posto,” disse Wilfred.
+
+“Va tutto bene,” disse Bill.
+
+“Ma vedi, se non la riporto indietro, sicuramente finirò nei guai. Ho promesso di andare a Norfolk il primo di settembre, e devo assolutamente sopravvivere fino ad allora. I Merridens mi hanno chiesto di tenere l’inaugurazione.”
+
+“Gli uccelli?” disse con aria sprezzante. “Gli uccelli, ragazzo mio? Ci vorranno settimane per pensarci su! Ti dico che sarà adesso, al massimo venerdì, probabilmente giovedì, non appena toccheranno le cinque e dieci.”
+
+“Oh!” disse Wilfred, e sospirò profondamente.
+
+“Puoi darmelo qui, se vuoi. Hai portato con te il libretto degli assegni?” continuò Bill in tono cordiale. “Se no, ti accompagno fino alle tue stanze. Dovrei farlo consegnare oggi stesso tramite corriere. Non si sa mai chi possa venire a sapere di quelle situazioni imbarazzanti. Io stesso non ho molto denaro in banca. Lo sai probabilmente. Ma una volta che avrò pagato il tuo debito, non mi dispiacerà inviare il mio assegno tramite corriere.”
+
+Riluttante, lentamente, ma inevitabilmente, Wilfred tirò fuori un sottile libretto degli assegni e la sua penna a sfera, e consegnò il foglietto di carta. Bill lo agitò in aria – non per trionfo, ma per asciugarlo – lo piegò e se lo mise nella tasca dell’orologio.
+
+“Grazie!” disse semplicemente. “Sarà abbastanza bello per entrambi.”
+
+Non giudicate Bill troppo severamente. Ci sono molte persone che trattano male i cavalli, ma poche quelle che si impegnano davvero a risolvere il problema. Lui intendeva davvero portare a termine quella transazione, e aveva appena ricevuto notizie di quel rapporto negativo. Era già pronto a scrivere la sua lettera a Lock and Lock (poiché erano passate le tre) e a inviare loro il assegno, non al proprio banco. Ma prima di scrivere quella lettera, nelle sue stanze, si fermò da Rayners per verificare il prezzo di chiusura delle azioni. I titoli Kleindrifts avevano già registrato un aumento: erano stati scambiati a 105/, 106/.
+
+Bill rimase sorpreso al punto di emettere un fischio sommesso. Lasciò il biglietto senza scriverci nulla e tenne il assegno nella tasca dell’orologio.
+
+Il giorno dopo, poco dopo le dieci, Wilfred (ancora in pigiama) ricevette la visita di un suo amico, che arrivò pieno di vita e energia come sempre per annunciargli che probabilmente il Kleindrift Deeps aveva iniziato a perdere acqua. Avevano già controllato cinque pozzi, disse, e lui era stato costretto ad acquistare i materiali necessari al prezzo di 108/-.
+
+“Significherà dover aspettare… Ma se aspettiamo, sicuramente arriveranno a sette libbre.”
+
+Alla fine della giornata, il loro conto ammontava a 4 sterline, 12 scellini e 0 pence; fu Bill ad annunciare la notizia.
+
+“È del tutto naturale dopo un salto così improvviso,” disse. “Dovremo aspettare che si riprendano.”
+
+“Sì, sì,” disse Wilfred. Stava iniziando a imparare le prime lettere dell’alfabeto della finanza high-tech. “Sì, sì. Ma spero davvero che i prezzi tornino ad aumentare, molto presto. Non posso permettermi di perdere quei soldi, Bill, davvero non posso. Non proprio ora.”
+
+“Oh Signore!” disse Bill. “Vi dico che ci vorranno settimane, e non può durare più di qualche giorno.” Tirò fuori il sigaro dalla bocca, allungò le braccia, sbadigliò e aggiunse: “Bene, devo andare ora. Vado da Old Cuttle, nel Hampshire. Probabilmente c’è qualche partita di cricket o qualcosa del genere. Old Cuttle è pazzo per il ‘puro 1900’.”
+
+“Tornerai presto?” chiese Wilfred con ansia. “Sì, certo, spero di sì, lunedì.” Con voce sorpresa: “Cosa farai lunedì?”
+
+Lunedì cenerei dai Caryll.
+
+“Vai sempre a mangiare lì, vero?” disse Bill. “Non che abbia nulla in contrario a quella ragazza…”
+
+“Non c’è bisogno di portarla dentro,” disse Wilfred.
+
+“No? Volevo solo dire che sta bene.”
+
+“Sì,” disse Wilfred. “Lo è. Mi piace.”
+
+“Hai ragione!”, disse Bill. “Bene, devo andare ora.”
+
+E via che andava. Lui, il Cavallo, nella sua pienezza. Lasciando il Cespuglio vuoto.
+
+VI
+
+È una cosa terribile segnare la graduale perdita dell’innocenza – anche i primi passi verso di essa. Mi dispiace dirlo, ma il giorno dopo, prima ancora che aprisse la Borsa Valori, Wilfred Straddle si trovava al Club: prima guardò l’elenco completo dei prezzi pubblicato sulle “Notizie Finanziarie”, poi si avvicinò alla striscia di carta su cui venivano registrati i dati.
+
+Perché aveva dubitato di Bill? Si sentiva in colpa. Ecco lì, scritto nero su bianco: i Kleindrift Deeps si stavano muovendo nel sonno. Ecco il dato: 108/-; poi 106/-, 105/9, 104/3, 104/6, 104/-, 104/9. Poi, all’improvviso, prima della fine della giornata, una caduta a 95/-; e infine il prezzo finale: 90/-! Ora bisogna registrare tutto su nastro.
+
+Cosa avrebbe pensato Bill se fosse stato lì. Bill? Era lontano, nel Hampshire, con il “Cuttlefish”. E quanto al assegno di Wilfred, stava procedendo senza problemi.
+
+Bill non l’aveva ancora versato sul suo conto, vero? No! Se l’avesse fatto, il suo scoperto di credito se ne sarebbe occupato immediatamente, trascinandolo nel proprio “nido” e distruggendolo completamente.
+
+No! No! Quello che Bill aveva fatto con quel assegno era decisamente più semplice di così. L’aveva endossato e poi venduto a Mr. Worksop, una persona utile in quel settore che lo faceva per una commissione molto bassa. Si era sbarazzato di quell’assegno la stessa sera in cui l’aveva ricevuto. Dopotutto, è sempre meglio avere contanti in tasca piuttosto che altrove. Doveva saldare alcuni creditori insistenti; aveva ancora un bel mucchio di soldi, circa 80 sterline, quando si recò in Hampshire, usando l’auto di un altro.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_04" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 4)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london"></span>
@@ -3577,6 +4373,56 @@ It was now over a fortnight since the Battle of Pillbox. Wilfred had been shy of
 
 There was nothing very violent about the evening. It was just one of your suppers at the Superbe — and your suppers at the Superbe are ordinary if expensive affairs. It was old Abe, the bookie, who was paying. The company was not of the choicest, nor the quietest. It was rowdy, but not scandalously rowdy — still, it was rowdy enough to cause a complaint to go to the management: a discreet complaint from one of the more touchy guests at a neighbouring table. The manager had discreetly come to say a word or two in a low polite voice to the bookie’s table.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+* * * * *
+
+Lunedì, per quasi tutto il giorno, purtroppo, Wilfred Straddle fu impegnato in continue e nervose operazioni legate alle quotazioni delle azioni. E diventava sempre più preoccupato. Le quotazioni continuavano ad oscillare in modo imprevedibile: un momento sembravano scendere sotto i 90/-, poi riprendevano a salire. Ma non raggiunsero mai i 100/-. L’ultima quota registrata fu di 95/. Un livello che, in qualche modo, sembrava attrarle come un magnete. Se fossero rimaste lì, avrebbe significato una perdita totale.
+
+Nella sua ansia, bevve non meno di due cocktail al pomodoro, e poi si allontanò, un’anima senza scopo e malinconica. Attraversò Green Park, deciso a immergersi in acqua calda, vestirsi per la cena e cercare di dimenticare i problemi di questo mondo in compagnia di Lady Penelope Caryll, Joan, e probabilmente di un’altra mezza dozzina di persone.
+
+Prima di vestirsi, chiamò Bill due volte, ma Bill non era ancora tornato. Quando si fu vestito, proprio mentre stava per andare verso la sua cabina, chiamò di nuovo e fu immensamente sollevato nel sentire quella voce familiare.
+
+“Sì… Cosa c’è? Sono appena tornato. Sì, so che mi avete chiamato.”
+
+“Sai, Bill… non sono ancora tornati a cinque.”
+
+“Chi non è tornato a ‘cinque’?” disse Bill.
+
+“Kleindrift Deeps”.
+
+“Oh!” Una lunga pausa. “Oh, sì!. Me ne ricordo. Oh. Non li hanno ancora presi? Hai ragione. Li ho guardati quando mi sono alzato, avevano novant’anni o qualcosa. Lascia perdere! È solo questione di uno o due giorni.”
+
+“Ma all’inizio hai detto che sarebbero sicuramente arrivati a sette… Quindi sarebbero 140/-!”
+
+Una pausa all’altro capo del filo.
+
+“L’ho detto davvero? Oh, certo, sì, ricordo di averlo detto, sì, sette. Devono assolutamente andare da Seven, cara mia. Bene, allora addio. Chiamami domani e ti dirò di più al riguardo.”
+
+A casa di Lady Penelope c'era così tanto da fare durante la cena che questo aiutò Wilfred ad dimenticare le sue piccole ansie. Inoltre, il fatto di trovarsi seduto accanto a Joan lo rassicurò molto. Fu gentile da parte sua averlo permesso. Ma la verità è che anche lei provava una certa curiosità nei suoi confronti, e stava iniziando a sviluppare un sentimento amichevole verso quel povero ragazzo; questo sentimento si rafforzò ulteriormente dopo che gli aveva fatto quella dichiarazione davanti a sua madre e dopo aver preso la decisione di aiutarlo. La loro conversazione fu seria e semplice: lei gli fece molte domande su ciò che faceva, gli suggerì quali lavori potesse svolgere, e esprime chiaramente l’idea che un ragazzo della sua età dovesse impegnarsi in qualcosa di concreto.
+
+Poi, dopo cena, lei riprese a parlare con lui, e Lady Penelope fu felice di vedere quanto fossero vicini l’uno all’altro. Aveva molta esperienza: sapeva bene cosa potesse significare, alla fine, un’amicizia del genere.
+
+E per quanto riguarda Joan, anche lei era riuscita a ottenere qualcosa: infatti Willy le aveva promesso solennemente che avrebbe lavorato. Non poteva dirle esattamente in quale campo lavorare. Come avrebbe potuto? Non sapendo nemmeno di cosa si trattasse! Ma le aveva fatto quella promessa con sincerità. Nella sua mente gli balenò l’immagine di sé seduto in una bella poltrona, davanti a un grande tavolo da ufficio in stile vittoriano, in un lussuoso ufficio aziendale della città, mentre firmava documenti. Non era altro che un’immaginazione, ma lo rendeva comunque più soddisfatto di sé stesso. Un vero uomo.
+
+Il giorno dopo, e ancora il giorno successivo, le sue ansie tornarono. Avevano tutte le ragioni per tornare. Dallo appartamento di Bill ricevette una telefonata che gli comunicava che Bill era stato chiamato via all’improvviso; non sapevano dove fosse andato, e nessuna informazione sarebbe stata inviata nei prossimi uno o due giorni.
+
+Wilfred aspettò quel giorno, il giorno dopo, e ancora per alcuni giorni, continuando a osservare le quotazioni di Kleindrift Deeps. Ormai quelle quotazioni avevano superato la fase di instabilità iniziale e si erano stabilizzate intorno al livello del 90/-. Poi però le quotazioni scesero di un paio di penny; subirono ulteriori fluttuazioni, ma infine si ristabilirono intorno al 90/–. Un prezzo abbastanza buono, considerando la natura “spazzatura” di quei titoli, ma comunque non sufficiente per Wilfred.
+
+Finora non solo si rendeva conto che prima o poi avrebbe perso una quarantina di chili, ma doveva anche affrontare le spese quotidiane; inoltre, il suo saldo bancario continuava a diminuire, assumendo quell’aspetto emaciato tipico della mancanza di cibo e sonno adeguati.
+
+Un giorno o due dopo tutto questo arrivò una nota da parte di Bill, scritta in fretta su carta da blocco e non particolarmente rassicurante. Diceva solo che stava passando per [[London|Londra]] e che non avrebbe dormito lì. Si scusava molto per il fatto che le azioni Kleindrift Deeps fossero ancora “appiccicose”, ma ovviamente sarebbe stato stupido venderle: il loro valore sicuramente sarebbe aumentato nei prossimi giorni. Era solo questione di tempo prima che qualche piccolo investitore scoprisse cosa era successo. Erano appiccicose, nient’altro. Ma presto avrebbero iniziato a crescere di valore. Almeno un po’, comunque. Wilfred sarebbe venuto a cena da lui quella sera? Potevano mangiare nell’appartamento di Bill o andare fuori qualche posto. Lui doveva lasciare la città il giorno dopo per altri due giorni. Ma voleva davvero rivederlo.
+
+Wilfred era più che disposto. Era meglio parlare di quella questione faccia a faccia; inoltre, sarebbe stato giusto che fosse Bill a pagare per quella serata, dopo tutti gli imprevisti nei quali aveva trascinato il suo amico.
+
+La cena fu eccellente: Bill era generoso quando aveva denaro in tasca, e ne aveva in abbondanza. Era stato portato gratuitamente fino a Old Cuttlefish e riportato indietro allo stesso modo; inoltre, aveva avuto successo ai giochi d’azzardo organizzati dal suo ospite. Aveva dovuto pagare un’altra somma, ma gli erano rimasti ancora più di cinquanta dei duecento dollari iniziali di Willy. Così andarono al Paradise e Bill pagò il conto; parlò con tale entusiasmo di azioni e mercati in ascesa che povero Wilfred si sentì molto meglio per alcune ore.
+
+* * * * *
+
+Erano passate ormai più di due settimane dalla Battaglia di Pillbox. Wilfred aveva avuto paura di farsi vedere lì, ma Bill insistette e lo portò con sé una certa sera, memorabile e decisiva. Lì si unirono a un gruppo che intendeva trascorrere la notte in giro. Ancora una volta, Wilfred fu coinvolto nella situazione. Si ritrovò tra i ragazzi e le ragazze del villaggio che partivano in fila di taxi per andare al Superbe.
+
+Quella sera non ci fu nulla di particolarmente violento. Fu semplicemente una delle solite cene al Superbe: cenette ordinarie, anche se costose. A pagare era il vecchio Abe, il bookmaker. L’ambiente non era certo dei migliori, né il più tranquillo. C’era un po’ di rumore, ma non abbastanza da scatenare lamentele da parte della direzione: solo una segreta protesta da parte di uno degli ospiti più sensibili seduti al tavolo accanto. Il manager si era avvicinato in modo discreto per dire due parole a bassa voce al tavolo del bookmaker.
 
 
 
@@ -3674,6 +4520,98 @@ Wilfred Straddle was already wilting; he began hesitatingly....
 “Make matters no worse. Confess if ye will, orr be silent. Now listen to me, I say, and I’ll put matters before ye. When ye leave this room — and I’ll not keep ye long — ye shall see me no more. Ye’ll have to go out and seek your bread, as many a better man has done before, and less of a liar and less of a fool. It may be your salvation. But ye’ll see me no more, nor hear from me or of mine, Wilfred Guthrie. Ye have been weighed and found wanting.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il bookmaker rispose con molto meno discrezione. Più di un uomo si alzò in piedi, le voci iniziarono ad alzarsi, le donne spostarono indietro le loro sedie. C’era tutto il preludio a una brutta lite.
+
+Qualcuno ha lanciato un bicchiere; questo si è spezzato contro il muro. È scoppiata una confusione: la gente si è alzata per chiedere ordine. Una delle bottiglie di champagne è caduta sul tavolo e si è rotta, mentre un’altra girava vorticosamente nelle mani di qualche giovane sciocco.
+
+Mentre la situazione raggiungeva il suo apice e le cose iniziavano ad andare storte, Wilfred, rimproverandosi per la propria nervosità, avrebbe potuto giurare di aver visto un fantasma.
+
+Nel mezzo del clamore, qualcuno si era mosso nella parte posteriore della stanza, camminando con passi decisi e leggermente curvo verso la porta. Era senza dubbio la copia esatta di John Scott Guthrie di [[New York]]! Che si trattasse di un fantasma o di una sua copia, era comunque scomparso.
+
+La rissa fu placata, il denaro la placò, e Wilfred dovette contribuire, con il cuore pesante. Per tutta la notte si svegliò più volte, rivivendo quella visione o quel fantasma di suo zio. Se fosse stato reale o solo un’illusione, Wilfred lo scoprì al mattino. Un telegramma lo aspettava sul tavolo della colazione.
+
+“Incontriamoci oggi alle undici e trenta nella suite Superbe numero sedici.”
+
+# VII
+
+Alle undici e trenta del mattino seguente, esattamente alle undici e trenta in punto, Wilfred Guthrie Straddle era sul tappeto da lotta.
+
+John Scott non si alzò dalla sedia dietro il tavolo. Fece un cenno al suo nipote e gli disse di sedersi di fronte a lui. Il giovane obbedì.
+
+“Ma zio,” cominciò, “non sapevo che fossi dalla nostra parte. Avresti potuto dirmelo! Non verrai a, ”
+
+John Scott lo interruppe alzando la mano. Accanto a lui c'era un piccolo mucchio di documenti ordinatamente etichettati e sistemati. Davanti a lui c'era una foglia di carta su cui aveva scritto qualche titolo, come se fosse per delle note.
+
+“Non c’era bisogno che ti avvisassi,” disse con una voce simile al rumore di una trappola che si chiude. “Ma devo ascoltarti. È per questo che sono venuto. Non ti tratterrò a lungo, ma devo sentire cosa hai da dire. Ho visto quello che è successo ieri sera.”
+
+“Ma, zio…”
+
+In risposta, John Scott Guthrie non disse una parola. Poi spinse verso di me il ritaglio di giornale che aveva messo in cima al mucchio.
+
+Vi erano scritte le titolazioni americane riguardanti l’affare della Casamatta. Poi quell’uomo anziano e scuro parlò.
+
+“Lo leggerai?” disse John Scott.
+
+Naturalmente, Wilfred rispose con le parole sbagliate.
+
+“Mi è stato detto che l’hanno tenuto nascosto dai giornali,” disse.
+
+“Allora vi è stato detto il falso. Leggerete questo?” aggiunse, porgendo la prima delle lettere di Mr. Willis, o meglio, una copia dattiloscritta; le originali erano chiuse nella piccola cassaforte dove John Scott Guthrie teneva i suoi documenti più importanti. Sotto quel testo vergognoso, scritto in termini volgari e coloriti, non c'era alcun nome. John Scott non voleva che suo nipote sapesse quale agente avesse utilizzato.
+
+Wilfred lesse quella lettera lentamente; quando finì, John Scott gli porse un’altra lettera.
+
+“Lo leggerai?” disse.
+
+Wilfred lesse la seconda lettera, più velocemente della prima, provando sempre maggiore disgusto e ribellione nel suo animo.
+
+“Non so di cosa si tratti, zio,” disse. “Non capisco il significato di tutto questo. Non so perché mi stai trattando in questo modo. Sei venuto fin qui senza dirmelo, e ora mi presenti tutte queste cose all’improvviso. Non riesco a comprendere di cosa si tratti.”
+
+“Lo leggerai?” disse John Scott Guthrie, spingendo verso di lui una terza lettera.
+
+“Wilfred Straddle aveva a malapena il coraggio di leggere le prime righe…”
+
+“Onorato signore, da quando vi ho scritto l’ultima volta, cioè lunedì scorso, ho visto quel giovane gentiluomo, in condizioni ancora peggiori di prima. Si trovava al Croesus, e vi racconterò fedelmente ciò che è accaduto, ”
+
+Wilfred si alzò improvvisamente, senza essere stato chiamato. Il suo viso era diventato completamente rosso. Ricordò quella notte al Croesus, settimane prima: l’insopportabile noia delle donne che bevevano; Bill, eccitato all’inizio e irascibile alla fine, e quell’uomo che era caduto giù dalle scale quando Bill lo aveva spinto.
+
+“Non voglio leggere più nulla, zio John,” disse.
+
+“Forse no,” disse John Scott, porgendo una quarta lettera.
+
+Se all’inizio Wilfred Straddle avesse fatto la cosa sbagliata, ora avrebbe fatto qualcosa di ancora più sbagliato (come fa sempre il tuo “Hedger”, ). È andato completamente fuori controllo.
+
+“È tutto un mucchio di bugie!”, gridò, piantandosi dritto in piedi con un'espressione quasi feroce e al contempo coraggiosa.
+
+“Neghi di essere stato tra quella folla ubriaca quella notte?”
+
+"No, non lo faccio… Ma…”
+
+John Scott alzò di nuovo la mano.
+
+“Neghi di essere stato in uno qualsiasi di questi luoghi di cui mi parla la mia informazione, o di far parte di quella compagnia?”
+
+Poi, mentre il giovane, sempre più arrabbiato, cominciava ad interrompere, suo zio abbatté con forza la mano sul tavolo e gridò: “Lo neghi? Sei stato o non sei stato lì? Sei stato arrestato, nelle celle, tu, un Guthrie?”
+
+Il viso di Straddle era nero.
+
+“Mi chiamo Straddle,” disse, “e non vi risponderò a nulla. Nemmeno mi credereste se lo facessi.”
+
+“Puoi negarlo? Qualsiasi cosa di tutto questo?” ripeté John Scott.
+
+“Non ti risponderò nulla,” gridò Wilfred, ancora in piedi e ora con le mani nelle tasche dei pantaloni, come se questo potesse dargli sicurezza. Dentro di lui tutto bruciava. Era stato chiamato a vedere suo zio senza preavviso, senza spiegazioni; era stato trattato con silenzio e disprezzo, e ora scopriva di essere stato vittima di spie. E adesso stava lì, umiliato, giocattolo di un pazzo, ma di un pazzo dal quale dipendeva la sua unica fonte di sostentamento.
+
+“Non ti risponderò nulla!” ripeté.
+
+“Wilfred Guthrie,” disse John Scott con lo stesso tono calmo e deciso con cui aveva iniziato l’intervista. “Avete scelto di adottare questa linea d’azione con me. Era esattamente ciò che mi aspettavo. Ora sedetevi. Sedetevi ancora, e vi spiegherò tutto.”
+
+Wilfred Straddle era già visibilmente scoraggiato; iniziò a esitare.
+
+“Non tocco mai nulla, zio John. Te l’ho promesso e non lo faccio.”
+
+“Non peggiorare le cose. Confessa se vuoi, o taci. Ora ascoltami attentamente: quando uscirai da questa stanza – e non ti tratterrò a lungo – non mi rivedrai più. Dovrai andare a cercarti da vivere, come hanno fatto molti uomini migliori di te. E senza essere un bugiardo né uno sciocco. Forse sarà la tua salvezza. Ma non mi rivedrai mai più, né riceverai notizie da me o da Wilfred Guthrie. Sei stato giudicato, e sei risultato insufficiente.”
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_06" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 6)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="concept/satire_of_society,concept/critique_of_progress,concept/argument_from_authority,form/satire,form/novel"></span>
@@ -3734,6 +4672,62 @@ Here, as in the case of the two famous Germans, an older and a younger man colla
 Mr. Malcolm (often erroneously appearing with the title of “Professor” in the papers) summarized, comparatively late in life, the general trend of innumerable essays and addresses under the title “Fixation of Habit under the Effect of Repetition.” He established on a firm basis never before reached, though often half seen in flashes by his predecessors, the great truth that the human organism tends by repetition to make of acts normally conscious something hardly conscious at all.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Zio, ” iniziò a dire Wilfred.
+
+“Non sprecheremo altre parole”, disse John Scott. Si alzò e aprì la porta.
+
+“Zio,” disse Wilfred esitando di nuovo, mentre si avvicinava a esso.
+
+“Non sprecheremo altre parole,” ripeté John Scott. E la vittima uscì.
+
+# VIII
+
+Ora vi interromperemo, causandovi notevole disagio, ma non c’è niente da fare. Abbandoneremo la nostra attività principale per deviare su un argomento secondario. Esamineremo le opere di quattro illustri scienziati: due dei quali sono nostri cugini tedeschi, gli altri due appartengono alla nostra stessa nobile isola d’origine.
+
+Tra poco capirete perché sto per deviare dal discorso su queste “luce” del mondo accademico. Se non lo facessi, non riuscireste mai a comprendere l’ultima avventura di John Scott.
+
+Le due autorità tedesche in questione sono il professor Hirsch, attualmente residente a Vienna, e l’eminente esiliato professor Mann, che, per fortuna, al momento risiede a Cambridge e riceve un alto stipendio fornito dai suoi sostenitori a spese nostre.
+
+Hirsch e Mann sono nomi strettamente legati al mondo scientifico; persino il grande pubblico li conosce ormai, così come il loro famosissimo lavoro “Uber Alterschwache nursachen und processus lebenswendige untersuchung”, tradotto in inglese dallo stesso eminente collega di origine inglese, William Asche (precedentemente lavoratore a Bonn), con il titolo “The Causes and Advance of Old Age”.
+
+È la gloria di Hirsch il fatto che, dopo aver dedicato metà della sua vita con incredibile pazienza e impegno alle ricerche più minuziose sul processo di invecchiamento, o meglio sulla “Idrosi”, e sui suoi effetti sul corpo umano, sia riuscito a riassumere questi risultati in modo completo e a trarre conclusioni che hanno rivoluzionato la nostra conoscenza della vita umana.
+
+Ma nemmeno il trionfo di Hirsch sarebbe stato completo senza il sostegno fornito dalle brillanti deduzioni di Mann.
+
+È un grande onore per questi due maestri gemelli il fatto che tra loro non sia mai esistita alcuna gelosia. Ognuno di loro riconobbe fin da subito il genio dell’altro, e fin dai primi giorni della loro collaborazione a Berlino lavorarono in modo così armonioso che lo stile e il modo di procedere di uno non possono essere distinti da quelli dell’altro nella produzione congiunta. Hirsch eccelleva particolarmente nella ricerca, negli esperimenti e nelle tabulazioni; Mann, invece, nella formulazione di teorie audaci – un maestro nell’artigianato delle ipotesi, le quali venivano costantemente confermate dall’esame del mondo reale da parte del suo collega. Insieme, questi due uomini e la loro creazione congiunta hanno trasformato la nostra concezione del ciclo vitale: fisiologico, morfologico, biologico, ontologico, parabologico e deuterologico.
+
+In breve, Hirsch dimostrò per primo che l’attività muscolare subisce un declino a partire da una certa età, compresa tra i cinquantacinquesi e i settantacinquesi anni.
+
+Un enorme quantitativo di statistiche, raccolte in ogni clima e tra tutte le razze grazie all’imponente impegno di Hirsch, dimostra che questo tipo di declino si manifesta nella specie Homo Sapiens dalla quinta alla settima decade della vita (è più evidente nell’Elefante e meno nel Cane).
+
+Come ha detto Lord Whittleborough nella sua Lezione Commemorativa tenuta a Oxford lo scorso giugno: “Hirsch ha dimostrato che l’uomo medio sembra perdere agilità verso la fine dei sessant’anni.”
+
+Certo, questo non significa che tutti gli uomini diventino confusi già a un’età così giovane. Conosco personalmente un vecchio signore che ancora partecipa alle cacce con i cani, come una scimmia da circo, anche se lo scorso dicembre ne aveva compiuti settantatré.
+
+Ciò non significa che alcuni dei nostri fratelli meno fortunati non inizino a mostrare segni di logorio più precocemente. Lo stesso Hirsch ha riportato casi di giovani uomini, ben nutriti e dotati di tutte le opportunità necessarie, che soffrivano di una stanchezza incurabile già prima di lasciare l’università.
+
+Sarebbe assolutamente antiscientifico generalizzare senza tenere conto di queste eccezioni. Tuttavia, la “legge di Hirsch” è ormai indiscutibile: nell’uomo medio, con l’avvicinarsi dei settant’anni, si osserva un declino nella rapidità dei suoi movimenti bruschi e dei suoi calci, nonché un aumento della goffaggine complessiva.
+
+A questa rivoluzionaria scoperta, Mann aggiunse l’elemento che permetteva una sintesi completa.
+
+In una serie di esperimenti, tutti controllati minuziosamente e ripetuti ampiamente in tutte le condizioni possibili, dimostrò che fu proprio in quegli anni, alla fine della sesta decade, che il fenomeno dell’idromorfismo iniziò ad manifestarsi nella ghiandola moronica. Non esistette nemmeno un caso – tra migliaia – in cui la senilità non fosse accompagnata esattamente da questo processo di idromorfizzazione della ghiandola moronica.
+
+La ghiandola moronica e la sua “degenerazione fibrosa” nell’età avanzata erano certamente conosciute empiricamente molto tempo prima dell’epoca di Mann. I Greci ne avevano descritto i dettagli in modo approfondito, e Galeno si era soffermato ampiamente sull’argomento. Ma fu il merito di Mann quello di aver trasformato ciò che per secoli era stato soltanto un’affermazione empirica in una teoria sintetica e rigorosamente scientifica.
+
+Unite Hirsch e Mann: nel loro lavoro immortale sono già uniti, e così tutto diventa chiaro! Sappiamo ora sia la causa che i processi dell’invecchiamento; sappiamo quando aspettarlo e perché accada.
+
+Alcuni, nel primo entusiasmo per questa nuova e straordinaria conoscenza, speravano di poter ritardare l’arrivo del “Terrore dei Morti” (per usare le parole incantevoli del Vescovo di Shoreham) attraverso l’intervento chirurgico sulla ghiandola della stupidità; ma ogni tentativo di questo tipo si è rivelato fatale fino ad oggi.
+
+Avete affrontato questa digressione con tale coraggio che sono propenso a lasciarvi fare anche con il resto. Ma il dovere è dovere. Continuate così, ragazzi! Vedo terra in lontananza; tra poco potremo riposarci. Allora, avanti.
+
+Anche le scoperte rivoluzionarie di Hirsch e Mann non sarebbero quelle che sono oggi se non fossero state applicate grazie alle conclusioni a cui erano giunti quei due pratici inglesi: il signor Malcolm di St. Dunstan’s e il suo giovane collega, Lotsch, professore di Statica Biologica nell’università gemella.
+
+Qui, come nel caso di quei due famosi tedeschi, un uomo più anziano e uno più giovane collaborarono insieme, anche se forse non in modo così stretto quanto avvenne con i nostri cugini teutonici.
+
+Il signor Malcolm (spesso erroneamente indicato nei giornali con il titolo di “Professore”) riassunse, piuttosto tardi nella sua vita, la tendenza generale di innumerevoli saggi e discorsi sotto il titolo “La fissazione dell’abitudine nell’effetto della ripetizione”. Egli stabilì, su una base mai raggiunta prima, sebbene spesso solo intravista dai suoi predecessori, la grande verità secondo cui l’organismo umano, attraverso la ripetizione, tende a trasformare azioni normalmente consapevoli in qualcosa che diventa quasi del tutto inconscio.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_07" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 7)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="histref/america,setting/america,setting/london"></span>
@@ -3776,6 +4770,44 @@ Wilfred attended that service as chief mourner. The sermon, though rather long b
 Then, when all was over and Wilfred had added to his embarrassments by purchasing with cash a suit of mourning (from the same tailor, of course, as had created the Robinson splendours), he bethought him of his situation.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Abitudine”: così chiamava questo processo. Dimostrò che tale abitudine si forma attraverso la ripetizione continua. Il suo esperimento più famoso fu quello condotto su un criminale che il Ministero dell’Interno gli aveva gentilmente messo a disposizione per scopi scientifici.
+
+Ma il colpo di grazia di tutta la faccenda fu…
+
+L’articolo indimenticabile di Arthur William Lotsch su “Nature”, pubblicato per una meravigliosa coincidenza nello stesso momento dell’uscita dell’opera immortale di Malcolm.
+
+Lotsch dimostrò allora – e lo dimostrò per sempre – che la formazione degli abiti attraverso la ripetizione è legata alla longevità. Utilizzando i metodi di prova più rigorosi, e senza che alcuna delle critiche rivolte alla novità di questa idea sia riuscita a confutarli, dimostrò che gli abiti consolidatisi nel corso di molti anni si fissano con maggiore forza rispetto a quelli formatisi in un lasso di tempo più breve; inoltre, azioni ripetute quotidianamente o ad orari regolari radicano più saldamente che azioni occasionali.
+
+Credo di aver detto abbastanza (e probabilmente anche di più del necessario) per dimostrare quali straordinari progressi nella conoscenza umana siano stati realizzati da questi quattro uomini. E possiamo certamente essere orgogliosi che tale progresso sia stato un trionfo, se non soltanto della nostra amata nazione, almeno della razza nordica in quanto tale. Nessun latino, nessun mongolo, e tantomeno alcun individuo appartenente ai gruppi negroidi, alpini o artici, ha aggiunto nulla di significativo alle basi così gettate.
+
+Finora tutto va bene. Forse, per disgusto, avete già gettato via questo libro, pensando che non fosse proprio questo genere di cose che volevate leggere quando vi siete presi la briga di prenderlo in prestito. Aspettate un attimo. Vedrete dove tutto ciò porterà.
+
+John Scott Guthrie, lasciate che vi ricordi, aveva appena superato i sessantasei anni. Per esprimerlo in termini più precisi e scientifici, era nel suo sessantesettesimo anno di vita. Capite cosa intendo? Aveva già superato quella che Hirsch definisce il “punto medio di flessione” (torquementum), mentre Mann lo descrive in modo più pittoresco come lo “stato decisionale”.
+
+“Il punto decisivo.” John Scott aveva raggiunto ciò che Malcolm definisce, con una parola da lui stesso coniata di recente, “fissazione”; quella fase che Lotsch descrive nel suo inglese vivace come “incrostata”.
+
+Fin da molto giovane, prima di recarsi in [[America]], quando ancora risiedeva nelle sue benedette Lowlands, John Scott Guthrie aveva naturalmente l’abitudine di camminare, andare in bicicletta o guidare sulla sinistra, come è consuetudine in quella regione. Sebbene sia vero che le prime impressioni siano le più forti e durature, oltre quarant’anni trascorsi negli Stati Uniti avevano formato un nuovo “strato culturale” più profondo e radicato di quello precedente. Ora John Scott Guthrie tendeva inevitabilmente a considerare il traffico come qualcosa che avviene sul lato destro della strada. Naturalmente, quando visitava la sua terra natale, avrebbe dovuto ricordarsi dell’anomalia del nostro sistema di circolazione e guardare a destra prima di scendere dal marciapiede. Ma queste visite in Inghilterra erano state molto rare; nel frattempo, il processo fatale legato alla fibrosi della ghiandola Moronic aveva già avuto inizio.
+
+Ecco perché, la mattina seguente quell’intervista con suo nipote, John Scott Guthrie, scendendo dal marciapiede per attraversare la strada e guardando a sinistra invece che a destra, fu, come disse bene il giornalista, “letteralmente spazzato via dai piedi”. Sì, per una volta la parola “letteralmente” è davvero appropriata. Fu spazzato via e finì sopra il cofano di un camion in movimento.
+
+Si radunò una folla; fu chiamata un’ambulanza. Un poliziotto iniziò a prendere appunti, un altro cominciò a cercare nelle tasche di John Scott per trovare un possibile indirizzo e trovò una busta indirizzata alla vittima presso il Superbe. L’ambulanza fu direzionata verso l’Ospedale St. Lazarus, che si trovava a distanza; intanto fu inviato un avviso anche al Superbe, che era proprio lì vicino.
+
+Dopo aver a lungo riflettuto sulla sua situazione del giorno precedente, quella stessa mattina Wilfred Straddle si diresse lentamente ma senza alcuna decisione verso l’hotel di suo zio, con l’intenzione di riconciliarsi con lui. Lì apprese la notizia e partì immediatamente per St. Lazarus’s.
+
+L’hotel aveva fatto la cosa giusta: avevano controllato che il milionario disponesse di una stanza d’ospedale adeguata alla sua ricchezza, e che quella povera persona priva di coscienza non fosse costretta a sopportare gli inconvenienti e l’attenzione indesiderata tipici della condizione dei poveri. Davanti alla finestra c’era un vaso di fiori, c'erano due infermiere qualificate a prendersi cura di lui, e Wilfred scoprì che il dottore era ancora lì.
+
+Il dottore prese da parte il giovane, apprendendo che era un parente – l’unico parente – e gli rivelò subito la verità. John Scott non avrebbe più parlato; con ogni probabilità, non avrebbe più saputo nulla del mondo che lo circondava. Non restava loro altro da fare se non aspettare la sua morte.
+
+Non dovettero aspettare a lungo. Nelle prime ore del caldo crepuscolo estivo, John Scott Guthrie raggiunse la fine della sua vita: era rimasto immobile per poche ore soltanto, senza più vedere né sapere nulla.
+
+Wilfred Straddle fu spinto ad agire nonostante la sua confusione. Prese tutte le disposizioni necessarie con le autorità ospedaliere; chiamò gli agenti di suo zio, Worms e Handler – gli unici nomi a [[London|Londra]] che sapeva potessero avere qualche legame con l’uomo morto – affinché venissero reperiti i fondi necessari per procedere correttamente. Furono aperte le istruzioni lasciate agli agenti: il corpo doveva essere cremato, e si desiderava in particolare che i “riti religiosi dopo la mia morte fossero celebrati da un Ministro della Chiesa Presbiteriana debitamente incaricato”.
+
+Wilfred partecipò a quel rito come principale dolente. Il sermone, sebbene piuttosto lungo secondo i nostri standard meridionali, non era privo di eloquenza né di erudizione: il reverendo Thomas Clantaggart è infatti uno dei grandi studiosi del nostro tempo; silenzioso a tavola, eloquente durante le cerimonie religiose. Predicò sull’accumulo di tesori in cielo e parlò delle virtù e degli achievement del defunto in modo che dimostrasse la sua grande diligenza nel preparare il discorso. Aveva trascorso quasi l’intera giornata raccogliendo tutti i fatti necessari presso la banca di Guthrie a [[London|Londra]], dai suoi agenti, da Wilfred, e – il che dimostra la sua meticolosità – anche dal personale del “Superb”.
+
+Poi, quando tutto fu finito e Wilfred aumentò ulteriormente la sua imbarazzo acquistando in contanti un abito da lutto (naturalmente dallo stesso sarto che aveva realizzato gli abiti sfarzosi di Robinson), si rese conto della sua situazione.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_08" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 8)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/greed_and_money,concept/deception,concept/vulgarity,concept/fame_and_publicity,form/satire,form/novel"></span>
@@ -3807,6 +4839,34 @@ The next day, the news of old Guthrie’s death and Willy’s presumed good fort
 
 Five pounds! Five pounds! When he had to look at every penny! But he read those Press cuttings carefully. It took him more than half an hour.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Con Wilfred Straddle, l’arte di pensare non era ridotta a regole precise. Piuttosto, il suo pensiero si muoveva lentamente avanti e indietro, proprio come nei campi di trebbiatura in Spagna si possono vedere i muli che camminano avanti e indietro.
+
+Innanzitutto gli venne in mente che, con la morte di suo zio, l’assegno potesse benissimo cessare. Poi i suoi pensieri proseguirono, fino al punto di considerare l’eventualità che esistesse un testamento da cui lui fosse escluso. Dopo lunga riflessione, giunse alla conclusione che doveva informarsi più dettagliatamente su queste cose. Alla fine, stabilì quali fossero le sue risorse e decise di prendere tutte le misure possibili per affrontare un futuro così incerto.
+
+Dopo aver completato questo giro, la sua mente si distrasse di nuovo durante il secondo giro, ripetendo tutti i punti nell’ordine giusto; alla fine, si rese conto della necessità di scoprire esattamente quali risorse aveva a disposizione e cosa si poteva fare per affrontare un futuro così terribile.
+
+Allora la mente di Wilfred ricominciò a lavorare durante il terzo giro; aveva già iniziato anche il quarto quando giunse a una conclusione parziale. Si alzò e controllò i soldi nel portafoglio: c’erano solo pochi spiccioli. La ricevuta del suo libretto di assegni indicava ancora più di quaranta sterline, per essere precisi, quarantatré sterline, quattro scellini e sette pence. In totale, con i soldi che aveva con sé, facevano circa cinquanta sterline. Aveva incassato un solo assegno, e questo presso la banca per conto proprio, dopo il pranzo da Parrott’s e quel scomodo prestito di duecento sterline. Beh, avrebbe recuperato quelle duecento prima o poi, anzi, sperava che fosse presto. Forse ci sarebbe stato anche un profitto. Robinson aveva detto che lo pensava. Mettiamo pure trecentocinquanta sterline. Con queste cinquanta in mano, ne avrebbe circa quattrocento. Avrebbe abbastanza per tirare avanti per un po’. Aveva spazio per manovrare. Ma doveva ancora decidere cosa fare dopo.
+
+Con aria noncurante, si diresse verso il suo club. Lì trovò un numero sorprendentemente alto di lettere che lo aspettavano: dovevano essere più di venti. Non sapeva nemmeno che avesse già accumulato così tanti contatti.
+
+Nemmeno lui lo sapeva. Perché alcune di queste lettere provenivano da persone che non aveva mai incontrato, ma che per qualche motivo desideravano conoscerlo. C'erano anche messaggi da persone che conosceva bene. C'era una lettera affettuosa e piena di simpatia da parte di Bill, in cui si sperava di rivederlo al suo ritorno; era stata scritta da qualche luogo lontano nel Sussex, e Bill non sarebbe tornato prima di Goodwood.
+
+C'era una lettera affascinante, ben scritta e piena di compassione da parte di Lady Merriden. Lady Penelope aveva scritto anch'essa una lettera simile, gentile e commovente, molto ben redatta. C'era inoltre una lettera altrettanto bella, affascinante e compassionevole da parte di Lady Lodiham. C'era poi una lunga lettera riguardante la triste notizia della signora Matheson; molte parole al suo interno erano sottolineate, e l'intero testo trasudava un sentimento profondo e sincero, pieno di gentilezza e compassione, e scritto con grande maestria. C'era anche una lettera che lo toccò molto, inviata da uno degli ex domestici della famiglia Guthrie, ormai pensionato altrove; ricordava John Scott da ragazzo e ne provò tristezza. Il pensionato augurava al signor Wilfred tutta la gioia e la fortuna possibili, sperando che queste lo raggiungessero proprio come avevano raggiunto chi le aveva scritte. Un corrispondente si scusò: non aveva mai incontrato il signor Straddle, ma essendo un'amica molto intima degli amici di lui, si sentiva come se lo conoscesse bene. Un altro corrispondente, appartenente a ciò che alcuni definiscono “l’altro sesso”, si scusò anch'egli per aver contattato il signor Straddle senza presentazioni e per aver chiesto un prestito urgente di cinquanta sterline. E così via. C'era infine una breve lettera di Fanny Blackman, figlia di Lady Merriden: scritta male, goffamente, in modo convenzionale e con errori di ortografia; l’aveva copiata da un racconto che aveva letto in un romanzo. Quel testo le aveva fornito lo stile; gli errori di ortografia erano suoi, mentre il tipo di emozione espresso era comune a entrambe.
+
+L’ultimo messaggio era di Joan.
+
+Wilfred lo lesse tre volte e gli vennero le lacrime agli occhi. Era come una lettera da parte di una sorella. Sicuramente, pensò, Joan capiva quanto avesse sofferto a causa di quel shock, di quei cambiamenti e di tutta quella situazione confusa. Alla fine scriveva che non doveva preoccuparsi; in quei giorni doveva stare per conto suo; ma se mai avesse voluto parlare tranquillamente con qualcuno che sapeva avrebbe apprezzato la sua compagnia, bastava che la chiamasse e andasse a trovarla.
+
+Il suo post del giorno seguente era ancora più ricco di contenuti. C'erano una miriade di offerte da parte di aziende che volevano vendergli cose del genere di quelle che gli uomini ricchi acquistano: yacht, ville, residenze eleganti (molte delle quali davvero incantevoli), e anche aree verdi simili a parchi. C'erano persino gioielli, oltre a offerte straordinarie su vini rari. Avrebbe potuto comprare il resto di una pipa al prezzo di 150 penny per dozzina, un vero affare! E c’era anche brandy vecchio proveniente da vendite speciali, a poco meno di quattro sterline alla bottiglia: sembrava davvero uno spreco gettare via tutto quel denaro! C’era anche Tokay, proveniente dalle riserve imperiali. Iniziarono inoltre ad arrivargli richieste e offerte da varie parti, almeno una mezza dozzina, per oggetti di ogni tipo; solo uno di essi aveva davvero un significato per lui: quello proveniente dalla M.M.L., la Modern Maternity League, l’iniziativa della signora Matheson, su cui lui e Joan avevano scherzato chiamandola “le Madri della Classe Media”.
+
+Aveva inviato un'altra lettera scritta a macchina, in cui proponeva una sottoscrizione annuale di venti ghinee.
+
+Il giorno dopo, quando la notizia della morte di vecchio Guthrie e della presunta buona fortuna di Willy si era ulteriormente diffusa, scoppiò un vero “influenzamento” di comunicazioni: il numero di volantini distribuiti aumentò di tre volte, arrivarono diverse lettere di condoglianze in ritardo, e (cosa del tutto nuova nella vita di Willy) una grande quantità di articoli di stampa, accompagnati da una lettera in cui gli si proponeva di accettarli in cambio di un assegno da cinque sterline, che avrebbe coperto (a un tasso speciale) tutte le apparizioni del suo nome su pubblicazioni per l’intero anno successivo alla data di ricezione della lettera.
+
+Cinque sterline! Cinque sterline. Quando doveva controllare ogni singola moneta. Ma leggeva quei ritagli di giornale con attenzione. Gli ci volle più di mezz’ora.
 
 
 
@@ -3859,6 +4919,54 @@ Joan greeted him earnestly.
 
 “Anything you tell me,” said Wilfred submissively.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le persone che si occupano di pettegolezzi, quelle delle colonne sociali, avevano scoperto qualcosa su di lui: “Si è visto il signor Wilfred Straddle qui.”
+
+“Si vide il signor Wilfred Straddle lì.”
+
+“Un uomo che apprezza appieno il fascino dell’antico Westminster è il signor Wilfred Straddle. È, naturalmente, nipote del defunto John Scott Guthrie, di [[London|Londra]] e [[New York]].” Ci furono due o tre dozzine di resoconti sulla cerimonia funebre; ciò che gli sembrò strano fu una descrizione particolareggiata dell’abbigliamento che indossava, come se fosse stata una giovane ragazza presentata alla Corte o un’anziana donna a una cerimonia.
+
+Uno dei più aggressivi di questi individui – e questo è davvero dire molto – tentò di mettere le mani sulla fortuna di John Scott, quella che si “diceva” possedesse; in altre parole, intendeva prendersela tutto dopo il pagamento delle tasse di morte americane.
+
+Willy ci pensò su. Quei cinque pounds per le copie da distribuire erano come se dovesse farsi estrarre cinque denti, ma non osava lasciare che si parlasse di lui in modo negativo senza sapere esattamente cosa si diceva. Sembrava che tutto ciò potesse rivelarsi altrettanto dannoso per lui quanto essere una star del cinema, un assassino o qualsiasi altra delle grandi figure popolari di oggi. Con il cuore pesante, firmò quel assegno e lo inviò. Ora era davvero sotto i riflettori. Non aveva scelta.
+
+Quel sacrificio di cinque libbre gli ricordò all’improvviso la prossima cosa che doveva fare. Chiamò Worms e Handler, ottenne un appuntamento immediato con loro e andò a scoprire il peggio.
+
+Fu accolto con cortesia, ma con riserva. Avevano poco da dirgli, e ciò che avevano da dirgli poteva essere espresso facilmente. Naturalmente, l’assegno finanziario era cessato con la morte dell’uomo anziano (seguì un breve passaggio tratto da “Worms”, accompagnato da sospiri di comprensione da parte di Handler riguardo a quella tragedia. Non potevano permettersi di perdere una persona del genere. Scuotimenti di testa). Non sapevano se avrebbero ricevuto istruzioni da [[New York]] per continuare con quel compito; forse sì, forse no.
+
+“Con la sua eccellente mente legale, Worms ha spiegato tutto molto chiaramente.”
+
+(1) Secondo un'ipotesi, potrebbero esserci state istruzioni che prevedevano la continuazione di tale indennità; in tal caso, sarebbero molto felici di continuarne il pagamento.
+
+D'altra parte, se il defunto non avesse lasciato tali istruzioni, allora ovviamente non ci sarebbe stato alcun pagamento nel trimestre di settembre, né in qualsiasi altro momento successivo.
+
+Con il suo saggezza britannica e schietta, l’agente lo espresse in modo più conciso: “Non avevano ricevuto alcuna istruzione da parte del defunto”. Questo fu ciò che aggiunse per informare Wilfred.
+
+Worms e Handler concordarono sul fatto che ora tutto sarebbe passato sotto il controllo degli avvocati americani del defunto signor Guthrie. Gli avrebbero fornito il nome di questi avvocati? Sì, certamente.
+
+Quei signori avevano già ricevuto tutte le informazioni necessarie tramite cablogramma. Gli avvocati americani di Mr. Guthrie avevano inviato un cablogramma in cui spiegavano dettagliatamente tutta la situazione. La lettera sarebbe arrivata tramite il servizio postale Hoover; sarebbe giunta a Plymouth il 17 o il 18 luglio. Se Wilfred fosse venuto a trovarli il 20, avrebbero potuto sicuramente fargli conoscere tutta la situazione fino a quel momento.
+
+Mentre usciva da quell’antico ufficio, Wilfred ebbe la sensazione che non solo John Scott fosse morto, ma anche tutto il resto del mondo, tranne lui stesso. Non si era mai sentito così completamente solo. Nemmeno Bill sarebbe tornato prima di Goodwood, qualunque giorno fosse stato.
+
+Il suo lutto gli impediva di uscire per il momento; non conosceva le usanze in queste circostanze, ma era certo che fosse ancora troppo presto.
+
+Nella sua intensa necessità di compagnia, chiamò Joan. Lei non era in casa; stava cenando fuori, e chi rispose al telefono non pensò che quella sera ci fosse qualcuno a cena con lei. Lui lasciò detto che avrebbe richiamato e poi tornò tristemente al Doulton’s Club. Non aveva nient’altro da fare, e quando arrivò lì, probabilmente la cosa più utile, ma anche la più deprimente, che potesse fare era calcolare di nuovo le sue risorse rimanenti.
+
+Al club scoprì che un uomo lo stava aspettando da quasi due ore e mezza: un uomo del “Howl”, un giornale molto vivace. Portò quell’uomo in una piccola stanza dove, al Doulton’s, si nascondevano gli estranei, e gli chiese nervosamente cosa potesse fare per lui. L’uomo del “Howl” tirò fuori un piccolo taccuino e iniziò a interrogarlo. Wilfred non aveva la minima idea di come difendersi. Ma quando riuscì a sbarazzarsi di quell’uomo, trovò una pagina nel taccuino che gli comunicava che qualcuno aveva appena chiamato da quel vivace settimanale, il “Klaxon”. Volevano anche fissare un appuntamento per un colloquio. Riuscì a rimandarli il più a lungo possibile, anche se con scetticismo. Temeva che questo genere di situazioni continuasse per molto tempo, forse per tutta la sua vita.
+
+Quella stessa sera gli portarono a Doulton’s un cablogramma proveniente da [[New York]] che era quasi incomprensibile; gli diceva che sarebbe stato contattato dal rappresentante di qualcosa, ma per quali scopi, questo non lo si sapeva. Sospirò, pensando che si trattasse sicuramente di un altro di quegli intervistatori. Guardò l’orologio: era ora di chiamare di nuovo Joan. La trovò e le dissero di venire subito dopo cena. Lei pensava che non ci sarebbe stato nessuno lì, tranne sua madre, quindi lui avrebbe potuto vederla da sola.
+
+Quella conversazione dopo cena con Joan Sable fu il primo vero sollievo che la sua mente avesse provato in quei giorni. Non poteva però godere appieno del conforto di poter condividere con un’altra persona quanto fosse cupa la situazione futura; non conosceva Joan abbastanza bene da parlare di questioni così intime, e inoltre lei probabilmente non avrebbe voluto ascoltarle. Ma almeno poteva offrirle una spalla su cui appoggiarsi.
+
+Lady Penelope lo accolse con una calore insolita; si chiese il motivo e pensò che dovesse trattarsi di un’illusione, dovuta al contrasto tra questo primo contatto umano e i lunghi giorni di solitudine trascorsi dopo la morte di suo zio. Poco dopo salì in camera sua per scrivere, lasciandolo da solo con sua figlia.
+
+Joan lo salutò con sincerità.
+
+“Wilfred,” disse lei (poiché era così che si rivolgevano l’uno all’altro), “mi darai ascolto se ti do un consiglio?”
+
+“Qualsiasi cosa tu mi dica,” disse Wilfred in modo sottomesso.
 
 
 
@@ -3946,6 +5054,88 @@ IX
 THE DOCUMENTS FROM [[America]] had come. Worms and Handler gave Wilfred Straddle the gist of them, and so far as he was concerned the gist was meagre enough. The late Mr. John Scott Guthrie’s lawyers in [[New York]] had no instructions to convey to Messrs. Worms and Handler, the late Mr. Guthrie’s [[London]] agents, with regard to Mr. Wilfred Guthrie Straddle. They enclosed a letter for him from themselves, which perhaps they would be courteous enough to hand or to forward to Mr. Wilfred Straddle — and that was all there was to it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Voglio che tu guadagni qualcosa.”
+
+Povero Wilfred gemette dentro di sé, e in realtà anche un po’ ad alta voce, abbastanza perché lei pensasse di aver sentito una protesta.
+
+“Sì, Willy, dico davvero quello che penso. Sono sicuro di avere ragione. Più tardi ti faranno fare di tutto; lo fanno sempre con persone come te. Non ti lasceranno in pace. Ma intanto, se solo riuscissi a guadagnare un po’ di soldi da solo, non sai quanto cambierebbe per te. Il lavoro è molto più necessario per voi uomini che avrete milioni, rispetto a chiunque altro. Certo, non importa quanti soldi guadagnerai, ma devi assolutamente fare qualche tipo di lavoro.”
+
+“Di che tipo?” chiese Wilfred disperatamente.
+
+“Beh,” (speriamo), “si può sempre scrivere… Chiunque può scrivere!”
+
+“Non ho la minima idea di come si faccia. Comunque, non posso iniziare ancora. Inoltre, devo lasciare trascorrere un po’ di tempo, capisci?”
+
+Quell’ultima osservazione fece scattare in Joan un altro pensiero tra i tanti che le passavano per la testa.
+
+“Guarda qui, Wilfred, c’è un’altra cosa che voglio dirti. Non lasciare che trascorra troppo tempo prima di rivedere i tuoi amici. Inizia a uscire, a muoverti.”
+
+“Non so nulla di queste cose,” disse Wilfred in modo disperato. “Per quanto tempo dovrei aspettare?”
+
+“Beh, sei già venuto a trovarmi e mia madre.”
+
+“Sì, ma tu sei diverso,” disse Wilfred.
+
+“Sì — lo siamo,” rispose Joan, alzando lo sguardo su di lui lentamente e con attenzione.
+
+“Grazie, caro!” disse Wilfred mentre saliva sull’auto.
+
+Ci fu una pausa troppo lunga; poi lei disse:
+
+“Dovresti andare dai Merriden la prossima settimana. Saranno via in un giorno o due. Se non ci vai, li perderai. E dopo dovresti anche incontrare i Lodiham: parlavano di te l’altro giorno, soprattutto Loulou.”
+
+E poi dovresti incontrare l’antica Duchessa. Sarebbe solo educato farlo, dopo che hai fallito due volte nell’andare a trovarla a casa sua.
+
+“Non la conosco davvero bene,” disse Wilfred.
+
+“Non lo farai mai se rifiuterai la sua gentilezza… perché lei è davvero gentile, capisci?”
+
+“Non ho davvero voglia di vedere nessuna di queste persone, Joan,” disse all’improvviso. “Voglio essere in un posto dove possa sentirmi, oh, sentirmi a casa.”
+
+“Ti dico cosa è, Wilfred: è il tuo denaro che ti sta opprimendo. Immagino che non l’abbia ancora in banca, ma sai che arriverà, e senza dubbio ti permetteranno di prendere tutto quello che vuoi nel frattempo. E quando succede una cosa del genere alle persone, noto sempre che diventano malinconiche. Cad Grayson era così dopo aver vinto la lotteria di Calcutta l’anno scorso. Forse non riesci a immaginare Cad Grayson malinconico, proprio come non riesci a immaginare un asino che raglia. Comunque,” (annuendo) “ti assicuro che lo era. Quando ha ricevuto quel mucchio di soldi, è stato cupo per giorni interi.”
+
+“No, non è quello…”, mormorò Wilfred. “È solo che mi sento solo.”
+
+“Il denaro fa sentire le persone sole,” disse Joan con decisione. “E sai, Wilfred, temo che lo mantenga davvero solo. In queste situazioni ci sono soltanto due tipi di persone: quelle che si avvicinano a un uomo perché possiede milioni o ne otterrà, e quelle che, semplicemente perché è così ricco, lo evitano del tutto.”
+
+“Di quale gruppo appartieni, Joan?”
+
+“Non appartengo a nessuno dei due gruppi. Non abbandonerò mai un mio amico solo perché è ricco. Ma c’è una cosa che non farò mai, Wilfred,” disse guardandolo dritto negli occhi, “non mi sposerò mai per denaro. Mai! So bene cosa significa. Ne ho visto troppo. E c’è qualcosa di odioso in tutto questo. Beh, basta parlare di questo! Tornando a ciò che stavo dicendo: devi guadagnarti da vivere. Ora ascolta: dopo aver incontrato queste persone di cui ti ho parlato, devi assolutamente farlo per pura cortesia. Ti aspettano. Comportati bene con loro. E poi, dopo averli visti, vieni a trovarmi di nuovo. Prima di partire per Cowes. Andremo a Cowes, vero?”
+
+“Cowes?”, disse Wilfred in modo vago.
+
+“Sì, Cowes… i yacht.”
+
+“Oh no, non so nulla di quelle cose.”
+
+“Ti costringeranno presto ad averne uno, Willy,” disse lei ridendo a metà. “Quando lo avrai, parlamene per le prove. Sono brava con i colori. E ascolta, Willy: è meglio che tu vada ora, sta facendosi tardi. Non aspettare che mamma scenda.”
+
+Si alzò per andarsene. Lei gli disse le sue parole di addio.
+
+“E guarda qui, Willy: la prossima volta che mi chiamerai e verrai a trovarmi, prima di partire, avrò un argomento pronto per te, e farò in modo che tu scriva quell’articolo. Devi lavorare, Willy. Devi guadagnare qualche soldo: fa davvero tanta differenza!”
+
+“Cosa, denaro?” disse Wilfred.
+
+“No — lavoro,” disse Joan.
+
+“Oh,” disse Wilfred. E poi aggiunse: “Buonanotte.”
+
+Tornò a casa passando per il Green Park, diretto verso Westminster, sentendosi meno infelice. In un certo momento, addirittura suonò il flauto. Era stato tutto molto superficiale e inutile, ma aveva trovato un amico. Quella notte ripassò i suoi calcoli, purtroppo, ma non con la stessa angoscia di quei giorni precedenti.
+
+Le sue spese di vita, nonché tutte le altre spese legate all’esperienza appena vissuta, lo avevano messo in una situazione molto difficile; il giorno dopo sarebbe scaduto il pagamento del conto della signora Cramp! Gli balenò in mente l’idea che forse un giorno avrebbe potuto ritardare di una settimana nel pagare quella somma su cui era sempre stato estremamente puntuale. Forse un giorno non ci sarebbero più stati quegli appartamenti disponibili per lui, né quelle spese possibili. A quel pensiero, rabbrividì.
+
+Si chiedeva cosa avessero fatto quegli altri uomini di cui parlava spesso suo povero zio, “uomini migliori di lui”, quando erano stati gettati in questo mondo. Non riusciva proprio a immaginarlo! Cosa fa un uomo quando viene messo al mondo?
+
+Joan aveva detto “Scrivi”. Ma in realtà Joan non pensava a scrivere come a una professione. Pensava al valore del lavoro, all’autostima, o a qualcos’altro del genere.
+
+Beh, non serviva a nulla rimuginare così. Prima di tutto, doveva aspettare di sapere esattamente quale fosse la sua situazione; inoltre, i documenti dall’[[America]] sarebbero arrivati presto.
+
+IX
+
+I documenti provenienti dall’[[America]] erano arrivati. Worms e Handler gli riferirono l’essenziale di quel contenuto, ma a quanto pare tale essenza era piuttosto scarsa. Gli avvocati del defunto signor John Scott Guthrie, presenti a [[New York]], non avevano ricevuto alcuna istruzione da trasmettere ai signori Worms e Handler, gli agenti londinesi del defunto signor Guthrie, riguardo al signor Wilfred Guthrie Straddle. Avevano allegato una lettera scritta loro stessi per lui; forse avrebbero avuto la cortesia di consegnarla o inoltrarla direttamente a lui. E non c’era altro.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_11" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 11)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london,setting/new_york"></span>
@@ -3989,6 +5179,46 @@ Wilfred said we should.
 
 “And the worst of life in [[London]] is the temptation to spend money on things that give one no pleasure, but are rather an encumbrance. Now, for instance, take this car. We have to have it; but there’s no reason why a young man like you, still a bachelor, should keep a car in [[London]]. It’s an absolutely futile expense. Of course, if you have to get one, you must do as we have done and get a Rolls. But you won’t need one in [[London]]. In the country, of course — when you have settled on where you will be in the country — you can have as many as you like. You can’t have too many cars in the country — in reason. But in London I do think a young unmarried man keeping a car is mere waste. You can save literally hundreds a year by hiring when you want to, and taking cabs for your short runs; and you are just the sort of character that would do good with all the money that you will save. Of course, when you marry it will he different.” And she beamed on him, with the brightest smile she had yet given him.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Wilfred Guthrie Straddle prese distrattamente l’invito con il timbro americano, ringraziò il signor Worms e il signor Handler, mise l’invito in tasca e uscì. Non c’era più nulla da fare.
+
+Quello che Worms e Handler non dissero a Wilfred fu che, nella lettera ricevuta, c’era un paragrafo di notevole importanza per lui, ma non spettava a loro la responsabilità di trasmetterlo. L’avvocato americano non poteva essere certo dell’esistenza di un testamento. John Scott Guthrie si era isolato ancora di più rispetto alla norma, persino rispetto agli uomini d’affari più ricchi; in questo senso, era quasi un eccentrico.
+
+Quello che sapevano con certezza erano le intenzioni dello zio, espresse in generale dal signor John Scott Guthrie poco prima di lasciare per l’ultima volta [[New York]]. Aveva fornito loro l’elenco delle sue proprietà, che tenevano gelosamente; aveva anche indicato con cura le varie destinazioni che intendeva dare a quelle proprietà: tutte destinate a scopi pubblici o a iniziative sociali. Ad esempio, alcune proprietà dovevano essere utilizzate da determinati gruppi presbiteriani nel Regno Unito e negli Stati Uniti; altre erano destinate a società missionarie; ancora altre venivano dedicate alla creazione di cattedre accademiche dedicate allo studio della tautologia dogmatica; inoltre, ce n’erano altre mezza dozzina di donazioni importanti che aveva in mente. In totale, queste donazioni coprivano tutti gli investimenti e i beni immobiliari di cui erano a conoscenza.
+
+Prima di partire, aveva lasciato loro un biglietto in cui indicava il proprio saldo bancario: non molto, considerando l’entità delle sue transazioni. Non conoscevano alcun dettaglio riguardo ad altre possibili ricchezze che potesse avere, e nemmeno credevano che ne esistessero. Secondo una stima approssimativa, il suo patrimonio poteva ammontare a poco più di tredici milioni o meno di quindici milioni di dollari; i dettagli completi sarebbero stati forniti in seguito. Comunque, tutta la proprietà di cui erano a conoscenza era stata elencata, e nessun nipote veniva menzionato come legatario residuo. Il signor Guthrie non aveva parlato di alcun erede designato personalmente.
+
+Sembrava quasi incredibile che un uomo in una tale posizione non avesse lasciato dietro di sé un testamento; ma nessuno era stato trovato. Sarebbero state avviate ricerche nuove e più approfondite, e lui li avrebbe informati dei risultati.
+
+Il Handler, dopo aver letto questo, guardò Worms; Worms a sua volta guardò il Handler. Poi il Handler disse: “Beh, e nostro amico?”
+
+Worms scosse la testa. “Non si può mai sapere,” disse. “In queste cose bisogna aspettare,” e per il momento parlarono di qualcos’altro.
+
+Nel frattempo, Wilfred aveva lentamente tirato fuori dalla tasca quella seconda lettera dell’avvocato americano di suo zio, l’allegato indirizzato a lui stesso. Camminò verso il fiume lungo il Temple e si fermò ad osservare il bordo in pietra che si affacciava sul corso d’acqua. Aprì la lettera e lesse che venivano condotte tutte le ricerche possibili per trovare un testamento, che sicuramente suo zio doveva aver lasciato, ma che fino ad allora nessuno era stato trovato. Ritennero fosse loro dovere informare il signor Straddle riguardo alla conversazione avuta dal loro cliente con loro prima di partire per l’Inghilterra. Quest’ultimo aveva esaminato con loro le liste di tutte le proprietà di suo zio, proponendo varie modalità di disposizione delle stesse in caso di sua morte, ma il nome del signor Wilfred Guthrie Straddle non era stato menzionato.
+
+Quello non disse nulla di nuovo a Wilfred; tuttavia, sottolineò ancora di più la tristezza che ormai gravava sulla sua mente.
+
+Il suo futuro era buio come la notte.
+
+* * * * *
+
+Wilfred fece ciò che gli era stato detto. Andò a trovare la vecchia Duchessa e fu felice di trovarla in casa; non aveva affatto voglia di conoscere nuove persone. Poi andò da Lady Merriden, e il suo umore cambiò due volte quando la incontrò: avrebbe voluto che lei non fosse in casa, ma si consolò vedendo la sua bella macchina davanti alla porta e notando come fosse vestita con eleganza per l’occasione.
+
+“Vieni con me,” disse lei; “sembri affrettato e preoccupato per qualcosa. Non mi sorprende, caro ragazzo, dopo tutto quello che hai passato. Deve essere stato un uomo meraviglioso! Ho circa mezz’ora libera; possiamo chiedere a Davis di portarci fuori in aria per un po’. Ti andrebbe bene?”
+
+Sì, sarebbe adatto a Wilfred, disse, sdraiato e con un dispero ancora più radicato nel suo cuore di prima. Ascoltava le sagge parole della sua ospite, la sua comprensione, i suoi consigli.
+
+Naturalmente, lei parlò per prima cosa della sua recente perdita, ripeté le sue lodi su John Scott Guthrie e si disperò per non aver mai avuto l’opportunità di conoscerlo. Ma lui quasi mai veniva da questa parte, vero? Se fosse stato come la cara madre di Wilfred, che lei aveva incontrato una volta a Balgorrie anni fa, doveva essere stata una persona davvero meravigliosa. Anche Lady Merriden era sicura che una grande fortuna nelle mani di qualcuno come John Scott non potesse fare altro che del bene.
+
+Era sicura che tutto sarebbe andato per il meglio. Poi iniziò a dirgli che era molto più vecchia di lui e che, proprio grazie alla loro grande amicizia, si permetteva di fare certe cose. Gli dispiaceva? No, a Wilfred non dispiaceva; stava semplicemente fissando davanti a sé, immerso nella sua sofferenza.
+
+“Tu stesso, mio caro ragazzo, devi seguire le sue orme. Non sei uno sperperatore, e ti rispetto per la cura che metti in ciò che, dopotutto, non è altro che una responsabilità di gestione. Dovremmo sempre considerare le nostre proprietà come qualcosa di cui siamo responsabili, non credi?”
+
+Wilfred disse che dovevamo farlo.
+
+“E la cosa peggiore della vita a [[London|Londra]] è la tentazione di spendere soldi in cose che non portano alcun piacere, ma rappresentano soltanto un onere. Prendiamo ad esempio questa macchina: dobbiamo assolutamente averla; ma non c’è motivo perché un giovane come te, ancora single, debba possedere una macchina a [[London|Londra]]. È uno spreco assoluto. Certo, se proprio devi averne una, devi fare come abbiamo fatto noi e prendere una Rolls-Royce. Ma a [[London|Londra]] non ne avrai bisogno. In campagna, invece – quando avrai deciso dove stabilirti – potrai averne quante ne vuoi. In campagna, certo, ma a Londra, penso che per un giovane single possedere una macchina sia semplicemente uno spreco. Potresti risparmiare letteralmente centinaia di sterline all’anno noleggiando l’auto quando ne hai bisogno e prendendo gli taxi per i tragitti brevi. E sei proprio il tipo di persona che trarrebbe beneficio da tutti quei soldi risparmiati. Certo, quando ti sposerai, le cose cambieranno, ” E gli sorrise con il sorriso più radioso che gli avesse mai rivolto fino ad allora.
 
 
 
@@ -4078,6 +5308,90 @@ Straddle had been dragged down to it. He was proud of himself at having sturdily
 At Goodwood were Lady Merriden and her crowd. There were thousands of others there as well, but she concerns us more. She was brooding in her heart over the march stolen upon her by Emily Lodiham. She had spoken of it in low tones to her husband, but he was indifferent to such news. His book had gone to pieces, and other matters concerned him not at all.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Sì”, disse Wilfred con tristezza. “Suppongo che allora sarà diverso.”
+
+“E ricorda, Wilfred,” disse lei per salutarlo (ora tutti lo chiamavano Wilfred), “vieni da noi il primo settembre a Norfolk. Vieni per il fine settimana. Il primo è di lunedì quest’anno, credo. Charles mi ha detto che ci sono moltissimi uccelli lì.”
+
+A quel punto erano tornati quasi al punto di partenza, e lei gli disse, in tono scherzoso, che doveva andarsene. Così se ne andò. Mentre camminava verso quella lugubremente solenne e eterna Doulton’s, nella sua mente si chiedeva come sarebbe stato se, o quando si fosse sposato.
+
+Cosa si fa se si è sposati e non si ha nemmeno un soldo? Un argomento profondo su cui riflettere. Il che lo fece fermarsi nel bel mezzo del marciapiede e disegnare un piccolo cerchio con il suo bastone sul terreno.
+
+Poi sospirò leggermente, come faceva sempre quando questa terribile e ricorrente sofferenza lo assaliva, e salì i gradini per recarsi al suo Club, riflettendo con un certo sollievo sul fatto che sarebbe stato libero da quel posto per mesi. Da questo, e dagli altri. Anche libero dalla “Pillbox”, sebbene ormai non provasse più molta ansia all’idea di essere spesso visto lì.
+
+* * * * *
+
+Lady Lodiham aveva chiamato sua figlia maggiore, Loulou. Aveva avuto la fortuna di trovarla, perché Loulou non era spesso in casa. E Loulou, invece, aveva avuto sfortuna ad essere trovata. Non incontrò sua madre in vena di gentilezza. Anzi, se fosse stata una giovane donna verso cui provassi un rispetto meno profondo, direi che fosse stata scortese e irascibile. Ma Lady Lodiham era decisa.
+
+“Louise, devo parlarti di qualcosa.”
+
+“Ah sì, ” si lasciò cadere in un angolo del divano e accese la sua decima sigaretta da quando aveva bevuto il tè. “Di cosa si tratta?”
+
+“Conosci il giovane Wilfred Straddle?”
+
+“E poi?”
+
+“Mia cara, non voglio annoiarti e non dirò troppo al riguardo, ma sai cosa ne penso. Lo inviterò a cena lunedì prossimo. Ho scelto con cura questa data: molti di loro saranno assenti in quel momento, e a lui non dispiacerà non incontrarli. Ora lo metterò accanto a te.”
+
+Loulou era quasi arrabbiata al massimo, a causa della stanchezza causata dalla fine della stagione.
+
+“Dio mio! Che marciume perfetto, ” disse lei.
+
+“Mia cara, non parlare come una bambina,” rispose sua madre con energia. “Pensa davvero a quello che stai dicendo!”
+
+“Mamma, tutti pensano che sia marcio. Anche la Strega Senza Denti lo pensa, e Dio sa che lei non è certo delicata, ”
+
+“Non devi chiamare la Duchessa con quel nome, Louise!”
+
+"Tutti lo fanno."
+
+“Beh, mai nella mia casa.”
+
+“Va bene, mamma, ma è la verità. È una Strega Senza Denti; e nemmeno lei riesce a colpirlo. L’altro giorno sembrava quasi eccitata quando mi ha detto di essere stata fortunata ad evitarlo quando ha chiamato.”
+
+“Sai cosa ti ho detto prima,” continuò Lady Lodiham.
+
+“Sì, ma è davvero molto noioso… Certo, se proprio deve essere fatto, allora va fatto.”
+
+“Dipende interamente da te, Louise… Si capisce che pensa a te.”
+
+“Dio sa che penso a lui,” rispose la signorina più giovane. “Non riesco a smettere di pensare a lui. È un'ossessione. Un incubo.”
+
+“Tutto è a suo favore, Louise… Tutto davvero. Credo che sia una persona virtuosa…”
+
+“Che cosa??!”
+
+“Sì, scoprirai che conta davvero. Sembra che tu non lo capisca ancora, ma scoprirai che è importante. E poi, ciò che è molto importante per un uomo nella sua situazione, è che lui capisce davvero il valore del denaro. Immagino che sia stato investito in qualcosa. Non lo so con esattezza. Ma chiunque può vedere che fa molta attenzione a come lo gestisce.”
+
+“Maledettelo!”, disse Loulou.
+
+“Ecco fatto,” concluse il genitore diligente. “Siederà accanto a te, quindi devi dare il meglio di te stesso. Non c’è tempo da perdere, caro. Ricorda chi lo affronterà tra Goodwood e Cowes.”
+
+“Non voglio saperlo,” disse Loulou. Sua madre annuì in modo misterioso.
+
+“Non essere troppo sicuro… Ricorda: non c’è molto tempo!”
+
+“Maledetto pezzo di creta!” disse Loulou, e se ne andò saltellando senza aggiungere altro.
+
+Lady Lodiham si sedette subito per scrivere la sua nota. Si scusò profondamente per aver suggerito una cosa del genere così presto, dopo il suo grande lutto, ma poteva davvero Wilfred pranzare con loro? L’indomani lunedì non ci sarebbe stata nessuno. Le sarebbe stato davvero molto grata. Desiderava tantissimo vederlo. “Tutti lo desideriamo,” disse; quella frase includeva suo marito (che aveva visto Wilfred solo per un breve istante), lei stessa e, soprattutto, Loulou. “Tutti lo desideriamo, ” E il “tutti” era sottolineato. Lei era sua affettuosa Emily Lodiham.
+
+Nella serata di lunedì, Loulou era al suo posto, e devo dire che si è impegnata al massimo, anche se il risultato non è stato molto buono. Ovviamente Wilfred e lei non andavano d’accordo; c’erano momenti in cui povero Straddle non riusciva a trovare nulla da dire, mentre povera Louise si ritrovava a ripetere le stesse cose più volte. Comunque, sono riusciti a mantenere una sorta di conversazione. C’era un messaggio che Loulou doveva fargli arrivare, e ce l’è riuscita.
+
+“Sai, Wilfred, l’antica Duchessa vuole davvero vederti molto. È stata terribilmente triste per la tua mancanza quando hai chiamato. Non appena ha saputo che saresti arrivato stasera, mi ha detto di assicurarmi che tu non fossi arrabbiato perché non ti aveva scritto. Ma vai pure.”
+
+“Ho chiamato,” disse Wilfred con ostinazione.
+
+“Sì, lo so. Ti ho appena detto quanto fosse infelice. Voglio dire, il fatto di averti perso l’ha resa molto triste.”
+
+X
+
+La Goodwood Cup era stata vinta dal “Rumpelstiltskin” di Sir Siegmund, e persa da tutta quella serie di concorrenti che non erano riusciti a vincere nulla.
+
+Straddle era stato trascinato in quella situazione. Era orgoglioso di sé per essere riuscito a resistere con forza a una pressione estremamente violenta che lo spingeva a scommettere. Joan lo aveva lodato per il suo comportamento. Se non l’avesse fatto, forse avrebbe ceduto. Ma era meglio così: ormai mancavano soltanto sei settimane all’inevitabile Primo di Settembre. La battaglia tra i suoi ultimi pochi chili e il “Tempo Spietato” sarebbe stata più intensa di molte altre gare che si erano svolte quel giorno.
+
+A Goodwood c'erano Lady Merriden e il suo gruppo di amici. C'erano anche migliaia di altre persone, ma lei è quella che ci interessa di più. Nel suo cuore rimuginava sulla marcia che Emily Lodiham le aveva sottratto. Ne aveva parlato a bassa voce con suo marito, ma lui era indifferente a queste notizie. Il suo libro era andato in pezzi, e altre questioni non lo interessavano affatto.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_13" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 13)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4139,6 +5453,64 @@ Wilfred entered, in such a mood that he hardly knew where he was. The Manager gr
 
 “Well, Mr. Straddle, what can I do for you? Is it a question of investment? Do you want advice?”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Notò che sul viso di Wilfred c'era determinazione, e che accanto a lui c'era Joan. Salutò entrambi, con maggiore calore verso di lui. Gli chiese subito se non fossero riusciti a vederlo prima che lasciasse [[London|Londra]].
+
+Non potrebbe venire a cena da noi? Solo per poco. Sarebbero in città solo per due giorni, prima di andare a Cowes. Solo due giorni. Sperava davvero che potesse venire!
+
+Wilfred poteva farlo. Il suo cuore si strinse mentre lo diceva: tutta quella situazione era terribilmente in contrasto con ciò che gli rodeva dentro. Davanti ai suoi occhi, lettere di fuoco raffiguravano l’immagine del bilancio che continuava a peggiorare. Ma quel fuoco non lo riscaldava affatto; anzi, gelava il flusso del suo sangue. Comunque, era pur sempre un pasto gratuito. E il costo del taxi andata e ritorno non sarebbe mai stato paragonabile a quello di una semplice cena da solo al Doulton’s.
+
+La vigilia della data fissata, Lady Merriden trovò il modo di parlare in privato con sua figlia Fanny. Fanny non era di buon umore; quando seppe che Wilfred avrebbe seduto accanto a lei, il suo stato d’animo peggiorò ancora.
+
+“Oh, davvero, penso che tu possa…”
+
+“No, caro mio,” disse sua madre con dolcezza ma con fermezza, “è l’unica e sola opportunità prima che venga da noi per la Prima volta.”
+
+“Oh, ma mamma, è impossibile!”
+
+“Quando conoscerai un po’ di più il mondo, cara mia”, disse sua madre, “scoprirai che trovare un buon marito non è mai impossibile.”
+
+“Penso che sia il contrario.”
+
+“Allora ti sbagli, carina mia… Lui è buono davvero, assolutamente buono.”
+
+Le rispose un debole gemito.
+
+“Sì, mio caro bambino, ma questo conta davvero. E cosa ancora più rara tra i giovani della sua posizione, è che lui sia davvero attento con i suoi soldi. Sai, l’altro giorno non ha speso nemmeno un centesimo per nessun cavallo.”
+
+“Che sciocco,” disse la futura sposa innocente. “Se mi avesse seguita e avesse messo la sua camicia addosso a Rumpelstiltskin, sarebbe stato così ricco che l’asse posteriore della sua carrozza si sarebbe spezzato.”
+
+Ma Fanny Blackman non cercò di resistere. A cena, fu una compagna migliore per lui di Loulou: gli raccontò con entusiasmo tutta la storia di Rumpelstiltskin, e come tutti fossero convinti che sarebbe stato tirato via dal suo padrone Piffle (il suo nome, come sapete, così come quello di tutto il suo gruppo per Sir Siegmund); ma anche come Guffy, in modo adorabile, avesse risolto la situazione. Non lo sommerse di termini tecnici; spiegò tutto in parole semplici, e riuscì persino a farlo divertire un po’ all’idea di quella truffa.
+
+La caccia era finita; la muta era lanciata all’inseguimento, e Wilfred si trovava in una situazione difficile: due vergini erano già state liberate, e altre ne stavano per seguirne l’esempio. Proprio in quel momento, [[London|Londra]] iniziò a allontanarsi.
+
+Tutto [[London|Londra]] era scomparso. Tranne Wilfred. Ora lui era solo in quella città spietata.
+
+Aveva aspettato invano Bill. Per qualche motivo, Bill non era riuscito ad arrivare. Wilfred era certo che Bill non stesse cercando di evitarlo, ma si sentiva deluso. Bill aveva scritto scusandosi; sarebbe tornato entro la fine di agosto, senza dubbio, ma doveva andare direttamente da Goodwood a Cowes, perché aveva incontrato un uomo che gli aveva proposto di partire per una crociera e non poteva tornare subito, anzi, probabilmente solo alla fine del mese. Qualsiasi cosa venisse inviata nelle sue stanze sarebbe stata inoltrata a lui. Aveva aggiunto anche un postscripto, scritto con la sua solita calligrafia chiara e decisa: “In bocca al lupo! Mi dispiace che non riusciamo ancora a vendere. Avrai notato che i prezzi rimangono intorno ai 40-45; stamattina erano addirittura 91. Ma questo è solo durante le vacanze. Quando le cose inizieranno a muoversi, i prezzi aumenteranno rapidamente.” E aveva concluso con la parola affettuosa: “Ta”.
+
+Giorno dopo giorno, Wilfred osservava come i suoi pochi soldi rimasti diminuissero costantemente. Aveva dovuto rinviare due volte il pagamento a Mrs. Cramp; lei si era lamentata e iniziava a preoccuparlo seriamente.
+
+Entro il 20 agosto era disperato: gli restavano soltanto dieci giorni, al termine dei quali avrebbe dovuto affrontare ciò che nei vecchi e noiosi libri veniva definito “una serie di visite a case di campagna”.
+
+Come diavolo si poteva fare una cosa del genere? Non aveva imparato molte astuzie, povero ragazzo. Ma conosceva il mondo un po’ meglio rispetto a quando era arrivato per la prima volta a Londra, qualche mese prima. Sapeva che esistevano cose come i prestiti in anticipo. Aveva anche una vaga idea di come funzionassero. Dopotutto, la banca conosceva da anni la sua famiglia. Sicuramente il nome Guthrie sarebbe stato sufficiente, no? Abbastanza per ottenere un piccolo prestito, diciamo cento sterline. Non osava lasciare Londra senza prima rassicurare la signora Cramp.
+
+Nella sua ansia, arrivò alla Banca il giorno dopo l’apertura. Un errore. Sono più rilassati all’inizio del pomeriggio, e ancora di più dopo che le grandi porte sono chiuse.
+
+Il manager non era ancora arrivato. A Wilfred fu chiesto di aspettare in un’anticamera, e lui aspettò e aspettò ancora.
+
+Quando apparve il grande responsabile, Wilfred fu di nuovo indiscreto. Si alzò in piedi con impazienza, il viso pieno di ansia e speranza. Il Direttore annuì. “Vuoi vedermi?” chiese gentilmente. “Solo un momento!” e si ritirò nella sua piccola stanza privata.
+
+Wilfred aspettò e aspettò ancora. Nel frattempo, al direttore fu consegnato un foglietto su cui era indicata l’importo del saldo rimanente di Wilfred: quattro sterline, cinque scellini e due pence. Poi suonò il campanello e chiamò il signor Wilfred Guthrie Straddle.
+
+Tu, mio lettore invisibile, che conosci poco di banche e affari finanziari, potresti pensare che in questo titolo, “Wilfred Guthrie Straddle”, la parola chiave sia “Guthrie”. No, sbagli di nuovo. La parola chiave è “Straddle”. E altre parole chiave, presenti in sottofondo ma non espresse apertamente, sono “Worms” e “Handler”.
+
+È dovere di un direttore di banca scoprire tutto ciò che è possibile. Lui lo fa; tutti i suoi colleghi lo fanno. Il grande sistema di indici, con le sue referenze incrociate, e il reciproco sostegno tra le varie banche all’interno di questo vasto “Monopolio”, vi sorprenderebbero sicuramente. Forse non avete mai sentito parlare di esso. Di certo non l’avete mai visto stampato.
+
+Wilfred entrò in uno stato d'animo tale che quasi non si rendeva conto di dove si trovasse. Il Direttore lo salutò con un sorriso ancora più gentile di quello con cui lo aveva accolto quando era passato nella sua stanza privata.
+
+“Beh, signor Straddle, in cosa posso esservi d’aiuto? Si tratta di una questione legata agli investimenti? Desiderate qualche consiglio?”
 
 
 
@@ -4224,6 +5596,86 @@ He was profoundly grateful, and scribbled away as best he could to keep up with 
 “‘I — have — often — wondered — why Englishmen and Americans’ (Curse them!) No! — don’t write down Curse them, you boob! — it was only a relief— ‘why Englishmen and Americans have not joined together long ago to govern the world. There can never be war between them. That is one of the few certain things of our time. They are the only two great nations not actually under one government....’”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Beh, no, signore, non proprio adesso. Forse più tardi quest’anno verrò da voi per parlarne. Potrebbe esserci qualcosa di importante entro la fine dell’anno, e sono sicuro che sareste di inestimabile aiuto per me. Al momento, sono venuto solo per chiedervi se potrei, se voi, se noi potremmo organizzare, un piccolo scoperto bancario, ”
+
+Il manager sembrava più gentile che mai.
+
+“Niente di importante,” proseguì in fretta Wilfred.
+
+“Cento sterline, o qualcosa del genere. Mi manca un po’ di denaro per arrivare alla fine del mese, e devo andare in alcuni posti. Andrò, ”
+
+Ma quei grandi nomi rimasero bloccati sulle sue labbra, perché fu interrotto da un gesto deciso e da una parola ancora più decisiva.
+
+“Temo proprio, signor Straddle… No, assolutamente no! Non credo proprio!”
+
+“Potrei ottenere una garanzia. Sono sicuro che ci riuscirei,” balbettò il povero Wilfred, esitando.
+
+“Beh, una volta che l’avremo ottenuto, potremo darci un’occhiata. Ma così come stanno le cose al momento, signor Straddle, credo proprio di no. Proprio di no. Eh?” L’ultima parola suonò come il belato di una pecora decisa. Una pecora davvero ostinata. Ma pur sempre sorridente; e le mani del direttore erano tese davanti a lui, con i palmi rivolti verso l’esterno, in un gesto di sincero rammarico e amicizia.
+
+Ci fu una lunga pausa; durante quel tempo Wilfred rimase seduto su quella sedia. La figura così importante di fronte a lui non disse esattamente “Vattene!”, ma il suo atteggiamento era così estremamente gentile che anche Wilfred capì cosa voleva dire.
+
+“Molto bene, signore,” disse alzandosi. “Molto bene. Mi dispiace che non sia stato possibile farlo. Devo semplicemente lasciare che le bollette continuino ad accumularsi, nient’altro.”
+
+“Sì,” disse gentilmente il Direttore, “esatto! Lasciateli fare.”
+
+Nemmeno si alzò per aprire la porta a Wilfred. Dimenticò persino di dire “Buongiorno”. La porta si chiuse dolcemente, lasciando quella sacra stanza interna e la prima esperienza di Wilfred Guthrie Straddle nel mondo del credito bancario.
+
+Tutti gli uomini hanno bisogno di sostegno, anche il Cespuglio e il Cavallo. Sì! Anche il Cavallo; solo le persone non se ne rendono conto, perché tiene per sé i suoi sostegni. Il Cavallo non è generoso nell’esprimere affetto.
+
+Nella sua agonia, Wilfred scrisse a Joan chiedendole se potesse andare a casa di Lady Penelope. L’Hertfordshire era vicino a [[London|Londra]]. Poteva permettersi il viaggio e anche i dieci scellini per le mance. Forse proprio riusciva a farcela. Avrebbe dovuto, ancora una volta, e a un rischio mortale, rinunciare al proprio stipendio del fine settimana per pagare la signora Cramp. Avrebbe lasciato che le cose andassero così, come gli aveva consigliato il direttore. Ma sarebbe stato davvero un equilibrio precario.
+
+Nello stesso momento inviò un telegramma estremamente urgente a Robinson, pregando l’uomo che si trovava nell’appartamento di Robinson di inolvarlo ovunque potesse trovarsi il suo padrone. Il telegramma era davvero urgente: si trattava di una questione di vita o di morte. Terminava con le parole: “Comunicare immediatamente. Vitale. Wilfred.” Poi andò da Lady Penelope.
+
+Joan fu più che gentile con lui. Lui l’aveva ascoltata a Goodwood, e uno dei millecinquecentosessantadue modi per compiacere le donne è fare ciò che loro dicono. Un altro modo è fare il contrario. Ma questa è una lunga storia e non posso dilungarmici.
+
+Comunque sia, Joan era stata soddisfatta e si sentiva ancora più attratta da lui di prima. La sua sicurezza interiore le aiutava in questo senso: non esisteva alcun rischio che lui si innamorasse, e anche se ciò fosse accaduto, lei non lo avrebbe voluto. Ne era assolutamente certa; non aveva intenzione di essere messa sul “mercato matrimoniale”. Anche se sua madre non avesse mai detto nulla, lei sarebbe stata comunque decisa. Ora, però, la sua determinazione era ancora maggiore. Aveva accolto Wilfred con gentilezza, e come segno del suo affetto lo portò nella sua stanza privata la mattina seguente e lo fece sedere per scrivere.
+
+“Ora, Wilfred, sai che ti avevo detto che dovevi lavorare. Devi guadagnare dei soldi. Altrimenti, andrai completamente in rovina. L’ho visto succedere a decine di persone come te.”
+
+“Ci sono dozzine di persone come me?” disse Wilfred, con un misto di risentimento e disperazione. Pensava che non esistesse nessun altro altrettanto privo di soldi e allo stesso tempo che visitasse le case di campagna, (Se solo lo avesse saputo!) “Ci sono davvero così tante persone come me?”
+
+“Beh, non ci sono molte persone che vivano così facilmente come te, o che abbiano tutto a disposizione mentre aspettano. Ma ci sono molte altre che hanno più di quanto sia giusto per loro, e tu ne sei una. La soluzione è il LAVORO. Devi lavorare, Wilfred! Lo sai che devi farlo! Ora siediti qui, mentre io sono con te, e inizia a fare qualcosa.”
+
+Si sedette, prese la penna, fissò il vuoto con lo sguardo, mentre nella sua mente e sul suo viso non c'era alcun pensiero, se non quella tristezza permanente che ormai non lo lasciava più. “Cosa dovrei scrivere, Joan?” chiese.
+
+“L’articolo, idiota.”
+
+“Non ho mai fatto una cosa del genere in tutta la mia vita.”
+
+“Allora inizia subito.”
+
+“Su cosa… e per chi?”
+
+“Non importa per chi lo faccia… Troverò qualcuno che lo prenda, subito. Basta che tu lo scriva.”
+
+“Sì, ma e poi?”
+
+“L’hai già detto prima… Su qualsiasi cosa.”
+
+“Non serve a molto,” disse Wilfred.
+
+“Scrivi di [[America]]. È proprio quel genere di cose che vorrebbero sentire da te.”
+
+“Ma non ci sono mai stato.”
+
+“Cosa c’entra questo con la questione? Molti persone che non sono mai state in Abissinia hanno scritto di essa, e spesso in modo molto favorevole. Scrivi qualcosa a favore di [[America]]. Hanno tutti sentito parlare di te e del tuo denaro americano.”
+
+“Beh, cosa dovrei dire?”
+
+Joan iniziò ad irritarsi. Non per questo meno gli voleva bene a causa della sua impotenza, ma doveva davvero riprendersi in mano la situazione. Si avvicinò al punto in cui stava prima, dietro la sua sedia, e lo sollecitò ad agire. Si sedette dritta sul bordo del tavolo e disse:
+
+#"Guarda qui! Dirigerò io, per farti iniziare."
+
+Era profondamente grato e scriveva con tutte le sue forze per tenere il passo con il suo genio creativo. Lei scelse come titolo “I nostri cugini americani”. Non era molto originale, né corrispondeva alla verità, ma aveva la sensibilità di capire che quelle menzogne familiari erano proprio ciò di cui le truppe avevano bisogno.
+
+“Mi sono spesso chiesta, ”, iniziò a dire a tutta velocità.
+
+“Aspetta un attimo – non così in fretta,” disse Wilfred, con la penna che correva veloce sulla carta.
+
+“‘Spesso mi sono chiesto perché gli inglesi e gli americani’ (Maledetti loro!) No! – non scrivere ‘maledetti loro’, stupido! – era solo un modo per esprimersi, ‘perché gli inglesi e gli americani non si siano uniti da tempo per governare il mondo. Tra di loro non può mai esserci guerra. Questo è uno dei pochi concetti certi della nostra epoca. Sono le uniche due grandi nazioni che in realtà non sono sotto lo stesso governo, ’”
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_15" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 15)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4308,6 +5760,86 @@ But after he had left her, other thoughts came — or, as Mr. Layton would have 
 No doubt he would get five pounds, or even ten; after all, his name was well known. But they would not pay him till it was printed, and they would not pay at all until the great Anglo-Saxon festival, probably the day after the Albert Hall Meeting when the Angels would be there. And that was a long way off. A dreadful long way off. A long wait through September. And meanwhile there was now something well under three pounds between him and the Pit.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#"Aspetta un attimo, Joan… Per favore… Joan, sei davvero incredibile!"
+
+“, ‘in realtà non sotto lo stesso governo’,’ continuò Joan, ‘ma uniti nello spirito come se lo fossero. Sono senz’altro i più potenti. No, aspetta un attimo, questo non funzionerà, vero? Non possono essere entrambi i più potenti, ”
+
+“No, ma ognuno di loro potrebbe essere il più potente,” disse Wilfred. Stava iniziando ad interessarsi molto.
+
+"No: se fossero ciascuno per sé, sarebbero entrambi insieme."
+
+“Entrambi non equivalgono a ciascuno di essi.”
+
+“Maledizione! A chi importa? Comunque sia, ‘ognuno di coloro che operano sotto la Provvidenza Divina’ – con la “P” maiuscola, idiota – ‘per il miglioramento di un mondo senza di loro privo di speranza’.”
+
+“Un attimo, ” la penna volava sulla carta. “Sì, ora l’ho scritto, ‘senza speranza’. Joan, sei davvero straordinaria!”
+
+Anche Joan lo pensava. Erano quasi le stesse parole che aveva trovato in una rivista vecchia di quasi dieci anni nell’ambulatorio del dentista. Aveva dovuto leggerla perché non c’era nient’altro. Poiché era successo solo ieri, ne ricordava ancora gran parte.
+
+“Che venga ricordato”, continuò, “che siamo l’unica nazione che abbia affrontato in modo equo e onesto le proprie responsabilità nei confronti degli Stati Uniti.”
+
+“Sì, è vero. L’ho sentito dire prima,” disse Wilfred.
+
+“Non interrompete, ‘Verso gli Stati Uniti. Come abbiamo sempre fatto e come faremo sempre con ogni creditore. Possiamo essere orgogliosi di essere un popolo che mantiene le sue promesse.’”
+
+Ecco che si trovava in quella situazione. Sapeva che c’era qualcosa di particolare nelle Filippine, ma non riusciva assolutamente a ricordare di cosa si trattasse.
+
+Nessun problema! Avrebbe continuato a parlare di qualcos’altro. E infatti lo fece, con entusiasmo. Parlò della bellezza delle donne americane che avevano partecipato alla [[London|stagione londinese]], degli uomini americani (in modo più vago) e delle enormi dimensioni del paese. E molto anche sui bisonti. Quegli animali feroci, che (povera ragazza) credeva vagassero liberamente negli immensi spazi dell’Ovest Remoto.
+
+Impiegarono circa tre quarti d'ora, e quando finirono, erano entrambi molto orgogliosi del risultato.
+
+“Non so come ringraziarti abbastanza, caro,” disse Wilfred umilmente.
+
+“Beh, sono contenta che ce l’abbiamo fatta,” rispose lei trionfante. “Ora basta solo scrivere questa lettera, farla battere a macchina da entrambi e inviarla a Layton. Lui è il responsabile della sezione ‘Articoli Speciali’ del giornale di De la Guarrenne. Quel vecchio bastardo! Intendo dire Guarrenne, non povero Layton.”
+
+Lei dettò la lettera.
+
+“Caro signor Layton, non ho mai avuto il piacere di conoscerla, ma quando ho deciso di mettere per iscritto i pensieri che mi erano venuti in mente riguardo a una possibile collaborazione tra gli Stati Uniti e noi, mi è sembrato che uno dei giornali pubblicati da Lord de la Guarrenne, preferibilmente ‘Howl’, che gestisce con grande abilità, fosse il mezzo migliore per raggiungere il pubblico. Mi chiedo se potrebbe esserci qualche utilità in questo senso.”
+
+“Ecco!” esclamò Joan. “Ora metti anche il tuo nome lì sopra, e lo mangeranno sicuramente.”
+
+“Non so perché dovrebbero farlo,” disse Wilfred, “Io sì! Lui è considerato un americano, capisci?”
+
+“Chi? Layton?”
+
+“No, stupido. De la Guarrenne. Alcuni dicono che sia nato a Chicago; è certo che vendesse fiammiferi per strada lì. Ma in realtà non importa nulla. Qualsiasi cosa tu scriva ora, soprattutto su quell’argomento, loro la ingoieranno senza esitazione.”
+
+E così, due giorni dopo, tutto fu pubblicato, ben stampato a macchina, e Joan si assicurò che lui ne tenesse una copia.
+
+Nella tarda mattinata del terzo giorno, l’editore di notizie e articoli speciali, semidittatore de “The Howl” e schiavo salariato (ma ben trattato) di Lord de la Guarrenne, scoprì quel documento e ne rimase sbalordito. Doveva assolutamente portarlo al suo capo. Per fortuna il suo capo era lì: era venuto appositamente in ufficio per incoraggiare il suicidio del suo amico, il principe ereditario. Era una notizia esclusiva, e lui era di ottimo umore.
+
+“Beh? Cosa vuoi?” fu il suo saluto.
+
+“Ho qualcosa per voi, Lord de la Guarrenne; penso che dovreste saperlo. Si tratta di un articolo a favore di una migliore intesa anglo-americana. E sapete chi lo ha scritto?”
+
+“Dovrei farlo!”, disse il milionario, divertito da morire all’essere stato chiesto se sapesse chi fosse la persona in questione, quando era ovvio che non potesse sapere assolutamente nulla al riguardo. Poi Layton pronunciò quella parola importante.
+
+“È di quel giovane, Wilfred Guthrie Straddle”, disse. “Wilfred Guthrie Straddle”.
+
+Lord de la Guarrenne era un uomo estroverso. Si schiaffeggiò la coscia e rispose ad alta voce, quasi gridando. La parola che usò fu “Bully!” – una parola comune, ma dopotutto Lord de la Guarrenne aveva una mente piuttosto banale.
+
+“Dammi un attimo!” disse. “Siediti e aspetta che io controlli.”
+
+Lo sfogliò rapidamente, poi lo gettò indietro al servitore seduto lì; si alzò in piedi e guardò oltre la spalla di Layton mentre quell’editore iniziava a leggere il contenuto del documento. Fino ad allora aveva letto soltanto la lettera di presentazione.
+
+“Ci vediamo più tardi, Layton,” disse lui. “Non capisco queste cose. Ma se proviene da quel tipo, Straddle, allora va bene. Lì negli Stati Uniti lo hanno tenuto sotto controllo molto meglio di quanto facciano qui.”
+
+“Non va bene così come è,” disse Layton.
+
+“Beh, sistemalo in qualche modo… Mandagli semplicemente un messaggio dicendo che lo stai usando oggi.”
+
+“Non sarebbe meglio se fosse durante il Festival della Gloria Anglosassone, a settembre, con la signora McGregor e i suoi ‘Angeli’?”
+
+“Forse,” disse il maestro, con un po’ di delusione. “Comunque, decidi tu.”
+
+E così, prima della fine della settimana, Wilfred e Joan ebbero la grande gioia di scoprire che, grazie all’aiuto dell’uno più agile, l’altro meno dotato aveva potuto intraprendere una carriera letteraria. La loro felicità era tale che lei per poco non lo baciò. Ma in tempo si trattenne: fu un attimo di debolezza, si potrebbe dire. E forse fu meglio così, perché, per quanto incredibile possa sembrare, in quel momento di emozione, Wilfred stava quasi per farlo davvero.
+
+Ma dopo che l'aveva lasciata, altri pensieri gli vennero in mente – o, come avrebbe detto il signor Layton, si sovrapposero a quelli precedenti.
+
+Senza dubbio avrebbe guadagnato cinque sterline, o forse anche dieci; dopotutto, il suo nome era ben conosciuto. Ma non lo avrebbero pagato finché il libro non fosse stato stampato, e comunque non lo avrebbero pagato affatto fino al grande festival anglo-sassone, probabilmente il giorno dopo l’incontro all’Albert Hall, quando gli Angeli sarebbero stati presenti. E quella era ancora una lunga attesa. Una attesa terribilmente lunga. Avrebbe dovuto aspettare tutto settembre. Nel frattempo, la differenza tra ciò che aveva e ciò di cui aveva bisogno per raggiungere il suo obiettivo era ancora inferiore a tre sterline.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_16" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 16)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4386,6 +5918,80 @@ It was incumbent upon William to keep the flag of the Horse Club flying, and, as
 “Look here, Wilfred, you let me lead you to the others. Go and talk to Antigua. She’s a little stiff — so are her joints — but she won’t bite you. When I’ve thought things out I’ll come and call you.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ma c'era un barlume di speranza. C'era un telegramma da Sluys, il nuovo porto del Belgio, che lo aspettava nelle sue stanze: —
+
+Sono a Sluys, a bordo della Semiramis; Stuffy dice che gli piacerebbe molto vederti. Vieni con me.
+
+#Bill
+
+Si preparava mentalmente per un’altra intervista angosciante con la signora Cramp, poi sarebbe andato da Sluys. Quando ci fosse arrivato, probabilmente non sarebbe rimasto quasi nulla, ma una volta lì avrebbe potuto davvero mettere pressione su Bill, e Bill avrebbe dovuto fornire qualcosa. Era sicuro che Bill fosse in grado di farlo. Era necessario. Si trattava di vita o morte. Non poteva abbandonare i Merridens, i Lodihams e tutto quel mondo. Nella sua mente c’era l’idea vaga ma forte che persone del genere potessero aiutarlo a superare le difficoltà. Inoltre, la compagnia altrui lo sosteneva, anche se si trattava solo di conoscenze superficiali.
+
+Consultò l’orario dei treni e inviò un telegramma in risposta, annunciando che sarebbe arrivato a Sluys con la nave del pomeriggio seguente. Si preoccupò persino di consultare il “Lloyd’s Yacht Register” per scoprire chi fosse Stuffy.
+
+Sì, Wilfred stava davvero riuscendo nel suo intento! Solo poche settimane prima non avrebbe mai pensato di farlo; non avrebbe nemmeno sentito parlare del Lloyd’s Register. Probabilmente Stuffy era il proprietario della Semiramis, e in tal caso, Stuffy era lo stesso Eddie Coles: un uomo troppo ricco per questo mondo. Wilfred Straddle aveva notato anche la stazza della Semiramis: era grande quanto una nave da linea! Bill sembrava essere nella situazione ideale. Ma avere i soldi o meno era un’altra questione. Comunque, se non hai denaro, vai dove c’è denaro.
+
+Riuscì a risolvere tutto; ebbe una scena di tortura con la signora Cramp, e il giorno dopo fu incontrato al molo di Sluys da Bill, insieme a un gruppo di persone provenienti dal Semiramis.
+
+XI
+
+Bill era vestito appositamente per il ruolo. È un’obbligazione per gli uomini che non sanno nulla del mare. Indossava una giacca corta e un cappello a punta ricoperto da qualcosa di bianco; inoltre, i suoi pantaloni presentavano una leggera “apertura” sul fondo. E, credeteci o no, anche dei calzini senza bottoni.
+
+Stuffy si alzò insieme agli altri cinque o sei uomini del gruppo; c'erano anche due donne. Erano tutti usciti per andare ad aspettare la nave a vapore. Evidentemente, Wilfred era molto importante per loro, anche se lui non riusciva a capire il motivo. Il suo umore, invece, non era affatto eccitato.
+
+Ma non importa. Tutti si radunarono intorno a lui, e alla fine andò tutto per il meglio. Tuttavia, provò un po' di imbarazzo e disagio quando, in lontananza, scorse la gigantesca figura della Semiramis.
+
+Bill presentò prima le due donne. E tra le due, quella più anziana ebbe la precedenza.
+
+“Conosci Lady Antigua?”, chiese lui.
+
+“Conosco sua madre,” disse Wilfred in modo impacciato.
+
+“Certo che lo fai,” disse Bill. “Me n’ero dimenticato. La Duchessa mi stava dicendo quanto sperasse che tu chiamassi di nuovo prima che partissero per St. Bennett’s. Ormai devono essere già partiti.” Lady Antigua rispose al saluto in modo né cordiale né distaccato. Poi tutti andarono a imbarcarsi sulla Semiramis, salutati dai servi presenti. Povero Wilfred, disperato per la fretta, pregò Bill di parlargli in privato.
+
+"#Guarda qui, Bill, devo assolutamente parlarti! È davvero molto urgente!"
+
+“Niente è mai così urgente,” disse Bill. “C’è abbastanza tempo. Perché tanta fretta?” Camminavano avanti e indietro sul ponte, da soli. Wilfred guardò alle sue spalle: non c’era nessuno nelle vicinanze.
+
+“Guarda qui, Bill,” disse a bassa voce. “Tu sai com'è la situazione. Sono completamente al verde. Devi assolutamente aiutarmi a ottenere quei duecento dollari.” Bill si fermò, mise le mani in tasca. Guardò prima il cielo, poi l’acqua del porto, e scosse la testa.
+
+“No, Willy, so io di queste cose più di te.” (E questo era vero.) “Vendere adesso sarebbe una follia. Ieri il prezzo è addirittura sceso a 82/-.”
+
+“Oh mio Dio, Bill” – avrebbe urlato Wilfred se solo osasse. “Non ho quasi nemmeno spiccioli! Non ho nemmeno il biglietto per tornare a casa. Devo anche trovarmi un alloggio, e poi devo andare a incontrare tutte queste persone, ”
+
+“Non andrai dal Duca fino alla settimana prossima,” disse Bill.
+
+“Sì, ma devo prima andare dai Merriden.”
+
+“Non puoi buttarli via?”
+
+#Non oso… Davvero, non so nemmeno in quale direzione voltarmi!
+
+Bill ci pensò un attimo. “Andiamo nella mia cabina,” disse. “Per il momento non c’è bisogno di occuparsi degli altri.”
+
+Quando arrivarono nella capanna, Bill si sedette comodamente, fece sedere anche Wilfred e chiamò subito qualcuno per farsi portare da bere.
+
+“Potrei trovarti qualcosa quando torneremo a [[London|Londra]],” disse Bill. “Solo per aiutarti ad andare avanti, cosa vorresti?”
+
+“Beh, Bill, ci sono quelle tre case, qualche colpo di arma da fuoco, alcuni piccoli colli, e i viaggi in treno. Non potrei accettare meno di venticinque, e comunque mi avvicinerò molto a quella cifra.”
+
+Bill ci pensò ancora un po’. “Credo di potercela fare, se non vi dispiace ripartire per l’Inghilterra stasera con la nave notturna, insieme a me”, disse.
+
+“Farò qualsiasi cosa”, disse il disperato Wilfred. “Vedete, non posso toccare nulla finché non saranno sicuri di ciò che è accaduto alla proprietà di mio zio.”
+
+“Sì-sì!” rispose Bill lentamente, con aria pensierosa. Anche lui stava riflettendo su quell’zio.
+
+It was a pity he could not be sure how that dead uncle stood on the matter of legacies. However, it was worse for Wilfred, and Bill, like all men of his kidney, had a good heart. He was sure he would be able to refund that two hundred pretty soon. Anyhow, he would get Wilfred back to [[London]] by the night boat, and put him in some kind of funds the next morning. Twenty-five pounds was not an impossible sum, and he bethought him of a way.
+
+Il problema immediato era il costo del traghetto notturno per l’Inghilterra. A Bill non era rimasto nulla dai soldi guadagnati al tavolo da gioco: gli erano rimasti soltanto circa cento franchi belgi, mentre Wilfred aveva meno di una sterlina in spiccioli inglesi.
+
+Ma in questa estrema situazione di difficoltà, Ulisse rimase comunque Ulisse.
+
+Spettava a William mantenere alta la bandiera del Club dei Cavalli; e, essendo uno dei cavalli più grandi che ci fossero – diciamo un cavallo gigante, alto venticinque mani – era determinato a dimostrare di essere degno della sua appartenenza a quel club.
+
+“Guarda qui, Wilfred: lascia che ti porti dagli altri. Vai a parlare con Antigua. È un po’ rigida, anche le sue articolazioni lo sono, ma non ti morderà. Quando avrò riflettuto su tutto, verrò a chiamarti.”
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_17" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 17)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4447,6 +6053,64 @@ When Bill had been given the slips, he thanked M. the Controller with that mixtu
 
 When they got out at Victoria they put their very light luggage into the cloak room, and Bill said: “We must walk in the Park a bit. The man I’m going to see won’t be there till ten o’clock — better say half-past ten. Don’t come with me. Wait at the Club. I’ll be back by eleven.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Portò via Wilfred, come si porterebbe un uomo al patibolo; Stuffy, Buffy, Guffy e tutti gli altri, senza escludere Polly e Dolly, una compagnia davvero vuota e insulsa, e Lady Antigua al centro di tutto, accolsero Wilfred tra cocktail, assicurandosi che ne avesse anche lui uno. Wilfred chiese se potesse essere fatto di pomodori; le loro risate educate furono la prima nota di vivacità di quella giornata. Anche Stuffy mostrò divertimento, nonostante la sua ricchezza.
+
+Allora Wilfred pensò che non avrebbe bevuto alcun cocktail; e lì sedeva, nel più grande dolore, una vittima. Gli altri quasi non gli dissero più nulla. Aspettava il ritorno di Bill.
+
+Bill, camminando avanti e indietro nei pochi metri della sua capanna, rifletteva intensamente.
+
+Il problema era questo: due giovani inglesi, uno di nome Hedge e l’altro di nome Horse – il secondo vestito in modo splendido, il primo con gli stessi abiti del secondo, ma purtroppo con maggiore trascuratezza nella cura dei propri abiti – dovevano raggiungere [[London|Londra]] la mattina seguente senza pagare il biglietto.
+
+Esistono molti modi con cui le persone possono attraversare il Mar del Nord senza pagare: da nascondersi a bordo dei mezzi navali fino ad essere espulse dal paese. Ci sono anche metodi come intrufolarsi di nascosto a bordo, innescare liti, finire incatenati e poi consegnati ai torturatori al momento dello sbarco. Ma questi metodi portano soltanto fino a Dover, inoltre comportano molti ritardi. Bill aveva in mente una soluzione molto migliore.
+
+Per il momento era stato messo nella cabina di Darham – il giovane Darham, l’addetto diplomatico a Bruxelles. Tra due o tre giorni altri tre se ne sarebbero andati e lui avrebbe ottenuto una delle loro cabine; Darham, invece, che stava per tornare, avrebbe riavuto la sua. Il fatto di trovarsi nella stanza di Darham gli diede un’idea. Aprì i cassetti della scrivania. Non rimase deluso: in uno di essi c’era una lettera, aperta ma ancora dentro l’involucro; sull’involucro era scritto:
+
+# Alla Hon. Charles Darham
+
+#L'Ambasciata Britannica
+
+Bruxelles.
+
+Continuò a cercare. Nell’angolo di un altro cassetto c'erano due o tre biglietti da visita sparsi: “Signor Charles Darham, Ambasciata Britannica, Bruxelles”, stampati con cura in inglese, e nell’angolo, “Boodle’s”.
+
+“Boodle’s?” mormorò il signor Robinson tra sé. “Boodle’s non significa nulla per loro!” Poi, con grande gioia, trovò una carta molto più adatta alle sue esigenze. Il nome di Darham era scritto in inglese, ma sotto di esso (secondo la prassi continentale talvolta utilizzata tra i diplomatici) erano indicate le sue qualifiche: “Attaché Honoraire à l’Ambassade de Sa Majesté Britannique à Bruxelles”, ecc.
+
+Ecco come doveva essere! Prese un campione di ogni carta. Poi, su quel pregiato foglio da lettera Semiramis con la dicitura “Royal Yacht Squadron”, scrisse alcune brevi parole in francese indirizzate al capostazione di Sluys. Ora tutto era a posto: oliato, pronto per essere aperto e chiuso. Si sentiva orgoglioso di sé, e aveva ogni diritto di esserlo.
+
+“Poi si riunì agli altri partecipanti al cocktail, prese da parte Stuffy e disse…”
+
+“Stuffy, è successo qualcosa. Vedi quanto sia preoccupato questo mio amico, Wilfred Straddle? Mi ha chiesto di aiutarlo in una situazione davvero difficile, legata alla morte di quel vecchio Guthrie, sai. Devo andare con lui con la barca notturna per [[London|Londra]]. Tornerò domani sera. Devi scusare il modo in cui si è vestito per la cena stasera. Non ha portato con sé nessun bagaglio. È davvero molto urgente.”
+
+Stuffy capiva perfettamente. Cioè, in realtà Stuffy non capiva assolutamente nulla al riguardo, ma era sicuro che Bill avesse ragione. Bill aveva sempre ragione.
+
+“Posso prendere il tagliacarte?” chiese Bill.
+
+“Certo che sì!” disse Stuffy.
+
+“Bene!” disse Bill, e chiamando Wilfred: “Vieni con me, devo sbarcare.”
+
+Avevano ancora un’ora prima di cena. Bill andò direttamente negli uffici della Steamboat Company e consegnò la sua lettera. Non dovette aspettare nemmeno un attimo: fu fatto entrare con profondi inchini e gli presentarono Wilfred come suo segretario. In modo estremamente affabile ma deciso, spiegò il motivo della sua visita. Era assolutamente necessario che viaggiasse a [[London|Londra]] con la nave notturna, e tutto doveva avvenire in totale segretezza. Presentò la sua carta d’identità, quella stampata in francese; confidava che il signor Controllore capisse la natura della questione. La massima riservatezza, o forse dovremmo dire privacy?, era essenziale. Il signor Controllore avrebbe sicuramente compreso. Se l’onorevole attaché voleva attendere un attimo, gli avrebbero preparato i pass necessari e tutti gli altri documenti utili per rendere il viaggio più agevole. Naturalmente, avrebbe prenotato due cabine.
+
+Quando a Bill furono consegnati i documenti, ringraziò il signor Controllore con quella miscela di cortesia e riservatezza che caratterizza un uomo di alta cultura, soprattutto quando si occupa di affari internazionali. Poi tornarono a bordo per cena; William Robinson era pieno di vita, mentre povero Wilfred Straddle sembrava destinato alla morte. Per quanto riguarda Lady Antigua, all’inizio il suo atteggiamento era un po’ tra i due estremi. Ma con Bill al suo fianco, vivace, loquace e insistente, iniziò a mostrare gentilezza. Il vino aiutò un po’, sicuramente lui, probabilmente anche lei. Ma non certo povero Wilfred, che era un uomo di parola e non ne bevve nemmeno una goccia; questo preoccupava davvero Stuffy, il quale addirittura chiese se a bordo ci fosse della birra al ginger. E con sua grande gioia scoprì che ce n’era: perché Stuffy era un buon anfitrione. Anche se per Wilfred, ormai, quei milioni di dollari di Guthrie lo facevano sembrare una bestia selvatica.
+
+“Willy,” disse Bill prima di separarsi e andare ognuno nella propria cabina, “hai abbastanza di quello di cui abbiamo bisogno?”
+
+“Cosa sarà mai?”
+
+“Ah, dare una mancia al cameriere, e un po’ di caffè la mattina. Credo che possano anche chiederci di pagare per i posti sul Pullman. Non so bene quali siano le regole riguardo ai pass ufficiali. Comunque, dieci scellini dovrebbero bastare.”
+
+“Sì,” disse Wilfred. “Vi avevo detto che avevo spiccioli per un paio di sterline.”
+
+“Beh, avrò un po’ di più una volta cambiato i soldi belgi che ho con me. Andrà tutto bene.”
+
+“Ma cosa farai quando arriveremo a Londra?” chiese Wilfred, fissandolo negli occhi.
+
+“Vedrai!” disse Bill. E la magia del cavallo era tale che il contadino ne fu soddisfatto.
+
+Quando uscirono da Victoria, misero il loro bagaglio molto leggero nel deposito bagagli, e Bill disse: “Dobbiamo fare una passeggiata nel Parco. L’uomo che devo incontrare non arriverà prima delle dieci, meglio dire dopo le dieci e mezza. Non venire con me; aspettami al Club. Tornerò entro le undici.”
 
 
 
@@ -4530,6 +6194,84 @@ He begged her to wait just these few days more. “I have really got to go to th
 She hoped it might be. She indicated that she doubted it. She would have been glad of something on account, and she said so. He barely carried it off, and his bag as well, to Liverpool Street, picking up his guns on the way.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Wilfred, con poco meno di cinque scellini in tasca (il resto era stato speso per le mance al cameriere e per la colazione), aspettava nel club. Mentre il “Cespuglio” aspettava, vuoto e preoccupato, il “Cavallo” agiva.
+
+Trovò il suo sarto, come si aspettava, alle dieci e mezza; lo salutò con grande cordialità, esaminò i suoi modelli e chiese che uno o due dei suoi preferiti gli venissero inviati tramite Stuffy a bordo della nave S.Y. Semiramis, R.Y.S., nel porto di Ostenda. Quel giorno sarebbe tornato lì; entro una settimana sarebbe stato di nuovo a [[London|Londra]], dove avrebbe potuto scegliere il modello desiderato e farsi prendere le misure.
+
+“Ah, a proposito… potresti prestarmi trenta sterline? In qualsiasi modo sia possibile… Anche dieci, se preferisci.”
+
+"Certo, signor Robinson. Certamente, signore, con grande piacere, signore."
+
+“Dovrei andare in banca, ma è davvero un posto molto lontano. E in questi pochi giorni a [[London|Londra]] sono già così impegnato, ”
+
+“Non c’è di che, signore, sarò più che felice.” E infatti lo fu, perché, come è consueto in queste transazioni, quei trenta sterline apparivano come se fossero cinquanta sterline di merci. Per quanto riguardava chi potesse essere dietro Bill, questo eccellente fornitore, essendo lui stesso una persona molto ricca, non ne aveva la minima idea. Quello che sapeva era che Bill conosceva tutti e gli portava clientela; inoltre, i suoi conti venivano pagati a intervalli irregolari. Non completamente, ovviamente, un sarto alla moda preferisce lasciare sempre qualcosa da recuperare in futuro. Ma veniva comunque pagato abbastanza bene. Era sicuro di non correre alcun vero rischio. E infatti, come scoprirete anche voi, non ne correva affatto.
+
+Erano appena le undici quando Bill arrivò al Club, più pieno di felicità che mai, e consegnò due delle tre banconote da dieci sterline a Wilfred.
+
+“È tutto ciò che potevo fare, caro ragazzo… Spero sia sufficiente.”
+
+“Oh mio Dio!”, esclamò Wilfred. “Vedi, pensavo fossero venticinque…”
+
+“Sì… Comunque, basterà così.”
+
+#Avrei voluto pagare la signora Cramp prima di iniziare.
+
+“Ah, coccolala un po’, dimostrale che ci pensi. Dille che tornerai tra quindici giorni e che tutto andrà bene.”
+
+“Già chiede con insistenza i suoi arretrati,” disse Wilfred. “Certo, non avrei potuto saldare tutto in una volta, ma avrei voluto farlo, ”
+
+“Beh, caro ragazzo, ho fatto del mio meglio. Sono sicuro che andrà tutto bene. Ascolta: ti preparerò il pranzo prima di prendere il treno per Dover. A proposito, non hai detto che saresti andato dai Merridens a sparare? Hai preso le tue armi?”
+
+“Oh Signore, no!”, esclamò l’infelice Hedger. “Quanto costano?”
+
+“Quanto costa?” chiese il Cavallo in fretta. “Niente! Vieni con me. Sono solo le undici e mezza. No, non cammineremo, prenderemo un taxi.”
+
+Presso il più grande di tutti i fabbri d’armi, in presenza dello stesso maestro dell’arte della fabbricazione delle armi (che, naturalmente, non aveva mai costruito un’arma personalmente, ma ne aveva fornite molte ai ricchissimi), Bill portò a termine il lavoro con un movimento deciso.
+
+“Buongiorno, Barrington.”
+
+“Buongiorno, signor Robinson,” disse il grande signor Barrington con dignità e compostezza, ma non senza un certo rispetto, perché era evidente che stesse per arrivare un’altra richiesta.
+
+“Ho portato il signor Guthrie Straddle da voi.”
+
+“Signor Guthrie Straddle? Sono onorato di conoscerla, signore. C’è qualcosa che posso fare per lei?”
+
+“Guarda qui, Barrington,” intervenne Robinson. “Abbiamo un po’ di fretta. Non c’è certo tempo per fare misurazioni o cose del genere. Dobbiamo andarcene subito con loro; lui ha appena saputo dell’improvvisa modifica dei piani stamattina.”
+
+“Beh, signor Robinson, penso che possiamo farlo per il signor Guthrie, intendo, per il signor Straddle, va bene.”
+
+Fu inviato un schiavo, e due strumenti di morte molto raffinati furono posati davanti a lui sul tavolo. Bill prese il primo, lo pesò con la mano sinistra, tenne l’impugnatura con la destra, e osservò attentamente le canne doppie con un occhio solo.
+
+“Avrei preferito che fosse un po’ più pesante, ma non possiamo essere troppo esigenti, vero?”
+
+Proprio come per la prima pistola, lo stesso vale per la seconda. “Oh sì, dovranno farlo senz’altro, signor Barrington. Davvero, è molto gentile da parte sua.”
+
+“Non c’è tempo per incidere le iniziali sulla custodia, vero, signore?”
+
+“No, temo di no. Puoi farli andare nelle stanze del signor Straddle, aspetta, meglio nel suo club.”
+
+Il signor Barrington sapeva quale club fosse, non c’è bisogno nemmeno di dirlo. Era suo compito conoscere queste cose.
+
+Si inchinò. “Arriveranno subito da Doulton,” disse.
+
+I due protettori della fabbricazione di armi uscirono insieme.
+
+“In che guaio mi sono cacciato?” disse Wilfred, a malapena in un sussurro angosciato.
+
+“Oh, non lo so. Forse sessanta libbre? Non di più. Vedi, non le ha fatte apposta per te. Le hai prese direttamente dalle sue mani. Dovrebbe essere grato, invece.”
+
+Come era stato detto, così fu fatto. Il cavallo partì carico di avena e fagioli; l’uomo incaricato chiamò Worms e Handler per chiedere se ci fossero novità. Non c'erano novità. Inoltre, ottenne quell’informazione solo da un impiegato, dopo una lunga attesa e, (come non potesse fare a meno di pensare) con una certa scortesia nella risposta. Né Worms né Handler si degnarono di riceverlo di persona. Tutto ciò che ottenne fu: “Il signor Worms dice che non c’è nulla altro da comunicare”, e poi la linea fu interrotta.
+
+Wilfred trascorse l’intera giornata in preda alla malinconia, senza quasi osare pensare all’intervista imminente con la signora Cramp; controllò l’orario del treno per il giorno seguente, scrisse una nota a Lady Merriden, cenò per farsi coraggio, rimpiangendo amaramente i tre penny e sei centesimi che quel pasto gli costava. Poi se ne andò a casa.
+
+Quella sera non osò affrontare la signora Cramp, nonostante avesse cenato. Non poteva fare a meno di credere che lei avesse sentito dei pettegolezzi. Il giorno dopo fece colazione in un’atmosfera ostile, sotto il dominio di quella donna che gli forniva ancora l’alloggio senza che lui le pagasse nulla. Allora si rese conto della necessità di ritardare ulteriormente; e, come temeva, trascorse un quarto d’ora molto teso.
+
+Le pregò di aspettare solo quei pochi giorni ancora. “Devo assolutamente andare da queste persone, signora Cramp, e tornerò tra due settimane; tutto andrà bene, davvero.”
+
+Sperava che fosse così. Tuttavia, ammise di dubitarne. Le sarebbe stato piacevole avere qualcosa in cambio, e lo disse apertamente. Lui riuscì a malapena a portare con sé sia quella cosa che la sua borsa fino a Liverpool Street, prendendo le sue armi lungo la strada.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_19" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 19)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="histref/america,setting/america,setting/london"></span>
@@ -4604,6 +6346,76 @@ The next day, Sunday, was full of walking and talking with Holder, and for the r
 His host, the Nigger, spoke to him as genially as he could. It was not saying much. Lord Merriden couldn’t act as well as a man of his position should. He painfully made brief and disdainful conversation about Wilfred’s shooting, and the thought of that ordeal drove everything else out of the young man’s head.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In treno, man mano che si avvicinava a Merriden, temeva sempre di più quella enorme ricchezza che stava per entrare in suo possesso. Sarebbe stato ancora più preoccupato se avesse saputo cosa era accaduto a Merriden House nelle ore di quella mattina, quando Bill aveva incontrato il suo sarto e il famoso armaiolo si era dimostrato così generoso.
+
+Il signor Holder, l’uomo che ha gestito gli uffici centrali delle quattro governazioni della Coalizione Nazionale che, sono lieto di dire, ormai rappresentano una realtà consolidata in Inghilterra, era stato invitato a Merriden per uno scopo specifico. Gli uffici centrali non intendevano lasciare che i milioni dei Guthrie rimanessero inutilizzati; dovevano essere impiegati al servizio dello Stato.
+
+Oltre al signor Holder, era stato invitato (e aveva acconsentito con riluttanza) anche Lord Fakenham, il banchiere che aveva supportato la quarta coalizione nazionale nel coordinare le sue candidature, le sue campagne elettorali nonché le attività della vita pubblica. Da tempo era stato deciso di mantenere i nomi dei partiti “Anarchista” e “Socialista”: i Socialisti venivano considerati gli eredi degli antichi Conservatori, mentre gli Anarchisti proseguivano la tradizione del vecchio Partito Laburista. Le persone ormai si identificavano con questi nomi, e sarebbe stato difficile organizzare le elezioni senza di essi; tuttavia, utilizzarli permetteva di risparmiare energia e denaro, semplificando al contempo l’intero sistema organizzativo.
+
+Lo stesso ragionevole compromesso era stato ora raggiunto anche per quanto riguarda i fondi del Partito di Governo. I due fondi del partito venivano mantenuti separati, ma convivevano lo stesso tesoriere. Ed è così che Lord Fakenham e il signor Holder si trovavano a Merriden in attesa della loro preda.
+
+“Prima di incontrarlo, voglio avvertirti di una cosa, Fakenham,” stava dicendo il signor Holder. “È un tipo davvero tosto, ”
+
+“Ne ho sentito parlare abbastanza,” disse Lord Fakenham. “Avaro?” continuò Holder. “Dico sul serio! Venderebbe anche sua nonna, se ne avesse una!”
+
+“Una delle sue nonne era una Guthrie,” disse Fakenham.
+
+“Lei lo era; l’altro invece era un ‘Straddle’. Sai, con tutta quella roba americana alle spalle, vive in una squallida topaia a Westminster. Peggio ancora: non beve nemmeno una goccia di alcol.”
+
+“Forse è il suo stomaco,” disse Lord Fakenham, che da quando aveva raggiunto i sessant’anni – e subito dopo un attacco di salute – si era sempre schierato dalla parte moderata.
+
+“No, è solo avidità. Una vera e propria avidità meschina e rancida, e lui non ha nemmeno trent’anni! Da quanto ho sentito parlare di lui, è una persona disgustosa. Comunque, andrà bene per Ratsholme. È proprio l’uomo adatto per quei quartieri residenziali.”
+
+“Chi si occuperà delle iscrizioni e di tutte le altre questioni relative?”
+
+“Dovrai farlo utilizzando i fondi del Partito,” disse Holder.
+
+A Lord Fakenham non piaceva affatto.
+
+“Beh, dovrai farlo,” insistette Holder. “Non riuscirai a ottenere nemmeno un centesimo da lui. Non mi sorprenderebbe se ti avesse fatto comprare anche un abbonamento stagionale.”
+
+“Ratsholme dista soltanto quattro miglia da Cannon Street!”, si lamentò amaramente Lord Fakenham.
+
+“Mio caro amico, ti farà pagare tutto. Lascierà la sua cabina davanti alla tua porta e farà sì che l’Ufficio paghi per quella. Ti dico che è davvero ostinato. Non riusciresti a fargli dire una parola nemmeno con le pinze.”
+
+“Riesce a parlare?”, chiese Fakenham.
+
+"#Non dovrei pensarci così... Ma che importanza ha?"
+
+“No. Hai ragione. Chiunque lo fa.”
+
+“Beh, hanno sentito parlare di John Scott Guthrie a Ratsholme, e ne approfitterò quando lo presenterò. È tutto ciò che desiderano: penseranno che spenderà milioni per loro. Possono accontentarsi anche solo della speranza.”
+
+E così fu deciso il destino di Wilfred, senza che lui lo sapesse.
+
+Ma la sua ospite era ancora più gentile con lui di quanto lo fosse stata in passato. La figlia della sua ospite, Fanny, si comportava in modo particolarmente affettuoso nei suoi confronti. Aveva una strana sensazione che anche gli altri ospiti presenti nella casa, piuttosto grande e piena di persone convocate a Merriden per quel fine settimana, lo trattassero con una sorta di rispetto. Ma non riusciva proprio a immaginare il motivo!
+
+Una donna molto rumorosa gli parlò di [[America]]. Cosa sapeva lui su [[America]]? Accanto a lui, una donna di cui aveva molta più paura, gli parlava della politica inglese. Forse avrebbe potuto indovinare il motivo, ma purtroppo conosceva troppo poco del mondo.
+
+C'era un uomo presente, almeno vent'anni più vecchio di lui; quell'uomo si avvicinò con la sua sedia e il suo bicchiere e iniziò a conversare. Partendo da un'assunzione sorprendente: che Wilfred Guthrie Straddle avrebbe davvero corso alle elezioni per il Parlamento.
+
+“Ha riflettuto ancora su quella proposta, su quella lettera proveniente dall’Ufficio Centrale?” chiese il signor Holder.
+
+“Quale lettera?” chiese Wilfred.
+
+“Oh, non l’hai ancora ricevuto? Lo avrai domani. Forse l’hanno inviato all’indirizzo sbagliato.”
+
+Wilfred Straddle non aveva il coraggio di negare. Non sapeva nemmeno se stesse in piedi sulla testa o sui talloni. Di cosa si trattava esattamente questo discorso riguardo al fatto di rappresentare il Parlamento? Il signor Holder non gli dava tregua. Gli fu detto che trovare un collegio elettorale sarebbe stato più semplice del previsto, e dato che si trovava a [[London|Londra]], non ci sarebbero stati nemmeno costi di viaggio. A Ratsholme, se si apparteneva al partito socialista – come lui immaginava che Wilfred avrebbe fatto – non si desideravano grandi cose. Gli anarchici, ovviamente, volevano discutere ancora. Ma era certo che Wilfred ne sapesse già abbastanza. Quando preferiva fissare la data del primo incontro? Wilfred rispose che qualsiasi data andasse bene, “Almeno,” aggiunse in fretta, pensando alle visite future, “una data successiva al settimo settembre.”
+
+“Bene… diciamo l’ottavo.”
+
+Il signor Holder lo annotò rapidamente in un piccolo quaderno per appunti. “Posso contare su di te anche questa volta, l’ottava?”
+
+Wilfred prenotò l’appuntamento, chiedendosi nel suo cuore se entro l’8 settembre dell’anno successivo non avrebbe già potuto fuggire, sempre ammettendo che all’8 settembre avesse i soldi necessari per farlo.
+
+Quindi tutto fu sistemato e il pesce venne pescato. Il giovane milionario avrebbe dovuto chiamare la Sede Centrale l’8 settembre e recarsi insieme al signor Holder a Ratsholme per essere presentato ai membri del pubblico locale.
+
+Il giorno seguente, domenica, trascorse interamente camminando e parlando con Holder; per il resto, c'era quell'aria curiosa di interesse costante nei suoi confronti che Wilfred iniziava a trovare opprimente, senza però riuscire a comprenderne il motivo.
+
+Il suo ospite, quel nero, gli parlò con la massima gentilezza possibile. Tuttavia, non disse molto. Lord Merriden non riusciva a comportarsi come ci si aspetterebbe da una persona della sua posizione. Con difficoltà, intrattenne conversazioni brevi e sprezzanti riguardo alla sparatoria di Wilfred; il pensiero di quell’esperienza terribile sovrastò ogni altra cosa nella mente del giovane.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_20" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 20)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="motif/animals,concept/vulgarity,concept/class_conflict,form/satire,form/novel,setting/rural_england"></span>
@@ -4659,6 +6471,58 @@ He got in beside her, diffident, still apologizing, blundering with his gun, whi
 
 “Don’t take this too much to heart, Wilfred,” she said. “It’s happened before. It’s bound to happen. It’s always happening. You know Father himself potted Lord Gunston only last year. How we all laughed! You mustn’t take it tragically.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Beh (pensò il Giardiniere), doveva portare a termine quella cosa! Si era impegnato ad farlo, e aveva più paura di tirarsi indietro che di continuare. Avrebbe affidato tutto alla Fortuna. Dopotutto, nella sua vita aveva già usato una pistola un paio di volte, in modo molto semplice. Aveva anche catturato conigli nei campi dei vicini, nel Northumberland.
+
+Wilfred aveva sentito dire che in questi posti grandi (e Merriden era grande quanto Olympia e altrettanto brutto) c'erano uomini chiamati “caricatori”, che ti passavano la pistola, e “responsabili della sicurezza” che esigevano pesanti tangenti. Forse ce l’avrebbe fatta. Le cose sembrano sempre peggiori quando le si aspettano. Conosceva bene gli atteggiamenti e i gesti di un vero professionista del settore; li aveva visti in foto. Uno di loro girava la pistola seguendo il movimento dell’uccello. Era proprio quello che si faceva.
+
+# XII
+
+Sul campo di battaglia, Wilfred si trovava all’estremità della linea, lontano dal proprio esercito. Lord Merriden lo aveva messo in quella posizione affinché potesse causare il minor danno possibile. In questo, il suo prudente comandante, come la maggior parte delle persone sagge, aveva in realtà sfidato il destino.
+
+Il grande momento era arrivato. Gli uomini devono affrontare queste cose: a volte è la morte, a volte il matrimonio, altre volte l’esposizione pubblica e la disonore. Questa volta si trattava semplicemente di sparare a dei poveri uccellini da parte di un uomo che aveva solo una vaga idea di come si facesse. E tutto questo davanti a persone estremamente ricche; lui stesso, però (se solo lo avessero saputo!), era disgustosamente povero.
+
+Erano in fila; attraversarono solennemente quei luoghi, con i loro schiavi presenti. Lord Merriden (povero caro, ) era abbastanza sicuro di essere al sicuro. Inoltre, un uomo ricco come Straddle doveva pur essersi nascosto da qualche parte, in qualche modo. Maledizione! Solo che lui sembrava non averne mai sentito parlare. Comunque, era stata un’idea di sua moglie e lui non aveva nulla da aggiungere.
+
+Non solo ci sono le fluttuazioni nelle vicende umane, ma c’è anche quel “piccolo diavolo” che interviene spesso. E quel piccolo diavolo aveva organizzato che un stormo di uccelli si alzasse proprio sotto i piedi povero Wilfred. Il rumore fu così improvviso e forte da scuoterlo completamente; ma fu proprio quell’urlo a spronarlo ad agire con coraggio, e lui partì all’attacco senza esitare.
+
+Il suo primo colpo fu diretto. Notate bene: quando la pernice viene disturbata, fugge con estrema rapidità in linea retta verso la fonte del disturbo, senza mai innalzarsi troppo in volo. Quello che venne colpito, se mai qualcosa fu colpito in mezzo a quella massa vorticante di ali marroni, non ha alcuna importanza. Alcuni dicono di aver visto cadere qualche piuma. Il punto è che, in quel momento critico, Wilfred ricordò come i veri sportivi, secondo le immagini, facciano oscillare la loro arma da sinistra a destra, seguendo la traiettoria degli uccelli. Era assolutamente certo che fosse quella la cosa giusta da fare.
+
+Il secondo cannone si trovava già tra i 11° e i 12° di latitudine nord-est, a est della now lontana formazione nemica, quando i suoi missili mortali furono lanciati, e, ahimè, colpirono Lord Merriden: un “negro” agli occhi dei suoi amici (e di metà del mondo), ma per Wilfred rappresentava una terribile minaccia.
+
+La vittima saltò in aria emettendo un grido di terrore, con entrambi i piedi uniti (che impresa difficile per dei piedi,!), la sua pistola gettata agli Dei, la sua voce di angoscia che usciva da una gola non abituata a esprimere dolore acuto o qualsiasi altra emozione. Ma in quel momento la laringe di Lord Merriden gli fu di grande aiuto: emise un suono simile a quello di un elefante ferito. O, come disse uno scalpellino presente lì, “Come quello di un bue che si è schiantato a terra. Proprio come quel bue che ho abbattuto sul Quagaree nel ’ventiquattro. Nessun altro potrebbe farlo!”
+
+La nobiltà armata fu disturbata nel suo divertimento, o dovrei forse chiamarlo la sua “occupazione”? La linea di avanzamento (così i Marescialli dell’Impero descrivevano le loro battaglie) oscillava; poi si fermò.
+
+Quell’occasione richiedeva una parola significativa, ed ecco che Wilfred la pronunciò.
+
+“Mi dispiace davvero molto,” disse Wilfred.
+
+“Quindi è proprio quello che meriti!” urlò il suo ospite angosciato, afferrando la prima persona umana che gli capitò a tiro, anche se si trattava solo di un servo, e continuando a gridare: “Quindi è proprio quello che meriti! lurido piccolo maiale!”
+
+“Colpito da colpi di pepe?” disse allegro lo sportivo più vicino, correndo verso il luogo dell’evento. La notizia si diffuse rapidamente in tutte le direzioni: “Qualcuno ha davvero colpito quel tizio!” Fu il caos totale. Stavano portando via la vittima, e dietro di lui, con aria miserabile e trascinando i piedi, seguiva Wilfred, piegato in due per la fatica. Sapeva che doveva dire qualcos’altro, e lo fece.
+
+“Mi dispiace davvero molto,” disse di nuovo. E poi, per sottolineare il suo pentimento: “Mi dispiace davvero molto.”
+
+Non ci fu alcuna risposta, solo mormorii e imprecazioni soffocate da parte di un uomo forte che era stato ferito gravemente ma non ancora completamente paralizzato.
+
+“Ho preso i miei pantaloni? Oddio, anzi, di più!”
+
+“Mi ha rotto il braccio destro… Maledetto! Proprio intorno al gomito… Quel maiale!”
+
+Lontano, oltre la siepe, c'erano motori e belle donne ad aspettare; l’uomo ferito fu portato da loro e se ne andò. Verso quella linea, mentre il suo gruppo scompariva, Wilfred zoppicava tra le radici, con il fucile sotto il braccio in un atteggiamento desolato. Aveva letto da qualche parte che non si dovrebbe mai puntare un’arma a caso, anche se ora era scarico e privo di qualsiasi potere malvagio. Aveva già compiuto il suo dovere.
+
+Lord Merriden aveva letto gli stessi libri di Wilfred e conosceva perfettamente il ruolo dell’ospite ideale, anche se, in molte parti del suo corpo – compreso l’avambraccio destro, l’area meno interessante e meno sviluppata della sua persona – non era certo all’altezza di tale modello.
+
+“Dite loro di continuare,” disse con ferocia. “Non badate a me!” E con la squisita cortesia dei gentiluomini inglesi, continuarono senza curarsi di lui. Proseguirono nel loro tentativo di massacrare le pernici, allontanandosi sempre di più; mentre i colpi si susseguivano in lontananza, mani premurose sollevarono il nobile ferito e lo misero nell’auto di sua moglie.
+
+Si potrebbe immaginare che Wilfred Guthrie Straddle fosse condannato a tornare a casa zoppicando da solo. Ma non fu così. Fanny Blackman ricordò il proprio dovere: era lì, nel suo piccolo veicolo a due posti, e accolse quel povero colpevole. Aveva già superato le sue prime reazioni negative. Avrebbe adempiuto al proprio dovere. Dio sa quanto lo odiasse!
+
+Si sedette accanto a lei, esitante, continuando a scusarsi, imbarazzato con la sua pistola che un servo gli aveva preso in modo, a suo parere, sgarbato (e aveva ragione); poi partirono insieme.
+
+“Non prendertela troppo a cuore, Wilfred,” disse lei. “È già successo in passato. E sicuramente succederà di nuovo. Succede sempre. Ricordi che lo stesso Padre ha piantato Lord Gunston l’anno scorso? Ci siamo tutti messi a ridere! Non devi vederla come una cosa tragica.”
 
 
 
@@ -4718,6 +6582,60 @@ He was right. They had reached it. But the old Duke didn’t care, and still les
 What made all the difference to Wilfred when he arrived at the huge mid-nineteenth-century barracks strangely called an Abbey was that in its resonant depths Bill was there, well able, with his presence and address, to rouse the echoes of those enormous Victorian ceilings and those abominable sham-Gothic vaults which they called The Cloisters.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Vorrei avermi sparato”, disse Wilfred.
+
+Stavo per dire che se Fanny Blackman non stesse guidando, gli avrebbe dato una pacca sulla mano. Ma la verità è che, anche mentre guidava, gli diede davvero una pacca sulla mano: quella ninfetta moderna e coraggiosa (e “coraggiosa” e “moderna” sono davvero le parole giuste); con la destra guidava, mentre con la sinistra gli massaggiava la spalla.
+
+“Non pensare più a papà!” disse lei.
+
+Per lei era facile parlare in quel modo e prendere alla leggera le offese altrui. Ma non lo stesso valeva per suo padre! Quella pelle apparteneva a lui. Per tutto il tragitto di circa un miglio e mezzo (poiché avevano iniziato con i quaranta acri), Lord Merriden espresse, con una sorprendente energia per uno che mai prima aveva provato a utilizzare il linguaggio inglese in modo descrittivo, la sua opinione su quei maledetti estranei che cercavano di sparare. Quegli insignificanti parassiti che sua moglie continuava a portargli a casa; sprechiatori, traditori e ogni sorta di “animali” appartenenti alla più bassa categoria degli esseri umani.
+
+Saggia com'era, Lady Merriden, seduta accanto al suo sovrano angosciato nell’auto, si astenne dal interrompere la sua eloquenza. Sapeva che l’artista doveva liberarsi delle proprie repressioni prima che potesse iniziare un lavoro efficace.
+
+Con tenerezza, suo marito fu messo a letto: accompagnato da un pasto leggero e dalla bottiglia giusta, opportunamente raffreddata.
+
+Non voleva scendere lei stessa al piano di sotto; quella sera, in quel terribile lunedì, fece sì che sua figlia assumesse il ruolo di padrona di casa, e Fanny Blackman affrontò la situazione con eleganza e allegria. Bevettero così tanto che, prima della fine della cena, già una mezza dozzina di loro aveva ripetuto lo stesso scherzo per tre volte riguardo a ciò che era accaduto. Anche il criminale, che all’inizio sembrava così cupo, iniziò a sentirsi meglio.
+
+Per qualche motivo, sembrava che lo avessero perdonato. Fanny di certo lo aveva perdonato. Anche la sua ospite scese per un momento, si chinò vicino alla sua sedia e gli comunicò un messaggio da parte della vittima al piano di sopra. Gli disse che anche lì lo avevano perdonato, il che era una bugia.
+
+Poi, quando gli uomini rimasero soli, ci furono ancora molte risate e persino pacche sulle spalle di Wilfred, il quale si meravigliava della gentilezza di questo nuovo mondo ricco in cui era entrato, così indifferente al dolore e al pericolo degli altri. Il suo umore migliorò gradualmente e divenne completamente sereno quando Fanny stessa lo prese da parte per una nuova conversazione vivace, dando a lui tutte le ragioni per dimenticare la sua sconfitta.
+
+La mattina seguente, verso l’ora di pranzo, Lady Merriden, dopo aver mandato sua figlia a fare una lunga passeggiata nel parco con il giovane ospite che aveva ferito suo marito, si sedette di fronte a lui per consolarlo, dimostrargli comprensione e risolvere eventuali problemi.
+
+Se lei non poteva farlo, nessuno avrebbe potuto. Dopo tutto, ci aveva provato per quasi trent’anni. E quel “negro” era davvero un bersaglio facile. Non aveva mai fallito; nemmeno in quel lontano giorno in cui lui scoprì, con orrore, che lei aveva perso milleduecentocinquanta sterline a causa di una speculazione sui peperoncini in polvere. Su ordine del suo banchiere, che stesso aveva finanziato quell’operazione e poi rivenduto i prodotti al prezzo più alto possibile. Sì, Lady Merriden affrontò Lord Merriden nel modo giusto. E riuscì. Altrimenti, a cosa servirebbe essere una donna?
+
+Il suo ritornello era sempre lo stesso, anche se espresso in quindici modi diversi. Tutto si riduceva sempre alla stessa cosa: non doveva interferire con la migliore opportunità che Fanny avesse. Dopotutto, nulla poteva essere cambiato. E poi, di cosa si trattava? Chiunque poteva essere colpito; chiunque poteva colpire lui. Essere colpiti era il destino degli uomini che sparavano in questo triste mondo. Era già successo prima. E succedeva ogni giorno. Lei evitò saggiamente di ricordargli di Lord Gunston, ma era abbastanza donna da dire cose che lo facevano pensare a lui. E lui, povero vecchio ragazzo ingenuo, non poté fare a meno di dirlo:
+
+“Capisco cosa vuoi dire! Quello era qualcosa di completamente diverso. Quel maledetto idiota è uscito dalla fila senza che nessuno se ne accorgesse. Se l’è cercata!”
+
+“Vecchio chi?” disse sua moglie, senza capire.
+
+“Vecchio Gunston,” disse il conte.
+
+“Ah sì, me ne ricordo. Sì, era davvero molto diverso. Ma tornando al punto: non dovresti assolutamente tener rancore. Il ragazzo non voleva fare del male, ed è così infelice. Vederlo in quel stato ti spezzerebbe il cuore.”
+
+“No, non lo farebbe,” ringhiò Merriden.
+
+“Lo farebbe se lo vedesse… Non riesco nemmeno a immaginare cosa pensi di lei!”
+
+“Sai cosa penso di lui…”
+
+“E pensa sempre a Fanny, cara mia… Pensa sempre a Fanny!”
+
+Disegnò cerchi intorno a lui, ancora e ancora, fino a quando non fu completamente in suo potere.
+
+Il giorno dopo, riuscì persino a scendere al piano di sotto per dire addio a colui che aveva quasi ucciso il suo gomito destro e altre parti del suo corpo. Aveva spesso letto nei libri come dovrebbero comportarsi gli ospiti, e si comportò esattamente come i libri suggerivano: cioè esattamente come ci comportiamo tutti noi. I libri, infatti, comandano le nostre vite. Strinse la mano al colpevole, non con cordialità, ma comunque con savoir-faire, un termine di cui andava fiero. E Wilfred, insieme al suo bagaglio – comprese quelle due armi letali nella loro custodia in pelle – partì in macchina per la stazione. Wilfred, intanto, si recava dal vecchio Duca e da St. Bennet’s.
+
+Perché quella era la seconda invito della vecchia duchessa. La seconda tappa del suo “viaggio doloroso”. La seconda agonia nel corso delle sue visite alle residenze di campagna.
+
+Sperava che questa volta non ci fossero sparatorie, e Dio ascoltò la sua preghiera: non ne furono. C’era stata una grande sparatoria all’inizio, prima del suo arrivo; un’altra sarebbe avvenuta una settimana dopo. Passò il tempo in altro modo. Gli chiesero scusa per aver perso quell’evento sportivo, ma lui non se ne curò affatto. Temeva che voci su quanto accaduto a Merriden potessero essere arrivate all’Abbazia.
+
+Aveva ragione. C’erano riusciti. Ma al vecchio Duca non importava nulla, e ancor meno alla vecchia Duchessa. La festa che aveva organizzato era comunque molto piccola; nessuno, tranne il padrone di casa e la padrona di casa, l’aveva sentita, e ormai se n’erano dimenticati. Dopotutto, perché avrebbero dovuto curarsi di ciò che accadeva a quel “negro”?
+
+Quello che fece davvero la differenza per Wilfred quando arrivò in quei vasti baraccamenti del medio Novecento, stranamente chiamati “Abbazia”, fu il fatto che lì, nelle loro profondità sonore, c'era Bill. Con la sua presenza e le sue parole, Bill riusciva perfettamente a risvegliare gli echi di quei soffitti vittoriani imponenti e di quelle orribili volte in stile pseudo-gotico che loro chiamavano “I Chiostri”.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_22" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 22)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4774,6 +6692,58 @@ Wilfred was nervous, almost stammering.
 The iron entered into Wilfred’s soul, but he said nothing.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Bill aveva portato con sé due o tre delle imbarcazioni della serie Semiramis; li aveva convinti, lui o il Duca o la Duchessa, chissà come! Bill riusciva a fare quasi tutto, e Lady Antigua di certo era stata sua complice in quel piano.
+
+Era l’unica figlia e, in pratica, la padrona di casa; del resto, non era certo per niente che la vecchia Duchessa veniva chiamata “la Strega Senza Denti”. Per quanto riguarda il padre di Lady Antigua, lui accettò ciò che gli toccava, come fanno spesso le persone molto anziane. Ma lei stessa si trovava in quella fase della vita in cui si prendono decisioni risolute, in cui la persona diventa più forte e determinata. Una fase che arriva intorno ai quarant’anni, quando abbiamo conosciuto tutto ciò che la vita può offrirci, rimpiangiamo amaramente di non averlo vissuto prima e siamo disperatamente decisi a coglierne ogni opportunità.
+
+Aveva disdegnato qualsiasi opportunità. Era troppo nobile per coloro che avrebbero potuto avvicinarsi a lei. Ora, invece, era disposta ad avvicinarsi agli altri. E aveva ragione. Per questo Bill era lì, al suo fianco. La loro conoscenza si era consolidata. Anzi, si sarebbe potuto dire che fosse “innestata”. E quella conoscenza stava iniziando a fiorire. La sua conoscenza. E Bill faceva parte di essa, forse una conoscenza destinata a durare a lungo.
+
+Wilfred, imparando lentamente – ahimè! – le abitudini di questo nuovo mondo in cui si trovava, faceva attenzione ad arrivare in ritardo; non così tardi da infastidirli o essere bullizzato da loro prima che andassero tutti a partecipare alla mascherata per la cena.
+
+E Bill rese tutto facile per Wilfred al suo arrivo. Veder Bill, nel pieno esercizio del proprio potere, presentare Wilfred all’anziano Duca, e poi ancora di più all’anziana Duchessa, era davvero un momento significativo. Era la gioventù che rendeva omaggio all’età; era come se un giovane e virile Mercurio presentasse Antinoo, appena deificato agli Dei Antichi.
+
+E così, come per tutte le altre presentazioni. Lady Antigua fu l’unica ad esprimere qualche reticenza, ma anche lei fu abbastanza gentile con Wilfred. Forse aveva già preso una decisione riguardo a Bill, ma nutriva sospetti nei suoi confronti – e non senza motivo. C’era sempre il nome Guthrie, naturalmente, la leggenda dei Guthrie, e l’odore del denaro; inoltre, i giornali avevano scritto molto su di lui. Tuttavia, lei si trovava a un livello sociale così ben al di sopra delle fortune e degli ereditari yankee che non aveva alcun motivo di mostrarsi troppo disponibile. Quello che faceva era una sua scelta personale; ciò che poteva appartenerle riguardava soltanto lei. Bill era una questione che riguardava soltanto lei; ma non avrebbe certo fatto nulla per compiacere gli amici di Bill, né per qualsiasi altra cosa che non le appartenesse.
+
+All’Abbazia mancava uno solo: Worple, l’unico fratello di quella unica figlia. Lord Worple, il futuro duca, non c’era. Non era mai stato lì. Quell’uomo silenzioso, riservato e particolarmente sterile si trovava nel Mediterraneo; con l’avvicinarsi dell’inverno, la sua barca lo portava alle Indie Occidentali; all’inizio dell’anno arrivava a Nassau, nelle Bahamas. Non avrebbe più rivisto l’Inghilterra fino a quando non fosse passata tutta la stagione fredda. Questo era il ruolo che svolgeva nella nostra vita nazionale. Ma Lady Antigua apparteneva al suo “focolare”.
+
+In quel mausoleo vuoto, Wilfred si chiedeva cosa dovesse fare e come farlo. Non doveva esserci alcuna sparatoria. Grazie a Dio per questo! Tutti, tranne tre persone, erano già persone che aveva incontrato sulla Semiramis, un’ora o due prima; era quasi contento di vederli. Questo lo rendeva più timido, ma anche meno solo. Lady Antigua non era stata scortese nella sua riservatezza, e c’era anche Bill. Non sapeva come né perché, ma era evidente che fosse un amico di Lady Antigua.
+
+Comunque, c'era Bill lì; Bill poteva sempre dargli consigli e sapeva cosa fare. Ma per quanto riguardava i soldi. Bill se n'era andato, temeva Wilfred. Quella sera, mentre si preparava per la cena, contò con ansia il proprio patrimonio rimanente: dei venti sterline che Bill gli aveva dato, ne erano rimaste solo dodici.
+
+L’abbazia si trovava a circa metà strada tra Merriden e [[London|Londra]], quindi il costo del viaggio non lo preoccupava troppo. Nemmeno ciò che aveva dovuto lasciare per la sua missione lo angosciava: ormai era tutto finito e non poteva più essere recuperato. A Merriden, aveva dato mance in modo sconsiderato, come fanno spesso le persone nel loro panico. Ma anche quella situazione era ormai passata. Quello che realmente lo preoccupava era il viaggio di ritorno a [[London|Londra]], soprattutto dopo l’incontro con i Lodiham, e la signora Cramp!
+
+Bill si vestì presto e andò nella stanza di Wilfred per parlare con lui.
+
+“Domani andremo sul fiume,” disse lui (poiché uno dei fiumi dell’Anglia Orientale scorreva vicino all’abbazia, trasformandosi in una sorta di lago). “Questo è più o meno tutto.” Sbadigliò. “Ci sono i biliardi, giochi a biliardo?”
+
+“No,” disse Wilfred. “Almeno, non così male da…”
+
+“Sì,” rispose Bill in fretta. “Beh, allora dovrai semplicemente approfittare dell’occasione, nient’altro. Andremo sul fiume, e quando vorrai andartene, potrai farlo. So che la vecchia signora voleva che tu venissi.”
+
+“Quale?” disse Wilfred in modo imprudente.
+
+“Oh, la Duchessa!” rise Bill. “Ma hai ragione. Forse intendevi Antigua. So che è felice che tu sia venuto; ha detto sulla barca che sapeva che saresti arrivato. Era curiosa di sapere perché fossimo andati insieme a [[London|Londra]]. Le ho detto che era per motivi legati al Servizio Segreto, e che era meglio non chiedere.”
+
+“Bill,” disse Wilfred timidamente, mentre finiva di vestirsi e si preparava a scendere insieme al suo amico, “non riusciresti più a gestire nulla, vero?” Bill scosse la testa. “Sono ancora a 83-84,” disse. “Ma dovresti stare bene fino al nostro prossimo incontro in città. Non puoi aver già superato quei venti problemi, no?”
+
+“No, ma vedi… ho quei appuntamenti con le persone politiche.”
+
+“Che gente politica…”
+
+“Ah, sono venuti da me, sai…”
+
+"#Come intendi dire… ti ha avvicinato?"
+
+Wilfred era nervoso, quasi balbettava.
+
+“Beh, vedi, devono presentarmi a quel gruppo di elettori. Dopo essere uscito da qui, devo passare dall’ufficio centrale mentre attraverso la città prima di andare dai Lodihams; uno dei loro dipendenti verrà con me per parlare al Comitato Locale a mio nome. Non so chi sia, ” Bill assunse un'espressione divertita e fischiò leggermente.
+
+“Ah, vi hanno rovinato la vita, vero? Bel lavoro. Spero che le cose di quel vecchio Guthrie arrivino in tempo, altrimenti avrete dei grossi problemi, ragazzo mio.”
+
+Il ferro penetrò nell’anima di Wilfred, ma lui non disse nulla.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_23" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 23)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4819,6 +6789,48 @@ As for their lunch, they had to do without it, for it was on its way, basket and
 
 It made something more. It made one of those things that are only made in heaven. Lady Antigua had marked down Bill as we know. Bill, full of that sort of wisdom which knows when it is marked, had also marked down the Lady Antigua. That very evening there was already a sense of possession in the air on either side. Only the next day the old Duchess, having her eyes open, told the old Duke what she had observed, and the old Duke had said:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La siepe e il cavallo. Quando si trattò dell’esplorazione lungo il fiume il giorno seguente (con quel cestino del pranzo di scarsa qualità, il vino insufficiente e tutto il resto), non c’era nulla di positivo da dire su quella giornata, se non che il cielo era altrettanto luminoso sopra quanto fosse cupo sotto. Il gruppo proseguì il suo viaggio solenne, e Wilfred iniziò a chiedersi se davvero dovesse trascorrere altre quarantotto ore lì, o se potesse trovare un modo per scappare. Comunque fosse, finché non se ne andava, avrebbe risparmiato del denaro. Non appena fosse tornato a [[London|Londra]], le spese sarebbero ricominciate, e il margine di risparmio che gli restava si stava riducendo in modo terribilmente rapido.
+
+Remavano pigramente verso monte: Wilfred in testa, un certo Waldon che era stato con loro sulla Semiramis seduto subito dietro di lui, Bill al timone e la Lady Antigua accanto a lui. Gli unici due a mostrare un minimo di allegria a bordo. La sorella di Waldon si sdraiava sul ponte anteriore, con una mano nell’acqua; con l’altra teneva il suo adorabile cagnolino. Ma il tempo doveva pur passare. Alla fine avrebbero raggiunto quell’isolotto. Lì avrebbero legato la barca, sbarcato, fatto il picnic e poi sarebbero tornati indietro.
+
+Ma gli Dei, che sono nemici della noia, decisero di rendere le cose più interessanti, e lo fecero con quella determinazione che gli Dei possiedono quando si impegnano davvero.
+
+A meno di trenta metri dall’isolotto, vicino alla riva fangosa e ricoperta di canne, la sorella di Waldon (una ragazza odiosa) emise un grido spaventoso. Il suo adorato cagnolino aveva saltato oltre la ringhiera, ma essendo un animale debole e asmatico, non era riuscito a raggiungere l’altra parte. Lei gridò per il dolore materno, qualcosa che i suoi anni le permettevano ancora di provare. I suoi anni l’avevano resa “materna” verso quel disgustoso cagnolino, che ora abbaiava e sputacchiava acqua tra la barca e le canne vicine. Si sporse in avanti per afferrarlo, ma nel farlo rovesciò la barca.
+
+Waldon spostò la pagaia e raddrizzò l'imbarcazione, che era半 piena d'acqua. La signorina Waldon, tenendo stretto il suo adorato animale domestico, ebbe la fortuna di raggiungere la riva a nuoto.
+
+Lady Antigua non ebbe la stessa fortuna. Cadde fuori dalla barca al primo movimento improvviso della nave. L’acqua nel punto in cui era caduta era la più profonda. Il trambusto che causò nel corso d’acqua fu notevole e intenso.
+
+Per un momento, due braccia che si agitavano freneticamente sopra la superficie spinsero Wilfred a compiere un atto di eroismo. Senza pensarci due volte, saltò oltre il parapetto della barca. L’acqua era più bassa alla prua, da dove partì; affondò fino alla vita nel fango, deciso a salvare una donna. Di certo, una donna. Si agitò disperatamente da un lato all’altro, inzuppandosi completamente, e quando riuscì a raddrizzarsi si trovò immerso nella melma fino alla vita, cercando invano di raggiungere la persona che stava annegando.
+
+Per quanto riguarda Waldon, come uomo sensato, rimase fermo sul posto. Interpretò il ruolo del capitano e non abbandonò la nave.
+
+Non proprio, Bill. Il tuo cavallo pensa velocemente e in modo pratico: sa esattamente cosa fare e lo fa subito. Wilfred il Giardiniere aveva fatto del suo meglio, ma quando i giardinieri fanno del loro meglio, a volte fanno anche il peggio. Wilfred il Giardiniere era bloccato nel fango, con le mani che gocciolavano inutilmente e una testa che sembrava la caricatura di un giovane dio del fiume, un essere imperfetto, abbandonato dai suoi simili.
+
+Non Bill. Bill si trovava nel bel mezzo del fiume, remando con forza verso la figura della Lady Antigua che stava ricomparendo tra le onde. Con un braccio abbracciò quella persona, mentre con l’altro eseguiva colpi laterali nel modo approvato da tutti i grandi professionisti. Aveva il vantaggio delle acque profonde; aveva già individuato in un attimo una zona di riva dove l’acqua era bassa, e con la donna che si dibatteva, presa dal panico, tra le braccia, nuotò verso quella zona con tutte le sue forze.
+
+Continuò a lottare.
+
+“Antigua,” disse bruscamente, “stai ferma! Stai ferma, ti dico! È la tua unica possibilità!”
+
+Non riuscì quasi a sentirlo nel suo panico, ma udì ciò che disse dopo, e cioè:
+
+"#Fermati, Antigua! Ti dico di fermarti! Se non stai fermo, ti colpisco in testa."
+
+Allora obbedì. Nella sua vita non era mai stata tenuta così saldamente, e nessuno le aveva mai dato ordini in quel modo. Ahimè, per l’umanità. Ahimè, per quegli antropoidi con cui io stesso sono (scusate le mie parole) imparentato! In qualche modo confuso, Lady Antigua non era affatto scontenta di quella stretta o di quell’ordine.
+
+Bill la fece sbarcare, e l’operazione fu completata. Waldon lo lodò con poche parole, avvicinò la prua della barca a un salice e la legò; poi andò a prendersi cura di sua sorella senza troppi sentimenti, osservandola mentre lei e povero Wilfred si muovevano faticosamente nel fango verso la riva. Infine, con tutta la dignità e il decoro tipici di un gentiluomo inglese, si avvicinò anche agli altri due.
+
+“Spero che tu stia bene, Lady Antigua,” disse con voce stanca.
+
+Era sconvolta, ma aveva ripreso il controllo di sé. Per quanto riguarda Bill, aveva salvato una donna e lasciata l’altra in pace, come è consuetudine in queste circostanze. Non aveva chiesto consigli a nessuno, né ricevuto ordini da nessuno; aveva semplicemente fatto ciò che era necessario. Aveva salvato la vita più preziosa a bordo: l’unica che fosse effettivamente in pericolo, e l’unica che potesse essergli di qualche utilità.
+
+Per quanto riguarda il pranzo, dovettero farne a meno, perché era in viaggio, con cesto e tutto, verso il grande Mare del Nord (o Oceano Germanico), cinquanta miglia a valle. Dovevano tornare a casa nel modo migliore possibile, e il modo migliore era attraverso la loro imbarcazione; Bill e Waldon versarono l’acqua in eccesso mentre Wilfred osservava. Settembre era ancora caldo, quindi non soffrirono troppo. Quando arrivarono a casa, avevano bisogno di un buon pasto, e lo ebbero. In ogni caso, quell’avventura fornì loro argomenti di conversazione sotto quel tetto “mortale”.
+
+Creò qualcosa di più. Creò uno di quei fenomeni che esistono soltanto in cielo. Come sappiamo, Lady Antigua aveva “notato” Bill; Bill, pieno di quella saggezza che sa quando viene notata a sua volta, aveva anch’egli “notato” Lady Antigua. Quella stessa sera, nell’aria c’era già un senso di possesso da entrambe le parti. Solo il giorno dopo la vecchia Duchessa, con gli occhi ben aperti, raccontò al vecchio Duca ciò che aveva osservato; e il vecchio Duca disse:
 
 
 
@@ -4868,6 +6880,50 @@ The Home Secretary had appreciated even more vividly than did Mr. Holder himself
 The Home Secretary arrived punctual to the minute. He shook hands with Mr. Holder, he was introduced to Mr. Wilfred Guthrie Straddle, approached that youth with such a mixture of deference, courtesy, familiarity, affection, admiration and crude reticence as is only to he found in public life — and poor Wilfred found himself deliberately enjoying this ephemeral phase of greatness. It was bound to pass, and to pass soon. In truth, disaster was already on its way. The Bank knew all about him, for Worms (and Handler) knew all about him. Even Mrs. Cramp sniffed it.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Davvero? Che Dio benedica la mia anima! Ma chi diavolo è? Non ci credo. Antigua e quel ragazzo? Ma non avrebbe mai avuto nulla a che fare con Eustace. E questo è stato anni fa. Che sciocca ragazza. Davvero, cosa succederà adesso? Comunque, tu lo sai meglio di me.”
+
+“Non è ciò che conosco meglio, ”, disse l’antica duchessa, quasi gemendo. “È semplicemente ciò che so. Antigua ha già preso la sua decisione.”
+
+Il giorno dopo, ma tre giorni prima dell’ultimo, Wilfred trascorse l’ultima lunga giornata a St. Bennet’s. Non poteva permettersi di passare nemmeno un giorno a [[London|Londra]]; doveva recarsi immediatamente dai Lodihams. Doveva arrivare in città presto. Aveva telefonato al signor Holder presso la sede centrale – qualcosa che, ricordava, in quelle case ricche si poteva fare gratuitamente – e questo si rivelò molto utile. Con molte scuse e profonda gratitudine, aveva concordato di partire all’alba, prima che nessuno si alzasse, tranne Bill; infatti Bill era venuto a salutarlo, ancora più allegro del solito.
+
+“Cosa farai dopo aver finito con questi politici?”, chiese.
+
+“Ah, beh, è solo oggi,” disse Wilfred. “Domani andrò dai Lodiham. Penso che non rimarrò lì più di qualche giorno.”
+
+“Giusto,” disse Bill. “Allora ci incontreremo giovedì. Sarà il tredicesimo. Sarai in città in quel momento?”
+
+Un lampo di terrore attraversò la mente di Wilfred. “Sarò ancora in città a quel momento? Dove sarò? Cosa mi resterà entro giovedì?” La signora Cramp incombeva su di lui. Non sapeva quali spese potessero sorgere legate a quel odioso comitato che lo aveva selezionato per Ratsholme. Forse avrebbe dovuto pagare una somma ingente per il taxi che lo avrebbe portato in quella disgustosa periferia. E così via. Comunque, gli erano rimasti ancora quei pochi sterline. Poteva farcela.
+
+“Va bene, Bill,” disse lui. “Solo che non arriveremo troppo presto, perché non so quando riuscirò a liberarmi dai Lodihams. Sarò da te entro le cinque. A proposito, Bill, pensi che entro quel momento potresti fare qualcos’altro?” (Più ansioso che mai.) “Spero davvero che tu possa farlo, Bill. Sai, aspetta da molto tempo!”
+
+Bill fissava lo spazio con uno sguardo distante negli occhi e un sorriso agli angoli della bocca.
+
+“Non dovrei meravigliarmi, Willy,” disse. “Forse potrei riuscirci, entro giovedì. Anche se è ancora troppo presto per vendere tutto.”
+
+E Wilfred, nel suo cuore, credeva, e aveva ragione a credere che il Cavallo avrebbe riuscito, in un modo o nell’altro, a portare a termine la cosa; mentre lui, da solo, non sarebbe stato in grado di fare assolutamente nulla. Ma comunque, il futuro rimaneva altrettanto incerto quanto la nebbia del Newfoundland.
+
+* * * * *
+
+L’Ufficio Centrale non è certo un posto allegra, ma una tale cortesia da parte dell’Ufficio Centrale verso i giovani milionari, tali lusinghe e adulatori comportamenti da loro dimostrati, renderebbero persino una prigione accettabile. E Wilfred Straddle, nel profondo della sua disperazione, quando fu introdotto nella stanza di Mr. Holder, ebbe modo di respirare per la prima volta quell’atmosfera politica “piacevole”.
+
+Sentiva nel profondo del cuore che non c’era speranza. Nessun sollievo era in vista; la fine di tutto era ormai imminente. Non osava nemmeno sperare che l’ultima risorsa che gli rimaneva, i duecento sterline di Bill, potesse mai materializzarsi, per non parlare del profitto che inizialmente si aspettava da quell’accordo; e anche quando cercò disperatamente di fare del suo meglio, il futuro rimase comunque cupo e senza speranza.
+
+A che serviva tutto questo passare da una casa ricca all’altra, e tutta questa falsa atmosfera di ricchezza? Eppure non osava deluderli!
+
+A che serviva tutto ciò che stava facendo in quel preciso momento? Tutta quella finzione di rappresentare il Parlamento. Eppure non osava tirarsi indietro. Non osava nemmeno inviare una scusa ai Lodiham per il proprio ritardo. Soprattutto, temeva l’idea di dover spiegare tutto a Mrs. Cramp.
+
+Una nuvola scura circondava quel volto austero quando aveva guardato dentro le sue stanze tornando dalla stazione. Da un momento all’altro la tempesta poteva scoppiare. Comunque, quella notte lei lo avrebbe accolto; ma non c’era dubbio che gli avrebbe posto un ultimatum. Aveva promesso così spesso e con tanta fiducia. Eppure, settimana dopo settimana, i soldi non arrivavano mai. Lei aveva delle garanzie: c’erano alcuni mobili che lui stesso aveva comprato, il suo armadio, le due pistole. Ma non era sicuro che non esistesse qualche legge che prevedesse la prigione per chi si indebitava per acquisti. Rabbrividì dentro di sé.
+
+Ma l'accoglienza che avrebbe ricevuto trovandosi di fronte all'incarnazione dell’Ufficio Centrale non poteva che rallegrarlo.
+
+È nel normale corso delle cose che l’Ufficio Centrale debba occuparsi di questi giovani figli minori, di questi individui che sono praticamente dei “padri” per se stessi, di questi avventurieri coloniali, di questi truffatori, di questi usurai, di questi ricattatori di successo, insomma, di tutte queste persone che rappresentano una sorta di “materiale grezzo” per la Camera dei Comuni; ma un giovane milionario inesperto, con almeno tre milioni di sterline da saccheggiare, messo nelle loro mani, beh, questo è davvero qualcosa di notevole! Il signor Holder fu colmo di vera gioia, e, cosa ancora più importante, di autentico rispetto. Strinse calorosamente la mano a tutta quella futura ricchezza; poi comunicò la grande notizia: il Ministro dell’Interno stesso lo avrebbe accompagnato a Ratsholme!
+
+Il Segretario dell’Interno aveva compreso ancora più chiaramente di quanto lo avesse fatto il signor Holder stesso quale preziosa scoperta avesse rappresentato Wilfred Straddle per l’Ufficio Centrale. Era stato il signor Holder ad aver catturato quel “pesce”. Tutto onore al signor Holder! Un lavoro impeccabile! Ma i guadagni del signor Holder sarebbero rimasti gli stessi, qualunque cosa fosse successa. Non esisteva alcuna commissione per i giovani milionari catturati per conto del Parlamento; mentre il Segretario dell’Interno continuava a salire la gerarchia. Fare amicizia con tutto quel denaro fin da subito era un pensiero davvero delizioso per lui.
+
+Il Ministro dell’Interno arrivò puntuale al minuto. Strinse la mano a Mr. Holder, gli fu presentato Mr. Wilfred Guthrie Straddle, e si avvicinò a quel giovane con un misto di rispetto, cortesia, familiarità, affetto, ammirazione e una sorta di timida reticenza tipica della vita pubblica. Povero Wilfred: si trovava ad assaporare deliberatamente questa effimera fase di “grandezza”. Ma tutto questo sarebbe passato, e presto. In realtà, il disastro era già in cammino. La Banca sapeva tutto su di lui; Worms (e Handler) conoscevano ogni dettaglio della sua vita. Anche la signora Cramp se n’era accorta.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_25" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 25)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london,setting/new_york"></span>
@@ -4909,6 +6965,44 @@ One thing was certain. When he got back — and he aimed at being back in two da
 
 He would insist on the Kleindrift speculation being closed. Never mind the loss — better to have a hundred and fifty, or whatever it might come to than nothing.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tuttavia, fu comunque piacevole sentire l’apprezzamento intelligente e l’attenzione attenta del Segretario dell’Interno verso tutto ciò che diceva, mentre viaggiavano in quell’ottimo automobile. A Wilfred fu spiegato quale significato avrebbe per il Partito Socialista l’avere tra i suoi membri una persona con le capacità dimostrate da Mr. Straddle, la sua grande esperienza del mondo e i suoi legami con i nostri parenti all’estero. Gli fu detto quanto il Comitato di Ratsholme lo stimasse già ora; e quanto ancora di più lo avrebbe stimato quando avesse avuto l’onore di incontrarlo di persona. Gli fu anche descritto, in tono leggermente sprezzante, quale fosse realmente Ratsholme. E gli fu fatto capire che Ratsholme aveva la fortuna di averlo tra i suoi membri.
+
+Il Comitato li aspettava in una grande stanza privata dell’hotel migliore di Ratsholme: un hotel non molto elegante, come tutte le ville circostanti, ma senz’altro il più grande della zona. Tutti si alzarono quando il Segretario degli Interni entrò con il suo “premio”, e dopo le presentazioni si risedettero. Wilfred sentì quelle mani – umide o calde, decise o inermi – stringere le sue; era come una sorta di consacrazione alla nobile dignità del Parlamento. Si sentiva come se stesse ricevendo un incarico importante. Ma, oh Signore, dove tutto questo avrebbe finito? Ormai mancavano soltanto poche sterline per raggiungere l’obiettivo. Quando fosse tornato da Lodiham, ne sarebbero rimaste ancora meno: quasi niente.
+
+Il Segretario dell’Interno si alzò in piedi. Si sarebbe potuti giurare che stesse parlando dal banco dei deputati. Ogni volta che si alzava in piedi, parlava sempre dal banco dei deputati, sia che fosse in una casa privata, nel club o anche in bagno. Aveva perso la capacità di parlare in qualsiasi altro modo; eppure aveva solo iniziato a fare quella carriera da poco più di sei anni. Non erano passati dieci anni da quando, come fortunato giovane impiegato, aveva sposato quella ricca donna, la figlia del suo datore di lavoro.
+
+Disse ai membri del Ratsholme come potesse consigliare con entusiasmo il suo amico, il signor Straddle. Raccontò loro che il nome di quest’ultimo era già noto tra di loro e, in effetti, anche tra i suoi connazionali in tutto il paese. Spiegò quanta immensa opera pubblica avesse svolto il signor Straddle in relazione alle numerose attività del suo defunto e molto rimpianto parente, il signor John Scott Guthrie di [[New York]]. Menzionò anche il legame con i nostri cugini all’estero. Poi arrivò al punto cruciale: quel discorso serio e persuasivo che era solito utilizzare in queste occasioni, e che aveva già provato con successo in tutta l’Inghilterra.
+
+“Non c’è bisogno che vi dica che il signor Straddle è un socialista convinto e determinato.” Anche lui stesso, in qualità di Ministro dell’Interno, non cedeva su nulla riguardo alle proprie convinzioni in merito a questa questione. Tuttavia, nei difficili tempi attraverso cui il nostro paese era passato negli ultimi trent’anni, era stato indispensabile mettere da parte tutte le vecchie divergenze partitiche per formare un Fronte Nazionale Unito. Avrebbero scoperto che il loro probabile candidato per Ratsholme, se lo avessero adottato (come lui li incoraggiava vivamente a fare), avrebbe servito fedelmente il governo attuale, ponendo gli interessi di quest’ultimo e quelli del suo paese al di sopra di ogni considerazione partitica. Chiese loro di dare ascolto alla sua raccomandazione per il signor Wilfred Straddle, fiducioso che avrebbero ricevuto una risposta entro pochi giorni. Tese la mano al giovane fortunato; questi si alzò e la prese. Sembravano quasi pronti per essere fotografati, in quella posa ridicola. Poi strinsero la mano a vicenda, e l’accordo fu siglato.
+
+Il Ministro dell’Interno invitò Wilfred a cena con sé. Fortunatamente tornò a casa molto tardi; non c’era la signora Cramp ad aspettarlo. Si infilò silenziosamente nelle sue stanze e andò a letto.
+
+# XIII
+
+A colazione, la mattina seguente, la nuvola che circondava la severa testa della signora Cramp era scura quanto il Caos e la Vecchia Notte. La tempesta non si era ancora scatenata, ma il suo impatto era imminente. Disperato, Wilfred decise di affrontare la situazione direttamente.
+
+“Signora Cramp,” disse alzandosi dal tavolo, “c’è qualcosa che desideravo dirle da molto tempo.”
+
+“La signora Cramp rispose di no. Quello che il suo viso esprimeva era: ‘Certo che lo penso!’”
+
+“Signora Cramp, capirà sicuramente che ci sono stati alcuni ritardi nelle somme che i Trustee mi inviavano. Nessuno se ne è pentito più di me, ” Si schiarì la voce. “Devo andare subito a Lodiham, oggi stesso, da Lord Lodiham.”
+
+Il titolo non riuscì a placare la signora Cramp. Lavorava senza riserve, povera donna. E tutti questi continui ritardi avevano gravemente compromesso le sue finanze. Quei lord e lady del signor Straddle erano certamente gentili, ma non le davano alcun denaro. Senza dubbio lui faceva di tutto lì sotto, lasciando mance a camerieri e autisti. Ma questo non le serviva a nulla.
+
+“Signora Cramp, le assicuro che al mio ritorno, tornerò entro la fine della settimana al massimo, e entro quel momento il signore da cui sicuramente riceverò un pagamento sarà a [[London|Londra]].”
+
+“Sì, signore,” disse la signora Cramp – né con fiducia, né con cordialità, piuttosto in modo rigido e freddo. “Ora, signor Straddle, questa volta davvero non potrò aspettare oltre.”
+
+“Le assicuro, signora Cramp...”
+
+“Me lo aveva già assicurato in precedenza, signore. Oh sì” (la sua voce iniziò ad alzarsi), “se le promesse avessero davvero valore, ne avrei ricevute molte! Ma non si possono mangiare le promesse, signor Straddle, né berle, né tantomeno usarle per comprarsi vestiti” (si stava scaldando sempre di più; se Wilfred avesse avuto il coraggio, sarebbe fuggito). Diventò sempre più appassionata nel suo discorso. L’indignazione le dava eloquenza. Quando fece una pausa, ma con l’intenzione di riprendere subito, lui rinnovò le sue promesse con un fervore che lo sorprese persino lui stesso, e poi fuggì via con la sua borsa in taxi, diretto verso Victoria e alle glorie di Lodiham. Forse quella sarebbe stata l’ultima volta che riceveva ospitalità.
+
+C'era una cosa certa: quando sarebbe tornato – e aveva intenzione di farlo entro due giorni – avrebbe assolutamente dovuto affrontare Bill; era diventata una questione di vita o di morte. Doveva affrontare Bill, e subito dopo doveva vedere Joan e trovare il coraggio di iniziare a scrivere seriamente.
+
+Insisteva affinché le speculazioni legate al progetto Kleindrift venissero interrotte. Non importava la perdita: era meglio avere centocinquanta, o qualsiasi somma fosse, piuttosto che nulla.
 
 
 
@@ -4962,6 +7056,54 @@ The man was worth his weight in gold to Lady Lodiham, and he saw that he got it.
 Yes, Lord Lodiham had delicately lifted that pocket-book from Wilfred’s coat in the hall. The amusing prank had occurred to him, as I say, on the night before the young man’s departure for [[London]]. The pocket-book, note you, was safe in the hands of God, whence it would ultimately trickle into those of her Ladyship, his Lordship’s invaluable man, and thence sooner or later to its rightful owner. That was the invariable run of these pranks with which Lord Lodiham amused himself.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La sfortuna tempra gli uomini. Anche un'ansia prolungata e crescente, sebbene li indebolisca, conferisce loro una certa forza. Wilfred stava diventando sempre più determinato: doveva recuperare quei soldi in qualche modo, o almeno salvare quanto fosse possibile. Aveva bisogno di qualcosa per tirare avanti fino a quando non avrebbe potuto ottenere articoli pubblicati regolarmente, o fino a quando non avesse trovato un altro mezzo di guadagno, anche se modesto. E Joan, almeno, lo avrebbe aiutato a scrivere.
+
+A Lodiham, naturalmente, fu di nuovo Merriden; in quei tre giorni non accadde nulla di particolare, proprio come succede in tutti i luoghi chiamati Lodiham o Merriden in tutta l’Inghilterra, grandi e piccoli che siano. Ne esistono centinaia, e sono tutti simili tra loro.
+
+Notate bene: quando dico che mentre lui era a Lodiham non sarebbe successo nulla e che tutto sarebbe tornato come prima, con Merriden e il Duca, quando affermo che le famiglie Lodiham e Merriden in tutta l’Inghilterra seguono lo stesso schema, al punto che è difficile ricordare dove si trovava l’ultima volta tra di loro, devo ammettere l’esistenza di alcune piccole differenze.
+
+A Merriden aveva sparato a quel povero vecchio Buffer, il suo ospite. Al Duca era quasi annegato. I tre giorni di Wilfred a Lodiham, le due notti e un intero giorno trascorsi in mezzo, gli avevano anche causato due incidenti, entrambi piuttosto gravi: uno completamente nascosto da lui, l’altro parzialmente nascosto.
+
+Il primo era questo: — Fu proprio in quei giorni che iniziò il Pettegolezzo.
+
+Quale rumore?
+
+La voce che qualcosa non andasse nelle milioni dei Guthrie, o meglio, che ci fossero problemi con l’eredità di quei milioni da parte del presunto erede dei Guthrie.
+
+Dio non voglia che qualcuno creda che tutto sia iniziato con Worms e Handler: i nostri uomini d’affari sono affidabili quanto l’acciaio, e discreti come i sordomuti. Dio non voglia che qualcuno creda che tutto sia iniziato dalla Banca! Certamente quel grande uomo, il direttore di una filiale così importante, non poteva essere colpevole. Un messaggero era arrivato mentre stavano parlando, ma ogni messaggero nelle nostre banche inglesi è altrettanto affidabile del Consiglio dei Dieci di Venezia. Poi c’erano i impiegati e le persone che si occupavano delle operazioni di dattilografia in segreto. In totale, sotto quel tetto c’erano quarantasette persone, dal direttore in giù, che avrebbero potuto diffondere questa voce. Ma sappiamo che la voce non può essere partita da nessuno di loro: ognuno di loro è l’esempio stesso dell’onore e della discrezione.
+
+Non so cosa abbia scatenato quella voce, né da chi sia partita. Tutto quello che so è che si è diffusa, continuando ad espandersi su un ambito sempre più ampio.
+
+Piggy lo sentì al Club e ne fu sorpresa. Jack Purling aveva tutti i dettagli necessari. Tom Dickinson era disposto a crederci. E Piggy, Jack e Tom erano davvero ottimi “centri di diffusione” delle informazioni.
+
+Anche mentre Wilfred era ancora a Lodiham, esposto alle domande insistenti della sua ospite e di Loulou, anche mentre camminava con Loulou – quella che avrebbe potuto diventare Lady Louise Straddle – anche mentre veniva spinto da una futura suocera ad visitare le rovine del vecchio castello (notevolmente diverse da quello nuovo), la voce iniziò a diffondersi come una zanzara. Si diffuse ovunque. Fortunatamente, non era ancora arrivata a Lodiham, ma aveva già raggiunto Lady Penelope. Piggy ne era l’informatrice; il giorno dopo aver incontrato Piggy, Tom Dickinson aveva confermato e ampliato la storia.
+
+“Nemmeno un fagiolo,” era la notizia che quel giovane uomo aveva da dare.
+
+“Nessuna possibilità al mondo,” fu il verdetto dell’altro.
+
+Per quanto riguarda Jack Purling, la sua frase era di un altro genere, e molto appropriata. Scosse la testa e mormorò: “Riferiscivi a ‘Cassetto’.”
+
+Forse, prima dell’avvento dei telefoni, sarebbe servita un’intera settimana perché questa voce arrivasse nel nord. In realtà, a Sutherlandshire venne diffusa entro ventiquattro ore, e la stampa la pubblicò solo il giorno dopo. Gli scrittori di pettegolezzi erano molto cauti: in casi del genere bisogna essere sicuri delle informazioni, ma preferivano comunque fornire notizie divertenti e “scottose”.
+
+Ecco! Quella fu la prima cosa che accadde a Wilfred, ancora privo di sensi, mentre si annoiava a morte a Lodiham.
+
+Il secondo elemento presentava un carattere più deciso; si trattava di questo:
+
+Nella sera ultima della sua visita, il suo ospite, Lord Lodiham, rubò il portafoglio di Wilfred.
+
+Ah! Non iniziate! È spiegato molto semplicemente. Lord Lodiham era un uomo di eccezionale talento, anche per il suo rango. Aveva ricoperto (a vantaggio del suo paese) molti importanti incarichi. Il suo cervello era stato costantemente impegnato da oltre trent’anni, naturalmente esclusi i fine settimana.
+
+Ora, quasi tutti gli uomini grandi che svolgono il loro dovere lavorando sodo per il proprio paese devono pagare un certo prezzo, e di solito questo prezzo si manifesta sul loro sistema nervoso. Fortunatamente, in questo caso la conseguenza non fu nulla di più grave di una lesione abbastanza comune e innocua, conosciuta dagli specialisti come “cleptomania”. Lui prendeva le cose. Gli sembrava molto divertente farlo. Le prendeva sempre. Provava un senso di trionfo ogni volta che riusciva a prenderne qualcosa senza essere scoperto. Aveva sviluppato una notevole abilità: una tecnica tutta sua che gli sarebbe stata molto utile nel “Mercato Caledonico”.
+
+Prendeva le cose, dico io, ma non gli era permesso tenerle. Aveva scoperto da tempo che la ricompensa risiede nel sforzo, e che il successo è come frutto di un mare inaridito. Dopo aver preso quelle cose, le nascondeva in un cassetto segreto. Lady Lodiham aveva da anni una chiave duplicata di quel cassetto, e regolarmente, giorno dopo giorno, il servitore di Lord Lodiham restituiva gli oggetti smarriti ai loro legittimi proprietari: a volte andando personalmente in città quando questo “passatempo” si svolgeva lì, altre volte preparando con cura i pacchetti e registrandoli.
+
+Quell’uomo valeva davvero il suo peso in oro per Lady Lodiham, e lui se ne rendeva conto. Le mogli dei potenti hanno le loro piccole difficoltà da affrontare, ma ne vale la pena.
+
+Sì, Lord Lodiham aveva delicatamente preso quel portafoglio dal cappotto di Wilfred nell’atrio. Quella divertente battuta gli era venuta in mente, come dico, la notte prima della partenza del giovane per [[London|Londra]]. Il portafoglio, badate bene, era al sicuro nelle mani di Dio, e alla fine sarebbe finito nelle mani della signora in questione, l’uomo di inestimabile valore del suo signore, e poi, prima o poi, nel luogo che gli spettava. Questo era sempre il corso inevitabile di quelle battute con cui Lord Lodiham si divertiva.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_27" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 27)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london"></span>
@@ -4997,6 +7139,38 @@ Wilfred left an agonized note. All those other appeals had been agonized enough,
 
 He went to the Club, but there were no letters for him. And once again he showed the initiative born of despair. He walked slowly towards the Pillbox. He would see Mr. Worksop, who would be there by this time, he would see him and tell him that he wished to resign. He came in just in time to see Jack Purling and Piggy and the rest of them at the bar; he was going to hurry past them towards the little private room when someone whom he could not place seized him, familiarly enough, and said:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ecco dunque ciò che un tempo veniva chiamato il nostro eroe, quello che, a scopo di questo libro, chiameremo “Hedger”. Venerdì mattina si svegliò nella sua enorme camera da letto a Lodiham, ricordando dove si trovava; afferrò l’orologio sotto il cuscino e vide di avere appena il tempo per fare colazione e prendere il treno del mattino. Aveva già tutto pianificato: prima avrebbe provato a parlare con Bill al telefono, e se ciò non fosse riuscito avrebbe inviato un telegramma dalla stazione. Era assolutamente necessario che incontrasse Bill, perché sabato avrebbe avuto l’intervista decisiva con la signora Cramp. Se si presentasse da lei a mani vuote, lo avrebbe distrutto.
+
+Finora tutto va bene.
+
+Wilfred si vestì; nelle case di campagna dava sempre mance troppo generose. Si tastò le tasche alla ricerca del portafoglio. In realtà voleva dare dieci scellini all’uomo che si era preso cura di lui, e chissà quanto al maggiordomo. Non trovò il portafoglio; doveva esserselo dimenticato nell’ingresso. Imprudente, ma comunque non fatale.
+
+Sul suo cammino verso la sala da pranzo, dove gli era stato preparato il suo solitario pasto del mattino (la futura Lady Louise Straddle e la futura suocera non scendevano mai così presto; il futuro suocero forse sarebbe stato più cortese, ma si sa mai), infilò la mano nella tasca del suo cappotto appeso nell’ingresso. La busta da lettere non c’era. Allora sì che rimase sorpreso. Per un momento, fu colto di stordimento.
+
+Cosa ne aveva fatto? Cosa era successo? Nel suo taschino aveva il biglietto di ritorno e un scellino e otto pence in monete. E quelle terribili, maledette bestie che aspettavano i loro “dovuti”. Una di esse si muoveva intorno al tavolo, pronta ad attaccare; un’altra si nascondeva al piano di sopra, digrignando i denti per la mancanza di quel tributo; e il responsabile delle cerimonie, che avrebbe dovuto accompagnarlo fino alla stazione in macchina, si sarebbe sorpreso di scoprire che il veicolo era vuoto. E l’uomo che guidava la macchina fino alla stazione si sarebbe sorpreso ancora di più.
+
+La necessità non ha mai reso un uomo coraggioso; in particolare, non ha mai donato agli uomini quel tipo di coraggio che permette loro di affrontare lo disprezzo e la rabbia altrui. Si è coraggiosi, oppure no. E se non lo si è, non esiste rimedio. A volte la necessità ci costringe a compiere azioni che sembrano coraggiose; ed era proprio la necessità ad obbligare Wilfred Guthrie Straddle a comportarsi con un tipo di eroismo apparente, quasi sconosciuto nella classe sociale da cui aveva rapidamente tratto origine il suo distinto rilievo. Stava per lasciare Lodiham, senza fornire alcuna indicazione su dove sarebbe andato!
+
+Il motore roncava fuori; la colazione era pronta quando, proprio nel momento giusto, si udì il rumore di passi frettolosi e lo statista in pensione arrivò per accompagnarlo alla porta. Lord Lodiham non avrebbe potuto, per decoro, lasciare una fortuna così considerevole senza dire addio. Non so a quale entità di reddito Lord Lodiham avrebbe omesso questa formalità, ma comunque, i presunti quindici milioni di dollari che presto sarebbero entrati nella famiglia (secondo sua moglie) richiedevano certamente un certo riguardo da parte della casa. Così, era sceso in vestaglia e aveva fatto segno a Wilfred Straddle di andarsene, con un sorriso curioso sul viso mentre tornava indietro attraverso la porta.
+
+Wilfred Straddle fu portato alla stazione in modo freddo, silenzioso, quasi brutale. Dopo aver dato alcuni dei suoi ultimi penny a un facchino, scese dal veicolo senza gettare uno sguardo nostalgico alle sue spalle, né tantomeno offrire qualche regalo. Aveva in mano un shilling e due pence, oltre a un biglietto ferroviario di prima classe per il ritorno; se solo ne avesse preso un terzo! Ma poi, a dire il vero, sarebbe stato meglio se la nave Argo non fosse mai partita. Non poteva certo recarsi fino a [[London|Londra]] senza un biglietto; ridusse quindi al minimo il rischio di incorrere in disastri, e lesse l’“Daily Telegraph” per tutto il tragitto. Nemmeno il cruciverba riuscì a consolarlo. C’è solo un modo per affrontare la Morte, e gli uomini come Hedgers sono lenti ad accettarlo.
+
+Quando arrivò a Victoria, la sua mente era completamente confusa tra il cruciverba incompleto (che teneva gelosamente) e l’imminente “Doom”. Portò con sé quel peso ingombrante fino al deposito bagagli; spese altri tre penny e poi si diresse verso una casa di pegni situata all’angolo della strada di fronte alla stazione. Aveva deciso (O poverità, maestra e creatrice degli uomini, ) di vendere il suo orologio per racimolare del denaro.
+
+Era qualcosa che non aveva mai fatto in vita sua, e solo ora era riuscito a farlo, per un soffio. Il pegniere, infatti, dopo aver maneggiato quell’oggettino con disprezzo e sprezzamento, glielo restituì dicendo: “Niente da fare.” L’orologio funzionava bene, ma era di scarsa qualità. Non aveva mai speso soldi per un orologio decente. E ancora una volta, avrebbe voluto farlo. Ma allora (ancora una volta), l’Argo non sarebbe mai partito.
+
+Rimase la catena. Era fatta d’oro sottile. Ne ottenne cinque scellini. Con determinazione, si alzò in piedi.
+
+Era appena passata l’ora di undici quando arrivò nell’appartamento di Bill. Fu allora che arrivò il primo colpo di quella giornata difficile: Bill non era in città. Non era ancora tornato da St. Bennet’s. Era tornato laggiù, nella sua Antigua. Sarebbe rientrato a casa domani.
+
+Wilfred si chiese se osasse chiamare l’Abbazia. Imprecò contro le esorbitanti tariffe della compagnia telefonica inglese e decise di non farlo. Bill sarebbe sicuramente tornato il giorno dopo? Il suo uomo rispose: “Oh sì! Il signor Robinson sarebbe arrivato con il treno che arriva in tempo per pranzo; pranzerà nel suo appartamento.”
+
+Wilfred lasciò un biglietto pieno di angoscia. Tutti gli altri messaggi erano già stati sufficientemente angoscianti, ma questo rappresentava un’angoscia ancora più intensa. Era quasi un grido disperato. Inoltre, mentre scriveva quel biglietto, era deciso a farsi offrire il pranzo da Bill, e lo specificò chiaramente: “Dovrai darmi il pranzo; te ne spiegherò il motivo quando ci vedremo”.
+
+Andò al Club, ma non c'erano lettere per lui. E ancora una volta dimostrò quell'iniziativa nata dalla disperazione. Camminò lentamente verso la casamatta; avrebbe visto il signor Worksop, che ormai doveva essere lì, gli avrebbe parlato e gli avrebbe detto di voler dimettersi. Arrivò giusto in tempo per vedere Jack Purling, Piggy e gli altri al bar; stava per passare loro accanto diretto verso la piccola stanza privata quando qualcuno che non riconobbe lo afferrò, con un tono piuttosto familiare, e disse:
 
 
 
@@ -5068,6 +7242,72 @@ He did risk it, and suffered the disagreeables of which he had never had experie
 He was too well dressed for the part. He was routed off a bench on the Embankment, and was followed suspiciously by a policeman for some little way. He got free, and, having gone miles eastward, he turned round to come back miles westward, in the small hours.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ecco Willy… Willy si presenterà!”
+
+“Partecipare a cosa?”
+
+Vide dubbi e freddezza nei volti degli altri tre. L’ignoto stava iniziando a tessere una storia riguardante la raccolta di fondi per un regalo: una targa commemorativa da dedicare al signor Speider per l’indipendenza del Pillbox.
+
+Wilfred scosse leggermente la testa; borbottò qualcosa tra sé. “Temo, proprio adesso, ” esitò, poi rimase in silenzio. I tre capirono immediatamente. Tutti e quattro si allontanarono da lui.
+
+Worksop non era ancora arrivato. Wilfred attraversò la folla e poi svenne. Proprio come il vostro transatlantico, al largo delle coste, percepisce l’odore del ghiaccio, anche Wilfred avvertì una certa freddezza nell’aria intorno a sé. Non si sbagliava: tutti stavano pensando a lui. E non appena fu fuori portata d’orecchio, iniziarono a dire: “Quel maledetto avaro!”
+
+Proprio in quell’ora, quella stessa mattina, nel lontano e felice Kent, Lady Lodiham esprimeva un leggero stupore al suo signore.
+
+“È davvero un giovane straordinario, Charlie!” disse lei.
+
+“Non pensavo che fosse davvero così!” rispose lo statista.
+
+“Smithson mi ha detto che non ha lasciato nulla per nessuno, nemmeno per Parrell, che si è preso cura di lui!”
+
+“Brutto a mani strette. L’ho sempre sentito dire,” rispose il nobile. “Sei stato tu ad portarlo qui; io no.”
+
+“E non parlare così. E soprattutto, non litigare con lui. Se una persona del genere decide di comportarsi in modo eccentrico, può permetterselo. Ma penso davvero che sia strano. Ora avremo quel nuovo autista sempre di cattivo umore; perché sicuramente non gli ha dato nulla, se non ha dato nulla nemmeno a Parrell.”
+
+L’evento si è svolto nel Kent. Ma nell’Hertfordshire, una contea meno piacevole, Lady Penelope stava parlando seriamente con Joan. Joan aveva sentito la notizia ed era estremamente felice: “È sposato, il caro! Oh, sono così contenta!”
+
+“È pura perversità,” disse sua madre arrabbiata, “se tutto questo è vero. E suppongo che lo sia: Jack Purling lo sa sempre, e tutti gli altri dicono la stessa cosa, ”
+
+“Beh, mamma, se è vero, sono felice quanto a Natale. È la migliore notizia che abbia sentito da anni.”
+
+Sua madre sospirò a metà, poi gemette.
+
+“Non riesco proprio a capirti, Joan.”
+
+“Mamma, ho preso una decisione. Fino ad ora non sono riuscito a fare nulla, ma ora sì. Me ne occuperò io stesso. Farò in modo che guadagni abbastanza da poter mettere i suoi soldi insieme ai miei, e poi saremo indipendenti.”
+
+Noi! Il cuore di Lady Penelope smise di battere. Poi i ricordi tornarono a lei e la sostentarono. Beh, se quel bambino avesse deciso di tagliarsi la gola, non ci sarebbe stato nulla da fare per fermarlo. Ma era davvero amaro! Era incredibile ciò che la generazione più giovane stava facendo. Lady Penelope avrebbe deriso chiunque avesse definito Lady Antigua parte della “generazione più giovane”, ma anche lei aveva fatto le stesse cose. Quella mattina aveva letto la notizia sui giornali: “È stato organizzato un matrimonio che avrà luogo a breve tra, ecc.” Ecco lì, scritto nero su bianco. Molti avevano già fatto insinuazioni in merito, e ora tutto era deciso. Quel William Robinson, di cui tutti sapevano qualcosa ma nessuno conosceva davvero nulla di lui, era finalmente “accasato” nella vita di Lady Antigua.
+
+Tuttavia, quella era una questione che la riguardava solo lei. Ne godeva appieno, e suo padre poteva aggiungere qualsiasi somma volesse; se a lei piacevano gli uomini disonesti, beh, allora era proprio adatta a loro. Ma perché Joan dovesse cadere nel vuoto, Joan, con il suo forte carattere e la sua integrità. Perché proprio suo figlio, l’unico figlio che aveva, dovesse deliberatamente condannarsi alla povertà? Era qualcosa che lei non riusciva a comprendere. Perché non aveva dubbi: sarebbe stata povertà. Il vecchio Guthrie aveva escluso Wilfred Straddle dal proprio testamento. Tutto [[London|Londra]] lo sapeva.
+
+* * * * *
+
+La lunga giornata trascorse con Wilfred, una bellissima e mite giornata di settembre. L’aveva passata proprio così: seduto su una panchina nel Green Park, poi si alzava per osservare gli uccelli nell’acqua, tornava sulla panchina e riprendeva a guardarli. Infine si rimetteva a meditare, con le mani in tasca e il mento appoggiato al petto.
+
+A causa della signora Cramp, erano già passate cinque settimane; questa sarebbe stata la sesta.
+
+Un piccolo assegno da 8 sterline, 16 scellini e 0 pence, inviato nei giorni della sua prosperità, dimenticato e non registrato nei suoi documenti contabili, fu incassato in modo assurdatamente tardivo dal povero diavolo a cui era stato dato. Questo causò un piccolo scoperto di conto, e la banca inviò due lettere consecutive insistendo affinché la situazione venisse risolta.
+
+Gli scoperti bancari elevati sono senz'altro tollerabili, ma quanto aspramente possano essere perseguiti gli scoperti minimi, solo le vittime lo sanno.
+
+Inoltre, in qualche modo terribile, aveva perso la sua borsa da tasca a Lodiham, e con essa anche l’ultima risorsa che gli rimaneva.
+
+Rifletteva su queste cose e sentiva che tutto gli stava crollando addosso.
+
+Avrebbe dovuto tornare indietro per affrontare la signora Cramp. Avrebbe dovuto recuperare la sua borsa dal deposito oggetti e recarsi con coraggio a Westminster, da quella donna, per insistere sul diritto di utilizzare il suo letto. Temeva il peso della borsa, ma ancora di più temeva una donna veramente arrabbiata.
+
+Aveva sedici ore da trascorrere in qualche modo prima che il suo salvatore apparisse (se mai Bill si fosse rivelato tale). La notte stava per calare, e doveva riuscire a resistere fino al mattino. In ogni caso, doveva mangiare.
+
+Sembrava aver sentito parlare, in modo vago, di posti dove si poteva ottenere un letto a un prezzo davvero molto basso. Aveva mangiato, e dopo ancora gli rimanevano quasi due scellini.
+
+Non riusciva a ricordare quanto costassero quei posti economici. Chiese consiglio a un poliziotto, che lo guardò da capo a piedi e gli diede un indirizzo. Prese una strada più lunga per raggiungere quel posto, ma quando vide quelle persone in difficoltà avvicinarsi lì, non riuscì più a sopportarlo. Preferiva camminare per le strade tutta la notte. Le notti erano diventate sempre più lunghe; mancava ancora molto all’alba, e forse faceva freddo prima dell’alba. Ma era disposto a correre quel rischio.
+
+Ha rischiato davvero e ha dovuto sopportare quelle sgradevolezze di cui non aveva mai fatto esperienza, ma che gli uomini devono affrontare quando si trovano in una situazione difficile.
+
+Era troppo ben vestito per quel ruolo. Fu cacciato da una panchina sul lungofiume e, per un po’, fu seguito con sospetto da un poliziotto. Riuscì a liberarsi e, dopo aver camminato per miglia verso est, tornò indietro percorrendo altre miglia verso ovest, nelle prime ore del mattino.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_29" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 29)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london"></span>
@@ -5132,6 +7372,66 @@ To begin with, there were three which puzzled him enormously, each more than the
 One was from a Mrs. Barrington-Goyle. She had made an intolerable fuss almost a month ago about having him down to her house, insisting on his coming to dinner the very day after the morrow in which he thus opened her letter. He did not know her at all well. He had not come to know her as he knew the Merridens and the Lodihams, and yet she had pressed like a football scrum — not only she, but her niece who lived with her. He had forgotten it. Well, here was Mrs. Goyle now writing to say “it was really too unfortunate, but she found that if he came it would make thirteen, and she wondered if he would very much mind changing the day?” — but of any other date, not a word.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Era stremato e quasi privo di forze a causa della mancanza di sonno, ma si costrinse ad avanzare velocemente per non essere interrogato di nuovo, visto che già lo erano stato due volte da quando [[London|Londra]] era diventata silenziosa e deserta.
+
+Spese l'ultimo scellino che gli rimaneva per una fetta di pancetta: tutto ciò lo ottenne da uno dei comuni banchetti dove si vendeva caffè, appena chiusi dopo la giornata lavorativa.
+
+[[London|Londra]] si risvegliò a metà, e con quei pochi penny in tasca camminava per le strade con maggiore sicurezza, sotto l’alba che iniziava appena a spuntare. Ora non era più un uomo braccato. Le strade si riempivano lentamente, ma le ore continuavano ad trascorrere. Fu quasi mezzanotte prima che si dirigesse verso la porta di Bill.
+
+Bill arrivò come una forte tempesta del sud, ma una tempesta primaverile. Era soddisfatto di sé e del mondo intero. Salutò Wilfred come se fossero ancora ragazzi, aprì la lettera che Wilfred gli aveva inviato e disse: “Oh, va tutto bene! Mi occuperò di questo prima di pranzo, caro mio. Aspetta qui!” E in Wilfred nacque una nuova speranza: sembrava che qualcosa stesse per accadere.
+
+“Aspetta qui e mettiti comoda. Sembri stanca… Che c’è che non va?”
+
+“Sono stato sveglio tutta la notte,” disse Wilfred in tono cupo.
+
+#In piedi tutta la notte? Perché hai fatto una cosa del genere?
+
+"Nessun posto dove dormire!"
+
+“Oh, mio caro amico, vieni! E che ne sarà della povera vecchia signora Cramp?”
+
+“Non riuscivo a affrontarla.”
+
+Bill fischiò. Era davvero commosso.
+
+“Guarda qui,” disse, “dico sul serio. Me ne andrò subito. Aspetta qui. Se fossi in te farei un pisolino. Ma non ci vorranno più di mezz’ora.”
+
+Durante quei trenta minuti, Bill incontrò il suo banchiere.
+
+Il banchiere di Bill conosceva Bill meglio della maggior parte delle persone. La scheda informativa gli aveva fornito tutte le informazioni necessarie; sapeva persino il nome del padre di Bill, il che è più di quanto si possa dire su qualsiasi uomo o donna in questo vasto mondo che conoscesse Bill per il suo nome cristiano. Quello che il banchiere di Bill sapeva meglio, in quel momento, riguardo a quella curiosa tabella che riportava i saldi e gli scoperti di Bill negli ultimi cinque anni, era che Lady Antigua aveva “catturato” il suo cliente, o forse era stato lui ad “afferrare” Lady Antigua? Non aveva molta importanza. Forse non è considerata una pratica bancaria ortodossa occuparsi di queste cose, ma quando si tratta di finanziare giovani persone, soprattutto quelle testarde e disperate, è molto saggio che un direttore di filiale faccia la cosa giusta, anche se questo significa agire in modo non convenzionale.
+
+So che quando Bill chiese un prestito, glielo concessero – e in gran parte. Ne ritirò più della metà in contanti all’istante. Aveva fornito tutti i dati necessari, persino la data fissata per il matrimonio. Con quel mazzo di banconote in tasca tornò indietro e svegliò Wilfred, che dormiva profondamente sul divano nel suo appartamento.
+
+“Mi dispiace, Willy,” disse, “ma penso che non ti dispiacerà essere svegliato per questo.” E consegnò una serie di venti biglietti da dieci sterline al suo amico.
+
+“I couldn’t keep you waiting any longer,” he said, “and if there’s any loss when I sell — I don’t think there will be — I’m going to stand the racket myself. I haven’t sold out yet. I had no idea there would be such a squeeze. I’m sure it’s bound to be all right. But I should feel myself impossible if I didn’t refund. So here it is. It was awfully good of you, and I did think we should bring it off. Perhaps we may. And if we do, I promise you it shall be fifty-fifty, just as I said.” Two hundred mortal great pounds! Not really pounds, of course — only paper; and not even real paper, only bank credit. But still, two hundred pounds of what the erudite call “purchasing power”! Wilfrid’s first impulse was to rush off and settle things with Mrs. Cramp, and, in his eagerness, he said as much to Bill.
+
+“Vieni con me!” gridò.
+
+“Non dovrei affrettarmi,” mormorò Bill. “Dovrei prima andare al Club a controllare le mie lettere. Vengo con te. C’è tutto il tempo per quella vecchia strega. E ricorda: dale solo qualcosa in prestito, non sprecarlo. Potresti averne bisogno.”
+
+# XIV
+
+C'erano un bel po' di lettere per Wilfred a Doulton’s, di tipi molto diversi tra loro.
+
+C'era una busta, registrata e spedita da un indirizzo di [[London|Londra]], con una breve nota all'interno, una nota fredda, addirittura distaccata. Era della sua defunta ospite a Lodiham. E, oh gioia! Lei gli aveva inviato il portafoglio!
+
+Con quella nuova ricchezza che aveva acquisito, quelle altre mezzo dozzina di sterline non sembravano più avere lo stesso valore di quando le aveva perse, ma comunque si sentiva come se le cose stessero cambiando in meglio. Rimpiangeva la freddezza della lettera di Lady Lodiham e decise che avrebbe risposto con altrettanta freddezza. Non gli importava affatto se avrebbe rivisto i Lodiham fino alla fine dei suoi giorni; la sua mente era piena solo di Joan e del sollievo derivante dalla soluzione delle sue immediate necessità. Prima di chiamarla, aprì un’altra busta inviata dai Merriden, nella quale si scusavano per non poter mantenere l’appuntamento concordato. Alla fine, non avrebbero trascorso la notte in città, o meglio, ci avrebbero provato, ma solo per mangiare qualcosa di veloce.
+
+La nota era un po’ troppo breve. A Wilfred non piaceva molto il tono in cui era scritta, ma non importava. Avrebbe chiamato Joan tra un minuto o due. Poi, tra la pila di buste, i suoi occhi si posarono sui nomi “Worms and Handler” stampati sul retro di una busta. Era una busta lunga. C’era anche un’altra busta lunga, con un timbro americano sopra.
+
+“Dammi il tempo di guardarli, Bill,” disse, entrando nel salotto fumatori.
+
+“C’è tutto il tempo che vuoi,” disse Bill. “Ti lascio leggerle in pace. Sarò di nuovo fuori città fino all’inizio della prossima settimana. Non dimenticarti di chiamarmi martedì, sì, proprio martedì. Ho un motivo!” Annuì con aria soddisfatta e se ne andò. Wilfred, rigirando tra le mani la borsa da tasca recuperata e quel enorme mazzo di venti banconote da dieci sterline, non insistette per pranzare.
+
+Qual fosse la ragione di quell’appuntamento urgente di martedì da parte di Bill, Wilfred non riusciva a immaginarla. E in realtà non ci pensò a lungo: la varietà delle lettere che lo aspettavano era davvero sorprendente.
+
+Per cominciare, ce n'erano tre che lo confondevano enormemente, ognuna più enigmatica della precedente.
+
+Una di queste lettere proveniva dalla signora Barrington-Goyle. Quasi un mese prima aveva fatto un gran clamore per invitarlo a casa sua, insistendo affinché venisse a cena il giorno dopo quello in cui aveva aperto la sua lettera. Lui non la conosceva affatto bene; non l’aveva mai incontrata come aveva conosciuto i Merridens e i Lodihams. Eppure lei continuava a insistere, insieme alla sua nipote che viveva con lei. Lui se n’era dimenticato. E ora la signora Goyle scriveva dicendo: “È stato davvero troppo sfortunato. Ma ha pensato che, se fosse venuto, il numero delle persone sarebbe stato tredici. Chiedeva se gli dispiacesse cambiare data, ” Ma di nessuna altra data faceva menzione.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_30" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 30)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/new_york"></span>
@@ -5182,6 +7482,52 @@ They had opened the very small metal safe in the secret drawer. There were half 
 This other lawyer, Mr. St. John, had produced a letter which explained everything.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Wilfred era completamente confuso quando aprì un'altra lettera, e nemmeno quella riuscì a alleviare la sua perplessità.
+
+Proveniva dalla signora Matheson, o meglio, non nemmeno direttamente da lei, ma dalla sua segretaria che l’aiutava a gestire il progetto “Middle Class Mothers”. Era scritto a macchina e solo leggermente meno breve degli altri messaggi ricevuti.
+
+La signora Matheson si scusava sinceramente, ma aveva scoperto di non essere in grado di organizzare quella cena e lo spettacolo di sabato, dopo tutto. Non c’era alcuna scusa. Era una semplice dichiarazione: “La signora Matheson mi ha chiesto di scrivervi per informarvi.”
+
+Si sentiva piuttosto solo nel mondo, povero Wilfred. Quel freddo benvenuto sotto la doccia arrivò proprio quando il suo umore iniziava a migliorare, grazie al ritrovamento inaspettato del portafoglio e, ancora di più, ai duecento sterline recuperate. Quei soldi gli avrebbero permesso di tirare avanti fino a quando non fosse riuscito a risolvere i suoi problemi. In ogni caso, avrebbe potuto guadagnare qualcosa dopo aver visto Joan.
+
+Poi aprì una curiosa busta di colore giallastro; al suo interno non c'era alcuna lettera, ma un lungo foglio stampato e piegato, macchiato d'inchiostro in diversi punti. Quel documento gli autorizzava a recarsi presso l’istituto Howl e a ritirare la somma di cinquanta sterline da una persona che, apparentemente, in quell’importante nuova struttura, ricopriva la carica di vice cassiere. Gli veniva chiesto di telefonare tra le due e le tre del pomeriggio (con indicazioni scritte in inchiostro) in un giorno precedente al 25°.
+
+Finora tutto va bene. Wilfred avrebbe raccolto quei 50 sterline proprio questo pomeriggio. Fece velocemente i calcoli: 200 più 50 più 6, 256. Ora era davvero a posto.
+
+La prossima cosa che aprì fu una lettera personale molto affettuosa da parte di Lord de la Guarrenne. Era davvero incantevole, considerando quanto poco pratica avesse avuto l’autore nel scrivere.
+
+“Non ho mai avuto il piacere di conoscervi, caro signor Straddle” (nella stessa settimana Lord de la Guarrenne aveva ricevuto due lettere scritte in questo modo: la parola “caro” appariva nella seconda riga invece che nella prima; ne era derivato l’impressione che ci fosse qualcosa di forzato o artificioso in quel modo di esprimersi). “Non ho mai avuto il piacere di conoscervi, caro signor Straddle. Ma devo assolutamente esprimervi la mia gioia per aver ricevuto dalla vostra penna un appello così forte a favore del ristabilimento della razza anglosassone. È una questione che mi sta molto a cuore anch’io; e anche se le vostre opinioni fossero molto diverse dalle mie, sarei comunque orgoglioso di poter contribuire con il punto di vista di un uomo così qualificato per parlare sull’argomento, e così pratico ed incisivo nel suo modo di esprimersi.” (Questa ultima frase Lord de la Guarrenne l’aveva tratta da una recensione letta su uno dei suoi giornali.) “Avrete sicuramente già ricevuto l’ordine dal nostro ufficio per il pagamento di 50 sterline, 0 scellini e 0 pence. Spero che non vi dispiaccia la nostra abitudine di effettuare i pagamenti direttamente qui. Preferiamo gestire noi stessi le nostre finanze. Ma naturalmente, se lo desiderate, potete anche endossoarlo come fareste con un assegno e strapparlo alla linea tratteggiata: in tal caso sarà equivalente a un assegno e potrete presentarlo al vostro banca.”
+
+“Mi chiedo se non potremmo incontrarci. Se mi chiamaste in ufficio in un giorno feriale (ad eccezione di lunedì e sabato), verso le 12:50, potremmo fissare un appuntamento. Vi ringrazio in anticipo.”
+
+“De La Guarenne”.
+
+Lettore! Oh lettore! Notate quel piccolo “de”!
+
+Sotto quella lettera nel mucchio ce n'era un'altra, con l'impronta della sua maledetta banca sopra. Era soltanto un modulo stampato, il terzo di una serie, che attirava la sua attenzione su un addebito di 2 sterline, 16 scellini e 3 pence, accompagnato da un postscripto insistente che chiedeva di intervenire immediatamente “per evitare ulteriori problemi”. Ma questo non preoccupava affatto Wilfred. Un'ora o due prima l'avrebbe angosciato terribilmente, ma ora non lo turbava affatto. Si sentiva, in alto mare. E quando pensava a quei cinquanta sterline in più che poteva prendersi quando voleva, si sentiva ancora più sicuro di sé. Stava cominciando di nuovo a sentirsi ricco.
+
+La lettera proveniente da Worms e Handler era molto breve e formale. Era abbastanza cortese; gli chiedevano di far loro sapere quando avrebbe potuto venire, poiché avevano una questione da sottoporgli che lo avrebbe interessato. Tuttavia, non c’era alcuna urgenza. Se avesse comunicato loro la sua disponibilità, sarebbero stati molto grati.
+
+C'era l'abituale quantità enorme di circolari, lettere di supplica e richieste di partecipare come volontario a una disgustosa cena di beneficenza pubblica (con il pagamento di cinque sterline); c'erano anche sollecitazioni per ospedali e per cause buone o cattive di ogni tipo. Un mucchio di cose che davano per scontata la sua imminente grande fortuna, e che avevano rappresentato un ulteriore motivo di amarezza per lui negli ultimi giorni. Le aprì in modo superficiale e veloce, poi le gettò via una dopo l'altra.
+
+Lasciò per ultimo quella grande busta lunga, con il timbro postale americano e l'indirizzo scritto a macchina.
+
+Wilfred G. Straddle, Avvocato.
+
+La lettera “G” lo infastidiva. Dopotutto, sua madre era una Guthrie, e molto probabilmente quella lettera riguardava questioni legate alla famiglia Guthrie.
+
+Aveva ragione. Era proprio così.
+
+La lettera era lunga e redatta secondo la forma legale americana (che è più chiara e comprensibile rispetto alla forma legale inglese). Esprimeva ciò che doveva essere detto in modo semplice ed esaustivo, su due pagine e mezza di testo scritto a interlinea singola.
+
+Sono stati fatti tutti gli sforzi possibili da parte dei signori Hasdrubal C. Gantock e degli avvocati di Guthrie per trovare il testamento del defunto John Scott Guthrie. Tuttavia, nessun testamento è stato trovato. Questo è ancora più sorprendente considerando che egli aveva lasciato istruzioni molto precise, come ci si aspetterebbe da una persona della sua natura, indicando dove trovare tutti i suoi documenti più privati e lasciando una chiave in un involucro sigillato con la scritta “Da aprire dopo la mia morte”.
+
+Avevano aperto quella piccolissima cassaforte di metallo nascosta nel cassetto segreto. C'erano mezza dozzina di promemoria e ricevute, ma nessuna traccia di un testamento. Avevano presentato istanza presso i tribunali per ottenere una decisione provvisoria su se, e in tal caso quando, il loro defunto cliente, il signor John Scott Guthrie residente al numero 15 di Ruysbeck Street a [[New York]], potesse essere considerato legalmente deceduto senza aver lasciato un testamento. Tuttavia, un altro avvocato, il signor Abraham St. John – con cui il signor Guthrie aveva consultato senza che loro ne fossero a conoscenza – aveva fornito una nuova prova che risolveva completamente la questione.
+
+Questo altro avvocato, il signor St. John, aveva prodotto una lettera che spiegava tutto.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_31" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 31)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="setting/london"></span>
@@ -5226,6 +7572,46 @@ They could see him now. He looked at his watch. It was only a little after twelv
 The manner in which Worms and Handler received him was a singularly fine refutation of those who think cynically of all agents and all lawyers and all men of business in general. Both rose — Worms rose as do Worms, Handler rose as do Handlers. The first sinuously, the second erect. Both greeted him warmly, Worms with more oil in his warmth than Handler, but even Handler not stiffly. Both made Wilfred the honoured guest, and alternately they told him in rather wearisome detail, each prompting the other and each confirming the other in one point after another, the change in his fortunes. Wilfred answered only with a very brief “Yes” now and then. “Yes, I think so,” and then later, more urgently, “By all means. Yes. I understand.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il signor Guthrie aveva scritto ai signori A. St. John fissando un appuntamento per il quarto giorno dopo l’arrivo della nave su cui avrebbe fatto ritorno negli Stati Uniti. Spiegava di averlo fatto per lasciare spazio a eventuali ritardi dovuti al maltempo o ad altri motivi, aggiungendo che avrebbe inviato un cablogramma non appena fosse partito. In quella lettera aveva detto che avrebbe scritto ancora riguardo a una questione molto importante e privata. Non aveva ancora redatto il proprio testamento e ora desiderava farlo. Intendeva che il testamento fosse breve, poiché l’elenco dei suoi beni e le sue intenzioni al riguardo erano già chiari nella sua mente, anche se non ancora trascritti per iscritto. Avrebbe inviato un’altra lettera in cui avrebbe fornito i dettagli necessari, affinché fossero pronti a redigere il testamento al suo arrivo, con il minimo ritardo possibile.
+
+Un'altra azienda, quella dei signori Abraham St. John, aveva naturalmente letto sui giornali della morte improvvisa e tragica del signor Guthrie, e capì quindi perché non avevano ricevuto alcun telegramma; infatti, quel povero gentiluomo non aveva mai navigato. Tuttavia, avevano deciso di aspettare, nel caso potesse arrivare un altro messaggio da lui.
+
+Evidentemente non era stato scritto nulla, quando il signor Guthrie era arrivato così inaspettatamente a causa dell’incidente che era noto tanto a loro quanto al signor Wilfred G. Straddle.
+
+Quella era la lettera che i signori Hasdrubal C. Gantock avevano ricevuto dai signori Abraham St. John; di cui non sospettavano alcuna connessione con il signor Guthrie fino a quel momento.
+
+Preferirono non esprimere il loro rammarico per il fatto che il signor Guthrie avesse scelto di consultare altri consulenti legali invece di loro su una questione così importante; tuttavia, le particolarità del defunto signor Guthrie erano tali che non rimasero sorpresi più di quanto lo sarebbero stati in caso di un altro uomo.
+
+Nel frattempo, di fronte a questa nuova prova, il Tribunale aveva emesso un secondo ordine che sostituiva l’ordine provvisorio con una decisione definitiva. Ora erano pronti ad agire secondo le procedure previste, sulla base della constatazione che nessun testamento esisteva.
+
+Era chiaro che il defunto signor John Scott Guthrie sarebbe probabilmente stato considerato deceduto senza lasciare testamento, con un ritardo di circa sei mesi. In un'altra lettera inviata nello stesso periodo ai signori Worms e Handler, i signori Gantock avevano informato gli agenti di [[London|Londra]] riguardo a tutte le circostanze relative al defunto signor Guthrie. Se il signor Straddle avesse desiderato incontrare i signori Worms e Handler, questi gli avrebbero concesso la possibilità di prelevare qualsiasi somma di denaro necessaria in quel momento, fino a quando l’eredità non fosse stata liquidata; successivamente avrebbero atteso le sue istruzioni. I signori Gantock congratularono il signor Straddle per la sua buona fortuna e rimasero i suoi fedeli servitori: Hasdrubal C. Gantock.
+
+Wilfred Guthrie Straddle lesse quella lettera tre volte.
+
+Non poteva esserci alcun dubbio al riguardo. Era tornato nella posizione che non solo lui, ma tutta la [[London|Londra]] rilevante, aveva dato per scontata fino a quando non erano trapelate le notizie della sua delusione. Sarebbe diventato un uomo ricco: un uomo molto ricco, davvero molto ricco.
+
+Se volete credermi (cosa che ovviamente non farete), la sua prima reazione – come dicevano gli anglo-sassoni – il suo primo pensiero, per così dire, da questa parte dell’Atlantico, fu l’immagine di Joan: Joan con quel suo volto deciso e quella sua voce, dal tono vivido quando gli aveva detto che nulla avrebbe potuto convincerla ad essere messa nel “mercato matrimoniale”, come desiderava sua madre.
+
+Sì! Era un uomo ricco. O almeno lo sarebbe diventato. Forse entro poche ore avrebbe già avuto del denaro in mano. Ma allora, come avrebbe potuto comunicare a Joan quella terribile notizia?
+
+Guardò quella massa di buste aperte e i mucchi dei loro contenuti sul divano accanto a lui nel salotto fumatori del club, e rifletté. Quel problema sovrastava ogni altra cosa; era il problema che lo affrontava adesso. Come avrebbe dovuto dirlo a Joan?
+
+Le ricchezze avrebbero significato perdere Joan. E questa idea gli era venuta nelle ultime settimane, da quando l’aveva rivista; per lui, una persona dal carattere appassionato come il suo, questo pensiero rappresentava una tragedia così profonda che un mondo senza Joan gli sembrava un mondo in cui nulla avesse più importanza.
+
+È questo che dovete credere, che vi piaccia o no. Ci sono uomini i cui pensieri funzionano in quel modo, o meglio, il cui flusso di affetti segue quella direzione. Per Wilfred, si trattava di Joan o di Nix. Questi sentimenti sono completamente limitati ai membri del Hedge Club, e anche all’interno di esso, riguardano soltanto una piccolissima minoranza dei suoi componenti.
+
+Sì; deve raccontare a Joan della sua ricchezza. Ma lo rimanderà. La terrà con sé per tutto il tempo possibile. Ed è così che il grande mondo di [[London|Londra]] ha imparato molto tardi questa notizia, una notizia che molte delle sue madri e figlie avrebbero dato volentieri i loro cappelli e i loro cocktail pur di conoscerla.
+
+Wilfred uscì dal suo sogno ad occhi aperti e si riprese, ma con un grande peso nel cuore.
+
+Deve essere pratico; deve occuparsi immediatamente delle questioni attuali. Strappò tutte quelle lettere di supplica e quegli insulti provenienti da lord, dai loro ospedali e da altre organizzazioni simili, e le gettò nel cestino della spazzatura. Camminava lentamente, quasi barcollando, verso la cabina telefonica e chiamò Worms e Handler. Quando potevano riceverlo?
+
+Ora riuscivano a vederlo. Guardò l'orologio: erano appena passate le dodici. Disse loro che sarebbe arrivato il prima possibile, non appena i strani imprevisti del traffico di Londra glielo avessero permesso. Nel taxi, mentre viaggiava, i suoi pensieri erano dominati da tre cose: quella enorme fortuna ormai vicina a lui, la somma che avrebbe potuto chiedere onestamente a Worms e Handler di anticipargli. Ma sopra ogni cosa, molto più vivida e intensa di tutte le altre, c'era l’idea della possesso – e della perdita – di Joan.
+
+Il modo in cui Worms e Handler lo accolsero rappresentò una refutazione particolarmente efficace di coloro che guardano con cinismo a tutti gli agenti, agli avvocati e, in generale, a tutte le persone impegnate nel mondo degli affari. Entrambi si alzarono: Worms si alzò nel modo tipico dei vermi, Handler nel modo tipico degli uomini come Handler. Entrambi lo salutarono calorosamente; Worms con una cordialità più esplicita rispetto a Handler, ma anche Handler non fu affatto freddo. Entrambi trattarono Wilfred come un ospite onorato e, a turno, gli raccontarono in modo piuttosto noioso i dettagli dei cambiamenti avvenuti nella sua fortuna, incoraggiandosi a vicenda e confermando reciprocamente ogni punto del loro resoconto. Wilfred rispondeva soltanto con brevi “Sì”, di tanto in tanto: “Sì, credo di sì, ”, e poi, più volte, con maggiore urgenza: “Certamente. Sì. Capisco”.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_32" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 32)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="histref/america,setting/america,setting/new_york"></span>
@@ -5265,6 +7651,42 @@ Once more for a moment was Wilfred Straddle at a loss. He did not like to mentio
 
 “I don’t want to fix any maximum, Mr. Straddle,’ said the Manager, “but if we say up to five thousand, I think we shall understand each other. We certainly shall not have to wait more than six months, I understand. The American taxes, I believe, will be dealt with on the other side. No doubt we can discuss later whether you will transfer any of the investments, and perhaps I may be of use in connection with the documents which make the burden of overseas payments less grievous, though I am afraid they must always be very heavy, Mr. Straddle” (shaking his head), “very heavy! Here we are, with the Great War half a lifetime behind us, and they are still very heavy, Mr. Straddle! Very heavy! Heavy enough,” he sighed, “when a man has all his possessions locked up in this country, but almost crushing when he draws income from abroad!’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ci fu una pausa. C'era molto di ciò che veniva nascosto riguardo al progetto “Horse in Worms”, e ancora di più riguardo alle attività aperte legate a “Handler”, di quanto il sistema di controllo attualmente in atto avrebbe potuto immaginare. Loro presero l'iniziativa; mentre lui ancora esitava nel decidere se osasse chiedere cinquecento sterline, mentre si interrogava su ciò che quegli avvocati di [[New York]] intendessero con la frase “in modo ragionevole”, loro gli dissero che ritenevano che un credito di mille sterline fosse sufficiente a soddisfare tutte le esigenze immediate. Naturalmente, se ci fossero stati ulteriori ritardi, non sarebbe stato affatto difficile aumentare quella somma. Nel frattempo, erano certi che anche i suoi banchieri avrebbero collaborato volentieri, e gli avrebbero fornito una lettera di credito da presentare a quelle “entità impersonali”, il che, in concreto, significava il temibile Direttore Generale, quello stesso Direttore che poco tempo prima aveva risposto con tanta affabilità: “Ma no, ma no! Eh?”
+
+Avevano già fatto tutti gli accordi, avevano trovato il “Worm” e l’“Handler”. Forse ora potevano dargli il loro assegno. Era meglio agire in fretta in queste cose!
+
+Wilfred era piuttosto disponibile. Gli diedero un involucro; ci fu un’altra dimostrazione di gentilezza da parte del signor Worms e qualcosa che si avvicinava alla cortesia da parte del signor Handler. E basta.
+
+L’enorme edificio in stile palladiano che ospitava la sacra testa di Lord de la Guarrenne, quando questi sovrintendeva al suo mostruoso impero di giornali, si trovava a metà strada tra Worms e Handler, vicino al Wilfred’s Club. Lì si fermò. Lord de la Guarrenne sarebbe stato molto felice di vederlo.
+
+Con la sua nuova ricchezza, Wilfred fece attendere l’auto a Worms e presso l’ufficio di Handler. La fece aspettare ancora una volta quando arrivò all’edificio Bodger – Bodger, che non c’è bisogno di ricordarvi, è il cognome della famiglia de la Guarrennes; con questo nome fu inizialmente chiamato il loro negozio commerciale, prima che venisse elevato al rango nobiliare. La residenza cittadina, in stile moderno e con vista sul parco, porta invece il titolo più nobile acquisito successivamente.
+
+Wilfred incassò l’ordine da 50 sterline. Gli piaceva avere le cose a portata di mano. Poi andò nella stanza del milionario: un piccolo appartamento semplice, in stile tradizionale Luigi XV. Fu accolto con un entusiasmo che coloro che conoscevano bene de la Guarrenne difficilmente avrebbero creduto possibile. Lo portarono subito dopo a pranzo nella residenza di de la Guarrenne. Solo loro due. Prima di andarsene, fu convinto a scrivere un altro articolo sull’importante questione delle relazioni anglo-sassoni. Lord de la Guarrenne sperava e credeva che questo fosse soltanto l’inizio di una stretta e duratura collaborazione tra loro.
+
+Dopo quel pranzo, Wilfred pensò alla sua banca. Nella sua semplice mente, immaginava che i dirigenti delle banche lasciassero gli uffici proprio in quell’ora in cui il volgare pubblico trovava le porte chiuse per tutto il giorno. Non sapeva affatto che persone di tale rango difficilmente tornavano dai loro pranzi così presto nel pomeriggio. Dovette aspettare, proprio come aveva dovuto aspettare quel giorno in cui il responsabile del credito gli aveva sorriso dolcemente e mormorato: “Mai! — Eh?”
+
+Ma ora occupava l’anticamera del banchiere con un atteggiamento molto diverso: uno stato d’animo di sicurezza e soddisfazione. Non aveva alcuna fretta.
+
+Sentì dei movimenti dietro la porta. Fu fatto entrare con solennità, e per la terza volta quel giorno fu accolto con quell’ospitalità sincera che caratterizza gli uomini d’affari nelle occasioni appropriate.
+
+“Mio caro signor Straddle! Spero davvero di non averla fatto aspettare, ” Le mani erano tese verso di lui. Gli occhi, dietro le lenti degli occhiali, non brillavano, ma i muscoli del suo viso non mostravano traccia di quel sorriso pericoloso. Erano piegati in espressioni autentiche di benvenuto, o almeno, qualcosa che ci andava molto vicino.
+
+“Mio caro signor Straddle! Ora possiamo parlare seriamente. Di cosa desidera parlarmi? Certo, ho ricevuto notizie dagli agenti del defunto signor Guthrie, i signori Worms e Handler. Posso congratularmi con lei?”
+
+È difficile, allo stesso tempo, congratularsi con una persona e offrirle il proprio cordoglio. Ma il Direttore aveva già fatto qualcosa del genere trecentoventi volte prima, ed era riuscito a farlo abbastanza bene. Passò con disinvoltura dal lato del cordoglio a quello degli affari, e presto scoprì cosa potesse fare per il signor Wilfred Guthrie Straddle: erede legittimo e principale esponente del dolore per il povero defunto signor John Scott Guthrie.
+
+Quanto tempo avrebbe richiesto la liquidazione di un patrimonio del genere, nessuno poteva certo dirlo; ma si sperava che il signor Straddle considerasse la banca a sua disposizione: in ogni caso, questa filiale della banca, o qualsiasi altra filiale che il signor Straddle potesse aver bisogno di visitare. Naturalmente, si sperava anche che il signor Straddle continuasse a mantenere i propri rapporti con, eccetera.
+
+Wilfred fu guidato e aiutato in tutto, e andò tutto bene. No, non intendeva stabilirsi in [[America]]. Forse avrebbe dovuto farlo in futuro, probabilmente sì, ma voleva vivere in Inghilterra. Non era mai uscito dall’Inghilterra. Per un attimo stava per dire “Tranne una volta a Sluys”, ma si rese conto in tempo di non doverlo fare.
+
+“Davvero?” disse il Direttore. “Davvero?” come se stesse ricevendo una notizia meravigliosa. Gli uomini molto ricchi spesso vanno in Riviera, o addirittura più lontano.
+
+Ancora una volta, per un momento, Wilfred Straddle rimase senza sapere cosa fare. Non gli piaceva menzionare cifre specifiche, e ancora una volta l’iniziativa gli sfuggì di mano.
+
+“Non voglio fissare alcun limite massimo, signor Straddle,” disse il Manager, “ma se diciamo fino a cinquemila, credo che possiamo capirci. Di certo non dovremo aspettare più di sei mesi, giusto? Penso che le tasse americane verranno gestite in un altro modo. Senza dubbio potremo discutere in seguito se trasferirete alcune delle vostre investimenti, e forse posso esservi d’aiuto riguardo ai documenti necessari per ridurre il peso dei pagamenti all’estero, anche se temo che siano sempre molto onerosi, signor Straddle” (scuotendo la testa), “molto onerosi! Ecco qui: la Grande Guerra è già alle nostre spalle da mezzo secolo, e i costi rimangono comunque altissimi. Sufficientemente pesanti,” sospirò, “quando un uomo ha tutti i suoi beni bloccati in questo paese, ma quasi insopportabili quando gli introiti provengono dall’estero!”
 
 
 
@@ -5328,6 +7750,64 @@ He passed the night at his Club, more unhappy at the diminution of friendship wh
 In the morning the trouble began again: the usual mass of letters from lords and ladies who wanted money for good objects and bad: more commoners who had needs of their own, or brilliant opportunities to recommend. But among these letters, one had thrust the iron a little deeper into his soul. It was from the Central Office, and it astounded him.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Sì,” disse semplicemente Wilfred. Non aveva dubbi che fosse così. Ma nel suo cuore non riusciva a immaginare nulla di abbastanza potente da distruggere un accumulo così mostruoso come quello che ora gli era accessibile.
+
+“A meno che,” continuò il direttore della banca con garbo e diplomazia, “a meno che, naturalmente, l’investitore non venga adeguatamente consigliato e gli vengano suggeriti i metodi giusti. Metodi giusti, sì, metodi giusti. Sarò felice di mostrarvi, ” Si alzò e prese alcuni documenti da un cassetto, “uno o due esempi.”
+
+Si sistemò di nuovo gli occhiali e costrinse il sfortunato Wilfred a trascorrere più di mezz’ora fingendo di leggere documenti che, in realtà, non significavano assolutamente nulla per lui. Alla fine, Wilfred non ne poté più sopportare: mormorò una scusa e si alzò in piedi.
+
+“In seguito, signor Straddle, parleremo delle firme, vero? Intanto, signor Straddle, lasci che le faccia i miei più calorosi complimenti ancora una volta.”
+
+Si strinsero la mano e Wilfred andò a sbrigare tre faccende che, nel corso di quella giornata, gli erano continuiamente venute in mente; si rese conto infatti delle opportunità che ora aveva completamente a disposizione.
+
+Prima di tutto andava alla Casamatta; era stato davvero fortunato che la prima volta non avesse trovato Worksop lì. Si sentiva stranamente grato al pensiero che, per caso, fosse riuscito a evitare quell’umiliazione, e ora decise di contribuire in modo sostanziale, esattamente come gli era stato chiesto.
+
+La seconda cosa che doveva fare era rispondere a tutte quelle lettere, per quanto fredde potessero essere. Gli ci sarebbe voluta buona parte del pomeriggio.
+
+La terza cosa che doveva fare era riconciliarsi, per lo più, con la signora Cramp. Era consapevole dei propri difetti riguardo a quella brava donna; l’aveva davvero messa alla prova in modo duro. Lei era povera, lavorava sodo e non aveva alcuna colpa di quanto era accaduto: anzi, la colpa era sua. Avrebbe dovuto fare quasi qualsiasi cosa pur di non farla aspettare. Lei aveva su di lui il diritto principale.
+
+Ecco come era organizzato il suo giorno. Ma lui lo cambiò.
+
+All’inizio rispondeva alle loro lettere con il cuore pesante. Non fraintendeva il loro tono, anche se non riusciva a capire perché in così tante relazioni fosse avvenuto questo curioso cambiamento.
+
+Avrebbe continuato a conoscere queste persone, ovviamente – ma quasi certamente non più con gli stessi rapporti di prima. Per quanto riguarda la signora Matheson, sicuramente non più con gli stessi termini di prima. Si sentiva leggermente arrabbiato con lei, e solo un po’ confuso riguardo agli altri. Comunque, c'era una cosa che lo consolava in tutto questo: non avrebbe più dovuto sopportare le fastidiose attenzioni di Loulou né quelle ancora peggiori di Fanny.
+
+Si addolcì di fronte a ciò che temeva fosse la freddezza sorta tra lui e i Merridens. Dopotutto, aveva sparato al vecchio Nigger, no? Era comprensibile che ci fossero conseguenze. Aggiunse una o due parole alle sue note, dicendo di sperare di trovare Lady Merriden in casa: avrebbe tanto voluto rivederla! Avrebbe chiamato, se a lei non dispiaceva, il giorno dopo domani, dopo l’ora del tè, (Scrisse con cura “dopo l’ora del tè”, nella speranza di trovarla libera dalla compagnia di amici che preferiva non incontrare.)
+
+Poi si ricordò all'improvviso di non aver lasciato alcun biglietto da visita quando aveva lasciato i Lodihams, e forse loro erano infastiditi dal dover inviare il suo portafoglio. Per i domestici è sempre una tentazione lasciare un portafoglio in giro.
+
+Sì, nelle sue risposte sarebbe stato cortese, tranne che con la signora Matheson. Ormai lei era al di là di ogni limite per lui.
+
+Poi, prima di cena, andò a fare la pace con la signora Cramp. Le pagò l’intera somma dovuta, con una settimana di anticipo, in un biglietto, e aveva già preparato tutti i piani necessari per rimediare al proprio errore.
+
+Si chiese cosa le sarebbe piaciuto. Poi si ricordò che all’inizio della loro conoscenza, durante una conversazione con lui, lei aveva invidiato il possesso di una radio davvero buona. Glielo avrebbe suggerito. Sessanta, settanta sterline, qualunque fosse la cifra, non doveva nemmeno essere menzionata il denaro. Dopotutto, lei lo aveva sopportato nonostante le difficoltà alla fine, e inoltre era una donna povera. Una radio le avrebbe portato tanta felicità!
+
+Ma ahimè! quando quella sera incontrò la gentile signora, in realtà incontrò una furia.
+
+“Signor Straddle, devo dirle francamente che non la capisco affatto! Non la capisco per niente! E inoltre, non ne posso più sopportare, signor Straddle, davvero! Non mi ha nemmeno scritto una parola! Sa quanto le è dovuto, signor Straddle?”
+
+“Ora, signora Cramp…”, cominciò dolcemente Wilfred, “Carissima signora Cramp…”
+
+“E per favore, cara signora Cramp, non fatemi più problemi! Nessun altro giorno, signor Straddle. Ho le vostre cose qui, e intendo tenermele; quanto a voi, non vi farò entrare di nuovo da questa porta finché non mi avrete pagato. E se non lo farete, saprò come farmi restituire i miei soldi.” Dopo tutto, il suo armadio era abbastanza fornito, e lei era rimasta impressionata da quelle pistole. Anche se, proprio come il loro proprietario, era un po’ curiosa di sapere se avesse davvero diritto a quella proprietà che non era stata pagata. “Quindi, signor Straddle, le cose stanno così: finché non pagate, vi tengo tutto! E una cosa è certa, stanotte non dormirete qui, signor Straddle!”
+
+“Devo prendere la mia borsa,” disse Wilfred, mettendo le cose nel ordine sbagliato. “E guardi qui, signora Cramp, poiché ne avete voglia, ho i soldi per voi.” Le porse il pacchetto.
+
+La signora Cramp fu così sorpresa che si sedette su una sedia senza nemmeno dire “Scusi”, e, ansimando, contò le banconote. C'erano tutti i pagamenti arretrati, oltre a un extra di una settimana. Era una brava donna, e si sentì commossa.
+
+“Ne sono certo, signor Straddle: non intendevo assolutamente nulla di più di ciò che ho detto.”
+
+“No, signora Cramp,” disse Wilfred umilmente, “Lo so. Ma non importa. Prenderò una stanza nel mio club. Farò portare qui le mie cose.”
+
+“Oh, signore,” rispose la signora Cramp alzandosi, “non voglio che pensi nulla di male…”
+
+“No, va tutto bene, signora Cramp.” Era quasi sul punto di piangere. Sperava che il mondo lo trattasse meglio.
+
+Trascorse la notte nel suo club, più infelice per il declino dell'amicizia che, per qualche motivo straordinario, stava avvenendo intorno a lui, che non per la nuova sicurezza che ora provava.
+
+La mattina seguente i problemi iniziarono di nuovo: l’abituale mucchio di lettere da parte di lord e lady che chiedevano denaro per oggetti “buoni” o “cattivi”; anche molti comuni cittadini che avevano le loro esigenze o opportunità interessanti da proporre. Ma tra tutte queste lettere, una in particolare affondò ancora di più nel suo animo. Era proveniente dall’Ufficio Centrale, e lo lasciò sbalordito.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_34" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 34)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="concept/satire_of_society,concept/hypocrisy,concept/vulgarity,concept/greed_and_money,form/satire,form/novel"></span>
@@ -5377,6 +7857,52 @@ The man who opened the door said that he feared Lady Merriden was not at home.
 
 “Not at home?” gasped Wilfred. And even as he said it the door of the back drawing-room upstairs opened, and he heard an important but motherly voice pronouncing sentences which remained in his mind for ever.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non aveva la minima idea che l'istruzione elementare svolgesse un ruolo così importante nelle emozioni politiche dei suoi connazionali!
+
+La lettera di Mr. Holder era breve e recitava quanto segue:
+
+Caro signor Straddle, mi dispiace molto doverle comunicare che ci sono stati alcuni intoppi riguardo alla sua candidatura per Ratsholme; in breve, devo dirle che dobbiamo considerarla conclusa. Alcuni membri del Comitato – credo la maggioranza, ma comunque un numero sufficiente di persone influenti per decidere la questione – hanno sentito parlare della sua posizione riguardo all’insegnamento obbligatorio della danza nelle scuole elementari. Hanno opinioni molto ferme al riguardo e temo di dover concordare con loro. Non avevo idea, finché non l’ho saputo da Mrs. Matheson, che lei avesse tale posizione contraria a questa integrazione nel nostro programma nazionale di studi. Naturalmente rispetto le sue opinioni e non cercherei mai di esercitare su di lei alcuna pressione. La rispetto per aver avuto il coraggio di assumere una posizione che, sono sicuro, sapeva sarebbe stata impopolare, ma purtroppo, così come stanno le cose, la questione è ormai decisa.
+
+Wilfred dava per scontato che fosse così. Il governo del suo paese era una macchina terribile e inarrestabile. Non aveva la minima idea di cosa avesse detto a Mrs. Matheson, né quando. Probabilmente aveva aperto bocca in modo superficiale, a favore o contro la danza, ma non se ne ricordava affatto. E non c’era da meravigliarsi: non l’aveva mai fatto prima. Avrebbe comportato in modo dignitoso. Dopotutto, aveva sempre sentito dire che la Camera dei Comuni puzzasse terribilmente. Bill conosceva meglio il mondo, e lo aveva ripetuto più volte: “Cavalli selvaggi”, gli aveva detto, “non mi trascinerebbero nemmeno vicino a quel posto. La politica”, aggiungeva, “è la professione più orribile di tutte”.
+
+Quello che Wilfred provava era la brevità, anzi, si potrebbe quasi definirla brutalità, di quel messaggio. Ma forse era anche una fortuna essere riuscito a sfuggire così facilmente.
+
+Scrisse una lettera tranquilla in risposta, assicurando al signor Holder di comprendere pienamente i forti sentimenti del Comitato su questa questione, e che era felice di offrire le sue dimissioni. Ma, ahimè, quanto si sentiva vuoto e solo!
+
+C'era comunque un posto dove regnava una vera amicizia, e dove si aspettavano da lui cose che ora poteva realizzare. Quel posto era la “Pillbox” e la raccolta fondi per il testimone di Speider. Non si trattava certo di un ambiente molto rispettabile. Era deciso a non frequentarlo più, a smettere gradualmente con quelle attività. Ma almeno poteva mantenere quella piccola promessa: avrebbe fatto qualcosa di generoso riguardo alle donazioni. Duecento euro dovrebbero bastare, o forse trecento. Avrebbe contribuito con trecento euro.
+
+Non lasciò che la sua determinazione si indebolisse. Non gli piaceva quel posto; lo odiava, ma comunque c'era ancora, in qualche modo, un legame di amicizia, pensava, anche se l'ultima volta che ci era stato aveva subito uno shock. Ma questo era comprensibile. Forse aveva rifiutato in modo troppo brusco.
+
+Quando entrò nella casamatta, li trovò tutti lì, e in numero maggiore del solito. C'erano ovviamente Piggy, Jack Purling, Tom Dickinson, e altri che si aspettavano che fosse lui a fornire i soldi necessari. Fu contento che fossero lì. Tutti i membri del Hedge Club sono felici di disporre di un “ponte” attraverso il quale superare il gelido fiume della temporanea freddezza. Avrebbe proposto di bere qualcosa e avrebbe affrontato l’argomento di quei due o trecento sterline. Ora poteva farlo.
+
+Ma non doveva essere così. Uno di loro gli gettò appena un’occhiata da sopra la spalla, annuì freddamente e continuò la sua conversazione. Piggy annuì, o forse no; non riusciva a capirlo: il gesto era troppo lieve. Jack Purling si comportava come se Wilfred non fosse lì, e Tom Dickinson come se Wilfred non fosse mai entrato. Per quanto riguarda gli altri, li conosceva ancora meno bene, e loro erano ancora più completamente distanti da lui.
+
+Wilfred stava quasi per ordinarsi un cocktail al pomodoro (ricordate che gli Hedgers mantengono la parola più degli cavalli), quando quell’impulso svanì. No. Avrebbe andato direttamente nell’ufficio di Worksop, anche se questo significava dover passare in mezzo a tutte le persone intorno al bar: quattro donne, tra cui una che lo guardò con un’insolenza curiosa, un’altra che gli sorrise. Le altre due, invece, nemmeno lo degnarono di uno sguardo. Superò quella situazione da uomo. Non come un cavallo, certo, ma comunque da uomo.
+
+Quando entrò nella piccola stanza di Worksop, quest'ultimo non si alzò. Finì il lavoro che stava facendo e poi disse:
+
+“Ah sì! Signor Straddle? Sì, di cosa ha bisogno?”
+
+“Sono venuto per dirle, signor Worksop, che mi dimetto dal Club.”
+
+“Mi dispiace molto sentirlo!” disse il signor Worksop con tono allegro. “Beh, immagino che mi invierete la vostra lettera di dimissioni formale, vero?”
+
+A Wilfred non era stata offerta nessuna sedia.
+
+“Lo scriverò ora, proprio qui, signor Worksop,” disse.
+
+Senza alzarsi, il signor Worksop allungò la mano verso una cartellina per appunti, prese una carta e un involucro, e li gettò dall’altra parte del tavolo. Wilfred scrisse il suo messaggio al terzo persono e lo lasciò sul tavolo, affinché il signor Worksop potesse metterlo nell’involucro o meno, a seconda della sua volontà; poi se ne andò senza dire una parola.
+
+Notò l'ora: c'era ancora tempo prima che si preparassero per la cena. Era proprio l’orario giusto, come aveva detto. Non ci sarebbe stata nessuna folla dai Merridens, e avrebbe potuto andare a fare le scuse necessarie e tentare di riconciliarsi con la sua ex ospite, forse in privato. In ogni caso, avrebbe fatto ciò che si definisce sul Continente un “Atto di Presenza”: avrebbe agito nel modo giusto.
+
+Si era preparato con cura in attesa di quell’intervista. Alla porta di Merriden House vide che Splendid Rolls, nella sua massima gloria, aspettava la sua padrona. Ecco la fortuna! Forse lo avrebbe portato da qualche parte. Sarebbe stato più facile parlare con lei in quel modo, piuttosto che nella sua stanza.
+
+L’uomo che aprì la porta disse di temere che Lady Merriden non fosse in casa.
+
+“Non sei a casa?” esclamò Wilfred. E proprio mentre lo diceva, la porta del salotto sul retro al piano di sopra si aprì e lui sentì una voce importante, ma allo stesso tempo materna, pronunciare frasi che rimasero per sempre nella sua memoria.
 
 
 
@@ -5486,6 +8012,110 @@ Three days later the second letter came from Hasdrubal C. Gantock. It confirmed 
 Willy the Hedger, the newly re-established toff (and oh, how solidly established now!), drove up to Hertfordshire in a very fine car which he had very specially hired. Railways were a bore, and he wanted to be alone. Also, He had remembered Lady Merriden’s advice in the days of her maternal intimacy. He determined not to keep a Rolls in town. No, he would not get a Rolls at all until... until...
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ha detto che sarebbe venuto qui questo pomeriggio, caro mio. Non scendere adesso. Potresti incontrarlo alla porta. Aspetta finché non sarò scesa io. Ha detto che avrebbe fatto tardi, quindi potrebbe arrivare da un momento all’altro. Aspetta fino a quando non me ne sarò andata.”
+
+“Oh Signore, mamma, quell’uomo?” Era la voce di Fanny Blackman. Poi la porta si chiuse di nuovo.
+
+A Wilfred, che ancora indugiava lì, il custode del cancello ripeté con maggiore fermezza la frase decisiva: “Sua Signoria non è in casa.”
+
+“Oh!” disse Wilfred.
+
+Lo disse, non esattamente dentro il suo cappello, ma verso di esso, poi scese i gradini e uscì in strada.
+
+Erano passi giusti. Era una casa del XVIII secolo, e mi dispiace che stiano per demolirla. Ma i Merriden non potevano rifiutare quell’offerta.
+
+Wilfred se ne andò, oppresso dalla maledizione dell’oro, ma ancora di più dal gelido clima di questo mondo. Chiamò l’Hertfordshire; Joan arrivò subito.
+
+Sì. Lei lo avrebbe visto ogni volta che lui desiderasse il giorno dopo. Lui non doveva venire a pranzo. C’erano delle ragioni. Ma se fosse venuto tra le tre e le quattro, avrebbero potuto parlare a lungo. Gli era arrivato altro lavoro?
+
+Sì, l’aveva. Aveva ricevuto un ordine per un altro articolo.
+
+“Bene… Ti hanno pagato?”
+
+“Sì, davvero.”
+
+“Quanto?”
+
+"Cinquanta sterline."
+
+All’altro capo del filo si sentì un fischio, come se il telefono fosse diventato uno di quei vecchi telefoni a microfono.
+
+“Te lo darebbero di nuovo?”
+
+“Sì, dicono che lo faranno. Non dovrei meravigliarmi se l’hanno incluso come funzionalità, dal modo in cui ne hanno parlato, ”
+
+“Oh, Wilfred!” la voce divenne urgente. “Sono trecento all’anno! E poi potresti anche guadagnare qualcos’altro in più. Chi lo sa?”
+
+“Di nascosto?” disse Wilfred.
+
+“Tre minuti,” disse un'altra voce.
+
+“Bene, altri tre ancora. Cosa c’è sul lato? Ah, roba in più, capisci. Te lo spiegherò tutto quando vieni. Che Dio ti benedica, Wilfred.”
+
+“Buonanotte, cara Joan,” fu l’addio di Wilfred. Non si può baciare un telefono, ma sapeva di aver superato una soglia importante.
+
+Buonanotte, caro Wilfred.
+
+XV
+
+Joan non era un cavallo. Non era nemmeno ancora una giumenta. Ma era una cavalla robusta. Se alle signore fosse stato permesso entrare nel Cavallo Club, di certo sarebbe stata membro del comitato. Si diresse dritta verso la piccola stanza di Lady Penelope, ancora arredata in stile vittoriano.
+
+“Mamma,” disse lei, chiudendo la porta alle sue spalle e mettendosi dritta in piedi. “Sposerò Wilfred.”
+
+“Che cosa!” gridò Lady Penelope.
+
+“Mi sposerò con Wilfred, mamma.”
+
+Certo che Lady Penelope lo sapeva. Ma la brutale verità, espressa in termini crudi, la lasciò senza forze. Voglio dire, la privò di tutto.
+
+“Mio sciocco giovane idiota! Non farai mai una cosa del genere!”
+
+“Sì, lo sono, mamma. Ora guadagna soldi, e io praticamente gli ho fatto capire che ora è povero, ”
+
+Lady Penelope non era una donna loquace; conosceva molto bene sua figlia. Fece un verso di disapprovazione, e approvò comunque la decisione di Joan.
+
+“Arriverà qui domani, mamma… E se lui non parla, lo farò io.”
+
+Lady Penelope tornò a dedicarsi alla sua scrittura.
+
+“Benissimo, Joan. Se vuoi tagliarti la gola, fai pure. Ma ricorda una cosa: non farò nulla per aiutarti. Assolutamente nulla!”
+
+“Non lo accetterei nemmeno se me lo offrissi tu, mamma”, disse Joan.
+
+“Non avrai questa opportunità,” disse Lady Penelope, con tono deciso. Ma non lo intendeva davvero, povera donna. Stava soffrendo.
+
+* * * * *
+
+La mattina seguente era l’appuntamento di Wilfred con Bill. Bill era vestito in modo ancora più vistoso del solito, e sembrava pieno di energia, come un tifone.
+
+“Ho fattocela, Wilfred!” disse.
+
+“Non capisco cosa intendi, Bill!”
+
+Nel suo cuore, Wilfred pensò che quel messaggio significasse l’impegno con Lady Antigua. Ma comunque, Bill difficilmente avrebbe usato un simile linguaggio, soprattutto per qualcosa che ormai era ben noto e di vecchia data. Si sbagliava: Bill avrebbe usato qualsiasi termine, su qualsiasi argomento. Ma le sue parole successive chiarirono a cosa si riferiva.
+
+“Mi hanno chiesto di candidarmi per Ratsholme. È un’ottima opportunità! L’Ufficio Centrale mi ha detto che, se mi candidassi come anarchico, non ci sarebbero dubbi alcuni. Sono impressionati da Antigua,” aggiunse con una semplicità divina. “Ho proposto di candidarmi come socialista, ma hanno rifiutato: è meglio farlo come anarchico. A quanto pare mi hanno già respinto come socialista per qualche motivo. Dopotutto, ormai non c’è più differenza tra i partiti, giusto? Non dovrebbe importarmi molto, se ci fosse. Mi stanno dando un addio davvero caloroso: il Ministro dell’Interno è venuto a parlarmi alla prima riunione del comitato, due giorni fa. Non mi piace affatto quell’uomo. Ha detto tutte le solite cose: che ‘non cede a nessuno in niente’, e così via, ‘Forse non concordo con lui sui principi politici, ma oggi tutti dovremmo essere d’accordo sul fatto che la nazione viene prima. Questa è la quarta Government Nazionale; in un momento così grave non dovrebbe esserci spazio per rinfocolare vecchi spiriti partitizi’. Insomma, è davvero noioso! E quando mi ha stretto la mano alla fine e mi ha lodato apertamente, avrei voluto dargli un pugno. Ho parlato per quasi mezz’ora. Credimi, Willy, ho parlato bene! Non avevo mai visto persone così commosse come quei membri del partito di Ratholme. Sono stati davvero colpiti quando ho iniziato a parlare di nazionalismo. E non avranno certo obiezioni, ”
+
+“Poi aggiunse, all’improvviso: ‘Willy, sarai il mio testimone di nozze, vero?’”
+
+“Tuo cosa, Bill?”
+
+#"Compagno di nozze… interpreta bene il ruolo."
+
+“Certo, Bill, ne sarò molto orgogliosa.”
+
+“Vi manderò tutti i dettagli.”
+
+Bill era sempre impegnato e pieno di cose da fare. “Vorrei che cenassimo stasera, ma penso che non sia possibile. Quel vecchio ragazzo è arrivato in città; lei lo ha portato con sé insieme a sua madre, e io devo occuparmi delle loro esigenze.”
+
+* * * * *
+
+Tre giorni dopo arrivò la seconda lettera di Hasdrubal C. Gantock. Confermava l’eredità ora riconosciuta dei “Grandi Morti”.
+
+Willy il Giardiniere, quel nuovo ricco e influente uomo d'affari (e ora davvero ben affermato!), si recò nel Hertfordshire in una bellissima auto che aveva noleggiato appositamente. I treni gli sembravano noiosi; voleva stare da solo. Inoltre, ricordò il consiglio di Lady Merriden ai tempi della loro intimità. Decise quindi di non tenere una Rolls-Royce in città. No, non ne avrebbe affatto presa una, fino a quando, fino a quando.
+
 
 
 <span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_36" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 36)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="histref/america,setting/america,setting/london"></span>
@@ -5564,3 +8194,80 @@ Women as gloriously suited to Hedgers can beacon such also to the abodes where t
 The Poetry Collections
 
 Dome of the Oratory Church, John Henry Newman’s Oratory School in Edgbaston, Birmingham — where Belloc received his early education
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poi, all'improvviso, un brivido lo colpì. Aveva sognato di Joan e di sé stessi, del luogo in cui avrebbero potuto scegliere e acquistare qualcosa per loro, e aveva pensato che, poiché lei aveva così forte avversione verso la ricchezza, non avrebbe posseduto tutte le auto che Lady Merriden aveva consigliato per la campagna. Ma l’avrebbe amata come solo la ricchezza può permettere di fare.
+
+Quello era il sogno. A circa un miglio dalla casa di Joan, i ricordi riemersero e la sua anima si strinse nel dolore. Come avrebbe potuto dirle che era di nuovo ricco? E quando lo avesse fatto, come l’avrebbe presa lei. Non sarebbe stato forse la fine per loro?
+
+Sì: tutto quel denaro avrebbe significato la fine. A quel punto conosceva già Joan, grazie al cielo! Sì, la conosceva; e proprio questa consapevolezza lo stava uccidendo. Avrebbe dovuto dirglielo. Non sarebbe stato giusto non farlo. Aveva letto di giovani ricchi che si vestivano in abiti strani e si facevano crescere barbe gialle per sembrare artisti itineranti, così da conquistare le ragazze dei villaggi; poi, molto più tardi, rivelavano alle loro vittime di averle intrappolate in una “gabbia d’oro”. Ricordava anche un bellissimo poema su questo argomento. L’aveva dovuto imparare a memoria a scuola. Era di Alfred, Primo Lord Tennyson. Il preside gli aveva detto che era sciocco ridere di Alfred Lord Tennyson. Una cosa che Wilfred, a quell’età, non aveva affatto intenzione di fare. Anche se odiava quel nobile per aver scritto cose che sfortunati studenti dovevano imparare a memoria.
+
+No. Non avrebbe mai ingannato Joan. Preferiva ingannare Dio. Anche se sapeva che era impossibile, e che ingannare Joan sarebbe stato quasi altrettanto impossibile.
+
+Avevano molto da dirsi prima di affrontare l’argomento principale. L’occasione si presentò quando lei lo pregò di raccontarle tutto riguardo al nuovo ordine per un altro articolo, alla connessione con il “Howl” e a quella splendida opportunità di guadagnare cinquanta sterline a colpo.
+
+“Durerà?”, chiese lei. “L’ha avuto per iscritto?” Oh sì, l’aveva avuto per iscritto: era arrivato proprio quella mattina stessa. Una conferma da parte della Direzione. Volevano uno ogni mese e avevano già suggerito dei titoli. Era sorprendente quante cose potessero ricavare dal tema anglo-sassone. Era come quell’uomo che prima masticò il tabacco, poi lo fumò, e infine utilizzò le ceneri per fare il naso.
+
+“Non è solo l’[[America]], Joan,” disse tristemente. “È anche l’Impero, capisci.”
+
+Annuì con tristezza negli occhi, anche in quel momento, pensando all’Impero e a [[America]]. Perché lei non era fatta così. Quelle cose non facevano parte del suo mondo. Inoltre, non aveva mai finto di essere diversa. Nel suo mondo, le persone dovevano fingere di essere così in pubblico, anche se in privato si lasciavano andare liberamente.
+
+Venne e si sedette sul braccio della sua sedia. “Wilfred, caro,” disse con un tono che non le aveva mai sentito prima. Era un passo avanti di molti livelli rispetto al suo modo di parlare precedente, “Wilfred, caro, riuscirai a guadagnare quei trecento, e anzi, più di trecento. Me ne occuperò io. Ne ho già trecento miei. E così possiamo farcela.”
+
+“Sì, carina,” disse Wilfred; ma in realtà non fece altro che parlare.
+
+Non fece nulla per ricambiare quel gesto. Era arrivato il momento di compiere un atto molto difficile, un atto eroico. Ma Hedgers esitò. Tuttavia, lui era pieno di quella forza che può sconfiggere sia gli uomini che i cavalli. Il Piccolo Dio lo aveva ormai in suo potere.
+
+“Joan, devo dirti qualcosa. Devo comunicartelo, Joan. Ma Joan, ” disse improvvisamente con passione, “se dovessi perderti, ”
+
+“Perdi il tuo tacco sinistro!”, disse Joan.
+
+"No, Joan, intendo dire che se ti perdessi, mi ucciderebbe."
+
+“Allora resta in vita, idiota!”
+
+“Ma Joan, non capisci… Vedi, io non sono povero.”
+
+“Sì, lo faccio, Wilfred. Non considero trecento all’anno una somma povera. È quello che ho io stesso. So che alcune persone possono vivere con seicento. La mia migliore amica al mondo vive con seicento da anni, e per di più ha un figlio affetto da idrocefalia.” Ma Wilfred non stava ascoltando ciò che lei diceva. Non sapeva cosa significasse “idrocefalia”, e era troppo modesto per osare approfondire l’argomento.
+
+“No, carissimo tra i carissimi, ” — continuava a guardare altrove, senza muoversi. “Pensi che io sia povero rispetto alle persone che incontri, ”
+
+“Ma che diavolo, ” disse Joan.
+
+“Carissima,” gridò — quattro volte troppo forte, due volte troppo alto, e saltando su all'improvviso. “Non sono povero come The Hedge e il Cavallo. Non ho trecento sterline all’anno. Ne avrò, oh! Non so quanti milioni. Alla fine non mi ha escluso dal suo testamento. In realtà non ha mai fatto un testamento, povero vecchio ragazzo. Avrò tutto, tranne le tasse statali, quelle federali, le tasse sulla morte, la svalutazione dei beni, e tutte queste altre spese. E poi, suppongo, ci saranno anche le tasse inglesi sulla morte. Comunque, non può essere meno di dieci milioni. Forse addirittura dodici.”
+
+“Dollari o sterline?” chiese Joan.
+
+“Dollari. Oh, mio caro! Mio caro!” Solo nell’angoscia di un amore in pericolo le persone come Hedgers possono parlare in questo modo.
+
+“Va bene così,” disse la voce di Joan, con grande allegria. “Sarebbe stato meglio se fosse stato in sterline. Ma non mi dispiace davvero. Comunque, andrà bene per Mamma.”
+
+E si abbracciarono.
+
+* * * * *
+
+Ora concluderò questa storia: in parte perché ne ho raggiunto la fine, ma soprattutto perché voi ne avete abbastanza, e non c’è nulla di più noioso che continuare a parlare oltre il necessario.
+
+Wilfred fu il testimone principale di Bill al suo matrimonio; l’importanza di quel giorno non risiedeva soltanto nel matrimonio stesso (sebbene si trattasse di un evento davvero grandioso – Bill se n’era assicurato personalmente), ma anche nella presenza di Wilfred Guthrie Straddle. Ora, in tutta [[London|Londra]], si credeva fermamente che i “Guthrie Millions” fossero tornati a casa. Naturalmente, agli occhi del pubblico, quelle cifre erano esagerate; quindi riguardavano soltanto le persone benestanti, l’alta società, insomma, quel genere di gente, capisci? Lady Merriden, dietro la maschera del suo viso impassibile e della sua profonda rabbia interiore, era convinta che si trattasse di almeno dieci milioni di sterline. Lady Lodiham, pur sopportando grandi difficoltà, avrebbe giurato che fossero quindici milioni. Aveva persino sentito parlare di americani che possedevano cinquanta milioni. Nessuno stimava la cifra al di sotto degli otto milioni.
+
+Dopo il matrimonio di Bill, mentre la marcia nuziale risuonava intorno, Wilfred, lo sposo accompagnatore, vide la sposa Antigua conversare animatamente con il suo compagno fuori dalla porta della chiesa. Per un momento, come altri anche lui, pensò che povero Bill avesse scelto una donna petulante. Ma cosa non sapeva! Un cavallo del calibro di Bill non ha bisogno di donne petulanti: sono loro ad avere bisogno di lui. E le loro lamentele si dissolvono come la neve nelle valli più alte, quando soffiano i forti venti del sud.
+
+Due destini si presentavano davanti a quei due amici: entrambi buoni. E questa è una cosa così rara nei libri moderni che potreste ringraziarmi per avervi regalato questo momento.
+
+Sì, il destino di ciascuno era buono, perché corrispondeva esattamente al carattere che un creatore benevolo aveva assegnato a ognuno.
+
+Per molti anni, Bill sedette al centro dell’attenzione di un’Antigua un po’ rinnovata, imponendo la sua autorità persino ai più importanti; mostrava severità e vigore, dominando non solo alla propria tavola – dove sua moglie, che lo adorava, gli sedeva di fronte – ma anche su uomini i quali, nel profondo del cuore, avrebbero potuto permettersi di comprarlo quattro volte. Naturalmente era impossibile tenerlo fuori dal Gabinetto: già dopo tre giorni, i suoi colleghi si resero conto che avevano trovato un vero padrone. E Antigua ne andava ancora più fiera che mai.
+
+Per quanto riguarda Wilfred, lui e Joan trovarono la casa che desideravano a [[London|Londra]], il che è già abbastanza difficile. Ancora più sorprendente è il fatto che riuscirono a trovare proprio quella casa anche nel Dorsetshire, il che sembrava quasi impossibile. E poi andarono a arredarla e a riempirla di vita e di persone.
+
+Lei diede tutto. Lui ricevette tutto. E così dovrebbe essere per tutti coloro che hanno ricevuto la benedizione del Cielo.
+
+Lo aveva costretto a scrivere, e lui continua ancora a scrivere. Ora è in grado di redigere da solo un articolo più o meno accettabile, anche se ovviamente deve essere rivisto da lei affinché diventi presentabile. Non ha ancora scritto versi, ma forse lei riuscirà a farglielo fare anche quello.
+
+Le donne, così splendidamente adatte ai ruoli di “protettori”, possono anche indicare la strada verso le dimore degli immortali (Keats, intendo dire Shelley).
+
+Le raccolte di poesia
+
+La Cupola della Chiesa dell’Oratorio, la Scuola dell’Oratorio di John Henry Newman a Edgbaston, Birmingham – dove Belloc ricevette la sua prima educazione.

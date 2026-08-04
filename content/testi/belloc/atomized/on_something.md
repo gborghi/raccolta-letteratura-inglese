@@ -1987,6 +1987,14 @@ To Somebody
 OF THE VARIOUS sketches in this book some appear for the first time, others are reprinted by courtesy of the Proprietors and Editors of The Westminster Gazette, The Clarion, The English Review, The Morning Post and The Manchester Guardian, in which papers they appeared.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dedica
+
+Per qualcuno
+
+Tra i vari saggi presenti in questo libro, alcuni appaiono per la prima volta, mentre altri vengono riprodotti per gentile concessione dei proprietari e degli editori di “The Westminster Gazette”, “The Clarion”, “The English Review”, “The Morning Post” e “The Manchester Guardian”, nei giornali in cui sono stati pubblicati originariamente.
+
 
 
 <span class="atom-split" data-atom="story_02_a_plea_for_the_simpler_drama" data-title="On Something — A PLEA FOR THE SIMPLER DRAMA" data-chapter="A PLEA FOR THE SIMPLER DRAMA" data-kind="story" data-tags="concept/tradition"></span>
@@ -2016,6 +2024,32 @@ There is perhaps but one character which needs any long rehearsal, that of the d
 
 In connexion with this character I would have the student note that I have introduced into the dog’s part just before the curtain a whole line of dactyls. I hope the hint will not be wasted. Such exceptions relieve the monotony of our English trochees. But, saving in this instance, I have confined myself throughout to the example of William Shakespeare, surely the best master for those who, as I fondly hope, will follow me in the regeneration of the British Stage.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Una preghiera per un dramma più semplice
+
+È proprio come per il teatro, le arti plastiche e molte altre cose: la gente comune sente di avere il diritto di esprimersi, ma teme spesso che queste forme d’arte siano al di là della sua comprensione, e le tecniche specifiche la spaventano.
+
+Dopotutto, queste cose sono create per il pubblico comune; il suo applauso, nel lungo periodo e verificato dal tempo, rappresenta la principale ricompensa per lo scrittore, così come per il pittore o lo scultore. Ma se uno è sensato, sa che il proprio giudizio immediato sarà probabilmente approssimativo. Comunque, ecco qui il testo.
+
+L’uomo comune osserva che il dramma del suo tempo è gradualmente passato da una fase all’altra, caratterizzate da un aumento della complessità dei concetti e da una semplicità degli eventi; gli sembra quindi che sia necessario solo un ulteriore passo per rendere l’arte britannica davvero completa. Sembriamo essere proprio sul ciglio di qualcosa che potrebbe dare agli inglesi del ventesimo secolo quella pienezza artistica che caratterizzava gli elisabettani. Ma, per qualche motivo, i nostri drammaturghi esitano ad attraversare quel confine. Non può certo essere una mancanza di capacità da parte loro: si tratta probabilmente di timidezza o di auto-tortura, e spetta proprio all’uomo comune aiutarli a superarle.
+
+Se posso fare una proposta ai maestri di questa arte, è che l’obiettivo di qualcosa di completamente moderno si possa raggiungere al meglio prendendo i temi più semplici della vita quotidiana – cose che fanno parte dell’esperienza del cittadino comune – e presentandoli nel maestoso ritmo tradizionale di quel mezzo tipicamente inglese, il verso libero.
+
+Per quanto riguarda i temi tratti dalla vita quotidiana di uomini e donne della classe media come noi, è vero che la vita dei ricchi offre più avvenimenti e che possiede una sorta di fascino al quale è difficile resistere. Tuttavia, con sufficiente sottigliezza, si può rappresentare con precisione tutta la drammaticità della vita di coloro che non subiscono né le tragedie dei poveri né l’elevatezza dei ricchi. La vita della classe media professionale – dell’uomo d’affari, del dentista, dell’usuraio, dell’editore, del pastore spirituale, persino dello stesso drammaturgo – potrebbe essere portata sul palcoscenico. E che cambiamento vitale ciò significherebbe! Si tratterebbe di un genere di dramma letterario il cui interesse risiede nella lotta, nel dolore, nel pericolo e nel trionfo che tutti noi conosciamo così bene; inoltre, vi sarebbe anche la soddisfazione – che al momento non abbiamo – del senso mimetico: la soddisfazione di vedere un “specchio” presentato a un pubblico composto proprio dalla classe rappresentata sul palco.
+
+Ho visto uomini ricchi e influenti assorbiti da opere teatrali che trattano di gioco d’azzardo, crudeltà, truffe, ubriachezza e altri argomenti simili; sono così coinvolti soprattutto perché vedono se stessi rappresentati sul palco. E mi chiedo: non troveremmo anche noi, io e i miei compagni, un grande vantaggio in una situazione del genere? Perché, anche se i ricchi vanno spesso a teatro, la classe media è molto più numerosa, quindi la differenza viene ampiamente compensata.
+
+Penso quindi che si possa considerare fattibile, anche dal punto di vista finanziario, un esperimento volto alla rappresentazione della vita professionale; anzi, oserei addirittura suggerire che si potrebbe scrivere un'opera teatrale in cui non compare nemmeno un solo lord, generale, membro del Parlamento, barone, bellezza professionista, usuraio (almeno su larga scala) o ministro di gabinetto.
+
+La cosa è possibile: e posso dire modestamente che, con quel piccolo sforzo aggiunto come esempio a queste righe, ci siamo riusciti con successo; ma qui bisogna menzionare il secondo punto della mia tesi: non avrei mai potuto raggiungere ciò che ho ottenuto nell’arte drammatica se non fossi tornato alla grande [[Tradition|tradizione]] del decasillabo eroico inglese, così abilmente utilizzato da Shakespeare.
+
+L’opera teatrale – che ho chiamato “La Crisi” e che intendo sia il modello per la scuola di recitazione fondata su questi principi – è stata appositamente concepita per essere rappresentata con gli sfarzosi accessori a disposizione di un grande regista, come il signor (ora Sir Henry) Beerbohm Tree, oppure per le condizioni più limitate di una sala da pranzo suburbana.
+
+Forse c'è solo un personaggio che richiede una lunga preparazione: il cane Fido. Fortunatamente, questo personaggio può essere facilmente rappresentato con mezzi meccanici, ad esempio utilizzando un cucciolo di plastica di dimensioni adeguate che abbaia quando viene premuto un pulsante pneumatico.
+
+In relazione a questo personaggio, vorrei che lo studente notasse che ho introdotto, nella parte del cane subito prima dell’inizio dello spettacolo, un intero verso composto da dattili. Spero che questo suggerimento non venga trascurato: tali eccezioni aiutano a rompere la monotonia dei trochei inglesi. Tuttavia, fatta questa eccezione, mi sono sempre attenuto all’esempio di William Shakespeare, sicuramente il miglior maestro per coloro che, come spero con affetto, seguiranno le mie orme nella rinascita del teatro britannico.
 
 
 
@@ -2277,6 +2311,264 @@ REV. A. HAVERTON (in a deep voice): Let us pray.
 Curtain.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La crisi
+
+LUOGO: Lo studio presso la residenza del vicario. ORA: Ore 21:15.
+
+Personaggi principali
+
+Il reverendo Archibald Haverton: il vicario.
+
+SIGNORA HAVERTON: Sua moglie.
+
+SIGNORA GROSVENOR: Una governante.
+
+MATILDA: Una cameriera.
+
+FIDO: Un cane.
+
+HERMIONE COBLEY: Figlia di una donna che si occupa di lavare i panni altrui.
+
+SIGNORINA HARVEY: Un ospite, cugina della signora Haverton, una unitariana.
+
+Il reverendo Archibald Haverton legge il “Standard” alla luce di una lampada con paralume verde. La signora Haverton sta cucendo un asciugamano. Fido dorme sul tappeto. Sulle pareti ci sono tre incisioni di Landseer, un ritratto della defunta regina Vittoria, una libreria piena di libri e uno specchio.
+
+Signora Haverton: Caro mio… spero di non interrompervi…
+
+Helen ha dato le dimissioni.
+
+Rev. A. Haverton (alzando lo sguardo all’improvviso).
+
+Aveva ricevuto un preavviso?
+
+Chi? Helen? È stata avvisata? Mio Dio!
+
+(Pausa.)
+
+Non avrei mai pensato che ci avrebbe dato preavviso.
+
+(Riflette e aggrotta la fronte.)
+
+#Signora Haverton: Beh, sì che l’ha fatto… E ora la domanda è…
+
+Cosa dovremmo fare per trovare un altro cuoco?
+
+È molto difficile trovare dei servitori. (Sospira.)
+
+In particolare per entrare nel paese
+
+In un posto del genere, (Sospira.) Non c’è da meravigliarsi, in effetti!
+
+“Oh! Misericordia… Quando ci si pensa bene…”
+
+# Non si può biasimarli… Solo il cielo lo sa.
+
+Cerco di fare il mio dovere, (Sospira profondamente.)
+
+# Rev. A. Haverton (con esitazione): Beh, mia cara…
+
+Non riesco a ottenere promozioni o avanzamenti.
+
+(Ruota il campanello della porta d’ingresso.)
+
+FIDO: Aiuto! Wow! Wow!
+
+“Rev. A. Haverton (lo accarezza per calmarlo)…”
+
+Ecco, Fido, ecco qui!
+
+FIDO: Wow! Wow!
+
+Rev. A. Haverton: Bravo cane, così!
+
+# FIDO: Wow
+
+Wow, wow!
+
+Rev. A. HAVERTON (molto nervoso): Ecco!
+
+FIDO: Wow! Wow!
+
+Rev. A. HAVERTON (in preda all’agonia): Bravo cane!
+
+FIDO: Aiuto! Wow! Wow!
+
+Wow, wow! Wow!! WOW!!!
+
+#Mrs. Haverton (molto eccitata): Oh, Signore, lui…
+
+Svegliate i bambini!
+
+# REV. A. HAVERTON (esplodendo): Quante volte…
+
+Titolo:  
+Te l’avevo detto, Dorothy…
+
+“Non dire mai ‘Buon Dio!’… A parte le buone maniere…”
+
+# Blasfemia: un’importanza tutta sua
+
+# E io considero questa espressione blasfema
+
+# Non può
+
+#Mrs. Haverton (con evidente imbarazzo): Ah, molto bene allora…
+
+Oh, molto bene!
+
+(Esplose a sua volta.)
+
+Per la mia anima, sei insopportabile!
+
+# Corre verso la porta… prima di arrivarci
+
+Si sente bussare e MATILDA entra.
+
+# Matilda: Per favore, signora… è solo la figlia della signora Cobley
+
+"Dire che il bucato verrà inviato domani..."
+
+“E potresti controllare di nuovo l’elenco per vedere…”
+
+#Perché crede di non aver mai avuto due colli
+
+Titolo:  
+Di ciò che hai inviato… ma solo cinque, perché…
+
+#Tu l’hai segnato sette; e la signora Cobley dice…
+
+Deve esserci qualche errore.
+
+Rev. A. HAVERTON (con aria solenne): Me ne occuperò io.
+
+#Signora Haverton (sussurrando arrabbiata): Come può…
+
+#Tu, Archibald! Non ce l’hai ancora
+
+L’ombra di un’idea riguardante il lavaggio.
+
+#"Siediti." Lui lo fa. ("A Matilda") Mandala..."
+
+Ragazza, sei qui dentro.
+
+La signora Haverton si siede, circondata dal fumo.
+
+Rev. A. Haverton: Penso che.
+
+SIGNORA HAVERTON (con irritazione): Non mi interessa quello che pensate voi!
+
+(Gemiti.) Oh, mio Dio!
+
+Sto quasi impazzendo!
+
+Entri la SIGNORINA COBLEY. (Si inchina leggermente.)
+
+Buonasera, signora.
+
+Signora Haverton (in risposta):
+
+Allora bene! Di cosa si tratta tutta questa agitazione per il bucato?
+
+Miss Cobley: Per favore, quelle sette collare che avete inviato…
+
+“I mean the seven… quello che era stato segnato… era sbagliato.”
+
+E la mamma dice che avresti dovuto lavare i panni…
+
+C'erano solo cinque, e le dispiacerebbe se.
+
+SIGNORA HAVERTON (con durezza): Non riesco a capire nemmeno una parola di quello che dici.
+
+Torna indietro e digli alla tua madre che erano sette.
+
+E se ne manda cinque a [[Home|casa]], ne paga il costo di due.
+
+Ecco fatto! (Fischia.)
+
+SIGNORINA COBLEY (singhiozzando): Sono sicura che io.
+
+SIGNORA HAVERTON (con rabbia): Non stare lì a fare il naso lungo!
+
+Torna indietro e racconta a tua madre quello che ho detto.
+
+# Impudente sgualdrina!…
+
+(Uscita della SIGNORINA COBLEY singhiozzando. Una pausa.)
+
+Rev. A. HAVERTON (con autorità presunta): Tornare a Helen.
+
+Dime in modo conciso e senza lamentele.
+
+Perché ti ha dato preavviso?
+
+(Ruota una campanella a mano nel corridoio.)
+
+FIDO: Au-au-au!
+
+Rev. A. Haverton (dandogli un calcio deciso): Taci!
+
+# Fido (ululando). Penna e inchiostro! Penna e inchiostro
+
+Penna-inchiostro! Penna-inchiostro!
+
+# Rev. A. Haverton (trattenendosi il più possibile, va…)
+
+La porta si apre e qualcuno chiama nel corridoio: “Signorina Grosvenor!”
+
+(Maggiormente ad alta voce). Signorina Grosvenor!. Era la campanella per le preghiere?
+
+È già suonata la campanella per le preghiere?, (Più forte) Signorina Grosvenor.
+
+(Maggiormente ad alta voce) Signorina Gros-Venor! (Battendo il piede.)
+
+Oh!…
+
+SIGNORINA GROSVENOR (dolcemente e in lontananza): È il signor Haverton?
+
+# Rev. A. Haverton: Sì! sì! sì! sì!…
+
+È suonata la campanella per le preghiere?
+
+SIGNORA GROSVENOR (di nuovo): Sì? È il signor Haverton? Oh! Sì!
+
+Penso che sia. Vedrò, chiederò a Matilda.
+
+#"Una pausa, durante la quale il reverendo A. Haverton..."
+
+È in preda all’ansia.
+
+Miss Grosvenor (sussurrando): Matilda lo dice…
+
+È la campanella per le preghiere.
+
+(Tutti entrano uno dopo l’altro nello studio e sistemano le sedie.)
+
+# Quando entrano nella stanza di MISS HARVEY, il visitatore cammina con passi pesanti…
+
+Il piede di Matilda.
+
+SIGNORINA HARVEY: Matilda? Era tu? Scusami, per favore.
+
+MATILDA (zoppicando): Certo, ne sono sicura, signorina!
+
+# Signora Haverton (sussurrando al reverendo A. Haverton): Non leggere
+
+Il Credo!
+
+La signorina Harvey è ununitaria.
+
+# Una semplice forma di preghiera
+
+# parole sincere di carità e pace
+
+Comune a ogni cristiano.
+
+Rev. A. HAVERTON (con voce profonda): Preghiamo.
+
+Tenda.
+
 
 
 <span class="atom-split" data-atom="story_04_on_a_notebook" data-title="On Something — ON A NOTEBOOK" data-chapter="ON A NOTEBOOK" data-kind="story" data-tags="motif/home,setting/england"></span>
@@ -2333,6 +2625,58 @@ To this extract poor Capricorn has added the word “Excellent,” and the same 
 “Yours truly,
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Su un taccuino
+
+Un caro amico mio (John Abdullah Capricorn, per dargli il nome completo) è stato ingaggiato lo scorso anno da un editore affinché scrivesse un libro in cambio di 10 sterline. Il lavoro era già molto avanzato quando un redattore gli offrì 15 sterline e i costi per recarsi nelle zone più disperate del deserto del Sahara; lui immediatamente partì per quella missione. Ora non è certo se tornerà, anche se a marzo sembrava tutto possibile. Con l’avvicinarsi di maggio, la vita diventa molto difficile per gli europei a sud dell’Atlante; l’ultima volta che si ha avuto notizie di mio povero amico, stava cercando di guadagnarsi la simpatia di una tribù di Tuareg a circa duecento miglia a sud di Touggourt.
+
+In queste circostanze mi è stato chiesto di esaminare il suo quaderno e vedere cosa si potesse fare; devo ammettere di essere rimasto piacevolmente sorpreso. Sarebbe stato un libro molto interessante se fosse stato pubblicato; sarà senz’altro un libro molto interessante se verrà pubblicato.
+
+Il Capricorno sembra aver preparato un insieme di informazioni riguardanti le follie umane, i contrasti e le stupidità più evidenti, con l’intenzione di creare una serie di pagine molto divertenti. Non ho il suo talento nel combinare queste cose in modo efficace, ma forse potrebbe divertire il lettore se semplicemente riporto, in ordine, una o due delle osservazioni che mi hanno colpito di più.
+
+Trovo, tra le pagine del libro, un passaggio davvero allegro che è stato ritagliato da un giornale e incollato lì (molte delle sue note sono in questo formato).
+
+“L’arcidiacono Blunderbuss (Blunderbuss non è il vero nome; lo ometto per evitare che la vedova di Capricorn perda due o tre chili, nel caso in cui quel poveretto sia davvero stato mangiato). L’arcidiacono Blunderbuss era più noto come studioso che come religioso. Era un predicatore molto scadente e non riuscì mai a identificarsi con nessun partito politico. Tuttavia, nel 1895 il Primo Ministro lo nominò per una cattedra nella Cattedrale di Shoreham in riconoscimento della sua grande erudizione e del suo buon lavoro a Durham. Due anni dopo, quando la parrocchia di St. Vacuums divenne vacante e questa ricadeva sotto la giurisdizione dell’arcidiacono Blunderbuss, suscitò grande meraviglia e scandalo presentandosi personalmente per occuparla.”
+
+Lì termina il paragrafo. È apparso su un quotidiano di una società ordinaria; non conteneva alcun segno di malizia. Era inserito tra le solite lodi insensate rivolte a tutti e a tutto. Il modo in cui è arrivato lì non ha importanza. Lì è rimasto, e l’occhio attento del Capricorno lo ha notato e ne ha fatto tesoro per anni.
+
+Non farò alcun commento su questo paragrafo. Può essere letto lentamente o velocemente, a seconda dei gusti del lettore; in entrambi i casi è ugualmente interessante.
+
+# Il prossimo estratto che trovo nel taccuino è il seguente:
+
+Ogni anno, più di 15.000.000 di persone visitano gli usurai di Londra.
+
+“Giove è 1387 volte più grande della Terra, ma solo 300 volte più pesante.”
+
+Le miniere di carbone del mondo producono 400.000.000 tonnellate di carbone all’anno.
+
+“Il valore delle opere d’arte della National Gallery ammonta a circa 1.250.000 sterline.”
+
+Questo divertì il Capricorno. Non so perché. Forse pensò che lo stile fosse disordinato, o forse si convinse che, una volta che queste informazioni fossero state assorbite dalla gente comune, le cose non sarebbero cambiate di molto rispetto a prima: né l’umanità sarebbe stata più vicina alla comprensione dei misteri della vita, né il loro scopo divino nella creazione sarebbe stato realizzato. Comunque sia, decise di conservarlo. E penso che abbia fatto bene. Non si può conservare tutto ciò che viene stampato; quindi è utile tenerne un esempio. Inoltre, il Capricorno aveva intenzione di perpetuare quell’esempio per sempre nella sua prosa immortale. Prego il Cielo che possa tornare a farlo!
+
+# Estratto da un giornale serale
+
+“Non esiste più nessun nobile gentiluomo nelle vaste terre della sua nativa [[England|Inghilterra]] che possa eguagliare il generale di brigata Sir Hammerthrust Honeybubble, uno dei pochi sopravvissuti alla grande carica di Tamulpuco: un atto di valore ormai quasi dimenticato, ma che fece tremare l’[[England|Inghilterra]] durante la guerra brasiliana. Il generale di brigata – o, all’epoca, semplicemente il capitano Hammerthrust Honeybubble – superò indenne cinque batterie brasiliane e tornò indietro con il corpo così gravemente ferito che la testa sembrava staccarsi dal corpo. A malapena in grado di rimanere in sella, si puliva continuamente il sangue dall’occhio sinistro e raggiunse le sue truppe a piedi; nonostante la caccia alle sue spalle, riuscì comunque a fuggire. Siamo felici di apprendere che Sir Hammerthrust sia ancora in ottima salute, all’età di novantatré anni, e speriamo che possa godersi ancora a lungo le sue proprietà nelle Isole Orcadi.”
+
+In questo estratto trovo soltanto una nota marginale, scritta con la delicata e bella calligrafia di Capricorn: “Qual giorno?”. Tuttavia, non sono riuscito a scoprire se si riferisse a qualche appuntamento personale suo.
+
+Ho trovato un certo numero di estratti che, a mio parere, non potevano assolutamente essere destinati al libro, ma dovevano essere stati preparati per l’“Oxford Anthology of Bad Verse” di quel povero Capricorn, che poco prima di lasciare [[England|Inghilterra]] stava lavorando alla sua realizzazione per la University Press. Capricorn aveva un vero e proprio senso del cattivo gusto in materia di poesia, e le autorità non avrebbero potuto scegliere nessuno più adatto al compito di curare un volume del genere. Non devo mostrare al lettore troppi di questi estratti, ma il seguente quartetto merita sicuramente di essere riconosciuto e ricordato a lungo:
+
+Napoleone sperava che tutto il mondo finisse sotto il suo dominio. Fallì in questo intento; e dove si trova oggi? Né le nazioni dell’Est né quelle dell’Ovest ritengono che ciò che Napoleone considerava vantaggioso fosse davvero nel loro interesse.
+
+È davvero enorme. Come filosofia, come storia, come retorica, come metrica, come ritmo, come politica, è semplicemente immenso. L’intero poema è meraviglioso, e vorrei tanto avere spazio qui per descriverlo completamente. È un poema patriottico, ma scritto in modo davvero pessimo, nel peggiore dei modi possibili. È una gioia triste pensare che i miei cari amici abbiano trascorso gli ultimi giorni nella loro terra natale illuminati da un tesoro del genere. È solo uno dei tanti esempi, ma penso sia il migliore.
+
+Un altro passaggio che attira la mia attenzione proviene dalle opere di una persona che viveva in una terra lontana e straniera. Tuttavia, valeva la pena conservarlo. Questo personaggio, di nome Tindersturm, pubblicò un pamphlet che rientrava nelle normative – molto rigorose – del governo prussiano, secondo le quali chiunque dei suoi sudditi dicesse o stampasse qualcosa destinato a suscitare conflitti religiosi o razziali nello Stato sarebbe stato soggetto a severe punizioni. Proprio queste severe punizioni colpirono Tindersturm, che fu imprigionato per diversi anni, come si legge nel paragrafo che segue il passaggio che sto per citare. Il fatto che Tindersturm avesse effettivamente l’intenzione di “suscitare conflitti religiosi e razziali”, anzi che ci mettesse addirittura del suo impegno in questo senso, diventerà evidente non appena leggerete le seguenti righe del suo pamphlet.
+
+“È arrivato il momento di intervenire contro questa spregevole setta aliena. Se lungo la strada di casa dal teatro incontrate quella banda di individui con gli occhi blu e i capelli lunghi che camminano dondolando, sia che siano giovani o donne, avvicinatevi a loro e date loro un bel pugno, uno da sinistra e uno da destra, colpite anche gli occhi; poi alzate il piede e dateli un calcio. È così che dobbiamo iniziare questa azione. Mia Patria, svegliati!”
+
+In questo estratto, povero Capricorno ha aggiunto la parola “Eccellente”; lo stesso commento fa anche riguardo alla seguente conclusione di una lettera scritta a un giornale religioso e che riguardava qualche politico che aveva fatto qualcosa che al corrispondente non piaceva.
+
+“Che i suoi occhi possano essere aperti mentre è ancora in vita… questa è la preghiera di…”
+
+“Cordiali saluti,
+
 
 
 <span class="atom-split" data-atom="story_05_an_earnest_member_of_the_fold" data-title="On Something — “AN EARNEST MEMBER OF THE FOLD”" data-chapter="AN EARNEST MEMBER OF THE FOLD" data-kind="story" data-tags="concept/satire_of_society,concept/nonsense,form/essay,form/satire"></span>
@@ -2362,6 +2706,32 @@ Shall I tempt Providence by any further extracts? … It is difficult to tear on
 
 There! There! May they all rest in peace! They have added to the gaiety of mankind.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Un membro fedele e devoto della comunità”
+
+Dato che si tratta di una serie del genere, è davvero piacevole tornare ai quei brevi passaggi sociali che procuravano a Capricorno tanta gioia continua e intensa; ad esempio, questo:
+
+“La signora Harry Bacon desidera far sapere che ha interrotto completamente ogni tipo di rapporto con l’organizzazione ‘Boudoir for Lost Dogs’. Il suo indirizzo rimane Hermione House, Bourton-on-the-Water, Fenton Marsh, Worcester.”
+
+Nel taccuino ci sono molte altre cose che potrei raccontare per intrattenere il lettore, se lo spazio lo permettesse. Tra gli ultimi appunti, ad esempio, trovo questo:
+
+“È stata una competizione intensa e emozionante. Sono stati scambiati alcuni colpi terribili. Tuttavia, nell’ultimo round, Schmidt ha inflitto al suo avversario un colpo molto violento sotto il mento, facendolo cadere privo di sensi e rompendogli il gomito; di conseguenza, il premio è stato assegnato a lui.”
+
+A questa gioiosa “gemma”, il Capricorno ne ha aggiunto un intero insieme di annotazioni. Alla fine chiede: “Chi era ‘lui’? È importante.” E sottolinea in inchiostro rosso la parola “tuttavia”, forse come un congiunzione misteriosa mai apparsa prima nella prosa britannica. Devo aggiungere che il Capricorno stesso era un appassionato sportivo e raramente perdeva nessuna delle competizioni di primo livello, anche se personalmente non praticava la boxe; nelle poche occasioni in cui ho visto costringerlo a praticare questo sport per strada, ha mostrato il massimo disgusto per questa forma di atletica.
+
+Infine, trovo questa nota con cui devo concludere: è tratta dal resoconto letterale di un importante caso giudiziario, ormai quasi dimenticato, ma dieci anni fa era l’argomento di conversazione di tutta Londra.
+
+“Il testimone dichiarò quindi di essere stato promesso l’indipendenza per tutta la vita se fosse riuscito a scoprire il convenuto mentre compiva atti volti ad includere alcuna parte del terreno, o qualsiasi documento o ordine relativo a tale inclusione. Pertanto osservò regolarmente il convenuto dal giugno 1896 fino alla metà di luglio 1900. Osservò inoltre i genitori del convenuto, tre figli maschi, una figlia sposata, nonna e nonno, le sue due sorelle sposate, suo fratello, il suo agente e la moglie dell’agente – ma non riuscì a scoprire nulla.”
+
+Il fatto che una simile frase fosse stata stampata in inglese e pronunciata da un uomo inglese all’interno di una cabina dei testimoni inglese era sufficiente per Capricorno. Solo questo, come nutrimento intellettuale nella sua solitaria dimora nel deserto, lo rendeva felice.
+
+Dovrei tentare ancora la Provvidenza con altri estratti?. È difficile staccarsi da un simile “banchetto”. Quindi lasciate che vi presenti l’ultimo, davvero l’ultimo, come dessert. Ecco qui, in bianco e nero, e nessuno può cancellarlo: né tutta la sua pietà, né tutto il suo ingegno. Risale all’anno 1904; chissà, a quel tempo il motore a combustione interna e le sue possibilità non erano certo qualcosa di nuovo. Ve lo leggo parola per parola:
+
+“Inoltre, la Duchessa è una pioniera nell’uso dell’automobile. La ritiene un mezzo di trasporto confortevole e veloce per spostarsi dalla sua tenuta di campagna alla sua residenza in città, e anche un modo molto pratico per incontrare i suoi amici nei fine settimana. Tuttavia, si dice che si lamenti del fatto che l’uso di una gomma meno soggetta a forature rispetto a quella attualmente in uso rappresenterebbe un vero vantaggio inestimabile.”
+
+Ecco! Ecco! Possano tutti riposare in pace. Hanno contribuito alla gioia dell’umanità.
 
 
 
@@ -2403,6 +2773,42 @@ How often have I not come upon a corbel of stone carved into the shape of a face
 Now so it is with any two human minds, not only when they are separated by centuries and by silence, but when they have their being side by side under one roof and are companions all their years.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Su persone sconosciute
+
+Si sente spesso dire quanto sia sorprendente che un certo lavoro esista e sopravviva nel mondo, pur non essendo noto il nome del suo autore; ma quando si considera la varietà di opere buone e le circostanze in cui vengono realizzate, nonché la diversità dei gusti nei vari tempi e luoghi, allora si inizia a comprendere ciò che inizialmente sembra così sorprendente.
+
+Ci sono scrittori che hanno attribuito questa nostra frequente ignoranza a ogni sorta di atteggiamenti eroici, al sacrificio di sé o all’umiltà di un’intera epoca o di particolari artisti: ma si tratta della spiegazione meno soddisfacente che si possa trovare. Tutti gli uomini desiderano, se non la fama, almeno quel povero diritto inalienabile dell’autorialità; e a meno di non trovare motivi davvero validi per cui un pittore, uno scrittore o uno scultore dovrebbero deliberatamente nascondersi, bisogna cercare un’altra causa.
+
+Tra tali cause, le prime due, penso, siano la molteplicità di opere buone e il loro carattere casuale. Non che qualcuno faccia mai un’opera davvero eccellente una volta sola per poi non riprovarci più – almeno, un simile evento è estremamente raro – ma che molti uomini, dopo aver acquisito una certa abilità attraverso lunghi sforzi, di tanto in tanto producano qualcosa di davvero originale e distinto dal resto. Spesso si scopre che un uomo ricordato solo per un’unica opera d’arte o un solo poema merita di essere studiato più a fondo; in realtà, ha creato molto di più. È importante ricordare che, per molto tempo, anche Ronsard stesso fu considerato un autore di soltanto un unico poema.
+
+La molteplicità di opere buone, così come il modo in cui gli eventi casuali ne favoriscono la realizzazione, rappresentano anch'essi cause decisive. Esistono elementi dell’architettura (e l’architettura è senz’altro l’arte più anonima di tutte) i cui effetti dipendono oggi in gran parte dalla posizione geografica e dal passare del tempo; in Europa ci sono migliaia di dettagli architettonici pensati esclusivamente per una funzione pratica, che però si sono rivelati perfetti quasi senza alcun progetto deliberato: questo vale soprattutto per i ponti.
+
+C’è poi questo aspetto legato all’anonimato delle opere buone: molto spesso l’autore non ha la minima idea di quanto siano realmente valide le cose che ha creato. Le aneddoti (come quello famoso di Keats) che raccontano di poeti desiderosi di distruggere le proprie opere, o comunque di considerarle di scarso valore, non sono tutti falsi. Possediamo ancora la lettera in cui Burns incluse il poema “Scots wha’ hae”; è curioso notare il suo errore nel valutarlo. Accanto a questo tipo di errori, ci sono persone che scelgono con particolare affetto, e nella piena speranza di ottenere gloria, alcune delle proprie opere, le quali in futuro non verranno nemmeno ricordate. Ciò vale soprattutto per le opere rielaborate dagli autori in età matura. Scrittori, pittori (fortunatamente gli scultori sono limitati dalla natura della loro arte – a meno che non decidano deliberatamente di distruggere i propri lavori) modificano e aggiustano, negli anni in cui diventano più critici e meno creativi, ciò che ritengono essere le realizzazioni insufficienti della loro giovinezza. Eppure sono proprio la vitalità e la semplicità delle loro opere giovanili quelle che spesso gli altri preferiscono ricordare. Per questo motivo, molte cose buone rimangono anonime: perché lo scrittore, il pittore o lo scultore le hanno vergogna di mostrarle.
+
+C’è poi questa ragione legata all’anonimato: a volte – per un periodo piuttosto breve, di pochi anni – sembra che una sorta di universalità nelle opere d’arte, in uno o più settori dell’arte, pervada il mondo o una determinata regione. In nessun luogo questo fenomeno si manifesta in modo così evidente come nelle sculture del primo terzo del XVI secolo nel Nord e nel Centro della Francia, nonché lungo il confine fiammingo.
+
+In quel momento, gli uomini sembravano incapaci di creare opere che non fossero straordinarie non appena iniziavano a rappresentare la figura umana. A volte il loro nome rimaneva; più spesso, invece, era incerto o addirittura andava completamente perduto. Ancora più curioso è il fatto che, per quel periodo, si riscontrava spesso una mescolanza di nomi diversi. Si scoprivano straordinarie serie di rilievi in chiese dimenticate di piccole città provinciali; era immediatamente evidente che si trattasse di opere realizzate nel momento in cui la corrente del Rinascimento aveva finalmente raggiunto quelle terre antiche, dominate dallo stile gotico. Si poteva giurare che, se non fossero state create all’epoca di Francesco I o Enrico II, almeno erano opera di persone che ricordavano o avevano visto quei tempi. Ma quando si cercava di conoscere i nomi degli autori, quei nomi erano sconosciuti.
+
+Di tutte queste cose famose, o comunque le più degne di essere note, il miracolo di Brou è di gran lunga il più celebre. È davvero un intero “mondo” a sé stante. Si potrebbe dire che o un genio straordinario abbia modellato ogni singola faccia e figura di quelle migliaia di figure (tanto individuali sono), oppure che un gruppo di uomini ispirati, le cui tradizioni e origini si discostavano da quelle della comune umanità, abbia realizzato tutto ciò. Se si cercano i nomi delle persone coinvolte, si scopre soltanto che Coulombe, proveniente dalla Touraine, iniziò il lavoro; che ci fu qualche disputa tra lui e i responsabili dei pagamenti; che fu sostituito, in modo del tutto banale, da un fiammingo di nome Van Boghem; e che questo fiammingo dovette poi collaborare con uno svizzero più noto, di nome Meyt. È la stessa storia per quasi tutti questi lavori e il loro straordinario periodo storico. La ricchezza dei dettagli presenti in luoghi come Louviers o Gisors è praticamente anonima; quella relativa al primo menzionato, forse, lo è ancora di più.
+
+Chi ha scolpito il legno nella Chiesa di San Giacomo ad Anversa? Penso che il nome dell’autore sia conosciuto per una parte del lavoro, ma nessuno ha realizzato l’intero complesso scultoreo; eppure tutto sembra formare un’unica opera. Chi ha scolpito il legno nella Chiesa di San Bertrand de Coraminges? Sappiamo solo chi ne ha finanziato la realizzazione, ed è tutto ciò che sappiamo. Per quanto riguarda il legno utilizzato a Rouen, dobbiamo accontentarci della vaga frase: “Probabilmente artisti fiamminghi”.
+
+Tra le statue gotiche che seguono schemi convenzionali, per quanto grandiose possano essere, si può capire che debbano rimanere anonime; tuttavia è curioso notare come anche in quei casi in cui l’opera presenta una forte individualità artistica prevale lo stesso silenzio riguardo all’identità del suo autore. Tra i re raffigurati a Reims ci sono due teste: una di San Luigi e una di suo nipote. Se queste opere fossero state realizzate da scultori famosi, se il loro nome fosse noto e desiderato dai collezionisti, queste due teste sarebbero sicuramente considerate tra le più celebri d’Europa. Invece, sono soltanto due di centinaia che furono sparse in varie parti durante i tardi secoli XIII e l’inizio del XIV; probabilmente ognuna di esse fu realizzata da un artigiano diverso, e l’autore o gli autori di ciascuna rimangono completamente sconosciuti.
+
+Non so se ci sia più pathos, più umorismo o più consolazione nel considerare questa nostra ignoranza riguardo ai creatori di cose belle.
+
+È pieno di parabole. C’è qualcosa del genere nella Natura. Ci sono persone che camminano per tutto il giorno in un bosco di giugno e, alla fine, escono atei, non trovandovi alcun segno evidente; ci sono altre invece che, navigando sul mare, tornano a [[Home|>casa]] dopo aver visto tante cose ancora prive di una spiegazione riguardo al loro autore. Questa è una parabola.
+
+E poi c’è questo: la correzione dell’ambizione. Poiché molte cose sono ancora lì, anche se i nomi dei loro autori sono ormai scomparsi, che importanza ha per te o per il mondo che il tuo nome sopravviva, purché il tuo lavoro continui ad esistere? Chi fu mai quell’ingegnere, tra migliaia di altri nell’esercito imperiale, che con cura e astuzia calcolò con precisione la posizione di Gumber Corner in modo da individuare, in una giornata limpida, il suo allineamento esatto rispetto a Pulborough e alla cresta di Leith Hill, pur evitando i due fiumi e scegliendo così il percorso migliore per una strada militare? Lavorò senza alcuna considerazione per la fama, perché gli ingegneri (soprattutto quando sono anche soldati) sono davvero unici tra gli artisti in questo campo. Ma realizzò qualcosa di davvero meraviglioso: la Strada Romana corre lì da milleduecentocinquanta anni, frutto del suo lavoro. Qualcuno deve aver trovato quella linea esatta e ne compreso il motivo. È perfetta; ciò che fu realizzato è altrettanto grande e soddisfacente oggi quanto la scultura di Brou o i due ragazzi dipinti da Murillo, che potete ammirare nella galleria di Dulwich. Ma lui non pensò mai che qualcuno conoscesse il suo nome, e nessuno lo conosce ancora.
+
+C’è poi quest’ultima cosa riguardo al lavoro anonimo, che è anche una parabola, e una triste parabola. Mostra come non esista alcun ponte tra due menti umane.
+
+Quante volte non mi sono imbattuto in un architrave di pietra scolpito a forma di volto, e quel volto esprimeva either orrore, riso, grande dolcezza o visioni. Lo guardavo come se fosse un volto vivente, solo che era ancora più meraviglioso della maggior parte dei volti umani. In esso risiedevano l’anima e la mente di colui che lo aveva creato. Ma lui è morto da centinaia di anni. Quell’architrave non può comunicare con me, poiché è fatto di pietra; è muto e non mi parlerà mai, anche se continuamente mi spinge a porre domande su di esso. Anche il suo autore è muto, poiché è morto da così tanto tempo. Non so assolutamente nulla su di lui.
+
+Ed è proprio così per qualsiasi due menti umane: non solo quando sono separate da secoli e dal silenzio, ma anche quando esistono una accanto all’altra sotto lo stesso tetto e condividono gli stessi anni.
+
 
 
 <span class="atom-split" data-atom="story_07_on_a_van_tromp--part_01" data-title="On Something — ON A VAN TROMP (part 1)" data-chapter="ON A VAN TROMP" data-kind="excerpt" data-tags="motif/home"></span>
@@ -2432,6 +2838,32 @@ Thus it was that a young gentleman who had come down to ride in that neighbourho
 
 The innkeeper, who had read in the newspapers of how pictures of the utmost value are sold by fools for a few pence, said boldly that his price was twenty pounds; whereupon the young gentleman went out gloomily, and the innkeeper thought that he must have made a mistake, and was for three hours depressed. But in the fourth hour again he was elated, for the young gentleman came back with twenty pounds, not even in notes but in gold, paid it down, and took away the picture. Then again, in the fifth hour was the innkeeper a little depressed, but not as much as before, for it struck him that the young gentleman must have been very eager to act in such a fashion, and that perhaps he could have got as much as twenty-one pounds by holding out and calling it guineas.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# Su una barca di Van Tromp
+
+C'era una volta un uomo che, non avendo altro da fare e essendo appassionato di quel genere di cose, copiò con grande cura l'angolo di un dipinto olandese presente in una delle gallerie pubbliche su un pezzo di legno.
+
+Quest’uomo non era un buon artista; in realtà non era altro che un giovane gentiluomo gobbo e molto sensibile, con circa 3000 sterline all’anno e una grande passione per gli svaghi raffinati. Era un ottimo matematico e un pescatore discreto. Conosceva moltissime cose sulla conquista islamica della Spagna, e credo stia scrivendo un libro sull’argomento. Spero che lo faccia, perché quasi tutta la storia merita di essere riscritta. Comunque, come ho appena detto, aveva copiato un angolo di uno dei dipinti olandesi presenti in una delle gallerie. Si trattava di un dipinto olandese del XVII secolo; e poiché le leggi di questo paese sono molto complesse e le sanzioni previste molto severe, non dirò il nome dell’artista originale, ma lo chiamerò Van Tromp.
+
+I lavori di Van Tromps sono sempre stati riconosciuti, e ci fu un momento, circa cinquanta anni dopo la morte dell’artista, in cui ebbero una notevole popolarità alla Corte francese. Monsieur, che era del tutto ignorante di queste cose, ne acquistò alcuni, e nel piccolo padiglione di Louveciennes ne troverete un intero corridoio. Van Tromps possiede qualcosa di immediatamente positivo e al contempo enigmatico nei suoi lavori; è ricco di piani e di valori visivi, ed è in grado di interpretare e rappresentare con grande efficacia. Anzi, direi che riesce addirittura a “trasferire” quelle qualità visive nel suo arte.
+
+Circa trent'anni fa, il signor Sindaco (di Hildesheim e Londra) ritenne suo dovere far comprendere al pubblico quanto fosse grande Van Tromp. Lo fece dopo aver accettato tredici oggetti appartenenti a Van Tromp in pagamento di un debito non saldato, e ci riuscì. Ma l’uomo di cui sto parlando non se ne curava affatto: voleva semplicemente vedere fino a che punto fosse in grado di imitare quel particolare aspetto dell’opera originale, e ci riuscì piuttosto bene. Sporcò l’oggetto, lo strofinò, poi lo lucidò con un coltello, lo fumigò, aggiunse alcuni colori bianchi vivaci, utilizzò anche tuorlo d’uovo, insomma, fece di tutto per ottenere esattamente lo stesso effetto dell’originale. Poiché l’aveva realizzato su un pezzo di legno vecchio, il risultato fu perfetto, e ne andò molto fiero. Prese un vecchio telaio vicino a Long Acre, vi inserì l’opera e la portò a casa. Aveva già realizzato altre cose del genere, imitando miniature ed anche opere smaltate. Gli piaceva molto farlo. Quando tornò a casa, rimase ad ammirarla per un’ora o due; poi la lasciò sul tavolo dello studio e andò a dormire.
+
+Ecco che inizia la storia; quindi, devo raccontarvi di cosa tratta questo angolo dell’immagine.
+
+L’oggetto di questa parte dell’immagine che aveva copiato era una donna con una giacca marrone e una sottoveste rossa; i suoi piedi grandi erano visibili sotto la gonna, mentre lei sedeva in una vasca e tagliava delle verdure. I suoi capelli erano raccolti a crocchia, come un cipolla. Una moda che, come tutti sappiamo, piaceva molto ai olandesi del XVII secolo, almeno alla gente comune. Devo anche dirvi il nome di questo gentiluomo prima di andare avanti: si chiamava Hammer. Paul Hammer. Era single.
+
+Andò a letto alle undici di sera e, quando scese alle otto del mattino, fece colazione. Alle nove entrò nello studio e si arrabbiò molto nel scoprire che alcuni ladri erano entrati durante la notte e avevano portato via diversi oggetti di valore; tra questi, ciò che gli dispiaceva di più era il suo piccolo “pastiche” realizzato con un angolo del dipinto di Van Tromp.
+
+Per alcuni momenti rimase immobile, invaso da una rabbia intensa, desiderando di sapere chi fossero i ladri e come poterli raggiungere; ma i giorni passarono e, nonostante avesse chiesto in giro a tutti e avesse persino dato del denaro alla polizia, non riuscì a scoprirlo. Pubblicò quindi un annuncio su diversi giornali, sia londinesi che locali, offrendo una ricompensa se l’oggetto rubato fosse restituito, e lasciando intendere chiaramente che non sarebbero state poste domande; ma nulla arrivò.
+
+Nel frattempo, i ladri, di nome Charles e Lothair Femeral, stranieri ma di lingua inglese, scoprirono che alcune delle merci ottenute in modo illecito erano vendibili, altre no. Volevano una sterlina per quel piccolo dipinto dentro il quadro, ma non riuscirono a ottenerla; negoziare su quel prezzo risultò quindi particolarmente fastidioso. Lothair Femeral pensò allora a un piano: al terzo giorno del loro viaggio si fermarono in una locanda, cenarono bene con suo fratello, poi dissero al proprietario che non potevano pagare il conto e proposero di lasciargli il dipinto in cambio. Quando le persone fanno così, spesso riescono nel loro intento; l’alternativa, infatti, sarebbe stata quella di vedere quell’uomo finire in prigione, mentre un dipinto, beh, è pur sempre un dipinto, e c’è sempre la possibilità che si riveli “un asso nella manica”. Così il proprietario della locanda borbottò, ma accettò l’offerta. Appese il dipinto nella stanza migliore della locanda, proprio dove serviva i suoi clienti più abbienti.
+
+Ecco come accadde: un giovane gentiluomo che era sceso in quella zona per fare una cavalcata, sebbene non conoscesse nessuna delle persone ricche del posto, vide un giorno quel dipinto e, non appena lo notò, esclamò ad alta voce in una lingua sconosciuta; tuttavia si trattenne immediatamente e disse semplicemente all’oste che gli era piaciuto molto quel dipinto e che gli avrebbe dato trenta scellini per acquistarlo.
+
+L’oste, che aveva letto sui giornali di come immagini di estremo valore venissero vendute da sciocchi per pochi penny, dichiarò con fermezza che il suo prezzo era di venti sterline; allora il giovane signore se ne andò cupamente, e l’oste pensò di aver commesso un errore, rimanendo depresso per tre ore. Ma nella quarta ora fu di nuovo felice: il giovane signore tornò con venti sterline, non in banconote ma in oro, pagò subito e se ne portò via l’immagine. Nella quinta ora, l’oste si sentì di nuovo un po’ depresso, ma non quanto prima, perché gli venne in mente che il giovane signore doveva essere stato davvero desideroso di acquistare quell’immagine a quel prezzo; forse avrebbe potuto ottenere addirittura ventuno sterline se avesse insistito per ricevere le banconote in ghinee.
 
 
 
@@ -2480,6 +2912,50 @@ It was in vain that the Australian, on hearing this, poured out self-reproaches,
 
 The next day, therefore, the Australian sailed off to his distant continental [[Home|home]], carrying with him not only the Chardin, the Titian, the Cooper, the impressionist picture, and the rest, but also the Van Tromp. And three months after they all hung in a row in the great new copper room at Warra-Mugga. What happened to them later on, and how they were all sold together as “the Warra-Mugga Collection,” I will tell you when I have the time and you the patience. Farewell.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il giovane gentiluomo telegrafò a suo padre (che abitava a Wimbledon ma che aveva i suoi affari in Bond Street) dicendo che si era procurato un Van Tromp il quale sembrava uno studio per il grande Van Tromp “Eversley” della Galleria, e voleva sapere quanto suo padre gli avrebbe dato per averlo. Il padre gli telegrafò in risposta invitandolo a passare un'intera notte sotto il tetto di famiglia. Il giovane lo fece, e, benché stringesse il cuore al vecchio padre doverlo fare, quando ebbe visto la scoperta del giovane gentiluomo (o trouvaille, come la chiamava lui) aveva già consegnato alla sua progenie un assegno di cinquecento sterline. Al che il giovane gentiluomo se ne andò e tornò a cavalcare un altro po', esercizio del quale era appassionatamente amante, e al quale aveva addestrato parecchi cavalli tranquilli.
+
+Il padre scrisse a un certo lord di sua conoscenza che andava pazzo per i Van Tromp, e gli offrì questa replica o studio, per certi versi più bello dell'originale, ma disse che doveva trattarsi di una trattativa privata; chiese dunque un appuntamento, e il lord, che era un uomo alto, dal viso rosso e dai modi bruschi, fissò un appuntamento per le nove del mattino seguente, il che era piuttosto presto per Bond Street. Ma il denaro parla, e si incontrarono. Il lord era vestito benissimo, e quando parlava incrociava le mani (che portavano i guanti) sul pomo del bastone e premeva il bastone saldamente contro terra. Era un suo modo di fare. Ma non spaventò il vecchio gentiluomo che trattava affari in Bond Street, e il succo della faccenda fu che il lord non ottenne il quadro finché non ebbe pagato tremila ghinee — non sterline, badate bene. Per questa somma il quadro doveva essere mandato a casa del lord, e così fu, e là sarebbe rimasto se non fosse stato per un caso assai curioso. Il lord aveva investito la maggior parte del suo denaro in una compagnia che stava sviluppando le risorse delle isole Shetland Meridionali, e per qualche errore di calcolo o altro le spese di questo esperimento si rivelarono maggiori delle entrate che se ne potevano ricavare. La sua politica, come è appena il caso di dirvi, era di tener duro, e così fece, perché alla lunga la proprietà doveva pur rendere. E così sarebbe stato se avessero potuto continuare a sborsare in eterno, ma non potevano, e così l'intera faccenda fu liquidata e il lord perse moltissimo denaro.
+
+In queste circostanze gli tornarono in mente i milioni di lavoratori che non vedono mai un bel quadro e che non hanno appetito più vivo della fame di bei quadri. Prestò dunque con il minor indugio possibile la sua collezione di Van Tromp a una galleria pubblica, e per molti anni essi rimasero appesi là, mentre il lord viveva in grande ansia, ma con una rendita sufficiente ai suoi bisogni, nel delizioso paesaggio dei Pennini a una certa distanza da una stazione ferroviaria, circondato dai suoi affittuari. Alla fine nemmeno questi — gli affittuari, intendo — bastarono più, e un signore del Governo che conosceva il valore dei Van Tromp propose che questi Van Tromp fossero acquistati per la nazione; ma un mucchio di esaltati fece un baccano spaventoso, tanto in Parlamento quanto fuori, sicché il progetto sarebbe naufragato se uno dei Van Tromp — vale a dire quella piccola copia di un angolo che era palesemente una replica o uno studio per il più noto dei Van Tromp — non fosse stato proclamato falso all'improvviso da un signore che ne dubitava l'autenticità; al che tutti dissero che non era autentico, tranne tre persone che contavano davvero, e fra queste c'era il signore che aveva raccomandato l'acquisto dei Van Tromp da parte della nazione. Tanto enorme fu il chiasso sulla faccenda che il quadro raggiunse il culmine stesso della fama, e un australiano che allora viaggiava in [[England|Inghilterra]] si mise in testa di ottenere quel Van Tromp per sé, e ci riuscì.
+
+Questo australiano era un uomo semplicissimo, buono e gentile e ingenuo come un bambino, e spaventosamente ricco. Quando ebbe ottenuto il Van Tromp se lo portava dietro dappertutto, e nelle case di campagna dove si fermava lo tirava fuori e lo mostrava alla gente. Accadde che, fra le altre case di campagna, si fermasse una volta da quel possidente gobbo il cui nome, come ricorderete, era il signor Hammer, e gli mostrò il Van Tromp un giorno dopo pranzo.
+
+Ora, il signor Hammer era ormai un vecchio, e aveva smesso di curarsi molto delle cose di questo mondo. Aveva sofferto assai, e aveva cominciato a pensare alla religione; inoltre aveva fatto un bel po' di denaro con i titoli egiziani (perché tutto questo avveniva prima del crollo). Ed era piuttosto vergognoso dei suoi pastiche; sicché, in un modo o nell'altro, la vista di quel quadro non ebbe su di lui l'effetto che vi sareste potuti aspettare; perché voi, lettori, avete letto questa storia in cinque minuti (se avete avuto la pazienza di arrivare fin qui), ma lui, il signor Hammer, era andato cambiando e cambiando per anni, e vi assicuro che non gliene importava un fico di quel che potesse accadere a quella disgraziata cosa. Solo quando l'australiano, che era buono e semplice e gentile e cordiale, gli mostrò il quadro e gli chiese con orgoglio di indovinare quanto l'avesse pagato, allora il signor Hammer lo guardò con negli occhi quello sguardo pieno di quella tristezza non mortale che accompagna la disperazione senza rimedio.
+
+«Non lo so», rispose dolcemente e con un singhiozzo nella voce.
+
+«Per quel quadro ho pagato», disse l'australiano, con l'accento e la lingua del suo paese natio, «non meno di £7500… e domani lo ripagherei ancora!» Nel dir questo, l'australiano batté sul tavolo col palmo della mano in un modo così virile che un vecchio domestico il quale stava mettendo carbone sul fuoco si lasciò cadere il secchio del carbone.
+
+Ma il signor Hammer, rimuginando nella sua mente tutti gli accidenti e i mutamenti e le avventure della vita umana, la sua complessità, i suoi desideri inappagati, i suoi ideali che sbiadiscono ma non periscono del tutto, ben sapendo come gli uomini siano resi felici e come infelici, non si azzardò a rispondere. Due grosse lacrime gli si raccolsero negli occhi, e le avrebbe versate, forse seguite copiosamente da altre — stava quasi per crollare — quando alzò lo sguardo e vide sulla parete di fronte a sé sette pastiche che aveva fatto negli anni passati. C'erano un Tiziano e un George Morland, uno Chardin, due mucche alla maniera di Cooper e un quadro impressionista alla maniera di un qualche francese di cui aveva dimenticato il nome.
+
+«Vi piacciono i quadri?» disse all'australiano, con le lacrime ancora negli occhi.
+
+«Sì, moltissimo!» disse l'australiano con convinzione.
+
+«Volete permettermi di regalarvi questi?» disse il signor Hammer.
+
+L'australiano protestò che non si potevano accettare cose simili, ma era un uomo semplice, e alla fine acconsentì, perché ne fu immensamente compiaciuto.
+
+«È scortese porre condizioni», disse il signor Hammer, «e io non ne porrò alcuna, solo mi farebbe piacere se, nella vostra [[Home|casa]] sull'isola….»
+
+«Io non vivo su un'isola», disse l'australiano. Il signor Hammer si ricordò della carta dell'Australia, con l'acqua tutt'intorno, ma era troppo educato per discutere.
+
+«No, certo che no», disse; «voi vivete sulla terraferma; me n'ero dimenticato. Ma in ogni caso, sarei tanto contento se mi prometteste di appenderli tutti insieme, questi quadri con il vostro Van Tromp, tutti in fila! Ne sarei davvero tanto contento!»
+
+«Ma certo», disse l'australiano, un po' sconcertato; «lo farò,
+
+signor Hammer, se questo può darvi qualche piacere.»
+
+«Il fatto è», disse il signor Hammer, con voce rotta, «che quel quadro un tempo l'ho avuto io, e volevo che fosse appeso fianco a fianco con questi.»
+
+Fu invano che l'australiano, udendo ciò, si profuse in rimproveri verso se stesso, offrì con slancio d'animo di restituirlo, e poi, più prudentemente, tentò una trattativa. Il signor Hammer scosse risolutamente il capo.
+
+«Sono un vecchio», disse, «e non ho eredi; non tocca a me prendere, ma dare, e se farete ciò che un vecchio vi supplica di fare, e accetterete ciò che vi offro; se farete di più e per vostra cortesia terrete unite tutte queste cose che un tempo mi furono familiari, sarà ricompensa sufficiente.»
+
+Il giorno dopo, dunque, l'australiano salpò verso la sua lontana [[Home|casa]] continentale, portando con sé non solo lo Chardin, il Tiziano, il Cooper, il quadro impressionista e il resto, ma anche il Van Tromp. E tre mesi dopo erano tutti appesi in fila nella grande sala nuova di rame a Warra-Mugga. Che cosa ne fu di loro in seguito, e come furono venduti tutti insieme come “la Collezione Warra-Mugga”, ve lo racconterò quando io avrò tempo e voi pazienza. Addio.
 
 
 
@@ -2553,6 +3029,74 @@ Mr. Repton in his turn wrote a short letter, in which he begged George’s fathe
 Bearing that missive back did George reach his [[Home|home]]…. All this passed in the year 1895, and that is why George is to-day one of the best electrical engineers in the country, instead of being a banker; and that shows how good always comes, one way or another, of telling the truth.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il suo carattere
+
+Un certo mercante della Città di Londra, essendosi ritirato dall’attività commerciale, acquistò per sé una casa privata sulle colline di Hampstead e decise di dedicare gli anni che gli rimanevano all’educazione e al sostegno nella vita quotidiana del proprio unico figlio.
+
+Quando questo giovane (il cui nome era George) raggiunse i diciannove anni, suo padre gli parlò dopo cena, nel giorno del suo compleanno, riguardo alla necessità di scegliere una professione. Gli indicò i vantaggi di una carriera commerciale, in particolare quelli legati a quella forma di attività utile conosciuta come banca, spiegandogli come in quel settore fosse possibile ottenere profitti prestando i soldi di una persona a un’altra, e spesso anche i propri soldi a se stessi, senza dover utilizzare i propri risparmi o la propria fortuna.
+
+George, a cui tali argomenti erano sconosciuti, ascoltava attentamente; ad ogni parola pronunciata dal padre gli sembrava che si stesse aprendo davanti a lui un orizzonte sempre più ampio di comodità materiale e grandezza mondana. Fino ad allora non aveva idea che servizi così insignificanti, e certamente privi di qualsiasi valore per la comunità, potessero portare a ricompense così grandi. La carriera che il padre gli aveva descritto lo attirava particolarmente; quando quell’uomo ebbe terminato i suoi consigli, George gli assicurò che li avrebbe seguiti in ogni dettaglio.
+
+Il padre di George fu estremamente felice di scoprire che suo figlio fosse così ragionevole. Si sedette immediatamente per scrivere la lettera che aveva pianificato di inviare a un vecchio amico e conoscente per matrimonio, il signor Repton di Repton and Greening; la spedì quella stessa sera e ordinò al ragazzo di prepararsi alla solenne riunione privata prevista per il giorno seguente con il capo dell’azienda.
+
+Prima che George lasciasse la casa il giorno seguente, suo padre gli presentò, con tutta la solennità richiesta da un’occasione del genere, alcune regole di condotta che avrebbero dovuto guidarlo non solo all’inizio della sua vita, ma in tutto il corso della stessa. Sottolineò l’importanza del rispetto di sé, di un comportamento decoroso, della discrezione, dell’abitudine costante e tenace al lavoro, della prontezza, e così via; quando, spinto chissà da quale “demone” che ama sempre disturbare i migliori piani delle persone, il vecchio signore ebbe la follia di aggiungere le seguenti parole mentre si alzava in piedi e posava con forza una mano sulla spalla di suo figlio.
+
+“Soprattutto, George, devi dire sempre la verità. Ero giovane una volta e ora sono vecchio; ho visto molti uomini fallire, alcuni riuscire. Il miglior consiglio che posso darti, mio caro unico figlio, è di dire sempre la verità, senza paura e con coraggio, indipendentemente dalle conseguenze. Credimi: non solo è alla base del carattere, ma rappresenta anche il fondamento più solido per una carriera professionale di successo, anche oggi.”
+
+Dopo aver detto queste parole, l’uomo anziano, più commosso di quanto volesse ammettere, salì al piano di sopra per leggere il giornale; George, vestito con cura, uscì dalla porta d’ingresso diretti alla stazione della metropolitana, riflettendo profondamente sulle parole appena pronunciate da suo padre.
+
+Non posso negare che l’impressione che ebbero su di lui fosse straordinaria: molto più vivida di quanto gli uomini maturi possano facilmente immaginare. Spesso accade così nella giovinezza, quando ascoltiamo la voce dell’autorità; una frase casuale può avere un effetto incommensurabile su di noi. Un semplice cartellino logoro pronunciato con solennità, in un momento critico, può cambiare completamente il corso della nostra vita. Ed è stato proprio così per George, come presto scoprirete. Mentre viaggiava nella metropolitana, le parole di suo padre divennero una vera e propria ossessione per lui: ne percepiva il valore in molteplici aspetti, ne riconosceva la forza e l’accuratezza sotto centinaia di prospettive. Sapeva bene che l’intervista a cui stava per affrontarsi avrebbe messo a dura prova questa virtù della verità, ma si gloriava dell’opportunità offertagli; uscì dalla metropolitana e, con le labbra serrate e il giovane spirito pronto ad affrontare la prova, si diresse verso l’ufficio del signor Repton.
+
+Quando arrivò in ufficio, c'era il signor Repton, un gentile vecchio signore con grandi occhiali; dall'aspetto generale, era uno di quei tipi cordiali su cui i nostri caricaturisti hanno costruito l'immagine nazionale di John Bull. Era un piacere trovarsi in compagnia di una persona così onesta, e nonostante la grande nervosità di George, si sentiva al sicuro in sua presenza. Inoltre, il signor Repton gli sorrise con affetto prima di porgergli le poche domande che l'occasione richiedeva. Teneva la lettera del padre di George tra due dita della mano destra, muovendola dolcemente nell'aria mentre parlava al ragazzo.
+
+“Sono molto felice di vederti, George,” disse, “in questo vecchio ufficio. Ti ho già visto qui in passato, sai, ma non per affari così importanti!” Rise cordialmente. “Quindi vuoi venire a imparare il tuo mestiere con noi, giusto? Spero tu sia puntuale, eh?” aggiunse, i suoi occhi onesti pieni di gentilezza e scherzo.
+
+George lo guardò con un'espressione piuttosto cupa, esitò per un momento, e poi, con evidente sforzo, disse con voce rauca: “No, signor Repton, non lo sono.”
+
+“Ehi, cosa?” disse il signor Repton, perplesso e un po’ infastidito dal comportamento di quel giovane.
+
+“Stavo dicendo, signor Repton, che non sono puntuale. A volte ho momenti di distrazione che mi fanno completamente dimenticare un appuntamento. Inoltre, ho l’abitudine stupida di tagliare le cose troppo finemente, il che mi fa perdere treni e altre cose. Penso che dovrei dirvelo, ma semplicemente non riesco ad alzarmi presto la mattina. Ci sono giorni in cui ci riesco, per l’emozione di un viaggio imminente o per qualche altro motivo piacevole, ma di solito rimando a svegliarmi fino all’ultimo momento possibile.”
+
+Dopo essersi espresso in questo modo, George chiuse le labbra e rimase in silenzio.
+
+“Hmph!”, disse il signor Repton. Non era tanto ciò che il ragazzo aveva detto ad interessarlo, quanto piuttosto l’impressione di stranezza che quell’affermazione gli aveva lasciato. Non gli piaceva affatto, e non era del tutto sicuro delle sue conclusioni. Stava per porre un’altra domanda, quando George si offrì volontario per fornire ulteriori spiegazioni:
+
+“Non bevo,” disse, “e alla mia età non è facile capire quali conseguenze possa avere il vizio dell’ubriachezza continua. Ma non dovrei meravigliarmi se in futuro questo potesse diventare una tentazione per me. È giusto dirvi che, anche se sono giovane, ho già due volte esagerato con il vino; in un’occasione, meno di un anno fa, i servitori di una casa dove mi ero fermato dovettero portarmi a letto.”
+
+“Hanno davvero fatto così?”, disse il signor Repton in tono secco.
+
+“Sì,” disse George, “lo fecero davvero.” Poi calò il silenzio per almeno tre minuti.
+
+“Mio caro giovane,” disse il signor Repton alzandosi, “hai qualche predisposizione per una carriera in città?”
+
+“Nessuno,” disse George con decisione.
+
+“Prega,” disse il signor Repton (che aveva figli cresciuti e non poteva fare a meno di parlare con un certo sarcasmo; pensava che fosse utile per i ragazzi in quella fase “folle”), “prega,” ripeté, guardando con curiosità George, quel ragazzo scontento ma deciso, mentre sedeva lì sulla sua sedia, “esiste qualche tipo di lavoro per cui tu ti senta portato?”
+
+“Sì, certamente,” disse George con fiducia.
+
+“E cos’è questo?” disse il signor Repton, con un sorriso che gli riapparve sul viso.
+
+“Il dramma,” disse George senza esitazione, “il dramma poetico. Devo dirvi che non ho ricevuto alcun incoraggiamento da parte di coloro che sono i migliori critici di quest’arte, anche se ho presentato le mie opere a molti da quando ho lasciato la scuola. Alcuni hanno detto che le mie opere erano banali, altri che erano imitative; tutti hanno concordato sul fatto che fossero noiose e mi hanno unanimemente esortato ad abbandonare qualsiasi idea di scrivere in questo genere. Tuttavia sono convinto di possedere i talenti più elevati non solo in questo campo letterario, ma in tutti.”
+
+“Pensi davvero di essere un giovane eccezionale?” disse il signor Repton con un tono leggermente severo.
+
+George annuì. “Sì,” disse, “davvero eccezionale. Avrei dovuto usare un termine più forte se fossi stato io a parlare di questa cosa. Penso di avere del genio, anzi, ne sono sicuro; e per di più, genio di un livello molto alto.”
+
+“Beh,” disse il signor Repton sospirando, “non credo che riusciremo a trovare nessun traditore. Hai lavorato molto ultimamente?”, chiese con ansia. “Esami o qualcos’altro del genere?”
+
+“No”, disse George in silenzio. “Mi sento sempre così”.
+
+“Certamente!” disse il signor Repton, ormai convinto che quel povero ragazzo non avesse inteso essere scortese. “Beh, mi chiedo se vi dispiacerebbe portare indietro una nota per vostro padre, ”
+
+“Assolutamente no,” disse George con cortesia.
+
+A sua volta, il signor Repton scrisse una breve lettera nella quale pregava il padre di George di non offendersi per il consiglio di un vecchio amico, ricordava la lunga e fedele amicizia che li legava, sottolineava che gli estranei spesso riescono a vedere cose che i membri di una famiglia non notano, e concludeva chiedendo al padre di George di far trascorrere a George delle buone vacanze. “Non da solo”, aggiunse; “non credo che sia del tutto sicuro, ma in compagnia di un uomo davvero affidabile, un po’ più anziano di lui, che non lo infastidisca e sappia come prendersi cura di lui. Deve partire subito per alcune settimane”, proseguì il gentile vecchio, “e dopo potreste farlo rimanere a [[Home|>casa]] e dargli qualcosa da fare in modo tranquillo. Non incoraggiatelo a scrivere; penso che gli piacerebbe molto coltivare la terra. Ma non scriverò più: verrò a parlarvene di persona.”
+
+Tornato a casa con quella lettera, George raggiunse finalmente il suo [[Home|casa]]. Tutto ciò accadde nel 1895; ed è per questo che oggi George è uno dei migliori ingegneri elettrici del paese, invece di essere un banchiere. Questo dimostra come dire la verità, in un modo o nell’altro, porti sempre a buoni risultati.
+
 
 
 <span class="atom-split" data-atom="story_09_on_thruppenny_bits" data-title="On Something — ON THRUPPENNY BITS" data-chapter="ON THRUPPENNY BITS" data-kind="story" data-tags="motif/money_and_gold,concept/wit,concept/value_and_scarcity,form/satire,form/sketch,histref/ancient_greece,setting/ancient_greece,character/aristotle"></span>
@@ -2611,6 +3155,60 @@ But the offended philosopher had departed, and being well wound up could not, an
 But King Philip banged the door.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Pezzetti di Thruppenny
+
+Filippo, re di Macedonia, distruttore delle libertà della Grecia e padre di Alessandro che domò il cavallo Bucefalo, chiamò il precettore di quel ragazzo, Aristotele (detto l’Insegnante dell’Umanità), affinché gli ponesse una domanda che lo turbava molto; infatti, contando i suoi soldi – abitudine che aveva ogni giorno di bucato, quando l’appetito della regina per il tè pomeridiano e il miele la faceva assentarsi da casa – scoprì che nel suo tesoro c’erano un numero insopportabile di monete da tre penny, tanto da rischiare davvero il dispero.
+
+Per questo motivo, il re Filippo di Macedonia, distruttore delle libertà della Grecia, chiamò Aristotele, il suo seguace fedele, ritenendolo capace di rispondere a qualsiasi domanda, e gli disse (dopo che questi era entrato con profonda umiltà):
+
+“Vieni, Aristotele, rispondimi chiaramente: a cosa serve una moneta da trenta penny?”
+
+“Terribile sire,” disse Aristotele, stando davanti a lui con rispetto, “il pezzo da trenta penny non deve essere disprezzato. Uomini che in nessun modo si distinguevano per il loro stile, né tantomeno per la loro erudizione, sono riusciti a guadagnarsi da vivere scrivendo all’interno dei suoi limiti ristretti il Padre Nostro, il Credo e i Dieci Comandamenti; altri, invece, l’hanno utilizzato come esempio nelle lezioni di astronomia per spiegare l’angolo formato da alcune sfere celesti. La luna, la cui fase crescente e decrescente è senza dubbio nota a Vostra Maestà, in realtà non è altro che un pezzo da trenta penny tenuto tra il dito indice e il pollice dell’osservatore, con il braccio disteso nella sua lunghezza normale.”
+
+“Continua,” disse Re Filippo, con un certo fastidio; “continua, continua!”
+
+“La moneta da trenta penny, Vostra Maestà, illustra, meglio di qualsiasi altra, la saggezza e l’adeguatezza del sistema duodecimale a cui i Macedoni si sono attenuti con tanta prudenza (insieme ai popoli della Scizia e della Tracia, nonché agli animali silenziosi), mentre gli eccessivamente presuntuosi Greci si sono lasciati guidare dall’illusoria semplicità del sistema decimale. Il numero dodici, Vostra Maestà, ”
+
+“Sì, sì, lo so,” disse il re Filippo con impazienza, “l’ho sentito mille volte! Questo argomento mi ha già convinto ad abbandonare il sistema duodecimale e a infliggere le pene più severe a chiunque lo menzioni di nuovo davanti a me. I miei dieci dita sono più che sufficienti per i miei scopi. Continua, continua!”
+
+“ Sovrano Signore! ” continuò Aristotele, “ il penny da trenta penny è stato dimostrato in mille modi come un ausiliario e un prezioso aiuto degli Dei. Molti uomini, troppo avari per dare sei pence o troppo orgogliosi per dare una moneta di rame, gettano queste monete tra gli offerti del Tempio; si racconta anche di un prete ad Armagh (una città di cui Vostra Maestà forse non ha mai sentito parlare) che spesso si rivolgeva alla sua congregazione dall’altare, indicando il numero eccessivo di penny da trenta penny offerti per il sostentamento della gerarchia, minacciando di chiamare davanti a sé i colpevoli e di restituire loro gli offerti insufficienti. Inoltre, il penny da trenta penny disciplina con grande efficacia l’anima umana: nessun’altra moneta mette alla prova il carattere delle persone come questa, essendo piccola, sottile, imprevedibile, propensa a nascondersi e spesso inutile quando viene scoperta. Imparate anche voi, Re di Macedonia, che il penny da trenta penny ha un grande valore nelle formule rituali, soprattutto nelle maledizioni e nell’invocazione del male sugli avversari, nonché nell’esprimere apertamente disprezzo per qualcuno. Infatti, paragonare qualcosa di inutile a un farthing, a una moneta da un penny o da venti penny priva completamente di forza; tale modo di esprimersi è da tempo ritenuto ridicolo anche tra la gente comune. Ma il penny da trenta penny ha un suono molto efficace per chi desidera sottolineare la propria superiorità. Immaginate, ad esempio, che qualche ribelle o demagogo di Atene osasse criticare le vostre riflessioni filosofiche al fine di denigrarle. Il suo argomento non avrebbe alcun peso se non terminasse con un gesto delle dita e la menzione del penny da trenta penny.”
+
+“Re Filippo di Macedonia, l’uomo più saggio tra tutti, impara ancora una cosa: un penny e mezzo, che per gli sciocchi può sembrare soltanto una spesa di tre pence, per il saggio potrebbe rappresentare invece un risparmio di quella stessa somma. Quante occasioni ci sono, infatti, in cui lo sciocco spendaccione, il giovane erede, il comandante della cavalleria, daranno sei pence a un messaggero, quando con un penny e mezzo si sarebbe ottenuto lo stesso risultato? Il denaro d’argento, infatti, è desiderato dai poveri non per la sua quantità, ma per la sua natura stessa; poiché natura e quantità sono due cose distinte, ”
+
+“Oh, so io so tutto su questo,” disse Re Filippo; “non vi ho chiamato per farvi allontanare da quelle discussioni che non hanno alcuna attinenza con le monete da trenta penny. Per favore, siate concreti, caro Aristotele,” continuò, sbadigliando. “Rimanete attaccati ai fatti reali e non fatemi ricordare come una volta abbiate detto che gli uomini hanno trentasei denti, mentre le donne ne hanno soltanto trentaquattro. Non vagate nel vuoto.”
+
+“Arbitro di Grecia,” disse Aristotele con gravità, quando il re ebbe terminato la sua tirata, “la moneta da trenta penny non possiede soltanto quella utilità di cui ho parlato in base allo scopo per cui è stata creata, ma si può percepire questa stessa qualità anche in un altro modo, osservandola direttamente. Ricorderete infatti come, quando eravamo tutti bambini, la moneta da quattro penny continuasse a essere utilizzata, mentre quella da trenta penny ne ha preso il posto. Questo è davvero un esempio tratto dalla natura: ciò che sopravvive è destinato a sopravvivere, perché in un certo senso, si potrebbe dire, proprio questo rappresenta lo scopo stesso della sopravvivenza.”
+
+“Esattamente,” disse Re Filippo, aggrottando la fronte in segno di riflessione; “Capisco ciò che intendi.”
+
+Ho sentito molte persone parlare in questo modo, ma nessuno lo fa meglio di te.
+
+“Continua, bravo Aristotele, continua.”
+
+“Maestà, questa questione richiede ben poco spiegamento, anche se contiene l’essenza stessa della verità,” disse il filosofo, sollevando in modo minaccioso i cinque dita della sua mano sinistra e contandoli con il dito indice della destra. “Perché è prima di tutto utile, poi bello, quindi prezioso, in seguito magnifico, e infine conforme alla sua natura.”
+
+“Assolutamente vero,” disse Re Filippo, ascoltando attentamente ogni parola che usciva dalle labbra del saggio, perché ora riusciva a comprenderle facilmente.
+
+“Molto bene allora, mio signore,” disse Aristotele con tono più vivace, compiaciuto di aver catturato l’attenzione del proprio Sovrano. “Stavo dicendo che ciò che sopravvive dimostra di essere degno di sopravvivere, sia che si tratti di un uomo o di uno squalo, di Atene o della Macedonia, o in molti altri casi. Ora, la moneta da trenta penny, essendo sopravvissuta fino ai nostri tempi, ha dimostrato di essere all’altezza di questa prova, e su questo tutti gli scienziati sono d’accordo.”
+
+“Allora, anche Re Filippo, considerate come il pezzo da trenta dracme, in un altro modo reale e concreto – non per pura ragione, ma, se posso dirlo così, in modo materiale – si distingua dagli altri: non è forse vero che, mentre tutte le altre nazioni, essendo per natura schiave, utilizzano monete di minor valore o altre denominazioni per ciò che è piccolo e non di bronzo, i Macedoni, essendo stati destinati dagli Dei a guidare tutta l’umanità, si sono attaccati con tenacia al pezzo da trenta dracme, sia nella buona che nella cattiva reputazione, e lo hanno addirittura imposto ai loro sudditi conquistati con le punizioni più severe? Quando Vostra Maestà scoprì – se vi ricordate – che il popolo di Eubea, in palese disprezzo per la vostra corona, restituiva tutte le tasse nel formato dei pezzi da trenta dracme al vostro tesoro, ”
+
+In quel momento, Re Filippo gridò ad alta voce, pronunciando la parola in greco…
+
+“Eureka”, che significa (“per coloro che si liberano dei loro ‘ache’”) “L’ho trovato!”.
+
+“Hai capito cosa intendo?” disse il filosofo, sorpreso dallo strano intervento del despota che lo costrinse a ricorrere al linguaggio comune.
+
+“Vattene!” disse Re Filippo. “Pensi davvero che qualche Don eccentrico possa rubarmi il mio tempo, quando per pura coincidenza la sua prolissità mi ha fatto imboccare la strada giusta? Vattene, Aristotele. O aspetta: porta questa nota al Capitano della Guardia.” E Re Filippo scrisse in fretta su un rotolo di pergamena l’ordine di eseguire immediatamente tutti gli abitanti di Eubea, salvo coloro che potessero salvare se stessi pagando dieci dracme. E precisò che tale somma non doveva essere pagata in monete contenenti anche solo un singolo “thruppenny bit”.
+
+Ma il filosofo offeso se n'era già andato, e essendo molto arrabbiato, non poteva, come nessun altro membro delle accademie, smettere di parlare ad alta voce; così re Filippo si irritò terribilmente nel sentirlo barcollare giù per le scale del palazzo, continuando a declamare ad alta voce.
+
+“E, sedicesimamente, la moneta da trenta penny possiede questa nobile qualità: rappresenta infatti una frazione di quella somma che ogni giorno mi viene pagata dalla Tesoreria Reale in argento, un metallo su cui abbiamo sempre insistito. E, diciassettesimamente, ”
+
+Ma Re Filippo bussò forte alla porta.
+
 
 
 <span class="atom-split" data-atom="story_10_on_the_hotel_at_palma_and_a_proposed_gui" data-title="On Something — ON THE HOTEL AT PALMA AND A PROPOSED GUIDE-BOOK" data-chapter="ON THE HOTEL AT PALMA AND A PROPOSED GUI" data-kind="story" data-tags="setting/england"></span>
@@ -2649,6 +3247,40 @@ My guide-book would have directions for the pacifying of Arabs, a trick which I 
 For you must know that one day I came into Narbonne where I had never been before, and I saw written up in large letters upon a big, ugly house:
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+#Alla locanda di Palma e un possibile libro guida
+
+L’hotel di Palma è simile al Savoy, ma la cucina è molto migliore. È grande e nuovo; le sue decorazioni seguono uno stile moderno, caratterizzato da linee sinuose. Il suo lusso supera quello del suo concorrente londinese. Ha un portiere disponibile e un proprietario delizioso. Lì si può fare ciò che si desidera e ci sono libri da leggere. Uno di questi era una guida inglese: la lessi e scoprii che era piena di bugie così evidenti e offensive da dirlo al mio ospite, consigliandogli di distruggerla completamente. Diceva che la gente di Palma fosse superstiziosa. Ma è falso: non hanno alcun tabù riguardo ai giorni; giocano anche la domenica, bevono ciò che desiderano (vino) quando ne hanno voglia. Non esistono libri sacri, Bibbie o Corani; nessuna sciocchezza legata al “folclore”, né assurde gerarchie sociali. I duchi gentili e semplici di cuore avrebbero molte difficoltà a vivere a Palma. Evitatela, cari miei. Anzi, la gente di Palma non ha abbastanza superstizioni. Lì si gioca per amore, denaro e divertimento. Nessun tabù riguardo all’amore.
+
+Il libro diceva che fossero poveri. In realtà, la loro popolazione è tre o quattro volte più ricca della nostra. Possiedono case eccellenti e terreni propri; nessuno di loro manca della carne, delle frutta, delle verdure e del vino che desidera, e di solito possiede anche animali da lavoro e strumenti musicali.
+
+In realtà, quel libro raccontava le bugie più spaventose e poteva essere considerato un “compagno ideale” di altri guide turistici. Questo mi ha spinto a decidere di scrivere anch’io un mio guida, in cui si dicesse la verità su tutti i luoghi che conosco. Dovrebbe intitolarsi “Guida al Northumberland, al Sussex, al Chelsea, al confine francese, al South Holland, al Solent, alla Lombardia, al Mare del Nord e a Roma, con un capitolo sul Cheshire e alcune osservazioni sugli Stati Uniti d’America”.
+
+In questo libro, il difetto risiederebbe nella sua eccessiva superficialità, mentre il merito sta nella sua precisione. Pertanto, vorrei informare i lettori che il miglior orario per dormire a Siena è dalle nove del mattino alle tre del pomeriggio, e che il luogo migliore per riposare è il lato nord di quella brutta chiesa in mattoni di San Domenico.
+
+Ancora una volta, gli direi che l’uomo che custodisce la “Testa del Turco” a Valogne, in Normandia, era soltanto esteriormente e in apparenza ateo, ma in realtà e nel profondo del cuore un cattolico.
+
+Gli direi che a volte in Lombardia nevica anche a giugno, perché l’ho visto con i miei occhi; che qualsiasi sciocco può attraversare gli Alpi bendato; che il mare di solito è calmo, non agitato; che la gente di Dax è la più orribile di tutta la Francia; e che Lourdes, contrariamente all’opinione comune, compie davvero miracoli, perché li ho visti con i miei occhi.
+
+Gli racconterei anche di quel posto a Tolosa dove il suonatore di arpa ti suona durante la cena, e di quella piccola locanda sporca a Terneuzen, sul fiume Schelda, dove ti chiedono qualsiasi prezzo vogliano per qualsiasi cosa: cinque scellini per un po’ di pane, o mezza corona per un tovagliolo.
+
+Tutte queste cose, e centinaia altre dello stesso genere, le includerei nel mio libro; alla fine ci dovrebbe essere un elenco di tutti gli hotel in Europa dove, al momento della pubblicazione, il proprietario era gentile, perché è proprio il carattere dei proprietari a fare tutta la differenza – e questo cambia, proprio come cambiano tutte le cose umane.
+
+Lì si potevano vedere, per prima cosa, come una sorta di “primati” tra gli hotel, l’Hotel Railway a York; poi l’ostello a La Bruyère nelle Landes, quindi il “Swan” a Petworth con la sua birra leggera, poi il “White Hart” di Storrington, e infine tutti gli altri, circa seicento o settecento in totale, dal “Elephant” di Chateau Thierry al “Feathers” di Ludlow: un vero e proprio retaggio nobile di ciò che un tempo era l’[[England|Inghilterra]]. Il “Feathers” di Ludlow, dove i letti sono fatti di legno autentico e le camere sono dotate di tende; un luogo in cui si può trascorrere metà della notte in compagnia dei cittadini, brindando al successo delle loro macchine e alla spegnimento di tutti gli incendi. Nel West [[England|Inghilterra]], infatti, ci sono tre piccoli ostelli situati in tre piccole città, tutti allineati e tutti che iniziano con la lettera “L”: Ledbury, Ludlow e Leominster. Tutti chiamati “Feathers”, tutti circondati da orti. E non riesco proprio a decidere quale sia il migliore.
+
+Allora il mio libro guida continuerà parlando dei porti; dimostrerà come quasi tutti i porti siano impossibili da raggiungere con una piccola barca; descriverà però le difficoltà di ciascuno di essi, in modo che un uomo su una piccola imbarcazione possa comunque tentare di superarle. Descriverà l’impetuoso flusso della marea fuori da Margate e quello ancora più pericoloso fuori da Shoreham, il pericoloso banco di sabbia di Littlehampton che si estende nel mare, il luogo giusto in cui attraccare a Newhaven, e come evitare di incagliarsi nei fondali rocciosi fuori da Harwich; parlerà anche dell’ingresso molto tortuoso di Poole, del lungo canale che conduce a Christchurch passando per Hengistbury Head, delle enormi maree del Galles del Sud, del motivo per cui spesso si è costretti ad attraccare sulla riva a Britonferry, della terribile difficoltà di ancorarsi a Great Yarmouth, dei cambiamenti drammatici che ha subito Little Yarmouth nel corso del tempo, e dell’unica boa nera di Calais, troppo lontana dal porto per essere davvero utile; inoltre fornirà indicazioni precise su come raggiungere Orford Haven, soprattutto durante la marea alta, se si ha fortuna; altrimenti si rischia di incagliarsi sui ciottoli e di essere distrutti dalle onde. E ancora: cose che nessun libro finora ha mai fornito.
+
+Poi il mio libro di viaggio proseguiva spiegando come rendere gli uomini piacevoli da avere intorno in base al loro clima e alla loro regione; come non affrettarsi con la gente dell’Aragona, e come sia nostro dovere trattare con gentilezza quella della Catalogna; come sia impossibile mangiare a Daroca; e quanto si debba stare attenti agli uomini cupi che gestiscono ostelli in cima alle valli, soprattutto se sono silenziosi. E anche come non si debba parlare di religione una volta superata la frontiera scozzese, con alcune osservazioni su Jedburgh e sulle terribili cose che accadettero a un uomo lì che continuò a discutere di religione nonostante fosse stato chiaramente avvertito.
+
+Poi il mio libro di viaggio proseguiva spiegando come si dovrebbero scalare le montagne ordinarie e perché sia meglio evitare imprese troppo rischiose; inoltre, descriveva anche come “perdere” un guida, il che è un’arte davvero molto utile, visto che in quel caso non è necessario pagarlo. Il mio libro includerà anche una nota (che difficilmente merita un intero capitolo) sul metodo corretto per spaventare i cani da pastore quando cercano di ucciderti con i loro denti, su quelle eterne colline.
+
+Questo mio nuovo e utile guida-book (oh, come prende vita nella mia mente mentre lo scrivo!) descriverà in dettaglio quali treni vanno dove, come si possa superare al meglio la noia del viaggio e quali siano quelli che viaggiano davvero velocemente; inoltre, includerò una nota a piè di pagina che elencherà quelle linee di piroscafi su cui si può viaggiare gratuitamente, basta essere abbastanza decisi nel chiederlo.
+
+Il mio libro di viaggio avrebbe contenuto indicazioni per placare gli arabi, un trucco che ho imparato da un maestro del passato, poco a est di Batna nel 1905. Spiegherei anche come si possa conoscere l’ora osservando le stelle e l’ombra del sole; quali tipi di cibo permettano di sopravvivere più a lungo e come trasportarli al meglio; inoltre, quali riti possano placare quelle fate semi-malvagie che infestano gli uomini quando si perdono in valli solitarie, proprio sotto le alte cime del mondo. E il mio libro avrebbe anche un intero capitolo dedicato a Odisseo.
+
+Dovete sapere che un giorno arrivai a Narbona, dove non ero mai stato prima, e vidi scritto in grandi lettere su una casa grande e brutta:
+
 
 
 <span class="atom-split" data-atom="story_11_ulysses" data-title="On Something — ULYSSES," data-chapter="ULYSSES" data-kind="story" data-tags="motif/the_inn_tavern,concept/wit,form/sketch,character/ulysses"></span>
@@ -2664,6 +3296,18 @@ This tale is true, as would be every other tale in my book.
 
 What a fine book it will be!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ulisse
+
+Alloggio per uomini e bestie.
+
+Entrai e vidi il padrone di casa, che aveva la testa rotonda e i capelli tagliati corti; gli dissi: “Ma cosa! Allora sei finalmente arrivato, dopo tutti questi viaggi. E ti trovo finalmente, tu di cui ho letto tanto ma visto così poco, ” Ma lui, giurando, rifiutò di offrirmi ospitalità.
+
+Questa storia è vera, proprio come tutte le altre storie presenti nel mio libro.
+
+Che bel libro diventerà!
 
 
 
@@ -2789,6 +3433,126 @@ He spoke it with a failing zest,
 And having spoken it, he died.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La morte di Peter Vagabondo
+
+“Confesserò e non negherò,” disse il Pellegrino Pietro (di cui avete sentito poco, ma che nel momento giusto di Dio ne sentirete ancora di più). “Confesserò e non negherò che il principale piacere che conosco è la contemplazione dei miei simili.”
+
+Parlò così nel suo letto, nell'ostello di un villaggio sulle rive del [[River|Fiume]] Yonne, oltre Auxerre; giaceva lì morente, ma nonostante stesse per morire, aveva ancora molto da dire.
+
+“Che energia! Che astuzia! Che desiderio! Spesso mi sono trovato sul bordo di luoghi scoscesi, come caverne di gesso o scogliere sopra le pianure, e li ho osservati laggiù sotto: correre avanti e indietro, muoversi in fretta, organizzarsi, dirigere i loro sforzi. E per Dio, ero orgoglioso di essere uno di loro! Mi sono detto,” disse il Vagabondo Pietro, “alza il cuore: anche tu sei uno di loro! Perché sebbene io sia un uomo errante e solitario, destinato alle colline e ai luoghi desolati, mi glorio dei lavoratori della pianura, proprio come un povero uomo si gloria del proprio nobile lignaggio. Da loro sono venuto; a loro vorrei tornare nella mia vecchiaia.”
+
+All'udire queste parole, le persone intorno al suo letto iniziarono a piangere, pensando che lui non avrebbe mai più vagabondato. Ma Peter Wanderwide continuò con il cuore pieno di speranza.
+
+“Che piacere vederli lavorare la terra! Prima escogitano con astuzia un sistema per spostare il terreno e gettarlo in aria; poi, poiché sono troppo deboli per tirare da soli, utilizzano grandi animali – buoi, cavalli o persino elefanti – e li sottomettono al proprio volere, affinché pazientemente trascinino quegli strumenti attraverso i cumuli di terra. Strappano via le erbacce e creano solchi, trasformando così il suolo. Niente può resistere loro. Pensereste che gli uccelli possano sfuggire volando in cielo, ma è un errore: anche sugli uccelli il mio popolo impone la propria volontà. Stendono reti, mettono cibo e esche, usano trappole e calce. Lanciano pietre, frecce e proiettili contro di loro; costringono alcuni animali, con una disciplina severa, a vivere vicino a loro, a deporre uova e ad essere uccisi a piacimento. Gli esempi sono le galline, le oche, i tacchini, le anatre e le fagiane. Niente sfugge alla pianificazione meticolosa dell’uomo.”
+
+“Inoltre, sanno costruire. Non lo fanno in un modo o nell’altro, perché una noiosa necessità li costringesse a farlo, ma perché ne hanno voglia! Tagliano il legno, lo intagliano (e che meraviglia è l’uso della sega!), preparano la malta e la sabbia, scavano nelle pendici delle colline. Oh, quei bravi ragazzi! A seconda del loro umore, possono costruire le tue stanze, la prigione di Tower, la nuova villa di mia zia a Wimbledon (che è davvero una loro follia), la stazione di St. Pancras, il Crystal Palace, la Westminster Abbey, St. Paul’s, o anche il Bon Secours. Sono capaci di adattarsi a qualsiasi cambiamento possa avvenire nel mondo. Se soffia il vento in stile gotico, loro dicono ‘Certamente’ – ed ecco che nasce il gotico, qualcosa che prima era solo un sogno. Se poi il vento cambia direzione e arriva dal Mediterraneo, loro sono pronti ad affrontare anche questo cambiamento: sorgono allora l’Amboise, l’Anet, il Louvre, e tutto ciò che rappresenta il Rinascimento. Costruiscono in qualsiasi modo, come se fossero furiosi di vedere quanto siano capaci. Non gli importa nulla! Realizzano la Torre Eiffel, la casa della Regina Anna, case in stile moderno, il Carlton, il Ritz, il Grand Palais. Non possono essere sconfitti: hanno certezze immortali.”
+
+“Hai mai considerato le loro linee, i loro disegni e i loro astuti piani?” disse Peter Vagabondo. “Sono davvero sorprendenti! Metti un po’ di carbone nella bocca del mio cane o nel palmo della mano della mia scimmia domestica, riuscirebbe a riprodurre il mondo? No! Ma gli uomini, i miei fratelli, prendono tutto questo in mano e ne fanno strumento per combattere contro le forze silenziose della natura; gli alberi e le colline esistono grazie alla loro capacità di rappresentarli, e i luoghi in cui vivono diventano pieni del loro spirito. La natura stessa viene plasmata attraverso il loro operato, perché in tutto ciò che disegnano, dipingono o scolpiscono, sono in contatto con il cielo e con l’inferno. Scrivono, (Dio mio! L’intelligenza degli uomini, e Dio mio! La bellezza delle donne). Scrivono cose inimmaginabili!”
+
+“Scrivono epopee, scrivono testi di canzoni, scrivono enigmi, inni militari, canzoni da bere, discorsi retorici, cronache, elegie e ricordi malinconici; e in tutto ciò che scrivono rivelano cose più grandi di quelle che conoscono. Sono capaci,” disse Peter Wanderwide, nel suo entusiasmo morente, “di scrivere in modo tale che il pensiero, attraverso le loro parole, si ampli e diventi molto di più di ciò che hanno scritto. Scrivono quel tipo di poesia chiamata ‘Stop-Short’, la quale, quando viene scritta, induce a riflettere con maggiore intensità che mai, come se fosse un’introduzione ai regni dell’anima. E poi ancora scrivono cose che si prendono gioco dolcemente di sé stessi e rappresentano una consolazione contro la minaccia della morte.”
+
+Ma quando Peter Wanderwide pronunciò quella parola “morte”, i lamenti e gli strilli di tutta la gente radunata intorno al suo letto divennero così forti che lui a malapena riusciva a sentire i propri pensieri. Erano presenti il Sindaco del villaggio, il Prete del villaggio, la moglie del Sindaco, l’Assistente del Sindaco o il Vicesindaco, i consiglieri del villaggio, il manutentore delle strade, l’insegnante, il calzolaio e tutte le altre persone importanti del villaggio; nessuno mancava, tranne il Dottore.
+
+E fuori dalla casa c'era una grande folla di abitanti del villaggio, che piangevano amaramente e chiedevano notizie su di lui, lamentandosi che un uomo così grande e buono dovesse perdere la vita in un luogo così piccolo.
+
+Peter Wanderwide stava affondando molto velocemente; la sua vita se ne andava insieme al suo respiro, ma il suo spirito era ancora così forte che continuò a lottare, anche se la sua voce stava per spegnersi.
+
+“Guardate, o buoni gente: nel vostro breve viaggio attraverso la luce del giorno, cercate di vedere quante più colline, edifici, fiumi, campi, libri, uomini, cavalli, navi e pietre preziose possiate. Altrimenti restate in un solo villaggio, sposatevi lì e moriteci. Perché uno di questi due destini è il migliore per ogni uomo: o essere come sono stato io, un viandante costretto a sopportare tutte le amarezze della vita, oppure rimanere a [[Home|>casa]] e ascoltare nel proprio giardino la voce di Dio.”
+
+“Per quanto mi riguarda, ho seguito il corso del mio destino. E nonostante le mie numerose ingiustizie, ricordando le molte gioie vissute nelle glorie di questa terra, propongo di lasciarmi portare dal vento nel mare del nulla, fino a raggiungere i regni dei Beati e di coloro il cui cuore è puro.”
+
+“Perché penso che quando morirò, Dio Onnipotente mi ricorderà per il mio abbigliamento, per le mie cinghie da sella e per le cose di cui parlerò riguardo all’Irlanda e al Perigord, nonché per la mia barca nei mari stretti; e penso che chiederà a San Michele, che è il segretario e registratore degli uomini valorosi, chi sia quest’uomo pronto a parlare di tante cose (a meno che i suoi occhi lo tradiscano). Allora San Michele dimenticherà il mio nome, anche se conoscerà il mio volto; dimenticherà il mio nome perché non sono mai rimasto abbastanza a lungo in un posto da farglielo ricordare.”
+
+“Ma San Pietro, poiché è il mio Santo Protettore e perché ho sempre nutrito per lui una devozione particolare, risponderà al posto mio senza alcuna obiezione, poiché egli possiede le chiavi del Cielo. Aprirà la porta e io entrerò. E quando sarò all’interno di quel regno celeste, crescerò liberamente quelle ali che, fin dalla mia nascita, hanno causato me tanta sofferenza, soprattutto a partire dai trent’anni. Dico, amici miei, che crescerò un paio di ali davvero soddisfacente e utile. E una volta dotato di esse, sarò accolto tra i Beati e inizierò immediatamente a raccontare loro, proprio come vi ho detto sulla terra, ogni sorta di cose: sia false che vere, riguardo ai paesi attraverso cui ho viaggiato e nei quali ho trovato tanta realizzazione per i miei desideri.”
+
+Quando Peter Wanderwide ebbe espresso queste parole, con grande dignità e passione per uno che si trovava in una situazione così estrema, fece un respiro affannoso, tossì e morì.
+
+Non è necessario che vi dica quali solennità accompagnarono la sua sepoltura, né con quanta fervore la gente si radunò per pregare presso la sua tomba; ma vale la pena sapere che il poeta di quella regione, che era un rivale del principale poeta di Auxerre stesso, raccolse la storia della sua morte in una poesia scritta nel dialetto di quella valle; questa poesia è ora tradotta in inglese.
+
+# Quando Peter Wanderwide era giovane
+
+# Vagabondò ovunque volesse.
+
+E tutto ciò che egli approvava veniva cantato.
+
+E la maggior parte di ciò che vide era bello.
+
+# Quando Peter Wanderwide fu gettato via
+
+# Oltre Auxerre, per mano della morte stessa
+
+# Cantava con tono eroico
+
+A sacerdote e alla gente radunata lì:
+
+“Se tutto ciò che ho amato e visto…”
+
+# Con me il Giorno del Giudizio
+
+#Salvato tra la folla
+
+Dai demoni e dalle loro schiere malvagie.
+
+“Dio Onnipotente sicuramente piangerà”
+
+“San Michele! Chi è quest’uomo che sta lì…”
+
+Con l’Irlanda nello sguardo scettico…
+
+E il Perigord tra le sue mani
+
+"#Sulle sue braccia i lacci delle staffe..."
+
+# E nel suo passo, i mari stretti…
+
+E dalle sue labbra escono canzoni del Borgogna…
+
+Ma nel suo cuore… i Pirenei?
+
+“Allora San Michele risponderà correttamente”
+
+# Con un senso di vergogna angelica:
+
+“Sembra che riconosca il suo volto a prima vista…”
+
+Non riesco a ricordarmi il suo nome…
+
+“Allora San Pietro mi sarà amico…”
+
+#Perché anch’io mi chiamo Peter
+
+“Lo conosco come una delle migliori persone.”
+
+Quella birra di orzo davvero eccezionale.
+
+“E sebbene non lo conoscessi bene…”
+
+E sebbene la sua anima fosse intrisa di peccato…
+
+Ho in mio possesso le chiavi del Cielo e dell’Inferno.
+
+Benvenuto, nobile Peterkin.
+
+#Allora spiegherò le ali della mia patria
+
+#Cammina con sicurezza sul pavimento celeste
+
+# E racconta alle Beate cose incerte…
+
+“Di Val d’Aran e Perigord”.
+
+* * * * *
+
+# L’ultima e solenne battuta
+
+# Di Peter Wanderwide, stanco e solitario
+
+Lo disse con un entusiasmo che andava affievolendosi.
+
+E dopo averlo detto, morì.
+
 
 
 <span class="atom-split" data-atom="story_13_the_tree_of_knowledge" data-title="On Something — THE TREE OF KNOWLEDGE" data-chapter="THE TREE OF KNOWLEDGE" data-kind="story" data-tags="motif/grave,concept/critique_of_progress,concept/tradition,concept/doubt,concept/rationalism,form/satire,form/fable"></span>
@@ -2824,6 +3588,38 @@ While the Archon and his great-aunt were rowing out in the little boat a few dod
 
 Judge of their horror when, as they neared the city, they saw from the height whereon the temple stood that the invaders had landed, and, having put to the sword all the inhabitants without exception, were proceeding to make an inventory of the goods and to settle the place as conquerors. The admiral summoned this remnant of the nation, and hearing what they had to say treated them with the greatest courtesy and kindness and pensioned them off for their remaining years, during which period they so instructed him and his fighting men in the mysteries of their religion as quite to convert them, and in a sense to found the Nepioian State over again; but it should be mentioned that the admiral, by way of precaution, changed that part of the religion which related to the tomb of Melek and situated the shrine in the very centre of the crater of an active volcano in the neighbourhood, which by night and day, at every season of the year, belched forth molten rock so that none could approach it within fifteen miles.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# L’albero della conoscenza
+
+La nazione conosciuta dalla storia come Nephalo Ceclumenazenoi, o più brevemente Nepioi, abitava una regione fertile e prospera che comprendeva una parte del continente e alcune isole situate nel Mare Picrocholiano; per innumerevoli secoli vi aveva goduto di un particolare tipo di governo che non è difficile descrivere, poiché si basava su principi religiosi e sul divieto di modificare qualsiasi usanza antica.
+
+Per evitare che tali cambiamenti potessero verificarsi con il passare del tempo o a causa delle cattive passioni umane, i cittadini della suddetta nazione li incisero in modo molto chiaro su tavole di bronzo e in una lingua morta, che fissarono alle porte del loro principale tempio, situato su una collina fuori dalla città. Era loro abitudine lodevole affidare l’interpretazione di tali leggi non a giudici anziani, ma a bambini piccoli; infatti ritenevano che con gli anni aumentasse la malvagità umana e che nessuno fosse al sicuro dagli anziani, tranne i bambini, unici tra le specie dotate del linguaggio a dire sempre la verità. Pertanto, il primo giorno dell’anno (che in quel paese coincideva con il periodo della semina), sceglievano a sorte cento ragazzi di dieci anni; questi, dopo aver ricevuto per un anno insegnamenti sulla loro lingua sacra, dovevano ciascuno tradurre in vernacolo locale i testi incisi sulle tavole di bronzo. Si constatava sempre che queste traduzioni, pur essendo semplici, variavano in base alle capacità dei ragazzi nel interpretare il testo originale; una notevole parte di esse riusciva comunque a trasmettere con precisione il significato di quelle antiche leggi. Inoltre, esisteva un magistrato chiamato Arconte il cui compito era far rispettare queste usanze e punire coloro che le violavano. Quando l’Arconte proponeva qualcosa che contraddiceva le tradizioni, veniva giudicato da una corte composta interamente da bambini.
+
+In questo modo, per migliaia di anni, i Nepioi continuarono a condurre le loro vite tranquille e ordinarie, godendosi la vita come tanti altri individui, completamente indifferenti alle lotte e alle fantasie politiche che disturbavano i loro vicini.
+
+C'era una leggenda tra di loro (su cui si basava l'intera Costituzione) secondo cui un certo Eroe, di nome Melek, alto dodici piedi e con un giro toracico di almeno 93 pollici, era atterrato nel loro paese 150.000 anni prima. Vedendoli estremamente barbari, intenti a uccidersi a vicenda e ignari dell'uso delle lettere, dei metalli preziosi o dell'arte dell'usura, li aveva istruiti sulla civiltà, dotandoli di lettere, moneta, polizia, avvocati, strumenti di tortura e tutti gli altri elementi necessari per formare uno Stato grande. Infine, aveva redatto per loro questo codice di leggi o di usanze, che veniva gelosamente conservato inciso su tavole di bronzo e esposto sulle pareti del loro principale tempio, situato sulla collina fuori dalla città.
+
+All’interno del tempio stesso, il suo grande santuario e, per così dire, la ragione stessa della sua esistenza, era la tomba dell’Eroe. Vi giaceva coperto di lastre d’oro, e si affermava con certezza, e ci si credeva fermamente e senza dubbi, che in un futuro ignoto egli sarebbe risorto per governarli per sempre in modo millenario, anche se, chissà, loro erano già abbastanza felici così com’erano.
+
+Tra le loro usanze c'era questa: che certi ufficiali designati, ad ogni cambiamento di luna, proclamassero l'esistenza e la virtù di Melek, la sua dimora nella tomba e i suoi diritti all'autorità. Entrare effettivamente nella tomba significava morire, ma esistevano prove di tutta questa storia in documenti che venivano attentamente conservati nel tempio e che venivano consultati e verificati di tanto in tanto. L'intera struttura della società nepioniana si basava sulla sacralità di questa storia, sulla presenza dell’Eroe nella sua tomba e sul suo continuo potere; anzi, proprio su questo si fondava la ulteriore sacralità delle loro usanze.
+
+Tutto procedeva senza incidenti o problemi, fino a quando, in un giorno particolarmente sfortunato, un certo uomo di nome comune Megalocrates – il cui nome indica una persona la cui salute richiede l’uso di un cappello largo e protettivo – scoprì che una certa erba, che cresceva in abbondanza nel loro territorio e che fino ad allora era considerata inutile, poteva essere utilizzata per quasi tutti gli scopi culinari. A seconda del modo in cui veniva preparata, quella stessa erba poteva sostituire la carne, il pane, le verdure e il sale; inoltre, se distillata correttamente, produceva un liquore capace di far ubriacare gli abitanti del luogo ancora di più dei loro alcolici tradizionali.
+
+A seguito di questa scoperta, si verificò una grande abbondanza in tutto il paese; la popolazione aumentò molto rapidamente, la ricchezza dei ricchi raddoppiò, triplicò e quadruplicò rispetto a quanto era stato conosciuto in precedenza. Le classi medie assunsero un modo di parlare e un passo fino ad allora insoliti, mentre un gran numero di poveri imparò a sopravvivere con una quantità estremamente ridotta di aria viziata, luce fioca, acqua stagnante e cibo putrido – cose che avrebbero sorpreso i loro antenati più raffinati. Nel frattempo, questo periodo di grande progresso portò inevitabilmente a ulteriori scoperte: i Nepioi crearono presto interi istituti in cui si studiavano arti utili all’umanità e continuarono a scoprire sempre più cose sorprendenti e utili. Alla fine, i Nepioi (sebbene questo forse sia difficile da credere) divennero capaci di viaggiare sottoterra, volare nell’aria, comunicare con persone che si trovavano a migliaia di chilometri di distanza in un istante, e commettere suicidio senza dolore ogni volta che ne fosse necessario.
+
+Si può immaginare con quale reverenza venissero considerati gli autori di tutti questi benefici, i membri delle accademie erudite; e come le loro opinioni avessero, agli occhi e alle orecchie dei Nepioi, un carattere incontestabile.
+
+Accadde che in uno di questi college un professore di posizione particolarmente elevata espresse un giorno l’opinione secondo cui Melek fosse vissuto soltanto la metà del tempo che comunemente si riteneva. A sostegno di questa tesi addusse il fatto indiscutibile che, se Melek fosse realmente esistito nel periodo in cui si supponeva che vivesse, allora avrebbe vissuto il doppio del tempo che quel professore affermava fosse trascorso dalla sua nascita. Gli elementi più conservatori e ignoranti tra i presenti mormorarono contro tale opinione; pur ammettendo umilmente di non riuscire a individuare alcuna fallacia nella logica del professore, erano convinti che in qualche modo si sbagliasse e ne erano profondamente turbati. Tuttavia, questa teoria prese piede, e anzi, grazie alla sua originalità e intelligenza, generò una serie di altre ipotesi su Melek, ciascuna delle quali contraddiceva la precedente; l’ultima di queste ipotesi risultava così chiara e ovvia da essere accettata da tutti coloro che possedevano un minimo di intelligenza e energia, soprattutto dalle giovani donne single appartenenti alle classi più agiate. In questo modo, il periodo in cui Melek avrebbe vissuto fu ridotto progressivamente a cinquecento anni, poi a trecento, quindi a duecento, infine a mille anni. Poi a cinquecento anni, e infine a centocinquanta anni. Ma qui sorse un problema: i documenti ufficiali, conservati con cura per secoli, non riportavano alcuna traccia della presenza di Melek in quei periodi; anzi, lo descrivevano sempre come un antenato lontano nel tempo. Non esisteva nemmeno menzione di un uomo alto dodici piedi, né tantomeno di uno con una circonferenza toracica superiore ai 93 pollici. Alla fine, un individuo molto coraggioso propose che gli fosse permesso di aprire la tomba di Melek; in caso contrario, sarebbe stato pronto a morire. Questo privilegio gli fu prontamente concesso dall’Arconte. Il nobile riformatore aprì quindi il sepolcro sacro, ma al suo interno non trovò assolutamente nulla.
+
+A seguito di ciò, tra i Nepioi sorse ogni sorta di dibattiti e opinioni divergenti; alcuni sostenevano una cosa, altri un'altra, ma nessuno con la certezza di un tempo. Le loro usanze iniziarono a perdere credibilità, e persino gli stessi insegnanti venivano talvolta messi in dubbio quando stabilivano regole su questioni di cui erano gli unici esperti: ad esempio, quando affermavano che la luna fosse fatta di una sostanza commestibile particolarmente deliziosa il cui sapore migliorava se conservata nelle dispensa delle casalinghe; o quando sostenevano con apparente sincerità che nessun uomo compisse mai atti malvagi, e che omicidi volontari, incendi dolosi, crudeltà verso gli innocenti e i deboli, nonché frodi deliberate, non avessero alcun effetto negativo sullo stato generale né sugli individui, tanto quanto bere una tazza d’acqua fredda.
+
+So che le cose continuarono così fino a quando, un giorno, quando tutte le usanze e l’autorità erano cadute in questa davvero deplorevole decadenza, si notarono flotte in mare, composte da uomini armati; l’ammiraglio di una di queste flotte inviò un breve messaggio all’Arconte proponendo che il popolo del paese gli inviasse per sempre metà della propria ricchezza annuale, “altrimenti”, proseguiva il messaggio, “si sarebbero dovute affrontare le conseguenze”. Quando l’Arconte comunicò questo ai suoi sudditi, scaturì immediatamente un’infinità di discussioni: alcuni suggerivano di pagare i selvaggi vicini perché venissero ad combattere gli invasori, altri pensavano che fosse più conveniente accordarsi pagando una grossa somma; la maggior parte, però, era d’accordo sul fatto che l’azione più saggia fosse che l’Arconte e sua zia andassero sulla flotta su una piccola barca e persuadessero l’ammiraglio nemico (cosa che sicuramente avrebbero potuto fare facilmente) che, sebbene la maggior parte delle azioni umane fossero di responsabilità dubbia e non davvero malvagie, l’invasione, e soprattutto l’appauramento dei Nepioi, rappresentava un crimine così orribile da attirare su chi lo commetteva le fiamme del cielo.
+
+Mentre l’Arconte e sua prozia remavano nella piccola barca, alcuni vecchi tremolanti e donne superstiziose si allontanarono di nascosto per consultare le tavole di bronzo, dove trovarono, sotto la Sezione XII, queste parole: “Se un nemico minaccia lo Stato, dovete armarvi e respingerlo.” Nella loro superstizione, quei poveri vecchi, accompagnati dalle loro devote donne semi-stupide, tornarono tra la folla per convincerla ad abbracciare qualche forma di fanatismo ridicolo, basato su un’autorità inesistente come quella del non mai esistito Melek e delle sue assurde affermazioni.
+
+Immaginate il loro orrore quando, avvicinandosi alla città, videro dal luogo in cui sorgeva il tempio che gli invasori erano già sbarcati e avevano ucciso senza eccezione tutti gli abitanti, per poi procedere all’inventario dei beni e stabilirsi nel luogo come conquistatori. L’ammiraglio radunò questi superstiti della nazione; dopo aver ascoltato ciò che avevano da dire, li trattò con la massima cortesia e gentilezza, fornendogli una pensione per il resto dei loro giorni. Durante quel periodo, essi insegnarono all’ammiraglio e ai suoi soldati i misteri della loro religione, riuscendo addirittura a convertirli completamente; in un certo senso, fu come se avessero ricostruito lo Stato di Nepio. Va però detto che, per precauzione, l’ammiraglio modificò quella parte della religione relativa alla tomba di Melek, spostando il santuario proprio al centro del cratere di un vulcano attivo nelle vicinanze: questo vulcano, giorno e notte, in tutte le stagioni dell’anno, eruttava roccia fusa, rendendo impossibile avvicinarsi a meno di quindici miglia dal luogo.
 
 
 
@@ -2887,6 +3683,64 @@ He ends his book in a phrase from which I think not a word could be taken nor to
 “The reader, I trust, will excuse my having so often departed from the line of my profession in giving my opinion on subjects that are not military” (for instance, his objections to the head-cutting business), “but having had occasion to know the people of France I freely venture to submit my judgments to the public and have the satisfaction to find that they coincide with the opinion of those who know that extraordinary nation still better than myself.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un uomo del Norfolk
+
+Tra i piaceri dello studio storico – che lo rendono stranamente simile al viaggio e quindi estremamente attraente per coloro che non possono permetterselo – c’è l’elemento della scoperta e della sorpresa, soprattutto nei piccoli dettagli.
+
+Quando si viaggia e si percorrono strade mai battute prima, spesso si incontrano cose strane, di cui non si sarebbe mai immaginato l’esistenza: ad esempio, una volta mi trovavo in una stanza di una piccola casa nel sud e pensavo che ci dovesse essere qualche macchinario da qualche parte, a causa del rumore che sentivo; fino a quando un uomo nella casa sollevò silenziosamente una botola sul pavimento, e lì, che scorreva sotto e attraverso tutta la casa molto più in basso, c’era un [[River|fiume]]: il [[River|Fiume]] Garonna.
+
+È lo stesso anche nello studio storico. Si scoprono cose straordinarie: piccole cose, ma la cui inaspettatità è enorme. L’altro giorno ne ho avuto un esempio mentre cercavo alcuni ultimi dettagli per chiarire meglio la questione di Valmy.
+
+La maggior parte delle persone ha sentito parlare della Rivoluzione Francese, e molte conoscono anche la battaglia di Valmy, che determinò il primo destino di quel movimento quando fu per la prima volta minacciato dalla guerra. Tuttavia, pochissime persone hanno effettivamente letto qualcosa su Valmy; quindi è necessario fornire alcune informazioni su quell’evento per comprendere ciò che è davvero straordinario e legato a esso, di cui sto per parlare.
+
+La cannoneggiata di Valmy ebbe luogo tra un esercito francese schierato con le spalle rivolte verso una serie di colline e un esercito prussiano situato a circa un miglio di distanza, di fronte a loro. Era come se l’esercito francese si estendesse da Leatherhead fino a Epsom e fosse impegnato in uno scontro con l’esercito prussiano, che si trovava in una posizione strategica lungo la strada per Kingston.
+
+In questa catena di colline alle spalle dell’esercito francese esisteva un varco, proprio come ce n’era uno dietro Leatherhead. Non solo quel varco era facilmente percorribile da un esercito – almeno rispetto alle zone montuose su entrambi i lati – ma attraverso di esso passava anche la principale strada che collega Metz a Parigi, il che rendeva possibile un avanzamento rapido e agevole.
+
+Accadde che un'altra forza nemica, oltre a quella che bombardava i francesi di fronte, stesse avanzando attraverso questa breccia da dietro; è evidente che se questa seconda forza nemica fosse riuscita a superare la breccia, tutto sarebbe finito per i francesi. Dumouriez, che comandava le truppe francesi, se ne rese ben conto; aveva ordinato di fortificare saldamente quella breccia e di dotarla di un’adeguata artiglieria, inoltre vi era stato istituito un campo militare composto principalmente da volontari e irregolari. Dalla corretta gestione di quel presidio dipendeva tutto. E qui arriva la parte divertente: il comandante di quel presidio non era affatto ciò che si potrebbe aspettare, cioè un francese tipico dei vari gruppi sociali con cui la Rivoluzione ci ha reso familiari; al contrario, si trattava di un anziano gentiluomo del Norfolk.
+
+Si chiamava Money. Quello che si sa di lui è abbastanza interessante. Le sue stesse parole lo dimostrano come la persona descritta in quella canzone: “un uomo molto onesto”. Fortunatamente per noi, ha lasciato in un libro un resoconto dei giorni trascorsi (e delle azioni successive), caratterizzato vividamente dal suo stesso modo di essere. John Money, chiamato dai suoi vicini “Generale John Money”, non come ci si potrebbe aspettare. Un uomo devoto alla nobile professione delle armi, ma anche posseduto da una passione profonda per il pallone aerostatico.
+
+Trovo difficile credere che abbia iniziato a combattere all’età di nove anni, o che abbia ricevuto il comando come cornetto dal re Giorgio all’età di dieci anni. Né lui stesso né i suoi amici ce lo dicono; questa ipotesi proviene dalle nostre università, e merita certamente considerazione. Aggiungendo altri dieci anni, si arriva probabilmente più vicini alla verità. Comunque sia, nel 1761 era già sotto il fuoco nemico e nel 1762 era cornetto nei Dragoni di Inniskilling, con un incarico ufficiale datato 11 marzo dello stesso anno. In seguito divenne fante ordinario, ottenne la sua compagnia nell’9° Reggimento di Fanteria otto anni dopo; e ancora otto anni più tardi, all’inizio della guerra d’America, era già maggiore. Servì come quartiermastro generale sotto Burgoyne, fu catturato – credo a Saratoga, comunque durante quella disastrosa offensiva verso la valle dell’Hudson – e ottenne il grado di tenente colonnello verso la fine della guerra. Si congedò dall’esercito e non prestò più servizio attivo. Quando i Paesi Bassi si ribellarono contro l’Austria, offrì i suoi servizi agli insorti e fu accettato; ma il vero capitolo avventuroso della sua vita iniziò quando propose al governo francese di essere il comandante di una brigata all’inizio della grande guerra contro l’Impero e la Prussia.
+
+Con grande bellezza, nel suo prefazione ci spiega cosa lo ha spinto ad agire in quel modo. “Il Colonnello Money”, dice, usando la tranquilla terza persona tipica di un gentiluomo del Norfolk rispettabile di sé stesso, “non intende fornire alcun altro motivo per il suo servizio nelle armate francesi se non che ama la sua professione e vi è andato soltanto per migliorarvi”. Parole pronunciate come quelle di Othello!
+
+Del resto, dedica il libro al Marchese Townshend, aggiungendo con cura di non aver ricevuto il permesso di dedicarlo a quel nobile illustre; anzi, teme che nemmeno chiedendolo lo otterrebbe. Ma Lord Townshend è un soldato così eccezionale che il Colonnello Money è sicuro che desidererà assolutamente conoscere tutti i dettagli della guerra. Per questo motivo ha fatto stampare il libro da E. Harlow, libraio di Sua Maestà, a Pall Mall.
+
+Prima di iniziare il suo racconto, quel bravo uomo dice con tristezza che, poiché poco tempo prima non c'era stata alcuna guerra e apparentemente non sembrava esserci alcuna probabilità che ne scoppiasse una, “il Colonnello Money aveva un tempo intenzione di servire i Turchi”; da questa orribile sorte, una provvidenza cristiana lo salvò, mandandolo a difendere la Gallia.
+
+La sua commissione era datata al 19 luglio 1792; “Maresciallo dei Campi”, il che, di fatto, equivaleva a generale di brigata. Ne è molto orgoglioso e la riporta integralmente. La frase finale recita: “Rilasciato nell’anno della Grazia 1792 del nostro Regno, il 19° giorno del mese di Luglio e il 4° giorno del mese di Libertà. Luigi.” Questa espressione, unita alla firma e alla data, non è priva di ironia.
+
+Il colonnello Money non riusciva mai ad accettare certi tratti del popolo francese.
+
+Prima di lasciare Parigi per assumere il suo incarico al confine, fu testimone dei combattimenti quando il Palazzo fu assaltato dalla folla; è lui la nostra fonte ufficiale riguardo al fatto che il 5° Battaglione dei Volontari di Parigi, stazionato ai Champs-Élysées, abbia contribuito al massacro della Guardia Svizzera.
+
+“Il tenente colonnello di questo battaglione,” scrive l’onesto John Money, “che fu sotto il mio comando per una parte della campagna, mi raccontò le circostanze di questo omicidio, e apparentemente con piacere. Disse: ‘Quegli sfortunati uomini implorarono pietà, ma, ’ aggiunse, ‘non abbiamo tenuto conto delle loro suppliche. Li abbiamo uccisi tutti, e i nostri soldati hanno tagliato via la maggior parte delle loro teste e le hanno fissate sulle baionette.’”
+
+Il Colonnello, o meglio il Generale Money all’epoca, non approva questa decisione.
+
+Disapprova anche dell’ufficiale al comando della nave “Marseillese”, definendolo un “Tigre”. Sembra che quel “Tigre” stesse pranzando con Théroigne de Méricourt e tre gentiluomini inglesi proprio nell’hotel in cui soggiornava Money, e gli viene in mente che potrebbero essere entrati dall’albergo accanto, dove si svolgevano le loro feste ubriache, per trattarlo in modo ostile.
+
+Poi si reca al confine e, dopo molte lamentele riguardo al fatto di non aver ricevuto il comando che gli spettava, si trova a capo di quell’importante posizione militare che fu fondamentale per la salvezza dell’esercito di Valmy.
+
+Dumouriez, che sempre parlava con lui in inglese (poiché all’epoca l’inglese era più diffuso all’estero di quanto non lo sia oggi, almeno tra gli uomini di cultura), aveva un’opinione molto alta di Money; tuttavia deplorava il fatto che i discorsi di Money alle sue truppe fossero formulati “in un gergo che loro nemmeno riuscivano a comprendere”. Money non ci racconta nulla riguardo ai resoconti delle battaglie, ma ci fornisce alcune informazioni molto interessanti che lo rivelano come una persona al contempo energica e estremamente semplice. Lasciò il compito di gestire le artiglierie a Galbaud, osservando che solo un artigliere poteva occuparsi di quel genere di cose. Il che era senz’altro logico; ma delle truppe volontarie, della fanteria e della cavalleria si occupò personalmente. Quando fu lanciata la prima offensiva, ordinò di aprire il fuoco dalle batterie. Proprio mentre stavano sparando a raffica, Dillon – che si trovava a distanza ma era il suo superiore – inviò l’ordine alle batterie di cessare il fuoco. Perché? Nessuno lo sa. Comunque, un ufficiale corse da Money per comunicargli che quelle erano le istruzioni di Dillon. A questo proposito, Money scrive in modo molto affascinante:
+
+“Gli ho detto di tornare e riferire al generale Dillon che ero io il comandante in quella zona, e che nonostante l’attacco nemico con colpi d’artiglieria, avrei continuato a rispondere al fuoco.” Una frase che scalda il cuore. Dopo aver affidato questo messaggio all’ufficiale addetto alle comunicazioni, iniziò a camminare avanti e indietro sul parapetto “per far vedere ai miei uomini che non c’era nulla di cui preoccuparsi riguardo a quel cannoneggiamento”.
+
+Potete, se volete, fare un piccolo ritratto di questa scena nella vostra mente. Una grande moltitudine di volontari: alcuni di loro non avevano mai affrontato il fuoco nemico, gli altri erano fuggiti disperatamente da Verdun pochi giorni prima; uomini che ancora non erano veri soldati e quasi privi di disciplina. Dietro di loro, le batterie bombardavano incessantemente; davanti a loro, un lungo terrapieno sul quale il nemico lanciava enormi proiettili di ferro e granate esplosive. Lungo il bordo di quel terrapieno, un anziano signore del Norfolk, in [[England|Inghilterra]], camminava avanti e indietro senza alcun timore, dando di tanto in tanto ordini al suo “esercito” e insegnandogli a ignorare completamente il pericolo rappresentato dal fuoco nemico.
+
+Aggiunge un altro motivo per cui non ha cessato il fuoco quando gli è stato ordinato: “Senza dubbio, le truppe avrebbero pensato che si trattasse di tradimento, e probabilmente mi avrebbero fatto a pezzi”.
+
+Non capiva cosa fosse accaduto a Valmy, nonostante avesse svolto un ruolo fondamentale nel garantire il successo di quella giornata. Tutto ciò che notò fu che, dopo la cannonata, Kellermann si era ritirato. Montò a cavallo verso St. Ménehould, dove si trovavano i quartier generali di Dumouriez; salì in cima alla torre e osservò con un potente telescopio l’area intorno al campo nemico. A cena scommise cinque a uno che il nemico avrebbe attaccato di nuovo (non lo fece, quindi perse la scommessa, ma non disse nulla riguardo al pagamento), e poi seppe che la Francia era stata dichiarata Repubblica. La sua reazione a questa notizia fu forte, ma enigmatica: “È stato sorprendente”, disse, “vedere l’effetto che questa notizia ebbe sull’esercito”.
+
+Ogni frase rivela la sua personalità: quel carattere acuto ed eccentrico che, subito dopo i Montgolfier, iniziò ad utilizzare gli aerostati e finì per cadere con il proprio nel Mar del Nord; scrisse anche un trattato sull’uso di tali strumenti in guerra, e non era mai felice se non stava facendo qualcosa – preferibilmente impegnato in attività militari. In ogni sua frase si riscontra inoltre quella curiosa schiettezza nel modo di esprimersi che è così vantaggiosa per rendere i ricordi vivaci e interessanti. Ad esempio, riguardo a Gobert, che servì sotto di lui, ha scritto una breve nota a piè di pagina: “Questo sfortunato giovane perse la testa nello stesso momento in cui il generale Dillon fu ferito; era davvero un ragazzo molto simpatico e un ottimo ufficiale.”
+
+Conclude il suo libro con una frase di cui penso che non si possa togliere nemmeno una parola, né aggiungerne una senza rovinarne il significato. La citerò per intero.
+
+“Spero che il lettore mi perdoni se, così spesso, ho deviato dai canoni della mia professione per esprimere le mie opinioni su argomenti non militari” (ad esempio, le sue obiezioni riguardo alla pratica di tagliare i capelli), “ma avendo avuto l’opportunità di conoscere il popolo francese, oso liberamente condividere le mie valutazioni con il pubblico e sono felice di constatare che esse coincidono con quelle di coloro che conoscono quella straordinaria nazione ancora meglio di me.”
+
 
 
 <span class="atom-split" data-atom="story_15_the_odd_people--part_01" data-title="On Something — THE ODD PEOPLE (part 1)" data-chapter="THE ODD PEOPLE" data-kind="excerpt" data-tags="topos/world_upside_down,motif/prison,concept/satire_of_society,concept/class_conflict,concept/justice,concept/crime_and_punishment,concept/social_injustice,form/satire,form/utopian_satire"></span>
@@ -2919,6 +3773,34 @@ Though they are so reasonable, and indeed afford so excellent a model to ourselv
 Thus, in matters which, with us, are thought susceptible of positive proof (such as the taste and quality of cooking, or the mental abilities of a fellow-citizen) the Monomotapans establish their judgment in a transcendental or super-rational manner. The cooking in a restaurant or hotel is with them excellent in proportion, not to the taste of the viands subjected to it, but to the rental of the premises. And when a man desires the most delicious food he does not consider where he has tasted such food in the past, but rather the situation and probable rateable value of the eating-house which will provide him with it. Nay, he is willing — if he understands that that rateable value is high — to pay far more for the same article than he would in a humbler hostelry.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Le persone strane
+
+Il popolo di Monomotapa, di cui ho scritto più volte in passato, l’ho recentemente rivisto; devo ammettere di essere rimasto sorpreso dal modo in cui affrontano con successo le varie difficoltà e problemi che sorgono nella loro vita sociale.
+
+Pertanto, nella maggior parte dei paesi le leggi sulla proprietà sono estremamente complesse; gli atti punibili che vi sono collegati sono numerosi e spesso difficili da definire.
+
+In Monomotapa tutto viene risolto in modo molto semplice: innanzitutto, al posto di leggi rigorose che impongono agli uomini obblighi scritti, si designano alcuni cittadini i quali hanno il potere discrezionale di decidere se le azioni di una persona meritino o meno una punizione; questi cittadini designati hanno anche il diritto di stabilire la pena, che può variare da un giorno di reclusione a una vita intera. Tuttavia, il paese è così privo di crimini che, in una popolazione di oltre trenta milioni di abitanti, sono necessarie meno di venti di queste designazioni; devo comunque ammettere che questo numero viene aumentato da diverse migliaia di giudici minori, nominati in modo diverso.
+
+Il loro metodo di nomina è il seguente: si scopre, con la massima accuratezza possibile, attraverso il modo in cui un uomo si veste, le ore in cui lavora e le dimensioni della casa in cui vive, nonché se possiede un reddito annuo superiore a una certa soglia; chiunque venga scoperto avere un reddito superiore a tale soglia viene immediatamente nominato per l’incarico di cui parlo.
+
+Tuttavia, il potere di questi giudici è limitato: sebbene spetti a loro decidere se i loro concittadini meritino una punizione o meno, la pena massima che possono infliggere è circoscritta a un certo numero di anni di reclusione. In tempi antichi, in Monomotapa questo tipo di giudice minore veniva nominato soltanto se poteva dimostrare di possedere un gran numero di cani per la caccia e almeno tre cavalli. Ma questa sciocca pregiudizio è stata superata con lo sviluppo dell’illuminismo moderno; come ho detto, oggi il giudizio si basa su considerazioni generali riguardanti l’abbigliamento, le dimensioni della casa in cui si vive, il tempo libero a disposizione, il tipo di tabacco fumato e altre indicazioni altrettanto valide per valutare la capacità di una persona di svolgere compiti giudiziari.
+
+Gli uomini così selezionati per giudicare le azioni dei loro concittadini nei tribunali vengono ricompensati in due modi: il primo gruppo di magistrati, i più potenti, riceve un reddito cento volte superiore a quello di un cittadino comune; si sostiene infatti che in questo modo non solo vengano selezionati gli uomini più adatti per tale compito, ma anche che un simile stipendio renda impossibile qualsiasi tentazione di corruzione e garantisca una totale imparzialità tra ricchi e poveri.
+
+D'altra parte, i giudici di rango inferiore non ricevono alcun compenso, poiché è saggiamente sottolineato che una persona che non viene pagata e che offre volontariamente i propri servizi allo Stato non sarà certo il tipo di persona che accetterebbe tangenti o che prenderebbe in considerazione le differenze sociali nel proprio giudizio.
+
+I Monomotapans sottolineano, in modo molto ragionevole, che il tipo di persona disposta a prestare i propri servizi gratuitamente, anche nel compito arduo di imprigionare i propri concittadini, probabilmente è proprio la persona più adatta per quel lavoro, e non ha bisogno di essere allettata dalla promessa di un alto stipendio. In questo modo si ottengono entrambi i tipi di giudici, e, stranamente, ciascun tipo parla, agisce e vive in modo molto simile all’altro.
+
+Devo ora descrivere i metodi con cui queste persone interessanti e sensate raggiungono gli obiettivi del loro sistema criminale.
+
+Quando uno dei loro magistrati arriva alla conclusione che, nel complesso, un suo connazionale debba essere imprigionato, quella persona viene affidata alla custodia di determinati funzionari il cui compito è assicurarsi che l’uomo non muoia durante il periodo in cui gli è stato affidato. Se una delle numerose forme di tortura autorizzate ha come conseguenza la morte del detenuto, il funzionario responsabile viene rimproverato e può persino essere destituito dal suo incarico. Lo scopo principale di tutto questo sistema, infatti, è quello di riformare e correggere il criminale. Per tale motivo, al detenuto viene vietato parlare o comunicare in alcun modo con gli esseri umani; inoltre, viene rinchiuso in una stanza molto piccola, priva di qualsiasi ornamento, fatta eccezione per un’ora al giorno durante la quale è costretto a camminare avanti e indietro in un cortile profondo e recintato appositamente per questo scopo. Se, dopo alcuni anni di questo trattamento, il criminale non mostra alcun segno di miglioramento mentale o morale, viene rilasciato; se possiede dei beni, può vivere in pace con ciò che ha, solitamente in modo tranquillo e ritirato. Tuttavia, se è senza mezzi di sussistenza, il problema diventa davvero difficile: infatti, spetta alla polizia impedirgli di lavorare, e vengono recompensati se lo scoprono mentre compie atti che i giudici o i magistrati potrebbero disapprovare. In questo modo, anche coloro che non hanno mostrato alcun segno di cambiamento durante il primo periodo di detenzione vengono solitamente – se poveri – rinchiusi di nuovo dopo poco tempo, così che il sistema funzioni esattamente come previsto, ottenendo il massimo risultato possibile nella riforma dei caratteri più negativi e ostinati. Devo aggiungere che, nella società monomotapana, le virtù di una persona aumentano in proporzione ai suoi beni; è quindi sorprendente che quasi tutti coloro che subiscono questo tipo di detenzione appartengano alle classi sociali più povere.
+
+Sebbene siano così ragionevoli e offrano davvero un ottimo esempio da seguire nelle loro relazioni sociali, devo ammettere che i popoli della Monomotapa hanno alcune usanze che non ho mai completamente compreso, e nemmeno lo studio più approfondito riesce a spiegarle.
+
+Pertanto, in questioni che per noi sono ritenute suscettibili di prove concrete (come il sapore e la qualità dei cibi preparati, o le capacità mentali di un nostro connazionale), i Monomotapani fondano le loro valutazioni in modo trascendentale o sovrarazionale. Per loro, il cibo servito in un ristorante o in un hotel è considerato eccellente non in base al sapore dei piatti preparati, ma in relazione al canone di affitto dell’edificio. E quando una persona desidera il cibo più delizioso, non pensa a dove lo ha già assaggiato in passato, ma piuttosto alla situazione e al probabile valore locativo del ristorante che glielo fornirà. Anzi, è disposta – se comprende che tale valore locativo è elevato – a pagare molto di più per lo stesso cibo rispetto a quanto farebbe in un locale più modesto.
+
 
 
 <span class="atom-split" data-atom="story_15_the_odd_people--part_02" data-title="On Something — THE ODD PEOPLE (part 2)" data-chapter="THE ODD PEOPLE" data-kind="excerpt" data-tags="topos/world_upside_down,concept/satire_of_society,concept/hypocrisy,concept/tolerance,concept/paradox,concept/class_conflict,form/satire"></span>
@@ -2948,6 +3830,32 @@ But, as I have said above, they do not persecute the small minority living in th
 
 Let no one be surprised that I have spoken of their priests, for though the Monomotapans regard religion with due contempt, it does not follow that they will take away the livelihood of a very honest class of people who in an older and barbaric state of affairs were employed to maintain the structure of what was then a public worship. The priesthood, therefore, is very justly and properly retained by the Monomotapans, subject only to a few simple duties and to a sacred intonation of voice very distressing to those not accustomed to it. If I am asked in what occupation they are employed, I answer, the wealthier of them in such sports and futilities as attract the wealthy, and the less wealthy in such futilities and sports as the less wealthy customarily enjoy. Nor is it a rigid law among them that the sons of priests should be priests, but only the custom — so far, at least, as I have been able to discover.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo stesso metodo super-razionale, come l’ho definito, si applica anche al giudizio monomotapano riguardo alle capacità politiche; infatti, non è ciò che un uomo ha detto o scritto, né il fatto che si sia dimostrato capace di prevedere eventi di importanza per lo Stato, a determinare la sua carriera politica. Sono piuttosto una serie di altri indicatori a giocare questo ruolo: ad esempio, che i suoi fratelli siano più giovani di lui; che, quando parla, colpisca il palmo della mano sinistra aperta con il pugno destro in un modo particolare, che non è affatto facile da imparare; che non indossi contemporaneamente un cappotto a due parti e un cappello di forma semisferica; che mantenga il silenzio su certi tipi di stranieri che frequentano i mercati di Monomotapa, e addirittura finga che non siano stranieri ma cittadini monomotapani. E questi indicatori di capacità politica devono essere rispettati in ogni circostanza, anche quando gli stranieri in questione non parlano la lingua monomotapana.
+
+Alcuni anni fa era richiesto che ogni statista, almeno per un certo numero di volte all’interno di un anno, lodasse in modo eccessivo le virtù di questi mercanti stranieri, sottolineando in particolare il loro carattere assolutamente “non straniero”; tuttavia questa usanza è ormai caduta in disuso, e oggi si richiede soltanto il silenzio su questo argomento.
+
+Un’altra abitudine sociale di questo popolo che dovremmo trovare molto strana, e che a mio parere è del tutto inspiegabile, è quella di giudicare l’eccellenza di una produzione letteraria non in base al senso o persino al suono delle parole, ma in base all’inchiostro con cui è stampata e al carta su cui è trascritta. Questo vale non solo per le loro lettere, ma anche per le informazioni provenienti dall’estero; per questo motivo si potrebbe pensare che ne derivi una visione del mondo molto distorta. Infatti, se un buon tipografo stampa con inchiostro di ottima qualità e caratteri chiari su carta di lino pregiata, l’affermazione secondo cui le Isole Britanniche sono disabitate verrà certamente trasmessa; al contrario, se lo stesso testo viene stampato con inchiostro scadente, su carta di scarsa qualità e con caratteri consumati, l’idea che contengano oltre quaranta milioni di abitanti prevarrà. Tuttavia, in realtà non vengono ingannati: questa loro singolare debolezza viene infatti compensata da un’altra abitudine mentale molto saggia, ovvero quella di credere a qualsiasi cosa vengano asserita più di ventisei volte. Così, anche se le informazioni vengono trasmesse in modo impreciso, se vengono lette ripetutamente fino al numero richiesto di volte, verranno comunque accettate come vere.
+
+Nessuno al mondo ama gli animali più di questa gentile razza; tuttavia, anche in questo caso si possono scoprire limiti curiosi nel loro affetto: mentre distruggeranno senza pietà un essere abbandonato che colpisce una lama con un ramo di frassino per “correggerla”, non troveranno nulla di strano nel vedere dei cani addestrati appositamente a farlo distruggere un’alpaca.
+
+In generale, più grande è un animale, maggiore è l'affetto che queste persone provano per esso. Pulci e pidocchi vengono schiacciati senza pietà; scarafaggi neri con maggiore esitazione; gli uccellini piccoli vengono completamente risparmiati, e così via, fino a raggiungere i cuccioli di animali, per i quali esistono leggi speciali per proteggerli e coccolarli. All’altro estremo della scala, i microrganismi vengono spietatamente eliminati.
+
+Il divorzio non è comune in Monomotapa. Ma quei casi di divorzio che si verificano vengono trattati in modo diverso, a seconda della ricchezza delle persone coinvolte. Al di sopra di una certa soglia di ricchezza, il divorzio viene concesso solo dopo un lungo processo presso un tribunale; per i poveri, invece, viene deciso con un decreto di un magistrato che, di solito, poco dopo aver emesso la sentenza, trova l’occasione per imprigionare la parte innocente. Inoltre, i poveri possono essere divorziati in questo modo, se qualche magistrato desidera esercitare il proprio potere; mentre per i ricchi vengono stabilite condizioni specifiche prima che il divorzio possa avvenire.
+
+Devo aggiungere che i Monomotapani non hanno alcuna religione; ma la tolleranza prevista dalla loro Costituzione si manifesta in modo particolarmente evidente in questo aspetto: sebbene essi stessi ritengano la religione ridicola, permettono che venga praticata all’interno dello Stato, e talvolta addirittura affidano alte cariche e ricompense a coloro che la praticano.
+
+Davvero, in questa questione della religione abbiamo molto da imparare dalla razza le cui abitudini ho scoperto e qui descrivo. Forse nulla ha contribuito di più a distorcere la nostra visione delle cose quanto il pregiudizio rigido secondo cui una dottrina non potesse essere allo stesso tempo falsa e vera, e quell’assoluta certezza irragionevole, ereditata dai cattivi tempi della tirannia clericale, secondo cui una cosa doveva essere una cosa o l’altra.
+
+Nessuna tale angustezza disturba i Monomotapan. Preferiranno – e molto saggiamente preferiranno – un’opinione che li renda felici piuttosto che un’altra che possa in qualche modo interferire con i loro desideri; e se due opinioni del genere si contraddicono, non cadranno in ridicole casuistiche nel tentativo di conciliarle: accetteranno tranquillamente entrambe e serviranno lo Scopo Superiore con un cuore sereno.
+
+È per questo motivo che ho detto che i Monomotapani considerano la religione ridicola. Infatti, per loro (secondo le loro stesse parole), la vera religione rappresenta l’oggetto di massimo rispetto; e la vera religione consiste nel seguire le inclinazioni di una persona onesta, cioè di sé stessi. Ma “la religione intesa come dottrina fissa”, come mi spiegò uno dei loro sacerdoti, “è odiosa per la nostra libera comunità”. Pertanto, questioni così spinose come se Dio esista davvero o meno, se sia sbagliato uccidere o rubare, se dobbiamo dei doveri allo Stato e, in tal caso, quali siano questi doveri, vengono da parte degli onesti Monomotapani trattate con il disprezzo che meritano: essi abbandonano queste speculazioni per dedicarsi alla nobile attività di godere, ciascuno secondo ciò che la propria fortuna gli permette.
+
+Ma, come ho detto sopra, non perseguitano quella piccola minoranza che vive tra di loro e che, con la tenacia tipica di chi è privo di idee chiare, si attacca alle proprie convinzioni fisse; e se un uomo che afferma di possedere certezze in questioni dottrinali è utile anche in altri modi, sono ben lontani dal rifiutare i suoi servizi allo Stato. Ne conosco più di uno, ad esempio, appartenenti a quel tipo di persone antiquate e bigotte che, quando offrivano del denaro per essere ammessi al Senato di Monomotapa, vedevano tale proposta accettata con altrettanta disponibilità e gioia, come se fosse stata avanzata da qualcuno che seguiva i principi più larghi e aveva un modo di pensare molto liberale.
+
+Che nessuno si meravigli se ho parlato dei loro sacerdoti: poiché i Monomotapani considerano la religione con il dovuto disprezzo, ciò non significa che toglieranno il mezzo di sussistenza a una classe di persone molto oneste, le quali, in tempi più antichi e barbarici, erano incaricate di mantenere la struttura di ciò che allora costituiva un rito pubblico. Pertanto, il sacerdozio è giustamente e appropriatamente conservato dai Monomotapani, soggetto soltanto a poche semplici obbligazioni e a un tono di voce sacro che può risultare particolarmente fastidioso per coloro che non ne sono abituati. Se mi si chiedesse in quale occupazione siano impegnati, risponderei che i più ricchi si dedicano a sport e divertimenti tipici dei ricchi, mentre i meno abbienti partecipano a quelli che di solito piacciono alle persone meno agiate. Inoltre, non esiste una regola rigida tra di loro secondo cui i figli dei sacerdoti debbano necessariamente diventare sacerdoti; si tratta semplicemente di una consuetudine – almeno per quanto ne so io.
 
 
 
@@ -2991,6 +3899,44 @@ God bless you! (Dress.)
 Your affectionate Uncle
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lettera di consiglio e scuse a un giovane ladro
+
+# Mio caro Ormond,
+
+Niente di tutto ciò mi passava per la mente. Pensavo che tu conoscessi abbastanza bene me, e del resto tutta la famiglia di tua madre, da potermi giudicare meglio. Credimi, nemmeno per un istante ho pensato di incolpare la tua professione. Se esista davvero una cosa chiamata “proprietà” in senso astratto, lascio che siano i metafisici a decidere: nelle questioni pratiche, tutto deve essere valutato nel contesto specifico in cui si trova.
+
+Non è stata alcuna stravagante teologia che mi ha spinto a scrivere; la definizione di furto o “rapina” – non mi interessa con quale nome la chiamiate – non è un argomento da discutere per persone pratiche. Né mi sono occupato delle questioni etiche legate al furto con scasso (per usare il vecchio termine legale e tecnico); ciò di cui ho parlato è stata l’assenza di giudizio, le azioni improvvisate dettate unicamente dall’impulso, e quella che potrei definire la “dimensione speculativa” della vita di un ladro.
+
+Per il momento non hai alcuna grande responsabilità: nessuno dipende da te, devi pensare solo a te stesso; ma devi ricordare che queste responsabilità arriveranno naturalmente nel corso del tempo, e se ora sviluppi abitudini di impulsività o testardaggine, queste ti seguiranno per tutta la vita. Tutti aspettiamo con ansia il momento in cui Anne sarà di nuovo libera; in parole povere, ragazzo mio, conosciamo il tuo cuore leale e benediremo questa unione. Ma mi sentirei più tranquillo se ti vedessi impegnato in una professione stabile prima di pensare a fondare una famiglia.
+
+L’avventura ti tenta perché sei coraggioso, e una certa vena poetica in te ti spinge verso scene di azione insolite. Beh, la Gioventù ha il diritto ai suoi sogni, ma fai attenzione a non lasciare che un pericoloso quixottismo rovini le tue splendide opportunità.
+
+Prendiamo, ad esempio, il vostro ingresso non autorizzato nella casa del signor Cowl. Potreste dire che il signor Cowl non fosse un giornalista, ma solo un recensore; la distinzione è molto sottile, ma lasciamola stare. Sappiamo entrambi che le case di nessuno che abbia a che fare con la stampa quotidiana non dovrebbero mai essere violate. È pura buon senso. I giornalisti tornano a [[Home|casa]] in qualsiasi momento della notte; il loro servitore (se ne hanno uno) spesso è sveglio prima che loro vadano a letto. Pensate davvero di poter entrare in tali case senza essere visti?
+
+Ancora una volta, in un modo o nell’altro, il giornalista si occupa della nostra professione per tutta la giornata. Alcuni di loro li considera e li conosce come maestri; altri li utilizza per denunciarli, ricevendo circa quarantadue scellini per 1600 parole; ancora altri hanno il compito di intervistarli e di cercare di calmarli o persuaderli nei corridoi del Parlamento. Credete davvero che non saprebbe chi siete se vi trovasse in cucina con una lanterna?
+
+Esiste un altro pericolo: quello di allontanare gli amici. Il signor Cowl è un imperialista, di quel tipo molto discreto: indossa occhiali d’oro e ha una tosse nervosa, ma è comunque un imperialista. Non ho mai detto che sia sbagliato o anche sciocco allontanare una persona del genere; ho solo affermato che una grande e potente fazione ritiene che farlo rappresenti una mancanza di onore da parte nostra. Non lasciatevi influenzare dalla prima impressione che le mie parole possono dare. Credetemi, ho ponderato attentamente tutto.
+
+Ci sono stati così tanti malintesi che quasi non so cosa scegliere. Prendi quelle orologi: non ho mai detto che gli orologi siano “solo una distrazione”. Sei stato tu a interpretare le mie parole in quel modo. Quello che ho detto è che gli orologi, soprattutto quelli presentati durante una riunione sulla Riforma Tariffaria, non valevano la pena correre il rischio. Certo, un mucchio di orologi, come quelli che tuo zio Robert portava a casa dai roghi, o ancora meglio, quel carico che tuo povero cugino Charles ha ottenuto l’anno scorso in occasione della Festa dell’Impero, hanno valore. Ma quanti orologi d’oro ci sono davvero su quella piattaforma durante una riunione sulla Riforma Tariffaria? E quali possibilità hai di salirci sopra? Ora, la chiesa e le borse, be’, quella è un’altra storia. Ma quell’avventura nel Devon centrale è stata semplicemente una follia.
+
+Chi è Lord Darrell? Non l’ho mai sentito nominare! Per l’amor del cielo, non farti scoprire da un titolo nobiliare. Conosci qualcuno dei suoi servitori? Il suo maggiordomo o la sua segretaria? Quello che cataloga i libri in biblioteca potrebbe essere utile. Ricorda: molti degli ornamenti presenti in quelle case di Mayfair sono fissati al muro. È stato lì che tuo padre ha fatto cadere quel grande vaso cinese in Park Street. Tua madre non mi perdonerebbe mai se tu finissi di nuovo nei guai, come fai spesso da ragazzo.
+
+C’è un’altra piccola questione, mio caro Ormond, che vorrei tu prendessi molto seriamente in considerazione. Ascolta il consiglio di un vecchio: non metterti subito a perseguire questa tua passione un po’ quixotica non appena ne percepisci l’esistenza. Immagino che tu l’abbia già intuito. Sì, si tratta proprio di ciò che temevi: vorrei incoraggiarti ad assecondare il desiderio ardente di tua madre e aggiungere l’attività legata alle commissioni ai tuoi altri impegni professionali. So bene che i giovani devono sognare i loro sogni, ma il mondo è quello che è. E dopotutto, non c’è nulla di particolarmente terribile nell’ambito delle commissioni nella nostra professione. Non entri direttamente in contatto con coloro che raccolgono oggetti curiosi o ornamenti per chiese: c’è sempre un intermediario a mediare questa relazione, rendendola meno diretta e quindi meno problematica. Inoltre, si tratta di una fonte di reddito sicura e redditizia, priva dei rischi legati alle altre attività della nostra professione. In più, offre ottime opportunità per viaggiare all’estero e conferisce una posizione particolare, difficile da definire in parole, ma facilmente apprezzabile tra i colleghi.
+
+Per quanto ne so, George Burton ha guadagnato tremila sterline lo scorso anno in soltanto una breve stagione; ha ottenuto questa enorme commissione senza dover entrare nemmeno in un singolo pub; l’ha guadagnata interamente grazie agli oggetti prelevati dalle chiese del Continente, e in soli tre casi è stato costretto a compiere atti di furto. Con la sua cultura e i suoi gusti, gli sarebbe stato molto doloroso dover rompere una vetrata colorata.
+
+Considera questo, mio caro Ormond, per il bene di tua madre. Non pensare nemmeno per un momento che ti stia consigliando di intraprendere quelle attività che entrambi disprezziamo e che sono assolutamente indegne delle tue tradizioni. Ad esempio, rubare quadri su commissione dalle case dei commercianti per poi cercarli di nuovo come detective. È un lavoro troppo facile per una persona con i tuoi talenti, mal pagato e pericoloso. Può darsi che il commerciante di quadri lasci la porta aperta, ma cosa succede se la polizia non ne è a conoscenza? No. Sarò sempre al tuo fianco nel rifiutare categoricamente di avere a che fare con questo genere di affari.
+
+Ormond, mio caro ragazzo, non portarmi rancore. È vero per ogni professione: l’avvocatura, il commercio, l’omicidio, la medicina, i servizi militari, persino la politica. In tutto, il successo arriva solo lentamente, e l’esperienza degli uomini più anziani è la chiave per ottenerlo.
+
+Domani è la Domenica dell’Ascensione e ho del tempo libero. Vieni a cena da me al Colonial Club alle otto; ti mostrerò una magnifica piccola tanagra che ho acquistato ieri e parleremo anche del nuovo prospetto.
+
+Che Dio ti benedica! (Vestiti.)
+
+Tuo affezionato zio
+
 
 
 <span class="atom-split" data-atom="story_17_the_monkey_question_an_appeal_to_common--part_01" data-title="On Something — THE MONKEY QUESTION: AN APPEAL TO COMMON SENSE (part 1)" data-chapter="THE MONKEY QUESTION AN APPEAL TO COMMON" data-kind="excerpt" data-tags="setting/england"></span>
@@ -3020,6 +3966,32 @@ All judicial positions are equally inaccessible to them; for though, perhaps, in
 
 Latterly, since progress cannot be indefinitely delayed, the Monkey has indeed advanced by one poor step towards the civic equality which is his right, and has appeared as an actor upon the boards of our music-halls. It should surely be a sufficient rebuke for those who continue to sneer at the Simian League and such devoted pioneers as Miss Greeley and Lady Wayne that the Monkey has been honourably admitted and has done first-rate work in a profession which His late Gracious Majesty and His late Majesty’s late revered mother, Queen Victoria, have seen fit to honour by the bestowal of knighthoods, and in one case (where the recipient was childless) of a baronetcy.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# La domanda del monaco: un appello al buon senso
+
+Un gruppo privilegiato finisce per considerare i propri diritti come qualcosa di naturale, e temo che le argomentazioni ripetute dalla SIMIAN LEAGUE in questo pamphlet possano ancora sembrare strane agli occhi di molti, nonostante gli sforzi della Lega siano stati sempre più efficaci e abbiano raggiunto negli ultimi anni un numero sempre più ampio di persone istruite. Desideriamo presentare ai nostri concittadini le richieste dei “mondi”, e speriamo ancora una volta che nulla di ciò che diciamo possa sembrare estremo o violento; sappiamo infatti quanto siano inadeguate le armi della violenza e della passione quando si tratta di discutere questioni politiche pratiche.
+
+Forse è meglio iniziare sottolineando quanto raramente anche i migliori di noi, nel nostro frenetico inseguimento della ricchezza, si soffermino a riflettere sulle disabilità di qualsiasi altra creatura umana: una volta compresa questa verità, sarà più facile difendere la causa speciale dei simiani.
+
+Se gli uomini e le donne inglesi comprendessero i torti subiti dalla nostra razza, o almeno la posizione illogica e quindi ingiusta in cui siamo stati messi; se coloro che sono giusti e riflessivi, le signore raffinate e dal cuore d’oro che in questo paese sono pronte a sostenere ogni causa nobile quando viene presentata correttamente, se loro comprendessero le difficoltà della “razza delle scimmie” – non dico certo con la stessa intensità con cui percepiscono le tragedie e i mali della vita londinese – credo che non potrebbero evitare un senso di disagio, un rimorso di coscienza, che alla fine li spingerebbe a compiere sforzi concreti e sinceri per alleviare le sofferenze di quella “cugina” e precursore dell’uomo.
+
+L’atteggiamento che la maggior parte delle persone, che dopotutto vivono nello stesso mondo e condividono gli stessi desideri, bisogni e sofferenze dei monaci, hanno nei loro confronti è, ne sono convinto, dovuto non all’indifferenza, ma all’ignoranza. Superare quest’ignoranza, e in alcuni casi risvegliare una consapevolezza che forse temono, non è un compito facile, ma è nostro dovere, e lo perseguiremo.
+
+Che il lettore consideri, per un momento, non solo l’aspetto del diritto formale, ma anche quello dell’intera comunità, e di ciò che viene chiamato “opinione pubblica” riguardo a questa categoria di esseri senzienti.
+
+Come stanno le cose ora – sì! e così è stato per secoli in questa nostra verde [[England|Inghilterra]] – un Monkey non può sposarsi; non può possedere terreni; non può ricoprire alcuna carica retribuita sotto la Corona. Anche i Papisti, al di fuori dell’Irlanda, sono esclusi da qualsiasi onore tranne quella di Cancelliere del Regno. I Monkey, che in passato non hanno mai causato persecuzioni, la cui religione non offende né insulta la nostra ragione comune, e i quali non differiscono molto da noi nella loro vita quotidiana e nel modo di pensare, vengono esclusi da tutto ciò!
+
+Un Monkey non può essere membro del Parlamento, funzionario pubblico, ufficiale di nessun esercito, nemmeno dell’Esercito Territoriale. È anche dubbia la possibilità che possa ottenere una commissione per il mantenimento dell’ordine pubblico. È vero che non esistono disposizioni legislative al riguardo, e la magistratura rurale è forse l’incarico più libero e aperto tra tutti i nostri uffici, il meno vincolato da barriere artificiali legate a esami o prove; tuttavia, le migliori autorità legali ritengono unanimemente che nessun Monkey possa ricoprire tale incarico. In ogni caso, questa discussione è puramente accademica: è difficile credere che un Lord-Lieutenant, sotto l’assurdo anacronismo della nostra attuale Costituzione, nominerebbe un Monkey per una posizione del genere – a meno che (il che è impossibile per legge) tale Monkey non fosse erede di un proprietario terriero.
+
+E non è tutto. Il riferimento ai post non retribuiti ricorda la verità sconvolgente secondo cui tutte le cariche onorifiche nel Servizio Diplomatico, comprese quelle puramente formali presso il Ministero degli Esteri, sono precluse alle scimmie; persino quei ruoli di cortesia che, è vero, non richiedono alcun talento, vengono negati ai nostri simili antropomorfi, se non per legge, almeno per consuetudine e prassi.
+
+La Lega ha fatto ricorso al British Museum per le competenze di due signore che si occupano con grande impegno di questo argomento. Sono, per onore del loro sesso, altrettanto qualificate di qualsiasi altro individuo in questo regno per il compito che si sono assunte; dopo due mesi di ricerche approfondite, hanno riferito alla Commissione Esecutiva che (ad eccezione di un caso dubbia avvenuto durante il regno della defunta Maestà) nessun Monkey ha mai ricoperto alcuna posizione alla Corte.
+
+Tutti i posti giudiziari sono ugualmente inaccessibili per loro; perché, forse in teoria, un Monkey potrebbe essere promosso a giudice se avesse servito fedelmente e a lungo la sua parte nel Parlamento (al quale è ammesso – almeno non esistono regole o usanze, tantomeno leggi che lo vietino), tuttavia tale ambizione gli viene negata fin dall’inizio a causa della sua inammissibilità alla carriera legale. Gli studi giuridici sono monopolizzati da determinate istituzioni, e questi monopolisti sono irrimediabilmente conservatori: hanno ammesso, sebbene con riluttanza, alcune categorie di persone ai loro privilegi, ma passeranno almeno venti o trent’anni prima che permettano anche ai Monkey di accedervi. Essere medico, avvocato, ingegnere o commissario per le giuramenti è per loro impossibile, come se non esistessero affatto. Infatti, non gli resta che il lavoro manuale. E su questo vorrei dire qualcosa: è di moda deridere la riluttanza dei Monkey ad svolgere sforzi fisici prolungati e lavori intensivi; ma è sorprendente che proprio coloro che mostrano tale disprezzo per le capacità dei Monkey siano i primi a negargli l’accesso alle professioni liberali, nelle quali sanno (sebbene non osino ammetterlo) che potrebbe rappresentare una seria concorrenza per gli europei. Così come stanno le cose, nei pochi ambiti aperti ai Monkey – lavori domestici di tipo “parassitario” o compiti umili come assistenti di organai – i Monkey hanno ottenuto un plauso, seppur riluttante, da tutti.
+
+Negli ultimi tempi, poiché il progresso non può essere indietreggiato all’infinito, il “Macaco” ha effettivamente compiuto un piccolo passo verso l’uguaglianza civica che gli spetta; è addirittura apparso sulle scene dei nostri teatri. Questo dovrebbe rappresentare una sufficiente lezione per coloro che continuano a deridere la “Lega Simiana” e pionieri devoti come Miss Greeley e Lady Wayne: il “Macaco” è stato onoratamente ammesso in professioni che Sua Maestà defunta e la rispettata madre di Sua Maestà, la regina Vittoria, hanno ritenuto degne di essere onorate conferendo titoli nobiliari; in un caso specifico (in cui il destinatario non aveva figli), è stato persino insignito del titolo di baronetto.
 
 
 
@@ -3058,6 +4030,40 @@ Questions submitted at the last Election by the Simian League
 
 (A plain reply “Yes” or “No” was to be written by the candidate under each of these questions and forwarded to the Secretary, Mr. Consul, 73 Purbeck Street, W.. before the 14th January, 1910. No replies received after that date were admitted. The Simian League, which has agents in every constituency, acted according to the replies received, and treated the lack of reply as a negative. Of 1375 circulars sent, 309 remained unanswered, 264 were answered in the negative, 201 gave a qualified affirmative, all the rest (no less than 799) a clear and, in some cases, an enthusiastic adherence to our principles. It is a sufficient proof of the power of the League and the growth of the cause of justice that in these 799 no less than 515 are members of the present House of Commons.)
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Le disabilità che ho elencato non sono affatto esclusive. Un monaco potrebbe non essere in grado di firmare o consegnare documenti legali; potrebbe non essere ammesso a far parte di una giuria; potrebbe essere maltrattato, persino ucciso da un padrone crudele, e la legge si rifiuterebbe di proteggerlo o di punire il suo oppressore. Potrebbe essere sottoposto a tutte le regole oppressive di un governo tirannico o fanatico, ma non ha alcun diritto di opporsi a tali abusi. Non può accedere alle nostre università più antiche, almeno non come membro di un college; in altre parole, può ottenere una laurea solo a Oxford o Cambridge, sotto lo stigma implicito e del tutto ingiusto attribuito agli studenti che non fanno parte dei college. E queste ingiustizie riguardano non solo i grandi antropoidi la cui forza e bruttezza potrebbero legittimamente suscitare paura, ma anche i tipi di primati più delicatamente organizzati: il Macaco Barbera, il Lemure e il Babuino a Coda Anellata. Infine – ed è questa la caratteristica peggiore di tutta la questione – per via di una normativa legale che risale almeno al XIV secolo, un monaco non è considerato una persona ai fini della legge.
+
+Chiamiamo [[England|Inghilterra]] un paese libero, eppure oggi, mentre state leggendo queste parole, qualsiasi scimmia che si trovi in libertà può essere arrestata all’istante. Non ha alcun diritto di difesa; non è possibile intentare alcuna azione legale per aggressioni subite. Non le è nemmeno permesso chiamare testimoni a proprio favore o fornire un alibi.
+
+Si potrebbe argomentare che anche gli irlandesi siano soggetti a queste restrizioni, ma dobbiamo ricordare che agli irlandesi è concesso un certo grado di libertà di stampa, sebbene modificato, e che hanno il vantaggio inestimabile di poter inviare rappresentanti a Westminster. I monaci, invece, non dispongono di tali diritti: possono essere imprigionati, persino incatenati, ma non possono presentare ricorsi per ottenere l’ordine di rilascio, proprio come non può farlo un cittadino britannico in tempo di guerra. E cosa ancora peggiore, a causa della complicità o dell’incompetenza della polizia, sono stati persino registrati e approvati casi in cui i monaci venivano apertamente comprati e venduti!
+
+Ci vantiamo del nostro senso della delicatezza, e forse a ragione, considerando la nostra superiorità rispetto ad altre nazioni in questo particolare; tuttavia permettiamo alle scimmie di esibire una nudità rivoltante, e quasi non ci accorgiamo nemmeno di questa omissione! È vero che alcune scimmie vengono talvolta coperte da piccoli cappotti blu; occasionalmente viene loro concesso con disprezzo un cappello, e non di rado ricevono anche un paio di pantaloni di pelle, attraverso i quali la coda può sporgere; ma nessun uomo ragionevole negherà che questi indumenti vengano considerati soltanto ornamenti, e raramente svolgano quelle funzioni che ogni persona perbene inglese richiede dall’abbigliamento.
+
+E ora arriviamo alla parte più importante del nostro appello: cosa si può fare?
+
+Siamo un popolo gentile e giusto, ma anche molto conservatore. Il destino di tutti i pionieri colpisce coloro che cercano di fare progressi in questo campo: vengono derisi o, peggio ancora, ignorati. Uno dei lavoratori più importanti della Lega è stato dichiarato pazzo da un’autorità la cui pregiudiziosa ostilità è ben nota; finora non siamo riusciti a ottenere alcun provvedimento legale contro di essa. Tutti abbiamo notato il disprezzo silenzioso, quel genere di boicottaggio organizzato o di silenzio collettivo con cui le persone evitano di parlare di questo argomento durante i pasti.
+
+Occorre anche affrontare i pregiudizi violenti che ancora permeano la maggior parte della popolazione in questo ambito. Questi pregiudizi sono, naturalmente, più diffusi tra i poveri analfabeti che nelle classi superiori, le quali, per varie ragioni, entrano più spesso in contatto con gli scimmioni e possiedono anche uno spirito più aperto e tollerante, grazie a una cultura più elevata. Tuttavia, tali pregiudizi si riscontrano in ogni classe sociale, persino nelle più alte. Nella nostra crociata per la giustizia e i diritti umani, ci troviamo anche di fronte al potere ancora formidabile del clericalismo. La società è ancora solo parzialmente liberata dai vincoli medievali, e il prete, quell’Eterno Nemico della Libertà, può ancora esercitare la sua influenza negativa contro i diritti degli esseri umani.
+
+Non disperiamo! È vero, non possiamo sperare in nulla finché non avremo ottenuto un profondo cambiamento nell’opinione pubblica, e tale cambiamento non può essere realizzato con le leggi. Può essere raggiunto soltanto attraverso uno sforzo lento e quasi impercettibile, costante, instancabile e convinto: qualcosa di simile a ciò che ha distrutto il potere del militarismo nel Continente europeo; qualcosa di simile a ciò che ha debellato il sistema feudale nel nostro paese; qualcosa di simile a ciò che ha liberato i sfortunati abitanti del Congo dal dominio di stranieri corrotti; qualcosa di simile a ciò che ha scatenato un’ondata vasta e potente a favore della temperanza in tutto questo paese.
+
+Non dobbiamo ricorrere a estremi né pretendere una giustizia assoluta escludendo soluzioni intermedie e valide. Nessuno condanna con più fermezza di noi quei militanti a favore delle scimmie che hanno aggredito due volte e accecato per sempre un custode dei Giardini Zoologici. Non approviamo nemmeno coloro che, sebbene appassionati, secondo noi sono fuorviati, membri della Società per la Libertà delle Scimmie: pubblicano infatti fianco a fianco le fotografie di Pongo, l’intelligente scimmia del Gabon, e quelle di un certo ministro del gabinetto, accompagnandole con la didascalia “Chi è chi?”. Non è con azioni del genere che vinceremo questa battaglia; piuttosto, sarà attraverso la perseveranza nella ragione e la cortesia che raggiungeremo il nostro obiettivo, fino a quando finalmente il nostro “fratello” non sarà libero! Quanto ai reazionari, per quanto eccellenti ma un po’ provinciali, che ancora ci obiettano sostenendo che la scimmia sia fondamentalmente diversa dall’uomo, che non possieda il linguaggio umano e simili argomentazioni, possiamo semplicemente sorridere della loro autorità in declino. La scienza moderna ha già risposto adeguatamente a queste obiezioni; e se qualcuno osasse insultare la scimmia dicendo che il suo corpo è coperto di peli, potremmo subito ricordare innumerevoli esseri umani, pienamente riconosciuti e dotati di diritti civili, i quali, se esaminati attentamente, si rivelerebbero in condizioni non molto migliori. Per quanto riguarda il linguaggio, la scimmia comunica a modo suo, altrettanto bene o meglio di noi; e se proprio il linguaggio deve essere considerato un criterio, dovremmo forse negare i diritti civili ai muti?
+
+Secondo quanto affermato da tutti i nostri più grandi scienziati, non esiste alcuna differenza sostanziale tra l’Uomo e la Scimmia. Uno dei maggiori scienziati ha detto che il divario tra lui stesso e i suoi concittadini meno abbienti era maggiore di quello che li separava dalle scimmie. Hackel ha testimoniato che, sebbene esista una distinzione, non c’è alcun abisso tra il gruppo di professori a cui appartiene lui e la Scimmia antropomorfa. Il Gorilla è universalmente riconosciuto come un essere simile all’Uomo; quindi, se riusciremo a far valere questa considerazione per il Gorilla, anche gli altri esseri verranno accettati allo stesso modo.
+
+Tolstoj è con noi, Webb è con noi, Gorky è con noi; Zola e Ferrer erano con noi e continuano a lottare per noi anche dalle loro tombe. L’intero flusso del pensiero moderno è con noi. NON Possiamo fallire!
+
+Titolo: Domande presentate durante le ultime elezioni dalla Lega Simiana
+
+1. Siete a favore della rimozione delle attuali disabilità dei monaci?
+
+2. Siete a favore di uno statuto breve che ponga le scimmie adulte nello stesso stato giuridico degli altri sudditi di Sua Maestà a partire dal 1° gennaio 1912? E sareste disposti, se necessario, a votare contro il vostro partito a favore di una tale misura?
+
+3. Siete a favore dell’inclusione delle scimmie nell’ambito della legge sulle specie selvatiche?
+
+(I candidati dovevano scrivere una semplice risposta, “Sì” o “No”, sotto ciascuna di queste domande e inviarla al Segretario, il Sig. Console, al numero 73 di Purbeck Street, W., entro il 14 gennaio 1910. Le risposte ricevute dopo quella data non furono prese in considerazione. La Simian League, che aveva agenti in ogni collegio elettorale, agì in base alle risposte ricevute, considerando l’assenza di risposta come un rifiuto. Delle 1375 circolari inviate, 309 rimasero senza risposta, 264 furono accolte negativamente, 201 diedero una risposta affermativa ma con riserve, mentre tutte le altre (non meno di 799) manifestarono un chiaro e, in alcuni casi, entusiastico sostegno ai nostri principi. È una prova sufficiente del potere della Lega e della crescita della causa della giustizia il fatto che, di queste 799 risposte, ben 515 provengano da membri dell’attuale Camera dei Comuni.)
 
 
 
@@ -3108,6 +4114,52 @@ I thanked him very much, and asked him why he had changed his system of notation
 
 “It is as simple,” he said, “as buying a pound of tea. I am satisfied, and they are satisfied. As for the risk, it is covered by the low price, and if you ask me how I can let them at so low a price, I will tell you. It is because I have found exactly what was needed and have added nothing more. Moreover, I did not buy the chairs, but hired them.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+IL COSTRUTTORE DELL'IMPERO
+
+POSSEDIAMO IN questo paese una stirpe di uomini per i quali proviamo un orgoglio così leale, così forte e così schietto che, se qui gli dessi ulteriore espressione, sarei giustamente accusato di insistere su un tema trito. Sono i Costruttori dell'Impero, gli Uomini Efficienti, gli agenti che non possiamo non sentire — per quanto a malincuore lo ammettiamo — meno strettamente vincolati alle comuni leggi della vita di quanto lo siamo noi, gente minore.
+
+Ma c'è in questi uomini qualcosa che come tema non è affatto trito, ed è la loro giovinezza. Attraverso quale processo si sviluppa la grande mente? Di che pasta è il Costruttore dell'Impero quando è giovane?
+
+Costui di solito sale dal basso: quale fu la sua esperienza laggiù, in basso? In quale scuola fu formato? Quale accidente della fortuna, affrontato in che modo, o superato, o sfruttato, produsse alla fine l'Uomo che Sa Fare? In tale indagine c'è materia per una riflessione assai profonda. È qui che i nostri Padroni, i cui moventi generali sono così aperti e così evidenti, sfiorano il mistero. Quel segreto potere di scegliere il proprio nutrimento, che sta alla base di ogni vita organica, ha edificato a suo modo silenzioso la fanciullezza e l'adolescenza che noi conosciamo soltanto nella loro maturità.
+
+Non pretenderò di conoscere appieno quella strana educazione della mente che ha prodotto tanti uomini simili per l'avanzamento della razza, ma posso indicare un esempio che di recente mi è passato dritto davanti agli occhi — un caso fortuito, un'illuminazione, un lampo rivelatore del modo in cui il nostro tempo genera il Grande Tipo. Per alcune ore ebbi modo di conoscere le azioni di un giovane di cui ignoro persino il nome, ma il cui volto sono certissimo riapparirà fra vent'anni in una cornice di gloria, riconosciuto come un altro ancora di quegli spiriti superbi che faranno di tutto per l'[[England|Inghilterra]].
+
+L'occasione era una parata — non importa quale parata — una grande parata pubblica che attraversava lo Strand e che sarebbe stata vista da centinaia di migliaia di persone. Chiamiamola «La Cerimonia».
+
+Ebbene, stavo camminando lungo lo Strand tre giorni prima che questa Cerimonia avesse luogo, quando vidi nella vetrina di un negozio vuoto circa venticinque sedie di legno, disposte su file digradanti l'una sopra l'altra su una pedana inclinata, e contrassegnate con lettere dalla A alla Y. Nella vetrina c'era un grande avviso, stampato in modo molto chiaro, che diceva così:
+
+PERCHÉ PAGARE PREZZI ESORBITANTI CHE INEVITABILMENTE CROLLERANNO PRIMA DELLA CERIMONIA? POSTI IN QUESTA VETRINA, CON PIENA VISTA SUL CORTEO, 5 SCELLINI.
+
+A UN PICCOLO banco, nel passaggio da cui si accedeva alle sedie, sedeva un bambino scuro e pallido — non so chiamarlo altrimenti, tanto fragile e giovane sembrava — e la delicatezza della sua carnagione mi fece domandare se non fosse per caso uno di quelli che il clima dell'[[England|Inghilterra]] colpisce con la tisi e che, nella misteriosa provvidenza della nostra razza, vagano per il mondo in cerca di salute e trovano un Regno. La sua prontezza, però, e la brillantezza del suo occhio; il suo modo di fare accattivante, quasi ossequioso, e la presa uncinata dei suoi gesti tradivano un'energia che nessuna debolezza fisica avrebbe potuto vincere. Mi invitò a entrare e mi pregò di acquistare un posto.
+
+Non ne avevo bisogno, perché avevo preso accordi per trascorrere il Grande
+
+Giorno stesso e quello successivo in un piccolo albergo all'estremo nord del
+
+Sutherlandshire, ma fui trattenuto dall'evidente potenza mentale della mia nuova
+
+conoscenza, e sprecai cinque scellini comprando la sedia contrassegnata con la D.
+
+Riuscii ad acquistarla con una certa difficoltà, tanto era ansioso che io avessi il posto migliore; «visto», disse, «che hanno tutte lo stesso prezzo, e che tanto vale approfittare dell'essere arrivato per primo». Notai quella rigorosa rettitudine che, checché ne dicano gli uomini ignari del commercio moderno, sta alla base del successo commerciale.
+
+Qualcosa in tutta la faccenda mi attirava a tal punto che ebbi la debolezza di prendere una sedia in una sala da tè di fronte e osservare per tutto il giorno le mosse di quel Figlio del Destino.
+
+In meno di un'ora venti persone diverse, per lo più gente per bene, erano entrate e avevano comprato posti al ragionevole prezzo a cui li offriva. A ciascuna dava un biglietto corrispondente al numero della sedia. Era cortese con tutti, e persino espansivo. Spiegava il vantaggio di ogni singolo posto.
+
+Fin qui tutto bene; ma, cosa più sorprendente, nella seconda ora ne arrivarono altri venti che parvero comprare; nella terza (che era l'ora di maggior traffico della giornata) una quarantina, tra i primi e gli ultimi, devono aver concluso affari con il Prediletto della Fortuna. Meditai molto a fondo su queste cose, e me ne tornai a [[Home|casa]].
+
+La mattina dopo l'attrazione che quel luogo esercitava su di me mi trascinò come una calamita, e mi recai, temo un po' furtivamente, nella stessa sala da tè e notai con grandissimo stupore che le sedie non erano più contrassegnate con lettere, ma con numeri, e che il ragazzo sedeva al suo piccolo banco con una serie di cartoncini bianchi recanti le cifre da uno a venticinque. Era molto presto — non erano le dieci — ma il Bambino era lindo e in ordine come lo era stato il pomeriggio del giorno prima. Portava già quel segno di energia unita alla precisione che è l'impronta del successo.
+
+Attraversai la strada ed entrai. Mi riconobbe all'istante (la loro memoria per i volti è meravigliosa) e disse allegramente:
+
+«La sua D corrisponde al numero 4.»
+
+Lo ringraziai molto e gli chiesi perché avesse cambiato sistema di notazione. Mi disse che era perché parecchie persone gli avevano spiegato che ricordavano le cifre più facilmente delle lettere. Poi conversammo tra noi, concordando sulle massime di semplicità e franchezza che stanno alla radice di ogni stabilità mercantile. Mi disse che esigeva il contante da tutti quelli che compravano le sue sedie; che non c'era contratto, né assicurazione — niente «fronzoli», come li chiamò argutamente.
+
+«È semplice», disse, «come comprare una libbra di tè. Io sono soddisfatto e loro sono soddisfatti. Quanto al rischio, è coperto dal prezzo basso, e se mi chiede come posso cederle a un prezzo così basso, glielo dico. È perché ho trovato esattamente ciò che serviva e non ho aggiunto nulla di più. Per di più, le sedie non le ho comprate: le ho noleggiate.»
 
 
 
@@ -3179,6 +4231,72 @@ As he so wandered upon one day, he came upon another man of a very different fas
 The kingdom of Sussex, cultivated by men of various kinds, received Wilfrid the Bishop wherever he went. He did many things that do not here concern me, and his chief work was to make the rich towns of the sea plain and of Chichester and of Lewes and of Arundel, and of the steadings of the Weald, and of the wealden markets also, Christian men; for he showed them that it was a mean thing to go about in a hairy way like pagans, unacquainted with letters, and of imperfect ability in the making of raiment or the getting of victuals. Indeed, as I have written in another place, it was St. Wilfrid who taught the King of Sussex and his men how to catch fish in nets. They revered him everywhere, and when they had given up their shameful barbarism and decently accepted the rules of life and the religion of it, they pressed upon St. Wilfrid that he should found a bishopric, and that it should have a cathedral and a see (all of which things he had explained to them), and he did this on Selsey Bill: but to-day the sea has swallowed all.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Tornai al mio negozio di tè con la testa bassa, mormorando tra me quelle memorabili frasi…”
+
+# Abbiamo fondato molti grandi Stati
+
+# Prega Dio che non falliamo mai
+
+Da timori meschini di diventare grandi
+
+(oppure parole del genere).
+
+Quel giorno, non meno di 153 persone fecero affari con il Giovane.
+
+Il giorno dopo trovai tra le mie lettere del mattino un biglietto da parte di un politico che conoscevo; mi diceva che l’evento era stato rinviato, a tempo indeterminato. Non persi un attimo: andai subito al mio posto di osservazione, nel mio caffè, e iniziai a tenere d’occhio quel leader.
+
+A quel tempo, a Londra non si conosceva ancora l'esistenza di quella calamità.
+
+Mio amico sembrava avermi notato; comunque, sul suo viso si leggeva un'espressione nuova e un po' ansiosa. Con passi decisi attraversai la strada per salutarlo, e quando mi vide, si rilassò completamente. Mi disse che il mio posto era stato richiesto appositamente e che era stata offerta una cifra più alta; ma, secondo lui, un buon affare è pur sempre un buon affare, quindi iniziammo a chiacchierare. Quando menzionai, tra gli altri argomenti, il grande successo della sua impresa, ebbe un leggero sussulto, il che dimostrava quanto fosse onesto; tuttavia era troppo determinato per cedere alle pressioni. Aveva lo spirito dei Pionieri.
+
+Gli assicurai immediatamente che non avevo affatto l’intenzione di rimproverarlo per i talenti che aveva utilizzato con tanta abilità ed energia. Gli feci notare che anche se volessi ferirlo – il che non era affatto vero – sarebbe stato impossibile, per me o per chiunque altro, individuare più di una dozzina dei suoi numerosi clienti.
+
+Spesso accade che persone con scarse capacità imprenditoriali riescano a individuare alcuni elementi importanti in un problema commerciale che sfuggono all’attenzione dei geni; e potei vedere che questa mia semplice osservazione lo aveva rasserenato al punto di farlo quasi piangere.
+
+Prima che potesse ringraziarmi, apparve un venditore di notizie con un grande cartello su cui era scritto.
+
+“Posticipato.”
+
+In un attimo, la sua mente comprese il pieno significato di quella parola; ma uscì con passi decisi e pagò i sei penny che il venditore di giornali gli chiese. Anche in quell’atto silenzioso, in quel sacrificio volontario di una somma relativamente alta richiesta dalle circostanze, si poteva percepire quella forza finanziaria che, in realtà, è l’arbitro vero del destino delle nazioni. Aveva bisogno di quel giornale: non discusse sul prezzo. Prima lesse attentamente le parole esatte dell’annuncio, poi, alzando lo sguardo su di me con un viso impassibile, disse:
+
+“Non solo è stata rinviata, ma anche tutta questa preparazione risulta inutile.”
+
+Ho detto che non ho alcuna attitudine commerciale; ammetto di essere stato perplesso.
+
+“Certamente”, dissi, “è esattamente ciò di cui avevi bisogno, no?”
+
+Scosse la testa, continuando con grande sforzo a trattenere l’espressione naturale del suo dolore, e mi mostrò, come unica risposta, un biglietto ferroviario per Boulogne che aveva acquistato e che era valido per il treno notturno della vigilia dell’evento. Allora capii cosa intendeva quando diceva che tutti i suoi preparativi erano andati sprecati.
+
+Non so se abbia fatto bene o male. Mi sentivo come un semplice strumento cieco nelle mani del potere supremo che guida i destini di un popolo.
+
+“Quanto è costato il biglietto?” chiesi.
+
+“Trenta scellini,” disse lui.
+
+“Tirai fuori una sovrana e mezza sovrana dalla mia tasca, e dissi…”
+
+Ecco i soldi. Ho del tempo libero, e andrei volentieri a Boulogne quanto a Sutherlandshire.
+
+Non mi ringraziò in modo eccessivo, come potrebbe fare una razza più emotiva e meno efficiente; ma strinse la mia mano e mi benedisse in silenzio. Poi lo lasciai.
+
+* * * * *
+
+Sul piroscafo diretto a Boulogne, mentre riflettevo su questa strana avventura, un robusto anglo-sassone, un vero discendente di Drake o Raleigh, si avvicinò e mi chiese il biglietto. Mentre glielo davo, i miei occhi notarono casualmente il prezzo del biglietto: venticinque scellini. Ma io avevo una mente creativa e ingegnosa.
+
+Se dovesse leggere queste righe, si ricorderà di me. Probabilmente in questo momento si trova alla Camera dei Comuni. Forse ha già acquistato il proprio titolo nobiliare. Ovunque sia, spero che si ricordi di me.
+
+# Caedwalla
+
+CAEDWALLA, un principe del Galles (sebbene alcuni lo neghino), vagava nella foresta di Andredsweald. Aveva diciannove anni e il suo cuore era pieno di rabbia per le ingiustizie subite da parte di persone della sua stessa famiglia. Infatti, lui era legalmente l’erede al trono del regno del Sussex, ma veniva ostacolato dall’ingiustizia degli uomini.
+
+Lo accompagnava un seguito del genere che sempre segue avventure ed esili. Questi erano i ricchi della costa e di Gwent, chiamati “uomini rovinati”; ma amavano il loro Signore. Così lui andava a caccia, nutrendosi di ciò che uccideva, spostandosi da un insediamento all’altro nelle rare foreste di Andred: a volte si trovavano distese aperte di brughiera, a volte miglia di querce, e spesso paludi di fango. Viste dai piccoli rilievi di sabbia dove crescevano erica e ginepro, le colline a sud sembravano un muro.
+
+Un giorno, mentre vagabondava, incontrò un altro uomo di tutt’altra indole: infatti Caedwalla non aveva nulla a che fare con la Croce di Cristo, né con le usanze delle città, né con i discorsi degli stranieri. Quest’uomo, invece, era un vescovo in viaggio; si chiamava Wilfrid e anche lui aveva il proprio piccolo seguito. Per motivi legati al suo incarico o alla sua esilio, si era recato in una località situata tra le brughiere e i boschi della regione di Weald, dove si trovava anche Caedwalla: così i due si incontrarono. L’orgoglio e il portamento di Wilfrid – visto che proveniva da una città romana, era un funzionario dello Stato e addirittura un vescovo, anzi un vescovo tra i vescovi – non erano certo il tipo di orgoglio che piaceva a Caedwalla. Il giovane, invece, si comportava con un altro tipo di orgoglio: quello tipico delle montagne e degli uomini pagani. Tuttavia, Wilfrid, con la sua retorica romana e le sue parole appassionate, raccontò loro la storia del nostro Signore; Caedwalla, pur mantenendo un atteggiamento distaccato durante tutto il racconto, non poté impedire che quella storia si insinuasse nelle profondità del suo cuore, dove rimase per molti anni, senza mai più uscirne.
+
+Il regno del Sussex, coltivato da persone di ogni sorta, accolse Wilfrid vescovo ovunque egli andasse. Fece molte cose che qui non riguardano il nostro argomento; il suo compito principale fu quello di rendere cristiane le ricche città costiere, come Chichester, Lewes e Arundel, nonché i villaggi della regione del Weald e i loro mercati. Infatti, dimostrò loro che era vergognoso comportarsi in modo barbarico, ignorante delle lettere e incapace di produrre abiti o procurarsi il cibo. Come ho scritto altrove, fu proprio San Wilfrid ad insegnare al re del Sussex e ai suoi sudditi come pescare con le reti. Tutti lo rispettavano profondamente; una volta abbandonata la loro vergognosa barbarie e accettate le regole della vita cristiana, insistettero affinché San Wilfrid istituisse una diocesi, dotata di cattedrale e sede vescovile (tutti elementi che egli aveva già spiegato loro). Egli lo fece a Selsey Bill, ma oggi il mare ha inghiottito tutto.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_03" data-title="On Something — THE EMPIRE BUILDER (part 3)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="concept/faith,setting/england"></span>
@@ -3206,6 +4324,30 @@ So those boys who had found death at his hands had died after baptism, up on Itc
 
 Now that you have done reading this story you may think that I have made it up or that it is a legend or that it comes out of some storyteller’s book. Learn, therefore, that it is plain history, like the battle of Waterloo or the Licensing Bill (differing from the chronicle only in this, that I have put living words into the mouths of men), and be assured that the history of [[England]] is a very wonderful thing.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il tempo passò, e il giovane Caedwalla, ancora molto giovane – aveva appena vent’anni – raggiunse la maturità. Salì sul trono che gli spettava di diritto a Chichester e governò tutto il Sussex fino ai suoi confini più estremi. Come dimostra la storia, era re anche di molto altro; tuttavia, nel suo cuore di giovane rifiutò sempre con orgoglio quell’abito e quel modo di comportarsi che aveva odiato durante l’esilio. Non accettò mai le preghiere in latino, né si inchinò al nome del Dio cristiano.
+
+Caedwalla, ancora così giovane ma ormai re, riteneva vergognoso che il suo regno non si estendesse oltre l’impero che Dio gli aveva concesso; provava quindi un forte desiderio di attraversare il mare e conquistare nuove terre. Così, sia che le sue decisioni fossero sagge o no, partì per attraversare il mare e conquistare l’Isola di Wight. Si diceva infatti che in tempi antichi, prima ancora dell’invenzione della scrittura e quando esistevano solo canzoni, il leggendario eroe Wight avesse fondato lì il suo regno. Caedwalla e i suoi soldati sbarcarono su quell’isola e combatterono contro i numerosi abitanti che vi vivevano; riuscirono a sottometterli, ma in queste battaglie Caedwalla rimase ferito.
+
+Accadde che il Re di quell’isola, il cui nome era Atwald, avesse due eredi, giovani ragazzi per i quali si sperava con dolore che questo conquistatore li risparmiasse, poiché essi erano fuggiti verso Stoneham lungo il corso d’acqua; ma un monaco che serviva Dio presso il guado dei canneti situato vicino a Hampton, all’inizio del fiume, venendo a sapere che Re Caedwalla (che si stava riprendendo dalle ferite riportate nella guerra contro i popoli di Wight) conosceva il luogo in cui i giovani si nascondevano e aveva deciso di ucciderli, andò dal Re e lo supplicò di permettere loro almeno di ricevere l’insegnamento della [[Faith|Fede]] prima di morire, dicendogli: “Re, anche se voi non appartenete alla [[Faith|Fede]], questo non significa che possiate privare gli altri di un tale dono. Lasciate quindi che questi giovani ricevano l’insegnamento e vengano battezzati; dopo potrete esprimere la vostra crudeltà come desiderate.” E Caedwalla acconsentì. Così, i ragazzi furono portati in un luogo sacro situato su Itchen, dove ricevettero l’insegnamento delle verità e dei misteri della religione. Nel frattempo, Caedwalla chiedeva di tanto in tanto se fossero ancora cristiani.
+
+Finalmente avevano ricevuto tutta la conoscenza che gli uomini sacri potevano offrire loro e furono battezzati. Una volta accettati nella comunità cristiana, Caedwalla non esitò più e li fece uccidere. Si dice che morirono felici, ritenendo che quel passo fosse soltanto l’ingresso all’immortalità.
+
+Dopo tali imprese, Caedwalla continuò a regnare sul regno di Sussex e sugli altri suoi regni; né con le parole né con i gesti lasciò intendere ai ricchi o ai poveri intorno a lui se qualcosa gli passasse per la mente. Mentre nella cattedrale di Selsey si celebrava la Messa, mentre continuavano ad arrivare nuovi fedeli – ormai sempre più raramente, poiché quasi tutti erano già stati battezzati –, mentre questi ultimi venivano dalle parti più remote della foresta e dai luoghi più solitari delle colline per ascoltare parlare di Cristo, della sua croce, della sua resurrezione e della salvezza degli uomini, Caedwalla sedeva a Chichester, consultando solo se stesso, e rimaneva un re pagano. Non c’era nessun altro, in tutta quella terra, che si tenesse così isolato dal resto del mondo.
+
+La sua giovinezza era trascorsa in questo modo, e così egli regnava; quando gli si avvicinò il trentesimo anno di vita, comunicò la sua decisione ai suoi nobili, ai suoi conti, alle persone di lingua gallese, ai marinai, ai sacerdoti e a tutto il suo popolo. Disse: “Prenderò una nave e attraverserò il mare per recarmi a Roma, dove potrò pregare presso le tombe degli apostoli beati e ricevere il battesimo. Ma poiché sono un re, solo il Papa può battezzarmi. Farò penitenza dei miei peccati, rivolgerò lo sguardo verso ciò che è degno di un uomo, abbandonerò ciò che mi era caro e accetterò ciò che verrà.” E poiché nessuno riuscì a far cambiare idea a Caedwalla riguardo alle sue precedenti decisioni, non riuscirono nemmeno questa volta. Tuttavia, il suo popolo contribuì volentieri al finanziamento del suo viaggio: tutte le pecore delle colline, la loro lana, tutto il grano dei campi della regione di Weald, i piccoli vigneti presenti nei giardini dei sacerdoti che si affacciavano sul mare, i pescatori, e tutte le persone del Sussex che si dedicavano alla navigazione, al lavoro nei campi, all’allevamento delle pecore, alla raccolta dei frutti o alla lavorazione del ferro, offrirono ciò che avevano a Re Caedwalla. Così egli partì, accompagnato da un buon seguito e con abbondanti provviste, verso le tombe degli apostoli.
+
+Quando re Caedwalla arrivò a Roma, il Papa lo ricevette e disse: “Ho sentito dire che desideri ricevere istruzioni sulla [[Faith|Fede]].” Re Caedwalla rispose che tale era il suo desiderio e che anelava al battesimo nelle mani del suddetto Papa. Nel frattempo, Caedwalla trovò un ottimo alloggio a Roma, diede denaro ai poveri e si comportò all’esterno come se fosse venuto dai confini della terra, cioè dal regno di Sussex, che in quei tempi non era ancora famoso. Ora che aveva trent’anni ed aveva appreso tutto ciò che era necessario per ricevere il battesimo, fu battezzato e gli venne dato un abito bianco da indossare per alcuni giorni.
+
+Re Caedwalla, una volta unito alla comunità dei cristiani, ne fu molto felice. Tuttavia disse anche che prima di perdere quella veste bianca che gli era stata data, la morte lo avrebbe colto (sebbene fosse un giovane guerriero), e non in battaglia. Ne era certo.
+
+E così effettivamente accadde. Perché nel lasso di tempo di pochi giorni in cui il rituale richiedeva che il Re indossasse il suo abito bianco, anzi, proprio nella stessa settimana, egli morì.
+
+So che quei ragazzi che avevano trovato la morte per mano sua erano morti dopo il battesimo, su Itchen nel Gwent, quando Caedwalla il Re era partito dal Sussex per conquistare e tenere il Wight con la sua lancia, la sua spada e il suo scudo, insieme ai suoi capitani e ai suoi uomini armati.
+
+Ora che avete letto questa storia, potreste pensare che l’abbia inventata io, o che si tratti di una leggenda, o ancora che provenga da qualche libro di racconti. Imparate quindi che si tratta di storia reale, proprio come la battaglia di Waterloo o il Licensing Bill; la differenza risiede soltanto nel fatto che ho messo parole vive nelle bocche dei personaggi. Sappiate con certezza che la storia dell’[[England|Inghilterra]] è davvero qualcosa di meraviglioso.
 
 
 
@@ -3243,6 +4385,38 @@ The sea also was here more of a barrier than a bond. Ireland — not Roman, and 
 This triangle of Lancashire, so cut off from the west and from the east, had for its base a barrier that completed its isolation. That barrier was the marshy valley of the Mersey. It could be outflanked only at its extreme eastern point, where the valley rises to the hundred-foot contour line. From that point the valley rises so rapidly within half a dozen miles into the eastern hills that it was dry even under primitive conditions, and the opportunity here afforded for a passage is marked by the topographical point of Stockport.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un’unità dell’[[England|Inghilterra]]
+
+[[England|INGHILTERRA]] è stata fortunata per il tipo di suddivisione che ha adottato. In tutta l’Europa occidentale, il sistema di divisione territoriale instauratosi dopo la caduta dell’Impero romano ha svolto un ruolo fondamentale nello sviluppo delle grandi nazioni; tuttavia, mentre in altri paesi queste suddivisioni sono state esagerate fino a diventare piccoli regni o ridotte a semplici comuni, in Inghilterra i contadi hanno costituito per secoli unità locali solide e durature, sopravvivendo con maggiore vitalità rispetto alle corrispondenti divisioni delle altre province dell’Europa romana.
+
+Quell’evento particolare ha plasmato e mantenuto i sentimenti locali nel corso delle generazioni, in un periodo in cui la governance locale e l’iniziativa spontanea stavano scomparendo altrove; esso ha permesso di preservare una sorta di indipendenza aristocratica, la sopravvivenza delle tradizioni e la differenziazione tra lo Stato e le comunità locali.
+
+Non è necessariamente (come molti storici che non conoscono bene l’Europa nel suo insieme hanno dato per scontato) un vantaggio supremo, per qualsiasi popolo, evitare l’istituzione di un potere esecutivo centrale forte. Un tale potere è il risultato naturale di tutte le civiltà avanzate: protegge i deboli dai forti, è necessario per agire rapidamente in tempo di guerra, garantisce chiarezza e metodo in tempi di pace, assicura un minimo di benessere a tutti, e impedisce che le illusioni e i vizi dei ricchi contaminino l’intera comunità.
+
+Ma sebbene una tale fuga da un governo centrale forte e la sostituzione di esso con una classe dirigente non rappresenti un vantaggio supremo, essa presenta comunque dei vantaggi propri che ogni storico straniero dell’[[England|Inghilterra]] ha riconosciuto. Sono proprio le divisioni in contee che, dopo il cambiamento di religione nel XVI secolo, furono le principali responsabili della lenta sostituzione del governo locale e oligarchico con un governo centrale e burocratico in Inghilterra.
+
+Non tutti i contee sono affatto unità geografiche o amministrative autentiche. Ad esempio, tutte le divisioni del Galles sono più o meno artificiali e di origine recente, ad eccezione di Anglesey. Per quanto riguarda le regioni non romanze, come l’Irlanda e le Highlands della Scozia, è ovvio che i contee non siano mai state, né lo siano ancora oggi, unità geografiche efficaci. Lo stesso vale per la parte centrale e gran parte dell’Inghilterra: i distretti sono stati creati, come suggerisce il loro nome, in modo piuttosto arbitrario, all’interno del territorio generale.
+
+Quando si dice “arbitrariamente”, non si intende che tali territori non fossero legati da sentimenti locali o che non avessero una base naturale; anzi, ne avevano senz’altro. Questi territori appartenevano a città centrali come Shrewsbury, Warwick, Derby, Chester, Oxford, Buckingham, Bedford, Nottingham. Tuttavia, la loro vita non era né è mai stata fortemente individualizzata; non possedevano confini continui né radici nazionali antiche. Intorno a questi territori, come in un anello, si trovavano le contee che avevano sempre avuto una vera vita locale fin dall’inizio. La Cornovaglia è completamente diversa dal Devon, e questa differenza ha motivazioni storiche chiare; il Devon, a sua volta, rappresenta un’unità ben definita, risultato di un atto politico specifico del IX secolo. Per Dorset e Hampshire si può dire lo stesso, ma il Sussex costituisce un’unità che è stata per lungo tempo un regno e una diocesi, con confini naturali ben definiti e situata entro gli stessi limiti per oltre mille anni. Il Kent, probabilmente una divisione romana originale, è stato un’unica entità ancora più a lungo. Norfolk, Suffolk ed Essex hanno anch’essi una storia simile; tuttavia, i loro confini territoriali non sono sempre stati ben delimitati. Forse il territorio più chiaramente definito, dopo il Sussex, era quello del Lancashire Meridionale e Centrale.
+
+La sua topografia assomigliava a uno di quegli esempi ideali che gli istruttori militari utilizzano come modelli quando vogliono semplificare una spiegazione riguardante il terreno. Da un lato si estendeva quella lunga, alta e difficile catena montuosa che rappresentava la struttura principale dell’Inghilterra; dall’altro c’era il mare, e il mare insieme alle montagne si appoggiavano l’uno all’altro, formando due lati di un triangolo che si incontrava sopra la baia di Morecambe.
+
+Quanto fossero formidabili le barriere naturali di questo triangolo non è facile per lo studioso dei nostri tempi riconoscerlo. È necessario un esame generale del passato, e una conoscenza di molte condizioni poco note nel presente, per apprezzarne pienamente l’importanza.
+
+La difficoltà di quei brughi e di quelle colline orientali, il loro ostacolo per il passaggio umano, si manifesta costantemente nella storia inglese. Gli ingegneri delle ferrovie moderne potrebbero raccontarne intere storie; la storia di ogni esercito che ha dovuto attraversarle, e di cui abbiamo testimonianze, ne è un chiaro esempio. L’illusione che il viaggiatore moderno possa avere, ritenendo tale ostacolo trascurabile, svanisce rapidamente quando prova a superarlo con metodi diversi da quelli delle ferrovie; e forse in un’esperienza del genere nulla colpisce di più la natura reale di questo ostacolo della solitudine che esso comporta.
+
+Non conosco alcun altro contrasto altrettanto evidente tra uomini ed “vuoto” in Europa.
+
+Le grandi città si estendono, enormi e affollate, per milioni di persone nelle pianure su entrambi i lati; le loro “braccia” si estendono fino nelle valli adiacenti. Tra di esse, completamente deserte, ci sono queste migliaia di chilometri di terreni collinari spogli, come il tetto di una casa tra due strade affollate.
+
+Bastano semplicemente attraversare i Pennines, sia in auto che a piedi, per capirlo. Percorrere l’intera catena montuosa lungo il corso d’acqua, dal Peak fino a Crossfell (pochissime persone ci sono riuscite!), significa sperimentare una sensazione di desolazione e isolamento che non si trova da nessun’altra parte nel mondo, almeno non nelle vicinanze di grandi città.
+
+Il mare, in quel luogo, rappresentava più una barriera che un legame. L’Irlanda – non romana, e in seguito nemica – si estendeva oltre quella riva. I suoi porti (ad eccezione di uno) erano infestati dalla sabbia. La pendenza del terreno lungo la costa era scarsa: l’avvicinamento e lo sbarco di una flotta non risultavano facili. Inoltre, i delta dei suoi fiumi erano pochi e pericolosi.
+
+Questo triangolo del Lancashire, così isolato sia a ovest che a est, aveva come base una barriera che ne completava l’isolamento: quella barriera era la valle paludosa del Mersey. Era possibile aggirarla soltanto nel suo punto più orientale, dove la valle si innalza fino alla linea di contorno dei cento piedi. Da quel punto in poi, la valle sale rapidamente, entro pochi chilometri raggiungendo le colline orientali; per questo motivo, anche in condizioni primitive, il terreno rimaneva asciutto. L’opportunità di creare un passaggio in questa zona era indicata dal punto topografico di Stockport.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_05" data-title="On Something — THE EMPIRE BUILDER (part 5)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="setting/england"></span>
@@ -3269,6 +4443,28 @@ When the long ascent was ended and the crest reached, where the head of the vall
 In the presence of so wonderful a thing I forgot the object of my journey and the immediate care of the moment, and I went through the great doors that opened on the Place. These were carved, and by the little that lingered of the light and the glimmer of the electric light on the neighbouring wall (for there is electric light everywhere in Spain, but it is often of a red heat) I could perceive that these doors were wonderfully carved. Already at Saragossa, and several times during my walking south from thence, I had noted that what the Spaniards did had a strange affinity to the work of Flanders. The two districts differ altogether save in the human character of those who inhabit them: the one is pastoral, full of deep meadows and perpetual woods, of minerals and of coal for modern energy, of harbours and good tidal rivers for the industry of the Middle Ages; the other is a desert land, far up in the sky, with an air like a knife, and a complete absence of the creative sense in nature about one. Yet in both the creation of man runs riot; in both there is a sort of endlessness of imagination; in both every detail that man achieves in art is carefully completed and different from its neighbour; and in both there is an exuberance of the human soul: but with this difference, that something in the Spanish temper has killed the grotesque. Both districts have been mingled in history, yet it is not the Spaniard who has invigorated the Delta of the Rhine and the high country to the south of it, nor the Walloons and the Flemings who have taught the Spaniards; but each of these highly separated peoples resembles the other when it comes to the outward expression of the soul: why, I cannot tell.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Attraverso quel cancello le principali strade di accesso entravano ancora nella contea. Attraverso questa apertura passava la London Road, e oggi vi passa anche la ferrovia Londra e Nord-Ovest. Fu proprio questo cancello a conferire a Manchester un'importanza strategica fin dai primi tempi: essendo situato esattamente a nord di esso, controllava l’intero angolo della regione.
+
+Gli storici hanno sottolineato che il controllo di Manchester equivaleva, in definitiva, al controllo stesso del Lancashire. Non era l’importanza industriale della città a renderla così strategica – questa importanza, infatti, era quasi inesistente fino ai tempi moderni – bensì la sua posizione geografica. La fortezza romana situata all’incrocio dei due fiumi, vicino a Knott Mill, rappresentava la prima posizione difendibile ideale per controllare questa via d’accesso verso il sud-est.
+
+Entrare nella contea situata a ovest del contorno di cento piedi e nella valle del Mersey era impossibile per un esercito privo di metodi moderni; anche una piccola distruzione organizzata avrebbe reso tale operazione nuovamente impossibile.
+
+Due dighe artificiali attraversavano la valle. Ancora oggi, sia a Stretford che a Stretton, si possono trovare prove del loro antico uso: entrambi i nomi indicano infatti l’esistenza di un “viale”, cioè di una strada costruita artificialmente per attraversare terreni morbidi e allagati. Stretford rappresentava semplicemente il punto di accesso a Manchester da Chester; in questo modo, Manchester controllava entrambi gli approcci sud-orientali della contea: uno naturale, l’altro artificiale. L’accesso attraverso Stretton conferiva a Warrington un’importanza strategica nelle prime fasi della storia della contea: situata sul fiume Mersey, Warrington si trovava a distanza di una giornata di marcia da Liverpool, il porto più importante, e da Manchester. Fu proprio da Warrington che Lord Strange mosse verso Manchester all’inizio della Guerra Civile; e se per qualche motivo questa zona dovesse nuovamente diventare teatro di conflitti, Warrington, nonostante la rete moderna di comunicazioni, rimarrebbe il centro strategico del confine della contea.
+
+Si potrebbe prendere ciascuna delle unità da cui è stata costruita l’odierna [[England|Inghilterra]] e dimostrare che i loro confini sono stati stabiliti dalla natura, e che la loro separazione territoriale non deriva dalle incursioni dei pirati, ma risale a tempi infinitamente più antichi – molto anteriori all’Impero romano – ed è probabilmente stata accettata già all’interno di quest’ultimo. Si potrebbe quindi dimostrare, o almeno suggerire, che il carattere strategico della contea inglese, nonché dei suoi principali bastioni e barriere difensive, ha radici in un passato molto lontano dai confini della storia documentata. Realizzare uno studio del genere significherebbe arricchire la verità e la realtà della nostra storia, poiché l’[[England|Inghilterra]] non è stata creata, né tantomeno plasmata, dalle incursioni dei danesi e dei sassoni. La struttura su cui si fonda l’organizzazione territoriale inglese è molto più antica e solida di quanto si possa immaginare, e sopravvive ancora oggi.
+
+Il Reliquia
+
+Era una sera in Spagna, ma non quella Spagna che questa parola ci evoca nel Nord: era semplicemente un calare della luce, senza rugiada, senza nebbia, senza cieli. Salii lungo un valle roccioso e vidi, contro il profilo irregolare dell’altopiano in fondo al valle, la cupola di una chiesa. La strada che percorrevo era appena segnata; spesso si perdeva tra le rocce ruvide e la sabbia, e nelle zone più basse del valle c’erano solo poche pozzanghere stagnanti.
+
+La forma della cupola era tipica italiana; avrebbe dovuto sorgere in un paesaggio italiano, certamente più arido di quello a cui sono abituati i nordici, ma comunque circondato da alberi, e con una distanza che avrebbe potuto rendere il cielo leggermente blu. Invece, questo grande edificio sorgeva in quel deserto totale che ho descritto a lungo: un luogo così spaventoso e così estraneo per un europeo proveniente da qualsiasi altra parte d’Europa. Mentre mi avvicinavo all’edificio, vidi che intorno ad esso si era formata una sorta di villaggio, o meglio, un gruppo di case collegate tra loro; infatti, la chiesa era molto più grande di qualsiasi altra struttura presente nella zona, e il materiale utilizzato per costruirla e per le abitazioni era così simile che i vecchi tetti piatti, tutti coperti di tegole, si confondevano nell’oscurità, formando un insieme uniforme. Si sarebbe potuto dire, forse anche secondo la verità storica, che la chiesa non era stata costruita per soddisfare le esigenze della zona, ma che l’intero insediamento si era sviluppato intorno al santuario, servendo soprattutto a ospitare i suoi servitori.
+
+Quando la lunga salita terminò e raggiunsi la cima, dove l’ingresso della valle si congiungeva con la pianura superiore, entrai nelle strette strade laterali. Ormai era completamente buio: l’oscurità era arrivata all’improvviso, e per rendere tutto ancora più tenebroso, non c’era né luna né stelle; nuvole scure e minacciose si erano accumulate nel cielo, impedendo di vedere qualsiasi cosa. Qui e là alcune luci brillavano nelle case, ma la maggior parte della gente era per strada, chiacchierando ad alta voce davanti alle proprie porte. Mi osservavano mentre passavo, perché ero uno straniero; proseguii fino a raggiungere il mercato centrale, chiedendomi come potessi trovare il posto migliore dove dormire. Ma prima ancora che riuscissi a decidere, i miei pensieri presero una direzione diversa: mi trovai davanti all’ingresso di un’enorme facciata, e dietro di essa, un po’ offuscata dalla lunghezza stessa della chiesa, si intravedeva appena la cupola. Ero arrivato proprio ai piedi di quella chiesa che, per tutto il corso delle ultime ore, aveva accompagnato i miei pensieri e rappresentava un obiettivo per me.
+
+Di fronte a una cosa così meravigliosa, dimenticai lo scopo del mio viaggio e le preoccupazioni immediate del momento; attraversai quelle grandi porte che si aprivano sulla Piazza. Erano scolpite con grande maestria, e grazie alla debole luce e al bagliore delle luci elettriche sul muro adiacente (poiché in Spagna c’è l’elettricità ovunque, anche se spesso ha una luce rossastra), potei notare quanto fossero raffinate queste sculture. Già a Saragozza, e più volte durante il mio viaggio verso sud da lì, avevo osservato che ciò che i Spagnoli realizzavano presentava una strana affinità con le opere delle Fiandre. I due territori differiscono completamente, tranne che per la natura umana dei loro abitanti: uno è di carattere pastorale, pieno di praterie vaste e foreste rigogliose, di minerali e carbone per l’energia moderna, di porti e fiumi adatti all’industria medievale; l’altro, invece, è una terra desolata, con un clima estremamente freddo e una totale assenza di quella creatività naturale che si riscontra nell’uno o nell’altro. Eppure, in entrambi i casi, la creazione umana raggiunge livelli elevati: in entrambi c’è un’immaginazione infinita; in entrambi ogni dettaglio realizzato dall’uomo nell’arte viene curato con grande attenzione e si distingue da ciò che lo circonda; in entrambi c’è una profonda esuberanza dell’anima umana. Ma con questa differenza: nel carattere spagnolo, qualcosa ha “ucciso” il lato grottesco della creatività. Entrambi i territori sono stati influenzati dalla storia, ma non è stato lo spagnolo a dare vita al Delta del Reno e alle regioni adiacenti a sud; né i Valloni o i Fiorentini hanno insegnato qualcosa agli Spagnoli. Eppure, quando si tratta dell’espressione esterna dell’anima, questi popoli così diversi tra loro sembrano in qualche modo simili. Perché? Non lo so.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_06" data-title="On Something — THE EMPIRE BUILDER (part 6)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="concept/faith,concept/tradition"></span>
@@ -3288,6 +4484,22 @@ Had I not heard that chant often enough in my life to catch its meaning? I had n
 
 Then the priest shut the doors and locked them, and a boy came and blew the candles out one by one, and I went out into the market-place, fuller than ever of Spain.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+All’interno non regna un’oscurità totale, ma una serie di luci che si stagliano contro il silenzio della notte; al centro della chiesa, come un simbolo funebre, si trova il coro: una tradizione intatta, risalente alle origini della fede cristiana. Andate nelle più antiche basiliche di Roma e vedrete che quel luogo sacro sorge al centro dell’edificio, occupando una parte significativa dello spazio totale. Noi nel Nord, dove la fede è sopravvissuta ininterrottamente, abbiamo progressivamente ridotto questa caratteristica delle chiese, espandendo gli spazi aperti e accessibili al pubblico, conservando soltanto il paravento che ricorda ciò che un tempo rappresentava i misteri e le iniziazioni cristiane. Ma in Spagna le prime forme esterne del cristianesimo si sono cristallizzate in modo particolare: esse sembrano quasi una sfida o un insulto rivolto alle culture asiatiche, nel corso della riconquista delle province desolate. E per questo, in ogni chiesa spagnola, accanto all’esplosione artistica cristiana, si trova questa struttura gerarchica e segreta, che può sembrare quasi scioccante per un nordico. Il coro, con le sue mura solenni che separano il popolo dai sacerdoti e dai misteri religiosi, rappresenta ancora oggi l’eredità di quel sistema originario, creato per difendersi da una società ostile.
+
+Il silenzio di quel luogo non era assoluto, né, come ho detto, l’oscurità era totale. All’estremità del coro, dietro l’altare maggiore, c’era la luce di molte candele; si udivano persone mormorare o sussurrare, ma non stavano pregando. In quel momento un giovane prete mi passò accanto; gli dissi in latino che non conoscevo lo spagnolo e gli chiesi se potesse parlarmi lentamente in quella lingua. Mi rispose con la parola “Paucissime”, che capii facilmente. Allora gli chiesi, molto attentamente e lentamente, se stesse per aver luogo la benedizione serale; poiché non conoscevo il termine latino corretto, lo chiamai alternativamente “Benedictio” (in inglese) e “Salus” (in francese). Lui rispose due volte “Si, si”; non so se si trattasse di italiano, francese o di una lingua locale, ma capii dal suo cenno del capo che non aveva compreso il mio significato. Quando mi avvicinai all’altare maggiore dove si trovavano le candele e mi inginocchiai lì, vidi chiaramente che non c’erano preparativi per la benedizione: non c’era nemmeno un altare. C’erano soltanto due porte di armadio, fatte di legno molto scolpito, pesantemente dorato e molto vecchio; in realtà, i motivi scolpiti erano barbarici. Penso che risalissero a quel periodo di transizione tra il Medioevo Antico e il Medioevo, quando molte opere cristiane assomigliavano a quelle dei selvaggi: spirali, teste orribili, serpenti e altre figure simili.
+
+Ero già profondamente colpito da tutto ciò; c'era un piccolo gruppo di persone, forse la metà delle quali erano bambini, quando il giovane prete con cui avevo parlato si avvicinò e, chiamando un uomo ben vestito di classe media che si trovava lì vicino e che, suppongo, aveva una certa influenza locale, salì insieme a lui i gradini verso quelle porte di legno; inserì una chiave nella serratura e le aprì completamente. Le candele illuminarono all’istante, attraverso vetro spesso e trasparente, un supporto adornato di gioielli che brillavano meravigliosamente; al centro c'era la testa di un uomo morto, tagliata dal corpo, inclinata leggermente da un lato, e il suo volto era cambiato in modo terribile rispetto all’espressione di quando era vivo. Quel cambiamento derivava non solo dall’immensa vecchiaia, ma anche, presumo, dalla violenza della sua morte.
+
+Per coloro che non hanno esperienza nella pratica di tale forma di culto, potrebbe esserci una maggiore giustificazione per l’impressione insolita che questa scena mi ha improvvisamente suscitato. La nostra razza, fin dai suoi albori, anzi tutte le razze umane, hanno conservato i ricordi fisici di coloro a cui era attribuita la santità; ho visto tali reliquie in molte parti d’Europa, quasi considerandole cose ordinarie. Ma per qualche motivo, quella sera, le mie emozioni erano di natura diversa. La lunghezza del cammino che avevo percorso (perché mi trovavo a chilometri e chilometri a sud, attraverso questa desolata landa), l’ignoranza della lingua che mi circondava, i contorni inumani di tutto ciò che mi circondava, sotto il bagliore accecante del sole o nell’oscurità ostile di questa terra iberica. Le facce severe delle persone che vedevo, la ricchezza e la maestosità dell’architettura circostante, nonché la conoscenza dei lutti attraverso cui quella regione era passata. Tutto ciò mi mise in uno stato d’animo molto diverso da quello che normalmente si prova durante un pellegrinaggio; c’era molto di più, in quel momento, sia timore che terrore. Sembrava che, davanti a quella faccia distorta, riaffiorassero i ricordi di sofferenze intense e della lotta disperata attraverso cui questa terra distrutta era stata recuperata. Mentre la guardavo, mi chiedevo se fosse caduto in segno di protesta contro i musulmani, o, come tanti altri, per sopportare torture inflitte da pagani nei mari del Pacifico. Ma nessuna storia su di lui mi fu raccontata; e nemmeno ora, mentre scrivo queste parole, so quale evento abbia reso quella testa così imponente.
+
+Recitarono solo alcune preghiere, tutte familiari a me, in lingua latina; poi il “Padre Nostro” e altre poche preghiere che vengono sempre recitate nella lingua vernacolare. Successivamente intonarono il Salve Regina. Ma che intonazione!
+
+Se non avessi sentito quel canto abbastanza spesso nella mia vita da comprenderne il significato. Non l’avevo mai sentito suonare con una tale melodia! Era aspra, piena di toni legati alla battaglia; la supplica contenuta in quelle parole vibrava di dolore presente e fisico. Se non mi fosse importato nulla delle persone intorno a me, tutta quella sofferenza, tutta quella tradizione nazionale di sofferenza, mi avrebbero davvero sconvolto. Il canto finì; le tre lodi con cui si concludeva erano piene di lamenti, e le voci dei bambini risuonavano molto alte.
+
+Poi il prete chiuse le porte e le serrò; un ragazzo venne e spense le candele una per una, e io uscii in piazza, più pieno che mai di tutto ciò che rappresentava la Spagna.
 
 
 
@@ -3333,6 +4545,46 @@ He introduced me to his wife, a hard-featured woman, with thin hair, full of dut
 I will confess that as we ate those excellent dishes (they were all excellent) and drank that ordinary wine, I seemed to be living in a book rather than among living men. Here was I, a young English boy, thrust by accident into the French army. Fairly acquainted with its language, though I spoke it with an accent; taken (of course) by my host for a pure Englishman, though half my blood was French. Here was I sitting at his side and watching things, and learning — as for him, men like him, of whom [[England]] has some few left in forgotten villages, and who are, when they can be found, the strength of a State, they never bother about learning anything far removed from their realities.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Il commerciante di ferro
+
+Quando ero nell'esercito francese, un giorno di luglio, avanzammo lungo una strada dritta e polverosa, portando con noi le armi; arrivammo nel villaggio chiamato Bar-le-Duc. Ho spesso scritto dei dettagli di queste marce. Ora vorrei parlare di qualcos'altro: qualcosa che, nelle lunghe descrizioni dei semplici rumori delle armi, si potrebbe anche non avere mai il tempo di raccontare. Ma che in realtà rappresenta l’esperienza più importante tra tutte quelle vissute in Francia sotto le armi. Intendo parlare degli anziani civili, i padri.
+
+Chi ha formato l’esercito francese? Chi ha deciso di riprendersi dalle sconfitte e di giocare ancora una volta quella partita decisiva che costituisce metà della storia francese: la “tesaurizzazione”, cioè l’accumulo graduale di potere? La risposta generale a queste domande è: “La nazione sconfitta ha dovuto impegnarsi per riprendere la sua posizione precedente”. Ma questa risposta non è sufficiente. Si tratta di concetti astratti che non dicono nulla di concreto. Molte società politiche nella storia si sono arrese di fronte alle calamità e hanno accettato di decadere lentamente; molte altre hanno fatto di peggio: hanno mantenuto, nonostante avvertimenti gravi, l’orgoglio dei loro anni di cecità, e quando le grandi catastrofi sono arrivate, sono semplicemente morte in silenzio. La Francia né ha accettato di decadere né è morta a causa della sua arroganza. Devono esserci stati uomini che hanno spinto i propri connazionali ad arruolarsi nell’esercito, ad accettare tasse pesanti, ad essere vigili, tenaci e costantemente determinati. Devono esserci state classi sociali in cui, senza che loro stessi se ne rendessero conto, sopravviveva l’essenza della nazione; individui che, perseguendo obiettivi diversi, sono riusciti comunque a portare l’esercito al livello che avevo conosciuto e ad gettare le basi per una rinascita del paese. Ma chi erano questi uomini?
+
+Ne avevo letto parlare a Birmingham quando ero a scuola; ne avevo letto nei libri riguardanti la Guerra dei Cento Anni e la Rivoluzione. Avrei dovuto leggerne ancora nei libri a Oxford. Ma in quel sabato a Bar-le-Duc ne vidi uno di loro, e poiché l’impressione visiva ha più valore dell’effetto secondario della storia, il mio incontro con loro merita di essere raccontato.
+
+Un uomo nella mia compagnia, di nome Matthieu, mi disse che aveva il permesso di uscire quella sera e mi suggerì anche di chiedere io lo stesso permesso. Mi spiegò che suo zio lo aveva invitato a cena e gli aveva chiesto di portare con sé un amico. Sembrava che suo zio vivesse in una villa sulle colline sopra la città; era un ferramenta che si era ritirato dall’attività lavorativa. Andai dal mio sergente e gli chiesi il permesso di uscire.
+
+Il mio sergente era un nobile che stava facendo carriera nelle file militari; quando lo trovai, stava controllando le scorte di cibo in un fienile dove alcuni dei nostri uomini stavano lavorando. Mi guardò dritto negli occhi e disse, con una voce lenta e indifferente:
+
+“Sei tu l’inglese?”
+
+“Sì, sergente,” dissi un po’ ansioso (dopotutto, dopo tutta quella marcia, avevo molta voglia di mangiare bene in città).
+
+“Beh,” disse lui, “poiché sei inglese, puoi andare.” Questa è la logica di quel servizio.
+
+L’esercito non è il posto adatto per discutere, quindi ci sono andato. Immagino che quello che voleva dire fosse: “Poiché entrambi siamo più o meno in esilio, prendi la mia benedizione e vai”, ma forse voleva semplicemente essere incoerente, perché l’incoerenza è proprio lo spirito tipico dei ragazzi e dei soldati. Sono andato su quella collina con il mio amico.
+
+La lunga penombra si estendeva ancora su collina e sulle vecchie case di Bar-le-Duc mentre salivamo. Ormai era notte, ma si poteva ancora leggere chiaramente. Eravamo stanchi e non parlavamo di nulla in particolare; tuttavia, le nostre parole erano piene di quegli stereotipi tipici dei soldati arruolati: “Un mestiere maledetto. Quando ne usciremo mai?” Mentre parlavamo, nel nostro petto c’era orgoglio al suono delle trombe nella nebbia sotto di noi, lungo il [[River|fiume]], e al fatto che l’Ottava Armata stesse facendo sentire la sua presenza. E anche i nostri uniformi e le nostre spade ci riempivano di orgoglio.
+
+Finalmente ci fermammo davanti a una piccola casa quadrata con la scritta “I Lillà” dipinta sul cancello; c’era un piccolo prato inaridito, una fontanella e un treppiede che sosteneva uno specchio sferico; entrammo all’interno.
+
+Lo zio di Matthieu ci accolse; indossava un abito di cotone e passeggiava tra i suoi fiori godendosi la serata. Era un uomo di circa cinquant’anni, basso, robusto, di pelle scura e piuttosto brusco nei modi. Anche se era già sera e non si vedeva molto bene, sapevamo che i suoi occhi erano fermi e scuri. Aveva l’aria e l’andatura di quegli uomini che danno vigore alla Francia. La sua fiducia in sé stessa traspariva dalle sue gambe robuste e dai suoi bracci incrociati, dalla sua rozzezza nei gesti, dal suo sguardo fisso e penetrante, dall’energia indomabile di ogni suo movimento. Non mi sorprese affatto scoprire, in una conversazione successiva, che era un repubblicano. Ci parlò subito entrambi, dicendo con una sorta di grido burbero:
+
+“Bene, artiglieri!”
+
+Poi parlò in modo brusco con suo nipote, dicendogli che eravamo in ritardo; a me disse, con un po' troppa cortesia, che non dava la colpa a me, ma solo al suo disastroso nipote. Risposi che il nostro ritardo era dovuto al fatto che dovevamo trovare quel sergente. Lui rispose:
+
+“Si deve sempre dare la colpa a qualcun altro”, il che rappresenta un vero e proprio mancanza di educazione.
+
+Lui fece strada verso la casa. La sala da pranzo si apriva su un balcone, e oltre c'era un altro piccolo prato circondato da alberi. Nel buio alcuni insetti cantavano, e poiché la sera era piuttosto calda, si poteva annusare il profumo dei fiori. Le finestre erano rimaste aperte. Tutto era pulito, ordinato e spoglio. Sulle pareti c'erano due ottimi vecchi dipinti, un certificato di iscrizione a qualche società, mal disegnato, un ritratto ancora peggiore di un personaggio locale rispettabile, e un acquerello, probabilmente dipinto dalla figlia dello stesso.
+
+Mi presentò sua moglie: una donna dal viso deciso, con i capelli sottili, piena di senso del dovere, impegnata e precisa, appena uscita dalla cucina. Abbiamo posato le nostre “spade” con quel rumore caratteristico e ci siamo seduti a mangiare.
+
+Devo confessare che, mentre mangiavamo quei piatti eccellenti (erano davvero tutti ottimi) e bevevamo quel vino ordinario, mi sembrava di vivere in un libro, piuttosto che tra persone reali. Ero lì, un giovane ragazzo inglese, finito per caso nell’esercito francese. Conoscevo abbastanza bene la lingua francese, anche se la parlavo con un accento; il mio ospite, naturalmente, mi considerava un vero inglese, anche se metà del mio sangue era francese. Ero lì, seduto al suo fianco, a osservare tutto intorno e ad imparare. Mentre persone come lui – di cui in [[England|Inghilterra]] ne rimangono poche in villaggi dimenticati – quando si riesce a trovarle, rappresentano la forza di uno Stato. Loro, però, non si preoccupano mai di imparare nulla che sia lontano dalle loro realtà quotidiane.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_08" data-title="On Something — THE EMPIRE BUILDER (part 8)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="setting/england"></span>
@@ -3367,6 +4619,36 @@ There is no one, or hardly any one, so wicked or so stupid as to deny the democr
 The psychology of the multitude is not the psychology of the individual. Ask every man in West Sussex separately whether he would have bread made artificially dearer by Act of Parliament, and you will get an overwhelming majority against such economic action on the part of the State. Treat them collectively, and they will elect — I bargain they will elect for years to come — men pledged to such an action. Or again, look at a crowd when it roars down a street in anger — the sight is unfortunately only too rare to-day — you have the impression of a beast majestic in its courage, terrible in its ferocity, but with something evil about its cruelty and determination. Yet if you stop and consider the face of one of its members straggling on one of its outer edges, you will probably see the bewildered face of a poor, uncertain, weak-mouthed man whose eyes are roving from one object to another, and who appears all the weaker because he is under the influence of this collective domination. Or again, consider the jokes which make a great public assembly honestly shake with laughter, and imagine those jokes attempted in a private room! Our tricky politicians know well this difference between the psychologies of the individual and of the multitude. The cleverest of them often suffer in reputation precisely because they know what hopeless arguments and what still more hopeless jests will move collectivities, the individual units of which would never have listened to such humour or to such reasoning.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Notai quella serva che andava avanti e indietro rapidamente, maltrattata in modo evidente dal suo padrone; era abile, ma nervosa. Notai anche quanto tutto fosse solido e di buona qualità: le sedie, il tavolo, l’orologio, i vestiti. E soprattutto la cucina. Vidi il giornale locale piegato con cura sul camino; notai il cane domestico accovacciato al suo fianco, e ascoltai le massime che rivolgeva di tanto in tanto a suo nipote, quei principi che un tempo venivano insegnati ai giovani. Mi chiesi quanto avrebbe ereditato quel nipote. Indovinai che fossero almeno diecimila sterline, e al massimo ventimila. Pensando a una somma così ingente, quasi mi sentii in dovere di fare un segno della croce.
+
+Il mio ospite divenne sempre più gentile: mi fece domande sull’[[England|Inghilterra]]. Anche sua moglie era interessata a quel paese. Entrambi ne sapevano di più di quanto la gente della loro classe in [[England|Inghilterra]] sappia di Francia. E questo mi sorprese, perché tra la nobiltà gli inglesi sanno di più sulla Francia di quanto i francesi sappiano sull’[[England|Inghilterra]].
+
+Mi chiese se l’agricoltura fosse ancora in cattive condizioni; perché non ci fossero più persone alle università; perché permettessimo solo ai nobili di entrare nel nostro Parlamento, e se ci fossero più viaggiatori commerciali francesi in Inghilterra che viaggiatori commerciali inglesi in Francia. Su tutti questi punti ammisi, precisai e corressi le sue impressioni, ma probabilmente anche le distorsi un po’.
+
+Mi chiese se i cannonieri inglesi fossero bravi. Gli dissi che non lo sapevo, ma pensavo di sì. Lui rispose che i conducenti inglesi avevano una buona reputazione nel suo paese: suo fratello (fratello di un ferramentaio) era Capitano dell’Artiglieria a Cavallo e glielo aveva detto. E queste parole me le disse mentre indossavo un’uniforme francese, ma il mio cuore era lontano, nella valle di Arun, nelle mie stesse foreste, in pace e da solo.
+
+Nell’ultima ora, quando dovevamo tornare indietro, nel suo sguardo un po’ mercenario apparve una certa tenerezza. Si dedicò di più a suo nipote; lo prese da parte e, con qualche cerimonia, gli diede del denaro. Ci offrì dei sigari; ne prendemmo uno ciascuno. Il suo viso rotondo e francese si riempì di rughe, come un piatto crepato. Disse:
+
+“Bah! Prendetene quanti ne volete! Noi sappiamo com’è la vita nel reggimento,” e ci infilò mezza dozzina di rose ciascuno nelle tasche delle nostre tuniche. Ma quando disse “Noi sappiamo com’è la vita”, mentì. Perché lui stesso era stato soltanto un “mobile” nel ’70. Aveva votato, ma non aveva mai subito l’obbligo di arruolarsi.
+
+Quindi ci congedammo da quest’uomo, il nostro ospite che ci aveva così bene intrattenuti. Potrei sbagliarmi, ma credo fosse un anticlericale. Era una persona rigida, giusta, diligente e attenta; come ho detto, era anche piuttosto limitato nel suo modo di pensare, ma inconsciamente (come ho già accennato) contribuiva alla crescita della nazione.
+
+C'era l’Orafo di Bar-le-Duc; e ce ne sono centinaia di migliaia dello stesso tipo.
+
+# Una forza in Gallia
+
+In Gallia esiste una forza di fondamentale importanza per tutta l’Europa. Questa forza ha plasmato la religione europea, definito le leggi europee e, in tempi più recenti, ha promosso un ideale politico rinnovato. Oggi è ancora molto attiva.
+
+Fu questa forza che causò i massacri di settembre, che rovesciò Robespierre e che eleggeva Napoleone. In una forma più concentrata, fu questa stessa forza che unì in un tutto così potente quegli uomini – non geni – che costituivano il Comitato di Sicurezza Pubblica. Fu questa forza che diede vita alla Comune, al punto che ancora oggi nessuno riesce a spiegare con precisione quali fossero i suoi obiettivi. Ed è sempre questa forza che, in questo momento, fraintende e sopravvaluta gravemente la forza degli eserciti rivali della Francia; anzi, in questo senso si potrebbe davvero dire che la pace in Europa sia molto più garantita dalla conoscenza che i tedeschi hanno delle capacità dell’esercito francese, piuttosto che dall’ignoranza dei francesi riguardo alle forze militari tedesche.
+
+Dico che gli svantaggi di questa forza o qualità all’interno di una comunità sono evidenti, poiché la debolezza e gli svantaggi di ciò che è estraneo a noi stessi non sono mai difficili da comprendere. Ciò che è davvero importante per noi è capire, con qualsiasi difficoltà possa comportare, la forza che tale qualità trasmette. Non aver compreso questa forza, anzi, non aver nemmeno riconosciuto l’esistenza di quella forza di cui parlo, ha reso quasi inutili tutte le storie inglesi sulla Francia. La turbolenza francese viene descritta in esse come anarchia, e l’intera storia fondamentale che ha rappresentato il fulcro dell’Europa occidentale appare come una serie di sfortune incongruenti. Anche Carlyle, con la sua straordinaria capacità di comprendere gli esseri umani e la sua abilità nel ricavare informazioni significative da pochi dettagli (poiché leggeva molto poco sulla materia che studiava), non riuscì mai a comprendere questa forza. Riusciva ad immaginare un padrone che dava ordini a molti servitori; anzi, avrebbe voluto essere lui stesso uno di quei servitori, e ci provò con tutte le sue forze; ma non riuscì mai a comprendere il meccanismo dell’auto-organizzazione dal basso verso l’alto. Eppure, proprio sull’esistenza di questa forza dipende l’intera dinamica della Rivoluzione. La sua forza, quindi (e il suo principale vantaggio), risiede nel fatto che rende possibile la democrazia nei momenti critici, anche in una comunità vasta.
+
+Non esiste nessuno, o quasi nessuno, così malvagio o così stupido da negare l’ideale democratico. Non esiste nessuno, o quasi nessuno, così perverso da essere disposto a rinunciare al proprio diritto naturale di far parte pienamente di una piccola e semplice comunità, anche se ne fosse membro. Non esiste nessuno, o quasi nessuno, che non ritenesse intollerabile essere escluso da tali diritti tra persone della propria stessa carne e sangue. Tuttavia, mentre tutti ammettono l’ideale democratico, la maggior parte delle persone che riflettono, e quasi tutti coloro che sono più saggi tra coloro che riflettono, riconoscono che il principale ostacolo ad esso risieda nel contrasto tra l’ideale stesso e le realtà pratiche, dove gli ostacoli derivanti dalla complessità – sia essa dovuta a interessi diversi, a origini diverse o semplicemente al numero delle persone coinvolte – rendono difficile la sua attuazione.
+
+La psicologia della moltitudine non è la stessa della psicologia dell’individuo. Chiedete a ogni persona del West Sussex se accetterebbe che il pane venisse reso artificialmente più costoso tramite un atto parlamentare, e otterrete una stragrande maggioranza contraria a tale intervento economico da parte dello Stato. Se invece li trattate collettivamente, essi eleggeranno – e scommetto che lo faranno per molti anni a venire – persone impegnate a perseguire proprio tali politiche. Oppure, osservate una folla quando urla furiosamente per le strade: questa scena, purtroppo, è troppo rara al giorno d’oggi. Viene da pensare a una bestia maestosa nel suo coraggio, terribile nella sua ferocia, ma con qualcosa di malvagio nella sua crudeltà e determinazione. Tuttavia, se vi fermate a osservare il volto di uno dei suoi membri che si trova ai margini della folla, probabilmente vedrete il viso confuso di un poveruomo incerto, debole e influenzato da questa dominazione collettiva. Inoltre, pensate ai battute che fanno ridere sinceramente una grande assemblea pubblica. E provate ad immaginare che tali battute vengano pronunciate in una stanza privata! I nostri politici esperti conoscono bene questa differenza tra la psicologia dell’individuo e quella della moltitudine. I più astuti di loro spesso subiscono danni alla propria reputazione proprio perché sanno quali argomentazioni disperate e quali battute ancora più inutili possano convincere le masse, mentre gli individui singoli non ascolterebbero mai simili umori o ragionamenti.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_09" data-title="On Something — THE EMPIRE BUILDER (part 9)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="concept/faith,setting/england"></span>
@@ -3397,6 +4679,32 @@ Upon two occasions an attempt was made towards such action. The first was in the
 Latterly several partial risings have marked French life. Why none of them should have culminated I will consider in a moment. Meanwhile, the foreign observer will do well to note the character of these movements, abortive though they were. It is like standing upon the edge of a crater and watching the heave and swell of the vast energies below. There may have been no actual eruption for some time, but the activities of the volcano and its nature are certain to you as you gaze. The few days that passed two years ago in Herault are an example.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Più grande è la comunità con cui si interagisce, più questa verità diventa evidente; quindi, quando si tratta di milioni di persone distribuite su un vasto territorio, è facile disperare di qualsiasi strumento possa esprimere quella realtà concreta che Rousseau chiamava “Volontà Generale”.
+
+Di fronte a una tale difficoltà, la maggior parte degli uomini che tengono sia al bene del loro paese che all’ordine generale della società tendono, soprattutto con l’avanzare dell’età, ad affidarsi a uno dei vecchi metodi tradizionali attraverso i quali uno Stato può essere governato e controllato. Tendono verso un sistema oligarchico, come quello che esiste in [[England|Inghilterra]], dove un piccolo gruppo di famiglie, strettamente legate tra loro da matrimoni, che pranzano insieme e si ospitano continuamente a vicenda, è, per accordo tacito con la popolazione, autorizzato a dirigere il paese. Oppure preferiscono un sistema burocratico dispotico, di vecchio stampo ma molto stabile, come quello che ha permesso alla Prussia di rimanere solida e che, fino a tempi recenti, ha sostenuto l’espansione della Russia.
+
+I mali derivanti da un simile compromesso con un’idea politica sono più che evidenti: l’oligarchia sarà caratterizzata da uno stile di vita lussuoso e da una corruzione a livello corporativo; i suoi membri, individualmente parlando, saranno piuttosto spregevoli. Inoltre, sia il despota che la burocrazia mostreranno una corruzione personale, soprattutto nei ranghi più bassi del sistema, e mancheranno completamente di sensibilità umana.
+
+“Ma,” dice il vostro pensatore, soprattutto con l’avanzare dell’età, “l’uomo è fatto in modo tale che non può essere governato collettivamente in altro modo. Non può essere collettivamente il padrone, o almeno il padrone permanente del proprio destino collettivo, per quanto la sua ragione e la sua volontà libera gli diano potere sul proprio destino individuale. La nazione,” dice lui, “soprattutto una grande nazione, certamente ha una Volontà, ma non può esprimerla direttamente. E se ci prova, qualsiasi sistema scelga – persino il referendum – non farà altro che creare una parodia meccanica di quella realtà organica e sottile che è l’anima nazionale. L’oligarchia o la burocrazia,” sosterrà lui, e di solito con ragione, “ereditano, trasmettono e mantengono lo spirito nazionale in modo più vero di quanto possa fare un sistema democratico.”
+
+La storia generale, anche quella dell’Europa occidentale, nella sua interezza si colloca dalla parte di questa critica. Andorra è una democrazia perfetta, e lo è da almeno mille anni, forse fin dai tempi in cui i primi esseri umani abitarono quella valle isolata. Ma non esiste alcuno Stato grande che abbia mantenuto un sistema democratico inalterato per tre generazioni consecutive.
+
+È caratteristico dei francesi, tra le grandi e indipendenti nazioni, il fatto che, per qualche particolarità nel loro sviluppo, siano in grado di esprimere rapidamente la propria volontà collettiva. Ripeto: questa capacità emerge soltanto nelle crisi. Tuttavia, proprio per questo motivo, essa svolge un ruolo molto più reale e significativo nell’espressione della volontà collettiva rispetto all’organizzazione ordinaria delle altre nazioni.
+
+Coloro che attaccarono le Tuileries il 10 agosto agirono in modo completamente spontaneo e riuscirono nel loro intento. L'arresto della Famiglia Reale a Varennes non fu l’azione di un singolo individuo o di pochi; non fu opera di Drouet né della famiglia Saulce. Fu il risultato dell’intervento di un gran numero di persone: il Re era stato riconosciuto lungo tutto il percorso. Ognuno di loro, sotto la tensione di quell’episodio particolare, pensava alla stessa cosa; ognuno tendeva vagamente verso un certo tipo di azione e, con crescente determinazione, si dirigeva verso quella meta. Tutti insieme, in qualche modo, convergevano verso quel punto culminante del lungo viaggio che si raggiunse all’arco della piccola città dell’Argonne.
+
+Riuscire a esprimere e rappresentare questo potere nazionale comune è stato il fattore decisivo che ha permesso ai principali storici francesi, in particolare a Michelet, di comprendere veramente la storia del loro paese. Questo concetto gli ha fornito lo strumento essenziale per rendere chiara tale storia. Non c’è nulla di più facile che deridere o negare qualcosa di così misterioso. Taine, però, essendo di temperamento profondamente anti-nazionalista, lo derise proprio come derideva i misteri della [[Faith|Fede]]; ma questa sua posizione lo costrinse a scrivere la storia del suo paese attraverso forme continue e, alla fine, piuttosto crude di falsità.
+
+Non riconoscere questa forza nazionale ha, ancora una volta, portato le persone in errore: si crederà che le grandi imprese comuni dei francesi siano dovute a qualche forza occulta o a un capo supremo. Si spiegheranno le Crociate come il risultato di un’organizzazione astuta da parte della Chiesa; la Rivoluzione Francese come conseguenza dell’azione astuta delle logge massoniche; l’episodio napoleonico come frutto dell’intelligenza e dei piani personali di Napoleone. Tali spiegazioni sono infantili.
+
+Il colpo del 1870 fu forse il più grave che qualsiasi nazione moderna abbia mai subito. Per qualche motivo, non pose fine all’attività della nazione francese. Gli Stati del Sud d’America sono ancora influenzati dagli effetti della Guerra Civile. Tutto ciò in Germania che non è di stampo prussiano rimane sottomesso – soprattutto a livello ideologico – all’influenza della vittoria prussiana. La Francia, per poco, non ha subito una dissoluzione altrettanto permanente del proprio carattere nazionale; ma ci è riuscita, e il segno distintivo di una nazione, ovvero la capacità di agire in modo spontaneo e collettivo, dopo alcuni anni di difficoltà, ha iniziato a riemergere.
+
+In due occasioni si tentò di compiere un simile atto. La prima volta durante il governo di Boulanger, la seconda durante lo scandalo Dreyfus. In entrambi i casi, il popolo riconobbe istintivamente, o meglio percepì, il proprio nemico. In entrambi i casi ci fu un momento in cui quel finanziere cosmopolita si trovò fisicamente in pericolo di vita. Tuttavia, in nessuno dei due casi le cose andarono a buon fine; in nessuno dei due casi il popolo intervenne decisivamente.
+
+Negli ultimi tempi, la vita francese è stata segnata da diversi tentativi di rivolta parziali. Perché nessuno di questi abbia avuto successo, ne parlerò tra un momento. Nel frattempo, l’osservatore straniero farebbe bene a prestare attenzione al carattere di questi movimenti, anche se tutti falliti. È come trovarsi sul bordo di un cratere e osservare le onde gigantesche di energia che si muovono al suo interno: potrebbe non esserci stata alcuna eruzione effettiva per un certo periodo, ma l’attività del vulcano e la sua natura sono comunque evidenti a chi guarda. Gli eventi avvenuti due anni fa nel dipartimento dell’Herault ne sono un esempio.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_10" data-title="On Something — THE EMPIRE BUILDER (part 10)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="setting/england"></span>
@@ -3424,6 +4732,30 @@ The politicians and the party hacks put into power by that popular determination
 
 In modern France the chances of escape from the parliamentary game, tawdry at its best, at its worst a social peril, are much greater than in this country. The names and forms of the thing are not of ancient institution. There is therefore no opportunity for bamboozling people with a sham continuity, or of mixing up the interests of the party hacks with the instinct of patriotism. Moreover, in modern France the parliamentary system happened to come up vitally against the domestic habits of the people earlier and more violently than it has yet done in this country. The little gang which had captured the machine was violently anti-Christian; it proceeded step by step to the destruction of the Church, until at the end of 1905 the crisis had taken this form. The Church was disestablished, its endowments were cancelled, the housing of its hierarchy, its churches and its cathedrals and their furniture were, further, to be taken from it unless it adopted a Presbyterian form of government which could not but have cankered it and which was the very negative of its spirit. So far nothing that the Parliament had done really touched the lives of the people. Even the proposal to put the remaining goods of the Church under Presbyterian management was a matter for the theologians and not for them. Not one man in a hundred knew or cared about the business. The critical date approached (the 11th of December, if I remember rightly). Rome was to accept the anti-Catholic scheme of government or all the churches were to be shut. Rome refused the scheme, and Parliament, faced for once with a reality and brought under the necessity of really interfering with the popular life or of capitulating, capitulated.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Chiunque si preoccupi del futuro immediato dell’Europa non dovrebbe trascurare questo presagio: mezzo milione di uomini, con leader scelti rapidamente da loro stessi, si sono radunati senza causare disastri, dotati di sufficienti risorse logistiche, con precisione e rapidità in un unico luogo; hanno deciso insieme un’azione comune, mirata appositamente a sconfiggere il nemico; questa decisione è stata presa da uomini privi di poteri eccezionali, semplicemente portavoce di questo vasto movimento. Decisioni simili e identiche si sono verificate in tutto il paese, dalle grandi città fino alle minuscole villaggi di montagna. È lo spirito di uno sciame di api. Un episodio in particolare è stato il più caratteristico di tutta questa situazione: temendo che venisse loro ordinato di sparare contro uomini della loro stessa regione, i soldati semplici e i sottufficiali del 17° Reggimento si ammutinarono. Fin qui nulla di straordinario: le rivolte militari sono comuni in tutti gli stati militaristici. L’eccezionale fu ciò che seguì: questi uomini si organizzarono da soli, senza alcun ufficiale o sottufficiale, si equipaggiarono per una marcia di un intero giorno verso il capoluogo della provincia, vi arrivarono in ordine perfetto e presero possesso della città. Tutto questo movimento spontaneo spiega l’importanza dei Marescialli dell’Impero. Questi furono inviati come punizione ai confini del deserto africano; per gli speculatori finanziari, quell’ammutinamento sembrava una prova di sconfitta militare. Ma si sbagliavano: questi giovani uomini, alcuni dei quali avevano ricevuto soltanto sei mesi di addestramento, nessuno di loro oltre i ventiquattro anni, rappresentavano perfettamente il potere che aveva portato alla Rivoluzione e alle sue vittime. Il ritorno di quel potere nelle nostre attività moderne e tranquille mi sembra di fondamentale importanza.
+
+Si dovrebbe concludere ponendosi questa domanda: “Questi movimenti incompiuti porteranno infine alla realizzazione di un movimento completo? La Gallia raggiungerà qualche scopo finale nel nostro tempo, e se sì, contro cosa, con quale obiettivo e in che modo?”
+
+La profezia è vana, ma divertente. Profetizzo quindi che la Gallia si muoverà nel nostro tempo, e che questo movimento sarà diretto contro l’infettiva ipocrisia del sistema parlamentare.
+
+Per quarant’anni questa forza, nella nazione di cui parlo, pur essendo spesso mobilitata, non è riuscita a realizzare il proprio scopo. Ma in quasi tutti i casi, direttamente o indirettamente, l’obiettivo contro cui si muoveva era il Parlamento. Sarebbe troppo lungo discutere qui le ragioni per cui il sistema rappresentativo è arrivato a diventare ciò che è nell’Europa moderna. Era la gloria del Medioevo, un’importante istituzione vitale del Cristianesimo, nata dall’iniziativa monastica che l’aveva preceduta; una forza reale e vivente prima in Spagna, dove il Cristianesimo raggiunse il suo apice nella lotta contro l’Asia, poi nel nord-ovest, in [[England|Inghilterra]] e in Francia. E infatti, in una forma o nell’altra, in tutti i vecchi confini dell’Impero. Quell’istituzione morì; il suo “fossile” fu conservato in alcune piccole e oscure comunità; le sue antiche regole e forme furono assorbite da cavalieri e mercanti inglesi, e così sopravvisse, in una forma curiosa ma vigorosa, in questo paese. Quando nel 1789 iniziò la Rivoluzione e si avviò il risveglio della democrazia nelle grandi nazioni, il vecchio sistema rappresentativo francese, un modello molto perfetto, fu artificialmente riportato in vita, basandosi sulla vecchia dottrina del suffragio universale e su un mandato diretto. Era logico, avrebbe dovuto funzionare, ma in appena cento anni è fallito.
+
+Esiste un aneddoto interessante riguardo all’occupazione di Roma nel 1870.
+
+Quando la guarnigione francese si ritirò e gli italiani del Nord occuparono la città, vennero avviate le procedure rappresentative, formalmente per verificare se il cambio di governo fosse popolare o meno. Furono registrati soltanto pochissimi voti contrari, diciamo quarantatré.
+
+Più tardi, all’inizio dell’inverno dello stesso anno, si celebrò una grande festa della Chiesa nella Basilica di San Pietro e presso le tombe degli Apostoli. La vasta chiesa era affollata; molte persone erano addirittura costrette ad aspettare fuori dalle porte. Quando la cerimonia terminò, la folla densa che uscì nella notte ripeté un grido il cui significato ironico riempì l’aria notturna del Trastevere e delle sue baraccopoli. Il grido era questo:
+
+"#Noi siamo i Quarantatré!"
+
+Si tratta di un aneddoto che si applica costantemente al moderno sistema rappresentativo in ogni paese che ha la sfortuna di adottarlo. Nessuno ha bisogno che gli venga ricordata una verità del genere. Sappiamo bene, in [[England|Inghilterra]], come l’unico sentimento dominante alle elezioni del 1906 fosse il desiderio di colpire gli ebrei sudafricani e di eliminare la loro manodopera cinese dal mercato del lavoro locale.
+
+I politici e i funzionari di partito che salirono al potere grazie a quella determinazione popolare si rivolsero subito agli ebrei sudafricani, chiedendo loro quale fosse il loro desiderio in merito, e elaborarono un piano in accordo con loro, per evitare qualsiasi atto di vendetta e per garantire che nemmeno un centesimo dei loro beni venisse messo a rischio.
+
+Nella Francia moderna le possibilità di sfuggire al gioco parlamentare – volgare nel migliore dei casi, un pericolo sociale nel peggiore – sono molto maggiori rispetto a questo paese. I nomi e le forme di questo sistema non derivano da istituzioni antiche; pertanto non esiste alcuna possibilità di ingannare la gente con una falsa continuità, né di mescolare gli interessi dei funzionari di partito con l’istinto patriottico. Inoltre, in Francia il sistema parlamentare si è scontrato in modo particolarmente violento e precoce con le abitudini domestiche del popolo, a differenza di quanto sia accaduto finora in questo paese. Il piccolo gruppo che aveva preso il controllo del sistema era profondamente anticristiano; procedette passo dopo passo verso la distruzione della Chiesa, fino a quando, alla fine del 1905, la crisi assunse questa forma: la Chiesa fu sciolta, i suoi beni confiscati, e le sue strutture, chiese, cattedrali e arredi furono tolte a lei, a meno che non adottasse un sistema di governo presbiteriano – il che avrebbe inevitabilmente corrotto la sua essenza stessa. Fino ad allora, nulla di ciò che il Parlamento aveva fatto aveva davvero influenzato la vita delle persone; persino la proposta di affidare i beni rimanenti della Chiesa alla gestione presbiteriana riguardava soltanto i teologi, e non il popolo. Nessuno, su cento, conosceva o si interessava a questa questione. Il giorno critico si avvicinava: l’11 dicembre, se ricordo bene. Roma doveva accettare quel sistema di governo anticattolico, altrimenti tutte le chiese sarebbero state chiuse. Roma rifiutò la proposta, e il Parlamento, di fronte a una realtà concreta che lo costringeva ad intervenire effettivamente nella vita del popolo o a capitolare, scelse di capitolare.
 
 
 
@@ -3461,6 +4793,38 @@ Man cannot build bridges everywhere. They are not multitudinous as are his roads
 Bridges have always lived with fear in their hearts; and if you think this is only true of old bridges (Individual), have you forgotten the Tay Bridge with the train upon it? Or the bridge that they were building over the St. Lawrence some little time ago, or the bridge across the Loire where those peasants went to their death on a Sunday only a few months since? Carefully consider these things and remember that the building and the sustaining of a bridge is always a wonderful and therefore a perilous thing.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Che rapporto ha quell’esempio, si potrebbe chiedere, con quel movimento nel sud della Francia di cui parlano queste pagine? La risposta è la seguente:
+
+Nel sud della Francia, dopo la religione – la quale era ormai al sicuro dalla completa scomparsa delle minacce anticlericali – l’aspetto principale che influenzava realmente la vita delle persone era la vendita dei loro prodotti industriali più importanti. Questa vendita risultava ostacolata da diversi motivi; uno di questi, forse non il principale, ma certamente il più evidente e il più facilmente risolvibile, era l’adulterazione e la frode presenti nel commercio. Tali pratiche sono comuni in tutti i settori commerciali dei nostri tempi. In Francia, come in ogni altro paese governato da gruppi di potere parlamentari, a queste pratiche illegali veniva data la tacita approvazione. Quando i contadini, che ne avevano sofferto gravemente a causa di questa corruzione commerciale, chiesero che venissero messe fine, ricevettero la solita risposta: “Se desiderate che una determinata politica venga attuata, elettate persone capaci di farlo”. In realtà, quei quattro dipartimenti avevano eletto un gruppo di individui; tra questi, Laferre, il Gran Maestro dei Massoni, rappresenta bene questo tipo di persone: un uomo completamente assorbito dall’idea di distruggere il cristianesimo, ignorante e incompetente in ogni ambito diverso da quello teologico.
+
+I contadini risposero a questa sofisticazione, che così spesso aveva funzionato e ottenuto successo sia nel loro caso che in altri, chiedendo ai loro Deputati di dimettersi. Laferre trascurò di farlo: era troppo impegnato nella sua opportunità. Scese per “parlare ai suoi elettori”, ma questi lo inseguirono per miglia. In quell’episodio emozionante divenne evidente che i contadini dell’Aude avevano scoperto, in modo semplice e diretto, sia dove risiedeva il difetto del sistema rappresentativo sia con quali metodi esso potesse essere corretto.
+
+Su ponti
+
+Mettiti sul lato di un ruscello e rifletti su due cose: l’idiozia della tua natura individuale e il genio della tua specie umana.
+
+Poiché tu non puoi attraversare il ruscello da solo, tu – come individuo –; ma l’Uomo (da cui provieni) ha trovato un modo per farlo: costruire ponti. Ed è per questo che l’uomo, in generale, può essere chiamato correttamente “Pontifex”, ovvero “Costruttore di Ponti”; e i simboli che rappresentano le sue cariche ufficiali porteranno spesso tale nome.
+
+Ecco, confesso (individualmente) che provo il desiderio di lasciarti lungo il ruscello: se puoi nuotare, fallo; se non puoi, anneghi. Oppure torna a [[Home|casa]] e lascia che la tua sete di raggiungere quella riva lontana ti consumi. Mentre io mi soffermo su questa parola “Pontifex”: nota bene, non è solo un nome sopra un negozio, come “Henry Pontifex, Mercante Italiano” o “Pontifex Brothers, Barbiere”, ma una vera e propria parola chiave che genera idee e fa riflettere sulla grandezza dell’uomo. O, meglio ancora, sulla grandezza di ciò che lo ha reso tale.
+
+L’uomo costruisce ponti sui ruscelli e ha creato ponti più o meno stabili tra le menti umane (un’arte davvero difficile!), utilizzando per questo scopo le lettere, che ne sono lo strumento; inoltre, l’uomo costruisce ponti attraverso la preghiera per collegarsi a Dio; e ancora, costruisce ponti che lo uniscono alla Bellezza che lo circonda.
+
+Ecco come dipinge, disegna e realizza statue: costruisce cose per bellezza, ma anche per proteggersi dal maltempo. L’uomo costruisce inoltre ponti tra le varie conoscenze, collegando una cosa che sa con un’altra che conosce, creando così dei legami tra idee diverse. L’uomo continua incessantemente a costruire, ma non ha mai completato, e probabilmente non completerà mai, quel ponte che chiamiamo “filosofia”: quel mezzo per spiegare se stesso in relazione alle origini del proprio essere. Dico quindi che, quando il suo scheletro verrà esposto nel museo con l’etichetta appropriata, dovrebbe essere denominato non “Homo Sapiens”, ma “Homo Pontifex”. Da qui deriva anche l’inno, o meglio la risposta corale “Pontificem habemus”, che viene cantato con tanta nobiltà dai grandi cori pontificali durante le cerimonie di insediamento dei Papi, come è appropriato per la corte di un Pontefice.
+
+Tuttavia, non vi lascerò lì: provo pietà per voi e vi spiegherò la natura dei ponti. Fu attraverso un ponte che l’uomo superò per la prima volta le sue prime preoccupazioni. Notate bene: non esiste alcuna preoccupazione così grande da costringere a piangere davanti a corsi d’acqua intransitabili (come dice Swinburne). Quello è compito dei morti meno fortunati.
+
+Su ponti
+
+Credimi, senza i ponti il mondo sarebbe molto diverso per te. Li consideri qualcosa di scontato: cammini lungo la strada e attraversi i ponti. Forse sei così ingrato da dimenticartene completamente, ma è davvero una cosa terribile!
+
+Un ponte rappresenta una violazione della volontà della natura e una sfida. “Volevi che non attraversassi”, dice l’uomo al dio del [[River|Fiume]], “ma lo farò comunque”. E lo fa, sebbene non sia facile. Il dio non si era mai opposto al fatto che l’uomo nuotasse e si bagnasse; anzi, mentre nuotava, il dio avrebbe potuto annegarlo quando voleva. Ma costruire un ponte sul fiume, insultarlo, superarlo con un balzo, questo era davvero tipico dell’uomo: in qualche modo, lui sapeva che gli dèi terreni erano inferiori a sé stesso, e che tutto ciò che temeva proveniva da qualcosa di inferiore, perché solo ciò che rispettava e amava poteva davvero meritare la sua lealtà. E in definitiva, quell’lealtà l’uomo la riservava soltanto alla santità, o, in misura minore, al coraggio e al valore.
+
+L’uomo non può costruire ponti ovunque. Essi non sono così numerosi come le sue strade, né così diffusi come i suoi pascoli e i suoi terreni coltivabili. Li costruisce di tanto in tanto, in luoghi rari; e il ponte rimane sempre qualcosa di sacro. Inoltre, il ponte è sempre esposto al pericolo. Il piccolo ponte di Parigi, che collegava la strada romana all’isola, veniva continuamente spazzato via dalle acque; e il ponte di Staines, che collegava la strada romana dal grande porto a Londra, fu completamente distrutto.
+
+I ponti hanno sempre vissuto con il terrore nel loro cuore; e se pensate che ciò valga solo per i vecchi ponti, avete forse dimenticato il ponte di Tay su cui passava un treno? O quel ponte che stavano costruendo sul fiume San Lorenzo poco tempo fa, o il ponte sul Loira dove quei contadini persero la vita in una domenica, solo pochi mesi fa? Pensateci bene: la costruzione e la manutenzione di un ponte sono sempre operazioni meravigliose, ma anche pericolose.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_12" data-title="On Something — THE EMPIRE BUILDER (part 12)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="motif/river,setting/england"></span>
@@ -3486,6 +4850,28 @@ The time has come to talk at random about bridges.
 
 The ugliest bridge in the world runs from Lambeth to the Horseferry Road, and takes the place of the old British trackway which here crossed the Thames. About the middle of it, if you will grope in the mud, you may or may not find the great Seal of [[England]] which James II there cast into the flood. If it was fished up again, why then it is not there. The most beautiful bridge in London is Waterloo Bridge; the most historic is London Bridge; and far the most useful Westminster Bridge. The most famous bridge in Italy to tourists is the old bridge at Florence, and the best known from pictures the Bridge of Sighs in Venice. That with the best chance of an eternal fame is the bridge which carries the road from Tizzano to Serchia over the gully of the muddy Apennines, for upon the 18th of June, 1901, it was broken down in the middle of the night, and very nearly cost the life of a man who could ill afford it. The place where a bridge is most needed, and is not present, is the Ford of Fornovo. The place where there is most bridge and where it is least needed is the railway bridge at Venice. The bridge that trembles most is the Bridge of Piacenza. The bridge that frightens you most is the Brooklyn Bridge, and the bridge that frightens you least is the bridge in St. James’s Park; for even if you are terrified by water in every form, as are too many boastful men, you must know, or can be told, that there is but a dampness of some inches in the sheet below. The longest bridge for boring one is the railway bridge across the Somme to St. Valery, whence Duke William started with a horseshoe mouth and very glum upon his doubtful adventure to invade these shores — but there was no bridge in his time. The shortest bridge is made of a plank, in the village of Loudwater in the county of Bucks, not far from those Chiltern Hundreds which men take in Parliament for the good of their health as a man might take the waters. The most entertaining bridge is the Tower Bridge, which lifts up and splits into two just as you are beginning to cross it, as can be testified by a cloud of witnesses. The broadest bridge is the Alexandre III Bridge in Paris, at least it looks the broadest, while the narrowest bridge, without a shadow of doubt, is the bridge that was built by ants in the moon; if the phrase startles you remember it is only in a novel by Wells.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Nessun altro tipo di ponte testimonia meglio l’anima dell’uomo di quelli che, con un unico arco, si innalzano da un’altezza all’altra sopra le gole dei torrenti impetuosi. Molti di questi vengono chiamati “Ponti del Diavolo” non a caso, poiché rappresentano opere d’arte al di là delle possibilità umane. Ci sono due ponti in particolare che meritano ammirazione: uno nei monti del Galles e l’altro in Svizzera, anch’essi situati tra le montagne. C’è poi un terzo ponte, sempre nelle montagne, all’ingresso del Sahara; ha lo stesso carattere, ma non viene chiamato “Ponte del Diavolo”. Gli arabi lo hanno semplicemente denominato “El Kantara”: è così che chiamavano tutti quei vecchi ponti, quegli splendidi ponti costruiti dai Romani, ovunque li incontrassero. Gli arabi, infatti, erano incapaci di costruire ponti, proprio come erano incapaci di fare qualsiasi altra cosa se non cantare canzoni d’amore e cavalcare a cavallo. “El Kantara” è un nome che si trova in tutta la Spagna, nel cuore della capitale del Portogallo e nelle lande selvagge dell’Estremadura. Si trova anche fuori da Costantinopoli, dove il ponte attraversa il golfo. Gli arabi, ogni volta che vedevano un ponte, ne rimanevano sempre stupiti.
+
+Anche la nostra gente, sebbene non fosse il tipo da stare a bocca aperta davanti ai ponti o ad altre cose del genere, percepiva il mistero di queste strutture. Costruirono quindi cappelle al loro interno, come si può vedere a Bale e a Bradford-upon-Avon; in particolare, sull’antico Ponte di Londra ne esisteva una dedicata a San Tommaso Becket, molto grande per dimensioni. E parlando dell’antico Ponte di Londra, tutti a Londra dovrebbero rispettare i ponti, per moltissimi motivi.
+
+# In primo luogo, Londra non sarebbe mai stata Londra senza… Londra
+
+Ponte.
+
+In secondo luogo, i ponti permettono ai cittadini di Londra di visitare la parte meridionale del [[River|>fiume]], una zona ricca di paesaggi piacevoli e straordinari, dove si può osservare, con chiarezza, l’esempio della Democrazia. Chiunque abbia dubbi al riguardo, sia libero di intraprendere questo viaggio.
+
+D'altra parte, senza i ponti, gli abitanti di Londra non potrebbero vedere il [[River|fiume]] se non dal lungofiume, che è un luogo piuttosto desolato, o dalle finestre degli hotel. I ponti permettono inoltre ai treni provenienti dal sud di entrare a Londra. Se questo vi sembra qualcosa di banale, visitate New York, oppure restate tranquilli per sempre.
+
+Tutto è degenerato nel nostro tempo, e al contempo si è moltiplicato; forse questa è proprio una caratteristica della decadenza. Anche la tua semplice struttura, il tuo ponte, ha subito lo stesso destino delle altre cose. Gli uomini hanno inventato ogni tipo di ponte: ponti tubolari, ponti sospesi, ponti a trave, ponti oscillanti, ponti galleggianti, e anche quel cosiddetto “Ponte Russo”, che è davvero insopportabile; ma non sono riusciti a fare con i ponti ciò che hanno fatto con altre cose: non sono riusciti a distruggerli. I ponti rimangono comunque delle strutture pericolose, ma anche dei veri e propri trionfi dell’ingegneria umana. Un ponte sul fiume Eufrate – mi sfugge se attraversi completamente il corso d’acqua – fu costruito dai Romani. E la struttura più antica tra i ponti della città di Parigi, vecchia di trecento anni, era proprio quella che resisteva meglio alle inondazioni. Il ponte rimarrà sempre un simbolo, nonostante gli ingegneri.
+
+Guardate quanto diversamente gli uomini abbiano trattato i ponti in base ai mutamenti d’umore della civiltà. Un tempo ritenevano ragionevole tassare le persone che li attraversavano; ora invece lo considerano irragionevole. Eppure entrambe le pratiche erano altrettanto valide. Un tempo costruivano case sui ponti, consapevoli della mancanza di spazio per abitazioni e del problema abitativo esistente, e dei vantaggi che i ponti offrivano in questo senso; oggi nessuno osa più costruire una casa su un ponte. Eppure anche questa pratica era altrettanto ragionevole dell’altra.
+
+È arrivato il momento di parlare, a caso, dei ponti.
+
+Il ponte più brutto del mondo si estende da Lambeth fino a Horseferry Road e sostituisce l’antico percorso britannico che un tempo attraversava il Tamigi in questo punto. A metà del suo percorso, se vi provate a cercare nella fangia, potreste trovare – o forse no – il grande Sigillo d’Inghilterra che Giacomo II fece gettare nel fiume in quel luogo. Se mai fosse stato recuperato, perché allora non è più lì? Il ponte più bello di Londra è il Ponte di Waterloo; il più storico è il Ponte di Londra; e di gran lunga il più utile è il Ponte di Westminster. Il ponte più famoso in Italia tra i turisti è l’antico ponte di Firenze, mentre quello meglio conosciuto attraverso le immagini è il Ponte dei Sospiri a Venezia. Quello che ha maggiori possibilità di ottenere una fama eterna è il ponte che collega Tizzano a Serchia, attraversando la valle degli Appennini fangosi: infatti, la notte del 18 giugno 1901, si spezzò a metà strada, rischiando di costare la vita a un uomo che non se lo poteva permettere. Il luogo in cui un ponte è più necessario e invece manca è il Ford of Fornovo. Il luogo in cui ci sono molti ponti, ma che in realtà non sono affatto necessari, è il ponte ferroviario di Venezia. Il ponte che tremola di più è il Ponte di Piacenza. Quello che spaventa di più è il Ponte di Brooklyn; mentre quello che spaventa meno è il ponte nel Parco di St. James’s: anche se molti hanno paura dell’acqua in qualsiasi forma, bisogna sapere che sotto quel ponte c’è soltanto un po’ di umidità, e nient’altro. Il ponte più lungo è il ponte ferroviario che attraversa la Somme fino a St. Valery; fu proprio da lì che Duca Guglielmo iniziò la sua avventura per invadere queste terre, ma all’epoca non esisteva alcun ponte. Il ponte più corto è fatto semplicemente di una tavola, nel villaggio di Loudwater, nella contea di Bucks: non lontano da quei Chiltern Hundreds che molte persone considerano utili per la salute, proprio come si potrebbero considerare utili le acque termali. Il ponte più interessante da osservare è il Tower Bridge, che si solleva e si divide in due proprio mentre si sta per attraversarlo, come possono testimoniare molte persone presenti in quel momento. Il ponte più largo è il Ponte Alexandre III a Parigi; almeno sembra il più largo, mentre il ponte più stretto, senza dubbio alcuno, è quello costruito dalle formiche sulla Luna, anche se questa frase potrebbe sorprendervi, ricordate che si trova soltanto in un romanzo di H.G. Wells.
 
 
 
@@ -3543,6 +4929,58 @@ IV. There are no springs or rivers in the Island.
 V. There are no mountains on the Island, but there is in the North a slight hummock some fifteen feet in height. To this hummock we have given (saving your Honour’s Reverence) the name of “Mount Providence” in commemoration of the manifold and evident graces of Providence in permitting us to occupy and develop this new land in the furtherance of true civilization and good government. The hill is at present too small to make a feature in the landscape, but we have great hopes that it will grow. (See Younger on “The Sand Dunes of Picardy,” Vol. II, p-200.)
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il primo ponte ellittico fu progettato da un monaco di Cortona, mentre il primo ponte rotondo fu progettato da Adam.
+
+Ma si potrebbe continuare all’infinito a parlare di ponti, e io ne sono sinceramente stanco. Lasciate che attraversino e ricrossino i corsi d’acqua del mondo. Io, per parte mia, rimarrò dalla mia parte.
+
+# Un libro blu
+
+Ho ritenuto che fosse di qualche valore per la storia contemporanea conservare il seguente documento, che riguarda la scoperta e lo studio di un’isola nell’Atlantico settentrionale: al momento della sua scoperta, gli Stati Uniti ne assunsero il controllo nei primi momenti della loro espansione imperiale e le diedero il nome di “Atlantis”.
+
+L’isola, che sembra essere stata formata da qualche fenomeno naturale, scomparve l’anno dopo la sua scoperta; pertanto il rapporto redatto dai Commissari è molto poco conosciuto e, ovviamente, non ha alcuna rilevanza nel campo della finanza e dell’amministrazione pratica. Tuttavia, rappresenta un documento di estremo interesse come esempio delle idee che guidarono la politica della Grande Repubblica al momento in cui venne effettuata la ricerca; in particolare, i lettori inglesi saranno felici di notare lo sviluppo e l’espansione dei metodi inglesi, nonché degli aspetti caratteristici della cultura e delle istituzioni inglesi presenti in tutto il documento.
+
+Chiunque desideri consultare le mappe e altri materiali che non sono stati possibile riprodurre in questo piccolo volume deve rivolgersi all’Ufficio Archivi di Washington. Lo scopo unico della mia ristampa di queste pagine davvero affascinanti in un volume come questo è quello di farle godere a molte persone che altrimenti non avrebbero avuto l’opportunità di consultarle negli archivi pubblici dove sono state finora conservate.
+
+A. 2. E. 331 ff.
+
+Rapporto dei tre commissari nominati dal Presidente della Repubblica per indagare sui potenziali risorse, sulla situazione, ecc., dell’isola nuova conosciuta come “Atlantis”, recentemente scoperta nell’Atlantico settentrionale e annessa alla Repubblica, insieme a una raccomandazione sul futuro trattamento di tale isola.
+
+Al Presidente della Repubblica.
+
+# Il vostro onore
+
+[NOTA A LATERALE: PRELUDIO.]
+
+I tre commissari di Vostra Eccellenza, Joshua Hogg, Abraham Bush e Jack Bimber, essendo in possesso di tutte le loro facoltà mentali, solventi e in buona salute fisica, cittadini da più di cinque anni e residenti entro i confini, le frontiere o l’ambito della Repubblica, giurano quanto segue: “Che Dio li aiuti”.
+
+[Nota a margine: Arrivo al largo di Atlantide.]
+
+Il 20 luglio, trovandosi in quel momento a circa 45° di latitudine nord e tra i 51° e i 51,10° di longitudine ovest, il capitano della nave a vapore “Glory of the Morning Star” – noleggiata esclusivamente per questa occasione dal governo della Repubblica, senza alcun diritto di prelievo futuro – di nome James Murphy, originario di Cork, in Irlanda, e residente nelle zone indicate, gridò ad alta voce intorno alle 4:33 del mattino, quando ormai era giorno fatto: “Quello è Hur, ”, o parole simili. I vostri tre commissari, che in quel momento si trovavano nella cabina o nella zona residenziale della nave, salirono sul ponte e furono ordinati di scendere nuovamente a bordo dalle autorità competenti della “Glory of the Morning Star”. I vostri commissari desiderano sottolineare che tale ordine fu rispettato, poiché emesso ai sensi delle leggi marittime del 1853, e vogliono inoltre protestare contro l’umiliazione subita a loro personale da parte delle autorità. Intorno alle 6:30 dello stesso giorno, i vostri commissari furono nuovamente chiamati sul ponte; loro fu messo a disposizione un barchino condotto da quattro marinai, i quali li portarono rapidamente verso l’isola, che in quel momento si trovava a circa due miglia a sud-sud-ovest della “Glory of the Morning Star”. Essi sbarcarono tutti insieme sull’Isola di Atlantis e ne presero possesso in nome vostra e della Repubblica, esibendo al contempo una piccola bandiera delle dimensioni di 19” x 6” come simbolo del loro atto. Tale bandiera fu chiaramente vista, registrata e testimoniata dai sottoscritti, i quali vi apposero la propria firma in segno di conferma. Confidano nella guida della Provvidenza Divina.
+
+# Joshua Hogg
+
+# Abramo Bush
+
+Jack Bimber.
+
+# Note a margine: Forma e dimensioni dell’isola
+
+II. I vostri commissari procedettero immediatamente alla misurazione dell’omonima isola di Atlantide, scoprendone la forma triangolare o a tre angoli, con le seguenti dimensioni: sul lato settentrionale, da Capo Providence a Capo Mercy, una miglia e un furlong e poco più; sul lato sud-occidentale, da Capo Mercy a Point Liberty, sette furlongs, due rood e un piede; sul lato sud-orientale, che è il lato più corto, da Point Liberty fino di nuovo a Capo Providence, da dove eravamo partiti, circa mezza miglia; questo lato non meritava di essere misurato ulteriormente. Queste dimensioni, linee, figure, misurazioni e piani vengono presentati all’ufficio pubblico dei registri come accurati e realizzati nel miglior modo possibile dai sottoscritti: Che Dio li aiuti. (SIGILLO.)
+
+[Nota a margine: Aspetto e struttura dell’isola.]
+
+III. Come si può vedere dal testo precedente, l’isola ha la forma di un triangolo isoscele, con la base più corta rivolta verso sud-est; si estende su una superficie di circa 170 acri, ovvero mezzo miglio quadrato, e si trova in una latitudine temperata adatta alla razza anglo-sassone. Per quanto riguarda il suo materiale e la sua struttura, è composta interamente da sabbia (si possono vedere dei campioni in fialle di vetro); questa sabbia presenta un colore giallo quando è asciutta, ma tende a diventare marrone quando viene bagnata dal mare o dalla pioggia.
+
+[Nota a margine: Fonti d’acqua e fiumi.]
+
+IV. Sull’Isola non ci sono sorgenti né fiumi.
+
+[Nota a margine: Colline e montagne.]
+
+V. Sull’Isola non ci sono montagne, ma nel Nord si trova una piccola collina alta circa quindici piedi. A questa collina abbiamo dato, con il permesso della Vostra Santità, il nome di “Monte Providence” in memoria delle molteplici e evidenti grazie della Provvidenza che ci ha permesso di occupare e sviluppare questa nuova terra al fine di promuovere la vera civiltà e un buon governo. Al momento, la collina è troppo piccola per essere riconoscibile nel paesaggio, ma abbiamo grandi speranze che possa crescere. (Si veda Younger in “The Sand Dunes of Picardy”, Vol. II, p-200.)
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_14" data-title="On Something — THE EMPIRE BUILDER (part 14)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="motif/home"></span>
@@ -3589,6 +5027,48 @@ Finally, in the matter of industry your Commissioners propose (not, of course, a
 As to political rights, we recommend that Atlantis should be treated as a territory, and that a sharp distinction should be drawn between Rural and Urban conditions; that the inhabitants should not be granted the franchise till they have shown themselves worthy of self-government, saving, of course, those immigrants (such as the negroes of Carolina, etc.) who have been trained in the exercise of representative institutions. All Religions should be tolerated except those to which the bulk of the community show an implacable aversion. Education should be free to all, compulsory upon the poor, non-sectarian, absolutely elementary, and subject, of course, to the paramount position of that gospel which has done so much for our dear country. The sale of Intoxicants should be regulated by the Company, and these should be limited to a little spirits: wine and beer and all alcoholic liquors habitually used as beverages should be rigorously forbidden to the labouring classes, and should only be supplied in bona fide clubs with a certain minimum yearly subscription.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[Nota a margine: Porti.]
+
+VI. L’isola è di difficile accesso poiché si innalza gradualmente dal fondo marino e le maree sono deboli. Durante l’alta marea, non si registrano profondità superiori a tre braccia per un tratto di circa un miglio e mezzo dalla riva; mentre a una distanza di due miglia è comune trovare profondità di cinque o sei braccia. In condizioni meteorologiche favorevoli, quindi, una nave a pescaggio moderato potrebbe sbarcare merci, passeggeri, ecc. utilizzando piccole imbarcazioni. Inoltre, è possibile costruire un porto secondo le nostre raccomandazioni (vedere ivi). Sul lato settentrionale dell’isola c’è una baia, formata dall’incurvatura della terraferma, che riteniamo adatta allo scopo; per onorarVi, l’abbiamo chiamata Baia di Buggins.
+
+[Nota a margine: Capi e promontori.]
+
+VII. Sono questi i tre promontori menzionati in precedenza; il primo, il più ripido e audace, abbiamo chiamato Capo Providence per motivi che sono stati esposti sopra; il secondo, Capo Mercy, in riconoscimento della grande misericordia dimostrata verso di noi nell’aver trovato questo luogo senza incappare nelle difficoltà che hanno colpito molte altre navi nobili. Il terzo l’abbiamo chiamato Point Liberty in onore di quelle istituzioni gloriose che sono il vanto della Repubblica e che intendiamo imporre a qualsiasi futuro abitante di questo luogo. Questi nomi, pur essendo provvisori, speriamo possano rimanere e essere ufficialmente registrati, nonostante l’“Act to Restrain Nuisances and Voids” del 1819.
+
+[Nota a margine: Clima.]
+
+VIII. Il clima è quello del Nord Atlantico, noto come “oceanico”. Le piogge sono frequenti, e tra novembre e aprile non è raro che nevichi. In estate prevale una temperatura più mite, ma non mai così alta da mettere a rischio la vita delle persone o favorire l’insorgere di malattie epidemiche. Se il terreno lo permettesse, si potrebbero coltivare grano, fagioli, orzo e altri cereali. Tuttavia, non possiamo considerare un futuro agricolo promettente per questa nuova terra.
+
+Ecco qui la fine del rapporto dei vostri commissari.
+
+# Sigillo
+
+Joshua Hogg. Abraham Bush. Jacobus Bimber.
+
+* * * * *
+
+Consigli
+
+Poiché ai vostri commissari è stato concesso anche il privilegio di formulare raccomandazioni, presentate quanto segue senza pregiudizi e nonostante eventuali obiezioni contrarie.
+
+Per quanto riguarda la terra: i vostri Commissari raccomandano che essa venga posseduta lo Stato in conformità con quei principi che stanno prendendo sempre più piede tra le principali nazioni della Terra. In questo modo, la terra potrebbe essere affittata al suo pieno valore a privati individui, i quali ne trarrebbero profitto, lasciando il reddito economico derivante da essa alla comunità. Infatti, non sono gli individui ad aver creato la terra, ma lo Stato.
+
+Questo potere di gestire la terra, secondo loro, dovrebbe essere lasciato nelle mani di una Società per Azioni autorizzata. I vostri Commissari forniranno i nomi di alcuni cittadini rispettabili e benestanti che saranno felici di assumersi il compito di fondare e dirigere questa società, agendo secondo il principio del servizio pubblico non retribuito da parte delle classi superiori, che rappresenta la caratteristica principale della nostra civiltà. I signori I. Jacobs e Z. Lewis si sono già offerti volontari in questo senso per ricoprire il ruolo di direttori della proposta Società per Azioni autorizzata.
+
+I vostri commissari raccomandano che alla Società Congiurata venga concesso il diritto di coniare monete in rame, nichel, argento e oro; le prime tre monete dovrebbero essere emesse rispettivamente a un valore triplo, otto volte e doppio del valore dei metalli utilizzati. La suddetta valuta dovrà basarsi sull’oro ed essere mono-metallica, senza che il valore totale delle monete coniate per persona superi i 100 dollari.
+
+I vostri Commissari raccomandano inoltre che la stessa autorità venga incaricata di emettere banconote in quantità pari al 165% delle riserve d’oro, con il diritto di attribuire valori elevati a tali banconote, poiché in passato hanno dimostrato di avere un grande valore per coloro che le hanno ottenute.
+
+I vostri commissari raccomandano la costruzione di un porto in pietra verso il mare, senza invadere le già ridotte dimensioni del terreno. Propongono due moli, ciascuno lungo circa un miglio e mezzo, realizzati con roccia di Portland, una materia prima eccellente che si trova nelle proprietà di James Barber, di Maryville, nella contea di Kent, nel Connecticut. La pietra potrebbe essere trasportata ad Atlantis a costi molto bassi tramite la flotta di galleggianti della Wall Schreiner. In questo porto, se venisse approfondito a sufficienza e i suoi moli posizionati abbastanza lontani l’uno dall’altro, le marine di tutto il mondo potrebbero trovarvi rifugio; sarebbe così un testimonianza concreta dell’energia della nostra razza, “che fa fiorire il deserto come una rosa” (Levitico XXII, 3-2).
+
+I vostri commissari raccomandano anche la perforazione di un pozzo artesiano fino a quando non verrà trovata acqua fresca. Questo metodo si è rivelato efficace in Australia, che anch'essa è un’isola e composta per lo più da sabbia. Si dice che questo sistema di irrigazione produca risultati sorprendenti.
+
+Infine, per quanto riguarda l’industria, i vostri commissari propongono – non certo come un’industria unica, ma come una attività fondamentale – la confezionamento delle sardine. Un solido sistema di commercio equo, basato su tariffe scientificamente adattate alle condizioni dell’isola, potrebbe favorire lo sviluppo rapido di questa industria. Tutto sembra favorevole: il lavoro specializzato potrebbe essere fornito dall’interno dell’isola, le sardine provenire dalla Francia, mentre la latta e l’olio dalla Spagna. Per i primi anni sarebbe necessaria una forma di sostegno alle esportazioni, simile a misure protettive, la cui entità dovrebbe essere regolata in base alle esigenze della comunità. Tuttavia, sono convinti che, una volta stabilita l’industria, l’elevata abilità dei nostri lavoratori e l’intraprendenza dei nostri capitalisti permetteranno di dominare i mercati mondiali.
+
+Per quanto riguarda i diritti politici, raccomandiamo che Atlantide venga trattata come un territorio, e che venga tracciata una netta distinzione tra le condizioni rurali e urbane; inoltre, non dovrebbe essere concesso il diritto di voto agli abitanti fino a quando non dimostrino di essere degni di autogoverno, fatta eccezione per quegli immigrati (come i neri della Carolina, ecc.) che siano stati educati all’esercizio delle istituzioni rappresentative. Tutte le religioni dovrebbero essere tollerate, tranne quelle verso cui la maggior parte della comunità nutre un’avversione irremovibile. L’istruzione dovrebbe essere gratuita per tutti, obbligatoria per i poveri, non settaria, di livello assolutamente elementare, e naturalmente sottoposta alla posizione suprema di quel vangelo che ha fatto tanto per il nostro caro paese. La vendita di alcolici dovrebbe essere regolamentata dalla Compagnia; tali bevande dovrebbero essere limitate a pochi tipi di spiriti: vino, birra e tutti gli alcolici solitamente consumati come bevande dovrebbero essere rigorosamente proibiti alle classi lavoratrici, e potrebbero essere forniti solo in club autentici, previa una determinata quota annuale di iscrizione.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_15" data-title="On Something — THE EMPIRE BUILDER (part 15)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="motif/home,motif/river,setting/england"></span>
@@ -3631,6 +5111,44 @@ Great heavens, what a church!
 Where have I heard a church called “the House of God”? I think it was in Westmorland near an inn called “The Nag’s Head” — or perhaps “The Nag’s Head” is in Cumberland — no matter, I did once hear a church so called. But this church has a right to the name. It is a gathering-up of all that men could do. It has fifty roofs, it has a gigantic signal tower, it has blank walls like precipices, and round arch after round arch, and architrave after architrave. It is like a good and settled epic; or, better still, it is like the life of a healthy and adventurous man who, having accomplished all his journeys and taken the Fleece of Gold, comes [[Home|home]] to tell his stories at evening, and to pass among his own people the years that are left to him of his age. It has experience and growth and intensity of knowledge, all caught up into one unity; it conquers the hill upon which it stands. I drew one window and then another, and then before I had finished that a cornice, and then before I had finished that a porch, for it was evening when I saw it, and I had not many hours.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In conclusione, i vostri Commissari pregheranno sempre, ecc.
+
+Le note aggiunte alla fine sono state scritte a mano dal signor Charles P. Hands, il curatore di questa sezione.
+
+(L’isola andò persa – fortunatamente senza nessuno a bordo – durante le tempeste dell’inverno successivo. Tuttavia, questo rapporto conserva ancora un notevole interesse storico.)
+
+Perigieux del Perigord
+
+Conoscevo un uomo una volta. L’ho incontrato in una locanda di legno in una giornata terribilmente fredda.
+
+“Era un americano, e abbiamo parlato di molte cose. Alla fine mi disse…”
+
+# Hai mai visto il Matterhorn?
+
+“Mai”, dissi; poiché odiavo già solo il nome di quella cosa. Poi lui continuò…
+
+“È la cosa più sorprendente che abbia mai visto.”
+
+“Per il Signore,” dissi, “‘hai trovato proprio la parola giusta!’ Presi un taccuino e annotai la sua parola: ‘sorprendente’. Che umorismo ammirevole aveva questo americano; quanto era sottile e nobile il suo spirito! Non ho mai visto il Matterhorn; ma sembra che, girando un angolo, lo si trovi lì davanti. È davvero sorprendente. Ottima parola da parte di quell’americano. Non la dimenticherò mai!”
+
+Un elefante scappa da un circo e infila la testa nella tua finestra mentre stai scrivendo e pensando a una parola. Alzi lo sguardo. Potresti essere allarmato, potresti essere sorpreso, potresti essere spinto a riflettere profondamente; ma una cosa è certa: la testa dell’elefante sarà davvero sorprendente. Sei “catturato” da quell’immagine. E la tua anima esclama ad alta voce verso il suo Creatore: “Oh, questa sì che è qualcosa di nuovo!”
+
+Fu proprio sotto la luce della luna che vidi per la prima volta quella valle completamente sconosciuta e deserta, nella quale la cima del “Dead Man” dominava in modo solitario e selvaggio la cresta principale dei Pirenei. Fu così anche quando viaggiai all’estero per la prima volta; fu così anche che vidi per la prima volta la catena montuosa del Snowdon quando ero ancora un bambino, poiché fino a quella mattina, quando mi svegliai e guardai fuori dalle finestre dell’hotel, non avevo mai visto nella mia vita nulla di più maestoso delle colline verdi e arrotondate del sud dell’[[England|Inghilterra]].
+
+Ora la cattedrale di San Fronte a Perigeux, nel Perigord, è la cosa più sorprendente d’Europa. È molto più straordinaria delle colline stesse: è stata costruita dall’uomo. L’uomo l’ha realizzata centinaia e centinaia di anni fa; poi l’ha continuata a migliorare, con il suo entusiasmo e la sua dedizione meticolosa. Sul mio onore, vedere una cosa del genere mi ha fatto sentire orgoglioso di appartenere alla stessa razza di quelle persone che vivono nelle regioni della Dordogna, della Garonna, del Tarn, del Lot, e di tutti i fiumi che sfociano nel Gironde. So bene che hanno lavorato sodo per insegnare, per perseguitare, per migliorare, per estinguere, per elevare o abbattere, per infastidire, divertire, esasperare, compiacere. Offendere e anche lodare la loro stessa specie. In alcune di queste azioni li biasimo, in altre li lodo; ma è evidente che sanno davvero come impegnarsi con determinazione. Per un momento ho desiderato far parte completamente della loro razza. Come quel coraggioso soldato di cavalleria a cui hanno eretto una statua che indica la sua gamba di legno. Che popolo incredibile, quello che è riuscito a costruire una chiesa così straordinaria!
+
+I clericali ne fanno le lodi, gli anticlericali lo adornano. I cristiani vi deplorano la malvagità dei tempi; gli atei vi vengono battezzati, vi si sposa, vi vengono denunciati. E quando muoiono, in grandi bare circondate da molte candele, al suono del Dies Iræ e del potente organo nuovo, vi vengono assolti in modo molto formale e deciso; acqua santa viene spruzzata sulla stoffa nera e sul croce d’argento. I devoti e gli indifferenti, anzi, quell’esercito di uomini seri, intelligenti e diligenti che ancora attendono con ansia la fine della religione, tutti lo ritraggono, ne fanno fotografie, lo dipingono; chiamano le loro strade, i loro hotel, i loro villaggi, persino i loro figli, con il suo nome. È come tutto il resto nel mondo: bisogna vederlo per crederci. Si erge in un grande complesso di cupole bianche sulla ripida riva del [[River|fiume]]. A volte sembra una fortezza, a volte una città, a volte una visione. Ha uno schema semplice, ma evoca mille immagini nella mente; e dopo tutti questi anni, me lo ricordo come si ricorda un coro improvviso e inaspettato. Merita davvero di essere chiamato “Perigeux del Perigord”.
+
+Perigeux, nel Perigord, è una città di origine gallica e non è mai morta. Quando era sotto il dominio romano si chiamava Vesona; il tempio della dea protettrice sorge ancora presso la sua porta orientale. È una di quelle città che non sono mai morte, nelle quali si possono facilmente trovare, davanti ai propri occhi, tutti gli episodi della nostra nobile storia. In città del genere mi sento come se possedessi un libro intero che racconta ciò che abbiamo fatto, e non ho alcun dubbio riguardo al futuro dei nostri figli.
+
+La città si estende lungo il ripido versante dell’isola, proprio nel punto in cui il fiume descrive una curva formando un anfiteatro; quindi coloro che arrivano da nord – ovvero dalla direzione prevista per l’ingresso della città, e pertanto anche la ferrovia arriva dall’altra parte, attraverso l’ingresso posteriore – possono ammirarla tutta d’un tratto: uno spettacolo davvero imponente. Si percorrono le sue strade strette, osservando in particolare quella che porta il nome di Taillefer, l’uomo che gettò la sua spada in aria mentre cavalcava al fianco del Conquistatore a Hastings. Si gira un angolo stretto tra case molto antiche e molto alte. E poi, improvvisamente, ciò che prima sembrava solo uno spettacolo diventa qualcosa di concreto, qualcosa che si può toccare. Per usare ancora quella parola: una cosa davvero “sorprendente”. Si scopre qualcosa di più grande di quanto si potesse immaginare.
+
+Mio Dio, che chiesa meravigliosa!
+
+Dove ho sentito parlare di una chiesa chiamata “La Casa di Dio”? Penso fosse nel Westmorland, vicino a un’osteria chiamata “The Nag’s Head”. O forse “The Nag’s Head” si trova nel Cumberland. Comunque sia, ho davvero sentito parlare di una chiesa con questo nome. Ma questa chiesa merita davvero tale nome: rappresenta l’insieme di tutto ciò che gli esseri umani possono realizzare. Ha cinquanta tetti, un enorme torre di segnalazione, muri spogli come precipizi. Archi su archi, trabezze su trabezze. È come un’epopea solida e compiuta; o ancora meglio, è come la vita di un uomo sano e avventuroso che, dopo aver completato tutte le sue imprese e conquistato il Vello d’Oro, torna a casa alla sera per raccontare le sue storie e trascorrere gli ultimi anni della sua vita tra la sua gente. Questa chiesa incarna esperienza, crescita, intensità di conoscenza. Tutto unito in un’unica entità. Conquista persino la collina su cui sorge. Ho disegnato una finestra dopo l’altra. Poi, prima ancora di finire, ho aggiunto una cornice. E poi ancora un portico. Perché era sera quando l’ho vista. E non avevo molto tempo a disposizione.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_16" data-title="On Something — THE EMPIRE BUILDER (part 16)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="motif/river,concept/faith"></span>
@@ -3665,6 +5183,36 @@ Two valleys absolutely lonely had I trudged-through since the sun rose, and it w
 I went down into the depth of the valley, and there I met a priest who was reading his Breviary and erroneously believed me (if I might judge his looks) to be of a different religion, for he tested philosophy by clothes; and this, by the way, is unalterably necessary for all mankind. When, however, he found by my method of address that I knew his language and was of his own [[Faith|faith]], he became very courteous, and when I told him that I wanted to find the position he became as lively as a linesman, making little maps with his stick in the earth, and waving his arms, and making great sweeps with his hand to show the way in which the army had been drifting all morning, northward and eastward, above the Sioule, with the other division on the opposite bank, and how, whenever there was a bridge to be fought for, the game had been to pretend that one or the other had got hold of it. Of this priest it might truly be said, as was said of the priest of Thiers in the Forez, that chance had made him a choir-boy, but destiny had designed him for the profession of arms; and upon this one could build an interesting comedy of how chance and destiny are perpetually at issue, and how chance, having more initiative and not being so bound to routine, gets the better of destiny upon all occasions whatsoever.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Si dice che la musica abbia un effetto particolare sull’anima: la riempie di desideri insoddisfatti ma trascendenti, e la spinge a cercare, attraverso immagini confuse e fallimentari, la ricompensa o il destino finale dell’anima stessa. Qui, a Perigeux nel Perigord, dove le persone cacciano i tartufi con i cani, le pietre disposte in un certo ordine riescono a fare ciò che si dice la musica possa fare. Infatti, di fronte a questo miracolo visibile, posso credere e confessare, dubitare e temere, ma anche controllarmi, tutto nello stesso momento.
+
+Ecco l’Impero, vivo e continuo nella sua maggior parte, con la sua determinazione di essere eterno. Il popolo del Perigord, quel popolo che caccia le tartufa, non ha mai bisogno di cercare la civiltà né di temerne la morte; possiede infatti il suo simbolo, e in un certo senso anche un “sacramento”, che gli promette che le arterie della vita europea non potranno mai essere recise. Gli archi e gli elementi strutturali di questa solenne realtà sono, vivi.
+
+Si dice che sia stato costruito ottocento o novecento anni fa; la sua abside è stata aggiunta ieri, ma l’intera struttura esiste al di fuori del tempo.
+
+Nella vita umana, che è caratterizzata da un breve momento di intensità seguito da un periodo di calma, come il vento tra gli alberi prima della pioggia, i momenti più importanti vengono ricordati; ci confortano e ci aiutano a ridere di ciò che va in decadenza. Sono molto felice di aver visto una volta questa chiesa a Perigeux, nel Perigord.
+
+Quando morirò vorrei essere sepolto nella mia terra natale, ma considererei un grande favore da parte del Vescovo, che è il padrone di questo luogo, se venisse a impartirmi l’assoluzione sulla mia bara, portasse con sé il panno e la croce d’argento, e se tenesse in mano (come alcune statue) un piccolo modello di San Fronte, la chiesa che ho visto e che ha rinnovato la mia [[Faith|>fede]].
+
+La posizione
+
+C’è un luogo in cui la valle dell’Allier si allontana dalle montagne centrali della Francia e si apre in una pianura fertile.
+
+Ecco un confine o una linea di demarcazione tra due realtà: quella familiare alla maggior parte dei viaggiatori inglesi e quella sconosciuta. La realtà familiare riguarda i ricchi depositi alluvionali e i ciottoli presenti nei paesaggi del nord della Francia, gli alberi di pioppo, i fiumi tranquilli e pieni d’acqua, le numerose città e villaggi in pietra, le ampie strade bianche che si estendono all’infinito attraverso le zone più prospere; su tutto ciò aleggia un’atmosfera mite. La realtà sconosciuta, invece, rappresenta la massa imponente dei Monti Averni: queste montagne costituiscono il nucleo e il centro della Gallia e della sua storia, nonché l’origine di quella forza invisibile che sta alla base di tutto ciò che accade in quella regione.
+
+Le pianure si estendono davanti a uno, le montagne dietro di sé; si trova quindi in quella zona di confine. Lo so bene.
+
+Ho detto che nelle Montagne Averniane si trovava il centro della Gallia e la forza su cui dipende la storia di questa regione. Sulla Margeride, una delle loro creste più esterne, du Guesclin fu ferito a morte; è ancora possibile vedere le enormi pietre ammucchiate nel luogo dove cadde. Nel cuore di quelle montagne, a Puy, la religione esercita effetti inquietanti: utilizza vette alte e scoscese come templi; in lontananza si estende un cerchio di colline di colore nero-bluastro, e queste colline, insieme ai fiumi che attraversano la zona, hanno nomi magici: il [[River|fiume]] Cappello Rosso e Chaise Dieu, “La Sedia di Dio”. Fu in queste montagne che Giulio Cesare perse la sua spada; fu anche qui che le armate romane furono respinte dagli Averniani. Queste terre sono piene di meraviglie, come poche altre in Europa; il loro paesaggio è complesso e intricato, tanto che chi vi viaggia fatica a ricordare la strada percorsa, a meno che non possieda quella rara capacità di osservare il territorio intorno con attenzione.
+
+Proprio nel punto in cui il territorio montuoso si incontra con la pianura, dove i valli poco profondi diventano più dolci e meno scoscesi, sono andato lo scorso settembre seguendo le indicazioni di un soldato che mi aveva spiegato come trovare il luogo in cui si svolgevano le manovre. Queste manovre, volte a riprodurre le condizioni di guerra, prevedevano lo spostamento di truppe su entrambi i lati del [[River|[Fiume]] Sioule]. Non era mai possibile sapere con certezza dove si trovassero le armi.
+
+Ero uscito dalla strada principale di Vichy e camminavo in direzione del suono degli spari. Quel rumore mi era sconosciuto: il vecchio e terribile rimbombo era ormai dimenticato da un’intera generazione; persino il semplice fragore delle artiglierie, un tempo chiamate “90”, era stato dimenticato dai giovani di oggi. I nuovi cannoncini emettevano suoni secchi e metallici. E quando ti avvicini a loro da lontano, non sembra che tu stia marciando verso qualcosa di grandioso, ma piuttosto verso qualcosa di ingegnoso. Tuttavia, oggi come allora, è facile seguire il suono degli spari.
+
+Dopo aver percorso due valli assolutamente desolate fin dal sorgere del sole, erano forse le otto di sera quando mi imbattei in uno di quei solitari parchi recintati, situati tra campi aperti, che sembrano piacere molto alla gente benevolente francese. Chiesi a un uomo presso la locanda quanto distasse quel posto; lui rispose di non saperlo e mi guardò con sospetto.
+
+Scendetti nelle profondità della valle, e lì incontrai un prete che stava leggendo il suo Breviario; egli, a giudicare dal suo aspetto, credette erroneamente che io appartenesse a una religione diversa, poiché giudicava le persone in base al loro abbigliamento. Il che, tra l’altro, è una pratica inevitabile per tutta l’umanità. Tuttavia, quando si rese conto, dal mio modo di parlare, che conoscevo la sua lingua e appartenevo alla sua stessa fede, divenne molto cortese. Quando gli dissi che volevo conoscere la situazione militare, diventò così animato da tracciare mappe sul terreno con il suo bastone, gesticolando con le braccia per indicarmi in quale direzione l’esercito si era spostato tutto quel mattino: verso nord e verso est, al di sopra del fiume Sioule; e come, ogni volta che c’era un ponte da conquistare, entrambe le parti fingevano di averlo preso. Di questo prete si potrebbe davvero dire, proprio come si disse del prete di Thiers nel Forez, che il caso lo aveva reso un chierichino, ma il destino lo aveva destinato alla vita militare. Si potrebbe quindi scrivere una commedia interessante su come caso e destino siano costantemente in conflitto, e come il caso, avendo maggiore libertà d’azione e non essendo vincolato dalle routine, abbia sempre la meglio sul destino, in qualsiasi situazione si presenti.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_17" data-title="On Something — THE EMPIRE BUILDER (part 17)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="motif/machine,concept/the_sublime,concept/nostalgia,form/travel_writing,histref/ancient_rome,setting/france,setting/mountains"></span>
@@ -3680,6 +5228,18 @@ Hours and hours after that I went on with the young fellows. The guns I could no
 
 The game was over. I faced the fourteen miles back to Gannat very stiff. All during those hours I had been wondering at the novelty of Europe, and at all these young men now so different, at the silence and the cover, and the hefty, disposable little guns. But when I had my face turned southward again to get back to a meal, that other aspect of Europe, its eternity, was pictured all abroad. For there right before me stood the immutable mountains, which stand enormous and sullen, but also vague at the base, and, therefore, in their summits, unearthly, above the Limagne. There was that upper valley of the Allier down which Cæsar had retreated, gathering his legions into the North, and there was that silent and menacing sky which everywhere broods over Auvergne, and even in its clearest days seems to lend the granite and the lava land a sort of doomed hardness, as though Heaven in this country commanded and did not allure. Never had I seen a landscape more mysterious than those hills, nor at the same time anything more enduring.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Beh, il prete mi indicò in questo modo la direzione da prendere; così uscii dalla valle e arrivai su un vasto altopiano. Lì, un bambino piccolo (che stava molestando alcune oche vicino a uno stagno) mostrò lo stesso entusiasmo del prete quando mi disse in quale villaggio avrei trovato le armi.
+
+Quel villaggio si trovava a qualche chilometro di distanza. Mentre percorrevo quella strada dritta e desolata, con i resti di colture su entrambi i lati, mi sembrava che il rumore degli spari diventasse sempre più forte; poi, di nuovo, si attenuava, man mano che le batterie prendevano posizione più avanti. Quell’azione simulata era davvero molto divertente: quel movimento a forma di mezzaluna degli spari e io al centro di quella curva. Nel villaggio successivo incontrai i punti nevralgici di quell’operazione militare: da un lato, i rifornimenti venivano inviati verso destra; dall’altro, due uomini con messaggi – uno un ussaro a cavallo, l’altro un riservista in bicicletta – passarono velocemente accanto a me. Poi, da dietro alcuni alberi alti in un cimitero, spuntarono fuori molti ingegneri militari che trasportavano un lungo rotolo di filo spinato. Proseguii quindi il mio cammino e finalmente arrivai a una fenditura poco prima della riva sinistra del fiume Sioule. Quella fenditura sembrava deserta: sui suoi bordi cresceva la boscaglia e un piccolo ruscello la attraversava. Sulla cresta di fronte si vedevano i tetti di un villaggio; il rumore degli spari era ormai molto vicino. Le batterie si trovavano poco più avanti rispetto alle case del villaggio, probabilmente in un campo aperto dove avevano una posizione vantaggiosa. Entrai nella fenditura e nel suo interno vidi il primo posto di guardia, ma per il momento non c’era nulla altro. Quando raggiunsi la sommità della cresta opposta, scoprii che l’intero reggimento numero 38 si trovava nascosto dietro le difese del ciglio della strada. Da sotto, si sarebbe detto che non ci fosse nessuno. I cannoni erano proprio oltre la linea di battaglia e continuavano a sparare. Proseguii lungo le linee fino a trovarli.
+
+E che spettacolo incantevole! Erano così piccoli, leggeri e delicati. Non c’era alcun rumore di clangori né grida; per sparare, un uomo bastava semplicemente a premere il grilletto. Pensai: “Quanto diventa semplice e agevole la nostra civiltà. Pensate ai motori, che ronronano dolcemente; pensate al telefono, così pratico, ”. Mentre riflettevo su queste cose, continuavo a osservare quelle armi. Senza urla né preoccupazioni, gli uomini si comunicavano tra loro con voce gentile; tutti si preparavano con facilità, come se il peso delle armi fosse svanito da quando ero bambino. Si allontanarono velocemente, e quando attraversarono il piccolo fossato ai bordi del campo, aspettavo di sentire quei rumori caratteristici. Ma non accadde nulla; sembrava che tutto fosse avvenuto in silenzio. Uscirono dal campo e si misero in fila lungo la strada, proprio come avrebbe potuto fare un carretto ben munito di molle. Quando si nascosero dietro una collina, tutto fu fatto ancora una volta senza il minimo rumore. Pensai con un po’ di tristezza che il mondo fosse cambiato. Ma tutto era così bello e logico che quasi non rimpiansi quel cambiamento. C’era un tratto di strada davanti a loro, completamente esposto; la linea di soldati avanzava lentamente, sotto il fuoco nemico proveniente dall’altra parte del fiume Sioule. Mentre si muovevano in quell’area aperta, avanzavano verso l’alto. Quando un certo numero di loro ebbe completato questa manovra, l’intera colonna si mosse avanti, attraversando il villaggio. Era come se dell’acqua venisse spruzzata da una fontana. Le armi rimasero ferme per un momento, poi, su un ordine improvviso, partirono al galoppo, superando i duecento o trecento metri di terreno aperto tra le posizioni nemiche. Erano ben guidati: anche gli animali centrali e quelli che trainavano i carri contribuivano efficacemente alla manovra. Era davvero uno spettacolo meraviglioso. Nessuno avrebbe potuto colpire quegli artiglieri o quelle squadre. Non so se fossero visibili dall’altra parte del fiume, ma di certo sarebbero stati notati in quel momento. E quando si riunirono di nuovo, si sentì il rumore degli spari provenire dalla valle. Significava che erano stati visti troppo tardi.
+
+Ore e ore dopo continuai il mio cammino insieme ai giovani soldati. Le armi non potevo portarle con me: camminavo semplicemente al fianco della truppa. E per tutto il tempo, mentre camminavo, riflettevo su quel cambiamento che avveniva nelle cose europee. Questo esercito di giovani uomini, che prestava servizio per due anni, con la sua strana silenzio e i suoi movimenti rapidi e precisi. Quel senso di occhi che ti osservavano da tutte le parti, di uomini che guardavano intorno e valutavano ogni situazione. Gli individui che cercavano un’opportunità per ripararsi, i comandanti che controllavano l’intera zona circostante. Poi, all’inizio del pomeriggio, risuonavano le trombe e i fischietti che emettevano quel richiamo lungo e caratteristico, associato a vittorie e resa dei nemici. E ogni sera suonava lo stesso segnale per far spegnere le luci nelle caserme. Era il segnale francese “Smettete il fuoco”. Non so se si tratti di un’ironia nazionale o di una necessità pratica, ma sia in un caso che nell’altro, lo stesso richiamo viene utilizzato per interrompere il fuoco. E nelle caserme francesi bisogna spegnere le luci seguendo esattamente gli stessi segnali che vengono emessi per ordinare di smettere di sparare sugli altri.
+
+La partita era finita. Dovevo affrontare i quattordici miglia di ritorno a Gannat. In quelle ore avevo riflettuto sulla novità dell’Europa, su quei giovani così diversi da me, sul silenzio che regnava in quel luogo, su quelle piccole armi leggere e facilmente utilizzabili. Ma quando rivolsi di nuovo il viso verso sud, pronto a tornare a mangiare, un altro aspetto dell’Europa mi si presentò davanti agli occhi: la sua eternità. Lì, proprio davanti a me, si ergevano le montagne immutabili, maestose e imponenti. Eppure sfocate alla base, e quindi, in cima, quasi “extraterrestri”, al di sopra della regione della Limagne. C’era quella valle dell’Allier lungo la quale Cesare si era ritirato, radunando le sue legioni verso il Nord. E c’era quel cielo silenzioso e minaccioso che sovrasta l’Auvergne in ogni momento; anche nei giorni più sereni, sembra conferire a quella terra di granito e lava una sorta di durezza inevitabile. Come se il Cielo in quella regione comandasse, piuttosto che attirare. Non avevo mai visto un paesaggio più misterioso di quelle colline. E allo stesso tempo, nulla di più duraturo.
 
 
 
@@ -3723,6 +5283,44 @@ He sighed, and added: “Could you understand how a man might feel that things w
 “The road up into the woods was one of those great French roads which sometimes frighten me and always weary me by their length and insistence: men seem to have taken so much trouble to make them, and they make me feel as though I had to take trouble myself; I avoid them when I walk. Therefore, so soon as this great road had struck the crest of the hills and was well into the woods (cutting through them like the trench of a fortification, with the tall trees on either side) I struck out into a ride which had been cut through them many years ago and was already half overgrown, and I went along this ride for several miles.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+[[Home|CASA]]
+
+C'è un [[River|fiume]] chiamato Eure che scorre tra basse colline spesso ricoperte di alberi, con una pianura erbosa nel mezzo. Prosegue per molti miglia. Le città situate lungo il suo corso sono per lo più piccole e rare; sebbene il [[River|fiume]] sia ben noto, e sebbene una delle principali cattedrali d'Europa si trovi vicino alla sua sorgente, la maggior parte delle volte non viene visitato da estranei.
+
+Un giorno, in questa valle, mentre disegnavo il bosco, incontrai un inglese che si aggirava in modo davvero strano. A giudicare dal leggero piegamento delle ginocchia e dall’inclinazione della testa in avanti, sembrava non curarsi molto di quanto potesse andare lontano. Indossava abiti da turista inglese, che apparivano insoliti in un posto del genere, anzi, lo sono ovunque. Sulla testa aveva un cappello dello stesso colore e della stessa consistenza dei suoi vestiti: marrone maculato. Portava con sé un bastone grosso. Era un uomo di oltre cinquant’anni; il suo viso era piuttosto scavato e segnato dal tempo; gli occhi erano semplici e pallidi; aveva una barba leggera, e sul suo volto si leggeva una stanchezza gentile ma forzata. Fu lui ad avvicinarsi a me mentre disegnavo. Avevo sentito i suoi passi frusciare tra i cespugli dietro di me.
+
+Uscì e camminò verso di me attraverso quei pochi metri di prato. Il raccolto dell’erba era già finito, quindi non fece del male all’erba stessa. Si avvicinò e si fermò vicino a me, esitante, guardando vagamente verso l’alto, attraverso la valle, verso i boschi più lontani, poi ancora verso ciò che stavo disegnando. Dopo essersi fermato così per un momento, mi chiese in francese il nome di quella grande casa il cui tetto si intravedeva sopra gli alberi più ordinati, oltre il [[River|fiume]], dove un parco emergeva e si mescolava con la foresta. Gli dissi il nome della casa; lui scosse la testa e disse che era ancora una volta arrivato nel posto sbagliato.
+
+Gli chiesi cosa intendesse, e lui, sedendosi lentamente e con attenzione sull’erba, mi raccontò questa avventura.
+
+“Prima di tutto,” disse, “sei mai davvero sicuro che una cosa esista realmente o no?”
+
+“Sono sempre molto sicuro”, dissi; “sono sempre certo delle mie decisioni”.
+
+Sospirò e aggiunse: “Riuscite a capire come possa sentirsi un uomo quando crede che le cose siano davvero lì, anche se in realtà non lo sono?”
+
+“Solo,” dissi, “in alcuni sogni molto vividi, e anche allora penso che un uomo sappia abbastanza bene dentro di sé di essere sveglio mentre sogna.” Dissi che a mio parere questa questione assomigliava piuttosto a quella della astuzia dei pazzi: la maggior parte di loro, nel profondo della loro mente confusa, sa benissimo di essere folli, come si può vedere dal modo in cui complottano e fingono.
+
+“Non provi simpatia per me,” disse lentamente, “ma comunque ti dirò ciò che voglio dirti, perché mi farà sentire meglio e ti spiegherà perché sono tornato di nuovo in questa valle.” “Perché dici ‘di nuovo’?” chiesi.
+
+“Perché,” rispose dolcemente, “ogni volta che il mio lavoro me ne dà l’opportunità, faccio la stessa cosa. Prendo il treno da Dieppe fino al valle della Senna; scendo alla stazione dove sono sceso quel giorno e cammino attraverso queste basse colline, nella speranza di imbattermi proprio in quel sentiero e in quell’atmosfera. Ma non succede mai.”
+
+“Quale strada e quale umore?” dissi io.
+
+“Te lo stavo dicendo,” rispose pazientemente, “solo tu sei stato così crudele nella tua percezione della realtà.” Poi sospirò. Posò il suo bastone sulle ginocchia, seduto lì sull’erba, tenendolo con entrambe le mani ai lati delle gambe, e così, rannicchiato in quella posizione, iniziò di nuovo a raccontare la sua storia.
+
+“Erano passati dieci anni, e ero estremamente stanco; dovete sapere che sono un funzionario governativo, e il mio lavoro mi sembra davvero molto faticoso. Proprio in questa stagione ho preso una settimana di vacanza. Intendevo trascorrerla a Parigi, ma poi, visto il bel tempo, ho pensato di fare qualcosa di diverso e di allontanarmi un po’ dai soliti itinerari. Mi chiedevo spesso quale paese si nascondesse dietro quelle basse e ripide colline sulla destra della linea ferroviaria.”
+
+“Ho attraversato la Manica di notte,” continuò, con un certo rimpianto per sé stesso, “per risparmiare sui costi. Era l’alba quando sono arrivato a Rouen; ricordo bene che ho bevuto del caffè che non mi è piaciuto e ho mangiato del buon pane che invece sì. A Rouen ho cambiato treno, perché l’espresso non si fermava alle piccole stazioni lungo il percorso. Ho preso un treno più lento, che arrivava subito dopo l’espresso e si fermava in molte più stazioni. Ho scelto il biglietto a caso, per una piccola stazione situata tra Pont de l’Arche e Mantes. Sono sceso in quella stazione. Era ancora presto: solo a metà mattina.”
+
+“Ero in uno strano stato di stanchezza ed eccitazione: non avevo dormito e avrei volentieri fattolo, ma la freschezza della nuova giornata mi circondava, e ho sempre avuto una grande curiosità di vedere cose nuove e di scoprire ciò che si nasconde dietro le colline.”
+
+“La giornata era bella e già abbastanza calda per giugno. Non mi sono soffermato nel villaggio vicino alla stazione per più di mezz’ora: solo il tempo necessario per bere un po’ di zuppa e un bicchiere di vino; poi sono partito per la foresta, con l’intento di attraversare verso questa valle parallela. Sapevo che in poche miglia avrei trovato anche quella linea ferroviaria che la attraversava. Avevo deciso di seguire silenziosamente quella linea ferroviaria dall’altra parte delle colline, mantenendomi il più possibile parallelamente ad essa; alla prima stazione avrei preso il treno successivo per Chartres e il giorno dopo sarei partito da Chartres per Parigi. Questo era il mio piano.”
+
+“La strada che portava nel bosco era una di quelle grandi strade francesi che a volte mi spaventano e sempre mi stancano per la loro lunghezza e per il fatto che sembrano richiedere tanto impegno nella costruzione; mi fanno sentire come se anch’io dovessi impegnarmi molto per percorrerle. Quindi, non appena quella strada raggiunse la cima delle colline ed entrò nel bosco (tagliandolo attraverso come un fossato di fortificazione, con gli alberi alti su entrambi i lati), io presi una strada secondaria che era stata aperta molti anni prima e ormai in parte invasa dalla vegetazione, e proseguii lungo di essa per diverse miglia.”
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_19" data-title="On Something — THE EMPIRE BUILDER (part 19)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="motif/river"></span>
@@ -3762,6 +5360,42 @@ I was not even very much interested, for I was trying to make the trees to look 
 
 “I strolled with them towards the house across that great lawn, hearing the noise of the fountain, now dimmer, now nearer; sometimes it seemed miles away and sometimes right in my ears. Whether it was their conversation or my familiarity with them or my fatigue, at any rate, as I crossed the moat I could no longer recall anything save their presence. I was not even troubled by the desire to recall anything; I was full of a complete contentment, and this surging up of familiar things, this surging up of it in a foreign place, without excuse or possible connexion or any explanation whatsoever, seemed to me as natural as breathing.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non mi importava affatto in quale direzione procedessi, poiché il mio piano era molto semplice e qualsiasi percorso più o meno verso ovest mi avrebbe permesso di realizzarlo, cioè di raggiungere la valle dell’Eure e trovare quella unica linea ferroviaria che conduce a Chartres. I boschi erano davvero piacevoli in quel pomeriggio di giugno, e una o due volte provai l’impulso di soffermarmi all’ombra degli alberi per riposare un po’. Ma, notate bene: non dormii affatto. Ricordo ogni singolo momento del viaggio, anche se devo ammettere che la fatica iniziò a opprimermi man mano che proseguivo.
+
+“Finalmente, grazie alla ripidezza di una nuova discesa, riconobbi di aver attraversato la cresta divisoria e di essere giunto nella valle di questo [[River|fiume]]. Il sentiero si era ridotto a un viottolo; mentre mi chiedevo dove mi avrebbe portato, notai che diventava sempre più regolare: c'erano zone di sabbia, e qua e là qualcuno aveva tagliato e sistemato i bordi del percorso. Poi il sentiero divenne ancora più ordinato: era completamente ricoperto di sabbia, e qua e là si trovavano cespugli artificiali, intendo cespugli non autoctoni della foresta. Alla fine mi resi conto che la mia escursione mi aveva portato nella proprietà privata di qualcuno, ”
+
+“Non vidi nulla di male in questo: un viaggiatore, se si spiega, di solito viene scusato; inoltre, dovevo proseguire, perché non conoscevo altri modi, e questa strada mi portava anche verso ovest. Tuttavia, forse a causa della mia intrusione o perché mi resi conto più chiaramente del mio aspetto disordinato, la mancanza di sonno e lo sforzo aumentarono durante quegli ultimi cento metri. Fino a quando, improvvisamente, uscii da dietro una siepe di rovi su un grande prato; in fondo al prato c’era una casa di campagna francese circondata da un fossato, con un ponte di pietra che lo attraversava.”
+
+“Il castello era semplice ma molto imponente. Gli intagli presenti su di esso mi piacevano molto, e l’atmosfera che vi regnava era di grande serenità. Sul lato opposto del prato, così da poterne sentire il suono senza vederla, c’era una fontana che gettava l’acqua in una vasca. A giudicare dal rumore, si trattava di una di quelle alte fontane francesi che le persone che costruivano case del genere duecento anni fa amavano molto. Il suono dell’acqua era davvero rilassante, ma ero così stanco che, a un certo punto, mi sembrava provenire da molto più lontano di quanto in realtà fosse.”
+
+C'era una panchina di ferro sul bordo del roseto; quasi senza sapere cosa stessi facendo – perché non era la cosa giusta da fare al posto di un'altra persona – mi sedetti su quella panchina, godendomi il panorama del fossato, della casa con il suo tetto nobile e del rumore della fontana. Penso che avrei dovuto addormentarmi lì, in quel momento, perché sentivo su di me, più che mai, lo sforzo di quella lunga mattina calda e di quel lungo viaggio notturno, se non fosse successo qualcosa di molto curioso.
+
+Qui l’uomo alzò lo sguardo su di me in modo strano, come se volesse capire se gli credessi o meno; ma io non dubitavo affatto di lui.
+
+Non ero nemmeno molto interessato, perché stavo cercando di far sì che gli alberi sembrassero diversi l’uno dall’altro, il che è un compito estremamente difficile; non ci ero riuscito e continuavo a provare. Lui, invece, proseguiva con maggiore sicurezza.
+
+“Quello che è successo è stato questo: una giovane ragazza uscì di casa vestita di bianco, con un fazzoletto blu attorno al collo. Conoscevo molto bene il suo viso: era il viso che avevo visto per tutta la mia giovinezza e i primi anni dell’età adulta. Ma per quanto mi sforzassi, non riuscivo a ricordare il suo nome!”
+
+“Quando si è molto stanchi,” dissi, “succede proprio questo: un nome che si conosce bene quanto il proprio stesso ci sfugge. È soprattutto l’effetto della mancanza di sonno.”
+
+“Sì,” disse lui, sospirando profondamente; “ma l’stranezza di quella sensazione è impossibile da descrivere. Mi trovavo davanti all’amico più anziano, forse il più caro e certamente il più familiare di tutti; un uomo che,” aggiunse dopo una breve esitazione, “non vedevo da molti anni. È stata una grande gioia. Una sorta di conforto, quasi la fine di un lungo periodo difficile. Non ricordavo nemmeno perché fossi venuto fin lì, né come avessi intenzione di raggiungere Chartres. E ora devo dirvi,” proseguì l’uomo con un po’ di imbarazzo, “che il mio nome è Peter.”
+
+“Senza dubbio,” dissi seriamente, perché non riuscivo a capire perché non dovesse portare quel nome.
+
+“Il mio nome cristiano,” continuò in fretta.
+
+“Certo,” dissi, con tutta la comprensione possibile. Sembrava sollevato dal fatto che non avessi nemmeno sorriso all’idea.
+
+“Sì,” continuò piuttosto rapidamente, “mi chiamo Peter. Beh, questa signora si è avvicinata a me e ha detto: ‘Ma Peter, non ci aspettavamo affatto che tu venissi!’ Non sembrava molto sorpresa, piuttosto come se fossi arrivato prima del previsto. ‘Vado a chiamare Philip,’ ha detto. ‘Ti ricordi di Philip?’ A quel punto ho avuto un altro piccolo problema con la memoria: mi ricordavo che esistesse una persona di nome Philip, ma non riuscivo a ricordarmi chi fosse. Era strano, sai. Quanto a lei, beh, la conoscevo altrettanto bene quanto il colore del cielo; era solo il suo nome che non mi veniva in mente, proprio come potrebbe non venirmi in mente il mio stesso nome o quello di mia madre.”
+
+“Quando lo chiamò, Philip uscì; c'era tra loro una familiarità che a quel momento mi sembrava del tutto naturale. Ma se fosse un fratello, un amante, un marito, o qualcos’altro, non riuscivo assolutamente a ricordarlo.”
+
+“‘Sembri stanco,’ mi disse con una voce gentile che mi piacque molto e di cui ricordo chiaramente. ‘Lo sono,’ risposi, ‘stanchissimo.’ ‘Vieni con noi,’ propose, ‘ti offriremo del vino e dell’acqua. A che ora vorresti mangiare?’ Disse che poteva facilmente organizzarsi qualcosa.
+
+“Camminai con loro verso la casa, attraverso quel grande prato, sentendo il rumore della fontana: a volte sembrava lontano, altre volte vicinissimo; a volte pareva distante chilometri, altre volte proprio nelle mie orecchie. Che si trattasse del loro dialogo, della mia familiarità con loro o semplicemente della stanchezza, comunque, mentre attraversavo il fossato, non riuscivo più a ricordare nulla se non la loro presenza. Non provavo nemmeno il desiderio di ricordare; ero pervaso da una completa soddisfazione. Quel susseguirsi di cose familiari, che emergevano in un luogo estraneo, senza alcuna spiegazione o collegamento logico, mi sembrava altrettanto naturale quanto respirare.”
 
 
 
@@ -3827,6 +5461,66 @@ I was happy to be able to tell her that her scepticism, though well founded, was
 “You must first understand,” said I, “where Fairyland is: it lies a little way farther than the farthest hill you can see. It lies, in fact, just beyond that hill. The frontiers of it are sometimes a little doubtful in any landscape, because the landscape is confused, but if on the extreme limits of the horizon you see a long line of hills bounding your view exactly, then you may be perfectly certain that on the other side of those hills is Fairyland. There are times of the day and of the weather when the sky over Fairyland can be clearly perceived, for it has a different colour from any other kind of sky. That is where Fairyland is. It is not on an island, as some have pretended, still less is it under the earth — a ridiculous story, for there it is all dark.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Mentre attraversavo il ponte, dimenticai completamente da dove provenissi o dove stessi andando; tuttavia mi conoscevo meglio che mai in precedenza, e ogni dettaglio di quel luogo mi era familiare.”
+
+“Qui avevo trascorso molte ore della mia infanzia, della mia adolescenza e anche dei primi anni dell’età adulta. Smisi di pensare ai nomi e alle relazioni tra Philip e quella ragazza.”
+
+“Mi diedero carne fredda, pane e vino eccellente, oltre all’acqua per mescolarli con il vino. Man mano che continuavano a parlare, anche gli ultimi segni di preoccupazione scomparvero del tutto da me; il mio spirito sembrava completamente liberato e sereno. Il sonno che si avvicinava mi invitava come un facile ingresso in Paradiso. Mi sarei svegliato per godere per sempre di questo luogo e della sua compagnia. Oh, era davvero un riposo assoluto!”
+
+“Philip mi portò in una piccola stanza al piano terra, arredata con quell’eleganza e quella semplicità tipiche del gusto francese: c’era un letto coperto da tende, qualcosa che adoro. Mi prestò abiti da notte, anche se era pieno giorno, perché disse che se mi spogliavo e mi coricavo sarei riposata molto di più; in quel lato della casa tutto sarebbe rimasto silenzioso, e il dolce rumore dell’acqua che cadeva nel fossato fuori non mi avrebbe disturbata. Dissi invece che mi avrebbe rilassata ancora di più, e sentii come se la bontà di quel luogo mi avvolgesse in un incantesimo. Ricorda: ero molto stanca e da trenta ore non dormivo.”
+
+“Ricordo di aver accarezzato la coperta bianca e notato il delicato disegno francese ricamato su di essa; in un angolo vidi anche una piccola corona di seta rossa ricamata, che mi fece sorridere. Ricordo di aver posato la mano sulla fresca stoffa del cuscino e di averlo lisciato; poi mi misi a letto e mi addormentai. Era mezzogiorno in pieno, con quella tranquillità tipica delle giornate estive tra gli alberi; l’aria era fresca e piacevole sopra le acque del fossato, e le mie finestre erano aperte per lasciarla entrare.”
+
+“L’ultima cosa che sentii prima di addormentarmi fu la sua voce che chiamava Philip nel corridoio. Avrei potuto indicare esattamente dove si trovava. Conoscevo quel corridoio così bene: da bambini ci giocavamo lì, fingevamo di viaggiare e inventavamo nomi per le varie porte. Ripensandoci e sorridendo a quei ricordi, mi addormentai immediatamente in un sonno sereno.”
+
+“, Non voglio infastidirti,” disse l’uomo scusandosi, “ma dovevo davvero raccontarti questa storia, e non so proprio come concluderla.”
+
+“Vai avanti,” dissi in fretta, perché avevo creato due alberi identici l’uno all’altro (cosa che nella natura non si era mai vista prima) e mi sentivo molto a disagio per questo.
+
+“Beh,” disse lui, ancora esitante e sospirando con vera tristezza, “quando mi sono svegliato ero in una carrozza di terza classe; c'era la luce del tardo pomeriggio, e un uomo mi aveva svegliato battendomi sulla spalla e dicendomi che la prossima stazione era Chartres. Nient'altro.”
+
+Sospirò di nuovo. Si aspettava che dicessi qualcosa. E così feci. Dissi, senza molta originalità: “Deve esserselo sognato.”
+
+“No,” disse lui, piuttosto seccato, “appunto questo è il punto! Non l’ho fatto! Vi dico che ricordo esattamente ogni fase, da quando ho lasciato il treno ferroviario nella valle della Senna fino a quando sono entrato in quel letto.”
+
+“È tutto molto strano,” dissi.
+
+“Sì,” disse lui, “e anch'io ero in quello stato d'animo; ma era davvero reale. È stata la seconda o la terza cosa più reale che mi sia mai successa. Sono assolutamente certo che sia realmente accaduta.”
+
+Rimasi in silenzio e cancellai la parte superiore di uno dei miei alberi per poterne inventare una nuova, poiché non riuscivo a disegnarla così com'era. Poi, poiché voleva che dicessi qualcos'altro, risposi: “Beh, devi esserti imbarcato sul treno in qualche modo.”
+
+“Certo,” disse lui.
+
+“Beh, dove sei salito sul treno?”
+
+"#Non lo so."
+
+“Il tuo biglietto te lo avrebbe detto.”
+
+“Credo di averlo dato a quell’uomo,” rispose lui con esitazione, “al guardiano che mi ha detto che la prossima stazione era Chartres.”
+
+“Beh, è tutto molto misterioso,” dissi.
+
+“Sì,” disse, alzandosi con qualche difficoltà per continuare, “è proprio così.” E sospirò di nuovo. “Vengo qui ogni anno. Spero,” aggiunse con un po’ di malinconia, “spero che possa accadere di nuovo a me, ma non succede mai.”
+
+“Finalmente accadrà,” dissi per consolarlo.
+
+E, credetemi o no, quella semplice frase lo rese immediatamente estremamente felice; il suo viso splendeva di gioia e mi ringraziò sinceramente, con calore.
+
+“Parli come uno ispirato,” disse lui. (Confesso che in quel momento non mi sentivo affatto così.) “Dopo quella tua frase, procederò molto più leggermente nel mio discorso.”
+
+Si congedò da me in modo piuttosto cerimonioso e se ne andò, con lo sguardo rivolto verso ovest, verso le colline più lontane.
+
+Il cammino verso il regno delle fate
+
+Una bambina di quattro anni, dopo aver letto storie sul Regno delle Fate e sulle persone che vi abitano, soltanto due giorni fa ha posto, con un atteggiamento molto curioso e scettico, se esistesse davvero un posto del genere e, in caso affermativo, dove si trovasse; perché nel suo cuore credeva che tutto ciò fossero solo menzogne.
+
+Ero felice di poterle dire che il suo scetticismo, sebbene ben fondato, era eccessivo. L’esistenza di Fairyland, le spiegai, poteva essere dimostrata sia attraverso prove documentali presenti nei libri sia tramite i racconti di persone anziane; quindi nessuna persona ragionevole avrebbe dovuto dubitarne. Il vero problema era trovare la strada per arrivarci. Infatti, l’esistenza di Fairyland era così evidente che tutti nel mondo consideravano normale il desiderio di andarci, ma trovare la via giusta risultava estremamente difficile. Per questo motivo, il bambino mi chiese naturalmente quale fosse esattamente quel percorso e perché fosse così complicato da trovare.
+
+“Prima di tutto,” dissi, “dovete capire dove si trova il Paese delle Fate: si trova un po’ più lontano della collina più distante che riuscite a vedere. In realtà, è proprio oltre quella collina. I suoi confini, in alcuni contesti paesaggistici, possono risultare un po’ difficili da individuare, perché il paesaggio stesso è piuttosto confuso; ma se ai limiti estremi dell’orizzonte notate una lunga linea di colline che delimita chiaramente la vista, allora potete essere assolutamente certi che al di là di quelle colline si trova il Paese delle Fate. Ci sono momenti della giornata e condizioni meteorologiche in cui il cielo sopra il Paese delle Fate può essere chiaramente percepito, perché ha un colore diverso da qualsiasi altro cielo. Ecco dove si trova il Paese delle Fate: non è su un’isola, come alcuni hanno ipotizzato, e tantomeno sottoterra. Una storia assurda, visto che lì è tutto buio.”
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_21" data-title="On Something — THE EMPIRE BUILDER (part 21)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="motif/the_journey,motif/the_supernatural,concept/wonder,concept/imagination,concept/childhood_and_growth,form/sketch"></span>
@@ -3875,6 +5569,50 @@ Fairyland?”
 “Then,” said the child happily, “they can take me to Fairyland as often as they like, and I shall not be the worse for it, for I am washed in cold water every day. What about the other way to Fairyland?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ma come ci si arriva?” chiese il bambino. “Si va a piedi fino alle colline e poi si attraversa?”
+
+“No,” dissi, “appunto questo è il problema. Molte persone hanno pensato che fosse possibile raggiungere quel luogo in quel modo; infatti, sembrava una soluzione logica e ovvia. Ma c’è un trucco: quando si arrivano sulle colline, tutto cambia, perché le fate hanno quel potere. Le colline diventano ordinarie, le persone che vi abitano diventano persone come te e me. E poi, una volta raggiunto la cima delle colline, prima ancora di poter dire “oh”, si scopre che dall’altra parte c’è un altro paese normale, proprio come il nostro. Proprio per questo motivo, a causa del potere delle fate che odiano essere disturbate, nessuno può raggiungere il Regno delle Fate in modo così semplice, camminando direttamente verso di esso.”
+
+“Allora,” mi disse il bambino, “non capisco come qualcuno possa arrivarci, ” perché questo bambino aveva un buon intelletto e buon senso comune.
+
+“Ma,” dissi, “devi aver letto storie di persone che arrivano nel Paese delle Fate. E credo che noterai che nelle storie scritte da persone che ne sanno qualcosa (e sai quanto sia facile distinguerle dalle altre), ci sono sempre due modi per arrivarci: uno è per errore, l’altro tramite un incantesimo. Il primo modo consiste nel perdere la strada. E questo è anzi uno dei modi migliori per arrivarci. Ma è pericoloso, perché se ci si arriva in quel modo si offende le fate. È meglio arrivare tramite un incantesimo. Tuttavia lo svantaggio è che si viene bendati, così da non poter ricordare la strada per tornare indietro. Quando si arriva con un incantesimo, qualcuno del Paese delle Fate si occupa di te. Preferiscono farlo mentre dormi, ma sono disposti a farlo anche in altri momenti, se ritengono che ne valga la pena.”
+
+“Perché lo fanno?”, chiese il bambino.
+
+“Lo fanno,” dissi, “perché trova le fate molto infastidite il pensiero che la gente smetta di credere in loro. Sono persone molto orgogliose e si considerano molto importanti. Potrebbero, se lo volessero, farci del bene, ma ci ritengono ingrati quando dimentichiamo di loro. A volte, nel passato, le persone hanno continuato a dimenticare sempre di più le fate, fino a smettere completamente di credere in loro. Nel frattempo, le fate si sono occupate delle loro faccende, e la colpa è più loro che nostra se le dimentichiamo. Ma quando questa situazione dura troppo a lungo, le fate si svegliano e scoprono, in qualche modo, che gli uomini hanno smesso di credere in loro, e ne sono molto infastidite. Allora alcune fate propongono di disegnare una mappa del cammino verso il Regno delle Fate e di darla alla gente; ma questa proposta viene sempre bocciata. Alla fine decidono di “risvegliare” le persone al Regno delle Fate andando nel nostro mondo, utilizzando incantesimi per portare alcune persone nel loro regno e ottenere così testimoni. Perché, come potete immaginare, è davvero spiacevole essere davvero importanti e che gli altri non lo sappiano.”
+
+“Sì,” disse il bambino, che aveva vissuto questa sgradevole esperienza, e provò grande simpatia per le fate quando gli spiegai quanto esse la disprezzassero. Poi il bambino mi chiese di nuovo:
+
+#Perché le fate ci lasciano dimenticarle?
+
+“È proprio perché si eccitano troppo per le loro stesse faccende,” dissi. “Più di cento anni fa, ad esempio, scoppiò una guerra nel Regno delle Fate perché il Re delle Fate, di nome Oberon, e la Regina delle Fate, di nome Titania, invitarono i Troll a cena. I Gnomi ne furono molto infastiditi, e gli Elfi ancora di più; infatti, la principale gloria degli Elfi consisteva nel fatto che essere elfi significava conoscere molte persone. E tutti concordavano sul fatto che i Troll non dovessero mai essere invitati a cena, perché erano semplicemente troll. Re Oberon sosteneva che si trattasse di un pregiudizio malvagio, e che i Troll dovessero essere invitati esattamente come gli Elfi, per motivi di giustizia. Ma in realtà il motivo vero era che si annoiava terribilmente dell’eterna “elficità” degli Elfi, e voleva vedere quei brutti troll cercare di comportarsi da gentiluomini, per una volta. Così i Troll arrivarono, si legarono i tovaglioli intorno al collo e mangiarono quantità enormi a cena, tanto che Re Oberon e la sua Regina quasi morirono dal ridere. Gli Elfi ne furono terribilmente gelosi. E così iniziò la guerra. E mentre questa andava avanti, tutti sulla Terra dimenticarono sempre di più il Regno delle Fate, fino a quando alcune persone arrivarono addirittura a dire, come voi, che il Regno delle Fate non esistesse affatto.”
+
+“Non ho detto così,” disse il bambino, “Ho solo chiesto.”
+
+“Ma,” risposi seriamente, “chiedere cose del genere è l’inizio del dubbio. Comunque, un bel giorno le fate si svegliarono, più o meno nel momento in cui tuo bisnonno si sposò, e scoprirono che nessuno credeva in loro. Allora fecero la riconciliazione e inviarono altre fate a lanciare incantesimi; molte persone iniziarono ad essere portate nel Regno delle Fate, fino a quando tutti furono costretti a credere nelle loro prove e ad ammettere che il Regno delle Fate esistesse davvero.”
+
+“Erano felici?” chiese il bambino.
+
+“Chi?” dissi; “quei testimoni che furono portati via e mostrati…”
+
+“Paese delle fate?”
+
+“Sì“, disse il bambino. “Dovevano essere felici.“
+
+“Beh, non lo erano affatto!” dissi. “Erano malati come cani. Nessuno di loro è rimasto indenne da terribili guai: una sua moglie se n’è andata, un altro è morto di fame, un terzo si è suicidato, un quarto è annegato e poi bruciato sulla riva del mare, un quinto è impazzito (e lo stesso è successo a molti altri), e per quanto riguarda la povertà e tutte le sfortune che ne derivano, beh, sono piombate letteralmente su quelle persone che erano state nel Paese delle Fate.”
+
+“Perché?”, chiese il bambino, molto turbato.
+
+“Ah!” dissi, “è proprio quello che nessuno di noi sa. Ma è così: se ti portano nel Paese delle Fate, ti aspetta davvero un grosso guaio. C’è solo un modo per uscirne.”
+
+“E cos’è questo?” chiese il bambino, interessato.
+
+“Lavaggio,” dissi, “lavaggio con acqua fredda. È stato dimostrato più e più volte.”
+
+“Allora,” disse felicemente il bambino, “potranno portarmi nel Paese delle Fate tutte le volte che vorranno, e non ne risentirò affatto, perché ogni giorno mi lavo con acqua fredda. E per quanto riguarda l’altro modo per arrivare nel Paese delle Fate?”
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_22" data-title="On Something — THE EMPIRE BUILDER (part 22)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="setting/england"></span>
@@ -3913,6 +5651,40 @@ I cannot, as I look at it now before me and as I write these words, express, how
 Little child, the trick which the camera has played means more and more as I still watch your picture, for there is present in that light not only blessedness, but holiness as well. The lightness of your movement and of your poise (as though you were blown like a blossom along the tops of the grass) is shone through, and your face, especially its ready and wondering laughter, is inspired, as though the Light had filled it from within; so that, looking thus, I look not on, but through. I say that in this portrait which I treasure there is not only blessedness, but holiness as well — holiness which is the cause of blessedness and which contains it, and by which secretly all this world is sustained.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Ah, sì,” dissi, “credo che sia davvero il modo migliore; ci sono stato anch’io personalmente.”
+
+“Davvero?” disse il bambino, ora molto interessato. “Che bello! Quante volte ci sei stato?”
+
+“Oh, non posso dirtelo,” dissi distrattamente, “ma almeno otto volte, forse di più. E il trucco, come ti ho detto, consiste nel perdere la strada; l’unica difficoltà è che nessuno può perdere la strada di proposito. All’inizio pensavo che bisognasse seguire le indicazioni. C’era un omnibus che percorreva King’s Road e aveva scritto ‘Fino alla Fine del Mondo’ sopra; un giorno ci salii, e dopo aver percorso qualche chilometro chiesi all’autista: ‘Quando arriviamo alla Fine del Mondo?’ Lui rispose: ‘Oh, l’avete già superata da un pezzo, ’, e suonò una campanella perché scendessi. Quindi era tutto uno scherzo. Un’altra volta vidi un altro omnibus con la scritta ‘Fino al Mostro’, ma poi scoprii che si trattava solo di una battuta: il Mostro c’era davvero, ma non in Fairyland. Quell’omnibus attraversava una zona molto noiosa di Londra. Un’altra volta, in Francia, vidi un cartello che diceva: ‘L’escursione passerà vicino ai Sette Venti, alla Brughiera Stupida e a San Martino sotto il Cielo, ’ Anche questa volta pensai di aver trovato la strada giusta, ma controllando la data sul cartello vidi che l’escursione era già iniziata da diversi giorni. Un’altra volta, in Scozia, vidi un cartello con scritto ‘Fino alla Casa del Re, sette miglia, ’, e qualcuno aveva aggiunto sotto a matita: ‘E fino alla Grotta del Drago, undici miglia, ’ Ma non portò da nessuna parte. Era una strada sbagliata. Dopo quel momento smisi di credere che si potesse arrivare a Fairyland seguendo cartelli o omnibus. Fino a quando, per caso, non scoprii finalmente il vero trucco: perdere la strada, ”
+
+“Come si fa?” chiese il bambino.
+
+“È proprio questo che nessuno può dirti,” dissi. “Se la gente sapesse come si fa, tutti lo farebbero, ma l’intero senso di perdere la strada è proprio quello di farlo per errore. Devi essere assolutamente certo di non aver perso la strada, altrimenti non ha alcun senso. Cammini e cammini, pensando a quanto tempo ci vorrà prima di arrivare in città. E invece di raggiungerla, ti ritrovi nel Paese delle Fate.”
+
+“Come fai a sapere che ti trovi nel Paese delle Fate?” chiese il bambino.
+
+“Dipende da quanto lontano riesci ad addentrarti,” dissi. “Se arrivi abbastanza in profondità, gli alberi e le rocce si trasformano in uomini, i fiumi parlano, e voci di persone che non puoi vedere ti dicono ogni sorta di cose in toni chiari e forti, vicino al tuo orecchio. Ma se arrivi solo un po’, allora sai di essere lì per pura meraviglia. Le cose dovrebbero essere come quelle che vedi tutti i giorni, ma sono un po’ diverse, soprattutto gli alberi. Mi è successo una volta in una città chiamata Lanchester: una parte di quella città (anche se nessuno lo penserebbe guardandola) si trova in Paese delle Fate. Lì fui accolto da tre fate, che mi offrirono la cena in un’osteria. Mi è successo anche una volta in montagna e una volta in mare. Mi sono perso e sono finito su una spiaggia che apparteneva a Paese delle Fate. Un’altra volta è accaduto tra Goodwood e Upwaltham, nel Sussex.”
+
+In quel momento, l’assistente del bambino entrò per prenderlo in braccio, quindi arrivò al dunque…
+
+“Come facevi a sapere di essere nel Paese delle Fate?” chiese lei, scettica. “Forse stai inventando tutto.”
+
+“Sciocchezze!” dissi in tono di rimprovero, “le uniche persone che inventano storie sono i bambini, perché loro mentono sempre. Gli adulti non mentono mai. Lascia che ti dica: si sa sempre quando si è stati nel Paese delle Fate, dal senso che si prova dopo, e perché è impossibile ritrovarlo di nuovo.”
+
+La bambina disse: “Va bene, ti crederò”, ma si vedeva dal suo sguardo che non era del tutto convinta, e che nel profondo del cuore non credeva davvero che esistesse un posto del genere. Tuttavia, se riuscirà a sopravvivere per altri quarant’anni, allora avrò la mia vendetta.
+
+Il ritratto di un bambino
+
+In un giardino che, credo, si trovi in una valle della regione centrale dell’[[England|Inghilterra]], hai trovato l’erba inglese sotto l’ombra di un albero; correvi, ma avevi le braccia tese davanti a te, come se stessi danzando o mantenendo l’equilibrio. Come se appartenessi più all’aria e alle piante che ti circondavano che alla terra su cui camminavi. E avevi appena tre anni.
+
+Poiché, per scherzo, questa incantevole immagine fu registrata da una macchina fotografica che uno degli ospiti aveva con sé, si trattò di un felice caso fortuito (forse voluto da quelle forze che regolano queste cose, un errore dell’apparecchio o della pellicola su cui fu catturata la tua piccola, felice figura in movimento). Così, quando l’immagine venne stampata, la tua figura risplendeva di luce da tutti i lati.
+
+Non riesco, mentre ora lo guardo davanti a me e mentre scrivo queste parole, a esprimere, per quanto ci provi, quale grande significato si nasconda in quell’evento, né quanto quella luce sia piena di destino, di ragione e di verità nascosta. La tua innocenza ne è avvolta e assume, con maestosità, la gloria che si trova al di là di ogni innocenza, ma che i nostri occhi non possono mai vedere. La tua felicità, in quella nebbia di luce, sembra eterna e stabile; il mondo comune in cui vivi, attraverso questo “trucco” dell’obiettivo, appare come un mondo più vero, più adatto a una visione del genere. E in quel mondo, mentre continuo a guardare quell’immagine, sono quasi convinto che la beatitudine non sia qualcosa di raro o occasionale, ma qualcosa di naturale e sicuro.
+
+Bambino mio, il trucco che la fotocamera ha utilizzato acquista sempre più significato ogni volta che guardo la tua immagine: in quella luce non c’è soltanto beatitudine, ma anche santità. La leggerezza dei tuoi movimenti e della tua postura (come se fossi portato via dal vento tra le foglie d’erba) traspare chiaramente; il tuo viso, soprattutto il tuo sorriso pronto e meraviglioso, sembra ispirato, come se la Luce lo avesse riempito dall’interno. Così, guardandoti in questo modo, non ti vedo semplicemente, ma ti vedo attraverso. Dico che in questo ritratto, che tengo così tanto a cuore, non c’è soltanto beatitudine, ma anche santità: una santità che è la causa della beatitudine stessa e che la contiene; una santità grazie alla quale, in segreto, tutto questo mondo può esistere.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_23" data-title="On Something — THE EMPIRE BUILDER (part 23)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="motif/light_and_dark,concept/mortality,concept/innocence_and_experience,concept/childhood_and_growth,concept/self_sacrifice,concept/suffering,concept/despair,form/essay"></span>
@@ -3934,6 +5706,24 @@ It is because in the portrait before me the holiness, the blessedness, and there
 
 The way out is to forget that one is sacred, and this men and women do in many ways. The most of them by way of treason. They betray. They break at first uneasily, later easily, and at last unconsciously, the word which each of us has passed before He was born in Paradise. All men and all women are conscious of that word, for though their lips cannot frame it here, and though the terms of the pledge are forgotten, the memory of its obligation fills the mind. But there comes a day, and that soon in the lives of many, when to break it once is to be much refreshed and to seem to drop the burden; and in the second and the third time it is done, and the fourth it is done more easily — until at last there is no more need for a man or a woman to break that pledged word again and once again; it is broken for good and for all. This is one most common way in which the sacred quality is lost: the way of treason. Round about such as choose this kind of relief grows a habit and an air of treason. They betray all things at last, and even common friendship is at last no longer theirs. The end of this false issue is despair.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ora, nel tuo ritratto c’è anche una terza cosa, piccolo bambino. Quel particolare effetto della luce che ti circonda e illumina il viso non è soltanto benedetto o sacro, ma addirittura divino. Pensandoci, mi viene in mente ciò che dovrebbe sempre tornare nell’animo dell’uomo se vuole trarre qualche significato o beneficio dalla riflessione sulle cose divine. Nella beatitudine c’è una gioia di cui qui non siamo fatti per godere; possiamo percepirla soltanto in brevi istanti o attraverso vaghe intuizioni. Nella santità, invece, quando la riconosciamo, percepiamo qualcosa di lontano. Qualcosa da cui proveniamo e verso cui dovremmo tornare; ma la santità non è una cosa umana. Le cose sacre, invece – quelle dedicate a uno scopo specifico, quelle per le quali è necessario compiere sacrifici, quelle destinate inevitabilmente a subire un certo destino, queste sì appartengono a questo mondo; tutti, infatti, alla fine lo comprendono e lo riconoscono come parte del percorso che devono intraprendere nella loro esistenza. I ricordi umani, poiché sono soltanto ricordi; le affezioni umane, poiché hanno un inizio e una fine; le grandi paure umane e i desideri disperati, queste sono tutte cose sacre, legate al sacrificio. E in questo tuo ritratto, con quella luce che ti illumina completamente, chiunque lo osservi non può dubitare che anche la santità della vita umana appartenga a te. Devi imparare, cioè, come essa venga offerta a uno scopo preciso e quale sacrificio comporti.
+
+Mentre ci penso, vorrei che la telecamera non avesse giocato alcun trucco, e che non avesse rivelato in quella nebbia di significati orribili tutto ciò che va al di là della tua vera natura, bambino. Ma questa è una verità che è stata comunque rivelata; e non possiamo, a costo di una punizione più terribile della morte, trascurare alcuna verità fondamentale riguardo al nostro destino mortale.
+
+I tuoi piedi, che ora sembrano non toccare nemmeno l’erba su cui corrono, dovranno percorrere distanze inimmaginabili, attraversare luoghi di cui non vorresti nemmeno sentir parlare, e dovranno essere guidati verso un obiettivo che, nella tua giovane età, non ti verrà mai rivelato esplicitamente, o di cui, anche se te ne parlassero, non capiresti il nome; le tue manine, che ora sembrano muoversi come quelle di creature volanti, dovranno afferrare ciò che con maggiore difficoltà si può mantenere intatto, cercheranno di plasmare ciò che mai potrà essere completato, e accarezzeranno ciò che non risponderà alle loro carezze. I tuoi occhi, ora pieni soltanto di innocenza, dovranno assistere a tanta sofferenza e abuso umano, al punto da cambiare radicalmente nel corso del tempo; tutto il tuo viso, che ora ricorda solo le prime immagini della tua infanzia, diventerà più cauto e riservato, e affronterà molte angosie, delusioni e stanchezze, fino a quando non assumerà l’aspetto di un volto di donna adulta. E questa sorte sacra che ti riguarda, come quella di tutta l’umanità, non smetterà mai, né diminuirà in alcun modo; aumenterà con certezza e costanza, insieme al passare degli anni, fino a quando, un giorno, non abbandonerai la luce del giorno e la conoscenza delle cose visibili con lo stesso piacere con cui ora ti svegli per vederle.
+
+Perché voi siete sacri, e tutti quegli anziani intorno a voi, il cui comportamento solenne a volte vi sorprende, mettendovi in una certa perplessità che presto viene superata dai loro sorrisi, hanno cuori molto diversi dal vostro cuore spensierato: essi infatti conoscono quelle cose alle quali, come vittime, sono consacrati.
+
+Tutto ciò con cui possiamo, con fatica, conquistare rettitudine e un giusto equilibrio nel condurre le nostre piccole faccende, credo che tu lo praticherai; e credo, guardandoti in volto mentre ti osservo qui, vedendo il tuo coraggio e la tua sicurezza (come se stessi uscendo dall’infanzia per entrare nella giovinezza senza alcuna paura), che le virtù che ora ti circondano, formando quasi un “tribunale” intorno a te e agendo come angeli in ogni momento della tua vita, continueranno ad accompagnarti fino alla fine. E proprio per questo motivo, ancora di più, scoprirai (se leggerai queste parole tra qualche anno) quanto sia vera questa affermazione. A confronto del tuo comportamento, delle tue speranze immortali e dei tuoi sforzi devoti, il mondo che ti circonda sembrerà sempre più oscuro e incerto con ogni nuovo passo che fai; ma nella misura in cui ricorderai l’infanzia che mi ha spinto a scrivere di te in questo modo, nella misura in cui ricorderai la gioia e l’innocenza che caratterizzavano quel periodo, troverai almeno un po’ di sollievo nel peso di questo mondo.
+
+Ora potresti dirmi, piccolo mio (non adesso, ma più tardi), a che scopo serve tutta questa lamentela e perché dovrei ascoltare queste cose?
+
+È proprio perché nel ritratto davanti a me la santità, la beatazza e quindi la sacralità sono evidenti che scrivo in questo modo. Dovete infatti sapere che esiste una falsa via d’uscita, un apparente sollievo per le difficoltà della vita umana, e che molti seguono questa strada. Poiché voi siete sacri, non percorrete quella via, ma portate a termine il vostro compito. È proprio della natura di ciò che è sacro non seguire quel cammino; piuttosto, come vere vittime, rimanere fino alla fine, pronti a completare il sacrificio.
+
+La via d’uscita consiste nel dimenticare che qualcosa è sacro, e molti uomini e donne lo fanno in diversi modi. La maggior parte di loro lo fa attraverso la tradizione. Tradiscono. All’inizio lo fanno con difficoltà, poi più facilmente, fino a farlo inconsciamente. Ognuno di noi ha ricevuto questa promessa prima ancora di nascere, nel Paradiso. Tutti gli uomini e tutte le donne ne sono consapevoli; anche se non riescono a pronunciarla ad alta voce, anche se hanno dimenticato i termini della promessa stessa, il ricordo del suo significato riempie la loro mente. Ma arriva un giorno. E per molti, quel giorno è molto vicino. Quando tradire quella promessa significa sentirsi sollevati, come se avessero gettato via un peso. La seconda e la terza volta che lo fanno, lo fanno ancora più facilmente. Fino a quando, alla fine, non c’è più bisogno di tradirla. È stata tradita per sempre. Questo è uno dei modi più comuni in cui si perde la qualità sacra delle cose: attraverso la tradizione. Intorno a coloro che scelgono questo tipo di “sollevio”, nasce un’abitudine, un atteggiamento di tradimento. Alla fine, tradiscono tutto. Anche l’amicizia più semplice non è più loro. La conseguenza di questa falsa via è la disperazione.
 
 
 
@@ -3969,6 +5759,36 @@ The first of these is the phase of youth, in which he takes certain matured thin
 I say no matter how clearly the reason of a man tells him that all about him is changeable, and that perfect and matured things and characters upon whose perfection and maturity he reposes for his peace must disappear, his attitude in youth towards those things is one of a complete security as towards things eternal. For the young man, convinced as he is that his youth and he himself are there for ever, sees in one lasting framework his father’s garden, his mother’s face, the landscape from his windows, his friendships, and even his life; the very details of food, of clothing, and of lesser custom, all these are fixed for him. Fixed also are the mature and perfect things. This aged friend, in whose excellent humour and universal science he takes so continual a delight, is there for ever. That considered judgment of mankind upon such and such a troubling matter, of sex, of property, or of political right, is anchored or rooted in eternity. There comes a day when by some one experience he is startled out of that morning dream. It is not the first death, perhaps, that strikes him, nor the first loss — no, not even, perhaps, the first discovery that human affection also passes (though that should be for every man the deepest lesson of all). What wakes him to the reality which is for some dreadful, for others august, and for the faithful divine, is always an accident. One death, one change, one loss, among so many, unseals his judgment, and he sees thenceforward, nay, often from one particular moment upon which he can put his finger, the doom which lies upon all things whatsoever that live by a material change.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un altro modo per rifugiarsi da se stessi è cercare piaceri; e questo si fa facilmente, non certo dalle persone peggiori, ma da quelle migliori. Infatti ci sono alcuni, pochi, che mai tradirebbero né romperebbero la loro promessa antica; ma vedendo nessun senso in un sacrificio o in un onere, ne fuggono attraverso i piaceri, come se fossero una droga. Trovano questi piaceri in ogni genere di cose; e sempre quel spirito che vorrebbe distruggere il loro “segno sacro” li persuade che hanno ragione, e che con tali attività si evita effettivamente il sacrificio richiesto. Alcuni si immergono nella poesia, altri nei paesaggi, altri nelle opere d’arte, alcuni nell’osservare la complessità e i cambiamenti delle cose, altri nella musica, altri nell’azione, ancora altri semplicemente nel comfort. Sembra che queste persone, che cercano di dimenticare la loro “sacralità”, siano amate e avvertite meglio di coloro che scelgono un altro percorso; perché non dimenticano mai certe cose belle e appropriate per la mente, né perdono i loro amici. Ma che abbiano intrapreso la strada sbagliata lo si può capire facilmente da questo segno: quei piaceri, come qualsiasi altra droga, non nutrono né soddisfano veramente; anzi, per essere efficaci, devono essere aumentati continuamente. Eppure, ben presto diventano insipidi e vengono cercati non perché siano davvero piaceri, ma perché, anche se ormai privi di significato, la loro assenza causerebbe dolore.
+
+Non scegliere né questo né quell’altro percorso, ma conserva, ti prego, quando arriverà il momento, quella qualità di sacralità di cui parlo, perché non esiste alcuna alternativa. Qualche difficoltà è caduta sulla nostra razza, e tutti noi dobbiamo assumerci quel compito e quel fardello. Se cercherai qualche altra soluzione, essa ti porterà solo a qualcosa di peggio. Non abbiamo molte scelte davanti a noi: ne esiste solo una, tra poche possibili, e ognuna di queste scelte è mortale, e tutte tranne una sono cattive.
+
+Dovresti ricordare anche questo, caro bambino: all’inizio – oh, soltanto all’inizio della vita – persino la ragione che Dio ti ha dato può portarti fuori strada. Perché con quei ricordi vividi di volontà perfetta, di intelligenza chiara e di una bellezza armoniosa tutta intorno a te, crederai che il mondo in cui ti trovi sia lo stesso da cui sei venuto e verso cui sei destinato. Devi soltanto considerare questo mondo, per un breve periodo, come ciò che pensi che sia, per poi scoprire che non è così.
+
+Sai che ciò che ha il profumo più intenso in questa vita di immortalità, e che un poeta ha definito “l’ultima frontiera dell’eternità”, è in realtà incerto e destinato a perire? Intendo dire l’affetto appassionato della giovinezza. Se anche quello non sopravvive, cosa pensi possa rimanere? Ti dico che nulla di ciò che consideri permanente intorno a te quando sei molto giovane è altro che un simbolo o una maschera della permanenza. Un altro poeta ha scritto, parlando delle colline di gesso:.
+
+Resta solo un po’ di tempo.
+
+I Downs, nella loro solennità.
+
+Né questa affermazione suona forzata. Uomini e donne non riescono nemmeno a legarsi alle colline dove hanno giocato per la prima volta.
+
+Alcuni uomini, saggi ma non illuminati, e che non sono consapevoli di quella luce che io vedo fisicamente brillare intorno a voi e attraverso di voi nella immagine che ho davanti agli occhi mentre scrivo, hanno detto che morire giovani e concludere la propria vita in anticipo fosse una grande benedizione. Noi non lo sappiamo. Ma sappiamo certamente che morire molto più tardi e completare il proprio percorso di vita deve essere considerato una benedizione, poiché beatitudine, santità e sacralità sono strettamente legate tra loro.
+
+Ma di questi tre aspetti, sappi con certezza che la sacralità è la tua principale attività. La beatitudine, dopo l’infanzia, non la conoscerai mai; quanto alla santità, potrai vederla soltanto come le persone vedono montagne lontane che si ergono al di là di una pianura: essa non può diventare la tua dimora. La sacralità, segno di quel fine per il quale la beatitudine è l’erede e la santità è lo scopo finale, sarà con te fino alla morte; custodiscila e fai che sia la tua principale preoccupazione, perché anche se la trascuri, essa rimarrà e si vendicherà.
+
+Tutto ciò che ho visto nella tua fotografia, mentre camminavi sull'erba, è stato un effetto casuale della macchina fotografica. Se qualcuno dovesse dire che queste cose non si addicono al ritratto di un bambino, che si chieda se non si addichino invece al ritratto che potrebbe essere dipinto, se le abilità umane fossero sufficienti a rappresentare la vita di una donna o di un uomo attraverso i tratti della loro infanzia; oppure che si chieda se, se il volto di una persona in vecchiaia e lo stesso volto da bambino venissero descritti entrambi con piena verità, e l’evoluzione di uno nell’altro fosse interpretata da un’intelligenza profonda, ciò che ho detto non sarebbe vero per tutto quel breve periodo della nostra vita trascorso alla luce del giorno.
+
+Sulla esperienza
+
+Nella vita dell’uomo, per quanto riguarda i suoi pensieri sulle cose che lo circondano, ci sono tre fasi principali.
+
+La prima di queste fasi è quella dell’adolescenza, in cui si considerano certe cose “mature” come qualcosa di scontato; che se ne sia consapevole o meno, si crede che tali cose siano eterne. Questa fase termina bruscamente per ogni uomo, a seguito di un evento improvviso: una ferita grave, la rottura di un legame importante, o semplicemente la morte di qualcuno.
+
+Dico che, per quanto chiaramente la ragione possa far comprendere a un uomo che tutto intorno a lui è soggetto al cambiamento, e che le cose e i caratteri perfetti e maturi su cui si fonda la sua tranquillità dovranno scomparire, l’atteggiamento di un giovane verso tali cose è quello di una completa sicurezza, come se fossero eterni. Il giovane, convinto che la sua giovinezza e lui stesso esistano per sempre, vede in un contesto duraturo il giardino di suo padre, il volto di sua madre, il paesaggio fuori dalla sua finestra, le sue amicizie, persino la sua stessa vita; i dettagli legati al cibo, all’abbigliamento e ad altre abitudini quotidiane sembrano tutti fissi per lui. Allo stesso modo, anche le cose mature e perfette appaiono immutabili. Quel vecchio amico, il cui ottimo umore e vasta cultura gli procurano costante piacere, esiste anch’egli per sempre. E quella valutazione umana su questioni complesse come sesso, proprietà o diritti politici sembra radicata nell’eternità. Arriva però il giorno in cui, a causa di un qualche evento improvviso, quel giovane viene strappato da quel sogno idilliaco. Forse non è la prima morte ad colpirlo, né la prima perdita. E nemmeno, forse, la scoperta che anche l’affetto umano è effimero (anche se questa dovrebbe essere per ogni uomo la lezione più profonda di tutte). Quello che lo risveglia alla realtà – una realtà spesso terribile, altre volte maestosa, e per i fedeli divina – è sempre un evento casuale. Una morte, un cambiamento, una perdita, tra tanti altri eventi, rivelano la verità su tutto ciò che vive, su tutto ciò che dipende dal cambiamento materiale.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_25" data-title="On Something — THE EMPIRE BUILDER (part 25)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="motif/river"></span>
@@ -3992,6 +5812,26 @@ HERE AND THERE, scattered rarely among men as men are now, you will find one man
 
 Such a man may be doing any one of many things. He may be a poet, and his occupation may be the writing of good verse, pleased at its sound and pleased as well by the reflection of the pleasure it will give to others. Or he may be devoted, and follow a creed, a single truth or a character which he loves, and whose influence and glory he makes it his business to propagate. Or he may be but a worker in some material, a carver in wood, or a manager of commercial affairs, or a governor and administrator of men, and yet so order his life that his work and his material are his object: not his gain in the end — not his appreciable and calculable gain at least — nor his immediate and ephemeral pleasures.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La seconda fase nella quale entra ora rappresenta, per un uomo riflessivo in un’epoca scettica e corrotta, una fase cruciale: in essa non verrà determinata la sorte della sua anima, ma l’equità – e quindi il vantaggio che la sua filosofia potrà portare agli altri.
+
+Ha abbandonato tutte le illusioni di permanenza e tranquillità. Da quel momento in poi, vede per sé una fine definita; la strada che un tempo attraversava le colline e si perdeva nella nebbia delle pianure estive, ora conduce direttamente a un luogo visibile: una caverna sulle pendici della montagna, buia e senza uscita. Deve morire. Da quel momento in poi, aspetta la perdita di tutto ciò a cui è attaccato; tuttavia, è preparato a questa perdita grazie a qualcosa che gli è stato concesso: qualcosa che, sebbene possa portare alla disperazione, è per lui come un angelo rispetto a un demone. Qualcosa appartenente alla stessa categoria di emozioni, ma giusto e rinvigorente, invece di essere vuoto, vano, tentatore e senza fine. In questa seconda fase della sua esistenza, l’uomo comprende che deve perdere. Oh, non perde in una scommessa! Non si tratta di vincere o perdere qualcosa, come vorrebbe farci credere quella falsa analogia commerciale. Sa ormai che non c’è successo alcuno, nessun raggiungimento finale dei suoi desideri, perché nulla nelle cose materiali è stabile. Mentre siede a tavola con i più saggi e perspicaci del suo tempo, ascolta storie vere di grandi uomini del passato, guarda dipinti ben realizzati, ammira la qualità della stampa dei libri raccolti, e apprezza l’equilibrio armonioso di versi o musiche classici riconosciuti come tali dal tempo, ammira e gode pienamente di queste cose, ma sa bene che sono tutte in via di passare. Non può fare affidamento su nulla; non cerca alcun punto d’appoggio. L’equilibrio della sua anima si trova soltanto nel continuare ad avanzare, senza mai fermarsi. Ora sa che deve andare avanti, non può restare fermo, perché se lo facesse, cadrebbe. Deve proseguire e vedere il “fiume” delle cose scorrere via davanti a lui. Ma verso quale destinazione?
+
+Esiste una terza fase, nella quale – come determinato dall’esperienza di venti secoli cristiani – anche quel obiettivo viene scoperto; per alcuni che lo scoprono in questo modo, l’esperienza della perdita inizia ad assumere un significato.
+
+Di cosa si tratti in questa terza fase, confesso di non saperlo; poiché non l’ho mai sperimentata, non posso descriverla. Tuttavia, quando quella terza fase viene utilizzata nel modo che ho suggerito, in coloro che la impiegano entra un carattere di saggezza: un carattere di saggezza che rappresenta ciò che il nostro tempo banale può offrire più vicino all’ispirazione e alla profezia.
+
+È anche da notare che in questa terza fase dell’esperienza umana della rovina, coloro che non sono saggi sono davvero i più insensati; e quando l’età dell’esperienza non ha prodotto una tale maturità nello spirito, allora essa genera disperazione o follia, oppure un’eccessiva fuga dalla realtà. Questa fuga, essendo una menzogna, è ancora più dannosa della disperazione e molto più inumana della semplice stupidità. Pertanto, coloro che nella terza fase di cui parlo non hanno raggiunto la saggezza che qui riconosco, spesso cadono preda di un’avidità smisurata, accumulando ricchezze di cui non riescono nemmeno a immaginare di poter godere; una stupidità così evidente da essere sempre stata considerata il tema più banale nella satira. Oppure, ancora, coloro che non riescono a trovare saggezza in questa ultima fase continuano a fingere un mondo irreale, facendo piani per un futuro che non esisterà mai. Così fece un uomo undici anni fa nei dintorni di Regent Street: essendo un ottantasettenne ricco e completamente privo di amici o parenti, affittò un appartamento, ma insistette affinché il contratto di locazione avesse una durata non inferiore a sessanta anni. In mille modi, questa ultima fase, se degradata, diventa la più degradante; e anche se non è la peggiore, diventa certamente la più sterile quando si riduce semplicemente a un rimpianto per il passato.
+
+È proprio in questa fase della vita che appaiono le saggezze legate all’età avanzata: gli anziani, quando sono saggi, riescono infatti a indicare agli uomini e alle donne di mezza età ciò che questi nemmeno sospettano, e possono fornire loro un rimedio efficace contro l’insicurezza dell’anima. Con la loro saggezza, gli anziani possono dire a coloro che sono immediatamente sotto di loro: “Anche se tutte le cose umane passano, ognuna porta comunque i suoi frutti”. Possono dire: “Credete che una donna determinata, con la sua cortesia, il suo spirito di viaggio, la sua acutezza di giudizio, la sua grande umanità e il suo amore per le cose divertenti della vita, non possa mai essere sostituita dopo la morte. Ma intorno a voi ci sono persone assai insicure, forse persino spregevoli, che, nel corso del tempo, mostreranno esattamente tutte queste qualità”. Non c’è mai stato, né c’è ora, un momento in cui il Cristianesimo abbia fallito: da situazioni apparentemente disperate sono sempre emersi, in modo miracoloso, ciò che sembrava perduto. Lo stesso è accaduto con la nostra musica, con lo splendore delle nostre armate, con l’architettura dei nostri templi e con le nostre poesie immortali. Gli anziani, quando sono saggi, possono offrire agli uomini più giovani ciò che la storia offre al lettore, ma lo fanno in modo molto più profondo e commovente, grazie alle espressioni dei loro occhi e ai toni vividi delle loro voci. Il loro compito è proprio quello di consolare il mondo.
+
+# Sull’immortalità
+
+Qui e là, raramente dispersi tra gli uomini di oggi, si trova qualcuno che non persegue gli stessi obiettivi dei suoi simili; ma conduce la propria vita in modo particolare, come se i suoi occhi fossero fissi su un qualche obiettivo lontano, o come se i suoi desideri fossero soggetti a una sorta di influenza costante e individuale.
+
+Un uomo del genere può dedicarsi a molte cose diverse. Può essere un poeta, e la sua occupazione consiste nel comporre versi belli, godendo sia del loro suono che del piacere che questi versi possono procurare agli altri. Oppure può essere una persona devota, che segue una credenza, una verità o un ideale che ama profondamente, e si impegna a diffonderne l’influenza e la gloria. In alternativa, può semplicemente essere un artigiano che lavora con materiali fisici – un intagliatore di legno, un dirigente d’affari o un responsabile amministrativo – ma organizza comunque la propria vita in modo che il proprio lavoro e gli oggetti con cui lavora siano il suo vero obiettivo: non il guadagno materiale, né i piaceri immediati ed effimeri.
 
 
 
@@ -4020,6 +5860,30 @@ How should you not be persuaded, ephemeral intelligence? Does not every matter w
 
 Then how shall we deny the dreadful conclusion (to which how many elder civilizations have not turned!) that we must seek in vain for any gift to the giver for any workers’ wage, or, rather, to put it more justly, for a true end to the life we lead. Yet it is not so. The conclusion is more weighty by far that all things bear their fruit: that the comprehender and the master of so much, the very mind, suffers to no purpose and in one moment a tragic, final, and unworthy catastrophe agrees with nothing other that we know. It is not thus of the good things of the earth that turn kindly into the earth again. It cannot be thus with that which makes of all the earth a subject thing for contemplation and for description, for understanding, and, if it so choose — for sacrifice.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tali uomini, se li si esamina attentamente, si riveleranno determinati a raggiungere una sorta di completamento definitivo del proprio essere; tale completamento rappresenta anche, che lo sappiano o no, una ricompensa. Coloro che hanno riflettuto seriamente su questa questione affermano che tali uomini sono in realtà alla ricerca dell’Immortalità.
+
+Allora, cos'è questo? C'era un uomo, prima che i Normanni arrivassero in [[England|Inghilterra]], che salpò dalle più alte montagne scandinave e navigò verso queste coste; una volta sbarcato, combatté contro gli uomini ed fu ferito a morte. Quando gli chiesero perché avesse intrapreso quell'avventura, rispose: “Perché il mio nome possa vivere tra le labbra delle persone.”
+
+I giovani, gli avventurieri, quelli ammirati, con quanto ardore e con quanta legittimità anelano alla gloria! La fama ha qualcosa di divino in sé: è come un eco di un culto perfetto e di lodi supreme. Eppure, sebbene essa stessa sia imperfetta, può facilmente ingannare i giovani, gli avventurieri e quelli ammirati. Che meraviglia pensare che azioni ben compiute o il contributo dato agli altri possano portare ai nostri nomi una benedizione continua e crescente, anche quando tutto è perduto tranne quei semplici nomi. E ancora di più: che il solo fatto di aver realizzato qualcosa – che sia stato scritto un poema, completata un’opera d’arte o vinta una battaglia – possa suscitare quelle enormi eco, anche quando il nome di chi l’ha compiuto è scomparso o ignoto.
+
+Ma aspetta un momento. Che cos’è quella cosa che agisce in questo modo e desidera queste cose? Qual è lo scopo che trova nella gloria? Non è certo colui che riceve i benefici; non sentirà mai quel grande clamore di riconoscimenti e saluti. Per quanto tu possa girarla e rigirarla, non esiste alcun fine in tutto ciò. E chi la persegue non trova mai soddisfazione in tale ricerca.
+
+È vero che gli uomini che amano creare per sé cose immaginarie e soddisfare i propri desideri, se non possono farlo con la realtà, lo fanno con i sogni; continuano a fingere di provare soddisfazione in quelle cose che, col passare degli anni, dimostrano sempre più chiaramente non essere reali. I giovani, gli avventurieri, coloro che sono ammirati, possono all’inizio essere ingannati da questo tipo di illusione; ma è proprio nel disegno provvidenziale delle cose umane, e per il bene di tutti noi, che queste illusioni piacevoli possano durare finché le cose genuine non siano state realizzate. È così che poesie sostanziose, sculture nobili ed edifici la cui materia è duratura e la cui bellezza è quasi immortale portano beneficio all’umanità. Ma oh! nei sogni non c’è nulla di duraturo.
+
+Arriva un giorno in cui la verità viene percepita interiormente e in modo irrevocabile; in quel momento, cose del genere, quelle aspirazioni, vengono chiaramente comprese per ciò che realmente sono. Di tutte le emozioni che passano, di tutte quelle cose create da forze anch'esse effimere e destinate a scomparire, alcune possono durare più a lungo, altre meno, ma nessuna rimane per sempre.
+
+E non è tutto ciò. Ditemi: cosa è stato che ha compiuto quell’atto e ha provato quel desiderio? Non il destinatario, né tantomeno l’opera realizzata; è stato l’uomo stesso che ha agito in quel modo e ha provato quel desiderio. Quella parte di lui che è stata così influenzata, noi la chiamiamo Anima. Allora, certamente (si può ragionare), l’anima possiede, in linea con la sua natura, una completezza che rappresenta anche una ricompensa; e c’è qualcosa davanti a lei che non è un simbolo o una falsità della lode perfetta, ma è proprio la lode perfetta; c’è certamente qualcosa davanti a lei che non è un simbolo o una falsità della vita, ma è la vita stessa, completata.
+
+Ora, stando di notte sotto un cielo sereno, solenne e severo punteggiato di stelle, comprendi (poiché il grande progresso della nostra razza ce lo permette ora) quale vuoto e quale abisso si nascondano in esso; con uno solo sguardo scoprirai facilmente, o almeno percepirai, quella terribile realtà che spinge gli uomini a negare la propria immortalità.
+
+Non esiste alcun uomo che abbia indagato a fondo su questo argomento, né alcuno che si sia davvero preoccupato e abbia provato un’ansia ragionevole al riguardo, il quale non abbia ben compreso la natura della disperazione. Coloro che affrontano i loro simili con arroganza e violenza in questioni del genere, affermando di aver scoperto qualcosa, di essere convinti o di possedere certezze, fanno un grave danno alla loro stessa specie. Non è certo in questo modo che si dovrebbero affrontare le questioni ultime, né i problemi più terribili che l’uomo è destinato ad affrontare. Ah, quante cose ci sono in questo mondo! Il modo in cui il nostro amore più profondo svanisce nel nulla, e il modo in cui gli elementi più forti e costanti della nostra essenza vengono distrutti e ci abbandonano in un momento critico. Se non riesco a comprendere queste cose, né a capire come il passare degli anni possa offuscare o cancellare dalla coscienza di un uomo la consapevolezza del proprio destino finale, allora agisco nella più completa ignoranza, o, cosa ancora peggiore, in mancanza di carità.
+
+Come potresti non essere convinto, intelligenza effimera? Non ti sfugge e non si allontana ogni cosa che hai tenuto stretta abbastanza a lungo? Non è forse questa la sorte di ciò che è stato insito in noi, e che, per così dire, costituisce una parte essenziale della nostra esistenza? Lo stesso vale per quella rete, per quella struttura che sostiene tutto ciò che siamo, senza la quale non potremmo nemmeno immaginare di esistere. Noi stessi finiamo per perire. Di questo non c’è alcun dubbio. Qui c’è qualcuno che parla e vive; i suoi amici sono con lui. Ma nel momento in cui si rivedranno, lui non sarà più lì. Quel corpo immobile davanti ai suoi lamentatori non è nulla: non è un simulacro, non è un ricordo di quell’uomo, ma piuttosto qualcosa che è completamente andato perduto e diventato inutile. E quella voce, quei significati negli occhi, quel gesto della mano, tutto ciò ha improvvisamente cessato di esistere.
+
+Allora, come possiamo negare quella terribile conclusione (a cui molte civiltà più antiche sono giunte!) secondo cui dobbiamo cercare invano un modo per ricompensare chi dona o il lavoro di chi lavora. O, per dirlo in modo più corretto, un modo per porre fine davvero alla vita che conduciamo? Eppure non è così. La conclusione sarebbe molto più grave se tutte le cose non portassero i loro frutti: se l’intelligenza, che comprende e domina tutto ciò, soffrisse invano. Se, in un istante, una tragedia tragica e insensata si verificasse senza alcun motivo legato a ciò che conosciamo. Non è certo così per le cose buone della terra: queste non ritornano semplicemente alla terra stessa. E non può essere lo stesso per ciò che trasforma tutta la terra in un oggetto di contemplazione, descrizione, comprensione, e, se si desidera, anche di sacrificio.
 
 
 
@@ -4063,6 +5927,44 @@ Whatever reasons a man may have for occupying the darkness with his travel and h
 But whatever prompts the adventure or the necessity, when the long burden has been borne, and when the turn of the hours has come; when the stars have grown paler; when colour creeps back greyly and uncertainly to the earth, first into the greens of the high pastures, then here and there upon a rock or a pool with reeds, while all the air, still cold, is full of the scent of morning; while one notices the imperceptible disappearance of the severities of Heaven until at last only the morning star hangs splendid; when in the end of that miracle the landscape is fully revealed, and one finds into what country one has come; then a great hill before one, losing the forests upwards into rock and steep meadow upon its sides, and towering at last into the peaks and crests of the inaccessible places, gives a soul to the new land…. The sun, in a single moment and with the immediate summons of a trumpet-call, strikes the spear-head of the high places, and at once the valley, though still in shadow, is transfigured, and with the daylight all manner of things have come back to the world.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Coloro della nostra razza che hanno deliberatamente esaminato quel rotolo e non vi hanno trovato nulla da leggere, che hanno sollevato la tenda e non hanno visto nulla al di là di essa, hanno affrontato le loro conclusioni con una nobiltà che dovrebbe guidarci; perché proprio quella nobiltà dimostra, o, se non lo fa, ci costringe a proclamare, che l’anima umana, che possiede tale nobiltà, deve avere da qualche parte un [[Home|rifugio]] duraturo. La conclusione è inevitabile.
+
+Che nessuno si illuda, nella propria [[Faith|>fede]], che essa sia immediatamente evidente e universalmente accettata. Chiunque pretenda di avere una certezza possiede in realtà un senso del dubbio che esiste tra quella convinzione e un'altra possibile; tutti riconoscono infatti che, per le persone normali, la bilancia oscilla in modo equilibrato. Ma quelle bilance oscillano, e una delle due parti è inevitabilmente più pesante dell’altra.
+
+I poeti, che sono i nostri interpreti, conoscono bene questo contrasto tra tali allusioni e tale disperazione, e possono descriverlo efficacemente.
+
+La lunga discesa dei giorni sprecati
+
+“Quelli che alla fine mi hanno portato qui…”
+
+# Ricorda che ero pieno di lodi
+
+I metodi senza senso e dubbiosi
+
+Ciò portò alla nascita di una città eterna.
+
+Inoltre, poiché abbiamo parlato della notte, è del tutto logico considerare anche l’alba. La qualità della luce, il suo effetto positivo sull’animo, il cielo illuminato dal sole sotto la cui benedizione riposiamo e nel quale la nostra specie ha sempre visto l’immagine del proprio luogo finale: sono forse queste solo visioni o inganni?
+
+# Sulle cose sacrali
+
+È benefico per l’anima di un uomo sedersi da solo nel silenzio e riflettere su quelle cose che, per caso, lo mettono in comunione con tutto il mondo. Se non ha la capacità di ricordarle nell’ordine giusto e di richiamarle una dopo l’altra nella propria mente, allora possa scriverle su un pezzo di carta man mano che gli vengono in mente. Queste cose lo consoleranno; rappresenteranno una sorta di conforto di fronte alla prospettiva della fine. Riflettere su tali argomenti è un’attività sacra. Eppure, più ci penso, meno riesco a comprendere esattamente in quali elementi consista il loro potere.
+
+Una donna che sorride a un bambino, ignara che gli altri la vedano, e che tende le mani verso di lui; in una delle sue mani ci sono dei fiori; un vecchio, magro ma ancora attivo, con un viso pieno di energia, che cammina al crepuscolo in una serata calda e ventosa, dirigendosi verso il tramonto sotto nuvole scure e veloci; un gruppo di soldati impegnati in manovre militari: ognuno concentrato sul proprio compito, tutti coinvolti in questa meravigliosa attività; prendono posizione con precisione e ordine, ma anche con agilità; una marea profonda e potente che si ritira verso il mare, silenziosa, piatta, nera e liscia, eppure carica di forza; l’odore del mare proveniente da una città portuale del Canale della Manica; una nave che si avvicina lentamente nel vasto oceano, mentre ci si trova in una piccola barca in attesa. Una nave con le sue grandi vele che lavorano felicemente, ciascuna svolgendo il proprio compito al meglio, con la forza del vento che le dà vita; un equilibrio, un ritmo, una coordinazione perfetti in ogni suo movimento. Questa nave, qualunque sia la sua configurazione navale – con vele bianche disposte lungo la prua, o con vele quadrate che formano quella che comunemente viene chiamata “torre inclinata di tela”, oppure con quelle vele triangolari che tagliano l’aria e aprono la strada alle prime avventure, – è proprio una di queste immagini che ho in mente.
+
+Vorrei che il sapore dei miei tempi permettesse di elencare a lungo tutte queste cose: sono piacevoli da ricordare. Nutrono davvero la mente! Un’occhiata piena di comprensione improvvisa, mescolata di compassione e umorismo sul volto di un amante o di un amico; il rumore delle ruote quando i cannoni passano; lo strepito degli zoccoli dei cavalli che occupano rapidamente la strada; e soprattutto, una grande collina, al mattino, quando si vede emergere all’orizzonte dopo lunghi percorsi attraverso le montagne, nel cuore della notte.
+
+Quando un uomo ha viaggiato attraverso quelle ore in cui non esistono colori né forme, lungo tutti quei brevi momenti destinati al sonno, e quando quindi l’anima sveglia si sente smarrita o disperata, la mattina rappresenta sempre una rinascita, soprattutto quando rivela un’altura nel cielo.
+
+Questa ultima immagine la custodirei particolarmente nel mio cuore: rappresenta una grande consolazione e dona una grazia duratura alla mente di un uomo oppresso dai pesi della vita.
+
+Perché quando un uomo ripensa alle sue molte avventure – a tutti i fiumi che ha attraversato, alcuni dei quali addirittura rischiando la vita; a tutte le strade montane tortuose, ai ripidi pendii e alle vaste pianure desolate – tra tutte le immagini che gli rimangono nella memoria, per grazia dell’arte o della benevolenza di quel dio che presiede al successo dei viaggi, nessuna è più significativa di quell’immagine di una grande collina alla prima luce del giorno, dopo la lunga notte.
+
+Qualunque siano le ragioni per cui un uomo decida di attraversare l’oscurità durante la notte, queste ragioni devono essere insolite e legate a qualche tensione psicologica negativa. Forse qualcuno si è messo in viaggio per necessità imperiosa, sotto la coercizione altrui, o forse per paura, nella speranza che l’oscurità lo nascondesse; oppure per il fresco, temendo il calore insopportabile del mezzogiorno in una terra desolata; forse per la fretta stessa, che di per sé è già estenuante. O forse, il più terribile dei motivi: perché si temeva ciò che la notte avrebbe potuto portare. Una notte priva di sonno, una notte in cui i sogni fossero incubi e malefici.
+
+Ma qualunque sia la motivazione che spinge all’avventura o alla necessità, quando il lungo fardello è stato portato a termine e arriva l’ora giusta; quando le stelle diventano più pallide; quando i colori ritornano sulla terra in tonalità grigie e incerte, prima sui verdi dei prati alti, poi qua e là su rocce o stagni circondati da canne; quando l’aria ancora fredda è piena del profumo della mattina; quando si nota la scomparsa impercettibile delle durezze del cielo, fino a quando infine non rimane solo la stella del mattino ad brillare splendidamente; quando, alla fine di questo miracolo, il paesaggio si rivela completamente e si scopre in quale terra si è giunti. Allora, una grande collina che si erge davanti a uno, perdendo le foreste verso l’alto per lasciare spazio a rocce e prati scoscesi sui suoi fianchi, e che infine si innalza fino alle cime inaccessibili, dona vita a questa nuova terra. Il sole, in un istante, con il suono immediato di una tromba, illumina la vetta delle alture; e subito la valle, sebbene ancora avvolta nell’ombra, viene trasformata: con l’arrivo della luce del giorno, ogni cosa ritorna nel mondo.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_28" data-title="On Something — THE EMPIRE BUILDER (part 28)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="motif/river,concept/faith"></span>
@@ -4101,6 +6003,40 @@ THERE IS A certain valley, or rather profound cleft, through the living rock of 
 This cleft is so disposed that the smooth limestone slabs of its western wall stand higher than the gloomy steps of cliff upon its eastern, and thus these western cliffs take the glare of the morning sunlight upon them, or the brilliance of the moon when she is full or waning in the first part of her course through the night.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+La speranza è quella parola che unisce le origini di tutte queste cose; la speranza è anche il seme del loro significato. Ma quella nuova luce e quella sua nuova qualità sono qualcosa di più della semplice speranza. Il mezzo di sussistenza ritorna con l’alba, così come la certezza stabile dell’anima; i numeri, le misure e la comprensione sono tornati. E una giusta apprezzazione di tutta la realtà è il dono di questa nuova giornata. La gloria – che, se solo gli uomini la conoscessero, si trova dietro ogni vera certezza – illumina e rende vivente il mondo visibile; quella luce viva trasforma le cose vere ora rivelate in qualcosa di più della semplice verità assoluta. Appaiono come verità che agiscono e creano.
+
+Questo primo raggio di sole, per quella collina e quella valle, è ciò che una parola è per un pensiero; è ciò che un verso è per una storia comune; è ciò che la musica è per un verso. E dietro di esso, si nasconde sicuramente un progresso infinito di tali esaltazioni, tanto che si inizia a comprendere, man mano che la luce pura cresce e i confini dell’ombra scendono lungo il vasto versante della montagna ripida, ciò che intendevano quelle grandi frasi che continuano ad ispirare, a consolare e a rendere saggi, anche nel dolore, gli esseri umani. Ecco quella famosa frase: “Né occhio ha visto, né orecchio ha udito, né può il cuore dell’uomo comprendere ciò che Dio ha preparato per coloro che Lo servono.”
+
+Quindi, molto si può comunicare attraverso una cima di collina al sorgere del sole, quando questa appare davanti al viaggiatore o al soldato dopo una lunga marcia notturna: il modo in cui le spalle si incurvano e l’oscurità che li circonda.
+
+Molte altre cose permettono di entrare in comunione con l’intero mondo.
+
+Chi non ricorda di aver percorso una strada in salita fino a raggiungere un luogo dove la cresta montuosa si apre, e dove, dall’altra parte, un vasto paesaggio, nuovo o caro alla memoria (poiché entrambi sono cose meravigliose), si presenta all’immaginazione come un’onda proveniente dal mare aperto che inonda un piccolo corso d’acqua interno, per poi infrangersi contro le rocce della riva? C’è un luogo dove uno attraversa la valle principale del Rodano per entrare nella valle dell’Isère, e dove il fiume Grésivandan appare improvvisamente davanti a lui. Due porte di roccia calcarea, alte quanto le prime cime delle montagne, conducono nella valle che esse proteggono; si tratta di una regione a sé stante, un altopiano pianeggiante lungo trenta miglia, alimentato da un solo fiume e delimitato su entrambi i lati dalle nuvole.
+
+O ancora, nella terra dello champagne, muovendosi tra enormi blocchi di legno nella Foresta di Reims e salendo sempre più in alto lungo il percorso, un uomo arriva in un punto da dove improvvisamente vede tutta quella vasta pianura delle invasioni che si estende fino a lontano, all’orizzonte: due cime gemelle segnano con precisione i confini di quel territorio, proprio come i bordi di un quadro delimitano l’immagine o le punteggiature del testo definiscono una frase.
+
+C’è un altro luogo che mi è ancora più caro, ma dubito che qualcuno al di fuori dei suoi abitanti possa conoscerlo. Dopo aver attraversato i campi coltivati di un altopiano desolato, il viaggiatore supera una piccola siepe di castagni e si trova immediatamente di fronte a uno degli elementi più preziosi e storici d’Europa: la capitale principale del Cristianesimo, l’arena in cui da secoli si dibatte (e continuerà a dibattersi) sulla [[Faith|Fede]], il problema fondamentale di questo mondo.
+
+Oltre al paesaggio, altre cose fanno parte di questa contemplazione: le note musicali, e ancora più potenti delle note semplici e ripetute, un profumo sottile e il suo legame con determinati ricordi, una pagina stampata familiare. Forse la vera prova di queste “cose sacrali” è la loro capacità di far rivivere il passato.
+
+C’è una storia tradotta nella più nobile forma di scrittura inglese da Dasent; si trova nel suo “Tales from the Norse”. Si intitola “La storia della serva padrona”.
+
+Un uomo, nella sua giovinezza, aveva incontrato una donna sulle colline norvegesi: quella donna era fatata e su di lei esisteva un incantesimo. Ma lui riuscì in vari modi a liberarla da esso; insieme attraversarono il mare e lui la portò nella casa di suo padre, che era un Re. Mentre viaggiavano soli verso la terra natale, le promise e giurò che non avrebbe mai dimenticato come si fossero incontrati e innamorati l’uno dell’altra, senza alcun preavviso, ma per volontà di Dio, sul Dovrefjeld. Quando arrivarono vicino alla casa del padre, le influenze ordinarie della vita quotidiana lo colpirono; le chiese di entrare in una capanna e di aspettare un momento mentre avvertiva suo padre di quel matrimonio così insolito. Lei, però, guardandolo negli occhi e comprendendo come il divino possa trasformarsi nel terreno, proprio come il terreno nel divino, lo fece promettere che non avrebbe mai mangiato cibo umano. Lui sedette al tavolo di suo padre, ancora immerso nei suoi pensieri e nei ricordi del loro viaggio. Dimenticò la sua promessa e mangiò cibo umano; immediatamente, tutto ciò che aveva vissuto svanì dalla sua memoria.
+
+Poi seguono molte cose di cui non ho spazio a disposizione, ma la donna nella capanna, con la sua magia, riesce infine ad essere chiamata al palazzo del padre. Il giovane la vede e si sente solo leggermente turbato, come se ricordasse qualcosa senza riuscire a comprenderlo del tutto. Parlano tra loro come estranei; ma, guardando per caso fuori dalla finestra, il figlio del re vede un uccello e la sua compagna; li indica alla donna, e lei dice all’improvviso: “È stato proprio così anche per te e me, lassù sul Dovrefjeld.” Allora lui ricorda tutto.
+
+Ora quella storia è un simbolo che racconta la verità. Vediamo qualcosa in questo mondo, e improvvisamente quel qualcosa diventa qualcosa di speciale, di sacro: una donna e un bambino, un uomo al tramonto, un gruppo di soldati; ascoltiamo le note della musica, sentiamo l’odore che appartiene a tempi passati, o scopriamo, dopo una lunga notte, un raggio di luce sulle cime delle colline all’alba: c’è una rinascita, e noi ci sentiamo rinfrescati e rinnovati.
+
+Ma perché tutte queste cose accadano, né io né alcun altro uomo può spiegarlo.
+
+In patria
+
+C’è una certa valle, o meglio, una profonda fessura, che si apre nella roccia viva di alcune montagne selvagge; attraverso questa fessura, il fiume Segre ruggisce e scorre impetuosamente nel suo stretto letto, situato a soli pochi chilometri dal punto in cui nasce tra le praterie delle alture.
+
+Questo crepaccio è disposto in modo tale che le lisce lastre di calcare della sua parete occidentale siano più alte dei cupi gradini della scogliera sul lato orientale; per questo motivo, queste scogliere occidentali ricevono il bagliore del sole mattutino o la luminosità della luna quando è piena o in fase decrescente nella prima parte della sua corsa attraverso la notte.
+
 
 
 <span class="atom-split" data-atom="story_18_the_empire_builder--part_29" data-title="On Something — THE EMPIRE BUILDER (part 29)" data-chapter="THE EMPIRE BUILDER" data-kind="excerpt" data-tags="motif/river"></span>
@@ -4135,3 +6071,36 @@ In a moment, before a word could form in the mind, the mist had closed again and
 * * * * *
 
 It was the very early morning; the gorge was full of mist, the Segre made a muffled roaring through such a bank of cloud; the damp of the mist was on everything. The stones in the pathway glistened, the air was raw and fresh, awaiting the rising of the sun. I took the path and went downward.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+L’unico sentiero attraverso cui gli uomini possono scendere in quella gola si attacca alla parete orientale dell’abisso ed è per sempre avvolto nell’oscurità. Lungo questo sentiero andai molto tardi, una notte d’estate, quasi a mezzanotte, quando la luna era appena passata al suo apice. L’aria era estremamente limpida, anche in quel luogo elevato; la luce lunare illuminava le rocce calcaree delle scogliere opposte in modo né naturale né piacevole, ma che suscitava orrore, e, in qualche modo, qualcosa di assoluto, troppo semplice per essere compreso dall’uomo.
+
+Non faceva freddo, ma in quelle zone montuose non si trovavano grilli, né alcuna vegetazione se non qualche ciuffo di erba che si attaccava alle rocce e cercava di sopravvivere nelle fessure aride. Sebbene la mappa non indicasse quella gola, intuii che sarebbe stato impossibile per me trovare un villaggio senza seguire quel sentiero terribile per tutta la notte; quindi, nell’oscurità densa, cercai una di quelle rocce sporgenti così comuni in quella regione. E presto ne trovai una. Era un rifugio molto migliore della maggior parte di quelli che avevo conosciuto durante il mio solitario viaggio di tre giorni: l’intero versante della roccia era cavo, e lungo il sentiero si estendeva una caverna piuttosto bassa. Così entrai dentro, mi avvolsi in una coperta che avevo portato dalle pianure al di là delle montagne, e con il mio pane, lo zaino e una pelle di vino usata come cuscino, presto mi addormentai.
+
+* * * * *
+
+Quando mi svegliai, cosa che avvenne improvvisamente, mi sembrò di essere finito in un luogo insolitamente freddo; quando uscii dal mio tepore sotto le coperte (poiché ero completamente sveglio), il freddo mi colpì ancora più intensamente. E non era affatto normale in un posto del genere. Tuttavia sapevo che su queste colline a volte si formava improvvisamente della nebbia; così uscii e mi fermai sul sentiero per vedere quale tempo avesse portato quella notte. Il cielo, la stretta striscia di cielo sopra la gola, era pieno di nuvole scure che volavano molto basso; di tanto in tanto alcune di esse si schiantavano contro le rocce calcaree della parete occidentale, si disperdevano e poi scomparivano. Ma non c’era alcun suono di vento. Sembrava che non avessi dormito a lungo: la luna era ancora alta nel cielo, anche se la sua luce appariva ora più intensa, ora più debole, tra i brandelli di nuvole. Sotto di me, il fiume Segre scorreva ancora più impetuoso del solito, “Dev’essere piovuto sulle colline”, pensai.
+
+Mentre stavo lì indeciso e completamente sveglio dal sonno, vidi alla mia destra la figura di un uomo piccolo che mi faceva segno di avvicinarmi. Non provai paura quando lo vidi, ma molta meraviglia: aveva una forma strana, e nell’oscurità di quel sentiero non riuscivo a vedere il suo viso. Tuttavia, in sua presenza, per qualche motivo mentale, molti cose cambiarono il loro significato: la gola divenne qualcosa di personale per me, il [[River|fiume]] una voce, la luce lunare incerta un avvertimento. Sembrava che dovesse esserci qualche sicurezza, o qualche certezza, da cercare lassù, da dove ero venuto. E mi sembrò stranamente che quella piccola figura potesse essere una guida.
+
+Era così basso che, guardandolo, pensai fosse quasi un nano; anche se avevo visto uomini altrettanto piccoli guidare i muli attraverso le crepe sulle creste delle colline. Era gobbo, o forse il grande carico che portava lo faceva sembrarlo. Le sue gambe sottili erano lunghe rispetto al resto del corpo, e camminava troppo velocemente, con le ginocchia piegate; appoggiava la mano destra su un grosso alberello; in testa aveva un cappello molto largo, il cui materiale non riuscivo a distinguere nell’oscurità. Di tanto in tanto si girava e mi faceva segno di seguirlo; lui proseguiva sempre per un po’ prima di fermarsi di nuovo. Quanto a me, in parte perché mi aveva fatto segno, ma soprattutto perché sentivo che c’era uno scopo alla fine del cammino, lo seguii.
+
+Nessun sentiero di montagna sembra lo stesso quando lo si percorre in salita e quando lo si percorre in discesa. Fu proprio questo il motivo per cui le forme delle rocce e i tornanti della gola mi apparvero sconosciuti mentre correvo dietro al mio compagno. Inoltre, con ogni istante che passava, la luce diventava sempre più debole, la nebbia si addensava, e man mano che salivamo verso il livello inferiore di quelle nuvole, la loro massa diventava sempre più uniforme; alla fine, non si riusciva a distinguere altro che il sentiero e pochi metri di vuoto che si estendevano a sinistra. La nebbia era illuminata da una luce lunare diffusa, ma rimaneva comunque densa. Mi chiedevo quando saremmo usciti dalla gola e avremmo iniziato a cercare le praterie di alta quota che portavano verso le cime più alte di quelle colline, perché ero certo che fosse quella la nostra destinazione.
+
+Ben presto iniziai a riconoscere quel particolare andamento della parete rocciosa: quelle gole che si allargavano e si appiattivano, segnali delle pendenze più ripide. Qui e là spuntavano chiazze di neve non ancora sciolta; si poteva vedere l’erba. E finalmente raggiungemmo quella vasta distesa di terreno elevato che saliva ripidamente verso la cresta della catena montuosa. Muschio e umidità ricoprivano il suolo; il sentiero scomparve, e la salita divenne sempre più ripida. Eppure quel piccolo uomo continuava ad andare avanti, con determinazione, superando ogni ostacolo. Non provavo affatto stanchezza. L’angolazione estrema della pendenza si adattava perfettamente al mio umore; non mi rendevo nemmeno conto del pericolo. Anzi, quella straordinaria ripidezza mi eccitava: era davvero una novità provare cose del genere di notte, in un tempo del genere. Penso che la luna fosse ormai vicina al tramonto, perché la nebbia intorno a noi si faceva sempre più densa. Alla fine fu completamente notte fonda. Riuscivo a vedere il mio compagno soltanto come una macchia indistinta nell’oscurità. Ma proprio in quel momento percepii che la pendenza si era attenuata. Eravamo arrivati sulla cresta. E presto riprendemmo la nostra corsa. Fino a quando, dopo circa cento metri, il mio compagno si fermò. Come fanno coloro che conoscono bene le montagne, quando raggiungono un bordo dal quale sanno che il terreno sotto di loro cede improvvisamente.
+
+Stava aspettando, e io aspettavo con lui; non dovevamo stare lì a lungo.
+
+La nebbia che spesso si dissipa non appena si supera la cresta delle colline si sollevò anche per noi; sotto di essa, era pieno giorno.
+
+Diecimila piedi più in basso, ai piedi di foreste che si estendevano a perdita d’occhio, si estendeva il Weald. C'erano i luoghi che conoscevo bene, ma non come li avevo sempre conosciuti: appartenevano a un altro ambiente, a un’altra atmosfera. C’era la cresta della collina, la valle del [[River|fiume]] lontano a est, i Pini di Pasham, i ruscelli selvaggi di Amberley e la piccola città di Petworth. Vedevo tutto con chiarezza: le colline al di là della contea, le pianure ancora più lontane, tutti i campi e tutte le case delle persone che conoscevo. Solo che tutto era molto più grande, molto più intimo. Eppure sembrava anche più distante. E senza dubbio, tutto ciò era divino.
+
+Una strada così larga come quella che non abbiamo qui e come non esiste in quelle colline, una strada adatta per gli eserciti, si snodava su e giù con forti pendenze fino alla pianura. Queste strade, insieme alle foreste, mi sembravano estranee; la regione di Weald, situata migliaia di piedi più in basso, non era davvero estranea, ma trasformata. Il nano scese lungo quella strada. Io non lo seguii. Ora riuscivo a vederlo chiaramente: il suo curioso mantello fatto di materiale montano, le sue gambe sottili e piegate che camminavano velocemente, e il giovane castagno che teneva in mano per il centro. Riuscivo a vedere il colore marrone del tronco, la lucentezza della corteccia, e i punti bianchi dove i rami erano stati tagliati via. Lo osservai mentre scendeva sempre più giù lungo quella strada. Non si voltò mai indietro, né mi fece più segno di seguirlo.
+
+In un attimo, prima ancora che una parola potesse formarsi nella mia mente, la nebbia si era richiusa intorno a me e faceva un freddo terribile; con quel freddo arrivò anche la consapevolezza orribile di essere solo su quella cima, senza alcuna idea di come tornare indietro. La mano che posai sulla spalla, dove avrei dovuto trovare il mio plaid, era bagnata fradicia. La nebbia diventava sempre più densa, la mia mente sempre più confusa mentre cercavo disperatamente di ricordare. Poi mi svegliai e scoprii di essere ancora nella grotta. Tutto quanto era accaduto era stato solo un sogno, ma così vivido che l’ho portato con me per tutto il giorno, e lo porto ancora con me oggi.
+
+* * * * *
+
+Era molto presto al mattino; la gola era piena di nebbia, il fiume Segre emetteva un rumore soffocato attraverso quella massa di nuvole; l’umidità della nebbia avvolgeva tutto. Le pietre del sentiero brillavano, l’aria era fresca e pulita, in attesa dell’alba. Presi il sentiero e iniziai a scendere.

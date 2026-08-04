@@ -64,7 +64,7 @@ And if you sat, you'd smash your throne--
 
 Una Ballata di Cose Teatrali  
 
-Di G.K. Chesterton
+Di G.K. Chesterton 
 
 [Da un programma-ricordo prodotto per un evento benefico  
 a [[London|Londra]] il 14 maggio 1912, a favore di chi fu colpito dall'affondamento  
@@ -162,7 +162,7 @@ And if you sat, you'd smash your throne--
 
 Una Ballata di Cose Teatrali  
 
-Di G.K. Chesterton
+Di G.K. Chesterton 
 
 [Da un programma-ricordo prodotto per un evento benefico  
 a [[London|Londra]] il 14 maggio 1912, a favore di chi fu colpito dall'affondamento  

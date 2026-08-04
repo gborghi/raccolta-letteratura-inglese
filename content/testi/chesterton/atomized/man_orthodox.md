@@ -4689,6 +4689,22 @@ lovers in ecstasy and children at play.
 Black and White, April 18th, 1903
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Umorismo e gravità
+
+Esiste un'idea molto diffusa nella vita umana, e che ritengo assolutamente falsa: l'idea che ridere di qualcosa significhi in qualche modo sminuirne l'importanza o la gravità. La letteratura blasfema, ad esempio, presuppone sempre che, quando qualcosa viene dimostrato ridicolo, venga anche dimostrato disgustoso o falso. In realtà, non solo non è stato dimostrato che sia disgustoso, ma nemmeno che sia indegno; non solo non è stato dimostrato che sia falso, ma nemmeno che sia improbabile. Una cosa può essere troppo triste, troppo malvagia o troppo bella per essere creduta; ma non può essere troppo assurda per essere accettata su questo pianeta pieno di rane, elefanti, coccodrilli e calamari. Anche la Terra stessa è così rotonda che è impossibile affermare con certezza che non stia “in piedi sulla testa”.
+
+Non è nemmeno vero che il fatto che qualcosa sia ridicolo ne metta in discussione il valore morale. Molti scrittori moderni sembrano essere convinti che, quando un uomo o una causa diventano oggetto di derisione, ciò significhi che abbiano fallito o che siano intrinsecamente difettosi. Se fosse così, quasi nessuna delle cause che hanno avuto un ruolo importante nel mondo umano sarebbe mai riuscita a raggiungere la maturità. La scienza e il cristianesimo, la democrazia e l’imperialismo, concetti e ideali di carattere molto diverso tra loro, hanno tutti una cosa in comune: all’apparenza sembravano assurdi. E in realtà, l’elemento del ridicolo non è solo sempre presente, ma a volte anche inevitabile e intrinseco. Ci sono aspetti delle azioni e delle parole eroiche che rendono molto probabile questa reazione di derisione e divertimento. Gli umoristi hanno mai riflettuto su ciò che significasse quel “deriso” di cui molti martiri e profeti sono stati vittime? I tiranni e la gente comune non deridevano i martiri perché provassero un’antipatia naturale verso il coraggio o la purezza; li deridevano per una ragione molto semplice: perché gli eroi e i profeti erano davvero ridicoli.
+
+Essendo così, ci troviamo costretti a chiederci se questo senso dell’[[Humour|umorismo]], che oggi viene così spesso esaltato, meriti davvero tutti questi elogi; se sia davvero, come si insinua costantemente, un test del carattere, una guida nel comportamento, uno strumento per combattere il male, uno standard e un metodo concreto. Se sia, in altre parole, una “nuvola di giorno” o un “pilastro di [[Fire|fuoco]] di notte”. Ha messo in discussione molte cose considerate sacre; ma allo stesso tempo è diventato a sua volta qualcosa di sacro. Ed è arrivato il momento che venga nuovamente messo in discussione.
+
+Certo che è perfettamente evidente, se ci occupassimo di ciò che è davvero evidente, che un senso dell’[[Humour|umorismo]] presenta enormi vantaggi: ci dona delicatezza e una sorta di indipendenza mentale; rende l’uomo rapido ed accurato nelle sue azioni. Tuttavia c’è qualcosa da dire contro il senso dell’[[Humour|umorismo]], qualcosa che va detto con estrema serietà e decisione: esso non aiuta, anzi ostacola, la gioia di vivere. I due elementi fondamentali della gioia e dell’[[Humour|umorismo]], dell’elevazione spirituale e del divertimento, vengono spesso combinati nella stessa teoria edonistica, nello stesso culto del piacere. Ma in realtà sono profondamente antagonisti tra loro. Se l’edonista chiedesse: “Dove è finita la gloria di Grecia? Dove sono gli dèi e i sacerdoti del piacere?”, dovrebbe essere facile rispondergli: essi sono scomparsi al primo accenno dell’umorismo moderno. Non sono stati i monaci né i santi a ucciderli, sono stati gli scherzatori.
+
+Questo legame essenziale tra gravità e piacere è uno di quei principi che, una volta compresi, spiegano un numero sempre crescente di fatti concreti. Prendiamo, ad esempio, Gladstone: indipendentemente dal fatto che fosse il migliore, il più intelligente, il più grande o il più nobile statista tra tutte le persone del suo tempo, non vi può essere alcun dubbio su un aspetto fondamentale riguardo a lui: fu sicuramente l’uomo più felice che sia mai vissuto. E ciò era in gran parte dovuto al fatto che non era tormentato da un senso dell’umorismo eccessivamente forte. Avere talenti straordinari, vivere in mezzo a eventi avvincenti, pianificare soluzioni audaci per i problemi del mondo, difenderle con dichiarazioni appassionate, credere con forza nelle proprie capacità e nella propria causa, godere di abitudini sane e di una salute eccellente, vivere fino a un’età avanzata circondato da fama e dignità personale. Questa sembra quasi una vita leggendaria, ma era proprio la sua realtà. Tuttavia, il riso avrebbe potuto rovinarla. È sufficiente fare un solo commento riguardo al grande rivale di Gladstone: nessuno che abbia apprezzato l’arguzia e la saggezza ironica di Disraeli e ne abbia davvero compreso l’essenza sarebbe sorpreso nell’apprendere che lui era un uomo infelice. Meglio pregare, piuttosto, per quella gravità straordinaria che caratterizza le creature umane più felici: gli amanti estasiati e i bambini che giocano.
+
+# Nero e Bianco, 18 aprile 1903
+
 
 
 <span class="atom-split" data-atom="story_34_an_atheistic_nightmare" data-title="Man Orthodox — An Atheistic Nightmare" data-chapter="An Atheistic Nightmare" data-kind="story" data-tags="concept/despair,concept/spiritual_emptiness,concept/sympathy,concept/wit,form/essay,character/dante,character/charles_dickens"></span>
@@ -5442,10 +5458,10 @@ contestata da molti metafisici.
 (4) Infine, la maggior parte degli uomini sani di mente crede, e tutti gli uomini sani di mente in pratica assumono,
 di avere un potere di scelta e una responsabilità dell'azione....
 
-Sicuramente sarebbe possibile stabilire qualche affermazione piana e scialba
-come quella di sopra, per far vedere alla gente dove si trova.
-E se la gioventù del futuro non deve (per ora) essere istruita
-in alcuna religione, potrebbe almeno esserle insegnato, chiaramente e fermamente,
+Certamente sarebbe possibile stabilire qualche piana, banale enunciazione
+come la precedente, per far vedere alle persone dove si trovano.
+E se alla gioventù del futuro non deve (per ora) essere insegnata
+alcuna religione, le si potrebbe almeno insegnare, chiaramente e fermamente,
 le tre o quattro sanità e certezze del libero pensiero umano.
 
 Daily News, 22 giugno 1907
@@ -10931,7 +10947,7 @@ G. K.'s Weekly, September 25th, 1926
 
 <span class="qlang-split" data-lang="it"></span>
 
-I LINEAMENTI DELLA CADUTA
+Il profilo della caduta
 
 Che il giardino fosse o no un'allegoria, la verità stessa può essere
 benissimo allegorizzata come un giardino.  E il punto è che l'Uomo,

@@ -6397,6 +6397,26 @@ to this into what strange story I wandered or what frightful
 thing was my companion in the dark.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+III
+
+Il segreto di un treno
+
+Tutta questa conversazione su un mistero ferroviario ha riportato alla mia mente un vago [[Memory|ricordo]]. Non dirò semplicemente che questa storia è vera: perché, come vedrete presto, si tratta interamente di [[Truth|verità]] e non di una semplice invenzione. Non ha spiegazioni né conclusioni; è, come la maggior parte delle altre cose che incontriamo nella vita, un [[Fragment|frammento]] di qualcos’altro che sarebbe estremamente avvincente se solo potessimo vederlo nel suo insieme. Ma la confusione della vita deriva proprio dal fatto che ci sono troppe cose interessanti in essa perché possiamo prenderci davvero cura di ognuna di esse; ciò che chiamiamo “trivialità” è in realtà l’ultimo lembo di innumerevoli storie. L’esistenza ordinaria e priva di significato è come diecimila avvincenti storie poliziesche mescolate insieme. La mia esperienza è stato un [[Fragment|frammento]] di questa [[Nature|natura]]; in ogni caso, non è affatto frutto della mia immaginazione. Non solo non sto inventando gli eventi che si sono verificati, ma nemmeno l’atmosfera di quel luogo. Quell’atmosfera era proprio il cuore dell’intera esperienza. Me la ricordo vividamente: è esattamente come ora ne descriverò.
+
+. . . . .
+
+Verso [[Noon|mattina]] di un giorno d’[[Autumn|autunno]] grigio, alcuni anni fa, stavo fuori dalla stazione di [[Oxford]] con l’intenzione di prendere il treno per [[London|Londra]]. Per qualche motivo – forse per noia, forse a causa del vuoto nella mia mente, o forse a causa del cielo grigio pallido e freddo – mi venne l’idea di non prendere quel treno affatto, ma di uscire sulla [[Road|strada]] e camminare almeno parte del percorso fino a [[London|)Londra]]. Non so se altre persone siano come me in questo senso; per me, è sempre il tempo cupo, quel che si potrebbe definire “tempo inutile”, a suscitare in me il desiderio di agire e di vivere avventure. Nei giorni di cielo azzurro brillante, non voglio che accada nulla; il mondo è già completo e bellissimo, ed è lì per essere contemplato. Non desidero certo avventure sotto quel cielo turchese, così come non le desidero in chiesa. Ma quando lo sfondo della vita umana è grigio, allora, nel nome della sacra supremazia dell’uomo, desidero “dipingere” su di esso con il fuoco e il sangue. Quando il cielo sembra scrivervi, con lettere di piombo e argento pallido, l’ordine che nulla debba accadere, allora l’immortale [[Soul|'anima]], principe di tutte le creature, si alza e decreta che qualcosa debba accadere, anche se si tratta soltanto dell’uccisione di un poliziotto. Ma questa è solo una maniera discorsiva per esprimere ciò che ho già detto: il cielo cupo suscitò in me il desiderio di cambiare i miei piani; il tempo monotono rendeva insopportabile l’uso di quel treno noioso, e così presi la strada per le campagne, lasciando la città di [[Oxford]]. Forse fu proprio in quel momento che una sorta di maledizione mi colpì, proveniente dalla città e dal cielo, una maledizione che decise che, anni dopo, avrei parlato di Sir George Trevelyan in un articolo del DAILY NEWS, in relazione a [[Oxford]], anche se sapevo perfettamente che lui andava a Cambridge.
+
+Mentre attraversavo il paese, tutto sembrava spettrale e privo di colore. I campi che avrebbero dovuto essere verdi erano grigi come il cielo; le cime degli alberi, anch’esse grigie come le nuvole, apparivano ancora più cupe. Dopo aver camminato per molte ore, calò la sera: un tramonto pallido e debolmente si attaccava all’orizzonte, come se riluttasse a lasciare il mondo nell’oscurità. Man mano che svaniva, il cielo sembrava avvicinarsi sempre di più, minaccioso. Le nuvole, prima scure e gonfie, iniziarono poi a scaricare una pioggia intensa e accecante. Camminai ancora per molte miglia, finché non incontrai un uomo; gli chiesi se nei dintorni ci fosse qualche stazione da cui poter prendere il treno per Paddington. Mi indicò una piccola stazione silenziosa, lontana dalla strada, solitaria come una capanna sugli Andes. Non ricordo nemmeno il suo nome. Quella stazione rappresentava tutto ciò che c’è di più cupo, triste e sinistro: sembrava che laggiù piovesse da sempre, fin dalla creazione del mondo. L’acqua scorreva lungo i suoi muri umidi, come se non fosse acqua, ma una sostanza viscosa e corrotta. Ci volle quasi dieci minuti per trovare qualcuno nella stazione; l’uomo che trovai sembrava confuso e poco collaborativo. Mi disse che ci sarebbe stato un treno per Paddington tra mezz’ora. Aspettai, fumando una sigara, mentre osservavo il tramonto morente e ascoltavo la pioggia incessante. Il treno arrivò lentamente; era stranamente buio all’interno. Salii nel primo vagone: era completamente oscuro. Mentre viaggiavamo attraverso un paesaggio sempre più desolato, mi chiesi cosa stesse succedendo. Alla fine il treno si fermò in mezzo a un campo. Sentii qualcuno scendere dal treno. Una testa scura e sporca apparve improvvisamente alla finestra, “Scusi, signore,” disse lo stivale, “ma forse dovrebbe sapere. C’è un morto su questo treno.”
+
+. . . . .
+
+Se fossi stato un vero [[artist|artista]], una persona dalle sensibilità estremamente acute e nient'altro, sarei sicuramente stato sopraffatto da questa straordinaria capacità di percezione, e avrei insistito per uscire e camminare. Purtroppo, mi sono espresso in modo educato ma deciso, dicendo che non mi importava affatto se il treno mi portasse a Paddington. Ma quando il treno è partito con quel “carico” misterioso, ho fatto qualcosa, istintivamente, senza pensarci troppo. Ho gettato via il mio sigaro. Qualcosa di antichissimo, legato al lutto e alle cerimonie, mi ha spinto a farlo. Mi sembrava insopportabilmente orribile l’idea che in quel treno ci fossero soltanto due uomini: uno morto e l’altro che fumava un sigaro. E mentre il rosso e l’oro della punta del sigaro svanivano, come una torcia funebre calpestata in un momento simbolico di una processione, ho realizzato quanto sia immortale il rituale. Ho capito che, di fronte a quei misteri sacri sui quali non possiamo dire nulla, è semplicemente più appropriato fare qualcosa. E ho compreso che il rituale significa sempre gettare via qualcosa. Distruggere il nostro grano o il nostro vino sull’altare dei nostri dèi.
+
+Quando finalmente il treno arrivò alla stazione di Paddington, scesi subito fuori, spinto da una curiosità improvvisa. C’era un ostacolo e degli agenti che sorvegliavano la parte posteriore del treno; a nessuno era permesso avvicinarsi. Stavano proteggendo e nascondendo qualcosa. Forse la [[Death|morte]] in una forma particolarmente orribile, forse qualcosa legato al caso di Merstham, così intrecciato con misteri umani e azioni malvagie da sembrare quasi sacro. O forse qualcosa di ancora peggiore. Uscii felice nelle strade e vidi le luci che illuminavano i volti sorridenti delle persone. Da quel giorno, non ho mai saputo in quale strana storia fossi finito o quale terribile “compagno” avessi nella oscurità.
+
 
 
 <span class="atom-split" data-atom="chapter_05" data-title="Tremendous Trifles — Chapter 4" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/ghost,archetype/lover,motif/chalk,motif/fire,motif/garden,motif/ghosts,motif/love,motif/night,motif/silence,motif/supernatural,motif/time,motif/well,concept/body,concept/honour,concept/martyrdom,concept/truth"></span>
@@ -8125,14 +8145,14 @@ vedendo sempre meno del significato del cielo o delle pietre.
 
 . . . . .
 
-Ora è cosa terribile segnare un uomo per la vendetta degli uomini.
+Ora, è cosa terribile additare un uomo alla vendetta degli uomini.
 Ma è cosa a cui un uomo può abituarsi, come può abituarsi
-ad altre cose terribili; può persino abituarsi al sole.
-E la cosa orribile di tutti i funzionari legali, anche i migliori,
-di tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
-non è che siano malvagi (alcuni di loro sono buoni), non che
-siano stupidi (parecchi di loro sono assai intelligenti), è semplicemente
-che vi si sono abituati.
+ad altre cose terribili; può abituarsi persino al sole.
+E l'orribile, in tutti i funzionari della legge, anche i migliori,
+in tutti i giudici, magistrati, avvocati, investigatori e poliziotti,
+non è che siano malvagi (alcuni sono buoni), non è che
+siano stupidi (parecchi sono assai intelligenti): è semplicemente
+che ci hanno fatto l'abitudine.
 
 A rigore essi non vedono il prigioniero al banco; tutto ciò che
 vedono è il solito uomo nel solito posto. Non vedono
@@ -13572,8 +13592,7 @@ con troppa noncuranza."
 
 Mentre alzavo lo sguardo dubbioso il mio occhio incrociò il suo, e vi rimase fisso come il suo era fisso in uno sguardo apocalittico. Lo avevo creduto ordinario quando era entrato, salvo per il suo strano, cauto contegno; ma se le altre persone lo avessero visto allora avrebbero gridato e svuotato la sala. Non lo videro, e continuarono a fare un tramestio con le forchette, e un mormorio con la loro conversazione. Ma il volto dell'uomo era il volto di un maniaco.
 
-«Intendevate qualcosa in particolare con quell'osservazione?» chiese infine,
-e il [[Blood|sangue]] rifluì lentamente nel suo volto.
+«Intendevate qualcosa di particolare con quell'osservazione?» chiese infine, e il [[Blood|sangue]] rifluì lentamente nel suo volto.
 
 «Nulla di nulla,» risposi. «Qui non si intende nulla; rovina la digestione alla gente.»
 
@@ -13596,8 +13615,7 @@ e gli altri organi sono messi altrettanto male."
 
 «Dopo un lungo [[Silence|silenzio]] disse: "Che cosa dici che sia?"
 
-«"È Bumpton Street, naturalmente," ribattei di scatto.  "Porta
-alla Oldgate Station."
+«"È Bumpton Street, naturalmente," sbottai. "Va alla stazione di Oldgate."
 
 «"Sì," ammise gravemente; "va lì a volte. Proprio ora, però, sta andando in cielo."
 
@@ -13607,7 +13625,7 @@ alla Oldgate Station."
 
 «Guardai la lunga strada grigia, e per un istante mi parve esattamente come il lungo collo grigio di un [[Horse|cavallo]] proteso verso il cielo. Ma in un attimo la mia [[Sanity|ragione]] tornò, e dissi: "Ma questa è tutta una sciocchezza. Le strade vanno nel luogo in cui devono andare. Una strada deve sempre andare alla sua fine."
 
-«"Perché lo pensi di una strada?" chiese, stando immobilissimo.
+«"Perché la pensi così di una strada?" chiese, standosene immobilissimo.
 
 «"Perché l'ho sempre vista fare la stessa cosa," risposi, con ragionevole ira. "Giorno dopo giorno, anno dopo anno, è sempre andata alla stazione di Oldgate; giorno dopo..."
 

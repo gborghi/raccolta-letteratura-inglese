@@ -2,13 +2,13 @@
 title: "To Mr. Thomas Wentworth Higginson"
 author: "Dickinson"
 unitType: work
-parentWork: "works/appearance-vs-reality-·-beauty-·-eyes-and-sight-(dickinson)"
+parentWork: "works/appearance-vs-reality-·-beauty-·-eyes-and-sight-(keats)"
 tags:
   - graph/excerpt
   - author/Dickinson
 ---
 
-<div class="atom-reader" data-work="testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight" data-author="Dickinson" data-workhref="works/appearance-vs-reality-·-beauty-·-eyes-and-sight-(dickinson)"></div>
+<div class="atom-reader" data-work="testi/dickinson/atomized/appearance-vs-reality-beauty-eyes-and-sight" data-author="Dickinson" data-workhref="works/appearance-vs-reality-·-beauty-·-eyes-and-sight-(keats)"></div>
 
 
 <span class="atom-split" data-atom="0015_the_guest_is_gold_and_crimson" data-title="15. The Guest is gold and crimson —" data-chapter="" data-kind="intro" data-tags="motif/autumn,motif/nature,motif/white_and_red,motif/birds,concept/transience,form/riddle,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>

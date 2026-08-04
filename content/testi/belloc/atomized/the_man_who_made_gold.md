@@ -2539,6 +2539,60 @@ Humph! Gold to be manufactured on a commercial basis! Gold at a cost of producti
 And with that I leave him for a little, to turn from the glories of Modern Science to the puerilities of the Alchemists.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XV
+
+To
+
+Professore Andrade
+
+# Chi mi ha insegnato a creare l’oro
+
+Prologo
+
+Nella nuova e imponente ala Stockham degli edifici delle aule d’esame, ancora chiamata – nonostante l’imprigionamento successivo del suo finanziatore – con il nome di colui che aveva contribuito alla sua realizzazione, si era radunata una grande folla; la maggior parte dei presenti proveniva dall’università, mentre il resto apparteneva al mondo laico e ignorante esterno.
+
+Erano venuti ad ascoltare uno dei più rinomati scienziati al mondo. Il suo nome era già noto in America ed era stato menzionato in due o tre recensioni tecniche nel Continente: intendo parlare del signor Charles Lexington, docente all’Università di Elettrochimica e membro della Società St. Olaf’s.
+
+Stava tenendo la prima delle Lezioni Railby di quella stagione; tali lezioni, nonostante la sua successiva incarcerazione, prendevano il nome dal generoso fondatore che le aveva istituite trent’anni prima.
+
+Secondo i termini del Fondo, il relatore, che riceveva una somma di una sterlina al minuto, doveva “tenere un discorso di un’ora su un argomento legato alle scienze fisiche e alla loro relazione con la società umana”. Si trattava di un campo molto ampio. Tuttavia, esisteva un accordo generale, basato su una clausola del Fondo, secondo cui l’argomento scelto doveva essere tratto, per quanto possibile, dai più recenti sviluppi della ricerca, soprattutto da quelli su cui non si potevano ancora trarre conclusioni definitive. I relatori dovevano essere selezionati tra i cittadini dei paesi più progressisti (tra cui Svezia, Norvegia, Danimarca, Islanda, Olanda, Germania, Finlandia, Estonia e Lettonia, nonché ovviamente gli Stati Uniti); inoltre, potevano provenire anche dai paesi liberi associati all’Impero Britannico, ad eccezione delle Indie Occidentali, della Guyana Britannica, delle Isole Seychelles, di Malta e di Cipro. Il Fondo stabiliva inoltre che lo stesso relatore non potesse tenere più di un discorso ogni tre anni: una regola assolutamente giusta, considerando l’entità della retribuzione ricevuta e la povertà della maggior parte dei relatori.
+
+L’argomento che aveva attirato un pubblico così numeroso era “La trasmutazione dei metalli”; e sebbene l’argomento in sé fosse già molto interessante, la fama dell’oratore rappresentava ancora un motivo di attrazione maggiore. La vera attrativa principale, però, era il presidente della conferenza: infatti, Lord Taylor stesso, nonostante stesse per partire per il Lido, aveva trovato il tempo di dedicare una domenica pomeriggio ai suoi impegni massimi all’interno del grande gruppo bancario che dirigeva.
+
+Il vecchio signore aveva ottime ragioni per comportarsi in quel modo così condiscendente. Aveva letto su quell’argomento tutto ciò che un uomo istruito poteva e doveva leggere. Era più propenso di molti giovani ad credere che la scienza potesse, in qualsiasi momento, realizzare la trasformazione dei metalli su larga scala. Aveva riflettuto – anzi, questo argomento aveva occupato gran parte dei suoi pensieri negli ultimi tempi – su quali sarebbero stati i risultati se un metallo più economico potesse essere trasformato in oro a scopo commerciale.
+
+La parola “trasformato” era imprecisa. Lord Taylor era ben al passo con i tempi. Sapeva, proprio come te, me, gli scrittori più importanti e i politici – praticamente tutti tranne coloro che si occupavano di corse – che ciò che realmente accadeva era la rimozione di uno o più elettroni da un elemento, con il risultato che l’elemento originale cessava di esistere e ne prendeva il posto un altro, in questo caso l’oro. Non si trattava semplicemente di trasformare il mercurio in oro, proprio come lavare via la polvere di osso e la cenere da un sale commerciale non lo trasforma in sale reale.
+
+Sì, lui lo sapeva bene tutto ciò. Aveva una chiara immagine dell’atomo moderno: così diverso dal suo “nonno” vittoriano! Riusciva a vedere il dignitoso protone al centro e tutti quei piccoli elettroni che danzavano intorno a esso, formando cerchi, proprio come molte biglie da biliardo intorno alla cupola di San Paolo.
+
+È vero che questa immagine stessa era un po’ vecchio stampo; perché da quando era stata incorniciata, la scienza aveva fatto un altro passo avanti e gli elettroni ormai svolgevano funzioni diverse. Tuttavia, i fondamenti del nuovo dogma scientifico rimanevano saldamente fissati nella sua mente.
+
+Non era affatto uno scherzo! Gli scienziati si trovavano sull’orlo di qualcosa di enorme: nientemeno che la produzione dell’oro a piacimento.
+
+Se cogliesse i banchieri di sorpresa, ci sarebbe una crisi, e lui si troverebbe proprio al centro di essa.
+
+Quindi quel giorno c'era Lord Taylor lì. L’uomo che si era offerto di parlare rappresentava la migliore autorità in materia, e Lord Taylor doveva necessariamente essere a contatto con lui. Non poteva accontentarsi di leggere il rapporto stampato della conferenza: voleva avere un'impressione diretta, ascoltare la voce e le sue intonazioni, osservare i gesti, notare eventuali esitazioni o certezze nell’espressione dell’interlocutore. Voleva essere davvero informato.
+
+Temo che fosse un po' deluso. Il signor Lexington possedeva tutte le qualità necessarie per il compito che gli era stato affidato: era gentiluomo, alto e snello, indossava un naso a pinza (o Nasen-Knipper, come diciamo all’università); i suoi capelli biondi erano abbastanza lunghi e la sua barba pendeva giù ordinatamente. Anche il suo colletto era morbido.
+
+In un solo aspetto, il signor Charles Lexington non era perfettamente conforme al tipo ideale: la sua voce era troppo profonda. Tuttavia, il suo modo di comportarsi era così raffinato che questo difetto veniva compensato da occasionali stridii o salite di tono nell’ottava, seguendo gli esempi più apprezzati.
+
+No, non fu il relatore ad deludere Lord Taylor: infatti conosceva quell’uomo fin dall’infanzia, così come suo padre prima di lui; inoltre c’era un legame stretto tra le due famiglie. Quello che lo deluse durante la conferenza fu la qualità delle informazioni che ne derivavano. Era più che evidente da tutto ciò che il signor Lexington aveva detto che la trasmutazione richiedesse soltanto l’eliminazione di alcuni insignificanti elettroni, eppure sembrava che fosse dovere del relatore ammettere che quegli elettroni si erano rifiutati di “cedere il posto”.
+
+“Esiste davvero l’affascinante esperimento di Pomphaftigzeiter, che, se fosse riuscito, avrebbe fornito prove conclusive,” disse, guardando le sue note. “E alcuni anni fa, quando vapore di mercurio fu sottoposto a un’intensa carica elettrica da parte di un altro pioniere, potrebbero essersi formati dei minuscoli granelli d’oro puro, ” Ma con la prudenza tipica di un vero scienziato (quanto diverso dagli pseudoscienziati che pretendono di stabilire leggi senza fondamento!), Charles Lexington non volle prendere posizione in modo definitivo. Del resto, era fin troppo consapevole dello sguardo freddo e critico del suo collega, il Professore Regius, fissato su di lui dalla seconda fila degli spazi riservati agli ascoltatori. Non voleva certo compromettersi in alcun modo.
+
+Tuttavia, dopo molte precauzioni, concluse che tutto ciò fosse soltanto una questione di tempo. Avevamo estratto l’elettrone dal suo nascondiglio, dietro le spesse barriere dei sensi; lo conoscevamo bene; potevamo “contarlo”, come un pastore conta le sue pecore; e chi potrebbe stabilire dei limiti alle nostre capacità di “preoccuparci” di una pecora dopo l’altra, all’interno del gregge?
+
+Il signor Charles Lexington concluse il suo discorso con un passaggio retorico tipico di lui, nel quale recitò il Salmo della Speranza; si sedette dopo aver parlato per esattamente cinquantanove minuti e mezzo, e ricevette il proprio assegno come un vero uomo.
+
+Potrebbe sembrare strano che un’ora trascorsa nella sala da parte di Lord Taylor avesse potuto avere ulteriori effetti sulla sua mente. Di certo non aveva imparato nulla: era altrettanto saggeggio di quando era entrato nella stanza, e lo stesso valeva per ogni membro dell’auditorio; infatti, spero che non esista nessuno, né laico né professionista, che in questo momento non conosca la dottrina ormai molto semplice della struttura atomica. Ma ciò che viene detto a voce alta è molto diverso da ciò che viene letto: l’azione, l’enfasi e tutto il resto ebbero un effetto particolare sulla mente di quell’uomo anziano che aveva già riflettuto troppo spesso su questo argomento nel corso del tempo. E quando Lord Taylor salì sul suo autoveicolo per tornare a Londra, provava la sensazione che, in qualsiasi momento, quella “soluzione” potesse finalmente arrivare. E allora, cosa avrebbe fatto il pettirosso, povero animale?
+
+Ah! Oro che potrebbe essere prodotto su larga scala. Oro con un costo di produzione di, diciamo, cinque scellini all’oncia. Mio Dio! Quando questa notizia arrivasse, sarebbe già troppo tardi per intervenire. Si potrebbe convincere le autorità ad agire prima che la notizia venga diffusa?
+
+E con questo lo lascio per un momento, affinché passi dalle glorie della Scienza Moderna alle sciocchezze degli Alchimisti.
+
 
 
 <span class="atom-split" data-atom="chapter_02--part_01" data-title="The Man Who Made Gold — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/outsider,motif/supernatural,concept/decadence_and_aestheticism,concept/grotesque,form/novel,setting/oxford,character/rudyard_kipling"></span>
@@ -2568,6 +2622,32 @@ At that same hour of noon the less profound but more direct timepiece of St. Ola
 
 The unfortunate reader — unless he has been so foolish as to skip the Prologue of this masterpiece — has already met Charles Lexington. Meet him again, for you will have a good deal to do with him.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO I
+
+Henry Bolter era al quarto anno di università. Il suo college era St. Olaf’s, fondato molto tempo fa in onore di quel grande santo e re che si distinse per legare i suoi prigionieri alle rocce durante la bassa marea e osservare poi l’acqua salire.
+
+Il motivo per cui Henry Bolter si trovava a St. Olaf’s era che suo padre, comunemente noto come Old Bolter, vi aveva studiato prima di lui; lo stesso valeva per suo fratello maggiore, che gli superava di quattro anni ed era un atleta che aveva appena ricevuto il riconoscimento “Blue”. Purtroppo, Henry Bolter differiva notevolmente da Old Bolter il Nobile e da Bolter il Maggiore: sia nell’aspetto esteriore che interiore, nella forma, nel colore, nella consistenza, nei modi e nelle convinzioni. La differenza era tale che chi non avesse conosciuto la madre dei Bolter durante gli anni trascorsi in India avrebbe potuto dubitare della sua virtù. Poiché anche Old Bolter, un tempo insignito dello stesso riconoscimento “Blue”, aveva rappresentato il college di St. Olaf’s sotto la regina Vittoria come un vero vichingo degno di tale istituto. Anche il figlio maggiore di Old Bolter si era dimostrato all’altezza delle aspettative. Dopo trent’anni, con Giorgio V sul trono, Old Bolter, ricco per nascita e ancora più arricchito dopo le sue imprese in India, donò una nuova biblioteca al proprio vecchio college; mentre Bolter il Maggiore, già fidanzato con un’ereditiera, fu disposto a contribuire generosamente alla costruzione di una nuova barca sul fiume. Sia Old Bolter che Bolter il Maggiore sostenevano e onoravano la chiesa tradizionale in generale, nonché la parrocchiale situata all’interno del parco. Sia padre che figlio mantenevano aggiornate le proprie conoscenze sull’Europa e sull’Impero (che, ai loro occhi, includeva anche gli Stati Uniti) leggendo il “The Times”; mantenevano viva e pulita la propria ironia leggendo il “Punch”; inoltre avevano la saggezza di apprezzare le eccellenti poesie di Mr. Kipling, Poeta Laureato, e di altri importanti poeti del nostro tempo.
+
+Mi dispiace di avervi fatto perdere così tanto tempo e dello spazio che avevo a disposizione parlando dei Bolters, perché presto dovremo abbandonarli. Essi svolgono soltanto un ruolo iniziale nella storia molto interessante che state per leggere. La verità è che sono stato ingannato. Volevo semplicemente chiarire il caso unico e isolato di Henry, quel giovane Bolter che ancora ora frequenta l’università.
+
+Perché, oh, guardate! Quanto diverso era Harry. Osservatelo nelle sue stanze, fuori dal college, nel suo ultimo anno di università, mentre soffriva. Notate lui e il suo ambiente circostante: sebbene affitti una semplice sala da pranzo in un alloggio autorizzato, al numero 24 di Brecon Street, vicino alla cattedrale, ha reso quella stanza qualcosa di strano, proprio come la sua stessa personalità oscura. Giace in quello stato di estenuazione così comune dopo aver assunto l’oppio, disteso mollemente su un lungo divano, coperto da tessuti provenienti dal Levante. Lo trovate immerso in una luce soffusa che filtra attraverso la struttura orientale intagliata posta sopra la singola finestra; l’atmosfera è densa di odori strani, e le pareti sono decorate con ornamenti poco adatti a un ragazzo come lui.
+
+Su quelle tetre tende che nascondono la carta, man mano che gli occhi si abituano alla penombra, è possibile distinguere alcuni disegni in bianco e nero che raffigurano cose non di questo mondo: fiori malvagi, creature mezzi umane, occhi che fissano con insidia. Pesanti tende alle finestre conservano per sempre l’odore stantio dell’incenso. Dal soffitto pende una ciotola di alabastro capovolta; all’interno, su un piccolo strato d’olio d’oliva, galleggia una piccola candela sacra che brucia costantemente, emettendo un debole alone nella penombra della stanza.
+
+Nell’angolo più buio, tra la finestra e il muro, di fronte al divano e alle sue due lussuose tappezzerie orientali, si trovava la parte più strana di tutta quella mobilia. Su un baule del XV secolo italiano, profondamente intagliato e decorato con oro antico, era posata su un piedistallo una testa, molto grottesca, decisamente realistica, e persino per uno spirito forte piuttosto inquietante da vedere. Quella testa era stata creata da qualcuno che Henry Bolter aveva sfortunatamente cercato in una città morta, silenziosa e semi-in rovina dell’Apulia un anno prima; di quel talento o di quell’ispirazione ne aveva sentito parlare, e aveva fatto di tutto per trovarlo.
+
+La testa aveva l’aspetto di un demone non troppo dignitoso. Era fatta di materiali compositi, ma era stata trattata in modo da avere una superficie simile a quella del legno vecchio e, come avrebbe fatto una scultura in legno, era stata dipinta. Il viso sembrava fissare qualcosa con intensità; gli occhi, fatti di un materiale luminoso che non si sapeva quale, erano particolarmente evidenti su quel volto. Da nessuna posizione nella stanza drappeggiata si poteva evitare quello sguardo; nemmeno Henry Bolter, disteso comodamente sul divano, riusciva a sfuggirvi; anzi, sembrava fissarlo con un’attenzione quasi ipnotica, senza voler interrompere quel momento.
+
+Il giovane dava l’impressione non solo di apatia, ma anche di una qualche malattia fisica: il cattivo uso di alcuna sostanza lo aveva gravemente indebolito. Le sue lunghe mani delicate pendevano inerti; il suo viso scuro e olivastro era al confine tra un’apatia senza espressione e una sorta di saggezza inefficace; i suoi occhi, spalancati e permanentemente tristi, sembravano bruciare, o piuttosto ardere lentamente. I suoi lunghi capelli neri, tutti lisci e disordinati, un tempo erano stati sistemati con cura da lui stesso, ma ormai quella disposizione era diventata una sorta di abitudine.
+
+Giaceva in ciò che quei pochi suoi contemporanei che avevano avuto il permesso di guardare all’interno di quel luogo chiamavano. Alcuni lo definivano “Il Harem”, altri “La Grotta di Bafomet”. Le sue orecchie, offuscate dagli effetti della droga, udivano il suono solenne delle campane del mezzogiorno provenire dalla cattedrale, un suono arricchito da trecento anni di storia.
+
+Nello stesso istante di mezzogiorno, l’orologio meno raffinato ma più diretto della nuova biblioteca, situato nella facciata moderna dell’edificio, emise dal suo finto ornamento scolpito risalente al XIV secolo un’imitazione assai imprecisa di elementi medievali; suonò le dodici con una chiarezza che non lasciava spazio a dubbi. Quel segnale indicava a Mr. Charles Lexington – membro del corpo docente della St. Olaf’s, docente di elettrochimica all’università, autore del libro “The Flowering of the Atom” nella serie divulgativa “What Things Are”, nonché relatore dell’anno presso l’istituto Railby – di scendere dal podio dove stava tenendo la lezione e dirigersi verso le sue stanze situate dall’altra parte del cortile.
+
+Il sfortunato lettore – a meno che non sia stato così sciocco da saltare il Prologo di questo capolavoro – ha già incontrato Charles Lexington. Incontratelo ancora, perché avrete molte occasioni di interagire con lui.
 
 
 
@@ -2606,6 +2686,40 @@ His eye caught upon the table a little roll of parchment tied around with faded 
 
 This was too much! The Reader in Electrochemistry to the University set his teeth, leapt downstairs like a cataract, and strode from the side–door of the College towards the cathedral quarter and Brecon Street with a flush upon him and at a pace that made the passers–by turn round and watch him as he went.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era un uomo tipico della sua professione e molto abile nel suo mestiere: ateo, laborioso, lucido di mente, estremamente coscienzioso nel suo lavoro; si sforzava sempre di mantenere lo stesso livello degli studenti e di far sì che la Scuola St. Olaf ottenesse lo stesso riconoscimento nella sua branca scientifica quanto aveva già raggiunto in letteratura classica, filosofia, retorica e storia.
+
+Oggi, mentre camminava con passo deciso attraverso il cortile diretto verso le sue stanze, fu disturbato: Bolter aveva di nuovo interrotto la sua lezione! Era la terza volta in dieci giorni. Aveva segnato il punto in cui la lezione era stata interrotta, aveva trovato una scusa per aspettare un attimo nella speranza che quel ragazzo entrasse, e poi aveva continuato con la dimostrazione. Bolter stava diventando un problema. Questo genere di cose non poteva andare avanti così; bisognava fare qualcosa. Ma la soluzione non era facile, perché i Bolter contavano molto a St. Olaf’s. Non aveva ancora trovato una risposta quando arrivò nella sua stanza, posò i libri e si sedette per riflettere.
+
+Normalmente Henry Bolter avrebbe dovuto essere allontanato. Il College si sarebbe liberato facilmente di lui. Sei volte nell’ultimo anno questa decisione era stata presa in considerazione, ma sei volte, sia su consiglio di Lexington che del Presidente, si era deciso di non agire. Era necessario procedere con cautela riguardo a Old Bolter; inoltre, esisteva un vero senso di lealtà e affetto verso il nome dei Bolter. Quel nome ormai faceva parte della struttura stessa del College.
+
+Inoltre, riguardo ad Harry Bolter non esistevano prove sufficientemente concrete. Lavorava con scarso impegno, ma mai falliva negli esami finali. I suoi saggi erano eccentrici, tendenti all’assurdo; a volte sembrava che deridesse i suoi superiori: contenevano allusioni all’alchimia e un linguaggio arcaico; tuttavia non mostravano mai una conoscenza insufficiente. Dal giorno in cui suo padre gli aveva permesso, su sua stessa richiesta, di iniziare a studiare per il diploma in Elettro-Chimica, aveva sempre mantenuto lo standard richiesto: aveva letto la quantità minima di libri necessari e aveva compreso appieno ciò che leggeva. Tuttavia, nel suo comportamento, nella sua assenza frequente dalle lezioni, nella sua ostentata conoscenza di argomenti occulti, nella sua venerazione per la Cabala e nelle sue allusioni alla Pietra Filosofale, c’era qualcosa che non era semplicemente pigrizia, ma disprezzo verso le autorità. Questo aspetto si rifletteva anche nei suoi scritti; in un altro uomo, tale comportamento avrebbe segnato la fine della sua carriera universitaria. Ma Harry Bolter, era pur sempre Harry Bolter. E lì stava il problema.
+
+Lexington tirò fuori dal mucchio di saggi settimanali quello scritto con la caratteristica calligrafia di quel giovane esasperante – una grafia attentamente modellata su uno stile calligrafico veneziano della fine del XV secolo – e lo rilesse ancora una volta.
+
+Fu una produzione straordinaria: fantastica e al contempo inquietante. Affrontava in modo diretto il tema stabilito all’inizio; dimostrava una buona conoscenza dei testi di riferimento, ma introduceva anche digressioni bizzarre e metafore tratte da quel genere di nonsense mistico ormai obsoleto da duecento anni. In un certo passaggio parlava con rispetto di qualche ciarlatano o veggente che aveva seguito Wallenstein trecento anni prima; inoltre citava, come se si trattasse di un’autorità moderna di rilievo, la formula di Brozius riguardante “la guida degli elementi primordiali da parte dei nobili”. Considerava addirittura una verità storica quella famosa descrizione di Helvetius secondo cui quest’ultimo avrebbe potuto trasformare il piombo in oro.
+
+In cinque minuti, l’insegnante di Henry Bolter aveva affrontato tutte queste ultime e più esasperanti stravaganze del giovane; aveva preso una decisione. Doveva incontrarlo, parlare con lui a fondo e fargli capire che la situazione dipendeva da un completo cambiamento nel suo comportamento, altrimenti la sua carriera sarebbe finita. Era necessario intervenire immediatamente. Non poteva andare avanti così, bisognava fare qualcosa.
+
+Il coscienzioso Lexington era un uomo d’azione. Prese un foglio di carta da lettere del college e scrisse: —
+
+# Caro signor Bolter,
+
+Questo genere di comportamento non può continuare, e bisogna fare qualcosa. Questa mattina, per la terza volta dall’inizio del semestre, ho notato che non eri al tuo posto durante la mia lezione. Sono disposto a concedere qualsiasi cosa, ma questa situazione sta diventando seria. Inoltre, devo dire francamente che il saggio settimanale che mi hai inviato supera di gran lunga i limiti di ciò che è tollerabile in termini di eccesso. Difficilmente potevi averlo scritto seriamente; se non lo era, è un’impertinenza inqualificabile inviare qualcosa del genere al tuo tutor e a un membro del tuo college.
+
+Non voglio scrivere in modo più enfatico, né continuare a scrivere oltre. È meglio che ci incontriamo di persona e risolviamo questa questione una volta per tutte. Invierò questo messaggio a mano, e ti prego di essere nei miei appartamenti esattamente alle quattro, quando mi troverai ad aspettarti.
+
+Ecco fatto. Quello è stato decisivo. Lexington si sentì sollevato, proprio come tutti gli uomini onesti quando riescono a far valere le loro ragioni. Chiamò Williams, e Williams portò la lettera in giro per essere distribuita.
+
+Il signor Lexington pranzò leggermente nella sua stanza; durante il pasto rilesse, per proprio piacere, un saggio suo stesso che era appena apparso su una rivista straniera, nel quale attaccava aspramente il suo avversario di Lipsia. Poi andò a fare una vigorosa corsa con Halibut, da St. Barbara’s. Fu un’attività davvero rinfrescante, resa ancora più piacevole da una vivace discussione riguardo all’ultima proposta di modificare la Regola 134. Tornò a casa in uno stato di energia, salute e lucidità mentale. Salì rapidamente i gradini di pietra che conducevano alle sue stanze, due gradini alla volta, circa dieci minuti prima dell’ora fissata per le quattro. I suoi polmoni erano pieni d’aria fresca; il sangue gli scorreva bene nel corpo. Era pronto a dare a quel giovane mascalzone una lezione, o ad fargli capire esattamente perché doveva comportarsi in un certo modo.
+
+Il suo sguardo cadde su un piccolo rotolo di pergamena posato sul tavolo, legato con seta rosa sbiadita, delicato e antico. Era sigillato con cura. Il suo cuore iniziò a battere più velocemente e la rabbia prese il sopravvento. Ruppe il sigillo e all’interno trovò una lettera scritta su quella superficie delicata con quella particolare grafia veneziana, utilizzando inchiostro lucido che sicuramente non aveva mai visto luce in un negozio. La lettera era molto breve e estremamente caratteristica. All’inizio non c’era “Caro signor Lexington”, né “24 Brecon Street” in alto; l’unica data indicata era il Segno della Bilancia, mentre la firma consisteva in un curioso geroglifico. Tra le righe c’erano queste parole:
+
+“Non posso lasciare il mio orologio prima dell’ora Tris Sacra. Meglio che tu venga qui, all’ora quarta.”
+
+Era troppo! Il docente di Elettrochimica dell’università si decise, scese le scale di corsa e si diresse verso il quartiere della cattedrale e via Brecon Street, con il viso arrossato e a un passo così veloce che i passanti si voltavano tutti per guardarlo mentre camminava.
 
 
 
@@ -2650,6 +2764,46 @@ The work was accomplished; he was free to admit the light.
 
 The curtains were pulled back, the last embers of incense in the brazier were extinguished. He threw the carven screen well back upon its hinges, threw the casement wide open and let in the clean air, which he abhorred — but he would have as open as could be the setting for what was to be done, so that the scoffers might be confounded in the very light of the sun. That light of the sun of a clear February day flooded the room and rendered all its ornament tawdry.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO II
+
+Mentre i profondi rintocchi della vecchia campana della cattedrale annunciavano mezzogiorno nell’aria tremante, Henry Bolter sollevò con scarso vigore quella sua alta e magra figura; inginocchiato davanti al piedistallo e alla statua che vi era posta sopra, con la testa bassa, le spalle rilassate e le mani giunte davanti a sé, comunicò al proprio Maestro che l’ora era arrivata e implorò guida e protezione.
+
+Una volta fatto ciò, gettò nel piccolo braciere un pizzico di incenso, si alzò in piedi, fece un inchino e si inginocchiò profondamente; poi si rialzò, accese due candele posizionate su due candelabri a forma di drago sul tavolo di quercia, e, rimanendo lì, sistemò tutti gli oggetti necessari per il suo compito e la sua preghiera. C’era il mucchio di zolfo, la scatola piena di frammenti segreti, la formula scritta su pergamena crepata, aperta e tenuta ferma ai bordi da due pesi di giada intagliati; c’era anche quel grande libro antico, scritto in caratteri neri, già aperto alla pagina decisiva. E a destra, il crogiolo con il suo piccolo forno pronto ad essere acceso: infatti, la stanza era collegata a una fonte di energia.
+
+Anche mentre sistemava tutto quella luce fioca che filtrava attraverso la griglia di legno intagliato presente nell’unica finestra, fu interrotto.
+
+La padrona di casa di via Brecon 24 aveva avuto inquilini universitari di ogni tipo: uomini neri e uomini bianchi, e anche quei giovani bianchi che facevano sempre un gran baccano, rompevano vetri e attiravano l’attenzione delle autorità come un magnete. Ma non sapeva se dovesse preoccuparsi di più o di meno per questo ultimo inquilino. Da un lato, non causava alcun problema: aveva concordato con lei di pagare il doppio dell’affitto abituale in cambio della libertà di arredare la stanza a piacimento, di scegliere liberamente gli orari e così via. Dall’altro lato, c’era qualcosa di molto strano in lui. E soprattutto, nella stanza mancava aria fresca. In definitiva, sarebbe stata molto contenta quando, all’inizio del prossimo autunno, avesse visto qualcuno di più “normale” e “autentico” occupare la camera da letto e il soggiorno al primo piano di via Brecon 24, invece di Harry Bolter.
+
+Aveva suscitato quella piccola paura che provava sempre. Le era stata risposta con un tono così solenne da non diminuire affatto le sue esitazioni. Aveva sbirciato attraverso l’oscurità creata dalle candele artificiali e aveva portato la nota di Lexington su un vassoio. Bolter l’aveva aperta, letta, le aveva chiesto di aspettare un momento, aveva preso uno dei suoi fogli sottili di velino da un mucchio e, con la sua penna d’erba immersa nel calamaio nero, aveva scritto queste due righe: “Non potrò lasciare il mio orologio prima delle Ore Sacre. Vieni qui piuttosto, alla quarta ora.”
+
+Le asciugò con un pizzico di sabbia, soffiò su di esse, legò il piccolo rotolo con seta rosa, lo sigillò e glielo diede.
+
+Non c'era alcuna iscrizione sopra di esso. Solo lei doveva sapere che poteva essere consegnato nelle stanze del signor Lexington presso St. Olaf’s in circa un’ora, e doveva lasciare 2 sterline e 6 penny al messaggero per il suo conto.
+
+La padrona di casa chiuse la porta silenziosamente, come avrebbe fatto con la porta di una cappella. Il giovane, invece di tornare allo studio della sua formula e riprendere il compito che lo aveva assorbito negli ultimi giorni, si recò nuovamente davanti al piedistallo, si inginocchiò e pregò con fervore.
+
+“Maestro”, pregò, “vi ho chiesto se non fosse possibile ricevere un segno per porre fine a queste blasfemie. Concedetemi di sollevare il velo, affinché gli stolti non continuiano per sempre a insultare la Saggezza delle Saggezze.”
+
+Lottò con quella richiesta. La affrontò con tutta la concentrazione che gli rimaneva nella mente; dopo lo sforzo estenuante di un simile tentativo, alzò lo sguardo verso quel volto. Non c’era alcun segno.
+
+Ancora una volta, ancora in ginocchio, dondolando leggermente (poiché l’ultima dose di quella sostanza lo stava ancora influenzando), pregò con più fervore che mai. Continuò a pregare fino a quando non iniziò a sentire confusione nella mente e il pavimento su cui era inginocchiato gli sembrò instabile. Alzò lo sguardo di nuovo, ma non c’era traccia di nulla.
+
+Per la terza volta chinò il capo, mormorando continuamente la parola “Maestro!”, poi, con un’invocazione silenziosa nel cuore, alzò lo sguardo per la terza volta. Le tende ora si muovevano, senza dubbio; anche i piccoli riquadri di luce nella grata incisa tremolavano. E quella testa non sembrava più così lontana. Il suo “respiro” vitale pareva più vicino. Era certo che quegli occhi lo fissassero direttamente; e sulle labbra piene, ruvide, sogghignanti, c’era sicuramente un leggerissimo, quasi impercettibile segno di assenso. Chiuse gli occhi, stordito; poi, con uno sforzo, si alzò, sospirò profondamente, si inchinò di nuovo e mormorò che tutto andava bene.
+
+In piedi davanti a quel grande libro rilegato in pelle nera, posizionato tra due candele a forma di drago, lesse ad alta voce, con un tono monotono e utilizzando esattamente quella nota che aveva imparato a essere il vero segnale per invocare i Poteri Stupendi: MARA, TAMITHA, DATHEL.
+
+Poi mormorò velocemente tra sé le righe della pagina scritta in caratteri neri, mentre i suoi occhi le scorrevano avanti e indietro.
+
+“Lasciate che il Leone incontri la Vergine; una volta catturato, legatelo con catene al Sole e alla Luna. Così egli si risveglierà dal sonno e assumerà la Forma del Dominio, abbandonando ogni nascondiglio: poiché nella semplicità tutto sarà realizzato e a lui verrà concessa la gloria.”
+
+Una volta fatto ciò, tirò le tende sullo schermo e spense le candele, così che tutto fu avvolto nell’oscurità, tranne per la debole luce che fluttuava sopra la sua testa e il tenue bagliore del braciere. In quell’oscurità, dove tutto era solo ombra, lavorò con i materiali davanti a sé: prese il zolfo dal forziere e, sotto il calore del crogiolo, lo trasformò in qualcosa di nuovo; poi lo lasciò raffreddare e, mentre ancora era plastico, lo modellò con le sue lunghe mani. Durante tutto quel tempo, e a intervalli regolari, mormorava il terribile nome di ogni fase di quel processo, che rappresentava un gradino verso la vetta della “Scala Sacra”, sulla cui cima brillava la “Cosa Perfetta”.
+
+Il lavoro era stato completato; poteva finalmente lasciare che la luce entrasse.
+
+Le tende furono tirate indietro; le ultime braci di incenso nel braciere si spensero. Lui spinse la grata intagliata con forza sui suoi cardini, aprì completamente la finestra e lasciò entrare l’aria fresca, anche se la odiava. Voleva che tutto fosse il più aperto possibile per ciò che stava per fare, affinché gli derisori venissero confusi proprio sotto la luce del sole. Quella luce di un chiaro giorno di febbraio inondò la stanza, rendendo tutti i suoi ornamenti banali e volgari.
 
 
 
@@ -2696,6 +2850,48 @@ There was nothing to be frightened of. It was pretty heavy. It seemed familiar e
 
 “Well, I don’t know.” He went on with a sort of little empty laugh. “It looks like lead.” He weighed it in his hand. “It’s about as heavy. What about it?”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ma ora c'era un oggetto sul tavolo che nessuno avrebbe notato la prima volta che si era lasciati alle spalle le pratiche di venerazione di quella testa; qualcosa che prima, sotto la luce tremolante delle candele, non era stato visibile; qualcosa che ora giaceva evidente e nuovo, al di sopra del libro, sulla dura superficie dell’antico tavolo di quercia. Non c'era più traccia di zolfo: al suo posto c'era un pezzo di materiale di forma approssimativamente cilindrica, la cui consistenza cercherò di descrivere; perché, anche se io stesso non ho mai visto quell’oggetto famoso, ne ho letto parlare.
+
+Era un cilindro lungo circa nove pollici e spesso due pollici; sembrava fatto di vetro, ma di un vetro opaco, di colore marrone. La sua superficie non era liscia, bensì granulosa; quindi, con un po’ di sforzo, si potevano staccare piccoli frammenti cristallini, proprio come dallo zucchero. Nonostante questa struttura granulosa, il cilindro era comunque semitrasparente. Su di esso, i suoi occhi chiusi brillavano di trionfo; si sdraiò quindi ad aspettare il momento in cui avrebbe dovuto agire. Era posizionato nella torre della cattedrale.
+
+Dormì, se si può definire dormire. Perché nella sua mente passarono molte visioni; tutte le ore successive fino alle quattro.
+
+Di nuovo si sentì quel discreto bussare alla porta, e la padrona di casa ebbe appena il tempo di dire: “Signor Lexington, signore, ”, quando quell’eminente uomo entrò e occupò immediatamente il piccolo spazio a disposizione.
+
+Henry Bolter si alzò a fatica dal divano e offrì la sedia di quercia al suo visitatore, il quale la accettò senza alcun garbo, guardandosi intorno con rabbia per l’assurdità di tutto ciò che lo circondava: antichità ridicole come quella testa assurda, i tendaggi orientali, tutta quell’atmosfera magica e quel odore di incenso stantio che gli dava fastidio al naso, i candelabri a forma di drago provenienti da qualche pegnoio nel quartiere cinese dei moli.
+
+Si rivolse bruscamente al proprietario della stanza e iniziò immediatamente a utilizzare la formulazione che riteneva più adatta alla situazione.
+
+“Guardi qui, signor Bolter: questa situazione non va bene. Bisogna fare qualcosa.”
+
+Così i due uomini, il più anziano e il più giovane, sedettero uno di fronte all'altro: il giovane zoppicava e si curvava in avanti; l'unica cosa che lo distingueva era il suo sguardo ardente fisso sul nuovo arrivato; l’anziano, invece, era agitato e affrettato, ma pronto ad eseguire il proprio dovere abituale. Lexington si appoggiò di nuovo allo schienale della sua sedia (le sue antiche braccia lo infastidivano e le elaborate sculture presenti sullo schienale gli ostacolavano la posizione).
+
+“Deve essere fatto qualcosa,” disse di nuovo, mentre Henry Bolter si abbandonava nervosamente sul divano, continuando però a fissarlo con quegli occhi ardenti.
+
+“Non so se abbia il diritto di chiederti di smettere con tutte queste sciocchezze. Probabilmente no; ma ti fanno del male, e tu lo sai. Perché non puoi vivere come tutti gli altri studenti della tua facoltà? Comunque, dovrai venire regolarmente alle lezioni. La prossima volta che mancherai, sarà la fine. Voglio che tu abbia successo. E non devi scherzare con i tuoi saggi. È tutto a posto se inserisci in essi quei modi di scrivere un po’ teatrali per me; non mi dispiace. Non credo che tu intenda essere irrispettoso, ” Bolter scosse lentamente la testa. “Comunque, non c’è nulla di serio. Ma in un esame che dipende dalla tua carriera, sarebbe fatale. Forse nelle altre scuole quel tipo di umorismo è tollerato. Ma nella Scienza non funziona. Se ricordi il dovere che hai verso tuo padre, ” Bolter annuì.
+
+“Allora,” proseguì Lexington con un tono più lento e scandendo le parole, “c’è ancora un ultimo punto, signor Bolter, che vorrei vi teneste bene a mente. Tutto questo considerare come ovvio che i migliori risultati della scienza moderna siano solo ciarlataneria non va affatto bene. È offensivo e stupido. E vi distruggerà. Onestamente, lo farà. Capisco il senso dell’opposizione; anch’io l’ho provato da giovane.” (Lexington parlava come se avesse centinaia di anni: in realtà ne aveva trentacinque. Ma trentacinque anni sono decisamente molti rispetto ai vent’anni.) “Non sto nemmeno dicendo,” aggiunse gentilmente, “che una persona non possa discutere le ultime teorie scientifiche. Dopotutto, sono solo teorie. Ma considerare tutto ciò che ci viene insegnato come insignificante è pura vanità. E, come vi ho detto, se non ne sbarazzatevi, vi distruggerà.” “Ora, prendete in considerazione quanto avete scritto riguardo all’articolo di Sir William Matheson sulla ‘trasmutazione dei metalli’, ”
+
+Con uno sforzo, Bolter si sedette più dritto, ma poi ricadde indietro.
+
+“Hai avuto perfettamente ragione nel distinguere tra semplici ipotesi e fatti solidamente dimostrati. Hai avuto ragione anche nel mettere in discussione la presenza di quel deposito di mercurio. Non nego,” continuò gentilmente, “che tu abbia molte argomentazioni a tuo favore. Certo, sai ragionare. Ma tirare in ballo l’Alchimia, la Pietra Filosofale e Helvetius, ”
+
+Henry Bolter fece appello all’energia residua che gli era rimasta; non osava rafforzarsi artificialmente con la sua droga in presenza di un altro. Allungò un braccio lungo e tremante, raccolse con le sue dita sottili e affusolate un grumo grigiastro dal mucchio di oggetti vicino alla testa del divano su cui giaceva, poi, piegandosi in avanti come se fosse munito di una molla, lo posò sul palmo della sua mano davanti agli occhi di Lexington.
+
+“Signor Lexington, cos’è quello?” disse lui, con una voce così improvvisa, grave e debole. E mentre lo diceva, continuava a fissare con occhi brillanti quell’uomo che si professava suo insegnante.
+
+Lexington sentiva di non sapere cosa fare. Provava disprezzo per tutte quelle discussioni su influenza; aveva la profonda convinzione tipica di uno scienziato fisico molto letto: tutto ciò era soggettivo e poteva essere contrastato da una volontà sana. Eppure si sentiva a disagio. Il gesto di Bolter non era stato brusco, ma la sua interruzione sì. E quegli occhi lo turbavano. Non vedeva alcun modo per evitare di rispondere.
+
+“Che cos’è questo?” disse in tono un po’ capriccioso. “Ah, questo?”
+
+Aveva raccolto con molta delicatezza quel grumo grigio dalla mano del giovane.
+
+Non c'era nulla di cui aver paura. Era abbastanza pesante. Sembrava abbastanza familiare; assomigliava in modo insolito al piombo. Ma lui non voleva prendere una decisione definitiva. È qualcosa che non piace fare nelle università, soprattutto prima degli esami di fine anno.
+
+“Beh, non lo so,” continuò lui con una sorta di risata vuota. “Sembra piombo. Pesa più o meno allo stesso modo. E allora?”
 
 
 
@@ -2759,6 +2955,64 @@ He looked round again at the tawdry fittings and the grotesque and futile Head o
 “How do you mean — test?” said Lexington, nervously, but eager in his heart. By this time he had completely forgotten the object of his visit and all else. The thirst of a problem was upon him. He had not spent fifteen years of famous and fruitful experiment for nothing.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“È piombo,” disse semplicemente Henry Bolter, continuando a fissare l’altro uomo. Se fissare qualcuno fosse come colpirlo, Lexington avrebbe protestato; ma c’è una differenza. E invece di protestare, girò leggermente la testa da un’altra parte.
+
+“Molto bene. Onestamente non capisco a cosa tu alludi. Se pensi di starmi facendo perdere tempo, ”
+
+“No,” disse Henry Bolter, “non sto cercando di dissuadervi. Vi mostrerò qualcosa che vi interesserà, signor Lexington. Davvero. È proprio ciò che avete detto riguardo alle ultime teorie e a Matheson sulla trasmutazione dei metalli che mi ha dato l’idea.”
+
+Lexington era di nuovo partito.
+
+“Non voglio che iniziate una discussione,” rispose con fermezza ma in tono allegro. “L’abbiamo sentito dire da molti altri giovani, oltre a voi. Ammetto che la teoria moderna dell’atomo sia solo una teoria, ma esiste e domina il campo scientifico. E anche se le teorie sono soltanto teorie, spesso portano alla verità. Ora nessuno nega che, se si riuscisse a eliminare quel elettrone in eccesso dal mercurio, ”
+
+Henry Bolter scuoteva la testa.
+
+“Signor Lexington, lasciamo da parte tutto questo per un momento. Le ho detto che voglio mostrarle qualcosa, e le prometto che non rimarrà deluso. Non ci vorranno molte minuti. Ho qui un crogiolo e una piccola fornace, il brevetto Bower di cui ci aveva parlato. Devo solo collegarli alla corrente e farli funzionare per mostrarle qualcosa che vale davvero la pena vedere. Per favore, abbia un po’ di pazienza.”
+
+Tanta cortesia disarmò il signor Lexington, ma quegli sguardi fissi su di lui lo rendevano ancora più a disagio che mai. Henry Bolter si alzò dal divano, accese il riscaldamento e il forno iniziò a brillare. Gettò il pezzo di piombo nel crogiolo; i due uomini aspettarono in silenzio, osservando mentre il piombo si scioglieva.
+
+Allora Henry Bolter allungò una mano verso quel pezzo strano, di colore marrone, simile al vetro, granuloso e parzialmente trasparente, che giaceva così negligentemente sul tavolo di quercia, davanti al vecchio libro con le lettere in nero (ora chiuso) e tra due candele ormai spente. Con cura staccò dall’estremità ruvida un piccolissimo frammento, grande forse quanto una lettera “B” o poco di più. Lo frantumò tra il dito indice e il pollice e lo gettò nel piombo fuso che si muoveva e sobbalzava a causa del calore intenso della piccola fornace. Poi si rivolse a Lexington e disse:
+
+“C’è una cosa che devi permettermi di fare,” disse lui con un sorriso pallido. “È l’unico trucco nel mio spettacolo di magia. Ma devi lasciarmelo fare.” Per un momento, coprì il crogiolo di terracotta con un coperchio fatto della stessa materia. E ancora i due uomini rimasero seduti in silenzio, l’uno di fronte all’altro.
+
+Henry Bolter guardò l’orologio per un momento. Poi parlò Lexington.
+
+“Signor Bolter,” disse, “non voglio dire nulla che possa offenderla, ma deve capire che il mio tempo è molto prezioso.”
+
+Di nuovo, Henry Bolter sorrise.
+
+“Sarà ancora di più così,” disse lui.
+
+Con le pinze sollevò il coperchio che aveva appena messo e disse: “Guardate lì dentro.” E mentre lo diceva, lui stesso guardò all’interno del metallo fuso in movimento.
+
+Quello che i due uomini videro era un liquido: non più argenteo, né grigio, né biancastro, ma che attraversava molte sfumature di colore, proprio come i cerchi d’olio versati sull’acqua. I colori si intrecciavano tra loro, formando meravigliosi disegni e combinazioni cromatiche che, gradualmente e in modo piuttosto rapido, si fondevano in un delicato verde. Quel verde iniziò poi a diventare giallo. Non appena si notò questo cambiamento, Bolter si sporse in avanti e premette l’interruttore sul muro: il forno si spense immediatamente e la ceramica riscaldata perse rapidamente il suo bagliore.
+
+“Guarda!” disse. “Guarda!” E Lexington guardò.
+
+Il colore verde era ormai molto più giallo che verde; ora era completamente giallo, con un tocco di rosso; e cosa ancora più sorprendente: man mano che il crogiolo si raffreddava, la massa liquida diventava sempre più viscosa, i suoi movimenti cessavano, la sua superficie piatta si trasformava in uno strato solido. E ora aveva quel colore che ha spinto l’umanità a commettere metà dei suoi peccati e più della metà delle sue follie. Era Oro.
+
+Henry Bolter fissava il crogiolo come un uomo che guarda un nemico morto e sconfitto.
+
+Lexington era un po' scosso, ma non credeva ancora, perché fino ad allora non c’era nulla di concreto su cui basare una credenza.
+
+Guardò di sguardo il suo allievo per vedere se quegli occhi si fossero nuovamente rivolti verso di lui. Non era così, e ne fu sollevato. Nemmeno Bolter li usò più in quel modo, se mai li aveva usati consapevolmente. Lexington sentì, contro la sua volontà (e ne ebbe vergogna), che delle catene gli erano cadute di dosso e che ora era un uomo libero. Si appoggiò allo schienale della sedia e disse in modo piuttosto goffo: “Dobbiamo lasciarlo raffreddare.”
+
+Guardò di nuovo intorno, quelle decorazioni volgari e quegli oggetti grotteschi e inutili nella bottega dell’antiquario. Ma, dopotutto, era davvero tutto così inutile? Si disse che i suoi nervi erano stati scossi, troppo sottoposti a pressione; quegli occhi di Bolter possedevano un potere sgradevole, che approfittava ingiustamente di una persona. Bolter era ancora lì, fermo a osservare il crogiolo. Lui si girò parzialmente, senza fissarlo questa volta, e disse, con voce abbastanza gentile:
+
+“Vi ho chiesto poco fa, signor Lexington, di cosa fosse fatto quel crogiolo. Credo che abbiate detto che era piombo, ”
+
+“Sì. Avrei sicuramente dovuto dirlo,” rispose Lexington con noncuranza: “ma non avevo modo di verificarlo. Non credo nei miracoli, sai,” aggiunse, con una risata nervosa e un po’ di sfida.
+
+“Cosa pensi che ci sia adesso dentro?”
+
+“Non riesco a dirlo,” disse Lexington, in tono più ribelle e persino cupo. Poi si rimproverò per quel comportamento di fronte a un ragazzo così giovane, e aggiunse, con voce più allegra: “Si potrebbe dire che assomigliasse all’oro, al bronzo, o a qualcos’altro. Ma non so proprio cosa tu abbia cucinato.”
+
+“Beh,” disse Bolter dopo una breve pausa, “la cosa è abbastanza semplice da verificare. Volevo mostrarvi qualcosa, signor Lexington, e credo che concorderete sul fatto che vi ho mostrato davvero qualcosa di interessante. Potete portarvela via e testarla quando vorrete.”
+
+“Cosa intendi per ‘test’?”, chiese Lexington, nervosamente, ma con grande interesse nel cuore. A quel punto aveva completamente dimenticato lo scopo della sua visita e tutto il resto. Era assillato dal desiderio di affrontare un problema. Non aveva certo trascorso quindici anni dedicandosi a esperimenti famosi e fruttuosi invano.
+
 
 
 <span class="atom-split" data-atom="chapter_03--part_04" data-title="The Man Who Made Gold — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/money_and_gold,motif/secrets,concept/reason_and_rationalism,concept/wonder,form/satire,form/science_fiction"></span>
@@ -2780,6 +3034,24 @@ There was no question now of funny furniture, attendance at lectures, incense, o
 
 He reached his rooms. He opened the drawer in which he kept his valuables. He put the mysterious gift therein, after a long look at it under the electric light. That look taught him nothing he had not known before. There lay the cylinder, brown, translucent, crystalline, yet granulated: rather like a stick of dark sugar–candy. Small pieces could be broken off with some effort of the fingers, but it was not friable. Nothing of it had come off during the short journey from its home to his. He looked at his watch and was startled. Nearly two hours had passed. He had little more than an hour before Hall. His mind was curiously confused and fagged. He felt like a man who has done much more than he knew himself to be doing at the time, and who suffers the reaction thereafter.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Quello che intendo, signor Lexington,” disse Bolter, ancora con molta gentilezza, “è questo: vi offenderò se vi chiedo di prendere questa, qualunque cosa sia, ” (prese il piccolo rotolo di sostanza cristallina marrone e lo avvolse in un panno di seta) “, e poi, con piena libertà, ma, spero, in totale riservatezza, fare come ho fatto io per scoprire se non ci sia qualcosa nella saggezza degli antichi, ”
+
+Di nuovo rivolse quegli occhi ardenti verso il chimico. E Lexington rispose:
+
+“Davvero, signor Bolter, è molto gentile da parte sua. Non vedo perché non dovrei, quello che mi ha appena mostrato è davvero interessante. Ha qualche teoria al riguardo o, ”
+
+“No, signor Lexington,” disse Bolter, continuando a fissarlo con quel suo sguardo e scuotendo deliberatamente la testa. “Tutto ciò che vi chiedo è di seguire quella unica regola della conoscenza: l’esperienza. Forse allora, con la vostra grande scienza, potrete anche aiutarmi a capire.”
+
+“Ah, è solo per aiutarti a capire!” disse Lexington, sinceramente sollevato; non notò alcuna ironia sulle labbra dell’altro. “Bene, penso che scopriremo la verità, qualunque essa sia.”
+
+“Provatelo prima voi, signor Lexington, ciò che ho fatto davanti ai vostri occhi. Prendete l’iniziativa come ho fatto io: inserite un frammento del cilindro, riscaldate e fate fondere l’intero insieme. Verificate il risultato. Poi, quando vi chiamerò, sarò ansioso di conoscere le vostre conclusioni.”
+
+Ora non c’era più alcun dubbio riguardo a mobili strani, partecipazione a lezioni, incenso o altre sciocchezze tipiche degli studenti universitari. Lexington se ne andò con quelle cose strane nella tasca del suo cappotto, ben protette dal loro involucro di seta; per tutto il tragitto fino al college tenne la mano appoggiata sulla superficie esterna di quella tasca, proprio come un contadino che custodisse un mazzo di banconote. Fortunatamente, nessuno avrebbe mai avuto l’idea di derubarlo di una cosa del genere.
+
+Raggiunse le sue stanze. Aprì il cassetto in cui teneva i suoi oggetti di valore. Vi mise il misterioso regalo, dopo averlo osservato a lungo sotto la luce elettrica. Quell’osservazione non gli rivelò nulla che non sapesse già. Lì giaceva il cilindro: marrone, traslucido, cristallino, ma al contempo granuloso; assomigliava un po’ a un bastoncino di zucchero scuro. Era possibile staccarne piccoli pezzi con un po’ di sforzo delle dita, ma non era friabile. Niente di esso si era staccato durante il breve tragitto dal luogo in cui era stato prodotto fino alle sue stanze. Guardò l’orologio e rimase sorpreso: erano passate quasi due ore. Gli restava poco più di un’ora prima dell’incontro con Hall. La sua mente era stranamente confusa e stancha. Si sentiva come un uomo che aveva fatto molto di più di quanto sapesse di aver realmente fatto in quel momento, e che ora ne subiva le conseguenze.
 
 
 
@@ -2820,6 +3092,42 @@ He had turned on every light in the big bare room with its mass of glass-ware an
 
 While the lead was melting he fetched Bolter’s strange gift from the drawer in his room, broke off from it — his hand trembled a little — a tiny fragment, as much as he thought proportionate to the small bulk of metal in the crucible above the furnace, rubbed the little grain between his fingers as he had seen young Bolter do, and powdered it over the surface of the molten stuff. Even as he did so he felt a little ashamed. He walked half–way to the door to bolt it, and then, more ashamed of being caught with locked doors, went back again to his fascination.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO III
+
+In 24 Brecon Street, Henry Bolter giaceva in uno stato di estrema e pericolosa stanchezza. Vi avrebbe detto che la virtù era svanita da lui a causa di quella nuova e terribile esperienza, a causa della realtà di ciò che gli era stato rivelato. Un medico vi avrebbe detto che il motivo era la droga. Io invece vi dirò che non so se sia stata la droga o qualcos’altro; forse non è stata nemmeno una delle due cose.
+
+Comunque fosse, giaceva lì, respirando affannosamente e, per intervalli troppo lunghi, quasi svenendo.
+
+Mentre usciva dal suo torpore, l'orologio della Cattedrale suonò le otto nel buio. Si alzò barcollando e si diresse verso il piedistallo su cui era posta l'immagine; poi, all'improvviso, ricadde dove si trovava prima e rimase prostrato per un quarto d'ora, ma ora era di nuovo lucido.
+
+Non provava fame. Ormai raramente provava fame. Era uno di quei misteri che la sua padrona di casa non sarebbe mai riuscita a risolvere. Ma sentiva crescere in sé, insistente e orribile, quel desiderio. Nonostante fosse malato e schiavo di quel terribile “Padrone”, aveva cercato di stabilire delle regole per se stesso. Sapeva – sotto quella straordinaria luce dell’intelligenza che brilla ancora più intensamente in coloro che sono miserabilmente legati alle droghe, che splende con maggiore brillantezza nei rari momenti di estrema lucidità prima che ricadano nel buio – sapeva che si trovava vicino al limite di ciò che anche chi è abituato a queste cose può osare. Fece del suo meglio per resistere, con la scarsa volontà che gli rimaneva; ma il potere dominante era troppo forte. Versò quella sostanza fatale nel piccolo bicchiere, notò le graduazioni incise sul lato, smise di versare. La necessità era più forte che mai. Non poteva rifiutarla. Si alzò barcollando, versò ancora metà della dose in quel bicchiere dal odore nauseabondo. Doveva farlo. Avrebbe dovuto soddisfare quel desiderio insopprimibile.
+
+Bevve quella seconda dose. E allora, finalmente, un senso di appagamento e un completo riposo lo avvolsero. Quei momenti fatali, che si pagano con il prezzo dell’inferno e della disperazione, ma che rappresentano in realtà una sorta di paradiso sonnolento mentre ancora regnano. Non era sonno, non era oblio; era appagamento. Oh, beato, benedetto oppio. Meritevole di qualsiasi prezzo un uomo debba pagare. Né il prezzo già pagato in passato venne ricordato, né alcuna paura di punizione futura rimase presente nel suo stato di estrema soddisfazione, beatitudine e felicità finale.
+
+Chiuse gli occhi. Il mento gli cadde sul petto. Le braccia giacevano inerti ai suoi fianchi; al posto del sonno c'era una felicità oscura, onnipresente. Dopo ciò che sembravano anni, o addirittura eoni di tale estrema beatitudine, udì il suono lungo, monotono, rimbombante di una campana. Era di nuovo l’orologio della cattedrale: segnava le nove. Ma non riusciva più a contarle. La sua mente non contava più nulla; aveva superato, o era scesa al di sotto, di tali capacità cognitive. E in seguito non udì più alcun suono delle campane che battevano le ore.
+
+Charles Lexington, M.A., membro e tutore presso la St. Olaf’s, e per di più docente all’università, ecc., era nervoso, come spesso lo sono molte persone della sua professione.
+
+Si compiaceva di non essere una persona impulsiva: faceva tutto nel momento e nel luogo giusti. Al suo ritorno all’Università, poco prima delle sei, la sua routine consisteva nel leggere alcuni dei saggi scritti dai suoi studenti (rimpiangendo il tempo sprecato nella stanza di Bolter), nel rivedere rapidamente le sue note per il giorno seguente, e poi nel vestirsi per recarsi alla mensa alle sette. Quella era la superficie più esterna della sua mente. Subito sotto c’era un altro livello, in cui agiva una forza molto più potente della routine, persino più forte del dovere stesso: la grande curiosità tipica di uno scienziato. Non riusciva a smettere di pensare a quel piccolo cilindro marrone. A volte, ricordando quegli occhi ardenti, provava un sentimento che si rifiutava con decisione di affrontare e di esprimere a parole: aveva l’impressione di essere stato ingannato, come se fosse stato ipnotizzato. Scacciava immediatamente quel pensiero, decidendo che quel giovane sciocco doveva aver messo in atto qualche trucco magico.
+
+Inoltre, era davvero oro? Forse era stato ingannato da qualche trucco di magia, oppure l’oro poteva essere stato sostituito con il piombo durante quella lunga attesa nell’oscurità crescente. Qualsiasi cosa potrebbe spiegarlo.
+
+Poi si ricordò del cambiamento graduale del metallo fuso: il suo colore verdastro, gli anelli di colore che si dissolvevano, fino al momento in cui tutto si stabilizzava definitivamente. L’aveva visto, o pensava di averlo visto, l’aveva davvero visto.
+
+Quel maledetto nuovo orologio sopra la nuova biblioteca suonò le sei. Non riusciva più a sopportare quella pressione. E cedette.
+
+Nel laboratorio, che si trovava dall’altra parte del corridoio rispetto alle sue stanze, c’era una certa quantità di piombo già tagliato finemente per una dimostrazione che aveva proposto di fare il giorno dopo su un argomento molto più comune. Poteva utilizzare una parte di quel materiale: avrebbe messo alcune once di piombo in un crogiolo, preparato un po’ di quel cilindro marrone, traslucido e granuloso, acceso il fuoco e osservato cosa sarebbe successo.
+
+Gli bastava accendere l'elettricità, sciogliere il piombo, aggiungere la sostanza magica e provare a vedere cosa succedeva.
+
+Era arrabbiato con se stesso per averlo fatto. Almeno, una parte della sua mente lo era – quella più stupida, quella più influenzata dalle convenzioni; ma l’altra parte, quella più razionale e creativa, continuava a dirgli: “Perché no? Chi può affermare con certezza il contrario? Chi può dire che questo reagente non possa produrre il cambiamento desiderato? Perché dovremmo affidarci esclusivamente all’elettricità nei nostri tentativi di trasformazione?”
+
+Aveva acceso tutte le luci nella grande stanza vuota, piena di oggetti di vetro e bronzo, lavandini e rubinetti in porcellana, nonché tavoli puliti e lisci. Non avrebbe fatto alcun miracolo. Quella stanza doveva essere sottoposta a un'ispezione accurata.
+
+Mentre il metallo fuso si scioglieva, prese dal cassetto della sua stanza il strano regalo di Bolter, ne staccò un piccolo frammento – la sua mano tremava leggermente – che, secondo lui, era proporzionato alla piccola quantità di metallo presente nel crogiolo sopra il forno. Poi strofinò quel frammento tra le dita, proprio come aveva visto fare il giovane Bolter, e lo spolverizzò sulla superficie del metallo fuso. Mentre lo faceva, si sentì un po’ in imbarazzo. Camminò per metà strada verso la porta per chiuderla a chiave, ma poi, ancora più vergognoso all’idea di essere scoperto con le porte chiuse, tornò indietro e continuò nella sua attività.
 
 
 
@@ -2905,6 +3213,86 @@ She shook her head.
 The drug had done its work. Henry Bolter had passed while its beneficence was still upon him, and without paying the price in this world.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il metallo continuava a muoversi, immutato, tranne che nel passaggio dallo stato solido a quello liquido. Dopo tutto, non era altro che piombo fuso. In segreto, Lexington provò un certo sollievo: si trovava ancora nel mondo familiare, e tutta quella storia assurda in Brecon Street era stata solo una truffa e una follia. Si rimproverava già per essersi lasciato influenzare da quelle situazioni.
+
+Ma anche mentre osservava, sembrava che notasse qualche cambiamento. Quella massa grigio-bianca poteva ingannarlo sotto la luce artificiale, ma sicuramente presentava ormai una leggera tonalità verdognola. I minuti passavano e il cambiamento diventava indubbiabile: quelle spirali ed onde che aveva visto solo un’ora prima ricomparvero. Non riusciva a staccare lo sguardo da quella scena. L’iridescenza assunse toni violacei, poi i gialli più chiari iniziarono ad impadronirsene; l’intera massa si trasformava rapidamente. Il suo colore si stabilizzò in un giallo-rossastro, omogeneo e uniforme, il colore del metallo ardente che guida il mondo.
+
+Non sapeva se fosse necessario fermare il forno in quel momento; fece meccanicamente ciò che aveva visto Bolter fare e spense il riscaldamento. Poi si allontanò per lasciare che il crogiolo e i suoi incredibili contenuti si raffreddassero.
+
+L'orologio in biblioteca batté le mezzore. Lui si alzò all'udire quel suono. Non si rendeva conto di quanto fosse stato assorbito dai suoi pensieri. Doveva vestirsi per andare alla riunione. Di nuovo lo assalì quel dubbio, quella esitazione tra un imbarazzo e l'altro. Non riusciva a sopportare l’idea di portare quell’apparecchio di nascosto nella propria stanza come un ladro; sarebbe stato in agonia se qualcuno lo avesse trovato lì. Ma preferiva quella sofferenza all’imbarazzo.
+
+Tornò indietro e si vestì. Ma mentre lo faceva, era febbricitante, temendo di sentire dei passi nel corridoio o la porta del laboratorio aprirsi. Proprio quando suonarono le sette e la campana annunciò l’inizio dell’ora di studio, cambiò idea. Staccò il filo e portò il crogiolo, ormai freddo, direttamente nella sua stanza; aprì un armadio privato e lo chiuse a chiave al suo interno.
+
+Durante la riunione, Hall aveva sufficiente autocontrollo per ascoltare ciò che gli veniva detto e rispondere in modo coerente. Tuttavia, era molto più silenzioso del solito; Perkins, il metafisico che odiava di più tra i suoi colleghi, non smetteva di deriderlo mentre consumavano quel cibo insopportabile. Il Presidente proteggeva Lexington, ritenendolo malato, e quest’ultimo fu felice di cogliere quell’occasione: disse di temere di non poter entrare nella sala comune, che doveva tornare subito in camera sua perché si era overworkato. Quando il Presidente accennò a rimproverarlo per le sue battute offensive nei confronti del collega, Perkins rispose prontamente mentre camminavano verso la sala comune: gli alchimisti, disse, ammettevano sempre di correre il rischio di impazzire. Era forse un giudizio divino. Forse Lexington aveva trovato la Pietra Filosofale. Il Presidente non trovò la cosa divertente. Lexington era più anziano di Perkins, e i metafisici non dovrebbero tormentare i loro colleghi.
+
+Nella sua stanza, la prima cosa che fece Lexington fu chiamare il suo esploratore, il ricco Williams, e dirgli che avrebbe indossato il suo abito di quercia. Aveva un terribile mal di testa e aveva bisogno di stare da solo.
+
+“Molto bene, signore,” disse Williams – una frase che i vostri moderni scout hanno orribilmente adottato; una frase sconosciuta ai tempi di suo padre, quando gli scout erano davvero tali, e dicevano “Sì, signore”, come veri uomini onesti.
+
+Il rovere scricchiolava; Lexington era così eccitato che chiuse a chiave la porta. Come l’eroe di un melodramma, voleva essere solo. Avrebbe fatto un test approfondito: per esserne finalmente certo.
+
+I test non lasciavano spazio a dubbi: il metallo ottenuto dal crogiolo era oro. Oro, oro, oro.
+
+Lexington si alzò e iniziò a camminare avanti e indietro nella stanza, con le mani nelle tasche dei pantaloni e la testa china in avanti. Era davvero successo? Sì, apparentemente. No, senza dubbio. Ecco lì: era stato effettivamente verificato. Ed era oro.
+
+Tornò indietro e guardò quell’oggetto freddo e inanimato; i suoi nervi, scossi da quell’esperienza, gli fecero stranamente pensare che in quel mezzo uovo di metallo giallo e pesante ci fosse della vita nascosta, come se potesse parlare e deriderlo.
+
+All’improvviso, un’ondata di conseguenze si riversò nella sua mente. Questo era un cambiamento rivoluzionario! Era una data importante nella storia dell’umanità. Cosa ne sarebbe derivato? Chi poteva saperlo?
+
+Un'idea prese il sopravvento su tutte le altre. Doveva trovare immediatamente l'unica persona che capisse perché quel reagente possedesse tale potere: Henry Bolter. Se il ragazzo non poteva o non voleva dirlo, allora era lui, e solo lui, a conoscere la provenienza di quel reagente e il modo per trovarlo o produrlo.
+
+Aveva già ritardato troppo con il suo esperimento e i suoi test. Si pentiva di quell’ora sprecata nel corridoio. Chi sa cosa avrebbe potuto fare in quel lasso di tempo quel giovane pazzo? Forse avrebbe trovato un altro “confidente”. O forse.
+
+Ma non poteva più discuterne! Doveva andare subito in Brecon Street e risolvere la questione una volta per tutte! “Risolverla una volta per tutte” significava ora qualcosa di molto diverso rispetto a ciò che aveva significato quel pomeriggio, alla fine dell’ultima luce del giorno. Ma aveva ragione riguardo all’azione necessaria: era indispensabile intervenire e fare qualcosa.
+
+Le porte delle stanze d’affitto all’università non vengono tenute chiuse. Non c’è bisogno di bussare, si entra direttamente. Lexington entrò e salì i pochi gradini. Avrebbe aperto subito la porta del soggiorno. Bolter poteva essere fuori. Sperava che fosse dentro. Lo avrebbe scoperto presto.
+
+Aprì la porta e si trovò immerso nel buio totale. C'era anche un silenzio assoluto, accompagnato da quell’odore disgustoso di incenso stantio, dal leggero tanfo della stoppina bruciata nell’olio esaurito della lampada appesa al soffitto, e dalle candele spente. Tutto rimaneva immobile.
+
+Bolter era uscito? Lexington cercò a tentoni l'interruttore della lampada elettrica, ma non riuscì a trovarlo. Poi gli sembrò di ricordare che, in quella strana mobilia, c’era una presa elettrica sul muro, ma nessuna lampada. Aveva delle candele con sé; ne accese una. Alla luce di quella candela, tenendola sopra la testa e guardando davanti a sé, vide il corpo lungo ed emaciato disteso completamente sul divano, con gli occhi chiusi e tutta la figura immobile. La candela gli bruciò le dita; la gettò via. Ne accese un’altra e si ricordò delle candele a olio. Le accese, e al loro debole bagliore, mentre le fiamme tremolavano, riuscì a vedere quella testa grottesca ondeggiare nell’oscurità. Fino a quando le candele non iniziarono finalmente a bruciare luminose e chiare. Si voltò di nuovo verso quella figura immobile e la prese dolcemente per la spalla.
+
+“Signor Bolter!”, gridò. Non ci fu alcuna risposta né movimento. Scosse delicatamente la spalla del signor Bolter. La testa, con i suoi lunghi capelli disordinati, si abbassò stranamente verso sinistra sui cuscini, con il viso rivolto verso il retro del divano.
+
+“Signor Bolter!” disse il signor Lexington, a voce più alta; e ancora: “Signor Bolter! Si svegli! Sono qui per una questione molto importante. Bisogna fare qualcosa!”
+
+Non ci fu alcuna risposta.
+
+Poi scosse ancora più violentemente. La testa si muoveva appena a causa di quella scossa, ma non da sola.
+
+Lexington iniziava ad allarmarsi. Prese la mano che penzolava; era calda, ma non troppo. Guardò attentamente il viso.
+
+“Signor Bolter!”, gridò di nuovo, quasi urlando. Si inginocchiò, e proprio in quel momento si sentì bussare delicatamente alla porta; la luce inondò la stanza dal corridoio. Era la padrona di casa.
+
+“Ho sentito che mi chiamavate, signore. Spero non ci sia nulla di grave. A volte dorme così, povero signore. Non ha mangiato nulla. Temo che stia prendendo delle cose per errore, ”
+
+Lexington si alzò in piedi. Ora aveva paura. Molta paura.
+
+“Signor Bolter!”, gridò di nuovo, ancora più forte. La padrona di casa si avvicinò.
+
+“Non avrebbe la luce elettrica, signore. L’ha staccata e ha coperto l’interruttore con quella stoffa da tenda.”
+
+Insieme lo presero per le ascelle, sollevandogli il corpo un po’ di più, fino a quando non fu semi-seduto. La testa rimase comunque appoggiata indietro, inerte.
+
+Un terribile sospetto nacque nel signor Lexington.
+
+“Hai una lampada?” chiese.
+
+“C’è un vecchio modello in cucina, signore… Vado a prenderlo subito.”
+
+“Sì, portalo qui. Lascia la porta aperta.”
+
+Per alcuni momenti sgradevoli, rimase lì da solo, cercando di controllarsi. La padrona di casa tornò con la lampada. Lei aveva conosciuto la morte più volte nella sua vita. Lexington, invece, no. Aveva il coraggio di sollevare un sopracciglio; prese uno dei ceri dal tavolo e lo avvicinò alle labbra. La fiamma non si mosse.
+
+“Pensi che sia svenuto?”, chiese l’insegnante. La sua voce tremava.
+
+Scosse la testa.
+
+“È peggio di così, signore.”
+
+Il farmaco aveva fatto il suo effetto. Henry Bolter era morto mentre i suoi benefici ancora agivano su di lui, senza dover pagare il prezzo in questo mondo.
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_01" data-title="The Man Who Made Gold — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,motif/grave,motif/death,concept/greed,concept/money_gold_greed,concept/ambition,form/satire,form/science_fiction"></span>
@@ -2942,6 +3330,40 @@ The simplicity and straightforwardness of this scientific temper — while it is
 
 William Bowring was a man some ten years older than Lexington, a friend to whom he had been closely bound ever since his first days at the University. Bowring’s father, long dead, had been a friend of Lexington’s father, also dead : Lexington’s father had practised as a surgeon in London; Charles was the only child. Lexington and Bowring had met afterwards in Bowring’s own rooms. The strength and general intelligence, travel, culture and good judgment of the older man had strongly influenced the younger. Lexington had had occasion to ask his advice on half a dozen occasions of his simple academic career, and had never found that advice fail him. Bowring had sent him to the right publisher for his first book, had given him sound rules for the drawing up of his contracts, had advised on a couple of patents which were already bringing in a small revenue.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IV
+
+Tutto fu fatto come avrebbe dovuto essere fatto in questi casi angosciosi che, di tanto in tanto, si verificano ancora nelle nostre antiche università. La stampa fu organizzata tempestivamente; Old Bolter se ne occupò personalmente. L’inchiesta risultò abbastanza favorevole: la morte era dovuta a un infarto. I farmaci presenti nell’armadietto furono discretamente rimossi in tempo, e il medico legale comprese perfettamente il proprio dovere. La famiglia preferì che il giovane fosse sepolto in città. E non sono sicuro che non provassero – certamente il figlio maggiore lo sentiva – un certo sollievo e conforto nella solennità con cui tutto si svolse, e anche nel fatto che quell’uomo eccentrico fosse finalmente scomparso.
+
+Il preside stesso del St. Olaf’s tenne il sermone funebre. Era un discorso pieno di lodi, che sottolineava la gentilezza e l’amicizia di Henry Bolter, e piangeva la perdita di un grande genio chimico stroncato così prematuramente dall’intensa dedizione allo studio. L’università fece in modo che tutto terminasse in modo appropriato e cerimonioso.
+
+Quella strana stanza alchemica fu smantellata e ristrutturata secondo i canoni di una normale stanza: con luci elettriche nude, incisioni in acciaio raffiguranti la monarchia, fotografie del Partenone e tende di stoffa ordinaria. Non c’era dubbio che non sarebbe stata nuovamente affittata per il resto dell’anno; ma dopo le vacanze di Pasqua sarebbe arrivato un nuovo inquilino. O, nel peggiore dei casi, dopo le vacanze estive. E l’anziano Bolter era davvero molto generoso.
+
+Tutto era finito e sistemato. I morti viaggiano velocemente. In pochi giorni, quella sfortuna era diventata un ricordo, e tutti erano in pace, tranne Lexington.
+
+Riuscì a continuare con le sue lezioni dopo un intervallo di circa una settimana, durante il quale era davvero appropriato interromperle. La prima volta che incontrò di nuovo i suoi studenti, disse alcune parole: parole piuttosto tristi e sobrie, che ricordavano la perdita del loro collega e lo lodavano come meritava.
+
+Fu nella serata dell’ottavo giorno, verso le dieci di sera, che l’insegnante di chimica ritrovò la determinazione di affrontare quella questione che da quel momento in poi avrebbe dovuto occupare tutta la sua vita. Si disse che era suo dovere – e certamente una necessità imperiosa – provare ancora una volta.
+
+Questa volta non corse alcun rischio. Aspettò che tutto fosse silenzioso, fino a dopo mezzanotte. Utilizzando la presa elettrica nella sua stanza, e portando con sé il filo di piombo che aveva faticosamente procurato in segreto in città – un prodotto ben testato, acquistato da un rivenditore che non sapeva nulla di lui – seguì ancora una volta con precisione il procedimento a cui ormai era terribilmente, ma anche orgogliosamente, abituato.
+
+Ancora una volta tutto accadde esattamente nello stesso ordine. Alle due e mezza di quella notte, aveva nuovamente testato l’oggetto: lo teneva in mano, lo bilanciava, separandolo dal crogiolo. Quel piccolo frammento di oro puro, a forma di mezzo uovo. Mentre lo osservava, gli venne in mente un dettaglio che riguardava il suo valore. Lo mise sulla bilancia: il peso non corrispondeva esattamente a quello del piombo. Era leggermente più leggero; la bilancia indicava 25 once. Quell’esperimento poteva valere circa 100 sterline. O forse un po’ di più. E se erano 100, perché non mille? E se mille, perché non un milione?
+
+Durante la sua visita in città, aveva acquistato una piccola cassaforte di acciaio, camuffata in un contenitore di legno; vi aveva riposto il cilindro di quella sostanza marrone, traslucida, cristallina e granulosa. Di cui forse non avrebbe mai conosciuto il segreto, la natura o la formula per la sua produzione.
+
+Ma c'era abbastanza tempo per aspettare. Qui c'era materiale sufficiente per molte, molte altre occasioni del genere. Fece una stima approssimativa e rimase sbalordito dalle possibilità che gli si presentavano davanti. Solo alcune briciole, polverizzate tra il dito indice e il pollice, erano state sufficienti per ottenere le sue prime due dosi d’oro, ben nascoste insieme al loro misterioso reagente nella sua cassaforte. Alcuni grani, solo. C’era materiale sufficiente per centinaia, centinaia di dosi del genere! E cento volte cento fa diecimila. Diecimila, ripetuto all’infinito, diventa una serie di milioni. Pensò a tutto questo.
+
+Ma credetemi o no (lo so per esperienza personale, e penso che molti di coloro che leggeranno queste parole lo sapranno anch'essi per propria esperienza), nella mente di uno scienziato esistono una semplicità e una virtù che meritano davvero grandi lodi e ammirazione incondizionata, finché non vengono corrotte. La scoperta, e la verità basata sulla scoperta, occupano il suo pensiero con grande intensità, molto più di qualsiasi altro desiderio; ed è forse per questo che i più grandi scienziati muoiono poveri, il che, a mio parere, è giusto.
+
+Lexington, nonostante tutto ciò che occupava la sua mente – una sorta di tempesta e caos di congetture, paura e meraviglia – era ancora più dominato dal senso di realizzazione derivante dalla sua grande impresa nel campo della fisica moderna. Pensava alla gloria, ma pensava soprattutto alla gloria e al trionfo della sua professione. Finalmente l’uomo aveva raggiunto qualcosa di straordinario! Uno dei più grandi traguardi mai ottenuti! Qualcosa a cui negli ultimi anni gli esseri umani avevano cercato di arrivare; qualcosa che i suoi colleghi e conoscenti avevano già ipotizzato e ritenuto possibile realizzare. Non c’erano limiti a ciò che l’uomo poteva compiere, utilizzando il proprio ambiente circostante.
+
+Eppure, in quella lunga notte di mezzanotte – poiché quella notte non riuscì a dormire – provava due tipi di ansia. Prima di tutto, doveva, senza indugio, scrivere su carta, in modo breve ma chiaro, esattamente ciò che aveva fatto. Per il momento, quel resoconto sarebbe stato visibile solo ai suoi occhi; ma sentiva di doverlo rendere noto alla razza umana e alla scienza, affinché quella scoperta potesse essere condivisa. Inoltre, doveva affidarsi al consiglio di un altro uomo per decidere quali fossero i primi passi da compiere.
+
+La semplicità e la schiettezza di questo modo di pensare scientifico – sebbene ancora privo di esperienza nel mondo degli affari – sono anche un segno di umiltà. Lui sapeva che in molte cose avrebbe potuto commettere errori secondo i criteri della saggezza mondana. Gli serviva soltanto un confidente, ma doveva essercene uno; e quel confidente, ovviamente indicato – anzi, nel caso di Lexington, l’unico possibile – era William Bowring.
+
+William Bowring era un uomo di circa dieci anni più anziano di Lexington; erano amici fin dai primi giorni dell’università. Il padre di Bowring, ormai defunto da tempo, era stato amico del padre di Lexington, anch’egli deceduto: il padre di Lexington aveva lavorato come chirurgo a Londra e Charles era l’unico figlio della famiglia. In seguito, Lexington e Bowring si incontrarono nelle stanze di quest’ultimo. La forza d’animo, l’intelligenza generale, le esperienze di viaggio, la cultura e il buon giudizio dell’uomo più anziano ebbero una forte influenza su quello più giovane. Lexington aveva avuto occasione di chiedergli consiglio in diverse occasioni durante la sua semplice carriera accademica, e mai quel consiglio si era rivelato inefficace. Bowring lo aveva indirizzato al giusto editore per la pubblicazione del suo primo libro, gli aveva fornito regole precise per la redazione dei contratti e lo aveva aiutato con due brevetti che già generavano un piccolo reddito.
 
 
 
@@ -3021,6 +3443,80 @@ Lexington shook his head. Bowring lit his cigar and then nodded.
 “Humph!” said Bowring. “Well! What’re you going to do about it?”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Si vedevano abbastanza spesso. A volte, durante le vacanze, Lexington si fermava a casa del suo amico più ricco: Bowring, infatti, viveva in una splendida residenza risalente alla fine del XVII secolo, situata sulla riva del fiume ad Hammersmith. E quando Bowring – un anno o due dopo che Lexington aveva ottenuto la sua borsa di studio – decise di aprire un negozio in Percy Street per vendere mobili antichi, vetri e stoviglie, ebbe successo in modo costante e solido, proprio come accadeva in tutto ciò a cui si dedicava.
+
+A volte Lexington accompagnava Bowring nel suo negozio situato in Percy Street e si interessava ai dettagli di un mestiere così affascinante e complesso.
+
+Questo negozio era una piccola casa interessante, intatta fin dalla fine del XVIII secolo; aveva due bow window e una porta che si apriva direttamente nel negozio stesso, senza alcun corridoio intermedio. La stanza era abbastanza stretta; le finestre erano piene di vecchi oggetti d’argento; gli scaffali all’interno erano decorati con oro e foglia d’oro; c’era un grande tavolo di mogano, due o tre vecchie sedie, e un grosso armadio appoggiato al muro. Una porta sul retro conduceva a un capanno che Bowring aveva costruito nel cortile; lì teneva materiali di scorta, una panca e gli attrezzi necessari per i pochi uomini che impiegava per lavori metallici e riparazioni.
+
+In tutte queste attività di Bowring c'era sia buon gusto che buon giudizio; era tipico di lui il fatto che, tra tutte le cose che avrebbe potuto vendere, ne lasciasse molte non vendute, perché personalmente le desiderava e le teneva per sé. Ora aveva quasi cinquant'anni invece di quaranta ed era ancora single.
+
+Bowring avrebbe capito la passione dello scopritore per la sua scoperta. Avrebbe provato simpatia, avrebbe aiutato. Bisognava cercare Bowring. E Lexington lo cercò.
+
+La settimana seguente, dopo quella lunga veglia nelle sue stanze e dopo aver chiuso a chiave il secondo pezzo d’oro, pranzò da solo con Bowring nella vecchia casa di Hammersmith; le comode panche in stile georgiano riflettevano sobriamente la luce delle candele. Il pasto era finito. Con notevole sforzo, Lexington aveva evitato di parlare dell’argomento che occupava tutta la sua mente fino alla fine del pranzo; aspettava il momento giusto per affrontarlo in modo appropriato e con tutto il tempo necessario, senza rischiare interruzioni da parte dei domestici.
+
+Erano a Madeira (a Bowring non piaceva il porto) quando arrivò quel momento. L’uomo più giovane, con quella schiettezza di cui ho parlato, pensò che un momento così solenne richiedesse qualcosa di drammaticamente semplice. Aveva letto che dichiarazioni del genere dovevano colpire l’ascoltatore con la loro semplicità scenica.
+
+“Lo disse all’improvviso, appoggiandosi allo schienale e guardando il soffitto…”
+
+“Bowring, posso creare oro!”
+
+“Diavolo che puoi!” disse Bowring, senza particolare enfasi. Bevve un sorso di Madeira e a sua volta guardò il soffitto.
+
+“Posso trasformare il piombo in oro”, continuò Lexington, inclinandosi in avanti con maggiore enfasi.
+
+“Trarne profitto!” disse Bowring.
+
+“Bowring,” continuò Lexington, questa volta davvero con serietà, “devo che tu mi ascolti. È importante, e ho bisogno del tuo consiglio.”
+
+“Continua pure,” disse Bowring. “Continua pure.” Era molto gentile e tranquillo al riguardo, e molto disposto ad ascoltare.
+
+“Conosci i componenti fondamentali di questa cosa?” continuò Lexington.
+
+“Beh,” disse Bowring, “so cosa voi chimici chiamate elementi, anche se non capisco quale sia il diritto, ”
+
+Lexington scosse la testa con impazienza.
+
+“No, no, no. Non intendo gli elementi in quel senso. Intendo il problema della trasmutazione dei metalli.”
+
+“Allora confesso che non lo so,” disse Bowring in modo educato. E poi, meno educatamente: “Nessun altro lo sa nemmeno.”
+
+“Ti sbagli”, disse Lexington con fermezza. “Gli elementi del problema sono noti e piuttosto chiari. Pensavo che ogni uomo istruito li conoscesse. Hai mai sentito parlare della teoria moderna dell’atomo?”
+
+“Oh, grazie mille, sì!” disse Bowring, alzandosi dalla sedia con qualche difficoltà e prendendo il bicchiere di Madeira dall’altra parte del tavolo per poterlo passare in giro. “Sì, ho sentito parlare di questa teoria.”
+
+“Capisci cosa intendo per ‘elettrone’?”
+
+“Capisco cosa intendi,” disse Bowring, sedendosi di nuovo e versandosi del vino; poi spinse il decanter verso il suo vicino. “Ma se mi chiedi se credo in tutte queste sciocchezze, no, non ci credo. Voi scienziati vi stancherete presto dei vostri elettroni, e allora troverete qualcos’altro di cui parlare.”
+
+Lexington lo scacciò impazientemente con la mano. Aveva già vissuto situazioni del genere in precedenza.
+
+“Non possiamo approfondire l’argomento, Bowring,” disse lui, con un leggero tono di impazienza. “Chiamala pure una teoria, se vuoi. Comunque, secondo questa teoria, se si riuscisse a rimuovere uno degli elettroni da un atomo di mercurio, si otterrebbe un atomo d’oro, giusto?”
+
+“Brindo a questo”, disse Bowring con solennità.
+
+“Sai,” continuò rapidamente Lexington, “che si può creare un atomo di mercurio partendo da un atomo di litio, se si rimuove un elettrone da quest’ultimo. E sai anche” (parlava ancora più velocemente, per non essere interrotto) “che si può creare un atomo di litio partendo da un atomo di piombo, se si rimuove un elettrone dal piombo.”
+
+“Un gioco da bambini”, disse Bowring. “Tutto dipende dal ‘se’”.
+
+“Beh, ora,” disse Lexington, molto tentato di disegnare un diagramma sulla stoffa ma trattenendosi, “supponendo che con un solo colpo si potessero eliminare tre degli elettroni dell’atomo di piombo, si trasformerebbe, come dice il detto comune, in oro, non è vero?”
+
+“Oserei dire,” disse Bowring, “che sia un peccato fumare con questo Madeira, ma ormai non riesco più a farne a meno. Ne vuoi uno anche tu?”
+
+Lexington scosse la testa. Bowring accese il suo sigaro e poi annuì.
+
+“Vai avanti,” disse lui.
+
+“Certo, in realtà non si trasforma davvero il piombo in oro. Si fa semplicemente sì che l’oro venga prodotto nel luogo dove prima c’era il piombo, proprio come, ”
+
+“Oh, sì,” disse Bowring, “non importa come lo chiamiate. Va bene così. La gente comune, e io con Bobby, lo chiameremo ‘trasformare il piombo in oro’, e possiamo accettarlo così. È quello che avete fatto voi?”
+
+“Sì,” disse Lexington in tono solenne, dopo una breve pausa, abbassando la voce di un’ottava.
+
+“Humph!” disse Bowring. “Beh… cosa intendi fare al riguardo?”
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_03" data-title="The Man Who Made Gold — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/economics,concept/secrecy_and_concealment,concept/fame_and_publicity,concept/reason_and_rationalism,form/satire,form/science_fiction,setting/london"></span>
@@ -3089,6 +3585,70 @@ Lexington nodded. “I’ve done it twice. The conditions were identical. I’m 
 “Now I must ask you a third question. Don’t answer in a hurry. It’s the most important of all. Are you willing to satisfy me by making the transmutation from lead into gold before my eyes? Wait a moment!” he said, holding up his hand to check Lexington’s reply. “Be careful how you answer! So far I have only your word for it. But I believe you. Not only because I know you, but because I know the men in your kind of occupation. You scientists, well I’ve known them say a thousand fantastic and foolish things, but I’ve never known one of them say anything false with regard to actual experiments.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lexington balzò in piedi dalla sedia. Era molto eccitato. Si fermò davanti al fuoco, con le mani nelle tasche dei pantaloni, proprio come faceva sempre quando provava una grande impazienza, sia di parlare che di pensare.
+
+“Vi dirò cosa intendo fare al riguardo, Bowring,” gridò con voce più alta. “Prima di tutto, scriverò a ‘Nature’.”
+
+Il cambiamento in Mr. William Bowring, antiquario e gentiluomo privato, fu sorprendente.
+
+“Che cosa!” gridò lui, alzandosi a sua volta.
+
+“Vai davvero a scrivere di questo su ‘Nature’?” Si appoggiò di nuovo allo schienale della sedia, come se fosse colpito da un improvviso dispero. “Oh, povero randagio, ” disse.
+
+“Perché scrivere di questo su ‘Nature’?”, chiese Lexington, sedendosi di nuovo, piuttosto perplesso.
+
+“Gran Dio! Quell’uomo mi chiede cosa c’è di così speciale nel raccontare tutto al mondo…”
+
+Si alzò di nuovo, fece un passo indietro, alzò un braccio come segnale d’avvertimento e gridò: “Fermatevi! Non so se siate riusciti a produrre oro. Voi scienziati di solito dite la verità, almeno su cose così semplici. Anche se vivete sulla Luna. Se ci siete riusciti, non capite cosa potrebbe succedere?”
+
+“È proprio di questo che sono venuto a chiederti”, disse Lexington, la sua voce iniziava a tremare, ormai completamente sconvolta.
+
+“Mio caro amico, quello che accadrà è questo: se qualcuno venisse a sapere che sei in grado di farlo, e già c’è qualcuno che lo sa, perché sono abbastanza sicuro di essere mortale anch’io, allora sei in pericolo. Se la notizia dovesse diffondersi tra due o tre persone, sei spacciato!”
+
+“Perché, perché?” balbettò Lexington, senza riuscire a parlare chiaramente.
+
+# Elementi della psicologia applicata moderna di Bolter
+
+“Perché — oh, concedetemi la pazienza, cielo! — perché avreste il potere di scuotere e distruggere l’intera nostra civiltà. Perché diventereste un bersaglio per quei pochi uomini potenti che governano il mondo moderno. Perché vi trovereste intrappolati in una rete di tiranni, ognuno dei quali esiterebbe tra uccidervi per non essere distrutto a sua volta e costringervi a condividere i loro beni. Perché, nel peggiore dei casi, sarebbe compito dello Stato fermarvi; e perché, nel caso più grave, sarebbe assolutamente necessario che coloro che oggi sono onnipotenti vi eliminassero al più presto. Ora, capite?”
+
+Ci fu una lunga pausa. Bowring aveva parlato con maggiore passione di quanto Lexington lo avesse mai sentito fare prima; e l’uomo più anziano, in realtà, aveva un po’ paura di aver detto più di quanto fosse opportuno. Tornò alla sua sedia e continuò:
+
+“Non lo so. Non voglio rimproverarti. Ma devo assolutamente farti capire questa cosa. Finora mi hai solo detto che, se ci riesci, se davvero ci riesci, Lexington – e non ti credo mentire – se sei riuscito a farlo, puoi cambiare il mondo. Ma il mondo non permetterà che venga cambiato; almeno i ricchi non lo permetteranno. Non in quel modo. Banche, valute, complicazioni internazionali. Oh, mio Dio!” Appoggiò i gomiti sul tavolo e fissò intensamente il viso di Lexington. “Stai seduto su una tonnellata di dinamite, proprio in questo momento!”
+
+Ci fu un'altra lunga pausa. Poi Bowring continuò, con tono più sommesso, riprendendosi nuovamente.
+
+“Lasciate che vi ponga una o due domande. Dovrei iniziare ringraziandovi per avermi reso vostro confidente. È un grande onore. Ma anche una grande responsabilità. Non mi troverete ingrato, né traditore.”
+
+“Spero proprio di no!”, disse calorosamente Lexington.
+
+“Beh,” rispose Bowring, ancora più calmo, “prima o poi immagino che scoprirete quale rischio avete corso raccontandomelo. Ma l’avete fatto, e ora vorrei farvi una o due domande, se non vi dispiace. Naturalmente, non dovrete rispondere se non lo desiderate.”
+
+Lexington annuì.
+
+“Prima di tutto, il vostro costo di produzione si avvicina a quello dell’oro? Il costo dell’oro è, approssimativamente, 4 sterline all’oncia. Riuscite davvero a ottenere un’oncia d’oro da un’oncia di piombo, ”
+
+“Poco meno di un'oncia d'oro,” corresse Lexington.
+
+“Tut, tut! Un’oncia d’oro, dico io… per una cifra decisamente inferiore ai 4 sterline?”
+
+“Al momento,” rispose Lexington, enfatizzando le parole con precisione, “non mi costa nulla. Più tardi, dopo i primi centinaia di libbre, ” — (“Quell’uomo parla sempre in termini di centinaia di libbre,” mormorò Bowring) — “potrebbe costare qualcosa. Non so esattamente quanto. Dovrò pensarci meglio. Ma immagino, non dirò di più, che, considerando il costo di alcuni materiali di cui parlo, il reagente, ”
+
+“Cos’è quello?” disse Bowring.
+
+“Ah, immagino che si possa definire ‘il materiale con cui si produce l’oro’. Beh, a meno che il reagente non richieda qualche elemento molto costoso, il che è improbabile, il suo valore sarà soltanto una piccolissima frazione di quello dell’oro prodotto. Posso dirvi che, in termini di peso, il reagente rappresenta al massimo un centesimo – non l’ho ancora misurato con precisione – forse uno o cinquecentesimi del peso originale del piombo. E a meno che nelle mie ulteriori ricerche non scopra che sia necessario qualche elemento o processo molto costoso, ” Poi si fermò di colpo. Si rese conto che, continuando così, avrebbe ammesso apertamente di non disporre di una quantità illimitata del reagente; e già – tale è il potere dell’oro sulle menti degli uomini – iniziava a perdere la sua onestà.
+
+“Lo scoprirò tra un giorno o due,” disse, con maggiore noncuranza. “Comunque, per il momento so esattamente dove mi trovo. E posso procedere con grande fiducia. Ho già detto ‘centinaia di chili’. Non so esattamente quanti; ma molti, sicuramente.”
+
+“Beh, non voglio interrogarti su questo argomento. È una tua faccenda,” disse Bowring. “E mi assicuri che sia davvero così economico? Questo era il primo punto da verificare. Con il piombo a 20 sterline alla tonnellata e l’oro a 4 sterline all’oncia, esiste quello che nel mondo degli affari chiamiamo un margine di sicurezza.” Sorrise – un sorriso ampio e deciso.
+
+Ora, voglio farvi un’altra domanda: avete verificato il risultato in modo che non ci siano più dubbi alcuni?
+
+Lexington annuì. “L’ho fatto due volte. Le condizioni erano identiche. Sono certo che si potrebbe ripetere quante volte si vuole.”
+
+“Ora devo farvi una terza domanda. Non rispondete affrettatamente; è la più importante di tutte. Siete disposti a soddisfare la mia richiesta, compiendo la trasformazione del piombo in oro davanti ai miei occhi? Aspettate un momento!” disse, alzando la mano per attendere la risposta di Lexington. “Pensate bene prima di rispondere! Finora ho solo la vostra parola. Ma vi credo. Non solo perché vi conosco, ma anche perché conosco le persone del vostro mestiere. Voi scienziati, beh, so che avete detto mille cose fantastiche e assurde, ma non ho mai sentito nessuno di voi dire una bugia riguardo agli esperimenti reali.”
+
 
 
 <span class="atom-split" data-atom="chapter_05--part_04" data-title="The Man Who Made Gold — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,concept/economics,concept/money_gold_greed,concept/secrecy_and_concealment,concept/capitalism,form/satire,form/science_fiction,setting/london"></span>
@@ -3142,6 +3702,56 @@ Bowring nodded. “Don’t you see the electric heater?”
 
 “I’m your man,” said Bowring. He stretched and yawned. They went off to sleep. Nor was a word put down in writing by either of them, when each was alone, save the one word “London” under the date of Wednesday, 20th February, in Lexington’s little note–book, and the two words “fifty-fifty” on Bowring’s cuff.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Grazie,” disse Lexington, in tono piuttosto asciutto.
+
+“No, non sto facendoti un complimento. Sto parlando di affari, e su questo punto siete le persone più oneste al mondo. Il motivo per cui vi ho chiesto se voleste farlo davanti ai miei occhi e a mio soddisfazione – ma, attenzione, non lo sto pretendendo affatto – è un buon motivo pratico e commerciale. Voi mi avete già detto di saperlo fare; io conosco il segreto del vostro potere e vi ho spiegato quanto pericoloso possa essere questo sapere. Io capisco il mondo degli affari e ci faccio abbastanza bene. Ho un commercio che si adatta perfettamente a queste cose: vendo ogni giorno placche d’oro, ornamenti, tazze, statuette, piatti. E ora vi farò una proposta.”
+
+Ci fu un'altra pausa; durante quella fase, entrambi gli uomini iniziarono a muovere i piedi, come fanno gli uomini quando stanno per negoziare qualche accordo.
+
+#Continuò Bowring:
+
+“La mia proposta è questa: quando avrò ottenuto prove concrete del fatto che siate in grado di farlo, propongo che entriamo in un'alleanza stretta. Non la chiamerò partnership, perché sarebbe assurdo scrivere anche solo una parola al riguardo su carta. Infatti, se non fossi certo dei miei collaboratori, e se pensassi che qualcuno potesse aver ascoltato le nostre conversazioni, beh, allora saremmo entrambi nei guai. Quindi, propongo che entriamo in un'alleanza stretta. Comunque sia, siamo già legati l’uno all’altro dalla conoscenza comune che possediamo, e dal pericolo potenziale che rappresenta tutto ciò per entrambi. Voi produrrete l’oro in modo riservato, all’inizio in piccole quantità. A me capita di acquistare metalli preziosi di tanto in tanto; naturalmente compro e vendo sempre oggetti d’oro e d’argento. Inoltre, ho bisogno di utilizzare oro e argento per realizzare lavori di montaggio e copie, quindi non ci sarebbe nulla di strano se piccole quantità d’oro passassero tra le mie mani, soprattutto all’inizio. Potremmo espanderci gradualmente, agendo con discrezione. Man mano che la nostra attività crescerà e inizieremo a vendere su scala più ampia, potremo utilizzare sempre più oro. Arriverà il momento in cui acquisterò apertamente sul mercato grandi quantità di metallo prezioso, e allora sarà del tutto normale, e non desterà alcuna attenzione, se gestiremo ciò che compro io, oltre a molto altro che fornirai tu. L’intero piano può essere gestito con cautela e precisione. Dovremo lasciare che siano le circostanze a guidarci nei dettagli, ma questa è la linea generale del nostro piano. Per quanto ne so, non ci sono difetti in questo approccio.”
+
+Smise di parlare.
+
+È sorprendente con quale rapidità gli affari entrino nella coscienza di una persona che prima non vi aveva mai avuto a che fare e che, per la prima volta, si imbatte nel loro fascino. Mentre Bowring parlava, Lexington già rimpiangeva quelle parole, dalle quali si poteva dedurre che non sapeva nulla sulla produzione di quella sostanza strana e pericolosa: quel materiale cristallino, marrone e traslucido, quel cilindro chiuso a chiave nella sua cassaforte, nelle sue stanze a St. Olaf’s.
+
+A sua volta, parlò lentamente e con enfasi.
+
+“Sì, Bowring, sono d’accordo; ma voglio porre una condizione. Vi mostrerò il processo, naturalmente: avverrà davanti ai vostri occhi, e potrete assistervi tutte le volte che vorrete. Ma la mia condizione è che io possa tenere per me il segreto della sostanza reagente con cui riesco a eliminare quegli elettroni in eccesso.”
+
+Bowring esitò per un momento. Fino ad allora era stato un buon amico; ma gli affari sono affari. Rapidamente valutò la situazione nella sua mente: se fosse stato lui a possedere quella chiave, sarebbe diventato come un dio. Ma non poteva costringere Lexington a consegnargliela. Avrebbe potuto distruggere Lexington, ma in quel caso avrebbe distrutto anche se stesso. È una situazione che si presenta centinaia di volte al giorno nel delizioso mondo degli affari: decidere se sia più vantaggioso arrendersi o minacciare, piegarsi o ricattare. Bowring prese la sua decisione in molto meno tempo di quanto ne sarebbe servito per esprimerla a parole.
+
+“Certo che sono d’accordo,” disse gentilmente. “È del tutto ragionevole. È il tuo bene, no? Non farò domande su come tu abbia ottenuto quel talismano o su cosa sia esattamente. Mi impongo soltanto di vederlo funzionare almeno una volta.”
+
+“Grazie!” rispose Lexington. E provò un grande sollievo.
+
+Bowring guardò l’orologio.
+
+“È tardi,” disse. “Devo andare a letto presto, come immagino tu sappia. Ho bisogno di molto sonno. Gli ultimi trenta minuti sono stati davvero emozionanti. Vuoi ancora un po’ di vino?”
+
+“No,” disse Lexington.
+
+“Quando avremo quell’esame, e dove?”, ripeté Bowring.
+
+Lexington consultò il piccolo taccuino che portava con sé.
+
+“Ho un giorno libero il prossimo mercoledì,” disse. Poi esitò. Si chiedeva quale fosse la scelta più sicura tra due opzioni: portare Bowring a St. Olaf’s, il che significava che il suo compagno avrebbe saputo dove si trovavano le cose preziose, oppure portarle personalmente in città. Bowring aspettò pazientemente finché lui non prese una decisione.
+
+“Verrò qui, a casa tua, il prossimo mercoledì. Arriverò con il treno del mattino, pranzerò con te e poi, dopo pranzo, quando ci sarà molta luce di giorno, farò quello che devo proprio sotto le tue finestre. Hai la corrente elettrica?”
+
+“Non vedi il riscaldatore elettrico?” disse Bowring annuendo.
+
+“Era fuori, quindi non me ne sono accorto.”
+
+“Preferisco sempre la griglia aperta e la uso regolarmente, ma tengo quel fornello nell’angolo come riserva. Quest’inverno fa davvero un freddo terribile.”
+
+“Molto bene,” disse il signor Lexington, riponendo il suo portafoglio. “È deciso. Sarò qui prima di pranzo mercoledì, e dopo pranzo lo faremo proprio lì, vicino a quella finestra, dove nessuno potrà vederci tranne gli uccelli nel tuo piccolo giardino.”
+
+“Sono il tuo uomo,” disse Bowring. Si stiracchiò e sbadigliò. Poi andarono a dormire. Nessuno dei due scrisse nulla quando rimase solo: tranne quella parola “Londra” sotto la data di mercoledì 20 febbraio, nel piccolo taccuino di Lexington, e quelle due parole “cinquanta-cinquanta” sul polsino di Bowring.
 
 
 
@@ -3209,6 +3819,68 @@ As to the place, Bowring was quite clear on that, though he did not care to give
 Would Lexington, by the way, as the crucible was here in town, come back in a day or two and make the first good solid amount? No. Lexington thought it would be better on the whole for him to go back, where he had all his things about him. After all, so long as he gave Bowring the gold, that was all that was wanted, wasn’t it?
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO V
+
+Il mercoledì era arrivato.
+
+Le tazze di caffè erano ancora sul tavolo, così come il piccolo decanter di brandy; i sigari erano stati fumati per metà, e Bowring aveva detto al servitore che era entrato per raccogliere le cose: “Il signor Lexington ed io dobbiamo parlare d’affari, quindi potrebbe aspettare finché non suono? Potrebbero volerci un’ora.”
+
+Bowring aveva deliberatamente chiuso a chiave la porta. Lexington aprì la piccola custodia di pelle quadrata che aveva tenuto accanto a sé per tutta la durata del pasto. Bowring, che non dimenticava mai nulla, tirò da un cassetto un pezzo di feltro spesso che aveva messo lì poco prima di pranzo apposta per quell’uso. Lo stese su un piccolo tavolo robusto, proprio sotto la luce della finestra. Il giardino al di là era deserto e inaccessibile, se non attraverso la porta del suo studio. Le finestre posteriori delle case lontane non rappresentavano alcun pericolo.
+
+Su quel pezzo di feltro spesso posato sul tavolo, Lexington mise il crogiolo munito della sua estremità dotata di filo flessibile e del tappo all’altro capo. Aspettò la mossa successiva.
+
+A sua volta, Bowring tirò fuori dalla tasca un pezzo di piombo tritato, del peso di al massimo quattro o cinque once.
+
+“Non ho intenzione di preoccuparmi,” disse. “Penso che la situazione sia abbastanza chiara. Mi è stato assicurato che si tratta di piombo puro, fornito da un ottimo commerciante, da cui l’ho acquistato ieri stesso; quell’uomo non mi conosce affatto. Ho creduto alla sua parola, proprio come credo alla tua. E non c’è bisogno di preoccuparsi dei pesi esatti. Ora procediamo. Immagino che la prima cosa da fare sia mettere il piombo nel crogiolo, giusto?”
+
+“Sì,” disse Lexington.
+
+Bowring la inserì. Lexington applicò il tappo, e il forno iniziò a brillare intensamente. I due osservarono ciò che accadeva in silenzio, finché Bowring quasi disse: “Quando lo farai, ”, poi si trattenne. Lexington rispose scuotendo la testa e dicendo: “Che momento straordinario; vedrai tu stesso.”
+
+Quel piccolo grumo di piombo tritato era già viscoso; ora era completamente fuso. Il bagliore del suo calore li investì mentre guardavano all’interno di quella piccola cavità.
+
+Allora Lexington, con estrema cura, estrasse da una tasca del gilet un piccolo portafoglietto e ne tirò fuori un rotolo di carta assorbente. Lo aprì, e Bowring vide all’interno un minuscolo frammento marrone; poteva avere le dimensioni della testa di un piccolissimo gioiello, ma non aveva forma regolare né era sferico. Era semplicemente un pezzetto di materiale. Lexington lo prese con estrema cautela tra il dito indice e il pollice, lo avvicinò alla massa fusa e iniziò a strofinarlo fino a ridurlo in una fine polvere, che poi cadde nella coppa di piombo sottostante. Una volta fatto ciò, si pulì le dita per assicurarsi che non rimanesse nemmeno un granello di polvere; quindi abbassò la mano e osservò il risultato. E Bowring lo guardava insieme a lui.
+
+Poco a poco iniziò la trasformazione. Prima di tutto – e questa fu la fase più lunga del processo – apparve gradualmente un tocco di viola nel colore grigio-bianco brillante; poi si intrecciarono vortici di vari colori, simili a quelli che l’olio forma sulla superficie dell’acqua; infine questi colori si fusero in vortici più grandi di un verde che divenne gradualmente più chiaro, fino a quando non fu completamente assorbito dal brillante giallo-rossastro del compost nel suo insieme. Proprio nel momento in cui il colore divenne omogeneo e intenso, simile al bagliore di un sole splendente che filtra attraverso una nebbia, Lexington allungò un braccio, spense rapidamente l’interruttore, si appoggiò allo schienale con un sospiro e disse:
+
+“Ecco fatto!”
+
+Bowring non rispose nemmeno una parola.
+
+“Beviamo insieme un bicchiere mentre si raffredda?” disse Lexington.
+
+Bowring scosse la testa.
+
+“Aspetta un attimo,” disse. “Voglio vederlo.”
+
+Fu un’attesa lunga: stare in quella stanza calda ad aspettare che quel nuovo e strano prodotto si raffreddasse. Durante l’attesa, nessuno dei due disse una parola. Fu una situazione stressante per entrambi. Ma gli affari sono affari. Bowring era deciso a ottenere le informazioni di cui aveva bisogno, e una combinazione di buon senso e orgoglio fece sì che anche il suo compagno fosse altrettanto determinato a garantirgli che ciò avvenisse.
+
+Finalmente, Bowring allungò la mano sinistra verso un armadietto a cui poteva raggiungere, e tirò fuori un piccolo termometro, insieme a una scatolina contenente tutto ciò di cui aveva bisogno per il passo successivo. Dopo aver verificato, con due o tre controlli, che quel piccolo pezzo di metallo giallo fosse abbastanza raffreddato da poter essere maneggiato, e che lo stesso valeva per il crogiolo, procedette con i test. I risultati furono decisivi. Ne fu felice.
+
+“Bene,” disse alzandosi, “è finita qui. Vi ho detto che credevo in voi. Ma doveva essere fatto, non è vero?”
+
+“Hai perfettamente ragione,” disse Lexington.
+
+“Siamo diventati più ricchi di venti sterline.”
+
+“Sei tu quello che ne ha guadagnato di più”, disse Lexington. “È stata la tua mossa a portare a questo risultato”.
+
+“Sì, ma era roba tua,” disse Bowring. Dopo una pausa aggiunse: “Diciamo che sia metà per uno? Metà delle profitti che otterremo?”
+
+Lexington ne sarebbe stato molto felice. Non gli importava nulla; davanti a lui c’era una ricchezza inesauribile.
+
+E così, grazie a una reciproca generosità di natura cordiale, l’affare si concluse.
+
+I due uomini potevano ora elaborare i loro progetti futuri. Questi erano abbastanza semplici. Restava solo un punto da definire: dove dovrebbero svolgersi le future attività di questo tipo? In quali quantità? E sotto quali garanzie?
+
+Per quanto riguarda l’importo, era abbastanza semplice da stabilire: all’inizio non più di due libbre a settimana. Poi, dopo alcune settimane, potevano discutere dell’aumento del ritmo di consegna.
+
+Per quanto riguarda il luogo, Bowring era abbastanza chiaro al riguardo, anche se non voleva fornire tutti i motivi. Doveva lasciare che fosse Lexington a decidere, e preferibilmente che avvenisse nelle stanze di Lexington, almeno nei primi stadi dell’operazione. Dopotutto, un’ora o due una volta alla settimana sarebbero state sufficienti. Lexington l’aveva già fatto in privato a St. Olaf’s in passato: poteva farlo di nuovo. Non ci sarebbe stato il rischio che qualcuno facesse troppe domande nel negozio dell’antiquario. Inoltre, andare in città una volta alla settimana per vedere un amico era del tutto normale. Oppure Bowring poteva recarsi occasionalmente a St. Olaf’s, così da non sembrare troppo regolare. O potevano incontrarsi di tanto in tanto durante una passeggiata, e non all’università. Finché l’oro veniva consegnato in piccole quantità, tutto sarebbe andato bene. C’era abbastanza tempo per decidere cosa fare in seguito, quando la produzione avrebbe dovuto essere ampliata.
+
+A proposito, pensava che Lexington, essendo qui in città come luogo ideale per l’azione, potesse tornare tra un giorno o due e ottenere una somma considerevole? No. Lexington riteneva che fosse meglio per lui tornare dove aveva tutte le sue cose. Dopotutto, finché avesse dato l’oro a Bowring, quello era tutto ciò che si voleva, no?
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_02" data-title="The Man Who Made Gold — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/money_and_gold,concept/economics,concept/money_gold_greed,concept/deception,form/satire,form/science_fiction,setting/london,setting/rural_england"></span>
@@ -3248,6 +3920,42 @@ Lexington asked to hold it again for a moment, and weighed it in his hands.
 
 “You’re very close,” said Bowring. He took it back and balanced it in his turn in his hands. “As a matter of fact it just turns the scale at nineteen. I shall ask five hundred for it — and I shall get it.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Sì, era proprio quello che si voleva. E così, con reciproca cortesia e nel migliore dei modi, questi attenti partner iniziarono la loro grande impresa.
+
+La prossima settimana, ventiquattro once di peso, con la forma di metà di un uovo di anatra, viaggeranno verso Londra sul treno espresso, tenute saldamente nella tasca del cappotto della mano sinistra di quell’uomo che i suoi compagni di viaggio sospettavano fosse paralizzato, o forse nascondesse l’estremità di un arto frantumato in guerra: perché quella mano sinistra non lasciò mai la tasca per tutto il tragitto. La destra, invece, lavorava duramente fino a quando il taxi non si fermò davanti alla casa a Hammersmith.
+
+Una settimana dopo, il signor Bowring e il suo giovane amico si incontrarono in una locanda a pochi chilometri dall’università: uno stava pranzando lì, mentre l’altro si trovava per caso di passaggio, diretto verso le province con la sua auto. Ancora una settimana dopo, il signor Bowring ebbe il piacere di visitare St. Olaf’s. La settimana successiva, l’ultima prima della fine del semestre, fu l’occasione per il giovane amico di recarsi in città. Con l’inizio delle vacanze, il signor Lexington – che tutti compiangevano per lo shock terribile subito alla morte del suo studente preferito all’inizio del semestre, e la cui forza d’animo nel proseguire con la sua routine quotidiana senza interruzioni aveva meritato i più alti elogi – fu convinto dal rettore a prendersi una lunga vacanza. Infatti, il signor Bowring aveva parlato in merito al rettore nella veste di suo amico e consigliere; e il rettore aveva acconsentito con entusiasmo.
+
+“Non suggeritegli di fermarsi da qualche parte,” disse il signor Bowring con sufficiente rispetto, ma con l’ tono di chi sa bene di cosa parla, “è ancora giovane e gli piace camminare. So che non ha un’auto, ma gli piace muoversi a piedi, ed è meglio per lui. Lasciatelo fare una bella passeggiata durante Pasqua.”
+
+“Certo che glielo chiederò,” disse il Presidente con calore. “È abituato ad avere un grande peso nelle decisioni. Solo l’anno scorso ha intrapreso un lungo viaggio in Germania, nella regione della Ruhr, un luogo che preferisce di gran lunga all’Italia.”
+
+“Oh, non lo lascerei andare all’estero,” disse precipitosamente il signor Bowring. “Non credo che andare all’estero sia affatto saggio quando i nervi di una persona sono un po’ tesi. No, nemmeno in Germania, che naturalmente preferirebbe. Dobbiamo aspettare che le sue condizioni migliorino, signor Presidente. Potrebbe andare nell’Ovest della Inghilterra e semplicemente vagabondare, ”
+
+“Glielo chiederò io stesso,” disse il Rettore del Collegio, stringendo calorosamente e con gratitudine la mano del signor Bowring. “Sono sicuro che sarà d’accordo con le nostre opinioni. Sembrate proprio un fratello maggiore per lui.”
+
+Il fratello maggiore si scusò modestamente di non provare altro che affetto naturale per un vecchio amico; e così, una mattina luminosa di marzo, il signor Lexington partì, dirigendosi verso ovest, con come meta Somerset, o forse Wiltshire. Non importava dove. Ma cosa dire riguardo al perseguimento del potere? Molto discretamente, lontano da orecchie indiscrete, pose questo dilemma al suo socio più anziano, il quale lo risolse con la solita rapidità e saggezza.
+
+“Dite che non potete prendere una camera da letto in un ostello se non hanno un riscaldamento elettrico. Dite che i camini a carbone causano l’asma. Troverete sicuramente molte stanze del genere.”
+
+Il signor Bowring aveva ragione. Il signor Lexington ne trovò uno sulla linea principale del Great Western il terzo giorno del suo piccolo viaggio. Fu contento di poterlo utilizzare, perché il suo grande zaino era insolitamente pesante; ma lui era una persona meticolosa e si era fornito di abiti di ricambio in abbondanza, pantofole per la sera, e altro ancora, oltre a un crogiolo, un flex e un tappo, nonché un piccolo sacchetto di piombo tritato.
+
+Al terzo giorno dopo essere arrivato in questa locanda, il signor Lexington noleggiò una vettura – ormai se lo poteva permettere – e si diresse verso l’ampio incrocio situato a dieci miglia di distanza, per prendere il treno diretto a Londra con un biglietto giornaliero. Poteva anche permetterselo. E poiché ora se lo poteva permettere, diede al conducente una generosa mancia, senza alcun motivo apparente. La sua mano sinistra era ancora immersa nella tasca del suo grande cappotto. Arrivò a Hammersmith in tempo per pranzo; trovò Bowring di ottimo umore, mentre lavorava con cura a un pezzo davvero bellissimo: una copia di una piccola coppa d’oro realizzata nei Paesi Bassi nel XVII secolo. Era molto orgoglioso della abilità dei suoi artigiani; esaminò attentamente ogni dettaglio del lavoro, passando delicatamente un dito sulle figure incise, e pregò Lexington di ammirarla con lui. Il quale lo fece senza esitazione, anche se non aveva ancora tolto il cappotto e continuava a tenere la mano sinistra nella tasca.
+
+“Non è forse un trionfo?” mormorò Bowring. “In nessun altro posto di Londra si riuscirebbe a ottenere questo risultato. Pelletier avrebbe potuto farlo,” continuò pensieroso, “ma Pelletier è difficile da gestire. Mio uomo Nowell, invece, è semplice e affidabile, almeno quando si tratta di copiare qualcosa. È curioso: questi ragazzi prendono un modello perfetto e lo modificano appena, con genialità, in modo che non si noti alcuna differenza rispetto all’originale; ma se gli chiedi di creare un disegno originale, è inutile. E uno talento del genere si può comprare a soli otto sterline a settimana!”
+
+Lexington prese il manoscritto tra le mani; era davvero molto ben realizzato. Non si vantava di essere un esperto in queste cose, ma aveva visto abbastanza opere olandesi di quel periodo per poter valutare con precisione la fedeltà della riproduzione. Bowring lo prese indietro quasi con gelosia.
+
+“Non mento su queste cose,” disse, ridendo leggermente, “proprio come tu non menti sulla tua scienza. Non ne vale la pena, e rappresenta un peso per la coscienza, per non parlare della legge. Non dirò loro che è un oggetto originale; lo venderò come una copia. Ma anche solo come una copia, è sorprendente quanto si possa guadagnare con queste cose.” Lo sollevò tra le mani. “È una copia esatta della tazza ‘Nassau Baby’ – così la chiamano gli americani nei loro cataloghi” – e rise di nuovo, felice di quel nome.
+
+Lexington chiese di tenerlo ancora per un momento e lo pesò tra le mani.
+
+“Sotto venti once,” disse. A quel punto ormai si era abituato a fare stime approssimative di quel tipo.
+
+“Sei molto vicino,” disse Bowring. Prese l’oggetto e lo tenne in equilibrio tra le mani. “In realtà, con questo il peso raggiunge esattamente diciannove. Ne chiederò cinquecento, e me lo faranno avere.”
 
 
 
@@ -3307,6 +4015,60 @@ Next week he brought the full thirty ounces weight. The routine was gone through
 “Really I don’t know,” said Bowring, shortly in his turn. “I’ve not thought about it yet. I mix it, of course, and there’s the alloy to be considered, and all that business. And I don’t profess to trace exactly where each ounce of the stuff goes to. It all works in. I shouldn’t wonder,” he added, in a rather more conciliatory tone, “if some of it were not used for the chain that they’re ordering from Saltminster. It’s not a copy this time; it’s to be done to a pattern which the Corporation are sending me.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lexington fece rapidamente i calcoli nella sua testa: “19 once = 76 sterline. 76 sterline divise per 500 fanno sei volte e qualcosa in più. Bowring ha guadagnato oltre 6 sterline per ogni sterlina di oro; lui, Lexington, ne ha ottenute soltanto 10, — Humph!”
+
+“By the way,” disse ad alta voce, “prima di andare oltre, ” E tirò fuori dal taschino quel pezzo di stoffa stretto tra le dita. Scartò il foglio di carta e lì c'era, l’uovo a metà.
+
+“Sono poco più di ventiquattro once,” disse.
+
+“Grazie,” disse Bowring. E procedette con la routine ormai familiare per loro: chiuse a chiave la porta, prese le bilance dal armadio, pesò con attenzione il metallo e poi disse: “Grazie, Lexington. Tu ne controllerai l’accuratezza, vero?”
+
+“Va bene,” disse Lexington annuendo. “Ventiquattro once, quattro pennyweight, appena sufficienti.”
+
+“Beh, chiamiamoli ‘quattro pennyweights’”, disse Bowring con noncuranza. “Ventiquattro once, quattro pennyweights.” Fece un altro rapido calcolo sul foglio e poi contò alcune banconote, scelte in modo apparentemente casuale e non consecutive. Quaranta sterline suddivise in banconote da una sterlina e alcune da dieci scellini. Poi frugò nella tasca dei pantaloni e tirò fuori qualche moneta sparsa; con cura posizionò tre scellini e otto pence in argento e bronzo sopra il foglio.
+
+“Ecco,” disse. “Avete visto il prezzo dell’oro stamattina?”
+
+“No”, disse Lexington con noncuranza. “Mi fido della tua parola”.
+
+“Ebbene, eccolo qui,” disse Bowring con precisione, prendendo il foglio e indicando la riga in questione. “Non vuoi verificarlo tu stesso?”
+
+“No, va tutto bene,” disse Lexington. “So che costa circa quattro libbre e quattro scellini all’oncia. Quella è la mia metà, giusto?”
+
+“Questa volta ne hai portato un po’ in più,” disse Bowring.
+
+“È stato un incidente. Per caso ho usato un po’ più di materiale. Ma penso che possiamo iniziare ad aumentare, no?” C'era uno sguardo piuttosto ansioso nei suoi occhi mentre lo diceva. Voleva aumentare. Questa nuova fonte di reddito gli stava diventando familiare, e stava generando nuove esigenze. Gli piaceva avere spazio a disposizione. Ne voleva di più.
+
+“Non vedo perché non dovremmo farlo,” disse Bowring. “La prossima volta potete metterne trenta once, se volete, ma niente di più.”
+
+Lexington annuì.
+
+Non diedero alcuna ricevuta. Questo era chiaro tra loro. Inoltre, Bowring accese un fiammifero, bruciò quel piccolo pezzo di carta su cui aveva fatto i suoi calcoli, schiacciò un po’ le ceneri e le gettò nel camino.
+
+“Ti fermerai a pranzo?” disse. “Non lo farai? Vieni poi da noi in negozio, okay?”
+
+“No, grazie,” disse Lexington. “Penso che prenderò il treno di ritorno dell’alba.” Poi riprese la tazza e la esaminò più da vicino. “È sicuramente un pezzo davvero bello. Ma davvero ne guadagnate cinquecento sterline, per soli diciannove once d’oro?”
+
+“Nessun dubbio al riguardo,” disse Bowring con decisione. “Lo avrò questa settimana. Ci sono almeno tre persone che cercheranno di ottenerlo. Lo metterò in un posto dove possa essere visto chiaramente. Apposerò anche un’etichetta ben leggibile, in cui indicherò chiaramente che si tratta di una copia, come ho detto.”
+
+“Beh, immagino che ne valga la pena,” sospirò Lexington.
+
+“Oh, certo!” rispose l’altro. “Bisogna considerare anche la conoscenza necessaria per farlo. Immagino che Nowell abbia impiegato almeno dieci giorni; è una persona molto meticolosa. Comunque, calcolando due settimane, si arriva a sedici sterline.”
+
+Calò il silenzio. Entrarono nella stanza accanto per pranzare e parlarono di altre cose; Lexington tornò con mille pensieri che gli affollavano la mente. Durante quelle due ore trascorse in treno, questi pensieri si erano diffusi, fioriti e sviluppati, ma contenevano anche delle “spine”.
+
+Tenendo conto delle spese di gestione, quei cinquecento, per meno di ottanta sterline di oro, rappresentavano una somma davvero ingente. Avrebbe voluto occuparsi lui stesso del commercio degli oggetti antichi, anche solo di quelli falsi. Nel suo cervello c’era un senso di disagio e di lamentela, sebbene non del tutto consapevole. Quel sentimento sarebbe inevitabilmente emerso in superficie. E infatti era già comparso prima che raggiungesse l’incrocio. Quando l’auto lo riportò all’ostello, lui era ormai un uomo pieno di rancore.
+
+Lui, Lexington, aveva appena intascato quasi cinquanta sterline. Niente male per un lavoro di una settimana, o meglio, per un’ora di lavoro in una settimana. Ma aveva anche dovuto impegnarsi e correre dei rischi. Chissà se proprio quel denaro rappresentava l’oro che aveva consegnato tre settimane prima all’inizio della nuova partnership. Cosa sarebbe successo a quell’oro? Non lo sapeva. Bowring non gli aveva detto nulla al riguardo. Probabilmente avrebbe fatto fondere quel metallo. Sicuramente era necessario farlo. Lui se n’era dimenticato. In questo modo l’oro avrebbe potuto essere utilizzato in modi diversi: poteva apparire sotto forma di cucchiai o di piatti. La prossima volta che avesse visto Bowring, gli avrebbe chiesto spiegazioni su queste cose. Dopotutto, una divisione equa del guadagno era assurda. Perché mai Bowring avrebbe dovuto ricevere il cinquanta per cento del materiale senza alcun costo? Lui non ci riusciva. E lui, Lexington, in tutto questo cosa c’entrava?
+
+La prossima settimana portò con sé il peso complessivo di trenta once. La routine fu seguita come al solito. Ma questa volta, quando Bowring gli propose di restare a pranzo, come faceva sempre, lui rifiutò in modo ancora più deciso.
+
+“Devo sbrigare delle cose in città,” disse, piuttosto brevemente. “A proposito, Bowring, potresti dirmi cosa ne pensi di fare con quel particolare oro che ho portato oggi? So bene che non ho il diritto di chiederlo, ” aggiunse, con esitazione; non gli piaceva incrociare lo sguardo del suo compagno e distolse leggermente lo sguardo, ma continuò: “So bene che non ho il diritto di chiederlo. Ma mi interessa semplicemente sapere.” (Rispose con una risatina.) “Dopotutto, sono io a fornire la materia prima, no?” (Rise di nuovo.)
+
+“Onestamente non lo so,” disse Bowring, a sua volta in modo laconico. “Non ci ho ancora pensato. Certo, io miscelo i materiali e bisogna considerare anche l’aspetto dell’alluminio utilizzato, insomma tutte queste cose. E non pretendo di sapere esattamente dove vada a finire ogni singola oncia di questo materiale. Tutto funziona comunque. Non dovrebbe sorprendermi,” aggiunse in tono più conciliante, “se parte di esso venisse utilizzato per la catena che stanno ordinando da Saltminster. Questa volta non si tratta di una copia; deve essere realizzata secondo un disegno che la Corporazione mi sta inviando.”
+
 
 
 <span class="atom-split" data-atom="chapter_06--part_04" data-title="The Man Who Made Gold — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_gold_greed,concept/deception,concept/self_deception,form/satire,form/science_fiction"></span>
@@ -3344,6 +4106,40 @@ At the other end of the wire Bowring was coming to conclusion upon conclusion; a
 
 It took him perhaps five minutes to clinch down that new certitude. Then he put it away in the back of his mind to be produced at the right time and went off to stroll through the dark to his Club, change his clothes there, dine early and go to the play.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Oh,” disse Lexington.
+
+“Non ha alcun valore antico,” continuò Bowring. Aveva contato i soldi di Lexington e rimesso il portafoglio in tasca. “Ma ovviamente c’è la qualità della lavorazione. Non riesco proprio a capire quale sarà la sua importanza complessiva. Vi dirò dopo, se volete.”
+
+“Sì, fallo pure. Non ho dubbi che te la caverai bene. E sei fortunato ad avere una tale conoscenza del mestiere.”
+
+#Perché no? Ci sono voluti anni per costruirlo.
+
+“Sì, lo so, lo so.” E con queste parole si separarono.
+
+Ma per tutto il tragitto di ritorno in treno, quel giorno, ancora una volta e molto più chiaramente, il suo risentimento emerse davanti a lui. Perché doveva essere messo da parte? Perché doveva sempre rimanere in secondo piano, ricevendo solo metà di ciò che derivava dal proprio “monopolio”? Si chiedeva, in modo ignorante ma arrabbiato, quale valore aggiunto potesse avere tutto quel denaro quando veniva inserito in quella catena commerciale, il 200%, il 300% in più? Comunque fosse, lui non avrebbe ricevuto nemmeno una parte di quei profitti.
+
+La sua mente continuava a girare in questo circolo vicioso, tanto che dormiva male. Due volte, nelle ore di veglia della notte, aveva deciso di scrivere e iniziare a spiegare tutto; due volte poi aveva cambiato idea. Con l’arrivo della mattina, si sentiva esausto. Restavano solo due settimane di vacanza. Non avrebbe più avuto il tempo di dedicare tutto se stesso a questa nuova impresa importante, una volta iniziati i corsi, con gli studenti e le lezioni da tenere. Sarebbero trascorsi almeno un anno prima che potesse dimettersi. E sembrava che fosse Bowring, e non lui stesso, ad avere il controllo su tempi e modalità con cui aumentare la propria produzione e incrementare i propri guadagni. Quei guadagni dovevano essere maggiori, molto maggiori.
+
+In quel giorno così noioso, rimuginò continuamente su quella questione. Nel corso delle giornate successive, un piano iniziò lentamente a prendere forma nella sua mente. Un piano non molto sofisticato, certo; chissà, Lexington non era certo una persona particolarmente astuta. Ma il suo risentimento aveva ormai attecchito profondamente. Al terzo giorno mise il suo piano in atto. Quella stessa notte riempì completamente il piccolo crogiolo con piombo, molto più di quanto fosse stato necessario prima, e aggiunse anche una quantità maggiore di quella preziosa polvere marrone. La mattina seguente, nascose quasi cinquanta once d’oro addosso a sé stesso, tenendole gelosamente con sé.
+
+Telefonò verso l’ora di pranzo, non alla casa privata di Bowring, ma al suo ufficio.
+
+“Bowring, devo dirti una cosa. Arriverò questa settimana piuttosto tardi. In realtà, arriverò con il treno delle quattro e sarò da te poco dopo le sei. Sarai lì, vero? Porto anche il crogiolo e un po’ di piombo; non voglio trovare la porta chiusa.”
+
+“Sì, certo,” rispose quella voce sottile al telefono, proveniente da oltre cento miglia di distanza. “Non so perché, ma ovviamente, se vuoi venire nel negozio. Sì, certamente, senza problemi. Non puoi dirmi il motivo?”
+
+“No, non ora” – disse bruscamente. “Te lo dirò quando ci vedremo.”
+
+“Non vorresti dormire da me?”
+
+“No. No, grazie. Posso tornare in macchina a St. Olaf’s o anche direttamente qui. Ciao. Appena dopo le sei. Non dimenticarlo. Te lo spiegherò quando arrivo.”
+
+All'altro capo del filo, Bowring arrivava a una conclusione dopo l'altra; e ogni conclusione era giusta. Il suo giovane socio stava percependo il peso della nuova ricchezza che avevano ottenuto. Non trovava nulla di strano nel noleggiare un'auto per un viaggio di cento miglia. La voce del suo giovane socio suonava preoccupata e irritata. L’irritazione era personale: riguardava lui, Bowring. Il suo giovane socio stava per fare qualche richiesta sciocca.
+
+Gli ci vollero forse cinque minuti per raggiungere quella nuova certezza. Poi la mise da parte nella sua mente, pronta ad essere utilizzata al momento giusto, e andò a fare una passeggiata nel buio verso il suo club, dove si cambiò, cenò presto e poi andò a teatro.
 
 
 
@@ -3431,6 +4227,88 @@ Lexington nodded.
 “Indeed,” said Bowring.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VI
+
+Il taxi del signor Lexington si era immesso in quella stretta strada, Percy Street, nel quartiere di Mayfair, che un tempo valeva chissà quanto per ogni iarda quadrata, e ora ne vale il doppio perché sta diventando un luogo pieno di negozi. Ma il primo negozio ad aprire in quella zona, esistente da anni, portava semplicemente il nome “Bowring”: la moda e l’orgoglio del proprietario lo spingevano a disdegnare qualsiasi titolo pomposo per un mestiere che svolgeva con tanta abilità e nel quale era diventato un maestro, conosciuto da tutti coloro che contavano.
+
+Lexington aveva portato con sé il suo crogiolo e la sua piccola fornace, come aveva suggerito, insieme a una discreta quantità di piombo; nella borsa aveva anche un po’ di quella sostanza magica, nel caso venisse richiesto dell’altro oro. Tutto ciò rendeva la sua borsa molto pesante. Fu felice di trovare la porta aperta, proprio come aveva chiesto. Entrò e vide che il proprietario del negozio lo stava aspettando tra i suoi tesori. Si strinsero la mano: con cordialità da parte di Bowring e in modo piuttosto educato da parte di Lexington. Poi il padrone del negozio chiuse a chiave la porta, dicendo: “Non posso certo violare la legge, capisci.”
+
+Si sedettero uno di fronte all’altro al vecchio tavolo e Lexington posò la borsa. Era già stato molte volte in quel negozio in passato, ma non da quando tutta quella rivoluzione era entrata nella sua vita. Gli venne in mente quanto fosse strano che il suo vecchio amico non lo avesse mai invitato in quel luogo familiare, nelle tante settimane trascorse dal loro incontro. Ora che la loro conoscenza si era approfondita molto rispetto al passato. Guardò intorno: le poche bellissime opere d’arte appese ai muri, i mobili eleganti della stanza. Ma nulla attirò la sua attenzione in relazione a ciò che stava per dire, tranne una piccola statuetta posata sullo scaffale sopra l’antico baule. Era fatta di rame dorato, molto consumata e un po’ sporca; abbastanza graziosa, ma niente di particolarmente notevole. Probabilmente era francese dell’ottavo secolo. Rappresentava un Cupido che scoccava una freccia, alto circa sei pollici.
+
+Quell’occhiata alle statuette, quella fronte corrugata in modo inquietante, quelle labbra piegate agli angoli, e tutto quel chiaro dissenso sul volto di una persona che non aveva mai imparato a nascondere le proprie emozioni, tutto ciò era leggibile con la stessa chiarezza di un libro. Bowring lo capì immediatamente e fu il primo a parlare. Parlò in modo semplice, persino sincero, guardando fisso il suo amico.
+
+“Lexington, c’è qualche problema e devi dirmi di cosa si tratta. Dimmelo francamente e vedremo se possiamo risolverlo.”
+
+“Beh, davvero non so da dove cominciare. Quello che voglio dire è. L’ho pensato per un po’ di tempo. Vedi, Bowring, è così, ”
+
+Ci fu un lungo silenzio.
+
+“Sì,” disse Bowring, “ma cosa in particolare?” I suoi occhi forti e decisi fissarono l’altro uomo, che evitò il suo sguardo.
+
+“Dico che è così, ” (un’altra pausa). “Proprio così. Guarda qui, Bowring: a cosa vale quel piccolo Cupido?”
+
+Bowring rise senza alcun imbarazzo.
+
+“Sei venuto fin qui solo per chiedermelo?” disse. “Beh, ieri ho provato a ottenere 21 sterline da quel vecchio furfante di Bickers, ma non ha voluto cedere. Non intendo accettare meno. Mi piace, e penso che lo terrò.”
+
+“Quanto pesa?” chiese Lexington con insistenza. Continuava a tenere lo sguardo distolto, nervosamente.
+
+Bowring si alzò, prese quell’oggetto e, maneggiandolo con la maestria di un esperto, lo tenne in equilibrio sulla palma della sua mano destra.
+
+“Oh, circa tre o quattro once,” disse. “Forse anche di più. Ma non capisco dove possa entrare in gioco questo peso. È vuoto, sai, e dorato in rame; però quasi tutto il dorso è andato via. Non vale nulla, a parte il fatto che potrebbe essere stato realizzato da Cousson. Ma non ho trovato alcun segno particolare.”
+
+Lo girò capovolto, per cercare ancora una volta traccia di una firma, poi lo rimise dritto e lo posizionò nuovamente al suo posto.
+
+“Beh, e allora?” aggiunse. “È un viaggio lungo, costoso e molto faticoso, caro Lexington, per scoprire qualcosa su quel Cupido. Non sapevo affatto che tu ne sapessi qualcosa.” E rise di nuovo.
+
+“Oh, non è Cupido, ”, esclamò Lexington, arrossendo. “Non è questo né quello, ma è proprio questo. La verità è che, Bowring, tu dai troppo peso a queste cose.”
+
+“Sì, me la cavo abbastanza bene”, disse Bowring, sbadigliando leggermente. “Non mi lamento… E tu?”
+
+“Avete un bellissimo oggetto d’oro al centro della vetrina. E non mi sorprenderebbe affatto se quel baule fosse pieno di altre cose del genere.”
+
+“Oh, no! È lì solo per conservare piccoli oggetti o una o due bottiglie. A volte ci metto anche qualche pacchetto.”
+
+Mentre parlava, Bowring sollevò il coperchio; effettivamente, quel vecchio e pregiato baule era vuoto, tranne che per una bottiglia di vino, un piatto e due bicchieri posizionati in un angolo.
+
+Ma Lexington non si placò; continuò con le sue allusioni.
+
+“Poi c’è quella nave su ruote, che mi hai detto essere una copia di quella di Hampton Court. Quella non è dorata.”
+
+“No… Quello è davvero oro.”
+
+“Valgono qualche centinaio?”
+
+“Circa 2.000 sterline… Solo il suo peso…”
+
+“Non importa quanto pesi… Riuscirai sicuramente a venderlo!”
+
+"Spero proprio di sì!"
+
+“Beh, sono io a fornire quelle cose, no?”
+
+“Sì!” disse Bowring, con piacevole sorpresa. “Noi due sappiamo come procurarci una certa quantità d’oro gratuitamente.”
+
+Lexington annuì.
+
+“Sì, tu ed io… tra di noi,” disse, mordendosi il labbro. “E soprattutto tu, più di me.”
+
+“Guarda qui, Lexington,” disse ora Bowring con toni molto più decisi, “mi sembra che tu sia venuto qui apposta per litigare. Non so proprio su cosa possiate litigare. Forse qualcuno mi ha mandato da te?”
+
+“No,” disse Lexington. Fu di nuovo colpito dalla timidezza. Ma questa timidezza fu sopraffatta dalla sua rabbia repressa, dal suo senso di ingiustizia, dalla sua determinazione – anche se priva di un piano concreto – a far sì che le cose prendessero una direzione definitiva. “Ma tu ottieni tutte queste cose gratis, vero? Senza di me, non le otterresti affatto.”
+
+“Oh, sì, dovrei farlo,” rispose Bowring in silenzio, alzandosi e camminando avanti e indietro nella stanza. “Lo ricevo da anni. Quattro ghinee all’oncia, più qualche piccola variazione di prezzo.”
+
+“Voglio dire proprio questo, ma per me non lo otterresti gratis,” disse Lexington con amarezza, “Ascolta, è solo giusto. Non ti chiederò una parte dei tuoi profitti, ”
+
+“Grazie,” disse Bowring.
+
+“No, onestamente… Non dico di non avere il diritto di averle…”
+
+“Infatti,” disse Bowring.
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="The Man Who Made Gold — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/power_and_corruption,concept/money_gold_greed,form/satire,form/science_fiction,setting/london"></span>
@@ -3502,6 +4380,74 @@ Lexington desired nothing better. He was eager for essential advice, and no one 
 
 “But you said Bowring — what Bowring are you in business with? And what have you got to do with business anyhow, eh? Isn’t your Fellowship enough for you?”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“No! Non ti chiederò nessuna parte, perché non capisco i tuoi affari. E non pretendo nemmeno di capirli.”
+
+“No”, rispose Bowring in silenzio, “hai ragione”.
+
+“Non pretendo di farlo, e non voglio nemmeno farlo,” disse il giovane alzando la voce. “Ma quello che dico” – e batté debolmente sul tavolo per sottolineare le sue parole – “è che almeno dovrei avere una quota più grande delle materie prime. È ora che me la spetti.” E con queste parole tirò fuori quel grosso pezzo di materia prima, così grande da faticare a uscire dalla tasca del cappotto, e lo posò sul tavolo. “Ne voglio di più,” disse.
+
+“Non c’è bisogno di parlare così ad alta voce!” disse Bowring – le prime parole dure che avesse mai usato. “Se vuoi ancora di più, fallo pure. Non mi dispiace. Ora possiamo sopportarne di più. Ho comprato il negozio accanto e intendo preparare una stanza lì per le mostre.”
+
+“Oh, davvero l’hai ottenuto?” gridò Lexington, ormai fuori controllo. “Davvero? E supponiamo che ti dica che non riceverai più quella roba gratis a meno che non mi dia la mia giusta parte, ”
+
+Da Bowring non venne nulla, solo uno sguardo curioso. L’opportunità sembrava buona. Lexington abbassò il tono della voce e disse, con meno aggressività: “Perché non farlo diventare due terzi?”
+
+“Perché, mio caro giovane,” disse Bowring con fermezza, “abbiamo un accordo, e non c’è motivo per cui dovremmo modificarlo. Perché il tuo tentativo di modificare l’accordo è del tutto illegittimo, e rappresenta anche una pratica piuttosto sgradevole e meschina. Perché io non sono il tipo di persona che si arrende alle minacce, e perché, ”.
+
+“Molto bene,” esclamò l’altro con passione, alzandosi in piedi a metà.
+
+Bowring gli mise una mano sulla spalla e lo spinse con forza indietro sulla sedia.
+
+“Aspetta un momento. Lasciami parlare. Sospetto che tu stia commettendo tradimento. Se ti scopro a nascondere qualcosa, ti avverto: 111 metterò fine a tutto. Non esistono registri ufficiali; posso denunciarti alle autorità. Si sa che hai parlato in modo assurdo riguardo a questa faccenda della trasformazione dei metalli. E alcuni metalli sono davvero pericolosi da manipolare, soprattutto in questi tempi di governo bancario.” Alzò la voce molto lentamente, dando alle sue parole un tono ancora più minaccioso. “Se provi a resistere, Lexington, 111 ti distruggerò. Hai capito?”
+
+“Allora va bene,” urlò l’altro, ormai completamente fuori controllo; afferrò quel pesante pezzo d’oro come se volesse scagliarlo sulla testa del suo compagno. La sua voce si spezzò nell’estremo della sua rabbia, e ciò che avrebbe voluto dire terminò in un suono incoerente, simile a un urlo.
+
+Bowring non batté ciglio. Lo guardò come uno che ammira un cucciolo arrabbiato, esitando tra annegare quella “bestia” o venderla. Lexington colpì con forza il fondo della semidoma d’oro sul tavolo, facendo un gran rumore.
+
+“Benissimo allora! Tienila pure!” Afferrò la sua borsa e si diresse verso la porta, mormorando qualcosa tra sé mentre se ne andava.
+
+“Certo, Lexington. Grazie per il regalo. Torna domani, o la prossima settimana, quando ti sarai ripreso. Ma ricorda: so dove sei, saprò dove andrai e saprò cosa farai. Buonanotte.”
+
+Ma mentre parlava, la porta esterna si aprì con violenza e il suo antagonista, sconfitto e confuso, avanzò lungo la strada, agitando furiosamente la sua borsa; il sangue gli pulsava nelle tempie, e in quello stato, i passanti si girarono a fissarlo nella semioscurità.
+
+Non aveva percorso nemmeno cento metri quando, mentre svoltava nell’incrocio, gli angoli rappresentarono un pericolo per lui in quello stato di confusione. Si scontrò faccia a faccia con un anziano signore molto elegante, ben curato, robusto e di statura imponente; dopo aver ricevuto quel colpo, barcollò leggermente e esclamò ad alta voce: “Maledizione!” Poi riconobbe il volto del suo aggressore e disse: “Ehi, giovane Charlie!”
+
+Lexington si riprese in fretta.
+
+“Davvero, mi dispiace molto… molto davvero, Lord Taylor!”
+
+“Dovresti proprio esserlo,” disse felicemente il vecchio Taylor. “Non sapevo che avessi così tanta energia dentro di te! Che c’è? Hai forse fatto una proposta di matrimonio?”
+
+Se c'era un uomo che Lexington avrebbe voluto assolutamente non offendere, quello era Lord Taylor. Il banchiere era uno degli amici più antichi di suo padre e, dopo la sua morte, aveva aiutato a saldare i pochi debiti rimasti. Aveva mantenuto i contatti con Lexington: quest'ultimo pranzava a casa del banchiere due o tre volte all’anno. Ogni volta che vi andava, provava non solo la certezza della sua grande ricchezza, ma anche quella della saggezza e dell’integrità di quell’uomo. Ora, nel suo umore eccitato ma che rapidamente si stava calmando, incontrare questo potente amico era come respirare aria fresca.
+
+“Devo scusarmi con te per tutto,” disse.
+
+Il vecchio Taylor lo prese per il braccio.
+
+“Esatto,” disse. “Esatto. Onori davvero il tuo college. È sempre stato famoso per le buone maniere. Spero non tu abbia rotto il vetro del mio orologio. No, va tutto bene.” Continuando a tenere per il braccio l’uomo più giovane e scherzando amichevolmente, lo accompagnò via.
+
+“Cosa farai stasera? Il mio medico dice che tutto dipende dalla pressione sanguigna; inoltre afferma che una buona cena peggiori la situazione. Non ci credo. Guarirò la tua pressione sanguigna in poco tempo. Vieni a mangiare da me, sono sola.”
+
+A Lexington non desiderava nulla di meglio. Era ansioso di ricevere consigli utili, e nessuno al mondo poteva essere più affidabile di lui.
+
+“Ma non sono vestito,” disse scusandosi, “e dopo tutta questa lite sono completamente in disordine.”
+
+“Quale fila?” disse il vecchio Taylor. “È chiaro che sei stato nella stessa fila tutto il tempo. Spero che tu vinca.”
+
+“No,” disse Lexington. “Almeno, non lo so. Sì, forse sì. Non lo so, in un certo senso sì, in un altro no.”
+
+“Beh, è chiaro come il sole. Devi raccontarmi tutto su di lui e chi fosse. E quando arriveremo al locale, vedendo il vino che ho in mente, sarai sicurissimo di aver vinto, anzi, due volte.”
+
+“Devo davvero scusarmi con voi, Lord Taylor. Lo so e lo ammetto. Ora che mi sono calmato, mi vergogno di essermi comportato come un pazzo per strada. Non è stata colpa mia, ma di Bowring.”
+
+“Di chi?”
+
+“Ah, quell’uomo con cui faccio affari…”
+
+“Ma hai detto che si trattava di Bowring. Con quale Bowring fai affari? E poi, cosa c’entri tu con gli affari, in fondo? Non ti basta forse la tua posizione all’interno della Fellowship?”
 
 
 
@@ -3575,6 +4521,74 @@ A change of mood passed over all the atmosphere of that grand room. The two men 
 “My dear Lexington ….” The old man’s voice was thick and jerky. “My dear Charles … you cannot expect me …”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Beh, vedi… la chimica è il mio campo.”
+
+“Ho! Sì!” disse Lord Taylor, riprendendo il suo tono più alto e infilzando un pollice nelle costole del vicino. “La trasformazione dei metalli, eh?” e rise di nuovo. “Ma non intendi quel Bowring, il venditore di curiosità che ultimamente va sempre a prendere lastre d’oro, vero?”
+
+Lord Taylor sentì un improvviso strattone al braccio e si girò sorpreso. Il signor Lexington aveva fatto un salto.
+
+“Ho detto ‘Bowring’?”
+
+“Sì, l’hai fatto… È stato inappropriato?”
+
+“Oh, non lo so…”, disse Lexington in modo avventato. “Quasi non so nemmeno cosa sto dicendo stasera.”
+
+Lord Taylor abbassò la voce e camminò molto più lentamente.
+
+“Non dovresti immischiarti con Bowring, caro ragazzo mio. Ovviamente non ho nulla contro Bowring; non dobbiamo dire nulla senza prove, eh?. Ma comunque, sai bene che gli uomini onesti non si dedicano a pratiche illegali, quindi devi essere molto attento. Noi banchieri sentiamo molte cose.”
+
+“Cosa hai sentito?” mormorò quasi sottovoce il signor Lexington, con voce roca. Era così commosso che aveva notato il passo dell’uomo anziano, ma lord Taylor continuava a tenere saldamente il braccio di lui.
+
+“Ne parleremo quando avremo finito di lavarci e inizieremo a mangiare,” disse. “Entra.”
+
+Erano appena le otto quando si sedettero a tavola. Non c'era nessun altro oltre a loro due intorno al grande e bel tavolo. Durante la cena, con i servitori che andavano avanti e indietro, parlarono di cose indifferenti. Ma quando fu servita la caffè e rimasero soli, Lord Taylor iniziò a confidargli i suoi pensieri.
+
+“Non avere nulla a che fare con Bowring, ragazzo mio,” disse scuotendo la testa. “Lo ripeto: non ho nulla contro di lui. Ma vedi. St. Olaf’s non è il posto adatto per parlare di queste cose. Ricorda quello che disse Cecil Rhodes. Anche se non ho mai dato molto peso alle sue parole. Ma se le disse, allora disse una cosa vera nella sua vita: ‘Voi ragazzi,’ disse, ‘in queste faccende siete come bambini’.” E scosse di nuovo la testa.
+
+“Cosa avete sentito dire contro Bowring, Lord Taylor?” chiese di nuovo Lexington.
+
+“Niente, vi dico, niente,” borbottò il solido gentiluomo. “O meglio, noi banchieri sentiamo certe cose. Ma non crediamo a nulla di ciò che sentiamo, e solo a metà di ciò che vediamo.”
+
+“Lord Taylor, ora che sono arrivato a questo punto, tanto vale che vi dica tutto francamente e completamente. Lavoro come socio di Bowring’s. E il motivo per cui vi chiedo questo è perché temo di avere motivi per, beh, non proprio, non proprio per fidarmi di lui.” (guardò oltre la spalla) “Non proprio per fidarmi di lui.”
+
+L’uomo che possedeva milioni emise una risata cordiale, ma sommessa.
+
+“Non si può proprio fidare di lui, eh? Bene, questo è giusto! Ora,” disse, mettendo le mani sul tavolo, chinandosi in avanti e abbassando la voce, “te lo dico io, ragazzo mio: non c’è nessuno che ci ascolti, e non permetterò che tu venga truffato.” (Quanto fu grato Lexington per questo tono di consiglio premuroso, ) “Beh, Bowring sta espandendo i suoi affari. E sembra proprio che da quel negozio esca più roba di quanta ne entri.” La vecchia testa grande scosse vigorosamente. “Vedi, c’è un controllo preciso sulle merci preziose, ” (Un terrore crescente invase il cuore di Lexington, ) “, E poi ci sono le indagini private. Dovrei saperne qualcosa, visto che sono stato io a incaricarli di recuperare quella collezione di monete sassoni. E ti dico: da quel posto esce davvero più roba di quanta ne entri. Alcuni dicono che si tratti di attività illegali. Altri pensano che siano legate a qualche affare losco, ”
+
+“Che cosa?”
+
+“I ricevitori, ” (Una parola sussurrata dietro la mano di Lord Taylor.)
+
+#"Recettori… di cosa?"
+
+“Ah, tu giovane idiota… roba rubata!”
+
+“Oh, giuro che non è vero!” gridò Charles Lexington in agonia. “Non crederci! Chi avrebbe potuto dirvelo?”
+
+“Ciao. Stai prendendo la cosa in modo molto tragico, caro ragazzo! Non ho detto nulla del genere. Per Dio, non mi verrebbe mai in mente di tradire la tua compagna. Comunque, Bowring non aveva nulla a che fare con quelle monete; le ho riavute entro una settimana. Hanno catturato quell’uomo: le aveva ancora con sé. Un semplice ladro comune. Ma, a proposito, come mai sei diventato socio di Bowring?”
+
+Nella mente innocente di Charles Lexington sorse un dilemma. Aveva confessato di aver collaborato con un uomo già sospettato in qualche modo. Ora poteva fare una cosa sola: porre fine a quella situazione. Era sempre meglio agire in modo semplice e diretto. Quel vecchio amico, così ricco e potente, era un confidente degno di fiducia e una vera fonte di forza nel suo momento di difficoltà.
+
+“Ricordi la mia lezione sulla trasmutazione dei metalli?”, disse a bassa voce.
+
+“Sì,” disse Lord Taylor. “Non ero forse io a presiedere la riunione? Si trattava semplicemente di eliminare gli elettroni. Elimina un elettrone, o due, o tre, non ricordo esattamente quanti, ed ecco fatto. Molto più semplice che trascorrere tutta la vita a osservare i mercati.”
+
+Regnò il silenzio mentre Lexington raccoglieva il coraggio. Poi disse, guardando il proprio piatto:
+
+“Beh, ho creato dell’oro… Ora capite?”
+
+Lord Taylor avrebbe dovuto rimanere senza fiato. Invece si soffocò, perché ormai non era più giovane.
+
+“Ho prodotto oro,” ripeté Lexington in silenzio. “Tutti nel mio campo vi diranno che la scienza moderna possiede tutti gli elementi necessari per risolvere questo problema; è semplicissimo e del tutto chiaro. Probabilmente qualcuno l’ha già fatto, su piccola scala, utilizzando i vapori di mercurio. Da tempo era evidente che, in qualsiasi momento, qualcuno avrebbe potuto scoprire il modo per farlo su larga scala, sia usando il mercurio che uno degli altri metalli presenti nella lista. E vedete, l’ho fatto io. Sì, ma l’ho tenuto per me stesso. Ora capite perché sono socio di Bowring?”
+
+Un cambiamento d’umore pervase l’intera atmosfera di quella grande stanza. I due uomini sembravano essere entrati in un altro mondo. Nella mente del più anziano si mescolavano confusamente sentimenti di apprensione e dubbi. Nel cuore del più giovane, invece, regnava un enorme senso di sollievo, come se avesse finalmente liberato un peso che lo opprimeva.
+
+“Ecco,” disse Lexington, dopo il lungo silenzio che seguì, “avete sentito tutta la verità.”
+
+“Mio caro Lexington, ” La voce dell’uomo anziano era roca e tremolante. “Mio caro Charles, non puoi aspettarti che io, ”
+
 
 
 <span class="atom-split" data-atom="chapter_07--part_04" data-title="The Man Who Made Gold — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/money_and_gold,motif/fire,concept/economics,concept/reason_and_rationalism,concept/wonder,form/satire,form/science_fiction,setting/london"></span>
@@ -3625,6 +4639,52 @@ Yes. Lexington understood. He affirmed, quite truly, that, except to this one ol
 Lord Taylor, almost reverently, led the way upstairs and showed his guest his room. He shook hands to say good night, and as he did so Lexington noticed that the old hand still trembled.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Aspetti un attimo mentre prendo alcune cose dalla mia borsa… Credo di riuscire a convincerti.”
+
+Lord Taylor annuì; il suo viso aveva assunto un'espressione strana. Lexington tornò.
+
+“Hai con te l’oro?” chiese a fatica il vecchio Taylor.
+
+“No. Solo il filo conduttore” (aprendo un piccolo sacchetto di metallo tritato) “e questo crogiolo qui. E dove è la presa per l’elettricità?”
+
+“Dietro di te, Charles, proprio dietro di te, vicino al comò, Charles, sotto quel riscaldatore elettrico. Benedica la mia anima, ”
+
+Il piombo fu messo nel crogiolo, dove si trovava su una piastra capovolta, con il piccolo forno attaccato sopra. Si accese il calore; il piombo si sciolse. Poi si sentì un rumore alla maniglia della porta.
+
+“Aspetta un attimo!” (dichiene il padrone di casa). “Aspetta che suoni il campanello… Chiudi la porta a chiave, Charles!”
+
+Non ci furono ulteriori interruzioni. Lexington tirò fuori la sua borsa, ne estrasse un pezzetto di carta, lo aprì e mostrò una piccola quantità di polvere marrone; a Lord Taylor sembrava proprio tabacco da naso. Lexington la versò nella massa ormai liquida del metallo. E tutto il tempo, l’anziano banchiere osservava con fascino.
+
+La rapida metamorfosi proseguì. I colori si intrecciavano e cambiavano: il verde viola passava gradualmente in un verde più giallastro, poi in un giallo intenso puro, e infine in un giallo con sfumature di rosso. Lord Taylor sentì il clic del interruttore quando la corrente venne spenta.
+
+“Oro!”, disse Lexington.
+
+Ma il suo vecchio ospite quasi non lo sentì. Si era alzato a metà dalla sedia; le sue mani anziane pendevano stranamente davanti a lui, come se fossero paralizzate da un terrore soprannaturale. I suoi occhi fissavano un volto ormai completamente pallido. Poi si lasciò ricadere sulla sedia e continuò a guardare alternativamente l’uomo più giovane e quella massa gialla e fredda che si stava raffreddando.
+
+“È, è davvero così,?” disse finalmente.
+
+“Sì”, rispose Lexington. “È oro.”
+
+L’oro, ormai completamente freddo e estratto dal crogiolo, fu riposto al sicuro nella cassaforte nascosta dietro i pannelli dello studio di Lord Taylor, situato nella parte posteriore della casa.
+
+I due uomini avevano parlato per un’ora. L’uomo più anziano aveva riacquistato il controllo di sé, anche se con qualche sforzo; l’uomo più giovane, invece, era stato facilmente indotto a parlare e aveva raccontato tutto: l’accordo con Bowring, le condizioni insoddisfacenti dell’accordo stesso. Tuttavia, come fosse stato scoperto, perché non possedeva alcun mezzo per vendere l’oro. Chiese consiglio. Mentre parlava, Lord Taylor cercava di mettere ordine nel caos della sua mente sconvolta. Il primo passo da compiere era chiaro.
+
+“Devo farti alloggiare,” disse. “Hai la tua borsa: con quale treno parti questa mattina?”
+
+“9.10 a Paddington”.
+
+“Non aspettarti che io sia sveglio. Questi giorni non devo alzarmi troppo presto; loro ti prepareranno la colazione.” Suonò il campanello e ordinò che la stanza spagnola fosse preparata. “In quale giorno tornerai a vedere Bowring?”
+
+“Martedì… se mai lo rivedrò.”
+
+“Oh! Sì. Devi assolutamente vederlo. Vieni prima qui. Entro quel momento avrò organizzato tutto. Vieni a mezzogiorno. Eh? Non dire una parola con nessuno in mezzo, capisci?” Guardò ansiosamente il volto sincero e turbato di Lexington. “È essenziale. Eh? Queste cose sono molto delicate!”
+
+Sì. Lexington capiva. Affermò con certezza che, se non fosse stato per questo vecchio amico, non avrebbe detto una parola a nessuno. L’aveva fatto soltanto perché aveva un disperato bisogno di aiuto e sostegno. Sì, comprendeva il pericolo. Ma sapeva dove potesse essere al sicuro.
+
+Lord Taylor, quasi con reverenza, guidò il suo ospite al piano di sopra e gli mostrò la sua stanza. Si strinsero la mano per salutarsi la buona notte, e in quel momento Lexington notò che quella vecchia mano ancora tremava.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_01" data-title="The Man Who Made Gold — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,motif/secrets,concept/greed,concept/secrecy_and_concealment,concept/reason_and_rationalism,form/satire,form/science_fiction,setting/rural_england"></span>
@@ -3664,6 +4724,42 @@ The stuff lay there still unbroken.
 
 When he had calmed down his thoughts took shape, and he flattered himself that they were the height of good sense. He had had his warning. He might have lost the irreplaceable magic thing for ever, and who knows that in the future it might not be lost again, and that time not be recovered? He had been too greedy. In his haste to make the metal he had postponed experiment. He must proceed at once to what he ought to have done all those weeks before; he must analyse the stuff and make certain what it was. All that was needed was to know the elements and their proportion.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VII
+
+Lexington tornò verso ovest con l’espresso del mattino. Scoprì che viaggiare in prima classe, per qualche motivo, non era più così lussuoso come il giorno precedente. Aveva letto nei libri che quando il reddito di una persona aumenta, essa finisce per abituarsi tristemente alle nuove comodità della propria condizione sociale e le considera altrettanto scontate quanto le vecchie difficoltà. Sembrava un peccato. Forse, quando avesse comprato una vera e propria auto di lusso e trovato qualcuno che la guidasse per lui, avrebbe iniziato a godere davvero della ricchezza.
+
+Non si sentiva bene. Queste scene violente non gli piacevano affatto; nella sua vita ne aveva vissute solo un paio, e ogni volta gli avevano fatto male. Forse la sera prima aveva bevuto troppo champagne da Lord Taylor’s. Comunque, non era più se stesso: continuava a confondere i giorni della settimana quando faceva i suoi piani, non riusciva a concentrarsi sul suo lavoro, e al ritorno in hotel si sentiva stranamente stanco. Eppure non aveva fatto nulla. Era la prima vacanza in cui si prendeva davvero una pausa completa dal lavoro; non aveva nemmeno portato con sé un libro di testo, né preparato appunti per le lezioni del prossimo semestre.
+
+Senza nemmeno togliersi il cappotto, la prima cosa che fece fu verificare che tutto fosse a posto. Girò la chiave nella piccola borsa chiusa a chiave e frugò all’interno alla ricerca della forma cilindrica cristallina da cui dipendevano le sue fortune. Non sembrava trovarla; non era finita tra le due camicie morbide. Continuò a cercare più a fondo. Non trovò nulla di più duro del lino, tranne il suo libro conti, che sapeva essere lì; lo tirò fuori comunque, senza un obiettivo preciso, solo per assicurarsi che ci fosse. Frugò dappertutto con cura.
+
+Si sentì invaso da una strana sensazione di vuoto. Il cilindro era scomparso!. Oh, dèi!
+
+Si appoggiò di nuovo alla sedia per cercare di riordinare i suoi pensieri.
+
+La prima cosa da fare era ripercorrere gli eventi passati passo dopo passo. Oggi era giovedì. No, mercoledì. Sembrava fosse trascorso molto tempo da quando aveva lasciato quella stanza, ma in realtà non erano ancora passate ventiquattro ore. Sì, sicuramente. C’era stata solo quella notte intermedia, a casa di Lord Taylor. Era mercoledì. Non giovedì. Aveva già avuto quel problema prima, sul treno. Ripensò a ogni singolo momento: la colazione, il suo andare a letto a casa di Taylor, persino i pigiami che gli erano stati prestati, e la mancia che aveva dato all’uomo. La cena. L’incontro precedente in strada. Quella scena violenta con Bowring. Sì. Era proprio quello! Doveva aver infilato il cilindro, per maggiore sicurezza, nella tasca interna del cappotto, e poi essersene dimenticato. Lo afferrò nervosamente: lo indossava ancora.
+
+Non c’era nulla lì. Controllò rapidamente le altre tasche. Niente.
+
+Poi cercò di ricordare con attenzione tutto ciò che aveva fatto dal momento in cui aveva iniziato a lavorarci il giorno prima. Ricordava molto chiaramente il peso eccessivo del materiale, la determinazione di produrre il massimo che il suo crogiolo potesse sopportare; ricordava anche l’umore arrabbiato in cui aveva svolto quel lavoro, le telefonate che aveva fatto, il modo in cui aveva ordinato al motorista di portarlo alla stazione; ma di qualsiasi gesto, istintivo o deliberato, relativo al riposto del cilindro, non riusciva a ricordare nulla. Era scomparso.
+
+Che sciocco che non avesse analizzato quella sostanza il primo giorno stesso in cui gli era stata data! Che sciocco che non avesse cercato di capire, se possibile, come fosse stata creata. Alla fine, qualsiasi materiale poteva essere analizzato, e se riuscivi a comprenderne la struttura, c’erano buone probabilità di poterlo ricomporre. Invece, lui era all’oscuro, senza alcuna indicazione. E se quel cilindro fosse davvero andato perduto. Sì, era stato un vero sciocco!
+
+E aveva commesso un altro errore stupido. Tutto questo non sarebbe mai successo se non avesse lasciato che la sua ira prendesse il sopravvento e il suo risentimento verso Bowring occupasse completamente i suoi pensieri il giorno prima di partire per Londra. Si era lasciato prendere dal panico al punto di non sapere più cosa stesse facendo; avrebbe potuto lasciare quelle cose ovunque, tenerle in mano mentre usciva, o anche dimenticarsele nell’auto. Beh, era una possibilità, e molto probabile, anzi.
+
+Scese di corsa le scale fino alla cabina telefonica nell’ingresso, cercò il numero del garage e stava per sollevare il ricevitore quando, spostando un piede, sentì qualcosa sotto di esso. Non c’era luce nella cabina; si trovava in un angolo buio e scomodo. Tenendo ancora il ricevitore, si chinò e, con la mano sul telone oleato polveroso, trovò un oggetto che non poteva essere scambiato per nient’altro. Anche in quella semioscurità, la sensazione al tatto era troppo familiare. Era il cilindro scomparso. Doveva averlo avuto in mano e averlo perso mentre telefonava il giorno prima.
+
+Ora non c’era più alcun dubbio: doveva telefonare subito! Ne tirò fuori l’oggetto alla luce, con mani tremanti. Era proprio su quello che aveva calpestato! Accese un fiammifero e avvolse con cura quell’oggetto sacro nel fazzoletto, stringendo bene i bordi del fazzoletto tra le dita, poi tornò quasi di nascosto nella sua stanza. Nessuno avrebbe potuto sapere cosa aveva trovato. Ma il segreto stesso creava in lui una sorta di senso di colpa.
+
+Riprese a respirare mentre si lasciava cadere sulla sedia, questa volta con sollievo, ma prima chiuse a chiave la porta.
+
+Per la prima volta si rese conto di quale grave crisi fisica quell’avventura lo avesse messo in pericolo. Il suo cuore continuava a battere violentemente. Ora poteva esaminare il cilindro per verificare se fosse stato danneggiato in qualche modo.
+
+Quel oggetto giaceva lì ancora intatto.
+
+Quando si fu calmato, i suoi pensieri presero forma e si compiacque che fossero il massimo dell’buon senso. Aveva ricevuto un avvertimento: forse aveva perso per sempre quell’oggetto magico irripetibile, e chi sa se in futuro non sarebbe andato perso di nuovo, senza possibilità di essere recuperato. Era stato troppo avido. Nella sua fretta di ottenere il metallo desiderato, aveva rinviato gli esperimenti. Doveva immediatamente procedere con ciò che avrebbe dovuto fare da settimane: analizzare quel materiale e scoprire di cosa fosse realmente composto. Tutto ciò di cui aveva bisogno era conoscere gli elementi che lo costituivano e la loro proporzione esatta.
 
 
 
@@ -3705,6 +4801,42 @@ He was relieved to note as he straightened himself, slowly — for he had been b
 Whereupon there rushed into his mind like a river flood what, had he been less shaken, would have come first — he was utterly, irretrievably, finally ruined. Of that there could be no doubt. All that he had made so sure of in his life, and all that he had come to take for granted had vanished with that tenuous, half perceptible yellow smoke, and there he was once more, no longer the Master of Gold, but the distinguished Mr. Lexington of St. Olaf’s, carrying on at about £1,200 a year; enough for one but hardly enough for two. Such he would remain, until, under the new regulations, he was superannuated into a red brick villa suburban to the University. It was all up.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Faceva una passeggiata per riflettere su tutto. Questo gli schiariva le idee. Ma c'era una cosa certa: non avrebbe mai più lasciato quel tesoro fuori dalla sua vista. Avrebbe dormito con esso, lo avrebbe sempre portato con sé; doveva essere a portata di mano ogni ora della sua giornata, finché non fosse stato sicuro di conoscere la formula per ricostruire quel materiale a piacimento.
+
+Aspetta un momento! Poiché doveva camminare, perché non approfittare della solitudine? Non si sapeva mai cosa potesse accadere; inoltre, farlo in casa rappresentava un rischio. Avrebbe fatto il primo passo – il “test di Barlow” – all’aperto, in un luogo dove ci fosse abbastanza spazio e nessuno intorno. Il “test di Barlow” si applicava alla maggior parte delle situazioni ed era semplice da utilizzare; per questo motivo aveva trovato molte applicazioni domestiche fin dal suo lancio sul mercato. Non servivano altro che un piccolo dispositivo che poteva comprare in negozio, insieme a una batteria e al relativo display, sempre ammesso che si disponesse anche del set completo con tutti gli accessori necessari. La maggior parte dei negozi ne teneva scorte, visto il suo utilizzo frequente per verificare la qualità dell’acqua potabile.
+
+Non rimase deluso. Nel piccolo negozio c'era davvero un set Barlow. Lo comprò, se lo mise in tasca e partì.
+
+Il giorno era ancora bello, anche se in lontananza si intravedevano alcune nuvole temporalesche e nell’aria c’era il rumore del tuono, visto che ormai era aprile. Esitò se prendere l’ombrello o meno; alla fine decise di lasciarlo a casa. Anche se fosse piovuto, sarebbe stata solo una pioggerellina.
+
+Si diresse verso un grande bosco nel quale spesso andava a passeggiare in questi giorni solitari di reclusione. C'era un luogo che conosceva bene, dove poteva meditare in tranquillità. Si trovava ai margini del sottobosco, con vista a sud su un campo arato e deserto.
+
+Lo fece sedere sull'erba della riva, poi estrasse il Cilindro Misterioso e lo posò con cura sul fazzoletto aperto, sul terreno ai suoi piedi. Prese la sua pipa, la accese e iniziò a riflettere sul suo problema.
+
+Aveva letto abbastanza di quelle sciocchezze nei vecchi libri per sapere che questi sempre alludevano allo zolfo come base del loro misterioso reagente. Ma non si trattava dello zolfo comune; si trattava di ciò che chiamavano “nobile” o “puro”. Cosa significava questo?
+
+Eccolo lì, che custodiva il suo segreto, in silenzio. Quanto bene lo conosceva! Eppure, come avrebbe potuto scoprirne il segreto, con quale “chiave”? Avrebbe dovuto procedere con cautela: quella combinazione poteva essere instabile. Forse era proprio per questo che non era rimasto alcun traccio di una simile cosa nelle scoperte degli antichi, perché lui sapeva con certezza che tali scoperte erano state effettuate.
+
+Prese l’apparecchio che gli avrebbe permesso di effettuare il suo primo test. Si inginocchiò per fissare le due clip del set di Barlow su entrambi i lati del cilindro cristallino marrone sopra il supporto. Avvitò i due fili alla batteria portatile. Si alzò, assicurandosi che l’apparecchio fosse sufficientemente flessibile, e tenne il metro in una mano, con il dito posizionato sul pulsante per completare il circuito, mentre osservava il quadrante dell’indicatore. Ora!
+
+Il interruttore fece clic: ma nessuno sentì quel suono. Perché nello stesso istante ci fu un’esplosione così violenta che sembrò che il mondo fosse finito. L’universo fu invaso da tuoni e l’infortunato Lexington fu scagliato nell’oscurità, con tutta la sua essenza distrutta e ridotta a nulla.
+
+Per quanto tempo fosse rimasto privo di sensi, non lo sapeva mai, e nessuno poteva dirglielo. Quando iniziò a riprendere conoscenza, gradualmente si rese conto di essere stato sbattuto all’indietro, con gravi lividi, contro il tronco dell’albero alle sue spalle; si trovava seduto lì, a fissare il vuoto, con la testa ancora rimbombante per quel terribile rumore.
+
+Si era chiesto se quella combinazione fosse instabile. Ora aveva avuto la risposta.
+
+Solo una debole nuvola gialla, che si allontanava e saliva rapidamente sotto la brezza leggera, rimaneva: quella, e a terra, le ceneri carbonizzate di un fazzoletto, la batteria distrutta, e le placche annerite e contorte all’estremità del cilindro. Non era rimasta nemmeno una particella di polvere.
+
+Sì, la combinazione utilizzata dagli antichi alchimisti si trovava in uno stato di equilibrio instabile. Senza dubbio alcuno. E nel frattempo, questa mancanza di equilibrio aveva quasi distrutto un prezioso scienziato, rovinandogli definitivamente tutte le possibilità di successo e fortuna.
+
+Le conseguenze del disastro iniziarono molto lentamente a penetrare nella mente confusa di quell’uomo sfortunato. Continuava a soffrire terribilmente a causa di quel fragoroso rumore; i suoi pensieri erano completamente sconvolti, e frammenti sparsi di essi emergevano in modo disordinato. Qualcuno aveva sentito quel rumore? Lo avrebbero scambiato per un bracconiere? Avrebbero attribuito quel suono alla pistola di un contadino che sparava ai corvi? Sì, per favore. Questo avrebbe evitato che qualcuno facesse domande. Non doveva assolutamente lasciare quei frammenti di fazzoletto lì. Si chinò con difficoltà, li raccolse, avvolse il filo intorno ai resti della batteria e infilò tutto, insieme al piccolo quadrante, nella tasca.
+
+Si rasserenò quando, rialzandosi lentamente – poiché era gravemente contuso e gli orecchie gli ronzavano – si rese conto che la catastrofe non aveva lasciato tracce evidenti sul terreno. Solo qualche frammento di cenere nei punti in cui il suo fazzoletto aveva preso fuoco, e un po’ d’erba annerita, come se qualcuno avesse acceso un piccolo fuoco lì una settimana o due prima. Ma nient’altro. Poi, all’improvviso, gli venne in mente che forse poteva esserci ancora qualche frammento rimasto. Si mise in ginocchio, gemendo per la difficoltà della ricerca, e guardò dappertutto. Non c’era traccia di nulla. Tutto era scomparso completamente, per sempre.
+
+In quel momento, nella sua mente si riversò come una piena invernale tutto ciò che, se non fosse stato così sconvolto, sarebbe emerso prima: era completamente, irrimediabilmente, definitivamente rovinato. Non c’era dubbio al riguardo. Tutto ciò di cui era stato così sicuro nella sua vita, tutto ciò che aveva dato per scontato, era svanito insieme a quel fumo giallo tenue e appena percettibile. E ora lui non era più il “Signore dell’Oro”, ma soltanto il rispettabile signor Lexington di St. Olaf’s, con un reddito annuo di circa 1.200 sterline: abbastanza per una persona, ma appena sufficiente per due. Così sarebbe rimasto, fino a quando, secondo le nuove normative, non fosse andato in pensione e si fosse trasferito in una villetta di mattoni rossi nei dintorni dell’università. Era tutto finito.
+
 
 
 <span class="atom-split" data-atom="chapter_08--part_03" data-title="The Man Who Made Gold — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_gold_greed,concept/despair,form/satire,form/science_fiction"></span>
@@ -3730,6 +4862,28 @@ He wrote six drafts of letters, and tore them up one after the other. He put it 
 
 And, meanwhile, in London the wheels he had set moving began to revolve.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In qualsiasi altra circostanza, penso che lui, essendo ancora abbastanza giovane – poco oltre i quarant’anni – avrebbe mobilizzato le sue riserve di energia e si sarebbe detto che questa situazione non poteva continuare così e che bisognava fare qualcosa. Ma in questo caso era diverso: non c’era nulla da fare. Anzi, la situazione presentava una completezza raramente eguagliata, se mai lo fosse stata.
+
+Mentre zoppicava verso il sentiero e iniziava a riprendere un po' di flessibilità nei movimenti delle gambe, un altro evento terribile, che ancora non aveva raggiunto la sua coscienza, iniziò ad emergere e lo sommerse nuovamente nel dispero.
+
+Come dovrebbe comportarsi con Bowring? Ha appena scatenato una lite. Qualsiasi spiegazione avesse dato, l’avrebbe resa ancora più difficile di quanto non fosse già; eppure, una spiegazione era necessaria.
+
+Era mercoledì. Aveva sei giorni davanti a sé. Il prossimo martedì avrebbe dovuto tornare a Londra con la sua mezza-uova, ma no, non voleva nemmeno pensarci! Le altre mezzo-uova dorate erano perdute per sempre, ma l’oca era ancora viva per trascorrere gli anni noiosi, perché lui stesso era quell’oca.
+
+Poi arrivò una terza ondata di scoperte. Avrebbe dovuto affrontare delle bollette piuttosto ingenti. Era un dettaglio insignificante, ma nei momenti tragici questi dettagli diventano particolarmente evidenti, come tutti sanno chi abbia mai sofferto in modo acuto.
+
+Da quando aveva avuto quella fortuna, Lexington aveva vissuto, come fanno naturalmente le persone appena arricchite, al limite delle sue risorse appena aumentate; la settimana successiva non ci sarebbero state altre opportunità di guadagno. Aveva aumentato il proprio conto in banca, ma durante le visite settimanali a Londra aveva acquistato anche alcuni oggetti che gli piacevano molto: bella porcellana e vecchi mobili che desiderava possedere; molti di questi erano già stati inviati nelle sue stanze al College. Si era procurato, dopotutto, un cronometro davvero eccellente. Per quanto riguardava il motore che aveva intenzione di costruire, sperava di riuscire a liberarsi anche di quel progetto. E dannazione! C’era poi quell’appartamento nuovo che aveva visto a Mayfair, da utilizzare ogni volta che fosse tornato in città. Il pagamento dell’affitto sarebbe scaduto tra poco meno di due mesi, e la cauzione richiesta era di 200 sterline. Oh, maledizione!
+
+Mentre raggiungeva il bordo del bosco, iniziò a fare rapidamente dei calcoli nella sua testa: considerando la probabile spesa per l’hotel, stimando approssimativamente i costi della riparazione dell’auto presso il garage locale, tenendo conto degli ottimi mobili presenti nell’appartamento e del possibile costo di riparare il motore, si rese conto che gli mancavano ancora circa 400 sterline, mentre la somma a disposizione era inferiore a 200 sterline. Avrebbe potuto anche accettare di ricevere solo metà dell’ultima somma che aveva sprezzantemente gettato sul tavolo di Bowring, considerandola una piccola cifra. Ma nemmeno così sarebbe stato sufficiente.
+
+Entrò nelle sue stanze e, con solennità, tirò fuori il suo piccolo crogiolo, guardandolo come se fosse un reliquio di un passato ormai lontano. Avrebbe potuto piangere. Sospirò profondamente e pensò a quale lettera scrivere all’uomo che aveva reso suo nemico.
+
+Scrisse sei bozze di lettera, poi le strappò una dopo l’altra. Decise di rimandare tutto al giorno seguente. Il giovedì successivo ne scrisse altre due, le strappò più lentamente e ancora una volta rinviò il compito a venerdì. Venerdì approfittò del fine settimana per rifletterci su. Poi, in modo avventato, prese 10 sterline dal proprio piccolo tesoro per trascorrere il tempo al mare. Lunedì sarebbe tornato: allora avrebbe dovuto raccogliere il coraggio necessario e i suoi pensieri si sarebbero schiariti, e avrebbe scritto quella lettera. Forse si poteva ancora salvare qualcosa da quel disastro. Dopotutto, Bowring non aveva bisogno di saperlo. Si poteva continuare a tenerlo in attesa; forse si sarebbe persino deciso a farlo entrare in società con loro. I suoi piani erano ancora vaghi, ma almeno aveva il sollievo di poter rimandare tutto. E così partì verso la costa.
+
+E intanto, a Londra, le ruote che aveva messo in movimento iniziarono a girare.
 
 
 
@@ -3799,6 +4953,70 @@ Lord Taylor sat down, without being asked, said it was a fine spring day, and th
 “Bowring,” he said suddenly to the short, strong, obstinate figure before him, “I’ve come to talk to you about Lexington.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO VIII
+
+Quando Lord Taylor mandò il giovane signor Lexington a dormire nel letto intagliato spagnolo del XVI secolo, in quella notte memorabile, lui stesso, nel suo semplice letto tedesco del XX secolo (ma munito del baldacchino belga), non riuscì a dormire. Rimase sveglio per ore e ore; il suo vecchio cervello, colpito con violenza da quella situazione inaspettata, fu costretto a una vigilanza innaturale di fronte all’enormità del problema che gli era stato posto.
+
+Avrebbero potuto produrre oro. Avrebbero potuto produrre oro. Avevano accanto a loro, a loro disposizione, l’uomo che poteva creare oro! E se quel potere venisse utilizzato?
+
+Ancora una volta, ma in un ordine meno confuso, i risultati di questa rivoluzione gli si presentarono davanti agli occhi, tutti i mercati del mondo in preda al caos, il grido per un moratorium universale, il disordine totale, la moneta cartacea che diventava nulla in un istante ovunque, ancora più caos. Il mondo era distrutto. Come potevano catturare quell’animale selvaggio che era scappato?. Distruzione, distruzione, distruzione dappertutto. E, mio Dio, quale opportunità per Mosca!
+
+Era completamente sveglio, ma febbricitante.
+
+Accese la luce elettrica accanto al letto, prese il pennello e il blocco notes che teneva sempre con sé e iniziò a stilare un elenco di politiche da attuare. Per un momento esitò; poi tirò fuori l’orologio da sotto il cuscino: erano già le due.
+
+L’uomo che poteva creare oro era lì, addormentato in quel corridoio. L’unico uomo che poteva creare oro. Potevano metterlo fuori gioco: fermarlo in qualsiasi momento. Così avrebbero guadagnato tempo.
+
+Tese la mano verso l’allarme che suonava nella stanza della sua segretaria, del suo agente incaricato di eseguire i suoi ordini. Avrebbe potuto ordinare che Lexington venisse rinchiuso nella sua stanza.
+
+Ora! Subito, immediatamente!
+
+Ma la sua mano non toccò mai il pulsante, e così fu meglio.
+
+No! Tutto ciò era troppo pericoloso. Doveva procedere con calma. Non poteva tenere rinchiuso quel giovane per sempre. Inoltre, Lexington avrebbe potuto semplicemente negare tutto quanto fosse accaduto. Bowring avrebbe rintracciato il suo complice. Ci sarebbero state conseguenze, anche dopo aver lasciato andare Lexington; lo stesso valeva se lo avesse rapito. Non appena si presenta la possibilità di agire in un tribunale, non si possono controllare completamente le conseguenze. Nemmeno al giorno d’oggi.
+
+Nel terzo momento, la sua mente tormentata si calmò un po’ e emerse con chiarezza una necessità immediata: doveva incontrare in privato il Ministro dell’Interno il giorno seguente per intraprendere subito le prime azioni. Era necessario emanare un decreto del Consiglio che vietasse qualsiasi movimento di oro, far ritornare immediatamente tutto l’oro coniato nel paese e effettuare un inventario degli oggetti d’oro esistenti.
+
+Poi gli venne in mente un nuovo pensiero: era sicuro incontrare il Ministro dell’Interno? Una questione di tale gravità. Se solo ci fosse stata la minima fuga di notizie. Un servitore che entrasse nella stanza e sentisse anche solo poche parole, un politico che parlasse nel suo circolo più intimo. Chi poteva saperlo? E una sola parola, una singola parola, avrebbe potuto scatenare un intero processo!
+
+No, incontrare il Segretario dell’Interno non dovrebbe essere il suo primo passo.
+
+Dovrebbe prima parlarne con il suo principale collega in banca? No! Quello sarebbe stato un pericolo ancora maggiore di divulgazione.
+
+Il sonno stava per sopraffarlo proprio quando le quattro in punto suonarono al Big Ben, udite chiaramente attraverso il totale silenzio che regnava nel raggio di un miglio intorno. Quel sonno ritardato arrivò perché aveva trovato una soluzione: esisteva un modo per mantenere quel grande segreto nascosto come sempre, senza che finisse nelle mani di persone che sicuramente non avrebbero saputo come utilizzarlo. Lui, con la sua mente assonnata, ne era certo: lui stesso possedeva tutta l’organizzazione necessaria per gestire l’oro e nasconderne l’origine, anche se venisse prodotto su larga scala. Doveva andare da Bowring, doveva insistere affinché si stabilisse una partnership.
+
+Quando arrivò a quella conclusione sensata e onorevole, già dormiva; sognò di ricchezze che aumentavano dieci volte e di un potere sul mercato dell’oro come nessuno aveva mai avuto prima.
+
+Il giorno dopo (proprio nel momento in cui Lexington, lontano a ovest, era arrivato al suo hotel e aveva prima perso e poi ritrovato il prezioso cilindro), Lord Taylor si svegliò molto tardi. Si vestì; pranzò all’ora in cui di solito mangiava il pranzo, dando così il tempo a Bowring, che forse stava pranzando nel suo club, di tornare al proprio ufficio. Verso le tre (nella stessa ora in cui Lexington si dirigeva nel bosco per il suo primo esperimento), Lord Taylor entrò nella famosa piccola bottega dell’antiquario, con i suoi bow window e le bellissime opere d’arte esposte dietro i vetri curvi e leggermente colorati.
+
+Bowring e lui si conoscevano abbastanza bene, non solo per via delle acquisti effettuati dal banchiere, ma anche perché si erano incontrati una o due volte nelle case di amici comuni. Lord Taylor fu accolto con cordialità. Si comportò come ci si aspetterebbe da un uomo d’ozio in un posto del genere: esaminò e lodò alcune delle cose più raffinate che gli furono presentate.
+
+Prese in mano quelle piccole statuette che il giorno prima avevano scatenato la disputa a Lexington, le ammirò, indovinò con precisione la loro età; toccò la vela della piccola nave in miniatura, chiaramente fatta di oro puro, e chiese anche della sua data di produzione.
+
+“È appena stato fatto,” disse Bowring.
+
+Lord Taylor lo osservò con curiosità, e ancora percepì quella piccola vela.
+
+“Fai attenzione a non piegarlo,” disse Bowring.
+
+“Sembra vero oro puro“, disse Lord Taylor. “Ha la giusta proporzione di leghe metalliche?“
+
+“Credo di sì”, rispose brevemente Bowring. “Ma ovviamente è molto sottile.”
+
+Lord Taylor prese in mano il delicato oggetto e iniziò a girarlo capovolto alla ricerca del marchio di fabbrica.
+
+“Stai attento,” disse Bowring. Cercò di non mostrare ansia nella sua voce, e in qualche modo ci riuscì.
+
+“Nel vostro mestiere,” disse Lord Taylor, posando la piccola nave (la cui marca di fabbrica aveva verificato), “si deve utilizzare oro di diversi gradi di purezza, immagino, ”
+
+“Non di solito,” disse Bowring, ancora più brevemente. Stava cercando di far capire chiaramente che non aveva intenzione di farsi interrogare o istruire su quel argomento.
+
+Lord Taylor si sedette; senza essere stato invitato, disse che era una bella giornata di primavera, e poi improvvisamente passò al discorso principale. Si compiaceva pensando di aver messo il suo ospite in uno stato di attenzione, preparando così il terreno per ciò che stava per dire. Ma si sbagliava.
+
+“Bowring,” disse all'improvviso alla figura bassa, robusta e ostinata davanti a lui, “sono venuto per parlarti di Lexington.”
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_02" data-title="The Man Who Made Gold — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/economics,concept/power_and_corruption,concept/communism,concept/satire_of_society,concept/money_gold_greed,form/satire,form/science_fiction,setting/london"></span>
@@ -3862,6 +5080,66 @@ The Home Secretary lived in a modest flat of the cheaper kind, part of a large a
 
 Jack Mills was as much respected by the larger world into which he had entered since his first election to Parliament as by the men of the great Trade Union of which he was the acknowledged head. He was worth, perhaps, £300,000 at the most — not very much for one of such ability to accumulate during full twenty years of active Parliamentary life. In character he had all that the great office he occupied demanded. Reticent, well balanced, with a good knowledge of men, he was the very type which our new political conditions are producing, to the permanent advantage of the country. In build he was a large man, with a flat, broad, rather pale face, full of self-control, small eyes set therein, and an expression that only an enemy would call cunning.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Bowring annuì.
+
+“È una sorta di tuo partner, vero?”
+
+“No. Perché dovrebbe esserlo?”
+
+“Beh, intendo… lui entra qui dentro.”
+
+“Anch’io lo credo, Lord Taylor.”
+
+“Sì, ma lo conosci da molti anni, vero?”
+
+“Se intendete dire che è un mio amico più giovane con cui ho una lunga conoscenza, e che mio padre era un grande amico di suo padre, allora avete ragione. Ma voi lo sapevate già, Lord Taylor. Non siete venuto qui per dirmelo.”
+
+Lord Taylor assunse quell’espressione che utilizzava un tempo quando era direttore della filiale di Manchester: doveva parlare con serietà di un sovrautilizzo del credito da parte di un cliente importante, ma allo stesso tempo doveva trovare il modo per aumentargli ulteriormente il limite di credito, affinché non perdesse tutto.
+
+“Oh, sì, lo sapevo tutto,” disse, “ma voglio parlarti di qualcosa di molto grave. Mi sento come una sorta di guardiano di Lexington. È più o meno mio dovere prendersi cura di lui, capisci? Dopo la morte di suo padre, ho dovuto occuparmi delle piccole questioni legate all’assicurazione e ai debiti. E insomma, Bowring, per farla breve, la cosa è questa: penso che dovrei essere coinvolto anch’io in questa faccenda, insieme a voi due.”
+
+“Che cosa vuoi?” disse Bowring.
+
+“Dovrei desiderare soltanto una piccola percentuale,” continuò il banchiere, come se Bowring non avesse parlato. “Una percentuale molto piccola, diciamo un terzo. E in qualsiasi condizione tu voglia. Ma ho le possibilità per gestire questa materia su larga scala, lo sai, cose che tu non avrai mai. E penso che, per il bene di Lexington, dovrei essere coinvolto anch’io nella vostra collaborazione. Ho preso la parola,” aggiunse, con una certa pompa, “in quella conferenza, ti ricordi della sua conferenza?”
+
+“No,” disse Bowring, mentendo. “Quale lezione?”
+
+“Trasformazione dei metalli”.
+
+Bowring sorrise, con un leggero sorriso beffardo.
+
+“Oh,” disse. “E pensi che Lexington riuscirà a trasformare i metalli? Quali metalli?”
+
+Ma mentre parlava, i suoi pensieri correvano veloci e avevano già raggiunto una conclusione: quel vecchio sciocco di Taylor era rimasto colpito da quella lezione e aveva l’idea vaga che un giorno potesse portare a qualcosa. Aveva sentito dire che Lexington fosse venuto nel suo negozio, nella sua casa. Le banche sanno tutto. Il vecchio Taylor voleva impedire che venissero scoperte eventuali informazioni. Beh, a Bowring bastava restare fermo e non ammettere nulla.
+
+“Ve lo ripeto ancora una volta,” disse Lord Taylor alzandosi, come se volesse andarsene – un gesto che aveva rivelato efficace in altre situazioni di negoziazione. “Ve lo dico per l’ultima volta: una percentuale ragionevole, diciamo un terzo. Solo allora ritengo sia mio dovere collaborare con entrambi, per il bene stesso di Lexington.”
+
+Bowring parlò con un tono di voce diverso, più calmo e cortese.
+
+“Si sieda di nuovo, la prego, Lord Taylor,” disse lui. E Lord Taylor si sedette, ma con impazienza.
+
+“Quando ho iniziato questo business,” continuò Bowring, “ero geloso della mia indipendenza. Sono uno di quegli uomini che non tollerano complicazioni né l’involgimento di altre persone nelle proprie faccende private. Ho sempre considerato questo negozio soltanto un hobby, anche se piacevole; voglio certo essere bravo nel mio hobby, come tutti del resto. Forse ho ampliato l’attività più di quanto avessi intenzione di fare. Comunque, non diventerà mai nulla di importante. Di certo non dovrei mai coinvolgere un giovane come Lexington in questo progetto. Potete stare tranquilli su questo punto. Ma perdonatemi se non posso nemmeno prendere in considerazione una proposta così lusinghiera riguardo a nuovi investimenti da parte di una persona come voi.”
+
+“Non ho detto nulla riguardo a nuovo capitale,” intervenne Lord Taylor. Per quarant’anni era stato attento a simili supposizioni superficiali e le respingeva non appena queste iniziavano ad affiorare.
+
+“No! No! Certo che no,” continuò Bowring con cortesia. “Non volevo dire che l'aveste già. Avrei dovuto dire piuttosto che anche se aveste proposto nuovo capitale, non mi sarebbe stato di alcun aiuto. Capite? È molto semplice: si tratta di un’impresa personale, e deve rimanere tale. Altrimenti, tutto il mio divertimento nel comprare e vendere questi giocattoli” — fece un piccolo gesto verso le sue merci — “scomparirebbe. Non dovete arrabbiarvi con me. Ora vi ho detto esattamente cosa penso.”
+
+Ma Lord Taylor era arrabbiato, e non riusciva a nascondere la sua rabbia.
+
+“Molto bene,” disse lui, alzandosi per la seconda volta e prendendo il cappello, i guanti e il bastone dal tavolo dove li aveva lasciati. “Molto bene, signor Bowring! Pensate davvero di potermi ingannare? Non siete certo il primo ad averlo pensato. Credete forse che non sappia cosa vi offre Lexington?”
+
+Il signor Bowring alzò leggermente le spalle e sorrise con compassione. Il suo visitatore tremava per l’emozione.
+
+“Non dite che non vi ho avvertito!”, gridò. Esitò un momento alla porta, come se volesse aggiungere qualche minaccia. Ma non disse altro che “Buongiorno” e uscì.
+
+Il brillante sole di quel pomeriggio di aprile e l’aria fresca e pungente proveniente da nord-est soffiavano sulle strade di Londra. Lontano a ovest, la persona coinvolta in quella breve conversazione stava riprendendosi, ancora stordita dall’impatto dell’evento appena accaduto, fissando il fumo dell’esplosione che aveva distrutto le nuove speranze della sua vita.
+
+Il Segretario dell’Interno viveva in un modesto appartamento di quel tipo più economico, all’interno di un grande e molto brutto complesso di edifici in mattoni rossi costruiti di recente in uno dei nuovi quartieri di Westminster. Il suo nome, John Huggerley Mills, era stato ridotto a “Jack Mills” a causa delle esigenze della vita pubblica; infatti lui era un comunista di stampo ortodosso e aveva servito fedelmente il partito per ormai vent’anni: un comunista di destra. Aveva fatto carriera all’interno del suo sindacato seguendo i passaggi tradizionali: prima come segretario organizzatore delle due grandi lotte sindacali, poi come indiscusso leader di quel vasto gruppo di persone che avevano piena fiducia in lui e che lui meritava davvero. Non era sposato e non aveva nessuno che dipendesse da lui, tranne un nipote con cui aveva stretto una forte amicizia; il nipote aveva appena terminato i suoi studi all’Università di Londra.
+
+Jack Mills era rispettato tanto dal mondo esterno in cui si era inserito dopo la sua prima elezione al Parlamento, quanto dagli uomini del grande sindacato di cui era riconosciuto leader. Il suo patrimonio ammontava forse a un massimo di 300.000 sterline: una somma non molto elevata per qualcuno che aveva avuto la capacità di accumulare ricchezze durante vent’anni di attiva attività parlamentare. Per carattere possedeva tutte le qualità richieste da quella importante carica: riservato, equilibrato, con una buona conoscenza delle persone, era esattamente il tipo di individuo che le nuove condizioni politiche stanno producendo, a vantaggio permanente del paese. Per aspetto fisico era un uomo alto, dal viso piatto, largo e piuttosto pallido; mostrava grande autocontrollo, occhi piccoli incastonati nella faccia, e un’espressione che solo un nemico avrebbe potuto definire astuta.
 
 
 
@@ -3933,6 +5211,72 @@ Hammersham went out and returned with it in a few minutes.
 “Yes,” answered Mills, shutting the cover of the folder. “But wait a moment. I want to explain matters to you. I have thought of all this a good deal. Ever since that lecture was given, when you took the Chair. I was not there, but I read it myself fully, and I heard all the talk about it, and I’ve got all the material together here. Hammersham arranged it for me. Now ... wait a moment” (for Lord Taylor was about to speak) “I’ll tell you what the arguments are against any immediate action, and perhaps against any action at all. We could legislate for this country. We can’t legislate for anyone else.” Taylor admitted the truism with a nod. “We can’t legislate for the Dominions; and they produce gold, mind you, and we don’t. We can’t legislate for the United States. We can’t legislate for any of the countries of Europe. It would need very careful and very secret negotiations before any common action could be taken, and in that negotiation there would be the danger of leakage.” He spoke as unconcernedly as though he were dealing with some petty business of detective work at Scotland Yard. He didn’t allow the tremendous news to alter a muscle of his big, pallid face. He was looking full at Lord Taylor again.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Per quanto riguardava le sue origini, non aveva conservato nulla di più di ciò che la decenza richiedeva: il colletto piatto, i vestiti pronti all’uso e, per le occasioni pubbliche, il dialetto della sua città natale. In privato, da tempo parlava inglese normale. Aveva cortesia fin dal principio, oltre alla conoscenza del mondo che aveva acquisito. Aveva anche mantenuto quella sottile ma lunga barba a punta di cera: un tratto distintivo che i suoi compagni di lavoro gli avevano spesso preso in giro prima ancora che il suo nome diventasse noto al di fuori del laboratorio.
+
+Ecco dunque il semplice Jack Mills, il cui cognome materno era Huggerley (tenuto discretamente in secondo piano). Era un uomo di cui possiamo andare fieri.
+
+Davanti alla sua porta, salendo faticosamente le scale di pietra (non c'era ascensore), Lord Taylor arrivò meno di mezz’ora dopo essere uscito dal negozio di Bowring. Aveva percorso Mayfair, poi St. James’s e attraversato il Parco, con una missione molto semplice in mente. Poiché Bowring non aveva inteso il messaggio che gli era stato inviato, il dovere di Lord Taylor era chiaro: doveva informare le autorità, ma doveva farlo con la discrezione richiesta dalla situazione.
+
+Nel corso naturale delle cose, conosceva Mills meglio di Bowring. Era suo compito mantenere i contatti con l’amministrazione. E Mills, sia quando era al potere che in opposizione, era stato un conoscente suo, e quasi un amico, fin dai primi anni in cui la carriera pubblica di quel politico aveva iniziato.
+
+Lo fecero entrare in un salotto ben arredato, pieno di libri. Davanti a una grande scrivania di mogano coperta di documenti, su cui c'erano anche un campanello elettrico, un telefono e altre attrezzature, Mills stava lavorando. Si alzò per salutare l’anziano banchiere non appena questi entrò. Taylor notò con approvazione le porte doppie; aspettò fino a quando sentì chiudersi sia la porta interna che quella esterna, e poi, mantenendo un tono di voce basso, gli spiegò immediatamente il motivo della sua visita.
+
+“Mills,” disse, “sei un uomo molto impegnato, proprio come lo sono io, e non perderò tempo in preamboli. Ma devi prepararti a qualcosa di piuttosto sorprendente.” Fece una pausa deliberata. Il grande viso di Mills e i suoi occhi attenti fissavano il banchiere senza battere ciglio.
+
+“Sì?”, disse. E mentre lo diceva, posò le mani, con le dita unite, sul tavolo e aspettò di sentire cosa sarebbe successo dopo.
+
+“Conosci tutte quelle discussioni che vanno avanti da anni sulle trasformazioni dei metalli da uno stato all’altro, e tutta quella roba scientifica noiosa?”
+
+Mills annuì. Era davvero al passo con i tempi.
+
+“Elettroni e tutto il resto,” disse Taylor in modo vago.
+
+Mills annuì di nuovo. “Elettroni,” mormorò.
+
+“Beh, Mills,” disse Taylor, appoggiandosi con noncuranza allo schienale della sedia per apparire ancora più imponente, e abbassando la voce di un altro tono. “L’hanno fatto!”
+
+“Fatto cosa?”, disse Mills senza particolare enfasi. “Qualche sostanza chimica o qualcos’altro?”
+
+“Hanno ottenuto l’oro.”
+
+Ci fu un silenzio che durò almeno un minuto. Mills fece attenzione a non interromperlo, e Taylor si trovò costretto a riprendere la conversazione.
+
+“Sai cosa significa?”
+
+Mills annuì. “Più o meno,” disse.
+
+“È dovere del Governo” (e mentre pronunciava la parola “dovere”, l’uomo anziano si sporse in avanti e batté leggermente il pugno sul tavolo), “è dovere del Governo agire, subito!”
+
+Mills attese ancora a lungo prima di rispondere; ma Taylor era deciso che fosse lui ad parlare per primo. Alla fine lo fece, molto lentamente.
+
+“Taylor,” disse, “scusami per aver chiamato la mia segretaria. Non dirò nulla davanti a lui, non devi temerlo. Forse in futuro dovrai incontrarlo spesso, non so, ma tanto vale che ti dica chi è. Magari lo conosci già.”
+
+“Certo che so chi è,” disse Taylor. “Il giovane Hammersham, il nipote del vecchio Lord Hammersham. Entrambi ricordiamo il vecchio Lord Hammersham, quando tu eri giovane e io non ero ancora così anziano come ora, vero? Quel Hammersham che lavorava al Ministero degli Esteri.”
+
+Mills annuì di nuovo.
+
+“È lui,” disse. “Non ha ancora nulla. Non gli permetterò di entrare in Parlamento. Forse più tardi avrà qualcosa. Non lo so. Ma è davvero molto utile. Ci sarà tempo sufficiente per occuparcene in seguito.”
+
+Suonò la campanella a mano.
+
+“Potrebbe chiedere al signor Hammersham di intervenire?” disse.
+
+Le due porte furono chiuse una dopo l’altra, al termine di un rituale che Lord Taylor fu lieto di vedere rispettato con tanta regolarità. Poco dopo si aprirono nuovamente e vennero richiuse con la stessa cura di prima, quando entrò Hammersham.
+
+“Signor Hammersham,” disse Mills – e Lord Taylor notò l’uso della parola “signore” – “le sarebbe possibile portarmi quella cartella contrassegnata con LL/2? Quella riguardante il discorso di Lexington, sa.”
+
+Hammersham uscì e tornò dopo pochi minuti con esso.
+
+“Grazie, signor Hammersham, va bene così,” disse il suo capo; e il giovane scomparve di nuovo. Hammersham non aveva detto nulla; tutto era avvenuto in modo automatico, efficiente e rapido.
+
+“L’ho qui,” disse Mills, aprendo la cartella e sfogliando una pagina dopo l’altra. “Dopo quella lezione sulla trasformazione dei metalli, ho preso appunti su tutto e fatto tutte le ricerche necessarie. Ho il dossier completo qui.” Lord Taylor notò la parola “dossier”.
+
+“Puoi agire subito?” disse lui.
+
+“Sì,” rispose Mills, chiudendo la copertina della cartella. “Ma aspettate un momento. Voglio spiegarvi tutto. Ci ho pensato molto bene. Da quando è stata tenuta quella conferenza, quando avete assunto la carica. Non c’ero, ma l’ho letta tutta da solo, ho ascoltato tutte le discussioni al riguardo e ho raccolto tutti i materiali disponibili qui. Hammersham me li ha forniti. Ora, aspettate un momento” (poiché Lord Taylor stava per parlare) “Vi spiegherò quali siano gli argomenti contrari a qualsiasi azione immediata, e forse anche a qualsiasi azione in assoluto. Potremmo legiferare per questo paese. Ma non possiamo farlo per nessun altro.” Taylor annuì, riconoscendo la veridicità di quelle parole. “Non possiamo legiferare per i Dominioni; e ricordate: loro producono oro, mentre noi no. Non possiamo legiferare per gli Stati Uniti, né per nessuno degli altri paesi europei. Sarebbero necessarie trattative molto attente e segrete prima di poter intraprendere qualsiasi azione congiunta. E in quelle trattative esisterebbe il rischio di fughe di notizie.” Parlava con la stessa indifferenza con cui avrebbe affrontato qualche banale questione legata al suo lavoro alla Scotland Yard. Non lasciò che quella notizia straordinaria alterasse nemmeno un muscolo del suo viso pallido e massiccio. Continuava a fissare Lord Taylor.
+
 
 
 <span class="atom-split" data-atom="chapter_09--part_04" data-title="The Man Who Made Gold — Chapter 8 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/imprisonment,concept/power_and_corruption,concept/authority,concept/communism,concept/secrecy_and_concealment,form/satire,form/science_fiction,setting/london"></span>
@@ -3973,6 +5317,42 @@ He rose to go. “I suppose you know best, Mills!” he said. He had longed for 
 He showed the banker through the double doors and took him to the landing of the stair; they talked for a moment of indifferent things, each in a voice calculated for any servant who might be listening to hear; and the interview was at an end.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Non vedo cosa altro si possa fare se non emettere un ordine immediatamente,” disse il banchiere con fermezza. “Potrebbero iniziare a mettere il loro oro sul mercato da un momento all’altro. Forse lo stanno già facendo.” Era venuto con uno scopo preciso: portare a termine la cosa e mettere Bowring in difficoltà. Non gli piaceva essere trattenuto.
+
+“La prima cosa da fare,” proseguì Mills senza scomporsi, “è individuare, chiamiamolo il colpevole, va bene? Immagino sia Lexington, naturalmente.”
+
+“Ora, ascolta bene, Mills,” intervenne Taylor con decisione, “è meglio che tu sappia tutta la verità. È Lexington, naturalmente. Lui ha fatto il colpo. Ma quello che è peggio è che sta negoziando gli accordi. Ha già trovato il suo mercato. Devo dirti con chi sta lavorando. Bowring, l’uomo con quel piccolo negozio a Mayfair. Lo conosci?”
+
+“Avrei dovuto indovinarlo. Grazie per avermelo detto,” scrisse Mills il nome su un foglietto di carta con la penna e lo infilò nella cartella.
+
+“Che cosa proponi di fare?” chiese Taylor.
+
+“Quello che ho detto,” disse Mills. “Trovate il colpevole, che è, come mi avete raccontato e come sospettavo, Lexington. Ci sono modi,” aggiunse, alzando leggermente la voce con determinazione, “per far fare a una persona ciò che le viene ordinato. Non esiste nessuno per cui non si sappia abbastanza da garantirlo.” E con queste ultime parole strinse forte le labbra.
+
+“Non so nulla di ciò che Lexington abbia mai fatto, ” iniziò Lord Taylor, senza speranza.
+
+“No, nemmeno io,” rispose Mills. “Ma il Dipartimento lo scoprirà. Abbiamo tutti registrati in un archivio. E se non c’è nulla, il Dipartimento può comunque inventare qualcosa. È proprio per questo che esiste. Possiamo far tacere quel giovane, o metterlo in un posto dove rimarrà zitto per vent’anni.”
+
+“Sei davvero sicuro?” chiese ansiosamente Lord Taylor.
+
+“Certo che sì,” rispose Mills.
+
+“Quindi non hai intenzione di fare nulla al riguardo?”
+
+“Intendi dire, qualcosa di pubblico? No. Sarebbe un errore. Tu non noterai nulla, Taylor,” disse, quasi con gentilezza, “e nemmeno il pubblico se ne accorgerà. È proprio questo lo scopo. Ma puoi essere sicura di una cosa: potrai verificare personalmente che nessuno ne sa nulla, tranne noi due, e Bowring. E scoprirai che non ci sarà alcun movimento nei mercati. Me ne occuperò io stesso. Mi fidi?”
+
+“Oh, sì, ti fido,” disse Lord Taylor. Ma rimase deluso: voleva che il suo Consiglio di Stato intervenisse.
+
+Si alzò per andarsene. “Suppongo che tu sappia meglio, Mills!”, disse. Aveva desiderato ardentemente l’opportunità di mettere pressione su Bowring e fargli capire che era stato lui a farlo. Si trattava solo di una questione personale, e nel profondo del cuore ne provava un po’ di vergogna. Ma dopotutto, in questa particolare faccenda, era Mills ad avere tutto il potere ufficiale. A Lord Taylor venne in mente che quattro persone che conoscevano un segreto del genere rappresentavano un numero eccessivo. Avrebbe quasi voluto prendersi più tempo per rifletterci sopra, invece di agire così frettolosamente, spinto dall’ira per il rifiuto di Bowring. Ma ormai era troppo tardi.
+
+“Molto bene, Mills”, disse. “Te lo lascio a te”.
+
+“Penso che tu abbia ragione,” disse Mills. “Onestamente sì. Guarda il risultato, e come ho detto, non sarai deluso.”
+
+Gli fece attraversare le porte doppie e lo portò al pianerottolo delle scale; parlarono per un momento di argomenti banali, ognuno usando un tono adatto a essere udito da eventuali servitori che potessero ascoltare; poi l’incontro terminò.
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_01" data-title="The Man Who Made Gold — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="setting/oxford"></span>
@@ -4012,6 +5392,42 @@ Bowring sighed, but said nothing.
 
 “It’s a lad that won’t be content with a safe berth and a salary slightly rising and perhaps a knighthood” (another laugh) “at fifty. He might do anything. Some lads with no father and an uncle in my position would just do nothing. But he’s not like that.”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO IX
+
+Il segretario di gabinetto era un uomo metodico. Si avvicinò alla finestra, si allontanò leggermente dal vetro e aspettò fino a quando non vide il vecchio Taylor uscire dal portone degli appartamenti; notò che camminava a piedi e che svoltava a sinistra, probabilmente diretti verso le Camere del Parlamento. Il disegno di legge sul cotone era in discussione e aveva sentito dire che Taylor avrebbe parlato al riguardo. Guardò l’orologio: il suo ospite “in ritardo” sarebbe stato al sicuro all’interno della sede del Parlamento almeno fino all’ora di cena. Era certo che Taylor non avrebbe perso nulla delle discussioni sul cotone; da settimane quel tema rappresentava il suo principale interesse. Dopo essersi assicurato che tutto fosse a posto, uscì, prese un taxi e si diresse direttamente verso il negozio di Bowring: mancava ancora un’ora alla chiusura.
+
+Nel momento in cui Mills stava uscendo dal portone principale degli appartamenti e dirigendosi verso la strada di Hammersham, anche lui stava guardando dalla finestra. Scese immediatamente al piano di sotto; vide Mills prendere un taxi. Prese a sua volta un altro taxi e ordinò al conducente di seguire Mills. Ma quando il taxi del Segretario dell’Interno svoltò in Percy Street, fece dirigere il proprio taxi non verso il negozio di Bowring, ma all’angolo, a cento metri di distanza, da dove era possibile vedere chiunque entrasse o uscisse dal negozio.
+
+Jack Mills non aveva mai avuto l’occasione, nella sua vita, di acquistare stoviglie d’oro o d’argento; non era conforme alla sua posizione farlo. Avrebbe potuto permettersi una piccola collezione, e essendo un uomo dal buon gusto, senza dubbio ne avrebbe raccolta una in futuro. Ma fino ad allora, né sul suo tavolo né intorno a lui c’era nulla che potesse far sì che gli avversari lo denigrassero. Finché rimaneva semplicemente Jack Mills, portavoce dei suoi compagni lavoratori nel sindacato che ancora era orgoglioso di guidare, doveva continuare ad essere ciò che era sempre stato.
+
+Bowring avrebbe dovuto essere ancora più sorpreso nel vederlo arrivare a quell’ora tarda: infatti, Mills sicuramente non sarebbe venuto lì per fare acquisti.
+
+Ma Bowring non era sorpreso. Da quando il banchiere lo aveva lasciato in quell’atmosfera tesa di rabbia repressa, sapeva già cosa aspettarsi. Taylor avrebbe contattato il Ministero dell’Interno. Non pensava che l’intervento del Ministero assumesse proprio questa forma; si aspettava forse un messaggio che lo convocasse nella stanza privata del Segretario di Stato al Parlamento, dove accadono cose importanti. O più probabilmente gli sarebbe stato chiesto di pranzare con lui da qualche parte. Invece le cose erano andate diversamente; stavano procedendo più rapidamente di quanto avesse immaginato. Comunque, eccolo l’uomo che sapeva di dover affrontare prima o poi. E per affrontarlo si era preparato fin dal momento in cui aveva rifiutato apertamente la proposta di Taylor, un’ora o due prima. Taylor aveva messo in atto la sua minaccia implicita.
+
+“Signor Bowring,” disse il Segretario dell’Interno sorridendo, mentre la sua imponente figura occupava l’ingresso del piccolo negozio, “forse avrei dovuto scrivervi prima di venire; ma la verità è che oggi ho avuto molte cose da fare e non sapevo quando avrei potuto liberarmi. Ho trovato appena questi mezz’ore liberi, quindi ho preso un taxi per parlarvi di due cose che mi stanno a cuore da tempo, argomenti che è più facile discutere di persona che scrivendoli. Posso esporveli ora?”
+
+“Certo che sì,” disse Bowring con entusiasmo. “Sono completamente libero. Ditemi se posso esservi d’aiuto. C’è qualcosa che vorreste che facessi? È passato molto tempo da quando ci siamo visti l’ultima volta, a cena da Mrs. Guntry, vero? Più di un mese fa. Ricordo che allora mi raccontaste quella storia riguardante il caso Taylor, e di come riuscirono a individuare l’uomo che aveva rubato la collezione di monete dalla casa. È stato molto interessante. Forse è per qualcosa del genere che siete venuti da me? Oh, vi prego, sedetevi.”
+
+“No,” disse Mills. “Non si tratta di nulla del genere” (inclinandosi familiarmente verso il tavolo, come se stesse parlando con un amico). “No, sono solo due cose che mi sono venute in mente; su entrambe potresti davvero essermi di grande aiuto. Ma non voglio disturbarti. Voglio soltanto suggerirtele e vedere cosa ne pensi.”
+
+“Dimmelo, per favore,” disse Bowring. “Dimmelo, per favore,” e si appoggiò allo schienale.
+
+“Beh,” disse Mills, con una leggera risata, cercando di trattenersi il più possibile, “sono cose del tutto diverse. Una è assolutamente privata, riguarda solo la famiglia, e ne parlerò per prima cosa. Conosci mio nipote?”
+
+“Ah sì, l’ho incontrato,” disse Bowring. “L’ho visto solo la scorsa settimana, quando sono andato a Laversham per il fine settimana. Spero che non penserete che io sia troppo familiare con lui se vi faccio i complimenti. Mi ha detto che aveva appena conseguito la laurea, e io gli ho detto quanto fosse saggio aver fatto i suoi studi a Londra.”
+
+“Quindi ho pensato,” disse Mills, “quando l’ho mandato lì. Se vuole intraprendere una carriera in un settore che lo interessi davvero, ha maggiori possibilità a Gower Street che non a [[Oxford]] o Cambridge. E mi piace che le persone inizino presto nella loro carriera. Anch’io ho iniziato giovane,” aggiunse, con quel suo leggero sorriso. Gli piaceva fare queste allusioni alla sua carriera.
+
+“E hai fatto molta strada,” disse Bowring.
+
+“Beh, ora ascolti bene, signor Bowring: ecco il punto. Ho pensato che sarebbe stata un'ottima opportunità per mio nipote se, per caso, lei potesse trovare un posto per lui nel suo business. So che è improvviso da parte mia presentarmi così all’improvviso, ma, beh, sono fatto così: faccio le cose quando mi vengono in mente. Questa mattina, prima di scendere in Parlamento, il ragazzo mi ha parlato di ciò che voleva fare; mostrava un grande interesse per queste cose, e visto che coincidevano in parte con ciò che avevo intenzione di fargli intraprendere, non ho potuto fare a meno di pensare che nelle sue idee ci fosse qualcosa di valido. Certo, ora che ha una buona formazione e molti sostegni, potrebbe anche scegliere la carriera nel Servizio Civile; ma è troppo giovane per questo, signor Bowring. Ha l’ambizione di farsi strada da solo; immagino sia ereditato il mio spirito d’iniziativa,” e rise per la terza volta.
+
+Bowring sospirò, ma non disse nulla.
+
+“È un ragazzo che non si accontenterebbe mai di una posizione sicura, di uno stipendio leggermente aumentato e forse anche di un titolo nobiliare, a cinquant’anni. Potrebbe fare qualsiasi cosa. Alcuni ragazzi senza padre, con un zio nella mia posizione, semplicemente non farebbero nulla. Ma lui non è così.”
 
 
 
@@ -4073,6 +5489,62 @@ Bowring broke in :
 “I can’t do it! My dear sir! I can’t do it! “said Bowring. “I am really very sorry, but I can’t. Ask any of my friends and they will tell you. I’m a one-man man. This shop is my pleasure and my occupation, and my amusement in life. I don’t pretend to make much out of it. But I really must go on as I have gone on all these years. I put it plainly … I can’t take in a partner — not even your nephew — whom I regard as one with yourself. You know how much I’d like to….”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“No,” disse Bowring.
+
+“E se davvero decides di avviare un'attività commerciale, penso davvero che tu sia l’uomo giusto per aiutarlo. Entrambi ti fidiamo. E sai quanto io, signor Bowring, ti stimi e ti rispetti. Tutti noi lo facciamo. Non c’è nessuno in Inghilterra che possa essere più utile per mio nipote. Dovremmo evitare di discutere sui termini dell’accordo: hai tutto il diritto di chiedere un compenso adeguato. O, se preferisci, posso anche procurarti del nuovo capitale.”
+
+Vide quella testa forte che gli opponeva un rifiuto scuotersi in segno di negazione.
+
+“Beh! Beh! Non si tratta certo di cifre, vero? Qualcosa dovrà pur essere chiamato. E se non volete che venga usato un nome in maiuscolo, o che ci sia qualche costo aggiuntivo, beh, fate pure come preferite. Potrei anche ostacolarvi nel vostro progetto. Ma vorrei vedere quel ragazzo qui.” Guardò intorno al negozio. “È solo un’idea, signor Bowring. Me ne sono occupato da un po’ di tempo.” Fece una pausa e fissò gli occhi dell’altro, che ricambiarono lo sguardo con fermezza, ma senza alcuna sfida. “Sa cosa mi ha fatto venire in mente questa idea, signor Bowring?”
+
+“No,” disse il signor Bowring.
+
+“Perché, ” (la risata risuonò per la quinta volta, in modo piuttosto nervoso), “perché, era quel giovane Don, il signor Lexington. Lo chiamo giovane perché è più giovane di te e di me, eh?” E poi ci fu una sesta risata.
+
+“Sì, è giovane, rispetto a te e a me,” ammise Bowring. “Mi piace. Suo padre era un vecchio amico della mia famiglia.”
+
+“Sì, esatto. Anche a me piace.”
+
+# L’hai già incontrato?
+
+“Oh, solo una o due volte” (settimo risatino leggero). “Quando mi hanno conferito il titolo onorifico l’estate scorsa, e ne ero davvero orgoglioso, credetemi! E poi, durante la partita universitaria. E ancora una o due volte dopo. Sì, Lexington è davvero un bravo ragazzo. Ovviamente so quanto siate legati. In realtà, signor Bowring, pensavo che voi due foste una sorta di partner, ”
+
+Un altro forte scuotimento della testa, a segno di negazione.
+
+“Beh, beh, non ne so nulla di tutto questo, ma ovviamente lui viene qui spesso, e anche a casa vostra. Ecco perché ho pensato così. A proposito, signor Bowring, ha letto quella conferenza davvero straordinaria che ha tenuto? Quella molto importante. Intendo quella sulla trasmutazione dei metalli.”
+
+“No,” disse Bowring, “non l’ho fatto. Ma lui mi ne ha parlato. Gli piacciono abbastanza queste sciocchezze.”
+
+“Pensa che sia assurdo, vero, signor Bowring?”, disse il Segretario dell’Interno con tono meditativo.
+
+“Sì”, disse Bowring con fermezza. “A mio parere, è pura assurdità”.
+
+“Non crede negli elettroni, signor Bowring?” (ottavo risatino leggero).
+
+“Non credo e non dubito, e non mi interessa nemmeno. Ma sono abbastanza sicuro che, nella pratica, indipendentemente dalla teoria, i metalli continueranno a comportarsi come hanno sempre fatto. I metalli rimarranno metalli. Cose testarde, insomma!”
+
+“Beh, non ne sono affatto sicuro,” disse il signor Mills ad alta voce e con un tono così allegramente deciso da essere davvero impressionante ascoltarlo. “No, signor Bowring. Assolutamente non ne sono sicuro. La scienza moderna è davvero una cosa meravigliosa; l’ho sempre detto e lo dirò sempre. Non si sa mai cosa possa succedere dopo. No, non ne sono affatto sicuro.” Scosse la testa. “Anzi, ne ho parlato con molte persone, signor Bowring. Voi vi occupate di metalli preziosi, ” continuò, giocherellando per un momento con la statuetta sul tavolo. “Nessuno ne sa più di voi su questo argomento. Possiamo tutti rivolgerci a voi in questa questione, signor Bowring. E questo mi porta al mio secondo punto. Che, naturalmente, non ha nulla a che fare con il primo. Ma sono un uomo molto impegnato, come sapete, e ho solo questo poco tempo a disposizione. Questa volta si tratta di una questione pubblica. E voi siete proprio la persona il cui parere desidero ascoltare. Vi dico, signor Bowring, credo che ci sia del vero in quelle teorie scientifiche. E mi chiedo se noi – intendo il governo – non dovremmo intervenire per prevenirle. Mi sono chiesto anche se non sarebbe saggio presentare un disegno di legge che concedesse al governo il pieno controllo su qualsiasi tentativo di modificare la natura dei metalli e simili. Dopotutto,” (risata del nono politico pallido) “parlano addirittura di creare oro. Almeno Lexington l’ha detto in quella conferenza. C’è davvero qualcuno che sembra essere riuscito a produrne un po’, vero? Con il mercurio, se ricordo bene, ”
+
+“Roba del genere,” disse il signor Bowring con indifferenza.
+
+“Solo che, naturalmente, si tratta di solo una piccolissima quantità di polvere, e comunque è dubbia l’effettiva utilità di farlo. Inoltre, il costo sarebbe enormemente superiore al valore reale del risultato. Ma non si sa mai. Ed è proprio per questo che sono venuto a chiedervi il vostro parere. A mio avviso, sarebbe davvero saggio disporre di un controllo più completo su questa materia. Non dovremmo ostacolare persone come voi nel loro commercio legittimo. Tuttavia, è necessario conoscere con precisione la quantità d’oro presente nel paese, e quando tale quantità aumenti, ” fece una pausa “, o diminuisca.”
+
+Il signor Bowring non disse nulla.
+
+Il Segretario dell’Interno proseguì con un sorriso piuttosto acido:
+
+“C’è già un certo grado di controllo, non è vero? Ma quello che intendo dire è: una legge che rendesse illegale l’utilizzo di metalli con pesi diversi da quelli noti e certificati; che considerasse il produrre oro un reato grave; e che regolamentasse anche la compravendita di oro prodotto industrialmente. Certo, oggi tutto questo sembra molto fantastico, ma chi può sapere cosa succederà domani? Oggi stesso, queste cose possono arrivare all’improvviso.”
+
+# Bowring intervenne improvvisamente
+
+“Mi dispiace interromperla, signor Mills, ma per tornare su quel primo punto, se non le dispiace, perché penso che dovremmo essere chiari al riguardo, e non voglio offenderla in alcun modo. Farò qualsiasi cosa per il suo bene, ovviamente, così come per quello di suo nipote. La considero una persona molto importante per me. Lo raccomanderò a chiunque lei desideri, e sono sicuro che se la caverà molto bene. C’è ad esempio l’attività di Burly: un’impresa davvero ottima; hanno realizzato il set d’oro per il trofeo, e so che stanno cercando qualcuno. Quell’uomo sta per andare in pensione.”
+
+“Ma, signor Bowring,” disse il Segretario dell’Interno, chinandosi sopra il tavolo e sorridendo in modo significativo, “le assicuro che il cuore di mio nipote è deciso, sa com’è i ragazzi, e quanto forte possano essere queste loro decisioni. Il cuore di mio nipote è deciso ad venire qui con lei. L’ha supplicato così tanto!”
+
+“Non ce la faccio! Mio caro signore, non ce la faccio!” disse Bowring. “Mi dispiace davvero molto, ma non posso. Chiedetelo a qualsiasi dei miei amici e vi confermeranno. Sono una persona che si occupa da sola di questa attività. Questo negozio rappresenta per me il piacere, l’occupazione e anche il divertimento della mia vita. Non pretendo certo di guadagnare molto. Ma devo davvero continuare come ho fatto tutti questi anni. Vi dico chiaramente: non posso assumere un socio. Nemmeno vostro nipote, che considero come una parte di voi stesso. Sapete quanto desideri farlo, ”
+
 
 
 <span class="atom-split" data-atom="chapter_10--part_03" data-title="The Man Who Made Gold — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/vow,concept/power_and_corruption,concept/economics,concept/money_gold_greed,concept/authority,concept/satire_of_society,form/satire,form/science_fiction,setting/london"></span>
@@ -4132,6 +5604,62 @@ What did they suspect? He knew what they suspected. What did they know? He wonde
 
 Taylor had at least imagined something — perhaps half guessed. Taylor had wanted to share the swag. When he’d been sent about his business he had gone in a rage to the Home Secretary to make him take public action, and the Home Secretary — being a Parliamentarian true to type — had double crossed Taylor. All that was obvious. But how much did they know?
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“È la fine?” disse il signor Mills; i suoi occhi brillavano ancora meccanicamente, ma in modo piuttosto debole, e le sue labbra serrate sembravano minacciose in modo ironico.
+
+“Sì,” disse Bowring con fermezza, “è definitivo.” C'era qualcosa nel suo tono che sembrava quasi una minaccia. Il viso di Jack Mills cambiò. Non fu un cambiamento drammatico o violento, ma bastò. I suoi occhi si indurirono, e la sua espressione divenne meno ironica e più decisa.
+
+“Molto bene, signor Bowring,” disse, raddrizzandosi. “Molto bene. Se non è possibile, allora non è possibile.” Sospirò, poi cambiando tono: “Ora parliamo dell’altra questione. Sa, da quando abbiamo iniziato questa conversazione, ho continuato a rifletterci sopra, e ora credo di aver trovato una soluzione. Introdurrò quella legge. Subito. Ora lei, signor Bowring, ” – lo fissò e cercò di sorridere di nuovo – “forse ha ragioni particolari. Si ricordi quello che le dico: ragioni particolari per dirmi cosa ne pensa delle proposte che ho in mente.”
+
+“Non riesco a capire cosa intendi,” disse Bowring.
+
+“Allora vi dirò tutto più chiaramente, signor Bowring.” La sua voce salì di nuovo. “Vi spiegherò con assoluta chiarezza, e non credo che lo dimenticherete. Penso che rimarrà ben impresso nella vostra mente. Signor Bowring, produrre oro diventerà un reato grave.”
+
+Il signor Bowring ebbe la sfrontatezza di ridere.
+
+Il Segretario dell’Interno proseguì:
+
+“Un reato grave, si badi bene. E stenderemo le reti molto ampie: non solo il reato commesso da chi lo ha realizzato, ma anche il reato di nascondere qualsiasi informazione riguardante la sua produzione, il reato di ricevere oro prodotto in questo modo sapendone l’origine. E c’è un’altra novità che stiamo per attuare, signor Bowring. Credo che anche questa le interesserà. Sembra un po’ rivoluzionario, vero? Farò prestare giuramento a chiunque le autorità indichino, ovviamente a tutti coloro che operano nel settore dell’oro e dei metalli preziosi, affinché dichiarino di non sapere nulla riguardo a questo processo, di non aver ricevuto nessuno dei suoi prodotti. Ha capito bene, signor Bowring? È davvero chiaro?”
+
+“Assolutamente chiaro,” disse Bowring, “e, se mi permettete di dirlo, anche molto stupido. Potreste benissimo rendere reato grave viaggiare sulla Luna.”
+
+“Beh, signor Bowring, mi ha ascoltato, vero? Le conseguenze ricadranno su di lei.”
+
+Bowring sorrise.
+
+“Ora è il mio turno di parlare, signor Mills. Intendo essere molto chiara e precisa. Voi entrate nel mio negozio e mi proponete che vostro nipote entri in società con me, il che significa che dovrà conoscere tutti i dettagli delle mie faccende private legate a questo affare. Credete che questo giovane sciocco, Lexington, possa trasformare tutto in oro. So cosa ne penso io della vostra convinzione, ma non importa. Siete venuto qui con questa idea, e in poche parole, volete che lui – e, incidentalmente, anche voi stesso – condivida i risultati che ritenete io stia ottenendo.”
+
+Il signor Mills non guardò indietro; nemmeno gettò un’occhiata di lato. Era un politico, con molta esperienza; sapeva che erano soli, che non c'erano testimoni intorno a lui. Sapeva esattamente cosa stava facendo.
+
+“Vai avanti,” disse lui.
+
+“Quando avete sentito che vi rifiutavo, mi avete minacciato – per farla breve – dicendo che avreste introdotto leggi che, secondo voi, potrebbero spaventarmi e costringermi ad arrendermi, permettendovi di ottenere una parte di questo oro prodotto artificialmente, sotto il pretesto di vostro nipote. Volete la mia risposta definitiva: se permetterò a quel giovane – e con lui intendo voi – di entrare in affari. Beh, signor Mills, se vi proponessi un compenso, per dire, per l’apprendistato di vostro nipote, ditemi onestamente se lo ritereste troppo alto.”
+
+Il signor Mills non sprecò energie nel protestare che Bowring aveva già rifiutato un compenso aggiuntivo. Anche in questo caso, la sua esperienza politica gli fu di grande aiuto. Era più che disposto ad accettare che le persone cambiassero idea, soprattutto su questioni d’onore.
+
+“Dica il nome della sua figura, signor Bowring,” disse semplicemente.
+
+“Chiederò troppo, signor Mills, se le dirò che vorrei ricevere 20.000 sterline?”
+
+“No,” disse il signor Mills con estrema semplicità. “Sono disposto a investire 20.000 sterline.”
+
+“Tu, John Huggerly Mills,” ripeté lentamente Bowring, “pensi che valga la pena pagarmi 20.000 sterline in anticipo per avere il diritto di partecipare alla produzione di questo oro, realizzato in segreto?”
+
+“Sì,” rispose semplicemente Mills.
+
+“Molto bene, signor Mills,” disse Bowring. “Allora può riprendere la mia risposta, chiaramente e per l’ultima volta: non accetterò mai quella proposta. Ora può andare. Scuserà se non la accompagno alla porta, vero? È proprio vicina a lei.”
+
+Il Segretario dell’Interno era un politico con grande esperienza. Sapeva molto bene cosa fossero gli insulti: ne aveva ingoiati dozzine nel corso della sua carriera e era pronto ad ingoiarne altre ancora. Una cosa del genere, quotidiana com'era, non poteva alterare il suo giudizio né accelerare il battito del suo cuore. Ridacchiò di nuovo, questa volta con un tono leggermente meno pallido del precedente, e uscì dalla porta con la sua imponente stazza.
+
+Dall’angolo in cui aveva fatto attendere il proprio taxi per tutto quel tempo, Hammersham vide uscire il suo capo. Gli disse di riportare immediatamente a Westminster a tutta velocità, pagandogli il doppio della tariffa; nel frattempo annotò l’ora. Quando il Ministro dell’Interno tornò, Hammersham era già arrivato sano e salvo, con cinque minuti di anticipo.
+
+Il signor Bowring guardò l’orologio. Avrebbe dovuto chiudere tutto prima, ormai era oltre l’orario di lavoro. Chiuse le persiane e le bloccò con delle sbarre; poi sbatté la porta e la chiuse a chiave. Rimase fermo per un momento, indeciso e in silenzio nella stanza vuota e buia. Era sua abitudine fermarsi così quando era immerso nei suoi pensieri per diversi minuti, immobile, con la barba appoggiata sul petto, valutando i pro e i contro di una questione. E ora stava proprio facendo così. Non emise alcun suono né fece alcun movimento mentre rimaneva lì nel buio. Era profondamente immerso nei suoi pensieri.
+
+Di cosa sospettavano? Lui sapeva di cosa sospettavano. Cosa sapevano loro? Si chiedeva fino a che punto ne fossero a conoscenza.
+
+Taylor aveva almeno immaginato qualcosa, forse solo ipotizzato vagamente. Voleva condividere quei “trofei”. Quando gli era stato chiesto di occuparsi della sua faccenda, era andato su tutte le furie dal Ministro dell’Interno per costringerlo ad intervenire pubblicamente; ma il Ministro dell’Interno – essendo un tipico parlamentare – lo aveva tradito. Tutto questo era evidente. Ma quante cose sapevano davvero?
 
 
 
@@ -4261,6 +5789,130 @@ All great generals take risks. He thought the risk was worth while.
 He turned out to be right. The Waif regularly returned, night after night, and came to get his lesson as pat as a Parson has the Doxology.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Mentre rifletteva, un debole rumore di movimenti soffocati lo svegliò dal suo sogno ad occhi aperti.
+
+Era il suono di un animale, un animale grande; forse un cane, ma un cane molto grosso. C'era anche lo stridore di qualcosa di duro. Era buio pesto; riusciva a sentire solo quei rumori. Riuscì a localizzare la fonte del suono: qualcosa era entrato nella vecchia cassa italiana. Ma come diavolo era riuscito ad arrivarci?
+
+Il coperchio si aprì con un cigolio sui cardini; due stivali toccarono il pavimento, ma non abbastanza silenziosamente da passare inosservati. Il signor Bowring era fermo vicino all’interruttore della luce elettrica accanto alla porta. Lo accese, e questo è ciò che vide.
+
+Una piccola figura rannicchiata, un ragazzo appena entrato nell’adolescenza, terribilmente spaventato, con le braccia abbassate, le ginocchia piegate, vestito di stracci miseri, che lo fissava con uno sguardo misto di terrore e disperazione, e tremava.
+
+“Oh, signore, per l’amor di Dio, non fatelo!”
+
+“Non fare cosa?” disse il signor Bowring; poi, rendendosi conto dell’assurdità di quella frase, aggiunse: “Dio mio, da dove vieni?”
+
+La misera ragazza indicò il baule italiano.
+
+“Non avresti potuto entrare lì dentro?” chiese il mercante che indossava abiti d’oro.
+
+“Per Dio e per la verità… L’ho fatto davvero.”
+
+“Dio mio!” disse di nuovo il signor Bowring. Era la quarta volta che il Creatore interveniva nella conversazione.
+
+“Deve essere stato molto stretto, vero?” disse il signor Bowring.
+
+“Che carino!”, disse la Senzatetto.
+
+Il signor Bowring guardò all'interno della cassaforte.
+
+“Avrei giurato che non si potesse nemmeno far entrare un cane lì dentro!”, disse.
+
+“Mi ha spezzato completamente,” disse la Senzatetto, iniziando a singhiozzare, “le mie ginocchia e i miei piedi, sono tutti distrutti. Oh, mio Dio!”
+
+“Non imprecare”, disse il signor Bowring. “Si sieda”.
+
+Il ragazzo senza famiglia si sedette, ma ora piangeva molto. “Bevi qualcosa”, disse Bowring. “Ti farà bene.”
+
+Versò del vino davvero eccellente in un delizioso bicchiere rinascimentale.
+
+“Bevi questo,” disse.
+
+Il Vagabondo, ancora in preda a un pianto amaro, non provava alcun interesse per i vini; in condizioni normali li avrebbe considerati roba acida, ma ora avrebbe accettato qualsiasi cosa pur di riprendersi, e ingoiò il Chambertin tutto d’un fiato. Si sentì un po’ meglio. Lentamente si coprì gli occhi deboli con la manica stracciata. “Ah, ”, disse di nuovo. “Dio mio, ”
+
+“Raccontami tutto,” disse gentilmente il signor Bowring. “A proposito, non hai una pistola con te, vero?”
+
+“Cercami!”, singhiozzò l’altro.
+
+“Mi fido della tua parola”, disse il signor Bowring. “Raccontami tutto in dettaglio”.
+
+“È successo all'improvviso,” disse il Vagabondo. “Ti ho visto andare a prendere il tè, poi ho visto andar via anche il tuo uomo, e ho pensato: ‘Ora è il mio momento!’ Non l’avevo mai fatto prima, tranne una volta, in modo molto modesto, da Woolworth’s. Onestamente, non l’ho mai fatto.” E ricominciò a piangere.
+
+“Non piangere,” disse gentilmente il signor Bowring. “Dobbiamo tutti imparare. Quando vedrò quel mio uomo, gli dirò esattamente cosa penso riguardo al fatto che abbia lasciato il negozio in questo modo.”
+
+“È tornato subito,” disse la povera Senzatetto. “Ecco perché sono corsa verso quella cabina. L’ho sentito tornare da quella porta sul retro.”
+
+“Allora hai sentito tutto?” disse il signor Bowring.
+
+“Yus.”
+
+#Hai sentito il mio ritorno dal tè?
+
+“Yus.”
+
+# Hai sentito quel signore entrare e parlarmi?
+
+“Yus.”
+
+“Ricordi cosa ha detto?”
+
+# Il Vagabondo descrisse nei dettagli le parti principali della conversazione:
+
+Come un gentiluomo fosse entrato e cosa avesse chiesto, e come quel gentiluomo intendesse approvare alcune leggi o altro del genere, e come il signor Bowring lo avesse cacciato via.
+
+“Non era un gentiluomo”, intervenne il signor Bowring, “era un politico”.
+
+“Parlava come un gentiluomo, signore!”
+
+“Sì, è stato lavato… Ma non importa.”
+
+“Dobbiamo rendere tutto questo un po’ più preciso,” continuò il signor Bowring, ancora più gentilmente di prima. “Bevi un altro bicchiere!”
+
+La Senzatetto non rifiutò. Con il secondo sorso del divino vino burgundo, quasi assunse l’aspetto di un uomo.
+
+“Ora vi spiegherò tutto molto chiaramente,” disse Bowring, “e lo farò per iscritto.” Prese la sua penna stilografica e un taccuino, descrisse in dettaglio gli eventi che si erano verificati tra lui e Mills, e poi lesse il testo davanti all’interessato. Parola per parola, fece sì che quel testimone memorizzasse ogni singolo punto: “Intorno alle 18:30 di mercoledì 25 aprile di quest’anno”, eccetera. Si trattava di una testimonianza breve ma completa e chiara, fornita da un testimone orecolare riguardo alla proposta fatta da Mills e al rifiuto di Bowring.
+
+Bowring lo fece recitare più volte, finché non lo imparò perfettamente; poi gli offrì un terzo bicchiere, staccò con cura il foglietto dal blocco notes e lo inserì nel suo quaderno, dopodiché disse decisamente:
+
+“Capisci che potrei chiamare la polizia, vero?”
+
+“Oh, signore, ” iniziò la Senzatetto.
+
+“Non sprecate parole”, disse il signor Bowring. “Non lo farò a meno che voi non mi costringiate a farlo”.
+
+“Grazie mille, signore,” disse con fervore la ragazza senza famiglia. “Oh, davvero grazie!”
+
+“Non ringraziatemi ancora,” disse il signor Bowring. “Prima ascoltate quello che ho da dirvi. Potrebbe sorprendervi, ma so tutto di voi.”
+
+“Signore,” disse il Vagabondo. Quel povero diavolo era ormai abituato a farlo.
+
+“So dove vivi,” continuò quella voce autoritaria, mentendo con disinvoltura. “Ho ricevuto notizie su di te. Mi avevano detto che qualcosa del genere poteva accadere.”
+
+“Non vedo nulla,” iniziò la Senzatetto.
+
+“Stai zitto!”, disse il signor Bowring. “Mi avevano detto che poteva succedere. Avrei potuto farvi arrestare già da tempo, ma ho ancora bisogno di voi. Capisci?”
+
+“Grazie, signore,” disse semplicemente la ragazza senza fissa dimora.
+
+“Ricorda questo indirizzo. Ti porterò a casa mia ad Hammersmith e ti mostrerò dove si trova. Poi ti lascerò andare. Ma verrai comunque rintracciato. Sarai sorvegliato fin dal momento in cui uscirai da casa mia: ho già preso tutte le precauzioni necessarie. Coloro che ti seguiranno mi faranno rapporto e continueranno a tenerti d’occhio. Dovrai tornare da me ogni giorno alle sette di sera, proprio prima che io vada a cambiarmi, e ti darò dieci scellini. Dieci scellini al giorno, capisci? Ma non li riceverai fino a quando non mi ripeterai esattamente ciò che mi hai appena detto stasera, così da essere sicuro che tu l’abbia imparato a memoria. Se fallirai anche solo la prima volta, verrai arrestato entro le dieci di quella sera. È chiaro?”
+
+Il Vagabondo, con la sua idea confusa riguardo ai misteriosi poteri esercitati sui vagabondi, credeva fermamente in essi.
+
+“Allora vieni con me,” disse il signor Bowring.
+
+Uscì e chiamò un taxi; mise il proprio cappotto sopra i stracci di quel piccolo nano, per evitare che la loro incongruenza venisse notata anche nella strada buia. Quando il taxi arrivò davanti alla porta, fece salire il ragazzo a bordo, poi si sedette lui stesso e partirono verso Hammersmith.
+
+“Ora vedete dove ci troviamo,” disse, “vedete il nome di questa strada e il numero? Ho scritto tutto qui su un pezzo di carta” (strappò l’intestazione da un foglio sulla sua scrivania). “Ecco dieci scellini per iniziare; riceverete altri dieci scellini ogni giorno, alle sette, a partire da domani. Ma, per il Grande Dinosauro, se non vi presentate domani o in qualsiasi altro giorno, finirete in prigione quella stessa notte. Capito?”
+
+“Sì, signore,” disse il ragazzo mendicante, con umiltà e gratitudine. E fece il gesto rituale di toccarsi la fronte. Era un bravo ragazzo mendicante.
+
+“Bene, è tutto,” disse Bowring. “Ora vai a prenderti qualcosa da mangiare e da bere… Vai pure.”
+
+Tutti i grandi generali prendono rischi. Lui pensava che quel rischio valesse la pena.
+
+Si rivelò che aveva ragione. Il Vagabondo tornava regolarmente, notte dopo notte, per ricevere la sua lezione, con la stessa certezza con cui un Pastore recita le litanie.
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_01" data-title="The Man Who Made Gold — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/machine"></span>
@@ -4315,6 +5967,56 @@ And then the final blow:
 “… We hear that steps will immediately be taken, perhaps by an Order in Council, shortly to be followed by drastic legislation, which …” etc., etc. (Tankard.) “Meanwhile, if the name which is on everybody’s lips, but which the honourable traditions of this paper forbid us to print in this column.” (All that’s humbug, my boy! You’re keeping it back because the Home Office when they released the news gave orders against mentioning the name.) “Happily the arrest of the individual in question is only a matter of hours. Unusual as the practice is, and reluctant as the Government must have been to exercise such powers, the new Order in Council acts retrospectively and applies to attempts at the manufacture of gold as well as to its actual production. Ours is not a written constitution. It is blessed with indefinite elasticity; and under such urgency as now obtains,” etc., etc. (Tankard.) “Happily the Purity of our Public Life …”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO X
+
+Quando Charles Lexington tornò dal mare lunedì, si preparò a fare ciò che aveva evitato per così tanto tempo. Il giorno seguente, martedì, era il giorno in cui, secondo l’accordo, doveva riapparire in città con il pacco destinato a Bowring. Nonostante la loro discussione, non aveva scritto nulla per rimandare la visita, e il contratto restava valido. No, doveva scrivere. Non poteva spiegare tutto per iscritto, ma almeno doveva rinviare tutto fino a quando non avrebbero potuto incontrarsi di persona.
+
+Finalmente, dopo un’altra serie di esitazioni e di cancellazioni dei bozzi, decise di procedere. Si sedette e scrisse tutto in mezzo a una dozzina di righe, cercando di rendere il testo il più pratico possibile: —
+
+# Caro Bowring,
+
+Temo che domani, martedì, quando verrò su, non sarò in grado di portare la solita consegna. Ero sicuro che “consegna” fosse la parola giusta. È sorto un imprevisto. Spiegherò tutto quando ci incontreremo.
+
+Tuo.
+
+C. L.
+
+Era più che sufficiente. Aveva messo quella cosa dalla sua mente e aveva fatto amicizia. Non era un messaggio aggressivo, e non rivelava nulla di importante.
+
+Ora si sentiva molto più soddisfatto. Spesso, un grande shock ha questo effetto: dopo le ore peggiori, una persona non ce la fa più; ma anche senza notizie positive che possano sollevare lo spirito, quest’ultimo tende comunque a migliorare. Era tornato alla sua vecchia vita, e dopotutto, ci sono cose molto peggiori di questa.
+
+Dopo aver inviato la sua lettera a Londra, cenò in un'atmosfera cupa. Andò a letto presto; sdraiato, continuava a riflettere su due problemi immediati. Prima di tutto, il giorno dopo avrebbe dovuto avere una spiegazione con Bowring; ovviamente Bowring si sarebbe arrabbiato, ma il giovane, nella semplicità del suo cuore, pensava che la verità sarebbe stata certamente creduta. Gli bastava dire onestamente ciò che era accaduto. Erano entrambi nella stessa situazione e dovevano entrambi fare del loro meglio.
+
+L’altra cosa, che era un po’ più inquietante, era il ricordo degli avvertimenti di Bowring di quelle settimane fa, quando aveva parlato per la prima volta della produzione dell’oro. Una frase spiacevole gli tornava in mente: “Diventerai un bersaglio predestinato, ragazzo mio.”
+
+Le minacce di morte sembravano insignificanti al confronto. Come tutti coloro che conoscono l’Inghilterra e nulla altro se non l’Inghilterra, con il suo ordine perfetto e la sua enorme [[Machine|macchina]] poliziesca, non credeva nelle assassini né nei rapimenti. Questi fenomeni sembravano più adatti alle razze criminali del Mediterraneo o ai nostri nobili cugini del Nuovo Mondo, i quali possono essere scusati per la vivacità tipica di una nazione giovane.
+
+Ma credeva molto fermamente nell'estrema e permanente sgradevolezza di essere una persona ricercata, e odiava quell'idea. Le persone segnalate scomparivano. Non venivano certo uccise, ma semplicemente sparivano. Un'altra cosa che gli accadeva era finire in prigione per lunghi periodi a causa di accuse che non avevano nulla a che fare con il fatto di essere state segnalate. E quando uscivano di prigione, di solito venivano rinchiusi di nuovo o trasformati in informatori della polizia. Comunque fosse, la loro vita era rovinata.
+
+Si preoccupò un po’ per tutto ciò; poi si calmò man mano che iniziava ad assopirsi. Tutti questi timori sono esagerati. Sarebbe stato meglio farlo di giorno.
+
+Con questo, andò a dormire.
+
+La mattina seguente, quando lo svegliarono, inviò un messaggio al direttore comunicando che avrebbe lasciato l’ospedale mercoledì, dopo la sua visita settimanale in città, e che avrebbe saldato il conto in quel momento, poiché doveva tornare a casa. Gli portarono la colazione in camera, insieme a una copia del “Drum”. Prese quella rivista perché era più sobria rispetto al “Trumpet”; anche se, al giorno d’oggi, non era più considerato appropriato discutere di politica durante le feste all’università. Il “Drum” gli ricordava la sua giovinezza, mentre il “Trumpet” gli rammentava certi parenti vistosi che preferiva dimenticare. Per quanto riguarda il “Trombone”, era fermamente convinto che nessun gentiluomo dovesse averlo in casa.
+
+Quindi aprì il tamburo sulla pagina principale e lo posizionò davanti a sé; mentre versava il tè, ne versò un po’ sul tessuto, come faceva sempre; poi, meccanicamente, mentre aggiungeva del tuorlo all’uovo, scorse con lo sguardo lungo la prima colonna principale.
+
+Quello che vide lì lo fece dimenticare completamente il tè e le uova. Gli tolse l’appetito con la stessa efficacia di uno schiaffo nello stomaco dato con un pesce morto.
+
+La notizia pubblicata nella nostra ultima edizione di ieri, arrivata troppo tardi per essere commentata, è di tale gravità che ogni persona pensante su queste isole che ne sia venuta a conoscenza avrà ormai compreso, almeno in parte, quale potrebbe essere il suo impatto sul futuro di queste isole, e in realtà anche su quello del mondo intero.
+
+Mi fermo qui per assicurarvi che il principale redattore di “Drum”, che conosco molto bene e che è davvero una brava persona, non veniva pagato, come potreste immaginare, in base al numero di parole che riusciva a scrivere, ma con uno stipendio annuale (e piuttosto generoso, per giunta). Ma se questa pagina dovesse cadere sotto gli occhi di qualcuno che non abbia ancora scritto per giornali o persino un libro (ne esistono ancora molti di questi), lasciate che vi dica qualcosa che suona paradossale, ma che è assolutamente vero: quando si scrive sotto pressione, si usano troppe parole.
+
+#Continuare il passo del leader nel ritmo della battaglia
+
+“. Se la voce fosse vera, ovvero che il difficile problema della trasformazione dei metalli, e in particolare di alcuni metalli vili in oro, potesse essere dimostrato con prove concrete, “ (qui presumo che il caporedattore del “Drum” abbia bevuto un sorso dalla sua brocca, il modo convenzionale per interrompere una frase giornalistica) “. Si apre davanti a noi uno scenario pieno di possibilità, “, ecc., ecc. Ogni frase, alla fine, deve concludersi; anche questa si è conclusa. Tuttavia, dovevano essere riempiti ancora tre quarti della colonna di testo, e la parte finale risultò peggiore del resto. “Possiamo lamentarci dei titoli esagerati apparsi ieri sui giornali serali londinesi; alcuni di essi sembrano essere stati suggeriti dal panico. Il che è indegno della nostra Razza e della nostra stampa, che non hanno eguali al mondo per la loro, “ (qui, probabilmente, la brocca è stata utilizzata di nuovo, ) “superiorità e buon giudizio. Tuttavia, tutti devono riconoscere che, “, ecc., ecc.
+
+E poi il colpo finale:
+
+“. Si dice che immediatamente verranno presi provvedimenti, forse tramite un Ordine del Consiglio, seguiti a breve da leggi drastiche che, ” ecc., ecc. (Tankard.) “Nel frattempo, sebbene il nome di cui tutti parlano sia quello che le onorevoli tradizioni di questo giornale ci impediscono di pubblicare in questa colonna, ” (Tutto questo è solo fandonie, ragazzo mio! Lo state trattenendo perché il Ministero dell’Interno, quando ha diffuso la notizia, ha ordinato di non menzionarlo.) “Fortunatamente, l’arresto della persona in questione è solo una questione di ore. Per quanto questa pratica sia insolita e per quanto il governo debba essersi riluttante ad esercitare tali poteri, il nuovo Ordine del Consiglio ha effetto retroattivo e si applica sia ai tentativi di produrre oro che alla sua produzione effettiva. La nostra costituzione non è scritta; possiede un’elasticità indefinita. E in circostanze di urgenza come queste, ” ecc., ecc. (Tankard.) “Fortunatamente, la purezza della nostra vita pubblica, ”
+
 
 
 <span class="atom-split" data-atom="chapter_11--part_02" data-title="The Man Who Made Gold — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/machine"></span>
@@ -4354,6 +6056,42 @@ Had they the things he needed? He detailed them one after another in his best un
 
 He wondered, as he waited while they made up the parcel, whether he had been watched when he entered. He had read in detective books that the Police kept a special eye on such places. He had also read in detective fiction that taxi drivers were often high officials of Scotland Yard, and his soul sweated inwardly at the thought. It made him look narrowly at the driver as he came out; and the fact that the driver had a face like a good-natured apple only increased his suspicions.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+In questo momento della dichiarazione ufficiale, la lettura orripilata di Lexington fu interrotta.
+
+C’è stato un bussare alla porta; lo cercavano al telefono.
+
+Uscì barcollando, ancora in pigiama. Era Scotland Yard. Era Scotland Yard!
+
+No, grazie al cielo, non era Scotland Yard; era quella voce che il giorno prima avrebbe temuto molto, ma ora che aveva letto quella terribile notizia, gli sembrava quasi amichevole, in contrasto con quanto provava prima. Era la voce di Bowring. La voce era controllata, ma c’era una rabbia fredda nella sua voce che Lexington non mancò di percepire. Bowring gli stava dicendo, con parole attentamente scelte, che aveva ricevuto quella lettera, che avrebbe atteso le sue spiegazioni, e che nel frattempo aveva anche letto i giornali, e presumeva che anche Lexington li avesse letti. Si trovava all’interno dell’area di diffusione dei quotidiani londinesi; aveva visto il “Trombone”, ma aveva visto anche il “Trumpet”?
+
+Con un tono piuttosto basso (poiché gli uomini al telefono di solito parlano come farebbero se fossero faccia a faccia con un altro uomo), aggiunse: “Stai parlando troppo. C’è solo una cosa che devi fare, e devi farla subito. Altrimenti. Dio sa cosa ti potrebbe accadere. La sola cosa da fare è, ”
+
+Poi calò il silenzio. Lexington premeva freneticamente sulla [[Machine|macchina]], ma il silenzio continuava. Erano stati isolati. Chiamò disperatamente l’Exchange; sentì una voce dolce che gli disse che, se avesse sostituito il ricevitore, lo avrebbero richiamato di nuovo. Aspettò dieci minuti. Niente. Non faceva caldo nel suo pigiama. Tornò in camera sua.
+
+Le colonne di notizie del “Drum” lo colpirono duramente: erano ancora lì, accanto alla sua colazione intatta, e il contenuto di quelle colonne era molto peggiore di quello dell’editoriale principale.
+
+“Si stavano prendendo delle misure” – orribile frase – preludio a tutti i terrori della legge!
+
+Guardò l'orologio: aveva giusto il tempo per prendere il treno delle 9:57, se solo avesse fatto in modo che l’auto accelerasse al massimo verso l’incrocio. Ordinò immediatamente all’auto di partire e ne fu grato per la sua prontezza; stava già ronfando sotto la sua finestra quando lui aveva appena finito di vestirsi in fretta, di bere un sorso di tè e di scendere le scale. Con gli occhi sconvolti, l’aspetto disordinato, il colletto della cravatta storto, il laccio di una delle scarpe slacciato e che quasi lo faceva inciampare. E nella mano sinistra stringeva con forza un pezzo di pane tostato: tutto ciò era ciò che lo separava dalla fame.
+
+È sempre così. Quando arrivò all’incrocio, gli rimanevano cinque minuti di tempo libero. Tuttavia, quell’incrocio si trovava sul lato destro. Comprò tutti i giornali, con grande sorpresa del giovane che li vendeva. L’abitudine era ancora forte in lui: si trovava in una carrozza di prima classe quando iniziò ad aprirli uno dopo l’altro mentre il treno espresso si avvicinava alla città. Ogni giornale, che leggeva, gli raccontava la stessa storia.
+
+Gli accademici, con il loro legittimo disgusto per la violenza nella stampa, riservano le peggiori pubblicazioni all’ultimo momento; quindi, come si può immaginare, lui subì un effetto cumulativo terribile: partendo dal serio e solenne articolo sul leader degli uccelli notturni pubblicato sul “The Times”, arrivò fino ai grandi titoli sensazionalistici del “Trombone”. E il “Trombone” non si limitava a insinuare; esprimeva le sue idee con lettere alte mezzo pollice, gridando per attirare immediatamente l’attenzione e chiedendo azioni severe; raccontava al mondo quale devastazione avrebbe causato quell’“Uomo che creava oro”; lo denunciava come nemico dell’umanità; lodava il governo per le sue misure. E includeva anche una bella immagine di Dartmoor, per suscitare nelle lettrici le aspettative più alte. Ma uno di questi lettori ne fu profondamente colpito.
+
+Quando si colpisce un uomo al cuore, si influisce sulla sua circolazione sanguigna. Il signor Lexington sentì prima di tutto freddo come il ghiaccio, e poi improvvisamente febbre alta. Chiuse gli occhi e si sdraiò. I suoi pensieri erano disordinati, in uno stato di confusione, e suggerivano mille possibili soluzioni incompatibili tra loro. Alla fine, tutti questi pensieri convergevano su un unico ordine imperioso, come se qualcuno lo stesse impartendo ad alta voce: doveva fuggire. Doveva nascondersi. Doveva scomparire. Doveva smettere di essere Charles Lexington.
+
+L'incontro con Bowring, lo scopo del suo viaggio, era stato completamente dimenticato a causa dello shock causato da quelle parole stampate che, in modo crescente, apparivano dalle pagine delle pubblicazioni più rispettabili fino a raggiungere quelle della stampa scandalistica. Tutta l’Inghilterra cercava Charles Lexington; cercavano quell’uomo che era riuscito a trasformare il metallo in oro. In momenti del genere, le persone prendono decisioni rapidamente. E lui già sapeva cosa avrebbe fatto. Non era certo un piano molto sofisticato. Anzi, era fin troppo ovvio. Ma funzionò.
+
+Solo una volta nella sua vita Charles Lexington aveva recitato in spettacoli teatrali privati. Fu in quel vasto luogo, l’abbazia di Rabley, nel Rutlandshire, che, essendo allora un uomo senza importanza e troppo orgoglioso per farsi vedere sotto un tetto del genere, fu costretto a recitare una parte ridicola per ordine della potente signora Meyer. Ricordava quella parte. L’avrebbe interpretata di nuovo. All’epoca forse gli aveva ferito l’orgoglio, perché si trattava di un ruolo umiliante: quello di un venditore di fiammiferi, molto secondario e che consisteva soltanto in tre parole: “Grazie, signore”. Ricordava anche le prove durante le quali gli era stato insegnato con cura come imitare l’accento dei poveri; ricordava quanto fosse stato estenuante truccarsi completamente, incollarsi una barba enorme sul viso, indossare quegli orribili stivali rotti e stare in piedi per tutta la sera per un ruolo così insignificante. Per anni era stata un ricordo amaro. Ma ora rappresentava davvero una benedizione.
+
+Il suo taxi si fermò davanti ai costumisti teatrali che aveva imparato a conoscere in quei vecchi tempi. Sembrava immutato, quasi amichevole. Chiese al tassista di aspettare e poi entrò.
+
+Avevano tutte le cose di cui aveva bisogno? Le elencò una per una, con il suo tipico modo da universitario. C'era un’opera teatrale per la quale avrebbero fatto le ultime prove, e ne avrebbe avuto bisogno per alcuni giorni: gli stivali da lavoro rotti, i vestiti vecchi e logori, i pezzi di stoffa utilizzati per ripararli, il vassoio sporco, la cinghia con cui poterlo appendere al collo. Persino le scatole di fiammiferi e la parrucca: avevano tutto.
+
+Mentre aspettava che preparassero il pacco, si chiedeva se qualcuno lo avesse osservato mentre entrava. Aveva letto in libri gialli che la Polizia teneva d’occhio posti del genere. Aveva anche letto che spesso i tassisti erano in realtà alti funzionari di Scotland Yard, e al solo pensiero si sentiva invadere dal terrore. Quando il tassista uscì, lo guardò con sospetto; il fatto che avesse un viso gentile e cordiale non fece altro che aumentare i suoi sospetti.
 
 
 
@@ -4417,6 +6155,64 @@ He was as yet so unused to the class into which he had deliberately thrust himse
 Then the consequence of the disappearance struck him for the first time. He had no money.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Portami lì”, disse, “portami a Wimbledon Common.”
+
+“Quale parte?” disse Appleface.
+
+“Oh, qualsiasi parte. Voglio dire, il laghetto, il mulino a vento, dove vuoi tu.” Poi gli venne in mente che il modo in cui aveva espresso le cose non era certo adatto a dissipare i sospetti. “Voglio dire, ”, aggiunse rapidamente, “, cosa sto dicendo? Devo incontrare una persona lì, e se guidi lungo la strada proprio vicino al laghetto, con il mulino a vento poco più in là, lo riconoscerò subito. Che ne dici?”
+
+Appleface aveva affrontato ogni tipo di viaggio e era abituato a ogni sorta di situazione. Si trattava di un lungo tragitto, il che significava anche una buona tariffa da pagare; questo gli dava la possibilità di insistere per ottenere anche il biglietto di ritorno. Tutto ciò andava perfettamente a pennello ad Appleface.
+
+Si dice che il pericolo generi astuzia, anche nei lettori dell’Università. Comunque sia, quando arrivarono a Wimbledon Common, il fuggitivo aveva già compiuto il primo passo verso quella nuova saggezza che doveva imparare se voleva salvarsi dalla rovina.
+
+Un uomo innocuo, presumibilmente dotato di mezzi personali (poiché era ben vestito e passeggiava lungo il bordo del prato con un'espressione di totale stupidità sul viso), apparve a trecento metri di distanza, sulla prua sinistra della nave. Lexington bussò forte sul vetro e sporse la testa fuori dal finestrino del taxi.
+
+“Eccolo il mio uomo,” disse in modo misterioso. “Che ore sono sul tuo orologio?”
+
+Appleface aveva ragione. Sottolineò che ciò che gli spettava era solo metà di quanto gli fosse dovuto: a Wimbledon, nel Common, non si potevano raccogliere tariffe così facilmente. Era pronto a continuare la sua argomentazione in modo più aggressivo, quando fu felice di vedere il suo avversario arrendersi. Se ne andò soddisfatto, con il doppio delle tariffe in tasca.
+
+Il gentiluomo, che disponeva di mezzi personali, era appena morto. Charles Lexington lo seguì rapidamente, lo raggiunse e compì così il secondo passo verso la sua carriera ascendente nell’ambito delle intrighi strategici, ma anche verso il declino dei suoi valori morali. Mentre il taxi gli passava accanto, vide Appleface guardarlo; allora si rivolse a quell’estraneo.
+
+“Mi scusi,” disse, con quella stessa eccellente voce accademica che aveva così incantato il negozio dei costumieri. “Lei è il signor Edward Barrington?”
+
+Il signore, che disponeva di mezzi personali, non apparteneva a quella classe sociale; per questo motivo ne era particolarmente soddisfatto.
+
+“No,” disse, “mi dispiace dirlo, ma non lo sono. Mi chiamo Booter.”
+
+“Oh, mi scusi davvero!” disse Charles Lexington, visibilmente confuso. “Sono molto miope. È stata completamente colpa mia.” Mentre lo diceva, osservava con un occhio il taxi che si allontanava dietro l’angolo e scompariva lungo Putney Hill. Continuò a scusarsi in modo un po’ eccessivo, poi finalmente poté andarsene.
+
+Wimbledon Common è ricoperto di alberi. La stagione era ancora all’inizio e il tempo era bello. Lui si aggirò lentamente, scegliendo con calma il boschetto che gli sembrava più adatto alle sue esigenze. Alla fine ne trovò uno perfetto per i suoi scopi e vi si addentrò.
+
+Era un boschetto grande e comodo. Non sono bravo a ricordare i nomi dei cespugli, ma quelli che circondavano l’ingresso erano ben intrecciati tra loro. Trovò un piccolo spazio al centro del boschetto; con estrema cautela, posizionò accanto a sé il pacco contenente i costumi e iniziò a spogliarsi. Era un uomo modesto, ma riuscì comunque a farlo abbastanza bene. Tenne addosso la camicia, nel senso letterale del termine; anche le calze non le tolse. Prese il colletto in mano: era molto danneggiato; doveva conservarlo per distruggerlo dopo. Indossò i pantaloni logori, una felpa ancora più stracciata e quel cappotto poco presentabile. Si mise in testa la parrucca grigia e appiccicosa, poi leccò abbastanza bene quella colla disgustosa affinché la barba lunga e arruffata si attaccasse al suo viso. Infine infilò i suoi piedi sfortunati nelle scarpe rotte e logore. Si mise il mazzo di fiammiferi al collo, trovò una tasca nei pantaloni in cui poter riporre il colletto. Poi, con estrema cautela, si fece strada tra i cespugli, spingendo davanti a sé quel mazzo di fiammiferi come se fosse un ariete; ogni volta che arrivava all’orlo del boschetto, guardava ansiosamente intorno per assicurarsi che non ci fossero pericoli. Fino a quando non uscì nuovamente su una strada incrociata.
+
+Mio Dio! Che stivali. Gli avevano già iniziato a fare male, e dubitava di riuscire a percorrere anche solo un miglio. Ma ahimè, quei piedi così delicatamente curati erano destinati a camminare molte miglia in una schiavitù così crudele. Aveva accettato quella schiavitù perché necessario, senza considerare quali conseguenze avrebbe potuto avere il passo successivo. Era mascherato, e questo era sufficiente. Barcollò verso le prime case nelle vicinanze; mentre lo faceva, la natura gli ricordò che aveva bisogno di cibo.
+
+Dove diavolo mangiavano quei venditori ambulanti? Gli sembrava di aver camminato per migliaia di chilometri, con i piedi sempre più doloranti. Aveva sicuramente percorso quasi una distanza del genere quando notò che le strade diventavano sempre più squallide, e provò persino piacere nel vedere quella miseria dei meno fortunati di questo mondo: brutti, sporchi piccoli negozi. E finalmente, l’obiettivo del suo desiderio ansioso: un ristorante dall’aspetto disgustoso. Sembrava proprio il tipo di posto dove una persona come lui non avrebbe mai fatto commenti.
+
+Entrò con quell’aplomb che deriva da anni di vita protetta. Fu ancora più sorpreso quando vide una donna robusta, le braccia nude ancora bagnate e rosse per aver lavato i piatti, che gli si parò davanti alla porta chiedendogli cosa volesse. Lui rispose che voleva cibo. Lei replicò che avrebbe potuto capirlo senza che lui la disturbasse, ma non c’era nulla per persone come lui. Aggiunse anche che non era certo il momento giusto: erano quasi le tre; sarebbe stato meglio che se ne andasse. Aveva già conosciuto gente del suo genere in passato. Charles Lexington affrontò la situazione con quella determinazione che sempre ha la meglio sulla riluttanza umana.
+
+“Posso pagare qualsiasi somma tu voglia,” disse.
+
+“Diamo un’occhiata ai tuoi soldi!” Aveva le braccia incrociate sul petto; non era convinta. Il modo in cui parlava peggiorava tutto. Era quasi divertente.
+
+Charles Lexington posò meccanicamente la mano destra nel punto in cui avrebbe dovuto trovarsi il taschino del petto, dove avrebbe dovuto riposare quel grazioso portafoglio di velluto con i resti dei suoi sedici sterline. Scoprì di non avere alcun taschino sul petto; tutta la sua mano incontrò soltanto l’altro lato del cappotto, che non aveva alcuna fodera interna. Allora gli venne in mente: il portafoglio e tutti i suoi spiccioli si trovavano nei vestiti della sua precedente vita, quella più “elevata”.
+
+Tali cose possono accadere anche ai dotti. È il prezzo che pagano per la loro concentrazione mentale. La loro classe li ammira molto, e nelle sale comuni si raccontano molte storie divertenti al riguardo. Quanto distratto fosse stato il grande Dottor Markham. E come, quando era ancora membro del suo college e prima di essere nominato vescovo, Archibald Gregson fosse entrato nell’aula senza cravatta.
+
+La signora, con le braccia incrociate, gli disse esattamente cosa pensava di lui; e quella opinione non aveva nulla in comune con ciò che Charles Lexington pensava di sé stesso. Lui se ne andò barcollando, con la testa bassa, più consapevole dei propri piedi feriti di quanto possa descrivere. Per tutta quella lunga distanza, continuò a inciampare e barcollare fino a quando non apparve il boschetto in lontananza.
+
+Questa volta non era così facile manovrare. C'erano auto che passavano e uno o due pedoni sul sentiero di ghiaia. L’attesa lo innervosiva, perché la sua fame aumentava sempre di più.
+
+Finalmente arrivò un'opportunità. La strada era libera; solo una figura lontana si muoveva all'estremità della città, verso la fine della strada. Si nascose tra i cespugli e si diresse direttamente verso il chiaro. Non poteva esserci errore: un alto albero giovane segnava quel punto. Si fece strada attraverso la boscaglia; quando raggiunse l’area aperta, corse subito verso il luogo in cui si era nascosto sotto l’albero.
+
+I suoi vestiti erano scomparsi.
+
+Non era ancora abituato a quel ambiente nel quale si era deliberatamente immisso, quindi non riusciva a capire il motivo della loro scomparsa. Gli sembrava un miracolo: non era stato via nemmeno un’ora, eppure quei vestiti (che nessuno avrebbe voluto, visto che non erano particolarmente belli, anzi erano un vecchio abito) erano semplicemente scomparsi.
+
+Allora, per la prima volta, si rese conto delle conseguenze di quella scomparsa: non aveva più soldi.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_01" data-title="The Man Who Made Gold — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/masks_disguise,concept/poverty,concept/charity,concept/class_conflict,form/satire,setting/london,setting/the_river_thames"></span>
@@ -4471,6 +6267,56 @@ He had already been there some time, and it was now quite dark, when he heard st
 The word “hop” unsuitably describes the gait with which poor Mr. Lexington managed to put one bruised foot before the other along the deserted pavement of that London night. He cared not where he was wandering, and he knew not. He wondered what refuge itinerant match-sellers, with elderly long tangled beards and wigs to match, could betake themselves to in peace. If only he had been born to the position! But he was new to it, and felt the isolation and misery we all feel when we move in social ranks which are not our own. Within a stone’s throw of the embankment all around there might be a dozen doss-houses, eating places, thieves’ kitchens, receivers’ lairs, dens of the underworld — all the things which he had read of in detective stories as the natural haunt of those below the income tax and trade unions level: the people without collars. Yet there he was, perhaps within an inch of safety, and out, deserted, under the night. At any moment some other powerful member of the New Bureaucracy might heave in sight and put him through the third degree.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XI
+
+Affrontare situazioni difficili rappresenta, per più della metà dell’umanità, l’esperienza più comune; per l’altra metà, invece, è qualcosa di estremamente raro. Nel mondo a cui apparteneva Charles Lexington, tale esperienza era quasi inesistente.
+
+Avrebbe dovuto rallegrarsi di aver trovato così presto nella vita un’emozione così interessante. Al contrario, questo lo rese disperato. Non aveva la minima idea di cosa fare; quindi fece ciò che fanno tutti quando non sanno cosa fare: andò dritto verso l’ignoto. Quel poveretto procedeva meccanicamente, stordito, completamente infelice. Cento metri dopo cento metri, si allontanava sempre di più dal sentiero principale, lungo la collina Ovest, dove c'erano case confortevoli su entrambi i lati. Case che, poco tempo prima, avrebbe disprezzato definendole “residenze suburbane”.
+
+Si era così costretto ad affrontare l’agonia di quella marcia durata forse un miglio e mezzo, quando si rese conto di essere completamente esaurito. Si sedette sul parapetto di qualche balaustra, con il vassoio ancora davanti a sé; sul suo viso si leggeva un abbandono disperato alla sofferenza come quello che, per grazia di Dio, non prova mai il vero venditore ambulante di fiammiferi.
+
+Alla porta della villa, sul bordo delle ringhiere su cui sedeva, si fermò un grande automobile, scintillante come i carri del sole; era guidata da un meccanico arrogante, vestito con eleganza e con una maschera al posto del viso. Verso quell’automobile, dalla porta della casa, venne una donna dall’aspetto benevolo, di età avanzata e vestita con raffinatezza. Si fermò e si girò, tenendo la mano sulla portiera dell’auto.
+
+“Sembri davvero molto stanco, povero uomo mio!” disse lei.
+
+Lexington si alzò stancamente dal suo posto.
+
+“Temo di sì, signora,” disse lui, usando lo stesso tono in cui avrebbe parlato alla moglie del Presidente, se lei gli avesse chiesto se fosse stanco dopo un viaggio. La benefattrice, così la chiamerò; quasi era il suo mestiere, e certamente faceva parte del suo temperamento, ne fu commossa oltre ogni espressione.
+
+“Parli come un uomo istruito!”, disse lei, piuttosto sorpresa, ma anche molto incuriosita.
+
+“No, no, vi assicuro, signora, non sono affatto così. Niente affatto,” disse con voce allarmata. “Credetemi, ci deve essere un malinteso, se posso permettermi di dirlo senza offendervi.”
+
+“Ma parli proprio come un uomo istruito,” insistette la signora.
+
+Se fosse possibile che gli autisti provassero ciò che provano gli uomini comuni, si potrebbe dire che sul viso dell’autista fosse apparso un segno di disprezzo. La benefattrice se ne accorse; aveva ancora più paura di quell’uomo che gestiva la sua auto di quanto ne avessero la maggior parte delle persone della sua stessa condizione, il che è davvero molto dire. Gli lanciò uno sguardo furtivo, rimase per un momento tra lui e l’oggetto della sua simpatia, frugò rapidamente nella borsa e, altrettanto furtivamente, lasciò cadere un intero mazzo di monete d’argento sul suo vassoio. Poi, come se avesse commesso un atto malvagio, la benefattrice (che, a dire il vero, stava cercando di aiutare persone socialmente inferiori a lei) disse in fretta “A casa” all’autista rigido che si era degnato di tenere aperta la portiera dell’auto per farla entrare.
+
+Con un sollievo molto maggiore della sua gratitudine, Lexington vide il triangolo rosso sul paracarro scomparire a una velocità di quaranta miglia all’ora. Era riposato, e quell’avventura gli aveva infuso un po’ di spirito. Ora almeno poteva mangiare. Inoltre, la strada scendeva verso quelle zone depresse che sopravvivevano nella valle sottostante; questa volta avrebbero potuto vedere il colore del suo denaro. Aveva anche imparato abbastanza da non chiedere cibo nel modo di coloro per cui il cibo è qualcosa di ordinario.
+
+Glielo servivano senza alcuna obiezione, e lui mangiava con avidità. Aveva i mezzi per affittare una stanza se necessario, ma l’istinto gli diceva che quei poveretti che vendevano fiammiferi probabilmente non avrebbero accettato di ospitarlo. Comportarsi in modo così eccentrico significava correre dei rischi. Tuttavia, ormai non riusciva più a camminare molto lontano. Si sarebbe preso cura di sé fino a quando l’oscurità non lo avesse avvolto, e poi avrebbe cercato quella cosiddetta “locanda comune”. Ascoltando le conversazioni che vi avvenivano, forse avrebbe potuto scoprire qualcosa che gli sarebbe stato d’aiuto il giorno dopo.
+
+Era tra il giorno e il tramonto quando si sedette di nuovo per riposare e aspettare l’arrivo della notte. In caso di necessità, avrebbe potuto rimandare il pasto di un’altra ora.
+
+Si trovava vicino a un ponte sul Tamigi; dalla sua altezza, fino al ciglio del fiume, si estendeva una serie di gradini in pietra con ringhiere di ferro risalenti all’epoca di Giorgio III. Un pilastro su cui era inciso il monogramma di quel sovrano custodiva l’accesso al ponte.
+
+Era già lì da un po' di tempo, e ormai era piuttosto buio quando sentì dei passi sulle scale; si girò per vedere chi potesse essere. Prima ancora che se ne rendesse conto, una mano forte gli afferrò rudemente la spalla, e la voce autoritaria di un poliziotto lo ordinò di entrare con un tono che non aveva mai sentito prima. Gli chiesero cosa pensasse di fare lì; gli dissero che quel posto non era adatto a lui.
+
+“Non ne ero a conoscenza, ” cominciò il signor Lexington, con uno sguardo spaventato negli occhi.
+
+“Ho! Non eri mica via. Parli proprio come se leggessi un libro, vero? Allora, dimmi: da dove vieni?”
+
+“Putney,” disse Charles Lexington, in quel momento paralizzato, trasformato in una sorta di George Washington.
+
+“Ho! È Putney, vero?” disse il grande burocrate con un disprezzo evidente. “Putney, questa volta. Beh, ora puoi andare a Putney – hai capito? Cosa stai facendo su questo campo? Non è il tuo campo. È il campo di vecchio Charlie.”
+
+“Non avevo la minima idea, ” iniziò di nuovo il signor Lexington – quando vide che, per qualche motivo che non riusciva a comprendere, il suo nemico era scoppiato in furia.
+
+“Nessuna idea!” disse, imitando alla perfezione l’accento tipico di San Olaf. “No?. Oh! Mia zia! Ora, un altro movimento e ti pizzico. Vai via!”
+
+La parola “saltellare” descrive in modo inadeguato il modo in cui povero signor Lexington riusciva a muovere un piede ferito dopo l’altro lungo il marciapiede deserto di quella notte londinese. Non gli importava dove stesse vagando, e non lo sapeva nemmeno. Si chiedeva in quale rifugio potessero trovarsi, in pace, quei venditori ambulanti di biglietti da lotteria, con barbe lunghe e ingarbugliate e parrucche a corrispondenza. Se solo fosse nato in una posizione sociale più agiata! Ma era nuovo in quel mondo, e provava quell’isolamento e quella miseria che tutti sentiamo quando ci troviamo in classi sociali diverse da quelle a cui apparteniamo. A pochi passi da lì, lungo il ciglio della strada, potevano esserci dozzine di rifugi per senzatetto, ristoranti, cucine dei ladri, nascondigli dei delinquenti, tutte le cose di cui aveva letto nelle storie poliziesche, considerate l’habitat naturale di coloro che vivevano al di sotto del livello di reddito previsto dalle tasse e dai sindacati, persone senza “colletti”. Eppure eccolo lì, forse a un soffio dalla sicurezza, ma solo in mezzo al deserto della notte. In qualsiasi momento, qualche altro membro potente della “Nuova Burocrazia” poteva apparire e sottoporlo a terribili interrogatori.
+
 
 
 <span class="atom-split" data-atom="chapter_12--part_02" data-title="The Man Who Made Gold — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/masks_disguise,motif/the_inn_tavern,concept/poverty,concept/class_conflict,concept/crime_and_punishment,form/satire,setting/london"></span>
@@ -4510,6 +6356,42 @@ The thought crossed the unhappy man’s mind that they might be dummy ones, and 
 
 He was pleased beyond words when the dour old master of the place, taking one of the boxes up, rattled it, and proved there were matches inside. The match-boxes were duly counted. There were fourteen. Then he filled in his slip, hesitating so long at the name that the proprietor suggested Smith, and John by way of addition to it. Both duly went down. His companion was quite ready; he wrote down “Richard Curl.” “I know you, William,” said the landlord. Sixpence each was required, and Lexington did a thing which perhaps had never been done before in that place. It was a gesture belonging to very different places indeed. He pulled out, so that both men could see it, the little stock of silver and copper the benefactress had given him, picked out a shilling from it, and put it down on the wicket window ledge, to pay for his companion and himself. He carefully counted what remained — it came to four shillings, and three pence. As he counted, his companion watched the money as animals watch their prey.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli esperti di ricerca psicologica, che, in qualità di docente di Elettrochimica, era suo dovere disprezzare, avrebbero potuto spiegargli che la sua intensa ansia di trovare rifugio, di per sé, avrebbe fatto sì che quel rifugio apparisse; e appena svoltato l’angolo, si trovò davanti a un grande edificio squallido: vide sei uomini entrarvi e due o tre uscire da una porta sempre aperta.
+
+Mentre stava lì a guardare, qualcuno che gli si era avvicinato da dietro provò un sospetto del tutto naturale. A quel nuovo arrivato non piaceva l’aspetto di quella figura ferma immobile e apparentemente senza scopo; infatti, in una grande parte della società, chiunque si trovi a osservare qualcosa potrebbe benissimo essere un agente di polizia.
+
+Il signor Lexington rimase sorpreso quando sentì una voce bassa e per niente amichevole che gli chiedeva chi si credeva di essere. Girò la testa con cautela, con uno sguardo nuovo pieno di paura negli occhi, e vide una figura bassa, robusta e minacciosa.
+
+“Non ho alcuna intenzione, ” disse, e nel momento stesso in cui parlò l’altro si rilassò completamente. Era evidente che quel venditore di biglietti non era una spia, né tantomeno qualcuno che indossava abiti civili per nascondere la sua vera identità, o, come a volte li chiamiamo noi, un “rozzer”. Non c’è modo di confondere l’“Yard”: a volte parla utilizzando gli accenti degli ufficiali che penetrano attraverso le mascherature; altre volte riesce, più o meno bene, ad assumere l’accento corrispondente alla sua falsa identità. Ma l’“Yard” non si abbasserebbe mai a vestirsi in un certo modo e poi parlare in modo completamente diverso. Non si travestirebbe mai da mendicante per poi utilizzare quella particolare voce tipica dei fortunati, almeno di Londra, e delle università più antiche.
+
+L’uomo sospetto si convertì all’istante e divenne più mite. Conosceva bene quel tipo di persone: ne aveva incontrate una dozzina nella sua vita. A alcuni quella sfortuna arrivava presto, ad altri più tardi. A volte quei individui commettevano errori con i assegni; altre volte si trattava di ricatti. L’ultima volta che era stato incarcerato, aveva lavorato insieme a uno di loro. Li disprezzava, ma comunque erano abbastanza al sicuro.
+
+“Cosa stai cercando?”, disse. “Un posto dove dormire?”
+
+Devo trovare un posto dove dormire stasera, e sicuramente devo mangiare prima di andare a letto.
+
+“Allora quel posto è adatto a te,” fu la risposta; con un movimento del mento indicò la porta aperta da cui proveniva la luce. “È di Old David. Lui è abbastanza onesto: non ha mai tradito nessuno, per quanto ne so. Ovviamente non si può mai essere sicuri di nessuno. È pura buon senso. Dobbiamo tutti vivere. E le condizioni lì sono davvero dure. Comunque, lui è proprio uno di quelli onesti.”
+
+Tutto ciò non significava nulla per l’infelice Lexington, e probabilmente non significa nulla nemmeno per i miei lettori; tuttavia, l’intenzione dell’oratore era quella di chiarire che l’edificio davanti al quale si trovavano, con la porta aperta, era una semplice locanda, che il proprietario si chiamava David – anche se non è noto se si trattasse di un nome cristiano, di un cognome o di un soprannome – e che si poteva fidarsi ciecamente che offrisse rifugio a chi cercava di eludere la giustizia. In generale, quindi, un uomo privo di appoggi sociali avrebbe potuto trovarsi in situazioni ancora peggiori di quelle in cui riceveva cibo e alloggio lì.
+
+Lexington ringraziò il suo informatore e gli chiese se volesse entrare anche lui e bere qualcosa insieme. La voce che rispose era piena di sospetto.
+
+#"Flush? Dove l’hai preparata?"
+
+Tuttavia, accettò e insieme entrarono; il nuovo arrivato funse da guida, presentando Lexington ai clienti e alle usanze a lui sconosciute, dove avrebbe potuto commettere errori così gravi da far sì che il proprietario lo rifiutasse per sospetto.
+
+Passarono davanti a una piccola biglietteria, dove un uomo anziano, con la barba trascurata, occhi astuti e labbra decise, stava dietro uno sportello simile a quelli delle biglietterie ferroviarie, solo molto più sporco e trascurato di quanto qualsiasi servizio ferroviario potesse tollerare. Qui e lì, sulla superficie lurida dello sportello, si vedevano vecchie foto strappate da giornali, appese a chiodini; inoltre c'erano alcune iscrizioni risalenti a molti anni prima, barrate con una linea nera, che riguardavano prezzi di un’epoca “preistorica”.
+
+C'era anche una cartolina con gli angoli consumati, di circa un piede quadrato e terribilmente sporca, con impronte di dita unte. Sopra, stampate in caratteri grandi, erano indicate le informazioni secondo cui i signori dovevano pagare in anticipo per tutto ciò che ricevevano. Sotto c'erano alcune regole semplici: una indicava l'orario presto del mattino per il check-out, un'altra l'ora in cui le grandi porte venivano chiuse di notte; l'acqua calda era disponibile al prezzo di un penny; ai signori era permesso portare con sé il proprio cibo, e erano indicate anche tutte le tariffe per la sua preparazione. Stranamente, sia i giochi d'azzardo che il linguaggio volgare erano severamente vietati. Infine, qualsiasi oggetto di valore poteva essere affidato alla custodia del proprietario.
+
+La guida di Lexington gli disse che doveva lasciare il suo vassoio e la sua cintura di sicurezza, e gli ordinò di contare attentamente le scatole di fiammiferi, perché non si sapeva mai cosa potesse accadere.
+
+Quell’uomo scontento pensò che quelle cose potessero essere delle imitazioni, capaci di tradirlo. Non sapeva come fossero realizzate nei negozi di costumi teatrali; forse erano persino incollate al vassoio. Non se n’era accorto. Nessuno gli aveva offerto di comprarne alcuna. È vero che non si era mai trovato in quei luoghi dove potevano esserci opportunità del genere.
+
+Era così felice che non trovava le parole per esprimerselo quando il severo vecchio proprietario del posto prese uno dei contenitori, lo scosse e dimostrò che all’interno c’erano fiammiferi. I contenitori furono contati attentamente: ce n’erano quattordici. Poi compilò il modulo richiesto, esitando a lungo sul nome da indicare; il proprietario suggerì “Smith”, e John come alternativa. Entrambi i nomi furono registrati correttamente. Il suo compagno era già pronto: scrisse “Richard Curl”. “Ti conosco, William,” disse il padrone di casa. Erano richiesti sei pence a testa; Lexington fece qualcosa che forse non era mai stato fatto prima in quel posto. Un gesto tipico di luoghi molto diversi. Tirò fuori, affinché entrambi potessero vederlo, la piccola quantità di argento e rame che la benefattrice gli aveva dato, ne scelse uno scellino e lo posò sul davanzale della finestra per pagare sia lui che il suo compagno. Contò attentamente quanto gli era rimasto: quattro scellini e tre pence. Mentre contava, il suo compagno osservava i soldi come un animale che fissa la sua preda.
 
 
 
@@ -4557,6 +6439,48 @@ Once more the lighter fiction of other days came to his aid. The benches on the 
 He had heard of them a hundred times, he had seen men sleeping on them with his own eyes. There returned to him an experience in a book he had read, a book he had always loved, the autobiography of John Pendle; the author’s night on the Embankment in June, when he got back to the smoke after a bad day at Sandown Park, with nothing to pawn, and too late to pawn it if he had. The recollection, at any rate, had been humorous enough. It was not June yet, but on the other hand the weather was not too cold; after a meal he would mind things less. He decided for supper and the Embankment, and perhaps morning would bring some new chances.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Lexington pagò di nuovo, come era suo dovere, per una tazza di caffè forte e due fette di pane; il nuovo arrivato, in segno di ringraziamento per la cortesia ricevuta, gli offrì una sigaretta tirata fuori dalla tasca dei pantaloni, e Lexington accettò volentieri. Dopo aver mangiato al bancone, dove uomini laboriosi servivano un cliente dopo l’altro, andarono a occupare due posti liberi sul lungo banco davanti al camino, che era stato ben riscaldato nonostante fosse tardi nella stagione.
+
+Il calore era piacevole; il pasto gli aveva fatto bene; i suoi compagni non mostravano alcuna intenzione di interrogarlo; poteva quindi ascoltare liberamente la conversazione che si svolgeva intorno a lui. Un uomo stava dando indicazioni a un paio di vicini riguardo al punto in cui, per uno scopo non menzionato, era necessario deviare dalla Grande Strada del Nord. Un altro intratteneva un piccolo gruppo con una serie continua di parole, di cui solo una su tre aveva un senso per Lexington. Tra lui e quel gruppo, altri due discutevano di argomenti che lo riguardavano più da vicino; tese le orecchie per ascoltare. Si trattava di un tema di grande interesse per tutte le classi sociali: il miglior metodo per eludere, nascondersi e, quello che l’uomo più anziano tra loro, abbastanza vecchio da aver servito in guerra, chiamava “camufflaggio”. Iniziarono discutendo dei tatuaggi; Lexington fu interessato ad apprendere che quei segni venivano generalmente condannati. Uno di loro rivelò come fosse possibile tradirsi attraverso i tatuaggi: sembrava infatti impossibile nasconderli correttamente, nemmeno sotto un nuovo colore.
+
+Arrivò il momento in cui le grandi porte dovevano essere chiuse e sbarrate; Lexington, accompagnato dal suo guida, salì stancamente al piano di sopra, fino a quella misera stanzetta indicatagli nella grande sala situata al primo piano. Due lampadine elettriche, non protette da alcuna barriera, pendevano dal soffitto crepato e malandato di quel luogo. Sulla parete, tra le alte finestre sporche, c’era un altro avviso, troppo lontano perché lui potesse leggerlo; ai lati delle brandine, disposte in due file, non c’era nulla di particolare. Sul biglietto che aveva acquistato era stampato il numero 42; cercò il letto numero 42 e lo trovò.
+
+Poi arrivò un nuovo problema: in cosa doveva dormire? Decise (molto saggiamente) che si dovrebbe dormire come si è, tranne, ovviamente, per le scarpe. Chiunque avesse messo delle scarpe tra le sottili coperte grigie di Old David sarebbe stato sicuramente punito. Si tolse quelle scarpe rigide e scomode, con un sospiro, chiedendosi come diavolo avrebbe potuto mettersele di nuovo la mattina seguente. Nel mezzo chiarore della lampada lontana, notò il contrasto tra le sue calze – quelle dei “bei tempi” – e quella pelle rotta che aveva appena indossato. Si chiese se fosse possibile dormire con quella luce abbagliante accesa tutto il tempo. Ma gli sembrò piuttosto facile. Quando hai deciso che qualcosa è inevitabile, tutto diventa molto più semplice.
+
+Dormiva così profondamente, con parrucca e barba comprese, che quando lo svegliarono alle sei del mattino seguente sembrava proprio che si fosse appena addormentato. Era terribilmente rigido; gli costò grandissimo sforzo infilarsi di nuovo quelle orribili scarpe e zoppicò lungo le assi nude della grande stanza verso le scale, come un uomo che non montava a cavallo da dieci anni e scendeva dopo la prima lunga giornata in sella.
+
+Il suo compagno era già nella grande sala comune al piano di sotto, evidentemente in attesa di lui e delle sue risorse. Gli dispiaceva dover pagare, ma si vergognava di non farlo. Così acquistò la colazione per due alla cassa: due grandi tazze di caffè, due fette grandi di pane e margarina, e, il lusso più grande di quel posto: una salsiccia ciascuno, felicemente fritta con cipolle.
+
+Non era così male. Il nuovo giorno sembrava abbastanza promettente attraverso quelle finestre magre e inquietanti. Lexington non aveva idea di cosa fare dopo, ma era pronto ad affrontare le sue possibilità. Decise di tornare nello stesso alloggio quella sera. Gli restavano meno di tre scellini; ma sicuramente avrebbe potuto guadagnare qualcosa durante il giorno. Aveva bisogno di rifornirsi di fiammiferi e di risparmiare un po’ di denaro per quello scopo. Non sapeva nemmeno dove comprarli.
+
+Raccontò al suo compagno della sua intenzione di tornare quella sera, e ricevette una nuova sorpresa.
+
+"Mai e poi mai! Che cosa? Due volte? Ti marchieranno!"
+
+“Ho sentito uno degli uomini qui ieri sera dire di essere stato qui per due settimane…”
+
+Il suo compagno sputò e sogghignò in modo significativo.
+
+“Yus… ma lui non lavorava il turno come te e me.”
+
+Lexington capì solo in parte quella frase. Quindi si pensava che stesse “compiendo un furto”. Un furto con scasso? Qualcosa di strano, comunque, qualcosa di pericoloso.
+
+Si separarono alle porte dell’ostello, ma prima che Lexington potesse chiedere al suo compagno di portarlo in un luogo dove gli uomini del suo nuovo mestiere potessero acquistare fiammiferi a prezzi all’ingrosso. Per nascondere la propria ignoranza, ammise di aver appena iniziato a lavorare, il che era vero. L’altro lo guardò con curiosità, ma lo accompagnò più avanti verso il centro della città, fino a quando non arrivarono in un magazzino nel quartiere di Lambeth. Lì Lexington scoprì che, spendendo due scellini dei suoi tre, poteva acquistare ben cinquanta scatole di fiammiferi, una quantità davvero sorprendente. Non vendevano mai meno di quella cifra. Gli dispiaceva chiedere a quale prezzo fossero in vendita al dettaglio, ma ricordava che quando lui stesso aveva trattato con simili commercianti, non aveva mai offerto meno di un penny per ogni scatola, e spesso anche due o tre penny. Sperava quindi di ottenere un profitto considerevole: sicuramente abbastanza per sopravvivere fino al giorno seguente, e con gli altri scellini che gli restavano avrebbe potuto cavarsela almeno fino alla sera.
+
+Si separarono, e per tutto il giorno, tranne che per mezz’ora dedicata a un pasto costoso sei penny, il venditore di fiammiferi vagò per le strade, fermandosi ora in un angolo che sembrava abbastanza sicuro.
+
+Quel giorno nessun poliziotto lo importunò. Se lo avesse saputo, forse gli avrebbero chiesto la patente, ma lui non aveva mai sentito parlare di cose del genere. Ebbe la fortuna di non essere affatto disturbato; forse perché aveva imparato dalla precedente esperienza a non fermarsi troppo a lungo nello stesso posto.
+
+Ma una crescente ansia lo assaliva. Era tardi pomeriggio; era stato in movimento per quasi dieci ore, e tutto ciò che aveva ottenuto fino ad allora erano nove penny in monete di rame. Doveva provare a mangiare di nuovo, doveva trovare un posto dove dormire.
+
+Con l'avanzare della sera, la sua ansia diventava sempre più acuta. Quando calò il buio, quella sensazione d'angoscia raggiunse quasi il livello del dispero; dopo aver attraversato i ponti, si trovò sul lungofiume, vicino a Westminster. Quanto aveva in possesso, sommando i soldi ricevuti e meno il pane e il caffè consumati a mezzogiorno, era di quattordici penny e mezzo. Si chiese quale fosse l'investimento più vantaggioso: dormire e fare colazione, oppure mangiare qualcosa che gli permettesse di andare avanti senza dormire affatto. Non poteva permettersi entrambe le cose, con quattordici penny e mezzo.
+
+Ancora una volta, la narrativa più leggera di un tempo venne in suo aiuto. I banchi sul lungofiume, l’ultimo rifugio dei senza tetto.
+
+Ne aveva sentito parlare centinaia di volte, aveva visto con i propri occhi uomini che dormivano su di esse. Gli tornò in mente un episodio descritto in un libro che amava molto: l’autobiografia di John Pendle. Parlava della notte trascorsa dall’autore sull’Embankment, a giugno, dopo una giornata disastrosa al Sandown Park; non aveva nulla da impegnare e ormai era troppo tardi per farlo. Comunque, quel ricordo era abbastanza divertente. Non era ancora giugno, ma d’altra parte il tempo non era troppo freddo; dopo aver mangiato, forse le cose sarebbero sembrate meno difficili. Decise quindi di cenare sull’Embankment. Forse la mattina avrebbe portato nuove opportunità.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_01" data-title="The Man Who Made Gold — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/prayer,motif/masks_disguise,concept/charity,concept/hypocrisy,concept/poverty,form/satire,setting/london"></span>
@@ -4595,6 +6519,40 @@ At that word “gold” the seller of matches started violently, and would have 
 At last the orator ceased. Charles Lexington was still wondering whether his surmise of detection could have anything in it. He gave a side glance at his companion — no! No one from the Yard could put on such simple holiness devoid of guile. The pale blue eyes were sincere, the lips, which in any less awful calling might have been called fatuous, had never descended to deceit. And the left hand hovering in the air in the unmistakable, birdlike fashion of its kind had never done the cruel work of nabbing the lie-low. It had always pursued its proper function of emphasizing the Sacred Words of Scripture and of aiding in its fluttering upward flight the wounded spirit.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XII
+
+Era notte, ma ancora presto. La riva del fiume era quasi deserta.
+
+Lexington si era spostato fino a una panchina davanti al Tempio. Sentiva il peso del vassoio che portava con sé; si passò la tracolla sulla testa e posò tutto accanto a sé sul marciapiede. Sperava che fosse permesso, comunque, ma aveva dei dubbi riguardo al fatto che ai poveri fosse consentito lasciare oggetti per strada. Avrebbe rischiato lo stesso.
+
+Se ne stava lì seduto, a fissare il ruscello che scorreva giù lungo la riva in ritirata, il suo movimento lo calmava. Aveva mangiato abbastanza: una tazza di tè e un pezzo di pancetta con del pane per dieci penny e mezzo. Ma era più cupo che mai. Non era la prospettiva di trascorrere la notte sugli sgabelli a deprimerlo, bensì l’impossibilità assoluta di decidere cosa fare il giorno dopo. Gli erano rimasti soltanto sei penny. L’azienda non aveva più capitale, nessun risparmio. C’era la merce, certo, tranne quei due o tre pezzi che aveva già venduto. Ma gli asset che non sono liquidi spesso risultano difficili da gestire. La notte era buia. E le sue prospettive erano altrettanto oscure.
+
+Stava fissando l'acqua fino a quando non si sentì abbastanza assonnato da potersi addormentare sul suo duro divano. Nella sua vita aveva dormito seduto solo una volta; era stato durante un treno notturno diretto alla Riviera, ma questa volta era diverso.
+
+Il sonno era ancora lontano da lui; continuava a fissare il ruscello quando un leggero colpetto sul braccio lo fece alzare lo sguardo: davanti a lui c'era un volto rotondo, dall'espressione gentile, appartenente a un uomo più giovane di lui, molto più giovane di Lexington stesso, considerando il suo travestimento. Sotto il mento di quel volto onesto spuntava un colletto chiamato “dog”, che si chiudeva sul retro e indicava la professione del sacerdozio cristiano in tutte le denominazioni, dai Mormoni alla Chiesa della Speranza Maggiore. Non appena l’uomo parlò, non ci fu più alcun dubbio su a quale setta appartenesse. Era un membro ufficiale, rappresentativo della chiesa nazionale e ortodossa. Se Lexington conosceva qualcosa sui preti – figuriamoci sui giovani preti. E all’università si diventa esperti in queste cose – allora quel sacerdote non apparteneva solo a una denominazione ufficiale, ma probabilmente al suo estremo destro. Sebbene giovane d’età, il reverendo Arthur Bootle era già molto esperto nell’esercizio della carità. E brillava alla prospettiva di compiere un atto buono.
+
+“Sei senza nulla?” chiese lui con voce gentile.
+
+Charles Lexington ammise l'accuratezza di quell'osservazione e aggiunse (con la ferma speranza che quel gesto di generosità venisse ripetuto) che non aveva mangiato nulla tutto il giorno e, non avendo i mezzi per pagare nemmeno il più umile alloggio, propose di trascorrere la notte su quella panchina.
+
+“Hai bisogno di cibo e alloggio? Ma oh, ciò di cui hai davvero bisogno è l’aiuto e la compassione dei tuoi simili!” disse l’Uomo di Dio, sedendosi accanto a suo fratello appena ritrovato. Poi iniziò a parlargli con parole di conforto. “Dall’accento che hai,” aggiunse, “si capisce che sei una persona istruita.”
+
+Charles Lexington emise un gemito. Quella frase pericolosa stava diventando terribilmente familiare. Ma il reverendo Arthur Bootle, animato da sincera carità, interpretò male quel suono triste.
+
+“No,” affermò, “non temere nulla. Non oserei mai indagare sui segreti del tuo passato, e so quanto sia difficile – anzi, quanto molto più difficile – per coloro che hanno conosciuto cose migliori sopportare ciò che ora stai affrontando. Forse,” continuò il prelato, immergendosi nel suo compito e iniziando a esporre i primi punti del discorso, “forse nei giorni lontani della tua giovinezza orgogliosa ti comportavi con noncuranza insieme ai tuoi compagni dell’università, ” (a queste parole il colto chimico rabbrividì; ma il reverendo Arthur Bootle, che non aveva mai goduto dei vantaggi offerti dalle nostre antiche università, provava per esse un tale rispetto da non ritenere di averle offese in alcun modo, ) “Insomma, eri solo un giovane, poco più di un ragazzo. Forse allora intraprendesti una professione onorevole. Non temere: non chiederò il suo nome. Senz’altro immaginavi per te un futuro pieno di onore, ricchezza e tranquillità. Ma arrivò quel giorno fatale in cui incontrasti qualcun altro. Forse da lui appresi cose che sarebbe molto meglio per gli uomini non conoscere mai. Vi separaste. Speriamo che sia stato per tua stessa volontà. Ma il male era già iniziato, e nulla poteva fermarlo. Intraprendesti pratiche fino ad allora sconosciute per te. Forse fosti tentato dal maledetto fascino dell’oro, ”
+
+All’udire la parola “oro”, il venditore di fiammiferi iniziò a comportarsi in modo violento; avrebbe voluto alzarsi dal suo posto, ma la mano di Charity sul suo braccio lo trattenne.
+
+“Permettetemi ancora un po’ di tempo”, disse questo Buon Samaritano, “non vorrei credere che siate completamente responsabile di quanto è accaduto dopo, ma ho conosciuto, (sospirò) ahimè! troppi drammi come il vostro.”
+
+“Maledizione, se è vero, ” pensò il sfortunato Lexington. Si chiese se finalmente avesse incontrato quel detective pericoloso. Chiunque fosse quella persona vestita da impiegato, sembrava sapere troppo.
+
+“Ci sarebbero stati conflitti, come sempre tra coloro che condividono un segreto colpevole. Forse una lite, chi lo sa? Poi, forse, un’esplosione. E dopo, temendo le conseguenze – senza dubbio più di quanto fosse necessario – sei fuggito; hai perso il tuo vecchio io; sei finito in questa situazione!”
+
+Finalmente l’oratore tacque. Charles Lexington continuava a chiedersi se la sua supposizione riguardo alla possibilità di aver scoperto qualcosa avesse fondamento. Gettò un’occhiata al suo compagno. No! Nessuno, proveniente dal “Yard”, avrebbe potuto mostrare una tale apparente innocenza priva di malizia. Gli occhi azzurro pallido erano sinceri; le labbra, che in circostanze meno tragiche sarebbero potute essere considerate un po’ sciocche, non avevano mai compiuto atti di inganno. E la mano sinistra, che fluttuava nell’aria con quel movimento caratteristico delle ali di un uccello, non aveva mai compiuto azioni crudeli o meschine. Sempre aveva svolto il proprio ruolo: enfatizzare le Sacre Parole della Scrittura e aiutare lo spirito ferito a “sollevarsi” verso la luce.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_02" data-title="The Man Who Made Gold — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/prayer,motif/masks_disguise,concept/charity,concept/hypocrisy,concept/tradition,form/satire,setting/london"></span>
@@ -4630,6 +6588,38 @@ Sister Frideswied opened a book with plans in it, on which squares neatly number
 
 “Number Nineteen — in the Lazarus Wing, dear Brother,” firmly replied this rescuing Angel. Then, turning to Lexington : “All objects that you have on your person must be left with me. They will be returned to you upon your exit. You will find the clothes proper to the establishment in your room. Those you are wearing will be” (she glanced at him again, and instead of saying “fumigated” added) “burned. All valuables. …”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Non disperare!” quella voce gentile iniziò di nuovo a parlare.
+
+“C’è speranza per tutti! Guardate verso il cielo! Ricordate la nostra Patria Comune! Sappiate che agli occhi del Creatore, qualche ricco passante, anche se disprezza la vostra condizione, potrebbe sembrare ancora più degradato di voi. Perché Lui esamina tutti i cuori, ” Charles Lexington emise un sospiro; provava tutto il disgusto che un laico può provare per i sermoni, e inoltre nutriva quel disprezzo per le illusioni della Religione, che invece è il più grande dono delle Scienze Fisiche! E soprattutto (per qualche motivo specifico) dell’Elettro-Chimica.
+
+Ma il suo gemito fu frainteso. Fu considerato il rimorso di uno spirito pentito. L’ammonizione sacra continuò: —
+
+“No, mio caro fratello, non addolorarti troppo! Ti prenderò sotto la mia protezione speciale. Vieni con me: ti aspetta una cena deliziosa, in un luogo dedicato al servizio di Dio e dei suoi poveri. C’è un letto pulito, sebbene semplice; potrai riposare bene, e domani ne parleremo insieme, da uomo a uomo, per decidere cosa fare. Ho scoperto il tuo travestimento.” (A queste parole, Lexington fece un sobbalzo ancora più violento del solito.) “Non sei sempre stato ciò che sei ora. Troveremo un lavoro adatto a te: forse un incarico clericale, o, se necessario all’inizio, qualche lavoro manuale leggero, mentre cerchiamo qualcosa di meglio. Vieni con me,” disse ancora una volta, alzandosi e tenendolo saldamente per il braccio, perché sapeva che avrebbero potuto cercare di scappare. Così, lasciando i suoi fiammiferi e il vassoio abbandonati sul marciapiede nell’oscurità, Charles Lexington seguì suo salvatore. E in effetti, ormai era disperato per il sonno.
+
+Salirono il pendio partendo dal lato del fiume, attraversando un paio di strade strette e superando la via principale; dopo circa quindici minuti arrivarono in un cortile dove si ergeva un grande edificio di squisito gusto, privo di alcun difetto, fedele in ogni linea e dettaglio al suo stile (il tardo periodo Tudor, come probabilmente saprete). Era costruito in pietra bianca; sopra l’arco d’ingresso si trovava uno stemma su cui erano raffigurate le tre piccole borse della famiglia de Bohun e lo slogan “Mihi Solo”, che indicavano il generoso benefattore che aveva donato alla Chiesa questo rifugio di carità e religione.
+
+Il reverendo Arthur Bootle suonò la campana dal tono profondo: l’uso dei corni era stato abbandonato alcuni anni prima, considerato un arcaismo superfluo, su consiglio del vescovo. Si aprì una piccola porticina, rivelando una grata di ferro e il volto del portiere, che, riconoscendo il prete, subito fece scorrere i chiavistelli della pesante porta di quercia intagliata e lo lasciò entrare.
+
+Il portiere era una figura gradita agli occhi stanchi di quegli abitanti di Lexington esausti. C'erano giorni in cui quella figura sarebbe stata assediata dalla folla, perché indossava abiti di colore marrone scuro legati in vita con una robusta corda nuova. I piedi erano nudi e calzati solo sandali; i capelli erano tagliati corti su tutti i lati, come se fossero stati modellati secondo la forma di una ciotola da budino. Tutto ciò rappresentava il ritorno dei giorni della Fede in Inghilterra. Ma quei giorni di persecuzione sono fortunatamente ormai lontani, e oggi tutti noi siamo in sintonia con il Nuovo Monachesimo.
+
+“Benvenuto!” esclamò il reverendo Arthur Bootle con trionfo. “Benvenuto, caro ospite (così devo chiamarti) all’ostello di San Dives!”
+
+Condusse il suo prigioniero attraverso un lungo corridoio adornato con stampe di Arundel; in fondo c'era una bella statua del protettore, scolpita da Weissenstein. Poi entrò in un'altra stanza, anch'essa fatta di quercia, vuota e spoglia, con una grande finestra all'estremità. C'erano due lunghi tavoli di legno ben puliti, posizionati contro il muro, insieme a panche accanto ad essi.
+
+Il chierico ordinò all’uomo sfortunato di sedersi, chinò la testa per un momento in silenziosa preghiera, poi, battendo le mani con sorprendente rapidità, chiese a un altro prigioniero, che rispose alla chiamata, di portare cibo e bevande. La bevanda era acqua purissima; il cibo consisteva in una ciotola di zuppa seguita da un ottimo stufato. Era difficile per qualcuno che aveva appena mangiato, ma bisognava farlo. Dopo aver consumato il cibo, Charles Lexington si alzò e, per la prima volta nella sua vita, assunse l’atteggiamento della preghiera; mentre il suo rapitore recitava in toni rapidi e sussurrati la “Preghiera dopo il pasto” nell’originale greco di San Epifanio, lui gli ordinò ancora una volta di seguirlo.
+
+Proseguirono lungo un altro corridoio e attraversarono i chiostri fino a raggiungere una stanza dove si trovava la direttrice che sovrintendeva agli aspetti amministrativi di questa nobile fondazione: suor Frideswied, il cui vero nome in passato era Jane Beckett. Era vestita in modo semplice ma elegante; l’architetto che fungeva da principale consigliere del fondatore aveva infatti voluto esprimere con questo abbigliamento il principio di continuità con il grande passato della Chiesa e della Nazione. Un velo nero, decorato con nastri e piume secondo lo stile di Margaret Beaufort, le adornava la testa e le spalle; inoltre, due ciocche di capelli ricordavano l’aspetto delle dame alla corte di Enrico VII. Tuttavia, non indossava né catene né altri ornamenti, che, sebbene adatti alle donne pietose nel mondo secolare, erano stati proibiti alle religiose dal Sinodo di Clovenhofe (come il lettore ricorderà).
+
+Suor Frideswied stava facendo i conti. Salutò il prete; quanto a Charles Lexington, lo valutò con un solo sguardo, per così dire.
+
+“Abbiamo spazio, cara sorella, per un altro caro fratello? Sicuramente, oh sicuramente. Sì! Credo che rimarrà solo per una notte o due al massimo. Ho già pensato alle sue esigenze materiali. Domani vedrò cosa si può fare per troargli un lavoro e, se avrò fortuna, tornerò stasera.”
+
+Suor Frideswied aprì un libro contenente dei piani; su di esso, dei quadratini ordinatamente numerati erano stati cancellati sia con la matita rossa che con quella blu.
+
+“Numero Diciannove — nel Braccio di Lazzaro, caro Fratello,” rispose con fermezza questo angelo salvatore. Poi, rivolgendosi a Lexington: “Tutti gli oggetti che hai con te devono essere lasciati a me. Ti saranno restituiti al momento della tua uscita. Troverai nell’ stanza abiti adatti all’istituto; quelli che indossi ora, ” (lo guardò di nuovo e, invece di dire “verranno fumigati”, aggiunse) “verranno bruciati. Tutti gli oggetti di valore, ”
 
 
 
@@ -4677,6 +6667,48 @@ Neither his morals nor the pace of his reactions would have permitted him three 
 “Why, bless me, yes!” said the Reverend Arthur. “So I have. So I have!” He smiled benignantly at the little bundle of letters and circulars, thrust it into the pocket of his coat, thanked the pauper warmly, and went out about the good works to which he was devoted.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+In quel momento Charles Lexington la interruppe; il suo netto accento di St. Olaf la fece aggrottare la fronte.
+
+“Non ho oggetti di valore. Non ho nulla.” Aprì entrambe le tasche laterali del suo cappotto logoro, entrambe le tasche dei suoi pantaloni, e mise i suoi sei penny sul tavolo.
+
+“Molto bene,” disse lei, confiscando le monete, “riavrete i soldi quando ve ne andate, ma con eventuali detrazioni che potrebbero essere applicate.”
+
+“Grazie, cara sorella! Grazie mille volte!” disse il reverendo Arthur Bootle. “Pregate affinché nostro caro fratello venga accompagnato al numero 19. E ora buonanotte. Buonanotte nel Signore.”
+
+E così Charles Lexington si ritrovò con un secondo pasto davanti a sé, ma il suo umore non ne fu affatto migliorato. Ahimè! Era stato identificato, numerato e catturato come prigioniero: la tragica sorte dei poveri. Al numero 19 trovò una piccola stanza imbiancata, con acqua calda e fredda, una semplice croce sopra il letto, e sull’altro muro un avviso, (Che pulizia, e quanto contrasto rispetto al suo alloggio delle due notti precedenti, ) Sull’avviso erano stampate in caratteri grossi le ore in cui si svolgevano le attività quotidiane: doveva presentarsi in chiesa alle 5 del mattino, partecipare alla cerimonia di appello alle 5:30, poi al pasto mattutino. E così via. Gli veniva anche comunicato che tutte le luci sarebbero state spente a un’ora prestabilita.
+
+Sul banco, accanto al piede del letto, erano ripiegati un abito in tela blu con fodera bianca; su entrambi i lati era ricamata la lettera “D”; una sorta di cappello dello stesso materiale; un paio di calzini economici, persino un fazzoletto. Quello che lo rese davvero grato fu un paio di stivali passabili, che erano stati portati dal negozio insieme al resto delle cose dopo che gli avevano preso le misure. I suoi vecchi stracci erano stati portati via.
+
+Charles Lexington si crogiolava nella pulizia delle lenzuola. Sentiva finalmente il primo riposo che provava da quando, in quelle ore a Wimbledon Common, aveva detto addio a tutto ciò che conosceva.
+
+Era ancora lì sdraiato a riflettere, quando un'altra di quelle esperienze che arrivano con tanta freschezza e novità a chi tenta di raggiungere una nuova posizione nella società lo colpì all'improvviso. La luce si spense.
+
+Cercò di accenderlo di nuovo, ma si rese conto che non funzionava più; è proprio così che funziona il controllo istituzionale. Non restava altro da fare se non aspettare fino al mattino.
+
+Sorse la mattina; poi venne la Messa nella Cappella, l’Invocatio, e una buona colazione a base di bacon. Diverse persone di tutte le età, vestite come lui, lo circondavano. Poi iniziò il lavoro con una scopa nel cortile, sotto gli occhi di un fratello laico che fungeva da “Custode dei Lavori”. Pranzo. Altre attività lavorative. Compieta e cena. Ma prima che venisse mandato a letto insieme agli altri, fu chiamato nella stanza di Suor Fridesweid. Lì il Rev. Arthur Bootle, pieno di carità divina, gli comunicò la buona notizia.
+
+“Rassicurati, mio amico,” disse, “tutto va bene. Tra i benefattori di San Dives che dimostrano un interesse così caloroso, così sincero e così personale per il nostro benessere e il nostro lavoro sacro, c’è uno il cui nome non posso mai menzionare senza provare un profondo senso di gratitudine. Lord Taylor trova il tempo, nonostante le sue molteplici impegni, per interessarsi alla nostra umile attività. Ho contattato la sua segretaria al telefono, dicendo – e ne sono certo – che si trattava di una persona istruita; ho descritto la tua situazione e le ho assicurato, purtroppo, che non era possibile fornire referenze, ma che ero sicuro di poter garantire personalmente che, qualora fosse stato possibile trovare qualcosa per te, anche qualcosa di molto semplice, saresti stato grato e loro non sarebbero rimasti delusi.”
+
+Allora Charles Lexington conosceva davvero il significato della parola “Libertà”. Quel giorno non aveva letto nessun giornale, non aveva sentito alcuna notizia. Chissà, forse in quel momento le strade erano già piene del suo nome. Eppure eccolo lì, sul punto di essere gettato direttamente nelle fauci della caccia che lo inseguiva!
+
+Tutti i piani che gli passavano per la mente erano quelli di un uomo nato libero. Ma aveva aderito alla casta degli schiavi, e quei piani erano inutili. Anche se riuscisse a superare le barriere, non avrebbe i mezzi necessari per prendere l’omnibus, figuriamoci un biglietto del treno. Inoltre, i suoi vestiti erano scomparsi; indossava una divisa che sarebbe stata immediatamente riconosciuta. Lo avrebbero riportato indietro.
+
+Il reverendo Arthur parlò di nuovo:
+
+“È possibile che il segretario di Lord Taylor parli personalmente con Sua Signoria. Non posso dirlo con certezza. Sua Signoria si interessa molto alle questioni personali, soprattutto a casi come il tuo: quando un uomo cade dal più alto rango in una sorte così triste. Domani a mezzogiorno penso di avere buone notizie per te. Tieni alta la testa, caro fratello. E ricorda” (fece il gesto rituale di indicare il soffitto) “ricorda di guardare verso l’alto: la nostra vera casa è lassù.”
+
+Con questo, uscì.
+
+La professione a cui apparteneva il signor Lexington era famosa per una certa distrazione dovuta alle abitudini tipiche della sua attività. A causa del peso degli studi che richiedeva, tale distrazione era quasi inevitabile. Ma anche i membri del clero, nelle loro molteplici mansioni e preoccupazioni, non di rado cadono vittime di questa conseguenza inevitabile di una vita intellettuale intensa. Il reverendo Arthur Bootle, uscendo dalla sala dove aveva incontrato le persone che aveva intervistato il giorno prima, lasciò alcuni documenti sul tavolo. Tra questi, Lexington notò l’angolo di un biglietto da una sterlina.
+
+Né la sua morale né il ritmo delle sue reazioni gli avrebbero permesso, tre giorni prima, di fare ciò che fece poi. Agì con una rapidità che non sorprese nessuno, tranne lui stesso, e con una mancanza di scrupoli di cui si sentiva quasi orgoglioso. Quel pezzetto di carta verde che una settimana prima non significava nulla per lui, ora rappresentava la differenza tra salvezza e rovina totale. Lo tirò fuori silenziosamente e in un attimo; nello stesso momento, presentò tutti gli altri documenti tenendoli tutti insieme nella mano.
+
+“Le avete dimenticate, signore, credo, ” disse rispettosamente.
+
+“Davvero, sì!” disse il Reverendo Arthur. “Esatto, è proprio così!” Sorrise benignamente a quel piccolo mucchio di lettere e circolari, se lo mise in tasca, ringraziò calorosamente il povero uomo e poi andò ad occuparsi delle opere di bene a cui era devoto.
+
 
 
 <span class="atom-split" data-atom="chapter_13--part_04" data-title="The Man Who Made Gold — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/trickster,archetype/outcast_wanderer,motif/masks_disguise,motif/imprisonment,concept/freedom,concept/deception,form/satire,setting/london"></span>
@@ -4706,6 +6738,32 @@ Together Sister Frideswied and he sought the parlour. It was swept clean and bar
 
 The bed was a ruin. The bird (if I may so call him) was flown. From the tap of the washhand basin a long twisted sheet led out of the open window. She went to it. She saw the pendant line above the ground below, and she turned in dreadful guise upon the ecclesiastic, who cowered beneath her gaze.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Charles Lexington, ancora stretto nella mano, ben nascosta nella tasca, la chiave della libertà, si diresse verso il numero 19 con entusiasmo, puntualità e obbedienza agli ordini, tanto da sembrare un detenuto modello. Suor Frideswied non era mai stata così soddisfatta.
+
+Nella sua stanza, la Matron, mentre salutava buonanotte il Reverendo Arthur, lo ringraziò per il suo sacco.
+
+“Posso capirlo,” disse lei, “dal suo modo di parlare: appartiene a una classe diversa dalle altre; ma so leggere nei volti, e se mai l’onestà si manifesta in modo evidente, è proprio in quel caso. Non so come sia finito in quella situazione, ma dentro di lui c’è una bontà pura e sincera.”
+
+Quella notte, immediatamente dopo che la luce si spense, quando mancavano ancora tre ore buone di oscurità prima dell’alba, Charles Lexington si alzò.
+
+Aveva la curiosità di provare quella finestra e scoprì che non era chiusa a chiave. L’aria fresca rappresentava davvero una benedizione. Non c'erano sbarre; forse avrebbero dovuto esserci in un luogo dedicato al salvataggio e alla carità, ma l’altezza rispetto al suolo rendeva del tutto inutile il loro utilizzo nel numero 19. La finestra dava su un piccolo cortile; da lì notò che c’era un’uscita che conduceva in una strada laterale. Aveva già fatto la sua planificazione.
+
+Era una questione di vita o morte. Aveva rubato denaro per ottenere la libertà, e quella libertà doveva assolutamente averla.
+
+È sorprendente con quale rapidità procedesse la sua educazione. Nella oscurità, si infilò i vestiti alla rovescia, nascose il biglietto da una sterlina sotto la camicia e poi adottò il metodo classico per “fuggire”. Legò insieme le lenzuola e le coperte, pregò disperatamente l’Ignoto, fissò l’estremità di quel lungo “aggeggio” al pezzo più solido che riuscì a trovare nella stanza (uno dei rubinetti del lavandino) e iniziò la discesa. Nell’oscurità, stimò che ci fossero circa sei piedi da superare. Corse il rischio e atterrò in piedi, un po’ stordito ma illeso. Uscì rapidamente dal corridoio, si diresse verso una strada secondaria e, almeno per il momento, divenne un uomo libero.
+
+Scoprite quanto rapidamente procedesse la sua “istruzione”. Prese grandi manciate di fango dal canale di scolo, se le strofinò dappertutto sulle sue immacolate braghe bianche in tela; fece lo stesso con il rivestimento interno del cappotto, indossato al contrario, rendendolo altrettanto sporco e disgustoso. Poi sporcò anche i suoi stivali, riducendoli allo stesso stato disonorevole. Infine, continuò a imitare, nel modo migliore che potesse dopo tanta pratica, l’andatura curva e strascicata di un vagabondo. Non era il caso di correre; inoltre, aveva ancora mezza notte davanti a sé.
+
+Circa quindici minuti dopo, alle 22:27 precise, il reverendo Arthur Bootle suonava con entusiasmo alla campanella dell’ostello St. Dives. Il portiere di notte lo fece entrare. Il clérigo fu sollevato nel vedere che le luci erano ancora accese nell’atrio principale. Chiese se la suora fosse ancora sveglia e gli fu risposto di sì, poiché quella sera era rimasta a lavorare alle sue pratiche contabili fino a tardi. Si diresse verso la sua stanza e bussò delicatamente alla porta.
+
+Il Reverendo Arthur Bootle non era gravato dai beni effimeri di questo mondo; per lui, una libbra era davvero una libbra, e lui ne aveva persa una. Qualsiasi oggetto trovato nell’ostello veniva automaticamente restituito all’ufficio della direttrice. L’aveva persa solo mezz’ora prima, quando aveva tirato fuori i documenti dalla tasca prima di appendere il cappotto per andare a letto. Ripassò mentalmente le sue attività di quel giorno; ricordava di averla vista l’ultima volta quando era andato a parlare con il nuovo ospite nel pomeriggio. Forse si era persa da qualche parte in quei momenti. Più probabilmente era caduta per terra e veniva trovata proprio in quella stanza. Ecco perché era tornato a quell’ora insolita.
+
+Insieme, suor Frideswied e lui cercarono nella sala. Era pulita e vuota; non c'era nulla da trovare. La suora ordinò di accendere tutte le luci dell’edificio e guidò il cammino con passo deciso verso la stanza numero 19. Non si prese nemmeno la briga di bussare; aprì la porta con la sua chiave d’accesso, la spalancò completamente e accese la luce.
+
+Il letto era un disastro. Quell’uccello, se così posso chiamarlo, se n’era andato. Dalla rubinetteria del lavandino, una lunga striscia di stoffa contorta usciva dalla finestra aperta. Lei si avvicinò; vide quella corda sospesa sopra il terreno sottostante e, con un aspetto spaventoso, si rivolse verso l’uomo di chiesa, che si rannicchiò sotto il suo sguardo.
 
 
 
@@ -4747,6 +6805,42 @@ He shuffled over towards them. “What do you want?” he said. With the customa
 The captain of this band (“band” is the applicable word) was a strong, burly fellow — a natural captain of the other two, the weakness of whose features pierced through the disguise of burnt cork and woolly wigs. He sat down slowly, asked what was next to be done, checked the half answer of one subordinate with a threatened kick, and then announced his plan of campaign. They were to go upstairs and knock up old Sarah. Tell her to doss Joe down till the morning; meanwhile he would sleep it off, but he wished he could catch the bastard as had given poor Joe that back-hander.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIII
+
+Da tempo è oggetto di dibattito tra i filosofi se siano i poveri o i ricchi a essere più infelici; e nessuno è più adatto a discutere questa questione dei filosofi, poiché essi provengono dai poveri e vivono tra i ricchi in modo assolutamente spudorato.
+
+Oso definire il reverendo Arthur Bootle, dell’ostello di St. Dives, un uomo ricco.
+
+Non mi soffermerò a discutere il significato esatto della parola “ricco”. Non possedeva nulla di valore e aveva solo un reddito molto modesto, ma era al sicuro. Si trovava dal lato giusto delle cose. Poteva parlare con toni elevati. Pranzava alle nove.
+
+Certamente Charles Lexington ora apparteneva ai poveri; ma se fosse stato Charles Lexington, che barcollava per le strade deserte di Londra di notte dopo la sua fuga, o il reverendo Arthur Bootle, che si contorceva sotto le mani di suor Frideswied nello stesso momento, chi dei due fosse più sfortunato. Io (essendo il loro Creatore) potrei esaminare i loro cuori e decidere. Ma il reverendo Arthur Bootle era sicuramente il più sfortunato.
+
+Pochi uomini riescono a resistere a una donna efficiente e organizzata. E la maggior parte di questi uomini sono morti. Il Reverendo Arthur Bootle non era tra i sopravvissuti. Suor Frideswied gli spiegò in modo molto chiaro quale tipo d’uomo fosse: come riteneva suo dovere dirglielo, nonostante il rispetto che provava per la sua carica religiosa; come lo aveva scoperto mentre continuava a portare persone sospette in quel luogo (era il suo secondo errore in cinque anni); come aveva sospettato di quella persona fin dal principio; e come si chiedeva come una lunga esperienza non gli avesse ancora insegnato ad analizzare correttamente i caratteri umani. Dopo queste preliminari spiegazioni, gli assegnò diverse mansioni. Tutte quelle che lui era pronto ad eseguire con entusiasmo, felice di liberarsi, a quel prezzo, dalle terribili “agonie” della sua lingua tagliente.
+
+Aveva il compito di far seguire la pista da parte della Polizia. Doveva assicurarsi che nessuna parola trapelasse nella stampa. Non voleva che la buona reputazione di St. Dives venisse macchiata, né che la sua funzione sacra venisse ridicolizzata come una sorta di prigione per delinquenti recalcitranti. Doveva redigere un breve rapporto sull’incontro avuto con quel sfortunato detenuto. Doveva stilare anche un memorandum in cui spiegasse i motivi per cui aveva deciso di offrirgli ospitalità a St. Dives. Doveva descrivere con cura il criminale. Anche se disprezzava l’idea che potesse essere abbastanza organizzato da prendere nota del numero della banconota. Poteva anche redigere tre copie di questa descrizione, se lo desiderava. Ma non poteva certo svegliare Miss Benson a quell’ora impossibile per farla scrivere al pianoforte. Tutto questo doveva essere fatto prima di andare a dormire quella notte. E lei sperava di vederlo il giorno dopo, esattamente alle dieci, in modo da poter preparare la spiegazione necessaria per il funzionario che sarebbe venuto a fare visita. Le speranze di Suor Frideswied erano ordini.
+
+Ma mentre il Reverendo Arthur Bootle soffriva nel suo purgatorio a causa di lei (e lo offriva a San Lorenzo, patrono dei cuochi), Charles Lexington continuava a vagare senza meta, con una sola stella a illuminargli la notte: il pensiero di quella banconota da un pound, e un solo terribile pensiero che lo tormentava fino al disperazione: l’uniforme che indossava, rivoltata capovolta. La polizia sicuramente sarebbe stata avvertita, e lui portava addosso, rivoltata, la divisa della servitù, l’uniforme della Sacra Carità imposta a coloro che il fondamento di San Dives aiutava quando cadevano in difficoltà. La polizia poteva riconoscere quel taglio, e il rivestimento bianco, insieme alle cuciture, non lo rendevano certo meno evidente.
+
+Ora devo presentare Fate. Finora l’ho tenuta in secondo piano, nonostante fosse molto impegnata, perché lei stessa mi aveva pregato di non farla emergere troppo; tuttavia, le sue azioni sono così importanti per la storia di Charles Lexington che devo prenderla per le spalle e spingerla con decisione sul palcoscenico.
+
+Il destino aveva preso in mano la situazione.
+
+In quel momento, la fortuna concesse a Charles Lexington la sua prima possibilità di salvezza. Sotto il chiaro bagliore di un lampione ad arco, all’angolo di una strada deserta, vide tre uomini chinarsi sul corpo disteso di un quarto.
+
+All’inizio, non conoscendo la propria fortuna, cercò di evitarli e si nascose nell’ombra. Erano vestiti in modo strano: indossavano pantaloni a strisce larghe, bianche e rosse, come se fossero stati tagliati frettolosamente da una bandiera nazionale; ognuno di loro portava una sorta di giacca tipica dell’Eton College con lunghe code sottili; i loro volti erano neri come la notte stessa. Accanto a loro, sul marciapiede, giacevano alcuni strumenti musicali gettati via in fretta; tra questi, accanto all’uomo che era caduto, c’era anche un banjo.
+
+Charles Lexington cercò, diciamo, di nascondersi nell’ombra, ma il Destino aveva tutto sotto controllo e lo manipolava a suo piacimento.
+
+Colui che sembrava essere il capo del gruppo chiamò bruscamente un uomo chiaramente appartenente alle classi povere:
+
+“Ehi! Amico, aiutami un po’! Vieni a darci una mano per sollevarlo!” Per mezzo secondo Charles Lexington esitò tra fuggire o obbedire, ma sai quanto rapida fosse stata la sua “educazione” in quei due brevi giorni di esilio. Aveva già imparato l’istinto legato al suo nuovo rango sociale e il suo motto: “Non scappare finché non è sicuro.”
+
+Si avvicinò lentamente verso di loro. “Cosa volete?” disse. Dopo aver pronunciato la solita imprecazione e ricevuto l’invito a stare zitto, gli fu chiesto di prendere i piedi del caduto, mentre gli altri tre ne afferrarono due le spalle e uno il carico costituito dagli strumenti rovinati. Portarono via quell’uomo svenuto, il cui viso era nero come il loro, lungo il vicolo e lo spinsero attraverso una porta bassa in una stanza particolarmente disgustosa: sporca, con le finestre ben chiuse, illuminata da un unico beccuccio del gas parzialmente coperto da una lampadina rotta. C’erano quattro o cinque sedie di legno e un grande tavolo macchiato di bevande alcoliche; lì adagiarono il loro compagno.
+
+Il capo di questo gruppo era un uomo forte e robusto: un vero leader naturale per gli altri due, i cui tratti deboli trapelavano nonostante il travestimento con tappi di sughero bruciati e parrucche lanose. Si sedette lentamente, chiese cosa dovesse essere fatto next, controllò a calci la risposta incompleta di uno dei suoi subordinati, e poi annunciò il suo piano d’azione: avrebbero dovuto salire al piano di sopra e “occuparsi” della vecchia Sarah. Le avrebbe detto di far dormire Joe fino alla mattina; intanto lui stesso si sarebbe ripreso. Ma avrebbe voluto tanto catturare quel bastardo che aveva dato a Joe quel pugno nello stomaco.
+
 
 
 <span class="atom-split" data-atom="chapter_14--part_02" data-title="The Man Who Made Gold — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/trickster,archetype/outcast_wanderer,motif/masks_disguise,motif/clothing,concept/deception,concept/class_conflict,form/satire,setting/london"></span>
@@ -4776,6 +6870,32 @@ He went long immune during the earlier part of the afternoon when the drink had 
 
 There was a lively chorus in which the two dependants and the Master had kept it up famously and the Reader to the University had made his uncouth noises unperceived and drowned in the rest. At the end of that chorus the Master called out to his End Man for a solo. The order was accompanied by a wink and a reminder of his boast in the den of infamy when Bold with the Booze. Charles Lexington braced himself for the ordeal. But his blood ran cold. He remembered reading once that condemned men feel acutely the beauty of the world they are about to leave. There above him were the great white clouds sailing in the blue sky. There, beyond the sward, was ancient Thames slipping by, and the green, green grass of England — where it was not hidden by the dense masses of stunted horse-lovers — and there was he upon the edge of doom. The Master’s voice came again in anger, with a second command to sing, not unaccompanied by a vocative disparaging Charles Lexington’s moral character : “Sing, blast your dirty gizzard! Sing, you” (two words indicating illegitimate birth and depraved morals!) “Sing!”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I suoi due schiavi salirono obbedientemente le scale scricchiolanti, portando il loro carico. Si potevano sentire le proteste di Sarah sopra, e i passi pesanti mentre Joe, privo di sensi, veniva portato in una stanza al piano di sopra. Nel frattempo, Charles Lexington rimase da solo con il padrone.
+
+Il Maestro non sprecò parole: era un uomo d’azione. Il suo “uomo per i compiti speciali” aveva fallito completamente; il giorno dopo non sarebbe stato più utilizzabile. C’era ancora un biglietto per le corse del mattino seguente, ma nessun “uomo per i compiti speciali”. Se Charles Lexington fosse riuscito a suonare la banjo, cantare una canzone e rispondere prontamente alle domande, avrebbe potuto ottenere il lavoro. Gli altri due non erano nemmeno degni di considerazione. Il compenso era di due fiorini al giorno, più la sua parte dei guadagni. Inoltre, (guardando il fisico di Lexington) avrebbero potuto farlo indossare il frac professionale e stravagante di Joe, i pantaloni a strisce rosse e bianche, la parrucca arricciata. E i suoi compagni gli avrebbero truccato il viso.
+
+Allora a Charles Lexington venne in mente come si fossero avverate le parole del profeta: quell’uomo che nell’ostello aveva predicato l’utilità di un travestimento etiope. Il destino stava lavorando intensamente! Lui lo accettò con entusiasmo. L’uniforme della sua schiavitù sarebbe stata gettata via; i suoi tratti fisici sarebbero stati trasformati. Era esattamente ciò di cui aveva bisogno. Pretese audacemente di essere un suonatore di banjo di eccezionale abilità, spiritoso e dotato di un vasto repertorio canoro. Continuò a vantarsi delle sue capacità passate, della sua lunga esperienza nel genere musicale dei “nigger minstrels” e dei suoi particolari talenti. Mentre proseguiva nella sua descrizione, menzionando luoghi e nomi che stranamente contrastavano con l’accento di Saint Olaf, il padrone, che lo osservava con grande curiosità e anche un certo disgusto, gli ordinò di tacere. Gli altri due, intanto, scendevano rumorosamente le scale dopo aver completato la loro missione.
+
+Secondo quanto riferito, la vecchia Sarah era stata intimidita. Joe si trovava nella stanza dove veniva conservato il bacon; potevano lasciarlo al sicuro con Sarah. Furono inviati a recuperare le proprietà del loro compagno. Charles Lexington indossò con difficoltà i pantaloni sopra quelli della sua uniforme di ostello, e ancora più facilmente il ridicolo abito da sera sopra il cappotto dell’ostello e sulle sue spalle strette. La parrucca di lana gli stava abbastanza bene. Poi presero la sughero bruciato e lo usarono per rendere il suo viso perfetto.
+
+Allora uno dei due, che era stato più maltrattato, fu di nuovo mandato al piano di sopra per prendere ciò che era necessario e tornò con una bottiglia e quattro bicchieri; poiché la tradizione richiedeva che il nuovo arrivato brindasse al mestiere. Charles Lexington avrebbe preferito dormire persino sui rozzi assi del pavimento, ma non sarebbe stato sicuro attirarsi l’inimicizia degli altri, quindi bevve con loro dalla prima bottiglia e anche dalla seconda, fino all’alba. Con il banjo sotto il braccio, il cappello di paglia sulla parrucca arruffata, il viso splendidamente scuro per via del vino, si sentì più al sicuro quando arrivò la luce del giorno di quanto non si fosse mai sentito da quando aveva letto quel terribile articolo sul giornale nell’osteria della West Country, mille anni prima.
+
+Uscirono per le strade deserte diretti verso la stazione. Il Maestro tirò fuori i soldi necessari per una tazza di caffè forte e due sigarette ciascuno; poi prese i biglietti e li portò al circuito delle corse, situato lungo il fiume, risalendo il Tamigi. Nel treno, intrattennero il loro tempo giocando a “Jack Last”, permettendo gentilmente a Lexington di dover loro qualcosa se perdeva. Le poste in gioco erano modeste. Il nuovo compagno aveva già guadagnato otto penny prima ancora che finisse la partita; stranamente, “Jack Last” non è un gioco che richieda abilità particolari. Dipende molto di più dalla fortuna che dall’abilità stessa. E quindi Charles Lexington, imparando pazientemente il gioco, era destinato ad avere successo.
+
+Finora, il Destino aveva comportato con la sua vittima come una “gatta gentile”. Essendo una donna, però, presto le venne voglia di qualcosa di più eccitante, e così iniziò a torturarla, continuando fino a quando non ne ebbe abbastanza; poi, di nuovo, tornava alla gentilezza. E così via. Era arrivato il momento che “grattasse” ancora una volta.
+
+Durante quelle ore mattutine, nonostante il rumore della folla e i continui scherzi e litigi, Charles Lexington riuscì comunque a continuare. Suonava le corde in qualche modo, sembrava che stesse suonando davvero. Comunque fosse, muoveva le dita della mano sinistra su e giù il più possibile, e si consolava pensando che la potente, sebbene un po’ roca, voce baritonale del Maestro aiutasse a soffocare la sua. A mezzogiorno, nel cappello era già stata raccolta abbastanza denaro per permettersi un pasto.
+
+Il Maestro li portò in una locanda situata tra il sentiero e il fiume, del tutto nuova per Lexington: un luogo pieno di uomini che sudavano e gridavano; lì si sedettero attorno a un tavolo, serviti prima con pane e formaggio, poi con abbondanti bevande. Sotto l’effetto di queste bevande, il Maestro divenne più gentile e osò dire che il nuovo “Uomo del Fine” avrebbe cantato una canzone al loro ritorno sul palco; Charles Lexington, però, protestò ad alta voce, dicendo di conoscere centinaia di canzoni. Confidava nella fortuna per salvarsi, ma questa volta gli era voltata le spalle. In realtà conosceva soltanto una canzone: la “Canzone del Canottaggio di Eton”; quanto alla musica, non riconosceva nemmeno una nota.
+
+Era uno di quei casi così frequenti tra gli intellettuali: persone la cui totale incapacità nel comprendere anche le forme musicali più semplici le spinge a rifugiarsi nei cori; ma quando vengono costrette a esibirsi in arie o solisti, emettono suoni strani e dissonanti, come un uomo che soffre terribilmente o un asino che esulta.
+
+Per la maggior parte del pomeriggio, mentre l’effetto della bevanda non era ancora completamente svanito dal corpo del Maestro e la folla rimaneva ancora incondizionatamente favorevole a lui, lui rimase immune a qualsiasi influenza negativa. Ma il Destino stava già affilando le sue “artigli”; il momento inevitabile sarebbe arrivato, ed effettivamente arrivò.
+
+C'era un canto vivace nel quale i due assistenti e il Maestro lo avevano eseguito con grande abilità; inoltre, il lettore dell'università aveva emesso i suoi suoni rozzi senza essere notato, sommersi dal resto del canto. Alla fine di quel brano, il Maestro chiamò il suo assistente per un assolo. L’ordine fu accompagnato da un battito di ciglia e da un ricordo della sua vanteria nel luogo dell’infamia. Charles Lexington si preparò ad affrontare quell’esperienza. Ma gli venne la paura. Ricordava di aver letto una volta che gli uomini condannati percepiscono con intensità la bellezza del mondo che stanno per lasciare. Lassù sopra di lui, grandi nuvole bianche navigavano nel cielo azzurro; oltre il prato, scorreva l’antico fiume Tamigi. E c’era quella verde erba d’Inghilterra. Ma lui si trovava sull’orlo della rovina. La voce del Maestro risuonò di nuovo, piena di rabbia: “Canta! Canta, maledetto! Canta tu, ” (due parole che indicavano nascita illegittima e moralità depravata, ) “Canta!”
 
 
 
@@ -4818,6 +6938,44 @@ He rose up in the St. Dives’ uniform (inside out) over which he had strained t
 
 He came soon to the beginnings of things well kept. There was a gravelled path. There were evergreens — trimmed. Beyond there appeared the hedges of great lawns and to him, Odysseus, all bent and streaming with Thames-water and eyes blurred with same, there appeared, skirting these noble lawns, and pacing majestically, if primly, her ample ways, a Noble Woman.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Strano. Riusciva a fare molte cose; anzi, in alcune aree era persino più bravo degli altri uomini. Si vantava di questi suoi talenti. Ma la Musa non l’aveva mai soddisfatto.
+
+Fece del suo meglio, con tutte le sue forze. Dopotutto, aveva il vantaggio di una voce profonda, ma gli sforzi fatti risultarono disastrosi. Riuscì a pronunciare con sufficiente energia le prime parole del vecchio inno scolastico: “Jolly Boating Weather, ”, poi fallì; si levò un mormorio tra la folla, “Jolly Boating w—” gridò, interrompendosi di nuovo. Ci fu un tumulto tra il pubblico. E lì, proprio accanto a lui, vide il Maestro che lo fissava con occhi minacciosi. Chiuse rapidamente gli occhi, alzò la testa, abbassò il mento, aprì la bocca come una caverna, e urlò: “Jolly—”. Ma proprio in quel momento sentì l’onda di proteste che lo investiva. Vide molte facce arrabbiate che lo attaccavano. Poi, dopo aver ricevuto alcuni colpi, vide il Maestro intervenire per proteggerlo e separarlo da coloro che lo avevano assalito. Fu una battaglia intensa, ma il soldato non vede nulla di ciò che accade durante la guerra. Tutto ciò che Charles Lexington riuscì a percepire furono i colpi che riceveva: uno gli colpì la mascella, iniziò a muovere le braccia disperatamente, e, purtroppo, anche a calciare con forza. Alla fine, percepì un momento di tregua. La vittoria era stata ottenuta dagli “Etiopi”, ma non portava benefici finanziari. E il Maestro, ovviamente, non aveva alcuna intenzione di risparmiare il suo “Uomo del Destino”.
+
+Si avvicinò a Charles Lexington con un'espressione molto minacciosa; dopo aver menzionato la somma per cui sarebbe stato disposto a colpire Charles Lexington al mento, e aver espresso la sua sorpresa per il fatto che quest'ultimo non lo avesse ancora picchiato a sangue, iniziò una lunga serie di rimproveri: il suo vocabolario era ricco, l'enfasi eccessiva, e i suoi attacchi verbali erano diretti; di tanto in tanto aggiungeva anche qualche pugno. Ognuno di questi colpi, se completato, avrebbe potuto causare gravi conseguenze. Ma le forze dell’ordine erano presenti, e il “Maestro” si accontentò delle parole.
+
+Charles Lexington si arrese alla tempesta. Non aveva altra scelta. A quel punto sapeva tutto ciò che un uomo nella sua situazione disperata avrebbe dovuto sapere. Niente avrebbe dovuto indurlo a rispondere. Ma il Fato aveva altri piani, e dal “Maestro” giunse una parola che Charles Lexington non riuscì a sopportare.
+
+È strano, ma è vero: non riesco a scrivere quella parola. Potreste pensare che, da quando è scoppiata la guerra, ogni parola della lingua inglese sia stata stampata, soprattutto nei libri scritti da signore nubili di buona famiglia. Se fossi una di loro, non esiterei a scrivere quella parola; ma la modestia del mio sesso e le regole vittoriane me lo impediscono. Tutto ciò che questa modestia mi permette di dirvi è che quella parola era proprio quella più adatta a provocare l’effetto desiderato. Charles Lexington, come se avesse ricevuto un vero colpo, dimenticò il suo passato e tornò alle abitudini di una vita intera; infine, come ultima risorsa delle classi superiori, minacciò chi lo aveva offeso chiamando la polizia.
+
+Fu allora che il pieno potenziale del genio di quel Maestro si manifestò completamente; ne scaturì un’orazione magnifica, un esempio straordinario di retorica.
+
+Non si trattava di quelle cose accademiche o retoriche tipiche di Cicerone; era qualcosa di grande, glorioso e vigoroso, reso immortale da Pitcher, e che nasceva direttamente dal cuore del popolo inglese. Quel testo conteneva intere “reggimenti” di parole, parole che le signorine non sposate di buona famiglia che scrivono libri sarebbero disposte ad ascoltare con attenzione. Si sviluppava in un’ondata gigantesca di genio, oscenità e blasfemia, rispetto alla quale i tentativi dei nostri bei romanzi sono soltanto squittii di bambole.
+
+La Polizia? Il Maestro chiamò in suo aiuto il proprio Salvatore, e poi altre figure per testimoniare che Charles Lexington lo aveva minacciato con la Polizia! Usando molte metafore, illustrò a Charles Lexington cosa gli potesse accadere se la Polizia avesse mantenuto le sue minacce. Qualche elmo che coronava alte figure spuntava qua e là sopra quella folla di appassionati di cavalli. Il Maestro chiese a Charles Lexington se sapesse cosa succedeva alle persone che venivano sorprese mentre cercavano di scappare da St. Dives; poi, con un’audacia che quasi sempre si rivela la scelta giusta tra i poveri, parlò in termini cupi delle azioni malvagie che portano coloro che le compiono a determinati esiti. Parlò dei Derby e dei luoghi malfamati.
+
+La polizia? Perché, per motivi che non devo menzionare in questa sede, avrebbe potuto chiamarli lui stesso e consegnare loro quel maledetto individuo.
+
+Il Maestro non aveva la minima idea di quanto potente fosse il trucco che aveva usato. Mentre continuava a riversare su di loro una pioggia di minacce, uno di quei elmi lontani, visibili sopra la folla degli appassionati di cavalli, iniziò ad avvicinarsi al luogo da dove proveniva tutto quel clamore. Alla vista di quell’elmo, Chailes Lexington ricordò la banconota da un pound ancora attaccata alla sua giacca, i titoli dei giornali che parlavano dell’“Uomo che poteva trasformare l’oro in realtà”, e si rese conto di essere diventato una preda. Allora, facendo appello all’unica qualità che gli rimaneva (oltre alla sua notevole competenza in chimica elettrica), decise di fuggire verso l’orizzonte.
+
+Era davvero ottimo per un uomo di poco più di trent’anni. Confermava perfettamente l’affermazione del suo vecchio preside, il dottor Ferguson, secondo cui, a lungo andare, i giovani inglesi traggono maggiori benefici dall’atletica che dagli studi accademici. Charles Lexington diede a questa teoria la possibilità di dimostrarsi. Corse come un vincitore della Coppa Waterloo.
+
+Quei giovani appassionati di cavalli, convinti che avessero a che fare con qualche traditore del loro gruppo, lo inseguirono tutti insieme. Anche il poliziotto, per quanto la sua dignità glielo permettesse, corse insieme a loro; tuttavia Charles Lexington riuscì facilmente a distanziarli tutti. La strada era liscia e agevole da percorrere. Se fosse continuata ininterrotta per un altro mezzo miglio, sarebbe riuscito a sfuggire completamente; ma a duecento metri di distanza vide qualcosa che aveva già fermato molti altri: filo spinato.
+
+Sfiorava direttamente la riva dell’acqua e si estendeva per tutta la lunghezza fino a un palo piantato nel corso stesso del Tamigi, ingrossato dalle piogge.
+
+Il volo fornì immediatamente ispirazione a Charles Lexington. Il suo secondo talento atletico si manifestò in modo evidente: girò bruscamente a destra come una lepre, entrò in acqua come un lottatore d’acqua e nuotò con grande velocità come un cane da caccia.
+
+Le sorti si invertirono di nuovo. A lei piace vedere gli uomini mettersi alla prova. Sulle rive del Tamigi, una grande folla di appassionati di cavalli urlava disperatamente: quegli appassionati, infatti, non sapevano nuotare. E nemmeno la Forza poteva aiutarli. Charles Lexington, intanto, procedeva spedito lungo le acque tumultuose del Tamigi; i suoi quattro nodi di velocità si aggiungevano ai due che già possedeva, portandolo rapidamente verso il mulino a vento.
+
+I dighe sono pericolose, ma non per Charles Lexington; lui è nato per uno scopo diverso. Il fiume era così in piena che le sue acque superavano di molto l’ostacolo. Lui lo affrontò con paura, ma senza esitazione; nella confusione delle acque sottostanti, dove nessuno dei suoi inseguitori poteva vederlo, dopo una disperata lotta contro il vortice, inciampò e cadde verso la riva opposta. Massi d’acqua marrone gocciolavano dal suo corpo mentre si tirava fuori dall’acqua; i cespugli lo nascondevano come un “dio del fiume”. La melma attraverso cui si muoveva avrebbe potuto inghiottirlo, se solo fosse stato destinato a essere inghiottito, ma in realtà lo proteggeva meglio dagli sguardi ostili delle persone a monte. Si addentrò nella fitta boscaglia; ansimando, si fece strada tra i cespugli e finalmente si sedette sulla terraferma. Si chinò sul bordo del fiume, gettò la sua parrucca arruffata nelle acque, si pulì con forza il viso dal nero che lo copriva, si tolse quei ridicoli pantaloni a strisce e quel mantello e li gettò anch’essi nella boscaglia.
+
+Si alzò indossando l’uniforme di St. Dives, rivoltata dentro fuori, che aveva utilizzato per il suo travestimento. Era irriconoscibile ormai: completamente bagnata d’acqua. Era persino più sicura da indossare rispetto all’evidente abbigliamento etiope! Così vestito, Charles Lexington sembrava davvero una fontana gocciolante.
+
+Arrivò presto alle origini di quelle cose ben curate. C'era un sentiero lastricato con ghiaia; c'erano piante sempreverdi, tutte potate con cura. Oltre si estendevano le siepi che delimitavano vaste aiuole. E a lui, Odysseo, che tutto appariva offuscato dall’acqua del Tamigi, sembrò che lungo queste nobili aiuole, camminando con maestosità e dignità, si muovesse una Nobile Donna.
 
 
 
@@ -4871,6 +7029,54 @@ The Duchess, in common with too many of her kind, had suffered from the extravag
 “First of all we must see to it,” she went on, “that you have a change of clothes and a good meal. It is long since you had a meal?” she inquired almost tenderly.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XIV
+
+“Una donna nobile, qualcosa di pianificato per qualcos’altro”, come ripeteva ossessivamente Wordsworth. Una donna nobile.
+
+Quando dico nobile, intendo davvero nobile. Niente a che vedere con la vera nobiltà; nessuna delle “gentildonne” create dalla natura. Lontano da ciò: una Parrell per nascita, pronipote della vecchia Parrell, ultima amica di Giorgio IV, e bisnipote di Sir Thomas Parrell, Lord Mayor di Londra, che aveva iniziato la sua vita come lucidatore di scarpe. Non si può desiderare una discendenza migliore di questa!
+
+Clara, Duchessa di Aberavon, apparteneva per matrimonio alla famiglia Gatton; i Gatton, cavalieri legati alla Riforma, erano riusciti a ottenere il titolo di Duca circa duecento anni fa. Oggi quel titolo è l’unico onore che lei possiede, poiché suo figlio, attuale Duca (o Re Duca, come preferisce essere chiamato), è del tutto inadatto al ruolo e privo di eredi.
+
+Clara, Duchessa di Aberavon, non era solo una donna nobile, ma anche una donna buona. Sono sicuro che questo verrà ricordato di lei. Ma ho qualcosa di ancora meglio da considerare: era davvero molto ricca. Oggi è raro trovare persone della sua classe con tali risorse. Aveva molti soldi, soldi propri, appartenenti alla famiglia Parrell. Il suo ritiro in questa eccellente abbazia di Holy Cross, dove viveva con sua figlia nubile, le si addiceva perfettamente, soprattutto considerando i suoi oltre cinquant’anni. E non disdegnava nemmeno le distrazioni più leggere offerte dalla sua elevata posizione sociale.
+
+Era indignata dalle alte tasse, provava grande compassione per i sfortunati e le piaceva ottenere lavoro a basso costo. Unite tutto ciò e capirete cosa ne è seguito.
+
+Non fu con indignazione, ma con un certo interesse, che osservò Charles Lexington avvicinarsi a lei lungo il suo ben curato sentiero di ghiaia. In quella figura c’era materiale per la pietà, e anche per l’approfittamento: era fradicio e inzuppato dall’acqua del Tamigi. Gli chiese, senza malizia, cosa stesse facendo nel suo giardino. Lui si fermò davanti a lei con estrema umiltà, inventando rapidamente una bugia necessaria.
+
+Finalmente parlò. Avrebbe voluto sputare prima, perché nella sua bocca c’era ancora troppa acqua del Tamigi, ma intuì che lei fosse la padrona di quel luogo, e che quel luogo fosse troppo ricco per permettere comportamenti volgari come sputare.
+
+Raccontò la sua storia. Non era certo un intruso volgare; offrì le sue scuse più sincere per l’intrusione. La verità, o forse una menzogna, era che aveva perso ogni speranza. Perseguitato dalla sfortuna (di cui non voleva affliggerla), aveva deciso di porre fine alla sua misera vita. Anche nell’acqua gli era venuta la grazia: si era pentito. Continuò a nuotare, anche quando le forze lo stavano abbandonando, fino a raggiungere la riva.
+
+A questo punto del racconto, Charles Lexington si fermò: non gli veniva in mente nulla di altro da aggiungere; aspettava davvero che il “Buon Angelo della sua Salvezza”, Clara, Duchessa di Aberavon, gli fornisse qualche suggerimento.
+
+Né fu lenta nel reperire quel materiale. Donne della sua classe e con la sua esperienza valutano rapidamente le loro possibilità. Ecco l’Ottima Occasione: combinare il desiderio di essere caritatevoli con la voglia di risparmiare! Una combinazione irresistibile per Clara, Duchessa di Aberavon.
+
+“Dall’accento che hai,” disse l’eccellente aristocratica, con vera gentilezza e notevole originalità, “sembri una persona istruita! È deplorevole trovarti in questa condizione, soprattutto per motivi del genere. Vieni,” aggiunse, voltandosi e facendogli segno di avvicinarsi, “ti prego, non provare vergogna. Cammina con me per un momento. Forse posso esserti d’aiuto.”
+
+Il destino non si era ancora stancato di offrire a Charles Lexington la sua benedizione.
+
+“Sì, signora,” ammise umilmente e con amarezza, tenendo ancora la testa bassa mentre la seguiva di nascosto, ben consapevole del proprio aspetto poco attraente, ma grato per il fatto che la sua situazione avesse toccato il suo cuore, “Ho conosciuto tempi migliori.”
+
+Era la prima cosa vera che avesse detto in ore e ore. Ma dopo quel breve momento di sincerità, tornò immediatamente a mentire spudoratamente.
+
+La sua storia era quella di molti! Era un ingegnere civile di professione, un giovane apprendista quando risuonò l’appello alle armi. Dopo aver servito coraggiosamente il proprio paese, scoprì, insieme a migliaia di altri, che la nazione che aveva applaudito i soldati nei momenti difficili li trascurava nel momento del trionfo. Proprio in quel momento, Charles Lexington stava per portare a casa sua moglie e i figli affamati, quando il Destino fu ancora una volta gentile con lui: impedì che quelle parole venissero pronunciate. Mogli e bambini sono “esemplari” da mostrare. E se non si riesce a presentarli, la situazione diventa seria.
+
+La conversazione si sviluppò e durò a lungo. Lei iniziò a sentirsi come se lo conoscesse bene. È sempre così quando succede. Inoltre, aveva l’accento di un uomo istruito!
+
+La Duchessa rifletté. “Non dovrebbe essere difficile,” disse, “trovarti qualche occupazione qui, mentre io intraprendo le necessarie misure per trovarti qualcosa di più stabile. Devo ammettere che anch’io ho fatto poco in merito a casi simili di ex ufficiali nel C.M.O.L.D., e insieme a mia cugina Mary Brassington nel P.M.L.N.F. Nel frattempo, prima di trovare qualcosa di più concreto per te, sicuramente potresti occuparti di una o due piccole cose qui, dove sono certa che potresti esserci di grande aiuto.” Il plurale usato era dignitoso, ma non proprio regale. Si riferiva vagamente alla Famiglia, alla corona ducale, agli edifici dell’Abbazia di Holy Cross, alle sue strutture elettriche, alle sue opere idrauliche, e a tutti i vari problemi che la scienza moderna impone ai ricchi.
+
+“Immagino che siate competenti nel maneggiare gli impianti elettrici, giusto?”
+
+Quell'uomo sfortunato poté ammettere liberamente che quella era la sua attività principale.
+
+“E potresti, spero di non stancarti troppo, occuparti della riparazione delle tubature?” Oh! Charles Lexington era davvero un esperto in materia. A volte si addentrava nei compiti più complicati; riusciva a risolvere qualsiasi problema legato alle tubature.
+
+La Duchessa, come troppi della sua stessa classe, aveva sofferto a causa degli eccessivi sforzi richiesti dal lavoro dopo il glorioso ritorno della pace. È davvero una cosa meravigliosa combinare la carità con la riduzione delle spese domestiche.
+
+“Prima di tutto dobbiamo occuparci di questo,” continuò lei, “che tu possa cambiarti e mangiare qualcosa di buono. È da molto che non mangi, vero?” chiese con quasi tenerezza.
+
 
 
 <span class="atom-split" data-atom="chapter_15--part_02" data-title="The Man Who Made Gold — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/machine"></span>
@@ -4902,6 +7108,34 @@ Among the many patents which Professor Kingley (now with God) brought forth to t
 
 In the old days taps would often leak. Many of them still do — but that is in slack and foolish households which disdain or neglect the advantages of modern science. In the mansion graced by Clara, Duchess of Aberavon, all the more important taps had been fitted with Kingley’s patent — although it cost 30s. One in especial, where a leakage might have led to grievous damage, was fitted with size No. 6, the largest size, finished in gun-metal and clamped over the King bolt (as the reader probably knows) with a special Mason catch, dependant upon a screw worked hand-tight upon an outer bevel in such a fashion that the torsion strain works against the cam shaft in reverse and engages the Thirl Pin. You follow me? I am using as few technical terms as I can.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Ieri mattina, a Basham: la moglie di un contadino mi ha dato del pane.”
+
+La Duchessa rimase scioccata. Avevano già intravisto la casa. Un ragazzo, temporaneamente impiegato dal secondo giardiniere, fu chiamato via dal suo improvviso interesse nel raschiare la terra con una zappa: si era messo a farlo per sentire le voci che si avvicinavano. Gli furono date tutte le istruzioni necessarie: sicuramente ci sarebbero stati vestiti asciutti che, più o meno, sarebbero andati bene a quella sfortunata ragazza. Avrebbe dovuto essere ben curato; gli sarebbe stato mostrato dove poter fare un bagno caldo, e non appena si fosse completamente riposato, lei ne sarebbe stata informata e lo avrebbe fatto chiamare.
+
+Charles Lexington passò da un gruppo di nemici all’altro; dall’ira incontrollata della folla inferocita a quell’odio più subdolo e malvagio di coloro che servono i ricchi. Scoprì, sotto le scale (o per essere precisi, negli uffici), che la solita gentilezza della Duchessa verso quei nuovi arrivati provenienti dalle zone selvagge non era affatto apprezzata dai suoi dipendenti. Lui era il terzo di questo genere in sei mesi: il primo era scomparso in una settimana, il secondo aveva osato approfittare indecentemente della cameriera personale e venne eliminato accusandolo di furto. E ora c’era Charles Lexington. Non era affatto popolare tra loro. Intuì che non gli mancassero certo compiti da svolgere, né domande insidiose accompagnate da insulti. Ma almeno questo gli dava il tempo necessario per riprendersi e pianificare la sua prossima mossa.
+
+Sarebbe stato rintracciato, di questo non c’era dubbio. Un uomo che si imbarca in acqua ne esce bagnato, e un uomo che indossa abiti riconoscibili può essere seguito. Ma aveva davanti a sé un certo lasso di tempo sicuro; se la sua fortuna lo avesse aiutato, senza dubbio sarebbe riuscito a sfruttarlo. La banconota da un pound era stata staccata dalla sua camicia bagnata e asciugata con cura. Non sarebbe rimasto senza risorse quando fosse arrivato il momento di affrontare nuovamente il mondo intero.
+
+Nel suo colloquio con questa sua seconda benefattrice (ricordava ancora con gratitudine la prima a Putney; quanto a Suor Frideswied, non la considerava affatto una benefattrice), le raccontò tutto, francamente e liberamente, in un vero e proprio “orgio” di menzogne. Le disse il nome della sua scuola pubblica – che non aveva mai nemmeno vista – il nome del suo vecchio preside (lì era al sicuro, visto che quell’uomo era morto), il proprio nome. Henry Romilly, il titolo di laurea in ingegneria conseguito all’Università di Liverpool, (Dio mio, cosa aveva detto? E se lei decidesse di verificare?) Raccontò anche del suo coraggioso volontariato subito dopo la laurea, delle numerose ferite riportate, e poi della lotta disperata e straziante che, come lei sapeva, si era conclusa in quel modo.
+
+Al termine di queste confidenze intime, gli mostrò dove c'era il problema con l'elettricità e lo lasciò da solo a risolverlo. Prima di separarsi, era certa che avesse tutto ciò di cui aveva bisogno. Lui le assicurò la sua gratitudine con un accento così marcato da farle pensare a uno dei suoi nipoti preferiti (ora impiegato in Canada), e questo le commosse profondamente il cuore.
+
+La seconda ondata della sua fortuna continuava a fluire; era ormai più debole, ma presto si sarebbe invertita. Però non lo aveva ancora fatto. Era in grado di risolvere il problema legato all’elettricità: capiva cosa non andasse e fece venire le cose necessarie. Lavorò con costanza per tutto il resto della giornata. Alla sera, tutte le luci nel salone funzionavano, e questo non era costato nulla a Clara.
+
+La sua benefattrice pensò che fosse troppo bello per essere vero. I suoi colleghi del ponte inferiore erano pieni di intenzioni malvagie: contro la sua competenza, contro la sua crescente popolarità, e soprattutto contro il suo atteggiamento affettato di gentilezza.
+
+La mattina seguente, di ottimo umore, la sua salvatrice, dopo che la segretaria aveva scritto esattamente la lettera giusta per il Capo del Settore “M” (quella che riguardava soltanto l’R.E. e che era severamente vietato modificare), pensò al veicolo a due ruote su cui viaggiavano.
+
+Un uomo così esperto nei misteri dell’elettricità deve sicuramente sapere tutto sui motori a avviamento automatico. Ci fu un breve scambio di parole tra il protégé della Duchessa e il capo autista, il quale non fu certo lusinghiero. Ma gli ordini sono ordini. Il capo autista inviò quindi uno dei suoi subordinati in città per far venire un uomo dal garage Veeley e intascare una commissione privata. Tuttavia, se si trattava davvero di ordini, perché proprio Charles Lexington doveva occuparsene? Si nutriva persino la sincera speranza che si rompesse le dita nel tentativo. Con l’occhio attento di uno scienziato esperto, Lexington individuò il problema: una pietra sotto il pedale che impediva il corretto contatto. Arricchendosi di esperienza con ogni nuovo caso, impiegò quasi un’ora intera per rimuovere quella pietra e avviare finalmente la macchina. Sua padrona fu estremamente felice nel constatare che funzionava ancora altrettanto bene come quando l’aveva comprata di seconda mano dal proprio figlio all’inizio dell’anno.
+
+In verità, le capacità di Charles Lexington sembravano non avere limiti. Lei temeva quasi il momento in cui quel “lavoro a basso costo” sarebbe stato classificato e inserito nei normali canali del Dipartimento “M”. Tuttavia, ci sarebbero voluti ancora due giorni prima che arrivasse la risposta alla lettera della sua segretaria, e forse anche alcune settimane prima che Lexington venisse assegnato a un incarico. Doveva sperare nel meglio. Nel peggiore dei casi, avrebbe potuto trovare per lui proprio quel tipo di lavoro che lo avrebbe costretto a rimanere al suo servizio. Ma il Destino aveva deciso ancora una volta di cambiare le cose.
+
+Tra i molti brevetti che il professor Kingley (ora con Dio) ideò, contribuendo in modo significativo al benessere di sua figlia (ora a Hollywood), c'era anche il rubinetto inventato da lui.
+
+Ai tempi passati, le rubinette spesso perdevano. Molte di esse perdono ancora oggi, ma questo accade nelle case disordinate e negligenti che disprezzano o trascurano i vantaggi della scienza moderna. Nella residenza della Duchessa Clara di Aberavon, tutte le rubinette più importanti erano dotate del brevetto di Kingley – anche se questo costava 30 scellini. In particolare, una rubinetta la cui perdita avrebbe potuto causare gravi danni era provvista della misura numero 6, la più grande disponibile; il corpo della rubinetta era realizzato in ottone e fissato sul bullone di regolazione con un meccanismo speciale progettato da un muratore, basato su una vite avvitata a mano su una superficie inclinata esterna: in questo modo la torsione agiva in modo opposto rispetto al movimento del camme, permettendo il corretto funzionamento della rubinetta. Mi seguite? Sto cercando di utilizzare il minor numero possibile di termini tecnici.
 
 
 
@@ -4947,6 +7181,46 @@ Little Anderson opened it and respectfully touched his hat to the tall lady who 
 After that little Anderson thought it his duty to report; the thing was altogether too strange. But even as he was brushing his coat with the careful minuteness of well-bred men of livery in moments where haste is essential, he heard other feet coming pounding to the gate at a heavy run. They were those of the Policeman and with him two stalwarts of the household. The hunt was up — and meanwhile the Lady Amathea’s boudoir was ruined, and the level of the great Chiltern reservoir had sunk by the eighth of an inch.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il brevetto di Kingley presenta questo difetto: non viene menzionato né nel prospectus né nemmeno nelle pubblicità, ma è qualcosa che dovreste conoscere nel caso decideste di acquistare questo dispositivo. È vero che non perde acqua, ma è anche vero che si incastra con estrema facilità, proprio come durante un inverno artico. E quando ciò accade, non è possibile ottenere acqua da esso. All’improvviso smette di funzionare, diventa “irascibile” e non vuole più girare. Ed è esattamente ciò che è successo con questo fantastico rubinetto, il rubinetto più importante di tutta la casa.
+
+Si trovava nel sottotetto, proprio sotto il tetto; quando veniva acceso, l’acqua veniva convogliata in un grande contenitore di zinco, da dove poi veniva distribuita attraverso tubi più piccoli nelle varie stanze dell’annesso. Veniva spento quando l’annesso veniva chiuso e non c’era più bisogno di utilizzare l’acqua; ma poiché Lady Amathea (per darle il nome più noto e bello dei suoi sei nomi) era appena tornata a Holy Cross dopo un lungo soggiorno all’estero, e poiché le sue stanze, piene di oggetti d’arte e simboli di virtù, si trovavano nell’annesso, era assolutamente necessario accendere il grande rubinetto Kingley.
+
+Naturalmente, si era inceppato.
+
+Quell’uomo del posto aveva fatto del suo peggio con quel prodotto. Stavano per spedirlo a Londra a grandi spese, quando Charles Lexington arrivò come una manna dal cielo. Dopo il suo successo con il “self-starter” e la vittoria contro l’illuminazione elettrica nel salone, il grande brevetto Kingley sarebbe diventato il trionfo di Charlie. Gli fu chiesto di padroneggiarlo completamente e di portarlo al successo.
+
+La stessa Duchessa lo accompagnò nel sottotetto e gli mostrò quell’oggetto ostinato. Gli spiegò che proprio lì sotto si trovava la deliziosa sala da pranzo di sua figlia; sul ballatoio esterno c’era l’armadio in cui erano conservati alcuni dei suoi vestiti, e lungo il muro passavano le tubature dell’acqua calda; per utilizzarle era necessario aprire i rubinetti. Era sicura che lui sarebbe riuscito a sistemare tutto.
+
+A Charles Lexington era stato fornito tutto ciò che aveva chiesto per svolgere il compito: un grande cacciavite, due martelli, uno scalpello, una chiave inglese, e tutti quegli strumenti semplici. Purtroppo, non sapeva che quando la chiave a leva brevettata da Kingley si trovava in questo stato, era necessario un altro brevetto di Kingley (ancora più costoso) per farla funzionare correttamente. Il vecchio Kingley aveva pensato a tutto: nessuno dei suoi brevetti poteva essere utilizzato senza altri brevetti, anzi, spesso anche un terzo.
+
+Il lettore di “Elettro-Chimica per l’Università” si trovava da solo. Guardò il proprio lavoro con esitazione, poi distolse lo sguardo per un momento verso la singola e piuttosto sporca finestra del loft. Non aveva alcuna fretta di iniziare. Attraverso quella finestra vide, a circa mezzo miglio di distanza lungo il grande sentiero di ghiaia che conduceva dalla casa principale, la figura inconfondibile di un poliziotto.
+
+I grandi capitani che cambiano la storia del mondo devono, nei momenti critici, scegliere tra due possibili percorsi. Se scelgono quello giusto, la loro fama diventa immortale. Tuttavia, i saggi sanno che questa scelta non ha nulla a che fare con l’arte della guida militare, ma tutto a che fare con il Destino.
+
+Gli restavano due opzioni disponibili mentre l’agente di polizia si avvicinava sempre di più alla porta posteriore. Aveva meno di dieci minuti per decidere quale scegliere.
+
+Un’opzione disponibile per lui era la fuga immediata – con tutti i rischi che ciò comportava. Avrebbe dovuto correre giù per le scale dei servitori, all’estremità del soppalco, da dove provenivano le risate gioiose dei domestici negli uffici vicino alla porta posteriore. Avrebbe dovuto affrontare quel pericolo in qualche modo. Era un rischio terribile. D’altro canto, forse il poliziotto non sarebbe venuto a cercarlo affatto; in tal caso, più presto avesse liberato quella straordinaria creazione di Kingley, meglio sarebbe stato. Decise quindi di liberarla.
+
+Iniziò provando ad aprire la leva di blocco. Poi continuò colpendo il bullone a vite a farfalla, prima con il piccolo martello e poi con quello grande. Tentò anche di allentare il vite Rawl, pensando che questo avrebbe rilasciato la molla a spirale nella cavità sottostante (scusate questi termini tecnici più complessi). Niente successe.
+
+Poi affrontò con coraggio la difficoltà principale: impugnò il cacciavite e strinse saldamente la vite periferica in metallo cromato (ovviamente sotto la vite di blocco). Non si muoveva. Allora tornò ad usare il martello e diede un colpo deciso al manico del cacciavite. Il rumore fu terribile, ma non ci fu alcun risultato.
+
+Mentre preparava l’strumento per un altro colpo, sentì delle voci e ascoltò, inorridito. Riconobbe subito la voce di Molly, quella di Charley, e persino i toni arroganti del maggiordomo. Ma c’era anche una voce sconosciuta: ruvida, ma chiara. Era la voce del poliziotto, che forniva dettagli che gli fecero gelare il sangue. Non c’era dubbio su quell’uomo di cui parlava. L’uomo descritto era astuto, davvero astuto! Era riuscito a uscire dall’ostello St. Dives con tutto il bottino che aveva rubato. Dio solo sapeva quanto. Poi si era unito a gruppi di musicisti neri. Erano quasi riusciti ad arrestarlo alle corse. E così via. Lexington fu sollevato nell’apprendere che avevano perso tempo inutilmente cercandolo lungo il fiume. Ma rimase sconvolto quando scoprirono la parrucca di lana. E quando vennero menzionati specificamente i vestiti e il cappotto con cui aveva tentato di esibirsi cantando, il suo cuore si spezzò. Non c’era più nulla da fare. Tranne completare la sua ultima missione: liberare quella brava donna, far scorrere le acque fresche nel contenitore di zinco, farle passare attraverso la griglia perforata e farle raggiungere i tubi dell’annesso. Portando gioia a coloro che ancora potevano godere della libertà. Mentre lui stesso veniva portato via per essere imprigionato. Alzò di nuovo il martello. E questa volta, lo strumento emise un suono ancora più violento del precedente.
+
+Funzionò, e funzionò in modo straordinario. Dal rubinetto del brevetto di Kingley non usciva affatto il flusso normale che avrebbe dovuto esserci; ne sgorgava invece un fiume impetuoso, con il fragore assordante di una valanga, portando con sé tutto il peso dell’invaso idrico dei Chiltern, situato a 200 piedi sopra di loro. Il contenitore si riempì in un istante; il pavimento divenne un lago in aumento; un ruscello iniziò a scorrere giù per lo scalone posteriore. E nella sua mente prese forma l’immagine di ciò che sicuramente stava accadendo al soffitto della stanza sottostante.
+
+I momenti di crisi tra vita e morte portano a rivelazioni; per Lexington, l’unico modo per fuggire fu scoperto: l’armadio situato al piano di sotto.
+
+Si gettò giù verso quel pianerottolo al piano di sotto; il rumore dell’enorme cascata sopra sovrastava i suoi passi. Riusciva a sentire l’acqua scorrere lungo le scale riservate ai servitori, mentre davanti a lui si apriva la discesa ben tappezzata riservata alle classi superiori della servitù.
+
+Un posto di sbarco non è certo il luogo ideale per cambiarsi i vestiti, ma Charles Lexington era diventato un esperto in questo campo. Avrebbe potuto prendere lezioni in uno di quei vecchi teatri dove attori interpretavano Napoleone Bonaparte, Cleopatra o Mr. Gladstone in soli cinque minuti. Si arrotolò i pantaloni fino al ginocchio, si tolse gli stivali, infilò le calze e poi la gonna. La mancanza di scarpe avrebbe potuto essere un problema, ma non importava. Si tolse il cappotto e indossò un corsetto. Con tutto da guadagnare e nulla da perdere, ebbe il coraggio di mettersi anche un cappello parigino. Scese di corsa le scale, uscì dalla porta laterale dell’annesso e si diresse verso il cancello della piccola dépendance situata sulla strada principale.
+
+Il piccolo Anderson la aprì e salutò rispettosamente con il cappello quella signora alta che gli sorrise con tanta gentilezza in cambio. Sembrava piuttosto a corto di fiato. Il fatto che non indossasse calzature era strano; faceva passi enormi. Ma il piccolo Anderson era abituato alle eccentricità delle donne ricche. Aveva già visto ospiti ancora più strani quando una volta, durante un grande banchetto, aiutava nei corridoi riservati al personale fuori dalla sala da pranzo. Aveva persino visto la signora Hattle indossare pantaloni color porpora. Oggi non c’è nulla che le persone ricche non siano disposte a fare. Almeno, quelle donne. Quello che lo incuriosiva era il fatto che, dopo essere entrata nelle strade principali, lei si fosse infilata di corsa nel recinto di fronte e lui potesse vederla correre disperatamente verso il bosco vicino.
+
+Dopo quell’episodio, il giovane Anderson ritenne suo dovere informare qualcuno; la situazione era davvero troppo strana. Ma proprio mentre si sistemava con cura il cappotto, con quella meticolosità tipica degli uomini ben educati in momenti in cui l’urgenza è fondamentale, sentì altri passi avvicinarsi rapidamente verso la porta. Erano quelli del poliziotto e di due robusti domestici della casa. La caccia era finita. Nel frattempo, il boudoir di Lady Amathea era stato distrutto, e il livello del grande serbatoio di Chiltern aveva diminuito di otto decimi di pollice.
+
 
 
 <span class="atom-split" data-atom="chapter_16--part_01" data-title="The Man Who Made Gold — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/machine"></span>
@@ -4988,6 +7262,44 @@ Anyhow he had been given the name of Pugginholt. He got on to that Exchange, aft
 
 “Never mind that. My name is Bowring, and my number is 8122 Berkeley. You will find me in the Directory. A Mr. Charles Lexington was ringing me up just now. Can you tell me …”
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+# CAPITOLO XV
+
+Quando Charles Lexington, vestito come una duchessa – il che in fondo non è molto diverso da qualsiasi altro abbigliamento indecente – riuscì a superare il primo recinto, al sicuro dai suoi inseguitori, rallentò un po’. Gli abiti delle donne moderne non ostacolano affatto una persona che corre veloce; anzi, sono fatti apposta per uomini snelli e mal proporzionati. Ma Charles Lexington ne aveva avuto abbastanza di correre. Ora toccava al Destino: era Lei a guidare la situazione, non lui. Gli ultimi giorni glielo avevano insegnato.
+
+Proseguì a un buon passo lungo un sentiero nel bosco, poi attraversò un altro campo seguendo un percorso secondario (senza correre); costeggiando Bolton St. Thomas arrivò a Pugginholt (un bellissimo villaggio, nome brutto). Dopo quattro miglia raggiunse la meta.
+
+I commenti dei giovani di Pugginholt lo convinsero che il suo travestimento lo aveva reso ridicolo. Poteva sopportarlo. Era senz’altro la soluzione meno peggiore. Lungo la strada, aveva staccato dalla propria giacca quel biglietto da un libbra, accuratamente asciugato; lo teneva stretto in mano. Nella sua disperata situazione, prese una decisione: avrebbe telefonato a Bowring, fissato un incontro e spiegato tutto.
+
+Era umiliante, ma necessario. Se lo avessero catturato – e alla fine lo avrebbero certamente fatto – riguardo a quella maledetta banconota da un pound rubata dal tavolo dell’ostello St. Dives, se fosse finito nelle grinfie della [[Machine|macchina]]. Che Dio lo aiutasse! Allora tutte le forze dello Stato e tutti i Banchi l’avrebbero avuto in loro potere. Era l’uomo imperdonabile, il “lebbroso”. Era L’UOMO CHE AVEVA FATTO ORO, che loro pensavano potesse ancora farne. C’era solo un altro uomo nella stessa situazione: un complice che mentiva con audacia quando lo faceva; uno che aveva diviso con lui il bottino, e quel nome era Bowring. Le tracce lo stavano inseguendo da vicino. Pensava di avere una possibilità maggiore rispetto a prima, ma anche nel migliore dei casi gli restavano soltanto quattro miglia da percorrere. Era vero: non sapevano in quale direzione fosse andato.
+
+Sì. Deve telefonare a Bowring. A quest’ora Bowring sarà nel suo negozio. Si metterà ai piedi di Bowring, gli dirà dove si trova e gli chiederà cosa fare adesso. Salvandolo, Bowring ne trarrebbe beneficio. Nessun altro, invece, ne avrebbe alcun vantaggio.
+
+Si trasformò nell’Ufficio Postale di Pugginholt: un edificio elegante, ma sovrafinanziato. La donna che vi lavorava – giovane, non sgradevole d’aspetto, ma con un’aria di superiorità – lo osservava con curiosità. Quando lui, da sotto i vestiti femminili che lo coprivano, chiese con voce profonda e bassa l’elenco telefonico di Londra, la sua orgoglio fu letteralmente spazzato via dall’orrore. Quasi le venne un infarto! Lo guardava con terrore, come un bambino potrebbe guardare una donna barbuta al mercato. fissava Charles Lexington mentre lui sfogliava l’elenco. Era tipico di lui dimenticare il numero che cercava. Gli diede la banconota da un sterlino quando comprò le cartoline telefoniche e pagò la chiamata. E osservò i suoi passi lunghi e decisi mentre si dirigeva verso la cabina telefonica.
+
+Riuscì a contattare Bowring. La loro conversazione fu breve: lui, Lexington, si trovava a Pugginholt e rischiava l’arresto immediato per un piccolo furto; era nascosto e disperatamente in cerca di denaro. Avrebbe spiegato tutto quando si sarebbero incontrati. In qualche modo, doveva essere salvato. Altrimenti, una volta nelle mani della polizia, ne sarebbero seguite conseguenze terribili. Non avrebbe dovuto recarsi subito in città per parlare con Bowring? Se sì, dove e quando si sarebbero incontrati? Qual era il suo consiglio?
+
+Finora, Charles Lexington nella cabina telefonica. All’Ufficio Postale c’era ciò che il “Swan of Avon” o i suoi produttori chiamano “rumore senza significato”.
+
+Attraverso la porta di vetro e con la coda dell’occhio, mentre la voce ferma di Bowring stava per rispondere, Charles Lexington vide i due fedeli servitori della duchessa affiancare un poliziotto dall’aspetto imponente; tutti e tre erano rivolti verso la griglia dietro cui si trovava la signora del luogo. Alla porta, voci stridule di bambini ripetevano in coro: “È lì che è entrato! L’ho visto!”
+
+Charles Lexington non esitò nemmeno un attimo; no, non si fermò nemmeno per ascoltare la voce così importante di Bowring. Uscì indifferentemente alle spalle di quei tre uomini fatali. Indifferentemente, dico, ma con estrema cautela, come un gatto. Superò il cordone di bambini che, al suo apparire, iniziarono a urlare e lo inseguirono con i loro passi affrettati. Poi, una volta uscito dall’Ufficio Postale, dove il poliziotto e i due fedeli sostenitori della Duchessa continuavano ancora ad interrogare stupidamente le persone presenti, fuggì verso un rifugio. Non perché ciò potesse essergli di qualche aiuto, ma perché quell’abitudine ormai era troppo radicata per abbandonarla. Corse lungo la strada e si infilò nell’“Aberavon Arms”. Attraversò il salotto, superò il bar vuoto ed entrò nella sala da biliardo. Senza quasi rendersene conto o curarsene, l’unica cosa che gli importava era fuggire. Ma dalla sala da biliardo non c’era via d’uscita: si trattava di un vicolo cieco, e i suoi inseguitori lo raggiunsero subito dopo. La mano del poliziotto si posò sulla sua spalla, e la voce ufficiale risuonò nelle sue orecchie: “Vi arresto, in nome del Re!”
+
+“Di chi?”
+
+“Il Re, davvero”.
+
+“Oh!” disse Charles Lexington, poi se ne andò in silenzio.
+
+Il signor Bowring, con il telefono all’orecchio a Londra, stava per impazzire. Riusciva a trattenersi a malapena, ma era davvero esasperante!
+
+È stato interrotto nel momento critico. Lexington l’ha scoperto!. Le informazioni sul mistero della mancanza di rifornimenti d’oro erano sull’orlo delle labbra di Lexington. Lexington è in pericolo di essere arrestato. E ora, cosa succederà?
+
+Comunque, gli fu dato il nome di Pugginholt. Dopo molti ritardi, si recò in quella borsa valori e chiese loro cosa intendessero con quel nome. Gli dissero di rivolgersi a Brandon Junction. Brandon Junction gli consigliò di chiedere al supervisore della sua stessa borsa valori a Londra. Il supervisore lo rimandò nuovamente a Pugginholt – che in seguito fu rinominato Burgenhalt e poi Packenham. Alla fine, quando riuscì finalmente a ottenere informazioni chiare su Pugginholt, scoprì che era ormai troppo tardi. La direttrice dell’ufficio postale fu così gentile da parlare personalmente con lui tramite la [[Machine|macchina]]. Le diede il suo nome. “Sono sicura di non conoscere né chi lei intenda, né chi sia,” disse lei.
+
+“Non importa. Il mio nome è Bowring e il mio numero è 8122 Berkeley. Potrete trovarmi nell’Elenco Telefonico. Poco fa mi ha chiamato un signor Charles Lexington. Potete dirmi, ”
 
 
 
@@ -5077,6 +7389,90 @@ Bowring made no direct answer : all he asked was :
 “Come to my house this morning at noon as I said and you’ll see.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+“Non so nulla di alcun signor ‘Chiunque’. Non è entrato nessun uomo qui oggi, da mezzogiorno in poi. C'era una donna dall'aspetto strano, se è questo che intendi.”
+
+“Non una donna… un uomo.”
+
+“Se n’è andata all’improvviso con la polizia, insieme a lei.”
+
+“Era tutto ciò che volevo sapere.”
+
+La voce di Bowring cessò di provenire dalla [[Machine|macchina]], e la sfortunata direttrice dell’ufficio postale continuò ad essere tormentata da un desiderio insoddisfatto di conoscenza. Era così forte che quasi abbandonò il suo incarico per scoprire di cosa si trattasse e cosa fosse realmente accaduto.
+
+Nel frattempo, Bowring fece sì che il suo staff si mettesse all’opera immediatamente. C'erano due cose urgenti da fare. Prima di tutto, non importava quanto il percorso potesse essere tortuoso: doveva seguirlo senza prendere scorciatoie, avanzando soltanto seguendo il suono dei cannoni. Era dalla parte di Pugginholt. Guardò l’orologio: il modo più veloce per arrivare era l’espresso da Waterloo, che sarebbe partito tra tre quarti d’ora e si sarebbe fermato prima a Brandon. Ordinò al suo caposquadra di prenotare un treno alla stazione di Brandon. Quella fu la sua prima mossa. La seconda fu questa: scrisse una breve nota al Segretario di Stato per gli Affari Interni e la inviò immediatamente tramite messaggero. La nota recitava esattamente queste parole, e nient’altro.
+
+“Se verrai a casa mia ad Hammersmith esattamente alle dodici di domani, la questione di cui mi hai parlato potrà essere risolta.”
+
+Bowring non firmò quella nota; lasciò che il titolo del documento e la sua calligrafia parlassero da soli. Non aggiunse nemmeno una parola per sottolineare alcunché. Conosceva bene i suoi politici e le loro manovre.
+
+Dopo aver inviato quel biglietto, gli rimaneva ancora mezz’ora per prendere il treno a Waterloo, e riuscì ad arrivarci senza problemi. A Brandon trovò il vagone che lo aspettava e si diresse direttamente all’“Aberavon Arms” a Pugginholt. La maggior parte degli uomini di mezza età che hanno conosciuto il Tamigi vittoriano da giovani conosce quel piccolo villaggio e la sua locanda, situati a soli mezzo miglio dal fiume.
+
+Bowring era arrivato troppo tardi quel giorno per poter fare qualcosa, ma si rese conto di aver agito saggiamente. Quella sera, in una sala da biliardo, era stata arrestata una donna, o qualcosa del genere; adesso era al sicuro sotto chiave e il giorno dopo avrebbe dovuto presentarsi davanti ai magistrati. Non c’era tempo da perdere, ma tutto poteva essere sistemato. Aveva ventiquattro ore di vantaggio rispetto a Scotland Yard. Gli bastava giocare d’audacia.
+
+“È molto semplice, mio caro Lexington,” disse Bowring sottovoce a colazione il giorno seguente all’“Aberavon Arms”. “Dovete rompere la cauzione. Tra un minuto saliremo insieme lungo la strada; ho una macchina che ci aspetta in un vialetto, e entrambi saremo a casa mia entro le undici.”
+
+“Esistono modi per organizzare queste cose. Ho spiegato alla Corte chi fossi tu.”
+
+# Un’espressione di allarme apparve negli occhi di Lexington. “Oh, mio Dio… Non l’hai fatto davvero, Bowring?”
+
+“Certo che sì,” disse Bowring, “e sono stati molto comprensivi. Gli ho raccontato tutto. Il vecchio Billy Monkton mi conosce, e anche l’altro signore, lo sceriffo, conosceva vostro padre; pensava di avervi visto una o due volte. Gli ho spiegato chiaramente la situazione: ho detto che avevate avuto un crollo nervoso. Sono stati molto sollevati. Tutti conoscono casi del genere nelle loro famiglie, e all’università li considerano normali. Hanno grande rispetto per St. Olaf’s: in quell’istituto ci sono stati più casi di follia e suicidi che in qualsiasi altro college. Ora raccontatemi la vostra storia, brevemente: abbiamo meno di dieci minuti prima che arrivino qui. Conosco bene le procedure: si svegliano a Scotland Yard verso le nove e mezza; alle 9:45 la polizia locale riceverà l’ordine di intervenire, e prima delle dieci saranno qui. Ora sono le nove, ”
+
+Charles Lexington raccontò la verità nuda e cruda: come aveva cercato di analizzare la Pietra Filosofale, quel famoso cilindro; l’esplosione; le prospettive disperate per il futuro.
+
+Bowring lo osservava tutto il tempo e gli credeva. Charles Lexington, con la sua bocca schietta, i suoi vestiti appena comprati, i suoi occhi spaventati, le sue avventure assurde, doveva sicuramente avere un buon motivo per fuggire e nascondersi. Sì, tutto era vero: Lexington non riusciva più a produrre oro.
+
+Mentre osservava quella povera vittima del Fato (che però non era poi così sfortunata, poiché il Fato aveva già in serbo un altro colpo di scena), Bowring aveva già pronto un nuovo piano. Inizialmente aveva intenzione, inviando quella nota al Ministro dell’Interno, di ammettere i poteri di Lexington nel produrre quei materiali, di ritrattare la sua negazione e di tentare Mills di intervenire all’ultimo momento. Ora, però, c’era un altro gioco da giocare, e uno ancora più pericoloso. Ma lui avrebbe provato comunque.
+
+Lexington osservò come il suo compagno accettasse rapidamente la verità. Si alzò per andarsene.
+
+“Mi rovinerebbero la reputazione a Londra?”, chiese con voce supplichevole.
+
+Bowring scosse la testa senza alcuna emozione.
+
+“Tutto si potrà sistemare,” disse. “Tutto può essere risolto quando hai in mano le carte vincenti.”
+
+“Cosa intendi per ‘avere l’ascia nel manico’?”, chiese l’altro con ansia.
+
+“Aspetta e vedrai,” disse Bowring. “Nel frattempo, vai tranquillamente verso la mia macchina lungo il sentiero. La troverai a circa mezzo miglio di distanza, di fronte a un pub chiamato ‘The Snowden Arms’. Ti raggiungerò tra dieci minuti.”
+
+Bowring accompagnò Lexington fuori dal posto, poi fece funzionare i fili elettrici.
+
+All’inizio ebbe un po’ di fortuna, perché scoprì che Hammersham stava bene, dall’altra parte del filo.
+
+“Parla Bowring… Hanno già ordinato di arrestare Lexington?”
+
+Ancora no… Abbiamo appena iniziato ad ascoltare.
+
+“Quale forma assumerà?”
+
+“Non abbiamo ancora deciso. Dovrà essere mandato in città. Invieremo qualcuno a informare i magistrati di Pugginholt che esiste un’altra accusa, più grave, e che aspetteremo ulteriori indicazioni prima di agire.”
+
+“Quando lo porterai in città?”
+
+“Ah, oggi stesso… Il nostro uomo arriverà da Scotland Yard questo pomeriggio.”
+
+“Non otterrete Lexington.”
+
+# Perché no?
+
+“È scappato.”
+
+“Come fai a saperlo?”
+
+Bowring non diede alcuna risposta diretta: tutto ciò che chiese fu…
+
+“Ha ricevuto la mia nota, Mills?”
+
+“Sì,” disse Hammersham con voce forzata, poi, dopo un lungo silenzio: “, Anch’io l’ho visto.”
+
+“Beh,” rispose Bowring, “assicurati che venga. Molto dipende da questo, e per lui è ancora più importante che per me. Capisci?”
+
+“Ah sì! Capisco perfettamente… ma cosa stai proponendo?”
+
+Vieni a casa mia questa mattina a mezzogiorno, come ho detto, e vedrai con i tuoi occhi.
+
 
 
 <span class="atom-split" data-atom="chapter_16--part_03" data-title="The Man Who Made Gold — Chapter 15 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/deception,concept/hypocrisy,concept/economics,form/satire,setting/london"></span>
@@ -5126,6 +7522,52 @@ Then it was the Home Secretary’s turn to speak at some length.
 
 “Oh, yes, of course!” said Bowring. “The only point is that the Press have got to be told to put the helm over and assure the public that there has been no gold made after all. But the legislation is all right. There’s no harm in that. Quite the contrary! Science has reached a point, I hear, where it might produce gold from, say, lead, any day. And that would be the end of all things. Oh, yes! You politicians and bankers must prevent gold being made,” the slightest ghost of a smile lurked in his eyes. “You cannot make the manufacture of gold too criminal,” he concluded.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Stai parlando dalla tua casa in questo momento?” chiese di nuovo la voce di Hammersham al telefono.
+
+“No. Parlo da Pugginholt.”
+
+“Mio Dio!”
+
+“Va tutto bene. Non lo lascerò andare. Puoi far stare zitto Mills su questo punto. Cerca solo di fargli capire che è nell’interesse di tutti se voi due venite a casa mia oggi a mezzogiorno.”
+
+“Molto bene,” disse Hammersham.
+
+E così finì quel breve scambio telefonico che paralizzò Scotland Yard e mise il Segretario di Stato in una situazione difficile; ed è proprio in questo modo che le grandi nazioni vengono governate democraticamente.
+
+Alle dieci in punto, prima ancora che il tribunale di Pugginholt aprisse i battenti, Bowring e Lexington erano già in viaggio verso la città in auto; nello stesso momento, a Londra, Honest Jack Mills e l’efficiente giovane Hammersham stavano avendo una lunga conversazione. Quella conversazione durò a lungo: vennero esaminati tutti gli aspetti della proposta di Bowring, e Hammersham fu irremovibile nel suo sostegno ad essa.
+
+“Non può fare alcun danno incontrarlo,” disse, “e forse possiamo imparare qualcosa. Se vogliamo, possiamo sempre contattare Lexington. Non c’è fretta. E se vogliamo, possiamo anche prendere in considerazione Bowring.”
+
+“Vorrei averlo messo in prigione molto tempo fa!” mormorò Mills. Si chiedeva quanto sapesse Hammersham. Aveva esitato ad arrestare Bowring per paura di ciò che quest’ultimo potesse conoscere. Se anche Hammersham ne era a conoscenza, Mills era davvero nei guai!
+
+Pertanto, Hammersham ottenne ciò che voleva e, insieme al Ministro dell’Interno, poco dopo le undici e mezza si diressero verso Hammersmith a bordo di quell’eccellente automobile che, per pura coincidenza, era stata regalata a Jack Mills da un vecchio amico, recentemente insignito di titoli nobiliari. Hammersham aveva cercato in tutti i modi di convincere il proprio superiore che fosse meglio non avere i detective intorno, ma senza successo. E già due uomini in abiti civili si aggiravano nei dintorni della casa di Bowring.
+
+Arrivarono a casa poco dopo le dodici. Trovarono nello studio di Bowring due uomini: uno dei quali, la cui fotografia veniva segretamente diffusa dal Ministero dell’Interno e dall’C.I.D., era fin troppo familiare a Hammersham. Era Lexington, seduto tranquillamente sulla sua sedia, come se nel mondo non esistessero cose come la cauzione, le banconote rubate o l’oro sintetico. L’altro era una figura strana: un ragazzo un po’ spaventato, semideprivo, vestito con abiti nuovi di zecca ma con le ginocchia delle braghe piegate; seduto dritto sulla sedia, fissava con occhi grandi e preoccupati. Era il “Senza Famiglia”.
+
+Bowring si alzò e salutò Jack Mills con cordialità, forse un po' troppo affettuosa. Jack Mills rispose in modo più rigido, ma senza offesa. Poi Bowring prese la parola. Si mise davanti al camino, assumendo quella sua solita posizione, esattamente la stessa di quando aveva ascoltato per la prima volta quella storia fantastica sulla produzione dell’oro. Parlò nel modo più conciso possibile – ma comunque ci vollero ben dieci minuti – per raccontare tutta la storia.
+
+C'era stata una grave incomprensione. Il signor Lexington, che conosceva fin dall’infanzia, aveva subito un incidente piuttosto comune nelle nostre antiche università: il prezzo da pagare per la loro immensa erudizione, per l’invidia e l’ammirazione del mondo intero. Il grande chimico aveva avuto un crollo nervoso (“come povero Woolston”, mormorò Hammersham con compassione all’orecchio di Jack Mill). In quella condizione, il suo subconscio aveva commesso azioni di cui in stato normale si sarebbe vergognato: aveva iniziato con un’illusione, convincendosi di aver trovato un modo per produrre oro; poi aveva cercato di avvalorare questa idea con scherzi infantili. Prendeva piccoli frammenti d’oro utilizzati negli esperimenti chimici, li strofinava con piombo nero e poi divertiva i suoi amici con trucchi da mago: faceva fondere quei frammenti nel crogiolo, facendoli sembrare oro vero. Aveva ripetuto questo gioco un paio di volte per stupire gli amici. Ed è allora che iniziarono a circolare quelle voci ridicole di cui i giornali erano pieni. Ma i suoi amici conoscevano la sua situazione difficile: aveva ricevuto le migliori cure specialistiche ed ora era completamente guarito. Era giusto essere sinceri al riguardo. Certo, c’era una certa umiliazione. Ma il signor Lexington, per conto del quale era stato incaricato di parlare, doveva rendere noti questi fatti alla comunità e ai suoi amici. Sperava che l’incidente fosse ormai concluso.
+
+“E Taylor?” chiese Mills in silenzio.
+
+“Stamattina, Lord Taylor ha ricevuto tutta la storia al telefono.”
+
+“È d’accordo?” chiese Mills, con la stessa calma di prima.
+
+“Non lo so,” rispose Bowring in tono piuttosto brusco, “ma se ancora non è d’accordo, lo sarà.”
+
+Poi fu il turno del Segretario dell’Interno di parlare per un po’.
+
+“Siamo solo in cinque qui presenti. Non so chi possa essere quel signore, ” (si inchinò leggermente verso la ragazza senza nome, che non rispose ma continuò a fissarlo immobile).
+
+“Potete parlare liberamente davanti a lui,” intervenne Bowring, “tra un momento avrà qualcosa di interessante da dirvi.”
+
+“Siamo solo in cinque qui,” continuò Mills. “E, comunque, ciò che devo dire non è davvero un segreto; sapete già che abbiamo emesso un Ordine del Consiglio. Sapete cosa hanno detto i media. Sarà necessaria una legge che vieti non solo la produzione di oro, ma qualsiasi esperimento in quella direzione, salvo sotto controllo pubblico. Il primo bozzo della legge è già stato preparato e la proposta verrà approvata al più presto. Le sanzioni saranno retroattive,” aggiunse, lanciando un’occhiata a Bowring.
+
+“Oh, sì, certamente!” disse Bowring. “L’unico problema è che bisogna far sapere alla stampa di intervenire immediatamente e rassicurare il pubblico sul fatto che, in realtà, non si è prodotto alcun oro. Ma la legislazione stessa non presenta alcun problema. Anzi, potrebbe essere addirittura vantaggiosa! Ho sentito dire che la scienza ha ormai raggiunto un livello tale da poter produrre oro anche a partire dal piombo, in qualsiasi momento. E quello sarebbe davvero la fine di tutto. Oh, sì! Voi politici e banchieri dovete assolutamente impedire che venga prodotto oro,” disse, con un leggero sorriso negli occhi. “Non si può rendere la produzione d’oro un atto troppo criminoso, ” concluse.
 
 
 
@@ -5193,6 +7635,68 @@ Mills cleared his throat. “I was just going to say … I can’t make part of 
 “Lots of places for the foreigners,” he went on enthusiastically. There’ll be a President, of course, and a Vice-President and a Consultation Council — German head? and something for Zbrcz, or he’d put a spoke in — he’s so cursed sly.”
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Mills interruppe bruscamente il discorso. “C’è ancora una cosa che voglio dire prima di andarmene,” esclamò, guardando alternativamente Lexington e Bowring con i suoi occhi pallidi. “Alcuni arresti sono già stati organizzati e intendo portarli a termine.”
+
+“Meglio di no,” disse Bowring, alzando lo sguardo verso il soffitto.
+
+“Vorrei che ripetessi quelle parole,” disse Mills, il viso più pallido del solito, perché la sua rabbia stava prendendo il sopravvento su di lui.
+
+Bowring ripeté la frase con buon umore: “Meglio non arresterci, Mills. Molto meglio di no!”
+
+Mills si alzò a metà dalla sedia.
+
+“Siediti,” disse Bowring in tono autoritario. Fece un gesto verso la ragazza senza fissa dimora. “Signor Crimps, le dispiacerebbe raccontare alla compagnia ciò che mi ha appena detto?”
+
+Il Vagabondo si alzò in piedi. Incrociò le mani dietro la schiena, sollevò il mento e, con un ritmo monotono e estremamente veloce, iniziò a raccontare la sua storia. Era esattamente come se un poliziotto stesse rilasciando una testimonianza sotto giuramento in tribunale. Si trattava della settima ripetizione di quella lezione, e il Vagabondo la recitò senza pause né fermate, tranne per prendere fiato.
+
+“Intorno alle 6:30 di mercoledì 25 aprile di quest’anno, entrai nel negozio del signor Bowring in Percy Street, con l’intento di nascondere lo stand in legno situato sul lato sinistro; mentre ero lì, sentii una conversazione tra il signor Bowring e un’altra persona, nella quale si proponeva che un nipote del visitatore entrasse in società con il signor Bowring per la produzione e la vendita di oro. Poiché il signor Bowring rifiutò questa proposta, il visitatore suggerì immediatamente l’emissione di un decreto del Consiglio e l’introduzione di leggi in Parlamento per approvarlo, rendendo illegali qualsiasi tentativo o esperimento non autorizzato per la produzione di tale oro. Inoltre, il signor Bowring rispose che non avrebbe accettato; allora il visitatore dichiarò due volte che il signor Bowring se ne sarebbe pentito.”
+
+“Riuscireste a riconoscere la voce di quel visitatore se la sentiste di nuovo?” chiese Bowring.
+
+“Yus,” rispose la brava ragazza… aggiungendo, del tutto inutilmente: “Dio mi aiuti!”
+
+“È la voce di qualcuno qui dentro?”
+
+“Yus,” disse la Senzatetto, con il capo ancora chino e lo sguardo perso nel vuoto, “è la voce di quel gentiluomo anziano che si trova nella poltrona a braccioli.”
+
+“Basterà così,” disse Bowring, e il Vagabondo si sedette, sudando.
+
+Al di fuori del lento rumore prodotto dai passi di quattro scarpe su due uomini in abiti civili, si poteva sentire da qualche parte, sul marciapiede deserto, un altro suono. Poi arrivò il fischio di una barca a remi sul fiume.
+
+Il viso di Jack Mills, solitamente pallido come quello di un vitello freddo, aveva assunto ora una sfumatura di zafferano. Alla fine, pronunciò queste parole con difficoltà e in modo rauco:
+
+“Proponi qualcosa, Bowring?”
+
+Bowring si alzò rapidamente in piedi, esclamando: “Sì! Meglio così! L’ho preparato tutto ore fa!” Estrasse alcuni fogli dattiloscritti dalla tasca e si riportò davanti al camino, prendendo il controllo della situazione di fronte al suo pubblico.
+
+“È tutto molto semplice. Come ho detto, potrebbero scoprire da un giorno all’altro il modo per estrarre oro in quantità significative – quindi è necessario un controllo. Ma perché tale controllo sia efficace, deve essere di natura internazionale. E questo significa Ginevra: deve esserci un ufficio a Ginevra incaricato di controllare la produzione mondiale d’oro, di rilasciare certificati di origine, licenze per le transazioni, ecc. Inoltre, deve esistere un laboratorio internazionale con il monopolio sulla ricerca e il diritto di rilasciare licenze per svolgere esperimenti. È tutto molto semplice, ed è così necessario che è praticamente certo che verrà attuato non appena ne proponiamo l’idea. Dovrà avere un nome composto da iniziali che possano essere pronunciate come una parola sola. Lo chiamerò B.I.C.O., ‘Ufficio Internazionale per il Controllo dell’Oro’. Voi” (indicando Mills) “avete già dato il via a questa iniziativa: il vostro decreto del Consiglio è stato il primo passo verso la legislazione necessaria. Vi ascolteranno immediatamente.”
+
+“Ginevra significa francese,” sospirò amaramente Mills. “Quei maledetti l’hanno rovinata.” Pensava al lavoro annuo da 2.000 sterline che quell’inverno era stato sottratto al povero ragazzo di Polly dal disgustoso e meschino Achille Guéras, il deputato per Timbuctù.
+
+“Bene, Malairain Quadrato,” disse Bowring in tono deciso, “Non è difficile. Comunque, saranno necessari molti uffici. Nel frattempo,” aggiunse guardando le sue note scritte a macchina, “ci sono alcuni incarichi ovvi. Lexington dovrà occuparsi del laboratorio: un incarico essenziale, diciamo 5.000 sterline all’anno, esentasse da tasse, con una casa privata nell’edificio, vicino al lago. Solo che dovremo permettere la presenza di almeno sei subordinati stranieri. Hammersham sarà il Segretario. Sappiamo a cosa porta questo tipo di incarico: il Canale di Suez e tutto il resto. Lo prenderai tu, Hammersham?”
+
+“Sì – ma con un importo fisso votato come riconoscimento dei servizi resi per la promozione a qualsiasi altro incarico.”
+
+“Giusto,” continuò Bowring, “si può organizzare senza problemi. Vorresti una barca a motore sul lago, Hammersham?”
+
+“Sì,” disse Hammersham.
+
+“Bowring prese nota di questo punto e proseguì…”
+
+“Poi c’è Taylor. Lui non è qui, ma lo sa. Taylor potrebbe prendere il controllo della banca. C’è sempre una banca coinvolta in queste operazioni legate alla Lega delle Nazioni. Potrebbe possedere due quinti degli interessi nella Société Anonyme, che detiene il 51% delle azioni nel Syndicat Particulier; questo Syndicat Particulier, a sua volta, possiede la maggioranza delle azioni della banca stessa. Ho tutto qui nei miei appunti. È perfettamente chiaro. Bene! E tu, Mills, che ne dici del tuo nipote?”
+
+Mills si schiarì la gola. “Stavo per dire, io stesso non posso far parte del gruppo, almeno non in modo permanente. Ma forse mio nipote potrebbe essere interessato, ”
+
+“Beh, è facile: tuo nipote potrebbe sostituire Taylor.”
+
+“E tu cosa c’entri in tutto questo, Bowring?” disse Mills.
+
+“Ah! Potreste darmi il Dipartimento di Analisi. Lo farei su commissione. E poi, sapete, anche i licenziatari probabilmente sarebbero grati; e se ogni tanto mostrassero la loro riconoscenza in modo discreto, beh, non mi dispiacerebbe affatto. È un piano grandioso e sicuramente andrà a buon fine. Accidenti, che idea geniale! Gli stipendi? Ecco a cosa serve la Lega delle Nazioni!”
+
+“Molti posti disponibili per gli stranieri,” continuò entusiasticamente. Ci sarà naturalmente un Presidente, un Vice-Presidente e un Consiglio di Consultazione. Il capo tedesco? E qualcosa anche per Zbrcz. O forse potrebbe inserirlo in qualche ruolo. È davvero troppo astuto.
+
 
 
 <span class="atom-split" data-atom="chapter_16--part_05" data-title="The Man Who Made Gold — Chapter 15 (part 5)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/money_and_gold,concept/nationalism_and_patriotism,concept/hypocrisy,concept/fame_and_publicity,concept/empire_and_imperialism,concept/power_and_corruption,form/satire"></span>
@@ -5231,3 +7735,40 @@ The Trombone began with words which jarred somewhat on our native modesty.
 Only the Empire, it said, could produce men like Sir Charles Lexington and Lord Taylor. It regretted the presence of any foreigners at all on any of the Committees, and prophesied that in all that counted the B.I.C.O. would be run from London. It was devoutly thankful that no position of trust had fallen to others than Germans and Englishmen, though it admitted the strength of the financial committee where Lord Taylor would be supported by M. de Caen from France, Herr von Kuhn from the Reich, Señor Coheño as Spanish Delegate, Signor Cuneo as Italian; and it was gratifying to note that the important interests of the Soviet Republic with its production of gold in the Urals would be unofficially but effectively represented by Commissar Kahn.
 
 Only one false note was struck, the Red Flag, while admitting the suitability of the personalities placed in charge of the B.I.C.O., and especially that of the distinguished scientist Sir Charles Lexington, regretted that the financial side of the new organ should be independent of Parliamentary control. It had not a word to say against Lord Taylor personally, but it suggested that some democratic public servant, such as Mr. Mills himself, might well have overcome his natural reluctance to leave public life and have undertaken the thankless but all-important duty. For only democratic control by a tried democrat could make the B.I.C.O. safe for democracy.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mills annuì in segno di accordo, pensieroso.
+
+“Sì! Devi sempre affrontare Zbrcz a Ginevra.”
+
+Bowring continuò: “Venite tutti alla casa di Lucullus stasera; mangeremo insieme e discuteremo dei dettagli.”
+
+“Non posso venire,” disse Hammersham. “Si noterebbe. Se fossi lì con il mio capo, sembrerebbe una cosa ufficiale.”
+
+“È vero, lascia perdere. Vi spiegheremo tutto dopo, e poi potrete andare a Ginevra e preparare l’amo il prima possibile; meglio ancora se lo fate subito.”
+
+Il gruppo storico si sciolse, per poi riconciliarsi. Quella notte, mentre il “Waif”, con il suo meritato stipendio, intratteneva i suoi amici al Murphy’s, Lord Taylor, Bowring, Lexington e Mills, nel più felice degli umori, redassero gli accordi del B.I.C.O. al Lucullus. E qualsiasi appunto il cameriere avesse preso sul polsino della sua camicia fu generosamente pagato da Hammersham il giorno seguente.
+
+Quando il B.I.C.O. fu rilasciato, sei mesi dopo che era già oggetto di conversazione tra coloro che ne erano a conoscenza da almeno quattro mesi, i commenti della nostra stampa resero onore al genio nazionale e a quel infallibile istinto politico che ci ha dato grandi statisti moderni, nonché pro-consoli come Higgs e Goole.
+
+Dico intenzionalmente “la nostra” stampa. Sul continente c'era, come al solito, una mancanza di comprensione, meschini gelosi nazionali e, purtroppo, anche un totale sciovinismo da parte dei giornali reazionari delle strade di Parigi. In Inghilterra l’opinione pubblica era altrettanto schietta e quasi unanimemente favorevole.
+
+Il Giorno, in qualche modo, costituiva la “tonalità principale” di tutto; il suo carattere semiofficiale si rifletteva nelle lodi che rivolgeva.
+
+“Come nazione,” recitava il suo primo leader, “non ci è dato vantarci, ma possiamo dire che sia più che appropriato che tale incarico, così felicemente ricoperto da Sir Charles Lexington, cada in mani di un inglese. È stato anche un evento gioioso e degno di nota il fatto che la proposta sia stata fatta dal rappresentante della Repubblica Cinese. Tutti i grandi chimici sono stati inglesi; l’intera tradizione della chimica moderna è inglese, e nessun inglese vivente può competere con Sir Charles Lexington nel campo specifico che gli è stato affidato.”
+
+Il Modern Democrat dichiarò, nel suo leader del giorno seguente, che come nazione non avevamo motivo di vantarci, ma che tutti sarebbero stati felici di vedere due nomi presenti nella nuova e grande organizzazione internazionale di Ginevra: nomi che nessun altro paese avrebbe potuto eguagliare o competere. Si trattava, ovviamente, dei nomi di Sir Charles Lexington e Lord Taylor. Era piacevole notare che la proposta di nominare Sir Charles Lexington era venuta dal rappresentante della grande Repubblica Cinese, con cui la nostra democrazia intratteneva rapporti così positivi; mentre quella di Lord Taylor era stata avanzata dal rappresentante a Ginevra dell’Impero d’Abissinia, con il sostegno del rappresentante nero della Liberia.
+
+Il “Drum”, con quel suo caratteristico stile inglese deciso e distintivo, affermava fin dalle prime righe che, come nazione, non eravamo destinati a vantarci. Nessuno poteva dubitare che il carattere inglese fosse particolarmente adatto alle delicate mansioni di quella nuova organizzazione in cui l’integrità assoluta era essenziale. Il testo evidenziava anche le qualifiche di Sir Charles Lexington.
+
+Il “Howl” parlò con voce molto simile a quella precedente. Iniziò dicendo che, come nazione, non avevamo motivo di vantarci, ma che nessuno poteva negare l’eccezionale idoneità dei due famosi inglesi di prim’ordine assegnati alla nuova organizzazione di Ginevra: uno nel campo finanziario e l’altro in quello scientifico; entrambi avrebbero avuto un ruolo fondamentale nel suo successo.
+
+Temo che i miei lettori possano stancarsi se prolungo questa lista; anche se sarebbe molto interessante mostrare quanto forte possa essere il fronte unito della stampa quotidiana inglese quando si tratta di questioni legate al benessere del paese.
+
+Il trombone iniziò a suonare parole che, in qualche modo, urtavano la nostra naturale modestia.
+
+Solo l’Impero, recitava il testo, poteva produrre uomini come Sir Charles Lexington e Lord Taylor. Si rammaricava della presenza di stranieri in qualsiasi comitato e prediceva che, per quanto riguardasse gli aspetti realmente importanti, il B.I.C.O. sarebbe stato gestito da Londra. Era profondamente grata che nessuna posizione di responsabilità fosse stata affidata a persone diverse da tedeschi ed inglesi; tuttavia riconosceva la forza del comitato finanziario, nel quale Lord Taylor avrebbe ricevuto il sostegno di M. de Caen dalla Francia, di Herr von Kuhn dal Reich, di Señor Coheño come delegato spagnolo e di Signor Cuneo come rappresentante italiano. Era inoltre gratificante notare che gli importanti interessi della Repubblica Sovietica, legati alla produzione d’oro negli Urali, sarebbero stati rappresentati, sebbene in modo non ufficiale ma efficace, dal Commissario Kahn.
+
+Fu soltanto un errore commesso: il Red Flag, pur riconoscendo la idoneità delle persone incaricate della gestione del B.I.C.O., e in particolare quella dello stimato scienziato Sir Charles Lexington, deplorò che l’aspetto finanziario di questo nuovo organo dovesse essere indipendente dal controllo parlamentare. Non ebbe nulla da obiettare personalmente contro Lord Taylor, ma suggerì che un funzionario pubblico democratico, come lo stesso signor Mills, avrebbe potuto superare la sua naturale riluttanza ad abbandonare la vita pubblica e assumersi quell’incarico ingrato ma di fondamentale importanza. Infatti, solo un controllo democratico da parte di una persona con esperienza nel campo democratico poteva garantire che il B.I.C.O. rimanesse al servizio della democrazia.

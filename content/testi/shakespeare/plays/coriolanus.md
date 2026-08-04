@@ -1548,11 +1548,15 @@ The [[Tragedy]] of [[Coriolanus]]
 | FIRST LORD | Bear from hence his [[Body\|body]],<br>And mourn you for him. Let him be regarded<br>As the most noble corpse that ever herald<br>Did follow to his urn. |
 | SECOND LORD | His own impatience<br>Takes from [[Aufidius]] a great part of blame.<br>Let’s make the best of it. |
 | [[Aufidius\|AUFIDIUS]] | My rage is gone,<br>And I am struck with sorrow. Take him up.<br>Help three o’th’ chiefest soldiers; I’ll be one.<br>Beat thou the drum, that it speak mournfully.<br>Trail your steel pikes. Though in this [[City\|city]] he<br>Hath widowed and unchilded many a one,<br>Which to this hour bewail the injury,<br>Yet he shall have a noble [[Memory\|memory]]. Assist.<br>A dead march sounded. Exeunt<br>bearing the [[Body\|body]] of Martius |
+| THE | astrologer Simon Forman saw The [[Winter]]’s Tale at the Globe on 15 May 1611. Just how much earlier the play was written is not certainly known. During the sheep-shearing feast in Act 4, twelve countrymen perform a satyrs’ [[Dance\|dance]] that three of them are said to have already ‘danced before the [[King]]’. This is not necessarily a topical reference, but satyrs danced in Ben Jonson’s [[Masque]] of [[Oberon]], performed before [[King]] James on 1 January 1611. It seems likely that this [[Dance\|dance]] was incorporated in The [[Winter]]’s Tale (just as, later, another [[Masque\|masque]] [[Dance\|dance]] seems to have been transferred to The Two Noble Kinsmen). But it occurs in a [[Self\|self]]-contained passage that may [[Well\|well]] have been added after Shakespeare wrote the play itself. The [[Winter]]’s Tale, first printed in the 1623 Folio, is usually thought to have been written after [[Cymbeline]], but stylistic evidence places it before that play, perhaps in 1609-10.<br>A mid sixteenth-century book classes ‘[[Winter\|winter]] tales’ along with ‘old wives’ tales‘; Shakespeare’s title prepared his audiences for a tale of romantic improbability, one to be wondered at rather than believed; and within the play itself characters compare its events to ‘an old tale’ (5.2.61; 5.3.118). The comparison is just: Shakespeare is dramatizing a story by his old rival Robert Greene, published as Pandosto: The Triumph of [[Time]] in or before 1588. This gave Shakespeare his plot outline, of a [[King\|king]] ([[Leontes]]) who believes his wife ([[Hermione]]) to have committed adultery with another [[King\|king]] ([[Polixenes]]), his boyhood friend, and who casts off his new-born daughter ([[Perdita]]—the lost one) in the belief that she is his friend’s bastard. In both versions the baby is brought up as a shepherdess, falls in [[Love\|love]] with her supposed father’s son ([[Florizel]] in the play), and returns to her real father’s [[Court\|court]] where she is at last recognized as his daughter. In both versions, too, the wife’s [[innocence]] is demonstrated by the pronouncement of the Delphic oracle, and her husband passes the period of his daughter’s absence in penitence; but Shakespeare alters the ending of his source story, bringing it into line with the conventions of [[Romance\|romance]]. He adopts Greene’s tripartite structure, but greatly develops it, adding for instance [[Leontes]]’ steward Antigonus and his redoubtable wife [[Paulina]], along with the comic rogue [[Autolycus]], ‘snapper-up of unconsidered trifles’.<br>The intensity of poetic [[Suffering\|suffering]] with which [[Leontes]] expresses his irrational [[Jealousy\|jealousy]] is matched by the lyrical rapture of the [[Love\|love]] episodes between [[Florizel]] and [[Perdita]]. In both verse and prose The [[Winter]]’s Tale shows Shakespeare’s verbal powers at their greatest, and his theatrical mastery is apparent in, for example, [[Hermione]]’s trial (3.1) and the daring final scene in which [[Time\|time]] brings about its triumph. |
+| THE PERSONS OF THE | PLAY<br>[[Leontes\|LEONTES]], [[King]] of Sicily<br>[[Hermione\|HERMIONE]], his wife<br>MAMILLIUS, his son<br>[[Perdita\|PERDITA]], his daughter<br>[[Paulina\|PAULINA]], Antigonus’s wife<br>[[Emilia\|EMILIA]], a lady attending on [[Hermione]]<br>A JAILER<br>A MARINER<br>Other Lords and Gentlemen, Ladies, Officers, and Servants at [[Leontes]]’s [[Court\|court]]<br>[[Polixenes\|POLIXENES]], [[King]] of Bohemia<br>[[Florizel\|FLORIZEL]], his son, in [[Love\|love]] with [[Perdita]]; known as Doricles<br>ARCHIDAMUS, a Bohemian lord<br>[[Autolycus\|AUTOLYCUS]], a rogue, once in the service of [[Florizel]] |
+| OLD SHEPHERD | CLOWN, his son |
+| SERVANT | of the Old Shepherd<br>Other Shepherds and Shepherdesses<br>Twelve countrymen disguised as satyrs<br><br>[[Time\|TIME]], as [[Chorus\|chorus]] |
 
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Coriolanus — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/shadow,motif/blood,motif/city,motif/fire,motif/grave,motif/home,motif/lion,motif/love,motif/moon,motif/nature,motif/noon,motif/time,motif/well,concept/body,concept/greatness,concept/nature,concept/revenge,concept/suffering,concept/wonder,setting/court,character/aufidius,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Coriolanus — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/shadow,motif/blood,motif/city,motif/fire,motif/grave,motif/home,motif/lion,motif/love,motif/moon,motif/nature,motif/noon,motif/time,motif/well,concept/body,concept/doubt,concept/greatness,concept/nature,concept/revenge,concept/suffering,concept/wonder,setting/court,character/aufidius,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius"></span>
 
 
 | Speaker | Line |
@@ -1667,7 +1671,24 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Sicinius\|SICINIUS]] | Besides, if things go [[Well\|well]],<br>Opinion, that so sticks on Martius, shall<br>Of his demerits rob [[Cominius]]. |
 | [[Brutus\|BRUTUS]] | Come,<br>Half all [[Cominius]]’ honours are to Martius,<br>Though Martius earned them not; and all his faults<br>To Martius shall be honours, though indeed<br>In aught he merit not. |
 | [[Sicinius\|SICINIUS]] | Let’s hence and hear<br>How the dispatch is made, and in what fashion,<br>More than his singularity, he goes<br>Upon this present action. |
-| [[Brutus\|BRUTUS]] | Let’s along. Exeunt<br> |
+| [[Brutus\|BRUTUS]] | Let’s along. Exeunt<br><br>1.2 Enter [[Aufidius]], with Senators of Corioles |
+| FIRST SENATOR | So, your opinion is, [[Aufidius]],<br>That they of Rome are entered in our counsels<br>And know how we proceed. |
+| [[Aufidius\|AUFIDIUS]] | Is it not yours?<br>What ever have been thought on in this state<br>That could be brought to bodily act ere Rome<br>Had circumvention? ’Tis not four days gone<br>Since I heard thence. These are the words. I think<br>I have the letter here—yes, here it is. |
+| *(didascalia)* | He |
+| [[Aufidius\|AUFIDIUS]] | reads the |
+| *(didascalia)* | letter |
+| [[Aufidius\|AUFIDIUS]] | ‘They have pressed a power, but it is not known<br>Whether for east or west. The dearth is great,<br>The people mutinous, and it is rumoured<br>[[Cominius]], Martius your old enemy,<br>Who is of Rome worse hated than of you,<br>And Titus Lartius, a most valiant Roman,<br>These three lead on this preparation<br>Whither ’tis bent. Most likely ‘tis for you.<br>Consider of it.’ |
+| FIRST SENATOR | Our army’s in the field.<br>We never yet made [[Doubt\|doubt]] but Rome was ready<br>To answer us. |
+| [[Aufidius\|AUFIDIUS]] | Nor did you think it folly<br>To keep your great pretences veiled till when<br>They needs must show themselves, which in the<br>hatching,<br>It seemed, appeared to Rome. By the discovery<br>We shall be shortened in our aim, which was<br>To take in many towns ere, almost, Rome<br>Should know we were afoot. |
+| SECOND SENATOR | Noble [[Aufidius]],<br>Take your commission, hie you to your bands.<br>Let us [[Alone\|alone]] to guard Corioles.<br>If they set down before’s, for the remove<br>Bring up your army, but I think you’ll find<br>They’ve not prepared for us. |
+| [[Aufidius\|AUFIDIUS]] | O, [[Doubt\|doubt]] not that.<br>I speak from certainties. Nay, more,<br>Some parcels of their power are forth already,<br>And only hitherward. I leave your honours.<br>If we and Caius Martius chance to meet,<br>’Tis sworn between us we shall ever strike<br>Till one can do no more. |
+| ALL THE SENATORS | The gods assist you! |
+| [[Aufidius\|AUFIDIUS]] | And keep your honours safe. |
+| FIRST SENATOR | Farewell. |
+| SECOND SENATOR | Farewell. |
+| ALL | Farewell. |
+| *(didascalia)* | Exeunt, [[Aufidius]] at one door, |
+| *(didascalia)* | Senators at another door |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3282,7 +3303,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Coriolanus — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/city,motif/cross,motif/death,motif/dust,motif/home,motif/nature,motif/tears,motif/time,motif/well,motif/wheel,motif/wind,concept/body,concept/fear,concept/honour,concept/nature,concept/pride,concept/truth,concept/wonder,character/cominius,character/coriolanus,character/menenius,character/volumnia"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Coriolanus — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/city,motif/cross,motif/death,motif/dust,motif/home,motif/love,motif/nature,motif/tears,motif/time,motif/well,motif/wheel,motif/wind,concept/body,concept/courage,concept/despair,concept/exile,concept/fear,concept/honour,concept/mercy,concept/nature,concept/pride,concept/truth,concept/wonder,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius,character/volumnia"></span>
 
 
 | Speaker | Line |
@@ -3339,6 +3360,77 @@ The [[Tragedy]] of [[Coriolanus]]
 | [[Menenius\|MENENIUS]] | Ay, but mildly. |
 | [[Coriolanus\|CORIOLANUS]] | [[Well]], mildly be it, then—mitd)y. |
 | *(didascalia)* | Exeunt |
+| [[Coriolanus\|CORIOLANUS]] | 3.3 Enter [[Sicinius]] and [[Brutus]] |
+| [[Brutus\|BRUTUS]] | In this point charge him [[Home\|home]]: that he affects<br>Tyrannical power. If he evade us there,<br>Enforce him with his envy to the people,<br>And that the spoil got on the Antiats<br>Was ne’er distributed. |
+| *(didascalia)* | Enter an Aedile |
+| [[Brutus\|BRUTUS]] | What, will he come? |
+| AEDILE | He’s coming. |
+| [[Brutus\|BRUTUS]] | How accompanied? |
+| AEDILE | With old [[Menenius]], and those senators<br>That always favoured him. |
+| [[Sicinius\|SICINIUS]] | Have you a catalogue<br>Of all the voices that we have procured,<br>Set down by th’ poll? |
+| AEDILE | I have, ’tis ready. |
+| [[Sicinius\|SICINIUS]] | Have you collected them by tribes? |
+| AEDILE | I have. |
+| [[Sicinius\|SICINIUS]] | Assemble presently the people hither,<br>And when they hear me say ‘It shall be so<br>I’th’ right and strength o‘th’ commons’, be it either<br>For [[Death\|death]], for fine, or banishment, then let them,<br>If I say ‘Fine’, cry ‘Fine!’, if ‘[[Death]]’, cry ‘[[Death]]!’,<br>Insisting on the old prerogative<br>And power i‘th’ [[Truth\|truth]] o’th’ cause. |
+| AEDILE | I shall inform them. |
+| [[Brutus\|BRUTUS]] | And when such [[Time\|time]] they have begun to cry,<br>Let them not cease, but with a din confused<br>Enforce the present execution<br>Of what we chance to sentence. |
+| AEDILE | Very [[Well\|well]]. |
+| [[Sicinius\|SICINIUS]] | Make them be strong, and ready for this hint<br>When we shall hap to give’t them. |
+| *(didascalia)* | [[Brutus\|BRUTUS]] to the Aedile Go about it. |
+| *(didascalia)* | Exit Aedile |
+| [[Sicinius\|SICINIUS]] | Put him to choler straight. He hath been used<br>Ever to conquer and to have his worth<br>Of contradiction. Being once chafed, he cannot<br>Be reined again to temperance. Then he speaks<br>What’s in his heart, and that is there which looks<br>With us to break his neck. |
+| *(didascalia)* | Enter [[Coriolanus]], [[Menenius]], and [[Cominius]], with other Senators and Patricians |
+| [[Sicinius\|SICINIUS]] | [[Well]], here he comes. |
+| [[Menenius\|MENENIUS]] | (to [[Coriolanus]]) Calmly, I do beseech you. |
+| [[Coriolanus\|CORIOLANUS]] | Ay, as an hostler that for th’ poorest piece<br>Will bear the knave by th’ volume.—Th‘honoured<br>gods<br>Keep Rome in safety and the chairs of justice<br>Supplied with worthy men, plant [[Love\|love]] among’s,<br>Throng our large temples with the shows of peace,<br>And not our streets with war! |
+| FIRST SENATOR | Amen, amen. |
+| [[Menenius\|MENENIUS]] | A noble wish. |
+| *(didascalia)* | Enter the Aedile with the Citizens |
+| [[Sicinius\|SICINIUS]] | Draw near, ye people. |
+| AEDILE | List to your tribunes. Audience!<br>Peace, I say. |
+| [[Coriolanus\|CORIOLANUS]] | First, hear me speak. |
+| [[Sicinius\|SICINIUS]] | and [[Brutus\|BRUTUS]] [[Well]], say.—Peace ho! |
+| [[Coriolanus\|CORIOLANUS]] | Shall I be charged no further than this present?<br>Must all determine here? |
+| [[Sicinius\|SICINIUS]] | I do demand<br>If you submit you to the people’s voices,<br>Allow their officers, and are content<br>To suffer lawful censure for such faults<br>As shall be proved upon you. |
+| [[Coriolanus\|CORIOLANUS]] | I am content. |
+| [[Menenius\|MENENIUS]] | Lo, citizens, he says he is content.<br>The warlike service he has done, consider. Think<br>Upon the wounds his [[Body\|body]] bears, which show<br>Like graves i’th’ holy churchyard. |
+| [[Coriolanus\|CORIOLANUS]] | Scratches with briers,<br>Scars to move laughter only. |
+| [[Menenius\|MENENIUS]] | Consider further<br>That when he speaks not like a citizen,<br>You find him like a soldier. Do not take<br>His rougher accents for malicious sounds,<br>But, as I say, such as become a soldier<br>Rather than envy you. |
+| [[Cominius\|COMINIUS]] | [[Well]], [[Well\|well]], no more. |
+| [[Coriolanus\|CORIOLANUS]] | What is the matter<br>That, being passed for consul with full voice,<br>I am so dishonoured that the very hour<br>You take it off again? |
+| SICINUS | Answer to us. |
+| [[Coriolanus\|CORIOLANUS]] | Say, then. ’Tis true I ought so. |
+| [[Sicinius\|SICINIUS]] | We charge you that you have contrived to take<br>From Rome all seasoned office, and to [[Wind\|wind]]<br>Yourself into a power tyrannical,<br>For which you are a traitor to the people. |
+| [[Coriolanus\|CORIOLANUS]] | How, traitor? |
+| [[Menenius\|MENENIUS]] | Nay, temperatety—your promise. |
+| [[Coriolanus\|CORIOLANUS]] | The fires i‘th’ lowest hell fold in the people!<br>Call me their traitor, thou injurious tribune? |
+| *(didascalia)* | Within thine eyes sat twenty thousand deaths, |
+| [[Coriolanus\|CORIOLANUS]] | In thy hands clutched as many millions, in<br>Thy lying tongue both numbers, I would say<br>‘Thou liest’ unto thee with a voice as free<br>As I do pray the gods. |
+| [[Sicinius\|SICINIUS]] | Mark you this, people? |
+| *(didascalia)* | ALL THE CITIZENS  To th’ rock, to th’ rock with him! |
+| [[Sicinius\|SICINIUS]] | Peace!<br>We need not put new matter to his charge.<br>What you have seen him do and heard him speak,<br>Beating your officers, cursing yourselves,<br>Opposing laws with strokes, and here defying<br>Those whose great power must try him—<br>Even this, so criminal and in such capital kind,<br>Deserves th’extremest [[Death\|death]]. |
+| [[Brutus\|BRUTUS]] | But since he hath<br>Served [[Well\|well]] for Rome— |
+| [[Coriolanus\|CORIOLANUS]] | What do you prate of service? |
+| [[Brutus\|BRUTUS]] | I talk of that that know it. |
+| [[Coriolanus\|CORIOLANUS]] | You? |
+| [[Menenius\|MENENIUS]] | Is this the promise that you made your mother? |
+| [[Cominius\|COMINIUS]] | Know, I pray you— |
+| [[Coriolanus\|CORIOLANUS]] | I’ll know no further.<br>Let them pronounce the steep Tarpeian [[Death\|death]],<br>Vagabond [[Exile\|exile]], flaying, pent to linger<br>But with a grain a day, I would not buy<br>Their [[Mercy\|mercy]] at the price of one fair word,<br>Nor check my [[Courage\|courage]] for what they can give<br>To have’t with saying ‘Good morrow’. |
+| [[Sicinius\|SICINIUS]] | For that he has,<br>As much as in him lies, from [[Time\|time]] to [[Time\|time]]<br>Inveighed against the people, seeking means<br>To pluck away their power, as now at last<br>Given hostile strokes, and that not in the presence<br>Of dreaded justice, but on the ministers<br>That doth distribute it, in the name o‘th’ people,<br>And in the power of us the tribunes, we<br>E’en from this instant banish him our [[City\|city]]<br>In peril of precipitation<br>From off the rock Tarpeian, never more<br>To enter our Rome gates. I’th’ people’s name<br>I say it shall be so. |
+| *(didascalia)* | ALL THE CITIZENS It shall be so, |
+| [[Sicinius\|SICINIUS]] | It shall be so. Let him away. He’s banished,<br>And it shall be so. |
+| [[Cominius\|COMINIUS]] | Hear me, my masters and my common friends. |
+| [[Sicinius\|SICINIUS]] | He’s sentenced. No more hearing. |
+| [[Cominius\|COMINIUS]] | Let me speak.<br>I have been consul, and can show for Rome<br>Her enemies’ marks upon me. I do [[Love\|love]]<br>My country’s good with a respect more tender,<br>More holy and profound, than mine own life,<br>My dear wife’s estimate, her womb’s increase,<br>And treasure of my loins. Then if I would<br>Speak that— |
+| [[Sicinius\|SICINIUS]] | We know your drift. Speak what? |
+| [[Brutus\|BRUTUS]] | There’s no more to be said, but he is banished,<br>As enemy to the people and his country.<br>It shall be so. |
+| *(didascalia)* | ALL THE CITIZENS It shall be so, it shall be so. |
+| [[Coriolanus\|CORIOLANUS]] | You common cry of curs, whose breath I hate<br>As reek o’th’ rotten fens, whose loves I prize<br>As the dead carcasses of unburied men<br>That do corrupt my air: I banish you.<br>And here remain with your uncertainty.<br>Let every feeble rumour shake your hearts;<br>Your enemies, with nodding of their plumes,<br>Fan you into [[Despair\|despair]]! Have the power still<br>To banish your defenders, till at length<br>Your ignorance—which finds not till it feels—<br>Making but reservation of yourselves,<br>Still your own foes, deliver you<br>As most abated captives to some nation<br>That won you without blows! Despising<br>For you the [[City\|city]], thus I turn my back.<br>There is a world elsewhere. |
+| *(didascalia)* | Exeunt [[Coriolanus]], [[Cominius]], and [[Menenius]], with the rest of the Patricians. The Citizens all shout, and throw up their caps |
+| AEDILE | The people’s enemy is gone, is gone. |
+| ALL THE CITIZENS | Our enemy is banished, he is gone. Hoo-oo! |
+| [[Sicinius\|SICINIUS]] | Go see him out at gates, and follow him<br>As he hath followed you, with all despite.<br>Give him deserved vexation. Let a guard<br>Attend us through the [[City\|city]]. |
+| ALL THE CITIZENS | Come, come, let’s see him out at gates. Come.<br>The gods preserve our noble tribunes! Come. Exeunt |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4484,7 +4576,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Coriolanus — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/city,motif/dance,motif/death,motif/fire,motif/home,motif/horse,motif/time,motif/well,concept/doubt,concept/eternity,concept/hope,concept/mercy,character/coriolanus,character/menenius,character/sicinius,character/volumnia"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Coriolanus — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/city,motif/dance,motif/death,motif/fire,motif/flowers,motif/home,motif/horse,motif/time,motif/well,concept/doubt,concept/eternity,concept/hope,concept/mercy,character/coriolanus,character/menenius,character/sicinius,character/virgilia,character/volumnia"></span>
 
 
 | Speaker | Line |
@@ -4519,6 +4611,10 @@ The [[Tragedy]] of [[Coriolanus]]
 | SECOND MESSENGER | Almost at point to enter. |
 | [[Sicinius\|SICINIUS]] | We’ll meet them, and help the joy. |
 | *(didascalia)* | Exeunt |
+| *(didascalia)* | 5.5 Enter at one door Lords and Citizens, at another door two Senators with the ladies [[Volumnia]], [[Virgilia]], and Valeria, passing over the stage |
+| [[Sicinius\|SICINIUS]] | A SENATOR<br>Behold our patroness, the life of Rome!<br>Call all your tribes together, praise the gods,<br>And make triumphant fires. Strew [[Flowers\|flowers]] before them.<br>Unshout the noise that banished Martius,<br>Repeal him with the welcome of his mother.<br>Cry ‘Welcome, ladies, welcome!’ |
+| ALL | Welcome, ladies, welcome! |
+| *(didascalia)* | A flourish with drums and trumpets. Exeunt |
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4580,7 +4676,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="Coriolanus — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/villain,motif/blood,motif/city,motif/grave,motif/home,motif/love,motif/memory,motif/nature,motif/tears,motif/time,concept/body,concept/charity,concept/honour,concept/nature,concept/pride,concept/truth,character/aufidius,character/coriolanus,character/nurse"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="Coriolanus — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/blood,motif/city,motif/dance,motif/grave,motif/home,motif/love,motif/memory,motif/nature,motif/tears,motif/time,motif/well,motif/winter,concept/body,concept/charity,concept/honour,concept/jealousy,concept/nature,concept/pride,concept/self,concept/suffering,concept/truth,form/masque,setting/court,character/aufidius,character/autolycus,character/chorus,character/coriolanus,character/cymbeline,character/emilia,character/florizel,character/hermione,character/leontes,character/nurse,character/oberon,character/paulina,character/perdita,character/polixenes"></span>
 
 
 | Speaker | Line |
@@ -4647,6 +4743,10 @@ The [[Tragedy]] of [[Coriolanus]]
 | FIRST LORD | Bear from hence his [[Body\|body]],<br>And mourn you for him. Let him be regarded<br>As the most noble corpse that ever herald<br>Did follow to his urn. |
 | SECOND LORD | His own impatience<br>Takes from [[Aufidius]] a great part of blame.<br>Let’s make the best of it. |
 | [[Aufidius\|AUFIDIUS]] | My rage is gone,<br>And I am struck with sorrow. Take him up.<br>Help three o’th’ chiefest soldiers; I’ll be one.<br>Beat thou the drum, that it speak mournfully.<br>Trail your steel pikes. Though in this [[City\|city]] he<br>Hath widowed and unchilded many a one,<br>Which to this hour bewail the injury,<br>Yet he shall have a noble [[Memory\|memory]]. Assist.<br>A dead march sounded. Exeunt<br>bearing the [[Body\|body]] of Martius |
+| THE | astrologer Simon Forman saw The [[Winter]]’s Tale at the Globe on 15 May 1611. Just how much earlier the play was written is not certainly known. During the sheep-shearing feast in Act 4, twelve countrymen perform a satyrs’ [[Dance\|dance]] that three of them are said to have already ‘danced before the [[King]]’. This is not necessarily a topical reference, but satyrs danced in Ben Jonson’s [[Masque]] of [[Oberon]], performed before [[King]] James on 1 January 1611. It seems likely that this [[Dance\|dance]] was incorporated in The [[Winter]]’s Tale (just as, later, another [[Masque\|masque]] [[Dance\|dance]] seems to have been transferred to The Two Noble Kinsmen). But it occurs in a [[Self\|self]]-contained passage that may [[Well\|well]] have been added after Shakespeare wrote the play itself. The [[Winter]]’s Tale, first printed in the 1623 Folio, is usually thought to have been written after [[Cymbeline]], but stylistic evidence places it before that play, perhaps in 1609-10.<br>A mid sixteenth-century book classes ‘[[Winter\|winter]] tales’ along with ‘old wives’ tales‘; Shakespeare’s title prepared his audiences for a tale of romantic improbability, one to be wondered at rather than believed; and within the play itself characters compare its events to ‘an old tale’ (5.2.61; 5.3.118). The comparison is just: Shakespeare is dramatizing a story by his old rival Robert Greene, published as Pandosto: The Triumph of [[Time]] in or before 1588. This gave Shakespeare his plot outline, of a [[King\|king]] ([[Leontes]]) who believes his wife ([[Hermione]]) to have committed adultery with another [[King\|king]] ([[Polixenes]]), his boyhood friend, and who casts off his new-born daughter ([[Perdita]]—the lost one) in the belief that she is his friend’s bastard. In both versions the baby is brought up as a shepherdess, falls in [[Love\|love]] with her supposed father’s son ([[Florizel]] in the play), and returns to her real father’s [[Court\|court]] where she is at last recognized as his daughter. In both versions, too, the wife’s [[innocence]] is demonstrated by the pronouncement of the Delphic oracle, and her husband passes the period of his daughter’s absence in penitence; but Shakespeare alters the ending of his source story, bringing it into line with the conventions of [[Romance\|romance]]. He adopts Greene’s tripartite structure, but greatly develops it, adding for instance [[Leontes]]’ steward Antigonus and his redoubtable wife [[Paulina]], along with the comic rogue [[Autolycus]], ‘snapper-up of unconsidered trifles’.<br>The intensity of poetic [[Suffering\|suffering]] with which [[Leontes]] expresses his irrational [[Jealousy\|jealousy]] is matched by the lyrical rapture of the [[Love\|love]] episodes between [[Florizel]] and [[Perdita]]. In both verse and prose The [[Winter]]’s Tale shows Shakespeare’s verbal powers at their greatest, and his theatrical mastery is apparent in, for example, [[Hermione]]’s trial (3.1) and the daring final scene in which [[Time\|time]] brings about its triumph. |
+| THE PERSONS OF THE | PLAY<br>[[Leontes\|LEONTES]], [[King]] of Sicily<br>[[Hermione\|HERMIONE]], his wife<br>MAMILLIUS, his son<br>[[Perdita\|PERDITA]], his daughter<br>[[Paulina\|PAULINA]], Antigonus’s wife<br>[[Emilia\|EMILIA]], a lady attending on [[Hermione]]<br>A JAILER<br>A MARINER<br>Other Lords and Gentlemen, Ladies, Officers, and Servants at [[Leontes]]’s [[Court\|court]]<br>[[Polixenes\|POLIXENES]], [[King]] of Bohemia<br>[[Florizel\|FLORIZEL]], his son, in [[Love\|love]] with [[Perdita]]; known as Doricles<br>ARCHIDAMUS, a Bohemian lord<br>[[Autolycus\|AUTOLYCUS]], a rogue, once in the service of [[Florizel]] |
+| OLD SHEPHERD | CLOWN, his son |
+| SERVANT | of the Old Shepherd<br>Other Shepherds and Shepherdesses<br>Twelve countrymen disguised as satyrs<br><br>[[Time\|TIME]], as [[Chorus\|chorus]] |
 
 
 <span class="qlang-split" data-lang="it"></span>

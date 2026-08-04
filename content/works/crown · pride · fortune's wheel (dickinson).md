@@ -35,8 +35,3 @@ tags:
   - character/christ
 ---
 
-
-## Testo / Text
-
-- [To Mrs. Henry Hills, January, 1883](/testi/dickinson/atomized/crown-pride-fortunes-wheel#l0461_mrs_henry_hills_january_1883)
-

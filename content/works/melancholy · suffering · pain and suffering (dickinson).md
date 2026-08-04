@@ -35,8 +35,3 @@ tags:
   - concept/spiritual_emptiness
 ---
 
-
-## Testo / Text
-
-- [To the Rev. F. F. Emerson](/testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#l0473_the_rev_f_f_emerson)
-

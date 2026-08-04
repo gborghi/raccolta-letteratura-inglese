@@ -216,6 +216,11 @@ async function markDropboxIgnored(dir) {
     if (process.platform === "win32") {
       await fs.writeFile(`${dir}:com.dropbox.ignored`, "1")
     } else if (process.platform === "darwin") {
+      // BOTH flags, as sync-and-build.sh already does: the current File Provider engine
+      // under ~/Library/CloudStorage/Dropbox honors only com.apple.fileprovider.ignore#P,
+      // the old sync engine only com.dropbox.ignored. Stamping the legacy one alone left
+      // content/ syncing and Dropbox laid 1554 "Copia in conflitto" files into it.
+      execSync("xattr -w 'com.apple.fileprovider.ignore#P' 1 " + JSON.stringify(dir), { stdio: "ignore" })
       execSync("xattr -w com.dropbox.ignored 1 " + JSON.stringify(dir), { stdio: "ignore" })
     }
   } catch {}

@@ -7604,12 +7604,12 @@ tutti non imparino il modo giusto di mangiare l'[[asparagus|asparago]].
 E così, dal lusso e dallo spreco e dalla stanchezza, la febbre che
 chiamano Progresso venne al mondo.
 
-Mi venite a dire che ormai non mangiano più gli [[asparagus|asparagi]] con le dita?
-Non so forse che in certe fra le case migliori tengono, per ciascun
-commensale, delle graziose pincette?  Non ho forse sentito
-che ormai l'[[asparagus|asparago]] lo si cala nella bocca aperta con uno spago,
-o lo si spara in bocca con un piccolo fucile, o lo si mangia con le dita dei piedi, oppure non
-lo si mangia affatto?  No; non lo so: è proprio questo che voglio far notare.
+Mi dite che ora non mangiano l'[[asparagus|asparago]] con le dita?
+Non so forse che in alcune delle case migliori hanno delle piccole
+pinze per ciascuno, che sono deliziose?  Non ho forse sentito
+che l'[[asparagus|asparago]] ora viene calato nella bocca aperta con uno spago,
+o sparato in bocca con un piccolo fucile, o mangiato con le dita dei piedi, o non
+mangiato affatto?  No; non lo so, ed è questo che desidero far notare.
 Hanno cambiato la parola d'ordine.
 
 
@@ -17143,16 +17143,16 @@ La religione sta tornando dal suo [[Exile|esilio]]; è più probabile che il fut
 sarà follemente e corrottamente superstizioso piuttosto che
 meramente razionalista.
 
-D'altra parte, i nostri tentativi di raddrizzare lo squilibrio estremo
-della ricchezza dovranno pur avere presto qualche esito; qualcosa si farà
-per alleviare la tortura perpetua di una compassione incompetente;
-a questa nostra anarchia malevola si sostituirà un qualche disegno,
-foss'anche soltanto quello di una servitù benevola. E man mano che queste due
-inquietudini particolari, quella intorno all'universo e quella intorno allo Stato,
-si acquieteranno in un ordine più silenzioso e più durevole, emergeranno sempre più
-quelle verità primarie e arcaiche che la [[Dust|polvere]] di questi due conflitti aveva velato.
-Risolte in via relativa le questioni secondarie, ci ritroveremo
-tanto più alla presenza delle questioni primarie dell'Uomo.
+D'altro canto, i nostri tentativi di raddrizzare l'estremo squilibrio
+della ricchezza dovranno presto avere qualche esito; qualcosa si farà
+per diminuire il perpetuo tormento dell'incompetente compassione;
+qualche schema sarà sostituito alla nostra malevola anarchia,
+non fosse che uno di benevola servitù.  E quando queste due particolari
+inquietudini circa l'universo e lo Stato si placheranno in un sistema più silenzioso
+e duraturo, emergeranno sempre più quelle verità primarie
+e arcaiche che la [[Dust|polvere]] di questi due conflitti ha velato.
+Risolte relativamente le questioni secondarie, ci troveremo
+tanto più in presenza delle questioni primarie dell'Uomo.
 
 Poiché al presente tendiamo tutti a un errore; tendiamo a fare la politica
 troppo importante.  Tendiamo a dimenticare quanto grande parte della vita di un uomo

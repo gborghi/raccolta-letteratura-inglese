@@ -375,6 +375,22 @@ The object of all this kind of work in every age where it has flourished (and su
 It is not universal, because the written characters and the language which they express cannot be universal. They may be lost, or they may become provincial and neglected. It is jejune because full experience is not to be crowded into even an excess of words. You will find in Normandy (not a day’s walk from Bayeux, by the way) a very long inscription to a local personage of the third century. It is in Latin — that is, in the most universal of literary mediums — and yet it has served principally for the quarrels of archæologists. There is no prime term in any early inscription that will not serve for such a quarrel, simply because language is an imperfect symbol. You are pleased to understand to-day the inscription upon a bronze tablet let into the wall of a public building and thus inscribed:
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# Introduzione
+
+A BAYEUX, in Normandia, una piccola città forse altrettanto antica della nostra razza e certamente più antica dei nostri documenti e della nostra religione, nella sala principale di ciò che un tempo era il Palazzo Vescovile si trova un documento unico in Europa. Non credo esista alcun altro esempio di testimonianza, contemporanea o quasi contemporanea, riguardante un evento così remoto nella storia del Cristianesimo, descritto con tale dettaglio su una scala così ampia e relativo a una questione di tale importanza. Sono proprio questi tre elementi combinati che conferiscono al Tappeto di Bayeux il suo valore. Infatti, abbiamo rappresentazioni pittoriche più accurate e dettagliate in alcuni casi, ma relative ai periodi in cui la civiltà materiale era fiorente – prima dell’Età Media. Disponiamo anche di un’ampia quantità di prove pittoriche e scritte riguardanti la vivace vita del Medioevo precedente, e naturalmente di una vasta mole di informazioni su tutto ciò che ha accompagnato o seguito il Rinascimento. Anche per quanto riguarda l’Età Media e quella violenta ma significativa transizione dall’Età Oscura alla civiltà medievale, possediamo qua e là immagini nitide – per lo più dipinti e non disegni a matita. Tuttavia, queste immagini riguardano quasi sempre episodi che non furono i momenti più importanti del loro tempo. Il Tappeto di Bayeux si distingue invece in questo: rappresenta con tale fedeltà e completezza uno degli eventi fondamentali per la rinascita dell’Europa, un evento che, seguendo l’analogia di altri avvenimenti di quel periodo, ci saremmo aspettati di trovare soltanto in brevi e dubbi resoconti letterari. È l’unica rappresentazione di rilievo che ci mostra gli eventi legati a quell’epoca cruciale delle Crociate. Per il Cristianesimo occidentale, infatti, si trattò di un momento decisivo: l’epoca in cui l’umanità si risvegliò dal suo letargo e fiorì nell’Età Media grazie a tre grandi sforzi: le conquiste normanne, la riforma della Chiesa sotto San Gregorio VII e le Crociate. Tutti questi furono il risultato di una sorta di “rinascita” che colpì i nostri antenati più di ottocento anni fa, ripristinando in forma rinnovata la civiltà occidentale. Del quel periodo, il Tappeto di Bayeux rappresenta l’unica testimonianza visiva sopravvissuta.
+
+Purtroppo, a questa affermazione (che sarebbe definitiva se potessimo essere certi delle date) va aggiunto un avvertimento importante: la data di composizione dell’opera non è certa. Tra poco esporrò i ragionamenti addotti per fissarla in questo o in quel periodo specifico. Possiamo essere felicemente certi, al di là di ogni dubbio ragionevole, che l’opera sia stata prodotta durante la vita di persone che ricordavano gli Invasori d’Inghilterra; non è certo successa dopo quel periodo. Si è persino ipotizzato che fosse contemporanea all’invasione stessa e che fosse stata scritta sotto la direzione di coloro che vi avevano partecipato. Tuttavia, anche se si tratta praticamente di un documento contemporaneo, pur accettando il limite più basso tra quelli ipotizzati, purtroppo non disponiamo di prove definitive riguardo all’anno o agli anni in cui l’opera fu completata. Questo è l’unico aspetto che offusca la nostra soddisfazione per la sua esistenza. È interessante notare come la storia inglese sia particolarmente fortunata per la ricchezza di testimonianze antiche a sua disposizione: nessuna altra nazione dispone di un simile patrimonio di documenti storici. Nessuna altra nazione possiede testi come la Cronaca anglosassone o il Doomsday Survey, e, grazie a circostanze legate sia alla storia civile che a quella religiosa, nessun’altra nazione ha conservato, attraverso le rivoluzioni di mille anni, così tante testimonianze materiali intatte.
+
+Quando un uomo vede per la prima volta il Tappeto di Bayeux, l’impressione immediata e più vivida che prova è quella che talvolta – ma raramente – si ha di fronte a qualche reliquia architettonica perfetta: l’impressione di una vitalità straordinaria, come se il tempo fosse stato “ingrandito” a vantaggio nostro. Dico che questa impressione è rara, ma quando finalmente la proviamo, è intensissima. La si percepisce nel “marmo immortale e intatto” di un busto ritrattistico del Mediterraneo; nei colori vivaci delle iscrizioni funerarie di Costantino; nelle lastre di pietra e nelle colonne del Foro di Timgad. È estremamente difficile trasmettere a parole lo shock che l’occhio riceve quando sembra che secoli interi svaniscano all’improvviso e le azioni degli uomini vengano portate dal passato remoto al presente, proprio come un oggetto viene avvicinato al primo piano attraverso l’effetto di una lente. Posso paragonarlo allo shock che la mente prova nel riconoscere, dopo molti anni, una voce familiare che si credeva ormai dimenticata; o a quella sensazione simile che colpisce tutto il nostro essere quando annusiamo un odore legato a momenti della nostra giovinezza. Dico davvero che è molto raro che un monumento sopravvissuto al passato remoto susciti un tale effetto. La maggior parte degli oggetti antichi porta con sé evidenti segni di decadenza. Ma ogni tanto (mi viene in mente il Vangelo di San Caddo a Lichfield mentre scrivo) si incontra qualcosa che conserva ancora freschezza e, per così dire, una sorta di “compagnia” proveniente da esseri morti da molto tempo, al punto che lo stesso stile della loro vita è ormai scomparso. Tutto questo si prova la prima volta che si vede il Tappeto di Bayeux.
+
+È necessario comprendere chiaramente, innanzitutto, con quale convenzione e a quale scopo coloro che realizzarono questo ricamo abbiano operato.
+
+L’obiettivo di questo tipo di attività in ogni epoca in cui ha fiorito (e tali epoche coprono quasi l’intera storia umana) è quello di creare dei documenti. Il motivo che ne sta alla base è “affinché le imprese di quegli uomini grandi, i nostri antenati, non vadano perdute”. Ora, esistono centinaia di modi per soddisfare questo scopo, in misura maggiore o minore. Il primo che ci viene in mente oggi è naturalmente l’iscrizione. Tuttavia, l’iscrizione presenta due difetti: innanzitutto, non è universale; in secondo luogo, risulta spesso superficiale.
+
+Non è universale, perché i caratteri scritti e la lingua che essi esprimono non possono essere universali. Possono andare perduti, o diventare limitati a contesti regionali e trascurati. È anche povero di contenuto, perché un’esperienza completa non può essere racchiusa in un eccesso di parole. Troverete in Normandia (non lontano da Bayeux, tra l’altro) una lunga iscrizione dedicata a una figura locale del III secolo; è scritta in latino, cioè nel mezzo letterario più universale, eppure serve principalmente alle discussioni degli archeologi. Non esiste alcun termine fondamentale presente nelle antiche iscrizioni che non possa essere oggetto di tali dispute: semplicemente perché la lingua è un simbolo imperfetto. Oggi siamo in grado di comprendere l’iscrizione su una tavola di bronzo incastonata nella parete di un edificio pubblico, che recita così.
+
 
 
 <span class="atom-split" data-atom="story_01_introduction--part_02" data-title="The Book of the Bayeux Tapestry — Introduction (part 2)" data-chapter="Introduction" data-kind="excerpt" data-tags="concept/tradition,histref/crusades,histref/william_the_conqueror,character/william_the_conqueror"></span>
@@ -404,6 +420,32 @@ In rough figures, there must be an interval of at least fifty years. It is more 
 
 Let me briefly lay before the reader the evidence upon which this decision must be accepted. I will enter into no one of the many — I had almost said innumerable — doubtful details. I will not even linger upon one part of the evidence, which is very striking — the fact that the length of the Tapestry exactly coincides with the contour of the nave of Bayeux Cathedral, upon which it was annually hung. And my reason for not pressing this point is that we have no definite evidence upon the date of the nave of Bayeux. Let me make myself clear. We know, of course, that the Gothic is roughly the product of the [[Crusades]]. We know that the Romanesque is roughly the pre-Crusade architecture. A man has but to see the interior of Bayeux Cathedral (as I did at Mass three or four months ago during my inspection of this document) to see that that nave is a product of the Transition. But short of documents telling us exactly when the ground plan of the nave was drawn up, we cannot establish a date within fifty years. What adds to our ignorance is the fact that your later work was nearly always and throughout Europe modelled upon your earlier work. Consider, for instance, all the discussion with regard to the extension of the western end of Chartres; or consider the massive Romanesque foundation and pillars of Notre Dame in Paris, with its Gothic superstructure; consider the accident by which we owe the Gothic unity of that monument to the fire which happened to destroy in 1218 the original Romanesque apse. Had evidence of dates not survived in the case of Notre Dame we might be out by anything between fifty and seventy years.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+“Questo Pilastro Fondamentale fu posato dal Reverendo Charles Woodle, M.A., in occasione del Secondo Giubileo di Sua Maestà la Regina Vittoria.”
+
+Capisci cosa significa. Tra qualche secolo (se la lingua sarà ancora esistente), uno dopo l’altro, molti simboli diventeranno oggetto di controversie. Le persone discuteranno su cosa significhino “Rev.”, “M.A.”; forse anche “Jubilee”, “Gracious” e così via. La parola “Foundation” li creerà sicuramente molti problemi.
+
+Qual è l’alternativa? Se la registrazione attraverso i simboli verbali è così imperfetta e se tutti i simboli devono essere legati ai sensi fisici, quale altro senso possiamo utilizzare? L’umanità non ha mai compreso appieno il significato simbolico della musica, e probabilmente non lo farà mai. La musica non è fissa; ci restano soltanto l’occhio e l’immagine destinata all’occhio. In un’immagine, per quanto rozza o perfetta, si ottiene la registrazione più permanente possibile. Tutta l’umanità, tranne la nostra epoca, lo ha capito. L’appello all’occhio è al contempo il più universale e può essere realizzato con il minimo sforzo. La nostra epoca probabilmente soffrirà di più a causa del trascuramento di questo aspetto che per qualsiasi altro errore commesso; inoltre, la posterità ci ignorerà soprattutto a causa della mancanza di simboli visivi nella nostra cultura. Dipingere le mucche al guado non dice nulla a una futura generazione; dipingere la cerimonia di incoronazione significa ben poco anch’esso. Tuttavia, realizzare un bassorilievo che raffiguri un poliziotto che blocca un autobus, un uomo che vende giornali a un altro, e così via, lungo un fregio, significherebbe lasciare una registrazione di Londra, una registrazione indipendente dalla vitalità degli alfabeti o dei linguaggi.
+
+Ora, questo tipo di rappresentazione richiede una sorta di “convenzione”; in altre parole, deve essere soprattutto simbolica piuttosto che mimetica, ed è proprio ciò che si osserva nell’opera conservata a Bayeux. Non si tratta della riproduzione di cose visibili, ma della perpetuazione delle loro idee: poche figure che rappresentano un intero esercito; un emblema che definisce una persona; un episodio descritto nei suoi termini più semplici.
+
+Ora, per quanto riguarda l’autenticità – o, per essere più precisi, la datazione – di questo famoso documento. Gli storici più approssimativi, più antichi e più inclini a presentare i fatti in modo pittoresco, con quel loro tocco di ciarlataneria e tenendo sempre d’occhio il pubblico (in particolare Freeman), desideravano naturalmente crederci. E, ancora più naturalmente, affermavano che l’ornamento conservato oggi a Bayeux fosse effettivamente contemporaneo alla Conquista.
+
+Non dobbiamo includere nella nostra critica o nelle nostre accuse persone come Napoleone, che, dopotutto, non si pronunciavano autonomamente, ma accettavano ciò che gli veniva detto; né persone che non erano storici di professione ma continuavano la [[Tradition|tradizione]] secondo cui quel lavoro fosse stato realizzato dalla moglie di [[William the Conqueror|Guglielmo il Conquistatore]] e dalle sue dame. Un'affermazione anti-storica proveniente da qualcuno che non si dichiara esperto nelle basi della storia non può essere seriamente criticata. Tuttavia, poiché la leggenda secondo cui l’arazzo di Bayeux sia in realtà contemporaneo all’invasione dell’Inghilterra è stata elevata a una sorta di dogma accademico e diffusa nelle scuole e nei libri di testo inglesi, ritengo opportuno chiarire ai miei lettori la natura di questo semplice errore.
+
+La Battaglia di Hastings ebbe luogo il 14 ottobre 1066. La Tappetta di Bayeux fu realizzata in un periodo successivo alla Prima Crociata, la cui climax fu la conquista di Gerusalemme il 15 luglio 1099.
+
+È certamente successivo alla Prima Crociata tanto quanto un ritratto di un uomo in pantaloni e cilindro è posteriore alla Rivoluzione Francese. Quanto sia più tardo rispetto alla Prima Crociata, però, non possiamo ancora dirlo; forse non lo sapremo mai con certezza. Possiamo affermare (esattamente come per il gentiluomo in pantaloni e cilindro) che tale fenomeno è senz’altro molto più recente rispetto al momento storico decisivo scelto come data di cambiamento. È stata la Rivoluzione Francese ad agitare, a risvegliare e a ristrutturare profondamente la società. A questa grande trasformazione si possono associare numerose manifestazioni esterne: parlamenti quasi democratici, l’ufficio postale moderno, eserciti di leva, ecc.; ma la data storica fondamentale rimane il periodo 1789-1795. Uno dei segni concreti di questo cambiamento è proprio l’evoluzione dell’abbigliamento. Anche un esperto del futuro remoto potrebbe avere difficoltà a stabilire se un ritratto di un uomo in pantaloni e cilindro sia apparso venti, trenta, quaranta o cinquanta anni dopo il 1795; tuttavia, potrebbe essere assolutamente certo che tale fenomeno sia avvenuto qualche anno dopo la fine delle rivoluzioni del 1789-1795, magari dieci o quindici anni, o addirittura vent’anni.
+
+Anche il Tappeto di Bayeux e la Prima Crociata seguono lo stesso schema.
+
+Le date della Prima Crociata sono il 1096-99. Si concluse tra trenta e trentatré anni dopo la Battaglia di Hastings. Guglielmo era già morto da tempo; gli uomini che, da ragazzi, avevano partecipato alla battaglia sulle colline di Telham erano ormai anziani, tra i cinquanta e i sessant’anni, quando quel cavaliere di Sourdeval saltò per la prima volta sulle mura di Gerusalemme. Tuttavia, gli effetti di un grande cambiamento, soprattutto quelli esteriori riguardo all’abbigliamento e ad altri aspetti, impiegano alcuni anni per manifestarsi pienamente. Quindi, anche se possiamo considerare la Tappezzeria di Bayeux come un documento che racconta eventi avvenuti molto tempo fa, non possiamo fissarne una data precedente a quella in cui gli uomini che avevano assistito alla battaglia di Hastings fossero sicuramente morti, anche se fossero sopravvissuti per testimoniare.
+
+In termini approssimativi, deve esserci un intervallo di almeno cinquant’anni. È più probabile che questo intervallo sia più lungo, ma cinquant’anni rappresentano comunque il minimo indispensabile.
+
+Lasciate che esponga brevemente al lettore le prove su cui si deve basare questa decisione. Non entrerò nei numerosi – quasi innumerevoli – dettagli dubbi che esistono. Non mi soffermerò nemmeno su un aspetto particolarmente evidente: il fatto che la lunghezza della Tappezzeria coincida esattamente con i contorni della navata della Cattedrale di Bayeux, dove veniva appesa ogni anno. Il motivo per cui non insisto su questo punto è che non disponiamo di prove definitive riguardo alla data di costruzione della navata di Bayeux. Per essere chiari: sappiamo che lo stile gotico si sviluppo più o meno durante le [[Crusades|Crociate]], mentre lo stile romanico rappresenta l’architettura precedente alle Crociate. Basta osservare l’interno della Cattedrale di Bayeux (come ho fatto tre o quattro mesi fa durante la mia ispezione di questo documento) per rendersi conto che quella navata è il risultato di un periodo di transizione tra i due stili. Tuttavia, a meno di documenti precisi che indicino esattamente quando fu redatto il progetto della navata, non possiamo stabilire una data con precisione superiore ai cinquanta anni. Ciò che aumenta la nostra ignoranza è anche il fatto che le opere successive di questo autore siano state quasi sempre modellate sulle sue opere precedenti, in tutta Europa. Pensiamo, ad esempio, a tutte le discussioni riguardanti l’estensione della parte occidentale della Cattedrale di Chartres; o consideriamo la massiccia struttura romanica delle fondamenta e dei pilastri di Notre Dame a Parigi, con la sua sovrastruttura gotica; pensiamo anche al fatto che l’unità stilistica di quel monumento sia dovuta proprio all’incendio del 1218, che distrusse l’abside originale romanica. Se non ci fossero prove riguardanti le date di costruzione, potremmo sbagliarci di cinquanta o settant’anni.
 
 
 
@@ -442,6 +484,40 @@ It is true that we have very little information upon the eleventh century armour
 
 The helmet with a nasal is not now in any document before the seal of Baldwin, the late 1115, but after that date it is common, as one may see in the seal of Charles of Flanders or of Matthew of Montmorency. Indeed, the seal of [[William the Conqueror]] himself gives no sign of the nasal, and the same is true of the seals of the First Crusade. This kind of helmet is wholly twelfth century; but remark that William, in the Chronicles, lifted his helmet to show his face. So there is here doubt.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Lo so per Bayeux. Il fatto che la lunghezza della Tappezzeria corrisponda alla lunghezza della navata dimostra che essa non può essere stata realizzata prima di questa; tuttavia, non sappiamo se la navata non avesse già quella stessa lunghezza prima di alcun intervento di ricostruzione.
+
+No; le prove che la Tappetta di Bayeux sia posteriore alla Battaglia di Hastings e al regno di [[William the Conqueror|Guglielmo il Conquistatore]] sono di tipo più semplice e decisivo, e derivano dall’idea che l’artista aveva riguardo all’abbigliamento e alle armi degli uomini.
+
+Lasciate che vi spieghi in dettaglio.
+
+Innanzitutto, Edoardo il Confessore indossava una [[Crown|corona]] ornata con la fioritura di lisso. Ora, questa decorazione a forma di fioritura di lisso presente sulla [[Crown|corona]] risale al XII secolo, e non all’XI – proprio come lo stesso stendardo oriflamma. Quanto allo scettro, se possiamo giudicare in base ai sigilli e ai manoscritti (che, insieme a pochissimi esempi scultorei, rappresentano la nostra unica fonte di informazione), esso appartiene al XII secolo, non all’XI. Queste osservazioni riguardanti l’abbigliamento sono valide anche per i dettagli più minuti, come le scarpe indossate; si tratta di scarpe tipiche della metà del XII secolo, e non della fine dell’XI.
+
+Ora passiamo a qualcosa di più ampio, anche se meno conclusivo: l’ornamento dello scudo.
+
+Mi trovo su un terreno molto vago, e lo so bene. Tuttavia credo che questo terreno, per quanto vago, abbia dei limiti, sia inferiori che superiori. L’abitudine di adornare lo scudo con segni distintivi riconoscibili in battaglia è certamente antica quanto il mondo stesso – o almeno tanto quanto la professione delle armi. Ma qualcosa di rituale e regolare legato a questa abitudine, qualcosa che ne ha fatto parte integrante della società e un elemento fondamentale nell’ambito delle leggi e delle consuetudini sociali, è proprio il risultato delle [[Crusades|Crociate]].
+
+Un parallelo moderno chiarirà il mio punto. Un assegno è qualcosa che appartiene al XIX secolo, soprattutto alla sua seconda metà. I mandati di pagamento firmati con diversi metodi sono ancora più antichi. Ma un assegno rimane comunque un assegno: si tratta di qualcosa che si è cristallizzato e sviluppato in una forma ormai fissa e definitiva. Lo stesso vale per gli stemmi araldici. Portatemi qualche documento nuovo che dimostri che Carlo Magno stesso avesse il sole o la luna dipinti sul suo scudo, e non mi sorprenderò; so però che la rappresentazione regolare di tali simboli per identificare determinate persone, così come l’abitudine comune tra le grandi famiglie di utilizzarli sempre, sono fenomeni successivi alle Crociate, e non precedenti ad esse: in realtà, sono stati in gran parte il risultato delle Crociate stesse.
+
+Ora, la Tappetta di Bayeux, sebbene mostri la maggior parte degli scudi privi di tali simboli (poiché la maggior parte di essi apparteneva a cavalieri comuni), mostra comunque gli scudi dei capi militari solitamente adornati con emblemi distintivi; si notino, ad esempio, i quattro signori che vanno da Guy di Ponthieu per catturare [[Harold]]. Ogni uno di questi scudi reca un simbolo araldico. Anche i due araldi o messaggeri, probabilmente persone di rango elevato, che vanno a informare Guglielmo del fatto che Guy ha catturato [[Harold]], sono altrettanto distinti. Coloro che fanno parte dello stretto seguito dei sovrani o dei quasi-sovrani presentano anch’essi simboli araldici, come quando [[Harold]] viene interrogato da Guglielmo. Uno degli scudi principali è esposto sulle prime due navi della flotta che naviga verso l’Inghilterra per la conquista, e ciascuna di esse reca simboli araldici. Non sorprenderà il lettore il fatto che molti scudi siano privi di tali decorazioni, se si considera quanto sia frequente vedere questi scudi rivolti dal lato interno verso il corpo di chi li portava; infatti, quando l’artista raffigura una battaglia, mostra solitamente il braccio destro con l’arma e quindi il braccio sinistro che regge lo scudo dall’interno, impedendoci così di conoscere se esso fosse decorato o meno. Ma basta osservare le scene in cui la battaglia si svolge in difesa: ad esempio, quella che mostra la resistenza di Harold all’assalto normanno; lì i capi militari sono immediatamente riconoscibili grazie agli scudi decorati che indossano. Oppure, nella scena successiva in cui l’assalto normanno riesce a colpire gli avversari con le loro asce sassoni, due degli scudi presenti sono chiaramente ornati. Nell’episodio della morte dei fratelli di Harold, tutti e tre gli scudi mostrati presentano qualche simbolo decorativo. Non c’è bisogno di soffermarsi ulteriormente su questo punto, né di menzionare il complesso disegno presente su uno degli scudi raffigurati durante la persecuzione dell’esercito sconfitto.
+
+È evidente che ci troviamo di fronte a un'opera prodotta in un’epoca in cui si riteneva normale che qualsiasi uomo di rilievo portasse il proprio simbolo sullo scudo; e ribadisco: considerare tale pratica normale è possibile al massimo per la metà del XII secolo, ma assolutamente non per la metà dell’XI secolo.
+
+Esiste soltanto un buon argomento a favore del carattere contemporaneo di questo documento; tale argomento deriva dalla [[Tradition|tradizione]]. È un argomento che rispetto sempre profondamente, soprattutto perché è stato particolarmente disprezzato dagli storici universitari superficiali ma popolari del secolo scorso. La [[Tradition|tradizione]] rappresenta certamente l’elemento fondamentale nella memoria sociale; e se si riuscisse a scoprire una tradizione concreta secondo cui la tappezzeria di Bayeux fosse stata realizzata dalle mogli dei soldati che combatterono a Hastings, anche se le prove esistenti non confermassero tale tradizione in forma assoluta, sarebbe nostro dovere esaminare attentamente come essa sia nata e cosa possa significare. Ad esempio, potrebbe significare che l’opera attuale rappresenti un adattamento di un’opera precedente. Tuttavia, in realtà questa tradizione non è antica; ha origine accademica, e quindi priva di valore reale. Sembra che il Medioevo successivo non ne sapesse nulla; nemmeno il Capitolo della Cattedrale, che aveva la responsabilità della conservazione del documento, ne fa menzione. Chiamare la Tappezzeria di Bayeux “la tappezzeria di Matilde” sembra essere stato soltanto un’ipotesi di uno studioso antiquario. Lasciamo le cose come stanno.
+
+Un’altra prova relativa alla datazione è il fatto (a cui farò continuamente riferimento nel testo) che la Tappetta di Bayeux segue in modo abbastanza fedele il “Roman de Rou”, il poema di Wace che descrive la Conquista; e quel poema non può essere precedente alla metà del XII secolo – generalmente si colloca nella sua ultima parte. Non solo Wace viene seguito, ma anche altre fonti utili per determinare la data di composizione della Tappetta di Bayeux.
+
+Ora, questo sarebbe un argomento piuttosto convincente, se non fosse per un controargomento, il cui valore lascio alla valutazione del lettore. Le fonti scritte che sembra seguire la “Tappetiéra” si baserebbero su certe tradizioni comuni, ricordi e documenti precedenti; si potrebbe quindi ipotizzare che anche la “Tappetiéra” si fondi sullo stesso materiale. Tuttavia, la regola generale nell’individuare le fonti di questo tipo di opere umane è che il resoconto scritto preceda quello visivo e ne costituisca la base; inoltre, l’accordo tra queste testimonianze e quelle relative agli oggetti e ai vestiti utilizzati lascia pochi dubbi sulla loro autenticità.
+
+Nel Tappeto di Bayeux abbiamo qualcosa che certamente risale a un periodo successivo al 1140, quasi sicuramente dopo il 1150, probabilmente fino al 1160; d'altra parte, è certo precedente all’anno 1200.
+
+1. La birra di Edoardo il Confessore è realizzata secondo lo stile del XII secolo, non del XI: l’abito lungo indossato dai personaggi reali è tipico del XII secolo, non del XI. La descrizione dell’armatura in Wace (versi 6522 e seguenti) corrisponde esattamente a quella raffigurata nel Tappeto; e soprattutto, l’armatura descritta nel Tappeto non è più semplicemente un pettorale, ma rappresenta l’intero equipaggiamento militare tipico del periodo delle Crociate.
+
+È vero che abbiamo molto poche informazioni sull’armatura del XI secolo, ma con le [[Crusades|Crociate]] otteniamo descrizioni dettagliate; quindi abbiamo il diritto di giudicare in base a ciò che sappiamo, e non a ciò che non sappiamo. Proprio per questo, Ordericus Vitalis definisce l’armatura completa una novità del tempo.
+
+Il elmo con la parte nasale non compare in nessun documento precedente al sigillo di Baldwin, alla fine del 1115, ma dopo quella data diventa comune, come si può vedere nei sigilli di Carlo di Fiandra o di Matteo di Montmorency. Infatti, nemmeno il sigillo dello stesso [[William the Conqueror|Guglielmo il Conquistatore]] presenta tracce di questa parte nasale, e lo stesso vale per i sigilli legati alla Prima Crociata. Questo tipo di elmo appartiene interamente al XII secolo; tuttavia, va notato che Guglielmo, nelle Cronache, sollevava il proprio elmo per mostrare il viso. Quindi, in questo caso, sussiste ancora qualche dubbio.
 
 
 
@@ -497,6 +573,56 @@ The capital of Ponthieu was Montreuil, and this castle of Beaurain, of which rui
 The last scene in this episode (which ends the first part of the story) is a scene by night in the hall of the castle of Beaurain, where by the light of torches Count Guy and Harold (who have ridden to Beaurain together as men of equal rank though one is being held to ransom) are bargaining — for the word “Parobolant” must refer to the discussion of the ransom.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Note
+
+I relativi numeri di riferimento si trovano nel testo seguente.
+
+Molti dei nostri storici parlano in modo superficiale del fatto che [[Harold]] sia stato portato a Rouen. Non abbiamo prove a sostegno di questa affermazione. Esiste soltanto un accenno nelle Cronache al luogo in cui il corpo di [[Harold]] fu consegnato da Guy a Guglielmo, e il luogo menzionato è proprio quello che ci aspetteremmo: una città di frontiera, Eu. Il termine “Palatium” indica non solo un luogo, ma anche un’istituzione; e sebbene Rouen fosse la città principale di Guglielmo, ogni volta che si spostava, i suoi funzionari e il suo staff governativo – cioè il suo “Palatium” – lo seguivano.
+
+3. Nel suo resoconto dell’evento, il signor Oman fa sì che Bonneville sia il luogo in cui viene prestato il giuramento. Non ho visto alcuna prova a sostegno di questa tesi. Le due prove fondamentali – le opere di Wace e la Tappetiéra – indicano entrambe Bayeux come luogo del giuramento. Guglielmo possedeva un castello sopra il fiume Touques a Bonneville; oggi si possono ancora vedere le rovine di quel castello, o di una costruzione successiva realizzata sullo stesso sito; tuttavia, Bonneville si trova a circa due giorni di marcia da Bayeux.
+
+La parola francese “parlement” significava, naturalmente, qualsiasi assemblea generale per la discussione; in questo contesto veniva utilizzata per indicare qualcosa che precedeva di molto le prime assemblee rappresentative, anche se queste ultime stavano già emergendo nella regione spagnola dei Pirenei, da cui derivano le origini delle istituzioni rappresentative.
+
+4. Non ho mai capito perché questo terzo messaggero dovesse essere confuso con lo stesso [[Harold]]. L’iscrizione latina è piuttosto chiara: “Qui fu data a Harold la [[Crown|Corona]] di Re”. Le persone che impugnano gli ascia non sono Harold, né lo è l’uomo che offre la [[Crown|corona]], per quanto io possa vedere.
+
+5. Naturalmente, la Tappezzeria non raffigura la famosa “Palizzata” di Freeman, e ci sono ottime ragioni per questo: la Palizzata non è mai esistita se non nell’immaginazione di Oxford.
+
+1
+
+2
+
+3
+
+4
+
+Le prime tre sezioni della Tappetta di Bayeux devono essere considerate insieme, poiché descrivono un unico evento: la partenza di Harold da Bosham, il porto di Chichester, e da una tenuta che gli apparteneva. Non disponiamo di alcuna testimonianza contemporanea riguardante quel viaggio; possiamo solo ipotizzare che sia avvenuto nel 1064. Per quanto riguarda le motivazioni di tale viaggio, la Tappetta di Bayeux fornisce ovviamente la versione normanna attuale, o meglio, ne fa solo intuire i motivi. Edoardo il Confessore si trova nel suo palazzo a Westminster; è importante notare i simboli convenzionali che indicano il suo rango: lo scettro e la [[Crown|corona]]. È proprio il ripresentarsi di questi stessi simboli nella cerimonia di incoronazione di Harold – che nella versione normanna rappresenta l’atto supremo della sua tradizione – ad essere particolarmente sottolineato. In questo modo, Edoardo viene presentato ufficialmente come il sovrano legittimo; ciò trasmette chiaramente un messaggio: molto probabilmente, sebbene non con certezza assoluta, quel messaggio è rivolto a Harold. È degno di nota però che l’iscrizione presente sulla Tappetta non menzioni affatto il contenuto di tale messaggio, né venga espressa l’affermazione di Guglielmo di Malmesbury secondo cui Harold fosse stato inviato da Edoardo per assicurare a Guglielmo la propria successione al trono inglese. Se prendiamo come base il poema di Wace per interpretare i contenuti della Tappetta – e questa è senz’altro l’ipotesi più plausibile – Harold salpò per liberare dal controllo di Guglielmo suo fratello Wulfnoth, che era stato tenuto in ostaggio in Normandia affinché Edoardo potesse garantire la fedeltà di Godwin. Tuttavia, è importante ricordare che anche il “Roman de Rou” menziona l’invio di Harold da parte di Edoardo per assicurare a Guglielmo la successione al trono inglese. Nel complesso, sembra molto probabile che lo scopo della Tappetta sia proprio quello di suggerire questo concetto. Harold e i suoi cavalieri si recano a Bosham; Harold stesso è riconoscibile dal falco che porta al polso. La chiesa di Bosham viene menzionata nella storia probabilmente con l’intento di sottolineare, come fa costantemente la Tappetta, l’enormità delle azioni religiose compiute in seguito da Harold. Sia questa visita alla chiesa che la festa tenutasi nella stanza superiore prima della partenza fanno chiaramente riferimento a eventi tradizionali nella versione normanna della storia. Tuttavia, non disponiamo di alcun testo che descriva dettagliatamente questi episodi.
+
+5
+
+6
+
+7
+
+8
+
+Nella quinta divisione, Harold e il suo seguito partono; va sottolineato quanto numeroso sia il gruppo che partecipa alla “Convenzione della Tappetiéra”.
+
+Lo scopo dell’esplorazione era quasi certamente quello di creare un porto normanno. Una volta entrati nel Canale della Manica, le navi a vela quadra non potevano affrontare venti troppo occidentali o troppo a sud-ovest; il loro punto di sbarco doveva quindi trovarsi sulla costa del Ponthieu, territorio controllato dal Conte Guy. Il luogo preciso in cui le navi attraccarono, o meglio gettarono l’ancora nelle acque poco profonde della costa, dovrebbe essere stata la riva destra dell’estuario della Somme: si trattava infatti dell’ingresso più conveniente e offriva una certa protezione dai venti meridionali. Tuttavia, quella costa piatta e sabbiosa permetteva facilmente lo sbarco; l’esercito normanno avrebbe potuto anche approdare nella Baia di Authie o persino alla foce della Canche. Ma le possibilità non erano molte, poiché la costa del Ponthieu non si estendeva oltre la Canche. Se effettivamente l’ingresso era attraverso la Somme, questo aveva un significato storico particolare: Harold sarebbe così finito esattamente nel luogo da cui, due anni dopo, Guglielmo avrebbe intrapreso la sua invasione dell’Inghilterra. Il Conte Guy catturò Harold per chiedere un riscatto; si trattava in realtà di una formalità, ma una formalità che avrebbe avuto conseguenze decisive. Portò Harold e il suo seguito a “Belrem”, l’odierna Beaurain. Qui la “Tapestry” segue fedelmente le descrizioni di Wace, che ci racconta come Harold venisse riconosciuto da un pescatore, il quale chiamò subito il Conte Guy.
+
+La capitale del Ponthieu era Montreuil, e questo castello di Beaurain, le cui rovine si ergono ancora oggi, si trovava a sei o sette miglia a monte rispetto a Montreuil lungo il fiume; oggi, percorrendo la ferrovia in direzione di Hesdin, si passa proprio sotto di esso.
+
+9
+
+10
+
+11
+
+12
+
+L’ultima scena di questo episodio (che conclude la prima parte della storia) si svolge di notte nel salone del castello di Beaurain, dove, alla luce delle torce, il conte Guy e Harold (che sono giunti a Beaurain insieme come uomini di pari rango, anche se uno dei due è tenuto in ostaggio) negoziano. Poiché la parola “Parobolant” deve certamente riferirsi a questa discussione riguardante l’ostaggio.
+
 
 
 <span class="atom-split" data-atom="story_02_notes--part_02" data-title="The Book of the Bayeux Tapestry — Notes (part 2)" data-chapter="Notes" data-kind="excerpt" data-tags="concept/tradition,character/harold"></span>
@@ -534,6 +660,40 @@ It is also interesting to note the attempt at portraiture in the case of William
 
 The episode of the priest and of the woman who is given the name of “Aelfgyva” has, if I am not mistaken, remained quite inexplicable. I will not follow my predecessors in the criticism of this, for I can suggest nothing new with regard to it. All who have written on the Tapestry with any care for historical accuracy and for the spirit of research have admitted their incompetence to explain the thing. There follows upon it the riding out of the army across the neck of the Cotentin towards the Mont St. Michael, which was, as it were, the boundary stone between Brittany and Normandy; and here we have the first appearance of those knights in full armour, which are so characteristic of the chief episodes in the Tapestry and whose costume is of such value to us in estimating its date. There was some incident at the crossing of the Couesnon (the boundary river between Normandy and Brittany) which evidently vividly impressed contemporaries and which further emphasized the now intimate and personal bond between Harold and the Norman court.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+A questa prima serie di episodi nella storia segue l’arrivo degli araldi del Duca di Normandia, che insistono affinché [[Harold]] venga rilasciato, poiché Guy era vassallo di Guglielmo. L’arrivo di questi messaggeri costituisce la 12ª e la 13ª sezione del racconto. Forse è un indizio relativo al periodo dell’anno in cui tutto ciò avvenne: sul bordo inferiore si vedono infatti le attività legate alla semina primaverile. In relazione a questi messaggeri di Guglielmo è sorta una discussione piuttosto prolungata e infruttuosa riguardo al significato della piccola figura che tiene i cavalli. Io interpreto la sua dimensione ridotta semplicemente come un effetto di prospettiva, mentre il nome “Turold” sembra riferirsi alla figura più alta a sinistra, a cui è collegata.
+
+Questo nome, Turold, sarà familiare agli studenti della Normandia per un'altra nota connessione: fu infatti un certo Turold che aggiunse alla fine del “Canto di Rolando” la seguente iscrizione: “Questa è la fine di ciò che Turoldus ha scritto”.
+
+13
+
+14
+
+15
+
+16
+
+Dopo l’arrivo dei messaggeri, i tre pannelli successivi mostrano la riluttante sottomissione di Guy al suo sovrano; poi segue la consegna di [[Harold]] a Guglielmo. Il Tappeto segue fedelmente le descrizioni di Wace, ad eccezione di un particolare insolito: invertisce l’ordine delle scene e non rende del tutto chiara l’insistenza di Guglielmo; almeno, tale insistenza e l’importanza degli ordini urgenti inviati da Guglielmo non risultano evidenti a un lettore moderno. Tuttavia, c’è un elemento che avrebbe potuto rendere tutto più chiaro per un contemporaneo: l’abbigliamento dei messaggeri. Ne ho già parlato in altra sede nella Prefazione. Si tratta probabilmente di uomini di alto rango alla corte di Guglielmo, poiché i loro scudi recano distintivi araldici ben definiti. Va però notato che, a parte gli scudi e le lance, non sono armati; e sia che ciò indichi la fretta con cui dovevano agire, sia che rifletta il carattere pacifico che Guglielmo desiderava mantenere durante la loro missione, non indossano nemmeno elmi. Un altro aspetto degno di attenzione per il lettore moderno interessato alla datazione del documento è rappresentato dagli episodi raffigurati lungo i bordi: in basso c’è una scena in cui un uomo combatte contro un orso, mentre a destra si vedono probabilmente animali tropicali, forse pantere. Il primo episodio è certamente autentico, il secondo molto probabile. In questi pannelli, come in molti altri presenti lungo i bordi superiori e inferiori del Tappeto, si riscontra l’influenza dei bestiari – cioè dei libri del XII secolo che descrivono animali strani ed immaginari – e questi, a loro volta, sono il prodotto delle Crociate. In altre parole, tutti questi dettagli concorrono a dimostrare che il documento è di data posteriore alla conquista dell’Inghilterra da parte di Guglielmo. L’ultimo pannello di questo gruppo raffigura la consegna di [[Harold]] a Guglielmo da parte di Guy; seguono poi non meno di dieci pannelli che costituiscono un episodio separato della storia, di grande interesse storico per molti motivi.
+
+Questo episodio riguarda la Guerra della Bretagna, e è curioso notare che il lavoro vigoroso, sebbene un po’ rozzo, della Tappetiéra di Bayeux ci racconta di essa più di qualsiasi altra fonte storica. L’importanza di questo contrasto tra la Tappetiéra e i cronisti diventa immediatamente evidente: significa che alcune [[Tradition|tradizioni]] o alcuni documenti perduti, relativi a questa spedizione in Bretagna piuttosto inconclusiva, occupano un ruolo fondamentale nella storia di Harold e delle sue relazioni con il Conquistatore. Chiunque osservi la Tappetiéra non può dubitare nemmeno per un istante dello scopo di questo episodio: Harold, unendosi a Guglielmo nell’espedizione, si dimostrò di grande utilità, fu ricompensato da Guglielmo e, grazie a questo evento, divenne molto più strettamente legato alla corte normanna di quanto altrimenti sarebbe stato possibile. Tuttavia, in seguito, si rivelò essere un amico traditore. L’implicazione è chiara: chiunque abbia progettato la Tappetiéra, o abbia fornito i materiali basandosi su [[Tradition|tradizioni]], credeva – e voleva che gli altri credessero – che Harold fosse non solo formalmente un traditore secondo le semplici regole della società feudale, ma anche moralmente e fondamentalmente tale, poiché aveva dimenticato e abusato di un legame personale stretto, nato dal servizio militare condiviso. È evidente che nell’immaginazione dei contemporanei, e quindi nella [[Tradition|tradizione]] che ne derivò, questo episodio in cui Harold accompagna Guglielmo in Bretagna influenzò profondamente l’intera narrazione storica.
+
+Wace menziona solo poche frasi vaghe per dirci che in quel momento ebbe luogo una qualche disputa con la Bretagna. Se non mi sbaglio, William di Poitiers è l’unico cronista che ci fornisce un resoconto più dettagliato; tuttavia anche il suo racconto è incredibilmente breve e poco preciso, sia per quanto riguarda i luoghi menzionati che gli episodi descritti. Credo che la Cronaca Bretonna non dica nulla al riguardo.
+
+17
+
+18
+
+19
+
+20
+
+Passando ai dettagli di questi dieci pannelli (dal 17 al 26 compresi), si nota nuovamente l’armoriale completamente sviluppato presente tra i seguaci di Guglielmo; nel pannello successivo appare il simbolo del Palatium, quell’instituzione fondamentale d’Europa, sede del governo in ogni paese: da un lato rappresenta un edificio, dall’altro un insieme di persone; per mille anni, in tutto l’Occidente, è stato il continuatore di Roma.
+
+È anche interessante notare il tentativo di ritrarre William in modo realistico. La testa rotonda e le spalle quadrate del guerriero gallo (la leggera e lontana influenza del sangue scandinavo sembra non aver influenzato né la sua anima né il suo aspetto fisico) vengono evidenziati in questa prima presentazione di lui; tale rappresentazione è possibile proprio perché, nelle prime parti della serie, William non viene mai mostrato con elmo né corona.
+
+L’episodio del prete e della donna chiamata “Aelfgyva” è, se non erro, rimasto piuttosto incomprensibile. Non seguirò le critiche dei miei predecessori su questo argomento, poiché non ho nulla di nuovo da aggiungere al riguardo. Tutti coloro che hanno scritto sul “Tappeto” con attenzione all’accuratezza storica e allo spirito della ricerca hanno ammesso la propria incompetenza nel spiegarlo. Successivamente, l’esercito attraversa il Cotentin in direzione del Mont Saint-Michel, che rappresentava, per così dire, il confine tra Bretagna e Normandia; ed è qui che compaiono per la prima volta quei cavalieri in armatura completa, così caratteristici dei principali episodi del “Tappeto” e il cui abbigliamento è di grande valore per stabilirne la datazione. Durante il attraversamento del fiume Couesnon (il confine tra Normandia e Bretagna) ebbe luogo un incidente che, evidentemente, impressionò profondamente i contemporanei, sottolineando ulteriormente il legame ormai stretto e personale tra Harold e la corte normanna.
 
 
 
@@ -591,6 +751,58 @@ The next two panels (31 and 32) are a very curious instance of that reversing of
 Then comes the turning-point in the story, as in the series of pictures, and it has been designed to come not quite half way in that series (the 34th out of 76 panels). Harold is offered the [[Crown|crown]] of England: accepts it, and appears enthroned and in full regalia. To the left you have two messengers holding the typical battle-axe of the Saxon army, and a third messenger pointing towards the death-bed of Edward with his right hand, and with his left holding forth the [[Crown|crown]]. Next you have the same symbolism completed with the picture of Harold enthroned as a king. The early Middle Ages were careful to an extreme of their conventions, which were centuries old and which linked them with Rome. To distinguish by conventional signs between a king and a man who might be an actual ruler but not king, to distinguish the various rituals of various decisive ceremonies, the various accoutrements and the rest, was with them as strict a matter as spelling is with us — I could not put it more strongly. When, therefore, Harold is represented with the orb and cross, the sceptre and the crown, and the long vesture of royalty, seated on the high throne, and presented with the temporal sword, that picture is equivalent to what some long emphatic statement would be in modern times that such and such a man had committed himself to such and such a political action. It means “See here! Harold did really seize the throne!” Scholars have made some play over the presence of Stigand, the Archbishop of Canterbury, in this panel. I may briefly put before the reader what I make of this figure. In the first place, it is a divergence from Wace, who does not mention Stigand. In the second place, it shows Stigand’s rôle as the Ecclesiastic responsible for the crowning of Harold. In the third place, we must note that he is called “The Archbishop.” Now I put all this together and I presume that when the Tapestry was produced, about a generation later than the Conquest, it was desired to make prominent the fact that a man held to be schismatic was responsible for the Coronation, and that the same motives which caused the making of Harold the villain of the piece throughout caused the author to bring Stigand well forward. One or two critics have suggested that Stigand’s irregular position would have prevented a foreign, or a later, artist from calling him “Archbishop.” That seems to me unhistorical. True, William of Malmesbury and every orthodox writer thought Stigand no true Archbishop of Canterbury. He was a “false Archbishop” in their language, but for all purposes of general description he was the Archbishop all the same. Whether Stigand did, as a fact, crown Harold or not is a matter for historical discussion; but it is certain that those who designed the Bayeux Tapestry wanted it to be thought that Harold, a perjurer and a traitor, had been crowned by a man who, in the heat of St. Gregory the Seventh’s reformation of the Church, would be odious to public opinion.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+21
+
+22
+
+23
+
+24
+
+Il fiume fu attraversato a guado. Uomini e cavalli rimasero intrappolati nelle sabbie mobili, e fu proprio [[Harold]] e i suoi uomini ad aiutare coloro che erano in pericolo. È interessante notare che a Pontorson, a pochi chilometri dalla foce del fiume, esisteva un ponte; il fatto che non sia stato utilizzato suggerisce una congettura interessante. Forse l’ nemico lo controllava, e Guglielmo guidò le sue truppe lungo la costa a nord per aggirare quella posizione.
+
+Conan della Bretagna si ritirò a Dol, per poi ripartire da Dol verso Rennes. Nella rappresentazione di questa ritirata, si vede un uomo scivolare giù per una corda lungo le mura; questo potrebbe essere il ricordo di qualche evento concreto, oppure più probabilmente simboleggia la fretta con cui venne effettuato il movimento. Presumo che la destinazione finale fosse Rennes, anche se l’unica prova a sostegno di questa ipotesi è la parola “Rednes” e il disegno convenzionale utilizzato per rappresentare la città. In ogni caso, il “punto focale delle operazioni militari” era Dinant: la battaglia principale si svolse intorno alle sue mura, e nella Tappezzeria Conan viene raffigurato mentre la consegna. Nella scritta presente su questo pannello, si legge che “consegna le chiavi a Guglielmo”.
+
+25
+
+26
+
+27
+
+28
+
+Ora, le pochissime prove documentarie che abbiamo dimostrano che si tratta di una leggenda e non di storia; inoltre, queste prove suggeriscono anche un'origine relativamente tardiva della “Tappetiéra”, poiché Guglielmo di Poitiers ci racconta che l’espedizione nel suo complesso fu infruttuosa.
+
+Questi dieci pannelli dell’Espedizione Bretonna (che desidero ancora una volta sottolineare come di fondamentale importanza per tutta la storia, così come raccontata nella Tappetiéra di Bayeux) si concludono con un episodio breve e semplice, ma di grande rilievo: il momento in cui Guglielmo consegna delle armi a [[Harold]]. Questo atto era ormai diventato una sorta di rituale, e la sua menzione avrebbe potuto colpire profondamente gli uomini del XII secolo, dimostrando quanto fosse stretta la relazione personale tra Guglielmo e [[Harold]], un aspetto che tutta questa parte della Tappetiéra si sforza di evidenziare. Questa stretta relazione è simboleggiata nel 26° pannello.
+
+I due panel successivi (27 e 28) rappresentano ciò che nella storia popolare è considerato il punto di svolta dell’intera vicenda: il giuramento di Harold. Si tratta, ovviamente, dell’evento principale nella narrazione di ciò che gli autori normanni definiscono la sua tradizione. È importante notare innanzitutto che la scena si svolge a Bayeux. Ciò è significativo sia perché spiega perché questa città preferita da Guglielmo dovesse anche essere la custode del documento di cui stiamo parlando, sia perché ci rimanda nuovamente a Wace e al “Roman de Rou”. Credo che Wace sia l’unico autore che menzioni esplicitamente Bayeux come luogo in cui ebbe luogo il giuramento di Harold. Vi fornirò ora le parole tratte dal “Roman de Rou” affinché il lettore possa farsi un’idea:
+
+“Che Harold avrebbe ceduto l’Inghilterra a William alla morte del re Edoardo, e che, se lo desiderava, avrebbe preso in moglie una figlia di William. Questo, se lo voleva, doveva giurarlo. William, convocò un Parlamento a Bayeux, come si dice,” ecc. ecc.
+
+William è vestito con tutti gli abiti rituali propri del suo ruolo di sovrano; quegli abiti, per i governanti di quel tempo, avevano quasi un carattere gerarchico e sacerdotale. È seduto su un trono, e l’artista ha fatto tutto il possibile per esaltare la solennità dell’occasione. Harold giura tenendo una mano su ciascuno dei reliquiari posti su due altari adiacenti appositamente per questo scopo. È vero che l’iscrizione sulla Tappezzeria non ci dice nulla di ciò che promette nel suo giuramento, ma possiamo essere certi che la storia segue le indicazioni di Wace e che William sta promettendo la [[Crown|corona]] d’Inghilterra.
+
+È, naturalmente, la questione principale su cui si svolgono le controversie storiche riguardo a tutta questa vicenda: se Harold abbia davvero fatto quella promessa o meno.
+
+29
+
+30
+
+Nei due panel successivi (29, 30), Harold attraversa il mare, raggiunge la terra inglese e si riunisce nuovamente con il suo re, Edoardo. Gli episodi descritti non sono particolarmente significativi. Forse il più notevole è quell’edificio convenzionale dotato di un tipo di molo che si protende verso il mare: da lì un osservatore controlla l’arrivo della flotta, e anche dalle sue finestre si può vedere quando questa arriva. Questo edificio segna il confine tra i primi due panel del racconto. È curioso il fatto che non esistano prove scritte di questo incontro tra Harold ed Edoardo subito dopo lo sbarco; tuttavia, deve essersi verificato, e ovviamente gli contemporanei lo consideravano qualcosa di scontato.
+
+31
+
+32
+
+I due pannelli successivi (31 e 32) rappresentano un esempio molto curioso di questa inversione dell’ordine storico da parte della Tappezzeria; ne avevamo già visto un piccolo esempio nel caso dei messaggeri inviati da Guglielmo a Guy di Ponthieu. Quello che l’artista voleva raccontare era, in sostanza, la storia della morte e del funerale di Edoardo; tuttavia la concepì come un episodio che si svolgeva da destra a sinistra. Di conseguenza, nell’ordine effettivo della Tappezzeria, il momento del funerale precede quello della morte. Se si considerano questi due pannelli separatamente e si leggono da destra a sinistra, si ottiene una storia coerente: in alto nella tela, Edoardo, sul letto di morte, pronuncia le sue ultime parole ai suoi fedeli, circondato da donne e preti tonsurati; in basso è raffigurato morto. Nel secondo pannello, a sinistra, si vede il corpo trasportato nell’Abbazia di Westminster, con accoliti che suonano le campane e una scorta di preti tonsurati. Forse la mano che appare dal cielo sopra l’abbazia ha lo scopo di simboleggiare la santità del re. In nessun altro punto della Tappezzeria Wace viene seguito così fedelmente; anche senza altri indizi, questa parte della composizione sarebbe sufficiente a dimostrare il legame tra il poema e l’opera pittorica.
+
+33
+
+34
+
+Arriva quindi il punto di svolta della storia, proprio come nella serie di immagini: questo momento è stato collocato a circa metà della sequenza complessiva (il 34° dei 76 pannelli). A Harold viene offerta la [[Crown|corona]] d’Inghilterra; lui l’accetta e appare seduto sul trono, con tutti gli ornamenti regali. A sinistra ci sono due messaggeri che impugnano l’tipico ascia da battaglia dell’esercito sassone; un terzo messaggero indica con la mano destra il letto di morte di Edoardo, mentre con la sinistra mostra la [[Crown|corona]]. Nella seguente immagine lo stesso simbolismo viene ulteriormente enfatizzato, raffigurando Harold seduto sul trono come re. Nel Medioevo iniziale venivano rispettate con estrema attenzione le convenzioni secolari, antiche di secoli e legate a Roma; distinguere un re da una persona che potesse essere un governante effettivo ma non re, identificare i vari rituali delle cerimonie importanti, gli abiti regali e tutto il resto, era per loro una questione altrettanto fondamentale quanto la grammatica lo è per noi. Pertanto, quando Harold viene raffigurato con l’orbe, la croce, lo scettro, la corona e i lunghi abiti reali, seduto sul trono e ricevendo la spada temporale, quell’immagine equivale, nei tempi moderni, a una dichiarazione esplicita secondo cui tale persona si è impegnata in un determinato atto politico. Significa: “Ecco qui! Harold ha davvero preso il trono!” Gli studiosi hanno discusso molto sulla presenza di Stigano, l’Arcivescovo di Canterbury, in questo pannello; permettetemi di esporre brevemente la mia opinione su questa figura. In primo luogo, questa rappresentazione differisce da quella di Wace, che non menziona affatto Stigano. In secondo luogo, evidenzia il ruolo di Stigano come ecclesiastico responsabile della incoronazione di Harold. In terzo luogo, va notato che viene chiamato “l’Arcivescovo”. Riassumendo, si può presumere che, quando la Tappetiéra di Bayeux fu realizzata – circa una generazione dopo la Conquista d’Inghilterra – si volesse sottolineare il fatto che un uomo ritenuto eretico fosse stato responsabile della incoronazione di Harold; inoltre, gli stessi motivi che avevano reso Harold il personaggio negativo della storia lo spinsero anche a far emergere Stigano in modo prominente. Alcuni critici hanno ipotizzato che la posizione irregolare di Stigano avrebbe impedito a un artista straniero o successivo di chiamarlo “Arcivescovo”; ma questo mi sembra poco storico. È vero che Guglielmo di Malmesbury e tutti gli autori ortodossi consideravano Stigano un falso Arcivescovo di Canterbury; tuttavia, per tutti gli scopi pratici, egli era comunque l’Arcivescovo. Se Stigano abbia effettivamente incoronato Harold o meno è oggetto di dibattito storico; ma è certo che coloro che hanno progettato la Tappetiéra di Bayeux volevano far credere che Harold, un traditore e un spergiuroso, fosse stato incoronato da un uomo che, nel contesto delle riforme della Chiesa promosse da San Gregorio VII, sarebbe stato odiato dall’opinione pubblica.
+
 
 
 <span class="atom-split" data-atom="story_02_notes--part_04" data-title="The Book of the Bayeux Tapestry — Notes (part 4)" data-chapter="Notes" data-kind="excerpt" data-tags="motif/ship,setting/france,setting/ship,character/harold"></span>
@@ -647,6 +859,58 @@ Next you have conventional representations of men cutting down trees, rinding of
 In the next panel (47), which is the disembarkation, the horses are again insisted upon, and one curious point which I would remark, the un-stepping of the mast. There are not a few descriptions in the later Dark Ages and the early Middle Ages which lead us to believe that the mast of their small craft was not fixed: for instance, the Danes going up river above London Bridge. Let me repeat again, at the risk of tedium, that the episode of the disembarkation of horses, which the men of the time seem to have been particularly struck by, makes the Tapestry follow Wace. Once landed, the army in the next panel (48) fully accoutred — or rather patrols of it — rides out to forage, and you get as a sequel (in 49) the raiding of houses, the slaughtering of cattle and of sheep, the commandeering of horses; and next again (in 50) you have the preparing of a meal, and it is to be remarked how minute are the details here compared with the vagueness of detail in the building of the ships. Look, for instance, at the little stove of charcoal on which one of the cooks is preparing the meat, and the spits with their roasted pieces, and see how the draughtsman — whoever he was — knew more of courts than of artisans. And the feast itself, which follows, is interesting as showing a table laid out in continuity with classic custom, served from the inside of its horse-shoe or oblong. In the inscription, though hardly to be discerned upon the Tapestry, we have the benediction of the meats by the bishop — and the bishop should mean Odo. But we have, I believe, no MSS. authority for that little incident at all. The bishop is probably brought in here for the purpose of the next scene, where he sits with his brother, Duke William, and with his other brother, Robert, making council. The symbolism of the three figures is obvious; the portraiture of William reappears, the unarmed priest upon the left, the vassal brother upon the right making ready to draw the sword. In the next panel (52) there is given the throwing up of earthworks for a fortified camp at Hastings (the spade is half warfare), and here notice the figure of Robert of Eu, for it exactly follows the account of Wace. The figure holds the lance, and in command of the building of the camp is the man whom the Roman de Rou speaks of as commanding the same work.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+35
+
+36
+
+Tra questo e il prossimo pannello vi è un gruppo di figure che rappresentano “il popolo”, il quale rende omaggio al nuovo re. Poi seguono due pannelli, separati l’uno dall’altro e che, in qualche modo, dividono la prima metà dell’Eposa dalla seconda. Questi due pannelli (35 e 36) raffigurano la cometa, una figura di [[Harold]] e l’arrivo di una nave inglese sul suolo normanno.
+
+Fu subito dopo la Domenica di Quaresima del 1066, credo di martedì, che una grande cometa fu vista in [[France|Francia]] e in Inghilterra. La scienza moderna tende a considerarla la Cometa di Halley, anche se potrebbe trattarsi di un’altra; tuttavia, la variazione nei movimenti di questi corpi celesti, nonché l’incertezza delle nostre informazioni sui loro spostamenti in tempi remoti, non permettono a nessuno di essere certo al riguardo. Inoltre, questa questione non ha alcuna rilevanza particolare. Per quanto possiamo stabilire, il 25 aprile 1066 sembra essere stato il momento in cui questa cometa fu osservata per la prima volta. Comunque sia, si trattò di un fenomeno che influenzò profondamente l’opinione pubblica in Europa all’epoca.
+
+Quello che l’artista intendeva rappresentare con quell’episodio, utilizzando soltanto la parola “[[Harold]]”, non mi sembra affatto dubbioso. Lì ci sono i simboli convenzionali del palazzo, il re nelle vesti regali ma parzialmente armato; un messaggero, e sotto di loro le carene delle navi. Il re sta attendendo l’arrivo degli invasori. Sa che arriveranno.
+
+Il secondo riquadro di questo gruppo rappresenta l’arrivo di una nave inglese in Normandia; al di là di ciò, non viene detto nulla di specifico. Tuttavia, Wace fornisce qualche informazione aggiuntiva: si tratta di una nave proveniente dall’Inghilterra con un messaggio speciale per il duca – probabilmente un messaggio privato inviato su suo ordine per comunicargli la morte di Edoardo e l’usurpazione del trono da parte di [[Harold]] (come William avrebbe definito tale evento). Sono presenti tutti i simboli convenzionali legati all’atterraggio di una nave, ma si nota che sono raffigurati pochi uomini e assenti qualsiasi rappresentazione di armi. Dopo questo momento inizia l’azione che porterà al completamento dell’intero processo: la costruzione e l’armamento della flotta invasora, lo sbarco degli aggressori e la vittoria che ne consegue.
+
+37
+
+38
+
+39
+
+40
+
+Di questa seconda parte, i primi tre pannelli (38, 39, 40) riguardano la costruzione e l’imbarco delle navi. Nel primo pannello, William ordina la costruzione della flotta; è seduto sul suo trono e sta dando queste istruzioni.
+
+41
+
+42
+
+43
+
+44
+
+45
+
+46
+
+Successivamente si hanno rappresentazioni convenzionali di uomini che tagliano gli alberi, staccano la corteccia e preparano le assi. Poi viene descritto il processo di costruzione delle imbarcazioni e il loro trasporto verso il mare. È sorprendente quanto poco l’artista abbia cercato di simboleggiare gli strumenti utilizzati in questa attività: ci sono solo accette e asce; né il martello, né i chiodi, né alcun altro elemento legato alla costruzione delle navi vengono rappresentati. Dopo questi passaggi, si arriva alla fase di equipaggiamento della flotta; in queste due lunghe tavole continue (41 e 42) è necessario osservare attentamente i dettagli, poiché hanno un grande valore storico. Lì si vedono i servitori che portano a bordo spade nelle loro custodie, lance legate ai carri insieme a barili di vino; sulle spalle di alcuni uomini ci sono pelli di vino, su altre piccoli barili, e su lunghi pali vengono trasportati i pesanti armature dei cavalieri. Dopo queste scene, si descrive la partenza della flotta, un processo monotono e continuo che occupa quattro tavole consecutive (43, 44, 45, 46). In queste rappresentazioni l’artista si è concentrato soprattutto sul numero di cavalli trasportati. Alla fine dell’iscrizione si trova un importante documento storico: “E arrivò a Pevensey” (scritto proprio sopra l’ultima delle quattro navi che stavano per sbarcare, quella con la croce sul albero maestro). La dimensione delle imbarcazioni e il loro gran numero hanno evidentemente colpito l’artista, che ha cercato di rappresentarli in modo appropriato. Lo stesso si può dire di Wace: “Ho sentito mio padre raccontare che c’erano 700 navi, meno quattro”. Inoltre, il nome Pevensey compare anche nel Roman de Rou, sebbene in quel testo venga scritto “Penevesal”.
+
+47
+
+48
+
+49
+
+50
+
+51
+
+52
+
+Nel panel successivo (47), relativo allo sbarco, vengono nuovamente menzionati i cavalli; c’è anche un dettaglio curioso da notare: l’assenza di un albero maestro fisso sulle loro piccole imbarcazioni. Ci sono molte descrizioni risalenti ai periodi tardo Medioevo e inizio del Medioevo che fanno pensare a questo aspetto; ad esempio, i Danesi che risalivano il fiume oltre il London Bridge. Ripeto ancora: l’episodio dello sbarco dei cavalli, che sembrava particolarmente interessante agli uomini di quel tempo, fa sì che la Tapisserie segua fedelmente le descrizioni di Wace. Una volta sbarcati, l’esercito, nel panel successivo (48), completamente equipaggiato, si dirige verso i campi per raccogliere cibo; come conseguenza di questo, nel panel 49 si vedono attacchi alle case, uccisione di bovini e pecore, sequestro di cavalli. Nel panel successivo (50) viene descritto il preparativo di un pasto; è interessante notare quanto i dettagli in questo caso siano precisi, a differenza della vaghezza delle descrizioni riguardanti la costruzione delle navi. Guardate ad esempio quel piccolo forno a carbone su cui uno dei cuochi sta preparando la carne, o le spade con i pezzi di carne arrostita: è evidente che il disegnatore conoscesse molto meglio gli ambienti nobiliari che quelli artigianali. La stessa festa descritta è interessante perché mostra come i tavoli fossero allestiti secondo le tradizioni classiche, serviti all’interno di strutture a forma di ferro di cavallo o rettangolari. Nell’iscrizione, sebbene appena leggibile sulla Tapisserie, si menziona la benedizione delle carni da parte del vescovo, probabilmente Odo. Tuttavia, non esistono alcune fonti manoscritte che confermino questo dettaglio. Il vescovo viene probabilmente introdotto qui per preparare la scena successiva, in cui si riunisce con suo fratello Guglielmo e Robert per discutere strategie militari. La simbologia delle tre figure è evidente: ritorna il ritratto di Guglielmo, il sacerdote disarmato a sinistra, e Robert, il fratello vassallo pronto a estrarre la spada. Nel panel successivo (52) viene descritto l’allestimento di difese per un accampamento fortificato a Hastings; si nota anche la figura di Roberto di Eu, che segue esattamente le descrizioni di Wace: tiene in mano una lancia e è lui stesso a dirigere i lavori di costruzione dell’accampamento, proprio come menzionato nel “Roman de Rou”.
+
 
 
 <span class="atom-split" data-atom="story_02_notes--part_05" data-title="The Book of the Bayeux Tapestry — Notes (part 5)" data-chapter="Notes" data-kind="excerpt" data-tags="character/harold"></span>
@@ -697,6 +961,52 @@ The next point of interest in these panels is the personality of William bearing
 Now we know what that order was. There were three columns of attack, consisting of the fully armed and mounted knights. That on the left was composed of the Bretons in the main, and had the duty of charging over the space now occupied by, or neighbouring to, the pond in Battle Abbey park. That on the left, which was to charge the steepest part of the hill, was to cross the ground on which the station has been built in modern times; it was a column mainly French and led by Roger of Montmorency. The central column, which was to take the sharp hill between the two others, was composed mainly of Normans and was led by William himself. Upon the jutting promontory of the height which these three columns were to attack, stood the Saxons on foot, depending largely upon the axe as a defensive weapon, but also upon the throwing-spear or javelin, and to some extent upon the sword. In front of the attacking army was scattered in open order a line of archers, whose function was the permanent service of the missile weapon, to wit, to shake the enemy’s infantry, upon which, so shaken, the cavalry should charge.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Con questo fumetto si può dire che le fasi preliminari dell’azione siano terminate e che inizi il vero e proprio avanzamento verso la battaglia. Nel fumetto successivo sono descritti due eventi che introducono questo sviluppo: uno in cui un messaggero di [[Harold]] raggiunge Guglielmo (la cui immagine è nuovamente chiaramente indicata), e l’altro in cui l’atto di guerra ha inizio con l’incendio di una casa.
+
+53
+
+Wace ci racconta la storia di un nobile amichevole, il cui nome non conosceva, ma che venne ad avvertire Guglielmo dei movimenti di [[Harold]]. Per quanto riguarda l’incendio della casa, ci sono state molte supposizioni al riguardo. Credo che significhi semplicemente un simbolo convenzionale per indicare che la guerra è davvero iniziata. Dopo questi due episodi del fregio 53, seguono le imprese militari che occupano la restante parte della Tappetiéra, e di cui parlerò nel suo insieme.
+
+54
+
+L’ultima parte di questo documento è composta da ventidue tavole, dalla 54ª alla 75ª inclusa. Nella prima si trova la rappresentazione convenzionale di un cavaliere completamente armato; quest’ultimo, come se rappresentasse l’intero corpo umano, parte da Hastings nella mattina di quel giorno d’ottobre che, entro il tramonto, avrebbe determinato il destino dell’Inghilterra.
+
+Più di un scrittore inglese moderno ha affermato che il soldato descritto in questo modo sia proprio William stesso; pertanto, il cavallo sarebbe quello spagnolo che Alfonso aveva donato a William, e il suo cavaliere sarebbe Walter Giffard, l’antico fedele di William, che lo aveva riportato con sé dalla Spagna.
+
+Ora, tutto questo – con tutte queste masse di “Freemen”, – non è solo una congettura, ma anche una congettura errata. Ovunque appaia William, viene chiamato William, e è impossibile, date le condizioni dell’epoca, che la sua figura venga indicata con il nome generico di “cavaliere”. Inoltre, la figura convenzionale che guida il cavallo non è un anziano; anzi, se mai, è piuttosto giovane.
+
+Non ripeterò qui ciò che ho detto altrove riguardo all’equipaggiamento del cavaliere, anche se questo particolare riquadro conferma in modo molto evidente le conclusioni dell’introduzione riguardo all’età di quel documento.
+
+55
+
+56
+
+I due panello successivi (55 e 56) sono molto interessanti perché mostrano con quali convenzioni l’artista rappresenta l’atto di schieramento delle truppe. Quando la cavalleria marcia in colonna, l’artista posiziona ciascuna figura in modo che si sovrapponga leggermente alla seguente, lasciando così spazio per i cavalli; per rappresentare invece lo schieramento in una larga colonna d’attacco, poiché non possiede la padronanza della prospettiva, fa avanzare i cavalli al galoppo e li distanzia molto l’uno dall’altro.
+
+57
+
+58
+
+59
+
+60
+
+Il prossimo punto di interesse in questi pannelli riguarda la figura di Guglielmo: egli non impugna una spada o una lancia, ma un bastone simbolo dell’autorità; alle sue spalle c’è una figura che regge uno scettro, e solo ancora più indietro si trova qualcosa che assomiglia al vessillo consacrato menzionato dalle cronache. Qui si riscontra un conflitto tra il “Tappeto” e Wace, nonché delle divergenze tra i due testi; questo dimostra (così come l’episodio della Guerra Bretone) che, sebbene il nostro documento si basi in gran parte su Wace, deve necessariamente contenere anche altre fonti. Nel poema, infatti, è Guglielmo stesso a inviare il vessillo consacrato davanti alle truppe, e questo è effettivamente ciò che ci si aspetterebbe; mentre l’episodio in cui Guglielmo interroga Vital riguardo ai risultati delle sue ricognizioni, sebbene sembri essere stato un evento particolarmente memorabile per alcuni contemporanei, non è menzionato nelle cronache. Non esistono prove che ci dicano chi fosse realmente Vital: si trattava di un nome conosciuto in Normandia; appare su un atto notarile del fratello di Guglielmo nell’elenco dei testimoni, e ancora una volta nel “Doomsday” sotto lo stesso signore. Questo Vital del “Tappeto” sembra indicare la direzione verso cui si trovavano i ricognitori (rappresentati come figure convenzionali nel 58° pannello); in questo caso c’è un piccolo tocco di realismo che rappresenta grande interesse per coloro che hanno studiato questo argomento. Si noterà che questi ricognitori sono raffigurati mentre si trovano sulla sommità e sulle pendici di una collina, mentre sul versante opposto ci sono degli alberi; questa collina, da cui i ricognitori scorsero l’esercito di [[Harold]] (che aveva marciato durante la giornata precedente e si era schierato dopo quell’imponente avanzata partita da Londra – una delle più rapide nella storia), è oggi conosciuta come Telham Hill. La cresta su cui sorge la fattoria di Telham rappresenta la sommità oltre la quale i ricognitori non proseguirono; il bosco presente sulla pendice immediatamente sotto è quello raffigurato in questo pannello. Nel pannello successivo (59), come indica l’iscrizione, accade il contrario nel caso di Harold: i suoi ricognitori, rappresentati a piedi, vanno ad informare Harold, che è a cavallo, del contatto stabilito con il nemico. Il 60° pannello raffigura il discorso che Guglielmo tenne alle sue truppe prima della battaglia; la maggior parte delle cronache menziona questo episodio, in particolare Wace. Nel pannello successivo si ripete la disposizione delle truppe descritta in precedenza, e poi seguono quattro pannelli (dal 62 al 65) privi di iscrizioni; le parole sopra di essi rappresentano semplicemente il proseguimento della leggenda relativa al discorso di Guglielmo: “Che si preparino coraggiosamente e con abilità alla battaglia contro l’esercito inglese”. Questi quattro pannelli costituiscono lo sforzo dell’artista, con i mezzi a sua disposizione, per dare un’idea dell’ordine di battaglia.
+
+61
+
+62
+
+63
+
+64
+
+65
+
+Ora sappiamo quale fosse quell’ordine di attacco. C'erano tre colonne d’assalto, composte da cavalieri completamente armati e a cavallo. Quella a sinistra era formata principalmente da Bretoni e aveva il compito di caricare attraverso lo spazio ora occupato dal laghetto nel parco della Battle Abbey, o adiacente ad esso. Quella che doveva attaccare la parte più ripida della collina doveva attraversare il terreno su cui oggi sorge la stazione; era una colonna principalmente francese e guidata da Roger di Montmorency. La colonna centrale, incaricata di attaccare la cresta della collina tra le altre due, era composta principalmente da Normanni e guidata dallo stesso Guglielmo. Sulla promontorio sporgente su cui avrebbero attaccato queste tre colonne si trovavano i Sassoni a piedi; essi facevano affidamento soprattutto sull’ascia come arma difensiva, ma anche sulla lancia da lancio e, in misura minore, sulla spada. Davanti all’esercito attaccante era disposta in formazione aperta una linea di arcieri il cui compito principale era quello di utilizzare costantemente le armi da lancio per indebolire l’infanteria nemica, permettendo così alla cavalleria di caricare con maggiore efficacia.
+
 
 
 <span class="atom-split" data-atom="story_02_notes--part_06" data-title="The Book of the Bayeux Tapestry — Notes (part 6)" data-chapter="Notes" data-kind="excerpt" data-tags="character/harold"></span>
@@ -739,3 +1049,44 @@ The last two panels (75 and 76) are the breaking of the ranks and the flight. Th
 It has been suggested that the Tapestry continued further than the point at which it now ends, both because it is somewhat frayed at that end and because in the description of another Tapestry (lost) the account of the day following the battle is given.
 
 What seems to me to prove definitely that the Tapestry did end almost exactly where its frayed edge terminates it to-day, is the fact that it was exactly of a length to go round the nave of Bayeux Cathedral, and that the measurements of the existing stuff correspond with that length.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Tutto ciò l’artista ha cercato di rappresentare. L’attacco è raffigurato sia a destra che a sinistra e si abbatte su un corpo che si trova di fronte a due direzioni; questo serve a simboleggiare la convergenza delle tre colonne sulla parte semicircolare della posizione sassone sul Colle della Battaglia. Non sono presenti figure specifiche; nemmeno [[Harold]] viene riconosciuto in alcuna rappresentazione. Alcuni critici, particolarmente ingegnosi, hanno scorto nella figura che guida l’assalto normanno il volto di Taillefer, “l’Acciaio-falcio”, che certamente si presentò davanti all’esercito cantando la sua canzone di Roncesvalles e lanciando la sua spada (o, secondo un’altra versione, la sua lancia) in aria. Nella Tappezzeria, tuttavia, nulla di tutto ciò è rappresentato.
+
+66
+
+67
+
+68
+
+I due pannelli successivi (66 e 67) raffigurano la morte dei due fratelli di [[Harold]]. Oltre all’introduzione delle figure di questi due principi, Lewine e Gyrth, l’interesse di questi pannelli risiede anche negli equipaggiamenti militari rappresentati. Su quattro dei cavalieri francesi in carica si vedono i lacci incrociati che fissavano le gambe sotto l’armatura; nelle mani di uno degli inglesi compare lo scudo rotondo con la protuberanza centrale, elemento che ricomparirà nella scena della morte di [[Harold]]. Direi, in modo provvisorio e suscettibile di correzioni, che questo simbolo rappresentasse qualcosa di “antiquato” nell’equipaggiamento sassone. Nella parte inferiore dei pannelli lo stesso tipo di scudo appare ancora due volte tra i cadaveri. Gyrth e Lewine si trovavano vicino a Harold; una cronaca afferma che William stesso abbia ucciso Gyrth con un colpo della sua mazza, ma nell’opera non vi è alcuna traccia di questo episodio: né figure armate di mazza, né menzioni di William. Il 68° pannello rappresenta, probabilmente, il tentativo più riuscito dell’artista di catturare l’intensità dell’assalto. Ciò è evidente nelle scene esagerate delle cavalcature e dei loro cavalieri; particolarmente degno di nota è inoltre la rappresentazione della “Collina della Battaglia”, del cavallo che inciampa al suo avvicinamento e della difesa effettuata dai soldati sassoni sulla cima della collina.
+
+69
+
+Con il 69° fumetto ci avviciniamo ai tentativi fatti nella seconda parte della “Tappetiéra” di introdurre nuove figure. Questo tentativo ha scatenato notevoli controversie storiche: sebbene alcuni aspetti dei ritratti siano evidenti, altri, come vedremo tra poco, lasciano spazio a dibattiti.
+
+70
+
+71
+
+Innanzitutto, nel 69° riquadro stesso, vediamo Odo di Bayeux, vescovo e fratello di Guglielmo, con l’iscrizione tipicamente francese “Pueros suos”, che significa “i suoi uomini”. “Ecco Odo, il vescovo, che incoraggia i suoi uomini con un bastone”, o letteralmente, “i suoi figli”. Questo spiega l’uso moderno nell’esercito francese del termine “mes enfants” per indicare gli uomini. Tutto ciò è abbastanza chiaro; ma il riquadro successivo (n. 70) ha scatenato la controversia di cui parlo. Qui si vedono tre uomini che avanzano all’attacco: il primo impugna una spada, il secondo tiene in mano un mazza o uno scettro e solleva la visiera del suo elmo, mentre il terzo regge una lancia e uno stendardo, o, come si diceva all’epoca in francese, un Gonfanon. Sopra il gruppo è scritto: “Ecco il Duca Guglielmo”. È abbastanza certo che la poesia di Wace (a cui i riquadri di questa parte del Tappeto seguono con grande fedeltà) sia stata qui ignorata dall’artista, e che si sia seguito invece il racconto di Benoît de Saint-More. L’episodio rappresenta, naturalmente, il momento in cui Guglielmo mostra il proprio volto ai suoi seguaci, dopo che si temeva fosse caduto in battaglia. Inoltre, la figura che regge lo stendardo è sicuramente raffigurante Eustazio di Boulogne; sopra la sua testa, in uno dei pochi frammenti danneggiati, si leggono l’inizio e la fine della parola “Eustatius”. L’iscrizione chiaramente visibile sulla figura centrale, insieme alla menzione esplicita del racconto di Benoît de Saint-More, e il fatto che la figura centrale impugni un mazza o uno scettro anziché una spada, eliminano ogni dubbio sul fatto che si tratti proprio di Guglielmo. È interessante ricordare, in relazione alla data di realizzazione del Tappeto, che l’enfasi sull’importanza di Eustazio di Boulogne nella battaglia è tipica dei cronisti del XII secolo.
+
+72
+
+73
+
+74
+
+I tre pannelli successivi portano alla fine della battaglia. “Ecco”, recita l’iscrizione, “i francesi combattono e uccidono coloro che erano con Harold”. Il numero elevato di scudi araldici presenti sul lato sassone è degno di nota, così come il ritorno dello scudo rotondo con la decorazione a bordi; inoltre, il fatto che gli arcieri siano finalmente rientrati in battaglia è indicato dalle frecce che hanno colpito gli scudi e dai loro caricatori pieni. Il fatto che i seguaci del campo spogliino i corpi dei caduti testimonia ulteriormente lo stadio a cui è giunta la battaglia; nel pannello successivo (il 74°) si assiste all’ultimo episodio: la morte stessa di Harold. Harold viene raffigurato due volte: prima in piedi vicino al suo stendardo, mentre si toglie dalla faccia la freccia che lo ha colpito; poi, abbattuto da un cavaliere che lo colpisce alla coscia con la spada. Questa descrizione segue fedelmente quanto raccontato da Wace nel suo poema: Harold viene prima colpito all’occhio da una freccia e se la toglie; poi arriva un cavaliere che lo ferisce alla coscia, fino all’osso; nello stesso istante lo stendardo cade a terra e i suoi uomini uccidono Harold.
+
+75
+
+76
+
+Gli ultimi due pannelli (75 e 76) raffigurano il momento in cui le file si disperdono e la fuga ha inizio. Non richiedono commenti, se non forse un’osservazione: l’albero tradizionale presente nell’ultimo pannello potrebbe ben rappresentare la foresta della regione del Weald, situata dietro le posizioni dei Sassoni, nella quale la folla in fuga si precipitò al calar della notte.
+
+Si è ipotizzato che la Tappezzeria si estendesse oltre il punto in cui attualmente termina: sia perché quella parte è piuttosto logora, sia perché nella descrizione di un'altra Tappezzeria (andata perduta) viene descritto l'evento successivo alla battaglia.
+
+Ciò che, a mio parere, dimostra in modo definitivo che la Tappezzeria terminava esattamente dove oggi si trova il suo bordo logoro, è il fatto che aveva esattamente la lunghezza necessaria per circondare l’abside della Cattedrale di Bayeux, e che le misure della parte attualmente conservata corrispondono a tale lunghezza.

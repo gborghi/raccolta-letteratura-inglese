@@ -3050,7 +3050,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The Two Noble Kinsmen — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,motif/city,motif/cross,motif/dance,motif/flowers,motif/home,motif/love,motif/marriage,motif/night,motif/ship,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/fear,concept/hope,concept/longing,setting/ship,character/cynthia,character/hippolyta,character/palamon,character/theseus"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Two Noble Kinsmen — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/lover,archetype/shadow,motif/blood,motif/city,motif/cross,motif/dance,motif/death,motif/fire,motif/flowers,motif/home,motif/lion,motif/love,motif/marriage,motif/nature,motif/night,motif/ship,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/longing,concept/nature,setting/court,setting/ship,character/arcite,character/cynthia,character/diana,character/emilia,character/hippolyta,character/palamon,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -3144,6 +3144,51 @@ Now turn we towards your comforts.
 | JAILER’S DAUGHTER | What kenn’st thou? |
 | SECOND FRIEND | A fair wood. |
 | JAILER’S DAUGHTER | Bear for it, master.<br>Tack about!<br>(Sings) ‘When [[Cynthia]] with her borrowed light ...’ |
+| *(didascalia)* | Exeunt |
+| *(didascalia)* | 4.2 Enter [[Emilia]], with two pictures |
+| [[Emilia\|EMILIA]] | Yet I may bind those wounds up that must open<br>And bleed to [[Death\|death]] for my sake else—I’ll choose,<br>And end their strife. Two such young handsome men<br>Shall never fall for me; their weeping mothers<br>Following the dead cold ashes of their sons,<br>Shall never curse my cruelty. Good heaven,<br>What a sweet face has Arcitel If wise [[Nature\|nature]],<br>With all her best endowments, all those beauties<br>She sows into the births of noble bodies,<br>Were here a mortal woman and had in her<br>The coy denials of young maids, yet doubtless<br>She would run mad for this man. What an eye,<br>Of what a fiery sparkle and quick sweetness<br>Has this young prince! Here [[Love\|love]] himself sits smiling!<br>Just such another wanton Ganymede<br>Set Jove afire once, and enforced the god<br>Snatch up the goodly boy and set him by him,<br>A shining constellation. What a brow,<br>Of what a spacious majesty, he carries!<br>Arched like the great-eyed Juno’s, but far sweeter,<br>Smoother than Pelops’ shoulder! Fame and [[Honour\|honour]],<br>Methinks, from hence, as from a promontory<br>Pointed in heaven, should clap their wings and sing<br>To all the under world the loves and fights<br>Of gods, and such men near ’em. [[Palamon]]<br>Is but his foil; to him a mere dull [[Shadow\|shadow]];<br>He’s swart and meagre, of an eye as heavy<br>As if he had lost his mother; a still temper,<br>No stirring in him, no alacrity,<br>Of all this sprightly sharpness, not a smile.<br>Yet these that we count errors may become him:<br>Narcissus was a sad boy, but a heavenly.<br>O, who can find the bent of woman’s fancy?<br>I am a [[Fool\|fool]], my reason is lost in me,<br>I have no choice, and I have lied so lewdly<br>That women ought to beat me. On my knees<br>I ask thy pardon, [[Palamon]], thou art [[Alone\|alone]]<br>And only beautiful, and these the eyes,<br>These the bright lamps of [[Beauty\|beauty]], that command<br>And threaten [[Love\|love]]—and what young maid dare [[Cross\|cross]]<br>’em?<br>What a bold gravity, and yet inviting,<br>Has this brown manly face? O, [[Love\|love]], this only<br>From this hour is complexion. Lie there, [[Arcite]],<br>Thou art a changeling to him, a mere gypsy,<br>And this the noble [[Body\|body]]. I am sotted,<br>Utterly lost—my virgin’s [[Faith\|faith]] has fled me.<br>For if my brother, but even now, had asked me<br>Whether I loved, I had run mad for [[Arcite]];<br>Now if my sister, more for [[Palamon]].<br>Stand both together. Now come ask me, brother—<br>Alas, I know not; ask me now, sweet sister—<br>I may go look. What a mere [[Child\|child]] is fancy,<br>That having two fair gauds of equal sweetness,<br>Cannot distinguish, but must cry for both! |
+| *(didascalia)* | Enter a Gentlemanl |
+| [[Emilia\|EMILIA]] | How now, sir? |
+| GENTLEMAN | From the noble Duke your brother,<br>Madam, I bring you news. The knights are come. |
+| [[Emilia\|EMILIA]] | To end the quarrel? |
+| GENTLEMAN | Yes. |
+| [[Emilia\|EMILIA]] | Would I might end first!<br>What sins have I committed, chaste [[Diana]],<br>That my unspotted youth must now be soiled<br>With [[Blood\|blood]] of princes, and my chastity<br>Be made the altar where the lives of [[lovers]]—<br>Two greater and two better never yet<br>Made mothers joy—must be the sacrifice<br>To my unhappy [[Beauty\|beauty]]? |
+| *(didascalia)* | Enter [[Theseus]], [[Hippolyta]], Pirithous, and attendants |
+| [[Theseus\|THESEUS]] | Bring ’em in<br>Quickly, by any means, I long to see ’em. |
+| *(didascalia)* | Exit one or more |
+| [[Theseus\|THESEUS]] | (To [[Emilia]]) Your two contending [[lovers]] are returned,<br>And with them their fair knights. Now, my fair sister,<br>You must [[Love\|love]] one of them. |
+| [[Emilia\|EMILIA]] | I had rather both,<br>So neither for my sake should fall untimely. |
+| *(didascalia)* | Enter a Messenger |
+| [[Theseus\|THESEUS]] | Who saw ’em? |
+| PIRITHOUS | I a while. |
+| GENTLEMAN | And I. |
+| [[Theseus\|THESEUS]] | (to the Messenger)<br>From whence come you, sir? |
+| MESSENGER | From the knights. |
+| [[Theseus\|THESEUS]] | Pray speak,<br>You that have seen them, what they are. |
+| MESSENGER | I will, sir,<br>And truly what I think. Six braver spirits<br>Than these they have brought, if we judge by the<br>outside,<br>I never saw nor read of. He that stands<br>In the first place with [[Arcite]], by his seeming,<br>Should be a stout man; by his face, a prince.<br>His very looks so say him: his complexion,<br>Nearer a brown than black, stern and yet noble,<br>Which shows him hardy, fearless, proud of dangers.<br>The circles of his eyes show [[Fire\|fire]] within him,<br>And, as a heated [[Lion\|lion]], so he looks.<br>His hair hangs long behind him, black and shining,<br>Like ravens’ wings. His shoulders, broad and strong;<br>Armed long and round; and on his thigh a [[Sword\|sword]]<br>Hung by a curious baldric, when he frowns<br>To seal his will with. Better, o’ my [[Conscience\|conscience]],<br>Was never soldier’s friend. |
+| [[Theseus\|THESEUS]] | Thou hast [[Well\|well]] described him. |
+| PIRITHOUS | Yet a great deal short,<br>Methinks, of him that’s first with [[Palamon]]. |
+| [[Theseus\|THESEUS]] | Pray speak him, friend. |
+| PIRITHOUS | I guess he is a prince too,<br>And, if it may be, greater—for his show<br>Has all the ornament of [[Honour\|honour]] in’t.<br>He’s somewhat bigger than the knight he spoke of,<br>But of a face far sweeter. His complexion<br>Is as a ripe grape, ruddy. He has felt,<br>Without [[Doubt\|doubt]], what he fights for, and so apter<br>To make this cause his own. In’s face appears<br>All the fair hopes of what he undertakes,<br>And when he’s angry, then a settled valour,<br>Not tainted with extremes, runs through his [[Body\|body]]<br>And guides his arm to brave things. [[Fear]] he cannot—<br>He shows no such soft temper. His head’s yellow,<br>Hard-haired and curled, thick twined: like ivy tods,<br>Not to undo with thunder. In his face<br>The livery of the warlike maid appears,<br>Pure red and white—for yet no beard has blessed<br>him—<br>And in his [[rolling]] eyes sits victory,<br>As if she ever meant to [[Court\|court]] his valour.<br>His nose stands high, a character of [[Honour\|honour]];<br>His red lips, after fights, are fit for ladies. |
+| [[Emilia\|EMILIA]] | Must these men die too? |
+| PIRITHOUS | When he speaks, his tongue |
+| *(didascalia)* | Sounds like a trumpet. All his lineaments |
+| PIRITHOUS | Are as a man would wish ’em—strong and clean.<br>He wears a [[Well\|well]]-steeled axe, the staff of gold.<br>His age, some five-and-twenty. |
+| MESSENGER | There’s another—<br>A little man, but of a tough [[Soul\|soul]], seeming<br>As great as any. Fairer promises<br>In such a [[Body\|body]] yet I never looked on. |
+| PIRITHOUS | O, he that’s freckle-faced? |
+| MESSENGER | The same, my lord.<br>Are they not sweet ones? |
+| PIRITHOUS | Yes, they are [[Well\|well]]. |
+| MESSENGER | Methinks,<br>Being so few and [[Well\|well]] disposed, they show<br>Great and fine art in [[Nature\|nature]]. He’s white-haired—<br>Not wanton white, but such a manly colour<br>Next to an auburn, tough and nimble set,<br>Which shows an active [[Soul\|soul]]. His arms are brawny,<br>Lined with strong sinews—to the shoulder piece<br>Gently they swell, like women new-conceived,<br>Which speaks him prone to labour, never fainting<br>Under the weight of arms; stout-hearted, still,<br>But when he stirs, a tiger. He’s grey-eyed,<br>Which yields compassion where he conquers; sharp<br>To spy advantages, and where he finds ’em,<br>He’s swift to make ’em his. He does no wrongs,<br>Nor takes none. He’s round-faced, and when he smiles<br>He shows a [[Lover\|lover]]; when he frowns, a soldier.<br>About his head he wears the winner’s oak,<br>And in it stuck the favour of his lady.<br>His age, some six-and-thirty. In his hand<br>He bears a charging staff embossed with silver. |
+| [[Theseus\|THESEUS]] | Are they all thus? |
+| PIRITHOUS | They are all the sons of [[Honour\|honour]]. |
+| [[Theseus\|THESEUS]] | Now as I have a [[Soul\|soul]], I long to see ’em.<br>(To [[Hippolyta]]) Lady, you shall see men fight now. |
+| [[Hippolyta\|HIPPOLYTA]] | I Wish it,<br>But not the cause, my lord. They would show<br>Bravely about the titles of two kingdoms—<br>’Tis pity [[Love\|love]] should be so tyrannous.<br>(To [[Emilia]]) O my soft-hearted sister, what think you?<br>Weep not till they weep [[Blood\|blood]]. Wench, it must be. |
+| [[Theseus\|THESEUS]] | (to [[Emilia]])<br>You have steeled ’em with your [[Beauty\|beauty]].<br>(To Pirithous)<br>Honoured friend, To you I give the field: pray order it<br>Fitting the persons that must use it. |
+| PIRITHOUS | Yes, sir. |
+| [[Theseus\|THESEUS]] | Come, I’ll go visit ’em—I cannot stay,<br>Their fame has fired me so. Till they appear,<br>Good friend, be royal. |
+| PIRITHOUS | There shall want no bravery. |
+| *(didascalia)* | [[Emilia\|EMILIA]] aside |
+| PIRITHOUS | Poor wench, go weep—for whosoever wins<br>Loses a noble cousin for thy sins. |
 | *(didascalia)* | Exeunt |
 
 
@@ -3348,7 +3393,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="The Two Noble Kinsmen — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,motif/city,motif/desire,motif/fire,motif/flowers,motif/garden,motif/love,motif/moon,motif/prison,motif/sleep,motif/soul,motif/stars,motif/time,concept/doubt,concept/faith,concept/hope,concept/madness,concept/melancholy,concept/truth,character/emilia,character/palamon,character/witch"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="The Two Noble Kinsmen — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,motif/blood,motif/city,motif/crown,motif/desire,motif/fire,motif/flowers,motif/garden,motif/love,motif/memory,motif/moon,motif/prison,motif/sleep,motif/soul,motif/stars,motif/time,motif/well,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/madness,concept/melancholy,concept/truth,character/arcite,character/emilia,character/hippolyta,character/palamon,character/queen,character/speed,character/theseus,character/witch"></span>
 
 
 | Speaker | Line |
@@ -3376,6 +3421,26 @@ Now turn we towards your comforts.
 | JAILER | I was once, sir, in great [[Hope\|hope]] she had fixed her liking on this gentleman, my friend. |
 | WOOER | I did think so too, and would account I had a great penn’orth on’t to give half my state that both she and I, at this present, stood unfeignedly on the same terms. 66 |
 | DOCTOR | That intemperate surfeit of her eye hath distempered the other senses. They may return and settle again to execute their preordained faculties, but they are now in a most extravagant vagary. This you must do: confine her to a place where the light may rather seem to steal in than be permitted; take upon you, young sir her friend, the name of [[Palamon]]; say you come to eat with her and to commune of [[Love\|love]]. This will catch her attention, for this her mind beats upon—other objects that are inserted ’tween her mind and eye become the pranks and friskins of her [[Madness\|madness]]. Sing to her such green [[songs]] of [[Love\|love]] as she says [[Palamon]] hath sung in [[Prison\|prison]]; come to her stuck in as sweet [[Flowers\|flowers]] as the season is mistress of, and thereto make an addition of some other compounded odours which are grateful to the sense. All this shall become [[Palamon]], for [[Palamon]] can sing, and [[Palamon]] is sweet and every good thing. [[Desire]] to eat with her, carve her, drink to her, and still among intermingle your petition of grace and acceptance into her favour. Learn what maids have been her companions and playferes, and let them repair to her, with [[Palamon]] in their mouths, and appear with tokens as if they suggested for him. It is a falsehood she is in, which is with falsehoods to be combated. This may bring her to eat, to [[Sleep\|sleep]], and reduce what’s now out of square in her into their former law and regiment. I have seen it approved, how many times I know not, but to make the number more I have great [[Hope\|hope]] in this. I will between the passages of this project come in with my appliance. Let us put it in execution, and hasten the [[success]], which [[Doubt\|doubt]] not will bring forth comfort. |
+| *(didascalia)* | Exeunt |
+| *(didascalia)* | 5.1 An altar prepared. Flourish. Enter [[Theseus]], Pirithous, [[Hippolyta]], attendants |
+| [[Theseus\|THESEUS]] | Now let ’em enter and before the gods<br>Tender their holy prayers. Let the temples<br>Burn bright with sacred fires, and the altars<br>In hallowed clouds commend their swelling incense<br>To those above us. Let no due be wanting. |
+| *(didascalia)* | Flourish of cornetts |
+| [[Theseus\|THESEUS]] | They have a noble work in hand, will [[Honour\|honour]]<br>The very powers that [[Love\|love]] ’em. |
+| *(didascalia)* | Enter [[Palamon]] with his three Knights at one door, and [[Arcite]] with his three Knights at the other door |
+| PIRITHOUS | Sir, they enter. |
+| [[Theseus\|THESEUS]] | You valiant and strong-hearted enemies,<br>You royal german foes that this day come<br>To blow that nearness out that flames between ye,<br>Lay by your anger for an hour and, dove-like,<br>Before the holy altars of your helpers,<br>The all-feared gods, bow down your stubborn bodies.<br>Your ire is more than mortal—so your help be;<br>And as the gods regard ye, fight with justice.<br>I’ll leave you to your prayers, and betwixt ye<br>I part my wishes. |
+| PIRITHOUS | [[Honour]] [[Crown\|crown]] the worthiest. |
+| *(didascalia)* | Exit [[Theseus]] and his train |
+| [[Palamon\|PALAMON]] | (to [[Arcite]])<br>The glass is running now that cannot finish<br>Till one of us expire. Think you but thus,<br>That were there aught in me which strove to show<br>Mine enemy in this business, were’t one eye<br>Against another, arm oppressed by arm,<br>I would destroy th’offender—coz, I would,<br>Though parcel of myself. Then from this gather<br>How I should tender you. |
+| [[Arcite\|ARCITE]] | I am in labour<br>To push your name, your ancient [[Love\|love]], our kindred,<br>Out of my [[Memory\|memory]], and i’th’ selfsame place<br>To seat something I would confound. So hoist we<br>The sails that must these vessels port even where<br>The heavenly limiter pleases. |
+| [[Palamon\|PALAMON]] | You speak [[Well\|well]].<br>Before I turn, let me embrace thee, cousin—<br>This I shall never do again. |
+| [[Arcite\|ARCITE]] | One farewell. |
+| [[Palamon\|PALAMON]] | Why, let it be so—farewell, coz. |
+| [[Arcite\|ARCITE]] | Farewell, sir. |
+| *(didascalia)* | Exeunt [[Palamon]] and his three Knights |
+| [[Arcite\|ARCITE]] | Knights, kinsmen, [[lovers]]—yea, my sacrifices,<br>True worshippers of Mars, whose spirit in you<br>Expels the seeds of [[Fear\|fear]] and th’apprehension<br>Which still is father of it, go with me<br>Before the god of our profession. There<br>Require of him the hearts of lions and<br>The breath of tigers, yea, the fierceness too,<br>Yea, the [[Speed\|speed]] also—to go on, I mean,<br>Else wish we to be snails. You know my prize<br>Must be dragged out of [[Blood\|blood]]—force and great feat<br>Must put my garland on me, where she sticks,<br>The [[Queen\|queen]] of [[Flowers\|flowers]]. Our intercession, then,<br>Must be to him that makes the camp a cistern<br>Brimmed with the [[Blood\|blood]] of men—give me your aid,<br>And bend your spirits towards him. |
+| *(didascalia)* | They kneel before the altar, fall on their faces, then on their knees again |
+| [[Arcite\|ARCITE]] | (Praying to Mars)<br>Thou mighty one,<br>That with thy power hast turned green Neptune into<br>purple;<br>Whose havoc in vast field comets prewarn,<br>Unearthed skulls proclaim; whose breath blows down<br>The teeming Ceres’ foison; who dost pluck<br>With hand armipotent from forth blue clouds<br>The masoned turrets, that both mak’st and break’st<br>The stony girths of cities; me thy pupil,<br>Youngest follower of thy drum, instruct this day<br>With military skill, that to thy laud<br>I may advance my streamer, and by thee<br>Be styled the lord o’th’ day. Give me, great Mars,<br>Some token of thy pleasure.<br>Here they fall on their faces, as formerly, and there is heard clanging of armour, with a short thunder, as the burst of a battle, whereupon they all rise and bow to the altar<br>O great corrector of enormous times,<br>Shaker of o’er-rank states, thou grand decider<br>Of dusty and old titles, that heal’st with [[Blood\|blood]]<br>The earth when it is sick, and cur’st the world<br>O’th’ plurisy of people, I do take<br>Thy signs auspiciously, and in thy name,<br>To my design, march boldly. (To his Knights) Let us go. |
 | *(didascalia)* | Exeunt |
 
 

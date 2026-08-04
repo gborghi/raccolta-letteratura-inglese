@@ -17701,7 +17701,7 @@ stati intrappolati dentro un manicomio.»
 rispose lui con fermezza. «E in tali circostanze, non mi dispiace
 dirvi che, con mio rammarico, non è un manicomio.»
 
-«Che cosa intendete?»
+«Cosa volete dire?»
 
 «È qualcosa di peggio», rispose Gale.
 

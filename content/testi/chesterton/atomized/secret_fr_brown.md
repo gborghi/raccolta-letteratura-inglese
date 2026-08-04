@@ -7714,6 +7714,49 @@ hours if he had a poem to do. Orm's own counsel was quite as stupid. It
 never occurred to him to ask Orm the obvious question."
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il prigioniero salì sul banco dei testimoni, soprattutto perché il suo astuto avvocato calcolò che non farlo avrebbe creato una cattiva impressione. Tuttavia, fu quasi altrettanto reticente sia con il proprio avvocato che con l’avvocato della parte pubblica. Sir [[Arthur]] Travers cercò in tutti i modi di sfruttare al massimo il suo ostinato [[Silence|silenzio]], ma non riuscì a farlo rompere. Sir [[Arthur]] era un uomo alto e magro, con un viso lungo e cadaverico, in netto contrasto con la figura robusta e gli occhi luminosi di Sir Matthew Blake. Ma se Sir Matthew poteva essere paragonato a un pettirosso pieno di fiducia in sé stesso, Sir [[Arthur]] sarebbe stato molto più appropriatamente paragonato a una gru o a una cicogna: quando si chinava in avanti per porre domande al poeta, il suo lungo naso sembrava davvero un becco.
+
+“Volete dire davvero alla giuria,” chiese lui, con toni di [[Incredulity|incredulità]] stridula, “che non siete mai entrato a vedere il signore deceduto?”
+
+“No!” rispose brevemente Orm.
+
+“Volevi vederlo, immagino. Devi essere stato molto ansioso di incontrarlo. Non hai aspettato per due ore intere davanti alla sua porta?”
+
+“Sì,” rispose l’altro.
+
+“Eppure non ti sei nemmeno accorto che la porta era aperta, ”
+
+“No,” disse Orm.
+
+“Cosa diavolo stavate facendo per due ore nel giardino di qualcun altro?” insistette l’avvocato; “Dovevate pur stare facendo qualcosa, no?”
+
+“Sì, davvero.”
+
+“È un segreto?” chiese Sir [[Arthur]] con una leggerezza incrollabile.
+
+“È un segreto che appartiene solo a te,” rispose il poeta.
+
+Fu proprio su questa ipotesi di un segreto che Sir [[Arthur]] basò lo sviluppo delle sue accuse. Con una audacia che alcuni considerarono senza scrupoli, trasformò proprio il mistero stesso del movente – che rappresentava la parte più forte dell’argomentazione del suo avversario – in un argomento a proprio favore. Presentò questa ipotesi come il primo indizio frammentario di una cospirazione vasta ed elaborata, nella quale un patriota era perito, come se fosse stato intrappolato nelle tentacoli di un polpo.
+
+“Sì,” gridò con voce tremante, “il mio stimato amico ha perfettamente ragione! Non conosciamo il motivo esatto per cui questo onorevole funzionario pubblico è stato assassinato. E non lo sapremo nemmeno per il prossimo funzionario pubblico che verrà ucciso. Se anche il mio amico dovesse diventare vittima di quell’odio profondo che le forze del male nutrono nei confronti dei difensori della legge, non saprà mai il motivo del suo assassinio. Metà delle persone oneste in questa [[Court|corte]] verranno massacrate nel loro letto. E noi non sapremo mai il motivo. E non scopriremo mai la verità né fermeremo questo massacro, finché non avrà spopolato il nostro paese. Finché si permetterà alla difesa di bloccare qualsiasi indagine con quella banale scusa del ‘motivo’, mentre ogni altro elemento del caso, ogni incongruenza evidente, ogni silenzio incomprensibile ci dimostra che ci troviamo di fronte a un vero e proprio [[Cain]]”.
+
+“Non sapevo che Sir [[Arthur]] fosse così eccitato,” disse Bagshaw al suo gruppo di compagni in seguito. “Alcuni dicono che abbia superato i limiti consentiti, e che un pubblico ministero in un caso di omicidio non dovrebbe essere così vendicativo. Ma devo ammettere che c’era qualcosa di davvero inquietante in quel piccolo individuo dai capelli gialli, che sembrava alimentare ancora di più quell’impressione negativa. Continuavo a ricordare, in modo vago, qualcosa che De Quincey aveva detto su Mr. Williams, quel terribile criminale che aveva massacrato due intere famiglie quasi senza emettere un suono. Diceva che Williams avesse i capelli di un giallo innaturale e vivido; e che probabilmente fossero stati tinti con un trucco appreso in India, dove si tingono i cavalli di verde o blu. Poi c’era quel suo strano silenzio, cupo e ostile, come quello di uno stregone. Non negherò mai che tutto questo mi abbia messo a disagio, fino al punto di pensare che nel porto ci fosse davvero qualche sorta di, ” “Mostro”. “Se solo quell’eloquenza fosse stata soltanto quella di Sir [[Arthur]], allora sicuramente ha assunto una grande responsabilità, imprimendo in quelle parole tutta quella passione.”
+
+“Infatti, era un amico di povera Gwynne,” disse Underhill con maggiore dolcezza; “un uomo che ho conosciuto li ha visti frequentarsi insieme dopo una grande cena legale l’altro giorno. Credo sia per questo che si sente così coinvolto in questa faccenda. Penso che sia discutibile se un uomo debba agire in questo modo basandosi soltanto su sentimenti personali.”
+
+“Non lo farebbe,” disse Bagshaw. “Scommetto che Sir [[Arthur]] Travers non agirebbe solo seguendo l’istinto, per quanto forte esso fosse. Ha una forte consapevolezza della propria posizione professionale; è uno di quegli uomini ambiziosi anche quando hanno già realizzato i propri obiettivi. Non conosco nessuno che si impegnerebbe così tanto per mantenere la propria posizione nel mondo. No, avete frainteso il vero significato del suo discorso. Se si lascia andare in quel modo, è perché pensa di poter comunque ottenere una condanna e vuole assumere un ruolo di primo piano in qualche movimento politico contro la cospirazione di cui parla. Deve avere motivi molto validi per voler condannare Orm, e motivi altrettanto solidi per credere di potercela riuscire. Questo significa che i fatti lo sosterranno. La sua fiducia, però, non sembra troppo fondata riguardo al prigioniero, ” Si rese conto della presenza di una figura insignificante nel gruppo.
+
+“Beh, Padre Brown,” disse sorridendo, “che ne pensa della nostra procedura giudiziaria?”
+
+“Beh,” rispose il prete piuttosto distrattamente, “penso che ciò che mi ha colpito di più sia quanto siano diversi gli uomini con i loro parrucchi. Parli del procuratore distrettuale, dicendo che è davvero imponente. Ma per caso l’ho visto togliersi il parrucco per un momento, e sembrava davvero un’altra persona: è piuttosto calvo, per esempio.”
+
+“Temo che questo non impedirà che sia davvero eccezionale,” rispose Bagshaw.  
+“Non intendi basare la difesa sul fatto che l’avvocato pubblico è calvo, vero?”
+
+“Non esattamente,” disse [[Father Brown|Padre Brown]] con buon umore. “A dire la[[Truth|verità]], stavo pensando a quanto poche cose alcune persone sappiano su altre persone. Supponiamo che io mi rechi tra gente remota che non ha mai nemmeno sentito parlare di Inghilterra. Supponiamo che io dica loro che nel mio paese c’è un uomo che non pone domande sulla vita e sulla[[Death|morte]] finché non si è messo in testa una cresta fatta di peli di cavallo, con piccole code dietro e riccioli grigi a spirale sui lati, come una vecchia donna dell’epoca vittoriana. Loro penserebbero che sia piuttosto eccentrico; ma in realtà non lo è affatto: è soltanto convenzionale. Lo penserebbero perché non sanno nulla dei barrister inglesi, perché non sanno nemmeno cosa sia un barrister. Beh, quel barrister stesso non sa cosa sia un poeta. Non capisce che le eccentricità di un poeta potrebbero non sembrare tali ad altri poeti. Gli sembra strano che Orm giri per un bellissimo[[Garden|giardino]] per due ore senza fare nulla. Ma un poeta non troverebbe affatto strano passare dieci ore nello stesso giardino, se avesse una poesia da scrivere. Anche il consiglio stesso di Orm era altrettanto stupido. Non gli è mai venuto in mente di porre a Orm la domanda ovvia.”
+
 
 
 <span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_06" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 6)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/detective,motif/garden,motif/mirror,motif/moon,motif/stars,motif/well,concept/mercy,setting/court,character/father_brown"></span>
@@ -8028,7 +8071,7 @@ dal suo consueto modo mite di parlare.
 «Mi accingo a sostenere» disse, «proprio ciò che lei diceva essere così
 ridicolo e impossibile.»
 
-«Che cosa intendete?»
+«Cosa volete dire?»
 
 «Fonderò la difesa» disse [[Father Brown]], «sul fatto che
 il pubblico accusatore ha la testa calva.»
@@ -12405,7 +12448,7 @@ Il prete, che parlava così con leggerezza per calmare i nervi dell'altro
 uomo, concluse dicendo, in tono più serio: «Capisco benissimo
 quanto debba avervi sconvolto. Purtroppo, ha anche sconvolto qualcos'altro.»
 
-«Che cosa intendete?»
+«Cosa volete dire?»
 
 «Ha sconvolto tutta la nostra teoria così completa,» replicò l'altro;
 e cominciò a scendere arrampicandosi giù per la riva sulla piccola striscia di sabbia presso il

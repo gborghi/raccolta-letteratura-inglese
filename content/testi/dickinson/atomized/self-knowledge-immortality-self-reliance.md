@@ -2,13 +2,13 @@
 title: "To Mr. C. H. Clark"
 author: "Dickinson"
 unitType: work
-parentWork: "works/self-knowledge-·-immortality-·-self-reliance-(dickinson)"
+parentWork: "works/self-knowledge-·-immortality-·-self-reliance-(keats)"
 tags:
   - graph/excerpt
   - author/Dickinson
 ---
 
-<div class="atom-reader" data-work="testi/dickinson/atomized/self-knowledge-immortality-self-reliance" data-author="Dickinson" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(dickinson)"></div>
+<div class="atom-reader" data-work="testi/dickinson/atomized/self-knowledge-immortality-self-reliance" data-author="Dickinson" data-workhref="works/self-knowledge-·-immortality-·-self-reliance-(keats)"></div>
 
 
 <span class="atom-split" data-atom="0010_my_wheel_is_in_the_dark" data-title="10. My wheel is in the dark!" data-chapter="" data-kind="intro" data-tags="motif/the_wheel,motif/the_grave,motif/light_and_dark,motif/the_road,concept/faith,concept/mortality,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>

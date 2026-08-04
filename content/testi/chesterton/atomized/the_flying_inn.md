@@ -9954,193 +9954,193 @@ An idea, suited to the romantic opportunism of his present absurd career, sudden
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Cheddar», disse Pump, con tutta serietà.
+“Cheddar,” disse Pump, con grande serietà.
 
 
 
-«Ma badate bene!» continuò il Capitano quasi ferocemente, agitando in ammonimento il grosso dito verso il vecchio. «Badate bene: “niente pane con il [[cheese|formaggio]]. Tutta la devastante rovina operata dal [[cheese|formaggio]] e dalle un tempo felici dimore di questo paese è stata dovuta all’avventato e insano esperimento di mangiarvi insieme il pane.” Da me non avrete pane, amico mio. Anzi, Lord Ivywood ha disposto che l’allusione a questa ignorante e depravata abitudine sia eliminata dalla [[prayer|Preghiera]] del Signore. Bevete un sorso.»
+“Ma stai attento!” continuò il Capitano quasi con ferocia, agitando il dito indice in segno di avvertimento verso l’uomo anziano. “Stai attento a quel ‘pane con il formaggio’. Tutta la devastazione causata dal formaggio e dalle un tempo felici case di questo paese sono dovute all’esperimento sconsiderato e pazzo di mangiare pane insieme al formaggio. Non avrai pane da me, amico mio. Anzi, Lord Ivywood ha ordinato che ogni riferimento a questa abitudine ignorante e depravata venga eliminato dalla preghiera del Signore. Bevi qualcosa.”
 
 
 
-Aveva già versato un po’ del liquore in due grossi bicchieri e in una tazza da tè rotta, che aveva indotto il vecchio a tirar fuori; e ora brindò solennemente in suo onore.
+Aveva già versato un po’ di quel liquido in due bicchieri spessi e in una tazza da tè rotta, che aveva fatto procurare all’uomo anziano; ora lo giurò solennemente.
 
 
 
-«Vi ringrazio di cuore, signore», disse il vecchio, usando per la prima [[Time|volta]] la sua voce incrinata. Poi bevve; e il suo vecchio volto mutò come se fosse una vecchia lanterna di corno in cui la fiamma cominci a levarsi.
+“Grazie mille, signore,” disse l’uomo anziano, usando per la prima volta la sua voce roca. Poi bevve; il suo vecchio volto cambiò espressione, come se fosse una vecchia lanterna a olio nella quale la fiamma iniziasse ad ardere.
 
 
 
-«Ar», disse. «Mio figlio l’è un marinaio.»
+“Ah,” disse. “Mio figlio diventerà un marinaio.”
 
 
 
-«Gli auguro un felice viaggio», disse il Capitano. «E vi canterò una [[Song|canzone]] sul primo marinaio che vi fu mai al mondo; e che (come Lord Ivywood acutamente osserva) visse prima del [[Time|tempo]] del rum.»
+“Gli auguro un viaggio felice,” disse il Capitano. “E vi canterò una [[Song|-canzone]] sul primo marinaio che sia mai esistito al mondo; quel marinaio che (come osserva acutamente Lord Ivywood) visse prima dell’epoca del rum.”
 
 
 
-Sedette su una sedia di legno e levò ancora una volta la voce sonora, battendo sul tavolo con la tazza da tè rotta.
+Si sedette su una sedia di legno e alzò di nuovo la voce, battendo sul tavolo con la tazza da tè rotta.
 
 
 
-«Il vecchio Noè aveva un allevamento di struzzi, e polli su vastissima scala;
+“Vecchio Noè… aveva una fattoria di struzzi e allevava un gran numero di polli.”
 
 
 
-Mangiava l’uovo con un mestolo in un portauovo grande come un secchio,
+# Mangiò l’uovo con un cucchiaio in una ciotola grande quanto un secchio
 
 
 
-E la zuppa che prendeva era Zuppa d’Elefante e il pesce che prendeva era Balena;
+#Zuppa d’elefante e pesce balena
 
 
 
-Ma tutti erano piccoli in confronto alla cantina che prese quando salpò per navigare;
+Ma tutti erano troppo piccoli rispetto alla cantina che aveva preparato prima di partire per il viaggio in mare.
 
 
 
-E Noè spesso diceva alla moglie quando si sedeva a desinare,
+“E Noè, spesso diceva alla moglie quando si sedevano a mangiare…”
 
 
 
-“Non m’importa dove vada l’[[Water|acqua]] purché non finisca nel vino.”
+“Non mi interessa dove vada l’[[Water|acqua]], purché non finisca nel vino.”
 
 
 
 
 
-“La cateratta della rupe del cielo cadde accecante dal ciglio,
+“La cascata della scogliera del cielo si riversò accecante giù dal bordo…”
 
 
 
-Come se volesse spazzar via le [[Stars|stelle]] come la schiuma se ne va giù per un lavandino,
+Come se potesse lavare via le [[Stars|stelle]], proprio come il sapone scivola nello scarico.
 
 
 
-I sette cieli precipitarono ruggendo perché le gole dell’inferno bevessero,
+#I sette cieli si abbatterono con fragore sulla gola dell’inferno per bere…
 
 
 
-E Noè aguzzò l’occhio e disse: “Pare che voglia piovere, mi sa,
+“E Noè, guardando con un occhio solo, disse: ‘Sembra che stia per piovere…’”
 
 
 
-L’[[Water|acqua]] ha annegato il Cervino profondo come una miniera del Mendip,
+L’[[Water|acqua]] ha sommerso il Monte Bianco fino a raggiungere la profondità di una miniera del Mendip.
 
 
 
-Ma non m’importa dove vada l’[[Water|acqua]] purché non finisca nel vino.”
+Ma non mi interessa dove vada l’[[Water|acqua]], purché non finisca nel vino.
 
 
 
 
 
-“Ma Noè peccò, e noi abbiamo peccato; camminammo con piedi malfermi,
+“Ma Noè ha peccato, e anche noi abbiamo peccato; barcollando sulle gambe instabili…”
 
 
 
-Finché un gran nero astemio ci fu inviato come verga,
+#Finché non ci fu inviato un enorme ubriacone nero per una canna…
 
 
 
-E non puoi avere vino a un P. S. A. o a una cappella o a un Eisteddfod;
+#Non si può trovare vino in una P.S.A., in una cappella o durante un Eisteddfod…
 
 
 
-Poiché la Maledizione dell’[[Water|Acqua]] è tornata a causa dell’ira di Dio,
+Perché la Maledizione dell’[[Water|Acqua]] è tornata a causa della collera di Dio.
 
 
 
-E l’[[Water|acqua]] è sulla mensa del Vescovo e sul sacrario del Pensatore Superiore,
+E l’[[Water|acqua]] si trova sulla scacchiera del Vescovo e nel santuario del Pensatore Superiore.
 
 
 
-Ma non m’importa dove vada l’[[Water|acqua]] purché non finisca nel vino.”
+Ma non mi interessa dove vada l’[[Water|acqua]], purché non finisca nel vino.
 
 
 
-«La [[Song|canzone]] preferita di Lord Ivywood», concluse il signor Patrick Dalroy, bevendo. «Cantateci voi una [[Song|canzone]].»
+“La canzone preferita di Lord Ivywood,” concluse il signor Patrick Dalroy mentre beveva. “Canta tu stessa una canzone per noi.”
 
 
 
-Con non poca sorpresa dei due burloni, il vecchio signore cominciò davvero, con voce tremula, a intonare,
+Per la sorpresa dei due umoristi, il vecchio signore iniziò davvero a recitare con voce tremante.
 
 
 
-«[[King|Re]] Giorgio che vive nella Città di [[London|Londra]],
+“Il [[King|Re]] Giorgio che vive nella città di [[London|Londra]],”
 
 
 
-[[Hope|Spero]] che difenderanno la sua [[Crown|corona]],
+Spero che difendano la sua [[Crown|corona]].
 
 
 
-E che Bonyparte sia ben abbattuto
+#E Bonaparte venga completamente sconfitto
 
 
 
-Il giorno di Natale, al mattino.
+La mattina di Natale.
 
 
 
 
 
-«Il vecchio Squire è andato oggi alla Muta
+"#Vecchio Squire è andato alla riunione oggi"
 
 
 
-Tutto nel suo…»
+“Tutto nel suo…”
 
 
 
-È forse una fortuna per la rapidità di questa narrazione che la [[Song|canzone]] preferita del vecchio signore, la quale consta di quarantasette strofe, fosse interrotta da un curioso incidente. La porta del casolare si aprì e un uomo dall’aria imbarazzata, in fustagno, rimase in silenzio nella stanza per qualche secondo e poi disse, senza preambolo né ulteriore spiegazione,
+Forse è stato fortunato, per la rapidità con cui si svolge questa narrazione, che la preferita canzone del vecchio signore, composta da quarantasette versi, venisse interrotta da un incidente curioso. La porta della capanna si aprì e un uomo dall’aspetto timido, vestito di velluto a coste, rimase in silenzio nella stanza per alcuni secondi, poi disse, senza preamboli né ulteriori spiegazioni.
 
 
 
-«Birra da quattro soldi.»
+“Quattro birre.”
 
 
 
-«Come dite, prego?» s’informò il cortese Capitano.
+“Scusi?” chiese cortesemente il capitano.
 
 
 
-«Birra da quattro soldi», disse l’uomo con solidità; poi, scorgendo Humphrey, parve trovare qualche altra parola nel suo vocabolario.
+“Quattro birre,” disse l’uomo con decisione; poi, vedendo Humphrey, sembrò trovare altre parole nel suo vocabolario.
 
 
 
-«Buongiorno, signor Pump. Non sapevo che aveste spostato “La Vecchia [[Ship|Nave]]”.»
+“Buongiorno, signor Pump. Non sapevo proprio come fosse riuscito a spostare ‘Quel vecchio [[Ship|Nave]]’.”
 
 
 
-Il signor Pump, con un accenno di sorriso, indicò il vecchio la cui [[Song|canzone]] era stata interrotta.
+Il signor Pump, con un sorriso malizioso, indicò l’uomo anziano il cui [[Song|canto]] era stato interrotto.
 
 
 
-«Adesso se ne occupa il signor Marne, signor Gowl», disse Pump con la rigida etichetta della campagna. «Ma per ora non ha in magazzino altro che questo rum.»
+“Ora se ne occupa il signor Marne, signor Gowl,” disse Pump con la rigida educazione tipica della campagna. “Ma per il momento non ha altro che questo rum a disposizione.”
 
 
 
-«Mèi che gnente», disse il laconico signor Gowl; e depose un po’ di denaro davanti al vecchio Marne, che lo fissò con meraviglia. Mentre si voltava per congedarsi asciugandosi la bocca col dorso della mano, la porta si mosse ancora una volta, lasciando entrare la bianca luce del sole e un uomo con un fazzoletto rosso al collo.
+“Niente di meglio,” disse il laconico signor Gowl; poi posò del denaro davanti all’anziano Marne, che lo guardò con sorpresa. Mentre si girava per andarsene e si asciugava la bocca con il dorso della mano, la porta si aprì di nuovo, lasciando entrare la luce bianca del sole e un uomo con un fazzoletto rosso al collo.
 
 
 
-«Buongiorno, signor Marne; buongiorno, signor Pump; buongiorno, signor Gowl», disse l’uomo dal fazzoletto rosso.
+“Buongiorno, signor Marne; buongiorno, signor Pump; buongiorno, signor Gowl,” disse l’uomo con il fazzoletto rosso al collo.
 
 
 
-«Buongiorno, signor Coote», dissero gli altri tre, l’uno dopo l’altro.
+“Buongiorno, signor Coote,” dissero gli altri tre, uno dopo l’altro.
 
 
 
-«Gradite del rum, signor Coote?» chiese Humphrey Pump, gioviale. «È tutto ciò che il signor Marne ha in questo momento.»
+“Vuole un po’ di rum, signor Coote?”, chiese gentilmente Humphrey Pump. “È tutto quello che il signor Marne ha al momento.”
 
 
 
-Anche il signor Coote prese un po’ di rum; e anch’egli depose un po’ di denaro sotto lo sguardo piuttosto vago del venerabile casolano. Il signor Coote stava giusto spiegando che erano tempi grami, ma che se vedevi un’insegna eri ancora a posto; glielo aveva detto un avvocato lassù a Grunton Abbot; quando la compagnia fu accresciuta e assai eccitata dall’arrivo di un chiassoso e popolare calderaio, che ordinò bicchieri per tutti e disse di avere fuori il suo [[donkey|asino]] e il carretto. Ne seguì allora una prolungata, ricca e confusa conversazione sull’[[donkey|asino]] e sul carretto, nella quale si espressero i pareri più svariati sui loro pregi; e a poco a poco cominciò a [[Dawn|balenare]] in mente a Dalroy che il calderaio stava cercando di venderli.
+Anche il signor Coote aveva un po’ di rum; e, sotto lo sguardo piuttosto vago del rispettabile contadino, lasciò anche un po’ di denaro. Il signor Coote stava appunto per spiegare che quei tempi erano difficili, ma che se si vedeva un segno positivo, allora tutto sarebbe andato bene; un avvocato di Grunton Abbot gli aveva detto proprio questo. Quando poi arrivò un rumoroso e popolare fabbro che ordinò da bere per tutti e disse di avere il suo [[donkey|asino]] e il suo carretto fuori, iniziò una lunga, confusa e ricca conversazione riguardo all’asino e al carretto; durante questa conversazione furono espresse le opinioni più varie sui loro meriti. E gradualmente a Dalroy divenne chiaro che quel fabbro stava cercando di venderglieli.
 
 
 
-Un’idea, adatta al romantico opportunismo della sua presente e assurda carriera, gli attraversò d’un tratto la mente, ed egli si precipitò fuori a guardare il carretto e l’[[donkey|asino]]. Un istante dopo era di nuovo dentro, chiedendo al calderaio quale fosse il suo prezzo, e quasi nello stesso fiato offrendo un prezzo assai più alto di quanto il calderaio avrebbe sognato di chiedere. Ciò fu però considerato una follia particolarmente concessa ai gentiluomini; il calderaio prese dell’altro rum in virtù del pagamento, e poi Dalroy, porgendo le sue scuse, sigillò la botte e la prese, insieme al [[cheese|formaggio]], per riporla in [[Bottom|fondo]] al carretto. Il denaro, tuttavia, lo lasciò ancora là, in argento e rame lucente, dinanzi alla barba d’argento del vecchio Marne.
+Un'idea, adatta all'opportunismo romantico della sua attuale carriera assurda, gli balenò improvvisamente nella mente; così uscì di corsa per controllare il carro e l’[[donkey|asino]]. Un attimo dopo era già tornato indietro, chiedendo al fabbro quale fosse la sua richiesta di prezzo e, quasi contemporaneamente, gli offrì una somma molto più alta di quanto il fabbro avrebbe mai potuto immaginare di chiedere. Questo comportamento, tuttavia, veniva considerato un atto di follia, ma una follia particolarmente tollerata dai gentiluomini. Il fabbro, grazie a quella somma, si concesse ancora un po’ di rum; poi Dalroy, scusandosi, sigillò il barile e lo portò insieme al [[cheese|formaggio]] per caricarli nel fondo del carro. Quanto all’oro e alla moneta, li lasciò comunque davanti alla barba d’argento di vecchio Marne.
 
 
 
@@ -11122,63 +11122,63 @@ And loading and untethering the quadruped, he began to lead him along.
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Non vedo perché dovrei cantare io tutte le [[songs|canzoni]]», disse. «Perché diavolo non canti una [[Song|canzone]] tu stesso? E ora che ci penso», gridò, con un accento irlandese sempre più marcato, forse non del tutto immune dall’effetto del rum, che in verità non beveva da anni, «e ora che ci penso, che ne è di quella [[Song|canzone]] tua? Tutta la mia giovinezza mi torna in questo luogo benedetto e maledetto; e ricordo quella tua [[Song|canzone]], che non è mai esistita né mai esisterà. Non ricordi ora, Humphrey Pump, quella [[Night|notte]] in cui ti cantai non meno di diciassette [[songs|canzoni]] di mia propria composizione?»
+“Non capisco perché dovrei cantare tutte queste [[songs|canzoni]],” disse. “Perché diavolo non la canti tu stesso una [[Song|canzone]]? E ora che ci penso, ” esclamò, con un accento sempre più marcato, forse non del tutto indipendente dall’effetto del rum, che in realtà non beveva da anni, “ora che ci penso, e quella tua [[Song|canzone]]? Tutta la mia giovinezza ritorna in questo posto maledetto. E ricordo quella tua [[Song|canzone]], che non è mai esistita e probabilmente non esisterà mai. Non te ne ricordi più, Humphrey Pump? Quella notte in cui ti cantai ben diciassette [[songs|canzoni]] di mia composizione, ”
 
 
 
-«Lo ricordo assai [[Well|bene]]», rispose l’inglese, con ritegno.
+“Me lo ricordo molto bene,” rispose l’inglese, con moderazione.
 
 
 
-«E non ricordi», proseguì l’esilarato irlandese, con solennità, «che se non fossi stato capace di produrre una [[Lyric|lirica]] poetica tutta tua, scritta e cantata da te stesso, minacciai di…»
+“E non vi ricordate,” continuò l’irlandese eccitato, con solennità, “che se non riuscivate a comporre una poesia lirica vostra, scritta e cantata da voi stessi, minacciavo di, ”
 
 
 
-«Di cantare ancora», disse l’impenetrabile Pump. «Sì, lo so.»
+“Per cantare di nuovo…”, disse la indecifrabile Pump. “Sì, lo so.”
 
 
 
-Con calma si mise a estrarre dalle tasche, che erano, ahimè, più simili a quelle di un bracconiere che di un locandiere, un foglio di carta piegato e sbiadito.
+Con calma, tirò fuori dalle sue tasche – che, purtroppo, assomigliavano di più a quelle di un bracconiere che a quelle di un locandiere – un pezzo di carta piegato e ingiallito.
 
 
 
-«La scrissi quando me lo chiedeste», disse semplicemente. «Non ho mai provato a cantarla. Ma la canterò io stesso, quando avrete cantato la vostra [[Song|canzone]], contro il fatto che chiunque canti.»
+“L’ho scritto quando me l’hai chiesto,” disse semplicemente. “Non ho mai provato a cantarlo. Ma lo canterò io stesso, dopo che avrai cantato la tua [[Song|-canzone]], contro chiunque voglia cantare.”
 
 
 
-«Va bene», gridò il Capitano alquanto eccitato, «per udire una [[Song|canzone]] da te – ebbene, canterò qualsiasi cosa. Questa è la [[Song|Canzone]] Contro le [[songs|Canzoni]], Hump.»
+“Bene,” esclamò il Capitano, un po’ eccitato, “sentire una [[Song|-canzone]] cantata da te, beh, canterei qualsiasi cosa. Questa è la [[Song|-canzone]] contro le altre canzoni, Hump.”
 
 
 
-E di nuovo lasciò uscire la voce come un muggito contro il [[Silence|silenzio]] serale.
+E ancora una volta, fece risuonare la sua voce come un ruggito contro il silenzio della sera.
 
 
 
-«La [[Song|canzone]] del dolore di Melisande è una [[Song|canzone]] stanca e una [[Song|canzone]] tetra,
+“La canzone del dolore di Melisande è una canzone triste e desolata.”
 
 
 
-La gloria della fattoria di [[Mariana]] era caduta in gran [[Decay|rovina]],
+La gloria della tenuta di [[Mariana]] era ormai in grave declino.
 
 
 
-La [[Song|canzone]] del [[The Raven|Corvo]] Mai Più non è mai stata detta una [[Song|canzone]] gaia,
+Il [[Song|canto]] del [[The Raven|Corvo]] Mai Più non è mai stato detto un [[Song|canto]] gaio,
 
 
 
-E le cose più luminose in Baudelaire sono tutto fuorché allegre.
+E le cose più luminose in Baudelaire sono tutt'altro che liete.
 
 
 
-Ma chi ci scriverà una [[Song|canzone]] da cavallo,
+Ma chi ci scriverà un [[Song|canto]] da cavalcata,
 
 
 
-O una [[Song|canzone]] da caccia o una [[Song|canzone]] da bevuta,
+O un [[Song|canto]] di caccia o un [[Song|canto]] da bevuta,
 
 
 
-Degna di coloro che si levarono e cavalcarono,
+Adatti a coloro che si alzarono e montarono in sella…
 
 
 
@@ -11186,49 +11186,49 @@ Quando il giorno e il vino erano rossi?
 
 
 
-Ma portatemi fuori un boccale di chiaretto,
+Ma portatemi fuori un quarto di chiaretto,
 
 
 
-E io vi scriverò una [[Song|canzone]] tintinnante,
+E vi scriverò un [[Song|canto]] tintinnante,
 
 
 
-Una [[Song|canzone]] di guerra e una [[Song|canzone]] di vino,
+Una [[Song|-canzone]] di guerra e una [[Song|-canzone]] di vino.
 
 
 
-E una [[Song|canzone]] da destare i morti.
+E un [[Song|canto]] per svegliare i morti.
 
 
 
 
 
-«La [[Song|canzone]] della furia di Fragolette è una [[Song|canzone]] florida e una [[Song|canzone]] torrida,
+“La canzone della furia di Fragolette è una canzone ricca di colori e intensa, appassionata.”
 
 
 
-La [[Song|canzone]] del dolore di Tara si canta su un’arpa senza corde,
+Il [[Song|canto]] del dolore di Tara è cantato su un'arpa scordata,
 
 
 
-La [[Song|canzone]] dell’allegro Ragazzo dello Shropshire la considero una [[Song|canzone]] perfettamente orrida,
+La canzone del gioioso ragazzo dello Shropshire la considero una canzone davvero orribile.
 
 
 
-E la [[Song|canzone]] del felice Futurista è una [[Song|canzone]] che non si può cantare.
+E la [[Song|-canzone]] del felice Futurista è una [[Song|-canzone]] che non può essere cantata.
 
 
 
-Ma chi ci scriverà una [[Song|canzone]] da cavallo,
+Ma chi ci scriverà un [[Song|canto]] da cavalcata,
 
 
 
-O una [[Song|canzone]] da battaglia o una [[Song|canzone]] da bevuta,
+O un [[Song|canto]] di battaglia o un [[Song|canto]] da bevuta,
 
 
 
-Degna dei padri tuoi e miei,
+Degno dei padri tuoi e miei,
 
 
 
@@ -11236,187 +11236,187 @@ Che sapevano pensare e prosperare?
 
 
 
-Ma la [[Song|canzone]] della [[Beauty|Bellezza]] e dell’Arte e dell’[[Love|Amore]]
+Ma il [[Song|canto]] della [[Beauty|Bellezza]] e dell'Arte e dell'[[Love|Amore]]
 
 
 
-È semplicemente una [[Song|canzone]] del tutto puzzolente,
+È semplicemente un [[Song|canto]] del tutto puzzolente,
 
 
 
-Da piegarti in [[Double|due]] e trascinarti giù,
+Per [[Double|raddoppiarti]], basta unire le tue parti e poi trascinarti giù.
 
 
 
-E dannare la tua [[Soul|anima]] da viva.
+E dannare la tua [[Soul|anima]] viva.
 
 
 
-«Prendi dell’altro rum», concluse l’ufficiale irlandese, affabilmente, «e udiamo finalmente la tua [[Song|canzone]].»
+“Prendi ancora un po’ di rum,” concluse l’ufficiale irlandese in tono amichevole, “e finalmente ascolteremo la tua [[Song|canzone]].”
 
 
 
-Con la gravità inseparabile dalla profonda convenzionalità della gente di campagna, il signor Pump spiegò il foglio su cui aveva registrato l’unica emozione avversa che fosse in lui abbastanza forte da spingere la sua infinita tolleranza inglese fino al diapason della [[Song|canzone]]. Lesse il titolo con gran cura e per intero.
+Con quella gravità inscindibile dalla profonda convenzionalità delle persone di campagna, il signor Pump aprì il foglio su cui aveva annotato l’unica emozione antagonistica abbastanza forte da spingere la sua infinita tolleranza inglese fino al punto di trasformarla in una sorta di [[Song|canto]]. Lesse il titolo con molta attenzione e per intero.
 
 
 
-«[[Song|Canzone]] Contro i Droghieri, di Humphrey Pump, unico proprietario della “Vecchia [[Ship|Nave]]”, Pebblewick. Buon Alloggio per l’Uomo e per la Bestia. Celebre come la [[house|Casa]] presso cui alloggiarono in diverse occasioni tanto la [[Queen|Regina]] Carlotta quanto Jonathan Wilde; e dove il gelataio fu scambiato per Bonaparte. Questa [[Song|canzone]] è scritta contro i Droghieri.»
+“[[Song|Canzone]] contro i negozi di alimentari, scritta da Humphrey Pump, proprietario unico di ‘The Old Ship’ a Pebblewick. Ottimo alloggio per uomini e animali. Conosciuta come la locanda in cui sia la [[Queen|Regina]] Charlotte che Jonathan Wilde soggiornarono in diverse occasioni; e dove il venditore di gelati fu scambiato per Napoleone. Questa [[Song|canzone]] è quindi indirizzata contro i negozi di alimentari.”
 
 
 
-«Dio fece il malvagio [[grocer|Droghiere]],
+“Dio ha creato il malvagio [[grocer|Rivenditore]], ”
 
 
 
-Per mistero e per segno,
+Per un mistero e un segno
 
 
 
-Affinché gli uomini fuggissero le orribili botteghe,
+# Per che gli uomini possano evitare quei terribili luoghi…
 
 
 
-E andassero a desinare nelle locande;
+# Andare nelle taverne per mangiare…
 
 
 
-Dove il lardo pende dalla trave
+#Dove si trova il bacon sul tetto
 
 
 
-E il vino sta nella botte,
+#Il vino è nel legno
 
 
 
-E Dio che fece il buon riso
+#E Dio che ha creato la buona risata
 
 
 
-Ha veduto che son cose buone.
+Ha visto che sono buoni.
 
 
 
 
 
-«Il [[grocer|Droghiere]] dal cuore malvagio
+Il malvagio [[grocer|Rivenditore]].
 
 
 
-Chiamerebbe sua madre “Signora”,
+Chiamerebbe sua madre “Signora”.
 
 
 
-E le si inchinerebbe e le farebbe riverenze,
+# E inchinandosi davanti a lei…
 
 
 
-Per dannarne la vecchia [[Soul|anima]];
+La sua anziana [[Soul|'anima]] era destinata all'inferno;
 
 
 
-E si strofinerebbe le orribili mani e chiederebbe,
+“E si strofina quelle mani orribili, chiedendo…”
 
 
 
-Quale articolo desiderasse poi;
+#Qual era l’articolo successivo?
 
 
 
-Benché mortis in articulo,
+# Morte nell’atto
 
 
 
-Dovrebbe essere il suo giusto motto.
+Dovrebbe essere il testo originale suo.
 
 
 
 
 
-«I suoi sostegni non sono i suoi figli
+“I suoi oggetti personali non sono i suoi figli”
 
 
 
-Ma sfacciati garzoni malpagati,
+Ma i ragazzi vivaci vengono pagati troppo poco.
 
 
 
-Che gridano “Cassa!” e sbattono di qua e di là,
+Chi grida “Denaro!” e fa tutto un trambusto…
 
 
 
-Per esercitare il suo malvagio traffico;
+Per esercitare la sua malvagia attività…
 
 
 
-Tiene una signora in gabbia,
+# Una signora in gabbia
 
 
 
-Con gran crudeltà tutto il giorno,
+“La parte più crudele di tutta la giornata…”
 
 
 
-E la fa contare e la chiama “Signorina”,
+“E la fa contare, chiamandola ‘Signorina’.”
 
 
 
-Finché ella non si spegne.
+Fino a quando non svanirà.
 
 
 
 
 
-«Gli animi giusti dei locandieri
+“I menti rette degli ostieri”
 
 
 
-Li inducono di quando in quando
+# Inducili di tanto in tanto
 
 
 
-A stappare una bottiglia con un amico,
+# Rompere una bottiglia con un amico
 
 
 
-O a offrire da bere a uomini senza denaro;
+O trattate gli uomini senza denaro…
 
 
 
-Ma chi ha mai veduto il [[grocer|Droghiere]]
+Ma chi ha mai visto il [[grocer|Rivenditore di alimentari]]?
 
 
 
-Offrire i suoi tè alle domestiche,
+#"Offre alle domestiche il suo tè"...
 
 
 
-O stappare una bottiglia di salsa di pesce,
+# Apri una bottiglia di salsa di pesce…
 
 
 
-O pagare a un uomo un [[cheese|formaggio]]?
+O offrire a un uomo un [[cheese|formaggio]]?
 
 
 
 
 
-«Ci vende sabbie d’Arabia
+#"Ci vende le sabbie dell’Arabia"
 
 
 
-Come zucchero, a pronti contanti,
+# Zucchero in cambio di contanti
 
 
 
-Spazza la bottega e ci vende la [[Dust|polvere]],
+Lui pulisce il suo negozio e vende la [[Dust|polvere]] che si accumula.
 
 
 
-Il sale più puro della città;
+La salvia più pura della città;
 
 
 
-Rimpinza di scatole di carne avvelenata
+Rimpinza di lattine di carne avvelenata
 
 
 
@@ -11434,7 +11434,7 @@ Ebbene, ride a più non posso.
 
 
 
-«Il Malvagio [[grocer|Droghiere]] droghiereggia
+“Il malvagio [[grocer|macellaio]] vende carne di cattiva qualità, ”
 
 
 
@@ -11442,33 +11442,33 @@ In liquori e in vino,
 
 
 
-Non francamente e in buona compagnia,
+# Non francamente e in compagnia…
 
 
 
-Come gli uomini desinano nelle locande;
+Come gli uomini cenano nelle locande;
 
 
 
-Ma stipato tra sapone e sardine
+Ma impacchettato con sapone e sardine
 
 
 
-E portato via da staffieri,
+E portato via da stallieri,
 
 
 
-Per essere ghermito da Duchesse,
+# Rapito dalle duchesse
 
 
 
-E bevuto nei camerini.
+E bevuto negli spogliatoi.
 
 
 
 
 
-«Il [[grocer|Droghiere]] istruito dall’inferno
+Il [[grocer|macellaio]] maldestro.
 
 
 
@@ -11476,11 +11476,11 @@ Ha un tempio fatto di latta,
 
 
 
-E la rovina dei buoni locandieri
+E la rovina dei buoni gestori di ostelli
 
 
 
-Vi è ad alta voce perorata;
+Vi è rumorosamente perorata;
 
 
 
@@ -11488,63 +11488,63 @@ Ma ora la sabbia sta scorrendo via
 
 
 
-Da uno zucchero d’un certo tipo,
+Da uno zucchero di dubbia specie,
 
 
 
-Il [[grocer|Droghiere]] trema; poiché il suo [[Time|tempo]]
+Il [[grocer|macellaio]] trema, perché è giunto il suo momento.
 
 
 
-Proprio come il suo peso, è scarso.»
+“Proprio come il suo peso è scarso…”
 
 
 
-Il Capitano Dalroy si stava considerevolmente riscaldando col suo liquore marinaresco, e il suo apprezzamento per la [[Song|canzone]] di Pump non era soltanto rumoroso ma attivo. Balzò in piedi e agitò il bicchiere. «Dovresti essere Poeta Laureato, Hump… hai ragione, hai ragione; non sopporteremo più tutto questo!»
+Il Capitano Dalroy si stava innervosendo sempre di più a causa del liquore marittimo che beveva, e la sua apprezzazione per la [[Song|canzone]] di Pump non era affatto silenziosa, anzi, molto vivace! Si alzò in piedi e agitò il suo bicchiere. “Dovresti essere nominato Poeta Laureate, Hump, hai ragione, davvero; non possiamo continuare così!”
 
 
 
-Si slanciò follemente su per il pendio di sabbia e indicò col palo dell’insegna verso la riva che si oscurava, dove la bassa tettoia di lamiera ondulata sorgeva quasi isolata.
+Corse disperatamente su per il pendio sabbioso e indicò con il cartello verso la riva che si stava oscurando, dove il basso capanno di ferro ondulato si ergeva quasi isolato.
 
 
 
-«Ecco il tuo tempio di latta!» disse. «Bruciamolo!»
+“Ecco il vostro tempio di latta! Bruciamolo!” disse.
 
 
 
-Si trovavano a una certa distanza lungo la costa dalla grande stazione balneare di Pebblewick e, tra il crepuscolo che si addensava e la campagna [[rolling|ondulata]], non la si poteva scorgere con chiarezza. Nulla era ormai in vista tranne la sala di lamiera ondulata presso la spiaggia e tre villette di mattoni rossi a metà costruite.
+Si trovavano a una certa distanza lungo la costa, lontani dalla grande località balneare di Pebblewick; tra il crepuscolo che si addensava e il paesaggio ondulato, non era possibile vedere nulla con chiarezza. Non si scorgeva più nulla se non il padiglione in ferro ondulato vicino alla spiaggia e tre villette a metà costruite in mattoni rossi.
 
 
 
-Dalroy pareva guardare la sala e le case vuote con gran malevolenza.
+Sembrava che Dalroy guardasse il salone e le case vuote con grande malvagità.
 
 
 
-«Guardala!» disse. «Babilonia!»
+“Guardate!” disse. “Babilonia!”
 
 
 
-Brandì l’insegna della locanda in aria come uno stendardo, e cominciò a marciare a gran passi verso il luogo, scagliando maledizioni.
+Sventolò il cartello del locale in aria come una bandiera, poi iniziò a camminare verso quel posto, lanciando maledizioni.
 
 
 
-«Fra quaranta giorni», gridò, «Pebblewick sarà distrutta. I [[dogs|Cani]] lambiranno il [[Blood|sangue]] di J. Leveson, Segretario, e gli Unicorni…»
+“In quaranta giorni,” gridò, “Pebblewick sarà distrutta. I [[dogs|cani]] berranno il [[Blood|sangue]] di J. Leveson, Segretario, ”
 
 
 
-«Torna indietro, Pat», gridò Humphrey, «hai bevuto troppo rum.»
+“Torna indietro, Pat!”, gridò Humphrey, “hai bevuto troppo rum”.
 
 
 
-«I Leoni ululeranno nei suoi alti luoghi», vociferò il Capitano.
+“I leoni urleranno sulle sue alture”, gridò il Capitano.
 
 
 
-«Gli asini ululeranno, in ogni caso», disse Pump. «Ma suppongo che l’altro [[donkey|asino]] debba seguirci.»
+“Comunque sia, i muli urleranno,” disse Pump. “Ma immagino che l’altro [[donkey|mulo]] debba seguirli.”
 
 
 
-E, caricando e slegando il quadrupede, cominciò a condurlo con sé.
+E dopo aver caricato il quadrupede e sciolto i legami che lo tenevano fermo, iniziò a guidarlo lungo la strada.
 
 
 
@@ -12079,7 +12079,7 @@ E credono che bruciamo streghe quando bruciamo solo erbacce.
 
 
 
-Ma io vengo da Castlepatrick, e il mio cuore è sulla manica;
+Ma vengo da Castlepatrick, e il mio cuore è sulla mia manica;
 
 
 
@@ -12946,43 +12946,43 @@ A very crooked kind of [[Window|window]] in the upper part of the pantomime cott
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Hai ragione,» disse Joan, guardandolo con un certo [[Wonder|stupore]], «l'ho provato anch'io.»
+“Avete ragione,” disse Joan, guardandolo con un certo [[Wonder|stupore]], “l'ho sentito anch'io.”
 
 
 
-«Quest'arte,» proseguì Ivywood come in [[A Dream|un sogno]], «prende davvero le ali dell'aurora e dimora negli estremi confini del mare. Dicono che non contenga alcuna forma di vita, ma di certo possiamo leggerne l'alfabeto con la stessa facilità dei rossi geroglifici dell'alba e del tramonto che stanno sui lembi della veste di Dio.»
+“Quest'arte,” proseguì Ivywood come in [[A Dream|un sogno]], “prende davvero le ali dell'aurora e dimora alle estremità del mare. Dicono che non contenga alcuna forma di vita, ma di certo possiamo leggerne l'alfabeto con la stessa facilità dei rossi geroglifici dell'alba e del tramonto che stanno sulle frange del manto di Dio.”
 
 
 
-«Non ti avevo mai sentito parlare così prima,» disse la dama, e accarezzò di nuovo le vivide piume violette del piccolo uccello orientale.
+“Non vi ho mai sentito parlare così prima d'ora,” disse la dama, e accarezzò di nuovo le vivide piume violette del piccolo uccello orientale.
 
 
 
-Il signor [[quoodle|Quoodle]] non ne poté più. Si era evidentemente formato un'opinione assai meschina della camera a torretta e dell'arte orientale in generale, ma vedendo l'attenzione di Joan trasferirsi ancora una volta al suo rivale, trotterellò fuori nella stanza più lunga, e trovando il varco nel legname che presto sarebbe stato tamponato con assi, ma che ancora si apriva su una vecchia scala buia, discese le scale «a balzelloni».
+Il signor [[quoodle|Quoodle]] non ne poteva più. Si era evidentemente fatto un'opinione pessima della stanza nella torretta e dell'arte orientale in generale, ma vedendo l'attenzione di Joan trasferirsi ancora una volta sul suo rivale, trotterellò fuori nella sala più lunga e, trovato il varco nel rivestimento di legno che presto sarebbe stato tappato con delle assi, ma che ancora si apriva su una vecchia scala buia, scese i gradini “galumphando”.
 
 
 
-Lord Ivywood posò delicatamente l'uccello sul dito della ragazza, e andò a una delle finestre aperte, sporgendosi un poco.
+Lord Ivywood posò delicatamente l'uccello sul dito della ragazza e andò a una delle finestre aperte, sporgendosi un poco.
 
 
 
-«Guarda qui,» disse, «non esprime forse ciò che entrambi sentiamo? Non è questa la sorta di [[house|casa]] fiabesca che dovrebbe pendere sull'ultima parete del mondo?»
+“Guardate qui,” disse, “non esprime forse ciò che sentiamo entrambi? Non è questa la [[house|casa]] da fiaba che dovrebbe stare appesa all'ultima parete del mondo?”
 
 
 
-E le accennò al davanzale della [[Window|finestra]], appena fuori dal quale pendeva la gabbia vuota dell'uccello, splendidamente lavorata in ottone o in qualche metallo giallo.
+E le fece cenno di avvicinarsi al davanzale della [[Window|finestra]], appena fuori dal quale pendeva la gabbia vuota dell'uccello, splendidamente lavorata in ottone o in qualche altro metallo giallo.
 
 
 
-«Ma questo è il meglio di tutto!» esclamò Lady Joan. «Fa sentire come se fossero davvero le Mille e una Notte. Come se questa fosse una torre dei giganteschi Genii con torrette fino alla [[Moon|luna]]; e questo fosse un Principe incantato imprigionato in un palazzo dorato sospeso alla [[Evening Star|stella della sera]].»
+“Ma questa è la cosa più bella di tutte!” esclamò Lady Joan. “Fa sentire come se fossimo davvero nelle Mille e una notte. Come se questa fosse la torre dei Genii giganteschi con le torrette fino alla [[Moon|luna]]; e questo un Principe incantato ingabbiato in un palazzo d'oro sospeso alla [[Evening Star|stella della sera]].”
 
 
 
-Qualcosa si mosse nel suo fosco ma brulicante subconscio, qualcosa come un brivido o un mutamento simile a quello per cui a metà ci accorgiamo che il tempo è cambiato, o che una musica lontana e inavvertita è cessata d'improvviso.
+Qualcosa si mosse nel suo subconscio oscuro ma brulicante, qualcosa come un brivido o un mutamento simile a quello per cui intuiamo a metà che il tempo è cambiato, o che una musica lontana e inavvertita è cessata d'improvviso.
 
 
 
-«Dov'è il cane?» chiese d'un tratto.
+“Dov'è il cane?” chiese all'improvviso.
 
 
 
@@ -12990,43 +12990,43 @@ Ivywood si voltò con un mite occhio grigio.
 
 
 
-«C'era un cane qui?» chiese.
+“C'era un cane qui?” domandò.
 
 
 
-«Sì,» disse Lady Joan Brett, e gli restituì l'uccello, che egli ripose con cura nella gabbia.
+“Sì,” disse Lady Joan Brett, e gli restituì l'uccello, che egli ripose con cura nella gabbia.
 
 
 
-Il cane per cui ella si era informata era in [[Truth|verità]] disceso rotolando giù per una buia scala a chiocciola ed era spuntato alla luce del giorno, in una parte del [[Garden|giardino]] che non aveva mai visto prima; né, invero, l'aveva vista nessun altro da qualche [[Time|tempo]] a quella parte. Era tutto intricato e invaso dalle erbacce, e l'unica traccia di opera umana, il rudere di una vecchia Cappella Gotica, si ergeva all'altezza della cintola tra innumerevoli ortiche e sozzo di funghi striscianti. La maggior parte di essi si limitava a scolorire la grigia pietra sgretolata con sfumature di bronzo o di bruno; ma alcuni, in particolare sul lato più lontano dalla [[house|casa]], erano di tinte arancioni o purpuree quasi abbastanza vivide per la decorazione orientale di Lord Ivywood. Certi occhi fantasiosi che caddero su quel luogo in seguito vi trovarono qualcosa come un'[[Allegory|allegoria]] in quei santi o arcangeli scolpiti e infranti che nutrivano parassiti tanto ardenti ed [[ephemeral|effimeri]] quanto quei funghi velenosi simili a [[Blood|sangue]] o a oro. Ma il signor [[quoodle|Quoodle]] non si era mai eretto ad allegorista, e si limitò a trotterellare sempre più addentro nella grigioverde giungla inglese. Brontolava assai contro i cardi e le ortiche, press'a poco come un uomo di [[City|città]] brontolerà per gli spintoni di una folla. Ma continuò a spingersi avanti, col naso rasente al suolo, come se avesse già fiutato qualcosa che lo interessava. E, invero, aveva fiutato qualcosa per cui un cane, salvo in occasioni speciali, è assai più interessato di quanto lo sia per i [[dogs|cani]]. Sfondando un'ultima barriera di alti e canuti cardi purpurei, sbucò su un semicerchio di terreno alquanto più sgombro, punteggiato di alberi esili, e avente, a guisa di fondale, l'arco di mattoni bruni di un vecchio tunnel. Il tunnel era tamponato con assi da una staccionata o maschera assai irregolare fatta di variopinte stecche di legno, e somigliava, in qualche modo, piuttosto a una casetta da pantomima. Davanti a essa un uomo robusto, in abiti da caccia assai malandati, se ne stava intento a una vecchia padella ammaccata che teneva sopra una fiamma piuttosto irregolare la quale, per quanto piccola, sapeva forte di rum bruciato. Nella padella, e anche sopra una botte o un barile che fungeva da tavolo lì accanto, c'erano parecchi dei funghi grigi, bruni e persino arancioni che erano spalmati sugli angeli e i draghi di pietra della cappella caduta.
+Il cane di cui aveva chiesto notizie era in [[Truth|verità]] ruzzolato giù per una scala buia e tortuosa ed era sbucato alla luce del giorno, in una parte del [[Garden|giardino]] che non aveva mai visto prima; né, del resto, l'aveva vista nessun altro da qualche [[Time|tempo]] a quella parte. Era tutta aggrovigliata e invasa dalle erbacce, e l'unica traccia di opera umana, il rudere di un'antica cappella gotica, stava immersa fino alla cintola in innumerevoli ortiche e imbrattata di funghi striscianti. La maggior parte di essi si limitava a scolorire la pietra grigia e sgretolata con sfumature di bronzo o di bruno; ma alcuni, soprattutto sul lato più lontano dalla [[house|casa]], avevano tinte arancioni o purpuree quasi abbastanza vivide per la decorazione orientale di Lord Ivywood. Certi occhi fantasiosi che in seguito si posarono su quel luogo vi trovarono qualcosa di simile a un'[[Allegory|allegoria]], in quei santi o arcangeli scolpiti e spezzati che nutrivano parassiti tanto ardenti ed [[ephemeral|effimeri]] quanto quei funghi color [[Blood|sangue]] o oro. Ma il signor [[quoodle|Quoodle]] non si era mai atteggiato ad allegorista, e si limitò a trotterellare sempre più a fondo nella giungla inglese grigioverde. Brontolò parecchio contro i cardi e le ortiche, proprio come un uomo di [[City|città]] brontola per gli spintoni della folla. Ma continuò a farsi strada in avanti, col naso rasente il suolo, come se avesse già fiutato qualcosa che lo interessava. E in effetti aveva fiutato qualcosa che a un cane, salvo in occasioni speciali, interessa molto più dei [[dogs|cani]]. Sfondando un'ultima barriera di alti e canuti cardi purpurei, sbucò su un semicerchio di terreno un po' più sgombro, punteggiato di alberi snelli, che aveva come fondale l'arco di mattoni bruni di un vecchio tunnel. Il tunnel era sbarrato da una staccionata, o maschera, assai irregolare fatta di listelli di legno variopinti, e somigliava, chissà come, a un casolare da pantomima. Davanti a essa un uomo robusto, in abiti da caccia molto malandati, stava badando a una vecchia padella ammaccata che teneva sopra una fiamma piuttosto irregolare la quale, per quanto piccola, odorava forte di rum bruciato. Nella padella, e anche sul fondo di una botte o barile che lì accanto fungeva da tavolo, c'erano parecchi di quei funghi grigi, bruni e persino arancioni che ricoprivano gli angeli e i draghi di pietra della cappella diroccata.
 
 
 
-«Salve, vecchio mio,» disse la persona nella giacca da caccia con tranquillità e senza alzare lo sguardo dalla sua cucina. «Venuto a farci visita? Vieni avanti, allora.» Lanciò un'occhiata al cane e tornò alla padella. «Se la tua coda fosse due pollici più corta, varresti cento sterline. Fatta colazione?»
+“Ehilà, vecchio mio,” disse con tranquillità la persona in giacca da caccia, senza alzare lo sguardo dalla sua cucina. “Sei venuto a farci visita? E allora vieni pure.” Lanciò un'occhiata al cane e tornò alla padella. “Se la tua coda fosse più corta di due pollici, varresti cento sterline. Hai fatto colazione?”
 
 
 
-Il cane gli trotterellò incontro e cominciò a fiutare e annusare intorno alle sue malandate ghette di cuoio. L'uomo non interruppe la sua cucina, su cui teneva fissi gli occhi ed entrambe le mani affaccendate; ma piegò il ginocchio e il piede in modo da accarezzare il quadrupede in un nervo sotto l'angolo della mascella, la cui stimolazione (come alcuni uomini di scienza hanno sostenuto) è per un cane ciò che un buon sigaro è per un uomo. Nello stesso istante una voce enorme come quella di un orco giunse dall'interno del tunnel mascherato, gridando: «E con chi stai parlando?»
+Il cane gli trotterellò incontro e cominciò ad annusare e a fiutare intorno alle sue ghette di cuoio sfondate. L'uomo non interruppe la cottura, su cui teneva fissi gli occhi e occupate entrambe le mani; ma piegò il ginocchio e il piede in modo da accarezzare il quadrupede su un nervo sotto l'angolo della mascella, la cui stimolazione (come hanno sostenuto certi uomini di scienza) è per un cane ciò che un buon sigaro è per un uomo. Nello stesso istante una voce enorme, da orco, giunse dall'interno del tunnel mascherato, gridando: “E con chi stai parlando?”
 
 
 
-Una sorta di [[Window|finestra]] assai storta nella parte superiore della casetta da pantomima si spalancò di colpo e un'enorme testa, dai capelli ritti, sorprendenti e quasi scarlatti e con occhi azzurri grandi come quelli di una rana toro, fu sporta al di sopra della scena.
+Una finestra molto storta nella parte alta del casolare da pantomima si spalancò di colpo e un'enorme testa, con capelli ritti, sorprendenti e quasi scarlatti e occhi azzurri grandi come quelli di una rana toro, si sporse sopra la scena.
 
 
 
-«Hump,» gridò l'orco. «I miei consigli morali sono andati sprecati. Nell'ultima settimana ti ho cantato quattordici [[songs|canzoni]] e mezza di mia composizione; e in cambio te ne vai in giro a rubare [[dogs|cani]]. Stai seguendo in ogni modo la via del Parroco Comesichiama, temo.»
+“Uff,” gridò l'orco. “I miei consigli morali sono andati sprecati. Nell'ultima settimana ti ho cantato quattordici [[songs|canzoni]] e mezza di mia composizione; e invece tu te ne vai in giro a rubare [[dogs|cani]]. Temo che tu stia seguendo in tutto e per tutto la strada del Reverendo Comesichiama.”
 
 
 
-«No,» disse l'uomo con la padella, imparzialmente, «il Parroco Whitelady imboccò un'ottima via per far perdere le tracce verso Pebblewick, che fui lieto di seguire. Ma credo che fosse proprio sciocco a rubare [[dogs|cani]]. Era giovane e cresciuto pio. Ne so troppo sui [[dogs|cani]] per rubarne uno.»
+“No,” disse imparzialmente l'uomo con la padella, “il parroco Whitelady aveva imboccato un'ottima pista per far perdere le proprie tracce a Pebblewick, e sono stato ben contento di seguirlo. Ma penso che sia stato proprio sciocco a rubare [[dogs|cani]]. Era giovane e cresciuto nella devozione. Io ne so troppo sui [[dogs|cani]] per rubarne uno.”
 
 
 
-«[[Well|Beh]],» chiese il grosso uomo dai capelli rossi, «e come fai a procurarti un cane così?»
+“[[Well|Bene]],” chiese il grosso uomo dai capelli rossi, “e come si fa a procurarsi un cane come quello?”
 
 
 
-«L'ho lasciato rubare me,» disse la persona che rimestava nella padella. E in effetti il cane sedeva eretto e persino arrogante ai suoi piedi, come se fosse un cane da guardia dall'alto stipendio, e fosse stato lì prima della costruzione del tunnel.
+“Lascio che sia lui a rubare me,” disse la persona che rimestava nella padella. E in effetti il cane sedeva eretto e perfino arrogante ai suoi piedi, come se fosse un cane da guardia con un lauto stipendio, e stesse lì già da prima che il tunnel fosse costruito.
 
 
 
@@ -13527,7 +13527,7 @@ Mi troverai a bere gin
 
 
 
-Nella più infima delle locande,
+Nella più infima specie di locanda,
 
 
 
@@ -13855,11 +13855,11 @@ E il suo naso aveva un uncino,
 
 
 
-E i suoi atteggiamenti erano tutt'altro che ariani;
+E i suoi atteggiamenti erano tutt'altro che Ariani;
 
 
 
-Così gli ho dato tutto il prosciutto
+Così gli diedi tutto il maiale
 
 
 
@@ -13887,7 +13887,7 @@ Sono silenzioso al pub,
 
 
 
-Sono silenzioso su una dannata vetta nel Darien;
+Sono silenzioso su una maledetta vetta nel Darien;
 
 
 
@@ -13895,7 +13895,7 @@ Perché mi riempio la vita di cose,
 
 
 
-Infilare i piselli con un coltello,
+Cacciandomi i piselli con un coltello,
 
 
 
@@ -13939,7 +13939,7 @@ E cominciò a ruggire un'altra e più antica [[Lyric|canzone]] di sua composizio
 
 
 
-Ha sofferto per idee nuove e originali,
+Soffriva di vedute nuove e originali,
 
 
 
@@ -13951,7 +13951,7 @@ Con l'erba in bocca e una [[Crown|corona]] sulla testa,
 
 
 
-Con un wowtyiddly eccetera,
+Con un wowtyiddly, ecc.
 
 
 
@@ -13989,11 +13989,11 @@ Egli offrì loro erba invece di pane,
 
 
 
-Così lo imbottirono d'erba quando gli tagliarono la testa.
+Così lo rimpinzarono d'erba quando gli tagliarono la testa.
 
 
 
-Con un wowtyiddly eccetera,
+Con un wowtyiddly, ecc.
 
 
 
@@ -14011,7 +14011,7 @@ Un uomo avanti rispetto al suo tempo
 
 
 
-Come Nabucodonosor, il [[King|Re]] degli Ebrei.
+Come Nabucodonosor il [[King|Re]] dei Giudei.
 
 
 
@@ -14025,7 +14025,7 @@ Pensò alla cosa e ci riprovò;
 
 
 
-Dava buon fieno e [[Water|acqua]] nei secchi
+Diede buona erba e [[Water|acqua]] in secchi
 
 
 
@@ -14033,7 +14033,7 @@ A mille irlandesi che martellano i binari,
 
 
 
-Con un wowtyiddly eccetera,
+Con un wowtyiddly, ecc.
 
 
 
@@ -14047,7 +14047,7 @@ Fu cosparso di pece e piume per amore della [[Conscience|coscienza]];
 
 
 
-Ma lapidare i profeti è storia antica,
+Ma lapidare i profeti è cosa antica,
 
 
 
@@ -15680,23 +15680,23 @@ Non sopportava la complessità; viveva la vita semplice;
 
 
 
-Ordinava il pranzo col megafono, in toni virili e semplici,
+Ordinava il pranzo col megafono in toni virili e semplici,
 
 
 
-E usava tutte le sue automobili per far campagna fra gli elettori, e venti telefoni;
+E usava tutte le sue automobili per battere gli elettori, e venti telefoni;
 
 
 
-Oltre a una graziosa [[Machine|macchinetta]],
+Oltre a un elegante [[Machine|congegno]],
 
 
 
-Ingegnosa e linda come mai se ne vide,
+Ingegnoso e lindo come mai se ne vide,
 
 
 
-Con cento pulegge e manovelle in mezzo,
+Con cento carrucole e manovelle in mezzo,
 
 
 
@@ -15704,7 +15704,7 @@ Fatta di ferro e tenuta ben pulita,
 
 
 
-Per issarlo fuori dal suo salubre letto ogni giorno della sua vita,
+Per issarlo fuori dal salubre letto ogni giorno della sua vita,
 
 
 
@@ -15718,7 +15718,7 @@ E lavarlo e spazzolarlo e raderlo e vestirlo per vivere la Vita Semplice.
 
 
 
-Lo dicono tutti i giornali americani che meglio conoscono la raffinatezza;
+Dicono tutti i giornali americani che di raffinatezza s'intendono;
 
 
 
@@ -15738,7 +15738,7 @@ Una Pelle di Tigre, tutta striata e picchiettata,
 
 
 
-E un Cappello a Pavone con la coda eretta,
+E un Cappello di Pavone con la coda eretta,
 
 
 
@@ -15750,7 +15750,7 @@ Che avrebbe potuto avere un effetto più marcato,
 
 
 
-E allietare l'[[Pride|orgoglio]] di un uomo più debole, bramoso di vino o di moglie;
+E lusingato l'[[Pride|orgoglio]] di un uomo più debole che agognasse vino o moglie;
 
 
 
@@ -15788,7 +15788,7 @@ In una fiamma torreggiante come un pagano dovrebbe,
 
 
 
-O persino sedere con noi qui a mensa,
+O persino sedere con noi qui a tavola,
 
 
 
@@ -16137,7 +16137,7 @@ I figli caduti di Eva
 
 
 
-Anche il profumo delle rose
+Persino l'odore delle rose
 
 
 
@@ -16159,19 +16159,19 @@ E più di quanto gli uomini credano.
 
 
 
-Non riescono nemmeno a dire
+Non sanno nemmeno dire
 
 
 
-Quando la porta si chiude e cala l'oscurità
+Quando porta e tenebra racchiudono
 
 
 
-Il parco che un ebreo recinì,
+Il parco che un ebreo recinta,
 
 
 
-Dove anche la Legge di Mosè
+Dove persino la Legge di Mosè
 
 
 
@@ -16185,7 +16185,7 @@ Vi lascerò rubare un odore;
 
 
 
-L'audace profumo di una pietra,
+Il fiero odore di una pietra,
 
 
 
@@ -16197,11 +16197,11 @@ E vecchie ossa sepolte sotto,
 
 
 
-# Le cose in cui sbagliano
+Sono cose in cui essi arrancano
 
 
 
-E sbagliare, se lasciati [[Alone|soli]].
+E sbagliano, se lasciati [[Alone|soli]].
 
 
 
@@ -16211,7 +16211,7 @@ E sbagliare, se lasciati [[Alone|soli]].
 
 
 
-Il profumo dei fiori senza odore [[Flowers|fiori]],
+Il profumo di [[Flowers|fiori]] senza profumo,
 
 
 
@@ -16219,11 +16219,11 @@ Il respiro dell'ornamento della sposa,
 
 
 
-L'odore di trappola e avvertimento,
+L'odore d'insidia e d'avvertimento,
 
 
 
-Il profumo della mattina di [[Sunday|domenica]],
+L'odore del mattino di [[Sunday|domenica]],
 
 
 
@@ -16255,7 +16255,7 @@ Non hanno naso,
 
 
 
-E solo Dio sa
+E soltanto la bontà divina conosce
 
 
 
@@ -16484,19 +16484,19 @@ E prima di uccidere il drago
 
 
 
-Bevve una pinta di birra inglese
+# Bevve una pinta di birra inglese
 
 
 
-Da un boccale inglese.
+Dall’imboccatura di un boccale inglese.
 
 
 
-Perché, per quanto digiuni di buon grado
+Perché sebbene digiuni con grande facilità…
 
 
 
-In cilicio o in cotta di maglia,
+In abiti severi o in uniforme,
 
 
 
@@ -16504,7 +16504,7 @@ Non è prudente dargli dolci
 
 
 
-Se non gli dai anche birra.
+A meno che non gli dia dell’ale.
 
 
 
@@ -16514,7 +16514,7 @@ Se non gli dai anche birra.
 
 
 
-E con gran valore liberò
+E così, con grande nobiltà, viene liberato.
 
 
 
@@ -16522,15 +16522,15 @@ La dama lasciata in pasto al drago
 
 
 
-E legata a un albero;
+Legato a un albero;
 
 
 
-Ma poiché stava per l'Inghilterra
+Ma poiché rappresentava l’Inghilterra…
 
 
 
-E sapeva che cosa l'Inghilterra significhi,
+# E sapeva cosa significasse l’Inghilterra
 
 
 
@@ -16548,7 +16548,7 @@ Non devi dargli fagioli.
 
 
 
-E porterà lo scudo che portava
+E porterà lo scudo che un tempo indossò
 
 
 
@@ -16560,11 +16560,11 @@ Con la [[Cross|croce]] di battaglia innanzi;
 
 
 
-Ma per quanto sia allegra compagnia
+Ma sebbene sia una compagnia molto piacevole…
 
 
 
-E ben lieto di pranzare,
+E molto felice di poter cenare…
 
 
 
@@ -16572,7 +16572,7 @@ Non è prudente dargli noci
 
 
 
-Se non gli dai vino.
+A meno che non gli dia del vino.
 
 
 
@@ -18133,11 +18133,11 @@ Egli il valoroso, ella la pura.
 
 
 
-Se un angelo giù dal cielo
+Se un angelo dal cielo
 
 
 
-Ti porta altre cose da bere,
+Ti reca altre cose da bere,
 
 
 
@@ -18145,7 +18145,7 @@ Ringrazialo per le sue gentili intenzioni,
 
 
 
-E va' a versarle giù nel lavandino.
+E va' a versarle nel lavandino.
 
 
 
@@ -18163,7 +18163,7 @@ Con urbanità di modi,
 
 
 
-E incoscienza del peccato;
+E inconsapevolezza del peccato;
 
 
 
@@ -18189,11 +18189,11 @@ E, come tutto l'Oriente in cui cresce,
 
 
 
-È almeno un gentiluomo;
+È perlomeno un gentiluomo;
 
 
 
-Il cacao è un mascalzone e un vigliacco,
+Il cacao è un mascalzone e un codardo,
 
 
 
@@ -18201,15 +18201,15 @@ Il cacao è una bestia volgare;
 
 
 
-Il cacao è uno scialbo, sleale,
+Il cacao è un ottuso, sleale,
 
 
 
-Mendace, strisciante mascalzone e buffone,
+Bugiardo, strisciante mascalzone e buffone,
 
 
 
-E può [[Well|ben]] essere grato
+E può assai [[Well|bene]] essere grato
 
 
 
@@ -18239,11 +18239,11 @@ Quando il vino rosso ebbe recato rossa rovina,
 
 
 
-E la [[Death|morte]]-[[Dance|danza]] dei nostri tempi,
+E la [[Dance|danza]] della [[Death|morte]] dei nostri tempi,
 
 
 
-il Cielo ci mandò l'[[Water|Acqua]] di Soda
+Il cielo ci mandò l'[[Water|Acqua]] di Soda
 
 
 
@@ -20728,43 +20728,43 @@ oltre il Ponte di Slough,
 
 
 
-mosse contro un Verme ripugnante
+Si mosse contro un Ripugnante Verme
 
 
 
-che devastava tutte le Downs,
+Che devastava tutte le Downs,
 
 
 
-e così le strade si torcono e si contorcono
+E così le strade si torcono e si contorcono
 
 
 
-(se mi è concesso il termine)
+(Se mi è concesso il termine)
 
 
 
-per il dimenarsi del Verme colpito
+Dal dimenarsi del Verme colpito
 
 
 
-che morì in sette borghi.
+Che morì in sette città.
 
 
 
-Non vedo prova scientifica
+Non vedo alcuna prova scientifica
 
 
 
-che questa idea sia fondata,
+Che quest'idea sia fondata,
 
 
 
-e direi che serpeggiavano attorno
+E direi che serpeggiavano attorno
 
 
 
-per trovare il borgo di Roundabout,
+Per trovare la città di Roundabout,
 
 
 
@@ -20772,7 +20772,7 @@ l'allegro borgo di Roundabout
 
 
 
-che fa girare il mondo.
+Che fa girare il mondo.
 
 
 
@@ -20786,7 +20786,7 @@ la cui lanterna illumina i prati,
 
 
 
-(per rubare una frase che Sir Walter Scott
+(Per rubare una frase di cui Sir Walter Scott
 
 
 
@@ -20794,11 +20794,11 @@ in cielo più non gli serve)
 
 
 
-guidi tale [[Dance|danza]] attorno al luogo dell'incontro
+Tali [[Dance|danze]] intorno al luogo del convegno
 
 
 
-che l'[[Lover|amante]] rapito dalla luna conduce;
+Conduce l'[[Lover|amante]] lunatico;
 
 
 
@@ -20810,19 +20810,19 @@ c'è più [[Faith|fede]] in un onesto [[Doubt|dubbio]],
 
 
 
-(come Tennyson ha fatto notare)
+(Come ha rilevato Tennyson)
 
 
 
-che in quei laidi credi.
+Che in quei laidi credi.
 
 
 
-Ma pace e giustizia (san Giovanni)
+Ma pace e giustizia (San Giovanni)
 
 
 
-a Roundabout possono baciarsi,
+A Roundabout possono baciarsi,
 
 
 
@@ -20830,15 +20830,15 @@ e poiché è tutto ciò che si trova intorno
 
 
 
-al piacevole borgo di Roundabout,
+Alla piacevole città di Roundabout,
 
 
 
-le strade semplicemente rimbalzano attorno
+Le strade semplicemente rimbalzano attorno
 
 
 
-per scoprire dove esso sia.
+Per scoprire dove sia.
 
 
 
@@ -20848,19 +20848,19 @@ C'è chi dice che quando Sir Lancillotto
 
 
 
-partì in cerca del Graal,
+Partì per trovare il Graal,
 
 
 
-il grigio Merlino corrugò le strade
+Il grigio Merlino aggrinzì le strade
 
 
 
-nella [[Hope|speranza]] ch'egli fallisse;
+Nella [[Hope|speranza]] che egli fallisse;
 
 
 
-tutte le strade riconducevano a Lyonesse
+Tutte le strade riconducevano a Lyonesse
 
 
 
@@ -20868,15 +20868,15 @@ e a Camelot nella Valle;
 
 
 
-Non posso dare assenso a questa
+Non posso prestare assenso a questa
 
 
 
-stravagante ipotesi,
+Stravagante ipotesi,
 
 
 
-il semplice, accorto Britanno respingerà
+Il semplice, accorto Britanno respingerà
 
 
 
@@ -20884,11 +20884,11 @@ simili dicerie (Daily Mail).
 
 
 
-Ma nelle vie di Roundabout
+Ma nelle strade di Roundabout
 
 
 
-non si trovano fazioni siffatte,
+Non si trovano simili fazioni,
 
 
 
@@ -20896,7 +20896,7 @@ né teorie da esporre intorno
 
 
 
-né su cui rotolarsi al suolo intorno,
+O su cui rotolarsi per terra attorno,
 
 
 
@@ -20920,11 +20920,11 @@ Prima che il Romano giungesse a Rye o marciasse fino al Severn,
 
 
 
-l'[[rolling|ondeggiante]] ubriacone inglese fece l'[[rolling|ondeggiante]] [[Road|strada]] inglese.
+L'[[rolling|ondeggiante]] ubriacone inglese fece l'[[rolling|ondeggiante]] [[Road|strada]] inglese.
 
 
 
-Una [[Road|strada]] barcollante, una [[rolling|ondeggiante]] [[Road|strada]], che vaga per la contea,
+Una [[Road|strada]] barcollante, una [[Road|strada]] [[rolling|ondeggiante]], che vagabonda per la contea,
 
 
 
@@ -20932,7 +20932,7 @@ e dietro a lui corsero il parroco, il sagrestano e lo squire.
 
 
 
-Una [[Road|strada]] allegra, una [[Road|strada]] labirintica, e tale quale calpestammo
+Una [[Road|strada]] allegra, una [[Road|strada]] labirintica, e tale quale percorremmo
 
 
 
@@ -20950,11 +20950,11 @@ e a combattere i Francesi non molto [[Desire|desideravo]];
 
 
 
-ma sfondai le loro baionette perché vennero schierati
+Ma sì che pestai le loro baionette perché vennero schierate
 
 
 
-a raddrizzare la storta [[Road|strada]] che un ubriacone inglese fece,
+Per raddrizzare la storta [[Road|strada]] che un ubriacone inglese fece,
 
 
 
@@ -20962,7 +20962,7 @@ là dove tu ed io scendemmo il viottolo con i boccali di birra in mano
 
 
 
-la [[Night|notte]] che andammo a Glastonbury passando per le Goodwin Sands.
+La [[Night|notte]] in cui andammo a Glastonbury passando per i Goodwin Sands.
 
 
 
@@ -21437,19 +21437,19 @@ dietro a lui; e le siepi tutte rinvigorite al sole?
 
 
 
-La cosa selvaggia andò da sinistra a destra e non sapeva qual era quale,
+La creatura selvaggia andò da sinistra a destra e non sapeva quale fosse quale,
 
 
 
-ma la [[Rose|rosa]] selvatica era sopra di lui quando lo trovarono nel fosso.
+Ma la [[Rose|rosa]] selvatica era sopra di lui quando lo trovarono nel fosso.
 
 
 
-Dio ci perdoni, né ci induri; non vedemmo così chiaro
+Dio ci perdoni, e non c'indurisca; non vedevamo così chiaro
 
 
 
-la [[Night|notte]] che andammo a Bannockburn passando per il Molo di Brighton.
+La [[Night|notte]] in cui andammo a Bannockburn passando per il Brighton Pier.
 
 
 
@@ -21459,15 +21459,15 @@ Amici miei, non torneremo a andare né a scimmiottare un'antica ira,
 
 
 
-né a protrarre la follia della gioventù fino a farne la vergogna dell'età,
+Né stireremo la follia della nostra giovinezza a farne l'onta della vecchiaia,
 
 
 
-ma percorreremo con occhi e orecchi più limpidi questo sentiero che vagabonda,
+Ma percorreremo con occhi e orecchie più limpidi questo sentiero che vagabonda,
 
 
 
-e vedremo, non drogati, nella luce della sera, la decorosa locanda della [[Death|Morte]];
+E vedremo non drogati nella luce della sera la decorosa locanda della [[Death|morte]];
 
 
 
@@ -21751,15 +21751,15 @@ E non v'è risposta in arco o cupola,
 
 
 
-poiché nessuno nella [[City|città]] delle tombe va a [[Home|casa]].
+Poiché nessuno nella [[City|città]] delle tombe va a [[Home|casa]].
 
 
 
-Eppure costoro periranno e comprenderanno,
+Eppure questi periranno e comprenderanno,
 
 
 
-poiché Dio ha pietà di questa grande terra.
+Poiché Dio ha pietà di questa gran terra.
 
 
 
@@ -21767,7 +21767,7 @@ Uomini che sono di nuovo uomini; chi va a [[Home|casa]]?
 
 
 
-Campana a stormo e trombettiere! Chi va a [[Home|casa]]?
+Campana a martello e trombettiere! Chi va a [[Home|casa]]?
 
 
 
@@ -21783,7 +21783,7 @@ E una voce d'addio... Chi è per la Vittoria?
 
 
 
-Chi è per la Libertà? Chi va a [[Home|casa]]?»
+Chi è a favore della Libertà? Chi torna a [[Home|casa]]?
 
 
 
@@ -22480,107 +22480,107 @@ Who is for Liberty? Who goes [[Home|home]]?”
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Di certo,» disse Patrick, con aria [[Innocent|innocente]], «il miglior rimedio sarebbe aspettare finché non sia stato tre giorni sui locali. Potremmo tutti conoscerci meglio.» E si guardò intorno all'ognor crescente moltitudine con nebulosa benevolenza.
+“Certo,” disse Patrick con un’aria [[Innocent|innocente]], “il miglior rimedio sarebbe aspettare che siano trascorsi tre giorni. Così potremmo conoscerci meglio tutti quanti.” E guardò intorno alla folla sempre più numerosa, con uno sguardo vago e benevolo.
 
 
 
-«Non farete nulla del genere,» disse sua signoria, con improvvisa ferocia.
+“Non dovrai fare nulla del genere,” disse il suo signore, con improvvisa ferocia.
 
 
 
-«[[Well|Ebbene]],» rispose Patrick, stancamente, «ora che ci penso, forse non lo farò. Berrò un solo bicchiere qui e me ne andrò a [[Home|casa]] a letto come un bravo bambino.»
+“Beh,” rispose Patrick, con stanchezza, “adesso che ci penso, forse non lo farò. Beverò qualcosa qui e poi andrò a [[Home|casa]] a dormire come un bravo bambino.”
 
 
 
-«E le guardie vi arresteranno,» tuonò Ivywood.
+“E gli agenti di polizia vi arresteranno,” tuonò Ivywood.
 
 
 
-«Diamine, nulla sembra andarvi a genio,» disse Dalroy sorpreso. «Grazie, comunque, per avermi spiegato la nuova legge con tanta chiarezza – "a meno che i liquori alcolici non siano stati tre giorni sui locali" – ora me la ricorderò. Spiegate sempre queste cose con tanta chiarezza. Avete commesso un solo scivolone giuridico. Le guardie non mi arresteranno.»
+“Ma niente sembra soddisfarti,” disse sorpreso Dalroy. “Comunque, grazie per aver spiegato la nuova legge in modo così chiaro, ‘A meno che i liquori alcolici non siano stati presenti nel locale per tre giorni’. Ora me lo ricorderò. Tu spieghi sempre queste cose con grande chiarezza. Hai commesso soltanto un errore legale. Gli agenti di polizia non mi arresteranno.”
 
 
 
-«E perché no?» chiese il nobiluomo, bianco di passione.
+“E perché no?”, chiese il nobile, pallido per la passione.
 
 
 
-«Perché,» gridò Patrick Dalroy; e la sua voce si levò come una tromba solitaria prima della carica, «perché non avrò infranto la legge. Perché i liquori alcolici sono stati tre giorni su questi locali. Tre mesi, più probabilmente. Perché questa è una comune bettola, Philip Ivywood. Perché quell'uomo dietro il banco vive vendendo alcolici a tutti i codardi e gli ipocriti abbastanza ricchi da corrompere un cattivo medico.»
+“Perché,” gridò Patrick Dalroy; la sua voce si alzò come una tromba solitaria prima di un assalto, “perché non ho infranto la legge. Perché alcolici sono stati in questo negozio per tre giorni. E probabilmente per altri tre mesi ancora. Perché questo è un semplice negozio di alcolici, Philip Ivywood. Perché quell’uomo dietro il bancone vive vendendo alcolici a tutti quei codardi e ipocriti che hanno abbastanza soldi da corrompere un cattivo medico.”
 
 
 
-E d'un tratto indicò il piccolo bicchierino da medicina sul banco accanto a Hibbs e Leveson.
+E all'improvviso indicò il piccolo bicchiere di vetro per medicinali posato sul bancone vicino a Hibbs e Leveson.
 
 
 
-«Cosa sta bevendo quell'uomo?» domandò.
+“Che cosa sta bevendo quell’uomo?” chiese.
 
 
 
-Hibbs allungò la mano in fretta verso il proprio bicchiere, ma l'indignato riparatore di [[Clock|orologi]] lo aveva già afferrato per primo e vuotato d'un sorso.
+Hibbs allungò rapidamente la mano per prendere il suo bicchiere, ma il furioso riparatore di orologi lo aveva già afferrato e lo svuotato in un sorso.
 
 
 
-«Uisco,» disse, e scagliò il bicchiere in mille pezzi sul pavimento. «Avete ragione anche voi,» ruggì l'intonacatore, afferrando una grossa boccetta di medicina in ciascuna mano. «Ci facciamo un po' di baldoria adesso, sissignore. Cosa c'è in quella grande coppa rossa lassù – scommetto che è porto. Tirala giù, Bill.»
+“Scortch,” disse, e mandò il bicchiere in mille pezzi sul pavimento. “Anche tu, proprio tu,” ruggì il muratore, afferrando una grande bottiglia di medicina in ogni mano. “Ora ci divertiremo un po’, sì. Cosa c’è in quella grande ciotola rossa lassù? Penso sia vino. Portamela giù, Bill.”
 
 
 
-Ivywood si volse a Crooke e disse, senza quasi muovere le labbra di marmo, «Questa è una menzogna.»
+“È una bugia,” disse Ivywood rivolgendosi a Crooke, con le labbra quasi immobili come marmo.
 
 
 
-«È la [[Truth|verità]],» rispose Crooke, ricambiando lo sguardo con pari fermezza. «Credete di aver fatto voi il mondo, da poterlo rifare tanto facilmente?»
+“È la [[Truth|verità]]”, rispose Crooke, guardandolo con lo stesso fermezza. “Pensi davvero di essere stato tu a creare il mondo, per poterlo ricostruire così facilmente?”
 
 
 
-«Il mondo fu fatto male,» disse Philip, con una nota terribile nella voce, «e io lo rifarò.»
+“Il mondo è stato creato male,” disse Philip, con un tono terribile nella voce, “e io lo creerò di nuovo.”
 
 
 
-Quasi mentre parlava, la vetrina del negozio cadde all'interno, in frantumi, e ci fu una rovina tra le coppe colorate simili a lune; quasi come se sfere di cristallo celeste si fossero incrinate alla sua bestemmia. Attraverso le finestre infrante giunse il ruggito di quella lingua confusa che è più terribile degli elementi; il grido che i re sordi hanno finalmente udito; la voce terribile dell'umanità. Per tutta la lunga e alla moda via, fiancheggiata dalle lastre di cristallo di Crooke, quel vetro andava in frantumi tra le grida di una folla. Fiumi di vini d'oro e di porpora si spandevano sul selciato.
+Appena ebbe finito di parlare, il vetro frontale del negozio crollò all’interno, frantumandosi; tra le ciotole colorate, simili alla luna, rimasero solo rottami. Era come se sfere di cristallo celestiale si fossero spezzate a causa della sua blasfemia. Attraverso le finestre rotte giunse il ruggito di quella lingua confusa e terribile. Il grido che i re sordi avevano finalmente udito: la voce spaventosa dell’umanità. Lungo tutta la strada elegante, fiancheggiata da vetrine di cristallo, il vetro andava in frantumi tra le urla della folla; fiumi di vini dorati e viola si riversavano sul marciapiede.
 
 
 
-«All'aperto!» gridò Dalroy, precipitandosi fuori dal negozio, l'insegna in mano, il cane [[quoodle|Quoodle]] che abbaiava furiosamente alle sue calcagna, mentre Dorian col [[cheese|formaggio]] e Humphrey col barilotto lo seguivano più rapidamente che potevano. «Buonanotte, mio signore.
+“Fuori, all’aperto!” gridò Dalroy, uscendo di corsa dal negozio con il cartello in mano; il cane [[quoodle|Quoodle]] abbaiava furiosamente alle sue calcagna, mentre Dorian con il [[cheese|formaggio]] e Humphrey con la botte lo seguivano il più velocemente possibile. “Buonanotte, mio signore.”
 
 
 
-«Forse il nostro prossimo incontro cadrà,
+“Forse il nostro prossimo incontro non avrà luogo…”
 
 
 
-Nel castello di Tomworth, nella vostra sala del [[Castle|castello]].
+Nella sala del castello di Tomworth.
 
 
 
-«Venite, amici, e mettetevi in fila. Non sprecate [[Time|tempo]] a distruggere proprietà. Dobbiamo partire tutti adesso.»
+“Venite con me, amici, e mettetevi in fila. Non sprecate [[Time|tempo]] distruggendo cose. Dobbiamo iniziare tutti subito.”
 
 
 
-«Dove andiamo tutti quanti?» chiese l'intonacatore.
+“Dove andremo tutti?” chiese il muratore.
 
 
 
-«Andiamo tutti in Parlamento,» rispose il Capitano, mentre si portava alla testa della folla.
+“Tutti andremo in Parlamento,” rispose il Capitano, avvicinandosi alla testa della folla.
 
 
 
-La folla in marcia svoltò due o tre angoli, e in fondo alla successiva lunga via, Dorian Wimpole, che si trovava verso la coda del corteo, rivide la grigia torre ciclopica di St. Stephen, col suo unico grande occhio dorato, come l'aveva vista contro quel pallido tramonto verde, insieme quieto e vulcanico, nella [[Night|notte]] in cui fu tradito dal [[Sleep|sonno]] e da un amico. Quasi altrettanto lontano, in testa al corteo, poteva scorgere l'insegna con la [[Ship|nave]] e la [[Cross|croce]] che li precedeva come uno stendardo, e udire una gran voce che cantava –
+La folla in marcia svoltò due o tre angoli, e alla fine della strada successiva, Dorian Wimpole, che si trovava verso la fine della processione, vide di nuovo la torre grigia del Ciclope di St. Stephens, con quel suo grande occhio dorato, esattamente come l’aveva vista contro quel tramonto verde pallido che sembrava al tempo stesso tranquillo e “volcanico” nella [[Night|notte]] in cui fu tradito dal [[Sleep|)sogno]] e da un amico. Più lontano, alla testa della processione, riusciva a vedere il cartello con la [[Ship|nave]] e la [[Cross|croce]] che li precedevano come una bandiera, e sentiva una voce potente cantare.
 
 
 
-«Uomini che sono di nuovo uomini, chi va a [[Home|casa]]?
+“Uomini che sono di nuovo uomini. Chi torna a [[Home|casa]]?”
 
 
 
-Campana a stormo e trombettiere! Chi va a [[Home|casa]]?
+Campana a martello e trombettiere! Chi va a [[Home|casa]]?
 
 
 
-La voce del commiato – chi è per la Vittoria?
+La voce che si congedava, chi è a favore della Vittoria?
 
 
 
-Chi è per la Libertà? Chi va a [[Home|casa]]?»
+Chi è a favore della Libertà? Chi torna a [[Home|casa]]?
 
 
 
@@ -23323,7 +23323,7 @@ E danzavano intorno alla Quercia,
 
 
 
-quand'avevano sacrificato un uomo;
+Quando avevano sacrificato un uomo;
 
 
 
@@ -23331,7 +23331,7 @@ ma per quanto i dotti scrutino e frughino
 
 
 
-nessuna singola persona moderna può
+Nessuna persona moderna riesce
 
 
 
@@ -23339,19 +23339,19 @@ cogliere del tutto la facezia;
 
 
 
-ma benché tagliassero la gola agli uomini
+Ma benché tagliassero la gola agli uomini
 
 
 
-non abbatterono l'albero,
+Non tagliavano l'albero,
 
 
 
-e dal [[Blood|sangue]] spuntarono i virgulti
+E dal [[Blood|sangue]] germogliarono gli alberelli
 
 
 
-dei boschi di quercia ancora a venire.
+Dei querceti ancora a venire.
 
 
 
@@ -23359,15 +23359,15 @@ Ma Ivywood, Lord Ivywood,
 
 
 
-marcisce l'albero come farebbe l'edera,
+Marcisce l'albero come farebbe l'edera,
 
 
 
-s'aggrappa e striscia come farebbe l'edera
+S'aggrappa e striscia come farebbe l'edera
 
 
 
-attorno al sacro albero.
+Intorno all'albero sacro.
 
 
 
@@ -23377,19 +23377,19 @@ attorno al sacro albero.
 
 
 
-e si nascose in una Quercia;
+E si nascose in una Quercia;
 
 
 
-nelle scuole conventuali nessun uomo di tatto
+Nelle scuole di convento nessun uomo di tatto
 
 
 
-vorrebbe ripercorrere e lodare ogni suo atto,
+Traccerebbe e loderebbe ogni suo atto,
 
 
 
-o sostenere che fosse in realtà
+O sosterrebbe che egli fosse in effetti
 
 
 
@@ -23397,11 +23397,11 @@ un tipo austero e santificato;
 
 
 
-ma non per opera sua i sacri boschi
+Ma non per opera sua i boschi sacri
 
 
 
-hanno perduto le loro libere fantasie,
+Hanno perduto le loro libere fantasie,
 
 
 
@@ -23409,7 +23409,7 @@ e benché fosse straordinariamente grosso,
 
 
 
-non spezzò l'albero.
+Non spezzò l'albero.
 
 
 
@@ -23421,11 +23421,11 @@ spezza l'albero come farebbe l'edera
 
 
 
-e divora i boschi come farebbe l'edera
+E divora i boschi come farebbe l'edera
 
 
 
-tra noi e il mare.
+Fra noi e il mare.
 
 
 
@@ -23435,11 +23435,11 @@ tra noi e il mare.
 
 
 
-e sparse liberamente le ghiande,
+E sparse le ghiande a manciate,
 
 
 
-perché querce fossero ancora nel bosco
+Affinché le querce fossero ancora nel boschetto
 
 
 
@@ -23447,27 +23447,27 @@ quercine come le travi lassù
 
 
 
-quando il grande [[Lover|Amato]] che i marinai [[Love|amano]]
+Quando il grande [[Lover|Amante]] che i marinai [[Love|amano]]
 
 
 
-fu baciato dalla [[Death|Morte]] in mare.
+Fu baciato dalla [[Death|Morte]] in mare.
 
 
 
-Ma benché per lui cadessero le querce
+Ma benché per lui le querce cadessero
 
 
 
-a costruire le navi di quercia,
+Per costruire le navi di quercia,
 
 
 
-il boscaiolo venerava ciò che colpiva
+Il boscaiolo venerava ciò che abbatteva
 
 
 
-e onorava persino le schegge.
+E onorava persino le schegge.
 
 
 
@@ -23475,7 +23475,7 @@ Ma Ivywood, Lord Ivywood,
 
 
 
-odia l'albero come farebbe l'edera,
+Odia l'albero come farebbe l'edera,
 
 
 
@@ -23551,11 +23551,11 @@ Parte del suo pubblico cominciò a ridere, ma d'un tratto cessò di farlo, mentr
 
 
 
-[[King|Re]] [[Richard]] cavalcando in armi come fiamma,
+[[King|Re]] [[Richard|Riccardo]] cavalcando in armi come fiamma,
 
 
 
-e dove stabilì che la sua gente fosse nutrita
+E dove stabilì che la sua gente fosse nutrita
 
 
 

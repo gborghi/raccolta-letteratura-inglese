@@ -5866,7 +5866,7 @@ Questo libro vuol essere il compagno di «Eretici», e aggiungere il lato positi
 
 Gilbert K. Chesterton.
 
-INDICE  
+INDICE
 
 I.    Introduzione in difesa di tutto il resto
 

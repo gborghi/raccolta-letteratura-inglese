@@ -11697,6 +11697,11 @@ CHAPTER I
 _The One Thing Needful_                3
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I
+_L'unica cosa necessaria_
+
 
 
 <span class="atom-split" data-atom="chapter_02" data-title="Hard Times — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="concept/education"></span>
@@ -11705,6 +11710,11 @@ _The One Thing Needful_                3
 CHAPTER II
 _Murdering the Innocents_              4
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II
+_L'uccisione degli innocenti_
 
 
 
@@ -11715,6 +11725,10 @@ CHAPTER III
 _A Loophole_                           8
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Un varco
+
 
 
 <span class="atom-split" data-atom="chapter_04" data-title="Hard Times — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="character/josiah_bounderby"></span>
@@ -11723,6 +11737,11 @@ _A Loophole_                           8
 CHAPTER IV
 _Mr. Bounderby_                       12
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV
+_Sig. Bounderby_                      12
 
 
 
@@ -11733,6 +11752,11 @@ CHAPTER V
 _The Keynote_                         18
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO V
+_La nota dominante_                   18
+
 
 
 <span class="atom-split" data-atom="chapter_06" data-title="Hard Times — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
@@ -11741,6 +11765,11 @@ _The Keynote_                         18
 CHAPTER VI
 _Sleary’s Horsemanship_               23
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI
+_L'equitazione di Sleary_
 
 
 
@@ -11751,6 +11780,11 @@ CHAPTER VII
 _Mrs. Sparsit_                        33
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII
+_Signora Sparsit_                   33
+
 
 
 <span class="atom-split" data-atom="chapter_08" data-title="Hard Times — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="concept/wonder"></span>
@@ -11759,6 +11793,11 @@ _Mrs. Sparsit_                        33
 CHAPTER VIII
 _Never Wonder_                        38
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VIII
+_Mai meravigliarsi_
 
 
 
@@ -11769,6 +11808,10 @@ CHAPTER IX
 _Sissy’s Progress_                    43
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il progresso di Sissy
+
 
 
 <span class="atom-split" data-atom="chapter_10" data-title="Hard Times — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="character/stephen_blackpool"></span>
@@ -11777,6 +11820,11 @@ _Sissy’s Progress_                    43
 CHAPTER X
 _Stephen Blackpool_                   49
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO X
+_Stephen Blackpool_                   49
 
 
 
@@ -11787,6 +11835,11 @@ CHAPTER XI
 _No Way Out_                          53
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XI
+_Senza via d'uscita_
+
 
 
 <span class="atom-split" data-atom="chapter_12" data-title="Hard Times — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
@@ -11795,6 +11848,11 @@ _No Way Out_                          53
 CHAPTER XII
 _The Old Woman_                       59
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XII
+_La Vecchia_
 
 
 
@@ -11805,6 +11863,11 @@ CHAPTER XIII
 _Rachael_                             63
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIII
+_Rachel_
+
 
 
 <span class="atom-split" data-atom="chapter_14" data-title="Hard Times — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
@@ -11814,6 +11877,11 @@ CHAPTER XIV
 _The Great Manufacturer_              69
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIV
+_Il Grande Produttore_
+
 
 
 <span class="atom-split" data-atom="chapter_15" data-title="Hard Times — Chapter 15" data-chapter="Chapter 15" data-kind="chapter" data-tags="character/thomas_gradgrind,character/louisa_gradgrind"></span>
@@ -11822,6 +11890,11 @@ _The Great Manufacturer_              69
 CHAPTER XV
 _Father and Daughter_                 73
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XV
+_Padre e figlia_
 
 
 
@@ -11833,6 +11906,12 @@ _Husband and Wife_                    79
 _BOOK THE SECOND_.  _REAPING_
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XVI
+_Marito e moglie_
+_LIBRO SECONDO_. _Mietitura_
+
 
 
 <span class="atom-split" data-atom="chapter_17" data-title="Hard Times — Chapter 1" data-chapter="Chapter 17" data-kind="chapter"></span>
@@ -11841,6 +11920,11 @@ _BOOK THE SECOND_.  _REAPING_
 CHAPTER I
 _Effects in the Bank_                 84
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I
+_Gli effetti alla banca_
 
 
 
@@ -11851,6 +11935,11 @@ CHAPTER II
 _Mr. James Harthouse_                 94
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II
+_Sig. James Harthouse_
+
 
 
 <span class="atom-split" data-atom="chapter_19" data-title="Hard Times — Chapter 3" data-chapter="Chapter 19" data-kind="chapter" data-tags="character/tom_gradgrind"></span>
@@ -11859,6 +11948,11 @@ _Mr. James Harthouse_                 94
 CHAPTER III
 _The Whelp_                          101
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO III
+_Il cucciolo_
 
 
 
@@ -11869,6 +11963,11 @@ CHAPTER IV
 _Men and Brothers_                   111
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV
+_Uomini e Fratelli_                   111
+
 
 
 <span class="atom-split" data-atom="chapter_21" data-title="Hard Times — Chapter 5" data-chapter="Chapter 21" data-kind="chapter" data-tags="concept/class_conflict"></span>
@@ -11877,6 +11976,10 @@ _Men and Brothers_                   111
 CHAPTER V
 _Men and Masters_                    105
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Uomini e padroni #
 
 
 
@@ -11887,6 +11990,11 @@ CHAPTER VI
 _Fading Away_                        116
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI
+_Svanendo_
+
 
 
 <span class="atom-split" data-atom="chapter_23" data-title="Hard Times — Chapter 7" data-chapter="Chapter 23" data-kind="chapter" data-tags="character/james_harthouse"></span>
@@ -11895,6 +12003,11 @@ _Fading Away_                        116
 CHAPTER VII
 _Gunpowder_                          126
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII
+_Polvere da sparo_                   126
 
 
 
@@ -11905,6 +12018,10 @@ CHAPTER VIII
 _Explosion_                          136
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Esplosione #
+
 
 
 <span class="atom-split" data-atom="chapter_25" data-title="Hard Times — Chapter 9" data-chapter="Chapter 25" data-kind="chapter"></span>
@@ -11913,6 +12030,11 @@ _Explosion_                          136
 CHAPTER IX
 _Hearing the Last of it_             146
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IX
+_Sentendo l'ultima parte_
 
 
 
@@ -11923,6 +12045,11 @@ CHAPTER X
 _Mrs. Sparsit’s Staircase_           152
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO X
+La scala della signora Sparsit
+
 
 
 <span class="atom-split" data-atom="chapter_27" data-title="Hard Times — Chapter 11" data-chapter="Chapter 27" data-kind="chapter"></span>
@@ -11931,6 +12058,11 @@ _Mrs. Sparsit’s Staircase_           152
 CHAPTER XI
 _Lower and Lower_                    156
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XI
+Sempre più in basso
 
 
 
@@ -11942,6 +12074,12 @@ _Down_                               163
 _BOOK THE THIRD_.  _GARNERING_
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XII
+_Giù_  
+_LIBRO TERZO_.  _RACCOLTA_
+
 
 
 <span class="atom-split" data-atom="chapter_29" data-title="Hard Times — Chapter 1" data-chapter="Chapter 29" data-kind="chapter"></span>
@@ -11950,6 +12088,11 @@ _BOOK THE THIRD_.  _GARNERING_
 CHAPTER I
 _Another Thing Needful_              167
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO I
+_Un'altra cosa necessaria_
 
 
 
@@ -11960,6 +12103,11 @@ CHAPTER II
 _Very Ridiculous_                    172
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II
+_Molto ridicolo_
+
 
 
 <span class="atom-split" data-atom="chapter_31" data-title="Hard Times — Chapter 3" data-chapter="Chapter 31" data-kind="chapter"></span>
@@ -11968,6 +12116,11 @@ _Very Ridiculous_                    172
 CHAPTER III
 _Very Decided_                       179
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO III
+_Molto Deciso_
 
 
 
@@ -11978,6 +12131,11 @@ CHAPTER IV
 _Lost_                               186
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV
+_Sparito_                             186
+
 
 
 <span class="atom-split" data-atom="chapter_33" data-title="Hard Times — Chapter 5" data-chapter="Chapter 33" data-kind="chapter"></span>
@@ -11986,6 +12144,11 @@ _Lost_                               186
 CHAPTER V
 _Found_                              193
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO V
+_Trovato_
 
 
 
@@ -11996,6 +12159,11 @@ CHAPTER VI
 _The Starlight_                      200
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI
+_La Luce Stellare_                   200
+
 
 
 <span class="atom-split" data-atom="chapter_35" data-title="Hard Times — Chapter 7" data-chapter="Chapter 35" data-kind="chapter"></span>
@@ -12005,6 +12173,11 @@ CHAPTER VII
 _Whelp-Hunting_                      208
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII
+_Caccia ai cuccioli_
+
 
 
 <span class="atom-split" data-atom="chapter_36" data-title="Hard Times — Chapter 8" data-chapter="Chapter 36" data-kind="chapter"></span>
@@ -12013,6 +12186,11 @@ _Whelp-Hunting_                      208
 CHAPTER VIII
 _Philosophical_                      216
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VIII
+_Filosofico_
 
 
 
@@ -12030,6 +12208,19 @@ _Mr. Harthouse Dining at the Bounderbys’_                     100
 _Mr. Harthouse and [[Tom Gradgrind]] in the Garden_               132
 _Stephen Blackpool recovered from the Old Hell Shaft_         206
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IX
+_Finale_                             222
+
+Elenco delle illustrazioni
+
+PAGINA
+_Stephen e Rachael nella stanza dei malati_                         64
+_Il signor Harthouse a cena dai Bounderby_                     100
+_Il signor Harthouse e [[Tom Gradgrind]] nel giardino_               132
+_Stephen Blackpool recuperato dal vecchio pozzo dell'inferno_         206
 
 
 
@@ -12073,6 +12264,21 @@ all backed a little, and swept with their eyes the inclined plane of
 little vessels then and there arranged in order, ready to have imperial
 gallons of facts poured into them until they were full to the brim.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+LIBRO PRIMO
+_SEMINARE_
+CAPITOLO I
+L'UNICA COSA NECESSARIA
+
+«ORA, ciò che voglio sono Fatti. Insegnate a questi ragazzi e ragazze nient'altro che Fatti. Nella vita servono solo i [[Alone|fatti]]. Non piantate altro e sradicate tutto il resto. Potete formare la mente di un [[Animals|animale]] ragionevole solo con i fatti: nulla altro sarà mai utile a loro. Questo è il principio su cui educo i miei figli, ed è questo il principio su cui educo questi bambini. Restate ai Fatti, signore!»
+
+La scena era una semplice, spoglia e monotona volta di una sala d'istruzione, e l’indice quadrato dell’oratore enfatizzava le sue osservazioni sottolineando ogni frase con una linea sulla manica del maestro. L’enfasi veniva rafforzata dalla fronte squadrata dell’oratore, che aveva le sopracciglia come base, mentre gli occhi trovavano un comodo riparo in due buie caverne, ombreggiate dal muro. L’enfasi era aiutata dalla bocca dell’oratore, larga, sottile e dura. L’enfasi era rafforzata dalla voce dell’oratore, inflessibile, secca e dispotica. L’enfasi era favorita dai capelli dell’oratore, che si drizzavano sulle tempie della sua testa calva come una piantagione di abeti per proteggere la superficie [[Wind|vento]] lucente, tutta coperta di nodi, come la crosta di una torta di prugne, quasi che il cranio avesse appena spazio sufficiente per i fatti duri conservati al suo interno. La postura ostinata dell’oratore, il suo giubbotto quadrato, le gambe quadrate, le spalle quadrate — nay, persino la sua cravatta, addestrata a prenderlo per la gola con una presa intransigente, come un fatto irremovibile che era — tutto contribuiva all’enfasi.
+
+'In questa vita vogliamo solo Fatti, signore; nient'altro che Fatti!'
+
+L'oratore e il maestro di scuola e la terza persona adulta presente si ritirarono un poco e con gli occhi spazzarono l'inclinato piano dei piccoli vasi allora e là disposti in ordine, pronti ad avere versati dentro loro imperiali galloni di fatti fino a riempirli fino al bordo.
 
 
 
@@ -12202,6 +12408,80 @@ high authority to bring about the great public-office Millennium, when
 Commissioners should reign upon earth.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II
+L'UCCELLAMENTO DEGLI INNOCENTI
+
+[[Thomas Gradgrind|THOMAS GRADGRIND]], signore. Un uomo di realtà. Un uomo di fatti e calcoli. Un uomo che procede secondo il principio che due più due sono quattro, e niente di più, e che non si lascia convincere a concedere nulla in più. [[Thomas Gradgrind]], signore — perentorio Thomas — Thomas Gradgrind. Con un righello e una bilancia, e la tabella pitagorica sempre in tasca, signore, pronto a pesare e misurare qualsiasi pezzo di [[Nature|natura]] umana, e dirvi esattamente quanto ammonta. È solo questione di cifre, un caso di semplice aritmetica. Potreste [[Hope|sperare]] di mettere in testa a George Gradgrind, o ad Augustus Gradgrind, o a John Gradgrind, o a Joseph Gradgrind (tutte persone ipotetiche e non esistenti) qualche altra credenza insensata, ma nella testa di Thomas Gradgrind — no, signore!
+
+In questi termini il signor Gradgrind si presentava sempre mentalmente,
+sia al suo circolo privato di conoscenze che al pubblico in generale.
+In questi termini, senza alcun [[Doubt|dubbio]], sostituendo le parole “ragazzi e ragazze” a “signore”, il
+[[Thomas Gradgrind]] presentò ora il [[Thomas Gradgrind]] ai piccoli vasetti davanti a lui,
+che dovevano essere riempiti fino all'orlo di fatti.
+
+Infatti, mentre li guardava con entusiasmo dal locale seminterrato sopra menzionato, sembrava una specie di cannone carico fino alla bocca di fatti e pronto a spazzarli via dalle regioni dell'[[Childhood|infanzia]] in un solo colpo. Sembrava anche un apparecchio galvanizzante, caricato con un sostituto meccanico cupo per le tenere giovani immaginazioni che dovevano essere conquistate.
+
+«Ragazza numero venti», disse il signor Gradgrind puntando con l'indice quadrato in modo deciso, «non conosco quella ragazza. Chi è quella ragazza?»
+
+«[[Sissy Jupe]], signore», spiegò la numero venti arrossendo, alzandosi e facendo una riverenza.
+
+«Sissy non è un nome», disse il signor Gradgrind, «non chiamarti Sissy. Chiamati Cecilia».
+
+«È mio padre che mi chiama Sissy, signore», rispose la giovane ragazza con voce tremante e facendo un altro inchino.
+
+«Allora non gli compete farlo», disse il signor Gradgrind, «ditegli di non farlo. Cecilia Jupe. Vediamo un po'. Che lavoro fa vostro padre?»
+
+«Appartiene alla categoria dei cavalieri di [[Horse|cavalli]], se mi permette, signore».
+
+Il signor Gradgrind aggrottò la fronte e scacciò con un gesto della mano quella professione sgradita.
+
+«Qui non vogliamo saperne niente di tutto questo. Qui non dovete dirci nulla al riguardo. Vostro padre doma i cavalli, vero?»
+
+«Se le piace, signore, quando riescono a trovarne qualcuno da domare, domano i cavalli nell'arena, signore.»
+
+«Non dovete parlare dell'anello qui. Benissimo, allora. Descriveteci vostro padre come domatore di cavalli. Scommetto che cura i cavalli malati?»
+
+'Oh sì, signore.'
+
+«Molto [[Well|bene]], allora. È un veterinario, uno zoppicante e un domatore di cavalli. Ditemi la vostra definizione di un [[Horse|cavallo]].»
+
+([[Sissy Jupe]] gettata nel più grande allarme da questa richiesta).
+
+«Ragazza numero venti incapace di definire un [[Horse|cavallo]]!» disse il signor Gradgrind,
+per l'utile generale di tutti i piccoli vasetti. «Ragazza numero venti priva di dati, in riferimento a uno degli [[Animals|animali]] più comuni! La definizione di un [[Horse|cavallo]] da parte di qualche ragazzo. Bitzer, la tua.»
+
+L'indice si spostava qua e là fino a fermarsi improvvisamente su Bitzer,
+forse perché gli era capitato di sedere nella stessa luce del sole che,
+penetrando da una delle finestre spoglie della stanza imbiancata a calce,
+illuminava Sissy.  Infatti, i ragazzi e le ragazze erano seduti sul piano
+inclinato in due gruppi compatti divisi al centro da uno stretto intervallo;
+e poiché Sissy si trovava all'angolo di una fila dal lato soleggiato,
+riceveva la prima parte del raggio solare, mentre Bitzer, che era all'angolo
+di una fila dall'altra parte e qualche fila più avanti, ne riceveva la fine.  Ma,
+mentre la ragazza aveva gli occhi così scuri e i capelli così neri da sembrare
+ricevere dal sole un colore ancora più intenso e lucente quando lo splendore
+la colpiva, il ragazzo era così chiaro di occhi e di capelli che quegli stessi
+raggi parevano sottrargli quel poco colore che possedeva.  I suoi freddi occhi
+non sarebbero stati quasi degli occhi se non ci fossero state le cortissime ciglia,
+che, mettendoli in immediato contrasto con qualcosa di più chiaro di loro,
+ne esprimevano la forma.  I capelli corti e tagliati a spazzola potevano sembrare
+una semplice continuazione delle lentiggini chiare sulla fronte e sul viso.
+La sua pelle era così sprovvista in modo innaturale del colore naturale,
+che aveva l'aria di sanguinare bianco se fosse stato ferito.
+
+«Bitzer», disse [[Thomas Gradgrind]], «la sua definizione di un [[Horse|cavallo]].»
+
+«Quadrupede. Graminivoro. Quaranta denti, cioè ventiquattro molari,
+quattro canini e dodici incisivi. Perde il pelo in [[spring|primavera]]; nelle zone paludose perde anche gli zoccoli. Gli zoccoli sono duri ma devono essere ferrati con ferro. L'età si determina dai segni nella bocca». Così (e molto altro) Bitzer.
+
+«Ora, ragazza numero venti», disse il signor Gradgrind, «sai cos'è un [[Horse|cavallo]].»
+
+Fece di nuovo un inchino e sarebbe arrossita ancora più intensamente se fosse stata capace di arrossire più intensamente di quanto avesse fatto in tutto quel [[Time|tempo]]. Bitzer, dopo aver rapidamente sbattuto le palpebre verso [[Thomas Gradgrind]] con entrambi gli occhi contemporaneamente e così catturando la luce sulle sue ciglia tremolanti che sembravano le antenne di affaccendati [[Insects|insetti]], si mise un pugno sulla fronte lentigginosa e si sedette nuovamente.
+
+Il terzo gentiluomo si fece ora avanti. Era un uomo di grande spicco nel tagliare e nel seccare; un funzionario [[government|governativo]]; nel suo campo (e in quelli della maggior parte degli altri), un pugile dichiarato; sempre in allenamento, sempre con un sistema da imporre alla gola generale come una pastiglia, sempre udibile al banco del suo piccolo Ufficio Pubblico, pronto a combattere contro tutta l'Inghilterra. Per continuare nella terminologia pugilistica, aveva un genio per presentarsi alla linea di demarcazione, ovunque e qualunque essa fosse, e dimostrarsi un avversario temibile. Avrebbe attaccato e danneggiato qualsiasi soggetto con il suo destro, seguito con il sinistro, si sarebbe fermato, scambiato colpi, contrattaccato, portato l'avversario (lui combatteva sempre contro tutta l'Inghilterra) alle corde e assalito con eleganza. Era certo di togliere il [[Wind|fiato]] al buon senso e rendere quell'infortunato avversario sordo alla chiamata del [[Time|tempo]]. E aveva l'incarico, da parte dell'autorità superiore, di portare a compimento il grande Millennium dell'Ufficio Pubblico, quando i Commissari avrebbero regnato sulla terra.
+
 
 
 <span class="atom-split" data-atom="chapter_39--part_02" data-title="Hard Times — Chapter 2 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/birds,motif/flowers,motif/horse,motif/time,motif/water,motif/well,concept/hope,form/biography,setting/mountains,character/chorus,character/sissy_jupe,character/thomas_gradgrind"></span>
@@ -12328,6 +12608,71 @@ from thy boiling store, thou shalt fill each jar brim full by-and-by,
 dost thou think that thou wilt always kill outright the robber Fancy
 lurking within—or sometimes only maim him and distort him!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Molto [[Well|bene]]», disse il signore sorridendo vivacemente e incrociando le braccia.
+«Questo è un [[Horse|cavallo]]. Ora, lasciate che vi chieda, ragazze e ragazzi: vorreste tappezzare una stanza con rappresentazioni di cavalli?»
+
+Dopo una pausa, metà dei bambini gridò all'unisono: «Sì, signore!».
+Allora l'altra metà, vedendo dal volto del gentiluomo che il "sì" era sbagliato,
+gridò in [[Chorus|coro]]: «No, signore!», come è consuetudine in queste
+prove.
+
+'Naturalmente no. Perché mai?'
+
+Una pausa. Un ragazzo lento e corpulento con un modo di respirare affannoso si arrischiò a rispondere: «Perché non avrebbe incollato carta da parati in una stanza, ma l'avrebbe dipinta».
+
+«Dovete assolutamente rivestirlo di carta», disse il signore con un certo calore.
+
+«Dovete tappezzarla», disse [[Thomas Gradgrind]], «che vi piaccia o no.
+Non venite a dirci che non la tapperzzereste. Cosa intendete dire, ragazzo?»
+
+«Allora le spiegherò», disse il signore dopo un'altra pausa, e una triste, «perché non dovrebbe tappezzare una stanza con rappresentazioni di cavalli. Vede mai i cavalli camminare su e giù per le pareti delle stanze nella realtà - in effetti? Lo vede?»
+
+«Sì, signore!» da una metà. «No, signore!» dall'altra.
+
+«Certo che no», disse il signore, lanciando uno sguardo indignato alla metà sbagliata. «Dunque, non dovete vedere da nessuna parte ciò che in realtà non vedete; non dovete avere da nessuna parte ciò che in realtà non avete. Quello che si chiama Gusto è solo un altro nome per la Realtà». [[Thomas Gradgrind]] annuì in segno di approvazione.
+
+«Questo è un nuovo principio, una scoperta, una grande scoperta», disse il gentiluomo. «Ora proverò di nuovo con lei. Supponga che stia per mettere la moquette in una stanza. Userebbe una moquette su cui ci sia una rappresentazione di [[Flowers|fiori]]?»
+
+Poiché in questo [[Time|periodo]] era generalmente convinzione che «No, signore!» fosse sempre la risposta giusta da dare a quell'uomo, il [[Chorus|coro]] di NO era molto forte. Solo pochi deboli stragglatori dissero Sì: tra loro c'era [[Sissy Jupe]].
+
+«Ragazza numero venti», disse il signore, sorridendo nella calma forza della conoscenza.
+
+Cecilia arrossì e si alzò in piedi.
+
+«Dunque lei tappezzerebbe la sua stanza — o quella di suo marito, se fosse una donna adulta e avesse un marito — con rappresentazioni di [[Flowers|fiori]], vero?» disse il signore. «Perché lo farebbe?»
+
+«Se le fa piacere, signore, sono molto affezionata ai [[Flowers|fiori]]», rispose la ragazza.
+
+«E per questo vorreste metterci sopra tavoli e sedie, e far camminare la gente con gli stivali pesanti?»
+
+«Non li danneggerebbe, signore. Non si appassirebbero e non si seccherebbero, se mi è lecito dirlo, signore. Sarebbero l'immagine di qualcosa di molto grazioso e piacevole, e io immaginerei, »
+
+«Ah, ah, ah! Ma non dovete immaginare», gridò il signore, tutto eccitato per essere arrivato così felicemente al suo scopo. «Ecco fatto! Non dovete mai immaginare».
+
+«Non dovete fare nulla di simile, Cecilia Jupe», ripeté solennemente [[Thomas Gradgrind]].
+
+«Fatto, fatto, fatto!» disse il signore. E «Fatto, fatto, fatto!» ripeté [[Thomas Gradgrind]].
+
+«Dovete essere in tutte le cose regolati e governati», disse il signore,
+«dai fatti. Speriamo di avere, presto, un consiglio dei fatti, composto da
+commissari dei fatti, che costringeranno la gente ad essere una gente di fatti,
+e nient'altro che fatti. Dovete scartare del tutto la parola [[Hope|fantasia]]. Non avete nulla a che fare con essa. Non dovete avere, in alcun oggetto
+utile o ornamentale, ciò che sarebbe una contraddizione nei fatti. Non camminate
+sui [[Flowers|fiori]] di fatto; non vi è permesso camminare sui [[Flowers|fiori]] nei tappeti. Non trovate che gli [[Birds|uccelli]] stranieri e le farfalle vengano a posarsi sulla vostra ceramica; non vi è consentito dipingere [[Birds|uccelli]] stranieri e farfalle sulla vostra ceramica. Non incontrate mai quadrupedi che salgono e scendono dalle pareti; non dovete avere rappresentazioni di quadrupedi sulle pareti. Dovete usare», disse il signore, «per tutti questi scopi, combinazioni
+e modifiche (in colori primari) di figure matematiche che sono suscettibili di prova e dimostrazione. Questa è la nuova scoperta. Questo è un fatto. Questo è gusto».
+
+La ragazza fece una riverenza e si sedette. Era molto giovane e sembrava spaventata dalla prospettiva concreta che il mondo le offriva.
+
+«Ora, se il signor M'Choakumchild», disse l'uomo, «vuole procedere a dare la sua prima lezione qui, sarò felice, su sua richiesta, di osservare il suo metodo di procedura.»
+
+Il signor Gradgrind era molto obbligato: "Signor M'Choakumchild, aspettiamo solo lei".
+
+Così iniziò il signor M'Choakumchild nel suo miglior modo. Lui e circa centoquaranta altri maestri di scuola erano stati recentemente prodotti nello stesso [[Time|momento]], nella stessa fabbrica, sugli stessi principi, come tante gambe di pianoforte. Era stato sottoposto a un'immensa varietà di prove e aveva risposto a volumi di domande che gli facevano venire il mal di testa. Ortografia, etimologia, sintassi e prosodia, [[Biography|biografia]], astronomia, geografia e cosmografia generale, le scienze della proporzione composta, algebra, agrimensura e livellamento, musica vocale e disegno da modelli, erano tutti alla fine delle sue dieci dita gelide. Aveva faticosamente raggiunto la Lista B del Consiglio Privato di Sua Maestà e aveva tolto lo splendore ai rami più alti della matematica e della scienza fisica, al francese, al tedesco, al latino e al greco. Sapeva tutto su tutti gli [[Water|Sversamenti]] d'acqua di tutto il mondo (qualunque cosa siano), e tutte le storie di tutti i popoli, e tutti i nomi di tutti i fiumi e delle [[Mountains|montagne]], e tutte le produzioni, costumi e usanze di tutti i paesi, e tutti i loro confini e orientamenti sui trentadue punti della bussola. Ah, piuttosto esagerato, M'Choakumchild. Se avesse solo imparato un po' meno, quanto infinitamente meglio avrebbe potuto insegnare molto di più!
+
+Si mise all'opera in questa lezione preparatoria, non dissimile da Morgiana nei Quaranta ladroni: esaminando uno dopo l’altro tutti i vasi disposti davanti a lui per vedere cosa contenessero. Ditemi, bravo M’Choakumchild. Quando tra poco avrete riempito fino all'orlo ogni vaso con il vostro bollente deposito, pensate che ucciderete sempre completamente la ladra Fantasia nascosta al loro interno — o a volte solo la mutilerete e la storpiate!
 
 
 
@@ -12521,6 +12866,91 @@ Stone Lodge, as with [[Grave|grave]] indignation he led the two delinquents [[Ho
 he repeated at intervals ‘What would Mr. Bounderby say?’—as if Mr.
 Bounderby had been Mrs. Grundy.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO III
+UN VARCO
+
+Il signor Gradgrind tornò a casa dalla scuola in uno stato di notevole soddisfazione. Era la sua scuola, e intendeva che fosse un modello. Intendeva che ogni [[Child|bambino]] in essa fosse un modello — proprio come i giovani Gradgrind erano tutti modelli.
+
+C'erano cinque giovani Gradgrind e ognuno di loro era un modello.
+Avevano subito conferenze fin dai più teneri anni; erano stati messi alla prova, come piccole lepri. Appena impararono a correre [[Alone|da soli]], furono costretti a correre verso l'aula delle lezioni. Il primo oggetto con cui ebbero un legame o di cui conservavano il ricordo era una grande lavagna nera su cui uno spettrale Ogre tracciava figure bianche e sinistre.
+
+Non che ne sapessero nulla, per nome o per [[Nature|natura]], di un fatto Ogre.
+Dio ce ne scampi!  Uso la parola solo per esprimere un [[Monster|mostro]] in un [[Castle|castello]] da conferenza,
+con chissà quante teste fuse insieme, che tiene prigioniera l'[[Childhood|infanzia]]
+e la trascina nei tetri anfratti statistici per i capelli.
+
+Nessun piccolo Gradgrind aveva mai visto un volto nella [[Moon|luna]]; era già lassù sulla [[Moon|luna]] prima che potesse parlare distintamente. Nessun piccolo Gradgrind aveva mai imparato la sciocca filastrocca: "Brilla, brilla stellina; come mi [[Wonder|meraviglio]] di te!". Nessun piccolo Gradgrind si era mai [[Wonder|meravigliato]] dell'argomento, dato che ogni piccolo Gradgrind a cinque anni aveva già sezionato l'Orsa Maggiore come il professor Owen e guidato la Carrozza di Carlo come un macchinista. Nessun piccolo Gradgrind aveva mai associato una mucca in un campo con quella famosa mucca dal corno arricciato che sballottò il cane che tormentava il gatto che uccise il ratto che mangiò l'orzo, o con quella ancora più famosa mucca che ingoiò Pollicino: non aveva mai sentito parlare di queste celebrità e gli era stata presentata solo come un quadrupede ruminante graminivoro con diversi stomaci.
+
+Mr. Gradgrind si diresse verso la sua [[Home|casa]] pratica e concreta, chiamata Stone Lodge.
+Aveva praticamente abbandonato il commercio all'ingrosso di ferramenta prima di costruire Stone Lodge,
+e ora stava cercando un'occasione adatta per fare una figura aritmetica al Parlamento.
+Stone Lodge si trovava su una brughiera a un miglio o due da una grande città
+chiamata Coketown nella presente guida fedele.
+
+Stone Lodge era un elemento molto regolare nel paesaggio. Non c'era il minimo travestimento che attenuasse o mascherasse quel fatto inconfutabile del panorama. Una grande [[house|casa]] quadrata, con un pesante portico che oscurava le finestre principali, come le folte sopracciglia del suo padrone proiettavano un'ombra sui suoi occhi. Una [[house|casa]] calcolata, valutata, bilanciata e collaudata. Sei finestre da una parte della porta, sei dall'altra; un totale di dodici in questo lato dell'edificio, un totale di dodici nell'altro lato; ventiquattro trasportate alle ali posteriori. Un prato, un [[Garden|giardino]] e un viale ancora giovane, tutti disposti con precisione come un registro contabile botanico. Gas ed aerazione, fognature e servizio idrico, tutti di primissima qualità. Morsetti e travetti in ferro, a [[Fire|fuoco]] sicuro dall'alto al [[Bottom|basso]]; ascensori meccanici per le cameriere, con tutte le loro scope e spazzole; tutto ciò che il cuore potesse [[Desire|desiderare]].
+
+Tutto? [[Well|Beh]], credo di sì. Anche i piccoli Gradgrind avevano delle vetrine in vari settori della scienza. Avevano una piccola collezione conchilologica, e una piccola collezione metallografica, e una piccola collezione mineralogica; e tutti gli esemplari erano ordinati ed etichettati, e i pezzetti di pietra e minerale sembravano come se fossero stati staccati dalle materie prime con quegli strumenti tremendamente duri che sono i loro nomi; e, per parafrasare la fiaba oziosa di Peter Piper, che non era mai riuscito a entrare nella loro nursery, Se i piccoli Gradgrind avidi afferravano più di questo, in nome del cielo, cosa mai potevano voler afferrare questi piccoli Gradgrind così avidi?
+
+Il loro padre proseguì il cammino con un atteggiamento di mente speranzoso e soddisfatto.
+Era un padre affettuoso, a modo suo; ma probabilmente si sarebbe definito (se fosse stato messo,
+come [[Sissy Jupe]], a definirsi) "un padre eminentemente pratico". Nutriva una particolare
+[[Pride|fierezza]] per la frase "eminentemente pratico", che era considerata avere un'applicazione speciale nel suo caso.
+Qualunque fosse l'assemblea pubblica tenuta a Coketown, e qualunque ne fosse l'argomento,
+qualcuno di Coketown coglieva sempre l'occasione per accennare al suo amico eminentemente pratico Gradgrind.
+Questo faceva sempre piacere all'amico eminentemente pratico. Sapeva che gli era dovuto, e quel che gli era dovuto gli andava bene.
+
+Era giunto al terreno neutro alla periferia della città, che non era né città né campagna eppure era entrambe le cose rovinate, quando alle sue orecchie giunse il suono di musica. La banda rumorosa e stridente dell'istituto [[Horse|equestre]], che aveva stabilito la sua sosta in un padiglione di legno, stava suonando a tutto spiano. Una [[Flag|bandiera]] che sventolava dalla sommità del tempio annunciava all'umanità che era "Sleary's [[Horse]]-riding" a richiedere i loro suffragi. Sleary stesso, una robusta statua moderna con un salvadanaio al gomito, in una nicchia ecclesiastica di architettura gotica primitiva, incassava il denaro. La signorina Josephine Sleary, come annunciavano alcuni striscioni stampati molto lunghi e molto stretti, inaugurava allora gli spettacoli con la sua graziosa esibizione floreale tirolese a cavallo. Tra le altre deliziose ma sempre rigorosamente morali meraviglie che bisogna vedere per crederci, quel pomeriggio il Signor Jupe avrebbe "illustrato i divertenti talenti del suo cane da palcoscenico altamente addestrato Merrylegs". Avrebbe anche esibito "la sua incredibile impresa di lanciare settantacinque quintali in rapida successione all'indietro sopra la testa, formando così una fontana di ferro solido a mezz'aria, un'impresa mai tentata prima in questo o in qualsiasi altro paese e che, avendo suscitato tali applausi entusiasti da folle appassionate, non può essere ritirata". Lo stesso Signor Jupe avrebbe "animato le varie esibizioni a frequenti intervalli con i suoi casti scherzi e battute shakespeariane". Infine, ne avrebbe [[Wind|concluso]] l'esibizione apparirendo nel suo personaggio preferito di Mr. William Button, di Tooley Street, nella "molto [[Novel|originale]] e divertente hippo-comedietta del [[Journey|Viaggio]] del sarto a Brentford".
+
+[[Thomas Gradgrind]], naturalmente, non prestò alcuna attenzione a queste futilità e proseguì come avrebbe dovuto fare un uomo pratico, scacciando i rumorosi [[Insects|insetti]] dai suoi pensieri o relegandoli nella [[house|Casa]] di correzione. Ma la curva della [[Road|strada]] lo portò sul retro del carrozzone e lì, sul retro del carrozzone, si era radunato un gruppo di bambini in atteggiamenti furtivi, che cercavano di sbirciare le nascoste meraviglie del luogo.
+
+Questo lo fece fermare. «Pensare che questi vagabondi» disse «attirino la giovane canaglia da una scuola esemplare!».
+
+C'era uno spazio di erba stentata e rifiuti secchi tra lui e la giovane canaglia, così tirò fuori il monocolo dal panciotto per cercare qualche [[Child|bambino]] che conosceva di nome e poteva mandar via. Fenomeno quasi incredibile sebbene distintamente visto, cosa vide allora se non la sua stessa figlia Louisa, metallurgica, che spiava con tutte le sue forze attraverso un buco in una tavola di legno, e il suo stesso figlio Thomas, matematico, che si abbassava a terra per cogliere anche solo uno zoccolo dell'elegante atto floreale tirolese su cavalli!
+
+Muto per lo stupore, il signor Gradgrind si avvicinò al punto in cui la sua famiglia era così disonorata, posò una mano su ciascun figlio errante e disse:
+
+'Luigia!! Tommaso!!'
+
+Entrambe le [[Rose|rose]], rosse e disorientate. Ma Louisa guardò suo padre con più audacia di Thomas. Infatti, Thomas non lo guardava, ma si abbandonò ad essere portato [[Home|a casa]] come una [[Machine|macchina]].
+
+«Per il nome della [[Wonder|meraviglia]], dell'ozio e della follia!», disse il signor Gradgrind,
+prendendone uno per mano ciascuno di loro, «cosa fate qui?»
+
+«Volevo vedere com'era», rispose brevemente Louisa.
+
+'Com'era?'
+
+'Sì, padre.'
+
+C'era un'aria di stanchezza cupa in entrambi, e particolarmente nella ragazza: tuttavia, attraverso la sua insoddisfazione si intravedeva una luce senza nulla su cui posarsi, un [[Fire|fuoco]] senza nulla da bruciare, un'[[Imagination|immaginazione]] affamata che in qualche modo manteneva viva se stessa e illuminava la sua espressione. Non con la luminosità naturale di una giovinezza allegra, ma con lampi incerti, ansiosi, dubitativi, che avevano qualcosa di doloroso in loro, analogo ai cambiamenti sul volto di un cieco che cerca la sua strada a tentoni.
+
+Era una [[Child|bambina]] ora, di quindici o sedici anni; ma un giorno non lontano sembrerebbe diventare donna all'improvviso. Suo padre pensava così mentre la guardava. Era carina. Sarebbe stata testarda (pensò nel suo modo eminentemente pratico) se non fosse stato per la sua educazione.
+
+«Tommaso, anche se ho la prova sotto gli occhi, trovo difficile credere che tu,
+con la tua [[Education|educazione]] e le tue risorse, abbia portato tua sorella in un posto del genere.»
+
+«L'ho portato io, padre», disse subito Louisa, «gli ho chiesto di venire».
+
+«Mi dispiace sentirlo. Mi dispiace davvero molto sentirlo. Non migliora Thomas e peggiora te, Louisa».
+
+Guardò di nuovo suo padre, ma nessuna lacrima le scese lungo la guancia.
+
+«Voi! Voi, Thomas, a cui è aperto il cerchio delle scienze; voi, Thomas,
+che si può dire siano pieni di fatti; voi, Thomas, che siete stati educati alla precisione matematica; voi, Thomas, qui!» gridò
+il signor Gradgrind. «In questa posizione degradante! Sono sbalordito.»
+
+«Ero stanca, padre. Sono stata stanca per un lungo [[Time|periodo]]», disse Louisa.
+
+«Stanco? Di che cosa?» chiese il padre stupito.
+
+'Non so di cosa, di tutto, credo.'
+
+«Non dire un'altra parola», rispose il signor Gradgrind. «Sei infantile. Non voglio sentire altro». Non parlò più finché non ebbero camminato per mezzo miglio in [[Silence|silenzio]], quando poi, con gravità, esclamò: «Cosa direbbero i tuoi migliori amici, Louisa? Non attribuisci alcun valore al loro buon giudizio? Cosa direbbe il signor Bounderby?» Al solo menzionare quel nome, la figlia gli lanciò un'occhiata che si distingueva per il suo carattere intenso e scrutatore. Lui non se ne accorse, perché prima di guardarla lei aveva nuovamente abbassato lo sguardo!
+
+«Che cosa», ripeté poco dopo, «direbbe il signor Bounderby?» Per tutto il tragitto fino a Stone Lodge, mentre con grave indignazione conduceva i due delinquenti [[Home|a casa]], continuò a ripetere a intervalli: «Che cosa direbbe il signor Bounderby?», come se il signor Bounderby fosse la signora Grundy.
 
 
 
@@ -12770,6 +13200,75 @@ Gradgrind wanted girls to come, and how was it possible to contradict
 them when such was the fact!’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Eccitato com'era quando giunse a questo culmine, [[Josiah Bounderby]] di Coketown si fermò. Si fermò proprio mentre il suo amico eminentemente pratico, ancora accompagnato dai due giovani colpevoli, entrava nella stanza. Il suo amico eminentemente pratico, vedendolo, si fermò anche lui e lanciò a Louisa uno sguardo di rimprovero che diceva chiaramente: «Ecco il tuo Bounderby!»
+
+«[[Well|Bene]]!» esclamò con fare arrogante il signor Bounderby «che succede? Di che si lamenta il giovane Thomas?»
+
+Parlò del giovane Thomas, ma guardava Louisa.
+
+«Stavamo spiando il circo», mormorò Louisa con aria altezzosa senza alzare gli occhi, «e papà ci ha scoperte.»
+
+«E, signora Gradgrind», disse il marito con tono altezzoso, «mi sarei aspettato tanto presto di trovare i miei figli che leggono poesie.»
+
+«Oh, mio Dio», piagnucolò la signora Gradgrind, «come potete, Louisa e Thomas! Mi [[Wonder|meraviglio]]. Vi dichiaro che siete capaci di far rimpiangere a uno di aver mai avuto una famiglia. Sono sul punto di dire che vorrei non averla avuta. _Allora_ cosa avreste fatto, mi piacerebbe sapere?»
+
+Il signor Gradgrind non sembrò impressionato favorevolmente da queste osservazioni convincenti.
+Fece una smorfia impaziente.
+
+«Come se, con la mia testa nel suo attuale stato pulsante, non poteste andare a guardare le conchiglie e i minerali e altre cose che vi sono state fornite, invece dei circhi!» disse la signora Gradgrind. «Lo sapete [[Well|bene]] quanto me che nessun giovane ha maestri di circo, o tiene i circhi in armadietti, o frequenta lezioni sui circhi.  Che cosa potreste mai voler sapere dei circhi? Sono sicura che avete abbastanza da fare, se è quello che volete. Con la mia testa nel suo attuale stato, non riuscirei a ricordare i semplici nomi della metà dei fatti ai quali dovete prestare attenzione».
+
+«Questa è la ragione!» disse con dispetto Louisa.
+
+«Non dirmi che questa è la ragione, perché non può essere niente del genere», disse la signora Gradgrind. «Vai e studia qualcosa di scientifico immediatamente».
+La signora Gradgrind non era un personaggio scientifico e solitamente mandava i suoi figli ai loro studi con questa generica ingiunzione a scegliere il proprio percorso.
+
+In [[Truth|realtà]], il patrimonio di fatti in generale della signora Gradgrind era
+pietosamente carente; ma il signor Gradgrind nel collocarla nella sua alta posizione matrimoniale,
+era stato influenzato da due ragioni. In primo luogo, era più che soddisfacente come questione di cifre;
+in secondo luogo, non aveva "sciocchezze" in testa. Per sciocchezze intendeva fantasia; e veramente è
+probabile che fosse tanto libera da qualsiasi traccia di quella [[Nature|natura]], quanto lo sia mai stato un essere umano
+non giunto alla perfezione dell'assoluto idiota.
+
+La semplice circostanza di essere rimasta [[Alone|sola]] con suo marito e il signor Bounderby fu sufficiente a far svenire nuovamente questa ammirevole donna senza che ci fosse alcun conflitto tra lei e qualcun altro. Così, morì di nuovo dentro di sé, e nessuno se ne curò.
+
+«Bounderby», disse il signor Gradgrind, avvicinando una sedia al caminetto, «lei è sempre così interessato ai miei giovani - in particolare a Louisa - che non mi scuso per dirle che sono molto contrariato da questa scoperta. Mi sono dedicato sistematicamente (come lei sa) all'[[Education|educazione]] della ragione dei membri della mia famiglia. La ragione è (come lei sa) l'unica facoltà a cui dovrebbe essere rivolta l'[[Education|educazione]]. Eppure, Bounderby, sembra che da questo imprevisto episodio di oggi, sebbene in sé irrilevante, sia emerso qualcosa nella mente di Thomas e Louisa che è - o meglio, che non è - non so esprimermi meglio che dicendo - che non era mai stato previsto sviluppare, e in cui la loro ragione non ha alcuna parte.»
+
+«Non c'è certamente motivo di guardare con interesse un gruppo di
+vagabondi», rispose Bounderby. «Quando ero io stesso un vagabondo, nessuno
+mi ha mai guardato con alcun interesse; lo so bene».
+
+«Allora sorge la domanda», disse l'eminente padre pratico, con gli occhi sul [[Fire|fuoco]], «da dove nasce questa volgare curiosità?»
+
+«Vi dirò in cosa: nell'oziosa [[Imagination|immaginazione]].»
+
+«Spero di no», disse l'eminente pratico; «confesso tuttavia che il dubbio mi ha attraversato mentre tornavo a [[Home|casa]].»
+
+«Nell'oziosa [[Imagination|immaginazione]], Gradgrind», ripeté Bounderby, «è una cosa molto negativa per chiunque,
+ma è dannatamente negativa per una ragazza come Louisa. Chiederei scusa a Mrs.
+Gradgrind per le mie espressioni forti, ma sa [[Well|benissimo]] che non sono un personaggio raffinato.
+Chi si aspetta raffinatezza da _me_ rimarrà deluso. Non ho avuto un'educazione raffinata».
+
+«Se sia possibile», disse Gradgrind, riflettendo con le mani nelle tasche e gli occhi caverneux fissi sul [[Fire|fuoco]], «che qualche insegnante o domestico abbia suggerito qualcosa? Se Louisa o Thomas abbiano letto qualcosa? Se, nonostante tutte le precauzioni, qualche libro di storie oziose sia riuscito a entrare in [[house|casa]]? Perché, in menti che sono state praticamente formate secondo regole e linee, fin dalla culla, questo è così curioso, così incomprensibile.»
+
+«Fermati un attimo!» esclamò Bounderby, che tutto quel [[Time|tempo]] era rimasto in piedi, come prima, sul focolare, scoppiando addirittura contro i mobili della stanza con una [[Humility|umiltà]] esplosiva. «Hai uno di quei bambini vagabondi a scuola».
+
+«Cecilia Jupe di nome», disse il signor Gradgrind con un'espressione quasi colpita rivolta al suo amico.
+
+'Fermiamoci un attimo!' gridò di nuovo Bounderby. 'Come ci è arrivata?'
+
+«Perché, di fatto, ho visto la ragazza io stesso per la prima [[Time|volta]] solo in questo momento. Si è presentata qui alla [[house|casa]] chiedendo di essere ammessa, dato che non appartiene regolarmente al nostro paese e—sì, hai ragione, Bounderby, hai ragione».
+
+'Fermati un attimo!', gridò di nuovo Bounderby. 'Louisa l'ha vista quando è venuta?'
+
+«Louisa l'ha certamente vista, perché mi ha accennato alla richiesta.
+Ma non ho [[Doubt|dubbio]] che Louisa l'abbia vista in presenza della signora Gradgrind».
+
+"Prego, signora Gradgrind," disse Bounderby, "cosa è successo?"
+
+«Oh, la mia povera salute!» rispose Mrs. Gradgrind «La ragazza voleva venire a scuola e il signor Gradgrind voleva che le ragazze venissero a scuola, e sia Louisa che Thomas dissero che la ragazza voleva venire e che il signor Gradgrind voleva che le ragazze venissero, e come era possibile contraddirli se questo era un fatto!»
+
 
 
 <span class="atom-split" data-atom="chapter_41--part_03" data-title="Hard Times — Chapter 4 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/tears,motif/well,motif/window"></span>
@@ -12830,6 +13329,35 @@ a hole in your face.’
 ‘You may cut the piece out with your penknife if you like, Tom.  I
 wouldn’t cry!’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Ora le dico una cosa, Gradgrind!» disse il signor Bounderby. «Giri questa ragazza verso destra e la faccenda è chiusa».
+
+'Sono molto d'accordo con te.'
+
+«Fallo subito», disse Bounderby, «è sempre stato il mio motto fin da [[Child|bambino]].
+Quando pensai che sarei scappato dalla mia scatola delle uova e da mia nonna, lo feci subito.  Fai la stessa cosa.  Fallo subito!»
+
+«State andando a piedi?» chiese il suo amico. «Ho l'indirizzo del padre. Forse non vi dispiacerebbe accompagnarmi in città?»
+
+'Neanche per sogno', disse il signor Bounderby, 'purché lo facciate subito!'
+
+Così, il signor Bounderby si gettò il cappello sulla testa — lo gettava sempre così, per esprimere un uomo che era stato troppo occupato a farsi da sé per imparare come portare il cappello con eleganza — e con le mani in tasca uscì nel corridoio. «Non indosso mai i guanti», era solito dire. «Non sono salito sulla scala _con_ quelli addosso.— Non sarei così in alto, se li avessi messi».
+
+Dopo essere stato lasciato a passeggiare per la sala un minuto o due mentre il signor Gradgrind saliva le scale per l'allocuzione, aprì la porta dello studio dei bambini e guardò in quell'appartamento sereno rivestito di pavimento che, nonostante le sue librerie e i suoi armadietti e la sua varietà di apparecchiature erudite e filosofiche, aveva molto dell'aspetto cordiale di una stanza dedicata alla taglia capelli. Louisa si appoggiava languidamente alla [[Window|finestra]] guardando fuori senza guardare nulla, mentre il giovane Thomas stava annusando vendicativamente il [[Fire|fuoco]]. Adam [[smith|Smith]] e Malthus, due Gradgrind più giovani, erano usciti per una lezione sotto custodia; e la piccola Jane, dopo aver prodotto parecchia argilla umida sul viso con matita di grafite e [[Tears|lacrime]], si era addormentata sopra delle frazioni volgari.
+
+«Va tutto bene ora, Louisa: va tutto bene, giovane Thomas», disse il signor Bounderby; «non lo farete più. Mi impegno che con il padre è finita. [[Well|Bene]], Louisa, questo vale un bacio, no?»
+
+«Può prenderne una, signor Bounderby», rispose Louisa dopo aver fatto una pausa fredda e aver attraversato lentamente la stanza per offrirgli il viso con aria scontrosa, voltandogli le spalle.
+
+"Sempre la mia piccola; non è così, Louisa?" disse il signor Bounderby. "Arrivederci, Louisa!"
+
+Egli proseguì per la sua strada, ma lei rimase nello stesso punto, strofinando con il fazzoletto la guancia che egli aveva baciato fino a renderla rossa di fuoco.  Cinque minuti dopo continuava ancora a farlo.
+
+«Che cosa stai facendo, Loo?» la rimproverò il fratello con aria burbera. «Ti strofinerai un buco sulla faccia.»
+
+'Puoi tagliare il pezzo con il tuo coltellino se vuoi, Tom. Non piangerei!'
 
 
 
@@ -12932,6 +13460,25 @@ bought fresh butter; and insisted on Mocha coffee, and rejected all but
 prime parts of meat, and yet were eternally dissatisfied and
 unmanageable.  In short, it was the moral of the old nursery [[Fable|fable]]:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO V
+LA NOTA FONDAMENTALE
+
+Coketown, verso cui i signori Bounderby e Gradgrind si stavano ora dirigendo a piedi, era un trionfo di realtà; non aveva più tracce di fantasia in sé di quante ne avesse la stessa signora Gradgrind. Suoniamo la nota fondamentale, Coketown, prima di proseguire il nostro brano.
+
+Era una città di mattoni rossi, o che sarebbero stati rossi se il fumo e la cenere lo avessero permesso; ma com'era, era una città di rosso innaturale e nero come il volto dipinto di un selvaggio. Era una città di macchinari e alte ciminiere, dalle quali interminabili serpenti di fumo si trascinavano per sempre e mai si srotolavano. Aveva un canale nero e un [[River|fiume]] che scorreva viola con una tintura maleodorante, e enormi edifici pieni di finestre dove c'era un crepitio e un tremore tutto il giorno, e dove il pistone della macchina a vapore lavorava monotamente su e giù, come la testa di un elefante in uno stato di [[Melancholy|malinconia]] [[Madness|pazzia]]. Conteneva diverse grandi strade tutte molto simili tra loro, e molte piccole vie ancora più simili tra loro, abitate da persone ugualmente simili tra loro, che entravano ed uscivano tutte alle stesse ore, con lo stesso suono sullo stesso marciapiede, per fare lo stesso lavoro, e per le quali ogni giorno era uguale a ieri e domani, e ogni anno la controparte dell'ultimo e del prossimo.
+
+Questi attributi di Coketown erano in gran parte inseparabili dal lavoro che la sosteneva; contro di essi bisognava mettere a bilancio i comfort della vita che si diffondevano per tutto il mondo e le eleganze della vita che contribuivano, non chiediamoci quanto, alla figura dell'alta signora, che faticava appena a sopportare l'accenno al luogo. Le restanti caratteristiche erano volontarie, ed eccole qua.
+
+Non si vedeva nulla a Coketown che non fosse severamente laborioso. Se i membri di una [[Persuasion|confessione]] religiosa costruivano lì una cappella - come avevano fatto i membri di diciotto confessioni religiose - la facevano in modo da renderla un magazzino pio di mattoni rossi, con talvolta (ma questo solo negli esempi più ornamentali) una campana su una gabbia per uccelli sulla cima. L'unica eccezione era la Nuova Chiesa; un edificio intonacato con un campanile quadrato sopra la porta, che terminava in quattro piccole guglie come gambe di legno fiorite. Tutte le iscrizioni pubbliche della città erano dipinte allo stesso modo, con caratteri severi bianchi e neri. La prigione poteva essere l'infermeria, l'infermeria poteva essere la prigione, il municipio poteva essere entrambe le cose o qualsiasi altra cosa, per quanto appariva al contrario nelle grazie della loro costruzione. Fatto, fatto, fatto, ovunque nell'aspetto materiale della città; fatto, fatto, fatto, ovunque in quello immateriale. La scuola M’Choakumchild era tutta fatti, e la scuola di design era tutta fatti, e le relazioni tra padrone e operaio erano tutte fatti, e tutto era fatto tra l'ospedale per partorienti e il cimitero, e ciò che non si poteva esprimere in cifre o dimostrare acquistabile nel mercato più economico e vendibile nel più caro, non era, e mai sarebbe stato, fino alla fine dei tempi, Amen.
+
+Una città così sacra al fatto e così trionfante nella sua affermazione,
+naturalmente andava [[Well|bene]]? Perché no, non proprio [[Well|bene]]. No?
+Caro mio!
+
+No. Coketown non era uscita dalle proprie fornaci in tutti i sensi come oro che avesse superato la [[Fire|prova]]. Prima di tutto, il mistero sconcertante del posto era: chi apparteneva alle diciotto denominazioni? Perché, chiunque fossero, non erano certo le classi lavoratrici. Era molto strano camminare per le strade in una [[Sunday|domenica]] mattina e notare quanti pochi di _loro_ venissero chiamati via dal loro quartiere, dalle loro stanze anguste, dagli angoli delle loro stesse strade dove se ne stavano accasciati, fissando con sguardo assente tutto quel viavai verso le chiese e i luoghi di culto, come se non avessero nulla a che fare con quella faccenda. E non era solo lo straniero a notare questo fatto, perché c'era un'organizzazione locale a Coketown la cui esistenza veniva menzionata alla [[house|Camera]] dei Comuni ogni sessione, e i cui membri presentavano petizioni indignate per ottenere atti parlamentari che rendessero queste persone religiose con la forza. Poi c'era la Società del Tè Totale, che si lamentava di come queste stesse persone _volessero_ ubriacarsi e dimostrava in tabelle che lo facevano davvero, e provava alle feste da tè che nessun incentivo, umano o divino (tranne una medaglia) li avrebbe indotti a rinunciare all'abitudine di ubriacarsi. Poi c'era il chimico e farmacista con altre tabelle che dimostravano come quando non si ubriacavano, prendevano oppio. Poi veniva il cappellano esperto del carcere, con ulteriori tabelle che superavano tutte le precedenti tabelle, mostrando come queste stesse persone _volessero_ frequentare luoghi malfamati, nascosti agli occhi pubblici, dove ascoltavano canti volgari e vedevano balli volgari, e magari vi partecipavano; e dove A. B., ventiquattro anni il prossimo compleanno, condannato a diciotto mesi di isolamento, aveva dichiarato lui stesso (non che si fosse mai dimostrato particolarmente degno di fede) che la sua rovina era iniziata lì, e ne era perfettamente sicuro e convinto, altrimenti sarebbe stato un esemplare morale eccezionale. Poi venivano il signor Gradgrind e il signor Bounderby, i due gentiluomini che in quel momento camminavano per Coketown ed erano entrambi eminentemente pratici, che potevano, quando necessario, fornire ulteriori tabelle basate sulla loro esperienza personale, illustrate da casi che avevano conosciuto e visto, dalle quali risultava chiaramente — in breve, era l'unica cosa chiara della faccenda — che queste stesse persone erano nel complesso un cattivo gruppo, signori; che qualunque cosa si facesse per loro non ne sarebbero mai stati grati, signori; che erano irrequieti, signori; che non sapevano mai cosa volevano; che vivevano del meglio e compravano burro fresco; e insistevano sul caffè Mocha e rifiutavano tutte le parti della carne tranne quelle prime, eppure erano perennemente insoddisfatti e incontrollabili. In breve, era la morale della vecchia [[Fable|favola]] per bambini:
 
 
 
@@ -13070,6 +13617,80 @@ hear a dog, sir, it’s only Merrylegs, and he only barks.’
 metallic laugh.  ‘Pretty [[Well|well]] this, for a [[Self-Made Man|self-made man]]!’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+C'era una vecchia donna e sapete che cosa?
+Viveva solo di cibo e bevande;
+Il suo unico nutrimento era cibo e bevande,
+Eppure questa vecchia non voleva MAI stare zitta.
+
+È possibile, mi [[Wonder|domando]], che ci fosse qualche analogia tra il caso della popolazione di Coketown e quello dei piccoli Gradgrind?  Sicuramente, nessuno di noi in pieno possesso delle nostre facoltà mentali e a conoscenza dei dati, dovrebbe essere informato a questa [[Time|ora]] del giorno che uno degli elementi primari nell'esistenza della popolazione lavoratrice di Coketown è stato per decenni deliberatamente ignorato?  Che in loro ci fosse qualche Fantasia che chiedeva di essere portata alla luce invece di continuare a lottare in convulsioni?  Che esattamente nella misura in cui lavoravano a lungo e monotoni, cresceva in loro il desiderio di un po' di sollievo fisico - qualche svago che incoraggiasse il buon [[Humour|umore]] e lo spirito frizzante, e che gli desse sfogo - qualche festività riconosciuta, anche solo per una onesta [[Dance|danza]] al ritmo di un'allegra banda musicale - qualche occasionale torta leggera in cui persino M’Choakumchild non avesse alcuna parte - un desiderio che doveva e sarebbe stato soddisfatto a dovere, o che inevitabilmente sarebbe andato storto, finché le leggi della Creazione non fossero state abrogate?
+
+«Quest'uomo vive a Pod's End e non conosco bene Pod's End», disse il signor Gradgrind. «Dov'è, Bounderby?»
+
+Il signor Bounderby sapeva che si trovava da qualche parte in centro città, ma non ne sapeva di più.
+Così si fermarono per un momento, guardandosi intorno.
+
+Quasi nello stesso istante in cui lo facevano, una ragazza che il signor Gradgrind riconobbe arrivò di corsa dall'angolo della strada con un passo svelto e uno sguardo spaventato. «Ehi!» disse lui. «Fermati! Dove stai andando? Fermati!» La ragazza numero venti si fermò allora, palpitante, e gli fece una riverenza.
+
+'Perché state correndo per le strade', disse il signor Gradgrind, 'in questo modo inappropriato?'
+
+'Fuggivo - fuggivo da qualcuno che mi inseguiva', ansimò la ragazza, 'e volevo allontanarmi.'
+
+"Inseguire?" ripeté il signor Gradgrind. "Chi vorrebbe inseguirti?"
+
+La domanda le fu inaspettatamente e improvvisamente risposta dal ragazzo senza espressione, Bitzer, che sbucò da dietro l'angolo con una cieca [[Speed|velocità]] e così poco prevedendo un ostacolo sul marciapiede, che si scontrò contro il panciotto del signor Gradgrind e rimbalzò sulla [[Road|strada]].
+
+«Cosa intendi dire ragazzo?» disse il signor Gradgrind. «Che cosa stai facendo? Come osi sfrecciare contro—tutti—in questo modo?» Bitzer raccolse il suo berretto, che la collisione gli aveva fatto cadere; e arretrando, e strofinandosi la fronte con le nocche delle dita, sostenne che si trattava di un incidente.
+
+«Questo ragazzo vi stava inseguendo, Jupe?» chiese il signor Gradgrind.
+
+«Sì, signore», disse la ragazza a malincuore.
+
+«No, non lo ero, signore!» esclamò Bitzer. «Non prima che lei scappasse da me. Ma i cavalieri non si preoccupano mai di quello che dicono, signore; sono famosi per questo. Lei sa che i [[Horse|cavalieri]] sono famosi per non preoccuparsi mai di quello che dicono», rivolgendosi a Sissy. «È un fatto tanto noto in città quanto — scusi, signore, quanto la tabellina dell'[[Horse|addizione]] non è nota ai [[Well|cavalieri]].» Bitzer provò questa battuta su Mr. Bounderby.
+
+'Ha spaventato me così,' disse la ragazza, 'con le sue facce crudeli!'
+
+«Oh!» esclamò Bitzer «Oh! Non sei tu uno degli altri? Non sei un cavaliere di [[Horse|cavalli]]? Non l'ho mai guardata, signore. Le ho chiesto se saprebbe definire un [[Horse|cavallo]] domani e mi sono offerto di dirglielo ancora una volta, ma lei è scappata via e io l'ho inseguita, signore, perché sapesse come rispondere quando le fosse stato chiesto. Non avresti pensato a dire un tale guaio se non fossi stato un cavaliere di [[Horse|cavalli]]?»
+
+«La sua vocazione sembra essere piuttosto [[Well|bene]] conosciuta tra loro», osservò il signor Bounderby. «Avreste avuto tutta la scuola che spiava in fila indiana entro una settimana».
+
+«In verità, lo credo anch'io», rispose l'amico. «Bitzer, voltati e vattene [[Home|a casa]]. Jupe, resta qui un momento. Se sento ancora di te che corri in questo modo, ragazzo, saprai di me attraverso il preside della scuola. Mi hai capito. Vattene».
+
+Il ragazzo si fermò nel suo rapido ammiccare, si strofinò di nuovo la fronte con le nocche,
+diede un'occhiata a Sissy, si voltò e se ne andò.
+
+«Ora, ragazza», disse il signor Gradgrind, «accompagna questo gentiluomo e me dal tuo padre; stiamo andando da lui. Cosa c'è in quella bottiglia che porti?»
+
+«Gin», disse il signor Bounderby.
+
+'Caro, no, signore! Sono i nove oli.'
+
+«Il che cosa?» gridò il signor Bounderby.
+
+'I nove oli, signore, per massaggiare il padre.'
+
+«Allora», disse il signor Bounderby con una risata breve e sonora, «perché diavolo gli strofini addosso nove oli?»
+
+«È quello che usano sempre le nostre persone, signore, quando si fanno qualche ferita nell'arena», rispose la ragazza, guardandosi alle spalle per assicurarsi che il suo inseguitore se ne fosse andato. «A volte si ammaccano molto male».
+
+«Gliel’hanno meritato», disse il signor Bounderby «per essere pigri». Lei alzò lo sguardo verso il suo volto con un misto di stupore e timore.
+
+«Per Giorgio!» disse il signor Bounderby «quando avevo quattro o cinque anni meno di te, avevo lividi peggiori su di me che non ne avrebbero levati dieci oli, venti oli, quaranta oli. Non li prendevo facendo esercizi ginnici, ma perché mi picchiavano. Per me non c'era danza sulla corda; ballavo sul terreno nudo e venivo frustato con la corda».
+
+Il signor Gradgrind, sebbene abbastanza duro, non era affatto un uomo così ruvido come il signor Bounderby.  Il suo carattere non era cattivo, tutto considerato; sarebbe potuto essere molto gentile davvero, se solo avesse commesso qualche errore di calcolo negli anni precedenti. Disse, nel tono che intendeva rassicurante, mentre svoltavano in una stretta [[Road|strada]], «E questo è Pod's End; vero, Jupe?»
+
+«Questo è il posto, signore, e — se non le dispiace, signore — questa è la [[house|casa]].»
+
+Si fermò, al crepuscolo, davanti alla porta di un misero [[house|pub]] con luci rosse fioche.
+Era così smunto e squallido come se, per mancanza di clientela,
+avesse preso a bere lui stesso ed avesse imboccato la strada che tutti i
+ubriaconi percorrono, trovandosi ormai molto vicino alla fine.
+
+«È solo passare oltre la soglia, signore, e salire le scale, se non le dispiace, e aspettare lì un momento finché trovo una candela. Se dovesse sentire abbaiare un cane, signore, è solo Merrylegs, che abbaia soltanto».
+
+«[[Well|Bene]], Merrylegs e nove olii, eh!» disse il signor Bounderby entrando per ultimo con la sua risata metallica. «Questo è davvero un bel risultato per un [[Self-Made Man|uomo che si è fatto da sé]]!»
+
 
 
 <span class="atom-split" data-atom="chapter_43--part_01" data-title="Hard Times — Chapter 6 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="topos/quest,motif/crown,motif/horse,motif/leaves,motif/night,motif/stars,motif/time,concept/honour,form/inscription"></span>
@@ -13189,6 +13810,73 @@ Jupe has missed his tip very often, lately.’
 ‘Has—what has he missed?’ asked Mr. Gradgrind, glancing at the potent
 Bounderby for assistance.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI
+L'EQUESTRI SMERALDI DI SLEARY
+
+Il nome della locanda era il Pegaso's Arms. Le gambe del Pegaso avrebbero potuto essere più adatte allo scopo; ma sotto al cavallo alato [[Horse|cavallo]] sulla targa, le insegne del Pegaso erano incise con lettere romane.
+Sotto quella [[Inscription|iscrizione]], ancora una volta, in un nastro fluttuante, il pittore aveva dipinto queste righe:
+
+Il buon malto fa la birra buona,
+entrate e ve la serviranno qui;
+il buon vino fa il buon brandy,
+fateci un saluto e lo troverete comodo.
+
+Incorniciato e dietro vetro sulla parete dietro il piccolo bar squallido, c'era un altro Pegaso — uno teatrale — con ali in vero velo inserite, [[Stars|stelle]] dorate incollate su tutto lui e la sua eterea imbragatura fatta di seta rossa.
+
+Poiché fuori era diventato troppo buio per vedere l'insegna e dentro non si vedeva ancora abbastanza bene da distinguere il quadro, né Mr. Gradgrind né Mr. Bounderby furono offesi da queste idealità. Seguirono la ragazza su una ripida scala a gomito senza incontrare nessuno e rimasero al buio mentre lei andava a prendere una candela. Si aspettavano di sentire Merrylegs abbaiare da un momento all'altro, ma il cane addestrato non aveva ancora latrato quando la ragazza riapparve con la candela in mano.
+
+«Il padre non è nella nostra stanza, signore», disse con un'espressione di grande sorpresa. «Se vuole avere la gentilezza di entrare, lo troverò subito».
+Entrarono; e Sissy, dopo aver messo due sedie per loro, corse via con passo veloce e leggero. Era una stanza misera, arredata in modo trasandato, con un letto dentro. Il bianco [[Night|notturno]], arricchito con due piume di pavone e una treccia dritta come un fuso, con cui il signor Jupe aveva animato quel pomeriggio stesso le varie esibizioni con i suoi casti scherzi e battute shakespeariane, era appeso a un chiodo; ma nessun'altra parte del suo guardaroba o altro segno di lui o delle sue occupazioni si vedeva da nessuna parte. Quanto a Merrylegs, quell'illustre antenato dell'animale altamente addestrato che salì sull'arca, avrebbe potuto essere accidentalmente escluso dall'Arma del Pegaso, per quanto riguarda i segni di un cane visibili o udibili.
+
+Sentirono le porte delle stanze di sopra aprirsi e chiudersi mentre Sissy passava da una all'altra in [[Quest|cerca]] del padre; e poco dopo sentirono voci esprimere sorpresa. Lei scese di nuovo di corsa, aprì un vecchio baule per capelli ammaccato e malandato, lo trovò vuoto e si guardò intorno con le mani giunte e il volto pieno di terrore.
+
+«Papà deve essere andato al Booth, signore. Non so perché dovrebbe esserci andato, ma ci sarà sicuramente; lo porterò qui tra un minuto!» Scomparve subito dopo, senza cappello, con i suoi lunghi capelli scuri e infantili che le svolazzavano dietro.
+
+"Cosa vuole dire!" disse il signor Gradgrind. "Tornare tra un minuto? È più di un miglio di distanza."
+
+Prima che il signor Bounderby potesse rispondere, un giovane apparve sulla porta e,
+presentandosi con le parole: «Per le [[Leaves|foglie]] di voi, signori!», entrò con le mani in tasca.
+Il suo volto, rasato da vicino, magro ed esangue, era ombreggiato da una grande quantità
+di capelli scuri, pettinati a ciuffo tutto intorno alla testa e divisi al centro. Le sue gambe erano molto robuste,
+ma più corte di quanto dovrebbero essere le gambe ben proporzionate. Il suo torace
+e la schiena erano tanto troppo larghi, quanto le sue gambe erano troppo corte. Era
+vestito con un cappotto da Newmarket e pantaloni aderenti; portava una sciarpa
+intorno al collo; emanava odore di olio per lampade, paglia, buccia d'arancia,
+fieno per cavalli e segatura; e sembrava il più straordinario tipo di Centauro,
+composto dello [[house|stallato]] e del [[house|teatro]]. Dove l'uno iniziasse, e l'altro finisse,
+nessuno avrebbe potuto dirlo con precisione. Questo signore era menzionato
+negli annunci del giorno come il signor E. W. B. Childers, così giustamente celebrato
+per la sua audace impresa acrobatica come il Cacciatore Selvaggio delle Praterie Nord Americane; in questa popolare performance,
+un bambino di piccola statura con un volto vecchio, che ora lo accompagnava, assisteva come suo figlioletto: veniva trasportato
+a testa in giù sulla spalla del padre, per un piede, e tenuto per la [[Crown|corona]] della sua testa,
+con i talloni rivolti verso l'alto, nel palmo della mano di suo padre,
+secondo il violento modo paterno con cui i cacciatori selvaggi possono essere osservati
+ad accarezzare la loro prole. Truccato con riccioli, ghirlande, ali, bismuto bianco e carminio,
+questa promettente giovane persona si elevava in un Cupido così piacevole da costituire il principale
+delight della parte materna degli spettatori; ma in privato, dove le sue caratteristiche erano una giacca corta precoce e una voce estremamente ruvida,
+diventava del Turf, turfista.
+
+«Per le vostre [[Leaves|foglie]], signori», disse il signor E. W. B. Childers, guardandosi intorno nella stanza. «Era lei, credo, che desiderava vedere Jupe!»
+
+«È così», disse il signor Gradgrind. «Sua figlia è andata a chiamarlo, ma non posso aspettare; quindi, se permette, lascerò un messaggio per lui con lei».
+
+«Vedete, mio caro amico», intervenne il signor Bounderby, «siamo la gente che conosce il valore del [[Time|tempo]], e voi siete la gente che non lo conosce.»
+
+«Non ho», ribatté il signor Childers dopo averlo esaminato dalla testa ai piedi, «l'[[Honour|onore]] di conoscere _lei_, ma se intende dire che può trarre più denaro dal suo [[Time|tempo]] di quanto io ne tragga dal mio, mi sembra di poter dedurre dall'aspetto che ha che abbia ragione.»
+
+«E quando l'avrete fatto, potrete anche tenerlo, credo», disse Cupido.
+
+«Kidderminster, metti via quello!» disse il signor Childers. (Il nome mortale del piccolo Amore era Master Kidderminster.)
+
+«E allora perché viene qui a darci della spocchiosità?» gridò il giovane Kidderminster, dimostrando un carattere molto irascibile. «Se vuoi darci della spocchiosità, paga la tua ocra alle porte e portala via.»
+
+«Kidderminster», disse Childers alzando la voce, «smettila! — Signore»,
+rivolgendosi a Gradgrind, «mi stavo rivolgendo a lei. Forse non lo sa (perché forse non è stato molto tra il pubblico), ma Jupe ha spesso mancato il bersaglio ultimamente».
+
+«Ha, cosa ha perso?» chiese il signor Gradgrind, lanciando un'occhiata al potente Bounderby in cerca di aiuto.
 
 
 
@@ -13332,6 +14020,94 @@ defrauded of his good opinion.  ‘I was not aware of its being the custom
 to apprentice young persons to—’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+'Ha perso la sua mancia.'
+
+«Proposto quattro volte al gioco dei baldruchi la scorsa [[Night|notte]], e non l'ha mai fatto una volta», disse il signorino Kidderminster. «Ha mancato il bersaglio anche ai cartelloni, ed era impreciso nel lancio».
+
+«Non ha fatto quello che avrebbe dovuto fare. È stato scarso nei salti e negativo nelle acrobazie», interpretò il signor Childers.
+
+'Ah!' disse il signor Gradgrind, 'questo è un consiglio, vero?'
+
+«In generale gli manca la punta», rispose il signor E. W. B. Childers.
+
+«Nove olii, Merrylegs, punte mancanti, giarrettiere, stendardi e Ponging, eh!» esclamò Bounderby con la sua risata delle risate. «Una compagnia strana davvero per un uomo che si è fatto da sé!»
+
+«Allora abbassatevi», ribatté Cupido. «Oh Signore! se vi siete innalzati tanto fino a quel punto, abbassatevi un po’.»
+
+«Questo è un ragazzo davvero impertinente!» disse il signor Gradgrind voltandosi e aggrottando la fronte verso di lui.
+
+«Avremmo mandato un giovane gentiluomo ad accoglierla se avessimo saputo che veniva», ribatté il signorino Kidderminster senza scomporsi. «È un peccato che non abbia prenotato, visto che è così esigente. È sul Tight-Jeff, vero?»
+
+«Che cosa intende questo ragazzo scortese», chiese il signor Gradgrind,
+fissandolo con una specie di disperazione, «con "Tight-Jeff"?»
+
+«Ecco! Vattene, vattene!» disse Childers, spingendo fuori dalla stanza il suo giovane amico in modo piuttosto rustico. «Che sia Jeff Stretto o Jeff Largo non ha molta importanza: è solo questione di fune tesa e fune allentata. Volevi darmi un messaggio per Jupe?»
+
+'Sì, lo ero.'
+
+«Allora», continuò il signor Childers in fretta, «secondo me non lo riceverà mai. Ne sapete molto di lui?»
+
+'Non ho mai visto quell'uomo in vita mia.'
+
+«[[Doubt|Dubito]] che lo vedrete mai più adesso. È abbastanza chiaro per me: se n'è andato».
+
+'Intende dire che ha abbandonato sua figlia?'
+
+«Sì! Voglio dire», disse Childers con un cenno del capo, «che se n'è andato. È stato beffato ieri [[Night|sera]], è stato beffato la [[Night|sera]] prima, è stato beffato oggi. Ultimamente si era messo in testa di farsi sempre beffare e non ne può più».
+
+«Perché è stato — così tanto — beffato?» chiese il signor Gradgrind, strappando la parola da sé con grande solennità e riluttanza.
+
+«Le sue articolazioni si stanno irrigidendo e sta diventando un uomo finito», disse Childers. «Ha ancora i suoi pregi come gallina cedrone, ma non riesce più a guadagnarsi da vivere con quelli».
+
+'Un gallinaceo!', ripeté Bounderby, 'Eccoci di nuovo!'
+
+«Un oratore, se al gentiluomo piace di più», disse il signor E. W. B.
+Childers, gettando sprezzantemente l'interpretazione alle sue spalle,
+e accompagnandola con un movimento della sua lunga chioma—che si agitò
+tutta insieme. «Ora, è un fatto notevole, signore, che quell'uomo ne fu più ferito dal sapere che la figlia sapeva di lui esser stato beffato, che nel subire l'onta stessa».
+
+«Bene!» lo interruppe il signor Bounderby «Questo è davvero un bel colpo, Gradgrind! Un uomo così affezionato alla figlia da scappare via da lei! Questo è diabolamente buono! Ha! ha! Ora, le dico una cosa, giovanotto. Non ho sempre occupato la mia attuale posizione sociale. So come vanno queste cose. Potrebbe stupirsi nel saperlo, ma mia madre, scappò via da _me_.»
+
+E. W. B. Childers rispose con tono pungente che non era affatto sorpreso di sentirlo.
+
+‘Molto [[Well|bene]]’, disse Bounderby, ‘sono nato in un fosso e mia madre è scappata da me.
+La giustifico per questo? No. L’ho mai giustificata per questo?
+Neanche per sogno. Come la chiamo per questo? La chiamo probabilmente
+la peggior donna che sia mai vissuta al mondo, a parte mia nonna ubriacona.
+Non ho nessun [[Pride|orgoglio]] familiare, non ho nessuna immaginativa sentimentalità
+da ciarlatano. Chiamo una vanga vanga; e chiamo la madre di Josiah Bounderby di Coketown,
+senza alcun [[Fear|timore]] o alcun favore, come la chiamerei se fosse stata la madre di Dick [[Jones]] di Wapping.
+E così per questo uomo. È un fuggitivo e un vagabondo, ecco cos’è, in inglese.’
+
+«A me è del tutto indifferente ciò che sia o non sia, sia in inglese
+sia in francese», ribatté il signor E. W. B. Childers voltandosi. «Sto dicendo al suo amico la verità; se non gli piace sentirselo dire,
+può sempre godere dell'aria aperta. Lei ha abbastanza coraggio, lo so;
+ma si faccia coraggio almeno nel suo edificio», rimarcò E. W. B.
+con severa ironia. «Non si faccia coraggio in questo edificio finché non gli viene chiesto. Ha un proprio edificio, immagino?»
+
+«Forse è così», rispose il signor Bounderby, facendo tintinnare i suoi soldi e ridendo.
+
+«Allora fatevi largo nel vostro edificio, se non vi dispiace», disse Childers. «Perché questo non è un edificio robusto e troppa presenza di voi potrebbe farlo crollare!»
+
+Dopo aver di nuovo squadrato il signor Bounderby dalla testa ai piedi, si voltò da lui, come se avesse definitivamente liquidato un uomo, al signor Gradgrind.
+
+«Jupe ha mandato fuori sua figlia per un'erranda non più di un'ora fa e poi è stato visto uscire lui stesso, con il cappello calato sugli occhi e un pacco avvolto in un fazzoletto sotto al braccio. Lei non ci crederà mai, ma lui l'ha abbandonata».
+
+'Per favore,' disse il signor Gradgrind, 'perché non vuole mai crederci?'
+
+«Perché quei due erano una cosa sola. Perché non furono mai separati. Perché,
+fino a [[Time|questo]] momento, sembrava che lui la adorasse», disse Childers facendo un paio di passi per guardare dentro il baule vuoto. Sia Mr. Childers che Master Kidderminster camminavano in modo curioso; con le gambe più divaricate rispetto alla media degli uomini, e con una presunzione molto saputa di essere rigidi alle ginocchia. Questo modo di camminare era comune a tutti i membri maschili della compagnia di Sleary, ed esprimeva il fatto che fossero sempre a cavallo.
+
+«Povera Sissy! Avrebbe fatto meglio a metterla in apprendistato», disse Childers, scuotendo di nuovo i capelli mentre alzava lo sguardo dalla scatola vuota. «Ora [[Leaves|lascia]] lei senza nulla da portare con sé».
+
+«È un'opinione lodevole da parte di chi non ha mai fatto il tirocinio», rispose con approvazione il signor Gradgrind.
+
+'Non sono mai stato apprendista? Sono diventato apprendista quando avevo sette anni.'
+
+«Oh! Davvero?», disse il signor Gradgrind con un certo risentimento, come se gli fosse stata sottratta la sua buona opinione. «Non ero a conoscenza che fosse consuetudine apprendistare giovani persone a—»
+
 
 
 <span class="atom-split" data-atom="chapter_43--part_03" data-title="Hard Times — Chapter 6 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/desire,motif/grave,motif/horse,motif/night,motif/well,concept/doubt,concept/education,concept/hope,character/nurse,character/sissy_jupe"></span>
@@ -13451,6 +14227,45 @@ took refuge on the bosom of the most accomplished tight-rope lady
 (herself in the family-way), who knelt down on the floor to [[Nurse|nurse]] her,
 and to weep over her.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+"Ociosità," intervenne il signor Bounderby con una risata fragorosa. "No, per Dio Harry! Neanche io!"
+
+«Suo padre aveva sempre in testa», riprese Childers fingendo di non accorgersi dell'esistenza del signor Bounderby, «che lei dovesse imparare il diavolo e la [[Education|educazione]]. Come gli sia venuto in mente, non saprei dire; posso solo affermare che non gli è mai uscito dalla testa. Ha raccolto un po' di lettura per lei qua - e un po' di scrittura là - e un po' di calcoli da qualche altra parte - negli ultimi sette anni».
+
+Il signor E. W. B. Childers tirò fuori una mano dalle tasche, si accarezzò il viso e il mento e guardò il signor Gradgrind con un bel po' di [[Doubt|dubbio]] e un pizzico di [[Hope|speranza]]. Fin dall'inizio aveva cercato di conciliarsi quell'uomo, per amore della ragazza abbandonata.
+
+«Quando Sissy entrò a far parte della scuola qui», continuò lui, «suo padre fu contento come un papa. Io non riuscivo proprio a capire perché, dato che noi non ci fermavamo mai in nessun posto, ma andavamo e venivamo da tutte le parti. Tuttavia suppongo che avesse già in mente questo trasferimento - era sempre mezzo matto - e poi pensò di aver provveduto a lei. Se per caso ti fosse capitato di passare [[Night|stasera]] per dirgli che intendevi farle qualche piccolo favore», disse Childers, accarezzandosi ancora il viso e ripetendo la sua occhiata, «sarebbe stato molto fortunato e [[Well|ben]]-pensato; molto fortunato e [[Well|ben]]-pensato.»
+
+«Al contrario», rispose il signor Gradgrind, «sono venuto per dirgli che i suoi legami la rendono inadatta alla scuola e che non deve più frequentarla. Tuttavia, se suo padre l'ha davvero abbandonata senza alcuna sua complicità — Bounderby, ho bisogno di parlarle un momento».
+
+A questo punto, il signor Childers si allontanò cortesemente con la sua andatura da cavallerizzo fino al pianerottolo fuori dalla porta e lì rimase a carezzarsi il viso e fischiare sommessamente. Mentre era così impegnato, udì pronunciare dal signor Bounderby frasi come: «No. _Io_ dico no. Non lo consiglio. Dico assolutamente di no». Dal canto suo, dal signor Gradgrind udì in tono molto più basso le parole: «Ma anche come esempio per Louisa, di ciò a cui conduce e in che cosa termina questa ricerca oggetto di volgare curiosità. Consideralo, Bounderby, da questo punto di vista».
+
+Nel frattempo i vari membri della compagnia di Sleary si riunivano gradualmente dalle zone superiori dove erano alloggiati e, dopo essere rimasti in piedi a parlare tra loro sottovoce e con Childers, finirono per insinuarsi nella stanza insieme a lui. Tra loro c'erano due o tre giovani donne attraenti, i loro due o tre mariti, le loro due o tre madri e i loro otto o nove bambini che facevano la parte delle fate quando era necessario. Il padre di una delle famiglie aveva l'abitudine di bilanciare il padre di un'altra famiglia sulla cima di un grande palo; il padre di una terza famiglia spesso costruiva una piramide con entrambi quei padri, con Master Kidderminster come apice e se stesso come base; tutti i padri sapevano [[Dance|ballare]] su barili [[rolling|rotolanti]], stare in piedi sulle bottiglie, prendere coltelli e palle al volo, far girare bacinelle, cavalcare qualsiasi cosa, saltare sopra tutto e non fermarsi davanti a nulla. Tutte le madri sapevano (e facevano) [[Dance|ballare]] sulla corda allentata e su quella tesa, eseguivano rapidi numeri su cavalli senza sella; nessuna di loro era particolarmente preoccupata di mostrare le gambe; e una di loro, [[Alone|sola]] in un carro greco, guidava sei cavalli a mano in ogni città che visitavano. Tutti si davano delle arie da monelli scaltri e sbruffoni, non erano molto ordinati nei vestiti privati, non erano affatto meticolosi negli arrangiamenti domestici, e la letteratura combinata dell'intera compagnia avrebbe prodotto una povera lettera su qualsiasi argomento. Eppure c'era qualcosa di notevolmente gentile e infantile in queste persone, un'inettitudine particolare per ogni tipo di pratica subdola e una costante disponibilità ad aiutarsi e compatirsi a vicenda che meritava spesso altrettanto rispetto e sempre la stessa generosa considerazione delle virtù quotidiane di qualsiasi classe sociale.
+
+L'ultimo ad apparire fu il signor Sleary: un uomo robusto come già accennato,
+con un occhio fisso e uno mobile, una voce (se così si può chiamare) simile agli sforzi di un vecchio paio di mantici rotto, una superficie flaccida e una testa confusa che non era mai sobria né mai ubriaca.
+
+«Signorino!» disse il signor Sleary, che soffriva d'asma e la cui respirazione era troppo affannosa per pronunciare bene la lettera «s», «Il vostro servitore! Questo è un brutto pezzo di brutta storia, questo sì. Avete sentito dire che il mio pagliaccio e il suo cane sono stati trovati morti?»
+
+Si rivolse al signor Gradgrind, che rispose 'Sì'.
+
+«[[Well|Bene]], signorino», rispose lui togliendosi il cappello e strofinando la fodera con il fazzoletto che teneva all'interno proprio per quello scopo. «È sua intenzione fare qualcosa per quella povera ragazza, signorino?»
+
+«Avrò qualcosa da proporle quando tornerà», disse il signor Gradgrind.
+
+«Mi fa piacere sentirlo, signor Thquire. Non che io voglia liberarmi della [[Child|bambina]], tanto meno desidero mettermi sulla sua strada. Sono disposto a prendermi cura di lei, anche se alla sua età è tardi. La mia voce è un po' rauca, signor Thquire, e non facile da sentire per chi non mi conosce; ma se foste stato voi ad essere raffreddato e scaldato, scaldato e raffreddato, raffreddato e scaldato nell'arena quando eravate giovane, come è capitato spesso a me, la _vostra_ voce non sarebbe durata più della mia, signor Thquire.»
+
+«Probabilmente no», disse il signor Gradgrind.
+
+«Che cosa prenderà, signorino, mentre aspetta? Prenderà del vino di Sherry? Dica il nome, signorino!» disse il signor Sleary con affabile disinvoltura.
+
+«Nulla per me, grazie», disse il signor Gradgrind.
+
+«Non dica niente, signor cavaliere. Cosa dice il suo amico? Se non ha ancora mangiato, prenda un bicchiere di birra amara.»
+
+Qui sua figlia Josephine — una graziosa ragazza bionda di diciotto anni, che era stata messa su un [[Horse|cavallo]] a due anni e aveva fatto testamento a dodici, il quale portava sempre con sé, esprimendo il suo morente [[Desire|desiderio]] di essere condotta alla [[Grave|tomba]] dai due pony pezzati — gridò: «Papà, zitto! è tornata!». Poi arrivò [[Sissy Jupe]], correndo nella stanza come ne era uscita. E quando vide tutti riuniti e vide le loro espressioni e non vide il padre presente, proruppe in un pianto davvero deplorevole e si rifugiò sul seno della più esperta acrobata delle funi (lei stessa incinta), che si inginocchiò per [[Nurse|accudirla]] e piangere su di lei.
 
 
 
@@ -13572,6 +14387,56 @@ exactly as he would have stood in the centre of the ring during his
 daughter Josephine’s performance.  He wanted nothing but his whip.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Con una fiamma interiore, sulla mia anima è così», disse Sleary.
+
+«Oh mio caro padre, mio buon gentile padre, dove sei andato? So che te ne sei andato per cercare di farmi del bene! Sei partito per colpa mia, ne sono sicura! E quanto sarai infelice e indifeso senza di me, povero, povero padre, finché non tornerai!» Era così patetico sentirla dire molte cose di questo genere, con il viso rivolto verso l'alto e le braccia tese come se stesse cercando di fermare la sua [[Shadow|ombra]] che si allontanava per abbracciarla, che nessuno parlò finché Mr. Bounderby (diventato impaziente) non prese in mano la situazione.
+
+«Ora, brava gente», disse lui, «questo è uno spreco sfrenato di [[Time|tempo]].  La ragazza deve capire la verità.  Che la prenda da me, se preferite, che sono stato abbandonato anch'io.  Ehi, come ti chiami!  Tuo padre si è dato alla macchia - ti ha abbandonata - e non dovrai aspettarti di rivederlo mai più finché vivrai».
+
+A queste persone importava così poco dei semplici Fatti e avevano raggiunto un tale stato avanzato di degenerazione al riguardo che invece di essere colpite dal buon senso dell'oratore, ne furono straordinariamente offese. Gli uomini mormoravano «Vergogna!» e le donne «Bruto!», mentre Sleary, con un certo affanno, comunicò il seguente suggerimento a Mr. Bounderby in disparte.
+
+«Le dico una cosa, Thquire.  Per parlarle chiaro, la mia opinione è che
+farebbe meglio a lasciar perdere e mollare tutto.  Sono gente molto buona,
+la mia gente, ma sono abituati ad agire in fretta; e se non segue il mio consiglio, mi venga un colpo se non credo che la butteranno fuori dalla finestra.»
+
+Il signor Bounderby essendo stato frenato da questa mite osservazione,
+il signor Gradgrind trovò l'occasione per la sua esposizione eminentemente pratica dell'argomento.
+
+«Non ha importanza», disse lui, «se questa persona è attesa di ritorno in un [[Time|qualche]] momento o il contrario. È partito e non c'è alcuna aspettativa che torni al momento presente. Questo, credo, sia concordato da tutti».
+
+«Sia come ha detto lei, signorino. Ci pensi su!» Da Sleary.
+
+«[[Well|Bene]], allora. Io, che sono venuto qui per informare il padre della povera ragazza,
+Jupe, che non poteva più essere accolta nella scuola a causa di obiezioni pratiche, nelle quali non è necessario entrare nei dettagli, alla presenza dei figli di persone così impiegate, sono pronto in queste mutate circostanze a fare una proposta. Sono disposto ad assumere la responsabilità di te, Jupe, e a educarti e provvederti.
+L'unica condizione (oltre al tuo buon comportamento) che pongo è che tu decida ora, subito, se accompagnarmi o rimanere qui. Inoltre, se mi accompagnerai ora, si intende che non comunicherai più con nessuno dei tuoi amici presenti qui. Queste osservazioni comprendono l'intera questione».
+
+«Nello stesso [[Time|tempo]],» disse Sleary «devo dire la mia parola, signorino, affinché entrambi i lati della bandiera siano ugualmente visibili. Se a lei piace, Thethilia, essere stampata, conosce la natura del lavoro e conosce le sue compagne. [[Emma]] Gordon, sulle cui ginocchia si trova in questo momento, sarebbe una madre per lei, e Joth’phine sarebbe una sorella per lei. Non pretendo di essere io stesso della razza degli angeli, e non dico che no, quando le mancherebbe il denaro, mi troverebbe tagliente e le direi un paio di parolacce. Ma ciò che dico, signorino, è che, buono o cattivo umore che sia, non ho mai fatto del male a un cavallo, né più di quanto bastasse per sgridarlo, e non mi aspetto di cominciare diversamente alla mia [[Time|età]], con un cavaliere. Non sono mai stato molto loquace, signorino, e ho detto la mia.»
+
+La parte finale di questo discorso era rivolta al signor Gradgrind,
+che la accolse con un'[[Grave|grave]] inclinazione del capo e poi osservò:
+
+«L'unica osservazione che ti farò, Jupe, per influenzare la tua decisione è che è altamente desiderabile avere una solida [[Education|educazione]] pratica e che anche tuo padre stesso (da quello che ho capito) sembra averlo saputo e sentito profondamente in tuo favore.»
+
+Le ultime parole ebbero un effetto visibile su di lei. Si fermò nel suo pianto disperato, si staccò leggermente da [[Emma]] Gordon e rivolse il volto verso il suo protettore. Tutti i presenti percepirono la forza del cambiamento e trattennero il respiro insieme, come a dire chiaramente: «Se ne andrà!»
+
+«Sii sicura di conoscere la tua stessa mente, Jupe», l'avvertì il signor Gradgrind; «non dico altro. Sii sicura di conoscere la tua stessa mente!»
+
+«Quando tornerà papà», esclamò la ragazza, scoppiando di nuovo in [[Tears|lacrime]] dopo un minuto di [[Silence|silenzio]], «come potrà mai trovarmi se me ne vado!»
+
+«Potete stare perfettamente tranquilla», disse il signor Gradgrind con calma; elaborò l'intera questione come se fosse un problema matematico: «potete stare perfettamente tranquilla su questo punto, Jupe. In tal caso, vostro padre, immagino, dovrà scoprire chi è il signor—»
+
+«Thleary. È il mio nome, signorino. Non ne ho vergogna. Conosciuto in tutta l'Inghilterra e pago sempre i conti».
+
+«Deve scoprire il signor Sleary, che poi gli direbbe dove sei andato. Io non avrei alcun potere di trattenerti contro la sua volontà e lui non avrebbe difficoltà a trovare in qualsiasi [[Time|momento]] il signor [[Thomas Gradgrind]] di Coketown. Sono [[Well|ben]] noto».
+
+«[[Well|Bene]] noto», assentì il signor Sleary, [[rolling|facendo rotolare]] il suo occhio cadente. «Lei è uno di quelli, signore, che tengono una bella somma di denaro fuori dalle case. Ma non importa per ora».
+
+Ci fu un altro [[Silence|silenzio]]; e poi esclamò singhiozzando con le mani davanti al viso: «Oh, datemi i miei vestiti, datemi i miei vestiti, e lasciatemi andare via prima che mi spezzi il cuore!»
+
+Le donne si misero tristemente all'opera per raccogliere i vestiti, e fu presto fatto perché non erano molti, e metterli in un cesto che era spesso viaggiato con loro. Sissy rimase tutto il [[Time|tempo]] seduta a terra, ancora singhiozzando e coprendosi gli occhi. Il signor Gradgrind e il suo amico Bounderby si tenevano vicino alla porta, pronti a portarla via. Il signor Sleary stava in mezzo alla stanza con i membri maschili della compagnia intorno a lui, esattamente come sarebbe stato al centro dell'arena durante la performance di sua figlia Josephine. Non gli mancava altro che il frustino.
+
 
 
 <span class="atom-split" data-atom="chapter_43--part_05" data-title="Hard Times — Chapter 6 (part 5)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/horse,motif/nature,motif/silence,motif/tears,motif/well,concept/hope,concept/nature"></span>
@@ -13640,6 +14505,34 @@ The Sleary [[philosophy]] was propounded as they went downstairs and the
 fixed eye of [[philosophy|Philosophy]]—and its [[rolling]] eye, too—soon lost the three
 figures and the basket in the darkness of the street.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+La [[Silence|cesta]] preparata in silenzio, le portarono il cappello e glielo misero,
+lisciandole i capelli scompigliati. Poi si strinsero intorno a lei, chinandosi su di lei con atteggiamenti molto naturali, baciandola e abbracciandola: e fecero venire i bambini per salutarla; ed erano tutte insieme delle donne dal cuore tenero, semplici e sciocche.
+
+'Ora, Jupe', disse il signor Gradgrind. 'Se sei davvero deciso, vieni!'
+
+Ma doveva ancora salutare la parte maschile della compagnia e ognuno di loro dovette aprire le braccia (perché tutti assumevano l'atteggiamento professionale quando si trovavano vicino a Sleary) e darle un bacio d'addio, tranne il giovane Kidderminster, in cui la giovane [[Nature|natura]] aveva un sapore originale di misantropo, che era anche noto per aver nutrito progetti matrimoniali e che si ritirò con aria cupa. Il signor Sleary fu tenuto da parte fino all'ultimo. Aprì le braccia e la prese per entrambe le mani, e avrebbe voluto farla saltare su e giù, secondo il modo in cui i maestri di equitazione congratulano le giovani signore per essere scese da un atto rapido; ma Sissy non aveva alcuna reazione ed era lì davanti a lui che piangeva.
+
+«Addio, mia cara!» disse Sleary «Farete fortuna, [[Hope|spero]], e nessuno dei nostri poveri folkth vi darà mai fastidio, ve lo assicuro.  Mi dispiace che vostro padre non abbia portato con sé questo cane; è un inconveniente averlo fuori dalla gabbia. Ma al secondo pensiero, non avrebbe eseguito nulla senza il suo padrone, anche se è largo quanto lungo!»
+
+Con ciò la guardò attentamente con il suo occhio fisso, osservò i suoi ospiti con quello mobile, la baciò, scosse la testa e la consegnò al signor Gradgrind come se fosse un [[Horse|cavallo]].
+
+«Ecco dove si trova, signorina», disse scrutandola con uno sguardo professionale come se la stesse sistemando sul sedile, «e lei le farà giustizia. Addio, Settimia!»
+
+«Addio, Cecilia!» «Addio, Sissy!» «Dio ti benedica, cara!» Da tutta la stanza si levò un coro di voci diverse.
+
+Ma l'occhio del maestro di equitazione aveva notato la bottiglia delle nove oli essenziali nel suo seno e ora intervenne con «Lascia la bottiglia, mia cara; è troppo grande da portare; non ti sarà più utile. Dammi!»
+
+«No, no!» disse in un altro scoppio di [[Tears|lacrime]]. «Oh, no! La prego, lasci che lo tenga per papà finché non torna! Ne avrà bisogno quando tornerà. Non aveva mai pensato di andarsene, quando mi ha mandata a prenderlo. Devo tenerlo per lui, la prego!»
+
+«Sia come vuoi tu, mia cara. (Vedi com'è la situazione, Squilere!) Addio,
+Thethilia! Le mie ultime parole per te sono queste: rispetta i termini del tuo impegno, sii obbediente con lo Squilere e dimenticaci. Ma se, quando sarai cresciuta e sposata e [[Well|benestante]], ti imbatti in qualche
+esibizione di equitazione, non essere severa al riguardo, non arrabbiarti, fallo un Bethpeak se puoi, e pensa che potresti fare qualcosa di meglio. La gente deve divertirsi, Squilere, in qualche modo», continuò Sleary, reso ancora più affannato dal tanto parlare; «non possono lavorare sempre, né possono imparare sempre. Tiriamo fuori il meglio da noi stessi, non il peggio.
+Ho guadagnato da vivere con l'equitazione per tutta la vita, lo so; ma ritengo di aver esposto la filosofia dell'argomento quando ti dico, Squilere, tiriamo fuori il meglio da noi stessi: non il peggio!»
+
+La [[philosophy|filosofia]] di Sleary venne esposta mentre scendevano le scale e l'occhio fisso della [[philosophy|Filosofia]] — e anche il suo occhio [[rolling|rotante]] — presto persero di vista i tre personaggi e il cesto nell'oscurità della strada.
 
 
 
@@ -13764,6 +14657,56 @@ little more tea; and, as she bent her again contracted eyebrows over her
 steaming cup, rather looked as if her classical countenance were invoking
 the infernal gods.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII
+LA SIGNORA SPARSIT
+
+Essendo il signor Bounderby scapolo, una signora anziana presiedeva la sua dimora, in considerazione di un certo stipendio annuale. Il nome di questa signora era Mrs Sparsit; ed ella era una figura prominente che accompagnava l'automobile del signor Bounderby mentre sfrecciava trionfante con il [[Humility|bullo]] dell'umiltà all'interno.
+
+Infatti, la signora Sparsit non solo aveva conosciuto tempi migliori, ma era anche molto ben collegata. Aveva una grande zia che viveva proprio in questi giorni e si chiamava Lady Scadgers. Il defunto signor Sparsit, di cui lei era la vedova, era dalla parte della madre ciò che la signora Sparsit continuava a chiamare "un Powler". Si osservò talvolta che gli estranei poco informati e con una comprensione ottusa non sapevano cosa fosse un Powler e sembravano persino incerti se si trattasse di un'attività commerciale, o di un partito politico, o di una professione di [[Faith|fede]]. La migliore classe di menti, tuttavia, non aveva bisogno di essere informata che i Powler erano un antico ceppo, che potevano risalire così indietro nel tempo da non sorprendersi se a volte si perdevano - il che era accaduto piuttosto frequentemente, per quanto riguardava la carne di [[Horse|cavallo]], il gioco d'azzardo clandestino, le transazioni monetarie ebraiche e il Tribunale dei Debitori Insolventi [[Court|Corte]].
+
+Il defunto signor Sparsit, essendo dalla parte materna un Powler, sposò questa dama, che era dalla parte paterna una Scadgers. La lady Scadgers (una vecchia donna immensamente grassa, con un appetito smisurato per la carne del macellaio e una gamba misteriosa che ormai si rifiutava di alzarsi dal letto da quattordici anni) combinò il [[Marriage|matrimonio]] in un periodo in cui Sparsit aveva appena raggiunto la maggiore età, ed era principalmente noto per un esile [[Body|corpo]], debolmente sostenuto su due lunghi e snelli sostegni, e coronato da una testa che non valeva la pena di menzionare. Egli ereditò una discreta fortuna dallo zio, ma la dovette tutta prima di entrare in possesso di essa, e la spendette due volte subito dopo. Così, quando morì a ventiquattro anni (la scena della sua morte fu Calais, e la causa il brandy), non lasciò alla vedova, da cui si era separato poco dopo la luna di miele, una situazione agiata. Quella signora sconsolata, quindici anni più vecchia di lui, cadde presto in un'accesa faida con il suo unico parente, lady Scadgers; e, in parte per far dispetto a sua signoria, e in parte per mantenersi, si mise al servizio con uno stipendio. Ed eccola ora, nei suoi giorni di vecchiaia, con lo stile coriolano del naso e le folte sopracciglia nere che avevano catturato Sparsit, preparando il tè per il signor Bounderby mentre questi faceva colazione.
+
+Se Bounderby fosse stato un conquistatore e la signora Sparsit una principessa catturata che avrebbe portato in giro come elemento di prestigio nelle sue parate, non avrebbe potuto fare più sfoggio di lei di quanto ne facesse abitualmente.  Proprio come faceva parte della sua propensione a vantarsi sminuire la propria estrazione sociale, così faceva parte di essa esaltare quella della signora Sparsit.  Nella stessa misura in cui non ammetteva che la sua giovinezza fosse stata accompagnata da una sola circostanza favorevole, rischiarava la carriera giovanile della signora Sparsit con ogni possibile vantaggio e spargeva carichi di rose primaverili lungo tutto il cammino di quella signora.  ‘Eppure, signore,’ diceva, ‘come vanno a finire le cose?  Ecco qua che lei ha cento sterline l'anno (le do cento sterline, che lei è così gentile da considerare una cifra cospicua), e tiene la [[house|casa]] di Josiah Bounderby di Coketown!’
+
+Anzi, rese questa sua arma così ampiamente conosciuta che terze parti la presero e la maneggiarono in alcune occasioni con notevole vivacità. Uno degli attributi più esasperanti di Bounderby era che non solo cantava le proprie lodi ma stimolava anche altri a farlo. In lui c'era un'infezione morale di frasi fatte. Forestieri, abbastanza modesti altrove, si alzavano ai pranzi a Coketown e vantavano Bounderby in modo davvero sfrenato. Lo dipingevano come gli stemmi reali, l'[[Union]]-Jack, la Magna Charta, John Bull, Habeas Corpus, il Bill of Rights, un inglese ha [[house|casa]] è il suo [[Castle|castello]], Chiesa e Stato e Dio salvi la [[Queen|Regina]], tutti messi insieme. E ogni volta (e succedeva spesso) che un oratore di questo tipo portava nella sua perorazione,
+
+«I principi e i lord possono fiorire o appassire,
+un soffio può crearli, come un soffio li ha creati»,
+
+— era certo che più o meno tutti i presenti avevano capito che lui aveva sentito parlare della signora Sparsit.
+
+«Signor Bounderby», disse la signora Sparsit, «questa mattina siete insolitamente lento con la colazione».
+
+«Perché, signora», rispose lui, «stavo pensando al capriccio di [[Tom Gradgrind]];»
+[[Tom Gradgrind]], per un suo modo di parlare schietto e indipendente — come se qualcuno
+cercasse sempre di corromperlo con enormi somme perché dicesse Thomas,
+ma lui non lo facesse; «il capriccio di [[Tom Gradgrind]], signora, di educare la
+ragazza acrobata.»
+
+«La ragazza sta aspettando di sapere», disse la signora Sparsit, «se deve andare subito a scuola o salire fino alla villa.»
+
+«Deve aspettare, signora», rispose Bounderby, «finché non lo saprò io stesso. [[Tom Gradgrind]] sarà qui tra poco, immagino. Se dovesse desiderare che rimanga un giorno o due in più, naturalmente potrà farlo, signora».
+
+'Naturalmente può, se lo desidera, signor Bounderby.'
+
+«Gli ho detto che l'avrei messa alla prova qui, la scorsa [[Night|notte]], affinché potesse [[Sleep|dormirci sopra]] prima di decidere se lasciarla associare a Louisa.»
+
+«Davvero, signor Bounderby? Molto premuroso da parte sua!» Il naso coriolaniano della signora Sparsit subì una leggera dilatazione delle narici e le sue sopracciglia nere si contrassero mentre prendeva un sorso di tè.
+
+«È abbastanza chiaro a me», disse Bounderby, «che la piccola gattina non può trarre alcun bene da una simile compagnia.»
+
+'Parla della giovane Miss Gradgrind, signor Bounderby?'
+
+'Sì, signora, sto parlando di Louisa.'
+
+«Poiché la sua osservazione si riferiva soltanto alla "piccola gattina"», disse la signora Sparsit, «e trattandosi di due bambine, non sapevo a quale delle due potesse alludere tale espressione.»
+
+'Luigia', ripeté il signor Bounderby. 'Luigia, Luigia.'
+
+«È un padre completamente diverso per Louisa, signore». La signora Sparsit prese ancora un po' di tè; e mentre aggrottava nuovamente le sopracciglia sopra la sua tazza fumante, sembrò quasi che il suo volto classico stesse invocando gli dei infernali.
 
 
 
@@ -13923,6 +14866,83 @@ behind her eyebrows and meditated in the gloom of that retreat, all the
 evening.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Se aveste detto che sono stato un secondo padre per Tom — il giovane Tom, intendo, non il mio amico [[Tom Gradgrind]] — forse vi sareste avvicinato al segno.  Intendo portare il giovane Tom nel mio ufficio.  Lo prenderò sotto la mia protezione, signora».
+
+«Davvero? È piuttosto giovane per questo, non è vero, signore?» Il «signore» di Mrs Sparsit, rivolgendosi al signor Bounderby, era una parola cerimoniosa che pretendeva considerazione per sé stessa nell'uso più che onorarlo.
+
+«Non lo prenderò subito; deve prima finire di far riempire il suo cervello con l'istruzione», disse Bounderby. «Perbacco, ne avrà abbastanza, alla fine! Aprirebbe gli occhi, quel ragazzo, se sapesse quanto fosse vuota d'insegnamento la mia giovane testa ai suoi [[Time|tempi]].»
+Il che, tra l'altro, probabilmente sapeva, perché ne aveva sentito parlare abbastanza spesso. «Ma è straordinaria la difficoltà che ho su centinaia di argomenti del genere a parlare con qualcuno in termini paritari. Ecco, per esempio, stamattina le ho parlato dei giocolieri. Ma che ne sa lei dei giocolieri? Al [[Time|tempo]] in cui essere un giocoliere nella fanghiglia delle strade sarebbe stato una manna dal cielo per me, il premio della lotteria, lei era all'Opera italiana. Stava uscendo dall'Opera italiana, signora, con il satin bianco e i gioielli, in tutto lo sfarzo del lusso, mentre io non avevo un soldo per comprare una torcia per illuminarla».
+
+«Certamente, signore», rispose la signora Sparsit con una dignità serenamente malinconica, «ero familiare all'Opera italiana in tenera età.»
+
+«Eh sì, signora, anch'io lo ero», disse Bounderby, «—ma dal lato sbagliato.  Il marciapiede dell'[[London|Arcade]] era un letto duro, ve lo assicuro.  Persone come voi, signora, abituate fin dall'infanzia a dormire su piumini d'oca, non hanno idea di _quanto_ sia duro un lastrone di pavimentazione, senza provarlo.  No, no, è inutile che io parli di tumberi con _voi_.  Dovrei parlare di ballerine straniere e del West End di [[London|Londra]] e di May Fair e di lord e lady e onorevoli.»
+
+«Confido, signore», riprese la signora Sparsit con [[Resignation|rassegnazione]] decorosa,
+«che non sia necessario che lei faccia nulla del genere.  Spero di aver imparato
+a adattarmi ai cambiamenti della vita. Se ho acquisito un interesse nell'ascoltare le sue esperienze edificanti, e non riesco quasi a sentirmene abbastanza, non rivendico alcun merito per questo, poiché credo che sia un sentimento generale».
+
+«[[Well|Beh]], signora», disse il suo patrono, «forse a qualcuno piace sentir dire che gli fa piacere ascoltare, nel suo modo rustico, ciò che Josiah Bounderby di Coketown ha passato. Ma deve ammettere che lei stessa è nata in un agiato benessere. Su, signora, sa bene di essere nata in un agiato benessere».
+
+'Non lo nego,' rispose la signora Sparsit scuotendo il capo.
+
+Il signor Bounderby fu costretto ad alzarsi da tavola e a rimanere in piedi con le spalle alla [[Fire|stufa]], guardandola, perché lei era un tale miglioramento della sua posizione.
+
+«E tu eri nella società più raffinata. Una società dannatamente elevata», disse, scaldandosi le gambe.
+
+«È vero, signore», rispose la signora Sparsit con un'affettazione di [[Humility|umiltà]] del tutto opposta alla sua e quindi priva di ogni pericolo di urtarla.
+
+«Eravate nel massimo stile e tutto il resto», disse il signor Bounderby.
+
+«Sì, signore», rispose la signora Sparsit con un'aria di vedovanza sociale. «È indubbiamente vero».
+
+Il signor Bounderby si piegò sulle ginocchia e abbracciò letteralmente le proprie gambe per la grande soddisfazione che provava e scoppiò in una risata fragorosa. Poco dopo vennero annunciati il signor Gradgrind e sua figlia, al quale diede prima una stretta di mano e poi un bacio.
+
+«Può essere mandato qui Jupe, Bounderby?» chiese il signor Gradgrind.
+
+Certamente. Così Jupe fu mandata lì. Entrando, fece una riverenza a Mr.
+Bounderby e al suo amico [[Tom Gradgrind]], e anche a Louisa; ma nella sua confusione sfortunatamente tralasciò Mrs. Sparsit. Notandolo, il vociferante Bounderby fece le seguenti osservazioni:
+
+«Ora, ti dico una cosa, ragazza mia. Il nome di quella signora accanto al bollitore è la signora Sparsit. Quella signora fa da padrona in questa [[house|casa]], ed è una signora molto benestante. Di conseguenza, se mai dovessi tornare in qualche stanza di questa [[house|casa]], rimarrai poco tempo lì dentro se non ti comporterai con lei nel modo più rispettoso possibile. Ora, a me non importa nulla di quello che fai a _me_, perché non pretendo di essere nessuno. Lontano dall'avere buone conoscenze, io non ne ho affatto e vengo dalla feccia della terra. Ma verso quella signora mi interessa ciò che fai; e dovrai comportarti in modo deferente e rispettoso, o non verrai più qui».
+
+«[[Hope|Spero]], Bounderby», disse il signor Gradgrind con voce conciliante,
+«che si sia trattato solo di un lapsus».
+
+«La mia amica [[Tom Gradgrind]] suggerisce, signora Sparsit», disse Bounderby, «che si sia trattato semplicemente di un errore. Molto probabile. Tuttavia, come sapete, signora, non tollero nemmeno gli errori nei vostri confronti».
+
+«Siete davvero molto gentile, signore», rispose la signora Sparsit, scuotendo il capo con la sua [[Humility|umiltà]] da gran dama. «Non vale nemmeno la pena di parlarne».
+
+Sissy, che tutto questo [[Time|tempo]] si era scusata debolmente con le [[Tears|lacrime]] negli occhi,
+fu ora fatta avvicinare dal padrone di [[house|casa]] a Mr. Gradgrind.
+Lei lo guardava intensamente, e Louisa stava in piedi freddamente accanto, con gli
+occhi fissi a terra, mentre lui proseguiva così:
+
+«Jupe, ho deciso di prenderti in [[house|casa]] mia; e quando non sei impegnata a scuola, ti occuperai della signora Gradgrind, che è piuttosto malaticcia. Ho spiegato alla signorina Louisa — questa è la signorina Louisa — il misero ma naturale epilogo della tua recente carriera; e devi capire bene che tutto quel passato è ormai superato e non deve più essere menzionato. Da questo [[Time|momento]] inizia la tua [[history|storia]]. So che al momento sei ignorante».
+
+«Sì, signore, molto», rispose lei, facendo una riverenza.
+
+«Avrò la soddisfazione di farvi educare severamente; e sarete una prova vivente per tutti coloro che entreranno in contatto con voi dei vantaggi dell'educazione che riceverete. Sarete rieducata e formata. Avete l'abitudine, immagino, di leggere a vostro padre e a quelle persone tra cui vi ho trovata?», disse il signor Gradgrind, facendole cenno di avvicinarsi prima di parlare e abbassando la voce.
+
+«Solo a mio padre e a Merrylegs, signore. Almeno intendo dire che era sempre lì con mio padre».
+
+«Non importa di Merrylegs, Jupe», disse il signor Gradgrind con una smorfia fugace,
+«non chiedo di lui. Mi sembra di capire che tu fossi solita leggere a tuo padre?»
+
+«Oh, sì, signore, migliaia di volte! Erano i momenti più felici, oh, tra tutti i bei tempi che abbiamo passato insieme, signore!»
+
+Fu solo quando il suo dolore esplose che Louisa la guardò.
+
+«E cosa», chiese il signor Gradgrind con voce ancora più bassa, «leggevi a tuo padre, Jupe?»
+
+«A proposito delle fate, signore, e del [[Dwarf|nano]], e dello zoppo, e dei geni», singhiozzò; «e a proposito di—»
+
+«Silenzio!» disse il signor Gradgrind «questo è sufficiente. Non pronunciare mai più una parola di tali sciocchezze distruttive. Bounderby, questo è un caso che richiede un addestramento rigoroso e lo osserverò con interesse».
+
+«[[Well|Bene]],» rispose Mr. Bounderby «ho già espresso il mio parere e non farei come fate voi. Ma, molto [[Well|bene]], molto [[Well|bene]]. Poiché siete deciso a farlo, _molto_ [[Well|bene]]!»
+
+Così il signor Gradgrind e sua figlia portarono Cecilia Jupe con loro a Stone Lodge, e lungo la strada Louisa non pronunciò mai una parola, né buona né cattiva. E il signor Bounderby si dedicò alle sue occupazioni quotidiane. E la signora Sparsit si rifugiò dietro le sopracciglia e meditò nel buio di quel ritiro per tutta la sera.
+
 
 
 <span class="atom-split" data-atom="chapter_45--part_01" data-title="Hard Times — Chapter 8 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/nature,motif/spring,motif/time,motif/well,concept/body,concept/hope,concept/melancholy,concept/nature,concept/wonder,character/thomas_gradgrind"></span>
@@ -14041,6 +15061,68 @@ Mule.  And so I am,’ said Tom, desperately.
 thoughtfully out of her dark corner: ‘it’s a great pity, Tom.  It’s very
 unfortunate for both of us.’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VIII
+NON [[Wonder|MERAVIGLIARSI]] MAI
+
+RIPRENDIAMO ancora una volta la nota fondamentale prima di proseguire con il motivo.
+
+Quando aveva una mezza dozzina di anni in meno, Louisa era stata udita un giorno iniziare una conversazione con suo fratello dicendo: «Tom, mi [[Wonder|domando]]» — al che il signor Gradgrind, che era la persona che ascoltava nascosta, si fece avanti alla luce e disse: «Louisa, non ti [[Wonder|domandare]] mai!»
+
+Ecco in cosa consisteva l'[[spring|origine]] dell'arte e del mistero meccanico di educare la ragione senza abbassarsi alla coltivazione dei sentimenti e degli affetti.  Mai [[Wonder|meravigliarsi]].  Con l'aiuto della somma, della sottrazione, della moltiplicazione e della divisione, sistemate tutto in qualche modo, e mai [[Wonder|meravigliarsi]].  Portatemi quel bambino che sta imparando a camminare, dice M'Choakumchild, e vi assicuro che non si metterà mai a [[Wonder|meravigliarsi]].
+
+Ora, oltre a moltissimi bambini appena in grado di camminare, nella città di Coketown viveva una popolazione considerevole di bambini che avevano camminato contro il [[Time|tempo]] verso l'infinito mondo per venti, trenta, quaranta, cinquanta anni e più.  Questi infanti portentosi essendo creature allarmanti da far aggirare in qualsiasi società umana, le diciotto denominazioni si graffiavano incessantemente il viso a vicenda e tiravano i capelli l'una dell'altra come modo di concordare sui passi da intraprendere per il loro miglioramento — cosa che non fecero mai; una circostanza sorprendente, quando si considera la felice adattabilità dei mezzi allo scopo.  Tuttavia, sebbene differissero in ogni altro particolare, concepibile e inconcepibile (soprattutto inconcepibile), erano abbastanza [[Well|bene]] uniti sul punto che questi infelici bambini non dovessero mai [[Wonder|meravigliarsi]].  Il [[Body|corpo]] numero uno, disse che dovevano prendere tutto per buono.  Il [[Body|corpo]] numero due, disse che dovevano prendere tutto sull'economia politica.  Il [[Body|corpo]] numero tre, scrisse libri piccoli e pesanti per loro, mostrando come il bravo bambino cresciuto arrivasse invariabilmente alla Cassa di Risparmio, e il cattivo bambino cresciuto finisse invariabilmente deportato.  Il [[Body|corpo]] numero quattro, sotto tristi pretesti di essere buffo (quando era davvero molto [[Melancholy|melanconico]]), faceva i più superficiali tentativi di nascondere le insidie della conoscenza, in cui era dovere di questi bambini farsi contrabbandare e ingannare.  Ma tutti i corpi erano d'accordo sul fatto che non dovessero mai [[Wonder|meravigliarsi]].
+
+C'era una biblioteca a Coketown, alla quale era facile accedere liberamente.
+Il signor Gradgrind si tormentava molto su ciò che la gente leggeva in questa
+biblioteca: un punto sul quale piccoli fiumi di tabelle periodicamente
+fluivano nell'oceano ululante delle tabelle, nel quale nessun sommozzatore è mai
+arrivato a una certa profondità e ne è risalito sano di mente. Era una circostanza
+demoralizzante, ma un fatto [[Melancholy|melancolico]], che anche questi lettori insistessero nel
+meravigliarsi. Si meravigliavano della [[Nature|natura]] umana, delle passioni umane, delle speranze e paure
+umane, delle lotte, trionfi e sconfitte, delle preoccupazioni e gioie e
+dolori, delle vite e morti di uomini e donne comuni! A volte,
+dopo quindici ore di lavoro, si sedevano a leggere semplici favole su uomini e
+donne più o meno come loro, e sui bambini, più o meno
+come i propri. Preferivano Defoe a Euclide, e sembravano essere nel complesso più consolati da Goldsmith che da Cocker.
+Il signor Gradgrind lavorava per sempre, in stampa e fuori dalla stampa, su questa
+somma eccentrica, e non riusciva mai a capire come facesse a produrre questo
+prodotto inspiegabile.
+
+«Sono stufo della mia vita, Loo. La odio completamente e odio tutti,
+tranne te», disse il giovane innaturale [[Thomas Gradgrind]] nella
+stanza per tagliare i capelli al crepuscolo.
+
+'Non odi Sissy, Tom?'
+
+«Odio essere costretto a chiamarla Jupe. E lei odia me», disse Tom, con aria cupa.
+
+'No, non lo fa, Tom, ne sono sicuro!'
+
+«Deve», disse Tom. «Deve semplicemente odiare e detestare tutta la nostra famiglia. Penso che le daranno un sacco di noie prima di aver finito con lei. Già sta diventando pallida come cera, e pesante come—io».
+
+Il giovane Thomas espresse questi sentimenti seduto a cavalcioni di una sedia davanti al [[Fire|fuoco]], con le braccia sullo schienale e la sua faccia burbera appoggiata su di esse. Sua sorella era seduta nell'angolo più buio accanto al caminetto, ora guardandolo lui, ora osservando i vivaci scintille mentre cadevano sul focolare.
+
+«Per quanto mi riguarda», disse Tom, arruffandosi i capelli in ogni modo con le sue mani imbronciate, «sono un [[donkey|asino]], ecco cosa sono. Sono testardo come uno di loro, più stupido di uno di loro, provo altrettanto piacere e mi piacerebbe scalciare come uno di loro».
+
+«Non io, spero, Tom?»
+
+«No, Loo; non ti farei del male.  Ho fatto un'eccezione per te fin dall'inizio. Non so cosa sarebbe questa—allegra vecchia—Prigione Giallastra», Tom si era fermato a cercare un nome sufficientemente lusinghiero ed espressivo per il tetto paterno, e sembrava alleviare la mente per un momento con la forte allitterazione di questo, «senza di te.»
+
+'In effetti, Tom? Lo dici davvero e sinceramente?'
+
+«Ma certo che lo faccio! A cosa serve parlarne?», rispose Tom strofinandosi il viso sulla manica del cappotto come se volesse mortificare la sua carne e metterla d'accordo con il suo spirito.
+
+«Perché, Tom», disse sua sorella dopo aver osservato in silenzio le scintille per un po', «man mano che cresco e mi avvicino all'età adulta, spesso rimango qui a pensare e mi domando quanto sia sfortunata io nel non riuscire a farti amare la [[Home|casa]] meglio di quanto riesca. Non so fare quello che sanno fare le altre ragazze. Non posso suonare per te, né cantare. Non posso parlarti in modo da alleggerirti il pensiero, perché non vedo mai spettacoli divertenti e non leggo libri interessanti di cui potrebbe essere piacevole o consolatorio parlare con te quando sei stanco».
+
+«[[Well|Beh]], nemmeno io. Sono altrettanto ostinato di te in questo; e sono un Mulo,
+cosa che tu non sei. Se mio padre era deciso a farmi diventare o uno Spocchioso
+o un Mulo, e io non sono uno Spocchioso, allora è logico che debba essere un
+Mulo. E così è», disse Tom disperatamente.
+
+«È un grande peccato», disse Louisa dopo una nuova pausa e parlando pensierosa dal suo angolo buio: «è un grande peccato, Tom. È molto sfortunato per entrambi».
 
 
 
@@ -14171,6 +15253,72 @@ chair, and discharging her strongest point before succumbing under these
 mere shadows of facts, ‘yes, I really _do_ wish that I had never had a
 family, and then you would have known what it was to do without me!’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Oh! Sei tu», disse Tom; «sei una ragazza, Loo, e una ragazza se la cava meglio di un ragazzo. Non mi manca nulla in te. Sei l'unica gioia che ho - puoi illuminare anche questo posto - e puoi sempre guidarmi come ti pare».
+
+«Sei un caro fratello, Tom; e finché penserai che io possa fare cose del genere,
+non mi dispiace sapere di meglio. Anche se so di meglio, Tom, e ne sono molto spiacente». Si avvicinò a baciarlo e tornò nel suo angolo.
+
+«Vorrei poter raccogliere tutti i Fatti di cui sentiamo tanto parlare», disse Tom,
+stringendo i denti con cattiveria, «e tutte le Cifre e tutte le persone che li hanno scoperti: e vorrei mettere mille barili di polvere sotto di loro e farli saltare in aria tutti insieme! Comunque, quando andrò a vivere con il vecchio Bounderby, avrò la mia [[Revenge|vendetta]].»
+
+«La tua [[Revenge|vendetta]], Tom?»
+
+«Voglio dire che mi divertirò un po', uscirò e vedrò qualcosa,
+e ascolterò qualcosa. Mi compenserò per il modo in cui sono stato
+cresciuto».
+
+«Ma non deluderti in anticipo, Tom. Il signor Bounderby pensa come mio padre e è molto più ruvido e nemmeno la metà di gentile».
+
+«Oh!» disse Tom ridendo «non mi preoccupo di questo. Saprei benissimo come gestire e blandire il vecchio Bounderby!»
+
+Le loro ombre erano ben definite sulla parete, ma quelle degli alti scaffali nella stanza si fondevano tutte insieme sul muro e sul soffitto, come se il fratello e la sorella fossero avvolti da una caverna oscura. O forse un'[[Imagination|immaginazione]] fantasiosa — se mai tale tradimento potesse esserci stato — avrebbe potuto farla apparire come l'[[Shadow|ombra]] del loro argomento e della sua inquietante associazione con il loro futuro.
+
+"Qual è il tuo grande metodo per addolcire e gestire le cose, Tom? È un segreto?"
+
+«Oh!» disse Tom «se è un segreto, non è lontano. Sei tu. Tu sei il suo piccolo tesoro, sei il suo preferito; farebbe qualsiasi cosa per te. Quando mi dirà qualcosa che non mi piace, gli risponderò: “Mia sorella Loo ne sarà ferita e delusa, signor Bounderby. Mi ripeteva sempre di essere sicura che lei sarebbe stato più indulgente con me”. Questo lo convincerà, altrimenti niente lo farà».
+
+Dopo aver atteso qualche risposta e non averne ricevuta nessuna, Tom ricadde stancamente nel presente [[Time|tempo]], si avvolse sbadigliando intorno ai montanti della sua sedia e arruffò sempre più i capelli finché improvvisamente alzò lo sguardo e chiese:
+
+«Sei andata a [[Sleep|dormire]], Loo?»
+
+«No, Tom. Sto guardando il [[Fire|fuoco]].»
+
+«Sembra che tu ci trovi più cose da guardare di quante io abbia mai trovato», disse Tom. «Un altro dei vantaggi, immagino, di essere una ragazza».
+
+«Tom», chiese sua sorella lentamente e con un tono curioso, come se stesse leggendo ciò che domandava nel [[Fire|fuoco]] e non fosse scritto lì abbastanza chiaramente, «aspetti con qualche soddisfazione questo cambiamento a casa del signor Bounderby?»
+
+«Ebbene, c'è una cosa da dire a riguardo», rispose Tom, allontanando la sedia e alzandosi in piedi; «sarà un modo per andarsene via da [[Home|casa]].»
+
+«C'è una cosa da dire a suo favore», ripeté Louisa con lo stesso tono curioso di prima, «ci allontanerà dalla [[Home|casa]]. Sì.»
+
+«Non che io non voglia lasciarvi, Loo, e non che io voglia lasciarvi qui. Ma devo andarmene, sapete, piaccia o no; ed è meglio che vada dove posso portare con me qualche vantaggio della vostra influenza, anziché dove la perderei del tutto. Non capite?»
+
+'Sì, Tom.'
+
+La risposta tardò tanto ad arrivare, sebbene non ci fosse indecisione in essa,
+che Tom si avvicinò e si appoggiò allo schienale della sua sedia per contemplare il [[Fire|fuoco]]
+che la assorbiva così tanto dal suo punto di vista, e vedere cosa ne poteva ricavare.
+
+«Tranne che non è un [[Fire|fuoco]]», disse Tom, «mi sembra stupido e vuoto come tutto il resto.
+Cosa ci vedi di interessante? Non uno spettacolo circense?»
+
+«Non vedo nulla di particolare in questo, Tom. Ma da quando lo sto guardando mi sono chiesto come saremo tu e io una volta cresciuti».
+
+«Di nuovo a fantasticare!» disse Tom.
+
+«Ho pensieri così incontrollabili», rispose sua sorella, «che _vogliono_ [[Wonder|meravigliarsi]].»
+
+«Allora ti prego, Louisa», disse la signora Gradgrind, che aveva aperto la porta senza farsi sentire, «di non fare nulla di simile, per amor del cielo, tu ragazza sconsiderata, o tuo padre non mi darà più tregua. E Thomas, è davvero vergognoso, con il mio povero mal di testa che non mi dà pace, che un ragazzo cresciuto come te e la cui [[Education|educazione]] ha costato quanto la tua, si lasci prendere dall'idea di incoraggiare sua sorella a [[Wonder|meravigliarsi]], quando sa benissimo che suo padre glielo ha espressamente proibito.»
+
+Louisa negò la partecipazione di Tom al reato; ma sua madre la fermò con la risposta conclusiva: «Louisa, non dirmelo in queste condizioni di salute; perché a meno che tu non fossi stata incoraggiata, è moralmente e fisicamente impossibile che tu l'abbia fatto».
+
+«Non ero incoraggiato da nulla, mamma, se non dal vedere le scintille rosse che cadevano dal [[Fire|fuoco]], si imbiancavano e morivano. Mi fece pensare, dopotutto, quanto sarebbe stata breve la mia vita, e quanto poco avrei potuto [[Hope|sperare]] di fare in essa».
+
+«Nonsense!» disse la signora Gradgrind, quasi energica. «Nonsense!
+Non stare lì a dirmi queste cose in faccia, Louisa, quando sai benissimo che se mai dovessero giungere alle orecchie di tuo padre non ne sentirei più parlare. Dopo tutto il disturbo che si è preso per te! Dopo le conferenze a cui hai assistito e gli esperimenti che hai visto! Dopo che ti ho sentita io stessa, quando l'intero mio fianco destro era intorpidito, continuare con il tuo maestro a parlare di combustione, calcinazione, calorificazione e quasi ogni tipo di atione che avrebbe potuto mandare fuori di testa una povera invalida, sentirti ora parlare in questo modo assurdo di scintille e ceneri! Vorrei», singhiozzò la signora Gradgrind, prendendo posto su una sedia e sfoderando il suo argomento più forte prima di soccombere sotto queste semplici ombre di fatti, «sì, vorrei davvero che non avessi mai avuto una famiglia, così sapresti cosa significa fare a meno di me!»
 
 
 
@@ -14312,6 +15460,95 @@ fairly sobbed as confessing with extreme contrition to her greatest
 error; ‘I said it was nothing.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IX
+I PROGRESSI DI SISSY
+
+[[Sissy Jupe|SISSY JUPE]] non ebbe una vita facile tra il signor M’Choakumchild e la signora Gradgrind, e nei primi mesi del suo periodo di prova fu spesso tentata di scappare. Piovevano fatti tutto il giorno in modo così intenso, e la vita in generale le appariva come un libro di calcoli così strettamente regolato, che sicuramente sarebbe scappata se non fosse stato per un solo freno.
+
+È triste pensarci; ma questa rinuncia non era il risultato di un calcolo aritmetico,
+era stata autoimposta sfidando ogni previsione, e andava contro qualsiasi tabella delle probabilità che un attuario avrebbe potuto stilare sulla base dei dati. La ragazza credeva che suo padre non l'avesse abbandonata; viveva nella [[Hope|speranza]] che sarebbe tornato, e nella [[Faith|fede]] che la sua felicità ne sarebbe aumentata se lei fosse rimasta dove si trovava.
+
+La misera ignoranza con cui Jupe si aggrappava a questo conforto,
+rifiutando il superiore sollievo di sapere, su una solida base aritmetica,
+che suo padre era un vagabondo innaturale, riempì Mr. Gradgrind di
+pietà.  Eppure, cosa si poteva fare? M’Choakumchild riferì che aveva una
+testa molto ottusa per i numeri; che, una volta acquisita un'idea generale del
+globo, mostrava il minimo interesse concepibile nelle sue esatte
+misure; che era estremamente lenta nell'acquisizione delle date,
+a meno che non fosse accaduto qualche misero incidente in relazione ad esse; che
+scoppiava a [[Tears|piangere]] quando le veniva richiesto (attraverso il processo mentale)
+di nominare immediatamente il costo di duecentoquarantasette cappelli di mussola
+a quattordici pence e mezzo; che era in fondo, nella scuola, al livello più basso possibile;
+che dopo otto settimane di introduzione agli elementi dell'Economia Politica,
+solo ieri era stata corretta da un chiacchierone alto tre piedi, per aver risposto alla domanda
+‘Qual è il primo principio di questa scienza?’ con la ridicola risposta:
+‘Fare agli altri ciò che vorrei fosse fatto a me.’
+
+Il signor Gradgrind osservò scuotendo la testa che tutto ciò era molto grave;
+che dimostrava la necessità di un'infinità di macinazione al mulino della
+conoscenza, secondo il sistema, l'orario, il libro blu, i rapporti e le tabelle
+dalla A alla Z; e che Jupe «doveva essere tenuta a studiare».  Così Jupe fu costretta
+a studiare e divenne abbattuta, ma non più saggia.
+
+«Sarebbe una bella cosa essere lei, signorina Louisa!» disse una [[Night|sera]],
+quando Louisa aveva cercato di rendere più chiare le sue perplessità per il giorno dopo.
+
+'Pensi davvero?'
+
+«Avrei tanta conoscenza, signorina Louisa. Tutto ciò che ora mi è difficile sarebbe allora così facile».
+
+'Non ne usciresti migliorata, Sissy.'
+
+Cecilia acconsentì dopo un attimo di esitazione: «Non credo che mi farebbe male, signorina Louisa.» A cui la signorina Louisa rispose: «Non ne sono così sicura.»
+
+Tra i due c'era stato così poco contatto — sia perché la vita a Stone Lodge scorreva monotona come un meccanismo che scoraggiava l'intervento umano, sia per il divieto relativo alla passata carriera di Sissy — che erano ancora quasi estranei. Con i suoi occhi scuri fissati con stupore sul volto di Louisa, Sissy era incerta se dire altro o rimanere in silenzio.
+
+«Sei più utile a mia madre e le sei più gradito di quanto io possa mai essere», riprese Louisa. «Tu sei più gradita a te stessa di quanto io lo sia a me stessa».
+
+'Ma, per favore, signorina Louisa,' implorò Sissy, 'sono. O così stupida!'
+
+Con una risata più allegra del solito, Louisa le disse che sarebbe diventata più saggia col tempo.
+
+«Non sapete», disse Sissy, piangendo a metà, «che stupida ragazza io sia. Durante tutte le ore di scuola faccio degli errori. Il signor e la signora M'Choakumchild mi chiamano continuamente per farmi fare degli errori. Non posso evitarli. Mi sembra naturale farli».
+
+“Signor e signora M'Choakumchild non commettono mai errori, immagino, Sissy?”
+
+'O no!' rispose con entusiasmo. 'Sanno tutto.'
+
+'Dimmi qualcuno dei tuoi errori.'
+
+«Mi vergogno quasi», disse Sissy con riluttanza, «ma oggi, per esempio, il signor M'Choakumchild ci stava spiegando la Prosperità Naturale.»
+
+«Nazionele, credo che sia stato», osservò Louisa.
+
+«Sì, era quella.—Ma non è la stessa?» chiese timorosamente.
+
+«Faresti meglio a dire Nazionale, dato che lui l'ha detto così», rispose Louisa con la sua secca riservatezza.
+
+«Prosperità nazionale. E lui disse: Ora questa scuola è una nazione.
+E in questa nazione ci sono cinquanta milioni di denaro. Non è forse una
+nazione prospera? Ragazza numero venti, non è forse una nazione prospera,
+e non sei tu in uno stato florido?»
+
+«Che cosa hai detto?» chiese Louisa.
+
+«Signorina Louisa, ho detto che non lo sapevo. Pensavo di non poter sapere se fosse una nazione prospera o no e se io fossi in condizioni floride o no, a meno che non sapessi chi aveva i soldi e se qualcuno di essi mi appartenesse. Ma questo non c'entrava nulla. Non era affatto nei numeri», disse Sissy asciugandosi gli occhi.
+
+«Questo è stato un grande errore da parte tua», osservò Louisa.
+
+«Sì, Miss Louisa, ora lo so che era così. Allora il signor M’Choakumchild disse che mi avrebbe messo alla prova di nuovo. E disse: Questa scuola è una città immensa e in essa ci sono un milione di abitanti, ma solo venticinque muoiono di [[Death|fame]] per le strade nel corso di un anno. Qual è il tuo commento su questa proporzione? E io risposi — perché non riuscivo a pensare a niente di meglio — che mi sembrava dovesse essere altrettanto duro per coloro che morivano di fame, se gli altri fossero stati un milione o un milione di milioni. E anche quello era sbagliato».
+
+'Naturalmente lo era.'
+
+«Allora il signor M'Choakumchild disse che mi avrebbe messo alla prova ancora una volta. E disse:  
+Ecco gli balbettii, »
+
+«Statistiche», disse Louisa.
+
+«Sì, signorina Louisa — mi ricordano sempre balbettii e questo è un altro dei miei errori — degli incidenti in mare. E ho scoperto (ha detto il signor M’Choakumchild) che in un dato [[Time|periodo]] centomila persone sono andate in mare per lunghi viaggi, e solo cinquecento di loro sono annegate o bruciate fino alla [[Death|morte]]. Qual è la percentuale? E io ho detto, signorina;» qui Sissy singhiozzò apertamente come se confessasse con estrema contrizione il suo più grande errore; «ho detto che era nulla.»
+
 
 
 <span class="atom-split" data-atom="chapter_46--part_02" data-title="Hard Times — Chapter 9 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/home,motif/leaves,motif/love,motif/night,motif/pain,motif/tears,motif/time,motif/well,concept/courage,concept/hope"></span>
@@ -14447,6 +15684,78 @@ there’s a good chance of old Bounderby’s asking me to dinner; and if you
 don’t, there’s none.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+'Niente, Sissy?'
+
+«Nulla, signorina, per i parenti e gli amici delle persone che sono state uccise. Non imparerò mai», disse Sissy. «E la cosa peggiore è che, sebbene mio povero padre desiderasse tanto che io imparassi, e sebbene io abbia tanta voglia di imparare perché lui lo voleva, ho paura di non piacermi».
+
+Louisa rimase a guardare la graziosa testolina modesta mentre si abbassava imbarazzata davanti a lei, finché non fu rialzata di nuovo per lanciarle un'occhiata al viso. Poi chiese:
+
+«Anche tuo padre sapeva così tanto che desiderava che anche tu fossi [[Well|ben]] istruita, Cissy?»
+
+Sissy esitò prima di rispondere e mostrò così chiaramente di rendersi conto che stavano addentrando un terreno proibito, che Louisa aggiunse: «Nessuno ci sente; e anche se qualcuno ci sentisse, sono sicura che non si potrebbe trovare nulla di male in una domanda così [[Innocent|innocente]].»
+
+«No, Miss Louisa», rispose Sissy incoraggiata da questo invito, scuotendo la testa «papà sa davvero molto poco. Sa appena scrivere; e in generale è più facile che le persone non riescano a leggere quello che ha scritto. Anche se per _me_ è chiaro».
+
+'La tua madre?'
+
+«Padre diceva che era una vera studiosa. Morì quando nacqui. Era, » Sissy fece la terribile comunicazione con apprensione: «era una ballerina».
+
+«Il padre l'[[Love|amava]]?»  Louisa fece queste domande con un forte interesse selvaggio e vagante che le era proprio; un interesse smarrito come una creatura bandita, che si nascondeva nei luoghi solitari.
+
+«Oh sì! Tanto quanto mi ama lui. Mio padre mi amò prima di tutto per amore di lei.
+Mi portava con sé quando ero ancora un bebè. Da allora non siamo mai stati separati».
+
+«Eppure lui vi [[Leaves|lascia]] ora, Sissy?»
+
+«Solo per il mio bene. Nessuno lo capisce come faccio io; nessuno lo conosce come lo conosco io. Quando mi ha lasciata per il mio bene — non mi avrebbe mai lasciata per il suo — so che era quasi disperato a causa della prova. Non sarà felice neanche per un minuto, finché non tornerà».
+
+"Dimmi di più su di lui," disse Louisa, "non te lo chiederò mai più. Dove vivevate?"
+
+«Viaggiavamo per il paese e non avevamo un posto fisso dove vivere.  
+Papà è, »; Sissy sussurrò la tremenda parola: «un pagliaccio».
+
+«Per far ridere la gente?» disse Louisa con un cenno di intelligenza.
+
+«Sì. Ma a volte non ridevano e allora papà piangeva. Ultimamente,
+molto spesso non ridevano e lui tornava [[Home|a casa]] disperato.
+Papà non è come gli altri. Quelli che non lo conoscevano tanto [[Well|bene]] quanto me
+e non lo [[Love|amavano]] tanto quanto me, avrebbero potuto credere che non fosse del tutto in sé.
+A volte facevano scherzi su di lui; ma non sapevano mai come li sentisse,
+come si ritraesse quando era [[Alone|solo]] con me. Era molto più timido
+di quanto pensassero!»
+
+'E sei stata il suo conforto in tutto?'
+
+Annuì, con le [[Tears|lacrime]] che le [[rolling|scendevano]] lungo il viso. «Lo [[Hope|spero]], e mio padre diceva che lo ero. Era perché lui era così spaventato e tremante, e perché si sentiva un uomo povero, debole, ignorante e indifeso (queste erano le sue parole), che voleva tanto che io sapessi molto e fossi diversa da lui. Leggevo per lui per rincuorare il suo [[Courage|coraggio]], e gli piaceva moltissimo. Erano libri sbagliati — non dovrò mai parlarne qui — ma noi non sapevamo che ci fosse qualcosa di male in essi».
+
+«E gli piacevano?» disse Louisa, con uno sguardo scrutatore su [[Time|Sissy]] tutto questo tempo.
+
+«Oh, moltissimo! Lo tenevano lontano da cose che gli facevano davvero del male. E spesso e volentieri di [[Night|notte]], dimenticava tutti i suoi guai chiedendosi se il Sultano avrebbe lasciato la signora continuare con la storia, o le avrebbe fatto tagliare la testa prima che fosse finita.»
+
+«E tuo padre è sempre stato gentile? Fino alla fine?» chiese Louisa,
+violando il grande principio e meravigliandosene moltissimo.
+
+«Sempre, sempre!» rispose Sissy, stringendosi le mani. «Più e più gentile di quanto io possa dire. Si è arrabbiato solo una [[Night|notte]], e non con me, ma con Merrylegs. Merrylegs», sussurrò il terribile fatto; «è il suo cane da esibizione».
+
+«Perché era arrabbiato con il cane?» chiese Louisa.
+
+«Poco dopo che erano tornati [[Home|a casa]] dalla rappresentazione, il padre disse a Merrylegs di saltare sullo schienale delle due sedie e di mettersi sopra - è uno dei suoi trucchi.  Lo guardò e non lo fece subito.
+Tutto ciò che riguardava il padre era andato storto quella [[Night|sera]], e non aveva affatto soddisfatto il pubblico.  Gridò che anche il cane sapeva che lui stava fallendo, e non aveva compassione per lui.  Poi picchiò il cane, e io mi spaventai, e dissi: "Padre, padre! Ti prego, non fare del male alla creatura che ti vuole tanto bene! O cielo, perdona a tuo padre, fermati!" E si fermò, e il cane era sanguinante, e il padre si sdraiò piangendo sul pavimento con il cane tra le braccia, e il cane gli leccava la faccia.»
+
+Louisa vide che singhiozzava e, avvicinandosi a lei, la baciò, le prese la mano e si sedette accanto a lei.
+
+«Concludi raccontandomi come tuo padre ti ha lasciata, Sissy. Ora che ti ho chiesto tanto, dimmi la fine. La colpa, se c'è qualche colpa, è mia e non tua».
+
+«Cara Miss Louisa», disse Sissy, coprendosi gli occhi e singhiozzando ancora, «tornai a [[Home|casa]] da scuola quel pomeriggio e trovai il povero papà appena tornato [[Home|a casa]] anche lui dalla baracca. E sedeva dondolandosi davanti al [[Fire|fuoco]], come se avesse [[Pain|male]]. Gli chiesi: “Ti sei fatto male, papà?” (come talvolta gli capitava, come a tutti loro), e lui rispose: “Un po’, tesoro mio.” E quando mi chinai per guardargli il viso, vidi che piangeva. Più cercavo di parlargli, più si nascondeva la faccia; all’inizio tremava tutto e non diceva altro che “Tesoro mio” e “Mia [[Love|amore]]!”»
+
+In quel momento entrò Tom con aria svogliata e fissò i due con freddezza che non dimostrava un interesse particolare per nulla se non per sé stesso, e nemmeno tanto in quel momento.
+
+«Sto facendo alcune domande a Sissy, Tom», osservò sua sorella. «Non hai motivo di andartene; ma non interromperci per un attimo, caro Tom».
+
+«Oh! [[Well|benissimo]]!» rispose Tom. «Solo che papà ha portato a [[Home|casa]] il vecchio Bounderby e voglio che tu venga nel salotto. Perché se vieni c'è una buona possibilità che il vecchio Bounderby mi inviti a cena; e se non vieni, non ce ne sono».
+
 
 
 <span class="atom-split" data-atom="chapter_46--part_03" data-title="Hard Times — Chapter 9 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/fire,concept/honour,concept/hope"></span>
@@ -14517,6 +15826,30 @@ At about this point, Mr. Gradgrind’s eye would fall upon her; and under
 the influence of that wintry piece of fact, she would become torpid
 again.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+'Verrò subito.'
+
+'Aspetto te', disse Tom, 'per essere sicuro'.
+
+Sissy riprese con voce più bassa. «Alla fine il povero papà disse che non aveva dato alcuna soddisfazione ancora una volta e che non ne dava mai, e che era un disonore e una vergogna, e sarebbe stato meglio per me se non ci fosse stato fin dall'inizio. Gli dissi tutte le cose affettuose che mi venivano dal cuore, e dopo un po' si calmò e io mi sedetti accanto a lui, e gli raccontai tutto della scuola e di tutto ciò che era stato detto e fatto lì. Quando non avevo più nulla da dire, mi mise le braccia al collo e mi baciò molte volte. Poi mi chiese di prendere un po' della roba che usava per la piccola ferita che si era fatta, e di comprarla nel posto migliore, che era all'altra estremità della città; e poi, dopo avermi baciata ancora una volta, mi lasciò andare. Quando ero scesa al piano terra, tornai indietro per poter stare un po' più a lungo con lui, e guardai dentro dalla porta, e dissi: "Papà caro, devo portare Merrylegs?" Papà scosse la testa e disse: "No, Sissy, no; non prendere nulla che sia noto essere mio, tesoro;" e lo lasciai seduto accanto al [[Fire|fuoco]]. Poi deve essergli venuto in mente, povero papà! di andarsene per provare qualcosa per il mio bene; perché quando sono tornata, era sparito.»
+
+«Dico io! Stai attenta a vecchio Bounderby, Loo!» ammonì Tom.
+
+«Non c'è altro da dire, Miss Louisa. Tengo pronti i nove oli per lui e so che tornerà. Ogni lettera che vedo scritta di mano del signor Gradgrind mi toglie il respiro e mi offusca la vista, perché penso che provenga da mio padre o dal signor Sleary a proposito di mio padre. Il signor Sleary ha promesso di scrivere non appena si avesse notizia di mio padre, e confido in lui per mantenere la sua parola».
+
+«Stai attenta a non perdere di vista il vecchio Bounderby, Loo!» disse Tom con un fischio impaziente. «Se non stai attenta se ne andrà!»
+
+Dopo di ciò, ogni volta che Sissy faceva un inchino davanti al signor Gradgrind in presenza della sua famiglia e diceva con voce tremante: «Mi scusi, signore, se la disturbo, ma, ha ricevuto qualche lettera su di me?», Louisa sospendeva l'attività del momento, qualunque essa fosse, e aspettava la risposta con altrettanta ansia quanto Sissy. E quando il signor Gradgrind rispondeva regolarmente: «No, Jupe, niente del genere», il tremore sul labbro di Sissy si ripeteva nel volto di Louisa e i suoi occhi seguivano Sissy con compassione fino alla porta. Il signor Gradgrind approfittava solitamente di queste occasioni per osservare, quando lei se ne era andata, che se Jupe fosse stata educata correttamente fin dalla tenera età si sarebbe rimproverata su principi solidi l'infondatezza di queste speranze fantastiche. Eppure sembrava (anche se non a lui, perché non ne vedeva nulla) che la [[Hope|speranza]] fantastica potesse prendere una presa altrettanto forte quanto il Fatto.
+
+Questa osservazione deve essere limitata esclusivamente alla figlia.
+Per quanto riguarda Tom, stava diventando quel trionfo del calcolo non senza precedenti che di solito opera per il numero uno. Per quanto riguarda la signora Gradgrind, se avesse detto qualcosa sull'argomento, sarebbe uscita un po' dalle sue coperte, come una femminile marmotta, e avrebbe detto:
+
+«Per l’amor del cielo, come la mia povera testa è tormentata e preoccupata dalle continue domande di quella ragazza Jupe sulle sue noiose lettere!  Per [[Honour|onore]] e parola, sembra che io sia condannato a vivere in mezzo a cose delle quali non sentire mai la fine. È davvero una circostanza straordinaria: sembra che non sentirò mai la fine di nulla!»
+
+A questo punto circa, l'occhio del signor Gradgrind si posava su di lei;
+e sotto l'influenza di quel pezzo invernale di fatto, ella diventava nuovamente torpida.
 
 
 
@@ -14745,6 +16078,111 @@ and moved but once all that [[Night|night]].  It was to throw a covering over he
 as if his hands were not enough to hide her, even in the darkness.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO X
+[[Stephen Blackpool|STEPHEN BLACKPOOL]]
+
+Ho una vaga idea che gli inglesi lavorino sodo quanto qualsiasi altro popolo sotto il sole. Confesso questa ridicola idiosincrasia come motivo per cui vorrei concedere loro un po' più di svago.
+
+Nella parte più laboriosa di Coketown; nelle fortificazioni interne
+di quella brutta cittadella, dove [[Nature|la Natura]] era murata fuori con la stessa forza con cui si tenevano imprigionati gli esalati e i gas mortali; nel cuore del labirinto di stretti cortili su cortili, e vicoli chiusi su vicoli, che erano sorti a poco a poco, ogni pezzo in gran fretta per lo scopo di qualche uomo, e il tutto una famiglia innaturale, che si spingeva, calpestava e opprimeva fino alla [[Death|morte]]; nell'ultimo angolo chiuso di questo grande serbatoio esausto, dove i camini, per mancanza d'aria da creare corrente, erano costruiti in una grandissima varietà di forme stentate e contorte, come se ogni [[house|casa]] esibisse un'insegna del tipo di persone che ci si poteva aspettare nascessero lì; tra la moltitudine di Coketown, genericamente chiamata "le Mani",—una razza che avrebbe trovato più favore presso certa gente se [[Providence|la Provvidenza]] avesse voluto farli solo mani, o, come i poveri esseri della costa, solo mani e stomaci—viveva un certo [[Stephen Blackpool]], di quarant'anni.
+
+Stephen sembrava più vecchio, ma aveva avuto una vita dura. Si dice che ogni vita abbia le sue rose e spine; tuttavia, nel caso di Stephen, sembrava ci fosse stato un disguido o un errore per cui qualcun altro si era impossessato delle sue rose, mentre lui si era ritrovato con le stesse spine di quel qualcun altro in aggiunta alle proprie. Aveva conosciuto, per usare le sue parole, una gran quantità di guai. Di solito lo chiamavano Vecchio Stephen, come un rozzo omaggio a questo fatto.
+
+Un uomo piuttosto curvo, con la fronte aggrottata, un'espressione pensierosa e una testa dall'aspetto duro ma sufficientemente capiente, sulla quale i suoi capelli grigi ferro cadevano lunghi e radi, il vecchio Stephen avrebbe potuto passare per un uomo particolarmente intelligente nella sua condizione. Eppure non lo era. Non aveva alcun posto tra quei notevoli "Operai" che, mettendo insieme i loro frammentari intervalli di tempo libero nel corso di molti anni, erano riusciti a padroneggiare scienze difficili e ad acquisire una conoscenza delle cose più improbabili. Non occupava alcuna posizione tra gli Operai che sapevano fare discorsi e sostenere dibattiti. Migliaia dei suoi pari potevano parlare molto meglio di lui, in qualsiasi [[Time|momento]]. Era un buon tessitore di telai a potenza e un uomo di integrità perfetta. Quello che era in più o quello che aveva dentro di sé, se c'era qualcosa, lasciamo che lo mostri da solo.
+
+Le luci delle grandi fabbriche, che sembravano, quando erano illuminate,
+palazzi di fate — o almeno così dicevano i viaggiatori del treno espresso — si erano tutte spente; e [[The Bells|le campane]] avevano suonato per la fine del lavoro per la
+[[Night|notte]], ed erano tornate silenziose; e gli Operai, uomini e donne, ragazzi e ragazze,
+tornavano a [[Home|casa]] rumorosamente.  Il vecchio Stephen era in piedi nella strada, con quella
+sensazione che lo prendeva ogni volta che le macchine si fermavano — la sensazione di aver lavorato e smesso di funzionare dentro la sua stessa testa.
+
+«Eppure non vedo ancora Rachel!» disse lui.
+
+Era una [[Night|notte]] piovosa e molti gruppi di giovani donne gli passavano accanto con i loro scialli tirati sopra le teste scoperte e stretti sotto il mento per tenere lontana la pioggia. Conosceva bene Rachael [[Well|bene]], perché uno sguardo a ciascuno di questi gruppi gli era sufficiente per capire che lei non c'era. Alla fine, non ne arrivarono più; e allora si voltò via dicendo con tono deluso: «Ebbene, l’ho persa!».
+
+Ma non aveva percorso la lunghezza di tre strade quando vide un'altra delle figure avvolte nello scialle davanti a lui, che guardò così attentamente che forse il solo [[Shadow|ombra]] riflesso in modo indistinto sul marciapiede bagnato - se l'avesse potuto vedere senza che la figura stessa si muovesse da una lampada all'altra, illuminandosi e svanendo mentre procedeva - sarebbe stato sufficiente a dirgli chi c'era. Accelerando subito il passo rendendolo più veloce e allo stesso tempo più silenzioso, si lanciò in avanti finché non fu molto vicino a quella figura, poi riprese la sua andatura precedente e chiamò: «Rachael!»
+
+Si voltò, trovandosi allora nella luce di una lampada; e sollevando un po' il cappuccio,
+mostrò un viso ovale tranquillo, scuro e piuttosto delicato, irradiato
+da un paio di occhi molto gentili, e ulteriormente messo in risalto dall'ordine perfetto
+dei suoi capelli neri lucenti. Non era un volto nel suo primo fiore; aveva
+trentacinque anni.
+
+«Ah, ragazzo mio! Sei tu?» Quando ebbe detto questo, con un sorriso che si sarebbe espresso perfettamente anche se non si fossero visti altro che i suoi occhi piacevoli, rimise su il cappuccio e proseguirono insieme.
+
+"Pensavo che fossi dietro di me, Rachael?"
+
+‘No.’
+
+«Presto per la [[Night|notte]], ragazza?»
+
+«A volte arrivo un po' in anticipo, Stephen! Altre volte un po' in ritardo. Non si può mai contare su di me quando torno [[Home|a casa]].»
+
+"Non stai andando nemmeno nell'altra direzione, vero, Rachael?"
+
+'No, Stephen.'
+
+La guardò con un certo disappunto dipinto sul volto, ma con una convinzione rispettosa e paziente che lei avesse ragione in tutto ciò che faceva. L'espressione non le sfuggì; posò per un attimo la mano sul suo braccio come a ringraziarlo di questo.
+
+«Siamo così veri amici, ragazzo mio, e amici di vecchia data, e stiamo diventando ormai tanta gente anziana.»
+
+'No, Rachael, sei giovane come sempre.'
+
+«Uno di noi sarebbe perplesso su come invecchiare, Stephen, senza che l'altro lo facesse anche lui, entrambi essendo vivi», rispose ridendo; «ma, comunque sia, siamo amici così vecchi e nascondere una parola di onesta [[Truth|verità]] l’uno all’altra sarebbe un peccato e un peccato. È meglio non camminare troppo insieme. A volte sì! Sarebbe davvero difficile se non dovesse essere affatto», disse, con una allegria che cercava di trasmettergli.
+
+«È difficile, comunque, Rachael».
+
+'Cerca di non pensare e sembrerà meglio.'
+
+«Ho provato per un lungo [[Time|periodo]], e non è migliorata. Ma hai ragione; potrebbe far parlare la gente, anche di te. Sei stata questo per me, Rachael, per tanti anni: mi hai fatto tanto bene e mi hai incoraggiato in quel modo così confortante, che la tua parola è una legge per me. Ah, ragazza, e una legge luminosa e buona! Migliore di alcune vere».
+
+«Non ti affliggere per loro, Stephen», rispose in fretta e non senza lanciargli un'occhiata preoccupata. «Lascia fare alle leggi».
+
+«Sì», disse con uno o due cenni lenti del capo. «Lasciamoli stare. Lasciamo che tutto sia come è. Lasciamo in pace tutti quanti [[Alone|soli]]. È un pasticcio, e basta».
+
+«Sempre un pasticcio?», disse Rachael con un altro dolce tocco sul suo braccio,
+come per richiamarlo fuori dalla riflessione in cui stava mordicchiando le lunghe estremità del suo fazzoletto da collo mentre camminava. Il tocco ebbe il suo effetto immediato. Lasciò cadere le mani, si voltò verso di lei con un volto sorridente e disse, scoppiando in una risata bonaria: «Sì, Rachael, ragazza mia,
+sempre un pasticcio. È qui che mi fermo. Arrivo al pasticcio molte volte
+e ancora, e non riesco mai ad andare oltre».
+
+Avevano camminato per un po' e si trovavano vicino alle loro case. Quella della donna fu la prima a essere raggiunta. Si trovava in una delle tante piccole strade dove l'impresario di pompe funebri preferito (che traeva un bel profitto dall'unica triste pompa del quartiere) teneva una scala nera, affinché coloro che avevano fatto il loro quotidiano giro su e giù per le strette scale potessero scivolare fuori da questo mondo di lavoro dalle finestre. Lei si fermò all'angolo, mise la mano nella sua e gli augurò una buona [[Night|notte]].
+
+«Buona [[Night|notte]], cara ragazza; buona [[Night|notte]]!»
+
+Ella andò per la strada buia con la sua figura snella e il suo passo sobrio e femminile, ed egli rimase a guardarla finché non entrò in una delle piccole case. Forse non c'era un solo movimento del suo ruvido scialle che non avesse interesse agli occhi di quell'uomo; non un tono della sua voce che non avesse eco nel più profondo del suo cuore.
+
+Quando lei gli fu scomparsa dalla vista, egli proseguì il suo cammino verso casa,
+guardando talvolta in su al cielo, dove le nuvole navigavano veloci e selvagge.
+Ma ora si erano diradate, la pioggia aveva cessato e la [[Moon|luna]] splendeva,
+guardando giù dalle alte ciminiere di Coketown nelle profonde fornaci
+sottostanti, proiettando ombre [[titanic|titantiche]] delle macchine a vapore in riposo sulle
+mura dove erano alloggiate. L'uomo sembrava essersi illuminato con la
+[[Night|notte]], mentre proseguiva.
+
+La sua [[Home|casa]], in una strada simile alla prima, salvo che era più stretta, si trovava sopra un piccolo negozio. Come mai la gente ritenesse utile vendere o acquistare i miseri giocattoli esposti nella sua [[Window|vitrina]] insieme a giornali economici e carne di maiale (domani-[[Night|sera]] si sarebbe sorteggiata una zampa), qui non ha importanza. Egli prese la sua estremità di candela da uno scaffale, l'accese con un'altra estremità di candela sul bancone, senza disturbare la padrona del negozio che dormiva nella sua stanzetta, e salì al piano superiore nel suo alloggio.
+
+Era una stanza che non era estranea alla scala nera sotto vari affittuari; ma per il momento era pulita quanto poteva esserlo una simile stanza. C'erano alcuni libri e scritti su un vecchio scrittoio in un angolo, i mobili erano decorosi e sufficienti, e sebbene l'atmosfera fosse viziata, la stanza era pulita.
+
+Andandosi al focolare per posare la candela su un tavolino rotondo e tripode che lì stava, inciampò contro qualcosa. Mentre indietreggiava guardando verso il basso, quella cosa si sollevò assumendo le sembianze di una donna seduta.
+
+«La [[Mercy|misericordia]] del cielo, donna!» esclamò, allontanandosi ulteriormente dalla figura. «Sei tornata di nuovo!»
+
+Che donna! Una creatura invalida e ubriaca, appena capace di mantenere la posizione seduta sostenendosi con una mano imbrattata sul pavimento, mentre l'altra cercava inutilmente di spingere via i capelli aggrovigliati dal viso, accecandola ancora di più per la sporcizia che li ricopriva. Una creatura così ripugnante da guardare, nei suoi stracci, macchie e schizzi, ma molto più ripugnante in quanto a infamia morale, tanto che era una cosa vergognosa anche solo vederla.
+
+Dopo uno o due giuramenti impazienti e qualche stupido gesto di arrabbiarsi con se stessa usando la mano non necessaria per sostenersi, riuscì a liberare i capelli dagli occhi abbastanza da poterlo vedere. Poi si mise a dondolare il [[Body|corpo]] avanti e indietro, facendo gesti con il braccio intorpidito che sembravano voler accompagnare una risata, anche se la sua espressione era ottusa e assonnata.
+
+«Eh, ragazzo? Allora sei qui?» Alcuni suoni rauchi che volevano dire questo le uscirono infine in tono beffardo e la sua testa cadde in avanti sul petto.
+
+«Tornato di nuovo?» strillò dopo alcuni minuti, come se lui l'avesse appena detto in quel momento. «Sì! E tornato ancora. Tornato spesso e volentieri. Tornato? Sì, tornato. Perché no?»
+
+Svegliata dalla violenza insensata con cui lo aveva gridato, si rialzò e rimase in piedi appoggiandosi alle pareti con le spalle; dondolando in una mano per la corda un misero [[Fragment|frammento]] di cappello e cercando di guardarlo con disprezzo.
+
+«Ti venderò di nuovo, e ti venderò ancora, e ti venderò venti volte!» gridò, con qualcosa tra una minaccia furiosa e un tentativo di [[Dance|danza]] provocatoria. «Allontanati dal letto!» Lui era seduto sul bordo del letto, con il viso nascosto tra le mani. «Vattene via da lì! È mio, e ho diritto a esso!»
+
+Mentre barcollava verso di esso, lui la evitò con un brivido e passò — il volto ancora nascosto — all'estremità opposta della stanza.  Si gettò pesantemente sul letto e presto russava forte.  Lui si accasciò su una sedia e non si mosse più tutta quella [[Night|notte]].  Fu solo per coprirla; come se le sue mani non fossero sufficienti a nasconderla, anche nel buio.
+
 
 
 <span class="atom-split" data-atom="chapter_48--part_01" data-title="Hard Times — Chapter 11 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/bells,motif/fire,motif/hill,motif/horse,motif/love,motif/nature,motif/noon,motif/soul,motif/well,motif/wind,concept/fear,concept/hope,concept/melancholy,concept/nature,concept/self,character/stephen_blackpool"></span>
@@ -14861,6 +16299,69 @@ were married on Eas’r Monday nineteen year sin, long and dree.  She were
 a young lass—pretty enow—wi’ good accounts of herseln.  [[Well]]!  She went
 bad—soon.  Not along of me.  Gonnows I were not a unkind husband to her.’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XI
+NESSUNA USCITA
+
+I palazzi delle fate si illuminarono prima che la pallida alba mostrasse i mostruosi serpenti di fumo che si snodavano sopra Coketown. Un tintinnio di zoccoli sul selciato; un rapido suonare di [[Bells|campane]]; e tutti gli elefanti pazzi [[Melancholy|malinconici]], lucidati e oliati per la monotonia della giornata, erano già al loro pesante esercizio.
+
+Stephen si chinò sul suo telaio, tranquillo, vigile e costante.
+Un contrasto particolare, poiché ogni uomo era nella foresta di telai dove Stephen lavorava,
+con il meccanismo schiantante, frantumante, strappante su cui lui
+lavorava.  Non [[Fear|temete]], buone persone di un carattere ansioso, che l'Arte
+condanni la [[Nature|Natura]] all'oblio.  Mettete fianco a fianco, ovunque,
+l'opera di DIO e l'opera dell'uomo; e quest'ultima, anche se si tratta di un gruppo di
+mani di scarso conto, guadagnerà in dignità dal confronto.
+
+Così tante centinaia di Mani in questo Mulino; così tanti centinaia di [[Horse|cavalli]] di potenza a vapore.
+Si sa, con la precisione di un singolo chilogrammo, cosa il motore può fare;
+ma nemmeno tutti i calcolatori del Debito Nazionale possono dirmi
+la capacità per il bene o il male, per l'[[Love|amore]] o l'odio, per il patriottismo o
+l'insoddisfazione, per la decomposizione della virtù in vizio, o viceversa,
+in un singolo momento nell'[[Soul|anima]] di uno qualsiasi di questi suoi tranquilli servitori,
+con i volti composti e le azioni regolate. Non c'è mistero in esso;
+c'è un mistero insondabile nel più umile di loro, per sempre.—Supponendo che dovessimo invertire la nostra aritmetica per gli oggetti materiali,
+e governare queste terribili quantità sconosciute con altri mezzi!
+
+Il giorno si fece più intenso e mostrò se stesso all'esterno, anche contro le fiammeggianti luci interne. Le luci furono spente e il lavoro continuò. La pioggia cadde e i serpenti di Fumo, sottomessi alla maledizione di tutta quella stirpe, si trascinarono sulla terra. Nel cortile abbandonato all'esterno, il vapore dal tubo di sfogo, l'ammasso di barili e vecchio ferro, i lucenti cumuli di carbone, le ceneri ovunque, erano avvolti in un velo di nebbia e pioggia.
+
+Il lavoro continuò fino a quando suonò la campana del [[Noon|mezzogiorno]]. Più rumore di passi sui marciapiedi. I telai e le ruote fermi, e gli operai liberi per un'ora.
+
+Stephen uscì dal caldo mulino e si trovò nel vento umido [[Wind|vento]] e nelle strade fredde e bagnate,
+con l'aspetto sfinito e provato. Si allontanò dalla sua classe sociale e dal suo quartiere,
+portando con sé solo un po' di pane mentre camminava verso la [[Hill|collina]] su cui viveva il suo principale datore di lavoro, in una casa rossa [[house|casa]] con persiane esterne nere,
+tende interne verdi, una porta d'ingresso nera, due gradini bianchi davanti,
+BOUNDERBY (in lettere molto simili a lui stesso) su una targhetta di ottone e un pomello della porta rotondo in ottone sotto di essa, come un punto fermo in ottone.
+
+Il signor Bounderby era a pranzo. Così Stephen si aspettava. Avrebbe detto il suo domestico che uno degli Operai chiedeva di parlargli? Messaggio di risposta, richiedendo il nome di tale Operaio. [[Stephen Blackpool]]. Non c'era nulla di preoccupante contro [[Stephen Blackpool]]; sì, poteva entrare.
+
+[[Stephen Blackpool]] nel salotto. Il signor Bounderby (che conosceva solo di vista), che pranzava con un bistecca e sherry. La signora Sparsit faceva la rete accanto al caminetto, in una posizione a sella laterale, con un piede in uno staffo di cotone. Faceva parte sia della dignità che del servizio della signora Sparsit non pranzare. Supervisionava il pasto ufficialmente, ma lasciava intendere che nella sua persona imponente considerasse il pranzo una debolezza.
+
+'Ora, Stephen,' disse il signor Bounderby, 'cosa c'è che non va in te?'
+
+Stephen fece un inchino. Non uno servile - queste Mani non lo farebbero mai!
+Signore benedica voi, signore, non li coglierete mai in questo, anche se sono con voi da vent'anni! - e, come toletta di cortesia per la signora Sparsit, si infilò le estremità del fazzoletto nel panciotto.
+
+«Ora, sapete», disse il signor Bounderby, prendendo un po' di sherry, «non abbiamo mai avuto difficoltà con voi e non siete mai stato uno di quelli irragionevoli. Non vi aspettate di essere sistemato su una carrozza a sei cavalli e di mangiare zuppa di tartaruga e cinghiale con un cucchiaio d'oro, come fanno molti di loro!» Il signor Bounderby rappresentava sempre questo come l'unico, immediato e diretto obiettivo di qualsiasi operaio che non fosse completamente soddisfatto; «e quindi so già che non siete venuto qui per fare un reclamo. Ora, sapete, ne sono certo in anticipo».
+
+'No, signore, certo che non sono venuto per niente del genere.'
+
+Il signor Bounderby sembrò piacevolmente sorpreso, nonostante la sua precedente forte convinzione. «[[Well|Benissimo]]», rispose. «Sei un bravo ragazzo e non mi ero sbagliato. Ora dimmi di che si tratta. Poiché non è quello, allora dimmi cos'è. Cosa hai da dire? Sputa il rospo, ragazzo!»
+
+Stephen si trovò a guardare verso la signora Sparsit. «Posso andarmene, signor Bounderby, se lo desidera», disse quella [[Self|donna]] disinteressata, fingendo di togliere il piede dalla staffa.
+
+Il signor Bounderby la fermò trattenendo un boccone di costoletta sospeso prima di inghiottirlo e tendendole la mano sinistra. Poi ritrasse la mano e inghiottì il suo boccone, dicendo a Stephen:
+
+«Ora sapete che questa brava signora è una vera nobildonna, una gran dama.
+Non dovete pensare che perché tiene la mia [[house|casa]] per me non sia stata molto in alto nell'albero — ah, proprio sulla cima dell'albero! Ora, se avete qualcosa da dire che non può essere detto davanti a una vera nobildonna, questa signora lascerà la stanza. Se ciò che dovete dire _può_ essere detto davanti a una vera nobildonna, questa signora rimarrà dove è».
+
+«Signore, spero di non aver mai detto nulla che non fosse adatto all'udito di una signora nobile da quando sono venuto al mondo», fu la risposta, accompagnata da un leggero rossore.
+
+«Molto [[Well|bene]]», disse il signor Bounderby allontanando il piatto e appoggiandosi allo schienale. «Sparate pure!»
+
+«Sono venuto», cominciò Stephen, alzando gli occhi dal pavimento dopo averci pensato su per qualche istante, «a chiedervi consiglio. Ne ho davvero bisogno. Mi sono sposato il Lunedì dell'Angelo diciannove anni fa, lungo e triste. Era una giovane ragazza — abbastanza carina — con buone referenze su di sé. [[Well|Beh]]! È andata male — presto. Non per colpa mia. Sapete che non sono stato un marito crudele nei suoi confronti».
 
 
 
@@ -15002,6 +16503,85 @@ us ha’ this, right understood.  Mine’s a grievous case, an’ I want—if yo
 will be so good—t’ know the law that helps me.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Ho già sentito tutto questo prima», disse il signor Bounderby. «Si mise a bere, smise di lavorare, vendette i mobili, impegnò gli abiti e si comportò come una vecchia bacucca».
+
+'Fui paziente con lei.'
+
+(«Più [[Fool|sciocco]] sei, penso», disse il signor Bounderby, confidenzialmente al suo bicchiere di vino.)
+
+«Ero molto paziente con lei. Ho cercato di allontanarla da quel luogo troppo e troppo spesso. Ci ho provato in un modo, ci ho provato in un altro, ci ho provato in un terzo. Sono andato [[Home|a casa]], molte sono le [[Time|volte]] che l'ho fatto, e ho trovato tutto svanito come se non ci fosse stato nulla al mondo, e lei senza più un senso per benedire se stessa giacente su terra nuda. L'ho fatto non una volta sola, né due volte: venti [[Time|volte]]!»
+
+Ogni linea del suo volto si accentuò mentre lo diceva e forniva la sua commovente testimonianza della [[Suffering|sofferenza]] che aveva sopportato.
+
+«Dalla mala alla peggio, dalla peggio al peggiore. Mi ha lasciato. Si è disonorata in tutti i modi, amara e cattiva. È tornata, è tornata, è tornata. Cosa potevo fare per impedirglielo? Ho camminato per le strade tutta la notte prima di andare [[Home|a casa]]. Sono andato al ponte, con l'intenzione di buttarmi giù e non vederne più niente. Ho sopportato tanto che ero vecchio quando ero giovane».
+
+La signora Sparsit, che procedeva con disinvoltura e agio man mano che lavorava a rete, alzò le sopracciglia alla coriolana e scosse la testa come per dire: «Anche i grandi sanno cosa sia il problema tanto quanto i piccoli. [[Well|Bene]], volga il suo umile sguardo nella mia direzione».
+
+«Le ho pagato per tenerla lontana da me. Da cinque anni le pago. Ho avuto di nuovo intorno a me dei ragazzi presentabili. Ho vissuto una vita dura e triste, ma non mi sono mai vergognato né ho temuto un solo istante della mia esistenza. [[Night|Ieri]] sera, sono tornato [[Home|a casa]]. E lì era distesa sul mio focolare! L'ho vista!»
+
+Nella forza della sua disgrazia e nell'energia del suo dolore,
+per un momento si comportò come un uomo orgoglioso.  Un attimo dopo, era di nuovo com'era stato tutto il [[Time|tempo]]—con la solita curvatura; con il volto pensieroso rivolto a Mr. Bounderby, che aveva un'espressione strana, metà acuta e metà perplessa, come se fosse deciso a svelare qualcosa di molto difficile; con in mano sinistra, stretta sul fianco, il cappello; con il braccio destro che, con una rude proprietà e forza d'azione, enfatizzava molto seriamente ciò che diceva: non meno quando si fermava sempre un po' piegato ma senza ritrarsi mentre lui faceva pausa.
+
+«Conoscevo tutto questo, sapete», disse il signor Bounderby, «tranne l'ultima clausola, da molto tempo. È una brutta faccenda; questa è la verità. Avreste fatto meglio a rimanere come eravate e non sposarvi. Comunque sia, ormai è troppo tardi per dirlo».
+
+«Era un [[Marriage|matrimonio]] sbilanciato, signore, per quanto riguarda gli anni?» chiese la signora Sparsit.
+
+«Avete sentito la domanda di questa signora. Era un [[Marriage|matrimonio]] sbilanciato per quanto riguarda gli anni questo sfortunato lavoro del vostro?» disse il signor Bounderby.
+
+'Non lo so nemmeno io. Io avevo ventuno anni, lei quasi venti.'
+
+«Davvero, signore?» disse la signora Sparsit al suo Capo con grande placidità. «Ho dedotto che, trattandosi di un [[Marriage|matrimonio]] così miserabile, probabilmente era disuguale dal punto di vista dell'età».
+
+Il signor Bounderby guardò la buona donna con molta insistenza, ma di sottecchi e con un'espressione stranamente imbarazzata. Si rinforzò con un altro sorso di vino di Jerez.
+
+«[[Well|Ebbene]]? Perché non continui?» chiese poi, voltandosi piuttosto irritato verso [[Stephen Blackpool]].
+
+«Sono venuto a chiedervi, signore, come posso liberarmi di questa donna».
+Stephen infuse un'ancora più profonda gravità nell'espressione mista del suo volto attento. La signora Sparsit emise una dolce esclamazione, come se avesse ricevuto uno shock morale.
+
+«Cosa intendi dire?» disse Bounderby alzandosi per appoggiare la schiena contro il caminetto. «Di cosa stai parlando? L'hai presa per meglio o per peggio».
+
+«Devo liberarmi di lei. Non posso più sopportarla. Ho vissuto sotto il suo giogo per troppo tempo, senza avere la pietà e le parole consolatrici della migliore ragazza che sia mai esistita o che esisterà. Forse, se non fosse stato per lei, sarei impazzito».
+
+«Desidera essere libero per sposare la donna di cui parla, e io ne ho [[Fear|paura]],
+signore», osservò sottovoce la signora Sparsit, molto abbattuta dalla mancanza di moralità della gente.
+
+«Lo so. La signora dice la verità. Lo so. Stavo per dirlo. Ho letto sui giornali che le persone importanti (che Dio li benedica tutti! Non voglio loro alcun male!) non sono legate l'una all'altra, nel bene e nel male, così in fretta, ma possono essere liberate dai _loro_ matrimoni infelici e sposarsi di nuovo. Quando non vanno d'accordo perché i loro caratteri non si intonano, hanno stanze di vario tipo nelle loro case, oltre un po', e possono vivere separati. Noi abbiamo solo una stanza e non possiamo farlo. Quando questo non è possibile, hanno oro e altri beni e possono dire "Questo per te e quello per me" e possono andare ognuno per la propria strada. Noi non possiamo. Nonostante tutto ciò, possono essere liberati per errori più piccoli dei miei. Quindi, devo liberarmi di questa donna e voglio sapere come?»
+
+«Niente affatto», rispose il signor Bounderby.
+
+"Se le facessi del male, signore, ci sarebbe una legge per punirmi?"
+
+'Naturalmente c'è.'
+
+'Ci sono leggi che mi puniscono se scappo da lei?'
+
+'Naturalmente c'è.'
+
+'Se sposassi quell'altra cara ragazza, ci sarebbe una legge per punirmi?'
+
+'Naturalmente c'è.'
+
+«Se dovessi vivere con lei senza sposarla — ammesso che una cosa del genere potesse essere possibile,
+il che non è e non sarà mai, visto che lei è così buona — esisterebbe una legge per punirmi,
+per ogni [[Innocent|innocente]] [[Child|bambino]] mio?»
+
+'Naturalmente c'è.'
+
+«Ora, per amor di Dio», disse [[Stephen Blackpool]], «mostratemi la legge che mi aiuti!»
+
+«Emme! C'è una sacralità in questa relazione di vita», disse il signor Bounderby, «e—e—va mantenuta».
+
+«No no, non dica questo, signore. Non è mantenuto in piedi in quel modo. Non in quel modo.
+È tenuto giù in quel modo. Sono un tessitore, ero in una fabbrica da bambino,
+ma ho occhi per vedere e orecchie per ascoltare. Leggo sui giornali ogni mese,
+ogni sessione — e anche voi leggete — lo so! — con sgomento — come la presunta impossibilità
+di liberarsi l'uno dell'altra, a qualsiasi prezzo, in qualsiasi condizione, porti [[Blood|sangue]] su questa terra,
+e porti molte comuni persone sposate alla battaglia, all'omicidio e alla improvvisa [[Death|morte]].  Dobbiamo
+capire bene questo. Il mio è un caso grave, e voglio — se volete essere così gentili — sapere la legge che mi aiuta».
+
 
 
 <span class="atom-split" data-atom="chapter_48--part_03" data-title="Hard Times — Chapter 11 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/marriage,motif/road,motif/well,setting/court"></span>
@@ -15071,6 +16651,35 @@ at his own portrait on the wall, as if he were going to explode himself
 into it; and Mrs. Sparsit still ambling on with her foot in her stirrup,
 looking quite cast down by the popular vices.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Ora, le dico una cosa!» disse il signor Bounderby mettendo le mani nelle tasche. «Esiste proprio una legge del genere».
+
+Stephen, tornando al suo modo tranquillo e senza mai distrarsi, annuì.
+
+"Ma non è per te, costa una fortuna."
+
+«Quanto potrebbe essere?» chiese calmo Stephen.
+
+«Dovreste recarvi presso i [[Court|tribunali]] dei Doctors' Commons con una causa, e dovreste andare in un tribunale di Common Law con una causa, e dovreste presentarvi alla [[house|Camera]] dei Lord con una causa, e dovreste ottenere un atto parlamentare per poter risposare, e vi costerebbe (se si trattasse di un caso molto semplice), immagino da mille a quindicento sterline», disse il signor Bounderby. «Forse anche il doppio della cifra».
+
+'Non c'è altra legge?'
+
+'Assolutamente no.'
+
+«Allora, signore», disse Stephen impallidendo e facendo con la sua mano destra un gesto come se desse tutto ai quattro venti, «è un pasticcio. È proprio un completo pasticcio, e prima muoio meglio è».
+
+(La signora Sparsit di nuovo abbattuta dall'empietà della gente.)
+
+«Fufù, fufù! Non dica sciocchezze, mio caro amico», disse il signor Bounderby, «su cose che non capisce; e non chiami istituzioni del suo paese un pasticcio, altrimenti si ritroverà in un vero pasticcio una di queste belle mattine. Le istituzioni del suo paese non sono il suo lavoro a cottimo, e l'unica cosa che deve fare è badare al suo lavoro a cottimo. Non ha sposato sua moglie per stare ora bene e ora male; ma per il meglio e per il peggio. Se lei si è rivelata peggiore—beh, tutto quello che possiamo dire è che avrebbe potuto rivelarsi migliore».
+
+«È un pasticcio», disse Stephen scuotendo la testa mentre si dirigeva verso la porta. «È tutto un pasticcio!»
+
+«Ora, vi dirò una cosa!» riprese il signor Bounderby, come un discorso di commiato. «Con le opinioni che chiamerò profane, avete scandalizzato questa signora: che, come vi ho già detto, è nata nobildonna e che, come non vi ho ancora detto, ha avuto i suoi problemi coniugali per decine di migliaia di sterline — decine di migliaia di sterline!» (lo ripeté con grande gusto). «Ora, finora siete sempre stato un bravo ragazzo; ma secondo me, e ve lo dico chiaro, state imboccando la [[Road|strada]] sbagliata. Avete ascoltato qualche estraneo maleducato o altro — ce ne sono sempre in giro — e la cosa migliore che potete fare è uscirne fuori. Ora sapete;» qui il suo volto esprimeva una meravigliosa acutezza; «vedo lontano quanto un altro uomo; forse più di molti, perché da giovane mi tenevano ben stretto al macinello. Vedo tracce della zuppa di tartaruga e del cervo e del cucchiaio d'oro in tutto questo. Sì, le vedo!» gridò il signor Bounderby, scuotendo la testa con astuzia ostinata. «Per Dio, le vedo!»
+
+Con un movimento della testa molto diverso e un profondo sospiro, Stephen disse:
+«Grazie, signore, le auguro buona giornata». Così se ne andò lasciando il signor Bounderby che si gonfiava davanti al suo ritratto appeso alla parete, come se stesse per esplodere dentro di esso; e la signora Sparsit ancora in groppa al cavallo con il piede nella staffa, abbattutissima dai vizi popolari.
 
 
 
@@ -15277,6 +16886,109 @@ the objects among which he passed, of seeing the iris round every misty
 light turn red—he went [[Home|home]] for shelter.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XII
+LA VECCHIA DONNA
+
+Vecchio STEPHEN scese i due gradini bianchi e chiuse la porta nera con il piastrino di ottone, servendosi del punto fermo in ottone che lucidò un'ultima volta con la manica della giacca, notando che la sua mano calda lo appannava. Attraversò la strada tenendo gli occhi fissi a terra e così camminava tristemente via quando sentì una mano toccargli il braccio.
+
+Non era il contatto di cui aveva più bisogno in un momento del genere: quel contatto che avrebbe potuto calmare le acque agitate della sua [[Soul|anima]], come la mano alzata dell'[[Love|amore]] e della pazienza più sublimi poteva placare l'impeto del mare. Eppure era pur sempre una mano di donna. Era un'anziana signora, ancora alta e ben fatta, sebbene avvizzita dal [[Time|tempo]], su cui i suoi occhi caddero quando si fermò e si voltò. Era vestita con grande semplicità ed era molto pulita; aveva il fango della campagna sulle scarpe ed era appena arrivata da un [[Journey|viaggio]]. L'agitazione del suo comportamento nel frastuono insolito delle strade, lo scialle leggero che portava aperto sul braccio, l'ombrello pesante e il piccolo cestino, i guanti larghi a dita lunghe ai quali le sue mani non erano abituate: tutto faceva pensare a una vecchia signora di campagna con i suoi semplici vestiti da festa venuta a Coketown per un'impresa rara. [[Stephen Blackpool]] notò tutto questo in un attimo, con la rapida osservazione tipica della sua classe sociale, e inclinò il suo volto attento - quel volto che, come quelli di molti suoi simili, a forza di lavorare negli anni con gli occhi e le mani nel bel mezzo di un frastuono enorme aveva acquisito quella concentrazione che ci è familiare nei volti dei sordi - per sentire meglio ciò che lei gli chiedeva.
+
+«Per favore, signore», disse la vecchia donna, «non l'ho forse vista uscire da quella [[house|casa]] del gentiluomo?» indicando di nuovo quella del signor Bounderby. «Credo fosse lei, a meno che non abbia avuto la sfortuna di sbagliare persona seguendola».
+
+'Sì, signora,' rispose Stephen, 'ero io.'
+
+Avete, mi scuserà la curiosità di una vecchia donna, avete visto il signore?
+
+'Sì, signora.'
+
+«E come appariva, signore? Era corpulento, audace, schietto e cordiale?»
+Mentre si raddrizzava e alzava il capo per adeguare i gesti alle parole,
+a Stephen venne l'idea di aver già visto quella vecchia donna prima d'allora,
+e di non esserle andato del tutto a genio.
+
+"Sì," rispose lui, osservandola più attentamente, "era proprio così."
+
+«E sano», disse la vecchia donna, «come il fresco [[Wind|vento]]?»
+
+'Sì,' rispose Stephen, 'mangiava e beveva - tanto quanto un ummobee.'
+
+"Grazie!" disse la vecchia donna con infinita soddisfazione. "Grazie!"
+
+Egli certamente non aveva mai visto prima questa vecchia signora.
+Tuttavia gli sembrava di ricordare vagamente che più volte avesse sognato una vecchia come lei.
+
+Camminò al suo fianco e lui si adattò con gentilezza al suo [[Humour|umore]], dicendo che Coketown era un posto molto attivo, no? A cui lei rispose: «Eh sì! Terribilmente attiva!» Poi lui disse di aver capito che veniva dalla campagna. E lei confermò.
+
+«Con il Parlamentare questa mattina. Ho fatto quaranta miglia con il Parlamentare questa mattina e tornerò indietro per le stesse quaranta miglia questo pomeriggio. Ho camminato nove miglia fino alla stazione questa mattina, e se non trovo nessuno sulla [[Road|strada]] che mi dia un passaggio, farò ritorno a piedi di altre nove miglia stasera. Questo è piuttosto [[Well|bene]], signore, per la mia età!» disse la chiacchierona vecchia signora, il cui sguardo si illuminò d'orgoglio.
+
+''Certo che sì. Non farlo troppo spesso, signora.''
+
+«No, no. Una volta all'anno», rispose scuotendo la testa. «Spendo i miei risparmi così, una volta ogni anno. Vengo regolarmente a vagabondare per le strade e vedere i signori».
+
+«Solo per vederli?» rispose Stephen.
+
+«Questo mi basta», rispose con grande serietà e interesse,
+«non chiedo altro! Sono rimasta qui, da questa parte della strada, per vedere quel signore»,
+girando di nuovo la testa verso il signor Bounderby, «uscire. Ma quest'anno è in ritardo
+e non l'ho visto. Al suo posto siete uscito voi. Ora, se devo tornare indietro senza averlo nemmeno intravisto — voglio solo un'occhiata — [[Well|beh]]! Ho visto voi e voi avete visto lui, quindi dovrà bastarmi così». Dicendo questo,
+guardò Stephen come per fissarne i lineamenti nella mente, ma il suo sguardo non era più così luminoso.
+
+Con una grande tolleranza per le differenze di gusti e con tutta la deferenza verso i patrizi di Coketown, gli sembrava così straordinaria questa fonte d'interesse da giustificare tanto sforzo che ne rimase perplesso. Ma stavano passando davanti alla chiesa ora e mentre il suo occhio coglieva l'[[Clock|orologio]], accelerò il passo.
+
+Stava andando al lavoro? disse la vecchia donna, accelerando anche lei il passo senza difficoltà alcuna. Sì, era quasi ora. Quando le disse dove lavorava, la vecchia divenne ancora più strana di prima.
+
+«Non sei felice?» gli chiese lei.
+
+«Perché—quasi tutti hanno i loro problemi, signora». Rispose evasivamente,
+perché la vecchia sembrava dare per scontato che lui sarebbe stato davvero molto felice e non aveva il coraggio di deluderla.
+Sapeva che nel mondo c'erano abbastanza guai; e se la vecchia
+aveva vissuto così a lungo, e poteva contare sul fatto che lui ne avesse così pochi, allora tanto meglio per lei, e non peggio per lui.
+
+«Sì, sì! Avete i vostri problemi in [[Home|casa]], intendete?», disse lei.
+
+«Tempi. Ogni tanto», rispose lui, con nonchalance.
+
+“Ma lavorando per un signore del genere, non ti seguono fino alla fabbrica?”
+
+No, no; non lo seguirono fin lì, disse Stephen. Tutto corretto là.
+Tutto in armonia là. (Non arrivò fino al punto di dire, per il suo
+piacere, che c'era una specie di Diritto Divino là; ma ho sentito
+asserzioni quasi altrettanto magnifiche negli ultimi anni.)
+
+Erano ormai sulla [[Road|strada]] sterrata vicino al luogo e le Mani si stavano affollando. La campana suonava e il Serpente era un serpente di molte spire, mentre l'Elefante si preparava. La vecchia signora strana era entusiasta della campana stessa. Era la più bella campana che avesse mai sentito, disse, e suonava magnificamente!
+
+Gli chiese, quando si fermò gentilmente per stringerle la mano prima di entrare, da quanto tempo lavorava lì.
+
+«Un dozzina di anni», le disse.
+
+«Devo baciare la mano», disse lei, «che ha lavorato in questa splendida fabbrica per una dozzina d'anni!» E lo sollevò, anche se lui avrebbe voluto impedirglielo, e lo portò alle labbra. Non sapeva che armonia, oltre alla sua età e alla sua semplicità, la circondasse, ma anche in questa azione fantastica c'era qualcosa che non era né fuori [[Time|tempo]] né luogo: qualcosa che sembrava come se nessun altro avrebbe potuto rendere così serio o fare con un'aria tanto naturale e commovente.
+
+Era già da mezz'ora al suo telaio a pensare a quella vecchia signora,
+quando, dovendo girargli intorno per regolarlo, lanciò un'occhiata attraverso una [[Window|finestra]] che si trovava nel suo angolo e la vide ancora
+che guardava verso l'edificio in costruzione, rapita dall'ammirazione.  Non curandosi del fumo, della melma e dell'umidità, né dei suoi due lunghi viaggi, lo stava fissando come se il pesante ronzio che ne usciva dai numerosi piani fosse per lei una musica orgogliosa.
+
+Poi se ne andò e il giorno la seguì, e le luci si accesero di nuovo,
+e l'Express sfrecciò in piena vista del Palazzo delle Fate sopra gli archi vicini:
+poco sentito tra lo stridere della macchina, e appena udibile sopra
+il suo fragore e il suo rumore. Molto prima allora i suoi pensieri erano tornati alla stanza triste sopra la piccola bottega,
+e alla figura vergognosa pesante sul letto, ma più pesante nel cuore di lui.
+
+Le macchine rallentarono, pulsando debolmente come un polso che sta per cedere, e si fermarono.
+Il campanello suonò di nuovo; la luce accecante e il calore svanirono; le fabbriche,
+che incombevano pesanti nella [[Night|notte]] umida e buia — i loro alti comini che si innalzavano nell'aria come torri di Babele in competizione.
+
+La sera prima aveva parlato con Rachael, era vero, e l'aveva accompagnata per un tratto; ma sopportava una nuova disgrazia che nessun altro poteva alleviare neanche per un momento, e proprio a causa di essa, sapendo che gli serviva il placarsi della sua ira che solo la voce di lei poteva ottenere, sentì che avrebbe potuto trascurare ciò che aveva detto fino al punto da aspettarla ancora.  Aspettò, ma lei lo aveva evitato.
+Se n'era andata.  In nessun'altra [[Night|sera]] dell'anno avrebbe tanto sentito la mancanza del suo paziente volto.
+
+O! Meglio non avere una [[Home|casa]] dove posare il capo che averne una e temere di entrarvi per un motivo del genere. Mangiò e bevve perché era esausto — ma sapeva o gli importava poco cosa; e vagabondò sotto la fredda pioggia, pensando e ripensando, rimuginando e rimuginando ancora.
+
+Nessuna parola di un nuovo [[Marriage|matrimonio]] era mai passata tra loro; ma Rachael aveva avuto grande pietà per lui anni fa, e [[Alone|solo]] con lei egli aveva aperto il suo cuore chiuso tutto questo [[Time|tempo]], sull'argomento delle sue miserie; e sapeva
+benissimo che se fosse stato libero di chiederglielo, lei lo avrebbe preso. Pensava alla [[Home|casa]] che in quel momento avrebbe potuto cercare con piacere e [[Pride|orgoglio]]; all'uomo diverso che quella [[Night|notte]] avrebbe potuto essere; alla leggerezza che allora sarebbe stata nel suo petto ora così gravato; all'[[Honour|onore]], al rispetto di sé, alla tranquillità allora ristabiliti e ora tutti strappati a pezzi. Pensava allo spreco della parte migliore della sua vita, al cambiamento che ogni giorno rendeva il suo carattere peggiore, alla terribile [[Nature|natura]] della sua esistenza, legata mani e piedi a una donna morta, e tormentata da un demone in quella forma. Pensava a Rachael, quanto giovane quando furono messi insieme per la prima volta in queste circostanze, quanto matura ora, quanto presto sarebbe diventata vecchia. Pensava al numero di ragazze e donne che l'aveva vista sposarsi, quante case con bambini intorno a sé aveva visto crescere, come avesse serenamente perseguito il suo tranquillo cammino solitario—per lui—and come talvolta avesse visto un'ombra di [[Melancholy|malinconia]] sul suo beato volto, che lo colpiva con rimorso e [[Despair|disperazione]]. Collocò l'immagine di lei accanto all'infame immagine dell'[[Night|ultima notte]]; e pensava: "È possibile che tutto il corso terreno di una così gentile, buona e [[Self|abnegata]] persona fosse soggiogato a un miserabile come quello?"
+
+Pieno di questi pensieri — così pieno che aveva una sensazione malsana di crescere, di essere posto in qualche nuova e malata relazione verso gli oggetti tra cui passava, di vedere l'iride intorno a ogni luce nebbiosa diventare rossa — andò [[Home|a casa]] per ripararsi.
+
 
 
 <span class="atom-split" data-atom="chapter_50--part_01" data-title="Hard Times — Chapter 13 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/death,motif/fire,motif/home,motif/night,motif/sleep,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/self"></span>
@@ -15415,6 +17127,81 @@ when I coom in.  I can never see thee better than so.  Never, never,
 never!’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIII
+RACHEL
+
+Una candela ardeva debolmente nella [[Window|finestra]], alla quale la scala nera era stata spesso appoggiata per far scivolare via tutto ciò che di più prezioso esisteva in questo mondo per una moglie instancabile e un gruppo di bambini affamati; e Stephen aggiunse ai suoi altri pensieri la severa riflessione che, tra tutte le casualità di questa esistenza sulla terra, non ce n'era nessuna distribuita con una mano così disuguale come la [[Death|morte]].  La disuguaglianza della Nascita era nulla in confronto. Infatti, anche se il [[Child|figlio]] di un [[King|Re]] e il [[Child|figlio]] di un Tessitore fossero nati la scorsa-[[Night|notte]] nello stesso momento, quale era questa disparità rispetto alla [[Death|morte]] di qualsiasi essere umano che fosse utile o amato da qualcun altro, mentre questa donna abbandonata continuava a vivere!
+
+Dall'esterno della sua [[Home|casa]] passò cupamente all'interno, con il respiro trattenuto e un lento passo. Si avvicinò alla porta, la aprì ed entrò nella stanza.
+
+C'era silenzio e pace. C'era Rachel seduta accanto al letto.
+
+Lei girò la testa e la luce del suo volto illuminò il mezzanotte della sua mente. Si sedette accanto al letto, vegliando e curando sua moglie. Cioè, lui vide che qualcuno giaceva là, e sapeva [[Well|troppo]] bene che doveva essere lei; ma le mani di Rachael avevano tirato una tenda, in modo da schermarla dai suoi occhi. I suoi indumenti sconvenienti erano stati rimossi, e alcuni di quelli di Rachael si trovavano nella stanza. Tutto era al suo posto e ordinato come lui l'aveva sempre tenuto, il piccolo [[Fire|fuoco]] era stato appena ravvivato e il focolare era stato spazzato di fresco. Gli sembrava di vedere tutto questo nel volto di Rachael, e non guardava altro. Mentre lo fissava, la vista gli fu oscurata dalle [[Tears|lacrime]] che riempivano i suoi occhi; ma prima di allora aveva visto quanto lei lo guardasse intensamente, e come anche i suoi occhi fossero pieni.
+
+Si voltò di nuovo verso il letto e assicuratasi che tutto fosse tranquillo,
+parlò con voce bassa, calma e allegra.
+
+'Finalmente sei arrivato, Stephen. Sei in ritardo.'
+
+'Ho camminato avanti e indietro.'
+
+«Lo pensavo anch'io. Ma è una [[Night|notte]] troppo brutta per questo. Piove molto forte e il [[Wind|vento]] si è alzato».
+
+Il [[Wind|vento]]? Vero. Soffiava forte. Ascolta il tuono nel camino e quel rumore tumultuoso! Essere stato fuori in un simile [[Wind|vento]], senza sapere che soffiava!
+
+«Sono già stato qui una volta prima d'ora oggi, Stephen. La padrona di casa è venuta a cercarmi all'[[Time|ora]] di pranzo. C'era qualcuno qui che aveva bisogno di cure, ha detto. E in effetti aveva ragione. Era tutto smarrito e perso, Stephen. Ferito anche lui, e contuso».
+
+Si mosse lentamente verso una sedia e si sedette, abbassando la testa davanti a lei.
+
+«Sono venuta a fare quel poco che potevo, Stephen; prima di tutto perché lei lavorava con me quando eravamo entrambe ragazze e perché tu la corteggiasti e la sposasti mentre io ero sua amica»
+
+Si appoggiò la fronte solcata sulla mano con un gemito sommesso.
+
+«E poi, perché conosco il tuo cuore e sono certo che è troppo misericordioso per lasciarla morire o anche solo soffrire senza aiuto. Sai chi ha detto: “Chi di voi è senza peccato scagli la prima pietra contro di lei!” Ce n’è stato a sufficienza che l’hanno fatto. Tu non sei uomo da lanciare l’ultima pietra, Stephen, quando lei è caduta così in basso».
+
+'O Rachael, Rachael!'
+
+«Sei stata una sofferente crudele, che il Cielo ti ricompensi!» disse con accenti compassionevoli. «Sono la tua povera amica, con tutto il mio cuore e la mia mente».
+
+Stephen e Rachael nella stanza dei malati
+
+Le ferite di cui aveva parlato sembravano trovarsi sul collo dell'[[Self|auto]]esiliato. Ora le medicava senza mostrarsi ancora. Imbevette un pezzo di lino in una bacinella, nella quale versò del liquido da una bottiglia, e lo applicò con mano delicata sulla piaga. Il tavolino a tre gambe era stato avvicinato al capezzale, e sopra c'erano due bottiglie. Questa ne era una.
+
+Non era così lontano che Stephen, seguendo con gli occhi le sue mani,
+non potesse leggere ciò che vi era stampato in grandi lettere. Impallidì e un improvviso orrore sembrò abbattersi su di lui.
+
+«Rimarrò qui, Stephen», disse Rachael, riprendendo tranquillamente il suo posto,
+«finché le [[The Bells|campane]] suoneranno tre.  Dovrà essere fatto di nuovo alle tre, e poi potrà rimanere fino al mattino».
+
+'Ma riposati per il lavoro di domani, mia cara.'
+
+«Ho dormito profondamente la scorsa [[Night|notte]]. Posso passare insonne molte notti, se necessario.
+Sei tu che hai bisogno di riposo: così pallido e stanco. Prova a [[Sleep|dormire]] su quella sedia mentre io veglio. Non hai chiuso occhio la scorsa [[Night|notte]], lo so [[Well|bene]]. Il lavoro di domani sarà molto più duro per te che per me».
+
+Udì il fragore e l'impeto all'esterno, e gli sembrò che il suo recente umore iracondo stesse cercando di raggiungerlo. Lei lo aveva scacciato; lei lo avrebbe tenuto fuori; si affidava a lei per difendersi da se stesso.
+
+«Non mi conosce, Stephen; borbotta e fissa il vuoto in uno stato di torpore. Le ho parlato più volte, ma non si accorge nemmeno di me! È [[Well|bene]] così. Quando tornerà in sé, avrò fatto tutto quello che potevo, senza che lei se ne renda conto».
+
+'Quanto tempo, Rachael, ci vorrà prima che sia così?'
+
+'Il dottore ha detto che forse domani tornerà in sé.'
+
+I suoi occhi ricaddero sulla bottiglia e un tremito lo percorse,
+facendolo rabbrividire in ogni membro. Lei pensò che avesse freddo per l'umidità.
+«No», disse, «non era quello. Aveva ricevuto uno spavento».
+
+'Una paura?'
+
+«Sì, sì! stavo entrando. Quando ero in passeggiata. Quando pensavo. Quando io—» Lo riprese; e si alzò in piedi, aggrappandosi allo scaffale del caminetto mentre con una mano tremante come se fosse paralizzata si schiacciava i capelli freddi e bagnati di sudore.
+
+'Stephen!'
+
+Lei stava venendo da lui, ma lui tese il braccio per fermarla.
+
+«No! Ti prego, no; non farlo. Lascia che ti veda seduto accanto al letto. Lascia che ti veda così buono e così indulgente. Lascia che ti veda come ti vedo quando entro. Non potrò mai vederti meglio di così. Mai, mai, mai!»
+
 
 
 <span class="atom-split" data-atom="chapter_50--part_02" data-title="Hard Times — Chapter 13 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/night,motif/silence,motif/sleep,motif/time,motif/wind,motif/window,concept/eternity,concept/fear,concept/hope,concept/self"></span>
@@ -15519,6 +17306,38 @@ Dream or reality, he had no voice, nor had he power to stir.  If this be
 real, and her allotted [[Time|time]] be not yet come, wake, Rachael, wake!
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Ebbe un violento attacco di tremore e poi si accasciò sulla sedia. Dopo un po' riuscì a controllarsi e, appoggiandosi con un gomito su un ginocchio e la testa su quella mano, poté guardare verso Rachael. Vista attraverso la luce fioca della candela con i suoi occhi umidi, sembrava che avesse una gloria luminosa intorno alla testa. Avrebbe potuto credere che ce l'avesse davvero. E ci credeva, mentre il rumore all'esterno scuoteva la [[Window|finestra]], faceva tremare la porta di sotto e si diffondeva per tutta la [[house|casa]] con clamori e lamenti.
+
+«Quando starà meglio, Stephen, si spera che ti lascerà di nuovo in pace e non ti farà più del male. Comunque adesso lo [[Hope|speriamo]]. E ora manterrò il [[Silence|silenzio]], perché voglio che tu [[Sleep|dorma]].»
+
+Chiuse gli occhi più per compiacerla che per riposare la sua testa stanca; ma,
+a poco a poco mentre ascoltava il grande rumore del [[Wind|vento]], smise di sentirlo,
+oppure si trasformò nel lavoro del suo telaio, o addirittura nelle
+voci della giornata (inclusa la sua) che dicevano ciò che era stato realmente detto.
+Anche questa coscienza imperfetta svanì infine, e lui sognò un sogno lungo e agitato.
+
+Pensò che lui e una certa persona a cui il suo cuore era da tempo legato — ma non si trattava di Rachael, e questo lo sorprese anche nel mezzo della sua felicità immaginaria — stessero in chiesa per sposarsi. Mentre la cerimonia veniva celebrata, e mentre riconosceva tra i testimoni alcune persone che sapeva essere vive e molte altre che sapeva essere morte, calò l'oscurità, seguita dal bagliore di una luce tremenda. La luce proveniva da una riga della tavola dei comandamenti all'altare e illuminava l'edificio con le parole. Le parole risuonavano anche in chiesa, come se ci fossero voci nelle lettere infuocate. A questo punto, tutta la scena davanti a lui e intorno a lui cambiò, e non rimase nulla com'era prima, tranne lui stesso e il sacerdote. Si trovavano alla luce del giorno di fronte a una folla così immensa che se tutte le persone del mondo fossero state riunite in uno spazio unico, pensava, non avrebbero potuto sembrare più numerose; e tutti lo aborrevano, e non c'era neanche un occhio compassionevole o amichevole tra i milioni che erano fissi sul suo viso. Si trovava su un palco rialzato, sotto il proprio telaio; e guardando la forma del telaio e sentendo distintamente leggere il servizio funebre, capì che era lì per subire [[Death|morte]]. In un istante ciò su cui si trovava crollò sotto di lui, ed egli scomparve.
+
+—Non riusciva a capire da quale mistero fosse tornato alla sua vita abituale e ai luoghi che conosceva; ma era di nuovo in quei luoghi per qualche motivo, e su di lui gravava questa condanna: non avrebbe mai più, in questo mondo o nell'altro, attraverso tutti gli immaginabili secoli dell'[[Eternity|eternità]], potuto vedere il volto di Rachael o sentire la sua voce. Vagando senza sosta, senza [[Hope|speranza]] e in cerca di chissà cosa (sapeva solo che era condannato a cercarla), era preda di un timore indicibile, orribile, una [[Fear|paura]] mortale per una forma particolare che ogni cosa assumeva. Qualunque cosa guardasse, prima o poi si trasformava in quella forma. L'obiettivo della sua miserabile esistenza era impedire che qualcuno tra le varie persone che incontrava la riconoscesse. Un lavoro disperato! Se li conduceva fuori dalle stanze dove si trovava, se chiudeva cassetti e armadi dove stava nascosta, se allontanava i curiosi dai luoghi in cui sapeva che era celata e li portava per le strade, anche i comignoli delle fabbriche assumevano quella forma, e intorno a loro c'era la scritta stampata.
+
+Il [[Wind|vento]] soffiava di nuovo, la pioggia batteva sui tetti della [[house|casa]], e gli ampi spazi attraverso i quali aveva vagato si riducevano alle quattro pareti della sua stanza. A parte il fatto che il [[Fire|fuoco]] era spento, tutto era come quando i suoi occhi si erano chiusi su di esso. Rachael sembrava essere caduta in un pisolino sulla sedia accanto al letto. Sedeva avvolta nel suo scialle, perfettamente immobile. Il tavolo stava nello stesso posto, vicino al capezzale, e sopra di esso, nelle sue reali proporzioni e aspetto, c'era la forma così spesso ripetuta.
+
+Gli parve di vedere muoversi la tenda. Guardò ancora e fu sicuro che si era mossa. Vide uscire una mano che frugava un po' intorno. Poi la tenda si mosse più visibilmente, e la donna nel letto la scostò e si mise a sedere.
+
+Con i suoi occhi afflitti, così smunti e selvaggi, così pesanti e grandi, guardò tutt'intorno nella stanza, passando l'angolo dove lui dormiva sulla sua sedia.
+I suoi occhi tornarono a quell'angolo, e si coprì gli occhi con la mano come per ripararli dalla luce mentre lo scrutava.  Ancora una volta i suoi occhi fecero il giro della stanza, senza quasi badare a Rachael se non del tutto, e tornarono a quell'angolo.  Pensò che, quando li coprì di nuovo - guardandolo non tanto con gli occhi quanto cercandolo con un istinto animalesco che lui era lì - non rimaneva più alcuna traccia in quei lineamenti corrotti o nella mente che li accompagnava della donna che aveva sposato diciotto anni prima.  Ma se non avesse visto lei arrivare a questo passo dopo passo, mai si sarebbe creduto che fosse la stessa persona.
+
+Per tutto questo [[Time|tempo]], come se fosse stato colpito da un incantesimo,
+rimase immobile e impotente, tranne che per guardarla.
+
+Stupidamente assopita o intenta a conversare con la sua inetta [[Self|persona]] su nulla, rimase seduta per un po' di tempo con le mani alle orecchie e il capo appoggiato su di esse.  Poco dopo riprese a fissare lo sguardo intorno alla stanza. E ora, per la prima [[Time|volta]], i suoi occhi si fermarono sul tavolo con sopra le bottiglie.
+
+Subito rivolse di nuovo lo sguardo verso il suo angolo, con la stessa sfida della scorsa [[Night|notte]], e muovendosi con estrema cautela e delicatezza, allungò la sua mano avida.  Tirò una brocca sul letto e rimase per un po' a riflettere su quale delle due bottiglie scegliere.  Alla fine, posò la sua insensata presa sulla bottiglia che conteneva una [[Death|morte]] rapida e certa, e davanti ai suoi occhi, tirò il tappo con i denti.
+
+Sogno o realtà, non aveva voce né la forza di muoversi. Se questo è reale e il suo tempo assegnato [[Time|non è ancora giunto]], svegliati, Rachael, svegliati!
+
 
 
 <span class="atom-split" data-atom="chapter_50--part_03" data-title="Hard Times — Chapter 13 (part 3)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/night,motif/poison,motif/road,motif/sleep,motif/soul,motif/stars,motif/time,motif/well,motif/wind,motif/window,concept/hope"></span>
@@ -15611,6 +17430,53 @@ bare-headed in the [[Road|road]], watching her quick disappearance.  As the
 shining [[Stars|stars]] were to the heavy candle in the [[Window|window]], so was Rachael, in
 the rugged fancy of this man, to the common experiences of his life.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Anche di questo pensò. Guardò Rachael e con estrema lentezza,
+con la massima cautela, versò il contenuto. Il liquore era alle sue labbra.
+Un attimo ancora e sarebbe stata oltre ogni aiuto, anche se tutto il mondo si fosse svegliato e le fosse accorso in aiuto con tutta la sua potenza. Ma proprio in quell'attimo Rachael balzò su con un grido soffocato. La creatura lottò, la colpì, la afferrò per i capelli; ma Rachael aveva il bicchiere.
+
+Stephen balzò in piedi dalla sedia. «Rachel, sto sognando o sono sveglio questa terribile [[Night|notte]]?»
+
+«Va tutto [[Well|bene]], Stephen. Anche io ho dormito. Sono quasi le tre.
+Ssst! Sento le [[The Bells|campane]].»
+
+Il [[Wind|vento]] portò i suoni dell'[[Clock|orologio]] della chiesa alla [[Window|finestra]]. Ascoltarono, e batté l'ora terza. Stephen la guardò, vide quanto era pallida, notò il disordine dei suoi capelli e le tracce rosse delle dita sulla sua fronte, e si sentì sicuro che i suoi sensi della vista e dell'udito erano stati svegli. Lei teneva ancora in mano la coppa.
+
+«Pensavo che fosse quasi l'una» disse, versando tranquillamente dal bicchiere nel catino e immergendo il panno come prima. «Sono contenta di essere rimasta! Ora è fatta, quando avrò messo questo. Ecco fatto! E ora lei è di nuovo calma. Le poche gocce che sono rimaste nel catino le verserò via, perché non va bene lasciarle in giro, anche se fossero davvero poche». Mentre parlava, svuotò il catino tra le ceneri del [[Fire|fuoco]] e ruppe la bottiglia sul focolare.
+
+Non le restava dunque altro da fare che coprirsi con lo scialle prima di uscire nella [[Wind|pioggia]] e nel vento.
+
+"Mi permetterai di camminare con te ora, Rachael?"
+
+«No, Stephen. È solo un minuto e sono [[Home|a casa]].»
+
+«Non hai paura» disse con voce bassa mentre uscivano dalla porta «di lasciarmi [[Alone|solo]] con lei!»
+
+Mentre lo guardava e diceva: «Stephen?», egli si inginocchiò davanti a lei,
+sul povero misero pianerottolo, e portò un lembo del suo scialle alle labbra.
+
+'Lei è un angelo. Benedetta, benedetta!'
+
+«Sono, come ti ho detto, Stephen, la tua povera amica. Gli angeli non sono come me. Tra loro e una donna che lavora piena di difetti c'è un abisso. La mia sorellina è tra loro, ma è cambiata».
+
+Lei alzò gli occhi per un momento mentre pronunciava le parole; e poi li riabbassò di nuovo, con tutta la loro dolcezza e mitezza, sul suo viso.
+
+«Tu mi cambi da cattivo in buono. Tu fai sì che io desideri umilmente di essere più simile a te e temo di perderti quando questa vita sarà finita, e tutto il caos sarà stato spazzato via. Sei un angelo; può darsi che tu abbia salvato la mia [[Soul|anima]]!»
+
+Lo guardò mentre era inginocchiato ai suoi piedi con lo scialle ancora tra le mani e la rimproverò che aveva sulle labbra svanì quando vide l'espressione del suo volto.
+
+«Sono tornato [[Home|a casa]] disperato. Sono tornato [[Home|a casa]] senza una [[Hope|speranza]], e furioso al pensiero che quando dicevo una parola di lamento mi consideravano un Operaio irragionevole.
+Ti ho detto che avevo avuto uno spavento. Era la bottiglia del [[Poison|veleno]] sul tavolo. Non ho mai fatto male a una creatura vivente; ma trovandola così all'improvviso, pensai: "Come posso dire cosa avrei potuto fare a me stesso, o a lei, o a entrambi!"»
+
+Lei gli mise le due mani sulla bocca con aria spaventata per impedirgli di dire altro. Lui le afferrò con la mano libera e continuando a tenerle strette mentre ancora stringeva il bordo del suo scialle, disse in fretta:
+
+«Ma ti vedo, Rachael, seduta accanto al letto. Ti ho vista tutta la [[Night|notte]]. Nel mio turbato [[Sleep|sonno]] ho continuato a sapere che tu c'eri ancora. Ti vedrò sempre lì. Non la rivedrò mai più né penserò più a lei, ma tu starai accanto a lei. Mai più rivedrò o penserò a qualcosa che mi adiri, ma tu, tanto migliore di me, sarai al suo fianco. E così cercherò di guardare al [[Time|tempo]], e così cercherò di fidarmi del [[Time|tempo]], quando noi due finalmente cammineremo insieme lontano, oltre il profondo abisso, nel paese dove è la tua sorellina».
+
+Baciò di nuovo il bordo del suo scialle e la lasciò andare. Gli augurò una buona [[Night|notte]] con voce rotta e uscì per strada.
+
+Il [[Wind|vento]] spirava dalla direzione da cui il giorno sarebbe presto apparso e continuava a soffiare forte. Aveva spazzato via le nuvole davanti a sé, la pioggia si era esaurita o era andata altrove, e le [[Stars|stelle]] splendevano luminose. Lui stava in piedi sulla [[Road|strada]], senza cappello, osservando la sua rapida scomparsa. Come le scintillanti [[Stars|stelle]] erano per la pesante candela nella [[Window|finestra]], così Rachael era, nella rozza fantasia di quell'uomo, rispetto alle comuni esperienze della sua vita.
 
 
 
@@ -15835,6 +17701,138 @@ the threads he had already spun into a woman.  But his factory is a
 secret place, his work is noiseless, and his Hands are mutes.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XIV
+IL GRANDE PRODUTTORE
+
+Il [[Time|tempo]] scorreva a Coketown come la sua stessa macchina: tanto materiale lavorato,
+tanto combustibile consumato, tanti operai logorati, tanto denaro guadagnato.
+Ma, meno implacabile del ferro, dell'acciaio e dello stagno, portava le sue mutevoli
+[[Seasons|stagioni]] anche in quel deserto di fumo e mattoni, e faceva l'unica
+resistenza che mai _fu_ fatta nel luogo contro la sua terribile uniformità.
+
+"La piccola Louisa sta diventando una vera donna", disse il signor Gradgrind.
+
+Il [[Time|tempo]], con la sua innumerevole potenza di [[Horse|cavalli]], continuò il suo lavoro senza badare a quello che diceva chiunque, e presto trasformò il giovane Thomas rendendolo un piede più alto rispetto all'ultima volta in cui suo padre aveva fatto particolare attenzione a lui.
+
+'Thomas sta diventando', disse il signor Gradgrind, 'quasi un giovane uomo.'
+
+Il [[Time|tempo]] passò per Thomas nella fabbrica mentre suo padre ci pensava su,
+e lì si trovò con un lungo cappotto e un rigido colletto di camicia.
+
+«In verità», disse il signor Gradgrind, «è giunto il momento che Tom vada da Bounderby».
+
+Il [[Time|tempo]], attaccandosi a lui, lo portò nella Banca di Bounderby, ne fece un abitante della [[house|casa]] di Bounderby, rese necessario l'acquisto del suo primo rasoio e lo esercitò diligentemente nei suoi calcoli relativi al numero uno.
+
+Lo stesso grande industriale, sempre con un'enorme varietà di lavori in corso,
+in ogni fase di sviluppo, fece avanzare Sissy nel suo mulino e la trasformò
+in un articolo davvero molto grazioso.
+
+«[[Fear|Temo]], Jupe», disse il signor Gradgrind, «che la tua permanenza a scuola più a lungo sarebbe inutile».
+
+«Temo che lo sia, signore», rispose Sissy con un inchino.
+
+«Non posso nascondervi, Jupe», disse il signor Gradgrind aggrottando la fronte, «che il risultato del vostro periodo di prova vi ha deluso; vi ha deluso grandemente. Non avete acquisito sotto la guida del signor e della signora M'Choakumchild nulla che si possa paragonare a quella quantità di conoscenza esatta che mi aspettavo. Siete estremamente carente nei fatti. La vostra conoscenza dei numeri è molto limitata. Siete in generale indietro e al di sotto del livello atteso».
+
+«Mi dispiace, signore», rispose lei «ma so che è assolutamente vero. Eppure ho fatto del mio meglio, signore».
+
+«Sì», disse il signor Gradgrind, «sì, credo che tu abbia fatto del tuo meglio; ti ho osservato e non posso trovare alcun difetto sotto questo aspetto.»
+
+«Grazie, signore. A volte ho pensato», qui Sissy era molto timida, «che forse cercavo di imparare troppo e che se avessi chiesto il permesso di provare un po' meno, potrei essere riuscita a—»
+
+«No, Jupe, no», disse il signor Gradgrind scuotendo la testa nel suo modo più profondo e eminentemente pratico. «No. Il corso che hai seguito lo hai seguito secondo il sistema — il sistema — e non c'è altro da dire al riguardo. Posso solo supporre che le circostanze della tua giovinezza fossero troppo sfavorevoli allo sviluppo delle tue capacità di ragionamento, e che abbiamo iniziato troppo tardi. Tuttavia, come ho già detto, sono deluso».
+
+«Vorrei aver potuto dimostrarvi in modo migliore la mia gratitudine per la vostra gentilezza verso una povera ragazza abbandonata che non aveva diritto a nulla da parte vostra e per il vostro aiuto nei suoi confronti.»
+
+«Non versare [[Tears|lacrime]]», disse il signor Gradgrind «non versare [[Tears|lacrime]]. Non ho nulla da ridire su di te. Sei una giovane donna affettuosa, seria e buona — e — e dobbiamo accontentarci di questo».
+
+«Grazie mille, signore», disse Sissy con un inchino di gratitudine.
+
+«Siete utile alla signora Gradgrind e (in un modo generale pervasivo) siete anche utile alla famiglia; così ho capito da Miss Louisa e, infatti, lo stesso ho osservato. [[Hope|Spero]] quindi», disse il signor Gradgrind, «che possiate rendervi felice in tali rapporti».
+
+'Non avrei nulla da desiderare, signore, se, '
+
+«Vi capisco», disse il signor Gradgrind; «vi riferite ancora a vostro padre.
+Ho sentito da Miss Louisa che conservate ancora quella bottiglia. [[Well|Bene]]!
+Se la vostra formazione nella scienza di ottenere risultati esatti fosse
+stata più efficace, sareste stato più saggio su questi punti. Non aggiungo altro».
+
+Gli piaceva davvero [[Well|molto]] anche Sissy per disprezzarla; altrimenti avrebbe considerato le sue capacità di calcolo così poco che non poteva che giungere a quella conclusione.  In qualche modo, era pervenuto all'idea che in questa ragazza ci fosse qualcosa che difficilmente si sarebbe potuto esprimere in forma tabellare.  La sua capacità di definizione poteva essere facilmente valutata molto bassa, le sue conoscenze matematiche a zero; eppure non era sicuro che se gli avessero chiesto, per esempio, di inserirla in colonne in un rapporto parlamentare, avrebbe saputo come dividerla.
+
+In alcune fasi della sua lavorazione del tessuto umano, i processi del [[Time|tempo]] sono molto rapidi. Poiché il giovane Thomas e Sissy si trovavano entrambi in una di queste fasi del loro sviluppo, questi cambiamenti furono realizzati in un anno o due; mentre lo stesso signor Gradgrind sembrava immobile nel suo percorso e non subiva alcuna alterazione.
+
+Tranne uno, che era al di fuori del suo necessario percorso attraverso il mulino.
+[[Time|Il tempo]] lo spinse dentro un piccolo e rumoroso meccanismo piuttosto sporco in un angolo remoto, e lo fece diventare membro del Parlamento per Coketown: uno dei membri rispettabili per i pesi e le misure al minuto, uno dei rappresentanti della tabella pitagorica, uno di quei signori onorevoli sordi, signori onorevoli muti, signori onorevoli ciechi, signori onorevoli zoppi, signori onorevoli morti per ogni altra considerazione. Altrimenti perché vivremmo in una terra cristiana, milleottocento e qualcosa di anni dopo il nostro Maestro?
+
+Tutto questo tempo Louisa era passata avanti così tranquilla e riservata,
+e tanto dedita ad osservare le braci luminose al crepuscolo mentre cadevano nel focolare ed
+si spegnevano, che dal momento in cui suo padre aveva detto che lei era quasi una giovane donna — il quale sembrava fosse ieri — non aveva quasi più attirato la sua attenzione quando l'aveva trovata ormai una vera e propria giovane donna.
+
+'Una donna piuttosto giovane', disse il signor Gradgrind, pensieroso. 'Caspita!'
+
+Poco dopo questa scoperta, per diversi giorni divenne più pensieroso del solito e sembrava molto assorbito da un solo argomento. Una certa [[Night|sera]], mentre stava uscendo e Louisa venne a salutarlo prima della sua partenza - dato che non sarebbe stato [[Home|a casa]] fino a tardi e lei non lo avrebbe rivisto fino al mattino - la tenne tra le braccia, guardandola con il suo sguardo più gentile, e disse:
+
+'La mia cara Louisa, sei una donna!'
+
+Rispose con lo sguardo rapido e indagatore della [[Night|notte]] in cui era stata trovata al Circo; poi abbassò gli occhi. «Sì, padre».
+
+«Mia cara», disse il signor Gradgrind, «devo parlare con te [[Alone|da solo]] e seriamente. Vieni da me nella mia stanza dopo colazione domani, vuoi?»
+
+'Sì, padre.'
+
+«Le tue mani sono piuttosto fredde, Louisa. Non ti senti [[Well|bene]]?»
+
+«Abbastanza [[Well|bene]], padre».
+
+', e allegro?'
+
+Lo guardò di nuovo e sorrise nel suo modo particolare. «Sono allegra,
+padre, come sono solita essere o come ero solita essere».
+
+«[[Well|Bene]]», disse il signor Gradgrind. Così la baciò e se ne andò; e Louisa tornò nel sereno appartamento dal carattere da taglio di capelli, appoggiando il gomito sulla mano, guardò ancora le scintille effimere che così presto si spensero in cenere.
+
+«Sei lì, Loo?» disse suo fratello, guardando dentro dalla porta. Era ormai un giovane signore di piacere e non proprio dei più attraenti.
+
+«Caro Tom», rispose lei alzandosi e abbracciandolo, «è tanto tempo che non vieni a trovarmi!»
+
+«Perché, sono stata impegnata in altro, Loo, la sera; e di giorno il vecchio Bounderby mi ha tenuta piuttosto occupata. Ma gli faccio presente a proposito tuo quando si spinge troppo oltre, e così manteniamo un'intesa. Dico! Ha detto qualcosa di particolare papà a te oggi o ieri, Loo?»
+
+«No, Tom. Ma mi ha detto [[Night|questa]] sera che voleva farlo domattina».
+
+«Ah! È proprio questo che intendo», disse Tom. «Sai dove sarà [[Night|stasera]]?» — con un'espressione molto seria.
+
+‘No.’
+
+«Allora ve lo dico io. È con il vecchio Bounderby. Stanno tenendo una vera e propria confabulazione insieme alla Banca. Perché alla Banca, secondo voi? [[Well|Beh]], ve lo dico di nuovo. Penso che sia per tenere le orecchie della signora Sparsit il più lontano possibile».
+
+Con la mano sulla spalla del fratello, Louisa rimaneva ancora in piedi a guardare il [[Fire|fuoco]]. Il fratello le lanciò un'occhiata al volto con più interesse del solito e, cingendole la vita con il braccio, l'attirò dolcemente verso di sé.
+
+'Sei molto affezionata a me, vero, Loo?'
+
+"Sono davvero io, Tom, anche se lasci passare così tanto tempo senza venire a trovarmi."
+
+«[[Well|Beh]], mia sorella», disse Tom, «quando dici così, sei vicina ai miei pensieri. Potremmo stare insieme molto più spesso - non credi? Quasi sempre insieme - non sarebbe bello? Mi farebbe un gran bene se ti decidessi a fare quello che so tu, Loo. Sarebbe una cosa splendida per me. Sarebbe davvero fantastico!»
+
+La sua attenzione lo disorientava nella sua astuta osservazione. Non riusciva a capire nulla dal suo volto. La strinse tra le braccia e la baciò sulla guancia. Lei ricambiò il bacio, ma continuò a guardare il [[Fire|fuoco]].
+
+«Dico, Loo! Ho pensato di venire e solo accennarti a cosa stava succedendo:
+anche se supponevo che probabilmente lo avresti indovinato, anche senza saperlo. Non posso restare,
+perché ho un appuntamento con alcuni amici [[Night|questa]] sera. Non dimenticherai quanto sei affezionato a me?»
+
+'No, caro Tom, non dimenticherò.'
+
+"Che ragazza fantastica", disse Tom. "Arrivederci, Loo."
+
+Gli diede una cordiale buona [[Night|notte]] e uscì con lui fino alla porta,
+da cui si potevano vedere i fuochi di Coketown che rendevano il paesaggio
+sinistro.  Rimase lì, guardando fisso verso di loro, ascoltando i suoi passi
+che si allontanavano.  Si ritirarono rapidamente, contenti di andarsene da Stone Lodge;
+e lei rimase ancora lì quando lui se ne fu andato e tutto era tranquillo.
+Sembrava che prima nel suo [[Fire|fuoco]] interiore nella [[house|casa]], poi nell'alone
+infuocato all'esterno, cercasse di scoprire quale tipo di trama il vecchio [[Time|Tempo]],
+il più grande e antico Tessitore di tutti, avrebbe tessuto dai fili che aveva già intrecciato in una donna.  Ma la sua fabbrica è un luogo segreto, il suo lavoro è silenzioso e le sue Mani sono mute.
+
 
 
 <span class="atom-split" data-atom="chapter_52--part_01" data-title="Hard Times — Chapter 15 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/love,motif/marriage,motif/night,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/education,concept/hope"></span>
@@ -15969,6 +17967,56 @@ furnished us by travellers, yield similar results.  The disparity I have
 mentioned, therefore, almost ceases to be disparity, and (virtually) all
 but disappears.’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XV
+PADRE E FIGLIA
+
+SEBENE il signor Gradgrind non fosse un secondo Barone Azzurro, la sua stanza era una vera e propria camera blu per l'abbondanza di libri azzurri che conteneva.  Qualunque cosa potessero dimostrare (di solito tutto quello che si vuole), lo dimostravano là, in un esercito che si rafforzava costantemente con l'arrivo di nuovi recluti. In quell'appartamento incantato, le questioni sociali più complicate venivano risolte, portate a totali precisi e infine sistemate — se solo i diretti interessati avessero potuto saperlo.  Come se un osservatorio astronomico dovesse essere costruito senza finestre, e l'astronomo all'interno dovesse organizzare l'universo stellato soltanto con penna, inchiostro e carta, così il signor Gradgrind, nel _suo_ Osservatorio (e ce ne sono molti simili), non aveva bisogno di gettare uno sguardo sulle miriadi brulicanti di esseri umani intorno a lui, ma poteva sistemare tutti i loro destini su una lavagna e cancellare tutte le [[Tears|lacrime]] con un pezzetto di spugna sporco.
+
+Così dunque all'Osservatorio: una stanza austera con un mortale orologio statistico [[Clock|orologio]] che scandiva ogni secondo con un ticchettio simile a un colpo battuto sul coperchio di una bara; Louisa si recò lì la mattina stabilita. Una [[Window|finestra]] dava su Coketown, e quando si sedette vicino al tavolo del padre vide i camini alti e le lunghe scie di fumo che incombevano in lontananza pesanti e tetri.
+
+«Mia cara Louisa», disse suo padre, «ti ho preparata ieri [[Night|sera]] a prestarmi la tua seria attenzione nella conversazione che ora stiamo per avere insieme. Sei stata così [[Well|bene]] educata e fai, sono felice di dirlo, tanto onore all'[[Education|educazione]] che hai ricevuto, che ho piena fiducia nel tuo buon senso. Non sei impulsiva, non sei romantica, sei abituata a considerare tutto dal solido punto di vista disinteressato della ragione e del calcolo. Da quel punto di vista [[Alone|solo]], so che guarderai e considererai ciò che sto per comunicarti».
+
+Aspettò come se sarebbe stato felice che lei dicesse qualcosa; ma non disse una parola.
+
+«Louisa, mia cara, sei oggetto di una proposta di [[Marriage|matrimonio]] che mi è stata fatta.»
+
+E ancora attese e ancora lei non rispose una sola parola. Questo lo sorprese al punto da indurlo a ripetere dolcemente: «Una proposta di [[Marriage|matrimonio]], mia cara». A cui lei replicò, senza alcuna emozione visibile:
+
+'Vi ascolto, padre. Sono attento, ve lo assicuro.'
+
+«[[Well|Bene]]!», disse il signor Gradgrind, scoppiando a ridere dopo essere rimasto per un momento senza parole, «sei ancora più impassibile di quanto mi aspettassi, Louisa. O forse non sei impreparata all'annuncio che ho l'onore di fare?»
+
+«Non posso dirlo, padre, finché non l'ho sentito. Pronta o impreparata che sia, voglio sentirlo tutto da te. Voglio sentirti esporre la cosa a me, padre».
+
+È strano da raccontare che il signor Gradgrind non fosse così calmo in quel momento come lo era sua figlia. Prese un tagliacarte tra le mani, lo girò e rigirò, lo posò, lo riprese di nuovo, e anche allora dovette guardarlo lungo la lama per riflettere su cosa fare dopo.
+
+«Quello che dici, mia cara Louisa, è perfettamente ragionevole. Mi sono quindi assunto il compito di farti sapere che—insomma, che il signor Bounderby mi ha informato di aver seguito i tuoi progressi con particolare interesse e piacere per molto tempo, e di aver sperato a lungo che il [[Time|momento]] potesse infine arrivare in cui ti avrebbe offerto la sua mano in [[Marriage|matrimonio]]. Quel [[Time|momento]], al quale ha guardato così a lungo, e certamente con grande costanza, è ora giunto. Il signor Bounderby mi ha fatto la sua proposta di [[Marriage|matrimonio]] e mi ha pregato di fartela conoscere, esprimendo la sua [[Hope|speranza]] che tu ne prenderai in seria considerazione».
+
+[[Silence|Silenzio]] tra loro. L'osceno orologio statistico [[Clock|molto vuoto]]. Il fumo lontano molto nero e denso.
+
+«Padre», disse Louisa, «credi che io [[Love|ami]] il signor Bounderby?»
+
+Il signor Gradgrind fu estremamente imbarazzato da questa inattesa domanda.
+"[[Well|Beh]], mio [[Child|piccolo]]", rispose, "non mi sento di dire nulla."
+
+«Padre», proseguì Louisa con esattamente la stessa voce di prima, «mi chiedete di [[Love|amare]] il signor Bounderby?»
+
+'No, mia cara Louisa. Niente.'
+
+«Padre», continuò lei, «il signor Bounderby mi chiede di [[Love|amare]] lui?»
+
+'In verità, mia cara', disse il signor Gradgrind, 'è difficile rispondere alla tua domanda, '
+
+«È difficile rispondere Sì o No, padre?»
+
+«Certamente, mia cara. Perché» qui c'era qualcosa da dimostrare e ciò lo rinvigorì; «perché la risposta dipende così materialmente, Louisa, dal senso in cui usiamo l'espressione. Ora, il signor Bounderby non vi fa un torto, né si fa un torto a se stesso, fingendo qualcosa di fantasioso, fantastico o (sto usando termini sinonimi) sentimentale. Il signor Bounderby avrebbe visto crescere voi sotto i suoi occhi con ben poca utilità, se potesse dimenticare fino a tal punto ciò che è dovuto al vostro buon senso, per non dire al suo, da rivolgervisi su un tale terreno. Pertanto, forse l'espressione stessa — vi suggerisco solo questo, mia cara — può essere un po' fuori luogo».
+
+'Che cosa mi consigli di usare al suo posto, padre?'
+
+«Perché, mia cara Louisa», disse il signor Gradgrind, completamente ristabilitosi entro [[Time|questo]] tempo, «ti consiglierei (poiché me lo chiedi) di considerare questa questione, come sei stata abituata a considerare ogni altra questione, semplicemente come una questione di fatto tangibile. Gli ignoranti e i frivoli possono complicare tali argomenti con fantasie irrilevanti e altre assurdità che non hanno alcuna esistenza, se guardate correttamente — davvero nessuna esistenza — ma non è un complimento per te dire che sai meglio. Ora, quali sono i fatti di questo caso? Hai, diciamo in numeri arrotondati, vent'anni; il signor Bounderby ne ha, diciamo sempre in numeri arrotondati, cinquanta. C'è una certa disparità nei vostri rispettivi anni, ma nei mezzi e nelle posizioni non ce n'è nessuna; al contrario, c'è una grande adattabilità. Allora sorge la domanda: questa disparità è sufficiente a fungere da ostacolo a un [[Marriage|matrimonio]] del genere? Nel considerare questa questione, non è irrilevante tenere conto delle statistiche sulle [[Marriage|nozze]], per quanto finora ottenute, in Inghilterra e Galles. Scopro, consultando i numeri, che una grande proporzione di questi matrimoni viene contratta tra parti di età molto disuguali, e che il più anziano dei contraenti è, in poco più di tre quarti di questi casi, lo sposo. È notevole come dimostrazione dell'ampia prevalenza di questa legge, che tra i nativi dei possedimenti britannici in India, così come in una parte considerevole della Cina e tra i Calmucchi della Tartaria, i migliori metodi di calcolo finora fornitici dai viaggiatori producono risultati simili. La disparità da me menzionata cessa quindi quasi di essere tale e (virtualmente) scompare del tutto».
 
 
 
@@ -16105,6 +18153,80 @@ it.  ‘My dear Louisa,’ said he, ‘you abundantly repay my care.  Kiss me,
 my dear girl.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Che cosa mi consigliate, padre», chiese Louisa, la cui riservata compostezza non era affatto turbata da questi risultati soddisfacenti, «di sostituire al termine che ho usato poco fa? Per l'espressione inappropriata?»
+
+«Louisa», rispose suo padre, «mi sembra che nulla possa essere più chiaro.
+Limitandoti rigidamente al Fatto, la domanda di fatto che ti poni è:
+Il signor Bounderby mi chiede di sposarlo? Sì. La sola questione rimanente
+è quindi: Lo sposerò? Penso che nulla possa essere più chiaro di così».
+
+«Lo sposerò?» ripeté Louisa con grande ponderazione.
+
+«Esattamente. E mi rallegra, in quanto tuo padre, mia cara Louisa,
+sapere che non ti accosti a tale questione con gli abituali modi di pensare e le consuete abitudini di vita tipiche di molte giovani donne».
+
+'No, padre,' rispose lei, 'non lo faccio.'
+
+«Ora vi lascio giudicare da voi stessi», disse il signor Gradgrind. «Ho esposto il caso, come tali casi vengono solitamente esposti tra le menti pratiche; l'ho esposto, come fu esposto il caso di vostra madre e mio in [[Time|quel tempo]]. Il resto, mia cara Louisa, spetta a te decidere.»
+
+Fin dall'inizio, lei era seduta a fissarlo con sguardo fisso.  Mentre ora si appoggiava allo schienale della sua poltrona e rivolgeva i suoi occhi profondamente incassati su di lei a loro volta,
+forse avrebbe potuto cogliere un momento di esitazione in lei, quando era
+spinta ad abbandonarsi sul suo petto e a riversargli le confessioni represse del suo cuore.  Ma per vederlo, avrebbe dovuto superare d'un balzo i baratri artificiali che aveva eretto da molti anni,
+tra sé e tutte quelle sottili essenze dell'umanità che sfuggiranno alla massima astuzia dell'algebra fino a quando l'ultimo trombone mai suonato non soffierà anche l'algebra in rovina.  I baratri erano troppi e troppo alti per un tale salto.  Con il suo volto inflessibile, utilitaristico,
+pratico, la indurì di nuovo; e il momento sfrecciò via nelle profondità insondabili del passato, a mescolarsi con tutte le opportunità perdute che sono annegate lì.
+
+Distogliendo lo sguardo da lui, rimase seduta a lungo guardando in silenzio verso la città, finché alla fine egli disse: «Stai consultando i camini dello stabilimento di Coketown, Louisa?»
+
+«Non sembra esserci altro che fumo lento e monotono. Eppure quando viene la [[Night|notte]], scoppia il [[Fire|fuoco]], padre!» rispose lei, voltandosi in fretta.
+
+«Certo che lo so, Louisa. Non vedo l'applicazione di questa osservazione». Per fare giustizia a lui non la vedeva affatto.
+
+La scacciò con un leggero gesto della mano e concentrando di nuovo la sua attenzione su di lui disse: «Padre, ho spesso pensato che la vita sia molto breve». — Questo era così chiaramente uno dei suoi argomenti preferiti che egli intervenne.
+
+«È breve, senza [[Doubt|dubbio]], mia cara. Tuttavia, la durata media della vita umana si è dimostrata essere aumentata negli ultimi anni. I calcoli di diverse compagnie di assicurazioni sulla vita e uffici delle rendite vitalizie, tra le altre cifre che non possono sbagliare, hanno stabilito il fatto».
+
+'Parlo della mia vita, padre.'
+
+«Ah sì? Tuttavia», disse il signor Gradgrind, «non ho bisogno di farti osservare, Louisa, che è regolata dalle leggi che regolano le vite nella loro totalità.»
+
+«Finché dura, vorrei fare quel poco che posso e quel poco per cui sono adatto. Che importa?»
+
+Il signor Gradgrind sembrò piuttosto perplesso nel comprendere le ultime quattro parole,
+rispondendo: «Come, materia? Quale materia, mia cara?»
+
+«Il signor Bounderby», continuò in modo fermo e diretto, senza badarci, «mi chiede di sposarlo. La domanda che devo pormi è: lo sposerò? È così, padre, non è vero? Me l'avete detto voi stesso, padre. Non è forse vero?»
+
+'Certo, mia cara.'
+
+«Sia come vuole. Poiché il signor Bounderby preferisce trattarmi così,
+sono d'accordo ad accettare la sua proposta. Diglielo, padre, non appena ti pare, che questa è stata la mia risposta.
+Ripetilo, parola per parola, se puoi, perché vorrei che sapesse esattamente cosa ho detto».
+
+«È del tutto giusto, mia cara», ribatté suo padre con approvazione, «essere esatti. Ti accontenterò nella tua richiesta molto appropriata. Hai qualche desiderio in merito al periodo del tuo [[Marriage|matrimonio]], mio [[Child|figlio]]?»
+
+'Nessuno, padre. Che importa!'
+
+Il signor Gradgrind aveva avvicinato un po' di più la sua sedia a lei e le prese la mano. Ma il ripetersi di queste parole sembrò colpire con una certa dissonanza il suo orecchio. Si fermò per guardarla, e pur continuando a tenerle la mano, disse:
+
+«Louisa, non ho ritenuto essenziale porvi una domanda perché la possibilità che essa implicava mi sembrava troppo remota. Ma forse avrei dovuto farlo. Non avete mai accettato segretamente un'altra proposta?»
+
+«Padre», rispose lei quasi con disprezzo, «che altro invito avrebbero potuto farmi? Chi ho visto? Dove sono stata? Quali sono le esperienze del mio cuore?»
+
+«Mia cara Louisa», rispose il signor Gradgrind, rassicurato e soddisfatto,
+«mi correggete giustamente. Volevo semplicemente adempiere al mio dovere».
+
+«Che cosa ne so _io_, padre», disse Louisa nel suo modo tranquillo, «di gusti e fantasie; di aspirazioni e affetti; di tutta quella parte della mia [[Nature|natura]] in cui tali cose leggere avrebbero potuto essere nutrite?  Che fuga ho avuto dai problemi che potevano essere dimostrati, e dalle realtà che potevano essere afferrate?» Mentre lo diceva, inconsciamente chiuse la mano, come se su un oggetto solido, e lentamente l'aprì come se stesse rilasciando [[Dust|polvere]] o cenere.
+
+'Carissima,' acconsentì il suo genitore estremamente pratico, 'del tutto vero, del tutto vero.'
+
+«Ma, padre», continuò lei, «che strana domanda da fare _a me_! La preferenza per i bambini che persino io ho sentito dire essere comune tra i bambini non ha mai trovato il suo [[Innocent|innocente]] rifugio nel mio cuore. Siete stato così premuroso con me, che non ho mai avuto un cuore di [[Child|bambino]]. Mi avete educata così [[Well|bene]], che non ho mai sognato i sogni di un [[Child|bambino]]. Avete agito con tanta saggezza, padre, dalla mia culla fino a questo momento, che non ho mai avuto la fede o la [[Fear|paura]] di un [[Child|bambino]], né le sue [[Child|paure]].»
+
+Il signor Gradgrind fu profondamente commosso dal suo [[success|successo]] e da questa testimonianza di esso.
+"La mia cara Louisa," disse lui, "mi ripaghi abbondantemente della mia cura. Bacialo,
+mia cara ragazza."
+
 
 
 <span class="atom-split" data-atom="chapter_52--part_03" data-title="Hard Times — Chapter 15 (part 3)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/noon,motif/time,motif/well,concept/doubt,concept/hope,concept/wonder"></span>
@@ -16167,6 +18289,29 @@ a multitude of emotions, towards Louisa.  Louisa had known it, and seen
 it, without looking at her.  From that moment she was impassive, proud
 and cold—held Sissy at a distance—changed to her altogether.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Così sua figlia lo baciò. Trattenendola nel suo abbraccio, le disse: «Posso assicurarti ora, mia [[Child|figlia]] prediletta, che sono reso felice dalla saggia decisione a cui sei giunta. Il signor Bounderby è un uomo molto straordinario; e la poca disparità che si può dire esista tra voi — se mai ce n'è una — è più che compensata dal tono acquisito dalla tua mente. È sempre stato mio intento educarti in modo tale che tu potessi, pur nella tua giovane età, essere (se mi è lecito esprimermi così) quasi di qualsiasi età. Bacialo ancora una volta, Louisa. Ora andiamo a trovare tua madre».
+
+Di conseguenza scesero nel salotto dove la stimata signora,
+che non aveva peli sulla lingua, era distesa come al solito mentre Sissy lavorava accanto a lei.
+Quando entrarono diede alcuni deboli segni di tornare in vita e poco dopo il pallido fantasma si presentò seduto.
+
+«Signora Gradgrind», disse il marito, che aveva atteso con qualche impazienza la realizzazione di questo exploit, «mi permetta di presentarle la signora Bounderby».
+
+«Oh!» disse la signora Gradgrind «allora l'avete deciso!  [[Well|Bene]], sono sicura che spero tu stia bene, Louisa; perché se ti viene mal di testa non appena sposata, come è successo a me, non posso pensare che tu sia da invidiare, anche se non ho alcun [[Doubt|dubbio]] che tu lo creda, come tutte le ragazze.  Comunque, ti do i miei auguri, mia cara—e spero che ora tu possa mettere a frutto tutti i tuoi studi ologici, ne sono sicura!  Devo darti un bacio di congratulazione, Louisa; ma non toccare la mia spalla destra, perché qualcosa continua a scorrervi lungo tutto il giorno.  E ora vedi», singhiozzò la signora Gradgrind, sistemando le sue sciarpe dopo la cerimonia affettuosa «mi preoccuperò, al [[Noon|mattino]], a [[Night|mezzogiorno]] e alla sera, di sapere come chiamarlo!»
+
+"Signora Gradgrind," disse suo marito solennemente, "cosa vuoi dire?"
+
+«Non importa come lo chiamerò quando sarà sposato a Louisa!
+Devo pur chiamarlo in qualche modo. È impossibile», disse la signora Gradgrind con un misto di cortesia e offesa, «continuare a rivolgermi a lui senza mai dargli un nome. Non posso chiamarlo Josiah, perché il nome mi è insopportabile. Neanche tu vorresti sentirlo chiamare Joe, lo sai [[Well|benissimo]]. Devo forse chiamare mio genero Signore! Credo di no, a meno che non sia arrivato quel [[Time|momento]] in cui, da malata, sarò calpestata dai miei parenti. Allora come dovrò chiamarlo!»
+
+Nessuno dei presenti avendo alcun suggerimento da offrire nell'eccezionale emergenza, la signora Gradgrind abbandonò questa vita per il [[Time|momento]], dopo aver espresso il seguente codicillo alle sue osservazioni già formulate:
+
+«Per quanto riguarda il matrimonio, tutto ciò che chiedo, Louisa, è — e lo chiedo con un tremito nel petto che si estende fino alle piante dei piedi — che abbia luogo presto. Altrimenti so bene che sarà uno di quegli argomenti di cui non sentiremo mai la fine».
+
+Quando il signor Gradgrind presentò la signora Bounderby, Sissy si voltò improvvisamente e guardò Louisa con [[Wonder|meraviglia]], pietà, dolore, [[Doubt|dubbio]] e una miriade di altre emozioni.  Louisa lo sapeva e l'aveva visto senza guardarla. Da quel momento in poi fu impassibile, orgogliosa e fredda: tenne Sissy a distanza, cambiò completamente nei suoi confronti.
 
 
 
@@ -16391,6 +18536,105 @@ AN’T it uncommonly jolly now!’
 END OF THE FIRST BOOK
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XVI
+MARITO E MOGLIE
+
+La prima preoccupazione di Mr. Bounderby nel venire a conoscenza della sua felicità fu causata dalla necessità di comunicarla alla signora Sparsit. Non riusciva a decidersi su come farlo, né poteva immaginare quali sarebbero state le conseguenze di tale passo. Se lei se ne sarebbe andata immediatamente con tutti i suoi averi da Lady Scadgers o avrebbe rifiutato categoricamente di spostarsi dai locali; se si sarebbe mostrata piagnucolosa o offensiva, lacrimosa o furiosa; se gli avrebbe spezzato il cuore o lo specchio; Mr. Bounderby non poteva prevedere tutto ciò. Tuttavia, poiché era necessario farlo, non aveva altra scelta che agire; così, dopo aver tentato di scrivere diverse lettere e fallito in tutte, decise di comunicarglielo a voce.
+
+Sulla via del [[Home|ritorno]], la sera che aveva riservato per questo scopo così importante,
+prese l'accortezza di entrare in una farmacia e comprare un flacone dei sali da smelling più forti.
+"Perbacco!" disse il signor Bounderby, "se si mette a svenire, le scorticherò il naso, almeno!"
+Ma nonostante fosse così preparato, entrò nella sua [[house|casa]] tutt'altro che con aria coraggiosa;
+e apparve davanti all'oggetto dei suoi timori come un cane consapevole di provenire direttamente dalla dispensa.
+
+'Buonasera, signor Bounderby!'
+
+«Buonasera, signora, buonasera». Si avvicinò con la sedia e la signora Sparsit si ritrasse con la sua come per dire: «Il suo caminetto, signore. Lo ammetto senza riserve. È lei a doverlo occupare tutto, se lo ritiene opportuno».
+
+«Non vada al Polo Nord, signora!» disse il signor Bounderby.
+
+«Grazie, signore», disse la signora Sparsit e tornò indietro, sebbene non al suo precedente posto.
+
+Il signor Bounderby la guardava seduto mentre con le punte di un paio di forbici rigide e acuminate praticava dei fori per qualche inspiegabile scopo ornamentale in un pezzo di batista. Un'operazione che, considerata in relazione alle sopracciglia folte e al naso romano, suggeriva con una certa vivacità l'idea di un falco intento a beccare gli occhi di un uccellino coriaceo. Era così assorbita dal suo lavoro che passarono molti minuti prima che sollevasse lo sguardo; quando lo fece, il signor Bounderby attirò la sua attenzione con uno scatto del capo.
+
+«Signora Sparsit», disse il signor Bounderby mettendo le mani nelle tasche e assicurandosi con la mano destra che il tappo della bottiglietta fosse pronto all'uso, «non ho bisogno di dirle che lei non è solo una signora nata e cresciuta come tale, ma anche una donna dannatamente sensibile.»
+
+«Signore», rispose la signora, «questo non è infatti il primo [[Time|momento]] in cui mi avete onorata con espressioni simili della vostra buona opinione».
+
+"Signora Sparsit," disse il signor Bounderby, "sto per stupirla."
+
+«Sì, signore?», rispose la signora Sparsit, interrogativa e nel modo più tranquillo possibile. Di solito portava i guanti corti e ora depose il lavoro e lisciò quei guanti.
+
+«Sto per sposare», disse Bounderby, «la figlia di [[Tom Gradgrind]].»
+
+«Sì, signore», rispose la signora Sparsit. «[[Hope|Spero]] che lei sia felice, signor Bounderby. Oh, davvero [[Hope|spero]] che lei sia felice, signore!» E lo disse con una condiscendenza così grande e con una compassione per lui altrettanto grande, che Bounderby — molto più sconcertato di quanto non sarebbe stato se gli avesse lanciato il suo nécessaire contro lo [[Mirror|specchio]] o fosse svenuta sul tappeto del caminetto — ripose strettamente nell'astuccio l'acqua odorosa nella tasca e pensò: «Ora maledetta a questa donna, che avrebbe potuto anche solo immaginare che avrebbe reagito in questo modo!»
+
+«Lo desidero con tutto il cuore, signore», disse la signora Sparsit,
+con un tono di grande superiorità; in qualche modo sembrava che, in un attimo,
+avesse stabilito il diritto a compatirlo per sempre dopo quel momento;
+«che possiate essere sotto ogni aspetto molto felice».
+
+«[[Well|Beh]], signora», rispose Bounderby con un certo risentimento nella voce,
+che era chiaramente abbassata, sebbene suo malgrado, «le sono obbligato.
+[[Hope|Spero]] di esserlo».
+
+«Lo _fa_ lei, signore!» disse la signora Sparsit con grande affabilità «Ma naturalmente lo fa; certamente lo fa».
+
+Seguì una pausa molto imbarazzante da parte del signor Bounderby. La signora Sparsit riprese tranquillamente il suo lavoro e di tanto in tanto emetteva un piccolo colpo di tosse, che sembrava la tosse della forza cosciente e della pazienza.
+
+«[[Well|Beh]], signora», riprese Bounderby, «in queste circostanze immagino che non sarebbe gradito per un carattere come il suo rimanere qui, anche se lei sarebbe più che benvenuta.»
+
+“Oh, caro signore no, non potrei assolutamente pensare una cosa del genere!” disse la signora Sparsit scuotendo il capo, sempre con quell'aria di grande superiorità, e cambiò un pochino il suo piccolo colpo di tosse: tossì come se lo spirito della profezia [[Rose|si levasse]] in lei, ma fosse meglio reprimerlo.
+
+«Tuttavia, signora», disse Bounderby, «alla Banca ci sono degli appartamenti dove una signora nata e cresciuta come custode del posto sarebbe piuttosto un vantaggio che altro; e se le stesse condizioni, »
+
+«Le chiedo scusa, signore. Lei è stato così gentile da promettere che avrebbe sempre sostituito la frase con “complimento annuale”.»
+
+«[[Well|Bene]], signora, i miei migliori auguri per l'anno nuovo. Se gli stessi auguri di buon anno sarebbero graditi anche da parte sua, non vedo motivo di separarci, a meno che lei non lo voglia».
+
+«Signore», rispose la signora Sparsit, «la proposta è come voi siete e se il posto che assumerò alla Banca è tale da poterlo occupare senza scendere più in basso nella scala sociale, »
+
+«Eh sì, certo che lo è», disse Bounderby. «Se non fosse così, signora, lei crede forse che l'avrei offerto a una donna che ha frequentato la società che lei ha frequentato? Non che io tenga a quel tipo di società, sa! Ma lei sì».
+
+'Il signor Bounderby è molto premuroso.'
+
+«Avrete i vostri appartamenti privati e avrete il carbone e le candele e tutto il resto, e avrete la vostra cameriera che vi servirà, e avrete un facchino per proteggervi, e sarete, mi permetto di dire, comodissima», disse Bounderby.
+
+«Signore», riprese la signora Sparsit, «non dica altro. Rinunciando alla mia posizione qui non sarò esentata dall'obbligo di mangiare il pane della dipendenza:» avrebbe potuto dire il fegato di vitello, poiché quel delicato piatto in una salsa bruna saporita era la sua cena preferita: «e lo preferirei riceverlo dalle sue mani che da chiunque altro. Perciò, signore, accetto con gratitudine la sua offerta e con molti sinceri ringraziamenti per i favori passati. E [[Hope|spero]], signore», concluse la signora Sparsit in tono compassionevole e solenne, «[[Hope|spero]] con tutto il cuore che la signorina Gradgrind possa essere tutto ciò che lei [[Desire|desidera]] e merita!»
+
+Nulla più allontanò la signora Sparsit da quella posizione. Fu inutile che Bounderby facesse il prepotente o si affermasse con uno dei suoi modi esplosivi; la signora Sparsit era risoluta ad avere compassione di lui, come una Vittima. Era cortese, obbligante, allegra, speranzosa; ma più cortese, più obbligante, più allegra, più speranzosa, più esemplare in tutto lei; più abbandonato Sacrificio e Vittima lui. Aveva tanta tenerezza per il suo destino [[Melancholy|melanconico]], che il suo grande volto rosso era solito coprirsi di sudor freddo quando lo guardava.
+
+Nel frattempo il [[Marriage|matrimonio]] era stato fissato per essere celebrato tra otto settimane,
+e il signor Bounderby andava ogni sera a Stone Lodge come pretendente accettato.
+Il [[Love|amore]] si manifestava in queste occasioni sotto forma di bracciali; e, in tutte le
+occasioni durante il periodo delle nozze, assumeva un aspetto industriale. Si cucivano abiti,
+si fabbricavano gioielli, si preparavano torte e guanti, si stipulavano accordi, e una vasta gamma di Fatti rendeva [[Honour|onore]] al contratto.
+Tutto era fatto di Fatti, dall'inizio alla fine. Le Ore non eseguivano nessuna di quelle
+esibizioni rosa che i poeti sciocchi hanno attribuito loro in tali momenti; né gli orologi andavano più veloci o più lenti rispetto ad altre [[Seasons|stagioni]]. Il mortale registratore statistico nell'osservatorio Gradgrind dava un colpo in testa a ogni secondo appena nato e lo seppelliva con la sua consueta regolarità.
+
+Così arrivò il giorno, come tutti gli altri giorni arrivano alle persone che si attengono solo alla ragione; e quando arrivò, nella chiesa dalle fiorite gambe di legno - quell'ordine popolare di architettura - vennero celebrati i funerali di [[Josiah Bounderby]] Esquire di Coketown con Louisa, la figlia maggiore di [[Thomas Gradgrind]] Esquire di Stone Lodge, M.P. per quel collegio elettorale. E quando furono uniti in sacro matrimonio, andarono [[Home|a casa]] a fare colazione nella già citata Stone Lodge.
+
+C'era un gruppo di persone che si preoccupavano del miglioramento riunite per l'occasione propizia, le quali sapevano di cosa fosse fatto tutto ciò che avevano da mangiare e bere, come venisse importato o esportato, in quale quantità, su quali navi, nazionali o straniere, e tutti i dettagli. Le damigelle d'onore, fino alla piccola Jane Gradgrind, erano, dal punto di vista intellettuale, compagne adatte al ragazzo calcolatore; e non c'era sciocchezza in nessuno degli invitati.
+
+Dopo colazione, lo sposo si rivolse loro nei seguenti termini:
+
+«Signore e signori, io sono [[Josiah Bounderby]] di Coketown. Poiché avete reso onore a mia moglie e a me bevendo alla nostra salute e felicità, suppongo che debba ricambiare; anche se, dato che tutti mi conoscete e sapete chi sono e quale fosse la mia estrazione sociale, non vi aspetterete certo un discorso da uno che quando vede una [[Honour|posta]] dice “questa è una posta”, e quando vede una pompa dice “questa è una pompa”, e a cui non si può far dire di chiamare la posta pompa, o la pompa posta, o l’una o l’altra stuzzicadenti. Se questa mattina desiderate un discorso, il mio amico e suocero [[Tom Gradgrind]] è membro del Parlamento, e sapete dove trovarlo. Io non sono l’uomo che fa per voi. Tuttavia, se mi sento un po’ indipendente guardando questo tavolo oggi e riflettendo su quanto poco pensassi di sposare la figlia di [[Tom Gradgrind]] quando ero un ragazzino straccione che non si lavava mai il viso a meno che non fosse alla pompa, e nemmeno più di una volta ogni due settimane, spero di essere perdonato. Spero quindi che vi piaccia la mia sensazione di indipendenza; se non vi piace, non posso farci nulla. Mi sento proprio indipendente. Ora ho accennato io e avete accennato voi che oggi sono sposato con la figlia di [[Tom Gradgrind]]. Ne sono molto contento. È da tempo che desideravo esserlo. Ho seguito la sua educazione, e credo che sia degna di me. Allo stesso [[Time|tempo]] — non voglio ingannarvi — credo di essere degno io di lei. Quindi vi ringrazio, a nome nostro, per il buon volere che avete dimostrato verso di noi; e il miglior augurio che posso fare alla parte celibe della compagnia presente è questo: [[Hope|spero]] che ogni scapolo possa trovare una moglie brava come quella che ho trovato io. E [[Hope|spero]] che ogni nubile possa trovare un marito bravo quanto quello che ha trovato mia moglie».
+
+Poco dopo quel discorso, mentre si apprestavano a fare un viaggio nuziale a Lione,
+affinché il signor Bounderby potesse approfittare dell'occasione per vedere come se la passassero i Manovali in quelle parti e se anche loro avessero bisogno di essere nutriti con cucchiai d'oro; la felice coppia partì per la ferrovia. La sposa, scendendo le scale vestita per il suo [[Journey|viaggio]], trovò Tom che l'aspettava - arrossato, sia per i suoi sentimenti, sia per la parte vinosa della colazione.
+
+«Che ragazza in gamba sei, per essere una sorella così di prima qualità, Loo!» sussurrò Tom.
+
+Si aggrappò a lui come avrebbe dovuto aggrapparsi a una [[Nature|natura]] molto migliore quel giorno e fu un po' scossa nella sua riservata compostezza per la prima [[Time|volta]].
+
+«Il vecchio Bounderby è pronto», disse Tom. «È [[Time|ora]]. Addio! Sarò in attesa di te al tuo ritorno. Dico, mia cara Loo! Non è straordinariamente divertente ora?»
+
+* * * * *
+
+FINE DEL PRIMO LIBRO
+
 
 
 <span class="atom-split" data-atom="chapter_54--part_01" data-title="Hard Times — Chapter 1 (part 1)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/cross,motif/dawn,motif/death,motif/desert,motif/frost,motif/home,motif/insects,motif/night,motif/river,motif/road,motif/rose,motif/summer,motif/water,motif/wind,motif/window,concept/melancholy,concept/self,concept/wonder,setting/desert"></span>
@@ -16500,6 +18744,48 @@ Sparsit considered herself, in some sort, the Bank Fairy.  The
 townspeople who, in their passing and repassing, saw her there, regarded
 her as the Bank Dragon keeping watch over the treasures of the mine.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+LIBRO SECONDO
+_LA MESSA_
+CAPITOLO I
+EFFETTI NELLA BANCA
+
+UNA SOLEGGGIATA giornata di metà estate. A volte succedeva anche a Coketown.
+
+Visto da lontano in una giornata del genere, Coketown era avvolta in un'aura tutta sua che sembrava impenetrabile ai raggi del sole. Si capiva che la città c'era solo perché si sapeva che non poteva esserci una macchia così cupa nel paesaggio senza una città. Una confusione di fuliggine e fumo, ora che tendeva in questa direzione, ora in quella, ora che aspirava alla volta del cielo, ora che strisciava opaco lungo la terra, a seconda che il [[Wind|vento]] [[Rose|soffiasse]] più forte o si placasse, o cambiasse direzione: un fitto ammasso informe con veli di luce [[Cross|incrociata]] che non mostravano altro che masse d'ombra. — Coketown da lontano era suggestiva della sua stessa essenza, anche se neanche una delle sue mattonelle si poteva vedere.
+
+La [[Wonder|meraviglia]] era che esistesse ancora. Era stata rovinata così spesso,
+che era incredibile come avesse resistito a tanti colpi. Non c'era mai stata
+porcellana così fragile di quella di cui erano fatti i mugnai di Coketown.
+Toccateli anche con la massima delicatezza, e si sgretolavano con tale
+facilità che avresti potuto sospettare fossero già stati danneggiati prima. Erano
+rovinati quando veniva loro richiesto di mandare i bambini lavoratori a scuola;
+erano rovinati quando venivano nominati ispettori per controllare le loro fabbriche;
+erano rovinati, quando tali ispettori consideravano dubbio se fossero pienamente
+giustificati nell'impastoiare la gente con le loro macchine; erano completamente
+rovinati, quando si insinuava che forse non avrebbero dovuto sempre produrre così tanto fumo.
+Oltre al cucchiaio d'oro del signor Bounderby, che era generalmente accettato a Coketown,
+un'altra finzione prevalente era molto popolare lì. Si presentava sotto forma di minaccia.
+Ogni volta che un cittadino di Coketown si sentiva trattato male - cioè ogni volta
+che non veniva lasciato del tutto [[Alone|solo]], e si proponeva di renderlo responsabile delle conseguenze
+di uno qualsiasi dei suoi atti - era sicuro di uscire con la terribile minaccia che avrebbe
+"preferito gettare i suoi beni nell'Atlantico". Questo aveva terrorizzato il segretario del [[Home|Casa]] Reale a un pelo dalla morte, in diverse occasioni.
+
+Tuttavia i proprietari di Coketown erano così patriottici che non avevano ancora gettato le loro proprietà nell'Atlantico ma al contrario si erano dimostrati abbastanza gentili da prenderne una gran cura. Ecco quindi lì, nella foschia laggiù; e continuava ad aumentare e moltiplicarsi.
+
+Le strade erano calde e polverose in quel giorno di [[Summer|estate]], e il sole era così
+luminoso che brillava persino attraverso la pesante nebbia che gravava su Coketown, tanto da non poter essere fissato a lungo. Gli addetti alle fornaci uscivano dalle basse porte sotterranee nei cortili delle fabbriche e si sedevano sui gradini, sui pali e sulle inferriate, asciugandosi i volti scuri e contemplando il carbone. L'intera città sembrava friggere nell'olio. C'era un soffocante odore di olio caldo ovunque. Le macchine a vapore brillavano per quello, gli abiti degli operai erano sporchi di quello, i mulini in tutte le loro numerose stanze ne emanavano e lo facevano fuoriuscire goccia a goccia. L'atmosfera di quei palazzi delle fate era come il respiro del simun: e i loro abitanti, consumati dal calore, lavoravano languidamente nel [[Desert|deserto]]. Ma nessuna temperatura rendeva gli elefanti [[Melancholy|malinconici]] più pazzi o più sani di prima. Le loro noiose teste si alzavano e abbassavano allo stesso ritmo, in tempo caldo e freddo, umido e secco, bello e brutto. Il movimento misurato delle loro ombre sulle pareti era il sostituto che Coketown poteva offrire alle ombre dei boschi fruscianti; mentre, per il ronzio [[Summer|estivo]] degli [[Insects|insetti]], poteva proporre tutto l'anno,
+dall'[[Dawn|alba]] di lunedì alla [[Night|notte]] di sabato, il ronzio di alberi e ruote.
+
+Dormienti ronzavano per tutta questa giornata di sole, rendendo il passeggero più assonnato e più accaldato mentre passava davanti alle mura ronzanti dei mulini. Tende oscuranti e spruzzature d'[[Water|acqua]] rinfrescavano un po' le strade principali e i negozi; ma i mulini, e i cortili e vicoli, cuocevano a una temperatura torrida. Sulla [[River|fiume]] che era nero e denso di colorante, alcuni ragazzi di Coketown in libertà - uno spettacolo raro lì - remavano su un barcone traballante, che lasciava una scia schiumosa sull'[[Water|acqua]] mentre avanzava a sobbalzi, e ogni colpo di remo sollevava odori disgustosi. Ma il sole stesso, per quanto benefico in generale, era meno benevolo con Coketown che non la dura [[Frost|gelata]], e raramente guardava intensamente in una delle sue zone più strette senza generare più [[Death|morte]] che vita. Così l'occhio del Cielo stesso diventa un occhio malvagio, quando mani incapaci o sudicie si frappongono tra esso e le cose su cui guarda per benedirle.
+
+La signora Sparsit sedeva nel suo salotto pomeridiano alla Banca, sul lato più ombreggiato della strada che friggeva al sole. Le ore d'ufficio erano finite: e in quella parte del giorno, quando il tempo era caldo, di solito arricchiva con la sua presenza distinta una sala riunioni dei dirigenti sopra l'ufficio pubblico. Il suo salotto privato si trovava un piano più su, alla [[Window|finestra]] del quale posto d'osservazione era pronta ogni mattina ad accogliere il signor Bounderby, mentre attraversava la [[Road|strada]], con il riconoscimento compassionevole appropriato a una Vittima. Era sposato da un anno ormai; e la signora Sparsit non lo aveva mai liberato dalla sua determinata pietà neanche per un momento.
+
+La Banca non offriva alcuna violenza alla sana monotonia della città. Era un'altra [[house|casa]] di mattoni rossi con [[house|finestre]] esterne nere, tende verdi interne, una porta d'ingresso nera su due gradini bianchi, una targhetta dorata e una maniglia dorata punto e a capo. Era di una taglia più grande della casa del signor Bounderby, mentre altre case erano da una taglia fino a mezza dozzina di taglie più piccole; in tutti gli altri particolari, era rigorosamente conforme al modello.
+
+La signora Sparsit era consapevole che venendo al tramonto tra le scrivanie e gli strumenti per scrivere, riversava un'aria femminile, se non addirittura aristocratica, nell'ufficio. Seduta con il suo lavoro a maglia o la sua rete da pesca alla [[Window|finestra]], aveva una sensazione di [[Self|auto]]-elogio per aver corretto, con i suoi modi signorili, l'aspetto volgare del posto. Con questa impressione del suo interessante carattere, la signora Sparsit si considerava in qualche modo la Fata della Banca. Gli abitanti della città che, passando e ripassando, la vedevano lì, la guardavano come il Drago della Banca che veglia sui tesori della miniera.
 
 
 
@@ -16625,6 +18911,58 @@ for as much as he could possibly get; it having been clearly ascertained
 by philosophers that in this is comprised the whole duty of man—not a
 part of man’s duty, but the whole.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quali fossero quei tesori, la signora Sparsit lo sapeva tanto poco quanto loro. Monete d'oro e d'argento, carta preziosa, [[Secrets|segreti]] che se rivelati avrebbero portato distruzione vaga su persone vaghe (in genere, tuttavia, persone a cui lei non piaceva), erano i principali articoli del suo catalogo ideale. Per il resto, sapeva che dopo l'orario d'ufficio, regnava suprema su tutti gli arredi dell'ufficio e su una stanza di ferro chiusa con tre serrature, contro la porta della quale il portiere deponeva ogni [[Night|notte]] la testa su un letto a castello che scompariva all'alba. Inoltre, era signora sovrana di certi scantinati nella cantina, nettamente isolati da qualsiasi comunicazione con il mondo predatorio; e dei resti del lavoro della giornata, costituiti da macchie d'inchiostro, penne consumate, frammenti di wafer e pezzi di carta strappati così piccoli che nulla di interessante poteva mai essere decifrato su di essi quando la signora Sparsit ci provava. Infine, era custode di un piccolo arsenale di sciabole e carabine, disposte in ordine vendicativo sopra uno dei caminetti ufficiali; e di quella rispettabile tradizione che non si deve mai separare da un posto d'affari che pretende di essere ricco: una fila di [[Fire|fuoco]]-secchi, recipienti calcolati per non avere alcuna utilità fisica in qualsiasi occasione, ma osservati esercitare una fine influenza morale, quasi pari al bullion, sulla maggior parte degli spettatori.
+
+Un’ancella sorda e il facchino leggero completavano l'impero della signora Sparsit. Si diceva che l'ancella sorda fosse ricca; e da anni tra i ceti più bassi di Coketown circolava un detto secondo cui sarebbe stata assassinata una [[Night|notte]] in cui la Banca era chiusa, per il suo denaro. Si riteneva anzi generalmente che fosse attesa da qualche [[Time|tempo]], e avrebbe dovuto cadere già da molto; ma aveva conservato la sua vita e la sua posizione con una tenacia sgradevole che provocava grande offesa e delusione.
+
+Il tè della signora Sparsit era appena stato preparato per lei su un grazioso tavolino con tre gambe che assumevano un atteggiamento, il quale ella insinuava dopo l'orario d'ufficio nella compagnia del severo e lungo tavolo da consiglio con il piano di cuoio che si ergeva al centro della stanza. Il facchino leggero posò la teiera su di esso, sfiorandosi la fronte in segno di omaggio.
+
+«Grazie, Bitzer», disse la signora Sparsit.
+
+«Grazie, signora», rispose il facchino leggero. Era davvero un facchino molto leggero; tanto leggero come ai tempi in cui definiva sbattendo le palpebre un [[Horse|cavallo]], per la ventesima bambina.
+
+«Tutto è chiuso, Bitzer?» disse la signora Sparsit.
+
+'È tutto chiuso, signora.'
+
+"Qual è la notizia del giorno?" chiese la signora Sparsit versandosi il tè. "C'è qualcosa di nuovo?"
+
+«[[Well|Beh]], signora, non posso dire di aver sentito nulla di particolare. La nostra gente è una brutta razza, signora; ma purtroppo questo non è certo una novità».
+
+«Che cosa stanno facendo quei miserabili irrequieti?» chiese la signora Sparsit.
+
+«Continuiamo semplicemente come prima, signora. Ci uniamo, ci alleanziamo e promettiamo di sostenerci a vicenda».
+
+«È molto deplorevole», disse la signora Sparsit, rendendo il suo naso più romano e le sue sopracciglia più coriolanee nella forza della sua severità, «che i maestri uniti consentano simili combinazioni di classi.»
+
+«Sì, signora», disse Bitzer.
+
+«Essendo loro stessi uniti, dovrebbero tutti quanti opporsi a impiegare qualsiasi uomo che sia unito con un altro uomo», disse la signora Sparsit.
+
+“L'hanno fatto, signora,” rispose Bitzer; “ma è andato a monte.”
+
+«Non pretendo di capire queste cose», disse la signora Sparsit con dignità,
+«poiché il mio destino mi ha assegnato una sfera d'azione molto diversa;
+e il signor Sparsit, in quanto Powler, è del tutto al di fuori di qualsiasi
+tale dissidio. So solo che queste persone devono essere conquistate e
+che è [[Time|ora]] di farlo una volta per tutte».
+
+«Sì, signora», rispose Bitzer, dimostrando grande rispetto per l'autorità oracolare della signora Sparsit. «Non potrebbe esprimersi più chiaramente, ne sono certo, signora».
+
+Poiché quell'ora era quella in cui di solito si concedeva una piccola chiacchierata confidenziale con la signora Sparsit e poiché aveva già incrociato il suo sguardo e visto che stava per chiedergli qualcosa, fece finta di sistemare le squadre, gli inchiostri e così via, mentre quella signora proseguiva col tè, lanciando occhiate attraverso la [[Window|finestra]] aperta giù verso la strada.
+
+«È stata una giornata impegnativa, Bitzer?» chiese la signora Sparsit.
+
+«Non è stata una giornata molto impegnativa, mia signora. Una giornata normale». Di tanto in tanto scivolava nel chiamarla «mia signora» invece di «signora», quasi a riconoscere involontariamente la dignità personale della signora Sparsit e il suo diritto alla riverenza.
+
+«I commessi», disse la signora Sparsit, spazzando con cura un invisibile briciole di pane e burro dal guanto sinistro, «sono affidabili, puntuale e laboriosi, naturalmente?»
+
+'Sì, signora, abbastanza bene, signora. Con l'eccezione del solito.'
+
+Esercitava l'ufficio rispettabile di spia e informatore generale nell'istituzione, per il quale servizio volontario riceveva un regalo a Natale, oltre al suo stipendio settimanale. Era diventato un giovane estremamente lucido, cauto e prudente, che aveva tutte le carte in regola per fare carriera nel mondo. La sua mente era così esattamente regolata, che non aveva affetti né passioni. Tutte le sue azioni erano il risultato di un calcolo minuzioso e freddo; e non senza motivo la signora Sparsit soleva dire di lui che era il giovane dai principi più saldi che avesse mai conosciuto. Dopo essersi assicurato, alla [[Death|morte]] del padre, che sua madre aveva diritto a stabilirsi a Coketown, questo eccellente giovane economista aveva fatto valere quel diritto per lei con tale ferma aderenza al principio della questione, che da allora era stata rinchiusa nel lavoro forzato. Bisogna ammettere che le concedeva mezzo chilo di tè all'anno, il che era debole da parte sua: primo, perché tutti i doni hanno una tendenza inevitabile a impoverire il destinatario; e secondo, perché la sua unica transazione ragionevole in quella merce sarebbe stata comprarla al prezzo più basso possibile e venderla al prezzo più alto possibile; poiché era stato chiaramente accertato dai filosofi che in questo è compreso tutto il dovere dell'uomo, non una parte del dovere dell'uomo, ma l'intero.
 
 
 
@@ -16768,6 +19106,95 @@ the duty I have accepted, I will see him.  Use your own discretion,
 Bitzer.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Abbastanza buono, signora. Con l'eccezione consueta, signora», ripeté Bitzer.
+
+«Ah-h!», disse la signora Sparsit scuotendo il capo sopra la sua tazza di tè e facendone una lunga sorsata.
+
+«Signorina Thomas, signora, io [[Doubt|dubito]] molto della signorina Thomas, signora,
+non mi piacciono affatto i suoi modi».
+
+«Bitzer», disse la signora Sparsit con grande solennità, «ti ricordi se ti ho detto qualcosa riguardo ai nomi?»
+
+«Chiedo scusa, signora. È assolutamente vero che lei ha obiettato all'uso dei nomi e in effetti è sempre meglio evitarli».
+
+«Vi prego di ricordare che ho un incarico qui», disse la signora Sparsit,
+con il suo portamento maestoso. «Ho una responsabilità qui, Bitzer, sotto
+il controllo del signor Bounderby. Per quanto sia improbabile che sia io
+che il signor Bounderby avremmo potuto immaginare anni fa che lui sarebbe
+diventato il mio mecenate, facendomi un complimento annuale, non posso
+far altro che considerarlo in questa luce. Dal signor Bounderby ho ricevuto
+ogni riconoscimento della mia condizione sociale e ogni ammissione del
+mio lignaggio familiare, che avrei potuto aspettarmi. Di più, molto di più.
+Pertanto, al mio mecenate sarò scrupolosamente fedele. E non ritengo,
+non riterrò, non posso ritenerlo», disse la signora Sparsit, con un
+ampio stock a disposizione di [[Honour|onore]] e [[morality|moralità]], «che io
+_dovrei_ essere scrupolosamente fedele, se permettessi che sotto questo tetto
+vengano menzionati nomi che sono sfortunatamente—molto sfortunatamente—non
+c'è [[Doubt|dubbio]] al riguardo—connessi con lui.»
+
+Bitzer si sfregò di nuovo la fronte e chiese nuovamente scusa.
+
+«No, Bitzer», continuò la signora Sparsit, «dica un individuo e la ascolterò;
+dica il signor Thomas e mi scusi».
+
+"Con l'eccezione consueta, signora," disse Bitzer, "di un individuo."
+
+«Ah-h!» ripeté l'esclamazione la signora Sparsit, scuotendo il capo sopra la tazza di tè e facendo un lungo sorso, come per riprendere la conversazione dal punto in cui era stata interrotta.
+
+«Un individuo, signora», disse Bitzer, «non è mai stato quello che avrebbe dovuto essere da quando è venuto in questo posto. È un perdigiorno dissipato e sperperatore. Non vale il suo sale, signora. E non lo otterrebbe nemmeno se non avesse un amico o un parente alla [[Court|corte]], signora!»
+
+«Ah-ah!», disse la signora Sparsit con un altro triste scuotimento della testa.
+
+«Io spero solo, signora», continuò Bitzer, «che il suo amico e parente non gli fornisca i mezzi per proseguire. Altrimenti, signora, sappiamo da quale tasca provengono [[Hope|quei]] soldi».
+
+«Ah-ah!» sospirò di nuovo la signora Sparsit con un altro scuotimento della testa [[Melancholy|malinconico]].
+
+«Merita pietà, signora. L'ultima persona a cui ho accennato merita pietà, signora», disse Bitzer.
+
+"Sì, Bitzer," disse la signora Sparsit, "ho sempre compatito l'illusione, sempre."
+
+«Per quanto riguarda un individuo, signora», disse Bitzer abbassando la voce e avvicinandosi, «è altrettanto spericolato di chiunque altro in questa città. E lei sa bene qual è lo sperpero _di costoro_, signora. Nessuno potrebbe desiderare di conoscerlo meglio di una signora della sua eminenza».
+
+«Farebbero [[Well|bene]]», rispose la signora Sparsit, «a prendere esempio da te, Bitzer».
+
+«Grazie, signora. Ma poiché lei si riferisce a me, ora guardi me, signora.
+Ho già messo da parte qualcosa, signora. Quella gratifica che ricevo a Natale,
+signora: non la tocco mai. Non spendo nemmeno tutto il mio stipendio, anche se
+non è alto, signora. Perché loro non possono fare come ho fatto io, signora?
+Ciò che una persona può fare, un'altra può farlo».
+
+Anche questo faceva parte delle finzioni di Coketown. Ogni capitalista,
+che aveva guadagnato sessantamila sterline da un mezzo penny, si dichiarava sempre [[Wonder|meravigliato]] che le sessantamila mani più vicine non riuscissero a fare altrettanto e, in modo più o meno esplicito, rimproverava ciascuna di loro per non aver compiuto questo piccolo miracolo. Io l’ho fatto, voi potete farlo. Perché non andate a farlo?
+
+«Per quanto riguarda il loro desiderio di svaghi, signora», disse Bitzer, «è una sciocchezza. A me gli svaghi non interessano. Non mi sono mai interessati e non mi interesseranno mai; non li voglio. Per quanto riguarda la loro unione in associazioni; molti di loro, ne sono sicuro, potrebbero guadagnare qualcosa, sia in denaro che in buona volontà, spiandosi a vicenda e denunciandosi l'un l'altro, migliorando così le proprie condizioni. Allora perché non lo fanno, signora? È la prima considerazione di una creatura razionale, ed è ciò che fingono di volere».
+
+«Fingere davvero!» disse la signora Sparsit.
+
+«Sono sicuro che sentiamo continuamente parlare, signora, fino a diventare davvero nauseabondi, delle loro mogli e famiglie», disse Bitzer. «Basta guardarmi, signora! Non voglio una moglie e una famiglia. Perché dovrebbero volerle?»
+
+«Perché sono sperperati», disse la signora Sparsit.
+
+«Sì, signora», rispose Bitzer «è proprio questo il punto. Se fossero più previdenti e meno perversi, che cosa farebbero? Direbbero: “Finché il mio cappello copre la mia famiglia”, o “finché il mio cappellino copre la mia famiglia” — a seconda dei casi, signora — “ho solo una persona da sfamare e questa è quella che preferisco nutrire”.»
+
+«Certo», convenne la signora Sparsit mangiando una muffin.
+
+«Grazie, signora», disse Bitzer, sfiorandosi di nuovo la fronte in segno di rispetto per il favore della conversazione edificante della signora Sparsit. «Desidera un po' più d'acqua calda, signora, o c'è qualcos'altro che posso [[Water|portarle]]?»
+
+'Niente per ora, Bitzer.'
+
+«Grazie, signora. Non vorrei disturbarla durante i suoi pasti, signora,
+soprattutto il tè, sapendo quanto lo apprezzi», disse Bitzer, allungando un po' il collo per guardare in strada da dove si trovava; «ma c'è un gentiluomo che ci sta osservando da un minuto o giù di lì, signora, e sembra proprio intenzionato a bussare. Quel _colpo_ alla porta è il suo, signora, senza [[Doubt|dubbio]].»
+
+Si avvicinò alla [[Window|finestra]]; e guardando fuori, e ritirando di nuovo la testa dentro, si confermò con: «Sì, signora. Desidera che mostri il gentiluomo all'interno, signora?»
+
+«Non so chi possa essere», disse la signora Sparsit asciugandosi la bocca e sistemando i suoi guanti corti.
+
+'Uno sconosciuto, signora, evidentemente.'
+
+«Non so cosa possa volere uno sconosciuto alla Banca a quest'[[Time|ora]] della sera, se non che è venuto per una faccenda di cui ormai siamo in ritardo», disse la signora Sparsit, «ma ho un incarico in questa ditta affidatomi dal signor Bounderby e non mi tirerò mai indietro. Se vederlo rientra nel compito che mi sono assunta, lo vedrò. Faccia come crede, Bitzer».
+
 
 
 <span class="atom-split" data-atom="chapter_54--part_04" data-title="Hard Times — Chapter 1 (part 4)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/city,motif/summer,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/eternity,concept/faith,concept/honour,concept/indolence,setting/london,character/lucifer"></span>
@@ -16899,6 +19326,91 @@ that—[[Honour|honour]].’
 ‘The lady is quite a philosopher, I am told?’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Qui il visitatore, ignaro delle magnanime parole della signora Sparsit,
+bussò così forte che il facchino accorse ad aprire la porta; mentre la signora Sparsit si affrettava a nascondere il suo piccolo tavolo con tutti i suoi utensili in un armadio e poi fuggiva al piano di sopra, per poter apparire, se necessario, con maggiore dignità.
+
+«Se le fa piacere, signora, il gentiluomo desidera vederla», disse Bitzer,
+con il suo sguardo acuto puntato nella toppa della porta di Mrs Sparsit.
+Così Mrs Sparsit, che aveva approfittato del tempo a sua disposizione per
+aggiustarsi la cuffia, scese nuovamente con i suoi tratti classici e entrò
+nella sala riunioni come una matrona romana uscita dalle mura della [[City|città]]
+per negoziare con un generale invasore.
+
+Il visitatore, dopo essersi avvicinato alla [[Window|finestra]] e avervi appoggiato lo sguardo con noncuranza, rimase impassibile di fronte a quell'imponente ingresso. Stava fischiettando tra sé con la massima calma, il cappello ancora in testa e un certo aspetto esausto dovuto in parte all'eccessivo [[Summer|caldo]] estivo e in parte alla sua eccessiva gentilezza. Infatti era evidente anche a un occhio distratto che si trattava di un vero gentiluomo, modellato secondo i dettami del [[Time|tempo]]; stanco di tutto e che non riponeva più [[Faith|fiducia]] in nulla, neppure in [[Lucifer|Lucifero]].
+
+“Credo, signore”, disse la signora Sparsit, “che desiderasse vedermi.”
+
+'La prego di scusarmi,' disse, voltandosi e togliendosi il cappello.
+
+«Humph!» pensò la signora Sparsit mentre faceva un inchino maestoso.
+«Trentacinque anni, bello, bella figura, bei denti, bella voce, buona educazione,
+[[Well|ben]] vestito, capelli scuri, occhi audaci.» Tutto ciò la signora Sparsit osservò
+alla maniera femminile — come il sultano che mise la testa nel secchio di [[Water|acqua]] — semplicemente immergendosi e rialzandosi.
+
+«Si accomodi, signore», disse la signora Sparsit.
+
+«Grazie. Permettetemi». Le mise una sedia ma lui rimase appoggiato al tavolo in modo disinvolto. «Ho lasciato il mio domestico alla stazione a guardare le valigie — un treno molto pesante e una quantità enorme di bagagli nel vagone — e sono venuto avanti, guardandomi intorno. Un posto stranissimo. Mi permettete di chiedervi se è _sempre_ così nero?»
+
+«In generale molto più nero», rispose la signora Sparsit nel suo modo irremovibile.
+
+'È possibile? Scusatemi: non siete nativo, credo?'
+
+«No, signore», rispose la signora Sparsit. «Una volta mi toccò in sorte - per il meglio o per il peggio, non so dirlo - prima di rimanere vedova, di muovermi in un ambiente ben diverso. Mio marito era un Powler».
+
+"Mi scusi davvero!" disse lo sconosciuto. "Era,?"
+
+La signora Sparsit ripeté: 'Un Powler.'
+
+«Famiglia Powler», disse lo sconosciuto dopo aver riflettuto per qualche istante. La signora Sparsit diede segno di assenso. Lo sconosciuto sembrava un po' più stanco di prima.
+
+«Dovete annoiarvi moltissimo qui?» fu la conclusione che trasse dalla comunicazione.
+
+«Sono la serva delle circostanze, signore», disse la signora Sparsit,
+«e mi sono da tempo adattata al potere che governa la mia vita.»
+
+«Molto filosofico», rispose lo sconosciuto, «e molto esemplare e lodevole, e, » Sembrava che non valesse la pena per lui finire la frase, così giocò con il portacatena dell'orologio in modo stanco.
+
+«Posso permettermi di chiedere, signore», disse la signora Sparsit, «a quale circostanza devo il favore di—»
+
+«Certamente», disse lo sconosciuto. «Grazie mille per avermelo ricordato.
+Sono portatore di una lettera di presentazione per il signor Bounderby, il banchiere.
+Mentre passeggiavo in questa città straordinariamente nera mentre preparavano
+la cena all'albergo, ho chiesto a un tizio che ho incontrato; uno dei
+lavoratori; che sembrava aver fatto una doccia di qualcosa di soffice,
+che presumo essere la materia prima—»
+
+La signora Sparsit inclinò la testa.
+
+«—Materia prima—dove potrebbe risiedere il signor Bounderby, il banchiere.  E così, fuorviato senza [[Doubt|dubbio]] dalla parola Banchiere, mi ha indirizzato alla Banca.
+Il fatto è che presumo che il signor Bounderby il Banchiere _non_ risieda nell'edificio in cui ho l'[[Honour|onore]] di offrire questa spiegazione?»
+
+"No, signore," rispose la signora Sparsit, "non lo fa."
+
+«Grazie. Non avevo intenzione di consegnare la mia lettera in questo momento,
+né l'ho ancora. Ma passeggiando fino alla Banca per ammazzare il [[Time|tempo]], e avendo
+la fortuna di osservare alla [[Window|finestra]]», verso cui fece un gesto languido con la mano, poi si inchinò leggermente, «una signora dall'aspetto molto distinto e gradevole, ho pensato che non potessi fare di meglio che permettermi di chiedere a quella signora dove abita il signor Bounderby, il banchiere. E così mi prendo la libertà, con tutte le scuse del caso, di farlo».
+
+L'inattenzione e la [[Indolence|indolenza]] del suo comportamento erano sufficientemente alleviate,
+secondo il pensiero della signora Sparsit, da una certa galanteria disinvolta che offriva anche a lei omaggio.
+Ecco che lui era, per esempio, in questo momento, quasi seduto sul tavolo eppure pigramente chino su di lei,
+come se riconoscesse un fascino in lei che la rendeva affascinante — nel suo modo.
+
+«So che le banche sono sempre sospettose e ufficialmente devono esserlo», disse lo straniero, la cui leggerezza e fluidità nel parlare erano altrettanto piacevoli; suggerendo argomenti molto più sensati e umoristici di quelli che conteneva — il che forse era un'abile trovata del fondatore di questa numerosa setta, chiunque sia stato quel grande uomo: «perciò posso osservare che la mia lettera - eccola qui - è del membro per questo posto - Gradgrind - che ho avuto il piacere di conoscere a [[London|Londra]].»
+
+La signora Sparsit riconobbe la scrittura, fece capire che una tale conferma era del tutto superflua e fornì l'indirizzo di Bounderby con tutti gli indizi necessari e le istruzioni per arrivarci.
+
+«Mille grazie», disse lo sconosciuto. «Naturalmente conoscete il banchiere [[Well|bene]]?»
+
+«Sì, signore», rispose la signora Sparsit. «Nel mio rapporto di dipendenza da lui, lo conosco da dieci anni».
+
+«Un'[[Eternity|eternità]] intera! Penso che abbia sposato la figlia di Gradgrind?»
+
+«Sì», disse la signora Sparsit, comprimendo improvvisamente le labbra, «aveva quell'[[Honour|onore]].»
+
+'La signora è una vera filosofa, mi dicono?'
+
 
 
 <span class="atom-split" data-atom="chapter_54--part_05" data-title="Hard Times — Chapter 1 (part 5)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/night,motif/soul,motif/time,motif/window,concept/honour"></span>
@@ -16971,6 +19483,42 @@ creased with meditation, as if they needed ironing out-up-stairs.
 she meant, she did not say; but she could scarcely have meant the
 sweetbread.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+'Infatti, signore,' disse la signora Sparsit. 'Lo è?'
+
+«Scusatemi per la mia impertinente curiosità», proseguì lo sconosciuto, frusciando sopra le sopracciglia della signora Sparsit con aria propiziatoria, «ma voi conoscete la famiglia e conoscete il mondo. Io sto per conoscere la famiglia e potrei avere molto a che fare con loro. La signorina è così terribilmente spaventosa? Suo padre le attribuisce una reputazione di testa dura così portentosamente rigida, che ho un [[Desire|desiderio]] ardente di saperne di più. È assolutamente inaccessibile? Ripugnantemente e sbalorditivamente intelligente? Vedendo il vostro sorriso pieno di significato, capisco che non pensate così. Avete versato balsamo nella mia ansiosa [[Soul|anima]]. E ora, per quanto riguarda l'età. Quarant'anni? Trentacinque?»
+
+La signora Sparsit rise apertamente: "Una ragazzina", disse, "non aveva ancora vent'anni quando si sposò".
+
+«Le do la mia [[Honour|parola d'onore]], signora Powler», rispose lo sconosciuto,
+staccandosi dal tavolo, «che non sono mai stato così stupito in vita mia!»
+
+Gli sembrava davvero di impressionarlo al massimo della sua capacità di essere colpito.
+Lo guardò per un quarto d'ora e sembrava avere la sorpresa in mente tutto il [[Time|tempo]]. «Le assicuro, signora Powler», disse poi, molto esausto, «che il comportamento del padre mi aveva preparato a una maturità cupa e fredda. Sono obbligato verso di lei per aver corretto un errore così assurdo. La prego di scusare la mia intrusione. Mille grazie. Arrivederci!»
+
+Si congedò e la signora Sparsit, nascosta dietro le tende della [[Window|finestra]], lo vide mentre si allontanava lungo la strada sul lato ombreggiato del marciapiede, osservato da tutti i cittadini.
+
+«Che ne pensi di quell'uomo, Bitzer?» chiese al facchino quando venne a portar via.
+
+'Spende un sacco di soldi per i suoi vestiti, signora.'
+
+"Devo ammettere," disse la signora Sparsit, "che è molto elegante."
+
+"Sì, signora," rispose Bitzer, "se ne vale la pena."
+
+«Inoltre, signora», riprese Bitzer mentre lucidava il tavolo,
+«mi sembra che giochi d'azzardo.»
+
+«È immorale fare il gioco», disse la signora Sparsit.
+
+"È ridicolo, signora," disse Bitzer, "perché le probabilità sono contro i giocatori."
+
+Che fosse il caldo a impedire alla signora Sparsit di lavorare o che la sua mano fosse fuori gioco, quella [[Night|sera]] non fece nulla. Si sedette alla [[Window|finestra]] quando il sole iniziò a tramontare dietro il fumo; rimase lì mentre il fumo ardeva rosso, poi sbiadiva, e infine la notte sembrava salire lentamente dal terreno, strisciando verso l'alto, sempre più su, fino ai tetti delle [[house|case]], al campanile della chiesa, alle cime dei comini delle fabbriche, fino al cielo. Senza una candela nella stanza, la signora Sparsit rimase alla [[Window|finestra]], con le mani davanti a sé, senza prestare molta attenzione ai suoni della sera: i colpi di tosse dei ragazzi, l'abbaiare dei [[dogs|cani]], il rombo delle ruote, i passi e le voci dei passanti, le grida acute per strada, lo scricchiolio dei legacci sul marciapiede quando era ora che passassero, la chiusura degli sportelli dei negozi. Solo quando il facchino annunciò che il suo dolce serale era pronto, la signora Sparsit si risvegliò dalla sua riflessione e portò le sue folte sopracciglia nere—che a quell'[[Time|ora]] erano aggrottate in meditazione, come se avessero bisogno di essere stirate—al piano di sopra.
+
+«Oh, tu [[Fool|sciocco]]!», disse la signora Sparsit quando fu [[Alone|sola]] a cena.
+Non precisò chi intendesse con quelle parole, ma difficilmente poteva riferirsi al midollo di vitello.
 
 
 
@@ -17089,6 +19637,61 @@ yourself by supposing for a moment that I am a man of family.  I am a bit
 of dirty riff-raff, and a genuine scrap of tag, rag, and bobtail.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II
+IL SIGNOR [[James Harthouse|JAMES HARTHOUSE]]
+
+Il partito di Gradgrind voleva assistenza per tagliare la gola alle Grazie. Si misero a reclutare; e dove potevano arruolare reclute più adatte che tra i signori distanti che, avendo scoperto che tutto non vale nulla, erano ugualmente pronti per qualsiasi cosa?
+
+Inoltre, gli spiriti sani che erano saliti fino a questa [[Sublime|sublime]] altezza
+erano attraenti per molti della scuola Gradgrind.  A loro piacevano i gentiluomini;
+facevano finta di no, ma in realtà li apprezzavano.  Si esaurivano nell'
+[[Imitation|imitazione]] di essi; e sbadigliavano nel parlare come loro; e servivano,
+con aria affaticata, le piccole razioni ammuffite di economia politica
+con cui deliziavano i loro discepoli.  Mai prima d'ora sulla terra era stata
+vista una razza ibrida così meravigliosa come quella che fu così prodotta.
+
+Tra i signori di bell'aspetto che non appartenevano regolarmente alla scuola Gradgrind,
+c'era uno di buona famiglia e con un aspetto ancora migliore, dotato di una felice vena
+di [[Humour|umorismo]] che aveva fatto colpo sulla [[house|Camera]] dei Comuni in occasione del suo discorso
+in cui intrattenne l'assemblea esponendo la sua visione (e quella della Direzione)
+di un incidente ferroviario, nel quale i più scrupolosi funzionari mai conosciuti,
+impiegati dai più generosi manager di cui si fosse mai sentito parlare, assistiti
+dai migliori marchingegni meccanici mai ideati, il tutto in azione sulla migliore linea
+mai costruita, avevano ucciso cinque persone e ne avevano ferite trentadue,
+per un incidente senza il quale l'eccellenza dell'intero sistema sarebbe stata positivamente incompleta.
+Tra le vittime c'era una mucca, e tra gli articoli sparsi non reclamati, un berretto da vedova.
+E l'onorevole membro aveva così solleticato la [[house|Camera]] (che ha un delicato senso dell'[[Humour|umorismo]])
+mettendo il cappello alla mucca, che essa divenne impaziente di qualsiasi
+riferimento serio all'autopsia del medico legale, e fece uscire la ferrovia con applausi e risate.
+
+Ora, questo signore aveva un fratello minore di aspetto ancora migliore del suo, che aveva provato la vita come cornetta dei draghi e l'aveva trovata noiosa; poi l'aveva provata nella scia di un ministro inglese all'estero e anche quella gli era sembrata noiosa; quindi si era incamminato verso Gerusalemme, annoiandosi pure là; infine aveva fatto il giro del mondo in yacht, annoiandosi ovunque. A questo fratello così onorevole e scherzoso, un giorno il membro disse fraternamente: ‘Jem, c’è una buona opportunità tra i tipi dei Fatti duri, e cercano uomini. [[Wonder|Mi chiedo]] perché non ti dedichi alle statistiche.’ Jem, piuttosto colpito dalla novità dell'idea e molto bisognoso di un cambiamento, era pronto a dedicarsi alle statistiche come a qualsiasi altra cosa. Così ci si mise. Si preparò con uno o due blue-book; e suo fratello diffuse la voce tra i tipi dei Fatti duri, dicendo: ‘Se volete portare in qualche posto un bell'uomo che può fare un discorso dannatamente buono, cercate mio fratello Jem, perché è l'uomo giusto.’ Dopo alcuni interventi in pubblico, il signor Gradgrind e un consiglio di saggi politici approvarono Jem, e si decise di mandarlo a Coketown, per farsi conoscere là e nei dintorni. Da qui la lettera che Jem aveva mostrato l'ultima [[Night|notte]] alla signora Sparsit, ora in mano al signor Bounderby; indirizzata: ‘[[Josiah Bounderby]], Esquire, Banker, Coketown. Specially to introduce [[James Harthouse]], Esquire.  [[Thomas Gradgrind]].’
+
+Entro un'ora dal ricevimento di questo dispaccio e del biglietto da visita di Mr. [[James Harthouse]], Mr. Bounderby si mise il cappello e scese all'albergo. Lì trovò Mr. [[James Harthouse]] che guardava fuori dalla [[Window|finestra]], in uno stato d'animo così scoraggiato, da essere già mezzo disposto a "entrare" in qualcos'altro.
+
+«Il mio nome, signore», disse il suo visitatore, «è [[Josiah Bounderby]], di Coketown».
+
+Il signor [[James Harthouse]] era davvero molto felice (anche se non lo si sarebbe detto) di avere un piacere che aveva tanto atteso.
+
+«Coketown, signore», disse Bounderby, ostinatamente prendendo una sedia, «non è il tipo di posto a cui lei sia abituato. Perciò, se mi permette — o anche se non me lo permette, perché sono un uomo schietto — le dirò qualcosa al riguardo prima che andiamo oltre».
+
+Il signor Harthouse sarebbe incantato.
+
+«Non ne sia troppo sicuro», disse Bounderby. «Non prometto nulla. Prima di tutto, veda il nostro fumo. È pane e carne per noi. È la cosa più salutare del mondo sotto ogni aspetto, e in particolare per i polmoni. Se è uno di quelli che vorrebbero che lo consumassimo, lei si sbaglia. Non abbiamo intenzione di consumare il fondo delle nostre caldaie più velocemente di quanto facciamo ora, nonostante tutto l'ipocrita sentimentalismo della Gran Bretagna e dell'Irlanda».
+
+Per dimostrare di “aderire” al massimo grado, il signor Harthouse replicò: «Signor Bounderby, le assicuro che sono totalmente e completamente della sua stessa opinione. Ne sono convinto».
+
+«Sono contento di saperlo», disse Bounderby. «Ora, avete sentito parlare molto del lavoro nelle nostre fabbriche, senza [[Doubt|dubbio]]. Avete? Benissimo. Ve ne esporrò i fatti. È il lavoro più piacevole che ci sia, ed è il lavoro più leggero che ci sia, ed è il lavoro meglio pagato che ci sia. E non solo: non potremmo migliorare le fabbriche stesse se non mettendo tappeti di Turchia sui pavimenti. Ma questo non lo faremo».
+
+'Il signor Bounderby ha perfettamente ragione.'
+
+«Infine», disse Bounderby, «per quanto riguarda i nostri Operai. Non c'è un Operaio in questa città, signore, uomo, donna o [[Child|bambino]], che non abbia un obiettivo ultimo nella vita. Questo obiettivo è di essere nutriti con zuppa di tartaruga e cervo con un cucchiaio d'oro. Ora, loro non stanno andando — nessuno di loro — a mangiare mai zuppa di tartaruga e cervo con un cucchiaio d'oro. E ora conoscete il posto.»
+
+Il signor Harthouse si dichiarò istruito e rinfrescato al massimo grado da questo breve riassunto dell'intera questione di Coketown.
+
+«Perché, vede», rispose il signor Bounderby, «mi si addice avere un rapporto chiarissimo con un uomo, in particolare se è una persona pubblica, quando ne faccio la conoscenza.  Ho solo un'altra cosa da dirle, signor Harthouse, prima di assicurarle del piacere che proverò nel rispondere, per quanto mi sia possibile, alla lettera di presentazione del mio amico [[Tom Gradgrind]].  Lei è un uomo di famiglia. Non si illuda neppure per un momento che io sia un uomo di famiglia. Sono una specie di spazzatura sporca e un autentico pezzo di scarto, straccio e cencio».
+
 
 
 <span class="atom-split" data-atom="chapter_55--part_02" data-title="Hard Times — Chapter 2 (part 2)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/well,concept/honour,concept/hope,concept/humility,concept/self,concept/truth,character/james_harthouse,character/josiah_bounderby,character/tom_gradgrind"></span>
@@ -17203,6 +19806,53 @@ with a charming Italian motto.  What will be, will be.  It’s the only
 [[Truth|truth]] going!’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Se qualcosa avrebbe potuto accrescere l'interesse di Jem per il signor Bounderby,
+questa sarebbe stata proprio questa circostanza. O almeno così disse a lui.
+
+«E così ora», disse Bounderby, «possiamo stringerci la mano da pari.  Dico
+da pari perché sebbene io sappia chi sono e conosca meglio di chiunque altro l'esatta profondità del fosso dal quale mi sono tirato fuori, sono orgoglioso quanto te. Sono esattamente altrettanto orgoglioso quanto te. Avendo ora affermato la mia indipendenza in modo appropriato, posso chiederti come ti senti e [[Hope|spero]] che tu stia abbastanza [[Well|bene]].»
+
+Il miglioramento, gli fece capire il signor Harthouse mentre si stringevano la mano,
+era dovuto all'aria salubre di Coketown. Il signor Bounderby accolse la risposta con favore.
+
+«Forse lo sapete», disse lui, «o forse non lo sapete, ma ho sposato la figlia di Tom Gradgrind. Se non avete niente di meglio da fare che passeggiare in città con me, sarò lieto di presentarvi alla [[Tom Gradgrind|figlia]] di Tom Gradgrind».
+
+"Signor Bounderby," disse Jem, "lei esaudisce i miei più cari desideri."
+
+Uscirono senza ulteriori discorsi; e il signor Bounderby accompagnò la nuova conoscenza che contrastava così nettamente con lui fino alla sua abitazione privata di mattoni rossi, con le persiane esterne nere, gli interni tendaggi verdi e la porta nera della strada su due gradini bianchi. Nell'atrio di tale dimora, entrarono presto da loro la più notevole ragazza che il signor [[James Harthouse]] avesse mai visto. Era così vincolata, eppure così disinteressata; così riservata, eppure così attenta; così fredda e orgogliosa, eppure così sensibilmente imbarazzata per l'ostentata [[Humility|umiltà]] del marito - da cui si ritraeva come se ogni esempio di essa fosse un taglio o uno schiaffo; che era una sensazione completamente nuova osservarla. Nel volto non era meno notevole che nel comportamento. I suoi tratti erano belli, ma la loro naturale espressione era così chiusa, che sembrava impossibile indovinare la loro genuina espressione. Assolutamente indifferente, perfettamente [[Self|autonoma]], mai in difficoltà eppure mai a suo agio, con la sua figura in compagnia di loro lì, e la sua mente apparentemente del tutto [[Alone|sola]] - non serviva "entrare" ancora per un po' per comprendere questa ragazza, perché sfidava ogni penetrazione.
+
+Dalla padrona di [[house|casa]], lo sguardo del visitatore si spostò sulla [[house|casa]] stessa.
+Non c'era alcun segno muto di una donna nella stanza.  Nessun grazioso piccolo
+ornamento, nessun fantasioso piccolo accessorio, per quanto banale, esprimeva ovunque la sua influenza.  Triste e scomoda, sfacciatamente e ostinatamente ricca,
+la stanza fissava i suoi attuali occupanti senza ammorbidirsi né essere alleviata
+dal minimo segno di qualsiasi occupazione femminile.  Mentre il signor Bounderby stava in mezzo ai suoi dei domestici, così quegli implacabili divinità occupavano i loro posti attorno al signor Bounderby, e si facevano compagnia a vicenda,
+e [[Well|bene]] assortiti.
+
+«Questo, signore», disse Bounderby, «è mia moglie, la signora Bounderby: la figlia maggiore di [[Tom Gradgrind]].  Loo, il signor [[James Harthouse]]. Il signor Harthouse si è unito al registro dei membri di suo padre. Se non diventerà presto un collega di [[Tom Gradgrind]], credo che sentiremo parlare di lui in relazione a una delle nostre città vicine. Noterà, signor Harthouse, che mia moglie è più giovane di me. Non so cosa abbia visto in me per sposarmi, ma suppongo che abbia visto qualcosa in me, altrimenti non mi avrebbe sposato. Ha un sacco di conoscenze costose, signore, politiche e di altro tipo. Se vuole prepararsi a fondo su qualcosa, sarei lieto di consigliarle un consulente migliore di Loo Bounderby».
+
+Mr. Harthouse non avrebbe mai potuto trovare un consigliere più piacevole o da cui sarebbe stato più probabile imparare.
+
+«Come!» disse il suo ospite. «Se sei nella linea dei complimenti, qui te la caverai, perché non incontrerai concorrenza. Io non ho mai avuto l'abitudine di imparare i complimenti e non pretendo di conoscere l'arte di farli. In effetti li disprezzo. Ma la tua educazione è stata diversa dalla mia; la mia era una cosa reale, per George! Tu sei un gentiluomo, e io non fingo di esserlo. Io sono [[Josiah Bounderby]] di Coketown, e questo mi basta. Tuttavia, anche se io non sono influenzato dai modi e dal rango, Loo Bounderby potrebbe esserlo. Lei non ha avuto i miei vantaggi - svantaggi li chiameresti tu, ma io li chiamo vantaggi - quindi non sprecare il tuo potere, ne sono certo.»
+
+«Il signor Bounderby», disse Jem rivolgendosi con un sorriso a Louisa,
+«è un animale nobile in uno stato relativamente naturale, del tutto libero dalle redini nelle quali lavora una bestia da soma convenzionale come me».
+
+«Rispetta molto il signor Bounderby», rispose tranquillamente. «È naturale che lo faccia».
+
+Fu cacciato in modo vergognoso, per un gentiluomo che aveva visto tanto mondo e pensò: «E ora, come dovrei prendere questo?»
+
+«Ti dedicherai, come ho capito da quanto ha detto il signor Bounderby,
+al servizio della tua patria. Hai preso la tua decisione», disse Louisa, rimanendo in piedi davanti a lui dove si era fermata per la prima volta — con tutta quella singolare contraddizione tra il suo [[Self|auto]]controllo e l'evidente disagio — «per mostrare alla nazione la via d'uscita da tutte le sue difficoltà.»
+
+«Signora Bounderby», rispose ridendo, «sul mio [[Honour|onore]], no. Non farò nessuna pretesa del genere con voi. Ho visto un po' di tutto, qua e là, su e giù; ho trovato che tutto è molto privo di valore, come tutti hanno fatto, e come alcuni confessano di aver fatto, mentre altri non lo fanno; e sto per adottare le opinioni del vostro rispettabile padre — davvero perché non ho scelta tra le opinioni, e posso sostenere quelle tanto quanto qualsiasi altra.»
+
+«Non ne avete di vostri?» chiese Louisa.
+
+«Non mi è rimasta la minima predilezione. Ve lo assicuro,
+non attribuisco alcuna importanza alle opinioni altrui. Il risultato delle varietà di noia che ho sopportato, è una convinzione (a meno che "convinzione" non sia un termine troppo industrioso per il sentimentozio pigro che nutro sull'argomento), che qualsiasi insieme di idee possa fare esattamente lo stesso bene e lo stesso male di qualunque altro. C'è una famiglia inglese con uno splendido motto italiano: "Sarà come Dio vorrà". È l'unica [[Truth|verità]] che c'è!»
+
 
 
 <span class="atom-split" data-atom="chapter_55--part_03" data-title="Hard Times — Chapter 2 (part 3)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/dust,motif/home,motif/love,motif/night,motif/rose,motif/silence,motif/water,motif/well,concept/solitude,character/james_harthouse"></span>
@@ -17304,6 +19954,53 @@ out with him to escort him thither.
 
 [Picture: Mr. Harthouse dines at the Bounderby’s]
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Quell'ipocrita presunzione di onestà nell'inganno - un vizio così pericoloso, così mortale e così comune - sembrava, osservò lui, averla colpita leggermente a suo favore. Approfittando del vantaggio, continuò dicendo nel modo più piacevole: un tono al quale lei poteva attribuire tutto o niente come preferiva: «Il lato che può provare qualsiasi cosa in una serie di unità, decine, centinaia e migliaia, signora Bounderby, mi sembra offrire il massimo divertimento e dare a un uomo la migliore opportunità. Sono altrettanto affezionato ad esso come se ci credessi. Sono pronto a sostenerlo nella stessa misura in cui ci crederei. E che altro potrei fare, se ci credessi!»
+
+«Siete un politico singolare», disse Louisa.
+
+«Mi scusi; non ho nemmeno questo merito. Siamo il partito più numeroso dello stato, glielo assicuro, signora Bounderby, se tutti uscissimo dalle nostre posizioni adottate e fossimo esaminati insieme».
+
+Il signor Bounderby, che era in pericolo di scoppiare nel [[Silence|silenzio]], intervenne qui con un progetto per rimandare la cena di famiglia alle sei e mezza,
+e portare il signor [[James Harthouse]] nel frattempo a fare una serie di visite ai notabili votanti e interessanti di Coketown e dintorni.
+La serie di visite fu fatta; e il signor [[James Harthouse]], con un uso discreto del suo blu da viaggio, uscì trionfalmente, sebbene con una
+notevole aggiunta di noia.
+
+La sera trovò la tavola apparecchiata per quattro persone, ma si sedettero solo in tre. Fu l'occasione adatta perché il signor Bounderby parlasse del sapore della manciata di anguille stufate che aveva comprato in strada all'età di otto anni; e anche dell'[[Water|acqua]] scadente, usata appositamente per abbattere la [[Dust|polvere]], con cui aveva lavato giù quel pasto. Allo stesso modo intrattenne il suo ospite durante la zuppa e il pesce raccontando che lui (Bounderby) in gioventù aveva mangiato almeno tre cavalli sotto forma di salsicce polacche e salamini. Jem, con aria languida, accoglieva questi racconti esclamando "incantevole!" ogni tanto; e probabilmente lo avrebbero convinto a riprendere il viaggio per Gerusalemme la mattina seguente, se non fosse stato così curioso riguardo a Louisa.
+
+«Non c'è nulla», pensò, guardandola mentre sedeva a capotavola, dove la sua figura giovanile, piccola e minuta ma molto graziosa, appariva tanto carina quanto fuori posto; «non c'è nulla che possa commuovere quel volto?»
+
+Sì! Per Giove, c'era qualcosa e lì era, in una forma inaspettata. Tom apparve. Lei cambiò quando la porta si aprì ed esplose in un sorriso raggiante.
+
+Un bel sorriso. Il signor [[James Harthouse]] non l'avrebbe forse trovato così importante,
+ma era rimasto a lungo colpito dal suo volto impassibile. Lei tese la mano — una graziosa manina morbida; e le sue dita si chiusero su quelle di suo fratello, come se volesse portarle alle labbra.
+
+"Ay, ay?" pensò il visitatore. "Questo cucciolo è l'unica creatura a cui tiene. Bene, bene!"
+
+Il cucciolo fu presentato e prese posto. L'appellativo non era lusinghiero, ma neppure immotivato.
+
+'Quando avevo la tua età, giovane Tom,' disse Bounderby, 'ero puntuale, altrimenti non mangiavo!'
+
+«Quando avevi la mia età», riprese Tom, «non dovevi correggere un equilibrio sbagliato e non dovevi vestirti dopo.»
+
+«Non importa adesso», disse Bounderby.
+
+«[[Well|Bene]], allora», borbottò Tom. «Non cominciare con me».
+
+«Signora Bounderby», disse Harthouse, che aveva perfettamente udito questo sottofondo mentre proseguiva, «il volto di suo fratello mi è del tutto familiare. L'ho forse visto all'estero? O forse in qualche scuola pubblica?»
+
+«No», riprese lei, molto interessata, «non è mai stato all'estero e ha fatto i suoi studi qui, a [[Home|casa]]. Tom, [[Love|amore]], sto dicendo al signor Harthouse che non ti ha mai visto all'estero.»
+
+«Non abbiamo avuto tanta fortuna, signore», disse Tom.
+
+C'era ben poco in lui che potesse illuminare il suo volto, perché era un giovane malinconico e persino con lei si comportava senza grazia. Tanto più grande doveva essere la [[Solitude|solitudine]] del suo cuore e il bisogno di qualcuno a cui donarlo. «Tanto più questo cucciolo è l'unica creatura per cui abbia mai provato affetto», pensò Mr. [[James Harthouse]], riflettendoci su ancora e ancora. «Tanto più. Tanto più.»
+
+Sia in presenza di sua sorella che dopo che lei aveva lasciato la stanza,
+il marmocchio non si prese alcuna pena per nascondere il suo disprezzo verso il signor Bounderby, ogni volta che poteva permetterselo senza essere osservato da quell'uomo indipendente, facendo smorfie o chiudendo un occhio. Senza rispondere a queste comunicazioni telegrafiche, il signor Harthouse lo incoraggiò molto nel corso della serata e gli dimostrò una simpatia insolita. Alla fine, quando si [[Rose|alzò]] per tornare al suo hotel e fu un po' incerto se conoscesse la strada di [[Night|notte]], il marmocchio offrì immediatamente i suoi servigi come guida e uscì con lui per scortarlo fino lì.
+
+[Immagine: Il signor Harthouse cena dai Bounderby]
 
 
 
@@ -17527,6 +20224,133 @@ good and all, and have curtained his head for ever with its filthy
 waters.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO III
+IL PICCOLO MOSTRO
+
+ERA davvero notevole che un giovane signore cresciuto sotto un sistema continuo di restrizioni innaturali fosse un ipocrita, ma era certamente il caso di Tom. ERA molto strano che un giovane signore che non era mai stato lasciato alla propria guida per cinque minuti consecutivi fosse incapace infine di governare se stesso; ma così era con Tom. ERA del tutto inspiegabile che un giovane signore la cui [[Imagination|immaginazione]] era stata strangolata nella culla, fosse ancora disturbato dal suo [[Ghost|fantasma]] sotto forma di sensualità servili; ma tale [[Monster|mostro]], oltre ogni [[Doubt|dubbio]], era Tom.
+
+«Fuma?», chiese il signor [[James Harthouse]] quando arrivarono all'albergo.
+
+«Io ti credo!» disse Tom.
+
+Non poteva fare altro che invitare Tom di sopra; e Tom non poteva fare altro che salire.
+Tra una bevanda rinfrescante adatta al tempo, ma non troppo leggera;
+e tra un tabacco più pregiato di quello che si trovava in quelle zone;
+Tom si ritrovò presto in uno stato di grande libertà e disinvoltura nella sua parte del divano,
+e più che mai propenso a ammirare il suo nuovo amico all'altra estremità.
+
+Dopo aver fumato per un po', Tom soffiò via il fumo e osservò il suo amico.
+"Non sembra preoccuparsi del suo abbigliamento", pensò Tom, "eppure come lo fa bene. Che tipo elegante è!"
+
+Il signor [[James Harthouse]], capitando di incrociare lo sguardo di Tom, osservò che non beveva nulla e riempì il suo bicchiere con la sua stessa mano negligente.
+
+«Grazie», disse Tom. «Grazie. [[Well|Beh]], signor Harthouse, spero che abbia avuto una buona dose di vecchio Bounderby stasera». Tom disse questo con un occhio chiuso di nuovo e guardando sopra il suo bicchiere con aria saputa verso il suo ospite.
+
+«Un uomo davvero molto in gamba!» rispose il signor [[James Harthouse]].
+
+«Lo pensi anche tu, vero?» disse Tom e richiuse di nuovo l'occhio.
+
+Il signor [[James Harthouse]] sorrise; e alzandosi dalla sua estremità del divano,
+appoggiandosi con la schiena contro il caminetto, così che si trovava davanti
+alla vuota [[Fire|griglia]] del camino mentre fumava, di fronte a Tom e guardandolo dall'alto in basso,
+osservò:
+
+'Che cognato buffo sei!'
+
+«Che cognato buffo è quel vecchio Bounderby, credo vogliate dire», disse Tom.
+
+«Sei un pezzo di veleno, Tom», replicò il signor [[James Harthouse]].
+
+C'era qualcosa di così piacevole nell'intimità con un simile gilet; nel farsi chiamare Tom in modo così confidenziale da una voce del genere; nel trovarsi a proprio agio quasi subito con quei baffetti, che Tom era straordinariamente soddisfatto di sé.
+
+«Oh! Non mi importa nulla di quel vecchio Bounderby», disse lui, «se è questo che intendi. Ho sempre chiamato quel vecchio Bounderby con lo stesso nome quando ne ho parlato e l'ho sempre pensata allo stesso modo su di lui. Non intendo cominciare ad essere cortese ora riguardo a quel vecchio Bounderby. Sarebbe un po' tardi, ormai».
+
+'Non badate a me', rispose James; 'ma fate attenzione quando c'è sua moglie, sapete.'
+
+«Sua moglie?» disse Tom. «Mia sorella Loo? Ah sì!» E rise e prese un altro sorso della bevanda rinfrescante.
+
+[[James Harthouse]] continuò a starsene in disparte nello stesso posto e nella stessa posa,
+fumando il suo sigaro alla sua maniera disinvolta e guardando con piacere il
+giovane, come se sapesse di essere una specie di demone affabile che aveva solo
+da aleggiargli sopra, e lui avrebbe dovuto cedere tutta la propria [[Soul|anima]] se richiesto.  Era
+certamente vero che il giovane sembrava cedere a questa influenza.  Guardò
+il suo compagno di nascosto, lo guardò con ammirazione, lo guardò con audacia e mise una gamba sul divano.
+
+'Mia sorella Loo?' disse Tom. 'Lei non ha mai amato il vecchio Bounderby.'
+
+«È il passato remoto, Tom», rispose il signor [[James Harthouse]], battendo la cenere del suo sigaro con il mignolo. «Ora siamo al presente».
+
+«Verbo neutro, non curarsene. Modo indicativo, tempo presente. Prima persona singolare, io non me ne curo; seconda persona singolare, tu non te ne curi; terza persona singolare, lei non se ne cura», rispose Tom.
+
+'Bravo! Molto pittoresco!' disse il suo amico. 'Anche se non lo pensi.'
+
+«Ma lo dico sul serio», esclamò Tom. «Sul mio [[Honour|onore]]!  Ditemi, signor Harthouse, pensate davvero che mia sorella Loo provi qualcosa per il vecchio Bounderby?»
+
+«Mio caro amico», rispose l'altro, «che cosa dovrei supporre quando trovo due persone sposate che vivono in armonia e felicità?»
+
+Tom aveva già messo entrambe le gambe sul divano in quel [[Time|momento]]. Se la sua seconda gamba non fosse stata già lì quando lo chiamarono caro amico, l'avrebbe alzata a quell'importante punto della conversazione. Sentendo di dover fare qualcosa allora, si distese più comodamente e, appoggiandosi con la nuca alla fine del divano e fumando con un'incredibile aria di noncuranza, rivolse il suo volto ordinario e i suoi occhi poco sobri verso il viso che lo guardava dall'alto così disinvoltamente ma anche così potentemente.
+
+«Conoscete il nostro governatore, Mr. Harthouse», disse Tom, «e quindi non dovreste sorprendervi che Loo abbia sposato il vecchio Bounderby. Non ha mai avuto un [[Lover|amante]], e il governatore le propose il vecchio Bounderby, e lei lo prese».
+
+«Molto devoto alla vostra interessante sorella», disse il signor [[James Harthouse]].
+
+«Sì, ma non sarebbe stata altrettanto devota e non avrebbe funzionato così bene», ribatté il cucciolo, «se non fosse stato per me.»
+
+Il tentatore si limitò ad alzare le sopracciglia; ma il cucciolo fu costretto a continuare.
+
+«_Io_ l’ho persuasa», disse con un edificante atteggiamento di superiorità. «Ero stato infilato nella banca del vecchio Bounderby (dove non volevo assolutamente stare), e sapevo che mi sarei cacciato nei guai se lei avesse spento la pipa del vecchio Bounderby; così le ho detto i miei desideri, ed è andata come volevo io. Avrebbe fatto qualsiasi cosa per me. È stata davvero coraggiosa, non vi pare?»
+
+'È stato incantevole, Tom!'
+
+«Non che fosse per lei altrettanto importante come lo era per me,» continuò Tom con calma «perché la mia libertà e il mio benessere, e forse anche i miei successi, dipendevano da questo; mentre lei non aveva altri [[Lover|amanti]], e rimanere a [[Home|casa]] era come stare in prigione - specialmente quando ero io ad essere andato via. Non è che abbia rinunciato ad un altro [[Lover|amante]] per il vecchio Bounderby; ma comunque sia, questo dimostra qualcosa di buono in lei.»
+
+'Assolutamente deliziosa. E procede così tranquillamente.'
+
+«Oh», rispose Tom con un tono di protezione sprezzante, «è una ragazza regolare.
+Una ragazza può cavarsela ovunque. Si è adattata alla vita e _lei_ non se ne preoccupa. Va proprio come [[Well|bene]] quanto un altro. Inoltre, anche se Loo è una ragazza, non è una ragazza comune. Sa chiudersi in sé stessa e pensare — come l'ho spesso vista seduta a guardare il [[Fire|fuoco]] — per un'ora di seguito».
+
+«Ah sì? Ha le sue risorse», disse Harthouse fumando tranquillamente.
+
+«Non ne ha mangiata tanta come pensate», rispose Tom, «perché il nostro padrone le dava da mangiare tutte sorta di ossa secche e segatura. È il suo sistema».
+
+«Ha formato sua figlia secondo il suo stesso modello?» suggerì Harthouse.
+
+«Sua figlia? Ah! e tutti gli altri. Perché mi ha formato così!» disse Tom.
+
+'Impossibile!'
+
+«Eppure lo ha fatto», disse Tom scuotendo la testa. «Voglio dire, signor Harthouse, che quando lasciai per la prima volta [[Home|casa]] e andai da quel vecchio Bounderby, ero piatto come una stufetta e non sapevo nulla della vita più di qualsiasi altra ostrica.»
+
+'Vieni, Tom! Non riesco quasi a crederci. Uno scherzo è uno scherzo.'
+
+«Per la mia [[Soul|anima]]!» disse il mascalzone. «Sono serio, lo sono davvero!» Fumò con grande gravità e dignità per un po', poi aggiunse in tono molto compiaciuto: «Oh! Ho imparato qualcosa da allora. Non lo nego. Ma l'ho fatto da solo; non ringrazierò il governatore».
+
+'La tua intelligente sorella?'
+
+«Mia sorella intelligente è più o meno come era prima. Si lamentava con me che non aveva nulla su cui fare affidamento, quello su cui di solito le ragazze fanno affidamento; e non vedo come abbia potuto superare questo problema da allora. Ma _lei_ non ci bada», aggiunse sagacemente, aspirando nuovamente il suo sigaro. «Le ragazze riescono sempre a cavarsela in qualche modo».
+
+«Faccendo visita alla Banca ieri sera per avere l'indirizzo del signor Bounderby, ho trovato una vecchia signora che sembra nutrire grande ammirazione per sua sorella», osservò il signor [[James Harthouse]], gettando via l'ultimo piccolo resto del sigaro che aveva appena finito di fumare.
+
+"Madre Sparsit!" disse Tom. "Cosa? L'hai già vista?"
+
+Il suo amico annuì. Tom tolse il sigaro dalla bocca per chiudere l'occhio (che era diventato piuttosto incontrollabile) con maggiore espressione, e per toccarsi più volte il naso con un dito.
+
+«Il sentimento di Madre Sparsit per Loo è più che ammirazione, credo» disse Tom. «Direi affetto e devozione. Madre Sparsit non ha mai messo gli occhi su Bounderby quando era scapolo. Oh no!»
+
+Queste furono le ultime parole pronunciate dal cucciolo prima che sopraggiungesse un torpore vertiginoso seguito da completa oblio. Fu risvegliato da quest'ultimo stato da un sogno inquietante di essere svegliato con uno scarpone e anche dalla voce che diceva: «Su, è tardi. Vattene!»
+
+«[[Well|Bene]]!» disse, alzandosi dal divano. «Devo però congedarmi da voi. Dico. Il vostro tabacco è ottimo. Ma è troppo delicato.»
+
+«Sì, è troppo mite», rispose il suo ospite.
+
+«È, è ridicolmente mite», disse Tom. «Dov'è la porta? [[Night|Buona]] notte!»
+
+Aveva un altro strano sogno di essere condotto da un cameriere attraverso una nebbia che, dopo avergli procurato qualche difficoltà e problema, si risolse nella via principale, in cui rimase [[Alone|solo]]. Poi camminò verso [[Home|casa]] abbastanza facilmente, sebbene non fosse ancora libero dall'impressione della presenza e dell'influenza del suo nuovo amico - come se questi si stesse rilassando da qualche parte nell'aria, nella stessa atteggiamento negligente, guardandolo con lo stesso sguardo.
+
+Il cucciolo tornò a [[Home|casa]] e andò a letto. Se avesse avuto un po' di senso di ciò che aveva fatto quella [[Night|notte]], se fosse stato meno un cucciolo e più un fratello, forse si sarebbe voltato indietro sulla [[Road|strada]], forse sarebbe sceso fino al [[River|fiume]] dal cattivo odore che era diventato nero, forse ci avrebbe fatto il suo letto per sempre, e si sarebbe coperto la testa per l'eternità con le sue acque luride.
+
 
 
 <span class="atom-split" data-atom="chapter_57--part_01" data-title="Hard Times — Chapter 4 (part 1)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/death,motif/dust,motif/fire,motif/flag,motif/nature,motif/silence,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/freedom,concept/honour,concept/hope,concept/nature,concept/wonder"></span>
@@ -17636,6 +20460,47 @@ labour, are incredulous of the existence of such a man.  But he who sold
 his birthright for a mess of pottage existed, and Judas Iscariot existed,
 and Castlereagh existed, and this man exists!’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV
+UOMINI E FRATELLI
+
+«OH, amici miei, operai oppressi di Coketown! Oh, amici e concittadini, schiavi di un dispotismo spietato e senza pietà! Oh, amici che soffrite con me, compagni di lavoro e fratelli in umanità! Vi dico che è giunta l'ora di stringerci insieme come una potenza unita e ridurre in [[Dust|polvere]] gli oppressori che troppo a lungo si sono saziati del saccheggio delle nostre famiglie, del sudore della nostra fronte, del lavoro delle nostre mani, della forza dei nostri muscoli, dei gloriosi diritti dell'umanità creati da Dio e dei sacri ed eterni privilegi della fratellanza!»
+
+‘Bravo!’ ‘Sentito, sentito, sentito!’ ‘Evviva!’ e altri gridi si levarono in molte voci da varie parti della sala densamente affollata e soffocantemente chiusa, nella quale l'oratore, appollaiato su un palco, si esprimeva con queste parole e con qualsiasi altra schiuma e fumo avesse in sé. Si era declamato fino a mettersi in una violenta agitazione ed era rauco quanto caldo. Per forza di urlare a squarciagola sotto un lampione a gas, stringendo i pugni, aggrottando le sopracciglia, serrando i denti e pestando con le braccia, si era tolto così tanto da sé in questo [[Time|momento]] che fu costretto a fermarsi e chiese un bicchiere di [[Water|acqua]].
+
+Mentre stava lì, cercando di placare il suo viso infuocato con un sorso d'[[Water|acqua]], il confronto tra l'oratore e la folla di volti attenti rivolti verso di lui era estremamente sfavorevole. Giudicandolo in base alle prove della [[Nature|Natura]], non si distingueva dalla massa se non per il palco su cui stava. In molti aspetti importanti, era essenzialmente inferiore a loro. Non era così onesto, non era così virile, non era così di buon umore; sostituiva l'astuzia alla loro semplicità e la passione al loro sano senso pratico. Un uomo mal fatto, con le spalle alte, sopracciglia aggrottate e i lineamenti schiacciati in un'espressione abitualmente acida, contrastava in modo molto sfavorevole, anche nel suo vestito ibrido, con la grande [[Body|massa]] dei suoi ascoltatori nelle loro semplici vesti da lavoro. Strano come sempre sia osservare un'assemblea che si rassegna sottomissamente alla monotonia di qualche persona compiacente, nobile o plebeo, che tre quarti di essa non potrebbe, con nessun mezzo umano, tirar fuori dal pantano dell'inanità per portarlo al proprio livello intellettuale; ma era particolarmente strano, e persino particolarmente commovente, vedere questa folla di volti seri, la cui onestà in generale nessun osservatore competente e imparziale avrebbe potuto [[Doubt|dubitare]], così agitata da un tale leader.
+
+Bene!  Sentito, sentito!  Evviva!  L'ardore sia dell'attenzione che
+dell'intenzione, mostrato in tutti i volti, li rendeva uno spettacolo davvero impressionante.
+Non c'era incuria, né languore, né curiosità oziosa; nessuna delle
+molte sfumature di indifferenza visibili in tutte le altre assemblee,
+appariva lì neppure per un istante.  Ogni uomo sentiva che la sua condizione era,
+in qualche modo o nell'altro, peggiore di quanto avrebbe potuto essere; ogni uomo riteneva
+di dover fare come gli altri, per migliorarla; ogni uomo sentiva che la sua unica [[Hope|speranza]] fosse
+nell'allearsi con i compagni che lo circondavano; e in questa convinzione,
+giusta o sbagliata (purtroppo sbagliata allora), tutta quella folla era seriamente, profondamente,
+fedelmente impegnata; doveva essere chiaro a chiunque volesse vedere ciò che c'era,
+come le travi nude del tetto e i muri di mattoni imbiancati.  E nessun tale spettatore
+poteva non sapere nel proprio cuore, che quegli uomini, attraverso le loro stesse illusioni,
+mostravano grandi qualità, suscettibili di essere rivolte al più felice e migliore scopo;
+e che fingere (sulla base di assiomi generali, per quanto scontati)
+che si smarrissero del tutto senza motivo, e per propria irrazionale volontà,
+era come fingere che potesse esserci fumo senza [[Fire|fuoco]], [[Death|morte]] senza nascita, raccolto senza seme, qualcosa o tutto prodotto dal nulla.
+
+L'oratore essendosi rinfrescato, si asciugò la fronte corrugata da sinistra verso destra più volte con il fazzoletto ripiegato a guisa di imbottitura e concentrò tutte le sue forze rinforzate in una smorfia di grande disprezzo e amarezza.
+
+«Ma oh, miei amici e fratelli!  Oh, uomini e inglesi, gli operai oppressi di Coketown!  Che cosa diremo di quell'uomo — quel lavoratore, che io dovrei trovare necessario diffamare in questo modo il glorioso nome — che, essendo praticamente e [[Well|bene]] informato delle lamentele e dei torti di voi, la parte offesa e vitale di questa terra, e avendovi sentito, con una nobile e maestosa unanimità che farà tremare i tiranni, risolvere di sottoscrivere ai fondi del Tribunale Aggregato Unito, e di attenervi agli ordini emanati da quel [[Body|corpo]] per il vostro beneficio, qualunque essi possano essere — che cosa, vi chiedo, direte di quel lavoratore, poiché tale devo riconoscerlo, che, in un simile [[Time|momento]], abbandona la sua postazione e vende la sua [[Flag|bandiera]]; che, in un simile [[Time|momento]], diventa un traditore e un codardo e un infame, che, in un simile [[Time|momento]], non ha vergogna di fare a voi la vile e umiliante dichiarazione che si terrà in disparte e _non_ sarà uno di coloro associati nella coraggiosa lotta per la [[Freedom|Libertà]] e per il Diritto?»
+
+L'assemblea era divisa in questo punto. Ci furono alcuni gemiti e fischi, ma il senso generale di [[Honour|onore]] era troppo forte per condannare un uomo non ascoltato. "Assicurati di avere ragione, Slackbridge!" "Fallo salire!" "Sentiamolo!" Queste cose furono dette da molte parti. Infine, una voce forte gridò: "L'uomo è qui? Se l'uomo è qui, Slackbridge, sentiamo l'uomo stesso, invece di te." Il che fu accolto con un applauso.
+
+Lo Slackbridge, l'oratore, guardò intorno con un sorriso sprezzante e,
+tendendo il braccio destro in avanti (come è consuetudine di tutti gli
+Slackbridge) per calmare il mare che ruggiva, attese finché non ci fu un
+profondo [[Silence|silenzio]].
+
+«Oh, miei amici e compagni di lavoro!» disse Slackbridge allora, scuotendo la testa con violento disprezzo «Non mi [[Wonder|meraviglio]] che voi, prostrati figli del lavoro, siate increduli sull'esistenza di un uomo simile. Ma colui che vendette il suo diritto di primogenitura per una scodella di lenticchie esistette, e Giuda Iscariota esistette, e Castlereagh esistette, e quest'uomo esiste!»
 
 
 
@@ -17757,6 +20622,60 @@ his way with a lowly steadiness upon him that asserted nothing and sought
 nothing, Old Stephen, with all his troubles on his head, left the scene.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Qui, un breve affollamento e confusione vicino al palco si conclusero con l'uomo stesso in piedi accanto all'oratore davanti alla folla. Era pallido e leggermente commosso in volto: le labbra lo tradivano particolarmente; ma rimase tranquillo, con la mano sinistra sul mento, aspettando di essere ascoltato. C'era un presidente per regolare i lavori, e questo funzionario ora prese il caso nelle proprie mani.
+
+«Amici miei», disse lui, «in virtù del mio incarico di vostro presidente, ho chiesto al nostro amico Slackbridge, che potrebbe essere un po' troppo accalorato in questa faccenda, di prendere posto mentre quest'uomo [[Stephen Blackpool]] viene ascoltato. Tutti conoscete questo uomo [[Stephen Blackpool]]. Lo conoscete per tutta la sua sfortuna e il suo buon nome».
+
+Detto ciò, il presidente gli strinse cordialmente la mano e si sedette di nuovo. Anche Slackbridge si sedette, asciugandosi la fronte sudata — sempre da sinistra a destra, mai al contrario.
+
+«Amici miei», cominciò Stephen in mezzo a un silenzio di morte; «ho sentito ciò che è stato detto su di me e probabilmente non lo migliorerò. Ma preferirei che udiste la [[Truth|verità]] riguardo a me stesso dalle mie labbra piuttosto che da quelle di chiunque altro, anche se non sono mai riuscito a parlare davanti a così tanta gente senza essere turbato e confuso».
+
+Slackbridge scosse la testa come se volesse scrollarsela di dosso nella sua amarezza.
+
+«Sono l'unico operaio nella fabbrica di Bounderby che non è d'accordo con le nuove regole proposte. Non posso accettarle. Amici miei, [[Doubt|dubito]] che possano farvi del bene; più probabilmente vi causeranno danni».
+
+Slackbridge rise in un sorriso, si incrociò le braccia e aggrottò la fronte con sarcasmo.
+
+«Ma non è tanto per quello che mi ostino. Se fosse solo questo, mi unirei agli altri. Ma ho le mie ragioni — mie, capite — per essere impedito; non solo adesso, ma sempre — sempre — tutta la vita!»
+
+Slackbridge balzò su e si mise accanto a lui, digrignando i denti e strappandosi i capelli. «Oh,
+amici miei, non è forse questo che vi ho detto? Oh, compatrioti, non è forse questo l'avvertimento
+che vi ho dato? E come si manifesta questa condotta infedele in un uomo su cui sappiamo che le leggi diseguali sono ricadute con tutta la loro gravità? Oh, voi inglesi, ve lo chiedo: come si manifesta questa corruzione in uno di voi, che acconsente così alla propria rovina e a quella vostra, e dei vostri figli e dei figli dei vostri figli?»
+
+Ci fu qualche applauso e alcuni gridi di vergogna per quell'uomo, ma la maggior parte del pubblico rimase tranquilla. Guardarono il volto segnato di Stephen, reso ancora più patetico dalle emozioni semplici che manifestava; e, nella bontà della loro [[Nature|natura]], furono più dispiaciuti che indignati.
+
+«È mestiere di questo Delegato parlare», disse Stephen, «e gli viene pagato per farlo e sa il suo lavoro. Che continui così. Che non si curi di quello che ho dovuto sopportare io. Non è affar suo. Non è affar di nessuno se non mio».
+
+C'era una correttezza, per non dire una dignità in queste parole che rese gli ascoltatori ancora più silenziosi e attenti. La stessa voce forte gridò: «Slackbridge, lascia che l'uomo sia ascoltato e tieni a freno la lingua!» Poi il luogo divenne straordinariamente tranquillo.
+
+«Fratelli miei», disse Stephen, la cui voce bassa era chiaramente udibile, «e compagni di lavoro - perché tali siete per me, sebbene non lo siate, come so io solo, per questo delegato qui presente - ho solo una parola da dire e non potrei dirne altre anche se dovessi parlare fino all'alba. So bene tutto ciò che mi aspetta. So bene che voi tutti avete deciso di voler avere a che fare con un uomo che non è d'accordo con voi in questa faccenda. So bene che se fossi un mendicante abbandonato sulla [[Road|strada]], vi sembrerebbe giusto passarmi accanto, come uno straniero e un forestiero. Quello che ho ottenuto dovrò farne il meglio possibile».
+
+«[[Stephen Blackpool]]», disse il presidente alzandosi, «ci pensa su ancora. Ci ripensi una volta di più, ragazzo, prima che tu sia evitato da tutti i vecchi amici».
+
+Ci fu un mormorio universale nello stesso senso, sebbene nessuno articolasse una parola. Ogni occhio era fisso sul volto di Stephen. Pentirsi della sua determinazione sarebbe stato come togliere un peso da tutte le loro menti. Lui guardò intorno e sapeva che era così. Non c'era in lui nemmeno un briciolo di rabbia nei loro confronti; li conosceva, ben al di sotto delle loro debolezze superficiali e dei loro fraintendimenti, come nessun altro poteva fare se non il loro compagno di lavoro.
+
+«Ci ho pensato un po’, signore. Non posso semplicemente entrare. Devo andare per la strada che mi si para davanti. Devo prendere congedo da tutto qui».
+
+Fece loro una specie di riverenza alzando le braccia e rimase per un momento in quella posizione; non parlò finché lentamente non ricaddero lungo i fianchi.
+
+«Monny è la parola piacevole che qualcuno qui mi ha rivolto; monny sono i volti che vedo qui, e che vidi per la prima volta quando ero giovane e avevo il cuore più leggero di ora. Non ho mai avuto nessuna disputa con chicchessia della mia stessa condizione da quando nacqui; e adesso non ne ho alcuna che io abbia provocato. Mi chiamerete traditore e altro - voi, voglio dire», rivolgendosi a Slackbridge, «ma è più facile accusare che dimostrare. Quindi lasciamo perdere».
+
+Si era allontanato di un passo o due per scendere dal palco quando si ricordò di qualcosa che non aveva detto e tornò indietro.
+
+«Forse», disse, girando lentamente il suo volto solcato da rughe per poter,
+per così dire, rivolgersi individualmente a tutto l'uditorio, sia ai vicini che agli
+lontani; «forse, quando questa questione sarà stata presa in considerazione e discussa,
+ci sarà una minaccia di licenziamento se mi viene permesso di lavorare tra voi. [[Hope|Spero]] di
+morire prima che arrivi un tale [[Time|tempo]], e lavorerò da solo tra voi a meno che non arrivi—veramente, devo farlo, miei amici; non per sfidarvi, ma per
+vivere. Non ho altro che il lavoro per vivere; e dove potrei andare io, che ho
+lavorato fin da quando non ero alto neanche così, a Coketown qui?  Non faccio
+nessun reclamo per essere stato messo alla porta, per essere stato escluso e trascurato da questo [[Time|tempo]] in poi, ma [[Hope|spero]] di poter continuare a lavorare. Se c'è qualche
+diritto per me, miei amici, penso che sia quello».
+
+Nessuno proferì parola. Non si udiva alcun rumore nell'edificio, se non il lieve fruscio degli uomini che si spostavano leggermente verso i lati, lungo tutto il centro della stanza, per aprire un passaggio all'uomo con cui tutti si erano impegnati a rinunciare alla compagnia. Senza guardare nessuno e procedendo con una umile fermezza che non affermava nulla né cercava nulla, vecchio Stephen, con tutti i suoi guai sulla testa, lasciò la scena.
+
 
 
 <span class="atom-split" data-atom="chapter_57--part_03" data-title="Hard Times — Chapter 4 (part 3)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/death,motif/night,motif/time,motif/window,concept/conscience,concept/endurance,concept/solitude,setting/castle,character/brutus,character/stephen_blackpool"></span>
@@ -17836,6 +20755,37 @@ Stephen, whose way had been in the contrary direction, turned about, and
 betook himself as in duty bound, to the red brick [[Castle|castle]] of the giant
 Bounderby.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poi Slackbridge, che aveva mantenuto il suo braccio oratorio teso durante l'uscita, come se stesse reprimendo con infinita sollecitudine e per mezzo di un meraviglioso potere morale le veementi passioni della moltitudine, si dedicò ad alzare i loro spiriti. Non aveva forse il romano [[Brutus|Bruto]], o miei concittadini britannici, condannato suo figlio a [[Death|morte]]; e non avevano forse le madri spartane, o miei amici presto vittoriosi, spinto i loro figli in fuga sulla punta delle spade dei nemici? Allora non era forse il sacro dovere degli uomini di Coketown, con gli antenati davanti a loro, un mondo ammirato insieme a loro e una posterità che sarebbe venuta dopo di loro, scagliare fuori i traditori dalle tende che avevano piantato in una causa sacra e divina? I venti del cielo risposero Sì; e portarono il Sì verso est, ovest, nord e sud. E di conseguenza tre evviva per il Tribunale Unito Aggregato!
+
+Slackbridge fece da capo-canto e diede il [[Time|tempo]]. La moltitudine di volti dubbiosi (un po' tormentati dalla [[Conscience|coscienza]]) si illuminò al suono, e lo ripeté. I sentimenti personali dovevano cedere alla causa comune. Hurrah! Il tetto vibrava ancora degli evviva quando l'assemblea si sciolse.
+
+Così facilmente [[Stephen Blackpool]] cadde nella vita più solitaria,
+la vita di [[Solitude|solitudine]] in mezzo a una folla familiare.  Lo straniero nel paese che cerca tra diecimila volti uno sguardo rispondente e non lo trova, è in allegria se paragonato a colui che passa ogni giorno davanti a dieci volti distolti che un tempo erano i volti di amici.  Questa sarebbe stata l'esperienza di Stephen da ora in poi, in ogni momento di veglia della sua vita; al lavoro, andando e tornando dal lavoro, alla porta di casa, alla [[Window|finestra]], ovunque.  Di comune accordo, evitavano persino il lato della strada su cui lui camminava abitualmente; e lo lasciavano, tra tutti gli operai, solo a lui.
+
+Per molti anni era stato un uomo tranquillo e silenzioso, che aveva poco rapporto con gli altri uomini e si abituò alla compagnia dei propri pensieri. Non aveva mai saputo prima quanto fosse forte il desiderio nel suo cuore di essere riconosciuto spesso da un cenno, uno sguardo, una parola; o la grande quantità di sollievo che gli era stata versata a gocce attraverso tali piccoli mezzi. Era ancora più difficile di quanto avrebbe potuto credere possibile separare nella propria [[Conscience|coscienza]] l'abbandono da parte di tutti i suoi compagni da un senso infondato di vergogna e disonore.
+
+I primi quattro giorni della sua [[Endurance|resistenza]] furono così lunghi e pesanti che cominciò ad essere spaventato dalla prospettiva davanti a sé. Non solo non vedeva Rachael per tutto il [[Time|tempo]], ma evitava ogni occasione di vederla; perché, sebbene sapesse che la proibizione non si estendeva ancora formalmente alle donne che lavoravano nelle fabbriche, scoprì che alcune di loro con cui era in rapporti erano cambiate nei suoi confronti e temeva di provare con altre, e aveva paura che Rachael potesse essere addirittura presa di mira se fosse stata vista in sua compagnia. Così, durante i quattro giorni fu completamente [[Alone|solo]] e non parlò con nessuno, quando, mentre stava lasciando il lavoro a [[Night|notte]], un giovane di carnagione molto chiara gli si avvicinò in strada.
+
+«Il suo nome è Blackpool, vero?» disse il giovane.
+
+Stephen arrossì trovandosi con il cappello in mano, per la gratitudine di essere stato rivolto parola o per l'improvvisità dell'evento, o forse per entrambe le ragioni. Fece finta di sistemare il fodero e disse: «Sì».
+
+«Voi siete la Mano che hanno mandato a Coventry, intendo?», disse Bitzer,
+il giovane molto leggero in questione.
+
+Stephen rispose di nuovo «Sì».
+
+«Lo supponevo dal fatto che tutti sembrano tenersi lontani da voi. Il signor Bounderby vuole parlarvi. Conoscete la sua [[house|casa]], vero?»
+
+Stefano disse di nuovo «Sì».
+
+«Allora salga dritto lassù, vuole?» disse Bitzer. «La stanno aspettando e basta dire al domestico che è lei. Io lavoro in banca; quindi se sale dritto senza di me (sono stato mandato a prenderla), mi risparmierà una passeggiata.»
+
+Stephen, il cui cammino era stato nella direzione opposta, si voltò e,
+come gli era doveroso, si diresse verso la rossa costruzione di mattoni [[Castle|castello]] del gigante Bounderby.
 
 
 
@@ -17972,6 +20922,77 @@ most to trouble an’ misfort’n an’ mistake, I dunno.  But ’tis so.  I kno
 too, an’ wants in general to do right.  An’ I canna think the fawt is aw
 wi’ us.’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO V
+UOMINI E PADRONI
+
+«[[Well|BE’,]] Stephen», disse Bounderby nel suo modo pomposo, «che cosa sento dire? Cosa ti hanno fatto queste piaghe della terra? Entra e parla chiaro.»
+
+Fu così invitato nel salotto. Era apparecchiata una tavola per il tè; e c'erano la giovane moglie del signor Bounderby, suo fratello, e un grande gentiluomo da [[London|Londra]]. A cui Stephen rese omaggio, chiudendo la porta e rimanendo in piedi vicino ad essa, con il cappello in mano.
+
+«Questo è l'uomo di cui ti parlavo, Harthouse», disse il signor Bounderby.
+Il gentiluomo a cui si rivolgeva, che stava parlando con la signora Bounderby sul divano, si alzò dicendo in modo indolente: «Oh davvero?» e si avvicinò alla moquette del caminetto dove il signor Bounderby era fermo.
+
+'Ora', disse Bounderby, 'parla chiaro!'
+
+Dopo i quattro giorni che aveva trascorso, questo discorso cadde in modo rude e dissonante nell'orecchio di Stephen. Oltre ad essere un trattamento duro per la sua mente ferita, sembrava presupporre che lui fosse davvero il disertore [[Self|egoista]] che era stato chiamato.
+
+"Cosa voleva da me, signore?" disse Stephen.
+
+«Ma ve l'ho detto», rispose Bounderby. «Parlate come un uomo, visto che lo siete, e raccontateci di voi e di questa Associazione».
+
+«Con il vostro permesso, signore», disse [[Stephen Blackpool]], «non ho nulla da dire al riguardo.»
+
+Il signor Bounderby, che era sempre più o meno come un [[Wind|vento]], trovando qualcosa sul suo cammino qui, cominciò subito a soffiare contro di essa.
+
+«Ora, ascolti qui, Harthouse», disse lui, «ecco un esempio di loro. Quando quest'uomo è venuto qui una volta prima, ho messo in guardia quest'uomo contro gli stranieri pericolosi che sono sempre in giro — e che dovrebbero essere impiccati ovunque li si trovi — e ho detto a quest'uomo che stava andando nella direzione sbagliata. Ora, ci crede o no, che sebbene abbiano messo questo segno su di lui, è ancora tale loro schiavo da aver paura di aprire bocca riguardo a loro?»
+
+«Dissi che non avevo nulla da dire, signore; non perché avessi paura di aprire bocca.»
+
+«L'avete detto! Ah! _Io_ so cosa avete detto; e, oltre a questo, so anche che cosa intendevate dire, capite? Non è sempre la stessa cosa, per il Signore Harry! Cose ben diverse. È meglio che ce lo diciate subito, che quel tale Slackbridge non sia in città ad agitare le persone fino alla rivolta; e che non sia un vero leader qualificato del popolo: cioè, un dannatissimo farabutto. È meglio che ce lo diciate subito; non potete ingannarmi. Volete dircelo. Perché non lo fate?»
+
+«Sono altrettanto dispiaciuto quanto voi, signore, quando i capi della gente sono cattivi», disse Stephen scuotendo la testa. «Accettano qualsiasi offerta. Forse non è il più piccolo dei loro infortuni quando non riescono a trovare di meglio».
+
+Il [[Wind|vento]] cominciò a diventare burrascoso.
+
+«Ora, penserete che questo sia piuttosto [[Well|bene]], Harthouse», disse il signor Bounderby.
+«Penserete che questa sia una posizione abbastanza forte. Direte, sulla mia [[Soul|anima]], che questo è un esempio chiaro di ciò con cui i miei amici hanno a che fare; ma non è nulla,
+signore!  Sentirete chiedere a quest'uomo una domanda. La prego, signor
+Blackpool»—il [[Wind|vento]] si alzava molto velocemente—«posso permettermi di chiederle come mai ha rifiutato di far parte di questa Associazione?»
+
+'Come succede?'
+
+«Ah!», disse il signor Bounderby con i pollici infilati nelle maniche del cappotto e scuotendo la testa e chiudendo gli occhi in confidenza col muro di fronte, «come succede.»
+
+«Preferirei non parlarne, signore; ma poiché mi pone la domanda — e non voglio essere scortese — le rispondo. Ho fatto una promessa».
+
+«Non a me, sapete», disse Bounderby. (Tempo burrascoso con calme ingannatrici. Una prevale ora).
+
+'O no, signore. Non per voi.'
+
+«Per quanto mi riguarda, qualsiasi considerazione per me non ha avuto assolutamente nulla a che fare con tutto ciò», disse Bounderby, ancora confidenziale col muro. «Se si fosse trattato solo di [[Josiah Bounderby]] di Coketown, l'avreste sostenuto senza esitazioni?»
+
+'Perché sì, signore. È vero.'
+
+«Anche se sa», disse il signor Bounderby, che ora soffiava come un uragano, «che esiste una banda di furfanti e ribelli per i quali la deportazione sarebbe troppo buona! Ora, signor Harthouse, lei è in giro per il mondo da qualche [[Time|tempo]]. Ha mai incontrato qualcosa di simile a quell'uomo fuori da questo benedetto paese?» E il signor Bounderby lo indicò con un dito arrabbiato perché fosse ispezionato.
+
+«Né per sogno, signora», disse [[Stephen Blackpool]], protestando con fermezza contro le parole che erano state usate e rivolgendosi istintivamente a Louisa dopo aver dato un'occhiata al suo viso. «Non sono ribelli né tanto meno canaglie. Niente del genere, signora, niente del genere. Non mi hanno fatto alcuna gentilezza, lo so e lo sento. Ma non c'è una dozzina di uomini tra loro, signora - una dozzina? Neanche sei - che non creda di aver fatto il suo dovere verso gli altri e verso se stessi. Dio mi guardi dal tradire la [[Truth|verità]] nei loro confronti io, che li ho conosciuti e ho avuto esperienza di questi uomini per tutta la vita; io, che ho mangiato e bevuto con loro, seduto con loro, lavorato con loro e amato loro, dovunque mi abbiano portato!»
+
+Parlò con la rude sincerità del suo ruolo e della sua condizione — accentuata,
+forse, da una fiera consapevolezza di essere fedele alla propria classe nonostante
+il loro sospetto; ma ricordava bene dove si trovava e non alzò neppure la voce.
+
+«No, signora, no. Sono fedeli l'uno all'altra, leali l'uno all'altra,
+affezionati l'uno all'altra, finanche alla [[Death|morte]].  Se sei povero tra loro, se sei malato
+tra loro, se piangi tra loro per una delle tante ragioni che portano
+il dolore alla porta del povero, saranno teneri con te, gentili con
+te, confortanti con te, cristiani con te.  Ne puoi stare certa, signora. Sarebbero strappati a pezzi prima di essere diversi».
+
+«Insomma», disse il signor Bounderby, «è perché sono così pieni di virtù che vi hanno abbandonato. Andate fino in fondo. Dite tutto».
+
+«È proprio così, signora», riprese Stephen, sembrando ancora trovare il suo rifugio naturale nel volto di Louisa, «che ciò che c'è di meglio in noi poveri mortali, sembra trasformarsi nella nostra più grande fonte di guai e disgrazie e errori. Non lo so. Ma è così. Lo so come so che il cielo è sopra di me oltre al fumo. Siamo anche pazienti e vogliamo in generale fare ciò che è giusto. E non riesco a pensare che la colpa sia tutta nostra».
 
 
 
@@ -18127,6 +21148,84 @@ therefore, with a sigh, and saying, barely above his breath, ‘Heaven help
 us aw in this world!’ he departed.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Ora, mio caro amico», disse il signor Bounderby, che non avrebbe potuto esasperare di più, anche se ne era del tutto inconsapevole, mostrando di voler fare appello a qualcun altro, «se vorrà avere la cortesia di prestarmi attenzione per mezzo minuto, mi piacerebbe scambiare due parole con lei. Ha detto poco fa che non aveva nulla da dirci riguardo a questa faccenda. Ne è assolutamente sicuro prima di andare oltre».
+
+'Signore, ne sono sicuro.'
+
+«Ecco un gentiluomo di [[London|Londra]] presente», Mr. Bounderby fece un cenno con il pollice verso Mr. [[James Harthouse]], «un gentiluomo del Parlamento. Mi piacerebbe che ascoltasse un breve dialogo tra voi e me, invece di prendere il succo della cosa — perché lo so fin troppo [[Well|bene]] in anticipo, sapete, com'è; nessuno lo sa meglio di me, fateci caso! — invece di prenderlo per buono dalle mie labbra».
+
+Stephen chinò il capo davanti al signore proveniente da [[London|Londra]] e mostrò uno stato d'animo piuttosto turbato rispetto a quello abituale. Girò gli occhi involontariamente verso il suo rifugio di un tempo, ma dopo uno sguardo da quella parte (eloquente sebbene istantaneo) li fissò sul volto del signor Bounderby.
+
+«Ora, di che cosa vi lamentate?» chiese il signor Bounderby.
+
+«Non sono venuto qui, signore», gli ricordò Stephen, «per lamentarmi. Sono venuto perché mi hanno mandato a chiamare».
+
+«Che cosa», ripeté il signor Bounderby incrociando le braccia, «in generale vi lamentate di?»
+
+Stefano lo guardò con un po' di esitazione per qualche istante e poi sembrò prendere una decisione.
+
+«Signore, non sono mai stato bravo a mostrarlo, anche se ne ho avuto la mia parte di sentimenti. In effetti siamo in un pasticcio, signore. Guardatevi intorno per la città - così ricca com'è - e vedrete il numero di persone che sono state portate alla vita qui, per tessere, cardare e tirare avanti con l'esistenza, tutti allo stesso modo, in qualche modo, tra le loro culle e le loro tombe. Guardate come viviamo, dove viviamo, in quali numeri, per quali occasioni, e con quale monotonia; e guardate come i mulini sono sempre in funzione, e come non ci avvicinano mai a nessun obiettivo lontano - tranne che alla [[Death|morte]]. Guardate come pensate di noi, scrivete di noi, parlate di noi, e andate con le vostre delegazioni dai Segretari di Stato per parlare di noi, e come voi avete sempre ragione, e come noi abbiamo sempre torto, e non abbiamo mai avuto un motivo in noi da quando siamo nati. Guardate come questo è cresciuto e cresciuto, signore, più grande e più grande, più ampio e più ampio, più duro e più duro, anno dopo anno, generazione dopo generazione. Chi può guardare tutto ciò, signore, e dire onestamente a un uomo che non sia un pasticcio?»
+
+«Naturalmente», disse il signor Bounderby. «Ora forse vorrete far sapere al gentiluomo come intendete rimettere a posto questo pasticcio (come vi piace tanto chiamarlo).»
+
+«Non lo so, signore. Non posso essere io a farlo. Non sono io quello che dovrebbe fare questo, signore. Sono loro quelli che hanno messo sopra di me e sopra tutti noi. Cosa si assumono loro stessi, signore, se non di farlo?»
+
+«Comunque le dirò qualcosa in proposito», rispose il signor Bounderby.
+«Faremo un esempio con mezza dozzina di Slackbridge. Li incrimineremo per reato e li spediremo nelle colonie penali».
+
+Stefano scosse solennemente la testa.
+
+«Non dirmi che non lo faremo, uomo», disse il signor Bounderby, che in quel [[Time|momento]] stava soffiando come un uragano, «perché lo faremo, te lo dico io!»
+
+«Signore», rispose Stephen con la tranquilla sicurezza di una certezza assoluta,
+«se prendeste cento Slackbridge - tutti quelli che ci sono, e il numero dieci volte moltiplicato -
+e li metteste in sacchi separati, e li affondaste nel più profondo oceano mai creato prima
+che la terraferma venisse a esistere, lasciereste il guaio proprio dove si trova.
+Intriganti forestieri!», disse Stephen con un sorriso ansioso; «quando non abbiamo sentito,
+sono sicuro, fin da quando possiamo ricordare, parlare degli intriganti forestieri!
+Non sono _loro_ a creare i problemi, signore. Non è con _loro_ che tutto inizia.
+Non ho alcuna simpatia per loro - non ho motivo di favorirli - ma è disperato e inutile
+sognare di allontanarli dal loro mestiere, invece di togliere il loro mestiere a loro!
+Tutto ciò che ora mi circonda in questa stanza era qui prima che io arrivassi,
+e sarà qui quando me ne sarò andato. Mettete quell'[[Clock|orologio]] su una [[Ship|nave]] e spedisciatelo
+all'Isola di Norfolk, e il [[Time|tempo]] continuerà a scorrere allo stesso modo.
+Così è per Slackbridge in ogni dettaglio.»
+
+Tornando per un momento al suo rifugio precedente, notò un movimento di avvertimento dei suoi occhi verso la porta. Indietreggiando, mise la mano sulla serratura. Ma non aveva parlato per sua volontà e [[Desire|desiderio]]; e sentiva nel cuore che sarebbe stato un nobile ritorno per il suo recente trattamento offensivo essere fedele fino alla fine a coloro che lo avevano rinnegato. Rimase per finire ciò che aveva in mente.
+
+«Signore, io non posso, con la mia poca istruzione e il mio modo comune di parlare, dire al gentiluomo cosa possa risolvere tutto questo — anche se alcuni operai di questa città potrebbero farlo, oltre le mie capacità — ma gli posso dire che so cosa non lo risolverà mai. La mano forte non lo risolverà mai. Vittoria e trionfo non lo risolveranno mai. Mettersi d'accordo per rendere una parte innaturalmente sempre e per sempre giusta, e l'altra parte innaturalmente sempre e per sempre sbagliata, non lo risolverà mai, mai.  Né lasciarli [[Alone|soli]] lo risolverà mai. Lasciare soli migliaia e migliaia di persone, tutti che conducono vite simili e sono caduti nello stesso pasticcio, e saranno come uno, e voi sarete come un altro, con un mondo nero e invalicabile tra voi, per tutto il [[Time|tempo]] che una tale miseria può durare. Non avvicinarsi alle persone con gentilezza e pazienza e modi allegri, che li avvicinano così l'uno all'altro nei loro molti problemi, e si sostengono a vicenda nelle loro difficoltà con ciò di cui hanno bisogno — come, umilmente credo, nessun popolo che il gentiluomo abbia visto in tutti i suoi viaggi possa superare — non lo risolverà mai finché il Sole non diventerà ghiaccio. Soprattutto, trattarli come una semplice Forza, e regolarli come se fossero figure in un calcolo, o macchine: senza amori e simpatie, senza ricordi e inclinazioni, senza anime che si stancano e anime che [[Hope|sperano]] — quando tutto va tranquillo, trascinarseli dietro come se non avessero nulla del genere, e quando tutto va male, rimproverarli per la mancanza di tali sentimenti umani nelle loro interazioni con voi — questo non lo risolverà mai, signore, finché l'opera di Dio non sarà disfatta».
+
+Stephen rimase fermo con la porta aperta in mano, aspettando di sapere se ci si aspettava qualcos'altro da lui.
+
+«Fermati un attimo», disse il signor Bounderby, con la faccia paonazza.
+«L'ultima [[Time|volta]] che sei venuto qui a lamentarti ti ho detto di girare sui tacchi e andartene. E se ricordi bene, ti ho anche detto che ero al corrente della storia del cucchiaio d'oro».
+
+'Non sarei stato all'altezza da solo, signore; ve lo assicuro.'
+
+«Ora mi è chiaro», disse il signor Bounderby, «che sei uno di quei tipi che hanno sempre un motivo di lamento. E vai in giro a seminare e raccogliere raccolti. Questa è la professione _della_ tua vita, amico mio».
+
+Stefano scosse il capo, protestando in silenzio che aveva davvero altre cose da fare nella sua vita.
+
+«Voi siete un tipo così pungente e irritante, vedete», disse Mr. Bounderby,
+«che perfino la vostra stessa [[Union|Unione]], gli uomini che vi conoscono meglio di tutti,
+non vogliono avere nulla a che fare con voi. Non avrei mai pensato che quei tipi
+potessero avere ragione in qualcosa; ma vi dico una cosa! Io, per una volta,
+sono così d'accordo con loro che _io_ non voglio neanche io avere niente a che fare con voi».
+
+Stefano alzò rapidamente gli occhi verso il suo volto.
+
+«Puoi finire quello che stai facendo», disse il signor Bounderby con un cenno significativo, «e poi andartene altrove».
+
+«Signore, sapete bene», disse Stephen con enfasi, «che se non posso trovare lavoro da voi,
+non lo troverò altrove.»
+
+La risposta fu: «Quello che so lo so io e quello che sapete lo sapete voi.
+Non ho altro da dire al riguardo».
+
+Stefano lanciò un'altra occhiata a Luigia, ma i suoi occhi non si alzarono più verso di lui; quindi, con un sospiro e dicendo appena sopra il fiato: «Che Dio ci aiuti tutti in questo mondo!», se ne andò.
+
 
 
 <span class="atom-split" data-atom="chapter_59--part_01" data-title="Hard Times — Chapter 6 (part 1)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/night,motif/noon,motif/rose,motif/time,motif/well,motif/window,concept/endurance,concept/self,concept/truth"></span>
@@ -18247,6 +21346,73 @@ away again, months ago, and he had heard no more of her since.  The only
 evidence of her last return now, were the scantier moveables in his room,
 and the grayer hair upon his head.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI
+SPEGNERSI LENTAMENTE
+
+ERA calata la sera quando Stephen uscì dalla [[house|casa]] del signor Bounderby.
+Le ombre della [[Night|notte]] si erano addensate così rapidamente che non guardò intorno a sé
+quando chiuse la porta, ma proseguì dritto per strada.  Nulla era più lontano dai suoi pensieri di quella curiosa vecchia signora che aveva incontrato durante la sua precedente visita alla stessa [[house|casa]], quando udì un passo alle sue spalle che riconobbe, e voltandosi, vide lei in compagnia di Rachael.
+
+La vide per la prima volta, come aveva udito solo lei.
+
+'Ah, Rachael, mia cara! Signora, lei con lei!'
+
+«[[Well|Bene]], e ora siete sorpreso di certo, e con ragione devo dire», replicò la vecchia donna. «Eccomi qui di nuovo, vedete».
+
+«Ma come sta Rachel?» disse Stephen, mettendosi al passo con loro e camminando tra i due, guardandoli l'uno dopo l'altra.
+
+«Beh, vengo a stare con questa brava ragazza più o meno come sono venuta a stare con voi», disse la vecchia allegra, prendendosi la libertà di rispondere. «Il mio [[Time|tempo]] di visite quest'anno è un po' più tardo del solito, perché ho avuto qualche problema di respiro corto e così l'ho rimandato fino a quando il tempo non fosse bello e caldo. Per la stessa ragione non faccio tutto il mio [[Journey|viaggio]] in un giorno solo, ma lo divido in due giorni e mi prendo una camera per [[Night|stasera]] al Travellers’ Coffee [[house|House]] giù vicino alla ferrovia (una bella [[house|casa]] pulita), e torno con il Parlamentare alle sei del mattino. [[Well|Bene]], ma che c'entra tutto questo con questa brava ragazza, direte voi? Ve lo sto per spiegare. Ho saputo che Mr. Bounderby si è sposato. L'ho letto sul giornale, dove sembrava una cosa grandiosa—oh, sembrava davvero bella!» la vecchia insisteva su questo con uno strano entusiasmo: «e voglio vedere sua moglie. Non l'ho mai vista ancora. Ora, se mi credete, non è uscita da quella [[house|casa]] da quando è [[Noon|mezzogiorno]] di oggi. Così, per non rinunciare troppo facilmente a vederla, stavo aspettando un po' più a lungo quando mi sono trovata vicino a questa brava ragazza due o tre volte; e dato che il suo viso era così amichevole le ho parlato, e lei ha parlato con me. Ecco!» disse la vecchia a Stephen «adesso potete capire tutto il resto da solo, molto più in fretta di quanto io possa fare, ne sono sicura!»
+
+Stephen dovette ancora una volta vincere la sua propensione istintiva a non simpatizzare con quella vecchia signora, benché il suo comportamento fosse onesto e semplice quanto mai poteva esserlo. Con una gentilezza che gli era altrettanto naturale di quanta lo fosse per Rachael, continuò ad approfondire l'argomento che la interessava nella sua vecchiaia.
+
+«[[Well|Beh]], signora», disse lui, «ho visto la signora e era giovane e bella.
+Con bei grandi occhi scuri che pensavano, e un modo di fare calmo,
+Rachael, come non ho mai visto prima».
+
+«Giovane e bella. Sì!» esclamò la vecchia donna, tutta contenta. «Bella come una [[Rose|rosa]]! E che moglie felice!»
+
+«Sì, signora, immagino che lo sia», disse Stephen. Ma con uno sguardo dubbioso verso Rachael.
+
+«E se lo fosse? Deve esserlo. È la moglie del tuo padrone», rispose la vecchia.
+
+Stephen annuì in segno di assenso. «Per quanto riguarda il padrone», disse lanciando un'altra occhiata a Rachael, «non è più mio padrone. È finita tra noi due».
+
+«Hai lasciato il suo lavoro, Stephen?» chiese Rachael, ansiosamente e in fretta.
+
+«Perché, Rachael», rispose lui, «che sia io ad aver lasciato il suo lavoro o che sia stato il suo lavoro a lasciare me, è la stessa cosa. Il suo lavoro e io siamo separati. È meglio così — sarebbe stato meglio, pensavo quando mi hai raggiunto. Avrebbe portato guai su guai se fossi rimasto lì. Forse è una gentilezza per molti che me ne vada; forse è una gentilezza anche per me stesso; comunque sia, deve essere fatto. Devo voltare le spalle a Coketown per il [[Time|momento]], e cercarmi la fortuna, cara, ricominciando da capo».
+
+'Dove andrai, Stephen?'
+
+«Non conosco la [[Night|notte]]», disse lui, togliendosi il cappello e lisciandosi i capelli radi col palmo della mano. «Ma non andrò via questa [[Night|notte]], Rachael, né domani. Non è facile sapere dove andare, ma un buon cuore mi verrà in aiuto».
+
+Anche il senso di pensare disinteressatamente lo aiutò. Prima ancora di aver chiuso la porta del signor Bounderby, aveva riflettuto che almeno il fatto di essere costretto ad andarsene era un bene per lei, in quanto l'avrebbe salvata dalla possibilità di essere messa in discussione per non essersi allontanata da lui. Anche se gli sarebbe costato una grande sofferenza lasciarla e anche se non riusciva a pensare ad alcun luogo simile dove la sua condanna non lo avrebbe perseguitato, forse era quasi un sollievo essere costretto ad allontanarsi dalla [[Endurance|sopportazione]] degli ultimi quattro giorni, anche verso difficoltà e tribolazioni sconosciute.
+
+Così disse, con [[Truth|verità]], “Sono più allegro sotto questo aspetto di quanto avrei mai potuto credere, Rachael.” Non era suo compito rendere il suo fardello più pesante. Lei rispose col suo sorriso confortante e i tre proseguirono insieme.
+
+L'età, soprattutto quando cerca di essere [[Self|autonoma]] e allegra,
+trova molta considerazione tra i poveri. La vecchia signora era così
+decente e contenta, e faceva così poco caso delle sue infermità, sebbene
+fossero aumentate da quando aveva incontrato Stephen la prima volta,
+che entrambi si interessarono a lei. Era troppo vivace per permettere che
+camminassero lentamente per il suo bene, ma era molto grata di essere
+ascoltata e molto disposta a parlare a lungo: così, quando arrivarono nella loro parte della città,
+era più vivace e allegra che mai.
+
+«Venite nella mia povera casa, signora», disse Stephen, «e prendete una tazza di tè.
+Rachael verrà; e poi ti accompagnerò io fino al tuo
+alloggio per viaggiatori.  »Potrebbe passare molto tempo, Rachael, prima che abbia ancora l'occasione di
+avere la tua compagnia».
+
+Obbedirono e i tre si diressero verso la [[house|casa]] dove lui alloggiava.
+Quando svoltarono in una strada stretta, Stephen lanciò un'occhiata alla sua [[Window|finestra]]
+con il timore che lo perseguitava sempre nella sua desolata [[Home|casa]]; ma era aperta,
+come l'aveva lasciata, e non c'era nessuno. Lo spirito maligno della sua vita
+si era allontanato di nuovo mesi prima, e da allora non aveva più avuto sue notizie.
+L'unica prova del suo ultimo ritorno ora erano i mobili più scarsi nella sua stanza,
+e i capelli più grigi sulla sua testa.
 
 
 
@@ -18377,6 +21543,76 @@ would be his first resource, I think.’
 ‘Did I understand, that, being rejected by one employer, he would
 probably be rejected by all?  I thought he said as much?’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Accese una candela, preparò il suo piccolo vassoio per il tè, prese dell'[[Water|acqua]] calda dal piano di sotto e portò dentro delle piccole porzioni di tè e zucchero, un pane e del burro dal negozio più vicino. Il pane era fresco e croccante, il burro freschissimo, lo zucchero a zollette, ovviamente — in conformità alla testimonianza standard dei magnati di Coketown, che queste persone vivevano come principi, signore. Rachael preparò il tè (una festa così numerosa richiedeva il prestito di una tazza), e l'ospite lo apprezzò moltissimo. Fu il primo assaggio di socialità che l'anfitrione avesse avuto da giorni. Anche lui, con il mondo un vasto pascolo davanti a sé, gustò il pasto — ancora una volta in conferma dei magnati, come esempio della totale mancanza di calcolo da parte di queste persone, signore.
+
+"Non ho mai pensato," disse Stephen, "a chiederti il tuo nome."
+
+La vecchia signora si presentò come 'Signora Pegler'.
+
+«Una vedova, credo?» disse Stephen.
+
+«Oh, molti lunghi anni!» Il marito della signora Pegler (uno dei migliori mai esistiti) era già morto, secondo i calcoli della signora Pegler, quando nacque Stephen.
+
+"Sarebbe un brutto affare perdere uno così buono", disse Stephen. "Avete dei bambini?"
+
+La tazza della signora Pegler, che tintinnava contro il piattino mentre lo teneva in mano, indicava un certo nervosismo da parte sua. «No», disse. «Non ora, non ora».
+
+«Morto, Stephen», suggerì dolcemente Rachael.
+
+«Mi dispiace di aver parlato», disse Stephen, «avrei dovuto ricordare che potevo toccare un punto delicato. Io, io mi biasimo».
+
+Mentre si scusava, la tazza della vecchia signora tintinnava sempre di più. «Avevo un figlio», disse con una strana angoscia che non era dovuta alle consuete manifestazioni del dolore; «e lui se la cavava [[Well|bene]], meravigliosamente [[Well|bene]]. Ma preferirei non parlarne. Lui è—» Mettendo giù la tazza, fece un gesto con le mani come per dire: «morto!». Poi disse ad alta voce: «L'ho perso».
+
+Stephen non era ancora riuscito a superare il fatto di aver procurato [[Pain|dolore]] alla vecchietta,
+quando la sua padrona di casa salì barcollando su per le strette scale e, chiamandolo alla porta,
+gli sussurrò all'orecchio. La signora Pegler non era affatto sorda, infatti colse una parola mentre veniva pronunciata.
+
+«Bounderby!» esclamò con voce soffocata, alzandosi in piedi dal tavolo.
+«Oh nascondetemi!  Non lasciate che mi veda il mondo intero.  Non lasciate che salga finché non sarò andata via.  Per favore, per favore!»
+Tremava e era estremamente agitata; si mise dietro a Rachael quando Rachael cercò di rassicurarla; e sembrava non sapere cosa stesse facendo.
+
+«Ma ascolti, signora, ascolti», disse Stephen, stupito. «Non è il signor Bounderby; è sua moglie. Non ha paura di lei. Un'oretta fa era pazza di gioia per lei».
+
+«Ma è sicura che sia la signora e non il gentiluomo?» chiese lei, ancora tremante.
+
+'Certamente!'
+
+«Allora, per favore, non mi parlate e nemmeno fate caso a me», disse la vecchia signora. «Lasciatemi completamente da sola in questo angolo».
+
+Stephen annuì; guardò Rachel per una spiegazione che lei non era affatto in grado di dargli; prese la candela, scese le scale e dopo pochi istanti tornò illuminando Louisa mentre entrava nella stanza.  La seguiva il cucciolo.
+
+Rachael si era alzata e stava in disparte con lo scialle e il cappello in mano,
+quando Stephen, profondamente stupito da quella visita, posò la candela sul tavolo.
+Poi anche lui rimase in piedi, con le mani incrociate sul tavolo vicino alla candela,
+aspettando di essere interpellato.
+
+Per la prima [[Time|volta]] nella sua vita Louisa era entrata in una delle abitazioni degli operai di Coketown; per la prima [[Time|volta]] nella sua vita si trovava faccia a faccia con qualcosa che assomigliasse all'individualità in relazione a loro. Ne conosceva l'esistenza a centinaia e a migliaia. Sapeva quali risultati nel lavoro un certo numero di essi avrebbe prodotto in uno spazio determinato di [[Time|tempo]]. Li conosceva nelle folle che passavano avanti e indietro dai loro nidi, come formiche o coleotteri. Ma sapeva dalle sue letture infinitamente più dei modi degli [[Insects|insetti]] che lavorano che di questi uomini e donne che lavorano.
+
+Qualcosa da lavorare tanto e pagare tanto, e finisce lì;
+qualcosa che veniva infallibilmente regolato dalle leggi dell'offerta e della domanda;
+qualcosa che sbatteva contro quelle leggi e si impantanava nelle difficoltà; qualcosa che era un po' in difficoltà quando il grano costava caro, e si abbuffava quando il grano era a buon mercato; qualcosa che aumentava con una certa percentuale, e generava un'altra percentuale di criminalità, e un'altra percentuale di pauperismo; qualcosa all'ingrosso, da cui si facevano enormi fortune; qualcosa che occasionalmente [[Rose|saliva]] come il mare, e faceva qualche danno e distruzione (principalmente a se stesso), per poi ricadere; questo sapeva essere le Mani di Coketown. Ma non aveva quasi mai pensato di dividerli in unità più piccole, più che a dividere il mare stesso nelle sue singole gocce.
+
+Rimase per alcuni istanti a guardarsi intorno nella stanza. Dalle poche sedie, i pochi libri, le stampe comuni e il letto, passò lo sguardo alle due donne e a Stephen.
+
+«Sono venuto a parlarvi per quanto è successo poco fa. Vorrei esservi utile, se mi permettete. È vostra moglie?»
+
+Rachael alzò gli occhi e li abbassò di nuovo, rispondendo sufficientemente di no.
+
+«Mi ricordo», disse Louisa arrossendo per il suo errore; «ora mi torna alla mente di aver sentito parlare delle vostre disgrazie familiari, sebbene all'[[Time|epoca]] non avessi prestato attenzione ai particolari. Non era mia intenzione porre una domanda che potesse dare [[Pain|dolore]] a qualcuno qui presente. Se dovessi fare altre domande che per caso avranno questo risultato, fatemi il favore di credere che non so come parlare con voi come dovrei».
+
+Come poco prima Stefano si era istintivamente rivolto a lei,
+così ora lei si rivolgeva istintivamente a Rachael.
+Il suo modo di fare era brusco e conciso, ma anche esitante e timido.
+
+«Le ha detto quello che è successo tra lui e mio marito? Lei sarebbe la sua prima risorsa, credo.»
+
+«Ho sentito la fine della storia, signorina», disse Rachael.
+
+«Ho capito che, essendo stato rifiutato da un datore di lavoro,
+sarebbe probabilmente stato respinto da tutti? Mi sembra di averlo sentito dire».
 
 
 
@@ -18516,6 +21752,87 @@ and don’t forget.  I shall tell my sister as we go [[Home|home]], what I have 
 view, and she’ll approve, I know.  Now look here!  You’re all right, are
 you?  You understand all about it?  Very [[Well|well]] then.  Come along, Loo!’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Le probabilità sono molto scarse, giovane signora — quasi nulle — per un uomo che si guadagna una cattiva reputazione tra di loro.»
+
+'Che cosa intende per cattivo nome?'
+
+'Il nome di essere fastidiosi.'
+
+«Allora, per i pregiudizi della sua stessa classe e per quelli dell'altra,
+è sacrificato allo stesso modo? Le due classi sono così profondamente separate in questa città che non c'è posto alcuno per un onesto lavoratore tra di loro?»
+
+Rachael scosse la testa nel [[Silence|silenzio]].
+
+«Cadde in sospetto», disse Louisa, «tra i suoi compagni tessitori,
+perché—aveva promesso di non essere uno di loro. Penso che quella promessa l'abbia fatta a voi. Posso chiedervi perché l'ha fatta?»
+
+Rachael scoppiò in un pianto dirotto. «Non gliel'ho chiesto io, povero ragazzo. Gli ho pregato di evitare guai per il suo bene, senza minimamente pensare che sarebbe capitato a causa mia. Ma so che morirebbe cento volte piuttosto che mancare alla sua parola. Lo conosco [[Well|bene]].»
+
+Stephen era rimasto tranquillamente attento nella sua solita posizione pensierosa,
+con la mano sul mento. Ora parlò con una voce un po' meno ferma del solito.
+
+«Nessuno, tranne me stesso, potrà mai sapere quale [[Honour|onore]], e quale [[Love|amore]], e rispetto io porti a Rachael, o per quali ragioni. Quando feci quella promessa, le dissi la verità: era l'Angelo della mia vita. Fu una promessa solenne. È andata via da me, per sempre».
+
+Louisa si voltò verso di lui e gli rivolse un cenno rispettoso che non le era mai stato visto prima. Lo guardò, poi guardò Rachael, e il suo volto si addolcì. «Cosa farai?» gli chiese. E anche la sua voce si era ammorbidita.
+
+«Beh, signora», disse Stephen, facendo del suo meglio con un sorriso, «quando avrò finito, dovrò lasciare questa zona e provarne un'altra. Che sia fortuna o sfortuna, un uomo può solo provare; non si riesce a fare nulla senza provare, tranne sdraiarsi e morire».
+
+'Come viaggerai?'
+
+'A piedi, mia gentile signora, a piedi.'
+
+Louisa arrossì e una borsetta apparve nella sua mano. Il fruscio di una banconota fu udibile mentre ne dispiegava una e la posava sul tavolo.
+
+«Rachel, vuoi dirgli tu — perché sai come fare senza offenderlo — che questo è liberamente suo per aiutarlo a proseguire il cammino? Vuoi pregarlo di accettarlo?»
+
+«Non posso farlo, signorina», rispose lei, voltando la testa dall'altra parte.
+«Dio vi benedica per aver pensato al povero ragazzo con tanta tenerezza. Ma è lui che deve conoscere il proprio cuore e ciò che secondo esso è giusto».
+
+Louisa guardò, in parte incredula, in parte spaventata, in parte sopraffatta da una rapida simpatia, quando quell'uomo di così grande [[Self|auto]]controllo, che era stato tanto chiaro e fermo durante il recente colloquio, perse la calma in un attimo e ora stava lì con la mano davanti al viso.  Lei tese la sua, come se volesse toccarlo; poi si trattenne e rimase ferma.
+
+«Neanche Rachael», disse Stephen quando si ritrovò di nuovo con il viso scoperto, «avrebbe potuto fare un'offerta così gentile, con parole più dolci. Per dimostrare che non sono un uomo senza ragione e gratitudine, accetto due sterline. Le prenderò in prestito per restituirle. Sarà il lavoro più dolce che abbia mai fatto, quello che mi dà la possibilità di esprimere ancora una volta la mia eterna gratitudine per questo gesto».
+
+Fu costretta a riprendere il biglietto e a sostituire la somma molto più piccola che lui aveva nominato. Non era né cortese, né bello, né pittoresco sotto alcun aspetto; eppure il suo modo di accettare e di esprimere i suoi ringraziamenti senza troppe parole aveva una grazia che Lord Chesterfield non avrebbe potuto insegnare a suo figlio nemmeno in un secolo.
+
+Tom era rimasto seduto sul letto, dondolando una gamba e succhiando il bastone da passeggio con sufficiente noncuranza fino a quando la visita aveva raggiunto questa fase. Vedendo che sua sorella era pronta per partire, si alzò piuttosto in fretta e intervenne.
+
+«Aspetta un momento, Loo! Prima di andarcene vorrei parlargli per un attimo. Mi è venuto in mente qualcosa. Se vuoi scendere sulle scale, Blackpool, te lo dirò. Non preoccuparti della luce, uomo!» Tom era straordinariamente impaziente nel vederlo avvicinarsi all'armadio per prenderne una. «Non serve la luce».
+
+Stefano lo seguì fuori e Tom chiuse la porta della stanza e tenne la serratura in mano.
+
+«Dico!» sussurrò «Credo di poterle fare un buon servizio. Non mi chieda di che si tratta perché forse non succederà nulla. Ma non c'è danno nel tentare».
+
+Il suo respiro cadde come una fiamma di [[Fire|fuoco]] nell'orecchio di Stephen, tanto era caldo.
+
+«Quello era il nostro facchino leggero della Banca», disse Tom, «che ti ha portato il messaggio [[Night|ieri]] sera. Lo chiamo il nostro facchino leggero perché anch'io appartengo alla Banca».
+
+Stephen pensò: «Che fretta ha!» Parlava così confusamente.
+
+«[[Well|Bene]]!» disse Tom. «Ora ascolta: quando parti?»
+
+«Oggi è lunedì», rispose Stephen, riflettendo. «Perbacco, signore, venerdì o sabato, più o meno».
+
+«Venerdì o sabato», disse Tom. «Ora ascolti! Non sono sicuro di poterle fare il favore che vorrei farle — è mia sorella, sa, nella sua stanza — ma forse posso riuscirci e se non dovessi riuscirci, non c'è danno fatto. Quindi le dico questo: riconoscerà di nuovo il nostro facchino?»
+
+«Sì, certo», disse Stephen.
+
+«Benissimo», rispose Tom. «Quando esci dal lavoro la [[Night|sera]], tra ora e il tuo allontanamento,
+fai un giro intorno alla Banca per un'oretta, va [[Well|bene]]? Non fare come se volessi qualcosa,
+se dovesse vederti aggirarti lì; perché non lo spingerò a parlarti, a meno che non scopra di
+poterti rendere il servizio che voglio farti. In tal caso avrà un biglietto o un messaggio per te,
+ma altrimenti no. Ora ascolta! Sei sicuro di aver capito».
+
+Nel buio aveva infilato un dito nell’occhiello di un bottone del cappotto di Stephen e stava torcendo quel lembo di tessuto avvolgendolo stretto su se stesso in modo straordinario.
+
+«Capisco, signore», disse Stephen.
+
+«Ora ascolta [[Well|bene]]!» ripeté Tom. «Stai sicuro di non sbagliare,
+e non dimenticare. Dirò a mia sorella mentre andiamo [[Home|a casa]], cosa ho in
+mente, e so che approverà. Ora ascolta bene! Sei pronto, vero?
+Hai capito tutto? Benissimo allora. Andiamo, Loo!»
 
 
 
@@ -18657,6 +21974,72 @@ Stephen took his attentive face along the high [[Road|road]].  And the trees
 arched over him, whispering that he left a true and loving heart behind.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Aprì la porta mentre le parlava, ma non rientrò nella stanza né attese che lo accompagnasse giù per le strette scale. Era già al [[Bottom|piano terra]] quando lei cominciò a scendere e si trovava in strada prima che potesse prenderlo sottobraccio.
+
+La signora Pegler rimase nel suo angolo finché il fratello e la sorella non se ne furono andati, e finché Stephen non tornò con la candela in mano. Era in uno stato di ammirazione ineffabile per la signora Bounderby, e, come una vecchia inspiegabile, piangeva “perché era così carina”. Eppure la signora Pegler era così agitata all'idea che l'oggetto della sua ammirazione potesse tornare per caso, o che qualcun altro potesse arrivare, che il suo buonumore finì per quella [[Night|sera]]. Era anche tardi, per persone che si [[Rose|alzavano]] presto e lavoravano sodo; quindi la compagnia si sciolse; e Stephen e Rachael accompagnarono la loro misteriosa conoscente fino alla porta del Travellers’ Coffee [[house|House]], dove si separarono da lei.
+
+Rientrarono insieme all'angolo della strada dove abitava Rachael e,
+mentre si avvicinavano sempre più a quel punto, il [[Silence|silenzio]] li avvolse.
+Quando arrivarono nell'angolo buio in cui finivano sempre i loro rari
+incontri, si fermarono senza parlare, come se entrambi temessero di aprire bocca.
+
+'Cercherò di rivederti prima di partire, Rachael, ma se non fosse possibile, '
+
+«Tu non lo farai, Stephen, lo so. È meglio che ci decidiamo a essere sinceri l'uno con l'altro».
+
+«Hai sempre ragione. È più coraggioso e migliore. Ho pensato allora,
+Rachael, che poiché non rimane che un giorno o due, sarebbe meglio per te,
+mia cara, di non farti vedere con me. Potrebbe portarti in difficoltà,
+senza alcun motivo».
+
+«Non è per questo che mi preoccupo, Stephen. Ma tu conosci il nostro vecchio accordo. È per quello».
+
+«[[Well|Bene]], [[Well|bene]]», disse lui «è comunque meglio».
+
+"Mi scriverai e mi dirai tutto ciò che accade, Stephen?"
+
+«Sì. Cosa posso dire adesso se non che il cielo sia con te, ti benedica, ti ringrazi e ti ricompensi!»
+
+«Ti benedica anche te, Stephen, in tutti i tuoi vagabondaggi e ti conceda pace e riposo alla fine!»
+
+«Te l'ho detto, mia cara», disse [[Stephen Blackpool]]—«quella [[Night|notte]]—che non avrei mai visto o pensato a niente che mi facesse arrabbiare, ma tu, tanto migliore di me, saresti stata al mio fianco.  Ora sei qui con me.  Mi fai vedere le cose con occhi migliori.  Dio ti benedica.  Buona [[Night|notte]].  Addio!»
+
+Fu solo un affrettato addio in una strada comune, eppure fu un ricordo sacro per queste due persone ordinarie. Economisti utilitaristici, scheletri di maestri di scuola, Commissari dei Fatti, infedeli gentili e logori, ciarlatani di molte piccole credenze consunte ai bordi, i poveri li avrete sempre con voi. Coltivate in loro, finché c'è ancora [[Time|tempo]], le massime grazie delle fantasie e degli affetti, per abbellire la loro vita così bisognosa di ornamento; oppure, nel giorno del vostro trionfo, quando il [[Romance|romanzo]] sarà stato completamente scacciato dalle loro anime, e loro e una mera esistenza si troveranno faccia a faccia, la Realtà prenderà un aspetto lupesco e metterà fine a voi.
+
+Stephen lavorò il giorno dopo e quello successivo senza essere incoraggiato da una parola di chiunque, ed evitato in tutti i suoi andirivieni come prima. Alla fine del secondo giorno vide terra; alla fine del terzo la sua tela era vuota.
+
+Era rimasto oltre il suo tempo nella strada fuori dalla Banca, durante le due prime sere; e lì non era successo nulla di buono o di cattivo. Per evitare di essere negligente nel suo ruolo nell'appuntamento, decise di aspettare per ben due ore, in questa terza e ultima [[Night|notte]].
+
+C'era la signora che un tempo aveva tenuto in ordine la [[house|casa]] del signor Bounderby,
+seduta alla [[Window|finestra]] al primo piano come lui l'aveva vista prima; e c'era il facchino, a volte
+che parlava con lei lì, e a volte che guardava oltre la tapparella sottostante su cui era scritto BANCA,
+e a volte che veniva alla porta e si fermava sui gradini per una boccata d'aria. Quando uscì per la prima volta,
+Stephen pensò che forse lo stesse cercando, e passò vicino; ma il facchino gli lanciò solo un'occhiata fugace con i suoi occhi strizzati
+e non disse nulla.
+
+Due ore erano un lungo periodo di ozio dopo una giornata di lavoro.
+Stephen sedeva sul gradino di una porta, appoggiato contro il muro sotto
+un portico, passeggiava su e giù, ascoltava la [[Clock|campana]] della chiesa,
+si fermava a guardare i bambini che giocavano in strada.  Avere uno scopo o un altro è così naturale per tutti, che chi si limita semplicemente ad aggirarsi sempre appare e si sente come una persona fuori dal comune.  Quando la prima ora era passata, Stephen aveva addirittura iniziato a provare una sensazione di disagio nell'essere considerato un personaggio disonorevole per il [[Time|tempo]] che stava trascorrendo lì.
+
+Poi arrivò l'accenditore di lanterne e due file di luci che si allungavano lungo tutta la strada fino a confondersi e perdersi in lontananza. La signora Sparsit chiuse la [[Window|finestra]] del primo piano, abbassò la tenda oscurante e salì le scale. Poco dopo, una luce salì dietro di lei, passando prima sopra il pannello decorato della porta e poi davanti alle due finestre delle scale, lungo il suo percorso verso l'alto. Dopo un po', un angolo della tenda oscurante del secondo piano si mosse leggermente, come se ci fosse lì l'occhio della signora Sparsit; anche l'altro angolo si mosse, come se dall'altra parte ci fosse l'occhio del facchino. Eppure non fu fatto alcun cenno a Stephen. Molto sollevato quando finalmente le due ore furono trascorse, se ne andò di corsa, per compensare tanta attesa.
+
+Doveva solo salutare la padrona di casa e sdraiarsi sul suo letto temporaneo per terra; perché il suo fagotto era pronto per domani, e tutto era organizzato per la sua partenza.  Intendeva lasciare la città molto presto; prima che le Mani fossero nelle strade.
+
+Appena spuntava l'alba quando, dopo un ultimo sguardo alla sua stanza e una triste riflessione su se mai l'avrebbe rivista, uscì. La città era completamente deserta come se gli abitanti l'avessero abbandonata per non dover avere a che fare con lui. Tutto aveva un aspetto pallido in quell'ora. Anche il sole nascente faceva solo una macchia chiara nel cielo, simile ad un mare triste.
+
+Passando per il luogo dove viveva Rachael, anche se non era sulla sua strada; passando tra le strade di mattoni rossi; accanto ai grandi silenziosi stabilimenti che ancora non tremavano; lungo la ferrovia, dove i segnali luminosi di pericolo si attenuavano con l'avanzare del giorno; attraverso il quartiere squilibrato della ferrovia, in parte demolito e in parte costruito; passando davanti a ville sparse di mattoni rossi, dove gli alberi sempreverdi ricoperti di fuliggine erano cosparso di una polvere sporca come se fossero degli snuffisti disordinati; tra i sentieri di [[Dust|polvere]] di carbone e molte varietà di bruttezza, Stephen raggiunse la cima della [[Hill|collina]] e si guardò indietro.
+
+La luce del giorno splendeva radiosa sulla città e [[The Bells|le campane]] suonavano per il lavoro mattutino.
+I focolari domestici non erano ancora accesi e i comignoli alti avevano il cielo tutto per sé. Espellendo
+i loro volumi avvelenati, non sarebbero passati molti minuti prima che lo nascondessero; ma, per mezz'ora,
+alcune delle molte finestre erano dorate e mostravano agli abitanti di Coketown un sole eternamente
+eclissato attraverso uno strato di vetro affumicato.
+
+Così strano passare dai camini agli [[Birds|uccelli]]. Così strano avere la polvere della [[Road|strada]]-[[Dust|polvere]] sui piedi invece del granaio di carbone. Così strano essere arrivato alla sua età eppure sentirsi come un ragazzo in questa mattina d'[[Summer|estate]]! Con questi pensieri nella mente, e il suo fagotto sotto al braccio, Stephen si incamminò lungo la [[Road|strada]] principale con aria attenta. E gli alberi si arcuavano sopra di lui, sussurrando che lasciava dietro di sé un cuore vero e amorevole.
+
 
 
 <span class="atom-split" data-atom="chapter_60--part_01" data-title="Hard Times — Chapter 7 (part 1)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/garden,motif/leaves,motif/memory,motif/nature,motif/night,motif/soul,motif/spring,motif/summer,motif/time,concept/aspiration,concept/faith,concept/humility,concept/nature,concept/self,concept/self_reliance,concept/truth,character/james_harthouse,character/josiah_bounderby,character/thomas_gradgrind,character/tom_gradgrind"></span>
@@ -18763,6 +22146,30 @@ engravings of a man shaving himself in a boot, on the blacking bottles
 that I was overjoyed to use in cleaning boots with, and that I sold when
 they were empty for a farthing a-piece, and glad to get it!’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII
+POLVERE DA SPARO
+
+Il signor [[James Harthouse|JAMES HARTHOUSE]], "impegnandosi" per il partito che aveva adottato, cominciò presto a riscuotere successo. Con l'aiuto di un po' più di istruzione per i saggi politici, un po' più di languida indifferenza per la società in generale e una gestione accettabile dell'onestà simulata nell'ingiustizia, il peccato mortale più efficace e più favorito tra quelli raffinati, egli venne rapidamente considerato molto promettente. Il fatto di non essere disturbato dall'impegno era un grande vantaggio a suo favore, permettendogli di avvicinarsi ai duri tipi dei Fatti con la stessa disinvoltura come se fosse nato uno della loro tribù e di gettare tutti gli altri gruppi fuoribordo, consapevole ipocrita.
+
+«Di cui nessuno di noi crede, mia cara signora Bounderby, e che non credono neppure loro. L'unica differenza tra noi e i professori di virtù o benevolenza o filantropia - poco importa il nome - è che noi sappiamo che tutto questo è privo di significato e lo diciamo; mentre loro lo sanno altrettanto bene, ma non lo diranno mai.»
+
+Perché mai avrebbe dovuto essere sconvolta o messa in guardia da questa reiterazione? Non era così diverso dai principi di suo padre e dalla sua educazione precoce, tanto da doverla spaventare. Qual era la grande differenza tra le due scuole, quando entrambe la incatenavano alle realtà materiali e non le ispiravano alcuna [[Faith|fede]] in altro? Cosa c'era nella sua [[Soul|anima]] che James Harthouse poteva distruggere, che [[Thomas Gradgrind]] aveva coltivato lì nel suo stato di [[innocence|innocenza]]!
+
+La situazione era ancora peggiore per lei in quel momento, perché nella sua mente — dove si era radicata prima che il padre, eminente uomo pratico, cominciasse a plasmarla — una tendenza combattiva a credere in un'umanità più vasta e nobile di quella che aveva mai sentito nominare lottava costantemente con dubbi e risentimenti. Con i dubbi, perché quell'[[Aspiration|aspirazione]] era stata così sprecata nella sua giovinezza. Con i risentimenti, a causa del torto che le era stato fatto, se davvero si trattava di un sussurro della [[Truth|verità]]. Su una [[Nature|natura]] abituata da tempo alla soppressione di sé, così lacerata e divisa, la [[philosophy|filosofia]] degli Harthouse giunse come sollievo e giustificazione. Se tutto era vuoto e senza valore, non aveva perso nulla né sacrificato nulla. Che importanza aveva, disse a suo padre quando le propose marito. Che importanza ha ancora, diceva ora. Con un'[[Self-Reliance|autonomia]] sprezzante si chiedeva: che importanza ha qualcosa? — e continuava.
+
+Verso cosa? Passo dopo passo, avanti e giù, verso una fine, ma così gradualmente che lei credeva di rimanere immobile. Quanto a Mr. Harthouse, dove _lui_ tendesse, non lo considerava né gli importava. Non aveva alcun disegno o piano particolare davanti: nessuna malvagità energica increspava la sua letargia. Attualmente era divertito e interessato quanto si conveniva a un gentiluomo così raffinato; forse anche più di quanto sarebbe stato coerente con la sua reputazione ammettere. Poco dopo il suo arrivo scrisse languidamente al fratello, l'onorevole e scherzoso membro del parlamento, che i Bounderbys erano "divertenti"; e inoltre, che la signora Bounderby, invece di essere la Gorgone che si aspettava, era giovane e notevolmente carina. Dopo ciò, non scrisse più nulla su di loro, e dedicò il suo tempo libero principalmente alla loro [[house|casa]]. Era molto spesso nella loro [[house|casa]], nei suoi spostamenti e visite nel distretto di Coketown; e fu molto incoraggiato da Mr. Bounderby. Era proprio nel carattere di Mr. Bounderby vantarsi con tutti i suoi amici che _lui_ non gliene importava nulla delle persone altolocate, ma che se sua moglie [[Tom Gradgrind]]'s daughter lo desiderava, era la benvenuta alla loro compagnia.
+
+Il signor [[James Harthouse]] cominciò a pensare che sarebbe stata una nuova sensazione se il volto che cambiava così meravigliosamente per quel cucciolo avesse cambiato anche per lui.
+
+Era abbastanza rapido nell'osservare; aveva una buona [[Memory|memoria]] e non dimenticò neppure una parola delle rivelazioni del fratello. Le intrecciava con tutto ciò che vedeva della sorella, e iniziò a comprenderla. Certo, la parte migliore e più profonda del suo carattere era al di fuori del suo campo di percezione; perché nelle nature, come nei mari, profondità risponde a profondità; ma presto iniziò a leggere il resto con l'occhio di uno studioso.
+
+Il signor Bounderby aveva preso possesso di una [[house|casa]] e dei terreni circostanti, a circa quindici miglia dalla città, raggiungibile in meno di un paio di miglia grazie ad una ferrovia che si snodava su numerosi archi sopra un territorio selvaggio, scavato da pozzi minerari abbandonati e costellato al [[Night|notte]] da fuochi e dalle forme nere delle macchine fisse alle bocche dei pozzi. Questo paese, che si faceva gradualmente più dolce avvicinandosi alla residenza del signor Bounderby, sfumava in un paesaggio rurale dorato di brughiera e bianco di biancospino nella [[spring|primavera]] dell'anno, tremulo di [[Leaves|foglie]] e delle loro ombre per tutto il [[Summer|tempo]] dell'[[Time|estate]]. La banca aveva chiuso un mutuo stipulato sulla proprietà così piacevolmente situata da uno dei magnati di Coketown, che nella sua determinazione a fare una strada più breve del solito verso una fortuna enorme si era sovraspeculato per circa duecentomila sterline. Questi incidenti capitavano talvolta anche nelle famiglie meglio regolate di Coketown, ma i falliti non avevano alcun rapporto con le classi improvide.
+
+Mr. Bounderby provava una soddisfazione immensa nell'insediarsi in questa piccola proprietà accogliente e nel coltivare cavoli con dimostrativa [[Humility|umiltà]] nel [[Garden|giardino]] fiorito. Gli piaceva vivere alla maniera di un caserma tra i mobili eleganti, e intimidiva persino le stesse immagini con la sua origine.
+‘Perbacco,’ diceva a un visitatore, ‘mi hanno detto che Nickits,’ il precedente proprietario, ‘ha dato settecento sterline per quel Seabeach. Ora, per essere franco con voi, se mai, in tutta la mia vita, do sette sguardi a quell'opera, a cento sterline lo sguardo, avrò fatto già più di quanto farò. No, accidenti! Non dimentico che sono [[Josiah Bounderby]] di Coketown. Per anni e anni, gli unici quadri in mio possesso, o che avrei potuto avere in mio possesso, con qualsiasi mezzo, a meno che non li rubassi, erano le incisioni di un uomo che si radeva in uno stivale sulle bottiglie di lucido da scarpe che ero felice di usare per pulire gli stivali e che vendetti quando erano vuote per un quattrino a testa, contento di averlo!’
 
 
 
@@ -18899,6 +22306,73 @@ She flushed deeper and deeper, and was burning red when she replied in a
 fainter voice, ‘I do not think that likely, either.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Poi si sarebbe rivolto a Mr. Harthouse nello stesso stile.
+
+«Harthouse, hai un paio di cavalli qui. Portane altri sei se vuoi e troveremo posto per loro. In questo posto c'è scuderia per una dozzina di cavalli; e a meno che Nickits non sia stato tradito, ne teneva il numero pieno. Una dozzina intera, signore. Quando quell'uomo era ragazzo, andava alla Westminster School. Andava alla Westminster School come [[King|Re]]'s Scholar, quando io vivevo principalmente di rifiuti e dormivo in cesti del mercato. Perché, se volessi tenere una dozzina di cavalli - cosa che non voglio, perché uno mi basta - non potrei sopportare di vederli nelle loro stalle qui, pensando a come era la mia stanza. Non potrei guardarli, signore, senza farli portar fuori. Eppure le cose girano così. Vedi questo posto; sai che tipo di posto è; sei consapevole che non c'è un luogo più completo della sua dimensione in questo regno o altrove - non mi interessa dove - e qui, nel mezzo di tutto questo, come un verme in una noce, c'è [[Josiah Bounderby]]. Mentre Nickits (come mi ha detto un uomo entrato nel mio ufficio ieri), Nickits, che recitava in latino nelle rappresentazioni della Westminster School con i lord cancellieri e la nobiltà di questo paese ad applaudirlo fino a diventare neri in faccia, sta delirando in questo momento - delirando, signore! - al quinto piano, su una stretta strada buia sul retro ad Anversa.»
+
+Fu tra le ombre frondose di quel rifugio, nei lunghi e afosi giorni [[Summer|estivi]], che il signor Harthouse iniziò a mettere alla prova il volto che lo aveva lasciato perplesso quando l'aveva visto la prima volta, e a verificare se sarebbe cambiato per lui.
+
+«Signora Bounderby, ritengo che sia un fortunato caso trovarla qui [[Alone|sola]]. Da qualche [[Time|tempo]] ho il particolare desiderio di parlarle.»
+
+Non fu per nessun miracoloso caso che la trovò; era l'[[Time|ora]] del giorno in cui lei si trovava sempre [[Alone|sola]], e il luogo era il suo rifugio preferito. Era una radura nel bosco scuro, dove giacevano alcuni alberi abbattuti, e dove lei sedeva osservando le [[Leaves|foglie]] cadute dell'anno precedente, come aveva fatto con la cenere che cadeva a [[Home|casa]].
+
+Si sedette accanto a lei, lanciando un'occhiata al suo viso.
+
+'Il tuo fratello. Il mio giovane amico Tom, '
+
+Il suo colorito si illuminò e lei gli rivolse uno sguardo di interesse.
+«Non ho mai visto in vita mia», pensò lui, «niente di così straordinario e affascinante come l'illuminarsi di quei tratti!» Il suo volto tradì i suoi pensieri—ma forse senza tradirlo, perché poteva essere stato istruito a farlo.
+
+«Mi scusi. L'espressione del suo affetto fraterno è così bella — Tom ne sarebbe così orgoglioso — so che questo non si può perdonare, ma mi sento così costretto ad ammirarla».
+
+«Essendo così impulsiva», disse con calma.
+
+«Signora Bounderby, no: sa che non faccio pretese con lei. Sa che sono un sordido pezzo di [[Nature|natura]] umana, pronto a vendermi in qualsiasi [[Time|momento]] per una somma ragionevole e del tutto incapace di qualsiasi comportamento arcadico.»
+
+'Aspetto', rispose lei, 'che tu faccia ulteriori riferimenti a mio fratello.'
+
+«Siete severa con me e lo merito. Sono un cane senza valore come non ne troverete mai, se si esclude il fatto che non sono falso — no, non falso. Ma voi mi avete sorpreso e distolto dal mio argomento, che era vostro fratello. Ho interesse per lui».
+
+«Ha interesse per qualcosa, signor Harthouse?» gli chiese, tra l'incredulità e la gratitudine.
+
+«Se mi aveste chiesto quando sono venuto qui la prima volta, vi avrei detto di no. Ora devo dire — anche se rischio di sembrare fingere e di suscitare giustamente il vostro [[Incredulity|scetticismo]] — sì».
+
+Fece un piccolo movimento come se stesse cercando di parlare ma non riuscisse a trovare la voce; infine disse: «Signor Harthouse, le do atto dell'interesse che dimostra per mio fratello».
+
+«Grazie. Pretendo di meritarlo. Sapete quanto poco io pretenda, ma questa volta vado fino in fondo. Avete fatto tanto per lui, gli volete così bene; tutta la vostra vita, signora Bounderby, esprime un incantevole [[Self|dimenticarsi]] di sé per il suo bene — scusatemi ancora una volta — mi sto allontanando dall'argomento. Mi interesso a lui per il suo stesso bene».
+
+Aveva fatto il più lieve gesto possibile, come se si fosse alzata di scatto per andarsene. Lui aveva cambiato argomento in quell'istante e lei era rimasta.
+
+«Signora Bounderby», riprese lui con tono più leggero eppure con un'aria di sforzo nel prenderlo che era ancora più espressivo del tono che aveva appena lasciato; «non è un reato irreparabile in un giovane della età di suo fratello se è disattento, insensibile e spendaccione - un po' scapestrato, come si suol dire. Lo è?»
+
+“Sì, davvero.”
+
+'Posso essere sincero? Gioca d'azzardo?'
+
+«Penso che faccia scommesse». Il signor Harthouse attese come se non fosse stata una risposta completa e lei aggiunse: «So che lo fa».
+
+'Naturalmente perde?'
+
+“Sì, davvero.”
+
+«Tutti perdono quando scommettono. Posso insinuare la probabilità che lei gli fornirà talvolta denaro per questi scopi?»
+
+Ella sedeva guardando in basso; ma a questa domanda alzò gli occhi scrutatori e un po' risentiti.
+
+«Scusatemi per la mia impertinente curiosità, cara signora Bounderby. Penso che Tom possa gradualmente cadere nei guai e desidero tendere una mano amica a lui dalle profondità della mia cattiva esperienza.—Devo ripeterlo ancora, per il suo bene? È necessario?»
+
+Sembrò cercare di rispondere, ma non ne venne fuori nulla.
+
+«Per essere franco, confesserò tutto ciò che mi è venuto in mente», disse James Harthouse, tornando a scivolare con la stessa apparente disinvoltura nel suo modo più leggero; «vi confiderò il mio [[Doubt|dubbio]] se abbia avuto molti vantaggi. Se - perdonatemi la schiettezza - sia probabile che si sia instaurata una grande quantità di fiducia tra lui e suo padre, così degno».
+
+«Non lo credo», disse Louisa arrossendo per il suo grande ricordo in quel senso.
+
+«O tra lui e — posso contare sulla vostra perfetta comprensione del mio pensiero, ne sono certo — il suo altamente stimato cognato.»
+
+Si arrossì sempre più e aveva il viso infuocato quando rispose con voce più debole: «Non credo che sia probabile neanche questo.»
+
 
 
 <span class="atom-split" data-atom="chapter_60--part_03" data-title="Hard Times — Chapter 7 (part 3)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/love,motif/pain,motif/rose,motif/secrets,motif/silence,motif/tears,motif/time,motif/well,concept/conscience,concept/doubt,concept/faith,concept/honour,concept/hope,concept/self,character/james_harthouse"></span>
@@ -19010,6 +22484,46 @@ stooped viciously to rip the moss from the trees with his stick.  He was
 startled when they came upon him while he was engaged in this latter
 pastime, and his colour changed.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Signora Bounderby», disse Harthouse dopo un breve [[Silence|silenzio]], «non potremmo avere una maggiore confidenza tra noi? Tom ha preso in prestito da lei una somma considerevole?»
+
+«Capirà, signor Harthouse», rispose dopo un po' di esitazione: era stata più o meno incerta e turbata durante tutta la conversazione, eppure aveva sostanzialmente mantenuto il suo atteggiamento [[Self|riservato]]; «capirà che se le dico ciò che insiste per sapere, non è certo per lamentarmi o pentirmene. Non mi lagnerei mai di nulla, e di quanto ho fatto non mi pento affatto».
+
+«E così vivace!», pensò [[James Harthouse]].
+
+«Quando mi sposai, scoprii che mio fratello era già in quel [[Time|periodo]] gravato da un pesante debito. Pesante per lui, voglio dire. Così ingente da costringermi a vendere alcuni gioielli. Non furono una rinuncia. Li vendetti con grande piacere. Non attribuivo loro alcun valore. Per me erano del tutto inutili».
+
+O lei vide nel suo volto che lui sapeva, o temeva solo nella sua [[Conscience|coscienza]] che lui sapesse, che stava parlando di alcuni dei doni del marito.
+Si fermò e arrossì nuovamente. Se non lo avesse saputo prima, l'avrebbe capito in quel momento, anche se fosse stato un uomo molto più ottuso di quanto non fosse.
+
+«Da allora ho dato a mio fratello, in varie occasioni, i soldi che potevo permettermi: insomma, tutti quelli che avevo. Poiché mi confido con voi, sulla [[Faith|fede]] dell'interesse che professate per lui, non lo farò a metà. Da quando siete solito venire qui, ha voluto in una sola volta fino a cento sterline. Non sono stato in grado di dargliele. Mi sono sentito a disagio per le conseguenze del suo coinvolgimento, ma ho mantenuto questi [[Secrets|segreti]] fino ad ora, quando li affido al vostro [[Honour|onore]]. Non ho avuto confidenza con nessuno, perché—avete anticipato il mio motivo poco fa.» Si interruppe bruscamente.
+
+Era un uomo pronto e colse l'occasione di presentarle la sua stessa immagine leggermente mascherata da fratello.
+
+«Signora Bounderby, sebbene una persona senza grazia, del mondo mondana, provo il massimo interesse, glielo assicuro, per ciò che mi dice. Non posso essere severa con suo fratello. Comprendo e condivido la saggia considerazione con cui guarda ai suoi errori. Con tutto il rispetto sia per il signor Gradgrind che per il signor Bounderby, credo di percepire che non è stato fortunato nella sua educazione. Cresciuto in condizioni svantaggiose rispetto alla società in cui deve svolgere la sua parte, si lancia in questi estremi per sé stesso, a partire da estremi opposti che gli sono stati imposti—con le migliori intenzioni non ne abbiamo [[Doubt|dubbio]]—da tempo. La squisita indipendenza inglese del signor Bounderby, sebbene sia una caratteristica molto affascinante, non invita—come siamo d'accordo—a confidarsi. Se osassi osservare che è il meno del mondo carente di quella delicatezza a cui un giovane sbagliato, un carattere frainteso e delle capacità deviate potrebbero rivolgersi per sollievo e guida, esprimerei ciò che mi appare alla mia vista.»
+
+Mentre sedeva guardando dritto davanti a sé, attraverso le luci mutevoli sull'erba fino all'oscurità del bosco oltre, egli vide sul suo volto la sua attenzione alle sue parole pronunciate con grande chiarezza.
+
+«Si devono fare tutti i controlli», continuò «ma ho una grande colpa da rimproverare a Tom che non posso perdonargli e per la quale lo biasimo pesantemente.»
+
+Louisa volse gli occhi verso il suo viso e gli chiese quale fosse quel difetto?
+
+«Forse», rispose lui, «ho detto abbastanza. Forse sarebbe stato meglio,
+in generale, se non ne avessi fatto cenno».
+
+'Mi allarma, signor Harthouse. La prego di farmelo sapere.'
+
+«Per liberarla da apprensioni inutili — e poiché questa confidenza riguardo suo fratello, che io sono certo io stimo sopra ogni altra cosa possibile, è stata stabilita tra noi — obbedisco. Non posso perdonargli di non essere più consapevole in ogni parola, sguardo e atto della sua vita dell'affetto del suo migliore amico; della devozione del suo migliore amico; del suo altruismo; del suo sacrificio. Il ritorno che le fa, secondo quanto ho osservato io, è davvero misero. Quello che ha fatto per lui richiede il suo costante [[Love|amore]] e gratitudine, non il suo mal [[Humour|umore]] e capriccio. Nonostante sia un tipo trascurato come me, non sono così indifferente, signora Bounderby, da essere insensibile a questo vizio di suo fratello o incline a considerarlo un reato veniale».
+
+Il bosco galleggiava davanti a lei, perché i suoi occhi erano offuscati da [[Tears|lacrime]].  Essi
+[[Rose|salivano]] da un profondo [[Well|pozzo]], a lungo nascosto, e il suo cuore era pieno di
+acuto [[Pain|dolore]] che non trovava sollievo in esse.
+
+«In una parola, è per correggere vostro fratello su questo punto, signora Bounderby, che io devo aspirare. La mia migliore conoscenza delle sue circostanze e la mia direzione e consiglio nel districarle — piuttosto preziosi, [[Hope|spero]], in quanto provenienti da un scapestrato su scala molto più ampia — mi daranno qualche influenza su di lui, e tutto ciò che guadagnerò lo userò certamente a questo scopo. Ho detto abbastanza, anzi troppo. Mi sembra di protestare che sono una sorta di bravo ragazzo, quando, sulla mia [[Honour|parola]], non ho la minima intenzione di fare alcuna dichiarazione in tal senso e annuncio apertamente che non sono affatto così. Là, tra gli alberi», aggiunse, avendo sollevato gli occhi e guardandosi attorno; poiché l'aveva osservata attentamente fino a quel momento; «c'è proprio vostro fratello; senza [[Doubt|dubbio]], appena arrivato. Poiché sembra che si stia attardando in questa direzione, potrebbe essere altrettanto [[Well|bene]], forse, camminare verso di lui e metterci sulla sua strada. Ultimamente è stato molto silenzioso e triste. Forse la sua fratellana [[Conscience|coscienza]] è stata toccata — se esistono cose come le coscienze. Anche se, sulla mia [[Honour|parola]], ne sento parlare troppo spesso per crederci».
+
+La aiutò a rialzarsi e lei prese il suo braccio; si avviarono incontro al marmocchio. Stava distrattamente battendo i rami mentre se ne andava in giro: o si chinava con cattiveria per strappare la muschio dagli alberi col bastone. Si spaventò quando lo sorpresero intento a quest'ultima attività e il suo colorito cambiò.
 
 
 
@@ -19194,6 +22708,102 @@ thought [[James Harthouse]], reversing the reflection of his first day’s
 knowledge of her pretty face.  ‘So much the less, so much the less.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Ehi!» balbettò «non sapevo che fossi qui».
+
+«Di chi hai intagliato il nome sugli alberi, Tom?», disse Mr. Harthouse, posando la mano sulla sua spalla e voltandolo in modo che tutti e tre camminassero insieme verso la [[house|casa]].
+
+'Quale nome?' rispose Tom. 'Ah! Volete dire quale nome di ragazza?'
+
+'Il tuo aspetto sospetto sembra quello di chi sta incidendo il nome di una bella creatura sulla corteccia, Tom.'
+
+[Illustrazione: il signor Harthouse e [[Tom Gradgrind]] nel [[Garden|giardino]]
+
+«Non molto di questo, signor Harthouse, a meno che qualche bella creatura con una fortuna enorme a sua disposizione non si prendesse una cotta per me. O lei potrebbe essere brutta quanto era ricca, senza alcun [[Fear|timore]] di perdermi. Scolpirei il suo nome tutte le volte che vorrebbe».
+
+'Purtroppo sei un mercenario, Tom.'
+
+'Mercenario', ripeté Tom. 'Chi non è mercenario? Chiedete a mia sorella.'
+
+«Hai forse dimostrato che è un mio difetto, Tom?» disse Louisa,
+senza mostrare altro segno del suo malcontento e della sua [[Nature|cattiveria]].
+
+«Tu sai se il cappello ti sta bene, Loo», rispose suo fratello con aria burbera. «Se ti sta bene, puoi metterlo».
+
+«Tom è misantropo oggi, come tutti i noiosi sono di tanto in tanto»,
+disse il signor Harthouse. «Non dategli retta, signora Bounderby.
+Sa benissimo che non è così. Rivelerei alcune delle sue opinioni su
+di voi, espresse privatamente a me, se non si moderasse un po'.»
+
+«Comunque sia, signor Harthouse», disse Tom, addolcendosi nella sua ammirazione per il suo mecenate, ma scuotendo anche la testa con aria cupa, «non potete dirle che io l'abbia mai lodata per essere mercenaria. Potrei averla lodata per il contrario, e lo rifarei se avessi altrettanto buone ragioni. Comunque, non importa ora; non è molto interessante per voi, e sono stufo dell'argomento».
+
+Si diressero verso la [[house|casa]], dove Louisa lasciò il braccio del visitatore e
+entrò. Lui rimase a guardarla mentre saliva i gradini, e si addentrava nella [[Shadow|penombra]] della porta; poi posò di nuovo la mano sulla spalla di suo fratello e con un cenno confidenziale lo invitò a fare una passeggiata nel [[Garden|giardino]].
+
+'Tom, mio caro amico, voglio parlarti.'
+
+Si erano fermati in mezzo a un disordine di rose — faceva parte dell'[[Humility|umiltà]] del signor Bounderby mantenere le rose di Nickit su scala ridotta — e Tom si sedette su una balaustra del terrazzo, strappando boccioli e smembrandoli; mentre il suo potente Familiar gli stava sopra, con un piede sulla balaustra, e la sua figura riposava comodamente sul braccio appoggiato a quel ginocchio.  Erano visibili appena dalla sua [[Window|finestra]]. Forse li vedeva.
+
+'Tom, che succede?'
+
+"Oh! Signor Harthouse," disse Tom con un gemito, "sono in difficoltà e mi sento sopraffatto."
+
+'Anch'io lo sono, mio caro amico.'
+
+«Lei!» rispose Tom. «È l'incarnazione dell'indipendenza. Signor Harthouse, mi trovo in un pasticcio terribile. Non ha idea di quale situazione ho creato per me stesso, di quale situazione mia sorella avrebbe potuto tirarmi fuori se solo lo avesse fatto».
+
+Ora si mise a mordere i boccioli di rosa e a strapparli dai denti con una mano che tremava come quella di un vecchio malfermo. Dopo averlo guardato con estrema attenzione, il suo compagno riprese il tono più leggero.
+
+«Tom, sei insensibile: ti aspetti troppo da tua sorella. Hai preso dei soldi da lei, cane che non sei altro, lo sai benissimo».
+
+«[[Well|Beh]], signor Harthouse, so che l'ho fatto. Come avrei potuto ottenerlo altrimenti? Ecco il vecchio Bounderby che si vanta sempre di aver vissuto con due pence al mese alla mia età, o qualcosa del genere. Ecco mio padre che traccia quello che chiama un confine e mi tiene legato a esso fin da bambino, dal collo ai talloni. Ecco mia madre che non ha mai nulla di suo, se non le sue lamentele. Cosa deve fare un ragazzo per avere dei soldi, e dove devo cercarli, se non dalla mia sorella?»
+
+Era quasi in lacrime e sparpagliava i fiori a decine. Il signor Harthouse lo afferrò con decisione per la giacca.
+
+'Ma, caro Tom, se tua sorella non l'ha, '
+
+«Non l'ha ottenuto, signor Harthouse? Non dico che l'abbia ottenuto. Forse ho chiesto più di quanto fosse probabile che lei potesse ottenere. Ma allora avrebbe dovuto ottenerlo. Poteva ottenerlo. Ora non serve fingere di mantenere il segreto, dopo quello che le ho già detto; sa che non ha sposato il vecchio Bounderby per se stessa o per lui, ma per me. Allora perché non ottiene da lui ciò che voglio io, per amor mio? Non è obbligata a dire cosa intende farne; è abbastanza furba; potrebbe riuscire a convincerlo, se lo volesse. Allora perché non lo vuole, quando le dico quanto sia importante? Ma no. Ecco che si siede in sua compagnia come una statua, invece di rendersi piacevole e ottenerlo facilmente. Non so come lei voglia chiamare questo comportamento, ma io lo definisco innaturale».
+
+Subito sotto il parapetto, dall'altra parte, c'era un pezzo d'[[Water|acqua]] ornamentale in cui il signor [[James Harthouse]] aveva una forte inclinazione a gettare il giovane signor [[Thomas Gradgrind]], proprio come gli uomini offesi di Coketown minacciavano di gettare le loro proprietà nell'Atlantico. Ma egli mantenne la sua postura disinvolta; e nulla di più solido superò i parapetti di pietra se non i boccioli di rosa accumulati che ora galleggiavano intorno, formando una piccola isola sulla superficie.
+
+'Caro Tom,' disse Harthouse, 'lascia che io sia il tuo banchiere.'
+
+«Per l'amor di Dio», rispose Tom all'improvviso, «non parlate di banchieri!» E aveva un aspetto molto pallido, in contrasto con le rose. Molto pallido.
+
+Il signor Harthouse, essendo un uomo di perfetta educazione e abituato alla migliore società, non si lasciò sorprendere - sarebbe stato altrettanto improbabile che ne fosse colpito - ma sollevò le palpebre un po' più del dovuto, come se fossero state alzate da un debole tocco di [[Wonder|meraviglia]].  Sebbene fosse tanto contro i precetti della sua scuola quanto lo era contro la dottrina del Collegio Gradgrind il provare [[Wonder|meraviglia]].
+
+'Qual è l'esigenza attuale, Tom? Tre cifre? Fuori con loro. Di' quali sono.'
+
+«Signor Harthouse», rispose Tom, che ora piangeva davvero; e le sue [[Tears|lacrime]] erano migliori delle sue ferite, per quanto pietosa fosse la figura che faceva: «è troppo tardi; i soldi non mi servono più. Avrei dovuto averli prima se volevano essermi utili. Ma le sono molto grato; lei è un vero amico».
+
+Un vero amico! 'Ragazzo, ragazzo!', pensò pigramente il signor Harthouse; 'che asino sei!'
+
+«E considero la sua offerta una grande gentilezza», disse Tom stringendogli la mano.
+«Una grande gentilezza, signor Harthouse».
+
+«[[Well|Bene]],» rispose l'altro «potrebbe tornare utile più avanti. E, mio buon amico, se vorrai confidarmi i tuoi guai quando ti cadranno addosso a pioggia, potrei mostrarti vie migliori per uscirne di quelle che troveresti da solo.»
+
+«Grazie», disse Tom, scuotendo la testa con aria tetra e masticando boccioli di rosa.
+«Avrei voluto conoscervi prima, signor Harthouse».
+
+«Ora, vedi, Tom», concluse Mr. Harthouse, lanciando lui stesso una [[Rose|rosa]] o due come contributo all'isola, che galleggiava sempre verso la parete come se volesse diventare parte della terraferma: «ogni uomo è egoista in tutto ciò che fa e io sono esattamente uguale agli altri miei simili. Sono disperatamente intenzionato»; il languore della sua disperazione era del tutto tropicale; «a farti ammorbidire nei confronti di tua sorella, cosa che dovresti fare, e a farti diventare un fratello più affettuoso e piacevole, cosa che dovresti essere.»
+
+'Sarò io, signor Harthouse.'
+
+«Non c'è [[Time|momento]] migliore del presente, Tom. Inizia subito».
+
+'Certo che lo farò. E mia sorella Loo lo dirà.'
+
+«Avendo concluso questo accordo, Tom», disse Harthouse, dandogli di nuovo una pacca sulla spalla con un'aria che gli lasciava la libertà di dedurre — come fece, povero [[Fool|stolto]] — che questa condizione gli era imposta in pura buona e disinteressata [[Nature|natura]] per diminuire il suo senso di obbligo, «ci separeremo fino all'ora di pranzo-[[Time|pranzo]].»
+
+Quando Tom apparve prima di cena, sebbene il suo animo sembrasse abbastanza turbato, il suo [[Body|corpo]] era vigile; e apparve prima che il signor Bounderby entrasse. «Non volevo essere [[Cross|irritabile]], Loo», disse, porgendole la mano e baciandola. «So che sei affezionata a me, e tu sai che io sono affezionato a te».
+
+Dopo ciò, quel giorno sul volto di Louisa apparve un sorriso per qualcun altro. Ahimè, per qualcun altro!
+
+«Tanto meno il cucciolo è l'unica creatura per cui si preoccupa»,
+pensò [[James Harthouse]], rivedendo la riflessione del suo primo giorno di conoscenza del suo grazioso viso. «Tanto meno, tanto meno».
+
 
 
 <span class="atom-split" data-atom="chapter_61--part_01" data-title="Hard Times — Chapter 8 (part 1)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/fire,motif/horse,motif/lion,motif/night,motif/road,motif/rose,motif/sleep,motif/soul,motif/summer,motif/time,motif/well,motif/window,concept/honour,concept/hope,character/james_harthouse,character/tom_gradgrind"></span>
@@ -19334,6 +22944,79 @@ little safe in young Tom’s closet, the safe used for petty purposes,
 there was a hundred and fifty odd pound.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VIII
+ESPLOSIONE
+
+LA mattina seguente era troppo luminosa per dormire e [[James Harthouse]] si [[Rose|alzò]] presto, sedendosi alla piacevole [[Window|finestra]] a bovindo della sua stanza da bagno, fumando il raro tabacco che aveva avuto un'influenza così salutare sul suo giovane amico. Riposandosi nella luce del sole, con il profumo della pipa orientale attorno e la nebbia onirica che si dissolveva nell'aria, tanto ricca e dolce di odori estivi, calcolava i suoi vantaggi come un giocatore fortunato potrebbe contare le sue vincite. Non era affatto annoiato per il momento e poteva concentrarsi su questo pensiero.
+
+Aveva instaurato con lei una confidenza dalla quale il marito era escluso.
+Aveva instaurato con lei una confidenza che si basava assolutamente sulla sua indifferenza verso il marito e sull'assenza, ora e in ogni momento, di qualsiasi affinità tra loro. Aveva abilmente, ma chiaramente, assicurato a lei di conoscere il suo cuore nei suoi recessi più delicati; si era avvicinato a lei attraverso i sentimenti più teneri; si era associato a quel sentimento; e la barriera dietro cui viveva si era sciolta. Tutto molto strano, e molto soddisfacente!
+
+Eppure non aveva ancora, neanche ora, alcuna intenzione malvagia.
+Pubblicamente e privatamente, sarebbe stato molto meglio per l'epoca in cui viveva che lui e la legione di cui faceva parte fossero volutamente cattivi, piuttosto che indifferenti e senza scopo. Sono gli iceberg alla deriva che seguono qualsiasi corrente a causare il naufragio delle navi.
+
+Quando il Diavolo si aggira come un leone ruggente, assume una forma che attrae solo selvaggi e cacciatori. Ma quando è acconciato, lisciato e verniciato secondo la moda; quando è stanco del vizio e stanco della virtù, esausto per quanto riguarda lo zolfo e esausto per quanto riguarda la beatitudine; allora, sia che si dedichi alla distribuzione di [[Lion|burocrazia]] o all'accensione di fuochi rossi, è proprio il Diavolo.
+
+Così [[James Harthouse]] si adagiò alla [[Window|finestra]], fumando pigramente e calcolando i passi che aveva compiuto sulla [[Road|strada]] su cui gli era capitato di viaggiare. La meta verso cui conduceva era davanti a lui, abbastanza chiara; ma non si preoccupava di fare calcoli al riguardo. Sarà quel che sarà.
+
+Dovendo fare piuttosto un lungo viaggio quel giorno, perché c'era una cerimonia pubblica da "fare" in un luogo lontano che offriva una buona occasione per partecipare ai Gradgrind, si vestì presto e scese a colazione. Era ansioso di vedere se lei era ricaduta nella situazione della sera precedente. No. Riprese da dove aveva interrotto. C'era nuovamente un'espressione d'interesse per lui.
+
+Superò la giornata con un livello di soddisfazione (o insoddisfazione) tale da essere prevedibile date le circostanze faticose; e tornò a cavallo alle sei o’[[Clock|clock]]. C'era una distesa di circa mezzo miglio tra la portineria e la [[house|casa]], e lui stava cavalcando ad andatura lenta sul ghiaietto levigato, un tempo di Nickits, quando il signor Bounderby irruppe dal viale dei cespugli con tale violenza da far impennare il suo [[Horse|cavallo]] e fargli attraversare la [[Road|strada]].
+
+'Harthouse!' esclamò il signor Bounderby. 'Avete sentito?'
+
+«Sentito cosa?» disse Harthouse, accarezzando il suo [[Horse|cavallo]] e interiormente rivolgendo a Mr. Bounderby ogni sorta di auguri poco benevoli.
+
+'Allora non hai sentito!'
+
+'Vi ho sentito, e lo ha sentito anche questo bruto. Non ho sentito altro.'
+
+Il signor Bounderby, rosso e accaldato, si piantò al centro del sentiero davanti alla testa della [[Horse|cavalla]], per far esplodere la sua bomba con maggiore effetto.
+
+'La banca è stata derubata!'
+
+'Non lo pensi davvero!'
+
+«Derubato ieri sera, signore. Derubato in modo straordinario. Derubato con una chiave falsa».
+
+'Di molto?'
+
+Il signor Bounderby, nel suo [[Desire|desiderio]] di sfruttare al massimo la situazione,
+sembrava davvero mortificato dall'obbligo di rispondere: «Beh, no; non molto. Ma avrebbe potuto esserlo».
+
+'Quanto?'
+
+«Oh! come somma — se si parla di una somma — non superiore a centocinquanta sterline», disse Bounderby con impazienza. «Ma la questione non è la somma; è il fatto. È il fatto che la Banca sia stata derubata, questa è l'importante circostanza. Sono sorpreso che lei non lo capisca».
+
+«Mio caro Bounderby», disse James smontando e consegnando le redini al suo servo, «lo _vedo_; e sono altrettanto sopraffatto di quanto tu possa [[Desire|desiderare]] che io sia dallo spettacolo offerto alla mia vista mentale. Tuttavia, spero mi sarà concesso - e lo faccio con tutta la mia [[Soul|anima]], te lo assicuro - di congratularmi con te per non aver subito una perdita maggiore».
+
+«Grazie», rispose Bounderby con tono brusco e sgarbato. «Ma le dico una cosa: avrebbe potuto essere di ventimila sterline».
+
+'Suppongo che potrebbe.'
+
+«Supponiamo che sia così! Per Dio, potete supporlo. Per Giorgio!» disse il signor Bounderby con vari cenni minacciosi e scuotimenti del capo. «Avrebbe potuto essere di quaranta a uno. Non si sa mai cosa sarebbe stato o non sarebbe stato, come è andata, se quei tizi non fossero stati disturbati».
+
+Ormai erano arrivate anche Louisa e la signora Sparsit, e Bitzer.
+
+«Ecco che la figlia di [[Tom Gradgrind]] sa benissimo cosa sarebbe potuto succedere se non lo avesse fatto», tuonò Bounderby. «È caduta come se l'avessero sparata, quando gliel'ho detto! Non l'avevo mai vista fare una cosa del genere prima d'ora. Le fa onore, in queste circostanze, secondo me!»
+
+Ella era ancora pallida e sembrava sul punto di svenire. [[James Harthouse]] le chiese di prendere il suo braccio; mentre procedevano molto lentamente, le domandò come fosse stato commesso il furto.
+
+«Ebbene, sto per dirglielo», disse Bounderby, irritato, offrendo il braccio alla signora Sparsit. «Se non fosse stata così particolarmente attenta alla cifra, gliel'avrei detto prima. Conosce questa signora (perché è una signora), la signora Sparsit?»
+
+«Ho già avuto l'[[Honour|onore]]—»
+
+«Molto bene. E questo giovane, Bitzer, l'hai visto anche tu nella stessa occasione?» Il signor Harthouse inclinò il capo in segno di assenso e [[Well|Bitzer]] si grattò la fronte.
+
+«Molto [[Well|bene]]. Abitano alla Banca. Sapete che abitano alla Banca,
+forse? Molto [[Well|bene]]. Ieri pomeriggio, al termine dell'orario di lavoro,
+tutto è stato riposto come al solito. Nella stanza blindata dove questo
+giovane dorme fuori, non importa quanto ci fosse dentro. Nel piccolo
+cassaforte nell'armadio del giovane Tom, il cassaforte usato per scopi minori,
+c'erano centocinquanta sterline e rotti».
+
 
 
 <span class="atom-split" data-atom="chapter_61--part_02" data-title="Hard Times — Chapter 8 (part 2)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/crown,motif/nature,motif/night,motif/time,motif/well,motif/wheel,motif/winter,concept/hope,concept/nature,concept/pride,concept/truth,character/josiah_bounderby"></span>
@@ -19461,6 +23144,76 @@ Having come to the climax, Mr. Bounderby, like an oriental dancer, put
 his tambourine on his head.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Centocinquantaquattro, sette, uno», disse Bitzer.
+
+«Come!» ribatté Bounderby, fermandosi per [[Wheel|girarsi]] verso di lui «non voglio nessuna delle _tue_ interruzioni. È già abbastanza essere derubati mentre russi perché sei troppo comodo, senza dover essere messo a posto con i tuoi quattro sette uno. Non russavo io stesso quando avevo la tua età, lascia che te lo dica. Non avevo viveri sufficienti per russare. E non facevo quattro sette uno. No, se sapevo quello che facevo».
+
+Bitzer si sfregò di nuovo la fronte con l'indice, in modo furtivo, e sembrò essere immediatamente particolarmente colpito e depresso dall'esempio appena dato dell'astinenza morale del signor Bounderby.
+
+«Cento e cinquanta sterline circa», riprese il signor Bounderby. «Quella somma di denaro, giovane Tom la chiuse nella sua cassaforte, non una cassaforte molto robusta, ma ora questo non ha importanza. Tutto fu lasciato in ordine. In qualche [[Time|momento]] della [[Night|notte]], mentre quel giovane russava — signora Sparsit, dice che l'ha sentito russare?»
+
+«Signore», rispose la signora Sparsit, «non posso dire di averlo sentito russare esattamente e quindi non posso fare tale affermazione. Ma nelle sere d'[[Winter|inverno]], quando si addormentava alla sua scrivania, l'ho sentito emettere suoni che preferirei descrivere come parzialmente soffocati. L'ho sentito in tali occasioni produrre suoni di [[Nature|natura]] simile a quelli che si possono talvolta udire negli orologi olandesi. Non», disse la signora Sparsit, con un senso elevato di fornire una testimonianza rigorosa, «che io voglia insinuare alcuna imputazione sul suo carattere morale. L'ultima cosa al mondo. Ho sempre considerato Bitzer un giovane uomo dai principi più retti; e a ciò desidero portare la mia testimonianza».
+
+«[[Well|Bene]]!» disse il furibondo Bounderby «mentre lui russava, _o_
+soffocava, _o_ faceva l'orologio olandese, _o_ altro di simile — essendo addormentato — alcuni
+tipi, in qualche modo, che fossero stati precedentemente nascosti nella [[house|casa]] oppure no,
+resta da vedere, sono riusciti ad arrivare alla cassaforte del giovane Tom, l'hanno forzata e hanno sottratto
+il contenuto.  Poi, essendo stati disturbati, se la sono data a gambe; uscendo dalla porta principale,
+e [[Double|doppio]]-chiudendola di nuovo (era stata [[Double|doppio]]-chiusa,
+e la chiave era sotto il cuscino della signora Sparsit) con una chiave falsa, che è
+stata raccolta in strada vicino alla Banca, verso le dodici o'[[Clock|clock]] di oggi.  Non si dà l'allarme,
+fino a quando questo tizio, Bitzer, non arriva stamattina e
+comincia ad aprire e preparare gli uffici per il lavoro.  Poi, guardando la cassaforte di Tom, vede la porta socchiusa, e scopre che la serratura è stata forzata, e i soldi sono spariti».
+
+«Dov'è Tom, a proposito?» chiese Harthouse guardandosi intorno.
+
+«Mi ha aiutato la polizia», disse Bounderby, «e rimane dietro alla Banca.
+Vorrei che questi tizi avessero provato a derubarmi quando ero della sua [[Time|età]]. Sarebbero stati in perdita se avessero investito diciotto pence nel lavoro; posso dirglielo io.»
+
+'Qualcuno è sospettato?'
+
+«Sospettato? Direi che c'è qualcuno sospettato. Egò!» disse [[Josiah Bounderby]], lasciando il braccio della signora Sparsit per asciugarsi la testa accaldata. «[[Josiah Bounderby]] di Coketown non può essere derubato e nessuno sospettato. No, grazie!»
+
+Il signor Harthouse potrebbe chiedere Chi era sospettato?
+
+«[[Well|Bene]],» disse Bounderby, fermandosi e voltandosi per affrontarli tutti,
+«vi dirò. Non è una cosa da menzionare dappertutto; non è una cosa da
+menzionare da nessuna parte: in modo che i farabutti coinvolti (ce n'è un
+gruppo) possano abbassare la guardia. Quindi prendete questo con fiducia.
+Ora aspettate un attimo». Il signor Bounderby si asciugò di nuovo la testa. «Cosa direste se;» qui esplose violentemente: «se ci fosse coinvolto un Operaio?»
+
+«[[Hope|Spero]]», disse Harthouse con aria svogliata, «che non sia il nostro amico Blackpot?»
+
+'Dite Pozza invece di Pentola, signore', rispose Bounderby, 'e quello è l'uomo.'
+
+Louisa pronunciò debolmente qualche parola di [[Incredulity|incredulità]] e sorpresa.
+
+«Oh sì! Lo so!» disse Bounderby, cogliendo subito il suono. «Lo so! Ci sono abituato. Ne so tutto. Sono la gente più fine del mondo, questi tizi. Hanno il dono della chiacchiera, hanno. Vogliono solo che si spieghino loro i loro diritti, vogliono. Ma le dico una cosa: mi mostri un Operaio insoddisfatto e io le mostrerò un uomo capace di fare qualsiasi cosa cattiva, non importa quale sia.»
+
+Un'altra delle popolari finzioni di Coketown, per la cui diffusione si era fatto qualcosa — e nella quale alcune persone credevano davvero.
+
+«Ma io conosco questi tipi», disse Bounderby. «Li leggo come se fossero libri. Signora Sparsit, le chiedo di testimoniare. Qual è stato l'avvertimento che ho dato a quel tizio la prima [[Time|volta]] che ha messo piede in questa [[house|casa]], quando lo scopo dichiarato della sua visita era quello di sapere come si potesse demolire la Religione e mettere al tappeto la Chiesa ufficiale? Signora Sparsit, per quanto riguarda le alte connessioni, lei è alla pari con l'aristocrazia: ho detto o non ho detto a quel tipo «non puoi nascondermi la [[Truth|verità]]: tu non sei il genere di persona che mi piace; non combinerai nulla di buono»?»
+
+«Certamente, signore», rispose la signora Sparsit, «gli ha fatto una ramanzina davvero impressionante».
+
+'Quando ti ha scandalizzato, signora', disse Bounderby; 'quando ha ferito i tuoi sentimenti?'
+
+«Sì, signore», rispose la signora Sparsit con un mite cenno del capo, «certamente lo fece. Anche se non voglio dire che i miei sentimenti possano essere più deboli su tali punti - più sciocchi, se si preferisce il termine - di quanto avrebbero potuto essere, se avessi sempre occupato la mia attuale posizione».
+
+Il signor Bounderby fissò il signor Harthouse con un'orgoglio [[Pride|sfrenato]], come a dire: «Sono il proprietario di questa donna e credo che valga la tua attenzione». Poi riprese il suo discorso.
+
+«Puoi ricordare da te stesso, Harthouse, cosa gli ho detto quando lo hai visto.
+Non ho minimizzato la questione con lui. Non sono mai ambiguo con loro. Li CONOSCO. Molto [[Well|bene]], signore. Tre giorni dopo, è scappato. Se n'è andato,
+nessuno sa dove: come fece mia madre quando ero bambino—solo che c'è
+questa differenza, che lui è un soggetto peggiore di mia madre, se possibile. Cosa ha fatto prima di andarsene? Cosa ne pensi;» il signor Bounderby, con il cappello in mano, dava una battuta sulla [[Crown|tesa]] ad ogni piccola divisione delle sue
+frasi, come se fosse un tamburello; «che lo si sia visto—[[Night|notte]] dopo
+[[Night|notte]]—sorvegliare la Banca?—che si aggirasse lì intorno—dopo il buio?—Che ciò
+abbia colpito la signora Sparsit—che non potesse essere in giro per niente di buono—Che lei abbia attirato l'attenzione di Bitzer su di lui, e che entrambi lo abbiano notato—E che sia emerso oggi dalle indagini—che è stato notato anche dai vicini?»
+Avendo raggiunto il culmine, il signor Bounderby, come un danzatore orientale, mise
+il suo tamburello in testa.
+
 
 
 <span class="atom-split" data-atom="chapter_61--part_03" data-title="Hard Times — Chapter 8 (part 3)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/horse,motif/night,motif/time,concept/honour,concept/renunciation,character/james_harthouse"></span>
@@ -19563,6 +23316,42 @@ Bounderby, ‘since that [[Time|time]].’  ‘No, sir,’ said Mrs. Sparsit, so
 interest in the game.  But I shall be happy, sir, if you will
 condescend.’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Sospetto», disse [[James Harthouse]], «certamente».
+
+«Penso di sì, signore», disse Bounderby con un cenno di sfida. «Penso di sì. Ma ce ne sono altri coinvolti. C'è una vecchia. Non si sente mai parlare di queste cose finché il danno non è fatto; tutti i tipi di difetti vengono scoperti sulla porta della stalla dopo che il [[Horse|cavallo]] è stato rubato; ora emerge una vecchia. Una vecchia che sembra essere volata in città su una scopa, ogni tanto. _Lei_ sorveglia il posto per un giorno intero prima che questo tizio cominci, e nella [[Night|notte]] in cui l'avete visto, fugge con lui e tiene un consiglio con lui - immagino, per fare la sua relazione al termine del servizio, e dannata sia lei.»
+
+C'era una persona del genere nella stanza quella [[Night|notte]] e si ritraeva dall'osservazione,
+pensò Louisa.
+
+«Questi non sono tutti quelli che già conosciamo», disse Bounderby,
+con molti cenni del capo pieni di significato nascosto. «Ma per ora ho detto abbastanza.
+Avrete la bontà di tenerlo per voi e di non parlarne con nessuno.
+Potrebbe volerci [[Time|tempo]], ma li avremo. È una questione di politica concedere loro
+abbastanza corda, e non ci sono obiezioni a questo».
+
+«Naturalmente saranno puniti con la massima severità della legge, come si può leggere sui cartelli», rispose [[James Harthouse]], «e giusto così. Chi va in cerca di Banks deve accettare le conseguenze. Se non ci fossero conseguenze, andremmo tutti in cerca di Banks». Aveva delicatamente preso il parasole di Louisa dalla sua mano e lo aveva aperto per lei; e lei camminava sotto la sua ombra, anche se il sole non splendeva lì.
+
+«Per il momento, Loo Bounderby», disse suo marito, «c'è qui la signora Sparsit da accudire. I nervi della signora Sparsit sono stati messi alla prova da questa faccenda e starà qui un giorno o due. Quindi sistemala comodamente».
+
+«La ringrazio molto, signore», osservò quella discreta signora, «ma la prego di non considerare il mio benessere. Qualsiasi cosa andrà bene per me».
+
+Presto apparve che se la signora Sparsit aveva un difetto nella sua associazione con quell'istituzione domestica, era quello di essere così eccessivamente incurante di sé stessa e premurosa degli altri da diventare una seccatura.  Quando le fu mostrata la sua camera, ne percepì i comfort in modo così terribile da suggerire che avrebbe preferito passare la [[Night|notte]] sul torchio nella lavanderia.  È vero, i Powlers e gli Scadgers erano abituati allo sfarzo, ‘ma è mio dovere ricordare’, osservava con grazia elevata la signora Sparsit: in particolare quando uno dei domestici era presente, ‘che ciò che ero non lo sono più.  In effetti,’ disse, ‘se potessi cancellare del tutto il ricordo che il signor Sparsit fosse un Powler, o che io stessa sia imparentata con la famiglia Scadgers; o se potessi anche revocare quel fatto e rendermi una persona di comune estrazione e connessioni ordinarie; lo farei volentieri.  Penso che in queste circostanze sarebbe giusto farlo.’  Lo stesso stato d'animo eremitico la portò a [[Renunciation|rinunciare]] ai piatti preparati e ai vini a cena, finché non fu espressamente invitata dal signor Bounderby ad assumerli; allora disse: ‘In verità siete molto gentile, signore’; e abbandonò una risoluzione di cui aveva fatto un annuncio piuttosto formale e pubblico, per ‘aspettare l'umile montone.’  Si scusava inoltre profondamente per aver chiesto il sale; e sentendosi amabilmente obbligata a sostenere appieno il signor Bounderby nella testimonianza che aveva reso dei suoi nervi, occasionalmente si sedeva all'indietro sulla sua sedia e piangeva in silenzio; durante questi periodi una lacrima di grandi dimensioni, come un orecchino di cristallo, poteva essere osservata (o meglio, doveva esserlo, perché insisteva nel richiedere l'attenzione pubblica) scivolare lungo il suo naso romano.
+
+Ma il punto di forza più grande della signora Sparsit, inizialmente e alla fine, era la sua determinazione a compatire il signor Bounderby.  Ci furono occasioni in cui guardandolo si sentiva involontariamente spinta ad agitare la testa, come se volesse dire: ‘Ahimè, povero Yorick!’  Dopo essersi lasciata trascinare da queste manifestazioni di emozione, assumeva un'espressione luminosa e intermittente, si mostrava allegra e diceva: ‘Vedo con piacere che ha ancora buon umore, signore;’ e sembrava considerarlo una benedetta disposizione il fatto che il signor Bounderby reggesse come faceva.  Una stranezza per la quale spesso si scusava le risultava estremamente difficile da superare.  Aveva una curiosa propensione a chiamare la signora Bounderby ‘Miss Gradgrind,’ e vi cedeva una trentina di volte nel corso della serata.  La ripetizione di questo errore avvolgeva la signora Sparsit in modesta confusione; ma davvero, diceva, sembrava così naturale dire Miss Gradgrind: mentre persuadersi che la giovane signorina che aveva avuto la felicità di conoscere fin da [[Child|bambina]] potesse essere veramente e propriamente la signora Bounderby le risultava quasi impossibile.  Era un'ulteriore singolarità di questo notevole caso, che più ci pensava, più le sembrava impossibile; ‘le differenze,’ osservò, ‘sono tali.’
+
+Nel salotto dopo cena, il signor Bounderby giudicò il caso del furto, interrogò i testimoni, prese nota delle prove, dichiarò colpevoli le persone sospette e le condannò alla massima pena prevista dalla legge.  Fatto ciò, Bitzer fu congedato in città con istruzioni di raccomandare a Tom di tornare [[Home|a casa]] con il treno postale.
+
+Quando furono portate le candele, la signora Sparsit mormorò: «Non sia abbattuto, signore.
+La prego di lasciarmi vederla allegro come ero abituata a farlo». Il signor Bounderby,
+su cui quelle consolazioni avevano cominciato ad avere l'effetto di renderlo sentimentale
+in un modo testardo e goffo, sospirò come una grossa bestia marina. «Non posso sopportare di vederla così, signore», disse la signora Sparsit.
+«Proviamo a giocare a trictrac, signore, come facevamo quando avevo l'[[Honour|onore]] di vivere sotto il suo tetto». «Non ho più giocato a trictrac, signora», rispose il signor Bounderby,
+«da quel [[Time|tempo]].» «No, signore», disse la signora Sparsit in tono rassicurante,
+«so bene che non l'ha fatto. Ricordo che la signorina Gradgrind non si interessa a questo gioco.
+Ma sarò felice, signore, se vorrà concondiscendere».
 
 
 
@@ -19737,6 +23526,109 @@ impenitently spurning himself, and no less hatefully and unprofitably
 spurning all the good in the world.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Giocavano vicino a una [[Window|finestra]] che si apriva sul [[Garden|giardino]]. Era una bella [[Night|serata]]:
+non c'era luna, ma faceva caldo e profumava. Louisa e il signor Harthouse
+si erano incamminati nel [[Garden|giardino]], dove le loro voci si udivano nella
+quiete, anche se non ciò che dicevano. La signora Sparsit, dal suo posto al
+tavoliere da trictrac, continuava a tendere gli occhi per scrutare l'oscurità.
+"Che succede, signora?" disse il signor Bounderby; "non vedrà un [[Fire|incendio]], vero?"
+"Oh no, signore," rispose la signora Sparsit, "pensavo alla rugiada."
+"Cosa c'entra lei con la rugiada, signora?" chiese il signor Bounderby.
+"Non è per me, signore," replicò la signora Sparsit, "temo che la signorina Gradgrind prenda freddo."
+"Lei non prende mai freddo," disse il signor Bounderby. "Davvero, signore?"
+disse la signora Sparsit. E fu colta da una tosse in gola.
+
+Quando si avvicinò l'[[Time|ora]] di ritirarsi, il signor Bounderby prese un bicchiere d'[[Water|acqua]]. «Oh, signore?» disse la signora Sparsit. «Non prende più il suo sherry caldo con scorza di limone e noce moscata?» «Beh, ho perso l'abitudine a prenderlo ora, signora», rispose il signor Bounderby. «Peccato, signore», replicò la signora Sparsit; «sta perdendo tutte le sue buone vecchie abitudini. Su, coraggio, signore! Se la signorina Gradgrind me lo permette, mi offro di prepararglielo io, come ho fatto spesso in passato».
+
+La signorina Gradgrind permettendo senza difficoltà alla signora Sparsit di fare tutto ciò che voleva, quella premurosa signora preparò la bevanda e la porse al signor Bounderby. «Le farà bene, signore. La scalderà il cuore. È proprio quello che le occorre e dovrebbe prendere, signore». E quando il signor Bounderby disse: «Alla sua salute, signora!», lei rispose con grande sentimento: «Grazie, signore. Lo stesso a lei, e anche felicità». Infine, gli augurò una buona [[Night|notte]], con grande pathos; e il signor Bounderby andò a letto, con la [[Persuasion|persuasione]] sentimentale che fosse stato deluso in qualcosa di tenero, sebbene non avrebbe potuto, per la sua vita, dire cosa fosse.
+
+Molto tempo dopo che Louisa si era spogliata e coricata, continuava a vegliare e ad aspettare il ritorno [[Home|a casa]] di suo fratello.  Questo non poteva avvenire, lo sapeva bene, prima dell'una passata la mezzanotte; ma nel [[Silence|silenzio]] della campagna, che faceva qualsiasi cosa tranne calmare il tumulto dei suoi pensieri, il [[Time|tempo]] si trascinava stancamente.  Infine, quando l'oscurità e la quiete sembrarono per ore addensarsi a vicenda, udì il campanello del cancello.  Ebbe la sensazione che sarebbe stata felice se avesse continuato a suonare fino all'alba; ma si fermò, e gli anelli dell'ultimo rintocco si diffusero nell'aria più deboli e più ampi, e tutto fu di nuovo morto.
+
+Aspettò ancora un quarto d'ora circa, secondo il suo calcolo. Poi si alzò,
+indossò una vestaglia ampia e uscì dalla sua stanza al buio, salendo la scala fino alla camera di suo fratello. La porta era chiusa, così l’aprì dolcemente e gli parlò, avvicinandosi al letto con passo silenzioso.
+
+Si inginocchiò accanto a lui, gli passò il braccio intorno al collo e lo attirò verso di sé. Sapeva che fingeva solo di dormire, ma non gli disse nulla.
+
+Cominciò a poco a poco come se fosse appena stato svegliato e chiese chi era quello e che cosa succedeva.
+
+«Tom, hai qualcosa da dirmi? Se mi hai mai amato nella tua vita e hai nascosto qualcosa a tutti gli altri, dimmelo.»
+
+'Non so cosa intendi, Loo. Hai sognato.'
+
+«Mio caro fratello:» si appoggiò la testa sul suo cuscino e i suoi capelli gli ricaddero addosso come se volesse nasconderlo a tutti tranne che a lei stessa: «non hai nulla da dirmi?  Non puoi dirmi nulla, se lo vuoi?  Non potrai mai dirmi nulla che mi cambi.  O Tom, dimmi la [[Truth|verità]]!»
+
+'Non so cosa intendi, Loo!'
+
+«Come giaci qui [[Alone|sola]], mia cara, nella [[Melancholy|malinconica]] [[Night|notte]], così dovrai giacere da qualche parte una [[Night|notte]], quando anche io, se sarò ancora in vita allora, ti avrò lasciata.  Come sono qui accanto a te, scalzo, svestito, indistinguibile nell'oscurità, così dovrò giacere per tutta la [[Night|notte]] del mio [[Decay|deperimento]], finché non sarò
+[[Dust|polvere]].  Nel nome di quel [[Time|tempo]], Tom, dimmi la [[Truth|verità]] ora!»
+
+'Che cosa vuoi sapere?'
+
+«Ne sei certo;» nella forza del suo [[Love|amore]] lo strinse al seno come se fosse un [[Child|bambino]]; «che non ti rimprovererò. Ne sei certo che sarò compassionevole e fedele a te. Ne sei certo che ti salverò a qualunque costo. O Tom, non hai nulla da dirmi? Sussurra molto piano. Di' solo "sì" e ti capirò!»
+
+Lei gli avvicinò l'orecchio alle labbra, ma lui rimase ostinatamente silenzioso.
+
+'Niente da dire, Tom?'
+
+«Come posso dire Sì o come posso dire No se non so cosa intendi?
+Loo, sei una ragazza coraggiosa e gentile, degna, comincio a pensare,
+di un fratello migliore di me. Ma non ho altro da dire. Vai a letto, vai
+a letto».
+
+«Sei stanca», sussurrò poco dopo, più nel suo solito modo.
+
+'Sì, sono completamente esausto.'
+
+'È stato un giorno così frenetico e agitato. Sono state fatte nuove scoperte?'
+
+'Solo quelli di cui avete sentito parlare da lui.'
+
+«Tom, hai detto a qualcuno che siamo andati a far visita a quelle persone e che li abbiamo visti tutti e tre insieme?»
+
+«No. Non sei stato tu stesso a chiedermi in particolare di tenerlo nascosto quando mi hai chiesto di andarci con te?»
+
+'Sì. Ma allora non sapevo cosa sarebbe successo.'
+
+'Nemmeno io. Come avrei potuto?'
+
+Le rispose con questa battuta molto prontamente.
+
+«Dovrei dire, dopo quello che è successo», disse sua sorella, in piedi accanto al letto - si era gradualmente ritirata e alzata, «che ho fatto quella visita? Dovrei dirlo? Devo dirlo?»
+
+«Buon Dio, Loo», rispose suo fratello, «non sei solita chiedermi consiglio. Di’ quello che vuoi. Se lo tieni per te, io lo terrò per me. Se lo rivelerai, la cosa finirà lì».
+
+Era troppo buio perché l'uno potesse vedere il volto dell'altro;
+ma sembravano entrambi molto attenti e riflettevano prima di parlare.
+
+'Tom, credi che l'uomo a cui ho dato i soldi sia davvero coinvolto in questo crimine?'
+
+'Non lo so. Non vedo perché non dovrebbe essere.'
+
+Mi sembrava un uomo onesto.
+
+«Un'altra persona può sembrarvi disonesta e non esserlo affatto». Ci fu una pausa perché aveva esitato e si era fermato.
+
+«In breve», riprese Tom come se avesse preso una decisione, «se ci si mette così, forse ero talmente lontano dall'essere del tutto dalla sua parte che lo portai fuori dalla porta per dirgli tranquillamente che pensavo potesse considerarsi molto [[Well|ben]] messo a ricevere un colpo di fortuna come quello che aveva avuto da mia sorella, e che speravo facesse buon uso di esso. Ricordate se lo portai fuori o no. Non dico nulla contro quell'uomo; potrebbe essere una brava persona, per quel che ne so; [[Hope|spero]] lo sia».
+
+'È stato offeso da quello che hai detto?'
+
+«No, l'ha presa abbastanza [[Well|bene]]; è stato abbastanza gentile. Dove sei, Loo?»
+Si sedette sul letto e la baciò. «Buona [[Night|notte]], mia cara, buona [[Night|notte]].»
+
+'Non hai altro da dirmi?'
+
+'No. Cosa avrei dovuto fare? Non vorrai che ti dica una bugia!'
+
+«Non vorrei che lo facessi questa [[Night|sera]], Tom, di tutte le sere della tua vita; molte e molto più felici come io [[Hope|spero]] che saranno.»
+
+«Grazie, mia cara Loo. Sono così stanco che sono sicuro di [[Wonder|meravigliarmi]] di non dire nulla per andare a [[Sleep|dormire]]. Vai a letto, vai a letto».
+
+Baciandola di nuovo, si voltò, tirò la coperta sopra la testa e rimase immobile come se fosse giunto quel [[Time|momento]] in cui lei lo aveva pregato. Lei rimase per qualche [[Time|tempo]] accanto al letto prima di allontanarsi lentamente. Si fermò sulla porta, si guardò indietro dopo averla aperta e gli chiese se l'avesse chiamata? Ma lui rimase immobile, e lei chiuse dolcemente la porta e tornò nella sua stanza.
+
+Allora il povero ragazzo guardò cautamente e vide che era sparita; si alzò dal letto, chiuse la porta a chiave e si gettò di nuovo sul cuscino: strappandosi i capelli, piangendo con rabbia, amandola controvoglia, respingendosi con odio ma senza pentimento e respingendo non meno odiosamente e inutilmente tutto il bene del mondo.
+
 
 
 <span class="atom-split" data-atom="chapter_62--part_01" data-title="Hard Times — Chapter 9 (part 1)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="motif/garden,motif/memory,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/honour,concept/nature"></span>
@@ -19855,6 +23747,47 @@ are!  Mrs. Bounderby will be very glad to be relieved of the trouble, I
 believe.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IX
+SENTENDO L'ULTIMO DI TUTTO QUESTO
+
+La signora SPARSIT, che si ritirava per riprendere il tono dei suoi nervi nel rifugio del signor Bounderby, teneva un tale sguardo acuto, [[Night|notte]] e giorno, sotto le sue sopracciglia coriolanee, che i suoi occhi, come due fari su una costa di ferro, avrebbero potuto mettere in guardia tutti i marinai prudenti da quella roccia audace del suo naso romano e dalla regione oscura e frastagliata nelle sue vicinanze, se non fosse stato per la placidità del suo comportamento. Sebbene fosse difficile credere che il suo ritiro per la [[Night|notte]] potesse essere altro che una formalità, tanto severamente svegli erano quei suoi occhi classici e tanto impossibile sembrava che quel naso rigido potesse cedere a qualsiasi influenza rilassante, tuttavia il suo modo di sedere, lisciando i guanti scomodi, per non dire ruvidi (erano fatti di un tessuto fresco come una dispensa per la carne), o di amblare verso destinazioni ignote con il piede nella staffa di cotone, era così perfettamente sereno che la maggior parte degli osservatori sarebbe stata costretta a supporre che fosse una colomba, incarnata da qualche capriccio della [[Nature|natura]], nel tabernacolo terrestre di un uccello dell'ordine dei becchi ad uncino.
+
+Era una donna davvero straordinaria nel girovagare per la [[house|casa]]. Come riuscisse ad andare da un piano all'altro era un mistero irrisolvibile. Una signora così rispettabile e di altolocata non poteva essere sospettata di saltare giù dalle ringhiere o scivolarvi lungo, eppure la sua straordinaria facilità di movimento suggeriva l'idea più assurda. Un'altra circostanza degna di nota in Mrs Sparsit era che non si affrettava mai. Scendeva dal tetto all'atrio con una velocità consumata, eppure al momento del suo arrivo aveva pienamente il controllo del respiro e della dignità. Non fu mai vista da occhio umano andare a gran velocità.
+
+Si dimostrò molto gentile con il signor Harthouse e intrattenne una piacevole conversazione con lui poco dopo il suo arrivo. Gli fece un elegante inchino nel [[Garden|giardino]] una mattina prima di colazione.
+
+«Mi sembra ieri, signore», disse la signora Sparsit, «che io avessi l'[[Honour|onore]] di riceverla in banca quando fu così gentile da voler conoscere il recapito del signor Bounderby.»
+
+«Un'occasione che sono sicuro non dimenticherò mai nel corso dei secoli», disse il signor Harthouse, inchinandosi verso la signora Sparsit con l'aria più svogliata possibile.
+
+«Viviamo in un mondo singolare, signore», disse la signora Sparsit.
+
+«Ho avuto l'[[Honour|onore]], per una coincidenza di cui vado fiero, di aver fatto un'osservazione simile nel suo effetto, sebbene non espressa in modo così epigrammatico.»
+
+«Un mondo singolare, direi, signore», proseguì la signora Sparsit; dopo aver accettato il complimento con un abbassamento delle sue sopracciglia scure, non del tutto così miti nella loro espressione come la sua voce era nei suoi toni dolci; «per quanto riguarda le intimità che formiamo in un [[Time|momento]], con individui di cui eravamo completamente ignari, in un altro. Ricordo, signore, che in quell'occasione lei è arrivato a dire addirittura di essere effettivamente preoccupato per la signorina Gradgrind.»
+
+«La vostra [[Memory|memoria]] mi rende più [[Honour|onore]] di quanto la mia insignificanza meriti. Ho approfittato dei vostri gentili suggerimenti per correggere la mia timidezza, e non è necessario aggiungere che erano perfettamente accurati. Il talento della signora Sparsit per—infatti per qualsiasi cosa richieda precisione—con una combinazione di forza d'animo—e Famiglia—è troppo abitualmente sviluppato per ammettere qualsiasi dubbio». Era quasi sul punto di addormentarsi su questo complimento; ci mise così tanto a finirlo, e la sua mente vagò molto nel corso della sua esecuzione.
+
+«Avete trovato la signorina Gradgrind — non riesco proprio a chiamarla signora Bounderby, è davvero molto assurdo da parte mia — giovane come l'avevo descritta?» domandò dolcemente la signora Sparsit.
+
+'Lei ha ritratto perfettamente,' disse il signor Harthouse, 'la sua immagine morta.'
+
+«Molto affascinante, signore», disse la signora Sparsit facendo ruotare lentamente le sue muffole l'una sull'altra.
+
+'Assolutamente sì.'
+
+«Si era soliti pensare», disse la signora Sparsit, «che la signorina Gradgrind mancasse di vivacità, ma confesso che mi sembra notevolmente e sorprendentemente migliorata sotto questo aspetto.  Ay, ed ecco qui il _signor_ Bounderby!» esclamò la signora Sparsit, annuendo molte volte con la testa, come se non avesse fatto altro che parlare e pensare a lui. «Come si sente questa mattina, signore?  La prego di mostrarsi allegro, signore».
+
+Ora, questi persistenti lenimenti della sua miseria e alleggerimenti del suo fardello avevano cominciato a questo [[Time|punto]] ad avere l'effetto di rendere il signor Bounderby più mite del solito nei confronti della signora Sparsit, e più duro del solito con quasi tutti gli altri dalla sua moglie in giù. Così, quando la signora Sparsit disse con un forzato leggerezza d'animo: «Desidera fare colazione, signore, ma sono sicura che la signorina Gradgrind sarà presto qui per presiedere a tavola», il signor Bounderby rispose: «Se aspettassi di essere curato da mia moglie, signora, credo che lei sappia [[Well|benissimo]] che dovrei aspettare fino al Giorno del Giudizio, quindi la prego _lei_ di occuparsi della teiera». La signora Sparsit acconsentì e riprese il suo vecchio posto a tavola.
+
+Questo rese di nuovo l’eccellente donna immensamente sentimentale.
+Era così umile che quando apparve Louisa, si [[Rose|alzò]], protestando che non avrebbe mai potuto pensare di sedersi in quel posto nelle circostanze attuali, anche se aveva spesso avuto l’[[Honour|onore]] di preparare la colazione per il signor Bounderby prima della signora Gradgrind — chiedo scusa, volevo dire la signorina Bounderby — spero che mi si possa perdonare, ma non riesco ancora a fare bene i nomi anche se confido di abituarmici presto — aveva assunto la sua attuale posizione. Era solo (come osservò) perché la signorina Gradgrind era un po’ in ritardo e il [[Time|tempo]] del signor Bounderby era così prezioso, e sapeva che da sempre era essenziale che lui facesse colazione all’ora giusta, per cui si era presa la libertà di acconsentire alla sua richiesta; anche se la volontà di lui era stata una legge per lei.
+
+«Ecco! Si fermi lì, signora», disse il signor Bounderby, «si fermi lì!
+Credo che la signora Bounderby sarà molto contenta di essere sollevata da questo disturbo.»
+
 
 
 <span class="atom-split" data-atom="chapter_62--part_02" data-title="Hard Times — Chapter 9 (part 2)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/innocent,motif/childhood,motif/death,motif/dreams,motif/dust,motif/garden,motif/home,motif/marriage,motif/night,motif/spring,motif/time,motif/well,concept/alienation,concept/charity,concept/history,concept/self,concept/suffering,form/history,setting/london,character/james_harthouse,character/josiah_bounderby,character/tom_gradgrind"></span>
@@ -19966,6 +23899,46 @@ of every [[spring]] and fountain in her young heart as it gushed out.  The
 golden waters were not there.  They were flowing for the fertilization of
 the land where grapes are gathered from thorns, and figs from thistles.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Non dica questo, signore», rispose la signora Sparsit quasi con severità «perché è molto crudele verso la signora Bounderby. E non essere gentile non è da lei, signore».
+
+«Può stare tranquilla, signora — può stare molto tranquilla, vero, Loo?» disse il signor Bounderby con tono arrogante alla moglie.
+
+'Naturalmente. Non ha importanza. Perché dovrebbe essere importante per me?'
+
+«Perché dovrebbe essere importante per qualcuno, signora Sparsit?» disse il signor Bounderby, gonfiandosi di offesa. «Lei attribuisce troppa importanza a queste cose, signora. Giorgio! Si lascerà corrompere in alcune delle sue idee qui. Lei è antiquata, signora. È indietro rispetto ai [[Tom Gradgrind|figli di Tom Gradgrind]]’s [[Time|time]].»
+
+«Che cosa ti succede?» chiese Louisa, fredda e sorpresa. «Cosa ti ha offeso?»
+
+«Offesa!» ripeté Bounderby. «Credete che se qualcuno mi avesse offeso non lo direi e chiederei di essere ristabilito nei miei diritti? Io sono un uomo diretto, credo. Non vado a cercare scuse per aggirare il problema».
+
+«Suppongo che nessuno abbia mai avuto motivo di pensare che tu fossi troppo diffidente o troppo delicato», rispose Louisa con calma: «Non ho mai fatto questa obiezione a te, né come [[Child|bambina]] né come donna. Non capisco cosa vorresti.»
+
+«Avere?» rispose il signor Bounderby. «Nulla. Altrimenti non sapresti tu, Loo Bounderby, perfettamente [[Well|bene]] che io, [[Josiah Bounderby]] di Coketown, l'avrei voluto?»
+
+Lo guardò mentre batteva il pugno sul tavolo e faceva tintinnare le tazze, con un'espressione orgogliosa in volto che era una novità, pensò Mr. Harthouse.
+«Questa mattina siete incomprensibile», disse Louisa. «Vi prego di non prendervi ulteriori disturbi per spiegarvi. Non sono curiosa di conoscere il vostro significato. Che importanza ha?»
+
+Non si disse più nulla su questo argomento e ben presto Mr. Harthouse tornò a essere allegramente distratto sui temi più indifferenti. Ma da quel giorno l'influenza esercitata dalla signorina Sparsit su Mr. Bounderby avvicinò sempre di più Louisa e [[James Harthouse]] e rafforzò la pericolosa [[Alienation|alienazione]] dal marito e la confidenza contro di lui con un altro, in cui era caduta a poco a poco così finemente che non avrebbe potuto ritracciarli neanche se ci avesse provato. Ma se mai ci avesse provato o no, rimaneva nascosto nel suo cuore chiuso.
+
+La signora Sparsit fu così colpita in questa particolare occasione che,
+aiutando il signor Bounderby con il cappello dopo la colazione e rimanendo poi [[Alone|sola]]
+con lui nell'atrio, gli stampò un casto bacio sulla mano, mormorò
+"il mio benefattore!" e si ritirò, sopraffatta dal dolore. Eppure è un fatto
+indubitabile, noto a questa [[history|storia]], che cinque minuti dopo che lui aveva lasciato la [[house|casa]] con lo stesso cappello, la stessa discendente degli Scadgers e parente per matrimonio dei Powler,
+agitò il guanto destro in direzione del suo ritratto, fece una smorfia di disprezzo a quell'opera d'arte
+e disse "ti serve proprio, stupido, e mi fa piacere."
+
+Il signor Bounderby non era ancora lontano quando apparve Bitzer.
+Bitzer era arrivato in treno, fischiando e cigolando lungo la lunga fila di archi che attraversavano il selvaggio territorio delle miniere di carbone passate e presenti, con un espresso da Stone Lodge. Era una nota affrettata per informare Louisa che la signora Gradgrind era gravemente malata. Non era mai stata [[Well|bene]] in tutta la vita della figlia; ma negli ultimi giorni aveva peggiorato, continuando a declinare durante tutta la [[Night|notte]], e ora era quasi morta, almeno quanto le permettevano le sue limitate capacità di trovarsi in uno stato che implicasse anche il più vago [[Ghost|desiderio]] di uscirne.
+
+Accompagnata dal più leggero dei facchini, un servitore pallido e adatto alla porta della [[Death|morte]] quando la signora Gradgrind bussò, Louisa si diresse rombando verso Coketown, oltre le miniere di carbone passate e presenti, ed fu trascinata nelle sue fumose fauci. Mandò via il messaggero ai suoi affari e partì a cavallo per la sua vecchia [[Home|casa]].
+
+Da quando si era sposata, vi era stata raramente. Suo padre di solito setacciava e setacciava la sua discarica parlamentare a [[London|Londra]] (senza che si notasse avesse tirato fuori molti oggetti preziosi tra le immondizie) ed era ancora impegnato nella cava nazionale di [[Dust|polvere]]. Sua madre aveva considerato la visita più un disturbo che altro, mentre giaceva sul suo divano; i giovani, Louisa si sentiva del tutto inadatta a frequentarli; non era mai più riuscita ad ammorbidirsi verso Sissy da quando, quella [[Night|notte]], la figlia dell'attrice itinerante aveva alzato gli occhi per guardare la futura moglie del signor Bounderby. Non aveva alcun motivo di tornarci e vi era andata raramente.
+
+Né, mentre si avvicinava alla sua vecchia [[Home|casa]] ora, nessuna delle migliori influenze della vecchia [[Home|casa]] scese su di lei. I [[Dreams|sogni]] dell'[[Childhood|infanzia]]—le sue favole aeree; i suoi adornamenti eleganti, belli, umani e impossibili del mondo oltre: così buoni da essere creduti una volta, così buoni da essere ricordati quando superati, perché allora il più piccolo tra loro raggiunge la statura di una grande [[Charity|Carità]] nel cuore, soffrendo poco i bambini a venire in mezzo ad essa e a mantenere con le loro mani pure un [[Garden|giardino]] nei sentieri pietrosi di questo mondo, dove sarebbe meglio per tutti i figlioli d'Adamo che si riscaldassero più spesso al sole, semplici e fiduciosi, e non sapienti del mondo—cosa aveva a che fare lei con questi? Ricordi di come avesse viaggiato verso il poco che sapeva, per le strade incantate di ciò che lei e milioni di creature [[Innocent|innocenti]] avevano sperato e immaginato; di come, venendo prima alla Ragione attraverso la tenera luce della Fantasia, avesse visto in essa un dio benefico, che deferenziava a dei altrettanto grandi quanto se stesso; non un grimido Idolo, crudele e freddo, con le sue vittime legate mani e piedi, e la sua grande forma muta eretta con uno sguardo cieco, mai da muoversi per nulla tranne che per tanti calcolati tonnellaggi di leva—cosa aveva a che fare lei con questi? I suoi ricordi di [[Home|casa]] e [[Childhood|infanzia]] erano ricordi dell'essiccamento di ogni [[spring|sorgente]] e fontana nel suo giovane cuore mentre sgorgava. Le acque dorate non c'erano. Scorreva per la fertilizzazione della terra dove l'uva viene raccolta dalle spine, e le fighe dai cardi.
 
 
 
@@ -20086,6 +24059,78 @@ Gradgrind, emerged from the [[Shadow|shadow]] in which man walketh and disquiete
 himself in vain, took upon her the dread solemnity of the sages and
 patriarchs.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Entrò nella [[house|casa]] con un pesante e indurito dolore addosso, e nella stanza di sua madre.
+Da quando aveva lasciato la [[Home|casa]], Sissy era vissuta con il resto della famiglia in condizioni di parità.  Sissy era al fianco di sua
+madre; e Jane, sua sorella, ora di dieci o dodici anni, si trovava nella stanza.
+
+Ci furono grandi difficoltà prima che si potesse far sapere a Mrs Gradgrind
+che il suo [[Child|figlio]] maggiore era lì.  Era distesa, appoggiata su un divano,
+per puro automatismo: quasi nella sua vecchia posizione abituale, quanto più
+era possibile mantenere una persona così indifesa. Aveva rifiutato in modo assoluto di andare a letto; sostenendo che se lo avesse fatto non ne avrebbe mai sentito parlare per il resto della vita.
+
+La sua voce debole sembrava così lontana tra i suoi panni, e il suono di un'altra voce che le parlava impiegava tanto [[Time|tempo]] ad arrivare alle sue orecchie, che avrebbe potuto essere sdraiata in [[Bottom|fondo]] a un [[Well|pozzo]]. La povera signora era più vicina alla [[Truth|Verità]] di quanto non fosse mai stata: e questo aveva molto a che fare con la cosa.
+
+Quando le fu detto che la signora Bounderby era lì, lei rispose, in modo [[Cross|equivoco]], di non averlo mai chiamato con quel nome da quando si era sposato con Louisa; che, in attesa della sua scelta di un nome obiettivo, lo aveva chiamato J; e che al momento non poteva allontanarsi da quella regola, non essendo ancora provvista di una sostituta permanente.  Louisa era seduta accanto a lei da alcuni minuti e le aveva parlato spesso prima che arrivasse a capire chi fosse. Poi sembrò comprendere tutto in un attimo.
+
+«[[Well|Beh]], mia cara», disse la signora Gradgrind, «e [[Hope|spero]] che tu stia andando avanti in modo soddisfacente per te stessa. È stato tutto opera di tuo padre. Ci ha messo il cuore. E dovrebbe saperlo».
+
+'Voglio sentire parlare di te, mamma; non di me.'
+
+«Volete sapere qualcosa di me, mia cara? Sono sicuro che è una novità, se c'è qualcuno che vuole saperne di me. Non sto affatto [[Well|bene]], Louisa. Molto debole e stordito».
+
+«Soffre, cara mamma?»
+
+«Penso che ci sia un [[Pain|dolore]] da qualche parte nella stanza», disse la signora Gradgrind, «ma non potrei dire con certezza di averlo io».
+
+Dopo questo strano discorso, rimase silenziosa per qualche [[Time|tempo]]. Louisa,
+tenendole la mano, non poteva sentire alcun polso; ma baciandola, poteva vedere un leggero e sottile filo di vita in movimento tremolante.
+
+«Non vedete quasi mai vostra sorella», disse la signora Gradgrind. «Cresce come voi. Vorrei che la guardaste. Cissy, portala qui».
+
+La portarono dentro e lei rimase lì con la mano di sua sorella nella propria. Louisa aveva visto che teneva il braccio attorno al collo di Sissy, e sentiva la differenza di questo approccio.
+
+'Vedi la somiglianza, Louisa?'
+
+'Sì, mamma. Penso che le somiglio. Ma, '
+
+«Eh!  Sì, lo dico sempre», esclamò la signora Gradgrind con una vivacità inaspettata. «E questo mi ricorda. Io, voglio parlarti, mia cara. Sissy, brava ragazza, lasciaci [[Alone|sole]] un minuto». Louisa aveva lasciato la mano: aveva pensato che il volto di sua sorella fosse migliore e più luminoso di quanto non lo fosse mai stato il suo; vi aveva visto, non senza una crescente sensazione di risentimento, anche in quel luogo e a quell'[[Time|ora]], qualcosa della dolcezza dell'altro volto nella stanza; il dolce volto dagli occhi fiduciosi, reso più pallido dal vegliare e dalla compassione che non dai riccioli scuri.
+
+Rimasta [[Alone|sola]] con sua madre, Louisa la vide giacere con un'espressione terribilmente calma sul volto,
+come se stesse galleggiando via su qualche grande [[Water|corso d'acqua]], ogni resistenza finita, contenta di lasciarsi trasportare dalla corrente.  Le portò nuovamente l'[[Shadow|ombra]] della mano alle labbra e la richiamò in sé.
+
+'Volevi parlarmi, mamma.'
+
+«Eh? Sì, certo, mia cara. Sai che tuo padre è quasi sempre via in questi giorni e quindi devo scrivergliene».
+
+'Su cosa, mamma? Non preoccuparti. Su cosa?'
+
+«Dovete ricordare, mia cara, che ogni volta che ho detto qualcosa su qualsiasi argomento non ho mai smesso di sentirne parlare: e quindi da tempo ho smesso di dire qualunque cosa.»
+
+«Vi sento, madre». Ma solo abbassandosi fino al suo orecchio e allo stesso [[Time|tempo]] osservando con attenzione le labbra mentre si muovevano, riusciva a collegare quei suoni così deboli e spezzati in una qualsiasi catena di connessione.
+
+«Avete imparato un sacco di cose, Louisa, e così ha fatto tuo fratello.  Ologie di ogni tipo dalla mattina alla [[Night|notte]]. Se c'è ancora qualche Ologia, di qualsiasi genere, che non sia stata consumata in questa [[house|casa]], tutto quello che posso dire è che [[Hope|spero]] di non dover mai sentire il suo nome.»
+
+«Vi sento, mamma, quando avrete la forza di continuare». Questo per impedirle di allontanarsi fluttuando.
+
+«Ma c'è qualcosa — non una scienza — che tuo padre ha trascurato o dimenticato,
+Louisa. Non so cosa sia. Sono spesso seduto accanto a Sissy e ci ho pensato.
+Non ne saprò mai il nome. Ma forse lo scoprirà tuo padre. Mi rende inquieto.
+Voglio scrivergli, per l'amor di Dio, per capire che cos'è. Dammi una penna,
+dammi una penna».
+
+Anche il potere del riposo era svanito, tranne per la povera testa,
+che riusciva appena a girarsi da una parte e dall'altra.
+
+Lei immaginò tuttavia che la sua richiesta fosse stata esaudita e che
+la penna che non avrebbe potuto tenere fosse nella sua mano.  Non ha importanza quali
+figure di meraviglioso nulla significhino abbia iniziato a tracciare sui suoi involucri.
+La mano si fermò presto nel mezzo di esse; la luce che era sempre stata
+debole e fioca dietro la debole trasparenza, si spense; e persino la signora Gradgrind,
+emersa dall'[[Shadow|ombra]] in cui l'uomo cammina e si agita invano, assunse la solenne maestà dei saggi
+e dei patriarchi.
 
 
 
@@ -20272,6 +24317,88 @@ seldom so much as darkly shook her right mitten (with her fist in it), at
 the figure coming down.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO X
+LA SCALA DI SIGNORA SPARSIT
+
+I nervi della signora Sparsit tardando a ritrovare il loro tono abituale, la degna donna si fermò per alcune settimane nella ritirata del signor Bounderby, dove, nonostante il suo carattere da ancella basato sulla consapevolezza della sua condizione mutata, si rassegnò con nobile forza a vivere, come si suol dire, nel lusso e ad alimentarsi delle prelibatezze del paese. Durante tutto questo periodo di riposo dalla tutela della Banca, la signora Sparsit fu un esempio di coerenza; continuando a compatire il signor Bounderby in sua presenza come raramente si compatisce un uomo e chiamando il suo ritratto un "Noodle" in faccia al dipinto con la massima acrimonia e disprezzo.
+
+Il signor Bounderby, avendo deciso nella sua esplosiva composizione che la signora Sparsit era una donna di gran lunga superiore a rendersi conto che aveva quella [[Cross|croce]] generale addosso per i suoi meriti (perché non aveva ancora stabilito quale fosse), e inoltre che Louisa avrebbe obiettato contro di lei come visitatrice abituale se si fosse accordato con la sua [[Greatness|grandezza]] che ella potesse obiettare a qualcosa che lui sceglieva di fare, decise di non perdere facilmente di vista la signora Sparsit. Così quando i suoi nervi furono tesi fino al punto di consumare di nuovo fette biscottate in [[Solitude|solitudine]], le disse a tavola il giorno prima della sua partenza: «Le dico una cosa, signora; verrà qui da me di sabato, finché dura questo bel tempo, e resterà fino a lunedì». A cui la signora Sparsit rispose in sostanza, sebbene non fosse del [[Persuasion|credo]] maomettano: «Udito è obbedito».
+
+Ora, la signora Sparsit non era una donna poetica; ma le venne in mente un'idea del tipo di una fantasia allegorica. Molte osservazioni su Louisa e molte conseguenti considerazioni sul suo comportamento imperscrutabile, che acuivano e affilavano l'astuzia della signora Sparsit, dovevano averle dato come un aiuto in termini di ispirazione. Si costruì nella mente una maestosa Scala, con un oscuro pozzo di vergogna e rovina alla [[Bottom|base]]; e su quegli scalini, giorno dopo giorno e ora dopo ora, vedeva Louisa scendere.
+
+Divenne l'occupazione della vita di Mrs. Sparsit guardare verso la sua scala e osservare Louisa che scendeva. A volte lentamente, a volte velocemente, a volte facendo più gradini alla volta, a volte fermandosi, ma mai tornando indietro. Se fosse tornata indietro anche una sola volta, sarebbe potuta essere la [[Death|morte]] di Mrs. Sparsit per sconforto e dolore.
+
+Era in costante declino fino al giorno in cui il signor Bounderby lanciò l'invito settimanale sopra riportato. La signora Sparsit era di buon umore e incline alla conversazione.
+
+«E prego, signore», disse lei, «se posso permettermi di fare una domanda riguardante un argomento su cui dimostri riservatezza - il che è davvero audace da parte mia, poiché [[Well|ben]] so che hai una ragione per tutto ciò che fai - hai ricevuto notizie relative al furto?»
+
+«Perché, signora, no; non ancora. Date le circostanze, non me lo aspettavo ancora. Roma non fu costruita in un giorno, signora».
+
+«Molto vero, signore», disse la signora Sparsit scuotendo il capo.
+
+'Neanche tra una settimana, signora.'
+
+«No davvero, signore», rispose la signora Sparsit con una dolce [[Melancholy|malinconia]].
+
+«Nel medesimo modo, signora», disse Bounderby, «posso aspettare, sa? Se [[Josiah Bounderby]] può aspettare, Romolo e Remo potevano aspettare. Erano però più fortunati di me in giovinezza. Avevano una lupa per [[Nurse|balia]]; io avevo solo una lupa per nonna. Non dava latte, signora; dava lividi. Era un vero Alderney, all'epoca».
+
+«Ah!» sospirò e rabbrividì la signora Sparsit.
+
+«No, signora», continuò Bounderby, «non ho saputo altro al riguardo.
+È però già nelle mani giuste; e il giovane Tom, che ultimamente si sta dedicando più agli affari — una novità per lui; non ha avuto l'istruzione _che io_ ho avuto — ci sta dando una mano. La mia direttiva è: tenetelo nascosto e fate in modo che sembri passato. Fate quello che volete sotto la [[Rose|rosa]], ma non lasciate trapelare nulla; altrimenti mezza dozzina di loro si metterà insieme e tirerà fuori dalla portata questo tizio che è scappato per sempre. Tenetelo nascosto, e i ladri pian piano diventeranno più fiduciosi, e noi li prenderemo».
+
+«Davvero molto perspicace, signore», disse la signora Sparsit. «Molto interessante. La vecchia di cui ha parlato, signore —»
+
+«La vecchia di cui ho parlato, signora», disse Bounderby, accorciando la questione,
+poiché non c'era nulla di cui vantarsi, «non è stata ancora presa; ma può giurare che lo sarà,
+se questo le dà qualche soddisfazione alla sua vecchia mente malvagia.  Nel frat [[Time|tempo]], signora, sono dell'opinione, se mi chiede il mio parere, che meno si parla di lei e meglio è».
+
+La stessa sera, la signora Sparsit, alla [[Window|finestra]] della sua camera, riposandosi dalle sue operazioni di imballaggio, guardò verso la grande scala e vide che Louisa continuava a scendere.
+
+Ella sedeva accanto al signor Harthouse in un angolo del [[Garden|giardino]], parlando a voce molto bassa;
+egli stava chino su di lei, mentre sussurravano insieme e il suo volto
+quasi sfiorava i suoi capelli.  «Se non proprio!» disse la signora Sparsit, tendendo al massimo gli occhi da falco.
+La signora Sparsit era troppo lontana per sentire una sola parola del loro discorso o anche solo sapere che stavano parlando a bassa voce,
+se non dallo sguardo delle loro figure; ma ciò che dissero fu questo:
+
+'Vi ricordate quell'uomo, signor Harthouse?'
+
+'Oh, perfettamente!'
+
+'Il suo volto, il suo comportamento e ciò che ha detto?'
+
+«Perfettamente. E mi sembrò una persona infinitamente noiosa.
+Eccessivamente prolisso e pedante. Era esperto nel fare lunghi discorsi,
+nella scuola dell'eloquenza delle umili virtù; ma, ve lo assicuro, pensai in quel [[Time|momento]], “Mio caro amico, stai esagerando!”»
+
+'È stato molto difficile per me pensare male di quell'uomo.'
+
+'Mia cara Louisa - come dice Tom.' Che non ha mai detto. 'Non sai nulla di buono su quel ragazzo?'
+
+'No, assolutamente.'
+
+'Né di nessun'altra persona simile?'
+
+«Come potrei», replicò lei con più della sua prima maniera di quando lui l'aveva vista ultimamente, «quando non so nulla di loro, uomini o donne?»
+
+«Mia cara Louisa, allora acconsenti a ricevere la sottomessa rappresentazione del tuo devoto amico, che conosce qualcosa di diverse varietà dei suoi eccellenti simili — poiché eccellenti sono, e io sono ben disposto a crederlo, nonostante certi piccoli difetti come quello di appropriarsi sempre di ciò che possono mettere le mani su. Questo tizio parla. [[Well|Bene]]; ogni tizio parla. Professa la [[morality|moralità]]. [[Well|Bene]]; tutti i tipi di impostori professano la [[morality|moralità]]. Dalla [[house|Camera]] dei Comuni alla [[house|Casa]] di Correzione, c'è una generale professione di [[morality|moralità]], tranne tra le nostre persone; è davvero questa eccezione che rende le nostre persone così rigogliose. Hai visto e sentito il caso. Ecco uno dei ceti piumati fermato bruscamente dal mio stimato amico Mr. Bounderby — che, come sappiamo, non possiede quella delicatezza che addolcirebbe una mano così stretta. Il membro del ceto piumato è stato ferito, esasperato, ha lasciato la [[house|casa]] brontolando, ha incontrato qualcuno che gli ha proposto di entrare in qualche modo in questa faccenda della Banca, è entrato, ha messo qualcosa nel suo taschino che prima non conteneva nulla e si è sollevato enormemente. Davvero sarebbe stato un tizio fuori dal comune, invece che comune, se non avesse approfittato di una tale opportunità. O forse l'ha addirittura ideata lui per intero, se era abbastanza furbo».
+
+«Mi sembra quasi di essere cattiva», rispose Louisa dopo aver seduto pensierosa per un po', «per essere così pronta a concordare con te e sentirmi tanto sollevata nel cuore da ciò che dici.»
+
+«Io dico solo ciò che è ragionevole; niente di peggio. Ne ho parlato più volte con il mio amico Tom — naturalmente rimango in rapporti di perfetta confidenza con Tom — e lui è completamente della mia opinione, e io sono completamente della sua. Vuoi fare una passeggiata?»
+
+Si allontanarono passeggiando tra i vicoli che cominciavano a confondersi nel crepuscolo — lei appoggiata al suo braccio — e lei non immaginava minimamente come stesse scendendo, scendendo, scendendo, per le scale della signora Sparsit.
+
+Di [[Night|notte]] e di giorno, la signora Sparsit lo teneva in piedi. Quando Louisa era arrivata al [[Bottom|fondo]] e scomparsa nel golfo, poteva crollarle addosso se voleva; ma fino ad allora, lì doveva rimanere, un Edificio davanti agli occhi della signora Sparsit. E là Louisa era sempre, sopra di esso.
+
+E sempre scivolando giù, giù, giù!
+
+La signora Sparsit vide venire e andare [[James Harthouse]]; lo sentì nominare qua e là; osservò i cambiamenti del volto che lui aveva studiato; anche lei notò con precisione come e quando si rannuvolava, come e quando si serenava; mantenne i suoi occhi neri spalancati, senza un'ombra di pietà, senza un'ombra di rimorso, completamente assorbita dall'interesse.  Nell'interesse di vederla avvicinarsi sempre più, con nessuna mano che la fermasse, al [[Bottom|fondo]] di questa nuova Scala del Gigante.
+
+Nonostante tutto il rispetto che nutriva per il signor Bounderby, distinto dal suo ritratto, la signora Sparsit non aveva alcuna intenzione di interrompere la discesa. Desiderosa di vederla compiersi eppure paziente, attendeva l'ultima caduta come se fosse la maturazione e il compimento del raccolto delle sue speranze. Immersa nell'attesa, manteneva lo sguardo vigile sulle scale; e raramente faceva altro che scuotere oscuramente il suo guanto destro (con dentro il pugno) verso la figura che scendeva.
+
 
 
 <span class="atom-split" data-atom="chapter_64--part_01" data-title="Hard Times — Chapter 11 (part 1)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/dust,motif/home,motif/journey,motif/lamb,motif/nature,motif/road,motif/silence,motif/time,motif/water,motif/well,concept/fear,concept/hope,concept/nature,concept/self,concept/wonder,setting/london,character/bottom,character/james_harthouse,character/sunday"></span>
@@ -20408,6 +24535,76 @@ relapsed into a hangdog [[Silence|silence]] until there was no more India ale le
 when he said, ‘[[Well]], Mrs. Sparsit, I must be off!’ and went off.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XI
+SEMPRE PIU' IN BASSO
+
+LA figura scese le grandi scale, con passo fermo, sempre più vicina;
+come un peso nell'[[Water|acqua]] profonda, che tende verso l'abisso nero in [[Bottom|fondo]].
+
+Il signor Gradgrind, informato della morte di sua moglie, fece un viaggio da [[London|Londra]] e la seppellì in modo pratico. Poi tornò con prontezza alla discarica nazionale e riprese a setacciare per trovare i pezzi che gli servivano e a spargere il [[Dust|polvere]] negli occhi di altre persone che volevano altri pezzi - in effetti riprese i suoi doveri parlamentari.
+
+Nel frattempo, la signora Sparsit manteneva una vigilanza ininterrotta e attenta. Separata dalla sua scala per tutta la settimana dalla lunghezza di ferro della [[Road|ferrovia]] che divideva Coketown dalla casa di campagna [[house|casa]], riusciva comunque a mantenere la sua osservazione felina su Louisa, attraverso suo marito, suo fratello, [[James Harthouse]], le esternità di lettere e pacchi, attraverso tutto ciò che era animato e inanimato che si avvicinava alle scale. «Il vostro piede sull'ultimo gradino, mia signora», disse la signora Sparsit, apostrofando la figura discendente con l'aiuto del suo guanto minaccioso, «e tutta la vostra arte non riuscirà mai a ingannarmi.»
+
+Che si trattasse di arte o [[Nature|natura]], del ceppo originario del carattere di Louisa o dell'influenza delle circostanze su di esso, la sua curiosa riservatezza sconcertava e al tempo stesso stimolava una persona perspicace come la signora Sparsit. Ci furono momenti in cui il signor [[James Harthouse]] non era sicuro di lei. Ci furono momenti in cui non riusciva a decifrare il volto che aveva studiato così a lungo; e quando questa ragazza solitaria gli appariva un mistero più grande di qualsiasi donna del mondo con una schiera di satelliti pronti ad aiutarla.
+
+Così il [[Time|tempo]] passò; finché accadde che Mr. Bounderby fu chiamato lontano da [[Home|casa]] per affari che richiedevano la sua presenza altrove, per tre o quattro giorni. Fu di venerdì che comunicò questo a Mrs. Sparsit alla Banca, aggiungendo: «Ma lei scenderà domani lo stesso, signora. Scenderà come se ci fossi io. Non farà alcuna differenza per lei».
+
+«La prego, signore», rispose la signora Sparsit con rimprovero, «mi permetta di chiederle di non dire questo. La sua assenza farà una grande differenza per me, signore, come penso lei sappia [[Well|benissimo]].»
+
+«[[Well|Bene]], signora, allora dovete cavartela durante la mia assenza nel modo migliore possibile», disse il signor Bounderby, non del tutto scontento.
+
+«Signor Bounderby», ribatté la signora Sparsit, «la sua volontà è per me una legge, signore; altrimenti potrei essere incline a contestare i suoi gentili ordini, non essendo sicura che sarà altrettanto gradito alla signorina Gradgrind ricevermi come lo è sempre la sua munifica ospitalità. Ma lei non dirà altro, signore. Andrò, su suo invito».
+
+«Perché, quando vi invito nella mia [[house|casa]], signora», disse Bounderby, spalancando gli occhi, «dovrei [[Hope|sperare]] che non ne vogliate un'altra».
+
+«No davvero, signore», rispose la signora Sparsit, «non lo spererei mai. Non dica altro, signore. Vorrei, signore, poterla vedere di nuovo allegra».
+
+«Che cosa intende dire, signora?» si inalberò Bounderby.
+
+«Signore», replicò la signora Sparsit, «in lei c'era un tempo una certa elasticità che ora mi duole di non trovare più. Sia vivace, signore!»
+
+Sotto l'influenza di questa difficile esortazione, sostenuta dal suo occhio compassionevole, il signor Bounderby non poté fare altro che grattarsi la testa in modo debole e ridicolo, per poi affermarsi da lontano, facendosi sentire mentre molestava i piccoli impiegati tutta la mattina.
+
+«Bitzer», disse la signora Sparsit quel pomeriggio, quando il suo mecenate era partito per il suo [[Journey|viaggio]] e la Banca stava chiudendo, «presenti i miei complimenti al giovane signor Thomas e chieda se vuole salire a gustare una costoletta di [[Lamb|agnello]] con salsa di noci e un bicchiere di birra indiana?» Il giovane signor Thomas essendo solitamente sempre pronto per qualsiasi cosa del genere, rispose in modo cortese e la seguì. «Signor Thomas», disse la signora Sparsit, «avendo questi semplici cibi sul tavolo, ho pensato che potesse essere tentato».
+
+«Grazie, signora Sparsit», disse il cucciolo. E si mise al lavoro con aria cupa.
+
+«Come sta il signor Harthouse, signor Tom?» chiese la signora Sparsit.
+
+«Oh, sta bene», disse Tom.
+
+«Dove potrebbe essere al momento?» chiese la signora Sparsit con tono leggero e conversazionale, dopo aver mentalmente dedicato il cucciolo alle Furie per essere così poco comunicativo.
+
+«È andato a caccia nello Yorkshire», disse Tom. «Ieri ha mandato a Loo un paniere grande come mezza chiesa».
+
+«Il tipo di gentiluomo», disse dolcemente la signora Sparsit «su cui si potrebbe scommettere che è un buon tiratore!»
+
+«Scricchiolio», disse Tom.
+
+Era da tempo un giovane dall'aria abbattuta, ma questa caratteristica si era così accentuata di recente che non alzava gli occhi verso nessun volto per più di tre secondi consecutivi. La signora Sparsit aveva quindi ampie possibilità di osservare i suoi sguardi, se lo avesse desiderato.
+
+«Il signor Harthouse è uno dei miei grandi preferiti», disse la signora Sparsit, «come del resto lo è per la maggior parte della gente. Possiamo aspettarci di rivederlo presto, signor Tom?»
+
+«Ebbene, _io_ mi aspetto di vederlo domani», rispose il cucciolo.
+
+«Buone notizie!» esclamò la signora Sparsit con dolcezza.
+
+«Ho un appuntamento con lui per incontrarlo stasera alla stazione qui», disse Tom, «e credo che dopo mangerò con lui. Non verrà in campagna nella [[house|villa]] per una settimana circa, perché è atteso altrove. Almeno, così dice; ma non mi [[Wonder|sorprenderei]] se dovesse fermarsi qui oltre [[Sunday|domenica]] e passare da quelle parti».
+
+«Questo mi ricorda!» disse la signora Sparsit «ti ricorderesti di un messaggio per tua sorella, signorino Tom, se io te lo affidassi?»
+
+«[[Well|Bene]]? Ci proverò», rispose il riluttante marmocchio, «se non è troppo lungo.»
+
+«Sono solo i miei rispettosi saluti», disse la signora Sparsit, «e [[Fear|temo]]
+che non potrò disturbarla con la mia compagnia questa settimana; essendo ancora un po'
+agitata e forse meglio da [[Self|sola]].»
+
+«Oh! Se è tutto qui», osservò Tom, «non importerebbe molto anche se lo dimenticassi, perché Loo non penserà a te a meno che non ti veda.»
+
+Avendo pagato il suo intrattenimento con questo piacevole complimento, egli ricadde in un [[Silence|silenzio]] da cane bastonato finché non rimase più birra indiana, quando disse: «[[Well|Beh]], signora Sparsit, devo andarmene!» e se ne andò.
+
 
 
 <span class="atom-split" data-atom="chapter_64--part_02" data-title="Hard Times — Chapter 11 (part 2)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/cross,motif/dust,motif/garden,motif/home,motif/horse,motif/journey,motif/leaves,motif/love,motif/road,motif/spring,motif/summer,motif/time,motif/window,concept/body,character/bottom"></span>
@@ -20531,6 +24728,68 @@ to fall fast, in heavy drops.
 that its master is at [[Home|home]] and will be charmed to receive me?’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il giorno dopo, sabato, la signora Sparsit rimase seduta alla sua [[Window|finestra]] per tutto il giorno a guardare i clienti che entravano e uscivano, osservando i postini, tenendo d'occhio il traffico generale della strada, rivolgendo molti pensieri nella sua mente, ma soprattutto mantenendo la sua attenzione sulla scala. La sera arrivò, si mise il cappello e lo scialle e uscì tranquillamente: aveva le sue ragioni per aggirarsi in modo furtivo intorno alla stazione da cui sarebbe arrivato un passeggero dello Yorkshire, e preferiva sbirciare dentro girando attorno a pilastri e angoli, e dalle finestre della sala d'attesa delle signore, piuttosto che apparire apertamente nei suoi pressi.
+
+Tom era presente e gironzolava nei paraggi fino a quando non arrivò il treno atteso. Non portò alcun signor Harthouse. Tom aspettò finché la folla si disperse e l'agitazione cessò; poi consultò un elenco di treni affisso al muro e chiese consiglio ai facchini. Fatto ciò, se ne andò a zonzo senza meta, fermandosi in strada per guardare su e giù, togliersi il cappello e rimetterselo, sbadigliare e stiracchiarsi, mostrando tutti i sintomi di una stanchezza mortale che ci si poteva aspettare da chi doveva ancora attendere l'arrivo del treno successivo, tra un'ora e quaranta minuti.
+
+«Questo è un espediente per tenerlo lontano», disse la signora Sparsit, alzandosi dalla noiosa [[Window|finestra]] dell'ufficio da cui lo aveva visto l'ultima volta. «Harthouse ora è con sua sorella!»
+
+Fu un'idea che le venne in un momento di ispirazione e lei partì con la massima velocità per realizzarla. La stazione per il [[house|castello]] era all'estremità opposta della città, il [[Time|tempo]] era poco, la [[Road|strada]] non facile; ma fu così rapida nel trovare una carrozza libera, così veloce a scendere da essa, tirare fuori i soldi, prendere il biglietto e infilarsi sul treno che venne trasportata lungo gli archi che attraversavano le terre di miniere passate e presenti come se fosse stata catturata in una nuvola e trascinata via.
+
+Tutto il [[Journey|viaggio]], immobile nell'aria pur mai lasciato indietro; chiaro agli occhi oscuri della sua mente, come i fili elettrici che governavano una striscia colossale di carta musicale fuori dal cielo serale erano chiari agli occhi oscuri del suo [[Body|corpo]]; la signora Sparsit vide le sue scale con la figura che scendeva. Molto vicino al [[Bottom|fondo]] ora. Sul bordo dell'abisso.
+
+Una sera di settembre coperta da nuvole basse vide sotto le sue palpebre cadenti la signora Sparsit scivolare fuori dalla sua carrozza, scendere i gradini di legno della piccola stazione su una [[Road|strada]] ghiaiosa, [[Cross|attraversarla]] in un viottolo erboso e nascondersi tra il fogliame estivo di rami e [[Leaves|foglie]]. Uno o due [[Birds|uccelli]] tardi che cinguettavano assonnati nei loro nidi, una pipistrello che pesantemente le volava incontro e ripartiva, e l'odore dei suoi passi nel fitto [[Dust|polvere]] che sembrava velluto, furono tutto ciò che la signora Sparsit udì o vide finché non chiuse molto dolcemente un cancello.
+
+Si avvicinò alla [[house|casa]], tenendosi all'interno del boschetto, e la girò,
+spiando tra le [[Leaves|foglie]] dalle finestre più basse.  La maggior parte di esse era
+aperta, come accadeva solitamente in un clima così caldo, ma non c'erano ancora luci
+e tutto era silenzioso.  Provò con il [[Garden|giardino]] senza ottenere risultati migliori.
+Pensò al bosco e si diresse verso di esso, incurante dell'erba alta e delle spine:
+dei vermi, dei lumachi e delle chiocciole, e di tutte le cose striscianti che ci sono. Con i suoi occhi scuri e il suo naso adunco in avanscoperta, la signora
+Sparsit si aprì delicatamente un varco attraverso il fitto sottobosco, così concentrata
+sul suo obiettivo da fare probabilmente lo stesso se il bosco fosse stato pieno di vipere.
+
+Ascolta!
+
+I più piccoli [[Birds|uccelli]] avrebbero potuto cadere dai loro nidi, affascinati dal bagliore degli occhi della signora Sparsit nel buio, mentre si fermava e ascoltava.
+
+Voci basse vicino a lui. La sua voce e la sua. L'appuntamento era davvero un trucco per tenere lontano il fratello! Eccoli là in fondo, accanto all'albero abbattuto.
+
+Curvandosi tra l'erba bagnata di rugiada, la signora Sparsit si avvicinò loro.
+Si raddrizzò e si mise dietro un albero, come Robinson Crusoe nella sua imboscata contro i selvaggi; così vicino a loro che con uno [[spring|scatto]], e non neanche tanto grande, li avrebbe potuti toccare entrambi.  Lui era lì segretamente,
+e non si era mostrato alla [[house|casa]].  Era venuto a cavallo, e
+doveva essere passato attraverso i campi vicini; perché il suo [[Horse|cavallo]] era legato
+al lato del prato della recinzione, a pochi passi.
+
+«Mia carissima [[Love|amore]]», disse lui, «cosa avrei potuto fare? Sapendo che eri [[Alone|sola]], era possibile che rimanessi lontano?»
+
+«Puoi abbassare la testa per renderti più attraente; _io_ non so cosa vedano in te quando la tieni alta», pensò Mrs. Sparsit, «ma tu non immagini nemmeno, mia cara [[Love|amore]], chi ti sta osservando!»
+
+Che lei avesse abbassato la testa era certo. Lo esortò ad andarsene, gli ordinò di andarsene; ma non volse il viso verso di lui né lo alzò. Eppure era strano che sedesse immobile come l'indimenticabile donna in agguato l'aveva sempre vista sedere, in qualsiasi periodo della sua vita. Le mani riposavano una sull'altra, come le mani di una statua; e persino il suo modo di parlare non era affrettato.
+
+«Mia cara [[Child|bambina]]», disse Harthouse; la signora Sparsit vide con piacere che il suo braccio l'abbracciava, «non vorresti sopportare la mia compagnia per un po'?»
+
+'Non qui.'
+
+«Dove, Louisa?
+
+'Non qui.'
+
+«Ma abbiamo così poco [[Time|tempo]] da sfruttare al meglio, e io ho fatto un viaggio tanto lungo,
+e sono così devoto e distratto.  Non è mai esistito uno schiavo allo stesso tempo così devoto e maltrattato dalla sua padrona.
+Aspettarsi il tuo caloroso benvenuto che mi ha riscaldato fino a darmi la vita, e essere accolto nel tuo modo gelido,
+è straziante.»
+
+'Devo ripetere che voglio essere lasciato solo qui?'
+
+'Do dobbiamo incontrarci, mia cara Louisa. Dove ci vediamo?'
+
+Entrambe trasalirono. Anche l'ascoltatrice trasalì, colpevole, perché pensò che ci fosse un altro ascoltatore tra gli alberi. Era solo la pioggia, che cominciava a cadere fitta in pesanti gocce.
+
+«Posso cavalcare fino alla [[house|casa]] tra qualche minuto, fingendo ingenuamente che il suo padrone sia a [[Home|casa]] e sarà felice di ricevermi?»
+
 
 
 <span class="atom-split" data-atom="chapter_64--part_03" data-title="Hard Times — Chapter 11 (part 3)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/shadow,motif/desert,motif/fire,motif/horse,motif/leaves,motif/lightning,motif/love,motif/night,motif/road,motif/tears,motif/water,motif/well,concept/body,concept/fear,concept/renunciation,setting/desert"></span>
@@ -20642,6 +24901,53 @@ her general exterior, such as accumulates on an old park fence in a
 mouldy lane; Mrs. Sparsit had no resource but to burst into [[Tears|tears]] of
 bitterness and say, ‘I have lost her!’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+‘No!’
+
+«I vostri crudeli comandi devono essere obbediti senza esitazione; anche se sono il più sfortunato dei mortali, credo di non aver mai provato nulla per nessuna donna e di essermi infine prostrato ai piedi della più bella, affascinante e imperiosa. Mia adorata Louisa, non posso andare io stesso o lasciare che tu vada in questo crudele abuso del tuo potere».
+
+La signora Sparsit lo vide trattenerla con il suo braccio che la cingeva e lo udì,
+lì per lì, all'interno del suo (della signora Sparsit) avido orecchio, dirle come
+l'amava e come lei fosse la posta per cui desiderava ardentemente giocarsi tutto ciò che aveva nella vita. Gli oggetti che aveva recentemente inseguito,
+divennero privi di valore al suo fianco; un [[success|successo]] quasi alla sua portata, lo
+scagliò lontano da sé come fosse la sporcizia che era, paragonato a lei. La
+sua ricerca, nondimeno, se lo teneva vicino a lei, o il suo [[Renunciation|rifiuto]] se
+lo allontanava da lei, o la fuga se ne condivideva, o il segreto se glielo
+ordinava, o qualsiasi destino, o ogni destino, tutto era uguale per lui, purché
+lei fosse fedele a lui,—l'uomo che aveva visto quanto lei fosse abbandonata, colui che lei
+aveva ispirato al loro primo incontro con un'ammirazione, un interesse,
+di cui si credeva incapace, colui che l'aveva accolta nella sua
+fiducia, che le era devoto e la adorava. Tutto questo, e di più,
+nella sua fretta, e nella sua, nel vortice della propria malizia soddisfatta, nel
+terrore di essere scoperti, nel rumore rapidamente crescente della pioggia battente tra le [[Leaves|foglie]], e una tempesta che si [[rolling|avvicinava]]—la signora Sparsit
+ricevette nella sua mente, accompagnato da un alone di confusione e indistinzione inevitabile,
+tanto che quando alla fine lui scavalcò il recinto e condusse via il suo [[Horse|cavallo]], non era sicura dove si sarebbero incontrati, o
+quando, se non che avevano detto che sarebbe stato quella [[Night|notte]].
+
+Ma uno di loro rimaneva ancora nell'oscurità davanti a lei; e mentre lo inseguiva doveva avere ragione. «Oh, mio caro [[Love|amore]],» pensò la signora Sparsit, «non hai idea di quanto tu sia ben [[Well|accompagnato]]!»
+
+La signora Sparsit la vide uscire dal bosco e la vide entrare nella [[house|casa]]. Cosa fare dopo? Adesso pioveva a dirotto, una cascata di [[Water|acqua]]. Le calze bianche della signora Sparsit erano diventate multicolori, con il verde predominante; le scarpe si erano riempite di spine; bruchi appesi alle loro amache improvvisate pendevano da vari punti del suo abito; rigagnoli d'acqua scendevano dal suo cappello e dal suo naso romano. In queste condizioni, la signora Sparsit si nascose tra il fitto fogliame dei cespugli, chiedendosi cosa fare dopo?
+
+Ecco, Louisa esce dalla [[house|casa]]! Si veste frettolosamente e si avvolge nel mantello,
+scappando via di nascosto. Fugge con l'amante! Scivola dall'ultimo gradino della scala ed è inghiottita dal baratro.
+
+Indifferente alla pioggia e camminando con un passo rapido e deciso,
+lei si diresse su un sentiero laterale parallelo al viale. La signora Sparsit la seguì
+nella [[Shadow|penombra]] degli alberi, a poca distanza; perché non era facile tenere d'occhio una figura che procedeva velocemente nell'oscurità ombrosa.
+
+Quando si fermò per chiudere il cancello laterale senza far rumore, la signora Sparsit si fermò. Quando riprese a camminare, la signora Sparsit riprese a camminare. Prese la strada che la signora Sparsit aveva fatto venendo, uscì dal viottolo verde, attraversò la [[Road|strada]] sterrata e salì i gradini di legno fino alla ferrovia. Un treno per Coketown sarebbe passato a breve, lo sapeva la signora Sparsit; così capì che Coketown era il suo primo luogo di destinazione.
+
+Nello stato di mollezza e umidità in cui versava la signora Sparsit, non erano necessarie precauzioni particolari per cambiare il suo solito aspetto; tuttavia si fermò al riparo del muro della stazione, rimboccò lo scialle dandogli una nuova forma e se lo mise sopra il cappello. Così mascherata non aveva [[Fear|paura]] di essere riconosciuta quando salì i gradini della ferrovia e pagò in contanti nell'ufficio. Louisa era seduta ad aspettare in un angolo. La signora Sparsit era seduta ad aspettare in un altro angolo. Entrambe ascoltavano il tuono, che era forte, e la pioggia, mentre lavava via dal tetto e tamburellava sui parapetti degli archi. Due o tre lampade furono spente dalla pioggia e soffiate via; così entrambe videro bene i [[Lightning|lampi]] che tremolavano e zigzagavano sulle rotaie di ferro.
+
+La presa della stazione con un attacco di tremore, che gradualmente si approfondiva fino a diventare una lamentazione del cuore, annunciava il treno. [[Fire|Fuoco]] e vapore, fumo e luce rossa; uno sibilo, un boato, una campana e un urlo; Louisa messa in un vagone, la signora Sparsit messa in un altro: la piccola stazione un [[Desert|deserto]] punto nella tempesta.
+
+Anche se i denti le battevano in testa per il freddo e l'umidità, la signora Sparsit era immensamente esultante. La figura si era precipitata giù dal dirupo, e lei si sentiva come se fosse al seguito del [[Body|corpo]]. Poteva forse non esultare lei che aveva contribuito così attivamente all'organizzazione di quel trionfo funebre? «Sarà a Coketown molto prima di lui», pensò la signora Sparsit, «anche se il suo [[Horse|cavallo]] fosse davvero ottimo. Dove lo aspetterà? E dove andranno insieme? Pazienza. Vedremo».
+
+La pioggia torrenziale causò un'infinita confusione quando il treno si fermò a destinazione. Gli scoli e i tubi erano scoppiati, le fogne traboccavano e le strade erano allagate. Nel primo istante in cui scese dal treno, la signora Sparsit rivolse i suoi occhi distratti verso le carrozze in attesa, che erano molto richieste. «Entrerà in una di quelle», pensò, «e se ne andrà prima che io possa seguirla con un'altra. A tutti i rischi di essere investita, devo vedere il numero e sentire l'ordine dato al cocchiere».
+
+Ma la signora Sparsit si era sbagliata nei suoi calcoli. Louisa non salì su nessuna carrozza e se n'era già andata. Gli occhi neri continuarono a seguire il vagone ferroviario in cui aveva viaggiato, ma si soffermarono un attimo troppo tardi. Dopo diversi minuti la porta non venne aperta, così la signora Sparsit passò davanti e ripassò davanti ad essa, non vide nulla, guardò dentro e trovò il vagone vuoto. Fradicia dalla testa ai piedi: con i piedi che schioccavano e si appiccicavano nelle scarpe ogni volta che si muoveva; con una pioggia battente sul suo volto classico; con un cappello come un fico troppo maturo; con tutti i vestiti rovinati; con le impronte umide di ogni bottone, fiocco e gancetto che indossava stampate sulla sua schiena altolocata; con una vegetazione stagnante sul suo aspetto generale, tale da accumularsi su un vecchio recinto di parco in un vicolo muffoso; la signora Sparsit non aveva altra risorsa se non scoppiare in [[Tears|lacrime]] di amarezza e dire: «L'ho persa!».
 
 
 
@@ -20843,6 +25149,107 @@ his feet.
 END OF THE SECOND BOOK
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO XII
+IN DISCESA
+
+I netturbini nazionali, dopo essersi intrattenuti con molti piccoli e rumorosi scontri tra di loro, si erano dispersi per il momento, e il signor Gradgrind era a [[Home|casa]] per le vacanze.
+
+Egli sedeva scrivendo nella stanza con l'[[Clock|orologio]] statistico mortale, dimostrando qualcosa senza alcun [[Doubt|dubbio]] — probabilmente, in generale, che il Buon Samaritano fosse un Cattivo Economista. Il rumore della pioggia non lo disturbava molto; ma attirava la sua attenzione sufficientemente da fargli alzare a volte la testa, come se stesse piuttosto rimproverando gli elementi. Quando tuonava molto forte, egli lanciava uno sguardo verso Coketown, pensando che alcuni dei camini alti potessero essere colpiti dal [[Lightning|fulmine]].
+
+Il tuono si allontanava rimbombando e la pioggia cadeva a dirotto come un [[deluge|diluvio]] quando la porta della sua stanza si aprì. Si voltò verso la lampada sul tavolo e vide, stupito, la figlia maggiore.
+
+'Luigia!'
+
+'Padre, voglio parlarle.'
+
+«Che succede? Come mai avete un'aria così strana? E buon Dio», disse il signor Gradgrind, sempre più stupito, «siete venuto qui esposto a questa [[Storm|tempesta]]?»
+
+Si mise le mani sul vestito come se non sapesse bene cosa fare. «Sì». Poi si tolse il cappuccio e lasciò cadere mantello e copricapo dove capitava, rimanendo a guardarlo: così pallida, così disordinata, così sfacciata e disperata che lui ne ebbe paura.
+
+'Che succede? Ti prego, Louisa, dimmi che cosa c'è'.
+
+Si lasciò cadere su una sedia davanti a lui e gli posò la mano fredda sul braccio.
+
+'Padre, mi hai educato fin dalla culla?'
+
+'Sì, Louisa.'
+
+'Maledico l'ora in cui sono nato per un destino simile.'
+
+La guardò con [[Doubt|dubbio]] e terrore, ripetendo svogliatamente: «Maledire l'ora? Maledire l'ora?»
+
+«Come hai potuto darmi la vita e togliermi tutte le cose inestimabili che la elevano dallo stato di [[Death|morte]] consapevole?  Dove sono i doni della mia [[Soul|anima]]?  Dove sono i sentimenti del mio cuore?  Cosa hai fatto, o padre, cosa hai fatto con il [[Garden|giardino]] che avrebbe dovuto fiorire una volta in questo grande deserto qui!»
+
+Si colpì il petto con entrambe le mani.
+
+«Se fosse mai stato qui, le sue ceneri [[Alone|sole]] mi salverebbero dal vuoto nel quale affonda tutta la mia vita. Non intendevo dire questo; ma, padre, ricordate l'ultima [[Time|volta]] che abbiamo conversato in questa stanza?»
+
+Era stato così del tutto impreparato a ciò che aveva appena udito, che con fatica rispose: «Sì, Louisa».
+
+«Ciò che ora mi è salito alle labbra sarebbe risalito allora se solo mi aveste dato un attimo di aiuto. Non vi rimprovero nulla, padre. Quello che non avete mai coltivato in me non l'avete mai coltivato nemmeno in voi stessi; ma oh! se lo aveste fatto tanto tempo fa o se almeno mi aveste trascurato, oggi sarei una creatura molto migliore e più felice!»
+
+Udendo ciò, dopo tutte le sue premure, si chinò la testa sulla mano e gemette ad alta voce.
+
+«Padre, se aveste saputo, quando fummo insieme qui l'ultima volta, ciò che persino io temevo mentre mi sforzavo di contrastarlo — poiché è stato mio compito fin dall'infanzia oppormi a ogni istinto naturale che si presentasse nel mio cuore; se aveste saputo che nel mio petto rimanevano sensibilità, affetti, debolezze capaci di essere coltivati fino alla forza, sfidando tutti i calcoli mai fatti dall'uomo e non più noti alla sua aritmetica del suo Creatore — mi avreste data in sposa all'uomo che ora sono sicura di odiare?»
+
+Disse: «No. No, mio povero [[Child|bambino]]».
+
+«Mi avreste condannato, in qualsiasi [[Time|momento]], alla [[Frost|gelida]] desolazione che mi ha indurito e rovinato? Mi avreste derubato — senza arricchire nessuno — solo per aumentare la desolazione di questo mondo — della parte immateriale della mia vita, della [[spring|primavera]] e dell'[[Summer|estate]] delle mie convinzioni, del mio rifugio da ciò che è sordido e cattivo nelle cose reali intorno a me, della scuola in cui avrei dovuto imparare ad essere più umile e fiducioso con loro, e a [[Hope|sperare]] di migliorarli nel mio piccolo mondo?»
+
+'O no, no. No, Louisa.'
+
+«Eppure, padre, se fossi stata completamente cieca; se mi fossi fatta strada a tentoni con il mio senso del tatto e avessi potuto esercitare un po' la mia fantasia riguardo alle cose, pur conoscendone le forme e le superfici; sarei stata milioni di volte più saggia, felice, amorevole, contenta, più [[Innocent|innocente]] e umana in tutti i buoni aspetti, che non sono con gli occhi che ho. Ora, ascolta ciò che sono venuta a dire».
+
+Si mosse per sostenerla con il braccio. Mentre si alzava, rimasero vicini: lei, con una mano sulla sua spalla, lo guardava fisso in faccia.
+
+«Con una fame e sete dentro di me, padre, che non sono mai state placate neanche per un momento; con un impulso ardente verso qualche regione dove regole, numeri e definizioni non fossero del tutto assolute; sono cresciuto combattendo ogni centimetro del mio cammino.»
+
+«Non sapevo che fossi infelice, mio [[Child|bambino]].»
+
+«Padre, lo sapevo da sempre. In questa lotta ho quasi respinto e schiacciato il mio angelo migliore trasformandolo in un demone. Quello che ho imparato mi ha lasciato pieno di dubbi, incredulo, sprezzante, pentito per quello che non ho imparato; e la mia triste risorsa è stata pensare che la vita sarebbe presto finita, e che nulla in essa potesse valere il [[Pain|dolore]] e la fatica di una lotta.»
+
+«E tu così giovane, Louisa!» disse con pietà.
+
+«E io così giovane. In questo stato d'animo, padre — perché vi mostro ora, senza [[Fear|paura]] né favoritismi, il comune stato di torpore della mia mente come lo conosco voi — mi avete proposto mio marito. L'ho preso. Non ho mai fatto finta con lui o con voi che lo amassi. Lo sapevo e, padre, lo sapevate anche voi, e lo sapeva lui, che non l'ho mai amato. Non ero del tutto indifferente perché nutrivo una [[Hope|speranza]] di essere piacevole e utile a Tom. Mi sono abbandonata a quella fuga selvaggia in qualcosa di visionario e ho scoperto lentamente quanto fosse folle. Ma Tom era stato l'oggetto di tutta la piccola tenerezza della mia vita; forse è diventato tale perché sapevo [[Well|bene]] come compatirlo. Ora non ha molta importanza, se non per il fatto che potrebbe indurvi a considerare con più indulgenza i suoi errori».
+
+Mentre suo padre la teneva tra le braccia, lei posò l'altra mano sulla sua altra spalla e continuando a fissarlo negli occhi proseguì.
+
+«Quando fui irrevocabilmente sposato, contro il vincolo si sollevò la vecchia discordia in ribellione, resa più aspra da tutte quelle cause di disparità che derivano dalle nostre due nature individuali e che nessuna legge generale potrà mai regolare o stabilire per me, padre, finché non sapranno dire all'anatomista dove conficcare il coltello nei [[Secrets|segreti]] della mia [[Soul|anima]].»
+
+«Louisa!», disse e aggiunse supplichevole; perché ricordava [[Well|bene]] ciò che era stato detto tra loro nel precedente colloquio.
+
+'Non ti rimprovero, padre, non ho nulla da obiettare. Sono qui per un altro motivo.'
+
+«Che posso fare, [[Child|bambino]]? Chiedimi quello che vuoi».
+
+«Ci sto arrivando. Padre, la sorte mi fece incontrare un nuovo conoscente; un uomo di cui non avevo esperienza; abituato al mondo; leggero, raffinato, disinvolto; che non faceva pretese; ammetteva il basso valore di tutto, che io stesso temevo di formulare in segreto; mi fece capire quasi subito, anche se non so come o per gradi, che mi comprendeva e leggeva i miei pensieri. Non riuscivo a trovare che fosse peggiore di me. Sembrava esserci una stretta affinità tra noi. Mi chiedevo solo perché dovesse valerne la pena, per uno che non si curava di nulla altro, preoccuparsi così tanto di me».
+
+'Per te, Louisa!'
+
+Suo padre avrebbe potuto istintivamente allentare la presa, ma sentiva che le sue forze l'abbandonavano e vedeva un selvaggio [[Fire|fuoco]] dilatato negli occhi che lo fissavano con fermezza.
+
+«Non dico nulla della sua richiesta di ottenere la mia fiducia. Non ha molta importanza come l'abbia conquistata. Padre, l'ha conquistata. Quello che sapete voi della storia del mio [[Marriage|matrimonio]], lui lo seppe presto, proprio come [[Well|bene]].»
+
+Il volto di suo padre era pallido come cenere e la teneva tra le sue braccia.
+
+«Non ho fatto nulla di peggio, non vi ho disonorato. Ma se mi chiedete se l'ho amato o se lo [[Love|amo]], ve lo dico chiaro e tondo, padre: potrebbe essere così. Non lo so».
+
+Lei improvvisamente tolse le mani dalle sue spalle e le premette entrambe sul fianco; mentre nel suo volto, non più simile a se stesso — e nella sua figura, ritta, risoluta a concludere con un ultimo sforzo ciò che aveva da dire — i sentimenti a lungo repressi si liberarono.
+
+«Questa [[Night|notte]], mio marito essendo assente, è stato con me, dichiarandosi il mio [[Lover|amante]]. In questo momento mi aspetta, perché non potevo liberarmi della sua presenza in altro modo. Non so se sono pentita, non so se ho vergogna, non so se mi sento degradata ai miei stessi occhi. Tutto ciò che so è che la tua [[philosophy|filosofia]] e il tuo insegnamento non mi salveranno. Ora, padre, tu mi hai portata a questo. Salva me con altri mezzi!»
+
+Le strinse più forte in [[Time|tempo]] per impedirle di cadere a terra,
+ma lei gridò con voce terribile: «Morirò se mi tieni! Lasciami
+cadere a terra!» E lui la depose lì, e vide il [[Pride|orgoglio]]
+del suo cuore e il trionfo del suo sistema giacere, un mucchio insensibile,
+ai suoi piedi.
+
+* * * * *
+
+FINE DEL SECONDO LIBRO
+
 
 
 <span class="atom-split" data-atom="chapter_66--part_01" data-title="Hard Times — Chapter 1 (part 1)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/home,motif/nature,motif/night,motif/pain,motif/silence,motif/tears,motif/time,motif/well,concept/nature,concept/suffering"></span>
@@ -20976,6 +25383,74 @@ but, though softened, she was not in [[Tears|tears]].  Her father was changed in
 nothing so much as in the respect that he would have been glad to see her
 in [[Tears|tears]].
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+LIBRO TERZO
+_LA MESSA A POSTO_
+CAPITOLO I
+UN ALTRO BISOGNO NECESSARIO
+
+LOUISA si risvegliò da un torpore e i suoi occhi si aprirono languidamente sul suo vecchio letto a [[Home|casa]] e nella sua vecchia stanza. All'inizio sembrava che tutto ciò che era accaduto dai tempi in cui questi oggetti le erano familiari fossero le ombre di [[A Dream|un sogno]], ma gradualmente, man mano che gli oggetti diventavano più reali alla sua vista, gli eventi divenivano più reali nella sua mente.
+
+A stento poteva muovere la testa per il [[Pain|dolore]] e la pesantezza, gli occhi le bruciavano e si sentiva molto debole. Un curioso stato di passività aveva preso possesso di lei al punto che la presenza della sorellina nella stanza non attirò la sua attenzione per qualche [[Time|tempo]]. Anche quando i loro sguardi si incontrarono e la sorella si avvicinò al letto, Louisa rimase a guardarla in [[Silence|silenzio]] per alcuni minuti, permettendole timidamente di tenerle la mano inerte prima di chiedere:
+
+'Quando sono stato portato in questa stanza?'
+
+«[[Night|Ieri]] sera, Luigia».
+
+'Chi mi ha portato qui?'
+
+'Sissy, credo.'
+
+'Perché ci credi?'
+
+«Perché l'ho trovata qui questa mattina. Non è venuta al mio capezzale per svegliarmi, come fa sempre; e sono andato a cercarla. Non era nemmeno nella sua stanza; e l'ho cercata in tutta la [[house|casa]], finché l'ho trovata qui che si prendeva cura di te e ti raffreddava la testa. Vuoi vedere papà? Sissy ha detto che dovevo dirglielo quando ti fossi svegliato».
+
+«Che faccia raggiante hai, Jane!» disse Louisa mentre la sua giovane sorella — ancora timida — si chinava per baciarla.
+
+'Ho fatto così? Mi fa molto piacere che lo pensiate. Di sicuro è merito di Sissy.'
+
+Il braccio che Louisa aveva cominciato ad avvolgere intorno al suo collo si distese. «Se vuoi puoi dirlo a papà». Poi, trattendo un attimo la ragazza, disse: «È stato lei a rendere così accogliente la mia stanza e a darle questo aspetto di benvenuto?»
+
+'Oh no, Louisa, era già fatto prima che arrivassi. Era, '
+
+Louisa si girò sul cuscino e non udì più nulla. Quando la sorella se ne fu andata, rivolse di nuovo il capo e rimase con il viso verso la porta finché questa si aprì ed entrò suo padre.
+
+Aveva un'espressione stanca e preoccupata, e la sua mano, di solito ferma,
+tremava tra le sue. Si sedette accanto al letto, chiedendole con dolcezza come stesse,
+insistendo sulla necessità che rimanesse molto tranquilla dopo l'agitazione
+e l'esposizione alle intemperie della scorsa [[Night|notte]]. Parlava a voce bassa e turbata,
+molto diverso dal suo solito modo autoritario; e spesso faticava a trovare le parole.
+
+«Mia cara Louisa. Mia povera figlia». Era così smarrito in quel punto che si fermò del tutto. Ci riprovò.
+
+«Mio sfortunato [[Child|figlio]]». Il luogo era così difficile da attraversare che ci riprovò.
+
+«Sarebbe inutile per me, Louisa, tentare di dirti quanto sia stato sopraffatto e lo sia ancora da ciò che mi è piombato addosso ieri [[Night|sera]]. Il terreno su cui cammino non è più solido sotto ai miei piedi. L'unico sostegno a cui mi aggrappavo, la cui forza sembrava e sembra ancora impossibile mettere in dubbio, si è sgretolato in un istante. Sono sbalordito da queste scoperte. Non ho intenzioni egoistiche nel dire ciò che dico; ma trovo il colpo di ciò che mi ha travolto ieri [[Night|sera]] davvero molto forte».
+
+Non poteva dargli alcun conforto in proposito. Aveva subito il naufragio della sua intera vita su quella scogliera.
+
+«Non dirò, Louisa, che se tu mi avessi disingannato per qualche felice caso qualche [[Time|volta]] fa, sarebbe stato meglio per entrambi; meglio per la tua pace e meglio per la mia.  Perché sono consapevole che non poteva far parte del mio sistema invitare una confidenza di quel genere.  Avevo provato il mio—il mio sistema su me stesso, e l'ho amministrato rigidamente; e devo sopportare la responsabilità dei suoi fallimenti.  Ti prego solo di credere, mia [[Child|figlia]] prediletta, che ho voluto fare ciò che è giusto».
+
+Lo disse con serietà e, per rendergli giustizia, lo pensava davvero.
+Misurando le profondità insondabili col suo piccolo misero bastone da
+dogana e barcollando sull'universo coi suoi compassi arrugginiti dalle
+gambe rigide, aveva voluto fare grandi cose. Nei limiti del suo corto
+raggio d'azione si era agitato qua e là annientando i [[Flowers|fiori]] dell'esistenza con una maggiore concentrazione di intenti che molti dei personaggi chiassosi la cui compagnia frequentava.
+
+«Sono pienamente convinta di quello che dice, padre. So di essere stata la sua
+[[Child|figlia]] prediletta. So che ha voluto rendermi felice. Non l'ho mai incolpata e non lo farò mai».
+
+Le prese la mano tesa e continuò a tenerla nella sua.
+
+«Mia cara, sono rimasto tutta la [[Night|notte]] al mio tavolo, riflettendo più e più volte su ciò che è accaduto tra noi in modo così doloroso. Quando considero il tuo carattere; quando considero che ciò che io ho saputo da ore tu l'hai tenuto nascosto per anni; quando considero sotto quale pressione immediata sia stato finalmente strappato da te, giungo alla conclusione di non poter fare a meno di diffidare di me stesso.»
+
+Avrebbe potuto aggiungere più di tutto ciò quando vide il volto che ora lo guardava. In effetti forse lo fece, mentre con mano delicata le spostava i capelli scompigliati dalla fronte. Azioni così piccole, insignificanti in un altro uomo, erano molto notabili in lui; e sua figlia le riceveva come se fossero state parole di pentimento.
+
+«Ma», disse il signor Gradgrind lentamente e con esitazione, nonché con un povero senso di felicità, «se vedo ragione per diffidare di me stesso per il passato, Louisa, dovrei anche diffidare di me stesso per il presente e il futuro. Per parlarti senza riserve, lo faccio. Sono lontano dal sentirmi convinto ora, per quanto diversamente potrei aver sentito solo questa [[Time|volta]] ieri, che io sia adatto alla fiducia che riponi in me; che io sappia come rispondere all'appello che sei venuta [[Home|a casa]] a fare a me; che io abbia l'istinto giusto - supponendolo per il momento una qualità di quella [[Nature|natura]] - su come aiutarti e metterti a posto, mia [[Child|figlia]].»
+
+Si era girata sul cuscino e giaceva con il viso appoggiato al braccio, così che lui non poteva vederlo. Tutta la sua selvaggia passione si era placata; ma, sebbene addolcita, lei non era in [[Tears|lacrime]]. Suo padre era cambiato soprattutto nel senso che sarebbe stato felice di vederla in [[Tears|lacrime]].
 
 
 
@@ -21119,6 +25594,85 @@ me lay this head of mine upon a loving heart!’
 ‘O lay it here!’ cried Sissy.  ‘Lay it here, my dear.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Alcuni sostengono», continuò, ancora esitante, «che esista una saggezza della testa e che ne esista una del cuore. Io non ho mai pensato così; ma come vi dicevo ora diffido di me stesso. Ho sempre creduto che la testa fosse sufficiente da sola. Forse non lo è; come posso affermarlo questa mattina! Se quella diversa saggezza fosse ciò che io ho trascurato, e se fosse l'istinto che manca, Louisa—»
+
+Lo suggerì con grande dubbio, come se fosse ancora a metà riluttante ad ammetterlo. Lei non gli rispose, sdraiata davanti a lui sul letto, ancora mezza vestita, proprio come l'aveva vista distesa sul pavimento della sua stanza la [[Night|scorsa notte]].
+
+«Louisa», e la sua mano si posò di nuovo sui suoi capelli, «sono stato assente da qui, mia cara, parecchio ultimamente; e sebbene l'educazione di tua sorella sia stata seguita secondo—il sistema», sembrava che arrivasse a quella parola con grande riluttanza sempre, «è stata necessariamente modificata dalle associazioni quotidiane iniziate, nel suo caso, in tenera età. Ti chiedo—ignorantemente e umilmente, figlia mia—per il meglio, credi?»
+
+«Padre», rispose lei senza muoversi, «se in petto a lei giovane è stata suscitata qualche armonia che nel mio rimase muta fino a trasformarsi in dissonanza, allora sia grata al Cielo per questo e prosegua sulla sua via più felice, considerando la sua più grande benedizione il fatto di non aver seguito la mia.»
+
+«O mia [[Child|figlia]], mia [[Child|figlia]]!» disse in tono disperato «sono un uomo infelice a vederti così!
+Che mi importa che tu non mi rimproveri, se io stesso mi rimprovero tanto amaramente?»
+Si chinò e le parlò sottovoce. «Louisa, ho il timore che in questa [[house|casa]] possano essersi lentamente
+operati dei cambiamenti per puro [[Love|amore]] e gratitudine: che ciò che la Ragione non ha fatto
+e non avrebbe potuto fare, il Cuore abbia fatto silenziosamente. È possibile?»
+
+Non gli rispose.
+
+«Non sono troppo orgoglioso per crederlo, Louisa. Come potrei essere arrogante davanti a te! È possibile? È vero, mia cara?» La guardò ancora una volta, abbandonata lì; e senza dire altro uscì dalla stanza. Non era passato molto tempo da quando se ne andò, che lei udì un leggero passo vicino alla porta e capì che qualcuno stava accanto a lei.
+
+Non alzò la testa. Una rabbia sorda per essere stata vista nel suo dolore e perché lo sguardo involontario che aveva tanto risentito si fosse realizzato in questo modo, le ardeva dentro come un [[Fire|fuoco]] malsano. Tutte le forze strettamente imprigionate lacerano e distruggono. L'aria che sarebbe salutare per la terra, l'[[Water|acqua]] che la arricchirebbe, il calore che la farebbe maturare, la straziano quando sono rinchiusi. Così ora nel suo petto; le qualità più forti che possedeva, da tempo rivolte contro se stesse, divennero un cumulo di ostinazione che si [[Rose|levò]] contro un amico.
+
+Fu un [[Well|bene]] che quella carezza delicata le sfiorasse il collo e che lei capisse di essere considerata addormentata. La mano comprensiva non meritava il suo risentimento. Lasciatela lì, lasciatela stare.
+
+Rimase lì, riscaldando di vita una folla di pensieri più gentili; e lei riposò.
+Mentre si ammorbidiva con il silenzio e la consapevolezza di essere così osservata,
+alcune [[Tears|lacrime]] le sgorgarono negli occhi. Il volto toccò il suo, e lei seppe che
+c'erano anche delle [[Tears|lacrime]] su quello, e che ne era la causa.
+
+Mentre Louisa fingeva di svegliarsi e si sedette, Sissy indietreggiò,
+rimanendo tranquillamente vicino al letto.
+
+«[[Hope|Spero]] di non averla disturbata. Sono venuto a chiederle se mi permetterebbe di restare con lei?»
+
+'Perché dovresti rimanere con me? Mia sorella ti mancherà. Sei tutto per lei.'
+
+"Sono qualcosa per te?" rispose Sissy, scuotendo la testa. "Vorrei esserlo."
+
+«Cosa?», disse Louisa quasi severamente.
+
+«Qualunque cosa tu voglia di più, se potessi essere quella. In ogni caso, mi piacerebbe provare ad avvicinarmici il più possibile. E per quanto lontano possa essere, non mi stancherò mai di provarci. Mi permetterai?»
+
+'Mio padre ti ha mandato a chiedermelo.'
+
+«Niente affatto», rispose Sissy. «Mi ha detto che potevo entrare adesso, ma mi ha mandata via dalla stanza questa mattina — o almeno —»
+
+Esitò e si fermò.
+
+«Almeno che cosa?», disse Louisa con i suoi occhi scrutatori puntati su di lei.
+
+«Pensavo fosse meglio che mi allontanassi, perché non ero affatto sicuro che vi sarebbe piaciuto trovarmi qui.»
+
+'Vi ho sempre odiato così tanto?'
+
+«[[Hope|Spero]] di no, perché ti ho sempre amato e ho sempre desiderato che tu lo sapessi. Ma sei cambiata un po' nei miei confronti poco prima di lasciare [[Home|casa]]. Non mi stupivo, però. Tu sapevi tanto e io così poco, ed era del tutto naturale sotto molti aspetti, dato che stavi per andare tra altri amici, quindi non avevo nulla da rimproverarti e non ero affatto ferita».
+
+Il suo colorito [[Rose|si fece rosso]] mentre lo diceva con modestia e in fretta. Louisa comprese la tenera finzione e il cuore le diede un tuffo.
+
+«Posso provare?» disse Sissy, incoraggiata a portare la mano al collo che si stava impercettibilmente inclinando verso di lei.
+
+Louisa, abbassando la mano che l'avrebbe abbracciata un attimo dopo,
+la tenne stretta nella sua e rispose:
+
+«Prima di tutto, Sissy, sai chi sono? Sono così orgoglioso e così indurito, così confuso e turbato, così risentito e ingiusto con tutti e con me stesso che ogni cosa mi appare tempestosa, oscura e malvagia. Non ti respinge questo?»
+
+‘No!’
+
+«Sono così infelice e tutto ciò che avrebbe dovuto rendermi diverso è così devastato, che se fossi stato privato di senno fino a questo momento, e invece di essere colto come pensate voi, dovessi iniziare ad acquisire le verità più semplici, non potrei desiderare una guida alla pace, al contentamento, all'[[Honour|onore]], tutto il bene di cui sono completamente privo, più umilmente di quanto faccia.  Non vi respinge questo?»
+
+‘No!’
+
+Nell'[[innocence|innocenza]] del suo coraggioso affetto e nel traboccare del suo vecchio spirito devoto, la ragazza un tempo abbandonata brillava come una luce splendida nell'oscurità dell'altra.
+
+Louisa alzò la mano perché potesse cingere il suo collo e unirsi all'altra lì. Si lasciò cadere in ginocchio, e aggrappandosi a questo [[Child|bambino]] di strada lo guardò quasi con venerazione.
+
+«Perdonatemi, compatitemi, aiutatemi! Abbiate pietà del mio grande bisogno e lasciate che io posso questa mia testa su un cuore amorevole!»
+
+"Posalo qui!" gridò Sissy. "Posalo qui, tesoro mio."
+
 
 
 <span class="atom-split" data-atom="chapter_67--part_01" data-title="Hard Times — Chapter 2 (part 1)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="motif/dawn,motif/home,motif/horse,motif/nature,motif/night,motif/sleep,motif/storm,motif/time,motif/well,motif/window,concept/courage,concept/nature,character/james_harthouse"></span>
@@ -21239,6 +25793,65 @@ A general recollection that this was the kind of thing the Police said to
 the swell mob, caused Mr. Harthouse to ask the waiter in return, with
 bristling indignation, what the Devil he meant by ‘wanted’?
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO II  
+MOLTO RIDICOLA
+
+Il signor [[James Harthouse|JAMES HARTHOUSE]] passò un'intera [[Night|notte]] e un giorno in uno stato di tale agitazione che il mondo, anche con l'occhio più attento puntato su di lui, difficilmente lo avrebbe riconosciuto durante quell'intervallo folle come il fratello Jem del membro onorevole e scherzoso.  Era positivamente turbato.  Più volte parlò con enfasi, in modo simile a quello volgare.  Entrava ed usciva in un modo inspiegabile, come un uomo senza uno scopo.  Cavalcava come un bandito.  In una parola, era così terribilmente annoiato dalle circostanze esistenti che dimenticò di dedicarsi all'annoiamento nel modo prescritto dalle autorità.
+
+Dopo aver fatto attraversare la [[Storm|tempesta]] a Coketown al suo [[Horse|cavallo]], come se fosse un salto, rimase sveglio tutta la [[Night|notte]]: di [[Time|tanto]] in [[Time|tanto]] suonava il campanello con la massima furia, accusando l'inserviente che faceva la guardia di negligenza nel trattenere lettere o messaggi che non potevano essere stati affidati ad altri, e chiedendo il risarcimento immediato. Con l'avvicinarsi dell'[[Dawn|alba]], del mattino e del giorno, senza che né un messaggio né una lettera arrivassero con uno di essi, scese alla [[house|casa]] di campagna. Lì si seppe che il signor Bounderby era assente e la signora Bounderby in città. Era partita per la città all'improvviso la sera prima. Non si sapeva nemmeno che fosse andata via fino alla ricezione del messaggio, che annunciava che il suo ritorno non era atteso per il momento.
+
+In tali circostanze non gli restò altro che seguirla in città.
+Andò alla [[house|casa]] in città. La signora Bounderby non c'era. Diede un'occhiata
+alla banca. Il signor Bounderby era assente e anche la signora Sparsit era assente. La signora Sparsit assente?
+Chi mai avrebbe potuto essere ridotto a una tale estremità da aver bisogno della compagnia di quella grifona!
+
+«[[Well|Beh]]! Non lo so», disse Tom, che aveva le sue ragioni per sentirsi inquieto al riguardo.
+«Se n'è andata chissà dove all'alba questa mattina. È sempre piena di misteri; la odio. E
+così faccio con quel tizio bianco; ha sempre i suoi dannati occhi addosso a uno».
+
+«Dove eri la scorsa [[Night|notte]], Tom?»
+
+«Dove ero la [[Night|scorsa]] notte!» disse Tom. «Su, mi piace questa. Ti stavo aspettando,
+signor Harthouse, finché non è venuta giù come _io_ non l'avevo mai vista venire prima.
+Dove ero anch'io! Dove eri tu, vuoi dire».
+
+Sono stato impedito di venire - trattenuto.
+
+«Detenuto!» mormorò Tom. «Due di noi sono stati detenuti. Sono stato trattenuto mentre ti cercavo, fino a perdere tutti i treni tranne quello postale. Non sarebbe stata una bella avventura andare giù con quello in una [[Night|notte]] del genere e dover camminare [[Home|a casa]] attraverso uno stagno. Alla fine sono stato costretto a [[Sleep|dormire]] in città».
+
+'Dove?'
+
+'Dove? Niente meno che nel mio letto a casa di Bounderby.'
+
+'Avete visto vostra sorella?'
+
+«Come diavolo», rispose Tom, fissandolo, «avrei potuto vedere mia sorella quando era a quindici miglia di distanza?»
+
+Maledicendo quelle pronte risposte del giovane gentiluomo a cui era così fedele amico, il signor Harthouse si liberò di quell'incontro con la minima quantità immaginabile di cerimonie e rifletté per la centesima [[Time|volta]] su cosa potesse significare tutto ciò?  Fece solo una cosa chiara.  Era che, se lei fosse in città o fuori città, se lui si fosse dimostrato prematuro con lei che era così difficile da comprendere, oppure se lei avesse perso il [[Courage|coraggio]], o se fossero stati scoperti, o se qualche disgrazia o errore, attualmente incomprensibile, fosse accaduto, lui doveva rimanere per affrontare la sua sorte, qualunque essa fosse.  L'hotel dove era noto che viveva quando era condannato a quella regione di oscurità, era il palo al quale era legato.  Per quanto riguarda tutto il resto—Sarà quel che sarà.
+
+«Dunque, sia che io stia aspettando un messaggio ostile o un appuntamento, o una remonstranza penitente, o uno scontro improvvisato con il mio amico Bounderby alla maniera del Lancashire — cosa che sembrerebbe altrettanto probabile di qualsiasi altra in questa situazione attuale — mangerò», disse [[James Harthouse]]. «Bounderby ha l'advantaggio dal punto di vista del peso; e se dovesse succedere qualcosa di [[Nature|natura]] britannica tra noi, potrebbe essere altrettanto [[Well|bene]] mettersi in allenamento.»
+
+Perciò suonò il campanello e, buttandosi con nonchalance su un divano,
+ordinò "Una cena per le sei - con dentro una bistecca" e passò il
+[[Time|tempo]] intermedio come poté.  Non andò particolarmente [[Well|bene]];
+perché rimase nella più grande perplessità, e man mano che le ore passavano,
+e nessun tipo di spiegazione si presentava, la sua perplessità aumentava a
+interesse composto.
+
+Tuttavia, prendeva le cose con la massima calma di cui fosse capace l'[[Nature|umanità]] e si divertiva con l'idea scherzosa dell'allenamento più di una volta. «Non sarebbe male», sbadigliò in un [[Time|momento]], «dare al cameriere cinque scellini e buttarlo fuori». In un altro [[Time|momento]] gli venne in mente: «Oppure si potrebbe assumere un tizio di circa tredici o quattordici pietre all'ora». Ma questi scherzi non influenzarono materialmente il pomeriggio, né la sua attesa; e, a dire il vero, entrambi trascorrevano terribilmente lenti.
+
+Era impossibile, anche prima di cena, evitare di camminare spesso sul motivo del tappeto, guardando fuori dalla [[Window|finestra]], tendendo l'orecchio alla porta per sentire dei passi e, occasionalmente, arrossire quando si avvicinavano dei passi a quella stanza. Ma dopo cena, quando il giorno divenne crepuscolo e il crepuscolo si trasformò in [[Night|notte]], e ancora non gli era stata fatta alcuna comunicazione, cominciò ad essere, come lui stesso lo esprimeva, "come l'Ufficio Santo e la tortura lenta". Tuttavia, rimanendo fedele alla sua convinzione che l'indifferenza fosse il vero sangue blu (l'unica convinzione che avesse), colse questa crisi come l'occasione per ordinare delle candele e un giornale.
+
+Aveva cercato invano per mezz'ora di leggere quel giornale,
+quando apparve il cameriere e disse, in tono insieme misterioso e
+scusante:
+
+'Chiedo scusa, signore. Sono venuto a cercarla, se è così gentile.'
+
+Un ricordo generale che questo era il tipo di cosa che la Polizia diceva ai gentiluomini della malavita indusse Mr. Harthouse a chiedere al cameriere in cambio, con indignazione crescente, che diavolo intendesse per "cercato"?
 
 
 
@@ -21375,6 +25988,74 @@ catalogue was half so long until I began to turn it over.  Whereas I
 find,’ said Mr. [[James Harthouse]], in conclusion, ‘that it is really in
 several volumes.’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+'Chiedo scusa, signore. C'è una giovane signora fuori che desidera vederla.'
+
+'Fuori? Dove?'
+
+'Fuori di questa porta, signore.'
+
+Consegnando il cameriere al personaggio sopra menzionato come un testone debitamente qualificato per tale consegna, il signor Harthouse si affrettò nella galleria.
+Una giovane donna che non aveva mai visto prima stava lì. Vestita semplicemente, molto tranquilla, molto carina. Mentre la accompagnava nella stanza e le metteva una sedia, osservò alla luce delle candele che era ancora più carina di quanto avesse inizialmente creduto. Il suo volto era [[Innocent|innocente]] e giovanile, e la sua espressione notevolmente piacevole. Non aveva paura di lui o non era per nulla turbata; sembrava che la sua mente fosse completamente presa dall'occasione della sua visita e avesse sostituito quella considerazione a se stessa.
+
+«Parlo con il signor Harthouse?» disse quando furono [[Alone|soli]].
+
+«A Mr. Harthouse». Aggiunse tra sé: «E lei gli parla con gli occhi più fiduciosi che io abbia mai visto e la voce più sincera (anche se così calma) che io abbia mai sentito».
+
+«Se non capisco — e non capisco, signore» — disse Sissy, «quello che il vostro [[Honour|onore]] di gentiluomo vi obbliga a fare in altre questioni:» il [[Blood|sangue]] gli salì davvero al viso quando lei cominciò con queste parole: «Sono sicura di poter contare sul fatto che manterrete segreta la mia visita e che terrete nascosto quello che sto per dire. Mi baserò su questo, se mi direte che posso fidarmi fino a questo punto —»
+
+'Potete farlo, ve lo assicuro.'
+
+«Sono giovane, come vedete; sono [[Alone|solo]], come vedete. Venendo da voi,
+signore, non ho consigli né incoraggiamenti oltre la mia stessa [[Hope|speranza]].» Pensò: «Ma questa è molto forte», mentre seguiva il rapido sguardo alzato dei suoi occhi. Pensò anche: «Questo è un inizio davvero strano. Non vedo dove andremo a parare».
+
+Penso che tu abbia già indovinato chi ho appena lasciato!
+
+«Sono stato in preda alla più grande apprensione e agitazione nelle ultime ventiquattro ore (che mi sono sembrate altrettanti anni)», riprese, «a causa di una signora. Le speranze che ho nutrito che lei venga da quella signora non mi ingannano, confido».
+
+'L'ho lasciata dopo un'ora.'
+
+‘At—!’
+
+'In casa del padre.'
+
+Il volto del signor Harthouse si allungò nonostante la sua freddezza e il suo smarrimento aumentò. «Allora io certamente», pensò, «non vedo dove stiamo andando».
+
+«Si è precipitata là ieri [[Night|sera]]. È arrivata in grande agitazione e ha
+passato tutta la [[Night|notte]] senza conoscenza. Vivo a casa di suo padre ed ero con lei.
+Sarà certo, signore, che non la rivedrà mai più finché vivrà».
+
+Mr. Harthouse tirò un lungo respiro; e se mai uomo si trovò nella condizione di non sapere cosa dire, scoprì senza ombra di dubbio che era proprio la sua situazione. L'ingenuità [[Child|infantile]] con cui la sua visitatrice parlava, il suo modesto coraggio, la sua sincerità che metteva da parte ogni artificio, il suo completo oblio di sé stessa nel tener fermo e tranquillo l'obiettivo per cui era venuta; tutto ciò, insieme alla fiducia riposta nella sua promessa facilmente concessa — che già lo faceva vergognare — presentava qualcosa in cui lui era così inesperto, e contro cui sapeva che tutte le sue solite armi sarebbero risultate del tutto inefficaci; tanto che non riuscì a trovare una sola parola per tirarsi fuori d'impiccio.
+
+Alla fine disse:
+
+«Un annuncio così sorprendente, fatto con tanta sicurezza e da labbra tanto autorevoli è davvero sconcertante al massimo grado. Posso permettermi di chiedere se sei incaricato a trasmettermi questa informazione in questi termini senza speranza per conto della signora di cui stiamo parlando?»
+
+'Non ho ricevuto alcun incarico da lei.'
+
+«Un uomo che sta annegando si aggrappa alla paglia. Senza mancare di rispetto al suo giudizio e senza dubitare della sua sincerità, mi scusi se le dico che mi attacco alla convinzione che ci sia ancora [[Hope|speranza]] che io non sia condannato all'[[Exile|esilio]] perpetuo dalla presenza di quella signora.»
+
+«Non c'è la minima [[Hope|speranza]]. Lo scopo principale del mio arrivo qui, signore,
+è assicurarle che deve credere che non ci sia più [[Hope|speranza]] di poter mai riparlare con lei,
+più di quanta ce ne sarebbe se fosse morta quando è tornata [[Home|a casa]] ieri [[Night|sera]].»
+
+«Devo credere? Ma se non posso — o se dovessi, per debolezza di [[Nature|natura]], essere ostinato e non volessi —»
+
+«È ancora vero. Non c'è alcuna [[Hope|speranza]].»
+
+[[James Harthouse]] la guardò con un sorriso incredulo sulle labbra; ma il suo pensiero lo scavalcava e si spingeva oltre, e quel sorriso fu del tutto inutile.
+
+Si morse il labbro e si concesse un po' di [[Time|tempo]] per riflettere.
+
+«[[Well|Bene]]! Se dovesse sfortunatamente accadere», disse, «dopo aver fatto il mio dovere e aver messo in atto ogni sforzo da parte mia, che io venga portato a una condizione così desolata come questa di esilio, non diventerò il persecutore della signora. Ma avete detto di non avere alcuna commissione da parte sua?»
+
+«Non ho altro che la commissione del mio [[Love|amore]] per lei e il suo [[Love|amore]] per me. Non ho altra fiducia se non quella di essere stato con lei da quando è tornata a [[Home|casa]], e che mi ha dato la sua confidenza. Non ho altra fiducia, se non quella di conoscere qualcosa del suo carattere e del suo [[Marriage|matrimonio]]. O Signor Harthouse, penso che anche lei avesse questa fiducia!»
+
+Fu colpito nella cavità dove avrebbe dovuto trovarsi il suo cuore — in quel nido di uova marce, dove gli [[Birds|uccelli]] del cielo avrebbero vissuto se non fossero stati allontanati con un fischio — dalla fermezza di questo rimprovero.
+
+«Non sono un tipo morale», disse, «e non ho mai fatto alcuna pretesa di essere un tipo morale. Sono immorale quanto basta. Allo stesso [[Time|tempo]], nel causare qualche sofferenza alla signora che è l'argomento della presente conversazione, o nel comprometterla sfortunatamente in qualche modo, o nell'impegnarmi con espressioni di sentimenti nei suoi confronti non perfettamente compatibili — in effetti con — il focolare domestico; o nel trarre vantaggio dal fatto che suo padre è una [[Machine|macchina]], o dal fatto che suo fratello è un cucciolo, o dal fatto che suo marito è un orso; vi prego di permettermi di assicurarvi che non ho avuto intenzioni particolarmente malvagie, ma sono scivolato da un passo all'altro con una fluidità così perfettamente diabolica, che non avevo la minima idea che l'elenco fosse lungo la metà fino a quando non ho iniziato a sfogliarlo. Mentre invece», disse il signor [[James Harthouse]], in conclusione, «scopro che è davvero in diversi volumi».
 
 
 
@@ -21531,6 +26212,90 @@ others he would not have owned to on any account, and the only one that
 made him ashamed of himself.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Anche se disse tutto ciò nel suo modo frivolo, il modo sembrava, per una volta,
+una lucidatura consapevole di una superficie brutta.  Rimase in silenzio per un momento;
+e poi continuò con un'aria più [[Self|padrona]] di sé, sebbene con tracce di irritazione e delusione che non si sarebbero levate.
+
+«Dopo quanto mi è stato appena rappresentato, in un modo che trovo impossibile da [[Doubt|dubitare]]—non conosco quasi nessun'altra fonte dalla quale avrei potuto accettarlo così prontamente—mi sento obbligato a dirvi, voi in cui è stata riposta la fiducia di cui avete parlato, che non posso rifiutarmi di contemplare la possibilità (per quanto inaspettata) di non vedere più quella signora. Sono esclusivamente io il responsabile del fatto che le cose siano arrivate a questo punto—e—e, non riesco a dire», aggiunse, piuttosto in difficoltà per una perorazione generale, «che nutra qualche speranza ottimistica di diventare un tipo morale, o che abbia fede in qualsiasi tipo di persona morale.»
+
+Il volto di Sissy mostrava abbastanza chiaramente che la sua richiesta non era ancora finita.
+
+«Avete parlato», riprese lui mentre lei di nuovo alzava gli occhi su di lui, «del vostro primo obiettivo. Posso presumere che ce ne sia un secondo da menzionare?»
+
+“Sì, davvero.”
+
+'Vuoi farmi il favore di confidarmelo?'
+
+«Signor Harthouse», rispose Sissy con un misto di dolcezza e fermezza che lo sbaragliò completamente, e con una semplice fiducia nel fatto che lui avrebbe fatto ciò che lei gli chiedeva, che lo teneva in uno strano svantaggio, «l'unica riparazione che le rimane è quella di partire da qui immediatamente e definitivamente. Sono sicura che non può attenuare in nessun altro modo il torto e il danno che ha fatto. Sono sicura che è l'unico risarcimento che le resta in suo potere di fare. Non dico che sia molto, o che sia sufficiente; ma è qualcosa, ed è necessario. Perciò, anche senza alcun'altra autorità se non quella che le ho dato io, e persino senza la conoscenza di nessun'altra persona se non lei e me stessa, le chiedo di partire da questo posto [[Night|stasera]], con l'obbligo di non farvi mai più ritorno.»
+
+Se avesse esercitato su di lui un'influenza diversa dalla semplice [[Faith|fede]] nella [[Truth|verità]] e giustezza delle sue parole; se si fosse lasciata sfuggire il minimo [[Doubt|dubbio]] o esitazione, o avesse nutrito per quanto buoni motivi un qualsiasi riserbo o simulacro; se gli avesse mostrato, o provato, anche solo la più lieve traccia di sensibilità alle sue prese in giro o al suo stupore, o a qualunque obiezione potesse avanzare; l'avrebbe sconfitta su questo punto. Ma era tanto facile influenzarla quanto cambiare un cielo sereno guardandolo con aria sorpresa.
+
+«Ma sapete», chiese, del tutto smarrito, «fino a che punto arriva ciò che mi chiedete? Probabilmente non vi rendete conto che sono qui per una specie di affare pubblico, già abbastanza assurdo in sé, ma al quale mi sono dedicato e ho giurato fedeltà, ed è noto che ci sono devoto in modo disperato. Probabilmente non lo sapete, ma ve lo assicuro: è la verità».
+
+Non ebbe alcun effetto su Sissy, fatto o non fatto.
+
+«A parte questo», disse il signor Harthouse, facendo un paio di giri per la stanza con aria dubbiosa, «è così allarmantemente assurdo.  Un uomo che si sia messo a frequentare questi tipi sarebbe ridicolo se poi facesse marcia indietro in modo tanto incomprensibile».
+
+«Ne sono assolutamente certa», ripeté Cecilia, «che è l'unica riparazione che lei può fare, signore. Ne sono assolutamente certa, altrimenti non sarei venuta qui».
+
+Le lanciò un'occhiata al volto e riprese a camminare avanti e indietro. «Per la mia [[Soul|anima]], non so cosa dire. È così immensamente assurdo!»
+
+Ora gli spettava il compito di richiedere la segretezza.
+
+«Se dovessi fare una cosa così ridicola», disse, fermandosi di nuovo e appoggiandosi al caminetto, «sarebbe solo nel più assoluto segreto.»
+
+'Confido in lei, signore,' rispose Sissy, 'e lei confiderà in me.'
+
+Il suo appoggiarsi al caminetto gli ricordò la [[Night|notte]] con il cucciolo.
+Era lo stesso identico caminetto, e in qualche modo si sentiva come se _lui_
+fosse il cucciolo di stasera. Non riusciva a fare alcun progresso.
+
+«Suppongo che un uomo non sia mai stato messo in una posizione più ridicola», disse dopo aver guardato giù e poi su, ridendo e aggrottando la fronte, allontanandosi e tornando indietro. «Ma non vedo via d'uscita. Sarà quel che sarà. _Questo_ sarà, immagino. Devo togliere di mezzo me stesso, credo — insomma, mi impegno a farlo».
+
+Sissy [[Rose|si alzò]]. Non fu sorpresa dal risultato, ma ne fu felice e il suo viso si illuminò di un largo sorriso.
+
+«Mi permetterà di dire», continuò il signor [[James Harthouse]], «che io [[Doubt|dubito]]
+che qualsiasi altro ambasciatore, o ambasciatrici, avrebbe potuto rivolgersi a me con lo stesso [[success|successo]].  Non posso che considerarmi non solo in una posizione molto ridicola, ma sconfitto su tutti i fronti. Mi concederà il privilegio di ricordare il nome del mio nemico?»
+
+«Il _mio_ nome?» disse l'ambasciatricessa.
+
+«L'unico nome che potrei desiderare di conoscere, [[Night|questa]] sera».
+
+«[[Sissy Jupe|Cecilia Tappo]]».
+
+'Perdoni la mia curiosità nel congedarmi. Parente della famiglia?'
+
+«Sono solo una povera ragazza», rispose Sissy. «Fui separata da mio padre, che era solo un girovago, e presi in simpatia dal signor Gradgrind. Da allora ho vissuto nella [[house|casa]].»
+
+Era sparita.
+
+«Voleva questo per completare la sconfitta», disse il signor [[James Harthouse]],
+sedendosi, con aria rassegnata, sul divano dopo essere rimasto immobile un
+po' di tempo. «La sconfitta può ora dirsi perfettamente compiuta.
+Solo una povera ragazza — solo una vagabonda — solo [[James Harthouse]] che non ha fatto nulla
+— solo [[James Harthouse]] una Grande Piramide di fallimenti».
+
+La Grande Piramide gli fece venire in mente di risalire il Nilo. Prese subito una penna e scrisse la seguente nota (in geroglifici appropriati) a suo fratello:
+
+Caro Jack, — Tutto finito a Coketown. Mi annoio da morire e sto per mettermi con i cammelli.
+
+Con affetto,
+JEM.
+
+Suonò il campanello.
+
+"Mandatemi il mio compagno."
+
+'Andato a letto, signore.'
+
+'Ordinategli di alzarsi e fare i bagagli.'
+
+Scrisse altri due biglietti. Uno per il signor Bounderby, annunciando la sua ritirata da quella parte del paese e indicando dove lo si sarebbe potuto trovare nelle successive due settimane. L'altro, di contenuto simile, era indirizzato al signor Gradgrind. Appena l'inchiostro delle buste fu asciutto, lasciò alle spalle i camini altissimi di Coketown e si trovava in un vagone ferroviario, sfrecciando e scrutando il paesaggio buio.
+
+I tipi morigerati potrebbero supporre che il signor [[James Harthouse]] abbia tratto in seguito qualche confortante riflessione da questa pronta ritirata, come uno dei suoi pochi atti che riparassero a qualcosa e come un segno per lui stesso di essere sfuggito al culmine di una faccenda davvero spiacevole. Ma non fu affatto così. Un senso segreto di aver fallito ed essersi reso ridicolo, il timore di ciò che avrebbero detto a sue spese altri tipi coinvolti in cose simili se lo avessero saputo, lo opprimevano talmente che quel momento, uno dei migliori della sua vita, era l'unico tra tutti quelli che non avrebbe voluto riconoscere per nulla al mondo e l'unico che gli faceva vergogna di sé.
+
 
 
 <span class="atom-split" data-atom="chapter_68--part_01" data-title="Hard Times — Chapter 3 (part 1)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/night,motif/storm,motif/tears,motif/time,motif/water,motif/well,concept/suffering,character/james_harthouse,character/josiah_bounderby,character/tom_gradgrind"></span>
@@ -21658,6 +26423,69 @@ I know.  If you mean to say anything to me to-[[Night|night]], that goes against
 this candid remark, you had better let it [[Alone|alone]].’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO III
+MOLTO DECISO
+
+L’infaticabile signora Sparsit, con un violento raffreddore che le aveva ridotto la voce a un sussurro e scuoteva il suo maestoso corpo con continui starnuti fino al punto da sembrare in pericolo di dismembramento, inseguì il suo mecenate finché lo trovò nella metropoli; e lì, irrompendo magnificamente nel suo hotel a St. James’s Street, fece esplodere i combustibili con cui era carica e saltò in aria. Dopo aver portato a termine la sua missione con infinita soddisfazione, questa donna di alto lignaggio svenne sul colletto del cappotto del signor Bounderby.
+
+La prima cosa che fece il signor Bounderby fu di scrollarsi di dosso la signora Sparsit e lasciarla progredire come poteva attraverso vari stadi di [[Suffering|sofferenza]] sul pavimento.  Poi ricorse all'amministrazione di potenti rimedi, quali torcere i pollici della paziente, batterle le mani, innaffiare abbondantemente il suo viso e metterle del sale in bocca.  Quando questi accorgimenti l'ebbero fatta rinvenire (il che avvenne rapidamente), la spinse su un treno veloce senza offrirle altro nutrimento e la riportò a Coketown più morta che viva.
+
+Considerata come una rovina classica, la signora Sparsit era uno spettacolo interessante al suo arrivo alla fine del [[Journey|viaggio]]; ma considerata sotto qualsiasi altro aspetto, il danno che aveva subito a quel [[Time|tempo]] era eccessivo e ne pregiudicava i meriti di ammirazione. Completamente incurante dell'usura dei suoi vestiti e della sua costituzione, e irremovibile nei suoi patetici starnuti, il signor Bounderby la infilò immediatamente in una carrozza e la portò via a Stone Lodge.
+
+«Ora, [[Tom Gradgrind]]», disse Bounderby, irrompendo nella stanza del suocero tardi a [[Night|notte]]; «c'è qui una signora - la signora Sparsit - conosci la signora Sparsit - che ha qualcosa da dirti che ti lascerà senza parole.»
+
+«Avete perso la mia lettera!» esclamò il signor Gradgrind, sorpreso dall'apparizione.
+
+«Non ho ricevuto la sua lettera, signore!» tuonò Bounderby. «Il presente [[Time|momento]] non è un
+[[Time|momento]] adatto alle lettere. Nessuno potrà parlare a [[Josiah Bounderby]] di Coketown
+di lettere, con la mente nello stato in cui si trova ora».
+
+«Bounderby», disse il signor Gradgrind con tono di moderata protesta,
+«mi riferisco a una lettera molto particolare che ti ho scritto riguardo
+a Louisa.»
+
+«[[Tom Gradgrind]]», rispose Bounderby, battendo più volte il palmo della mano sul tavolo con grande veemenza, «parlo di un messaggero molto particolare che mi è venuto a trovare riguardo a Louisa.  Mrs. Sparsit, signora, faccia un passo avanti!»
+
+Quella sventurata signora tentò quindi di testimoniare senza voce e con dolorosi gesti che esprimevano una gola infiammata, divenne così irritante e subì tante contorsioni facciali da indurre il signor Bounderby a non poterne più, afferrarla per un braccio e scuoterla.
+
+«Se non riesce a farlo uscire, signora», disse Bounderby, «lasci fare _a me_. Questo non è un [[Time|momento]] per una signora, anche altamente connessa, di essere completamente inudibile e sembrare che stia ingoiando delle pietre.  [[Tom Gradgrind]], la signora Sparsit si è recentemente trovata, per caso, nella situazione di ascoltare una conversazione all'aperto tra sua figlia e il suo prezioso amico gentiluomo, il signor [[James Harthouse]].»
+
+«Davvero!» disse il signor Gradgrind.
+
+'Ah! Proprio così!' esclamò Bounderby. 'E in quella conversazione, '
+
+'Non è necessario ripetere il contenuto, Bounderby. So cosa è successo.'
+
+«Lo sapete? Forse», disse Bounderby, fissando con tutta la sua forza il suocero così tranquillo e persuasivo, «sapete dove si trova vostra figlia in questo [[Time|momento]]!»
+
+'Indubbiamente. È qui.'
+
+'Qui?'
+
+«Mio caro Bounderby, ti prego di contenere questi scoppi rumorosi,
+per ogni ragione. Louisa è qui. Non appena ha potuto liberarsi da quel
+colloquio con la persona di cui parli e che mi dispiace profondamente
+averle presentato, Louisa si è precipitata qui in cerca di protezione.
+Io stesso non ero [[Home|a casa]] da molte ore quando l'ho ricevuta,
+qui, in questa stanza. È venuta in treno dalla città, ha corso dalla città a
+questa [[house|casa]], attraverso una furiosa [[Storm|tempesta]], e si è presentata
+davanti a me in uno stato di disperazione. Naturalmente, da allora è
+rimasta qui. Ti prego, per il tuo bene e per il suo, di essere più calmo».
+
+Il signor Bounderby rimase a guardarsi intorno per alcuni istanti,
+in tutte le direzioni tranne che verso la signora Sparsit; e poi,
+voltandosi bruscamente verso la nipote della lady Scadgers, disse a quella povera donna:
+
+«Ora, signora! Saremo felici di ascoltare qualsiasi piccola scusa lei possa ritenere opportuno offrire per essersi spostata in giro per il paese a tutta velocità, senza altro bagaglio che una storia alquanto fantasiosa, signora!»
+
+«Signore», sussurrò la signora Sparsit, «i miei nervi sono attualmente troppo scossi e la mia salute è attualmente troppo compromessa nel vostro servizio per permettermi di fare altro che rifugiarmi nelle [[Tears|lacrime]].» (E così fece.)
+
+«[[Well|Beh]], signora», disse Bounderby, «senza fare osservazioni che non si possano rivolgere con decoro a una donna di buona famiglia, ciò che ho da aggiungere è che c'è qualcos'altro in cui mi sembra lei possa trovare rifugio, e cioè un calesse. E dato che il calesse con cui siamo venuti qui è alla porta, mi permetterà di accompagnarla fino a esso e spedirla [[Home|a casa]] alla Banca: dove la cosa migliore che lei possa fare sarà mettere i piedi nell'[[Water|acqua]] più calda che riesce a sopportare e prendere un bicchiere di rum bollente con burro dopo essere andata a letto». Con queste parole, il signor Bounderby tese la mano destra alla donna in lacrime e l'accompagnò fino al mezzo di trasporto in questione, emettendo per strada molti lamentosi starnuti. Tornò presto [[Alone|da solo]].
+
+«Ora che mi avete mostrato in volto, [[Tom Gradgrind]], di voler parlare con me», riprese, «eccomi qui. Ma non sono in uno stato molto piacevole, ve lo dico chiaro: questa faccenda non mi va giù neanche così com'è, e ritengo che [[Josiah Bounderby]] di Coketown non sia trattato da sua moglie con la dovuta deferenza e sottomissione. Avete il vostro parere, presumo; io ho il mio, lo so. Se intendete dirmi qualcosa stasera che va contro questa schietta osservazione, è meglio che ve ne [[Alone|asteniate]].»
+
 
 
 <span class="atom-split" data-atom="chapter_68--part_02" data-title="Hard Times — Chapter 3 (part 2)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/nature,motif/time,motif/well,concept/doubt,concept/education,concept/fear,concept/honour,concept/hope,concept/humility,concept/nature,character/josiah_bounderby,character/tom_gradgrind"></span>
@@ -21784,6 +26612,61 @@ would become her, by George! of the [[Honour|honour]] of his alliance.  That’s
 speaking, I [[Hope|hope]].’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Si noterà che il signor Gradgrind essendo molto addolcito, il signor Bounderby si prese particolare cura di indurirsi in tutti i sensi. Era la sua amabile [[Nature|natura]].
+
+«Mio caro Bounderby», cominciò a rispondere il signor Gradgrind.
+
+«Ora, mi scuserete», disse Bounderby, «ma non voglio essere troppo gentile. Questo è il punto di partenza. Quando comincio a essere gentile con un uomo, generalmente scopro che la sua intenzione è quella di approfittarsene. Non vi parlo in modo cortese; ma, come sapete, _non_ sono cortese. Se gradite la cortesia, sapete dove trovarla. Avete i vostri amici gentiluomini, lo sapete, e loro vi serviranno quanta ne volete di quella roba. Io non ce l'ho».
+
+'Bounderby,' insistette il signor Gradgrind, 'siamo tutti soggetti a errori, '
+
+«Pensavo che non sapessi farli», interruppe Bounderby.
+
+«Forse ho pensato così. Ma dico che siamo tutti soggetti a errori e apprezzerei la vostra delicatezza, e ne sarei grata, se mi risparmiaste questi riferimenti ad Harthouse. Non lo includerò nelle nostre conversazioni con la vostra intimità e incoraggiamento; vi prego di non insistere nel collegarlo al mio.»
+
+«Non ho mai menzionato il suo nome!» disse Bounderby.
+
+«[[Well|Bene]], [[Well|bene]]!», rispose il signor Gradgrind con aria paziente, anzi sottomessa. E rimase seduto per un po' a riflettere. «Bounderby, vedo ragione di [[Doubt|dubitare]] che abbiamo mai capito del tutto Louisa».
+
+'Chi intendi con Noi?'
+
+«Permettetemi di dire io, allora», rispose, in risposta alla domanda brutalmente espressa; «[[Doubt|Dubito]] di aver capito Louisa.  [[Doubt|Dubito]] di essere stato del tutto giusto nel modo in cui l'ho [[Education|educata]].»
+
+«Ecco dove hai centrato il bersaglio», rispose Bounderby. «Su questo punto sono d'accordo con te. Alla fine l'hai scoperto, eh? [[Education|Istruzione]]! Ti dirò io cos'è l'[[Education|istruzione]]: essere cacciati fuori di casa a calci e messi alla fame, tranne che per le botte. Questo è quello che _io_ chiamo [[Education|istruzione]].»
+
+«Penso che il vostro buonsenso vi faccia comprendere», obiettò Gradgrind con tutta la sua [[Humility|umiltà]], «che qualunque siano i meriti di un tale sistema, sarebbe difficile applicarlo in generale alle ragazze.»
+
+«Non lo vedo affatto, signore», rispose l'ostinato Bounderby.
+
+«[[Well|Bene]],» sospirò il signor Gradgrind «non entreremo nel merito della questione.  Vi assicuro che non ho alcun [[Desire|desiderio]] di essere polemico.  Cerco di riparare a ciò che è sbagliato, se posso; e [[Hope|spero]] che mi aiuterete con spirito positivo, Bounderby, perché sono stato molto turbato».
+
+«Non vi capisco ancora», disse Bounderby con ostinata determinazione,
+«e quindi non voglio fare promesse».
+
+«Nel corso di poche ore, mio caro Bounderby», proseguì il signor Gradgrind nello stesso tono abbattuto e propiziatorio, «mi sembra di essermi informato meglio sul carattere di Louisa che negli anni precedenti. L'illuminazione mi è stata dolorosamente imposta e la scoperta non è mia. Penso che ci siano - Bounderby, sarai sorpreso nel sentirmelo dire - penso che in Louisa ci siano delle qualità che sono state trascurate con durezza e un po' pervertite. E vorrei suggerirti di volermi cortesemente incontrare in uno sforzo tempestivo per lasciarla alla sua migliore [[Nature|natura]] per un po' - e incoraggiarla a svilupparsi con tenerezza e considerazione - sarebbe meglio per la felicità di tutti noi. Louisa», disse il signor Gradgrind, coprendosi il volto con una mano, «è sempre stata la mia [[Child|figlia]] preferita».
+
+Il pomposo Bounderby divenne cremisi e si gonfiò fino a tal punto nel
+sentire queste parole che sembrava, ed era probabilmente, sull'orlo di un
+attacco.  Con le orecchie stesse di un vivido porpora striato di cremisi,
+egli trattenne la propria indignazione e disse:
+
+«Vorreste tenerla qui per un [[Time|po’]]?»
+
+«Io — io avevo inteso di consigliare, mio caro Bounderby, che permetteste a Louisa di rimanere qui come ospite e di essere assistita da Sissy (intendo naturalmente Cecilia Jupe), che la comprende e in cui lei ha fiducia.»
+
+«Deduco da tutto questo, [[Tom Gradgrind]]», disse Bounderby alzandosi e mettendo le mani nelle tasche, «che lei è dell'opinione che esista quella che si chiama una certa incompatibilità tra Loo Bounderby e me».
+
+«[[Fear|Temo]] che attualmente esista una generale incompatibilità tra Louisa e—e—e quasi tutte le relazioni nelle quali l'ho inserita», fu la triste risposta di suo padre.
+
+«Ora, ascoltami bene, [[Tom Gradgrind]]», disse Bounderby arrossato,
+fronteggiandolo con le gambe larghe, le mani infilate ancora più in profondità nelle tasche e i capelli come un campo di grano nel quale la sua rabbia ventosa soffiava impetuosa. «Hai detto la tua; ora dirò io la mia. Sono un uomo di Coketown. Sono [[Josiah Bounderby]] di Coketown. Conosco i mattoni di questa città, conosco le fabbriche di questa città, conosco i camini di questa città, conosco il fumo di questa città e conosco gli operai di questa città. Li conosco tutti piuttosto [[Well|bene]]. Sono reali. Quando un uomo mi dice qualcosa riguardo alle qualità immaginative, io dico sempre a quell'uomo, chiunque egli sia, che so cosa intende dire. Vuol dire zuppa di tartaruga e cervo con cucchiaio d'oro, e vuole avere una carrozza con sei cavalli. Questo è ciò che vuole tua figlia. Poiché tu ritieni che debba avere ciò che desidera, ti consiglio di procurarglielo. Perché, [[Tom Gradgrind]], non lo avrà mai da me».
+
+«Bounderby», disse il signor Gradgrind, «speravo che dopo la mia supplica avresti assunto un tono diverso».
+
+«Aspetti un attimo», ribatté Bounderby; «credo che lei abbia detto la sua. L'ho ascoltata fino in fondo; ora mi ascolti anche lei, per favore. Non si renda ridicolo per l'ingiustizia oltre che per l'incoerenza, perché, sebbene mi dispiaccia vedere [[Tom Gradgrind]] ridotto alla sua attuale condizione, sarei doppiamente dispiaciuto di vederlo cadere così in basso. Ora, esiste un'[[Well|incompatibilità]] di un tipo o dell'altro, mi è stato fatto capire da lei, tra sua figlia e me. Le farò capire io, in risposta a questo, che c'è senza dubbio un'incompatibilità della prima grandezza — riassumibile nel fatto — che sua figlia non conosce adeguatamente i meriti di suo marito, e non è impressionata da quel senso che le si addice, accidenti!, dell'[[Honour|onore]] della sua alleanza. Questo è parlare chiaro, [[Hope|spero]].»
+
 
 
 <span class="atom-split" data-atom="chapter_68--part_03" data-title="Hard Times — Chapter 3 (part 3)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/night,motif/noon,motif/well,concept/fear,concept/hope,concept/truth,concept/wonder,character/josiah_bounderby,character/stephen_blackpool,character/tom_gradgrind"></span>
@@ -21893,6 +26776,53 @@ carefully packed up and sent to [[Tom Gradgrind]]’s; advertised his country
 retreat for sale by private contract; and resumed a bachelor life.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+'Bounderby,' insistette il signor Gradgrind, 'questo è irragionevole.'
+
+«È così?» disse Bounderby. «Sono contento di sentirvelo dire. Perché quando [[Tom Gradgrind]], con le sue nuove idee, mi dice che quello che dico è irragionevole, sono subito convinto che debba essere dannatamente sensato. Con il vostro permesso continuo. Sapete da dove vengo; e sapete che per molti anni della mia vita non ho avuto bisogno di un bavero per scarpe, in quanto non avevo scarpe. Eppure potete credere o no, come preferite, che ci sono signore — signore nate — appartenenti a famiglie — Famiglie! — che mi adorano quasi fino al punto di venerare il terreno su cui cammino».
+
+E sparò questa come un razzo contro la testa del suocero.
+
+«Mentre vostra figlia», continuò Bounderby, «è tutt'altro che una signora di nascita. Lo sapete [[Well|bene]] anche voi. Non che io me ne importi un accidente, perché sapete benissimo che non è così; ma i fatti sono questi e voi, [[Tom Gradgrind]], non potete cambiarli. Perché lo dico?»
+
+«Non per risparmiare me, temo», osservò il signor Gradgrind con voce bassa, «[[Fear|temo]].»
+
+«Sentitemi», disse Bounderby, «e astenetevi di interrompere finché non arriva il vostro turno. Lo dico perché donne altamente collegate si sono mostrate sorprese nel vedere come si è comportata vostra figlia e nel constatarne l'insensibilità. Si sono chieste come io abbia potuto tollerarlo. E ora [[Wonder|mi domando]] anch'io la stessa cosa, e non lo tollererò più».
+
+«Bounderby», rispose il signor Gradgrind alzandosi, «meno diciamo [[Night|questa]] sera e meglio è, credo».
+
+«Al contrario, [[Tom Gradgrind]], più ne parliamo stasera e meglio è, credo.  Cioè», la riflessione lo frenò, «fino a quando non avrò detto tutto quello che intendo dire, dopodiché non mi importa quanto presto ci fermiamo.  Arrivo a una domanda che potrebbe abbreviare il discorso.  Che cosa intendi con la proposta che hai fatto poco fa?»
+
+'Che intendo, Bounderby?'
+
+«Per quanto riguarda la sua proposta di visita», disse Bounderby con un gesto deciso verso il campo da fieno.
+
+«Voglio dire che [[Hope|spero]] possiate essere indotto ad accordarvi amichevolmente per concedere a Louisa un periodo di riposo e riflessione qui, che potrebbe portare a una graduale trasformazione in meglio sotto molti aspetti.»
+
+«A un addolcimento delle sue idee sull'incompatibilità?» disse Bounderby.
+
+'Vediamo le cose da questo punto di vista.'
+
+«Che cosa le ha fatto venire in mente questo?» disse Bounderby.
+
+«Ho già detto che [[Fear|temo]] che Louisa non sia stata compresa. È chiedere troppo, Bounderby, che tu, essendo così tanto più anziano di lei, la aiuti a mettersi sulla retta via? Hai accettato una grande responsabilità nei suoi confronti; per il meglio o per il peggio, per—»
+
+Il signor Bounderby potrebbe essere stato infastidito dalla ripetizione delle sue stesse parole a [[Stephen Blackpool]], ma interruppe la citazione con un brusco sussulto di rabbia.
+
+«Che cosa!» disse lui «Non voglio che mi si parli di questo. So per quale motivo l'ho presa con me, tanto [[Well|bene]] quanto lo sai tu. Non ti preoccupare del motivo per cui l'ho presa; è affar mio».
+
+«Stavo semplicemente continuando a dire, Bounderby, che potremmo tutti avere più o meno torto, senza escludere nemmeno lei; e che una certa disponibilità da parte sua, ricordando la fiducia che ha accettato, non solo potrebbe essere un atto di vera gentilezza, ma forse anche un debito contratto nei confronti di Louisa.»
+
+«Io penso diversamente», sbottò Bounderby. «Intendo concludere questa faccenda secondo le mie opinioni. Ora, non voglio fare una questione personale con te, [[Tom Gradgrind]]. Per dirti la [[Truth|verità]], non credo che sarebbe degno della mia reputazione litigare su un tale argomento. Quanto al tuo amico gentiluomo, può andarsene dove preferisce. Se mi capita di incontrarlo, gli dirò quello che penso; se non lo incontro, non lo farò, perché non ne varrebbe la pena. Per quanto riguarda tua figlia, che ho reso Loo Bounderby e avrei fatto meglio lasciando Loo Gradgrind, se non tornerà [[Home|a casa]] domani entro le dodici o'[[Clock|clock]] di [[Noon|mezzogiorno]], capirò che preferisce rimanere lontana e manderò qui i suoi abiti e così via, e tu ti prenderai cura di lei in futuro. Quello che dirò alla gente in generale sull'incompatibilità che mi ha portato a stabilire queste regole sarà questo: io sono [[Josiah Bounderby]] e ho avuto la mia educazione; lei è la figlia di [[Tom Gradgrind]] e ha avuto la sua educazione; e i due cavalli non tiravano insieme. Sono abbastanza [[Well|noto]] per essere piuttosto un uomo fuori dal comune, credo; e la maggior parte delle persone capirà abbastanza in fretta che deve trattarsi di una donna anch'essa alquanto fuori dal comune, che alla fine sarebbe arrivata al mio livello.»
+
+«Le chiedo seriamente di ripensarci, Bounderby», insistette il signor Gradgrind, «prima di impegnarsi in una tale decisione.»
+
+«Io prendo sempre una decisione», disse Bounderby, gettando il cappello su: «e qualunque cosa faccia, la faccio subito. Sarei sorpreso se [[Tom Gradgrind]] rivolgesse un tale commento a [[Josiah Bounderby]] di Coketown, sapendo quello che sa di lui, se potessi essere sorpreso da qualcosa che [[Tom Gradgrind]] facesse, dopo essersi reso complice di una mistificazione sentimentale. Vi ho dato la mia decisione e non ho altro da dire. Buona [[Night|notte]]!»
+
+Così il signor Bounderby tornò [[Home|a casa]] nella sua villa cittadina per coricarsi.
+Alle cinque minuti dopo le dodici del giorno seguente, ordinò che i beni della signora Bounderby fossero meticolosamente imballati e inviati a [[Tom Gradgrind]]; mise in vendita la sua residenza di campagna con contratto privato; e riprese una vita da scapolo.
+
 
 
 <span class="atom-split" data-atom="chapter_69--part_01" data-title="Hard Times — Chapter 4 (part 1)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="archetype/self_made_man,motif/bells,motif/dust,motif/fire,motif/garden,motif/night,concept/courage,concept/self,concept/union,concept/wonder,character/stephen_blackpool,character/venus"></span>
@@ -21998,6 +26928,59 @@ army; the general assemblage subscribed to the gospel according to
 Slackbridge, and gave three cheers for him, as he sat demonstratively
 panting at them.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IV
+SMARRITI
+
+LA rapina alla Banca non era stata dimenticata prima e continuò ad occupare un posto di primo piano nell'attenzione del direttore dell'istituto anche ora. A dimostrazione della sua prontezza e attività, come uomo straordinario, [[Self-Made Man|uomo autodidatta]] e [[Wonder|meraviglia]] commerciale più ammirevole di [[Venus|Venere]], che era emerso dal fango invece che dal mare, gli piaceva mostrare quanto poco le sue faccende domestiche attenuassero il suo fervore lavorativo. Di conseguenza, nelle prime settimane del suo ritorno alla vita da scapolo, aumentò persino la sua solita ostentazione di trambusto e ogni giorno faceva un tale baccano rinnovando le indagini sulla rapina che gli agenti incaricati quasi desideravano che non fosse mai stata commessa.
+
+Anche loro erano in torto e fuorviati. Sebbene fossero stati così tranquilli da quando era scoppiata la faccenda che la maggior parte delle persone aveva davvero creduto che fosse stata abbandonata come senza speranza, non accadde nulla di nuovo. Nessun uomo o donna implicato prese un [[Courage|coraggio]] sconsiderato né fece un passo auto-[[Self|traditore]]. Ancora più notevole, si era persa ogni traccia di [[Stephen Blackpool]] e la misteriosa vecchia rimaneva un mistero.
+
+Le cose essendo arrivate a questo punto, e non mostrando alcun segno latente di andare oltre, il risultato delle indagini del signor Bounderby fu che decise di rischiare un'audace mossa. Redasse un manifesto in cui offriva una ricompensa di Venti Sterline per l'apprensione di [[Stephen Blackpool]], sospettato di complicità nel furto alla Banca di Coketown in una certa [[Night|notte]]; descrisse detto [[Stephen Blackpool]] per abbigliamento, carnagione, altezza stimata e modo di fare, con la massima minuzia possibile; raccontò come avesse lasciato la città e in quale direzione fosse stato visto andare l'ultima volta; fece stampare il tutto in grandi lettere nere su un manifesto appariscente; e fece affiggere i manifesti sui muri nel cuore della [[Night|notte]], così che colpissero la vista di tutta la popolazione in un solo colpo.
+
+I [[Bells|campanelli]] della fabbrica dovettero suonare più forte quel mattino per disperdere i gruppi di operai che si trovavano nella tarda alba, radunati intorno ai manifesti e li divoravano con occhi avidi. Gli occhi meno ansiosi tra quelli riuniti erano quelli di coloro che non sapevano leggere. Queste persone, mentre ascoltavano la voce amichevole che leggeva ad alta voce - c'era sempre qualcuno così disponibile a dar loro una mano - fissavano i caratteri che significavano tanto con un vago timore e rispetto che sarebbe stato in parte ridicolo, se qualche aspetto dell'ignoranza pubblica potesse mai essere diverso da minaccioso e pieno di mali. Per ore dopo molti occhi e orecchie furono impegnati a immaginare il contenuto dei manifesti tra i fusi che giravano, i telai che tintinnavano e le ruote che vorticavano; e quando gli operai uscirono di nuovo per le strade c'erano ancora tanti lettori come prima.
+
+Slackbridge, il delegato, quella [[Night|sera]] dovette pure rivolgersi al suo uditorio;
+e Slackbridge aveva ottenuto un certificato di buona salute dal tipografo,
+e lo portava in tasca. Oh, miei amici e concittadini, gli operai oppressi
+di Coketown, oh, miei fratelli nella fede e nel lavoro, cittadini e uomini,
+che confusione ci fu quando Slackbridge srotolò quel che chiamava "quel documento
+accusatorio", e lo mostrò alla vista e per l'abominio della comunità degli operai!
+"Oh, miei fratelli, guardate di che cosa è capace un traditore accampato tra quegli
+spiriti grandi che sono iscritti sul rotolo sacro della Giustizia e dell'[[Union|Unione]],
+è veramente degno! Oh, miei amici prostrati, con il giogo dei tiranni sul collo
+e il piede di ferro del dispotismo che calpesta le vostre forme cadute nella [[Dust|polvere]]
+della terra, sulla quale i vostri oppressori sarebbero ben contenti di vedervi strisciare
+sulla pancia tutti i giorni della vostra vita, come il serpente nel [[Garden|giardino]]—oh,
+miei fratelli, e posso aggiungere, mie sorelle anche, che ne dite, _ora_, dello
+[[Stephen Blackpool]], con una leggera curvatura sulle spalle e circa cinque piedi
+e sette pollici di altezza, come descritto in questo documento degradante e disgustoso,
+questo provvedimento deleterio, questa perniciosa affiggione, questo abominevole annuncio;
+e con quale maestà di denuncia schiaccerete il veleno che vorrebbe portare
+questa macchia e vergogna sulla razza divina da cui è stato fortunatamente scacciato per sempre!
+Sì, miei connazionali, fortunatamente scacciato ed espulso! Perché ricordate come stette qui
+davanti a voi su questo palco; ricordate come, faccia a faccia e piede a piede,
+lo inseguii attraverso tutti i suoi intricati giri; ricordate come si nascose e sgusciò,
+e si fece da parte, e spaccò il capello in quattro, finché, senza un pollice di terreno
+a cui aggrapparsi, lo scagliai fuori tra noi: un oggetto per l'eterna dita del disprezzo
+da indicare, e per il [[Fire|fuoco]] vendicatore di ogni mente libera e pensante da bruciare e segnare!
+E ora, miei amici—miei amici lavoratori, perché mi rallegro e trionfo in questo stigma—
+miei amici le cui dure ma oneste lettiere sono fatte nel lavoro, e i cui scarsi ma indipendenti
+pentoloni bollono nella difficoltà; ed ora, dico, miei amici, quale appellativo si è preso
+questo codardo vigliacco, quando, con la maschera strappata dal suo volto,
+sta davanti a noi in tutta la sua deformità nativa? Un che? Un ladro! Un saccheggiatore!
+Un fuggitivo proscritto, con un prezzo sulla testa; una piaga e una ferita sul nobile carattere
+dell'operaio di Coketown! Pertanto, mia banda di fratelli in un legame sacro,
+al quale i vostri figli e i figli dei vostri figli ancora [[unborn|non nati]] hanno posto le loro mani infantili e sigilli,
+vi propongo a nome del Tribunale Aggregato Unito, sempre vigilante per il vostro benessere,
+sempre zelante per il vostro beneficio, che questa riunione Risolva: Che [[Stephen Blackpool]],
+tessitore, menzionato in questo manifesto, avendo già solennemente rinnegato
+dalla comunità delle Mani di Coketown, gli stessi sono liberi dalla vergogna dei suoi misfatti,
+e non possono come classe essere rimproverati per le sue azioni disoneste!"
+
+Così Slackbridge, digrignando e sudando in maniera prodigiosa. Alcune voci severe gridarono «No!» e una ventina di persone acclamarono con approvazione, tra gli «Evviva!», l'avvertimento di un uomo: «Slackbridge, sei troppo accalorato; stai andando troppo veloce!». Ma questi erano pigmei contro un esercito; la folla in generale sottoscrisse il vangelo secondo Slackbridge e gli fece i tre evviva mentre lui sedeva dimostrativamente ansimante davanti a loro.
 
 
 
@@ -22146,6 +27129,83 @@ become of yours, I leave you to guess.  Perhaps you’re mistaken, and
 never wrote any.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Questi uomini e donne erano ancora per strada, dirigendosi tranquillamente verso casa, quando Sissy, che era stata chiamata via da Louisa alcuni minuti prima, tornò indietro.
+
+«Chi è?» chiese Louisa.
+
+«È il signor Bounderby», disse Sissy, timorosa del nome, «e tuo fratello
+il signor Tom e una giovane donna che dice di chiamarsi Rachael e che tu la conosci.»
+
+'Che cosa vogliono, cara Sissy?'
+
+'Vogliono vederti. Rachael ha pianto e sembra arrabbiata.'
+
+«Padre», disse Louisa, poiché egli era presente, «non posso rifiutarmi di vederli per un motivo che si spiegherà da sé. Entreranno qui?»
+
+Poiché rispose affermativamente, Sissy se ne andò per portarli. Riapparve subito dopo con loro. Tom fu l'ultimo e rimase in piedi nella parte più oscura della stanza, vicino alla porta.
+
+«Signora Bounderby», disse il marito entrando con un cenno del capo freddo, «non la disturbo, [[Hope|spero]]. È un'ora inopportuna, ma ecco una giovane donna che ha fatto delle dichiarazioni che rendono necessaria la mia visita. [[Tom Gradgrind]], poiché suo figlio, il giovane Tom, rifiuta per qualche ragione ostinata di dire qualcosa su quelle dichiarazioni, buono o cattivo che sia, sono costretto a confrontarla con sua figlia».
+
+«Mi ha già visto una volta prima d'ora, signorina», disse Rachael,
+fermandosi davanti a Louisa.
+
+Tom tossì.
+
+"Mi ha già visto, signorina," ripeté Rachel, poiché lei non rispondeva, "una volta prima."
+
+Tom tossì di nuovo.
+
+'Ho fatto.'
+
+Rachael lanciò uno sguardo orgoglioso verso il signor Bounderby e disse: «Vuoi forse far sapere a tutti, giovane donna, dove sei stata e chi c'era?»
+
+«Sono andato alla [[house|casa]] dove alloggiava [[Stephen Blackpool]], la [[Night|notte]] del suo licenziamento dal lavoro, e vi ho visto voi. C'era anche lui; e una vecchia che non parlava, e che a malapena riuscivo a vedere, stava in un angolo buio. Mio fratello era con me».
+
+«Perché non hai potuto dirlo, giovane Tom?» chiese Bounderby.
+
+«Ho promesso a mia sorella che non l'avrei fatto.»  E Louisa confermò in fretta. «E poi,» disse il marmocchio amaramente «lei racconta la sua storia così [[Well|bene]] — e con tanti particolari — che perché avrei dovuto toglierle le parole di bocca!»
+
+«Ditemi, signorina, se non vi dispiace», continuò Rachael, «perché, in un'ora disgraziata, siate mai venuta da Stephen quella [[Night|sera]].»
+
+«Provavo compassione per lui», disse Louisa arrossendo, «e volevo sapere cosa avrebbe fatto e offrirgli il mio aiuto.»
+
+'Grazie, signora,' disse Bounderby. 'Molto lusingato e obbligato.'
+
+«Gli hai offerto», chiese Rachael, «una banconota?»
+
+"Sì, ma lui ha rifiutato e ha preso solo due sterline in oro."
+
+Rachael di nuovo volse lo sguardo verso il signor Bounderby.
+
+«Oh, certamente!» disse Bounderby «Se si pone la domanda se il suo racconto ridicolo e improbabile sia vero o no, sono costretto a dire che è confermato.»
+
+«Signorina», disse Rachael, «[[Stephen Blackpool]] è stato ora chiamato un ladro in pubblico stampa per tutta questa città e altrove! Si è tenuta una riunione stasera dove di lui si è parlato nello stesso modo vergognoso. Stephen! Il ragazzo più onesto, il ragazzo più sincero, il migliore!» La sua indignazione l'abbandonò e scoppiò in singhiozzi.
+
+«Mi dispiace moltissimo», disse Louisa.
+
+«Oh, giovane signorina, giovane signorina», rispose Rachael, «[[Hope|spero]] che lei lo sia, ma non ne sono sicura! Non posso dire cosa potrebbe aver fatto! Gente come lei non ci conosce, non si cura di noi, non fa parte del nostro mondo. Non so bene perché sia venuta quella [[Night|notte]]. Potrebbe essere venuta per qualche suo scopo personale, senza pensare ai guai che avrebbe portato a un povero ragazzo come lui. Allora le ho detto: "Dio la benedica per essere venuta"; e lo dicevo con tutto il cuore, perché sembrava provasse tanta compassione per lui; ma ora non ne sono più così sicura, no, non ne sono più sicura!»
+
+Louisa non poteva rimproverarla per i suoi sospetti ingiusti; era così fedele alla sua idea dell'uomo e così afflitta.
+
+«E quando penso», disse Rachael tra i singhiozzi, «che il povero ragazzo era così grato, pensando che tu fossi così buono con lui—quando mi ricordo che si copriva il viso stanco con la mano per nascondere le [[Tears|lacrime]] che hai fatto salire lì—Oh, [[Hope|spero]] che tu possa pentirtene e non abbia motivo di farlo; ma non lo so, non lo so!»
+
+«Sei un bell'esemplare», ringhiò il cucciolo, muovendosi irrequieto nel suo angolo buio, «a venire qui con queste preziose imputazioni! Dovresti essere cacciato via per non sapere come comportarti e lo sarebbe giusto.»
+
+Non rispose nulla; e il suo pianto sommesso fu l'unico suono che si udì,
+fino a quando non parlò il signor Bounderby.
+
+«Eh?» disse lui «sai benissimo a cosa ti sei impegnato. È meglio che ci pensi su; non a questo».
+
+«È vero che mi dispiace», rispose Rachael asciugandosi gli occhi, «che qualcuno qui mi veda in questo stato; ma non permetterò di essere vista così ancora. Giovane signora, quando ho letto ciò che è stato stampato su Stephen — e che ha tanto [[Truth|verità]] quanto se fosse stato scritto su di te — sono andata subito alla Banca per dire che sapevo dove si trovava Stephen, e per dare una promessa sicura e certa che sarebbe stato qui entro due giorni. Non ho potuto incontrare il signor Bounderby allora, e tuo fratello mi ha mandato via, e ho cercato di trovarti, ma non eri da nessuna parte, e sono tornata al lavoro. Appena uscita dal Mulino stasera, mi sono affrettata ad ascoltare ciò che si diceva di Stephen — perché so con [[Pride|orgoglio]] che tornerà per vergognarsene! — e poi sono andata di nuovo a cercare il signor Bounderby, e l'ho trovato, e gli ho detto ogni parola che sapevo; e non ha creduto una sola parola di ciò che ho detto, e mi ha portata qui.»
+
+«Fin qui è vero», ammise Mr. Bounderby con le mani in tasca e il cappello in testa. «Ma vi ho già visto prima d'oggi, ve ne renderete conto, e so che non siete mai morti per aver parlato troppo. Ora, vi consiglio di non preoccuparvi tanto di parlare adesso, quanto di fare. Avete intrapreso qualcosa; tutto ciò che osservo al riguardo è: fatelo!»
+
+«Ho scritto a Stephen con la posta di questa mattina, come gli ho già scritto una volta da quando se n'è andato», disse Rachael; «e lui sarà qui al più tardi tra due giorni.»
+
+«Allora le dirò una cosa: forse non è a conoscenza», ribatté il signor Bounderby, «del fatto che lei stesso è stato tenuto d'occhio di tanto in tanto, dato che non si era escluso del tutto che fosse coinvolto in questa faccenda, considerato che la gente viene giudicata dal tipo di compagnia che frequenta. Non è stata trascurata nemmeno la posta. Quello che le dico è che nessuna lettera per [[Stephen Blackpool]] vi è mai finita dentro. Perciò, cosa sia successo alla sua, gli lascio il compito di indovinarlo. Forse si sbaglia e non ne ha mai scritta alcuna».
+
 
 
 <span class="atom-split" data-atom="chapter_69--part_03" data-title="Hard Times — Chapter 4 (part 3)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="topos/quest,archetype/innocent,archetype/shadow,motif/home,motif/night,motif/road,motif/soul,motif/tears,motif/time,concept/courage,concept/doubt,concept/faith,concept/fear,concept/hope,concept/mercy,character/stephen_blackpool"></span>
@@ -22288,6 +27348,84 @@ the echoes of his own words, which had rolled Heaven knows how far away
 in the daytime, came back instead, and abided by him until morning.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«Non era andato via da qui, signorina», disse Rachael rivolgendosi con aria supplichevole a Louisa, «da nemmeno una settimana quando mi mandò l'unica lettera che ho mai ricevuto da lui, dicendo di essere costretto a cercare lavoro sotto un altro nome.»
+
+«Oh, per tutti i diavoli!» esclamò Bounderby scuotendo la testa e fischiando «Cambia nome, eh?  È piuttosto sfortunato anche questo, per un tipo così immacolato.  Credo che sia considerato un po' sospetto davanti ai tribunali quando un [[Innocent|innocente]] si ritrova a possedere molti nomi.»
+
+«Che cosa», disse Rachael, con le [[Tears|lacrime]] di nuovo negli occhi, «che cosa, giovane signora, in nome della [[Mercy|Misericordia]], poteva fare quel povero ragazzo? I padroni contro di lui da una parte, gli operai contro di lui dall'altra, mentre lui voleva solo lavorare sodo in pace e fare ciò che riteneva giusto. Un uomo non può avere un [[Soul|anima]] sua propria, una mente sua propria? Deve sbagliare tutto il tempo da questo lato o deve sbagliare tutto il tempo dall'altro, oppure essere perseguitato come una lepre?»
+
+«In effetti, in effetti, lo compatisco con tutto il cuore», rispose Louisa; «e [[Hope|spero]] che si giustificherà.»
+
+«Non dovete avere alcuna [[Fear|paura]] di questo, giovane signora. È sicuro!»
+
+«Tanto più sicuro, immagino», disse il signor Bounderby, «perché lei si rifiuta di dire dove sia? Ehm?»
+
+«Non tornerà mai, per colpa mia, con la riprovazione ingiustificata di essere stato riportato indietro. Tornerà di sua spontanea volontà a scagionarsi e mettere alla vergogna tutti coloro che hanno offeso il suo buon nome, mentre lui non c'era per difenderlo. Gli ho detto tutto ciò che è stato fatto contro di lui», disse Rachael, scrollandosi di dosso ogni sospetto come una roccia respinge il mare, «e sarà qui al più tardi tra due giorni».
+
+«Nonostante ciò», aggiunse il signor Bounderby, «se riusciremo a catturarlo prima, avrà l'opportunità di scagionarsi. Quanto a voi, non ho nulla contro di voi; quello che mi avete detto si è rivelato vero e vi ho dato i mezzi per provarlo, e qui finisce tutto. Vi auguro una buona [[Night|notte]] a tutti! Devo andarmene a dare un'occhiata più da vicino a questa faccenda».
+
+Tom uscì dal suo angolo quando il signor Bounderby si mosse, lo seguì da vicino e se ne andò con lui. L'unica salutazione di commiato che gli rivolse fu un brontolante "Buona [[Night|notte]], papà!" Con una breve frase e uno sguardo torvo alla sorella, lasciò la [[house|casa]].
+
+Da quando il suo ancore più solido era tornato a [[Home|casa]], il signor Gradgrind aveva parlato poco. Era ancora seduto in silenzio quando Louisa disse con dolcezza:
+
+"Rachel, non mi tradirai un giorno, quando mi conoscerai meglio."
+
+«Mi rincresce», rispose Rachael in tono più mite, «di diffidare di qualcuno; ma quando io stessa sono così sospettata — e lo siamo tutti — non posso fare a meno di pensarci. Vi chiedo scusa per avervi offeso. Non penso più quello che ho detto prima. Eppure potrei tornarci, con quel povero ragazzo così maltrattato».
+
+«Gli hai detto nella tua lettera», chiese Sissy, «che i sospetti sembravano essersi concentrati su di lui perché era stato visto in giro per la Banca a [[Night|notte]]? Allora saprebbe che cosa dovrà spiegare al suo ritorno e sarebbe preparato.»
+
+«Sì, caro», rispose lei «ma non riesco a immaginare cosa mai lo abbia portato là. Non ci è mai stato prima. Non gli passava mai per la testa di farlo. La sua strada era la stessa della mia e non c'entrava niente».
+
+Sissy era già al suo fianco e le chiedeva dove abitasse e se poteva venire domani [[Night|sera]] per sapere se c'erano notizie di lui.
+
+«[[Doubt|Dubito]]», disse Rachael, «che possa essere qui fino al giorno dopo.»
+
+«Allora verrò anche la prossima [[Night|notte]]», disse Sissy.
+
+Quando Rachel, acconsentendo a ciò, se ne fu andata, il signor Gradgrind alzò la testa e disse alla figlia:
+
+«Louisa mia cara, non ho mai, per quanto ne sappia, visto quest'uomo. Credi che sia coinvolto?»
+
+«Penso di averlo creduto, padre, anche se con grande difficoltà. Non ci credo più adesso».
+
+«Voglio dire che vi siete persuaso a crederlo perché sapevate che era sospettato. Il suo aspetto e il suo comportamento sono così onesti?»
+
+'Onestissimo.'
+
+«E la sua sicurezza non vacilla! Mi chiedo», disse il signor Gradgrind pensieroso, «se il vero colpevole conosce queste accuse? Dove si trova? Chi è?»
+
+I suoi capelli avevano ultimamente iniziato a cambiare colore. Mentre si appoggiava di nuovo alla mano, sembrando grigio e vecchio, Louisa, con un'espressione di [[Fear|paura]] e pietà, gli corse vicino e si sedette accanto a lui. I suoi occhi incontrarono per caso quelli di Sissy in quel momento. Sissy arrossì e trasalì, e Louisa le mise un dito sulle labbra.
+
+La [[Night|sera]] dopo, quando Sissy tornò a [[Home|casa]] e disse a Louisa che Stephen non era venuto,
+lo disse sussurrando.  La [[Night|sera]] successiva, quando tornò a [[Home|casa]]
+con la stessa notizia, e aggiunse che di lui non si avevano notizie, parlò
+nello stesso tono basso e spaventato.  Dal momento in cui si erano scambiate
+quelle occhiate, non pronunciarono mai il suo nome ad alta voce né fecero riferimento a lui; né
+mai ripresero l'argomento del furto quando ne parlava il signor Gradgrind.
+
+I due giorni stabiliti passarono, trascorsero tre giorni e tre notti,
+e [[Stephen Blackpool]] non era arrivato, e rimaneva senza notizie.
+Il quarto giorno, Rachael, con fiducia immutata, ma ritenendo che la sua
+lettera fosse andata persa, si recò alla Banca e mostrò la lettera di lui,
+con il suo indirizzo in una colonia operaia, una delle tante non sulla
+strada principale [[Road|ma]] a sessanta miglia di distanza.  Furono inviati messaggeri
+in quel luogo, e l'intero paese aspettava che Stephen fosse portato in città il giorno dopo.
+
+Durante tutto questo [[Time|periodo]] il marmocchio si muoveva con il signor Bounderby come la sua [[Shadow|ombra]], assistendolo in tutte le procedure. Era molto agitato, terribilmente febbricitante, si mangiava le unghie fino all'osso, parlava con una voce dura e raucata e con labbra nere e secche. All'ora in cui l'uomo sospettato veniva cercato, il marmocchio era alla stazione; offrendosi di scommettere che se ne fosse andato prima dell'arrivo di coloro che erano stati mandati in [[Quest|ricerca]] di lui e che non si sarebbe presentato.
+
+Il cucciolo aveva ragione. I messaggeri erano tornati [[Alone|da soli]]. La lettera di Rachael era partita,
+la lettera di Rachael era stata consegnata. [[Stephen Blackpool]] era fuggito in quell'ora stessa;
+e nessuna [[Soul|anima]] ne sapeva più nulla. L'unica [[Doubt|dubbio]] a Coketown era se Rachael avesse scritto
+in buona [[Faith|fede]], credendo che lui sarebbe davvero tornato, o ammonendolo di fuggire.
+Su questo punto le opinioni erano divise.
+
+Sei giorni, sette giorni, ben oltre l'inizio di un'altra settimana. Il povero cucciolo raccolse uno spaventoso [[Courage|coraggio]] e cominciò a diventare sfacciato. «_Era_ il sospetto individuo il ladro? Una bella domanda! Se no, dov'era l'uomo, e perché non tornava?»
+
+Dov'era l'uomo e perché non tornava? Nel cuore della [[Night|notte]] gli echi delle sue stesse parole,
+che erano rimbombate chissà dove durante il giorno, tornarono invece indietro e lo accompagnarono fino al mattino.
+
 
 
 <span class="atom-split" data-atom="chapter_70--part_01" data-title="Hard Times — Chapter 5 (part 1)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/home,motif/journey,motif/night,motif/road,motif/time,motif/window,concept/doubt,concept/hope,concept/melancholy,concept/wonder,character/stephen_blackpool,character/sunday"></span>
@@ -22420,6 +27558,76 @@ ecstasy of excitement, struggling to open the door; Mrs. Sparsit seeing
 them at the same moment, called to them to stop.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO V
+TROVATO
+
+Giorno e [[Night|notte]] ancora, giorno e [[Night|notte]] ancora. Nessun [[Stephen Blackpool]]. Dov'era l'uomo, e perché non tornava?
+
+Ogni [[Night|sera]], Sissy si recava all'alloggio di Rachael e le faceva compagnia nella sua piccola stanza ordinata. Tutto il giorno, Rachael lavorava sodo come devono fare queste persone, qualunque fosse la loro preoccupazione. I serpenti di fumo erano indifferenti a chi si perdesse o si trovasse, a chi andasse male o bene; i [[Melancholy|malinconici]] elefanti pazzi, come gli uomini dei Fatti Incontrastabili, non alteravano minimamente la loro routine stabilita, qualunque cosa accadesse. Giorno e [[Night|notte]], ancora giorno e [[Night|notte]]. La monotonia era ininterrotta. Anche la scomparsa di [[Stephen Blackpool]] stava cadendo nella normale routine, diventando un [[Wonder|meraviglia]] monotono come qualsiasi macchinario a Coketown.
+
+«Dubito», disse Rachael, «che ci siano ancora venti persone in tutto questo posto che abbiano fiducia nel povero ragazzo.»
+
+Lo disse a Sissy mentre sedevano nel suo alloggio illuminato solo dalla lampada all'angolo della strada. Sissy era venuta lì quando già era buio per aspettare il suo ritorno dal lavoro; e da allora erano rimaste sedute alla [[Window|finestra]] dove Rachael l'aveva trovata, senza volere che una luce più forte brillasse sulla loro triste conversazione.
+
+«Se non fosse stato per la misericordia che mi ha fatto avere te con cui parlare», continuò Rachael, «ci sono momenti in cui penso che la mia mente non avrebbe retto. Ma prendo [[Hope|speranza]] e forza da te; e tu credi che anche se le apparenze possono essere contro di lui, alla fine sarà assolto?»
+
+«Lo credo davvero», rispose Sissy, «con tutto il cuore.  Ne sono così certa, Rachael, che la fiducia che tu hai in lui nonostante ogni scoraggiamento, è tale da non poter essere sbagliata, e quindi non ho più [[Doubt|dubbio]] su di lui di quanti ne avrei se lo conoscessi attraverso altrettanti anni di prove come te.»
+
+«E io, mia cara», disse Rachel con un tremito nella voce, «l'ho sempre conosciuto attraverso tutto questo come uno che, secondo i suoi modi tranquilli, è stato così fedele a tutto ciò che è onesto e buono, che se non si dovesse più sapere nulla di lui, e io dovessi vivere fino a cent'anni, potrei dire con il mio ultimo respiro: Dio sa cosa c'è nel mio cuore. Non ho mai smesso di fidarmi di [[Stephen Blackpool]]!»
+
+«Noi tutti crediamo alla Lodge, Rachael, che prima o poi verrà liberato dai sospetti.»
+
+«Più ne sono convinta, mia cara», disse Rachael,
+«e più mi sembra gentile che tu venga via da lì apposta per consolarmi e farmi compagnia e farti vedere con me quando non sono ancora del tutto libera da ogni sospetto, più mi dispiace di aver mai detto quelle parole di sfiducia alla giovane signora. Eppure io—»
+
+'Non la sospetti più, Rachael?'
+
+«Ora che ci ha riuniti più strettamente, no. Ma non riesco sempre a tenere lontano dalla mia mente, »
+
+La sua voce si abbassò tanto in un lento e sommesso dialogo con se stessa che Sissy,
+seduta al suo fianco, fu costretta a prestare attenzione per ascoltare.
+
+«Non riesco sempre a tenere lontani dalla mia mente dei sospetti su qualcuno. Non so chi sia, non capisco come o perché possa essere stato fatto, ma temo che qualcuno abbia tolto di mezzo Stephen. Sospetto che, tornando di sua spontanea volontà e dimostrandosi [[Innocent|innocente]] davanti a tutti, qualcuno sarebbe rimasto confuso, e per evitare ciò lo ha fermato e messo fuori gioco».
+
+«Questo è un pensiero terribile», disse Sissy impallidendo.
+
+'È un pensiero terribile pensare che potrebbe essere assassinato.'
+
+Cecilia rabbrividì e impallidì ancora di più.
+
+«Quando mi entra in mente, caro», disse Rachael, «e ci entrerà a volte,
+anche se faccio tutto il possibile per tenerlo fuori, contando fino a numeri altissimi mentre lavoro e ripetendo più e più volte brani che conoscevo quando ero un [[Child|bambino]]—mi prende una tale fretta selvaggia e febbrile che, anche se sono stanca, voglio camminare in fretta per miglia e miglia.  Devo superare questo prima di andare a letto-[[Time|time]].  Ti accompagno [[Home|a casa]]».
+
+«Potrebbe ammalarsi durante il [[Journey|viaggio]] di ritorno», disse Sissy, offrendo debolmente un logoro frammento di [[Hope|speranza]]; «e in tal caso ci sono molti posti sulla [[Road|strada]] dove potrebbe fermarsi».
+
+'Non si trova in nessuno di questi luoghi. Lo abbiamo cercato ovunque e non c'è.'
+
+«È vero», ammise controvoglia Sissy.
+
+«Avrebbe fatto il [[Journey|viaggio]] in due giorni. Se avesse i piedi doloranti e non potesse camminare, gli ho mandato, nella lettera che ha ricevuto, dei soldi per viaggiare, nel caso non ne avesse da spendere lui stesso».
+
+«[[Hope|Speriamo]] che domani ci porti qualcosa di meglio, Rachael.
+Vieni a prendere un po' d'aria!»
+
+La sua mano gentile sistemò lo scialle di Rachael sui suoi capelli neri e lucenti nel solito modo in cui lo indossava, e uscirono.  La [[Night|notte]] era bella, piccoli gruppi di Mani erano qua e là a sostare agli angoli delle strade; ma per la maggior parte di loro era l'ora della cena, e c'erano poche persone in giro.
+
+'Non sei più così di fretta ora, Rachael, e la tua mano è più fresca.'
+
+«Mi sento meglio, cara, se posso solo camminare e respirare un po' d'aria fresca.  
+«Quando non riesco, mi vengono debolezze e confusione».
+
+«Ma non dovete cominciare a vacillare, Rachael, perché potreste essere necessaria in qualsiasi [[Time|momento]] per stare accanto a Stephen. Domani è sabato. Se domani non arrivano notizie, passeggeremo in campagna la mattina di [[Sunday|domenica]] e vi rafforzerò per un'altra settimana. Volete venire?»
+
+'Sì, caro.'
+
+Erano ormai nella strada dove si trovava la [[house|casa]] del signor Bounderby.
+Il percorso verso la destinazione di Sissy li portò davanti alla porta e stavano
+andando dritti verso di essa. Un treno era appena arrivato a Coketown,
+mettendo in moto un certo numero di veicoli e diffondendo una notevole
+attività per tutta la città. Mentre si avvicinavano alla casa del signor Bounderby, diversi calessi stavano sfrecciando davanti e dietro di loro; uno di questi ultimi si fermò con tale vivacità proprio mentre stavano passando accanto alla [[house|casa]], che non poterono fare a meno di voltarsi. La luce del gas sopra i gradini della casa del signor Bounderby mostrò loro la signora Sparsit nel calesso, in preda a un'estasi di eccitazione mentre si sforzava di aprire lo sportello; la signora Sparsit li vide nello stesso istante e li chiamò per fermarli.
+
 
 
 <span class="atom-split" data-atom="chapter_70--part_02" data-title="Hard Times — Chapter 5 (part 2)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/love,motif/memory,motif/time,concept/body,concept/providence,concept/self,concept/temptation"></span>
@@ -22544,6 +27752,65 @@ against the [[Memory|memory]] of my poor mother, who died in my arms before Josi
 was born.  May you repent of it, sir, and live to know better!’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+«È una coincidenza», esclamò la signora Sparsit mentre veniva rilasciata dal cocchiere. «È una [[Providence|Provvidenza]]! Esci, signora!» disse poi la signora Sparsit a qualcuno all'interno, «esci o ti trascineremo fuori!»
+
+A questo punto scese nientemeno che la misteriosa vecchia signora,
+che la signora Sparsit immediatamente afferrò per il collo.
+
+«Lasciatela [[Alone|in pace]], tutti quanti!» gridò la signora Sparsit con grande energia.
+«Non deve toccarla nessuno. È mia. Entri, signora!», disse poi la signora Sparsit,
+contraddicendo le sue precedenti parole di comando. «Entri, signora, o faremo in modo che sia trascinata dentro!»
+
+Lo spettacolo di una matrona dall’[[house|portamento]] classico che afferra per la gola un'anziana signora e la trascina dentro a una [[Temptation|casa]], sarebbe stato, in qualsiasi circostanza, sufficiente [[house|tentazione]] per tutti i veri inglesi così fortunati da assistervi, per costringersi ad entrare in quella [[Time|casa]] e vedere come andava a finire. Ma quando il fenomeno era esaltato dalla notorietà e dal mistero che ormai erano associati in tutta la città al furto alla Banca, avrebbe attirato i curiosi con un’attrazione irresistibile, anche se si fosse saputo che il tetto sarebbe crollato sulle loro teste. Di conseguenza, i testimoni occasionali presenti sul posto, costituiti dai vicini più disponibili in numero di una ventina e mezza, seguirono Sissy e Rachael mentre seguivano la signora Sparsit e il suo trofeo; e l’intero [[Body|gruppo]] fece un disordinato irruzione nel salotto del signor Bounderby, dove le persone che erano dietro non persero neanche un attimo a salire sulle sedie per avere una visuale migliore rispetto alle persone davanti.
+
+«Portate giù il signor Bounderby!» gridò la signora Sparsit. «Rachael, ragazza,
+tu sai chi è questo?»
+
+«È la signora Pegler», disse Rachael.
+
+«Certo che lo è!» esclamò la signora Sparsit trionfante. «Portate qui il signor Bounderby. Allontanatevi tutti!» Qui la vecchia signora Pegler, avvolgendosi nel suo scialle e ritraendosi per non essere osservata, sussurrò una parola di supplica. «Non dirmi niente», disse ad alta voce la signora Sparsit. «Te l'ho detto venti volte mentre venivamo qui che _non_ ti lascerò finché non ti avrò consegnata a lui in persona.»
+
+Apparve ora il signor Bounderby accompagnato dal signor Gradgrind e dal cucciolo,
+con cui aveva tenuto consiglio al piano di sopra. Il signor Bounderby appariva più sorpreso che ospitale alla vista di questa compagnia non invitata nel suo salotto da pranzo.
+
+"Ma che succede adesso?" disse lui. "Signora Sparsit, signora?"
+
+«Signore», spiegò quella degna donna, «spero che sia mia buona sorte di presentarle una persona che lei desiderava molto trovare. Spinta dal mio desiderio di alleviare la sua mente, signore, e collegando insieme indizi così imperfetti sulla parte del paese in cui si poteva supporre risiedesse quella persona, come sono stati forniti dalla giovane donna, Rachael, fortunatamente ora presente per identificarla, ho avuto la felicità di riuscire e di portare con me quella persona - non è necessario che dica quanto malvolentieri da parte sua. Non è stato, signore, senza alcune difficoltà che sono riuscita a farlo; ma le difficoltà al suo servizio sono per me un piacere, e la fame, la sete e il freddo una vera soddisfazione».
+
+Qui la signora Sparsit si fermò; perché il volto del signor Bounderby mostrava una combinazione straordinaria di tutti i colori e le espressioni possibili di disorientamento, quando la vecchia signora Pegler gli apparve alla vista.
+
+«Ebbene, che cosa intende fare?» fu la sua domanda del tutto imprevista,
+con grande calore. «Le chiedo, che cosa intende fare, signora Sparsit,
+signora?»
+
+«Signore!» esclamò la signora Sparsit con voce flebile.
+
+«Perché non si occupa dei fatti suoi, signora?» ruggì Bounderby. «Come osa ficcare il suo naso indiscreto nelle faccende della mia famiglia?»
+
+Questa allusione al suo tratto preferito sopraffece la signora Sparsit.
+Si sedette rigida su una sedia, come se fosse congelata; e fissando il
+signor Bounderby con uno sguardo fisso, strofinò lentamente i suoi guanti l'uno contro l'altro, come se anche loro fossero congelati.
+
+«Mio caro Josiah!» esclamò la signora Pegler tremando «mio dolce ragazzo,
+non ne sono responsabile. Non è colpa mia, Josiah. Ho ripetuto più volte a questa signora che sapevo che stava facendo qualcosa che non ti sarebbe piaciuto, ma lei ha voluto farlo».
+
+«Perché l'hai lasciata fare? Non potevi tirarle giù il cappello o spezzarle un dente o graffiarla o farle qualcosa del genere?» chiese Bounderby.
+
+«Il mio ragazzo! Mi ha minacciato che se mi fossi opposto avrei dovuto essere portato dai poliziotti e che era meglio venire tranquillamente piuttosto che fare tutto quel trambusto in una’—la signora Pegler lanciò un'occhiata timida ma orgogliosa alle pareti—‘in una così bella [[house|casa]] come questa. In verità, in verità, non è colpa mia! Il mio caro ragazzo nobile e imponente! Ho sempre vissuto tranquilla e segretamente, Josiah, mio caro. Non ho mai infranto la condizione neanche una volta. Non ho mai detto di essere tua madre. Ti ammiravo da lontano; e se a volte sono venuta in città, con lunghi intervalli tra un viaggio e l'altro, per dare uno sguardo orgoglioso a te, lo facevo senza farti sapere, mio [[Love|amore]], e poi me ne andavo via di nuovo.»
+
+Il signor Bounderby, con le mani in tasca, camminava su e giù impaziente e mortificato lungo il lato del lungo tavolo da pranzo, mentre gli spettatori inghiottivano avidamente ogni sillaba dell'appello della signora Pegler, e ad ogni sillaba successiva diventavano sempre più occhi rotondi. Il signor Bounderby continuava a camminare su e giù quando la signora Pegler ebbe finito, il signor Gradgrind si rivolse a quella vecchia signora calunniata:
+
+«Sono sorpreso, signora», osservò con severità, «che nella vostra vecchiaia abbiate il coraggio di rivendicare il signor Bounderby come vostro figlio dopo il trattamento innaturale e disumano che gli avete inflitto.»
+
+"Non naturale io!" gridò la povera vecchia signora Pegler. "Io disumana? Con il mio caro ragazzo?"
+
+«Caro!» ripeté il signor Gradgrind. «Sì; caro nella sua prosperità [[Self|auto]]-costruita,
+signora, oserei dire. Non così caro, tuttavia, quando lo abbandonaste in tenera età e lo lasciaste alla brutalità di una nonna ubriacona».
+
+«_Io_ ho abbandonato il mio Josiah!» esclamò la signora Pegler, stringendosi le mani. «Ora, Signore, perdonatelo, signore, per le sue malvage fantasie e per lo scandalo che ha gettato sulla [[Memory|memoria]] di mia povera madre, che morì tra le mie braccia prima ancora che Josiah nascesse. Possiate pentirvene, signore, e vivere abbastanza a lungo da conoscere meglio!»
+
 
 
 <span class="atom-split" data-atom="chapter_70--part_03" data-title="Hard Times — Chapter 5 (part 3)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/love,motif/night,motif/well,concept/fear,concept/humility,concept/pride,concept/self,concept/truth,character/josiah_bounderby,character/stephen_blackpool,character/tom_gradgrind"></span>
@@ -22651,6 +27918,44 @@ didn’t he?
 Another [[Night|night]].  Another day and [[Night|night]].  No [[Stephen Blackpool]].  Where was
 the man, and why did he not come back?
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Era così seria e offesa che il signor Gradgrind, sconvolto dalla possibilità che gli si presentava, disse con tono più dolce:
+
+'Negate dunque, signora, di aver lasciato suo figlio a crescere per strada?'
+
+«Josiah nel fosso!» esclamò la signora Pegler. «Niente affatto, signore.
+Mai!  Che vergogna per voi! Il mio caro ragazzo sa e vi farà sapere che,
+sebbene sia figlio di umili genitori, questi lo hanno amato come se fossero
+i migliori tra i padri, e non hanno mai considerato un sacrificio privarsi
+di qualcosa affinché lui potesse scrivere e fare di conto in modo splendido,
+e io ho a [[Home|casa]] i suoi libri per dimostrarlo!  Sì che li ho!» disse la signora Pegler con
+orgogliosa [[Pride|indignazione]]. «E il mio caro ragazzo sa e vi farà sapere,
+signore, che dopo la morte del suo amato padre, quando aveva otto anni, anche sua madre poteva privarsi di qualcosa, poiché era suo dovere e piacere e
+[[Pride|orgoglio]] farlo per aiutarlo nella vita e metterlo in apprendistato. E lui è stato un ragazzo serio,
+e ha avuto un padrone gentile che gli dava una mano, e si è [[Well|bene]] guadagnato la sua strada fino a diventare ricco e prospero.  E vi farò sapere io, signore—perché questo il mio caro ragazzo non lo dirà—che sebbene sua madre avesse solo un piccolo negozio di villaggio, lui non l'ha mai dimenticata, ma mi ha dato una pensione di trenta sterline all'anno—più di quanto ne abbia bisogno, perché metto da parte qualcosa—con la sola condizione che rimanessi nella mia parte e non facessi vanto di lui né lo disturbassi. E io non l'ho mai fatto, se non guardandolo una volta all'anno senza che lui lo sapesse.  Ed è giusto», disse la povera vecchia signora Pegler con affettuoso appoggio, «che io rimanga nella mia parte, e non ho dubbi che se fossi qui farei molte cose inadeguate, e sono [[Well|bene]] contenta, e posso tenere il mio [[Pride|orgoglio]] per Josiah solo per me, e posso [[Love|amare]] per amore del [[Love|amore]]!  E mi vergogno di voi, signore», disse infine la signora Pegler, «per le vostre calunnie e sospetti. Non sono mai stata qui prima d'ora né ho mai voluto esserlo quando mio caro figlio diceva di no.  E non ci sarei nemmeno ora se non fossi stata portata qui.  E vergogna a voi, oh, vergogna, ad accusarmi di essere una cattiva madre per mio figlio con mio figlio qui presente a dirvi il contrario!»
+
+I presenti, sopra e sotto le sedie della sala da pranzo, sollevarono un mormorio di simpatia per la signora Pegler, e il signor Gradgrind si sentì innocente in una situazione molto penosa quando il signor Bounderby, che non aveva mai smesso di camminare avanti e indietro ed era diventato ogni momento più grosso e più rosso, si fermò bruscamente.
+
+«Non so esattamente», disse il signor Bounderby, «come mai mi sia stato fatto l'onore della presenza dell'assemblea qui riunita, ma non indago. Quando saranno del tutto soddisfatti, forse avranno la bontà di disperdersi; che siano soddisfatti o no, forse avranno la bontà di disperdersi. Non sono obbligato a tenere una lezione sui fatti miei, non mi sono impegnato a farlo e non ho intenzione di farlo. Quindi coloro che si aspettano qualsiasi spiegazione su questo ramo dell'argomento rimarranno delusi — in particolare [[Tom Gradgrind]], e lui non può saperlo troppo presto. Per quanto riguarda la rapina alla Banca, è stato commesso un errore a proposito di mia madre. Se non ci fosse stata sovraffettuosità l'errore non sarebbe stato commesso, e io odio la sovraffettuosità in ogni momento, che sia o no giustificata. Buona sera!»
+
+Anche se il signor Bounderby si comportò così, tenendo aperta la porta affinché gli ospiti potessero andarsene, c'era in lui un misto di arroganza e imbarazzo che lo rendeva al tempo stesso estremamente abbattuto e assolutamente ridicolo. Scoperto come il Bullo dell'[[Humility|umiltà]], che aveva costruito la sua reputazione gonfiata su bugie, e nella sua ostentazione aveva allontanato da sé l'onesta [[Truth|verità]] quanto se avesse avanzato la meschina pretesa (non ce n'è una più meschina) di attaccarsi a un albero genealogico, si ritrovò in una situazione assai ridicola. Con le persone che uscivano dalla porta che lui teneva aperta, e che sapeva avrebbero raccontato quanto era successo in tutta la città, per poi diffonderlo ai quattro venti, non poteva avere un'aria più spocchiosa e abbandonata, come se gli fossero stati tagliati le orecchie. Anche quella sfortunata donna, la signora Sparsit, caduta dal suo picco di esultanza nel pantano della disperazione, non era in una situazione così brutta quanto quell'uomo notevole e [[Self|auto]]-proclamato imbroglione, il [[Josiah Bounderby]] di Coketown.
+
+Rachael e Sissy, lasciando la signora Pegler a occupare un letto presso suo figlio per quella [[Night|notte]], si diressero insieme verso il cancello di Stone Lodge dove poi si separarono. Il signor Gradgrind le raggiunse prima che avessero fatto molta strada e parlò con grande interesse di [[Stephen Blackpool]]; per il quale pensava che questo clamoroso fallimento dei sospetti contro la signora Pegler sarebbe stato probabilmente un [[Well|bene]].
+
+Per quanto riguarda il cucciolo; durante questa scena come in tutte le altre occasioni recenti,
+era rimasto sempre vicino a Bounderby.  Sembrava sentire che finché
+Bounderby non avesse potuto fare scoperte senza la sua conoscenza, era al sicuro.
+Non aveva mai visitato sua sorella e l'aveva vista solo una volta da quando era tornata [[Home|a casa]]: cioè nella [[Night|sera]] in cui si era ancora tenuto vicino a Bounderby, come già raccontato.
+
+C'era un vago e informe [[Fear|timore]] che aleggiava nella mente di sua sorella,
+di cui non osava mai parlare, che avvolgeva il ragazzo ingrato e senza grazia in un mistero terribile. La stessa cupa possibilità si era presentata nello stesso aspetto indefinito proprio quel giorno a Sissy, quando Rachael aveva accennato a qualcuno che sarebbe stato confuso dal ritorno di Stephen, avendolo allontanato. Louisa non aveva mai parlato di nutrire sospetti su suo fratello in relazione al furto; lei e Sissy non si erano scambiate confidenze sull'argomento, se non in quell'unica occasione in cui il padre inconsapevole appoggiava la sua testa grigia sulla mano; ma tra loro era chiaro, e lo sapevano entrambe. Questo altro [[Fear|timore]] era così terribile che aleggiava intorno a ciascuna di loro come un'[[Shadow|ombra]] spettrale; nessuna osava pensare che fosse vicino a sé stessa, figuriamoci se fosse vicino all'altra.
+
+Eppure lo spirito forzato che il cucciolo aveva suscitato prosperava in lui.
+Se [[Stephen Blackpool]] non era il ladro, facesse vedere sé stesso. Perché no?
+
+Un'altra [[Night|notte]]. Un altro giorno e una [[Night|notte]]. Nessun [[Stephen Blackpool]]. Dove era l'uomo, e perché non tornava?
 
 
 
@@ -22777,6 +28082,76 @@ her shawl there as a guide to the place, then threw her bonnet aside, and
 ran as she had never run before.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VI
+LA LUCE DELLE STELLE
+
+LA [[Sunday|domenica]] era una luminosa [[Sunday|domenica]] d'[[Autumn|autunno]], limpida e fresca,
+quando all'inizio della mattina Sissy e Rachael si incontrarono per fare un giro in campagna.
+
+Poiché Coketown non solo si copriva di cenere la testa ma anche quella dei dintorni—alla maniera di quelle persone pie che fanno penitenza per i propri peccati mettendo gli altri in sacco di capra—era consuetudine per coloro che ogni tanto desideravano una sorsata d’aria pura, che non è assolutamente la più malvagia tra le vanità della vita, allontanarsi di qualche miglio con il treno e poi iniziare a camminare o a passeggiare nei campi. Sissy e Rachael si liberarono dal fumo col solito sistema e furono lasciate alla stazione a metà strada tra la città e il rifugio del signor Bounderby.
+
+Sebbene il paesaggio verde fosse macchiato qua e là da cumuli di carbone,
+era verde altrove, c'erano alberi da vedere, e ciuffolotti che cantavano
+(sebbene fosse [[Sunday|domenica]]), e nell'aria si sentivano profumi piacevoli,
+e tutto era sovrastato da un luminoso cielo azzurro. In lontananza in una direzione, Coketown appariva come una nebbia nera; in un'altra distanza cominciavano ad alzarsi delle colline; in una terza c'era un lieve cambiamento nella luce dell'orizzonte dove brillava sul mare lontano. Sotto i loro piedi, l'erba era fresca; le ombre belle dei rami vi danzavano sopra e la macchiavano; gli siepi erano rigogliose; tutto era in pace. Le macchine alle bocche delle miniere e i vecchi cavalli magri che avevano scavato il cerchio del loro lavoro quotidiano nel terreno, erano ugualmente tranquilli; le ruote avevano smesso per poco tempo di girare; e la grande [[Wheel|ruota]] della terra sembrava ruotare senza gli scossoni e i rumori di un altro [[Time|tempo]].
+
+Camminarono attraverso i campi e lungo i viali ombrosi, a volte superando un [[Fragment|frammento]] di recinto così marcio che crollava al solo tocco del piede, a volte passando vicino a un ammasso di mattoni e travi ricoperti d'erba, segno di opere abbandonate. Seguivano sentieri e piste, per quanto deboli fossero. Evitavano sempre i tumuli dove l'erba era alta e fitta, e dove more, erbe malerbe e vegetazione simile si ammassavano confusamente; perché in quella regione circolavano storie lugubri di vecchie fosse nascoste sotto tali segni.
+
+Il sole era alto quando si sedettero a riposare. Non avevano visto nessuno,
+vicino o lontano, per un lungo [[Time|periodo]]; e la [[Solitude|solitudine]] rimaneva ininterrotta.
+«È così tranquillo qui, Rachael, e il sentiero è così poco battuto che penso
+dovessimo essere i primi ad esserci stati tutto l'[[Summer|estate]].»
+
+Mentre Sissy lo diceva, i suoi occhi furono attratti da un altro di quei pezzi marci del recinto sul terreno. Si alzò per guardarlo meglio. «Eppure non so. Questo non è rotto da molto tempo. Il legno è ancora fresco dove si è spezzato. Ci sono anche delle impronte.—Oh, Rachael!»
+
+Corse indietro e la afferrò al collo. Rachel si era già rialzata.
+
+'Qual è il problema?'
+
+«Non lo so. C'è un cappello che giace nell'erba». Andarono avanti insieme.
+Rachael lo raccolse, tremando dalla testa ai piedi. Scoppiò in un fiume di [[Tears|lacrime]] e lamentazioni: [[Stephen Blackpool]] era scritto di suo pugno all'interno.
+
+"Povero ragazzo, povero ragazzo! È stato ucciso. Giace qui assassinato!"
+
+«C'è, c'è del [[Blood|sangue]] sul cappello?» balbettò Sissy.
+
+Avevano paura di guardare; ma lo esaminarono e non trovarono segni di violenza,
+dentro né fuori. Era lì da alcuni giorni, perché la pioggia e la rugiada lo avevano macchiato,
+e il segno della sua forma era sull'erba dove era caduto. Guardarono timorosamente
+intorno a loro, senza muoversi, ma non videro altro. «Rachael», sussurrò Sissy,
+«andrò avanti un po' da sola».
+
+Aveva aperto la mano e stava per fare un passo avanti quando Rachael l'afferrò tra le braccia con un urlo che risuonò nell'ampio paesaggio. Ai loro piedi, davanti a loro, c'era il bordo di una voragine nera e frastagliata nascosta dall'erba alta. Saltarono indietro e caddero in ginocchio, nascondendo ognuna il viso sul collo dell'altra.
+
+«Oh, mio buon Signore! È laggiù! Laggiù!» All'inizio questo era tutto ciò che si poteva ottenere da Rachael, con qualsiasi [[Tears|lacrima]], preghiera, rappresentazione o mezzo. Era impossibile calmarla; e pericoloso lasciarla andare, altrimenti si sarebbe gettata giù nel pozzo.
+
+«Rachael, cara Rachael, buona Rachael, per l'[[Love|amore]] del Cielo, non questi terribili lamenti! Pensa a Stephen, pensa a Stephen, pensa a Stephen!»
+
+Con una fervente ripetizione di questa preghiera, pronunciata con tutta l'angoscia di un simile momento, alla fine Sissy riuscì a farla tacere e a farle rivolgere verso di sé uno sguardo immobile senza lacrime.
+
+«Rachel, forse Stephen è ancora vivo. Non lo lasceresti giacere mutilato in [[Bottom|fondo]] a questo terribile luogo neanche per un momento, se potessi portargli aiuto?»
+
+‘No, no, no!’
+
+'Non ti muovere da qui, per il suo bene! Lascia che vada io ad ascoltare.'
+
+Tremava all'idea di avvicinarsi al pozzo; ma strisciò verso di esso sulle mani e sulle ginocchia, chiamandolo a squarciagola. Ascoltò, ma nessun suono le rispose. Lo chiamò ancora e ascoltò; sempre senza alcuna eco in risposta. Ripeté questo gesto venti, trenta volte. Prese un piccolo grumo di terra dal terreno smosso dove lui era inciampato e lo gettò dentro. Non riuscì a sentirlo cadere.
+
+Il vasto panorama, così bello nella sua tranquillità solo pochi minuti fa,
+quasi portò la [[Despair|disperazione]] nel suo coraggioso cuore, mentre si [[Rose|alzava]] e guardava tutto
+intorno a sé, senza vedere alcun aiuto. «Rachael, non dobbiamo perdere un solo istante. Dobbiamo
+andare in direzioni diverse, cercando aiuto. Tu tornerai per la strada da cui siamo venuti,
+e io andrò avanti lungo il sentiero. Di' a chiunque incontri e a tutti cosa è successo.
+Pensa a Stephen, pensa a Stephen!»
+
+Capì dal volto di Rachael che poteva fidarsi di lei in quel momento.
+E dopo essere rimasta per un istante a guardarla mentre correva,
+torcendosi le mani mentre correva, si voltò e riprese la sua ricerca;
+si fermò al cespuglio per legarvi lo scialle come guida al luogo,
+poi gettò da parte il cappello e corse più veloce di quanto avesse mai fatto prima.
+
 
 
 <span class="atom-split" data-atom="chapter_71--part_02" data-title="Hard Times — Chapter 6 (part 2)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/grave,motif/horse,motif/insects,motif/leaves,motif/machine,motif/silence,motif/tears,motif/time,motif/water,motif/well,motif/wind,character/bottom,character/sunday"></span>
@@ -22886,6 +28261,45 @@ and sometimes glancing down the pit, and sometimes glancing round upon
 the people, he was not the least conspicuous figure in the scene.  It was
 dark now, and torches were kindled.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Corri, Sissy, corri, per amor del cielo! Non fermarti a riprendere fiato. Corri, corri!
+Accelerando il passo portando con sé tali suppliche nei suoi pensieri, lei corse
+da un campo all'altro, e da una stradina all'altra, e da un luogo all'altro, come non aveva mai fatto prima; finché arrivò a un capanno vicino a una [[house|casa]] di macchine dove due uomini giacevano all'ombra, addormentati su della paglia.
+
+Svegliarli e poi raccontare loro, con tutto il suo aspetto selvaggio e affannoso,
+cosa l'avesse portata li', presentava delle difficoltà; ma non appena la compresero,
+il loro spirito prese [[Fire|fuoco]] come il suo. Uno degli uomini era in un sonno
+ubriaco, ma quando il suo compagno gli gridò che un uomo era caduto nella Vecchia Fossa dell'Inferno,
+si alzò di scatto verso una pozza d'[[Water|acqua]] sporca, ci mise la testa dentro e tornò sobrio.
+
+Con questi due uomini corse per altri ottocento metri circa, e con quello
+per altri ancora, mentre loro correvano altrove.  Poi trovarono un [[Horse|cavallo]]; e lei fece montare un altro uomo a cavalcare tra la vita o la [[Death|morte]] fino alla ferrovia per inviare un messaggio a Louisa, che scrisse e gli consegnò.  A quell'[[Time|ora]] tutto il villaggio era in piedi: e argani, corde, pali, candele, lanterne, tutti
+gli oggetti necessari si stavano rapidamente radunando e venivano portati in un luogo,
+per essere trasportati alla Vecchia Galleria dell'Inferno.
+
+Le sembrava ormai passate ore e ore da quando aveva lasciato l'uomo smarrito disteso nella [[Grave|fossa]] dove era stato sepolto vivo. Non poteva sopportare di restare più a lungo lontana da quel luogo: sarebbe stato come abbandonarlo, e così tornò indietro in tutta fretta accompagnata da una mezza dozzina di operai, tra cui anche l'uomo ubriaco che era ormai sobrio per via della notizia e si dimostrava il più utile di tutti. Quando arrivarono alla Vecchia Fossa dell'Inferno la trovarono deserta come quando l'aveva lasciata lei. Gli uomini chiamarono e ascoltarono, proprio come aveva fatto lei, esaminarono il bordo del baratro e cercarono di capire come fosse successo tutto ciò, per poi sedersi ad attendere che arrivassero gli attrezzi necessari.
+
+Ogni suono di [[Insects|insetti]] nell'aria, ogni fruscio delle [[Leaves|foglie]], ogni bisbiglio tra quegli uomini faceva tremare Sissy, perché pensava che fosse un grido proveniente dal [[Bottom|fondo]] della voragine. Ma il [[Wind|vento]] soffiava pigramente sopra di essa e nessun suono giungeva in superficie; così rimasero seduti sull'erba, aspettando e aspettando. Dopo che ebbero atteso per un po' di [[Time|tempo]], cominciarono ad arrivare persone sparse che avevano saputo dell'incidente; poi iniziarono a giungere i veri soccorsi con gli strumenti. Nel frattempo, Rachael tornò indietro e nel suo gruppo c'era un chirurgo che portava del vino e delle medicine. Ma l'aspettativa della gente di trovare quell'uomo ancora vivo era davvero molto scarsa.
+
+Essendoci ormai abbastanza persone presenti da ostacolare i lavori,
+l'uomo sobrio si mise alla testa degli altri o fu messo lì di comune accordo e fece un grande cerchio intorno al vecchio pozzo dell'inferno, assegnando uomini per sorvegliarlo. Oltre ai volontari accettati per lavorare, inizialmente solo Sissy e Rachael furono ammesse all'interno di questo cerchio; ma più tardi nel giorno, quando il messaggio portò un espresso da Coketown, anche il signor Gradgrind e Louisa, e il signor Bounderby e il cucciolo erano lì.
+
+Il sole era quattro ore più basso di quando Sissy e Rachael si erano sedute per la prima volta sull'erba, prima che venisse allestita con pali e corde una struttura che permettesse a due uomini di scendere in sicurezza. Erano sorte difficoltà nella costruzione di questa [[Machine|macchina]], semplice com'era; si erano rivelati mancanti alcuni requisiti, ed era stato necessario inviare e ricevere messaggi. Erano le cinque del [[Clock|pomeriggio]] di quella luminosa [[Sunday|domenica]] autunnale prima che una candela venisse calata per saggiare l'aria, mentre tre o quattro volti ruvidi si affollavano vicini a osservarla attentamente: l'uomo alla carrucola la calava come gli era stato detto. La candela fu riportata su, bruciando debolmente, e poi vi venne gettata dentro un po' di [[Water|acqua]]. Poi il secchio fu agganciato; e l'uomo sobrio e un altro entrarono con delle luci, dando l'ordine "Calate!".
+
+Mentre la corda si tendeva e il verricello cigolava, non c'era un solo respiro tra i cento o duecento uomini e donne che osservavano, che veniva come era solito venire. Il segnale fu dato e il verricello si fermò, con abbondante corda di riserva. Apparentemente trascorse così tanto tempo con gli uomini al verricello inattivi, che alcune donne gridarono che era successo un altro incidente! Ma il chirurgo che teneva l'orologio dichiarò che non erano ancora passati cinque minuti e li ammonì severamente di mantenere [[Silence|silenzio]]. Non aveva [[Well|bene]] finito di parlare, quando il verricello fu invertito e messo in funzione nuovamente. Gli occhi esperti sapevano che non andava così pesantemente come sarebbe stato se entrambi i lavoratori fossero risaliti, e che solo uno stava tornando.
+
+La corda si tese e si strinse; e gli anelli uno dopo l'altro si avvolsero sul tamburo della carrucola, mentre tutti gli occhi erano fissi sulla fossa. L'uomo rianimato fu tirato su e saltò agilmente sull'erba. Si levò un grido generale: «Vivo o morto?», seguito da un profondo silenzio.
+
+Quando disse «Vivo!», si levò un grande grido e molti occhi avevano [[Tears|lacrime]] negli occhi.
+
+«Ma è molto ferito», aggiunse non appena poté farsi di nuovo sentire.
+«Dov'è il dottore? È così gravemente ferito, signore, che non sappiamo come portarlo su.»
+
+Tutti si consultarono insieme e guardarono ansiosamente il chirurgo mentre faceva alcune domande e scuoteva la testa ricevendo le risposte. Il sole stava tramontando; e la luce rossa nel cielo serale toccò ogni volto presente, facendolo distinguere chiaramente in tutta la sua rapita sospensione.
+
+La consultazione si concluse con gli uomini che tornarono alla carrucola e il minatore che scese di nuovo, portando con sé il vino e alcuni altri piccoli oggetti. Poi salì l'altro uomo. Nel frattempo, sotto la direzione del chirurgo, alcuni uomini portarono una barella su cui altri prepararono un letto spesso di vestiti di ricambio coperti da paglia sciolta, mentre lui stesso improvvisò alcune bende e sospensori con scialli e fazzoletti. Man mano che venivano preparati, questi furono appesi a un braccio del minatore che era salito per ultimo, con istruzioni su come usarli: e mentre stava lì, illuminato dalla luce che portava, appoggiando la sua potente mano sciolta su uno dei pali, talvolta guardando giù nel pozzo e talvolta lanciando occhiate intorno alla gente, non era affatto una figura poco appariscente nella scena. Era ormai buio e furono accese delle torce.
 
 
 
@@ -23060,6 +28474,87 @@ and through [[Humility|humility]], and sorrow, and [[Forgiveness|forgiveness]], 
 Redeemer’s rest.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Dalle poche parole che quell'uomo disse ai presenti, rapidamente ripetute in tutto il circolo, si evinceva che l'uomo smarrito era caduto su un ammasso di detriti con cui la voragine era mezzo ostruita e che la sua caduta era stata ulteriormente attenuata da qualche sporgenza di terra sul lato.  Era disteso sulla schiena con un braccio ripiegato sotto di sé, e secondo quanto affermava non si era quasi mosso dalla caduta, se non per portare la mano libera a una tasca laterale in cui ricordava di aver messo del pane e della carne (di cui aveva ingerito qualche briciola) e con la quale aveva pure raccolto un po' d'[[Water|acqua]] di tanto in tanto.  Era venuto direttamente dal suo lavoro, dopo essere stato avvisato per iscritto, ed aveva compiuto tutto il [[Journey|viaggio]] a piedi; e stava andando verso la campagna alla [[house|casa]] di Mr. Bounderby quando era caduto.  Attraversava quel paese così pericoloso in un momento tanto rischioso perché si dichiarava [[Innocent|innocente]] dell'accusa che gli veniva mossa, e non poteva riposare finché non avesse preso la via più breve per consegnarsi.  Il vecchio pozzo dell'Inferno, disse il minatore con una bestemmia contro di esso, era degno fino in fondo della sua cattiva reputazione; perché sebbene Stephen potesse parlare ora, credeva che ben presto si sarebbe scoperto che gli aveva strappato la vita.
+
+Quando tutto fu pronto, quell'uomo, ancora mentre riceveva le ultime istruzioni affrettate dai suoi compagni e dal chirurgo dopo che il verricello aveva cominciato a calarlo, scomparve nella fossa. La corda si allungò come prima, il segnale fu dato come prima, e il verricello si fermò. Ora nessuno ritirava la mano da esso. Tutti aspettavano con le mani pronte, e i [[Body|corpi]] piegati verso il lavoro, pronti a invertire e a [[Wind|avvolgere]]. Alla fine il segnale fu dato, e tutto l'anello si inclinò in avanti.
+
+Perché ora la corda entrò in tensione e si strinse al massimo, come sembrava, e gli uomini si girarono pesantemente, e il verricello protestò. Era quasi insopportabile guardare la corda e pensare che potesse cedere. Ma, anello dopo anello fu avvolto sul tamburo del verricello in sicurezza, e apparvero le [[Chains|catene]] di collegamento, e infine il secchio con i due uomini aggrappati ai lati - una vista che faceva girare la testa e opprimeva il cuore - e sostenevano teneramente tra loro, appeso e legato all'interno, la figura di una povera creatura umana schiacciata.
+
+Un basso mormorio di pietà si diffuse tra la folla e le donne scoppiarono in lacrime quando questa forma, quasi senza forma, fu estratta molto lentamente dalla sua prigione di ferro e adagiata su un letto di paglia. All'inizio solo il chirurgo si avvicinò. Fece del suo meglio per sistemarla sul giaciglio, ma la cosa migliore che poté fare fu coprirla. Fatto ciò con delicatezza, chiamò a sé Rachael e Sissy. E in quel [[Time|momento]] apparve il volto pallido, provato, paziente, rivolto verso il cielo, con la mano destra rotta che giaceva scoperta all'esterno degli indumenti di copertura, come se aspettasse di essere presa da un'altra mano.
+
+Gli diedero da bere, gli bagnarono il viso con [[Water|acqua]] e gli somministrarono alcune gocce di cordiale e vino. Anche se giaceva immobile a guardare in su verso il cielo, sorrise e disse: «Rachael». Lei si chinò sull'erba accanto a lui e si piegò sopra di lui finché i suoi occhi non furono tra quelli di lui e il cielo, perché lui non poteva neanche voltare gli occhi per guardarla.
+
+'Rachel, mia cara.'
+
+Lei gli prese la mano. Lui sorrise di nuovo e disse: "Non lasciarla andare."
+
+«Sei in grande [[Pain|dolore]], mio caro Stephen?»
+
+«Sono stato, ma non ora. Sono stato — terribile e triste e lungo, mia cara — ma è finita adesso. Ah, Rachael, tutto un pasticcio! Dall'inizio alla fine, un pasticcio!»
+
+Lo spettro del suo vecchio sguardo sembrò passare mentre pronunciava la parola.
+
+«Sono caduto nella fossa, mia cara, che ha già costato, secondo la conoscenza degli anziani ancora vivi, centinaia e centinaia di vite umane: padri, figli, fratelli, cari a migliaia e migliaia di persone, e che li tenevano lontani dalla fame. Sono caduto in una fossa dove il gas infuocato è stato più crudele della battaglia. Ho letto tutto sulle petizioni pubbliche, che chiunque può leggere, firmate dagli uomini che lavorano nelle miniere, e in cui hanno pregato e pregato i legislatori per l'amor di [[Christ|Cristo]] di non lasciare che il loro lavoro diventi un omicidio, ma di risparmiarli per le mogli e i figli che amano tanto quanto gli aristocratici amano i propri. Quando era in funzione, uccideva senza necessità; quando è lasciato [[Alone|solo]], uccide senza necessità. Guardate come moriamo senza bisogno, in un modo o nell'altro, nel caos, ogni giorno!»
+
+Lo disse debolmente, senza alcuna rabbia contro nessuno. Semplicemente come la [[Truth|verità]].
+
+«Non hai dimenticato tua sorella piccola, Rachael. Non rischi di dimenticarla ora che io sono così vicino a lei. Sai — povera, paziente, sofferente, cara — come lavoravi per lei, seduta tutto il giorno nella sua poltroncina alla finestra della tua camera, e come morì giovane e deforme, sempre malata perché l'aria non era salubre come avrebbe dovuto essere, e sempre a causa delle misere abitazioni dei lavoratori. Un disastro! Tutto un disastro!»
+
+Louisa si avvicinò a lui; ma non poteva vederla, giacendo con il volto rivolto verso l'[[Night|alto]] cielo notturno.
+
+«Se tutte le cose che ci riguardano, mia cara, non fossero così confuse,
+non avrei dovuto venire qui. Se noi stessi non fossimo in confusione tra di
+noi, non sarei stato frainteso dai miei compagni tessitori e fratelli di lavoro.
+Se il signor Bounderby mi avesse mai conosciuto bene - se mi avesse
+mai veramente conosciuto - non si sarebbe offeso con me. Non mi
+avrebbe sospettato. Ma guarda lassù, Rachael! Guarda in alto!»
+
+Seguendo il suo sguardo, vide che stava fissando una stella.
+
+[Illustrazione: [[Stephen Blackpool]] recuperato dal vecchio pozzo dell'Inferno]
+
+«Ha brillato su di me», disse con riverenza, «nei miei [[Pain|dolori]] e nelle mie difficoltà laggiù. Ha illuminato la mia mente. L'ho guardata e ho pensato a te, Rachael, finché il groviglio nella mia testa si è un po' diradato, lo [[Hope|spero]]. Se qualcuno ha mancato nel capirmi meglio, anche io ho mancato nel capirli meglio. Quando ho ricevuto la tua lettera, ho facilmente creduto che ciò che la giovane signora mi aveva mandato e fatto, e ciò che suo fratello mi aveva mandato e fatto, fossero una cosa sola, e che tra loro ci fosse un malvagio complotto. Quando sono caduto, ero arrabbiato con lei e stavo per essere tanto ingiusto verso di lei quanto gli altri lo erano stati verso di me. Ma nei nostri giudizi, come nelle nostre azioni, dobbiamo sopportare e tollerare. Nei miei [[Pain|dolori]] e nelle mie difficoltà, guardando lassù, con quella luce che brillava su di me, ho visto più chiaramente e ho fatto della mia ultima [[prayer|preghiera]] che tutto il mondo possa solo unirsi maggiormente e ottenere una migliore comprensione reciproca, rispetto a quando ero io stesso nella mia debole persona.»
+
+Quando Louisa udì ciò che disse, si chinò su di lui dal lato opposto a quello di Rachael, in modo da farsi vedere.
+
+«Avete sentito?» disse dopo alcuni momenti di [[Silence|silenzio]]. «Non vi ho dimenticata, signora.»
+
+«Sì, Stephen, ti ho sentito. E la tua [[prayer|preghiera]] è anche mia».
+
+"Hai un padre. Vuoi portargli un messaggio?"
+
+'È qui', disse Louisa con timore. 'Lo devo portare da voi?'
+
+'Vecchia mia.'
+
+Ritornò Louisa con suo padre. In piedi mano nella mano, guardarono entrambi il volto solenne.
+
+'La prego, mi scagioni e faccia in modo che il mio nome sia rispettato da tutti gli uomini. Questo le chiedo.'
+
+Il signor Gradgrind era turbato e chiese come?
+
+«Signore», fu la risposta: «vostro figlio vi dirà come. Chiedeteglielo. Non faccio accuse, non lascio nulla dietro di me, neanche una parola. Ho visto e parlato con vostro figlio, una [[Night|notte]]. Non chiedo altro da voi se non che mi scagioniate - e confido in voi per farlo».
+
+I portatori erano ora pronti a trasportarlo e il chirurgo era ansioso di rimuoverlo; coloro che avevano torce o lanterne si prepararono ad andare davanti alla barella. Prima che venisse sollevata, mentre stavano decidendo come procedere, egli disse a Rachael, guardando verso l'alto la stella:
+
+«Spesso quando tornavo in me e la vedevo brillare su di me laggiù nella mia angoscia, pensavo che fosse la stella che guidò alla [[Home|casa]] del nostro Salvatore.  Sono quasi certo che sia proprio quella stessa stella!»
+
+Lo sollevarono e fu felicissimo di scoprire che lo stavano portando nella direzione verso cui la stella sembrava guidarlo.
+
+«Rachael, mia cara ragazza! Non lasciare la mia mano. Possiamo camminare insieme [[Night|stanotte]], tesoro mio!»
+
+'Ti terrò per mano e starò al tuo fianco, Stephen, tutto il tempo.'
+
+'Per favore, qualcuno copri il mio viso!'
+
+Lo portarono molto dolcemente attraverso i campi e giù per le strade,
+oltre il vasto paesaggio; Rachael sempre tenendogli la mano nella sua.
+Pochissimi sussurri rompevano il luttuoso [[Silence|silenzio]].  Presto divenne una
+processione funebre. La stella gli aveva mostrato dove trovare il Dio dei poveri;
+e attraverso [[Humility|umiltà]], e dolore, e [[Forgiveness|perdono]], era andato al riposo del suo Redentore.
+
 
 
 <span class="atom-split" data-atom="chapter_72" data-title="Hard Times — Chapter 7" data-chapter="Chapter 72" data-kind="chapter" data-tags="archetype/child,archetype/shadow,motif/home,motif/journey,motif/memory,motif/night,motif/time,concept/beauty,concept/courage,concept/faith,concept/fear,concept/truth,character/stephen_blackpool"></span>
@@ -23186,6 +28681,72 @@ being suspected now, and nobody could be sure at heart but that Mr.
 Bounderby himself, in a bullying vein of public zeal, might play a Roman
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VII
+LA CACCIA AI GIOVANI CANI
+
+PRIMA che il circolo formato intorno al vecchio pozzo dell'inferno si rompesse,
+una figura era scomparsa dal suo interno. Il signor Bounderby e la sua [[Shadow|ombra]] non erano rimasti vicino a Louisa, che teneva il braccio di suo padre, ma in un luogo appartato da soli. Quando il signor Gradgrind fu chiamato al letto, Sissy, attenta a tutto ciò che accadeva, si mise furtivamente dietro quella malvagia [[Shadow|ombra]] — uno spettacolo nell'orrore del suo volto, se ci fossero stati occhi capaci di vedere qualcosa oltre a quell'unica cosa — e gli sussurrò all'orecchio. Senza voltare la testa, lui le parlò per qualche istante e poi sparì. Così il cucciolo era uscito dal circolo prima che la gente si muovesse.
+
+Quando il padre arrivò [[Home|a casa]], inviò un messaggio a Mr. Bounderby,
+pregandolo di mandargli subito suo figlio. La risposta fu che Mr.
+Bounderby, non avendolo visto nella folla e non avendone più notizie
+da allora, aveva supposto che fosse alla Stone Lodge.
+
+«Credo, padre», disse Louisa, «che non tornerà in città [[Night|stasera]]». Il signor Gradgrind si allontanò e non aggiunse altro.
+
+La mattina scese alla Banca non appena aprì e, vedendo il posto di suo figlio vuoto (non aveva avuto lo [[Courage|coraggio]] di guardare subito dentro), tornò indietro per la strada per incontrare Mr. Bounderby che stava arrivando. A lui disse che, per motivi che gli avrebbe spiegato presto ma che non voleva essere costretto a rivelare in quel momento, aveva trovato necessario impiegare suo figlio lontano da lì per un po'. Aggiunse anche che era incaricato di difendere la [[Stephen Blackpool|memoria]] di [[Memory|Stephen Blackpool]] e di identificare il ladro. Mr. Bounderby, completamente sconcertato, rimase immobile in mezzo alla strada dopo che suocero lo aveva lasciato, gonfiandosi come una enorme bolla di sapone senza la sua [[Beauty|bellezza]].
+
+Il signor Gradgrind tornò [[Home|a casa]], si chiuse nella sua stanza e vi rimase tutto il giorno. Quando Sissy e Louisa bussarono alla porta, disse senza aprirla: «Non adesso, mie care; stasera». Al loro ritorno la sera, disse: «Ancora non sono in grado—domani». Non mangiò nulla per tutto il giorno e dopo il buio non accese alcuna candela; e lo sentirono camminare avanti e indietro tardi a [[Night|notte]].
+
+Ma la mattina apparve a colazione all'ora solita e prese il suo posto abituale al tavolo. Sembrava vecchio e curvo, completamente abbattuto; eppure sembrava un uomo più saggio e migliore di quando in questa vita non desiderava altro che i Fatti. Prima di lasciare la stanza, fissò un [[Time|momento]] per riceverli; e così, con il capo grigio chino, se ne andò.
+
+«Caro padre», disse Louisa quando si incontrarono per l'appuntamento,
+«le sono rimasti tre bambini piccoli. Saranno diversi, e sarò diversa
+anch'io, con l'aiuto del Cielo».
+
+Lei diede la mano a Sissy, come se intendesse anche con il suo aiuto.
+
+«Il vostro povero fratello», disse il signor Gradgrind, «pensate che avesse progettato questo furto quando è venuto con voi all'alloggio?»
+
+«Lo [[Fear|temo]], padre. So che desiderava molto dei soldi e ne aveva spesi parecchi».
+
+«Il poveraccio stava per lasciare la città e allora gli venne in mente quella
+idea malvagia di far cadere i sospetti su di lui?»
+
+«Penso che gli sia balenato in mente mentre sedeva lì, padre. Perché sono stato io a chiedergli di venire con me. La visita non è partita da lui».
+
+'Ebbero una conversazione con l'uomo povero. Lo prese da parte?'
+
+«Lo ha portato fuori dalla stanza. Gli ho chiesto dopo perché l'avesse fatto e lui ha addotto una scusa plausibile; ma da [[Night|ieri]] sera, padre, e quando ricordo le circostanze alla sua luce, temo di poter immaginare troppo verosimilmente cosa sia accaduto tra loro.»
+
+«Fammi sapere», disse suo padre, «se i tuoi pensieri ti mostrano tuo fratello colpevole nella stessa luce oscura che vedo io.»
+
+«[[Fear|Temo]], padre», esitò Louisa, «che egli debba aver fatto qualche
+rappresentazione a [[Stephen Blackpool]]—forse in mio nome, forse nel suo
+proprio—che lo indusse ad agire con buona [[Faith|fede]] e onestà, cosa che non aveva mai
+fatto prima, e ad aspettare nei pressi della Banca per quelle due o tre notti prima
+di lasciare la città.»
+
+"Troppo semplice!" rispose il padre. "Troppo semplice!"
+
+Si coprì il volto e rimase in silenzio per alcuni istanti. Riprendendosi, disse:
+
+«E ora, come possiamo trovarlo? Come possiamo salvarlo dalla giustizia?
+Nelle poche ore che posso concedere prima di pubblicare la [[Truth|verità]],
+come possiamo trovarlo noi e solo noi? Diecimila sterline non basterebbero.»
+
+'Sissy ce l'ha fatta, papà.'
+
+Alzò gli occhi verso dove lei stava, come una buona fata nella sua [[house|casa]], e disse con un tono di gratitudine dolce e gentile riconoscenza: «Sei sempre tu, mia [[Child|figlia]]!»
+
+«Avevamo le nostre paure», spiegò Sissy, lanciando un'occhiata a Louisa, «prima di ieri; e quando ti ho visto portare al fianco della lettiga la [[Night|scorsa]] notte, e ho sentito ciò che è accaduto (essendo vicino a Rachael tutto il [[Time|tempo]]), sono andata da lui quando nessuno mi vedeva, e gli ho detto: "Non guardarmi. Vedi dove è tuo padre. Fuggi subito, per il suo bene e per il tuo!" Era già in trepidazione prima che gli sussurrassi queste parole, e poi si è spaventato ancora di più e ha tremato, dicendo: "Dove posso andare? Ho pochissimi soldi, e non so chi mi nasconderà!" Mi sono ricordata del vecchio circo di mio padre. Non ho dimenticato dove va il signor Sleary in questo [[Time|periodo]] dell'anno, e l'ho visto su un giornale proprio l'altro giorno. Gli ho detto di andare subito là, dire il suo nome e chiedere al signor Sleary di nasconderlo finché non fossi arrivata io. "Arriverò da lui prima del mattino", ha detto. E l'ho visto allontanarsi tra la folla».
+
+'Grazie al cielo!' esclamò suo padre. 'Potrebbe ancora essere all'estero.'
+
+Era ancora più incoraggiante il fatto che la città verso cui Sissy lo aveva indirizzato si trovasse a tre ore di [[Journey|viaggio]] da Liverpool, da dove poteva essere rapidamente inviato in qualsiasi parte del mondo. Ma era necessaria cautela nel comunicare con lui, perché il pericolo che venisse sospettato aumentava ad ogni momento e nessuno poteva escludere a priori che lo stesso Mr. Bounderby, in un accesso di zelo pubblico da prepotente, potesse fare la parte del romano.
+
 
 
 <span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_01" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 1)" data-chapter="it was consented that Sissy an" data-kind="excerpt" data-tags="motif/clock,motif/flag,motif/horse,motif/love,motif/night,motif/noon,motif/road,motif/time,motif/water,motif/well,concept/self,concept/wonder,form/allegory,form/inscription"></span>
@@ -23306,6 +28867,48 @@ he never got the better of it; and thee married a thecond [[Time|time]]—marrie
 Cheethemonger ath fell in [[Love|love]] with her from the front—and he’th a
 Overtheer and makin’ a fortun.’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+parte—si convenne che Sissy e Louisa si recassero al luogo in questione,
+per un percorso indiretto, [[Alone|sole]]; e che il povero padre, partendo in direzione opposta,
+raggiungesse la stessa meta con un'altra rotta più ampia. Si concordò
+inoltre che non si sarebbe presentato a Mr. Sleary, per timore che le sue intenzioni venissero sospettate o che la notizia del suo arrivo facesse fuggire di nuovo il figlio; ma che la comunicazione fosse lasciata a Sissy e Louisa da iniziare; e che esse informassero la causa di tanta miseria e disonore dell'arrivo del padre e dello scopo per cui erano venute. Quando questi accordi furono [[Well|bene]] considerati e compresi pienamente da tutti e tre, era [[Time|ora]] di iniziare a metterli in esecuzione. All'inizio del pomeriggio, Mr. Gradgrind camminò direttamente dalla sua [[house|casa]] verso la campagna, per essere prelevato sulla linea che avrebbe dovuto seguire; e alla [[Night|notte]] le due rimanenti si misero in viaggio su percorsi diversi, incoraggiate dal non vedere nessun volto conosciuto.
+
+I due viaggiatori percorsero tutta la [[Night|notte]], tranne quando venivano lasciati, per strani numeri di minuti, alle fermate secondarie, su interminabili scalinate o giù in pozzi — che era l'unica varietà di quelle diramazioni — e, all'inizio del mattino, furono scaricati su una palude, a un miglio o due dalla città che cercavano. Da questo squallido luogo vennero soccorsi da un vecchio postiglione selvaggio, che per caso si era alzato presto e stava dando calci a un [[Horse|cavallo]] in una carrozza: così furono fatti entrare di nascosto in città attraverso tutti i vicoli posteriori dove vivevano i maiali: il che, sebbene non fosse un approccio magnifico o anche solo gradevole, era, come è solito in tali casi, la strada principale legittima.
+
+La prima cosa che videro entrando in città fu lo [[skeleton|scheletro]] del circo di Sleary.
+La compagnia era partita per un'altra città a più di venti miglia di distanza e vi si era esibita la sera precedente. La [[Road|strada]] tra i due luoghi era una tortuosa [[Road|strada]] di montagna, e il viaggio su quella strada era molto lento. Anche se fecero solo una colazione veloce e non riposarono (cosa che sarebbe stato inutile cercare in circostanze così angoscianti), fu [[Noon|mezzogiorno]] prima che cominciassero a trovare i manifesti del circo di Sleary sui fienili e sui muri, ed erano le tre quando si fermarono sulla piazza del mercato.
+
+Un Grandioso Spettacolo Matutino dei Cavalieri, che iniziava proprio a quell'ora,
+veniva annunciato dal banditore mentre posavano i piedi sulle pietre della strada.
+Sissy consigliò di presentarsi direttamente al botteghino per pagare l'ingresso
+per evitare domande e attirare l'attenzione in città. Se il signor Sleary stava incassando i soldi,
+di certo la avrebbe riconosciuta, e si sarebbe comportato con discrezione.
+Se non fosse stato lui, di sicuro li avrebbe visti entrare; e sapendo cosa aveva fatto
+con la fuggitiva, si sarebbe comunque comportato con discrezione.
+
+Pertanto, con il cuore in gola, si diressero verso la [[Well|fontana]] ben nota.
+La [[Flag|bandiera]] con l'[[Inscription|iscrizione]] SLEARY’S [[Horse|HORSE]]-RIDING era ancora al suo posto;
+e c'era anche il nicchio gotico; ma Mr. Sleary non c'era.  Master
+Kidderminster, diventato troppo maturamente erboso per essere accolto dalla più selvaggia
+credulità come Cupido, aveva ceduto alla forza invincibile delle
+circostanze (e della sua barba), e, nella veste di uomo che si rendeva utile in generale, presiedeva in questa occasione al
+tesoro—avendo anche un tamburo di riserva su cui spendere i suoi momenti liberi e le sue forze superflue.  Nella sua estrema attenzione nel cercare monete di basso valore, Mr. Kidderminster, nella sua attuale posizione, non vedeva altro che denaro; così Sissy lo oltrepassò senza essere riconosciuta, ed entrarono.
+
+L'imperatore del Giappone, su un vecchio e stabile [[Horse|cavallo]] bianco con macchie nere dipinte,
+stava facendo girare cinque bacinelle per lavarsi le mani tutte insieme, poiché è questo il passatempo
+preferito di quel monarca. Sissy, sebbene fosse [[Well|bene]] informata sulla sua linea reale,
+non aveva conoscenza personale dell'attuale imperatore e il suo regno era pacifico.
+La signorina Josephine Sleary, nel suo celebre e grazioso Atto Floreale Tirolese Equestre,
+fu annunciata allora da un nuovo pagliaccio (che disse umoristicamente "Atto di Cavolfiore"),
+e apparve il signor Sleary che la conduceva dentro.
+
+Il signor Sleary aveva fatto solo un colpo al Pagliaccio con la lunga frusta,
+e il Pagliaccio aveva detto solo: «Se lo fai ancora, ti lancio addosso il [[Horse|cavallo]]!» quando Sissy fu riconosciuta sia dal padre che dalla figlia. Ma portarono a termine l'atto con grande [[Self|auto]]controllo; e il signor Sleary, tranne per il primo istante, non trasmetteva più espressione nel suo occhio mobile di quanto ne trasmettesse in quello fisso. La rappresentazione sembrò un po' lunga a Sissy e Louisa, specialmente quando si interrompeva per dare al Pagliaccio l'opportunità di raccontare al signor Sleary (che diceva «Davvero, signore!» a tutte le sue osservazioni nel modo più calmo, con lo sguardo sulla [[house|platea]]) la storia di due gambe sedute su tre gambe che guardano una gamba, quando entrano quattro gambe e afferrano una gamba, e allora si alzano due gambe, prendono tre gambe e le lanciano contro quattro gambe, che scappano con una gamba. Perché, sebbene fosse un'ingegnosa [[Allegory|allegoria]] relativa a un macellaio, uno sgabello a tre gambe, un cane e una coscia di montone, questo racconto consumava [[Time|tempo]]; ed erano in grande suspense. Alla fine, però, la piccola Josephine dai capelli chiari fece il suo inchino tra grandi applausi; e il Pagliaccio, rimasto [[Alone|solo]] nell'arena, si era appena scaldato e aveva detto: «Ora _io_ mi faccio una bella risata!» quando Sissy fu toccata sulla spalla e chiamata fuori.
+
+La signorina Louisa l'accompagnò; e furono ricevute dal signor Sleary in un piccolo locale privato, con pareti di tela, pavimento erboso e soffitto di legno inclinato su cui la compagnia della scatola batteva i piedi per approvarli, come se stessero passando. «Signorina», disse il signor Sleary, che aveva a portata di mano brandy e [[Water|acqua]], «mi fa piacere vederla. È sempre stata una delle nostre preferite, e da quando eravamo piccoli ha fatto molto per noi, ne sono sicuro. Deve vedere la nostra gente, mia cara, prima che parliamo di affari, altrimenti si spezzeranno il cuore—soprattutto le donne. Ecco, Josephine si è sposata con E. W. B. Childers e ha avuto un bambino; anche se ha solo tre anni, si aggrappa a qualsiasi pony gli mettiate davanti. Si chiama Il Piccolo [[Wonder|Meraviglia]] dell'Equitazione Scalcinata; e se non sentirete parlare di quel ragazzo ad Ascot, lo sentirete a Parigi. E ricorda Kidderminster, che si diceva fosse piuttosto preso da lei? [[Well|Beh]]. Anche lui si è sposato. Ha sposato una vedova. Abbastanza grande da poter essere sua madre. Lei era la Funambola, lo era, e ora non fa più nulla—per via del grasso. Hanno due figli, anche se noi siamo forti nel settore delle fate e nella truffa della nursery. Se volesse vedere i Nostri Bambini nel Bosco, con il padre e la madre che muoiono entrambi su un cavallo—lo zio che li riceve come suoi pupilli su un cavallo—loro stessi che vanno a raccogliere more su un cavallo—e i Robinetti che arrivano per coprirli con le foglie, su un cavallo—direbbe che è la cosa più completa che abbia mai visto! E ricorda [[Emma]] Gordon, mia cara, che era quasi una madre per lei? Certo che si; non c'è bisogno di chiedere. [[Well|Beh]]!
+[[Emma]], ha perso suo marito. Fu buttato giù da un pesante colpo all'indietro da un Elefante in una specie di Pagoda del Sultano delle Indie, e non se ne riprese mai; e si risposò—sposò un Macellaio che s'era innamorato di lei dal primo momento—e lui è un Impresario ed sta facendo fortuna.
 
 
 
@@ -23431,6 +29034,76 @@ the money all at once.  I pretended to put my balance away every [[Night|night]]
 but I didn’t.  Now you know all about it.’
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Questi vari cambiamenti, che il signor Sleary, ormai molto affannato,
+raccontò con grande cordialità e con una straordinaria sorta di [[innocence|innocenza]],
+considerando quale vecchio veterano annebbiato e alcolizzato fosse.
+In seguito fece entrare Josephine ed E. W. B. Childers (che alla luce del
+giorno mostrava piuttosto profonde rughe sulle guance), la Piccola [[Wonder|Meraviglia]]
+dell'Equitazione Scolastica, e in una parola tutta la compagnia.
+Erano creature straordinarie agli occhi di Louisa,
+così bianche e rosa nel colorito, così scarse di abbigliamento
+e così dimostrative nelle gambe; ma era molto piacevole vederle
+accalcarsi intorno a Sissy, ed era del tutto naturale che Sissy non potesse
+trattenere le [[Tears|lacrime]].
+
+«Ecco fatto! Ora che Thethilia ha baciato tutti i bambini e abbracciato tutte le donne e stretto la mano a tutti gli uomini, allontanatevi, ognuno di voi, e formate il cerchio per la seconda parte!»
+
+Non appena se ne furono andati, continuò sottovoce: «Ora, Thethilia,
+non athko di voler conoscere alcun thecreto, ma immagino che possa considerare
+questo come Miss Thquire».
+
+'Questa è sua sorella. Sì.'
+
+«E l'altra è la figlia. È questo che intendo. [[Hope|Spero]] di vederti [[Well|bene]], signore. E [[Hope|spero]] che il Signorotto stia [[Well|bene]]?»
+
+«Mio padre sarà qui presto», disse Louisa, ansiosa di portarlo al dunque.
+«Mio fratello è al sicuro?»
+
+«Zitto e zitto!» rispose lui. «Voglio solo che date un'occhiata all'Anello,
+signorina, da qui. Settimia, tu conosci i trucchi; trova una spioniera per te stessa».
+
+Ognuno guardò attraverso una fessura tra le tavole.
+
+«Quello è Jack lo Sterminatore di Giganti — un pezzo per bambini comici», disse Sleary. «C'è una casetta di scena, vedi, dove Jack si nasconde; c'è il mio Clown con un coperchio di padella e uno spiedo, che fa da servo a Jack; c'è lo stesso piccolo Jack in splendida armatura; ci sono due servitori comici neri alti come la casa, per stare accanto alla casetta e portarla dentro e toglierla di mezzo; e il Gigante (un gigantesco cesto) non è ancora entrato. Ora, li vedi tutti?»
+
+«Sì», dissero entrambi.
+
+«Guardateli di nuovo», disse Sleary, «guardateli [[Well|bene]]. Li vedete tutti?
+Benissimo. Ora, mith;» mise una panca su cui sedersi; «ho le mie opinioni e il Thquire vostro padre ha le hie. Non voglio sapere cosa abbia fatto vostro fratello; è meglio per me non saperlo. Tutto quello che dico è che il Thquire è stato fedele a Thethilia, e io sarò fedele al Thquire. Vostro fratello è uno di quei servitori neri».
+
+Luisa emise un'esclamazione, in parte di dolore e in parte di soddisfazione.
+
+«È un fatto», disse Sleary, «e anche sapendolo non riuscireste a individuarlo. Lasciate che venga il Cavaliere. Io terrò qui vostro fratello dopo lo spettacolo. Non ho bisogno di capirlo né di vedere il suo trucco. Fatelo venire qui dopo lo spettacolo, o venite voi stessa dopo lo spettacolo, e troverete vostro fratello, avrete tutto il tempo per parlargli. Non preoccupatevi del suo aspetto, purché sia [[Well|bene]] nascosto».
+
+Louisa, con molti ringraziamenti e con un peso alleggerito, non trattenne più a lungo il signor Sleary.
+Le lasciò l'[[Love|amore]] per suo fratello, con gli occhi pieni di [[Tears|lacrime]]; e lei e Sissy se ne andarono fino al tardo pomeriggio.
+
+Il signor Gradgrind arrivò un'ora dopo. Anche lui non aveva incontrato nessuno che conoscesse; e ora, grazie all'aiuto di Sleary, era ottimista sulla possibilità di portare suo figlio screditato a Liverpool quella [[Night|sera]]. Poiché nessuno dei tre poteva essere il suo compagno senza quasi identificarlo sotto qualsiasi travestimento, preparò una lettera a un corrispondente in cui aveva fiducia, supplicandolo di [[Ship|imbarcare]] il portatore a tutti i costi verso il Nord o il Sud [[america|America]], o qualsiasi parte lontana del mondo dove potesse essere inviato con la massima rapidità e riservatezza.
+
+Fatto ciò, si misero a camminare avanti e indietro in attesa che il circo fosse completamente svuotato;
+non solo dal pubblico ma anche dalla compagnia e dai cavalli. Dopo averlo osservato per un bel [[Time|po']], videro
+il signor Sleary portare fuori una sedia e sedersi accanto alla porta laterale, fumando; come se questo fosse il segnale che potevano avvicinarsi.
+
+«Il vostro servitore, signor cavaliere», fu il suo cauto saluto mentre entravano. «Se mi cercate, mi troverete qui. Non dovete preoccuparvi se vostro figlio indossa una livrea buffa».
+
+Entrarono tutti e tre; e il signor Gradgrind si sedette abbandonato sulla sedia del pagliaccio nel mezzo dell’arena. Su una delle panche posteriori, lontano nella fioca luce e nell’inconsueta atmosfera del luogo, era seduto quel piccolo mascalzone malvagio, ostinatamente cupo fino all’ultimo, che aveva la sventura di chiamare suo figlio.
+
+Con un ridicolo cappotto da sagrestano, con polsini e tasche esagerati al massimo grado; con un immenso panciotto, brache alla zuava, scarpe con fibbie e un pazzo cappello a tricorno; senza che nulla gli calzasse, e tutto fatto di materiale scadente, mangiato dalle tarme e pieno di buchi; con delle linee sul suo viso nero, dove la [[Fear|paura]] e il calore erano trapelati attraverso la grassa maschera che lo ricopriva tutto; nulla di così orribilmente, detestabilmente, ridicolamente vergognoso come quel cucciolo nella sua livrea comica poteva essere creduto da Mr. Gradgrind con qualsiasi altro mezzo, anche se era un fatto ponderabile e misurabile. E uno dei suoi bambini modello era arrivato a questo!
+
+All'inizio il cucciolo non si avvicinava e insisteva nel rimanere lassù da solo. Cedendo infine, se una concessione fatta con tale riluttanza può essere chiamata cedimento, alle preghiere di Sissy — poiché negava del tutto Louisa — scese gradino per gradino finché non si trovò nella segatura, sul bordo del cerchio, il più lontano possibile, entro i suoi limiti, da dove sedeva suo padre.
+
+«Come è stato fatto?» chiese il padre.
+
+«Come è stato fatto?» rispose malvolentieri il figlio.
+
+«Questo furto», disse il padre, alzando la voce sulla parola.
+
+«Ho forzato la cassaforte io stesso durante la [[Night|notte]] e l'ho lasciata socchiusa prima di andarmene.
+Avevo fatto fare da tempo quella chiave che è stata trovata. L'ho fatta cadere quel mattino, in modo
+che si potesse supporre fosse stata usata. Non ho preso i soldi tutti insieme. Fingevo di riporre il mio denaro ogni [[Night|sera]], ma non lo facevo. Ora sapete tutto».
+
 
 
 <span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_03" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 3)" data-chapter="it was consented that Sissy an" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/love,motif/night,motif/tears,motif/time"></span>
@@ -23531,6 +29204,61 @@ frock, and I must have him!’
 
 By the collar, too, it seemed.  For, so he took possession of him.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Se un fulmine fosse caduto su di me», disse il padre, «mi avrebbe scosso meno di questo!»
+
+«Non vedo perché», brontolò il figlio. «Tante persone sono impiegate in posti di fiducia; tante persone, tra tante altre, saranno disoneste. Vi ho sentito parlare centinaia di volte del fatto che è una legge. Come posso _io_ aiutare le leggi? Avete consolato altri con queste cose, padre. Consolatevi!»
+
+Il padre si nascose il viso tra le mani e il figlio rimase in piedi nella sua disgustosa goffaggine a masticare paglia: le sue mani, con la pelle interna parzialmente consumata dal nero, sembravano quelle di una scimmia. La sera stava calando rapidamente; e [[Time|di]] [[Time|tanto]] in tanto, egli rivolgeva il bianco degli occhi verso suo padre con irrequieta impazienza. Erano le uniche parti del viso che mostravano vita o espressione, tanto era spesso lo strato di pigmento su di esso.
+
+'Devi essere portato a Liverpool e mandato all'estero.'
+
+«Suppongo che debba farlo. Non potrei essere più infelice in nessun altro posto», piagnucolò il cucciolo, «di quanto non sia stato qui da quando ho memoria. Questo è un punto a mio favore».
+
+Il signor Gradgrind si recò alla porta e tornò con Sleary, al quale sottopose la domanda: Come fare a liberarsi di questo deplorevole individuo?
+
+«Perché ci ho pensato io, Thquire. Non c'è molto [[Time|tempo]] da perdere, quindi devi dire sì o no. Sono più di venti miglia fino alla stazione ferroviaria. C'è un treno tra mezz'ora che va _alla_ stazione per prendere il treno postale. Quel treno lo porterà dritto a Liverpool».
+
+'Guardatelo', gemette il signor Gradgrind, 'ci sarà un allenatore, '
+
+«Non intendo dire che dovrebbe indossare la livrea da pagliaccio», disse Sleary. «Dica la parola e lo trasformerò in un Jothkin con i costumi dell'armadio in cinque minuti».
+
+«Non capisco», disse il signor Gradgrind.
+
+«Un Jothkin — un carrettiere. Deciditi in fretta, signorino. Ci sarà da andare a prendere la birra. Non ho mai visto niente che pulisca meglio di una birra un negro comico».
+
+Il signor Gradgrind acconsentì rapidamente; il signor Sleary tirò fuori in un baleno da una scatola una giacca di tela grezza, un cappello di feltro e altri indumenti essenziali; il cucciolo si cambiò velocemente dietro uno schermo di baeta; il signor Sleary portò rapidamente della birra e lo lavò fino a renderlo bianco come prima.
+
+«Ora», disse Sleary «venite al calesse e salite dietro; vi accompagno io fino là, e penseranno che siete una delle mie persone. Salutate la vostra famiglia e partite subito». E con queste parole si ritirò delicatamente.
+
+«Ecco la tua lettera», disse il signor Gradgrind. «Ti verranno forniti tutti i mezzi necessari. Espia con pentimento e condotta migliore l'azione scandalosa che hai commesso e le terribili conseguenze a cui ha portato. Dammi la mano, povero ragazzo mio, e possa Dio perdonarti come faccio io!»
+
+Il colpevole fu mosso a qualche misero [[Tears|pianto]] da queste parole e dal loro tono patetico.
+Ma quando Louisa aprì le braccia, lui la respinse di nuovo.
+
+'Non tu! Non voglio avere nulla da dire con te!'
+
+«Oh, Tom, Tom, finisce così, dopo tutto il mio [[Love|amore]]!»
+
+«Dopo tutto il tuo [[Love|amore]]!» replicò ostinato. «Bell'[[Love|amore]] davvero! Lasciare solo quel vecchio Bounderby, spedire via mio migliore amico, Mr Harthouse, e andartene [[Home|a casa]] proprio quando ero in pericolo mortale. Bell'[[Love|amore]] questo! Rivelare ogni cosa sul fatto che eravamo stati in quel posto, quando hai visto che la rete si stringeva intorno a me. Bell'[[Love|amore]] davvero! Mi hai abbandonato senza mezzi termini. Non ti sei mai curata di me».
+
+«È la parola giusta!» disse Sleary sulla porta.
+
+Uscirono tutti confusamente: Louisa piangeva e gli diceva che lo perdonava,
+e che ancora lo amava, e che un giorno si sarebbe pentito di averla lasciata
+così, e sarebbe stato felice di ricordare queste sue ultime parole, lontano:
+quando qualcuno andò a sbattere contro di loro.  Il signor Gradgrind e Sissy,
+che erano entrambi davanti a lui mentre sua sorella ancora gli si aggrappava
+alla spalla, si fermarono e indietreggiarono.
+
+Infatti c'era Bitzer, senza fiato, le labbra sottili aperte, le narici strette dilatate, le ciglia bianche tremolanti, il volto incolore più incolore che mai, come se si fosse messo a correre fino ad arroventarsi, mentre gli altri correvano solo per riscaldarsi.  Lì stava, ansimante e affannato, come se non avesse mai smesso di correre dalla [[Night|notte]], ormai lontana, in cui li aveva già messi alle strette.
+
+«Mi dispiace interferire con i suoi piani», disse Bitzer scuotendo la testa,
+«ma non posso permettere che mi si faccia del male da parte di [[Horse|cavallerizzi]]. Devo avere il giovane signor Tom; non deve essere portato via dai [[Horse|cavallerizzi]]; eccolo qui in un grembiule, e devo averlo!»
+
+Anche per il colletto, sembrava. Perché così se ne impossessò.
 
 
 
@@ -23657,6 +29385,63 @@ misunderstand him.  As they were all going out again, he favoured her
 with one slight roll of his movable eye, desiring her to linger behind.
 As he locked the door, he said excitedly:
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO VIII  
+FILOSOFICO
+
+Rientrarono nella baracca, Sleary chiuse la porta per tenere lontani gli intrusi. Bitzer, continuando a trattenere il colpevole paralizzato per il bavero, rimase in piedi nel recinto, sbattendo le palpebre verso il suo vecchio protettore attraverso l'oscurità del crepuscolo.
+
+«Bitzer», disse il signor Gradgrind, abbattuto e umilmente sottomesso a lui,
+«hai un cuore?»
+
+«La circolazione, signore», rispose Bitzer con un sorriso per la stranezza della domanda, «non potrebbe avvenire senza di essa. Nessun uomo, signore, che conosca i fatti stabiliti da Harvey riguardanti la circolazione del [[Blood|sangue]], può [[Doubt|dubitare]] che io abbia un cuore».
+
+'È accessibile', gridò il signor Gradgrind, 'a qualche influenza compassionevole?'
+
+«È accessibile alla Ragione, signore», rispose il giovane esemplare. «E a nient'altro».
+
+Si guardarono l'un l'altro; il volto di Mr. Gradgrind era bianco come quello del perseguitore.
+
+«Quale motivo — anche quale motivo ragionevole — può spingervi a impedire la fuga di questo povero giovane», disse il signor Gradgrind, «e a schiacciare suo padre infelice? Guardate sua sorella qui. Abbiate pietà di noi!»
+
+«Signore», rispose Bitzer in modo molto pratico e logico,
+«poiché mi chiede quale motivo io abbia di ragione per riportare il giovane signor Tom
+a Coketown, è solo giusto che lei lo sappia. Ho
+sospettato del giovane signor Tom questo furto in banca fin dall'inizio. Lo avevo tenuto d'occhio già prima di quel [[Time|tempo]], perché conoscevo i suoi modi. Ho tenuto per me le mie osservazioni, ma le ho fatte; e ora ho prove abbondanti contro di lui, oltre alla sua fuga e oltre la sua stessa confessione, che sono riuscito appena in [[Time|tempo]] a sentire. Ieri mattina ho avuto il piacere di sorvegliare la sua [[house|casa]] e seguirla qui. Intendo riportare il giovane signor Tom a Coketown, per consegnarlo al signor Bounderby. Signore, non ho alcun [[Doubt|dubbio]] che il signor Bounderby
+mi promuoverà allora alla posizione del giovane signor Tom. E desidero avere la sua posizione, signore, perché per me sarà un passo avanti e mi farà bene».
+
+«Se per lei si tratta esclusivamente di un problema di [[Self|interesse]] personale —» cominciò il signor Gradgrind.
+
+«Chiedo scusa per averla interrotta, signore», rispose Bitzer; «ma sono sicuro che lei sa che l'intero sistema sociale è una questione di [[Self|interesse]] personale. A ciò a cui deve sempre fare appello è all'[[Self|interesse]] personale di una persona. È il suo unico punto d'appoggio. Siamo fatti così. Sono stato educato in quel catechismo quando ero molto giovane, signore, come lei sa bene».
+
+'Quale somma di denaro', disse il signor Gradgrind, 'metterete contro la vostra aspettativa di promozione?'
+
+«Grazie, signore», rispose Bitzer «per aver accennato alla proposta; ma non contratterò alcuna somma. Sapendo che la sua mente lucida avrebbe suggerito tale alternativa, ho ripassato i calcoli nella mia testa e ho scoperto che anche un accordo per una condanna penale a termini davvero molto vantaggiosi non sarebbe altrettanto sicuro e vantaggioso per me quanto le mie migliori prospettive in Banca.»
+
+«Bitzer», disse il signor Gradgrind, tendendo le mani come se volesse dire: «Vedete quanto sono infelice!» «Bitzer, mi resta una sola possibilità di addolcire la tua durezza. Sei stato per molti anni a scuola da me. Se, in ricordo delle cure che ti ho dedicato lì, puoi persuaderti anche solo un po' a trascurare il tuo interesse attuale e liberare mio figlio, ti prego con tutto il cuore di concedergli i benefici di quel ricordo».
+
+«Mi chiedo davvero, signore», replicò l'antico allievo in tono polemico,
+«come faccia a prendere una posizione così insostenibile. La mia istruzione è stata pagata; era un accordo; e quando me ne sono andato, l'accordo è finito».
+
+Era un principio fondamentale della [[philosophy|filosofia]] Gradgrind che tutto dovesse essere pagato.
+Nessuno doveva mai dare niente a nessuno o prestar soccorso senza compenso.
+La gratitudine andava abolita, e le virtù da essa derivate non avevano ragione di esistere.
+Ogni istante dell'esistenza umana, dalla nascita alla [[Death|morte]], doveva essere un affare concluso al banco. E se così facendo non fossimo riusciti ad arrivare in Paradiso, allora quel luogo non era politico-economicamente valido e non ci spettava di entrarvi.
+
+«Non nego», aggiunse Bitzer, «che la mia istruzione sia stata economica.
+Ma questo è giusto così, signore. Sono stato prodotto nel mercato più economico e ora mi trovo a dovermi vendere in quello più caro».
+
+Qui fu un po' turbato dal pianto di Louisa e Sissy.
+
+«La prego di non farlo», disse lui, «non serve a nulla: è solo fonte di preoccupazioni. Lei sembra pensare che io nutra qualche animosità contro il giovane signor Tom; mentre in realtà non ne ho affatto. Mi limiterò semplicemente, per i ragionevoli motivi da me esposti, a riportarlo a Coketown. Se dovesse opporre resistenza, lancerei l'allarme di "Fermate il ladro!". Ma lui non si ribellerà, può starne certa».
+
+Il signor Sleary, che con la bocca aperta e l'occhio [[rolling|ruotante]] bloccato nella testa immobile come quello fisso, aveva ascoltato queste dottrine con profonda attenzione, si fece avanti.
+
+«Signor, sapete perfettamente [[Well|bene]], e vostra figlia sa perfettamente [[Well|bene]] (meglio di voi, perché gliel'ho detto io), che non sapevo cosa avesse fatto vostro figlio, e che non volevo saperlo: ho detto che era meglio di no, anche se allora pensavo fosse solo uno scherzo. Tuttavia, ora che questo giovane ha rivelato che si tratta di una rapina in banca, beh, questa è una cosa seria; troppo seria perché io possa compromettermi, come giustamente ha detto questo giovane. Di conseguenza, signor, non dovete offendervi se prendo le parti di questo giovane e dico che ha ragione e che non c'è niente da fare. Ma vi dico cosa farò: accompagnerò vostro figlio e questo giovane alla stazione ferroviaria e eviterò ulteriori esposture qui. Non posso acconsentire a fare di più, ma questo lo farò».
+
+Nuove lamentazioni da parte di Louisa e un'angoscia più profonda nel signor Gradgrind seguirono l'abbandono da parte del loro ultimo amico. Ma Sissy lo guardò con grande attenzione; né fra sé e sé lo fraintese. Mentre stavano tutti per uscire di nuovo, le fece l'onore di una lieve rotazione dei suoi occhi mobili, invitandola a trattenersi indietro. Mentre chiudeva la porta a chiave, disse con eccitazione:
 
 
 
@@ -23800,6 +29585,68 @@ kind thing too, and make the betht of uth; not the wurtht!’
 ‘And I never thought before,’ said Mr. Sleary, putting his head in at the
 door again to say it, ‘that I wath tho muth of a Cackler!’
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+«Il Thquire è stato dalla tua parte, Thethilia, e io starò dalla parte del Thquire.
+E non solo: quetho è un prethiouth rathcal, e appartiene a quel Cove che i miei hanno quasi pithciato fuori dalla finestra. Sarà una [[Night|notte]] buia; ho un cavallo che farebbe di tutto pur di non parlare; ho uno pone che può percorrere quindici miglia all'ora con Childerth a guidarlo; ho un cane che tiene fermo un uomo in un posto per ventiquattro ore. Parla col giovane Thquire. Digli, quando vede i nostri cavalli cominciare a danzare, di non aver paura di essere buttato giù, ma di stare attento all'arrivo di una carrozza trainata da uno pone. Digli che, quando vede la carrozza avvicinarsi, deve saltar giù e quella lo porterà via a rotta di collo. Se il mio cane lascia che questo giovane si allontani anche solo di un passo a piedi, gli do il permesso di andarsene. E se il mio cavallo mai si muoverà da quel punto in cui comincia la danza fino al mattino—non lo conosco?—Tharp' è la parola!»
+
+La parola era così tagliente che in dieci minuti il signor Childers,
+passeggiando per la piazza del mercato con un paio di pantofole, aveva
+capito e l'equipaggio del signor Sleary era pronto. Era uno spettacolo
+meraviglioso vedere il cane sapiente abbaiare intorno ad esso e il
+signor Sleary istruirlo, con il suo unico occhio funzionante, che Bitzer
+era oggetto delle sue particolari attenzioni. Poco dopo il buio tutti e
+tre salirono a bordo e partirono; il cane sapiente (una creatura
+formidabile) già teneva d'occhio Bitzer e si manteneva vicino alla [[Wheel|ruota]]
+dal suo lato, per essere pronto nel caso in cui avesse mostrato la più
+piccola intenzione di scendere.
+
+Gli altri tre rimasero seduti nella locanda tutta la [[Night|notte]] in grande suspense. Alle otto del mattino il signor Sleary e il cane riapparvero, entrambi di ottimo umore.
+
+«Va bene, signorino!» disse il signor Sleary «vostro figlio potrebbe essere già a bordo di una nave in questo [[Time|momento]]. Childers lo ha portato via un'ora e mezza dopo che siamo partiti da lì la scorsa [[Night|notte]]. Il cavallo ballò la polca fino ad essere stremato (avrebbe continuato a danzare se non fosse stato attaccato ai finimenti), allora gli ho dato il segnale e lui è andato a dormire tranquillo. Quando quel grazioso giovane Rathcal disse che sarebbe andato avanti a piedi, il cane si aggrappò al suo fazzoletto da collo con tutte e quattro le zampe in aria e lo tirò giù facendolo rotolare. Così è tornato nella carrozza, dove è rimasto fino a quando non ho girato la testa del cavallo, a metà strada tra le sei di questa mattina».
+
+Il signor Gradgrind lo sommerse di ringraziamenti, naturalmente; e accennò con la massima delicatezza possibile ad un'ampia retribuzione in denaro.
+
+«Io non voglio denaro per me stesso, signorino; ma Childerth è un uomo di famiglia e se lei volesse offrirgli una banconota da cinque sterline, potrebbe non essere inaccettabile. Allo stesso modo, se lei volesse offrire un collare per il cane o un set di campanelli per il cavallo, sarei molto felice di prenderli. Il brandy e [[Water|acqua]] lo prendo sempre». Aveva già chiesto un bicchiere e ora ne chiese un altro. «Se non pensasse che sia troppo audace, signorino, preparare un po' di pane per la compagnia verso le tre e mezza in avanti, senza contare Ruth, li renderebbe felici».
+
+Mr. Gradgrind accettò molto volentieri di restituire tutti questi piccoli segni della sua gratitudine; anche se li considerava troppo insignificanti per un servizio del genere.
+
+«Molto [[Well|bene]], signor Thquire; allora, se vorrà concedermi solo un'andata a cavallo e una chiacchierata ogni volta che potrà, più che pareggiare i conti. Ora, signor Thquire, se sua figlia mi permetterà, vorrei scambiare con lei qualche parola prima di andarmene».
+
+Louisa e Sissy si ritirarono in una stanza attigua; il signor Sleary,
+mescolando e bevendo il suo [[Water|brandy]] e acqua mentre stava in piedi, continuò:
+
+'Gentiluomo, non c'è bisogno di dirle che i cani sono animali straordinari.'
+
+"Il loro istinto," disse il signor Gradgrind, "è sorprendente."
+
+«Chiamatela come volete — e io non so proprio che nome darle» disse Sleary «è sorprendente. Il modo in cui un cane vi trova, la distanza da cui arriva!»
+
+'Il suo fiuto', disse il signor Gradgrind, 'è così raffinato'.
+
+«Non saprei come chiamarlo», ripeté Sleary scuotendo la testa, «ma mi è capitato di essere trovato da cani, signorino, in un modo che mi ha fatto pensare se quel cane non fosse andato da un altro cane e gli avesse detto: “Per caso non conosci una persona di nome Sleary?  Una persona di nome Sleary, del circo itinerante—uomo robusto—occhio vivace?” E se quel cane non potrebbe aver risposto: “[[Well|Beh]], non posso dire di conoscerlo io stesso, ma ne conosco uno che credo sarebbe probabile che lo conosca.”  E se quel cane non avesse riflettuto e detto: “Sleary, Sleary! O sì, certo! Un mio amico mi ha parlato di lui una [[Time|volta]]. Posso procurarti subito il suo indirizzo.” A causa del fatto che sono davanti al pubblico e vado in giro per la strada, capisce, ci devono essere un sacco di cani che conoscono me, signorino, che _io_ non conosco!»
+
+Il signor Gradgrind sembrò essere completamente sconcertato da questa speculazione.
+
+«Comunque», disse Sleary dopo aver portato le labbra al suo brandy e [[Water|acqua]],
+«era quattordici mesi fa, signorino, quando eravamo a Chester.  Stavamo
+preparando i nostri bambini nella foresta una mattina, quando è entrato
+nel nostro circo, dalla porta del palcoscenico, un cane.  Aveva viaggiato molto lontano, era in condizioni pietose, zoppo e quasi [[Well|completamente]] cieco.  Si avvicinò ai nostri bambini uno dopo l'altro, come se stesse cercando un [[Child|bambino]] che conosceva; poi venne da me, si arrampicò dietro e si mise in piedi sulle sue due zampe anteriori, debole com'era, quindi agitò la coda e morì.  Signorino, quel cane era Merrylegs».
+
+'Il cane del padre di Sissy!'
+
+«Il vecchio cane del padre di Thethilia. Ora, signorino, posso giurare che, per la mia conoscenza di quel cane, quell'uomo era morto e sepolto prima ancora che il cane tornasse da me. Josifine, Childerth ed io abbiamo discusso a lungo [[Time|tempo]] se avrei dovuto scrivere o no. Ma siamo stati d'accordo: "No. Non c'è nulla di confortante da dire; perché sconvolgere la sua mente e renderla infelice?" Quindi, se suo padre l'abbia semplicemente abbandonata; oppure se si sia spezzato il cuore [[Alone|da solo]], piuttosto che trascinarla giù con sé; non lo sapremo mai, ora, signorino, fino a quando—no, finché non sapremo come i cani ci trovano!»
+
+«Conserva ancora la bottiglia che lui le ha mandato e crederà nel suo affetto fino all'ultimo momento della sua vita», disse il signor Gradgrind.
+
+«Sembrano presentare due cose a una persona, non è così, Squi?» disse il signor Sleary, riflettendo mentre guardava nelle profondità del suo [[Water|whisky]] e acqua: «una, che c'è un [[Love|amore]] nel mondo, non tutto egoistico dopotutto, ma qualcosa di molto diverso; l'altra, che ha un modo proprio di calcolare o non calcolare, che in qualche modo è almeno difficile da definire quanto i modi dei cani!»
+
+Il signor Gradgrind guardò fuori dalla [[Window|finestra]] e non rispose. Il signor Sleary svuotò il bicchiere e richiamò le signore.
+
+«Thethilia mia cara, baciala e addio!  Mith Thquire, a te che la tratti come una thithter, e una thithter che tu trutht e [[Honour|onori]] con tutto il cuore e più ancora, è una cosa molto bella per me.  Io [[Hope|spero]] che tuo fratello possa vivere per meritare di più te, e essere un maggior conforto per te.  Thquire, thciamoci le mani, prima e ultima volta!  Non arrabbiarti con noi poveri vagabondi.  La gente deve divertirsi.  Non possono stare sempre a imparare, né possono stare sempre a lavorare, non sono fatti per questo.  Devi _averci_, Thquire.  Fai la cosa giusta e anche quella gentile, e fa' il meglio di noi; non il peggio!»
+
+«E non ho mai pensato prima», disse il signor Sleary, mettendo di nuovo la testa nella porta per dirlo, «che fossi così bocca da gallina!»
 
 
 
@@ -24025,3 +29872,109 @@ FOOTNOTES
 
 {0}  _Reprinted Pieces_ was released as a separate eText by Project
 Gutenberg, and is not included in this eText.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+CAPITOLO IX
+FINALE
+
+È una cosa pericolosa vedere qualcosa nel mondo di un vanaglorioso prima che il vanaglorioso lo veda lui stesso. Il signor Bounderby sentiva che la signora Sparsit l'aveva sfidato audacemente e si era permessa di essere più saggia di lui. Insofferentemente indignato con lei per la sua trionfante scoperta della signora Pegler, continuava a rivoltare questa presunzione da parte di una donna in una posizione dipendente nella sua mente, finché non si accumulava girando come una grande palla di neve. Alla fine scoprì che licenziare quella donna altolocata — avere il potere di dire: «Era una signora di famiglia e voleva attaccarsi a me, ma io non l'ho voluto e mi sono liberato di lei» — sarebbe stato ottenere la massima quantità possibile di gloria culminante dalla relazione e allo stesso [[Time|tempo]] punire la signora Sparsit secondo i suoi meriti.
+
+Ricolmo più che mai di questa grande idea, il signor Bounderby entrò a pranzo e si sedette nella sala da pranzo dei tempi passati, dove era appeso il suo ritratto. La signora Sparsit stava accanto al [[Fire|fuoco]], con il piede nel cavalletto di cotone, senza sospettare affatto la destinazione del viaggio che l'attendeva.
+
+Da quando era scoppiato lo scandalo Pegler, questa gentildonna aveva coperto la sua pietà per il signor Bounderby con un velo di tranquilla [[Melancholy|malinconia]] e pentimento. In virtù di ciò, le era diventata abitudine assumere uno sguardo afflitto che ora rivolgeva al suo protettore.
+
+«Che succede adesso, signora?» disse il signor Bounderby, in modo molto brusco e sbrigativo.
+
+"Prego, signore," rispose la signora Sparsit, "non mi morda il naso."
+
+«Mordersi il naso, signora?» ripeté Mr. Bounderby. «Il _vostro_ naso!»
+intendendo, come la Sparsit interpretò, che era un naso troppo sviluppato per lo scopo. Dopo questa offensiva implicazione, si tagliò una crosta di pane e lasciò cadere il coltello rumorosamente sul tavolo.
+
+La signora Sparsit tolse il piede dalla staffa e disse: 'Signor Bounderby, signore!'
+
+«[[Well|Bene]], signora?» ribatté il signor Bounderby. «A cosa sta fissando?»
+
+'Posso chiedere, signore,' disse la signora Sparsit, 'se è stato turbato questa mattina?'
+
+'Sì, signora.'
+
+«Posso chiedere, signore», proseguì la donna offesa, «se sono io la sfortunata causa per cui avete perso il vostro buon umore?»
+
+«Ora, le dico una cosa, signora», disse Bounderby, «non sono venuto qui per farmi intimidire. Una donna può anche avere ottime connessioni, ma non si può permettere di infastidire e tormentare un uomo nella mia posizione, e io non intendo sopportarlo». (Il signor Bounderby sentì la necessità di andare avanti: prevedendo che se avesse permesso i dettagli, sarebbe stato sconfitto.)
+
+La signora Sparsit prima sollevò e poi aggrottò le sue sopracciglia coriolaniane; raccolse il suo lavoro nel cestino adatto, e si [[Rose|alzò]].
+
+«Signore», disse lei con maestà, «mi è evidente che al momento sono d'intralcio. Mi ritirerò nella mia stanza».
+
+'Permettetemi di aprire la porta, signora.'
+
+'Grazie, signore; posso farlo da solo.'
+
+«È meglio che lo faccia io, signora», disse Bounderby passandole accanto e mettendo la mano sulla serratura; «perché posso approfittare dell'occasione per dirle due parole prima che se ne vada.  Signora Sparsit, credo piuttosto che qui lei sia in una situazione difficile, sa? Mi sembra che sotto il mio umile tetto non ci sia abbastanza spazio per una signora del suo genio nelle faccende altrui».
+
+La signora Sparsit gli lanciò uno sguardo di profondo disprezzo e disse con grande cortesia: «Davvero, signore?»
+
+«Ci ho pensato sopra, vede, da quando sono accaduti gli ultimi fatti, signora», disse Bounderby; «e mi sembra a mio povero giudizio —»
+
+«Oh! La prego, signore», intervenne la signora Sparsit con vivace allegria,
+«non svaluti il suo giudizio. Tutti sanno quanto sia infallibile il giudizio del
+signor Bounderby. Tutti ne hanno avuto le prove. Deve essere l'argomento di conversazione generale. Svaluti pure tutto in sé stesso, ma non il suo
+giudizio», disse la signora Sparsit ridendo.
+
+Il signor Bounderby, molto rosso e a disagio, riprese:
+
+«Mi sembra, signora, dico, che un tipo di stabilimento completamente diverso metterebbe in luce una signora con i _suoi_ talenti. Un tale stabilimento come quello della sua parente, Lady Scadgers, per esempio. Non crede che potrebbe trovare là qualche faccenda da gestire?»
+
+«Non mi era mai venuto in mente prima d'ora, signore», rispose la signora Sparsit «ma ora che lo dice lei, credo sia molto probabile».
+
+«Allora suppongo che ci proverà, signora», disse Bounderby, posando una busta con un assegno dentro nel suo piccolo cestino. «Può prendersi tutto il [[Time|tempo]] che vuole per andarsene, signora; ma forse nel frattempo sarà più piacevole a una donna delle sue doti intellettuali mangiare i suoi pasti da sola e non essere importunata. In realtà dovrei scusarmi con lei - essendo solo Josiah Bounderby di Coketown - per averle ostruito la vista così a lungo».
+
+«La prego di non nominarlo, signore», rispose la signora Sparsit. «Se quel ritratto potesse parlare, signore - ma ha il vantaggio sull'originale di non possedere la capacità di compromettersi e disgustare gli altri - testimonierebbe che è trascorso molto tempo da quando per la prima volta mi sono abituata a chiamarlo ritratto di un Noodle. Nulla che un Noodle fa può destare sorpresa o indignazione; le azioni di un Noodle possono solo ispirare disprezzo».
+
+Così dicendo, la signora Sparsit, con i suoi tratti romani come una medaglia coniata per commemorare il suo disprezzo verso il signor Bounderby, lo osservò fissamente dalla testa ai piedi, gli passò accanto con disdegno e salì le scale. Il signor Bounderby chiuse la porta e si fermò davanti al [[Fire|fuoco]]; proiettandosi nel suo vecchio modo esplosivo nel suo ritratto - e nell'avvenire.
+
+* * * * *
+
+Fino a quale punto del futuro? Vide la signora Sparsit impegnata in una lotta quotidiana con tutti gli strumenti dell'armamentario femminile, contro la riluttante, risentita, irritabile e tormentosa lady Scadgers, ancora costretta a letto per via della sua misteriosa gamba, e che divorava il suo misero reddito entro metà di ogni trimestre, in un piccolo alloggio senza aria, una semplice dispensa per uno, una stanzetta per due; ma vide qualcosa di più? Intravide forse se stesso mostrare Bitzer agli estranei come il giovane in ascesa, così devoto ai grandi meriti del suo padrone, che aveva conquistato il posto di Tom junior e quasi catturato lo stesso Tom junior, nei tempi in cui era stato portato via da vari farabutti? Vide forse un pallido riflesso della sua immagine mentre redigeva una volontà vanagloriosa con la quale venticinque ciarlatani, oltre i cinquantacinque anni di età, assumendo ciascuno il nome [[Josiah Bounderby]] di Coketown, avrebbero dovuto cenare per sempre a Bounderby Hall, alloggiare per sempre negli edifici Bounderby, frequentare per sempre una cappella Bounderby, andare a [[Sleep|dormire]] per sempre sotto la guida di un cappellano Bounderby, essere sostenuti per sempre da un patrimonio Bounderby e nauseare per sempre tutti gli stomaci sani con una grande quantità di chiacchiere e fanfaronate bounderbiane? Aveva forse qualche presentimento del giorno, cinque anni dopo, in cui Josiah Bounderby di Coketown sarebbe morto per un attacco nel centro di Coketown, e questo stesso prezioso testamento avrebbe iniziato la sua lunga carriera di cavilli, saccheggi, false pretese, esempi ignobili, pochi servigi e molta legge? Probabilmente no. Eppure il ritratto doveva vedere tutto ciò.
+
+Ecco il signor Gradgrind nello stesso giorno e nella stessa ora, seduto pensieroso nella sua stanza.
+Quanto del futuro _lui_ vedeva? Si vide forse come un decrepito uomo dai capelli bianchi che piegava le sue fino ad allora inflessibili teorie alle circostanze; rendendo i suoi fatti e numeri sussidiari alla [[Faith|Fede]], alla [[Hope|Speranza]] e alla [[Charity|Carità]]; e non cercando più di macinare quel trio celeste nei suoi polverosi mulini? Si vide forse quindi disprezzato dai suoi ex colleghi politici? Li vide mentre, nell'epoca in cui era ormai stabilito che i netturbini nazionali avevano solo a che fare tra loro e non dovevano nulla ad un'astrazione chiamata Popolo, "rimproveravano l'onorevole gentiluomo" per questo e quello e chissà cos'altro cinque sere alla settimana fino alle prime ore del mattino? Probabilmente aveva questa premonizione, conoscendo i suoi uomini.
+
+* * * * *
+
+Ecco Louisa nella [[Night|notte]] dello stesso giorno, a guardare il [[Fire|fuoco]] come ai vecchi tempi,
+sebbene con un volto più gentile e umile. Quanto del futuro poteva sorgere davanti alla sua visione?
+Manifesti per le strade, firmati dal nome di suo padre, che scagionavano il defunto [[Stephen Blackpool]],
+tessitore, da un sospetto infondato e pubblicavano la [[Guilt|colpa]] del proprio figlio,
+con tutte le attenuanti che potevano essere invocate in base alla sua età e alle sue [[Temptation|tentazioni]]
+(non riusciva a portarsi ad aggiungere, la sua [[Education|educazione]]); erano del Presente.
+Così, la lapide di [[Stephen Blackpool]], con il resoconto della sua [[Death|morte]] scritto da suo padre,
+era quasi del Presente, perché sapeva che sarebbe stata. Queste cose poteva vedere chiaramente.
+Ma quanto del Futuro?
+
+Una donna lavoratrice, battezzata Rachael, dopo una lunga malattia riapparve al suono della campana della fabbrica e si mise ad andare avanti e indietro alle ore stabilite tra le mani di Coketown; una donna dalla [[Beauty|bellezza]] pensierosa, sempre vestita di nero, ma dal carattere dolce e sereno, anzi persino allegra; che, di tutte le persone del posto, [[Alone|sola]] sembrava avere compassione per un'infima ubriacona della sua stessa sesso, a volte vista in città chiedere segretamente l'elemosina e piangendo; una donna che lavora, sempre lavora, ma è contenta di farlo e preferisce farlo come suo destino naturale, fino a quando non sarà troppo vecchia per lavorare ancora? Louisa vide questo? Una cosa del genere doveva accadere.
+
+Un fratello solitario, a migliaia di chilometri di distanza, scriveva su un foglio macchiato di [[Tears|lacrime]] che le sue parole si erano avverate troppo presto e che tutti i tesori del mondo sarebbero stati scambiati volentieri per uno sguardo al suo caro viso? Alla fine questo fratello si avvicinava a [[Home|casa]], con la [[Hope|speranza]] di vederla, ma veniva ritardato da una malattia; e poi una lettera, scritta in una mano sconosciuta, che diceva: "morì all'ospedale per la febbre un tale giorno, morendo pentito e con [[Love|amore]] per te: l'ultima parola fu il tuo nome"? Louisa vide queste cose? Erano destinate ad accadere.
+
+Era di nuovo una moglie, una madre, amorevolmente attenta ai suoi figli, sempre curiosa che avessero un'[[Childhood|infanzia]] della mente non meno di un'[[Childhood|infanzia]] del [[Body|corpo]], sapendo che era anche una cosa più bella e una proprietà, qualsiasi frammento accumulato è una benedizione e felicità per i più saggi?  Louisa lo vedeva?  Una tale cosa non sarebbe mai stata.
+
+Ma i felici bambini di Sissy erano felici e la amavano; tutti i bambini l'amavano;
+lei, divenuta esperta nelle cose infantili; pensando che nessuna [[Innocent|innocente]] e graziosa
+fantasia dovesse mai essere disprezzata; cercando con tutte le sue forze di conoscere i suoi più umili
+simili, e di abbellire la loro vita fatta di macchinari e realtà
+con quelle grazie e delizie immaginative senza cui il cuore
+dell'infanzia appassirà, l'uomo fisicamente più robusto sarà moralmente una [[Death|morte]] inanimata,
+e le cifre più semplici della prosperità nazionale saranno
+la Scritta sulla Parete,—lei seguiva questo percorso non come parte di un voto fantastico,
+o vincolo, o fratellanza, o sorellanza, o impegno, o patto, o costume fantasioso, o fiera delle fantasie;
+ma semplicemente come un dovere da compiere,—Louisa vedeva queste cose da sola?  Queste cose dovevano accadere.
+
+Caro lettore! Dipende da te e me se nelle nostre due sfere d'azione cose simili saranno o no. Che siano! Ci sedremo con cuori più leggeri presso il focolare, a vedere le ceneri dei nostri fuochi diventare grigie e fredde.
+
+
+
+Note a piè di pagina
+
+{0} «Pezzi ristampati» è stato pubblicato come testo elettronico separato dal Progetto Gutenberg e non è incluso nel presente testo elettronico.

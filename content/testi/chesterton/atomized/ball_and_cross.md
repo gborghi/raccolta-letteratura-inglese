@@ -10149,6 +10149,81 @@ The [[Stars|stars]] were lost jewels of the [[Queen]].  Our Lady had gone and le
 the [[Stars|stars]] by accident.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+# II. LA RELIGIONE DEL GIUDICE DI PACE
+
+L'ufficio editoriale de "L'Ateo" era ormai da anni diventato sempre meno interessante come elemento distintivo di Ludgate [[Hill]]. Il giornale non si adattava all'atmosfera del posto. Mostrava un interesse per la [[Bible|Bibbia]] sconosciuto nella zona, e una conoscenza di quel volume a cui nessun altro su Ludgate [[Hill]] poteva rivendicare in modo vistoso. Era inutile che l'editore de "L'Ateo" riempisse la sua vetrina con richieste feroci e definitive su cosa avesse fatto Noè nell'Arca col collo della giraffa. Era inutile che chiedesse violentemente, come se fosse per l'ultima [[Time|volta]], come si potesse conciliare l'affermazione "Dio è Spirito" con quella "La terra è il Suo sgabello". Era inutile che gridasse con un'accusatoria energia che il Vescovo di [[London|Londra]] riceveva 12.000 sterline all'anno per fingere di credere che la balena avesse inghiottito Giona. Era inutile che appendesse in luoghi vistosi i calcoli scientifici più emozionanti sulla larghezza della gola di una balena. Non significava nulla tutto ciò per chi passava? La sua improvvisa, splendida e veramente sincera indignazione non scuoteva mai nessuno dei tanti che si riversavano su Ludgate [[Hill]]? Mai. Il piccolo uomo che editava "L'Ateo" usciva dal suo negozio nelle sere stellate e agitava il pugno contro San Paolo nella passione della sua santa guerra contro il luogo sacro. Avrebbe potuto risparmiarsi l'emozione. La [[Cross|croce]] in cima a San Paolo e il negozio de "L'Ateo" ai suoi piedi erano ugualmente distanti dal mondo. Il negozio e la [[Cross|Croce]] erano allo stesso modo innalzati e [[Alone|solitari]] nei cieli vuoti.
+
+Al piccolo uomo che editava _The Atheist_, un focoso scozzese di piccola statura,
+con capelli e barba rossi infuocati, chiamato Turnbull,
+tutto questo declino nell'importanza pubblica non sembrava tanto
+triste o addirittura pazzo, ma semplicemente sconcertante e inspiegabile.
+Aveva detto la cosa peggiore che si potesse dire; e sembrava accettata
+e ignorata come il solito secondo meglio dei politici.
+Ogni giorno le sue bestemmie apparivano più stridenti, e ogni giorno lo [[Dust|polvere]]
+si accumulava sempre di più su di esse.  Lo faceva sentire come se si muovesse in un
+mondo di idioti.  Sembrava tra una razza di uomini che sorridevano quando veniva loro detto
+della propria [[Death|morte]], o guardavano vacuamente il Giorno del Giudizio.
+Anno dopo anno passò, e anno dopo anno la [[Death|morte]] di Dio
+in un negozio a Ludgate divenne un evento sempre meno importante.
+Tutti gli uomini progressisti della sua epoca scoraggiavano Turnbull.
+I socialisti dicevano che stava maledicendo i preti quando avrebbe dovuto
+maledire i capitalisti.  Gli artisti dicevano che l'[[Soul|anima]] era più spirituale,
+non quando liberata dalla religione, ma quando liberata dall'[[morality|moralità]].
+Anno dopo anno passò, e almeno un uomo si presentò che trattava
+il negozio laico del signor Turnbull con un vero rispetto e serietà.
+Era un giovane in un plaid grigio, e fracassò l'[[Window|vetro]].
+
+Era un giovane nato nella Baia di Arisaig, di fronte a Rum e all'Isola di Skye.
+I suoi lineamenti alti e falconiformi e i capelli neri serpiginosi portavano
+il segno di quella cosa storica sconosciuta che viene chiamata in modo grossolano celtica,
+ma che probabilmente è molto più antica dei Celti, chiunque essi fossero.
+Era per nome e stirpe un Highlander dei Macdonald;
+ma la sua famiglia prese, come era comune in tali casi, il nome
+di una sottosezione subordinata come cognome, e per tutti gli scopi
+che potevano essere soddisfatti a [[London|Londra]], si chiamava [[Evan MacIan]].
+Era stato allevato in un certo [[Loneliness|isolamento]] e segregazione
+come rigoroso cattolico romano, nel mezzo di quel piccolo gruppo
+di cattolici romani che è inserito nelle Highlands occidentali.
+E aveva trovato la strada fino a Fleet Street, cercando un impiego
+mezzo promesso, senza aver realizzato adeguatamente che
+nel mondo ci fossero persone che non erano cattoliche romane.
+Si era tolto il cappello per qualche momento davanti alla statua
+della [[Queen|Regina]] Anna, di fronte alla [[Cathedral|Cattedrale]] di San Paolo, con la ferma
+impressione che fosse una figura della [[Virgin Mary|Vergine Maria]].  Era un po'
+sorpreso dalla mancanza di deferenza mostrata verso la figura dalle persone
+che passavano di corsa.  Non capiva che il loro unico principio storico essenziale,
+l'unica legge veramente incisa nei loro cuori,
+era la grande e confortante affermazione che la [[Queen|Regina]] Anna è morta.
+Questa [[Faith|fede]] era tanto fondamentale quanto la sua [[Faith|fede]], che Nostra Signora fosse viva.
+Chiunque avesse parlato da quando aveva toccato il margine della nostra
+moda o civiltà era stato, per una coincidenza, simpatico
+o ipocrita.  O se avevano pronunciato qualche blasfemia consolidata,
+non era riuscito a capirli semplicemente a causa della soddisfazione preoccupata
+della sua mente.
+
+Su quel fantastico lembo di terra gaelica dove camminava da ragazzo, le scogliere erano fantastiche quanto le nuvole.
+Il cielo sembrava umiliarsi e avvicinarsi alla terra.
+I comuni sentieri del suo piccolo villaggio iniziarono a salire piuttosto
+improvvisamente e sembravano risoluti ad andare al cielo.  Il cielo sembrava
+cadere verso le colline; le colline si aggrappavano al cielo.
+Nel sontuoso tramonto d'oro, porpora e verde pavone,
+nuvolette ed isolotti erano la stessa cosa.  Evan viveva come un uomo che cammina
+su una terra di confine, il confine tra questo mondo e un altro.
+Come tanti uomini e nazioni cresciuti con [[Nature|natura]] e le cose comuni,
+capiva il [[Supernatural|soprannaturale]] prima di capire il naturale.
+Aveva guardato angeli indistinti che stavano immersi fino al ginocchio nell'erba
+prima di aver guardato l'erba.  Sapeva che le vesti della Madonna
+erano blu prima di sapere che i fiori selvatici intorno ai suoi piedi erano rossi.
+Più in profondità la sua [[Memory|memoria]] si tuffava nella buia [[house|casa]] dell'[[Childhood|infanzia]]
+più vicino e più vicino si avvicinava alle cose che non possono essere nominate.
+Per tutta la vita pensò al mondo diurno come a una sorta
+di detriti divini, il resto spezzato della sua prima visione.
+I cieli e le [[Mountains|montagne]] erano gli splendidi scarti di un altro luogo.
+Le [[Stars|stelle]] erano gioielli perduti della [[Queen|Regina]].  La Madonna se n'era andata lasciando
+le [[Stars|stelle]] per caso.
+
 
 
 <span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_02" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 2)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,archetype/king,motif/city,motif/cross,motif/dawn,motif/summer,motif/well,motif/window,motif/winter,setting/london,character/evan_macian,character/nurse,character/queen"></span>
@@ -22161,7 +22236,7 @@ disse l'uomo in bianco, con un lieve sorriso.
 
 "La disciplina non è importante quanto la giustizia", disse MacIan.
 
-L'altro non rispose.
+L’altro non rispose.
 
 Poi, dopo uno svelto [[Silence|silenzio]] che li portò fuori attraverso St. James's Park,
 egli disse:  "Il popolo dev'essere educato a obbedire; deve imparare la propria
@@ -22888,7 +22963,7 @@ L'uomo si riadagiò nel suo atteggiamento riposato, e disse:
 
 «È l'ultima guerra, perché se non guarisce il mondo per sempre, lo distruggerà.»
 
-«Che cosa intendete?»
+«Cosa volete dire?»
 
 «Intendo soltanto ciò che intendete voi» rispose lo sconosciuto con voce
 temperata.  «Che cosa intendevate sempre in quel milione e una notte in cui
@@ -25688,7 +25763,7 @@ e ora il suo volto avvampò in una delle sue rare rivelazioni di vita.
 "No, mio buon ateo," gridò; "no, mio pulito, cortese, riverente,
 pio vecchio bestemmiatore. No, non stai sognando--ti stai destando."
 
-«Che cosa intendete?»
+«Cosa volete dire?»
 
 "Ci sono due stati in cui si incontrano tanti vecchi amici,"
 disse MacIan; "uno è [[A Dream|un sogno]], l'altro è la fine del mondo."

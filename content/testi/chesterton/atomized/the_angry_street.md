@@ -397,8 +397,7 @@ e un mormorio con la loro conversazione.
 
 Ma il volto dell'uomo era il volto di un maniaco.
 
-«Intendevate qualcosa in particolare con quell'osservazione?» chiese infine,
-e il [[Blood|sangue]] rifluì lentamente nel suo volto.
+«Intendevate qualcosa di particolare con quell'osservazione?» chiese infine, e il [[Blood|sangue]] rifluì lentamente nel suo volto.
 
 «Nulla di che,» risposi.  «Qui non si intende nulla;
 rovina la digestione della gente.»
@@ -577,8 +576,7 @@ posseduta dai demoni."
 
 «Dopo un lungo [[Silence|silenzio]] disse: "Cosa dici che sia?"
 
-«"È Bumpton Street, naturalmente," ribattei di scatto.  "Porta
-alla Oldgate Station."
+«"È Bumpton Street, naturalmente," sbottai. "Va alla stazione di Oldgate."
 
 «"Sì," ammise gravemente, "ci porta a volte.
 Proprio ora, però, sta andando in cielo."
@@ -611,7 +609,7 @@ Ma in un momento la mia [[Sanity|ragione]] tornò, e dissi: "Ma questo
 è tutto un nonsenso.  Le strade vanno nel luogo dove devono andare.
 Una strada deve sempre andare alla sua meta."
 
-«"Perché lo pensi di una strada?" chiese, stando immobilissimo.
+«"Perché la pensi così di una strada?" chiese, standosene immobilissimo.
 
 «"Perché l'ho sempre vista fare la stessa cosa," risposi,
 con ragionevole ira.  "Giorno dopo giorno, anno dopo anno, è sempre

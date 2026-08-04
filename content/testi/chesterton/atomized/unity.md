@@ -53,7 +53,7 @@ of the [[Nancy]] Bell" by Gilbert.]
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'[[unity|UNITÀ]] SUPERIORE  
+LA PIÙ ALTA [[unity|UNITÀ]]  
 
 Il Rev. Isaiah Bunter è scomparso nell'interno delle Isole Salomone, e si teme che possa essere stato divorato dagli indigeni, giacché vi è stato un notevole risveglio di usanze religiose tra i Polinesiani.--Un vero trafiletto tratto da un vero Giornale; solo i nomi sono mutati.  
 
@@ -130,7 +130,7 @@ of the [[Nancy]] Bell" by Gilbert.]
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'[[unity|UNITÀ]] SUPERIORE  
+LA PIÙ ALTA [[unity|UNITÀ]]  
 
 Il Rev. Isaiah Bunter è scomparso nell'interno delle Isole Salomone, e si teme che possa essere stato divorato dagli indigeni, giacché vi è stato un notevole risveglio di usanze religiose tra i Polinesiani.--Un vero trafiletto tratto da un vero Giornale; solo i nomi sono mutati.  
 
