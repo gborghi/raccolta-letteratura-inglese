@@ -3,7 +3,7 @@ configuration:
   pageTitle: English Literature — A Knowledge Graph
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: goatcounter
     websiteId: gborghi83

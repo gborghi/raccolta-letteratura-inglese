@@ -75,7 +75,7 @@ try {
     #    change every build, so they must NOT be immutable (a returning browser would keep a stale
     #    bundle for a week). Revalidate js/css; keep truly static fonts/images immutable.
     Write-Host "==> Writing Cloudflare _headers" -ForegroundColor Cyan
-    $revalidateExts = "js","css"
+    $revalidateExts = "js","css","json"
     $immutableExts  = "woff2","svg","png","jpg","jpeg","webp","avif"
     $headerLines = @()
     foreach ($e in $revalidateExts) { $headerLines += "/*.$e"; $headerLines += "  Cache-Control: public, max-age=0, must-revalidate" }

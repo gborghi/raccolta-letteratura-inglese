@@ -74,7 +74,7 @@ node scripts/gen-tags-table.mjs public
 #    must revalidate. Truly-static fonts/images stay immutable.
 echo "==> Writing Cloudflare _headers"
 : > "$pub/_headers"
-for e in js css; do
+for e in js css json; do
   printf '/*.%s\n  Cache-Control: public, max-age=0, must-revalidate\n' "$e" >> "$pub/_headers"
 done
 for e in woff2 svg png jpg jpeg webp avif; do
