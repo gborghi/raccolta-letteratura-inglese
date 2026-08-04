@@ -1,0 +1,21 @@
+=== RESCUE A_DUET 19:44 ===
+19:44:36 ### rescue rejected atoms | found 1 still-missing
+19:44:36   atom Authors/Conan_Doyle/Atomized/A_DUET/Chapter_15_TROUBLE.md  (was: leftover mask token(s): 1 (e.g. [[L02..))
+20:10:47     -> FIXED via Opus-5
+20:10:47 ### done | fixed 1 | UNRESOLVED 0
+=== RESCUE A_STUDY_IN_SCARLET 20:10 ===
+20:10:47 ### rescue rejected atoms | found 1 still-missing
+20:10:47   atom Authors/Conan_Doyle/Atomized/A_STUDY_IN_SCARLET/Chapter_07_LIGHT_IN_THE_DARKNESS.md  (was: leftover mask token(s): 1 (e.g. [[L03..))
+20:28:20     -> FIXED via Opus-5
+20:28:20 ### done | fixed 1 | UNRESOLVED 0
+=== RESCUE RODNEY_STONE 20:28 ===
+20:28:20 ### rescue rejected atoms | found 1 still-missing
+20:28:20   atom Authors/Conan_Doyle/Atomized/RODNEY_STONE/Chapter_12_THE_FIGHT_IN_THE_COACH_HOUSE.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:54:33     -> FIXED via Opus-5
+20:54:33 ### done | fixed 1 | UNRESOLVED 0
+=== RESCUE THE_ADVENTURES_OF_GERARD 20:54 ===
+20:54:33 ### rescue rejected atoms | found 1 still-missing
+20:54:33   atom Authors/Conan_Doyle/Atomized/THE_ADVENTURES_OF_GERARD/Story_07_How_the_Brigadier_Bore_Himself_at_Waterl.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+21:22:51     -> FIXED via HY retry #1
+21:22:51 ### done | fixed 1 | UNRESOLVED 0
+=== RESCUE FINITO 21:22 ===

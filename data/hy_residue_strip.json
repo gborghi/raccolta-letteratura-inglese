@@ -1,0 +1,18 @@
+{
+ "summary": {
+  "files_with_codes": 1,
+  "files_written": 1,
+  "files_refused": 0,
+  "closed_artifacts_delinked": 2,
+  "open_codes_removed": 0,
+  "applied": true
+ },
+ "files": [
+  {
+   "it": "Authors\\Dickens\\Atomized\\Sketches_by_Boz\\Story_02_Our_Parish\\part_01.it.md",
+   "status": "OK",
+   "closed_kept": 2,
+   "open_dropped": 0
+  }
+ ]
+}

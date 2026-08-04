@@ -1,0 +1,120 @@
+#!/usr/bin/env bash
+# Self-standing Dickens catalogue runner (Tower 72B) -- translates the remaining Dickens works
+# ONE BOOK AT A TIME, in a fixed order, unattended. Same hardening as run_great_expectations.sh:
+# survives SSH disconnect + Claude exit (nohup + disown), keeps the Mac awake (caffeinate),
+# self-heals the model (reloads Tower 72B lean if LM Studio dropped it), fully resumable
+# (dickens_tower.py skips atoms with an existing .it.md and caches every block; a finished book is
+# skipped instantly). Translation ONLY -- no preprocess, no build, no deploy, no commit.
+#
+# Order rationale: A Christmas Carol first (small + iconic) de-risks the fresh-book machinery in
+# ~20 min; then the major novels; then the remaining Christmas books, minor novels and non-fiction.
+# Great_Expectations and Oliver_Twist are already complete and intentionally absent.
+#
+# Per Tower FAIL/REJECT: the atom is simply left without an .it.md (the run moves on). Those
+# residuals are mopped up SEPARATELY and interactively -- Opus with masking/unmasking of any
+# guard-triggering terms -- exactly as was done for Great Expectations. This script never blocks on
+# them.
+#
+# Launch:  nohup bash run_dickens_all.sh </dev/null >/dev/null 2>&1 & disown
+# Watch:   tail -f run_logs/dickens_all.log
+# Done:    run_logs/dickens_all.DONE appears (whole catalogue swept once)
+set -u
+cd "$(dirname "$0")"
+export PATH="$HOME/.lmstudio/bin:$PATH"
+
+RUNDIR="run_logs"
+mkdir -p "$RUNDIR"
+LOG="$RUNDIR/dickens_all.log"
+DONE="$RUNDIR/dickens_all.DONE"
+PIDFILE="$RUNDIR/dickens_all.pid"
+rm -f "$DONE"
+echo $$ > "$PIDFILE"
+
+log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" >> "$LOG"; }
+
+# Fixed translation order (my chosen starting point = A_Christmas_Carol).
+WORKS=(
+  A_Christmas_Carol
+  A_Tale_of_Two_Cities
+  Hard_Times
+  The_Chimes
+  The_Cricket_on_the_Hearth
+  The_Battle_of_Life
+  The_Haunted_Man_and_the_Ghosts_Bargain
+  The_Old_Curiosity_Shop
+  Nicholas_Nickleby
+  David_Copperfield
+  Bleak_House
+  Little_Dorrit
+  Dombey_and_Son
+  Our_Mutual_Friend
+  Martin_Chuzzlewit
+  Barnaby_Rudge
+  The_Pickwick_Papers
+  The_Mystery_of_Edwin_Drood
+  Sketches_by_Boz
+  American_Notes
+  A_Childs_History_of_England
+)
+
+log "=== catalogue launcher start (pid $$) -- ${#WORKS[@]} works queued ==="
+
+# Ensure the LM Studio server is up and Tower 72B is loaded lean, ONCE up front.
+lms server start >>"$LOG" 2>&1 || true
+if ! lms ps 2>/dev/null | grep -q "tower-plus-72b"; then
+  log "model not resident -> loading Tower 72B lean"
+  lms load tower-plus-72b --context-length 8192 --parallel 1 --gpu max \
+      --identifier tower-plus-72b -y >>"$LOG" 2>&1
+fi
+
+# One caffeinate wraps the WHOLE catalogue sweep (prevents idle + system sleep for its lifetime).
+/usr/bin/caffeinate -i -s bash -c '
+  set -u
+  for W in '"${WORKS[*]}"'; do
+    V="../../../VaultEnglish/Authors/Dickens/Atomized/$W"
+    tsv="$(echo "$W" | tr "[:upper:]" "[:lower:]")_atoms.tsv"
+    # Skip a book already fully translated (every TSV atom has an .it.md sibling).
+    total=$(tail -n +2 "$tsv" | grep -c .)
+    have=0
+    while IFS= read -r p; do
+      [ -z "$p" ] && continue
+      [ -f "../../../VaultEnglish/${p%.md}.it.md" ] && have=$((have+1))
+    done < <(tail -n +2 "$tsv")
+    if [ "$have" -ge "$total" ]; then
+      echo "[$(date "+%F %T")] === SKIP $W (already $have/$total) ===" >> "'"$LOG"'"
+      continue
+    fi
+    echo "[$(date "+%F %T")] === BOOK START $W ($have/$total done) ===" >> "'"$LOG"'"
+    # Self-heal the model between books in case LM Studio dropped it.
+    if ! lms ps 2>/dev/null | grep -q "tower-plus-72b"; then
+      lms load tower-plus-72b --context-length 8192 --parallel 1 --gpu max \
+          --identifier tower-plus-72b -y >> "'"$LOG"'" 2>&1
+    fi
+    DICKENS_WORK="$W" python3 run_dickens_book.py >> "'"$LOG"'" 2>&1
+    rc=$?
+    now_have=0
+    while IFS= read -r p; do
+      [ -z "$p" ] && continue
+      [ -f "../../../VaultEnglish/${p%.md}.it.md" ] && now_have=$((now_have+1))
+    done < <(tail -n +2 "$tsv")
+    echo "[$(date "+%F %T")] === BOOK END $W (exit $rc, now $now_have/$total) ===" >> "'"$LOG"'"
+  done
+'
+
+log "=== catalogue sweep finished ==="
+
+# Completion marker: per-work tally of atoms translated.
+{
+  echo "finished=$(date '+%Y-%m-%d %H:%M:%S')"
+  for W in "${WORKS[@]}"; do
+    tsv="$(echo "$W" | tr '[:upper:]' '[:lower:]')_atoms.tsv"
+    total=$(tail -n +2 "$tsv" | grep -c .)
+    have=0
+    while IFS= read -r p; do
+      [ -z "$p" ] && continue
+      [ -f "../../../VaultEnglish/${p%.md}.it.md" ] && have=$((have+1))
+    done < <(tail -n +2 "$tsv")
+    echo "$W=$have/$total"
+  done
+} > "$DONE"
+log "=== catalogue launcher done -> $DONE written ==="

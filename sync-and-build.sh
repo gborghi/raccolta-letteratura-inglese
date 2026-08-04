@@ -74,6 +74,8 @@ node scripts/gen-tags-table.mjs public
 #    must revalidate. Truly-static fonts/images stay immutable.
 echo "==> Writing Cloudflare _headers"
 : > "$pub/_headers"
+# json = search index (contentIndex.json/index.json): stable name, changes every build -> must
+# revalidate, else a browser keeps a stale index (e.g. dead Dropbox-conflict-copy hits in search).
 for e in js css json; do
   printf '/*.%s\n  Cache-Control: public, max-age=0, must-revalidate\n' "$e" >> "$pub/_headers"
 done

@@ -1,0 +1,42 @@
+07:51:24 ### rescue rejected atoms | found 425 still-missing
+07:51:24   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_01_THE_PSYCHIC_QUEST.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:52:01     -> FIXED via HY retry #1
+07:52:01   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_03_UNDER_THE_JESUITS.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:52:34     -> FIXED via HY retry #1
+07:52:34   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_05_WHALING_IN_THE_ARCTIC_OCEAN.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:53:11     -> FIXED via HY retry #1
+07:53:11   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_06_THE_VOYAGE_TO_WEST_AFRICA.md  (was: tower failed after 3 tries: <HTTPError 400: 'Bad Request'>)
+07:53:45     -> FIXED via HY retry #1
+07:53:45   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_08_MY_START_AT_SOUTHSEA.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:54:13     -> FIXED via HY retry #1
+07:54:13   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_10_PULLING_UP_THE_ANCHOR.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:54:46     -> FIXED via HY retry #1
+07:54:46   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_12_SIDELIGHTS_ON_SHERLOCK_HOLMES.md  (was: tower failed after 3 tries: <HTTPError 400: 'Bad Request'>)
+07:55:25     -> FIXED via HY retry #1
+07:55:25   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_21_MY_POLITICAL_ADVENTURES.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:55:56     -> FIXED via HY retry #1
+07:55:56   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_22_THE_YEARS_BETWEEN_THE_WARS.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:56:36     -> FIXED via HY retry #1
+07:56:36   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_24_SOME_NOTABLE_PEOPLE.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:57:16     -> FIXED via HY retry #1
+07:57:16   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_25_SOME_RECOLLECTIONS_OF_SPORT.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:58:09     -> FIXED via HY retry #1
+07:58:09   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_27_THE_EVE_OF_WAR.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:59:01     -> FIXED via HY retry #1
+07:59:01   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_29_EXPERIENCES_ON_THE_BRITISH_FRO.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:59:47     -> FIXED via HY retry #1
+07:59:47   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_31_EXPERIENCES_ON_THE_FRENCH_FRON.md  (was: tower failed after 3 tries: <HTTPError 400: 'Bad Request'>)
+08:00:34     -> FIXED via HY retry #1
+08:00:34   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_32_BREAKING_THE_HINDENBURG_LINE.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+08:01:16     -> FIXED via HY retry #1
+08:01:16   atom Authors/Conan_Doyle/Atomized/MICAH_CLARKE/Chapter_02_Of_my_going_to_school_and_of_m.md  (was: tower failed after 3 tries: <HTTPError 400: 'Bad Request'>)
+08:01:50     -> FIXED via HY retry #1
+08:01:50   atom Authors/Conan_Doyle/Atomized/MICAH_CLARKE/Chapter_03_Of_Two_Friends_of_my_Youth.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+08:02:00     -> FIXED via HY retry #1
+08:02:00   atom Authors/Conan_Doyle/Atomized/MICAH_CLARKE/Chapter_05_Of_the_Man_with_the_Drooping_L.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+08:02:32     -> FIXED via HY retry #1
+08:02:32   atom Authors/Conan_Doyle/Atomized/MICAH_CLARKE/Chapter_06_Of_the_Letter_that_came_from_t.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+08:03:10     -> FIXED via HY retry #1
+08:03:10   atom Authors/Conan_Doyle/Atomized/MICAH_CLARKE/Chapter_07_Of_the_Horseman_who_rode_from.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+08:03:33     -> FIXED via HY retry #1
+08:03:33   atom Authors/Conan_Doyle/Atomized/MICAH_CLARKE/Chapter_08_Of_our_Start_for_the_Wars.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)

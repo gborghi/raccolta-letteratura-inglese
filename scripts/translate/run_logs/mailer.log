@@ -1,0 +1,3 @@
+08:24:53 ### atom mail tailer | glob=/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/run_logs/authors_hy.log to=gio.borghi@gmail.com every=1
+09:15:00 ### atom mail tailer | glob=/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/run_logs/authors_hy.log to=gio.borghi@gmail.com every=1
+14:14:27 mail FAILED for Authors/Conan_Doyle/Atomized/SIR_NIGEL/Story_01_INTRODUCTION.md: The read operation timed out

@@ -1,0 +1,17 @@
+pending atoms: 11 / 11 in TSV
+cache warm with 885 blocks
+work: 123 prose blocks across 11 atoms
+[1/11] ok Authors/Chesterton/Atomized/Sanity/Story_17_A_SUMMARY/part_03.md | blocks 5/123 | 7m elapsed, ~2.9h left
+[2/11] ok Authors/Chesterton/Atomized/success/part/part_01.md | blocks 13/123 | 15m elapsed, ~2.1h left
+[3/11] ok Authors/Chesterton/Atomized/success/part/part_02.md | blocks 21/123 | 21m elapsed, ~1.7h left
+[4/11] REJECT Authors/Chesterton/Atomized/The_Flying_Inn/Chapter_12_VEGETARIANISM_IN_THE_FOREST/part_02.md: block count 55 EN vs 54 IT (emitter would skip page)
+[5/11] ok Authors/Chesterton/Atomized/The_Thing/Story_29_THE_OUTLINE_OF_THE_FALL.md | blocks 28/123 | 62m elapsed, ~3.5h left | 4 links need repair
+[6/11] ok Authors/Chesterton/Atomized/meaning_of_the_crusade/part/part_04.md | blocks 32/123 | 69m elapsed, ~3.3h left
+[7/11] ok Authors/Chesterton/Atomized/meaning_of_the_crusade/part/part_07.md | blocks 35/123 | 75m elapsed, ~3.1h left
+[8/11] ok Authors/Chesterton/Atomized/meaning_of_the_crusade/part/part_06.md | blocks 39/123 | 100m elapsed, ~3.6h left | 10 links need repair
+[9/11] ok Authors/Chesterton/Atomized/The_Speaker/part/part_05.md | blocks 47/123 | 115m elapsed, ~3.1h left | 2 links need repair
+[10/11] ok Authors/Chesterton/Atomized/The_Speaker/part/part_31.md | blocks 57/123 | 125m elapsed, ~2.4h left
+[11/11] ok Authors/Chesterton/Atomized/The_Speaker/part/part_21.md | blocks 68/123 | 136m elapsed, ~1.8h left | 3 links need repair
+
+done: 10 written, 1 failed/rejected, cache 1005 blocks
+link-repair queue: 139 blocks -> data/gkc_tower_linkfix.jsonl

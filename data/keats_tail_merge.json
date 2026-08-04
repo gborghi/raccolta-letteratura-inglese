@@ -1,0 +1,67 @@
+{
+  "_comment": "Keats 44 source clusters -> 13 final thematic collections. Same label vocabulary as Dickinson (the graph already carries `cluster:` on every *(Keats).md work-note), but Keats has 140 works against Dickinson's 1764, so Dickinson's >=10-members rule collapses to a single cluster and cannot be reused. Finals are chosen for >=7 members each. A label mapped to itself is a final.",
+
+  "_comment_long_works": "6 works are excluded from the clusters and keep their own reading page under Long/: Endymion, Hyperion, The_Fall_of_Hyperion, Lamia (already atomized there) plus Otho_the_Great (101 KB verse drama) and The_Cap_and_Bells (41 KB). Burying a narrative poem of that size inside a thematic collection page would swamp the lyrics it sits with.",
+
+  "_comment_stars": "The `Stars · Night · Military Camp` final was left with 6 members once its long works moved to Long/, one short of the >=7 target, so its night/sleep/dream poems are folded into the melancholy final -- To Sleep and Why did I laugh tonight belong there anyway.",
+
+  "_comment_greek_myth": "The `Greek Mythology · Lust Sexual Desire · Desire` source cluster had only 4 members and loses Lamia to Long/, so its 3 survivors (La Belle Dame Sans Merci, Fragment of an Ode to Maia, Sonnet to the Nile) are folded into the mythic-visionary final rather than standing alone.",
+
+  "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
+  "Rose · Desire · Value and Scarcity": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
+
+  "Joy · Animals · Comic Verse Song": "Joy · Animals · Comic Verse Song",
+  "Wine and Drink · Ballad Ballade · Road": "Joy · Animals · Comic Verse Song",
+  "Ottava Rima": "Joy · Animals · Comic Verse Song",
+
+  "Satire of Society · Epigram · Satire": "Satire of Society · Epigram · Satire",
+  "Artist and Society · Truth · Regency Georgian England": "Satire of Society · Epigram · Satire",
+  "Short Story · Concealment Hidden Identity · Justice Right and Wrong": "Satire of Society · Epigram · Satire",
+
+  "Imagination · Fragment · Heroic Couplet": "Imagination · Fragment · Heroic Couplet",
+  "Poet as Prophet · Prophet · Romantic Movement (Sensibility)": "Imagination · Fragment · Heroic Couplet",
+  "Sun · Light and Dark · Fire": "Imagination · Fragment · Heroic Couplet",
+
+  "Ode · Nature vs Civilization · Pastoral Retreat": "Ode · Nature vs Civilization · Pastoral Retreat",
+  "Nature · Book of Nature · Natural Order": "Ode · Nature vs Civilization · Pastoral Retreat",
+
+  "Friendship · Tears": "Friendship · Tears",
+  "Education · Self-Made Man · Wheel": "Friendship · Tears",
+
+  "Self-Knowledge · Immortality · Self-Reliance": "Self-Knowledge · Immortality · Self-Reliance",
+  "Maturation and Growth · Childhood · Innocence and Experience": "Self-Knowledge · Immortality · Self-Reliance",
+  "Christianity · Faith and Doubt · Doubt": "Self-Knowledge · Immortality · Self-Reliance",
+  "Faith · Providence · Divine Love": "Self-Knowledge · Immortality · Self-Reliance",
+
+  "Crown · Pride · Fortune's Wheel": "Crown · Pride · Fortune's Wheel",
+  "Court · Medieval England · History Play": "Crown · Pride · Fortune's Wheel",
+  "Heroism · Hero · Last Stand": "Crown · Pride · Fortune's Wheel",
+  "Swords and Weapons · Power and Corruption · Tyrant": "Crown · Pride · Fortune's Wheel",
+  "Blood · Verse Drama · Revenge": "Crown · Pride · Fortune's Wheel",
+
+  "Appearance vs Reality · Beauty · Eyes and Sight": "Appearance vs Reality · Beauty · Eyes and Sight",
+  "Guilt · Conscience · Fate and Free Will": "Appearance vs Reality · Beauty · Eyes and Sight",
+  "Bible · Sin and the Fall · Fall from Innocence": "Appearance vs Reality · Beauty · Eyes and Sight",
+
+  "Seasons · Winter · Autumn": "Seasons · Winter · Autumn",
+  "Transience · Decay · Carpe Diem": "Seasons · Winter · Autumn",
+  "Time · Tempus Fugit · Clock": "Seasons · Winter · Autumn",
+  "Memory and Time · Memory · Nostalgia": "Seasons · Winter · Autumn",
+  "Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt": "Seasons · Winter · Autumn",
+
+  "Greek Mythology · Lust Sexual Desire · Desire": "Imagination · Fragment · Heroic Couplet",
+
+  "Stars · Night · Military Camp": "Melancholy · Suffering · Pain and Suffering",
+  "Dreams · Moon": "Melancholy · Suffering · Pain and Suffering",
+  "Sleep · Sleeper Awakes · Resurrection": "Melancholy · Suffering · Pain and Suffering",
+  "Supernatural · Uncanny · Double": "Melancholy · Suffering · Pain and Suffering",
+
+  "Melancholy · Suffering · Pain and Suffering": "Melancholy · Suffering · Pain and Suffering",
+  "Grief and Loss · Elegy · Clothing and Costume": "Melancholy · Suffering · Pain and Suffering",
+  "Mortality · Grave · Memento Mori": "Melancholy · Suffering · Pain and Suffering",
+  "Alienation · Outsider · Exile": "Melancholy · Suffering · Pain and Suffering",
+
+  "Sea · Water": "Sea · Water",
+  "Birds · Music and Song · Nightingale": "Sea · Water",
+  "Wonder and Gratitude · Sublime · Storm": "Sea · Water"
+}

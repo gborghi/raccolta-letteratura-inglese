@@ -1,0 +1,31 @@
+# [[MrPond]] — Una Frottola (parte 21)
+
+matite vendute dalla maggior parte dei cartolai, con il rosso a un capo e il blu all'altro. «Ora supponete che io consumi la punta blu finché non è quasi sparita (e davvero i refusi che riescono a infilare in un semplice rapporto sul Bimetallismo del Belucistan sono incredibili), allora direste che la matita è relativamente rossa, benché forse ancora piuttosto blu. Se il capo rosso fosse consumato, direste che è per lo più blu, benché un po' rossa.»
+
+«Non direi nulla del genere», esclamò Gahagan con brusca impazienza. «Direi ciò che ho detto prima; che la cosa strana in voi è che siete del tutto cieco a ciò che c'era davvero di folle nella vostra affermazione. Non riuscite a vedere il [[Paradox|paradosso]] nella vostra stessa osservazione. Non riuscite a vedere il punto della vostra stessa osservazione.»
+
+«Il punto della mia osservazione», disse il signor Pond, con dignità, «che credevo di aver reso sufficientemente chiaro, era che la gente è assai imprecisa nel riferire le affermazioni, come nei casi di un cammello e di "qualcosa come un cammello".»
+
+Peter Gahagan continuò a fissare l'amico con occhi tondi, come un bufalo in una fase assai ruminante; e alla fine si issò in piedi, raccogliendo il suo cilindro grigio e il bastone da passeggio con una specie di fracasso.
+
+«No», disse, «non indicherò il punto. Sarebbe come infrangere un cristallo o mandare in frantumi una bolla di sapone perfettamente rotonda. Trafiggere la pura e sferica perfezione della vostra maniacale calma sarebbe come violare l'[[innocence|innocenza]] di un [[Child|bambino]]. Se davvero e sinceramente non sapete quando dite sciocchezze, se non vi accorgete nemmeno di quale parte sia sciocchezza, sento di dover lasciare intatto il vostro intelletto insensato. Andrò a parlarne con Wotton. Come ha spesso allegramente osservato, in lui non c'è nulla di insensato.»
+
+E uscì con passo indolente dalla stanza, dondolando il bastone, in direzione dell'importantissimo dipartimento presieduto da Sir [[Hubert]] Wotton; per potersi godere l'edificante spettacolo di un altro amico intento al proprio lavoro quotidiano e interrotto da un ozioso.
+
+Sir [[Hubert]] Wotton, però, era di un tipo alquanto diverso dal signor Pond; in quanto, anche se era indaffarato, non era mai agitato. Il signor Pond era chino sulla punta librata della sua matita blu; Sir [[Hubert]] era dapprima visibile dietro il capo rosso di un sigaro, che stava fumando, con un cipiglio di riflessione, mentre voltava le carte sulla scrivania. Riconobbe l'ingresso del raggiante Capitano con un sorriso arcigno ma non sgarbato, e gli accennò di sedersi.
+
+Gahagan si sedette con le mani incrociate sul bastone e lo batté sul pavimento.
+
+«Wotton», disse, «ho risolto il problema dei Paradossi di Pond. Lui non sa quando ha detto queste cose folli. C'è un punto cieco sul suo eccellente cervello, o una nuvola gli passa sulla mente per un istante; e dimentica di aver perfino detto qualcosa di peculiare. Continua a discutere sulla parte ragionevole del suo discorso; non si ferma mai a spiegare l'unica cosa che era davvero irragionevole. Mi ha parlato con tutta sensatezza di una matita che era rosso vivo, o qualcosa del genere, e che perciò segnava assai nero sulla carta. Ho cercato di inchiodarlo a quella incongruenza; e mi è sfuggito completamente. Ha continuato a parlare di quando una matita blu non era una matita blu; ma in qualche modo ha dimenticato del tutto i segni neri.»
+
+«Segni neri!», disse Wotton; e si drizzò a sedere così bruscamente da rovesciare la cenere del sigaro sul suo panciotto solitamente immacolato. Spolverò via la profanazione con un cipiglio; e poi, dopo una pausa, parlò in quel modo staccato che di tanto in tanto rivelava quanto fosse assai meno convenzionale di come appariva.
+
+«La maggior parte di quelli che dicono paradossi cerca solo di mettersi in mostra. Con Pond non è così; lo fa perché cerca di NON mettersi in mostra. Vedi... ha l'aria di un ometto molto sedentario, scientifico, come se non fosse mai stato sganciato da una scrivania o da una macchina per scrivere; ma ha davvero avuto esperienze straordinarie. Non ne parla; non vuole parlarne; ma vuole sì parlare di ragione e di [[philosophy|filosofia]] e di cose teoriche nei libri; sai che ama leggere tutta la razionale letteratura del Settecento. Ma quando, nel corso di un discorso astratto, incappa in qualcosa di concreto che ha effettivamente FATTO... [[Well|beh]], posso solo dire che lo appallottola. Cerca di comprimerlo in un piccolo spazio e semplicemente suona contraddittorio. Quasi ognuna di quelle frasi folli sta semplicemente per una delle avventure di quella che la maggior parte della gente chiamerebbe una vita assai poco avventurosa.»
+
+«Credo di capire che cosa intendi», disse Gahagan, dopo una pausa di raggiante riflessione. «Sì, hai ragione. Non aspettarti che io mi lasci abbindolare, bada bene, dalla maggior parte della vostra spavalderia di stoicismo dell'uomo formato nelle public school inglesi. Metà delle [[Time|volte]] non fanno che mettersi in mostra col non mettersi in mostra. Ma in Pond è genuino. Detesta davvero le luci della ribalta; in tal senso puoi dire che era fatto per i Servizi Segreti. E intendi che egli si fa misterioso, in questa particolare maniera, soltanto quando vuole davvero mantenere il segreto sui suoi servizi. In altre parole, intendi che c'è una storia dietro ogni [[Paradox|paradosso]] di Pond. Certamente è vero... in tutti quei casi in cui mi è stata raccontata la storia.»
+
+«So tutto di questa storia», disse Wotton, «ed è stata una delle cose più notevoli che Pond abbia mai fatto. Fu una faccenda d'immensa importanza... il tipo di affare pubblico che va tenuto affare privatissimo. Pond diede due consigli, che alcuni giudicarono assai strani e che si rivelarono esattamente giusti; e finì col fare una scoperta piuttosto straordinaria. Non so come sia venuto a menzionarla or ora; ma sono quasi certo che sia stato per caso. Quando saltò fuori, cercò di ricacciarla via in fretta e di cambiare argomento. Ma di certo salvò l'Inghilterra; e per giunta per poco non ci rimise la pelle.»
+
+«Cosa!», esclamò Gahagan con una certa sorpresa.
+
+«Quel tale dev'essergli sparato addosso cinque volte», disse Wotton

@@ -267,6 +267,11 @@ plugins:
     enabled: true
     options:
       links:
+        # The AI disclosure lives in the link text itself: the footer plugin renders
+        # only a fixed "Created with Quartz" line plus these links, so this is the
+        # only way to state it on every page without forking the plugin. The target
+        # page (emitted by preprocess.mjs) spells out what is generated and what isn't.
+        "Frontend e traduzioni dall'inglese realizzati con l'intelligenza artificiale": /intelligenza-artificiale
         "❤ Sostieni il sito": /sostieni
         "Segnala un errore o dai un suggerimento": /feedback
         "Giovanni Borghi": https://independent.academia.edu/BorghiGiovanni

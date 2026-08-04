@@ -1,0 +1,37 @@
+Oliver si fermò un momento a riflettere, ma il tempo stringeva e non poteva permettersi di esitare. La sua coscienza lo tormentava, ma la speranza di una vita migliore era più forte della disperazione. Con il cuore in gola, si avviò lungo la strada buia, cercando di non pensare al sangue che aveva sulle mani e alla morte che lo attendeva se fosse stato catturato. Il silenzio della notte era rotto solo dal ticchettio dell'orologio, che sembrava contare i secondi che gli rimanevano da vivere. Oliver sapeva che la prigione lo aspettava, ma non poteva arrendersi. Doveva trovare un modo per sfuggire al suo destino e alla solitudine che lo opprimeva. La sua anima era in pena, ma la misericordia di Dio gli diede la forza di andare avanti.
+
+[[Oliver Twist]] - Capitolo 52 (parte 2)
+
+Qui lo perquisirono, perché non avesse con sé i mezzi di anticipare la legge; compiuta questa cerimonia, lo condussero in una delle celle dei condannati e lo lasciarono lì — [[Alone|solo]].
+
+Si sedette su una panchina di pietra di fronte alla porta, che serviva sia da sedile che da letto; e fissando a terra i suoi occhi [[Blood|iniettati]] di sangue, cercò di raccogliere i propri pensieri. Dopo un po', cominciò a ricordare alcuni frammenti sconnessi di ciò che il giudice aveva detto: anche se gli era sembrato, al [[Time|momento]], di non poter sentire una parola. Questi si disposero gradualmente nei loro posti corretti e a poco a poco ne suggerirono altri: così che in breve [[Time|tempo]] aveva il tutto, quasi come era stato pronunciato. Essere impiccato per il collo finché non fosse morto - questo era il finale. Essere impiccato per il collo finché non fosse morto.
+
+Quando si fece molto buio, cominciò a pensare a tutti gli uomini che aveva conosciuto e che erano morti sul patibolo; alcuni per colpa sua. Si [[Rose|materializzarono]] così in rapida successione che faticava a contarli. Ne aveva visto morire qualcuno, ed era persino scherzato perché morivano con le preghiere sulle labbra. Con quale fragore il cappio scendeva; e come cambiavano all'improvviso da uomini forti e vigorosi in mucchi di vestiti che penzolavano!
+
+Alcuni di loro potrebbero aver abitato proprio quella cella—seduto su quel preciso posto. Era molto buio; perché non portavano una luce? La cella era stata costruita da molti anni. Dozzine di uomini dovevano aver trascorso le loro ultime ore là dentro. Era come sedere in una cripta disseminata di cadaveri—il cappuccio, il lazo, i bracci legati, i volti che conosceva anche sotto quel velo orribile.—Luce, luce!
+
+Finalmente, quando le sue mani erano indolenzite per aver battuto contro la pesante porta e i muri, apparvero due uomini: uno portava una candela che infilò in un candelabro di ferro fissato al muro; l'altro trascinava dentro un materasso su cui passare la [[Night|notte]]; perché il prigioniero non sarebbe stato lasciato [[Alone|solo]] più.
+
+Poi venne la [[Night|notte]] — oscura, tetra, silenziosa [[Night|notte]]. Altri veggenti sono felici di sentire suonare questo orologio della chiesa, perché annunciano vita e l'arrivo del giorno. A lui portavano solo [[Despair|disperazione]]. Il rintocco di ogni campana di ferro giungeva carico dell'unica, profonda, vuota parola — [[Death|morte]]. Che importava a lui il rumore e l'agitazione della mattina allegra che penetravano persino là? Era un'altra forma di spavento, con la beffa aggiunta all'avvertimento.
+
+La giornata passò. Giornata? Non c'era stata alcuna giornata; era finita appena iniziata — e la [[Night|notte]] tornò di nuovo; una [[Night|notte]] così lunga, eppure così breve; lunga nel suo terribile [[Silence|silenzio]], ma breve nelle sue ore fugaci. In un certo [[Time|momento]] delirava e bestemmiava; in un altro ululava e si strappava i capelli.
+Uomini venerabili della sua stessa [[Persuasion|fede]] erano venuti a pregare al suo capezzale, ma lui li aveva scacciati con maledizioni. Essi rinnovarono i loro sforzi caritatevoli e lui li respinse a forza.
+
+Sabato [[Night|sera]]. Aveva [[Alone|solo]] un'altra [[Night|notte]] da vivere. E mentre pensava a questo,
+giunse il giorno: [[Sunday|domenica]].
+
+Non fu che nella [[Night|notte]] di questo ultimo terribile giorno, che un senso di desolazione per il suo stato disperato e senza speranza si abbatté con tutta la sua intensità sulla sua devastata [[Soul|anima]]; non che avesse mai nutrito qualche definita o positiva [[Hope|speranza]] di [[Mercy|misericordia]], ma semplicemente non era mai stato in grado di considerare altro che la vaga possibilità di morire così presto. Aveva parlato poco con uno dei due uomini, che si davano il cambio nella loro assistenza; e questi, da parte loro, non facevano alcun tentativo per richiamare la sua attenzione. Era rimasto seduto lì, sveglio ma sognante. Ora, di minuto in minuto, balzava in piedi, con bocca ansimante e pelle arsa, si affrettava avanti e indietro, in un tale parossismo di [[Fear|paura]] e rabbia che persino loro — abituati a tali spettacoli — indietreggiavano da lui con orrore. Alla fine divenne così terribile, tra tutte le torture della sua malvagia [[Conscience|coscienza]], che uno degli uomini non riusciva più a sopportare di stare lì, osservandolo [[Alone|da solo]]; e così i due rimasero insieme di guardia.
+
+Si accucciò sul suo letto di pietra e pensò al passato. Era stato ferito da qualche proiettile scagliato dalla folla il giorno della sua cattura, e la testa era bendata con un panno di lino. I suoi capelli rossi gli pendevano sulla faccia pallida; la barba era strappata e annodata in nodi; i suoi occhi brillavano di una luce terribile; la sua carne non lavata crepitava per la febbre che lo consumava. Otto, nove, poi. Se non era un trucco per spaventarlo, e quelle erano le vere ore che si inseguivano a vicenda, dove sarebbe stato quando fossero tornate! Undici! Un altro rintocco prima che la voce dell'ora precedente avesse smesso di vibrare. Alle otto, sarebbe stato l'unico addolorato nel suo stesso corteo funebre; alle undici.
+Quelle terribili mura di Newgate, che hanno nascosto tanta miseria e
+tale indicibile angoscia non solo agli occhi ma, troppo spesso e per
+troppo tempo, anche ai pensieri degli uomini, mai avevano racchiuso uno
+spettacolo così terribile. I pochi che indugiavano mentre passavano,
+chiedendosi cosa stesse facendo l'uomo destinato a essere impiccato il
+giorno dopo, non avrebbero dormito bene quella [[Night|notte]], se lo avessero visto.
+
+Dalle prime ore della sera fino quasi a mezzanotte, piccoli gruppi di due o tre persone si presentavano al cancello del portone e chiedevano con volti ansiosi se fosse stato ricevuto qualche provvedimento di grazia. Ricevendo risposta negativa, comunicavano la gradita notizia ad altri gruppetti per strada che indicavano l'uno all'altro la porta da cui sarebbe dovuto uscire e mostravano dove sarebbe stato costruito il patibolo; poi se ne andavano a passi riluttanti, voltandosi indietro per evocare la scena. A poco a poco si disperdevano uno dopo l'altro; e per un'ora, nel cuore della [[Night|notte]], la strada fu lasciata alla [[Solitude|solitudine]] e all'oscurità.
+
+Lo spazio davanti alla [[Prison|prigione]] era stato liberato e alcune robuste barriere,
+dipinte di nero, erano già state poste sulla [[Road|strada]] per contenere la pressione della folla attesa, quando il signor Brownlow e [[Oliver]] apparvero al cancello ed esibirono un ordine di ammissione alla prigionia,
+firmato da uno degli sceriffi. Furono immediatamente fatti entrare nella guardiola.

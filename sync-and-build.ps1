@@ -75,6 +75,8 @@ try {
     #    change every build, so they must NOT be immutable (a returning browser would keep a stale
     #    bundle for a week). Revalidate js/css; keep truly static fonts/images immutable.
     Write-Host "==> Writing Cloudflare _headers" -ForegroundColor Cyan
+    # json = search index (contentIndex.json/index.json): stable name, content changes every build,
+    # so must revalidate or a browser keeps a stale index (e.g. dead Dropbox-conflict-copy hits in search).
     $revalidateExts = "js","css","json"
     $immutableExts  = "woff2","svg","png","jpg","jpeg","webp","avif"
     $headerLines = @()

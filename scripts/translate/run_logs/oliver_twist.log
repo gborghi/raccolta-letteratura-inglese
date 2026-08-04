@@ -1,0 +1,173 @@
+[2026-07-18 12:13:10] === launcher start (pid 18689) ===
+Success! Server is now running on port 1234
+[2026-07-18 12:13:10] === translation start ===
+pending atoms: 147 / 149 in TSV
+cache warm with 30 blocks
+work: 4002 prose blocks across 147 atoms
+[1/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_02/part_02.md | blocks 33/4002 | 11m elapsed, ~22.5h left | 1 links need repair
+[2/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_02/part_03.md | blocks 54/4002 | 26m elapsed, ~32.2h left | 4 links need repair
+[3/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_02/part_04.md | blocks 71/4002 | 34m elapsed, ~31.6h left | 1 links need repair
+[4/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_03/part_01.md | blocks 85/4002 | 44m elapsed, ~34.1h left | 1 links need repair
+[5/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_03/part_02.md | blocks 115/4002 | 53m elapsed, ~29.8h left
+[6/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_03/part_03.md | blocks 149/4002 | 62m elapsed, ~26.7h left
+[7/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_04/part_01.md | blocks 173/4002 | 71m elapsed, ~26.1h left
+[8/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_04/part_02.md | blocks 203/4002 | 81m elapsed, ~25.3h left
+[9/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_04/part_03.md | blocks 216/4002 | 85m elapsed, ~24.8h left
+[10/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_05/part_01.md | blocks 242/4002 | 95m elapsed, ~24.7h left
+[11/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_05/part_02.md | blocks 272/4002 | 107m elapsed, ~24.4h left | 5 links need repair
+[12/147] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_05/part_03.md | blocks 291/4002 | 120m elapsed, ~25.6h left | 2 links need repair
+[2026-07-18 14:14:41] === translation finished (exit 143) ===
+[2026-07-18 16:40:25] === launcher start (pid 38818) ===
+Success! Server is now running on port 1234
+[2026-07-18 16:40:26] === translation start ===
+pending atoms: 135 / 149 in TSV
+cache warm with 324 blocks
+work: 3711 prose blocks across 135 atoms
+[1/135] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_05/part_04.md | blocks 18/3711 | 7m elapsed, ~24.3h left | 1 links need repair
+[2/135] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_06.md | blocks 54/3711 | 26m elapsed, ~29.0h left | 4 links need repair
+[3/135] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_07/part_01.md | blocks 88/3711 | 37m elapsed, ~25.3h left | 2 links need repair
+[4/135] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_07/part_02.md | blocks 116/3711 | 52m elapsed, ~27.0h left | 3 links need repair
+[5/135] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_08/part_01.md | blocks 128/3711 | 64m elapsed, ~30.0h left | 4 links need repair
+[6/135] REJECT Authors/Dickens/Atomized/Oliver_Twist/Chapter_08/part_02.md: block count 25 EN vs 24 IT (emitter would skip page)
+[7/135] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_08/part_03.md | blocks 149/3711 | 86m elapsed, ~34.1h left | 2 links need repair
+[2026-07-18 18:07:47] === translation finished (exit 143) ===
+[2026-07-18 18:43:09] === launcher start (pid 47792) ===
+Success! Server is now running on port 1234
+[2026-07-18 18:43:10] === translation start ===
+pending atoms: 129 / 149 in TSV
+cache warm with 498 blocks
+work: 3562 prose blocks across 129 atoms
+[1/129] REJECT Authors/Dickens/Atomized/Oliver_Twist/Chapter_08/part_02.md: block count 25 EN vs 24 IT (emitter would skip page)
+[2/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_09/part_01.md | blocks 25/3562 | 9m elapsed, ~21.7h left | 1 links need repair
+[3/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_09/part_02.md | blocks 59/3562 | 26m elapsed, ~25.6h left | 6 links need repair
+[4/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_10.md | blocks 97/3562 | 42m elapsed, ~25.2h left | 3 links need repair
+[5/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_11/part_01.md | blocks 121/3562 | 51m elapsed, ~24.3h left
+[6/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_11/part_02.md | blocks 168/3562 | 61m elapsed, ~20.5h left | 2 links need repair
+[7/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_11/part_03.md | blocks 188/3562 | 66m elapsed, ~19.8h left
+[8/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_12/part_01.md | blocks 216/3562 | 81m elapsed, ~21.0h left | 4 links need repair
+[9/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_12/part_02.md | blocks 243/3562 | 94m elapsed, ~21.4h left | 4 links need repair
+[10/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_12/part_03.md | blocks 274/3562 | 104m elapsed, ~20.8h left
+[11/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_13/part_01.md | blocks 299/3562 | 114m elapsed, ~20.7h left | 1 links need repair
+[12/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_13/part_02.md | blocks 336/3562 | 125m elapsed, ~19.9h left | 2 links need repair
+[13/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_13/part_03.md | blocks 360/3562 | 132m elapsed, ~19.6h left | 1 links need repair
+[14/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_14/part_01.md | blocks 378/3562 | 143m elapsed, ~20.0h left | 3 links need repair
+[15/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_14/part_02.md | blocks 401/3562 | 154m elapsed, ~20.2h left | 5 links need repair
+[16/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_14/part_03.md | blocks 435/3562 | 165m elapsed, ~19.8h left | 1 links need repair
+[17/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_14/part_04.md | blocks 459/3562 | 173m elapsed, ~19.5h left | 1 links need repair
+[18/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_15/part_01.md | blocks 487/3562 | 185m elapsed, ~19.5h left | 4 links need repair
+[19/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_15/part_02.md | blocks 523/3562 | 197m elapsed, ~19.1h left | 1 links need repair
+[20/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_16/part_01.md | blocks 558/3562 | 210m elapsed, ~18.8h left | 5 links need repair
+[21/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_16/part_02.md | blocks 584/3562 | 220m elapsed, ~18.7h left | 1 links need repair
+[22/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_16/part_03.md | blocks 623/3562 | 234m elapsed, ~18.4h left | 2 links need repair
+[23/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_17/part_01.md | blocks 646/3562 | 246m elapsed, ~18.5h left | 6 links need repair
+[24/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_17/part_02.md | blocks 685/3562 | 257m elapsed, ~18.0h left | 2 links need repair
+[25/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_17/part_03.md | blocks 729/3562 | 268m elapsed, ~17.4h left
+[26/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_18/part_01.md | blocks 741/3562 | 279m elapsed, ~17.7h left | 4 links need repair
+[27/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_18/part_02.md | blocks 775/3562 | 291m elapsed, ~17.4h left | 2 links need repair
+[28/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_18/part_03.md | blocks 793/3562 | 299m elapsed, ~17.4h left | 1 links need repair
+[29/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_19/part_01.md | blocks 824/3562 | 309m elapsed, ~17.1h left | 1 links need repair
+[30/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_19/part_02.md | blocks 868/3562 | 320m elapsed, ~16.6h left | 1 links need repair
+[31/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_19/part_03.md | blocks 905/3562 | 331m elapsed, ~16.2h left | 2 links need repair
+[32/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_20/part_01.md | blocks 928/3562 | 340m elapsed, ~16.1h left
+[33/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_20/part_02.md | blocks 967/3562 | 351m elapsed, ~15.7h left | 1 links need repair
+[34/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_20/part_03.md | blocks 987/3562 | 359m elapsed, ~15.6h left | 1 links need repair
+[35/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_21/part_01.md | blocks 1004/3562 | 376m elapsed, ~16.0h left | 6 links need repair
+[36/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_21/part_02.md | blocks 1033/3562 | 386m elapsed, ~15.8h left | 9 links need repair
+[37/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_22/part_01.md | blocks 1061/3562 | 399m elapsed, ~15.7h left | 3 links need repair
+[38/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_22/part_02.md | blocks 1104/3562 | 412m elapsed, ~15.3h left | 1 links need repair
+[39/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_23/part_01.md | blocks 1126/3562 | 423m elapsed, ~15.3h left | 1 links need repair
+[40/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_23/part_02.md | blocks 1153/3562 | 435m elapsed, ~15.2h left | 3 links need repair
+[41/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_23/part_03.md | blocks 1168/3562 | 441m elapsed, ~15.1h left | 1 links need repair
+[42/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_24.md | blocks 1225/3562 | 460m elapsed, ~14.6h left | 2 links need repair
+[43/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_25/part_01.md | blocks 1246/3562 | 469m elapsed, ~14.5h left
+[44/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_25/part_02.md | blocks 1286/3562 | 483m elapsed, ~14.2h left | 3 links need repair
+[45/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_26/part_01.md | blocks 1306/3562 | 493m elapsed, ~14.2h left | 4 links need repair
+[46/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_26/part_02.md | blocks 1335/3562 | 502m elapsed, ~13.9h left
+[47/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_26/part_03.md | blocks 1362/3562 | 512m elapsed, ~13.8h left | 1 links need repair
+[48/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_26/part_04.md | blocks 1395/3562 | 525m elapsed, ~13.6h left | 2 links need repair
+[49/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_27/part_01.md | blocks 1417/3562 | 537m elapsed, ~13.5h left | 1 links need repair
+[50/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_27/part_02.md | blocks 1455/3562 | 549m elapsed, ~13.2h left | 1 links need repair
+[51/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_27/part_03.md | blocks 1472/3562 | 554m elapsed, ~13.1h left | 2 links need repair
+[52/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_28/part_01.md | blocks 1508/3562 | 565m elapsed, ~12.8h left | 1 links need repair
+[53/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_28/part_02.md | blocks 1522/3562 | 574m elapsed, ~12.8h left | 2 links need repair
+[54/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_28/part_03.md | blocks 1566/3562 | 587m elapsed, ~12.5h left | 1 links need repair
+[55/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_29.md | blocks 1604/3562 | 600m elapsed, ~12.2h left | 3 links need repair
+[56/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_30/part_01.md | blocks 1630/3562 | 610m elapsed, ~12.1h left | 1 links need repair
+[57/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_30/part_02.md | blocks 1668/3562 | 621m elapsed, ~11.8h left
+[58/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_31/part_01.md | blocks 1698/3562 | 630m elapsed, ~11.5h left
+[59/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_31/part_02.md | blocks 1733/3562 | 640m elapsed, ~11.3h left | 1 links need repair
+[60/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_31/part_03.md | blocks 1742/3562 | 657m elapsed, ~11.4h left | 1 links need repair
+[61/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_31/part_04.md | blocks 1761/3562 | 664m elapsed, ~11.3h left | 1 links need repair
+[62/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_32/part_01.md | blocks 1793/3562 | 675m elapsed, ~11.1h left | 3 links need repair
+[63/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_32/part_02.md | blocks 1818/3562 | 685m elapsed, ~11.0h left | 3 links need repair
+[64/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_32/part_03.md | blocks 1825/3562 | 705m elapsed, ~11.2h left | 6 links need repair
+[65/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_33/part_01.md | blocks 1852/3562 | 714m elapsed, ~11.0h left | 2 links need repair
+[66/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_33/part_02.md | blocks 1874/3562 | 726m elapsed, ~10.9h left | 6 links need repair
+[67/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_33/part_03.md | blocks 1893/3562 | 741m elapsed, ~10.9h left | 5 links need repair
+[68/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_34/part_01.md | blocks 1920/3562 | 754m elapsed, ~10.7h left | 5 links need repair
+[69/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_34/part_02.md | blocks 1952/3562 | 765m elapsed, ~10.5h left | 2 links need repair
+[70/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_34/part_03.md | blocks 1961/3562 | 779m elapsed, ~10.6h left | 8 links need repair
+[71/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_34/part_04.md | blocks 1969/3562 | 783m elapsed, ~10.6h left
+[72/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_35/part_01.md | blocks 1993/3562 | 794m elapsed, ~10.4h left | 3 links need repair
+[73/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_35/part_02.md | blocks 2016/3562 | 802m elapsed, ~10.2h left
+[74/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_35/part_03.md | blocks 2031/3562 | 807m elapsed, ~10.1h left
+[75/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_36.md | blocks 2058/3562 | 818m elapsed, ~10.0h left | 2 links need repair
+[76/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_37/part_01.md | blocks 2085/3562 | 827m elapsed, ~9.8h left
+[77/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_37/part_02.md | blocks 2110/3562 | 835m elapsed, ~9.6h left | 2 links need repair
+[78/129] REJECT Authors/Dickens/Atomized/Oliver_Twist/Chapter_37/part_03.md: block count 39 EN vs 38 IT (emitter would skip page)
+[79/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_37/part_04.md | blocks 2125/3562 | 851m elapsed, ~9.6h left | 1 links need repair
+[80/129] REJECT Authors/Dickens/Atomized/Oliver_Twist/Chapter_38/part_01.md: invented wikilink targets: ['L01estate', 'L02tempesta', 'L03fiume']
+[81/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_38/part_02.md | blocks 2161/3562 | 871m elapsed, ~9.4h left
+[82/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_38/part_03.md | blocks 2197/3562 | 880m elapsed, ~9.1h left
+[83/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_38/part_04.md | blocks 2210/3562 | 885m elapsed, ~9.0h left
+[84/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_39/part_01.md | blocks 2233/3562 | 892m elapsed, ~8.9h left
+[85/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_39/part_02.md | blocks 2262/3562 | 902m elapsed, ~8.6h left | 2 links need repair
+[86/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_39/part_03.md | blocks 2290/3562 | 911m elapsed, ~8.4h left | 1 links need repair
+[87/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_39/part_04.md | blocks 2315/3562 | 921m elapsed, ~8.3h left | 2 links need repair
+[88/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_39/part_05.md | blocks 2352/3562 | 931m elapsed, ~8.0h left | 2 links need repair
+[89/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_40/part_01.md | blocks 2381/3562 | 943m elapsed, ~7.8h left | 1 links need repair
+[90/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_40/part_02.md | blocks 2413/3562 | 955m elapsed, ~7.6h left
+[91/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_41/part_01.md | blocks 2432/3562 | 968m elapsed, ~7.5h left | 2 links need repair
+[92/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_41/part_02.md | blocks 2464/3562 | 980m elapsed, ~7.3h left | 2 links need repair
+[93/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_41/part_03.md | blocks 2486/3562 | 994m elapsed, ~7.2h left | 3 links need repair
+[94/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_41/part_04.md | blocks 2496/3562 | 999m elapsed, ~7.1h left | 1 links need repair
+[95/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_42/part_01.md | blocks 2525/3562 | 1011m elapsed, ~6.9h left | 7 links need repair
+[96/129] REJECT Authors/Dickens/Atomized/Oliver_Twist/Chapter_42/part_02.md: block count 33 EN vs 32 IT (emitter would skip page)
+[97/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_42/part_03.md | blocks 2569/3562 | 1032m elapsed, ~6.6h left
+[98/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_42/part_04.md | blocks 2591/3562 | 1039m elapsed, ~6.5h left
+[99/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_43/part_01.md | blocks 2627/3562 | 1050m elapsed, ~6.2h left | 1 links need repair
+[100/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_43/part_02.md | blocks 2663/3562 | 1061m elapsed, ~6.0h left | 1 links need repair
+[101/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_43/part_03.md | blocks 2686/3562 | 1071m elapsed, ~5.8h left | 3 links need repair
+[102/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_43/part_04.md | blocks 2702/3562 | 1076m elapsed, ~5.7h left | 1 links need repair
+[103/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_44/part_01.md | blocks 2736/3562 | 1086m elapsed, ~5.5h left | 3 links need repair
+[104/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_44/part_02.md | blocks 2773/3562 | 1099m elapsed, ~5.2h left | 1 links need repair
+[105/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_45.md | blocks 2823/3562 | 1113m elapsed, ~4.9h left | 5 links need repair
+[106/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_46/part_01.md | blocks 2839/3562 | 1127m elapsed, ~4.8h left | 6 links need repair
+[107/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_46/part_02.md | blocks 2883/3562 | 1138m elapsed, ~4.5h left
+[108/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_46/part_03.md | blocks 2923/3562 | 1153m elapsed, ~4.2h left
+[109/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_47/part_01.md | blocks 2951/3562 | 1165m elapsed, ~4.0h left | 3 links need repair
+[110/129] FAIL Authors/Dickens/Atomized/Oliver_Twist/Chapter_47/part_02.md: fabricated output: 410 chars EN -> 927 chars IT
+[111/129] FAIL Authors/Dickens/Atomized/Oliver_Twist/Chapter_48/part_01.md: fabricated output: 345 chars EN -> 808 chars IT
+[112/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_48/part_02.md | blocks 2976/3562 | 1182m elapsed, ~3.9h left | 1 links need repair
+[113/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_48/part_03.md | blocks 2998/3562 | 1193m elapsed, ~3.7h left
+[114/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_49/part_01.md | blocks 3027/3562 | 1204m elapsed, ~3.5h left | 2 links need repair
+[115/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_49/part_02.md | blocks 3048/3562 | 1216m elapsed, ~3.4h left | 2 links need repair
+[116/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_49/part_03.md | blocks 3087/3562 | 1232m elapsed, ~3.2h left | 1 links need repair
+[117/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_50/part_01.md | blocks 3103/3562 | 1241m elapsed, ~3.1h left | 2 links need repair
+[118/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_50/part_02.md | blocks 3140/3562 | 1252m elapsed, ~2.8h left | 1 links need repair
+[119/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_50/part_03.md | blocks 3173/3562 | 1264m elapsed, ~2.6h left | 3 links need repair
+[120/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_50/part_04.md | blocks 3192/3562 | 1272m elapsed, ~2.5h left
+[121/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_51/part_01.md | blocks 3207/3562 | 1287m elapsed, ~2.4h left | 6 links need repair
+[122/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_51/part_02.md | blocks 3224/3562 | 1299m elapsed, ~2.3h left | 2 links need repair
+[123/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_51/part_03.md | blocks 3258/3562 | 1309m elapsed, ~2.0h left | 2 links need repair
+[124/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_51/part_04.md | blocks 3291/3562 | 1321m elapsed, ~1.8h left | 3 links need repair
+[125/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_51/part_05.md | blocks 3309/3562 | 1328m elapsed, ~1.7h left | 3 links need repair
+[126/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_52/part_01.md | blocks 3326/3562 | 1336m elapsed, ~1.6h left | 1 links need repair
+[127/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_52/part_02.md | blocks 3341/3562 | 1346m elapsed, ~1.5h left | 1 links need repair
+[128/129] FAIL Authors/Dickens/Atomized/Oliver_Twist/Chapter_52/part_03.md: fabricated output: 331 chars EN -> 782 chars IT
+[129/129] ok Authors/Dickens/Atomized/Oliver_Twist/Chapter_53.md | blocks 3360/3562 | 1365m elapsed, ~1.4h left | 2 links need repair
+
+done: 122 written, 7 failed/rejected, cache 3952 blocks
+link-repair queue: 228 blocks -> data/dickens_tower_linkfix.jsonl
+[2026-07-19 17:28:11] === translation finished (exit 0) ===
+[2026-07-19 17:28:11] === launcher done -> run_logs/oliver_twist.DONE written ===

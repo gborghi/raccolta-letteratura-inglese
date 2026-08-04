@@ -1,0 +1,10 @@
+pending atoms: 4 / 4 in TSV
+cache warm with 944 blocks
+work: 27 prose blocks across 4 atoms
+[1/4] ok Authors/Chesterton/Atomized/history/Chapter_02/part_02.md | blocks 6/27 | 13m elapsed, ~0.7h left | 1 links need repair
+[2/4] ok Authors/Chesterton/Atomized/history/Chapter_04/part_01.md | blocks 14/27 | 24m elapsed, ~0.4h left | 1 links need repair
+[3/4] ok Authors/Chesterton/Atomized/history/Chapter_05/part_03.md | blocks 20/27 | 33m elapsed, ~0.2h left
+[4/4] ok Authors/Chesterton/Atomized/history/Chapter_06/part_01.md | blocks 27/27 | 56m elapsed, ~0.0h left | 5 links need repair
+
+done: 4 written, 0 failed/rejected, cache 971 blocks
+link-repair queue: 151 blocks -> data/gkc_tower_linkfix.jsonl

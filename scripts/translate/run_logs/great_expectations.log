@@ -1,0 +1,178 @@
+[2026-07-20 00:12:13] === launcher start (pid 54683) ===
+Success! Server is now running on port 1234
+[2026-07-20 00:12:13] === translation start ===
+pending atoms: 167 / 167 in TSV
+cache warm with 4057 blocks
+work: 4232 prose blocks across 167 atoms
+[1/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_01.md | blocks 49/4232 | 18m elapsed, ~25.3h left | 2 links need repair
+[2/167] REJECT Authors/Dickens/Atomized/Great_Expectations/Chapter_02/part_01.md: block count 26 EN vs 25 IT (emitter would skip page)
+[3/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_02/part_02.md | blocks 68/4232 | 41m elapsed, ~42.3h left | 2 links need repair
+[4/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_02/part_03.md | blocks 94/4232 | 55m elapsed, ~40.7h left | 4 links need repair
+[5/167] REJECT Authors/Dickens/Atomized/Great_Expectations/Chapter_03.md: block count 48 EN vs 47 IT (emitter would skip page)
+[6/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_04/part_01.md | blocks 108/4232 | 82m elapsed, ~52.4h left | 1 links need repair
+[7/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_04/part_02.md | blocks 131/4232 | 92m elapsed, ~48.0h left
+[8/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_04/part_03.md | blocks 156/4232 | 102m elapsed, ~44.4h left
+[9/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_05/part_01.md | blocks 187/4232 | 112m elapsed, ~40.4h left | 1 links need repair
+[10/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_05/part_02.md | blocks 199/4232 | 120m elapsed, ~40.6h left
+[11/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_05/part_03.md | blocks 221/4232 | 130m elapsed, ~39.2h left
+[12/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_05/part_04.md | blocks 238/4232 | 135m elapsed, ~37.8h left
+[13/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_06.md | blocks 246/4232 | 146m elapsed, ~39.5h left | 3 links need repair
+[14/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_07/part_01.md | blocks 263/4232 | 158m elapsed, ~39.8h left | 1 links need repair
+[15/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_07/part_02.md | blocks 299/4232 | 167m elapsed, ~36.7h left | 1 links need repair
+[16/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_07/part_03.md | blocks 329/4232 | 179m elapsed, ~35.4h left | 4 links need repair
+[17/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_07/part_04.md | blocks 347/4232 | 187m elapsed, ~34.8h left | 2 links need repair
+[18/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_08/part_01.md | blocks 366/4232 | 197m elapsed, ~34.7h left | 2 links need repair
+[19/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_08/part_02.md | blocks 404/4232 | 209m elapsed, ~33.0h left | 1 links need repair
+[20/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_08/part_03.md | blocks 445/4232 | 219m elapsed, ~31.0h left
+[21/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_08/part_04.md | blocks 462/4232 | 231m elapsed, ~31.4h left | 1 links need repair
+[22/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_09/part_01.md | blocks 500/4232 | 242m elapsed, ~30.0h left | 2 links need repair
+[23/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_09/part_02.md | blocks 532/4232 | 251m elapsed, ~29.1h left | 3 links need repair
+[24/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_09/part_03.md | blocks 542/4232 | 255m elapsed, ~28.9h left
+[25/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_10/part_01.md | blocks 558/4232 | 263m elapsed, ~28.9h left
+[26/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_10/part_02.md | blocks 603/4232 | 275m elapsed, ~27.6h left
+[27/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_11/part_01.md | blocks 625/4232 | 289m elapsed, ~27.8h left | 4 links need repair
+[28/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_11/part_02.md | blocks 669/4232 | 299m elapsed, ~26.5h left | 1 links need repair
+[29/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_11/part_03.md | blocks 698/4232 | 311m elapsed, ~26.2h left | 4 links need repair
+[30/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_11/part_04.md | blocks 726/4232 | 321m elapsed, ~25.9h left
+[31/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_11/part_05.md | blocks 741/4232 | 331m elapsed, ~26.0h left | 2 links need repair
+[32/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_12/part_01.md | blocks 751/4232 | 343m elapsed, ~26.5h left | 1 links need repair
+[33/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_12/part_02.md | blocks 772/4232 | 356m elapsed, ~26.6h left | 4 links need repair
+[34/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_13/part_01.md | blocks 799/4232 | 366m elapsed, ~26.2h left
+[35/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_13/part_02.md | blocks 839/4232 | 378m elapsed, ~25.5h left | 3 links need repair
+[36/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_13/part_03.md | blocks 847/4232 | 383m elapsed, ~25.5h left
+[37/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_14.md | blocks 858/4232 | 393m elapsed, ~25.8h left | 3 links need repair
+[38/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_15/part_01.md | blocks 889/4232 | 405m elapsed, ~25.4h left | 2 links need repair
+[39/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_15/part_02.md | blocks 920/4232 | 415m elapsed, ~24.9h left | 3 links need repair
+[40/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_15/part_03.md | blocks 941/4232 | 432m elapsed, ~25.2h left | 3 links need repair
+[41/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_15/part_04.md | blocks 961/4232 | 442m elapsed, ~25.1h left | 4 links need repair
+[42/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_16.md | blocks 981/4232 | 455m elapsed, ~25.1h left
+[43/167] FAIL Authors/Dickens/Atomized/Great_Expectations/Chapter_17/part_01.md: fabricated output: 265 chars EN -> 633 chars IT
+[44/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_17/part_02.md | blocks 1010/4232 | 468m elapsed, ~24.9h left | 2 links need repair
+[45/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_17/part_03.md | blocks 1039/4232 | 481m elapsed, ~24.6h left | 5 links need repair
+[46/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_18/part_01.md | blocks 1076/4232 | 492m elapsed, ~24.0h left
+[47/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_18/part_02.md | blocks 1105/4232 | 503m elapsed, ~23.7h left | 4 links need repair
+[48/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_18/part_03.md | blocks 1141/4232 | 514m elapsed, ~23.2h left | 1 links need repair
+[49/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_18/part_04.md | blocks 1170/4232 | 524m elapsed, ~22.8h left | 1 links need repair
+[50/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_18/part_05.md | blocks 1183/4232 | 528m elapsed, ~22.7h left
+[51/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_19/part_01.md | blocks 1215/4232 | 538m elapsed, ~22.3h left | 2 links need repair
+[52/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_19/part_02.md | blocks 1238/4232 | 551m elapsed, ~22.2h left | 7 links need repair
+[53/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_19/part_03.md | blocks 1262/4232 | 560m elapsed, ~22.0h left
+[54/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_19/part_04.md | blocks 1288/4232 | 569m elapsed, ~21.7h left
+[55/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_19/part_05.md | blocks 1305/4232 | 580m elapsed, ~21.7h left | 9 links need repair
+[56/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_20/part_01.md | blocks 1326/4232 | 595m elapsed, ~21.7h left | 4 links need repair
+[57/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_20/part_02.md | blocks 1358/4232 | 607m elapsed, ~21.4h left | 1 links need repair
+[58/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_20/part_03.md | blocks 1385/4232 | 615m elapsed, ~21.1h left | 1 links need repair
+[59/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_21.md | blocks 1431/4232 | 629m elapsed, ~20.5h left
+[60/167] REJECT Authors/Dickens/Atomized/Great_Expectations/Chapter_22/part_01.md: block count 37 EN vs 35 IT (emitter would skip page)
+[61/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_22/part_02.md | blocks 1451/4232 | 656m elapsed, ~20.9h left | 7 links need repair
+[62/167] REJECT Authors/Dickens/Atomized/Great_Expectations/Chapter_22/part_03.md: block count 39 EN vs 38 IT (emitter would skip page)
+[63/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_22/part_04.md | blocks 1474/4232 | 678m elapsed, ~21.1h left | 1 links need repair
+[64/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_23/part_01.md | blocks 1484/4232 | 690m elapsed, ~21.3h left | 2 links need repair
+[65/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_23/part_02.md | blocks 1508/4232 | 698m elapsed, ~21.0h left | 3 links need repair
+[66/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_23/part_03.md | blocks 1530/4232 | 706m elapsed, ~20.8h left | 1 links need repair
+[67/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_24/part_01.md | blocks 1563/4232 | 717m elapsed, ~20.4h left | 1 links need repair
+[68/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_24/part_02.md | blocks 1586/4232 | 728m elapsed, ~20.2h left | 2 links need repair
+[69/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_25/part_01.md | blocks 1606/4232 | 738m elapsed, ~20.1h left | 2 links need repair
+[70/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_25/part_02.md | blocks 1636/4232 | 748m elapsed, ~19.8h left | 4 links need repair
+[71/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_25/part_03.md | blocks 1647/4232 | 755m elapsed, ~19.7h left | 2 links need repair
+[72/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_26/part_01.md | blocks 1664/4232 | 768m elapsed, ~19.8h left | 2 links need repair
+[73/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_26/part_02.md | blocks 1692/4232 | 776m elapsed, ~19.4h left
+[74/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_26/part_03.md | blocks 1708/4232 | 782m elapsed, ~19.3h left | 1 links need repair
+[75/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_27/part_01.md | blocks 1732/4232 | 793m elapsed, ~19.1h left | 4 links need repair
+[76/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_27/part_02.md | blocks 1759/4232 | 801m elapsed, ~18.8h left | 2 links need repair
+[77/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_27/part_03.md | blocks 1781/4232 | 811m elapsed, ~18.6h left | 3 links need repair
+[78/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_28/part_01.md | blocks 1796/4232 | 820m elapsed, ~18.5h left | 1 links need repair
+[79/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_28/part_02.md | blocks 1825/4232 | 834m elapsed, ~18.3h left | 3 links need repair
+[80/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_29/part_01.md | blocks 1858/4232 | 848m elapsed, ~18.1h left | 1 links need repair
+[81/167] REJECT Authors/Dickens/Atomized/Great_Expectations/Chapter_29/part_02.md: block count 36 EN vs 35 IT (emitter would skip page)
+[82/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_29/part_03.md | blocks 1882/4232 | 868m elapsed, ~18.1h left | 1 links need repair
+[83/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_29/part_04.md | blocks 1912/4232 | 879m elapsed, ~17.8h left | 2 links need repair
+[84/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_29/part_05.md | blocks 1920/4232 | 887m elapsed, ~17.8h left | 3 links need repair
+[85/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_30/part_01.md | blocks 1932/4232 | 895m elapsed, ~17.8h left
+[86/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_30/part_02.md | blocks 1962/4232 | 907m elapsed, ~17.5h left | 2 links need repair
+[87/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_30/part_03.md | blocks 1998/4232 | 917m elapsed, ~17.1h left | 1 links need repair
+[88/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_31/part_01.md | blocks 2006/4232 | 931m elapsed, ~17.2h left | 2 links need repair
+[89/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_31/part_02.md | blocks 2038/4232 | 942m elapsed, ~16.9h left
+[90/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_32/part_01.md | blocks 2059/4232 | 952m elapsed, ~16.8h left | 1 links need repair
+[91/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_32/part_02.md | blocks 2089/4232 | 965m elapsed, ~16.5h left
+[92/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_33/part_01.md | blocks 2120/4232 | 974m elapsed, ~16.2h left
+[93/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_33/part_02.md | blocks 2152/4232 | 985m elapsed, ~15.9h left | 1 links need repair
+[94/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_33/part_03.md | blocks 2160/4232 | 992m elapsed, ~15.9h left | 3 links need repair
+[95/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_34/part_01.md | blocks 2172/4232 | 1006m elapsed, ~15.9h left | 3 links need repair
+[96/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_34/part_02.md | blocks 2195/4232 | 1014m elapsed, ~15.7h left
+[97/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_35/part_01.md | blocks 2209/4232 | 1023m elapsed, ~15.6h left
+[98/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_35/part_02.md | blocks 2230/4232 | 1033m elapsed, ~15.5h left | 2 links need repair
+[99/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_35/part_03.md | blocks 2264/4232 | 1041m elapsed, ~15.1h left | 3 links need repair
+[100/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_36/part_01.md | blocks 2303/4232 | 1049m elapsed, ~14.6h left
+[101/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_36/part_02.md | blocks 2344/4232 | 1060m elapsed, ~14.2h left | 1 links need repair
+[102/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_37/part_01.md | blocks 2362/4232 | 1075m elapsed, ~14.2h left | 1 links need repair
+[103/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_37/part_02.md | blocks 2385/4232 | 1090m elapsed, ~14.1h left | 4 links need repair
+[104/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_38/part_01.md | blocks 2409/4232 | 1101m elapsed, ~13.9h left | 4 links need repair
+[105/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_38/part_02.md | blocks 2435/4232 | 1113m elapsed, ~13.7h left | 3 links need repair
+[106/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_38/part_03.md | blocks 2455/4232 | 1127m elapsed, ~13.6h left | 2 links need repair
+[107/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_38/part_04.md | blocks 2489/4232 | 1138m elapsed, ~13.3h left | 2 links need repair
+[108/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_38/part_05.md | blocks 2505/4232 | 1143m elapsed, ~13.1h left
+[109/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_39/part_01.md | blocks 2530/4232 | 1155m elapsed, ~12.9h left | 2 links need repair
+[110/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_39/part_02.md | blocks 2560/4232 | 1166m elapsed, ~12.7h left | 1 links need repair
+[111/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_39/part_03.md | blocks 2587/4232 | 1175m elapsed, ~12.5h left | 1 links need repair
+[112/167] FAIL Authors/Dickens/Atomized/Great_Expectations/Chapter_39/part_04.md: fabricated output: 326 chars EN -> 761 chars IT
+[113/167] REJECT Authors/Dickens/Atomized/Great_Expectations/Chapter_40/part_01.md: block count 21 EN vs 20 IT (emitter would skip page)
+[114/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_40/part_02.md | blocks 2629/4232 | 1197m elapsed, ~12.2h left | 1 links need repair
+[115/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_40/part_03.md | blocks 2654/4232 | 1206m elapsed, ~12.0h left | 1 links need repair
+[116/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_40/part_04.md | blocks 2684/4232 | 1215m elapsed, ~11.7h left
+[117/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_40/part_05.md | blocks 2694/4232 | 1220m elapsed, ~11.6h left
+[118/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_41.md | blocks 2749/4232 | 1240m elapsed, ~11.1h left | 5 links need repair
+[119/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_42/part_01.md | blocks 2771/4232 | 1253m elapsed, ~11.0h left | 5 links need repair
+[120/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_42/part_02.md | blocks 2786/4232 | 1269m elapsed, ~11.0h left | 3 links need repair
+[121/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_42/part_03.md | blocks 2803/4232 | 1274m elapsed, ~10.8h left
+[122/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_43.md | blocks 2864/4232 | 1297m elapsed, ~10.3h left | 5 links need repair
+[123/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_44/part_01.md | blocks 2901/4232 | 1307m elapsed, ~10.0h left
+[124/167] FAIL Authors/Dickens/Atomized/Great_Expectations/Chapter_44/part_02.md: fabricated output: 292 chars EN -> 667 chars IT
+[125/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_44/part_03.md | blocks 2916/4232 | 1314m elapsed, ~9.9h left
+[126/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_45/part_01.md | blocks 2932/4232 | 1328m elapsed, ~9.8h left | 10 links need repair
+[127/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_45/part_02.md | blocks 2965/4232 | 1339m elapsed, ~9.5h left | 1 links need repair
+[128/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_45/part_03.md | blocks 2978/4232 | 1351m elapsed, ~9.5h left | 6 links need repair
+[129/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_46/part_01.md | blocks 3000/4232 | 1363m elapsed, ~9.3h left | 5 links need repair
+[130/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_46/part_02.md | blocks 3019/4232 | 1373m elapsed, ~9.2h left | 1 links need repair
+[131/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_46/part_03.md | blocks 3029/4232 | 1379m elapsed, ~9.1h left
+[132/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_47/part_01.md | blocks 3041/4232 | 1391m elapsed, ~9.1h left | 2 links need repair
+[133/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_47/part_02.md | blocks 3074/4232 | 1405m elapsed, ~8.8h left | 2 links need repair
+[134/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_48/part_01.md | blocks 3111/4232 | 1414m elapsed, ~8.5h left | 1 links need repair
+[135/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_48/part_02.md | blocks 3134/4232 | 1428m elapsed, ~8.3h left | 1 links need repair
+[136/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_48/part_03.md | blocks 3145/4232 | 1437m elapsed, ~8.3h left | 2 links need repair
+[137/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_49/part_01.md | blocks 3181/4232 | 1446m elapsed, ~8.0h left | 1 links need repair
+[138/167] REJECT Authors/Dickens/Atomized/Great_Expectations/Chapter_49/part_02.md: block count 34 EN vs 33 IT (emitter would skip page)
+[139/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_49/part_03.md | blocks 3200/4232 | 1470m elapsed, ~7.9h left | 2 links need repair
+[140/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_50.md | blocks 3251/4232 | 1483m elapsed, ~7.5h left | 4 links need repair
+[141/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_51/part_01.md | blocks 3278/4232 | 1494m elapsed, ~7.2h left | 2 links need repair
+[142/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_51/part_02.md | blocks 3301/4232 | 1506m elapsed, ~7.1h left | 1 links need repair
+[143/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_51/part_03.md | blocks 3323/4232 | 1513m elapsed, ~6.9h left | 1 links need repair
+[144/167] FAIL Authors/Dickens/Atomized/Great_Expectations/Chapter_52.md: fabricated output: 333 chars EN -> 784 chars IT
+[145/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_53/part_01.md | blocks 3343/4232 | 1525m elapsed, ~6.8h left | 3 links need repair
+[146/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_53/part_02.md | blocks 3377/4232 | 1539m elapsed, ~6.5h left | 3 links need repair
+[147/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_53/part_03.md | blocks 3393/4232 | 1548m elapsed, ~6.4h left
+[148/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_53/part_04.md | blocks 3411/4232 | 1556m elapsed, ~6.2h left
+[149/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_53/part_05.md | blocks 3419/4232 | 1562m elapsed, ~6.2h left | 2 links need repair
+[150/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_54/part_01.md | blocks 3436/4232 | 1573m elapsed, ~6.1h left | 2 links need repair
+[151/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_54/part_02.md | blocks 3455/4232 | 1585m elapsed, ~5.9h left
+[152/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_54/part_03.md | blocks 3480/4232 | 1600m elapsed, ~5.8h left | 10 links need repair
+[153/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_54/part_04.md | blocks 3492/4232 | 1608m elapsed, ~5.7h left
+[154/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_54/part_05.md | blocks 3511/4232 | 1619m elapsed, ~5.5h left | 1 links need repair
+[155/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_55/part_01.md | blocks 3540/4232 | 1630m elapsed, ~5.3h left | 5 links need repair
+[156/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_55/part_02.md | blocks 3570/4232 | 1638m elapsed, ~5.1h left
+[157/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_55/part_03.md | blocks 3582/4232 | 1643m elapsed, ~5.0h left | 1 links need repair
+[158/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_56/part_01.md | blocks 3595/4232 | 1652m elapsed, ~4.9h left
+[159/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_56/part_02.md | blocks 3622/4232 | 1661m elapsed, ~4.7h left | 1 links need repair
+[160/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_57/part_01.md | blocks 3648/4232 | 1671m elapsed, ~4.5h left | 2 links need repair
+[161/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_57/part_02.md | blocks 3676/4232 | 1680m elapsed, ~4.2h left | 1 links need repair
+[162/167] REJECT Authors/Dickens/Atomized/Great_Expectations/Chapter_57/part_03.md: block count 27 EN vs 26 IT (emitter would skip page)
+[163/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_57/part_04.md | blocks 3711/4232 | 1706m elapsed, ~4.0h left | 3 links need repair
+[164/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_58/part_01.md | blocks 3738/4232 | 1714m elapsed, ~3.8h left | 3 links need repair
+[165/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_58/part_02.md | blocks 3765/4232 | 1726m elapsed, ~3.6h left | 3 links need repair
+[166/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_58/part_03.md | blocks 3782/4232 | 1734m elapsed, ~3.4h left | 2 links need repair
+[167/167] ok Authors/Dickens/Atomized/Great_Expectations/Chapter_59.md | blocks 3831/4232 | 1746m elapsed, ~3.0h left
+
+done: 155 written, 12 failed/rejected, cache 8110 blocks
+link-repair queue: 232 blocks -> data/ge_tower_linkfix.jsonl
+[2026-07-21 05:18:41] === translation finished (exit 0) ===
+[2026-07-21 05:18:41] === launcher done -> run_logs/great_expectations.DONE written ===

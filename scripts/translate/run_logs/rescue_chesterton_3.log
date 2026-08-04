@@ -1,0 +1,68 @@
+20:24:51 ### rescue rejected atoms | found 6 still-missing
+20:24:51   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_01_PAGE/part_03.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:26:56     -> FIXED via Opus-5
+20:26:56   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_01_PAGE/part_34.md  (was: invented wikilink targets: ['L02)sangue”, “Che così possano, ”\n\n“Case luminose sono la terra del sole che tramonta…”, “li deridono per questo”.\n\n“[[Lion']; leftover mask token(s): 2 (e.g. [[L02..))
+20:28:57     -> FIXED via Opus-5
+20:28:57   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_celebrated_characters_who_are/part_07.md  (was: leftover mask token(s): 3 (e.g. [[L02..))
+20:31:40     -> FIXED via Opus-5
+20:31:40   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_celebrated_characters_who_are/part_08.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:33:31     -> FIXED via Opus-5
+20:33:31   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_celebrated_characters_who_are/part_14.md  (was: leftover mask token(s): 2 (e.g. [[L02..))
+20:35:31     -> FIXED via Opus-5
+20:35:31   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_celebrated_characters_who_are/part_21.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:37:33     -> FIXED via Opus-5
+20:37:33 ### done | fixed 6 | UNRESOLVED 0
+20:43:39 ### rescue rejected atoms | found 4 still-missing
+20:43:39   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_04_Iii_The_Man_Who_Could_Not_Hate/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:45:40     -> FIXED via Opus-5
+20:45:40   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_06_Vi_The_Thing_That_Really_Happened/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L02..))
+20:48:04     -> FIXED via Opus-5
+20:48:04   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_06_Vi_The_Thing_That_Really_Happened/part_02.md  (was: leftover mask token(s): 3 (e.g. [[L02..))
+20:50:22     -> FIXED via Opus-5
+20:50:22   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_11_An_Hour_Harrington/part_02.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:52:27     -> FIXED via Opus-5
+20:52:27 ### done | fixed 4 | UNRESOLVED 0
+20:57:33 ### rescue rejected atoms | found 5 still-missing
+20:57:33   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_12_The_Ecstatic_Thief/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:59:53     -> FIXED via Opus-5
+20:59:53   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_13_Ii_The_Burglar_And_The_Brooch/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+21:02:01     -> FIXED via Opus-5
+21:02:01   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_14_V_The_Thief_On_Trial/part_02.md  (was: leftover mask token(s): 1 (e.g. [[L02..))
+21:04:28     -> FIXED via Opus-5
+21:04:28   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_19_Iv_The_Unreasonableness_Of_Woman/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+21:07:21     -> FIXED via Opus-5
+21:07:21   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_20_V_The_Terms_Of_A_Traitor/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+21:09:35     -> FIXED via Opus-5
+21:09:35 ### done | fixed 5 | UNRESOLVED 0
+21:11:35 ### rescue rejected atoms | found 0 still-missing
+21:11:35 nothing to do -- no rejected atom lacks a .it.md
+21:15:54 ### rescue rejected atoms | found 0 still-missing
+21:15:54 nothing to do -- no rejected atom lacks a .it.md
+21:20:19 ### rescue rejected atoms | found 0 still-missing
+21:20:19 nothing to do -- no rejected atom lacks a .it.md
+21:22:19 ### rescue rejected atoms | found 0 still-missing
+21:22:19 nothing to do -- no rejected atom lacks a .it.md
+21:24:19 ### rescue rejected atoms | found 0 still-missing
+21:24:19 nothing to do -- no rejected atom lacks a .it.md
+21:26:19 ### rescue rejected atoms | found 0 still-missing
+21:26:19 nothing to do -- no rejected atom lacks a .it.md
+21:28:19 ### rescue rejected atoms | found 0 still-missing
+21:28:19 nothing to do -- no rejected atom lacks a .it.md
+21:30:19 ### rescue rejected atoms | found 0 still-missing
+21:30:19 nothing to do -- no rejected atom lacks a .it.md
+21:32:20 ### rescue rejected atoms | found 0 still-missing
+21:32:20 nothing to do -- no rejected atom lacks a .it.md
+21:36:21 ### rescue rejected atoms | found 0 still-missing
+21:36:21 nothing to do -- no rejected atom lacks a .it.md
+21:38:21 ### rescue rejected atoms | found 0 still-missing
+21:38:21 nothing to do -- no rejected atom lacks a .it.md
+21:42:12 ### rescue rejected atoms | found 0 still-missing
+21:42:12 nothing to do -- no rejected atom lacks a .it.md
+21:44:12 ### rescue rejected atoms | found 0 still-missing
+21:44:12 nothing to do -- no rejected atom lacks a .it.md
+21:47:59 ### rescue rejected atoms | found 0 still-missing
+21:47:59 nothing to do -- no rejected atom lacks a .it.md
+21:51:49 ### rescue rejected atoms | found 1 still-missing
+21:51:49   atom Authors/Chesterton/Atomized/scandal_Fr_Brown/Story_11_The_Vampire_of_the_Village/part_03.md  (was: task_done() called too many times)
+21:53:32     -> FIXED via Opus-5
+21:53:32 ### done | fixed 1 | UNRESOLVED 0

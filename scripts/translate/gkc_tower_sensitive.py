@@ -145,7 +145,10 @@ def boilerplate_mask(parts):
         mask.append(tail or is_boilerplate(p))
     return mask
 
-WIKILINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]*))?\]\]")
+# \n excluded from both groups: see the note in dickens_tower.py -- an unclosed [[ in a
+# truncated H1 otherwise swallows the next real link and fakes an "invented target" reject.
+WIKILINK_RE = re.compile(r"\[\[([^\]|\n]+)(?:\|([^\]\n]*))?\]\]")
+UNCLOSED_LINK_RE = re.compile(r"\[\[([^\]|\n]+)(?:\|[^\]\n]*)?$", re.M)  # see dickens_tower.py
 CODE_RE = re.compile(r"\[\[(L\d{2,})\|([^\]]*)\]\]")
 
 
@@ -249,7 +252,8 @@ def prose_blocks(body):
 
 def targets(text):
     """Multiset of wikilink targets, to prove none were dropped or renamed."""
-    return sorted(m.group(1) for m in WIKILINK_RE.finditer(text))
+    return sorted([m.group(1) for m in WIKILINK_RE.finditer(text)] +
+                  [m.group(1) for m in UNCLOSED_LINK_RE.finditer(text)])
 
 
 def _codes_of(text):

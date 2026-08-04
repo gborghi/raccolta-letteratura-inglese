@@ -1,0 +1,4 @@
+07:41:30 ### rescue rejected atoms | found 363 still-missing
+07:41:30   atom Authors/Bronte/Atomized/Agnes_Grey/Chapter_01/part_04.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+08:01:38     -> UNRESOLVED: HY 2x -> ['leftover mask token(s): 2 (e.g. [[L13..)']
+08:01:38   atom Authors/Bronte/Atomized/Agnes_Grey/Chapter_16/part_02.md  (was: leftover mask token(s): 1 (e.g. [[L01..))

@@ -1,0 +1,48 @@
+18:34:02 watcher up | 23 libri | gia' completi (baseline): 11
+19:49:04   fixes su A_Childs_History_of_England: links wrapped (lost -> fixed) : 134
+19:49:07 MAIL libro completato: A_Childs_History_of_England
+20:19:08   fixes su David_Copperfield: links wrapped (lost -> fixed) : 568
+20:19:10 MAIL libro completato: David_Copperfield
+20:25:17 watcher up | 23 libri | gia' completi (baseline): 13
+21:10:51   fixes su American_Notes: links wrapped (lost -> fixed) : 653
+21:10:53 MAIL libro completato: American_Notes
+21:22:31 watcher up | autori ['Dickens', 'Belloc', 'Conan_Doyle', 'Bronte', 'Austen'] | opere 164 | baseline: opere complete 14, autori completi 0
+21:59:13   MAIL alert: 1 atomi non risolti
+04:16:04   fixes su Dickens/Bleak_House: links wrapped (lost -> fixed) : 1611
+04:16:06 MAIL opera completata: Dickens/Bleak_House
+07:16:16   fixes su Dickens/Barnaby_Rudge: links wrapped (lost -> fixed) : 1269
+07:16:19 MAIL opera completata: Dickens/Barnaby_Rudge
+08:12:35   MAIL alert: 1 atomi non risolti
+12:33:18   fixes su Dickens/Little_Dorrit: links wrapped (lost -> fixed) : 1543
+12:33:20 MAIL opera completata: Dickens/Little_Dorrit
+15:19:41   fixes su Dickens/Dombey_and_Son: links wrapped (lost -> fixed) : 1633
+15:19:44 MAIL opera completata: Dickens/Dombey_and_Son
+16:09:48   fixes su Dickens/Martin_Chuzzlewit: links wrapped (lost -> fixed) : 1445
+16:09:50 MAIL opera completata: Dickens/Martin_Chuzzlewit
+19:45:23   fixes su Dickens/Our_Mutual_Friend: links wrapped (lost -> fixed) : 1279
+19:45:25 MAIL opera completata: Dickens/Our_Mutual_Friend
+22:45:42   fixes su Dickens/Sketches_by_Boz: links wrapped (lost -> fixed) : 1405
+22:45:44 MAIL opera completata: Dickens/Sketches_by_Boz
+23:55:50   fixes su Dickens/The_Mystery_of_Edwin_Drood: links wrapped (lost -> fixed) : 374
+23:55:52 MAIL opera completata: Dickens/The_Mystery_of_Edwin_Drood
+03:51:48 MAIL opera completata: Belloc/A_Change_in_the_Cabinet
+04:16:52 MAIL opera completata: Belloc/A_General_Sketch_of_the_European_War_the_First_Pha
+04:21:56 MAIL opera completata: Belloc/A_Moral_Alphabet
+04:32:00 MAIL opera completata: Belloc/Avril_Essays_on_the_French_Renaissance
+04:42:04 MAIL opera completata: Belloc/Belinda
+05:07:08 MAIL opera completata: Belloc/But_Soft_We_Are_Observed
+05:26:17 MAIL opera completata: Belloc/Calibans_Guide_to_Letters
+05:31:20 MAIL opera completata: Belloc/Cautionary_Tales_for_Children
+06:39:28 MAIL opera completata: Belloc/Danton_A_Study
+07:19:34 MAIL opera completata: Belloc/Economics_for_Helen
+07:49:38 MAIL opera completata: Belloc/Emmanuel_Burden_Merchant
+08:19:43 MAIL opera completata: Belloc/Europe_and_the_Faith
+08:54:48   fixes su Dickens/The_Pickwick_Papers: links wrapped (lost -> fixed) : 1329
+08:54:50 MAIL opera completata: Dickens/The_Pickwick_Papers
+08:54:52 MAIL autore completato: Dickens
+08:59:56 MAIL opera completata: Belloc/First_and_Last
+09:35:02 MAIL opera completata: Belloc/Hills_and_the_Sea
+09:35:05 MAIL opera completata: Belloc/Introduction_to_Essays_in_Literature_and_History
+09:35:08 MAIL opera completata: Belloc/Introduction_to_The_Footpath_Way_An_Anthology_for
+09:40:11 MAIL opera completata: Belloc/Introduction_to_The_Romance_of_Madame_Tussauds
+09:50:15 MAIL opera completata: Belloc/Lambkins_Remains

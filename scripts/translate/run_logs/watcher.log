@@ -1,0 +1,87 @@
+09:33:41 watcher up | autori ['Dickens', 'Belloc', 'Conan_Doyle', 'Bronte', 'Austen'] | opere 164 | baseline: opere complete 41, autori completi 1
+10:33:41   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+10:33:45 MAIL opera completata: Belloc/Marie_Antoinette
+10:33:47 MAIL opera completata: Belloc/More_Beasts_for_Worse_Children
+10:33:50 MAIL opera completata: Belloc/More_Peers
+10:33:53 MAIL opera completata: Belloc/Mr_Belloc_Still_Objects_to_Mr_Wellss_Outline_of_Hi
+10:33:56 MAIL opera completata: Belloc/Mr_Clutterbucks_Election
+10:33:58 MAIL opera completata: Belloc/Mr_Petre
+10:34:01 MAIL opera completata: Belloc/On
+10:34:03 MAIL opera completata: Belloc/On_Anything
+10:34:06 MAIL opera completata: Belloc/On_Everything
+10:34:09 MAIL opera completata: Belloc/On_Nothing_and_Kindred_Subjects
+10:34:12 MAIL opera completata: Belloc/On_Something
+10:34:14 MAIL opera completata: Belloc/Pongo_and_the_Bull
+10:34:16 MAIL opera completata: Belloc/Sonnets_and_Verse
+10:34:19 MAIL opera completata: Belloc/Sussex
+10:34:21 MAIL opera completata: Belloc/The_Bad_Childs_Book_of_Beasts
+10:34:24 MAIL opera completata: Belloc/The_Book_of_the_Bayeux_Tapestry
+10:34:27 MAIL opera completata: Belloc/The_Emerald_of_Catherine_the_Great
+10:34:29 MAIL opera completata: Belloc/The_Four_Men
+10:34:32 MAIL opera completata: Belloc/The_French_Revolution
+10:34:35 MAIL opera completata: Belloc/The_Girondin
+10:34:37 MAIL opera completata: Belloc/The_Great_Inquiry
+11:32:33 watcher up | autori ['Dickens', 'Belloc', 'Conan_Doyle', 'Bronte', 'Austen'] | opere 164 | baseline: opere complete 62, autori completi 1
+11:40:28 MAIL opera completata: Belloc/Six_British_Battles
+11:40:31 MAIL opera completata: Belloc/The_Cruise_of_the_Nona
+11:40:34 MAIL opera completata: Belloc/The_Free_Press
+11:40:36 MAIL opera completata: Belloc/The_Green_Overcoat
+11:40:39 MAIL opera completata: Belloc/The_Haunted_House
+11:55:46 MAIL opera completata: Belloc/The_Hedge_and_the_Horse
+12:24:30 MAIL opera completata: Belloc/The_Historic_Thames
+13:15:20 MAIL opera completata: Belloc/The_Jews
+13:30:24 MAIL opera completata: Belloc/The_Man_Who_Made_Gold
+14:05:29 MAIL opera completata: Belloc/The_Mercy_of_Allah
+14:35:34 MAIL opera completata: Belloc/The_Missing_Masterpiece
+14:52:50 MAIL opera completata: Belloc/The_Modern_Traveller
+15:08:51 MAIL opera completata: Belloc/The_Old_Road_from_Canterbury_to_Winchester
+15:53:58 MAIL opera completata: Belloc/The_Path_to_Rome
+16:24:03 MAIL opera completata: Belloc/The_Postmaster_General
+16:34:07 MAIL opera completata: Belloc/The_River_of_London
+16:59:13 MAIL opera completata: Belloc/The_Road
+17:40:37 MAIL opera completata: Belloc/The_Romance_of_Tristan_and_Iseult
+17:40:40 MAIL opera completata: Belloc/The_Servile_State
+17:54:08 MAIL opera completata: Belloc/The_Two_Maps_of_Europe
+19:22:30   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+19:22:34 MAIL opera completata: Belloc/This_and_That_and_the_Other
+19:22:37 MAIL opera completata: Belloc/Verses
+20:27:37   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+21:32:38   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+21:32:41 MAIL opera completata: Conan_Doyle/A_DUET
+22:37:41   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+22:37:47 MAIL opera completata: Conan_Doyle/A_STUDY_IN_SCARLET
+22:37:50 MAIL opera completata: Conan_Doyle/A_VISIT_TO_THREE_FRONTS_JUNE_1916
+23:42:50   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+00:47:50   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+00:47:54 MAIL opera completata: Conan_Doyle/BEYOND_THE_CITY
+01:52:54   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+02:57:55   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+04:02:55   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+05:07:56   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+06:12:56   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+07:17:56   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+08:22:56   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+09:27:57   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+10:32:57   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+11:37:57   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+12:42:58   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+13:48:00   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+14:53:00   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+15:58:01   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+17:03:01   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+18:08:01   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+19:13:01   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+19:13:05 MAIL opera completata: Austen/Emma
+20:18:05   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+21:23:05   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+22:28:05   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+23:33:06   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+00:38:06   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+01:43:06   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+02:48:07   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+03:53:07   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+04:58:08   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+04:58:11 MAIL opera completata: Austen/Lady_Susan
+06:03:11   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+07:08:12   rescue tool error: Command '['/Library/Developer/CommandLineTools/usr/bin/python3', '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/retranslate_rejected.py', '--skip-unresolved']' timed out after 3600 seconds
+07:08:15 MAIL opera completata: Austen/Mansfield_Park

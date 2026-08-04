@@ -1,0 +1,24 @@
+[2026-07-21 09:25:02] === launcher start (pid 76771) ===
+Success! Server is now running on port 1234
+[2026-07-21 09:25:03] === translation start ===
+pending atoms: 22 / 22 in TSV
+cache warm with 885 blocks
+work: 367 prose blocks across 22 atoms
+[1/22] ok Authors/Chesterton/Atomized/ball_and_cross/Story_01_A_Discussion_Somewhat_in_the_Air/part_01.md | blocks 12/367 | 10m elapsed, ~5.1h left | 2 links need repair
+[2026-07-21 09:45:26] === translation finished (exit 143) ===
+[2026-07-21 10:07:43] === launcher start (pid 79429) ===
+Success! Server is now running on port 1234
+[2026-07-21 10:07:43] === translation start ===
+pending atoms: 5 / 5 in TSV
+cache warm with 908 blocks
+work: 37 prose blocks across 5 atoms
+[1/5] ok Authors/Chesterton/Atomized/ball_and_cross/Story_02_The_Religion_of_the_Stipendiary_Magistra/part_01.md | blocks 7/37 | 12m elapsed, ~0.8h left | 1 links need repair
+[2/5] ok Authors/Chesterton/Atomized/whats_wrong/Chapter_07/part_08.md | blocks 15/37 | 25m elapsed, ~0.6h left | 1 links need repair
+[3/5] ok Authors/Chesterton/Atomized/whats_wrong/Chapter_07/part_09.md | blocks 22/37 | 42m elapsed, ~0.5h left | 3 links need repair
+[4/5] ok Authors/Chesterton/Atomized/whats_wrong/Chapter_08/part_03.md | blocks 30/37 | 50m elapsed, ~0.2h left
+[5/5] ok Authors/Chesterton/Atomized/whats_wrong/Chapter_08/part_07.md | blocks 37/37 | 63m elapsed, ~0.0h left | 2 links need repair
+
+done: 5 written, 0 failed/rejected, cache 944 blocks
+link-repair queue: 146 blocks -> data/gkc_tower_linkfix.jsonl
+[2026-07-21 11:10:59] === translation finished (exit 0) ===
+[2026-07-21 11:10:59] === launcher done -> run_logs/chesterton_pending.DONE written (5/5) ===

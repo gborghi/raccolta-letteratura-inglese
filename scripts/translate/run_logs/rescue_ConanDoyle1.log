@@ -1,0 +1,40 @@
+07:51:24 ### rescue rejected atoms | found 443 still-missing
+07:51:24   atom Authors/Conan_Doyle/Atomized/HIS_LAST_BOW/Story_08_His_Last_Bow_The_War_Service_of_Sherlock.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:51:48     -> FIXED via HY retry #1
+07:51:48   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_02_EARLY_RECOLLECTIONS.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:52:14     -> FIXED via HY retry #1
+07:52:14   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_04_RECOLLECTIONS_OF_A_STUDENT.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:52:56     -> FIXED via HY retry #1
+07:52:56   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_07_MY_FIRST_EXPERIENCES_IN_PRACTI.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:53:26     -> FIXED via HY retry #1
+07:53:26   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_09_MY_FIRST_LITERARY_SUCCESS.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:53:57     -> FIXED via HY retry #1
+07:53:57   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_11_THE_GREAT_BREAK.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:54:28     -> FIXED via HY retry #1
+07:54:28   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_13_NORWOOD_AND_SWITZERLAND.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:55:08     -> FIXED via HY retry #1
+07:55:08   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_14_EGYPT_IN_1896.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:55:39     -> FIXED via HY retry #1
+07:55:39   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_15_ON_THE_EDGE_OF_A_STORM.md  (was: tower failed after 3 tries: <HTTPError 400: 'Bad Request'>)
+07:56:21     -> FIXED via HY retry #1
+07:56:21   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_16_AN_INTERLUDE_OF_PEACE.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:57:16     -> FIXED via HY retry #1
+07:57:16   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_17_THE_START_FOR_SOUTH_AFRICA.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:58:39     -> FIXED via HY retry #1
+07:58:39   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_18_DAYS_WITH_THE_ARMY.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:59:30     -> FIXED via HY retry #1
+07:59:30   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_19_FINAL_EXPERIENCES_IN_SOUTH_AFR.md  (was: tower failed after 3 tries: <HTTPError 400: 'Bad Request'>)
+08:00:09     -> FIXED via HY retry #1
+08:00:09   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_26_TO_THE_ROCKY_MOUNTAINS_IN_1914.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+08:00:59     -> FIXED via HY retry #1
+08:00:59   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_28_A_REMEMBRANCE_OF_THE_DARK_YEAR.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+08:01:39     -> FIXED via HY retry #1
+08:01:39   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_30_EXPERIENCES_ON_THE_ITALIAN_FRO.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+08:02:09     -> FIXED via HY retry #1
+08:02:09   atom Authors/Conan_Doyle/Atomized/MEMORIES_AND_ADVENTURES/Chapter_33_THE_PSYCHIC_QUEST.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+08:02:30     -> FIXED via HY retry #1
+08:02:30   atom Authors/Conan_Doyle/Atomized/MICAH_CLARKE/Chapter_01_Of_Cornet_Joseph_Clarke_of_the.md  (was: tower failed after 3 tries: <HTTPError 400: 'Bad Request'>)
+08:03:09     -> FIXED via HY retry #1
+08:03:09   atom Authors/Conan_Doyle/Atomized/MICAH_CLARKE/Chapter_04_Of_the_Strange_Fish_that_we_Ca.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+08:03:32     -> FIXED via HY retry #1
+08:03:32   atom Authors/Conan_Doyle/Atomized/MICAH_CLARKE/Chapter_09_Of_a_Passage_of_Arms_at_the_Bl.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)

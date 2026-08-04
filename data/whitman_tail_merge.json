@@ -1,0 +1,72 @@
+{
+  "_comment": "Whitman ha 350 note-opera *(Whitman).md* con lo stesso vocabolario `cluster:` di Dickinson e Keats, ma la coda e' lunghissima: 47 cluster sorgente, di cui 33 sotto i 7 membri (88 poesie in tutto, sei cluster da UNO). Questa tabella piega quei 33 nei 14 cluster gia' grossi, cosi' che ogni collection finale abbia almeno 10 componimenti. Chiave = cluster sorgente, valore = cluster finale; un'etichetta che mappa su se stessa e' un finale.",
+  "_comment_soglia": "Soglia >=7 come per Keats. I 14 finali coincidono con i 14 cluster sorgente che gia' la superavano: nessun finale e' inventato, si assorbe solo la coda.",
+  "_comment_long_works": "Cinque file _raw restano fuori dalle collection (vedi LONG_WORKS in scripts/whitman/build_whitman_clusters.mjs): Complete_Prose_Works.md (1,4 MB di prosa, gia' atomizzato), Leaves_of_Grass.md (827 KB: e' il contenitore di TUTTE le poesie numerate, finirebbe duplicato nella collection), Drum-Taps.md (100 KB, stesso problema per la sezione di guerra), 025_Starting_from_Paumanok.md (gia' atomizzato con pagina propria), 026_Song_of_Myself.md (101 KB e 52 sezioni: come la 025 merita una pagina propria atomizzata, non una riga dentro una raccolta).",
+  "_comment_ship": "`Ship · Endurance` e `Journey · Ship` erano due cluster distinti sulla stessa immagine: uniti sotto `Journey · Ship`, che assorbe anche `Allegory · Quest · Pilgrim` e la strada di `Wine and Drink · Ballad Ballade · Road`.",
+  "_comment_religione": "I quattro cluster religiosi minuscoli (Faith, Bible/Fall, Grace/Eucharist, Christianity/Doubt: 5 poesie in totale) confluiscono in `Wonder and Gratitude · Sublime · Storm`, che in Whitman e' il registro dello stupore religioso.",
+  "_comment_morte": "`Death · Silence · Bells`, `Ghosts`, `Vanitas`, `Transience`, `Ruins the Abbey` e `Supernatural · Uncanny · Double` (17 poesie) vanno tutte in `Mortality · Grave · Memento Mori`, che da 7 sale a 22: e' la raccolta funebre, distinta da `Grief and Loss · Elegy` che resta il registro del lutto e del ricordo (assorbe `Memory and Time` e `Melancholy`).",
+  "_comment_eros": "`Greek Mythology · Lust Sexual Desire · Desire`, `Friendship · Tears` e `Unrequited Frustrated Love` finiscono in `Comradeship · Union · Hands Hand in Hand`, cioe' il Calamus: e' li' che in Whitman vivono amicizia ed eros.",
+  "_comment_politica": "`Satire of Society`, `City · London · Theatrum Mundi` (la folla urbana whitmaniana e' la massa democratica) e `Essay · Critique of Progress · Common Man` vanno con `Nationalism and Patriotism · Democracy`.",
+  "_comment_orfani": "34 file in _raw non hanno alcuna nota-opera e quindi NON entrano in nessuna collection: 33 poesie brevi (150-3.505 byte) piu' The_Wound_Dresser.md, che pero' ha gia' una cartella Atomized/ e una pagina. Lo script li elenca a fine dry-run: vanno decisi a parte.",
+
+  "Identity · Free Verse · Eternal Return": "Identity · Free Verse · Eternal Return",
+  "Nationalism and Patriotism · Democracy · Liberty Political Freedom": "Nationalism and Patriotism · Democracy · Liberty Political Freedom",
+  "Self-Knowledge · Immortality · Self-Reliance": "Self-Knowledge · Immortality · Self-Reliance",
+  "Comradeship · Union · Hands Hand in Hand": "Comradeship · Union · Hands Hand in Hand",
+  "War and its Cost · American Civil War · Battlefield": "War and its Cost · American Civil War · Battlefield",
+  "Nature · Book of Nature · Natural Order": "Nature · Book of Nature · Natural Order",
+  "Stars · Night · Military Camp": "Stars · Night · Military Camp",
+  "Grief and Loss · Elegy · Clothing and Costume": "Grief and Loss · Elegy · Clothing and Costume",
+  "Journey · Ship": "Journey · Ship",
+  "Sea · Water": "Sea · Water",
+  "Wonder and Gratitude · Sublime · Storm": "Wonder and Gratitude · Sublime · Storm",
+  "Birds · Music and Song · Nightingale": "Birds · Music and Song · Nightingale",
+  "Heroism · Hero · Last Stand": "Heroism · Hero · Last Stand",
+  "Mortality · Grave · Memento Mori": "Mortality · Grave · Memento Mori",
+
+  "Poet as Prophet · Prophet · Romantic Movement (Sensibility)": "Identity · Free Verse · Eternal Return",
+  "Maturation and Growth · Childhood · Innocence and Experience": "Identity · Free Verse · Eternal Return",
+
+  "Satire of Society · Epigram · Satire": "Nationalism and Patriotism · Democracy · Liberty Political Freedom",
+  "City · London · Theatrum Mundi": "Nationalism and Patriotism · Democracy · Liberty Political Freedom",
+  "Essay · Critique of Progress · Common Man": "Nationalism and Patriotism · Democracy · Liberty Political Freedom",
+
+  "Appearance vs Reality · Beauty · Eyes and Sight": "Self-Knowledge · Immortality · Self-Reliance",
+  "Temptation · Good vs Evil · Serpent Snake": "Self-Knowledge · Immortality · Self-Reliance",
+
+  "Greek Mythology · Lust Sexual Desire · Desire": "Comradeship · Union · Hands Hand in Hand",
+  "Friendship · Tears": "Comradeship · Union · Hands Hand in Hand",
+  "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet": "Comradeship · Union · Hands Hand in Hand",
+
+  "Swords and Weapons · Power and Corruption · Tyrant": "War and its Cost · American Civil War · Battlefield",
+
+  "Flowers · Spring · Garden": "Nature · Book of Nature · Natural Order",
+  "Seasons · Winter · Autumn": "Nature · Book of Nature · Natural Order",
+  "Ode · Nature vs Civilization · Pastoral Retreat": "Nature · Book of Nature · Natural Order",
+
+  "Sun · Light and Dark · Fire": "Stars · Night · Military Camp",
+
+  "Memory and Time · Memory · Nostalgia": "Grief and Loss · Elegy · Clothing and Costume",
+  "Melancholy · Suffering · Pain and Suffering": "Grief and Loss · Elegy · Clothing and Costume",
+
+  "Ship · Endurance": "Journey · Ship",
+  "Allegory · Quest · Pilgrim": "Journey · Ship",
+  "Wine and Drink · Ballad Ballade · Road": "Journey · Ship",
+
+  "Faith · Providence · Divine Love": "Wonder and Gratitude · Sublime · Storm",
+  "Bible · Sin and the Fall · Fall from Innocence": "Wonder and Gratitude · Sublime · Storm",
+  "Grace and Redemption · Humility · Bread and Wine Eucharist": "Wonder and Gratitude · Sublime · Storm",
+  "Christianity · Faith and Doubt · Doubt": "Wonder and Gratitude · Sublime · Storm",
+
+  "Joy · Animals · Comic Verse Song": "Birds · Music and Song · Nightingale",
+  "World Upside Down · Comedy": "Birds · Music and Song · Nightingale",
+
+  "Martyrdom · Martyr Saint · Cross": "Heroism · Hero · Last Stand",
+
+  "Death · Silence · Bells": "Mortality · Grave · Memento Mori",
+  "Ghosts · Ghost · Death and Love": "Mortality · Grave · Memento Mori",
+  "Vanitas · Contemptus Mundi · Vanity of Worldly Things": "Mortality · Grave · Memento Mori",
+  "Transience · Decay · Carpe Diem": "Mortality · Grave · Memento Mori",
+  "Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt": "Mortality · Grave · Memento Mori",
+  "Supernatural · Uncanny · Double": "Mortality · Grave · Memento Mori"
+}

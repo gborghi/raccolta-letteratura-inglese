@@ -1,0 +1,14 @@
+{
+ "_": "Play-level <Play>.md files that shakespeare_assemble.py cannot build from the scene atoms, because the English source's play file and its atoms disagree. Source corruption is NEVER repaired - it is translated in place - so each of these needs a block translated by hand/agent before assembly can complete.",
+ "A_Midsummer_Nights_Dream": {
+  "assemble_status": "PARTIAL",
+  "rows_substituted": 512,
+  "miss": "Act_5/Scene_2.md (rows not found in play file)",
+  "diagnosis": [
+   "The play file carries the complete real Act 5 Scene 1 at lines 547-693 (~144 table rows). NO scene atom covers it.",
+   "Act_5/Scene_1.md is instead a 27-row truncated duplicate of that scene, matching the play file only at line 711, inside a trailing 'ADDITIONAL PASSAGES' block, after which it bleeds into KING JOHN material (editorial headnote + 'THE PERSONS OF THE PLAY' for King John).",
+   "The play file's '### Atto 5, Scena 2' section at line 695 is broken mid-table: lines 703-713 lose their pipe delimiters ('[[Titania|TITANIA]]', '[[Oberon|OBERON]]', 'ROBIN', 'ADDITIONAL PASSAGES', '5, 1' as bare lines), so Act_5/Scene_2.md's 10 rows exist in the play file only as a non-contiguous run and cannot be located."
+  ],
+  "to_finish": "Translate the ~144 rows of the real Act 5 Scene 1 (play file lines 551-693) plus the split Act 5 Scene 2 rows fresh, then re-run assemble. The 10 scene atoms themselves are all OK and need no work."
+ }
+}

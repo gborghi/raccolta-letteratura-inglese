@@ -1,0 +1,779 @@
+{
+  "generated": "2026-08-03T18:31:02.185Z",
+  "finals": [
+    {
+      "label": "Imagination · Fragment · Heroic Couplet",
+      "slug": "imagination-fragment-heroic-couplet",
+      "members": [
+        {
+          "note": "A Draught of Sunshine (Keats).md",
+          "title": "A Draught of Sunshine",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/077_A_Draught_of_Sunshine.md"
+        },
+        {
+          "note": "ADDRESSED TO THE SAME (Keats).md",
+          "title": "ADDRESSED TO THE SAME",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/025_ADDRESSED_TO_THE_SAME.md"
+        },
+        {
+          "note": "Epistle to John Hamilton Reynolds (Keats).md",
+          "title": "Epistle to John Hamilton Reynolds",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/094_Epistle_to_John_Hamilton_Reynolds.md"
+        },
+        {
+          "note": "Fragment of an Ode to Maia, (Keats).md",
+          "title": "Fragment of an Ode to Maia,",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/096_Fragment_of_an_Ode_to_Maia.md"
+        },
+        {
+          "note": "I STOOD TIP-TOE UPON A LITTLE HILL (Keats).md",
+          "title": "I STOOD TIP-TOE UPON A LITTLE HILL",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/000_I_STOOD_TIP-TOE_UPON_A_LITTLE_HILL.md"
+        },
+        {
+          "note": "La Belle Dame Sans Merci (Keats).md",
+          "title": "La Belle Dame Sans Merci",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/125_La_Belle_Dame_Sans_Merci.md"
+        },
+        {
+          "note": "ON RECEIVING A CURIOUS SHELL, AND A COPY OF VERSES, FROM THE SAME LADIES (Keats).md",
+          "title": "ON RECEIVING A CURIOUS SHELL, AND A COPY OF VERSES, FROM THE SAME LADIES",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/004_ON_RECEIVING_A_CURIOUS_SHELL_AND_A_COPY_OF_VERSES_FROM_THE_SAME_LADIES.md"
+        },
+        {
+          "note": "SLEEP AND POETRY (Keats).md",
+          "title": "SLEEP AND POETRY",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/029_SLEEP_AND_POETRY.md"
+        },
+        {
+          "note": "Sonnet This pleasant tale is like a little copse (Keats).md",
+          "title": "Sonnet: This pleasant tale is like a little copse",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/059_Sonnet_This_pleasant_tale_is_like_a_little_copse.md"
+        },
+        {
+          "note": "Sonnet to the Nile (Keats).md",
+          "title": "Sonnet to the Nile",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/078_Sonnet_to_the_Nile.md"
+        },
+        {
+          "note": "TO MY BROTHER GEORGE (Keats).md",
+          "title": "TO MY BROTHER GEORGE",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/010_TO_MY_BROTHER_GEORGE.md"
+        },
+        {
+          "note": "The Castle Builder - Fragments of a Dialogue (Keats).md",
+          "title": "The Castle Builder - Fragments of a Dialogue",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/070_The_Castle_Builder_-_Fragments_of_a_Dialogue.md"
+        },
+        {
+          "note": "The Poet - A Fragment (Keats).md",
+          "title": "The Poet - A Fragment",
+          "atom": "Authors/Keats/Atomized/imagination-fragment-heroic-couplet/068_The_Poet_-_A_Fragment.md"
+        }
+      ]
+    },
+    {
+      "label": "Joy · Animals · Comic Verse Song",
+      "slug": "joy-animals-comic-verse-song",
+      "members": [
+        {
+          "note": "A Galloway Song (Keats).md",
+          "title": "A Galloway Song",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/101_A_Galloway_Song.md"
+        },
+        {
+          "note": "A Song of Opposites (Keats).md",
+          "title": "A Song of Opposites",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/071_A_Song_of_Opposites.md"
+        },
+        {
+          "note": "An Extempore (Keats).md",
+          "title": "An Extempore",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/122_An_Extempore.md"
+        },
+        {
+          "note": "Apollo and the Graces (Keats).md",
+          "title": "Apollo and the Graces",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/130_Apollo_and_the_Graces.md"
+        },
+        {
+          "note": "Daisy’s Song (Keats).md",
+          "title": "Daisy’s Song",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/085_Daisys_Song.md"
+        },
+        {
+          "note": "ISABELLA (Keats).md",
+          "title": "ISABELLA",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/030_ISABELLA.md"
+        },
+        {
+          "note": "LINES ON THE MERMAID TAVERN (Keats).md",
+          "title": "LINES ON THE MERMAID TAVERN",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/037_LINES_ON_THE_MERMAID_TAVERN.md"
+        },
+        {
+          "note": "ROBIN HOOD (Keats).md",
+          "title": "ROBIN HOOD",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/038_ROBIN_HOOD.md"
+        },
+        {
+          "note": "Song Spirit here that reignest! (Keats).md",
+          "title": "Song: Spirit here that reignest!",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/091_Song_Spirit_here_that_reignest.md"
+        },
+        {
+          "note": "Song of Four Faeries - Fire, Air, Earth, and Water - (Keats).md",
+          "title": "Song of Four Faeries - Fire, Air, Earth, and Water -",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/126_Song_of_Four_Faeries_-_Fire_Air_Earth_and_Water_-.md"
+        },
+        {
+          "note": "Sonnet to a Cat (Keats).md",
+          "title": "Sonnet to a Cat",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/072_Sonnet_to_a_Cat.md"
+        },
+        {
+          "note": "Two or Three (Keats).md",
+          "title": "Two or Three",
+          "atom": "Authors/Keats/Atomized/joy-animals-comic-verse-song/124_Two_or_Three.md"
+        }
+      ]
+    },
+    {
+      "label": "Satire of Society · Epigram · Satire",
+      "slug": "satire-of-society-epigram-satire",
+      "members": [
+        {
+          "note": "A Party of Lovers (Keats).md",
+          "title": "A Party of Lovers",
+          "atom": "Authors/Keats/Atomized/satire-of-society-epigram-satire/132_A_Party_of_Lovers.md"
+        },
+        {
+          "note": "ADDRESSED TO HAYDON (Keats).md",
+          "title": "ADDRESSED TO HAYDON",
+          "atom": "Authors/Keats/Atomized/satire-of-society-epigram-satire/024_ADDRESSED_TO_HAYDON.md"
+        },
+        {
+          "note": "Ben Nevis - a Dialogue (Keats).md",
+          "title": "Ben Nevis - a Dialogue",
+          "atom": "Authors/Keats/Atomized/satire-of-society-epigram-satire/109_Ben_Nevis_-_a_Dialogue.md"
+        },
+        {
+          "note": "Folly’s Song (Keats).md",
+          "title": "Folly’s Song",
+          "atom": "Authors/Keats/Atomized/satire-of-society-epigram-satire/086_Follys_Song.md"
+        },
+        {
+          "note": "Modern Love (Keats).md",
+          "title": "Modern Love",
+          "atom": "Authors/Keats/Atomized/satire-of-society-epigram-satire/069_Modern_Love.md"
+        },
+        {
+          "note": "Ode on Indolence (Keats).md",
+          "title": "Ode on Indolence",
+          "atom": "Authors/Keats/Atomized/satire-of-society-epigram-satire/119_Ode_on_Indolence.md"
+        },
+        {
+          "note": "On Oxford A Parody (Keats).md",
+          "title": "On Oxford A Parody",
+          "atom": "Authors/Keats/Atomized/satire-of-society-epigram-satire/067_On_Oxford_A_Parody.md"
+        },
+        {
+          "note": "Sonnet Before he went to feed with owls and bats (Keats).md",
+          "title": "Sonnet: Before he went to feed with owls and bats",
+          "atom": "Authors/Keats/Atomized/satire-of-society-epigram-satire/056_Sonnet_Before_he_went_to_feed_with_owls_and_bats.md"
+        },
+        {
+          "note": "Sonnet on Hearing the Bagpipe and (Keats).md",
+          "title": "Sonnet on Hearing the Bagpipe and",
+          "atom": "Authors/Keats/Atomized/satire-of-society-epigram-satire/106_Sonnet_on_Hearing_the_Bagpipe_and.md"
+        },
+        {
+          "note": "The Gadfly (Keats).md",
+          "title": "The Gadfly",
+          "atom": "Authors/Keats/Atomized/satire-of-society-epigram-satire/105_The_Gadfly.md"
+        }
+      ]
+    },
+    {
+      "label": "Melancholy · Suffering · Pain and Suffering",
+      "slug": "melancholy-suffering-pain-and-suffering",
+      "members": [
+        {
+          "note": "A Prophecy to George Keats in America (Keats).md",
+          "title": "A Prophecy: to George Keats in America",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/111_A_Prophecy_to_George_Keats_in_America.md"
+        },
+        {
+          "note": "Bright star! would I were steadfast as thou art (Keats).md",
+          "title": "Bright star! would I were steadfast as thou art",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/139_Bright_star_would_I_were_steadfast_as_thou_art.md"
+        },
+        {
+          "note": "Faery Songs (Keats).md",
+          "title": "Faery Songs",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/089_Faery_Songs.md"
+        },
+        {
+          "note": "Lines Supposed to Have Been Addressed to Fanny Brawne (Keats).md",
+          "title": "Lines Supposed to Have Been Addressed to Fanny Brawne",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/138_Lines_Supposed_to_Have_Been_Addressed_to_Fanny_Brawne.md"
+        },
+        {
+          "note": "Lines to Fanny (Keats).md",
+          "title": "Lines to Fanny",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/134_Lines_to_Fanny.md"
+        },
+        {
+          "note": "Meg Merrilies (Keats).md",
+          "title": "Meg Merrilies",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/099_Meg_Merrilies.md"
+        },
+        {
+          "note": "On Death (Keats).md",
+          "title": "On Death",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/041_On_Death.md"
+        },
+        {
+          "note": "Song I had a dove and the sweet dove died (Keats).md",
+          "title": "Song: I had a dove and the sweet dove died",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/118_Song_I_had_a_dove_and_the_sweet_dove_died.md"
+        },
+        {
+          "note": "Sonnet Why did I laugh tonight No voice will tell (Keats).md",
+          "title": "Sonnet: Why did I laugh tonight? No voice will tell",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/120_Sonnet_Why_did_I_laugh_tonight_No_voice_will_tell.md"
+        },
+        {
+          "note": "Sonnet to Chatterton (Keats).md",
+          "title": "Sonnet to Chatterton",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/046_Sonnet_to_Chatterton.md"
+        },
+        {
+          "note": "Staffa (Keats).md",
+          "title": "Staffa",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/107_Staffa.md"
+        },
+        {
+          "note": "THE EVE OF ST. AGNES (Keats).md",
+          "title": "THE EVE OF ST. AGNES",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/031_THE_EVE_OF_ST_AGNES.md"
+        },
+        {
+          "note": "TO HOPE (Keats).md",
+          "title": "TO HOPE",
+          "atom": "Authors/Keats/Atomized/melancholy-suffering-pain-and-suffering/006_TO_HOPE.md"
+        }
+      ]
+    },
+    {
+      "label": "Self-Knowledge · Immortality · Self-Reliance",
+      "slug": "self-knowledge-immortality-self-reliance",
+      "members": [
+        {
+          "note": "A Song About Myself (Keats).md",
+          "title": "A Song About Myself",
+          "atom": "Authors/Keats/Atomized/self-knowledge-immortality-self-reliance/100_A_Song_About_Myself.md"
+        },
+        {
+          "note": "Lines On Seeing a Lock of Milton’s Hair (Keats).md",
+          "title": "Lines On Seeing a Lock of Milton’s Hair",
+          "atom": "Authors/Keats/Atomized/self-knowledge-immortality-self-reliance/073_Lines_On_Seeing_a_Lock_of_Miltons_Hair.md"
+        },
+        {
+          "note": "ODE (Keats).md",
+          "title": "ODE",
+          "atom": "Authors/Keats/Atomized/self-knowledge-immortality-self-reliance/036_ODE.md"
+        },
+        {
+          "note": "ODE ON A GRECIAN URN (Keats).md",
+          "title": "ODE ON A GRECIAN URN",
+          "atom": "Authors/Keats/Atomized/self-knowledge-immortality-self-reliance/033_ODE_ON_A_GRECIAN_URN.md"
+        },
+        {
+          "note": "Ode to Apollo (Keats).md",
+          "title": "Ode to Apollo",
+          "atom": "Authors/Keats/Atomized/self-knowledge-immortality-self-reliance/048_Ode_to_Apollo.md"
+        },
+        {
+          "note": "Sonnet As from the darkening gloom a silver dove (Keats).md",
+          "title": "Sonnet: As from the darkening gloom a silver dove",
+          "atom": "Authors/Keats/Atomized/self-knowledge-immortality-self-reliance/053_Sonnet_As_from_the_darkening_gloom_a_silver_dove.md"
+        },
+        {
+          "note": "Sonnet Written in Disgust of Vulgar Superstition (Keats).md",
+          "title": "Sonnet Written in Disgust of Vulgar Superstition",
+          "atom": "Authors/Keats/Atomized/self-knowledge-immortality-self-reliance/057_Sonnet_Written_in_Disgust_of_Vulgar_Superstition.md"
+        },
+        {
+          "note": "Sonnet Written upon the Top of Ben Nevis (Keats).md",
+          "title": "Sonnet Written upon the Top of Ben Nevis",
+          "atom": "Authors/Keats/Atomized/self-knowledge-immortality-self-reliance/108_Sonnet_Written_upon_the_Top_of_Ben_Nevis.md"
+        },
+        {
+          "note": "Sonnet on Sitting Down to Read King Lear Once Again (Keats).md",
+          "title": "Sonnet on Sitting Down to Read King Lear Once Again",
+          "atom": "Authors/Keats/Atomized/self-knowledge-immortality-self-reliance/074_Sonnet_on_Sitting_Down_to_Read_King_Lear_Once_Again.md"
+        },
+        {
+          "note": "The Eve of Saint Mark (Keats).md",
+          "title": "The Eve of Saint Mark",
+          "atom": "Authors/Keats/Atomized/self-knowledge-immortality-self-reliance/114_The_Eve_of_Saint_Mark.md"
+        }
+      ]
+    },
+    {
+      "label": "Friendship · Tears",
+      "slug": "friendship-tears",
+      "members": [
+        {
+          "note": "Acrostic (Keats).md",
+          "title": "Acrostic",
+          "atom": "Authors/Keats/Atomized/friendship-tears/097_Acrostic.md"
+        },
+        {
+          "note": "IMITATION OF SPENSER (Keats).md",
+          "title": "IMITATION OF SPENSER",
+          "atom": "Authors/Keats/Atomized/friendship-tears/007_IMITATION_OF_SPENSER.md"
+        },
+        {
+          "note": "KEEN, FITFUL GUSTS ARE WHISP’RING HERE AND THERE (Keats).md",
+          "title": "KEEN, FITFUL GUSTS ARE WHISP’RING HERE AND THERE",
+          "atom": "Authors/Keats/Atomized/friendship-tears/020_KEEN_FITFUL_GUSTS_ARE_WHISPRING_HERE_AND_THERE.md"
+        },
+        {
+          "note": "Spenserian Stanza (Keats).md",
+          "title": "Spenserian Stanza",
+          "atom": "Authors/Keats/Atomized/friendship-tears/113_Spenserian_Stanza.md"
+        },
+        {
+          "note": "Spenserian Stanzas on Charles Armitage Brown (Keats).md",
+          "title": "Spenserian Stanzas on Charles Armitage Brown",
+          "atom": "Authors/Keats/Atomized/friendship-tears/123_Spenserian_Stanzas_on_Charles_Armitage_Brown.md"
+        },
+        {
+          "note": "TO CHARLES COWDEN CLARKE (Keats).md",
+          "title": "TO CHARLES COWDEN CLARKE",
+          "atom": "Authors/Keats/Atomized/friendship-tears/011_TO_CHARLES_COWDEN_CLARKE.md"
+        },
+        {
+          "note": "TO GEORGE FELTON MATHEW (Keats).md",
+          "title": "TO GEORGE FELTON MATHEW",
+          "atom": "Authors/Keats/Atomized/friendship-tears/009_TO_GEORGE_FELTON_MATHEW.md"
+        },
+        {
+          "note": "TO MY BROTHERS (Keats).md",
+          "title": "TO MY BROTHERS",
+          "atom": "Authors/Keats/Atomized/friendship-tears/019_TO_MY_BROTHERS.md"
+        },
+        {
+          "note": "TO SOME LADIES (Keats).md",
+          "title": "TO SOME LADIES",
+          "atom": "Authors/Keats/Atomized/friendship-tears/003_TO_SOME_LADIES.md"
+        }
+      ]
+    },
+    {
+      "label": "Crown · Pride · Fortune's Wheel",
+      "slug": "crown-pride-fortunes-wheel",
+      "members": [
+        {
+          "note": "CALIDORE (Keats).md",
+          "title": "CALIDORE",
+          "atom": "Authors/Keats/Atomized/crown-pride-fortunes-wheel/002_CALIDORE.md"
+        },
+        {
+          "note": "Hymn to Apollo (Keats).md",
+          "title": "Hymn to Apollo",
+          "atom": "Authors/Keats/Atomized/crown-pride-fortunes-wheel/052_Hymn_to_Apollo.md"
+        },
+        {
+          "note": "King Stephen (Keats).md",
+          "title": "King Stephen",
+          "atom": "Authors/Keats/Atomized/crown-pride-fortunes-wheel/144_King_Stephen.md"
+        },
+        {
+          "note": "On Receiving a Laurel Crown from Leigh Hunt (Keats).md",
+          "title": "On Receiving a Laurel Crown from Leigh Hunt",
+          "atom": "Authors/Keats/Atomized/crown-pride-fortunes-wheel/050_On_Receiving_a_Laurel_Crown_from_Leigh_Hunt.md"
+        },
+        {
+          "note": "SPECIMEN OF AN INDUCTION TO A POEM (Keats).md",
+          "title": "SPECIMEN OF AN INDUCTION TO A POEM",
+          "atom": "Authors/Keats/Atomized/crown-pride-fortunes-wheel/001_SPECIMEN_OF_AN_INDUCTION_TO_A_POEM.md"
+        },
+        {
+          "note": "Sonnet on Peace (Keats).md",
+          "title": "Sonnet on Peace",
+          "atom": "Authors/Keats/Atomized/crown-pride-fortunes-wheel/044_Sonnet_on_Peace.md"
+        },
+        {
+          "note": "TO KOSCIUSKO (Keats).md",
+          "title": "TO KOSCIUSKO",
+          "atom": "Authors/Keats/Atomized/crown-pride-fortunes-wheel/027_TO_KOSCIUSKO.md"
+        },
+        {
+          "note": "To a Young Lady who Sent Me a Laurel Crown (Keats).md",
+          "title": "To a Young Lady who Sent Me a Laurel Crown",
+          "atom": "Authors/Keats/Atomized/crown-pride-fortunes-wheel/049_To_a_Young_Lady_who_Sent_Me_a_Laurel_Crown.md"
+        }
+      ]
+    },
+    {
+      "label": "Seasons · Winter · Autumn",
+      "slug": "seasons-winter-autumn",
+      "members": [
+        {
+          "note": "FANCY (Keats).md",
+          "title": "FANCY",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/035_FANCY.md"
+        },
+        {
+          "note": "Lines Written in the Highlands after a Visit to Burns’s Country (Keats).md",
+          "title": "Lines Written in the Highlands after a Visit to Burns’s Country",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/104_Lines_Written_in_the_Highlands_after_a_Visit_to_Burnss_Country.md"
+        },
+        {
+          "note": "On Seeing the Elgin Marbles (Keats).md",
+          "title": "On Seeing the Elgin Marbles",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/061_On_Seeing_the_Elgin_Marbles.md"
+        },
+        {
+          "note": "Sonnet - The Human Seasons (Keats).md",
+          "title": "Sonnet - The Human Seasons",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/083_Sonnet_-_The_Human_Seasons.md"
+        },
+        {
+          "note": "Sonnet After dark vapours have oppress’d our plains (Keats).md",
+          "title": "Sonnet: After dark vapours have oppress’d our plains",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/058_Sonnet_After_dark_vapours_have_oppressd_our_plains.md"
+        },
+        {
+          "note": "Sonnet to John Hamilton Reynolds (Keats).md",
+          "title": "Sonnet to John Hamilton Reynolds",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/081_Sonnet_to_John_Hamilton_Reynolds.md"
+        },
+        {
+          "note": "Sonnet to a Lady Seen for a Few Moments at Vauxhall (Keats).md",
+          "title": "Sonnet to a Lady Seen for a Few Moments at Vauxhall",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/079_Sonnet_to_a_Lady_Seen_for_a_Few_Moments_at_Vauxhall.md"
+        },
+        {
+          "note": "Stanzas (Keats).md",
+          "title": "Stanzas",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/112_Stanzas.md"
+        },
+        {
+          "note": "TO AUTUMN (Keats).md",
+          "title": "TO AUTUMN",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/039_TO_AUTUMN.md"
+        },
+        {
+          "note": "The day is gone, and all its sweets are gone! (Keats).md",
+          "title": "The day is gone, and all its sweets are gone!",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/133_The_day_is_gone_and_all_its_sweets_are_gone.md"
+        },
+        {
+          "note": "To — (Keats).md",
+          "title": "To —",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/063_To.md"
+        },
+        {
+          "note": "What the Thrush Said (Keats).md",
+          "title": "What the Thrush Said",
+          "atom": "Authors/Keats/Atomized/seasons-winter-autumn/082_What_the_Thrush_Said.md"
+        }
+      ]
+    },
+    {
+      "label": "Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet",
+      "slug": "unrequited-frustrated-love-unattainable-beloved-petrarchan",
+      "members": [
+        {
+          "note": "Fame, like a wayward Giri, will still be coy (Keats).md",
+          "title": "Fame, like a wayward Giri, will still be coy",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/127_Fame_like_a_wayward_Giri_will_still_be_coy.md"
+        },
+        {
+          "note": "Fill for me a brimming bowl (Keats).md",
+          "title": "Fill for me a brimming bowl",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/043_Fill_for_me_a_brimming_bowl.md"
+        },
+        {
+          "note": "HAPPY IS ENGLAND! I COULD BE CONTENT (Keats).md",
+          "title": "HAPPY IS ENGLAND! I COULD BE CONTENT",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/028_HAPPY_IS_ENGLAND_I_COULD_BE_CONTENT.md"
+        },
+        {
+          "note": "HOW MANY BARDS GILD THE LAPSES OF TIME! (Keats).md",
+          "title": "HOW MANY BARDS GILD THE LAPSES OF TIME!",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/015_HOW_MANY_BARDS_GILD_THE_LAPSES_OF_TIME.md"
+        },
+        {
+          "note": "How fever’d is the man, who cannot look (Keats).md",
+          "title": "How fever’d is the man, who cannot look",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/128_How_feverd_is_the_man_who_cannot_look.md"
+        },
+        {
+          "note": "Lines (Keats).md",
+          "title": "Lines",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/064_Lines.md"
+        },
+        {
+          "note": "O! Were I one of the Olympian twelve (Keats).md",
+          "title": "O! Were I one of the Olympian twelve",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/084_O_Were_I_one_of_the_Olympian_twelve.md"
+        },
+        {
+          "note": "ON LEAVING SOME FRIENDS AT AN EARLY HOUR (Keats).md",
+          "title": "ON LEAVING SOME FRIENDS AT AN EARLY HOUR",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/023_ON_LEAVING_SOME_FRIENDS_AT_AN_EARLY_HOUR.md"
+        },
+        {
+          "note": "Ode to Fanny (Keats).md",
+          "title": "Ode to Fanny",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/115_Ode_to_Fanny.md"
+        },
+        {
+          "note": "Song Hush, hush! tread softly! hush, hush my dear! (Keats).md",
+          "title": "Song: Hush, hush! tread softly! hush, hush my dear!",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/117_Song_Hush_hush_tread_softly_hush_hush_my_dear.md"
+        },
+        {
+          "note": "Song The stranger lighted from his steed (Keats).md",
+          "title": "Song: The stranger lighted from his steed",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/088_Song_The_stranger_lighted_from_his_steed.md"
+        },
+        {
+          "note": "Sonnet (Keats).md",
+          "title": "Sonnet:",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/121_Sonnet.md"
+        },
+        {
+          "note": "Sonnet When I have fears that I may cease to be (Keats).md",
+          "title": "Sonnet: When I have fears that I may cease to be",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/075_Sonnet_When_I_have_fears_that_I_may_cease_to_be.md"
+        },
+        {
+          "note": "Sonnet Written in the Cottage where Burns was Born (Keats).md",
+          "title": "Sonnet Written in the Cottage where Burns was Born",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/103_Sonnet_Written_in_the_Cottage_where_Burns_was_Born.md"
+        },
+        {
+          "note": "Sonnet on Visiting the Tomb of Burns (Keats).md",
+          "title": "Sonnet on Visiting the Tomb of Burns",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/098_Sonnet_on_Visiting_the_Tomb_of_Burns.md"
+        },
+        {
+          "note": "Sonnet on the Sonnet (Keats).md",
+          "title": "Sonnet on the Sonnet",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/129_Sonnet_on_the_Sonnet.md"
+        },
+        {
+          "note": "Sonnet to Fanny (Keats).md",
+          "title": "Sonnet to Fanny",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/135_Sonnet_to_Fanny.md"
+        },
+        {
+          "note": "Sonnet to Homer (Keats).md",
+          "title": "Sonnet to Homer",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/090_Sonnet_to_Homer.md"
+        },
+        {
+          "note": "TO A FRIEND WHO SENT ME SOME ROSES (Keats).md",
+          "title": "TO A FRIEND WHO SENT ME SOME ROSES",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/016_TO_A_FRIEND_WHO_SENT_ME_SOME_ROSES.md"
+        },
+        {
+          "note": "The Devon Maid (Keats).md",
+          "title": "The Devon Maid",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/093_The_Devon_Maid.md"
+        },
+        {
+          "note": "Translation from a Sonnet of Ronsard (Keats).md",
+          "title": "Translation from a Sonnet of Ronsard",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/110_Translation_from_a_Sonnet_of_Ronsard.md"
+        },
+        {
+          "note": "WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON (Keats).md",
+          "title": "WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/014_WRITTEN_ON_THE_DAY_THAT_MR_LEIGH_HUNT_LEFT_PRISON.md"
+        },
+        {
+          "note": "You Say You Love (Keats).md",
+          "title": "You Say You Love",
+          "atom": "Authors/Keats/Atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan/131_You_Say_You_Love.md"
+        }
+      ]
+    },
+    {
+      "label": "Ode · Nature vs Civilization · Pastoral Retreat",
+      "slug": "ode-nature-vs-civilization-pastoral-retreat",
+      "members": [
+        {
+          "note": "O SOLITUDE! IF I MUST WITH THEE DWELL (Keats).md",
+          "title": "O SOLITUDE! IF I MUST WITH THEE DWELL",
+          "atom": "Authors/Keats/Atomized/ode-nature-vs-civilization-pastoral-retreat/018_O_SOLITUDE_IF_I_MUST_WITH_THEE_DWELL.md"
+        },
+        {
+          "note": "ODE ON MELANCHOLY (Keats).md",
+          "title": "ODE ON MELANCHOLY",
+          "atom": "Authors/Keats/Atomized/ode-nature-vs-civilization-pastoral-retreat/040_ODE_ON_MELANCHOLY.md"
+        },
+        {
+          "note": "ODE TO PSYCHE (Keats).md",
+          "title": "ODE TO PSYCHE",
+          "atom": "Authors/Keats/Atomized/ode-nature-vs-civilization-pastoral-retreat/034_ODE_TO_PSYCHE.md"
+        },
+        {
+          "note": "ON THE GRASSHOPPER AND CRICKET (Keats).md",
+          "title": "ON THE GRASSHOPPER AND CRICKET",
+          "atom": "Authors/Keats/Atomized/ode-nature-vs-civilization-pastoral-retreat/026_ON_THE_GRASSHOPPER_AND_CRICKET.md"
+        },
+        {
+          "note": "Sonnet Oh! how I love, on a fair summer’s eve (Keats).md",
+          "title": "Sonnet: Oh! how I love, on a fair summer’s eve",
+          "atom": "Authors/Keats/Atomized/ode-nature-vs-civilization-pastoral-retreat/055_Sonnet_Oh_how_I_love_on_a_fair_summers_eve.md"
+        },
+        {
+          "note": "Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’ (Keats).md",
+          "title": "Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’",
+          "atom": "Authors/Keats/Atomized/ode-nature-vs-civilization-pastoral-retreat/066_Sonnet_on_Leigh_Hunts_Poem_The_Story_of_Rimini.md"
+        },
+        {
+          "note": "Stanzas to Miss Wylie (Keats).md",
+          "title": "Stanzas to Miss Wylie",
+          "atom": "Authors/Keats/Atomized/ode-nature-vs-civilization-pastoral-retreat/054_Stanzas_to_Miss_Wylie.md"
+        },
+        {
+          "note": "TO ONE WHO HAS BEEN LONG IN CITY PENT (Keats).md",
+          "title": "TO ONE WHO HAS BEEN LONG IN CITY PENT",
+          "atom": "Authors/Keats/Atomized/ode-nature-vs-civilization-pastoral-retreat/021_TO_ONE_WHO_HAS_BEEN_LONG_IN_CITY_PENT.md"
+        },
+        {
+          "note": "Teignmouth (Keats).md",
+          "title": "Teignmouth",
+          "atom": "Authors/Keats/Atomized/ode-nature-vs-civilization-pastoral-retreat/092_Teignmouth.md"
+        }
+      ]
+    },
+    {
+      "label": "Sea · Water",
+      "slug": "sea-water",
+      "members": [
+        {
+          "note": "ODE TO A NIGHTINGALE (Keats).md",
+          "title": "ODE TO A NIGHTINGALE",
+          "atom": "Authors/Keats/Atomized/sea-water/032_ODE_TO_A_NIGHTINGALE.md"
+        },
+        {
+          "note": "ON FIRST LOOKING INTO CHAPMAN’S HOMER (Keats).md",
+          "title": "ON FIRST LOOKING INTO CHAPMAN’S HOMER",
+          "atom": "Authors/Keats/Atomized/sea-water/022_ON_FIRST_LOOKING_INTO_CHAPMANS_HOMER.md"
+        },
+        {
+          "note": "Sonnet on a Picture of Leander (Keats).md",
+          "title": "Sonnet on a Picture of Leander",
+          "atom": "Authors/Keats/Atomized/sea-water/062_Sonnet_on_a_Picture_of_Leander.md"
+        },
+        {
+          "note": "Sonnet on the Sea (Keats).md",
+          "title": "Sonnet on the Sea",
+          "atom": "Authors/Keats/Atomized/sea-water/065_Sonnet_on_the_Sea.md"
+        },
+        {
+          "note": "Sonnet to Ailsa Rock (Keats).md",
+          "title": "Sonnet to Ailsa Rock",
+          "atom": "Authors/Keats/Atomized/sea-water/102_Sonnet_to_Ailsa_Rock.md"
+        },
+        {
+          "note": "Sonnet to Byron (Keats).md",
+          "title": "Sonnet to Byron",
+          "atom": "Authors/Keats/Atomized/sea-water/045_Sonnet_to_Byron.md"
+        },
+        {
+          "note": "Sonnet to Spenser (Keats).md",
+          "title": "Sonnet to Spenser",
+          "atom": "Authors/Keats/Atomized/sea-water/047_Sonnet_to_Spenser.md"
+        },
+        {
+          "note": "To Haydon (Keats).md",
+          "title": "To Haydon",
+          "atom": "Authors/Keats/Atomized/sea-water/060_To_Haydon.md"
+        }
+      ]
+    },
+    {
+      "label": "Appearance vs Reality · Beauty · Eyes and Sight",
+      "slug": "appearance-vs-reality-beauty-eyes-and-sight",
+      "members": [
+        {
+          "note": "Oh, I am frighten’d with most hateful thoughts! (Keats).md",
+          "title": "Oh, I am frighten’d with most hateful thoughts!",
+          "atom": "Authors/Keats/Atomized/appearance-vs-reality-beauty-eyes-and-sight/087_Oh_I_am_frightend_with_most_hateful_thoughts.md"
+        },
+        {
+          "note": "Sharing Eve’s Apple (Keats).md",
+          "title": "Sharing Eve’s Apple",
+          "atom": "Authors/Keats/Atomized/appearance-vs-reality-beauty-eyes-and-sight/076_Sharing_Eves_Apple.md"
+        },
+        {
+          "note": "Sonnet Written in Answer to a Sonnet Ending thus (Keats).md",
+          "title": "Sonnet Written in Answer to a Sonnet Ending thus:",
+          "atom": "Authors/Keats/Atomized/appearance-vs-reality-beauty-eyes-and-sight/080_Sonnet_Written_in_Answer_to_a_Sonnet_Ending_thus.md"
+        },
+        {
+          "note": "Sonnet to Sleep (Keats).md",
+          "title": "Sonnet to Sleep",
+          "atom": "Authors/Keats/Atomized/appearance-vs-reality-beauty-eyes-and-sight/116_Sonnet_to_Sleep.md"
+        },
+        {
+          "note": "TO (Keats).md",
+          "title": "TO * * * *",
+          "atom": "Authors/Keats/Atomized/appearance-vs-reality-beauty-eyes-and-sight/005_TO.md"
+        },
+        {
+          "note": "To G. A. W (Keats).md",
+          "title": "To G. A. W",
+          "atom": "Authors/Keats/Atomized/appearance-vs-reality-beauty-eyes-and-sight/017_To_G_A_W.md"
+        },
+        {
+          "note": "To the Ladies who Saw Me Crown’d (Keats).md",
+          "title": "To the Ladies who Saw Me Crown’d",
+          "atom": "Authors/Keats/Atomized/appearance-vs-reality-beauty-eyes-and-sight/051_To_the_Ladies_who_Saw_Me_Crownd.md"
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "noteFile": "Endymion - A Poetic Romance (Keats).md",
+      "rawFile": "141_Endymion_-_A_Poetic_Romance.md",
+      "title": "Endymion - A Poetic Romance"
+    },
+    {
+      "noteFile": "Hyperion (Keats).md",
+      "rawFile": "142_Hyperion.md",
+      "title": "Hyperion"
+    },
+    {
+      "noteFile": "Lamia (Keats).md",
+      "rawFile": "140_Lamia.md",
+      "title": "Lamia"
+    },
+    {
+      "noteFile": "Otho the Great (Keats).md",
+      "rawFile": "143_Otho_the_Great.md",
+      "title": "Otho the Great"
+    },
+    {
+      "noteFile": "The Cap and Bells (Keats).md",
+      "rawFile": "137_The_Cap_and_Bells.md",
+      "title": "The Cap and Bells"
+    },
+    {
+      "noteFile": "The Fall of Hyperion (Keats).md",
+      "rawFile": "136_The_Fall_of_Hyperion.md",
+      "title": "The Fall of Hyperion"
+    }
+  ]
+}

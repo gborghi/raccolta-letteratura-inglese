@@ -1,0 +1,209 @@
+{
+ "quando": "2026-08-03 22:35:56",
+ "perche": "blocchi con CJK NON riparabile da repair_half_leak (frase cinese intera, non il prefisso half-): a temperatura 0 si rifiutavano per sempre. Span tradotti a mano contro la fonte EN.",
+ "riparazioni": [
+  {
+   "line": 4255,
+   "old": "[[cheese|形式：formaggio]]",
+   "new": "[[cheese|formaggio]]",
+   "en": "cheese"
+  },
+  {
+   "line": 14127,
+   "old": "le tue idee固執",
+   "new": "le tue idee preconcette",
+   "en": "you have your prepossessions"
+  },
+  {
+   "line": 18747,
+   "old": "[[cheese|形式的奶酪]]",
+   "new": "[[cheese|formaggio]]",
+   "en": "the epoch of the cheese"
+  },
+  {
+   "line": 24901,
+   "old": "coperto da un粗布 marrone",
+   "new": "coperto da un ruvido cappotto marrone",
+   "en": "covered with a coarse brown coat"
+  },
+  {
+   "line": 33317,
+   "old": "[[L03形式]formaggio]]",
+   "new": "[[cheese|formaggio]]",
+   "en": "bread and [[cheese]] and porter -- il codice maschera L03 non era stato smascherato perche' il modello l'aveva scritto malformato"
+  },
+  {
+   "line": 33317,
+   "old": "[[Home|>casa]]",
+   "new": "[[Home|casa]]",
+   "en": "to return [[Home|home]] -- freccia spuria sopravvissuta allo smascheramento"
+  },
+  {
+   "line": 49032,
+   "old": "[[cheese|形式奶酪]]",
+   "new": "[[cheese|formaggio]]",
+   "en": "bread; cheese"
+  },
+  {
+   "line": 51141,
+   "old": "di散布 foglie di nebbia",
+   "new": "di disperdere la nebbia stessa",
+   "en": "Instead of scattering the very fog with their shouts"
+  },
+  {
+   "line": 53818,
+   "old": "topo半死不活",
+   "new": "topo mezzo morto",
+   "en": "as a cat might stimulate a half-dead mouse"
+  },
+  {
+   "line": 58170,
+   "old": "vestito con un粗呢大衣 di colore blu",
+   "new": "vestito con un ruvido cappotto di colore blu",
+   "en": "habited in a coarse, blue coat"
+  },
+  {
+   "line": 64377,
+   "old": "Il熊跑得比人快。",
+   "new": "L’orso era più veloce dell’uomo,",
+   "en": "The Bear was faster than the Man,"
+  },
+  {
+   "line": 64526,
+   "old": "mentre i巨大i cinghiali",
+   "new": "mentre gli enormi cinghiali",
+   "en": "while Huge Wild Boars"
+  },
+  {
+   "line": 73323,
+   "old": "del Medioevo初期",
+   "new": "del primo Medioevo",
+   "en": "the enormous vigour of the early Middle Ages"
+  },
+  {
+   "line": 76087,
+   "old": "della Chiesa低教会派",
+   "new": "della Chiesa Bassa",
+   "en": "neither a ritualist nor a low-churchman"
+  },
+  {
+   "line": 87444,
+   "old": "[[Louis XIV|路易十四]]",
+   "new": "[[Louis XIV|Luigi XIV]]",
+   "en": "Louis XIV"
+  },
+  {
+   "line": 103719,
+   "old": "del Medioevo初期",
+   "new": "del primo Medioevo",
+   "en": "the early Middle Ages (x2)",
+   "count": 2
+  },
+  {
+   "line": 104625,
+   "old": "dei犹太人 stessi",
+   "new": "degli ebrei stessi",
+   "en": "more powerful than the Jews themselves"
+  },
+  {
+   "line": 104775,
+   "old": "ai犹太人 stessi",
+   "new": "agli ebrei stessi",
+   "en": "left to the Jews themselves"
+  },
+  {
+   "line": 104811,
+   "old": "sui犹太人 stessi",
+   "new": "sugli ebrei stessi",
+   "en": "the effects upon the Jews themselves"
+  },
+  {
+   "line": 120095,
+   "old": "[[cheese|形式奶酪]]",
+   "new": "[[cheese|formaggio]]",
+   "en": "bread and cheese"
+  },
+  {
+   "line": 120412,
+   "old": "半透明a",
+   "new": "per metà a vetri",
+   "en": "the hall-door, half of glass, stood open"
+  },
+  {
+   "line": 122497,
+   "old": "[[cheese|形式奶酪]]",
+   "new": "[[cheese|formaggio]]",
+   "en": "his supper of bread and cheese"
+  },
+  {
+   "line": 123793,
+   "old": "[[cheese|形式的奶酪]]",
+   "new": "[[cheese|formaggio]]",
+   "en": "The cheese, too,"
+  },
+  {
+   "line": 125405,
+   "old": "[[cheese|形式奶酪]]",
+   "new": "[[cheese|formaggio]]",
+   "en": "I can tell cheese fro' chalk"
+  },
+  {
+   "line": 125405,
+   "old": "[[chalk|形式白垩]]",
+   "new": "[[chalk|gesso]]",
+   "en": "I can tell cheese fro' chalk"
+  },
+  {
+   "line": 129387,
+   "old": "Usando la针",
+   "new": "Usando l’ago",
+   "en": "in using the needle for themselves"
+  },
+  {
+   "line": 130982,
+   "old": "Tra完全陌生的人之间",
+   "new": "Tra perfetti sconosciuti",
+   "en": "amongst utter strangers?"
+  },
+  {
+   "line": 131493,
+   "old": "sul mio肩",
+   "new": "sulla mia spalla",
+   "en": "leaning over my shoulder"
+  },
+  {
+   "line": 147307,
+   "old": "Un粗陋 giaciglio",
+   "new": "Un rozzo giaciglio",
+   "en": "a rude couch of rushes"
+  },
+  {
+   "line": 172265,
+   "old": "un forte印象e",
+   "new": "una forte impressione",
+   "en": "She had a strong impression of his having"
+  },
+  {
+   "line": 178049,
+   "old": "nell’描述 un manico",
+   "new": "la descrizione di un manico",
+   "en": "how to exaggerate a broom-stick"
+  },
+  {
+   "line": 187412,
+   "old": "[[cheese|形式]]formaggio]]",
+   "new": "[[cheese|formaggio]]",
+   "en": "the cheese"
+  },
+  {
+   "h": "72cf7881e2a8fd8ba46c51d1b4f2fa76fe74c016",
+   "cache": "scratchpad/chesterton_cache.jsonl",
+   "old": "[[cheese|形式]]formaggio]]",
+   "new": "[[cheese|formaggio]]",
+   "en": "took it and the [[cheese]] to be stowed in the bottom of the cart",
+   "atom": "Authors/Chesterton/Atomized/The_Flying_Inn/Chapter_05_THE_ASTONISHMENT_OF_THE_AGENT/part_02.md",
+   "data": "2026-08-04",
+   "nota": "stessa forma della voce di riga 187412: il codice maschera resta dentro la label e la chiude, lasciando un ']]' di troppo. Difetto unico su 188k blocchi effettivi: riparato a mano, NON allargando repair_mask_codes"
+  }
+ ]
+}

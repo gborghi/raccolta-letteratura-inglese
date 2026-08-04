@@ -1,0 +1,31 @@
+# [[FourFaultlessFelons]] — V I termini di un traditore (parte 1)
+
+V I TERMINI DI UN TRADITORE
+
+Un unico pensiero, simile a una nube tempestosa, incombeva su Pavonia, sul suo palazzo e sulla sua principale [[City|città]]; quella sorta di concentrazione che di solito s'impadronisce soltanto di qualche ignorante villaggio dove un [[Prophet|profeta]] o un fanatico ha predetto l'imminente fine del mondo. Gli ultimi proclami avevano avuto il loro effetto; perfino i più noncuranti erano ormai convinti che da un momento all'altro una vasta invasione su tutte le frontiere, o una spaventosa esplosione nel cuore della [[City|città]], sarebbe giunta a un qualche segnale che essi non conoscevano, e per un qualche gesto che non potevano arrestare. L'invasione straniera era forse avvertita come la più esasperante delle due, ma tanto più erano sconcertati in quanto su tutto quel misterioso movimento era aleggiata l'[[Shadow|ombra]], o il sentore, di qualcosa di straniero. Si ammetteva che la reputazione del Professor Phocus fosse ancora maggiore in altri paesi che non nel suo; la gente cominciava a chiedersi con una certa irritazione da dove fosse venuto il ricco usuraio, e, con un'esitazione lievemente maggiore, come avesse fatto la sua ricchezza. Ma nessuno dubitava che quegli uomini avessero costruito qualche congegno che stava per agire con orribile energia. Fu nel mezzo di tutta questa ondeggiante insicurezza che giunse il messaggio secondo cui il valletto prigioniero avrebbe parlato. Aveva effettivamente firmato un [[Grave|grave]] documento, che recitava: «Posso pronunciare La Parola e fermare per sempre l'opera dei Quattro Distruttori e porli d'ora in avanti in vostro potere. Ma devo dettare le mie condizioni.»
+
+Quali che fossero i fatti storici riguardo alla decaduta famiglia di John Conrad, non c'è alcun [[Doubt|dubbio]] che egli entrò sulla scena di un Comitato di Stato, che era anche un'udienza con il [[King|Re]], con quella sorta di dignità che di norma non compare nella pomposità dei valletti. Si avvicinò al piccolo tavolo del palazzo, attorno al quale sedevano i quattro principali reggitori di Pavonia, con un debito gesto di rispetto ma senza la minima apparenza di imbarazzo o di servilità. S'inchinò al [[King|Re]] e accettò la sedia sulla quale il [[King|Re]] lo invitò a sedersi, e fu il [[King|Re]] a essere più imbarazzato del suddito.
+
+Clodoveo di Pavonia si schiarì la gola, si guardò riflessivo la punta del naso per un istante e poi disse: «[[Hope|Spero]] non sia necessario che io aggiunga la mia parola personale agli accordi che possano essere stati presi. Ma sono pienamente disposto ad aggiungerla, per evitare ogni malinteso. È del tutto inteso che voi avete acconsentito a rivelare ciò che sapete solo a certe condizioni, e io certamente farò in modo che tali condizioni siano soddisfatte. È solo ragionevole, in considerazione di ciò che voi ritenete di sacrificare, che riceviate un compenso davvero cospicuo.»
+
+«Posso rispettosamente chiedere», domandò Conrad, «chi debba stabilire con esattezza che cosa sia un compenso adeguato?»
+
+«Maestà», interloquì il Colonnello Grimm, «io non credo nel menare il can per l'aia. Abbiamo pochissimo [[Time|tempo]] da perdere, se questi cospiratori stanno davvero per [[spring|far brillare]] una mina. Non vedo come si possa negare che il prigioniero debba essere il giudice del compenso. Ho cercato di cavargli di bocca la [[Truth|verità]] con altri metodi che egli può ritenere, o non ritenere, di aver diritto di risentire; in parole povere, con l'intimidazione. È solo giusto dire che hanno fallito. Ed è altrettanto giusto dire che, quando l'intimidazione fallisce, non resta null'altro che la corruzione. E il puro buon senso della faccenda è che sia lui a fissare il prezzo.»
+
+Il Primo Ministro tossì e disse con voce un po' rauca: «È un'affermazione piuttosto azzardata, ma se il signor Conrad volesse darci un'idea di ciò che riterrebbe una sistemazione ragionevole...»
+
+«Non chiederò», disse John Conrad, «nulla di meno di diecimila l'anno.»
+
+«Davvero», disse il Primo Ministro, nella sua maniera piuttosto agitata, «una cosa del genere mi sembra del tutto stravagante. Voi potreste fare qualunque cosa desideriate, nella vostra classe sociale, con molto meno.»
+
+«Vi sbagliate», replicò Conrad con calma. «La mia classe sociale è assai più esigente di quanto supponiate. Non vedo come potrei sostenere la posizione di un Granduca di Pavonia con meno.»
+
+«Di un Gran...» cominciò il signor Valence, e la sua voce parve venir meno e spegnersi.
+
+«Ovviamente», disse Conrad in tono ragionevole. «Sarebbe una grave mancanza di rispetto verso Sua Maestà, e verso il lignaggio di una delle più antiche Case Reali d'Europa, chiedere a Sua Maestà di consentire che la propria nipote sia data in sposa a qualcuno di rango inferiore a quello di un Granduca di Pavonia.»
+
+Il resto della compagnia guardò l'affabile valletto pressappoco come il [[King|Re]] e la [[Court|Corte]] dovettero guardare Perseo quando li tramutò tutti in pietra. Ma Grimm ritrovò per primo la voce con una bella, greve imprecazione militaresca, seguita dalla pretesa di sapere che diavolo stesse succedendo.
+
+«Non chiederò alcuna carica politica formale nel [[government|governo]] dello Stato», proseguì il valletto pensieroso. «Ma è solo ragionevole aspettarsi che un Granduca di Pavonia sposato a una Principessa Reale avrà una certa influenza sulla politica del paese. Insisterò certamente su una serie di riforme essenziali, dirette in particolare a un più giusto trattamento dei poveri di questa [[City|città]]. Maestà, signori, se in questo momento siete minacciati da un fulmine che non sapete di dove venga, e forse dal rovesciamento dell'intera vostra nazione per invasione straniera e rivolta interna, lo dovete in gran parte a voi stessi. Vi consegnerò questi capi rivoluzionari di cui tanto parlate. Vi aiuterò a catturare il Dottor Phocus e [[Sebastian]] e Loeb e, se possibile, perfino il Generale Case. Consegnerò i miei compagni, ma non rinuncerò alle mie convinzioni. E quando arriverò a occupare l'alta carica nazionale con cui fra breve mi [[Honour|onorerete]], posso promettervi che, sebbene non vi sarà alcuna rivoluzione, vi sarà una [[Reform|riforma]] assai drastica.»
+
+Il Primo Ministro si [[Rose|alzò]] in piedi in preda a un'agitazione incontrollabile, poiché

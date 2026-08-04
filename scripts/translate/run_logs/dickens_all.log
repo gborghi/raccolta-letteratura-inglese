@@ -1,0 +1,1412 @@
+[2026-07-21 17:27:20] === catalogue launcher start (pid 7871) -- 21 works queued ===
+Success! Server is now running on port 1234
+[2026-07-21 17:27:20] === BOOK START A_Christmas_Carol (0/27 done) ===
+### WORK A_Christmas_Carol | TSV a_christmas_carol_atoms.tsv | linkfix a_christmas_carol_tower_linkfix.jsonl
+pending atoms: 27 / 27 in TSV
+cache warm with 8237 blocks
+work: 764 prose blocks across 27 atoms
+[1/27] REJECT Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_01.md: invented wikilink targets: ['Fantasma']
+[2/27] REJECT Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_02.md: invented wikilink targets: ['Cross', 'Fantasma']
+[3/27] REJECT Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_03.md: invented wikilink targets: ['Alone', 'Fantasma']
+[4/27] REJECT Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_04.md: invented wikilink targets: ['Fantasma']
+[5/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_05.md | blocks 45/764 | 65m elapsed, ~17.4h left | 2 links need repair
+[6/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_06.md | blocks 79/764 | 79m elapsed, ~11.4h left | 6 links need repair
+[7/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_02_THE_FIRST_OF_THE_THREE_SPIRITS/part_01.md | blocks 110/764 | 89m elapsed, ~8.8h left | 4 links need repair
+[2026-07-21 18:59:08] === catalogue launcher start (pid 14184) -- 21 works queued ===
+Success! Server is now running on port 1234
+[2026-07-21 18:59:09] === BOOK START A_Christmas_Carol (0/27 done) ===
+### WORK A_Christmas_Carol | TSV a_christmas_carol_atoms.tsv | linkfix a_christmas_carol_tower_linkfix.jsonl
+pending atoms: 27 / 27 in TSV
+cache warm with 8133 blocks
+work: 764 prose blocks across 27 atoms
+[1/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_01.md | blocks 17/764 | 0m elapsed, ~0.0h left
+[2/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_02.md | blocks 62/764 | 0m elapsed, ~0.0h left
+[3/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_03.md | blocks 87/764 | 0m elapsed, ~0.0h left
+[4/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_04.md | blocks 106/764 | 0m elapsed, ~0.0h left
+[5/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_05.md | blocks 151/764 | 0m elapsed, ~0.0h left
+[6/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_01_MARLEY_S_Ghost_GHOST/part_06.md | blocks 185/764 | 0m elapsed, ~0.0h left
+[7/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_02_THE_FIRST_OF_THE_THREE_SPIRITS/part_01.md | blocks 216/764 | 0m elapsed, ~0.0h left
+[8/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_02_THE_FIRST_OF_THE_THREE_SPIRITS/part_02.md | blocks 245/764 | 12m elapsed, ~0.4h left | 6 links need repair
+[9/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_02_THE_FIRST_OF_THE_THREE_SPIRITS/part_03.md | blocks 271/764 | 29m elapsed, ~0.9h left | 6 links need repair
+[10/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_02_THE_FIRST_OF_THE_THREE_SPIRITS/part_04.md | blocks 290/764 | 40m elapsed, ~1.1h left | 2 links need repair
+[11/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_02_THE_FIRST_OF_THE_THREE_SPIRITS/part_05.md | blocks 330/764 | 54m elapsed, ~1.2h left | 1 links need repair
+[12/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_02_THE_FIRST_OF_THE_THREE_SPIRITS/part_06.md | blocks 347/764 | 61m elapsed, ~1.2h left | 1 links need repair
+[13/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_03_THE_SECOND_OF_THE_THREE_SPIRIT/part_01.md | blocks 370/764 | 80m elapsed, ~1.4h left | 4 links need repair
+[14/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_03_THE_SECOND_OF_THE_THREE_SPIRIT/part_02.md | blocks 384/764 | 90m elapsed, ~1.5h left | 1 links need repair
+[15/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_03_THE_SECOND_OF_THE_THREE_SPIRIT/part_03.md | blocks 412/764 | 104m elapsed, ~1.5h left | 3 links need repair
+[16/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_03_THE_SECOND_OF_THE_THREE_SPIRIT/part_04.md | blocks 436/764 | 115m elapsed, ~1.4h left | 2 links need repair
+[17/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_03_THE_SECOND_OF_THE_THREE_SPIRIT/part_05.md | blocks 450/764 | 133m elapsed, ~1.5h left | 9 links need repair
+[18/27] FAIL Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_03_THE_SECOND_OF_THE_THREE_SPIRIT/part_06.md: fabricated output: 315 chars EN -> 721 chars IT
+[19/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_03_THE_SECOND_OF_THE_THREE_SPIRIT/part_07.md | blocks 466/764 | 144m elapsed, ~1.5h left
+[20/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_03_THE_SECOND_OF_THE_THREE_SPIRIT/part_08.md | blocks 488/764 | 151m elapsed, ~1.4h left
+[21/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_04_THE_LAST_OF_THE_SPIRITS/part_01.md | blocks 529/764 | 164m elapsed, ~1.2h left | 4 links need repair
+[22/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_04_THE_LAST_OF_THE_SPIRITS/part_02.md | blocks 553/764 | 173m elapsed, ~1.1h left | 1 links need repair
+[23/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_04_THE_LAST_OF_THE_SPIRITS/part_03.md | blocks 586/764 | 183m elapsed, ~0.9h left
+[24/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_04_THE_LAST_OF_THE_SPIRITS/part_04.md | blocks 626/764 | 195m elapsed, ~0.7h left | 3 links need repair
+[25/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_04_THE_LAST_OF_THE_SPIRITS/part_05.md | blocks 665/764 | 207m elapsed, ~0.5h left | 1 links need repair
+[26/27] ok Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_05_THE_END_OF_IT/part_01.md | blocks 704/764 | 220m elapsed, ~0.3h left | 4 links need repair
+[27/27] FAIL Authors/Dickens/Atomized/A_Christmas_Carol/Chapter_05_THE_END_OF_IT/part_02.md: fabricated output: 297 chars EN -> 697 chars IT
+
+done: 25 written, 2 failed/rejected, cache 8618 blocks
+link-repair queue: 47 blocks -> data/a_christmas_carol_tower_linkfix.jsonl
+[2026-07-21 22:41:36] === BOOK END A_Christmas_Carol (exit 0, now 25/27) ===
+[2026-07-21 22:41:36] === BOOK START A_Tale_of_Two_Cities (0/118 done) ===
+### WORK A_Tale_of_Two_Cities | TSV a_tale_of_two_cities_atoms.tsv | linkfix a_tale_of_two_cities_tower_linkfix.jsonl
+pending atoms: 118 / 118 in TSV
+cache warm with 8618 blocks
+work: 3526 prose blocks across 118 atoms
+[2026-07-21 23:10:50] === catalogue launcher start (pid 30006) -- 21 works queued ===
+Success! Server is now running on port 1234
+[2026-07-21 23:10:51] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-21 23:10:51] === BOOK START A_Tale_of_Two_Cities (0/118 done) ===
+### WORK A_Tale_of_Two_Cities | TSV a_tale_of_two_cities_atoms.tsv | linkfix a_tale_of_two_cities_tower_linkfix.jsonl
+pending atoms: 118 / 118 in TSV
+cache warm with 8683 blocks
+work: 3526 prose blocks across 118 atoms
+[1/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_01.md | blocks 9/3526 | 3m elapsed, ~19.0h left
+[2/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_02.md | blocks 71/3526 | 25m elapsed, ~20.1h left | 10 links need repair
+[3/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_03.md | blocks 108/3526 | 41m elapsed, ~21.6h left | 2 links need repair
+[4/118] REJECT Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_04/part_01.md: block count 27 EN vs 26 IT (emitter would skip page)
+[5/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_04/part_02.md | blocks 137/3526 | 60m elapsed, ~24.6h left
+[6/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_04/part_03.md | blocks 165/3526 | 69m elapsed, ~23.4h left
+[7/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_04/part_04.md | blocks 190/3526 | 79m elapsed, ~23.1h left | 3 links need repair
+[8/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_05/part_01.md | blocks 200/3526 | 88m elapsed, ~24.4h left
+[9/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_05/part_02.md | blocks 225/3526 | 96m elapsed, ~23.6h left
+[10/118] REJECT Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_05/part_03.md: block count 30 EN vs 29 IT (emitter would skip page)
+[11/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_05/part_04.md | blocks 248/3526 | 113m elapsed, ~24.8h left | 1 links need repair
+[12/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_06/part_01.md | blocks 291/3526 | 121m elapsed, ~22.3h left | 1 links need repair
+[13/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_06/part_02.md | blocks 322/3526 | 129m elapsed, ~21.4h left
+[14/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_06/part_03.md | blocks 346/3526 | 138m elapsed, ~21.2h left
+[15/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_06/part_04.md | blocks 364/3526 | 146m elapsed, ~21.2h left | 2 links need repair
+[16/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_07/part_01.md | blocks 374/3526 | 158m elapsed, ~22.2h left | 3 links need repair
+[17/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_07/part_02.md | blocks 404/3526 | 169m elapsed, ~21.7h left | 1 links need repair
+[18/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_08/part_01.md | blocks 441/3526 | 178m elapsed, ~20.8h left | 1 links need repair
+[19/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_08/part_02.md | blocks 464/3526 | 189m elapsed, ~20.7h left | 3 links need repair
+[20/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_09/part_01.md | blocks 471/3526 | 197m elapsed, ~21.3h left
+[21/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_09/part_02.md | blocks 525/3526 | 205m elapsed, ~19.5h left | 1 links need repair
+[22/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_09/part_03.md | blocks 565/3526 | 214m elapsed, ~18.7h left
+[23/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_09/part_04.md | blocks 600/3526 | 229m elapsed, ~18.6h left | 1 links need repair
+[24/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_10/part_01.md | blocks 627/3526 | 238m elapsed, ~18.3h left
+[25/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_10/part_02.md | blocks 680/3526 | 248m elapsed, ~17.3h left | 4 links need repair
+[26/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_11/part_01.md | blocks 711/3526 | 258m elapsed, ~17.1h left | 9 links need repair
+[27/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_11/part_02.md | blocks 747/3526 | 269m elapsed, ~16.7h left | 1 links need repair
+[28/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_12/part_01.md | blocks 766/3526 | 279m elapsed, ~16.8h left | 4 links need repair
+[29/118] REJECT Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_12/part_02.md: block count 49 EN vs 47 IT (emitter would skip page)
+[30/118] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_12/part_03.md | blocks 781/3526 | 308m elapsed, ~18.0h left | 6 links need repair
+[2026-07-22 04:24:24] === catalogue launcher start (pid 48832) -- 21 works queued ===
+Success! Server is now running on port 1234
+[2026-07-22 04:24:24] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-22 04:24:24] === BOOK START A_Tale_of_Two_Cities (27/118 done) ===
+### WORK A_Tale_of_Two_Cities | TSV a_tale_of_two_cities_atoms.tsv | linkfix a_tale_of_two_cities_tower_linkfix.jsonl
+pending atoms: 91 / 118 in TSV
+cache warm with 9514 blocks
+work: 2745 prose blocks across 91 atoms
+[1/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_04/part_01.md | blocks 27/2745 | 0m elapsed, ~0.0h left
+[2/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_05/part_03.md | blocks 57/2745 | 0m elapsed, ~0.0h left
+[3/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_12/part_02.md | blocks 106/2745 | 0m elapsed, ~0.0h left
+[4/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_12/part_04.md | blocks 143/2745 | 8m elapsed, ~2.5h left | 4 links need repair
+[5/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_13/part_01.md | blocks 153/2745 | 18m elapsed, ~5.1h left | 2 links need repair
+[6/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_13/part_02.md | blocks 165/2745 | 26m elapsed, ~6.7h left
+[7/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_13/part_03.md | blocks 193/2745 | 34m elapsed, ~7.5h left
+[8/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_14.md | blocks 260/2745 | 51m elapsed, ~8.2h left | 9 links need repair
+[9/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_15/part_01.md | blocks 300/2745 | 60m elapsed, ~8.2h left
+[10/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_15/part_02.md | blocks 331/2745 | 70m elapsed, ~8.5h left | 2 links need repair
+[11/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_15/part_03.md | blocks 370/2745 | 79m elapsed, ~8.4h left
+[12/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_15/part_04.md | blocks 384/2745 | 88m elapsed, ~9.0h left | 2 links need repair
+[13/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_16/part_01.md | blocks 415/2745 | 97m elapsed, ~9.1h left | 2 links need repair
+[14/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_16/part_02.md | blocks 447/2745 | 106m elapsed, ~9.1h left | 1 links need repair
+[15/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_16/part_03.md | blocks 477/2745 | 113m elapsed, ~9.0h left | 2 links need repair
+[16/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_17.md | blocks 525/2745 | 126m elapsed, ~8.9h left | 4 links need repair
+[17/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_18/part_01.md | blocks 560/2745 | 135m elapsed, ~8.8h left | 1 links need repair
+[18/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_18/part_02.md | blocks 595/2745 | 149m elapsed, ~9.0h left | 1 links need repair
+[19/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_19.md | blocks 642/2745 | 166m elapsed, ~9.0h left | 2 links need repair
+[20/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_20/part_01.md | blocks 668/2745 | 173m elapsed, ~9.0h left
+[21/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_20/part_02.md | blocks 696/2745 | 184m elapsed, ~9.0h left | 4 links need repair
+[22/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_20/part_03.md | blocks 710/2745 | 192m elapsed, ~9.2h left | 1 links need repair
+[23/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_20/part_04.md | blocks 733/2745 | 199m elapsed, ~9.1h left | 3 links need repair
+[24/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_21/part_01.md | blocks 759/2745 | 206m elapsed, ~9.0h left
+[25/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_21/part_02.md | blocks 782/2745 | 218m elapsed, ~9.1h left | 1 links need repair
+[26/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_21/part_03.md | blocks 811/2745 | 227m elapsed, ~9.0h left
+[27/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_21/part_04.md | blocks 840/2745 | 234m elapsed, ~8.9h left
+[28/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_22/part_01.md | blocks 866/2745 | 242m elapsed, ~8.8h left | 5 links need repair
+[29/91] REJECT Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_22/part_02.md: invented wikilink targets: ['L04estate']
+[30/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_22/part_03.md | blocks 915/2745 | 264m elapsed, ~8.8h left | 1 links need repair
+[31/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_22/part_04.md | blocks 932/2745 | 270m elapsed, ~8.7h left | 1 links need repair
+[32/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_23.md | blocks 977/2745 | 287m elapsed, ~8.7h left | 5 links need repair
+[33/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_24/part_01.md | blocks 1003/2745 | 296m elapsed, ~8.6h left | 2 links need repair
+[34/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_24/part_02.md | blocks 1037/2745 | 308m elapsed, ~8.5h left | 4 links need repair
+[35/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_25/part_01.md | blocks 1068/2745 | 316m elapsed, ~8.3h left | 1 links need repair
+[36/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_25/part_02.md | blocks 1103/2745 | 326m elapsed, ~8.1h left | 1 links need repair
+[37/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_25/part_03.md | blocks 1114/2745 | 332m elapsed, ~8.1h left | 1 links need repair
+[38/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_26.md | blocks 1162/2745 | 344m elapsed, ~7.8h left | 2 links need repair
+[39/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_27/part_01.md | blocks 1175/2745 | 352m elapsed, ~7.8h left
+[40/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_27/part_02.md | blocks 1200/2745 | 365m elapsed, ~7.8h left | 3 links need repair
+[41/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_27/part_03.md | blocks 1230/2745 | 376m elapsed, ~7.7h left | 4 links need repair
+[42/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_27/part_04.md | blocks 1253/2745 | 385m elapsed, ~7.6h left
+[43/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_28.md | blocks 1290/2745 | 402m elapsed, ~7.6h left | 2 links need repair
+[44/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_29/part_01.md | blocks 1324/2745 | 417m elapsed, ~7.5h left | 3 links need repair
+[45/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_29/part_02.md | blocks 1341/2745 | 431m elapsed, ~7.5h left | 3 links need repair
+[46/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_30/part_01.md | blocks 1361/2745 | 440m elapsed, ~7.5h left
+[47/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_30/part_02.md | blocks 1387/2745 | 450m elapsed, ~7.3h left | 1 links need repair
+[48/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_30/part_03.md | blocks 1412/2745 | 461m elapsed, ~7.3h left | 3 links need repair
+[49/91] REJECT Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_30/part_04.md: invented wikilink targets: ['L02estate']
+[50/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_31/part_01.md | blocks 1436/2745 | 485m elapsed, ~7.4h left | 2 links need repair
+[51/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_31/part_02.md | blocks 1471/2745 | 496m elapsed, ~7.2h left | 3 links need repair
+[52/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_31/part_03.md | blocks 1503/2745 | 505m elapsed, ~7.0h left
+[53/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_31/part_04.md | blocks 1530/2745 | 515m elapsed, ~6.8h left | 2 links need repair
+[54/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_32/part_01.md | blocks 1551/2745 | 528m elapsed, ~6.8h left | 3 links need repair
+[55/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_32/part_02.md | blocks 1575/2745 | 541m elapsed, ~6.7h left | 2 links need repair
+[56/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_33.md | blocks 1632/2745 | 559m elapsed, ~6.4h left | 5 links need repair
+[57/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_34/part_01.md | blocks 1642/2745 | 570m elapsed, ~6.4h left | 2 links need repair
+[58/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_34/part_02.md | blocks 1651/2745 | 583m elapsed, ~6.4h left | 2 links need repair
+[59/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_35/part_01.md | blocks 1683/2745 | 597m elapsed, ~6.3h left | 2 links need repair
+[60/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_35/part_02.md | blocks 1707/2745 | 612m elapsed, ~6.2h left | 2 links need repair
+[61/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_36/part_01.md | blocks 1736/2745 | 623m elapsed, ~6.0h left | 1 links need repair
+[62/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_36/part_02.md | blocks 1758/2745 | 638m elapsed, ~6.0h left | 1 links need repair
+[63/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_37.md | blocks 1819/2745 | 655m elapsed, ~5.6h left | 2 links need repair
+[64/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_38/part_01.md | blocks 1844/2745 | 666m elapsed, ~5.4h left | 2 links need repair
+[65/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_38/part_02.md | blocks 1882/2745 | 675m elapsed, ~5.2h left
+[66/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_38/part_03.md | blocks 1906/2745 | 687m elapsed, ~5.0h left
+[67/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_38/part_04.md | blocks 1953/2745 | 702m elapsed, ~4.7h left | 3 links need repair
+[68/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_39/part_01.md | blocks 1976/2745 | 710m elapsed, ~4.6h left
+[69/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_39/part_02.md | blocks 2017/2745 | 721m elapsed, ~4.3h left | 3 links need repair
+[70/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_39/part_03.md | blocks 2051/2745 | 731m elapsed, ~4.1h left | 2 links need repair
+[71/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_39/part_04.md | blocks 2088/2745 | 744m elapsed, ~3.9h left | 3 links need repair
+[72/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_40/part_01.md | blocks 2110/2745 | 754m elapsed, ~3.8h left | 2 links need repair
+[73/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_40/part_02.md | blocks 2142/2745 | 765m elapsed, ~3.6h left | 2 links need repair
+[74/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_40/part_03.md | blocks 2162/2745 | 777m elapsed, ~3.5h left | 2 links need repair
+[75/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_40/part_04.md | blocks 2193/2745 | 786m elapsed, ~3.3h left | 1 links need repair
+[76/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_40/part_05.md | blocks 2215/2745 | 797m elapsed, ~3.2h left | 1 links need repair
+[77/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_41.md | blocks 2263/2745 | 810m elapsed, ~2.9h left | 2 links need repair
+[78/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_42/part_01.md | blocks 2297/2745 | 823m elapsed, ~2.7h left | 4 links need repair
+[79/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_42/part_02.md | blocks 2326/2745 | 835m elapsed, ~2.5h left | 1 links need repair
+[80/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_42/part_03.md | blocks 2356/2745 | 846m elapsed, ~2.3h left | 4 links need repair
+[81/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_43/part_01.md | blocks 2371/2745 | 855m elapsed, ~2.2h left | 2 links need repair
+[82/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_43/part_02.md | blocks 2410/2745 | 864m elapsed, ~2.0h left | 1 links need repair
+[83/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_43/part_03.md | blocks 2448/2745 | 873m elapsed, ~1.8h left
+[84/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_43/part_04.md | blocks 2504/2745 | 883m elapsed, ~1.4h left
+[85/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_44/part_01.md | blocks 2536/2745 | 894m elapsed, ~1.2h left | 2 links need repair
+[86/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_44/part_02.md | blocks 2555/2745 | 904m elapsed, ~1.1h left | 3 links need repair
+[87/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_44/part_03.md | blocks 2584/2745 | 915m elapsed, ~0.9h left | 4 links need repair
+[88/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_44/part_04.md | blocks 2610/2745 | 923m elapsed, ~0.8h left
+[89/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_44/part_05.md | blocks 2627/2745 | 927m elapsed, ~0.7h left
+[90/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_45/part_01.md | blocks 2652/2745 | 936m elapsed, ~0.5h left
+[91/91] ok Authors/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_45/part_02.md | blocks 2682/2745 | 944m elapsed, ~0.4h left | 2 links need repair
+
+done: 89 written, 2 failed/rejected, cache 11987 blocks
+link-repair queue: 168 blocks -> data/a_tale_of_two_cities_tower_linkfix.jsonl
+[2026-07-22 20:08:52] === BOOK END A_Tale_of_Two_Cities (exit 0, now 116/118) ===
+[2026-07-22 20:08:52] === BOOK START Hard_Times (0/129 done) ===
+### WORK Hard_Times | TSV hard_times_atoms.tsv | linkfix hard_times_tower_linkfix.jsonl
+pending atoms: 129 / 129 in TSV
+cache warm with 11987 blocks
+work: 2528 prose blocks across 129 atoms
+[1/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_01.md | blocks 3/2528 | 0m elapsed, ~0.8h left
+[2/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_02.md | blocks 6/2528 | 0m elapsed, ~0.8h left
+[3/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_03.md | blocks 8/2528 | 0m elapsed, ~0.7h left
+[4/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_04.md | blocks 11/2528 | 0m elapsed, ~0.8h left
+[5/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_05.md | blocks 13/2528 | 0m elapsed, ~0.9h left
+[6/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_06.md | blocks 15/2528 | 0m elapsed, ~0.9h left
+[7/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_07.md | blocks 18/2528 | 0m elapsed, ~0.9h left
+[8/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_08.md | blocks 21/2528 | 0m elapsed, ~0.9h left
+[9/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_09.md | blocks 24/2528 | 0m elapsed, ~0.8h left
+[10/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_10.md | blocks 27/2528 | 1m elapsed, ~0.8h left
+[11/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_11.md | blocks 29/2528 | 1m elapsed, ~0.9h left
+[12/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_12.md | blocks 31/2528 | 1m elapsed, ~0.9h left
+[13/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_13.md | blocks 33/2528 | 1m elapsed, ~0.9h left
+[14/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_14.md | blocks 35/2528 | 1m elapsed, ~0.9h left
+[15/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_15.md | blocks 38/2528 | 1m elapsed, ~0.8h left
+[16/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_16.md | blocks 41/2528 | 1m elapsed, ~0.9h left
+[17/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_17.md | blocks 43/2528 | 1m elapsed, ~0.9h left
+[18/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_18.md | blocks 46/2528 | 1m elapsed, ~0.9h left
+[19/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_19.md | blocks 49/2528 | 1m elapsed, ~0.9h left
+[20/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_20.md | blocks 52/2528 | 1m elapsed, ~0.9h left
+[21/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_21.md | blocks 55/2528 | 1m elapsed, ~0.8h left
+[22/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_22.md | blocks 57/2528 | 1m elapsed, ~0.8h left
+[23/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_23.md | blocks 60/2528 | 1m elapsed, ~0.9h left
+[24/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_24.md | blocks 62/2528 | 1m elapsed, ~0.8h left
+[25/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_25.md | blocks 64/2528 | 1m elapsed, ~0.9h left
+[26/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_26.md | blocks 66/2528 | 1m elapsed, ~0.9h left
+[27/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_27.md | blocks 68/2528 | 1m elapsed, ~0.9h left
+[28/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_28.md | blocks 70/2528 | 2m elapsed, ~0.9h left
+[29/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_29.md | blocks 72/2528 | 2m elapsed, ~0.9h left
+[30/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_30.md | blocks 74/2528 | 2m elapsed, ~0.9h left
+[31/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_31.md | blocks 76/2528 | 2m elapsed, ~0.9h left
+[32/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_32.md | blocks 78/2528 | 2m elapsed, ~0.9h left
+[33/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_33.md | blocks 80/2528 | 2m elapsed, ~0.9h left
+[34/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_34.md | blocks 82/2528 | 2m elapsed, ~0.9h left
+[35/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_35.md | blocks 84/2528 | 2m elapsed, ~0.9h left
+[36/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_36.md | blocks 86/2528 | 2m elapsed, ~0.9h left
+[37/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_37.md | blocks 91/2528 | 2m elapsed, ~1.1h left
+[38/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_38.md | blocks 98/2528 | 5m elapsed, ~1.9h left
+[39/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_39/part_01.md | blocks 124/2528 | 14m elapsed, ~4.5h left | 3 links need repair
+[40/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_39/part_02.md | blocks 152/2528 | 24m elapsed, ~6.2h left | 2 links need repair
+[41/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_40.md | blocks 186/2528 | 43m elapsed, ~9.1h left | 8 links need repair
+[42/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_41/part_01.md | blocks 209/2528 | 52m elapsed, ~9.6h left
+[43/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_41/part_02.md | blocks 238/2528 | 61m elapsed, ~9.7h left | 1 links need repair
+[44/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_41/part_03.md | blocks 253/2528 | 64m elapsed, ~9.6h left
+[45/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_42/part_01.md | blocks 262/2528 | 77m elapsed, ~11.1h left | 3 links need repair
+[46/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_42/part_02.md | blocks 296/2528 | 87m elapsed, ~10.9h left | 1 links need repair
+[47/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_43/part_01.md | blocks 317/2528 | 100m elapsed, ~11.6h left | 2 links need repair
+[48/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_43/part_02.md | blocks 354/2528 | 109m elapsed, ~11.2h left | 1 links need repair
+[49/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_43/part_03.md | blocks 374/2528 | 118m elapsed, ~11.3h left
+[50/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_43/part_04.md | blocks 397/2528 | 126m elapsed, ~11.3h left
+[51/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_43/part_05.md | blocks 410/2528 | 131m elapsed, ~11.3h left
+[52/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_44/part_01.md | blocks 433/2528 | 139m elapsed, ~11.2h left
+[53/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_44/part_02.md | blocks 468/2528 | 153m elapsed, ~11.3h left | 2 links need repair
+[54/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_45/part_01.md | blocks 490/2528 | 162m elapsed, ~11.2h left | 1 links need repair
+[55/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_45/part_02.md | blocks 520/2528 | 170m elapsed, ~10.9h left | 2 links need repair
+[56/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_46/part_01.md | blocks 553/2528 | 180m elapsed, ~10.7h left | 2 links need repair
+[57/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_46/part_02.md | blocks 585/2528 | 191m elapsed, ~10.6h left | 3 links need repair
+[58/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_46/part_03.md | blocks 597/2528 | 195m elapsed, ~10.5h left
+[59/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_47.md | blocks 640/2528 | 212m elapsed, ~10.4h left | 1 links need repair
+[60/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_48/part_01.md | blocks 662/2528 | 222m elapsed, ~10.4h left | 3 links need repair
+[61/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_48/part_02.md | blocks 697/2528 | 231m elapsed, ~10.1h left | 3 links need repair
+[62/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_48/part_03.md | blocks 712/2528 | 235m elapsed, ~10.0h left | 3 links need repair
+[63/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_49.md | blocks 752/2528 | 258m elapsed, ~10.2h left | 10 links need repair
+[64/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_50/part_01.md | blocks 787/2528 | 267m elapsed, ~9.8h left | 2 links need repair
+[65/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_50/part_02.md | blocks 801/2528 | 275m elapsed, ~9.9h left | 1 links need repair
+[66/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_50/part_03.md | blocks 823/2528 | 282m elapsed, ~9.7h left | 1 links need repair
+[67/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_51.md | blocks 877/2528 | 296m elapsed, ~9.3h left | 1 links need repair
+[68/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_52/part_01.md | blocks 902/2528 | 306m elapsed, ~9.2h left | 1 links need repair
+[69/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_52/part_02.md | blocks 933/2528 | 316m elapsed, ~9.0h left
+[70/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_52/part_03.md | blocks 944/2528 | 322m elapsed, ~9.0h left | 2 links need repair
+[71/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_53.md | blocks 985/2528 | 344m elapsed, ~9.0h left | 4 links need repair
+[72/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_54/part_01.md | blocks 997/2528 | 357m elapsed, ~9.1h left | 2 links need repair
+[73/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_54/part_02.md | blocks 1022/2528 | 364m elapsed, ~9.0h left
+[74/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_54/part_03.md | blocks 1057/2528 | 374m elapsed, ~8.7h left | 3 links need repair
+[75/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_54/part_04.md | blocks 1090/2528 | 382m elapsed, ~8.4h left | 2 links need repair
+[76/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_54/part_05.md | blocks 1107/2528 | 386m elapsed, ~8.3h left
+[77/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_55/part_01.md | blocks 1126/2528 | 395m elapsed, ~8.2h left
+[78/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_55/part_02.md | blocks 1145/2528 | 404m elapsed, ~8.1h left | 1 links need repair
+[79/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_55/part_03.md | blocks 1167/2528 | 411m elapsed, ~8.0h left | 2 links need repair
+[80/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_56.md | blocks 1224/2528 | 427m elapsed, ~7.6h left | 3 links need repair
+[81/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_57/part_01.md | blocks 1236/2528 | 435m elapsed, ~7.6h left
+[82/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_57/part_02.md | blocks 1259/2528 | 443m elapsed, ~7.4h left
+[83/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_57/part_03.md | blocks 1274/2528 | 449m elapsed, ~7.4h left
+[84/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_58/part_01.md | blocks 1305/2528 | 457m elapsed, ~7.1h left
+[85/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_58/part_02.md | blocks 1335/2528 | 472m elapsed, ~7.0h left | 2 links need repair
+[86/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_59/part_01.md | blocks 1359/2528 | 484m elapsed, ~6.9h left | 1 links need repair
+[87/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_59/part_02.md | blocks 1389/2528 | 492m elapsed, ~6.7h left | 1 links need repair
+[88/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_59/part_03.md | blocks 1425/2528 | 503m elapsed, ~6.5h left | 3 links need repair
+[89/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_59/part_04.md | blocks 1450/2528 | 514m elapsed, ~6.4h left | 1 links need repair
+[90/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_60/part_01.md | blocks 1462/2528 | 524m elapsed, ~6.4h left | 1 links need repair
+[91/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_60/part_02.md | blocks 1496/2528 | 533m elapsed, ~6.1h left | 1 links need repair
+[92/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_60/part_03.md | blocks 1515/2528 | 541m elapsed, ~6.0h left
+[93/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_60/part_04.md | blocks 1560/2528 | 553m elapsed, ~5.7h left | 1 links need repair
+[94/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_61/part_01.md | blocks 1593/2528 | 565m elapsed, ~5.5h left | 9 links need repair
+[95/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_61/part_02.md | blocks 1618/2528 | 575m elapsed, ~5.4h left
+[96/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_61/part_03.md | blocks 1631/2528 | 583m elapsed, ~5.3h left
+[97/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_61/part_04.md | blocks 1675/2528 | 595m elapsed, ~5.0h left | 2 links need repair
+[98/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_62/part_01.md | blocks 1695/2528 | 602m elapsed, ~4.9h left
+[99/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_62/part_02.md | blocks 1712/2528 | 616m elapsed, ~4.9h left | 4 links need repair
+[100/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_62/part_03.md | blocks 1740/2528 | 626m elapsed, ~4.7h left | 4 links need repair
+[101/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_63.md | blocks 1777/2528 | 640m elapsed, ~4.5h left | 3 links need repair
+[102/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_64/part_01.md | blocks 1811/2528 | 651m elapsed, ~4.3h left | 5 links need repair
+[103/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_64/part_02.md | blocks 1836/2528 | 661m elapsed, ~4.2h left | 4 links need repair
+[104/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_64/part_03.md | blocks 1850/2528 | 669m elapsed, ~4.1h left | 1 links need repair
+[105/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_65.md | blocks 1898/2528 | 683m elapsed, ~3.8h left | 3 links need repair
+[106/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_66/part_01.md | blocks 1927/2528 | 694m elapsed, ~3.6h left | 3 links need repair
+[107/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_66/part_02.md | blocks 1961/2528 | 703m elapsed, ~3.4h left | 1 links need repair
+[108/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_67/part_01.md | blocks 1984/2528 | 714m elapsed, ~3.3h left | 3 links need repair
+[109/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_67/part_02.md | blocks 2015/2528 | 724m elapsed, ~3.1h left | 2 links need repair
+[110/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_67/part_03.md | blocks 2053/2528 | 733m elapsed, ~2.8h left | 2 links need repair
+[111/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_68/part_01.md | blocks 2078/2528 | 745m elapsed, ~2.7h left | 3 links need repair
+[112/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_68/part_02.md | blocks 2104/2528 | 756m elapsed, ~2.5h left
+[113/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_68/part_03.md | blocks 2128/2528 | 766m elapsed, ~2.4h left | 4 links need repair
+[114/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_69/part_01.md | blocks 2137/2528 | 782m elapsed, ~2.4h left | 2 links need repair
+[115/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_69/part_02.md | blocks 2175/2528 | 795m elapsed, ~2.1h left | 2 links need repair
+[116/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_69/part_03.md | blocks 2207/2528 | 804m elapsed, ~1.9h left | 1 links need repair
+[117/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_70/part_01.md | blocks 2238/2528 | 815m elapsed, ~1.8h left | 2 links need repair
+[118/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_70/part_02.md | blocks 2263/2528 | 826m elapsed, ~1.6h left | 1 links need repair
+[119/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_70/part_03.md | blocks 2276/2528 | 836m elapsed, ~1.5h left | 2 links need repair
+[120/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_71/part_01.md | blocks 2300/2528 | 844m elapsed, ~1.4h left | 1 links need repair
+[121/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_71/part_02.md | blocks 2315/2528 | 854m elapsed, ~1.3h left | 2 links need repair
+[122/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_71/part_03.md | blocks 2352/2528 | 871m elapsed, ~1.1h left | 3 links need repair
+[123/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_72.md | blocks 2379/2528 | 879m elapsed, ~0.9h left
+[124/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_73_it_was_consented_that_Sissy_an/part_01.md | blocks 2389/2528 | 892m elapsed, ~0.9h left | 9 links need repair
+[125/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_73_it_was_consented_that_Sissy_an/part_02.md | blocks 2415/2528 | 901m elapsed, ~0.7h left
+[126/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_73_it_was_consented_that_Sissy_an/part_03.md | blocks 2440/2528 | 907m elapsed, ~0.5h left
+[127/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_74/part_01.md | blocks 2464/2528 | 915m elapsed, ~0.4h left | 1 links need repair
+[128/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_74/part_02.md | blocks 2489/2528 | 926m elapsed, ~0.2h left | 1 links need repair
+[129/129] ok Authors/Dickens/Atomized/Hard_Times/Chapter_75.md | blocks 2528/2528 | 941m elapsed, ~0.0h left | 1 links need repair
+
+done: 129 written, 0 failed/rejected, cache 14333 blocks
+link-repair queue: 132 blocks -> data/hard_times_tower_linkfix.jsonl
+[2026-07-23 11:50:12] === BOOK END Hard_Times (exit 0, now 129/129) ===
+[2026-07-23 11:50:12] === BOOK START The_Chimes (0/29 done) ===
+### WORK The_Chimes | TSV the_chimes_atoms.tsv | linkfix the_chimes_tower_linkfix.jsonl
+pending atoms: 29 / 29 in TSV
+cache warm with 14333 blocks
+work: 748 prose blocks across 29 atoms
+[2026-07-23 12:47:12] === catalogue launcher start (pid 73979) -- 21 works queued ===
+Success! Server is now running on port 1234
+[2026-07-23 12:47:12] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-23 12:47:12] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-23 12:47:12] === SKIP Hard_Times (already 129/129) ===
+[2026-07-23 12:47:12] === BOOK START The_Chimes (0/29 done) ===
+### WORK The_Chimes | TSV the_chimes_atoms.tsv | linkfix the_chimes_tower_linkfix.jsonl
+pending atoms: 29 / 29 in TSV
+cache warm with 14335 blocks
+work: 748 prose blocks across 29 atoms
+[1/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_01_First_Quarter/part_01.md | blocks 10/748 | 15m elapsed, ~18.0h left | 2 links need repair
+[2/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_01_First_Quarter/part_02.md | blocks 19/748 | 30m elapsed, ~19.3h left | 1 links need repair
+[3/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_01_First_Quarter/part_03.md | blocks 50/748 | 40m elapsed, ~9.2h left | 1 links need repair
+[4/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_01_First_Quarter/part_04.md | blocks 85/748 | 48m elapsed, ~6.2h left | 2 links need repair
+[5/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_01_First_Quarter/part_05.md | blocks 112/748 | 58m elapsed, ~5.5h left | 3 links need repair
+[6/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_01_First_Quarter/part_06.md | blocks 135/748 | 70m elapsed, ~5.3h left | 2 links need repair
+[7/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_01_First_Quarter/part_07.md | blocks 161/748 | 83m elapsed, ~5.0h left | 1 links need repair
+[8/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_01_First_Quarter/part_08.md | blocks 186/748 | 88m elapsed, ~4.4h left
+[9/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_02_The_Second_Quarter/part_01.md | blocks 213/748 | 100m elapsed, ~4.2h left | 1 links need repair
+[10/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_02_The_Second_Quarter/part_02.md | blocks 241/748 | 110m elapsed, ~3.9h left
+[11/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_02_The_Second_Quarter/part_03.md | blocks 267/748 | 121m elapsed, ~3.6h left | 4 links need repair
+[12/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_02_The_Second_Quarter/part_04.md | blocks 294/748 | 130m elapsed, ~3.4h left | 2 links need repair
+[13/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_02_The_Second_Quarter/part_05.md | blocks 319/748 | 141m elapsed, ~3.2h left | 2 links need repair
+[14/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_02_The_Second_Quarter/part_06.md | blocks 341/748 | 151m elapsed, ~3.0h left | 2 links need repair
+[15/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_02_The_Second_Quarter/part_07.md | blocks 371/748 | 163m elapsed, ~2.8h left | 2 links need repair
+[16/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_03_Third_Quarter/part_01.md | blocks 384/748 | 176m elapsed, ~2.8h left | 2 links need repair
+[17/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_03_Third_Quarter/part_02.md | blocks 424/748 | 187m elapsed, ~2.4h left | 2 links need repair
+[18/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_03_Third_Quarter/part_03.md | blocks 461/748 | 197m elapsed, ~2.0h left | 3 links need repair
+[19/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_03_Third_Quarter/part_04.md | blocks 487/748 | 206m elapsed, ~1.8h left
+[20/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_03_Third_Quarter/part_05.md | blocks 509/748 | 216m elapsed, ~1.7h left | 1 links need repair
+[21/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_03_Third_Quarter/part_06.md | blocks 538/748 | 225m elapsed, ~1.5h left | 3 links need repair
+[22/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_03_Third_Quarter/part_07.md | blocks 567/748 | 237m elapsed, ~1.3h left | 2 links need repair
+[23/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_04_Fourth_Quarter/part_01.md | blocks 582/748 | 244m elapsed, ~1.2h left
+[24/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_04_Fourth_Quarter/part_02.md | blocks 615/748 | 255m elapsed, ~0.9h left | 1 links need repair
+[25/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_04_Fourth_Quarter/part_03.md | blocks 639/748 | 266m elapsed, ~0.8h left | 1 links need repair
+[26/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_04_Fourth_Quarter/part_04.md | blocks 675/748 | 279m elapsed, ~0.5h left | 3 links need repair
+[27/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_04_Fourth_Quarter/part_05.md | blocks 707/748 | 291m elapsed, ~0.3h left | 3 links need repair
+[28/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_04_Fourth_Quarter/part_06.md | blocks 734/748 | 302m elapsed, ~0.1h left | 1 links need repair
+[29/29] ok Authors/Dickens/Atomized/The_Chimes/Chapter_04_Fourth_Quarter/part_07.md | blocks 748/748 | 306m elapsed, ~0.0h left
+
+done: 29 written, 0 failed/rejected, cache 15050 blocks
+link-repair queue: 45 blocks -> data/the_chimes_tower_linkfix.jsonl
+[2026-07-23 17:53:24] === BOOK END The_Chimes (exit 0, now 29/29) ===
+[2026-07-23 17:53:24] === BOOK START The_Cricket_on_the_Hearth (0/33 done) ===
+### WORK The_Cricket_on_the_Hearth | TSV the_cricket_on_the_hearth_atoms.tsv | linkfix the_cricket_on_the_hearth_tower_linkfix.jsonl
+pending atoms: 33 / 33 in TSV
+cache warm with 15050 blocks
+work: 794 prose blocks across 33 atoms
+[1/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_01_Introduction.md | blocks 10/794 | 9m elapsed, ~12.1h left | 3 links need repair
+[2/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_02_The_Cricket_On_The_Hearth.md | blocks 22/794 | 11m elapsed, ~6.4h left
+[3/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_03_The_Cricket_On_The_Hearth.md | blocks 26/794 | 11m elapsed, ~5.4h left
+[4/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_04_Chirp_The_First/part_01.md | blocks 42/794 | 24m elapsed, ~7.0h left | 4 links need repair
+[5/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_04_Chirp_The_First/part_02.md | blocks 56/794 | 38m elapsed, ~8.3h left | 2 links need repair
+[6/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_04_Chirp_The_First/part_03.md | blocks 75/794 | 51m elapsed, ~8.1h left | 2 links need repair
+[7/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_04_Chirp_The_First/part_04.md | blocks 106/794 | 65m elapsed, ~7.0h left | 8 links need repair
+[8/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_04_Chirp_The_First/part_05.md | blocks 143/794 | 77m elapsed, ~5.9h left | 1 links need repair
+[9/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_04_Chirp_The_First/part_06.md | blocks 179/794 | 89m elapsed, ~5.1h left | 1 links need repair
+[10/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_04_Chirp_The_First/part_07.md | blocks 213/794 | 100m elapsed, ~4.6h left | 3 links need repair
+[11/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_04_Chirp_The_First/part_08.md | blocks 247/794 | 111m elapsed, ~4.1h left | 1 links need repair
+[12/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_04_Chirp_The_First/part_09.md | blocks 255/794 | 118m elapsed, ~4.2h left | 2 links need repair
+[13/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_Second/part_01.md | blocks 265/794 | 139m elapsed, ~4.6h left | 5 links need repair
+[14/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_Second/part_02.md | blocks 301/794 | 151m elapsed, ~4.1h left | 2 links need repair
+[15/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_Second/part_03.md | blocks 346/794 | 164m elapsed, ~3.5h left | 1 links need repair
+[16/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_Second/part_04.md | blocks 372/794 | 173m elapsed, ~3.3h left
+[17/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_Second/part_05.md | blocks 390/794 | 185m elapsed, ~3.2h left | 3 links need repair
+[18/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_Second/part_06.md | blocks 402/794 | 195m elapsed, ~3.2h left | 1 links need repair
+[19/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_Second/part_07.md | blocks 423/794 | 204m elapsed, ~3.0h left
+[20/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_Second/part_08.md | blocks 457/794 | 215m elapsed, ~2.6h left | 1 links need repair
+[21/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_Second/part_09.md | blocks 478/794 | 223m elapsed, ~2.5h left | 5 links need repair
+[22/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_05_Chirp_The_Second/part_10.md | blocks 514/794 | 236m elapsed, ~2.1h left | 3 links need repair
+[23/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Third/part_01.md | blocks 534/794 | 245m elapsed, ~2.0h left | 3 links need repair
+[24/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Third/part_02.md | blocks 560/794 | 254m elapsed, ~1.8h left
+[25/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Third/part_03.md | blocks 582/794 | 264m elapsed, ~1.6h left | 2 links need repair
+[26/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Third/part_04.md | blocks 611/794 | 275m elapsed, ~1.4h left | 3 links need repair
+[27/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Third/part_05.md | blocks 641/794 | 287m elapsed, ~1.1h left | 2 links need repair
+[28/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Third/part_06.md | blocks 671/794 | 296m elapsed, ~0.9h left | 2 links need repair
+[29/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Third/part_07.md | blocks 707/794 | 307m elapsed, ~0.6h left | 1 links need repair
+[30/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Third/part_08.md | blocks 735/794 | 316m elapsed, ~0.4h left
+[31/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Third/part_09.md | blocks 765/794 | 332m elapsed, ~0.2h left | 5 links need repair
+[32/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Third/part_10.md | blocks 784/794 | 342m elapsed, ~0.1h left | 1 links need repair
+[33/33] ok Authors/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Third/part_11.md | blocks 794/794 | 347m elapsed, ~0.0h left | 1 links need repair
+
+done: 33 written, 0 failed/rejected, cache 15807 blocks
+link-repair queue: 50 blocks -> data/the_cricket_on_the_hearth_tower_linkfix.jsonl
+[2026-07-23 23:40:31] === BOOK END The_Cricket_on_the_Hearth (exit 0, now 33/33) ===
+[2026-07-23 23:40:31] === BOOK START The_Battle_of_Life (0/28 done) ===
+### WORK The_Battle_of_Life | TSV the_battle_of_life_atoms.tsv | linkfix the_battle_of_life_tower_linkfix.jsonl
+pending atoms: 28 / 28 in TSV
+cache warm with 15807 blocks
+work: 771 prose blocks across 28 atoms
+[1/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_01/part_01.md | blocks 7/771 | 14m elapsed, ~25.1h left | 6 links need repair
+[2/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_01/part_02.md | blocks 28/771 | 27m elapsed, ~11.9h left | 3 links need repair
+[3/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_01/part_03.md | blocks 51/771 | 40m elapsed, ~9.5h left | 2 links need repair
+[4/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_01/part_04.md | blocks 82/771 | 49m elapsed, ~6.9h left
+[5/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_01/part_05.md | blocks 113/771 | 59m elapsed, ~5.7h left
+[6/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_01/part_06.md | blocks 134/771 | 67m elapsed, ~5.3h left | 1 links need repair
+[7/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_01/part_07.md | blocks 165/771 | 77m elapsed, ~4.7h left
+[8/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_01/part_08.md | blocks 197/771 | 85m elapsed, ~4.1h left
+[9/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_01.md | blocks 212/771 | 97m elapsed, ~4.2h left | 5 links need repair
+[10/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_02.md | blocks 257/771 | 105m elapsed, ~3.5h left | 2 links need repair
+[11/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_03.md | blocks 278/771 | 116m elapsed, ~3.4h left | 2 links need repair
+[12/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_04.md | blocks 307/771 | 128m elapsed, ~3.2h left | 2 links need repair
+[13/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_05.md | blocks 337/771 | 138m elapsed, ~3.0h left | 4 links need repair
+[14/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_06.md | blocks 366/771 | 147m elapsed, ~2.7h left | 2 links need repair
+[15/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_07.md | blocks 406/771 | 157m elapsed, ~2.3h left | 3 links need repair
+[16/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_08.md | blocks 436/771 | 173m elapsed, ~2.2h left | 9 links need repair
+[17/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_09.md | blocks 471/771 | 187m elapsed, ~2.0h left | 5 links need repair
+[18/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_10.md | blocks 497/771 | 200m elapsed, ~1.8h left | 2 links need repair
+[19/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_11.md | blocks 529/771 | 212m elapsed, ~1.6h left | 2 links need repair
+[20/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_03/part_01.md | blocks 545/771 | 228m elapsed, ~1.6h left | 6 links need repair
+[21/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_03/part_02.md | blocks 578/771 | 238m elapsed, ~1.3h left | 2 links need repair
+[22/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_03/part_03.md | blocks 615/771 | 248m elapsed, ~1.1h left | 2 links need repair
+[23/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_03/part_04.md | blocks 645/771 | 257m elapsed, ~0.8h left | 2 links need repair
+[24/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_03/part_05.md | blocks 666/771 | 269m elapsed, ~0.7h left | 3 links need repair
+[25/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_03/part_06.md | blocks 703/771 | 280m elapsed, ~0.5h left | 3 links need repair
+[26/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_03/part_07.md | blocks 721/771 | 289m elapsed, ~0.3h left
+[27/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_03/part_08.md | blocks 747/771 | 299m elapsed, ~0.2h left | 1 links need repair
+[28/28] ok Authors/Dickens/Atomized/The_Battle_of_Life/Chapter_03/part_09.md | blocks 771/771 | 308m elapsed, ~0.0h left
+
+done: 28 written, 0 failed/rejected, cache 16548 blocks
+link-repair queue: 56 blocks -> data/the_battle_of_life_tower_linkfix.jsonl
+[2026-07-24 04:48:17] === BOOK END The_Battle_of_Life (exit 0, now 28/28) ===
+[2026-07-24 04:48:17] === BOOK START The_Haunted_Man_and_the_Ghosts_Bargain (0/31 done) ===
+### WORK The_Haunted_Man_and_the_Ghosts_Bargain | TSV the_haunted_man_and_the_ghosts_bargain_atoms.tsv | linkfix the_haunted_man_and_the_ghosts_bargain_tower_linkfix.jsonl
+pending atoms: 31 / 31 in TSV
+cache warm with 16548 blocks
+work: 906 prose blocks across 31 atoms
+[1/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_01/part_01.md | blocks 17/906 | 14m elapsed, ~12.1h left | 4 links need repair
+[2/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_01/part_02.md | blocks 36/906 | 24m elapsed, ~9.7h left | 1 links need repair
+[3/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_01/part_03.md | blocks 57/906 | 33m elapsed, ~8.2h left
+[4/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_01/part_04.md | blocks 83/906 | 42m elapsed, ~7.0h left
+[5/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_01/part_05.md | blocks 116/906 | 54m elapsed, ~6.1h left | 3 links need repair
+[6/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_01/part_06.md | blocks 147/906 | 70m elapsed, ~6.0h left | 6 links need repair
+[7/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_01/part_07.md | blocks 179/906 | 81m elapsed, ~5.5h left | 3 links need repair
+[8/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_01/part_08.md | blocks 229/906 | 94m elapsed, ~4.6h left | 2 links need repair
+[9/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_01.md | blocks 239/906 | 104m elapsed, ~4.9h left | 2 links need repair
+[10/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_02.md | blocks 260/906 | 115m elapsed, ~4.8h left | 2 links need repair
+[11/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_03.md | blocks 291/906 | 127m elapsed, ~4.5h left | 1 links need repair
+[12/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_04.md | blocks 315/906 | 137m elapsed, ~4.3h left | 2 links need repair
+[13/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_05.md | blocks 351/906 | 146m elapsed, ~3.8h left | 2 links need repair
+[14/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_06.md | blocks 380/906 | 155m elapsed, ~3.6h left
+[15/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_07.md | blocks 412/906 | 165m elapsed, ~3.3h left | 1 links need repair
+[16/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_08.md | blocks 446/906 | 175m elapsed, ~3.0h left | 3 links need repair
+[17/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_09.md | blocks 472/906 | 185m elapsed, ~2.8h left | 2 links need repair
+[18/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_10.md | blocks 509/906 | 194m elapsed, ~2.5h left
+[19/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_11.md | blocks 550/906 | 203m elapsed, ~2.2h left | 2 links need repair
+[20/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_12.md | blocks 581/906 | 213m elapsed, ~2.0h left | 1 links need repair
+[21/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_13.md | blocks 614/906 | 222m elapsed, ~1.8h left
+[22/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_02/part_14.md | blocks 636/906 | 226m elapsed, ~1.6h left
+[23/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_03/part_01.md | blocks 669/906 | 236m elapsed, ~1.4h left
+[24/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_03/part_02.md | blocks 685/906 | 246m elapsed, ~1.3h left | 1 links need repair
+[25/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_03/part_03.md | blocks 719/906 | 257m elapsed, ~1.1h left | 2 links need repair
+[26/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_03/part_04.md | blocks 752/906 | 269m elapsed, ~0.9h left | 1 links need repair
+[27/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_03/part_05.md | blocks 787/906 | 279m elapsed, ~0.7h left
+[28/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_03/part_06.md | blocks 813/906 | 288m elapsed, ~0.5h left | 1 links need repair
+[29/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_03/part_07.md | blocks 856/906 | 298m elapsed, ~0.3h left | 1 links need repair
+[30/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_03/part_08.md | blocks 888/906 | 309m elapsed, ~0.1h left | 4 links need repair
+[31/31] ok Authors/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_03/part_09.md | blocks 906/906 | 318m elapsed, ~0.0h left
+
+done: 31 written, 0 failed/rejected, cache 17417 blocks
+link-repair queue: 41 blocks -> data/the_haunted_man_and_the_ghosts_bargain_tower_linkfix.jsonl
+[2026-07-24 10:05:57] === BOOK END The_Haunted_Man_and_the_Ghosts_Bargain (exit 0, now 31/31) ===
+[2026-07-24 10:05:57] === BOOK START The_Old_Curiosity_Shop (0/198 done) ===
+### WORK The_Old_Curiosity_Shop | TSV the_old_curiosity_shop_atoms.tsv | linkfix the_old_curiosity_shop_tower_linkfix.jsonl
+pending atoms: 198 / 198 in TSV
+cache warm with 17417 blocks
+work: 4487 prose blocks across 198 atoms
+[1/198] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_01/part_01.md | blocks 20/4487 | 16m elapsed, ~58.1h left | 5 links need repair
+[2/198] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_01/part_02.md | blocks 43/4487 | 24m elapsed, ~41.0h left | 1 links need repair
+[3/198] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_01/part_03.md | blocks 69/4487 | 32m elapsed, ~34.3h left
+[4/198] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_01/part_04.md | blocks 105/4487 | 42m elapsed, ~29.4h left | 4 links need repair
+[5/198] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_01/part_05.md | blocks 116/4487 | 49m elapsed, ~30.6h left
+[6/198] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_02/part_01.md | blocks 140/4487 | 57m elapsed, ~29.5h left | 1 links need repair
+[7/198] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_02/part_02.md | blocks 165/4487 | 68m elapsed, ~29.8h left
+[8/198] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_03/part_01.md | blocks 203/4487 | 78m elapsed, ~27.5h left | 1 links need repair
+[9/198] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_03/part_02.md | blocks 226/4487 | 90m elapsed, ~28.1h left | 3 links need repair
+[10/198] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_03/part_03.md | blocks 233/4487 | 100m elapsed, ~30.5h left | 3 links need repair
+[2026-07-24 12:24:14] === catalogue launcher start (pid 63081) -- 21 works queued ===
+Success! Server is now running on port 1234
+[2026-07-24 12:24:14] model not resident -> loading Tower 72B lean
+[?25lLoading tower-plus-72b 0% ⠋[?25lLoading tower-plus-72b 0% ⠙[?25lLoading tower-plus-72b 2% ⠙[?25lLoading tower-plus-72b 2% ⠹[?25lLoading tower-plus-72b 2% ⠸[?25lLoading tower-plus-72b 4% ⠸[?25lLoading tower-plus-72b 4% ⠼[?25lLoading tower-plus-72b 6% ⠼[?25lLoading tower-plus-72b 6% ⠴[?25lLoading tower-plus-72b 6% ⠦[?25lLoading tower-plus-72b 7% ⠦[?25lLoading tower-plus-72b 7% ⠧[?25lLoading tower-plus-72b 7% ⠇[?25lLoading tower-plus-72b 9% ⠇[?25lLoading tower-plus-72b 9% ⠏[?25lLoading tower-plus-72b 11% ⠏[?25lLoading tower-plus-72b 11% ⠋[?25lLoading tower-plus-72b 11% ⠙[?25lLoading tower-plus-72b 12% ⠙[?25lLoading tower-plus-72b 12% ⠹[?25lLoading tower-plus-72b 14% ⠹[?25lLoading tower-plus-72b 14% ⠸[?25lLoading tower-plus-72b 14% ⠼[?25lLoading tower-plus-72b 15% ⠼[?25lLoading tower-plus-72b 15% ⠴[?25lLoading tower-plus-72b 15% ⠦[?25lLoading tower-plus-72b 17% ⠦[?25lLoading tower-plus-72b 17% ⠧[?25lLoading tower-plus-72b 18% ⠧[?25lLoading tower-plus-72b 18% ⠇[?25lLoading tower-plus-72b 18% ⠏[?25lLoading tower-plus-72b 19% ⠏[?25lLoading tower-plus-72b 19% ⠋[?25lLoading tower-plus-72b 19% ⠙[?25lLoading tower-plus-72b 21% ⠙[?25lLoading tower-plus-72b 21% ⠹[?25lLoading tower-plus-72b 22% ⠹[?25lLoading tower-plus-72b 22% ⠸[?25lLoading tower-plus-72b 22% ⠼[?25lLoading tower-plus-72b 23% ⠼[?25lLoading tower-plus-72b 23% ⠴[?25lLoading tower-plus-72b 23% ⠦[?25lLoading tower-plus-72b 24% ⠦[?25lLoading tower-plus-72b 24% ⠧[?25lLoading tower-plus-72b 26% ⠧[?25lLoading tower-plus-72b 26% ⠇[?25lLoading tower-plus-72b 26% ⠏[?25lLoading tower-plus-72b 27% ⠏[?25lLoading tower-plus-72b 27% ⠋[?25lLoading tower-plus-72b 27% ⠙[?25lLoading tower-plus-72b 28% ⠙[?25lLoading tower-plus-72b 28% ⠹[?25lLoading tower-plus-72b 29% ⠹[?25lLoading tower-plus-72b 29% ⠸[?25lLoading tower-plus-72b 29% ⠼[?25lLoading tower-plus-72b 30% ⠼[?25lLoading tower-plus-72b 30% ⠴[?25lLoading tower-plus-72b 31% ⠴[?25lLoading tower-plus-72b 31% ⠦[?25lLoading tower-plus-72b 31% ⠧[?25lLoading tower-plus-72b 32% ⠧[?25lLoading tower-plus-72b 32% ⠇[?25lLoading tower-plus-72b 32% ⠏[?25lLoading tower-plus-72b 33% ⠏[?25lLoading tower-plus-72b 33% ⠋[?25lLoading tower-plus-72b 34% ⠋[?25lLoading tower-plus-72b 34% ⠙[?25lLoading tower-plus-72b 34% ⠹[?25lLoading tower-plus-72b 34% ⠹[?25lLoading tower-plus-72b 34% ⠸[?25lLoading tower-plus-72b 35% ⠸[?25lLoading tower-plus-72b 35% ⠼[?25lLoading tower-plus-72b 35% ⠴[?25lLoading tower-plus-72b 36% ⠴[?25lLoading tower-plus-72b 36% ⠦[?25lLoading tower-plus-72b 37% ⠦[?25lLoading tower-plus-72b 37% ⠧[?25lLoading tower-plus-72b 37% ⠇[?25lLoading tower-plus-72b 38% ⠇[?25lLoading tower-plus-72b 38% ⠏[?25lLoading tower-plus-72b 38% ⠋[?25lLoading tower-plus-72b 38% ⠋[?25lLoading tower-plus-72b 38% ⠙[?25lLoading tower-plus-72b 39% ⠙[?25lLoading tower-plus-72b 39% ⠹[?25lLoading tower-plus-72b 39% ⠸[?25lLoading tower-plus-72b 40% ⠸[?25lLoading tower-plus-72b 40% ⠼[?25lLoading tower-plus-72b 41% ⠼[?25lLoading tower-plus-72b 41% ⠴[?25lLoading tower-plus-72b 41% ⠦[?25lLoading tower-plus-72b 41% ⠦[?25lLoading tower-plus-72b 41% ⠧[?25lLoading tower-plus-72b 42% ⠧[?25lLoading tower-plus-72b 42% ⠇[?25lLoading tower-plus-72b 42% ⠏[?25lLoading tower-plus-72b 43% ⠏[?25lLoading tower-plus-72b 43% ⠋[?25lLoading tower-plus-72b 43% ⠙[?25lLoading tower-plus-72b 43% ⠙[?25lLoading tower-plus-72b 43% ⠹[?25lLoading tower-plus-72b 44% ⠹[?25lLoading tower-plus-72b 44% ⠸[?25lLoading tower-plus-72b 44% ⠼[?25lLoading tower-plus-72b 45% ⠼[?25lLoading tower-plus-72b 45% ⠴[?25lLoading tower-plus-72b 45% ⠴[?25lLoading tower-plus-72b 45% ⠦[?25lLoading tower-plus-72b 45% ⠧[?25lLoading tower-plus-72b 46% ⠧[?25lLoading tower-plus-72b 46% ⠇[?25lLoading tower-plus-72b 46% ⠏[?25lLoading tower-plus-72b 46% ⠏[?25lLoading tower-plus-72b 46% ⠋[?25lLoading tower-plus-72b 47% ⠋[?25lLoading tower-plus-72b 47% ⠙[?25lLoading tower-plus-72b 47% ⠹[?25lLoading tower-plus-72b 48% ⠹[?25lLoading tower-plus-72b 48% ⠸[?25lLoading tower-plus-72b 48% ⠸[?25lLoading tower-plus-72b 48% ⠼[?25lLoading tower-plus-72b 48% ⠴[?25lLoading tower-plus-72b 49% ⠴[?25lLoading tower-plus-72b 49% ⠦[?25lLoading tower-plus-72b 49% ⠧[?25lLoading tower-plus-72b 49% ⠧[?25lLoading tower-plus-72b 49% ⠇[?25lLoading tower-plus-72b 50% ⠇[?25lLoading tower-plus-72b 50% ⠏[?25lLoading tower-plus-72b 50% ⠋[?25lLoading tower-plus-72b 50% ⠋[?25lLoading tower-plus-72b 50% ⠙[?25lLoading tower-plus-72b 51% ⠙[?25lLoading tower-plus-72b 51% ⠹[?25lLoading tower-plus-72b 51% ⠸[?25lLoading tower-plus-72b 51% ⠸[?25lLoading tower-plus-72b 51% ⠼[?25lLoading tower-plus-72b 52% ⠼[?25lLoading tower-plus-72b 52% ⠴[?25lLoading tower-plus-72b 52% ⠦[?25lLoading tower-plus-72b 52% ⠦[?25lLoading tower-plus-72b 52% ⠧[?25lLoading tower-plus-72b 52% ⠇[?25lLoading tower-plus-72b 53% ⠇[?25lLoading tower-plus-72b 53% ⠏[?25lLoading tower-plus-72b 53% ⠏[?25lLoading tower-plus-72b 53% ⠋[?25lLoading tower-plus-72b 53% ⠙[?25lLoading tower-plus-72b 53% ⠙[?25lLoading tower-plus-72b 53% ⠹[?25lLoading tower-plus-72b 54% ⠹[?25lLoading tower-plus-72b 54% ⠸[?25lLoading tower-plus-72b 54% ⠼[?25lLoading tower-plus-72b 54% ⠼[?25lLoading tower-plus-72b 54% ⠴[?25lLoading tower-plus-72b 54% ⠦[?25lLoading tower-plus-72b 55% ⠦[?25lLoading tower-plus-72b 55% ⠧[?25lLoading tower-plus-72b 55% ⠧[?25lLoading tower-plus-72b 55% ⠇[?25lLoading tower-plus-72b 55% ⠏[?25lLoading tower-plus-72b 56% ⠏[?25lLoading tower-plus-72b 56% ⠋[?25lLoading tower-plus-72b 56% ⠋[?25lLoading tower-plus-72b 56% ⠙[?25lLoading tower-plus-72b 56% ⠹[?25lLoading tower-plus-72b 56% ⠹[?25lLoading tower-plus-72b 56% ⠸[?25lLoading tower-plus-72b 57% ⠸[?25lLoading tower-plus-72b 57% ⠼[?25lLoading tower-plus-72b 57% ⠴[?25lLoading tower-plus-72b 57% ⠴[?25lLoading tower-plus-72b 57% ⠦[?25lLoading tower-plus-72b 57% ⠧[?25lLoading tower-plus-72b 57% ⠧[?25lLoading tower-plus-72b 57% ⠇[?25lLoading tower-plus-72b 58% ⠇[?25lLoading tower-plus-72b 58% ⠏[?25lLoading tower-plus-72b 58% ⠋[?25lLoading tower-plus-72b 58% ⠋[?25lLoading tower-plus-72b 58% ⠙[?25lLoading tower-plus-72b 58% ⠙[?25lLoading tower-plus-72b 58% ⠹[?25lLoading tower-plus-72b 58% ⠸[?25lLoading tower-plus-72b 59% ⠸[?25lLoading tower-plus-72b 59% ⠼[?25lLoading tower-plus-72b 59% ⠴[?25lLoading tower-plus-72b 59% ⠴[?25lLoading tower-plus-72b 59% ⠦[?25lLoading tower-plus-72b 59% ⠦[?25lLoading tower-plus-72b 59% ⠧[?25lLoading tower-plus-72b 59% ⠇[?25lLoading tower-plus-72b 60% ⠇[?25lLoading tower-plus-72b 60% ⠏[?25lLoading tower-plus-72b 60% ⠋[?25lLoading tower-plus-72b 60% ⠋[?25lLoading tower-plus-72b 60% ⠙[?25lLoading tower-plus-72b 60% ⠙[?25lLoading tower-plus-72b 60% ⠹[?25lLoading tower-plus-72b 60% ⠸[?25lLoading tower-plus-72b 61% ⠸[?25lLoading tower-plus-72b 61% ⠼[?25lLoading tower-plus-72b 61% ⠼[?25lLoading tower-plus-72b 61% ⠴[?25lLoading tower-plus-72b 61% ⠦[?25lLoading tower-plus-72b 61% ⠦[?25lLoading tower-plus-72b 61% ⠧[?25lLoading tower-plus-72b 61% ⠇[?25lLoading tower-plus-72b 62% ⠇[?25lLoading tower-plus-72b 62% ⠏[?25lLoading tower-plus-72b 62% ⠏[?25lLoading tower-plus-72b 62% ⠋[?25lLoading tower-plus-72b 62% ⠙[?25lLoading tower-plus-72b 62% ⠙[?25lLoading tower-plus-72b 62% ⠹[?25lLoading tower-plus-72b 62% ⠸[?25lLoading tower-plus-72b 63% ⠸[?25lLoading tower-plus-72b 63% ⠼[?25lLoading tower-plus-72b 63% ⠼[?25lLoading tower-plus-72b 63% ⠴[?25lLoading tower-plus-72b 63% ⠦[?25lLoading tower-plus-72b 63% ⠦[?25lLoading tower-plus-72b 63% ⠧[?25lLoading tower-plus-72b 63% ⠇[?25lLoading tower-plus-72b 63% ⠇[?25lLoading tower-plus-72b 63% ⠏[?25lLoading tower-plus-72b 64% ⠏[?25lLoading tower-plus-72b 64% ⠋[?25lLoading tower-plus-72b 64% ⠙[?25lLoading tower-plus-72b 64% ⠙[?25lLoading tower-plus-72b 64% ⠹[?25lLoading tower-plus-72b 64% ⠹[?25lLoading tower-plus-72b 64% ⠸[?25lLoading tower-plus-72b 64% ⠼[?25lLoading tower-plus-72b 64% ⠼[?25lLoading tower-plus-72b 64% ⠴[?25lLoading tower-plus-72b 64% ⠦[?25lLoading tower-plus-72b 65% ⠦[?25lLoading tower-plus-72b 65% ⠧[?25lLoading tower-plus-72b 65% ⠧[?25lLoading tower-plus-72b 65% ⠇[?25lLoading tower-plus-72b 65% ⠏[?25lLoading tower-plus-72b 65% ⠏[?25lLoading tower-plus-72b 65% ⠋[?25lLoading tower-plus-72b 65% ⠙[?25lLoading tower-plus-72b 65% ⠙[?25lLoading tower-plus-72b 65% ⠹[?25lLoading tower-plus-72b 66% ⠹[?25lLoading tower-plus-72b 66% ⠸[?25lLoading tower-plus-72b 66% ⠼[?25lLoading tower-plus-72b 66% ⠼[?25lLoading tower-plus-72b 66% ⠴[?25lLoading tower-plus-72b 66% ⠦[?25lLoading tower-plus-72b 66% ⠦[?25lLoading tower-plus-72b 66% ⠧[?25lLoading tower-plus-72b 66% ⠧[?25lLoading tower-plus-72b 66% ⠇[?25lLoading tower-plus-72b 66% ⠏[?25lLoading tower-plus-72b 67% ⠏[?25lLoading tower-plus-72b 67% ⠋[?25lLoading tower-plus-72b 67% ⠙[?25lLoading tower-plus-72b 67% ⠙[?25lLoading tower-plus-72b 67% ⠹[?25lLoading tower-plus-72b 67% ⠹[?25lLoading tower-plus-72b 67% ⠸[?25lLoading tower-plus-72b 67% ⠼[?25lLoading tower-plus-72b 67% ⠼[?25lLoading tower-plus-72b 67% ⠴[?25lLoading tower-plus-72b 67% ⠦[?25lLoading tower-plus-72b 67% ⠦[?25lLoading tower-plus-72b 67% ⠧[?25lLoading tower-plus-72b 68% ⠧[?25lLoading tower-plus-72b 68% ⠇[?25lLoading tower-plus-72b 68% ⠏[?25lLoading tower-plus-72b 68% ⠏[?25lLoading tower-plus-72b 68% ⠋[?25lLoading tower-plus-72b 68% ⠙[?25lLoading tower-plus-72b 68% ⠙[?25lLoading tower-plus-72b 68% ⠹[?25lLoading tower-plus-72b 68% ⠹[?25lLoading tower-plus-72b 68% ⠸[?25lLoading tower-plus-72b 68% ⠼[?25lLoading tower-plus-72b 68% ⠼[?25lLoading tower-plus-72b 68% ⠴[?25lLoading tower-plus-72b 68% ⠦[?25lLoading tower-plus-72b 69% ⠦[?25lLoading tower-plus-72b 69% ⠧[?25lLoading tower-plus-72b 69% ⠧[?25lLoading tower-plus-72b 69% ⠇[?25lLoading tower-plus-72b 69% ⠏[?25lLoading tower-plus-72b 69% ⠏[?25lLoading tower-plus-72b 69% ⠋[?25lLoading tower-plus-72b 69% ⠙[?25lLoading tower-plus-72b 69% ⠙[?25lLoading tower-plus-72b 69% ⠹[?25lLoading tower-plus-72b 69% ⠹[?25lLoading tower-plus-72b 69% ⠸[?25lLoading tower-plus-72b 69% ⠼[?25lLoading tower-plus-72b 70% ⠼[?25lLoading tower-plus-72b 70% ⠴[?25lLoading tower-plus-72b 70% ⠴[?25lLoading tower-plus-72b 70% ⠦[?25lLoading tower-plus-72b 70% ⠧[?25lLoading tower-plus-72b 70% ⠧[?25lLoading tower-plus-72b 70% ⠇[?25lLoading tower-plus-72b 70% ⠏[?25lLoading tower-plus-72b 70% ⠏[?25lLoading tower-plus-72b 70% ⠋[?25lLoading tower-plus-72b 70% ⠙[?25lLoading tower-plus-72b 70% ⠙[?25lLoading tower-plus-72b 70% ⠹[?25lLoading tower-plus-72b 71% ⠹[?25lLoading tower-plus-72b 71% ⠸[?25lLoading tower-plus-72b 71% ⠼[?25lLoading tower-plus-72b 71% ⠼[?25lLoading tower-plus-72b 71% ⠴[?25lLoading tower-plus-72b 71% ⠦[?25lLoading tower-plus-72b 71% ⠦[?25lLoading tower-plus-72b 71% ⠧[?25lLoading tower-plus-72b 71% ⠧[?25lLoading tower-plus-72b 71% ⠇[?25lLoading tower-plus-72b 71% ⠏[?25lLoading tower-plus-72b 71% ⠏[?25lLoading tower-plus-72b 71% ⠋[?25lLoading tower-plus-72b 71% ⠙[?25lLoading tower-plus-72b 71% ⠙[?25lLoading tower-plus-72b 71% ⠹[?25lLoading tower-plus-72b 72% ⠹[?25lLoading tower-plus-72b 72% ⠸[?25lLoading tower-plus-72b 72% ⠼[?25lLoading tower-plus-72b 72% ⠼[?25lLoading tower-plus-72b 72% ⠴[?25lLoading tower-plus-72b 72% ⠴[?25lLoading tower-plus-72b 72% ⠦[?25lLoading tower-plus-72b 72% ⠧[?25lLoading tower-plus-72b 72% ⠧[?25lLoading tower-plus-72b 72% ⠇[?25lLoading tower-plus-72b 72% ⠏[?25lLoading tower-plus-72b 72% ⠏[?25lLoading tower-plus-72b 72% ⠋[?25lLoading tower-plus-72b 72% ⠋[?25lLoading tower-plus-72b 72% ⠙[?25lLoading tower-plus-72b 72% ⠹[?25lLoading tower-plus-72b 72% ⠹[?25lLoading tower-plus-72b 72% ⠸[?25lLoading tower-plus-72b 72% ⠼[?25lLoading tower-plus-72b 73% ⠼[?25lLoading tower-plus-72b 73% ⠴[?25lLoading tower-plus-72b 73% ⠴[?25lLoading tower-plus-72b 73% ⠦[?25lLoading tower-plus-72b 73% ⠧[?25lLoading tower-plus-72b 73% ⠧[?25lLoading tower-plus-72b 73% ⠇[?25lLoading tower-plus-72b 73% ⠏[?25lLoading tower-plus-72b 73% ⠏[?25lLoading tower-plus-72b 73% ⠋[?25lLoading tower-plus-72b 73% ⠙[?25lLoading tower-plus-72b 73% ⠙[?25lLoading tower-plus-72b 73% ⠹[?25lLoading tower-plus-72b 73% ⠹[?25lLoading tower-plus-72b 73% ⠸[?25lLoading tower-plus-72b 73% ⠼[?25lLoading tower-plus-72b 73% ⠼[?25lLoading tower-plus-72b 73% ⠴[?25lLoading tower-plus-72b 73% ⠦[?25lLoading tower-plus-72b 74% ⠦[?25lLoading tower-plus-72b 74% ⠧[?25lLoading tower-plus-72b 74% ⠧[?25lLoading tower-plus-72b 74% ⠇[?25lLoading tower-plus-72b 74% ⠏[?25lLoading tower-plus-72b 74% ⠏[?25lLoading tower-plus-72b 74% ⠋[?25lLoading tower-plus-72b 74% ⠙[?25lLoading tower-plus-72b 74% ⠙[?25lLoading tower-plus-72b 74% ⠹[?25lLoading tower-plus-72b 74% ⠹[?25lLoading tower-plus-72b 74% ⠸[?25lLoading tower-plus-72b 74% ⠼[?25lLoading tower-plus-72b 74% ⠼[?25lLoading tower-plus-72b 74% ⠴[?25lLoading tower-plus-72b 74% ⠦[?25lLoading tower-plus-72b 74% ⠦[?25lLoading tower-plus-72b 74% ⠧[?25lLoading tower-plus-72b 75% ⠧[?25lLoading tower-plus-72b 75% ⠇[?25lLoading tower-plus-72b 75% ⠏[?25lLoading tower-plus-72b 75% ⠏[?25lLoading tower-plus-72b 75% ⠋[?25lLoading tower-plus-72b 75% ⠙[?25lLoading tower-plus-72b 75% ⠙[?25lLoading tower-plus-72b 75% ⠹[?25lLoading tower-plus-72b 75% ⠹[?25lLoading tower-plus-72b 75% ⠸[?25lLoading tower-plus-72b 75% ⠼[?25lLoading tower-plus-72b 75% ⠼[?25lLoading tower-plus-72b 75% ⠴[?25lLoading tower-plus-72b 75% ⠦[?25lLoading tower-plus-72b 75% ⠦[?25lLoading tower-plus-72b 75% ⠧[?25lLoading tower-plus-72b 75% ⠧[?25lLoading tower-plus-72b 75% ⠇[?25lLoading tower-plus-72b 75% ⠏[?25lLoading tower-plus-72b 75% ⠏[?25lLoading tower-plus-72b 75% ⠋[?25lLoading tower-plus-72b 75% ⠙[?25lLoading tower-plus-72b 76% ⠙[?25lLoading tower-plus-72b 76% ⠹[?25lLoading tower-plus-72b 76% ⠹[?25lLoading tower-plus-72b 76% ⠸[?25lLoading tower-plus-72b 76% ⠼[?25lLoading tower-plus-72b 76% ⠼[?25lLoading tower-plus-72b 76% ⠴[?25lLoading tower-plus-72b 76% ⠴[?25lLoading tower-plus-72b 76% ⠦[?25lLoading tower-plus-72b 76% ⠧[?25lLoading tower-plus-72b 76% ⠧[?25lLoading tower-plus-72b 76% ⠇[?25lLoading tower-plus-72b 76% ⠏[?25lLoading tower-plus-72b 76% ⠏[?25lLoading tower-plus-72b 76% ⠋[?25lLoading tower-plus-72b 76% ⠋[?25lLoading tower-plus-72b 76% ⠙[?25lLoading tower-plus-72b 76% ⠹[?25lLoading tower-plus-72b 76% ⠹[?25lLoading tower-plus-72b 76% ⠸[?25lLoading tower-plus-72b 76% ⠼[?25lLoading tower-plus-72b 76% ⠼[?25lLoading tower-plus-72b 76% ⠴[?25lLoading tower-plus-72b 77% ⠴[?25lLoading tower-plus-72b 77% ⠦[?25lLoading tower-plus-72b 77% ⠧[?25lLoading tower-plus-72b 77% ⠧[?25lLoading tower-plus-72b 77% ⠇[?25lLoading tower-plus-72b 77% ⠏[?25lLoading tower-plus-72b 77% ⠏[?25lLoading tower-plus-72b 77% ⠋[?25lLoading tower-plus-72b 77% ⠋[?25lLoading tower-plus-72b 77% ⠙[?25lLoading tower-plus-72b 77% ⠹[?25lLoading tower-plus-72b 77% ⠹[?25lLoading tower-plus-72b 77% ⠸[?25lLoading tower-plus-72b 77% ⠼[?25lLoading tower-plus-72b 77% ⠼[?25lLoading tower-plus-72b 77% ⠴[?25lLoading tower-plus-72b 77% ⠴[?25lLoading tower-plus-72b 77% ⠦[?25lLoading tower-plus-72b 77% ⠧[?25lLoading tower-plus-72b 77% ⠧[?25lLoading tower-plus-72b 77% ⠇[?25lLoading tower-plus-72b 77% ⠏[?25lLoading tower-plus-72b 77% ⠏[?25lLoading tower-plus-72b 77% ⠋[?25lLoading tower-plus-72b 78% ⠋[?25lLoading tower-plus-72b 78% ⠙[?25lLoading tower-plus-72b 78% ⠹[?25lLoading tower-plus-72b 78% ⠹[?25lLoading tower-plus-72b 78% ⠸[?25lLoading tower-plus-72b 78% ⠼[?25lLoading tower-plus-72b 78% ⠼[?25lLoading tower-plus-72b 78% ⠴[?25lLoading tower-plus-72b 78% ⠴[?25lLoading tower-plus-72b 78% ⠦[?25lLoading tower-plus-72b 78% ⠧[?25lLoading tower-plus-72b 78% ⠧[?25lLoading tower-plus-72b 78% ⠇[?25lLoading tower-plus-72b 78% ⠏[?25lLoading tower-plus-72b 78% ⠏[?25lLoading tower-plus-72b 78% ⠋[?25lLoading tower-plus-72b 78% ⠋[?25lLoading tower-plus-72b 78% ⠙[?25lLoading tower-plus-72b 78% ⠹[?25lLoading tower-plus-72b 78% ⠹[?25lLoading tower-plus-72b 78% ⠸[?25lLoading tower-plus-72b 78% ⠼[?25lLoading tower-plus-72b 78% ⠼[?25lLoading tower-plus-72b 78% ⠴[?25lLoading tower-plus-72b 78% ⠴[?25lLoading tower-plus-72b 78% ⠦[?25lLoading tower-plus-72b 78% ⠧[?25lLoading tower-plus-72b 79% ⠧[?25lLoading tower-plus-72b 79% ⠇[?25lLoading tower-plus-72b 79% ⠏[?25lLoading tower-plus-72b 79% ⠏[?25lLoading tower-plus-72b 79% ⠋[?25lLoading tower-plus-72b 79% ⠋[?25lLoading tower-plus-72b 79% ⠙[?25lLoading tower-plus-72b 79% ⠹[?25lLoading tower-plus-72b 79% ⠹[?25lLoading tower-plus-72b 79% ⠸[?25lLoading tower-plus-72b 79% ⠼[?25lLoading tower-plus-72b 79% ⠼[?25lLoading tower-plus-72b 100% ⠼[K[?25hModel loaded successfully in 25.16s.
+(44.16 GiB)
+To use the model in the API/SDK, use the identifier "tower-plus-72b".
+[2026-07-24 12:24:40] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-24 12:24:40] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-24 12:24:40] === SKIP Hard_Times (already 129/129) ===
+[2026-07-24 12:24:40] === SKIP The_Chimes (already 29/29) ===
+[2026-07-24 12:24:40] === SKIP The_Cricket_on_the_Hearth (already 33/33) ===
+[2026-07-24 12:24:40] === SKIP The_Battle_of_Life (already 28/28) ===
+[2026-07-24 12:24:40] === SKIP The_Haunted_Man_and_the_Ghosts_Bargain (already 31/31) ===
+[2026-07-24 12:24:40] === BOOK START The_Old_Curiosity_Shop (10/198 done) ===
+### WORK The_Old_Curiosity_Shop | TSV the_old_curiosity_shop_atoms.tsv | linkfix the_old_curiosity_shop_tower_linkfix.jsonl
+pending atoms: 188 / 198 in TSV
+cache warm with 17643 blocks
+work: 4254 prose blocks across 188 atoms
+[1/188] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_04/part_01.md | blocks 14/4254 | 11m elapsed, ~56.1h left | 3 links need repair
+[2/188] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_04/part_02.md | blocks 30/4254 | 21m elapsed, ~48.8h left | 1 links need repair
+[3/188] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_04/part_03.md | blocks 64/4254 | 29m elapsed, ~31.5h left | 1 links need repair
+[4/188] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_05/part_01.md | blocks 90/4254 | 40m elapsed, ~31.2h left | 3 links need repair
+[5/188] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_05/part_02.md | blocks 117/4254 | 52m elapsed, ~30.6h left | 2 links need repair
+Traceback (most recent call last):
+  File "/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/run_dickens_book.py", line 31, in <module>
+  File "/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/dickens_tower.py", line 517, in main
+PermissionError: [Errno 1] Operation not permitted: '/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/VaultEnglish/Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_06/part_01.md'
+[2026-07-24 13:46:02] === catalogue launcher start (pid 69053) -- 21 works queued ===
+Success! Server is now running on port 1234
+[2026-07-24 13:46:03] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-24 13:46:03] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-24 13:46:03] === SKIP Hard_Times (already 129/129) ===
+[2026-07-24 13:46:03] === SKIP The_Chimes (already 29/29) ===
+[2026-07-24 13:46:03] === SKIP The_Cricket_on_the_Hearth (already 33/33) ===
+[2026-07-24 13:46:03] === SKIP The_Battle_of_Life (already 28/28) ===
+[2026-07-24 13:46:03] === SKIP The_Haunted_Man_and_the_Ghosts_Bargain (already 31/31) ===
+[2026-07-24 13:46:03] === BOOK START The_Old_Curiosity_Shop (15/198 done) ===
+### WORK The_Old_Curiosity_Shop | TSV the_old_curiosity_shop_atoms.tsv | linkfix the_old_curiosity_shop_tower_linkfix.jsonl
+pending atoms: 183 / 198 in TSV
+cache warm with 17781 blocks
+work: 4137 prose blocks across 183 atoms
+[1/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_06/part_01.md | blocks 30/4137 | 0m elapsed, ~0.0h left
+[2/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_06/part_02.md | blocks 65/4137 | 10m elapsed, ~9.9h left | 3 links need repair
+[3/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_06/part_03.md | blocks 94/4137 | 21m elapsed, ~15.3h left | 1 links need repair
+[4/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_07/part_01.md | blocks 121/4137 | 32m elapsed, ~17.8h left
+[5/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_07/part_02.md | blocks 157/4137 | 45m elapsed, ~19.1h left | 5 links need repair
+[6/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_08/part_01.md | blocks 171/4137 | 62m elapsed, ~24.0h left | 8 links need repair
+[7/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_08/part_02.md | blocks 181/4137 | 75m elapsed, ~27.2h left | 3 links need repair
+[8/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_08/part_03.md | blocks 206/4137 | 84m elapsed, ~26.6h left
+[9/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_08/part_04.md | blocks 222/4137 | 89m elapsed, ~26.1h left
+[10/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_09/part_01.md | blocks 232/4137 | 105m elapsed, ~29.4h left | 4 links need repair
+[11/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_09/part_02.md | blocks 257/4137 | 114m elapsed, ~28.8h left
+[12/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_09/part_03.md | blocks 283/4137 | 124m elapsed, ~28.1h left | 2 links need repair
+[13/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_09/part_04.md | blocks 299/4137 | 129m elapsed, ~27.6h left | 1 links need repair
+[14/183] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_10/part_01.md | blocks 323/4137 | 140m elapsed, ~27.5h left | 6 links need repair
+[2026-07-24 19:13:58] === catalogue launcher start (pid 88504) -- 21 works queued ===
+[2026-07-24 19:13:58] mlx server down -> starting on :8081
+[2026-07-24 19:14:03] mlx server up
+[2026-07-24 19:14:04] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-24 19:14:04] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-24 19:14:04] === SKIP Hard_Times (already 129/129) ===
+[2026-07-24 19:14:04] === SKIP The_Chimes (already 29/29) ===
+[2026-07-24 19:14:04] === SKIP The_Cricket_on_the_Hearth (already 33/33) ===
+[2026-07-24 19:14:04] === SKIP The_Battle_of_Life (already 28/28) ===
+[2026-07-24 19:14:04] === SKIP The_Haunted_Man_and_the_Ghosts_Bargain (already 31/31) ===
+[2026-07-24 19:14:05] === BOOK START The_Old_Curiosity_Shop (29/198 done) ===
+### WORK The_Old_Curiosity_Shop | TSV the_old_curiosity_shop_atoms.tsv | linkfix the_old_curiosity_shop_tower_linkfix.jsonl
+pending atoms: 169 / 198 in TSV
+cache warm with 18087 blocks
+work: 3814 prose blocks across 169 atoms
+[1/169] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_10/part_02.md | blocks 29/3814 | 2m elapsed, ~3.3h left
+[2/169] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_11/part_01.md | blocks 49/3814 | 10m elapsed, ~12.2h left
+[2026-07-24 19:26:31] === catalogue launcher start (pid 88979) -- 21 works queued ===
+[2026-07-24 19:26:31] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-24 19:26:31] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-24 19:26:31] === SKIP Hard_Times (already 129/129) ===
+[2026-07-24 19:26:31] === SKIP The_Chimes (already 29/29) ===
+[2026-07-24 19:26:31] === SKIP The_Cricket_on_the_Hearth (already 33/33) ===
+[2026-07-24 19:26:31] === SKIP The_Battle_of_Life (already 28/28) ===
+[2026-07-24 19:26:31] === SKIP The_Haunted_Man_and_the_Ghosts_Bargain (already 31/31) ===
+[2026-07-24 19:26:31] === BOOK START The_Old_Curiosity_Shop (31/198 done) ===
+### WORK The_Old_Curiosity_Shop | TSV the_old_curiosity_shop_atoms.tsv | linkfix the_old_curiosity_shop_tower_linkfix.jsonl
+pending atoms: 167 / 198 in TSV
+cache warm with 18125 blocks
+work: 3765 prose blocks across 167 atoms
+[1/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_11/part_02.md | blocks 31/3765 | 4m elapsed, ~8.4h left
+[2/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_11/part_03.md | blocks 52/3765 | 10m elapsed, ~12.2h left
+[3/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_12/part_01.md | blocks 76/3765 | 19m elapsed, ~15.0h left | 1 links need repair
+[4/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_12/part_02.md | blocks 99/3765 | 26m elapsed, ~16.0h left | 1 links need repair
+[5/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_12/part_03.md | blocks 109/3765 | 29m elapsed, ~16.2h left
+[6/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_13/part_01.md | blocks 131/3765 | 36m elapsed, ~16.7h left | 3 links need repair
+[7/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_13/part_02.md | blocks 160/3765 | 44m elapsed, ~16.6h left | 1 links need repair
+[8/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_13/part_03.md | blocks 198/3765 | 53m elapsed, ~15.9h left | 2 links need repair
+[9/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_14/part_01.md | blocks 215/3765 | 60m elapsed, ~16.5h left
+[10/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_14/part_02.md | blocks 240/3765 | 68m elapsed, ~16.7h left
+[11/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_15/part_01.md | blocks 251/3765 | 76m elapsed, ~17.8h left
+[12/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_15/part_02.md | blocks 266/3765 | 85m elapsed, ~18.7h left | 2 links need repair
+[13/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_15/part_03.md | blocks 293/3765 | 93m elapsed, ~18.4h left | 1 links need repair
+[14/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_16/part_01.md | blocks 314/3765 | 102m elapsed, ~18.7h left | 1 links need repair
+[15/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_16/part_02.md | blocks 334/3765 | 109m elapsed, ~18.6h left
+[16/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_17/part_01.md | blocks 351/3765 | 119m elapsed, ~19.2h left | 2 links need repair
+[17/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_17/part_02.md | blocks 372/3765 | 127m elapsed, ~19.4h left | 1 links need repair
+[18/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_17/part_03.md | blocks 391/3765 | 136m elapsed, ~19.6h left | 2 links need repair
+[19/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_18/part_01.md | blocks 407/3765 | 146m elapsed, ~20.0h left | 2 links need repair
+[20/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_18/part_02.md | blocks 431/3765 | 152m elapsed, ~19.6h left
+[21/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_18/part_03.md | blocks 445/3765 | 157m elapsed, ~19.5h left
+[22/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_19/part_01.md | blocks 475/3765 | 165m elapsed, ~19.0h left | 1 links need repair
+[23/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_19/part_02.md | blocks 488/3765 | 172m elapsed, ~19.3h left | 1 links need repair
+[24/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_19/part_03.md | blocks 503/3765 | 182m elapsed, ~19.7h left | 1 links need repair
+[25/167] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_19/part_04.md | blocks 511/3765 | 186m elapsed, ~19.7h left
+[2026-07-24 22:51:49] === catalogue launcher start (pid 9189) -- 21 works queued ===
+[2026-07-24 22:51:49] mlx server down -> starting on :8081
+[2026-07-24 22:51:54] mlx server up
+[2026-07-24 22:51:54] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-24 22:51:55] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-24 22:51:55] === SKIP Hard_Times (already 129/129) ===
+[2026-07-24 22:51:55] === SKIP The_Chimes (already 29/29) ===
+[2026-07-24 22:51:55] === SKIP The_Cricket_on_the_Hearth (already 33/33) ===
+[2026-07-24 22:51:55] === SKIP The_Battle_of_Life (already 28/28) ===
+[2026-07-24 22:51:55] === SKIP The_Haunted_Man_and_the_Ghosts_Bargain (already 31/31) ===
+[2026-07-24 22:51:55] === BOOK START The_Old_Curiosity_Shop (56/198 done) ===
+### WORK The_Old_Curiosity_Shop | TSV the_old_curiosity_shop_atoms.tsv | linkfix the_old_curiosity_shop_tower_linkfix.jsonl
+pending atoms: 142 / 198 in TSV
+cache warm with 18617 blocks
+work: 3254 prose blocks across 142 atoms
+[1/142] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_20.md | blocks 45/3254 | 6m elapsed, ~7.0h left
+[2/142] FAIL Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_21/part_01.md: tower failed after 3 tries: URLError(ConnectionRefusedError(61, 'Connection refused'))
+[2026-07-25 00:14:00] === catalogue launcher start (pid 13834) -- 21 works queued ===
+[2026-07-25 00:14:00] mlx server down -> starting on :8081
+[2026-07-25 00:14:05] mlx server up
+[2026-07-25 00:14:06] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-25 00:14:06] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-25 00:14:06] === SKIP Hard_Times (already 129/129) ===
+[2026-07-25 00:14:06] === SKIP The_Chimes (already 29/29) ===
+[2026-07-25 00:14:06] === SKIP The_Cricket_on_the_Hearth (already 33/33) ===
+[2026-07-25 00:14:06] === SKIP The_Battle_of_Life (already 28/28) ===
+[2026-07-25 00:14:06] === SKIP The_Haunted_Man_and_the_Ghosts_Bargain (already 31/31) ===
+[2026-07-25 00:14:06] === BOOK START The_Old_Curiosity_Shop (57/198 done) ===
+### WORK The_Old_Curiosity_Shop | TSV the_old_curiosity_shop_atoms.tsv | linkfix the_old_curiosity_shop_tower_linkfix.jsonl
+pending atoms: 141 / 198 in TSV
+cache warm with 18650 blocks
+work: 3209 prose blocks across 141 atoms
+[1/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_21/part_01.md | blocks 15/3209 | 2m elapsed, ~7.4h left | 1 links need repair
+[2/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_21/part_02.md | blocks 42/3209 | 9m elapsed, ~11.2h left
+[3/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_21/part_03.md | blocks 67/3209 | 20m elapsed, ~15.8h left | 3 links need repair
+[4/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_22.md | blocks 94/3209 | 36m elapsed, ~19.7h left | 6 links need repair
+[5/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_23/part_01.md | blocks 117/3209 | 42m elapsed, ~18.6h left
+[6/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_23/part_02.md | blocks 137/3209 | 51m elapsed, ~19.1h left | 1 links need repair
+[7/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_23/part_03.md | blocks 162/3209 | 60m elapsed, ~18.8h left | 1 links need repair
+[8/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_24/part_01.md | blocks 180/3209 | 67m elapsed, ~18.7h left
+[9/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_24/part_02.md | blocks 209/3209 | 75m elapsed, ~17.9h left | 2 links need repair
+[10/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_25/part_01.md | blocks 232/3209 | 83m elapsed, ~17.7h left | 1 links need repair
+[11/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_25/part_02.md | blocks 244/3209 | 89m elapsed, ~18.1h left
+[12/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_25/part_03.md | blocks 267/3209 | 95m elapsed, ~17.4h left
+[13/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_26/part_01.md | blocks 284/3209 | 102m elapsed, ~17.5h left | 1 links need repair
+[14/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_26/part_02.md | blocks 315/3209 | 109m elapsed, ~16.7h left | 1 links need repair
+[15/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_26/part_03.md | blocks 328/3209 | 113m elapsed, ~16.6h left | 1 links need repair
+[16/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_27/part_01.md | blocks 351/3209 | 120m elapsed, ~16.3h left
+[17/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_27/part_02.md | blocks 378/3209 | 129m elapsed, ~16.0h left | 3 links need repair
+[18/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_27/part_03.md | blocks 399/3209 | 136m elapsed, ~16.0h left
+[19/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_28/part_01.md | blocks 416/3209 | 146m elapsed, ~16.3h left | 1 links need repair
+[20/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_28/part_02.md | blocks 440/3209 | 155m elapsed, ~16.3h left | 1 links need repair
+[21/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_29/part_01.md | blocks 448/3209 | 168m elapsed, ~17.3h left | 3 links need repair
+[22/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_29/part_02.md | blocks 467/3209 | 175m elapsed, ~17.1h left | 1 links need repair
+[23/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_29/part_03.md | blocks 500/3209 | 182m elapsed, ~16.4h left | 1 links need repair
+[24/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_29/part_04.md | blocks 510/3209 | 185m elapsed, ~16.3h left | 1 links need repair
+[25/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_30/part_01.md | blocks 535/3209 | 192m elapsed, ~16.0h left | 2 links need repair
+[26/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_30/part_02.md | blocks 553/3209 | 198m elapsed, ~15.8h left
+[27/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_31/part_01.md | blocks 574/3209 | 205m elapsed, ~15.7h left
+[28/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_31/part_02.md | blocks 593/3209 | 212m elapsed, ~15.6h left | 1 links need repair
+[29/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_31/part_03.md | blocks 618/3209 | 219m elapsed, ~15.3h left | 2 links need repair
+[30/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_31/part_04.md | blocks 627/3209 | 222m elapsed, ~15.2h left
+[31/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_32/part_01.md | blocks 641/3209 | 229m elapsed, ~15.3h left | 1 links need repair
+[32/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_32/part_02.md | blocks 655/3209 | 236m elapsed, ~15.3h left
+[33/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_33/part_01.md | blocks 665/3209 | 245m elapsed, ~15.6h left | 1 links need repair
+[34/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_33/part_02.md | blocks 694/3209 | 252m elapsed, ~15.2h left
+[35/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_33/part_03.md | blocks 720/3209 | 262m elapsed, ~15.1h left | 1 links need repair
+[36/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_34/part_01.md | blocks 739/3209 | 268m elapsed, ~14.9h left
+[37/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_34/part_02.md | blocks 774/3209 | 276m elapsed, ~14.5h left | 4 links need repair
+[38/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_35/part_01.md | blocks 794/3209 | 283m elapsed, ~14.3h left | 1 links need repair
+[39/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_35/part_02.md | blocks 826/3209 | 291m elapsed, ~14.0h left | 2 links need repair
+[40/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_35/part_03.md | blocks 854/3209 | 297m elapsed, ~13.6h left | 2 links need repair
+[41/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_35/part_04.md | blocks 872/3209 | 300m elapsed, ~13.4h left
+[42/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_36.md | blocks 903/3209 | 313m elapsed, ~13.3h left
+[43/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_37/part_01.md | blocks 922/3209 | 320m elapsed, ~13.2h left
+[44/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_37/part_02.md | blocks 949/3209 | 326m elapsed, ~12.9h left
+[45/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_37/part_03.md | blocks 965/3209 | 331m elapsed, ~12.8h left | 1 links need repair
+[46/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_38/part_01.md | blocks 975/3209 | 339m elapsed, ~12.9h left | 1 links need repair
+[47/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_38/part_02.md | blocks 1002/3209 | 346m elapsed, ~12.7h left
+[48/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_38/part_03.md | blocks 1039/3209 | 354m elapsed, ~12.3h left | 1 links need repair
+[49/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_39/part_01.md | blocks 1051/3209 | 364m elapsed, ~12.5h left
+[50/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_39/part_02.md | blocks 1067/3209 | 373m elapsed, ~12.5h left | 1 links need repair
+[51/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_40/part_01.md | blocks 1090/3209 | 382m elapsed, ~12.4h left | 2 links need repair
+[52/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_40/part_02.md | blocks 1108/3209 | 390m elapsed, ~12.3h left | 1 links need repair
+[53/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_40/part_03.md | blocks 1130/3209 | 395m elapsed, ~12.1h left | 1 links need repair
+[54/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_41/part_01.md | blocks 1148/3209 | 404m elapsed, ~12.1h left | 2 links need repair
+[55/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_41/part_02.md | blocks 1170/3209 | 410m elapsed, ~11.9h left
+[56/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_41/part_03.md | blocks 1184/3209 | 414m elapsed, ~11.8h left
+[57/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_42/part_01.md | blocks 1200/3209 | 425m elapsed, ~11.8h left | 3 links need repair
+[58/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_42/part_02.md | blocks 1224/3209 | 432m elapsed, ~11.7h left | 1 links need repair
+[59/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_42/part_03.md | blocks 1261/3209 | 441m elapsed, ~11.3h left
+[60/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_43/part_01.md | blocks 1282/3209 | 447m elapsed, ~11.2h left
+[61/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_43/part_02.md | blocks 1297/3209 | 459m elapsed, ~11.3h left | 2 links need repair
+[62/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_44/part_01.md | blocks 1311/3209 | 466m elapsed, ~11.2h left | 1 links need repair
+[63/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_44/part_02.md | blocks 1331/3209 | 473m elapsed, ~11.1h left
+[64/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_44/part_03.md | blocks 1363/3209 | 481m elapsed, ~10.9h left | 1 links need repair
+[65/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_45/part_01.md | blocks 1377/3209 | 497m elapsed, ~11.0h left | 4 links need repair
+[66/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_45/part_02.md | blocks 1405/3209 | 505m elapsed, ~10.8h left | 1 links need repair
+[67/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_46/part_01.md | blocks 1427/3209 | 516m elapsed, ~10.7h left | 3 links need repair
+[68/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_46/part_02.md | blocks 1448/3209 | 525m elapsed, ~10.6h left | 2 links need repair
+[69/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_46/part_03.md | blocks 1456/3209 | 535m elapsed, ~10.7h left | 2 links need repair
+[70/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_46/part_04.md | blocks 1464/3209 | 537m elapsed, ~10.7h left
+[71/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_47/part_01.md | blocks 1491/3209 | 548m elapsed, ~10.5h left | 2 links need repair
+[72/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_47/part_02.md | blocks 1521/3209 | 554m elapsed, ~10.3h left
+[73/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_48/part_01.md | blocks 1553/3209 | 561m elapsed, ~10.0h left
+[74/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_48/part_02.md | blocks 1572/3209 | 570m elapsed, ~9.9h left | 3 links need repair
+[75/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_48/part_03.md | blocks 1592/3209 | 579m elapsed, ~9.8h left | 2 links need repair
+[76/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_49/part_01.md | blocks 1614/3209 | 585m elapsed, ~9.6h left
+[77/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_49/part_02.md | blocks 1650/3209 | 593m elapsed, ~9.3h left | 1 links need repair
+[78/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_50/part_01.md | blocks 1672/3209 | 604m elapsed, ~9.2h left | 1 links need repair
+[79/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_50/part_02.md | blocks 1701/3209 | 613m elapsed, ~9.1h left | 3 links need repair
+[80/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_50/part_03.md | blocks 1732/3209 | 624m elapsed, ~8.9h left | 1 links need repair
+[81/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_51/part_01.md | blocks 1766/3209 | 632m elapsed, ~8.6h left
+[82/141] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_51/part_02.md | blocks 1795/3209 | 641m elapsed, ~8.4h left | 1 links need repair
+[83/141] FAIL Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_52/part_01.md: tower failed after 3 tries: URLError(ConnectionRefusedError(61, 'Connection refused'))
+[2026-07-25 16:11:51] === catalogue launcher start (pid 48742) -- 21 works queued ===
+[2026-07-25 16:11:51] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-25 16:11:51] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-25 16:11:51] === SKIP Hard_Times (already 129/129) ===
+[2026-07-25 16:11:51] === SKIP The_Chimes (already 29/29) ===
+[2026-07-25 16:11:51] === SKIP The_Cricket_on_the_Hearth (already 33/33) ===
+[2026-07-25 16:11:51] === SKIP The_Battle_of_Life (already 28/28) ===
+[2026-07-25 16:11:51] === SKIP The_Haunted_Man_and_the_Ghosts_Bargain (already 31/31) ===
+[2026-07-25 16:11:51] === BOOK START The_Old_Curiosity_Shop (139/198 done) ===
+### WORK The_Old_Curiosity_Shop | TSV the_old_curiosity_shop_atoms.tsv | linkfix the_old_curiosity_shop_tower_linkfix.jsonl
+pending atoms: 59 / 198 in TSV
+cache warm with 20368 blocks
+work: 1414 prose blocks across 59 atoms
+[1/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_52/part_01.md | blocks 25/1414 | 1m elapsed, ~1.0h left
+[2/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_52/part_02.md | blocks 35/1414 | 9m elapsed, ~6.0h left | 1 links need repair
+[3/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_52/part_03.md | blocks 59/1414 | 16m elapsed, ~6.1h left
+[4/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_52/part_04.md | blocks 67/1414 | 19m elapsed, ~6.4h left | 1 links need repair
+[5/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_53/part_01.md | blocks 96/1414 | 28m elapsed, ~6.3h left | 1 links need repair
+[6/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_53/part_02.md | blocks 114/1414 | 36m elapsed, ~6.8h left
+[7/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_54/part_01.md | blocks 123/1414 | 51m elapsed, ~9.0h left | 4 links need repair
+[8/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_54/part_02.md | blocks 172/1414 | 58m elapsed, ~7.0h left
+[9/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_54/part_03.md | blocks 216/1414 | 68m elapsed, ~6.3h left
+[10/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_55.md | blocks 258/1414 | 81m elapsed, ~6.0h left
+[11/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_56/part_01.md | blocks 285/1414 | 89m elapsed, ~5.9h left | 2 links need repair
+[12/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_56/part_02.md | blocks 316/1414 | 97m elapsed, ~5.6h left | 1 links need repair
+[13/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_56/part_03.md | blocks 351/1414 | 105m elapsed, ~5.3h left | 1 links need repair
+[14/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_57.md | blocks 401/1414 | 120m elapsed, ~5.1h left | 3 links need repair
+[15/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_58/part_01.md | blocks 433/1414 | 128m elapsed, ~4.9h left | 1 links need repair
+[16/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_58/part_02.md | blocks 452/1414 | 136m elapsed, ~4.8h left | 3 links need repair
+[17/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_58/part_03.md | blocks 487/1414 | 145m elapsed, ~4.6h left
+[18/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_59/part_01.md | blocks 523/1414 | 152m elapsed, ~4.3h left | 1 links need repair
+[19/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_59/part_02.md | blocks 552/1414 | 159m elapsed, ~4.2h left
+[20/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_60/part_01.md | blocks 575/1414 | 167m elapsed, ~4.1h left
+[21/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_60/part_02.md | blocks 594/1414 | 173m elapsed, ~4.0h left
+[22/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_60/part_03.md | blocks 629/1414 | 182m elapsed, ~3.8h left
+[23/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_61/part_01.md | blocks 642/1414 | 191m elapsed, ~3.8h left | 1 links need repair
+[24/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_61/part_02.md | blocks 670/1414 | 201m elapsed, ~3.7h left | 2 links need repair
+[25/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_62/part_01.md | blocks 691/1414 | 209m elapsed, ~3.6h left | 1 links need repair
+[26/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_62/part_02.md | blocks 723/1414 | 216m elapsed, ~3.4h left | 1 links need repair
+[27/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_62/part_03.md | blocks 761/1414 | 224m elapsed, ~3.2h left
+[28/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_63/part_01.md | blocks 772/1414 | 235m elapsed, ~3.3h left
+[29/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_63/part_02.md | blocks 792/1414 | 242m elapsed, ~3.2h left
+[30/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_64/part_01.md | blocks 810/1414 | 249m elapsed, ~3.1h left
+[31/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_64/part_02.md | blocks 848/1414 | 259m elapsed, ~2.9h left | 2 links need repair
+[32/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_64/part_03.md | blocks 875/1414 | 272m elapsed, ~2.8h left | 3 links need repair
+[33/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_64/part_04.md | blocks 890/1414 | 274m elapsed, ~2.7h left
+[34/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_65.md | blocks 931/1414 | 288m elapsed, ~2.5h left | 2 links need repair
+[35/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_66/part_01.md | blocks 948/1414 | 298m elapsed, ~2.4h left | 2 links need repair
+[36/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_66/part_02.md | blocks 960/1414 | 308m elapsed, ~2.4h left | 3 links need repair
+[37/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_66/part_03.md | blocks 987/1414 | 314m elapsed, ~2.3h left
+[38/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_66/part_04.md | blocks 1004/1414 | 322m elapsed, ~2.2h left
+[39/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_66/part_05.md | blocks 1018/1414 | 328m elapsed, ~2.1h left
+[40/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_66/part_06.md | blocks 1031/1414 | 331m elapsed, ~2.0h left
+[41/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_67/part_01.md | blocks 1054/1414 | 337m elapsed, ~1.9h left
+[42/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_67/part_02.md | blocks 1081/1414 | 344m elapsed, ~1.8h left
+[43/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_67/part_03.md | blocks 1104/1414 | 353m elapsed, ~1.7h left | 3 links need repair
+[44/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_68/part_01.md | blocks 1117/1414 | 360m elapsed, ~1.6h left
+[45/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_68/part_02.md | blocks 1137/1414 | 371m elapsed, ~1.5h left | 1 links need repair
+[46/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_69/part_01.md | blocks 1163/1414 | 379m elapsed, ~1.4h left | 1 links need repair
+[47/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_69/part_02.md | blocks 1177/1414 | 389m elapsed, ~1.3h left | 3 links need repair
+[48/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_69/part_03.md | blocks 1202/1414 | 399m elapsed, ~1.2h left | 1 links need repair
+[49/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_70/part_01.md | blocks 1219/1414 | 409m elapsed, ~1.1h left | 2 links need repair
+[50/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_70/part_02.md | blocks 1249/1414 | 417m elapsed, ~0.9h left
+[51/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_71/part_01.md | blocks 1279/1414 | 424m elapsed, ~0.7h left
+[52/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_71/part_02.md | blocks 1307/1414 | 432m elapsed, ~0.6h left | 1 links need repair
+[53/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_71/part_03.md | blocks 1321/1414 | 436m elapsed, ~0.5h left
+[54/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_72/part_01.md | blocks 1352/1414 | 443m elapsed, ~0.3h left
+[55/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_72/part_02.md | blocks 1367/1414 | 452m elapsed, ~0.3h left | 2 links need repair
+[56/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_72/part_03.md | blocks 1379/1414 | 456m elapsed, ~0.2h left
+[57/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_73/part_01.md | blocks 1391/1414 | 466m elapsed, ~0.1h left | 1 links need repair
+[58/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_73/part_02.md | blocks 1401/1414 | 476m elapsed, ~0.1h left | 2 links need repair
+[59/59] ok Authors/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_73/part_03.md | blocks 1414/1414 | 484m elapsed, ~0.0h left
+
+done: 59 written, 0 failed/rejected, cache 21699 blocks
+link-repair queue: 194 blocks -> data/the_old_curiosity_shop_tower_linkfix.jsonl
+[2026-07-26 00:16:11] === BOOK END The_Old_Curiosity_Shop (exit 0, now 198/198) ===
+notify_gas_mail: sent to gio.borghi@gmail.com
+[2026-07-26 00:16:14] === BOOK START Nicholas_Nickleby (0/307 done) ===
+### WORK Nicholas_Nickleby | TSV nicholas_nickleby_atoms.tsv | linkfix nicholas_nickleby_tower_linkfix.jsonl
+pending atoms: 307 / 307 in TSV
+cache warm with 21699 blocks
+work: 7982 prose blocks across 307 atoms
+[1/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_01/part_01.md | blocks 12/7982 | 7m elapsed, ~73.4h left
+[2/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_01/part_02.md | blocks 35/7982 | 12m elapsed, ~46.3h left
+[3/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_02/part_01.md | blocks 44/7982 | 21m elapsed, ~64.3h left | 1 links need repair
+[4/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_02/part_02.md | blocks 81/7982 | 30m elapsed, ~48.0h left | 3 links need repair
+[5/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_02/part_03.md | blocks 91/7982 | 37m elapsed, ~53.6h left | 1 links need repair
+[6/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_02/part_04.md | blocks 98/7982 | 47m elapsed, ~62.8h left | 1 links need repair
+[7/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_02/part_05.md | blocks 103/7982 | 49m elapsed, ~62.8h left
+[8/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_03/part_01.md | blocks 140/7982 | 57m elapsed, ~53.1h left
+[9/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_03/part_02.md | blocks 182/7982 | 64m elapsed, ~45.5h left
+[10/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_03/part_03.md | blocks 216/7982 | 73m elapsed, ~43.6h left | 1 links need repair
+[11/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_03/part_04.md | blocks 243/7982 | 81m elapsed, ~42.8h left | 2 links need repair
+[12/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_04/part_01.md | blocks 253/7982 | 92m elapsed, ~46.6h left | 4 links need repair
+[13/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_04/part_02.md | blocks 297/7982 | 99m elapsed, ~42.9h left | 1 links need repair
+[14/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_04/part_03.md | blocks 341/7982 | 107m elapsed, ~39.8h left | 1 links need repair
+[15/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_04/part_04.md | blocks 393/7982 | 114m elapsed, ~36.6h left | 1 links need repair
+[16/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_04/part_05.md | blocks 414/7982 | 118m elapsed, ~36.0h left
+[17/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_05/part_01.md | blocks 438/7982 | 124m elapsed, ~35.7h left
+[18/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_05/part_02.md | blocks 470/7982 | 131m elapsed, ~34.9h left
+[19/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_05/part_03.md | blocks 502/7982 | 138m elapsed, ~34.2h left
+[20/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_05/part_04.md | blocks 516/7982 | 147m elapsed, ~35.6h left | 1 links need repair
+[21/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_06/part_01.md | blocks 546/7982 | 154m elapsed, ~35.0h left
+[22/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_06/part_02.md | blocks 571/7982 | 162m elapsed, ~34.9h left
+[23/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_06/part_03.md | blocks 595/7982 | 168m elapsed, ~34.8h left
+[24/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_06/part_04.md | blocks 614/7982 | 177m elapsed, ~35.5h left | 1 links need repair
+[25/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_06/part_05.md | blocks 639/7982 | 185m elapsed, ~35.4h left
+[26/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_06/part_06.md | blocks 660/7982 | 191m elapsed, ~35.4h left
+[27/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_06/part_07.md | blocks 684/7982 | 198m elapsed, ~35.2h left
+[28/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_06/part_08.md | blocks 742/7982 | 207m elapsed, ~33.6h left
+[29/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_07/part_01.md | blocks 786/7982 | 214m elapsed, ~32.7h left
+[30/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_07/part_02.md | blocks 825/7982 | 221m elapsed, ~31.9h left | 1 links need repair
+[31/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_07/part_03.md | blocks 856/7982 | 228m elapsed, ~31.6h left
+[32/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_08/part_01.md | blocks 890/7982 | 234m elapsed, ~31.1h left
+[33/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_08/part_02.md | blocks 902/7982 | 244m elapsed, ~32.0h left | 3 links need repair
+[34/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_08/part_03.md | blocks 930/7982 | 251m elapsed, ~31.7h left
+[35/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_08/part_04.md | blocks 959/7982 | 258m elapsed, ~31.5h left
+[36/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_08/part_05.md | blocks 983/7982 | 264m elapsed, ~31.3h left
+[37/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_09/part_01.md | blocks 1016/7982 | 270m elapsed, ~30.9h left | 4 links need repair
+[38/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_09/part_02.md | blocks 1049/7982 | 277m elapsed, ~30.5h left | 1 links need repair
+[39/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_09/part_03.md | blocks 1067/7982 | 289m elapsed, ~31.2h left | 2 links need repair
+[40/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_09/part_04.md | blocks 1106/7982 | 296m elapsed, ~30.7h left | 1 links need repair
+[41/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_09/part_05.md | blocks 1153/7982 | 304m elapsed, ~30.0h left | 2 links need repair
+[42/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_09/part_06.md | blocks 1176/7982 | 309m elapsed, ~29.8h left | 1 links need repair
+[43/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_10/part_01.md | blocks 1206/7982 | 315m elapsed, ~29.5h left | 1 links need repair
+[44/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_10/part_02.md | blocks 1239/7982 | 322m elapsed, ~29.2h left
+[45/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_10/part_03.md | blocks 1266/7982 | 329m elapsed, ~29.1h left
+[46/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_10/part_04.md | blocks 1294/7982 | 335m elapsed, ~28.9h left
+[47/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_10/part_05.md | blocks 1342/7982 | 343m elapsed, ~28.3h left | 1 links need repair
+[48/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_11/part_01.md | blocks 1374/7982 | 352m elapsed, ~28.3h left | 3 links need repair
+[49/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_11/part_02.md | blocks 1399/7982 | 359m elapsed, ~28.1h left
+[50/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_12/part_01.md | blocks 1434/7982 | 367m elapsed, ~27.9h left | 7 links need repair
+[51/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_12/part_02.md | blocks 1462/7982 | 374m elapsed, ~27.8h left
+[52/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_12/part_03.md | blocks 1493/7982 | 381m elapsed, ~27.6h left
+[53/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_12/part_04.md | blocks 1526/7982 | 391m elapsed, ~27.5h left | 2 links need repair
+[54/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_13/part_01.md | blocks 1564/7982 | 397m elapsed, ~27.2h left
+[55/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_13/part_02.md | blocks 1599/7982 | 404m elapsed, ~26.9h left | 1 links need repair
+[56/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_13/part_03.md | blocks 1622/7982 | 412m elapsed, ~26.9h left | 2 links need repair
+[57/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_13/part_04.md | blocks 1651/7982 | 419m elapsed, ~26.8h left
+[58/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_13/part_05.md | blocks 1689/7982 | 428m elapsed, ~26.6h left | 1 links need repair
+[59/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_14/part_01.md | blocks 1715/7982 | 434m elapsed, ~26.5h left
+[60/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_14/part_02.md | blocks 1733/7982 | 442m elapsed, ~26.5h left | 1 links need repair
+[61/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_14/part_03.md | blocks 1754/7982 | 449m elapsed, ~26.6h left | 2 links need repair
+[62/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_14/part_04.md | blocks 1796/7982 | 457m elapsed, ~26.2h left | 2 links need repair
+[63/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_14/part_05.md | blocks 1815/7982 | 460m elapsed, ~26.0h left
+[64/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_15/part_01.md | blocks 1840/7982 | 467m elapsed, ~26.0h left | 3 links need repair
+[65/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_15/part_02.md | blocks 1869/7982 | 475m elapsed, ~25.9h left | 2 links need repair
+[66/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_15/part_03.md | blocks 1896/7982 | 482m elapsed, ~25.8h left
+[67/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_15/part_04.md | blocks 1915/7982 | 489m elapsed, ~25.8h left | 3 links need repair
+[68/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_15/part_05.md | blocks 1944/7982 | 498m elapsed, ~25.8h left | 5 links need repair
+[69/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_16/part_01.md | blocks 1967/7982 | 504m elapsed, ~25.7h left
+[70/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_16/part_02.md | blocks 1994/7982 | 510m elapsed, ~25.5h left
+[71/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_16/part_03.md | blocks 2011/7982 | 517m elapsed, ~25.6h left
+[72/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_16/part_04.md | blocks 2036/7982 | 523m elapsed, ~25.5h left | 1 links need repair
+[73/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_16/part_05.md | blocks 2085/7982 | 531m elapsed, ~25.0h left
+[74/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_16/part_06.md | blocks 2114/7982 | 538m elapsed, ~24.9h left | 1 links need repair
+[75/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_16/part_07.md | blocks 2152/7982 | 550m elapsed, ~24.8h left | 2 links need repair
+[76/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_17/part_01.md | blocks 2189/7982 | 557m elapsed, ~24.6h left
+[77/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_17/part_02.md | blocks 2216/7982 | 563m elapsed, ~24.4h left
+[78/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_17/part_03.md | blocks 2249/7982 | 571m elapsed, ~24.2h left | 1 links need repair
+[79/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_17/part_04.md | blocks 2257/7982 | 574m elapsed, ~24.3h left
+[80/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_18/part_01.md | blocks 2278/7982 | 581m elapsed, ~24.2h left | 2 links need repair
+[81/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_18/part_02.md | blocks 2309/7982 | 590m elapsed, ~24.2h left | 2 links need repair
+[82/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_18/part_03.md | blocks 2337/7982 | 597m elapsed, ~24.0h left | 1 links need repair
+[83/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_18/part_04.md | blocks 2362/7982 | 603m elapsed, ~23.9h left
+[84/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_18/part_05.md | blocks 2393/7982 | 610m elapsed, ~23.7h left | 2 links need repair
+[85/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_19/part_01.md | blocks 2420/7982 | 617m elapsed, ~23.6h left | 3 links need repair
+[86/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_19/part_02.md | blocks 2432/7982 | 627m elapsed, ~23.9h left
+[87/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_19/part_03.md | blocks 2468/7982 | 635m elapsed, ~23.7h left | 1 links need repair
+[88/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_19/part_04.md | blocks 2501/7982 | 642m elapsed, ~23.4h left | 1 links need repair
+[89/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_19/part_05.md | blocks 2537/7982 | 650m elapsed, ~23.2h left | 1 links need repair
+[90/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_19/part_06.md | blocks 2567/7982 | 658m elapsed, ~23.1h left
+[91/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_20/part_01.md | blocks 2599/7982 | 665m elapsed, ~23.0h left | 1 links need repair
+[92/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_20/part_02.md | blocks 2628/7982 | 672m elapsed, ~22.8h left
+[93/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_20/part_03.md | blocks 2660/7982 | 678m elapsed, ~22.6h left | 1 links need repair
+[94/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_20/part_04.md | blocks 2684/7982 | 687m elapsed, ~22.6h left
+[95/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_21/part_01.md | blocks 2719/7982 | 694m elapsed, ~22.4h left
+[96/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_21/part_02.md | blocks 2749/7982 | 700m elapsed, ~22.2h left
+[97/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_21/part_03.md | blocks 2765/7982 | 708m elapsed, ~22.3h left | 2 links need repair
+[98/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_21/part_04.md | blocks 2802/7982 | 715m elapsed, ~22.0h left
+[99/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_21/part_05.md | blocks 2820/7982 | 720m elapsed, ~22.0h left
+[100/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_22/part_01.md | blocks 2846/7982 | 730m elapsed, ~21.9h left | 1 links need repair
+[101/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_22/part_02.md | blocks 2880/7982 | 740m elapsed, ~21.8h left | 5 links need repair
+[102/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_22/part_03.md | blocks 2907/7982 | 748m elapsed, ~21.8h left | 1 links need repair
+[103/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_22/part_04.md | blocks 2929/7982 | 760m elapsed, ~21.8h left | 1 links need repair
+[104/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_22/part_05.md | blocks 2962/7982 | 766m elapsed, ~21.6h left | 1 links need repair
+[105/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_22/part_06.md | blocks 2992/7982 | 771m elapsed, ~21.4h left
+[106/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_23/part_01.md | blocks 3023/7982 | 779m elapsed, ~21.3h left
+[107/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_23/part_02.md | blocks 3057/7982 | 788m elapsed, ~21.2h left | 3 links need repair
+[108/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_23/part_03.md | blocks 3072/7982 | 795m elapsed, ~21.2h left
+[109/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_23/part_04.md | blocks 3113/7982 | 802m elapsed, ~20.9h left
+[110/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_23/part_05.md | blocks 3143/7982 | 808m elapsed, ~20.7h left | 1 links need repair
+[111/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_24/part_01.md | blocks 3175/7982 | 815m elapsed, ~20.6h left
+[112/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_24/part_02.md | blocks 3190/7982 | 821m elapsed, ~20.6h left
+[113/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_24/part_03.md | blocks 3226/7982 | 828m elapsed, ~20.3h left | 2 links need repair
+[114/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_24/part_04.md | blocks 3243/7982 | 834m elapsed, ~20.3h left
+[115/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_24/part_05.md | blocks 3269/7982 | 841m elapsed, ~20.2h left
+[116/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_24/part_06.md | blocks 3287/7982 | 855m elapsed, ~20.4h left | 3 links need repair
+[117/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_25/part_01.md | blocks 3321/7982 | 862m elapsed, ~20.2h left
+[118/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_25/part_02.md | blocks 3361/7982 | 869m elapsed, ~19.9h left
+[119/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_25/part_03.md | blocks 3392/7982 | 876m elapsed, ~19.7h left
+[120/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_25/part_04.md | blocks 3415/7982 | 882m elapsed, ~19.6h left
+[121/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_25/part_05.md | blocks 3446/7982 | 888m elapsed, ~19.5h left
+[122/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_26/part_01.md | blocks 3483/7982 | 897m elapsed, ~19.3h left | 1 links need repair
+[123/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_26/part_02.md | blocks 3517/7982 | 903m elapsed, ~19.1h left
+[124/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_26/part_03.md | blocks 3551/7982 | 911m elapsed, ~18.9h left
+[125/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_26/part_04.md | blocks 3564/7982 | 916m elapsed, ~18.9h left
+[126/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_27/part_01.md | blocks 3591/7982 | 925m elapsed, ~18.9h left | 1 links need repair
+[127/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_27/part_02.md | blocks 3627/7982 | 933m elapsed, ~18.7h left
+[128/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_27/part_03.md | blocks 3642/7982 | 939m elapsed, ~18.6h left | 1 links need repair
+[129/307] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_27/part_04.md | blocks 3672/7982 | 946m elapsed, ~18.5h left
+[2026-07-26 17:26:51] === catalogue launcher start (pid 84800) -- 21 works queued ===
+[2026-07-26 17:26:51] mlx server down -> starting on :8081
+[2026-07-26 17:26:56] mlx server up
+[2026-07-26 17:26:57] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-26 17:26:57] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-26 17:26:57] === SKIP Hard_Times (already 129/129) ===
+[2026-07-26 17:26:57] === SKIP The_Chimes (already 29/29) ===
+[2026-07-26 17:26:58] === SKIP The_Cricket_on_the_Hearth (already 33/33) ===
+[2026-07-26 17:26:58] === SKIP The_Battle_of_Life (already 28/28) ===
+[2026-07-26 17:26:58] === SKIP The_Haunted_Man_and_the_Ghosts_Bargain (already 31/31) ===
+[2026-07-26 17:26:59] === SKIP The_Old_Curiosity_Shop (already 198/198) ===
+[2026-07-26 17:26:59] === BOOK START Nicholas_Nickleby (129/307 done) ===
+### WORK Nicholas_Nickleby | TSV nicholas_nickleby_atoms.tsv | linkfix nicholas_nickleby_tower_linkfix.jsonl
+pending atoms: 178 / 307 in TSV
+cache warm with 25230 blocks
+work: 4310 prose blocks across 178 atoms
+[1/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_27/part_05.md | blocks 25/4310 | 1m elapsed, ~4.0h left
+[2/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_27/part_06.md | blocks 43/4310 | 6m elapsed, ~9.2h left
+[3/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_28/part_01.md | blocks 57/4310 | 15m elapsed, ~18.4h left | 1 links need repair
+[4/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_28/part_02.md | blocks 98/4310 | 22m elapsed, ~15.6h left
+[5/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_28/part_03.md | blocks 122/4310 | 28m elapsed, ~16.1h left
+[6/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_28/part_04.md | blocks 142/4310 | 34m elapsed, ~16.8h left
+[7/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_28/part_05.md | blocks 173/4310 | 44m elapsed, ~17.4h left | 3 links need repair
+[8/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_28/part_06.md | blocks 204/4310 | 54m elapsed, ~18.2h left | 3 links need repair
+[9/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_29/part_01.md | blocks 238/4310 | 61m elapsed, ~17.4h left | 1 links need repair
+[10/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_29/part_02.md | blocks 264/4310 | 67m elapsed, ~17.2h left
+[11/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_29/part_03.md | blocks 289/4310 | 76m elapsed, ~17.5h left | 1 links need repair
+[12/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_29/part_04.md | blocks 301/4310 | 78m elapsed, ~17.3h left
+[13/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_30/part_01.md | blocks 329/4310 | 84m elapsed, ~17.0h left
+[14/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_30/part_02.md | blocks 357/4310 | 91m elapsed, ~16.8h left | 1 links need repair
+[15/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_30/part_03.md | blocks 382/4310 | 97m elapsed, ~16.7h left
+[16/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_30/part_04.md | blocks 417/4310 | 106m elapsed, ~16.4h left | 1 links need repair
+[17/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_30/part_05.md | blocks 427/4310 | 114m elapsed, ~17.3h left
+[18/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_30/part_06.md | blocks 450/4310 | 121m elapsed, ~17.3h left | 1 links need repair
+[19/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_31/part_01.md | blocks 476/4310 | 128m elapsed, ~17.2h left
+[20/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_31/part_02.md | blocks 498/4310 | 138m elapsed, ~17.6h left | 1 links need repair
+[21/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_31/part_03.md | blocks 523/4310 | 143m elapsed, ~17.3h left
+[22/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_32/part_01.md | blocks 545/4310 | 151m elapsed, ~17.3h left | 2 links need repair
+[23/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_32/part_02.md | blocks 565/4310 | 160m elapsed, ~17.7h left | 4 links need repair
+[24/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_32/part_03.md | blocks 604/4310 | 167m elapsed, ~17.1h left
+[25/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_32/part_04.md | blocks 630/4310 | 173m elapsed, ~16.9h left | 1 links need repair
+[26/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_33/part_01.md | blocks 653/4310 | 180m elapsed, ~16.8h left | 1 links need repair
+[27/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_33/part_02.md | blocks 675/4310 | 187m elapsed, ~16.8h left | 1 links need repair
+[28/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_33/part_03.md | blocks 699/4310 | 192m elapsed, ~16.5h left
+[29/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_34/part_01.md | blocks 743/4310 | 199m elapsed, ~16.0h left | 1 links need repair
+[30/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_34/part_02.md | blocks 772/4310 | 206m elapsed, ~15.8h left
+[31/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_34/part_03.md | blocks 808/4310 | 213m elapsed, ~15.4h left | 2 links need repair
+[32/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_34/part_04.md | blocks 839/4310 | 221m elapsed, ~15.2h left | 3 links need repair
+[33/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_34/part_05.md | blocks 876/4310 | 228m elapsed, ~14.9h left | 1 links need repair
+[34/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_34/part_06.md | blocks 902/4310 | 234m elapsed, ~14.7h left
+[35/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_35/part_01.md | blocks 926/4310 | 241m elapsed, ~14.7h left
+[36/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_35/part_02.md | blocks 949/4310 | 249m elapsed, ~14.7h left | 1 links need repair
+[37/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_35/part_03.md | blocks 964/4310 | 255m elapsed, ~14.7h left
+[38/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_35/part_04.md | blocks 998/4310 | 261m elapsed, ~14.4h left
+[39/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_35/part_05.md | blocks 1021/4310 | 268m elapsed, ~14.4h left | 1 links need repair
+[40/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_35/part_06.md | blocks 1040/4310 | 277m elapsed, ~14.5h left | 1 links need repair
+[41/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_35/part_07.md | blocks 1047/4310 | 283m elapsed, ~14.7h left | 1 links need repair
+[42/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_36/part_01.md | blocks 1071/4310 | 289m elapsed, ~14.6h left
+[43/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_36/part_02.md | blocks 1108/4310 | 296m elapsed, ~14.2h left
+[44/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_36/part_03.md | blocks 1144/4310 | 305m elapsed, ~14.1h left | 2 links need repair
+[45/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_37/part_01.md | blocks 1151/4310 | 317m elapsed, ~14.5h left | 1 links need repair
+[46/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_37/part_02.md | blocks 1169/4310 | 323m elapsed, ~14.5h left
+[47/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_37/part_03.md | blocks 1184/4310 | 334m elapsed, ~14.7h left | 3 links need repair
+[48/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_37/part_04.md | blocks 1207/4310 | 340m elapsed, ~14.6h left | 1 links need repair
+[49/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_37/part_05.md | blocks 1220/4310 | 349m elapsed, ~14.7h left | 2 links need repair
+[50/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_37/part_06.md | blocks 1245/4310 | 356m elapsed, ~14.6h left
+[51/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_37/part_07.md | blocks 1261/4310 | 360m elapsed, ~14.5h left
+[52/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_38/part_01.md | blocks 1280/4310 | 367m elapsed, ~14.5h left
+[53/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_38/part_02.md | blocks 1309/4310 | 373m elapsed, ~14.3h left
+[54/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_38/part_03.md | blocks 1338/4310 | 380m elapsed, ~14.1h left
+[55/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_38/part_04.md | blocks 1361/4310 | 386m elapsed, ~14.0h left
+[56/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_38/part_05.md | blocks 1386/4310 | 394m elapsed, ~13.9h left
+[57/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_38/part_06.md | blocks 1402/4310 | 400m elapsed, ~13.8h left | 1 links need repair
+[58/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_39/part_01.md | blocks 1433/4310 | 410m elapsed, ~13.7h left | 2 links need repair
+[59/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_39/part_02.md | blocks 1474/4310 | 417m elapsed, ~13.4h left
+[60/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_39/part_03.md | blocks 1505/4310 | 426m elapsed, ~13.2h left | 1 links need repair
+[61/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_40/part_01.md | blocks 1521/4310 | 435m elapsed, ~13.3h left | 4 links need repair
+[62/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_40/part_02.md | blocks 1550/4310 | 444m elapsed, ~13.2h left | 1 links need repair
+[63/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_40/part_03.md | blocks 1573/4310 | 454m elapsed, ~13.2h left | 3 links need repair
+[64/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_40/part_04.md | blocks 1596/4310 | 464m elapsed, ~13.1h left | 2 links need repair
+[65/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_40/part_05.md | blocks 1632/4310 | 471m elapsed, ~12.9h left | 1 links need repair
+[66/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_40/part_06.md | blocks 1660/4310 | 478m elapsed, ~12.7h left
+[67/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_40/part_07.md | blocks 1676/4310 | 481m elapsed, ~12.6h left | 1 links need repair
+[68/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_41/part_01.md | blocks 1691/4310 | 490m elapsed, ~12.6h left | 1 links need repair
+[69/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_41/part_02.md | blocks 1722/4310 | 498m elapsed, ~12.5h left | 1 links need repair
+[70/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_41/part_03.md | blocks 1752/4310 | 505m elapsed, ~12.3h left
+[71/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_41/part_04.md | blocks 1774/4310 | 511m elapsed, ~12.2h left | 1 links need repair
+[72/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_41/part_05.md | blocks 1801/4310 | 516m elapsed, ~12.0h left
+[73/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_42/part_01.md | blocks 1839/4310 | 523m elapsed, ~11.7h left
+[74/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_42/part_02.md | blocks 1873/4310 | 530m elapsed, ~11.5h left
+[75/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_42/part_03.md | blocks 1906/4310 | 537m elapsed, ~11.3h left
+[76/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_42/part_04.md | blocks 1937/4310 | 546m elapsed, ~11.1h left | 1 links need repair
+[77/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_43/part_01.md | blocks 1953/4310 | 552m elapsed, ~11.1h left | 1 links need repair
+[78/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_43/part_02.md | blocks 1977/4310 | 561m elapsed, ~11.0h left | 2 links need repair
+[79/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_43/part_03.md | blocks 1989/4310 | 568m elapsed, ~11.1h left | 1 links need repair
+[80/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_43/part_04.md | blocks 2008/4310 | 575m elapsed, ~11.0h left
+[81/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_43/part_05.md | blocks 2019/4310 | 585m elapsed, ~11.1h left | 2 links need repair
+[82/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_43/part_06.md | blocks 2027/4310 | 589m elapsed, ~11.1h left | 1 links need repair
+[83/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_44/part_01.md | blocks 2056/4310 | 596m elapsed, ~10.9h left
+[84/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_44/part_02.md | blocks 2079/4310 | 602m elapsed, ~10.8h left
+[85/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_44/part_03.md | blocks 2114/4310 | 609m elapsed, ~10.5h left
+[86/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_44/part_04.md | blocks 2134/4310 | 615m elapsed, ~10.5h left
+[87/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_44/part_05.md | blocks 2157/4310 | 622m elapsed, ~10.3h left
+[88/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_44/part_06.md | blocks 2181/4310 | 626m elapsed, ~10.2h left
+[89/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_45/part_01.md | blocks 2199/4310 | 632m elapsed, ~10.1h left
+[90/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_45/part_02.md | blocks 2221/4310 | 639m elapsed, ~10.0h left | 2 links need repair
+[91/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_45/part_03.md | blocks 2249/4310 | 646m elapsed, ~9.9h left
+[92/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_45/part_04.md | blocks 2285/4310 | 652m elapsed, ~9.6h left | 2 links need repair
+[93/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_45/part_05.md | blocks 2305/4310 | 658m elapsed, ~9.5h left
+[94/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_46/part_01.md | blocks 2327/4310 | 667m elapsed, ~9.5h left | 1 links need repair
+[95/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_46/part_02.md | blocks 2345/4310 | 679m elapsed, ~9.5h left | 2 links need repair
+[96/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_46/part_03.md | blocks 2363/4310 | 688m elapsed, ~9.4h left | 2 links need repair
+[97/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_46/part_04.md | blocks 2374/4310 | 700m elapsed, ~9.5h left | 2 links need repair
+[98/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_46/part_05.md | blocks 2412/4310 | 709m elapsed, ~9.3h left
+[99/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_47/part_01.md | blocks 2438/4310 | 717m elapsed, ~9.2h left | 3 links need repair
+[100/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_47/part_02.md | blocks 2474/4310 | 724m elapsed, ~9.0h left
+[101/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_47/part_03.md | blocks 2491/4310 | 730m elapsed, ~8.9h left
+[102/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_47/part_04.md | blocks 2512/4310 | 737m elapsed, ~8.8h left | 1 links need repair
+[103/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_47/part_05.md | blocks 2532/4310 | 744m elapsed, ~8.7h left | 3 links need repair
+[104/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_47/part_06.md | blocks 2567/4310 | 752m elapsed, ~8.5h left
+[105/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_48/part_01.md | blocks 2583/4310 | 759m elapsed, ~8.5h left | 1 links need repair
+[106/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_48/part_02.md | blocks 2606/4310 | 767m elapsed, ~8.4h left | 2 links need repair
+[107/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_48/part_03.md | blocks 2631/4310 | 774m elapsed, ~8.2h left | 1 links need repair
+[108/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_48/part_04.md | blocks 2656/4310 | 782m elapsed, ~8.1h left
+[109/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_49/part_01.md | blocks 2668/4310 | 791m elapsed, ~8.1h left | 1 links need repair
+[110/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_49/part_02.md | blocks 2696/4310 | 798m elapsed, ~8.0h left | 1 links need repair
+[111/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_49/part_03.md | blocks 2707/4310 | 804m elapsed, ~7.9h left
+[112/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_49/part_04.md | blocks 2726/4310 | 817m elapsed, ~7.9h left | 2 links need repair
+[113/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_49/part_05.md | blocks 2745/4310 | 823m elapsed, ~7.8h left
+[114/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_49/part_06.md | blocks 2773/4310 | 829m elapsed, ~7.7h left
+[115/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_50/part_01.md | blocks 2783/4310 | 841m elapsed, ~7.7h left | 1 links need repair
+[116/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_50/part_02.md | blocks 2800/4310 | 847m elapsed, ~7.6h left | 1 links need repair
+[117/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_50/part_03.md | blocks 2829/4310 | 856m elapsed, ~7.5h left | 4 links need repair
+[118/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_50/part_04.md | blocks 2850/4310 | 863m elapsed, ~7.4h left
+[119/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_50/part_05.md | blocks 2875/4310 | 872m elapsed, ~7.3h left | 1 links need repair
+[120/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_51/part_01.md | blocks 2906/4310 | 880m elapsed, ~7.1h left | 1 links need repair
+[121/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_51/part_02.md | blocks 2939/4310 | 887m elapsed, ~6.9h left | 1 links need repair
+[122/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_51/part_03.md | blocks 2974/4310 | 894m elapsed, ~6.7h left | 2 links need repair
+[123/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_51/part_04.md | blocks 3016/4310 | 902m elapsed, ~6.5h left
+[124/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_52/part_01.md | blocks 3044/4310 | 911m elapsed, ~6.3h left | 2 links need repair
+[125/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_52/part_02.md | blocks 3065/4310 | 918m elapsed, ~6.2h left
+[126/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_52/part_03.md | blocks 3091/4310 | 924m elapsed, ~6.1h left | 1 links need repair
+[127/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_52/part_04.md | blocks 3120/4310 | 933m elapsed, ~5.9h left | 1 links need repair
+[128/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_52/part_05.md | blocks 3134/4310 | 940m elapsed, ~5.9h left | 2 links need repair
+[129/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_53/part_01.md | blocks 3144/4310 | 948m elapsed, ~5.9h left | 2 links need repair
+[130/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_53/part_02.md | blocks 3167/4310 | 957m elapsed, ~5.8h left | 1 links need repair
+[131/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_53/part_03.md | blocks 3189/4310 | 968m elapsed, ~5.7h left
+[132/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_53/part_04.md | blocks 3210/4310 | 975m elapsed, ~5.6h left | 2 links need repair
+[133/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_53/part_05.md | blocks 3245/4310 | 983m elapsed, ~5.4h left
+[134/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_53/part_06.md | blocks 3270/4310 | 991m elapsed, ~5.3h left
+[135/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_54/part_01.md | blocks 3296/4310 | 998m elapsed, ~5.1h left | 1 links need repair
+[136/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_54/part_02.md | blocks 3328/4310 | 1004m elapsed, ~4.9h left | 2 links need repair
+[137/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_54/part_03.md | blocks 3349/4310 | 1011m elapsed, ~4.8h left
+[138/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_54/part_04.md | blocks 3373/4310 | 1017m elapsed, ~4.7h left
+[139/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_54/part_05.md | blocks 3392/4310 | 1021m elapsed, ~4.6h left
+[140/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_55/part_01.md | blocks 3406/4310 | 1029m elapsed, ~4.6h left | 1 links need repair
+[141/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_55/part_02.md | blocks 3420/4310 | 1040m elapsed, ~4.5h left | 3 links need repair
+[142/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_55/part_03.md | blocks 3441/4310 | 1057m elapsed, ~4.4h left | 5 links need repair
+[143/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_55/part_04.md | blocks 3462/4310 | 1064m elapsed, ~4.3h left | 3 links need repair
+[144/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_55/part_05.md | blocks 3475/4310 | 1069m elapsed, ~4.3h left | 1 links need repair
+[145/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_56/part_01.md | blocks 3503/4310 | 1079m elapsed, ~4.1h left | 1 links need repair
+[146/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_56/part_02.md | blocks 3535/4310 | 1087m elapsed, ~4.0h left
+[147/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_56/part_03.md | blocks 3572/4310 | 1094m elapsed, ~3.8h left | 1 links need repair
+[148/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_56/part_04.md | blocks 3603/4310 | 1104m elapsed, ~3.6h left
+[149/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_57/part_01.md | blocks 3617/4310 | 1110m elapsed, ~3.5h left
+[150/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_57/part_02.md | blocks 3645/4310 | 1120m elapsed, ~3.4h left | 4 links need repair
+[151/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_57/part_03.md | blocks 3673/4310 | 1127m elapsed, ~3.3h left
+[152/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_57/part_04.md | blocks 3700/4310 | 1134m elapsed, ~3.1h left
+[153/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_58/part_01.md | blocks 3715/4310 | 1144m elapsed, ~3.1h left | 2 links need repair
+[154/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_58/part_02.md | blocks 3753/4310 | 1153m elapsed, ~2.9h left | 3 links need repair
+[155/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_59/part_01.md | blocks 3782/4310 | 1160m elapsed, ~2.7h left
+[156/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_59/part_02.md | blocks 3807/4310 | 1167m elapsed, ~2.6h left
+[157/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_59/part_03.md | blocks 3831/4310 | 1175m elapsed, ~2.4h left | 3 links need repair
+[158/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_59/part_04.md | blocks 3858/4310 | 1182m elapsed, ~2.3h left
+[159/178] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_59/part_05.md | blocks 3875/4310 | 1199m elapsed, ~2.2h left | 2 links need repair
+[2026-07-27 13:45:49] === catalogue launcher start (pid 5888) -- 21 works queued ===
+[2026-07-27 13:45:49] mlx server down -> starting on :8081
+[2026-07-27 13:45:59] mlx server up
+[2026-07-27 13:45:59] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-27 13:45:59] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-27 13:45:59] === SKIP Hard_Times (already 129/129) ===
+[2026-07-27 13:45:59] === SKIP The_Chimes (already 29/29) ===
+[2026-07-27 13:46:00] === SKIP The_Cricket_on_the_Hearth (already 33/33) ===
+[2026-07-27 13:46:00] === SKIP The_Battle_of_Life (already 28/28) ===
+[2026-07-27 13:46:00] === SKIP The_Haunted_Man_and_the_Ghosts_Bargain (already 31/31) ===
+[2026-07-27 13:46:00] === SKIP The_Old_Curiosity_Shop (already 198/198) ===
+[2026-07-27 13:46:00] === BOOK START Nicholas_Nickleby (288/307 done) ===
+### WORK Nicholas_Nickleby | TSV nicholas_nickleby_atoms.tsv | linkfix nicholas_nickleby_tower_linkfix.jsonl
+pending atoms: 19 / 307 in TSV
+cache warm with 28906 blocks
+work: 435 prose blocks across 19 atoms
+[2026-07-27 14:37:51] === catalogue launcher start (pid 6728) -- 21 works queued ===
+[2026-07-27 14:37:51] mlx server down -> starting on :8081
+[2026-07-27 14:37:56] mlx server up
+[2026-07-27 14:37:57] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-27 14:37:57] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-27 14:37:57] === SKIP Hard_Times (already 129/129) ===
+[2026-07-27 14:37:57] === SKIP The_Chimes (already 29/29) ===
+[2026-07-27 14:37:57] === SKIP The_Cricket_on_the_Hearth (already 33/33) ===
+[2026-07-27 14:37:57] === SKIP The_Battle_of_Life (already 28/28) ===
+[2026-07-27 14:37:57] === SKIP The_Haunted_Man_and_the_Ghosts_Bargain (already 31/31) ===
+[2026-07-27 14:37:57] === SKIP The_Old_Curiosity_Shop (already 198/198) ===
+[2026-07-27 14:37:58] === BOOK START Nicholas_Nickleby (288/307 done) ===
+### WORK Nicholas_Nickleby | TSV nicholas_nickleby_atoms.tsv | linkfix nicholas_nickleby_tower_linkfix.jsonl
+pending atoms: 19 / 307 in TSV
+cache warm with 28912 blocks
+work: 435 prose blocks across 19 atoms
+[1/19] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_60/part_01.md | blocks 24/435 | 1m elapsed, ~0.4h left
+[2/19] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_60/part_02.md | blocks 45/435 | 9m elapsed, ~1.3h left | 1 links need repair
+[3/19] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_60/part_03.md | blocks 73/435 | 15m elapsed, ~1.3h left
+[4/19] FAIL Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_60/part_04.md: tower failed after 3 tries: URLError(ConnectionRefusedError(61, 'Connection refused'))
+[2026-07-27 17:31:25] === catalogue launcher start (pid 9373) -- 21 works queued ===
+[2026-07-27 17:31:25] mlx server down -> starting on :8081
+[2026-07-27 17:31:30] mlx server up
+[2026-07-27 17:31:30] === SKIP A_Christmas_Carol (already 27/27) ===
+[2026-07-27 17:31:30] === SKIP A_Tale_of_Two_Cities (already 118/118) ===
+[2026-07-27 17:31:30] === SKIP Hard_Times (already 129/129) ===
+[2026-07-27 17:31:30] === SKIP The_Chimes (already 29/29) ===
+[2026-07-27 17:31:31] === SKIP The_Cricket_on_the_Hearth (already 33/33) ===
+[2026-07-27 17:31:31] === SKIP The_Battle_of_Life (already 28/28) ===
+[2026-07-27 17:31:31] === SKIP The_Haunted_Man_and_the_Ghosts_Bargain (already 31/31) ===
+[2026-07-27 17:31:31] === SKIP The_Old_Curiosity_Shop (already 198/198) ===
+[2026-07-27 17:31:31] === BOOK START Nicholas_Nickleby (291/307 done) ===
+### WORK Nicholas_Nickleby | TSV nicholas_nickleby_atoms.tsv | linkfix nicholas_nickleby_tower_linkfix.jsonl
+pending atoms: 16 / 307 in TSV
+cache warm with 28964 blocks
+work: 362 prose blocks across 16 atoms
+[1/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_60/part_04.md | blocks 13/362 | 20m elapsed, ~8.9h left | 4 links need repair
+[2/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_61/part_01.md | blocks 38/362 | 29m elapsed, ~4.2h left | 1 links need repair
+[3/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_61/part_02.md | blocks 63/362 | 36m elapsed, ~2.8h left
+[4/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_61/part_03.md | blocks 89/362 | 43m elapsed, ~2.2h left | 2 links need repair
+[5/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_61/part_04.md | blocks 108/362 | 51m elapsed, ~2.0h left | 1 links need repair
+[6/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_62/part_01.md | blocks 123/362 | 57m elapsed, ~1.9h left
+[7/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_62/part_02.md | blocks 154/362 | 67m elapsed, ~1.5h left | 1 links need repair
+[8/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_63/part_01.md | blocks 178/362 | 77m elapsed, ~1.3h left | 2 links need repair
+[9/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_63/part_02.md | blocks 201/362 | 85m elapsed, ~1.1h left
+[10/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_63/part_03.md | blocks 241/362 | 92m elapsed, ~0.8h left | 1 links need repair
+[11/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_63/part_04.md | blocks 263/362 | 98m elapsed, ~0.6h left
+[12/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_64/part_01.md | blocks 288/362 | 104m elapsed, ~0.4h left | 1 links need repair
+[13/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_64/part_02.md | blocks 310/362 | 111m elapsed, ~0.3h left | 1 links need repair
+[14/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_64/part_03.md | blocks 331/362 | 120m elapsed, ~0.2h left | 1 links need repair
+[15/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_64/part_04.md | blocks 344/362 | 124m elapsed, ~0.1h left
+[16/16] ok Authors/Dickens/Atomized/Nicholas_Nickleby/Chapter_65.md | blocks 362/362 | 130m elapsed, ~0.0h left
+
+done: 16 written, 0 failed/rejected, cache 29301 blocks
+link-repair queue: 248 blocks -> data/nicholas_nickleby_tower_linkfix.jsonl
+[2026-07-27 19:41:59] === BOOK END Nicholas_Nickleby (exit 0, now 307/307) ===
+notify_gas_mail: sent to gio.borghi@gmail.com
+[2026-07-27 19:42:01] === BOOK START David_Copperfield (0/323 done) ===
+### WORK David_Copperfield | TSV david_copperfield_atoms.tsv | linkfix david_copperfield_tower_linkfix.jsonl
+pending atoms: 323 / 323 in TSV
+cache warm with 29301 blocks
+work: 7807 prose blocks across 323 atoms
+[1/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_01_I_AM_BORN/part_01.md | blocks 11/7807 | 7m elapsed, ~81.2h left | 1 links need repair
+[2/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_01_I_AM_BORN/part_02.md | blocks 42/7807 | 14m elapsed, ~41.8h left | 4 links need repair
+[3/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_01_I_AM_BORN/part_03.md | blocks 78/7807 | 22m elapsed, ~35.8h left | 3 links need repair
+[4/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_01_I_AM_BORN/part_04.md | blocks 119/7807 | 30m elapsed, ~32.1h left | 1 links need repair
+[5/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_02_I_OBSERVE/part_01.md | blocks 131/7807 | 41m elapsed, ~39.8h left
+[6/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_02_I_OBSERVE/part_02.md | blocks 155/7807 | 49m elapsed, ~40.7h left | 2 links need repair
+[7/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_02_I_OBSERVE/part_03.md | blocks 186/7807 | 59m elapsed, ~40.5h left | 5 links need repair
+[8/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_02_I_OBSERVE/part_04.md | blocks 210/7807 | 67m elapsed, ~40.3h left
+[9/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_02_I_OBSERVE/part_05.md | blocks 246/7807 | 75m elapsed, ~38.3h left
+[10/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_03_I_HAVE_A_CHANGE/part_01.md | blocks 263/7807 | 89m elapsed, ~42.6h left | 6 links need repair
+[11/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_03_I_HAVE_A_CHANGE/part_02.md | blocks 297/7807 | 100m elapsed, ~42.3h left | 2 links need repair
+[12/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_03_I_HAVE_A_CHANGE/part_03.md | blocks 325/7807 | 107m elapsed, ~41.2h left
+[13/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_03_I_HAVE_A_CHANGE/part_04.md | blocks 351/7807 | 115m elapsed, ~40.8h left | 1 links need repair
+[14/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_03_I_HAVE_A_CHANGE/part_05.md | blocks 375/7807 | 123m elapsed, ~40.5h left | 1 links need repair
+[15/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_03_I_HAVE_A_CHANGE/part_06.md | blocks 398/7807 | 127m elapsed, ~39.3h left | 1 links need repair
+[16/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_04_I_FALL_INTO_DISGRACE/part_01.md | blocks 428/7807 | 134m elapsed, ~38.6h left | 3 links need repair
+[17/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_04_I_FALL_INTO_DISGRACE/part_02.md | blocks 447/7807 | 142m elapsed, ~38.9h left | 2 links need repair
+[18/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_04_I_FALL_INTO_DISGRACE/part_03.md | blocks 471/7807 | 149m elapsed, ~38.7h left | 1 links need repair
+[19/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_04_I_FALL_INTO_DISGRACE/part_04.md | blocks 486/7807 | 158m elapsed, ~39.8h left | 1 links need repair
+[20/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_04_I_FALL_INTO_DISGRACE/part_05.md | blocks 500/7807 | 166m elapsed, ~40.5h left | 1 links need repair
+[21/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_04_I_FALL_INTO_DISGRACE/part_06.md | blocks 527/7807 | 175m elapsed, ~40.3h left
+[22/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_04_I_FALL_INTO_DISGRACE/part_07.md | blocks 561/7807 | 181m elapsed, ~39.0h left
+[23/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_05_I_AM_SENT_AWAY_FROM_Home_HOME/part_01.md | blocks 600/7807 | 188m elapsed, ~37.6h left
+[24/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_05_I_AM_SENT_AWAY_FROM_Home_HOME/part_02.md | blocks 639/7807 | 196m elapsed, ~36.6h left | 1 links need repair
+[25/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_05_I_AM_SENT_AWAY_FROM_Home_HOME/part_03.md | blocks 657/7807 | 205m elapsed, ~37.1h left | 1 links need repair
+[26/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_05_I_AM_SENT_AWAY_FROM_Home_HOME/part_04.md | blocks 676/7807 | 213m elapsed, ~37.4h left | 2 links need repair
+[27/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_05_I_AM_SENT_AWAY_FROM_Home_HOME/part_05.md | blocks 694/7807 | 221m elapsed, ~37.8h left | 1 links need repair
+[28/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_05_I_AM_SENT_AWAY_FROM_Home_HOME/part_06.md | blocks 715/7807 | 229m elapsed, ~37.8h left
+[29/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_05_I_AM_SENT_AWAY_FROM_Home_HOME/part_07.md | blocks 721/7807 | 232m elapsed, ~38.1h left
+[30/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_06_I_ENLARGE_MY_CIRCLE_OF_ACQUAIN/part_01.md | blocks 751/7807 | 241m elapsed, ~37.7h left
+[31/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_06_I_ENLARGE_MY_CIRCLE_OF_ACQUAIN/part_02.md | blocks 775/7807 | 248m elapsed, ~37.5h left
+[32/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_06_I_ENLARGE_MY_CIRCLE_OF_ACQUAIN/part_03.md | blocks 787/7807 | 252m elapsed, ~37.5h left
+[33/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_07_MY_FIRST_HALF_AT_SALEM_house_H/part_01.md | blocks 802/7807 | 260m elapsed, ~37.9h left | 3 links need repair
+[34/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_07_MY_FIRST_HALF_AT_SALEM_house_H/part_02.md | blocks 817/7807 | 266m elapsed, ~38.0h left
+[35/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_07_MY_FIRST_HALF_AT_SALEM_house_H/part_03.md | blocks 831/7807 | 276m elapsed, ~38.7h left | 2 links need repair
+[36/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_07_MY_FIRST_HALF_AT_SALEM_house_H/part_04.md | blocks 863/7807 | 283m elapsed, ~37.9h left
+[37/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_07_MY_FIRST_HALF_AT_SALEM_house_H/part_05.md | blocks 891/7807 | 290m elapsed, ~37.5h left
+[38/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_07_MY_FIRST_HALF_AT_SALEM_house_H/part_06.md | blocks 923/7807 | 298m elapsed, ~37.0h left | 1 links need repair
+[39/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_07_MY_FIRST_HALF_AT_SALEM_house_H/part_07.md | blocks 935/7807 | 304m elapsed, ~37.3h left | 2 links need repair
+[40/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_08_MY_HOLIDAYS_ESPECIALLY_ONE_HAP/part_01.md | blocks 974/7807 | 313m elapsed, ~36.6h left | 1 links need repair
+[41/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_08_MY_HOLIDAYS_ESPECIALLY_ONE_HAP/part_02.md | blocks 1004/7807 | 321m elapsed, ~36.3h left
+[42/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_08_MY_HOLIDAYS_ESPECIALLY_ONE_HAP/part_03.md | blocks 1035/7807 | 330m elapsed, ~36.0h left | 1 links need repair
+[43/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_08_MY_HOLIDAYS_ESPECIALLY_ONE_HAP/part_04.md | blocks 1067/7807 | 338m elapsed, ~35.6h left | 1 links need repair
+[44/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_08_MY_HOLIDAYS_ESPECIALLY_ONE_HAP/part_05.md | blocks 1104/7807 | 347m elapsed, ~35.1h left
+[45/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_09_I_HAVE_A_MEMORABLE_BIRTHDAY/part_01.md | blocks 1130/7807 | 353m elapsed, ~34.8h left
+[46/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_09_I_HAVE_A_MEMORABLE_BIRTHDAY/part_02.md | blocks 1169/7807 | 361m elapsed, ~34.2h left | 1 links need repair
+[47/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_09_I_HAVE_A_MEMORABLE_BIRTHDAY/part_03.md | blocks 1190/7807 | 370m elapsed, ~34.2h left | 1 links need repair
+[48/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_09_I_HAVE_A_MEMORABLE_BIRTHDAY/part_04.md | blocks 1218/7807 | 380m elapsed, ~34.2h left
+[49/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV/part_01.md | blocks 1243/7807 | 388m elapsed, ~34.1h left | 1 links need repair
+[50/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV/part_02.md | blocks 1278/7807 | 395m elapsed, ~33.6h left | 1 links need repair
+[51/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV/part_03.md | blocks 1304/7807 | 404m elapsed, ~33.6h left | 1 links need repair
+[52/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV/part_04.md | blocks 1332/7807 | 412m elapsed, ~33.4h left | 1 links need repair
+[53/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV/part_05.md | blocks 1353/7807 | 419m elapsed, ~33.3h left | 3 links need repair
+[54/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV/part_06.md | blocks 1367/7807 | 426m elapsed, ~33.4h left
+[55/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV/part_07.md | blocks 1408/7807 | 436m elapsed, ~33.0h left | 1 links need repair
+[56/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_11_I_BEGIN_LIFE_ON_MY_OWN_ACCOUNT/part_01.md | blocks 1421/7807 | 448m elapsed, ~33.5h left | 4 links need repair
+[57/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_11_I_BEGIN_LIFE_ON_MY_OWN_ACCOUNT/part_02.md | blocks 1445/7807 | 460m elapsed, ~33.8h left | 2 links need repair
+[58/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_11_I_BEGIN_LIFE_ON_MY_OWN_ACCOUNT/part_03.md | blocks 1456/7807 | 476m elapsed, ~34.6h left | 6 links need repair
+[59/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_11_I_BEGIN_LIFE_ON_MY_OWN_ACCOUNT/part_04.md | blocks 1471/7807 | 489m elapsed, ~35.1h left | 3 links need repair
+[60/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_11_I_BEGIN_LIFE_ON_MY_OWN_ACCOUNT/part_05.md | blocks 1481/7807 | 500m elapsed, ~35.6h left | 4 links need repair
+[61/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_11_I_BEGIN_LIFE_ON_MY_OWN_ACCOUNT/part_06.md | blocks 1489/7807 | 504m elapsed, ~35.7h left
+[62/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_12_LIKING_LIFE_ON_MY_OWN_ACCOUNT/part_01.md | blocks 1521/7807 | 511m elapsed, ~35.2h left | 2 links need repair
+[63/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_12_LIKING_LIFE_ON_MY_OWN_ACCOUNT/part_02.md | blocks 1540/7807 | 519m elapsed, ~35.2h left | 1 links need repair
+[64/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_12_LIKING_LIFE_ON_MY_OWN_ACCOUNT/part_03.md | blocks 1555/7807 | 525m elapsed, ~35.2h left
+[65/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_12_LIKING_LIFE_ON_MY_OWN_ACCOUNT/part_04.md | blocks 1567/7807 | 531m elapsed, ~35.2h left | 1 links need repair
+[66/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_13_THE_SEQUEL_OF_MY_RESOLUTION/part_01.md | blocks 1585/7807 | 542m elapsed, ~35.5h left | 1 links need repair
+[67/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_13_THE_SEQUEL_OF_MY_RESOLUTION/part_02.md | blocks 1604/7807 | 549m elapsed, ~35.4h left | 1 links need repair
+[68/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_13_THE_SEQUEL_OF_MY_RESOLUTION/part_03.md | blocks 1633/7807 | 556m elapsed, ~35.0h left
+[69/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_13_THE_SEQUEL_OF_MY_RESOLUTION/part_04.md | blocks 1653/7807 | 563m elapsed, ~34.9h left
+[70/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_13_THE_SEQUEL_OF_MY_RESOLUTION/part_05.md | blocks 1678/7807 | 574m elapsed, ~34.9h left | 3 links need repair
+[71/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_13_THE_SEQUEL_OF_MY_RESOLUTION/part_06.md | blocks 1695/7807 | 581m elapsed, ~34.9h left
+[72/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_13_THE_SEQUEL_OF_MY_RESOLUTION/part_07.md | blocks 1717/7807 | 588m elapsed, ~34.8h left | 4 links need repair
+[73/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_13_THE_SEQUEL_OF_MY_RESOLUTION/part_08.md | blocks 1729/7807 | 591m elapsed, ~34.7h left
+[74/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_14_MY_AUNT_MAKES_UP_HER_MIND_ABOU/part_01.md | blocks 1758/7807 | 598m elapsed, ~34.3h left
+[75/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_14_MY_AUNT_MAKES_UP_HER_MIND_ABOU/part_02.md | blocks 1794/7807 | 605m elapsed, ~33.8h left
+[76/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_14_MY_AUNT_MAKES_UP_HER_MIND_ABOU/part_03.md | blocks 1807/7807 | 611m elapsed, ~33.8h left
+[77/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_14_MY_AUNT_MAKES_UP_HER_MIND_ABOU/part_04.md | blocks 1848/7807 | 618m elapsed, ~33.2h left
+[78/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_14_MY_AUNT_MAKES_UP_HER_MIND_ABOU/part_05.md | blocks 1874/7807 | 626m elapsed, ~33.0h left | 2 links need repair
+[79/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_14_MY_AUNT_MAKES_UP_HER_MIND_ABOU/part_06.md | blocks 1890/7807 | 630m elapsed, ~32.9h left
+[80/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_15_I_MAKE_ANOTHER_BEGINNING/part_01.md | blocks 1912/7807 | 637m elapsed, ~32.8h left | 1 links need repair
+[81/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_15_I_MAKE_ANOTHER_BEGINNING/part_02.md | blocks 1940/7807 | 645m elapsed, ~32.5h left | 1 links need repair
+[82/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_15_I_MAKE_ANOTHER_BEGINNING/part_03.md | blocks 1959/7807 | 651m elapsed, ~32.4h left
+[83/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_15_I_MAKE_ANOTHER_BEGINNING/part_04.md | blocks 1972/7807 | 654m elapsed, ~32.3h left | 1 links need repair
+[84/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_16_I_AM_A_NEW_BOY_IN_MORE_SENSES/part_01.md | blocks 2000/7807 | 661m elapsed, ~32.0h left
+[85/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_16_I_AM_A_NEW_BOY_IN_MORE_SENSES/part_02.md | blocks 2025/7807 | 673m elapsed, ~32.0h left | 2 links need repair
+[86/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_16_I_AM_A_NEW_BOY_IN_MORE_SENSES/part_03.md | blocks 2056/7807 | 679m elapsed, ~31.7h left
+[87/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_16_I_AM_A_NEW_BOY_IN_MORE_SENSES/part_04.md | blocks 2094/7807 | 687m elapsed, ~31.2h left | 1 links need repair
+[88/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_16_I_AM_A_NEW_BOY_IN_MORE_SENSES/part_05.md | blocks 2102/7807 | 697m elapsed, ~31.5h left | 8 links need repair
+[89/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_16_I_AM_A_NEW_BOY_IN_MORE_SENSES/part_06.md | blocks 2120/7807 | 703m elapsed, ~31.5h left
+[90/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_16_I_AM_A_NEW_BOY_IN_MORE_SENSES/part_07.md | blocks 2140/7807 | 710m elapsed, ~31.3h left
+[91/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_16_I_AM_A_NEW_BOY_IN_MORE_SENSES/part_08.md | blocks 2160/7807 | 716m elapsed, ~31.2h left
+[92/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_17_SOMEBODY_TURNS_UP/part_01.md | blocks 2175/7807 | 724m elapsed, ~31.2h left | 2 links need repair
+[93/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_17_SOMEBODY_TURNS_UP/part_02.md | blocks 2199/7807 | 731m elapsed, ~31.1h left | 1 links need repair
+[94/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_17_SOMEBODY_TURNS_UP/part_03.md | blocks 2224/7807 | 738m elapsed, ~30.9h left
+[95/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_17_SOMEBODY_TURNS_UP/part_04.md | blocks 2245/7807 | 745m elapsed, ~30.7h left
+[96/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_17_SOMEBODY_TURNS_UP/part_05.md | blocks 2270/7807 | 751m elapsed, ~30.5h left
+[97/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_17_SOMEBODY_TURNS_UP/part_06.md | blocks 2286/7807 | 758m elapsed, ~30.5h left
+[98/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_17_SOMEBODY_TURNS_UP/part_07.md | blocks 2299/7807 | 761m elapsed, ~30.4h left | 1 links need repair
+[99/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_18_A_RETROSPECT/part_01.md | blocks 2313/7807 | 768m elapsed, ~30.4h left | 1 links need repair
+[100/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_18_A_RETROSPECT/part_02.md | blocks 2325/7807 | 778m elapsed, ~30.6h left | 3 links need repair
+[101/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_18_A_RETROSPECT/part_03.md | blocks 2351/7807 | 783m elapsed, ~30.3h left | 1 links need repair
+[102/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_19_I_LOOK_ABOUT_ME_AND_MAKE_A_DIS/part_01.md | blocks 2377/7807 | 790m elapsed, ~30.1h left
+[103/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_19_I_LOOK_ABOUT_ME_AND_MAKE_A_DIS/part_02.md | blocks 2406/7807 | 796m elapsed, ~29.8h left | 2 links need repair
+[104/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_19_I_LOOK_ABOUT_ME_AND_MAKE_A_DIS/part_03.md | blocks 2434/7807 | 805m elapsed, ~29.6h left | 1 links need repair
+[105/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_19_I_LOOK_ABOUT_ME_AND_MAKE_A_DIS/part_04.md | blocks 2457/7807 | 815m elapsed, ~29.6h left | 1 links need repair
+[106/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_19_I_LOOK_ABOUT_ME_AND_MAKE_A_DIS/part_05.md | blocks 2478/7807 | 822m elapsed, ~29.5h left
+[107/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_19_I_LOOK_ABOUT_ME_AND_MAKE_A_DIS/part_06.md | blocks 2509/7807 | 830m elapsed, ~29.2h left | 1 links need repair
+[108/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_20_STEERFORTHS_Home_HOME/part_01.md | blocks 2531/7807 | 842m elapsed, ~29.2h left | 2 links need repair
+[109/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_20_STEERFORTHS_Home_HOME/part_02.md | blocks 2562/7807 | 848m elapsed, ~28.9h left
+[110/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_20_STEERFORTHS_Home_HOME/part_03.md | blocks 2585/7807 | 855m elapsed, ~28.8h left | 1 links need repair
+[111/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_21_LITTLE_EMLY/part_01.md | blocks 2603/7807 | 863m elapsed, ~28.7h left | 4 links need repair
+[112/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_21_LITTLE_EMLY/part_02.md | blocks 2632/7807 | 869m elapsed, ~28.5h left | 1 links need repair
+[113/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_21_LITTLE_EMLY/part_03.md | blocks 2661/7807 | 876m elapsed, ~28.2h left | 1 links need repair
+[114/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_21_LITTLE_EMLY/part_04.md | blocks 2701/7807 | 884m elapsed, ~27.8h left
+[115/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_21_LITTLE_EMLY/part_05.md | blocks 2719/7807 | 890m elapsed, ~27.8h left
+[116/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_21_LITTLE_EMLY/part_06.md | blocks 2740/7807 | 898m elapsed, ~27.7h left
+[117/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_21_LITTLE_EMLY/part_07.md | blocks 2758/7807 | 905m elapsed, ~27.6h left
+[118/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_01.md | blocks 2769/7807 | 912m elapsed, ~27.7h left | 5 links need repair
+[119/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_02.md | blocks 2804/7807 | 919m elapsed, ~27.3h left
+[120/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_03.md | blocks 2840/7807 | 926m elapsed, ~27.0h left | 1 links need repair
+[121/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_04.md | blocks 2861/7807 | 933m elapsed, ~26.9h left
+[122/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_05.md | blocks 2897/7807 | 941m elapsed, ~26.6h left | 2 links need repair
+[123/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_06.md | blocks 2929/7807 | 949m elapsed, ~26.3h left
+[124/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_07.md | blocks 2955/7807 | 956m elapsed, ~26.2h left
+[125/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_08.md | blocks 2987/7807 | 963m elapsed, ~25.9h left | 1 links need repair
+[126/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_23_I_CORROBORATE_Mr_DICK_AND_CHOO/part_01.md | blocks 3013/7807 | 970m elapsed, ~25.7h left
+[127/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_23_I_CORROBORATE_Mr_DICK_AND_CHOO/part_02.md | blocks 3036/7807 | 979m elapsed, ~25.6h left | 1 links need repair
+[128/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_23_I_CORROBORATE_Mr_DICK_AND_CHOO/part_03.md | blocks 3066/7807 | 987m elapsed, ~25.4h left | 1 links need repair
+[129/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_23_I_CORROBORATE_Mr_DICK_AND_CHOO/part_04.md | blocks 3082/7807 | 994m elapsed, ~25.4h left
+[130/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_23_I_CORROBORATE_Mr_DICK_AND_CHOO/part_05.md | blocks 3112/7807 | 1003m elapsed, ~25.2h left
+[131/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_24_MY_FIRST_DISSIPATION/part_01.md | blocks 3134/7807 | 1012m elapsed, ~25.1h left | 2 links need repair
+[132/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_24_MY_FIRST_DISSIPATION/part_02.md | blocks 3150/7807 | 1018m elapsed, ~25.1h left
+[133/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_24_MY_FIRST_DISSIPATION/part_03.md | blocks 3171/7807 | 1027m elapsed, ~25.0h left | 2 links need repair
+[134/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_25_GOOD_AND_BAD_ANGELS/part_01.md | blocks 3197/7807 | 1036m elapsed, ~24.9h left | 1 links need repair
+[135/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_25_GOOD_AND_BAD_ANGELS/part_02.md | blocks 3229/7807 | 1043m elapsed, ~24.7h left | 2 links need repair
+[136/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_25_GOOD_AND_BAD_ANGELS/part_03.md | blocks 3251/7807 | 1051m elapsed, ~24.6h left | 2 links need repair
+[137/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_25_GOOD_AND_BAD_ANGELS/part_04.md | blocks 3278/7807 | 1058m elapsed, ~24.4h left
+[138/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_25_GOOD_AND_BAD_ANGELS/part_05.md | blocks 3296/7807 | 1064m elapsed, ~24.3h left
+[139/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_25_GOOD_AND_BAD_ANGELS/part_06.md | blocks 3326/7807 | 1071m elapsed, ~24.0h left
+[140/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_25_GOOD_AND_BAD_ANGELS/part_07.md | blocks 3347/7807 | 1081m elapsed, ~24.0h left | 2 links need repair
+[141/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_26_I_FALL_INTO_CAPTIVITY/part_01.md | blocks 3359/7807 | 1089m elapsed, ~24.0h left
+[142/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_26_I_FALL_INTO_CAPTIVITY/part_02.md | blocks 3370/7807 | 1096m elapsed, ~24.1h left
+[143/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_26_I_FALL_INTO_CAPTIVITY/part_03.md | blocks 3396/7807 | 1103m elapsed, ~23.9h left | 3 links need repair
+[144/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_26_I_FALL_INTO_CAPTIVITY/part_04.md | blocks 3421/7807 | 2313m elapsed, ~49.4h left
+[145/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_26_I_FALL_INTO_CAPTIVITY/part_05.md | blocks 3434/7807 | 2323m elapsed, ~49.3h left | 2 links need repair
+[146/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_26_I_FALL_INTO_CAPTIVITY/part_06.md | blocks 3454/7807 | 2330m elapsed, ~48.9h left | 2 links need repair
+[147/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_27_TOMMY_TRADDLES/part_01.md | blocks 3477/7807 | 2336m elapsed, ~48.5h left
+[148/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_27_TOMMY_TRADDLES/part_02.md | blocks 3509/7807 | 2345m elapsed, ~47.9h left | 1 links need repair
+[149/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_27_TOMMY_TRADDLES/part_03.md | blocks 3538/7807 | 2352m elapsed, ~47.3h left | 1 links need repair
+[150/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_27_TOMMY_TRADDLES/part_04.md | blocks 3546/7807 | 2358m elapsed, ~47.2h left | 1 links need repair
+[151/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET/part_01.md | blocks 3561/7807 | 2367m elapsed, ~47.0h left | 3 links need repair
+[152/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET/part_02.md | blocks 3583/7807 | 2374m elapsed, ~46.6h left
+[153/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET/part_03.md | blocks 3621/7807 | 2383m elapsed, ~45.9h left | 2 links need repair
+[154/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET/part_04.md | blocks 3646/7807 | 2390m elapsed, ~45.5h left
+[155/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET/part_05.md | blocks 3664/7807 | 2397m elapsed, ~45.2h left | 1 links need repair
+[156/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET/part_06.md | blocks 3698/7807 | 2404m elapsed, ~44.5h left
+[157/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET/part_07.md | blocks 3725/7807 | 2412m elapsed, ~44.1h left | 2 links need repair
+[158/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_29_I_VISIT_STEERFORTH_AT_HIS_Home/part_01.md | blocks 3747/7807 | 2423m elapsed, ~43.8h left | 6 links need repair
+[159/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_29_I_VISIT_STEERFORTH_AT_HIS_Home/part_02.md | blocks 3775/7807 | 2430m elapsed, ~43.2h left
+[160/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_29_I_VISIT_STEERFORTH_AT_HIS_Home/part_03.md | blocks 3798/7807 | 2434m elapsed, ~42.8h left
+[161/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_30_A_LOSS/part_01.md | blocks 3826/7807 | 2442m elapsed, ~42.4h left | 2 links need repair
+[162/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_30_A_LOSS/part_02.md | blocks 3855/7807 | 2449m elapsed, ~41.8h left
+[163/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_30_A_LOSS/part_03.md | blocks 3880/7807 | 2457m elapsed, ~41.4h left | 1 links need repair
+[164/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_31_A_GREATER_LOSS/part_01.md | blocks 3897/7807 | 2464m elapsed, ~41.2h left
+[165/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_31_A_GREATER_LOSS/part_02.md | blocks 3924/7807 | 2474m elapsed, ~40.8h left | 3 links need repair
+[166/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_31_A_GREATER_LOSS/part_03.md | blocks 3969/7807 | 2483m elapsed, ~40.0h left
+[167/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_32_THE_BEGINNING_OF_A_LONG_Journe/part_01.md | blocks 3992/7807 | 2490m elapsed, ~39.7h left
+[168/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_32_THE_BEGINNING_OF_A_LONG_Journe/part_02.md | blocks 4014/7807 | 2498m elapsed, ~39.3h left | 2 links need repair
+[169/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_32_THE_BEGINNING_OF_A_LONG_Journe/part_03.md | blocks 4035/7807 | 2505m elapsed, ~39.0h left
+[170/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_32_THE_BEGINNING_OF_A_LONG_Journe/part_04.md | blocks 4058/7807 | 2512m elapsed, ~38.7h left
+[171/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_32_THE_BEGINNING_OF_A_LONG_Journe/part_05.md | blocks 4075/7807 | 2518m elapsed, ~38.4h left | 6 links need repair
+[172/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_32_THE_BEGINNING_OF_A_LONG_Journe/part_06.md | blocks 4102/7807 | 2525m elapsed, ~38.0h left
+[173/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_32_THE_BEGINNING_OF_A_LONG_Journe/part_07.md | blocks 4129/7807 | 2532m elapsed, ~37.6h left
+[174/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_33_BLISSFUL/part_01.md | blocks 4144/7807 | 2542m elapsed, ~37.4h left | 4 links need repair
+[175/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_33_BLISSFUL/part_02.md | blocks 4175/7807 | 2549m elapsed, ~37.0h left
+[176/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_33_BLISSFUL/part_03.md | blocks 4183/7807 | 2556m elapsed, ~36.9h left
+[177/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_33_BLISSFUL/part_04.md | blocks 4203/7807 | 2563m elapsed, ~36.6h left
+[178/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_33_BLISSFUL/part_05.md | blocks 4222/7807 | 2570m elapsed, ~36.4h left
+[179/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_33_BLISSFUL/part_06.md | blocks 4253/7807 | 2579m elapsed, ~35.9h left
+[180/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_34_MY_AUNT_ASTONISHES_ME/part_01.md | blocks 4277/7807 | 2586m elapsed, ~35.6h left
+[181/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_34_MY_AUNT_ASTONISHES_ME/part_02.md | blocks 4302/7807 | 2592m elapsed, ~35.2h left
+[182/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_34_MY_AUNT_ASTONISHES_ME/part_03.md | blocks 4343/7807 | 2602m elapsed, ~34.6h left | 2 links need repair
+[183/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_35_DEPRESSION/part_01.md | blocks 4366/7807 | 2608m elapsed, ~34.3h left | 1 links need repair
+[184/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_35_DEPRESSION/part_02.md | blocks 4403/7807 | 2616m elapsed, ~33.7h left | 1 links need repair
+[185/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_35_DEPRESSION/part_03.md | blocks 4427/7807 | 2622m elapsed, ~33.4h left
+[186/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_35_DEPRESSION/part_04.md | blocks 4457/7807 | 2629m elapsed, ~32.9h left
+[187/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_35_DEPRESSION/part_05.md | blocks 4479/7807 | 2639m elapsed, ~32.7h left | 2 links need repair
+[188/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_35_DEPRESSION/part_06.md | blocks 4501/7807 | 2646m elapsed, ~32.4h left
+[189/323] ok Authors/Dickens/Atomized/David_Copperfield/Chapter_35_DEPRESSION/part_07.md | blocks 4523/7807 | 2654m elapsed, ~32.1h left | 1 links need repair
+[2026-07-31 18:28:52] === BOOK END David_Copperfield (exit 137, now 323/323) ===
+notify_gas_mail: sent to gio.borghi@gmail.com
+[2026-07-31 18:28:54] === SKIP Bleak_House (already 325/325) ===
+[2026-07-31 18:28:54] === SKIP Little_Dorrit (already 318/318) ===
+[2026-07-31 18:28:54] === SKIP Dombey_and_Son (already 362/362) ===
+[2026-07-31 18:28:54] === SKIP Our_Mutual_Friend (already 309/309) ===
+[2026-07-31 18:28:54] === SKIP Martin_Chuzzlewit (already 316/316) ===
+[2026-07-31 18:28:54] === SKIP Barnaby_Rudge (already 230/230) ===
+[2026-07-31 18:28:54] === SKIP The_Pickwick_Papers (already 290/290) ===
+[2026-07-31 18:28:54] === SKIP The_Mystery_of_Edwin_Drood (already 90/90) ===
+[2026-07-31 18:28:54] === SKIP Sketches_by_Boz (already 228/228) ===
+[2026-07-31 18:28:54] === SKIP American_Notes (already 96/96) ===
+[2026-07-31 18:28:54] === SKIP A_Childs_History_of_England (already 29/29) ===
+[2026-07-31 18:28:54] === catalogue sweep finished ===
+[2026-07-31 18:28:55] === catalogue launcher done -> run_logs/dickens_all.DONE written ===
+notify_gas_mail: sent to gio.borghi@gmail.com

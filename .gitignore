@@ -45,3 +45,11 @@ data/search-full-index.json
 
 # Derived translation cache: >100MB, regenerable via scripts/translate/gkc_emit_vault.py; synced across machines by Dropbox, not git
 data/translations_pages.jsonl
+
+# Derived HY/Tower block caches and their timestamped backups: 20-150MB each, fully
+# regenerable by the translate scripts, and >100MB is a hard GitHub push limit.
+# Dropbox carries them between the Mac and the Windows box; git does not.
+# (data/gkc_tower_cache.jsonl predates this rule and stays tracked.)
+data/*_cache.jsonl
+data/*.bak-*
+data/dickens_hy_linkfix.jsonl

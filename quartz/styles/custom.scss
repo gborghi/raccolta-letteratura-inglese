@@ -2075,6 +2075,17 @@ footer a:hover {
   color: var(--secondary);
 }
 
+// The plugin lays the links out as a single non-wrapping row; the AI disclosure is
+// a sentence, not a menu entry, so let the row wrap and give that one its own line.
+footer ul {
+  flex-wrap: wrap;
+  row-gap: 0.35rem;
+}
+
+footer li:has(> a[href="/intelligenza-artificiale"]) {
+  flex-basis: 100%;
+}
+
 // ---- axis-grouped tag chips (axisTags.inline.ts) ----
 // A leaf carries up to forty tags. Undifferentiated they are noise; grouped by
 // their own prefix (concept/, motif/, character/, …) they become an index.

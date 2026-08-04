@@ -1,0 +1,4 @@
+07:43:47 ### atom mail tailer | glob=/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/run_logs/rescue_*.log to=gio.borghi@gmail.com every=1
+21:14:43 ### atom mail tailer | glob=/Users/g.borghi/Library/CloudStorage/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/quartz-eng-lit/scripts/translate/run_logs/*.log to=gio.borghi@gmail.com every=1
+23:33:27 mail FAILED for Authors/Conan_Doyle/Atomized/THE_BRITISH_CAMPAIGN_IN_FRANCE_AND_FLANDERS_VOLUME/Chapter_11/part_09.md: The read operation timed out
+11:13:05 mail FAILED for Authors/Conan_Doyle/Atomized/THE_HISTORY_OF_SPIRITUALISM_VOLUME_I/Chapter_11.md: The read operation timed out

@@ -1,0 +1,24 @@
+07:41:30 ### rescue rejected atoms | found 879 still-missing
+07:41:30   atom Authors/Conan_Doyle/Atomized/DANGER_AND_OTHER_STORIES/Story_04_DANGER_STORY_IV_THE_FALL_OF_LORD_BARRYMO/part_12.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:45:28     -> FIXED via HY retry #1
+07:45:28   atom Authors/Conan_Doyle/Atomized/DANGER_AND_OTHER_STORIES/Story_04_DANGER_STORY_IV_THE_FALL_OF_LORD_BARRYMO/part_13.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:45:53     -> FIXED via HY retry #1
+07:45:53   atom Authors/Conan_Doyle/Atomized/GREAT_BRITAIN_AND_THE_NEXT_WAR/part/part_01.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:46:56     -> FIXED via HY retry #1
+07:46:56   atom Authors/Conan_Doyle/Atomized/GREAT_BRITAIN_AND_THE_NEXT_WAR/part/part_02.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:47:06     -> FIXED via HY retry #1
+07:47:06   atom Authors/Conan_Doyle/Atomized/HIS_LAST_BOW/Story_01_The_Adventure_of_Wisteria_Lodge/part_01.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:47:32     -> FIXED via HY retry #1
+07:47:32   atom Authors/Conan_Doyle/Atomized/HIS_LAST_BOW/Story_01_The_Adventure_of_Wisteria_Lodge/part_02.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:48:05     -> FIXED via HY retry #1
+07:48:05   atom Authors/Conan_Doyle/Atomized/HIS_LAST_BOW/Story_02_The_Adventure_of_the_Cardboard_Box.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:48:55     -> FIXED via HY retry #1
+07:48:55   atom Authors/Conan_Doyle/Atomized/HIS_LAST_BOW/Story_03_The_Adventure_of_the_Red_Circle.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:49:24     -> FIXED via HY retry #1
+07:49:24   atom Authors/Conan_Doyle/Atomized/HIS_LAST_BOW/Story_05_The_Adventure_of_the_Dying_Detective.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:49:54     -> FIXED via HY retry #1
+07:49:54   atom Authors/Conan_Doyle/Atomized/HIS_LAST_BOW/Story_06_The_Disappearance_of_Lady_Frances_Carfax.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:50:23     -> FIXED via HY retry #1
+07:50:23   atom Authors/Conan_Doyle/Atomized/HIS_LAST_BOW/Story_07_The_Adventure_of_the_Devils_Foot.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)
+07:51:02     -> FIXED via HY retry #1
+07:51:02   atom Authors/Conan_Doyle/Atomized/HIS_LAST_BOW/Story_08_His_Last_Bow_The_War_Service_of_Sherlock.md  (was: HY call failed: <HTTPError 400: 'Bad Request'>)

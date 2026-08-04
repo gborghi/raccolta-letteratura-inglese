@@ -1,0 +1,90 @@
+20:24:51 ### rescue rejected atoms | found 8 still-missing
+20:24:51   atom Authors/Chesterton/Atomized/All_I_Survey/Chapter_23.md  (was: leftover mask token(s): 2 (e.g. [[L02..))
+20:26:43     -> FIXED via Opus-5
+20:26:43   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_01_PAGE/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:28:42     -> FIXED via Opus-5
+20:28:42   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_01_PAGE/part_07.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:30:58     -> FIXED via Opus-5
+20:30:58   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_01_PAGE/part_09.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:33:13     -> FIXED via Opus-5
+20:33:13   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_01_PAGE/part_24.md  (was: leftover mask token(s): 3 (e.g. [[L01..))
+20:35:17     -> FIXED via Opus-5
+20:35:17   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_celebrated_characters_who_are/part_04.md  (was: leftover mask token(s): 1 (e.g. [[L02..))
+20:37:51     -> FIXED via Opus-5
+20:37:51   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_celebrated_characters_who_are/part_15.md  (was: leftover mask token(s): 3 (e.g. [[L01..))
+20:40:18     -> FIXED via Opus-5
+20:40:18   atom Authors/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_celebrated_characters_who_are/part_27.md  (was: leftover mask token(s): 5 (e.g. [[L01..))
+20:42:18     -> FIXED via Opus-5
+20:42:18 ### done | fixed 8 | UNRESOLVED 0
+20:43:39 ### rescue rejected atoms | found 5 still-missing
+20:43:39   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_01_Clue_Of_The_Pressman/part_04.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:45:13     -> FIXED via Opus-5
+20:45:13   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_02_The_Moderate_Murderer.md  (was: leftover mask token(s): 4 (e.g. [[L01..))
+20:49:01     -> FIXED via Opus-5
+20:49:01   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_03_Ii_The_Boy_Who_Made_A_Scene/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:51:00     -> UNRESOLVED: HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/FourFaultlessFelons/Story_03_Ii_The_Boy_Who_Made_A_Scene/part_01.md", "status": "REJECT", "problems": ["block count 88 EN vs 87 IT (emitter would skip page)"]}
+20:51:00   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_04_Iii_The_Man_Who_Could_Not_Hate/part_05.md  (was: leftover mask token(s): 4 (e.g. [[L01..))
+20:53:20     -> UNRESOLVED: HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/FourFaultlessFelons/Story_04_Iii_The_Man_Who_Could_Not_Hate/part_05.md", "status": "REJECT", "problems": ["block count 88 EN vs 87 IT (emitter would skip page)"]}
+20:53:20   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_05_V_The_Theory_Of_Moderate_Murder/part_02.md  (was: leftover mask token(s): 2 (e.g. [[L01..))
+20:55:32     -> FIXED via Opus-5
+20:55:32 ### done | fixed 3 | UNRESOLVED 2
+20:55:32     !!! still broken: Authors/Chesterton/Atomized/FourFaultlessFelons/Story_03_Ii_The_Boy_Who_Made_A_Scene/part_01.md -- HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/FourFaultlessFelons/Story_03_Ii_The_Boy_Who_Made_A_Scene/part_01.md", "status": "REJECT", "problems": ["block count 88 EN vs 87 IT (emitter would skip page)"]}
+20:55:32     !!! still broken: Authors/Chesterton/Atomized/FourFaultlessFelons/Story_04_Iii_The_Man_Who_Could_Not_Hate/part_05.md -- HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/FourFaultlessFelons/Story_04_Iii_The_Man_Who_Could_Not_Hate/part_05.md", "status": "REJECT", "problems": ["block count 88 EN vs 87 IT (emitter would skip page)"]}
+20:57:33 ### rescue rejected atoms | found 5 still-missing
+20:57:33   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_03_Ii_The_Boy_Who_Made_A_Scene/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+20:59:55     -> UNRESOLVED: HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/FourFaultlessFelons/Story_03_Ii_The_Boy_Who_Made_A_Scene/part_01.md", "status": "REJECT", "problems": ["block count 88 EN vs 87 IT (emitter would skip page)"]}
+20:59:55   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_04_Iii_The_Man_Who_Could_Not_Hate/part_05.md  (was: leftover mask token(s): 4 (e.g. [[L01..))
+21:02:24     -> UNRESOLVED: HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/FourFaultlessFelons/Story_04_Iii_The_Man_Who_Could_Not_Hate/part_05.md", "status": "REJECT", "problems": ["block count 88 EN vs 87 IT (emitter would skip page)"]}
+21:02:24   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_12_The_Ecstatic_Thief/part_02.md  (was: leftover mask token(s): 3 (e.g. [[L01..))
+21:05:09     -> FIXED via Opus-5
+21:05:09   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_17_Ii_The_Procession_Of_The_Plotters/part_02.md  (was: leftover mask token(s): 1 (e.g. [[L02..))
+21:07:34     -> FIXED via Opus-5
+21:07:34   atom Authors/Chesterton/Atomized/FourFaultlessFelons/Story_18_Iii_The_Princess_Intervenes/part_04.md  (was: leftover mask token(s): 1 (e.g. [[L01..))
+21:08:57     -> UNRESOLVED: HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/FourFaultlessFelons/Story_18_Iii_The_Princess_Intervenes/part_04.md", "status": "REJECT", "problems": ["block count 52 EN vs 51 IT (emitter would skip page)"]}
+21:08:57 ### done | fixed 2 | UNRESOLVED 3
+21:08:57     !!! still broken: Authors/Chesterton/Atomized/FourFaultlessFelons/Story_03_Ii_The_Boy_Who_Made_A_Scene/part_01.md -- HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/FourFaultlessFelons/Story_03_Ii_The_Boy_Who_Made_A_Scene/part_01.md", "status": "REJECT", "problems": ["block count 88 EN vs 87 IT (emitter would skip page)"]}
+21:08:57     !!! still broken: Authors/Chesterton/Atomized/FourFaultlessFelons/Story_04_Iii_The_Man_Who_Could_Not_Hate/part_05.md -- HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/FourFaultlessFelons/Story_04_Iii_The_Man_Who_Could_Not_Hate/part_05.md", "status": "REJECT", "problems": ["block count 88 EN vs 87 IT (emitter would skip page)"]}
+21:08:57     !!! still broken: Authors/Chesterton/Atomized/FourFaultlessFelons/Story_18_Iii_The_Princess_Intervenes/part_04.md -- HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/FourFaultlessFelons/Story_18_Iii_The_Princess_Intervenes/part_04.md", "status": "REJECT", "problems": ["block count 52 EN vs 51 IT (emitter would skip page)"]}
+21:11:35 ### rescue rejected atoms | found 0 still-missing
+21:11:35 nothing to do -- no rejected atom lacks a .it.md
+21:15:54 ### rescue rejected atoms | found 1 still-missing
+21:15:54   atom Authors/Chesterton/Atomized/MrPond/Story_04_A_Tall_Story/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L02..))
+21:18:18     -> FIXED via Opus-5
+21:18:18 ### done | fixed 1 | UNRESOLVED 0
+21:20:19 ### rescue rejected atoms | found 0 still-missing
+21:20:19 nothing to do -- no rejected atom lacks a .it.md
+21:22:19 ### rescue rejected atoms | found 0 still-missing
+21:22:19 nothing to do -- no rejected atom lacks a .it.md
+21:24:19 ### rescue rejected atoms | found 0 still-missing
+21:24:19 nothing to do -- no rejected atom lacks a .it.md
+21:26:19 ### rescue rejected atoms | found 0 still-missing
+21:26:19 nothing to do -- no rejected atom lacks a .it.md
+21:28:19 ### rescue rejected atoms | found 0 still-missing
+21:28:19 nothing to do -- no rejected atom lacks a .it.md
+21:30:19 ### rescue rejected atoms | found 0 still-missing
+21:30:19 nothing to do -- no rejected atom lacks a .it.md
+21:32:20 ### rescue rejected atoms | found 0 still-missing
+21:32:20 nothing to do -- no rejected atom lacks a .it.md
+21:36:21 ### rescue rejected atoms | found 0 still-missing
+21:36:21 nothing to do -- no rejected atom lacks a .it.md
+21:38:21 ### rescue rejected atoms | found 1 still-missing
+21:38:21   atom Authors/Chesterton/Atomized/The_Flying_Inn/Chapter_10_THE_CHARACTER_OF_quoodle_QUOOD/part_03.md  (was: invented wikilink targets: ['Wonder'])
+21:40:11     -> FIXED via Opus-5
+21:40:11 ### done | fixed 1 | UNRESOLVED 0
+21:42:12 ### rescue rejected atoms | found 0 still-missing
+21:42:12 nothing to do -- no rejected atom lacks a .it.md
+21:44:12 ### rescue rejected atoms | found 1 still-missing
+21:44:12   atom Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L02..))
+21:45:59     -> UNRESOLVED: HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md", "status": "ERROR", "error": "block count 130 IT vs 129 prose EN"}
+21:45:59 ### done | fixed 0 | UNRESOLVED 1
+21:45:59     !!! still broken: Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md -- HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md", "status": "ERROR", "error": "block count 130 IT vs 129 prose EN"}
+21:47:59 ### rescue rejected atoms | found 1 still-missing
+21:47:59   atom Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L02..))
+21:49:49     -> UNRESOLVED: HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md", "status": "ERROR", "error": "block count 130 IT vs 129 prose EN"}
+21:49:49 ### done | fixed 0 | UNRESOLVED 1
+21:49:49     !!! still broken: Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md -- HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md", "status": "ERROR", "error": "block count 130 IT vs 129 prose EN"}
+21:51:49 ### rescue rejected atoms | found 1 still-missing
+21:51:49   atom Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md  (was: leftover mask token(s): 1 (e.g. [[L02..))
+21:53:39     -> UNRESOLVED: HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md", "status": "ERROR", "error": "block count 130 IT vs 129 prose EN"}
+21:53:39 ### done | fixed 0 | UNRESOLVED 1
+21:53:39     !!! still broken: Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md -- HY 0x -> ['HY skipped (--hy-tries 0)'] | opus write rejected: {"atom": "Authors/Chesterton/Atomized/WineWaterSong/part/part_01.md", "status": "ERROR", "error": "block count 130 IT vs 129 prose EN"}
