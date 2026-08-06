@@ -22,6 +22,13 @@ const SOFT = { 0: 5_000_000, 1: 6_000_000, 2: 14_000_000, 3: 9_000_000 }
 
 const isAtom = (slug) => slug.includes("#")
 
+// Generated navigation shells, kept out of the results list. They hold no prose of
+// their own — the wheel and the excerpt table are rendered client-side — so they can
+// only ever match on their own chrome, and they rank first on any generic query
+// because their slugs are one segment long. The left sidebar already hides them
+// (see the explorer `filterFn` in quartz.config.yaml); this is the search half.
+export const HIDDEN_SLUGS = new Set(["index", "brani"])
+
 // contentFor(doc, n, S): readable S-char snippet + top-n ranked terms.
 export function contentFor(doc, n, S) {
   const snip = (doc.snippet || "").slice(0, S)
@@ -36,7 +43,10 @@ export function contentFor(doc, n, S) {
 export function buildShards(master) {
   const works = []
   const atoms = []
-  for (const [slug, d] of Object.entries(master)) (isAtom(slug) ? atoms : works).push([slug, d])
+  for (const [slug, d] of Object.entries(master)) {
+    if (HIDDEN_SLUGS.has(slug)) continue
+    ;(isAtom(slug) ? atoms : works).push([slug, d])
+  }
 
   const t0 = works.map(([s, d]) => ({
     s,

@@ -11,6 +11,22 @@ const master = {
     snippet: "s".repeat(700),
     terms: Array.from({ length: 500 }, (_, i) => [`term${i}`, 500 - i]),
   },
+  index: {
+    title: "English Literature — A Knowledge Graph",
+    slug: "index",
+    tags: [],
+    links: ["brani"],
+    snippet: "homepage chrome",
+    terms: [["graph", 1]],
+  },
+  brani: {
+    title: "Brani / Excerpts",
+    slug: "brani",
+    tags: [],
+    links: [],
+    snippet: "excerpt table chrome",
+    terms: [["excerpts", 1]],
+  },
   "testi/w1#a2": {
     title: "A2 — W1",
     slug: "testi/w1#a2",
@@ -62,6 +78,15 @@ test("t3 delta = WORKS ONLY, {s,c}, top500/700 (atoms not re-shipped)", () => {
   assert.ok(w.c.includes("term499"))
   assert.equal(w.c.slice(0, 700), "s".repeat(700))
   assert.ok(!t3.entries.some((e) => e.s.includes("#"))) // atoms excluded
+})
+
+test("navigation shells (index, brani) are in no tier", () => {
+  const shards = buildShards(master)
+  for (const t of ["t0", "t1", "t2", "t3"]) {
+    const slugs = shards[t].entries.map((e) => e.s)
+    assert.ok(!slugs.includes("index"), `${t} still ships the homepage`)
+    assert.ok(!slugs.includes("brani"), `${t} still ships the excerpt index`)
+  }
 })
 
 test("chunkBySize splits into size-bounded contiguous buckets covering all entries", () => {
